@@ -134,19 +134,6 @@ related:
       - url: "https://cdn.nextgov.com/media/img/upload/2020/02/13/NGborder20200213/open-graph.jpg"
         width: 400
         height: 400
-  - title: "House Hearing on Facial Recognition Technology Uses at Homeland Security Dept."
-    excerpt: "Homeland Security Department officials testify on how the agency uses facial recognition technology to conduct its mission."
-    publishedDateTime: 2020-02-06T17:06:00Z
-    webUrl: "https://www.c-span.org/video/?469047-1/homeland-security-officials-testify-facial-recognition-technology-usage"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
-    images:
-      - url: "https://images.c-span.org/Files/296/1581003713.jpg/Thumbs/height.630.no_border.width.1200.jpg"
-        width: 1200
-        height: 630
 
 secured: "v4PndhVYzhMT9tbK3iEgCCIQttfzguFEAbXctQtpvWWqvVVTdHi7AtLilCTQB1U8Tft9B7e/fqFv6chx3sI71OQ0bl6tQZ5hpXDzFL0Rmlfps9GNU15di/DJDNLE/EeSO/GlCNH+1Fqro6ecy95lX4UM/iUtkreXTO9cvoAY01gW5sUQH4hoNF4uNB7V93yK9opjA407pwDTM+pUrupR9QG5XCs7Fnu6fgg2cZ0VUthWdn5XfeZicVzcaGE6uorzp7eLS1NQO8tAT4okEPRLZueWLFygl5iOXNmSHHW3bUTGFEaXjOb1Nx6+YrJrQ68j;5SEMT//5jk78P1nNev0t6A=="
 ---

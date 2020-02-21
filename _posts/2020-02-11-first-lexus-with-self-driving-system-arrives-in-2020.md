@@ -24,54 +24,45 @@ images:
     title: "First Lexus with self-driving system arrives in 2020"
 
 related:
-  - title: "Who Is Responsible In A Crash With A Self-Driving Car?"
-    excerpt: "It's not just the car manufacturers. It turns out that people take advantage of conservative self-driving cars to act more reckless."
-    publishedDateTime: 2020-02-06T17:06:00Z
-    webUrl: "https://www.forbes.com/sites/fernandezelizabeth/2020/02/06/who-is-responsible-in-a-crash-with-a-self-driving-car/"
-    ampWebUrl: "https://www.forbes.com/sites/fernandezelizabeth/2020/02/06/who-is-responsible-in-a-crash-with-a-self-driving-car/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/fernandezelizabeth/2020/02/06/who-is-responsible-in-a-crash-with-a-self-driving-car/amp/"
+  - title: "GM's Super Cruise Self-Driving Tech Will Be on 22 Vehicles by 2023"
+    excerpt: "GM is finally expanding its hands-free Super Cruise driver-assist system beyond the Cadillac brand. According to GM president Mark Reuss, the feature will be available as an option on 22 vehicles by 2023, with seven vehicles getting the feature next year and 12 more in 2022 and 2023. This, it goes without saying, is a huge expansion of the ..."
+    publishedDateTime: 2020-02-06T18:42:00Z
+    webUrl: "https://www.caranddriver.com/news/a30795396/gm-super-cruise-self-driving-2023/"
+    ampWebUrl: "https://www.caranddriver.com/news/amp30795396/gm-super-cruise-self-driving-2023/"
+    cdnAmpWebUrl: "https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp30795396/gm-super-cruise-self-driving-2023/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
+      name: Car and Driver
+      domain: caranddriver.com
+    quality: 44
     images:
-      - url: "https://thumbor.forbes.com/thumbor/711x459/https://specials-images.forbesimg.com/imageserve/5e20c343980ca10006aa994c/960x0.jpg?fit=scale"
-        width: 711
-        height: 459
-  - title: "China is betting on slow but steady to win the self-driving car race"
-    excerpt: "Just don’t expect that revolution to come quickly. In the United States, individual states are taking the lead in deciding how self-driving cars will be rolled out in their communities ..."
-    publishedDateTime: 2020-02-10T20:43:00Z
-    webUrl: "https://qz.com/1682184/china-is-betting-on-slow-but-steady-to-win-the-self-driving-car-race/"
-    ampWebUrl: "https://qz.com/1682184/china-is-betting-on-slow-but-steady-to-win-the-self-driving-car-race/amp/"
-    cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/1682184/china-is-betting-on-slow-but-steady-to-win-the-self-driving-car-race/amp/"
+      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/0127-super-cruise-lane-change-photo-final-1580163336.jpg?crop=1.00xw:0.747xh;0,0.165xh&resize=1200:*"
+        width: 1200
+        height: 601
+  - title: "Waymo self-driving vehicle in collision in Phoenix suburb"
+    excerpt: "TEMPE, Ariz. (AP) — A Waymo self-driving vehicle was involved in a collision with another vehicle in a Phoenix suburb and the driver of the Waymo vehicle was taken to a hospital with non-life threatening injuries,"
+    publishedDateTime: 2020-02-09T03:32:00Z
+    webUrl: "https://www.herald-dispatch.com/ap/ap_business/waymo-self-driving-vehicle-in-collision-in-phoenix-suburb/article_92c577c4-c2b3-5bc3-b384-d67125bbb2e3.html"
     type: article
     provider:
-      name: Quartz
-      domain: qz.com
-    quality: 74
+      name: The Herald-Dispatch
+      domain: herald-dispatch.com
+    quality: 39
     images:
-      - url: "https://cms.qz.com/wp-content/uploads/2019/08/WeRide-2019-e1565581419367.jpg?quality=75&strip=all&w=1400"
-        width: 1400
-        height: 788
-  - title: "Can self-driving cars handle Canadian winters?"
-    excerpt: "University of Toronto professor Steven Waslander talks about a new study, which will be used to determine whether self-driving cars can handle the snow and ice from harsh Canadian winters. <iframe src=\"https://globalnews.ca/video/embed/6535979/\" width=\"670\" height=\"372\" frameborder=\"0\" allowfullscreen scrolling=\"no\"></iframe> <style>.gn-embed ..."
-    publishedDateTime: 2020-02-11T16:22:00Z
-    webUrl: "https://globalnews.ca/video/6535979/can-self-driving-cars-handle-canadian-winters"
+      - url: "https://bloximages.newyork1.vip.townnews.com/herald-dispatch.com/content/tncms/custom/image/10aba90e-dd9e-11e6-8368-ebae1dfc24e1.png?resize=600%2C600"
+        width: 600
+        height: 600
+  - title: "GM Rolling Out Super Cruise Self-Driving Tech To 22 Models Across The Board By 2023"
+    excerpt: "An enhanced version will be introduced later this year and feature a new automated lane change function. When the self-driving tech is activated, users simply need to tap the turn signal to indicate that they want to change lanes. When an appropriate opening has been found, the vehicle will automatically switch lanes. Besides the new lane ..."
+    publishedDateTime: 2020-02-06T22:31:00Z
+    webUrl: "https://www.carscoops.com/2020/02/gm-rolling-out-super-cruise-self-driving-tech-to-22-models-across-the-board-by-2023/"
+    ampWebUrl: "https://www.carscoops.com/2020/02/gm-rolling-out-super-cruise-self-driving-tech-to-22-models-across-the-board-by-2023/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2020/02/gm-rolling-out-super-cruise-self-driving-tech-to-22-models-across-the-board-by-2023/amp/"
     type: article
     provider:
-      name: Global News
-      domain: globalnews.ca
-    quality: 4
-  - title: "The Man Behind the 1990s' Hottest Supercar Is Coming Out with a Self-Driving Pod"
-    excerpt: "The Motiv is similarly quite small, very lightweight, and runs on electric power. It has an aluminum suspension, ultra-lightweight high-strength extruded aluminum in the chassis, and composite body panels and doors that hold its weight below 992 pounds (sans batteries, at least). Measuring just 100 inches long and 52 inches wide, the compact ..."
-    publishedDateTime: 2020-02-10T21:54:00Z
-    webUrl: "https://www.motortrend.com/news/motiv-mclaren-f1-designer-autonomous-pod/"
-    type: article
-    provider:
-      name: Motor Trend
-      domain: motortrend.com
-    quality: 0
+      name: Carscoops
+      domain: carscoops.com
+    quality: 18
 
 secured: "plJQxv9iMBGC/2/i8K8w7Gitjn9jBWCG6xeC5UN0XiNOUx5EI4GJXgrgqBn/oBZg4jYnoN/jisX2amOR4Rys8iSqXqkp0YRuC1nRA63V1Kj/ozmusP1WOUz8fSBEnCtB5FDUu9zI5+O70YwQzPIIN8u77QgM0S10Jbyv/3Q/hKgsNnQ+Ll+hN1db8D18nKs6gMQiMU5cjqDiGRisPOZxfeAe7+PSCO68ZflpLqEhZ2I9NcBEYyDIPYktiVDwEtPtQzP+HB5RCXoR+dc8u5ilVDetbt7c+cug2pmxGeiqIHopVS7zQDmrisGb8wol5OlHL8dkXhBnbsgucfbt3tQAPKHeoerPK00YGlQNv4NGCHZUd9ZvChXfE7IiGv41ijhglmwoq4r0y3Z81j4fG8PAhg/agUGF5+fQie7u4TVv92og7/NP3HBJ4LzbCaj89PaDscFgaIHmQ5N9eaB5jLiJQeKbarSBIDUsGZJxsYrtnSk=;i94uZ0PV1yNOkh090SbzkQ=="
 ---

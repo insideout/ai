@@ -447,19 +447,6 @@ related:
       - url: "https://www.pe.com/wp-content/uploads/2020/02/IDB-L-CHINOPD-0212-16x9-1-1.jpg?w=1024&h=579"
         width: 1024
         height: 578
-  - title: "Facial recognition company CEO speaks out"
-    excerpt: "Watch \"CEO of controversial facial recognition company speaks out about privacy concerns\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-02-06T17:07:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20200206152942-ceo-of-controversial-facial-recognition-company-speaks-out-about-privacy-concerns/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 39
-    images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/02/06/story_03953211_1581003003.jpg"
-        width: 480
-        height: 270
   - title: "EU Softens Stance On 5-Year Ban Of Facial Recognition Tech"
     excerpt: "The European Union won’t be passing a blanket moratorium on facial recognition software after initially signaling that it would do so. Instead, it plans to leave the responsibility to member states. That decision has faced backlash from privacy advocates, who say civil liberties could be at risk from facial recognition due to its potential ..."
     publishedDateTime: 2020-02-12T11:59:00Z

@@ -24,65 +24,34 @@ images:
     title: "Self-driving vehicle law hits a speed bump"
 
 related:
-  - title: "Nuro's R2 vehicle has been granted the NHTSA's first regulatory exemption for a custom self-driving car"
-    excerpt: "Self-driving cars: Nuro is a well-known entity in the autonomous vehicle industry. It's partnered up with companies like Kroger and Dominos in the past to offer driverless food and grocery delivery services via its \"R1\" generation of vehicles. Now ..."
-    publishedDateTime: 2020-02-07T22:57:00Z
-    webUrl: "https://www.techspot.com/news/83926-nuro-has-granted-nhtsa-first-regulatory-exemption-custom.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/83926-nuro-has-granted-nhtsa-first-regulatory-exemption-custom.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83926-nuro-has-granted-nhtsa-first-regulatory-exemption-custom.html"
+  - title: "Self-driving electric powered vehicle that changes COLOUR could be on the roads by 2050"
+    excerpt: "But this appears set o change with the implementation of self-driving tech from firms such as Tesla and Waymo, and legislation stating diesel and petrol cars will be obsolete in the next 15 years. And it appears that by 2050, the transport industry will ..."
+    publishedDateTime: 2020-02-17T14:50:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8012769/Self-driving-electric-powered-vehicle-changes-COLOUR-roads-2050.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8012769/amp/Self-driving-electric-powered-vehicle-changes-COLOUR-roads-2050.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8012769/amp/Self-driving-electric-powered-vehicle-changes-COLOUR-roads-2050.html"
     type: article
     provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 58
+      name: Mail Online
+      domain: dailymail.co.uk
+    quality: 36
     images:
-      - url: "https://static.techspot.com/images2/news/ts3_thumbs/2020/02/2020-02-07-ts3_thumbs-3a9.jpg"
-        width: 800
-        height: 560
-  - title: "The feds just blessed a custom self-driving vehicle for the first time"
-    excerpt: "The National Highway Traffic Safety Administration on Thursday officially signed off on a new self-driving vehicle from the the delivery startup Nuro. It's an historic move; Nuro says it's the first time NHTSA has exempted a self-driving vehicle from regulatory requirements that apply to conventional vehicles. Nuro's new delivery vehicle ..."
-    publishedDateTime: 2020-02-07T12:30:00Z
-    webUrl: "https://arstechnica.com/cars/2020/02/the-feds-just-blessed-a-custom-self-driving-vehicle-for-the-first-time/"
+      - url: "https://i.dailymail.co.uk/1s/2020/02/17/14/24841066-0-image-a-6_1581950107383.jpg"
+        width: 636
+        height: 382
+  - title: "How should self-driving cars decide who to kill? by Mark Buchanan"
+    excerpt: "Not too long ago, tech enthusiasts were telling us that by 2020, we’d see self-driving cars hit the mainstream, with some 10 million on the roads. That turned out to be a wild overestimation. The actual number of vehicles in testing is thousands of times smaller, and they’re still driving mostly in controlled conditions. Companies have also ..."
+    publishedDateTime: 2020-02-18T05:00:00Z
+    webUrl: "https://www.pressofatlanticcity.com/opinion/commentary/how-should-self-driving-cars-decide-who-to-kill-by/article_6c1dbac7-3a51-5e99-bc84-8066769cbe28.html"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 34
-  - title: "When can we buy self-driving vehicles? No one knows"
-    excerpt: "Recently, the U.S. Department of Transportation released its fourth edition of guidance for the introduction of automated vehicles. That must mean self-driving vehicles are coming soon, right? Yes. Well, no. Ummm, maybe? Over the past several years, there has been a lot of talk about self-driving vehicles. Whether it’s cars, trucks or both ..."
-    publishedDateTime: 2020-02-06T21:01:00Z
-    webUrl: "https://landline.media/when-can-we-buy-self-driving-vehicles-no-one-knows/"
-    type: article
-    provider:
-      name: Land Line
-      domain: landline.media
+      name: The Press of Atlantic City
+      domain: pressofatlanticcity.com
     quality: 24
     images:
-      - url: "https://landline.media/wp-content/uploads/2020/02/200206-AV-tech-blog.jpg"
-        width: 540
-        height: 420
-  - title: "US clears the way for self-driving vehicle with no steering wheel or pedals"
-    excerpt: "(CNN) -- The federal government has cleared the way for a Silicon Valley startup to deploy thousands of its self-driving delivery vehicles on US streets. Nuro, based in Mountain View, California,is now able to launch up to 5,000 of its R2autonomousvehicles over the next two years, according to the US Department of Transportation. The R2 has no ..."
-    publishedDateTime: 2020-02-07T18:06:00Z
-    webUrl: "https://cbs58.com/news/us-clears-the-way-for-self-driving-vehicle-with-no-steering-wheel-or-pedals"
-    type: article
-    provider:
-      name: CBS 58
-      domain: cbs58.com
-    quality: 22
-    images:
-      - url: "https://newscdn.weigelbroadcasting.com/WEsd0-1581098470-157079-blog-hypatia-h_6c542cd4da989a321201ee0792ec843c-h_380deb702e8624c8a7d02bce596b8943.jpg"
-        width: 3000
-        height: 2000
-  - title: "US lets self-driving vehicle bypass human-driver safety rules"
-    excerpt: "DETROIT (AP) — For the first time, the U.S. government’s highway safety agency has approved a company’s request to deploy a self-driving vehicle that doesn’t meet federal safety standards that apply to cars and trucks driven by humans. The National Highway Traffic Safety Administration granted temporary approval for Silicon Valley ..."
-    publishedDateTime: 2020-02-06T18:08:00Z
-    webUrl: "https://www.pennlive.com/news/2020/02/us-lets-self-driving-vehicle-bypass-human-driver-safety-rules.html"
-    type: article
-    provider:
-      name: Penn Live
-      domain: pennlive.com
-    quality: 4
+      - url: "https://bloximages.chicago2.vip.townnews.com/pressofatlanticcity.com/content/tncms/custom/image/bae1e730-3e34-11e6-9bc5-8f83ee7a0e54.jpg"
+        width: 1200
+        height: 630
 
 secured: "6SzfK1BlP+/AFRYaMWpJ+lnTeD3uL+R+eiccSpQFd2Umhrvqxo3tbS4IQXgUJqcduD4l+2qLBZN3Kbyrnys9qtG9Ws0bImMM6J1OYTxvqbU3xlpixrZHsrlPYbKOGtDuIOv88mpNhKDJm4tppL4GaEB70gzFu+hsuEbAskcV87n7LX7T/Ojv5K5gnr6jb+pHmIFFH5ZAEBEiSontalzNh+BbwQV4C+j/S77Pdyb07Ujh6f9MIVArZmMT3P2Ly93p730NSVYbJ9HbONk1i2npJzaFQYRqhGYLV0H5aWDS6tbtyJyEV3Q285WYlBnxtBty;z/TYBGBg/wgrRiKxW/Xuxw=="
 ---

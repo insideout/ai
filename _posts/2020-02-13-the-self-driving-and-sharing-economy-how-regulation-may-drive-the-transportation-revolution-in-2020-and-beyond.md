@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/paulrosen/2020/02/12/the-self-driving-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paulrosen/2020/02/12/the-self-driving-and-sharing-economy-how-regulation-may-drive-the-transportation-revolution-in-2020-and-beyond/amp/"
 type: article
 quality: 69
-heat: 129
+heat: 109
 published: true
 
 provider:
@@ -69,19 +69,6 @@ related:
       - url: "https://images.law.com/contrib/content/uploads/sites/402/2020/02/Joanne-Needleman-Article-202002061606.jpg"
         width: 620
         height: 372
-  - title: "Congress looks to revive self-driving car legislation"
-    excerpt: "Want access to the top energy and environment news? Sign up for a free trial! Enter your email to register or log in. By signing up, you agree to receive E&E News email updates and offers. You also grant your consent to our data collection practices. We encourage you to review our Privacy and Data Practices Policy."
-    publishedDateTime: 2020-02-12T12:19:00Z
-    webUrl: "https://www.eenews.net/eedaily/2020/02/12/stories/1062327793"
-    type: article
-    provider:
-      name: E&E
-      domain: eenews.net
-    quality: 24
-    images:
-      - url: "https://www.eenews.net/image_assets/2020/02/image_asset_74141.jpg"
-        width: 938
-        height: 483
   - title: "Global Emotion Detection And Recognition (EDR) Market 2020 Growth Analysis, Key Insights, Future Development and Statistical Forecast 2025"
     excerpt: "Scope of the Report Emotion Detection and Recognition (EDR) is typically identifying human emotion from facial expression or verbal expression. Now, with the help of AI, NLP and ML, the machine is made to understand human emotion through various software and act according to it."
     publishedDateTime: 2020-02-19T11:19:00Z
@@ -95,19 +82,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Silicon Valley startup Nuro becomes first company to receive self-driving vehicle exemption from U.S. Department of Transportation"
-    excerpt: "That car is designed to carry packages, not people, and can take loads of up to 400 pounds while maxing out at 25 mph. The major difference from other self-driving vehicles is the fact it’s not designed to have any humans as passengers or drivers. Nuro calls it a “zero-occupant vehicle” rather that a driver-less car. The cars can be ..."
-    publishedDateTime: 2020-02-07T03:43:00Z
-    webUrl: "https://siliconangle.com/2020/02/06/silicon-valley-startup-nuro-becomes-gets-self-driving-vehicle-exemption-u-s-department-transportation/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 0
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/02/nuro.jpeg"
-        width: 4000
-        height: 2666
 
 secured: "rB7GYpmgOqQA7VbyuNy4K+VX+Fm3pTKHzY3ilXLF5mMSzpCg37d/dIfI7WgCRLcl/Wbn5RamTLPuMzRB1A98Q/hXo5pgrEpnX2sSpMBGBcYQK3LFTraWtaFNNaMyj9N+dzIgVYQsIcL/jjqes7PtVftzAG2Naj/9JK+tauy6yY58y0HMEXCBbnXjWuiQYyihQhk9MhYupRjiB1jDGQ9lWD1yhASS4UXGWTkuD1gIsnLP3iBEeuAAs0pmRTb2oxN1lpeKJhgOklduuXu5X3zGUZBiNn1Tn7O4oUaoRh12dksQodiaipkF1TV0Nzc/pd5JTIko9YGiOsij5DDQi7COT3NHWOt0xIk5iHbT7oLz+NRPM1KnGeZ42MJrjgyrzEiQTuyfqixopgG0dtdCrfUYNe4V++kNelXiweHMM5kElFGhoS8UzYLQz4uhanb2OLjMJFBD4RBT31HVI47Feh/ixWuNYZQhTv2sa7j0y0n7Yzw=;Vyca368yr3y1Eu2UCgPebw=="
 ---

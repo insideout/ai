@@ -93,6 +93,17 @@ related:
       - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/waymo-minivan-4-1532617122.jpg?crop=0.574xw:0.469xh;0.229xw,0.526xh&resize=1200:*"
         width: 1200
         height: 599
+  - title: "U.S. lawmakers to hear calls for requiring new safeguards for self-driving cars"
+    excerpt: "A U.S. House panel on Tuesday will hear calls for requiring new safeguards as part of any effort to speed the adoption of self-driving cars on U.S. roads. At the same hearing, groups representing automakers and tech companies will tout benefits of autonomous vehicles and warn the United States risks falling behind China and others without new legal backing."
+    publishedDateTime: 2020-02-11T10:10:00Z
+    webUrl: "https://www.reuters.com/article/us-autos-autonomous-congress-idUSKBN20513F"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN20513F"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN20513F"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 50
   - title: "Former Waymo employee arrested on suspicion of causing Tempe crash with self-driving car"
     excerpt: "Raymond Tang, 31, was reportedly fired from Waymo before he intentionally caused a crash with one of their vehicles, according to court records."
     publishedDateTime: 2020-02-13T21:10:00Z
@@ -123,6 +134,21 @@ related:
       - url: "https://i1.wp.com/www.mercurynews.com/wp-content/uploads/2020/02/Self-Driving_Vehicle-Collision_Arrest_65344.jpg?fit=620%2C9999px&ssl=1"
         width: 620
         height: 301
+  - title: "How to build a morally ethical self-driving car"
+    excerpt: "Not too long ago, tech enthusiasts were telling us that by 2020, we’d see self-driving cars hit the mainstream, with some 10 million on the roads. That turned out to be a wild overestimation. The actual number of vehicles in testing is thousands of times smaller, and they’re still driving mostly in controlled conditions. Companies have also ..."
+    publishedDateTime: 2020-02-10T14:32:00Z
+    webUrl: "https://www.seattletimes.com/business/how-to-build-a-morally-ethical-self-driving-car/"
+    ampWebUrl: "https://www.seattletimes.com/business/how-to-build-a-morally-ethical-self-driving-car/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/how-to-build-a-morally-ethical-self-driving-car/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 44
+    images:
+      - url: "https://static.seattletimes.com/wp-content/uploads/2020/02/02072020_Self-Driving-Car_122510-300x220.jpg"
+        width: 300
+        height: 220
   - title: "Waymo: Self-driving vehicle in manual mode at time of crash"
     excerpt: "TEMPE, Ariz. (AP) — A Waymo self-driving vehicle was operating in manual mode when it was involved in a rear-end collision in a Phoenix suburb and that the crash was caused by reckless driving of the other vehicle,"
     publishedDateTime: 2020-02-08T11:39:00Z
@@ -184,6 +210,19 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/postguam.com/content/tncms/custom/image/5b4e41b6-2b8d-11ea-8eae-5b294050394f.png"
         width: 800
         height: 448
+  - title: "Hearing to review self-driving car legislation"
+    excerpt: "Want access to the top energy and environment news? Sign up for a free trial! Enter your email to register or log in. By signing up, you agree to receive E&E News email updates and offers. You also grant your consent to our data collection practices. We encourage you to review our Privacy and Data Practices Policy."
+    publishedDateTime: 2020-02-10T11:13:00Z
+    webUrl: "https://www.eenews.net/eedaily/2020/02/10/stories/1062290541"
+    type: article
+    provider:
+      name: E&E
+      domain: eenews.net
+    quality: 24
+    images:
+      - url: "https://www.eenews.net/image_assets/2020/02/image_asset_73911.jpg"
+        width: 618
+        height: 318
   - title: "Nuro Self-Driving Car's OK Sets Course For New Exemptions"
     excerpt: "Law360 (February 11, 2020, 8:55 PM EST) -- Technology and automotive stakeholders are hailing the federal government's first-ever blessing of a self-driving vehicle that will deliver food and packages, but experts say passenger-carrying autonomous vehicles ..."
     publishedDateTime: 2020-02-12T01:57:00Z
@@ -250,6 +289,24 @@ related:
       - url: "https://media.kgw.com/assets/KGW/images/0543c9e3-1e11-4cd0-b801-1fc1a9a8f0ec/0543c9e3-1e11-4cd0-b801-1fc1a9a8f0ec_1140x641.png"
         width: 1140
         height: 641
+  - title: "Self-driving cars are being tested all over Houston"
+    excerpt: "From West University to Texas Southern University, self-driving cars are all around Houston. But how soon will it be before there are no drivers in them?"
+    publishedDateTime: 2020-02-11T01:00:00Z
+    webUrl: "https://www.khou.com/video/news/local/self-driving-cars-are-being-tested-all-over-houston/285-b2c221a2-a6c4-40b3-be2c-bd3074396bc8"
+    type: article
+    provider:
+      name: KHOU 11
+      domain: khou.com
+    quality: 4
+  - title: "Self-driving cars being tested all across Houston"
+    excerpt: "Several self-driving cars are being tested right here in Houston. Kroger, Dominos, even METRO are testing the technology. For now, the automated vehicles have a person on board. Cars that can operate without a driver are rolling around West University and Texas Southern University. The shuttle, funded by METRO, maneuvers through traffic on a ..."
+    publishedDateTime: 2020-02-11T01:04:00Z
+    webUrl: "https://www.khou.com/article/news/local/self-driving-cars-are-all-over-houston/285-b29c5839-ffd0-4355-88bf-61568031a13f"
+    type: article
+    provider:
+      name: KHOU 11
+      domain: khou.com
+    quality: 4
   - title: "Self-Driving Car Market Outlook: World Approaching Demand & Growth Prospect 2019-2025 | BMW, Daimler, Ford, General Motors"
     excerpt: "The self-driving car market has high growth prospects owing to increasing demand for autonomous vehicles and technological advancement such as integration of artificial intelligence and machine learning technologies in the self- driving car propelling the market growth. For instance, Tesla announced to release fully self-driving cars by 2019."
     publishedDateTime: 2020-02-11T13:56:00Z

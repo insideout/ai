@@ -24,36 +24,21 @@ images:
     title: "Self-driving vehicle coming to Fargo area to improve work safety"
 
 related:
-  - title: "Feds approve self-driving vehicle minus rear and side mirrors"
-    excerpt: "Image by John Howard from Pixabay. DETROIT (AP) – The U.S. highway safety agency for the first time has approved a company’s request to deploy a self-driving vehicle that doesn’t meet federal safety standards for human-driven cars and trucks. The National Highway Traffic Safety Administration says it granted temporary approval for Silicon ..."
-    publishedDateTime: 2020-02-06T16:04:00Z
-    webUrl: "https://www.wkbn.com/news/national-world/feds-approve-self-driving-vehicle-minus-rear-and-side-mirrors/"
-    ampWebUrl: "https://www.wkbn.com/news/national-world/feds-approve-self-driving-vehicle-minus-rear-and-side-mirrors/amp/"
-    cdnAmpWebUrl: "https://www-wkbn-com.cdn.ampproject.org/c/s/www.wkbn.com/news/national-world/feds-approve-self-driving-vehicle-minus-rear-and-side-mirrors/amp/"
+  - title: "Federal government approves California company’s self-driving vehicle with no wheel or pedals"
+    excerpt: "MOUNTAIN VIEW, Calif. — The federal government has cleared the way for a Silicon Valley startup to deploy thousands of its self-driving delivery vehicles on US streets. The R2 has no steering wheel, pedals or side mirrors as it’s designed to be unmanned and carry cargo. Large compartments on its side open up to reveal deliveries ..."
+    publishedDateTime: 2020-02-08T04:16:00Z
+    webUrl: "https://fox4kc.com/2020/02/07/federal-government-approves-california-companys-self-driving-vehicle-with-no-wheel-or-pedals/"
+    ampWebUrl: "https://fox4kc.com/2020/02/07/federal-government-approves-california-companys-self-driving-vehicle-with-no-wheel-or-pedals/amp/"
+    cdnAmpWebUrl: "https://fox4kc-com.cdn.ampproject.org/c/s/fox4kc.com/2020/02/07/federal-government-approves-california-companys-self-driving-vehicle-with-no-wheel-or-pedals/amp/"
     type: article
     provider:
-      name: WKBN
-      domain: wkbn.com
-    quality: 44
+      name: FOX4 Kansas City
+      domain: fox4kc.com
+    quality: 33
     images:
-      - url: "https://www.wkbn.com/wp-content/uploads/sites/48/2020/02/highway.jpg?w=960&h=540&crop=1&resize=1280,720"
-        width: 1280
-        height: 720
-  - title: "Feds break from policy, allow self-driving vehicle to bypass human-driver safety rules"
-    excerpt: "DETROIT — For the first time, the U.S. government’s highway safety agency has approved a company’s request to deploy a self-driving vehicle that doesn’t need to meet the same federal safety standards for cars and trucks driven by humans. The National Highway Traffic Safety Administration granted temporary approval for Silicon Valley ..."
-    publishedDateTime: 2020-02-06T23:59:00Z
-    webUrl: "https://www.syracuse.com/us-news/2020/02/feds-break-from-policy-allow-self-driving-vehicle-to-bypass-human-driver-safety-rules.html"
-    ampWebUrl: "https://www.syracuse.com/us-news/2020/02/feds-break-from-policy-allow-self-driving-vehicle-to-bypass-human-driver-safety-rules.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-syracuse-com.cdn.ampproject.org/c/s/www.syracuse.com/us-news/2020/02/feds-break-from-policy-allow-self-driving-vehicle-to-bypass-human-driver-safety-rules.html?outputType=amp"
-    type: article
-    provider:
-      name: syracuse.com
-      domain: syracuse.com
-    quality: 36
-    images:
-      - url: "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/ALVEY7JR7NCHZKKWPIJVSNBDLY.jpg"
-        width: 6720
-        height: 4480
+      - url: "https://placehold.it/300X250"
+        width: 300
+        height: 250
 
 secured: "pjSe0OvFAj9lraPDB2r43RhuZrqzyI5hw8R1oF0vW1J/1oC44iSYx1i5U1OPQn4DJUtPxepZkFD5rDjjT8AckwFb+dj/QWzD7/v25O2EbXjTkfeqR58E8YZVN8hka4nrj7jX6XU6ttVWLrKVOI96ip7+NLKYV8BsxBSYFfLceCN4995JNnl+/Ta1/wknkLKdr/awLsfMHRiEkbviC4T1gNddXbhK2PjjU/G9Pcclh/cDB1ohDC7/9fy7P1hERkyuDShZOvzVlDln8kLEep9UT5fwYbZOKtALsf20R2bCQ8vsMMS+cVNQgwuwIT6B19CY;A1uYAUdXZPYFo8/FOnNcZw=="
 ---

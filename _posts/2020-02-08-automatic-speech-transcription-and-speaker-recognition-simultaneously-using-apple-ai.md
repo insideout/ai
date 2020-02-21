@@ -65,19 +65,6 @@ related:
       - url: "https://images.law.com/contrib/content/uploads/sites/402/2020/02/Joanne-Needleman-Article-202002061606.jpg"
         width: 620
         height: 372
-  - title: "Congress looks to revive self-driving car legislation"
-    excerpt: "Want access to the top energy and environment news? Sign up for a free trial! Enter your email to register or log in. By signing up, you agree to receive E&E News email updates and offers. You also grant your consent to our data collection practices. We encourage you to review our Privacy and Data Practices Policy."
-    publishedDateTime: 2020-02-12T12:19:00Z
-    webUrl: "https://www.eenews.net/eedaily/2020/02/12/stories/1062327793"
-    type: article
-    provider:
-      name: E&E
-      domain: eenews.net
-    quality: 24
-    images:
-      - url: "https://www.eenews.net/image_assets/2020/02/image_asset_74141.jpg"
-        width: 938
-        height: 483
   - title: "Global Emotion Detection And Recognition (EDR) Market 2020 Growth Analysis, Key Insights, Future Development and Statistical Forecast 2025"
     excerpt: "Scope of the Report Emotion Detection and Recognition (EDR) is typically identifying human emotion from facial expression or verbal expression. Now, with the help of AI, NLP and ML, the machine is made to understand human emotion through various software and act according to it."
     publishedDateTime: 2020-02-19T11:19:00Z
@@ -91,19 +78,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Silicon Valley startup Nuro becomes first company to receive self-driving vehicle exemption from U.S. Department of Transportation"
-    excerpt: "That car is designed to carry packages, not people, and can take loads of up to 400 pounds while maxing out at 25 mph. The major difference from other self-driving vehicles is the fact it’s not designed to have any humans as passengers or drivers. Nuro calls it a “zero-occupant vehicle” rather that a driver-less car. The cars can be ..."
-    publishedDateTime: 2020-02-07T03:43:00Z
-    webUrl: "https://siliconangle.com/2020/02/06/silicon-valley-startup-nuro-becomes-gets-self-driving-vehicle-exemption-u-s-department-transportation/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 0
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/02/nuro.jpeg"
-        width: 4000
-        height: 2666
 
 secured: "5kQf61qd/x0BEJ8TD8opxNDQWiqIie9pFi5BnOzsO6NF3YUth3oiJVD2bs7GxLYxi0gO36ty/YYF+PhmbdNiDr86OziT4/WO9kdIzMXNdbFp14dqoXTq8MYMYYP23AjWpWOe2iHexa1xTT9YAJLNzzHG71wt5PFsYpr1jKBlkX7jTR+ie6kezG3ONNH4acDCTk0RZ3VnyfTiaHxFjxiATLQNftfTDhpW9V3hssvnNtKk9DrcoxUHgHnYVgdwfwSZ8tH8HfcnOWQnlileS25gM3N3FDNRxIoxy5Ess4bEONfWDN5pzRimeXbjChEwg5/092BNj44eoOHiFL736oGvdqm2OAnTIYVDQXJP1FcH38D0yaUv8p0nbo5KDadCmCawT1QOy5xHAdGss2B6jcynnGw1VIBBeX9RsIYc9D41uY6TwA8D5DkEIV6ypWc8K05Y9x6MD8ZZ/BwC+7RI2xXaije2Mp31EPz6MMZPNSvYsFc=;GmunE2lhYre7GE8OMo8c7g=="
 ---

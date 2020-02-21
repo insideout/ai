@@ -85,6 +85,15 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/01/28/facebook-reports-it-is-closer-to-setting-up.jpg"
         width: 1024
         height: 682
+  - title: "Facebook acquires UK machine learning AI start-up Deeptide"
+    excerpt: "A regulatory filing at Companies House shows that Facebook now controls 75 percent or more of shares in Deeptide, which controls Atlas ML, the company behind the 'Papers with Code' resource for machine learning. According to unnamed sources from London's ..."
+    publishedDateTime: 2020-02-11T10:11:00Z
+    webUrl: "https://www.telecompaper.com/news/facebook-acquires-uk-machine-learning-ai-start-up-deeptide--1326126"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 34
 
 secured: "WH+ZqtmHOvt/Gskpv+k2FFMC8NYVmEZ7yDr7s9506K8Zmo2AoCmousiBMjWTcN8JBHCgcxuUSD+CfDwQhKGo68cW9SodUWSt7q3Zy8eOZHgEJQHhmrIi2k4v5Z6T06jG6PiZ67QEybDGdgMHgezqTpI0gLDYTepkKnPpHY7IikBho3IqI8RYEgW0IupZalMLCLZu6wk5bosqSimqxXJZMNylfSBsbuiBeaXlJWA5DuRrHc5+Glivt6LNP+XA2XlEdZLr2FL05VZFgfsyE3KSQWP1R9AN6Ijyy4OmMtxJaulCs3bPBbl0saZWt5bTY3bfu+gHuuxZlBASWDsqNHSAa7/26ohSARCYTzi8uROpzsRovJNhrmZGUMY0sJumqQ6oGGk6pXdnjunC/FYmHHKP9U2PmadBAZyliprOuygvgcwdKxBJZgGijoRZNk+/Yh19T6MXxp7jIfDwDOOiTQ7oocFghJVL1JtR4EeDZ6xVDq0=;6PMLa2II4JkW9YzD0EJ/Ag=="
 ---

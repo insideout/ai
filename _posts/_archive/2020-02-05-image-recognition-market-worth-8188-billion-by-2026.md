@@ -161,17 +161,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 19
-  - title: "Voice and Speech Recognition Market Worth $26.8 Billion by 2025 at a CAGR of 17.2% from 2019- Meticulous Research®"
-    excerpt: "London, Feb. 06, 2020 (GLOBE NEWSWIRE) -- The overall voice and speech recognition market is expected to grow at a CAGR of 17.2% from 2019 to 2025 to reach $26.8 billion"
-    publishedDateTime: 2020-02-06T12:05:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/02/g15267401/voice-and-speech-recognition-market-worth-26-8-billion-by-2025-at-a-cagr-of-17-2-from-2019-meticul"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/15267401"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15267401"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 17
   - title: "Global Smart Learning Market Size is Projected to Grow to USD 56.5 Billion by 2024, at a CAGR of 19.5% - ResearchAndMarkets.com"
     excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Smart Learning Market by Component (Hardware ... Enterprise users include organizations catering to various verticals, such as retail; government; healthcare; and Banking, Financial Services and Insurance (BFSI). Corporate users implement these solutions as a tool to train and assess employees for providing ..."
     publishedDateTime: 2020-02-10T11:56:00Z
@@ -197,6 +186,6 @@ related:
       domain: benzinga.com
     quality: 0
 
-secured: "stjic3RI6AgTvypFEaCUV61g0Kw3OpYSkYffzpF0BLm7Eth5shfFVYOyLKgTiJwhz0FWY83t7zjTKslXPXR6pnWKy+xFYaEmauwaTfTE3sWFEo0pK2nhP0FLlSuDVQoMWtr/XJf0IPzxgPA5Z2nmX2ePMoBIL0cy8hprs11oAVcdKNzCFjVCHRnHf5g/+vlR/9JnxJY1S6qQ9bhP5Kxp4k8mwjUzVCBdJFiIs0cZVaeKDBir45rghTD9XXxjXhZex1xJX0gKKF7AWe/OxT1NZS+6Xc+7MBOcte/j4g1unTo7UlKJDZpKWfVBz5UrB8Qf;MIEj4KexRuqBvzFrppk6Aw=="
+secured: "iQWdMZr6lYx2TmKntFSAHvPDBMMj280WK0TSERPpPTwjucexyOod7tJ3SXSSO7t6w6Ed5sF7TbqeT5mBQZncCv43kz7hDibX6h9JFbCsHK5nnQ8mOblY8QHmH3haSlz7wmUZjP+c4p8a76loaElOwSrQj1RhlmLUuaQR+RkgJqhjBoahalHDAvW/+CSlX1j37Mvn5fdiORFLSjDU4J31jEQCdTlWVSvjnHlrUn9zyN8L+2PW3bgsV6kxUzj7MtjjH1kJr8EKPE1YeRC0SMRkDFXh2KTxs4IiTMBOuT3/lVo5Z68t66xT0+MN7sJ3Ethv;o2cUbZqRe3Vv1VLpDUp5Zg=="
 ---
 

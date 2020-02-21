@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/nargessbanks/2020/02/09/autonomous-driv
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nargessbanks/2020/02/09/autonomous-drive-pix-moving/amp/"
 type: article
 quality: 73
-heat: 73
+heat: 83
 published: true
 
 provider:
@@ -28,6 +28,21 @@ images:
     width: 1000
     height: 563
     title: "Tech Start-Up Pix Moving Uses Self-Driving Ideas To Make Flexible Cities"
+
+related:
+  - title: "Report calls out automakers to prioritize kids' safety in self-driving cars"
+    excerpt: "Self driving cars promise freedom; from steering for you to accelerating the car down ... Audi; Continental; Intel; Infineon; Aptiv; Baidu; HERE Technologies sets out an organized framework for the development, testing and validation of safe, automated passenger vehicles. This is becoming increasingly important with the rapid growth of ..."
+    publishedDateTime: 2020-02-07T03:45:00Z
+    webUrl: "https://www.wtol.com/article/life/family-focus/report-calls-out-automakers-to-prioritize-kids-safety-in-self-driving-cars/512-fa0605c4-7852-48fe-89b7-e0266b839362"
+    type: article
+    provider:
+      name: WTOL
+      domain: wtol.com
+    quality: 22
+    images:
+      - url: "https://media.wtol.com/assets/WTOL/images/73fa9d4c-e350-45aa-8d4b-a9482434eacd/73fa9d4c-e350-45aa-8d4b-a9482434eacd_1140x641.jpg"
+        width: 1140
+        height: 641
 
 secured: "Xq+LLqQq+6SW4PPrq1Jbl20wB6VVMLyPKnjK2LHx3qcK5oDznMG28RoxHUoSoFl9aRo1dbavkjr8/Xl4G/s6yEwq0kD2nyjM4ae/MKF1a4ubbbGa0pqUP905dcBfg4jGKi992Ut+KMBJnAJH3lPVfzijEcNF91hyAH7RgFQB+jT8A37Njk7ibimp9PPmx+eFHp2PkoOg5KstGxWIDJ2Q/EDuV3fn21ToBO47UTQDa3GxNhPMAEeL5f1yDTRJbaOwJ4d77AgQjOVHIfh1ZMcli+w1rMc947FzeuBWLCZyBFBCshDm1rfYZ2NIfb5bUgTOesizDz55ZT81iPVQRVAD9k+fY4vnzsxklK4H3A7yZWtkGSMEIxuhdEDjx/Zd5k/sY2ZdDZVBriokEwbY/yikDmPVgJpFe04opip/CTvdyYx/o0Rpuu0H77QI06M25ptU58DRpSG1hIJTsqwIxKhp/uMi4Uxm4f+qYWfH4h4R7is=;jifX2eXhdeYsRrmoaR2h9Q=="
 ---

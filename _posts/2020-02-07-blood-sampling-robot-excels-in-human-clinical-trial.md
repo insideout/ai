@@ -39,19 +39,6 @@ related:
       - url: "https://www.news-medical.net/image.axd?picture=2017%2f1%2fHEALTHCARE_shutterstock_493063267_99928a5e003043f896998f01b025b9f6-620x480.jpg"
         width: 620
         height: 480
-  - title: "New robot does superior job sampling blood"
-    excerpt: "Next steps include refining the device to improve success rates in patients with difficult veins to access. Data from this study will be used to enhance artificial intelligence in the robot to improve its performance."
-    publishedDateTime: 2020-02-06T16:45:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-02/ru-nrd020620.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://eurekalert.org/multimedia/pub/web/223630_web.jpg"
-        width: 1440
-        height: 1158
   - title: "Robot beats people at quick, accurate blood draws"
     excerpt: "The researchers will next refine the device to improve success rates in patients with difficult veins to access and will use data from the current study to enhance artificial intelligence in the robot to improve its performance. Additional coauthors are from Rutgers and the Icahn School of Medicine at Mount Sinai Hospital."
     publishedDateTime: 2020-02-11T18:33:00Z

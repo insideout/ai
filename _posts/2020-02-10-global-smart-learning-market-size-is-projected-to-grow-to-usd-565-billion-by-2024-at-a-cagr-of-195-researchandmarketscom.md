@@ -170,17 +170,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 19
-  - title: "Voice and Speech Recognition Market Worth $26.8 Billion by 2025 at a CAGR of 17.2% from 2019- Meticulous Research®"
-    excerpt: "London, Feb. 06, 2020 (GLOBE NEWSWIRE) -- The overall voice and speech recognition market is expected to grow at a CAGR of 17.2% from 2019 to 2025 to reach $26.8 billion"
-    publishedDateTime: 2020-02-06T12:05:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/02/g15267401/voice-and-speech-recognition-market-worth-26-8-billion-by-2025-at-a-cagr-of-17-2-from-2019-meticul"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/15267401"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15267401"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 17
   - title: "Speech and Voice Recognition Market To Set Phenomenal Growth At CAGR of 17.20% from 2019 to reach $26.79 billion by 2025"
     excerpt: "Meticulous Research – a leading global market research company published a research report titled \"Speech and Voice Recognition Market by Type (Speech and Voice Recognition),"
     publishedDateTime: 2020-02-17T06:37:00Z

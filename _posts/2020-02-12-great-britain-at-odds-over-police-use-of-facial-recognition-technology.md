@@ -441,19 +441,6 @@ related:
       - url: "https://www.pe.com/wp-content/uploads/2020/02/IDB-L-CHINOPD-0212-16x9-1-1.jpg?w=1024&h=579"
         width: 1024
         height: 578
-  - title: "Facial recognition company CEO speaks out"
-    excerpt: "Watch \"CEO of controversial facial recognition company speaks out about privacy concerns\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-02-06T17:07:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20200206152942-ceo-of-controversial-facial-recognition-company-speaks-out-about-privacy-concerns/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 39
-    images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/02/06/story_03953211_1581003003.jpg"
-        width: 480
-        height: 270
   - title: "Zwicker Wants to Regulate Facial Recognition Technology"
     excerpt: "TRENTON, NJ – Just recently, the New Jersey Attorney General prohibited law enforcement in all 21 counties from using Clearview AI’s facial recognition software after a New York Times article revealed the start-up had built its database by scrubbing ..."
     publishedDateTime: 2020-02-07T09:00:00Z

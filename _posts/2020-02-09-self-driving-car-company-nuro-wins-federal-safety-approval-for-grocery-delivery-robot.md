@@ -86,6 +86,21 @@ related:
       - url: "https://media2.govtech.com/images/shutterstock_156230078.jpg"
         width: 950
         height: 629
+  - title: "Self-driving car company Nuro wins federal safety approval for grocery delivery robot"
+    excerpt: "Delivery robot company Nuro won the first federal safety approval for a purpose-built self-driving vehicle, advancing the young company’s plans to cart groceries around neighborhoods and marking a milestone for the autonomous vehicle industry. The approval indicates that federal regulators at the Transportation Department believe specially ..."
+    publishedDateTime: 2020-02-06T17:19:00Z
+    webUrl: "https://www.washingtonpost.com/local/trafficandcommuting/grocery-delivery-robot-wins-first-federal-safety-approval-for-a-self-driving-vehicle/2020/02/06/90e97658-48f5-11ea-9164-d3154ad8a5cd_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/trafficandcommuting/grocery-delivery-robot-wins-first-federal-safety-approval-for-a-self-driving-vehicle/2020/02/06/90e97658-48f5-11ea-9164-d3154ad8a5cd_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/trafficandcommuting/grocery-delivery-robot-wins-first-federal-safety-approval-for-a-self-driving-vehicle/2020/02/06/90e97658-48f5-11ea-9164-d3154ad8a5cd_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 37
+    images:
+      - url: "https://www.washingtonpost.com/resizer/ioZ0vfVxhHboPpFfI1sv9v84lqY=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YNXLH6CJAUI6VELE2MKUVWFFZU.jpg"
+        width: 1440
+        height: 960
   - title: "CA Startup Gets Approval to Deploy Thousands of Self-Driving Delivery Vehicles With No Steering Wheel"
     excerpt: "The federal government has cleared the way for a Silicon Valley startup to deploy thousands of its self-driving delivery vehicles on US streets. The R2 has no steering wheel, pedals or side mirrors as it’s designed to be unmanned and carry cargo. Large compartments on its side open up to reveal deliveries, such as groceries or pizza."
     publishedDateTime: 2020-02-07T19:49:00Z

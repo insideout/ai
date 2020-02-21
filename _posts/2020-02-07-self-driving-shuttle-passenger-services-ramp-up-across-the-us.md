@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-07T14:03:00Z
 webUrl: "https://electronics360.globalspec.com/article/14663/self-driving-shuttle-passenger-services-ramp-up-across-the-us"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -22,23 +22,6 @@ images:
     width: 752
     height: 501
     title: "Self-driving shuttle passenger services ramp up across the US"
-
-related:
-  - title: "Self-driving shuttle to be part of East Bay city’s school auto classes"
-    excerpt: "East Bay school partners with country transportation agency, autonomous car maker to re-envision auto training program."
-    publishedDateTime: 2020-02-06T16:50:00Z
-    webUrl: "https://www.mercurynews.com/2020/02/05/self-driving-car-to-be-part-of-east-bay-citys-school-auto-classes/"
-    ampWebUrl: "https://www.mercurynews.com/2020/02/05/self-driving-car-to-be-part-of-east-bay-citys-school-auto-classes/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/02/05/self-driving-car-to-be-part-of-east-bay-citys-school-auto-classes/amp/"
-    type: article
-    provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 44
-    images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2020/02/EBT-L-PITOLLI_72356810-2.jpg?w=1024&h=607"
-        width: 1024
-        height: 606
 
 secured: "57Djx68jxtbC8sYg55FU/hQyMXIugVA6V13a0ZAcvEchqzJjAuY1hWcA+yMDckIB6aNus2A6ubc1Y3qZu13aPWQlAXGFXNu9EIr2RB7qB/Ilb/lmY3vb63NPiI5Sn+1uTyL9BRQdBxWcqtfZtl9YDM1BP/uPQaCGfp/Ba379jA8lSFbCsZI6+9yb8zEkfH/L1g/pPx5AK+bi3l5aNsddl5II8w4wGl88uqTvb8dOCvel8yNG9VumXVru/TMDu0LScw/1Bxry9aykWG+GspT0Ryjr7jmiVDy3+SvyAI8g7CAZMQpjlbgH3gqTBmZwaCm1lvX2d4vwgGLzToNVjPMDX3VTb7YoyBd2pVetkMaRVr/7NIls4Ne4JwDDV+mN8VMzSLMk7GkZq9wz5a/2WfCW3OAAlz+hr27p4egqhgVS+XOQ+BY6BXEOQNzie/KKO6jqNUGAOzfvjnftueAGSYlUi8WjlCMIlMBVPKGoK0uGrvs=;DQgUv4i8uTgFQZTCWefi9g=="
 ---

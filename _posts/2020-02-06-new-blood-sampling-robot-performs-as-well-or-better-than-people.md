@@ -8,7 +8,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20200206/New-blood-sampling-ro
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200206/New-blood-sampling-robot-performs-as-well-or-better-than-people.aspx"
 type: article
 quality: 59
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -26,19 +26,6 @@ images:
     title: "New blood-sampling robot performs as well or better than people"
 
 related:
-  - title: "New robot does superior job sampling blood"
-    excerpt: "Next steps include refining the device to improve success rates in patients with difficult veins to access. Data from this study will be used to enhance artificial intelligence in the robot to improve its performance."
-    publishedDateTime: 2020-02-06T16:45:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-02/ru-nrd020620.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://eurekalert.org/multimedia/pub/web/223630_web.jpg"
-        width: 1440
-        height: 1158
   - title: "Blood sampling robot excels in human clinical trial"
     excerpt: "Repeated failures to start an IV line can increase the likelihood of phlebitis ... Data from this study will be used to enhance artificial intelligence in the robot to improve its performance."
     publishedDateTime: 2020-02-07T11:09:00Z

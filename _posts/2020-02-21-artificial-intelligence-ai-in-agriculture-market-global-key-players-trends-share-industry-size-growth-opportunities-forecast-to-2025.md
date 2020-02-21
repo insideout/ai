@@ -24,6 +24,6 @@ images:
     height: 225
     title: "Artificial Intelligence (AI) in Agriculture Market: Global Key Players, Trends, Share, Industry Size, Growth, Opportunities, Forecast To 2025"
 
-secured: "D5leVDHbhSfbEG+eJ2BitiVLn9aVmgajU//Gy3yiYekr1FiU9Fyt/Mlt/x35Ng/uWIAofhr976HDoSR31wbCRF9rGGor9TAIaZUXBcTrc+kEIaDYOkIImjre2I0zHFrcCCYmC7Dx46HO1iz/zy7sDL29gUMhaEvYZc53afv4YXhdCPsTQHPmaka+8JsqspiKoBEGsj/8K5OEBlAdUg47r9UkyF5rTMMezDxhzJyPSLId8WXO5Kd/OSnZOCFV0DBDk+j21JnRnHoI6l4xMfP8LM9rpuPtyNyHj/z93Pb4iKvNfqgfHU3EZN2YHyy2LVN3;sUf0nYS6P6S8aBNoDsPO3g=="
+secured: "kxAhVUqWMtLw/kFUXCMIbnKASjPsFPj3R4PwRYq9bspC3MzQ0FEMPtNqEmoeILvTUvwPDE8HUNetM/9eZnghU2E6U/CmeYU5cLt9H17jDEoPOg8Ldkkgs59h9KKKapZL3tYRI6aXJA6LWJlvTKl6ENRCauwPysEOi7h1qKHER8Y/Ric0JIcSjbS4HWshMRZxaXgY+e4AsunHMaS2/24ynU7WBRi6ffiKmoLViUrLL6OSRjs7aWc4HYJybjPXziXnX5xOroUsAg5cpDadWaaw9WCZQJGjh2Zvy3+DTR4PABVN1nkYmM5oI0HZl3FvZLVJWwgS9WO1MNUlbOVRcOzC8EE5IZS0Kry+k2YuXL1CpDdV1Gs5Bwe21YmBgfPXFFZT9l1k3H4dWp+xGSyuInFAKUxqiFRfAPDz3uGOF/GPwtZfuDZtSUpglkEXpz2WhB2v/dy6GE1Q28uNlbknWyuRFvKdU9oa8QhpZ5N/r6hTD+0=;58kFr+4aSHOAKKkwo+MtSA=="
 ---
 

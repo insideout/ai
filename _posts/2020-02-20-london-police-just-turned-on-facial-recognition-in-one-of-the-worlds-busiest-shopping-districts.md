@@ -3,7 +3,7 @@ category: news
 title: "London Police Just Turned On Facial Recognition In One Of The World’s Busiest Shopping Districts"
 excerpt: "Just across from the Microsoft store on London’s Regent Street, and just outside the entrance to the Oxford Circus tube station, cameras atop dark blue police vans are watching passersby. London's Metropolitan Police says the rollout of the \"live\" facial recognition across the British capital would reduce serious crime,"
 publishedDateTime: 2020-02-20T14:49:00Z
-webUrl: "https://www.forbes.com/sites/thomasbrewster/2020/02/20/london-police-just-turned-on-facial-recognition-in-one-of-the-worlds-busiest-shopping-districts"
+webUrl: "https://www.forbes.com/sites/thomasbrewster/2020/02/20/london-police-just-turned-on-facial-recognition-in-one-of-the-worlds-busiest-shopping-districts/"
 ampWebUrl: "https://www.forbes.com/sites/thomasbrewster/2020/02/20/london-police-just-turned-on-facial-recognition-in-one-of-the-worlds-busiest-shopping-districts/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/thomasbrewster/2020/02/20/london-police-just-turned-on-facial-recognition-in-one-of-the-worlds-busiest-shopping-districts/amp/"
 type: article
@@ -165,6 +165,6 @@ related:
       domain: edmontonjournal.com
     quality: 19
 
-secured: "pXVcIIJrMaZo3JDYkw004vdU4938zhr37B3g2DtJ92Jj7vTVYaVfMdzSsB5rvPsZhQANh782edsPiO8Z/IIynop9pT7q/ijUc8Ri1TBs3YrgoNsnQdVB9RMbpUxuu1ApwmncZ8SQtIGwm80dz/GIOS6FEI365dSlKhgir3ziYSp0PsVsucLCmgqw6nzZwZKVkWdPx8knaO52gEREEUIVCfShBrUtSjtGlQ/8b8phaWtkNMbMbX+0otkZURqRrdYW6ZMBnKY3UBbJgdDlX4DeqfNXiPecnrW3QGKi+1FAQyNoddCgT4s/0L1ssXQqeTevAeMOrRYUniEbMFYv/zFeBelBYCwj7rLxhQDnYTZp6hTLV+1G0xiVmBL3RqehOfFsfvPIMSyUFoCZxUPB1y+seq/MZZuiixFrikB/H7eHXTYmOCgqtb9MJRsi8in8DwXnsDT19pDKanuHZNJ8FljOqhkOuo+zcOCGmu6FY1kA2TU=;rdER2htRFdX2u5V7bxMNOA=="
+secured: "Z9+rla3oa2H+Onx0O0kd4fhjIoGU4F8n3R1rTT7+qBL4P3lx6XzMLfqWdETE8xB+cAK17GphoupP00cYs/xyt/wXiBCF4htR13dnLQ1rxNjsSDaas1XSy2NJ54HLpoRqm/k5w1R9YMrEDmHY3a4NGqJ3xeqJ2xRwbr1wTIaSdRBzP2qas6H6tBYpNrRyKCavxEVC1Xr22FSqRoAphh9TPhyCFkwyJV4sbcfy/VBHl3GSivqO5/6AK8ydOoh1xGsZzr+uCu6QxKHXCi9cp5MivZs8fDpJktzs82fu3DC87c1J8JB67vWwgKvpC+77SNsz;iqalmysESWxj1AIcPnsKdQ=="
 ---
 

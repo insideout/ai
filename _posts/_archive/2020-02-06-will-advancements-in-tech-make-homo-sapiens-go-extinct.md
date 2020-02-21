@@ -1,8 +1,8 @@
 ---
 category: news
 title: "Will Advancements In Tech Make Homo Sapiens Go Extinct?"
-excerpt: "The field of prosthetics has advanced by leaps and bounds over the past century. However, is the future as bright as we think it is?"
-publishedDateTime: 2020-02-06T17:06:00Z
+excerpt: "Very recently Johns Hopkins Applied Physics Lab developed a mind-controlled robotic arm. It has granted new life and leverage to a man who had lost his arm to cancer in 2005. This has been a huge ..."
+publishedDateTime: 2020-02-06T12:48:00Z
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/02/06/will-advancements-in-tech-make-homo-sapiens-go-extinct/"
 ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/02/06/will-advancements-in-tech-make-homo-sapiens-go-extinct/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/06/will-advancements-in-tech-make-homo-sapiens-go-extinct/amp/"
@@ -24,11 +24,11 @@ topics:
   - AI in Robotics
 
 images:
-  - url: "https://thumbor.forbes.com/thumbor/711x511/https://specials-images.forbesimg.com/dam/imageserve/107254334/960x0.jpg?fit=scale"
-    width: 711
-    height: 511
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F02%2Fa-42.jpg"
+    width: 640
+    height: 640
     title: "Will Advancements In Tech Make Homo Sapiens Go Extinct?"
 
-secured: "KWy/hOFHNU8VJ5U6u8o/nIoXsz+ZshlND3yjR1jR7SauQbmQ+AGUFHvpX40QXUSMeraDmOIUAz21rKrHZDHFsSN9BfFDkOX0laYw/Kx4iUhnh4jtcbB+APVzNWrur3sTyklhGMyR03xmkVQYiT1b5/Bs62K9AGOe/QU5jMqxMWjadd9spsiCl0x9gzHJX8vUErLsHC0W/Ht71qEcJhsA+ekYgUf14mDpBe8VSnctz5hyhuKsiIYlmXcigey6TXWKvmKKnijYN4sxlThbA0NZTE1WbOp1GFtJOMllEu+D5lRVjIzEJaAs9+Kh8Tg9hg+tp/MEwXsJYXuNyx3/2+ROPC/iF6HGKh90iFC4HL60avXGNa3kZdDa0wV4uGZjP7FsO6FJLxjQ1RLzkSsIusc7AUD92qQpQardNTWsuukZdHDhPTyOoY8v+9ty8bUcM7t3QT4R99zR/0z5yp7DM2rAdaIHVrV66zUPTnrE5nto1C4=;2frITSRRcAVUjR6gIH5JaQ=="
+secured: "7ODhWnl2Xn76yxkBPnXHDwRDbFdqQEnOnJuKm00yKnGTN4yW6eP+lAJ+cPe1poATw3CxAc15oH8ERi78Ou9p5Sp33IEa259q8eOcL4znUYJMykhKqxtet0YBvP4SHzrWqMW09C9w9z4twYq9U14S7d66cHVlE4FKbEyLPpxvEq33dbFm1/Y+mkl+gspHanIa/T1r1zdT2cpVint7y7ehJUa5owncLY8iDGafmt59kNlduufMCljZ6v5DjP8nFjjBJLXTbmrewBLPTQbtw3Ui5ClFEX78WGH4GPWTJhJClOE7df61IgoJlt5FfKjDRPXN;FmSgv+VJ2sjYpIRvgx30NQ=="
 ---
 

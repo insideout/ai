@@ -29,6 +29,6 @@ images:
     height: 582
     title: "Mass Adoption Of AI In Financial Services Expected Within Two Years"
 
-secured: "//lxhA1/8DGgy/dkJiOmSa1LH2IKlTfSJRGorAteD7VaVqMmlO7s/9f2C4aNkj5vPhWCWvG7yJGOOewHDMvwdJ/y9QAZ9DQaLMKFCsdtd4XmDpdut2/1lH8KEfliD9y8NiI3Ff8PkE+2nUSu7QXYbrYvN0peMrTengmleKkVkaA7y/Tf5rnalH9DCUXmfl34J6HFkLIvtqYEfKb0Shvbf1X0TaM1aFy2eR2tQ2K0v0B2whx6PmKyQ0kcHqgaESGrwdI1THHfjB/3t7Y0GKFTCEbgFd0zpfkiMjYNnc8C3kRi/du7AVlpxkShV9PRD2MO;kSNEmcKo1vddVC3LpAuHjQ=="
+secured: "QHblo/e38CxZR142P5B58SPd0QgMPP+hSCJ35LCYpmy4+MUQFC+N84gOBfItfrsQp1DxU76LN+s17BWPv10Lyt3gDqffPorYHn+Dt25SxZIbzgsWUfr0wOTW6CccgB1VcEEwAFi+BTQxO7Df+P68NtcrCfgEE09SsYytyyP4BxdFvmXeyRaGNpjedW0xpYCpHuaSC6OayqEI/OZJz13Ssgn8XmgPp1/RzEb4vkvxKZquzdA7CU4q6DyQEI5YJNCHGaZFEQEa7IDP7V16hcEk3t2vNkQgGI0yVJZceoDH2XgfxYvTJvUnVwbDWnU7ATTI;oGtEiaruVPcabBiUqqWDeg=="
 ---
 

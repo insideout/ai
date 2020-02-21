@@ -39,6 +39,19 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/herald-dispatch.com/content/tncms/custom/image/10aba90e-dd9e-11e6-8368-ebae1dfc24e1.png?resize=600%2C600"
         width: 600
         height: 600
+  - title: "First Lexus with self-driving system arrives in 2020"
+    excerpt: "Lexus President Koji Sato has revealed that the automaker will offer its first self-driving system in 2020. Speaking with Automotive News (subscription required) in an interview published last week, Sato said the system will offer hands-off capability but drivers will still need to monitor the road and take over in case of an emergency."
+    publishedDateTime: 2020-02-11T15:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1127062_first-lexus-with-self-driving-system-arrives-in-2020"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 24
+    images:
+      - url: "https://images.hgmsites.net/hug/lexus-ls-concept-2017-tokyo-motor-show_100629241_h.jpg"
+        width: 1920
+        height: 1204
   - title: "GM Rolling Out Super Cruise Self-Driving Tech To 22 Models Across The Board By 2023"
     excerpt: "An enhanced version will be introduced later this year and feature a new automated lane change function. When the self-driving tech is activated, users simply need to tap the turn signal to indicate that they want to change lanes. When an appropriate opening has been found, the vehicle will automatically switch lanes. Besides the new lane ..."
     publishedDateTime: 2020-02-06T22:31:00Z

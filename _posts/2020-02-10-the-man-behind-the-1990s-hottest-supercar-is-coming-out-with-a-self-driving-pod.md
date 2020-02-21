@@ -18,58 +18,19 @@ topics:
   - AI in Autos
 
 related:
-  - title: "Who Is Responsible In A Crash With A Self-Driving Car?"
-    excerpt: "It's not just the car manufacturers. It turns out that people take advantage of conservative self-driving cars to act more reckless."
-    publishedDateTime: 2020-02-06T17:06:00Z
-    webUrl: "https://www.forbes.com/sites/fernandezelizabeth/2020/02/06/who-is-responsible-in-a-crash-with-a-self-driving-car/"
-    ampWebUrl: "https://www.forbes.com/sites/fernandezelizabeth/2020/02/06/who-is-responsible-in-a-crash-with-a-self-driving-car/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/fernandezelizabeth/2020/02/06/who-is-responsible-in-a-crash-with-a-self-driving-car/amp/"
+  - title: "Some of the Best Self-Driving Safety Tech Is in… a Subaru?"
+    excerpt: "“Self-driving,” and even worse “Autopilot,” is pretty misleading term. Right now, in 2020, the most advanced systems are only capable of a handful of functions, none of which mean that you can check your inbox while behind the wheel. Even Cadillac’s Super Cruise, which allows you to take your hands off the wheel for minutes at a ..."
+    publishedDateTime: 2020-02-15T20:13:00Z
+    webUrl: "https://www.popularmechanics.com/cars/car-technology/a30689144/2020-subaru-self-driving-eyesight/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/711x459/https://specials-images.forbesimg.com/imageserve/5e20c343980ca10006aa994c/960x0.jpg?fit=scale"
-        width: 711
-        height: 459
-  - title: "China is betting on slow but steady to win the self-driving car race"
-    excerpt: "Just don’t expect that revolution to come quickly. In the United States, individual states are taking the lead in deciding how self-driving cars will be rolled out in their communities ..."
-    publishedDateTime: 2020-02-10T20:43:00Z
-    webUrl: "https://qz.com/1682184/china-is-betting-on-slow-but-steady-to-win-the-self-driving-car-race/"
-    ampWebUrl: "https://qz.com/1682184/china-is-betting-on-slow-but-steady-to-win-the-self-driving-car-race/amp/"
-    cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/1682184/china-is-betting-on-slow-but-steady-to-win-the-self-driving-car-race/amp/"
-    type: article
-    provider:
-      name: Quartz
-      domain: qz.com
-    quality: 74
-    images:
-      - url: "https://cms.qz.com/wp-content/uploads/2019/08/WeRide-2019-e1565581419367.jpg?quality=75&strip=all&w=1400"
-        width: 1400
-        height: 788
-  - title: "First Lexus with self-driving system arrives in 2020"
-    excerpt: "Lexus President Koji Sato has revealed that the automaker will offer its first self-driving system in 2020. Speaking with Automotive News (subscription required) in an interview published last week, Sato said the system will offer hands-off capability but drivers will still need to monitor the road and take over in case of an emergency."
-    publishedDateTime: 2020-02-11T15:00:00Z
-    webUrl: "https://www.motorauthority.com/news/1127062_first-lexus-with-self-driving-system-arrives-in-2020"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
+      name: Popular Mechanics
+      domain: popularmechanics.com
     quality: 24
     images:
-      - url: "https://images.hgmsites.net/hug/lexus-ls-concept-2017-tokyo-motor-show_100629241_h.jpg"
-        width: 1920
-        height: 1204
-  - title: "Can self-driving cars handle Canadian winters?"
-    excerpt: "University of Toronto professor Steven Waslander talks about a new study, which will be used to determine whether self-driving cars can handle the snow and ice from harsh Canadian winters. <iframe src=\"https://globalnews.ca/video/embed/6535979/\" width=\"670\" height=\"372\" frameborder=\"0\" allowfullscreen scrolling=\"no\"></iframe> <style>.gn-embed ..."
-    publishedDateTime: 2020-02-11T16:22:00Z
-    webUrl: "https://globalnews.ca/video/6535979/can-self-driving-cars-handle-canadian-winters"
-    type: article
-    provider:
-      name: Global News
-      domain: globalnews.ca
-    quality: 4
+      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/jpeg-image-58c88baf6ff5-1-1580227727.jpeg?crop=1.00xw:0.670xh;0,0.167xh&resize=1200:*"
+        width: 1200
+        height: 603
 
 secured: "wLYgXGf1GvaQ5h3v2rBfkpyXLKpxpsb4b+LUshFcGqgeneKeQA48D6oQPbJ2Bwv/eJPGWeAmBU3es+yVlXDDgKiKLq3hlcdSqYerfVFk3EEhtiI7JxHUgg+vt9BUW7UBMBH6qDMG5aywUzsIbosLz6p9q1jMPMXNBU4P0BlNgWPEd6SW3A2bg/pfP8cwr7g/gamlcEjvTjuyUGvdvrCb2qskXAK5ACTwsiKuFccD3NlBtY9jI5NyWQ0aU5AI2ek6KauIsFk6w0LxXYrRCePS0Pqi1jmPs3KbHv2sgXY7tosMiseyhZwthnOgyTBO+w4pstxGX7pzdBonsnOH2RZ1a3Za/IO0rU+lR/zU9wehiheJNeN6h4LH0yaby9Cv/b8v8fyeIfZuXl9CjD2uJ/73x7ZImpZ8BTuHeKOHqbH520NXngILyWkH4GN/UMfH+x09gwOhwttvOHlyeRKTx00ILZVUasBNQnXjOy6fm39OxmQ=;moe/sMsP1v05ILk3uOEjjg=="
 ---
