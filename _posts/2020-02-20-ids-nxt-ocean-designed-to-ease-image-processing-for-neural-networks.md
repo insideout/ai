@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-20T16:44:00Z
 webUrl: "https://www.therobotreport.com/ids-nxt-ocean-designed-ease-image-processing-neural-networks/"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -24,6 +24,19 @@ images:
     title: "IDS NXT ocean designed to ease image processing for neural networks"
 
 related:
+  - title: "Mortgage Lender Adds Artificial Intelligence to Post-Closing Process"
+    excerpt: "AI Foundry has developed advanced artificial intelligence, machine learning and machine vision to create cognitive robots that review loans, improve the speed and efficiency of mortgage processing, and deliver automation to all areas of the lending process. This automation greatly reduces and, in some cases, eliminates the need for a human ..."
+    publishedDateTime: 2020-02-21T18:26:00Z
+    webUrl: "https://mortgageorb.com/mortgage-lender-adds-artificial-intelligence-to-post-closing-process"
+    type: article
+    provider:
+      name: Texas
+      domain: mortgageorb.com
+    quality: 39
+    images:
+      - url: "https://mortgageorb.com/wp-content/uploads/2020/02/AI.jpg"
+        width: 910
+        height: 607
   - title: "Syniverse Upgrades Message Filter with RealNetworks’ Language Processing Tech"
     excerpt: "It can also identify messages that are sent from an application, which is where Kontxt comes into play. The RealNetworks solution will introduce natural language processing and deep learning capabilities that will improve Syniverse’s ability to distinguish spam from legitimate (and even important) messages like one-time passwords. Doing so ..."
     publishedDateTime: 2020-02-20T19:58:00Z

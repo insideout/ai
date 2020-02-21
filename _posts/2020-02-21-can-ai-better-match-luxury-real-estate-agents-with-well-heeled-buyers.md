@@ -28,6 +28,6 @@ images:
     height: 800
     title: "Can AI Better Match Luxury Real Estate Agents With Well-Heeled Buyers?"
 
-secured: "ki/gP9JDiABnU3jBGglB1ZvFqvmFMAfSYuXnVbMzysfGG9S2s+qG5LTruDKVeOK9PLy5SrbZNhHhFUcb01oRtj3l/QxNxbyAcrkZ8QmHpX++BU6dLwtNdcD12eET4Fz6qHYXBq6NgYdLbFgDhg7f9EzKSxdzdsdXPtncLqx3l0Byikr6bG3qwSKM/bkWZTHNymbz2HhVxK97CK3t5+v3O6Y34+R47iwpkgvuJXVdnTagb3jflzRf2wfdaY+OGbYn/2DOyaTitzwYPuAvT9qjHV1UoiNdnQCPhZQiTZZTaGTcR9tzFftu6IFqFS6MoJjm;7n7CU0XMJjtmlt4zY3Auig=="
+secured: "GzluphNj4L/50IL+wKw5ntucfxzcYX5/LuuEcp/jPf4gI39UI5C3MNE+WsjbcuF7W7IGZQR9OLbCtpU9ya0zOuYOhg+/uzMATzt2hjND0OFJtQPfoqAjXiQLUOoZi/Ss8BM/IeRo5enIY7Ewc0sbIIPZ0K5WuufkeVCv2lw/M/RQ3nfdQx9uUsyw0nsk3tjF2v6naLnheSSuL5XfkhWNBpiMz33NjL5R9IU1r6OFTGoHGLNxRT8fnAH/VjoJ2HLEJTLaPMDGb0M9+dokR07qWxwFIVG7Ucml255pg4PKerXqmIdy27//j553Yj9aXxJrGeIpwNUAHQrrau9IRyQOoIdxA+tcQwWoHwLqLTnXgB+h0FuAGkEmfPwxwqd3B+mu5sG0Qw54YMuSDW4KuzElCIlLrPLOGaEDHfY+/ogyaSLAbwMh1ToB6Bp+LsF8nvgdtUGbqkO7yHcvc9Uf83r3nrUC8038B7t0jbwZ0F9GLkQ=;mpOJa0T3bxAAVCKtEIRCkw=="
 ---
 

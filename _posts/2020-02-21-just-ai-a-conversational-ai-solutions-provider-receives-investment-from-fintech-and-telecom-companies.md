@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/15381930"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15381930"
 type: article
 quality: 23
-heat: 23
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,21 @@ provider:
 topics:
   - AI
   - AI in Finance
+
+related:
+  - title: "The AI Eye: Cisco Announces IoT Portfolio Innovations Including Machine Learning and Wipro Digital Acquires CX Firm Rational Interaction"
+    excerpt: "Point Roberts, WA and Vancouver, BC - February 21, 2020 (Investorideas.com Newswire) Investorideas.com (www.investorideas.com), a global investor news source covering Artificial Intelligence (AI) brings you today's edition of The AI Eye - watching stock news,"
+    publishedDateTime: 2020-02-21T17:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/the-ai-eye-cisco-announces-iot-portfolio-innovations-including-machine-learning-and-wipro-digital-acquires-cx-firm-rational-interaction-2020-02-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
 
 secured: "hem3kNND5KBPl3ADaW/2UwS9J+lfFY1JZMj1Gp3+QYQGI2tFrlO17m9doVmroViNoEtrl4WDCO7rc+kcvFQlRuSPsZ1AAWYrsL5i/jAh+E1DryxbXsm5lY5wzH1wslNeeES0uKeZ4JbDeFlCakw0JPO2QSXFVHmqRhDuG5xN1kFmygwpdGbJ8RUqSdf090QU/4ntqjax/hx20PrDRTQYXt28vv5ddqjBflXcHY7ItEeovsOjQkrYhebC0FZTl7EjPR6AJ6D65L5wjT3mfsj88lKt/DmeGLyj+F9tEdxAm6v0KMwOsXHOmNXIrRvxTIgF;egFbI/dCy/HhRjw9SJsIiw=="
 ---

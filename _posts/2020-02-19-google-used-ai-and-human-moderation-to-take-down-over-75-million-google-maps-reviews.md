@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/02/19/google-used-ai-and-human-moderati
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/19/google-used-ai-and-human-moderation-to-take-down-more-than-75-million-policy-violating-google-maps-reviews/amp/"
 type: article
 quality: 80
-heat: 100
+heat: 90
 published: true
 
 provider:
@@ -42,15 +42,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/02/Toubba-Japic.jpg"
         width: 985
         height: 657
-  - title: "Emotion Detection and Recognition (EDR) Market to Reach $33.9 Billion at a CAGR of 28.9% by 2023: AMR"
-    excerpt: "Surge in popularity of wearable technology, growth of Internet of Things, and increase in adoption of smartphones drive the growth of the global emotion recognition and detection market. Based on end user,"
-    publishedDateTime: 2020-02-17T16:14:00Z
-    webUrl: "https://www.globenewswire.com/news-release/2020/02/17/1985745/0/en/Emotion-Detection-and-Recognition-EDR-Market-to-Reach-33-9-Billion-at-a-CAGR-of-28-9-by-2023-AMR.html"
-    type: article
-    provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 0
 
 secured: "7NlBJWgcJELfROe/haSlpSAg1KsqBkZSDDNIWeGkcpt0TqHsZvJizfuUJ9qSQH6GTuvOoie7dkbI/mMg6woy0o7v51nuyf5VaJvf0JF8Kl6Ykh8ZyaD+8VPaf9A0yxpbz8ENm5ocpVMvls9nBe6fJifqwCSnTRMKiulPwsZimyVe7u+S8Czrpe7u9vxVaoppEB+r0T/11Kaf0/g6eGOQGxZooHfw/KM/h5a0XjYy1y1rPL9rvPCEdJOvPrqsOd0E2Of7fyj6k54Jz3PYxyaXSdn5D61C8CGwOhAZQZIQ1TV2T+1X92QHF2nGcoDaOOCW6mao3LWUG5xAlKajIEzftEsFRN18YjYXMsGsuI3S42mUoz54atJ7rf5uJiuZHJCS0KRJxasQNRYAhxWvinHfPcjOpQ4nrweztsI6KfUyk/w4E3zYHDAj60Ep82CNQ7gewq/+Ert2kBGyviXC01fsf6V0EAwh/yaKKZF1dKEFpdE=;bzq4H7MeLc4OcaaJRfnGcA=="
 ---

@@ -41,32 +41,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Computer Vision Market Growth and Top Key Players Analysis Report 2026"
-    excerpt: "Global Computer Vision Market was valued at USD 11.88 Billion in 2018 and is projected to reach USD 21.24 Billion by 2026, growing at a CAGR of 7.49% from 2019 to 2026. The report includes an in-depth analysis of the toggle switch market,"
-    publishedDateTime: 2020-02-19T08:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-growth-and-top-key-players-analysis-report-2026-2020-02-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Natural Language Processing Market is expected to see growth rate of 20.84%"
-    excerpt: "Advance Market Analytics released the research report of Global Natural Language Processing Market, offers a detailed overview of the factors influencing the global business scope. Natural Language Processing Market research report shows the latest market insights with upcoming trends and breakdown of the products and services."
-    publishedDateTime: 2020-02-21T16:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-is-expected-to-see-growth-rate-of-2084-2020-02-21?mod=mw_quote_news"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "Artificial Intelligence (AI) In Food and Beverages Market Rising Trends, Technology and Demand 2020-2025"
     excerpt: "Artificial Intelligence (AI) In Food & Beverages market has been thoroughly scrutinized and then carefully demarcated by geographic locations which are based on major economic regions and their topographical regions."
     publishedDateTime: 2020-02-17T10:08:00Z
@@ -182,15 +156,6 @@ related:
       - url: "https://www.abnewswire.com/uploads/1582017829.jpeg"
         width: 600
         height: 250
-  - title: "Artificial Intelligence (AI) Market"
-    excerpt: "Artificial Intelligence (AI) Market Research Report 2020 features key trends and emerging drivers that shaping this Artificial Intelligence (AI) industry growth as the study avails you with market characteristics, size and growth, segmentation, regional breakdowns, competitive landscape, shares, trend and strategies for Artificial Intelligence ..."
-    publishedDateTime: 2020-02-19T14:25:00Z
-    webUrl: "https://www.openpr.com/news/1937991/artificial-intelligence-ai-market-2020-growth-regional"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 32
 
 secured: "cPVm7hzWenOL1XGrQ+FUXY8fU+bFl8cejuNSo+QWdJagJpG1m8rpM6Y8ADeOEbtWZK+5zg2Ol490YUCV9623ZG684Rsxjx0VhmCHAWDLEiUU3BrtHVAFbWgchmlec+pwe0pB71VLXWY3HRvIm2ini6cAZuRngaiQNivsS38lWv6sBfD/e7xgmoMA7VPjjFSWXHyzqAa/8jEfF5t/yMWHys600u6rXvk6MDD2UVUFayF4WkS5azsdw0elnHG8y71ykBOvrRDq8/18M22kSnZHsGKl8UKd99++KdJSusvLH/v+1wggcbVCCVoX8qPtCYbm;u9BKsntVdSS6fAagpOfxUg=="
 ---

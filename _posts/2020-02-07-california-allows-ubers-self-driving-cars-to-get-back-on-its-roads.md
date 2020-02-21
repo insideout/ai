@@ -23,19 +23,6 @@ images:
     height: 419
     title: "California allows Uber’s self-driving cars to get back on its roads"
 
-related:
-  - title: "Uber gets California nod to restart self-driving test"
-    excerpt: "The California Department of Motor Vehicles issued a permit on Wednesday to the company’s selfdriving unit, Uber Advanced Technologies.Reuters | February 07, 2020, 07:07 IST Uber Technologies has been allowed to restart testing its self-driving vehicles with a backup driver in California, almost two years after its autonomous car killed a ..."
-    publishedDateTime: 2020-02-07T01:37:00Z
-    webUrl: "https://tech.economictimes.indiatimes.com/news/technology/uber-gets-california-nod-to-restart-self-driving-test/73996819"
-    ampWebUrl: "https://tech.economictimes.indiatimes.com/amp/news/technology/uber-gets-california-nod-to-restart-self-driving-test/73996819"
-    cdnAmpWebUrl: "https://tech-economictimes-indiatimes-com.cdn.ampproject.org/c/s/tech.economictimes.indiatimes.com/amp/news/technology/uber-gets-california-nod-to-restart-self-driving-test/73996819"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 24
-
 secured: "D5G6/DdKtQkYdslHt+77alz4dA9ckH8YJ+6pAmaJMydmTDyDIgIni1tAiM2jdage4gHiBBaUG3+ZN8EJ26E0A0abnwNumRDv+XIg/YARiynbzfgdCQce5or1OZpibEusKw4WNQi5O0eQSHVSjxJTDvUG/EdktDLzJ1c/JauE8bc+2Ece1LJzcf7P5iFylpKStTihvTLUpb6D9V/EZsZMGW5JtS1AyphXJX6KcFvo4n2cfaAuSgx8cdQanCDzXaalrMgGTz2Iyc+Y+uYKLSyttdMOGrcGG+vSDDjNkuAbfAOq4V5dii5pJFn560iP1A2S;4xdWr23Ky8ZHtLxTNamCUQ=="
 ---
 

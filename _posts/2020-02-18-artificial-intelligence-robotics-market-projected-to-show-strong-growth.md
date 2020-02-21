@@ -18,36 +18,23 @@ topics:
   - AI in Robotics
 
 related:
-  - title: "Space Robotics Market Emerging Trends and Strong Application Scope by 2025"
-    excerpt: "HTF Market Intelligence released a new research report of 150 pages on title 'Global Space Robotics Market Insights by Application, Product Type, Competitive Landscape & Regional Forecast 2025' with detailed analysis,"
-    publishedDateTime: 2020-02-17T16:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/space-robotics-market-emerging-trends-and-strong-application-scope-by-2025-2020-02-17"
+  - title: "Artificial Intelligence (AI) Market is Projected to Reach USD 169.9 Billion in 2026"
+    excerpt: "The major factors propelling the growth of the Global Artificial Intelligence (AI) market include the rise in the adoption of cloud-based applications and services and the growth of big data across the globe."
+    publishedDateTime: 2020-02-21T18:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-is-projected-to-reach-usd-1699-billion-in-2026-2020-02-21"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 82
+    quality: 84
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Service Robotics Market 2024: Regional Outlook, Latest Trend & Industry Share Report"
-    excerpt: "The personal sector has turned to be another prominent application vertical for service robotics market, especially with the increasing deployment of household and entertainment robots. Rising penetration of vacuum cleaners,"
-    publishedDateTime: 2020-02-20T17:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/service-robotics-market-2024-regional-outlook-latest-trend-industry-share-report-2020-02-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 77
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Know the Rapid Growth Factors of AI chips Market| Stay Up-to-date with Emerging Industry Trends Ahead"
-    excerpt: "Global AI chips Market Research Report 2020 include all basic information related to the global Industry and forecast till 2024 AI chips are the silicon chips which includes AI technology and use machine learning and IoT that have the ability to analyse data and make decisions based on it."
-    publishedDateTime: 2020-02-14T08:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/know-the-rapid-growth-factors-of-ai-chips-market-stay-up-to-date-with-emerging-industry-trends-ahead-2020-02-14"
+  - title: "Computer Vision Market Growth and Top Key Players Analysis Report 2026"
+    excerpt: "Global Computer Vision Market was valued at USD 11.88 Billion in 2018 and is projected to reach USD 21.24 Billion by 2026, growing at a CAGR of 7.49% from 2019 to 2026. The report includes an in-depth analysis of the toggle switch market,"
+    publishedDateTime: 2020-02-19T08:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-growth-and-top-key-players-analysis-report-2026-2020-02-19"
     type: article
     provider:
       name: MarketWatch
@@ -57,140 +44,32 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Artificial Intelligence in Aviation Market to witness remarkable growth By 2025"
-    excerpt: "HTF Market Intelligence released a new research report of 150 pages on title 'Global Artificial Intelligence in Aviation Market Insights by Application, Product Type, Competitive Landscape & Regional Forecast 2025' with detailed analysis,"
-    publishedDateTime: 2020-02-17T16:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-to-witness-remarkable-growth-by-2025-2020-02-17"
+  - title: "Natural Language Processing Market is expected to see growth rate of 20.84%"
+    excerpt: "Advance Market Analytics released the research report of Global Natural Language Processing Market, offers a detailed overview of the factors influencing the global business scope. Natural Language Processing Market research report shows the latest market insights with upcoming trends and breakdown of the products and services."
+    publishedDateTime: 2020-02-21T16:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-is-expected-to-see-growth-rate-of-2084-2020-02-21?mod=mw_quote_news"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 65
+    quality: 67
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "AI for BFSI Sector Market Emerging Trends and Global Industry Forecast to 2024"
-    excerpt: "Considering the end-use segment of AI for BFSI sector market, the banks hold more than 50% of the market share. Majority of the banks have been collaborating with fintech companies to revamp the existing services and improve the customer services."
-    publishedDateTime: 2020-02-19T10:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-for-bfsi-sector-market-emerging-trends-and-global-industry-forecast-to-2024-2020-02-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Space Robotics Market may see a growth rate of 8.73% | Northrop Grumman, Maxar Technologies, Ispace, Astrobotic Technology"
-    excerpt: "Advance Market Analytics published a new research publication on \"Global Space Robotics Market Insights, to 2025\" with self-explained Tables and charts in presentable format. In the Study you will find new evolving Trends,"
-    publishedDateTime: 2020-02-19T10:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/space-robotics-market-may-see-a-growth-rate-of-873-northrop-grumman-maxar-technologies-ispace-astrobotic-technology-2020-02-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "US AI In BFSI Market 2019 Size, Rapid Growth, Industry Analysis, Future Trends, Segmentation and Forecast to 2025"
-    excerpt: "US AI In BFSI Market Size features a succinct analysis on the latest market trends. The report also includes detailed abstracts about statistics, revenue forecasts and market valuation, which additionally highlights its status in the competitive landscape and growth trends accepted by major industry players."
-    publishedDateTime: 2020-02-18T13:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/us-ai-in-bfsi-market-2019-size-rapid-growth-industry-analysis-future-trends-segmentation-and-forecast-to-2025-2020-02-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Germany and France Automatic Speech Recognition Market Analysis 2020: by Players, Type, Application and Forecasts to 2025"
-    excerpt: "The report on Automatic Speech Recognition market refers to 2020 as the base year to procure information pertaining to historical data, and extends a holistic data compilation stretching until 2025 for future prospects."
-    publishedDateTime: 2020-02-21T10:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/germany-and-france-automatic-speech-recognition-market-analysis-2020-by-players-type-application-and-forecasts-to-2025-2020-02-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 44
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Europe AI for Automotive Market 2019 | Global Trends, Top Key Players, Size, Future Scope, Growth Factors and Forecast to 2025"
-    excerpt: "AI for Automotive Market provides a detailed analysis regarding market size, revenue estimations and growth rate of the industry. In addition, the report illustrates the major obstacles and newest growth strategies adopted by leading manufacturers who are a part of the competitive landscape of this market."
-    publishedDateTime: 2020-02-19T07:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/europe-ai-for-automotive-market-2019-global-trends-top-key-players-size-future-scope-growth-factors-and-forecast-to-2025-2020-02-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "AI in Fintech Market 2020 By Top Countries Data, Market Size, Defination, Business Opportunity, Trend, Segmentation and Forecast to 2024"
-    excerpt: "Global AI in Fintech Market 2020 report is a proficient and in-depth research report on the world's major regional market conditions, focusing on the main regions (North America, Europe and Asia-Pacific)."
-    publishedDateTime: 2020-02-20T14:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-2020-by-top-countries-data-market-size-defination-business-opportunity-trend-segmentation-and-forecast-to-2024-2020-02-20"
+  - title: "Artificial Intelligence In Construction Market is Estimated to Achieve $ 2.1 Billion by 2026"
+    excerpt: "The global Artificial Intelligence In Construction Market will increase by a CAGR of approximately 29.4% from 2019 to 2026 and is expected to achieve a market value above US$ 2.1 Billion in 2026. The report provides analysis of global Artificial Intelligence In Construction Market for the period 2015-2026,"
+    publishedDateTime: 2020-02-18T06:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-construction-market-is-estimated-to-achieve-21-billion-by-2026-2020-02-18"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
     quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Global Machine Learning in Automobile Market 2020, by Applications, Industry Profiles, Trends, Technology, Demand and Opportunities to 2024"
-    excerpt: "Report on the Global Machine Learning in Automobile Market outlines the comprehensive study of market comprising overview, production, producers, dimensions, income, price, consumption, growth rate, sales revenue,"
-    publishedDateTime: 2020-02-18T13:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-in-automobile-market-2020-by-applications-industry-profiles-trends-technology-demand-and-opportunities-to-2024-2020-02-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Global Artificial Intelligence in Construction Industry 2020 Emerging Trends, Growth Opportunities and Strong Application Scope by 2025"
-    excerpt: "Market Overview The artificial intelligence in construction market was valued at USD 580.70 million in 2019, and is expected to reach a value of USD 3,327.06 million by 2025, at a CAGR of 33.79%, during the forecast period (2020 - 2025)."
-    publishedDateTime: 2020-02-19T12:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-construction-industry-2020-emerging-trends-growth-opportunities-and-strong-application-scope-by-2025-2020-02-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence In Medical Imaging Market Emerging Trend and Global Demand 2020 to 2026 | Alphabet Inc. GOOG, Cisco Systems, Inc. CSCO"
-    excerpt: "The latest market report on Artificial Intelligence In Medical Imaging 2020-26 offers an in-depth analysis of this business vertical involving key information concerning industry deliverables, predominantly market tendencies,"
-    publishedDateTime: 2020-02-20T21:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medical-imaging-market-emerging-trend-and-global-demand-2020-to-2026-alphabet-inc-nasdaqgoog-cisco-systems-inc-nasdaqcsco-2020-02-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence Platform Market Size 2020 By Top Countries Data, Defination, SWOT Analysis, Applications, Trends and Forecast to 2024"
-    excerpt: "A new research report titled \"2020-2024 Global and Regional Artificial Intelligence Platform Industry Production, Sales and Consumption Status and Prospects Professional Market Research Report\" successfully exhibits the complete scenario of the global and an individual analysis of the various regional segments."
-    publishedDateTime: 2020-02-20T14:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-platform-market-size-2020-by-top-countries-data-defination-swot-analysis-applications-trends-and-forecast-to-2024-2020-02-20"
+  - title: "Automotive Artificial Intelligence Market is Expected to Grow at a CAGR of 41.0% to Reach $ 18.7 Billion by 2025 | Meticulous Research(R)"
+    excerpt: "Meticulous Research® – leading global market research company researching on market titled “Automotive Artificial Intelligence Market by Offering (Hardware, Software), Technology (Machine Learning, Deep Learning,"
+    publishedDateTime: 2020-02-19T14:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-is-expected-to-grow-at-a-cagr-of-410-to-reach-187-billion-by-2025-meticulous-researchr-2020-02-19"
     type: article
     provider:
       name: MarketWatch
@@ -200,113 +79,45 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Statistical Natural Language Processing Market Trend, Technology Innovations and Growth Prediction 2020"
-    excerpt: "The QyMarketResearchStore has published the obtainability of a new statistical data to its repository titled as, Statistical Natural Language ProcessingMarket. The report provides useful insights into a wide range of business aspects such as pillars,"
-    publishedDateTime: 2020-02-11T07:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/statistical-natural-language-processing-market-trend-technology-innovations-and-growth-prediction-2020-2020-02-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
-  - title: "Gesture Recognition Market Global Trends, Demand, Industry Verticals and Supply by Future Prediction 2020 to 2025"
-    excerpt: "Global Gesture Recognition Market 2020-2025: The Global Gesture Recognition Market is expected to register a CAGR of over 27.9% during the forecast period, 2020 - 2025. The development of artificial intelligence (AI) has given rise to the gesture of recognition-based devices."
-    publishedDateTime: 2020-02-18T11:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/gesture-recognition-market-global-trends-demand-industry-verticals-and-supply-by-future-prediction-2020-to-2025-2020-02-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Machine Vision Market Types, Application and Global Outlook 2019 to 2025; Cognex Corp.(nas:CGNX), Basler, OMRON Corp.OMRNF"
-    excerpt: "The Machine Vision Market research report 2019 includes analysis of factual data that provides research results, vital recommendations, conclusions, and other important information to the readers, who in turn bases clients decision making on the content of the report."
-    publishedDateTime: 2020-02-14T13:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-vision-market-types-application-and-global-outlook-2019-to-2025-cognex-corpnascgnx-basler-omron-corpotcomrnf-2020-02-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 28
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Global AI Image Recognition Market 2020 Latest Innovations, Drivers, Dynamics, Industry Demand And Strategic Analysis by 2025"
-    excerpt: "Market Overview The Global AI Image Recognition Market estimated value was USD 1695.93 million in 2019 and is expected to reach a value of USD 622.03 million by 2025, registering a CAGR of 24.82% during the forecast period (2020 - 2025)."
-    publishedDateTime: 2020-02-18T06:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-ai-image-recognition-market-2020-latest-innovations-drivers-dynamics-industry-demand-and-strategic-analysis-by-2025-2020-02-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 26
-  - title: "Global Fog Networking Market 2020-2025 Emerging Trends, Revenue, Demand & Applications"
-    excerpt: "Market Overview The fog networking market is expected to reach a value of USD 1446.63 million in 2025, from USD 65.53 million in 2019, growing at a CAGR of 67.90% during the forecast period (2020 - 2025)."
-    publishedDateTime: 2020-02-19T11:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-fog-networking-market-2020-2025-emerging-trends-revenue-demand-applications-2020-02-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 26
-  - title: "Computer Vision in Healthcare Market by Trends, Growth Projections and Forecast To 2020-2025"
-    excerpt: "New York, February 18, 2020: The Global Computer Vision in Healthcare Market is expected to exceed more than US$ 343.3 Billion by 2024 at a CAGR of 21.3% in the given forecast period. Browse Full Report: https://www.marketresearchengine.com/computer-vision-in-healthcare-market Market Research Engine has published a new report titled as ..."
-    publishedDateTime: 2020-02-18T17:29:00Z
-    webUrl: "https://www.openpr.com/news/1936487/computer-vision-in-healthcare-market-by-trends-growth"
+  - title: "Artificial Intelligence (AI) Market"
+    excerpt: "Artificial Intelligence (AI) Market Research Report 2020 features key trends and emerging drivers that shaping this Artificial Intelligence (AI) industry growth as the study avails you with market characteristics, size and growth, segmentation, regional breakdowns, competitive landscape, shares, trend and strategies for Artificial Intelligence ..."
+    publishedDateTime: 2020-02-19T14:25:00Z
+    webUrl: "https://www.openpr.com/news/1937991/artificial-intelligence-ai-market-2020-growth-regional"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 25
-  - title: "Global Context Aware Computing Market 2020 Technology Trends, High Demand, Competitive Landscape and Strong Application Scope by 2025"
-    excerpt: "Global Context Aware Computing Market 2020-2025: The Global Context Aware Computing Market was valued at USD 42.59 billion in 2019, and it is expected to reach a value of USD 205.40 billion by 2025, at a CAGR of 30."
-    publishedDateTime: 2020-02-18T05:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-context-aware-computing-market-2020-technology-trends-high-demand-competitive-landscape-and-strong-application-scope-by-2025-2020-02-18?mod=mw_quote_news"
+    quality: 32
+  - title: "Global Cyber Security Market Value Projected to Exceed $280 Billion by 2027"
+    excerpt: "/PRNewswire/ -- The Global cyber security market value stood at USD 112.01 billion in 2019 and is projected to reach USD 281.74 billion by 2027, exhibiting"
+    publishedDateTime: 2020-02-19T13:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/global-cyber-security-market-value-projected-to-exceed-280-billion-by-2027-301007223.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 23
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Speech and Voice Recognition Market Size & Share By Sales Revenue, Future Demands, Growth Factors and Emerging Trends Forecast to 2026"
-    excerpt: "Top Players in Speech and Voice Recognition Market are Google, Baidu, Facebook, Amazon, Advanced Voice Recognition Systems, Apple Inc, IBM , Microsoft , Brianasoft, Voicebox Technologies Corporation,"
-    publishedDateTime: 2020-02-20T06:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-size-share-by-sales-revenue-future-demands-growth-factors-and-emerging-trends-forecast-to-2026-2020-02-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 22
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Self-Driving Car Market Trends Report 2019-2027 by Level of Automation, Type, End-user and Region"
-    excerpt: "Dublin, Feb. 12, 2020 (GLOBE NEWSWIRE) -- The \"Global Self-Driving Car Market Demand Analysis & Opportunity Evaluation, 2019-2027\" report has been added to ResearchAndMarkets.com's offering. The United States is considered as the major hub for companies in autonomous vehicle development,"
-    publishedDateTime: 2020-02-12T12:55:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/02/g15309208/self-driving-car-market-trends-report-2019-2027-by-level-of-automation-type-end-user-and-region"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/15309208"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15309208"
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+  - title: "Global Artificial Intelligence In Accounting Market on Target to Reach $ 7,085 Million By 2025"
+    excerpt: "The\"Global Artificial Intelligence In Accounting Market Is Anticipated To Reach Around USD 7,085 Million By 2025\"published and promoted by Zion Market Research provides in-depth segment analysis of the market being effective in several sectors, thereby providing valuable insights to the rivals. The global Artificial Intelligence in Accounting ..."
+    publishedDateTime: 2020-02-19T10:36:00Z
+    webUrl: "https://www.openpr.com/news/1937360/global-artificial-intelligence-in-accounting-market-on-target"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 11
-  - title: "Trending News For Automotive Voice Recognition Market 2020 Analysis, Forecast Of Business Revenue, Size, Leading Competitors And Growth Trends"
-    excerpt: "Automotive Voice Recognition Market Moving Towards 2020 With New Procedures, Provides Exhaustive PEST Analysis by 2029 | North America, Europe, APAC, MEA and South and Central America.” An executive summary created through considerable unique primary research (inputs from various industry experts,"
-    publishedDateTime: 2020-02-11T08:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/trending-news-for-automotive-voice-recognition-market-2020-analysis-forecast-of-business-revenue-size-leading-competitors-and-growth-trends-2020-02-11"
+      name: openpr.com
+      domain: openpr.com
+    quality: 5
+  - title: "Emotion Detection and Recognition (EDR) Market to Reach $33.9 Billion at a CAGR of 28.9% by 2023: AMR"
+    excerpt: "Surge in popularity of wearable technology, growth of Internet of Things, and increase in adoption of smartphones drive the growth of the global emotion recognition and detection market. Based on end user,"
+    publishedDateTime: 2020-02-17T16:14:00Z
+    webUrl: "https://www.globenewswire.com/news-release/2020/02/17/1985745/0/en/Emotion-Detection-and-Recognition-EDR-Market-to-Reach-33-9-Billion-at-a-CAGR-of-28-9-by-2023-AMR.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
+      name: GlobeNewswire
+      domain: globenewswire.com
     quality: 0
 
 secured: "IJ34uXxtPgn2qsme6SVqwr4EUc/PST9k6qFiJGB0jDehSSZ5O1aBPRi/ZKiq+aI3BecPD2Fa0hG7qZ8vVoxxMtb1WtM8VO1zXj44vgQJXom9eFmSVR+IzK4RaTmixLfOoJ28c+5V+Ya6bVxBC4EyWgZqGL0cvP/KhanFkfh+mT5OE/oDq09aUqKXo39wcyQuHFf8wTaM4gVTNL1HONduNIe7MOqNMuro/KL7l2mtz32L1FnWB8AVEhLgdN3ZP8swrxRuwpzJW9eefu5aH6TUnbRUewdak3P3+7NiZyPUhEUIOWW3g4C8BFjAisnaC2cP;bcItAzUMqzMGCu1HZFDk4g=="

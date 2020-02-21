@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Top 7 Usecases for Touchscreen Object Recognition"
-excerpt: "This whitepaper from eyefactive presents some of the most exiting usecases of touchscreen object recognition for interactive displays, tables and video walls. The recognition of objects on large-scale touch screens picks up the well-known principle of ..."
+excerpt: "This whitepaper from eyefactive presents some of the most exiting usecases of touchscreen object recognition for interactive displays, tables and video walls. The recognition of objects on large-scale touch screens picks up the well-known principle of cashier systems barcodes and takes it to a new level: objects which are equipped with a ..."
 publishedDateTime: 2020-01-27T14:40:00Z
 webUrl: "https://www.digitalsignagetoday.com/whitepapers/top-7-usecases-for-touchscreen-object-recognition/"
 type: article
@@ -40,6 +40,6 @@ related:
         width: 1200
         height: 800
 
-secured: "pseM+MCJAUGBf3wPLNTdNJDiMTFA+gJB8uZqF6kxAiuuPEsN0Qkt6ZZ1itKcAYcTBdaUoDY6O6jbZFidR+IEvx1/QKGmvqBa1JjDRGy4bW5IoVW+UaW6ZbNKMCJgR7epu9zwY0LvrmTZTmUmmJAPc/P6XPXDB+DrTLjTfPRGPtD+EE01nzZo80RTN8/CLxkD6l9Y3tSnITdgSWQxL3bzf9GibUesjIFWYThMeGoMR5yxT9Mo8jwAQ4Em1vWELXKztKmO0OKDrOxQS2UyLxq6Rcfq5kkH6mYKbqd2RdznvGXU2AfucDwfmFaVydZg9ufh;xmMPZhd6Z9wWGxb/08qi6g=="
+secured: "Gy5tReMsGga6uGWs1rzjmlTFA+cl9ZvdjiEdfsk1oaUTg10gpCJTRjKuV8k5z1QcgnjjBcUaEEvdF5oH5AUXUgDsE6LXH3DJ8XQ6iQ7WrruLvgt3TOk1ISrjxbKil0LLOLY5bCCPT+p9iatbxy37K9BNwoRuCJdNgWkKVWQQjjIkm1BYEqitDDigP8yR9fDG9fVob0TgzHCXQi8xWrofW++QtrkKc0BJ+cVwObIVhZQTwHZ9gbTCsMUATOtamRg5rX51JkecHABaKZVNCXbTeAQX7tQC4fIGdHdiSIazPo8/cNdU2eMxuKTPX9gzzsDk;EHmRCJtygo15xb4QDcLJlQ=="
 ---
 

@@ -40,32 +40,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Computer Vision Market Growth and Top Key Players Analysis Report 2026"
-    excerpt: "Global Computer Vision Market was valued at USD 11.88 Billion in 2018 and is projected to reach USD 21.24 Billion by 2026, growing at a CAGR of 7.49% from 2019 to 2026. The report includes an in-depth analysis of the toggle switch market,"
-    publishedDateTime: 2020-02-19T08:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-growth-and-top-key-players-analysis-report-2026-2020-02-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Natural Language Processing Market is expected to see growth rate of 20.84%"
-    excerpt: "Advance Market Analytics released the research report of Global Natural Language Processing Market, offers a detailed overview of the factors influencing the global business scope. Natural Language Processing Market research report shows the latest market insights with upcoming trends and breakdown of the products and services."
-    publishedDateTime: 2020-02-21T16:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-is-expected-to-see-growth-rate-of-2084-2020-02-21?mod=mw_quote_news"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "Global Mobile Artificial Intelligence (MAI) Market 2020 Industry Analysis, Opportunities & Forecast To 2026"
     excerpt: "Mobile Artificial Intelligence (MAI) Market 2020 Wiseguyreports.Com Adds \"Mobile Artificial Intelligence (MAI) - Global Market Growth, Opportunities, Analysis of Top Key Players and Forecast to 2026\" To Its Research Database."
     publishedDateTime: 2020-02-17T06:16:00Z
@@ -181,15 +155,6 @@ related:
       - url: "https://www.abnewswire.com/uploads/1582017829.jpeg"
         width: 600
         height: 250
-  - title: "Artificial Intelligence (AI) Market"
-    excerpt: "Artificial Intelligence (AI) Market Research Report 2020 features key trends and emerging drivers that shaping this Artificial Intelligence (AI) industry growth as the study avails you with market characteristics, size and growth, segmentation, regional breakdowns, competitive landscape, shares, trend and strategies for Artificial Intelligence ..."
-    publishedDateTime: 2020-02-19T14:25:00Z
-    webUrl: "https://www.openpr.com/news/1937991/artificial-intelligence-ai-market-2020-growth-regional"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 32
 
 secured: "6zNULe6ftJOgmoCLoD4PXBFiCRQwRIjS5hBl5UmV2x8t3QUL64UyZnR+EHqzuSmf4n0WXcvUQL5J7CtXUXyHYwr2lAwLnb08TSRmjfppHh6jKSGZAXrZLKx/bM76cuaNRq4lOgD9qMMiB0Vkub1DrCigIbCcpXkFbevU8xeNtQezv3XlmFCvtCZv5OgLv/IhtlHkMKKP6+KXZ9MEBUX8OgWb0nd67PjAWHSHmc2qWcz7rwvcwdZGrz+A/bK6mKYOynk1QN/PjFnRXSzCZKP0bSIG63OXVmZ4TDgQJabZ4gl6m+XizgGrWUMTtTRrtldQ;NXEw/JLNWn/jWOAR4lFedA=="
 ---

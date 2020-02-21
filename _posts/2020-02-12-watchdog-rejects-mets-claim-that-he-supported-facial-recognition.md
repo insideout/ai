@@ -212,6 +212,21 @@ related:
       - url: "https://media2.govtech.com/images/seattle8.jpg"
         width: 940
         height: 630
+  - title: "Strict Facial Recognition Ban Considered in Portland, Ore."
+    excerpt: "“Please look at camera for entry.” Jacksons’ use of facial recognition technology could soon be outlawed in Portland. City officials are considering the strictest ban of the technology in the country, prohibiting its use not only by government agencies but also private businesses. Facial recognition technology typically uses a camera and ..."
+    publishedDateTime: 2020-02-21T18:52:00Z
+    webUrl: "https://www.govtech.com/security/Strict-Facial-Recognition-Ban-Considered-in-Portland-Ore.html"
+    ampWebUrl: "https://www.govtech.com/security/Strict-Facial-Recognition-Ban-Considered-in-Portland-Ore.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/security/Strict-Facial-Recognition-Ban-Considered-in-Portland-Ore.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://media2.govtech.com/images/shutterstock_1323541409.jpg"
+        width: 1038
+        height: 630
   - title: "AI and facial recognition in 2020: where’s the line?"
     excerpt: "security and AI ethics to be at the forefront of the conversation. As regulations continue to be made at a city, state or federal level, they will shape the extent to which we can use AI, and how we will approach the “AI race” in this decade."
     publishedDateTime: 2020-02-14T10:08:00Z

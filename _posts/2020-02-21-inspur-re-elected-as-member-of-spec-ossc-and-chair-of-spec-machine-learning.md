@@ -5,8 +5,8 @@ excerpt: "It is worth noting that Inspur, a re-elected OSSC member, was also re-
 publishedDateTime: 2020-02-21T14:07:00Z
 webUrl: "https://www.businesswire.com/news/home/20200221005123/en/Inspur-Re-Elected-Member-SPEC-OSSC-Chair-SPEC"
 type: article
-quality: 54
-heat: 54
+quality: 52
+heat: 52
 published: false
 
 provider:
@@ -16,7 +16,6 @@ provider:
 topics:
   - AI
   - Machine Learning
-  - Google AI
 
 images:
   - url: "https://mms.businesswire.com/media/20200221005123/en/774950/23/inspur_logo.jpg"
@@ -24,6 +23,6 @@ images:
     height: 627
     title: "Inspur Re-Elected as Member of SPEC OSSC and Chair of SPEC Machine Learning"
 
-secured: "fZffCzwWc5UJt91Y1+XvAi1A06ke99kdB+Z/WXCTV+ol4fbJ58ED7nVA7CR3tzDIyoX7h/pulvlDe/YvpkeFGCqxrss0WugwP0cJeIR7+oFH9pcxwdc26dbVZDItw09OR+ieT13G9CDj704pvQUb4p1DyZyagJMGaik8TS1nNRfhbrqvw57I+45V37YA9PZEXcYOrvNSoT1VLXc8x3uB+7cPZOoFXCd44/iXAmWthxcQEWHk2Ia+R/pS47tZ7Z5AQZ6OaTsIULjcEOp5FurdLPeSoxDk9sY4L8RnAogU071Eoop18zy723YCQ1zoV6qqZDFqgyGByTsQaVzJzzAJlT45MQTyz4kKdg1sg0mF+QELjGLsCpL94WoGdgvm2pfLGMZGJ0FkAYnppjN1LbdpDwVN+n+lbZbnR/Te5pCuUAH1YcKpe2h32S9HSF5PankVCBn4dcV3wzHZwq/H3aiwPTwIFIJaO/vowCpbSXhEv8g=;6dFJb9+m9k9ms8Wo6XGf3w=="
+secured: "31EnPNfeibJ5pdNR5TH/kGVxgQSHrQmS1BhsZZtNsawZG7u/mNf7vnYoqgopbXt474+EkENavLOVKc6KapLyMICL407l9enwfehKz42NP5sGtSIM9c+gtsotCJmxpJVNRQDzYb+U1Vptgwe1/88UCrcGIKP8tg9r4U6MtHL539cP6OlAdYmI9V8oyfHg5/0viwGHVZOPMVC4WsZ+VUx/bMa3Dyzj8VCLUetmV1XZBjG5F5dvfz25wT9cfs+TA0jbaRn4MeWdJc3xuw32mP9fjDw/wnAv+XP1SShvTGCSqk9OGyGDsg8wv2BgmniCjpxY;XAhMSw4IM/QKlObgLlRB4A=="
 ---
 

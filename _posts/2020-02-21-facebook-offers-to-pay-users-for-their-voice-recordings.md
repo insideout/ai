@@ -1,29 +1,25 @@
 ---
 category: news
 title: "Facebook offers to pay users for their voice recordings"
-excerpt: "The recordings, made through its new market research app Viewpoints, will help to train the speech recognition system that powers Facebook’s Portal devices, which rival Amazon’s Echo speakers and its Alexa virtual assistant. Makers of smart speakers including Facebook, Amazon, Apple and Google faced criticism last year when it emerged ..."
-publishedDateTime: 2020-02-21T13:24:00Z
-webUrl: "https://www.ft.com/content/42f6b93c-54a4-11ea-8841-482eed0038b1"
-ampWebUrl: "https://amp.ft.com/content/42f6b93c-54a4-11ea-8841-482eed0038b1"
-cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/42f6b93c-54a4-11ea-8841-482eed0038b1"
+excerpt: "The recordings, made through its new market research app Viewpoints, will help to train the speech recognition system that powers Facebook’s Portal devices, which rival Amazon’s Echo speakers and its Alexa virtual assistant. Makers of smart speakers including Facebook, Amazon, Apple and Google faced criticism last year when it emerged that ..."
+publishedDateTime: 2020-02-21T18:33:00Z
+webUrl: "https://arstechnica.com/tech-policy/2020/02/facebook-offers-to-pay-users-for-their-voice-recordings/"
 type: article
-quality: 44
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: The Financial Times
-  domain: ft.com
+  name: Ars Technica
+  domain: arstechnica.com
+  images:
+    - url: "/assets/images/organizations/arstechnica.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
   - Natural Language Processing
-
-images:
-  - url: "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F572c7db8-54ab-11ea-a1ef-da1721a0541e?source=google-amp&fit=scale-down&width=500"
-    width: 500
-    height: 281
-    title: "Facebook offers to pay users for their voice recordings"
 
 related:
   - title: "Facebook will now pay you for your voice recordings"
@@ -374,6 +370,6 @@ related:
         width: 1763
         height: 1175
 
-secured: "oQHOd2kEMM4vyVdFHGgX3Hh6YFcpMpeHS5G31WulDx6j1bYVzI3BpiL+2wWot005KZyVq5q24eX/6ow6lsgzkaO1jPX4+MzaZBdpA1FQS5XbzhBnrALG4T0FLr1EntMDF2548tIRYN3fWN9nEZyREzqkZ5EV0bdIQrmn1rKKhsV+w2f4s/dNzDlA8WstLTj5yAL2Tdzd1yxU4A1OGZ7P2tHCM2fDixFCvRbOCieEm+zwx3t58JMTyRtRLSxRKzC8hHyLb0zC7cl7uMg1UUo+54FuOZ8qAoSp2G+lVs1S4W9wVCh7/BEVSj38Nm0QtXLH;pfMa7YkS7T7auBlsG8Jaxw=="
+secured: "kNe7a+2cHxnyXIuYVHrbpaK4CRJUYwkdITHaZBC9fb3kVcmi27ygEqvVYXp+lGNHFXIJoarVIacCduEejENqgp/BV9nU6aV2marYiq9CHRx8mdVEFEOAByQ4CciOVFlUiW39QCCvH+1whUXW+fclnhddhWr3gTgyLVb1FfqSlC7Bse8UN/3XPsafUXJaTFXmcONNAyostj6ERqRZuJDK6/b8qqJrlaITXoSV0m9V2mKxn+Z05hy4jymlAe+ShsnAv/UQndL41vdbWdszUhoLxFtvKlDONmWQ0u+QyUAm2hiDr7ME++cw6jqBa2iByvQ2NWV/08A8bUavMRPSAfU0eqe7gC4V1VpBeXWRiJRzW9ResQUZLpPqPM8D+tr7IyYERx1j2GmwfmnUTIsgaIMHeZYv3q4J3U6VugpB0UwUzrfOPaImJMh68k3C2Wy6872EgMEPKxMUQ2Qo/Uj3TDypOyXOYrQnpY7YjH6Mu1Yni1k=;ZuG08CvINjBLm6v7fBHPfg=="
 ---
 

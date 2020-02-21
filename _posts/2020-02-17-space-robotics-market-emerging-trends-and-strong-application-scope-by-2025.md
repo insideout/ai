@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-17T16:44:00Z
 webUrl: "https://www.marketwatch.com/press-release/space-robotics-market-emerging-trends-and-strong-application-scope-by-2025-2020-02-17"
 type: article
 quality: 82
-heat: 322
+heat: 312
 published: true
 
 provider:
@@ -93,15 +93,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Artificial Intelligence Robotics Market Projected to Show Strong Growth"
-    excerpt: "A New Syndicate Global (United States, European Union and China) Artificial Intelligence Robotics Market Study is added in HTF MI database compiled covering key business segments and wider geographical scope to get deep dive analysed market data. The study brings a perfect bridging between qualitative and statistical data of Artificial ..."
-    publishedDateTime: 2020-02-18T07:44:00Z
-    webUrl: "https://www.openpr.com/news/1935391/artificial-intelligence-robotics-market-projected-to-show"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 49
   - title: "US AI In BFSI Market 2019 Size, Rapid Growth, Industry Analysis, Future Trends, Segmentation and Forecast to 2025"
     excerpt: "US AI In BFSI Market Size features a succinct analysis on the latest market trends. The report also includes detailed abstracts about statistics, revenue forecasts and market valuation, which additionally highlights its status in the competitive landscape and growth trends accepted by major industry players."
     publishedDateTime: 2020-02-18T13:01:00Z

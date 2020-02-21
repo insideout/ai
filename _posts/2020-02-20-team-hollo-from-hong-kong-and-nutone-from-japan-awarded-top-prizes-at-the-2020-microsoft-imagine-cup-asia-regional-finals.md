@@ -3,10 +3,10 @@ category: news
 title: "Team Hollo from Hong Kong and Nutone from Japan awarded top prizes at the 2020 Microsoft Imagine Cup Asia Regional Finals"
 excerpt: "Team Nutone from Japan and Team Hollo from Hong Kong captured the attention of the judges by harnessing Microsoft’s Azure Machine Learning and Cognitive Technologies to create solutions that provide greater accessibility, health and wellness to individuals and communities. Team Nutone developed a neck wearable EL (Electrolarynx) that restores ..."
 publishedDateTime: 2020-02-20T04:25:00Z
-webUrl: "https://news.microsoft.com/apac/2020/02/19/team-hollo-from-hong-kong-and-nutone-from-japan-awarded-top-prizes-at-the-2020-microsoft-imagine-cup-asia-regional-finals/"
+webUrl: "https://news.microsoft.com/en-my/2020/02/19/team-hollo-from-hong-kong-and-nutone-from-japan-awarded-top-prizes-at-the-2020-microsoft-imagine-cup-asia-regional-finals/"
 type: article
-quality: 0
-heat: 0
+quality: 14
+heat: 14
 published: false
 
 provider:
@@ -21,6 +21,12 @@ topics:
   - AI
   - Microsoft AI
 
-secured: "T6JM2FeWe5/aSkrEYxM0oTLOFoZZn6u0S5Tkn1NtvNnqFAOrqhawEQkjIzbs+AkDDdsQ1+sD3mTCmEhXhFWlIDi3jmbBqLucNHL12xgMFV1mYPBsZgWtZPOH7gFh7M+oXiv5bzdRw/bH2cm7ysYsUIKa08H7tptSUcZlqr3sFt1kxfjF3ha0lnjTUV4m76YsXK55pVzd0yChcH7xjouipo8LdeS5gA0kP3Wd1wuGSM1Cu//oD4PFWI2QovejJ3X3X+JgeaRAqcDthHjxl01na4u0rphQqLgXqwBHgiXVMGfATW9eXkiBjqMmWwAxVTHJblTa6DNVAcMO7Y2/h8nDxYdXrwzOp55EO149zSh3d6be5Y5hs9/E8cqh8D43jQEI5+ZEygjbKKoWk2mcPO7Rz+n+CnHUxPL+XrVAoTSiyOK7w9dkXct0X+47hIr2WjgEWJzSIdLhC+vC62FamMGEmHXrUp/xWJPlbEeK/NCT31A=;OQikBxC6+0yw0nwgOshoHQ=="
+images:
+  - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/430/2020/02/imagine-cup-7.jpg"
+    width: 1341
+    height: 894
+    title: "Team Hollo from Hong Kong and Nutone from Japan awarded top prizes at the 2020 Microsoft Imagine Cup Asia Regional Finals"
+
+secured: "UyttXtuzoymEwsqKElRpL2nlRdvmvRVEiVZbbvOs2/NxKMvAdh0YH5DEQGkh48dPMhL4MmUTL2xuy2EtansvOadYILP1mRtblm22AxU/cXw1CGPoBc/ysMhe3Wq5HbyGj6ydVoE/MoWdRCOPhp244TpoPCd3zkMdRhxeQgoyqmYKJ8k8++7d8AOZDxp1XrhIesAtrXSdoUblUK3tqDHomN0LaGG1tU6KI3fGgHSM1nVjsC4KiKFpj4gH1+WutVGO6OJcodQ9vsjD6euGs+t02gbhvWJZVdobu11XeM/jv+IsR8sGumGNw8nWGJ+pb21N;eFmhXd3p34zRJxl5wYk1lg=="
 ---
 

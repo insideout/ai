@@ -105,15 +105,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Artificial Intelligence Robotics Market Projected to Show Strong Growth"
-    excerpt: "A New Syndicate Global (United States, European Union and China) Artificial Intelligence Robotics Market Study is added in HTF MI database compiled covering key business segments and wider geographical scope to get deep dive analysed market data. The study brings a perfect bridging between qualitative and statistical data of Artificial ..."
-    publishedDateTime: 2020-02-18T07:44:00Z
-    webUrl: "https://www.openpr.com/news/1935391/artificial-intelligence-robotics-market-projected-to-show"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 49
   - title: "Germany and France Automatic Speech Recognition Market Analysis 2020: by Players, Type, Application and Forecasts to 2025"
     excerpt: "The report on Automatic Speech Recognition market refers to 2020 as the base year to procure information pertaining to historical data, and extends a holistic data compilation stretching until 2025 for future prospects."
     publishedDateTime: 2020-02-21T10:28:00Z

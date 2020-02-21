@@ -37,6 +37,19 @@ related:
       - url: "https://www.therobotreport.com/wp-content/uploads/2020/02/ids-nxt-ocean-industrial-cameras-ai-1000x800-02.jpg"
         width: 1000
         height: 800
+  - title: "Mortgage Lender Adds Artificial Intelligence to Post-Closing Process"
+    excerpt: "AI Foundry has developed advanced artificial intelligence, machine learning and machine vision to create cognitive robots that review loans, improve the speed and efficiency of mortgage processing, and deliver automation to all areas of the lending process. This automation greatly reduces and, in some cases, eliminates the need for a human ..."
+    publishedDateTime: 2020-02-21T18:26:00Z
+    webUrl: "https://mortgageorb.com/mortgage-lender-adds-artificial-intelligence-to-post-closing-process"
+    type: article
+    provider:
+      name: Texas
+      domain: mortgageorb.com
+    quality: 39
+    images:
+      - url: "https://mortgageorb.com/wp-content/uploads/2020/02/AI.jpg"
+        width: 910
+        height: 607
 
 secured: "dE7hp8qJk7vDBgkfbDjgyCxzdHHvUo+9OdLp7Uk2nT2NY/3UmXrNKPQ+cLc1A6ZD789QWJtBpU0cEVzeiege/je793qnV8+XZ+6FHrzscdocz4QfIOOMWlig4ctSDZdOv64eSmQ7tXK+IjivdLRJoS4/98wMC2u6I7LCa/TH6+P8oJpIIiIVljX6M+7+LaFM6q4ozE1+K4s9xEk7IankSWnQTL6LV6xMwp7AaymgJfB0hxtjN+x5t83GqrCkuVFOWvELaW8yp9CczwhOqNx4N2gHqpbHjcp9gmZAs8/1cmG7HOYYrKciPUB+IckW8hwWshywfowtv8bIr3eeDHLQePL10c0/lTNpKIt/NZT4Umv76hamaG8hjn43Fx8ovazlNGtuvV63o6YovPCxQ3UblJqoN1g9s1h7WzgBiYM+KgTIMwIVXOq8k/C4oh5dwttmjeXYMzJI6ea7gtKkhVlhNlH+heMaRJfK0P+vxCo2OsI=;EzmUhe01vSUkHvd6YKk1dw=="
 ---

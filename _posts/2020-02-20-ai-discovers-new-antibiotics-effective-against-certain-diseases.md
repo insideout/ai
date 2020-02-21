@@ -51,6 +51,17 @@ related:
       - url: "https://www.rawstory.com/wp-content/uploads/2020/02/A-colored-electron-microscope-image-of-MRSA.-NIH-NIAIDflickr-CC-BY.jpeg"
         width: 640
         height: 315
+  - title: "MIT researchers use artificial intelligence to identify powerful new antibiotic"
+    excerpt: "In brief: Researchers at MIT are harnessing the power of artificial intelligence to create powerful new drugs capable of killing disease-causing bacteria, some of which are resistant to all known types of antibiotics. Only a small number of new antibiotics have been developed over the past few decades due to the cost and time associated with ..."
+    publishedDateTime: 2020-02-21T19:27:00Z
+    webUrl: "https://www.techspot.com/news/84120-mit-researchers-use-artificial-intelligence-identify-powerful-new.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/84120-mit-researchers-use-artificial-intelligence-identify-powerful-new.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/84120-mit-researchers-use-artificial-intelligence-identify-powerful-new.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 63
   - title: "Artificial intelligence used to discover powerful new antibiotic"
     excerpt: "Scientists have used artificial intelligence to discover a new type of antibiotic which could kill some of the world's most dangerous drug-resistant bacteria. A team from Massachusetts Institute of Technology (MIT) say their machine-learning algorithm was able to identify a powerful new antibiotic compound which did not develop any resistance ..."
     publishedDateTime: 2020-02-21T07:51:00Z
@@ -92,6 +103,17 @@ related:
       name: Medical Xpress
       domain: medicalxpress.com
     quality: 39
+  - title: "AI Is Used to Discover a Novel Antibiotic"
+    excerpt: "Researchers announced the breakthrough discovery of a new type of antibiotic compound that is capable of killing many types of harmful bacteria, including deadly antibiotic-resistant strains, and published their findings in Cell on February 20. What makes this remarkable is that the researchers, from the Massachusetts Institute of ..."
+    publishedDateTime: 2020-02-21T18:09:00Z
+    webUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202002/ai-is-used-discover-novel-antibiotic"
+    ampWebUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202002/ai-is-used-discover-novel-antibiotic?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202002/ai-is-used-discover-novel-antibiotic?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 37
   - title: "Artificial Intelligence brings a novel antibiotic compound"
     excerpt: "Researchers from the Massachusetts Institute of Technology (MIT) have made a scientific breakthrough where their machine-learning algorithm or Artificial Intelligence (AI) program successfully created a novel antibiotic compound. The drug has since then been tested on deadly bacteria in the lab, and in lab mice with a considerable amount of ..."
     publishedDateTime: 2020-02-21T00:44:00Z

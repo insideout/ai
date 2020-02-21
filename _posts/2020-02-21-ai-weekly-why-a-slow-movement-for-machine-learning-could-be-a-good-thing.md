@@ -27,6 +27,6 @@ images:
     height: 600
     title: "AI Weekly: Why a slow movement for machine learning could be a good thing"
 
-secured: "g5d2R/59ehNRZ2/DjEc4dEvgIr6XOXZEiXyTv1OsdjlpE26dYSIOqsUmK8ozC9E6++bEKDf6cVdoBuA1Dd+8Q4rD5xXlRYlo63TvsiQhHApP+TgzwUmJHyuY9gFqNIX3/6KBVbt/VS5qCfHWTRcVFFbAUTHFSWtsV4Hz2CDeDdTG4bwQ26AHFfDeoDEscfERLRVKoswtR2U2MjvKPNcTrKvhffhpAXUB7W0cC6mypXYXfbqVtpYz0bmE/+zgZy4+Oe6jjwLf+bRqiUV/ftb+soDWeHf1PrjPGvUTEQ02OnHTNRtuSDB9HC8SYxAL2BOZ;WYtdIDl4JMjto/fNxNsv0w=="
+secured: "O9reiEZ+EEvG/eznM/5ZMmZI+cG5aB8pGoetYkBBIBgA524hH1C/ZqsJa2IFrHFbbIn45HhndVr8DUIt5zjF1YX5rcYtcX77nH+NJFDDujfdZgooyRfl2K0Blh0GvY03adKxVnw6glpgALRhsOs5zUjlvceGjFj3PMjXmWxofi6O97qcnbppGVca0y50oz+Jl2lxBq+nHN/RX1qqcCby4eivQJkSPoRDjM61LMLR9wqvn5DSeOyQvzcI+Q8RAyPYfXlAboUu8tk9NYxMQIYbr2Kyc/dONUknZfXpnnmNUKz/dJ0qwPE4qjR74K7T91jRmPJSDPRaOZKn+re23xa83I9KytPr6wDT1RgMk3qz1bBcaLrKeceW+8NZ/Vb5RhKLnYewyXCqqfWvFHScBPU+6s7O6tN2DIdRL/XF5abM6sVtitUHIdepxD29q5Vy4CcSp8+cmcPrZhQvl+poBvk/isB2RpOrIhGIjXCr5wn0dCg=;ymNgHjDkEqdeLFTHA318yw=="
 ---
 
