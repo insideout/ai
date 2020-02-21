@@ -24,45 +24,62 @@ images:
     title: "Waymo self-driving vehicle in collision in Phoenix suburb"
 
 related:
-  - title: "GM's Super Cruise Self-Driving Tech Will Be on 22 Vehicles by 2023"
-    excerpt: "GM is finally expanding its hands-free Super Cruise driver-assist system beyond the Cadillac brand. According to GM president Mark Reuss, the feature will be available as an option on 22 vehicles by 2023, with seven vehicles getting the feature next year and 12 more in 2022 and 2023. This, it goes without saying, is a huge expansion of the ..."
-    publishedDateTime: 2020-02-06T18:42:00Z
-    webUrl: "https://www.caranddriver.com/news/a30795396/gm-super-cruise-self-driving-2023/"
-    ampWebUrl: "https://www.caranddriver.com/news/amp30795396/gm-super-cruise-self-driving-2023/"
-    cdnAmpWebUrl: "https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp30795396/gm-super-cruise-self-driving-2023/"
+  - title: "US clears the way for this self-driving vehicle with no steering wheel or pedals"
+    excerpt: "CALIFORNIA — The federal government has cleared the way for a Silicon Valley startup to deploy thousands of its self-driving delivery vehicles on US streets. The R2 has no steering wheel, pedals or side mirrors as it’s designed to be unmanned and carry cargo. Large compartments on its side open up to reveal deliveries, such as groceries or ..."
+    publishedDateTime: 2020-02-07T19:34:00Z
+    webUrl: "https://wreg.com/2020/02/07/us-clears-the-way-for-this-self-driving-vehicle-with-no-steering-wheel-or-pedals/"
+    ampWebUrl: "http://wreg.com/2020/02/07/us-clears-the-way-for-this-self-driving-vehicle-with-no-steering-wheel-or-pedals/amp/"
+    cdnAmpWebUrl: "https://wreg-com.cdn.ampproject.org/c/wreg.com/2020/02/07/us-clears-the-way-for-this-self-driving-vehicle-with-no-steering-wheel-or-pedals/amp/"
     type: article
     provider:
-      name: Car and Driver
-      domain: caranddriver.com
-    quality: 44
+      name: WREG
+      domain: wreg.com
+    quality: 39
     images:
-      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/0127-super-cruise-lane-change-photo-final-1580163336.jpg?crop=1.00xw:0.747xh;0,0.165xh&resize=1200:*"
+      - url: "https://localtvwreg.files.wordpress.com/2020/02/hypatia-h_6c542cd4da989a321201ee0792ec843c-h_380deb702e8624c8a7d02bce596b8943.jpg?quality=85&strip=all&w=1200"
         width: 1200
-        height: 601
-  - title: "First Lexus with self-driving system arrives in 2020"
-    excerpt: "Lexus President Koji Sato has revealed that the automaker will offer its first self-driving system in 2020. Speaking with Automotive News (subscription required) in an interview published last week, Sato said the system will offer hands-off capability but drivers will still need to monitor the road and take over in case of an emergency."
-    publishedDateTime: 2020-02-11T15:00:00Z
-    webUrl: "https://www.motorauthority.com/news/1127062_first-lexus-with-self-driving-system-arrives-in-2020"
+        height: 800
+  - title: "Federal government approves California company’s self-driving vehicle with no wheel or pedals"
+    excerpt: "MOUNTAIN VIEW, Calif. — The federal government has cleared the way for a Silicon Valley startup to deploy thousands of its self-driving delivery vehicles on US streets. The R2 has no steering wheel, pedals or side mirrors as it’s designed to be unmanned and carry cargo. Large compartments on its side open up to reveal deliveries ..."
+    publishedDateTime: 2020-02-08T04:16:00Z
+    webUrl: "https://fox4kc.com/2020/02/07/federal-government-approves-california-companys-self-driving-vehicle-with-no-wheel-or-pedals/"
+    ampWebUrl: "https://fox4kc.com/2020/02/07/federal-government-approves-california-companys-self-driving-vehicle-with-no-wheel-or-pedals/amp/"
+    cdnAmpWebUrl: "https://fox4kc-com.cdn.ampproject.org/c/s/fox4kc.com/2020/02/07/federal-government-approves-california-companys-self-driving-vehicle-with-no-wheel-or-pedals/amp/"
     type: article
     provider:
-      name: Motor Authority
-      domain: motorauthority.com
+      name: FOX4 Kansas City
+      domain: fox4kc.com
+    quality: 33
+    images:
+      - url: "https://placehold.it/300X250"
+        width: 300
+        height: 250
+  - title: "Self-driving vehicle coming to Fargo area to improve work safety"
+    excerpt: "FARGO — A self-driving vehicle is expected to hit the road in the Fargo area later this year. The Federal Highway Administration has awarded the North Dakota Department of Transportation a $241,687 grant to improve work zone safety with a self-driving ..."
+    publishedDateTime: 2020-02-08T01:37:00Z
+    webUrl: "https://www.thedickinsonpress.com/business/transportation/4927484-Self-driving-vehicle-coming-to-Fargo-area-to-improve-work-safety"
+    type: article
+    provider:
+      name: Dickinson Press
+      domain: thedickinsonpress.com
     quality: 24
     images:
-      - url: "https://images.hgmsites.net/hug/lexus-ls-concept-2017-tokyo-motor-show_100629241_h.jpg"
-        width: 1920
-        height: 1204
-  - title: "GM Rolling Out Super Cruise Self-Driving Tech To 22 Models Across The Board By 2023"
-    excerpt: "An enhanced version will be introduced later this year and feature a new automated lane change function. When the self-driving tech is activated, users simply need to tap the turn signal to indicate that they want to change lanes. When an appropriate opening has been found, the vehicle will automatically switch lanes. Besides the new lane ..."
-    publishedDateTime: 2020-02-06T22:31:00Z
-    webUrl: "https://www.carscoops.com/2020/02/gm-rolling-out-super-cruise-self-driving-tech-to-22-models-across-the-board-by-2023/"
-    ampWebUrl: "https://www.carscoops.com/2020/02/gm-rolling-out-super-cruise-self-driving-tech-to-22-models-across-the-board-by-2023/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2020/02/gm-rolling-out-super-cruise-self-driving-tech-to-22-models-across-the-board-by-2023/amp/"
+      - url: "https://www.inforum.com/news/601307-gqfrk5-Work-Zone-photo/alternates/BASE_LANDSCAPE/Work%20Zone%20photo"
+        width: 1140
+        height: 712
+  - title: "Self-driving vehicle law hits a speed bump"
+    excerpt: "The big picture: Manufacturers and tech companies want federal rules of the road for their roll-out of self-driving vehicles. But trial lawyers, a powerful lobby, want key questions on liability in a driverless world answered before legislation advances. Driving the news: Daniel Hinkle, an attorney with the American Association for Justice ..."
+    publishedDateTime: 2020-02-11T11:08:00Z
+    webUrl: "https://www.axios.com/self-driving-vehicle-law-hits-a-speed-bump-875152c5-3455-42f7-831a-a563b72256ac.html"
     type: article
     provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 18
+      name: Axios
+      domain: axios.com
+    quality: 24
+    images:
+      - url: "https://images.axios.com/WAaKWDWilhZmV1aIrsnfnqOj4JQ=/2020/02/10/1581362650395.jpg"
+        width: 1920
+        height: 1080
 
 secured: "8enk8Z08OrZ7Dn6JhK5hGQtiko08btI0TP94GfvPtseRA+ikOEpe5vx5iZnRxnOMDqMtZK1awCpUcF4/1RQEBkwIPdTlrtBAdMIAF8gxBL4Lind7o1roIi8O6YvWS2khl0hpe9y76JA9C2UMqaG75tPA+iQsY+JuvbPiw0zSr9xRQBOlzugQ6nRNwQL4e3HyeTROCSco/Ay9ykVpxvHkUq+sKtZBwJHhXbeN8+9R4NRGWkMuKszf5MrRifV18MDc7O1iSAv5eqU463atkJ62+Rp9cH6reoyQQO1sWHs4tM1BNJnJ6cA0PPU+j/3VXKhR;18B9j1bvu5ZZisLtEJsegQ=="
 ---

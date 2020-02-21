@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-17T16:44:00Z
 webUrl: "https://www.marketwatch.com/press-release/space-robotics-market-emerging-trends-and-strong-application-scope-by-2025-2020-02-17"
 type: article
 quality: 82
-heat: 312
+heat: 322
 published: true
 
 provider:
@@ -111,6 +111,19 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Germany and France Automatic Speech Recognition Market Analysis 2020: by Players, Type, Application and Forecasts to 2025"
+    excerpt: "The report on Automatic Speech Recognition market refers to 2020 as the base year to procure information pertaining to historical data, and extends a holistic data compilation stretching until 2025 for future prospects."
+    publishedDateTime: 2020-02-21T10:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/germany-and-france-automatic-speech-recognition-market-analysis-2020-by-players-type-application-and-forecasts-to-2025-2020-02-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-12T18:22:09Z
 webUrl: "https://aws.amazon.com/blogs/machine-learning/automating-model-retraining-and-deployment-using-the-aws-step-functions-data-science-sdk-for-amazon-sagemaker/"
 type: article
 quality: 100
-heat: 230
+heat: 240
 published: true
 
 provider:
@@ -80,6 +80,19 @@ related:
       - url: "https://miro.medium.com/max/522/1*P4AQM-CyIb_uhNzvRAVMrw.jpeg"
         width: 522
         height: 218
+  - title: "Predicting Newspaper Sales with Amazon SageMaker DeepAR"
+    excerpt: "In this article, we write about predicting newspaper sales using Amazon SageMaker DeepAR. After a short company and team introduction, we give a shallow description of our shop-level sales data ..."
+    publishedDateTime: 2020-02-19T12:44:00Z
+    webUrl: "https://medium.com/axel-springer-tech/predicting-newspaper-sales-with-amazon-sagemaker-deepar-dffde3af4b20"
+    type: article
+    provider:
+      name: Medium
+      domain: medium.com
+    quality: 69
+    images:
+      - url: "https://miro.medium.com/max/1200/1*A_ho55sUPMc-uwZ7i5LM_Q.jpeg"
+        width: 1200
+        height: 800
   - title: "CDHI Foundation and IBM tracking the progress of Huntington's disease using AI"
     excerpt: "IBM Watson researcher Guillermo Cecchi said the paper focused on identifying how existing functional MRI (fMRI) data can be used to train artificial intelligence (AI) models to assess whether there is a change in a patient's motor and cognitive performance. \"Part of what we're trying to do is pinpoint with more accuracy what determines a ..."
     publishedDateTime: 2020-02-12T04:32:00Z

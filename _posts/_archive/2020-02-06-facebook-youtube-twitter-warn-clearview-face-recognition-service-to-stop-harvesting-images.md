@@ -39,6 +39,32 @@ related:
       - url: "https://www.aclu.org/news/images/share/default_fb_share.png"
         width: 1200
         height: 630
+  - title: "Herta Security Lauded by Frost & Sullivan for Delivering Cutting-edge, Real-time Facial Recognition and Detection Deployment"
+    excerpt: "/PRNewswire/ -- Based on its recent analysis of the European biometric surveillance solutions market, Frost & Sullivan recognizes Herta Security with the"
+    publishedDateTime: 2020-02-12T15:40:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/herta-security-lauded-by-frost--sullivan-for-delivering-cutting-edge-real-time-facial-recognition-and-detection-deployment-301003793.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 12
+    images:
+      - url: "https://mma.prnewswire.com/media/1089658/Herta_Security_Award.jpg?p=facebook"
+        width: 1500
+        height: 784
+  - title: "Herta Security Lauded by Frost & Sullivan for Delivering Cutting-edge, Real-time Facial Recognition and Detection Deployment"
+    excerpt: "/PRNewswire/ -- Based on its recent analysis of the European biometric surveillance solutions market, Frost & Sullivan recognizes Herta Security with the"
+    publishedDateTime: 2020-02-13T02:52:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/herta-security-lauded-by-frost-amp-sullivan-for-delivering-cutting-edge-real-time-facial-recognition-and-detection-deployment-879892037.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 12
+    images:
+      - url: "https://mma.prnewswire.com/media/1089658/Herta_Security_Award.jpg?p=facebook"
+        width: 1500
+        height: 784
 
 secured: "FAc8n/c9+OHZyypwdwWQwZZEDhA77wXWxHAZUt1Aiq/N56p6MLTLFFDPodEt50bMCMKnaGvucTzE96eFXCztJB1XUhR+NPv+TW1so3+KNjoIhxiH/XjIGFFDkDRbAHYYnNbWKMj3rR9/VkMnX76MkmavkZZ82fx2vbcmWKfcw6Fy59LwC8k67/WR7K17W6+5hCAEfv/1DeATb0gO4+rPIk+3w8YGxDVV98q0t5K/AHnq/rzq4vba20OIG0prxe7cON2anQRFxTSe46tl1dTlgAR/wcFr7zxmHvKw7ld9FLrQY/LlCOLdgz2hf73UWzDaaLLOI1E62wuV1+Eokh9GWfUOsjD3m55IVHLu2jOA4hygut5zRdWj02C+p/pQ+dtl+bPey5MCOvH2uzntu56TBP1HEgOEj2GJu4b+eTD/dxtkp/GMME/+sTcVPafpFyO028K/zNU1hg3fsHA663L1g91DDXfrM/XkDxgrQEe9ceE=;9P2xqnxpWxyIoG8CMD9DPA=="
 ---

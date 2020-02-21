@@ -1,8 +1,8 @@
 ---
 category: news
 title: "Top cloud Vendors Look to Partnerships to Grab Their Piece of the IoT Analytics Pie"
-excerpt: "Analytics services across cloud vendors, on the other hand, are less differentiated, as reflected in pre-built templates such as AWS Sagemaker and Microsoft Azure Notebooks which leverage the open source Jupyter project. Considering that many cloud vendors ..."
-publishedDateTime: 2020-02-19T09:56:00Z
+excerpt: "Cloud vendor’s revenues come primarily from streaming, storage, and the orchestration of data. Analytics services across cloud vendors, on the other hand, are less differentiated, as reflected in pre-built templates such as AWS Sagemaker and Microsoft Azure Notebooks which leverage the open source Jupyter project. Considering that many cloud ..."
+publishedDateTime: 2020-02-19T09:59:00Z
 webUrl: "https://www.abiresearch.com/press/top-cloud-vendors-look-partnerships-grab-their-piece-iot-analytics-pie/"
 type: article
 quality: 18
@@ -23,6 +23,6 @@ images:
     height: 399
     title: "Top cloud Vendors Look to Partnerships to Grab Their Piece of the IoT Analytics Pie"
 
-secured: "NMeNR5YXlFEUAY2BU/Pktia/ARzAFHsnDxC6yNXFAbakn3hwL+eqJUgQf+H4JFCZp5AG0WgAPrXb/gsilorEr9PtMXxMzs1hchlM0HRMMY+IXYA6DrHBQbM/JHBTQJZDwmL4ROCgmoErE3lolegk1UhY+t58LcRmh4OXHpjtdibofcB41+GQR3K2a4ax3RiMcPED5oWH7j0mm8fiP9N2zGKU6j8KAUGmBmZm8KxbpxABXuyb7owJJVII6IuKA99BQF2k4Jt7oQZh5e2tDx7FA5O8uo1+zFed4EG6esfx+xSGz7Cvc51LrG5JHyMb/4HW2qcMNtiexvSqHukWKNbPkGdNPAbth3lr6+wL0//sbEJ4tKcTcaL2bU87dpoHrQ6b9dFedrm0chBxdXNS8GwSZu9bFx/Vrj24bE0eXMjbuJVPHSHAc0j7ZoRLw2G7VP5e+yqJ0VTspBzXXANxF4muA+gQwBmwVZZLlICdXN3qUP8=;4R9WZoyxq0xPWzhYizHBZg=="
+secured: "knfxZC3JYYbWsvt8EjvV6XtrcpYFl8nyA3cwHhp3Afw6j8ZV6I9jXcRvs6hXVtP77hAStoYyyFHAzWdk3KzR5mOnxaF6zYH7YvpAIDsxYpTXaSyqK/Y4SM7Cu7VIJwBz7BFOi0pTR39fcwjjzvfB2cnwqA+XfzIsj14SjaWVHMtCGJTzjJwwF6XLw06Xrds8ExzJ68n1hInTUI1KHsVblk/5Ys06HU/DlmXTDDNxzygdcl17ES72GTvQVqbBVOosvHL7qw3/wiDtygr81bsGl4Weeb5ZSUtr/xsVnzKJNwp53YChR2Y33qCeUUS+jY6+;VvM4sJn80g9Hqd75vpEVuw=="
 ---
 

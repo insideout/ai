@@ -248,6 +248,17 @@ related:
       name: The Hindu
       domain: thehindu.com
     quality: 39
+  - title: "Facebook to pay users for recording their voice to improve its speech recognition tech"
+    excerpt: "Facebook has announced it will pay select users who agree to record their voice to improve its speech recognition technology. According to The Verge, the social networking giant he company will pay select users to record snippets of audio through a new programme called “Pronunciations in its Viewpoints market research app."
+    publishedDateTime: 2020-02-21T10:28:00Z
+    webUrl: "https://www.hindustantimes.com/tech/facebook-to-pay-users-for-recording-their-voice-to-improve-its-speech-recognition-tech/story-IwjGQJS1AoyzPfgGlZykRN.html"
+    ampWebUrl: "https://m.hindustantimes.com/tech/facebook-to-pay-users-for-recording-their-voice-to-improve-its-speech-recognition-tech/story-IwjGQJS1AoyzPfgGlZykRN_amp.html"
+    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/facebook-to-pay-users-for-recording-their-voice-to-improve-its-speech-recognition-tech/story-IwjGQJS1AoyzPfgGlZykRN_amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 31
 
 secured: "Q+QjZKQ89ZiTOhPxNl3DvGua5vKXmasx2iG3+zDRcmSLOUGRdWAfJOTD+jIWbp1uGhcyw7qawJYeaZvzR+hQ/zAmWMlSWuX9mMUwYi6SnQ58qeKTWHvSA0tTZ45QSLczb2lDOO5ey/qdYdoDeuhcPcMo944ZUKU4zz2o6znhfj1ZYHM9hILepd66VXk6o/YoaKie2AqNjUOSX7yR/2AR3s3dcxpZ+QfCS1hkVzKF77SQGtV2tCTY70Dp0Puj5qdXKx8zXVqasLgDOxQTNek1eoDrGbWYIXR6uMovs2ld4rEJcaf1WfQ5hfdtnAxvK4kHSfHNGj92LLbhksxUoH5b7ixBGl2/baj/8PvVOi3jDRnXjELklJ/bdXlY4yCqygKCTMd2Nu7DINk50Ey79TPmoTfbznMp0eNU/gzEI8WZQ/s5LQl949qT9Tx9dXUFJQUW348DA4ga5HMmTEQxMNP0g+zrR64ql2Y21J/ukakLc1c=;7THnvwiNZ2mjyFAzN3GS8g=="
 ---

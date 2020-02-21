@@ -35,19 +35,6 @@ related:
       - url: "https://images.propertycasualty360.com/contrib/content/uploads/sites/414/2020/02/Digital-Health_Bloomberg.jpg"
         width: 620
         height: 372
-  - title: "3 ways artificial intelligence is impacting health care"
-    excerpt: "to transform the health care industry by improving patient outcomes and lowering costs is immense. From radiation to early sepsis warning, to drug design and telemedicine, AI holds the power to create vast industry efficiencies and improve people's lives around the globe."
-    publishedDateTime: 2020-02-06T12:49:00Z
-    webUrl: "https://www.bizjournals.com/nashville/news/2020/02/06/3-ways-artificial-intelligence-is-impacting-health.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 39
-    images:
-      - url: "https://media.bizj.us/view/img/11588294/gettyimages-840370370*1200xx2141-1206-0-0.jpg"
-        width: 1200
-        height: 675
 
 secured: "PkDbFDYgtJUo4J78EMcjckWoDbshJbQtaWM9Xmu52sM5oJJCm7L90S88IAyMEqPmkHCw0nKMI1lACRauCg+whG+040K8CgqvTJ2Ae2jX7ABXLCNO8qjwU1j5qijQDJywnDgHa770r7qxFjg5EE0oavg5MalWbjYPsrrWJqQQHT2gPeDjfTe01wsYZXpvsqL/EXqrKpAagaNwtwG526286ubaJNjk8qkxTprXu/Fcl0vNJ5yhMeL3f9SElq7FKVcfkwUG10rGRAafOSHLTnVHrhurIpFmRFKAf9NR8Lh7gWZnikUfZNQynoWZp88PdGWLqH98A6l8CTsmWRau+XFepYkp8/IioEAahjNvo+YZ2trgZsgnIqYFgAAMfIkqVYBNILRmlFcj8TAJpxlwcz9ePlD2dxNBDQQyRAmXfjCJbnlGnbKCtk6qXqnkKBkzeDOSzPUpthok+YIove/Wf2YJC+xlJXOMnjkeNCxZ4QHHdKw=;YYZOKUlmQGbwZV4xpE5Nuw=="
 ---

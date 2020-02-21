@@ -8,8 +8,8 @@ ampWebUrl: "https://www.birminghammail.co.uk/news/midlands-news/uber-birmingham-
 cdnAmpWebUrl: "https://www-birminghammail-co-uk.cdn.ampproject.org/c/s/www.birminghammail.co.uk/news/midlands-news/uber-birmingham-launch-face-recognition-17775710.amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Birmingham Live
@@ -26,6 +26,21 @@ images:
     title: "Uber in Birmingham to launch face recognition checks for drivers"
 
 related:
+  - title: "How PwC’s Face Recognition App Drives Engagement for The Mob Museum"
+    excerpt: "b. One of the main highlights of the mobile app is the Doppelgangster feature which uses cutting-edge facial recognition technology to compare a user’s facial features with a database of more than 800 images spanning from notable heroes, villains, singers, comedians and entertainers – as well as many others from the Mob world – to ..."
+    publishedDateTime: 2020-02-21T11:00:00Z
+    webUrl: "https://www.martechadvisor.com/interviews/iot/face-recognition-app-the-mob-museum-and-pwc/"
+    ampWebUrl: "https://www.martechadvisor.com/interviews/iot/face-recognition-app-the-mob-museum-and-pwc/"
+    cdnAmpWebUrl: "https://www-martechadvisor-com.cdn.ampproject.org/c/s/www.martechadvisor.com/interviews/iot/face-recognition-app-the-mob-museum-and-pwc/"
+    type: article
+    provider:
+      name: MarTech Advisor
+      domain: martechadvisor.com
+    quality: 59
+    images:
+      - url: "https://images.martechadvisor.com/images/uploads/content_images/the_mob_museum_pwc_martech_buzz_card_546_x_273_px_5e4fb231b1f25.png"
+        width: 545
+        height: 273
   - title: "Speech and Voice Recognition Market Top Leading Companies, Consumption, Key Drivers, Challenges and Trends Forecast to 2026"
     excerpt: "Top Players in Speech and Voice Recognition Market are Google, Baidu, Facebook, Amazon, Advanced Voice Recognition Systems, Apple Inc, IBM , Microsoft , Brianasoft, Voicebox Technologies Corporation,"
     publishedDateTime: 2020-02-13T12:51:00Z

@@ -8,7 +8,7 @@ ampWebUrl: "https://9to5google.com/2020/02/06/waymo-content-search/amp/"
 cdnAmpWebUrl: "https://9to5google-com.cdn.ampproject.org/c/s/9to5google.com/2020/02/06/waymo-content-search/amp/"
 type: article
 quality: 134
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -25,21 +25,6 @@ images:
     title: "Waymo Content Search can find billions of objects encountered over 20M miles in seconds"
 
 related:
-  - title: "Waymo’s AI Content Search tool lets engineers quickly find objects in driving records"
-    excerpt: "AI is the method by which self-driving cars perceive joggers, cyclists, traffic lights, road signs, trees, shrubs, and more, and it informs the way in which they choose to behave when encountered with those signals. The vehicles in Waymo’s fleet aren’t an exception to the rule — they tap AI to make real-time driving decisions, in part by ..."
-    publishedDateTime: 2020-02-06T18:30:00Z
-    webUrl: "https://venturebeat.com/2020/02/06/waymos-ai-content-search-tool-lets-engineers-find-objects-within-its-driving-records/"
-    ampWebUrl: "https://venturebeat.com/2020/02/06/waymos-ai-content-search-tool-lets-engineers-find-objects-within-its-driving-records/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/06/waymos-ai-content-search-tool-lets-engineers-find-objects-within-its-driving-records/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 80
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/09/waymo-ipace-e1572290208222.jpg?fit=1200%2C600&strip=all"
-        width: 1200
-        height: 600
   - title: "Sales of semiconductors performing AI functions set to triple by 2025"
     excerpt: "The processor segment will expand slightly faster, growing to $68.5 billion in 2025, up from $22.2 billion in 2019. This total tracks sales of semiconductor content in systems that run AI functions. These chips include memory and processing devices within systems that can run AI applications. AI chips are used widely in various markets ..."
     publishedDateTime: 2020-02-07T05:45:00Z

@@ -30,6 +30,6 @@ related:
       domain: mashable.com
     quality: 57
 
-secured: "jaL4t82vPRRlzbucqzV/A2Omgc4WBKz2k/R+JBz3/LqCgbrOCIWO/cAgUD5UrEiczMpkh4lL8duhP70tZjktv297TYa40oSM0HinIb38zhDujDBzJXZ4E6gfsRTQ1k7jiNL1h/D/1d+7LIhJaybY60V85bmt2+Ezb9e5jlK+OlAExnW3xYGV0sde7bx0AQZ7L/MpxTjegj4YkG/yVyafbl5njk73K7cdIBJ5cNLhldyYAldqhGi/lsiMRynyF+fDksLQYeGXpwu1NUsRmZJ3bUi97DLUl5SL4X6hygn6vtX52rDu+0f9xexts/+LOe5B;VhVGGtLl47yCpWIxs7Q99g=="
+secured: "6WAixQk7+HMzbC97FZGVgkDF0Yag+VWnFfVw2r6hjFRu9icrUwRilkKoTBQ+rICYRicNtLuw2ggMRh/MPha/M0WwTQPw/XLYAPglfOqTeQB1xmRc3po/NHVcTkwpjrZ+YdbGnJWmadH9+VKv4EKFqzAtpYykBGZSKlZhUTSyPPNDcCs2h/9Tt7o5RNEFiW2Xhuzp4gS35gDIOEgI/Yu5btBSAj+fhx3y9UbFZkfRWh4mwJgT+BDC1XEe3Kuf1oFK5IiSVSIDN4gC57kdSBEECC0XEZWob9e70WlJVRCxWYDTo+U+y/b/pqnFRWi+8V1s;8oEneoW4N33gSYn3c5dOmw=="
 ---
 

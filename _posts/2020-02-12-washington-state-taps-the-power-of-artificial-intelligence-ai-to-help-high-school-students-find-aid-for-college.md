@@ -38,21 +38,6 @@ related:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2019/04/20190330_155633-e1556638491703-630x407.jpg"
         width: 630
         height: 407
-  - title: "A new chatbot could help at-risk students stay in college"
-    excerpt: "Powered by natural language processing and machine learning, the company’s new chatbot can communicate with students via text message in more than 100 languages and identifies trends in data to uncover hard-to-measure insights, such as a student’s sense of belonging or financial hardship. That data that can then be used by advisers to ..."
-    publishedDateTime: 2020-02-06T18:47:00Z
-    webUrl: "https://edscoop.com/a-new-chatbot-can-help-at-risk-students-stay-in-college/"
-    ampWebUrl: "https://edscoop.com/a-new-chatbot-can-help-at-risk-students-stay-in-college/?amp"
-    cdnAmpWebUrl: "https://edscoop-com.cdn.ampproject.org/c/s/edscoop.com/a-new-chatbot-can-help-at-risk-students-stay-in-college/?amp"
-    type: article
-    provider:
-      name: edscoop.com
-      domain: edscoop.com
-    quality: 44
-    images:
-      - url: "https://s3.amazonaws.com/wp-media-es/2020/02/05185106/rock-n-roll-monkey-FTfjMijq-Ws-unsplash-1.jpg"
-        width: 2000
-        height: 1333
   - title: "Washington State Taps the Power of Artificial Intelligence (AI) to Help High School Students Find Aid for College"
     excerpt: "/PRNewswire/ -- Thousands of high school students in Washington will have a new ally in the financial aid application process, thanks to the rollout of an"
     publishedDateTime: 2020-02-11T13:00:00Z

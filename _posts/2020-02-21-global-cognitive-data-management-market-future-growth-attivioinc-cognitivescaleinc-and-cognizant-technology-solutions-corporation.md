@@ -41,6 +41,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Global Artificial Intelligence-based Cybersecurity Market Analysis, Trends, and Forecasts 2020-2025 - ResearchAndMarkets.com"
+    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Artificial Intelligence-based Cybersecurity - Market Analysis, Trends, and Forecasts\" report has been added to ResearchAndMarkets.com's offering. Artificial Intelligence-based Cybersecurity market worldwide is projected to ..."
+    publishedDateTime: 2020-02-21T11:11:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200221005189/en/Global-Artificial-Intelligence-based-Cybersecurity-Market-Analysis-Trends"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 10
+    images:
+      - url: "https://mms.businesswire.com/media/20200221005189/en/371054/23/ResearchAndMarkets_800px.jpg"
+        width: 1200
+        height: 627
 
 secured: "TpHmBdRTzGrD3kTejgMhp1gyNvCQ1aQxfKPMzWLDg+lXq3OFaMTAMNFeg14UK24Zhmv3pu27pcPzH8xb/psnSAJsvJSGgIpJjp6imsCgd7ZDNPTFbmGLGzvp5AdUlZCHW1RB6UrP8EO5Ro5Uk0xiQ5AacWHhcUR1FNKyTC3KUbq15jr/nYGHcqbnPom4JNHXdBZyRdv4jSRE27E1+jz+vPPSBAOfqdH/M8qXSfvHFnDTLaxNiF4ePRmNy+4H1CdFAgWnyLUAMJ8iuB7DrSVXoTdjgApuyvmYlpZajLt4RvY/rQZlXU+llGCdDA8U+JI4;5MI9jFE2JCicnBmb3mtTCg=="
 ---

@@ -18,21 +18,6 @@ topics:
   - AWS AI
 
 related:
-  - title: "CrowdStrike, AWS expand World Challenge official provider roles"
-    excerpt: "In forming an expanded alliance, SRO Motorsports Group will benefit from AWS’ 175 fully featured services for storage, networking, analytics, machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR and AR), with a broad global reach. Along with being official ..."
-    publishedDateTime: 2020-02-06T18:56:00Z
-    webUrl: "https://racer.com/2020/02/06/crowdstrike-aws-expand-world-challenge-official-provider-roles/"
-    ampWebUrl: "https://racer.com/2020/02/06/crowdstrike-aws-expand-world-challenge-official-provider-roles/amp/"
-    cdnAmpWebUrl: "https://racer-com.cdn.ampproject.org/c/s/racer.com/2020/02/06/crowdstrike-aws-expand-world-challenge-official-provider-roles/amp/"
-    type: article
-    provider:
-      name: Racer
-      domain: racer.com
-    quality: 59
-    images:
-      - url: "https://racerdigital.files.wordpress.com/2020/02/aws-crowdstrike-1.jpeg?w=1000&h=430&crop=1"
-        width: 1000
-        height: 430
   - title: "CrowdStrike and AWS Expand Prominent Official Provider Roles in SRO GT World Challenge for 2020"
     excerpt: "In forming an expanded alliance, SRO Motorsports Group will benefit from AWS’ 175 fully featured services for storage, networking, analytics, machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR and AR), with a broad global reach. Along with being Official ..."
     publishedDateTime: 2020-02-07T00:36:00Z

@@ -61,21 +61,6 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D4860%252C3240%252C0%252C495%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-02%252Fe54aedf0-4c27-11ea-a9fe-866995234731%26client%3Da1acac3e1b3290917d92%26signature%3Dde699115449a716bcec325db3e7903662dbd4881&client=amp-blogside-v2&signature=3eefa1557daf961b15de1298ae8254f93b9244fb"
         width: 600
         height: 350
-  - title: "Facebook, YouTube demand facial recognition company stop scraping faces from sites"
-    excerpt: "Facebook joined YouTube, Twitter and payment service Venmo on Wednesday in demanding that a facial recognition company stop harvesting user images to identify the people in them, which the startup does as part of its work with police. Facebook said it has demanded New York-based Clearview AI stop accessing or using information from its flagship ..."
-    publishedDateTime: 2020-02-06T19:05:00Z
-    webUrl: "https://www.nbcnews.com/tech/security/facebook-youtube-demand-facial-recognition-company-stop-scraping-faces-sites-n1131786"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1131786"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1131786"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 83
-    images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_06/2878756/190531-facebook-mc-1420_f639f66c650025e6a1878b44481e1754.JPG"
-        width: 2500
-        height: 1668
   - title: "Facial recognition moves into a new front: Schools"
     excerpt: "Jim Shultz tried everything he could think of to stop facial recognition technology from entering the public schools in Lockport, a small city 20 miles east of Niagara Falls. He posted about the issue in a Facebook group called Lockportians. He wrote an Op-Ed in The New York Times. He filed a petition with the superintendent of the district ..."
     publishedDateTime: 2020-02-07T00:02:00Z
