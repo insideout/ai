@@ -52,6 +52,15 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F7bf31b7c-533c-11ea-8841-482eed0038b1?source=google-amp&fit=scale-down&width=500"
         width: 500
         height: 281
+  - title: "Artificial Intelligence brings a novel antibiotic compound"
+    excerpt: "Researchers from the Massachusetts Institute of Technology (MIT) have made a scientific breakthrough where their machine-learning algorithm or Artificial Intelligence (AI) program successfully created a novel antibiotic compound. The drug has since then been tested on deadly bacteria in the lab, and in lab mice with a considerable amount of ..."
+    publishedDateTime: 2020-02-21T00:44:00Z
+    webUrl: "https://www.news-medical.net/news/20200220/Artificial-Intelligence-brings-a-novel-antibiotic-compound.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 17
 
 secured: "CUtDaZRzmqt4baHaBNGJRrGl6lKAFXSdP614JPKLcsgjhsdZHGOWj7ROTzyzFjIWa36fKIaEUaFL2APP1Sa9+TbhubNb47Nhi9JroxIic2mVjaRiuARuyO3H/YibXzCWhnmQwUhqqvyKyEGci3wVihu7qTxNMS7H0mNNqPb6BjiqB8V2wC/GYj065PMuEAoFD8h5VkuU9EfFYw2iw/x78MSYzWxpji8puI0vBDosxQHYDa/nQifeWqj4GeMl6xuO8JndYABvermJn1RpxTn0rSB0naDVTGtwJKNHp8TLNvmYEGqy9Bbw0cm3lIUjN3ckl6cBXESdRHulF/DpcBpMLHq4B0w8X1H1FFE2MSE4fT9l4Q4BvdCOVMk/GKIvzj748deHRE7s0EcH6JfU+PXfC7hGfBwXr6/Diq3n5Ivi+outdR4hgptswrR2rvuYvZyrWJLnvtGGGQ7zEN3l33xh/+LAsg9A5XGx3spzLi4ncj8=;2vjWXGZfLV9lhzth3Q7feA=="
 ---

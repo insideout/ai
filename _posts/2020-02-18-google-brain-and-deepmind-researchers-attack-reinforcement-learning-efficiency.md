@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/02/18/google-brain-deepmind-reinforceme
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/18/google-brain-deepmind-reinforcement-learning-efficiency/amp/"
 type: article
 quality: 100
-heat: 100
+heat: 110
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 1200
     height: 600
     title: "Google Brain and DeepMind researchers attack reinforcement learning efficiency"
+
+related:
+  - title: "Army researchers develop efficient distributed deep learning"
+    excerpt: "ADELPHI, Md. (Feb. 18, 2020) -- A new algorithm is enabling deep learning that is more collaborative and communication-efficient than traditional methods. Army researchers developed algorithms that facilitate distributed, decentralized and collaborative ..."
+    publishedDateTime: 2020-02-18T18:00:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-02/uarl-ard021820.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 19
 
 secured: "N87GEuR89RHz6Qzf4WzBr9Ke396jBRF7oQQl3fgmY9MBMAC1v91A7cnc9JHPN5SOlwuZY/rc0aQawei0sZD+nD3T0SW7FYW2aLBIjrLBVRbgxmJLM/IOTht+NO71gXyvjZV3v1JOpNueHf6O0IbJtgY8Zj35vtdHWkoUi+QVcuNfjRS6Ih27KFy03koGTHiINXJ2eih/2b9f+kYLmOii/UlL4PMyOQUeYLIekde+FHR8f8mh1jWorkmStaFDHTwezyyLRcBmbo8toLbyZJtscyX0PJIgWCstfBN4FRQ589VT0DswKrLISETBkRvaFhqwPjlX+2jKwcIwvJT9UVWDB1V0jTPwMsKPjIfFc+ZALEsz3OlHoZQy0pYuW9CzzOtXX3EFIKAdj9PFHMicFbLtJN/CKDb6gbm/ixlovVkik6gosZmMyzAb17x4Fg/DEoSvdGpKxUNhMxMObgFLnaMLVGE38vMhT5mwmeZMLCNeve0=;cD0VuShW4uOSw4xkVTcz6w=="
 ---

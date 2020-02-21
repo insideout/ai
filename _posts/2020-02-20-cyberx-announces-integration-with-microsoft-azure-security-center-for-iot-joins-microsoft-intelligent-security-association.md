@@ -63,6 +63,15 @@ related:
       - url: "https://mma.prnewswire.com/media/970547/SecuriThings_Logo.jpg?p=facebook"
         width: 2700
         height: 1414
+  - title: "CyberX integrates with Microsoft Azure Security Center"
+    excerpt: "According to Michal Braverman-Blumenstyk, CTO and GM, Cloud and AI Security Division at Microsoft Corp.: “CyberX’s IoT security platform and integration with the Microsoft Azure Security Center for IoT enables customers to go further and faster with IoT innovations that drive new revenue streams and operational efficiencies — without comp ..."
+    publishedDateTime: 2020-02-21T00:03:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/02/21/cyberx-microsoft/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 34
 
 secured: "y/682CIQe+oH4f1f/mX5GwqkXIl8SmIsSqDW/7XbPGL8oKQEd1rhgMojfV0dW/hPMf7GlcGEY1DDyqjpQT/mXls1WejArzFcZIE+JlmCQ3UseJ47RB1WJ47bB1f3D85Ha4vxNzqhxsiVs2DRs49ZfGpZnwW3hinwCW9zA8m9F66cQDBgzfMRd/CL/mE4RAKsQii/Ki0fR5q2kFNk0mlgRwGfjT4UbO0sohb18M+OJnuColTOOS/eMvaZPPB1HOase1nxBLMtygYMDOAqWTtOQUKyqhd7C9k72PWDg9cLzR4akGTW9aDR//vJwy0RVjNY0s9ZBVqdHafP5I4q4bu20t7wtuYL0pYALHK7qfHK6sYc+tiKsJAE61bgQB7sxyJbrlJH/VFh0BAkjufr3xbdmjmcSHIYQw69SfiPKgUVSKPD3561TqmhK5iqGgAzV8IaHUjUB5BCZQgv3t52q0HhstuTFpeuqz2SUapZjYkawfU=;ZLpUsx9sGz93mBYGPPYdTA=="
 ---

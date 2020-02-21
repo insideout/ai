@@ -2,50 +2,6 @@
   "page": 15,
   "value": [
     {
-      "path": "_posts/_archive/2020-01-17-how-nhs-111-london-is-using-ai-to-ensure-patients-get-the-care-they-need-urgently.md",
-      "title": "How NHS 111 London Is Using AI To Ensure Patients Get The Care They Need Urgently",
-      "excerpt": "In London, the National Health Service’s 111 helpline receives up to 32,000 urgent calls every week. Here's how AI is helping the organisation deliver urgent medical health accurately and quickly.",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/nicholasfearn/2020/01/17/how-nhs-111-london-is-using-ai-to-ensure-patients-get-the-care-they-need-urgently/",
-      "ampWebUrl": "https://www.forbes.com/sites/nicholasfearn/2020/01/17/how-nhs-111-london-is-using-ai-to-ensure-patients-get-the-care-they-need-urgently/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicholasfearn/2020/01/17/how-nhs-111-london-is-using-ai-to-ensure-patients-get-the-care-they-need-urgently/amp/",
-      "publishedDateTime": "2020-01-17T07:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1187779623%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "How NHS 111 London Is Using AI To Ensure Patients Get The Care They Need Urgently",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-01-17-i-had-a-lovely-time-in-an-ai-generated-bjork-hotel-lobby-soundscape.md",
       "title": "I had a lovely time in an AI-generated Björk hotel lobby soundscape",
       "excerpt": "I'm in that hotel lobby, listening. There's a pattern to the music. It's connected to a camera on the roof, gazing at moving clouds and birds. The composition is AI-driven. The best part is, it's invisible and it works. I stay and listen for an hour. Björk created a new AI-generated experimental ambient musical piece in collaboration with ...",
@@ -2124,6 +2080,51 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-20-image-recognition-market-will-grow-at-a-cagr-of-196-during-forecast-period.md",
+      "title": "Image Recognition Market Will Grow at a CAGR of 19.6% During Forecast Period.",
+      "excerpt": "The global image recognition market size is projected to reach USD 81.88 billion by 2026.with a CAGR of 19.6% during the forecast period, 2019-2026 The global image recognition market size is projected to reach USD 81.",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/image-recognition-market-will-grow-at-a-cagr-of-196-during-forecast-period-2020-01-20",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-19T22:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Image Recognition Market Will Grow at a CAGR of 19.6% During Forecast Period.",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
       ]
     }
   ],

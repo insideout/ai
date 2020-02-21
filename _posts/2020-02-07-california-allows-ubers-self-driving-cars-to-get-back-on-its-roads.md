@@ -196,17 +196,6 @@ related:
       - url: "https://placehold.it/300X250"
         width: 300
         height: 250
-  - title: "Uber’s Self-Driving Vehicles Get On-Road Permit For CA"
-    excerpt: "Uber may soon be able to put its self-driving vehicles back on California roads after several years, with the issuance of a new permit, according to reports. The company had to scale back its autonomous vehicle program following an incident in Arizona where a pedestrian was killed by one of the vehicles. However, the permit — issued by the ..."
-    publishedDateTime: 2020-02-06T07:13:00Z
-    webUrl: "https://www.pymnts.com/innovation/2020/ubers-self-driving-vehicles-get-on-road-permit-for-ca/"
-    ampWebUrl: "https://www.pymnts.com/innovation/2020/ubers-self-driving-vehicles-get-on-road-permit-for-ca/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/innovation/2020/ubers-self-driving-vehicles-get-on-road-permit-for-ca/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 24
   - title: "Uber gets California nod to restart self-driving test"
     excerpt: "The California Department of Motor Vehicles issued a permit on Wednesday to the company’s selfdriving unit, Uber Advanced Technologies.Reuters | February 07, 2020, 07:07 IST Uber Technologies has been allowed to restart testing its self-driving vehicles with a backup driver in California, almost two years after its autonomous car killed a ..."
     publishedDateTime: 2020-02-07T01:37:00Z

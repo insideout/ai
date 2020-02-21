@@ -51,6 +51,15 @@ related:
       - url: "https://www.rawstory.com/wp-content/uploads/2020/02/A-colored-electron-microscope-image-of-MRSA.-NIH-NIAIDflickr-CC-BY.jpeg"
         width: 640
         height: 315
+  - title: "Artificial Intelligence brings a novel antibiotic compound"
+    excerpt: "Researchers from the Massachusetts Institute of Technology (MIT) have made a scientific breakthrough where their machine-learning algorithm or Artificial Intelligence (AI) program successfully created a novel antibiotic compound. The drug has since then been tested on deadly bacteria in the lab, and in lab mice with a considerable amount of ..."
+    publishedDateTime: 2020-02-21T00:44:00Z
+    webUrl: "https://www.news-medical.net/news/20200220/Artificial-Intelligence-brings-a-novel-antibiotic-compound.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 17
 
 secured: "RHOZkjUQGuFGr7t87Cv7h0Qx5IwGnMQx9W+aakUNj+BNm91usg3QdU8v2fauoys/Q9+RTxOhRXFM7UO0iqnYiguWfH5gmu/ZWbfeM3Y2BcR7xwRfgp/VMbYqkcAsmG5IYtPboBO5YYAZDfDZ/rBRrDwCdpLJoYOp1hXcAFqDuzj+Vz5HZia8TOyIiEOsS/Cl1CuddRNamuOtfBpRqto40DpkAbmC7lYsx6r9ZL/MPNx8XW5huG0YEKDRJpA+DDsYl7nRrqMxJjUC2l7nfp72voyKgywD6sSjumv5c4YImh6/fhKcMVBvX4J26A3wb2gxVOQr+WgYPdANMjVMb0tbQXdH1AUkKWEftVDoR8ahzOPuvaug01sIX6TaRVPqEBXNDgN9AEk6+wjgMZpZYgkHS4T+yqRIiuC5Zd6De1mUPPI9oE6ZkxFAshldxN+ygPrL60oNYd8w78X05kePDz5sGOLRa9LIukKrNzwuOYeWSA0=;iZ/djTY/vMtdANPKZaDH0g=="
 ---

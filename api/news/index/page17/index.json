@@ -2,135 +2,6 @@
   "page": 17,
   "value": [
     {
-      "path": "_posts/_archive/2020-01-22-ai-in-the-court-are-robot-judges-next.md",
-      "title": "AI in the court: Are robot judges next?",
-      "excerpt": "Los Angeles is now working on a Jury Chat Bot project that will leverage true AI, Snorri Ogata, CIO of the LA Superior Court, told ZDNet. It's being built on top of the Microsoft Cognitive Services platform, leveraging features like natural language understanding, QnA maker (to build \"FAQ on steroids,\" as Ogata put it) and translation services.",
-      "heat": 106,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/ai-in-the-court-are-robot-judges-next/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-in-the-court-are-robot-judges-next/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-in-the-court-are-robot-judges-next/",
-      "publishedDateTime": "2020-01-22T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/01/20/4ae4c042-fca1-4511-9ed4-a9ca543376fd/thumbnail/1200x675/75aab1fe59aac1c4c387f2acdc3a60c4/20200120-steph-karen-judges.png",
-          "width": 1200,
-          "height": 675,
-          "title": "AI in the court: Are robot judges next?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-22-ai-startups-raised-record-266-billion-globally-in-2019.md",
-      "title": "AI startups raised record $26.6 billion globally in 2019",
-      "excerpt": "Global venture capital increased 20% in 2019, while acquisitions jumped 24.8% from the previous year. According to a new report from CB Insights, AI companies raised $26.58 billion across 2,235 deals in 2019, up from 1,940 deals the previous year that totaled $22.148 billion. The 2019 numbers included 10 rounds of more than $100 million that ...",
-      "heat": 111,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/22/ai-startups-raised-record-26-6-billion-globally-in-2019/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/22/ai-startups-raised-record-26-6-billion-globally-in-2019/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/22/ai-startups-raised-record-26-6-billion-globally-in-2019/amp/",
-      "publishedDateTime": "2020-01-22T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/AIStartupFunding.png?fit=1200%2C616&strip=all",
-          "width": 1200,
-          "height": 616,
-          "title": "AI startups raised record $26.6 billion globally in 2019",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-22-air-new-zealand-using-computer-vision-ai.md",
-      "title": "Air New Zealand using computer vision AI",
-      "excerpt": "Air New Zealand is trialling the latest in computer vision artificial intelligence (AI) in its search for innovative ways to continually improve aircraft turn times and better on-time performance. The new technology, made available through a partnership with leading technology start-up Assaia and alongside Auckland Airport, uses computer vision ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.scoop.co.nz/stories/BU2001/S00141/air-new-zealand-using-computer-vision-ai.htm",
-      "ampWebUrl": "https://m.scoop.co.nz/stories/BU2001/S00141/air-new-zealand-using-computer-vision-ai.htm",
-      "cdnAmpWebUrl": "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2001/S00141/air-new-zealand-using-computer-vision-ai.htm",
-      "publishedDateTime": "2020-01-22T12:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Scoop",
-        "domain": "scoop.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://m.scoop.co.nz/stories/images/1512/smcnz.png",
-          "width": 268,
-          "height": 250,
-          "title": "Air New Zealand using computer vision AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-01-22-at-davos-alphabets-ceo-calls-healthcare-the-major-ai-opportunity.md",
       "title": "At Davos, Alphabet's CEO Calls Healthcare the Major AI Opportunity",
       "excerpt": "shared some upbeat thoughts on how AI and healthcare could intersect. \"Cancer [is] often missed and the difference in outcome is profound,\" he said, according to Reuters. \"In lung cancer, for example, five experts agree this way and five agree the other way. We know we can use artificial intelligence to make it better.\" Two years ago at ...",
@@ -173,51 +44,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-22-automotive-artificial-intelligence-market-size-growth-opportunity-and-forecast-to-2025.md",
-      "title": "Automotive Artificial Intelligence Market Size, Growth, Opportunity and Forecast to 2025",
-      "excerpt": "Benefits of automotive artificial intelligence include - driverless cars, smarter, safer and affordable, assisted features, cognitive predictive maintenance. Sample Infographics: Market Dynamics ...",
-      "heat": 70,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-size-growth-opportunity-and-forecast-to-2025-2020-01-22?mod=mw_quote_news",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-21T21:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Automotive Artificial Intelligence Market Size, Growth, Opportunity and Forecast to 2025",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     },
     {
@@ -2132,6 +1958,171 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-23-career-consultants-help-job-seekers-beat-ai-robot-interviews.md",
+      "title": "Career consultants help job seekers beat AI robot interviews",
+      "excerpt": "In order to give everyone a fair try, we need a system that’s less biased. With the cool, calculating depictions of artificial intelligence in modern media, it’s tempting to say that AI could help us solve our resume screening woes. After all, nothing says unbiased like a machine…right? Wrong. I mean, if you need an example of what can go ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://theamericangenius.com/tech-news/career-consultants-help-job-seekers-beat-ai-robot-interviews/",
+      "ampWebUrl": "https://theamericangenius.com/tech-news/career-consultants-help-job-seekers-beat-ai-robot-interviews/amp/",
+      "cdnAmpWebUrl": "https://theamericangenius-com.cdn.ampproject.org/c/s/theamericangenius.com/tech-news/career-consultants-help-job-seekers-beat-ai-robot-interviews/amp/",
+      "publishedDateTime": "2020-01-23T11:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The American Genius",
+        "domain": "theamericangenius.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://theamericangenius.com/wp-content/uploads/2020/01/franck-v-JjGXjESMxOY-unsplash-1-1000x600.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": "Career consultants help job seekers beat AI robot interviews",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-23-clearview-facial-recognition-app-may-pose-chilling-privacy-risk-senator-says.md",
+      "title": "Clearview facial recognition app may pose 'chilling' privacy risk, senator says",
+      "excerpt": "Democratic Sen. Edward Markey of Massachusetts issued an open letter Thursday demanding answers from the creator of a controversial facial recognition app used by US law enforcement. The letter to Clearview AI CEO Hoan Ton-That follows a New York Times investigation into the software company and its app, which can identify people by comparing ...",
+      "heat": 125,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/senator-demands-answers-from-clearview-ai/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/senator-demands-answers-from-clearview-ai/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/senator-demands-answers-from-clearview-ai/",
+      "publishedDateTime": "2020-01-23T11:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet1.cbsistatic.com/img/IxXdPYP12dIlVU2KQR_njg7CUPU=/756x567/2020/01/23/ee631f2b-5f68-46ed-bf92-8888b7960bee/markey-getty.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "Clearview facial recognition app may pose 'chilling' privacy risk, senator says",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-23-cortex-labs-helps-data-scientists-deploy-machine-learning-models-in-the-cloud.md",
+      "title": "Cortex Labs helps data scientists deploy machine learning models in the cloud",
+      "excerpt": "It’s one thing to develop a working machine learning model, it’s another to put it to work in an application. Cortex Labs is an early-stage startup with some open-source tooling designed to help data scientists take that last step. The company’s founders were students at Berkeley when they observed that one of the problems around creating ...",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/01/23/cortex-labs-helps-data-scientists-deploy-machine-learning-models-in-the-cloud/",
+      "ampWebUrl": "https://techcrunch.com/2020/01/23/cortex-labs-helps-data-scientists-deploy-machine-learning-models-in-the-cloud/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/23/cortex-labs-helps-data-scientists-deploy-machine-learning-models-in-the-cloud/amp/",
+      "publishedDateTime": "2020-01-23T12:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-1136663877.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": "Cortex Labs helps data scientists deploy machine learning models in the cloud",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-23-dem-senator-presses-facial-recognition-company-after-reports-of-law-enforcement-collaboration.md",
+      "title": "Dem senator presses facial recognition company after reports of law enforcement collaboration",
+      "excerpt": "Sen. Ed Markey (D-Mass.) on Thursday sent a series of questions to the CEO of Clearview AI after reports that the company has been selling facial recognition software with an expansive database to law enforcement.",
+      "heat": 248,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thehill.com/policy/technology/479564-democratic-senator-presses-facial-recognition-company-after-reports-of-law",
+      "ampWebUrl": "https://thehill.com/policy/technology/479564-democratic-senator-presses-facial-recognition-company-after-reports-of-law?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/479564-democratic-senator-presses-facial-recognition-company-after-reports-of-law?amp",
+      "publishedDateTime": "2020-01-23T08:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/markeyedward_030619gn2_lead.jpg",
+          "width": 980,
+          "height": 551,
+          "title": "Dem senator presses facial recognition company after reports of law enforcement collaboration",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
       ]
     }
   ],

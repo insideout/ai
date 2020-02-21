@@ -4,12 +4,10 @@ title: "The US Army uses facial recognition to train AI. Now, it needs to protec
 excerpt: "A team from Duke University, led by electrical and computer engineering faculty members Dr. Helen Li and Dr. Yiran Chen, have created a system which, it is hoped, will be able to mitigate cyberattacks against the military's facial recognition applications. Facial and object recognition technologies are used by the US Army to train artificial ..."
 publishedDateTime: 2020-01-27T09:55:00Z
 webUrl: "https://www.zdnet.com/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
 type: article
-quality: 101
-heat: 101
-published: true
+quality: 61
+heat: 61
+published: false
 
 provider:
   name: ZDNet
@@ -23,12 +21,6 @@ topics:
   - AI
   - Computer Vision
 
-images:
-  - url: "https://zdnet4.cbsistatic.com/hub/i/r/2019/11/20/b42aa021-90ac-43be-a1d9-65e1fbf4829f/resize/1200x900/0b0264a41ecba4d5f7fd7e3dce4a7015/screenshot-2019-11-20-at-13-23-49.png"
-    width: 1200
-    height: 763
-    title: "The US Army uses facial recognition to train AI. Now, it needs to protect it"
-
-secured: "PPDAP3CEUQ60uvJ8tK/aZ7Nt9tTm+jzehgCt+88cgJawJS8wWOPDLREotx+4owC0uppCS9tiuLZbeWs8JcdiU1w2eaazRs3cwK8YhAicL/CIiMbD8fn1iwQ1eeiEyCZCZbcgJxhCy4Yyar6lg8K0RwKGJZHg1q9zjYYBs/oK3tb0LRvF68xQy6JsC4+wHrD5MrzPYppyYLYfyn+YcBiTFiUmBAL1dMXwiBpI/MNxUTuv4MEuMMAly/XbzsMWYv4ww6UbdD+gHSuDV78NdDygF/ktYswTCpCre1UJ+kMAEm4FgyHurY490NP4qsEnh1xC;OgWOng0JLoMsMMD6cpvlGA=="
+secured: "Sa2TCBOXcoSWmF2Y8AeiDgAu+ZbGspqIE5gmh3B5cMG+hj1BhHkwE1bChKzqVW9AI6aJuwdybhy2QcnkVIdMknzgpR6foyZuyN5Fr6pNrLJPbwtFCwqPUWmJUCDm79WfA2niRTKqrXcZ0yzfuZsQVJbbY0zBvgMgRTb7pNnhNgBK/3EPSwpTkTqU8jZSQ/B8jIw4+VDfUW09wtewRjEnZ9t4dJaFJuKDGuuTTULtjmrnJSt8COIWctiu9+yOk9AFBP1pm6PQX73zV2jjBkPGHrNNzeZu+VYSodxOFdm0vK4a/qIlKfyt5GuMj3oYASiPp6ZxQZV4NCD/3Uvj0Li2TPSGeUnPLVRDSdmg7ckE4TikAxdFOJtUd1MnI/nZv71x9bTnxi9fPZON9f36/j4LwbkQ3ONQMKoEtnY7lBnSufoIDyFx9FTnTx1AFqshA8sdiS34mWYGA7ve0e0XEp/Y+t86IshHFchI/T66CdgC0+g=;qM+zvumogtRMnZQCLJhMaA=="
 ---
 

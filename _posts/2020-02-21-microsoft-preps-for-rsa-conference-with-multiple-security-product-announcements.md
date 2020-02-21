@@ -1,0 +1,56 @@
+---
+category: news
+title: "Microsoft Preps for RSA Conference with Multiple Security Product Announcements"
+excerpt: "Azure Sentinel uses so-called \"Fusion\" machine learning technology to find the most important threats. How that's done is outlined in this blog post by Ram Shankar Siva Kumar of Microsoft's cloud and AI security team. Microsoft Defender ATP for Linux Previews Microsoft is extending endpoint detection and response protections with its currently ..."
+publishedDateTime: 2020-02-21T01:21:00Z
+webUrl: "https://redmondmag.com/articles/2020/02/20/microsoft-rsa-security-product-announcements.aspx"
+type: article
+quality: 35
+heat: -1
+published: false
+
+provider:
+  name: Redmond Magazine
+  domain: redmondmag.com
+
+topics:
+  - AI
+  - Microsoft AI
+
+images:
+  - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/OldFashionedMicsBig.jpg"
+    width: 1665
+    height: 1158
+    title: "Microsoft Preps for RSA Conference with Multiple Security Product Announcements"
+
+related:
+  - title: "Microsoft Threat Protection and Insider Risk Management hit general availability"
+    excerpt: "The biggest announcement is arguably the general availability of Microsoft Threat Protection, which uses AI to offer a correlated view of threats and automation to address them. Other tidbits worth touching on include news from Microsoft Defender ATP (Android and iOS support is coming), Insider Risk Management, and Azure Sentinel. Microsoft ..."
+    publishedDateTime: 2020-02-20T14:00:00Z
+    webUrl: "https://venturebeat.com/2020/02/20/microsoft-threat-protection-insider-risk-management-general-availability/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 79
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/02/microsoft-threat-protection-hero.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
+  - title: "Microsoft Announces General Availability of Threat Protection, Insider Risk Management"
+    excerpt: "It started with an internal demand at Microsoft to use machine learning to detect threats based on user behavior ... and other partners to enable easier data collection. A new connector for Azure Security Center for IoT lets admins onboard data workloads from the Internet of Things into Azure Sentinel from deployments managed in the IoT ..."
+    publishedDateTime: 2020-02-20T20:37:00Z
+    webUrl: "https://www.darkreading.com/cloud/microsoft-announces-general-availability-of-threat-protection-insider-risk-management-/d/d-id/1337105"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 46
+    images:
+      - url: "https://twimgs.com/nojitter/darkreading/dr-logo.jpg"
+        width: 600
+        height: 600
+
+secured: "1R5ABhZMrtMwHsWLCzGxhTYuepmvgLgfa2G1zYcC/U6U1CFQLZRxplBcRzNQqfRKCkdi3UcG+kbyb07yuKNqmQJsA7cfltoGR8NT+ttTZE948PDk3exZdxlbRxoQxVYQ+MohD8iFMcFFPgm5izfi9n+bY8tpODEFPVcGBFLPQt7udUCWmWeow8cyxEnGPMKu2AT2Tu/oOIP72+hHfHyFqqtazIeM8nQtNuOlciQ7C2dV1G5k1C1k7847T4s26PPyNG5TNR+rb7Z2JSx/8BGHCwkDjCc2Hy9w2j0iGPimJ3UGs3fWRRz6xOxX1cv0wXnA;Wh6b0k4s/A8MVq++Kd2OCQ=="
+---
+

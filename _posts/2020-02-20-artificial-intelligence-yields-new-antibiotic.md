@@ -8,7 +8,7 @@ ampWebUrl: "https://phys.org/news/2020-02-artificial-intelligence-yields-antibio
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-02-artificial-intelligence-yields-antibiotic.amp"
 type: article
 quality: 137
-heat: 157
+heat: 167
 published: true
 
 provider:
@@ -49,6 +49,15 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F7bf31b7c-533c-11ea-8841-482eed0038b1?source=google-amp&fit=scale-down&width=500"
         width: 500
         height: 281
+  - title: "Artificial Intelligence brings a novel antibiotic compound"
+    excerpt: "Researchers from the Massachusetts Institute of Technology (MIT) have made a scientific breakthrough where their machine-learning algorithm or Artificial Intelligence (AI) program successfully created a novel antibiotic compound. The drug has since then been tested on deadly bacteria in the lab, and in lab mice with a considerable amount of ..."
+    publishedDateTime: 2020-02-21T00:44:00Z
+    webUrl: "https://www.news-medical.net/news/20200220/Artificial-Intelligence-brings-a-novel-antibiotic-compound.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 17
 
 secured: "ZraxHS26vC2JGon2oXzdZ9tAFjB7ChJIoQFeCD/acHRy8cx2pfIw8aPn7BrObcubVk/18Crwehs1h04r+gYt3Qw4T+PJuw5z4GPzfHr2Sf/eHOSoWE2QpcDkq05NmpEqSL1qk9ND8xgtHIMDpRrjZglkURoMw+S2j0uUxuzfxDBeL7IDCO5f610g4HMeqCgf8cRLScYNFJz7b+o+ciEkq9X9aozCkwsgFXM++1MD4jItS/iJm1uly1+P9pbZCUsMgAVL0/Eq5dHdUfIQUqolRahSBoy2zi0zE6Y5LZXOnTHwF3RlGsYsRCM3Isd7ijISxsUxoJJEdvqbsv4iPkwnPnrT3lGD4dgjRXGc0nJr2dOx8K1gGXNzvqRrh1H6i5S5tEmui0/vu8yK9FjRSwe5v1NoujZNqQAhkvPYTMiPLrAso51IW2YGELC/nzPH7iPZL6EGNQs09eqIl3RCKcrZVpiXQCOeD5/s3Q/cI18b8QGi4oJbo3l33SCCwWi1/QOm;gS5NR5Z3uHVjo8b2gsx6IQ=="
 ---

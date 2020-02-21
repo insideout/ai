@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Look out, the robots are coming!"
-excerpt: "Just when I think that I'm getting used to the shiny new world of Roombas, Alexas and driverless cars ... a team of international researchers remarked on the potential of artificial intelligence to disrupt a variety of jobs in fields as diverse as finance ..."
+excerpt: "Just when I think that I'm getting used to the shiny new world of Roombas, Alexas and driverless cars, something else comes along and throws ... a team of international researchers remarked on the potential of artificial intelligence to disrupt a variety of jobs in fields as diverse as finance, information technology, law and medicine, and ..."
 publishedDateTime: 2020-02-08T04:31:00Z
-webUrl: "https://www.texarkanagazette.com/news/features/story/2020/feb/07/look-out-robots-are-coming/815637/"
+webUrl: "https://www.texarkanagazette.com/news/features/story/2020/feb/07/look-out-robots-are-coming/815638/"
 type: article
 quality: 4
 heat: -1
@@ -18,22 +18,22 @@ topics:
   - AI in Autos
 
 related:
-  - title: "Chatbots are big news, but robots are set to be bigger"
-    excerpt: "Robotic process automation is an application technology leveraging artificial intelligence (AI) and machine learning (ML ... Today, RPA is a compelling proposition in that it allows businesses to create their own software robots to automate business processes, quickly giving the business an efficient digital workforce that dramatically reduces ..."
-    publishedDateTime: 2020-02-06T07:27:00Z
-    webUrl: "https://www.itweb.co.za/content/LPp6V7r4Y2NqDKQz"
-    ampWebUrl: "https://amp.itweb.co.za/content/LPp6V7r4Y2NqDKQz"
-    cdnAmpWebUrl: "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/LPp6V7r4Y2NqDKQz"
+  - title: "A warehouse robot learns to sort out the tricky stuff"
+    excerpt: "Standing nearby at the Obeta warehouse, the California engineers who made the robot snapped pictures with their smartphones. They spent more than two years designing the system at a startup called Covariant.AI, building on their research at the University of California, Berkeley. Their technology is an indication that, in the coming years ..."
+    publishedDateTime: 2020-02-09T15:00:00Z
+    webUrl: "https://www.chicagotribune.com/featured/sns-nyt-warehouse-robot-learns-sort-out-tricky-stuff-20200201-agcolycsqbetnk27wmpumpxsl4-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/featured/sns-nyt-warehouse-robot-learns-sort-out-tricky-stuff-20200201-agcolycsqbetnk27wmpumpxsl4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/featured/sns-nyt-warehouse-robot-learns-sort-out-tricky-stuff-20200201-agcolycsqbetnk27wmpumpxsl4-story.html?outputType=amp"
     type: article
     provider:
-      name: ITWeb
-      domain: itweb.co.za
+      name: Chicago Tribune
+      domain: chicagotribune.com
     quality: 59
     images:
-      - url: "https://www.itweb.co.za/static/pictures/2020/02/Gavin-Els-2020-IIN.jpg"
-        width: 816
-        height: 459
+      - url: "https://www.chicagotribune.com/resizer/vOhux2I__6gXE0qci_MqDEieaGE=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/2K2V6T2WDZEBZOZHHO523HBDOU.jpg"
+        width: 1200
+        height: 900
 
-secured: "2MnBVXjrkzKKwANPM/WzM4i1S9VTaqZ5A66yz5caPbNqRov9Z3oSDK29J5DodlbOhSfUYIU433tP8AafP0rTriXgQ5YTq5mB+Mz/g56lEQA4Nhj6ojKm/bLt6NfIFSZ2OZg6Bj7PUg64RYm2/at7pMLtZspK8cns1M5+DV8j0Z7sS0tE0ekiB1PG2U+ZV1LfYk0GSY7t5gbO/jrgcysCkCrMelOch7SN+cXTm7B4WPAGyrEmRtFN9W2/usPKPQQ2lQ1AuWjdAaCiuCAn3+ouj4hsQMhH6fcjiilUe8aQ8zVvo9A0oQZjRElWL2eza6n1WVnZGArySzBJ+L6K9cedTxHu8vBQK1SOZOirL8VlRug8FhNQaZ8SJN2lcCGOiFy+3v812aiPC4ocD09DFVHzk9GLygBdbjrBQwNCSEWo5sg6QkPcnbzLW+RDWdOvJdhggR3UMPzHRaKmcygeISPwXpVPXKX4g5pDksEqoXUduBM=;TuNu1C+9ZEaBFo/ILFzfrA=="
+secured: "2zaH4IWtXwTU90pjV2hwLfYvh6Vj8jvJz500qrM1N8datpNGTHzaNuW03y8++3kJJZnpMU7TFck2QAzQxWpr2wpbjFHVulC0iCRL9ECp9RKH93hu7oDFbQCAM1GhzFzfQAOcTGNdXivN2vMQwbIAKk6JppHAMXI6WwEpsoA1HPJpc2OFRmdhJicLva+ItPA+NzWgy9dgKnHpCvD9cJ9x7gWDI9J8BxBFuVb/vPzO4ZQ+XV+H5vTTm2lOVYIE726lvm/6V6siLpDAuYrNGKvWDSZVYA9FNnCGJqNaD33TpmXJl/QvUsdbUj9cew7/E+lPsIaxSjdd4aR6oP/6HQk8bIR0AsfIF7S3U0Wyk5AxopLLor73Z1Hqezf/IQOiqdmRv8ISPtojiRniouiqpGQmXdrsmANpXOHLR6n6INDohHmluBXSt66MMdRZj/mHiLLN7+T/6tXf5DF6Idrfm05STgMWHGg/mHINyLZAHIK1lew=;PyZUZi/7VHHGC5Cm9kSvoQ=="
 ---
 

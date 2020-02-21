@@ -1,27 +1,40 @@
 ---
 category: news
 title: "Can AI flag disease outbreaks faster than humans? Not quite"
-excerpt: "Early warnings of disease outbreaks can help people and governments save lives. In the final days of 2019, an AI system in Boston sent out the first global alert about a new viral outbreak in China. But it took human intelligence to recognize the significance of the outbreak and then awaken response from the public health community. What's more ..."
-publishedDateTime: 2020-02-20T09:34:00Z
-webUrl: "https://abcnews.go.com/Business/wireStory/ai-flag-disease-outbreaks-faster-humans-69094703"
+excerpt: "Did an artificial-intelligence system beat human doctors in warning the world of a severe coronavirus outbreak in China? In a narrow sense, yes. But what the humans lacked in sheer speed, they more than made up in finesse."
+publishedDateTime: 2020-02-20T23:27:00Z
+webUrl: "https://www.sfgate.com/news/medical/article/Can-AI-flag-disease-outbreaks-faster-than-humans-15069881.php"
+ampWebUrl: "https://www.sfgate.com/news/medical/amp/Can-AI-flag-disease-outbreaks-faster-than-humans-15069881.php"
+cdnAmpWebUrl: "https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/news/medical/amp/Can-AI-flag-disease-outbreaks-faster-than-humans-15069881.php"
 type: article
-quality: 37
-heat: 37
+quality: 57
+heat: 67
 published: false
 
 provider:
-  name: ABC
-  domain: go.com
+  name: SFGate
+  domain: sfgate.com
 
 topics:
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/Technology/WireAP_946b069f249747868f8f2742bc385a85_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+    width: 375
+    height: 211
     title: "Can AI flag disease outbreaks faster than humans? Not quite"
 
-secured: "U7nStSfxU/lrR1v9W5jexKi6xk1cl3UIG1fdNULF85JS5QuuwPOSjO5EQX/uL09j7A3UnYgmTpJsnmUvPkx2ZmUpixBeiBsf7gv4/Tj3HddddgCy7tscm7U8mIg9uuNjTaUFfmCdj+LxTF+mnq9uoWPtEIJ9DzwXp5jJZwxQK7/9RqJYs7Wt3xYIL/58xUF3sgJl0FpvEkBQ1NG9YeroTb0mgfNSZG+CNCiRSE1qxk+jUZEPx/t6OW1GZrdKf1nQeAhKVdZPWufzv+6Lx6bIFhTXX9FroAX1fMJf01J42JNtxoT3XjzXdv2WlBzGpfj0yhNK8X/IeT7Kecqzh4aeBVfBUQT7utp6X/4BUBAwY/kPu/DCAwCt4A89WRHcD8hNryyEH5tHxlslULuX6krjnywxd51UwtVkwruFVlHTzsh3hSHWA0wPDmFWOrjXsMJKjcLPu2nkwNy8ehZBiN+Om49kCCVSq7DRJg12SFSWtgM=;hLG605Han6k1XVAI/RFB7A=="
+related:
+  - title: "Can AI flag disease outbreaks faster than humans? Not quite"
+    excerpt: "For now, AI-powered disease-alert systems can still resemble car alarms — easily triggered ... outbreaks help inform global agencies such as the World Health Organization — giving international experts a head start when local bureaucratic hurdles and language barriers might otherwise get in the way. Some systems, including ProMed, rely ..."
+    publishedDateTime: 2020-02-21T00:13:00Z
+    webUrl: "https://www.orlandosentinel.com/featured/sns-ai-computers-predict-disease-outbreak-coronavirus-20200220-2e7qstgd7ng5plgxml4delpljm-story.html"
+    type: article
+    provider:
+      name: Orlando Sentinel
+      domain: orlandosentinel.com
+    quality: 17
+
+secured: "hiSIceNd3v72le7INgSDPczhBHELAHvzY7lx9bnDc6A8L+Drof5B6MRNCWT2pfcxSPiYM+b9JIEIkDNq2eIx57JOKoM6XS9IhnQ6QPeRjfU9TTI9v1w0AgzIBuA7X25YTaCupfVKZeqEedoXScf4Od6YBGfpijqmUAZjtx7UOq4mn2C25mL0haa/nG6UUoknn9AuQayUWpSzqQuY/1JpLKhpmPqPrhE4OBvcfhJ0xfzEO+NyPl0v2hZrBYFbTt5gM7Z+9JRmmHMOSg0/KVIDbml1EitI6Xeeanshput2sMYv41GAO3SjGxexs1AX/A2H;9VMfvYIQg0UQJhVVKPFyYw=="
 ---
 

@@ -82,19 +82,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Artificial Intelligence Platform Market 2020 Global Analysis, Opportunities And Forecast To 2025"
-    excerpt: "Artificial Intelligence Platform Industry Description This report studies the Artificial Intelligence Platform market, Artificial intelligence (AI, also machine intelligence, MI) is intelligence displayed by machines,"
-    publishedDateTime: 2020-02-06T07:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-platform-market-2020-global-analysis-opportunities-and-forecast-to-2025-2020-02-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "3D Facial Recognition Systems Market – Is North America Remain Biggest Opportunity?"
     excerpt: "Pune, Maharashtra, January 24, 2020 (Wired Release) Prudour Pvt. Ltd: Global News of 3D Facial Recognition Systems Market Study 2020-2029, by Segment (Hardware, Software), Playing a Pivotal Role in Expanding by (Access Control, Attendance Tracking And ..."
     publishedDateTime: 2020-02-10T20:50:00Z
@@ -138,6 +125,15 @@ related:
     provider:
       name: openpr.com
       domain: openpr.com
+    quality: 4
+  - title: "Meticulous Forecasts $26.8 Billion Speech and Voice Recognition Market"
+    excerpt: "Meticulous Research has released a new report that predicts that the market for speech and voice recognition technology will climb to $26.8 billion between 2019 and 2025. That figure represents a CAGR of 17.2 percent. Meticulous credits the anticipated ..."
+    publishedDateTime: 2020-02-07T00:00:00Z
+    webUrl: "https://findbiometrics.com/biometrics-news-meticulous-forecasts-26-8-billion-speech-voice-recognition-market-020705/"
+    type: article
+    provider:
+      name: SecuriMetrics HIIDE
+      domain: findbiometrics.com
     quality: 4
   - title: "Artificial Intelligence as a Service (AIaaS) Market Analysis by Business Methodologies, Financial Overview and Growth Prospects Predicted by 2023"
     excerpt: "The advancement in the concepts of deep learning, machine learning, and natural language processing is boosting the Artificial Intelligence as a Service market. The growth in the popularity of AI-enabled tools is motivating the expansion of the market. Moreover, the benefits such as transparency in business operations and minimal cost of ..."

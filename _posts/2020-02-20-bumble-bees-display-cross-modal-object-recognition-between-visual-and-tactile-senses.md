@@ -1,16 +1,16 @@
 ---
 category: news
 title: "Bumble bees display cross-modal object recognition between visual and tactile senses"
-excerpt: "For example, an object out of view, but for which we have a mental image, can still be recognized by touch. Such cross-modal recognition is highly adaptive and has been recently identified in other mammals, but whether it is widespread has been debated."
+excerpt: "For example, an object out of view, but for which we have a mental image, can still be recognized by touch. Such cross-modal recognition is highly adaptive and has been recently identified in other mammals, but whether it is widespread has been debated. Solvi et al. tested for this behavior in bumble bees, which are increasingly recognized as ..."
 publishedDateTime: 2020-02-20T19:25:00Z
-webUrl: "https://science.sciencemag.org/content/367/6480/910?rss=1"
+webUrl: "https://science.sciencemag.org/content/367/6480/910.full"
 type: article
 quality: 32
 heat: 32
 published: false
 
 provider:
-  name: Science
+  name: Science | AAAS
   domain: sciencemag.org
 
 topics:
@@ -73,6 +73,6 @@ related:
       domain: phys.org
     quality: 15
 
-secured: "HUAiaT3CIIcaOwPhijM4HEL6l5uHTz6bZXrQTXj1T/Ry3Gu8l0L4+MYZil0+VrBMcET8O6TUCDGchly0lP/1I87DziDsbadND5xIMobwGv5N/pd+dhYdSlb51DrDX5/ocCXofaoirrj5e2OE/sO6Pwqa03FK/uLxulTaCLeLznIJGnGulvPFla2XmPJ+L+D7U7TsHqbNumtV01z5zcVZKUm8nbKME1C2nXtvnwk7niHhU6qivPc4tKRY191qGEvPe+lAguHAc6LGRmROoHqt5o3QVOpvjQc+DE70TwfCrC72jDES2OMDpmGh4tJ6DEKx2drjPXDtOoActfUZu6WP5K/nc+9DWfiUVSDBkL0SNU8Nb33CfpsneE20Eiq7lDnyhdGrZU2weXAPE0u1pdT2N/3JttvM+k+Yq2qd5RdZmegOYv/HfnS16h5YWT840LwLOtC4882CftvuUbbzgAF2vTsacuXli6zcWA8NBVntwgQ=;DA3mvyMAoQ1SmluRVmZspA=="
+secured: "1pueZqfymkA6qqy2OVI7Nr4DfO3Haply3eF5/dG5lmsK7NbkelvgLLlRaWwhlqIlyUDAvtx6wOsHOnGVDeoPJyBq+Fn3PR8pDLmd2E1tw0y/ErO0HHH7DvE1ujqB4B2ephNbaZ5B/eJbtvd3vij+yk0TrCuwmynytz6/CMubOq9jZhOdkFs4hn/B7g9/nGMjzpPpZN9nDXZppp7VQc5Xhxz8rPeEfbliIiAeS5bKMyPwN7yiwd+aFmZmSFCnMeI+TpVJgSX8LwqwkI6jMKfWeOmppAhGsqH2WGJOQVA3xUY/AIw64TOvc6NPK54Z35ai;atigt1gjgBqJEzd9gHn/NA=="
 ---
 

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/2/20/21145584/facebook-pa
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/20/21145584/facebook-pay-record-voice-speech-recognition-viewpoints-proununciations-app"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -41,6 +41,15 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 52
+  - title: "Facebook will pay for user recordings to improve speech recognition"
+    excerpt: "Facebook may have stopped listening to and transcribing Messenger voice chats, but it still needs voice recordings to improve its speech recognition technology. So the company is going to pay select users to record snippets of audio through a new program called \"Pronunciations,\" The Verge reports. In exchange, users can earn up to $5."
+    publishedDateTime: 2020-02-21T00:28:00Z
+    webUrl: "https://www.engadget.com/2020/02/20/facebook-voice-recordings-viewpoints-app/"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 51
   - title: "Facebook Will Now Pay You for Voice Recordings (Instead of Spying)"
     excerpt: "Facebook will now offer to pay some of its users for providing voice recordings that the social media giant will use to improve its speech recognition systems. The company announced the new initiative, dubbed Pronunciations, on Thursday. And, while Facebook didn’t mention it, the program seems like a way forward after Facebook was caught ..."
     publishedDateTime: 2020-02-20T21:55:00Z

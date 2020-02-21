@@ -2,87 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_posts/2020-02-17-costa-group-turns-to-ai-maths-robot-to-improve-berry-yield-predictions.md",
-      "title": "Costa Group turns to AI 'maths robot' to improve berry yield predictions",
-      "excerpt": "Costa Group, one of Australia's largest horticulturist companies, has begun rolling out an artificial intelligence (AI) system to help the company better understand and manage the quantity and quality of its berry crops. The Sensing+ system, developed by Sydney-based company, The Yield, has been designed to measure 14 variables of a typical ...",
-      "heat": 103,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/costa-group-turns-to-ai-maths-robot-to-improve-berry-yield-predictions/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/costa-group-turns-to-ai-maths-robot-to-improve-berry-yield-predictions/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/costa-group-turns-to-ai-maths-robot-to-improve-berry-yield-predictions/",
-      "publishedDateTime": "2020-02-16T20:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/02/17/78ce6dfc-31b4-4817-ae47-d1b21601de2e/ty-node-in-costa-polytunnel-1.png",
-          "width": 1156,
-          "height": 867,
-          "title": "Costa Group turns to AI 'maths robot' to improve berry yield predictions",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-17-cyber-security-market-to-register-an-impressive-cagr-of-126-till-2027-says-fortune-business-insights.md",
-      "title": "Cyber Security Market to Register an Impressive CAGR of 12.6% till 2027, Says Fortune Business Insights",
-      "excerpt": "/PRNewswire/ -- Rapidly rising e-commerce activities will be the key driver for the global cyber security market growth during the forecast period.",
-      "heat": 106,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.prnewswire.com/news-releases/cyber-security-market-to-register-an-impressive-cagr-of-12-6-till-2027--says-fortune-business-insights-301005924.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-17T07:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1091206/FBI_Cyber_Security_Market.jpg?p=facebook",
-          "width": 999,
-          "height": 524,
-          "title": "Cyber Security Market to Register an Impressive CAGR of 12.6% till 2027, Says Fortune Business Insights",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-17-deltec-bank-bahamas-explains-role-of-fintech-in-the-banking-and-finance-sector.md",
       "title": "Deltec Bank, Bahamas Explains Role of FinTech in the Banking and Finance Sector",
       "excerpt": "The term fintech is a portmanteau of ‘financial technology’ and denotes an industry that has exploded in popularity over the past five years. When examining Google Trends, we see that prior to 2015,",
@@ -131,7 +50,7 @@
       "path": "_posts/2020-02-17-eu-plan-on-ai-new-rules-better-taxes.md",
       "title": "EU plan on AI: new rules, better taxes",
       "excerpt": "\"The new ... taxes and others do not,\" it adds. Other initiatives currently being discussed include an action plan on 6G, making data-centres more sustainable and a revision of the regulation on online identification. After the EU's approach to AI and ...",
-      "heat": 197,
+      "heat": 207,
       "tags": null,
       "type": "article",
       "webUrl": "https://euobserver.com/science/147454",
@@ -1462,7 +1381,7 @@
       "path": "_posts/2020-02-18-google-brain-and-deepmind-researchers-attack-reinforcement-learning-efficiency.md",
       "title": "Google Brain and DeepMind researchers attack reinforcement learning efficiency",
       "excerpt": "Unfortunately, it’s data-intensive, which motivated research teams — one from Google Brain (one of Google’s AI research divisions) and the other from Alphabet’s DeepMind — to prototype more efficient means of executing it. In a pair of preprint papers, the researchers propose Adaptive Behavior Policy Sharing (ABPS), an algorithm that ...",
-      "heat": 100,
+      "heat": 110,
       "tags": null,
       "type": "article",
       "webUrl": "https://venturebeat.com/2020/02/18/google-brain-deepmind-reinforcement-learning-efficiency/",
@@ -2149,6 +2068,88 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-18-vote-for-the-pacific-northwests-best-innovation-at-the-geekwire-awards.md",
+      "title": "Vote for the Pacific Northwest’s best innovation at the GeekWire Awards",
+      "excerpt": "(GeekWire Photo / Kevin Lisota) The Pacific Northwest’s status as an innovation hub is well-documented: It is at the center of the cloud computing revolution, a hotspot for artificial intelligence, and it will play a role in the future of driverless cars, mobile technology, video games and much more. But the innovation in the region goes well ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geekwire.com/2020/vote-pacific-northwests-best-innovation-geekwire-awards/",
+      "ampWebUrl": "https://www.geekwire.com/2020/vote-pacific-northwests-best-innovation-geekwire-awards/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/vote-pacific-northwests-best-innovation-geekwire-awards/amp/",
+      "publishedDateTime": "2020-02-17T18:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2019/08/textiosnyder-630x420.jpg",
+          "width": 630,
+          "height": 420,
+          "title": "Vote for the Pacific Northwest’s best innovation at the GeekWire Awards",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-18-webinar-leveraging-ai-to-maximize-collaborative-robot-efficiency-march-17.md",
+      "title": "Webinar: Leveraging AI to maximize collaborative robot efficiency – March 17",
+      "excerpt": "Recent advancements in Artificial Intelligence (AI) have enabled collaborative robots to precisely execute tasks in dynamically changing workspaces, enabling operations to run more smoothly, efficiently and productively. This webinar will define AI and demonstrate how AI-powered cobots can increase production, decrease cost, and shorten cycle ...",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.therobotreport.com/leveraging-ai-maximize-collaborative-robot-efficiency/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-18T07:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2020/02/AI_webinar_image780.png",
+          "width": 780,
+          "height": 390,
+          "title": "Webinar: Leveraging AI to maximize collaborative robot efficiency – March 17",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

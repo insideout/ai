@@ -47,21 +47,6 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 67
-  - title: "EU proposes rules for artificial intelligence to limit risks"
-    excerpt: "at the AI Xperience Center at the VUB (Vrije Universiteit Brussel ... BERLIN (AP) — The German Cabinet has approved a bill that will require social media sites such as Facebook and YouTube to report certain hate speech to the police. According to the bill passed by ministers Wednesday, internet companies will have to flag far-right propaganda ..."
-    publishedDateTime: 2020-02-19T11:32:00Z
-    webUrl: "https://www.localmemphis.com/tech/eu-proposes-rules-for-artificial-intelligence-to-limit-risks/"
-    ampWebUrl: "https://www.localmemphis.com/tech/eu-proposes-rules-for-artificial-intelligence-to-limit-risks/amp/"
-    cdnAmpWebUrl: "https://www-localmemphis-com.cdn.ampproject.org/c/s/www.localmemphis.com/tech/eu-proposes-rules-for-artificial-intelligence-to-limit-risks/amp/"
-    type: article
-    provider:
-      name: Local 24 News
-      domain: localmemphis.com
-    quality: 59
-    images:
-      - url: "https://www.localmemphis.com/wp-content/uploads/sites/60/2020/02/26a5d5519fb44b4cbb90a8135709a722.jpg?w=1280&h=720&crop=1"
-        width: 1280
-        height: 720
 
 secured: "xvDDNb1U6oO6s7UK+/M5GS73YRw1BULl1NGUnipta988AMYB075vqmyKDMIs9aBtgWKWkCk5I7ACcKbogjKWrq1Gv+1JlMrJCFBNTHcBU1ylkrNszLj4FffKo8q1IsIYdzKy+jd+VIr/yB790WFZG7ijlsFGtYrhLj0vGIq0NK0D3o6JzbWCd9e5z80JZxksZv2geV7wzRrGLrdOV++e2Q1kKMZfYaMh8kUyEB7VK5HLYxNJk4jrrgvu+AMrJADWEvIwYcC2VU/5n9WjXWHMIJZLJJRrmI/0cOpcQqoVCW5UxOJGZg7XFmG1FhQXckwg;tnl8BItsvr0iweL3W1q2sw=="
 ---

@@ -183,17 +183,6 @@ related:
       - url: "https://www.washingtonpost.com/resizer/ioZ0vfVxhHboPpFfI1sv9v84lqY=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YNXLH6CJAUI6VELE2MKUVWFFZU.jpg"
         width: 1440
         height: 960
-  - title: "Uber’s Self-Driving Vehicles Get On-Road Permit For CA"
-    excerpt: "Uber may soon be able to put its self-driving vehicles back on California roads after several years, with the issuance of a new permit, according to reports. The company had to scale back its autonomous vehicle program following an incident in Arizona where a pedestrian was killed by one of the vehicles. However, the permit — issued by the ..."
-    publishedDateTime: 2020-02-06T07:13:00Z
-    webUrl: "https://www.pymnts.com/innovation/2020/ubers-self-driving-vehicles-get-on-road-permit-for-ca/"
-    ampWebUrl: "https://www.pymnts.com/innovation/2020/ubers-self-driving-vehicles-get-on-road-permit-for-ca/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/innovation/2020/ubers-self-driving-vehicles-get-on-road-permit-for-ca/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 24
   - title: "California allows Uber’s self-driving cars to get back on its roads"
     excerpt: "Nearly two years after a car from Uber’s autonomous fleet was involved in a deadly crash in the neighboring US state of Arizona, the Department of Motor Vehicles has granted a permit to the ride-hailing company to test its self-driving cars on public roads. Before the horrendous incident in Arizona, the multinational ride hailing giant was ..."
     publishedDateTime: 2020-02-07T14:43:00Z

@@ -52,6 +52,15 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 52
+  - title: "Facebook will pay for user recordings to improve speech recognition"
+    excerpt: "Facebook may have stopped listening to and transcribing Messenger voice chats, but it still needs voice recordings to improve its speech recognition technology. So the company is going to pay select users to record snippets of audio through a new program called \"Pronunciations,\" The Verge reports. In exchange, users can earn up to $5."
+    publishedDateTime: 2020-02-21T00:28:00Z
+    webUrl: "https://www.engadget.com/2020/02/20/facebook-voice-recordings-viewpoints-app/"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 51
 
 secured: "UZVZuxCIhUtNoH0PtEab1WXZCiUjo3nvQ+W8XuWKe4LZpGt3LIw0HSs59fwtc4Pw/KXrMlXa+/OHNPdADNjHC5Cb0yp0vHEwCyIsZmrnVhnH3pUnP9dHSofOo8jNZ7/oc/0Xjs4zonZ2b+uSNP0i3I9YUxLyouX7ftxg/t5fFav4PDOFlgYWNUBH0/5Iq1XNv/JWuVq24PrLUrCHCsw2Hkh7KoDfhQBnRvWPZUuXSc54zRGtrBXKMRHnprGsc19uKVPGcWj+NKmsmwG1DUGKH+bBvEI71nLsiYamSOnrm84PYo+Q634HAj7I30Je8JD2bFfX+p6nngy96UBaiwThRyPoNg6OMswQ6a5RD8A3qurzYJtqQWAFHS3lX/l7aLUAHxmrLWI9JWX7Axo7LM8aB648gLpZ66FNHQvwfRJOqv9LXsBqTik4bgvIcRO4G0GJmIW7WCK6waFeD75sGZnT7D+wdWnWF2Xy2L4Ft78l/Gg=;pCRKkiD4y4w6YTGJ1rjRQw=="
 ---
