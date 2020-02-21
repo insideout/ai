@@ -8,7 +8,7 @@ ampWebUrl: "https://www.wired.com/story/how-ai-tracking-coronavirus-outbreak/amp
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/how-ai-tracking-coronavirus-outbreak/amp"
 type: article
 quality: 91
-heat: 161
+heat: 151
 published: true
 
 provider:
@@ -109,17 +109,6 @@ related:
       - url: "https://eandt.theiet.org/media/10504/2019-ncov-centers-for-disease-control-and-prevention-cdc.jpg?anchor=center&mode=crop&width=1200&height=450&rnd=132252160040000000"
         width: 1200
         height: 450
-  - title: "Coronavirus outbreak to further strain global AI information exchanges already under pressure from tech war"
-    excerpt: "Chinese search giant Baidu and Tongdun Technology, a Hangzhou-based risk management start-up, are among the leading conference sponsors along with US firms IBM, Google AI, Amazon and Apple. China’s smartphone giants cut size of contingent to world’s biggest mobile show In a written response, Baidu said 28 papers submitted by its own authors ..."
-    publishedDateTime: 2020-02-06T22:56:00Z
-    webUrl: "https://www.scmp.com/tech/big-tech/article/3049327/coronavirus-outbreak-further-strain-global-ai-information-exchanges"
-    ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3049327/coronavirus-outbreak-further-strain-global-ai-information-exchanges"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3049327/coronavirus-outbreak-further-strain-global-ai-information-exchanges"
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 19
 
 secured: "T5JtaN9r6iHGos6piawOp7KkldTfI81pV5aSIcW5cR6c59hQySf29MSS1IeuCFLYCRbAyGDFJ82hwZkTOdNHW9nCswKlzBa7OUDA4gUrx2kiXkoxOxYf45doV1k61V10J7mBITYs9D9dK1vje9VpBd5bxJoLJwWdNl+OR7T0x9Zsi0kxJRlwucT74Bptgl4Dk1K/ll4Kn7rnH7PcfIdNo8LnBqIiyWvZhkMAr55yh20uwWOOXAA8ISpzLE7K9S4dKO1NJ6/5wEMPKI22u+G0k/02ukTnH/mDuG0M4Z8YzJ0n+auwh/16tEfzpGa6DltsTIeDb6oBIAz+FeO7v3RPXQIUG7XJBkNWzHVCQjczip6Sj07Yz7qNXtqYvE55kMZad9fvIEtgh0a0nFhGIWsN6llq0OZtN/1UsvHgb5GOlZN1pDJkbb7hYlgd9v3dyV+wL5V35RptC1+fQn/AzXw6QfnygjyOD5kf0A52qf5WHvQ=;ZWxB1t91gBsH22Rm4ls47A=="
 ---

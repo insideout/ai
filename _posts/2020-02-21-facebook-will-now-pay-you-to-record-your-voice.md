@@ -242,9 +242,9 @@ related:
   - title: "Facebook will PAY you for your voice recordings, but should you do it?"
     excerpt: "Facebook is offering up to $5 for your voice recordings so its speech recognition technology can improve. According to The Verge, those who qualify to be part of Pronunciations will be asked to record the phrase “Hey Portal” (AKA the name for Facebook's hardware division) followed by the first name of someone on your Facebook friends list."
     publishedDateTime: 2020-02-21T12:25:00Z
-    webUrl: "https://www.tomsguide.com/news/facebook-will-pay-you-dollar5-for-your-voice-recordings-but-should-you-do-it"
-    ampWebUrl: "https://www.tomsguide.com/amp/news/facebook-will-pay-you-dollar5-for-your-voice-recordings-but-should-you-do-it"
-    cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/news/facebook-will-pay-you-dollar5-for-your-voice-recordings-but-should-you-do-it"
+    webUrl: "https://www.tomsguide.com/uk/news/facebook-will-pay-you-dollar5-for-your-voice-recordings-but-should-you-do-it"
+    ampWebUrl: "https://www.tomsguide.com/uk/amp/news/facebook-will-pay-you-dollar5-for-your-voice-recordings-but-should-you-do-it"
+    cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/uk/amp/news/facebook-will-pay-you-dollar5-for-your-voice-recordings-but-should-you-do-it"
     type: article
     provider:
       name: Tom's Guide

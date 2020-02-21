@@ -99,6 +99,21 @@ related:
       - url: "https://s.abcnews.com/images/International/jourova-zuckeberg-sh-rc-200219_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+  - title: "Delhi Police says only criminal records retained from use of facial recognition"
+    excerpt: "The Delhi Police had earlier started using its facial recognition software, acquired in 2017 to track missing children and persons, to screen crowds. The software, made by Delhi-based Innefu Labs is capable of screening faces from social media as well, as founder Tarun Wig had explained to Mint in an earlier interaction. The reports also raised ..."
+    publishedDateTime: 2020-02-21T15:42:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/delhi-police-says-only-criminal-records-retained-from-use-of-facial-recognition-11582297113092.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/delhi-police-says-only-criminal-records-retained-from-use-of-facial-recognition/amp-11582297113092.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/delhi-police-says-only-criminal-records-retained-from-use-of-facial-recognition/amp-11582297113092.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 70
+    images:
+      - url: "https://images.livemint.com/img/2020/02/21/600x338/eec966d0-429b-11ea-a33f-294bb1c02b8b_1582297443566_1582297525165.jpg"
+        width: 600
+        height: 338
   - title: "EU facial recognition rules, air quality satellite, whale earwax"
     excerpt: "Quartz’s interactive email for curious minds. Escape the stale news cycle with forgotten histories, surprising facts, and vital stats."
     publishedDateTime: 2020-02-19T06:25:00Z

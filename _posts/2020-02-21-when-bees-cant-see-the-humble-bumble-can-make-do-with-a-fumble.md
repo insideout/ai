@@ -42,9 +42,9 @@ related:
   - title: "Bumble Bees Can Recognize Objects Across Senses"
     excerpt: "This ability to experience an object in one sensory modality and later recognize it in another is called cross-modal object recognition. It’s actually a highly complex cognitive capacity that was thought to be limited to vertebrates. Cross-modal object recognition has been demonstrated across vision and touch in humans, apes, monkeys ..."
     publishedDateTime: 2020-02-20T19:32:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/animal-minds/202002/bumble-bees-can-recognize-objects-across-senses"
-    ampWebUrl: "https://www.psychologytoday.com/us/blog/animal-minds/202002/bumble-bees-can-recognize-objects-across-senses?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/animal-minds/202002/bumble-bees-can-recognize-objects-across-senses?amp"
+    webUrl: "https://www.psychologytoday.com/za/blog/animal-minds/202002/bumble-bees-can-recognize-objects-across-senses"
+    ampWebUrl: "https://www.psychologytoday.com/za/blog/animal-minds/202002/bumble-bees-can-recognize-objects-across-senses?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/animal-minds/202002/bumble-bees-can-recognize-objects-across-senses?amp"
     type: article
     provider:
       name: Psychology Today

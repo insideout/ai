@@ -55,6 +55,32 @@ related:
       name: CBS Boston / WBZ
       domain: cbslocal.com
     quality: 39
+  - title: "CBP Expands Facial Recognition Program to Another Southern Border Crossing"
+    excerpt: "Customs and Border Protection is deploying its facial recognition program at land border crossings at a fifth location ahead of a broader expansion planned for this spring. This week, CBP began scanning pedestrians’ faces at the Progreso port of entry in Weslaco, Texas. Progreso became the fifth location to use the technology since the ..."
+    publishedDateTime: 2020-02-13T18:50:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2020/02/cbp-expands-facial-recognition-program-another-southern-border-crossing/163111/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 37
+    images:
+      - url: "https://cdn.nextgov.com/media/img/upload/2020/02/13/NGborder20200213/open-graph.jpg"
+        width: 400
+        height: 400
+  - title: "Facial-recognition tech questioned, defended at House committee hearing"
+    excerpt: "The controversy over usage of facial recognition technology took center stage last week in Washington, D.C., as the House of Representatives’ Homeland Security Committee held a two-hour hearing, as opponents in the debate decry its racial bias and federal government’s quick rollout at U.S. airports without fully testing or acknowledging ..."
+    publishedDateTime: 2020-02-07T20:31:00Z
+    webUrl: "https://www.scmagazine.com/home/security-news/privacy-compliance/facial-recognition-tech-questioned-defended-at-house-committee-hearing/"
+    type: article
+    provider:
+      name: SC Media
+      domain: scmagazine.com
+    quality: 24
+    images:
+      - url: "https://www.scmagazine.com/wp-content/uploads/sites/2/2018/07/facialrecognition_1326427.jpg"
+        width: 700
+        height: 379
 
 secured: "drljDwvjwGXopSzUTm+aubX8EqR/DfLXZkC5UFBr3+xOnJhTv8/oVyMWYoHQtreycrIaHgS21KCOOaXicg8pZt+nv31AuFqusP0XJBgClGNyvZizRGopboDywKJfPZBXGooh4L/LA8rg4RtoIJ/HUdDjWBgo0vFDYyFgzEDflhWudP+VRZSINjcmECUKKdvkWMN+LQkIhnhrWDpG7pZbP6ai3nD04lSJ13WPH4abvcXa/LfWsUJhcYV/Y/24DD0VYi+1xXjiAoiHwlORJQYzj+QtnQZm9pKZt5aLkYG/Sp6abc4jgaaDwO1t9RlNmw8bk+qGsqBAfjbEr7HD5hiMNKgosDWJrsweihS7nmoWFk+L7UysQZpaU2IzJzDVEibE5XrLS7EktiHs//lhtjrqTSXfQKr5o3m58wkFS72VtZkLei04EMxbovjjvH56M+tRa7ysAMF2+1dBJBtcY8C+zYxFx9E4Xg5FIbSTNeLo/eE=;9dFCiImajm2WHnqWw1m+3A=="
 ---

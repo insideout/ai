@@ -82,6 +82,17 @@ related:
       - url: "https://cdn.iflscience.com/images/b8c230b6-a3ea-5854-9482-5d6e99b6c372/default-1582285414-cover-image.jpg"
         width: 720
         height: 405
+  - title: "Using machine learning to find new antibiotics"
+    excerpt: "But in a paper publishing February 20 in the journal Cell, researchers demonstrate a method to uncover new antibiotics quickly and efficiently through machine learning. James Collins, a synthetic biologist at MIT, and his team trained a deep neural network to identify possible antibiotic molecules using compounds known to suppress E."
+    publishedDateTime: 2020-02-21T15:06:00Z
+    webUrl: "https://medicalxpress.com/news/2020-02-machine-antibiotics.html"
+    ampWebUrl: "https://medicalxpress.com/news/2020-02-machine-antibiotics.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-02-machine-antibiotics.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 39
   - title: "Artificial Intelligence brings a novel antibiotic compound"
     excerpt: "Researchers from the Massachusetts Institute of Technology (MIT) have made a scientific breakthrough where their machine-learning algorithm or Artificial Intelligence (AI) program successfully created a novel antibiotic compound. The drug has since then been tested on deadly bacteria in the lab, and in lab mice with a considerable amount of ..."
     publishedDateTime: 2020-02-21T00:44:00Z

@@ -23,6 +23,6 @@ images:
     height: 399
     title: "Top cloud Vendors Look to Partnerships to Grab Their Piece of the IoT Analytics Pie"
 
-secured: "Slb/7gv1duYCrcCXZbSayA3QizN3/sM3961p1QmkPdFzA19BD0sQPlhIY7ZO8jbx408+qOI5rJWhnKkeNWHecXF+HKdaX9PiXE9DQo70gJfSbce9fLSQtCAiXvaaDrgJ4TF9WIpKxxYX/vokN6wRkrZJNj7Qhu9+3N+BTHI63um4+g5xpGvfBJYLkJ55Mor/2PhYBK5ZgbB16z++iSSQ2FSwn/og7eEhgNpXcm5CB6hulI8QiMov53sPD3o+YNsEZIK3AqNs/32Obbk4RtzZ2TuE8MZEbumAOzQr7sSDcMjc+krxmEnlHBZGe4ll3NLN;OpE6OaQN30SuoV09ccEoxg=="
+secured: "AogpRjfSnPA+jlet/+ys067BFlf/l2sPqXl4hBWmysY3VPjJ/bo85N4h4S4dm9/KqwC9mvcEa+VfjVGz9N0qKWxhOSSpDh5C18/5WF+KXdDRYz3xIBJtpd21AgBK93G2xMQDBSqVXJEevMu101VAizkVhSA9ROaAmtkJjIaV7x0cYURzR8FEbWteW2X2DAIDi+RwkE+JqDv1UMcVsKoNNVSD7owNjDqhJZpBd8D3j0QnkC7V7Ge0n4sdeYH/yRgrMFSHSTY9Dghy6X2ffuYkZV3ERKNayXS26rQcjQelArvX4JmaCieFygD1EJTj3LK9;DjrjRLvI4dXD47yyWo4/+w=="
 ---
 

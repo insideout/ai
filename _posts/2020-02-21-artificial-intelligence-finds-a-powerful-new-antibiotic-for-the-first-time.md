@@ -81,6 +81,17 @@ related:
       - url: "https://e3.365dm.com/20/02/1600x900/skynews-e-coli-bacteria-antibiotics_4926241.jpg?20200221070106"
         width: 1600
         height: 900
+  - title: "Using machine learning to find new antibiotics"
+    excerpt: "But in a paper publishing February 20 in the journal Cell, researchers demonstrate a method to uncover new antibiotics quickly and efficiently through machine learning. James Collins, a synthetic biologist at MIT, and his team trained a deep neural network to identify possible antibiotic molecules using compounds known to suppress E."
+    publishedDateTime: 2020-02-21T15:06:00Z
+    webUrl: "https://medicalxpress.com/news/2020-02-machine-antibiotics.html"
+    ampWebUrl: "https://medicalxpress.com/news/2020-02-machine-antibiotics.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-02-machine-antibiotics.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 39
   - title: "Artificial Intelligence brings a novel antibiotic compound"
     excerpt: "Researchers from the Massachusetts Institute of Technology (MIT) have made a scientific breakthrough where their machine-learning algorithm or Artificial Intelligence (AI) program successfully created a novel antibiotic compound. The drug has since then been tested on deadly bacteria in the lab, and in lab mice with a considerable amount of ..."
     publishedDateTime: 2020-02-21T00:44:00Z

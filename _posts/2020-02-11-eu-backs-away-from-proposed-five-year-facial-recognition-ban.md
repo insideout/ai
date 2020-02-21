@@ -571,17 +571,6 @@ related:
       - url: "https://cdn.meritalk.com/wp-content/uploads/2019/01/facial-recognition-2-min.jpg"
         width: 800
         height: 450
-  - title: "Should cities and towns ban their government's use of facial recognition technology?"
-    excerpt: "Facial recognition is the most dangerous surveillance technology ever invented. The world has never seen anything like it. It makes snooping and stalking easy and cheap. Left unabated, governments, companies, and individuals will use it to watch us everywhere we go. Dystopian as these outcomes are, that’s not all. Facial recognition also has ..."
-    publishedDateTime: 2020-02-06T22:41:00Z
-    webUrl: "https://www.bostonglobe.com/2020/02/06/metro/should-cities-towns-ban-their-governments-use-facial-recognition-technology/"
-    ampWebUrl: "https://www.bostonglobe.com/2020/02/06/metro/should-cities-towns-ban-their-governments-use-facial-recognition-technology/?outputType=amp"
-    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/02/06/metro/should-cities-towns-ban-their-governments-use-facial-recognition-technology/?outputType=amp"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 32
   - title: "Clearview AI: why the controversial facial recognition technology should be a concern for the UK, according to experts"
     excerpt: "A controversial US facial recognition company is raising concerns over privacy after it created a database using nearly three billion public photos of people from sites such as Facebook, Twitter and YouTube. Clearview AI, until recently a relatively unknown tech startup, has made its facial recognition software available to law enforcement ..."
     publishedDateTime: 2020-02-12T10:30:00Z

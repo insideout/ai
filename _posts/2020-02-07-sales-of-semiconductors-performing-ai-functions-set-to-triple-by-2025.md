@@ -8,7 +8,7 @@ ampWebUrl: "https://www.dqindia.com/sales-semiconductors-performing-ai-functions
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/sales-semiconductors-performing-ai-functions-set-triple-2025/amp/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -18,23 +18,6 @@ provider:
 topics:
   - AI
   - AI Hardware
-
-related:
-  - title: "Waymo Content Search can find billions of objects encountered over 20M miles in seconds"
-    excerpt: "As of early 2020, Waymo self-driving vehicles have driven 20 million miles on public roads. That makes for vast amounts of recorded sensor data to improve the autonomous system. Waymo today detailed its Content Search tool and database with billions of encountered road objects ... road debris can include everything from plastic bags to tire ..."
-    publishedDateTime: 2020-02-06T22:49:00Z
-    webUrl: "https://9to5google.com/2020/02/06/waymo-content-search/"
-    ampWebUrl: "https://9to5google.com/2020/02/06/waymo-content-search/amp/"
-    cdnAmpWebUrl: "https://9to5google-com.cdn.ampproject.org/c/s/9to5google.com/2020/02/06/waymo-content-search/amp/"
-    type: article
-    provider:
-      name: 9to5Google
-      domain: 9to5google.com
-    quality: 134
-    images:
-      - url: "https://9to5google.com/wp-content/uploads/sites/4/2019/03/waymo-expansion-mesa-arizona.jpg?quality=82&strip=all&w=1000"
-        width: 1000
-        height: 500
 
 secured: "3F/+Apyeg2jdisqlR1LMFFm8IJCJtfzeHO+pACu2vn9AVwQtOT+8O8rHvygxyWpmGNb88U3vKuWXOSIp8VslmXi+4XmyvniUfxoyZBi6vpSbhfTuvXEwKy62sHroHzu0/Oge9jhs71d5I0prtbwyvvbP6nh13ZVcjrsUVqz9q/gDdSMVskir2y0uuddwKI/XdjarJ5elFy6SvQkz8enzLHznlySW9jRR1ZKKHtXfgXSqt4vypjEEKsdkezSVCCtt15anM2veKW6F3QqY8codbwY9q00NU0qxmgT0Oqrs7KPvYHvS+rLZigwvFCeKW2vFyCSDnR//s79lFCjAft3yuQ1JgoG/AOmmV1OPGj6sk+WMvSJjWIu77oKYu4YeoiaZfRNFe32BgMjbqIFDpOV+jHhfi3bQBctJHI1ierrMlnkWg0+veLSnblmnorOIN6ePWqOgPvhFh436+tffFlYGP8OqvRDRqvx1HyQEC5ufMhA=;ORWL1ZAxV/5kcJffkfGHsA=="
 ---

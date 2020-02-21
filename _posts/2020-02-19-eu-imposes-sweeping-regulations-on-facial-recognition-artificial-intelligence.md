@@ -87,6 +87,21 @@ related:
       - url: "https://i.guim.co.uk/img/media/ab480b27ec359ed680b465fab973dd81134c09e7/196_203_3168_1901/master/3168.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c35b5d9ecfef40538eaa5ead90aa04b3"
         width: 600
         height: 360
+  - title: "Delhi Police says only criminal records retained from use of facial recognition"
+    excerpt: "The Delhi Police had earlier started using its facial recognition software, acquired in 2017 to track missing children and persons, to screen crowds. The software, made by Delhi-based Innefu Labs is capable of screening faces from social media as well, as founder Tarun Wig had explained to Mint in an earlier interaction. The reports also raised ..."
+    publishedDateTime: 2020-02-21T15:42:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/delhi-police-says-only-criminal-records-retained-from-use-of-facial-recognition-11582297113092.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/delhi-police-says-only-criminal-records-retained-from-use-of-facial-recognition/amp-11582297113092.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/delhi-police-says-only-criminal-records-retained-from-use-of-facial-recognition/amp-11582297113092.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 70
+    images:
+      - url: "https://images.livemint.com/img/2020/02/21/600x338/eec966d0-429b-11ea-a33f-294bb1c02b8b_1582297443566_1582297525165.jpg"
+        width: 600
+        height: 338
   - title: "Chinese firm working on facial recognition that can identify you under a mask"
     excerpt: "These masks don’t do much, medically speaking, but it’s considered the polite thing to do. Now, let’s also say that the government there is notorious for widespread and unregulated use of facial-recognition technology as a way to both fight crime and to identify and silence political dissidents. This government has taken to banning face ..."
     publishedDateTime: 2020-02-11T10:00:00Z

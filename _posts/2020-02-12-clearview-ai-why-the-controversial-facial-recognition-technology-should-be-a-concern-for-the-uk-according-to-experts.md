@@ -582,17 +582,6 @@ related:
       - url: "https://cdn.meritalk.com/wp-content/uploads/2019/01/facial-recognition-2-min.jpg"
         width: 800
         height: 450
-  - title: "Should cities and towns ban their government's use of facial recognition technology?"
-    excerpt: "Facial recognition is the most dangerous surveillance technology ever invented. The world has never seen anything like it. It makes snooping and stalking easy and cheap. Left unabated, governments, companies, and individuals will use it to watch us everywhere we go. Dystopian as these outcomes are, that’s not all. Facial recognition also has ..."
-    publishedDateTime: 2020-02-06T22:41:00Z
-    webUrl: "https://www.bostonglobe.com/2020/02/06/metro/should-cities-towns-ban-their-governments-use-facial-recognition-technology/"
-    ampWebUrl: "https://www.bostonglobe.com/2020/02/06/metro/should-cities-towns-ban-their-governments-use-facial-recognition-technology/?outputType=amp"
-    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/02/06/metro/should-cities-towns-ban-their-governments-use-facial-recognition-technology/?outputType=amp"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 32
   - title: "Artificial Intelligence and Facial Recognition Could Change How Vegas Casinos Work"
     excerpt: "The applications of AI into casinos and poker online could be massive. However, most industry experts agree that there is more value in incorporating facial recognition into the overall customer experience. For example, a facial recognition system can easily identify customers as they come in. Facial recognition tech installed on slot machines ..."
     publishedDateTime: 2020-02-11T16:13:00Z

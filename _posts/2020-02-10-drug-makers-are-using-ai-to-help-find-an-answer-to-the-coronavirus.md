@@ -103,17 +103,6 @@ related:
       - url: "https://eandt.theiet.org/media/10504/2019-ncov-centers-for-disease-control-and-prevention-cdc.jpg?anchor=center&mode=crop&width=1200&height=450&rnd=132252160040000000"
         width: 1200
         height: 450
-  - title: "Coronavirus outbreak to further strain global AI information exchanges already under pressure from tech war"
-    excerpt: "Chinese search giant Baidu and Tongdun Technology, a Hangzhou-based risk management start-up, are among the leading conference sponsors along with US firms IBM, Google AI, Amazon and Apple. China’s smartphone giants cut size of contingent to world’s biggest mobile show In a written response, Baidu said 28 papers submitted by its own authors ..."
-    publishedDateTime: 2020-02-06T22:56:00Z
-    webUrl: "https://www.scmp.com/tech/big-tech/article/3049327/coronavirus-outbreak-further-strain-global-ai-information-exchanges"
-    ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3049327/coronavirus-outbreak-further-strain-global-ai-information-exchanges"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3049327/coronavirus-outbreak-further-strain-global-ai-information-exchanges"
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 19
 
 secured: "Rvpdv5Az2gkT2ag0jNHJVQe2GIUj/wPtWt2LIB3wvINH4NZPohE7Kcvu4qC4aJW0hblizdJLhZ6v0K9eQwl+WqpoXVO9cveiXF1+Iyow8ey7Pgj1R9CsvFNlhlgM7EQPLWs9dItcKhGCbhm0m/Cdtg26z6jwRBcgy2toptL+SVdPHdkDYeQyCmzudoOfsjlQs6USQpNItaDEEMWZ57TpQJYVk2kB/YC5e/4bVjxdMA4J98qkQHm8G/4cOHyrW2T3YodGeBGzDD1MsnHbB0W32FO5SEEV2ngMisSpPV3B5S4K4AVQU5bQio+i/MzdmvfKYgoRBv6Z43Fd1dYv04Rq0A+rlILiAJ9K5tEgCzzhGtOdMfvq0O/c0hrK7xxz+Vdq3DKsWGR+rs9f/kNCuLxdJhlv6Vu8+5lFkk7Xyt5Z9tW8ysp9r3zTN8RfPVYupMp6eyzCUPOJWzLVwJ8iRnbjDItw27lEAwLRkl30dYBqOrw=;4izEXHtopP80w9tS5A+v/A=="
 ---

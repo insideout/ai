@@ -7,8 +7,8 @@ webUrl: "https://www.wired.com/story/defeated-chess-champ-garry-kasparov-made-pe
 ampWebUrl: "https://www.wired.com/story/defeated-chess-champ-garry-kasparov-made-peace-ai/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/defeated-chess-champ-garry-kasparov-made-peace-ai/amp"
 type: article
-quality: 89
-heat: 89
+quality: 91
+heat: 91
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - AI
   - AI Ethics
+  - Google AI
 
 images:
   - url: "https://media.wired.com/photos/5e4c10d419656c0009fbe489/master/pass/Biz-kasparov-511682700.jpg"

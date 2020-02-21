@@ -3,9 +3,9 @@ category: news
 title: "Facebook will PAY you for your voice recordings, but should you do it?"
 excerpt: "Facebook is offering up to $5 for your voice recordings so its speech recognition technology can improve. According to The Verge, those who qualify to be part of Pronunciations will be asked to record the phrase “Hey Portal” (AKA the name for Facebook's hardware division) followed by the first name of someone on your Facebook friends list."
 publishedDateTime: 2020-02-21T12:25:00Z
-webUrl: "https://www.tomsguide.com/news/facebook-will-pay-you-dollar5-for-your-voice-recordings-but-should-you-do-it"
-ampWebUrl: "https://www.tomsguide.com/amp/news/facebook-will-pay-you-dollar5-for-your-voice-recordings-but-should-you-do-it"
-cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/news/facebook-will-pay-you-dollar5-for-your-voice-recordings-but-should-you-do-it"
+webUrl: "https://www.tomsguide.com/uk/news/facebook-will-pay-you-dollar5-for-your-voice-recordings-but-should-you-do-it"
+ampWebUrl: "https://www.tomsguide.com/uk/amp/news/facebook-will-pay-you-dollar5-for-your-voice-recordings-but-should-you-do-it"
+cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/uk/amp/news/facebook-will-pay-you-dollar5-for-your-voice-recordings-but-should-you-do-it"
 type: article
 quality: 44
 heat: -1
@@ -320,6 +320,6 @@ related:
         width: 790
         height: 517
 
-secured: "CY4GX6hIEgAqX77yRoyDiqXqKFor3W1P47AqaKoemEMoMtIfmoRv3jBNjveuWsdpP582xs8urkyF46Vv/ap0zM1YzaYH0sWpPgfPmuzVIDvBQ3W3J7Nxs0Vlh/wrU/+OCpy91qzqhlk7tlOj5sm5dkenCUX8SYot5CfZFBMBKzcWiXVMunc6l4/aRFX22DRZxB/3wvoOpGSTNSnybHk5mSp0CdPHBIKhx8mwucpeQVSwUftWYjCuPcWPQW7x9iXQ3eNi0W/n9htDrc8E5ROtEt4PWZThAjx5cM43AlQQH8kDHgqu7zI2sYnjTpthPvGm6XPZJ90nmtUDR2VCH7WVOl3aabOcWZSsfcfQYMEd0C3m3W6D8+ns2aWa5fN3sZyD61XFyiu9cEVDpjO5LiAWauLPz8nXBXvBfMfpSd7H8+F5vqJNEXplMdDbgweRVBM4ZDcvMwyCkwWjJK/RyuyCWjaCqRWFQ4xwGDKyqWx6Xzk=;fe9nDmy0r5fDrOxqhiHNZw=="
+secured: "ryYu/gERqgahAWTVW39jvxnvZtm1o+fwmfNz4bU/rlErdnlRCE+X39/53uTmszIyT8VOEGpXmzabu4nee5CcgnnrXNq9jx05xHx5mL/QgCKB97s8ej/DFT10RqB6FPZ1f5LIXhBHCiuQ/F/bYFPz5GB7JlGYwVpHcAU4T1rSpNTeA9PmmneO/3HDIBWN0uQZf5AB6lRI3IWd3L+G+X7I07qpqbFauzAUnTsfTOi01PF95S/e0vudO5WXWiUPpqAteDw0Ht9QE6u9f2/4G/R8d7sB9+a8dMviIGqVCT3gcdRSiKg+dXw3XOsNBIkRqxFS;X9okJP2xrVDIShMzForXww=="
 ---
 

@@ -88,6 +88,17 @@ related:
       - url: "https://cdn.iflscience.com/images/b8c230b6-a3ea-5854-9482-5d6e99b6c372/default-1582285414-cover-image.jpg"
         width: 720
         height: 405
+  - title: "Using machine learning to find new antibiotics"
+    excerpt: "But in a paper publishing February 20 in the journal Cell, researchers demonstrate a method to uncover new antibiotics quickly and efficiently through machine learning. James Collins, a synthetic biologist at MIT, and his team trained a deep neural network to identify possible antibiotic molecules using compounds known to suppress E."
+    publishedDateTime: 2020-02-21T15:06:00Z
+    webUrl: "https://medicalxpress.com/news/2020-02-machine-antibiotics.html"
+    ampWebUrl: "https://medicalxpress.com/news/2020-02-machine-antibiotics.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-02-machine-antibiotics.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 39
 
 secured: "m0W0AHO7Jv2W+txIH/nGEHaORofa+c4ahnnb0yVMunIs1jNrTorWn706NVQJ8Zi0oJ7ZjqiPfb8zkQa0u0xlLpxkgeBHxWykWoYu+9g2d8PXauJHxrvnQ6f8kk2lxozzg1G1Gq+RH7gQF4EceRAg0D51ODmTP8CjeM6cRUJvmyleRehm+dh1sr/nB2N7+spsF5AeNAXBZiYUggt2cAdCcOzdf27IHrEe4hl4We3UU8/NtAUWk9Lg2mt0GE8AskT8R/z7hTweUQgVT9x0j0G6DO4j9AVfqXjTbfIEjGFJo+7WRJ9fROofqGxHtl3EG4BB;bb7FVG7o4oArRZ5u1aTLtw=="
 ---

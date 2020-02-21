@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/2020/02/08/facebook-buys-computer-visio
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/08/facebook-buys-computer-vision-startup-scape/"
 type: article
 quality: 89
-heat: 169
+heat: 159
 published: true
 
 provider:
@@ -60,19 +60,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/02/localization.png?w=1024"
         width: 1024
         height: 767
-  - title: "Is your startup using AI responsibly?"
-    excerpt: "This is one of countless instances of bias emerging from AI algorithms. Understandably, these issues have generated a lot of attention. Conversations on ethics and bias have been one of the top themes in AI in the recent past. Organizations and actors across industries are engaging in research to eliminate bias through fairness, accountability ..."
-    publishedDateTime: 2020-02-06T22:56:00Z
-    webUrl: "https://techcrunch.com/2020/02/06/is-your-startup-using-ai-responsibly/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 69
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-1169572297.jpg?w=600"
-        width: 600
-        height: 400
   - title: "Facebook buys start-up that uses AI vision to find location"
     excerpt: "Facebook has acquired Scape Technologies — a London-based computer vision start-up working on location accuracy beyond the capabilities of GPS. Full terms of the deal remain as yet unknown, although a Companies House update reveals that Facebook Inc now has majority control of the company (more than 75 per cent). “However by looking at ..."
     publishedDateTime: 2020-02-09T16:45:00Z

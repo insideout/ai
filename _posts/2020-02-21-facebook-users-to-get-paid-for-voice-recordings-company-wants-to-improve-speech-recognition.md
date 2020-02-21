@@ -242,9 +242,9 @@ related:
   - title: "Facebook will PAY you for your voice recordings, but should you do it?"
     excerpt: "Facebook is offering up to $5 for your voice recordings so its speech recognition technology can improve. According to The Verge, those who qualify to be part of Pronunciations will be asked to record the phrase “Hey Portal” (AKA the name for Facebook's hardware division) followed by the first name of someone on your Facebook friends list."
     publishedDateTime: 2020-02-21T12:25:00Z
-    webUrl: "https://www.tomsguide.com/news/facebook-will-pay-you-dollar5-for-your-voice-recordings-but-should-you-do-it"
-    ampWebUrl: "https://www.tomsguide.com/amp/news/facebook-will-pay-you-dollar5-for-your-voice-recordings-but-should-you-do-it"
-    cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/news/facebook-will-pay-you-dollar5-for-your-voice-recordings-but-should-you-do-it"
+    webUrl: "https://www.tomsguide.com/uk/news/facebook-will-pay-you-dollar5-for-your-voice-recordings-but-should-you-do-it"
+    ampWebUrl: "https://www.tomsguide.com/uk/amp/news/facebook-will-pay-you-dollar5-for-your-voice-recordings-but-should-you-do-it"
+    cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/uk/amp/news/facebook-will-pay-you-dollar5-for-your-voice-recordings-but-should-you-do-it"
     type: article
     provider:
       name: Tom's Guide
@@ -320,6 +320,6 @@ related:
         width: 790
         height: 517
 
-secured: "vJw0PuPuAEKVgW6wCboZ1MTWOGZy5O6nopxbXcowTc75Jc/BZfUXyjIECDyfX0LAC5zFNMT9Suj3UXAQ4cjHBcwYYRDnoqWsbUhfO9RbSWO6FstdtaMSLRqQQLk4A9WNCI4o+po0eQP/Ur1ZLeIe+YUDM3WVBWXt4tTwWIresldjhJHKsePyyYBH4gH/RYFOcs7xQLuYn4LNYaRTWVuRYfnuuy/zgr92gV3OjKh2qzC2n/3yj9BQnGTblrPi0rZA7+gTNkyt6tjHtmN09tHByNkY4ZAGGtUCxwf1NTckz6CYC5HxbR2oFHKnpnpJ+IAY;Zd78jnCnKxdyaBl2om30Zg=="
+secured: "jqWtp8jUQFq6RAdEREUIQl/HEvE0N/uEl/xWb60ZaJpLI5nVqjtgW8PqmWFsI5rf7EQNdO9XxPrl7Oy0vczoA5a3BsB0O2+KpGi8dyjez+SCCqobuR20WDEqLbluu7+2etlHNM6yl0LOTsUd6ASspbwhElaNzf8frRenHCJC5LuhjeTbymI4sw/GfGbPv+MBzNht3BZaZWsLpPQs4L2CNUVlJbz24JJFWerNxYFMwsohdiHWaRrJVDUESJOou37+CtgwyzWdpUEMncd+yTYrVvZgcm9FcfFzS6gUYz0FDjXCw3s2iFG1Bl0Xx6PbJntFOXDlHoUZe2e+K5DT5/N18RqUtcsDNNI20wJszCVNyjQKOmURrCRCei+75a3rL20b9LqJwS+os8nijpfSM6az/56CXhweeAB7mtt5OWFMiqTQ1MpS2NlOc1wrEAF4hG0KWB1S7Ewe8rFfAbsfC5goRMf4kysXdAbxUdcchiI2ouE=;LhC8ZhJILz0s/YjgNBAVbw=="
 ---
 

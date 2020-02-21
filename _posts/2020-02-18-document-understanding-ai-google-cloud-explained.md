@@ -6,8 +6,8 @@ publishedDateTime: 2020-02-18T22:56:00Z
 webUrl: "https://medium.com/datadriveninvestor/document-understanding-ai-google-cloud-explained-193ae84cda75"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Medium
@@ -26,6 +26,21 @@ images:
     width: 688
     height: 273
     title: "Document Understanding AI — Google Cloud Explained"
+
+related:
+  - title: "Udacity Drives AI Understanding For Business Leaders"
+    excerpt: "/PRNewswire/ -- Udacity, the digital learning and workforce skilling platform, today launches a new \"AI for Business Leaders\" Executive Program in"
+    publishedDateTime: 2020-02-21T15:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/udacity-drives-ai-understanding-for-business-leaders-301008991.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 39
+    images:
+      - url: "https://mma.prnewswire.com/media/1093537/Udacity_Logo.jpg?p=facebook"
+        width: 2586
+        height: 1354
 
 secured: "Ew/l3o2SArPZecaq4Jg5lg/QTPq6ALVOzN9K0NCEupIxpV9RuIhg3C0timDyp+idBy5iKL9bWpWauQPPPtTqWft3jOuqy4kA+d0Ormp0D9/rrxZF7YWFRjOAa+olCzPDZwVbcXoh3tdt1aKu7XzdXHCyIr4EWKctqJIm5np1fif3hEhBrend6BVDmzfm4XlSA9WzaAQw7Xry2DxKELHh/vgkF5Y4MVKA1lwrejHaVQILUHKFDVKf/5gRoVPGOnoUFKO7cgaD4/5+6bUvepEL/MsIfAh+VVhpd2D7BJ6yRi5e1Ddq+8SFZAAW3haZqAde;daPW5fMcMYa0DF+6Ukr8dA=="
 ---

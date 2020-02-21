@@ -60,19 +60,6 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D1600%252C1067%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-02%252F7a46c7b0-4a8b-11ea-bbbf-1c3d171afeaf%26client%3Da1acac3e1b3290917d92%26signature%3D2d974150179ef44b8290709e15088aefd3cda7fc&client=amp-blogside-v2&signature=f00fad49113cfed9099a2e85502dd4e6422c103b"
         width: 600
         height: 350
-  - title: "Is your startup using AI responsibly?"
-    excerpt: "This is one of countless instances of bias emerging from AI algorithms. Understandably, these issues have generated a lot of attention. Conversations on ethics and bias have been one of the top themes in AI in the recent past. Organizations and actors across industries are engaging in research to eliminate bias through fairness, accountability ..."
-    publishedDateTime: 2020-02-06T22:56:00Z
-    webUrl: "https://techcrunch.com/2020/02/06/is-your-startup-using-ai-responsibly/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 69
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-1169572297.jpg?w=600"
-        width: 600
-        height: 400
   - title: "Facebook buys start-up that uses AI vision to find location"
     excerpt: "Facebook has acquired Scape Technologies — a London-based computer vision start-up working on location accuracy beyond the capabilities of GPS. Full terms of the deal remain as yet unknown, although a Companies House update reveals that Facebook Inc now has majority control of the company (more than 75 per cent). “However by looking at ..."
     publishedDateTime: 2020-02-09T16:45:00Z

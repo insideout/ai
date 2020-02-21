@@ -104,17 +104,6 @@ related:
       - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/02/p-1-drug-makers-are-using-ai-to-help-find-an-answer-to-the-coronavirus-copy.jpg"
         width: 1280
         height: 720
-  - title: "Coronavirus outbreak to further strain global AI information exchanges already under pressure from tech war"
-    excerpt: "Chinese search giant Baidu and Tongdun Technology, a Hangzhou-based risk management start-up, are among the leading conference sponsors along with US firms IBM, Google AI, Amazon and Apple. China’s smartphone giants cut size of contingent to world’s biggest mobile show In a written response, Baidu said 28 papers submitted by its own authors ..."
-    publishedDateTime: 2020-02-06T22:56:00Z
-    webUrl: "https://www.scmp.com/tech/big-tech/article/3049327/coronavirus-outbreak-further-strain-global-ai-information-exchanges"
-    ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3049327/coronavirus-outbreak-further-strain-global-ai-information-exchanges"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3049327/coronavirus-outbreak-further-strain-global-ai-information-exchanges"
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 19
 
 secured: "5okjJuIUFArDPToaWKY9HslStjkUY4iU9s8EbeNoj0baafs2uH9TxcxiLNzoHeDZEvWawZhx2q6g53yUdelm7U5mu2U0UcGr4J2ptkF7Vj6Zb0F/XmXFbGdtd9uQwL6Isd3txz/ETW2cY0rXzH29Kq5pHG3TrTwupEE5CeIhvmX6/9+NiZAisM5UdhoyAKCvYAR7AhlVH4dabYDE1zkFpnNsT6TrdqwnDPobCU5lPrAjS+2mkgsfrsISuiJFb1ee9S9CNzCm/agH12ZmLF9hgne83NIGSrbs//Xuk19bw/QRVg4F0lqP/OB9TzZy+LYg;LL/rmnz1l5Bf6MV32sAz3g=="
 ---
