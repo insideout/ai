@@ -7,8 +7,8 @@ webUrl: "https://www.moneycontrol.com/news/technology/fintech-how-amazon-is-deli
 ampWebUrl: "https://www.moneycontrol.com/news/technology/fintech-how-amazon-is-delivering-innovation-in-a-box-for-startups-4882671.html/amp"
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/fintech-how-amazon-is-delivering-innovation-in-a-box-for-startups-4882671.html/amp"
 type: article
-quality: 59
-heat: 59
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -19,12 +19,6 @@ topics:
   - AI
   - AWS AI
 
-images:
-  - url: "https://static-news.moneycontrol.com/static-mcnews/2019/10/Pixel-4-378x213.jpg"
-    width: 378
-    height: 213
-    title: "How AWS is delivering innovation in a box for startups"
-
-secured: "ykEys92R8OQZxoqhHeWEprESYS0sOtxkWeUXtqSgh1NWX+IXAhRo60ydeLEITpHYNb0pSgnuhiTniU8nhnj3c1lSwRHbQlHzRkpjTGjxfoH/ZoaxHDK4vdhzji2PCDYvkRDDcH0eyrZzrMuM9uH7YlMeG4O4SzWP07+2R4XtqJJIntb8zeyvGq7E1uMAkO2JlWimpe01KrsTQxTrYL4+7Vvm1OchH8nB1zR70VVN6BeGWvEFJmMQIRLU74VV3wY18H5cJz7e/uHMmA1tgFuwzjnhT04I8qjIu+JOjYTOfOBPCjWNJhCL+QuY89w0kSQ1;MB+BSmF4JdsoB2zHANDzTw=="
+secured: "Y4tv158i+Ph0R7zPM2MTyXPrKTsS04WJybzppgHE9ZLrT5S2cXFVeOywcoNR+YKJUVtrbJsfBLGB+TqmH1wDKI2k9B+/zA7OUmvJYSN9VS+ZeKz/mZ1VyXj7ur80JGiFwU3Kd16Ltus1GoZxLScEEQeDi7+lvybWCsJzOVwZlYC3rhWUUGg8ACy82kTgUdTrW1vAxugQ60LeOJvn8I2/4f1MtfMwLLk6fRVBPROX7pRxF4Q4Oml8epjB0AMECUXW6fB/7w9rQciW6OKPlTjBGYjM2vEt+uVVpvbRlSaGTinVfJuQfxCNhO40BJpTcujA;jrt/vD2hzMnmWsjEBwrXsQ=="
 ---
 

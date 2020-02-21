@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Inspur Re-Elected as Member of SPEC OSSC and Chair of SPEC Machine Learning"
-excerpt: "It is worth noting that Inspur, a re-elected OSSC member, was also re-elected as the chair of the SPEC Machine Learning (SPEC ML) working group. The development plan of ML test benchmark proposed by Inspur has been approved by members which aims to provide users with standard on evaluating machine learning computing performance. SPEC is a ..."
+excerpt: "Machine Learning is an important direction in AI development. Different computing accelerator technologies such as GPU, FPGA, ASIC, and different AI frameworks such as TensorFlow and Pytorch provide customers with a rich marketplace of options. However, the next important thing for the customer to consider is how to evaluate the computing ..."
 publishedDateTime: 2020-02-21T14:07:00Z
 webUrl: "https://www.businesswire.com/news/home/20200221005123/en/Inspur-Re-Elected-Member-SPEC-OSSC-Chair-SPEC"
 type: article
-quality: 52
-heat: 52
+quality: 37
+heat: 37
 published: false
 
 provider:
@@ -15,7 +15,7 @@ provider:
 
 topics:
   - AI
-  - Machine Learning
+  - Google AI
 
 images:
   - url: "https://mms.businesswire.com/media/20200221005123/en/774950/23/inspur_logo.jpg"
@@ -23,6 +23,6 @@ images:
     height: 627
     title: "Inspur Re-Elected as Member of SPEC OSSC and Chair of SPEC Machine Learning"
 
-secured: "31EnPNfeibJ5pdNR5TH/kGVxgQSHrQmS1BhsZZtNsawZG7u/mNf7vnYoqgopbXt474+EkENavLOVKc6KapLyMICL407l9enwfehKz42NP5sGtSIM9c+gtsotCJmxpJVNRQDzYb+U1Vptgwe1/88UCrcGIKP8tg9r4U6MtHL539cP6OlAdYmI9V8oyfHg5/0viwGHVZOPMVC4WsZ+VUx/bMa3Dyzj8VCLUetmV1XZBjG5F5dvfz25wT9cfs+TA0jbaRn4MeWdJc3xuw32mP9fjDw/wnAv+XP1SShvTGCSqk9OGyGDsg8wv2BgmniCjpxY;XAhMSw4IM/QKlObgLlRB4A=="
+secured: "RSbpTZBiALqH2DADwWGGb9iUNQ3JVClgxSe/QNTbXInZKxAGeJHOggnnG3t7UKoCYmJXEMuYW7QFG1RJzHyPPW4I1GlqgiiPTnc3w+k/Emv2zK18PBKrNdltmt8a5RNlJE1WmkATCYHC7443ceITwRZTk12BNQ9wVCSThu/JsUmPVc9x4i51Mkkc3wGdBTGITEkL9Lr6H5Y6C665H33l7NnKreu9fk5lhViq1sA9VgJPj9NnHumsgcBe+JXAENGQZDHCP01o7gWI0Ks8jmfs2t6caDQXFhXdzv2ypWeiPrHWn/Wb+FFDrm2YS/31g6lA;LiiTuTJeKbUaWC6wHMhiuA=="
 ---
 

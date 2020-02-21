@@ -1,14 +1,14 @@
 ---
 category: news
 title: "The US Army uses facial recognition to train AI. Now, it needs to protect it"
-excerpt: "A team from Duke University, led by electrical and computer engineering faculty members Dr. Helen Li and Dr. Yiran Chen, have created a system which, it is hoped, will be able to mitigate cyberattacks against the military's facial recognition applications. Facial and object recognition technologies are used by the US Army to train artificial ..."
-publishedDateTime: 2020-01-27T09:55:00Z
+excerpt: "Facial and object recognition technologies are used by the US Army to train artificial intelligence (AI) systems used in unmanned aerial vehicles (UAVs), surveillance systems, and more."
+publishedDateTime: 2020-01-27T11:21:00Z
 webUrl: "https://www.zdnet.com/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
 ampWebUrl: "https://www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
 type: article
-quality: 101
-heat: 111
+quality: 81
+heat: 91
 published: true
 
 provider:
@@ -23,12 +23,6 @@ topics:
   - AI
   - Computer Vision
 
-images:
-  - url: "https://zdnet4.cbsistatic.com/hub/i/r/2019/11/20/b42aa021-90ac-43be-a1d9-65e1fbf4829f/resize/1200x900/0b0264a41ecba4d5f7fd7e3dce4a7015/screenshot-2019-11-20-at-13-23-49.png"
-    width: 1200
-    height: 763
-    title: "The US Army uses facial recognition to train AI. Now, it needs to protect it"
-
 related:
   - title: "US Army develops AI facial recognition protection"
     excerpt: "The US Army uses facial and object recognition technologies to train artificial intelligence (AI) systems used in unmanned aerial vehicles (UAVs), surveillance systems, and more. However ..."
@@ -38,12 +32,8 @@ related:
     provider:
       name: Fudzilla
       domain: fudzilla.com
-    quality: 54
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/9da04a8003f0d759bae25bbf360e627c_L.jpg"
-        width: 620
-        height: 465
+    quality: 34
 
-secured: "M7/R+0Hgtxbzc8Ic3odfuoLyU8C7S1MVrYBNnzngWnjkTMHzziHk5mlA+5jJHPH7DS411ZNSFiQTZENMx99lpI6mpxdKRqQiA6Kk5+Jy3Os29ubILaA0tQzsvYVj9r4BsFznha7RNHD143DE/GKQbyFtIG9TnpAx42XHSdSRq9WdQ9Wnz5Nl1CU0FZ+dORuAJKxOxfDnIxVsAs/bEPgtUTN/yem88ow8E+FvQ8fNzE0/54olMz4InlcM2MhQx7/c68DppJS5VbSU1WzbRjKaomvKBqZ791MMLKO+BzjuxwgtymXVqsx6Lcsjzyt3PNQy;4sPhI+raR4M8Goy0uRL+LQ=="
+secured: "ZLmBVRK8DZKEJSHqJzcUv6d9Xwz/zeEc7tZFBhyDLDo+dtDYkhUiEySdKh2nlNQvAEiACSqG11SedmdlyZgq76c4Tm+UVcSYeRqSTNgqAoKUp4DhuupflU74CMFXsKSe4/b6r5oEvK188TFUnWwlN6t4PJJG5tfhG+3kfGW8HYhbFir7ogZSss7ecIqsGM8v2tjcODMrhjYQt0RxF885Lk0zbLqlGKkIe4JHMBkxa0d/8g4BFPxrMKxyUiaE73sVdYts6shXSNJNnF31MTmAMCUszlfaIqXWxXByP9i8QnbB/tFkvEOX95h62gHZIEoV;ZIZvw9etdlnnnCdGa0or6w=="
 ---
 

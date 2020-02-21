@@ -1,0 +1,52 @@
+---
+category: news
+title: "Canada Privacy Watchdog Probes Facial Recognition Startup"
+excerpt: "The images -- grabbed from popular social media platforms including Facebook, Instagram, Twitter and YouTube as well as millions of other websites -- are used in its facial recognition software. Clearview AI's founder Hoan Ton-That has said the technology has been made available to more than 600 law enforcement agencies in Canada and the United ..."
+publishedDateTime: 2020-02-21T20:27:00Z
+webUrl: "https://www.ibtimes.com/canada-privacy-watchdog-probes-facial-recognition-startup-2926715"
+type: article
+quality: 19
+heat: -1
+published: false
+
+provider:
+  name: International Business Times
+  domain: ibtimes.com
+
+topics:
+  - AI
+  - Computer Vision
+
+related:
+  - title: "Facial recognition company Clearview AI probed by Canada privacy agencies"
+    excerpt: "Canadian privacy authorities have launched an investigation into New York-based Clearview AI to determine whether the firm’s use of facial recognition technology complies with the country’s privacy laws,"
+    publishedDateTime: 2020-02-21T18:32:00Z
+    webUrl: "https://www.reuters.com/article/us-clearview-ai-canada-idUSKBN20F2I3"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN20F2I3"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN20F2I3"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 103
+    images:
+      - url: "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png"
+        width: 1200
+        height: 630
+  - title: "Clearview AI's founder defends controversial facial recognition app"
+    excerpt: "Hoan Ton-That's app, Clearview AI, has triggered fears about facial recognition — and the dystopian future it could foreshadow. CNN Business' Donie O'Sullivan sits down with the CEO to talk about questions of legality, privacy, and bias in the era of facial recognition."
+    publishedDateTime: 2020-02-18T14:19:00Z
+    webUrl: "https://www.djournal.com/news/national/clearview-ai-s-founder-defends-controversial-facial-recognition-app/video_9e9cbbbc-111e-5904-b1c9-c12426069aab.html"
+    type: article
+    provider:
+      name: Daily Journal
+      domain: djournal.com
+    quality: 54
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/9/e9/9e9cbbbc-111e-5904-b1c9-c12426069aab/5e41f2280d4e7.image.jpg?resize=576%2C324"
+        width: 576
+        height: 324
+
+secured: "NOkPC8uTlc3eLGxaK2igk2lHcPIUQVf5nAR8XCbaMYHYqZn6SsLg9/VmUJ5fIJrlp+znu3uuv/rSm/4HJ2M3oF2x6OJk8ehUHuPZqm0FGSgNqHFs5e6ti1KTWTgrKqkcb9LgeuRe0W4qFfRLilvzMo/B+UMoGcFqt+DICP7ZpVtZITmfMXRtBiHnnf7ARVk97SGIkNf/WT4xavAhDtgWPj5L/P+AAu+JXt47r0dIoCXIMW4Uwv4TXZ0AIVVo/7IiAdiCu4/cC8NENkZrmpNbL5tQedfrzqZfPqM7zULy69HqRCFeNASOCmS1bK9mkRefWqBfaYevdR1kIAKEHZR14fHR+HFkrPOR2bPOWweqjUeU22CFAof1XEjlPVoW2GRhUXAHe3w3VAgnYk9MXr2Wr6Af5vh5uXMqBDTTaoMDNSaOrUfRt74nTLfvPBZy/xJ8kDWq592rbvyiUkZCdzF380VnZjM/eGZliaZtnslCgH8=;e8vmqeAbIXoUbcFdzZrl1w=="
+---
+

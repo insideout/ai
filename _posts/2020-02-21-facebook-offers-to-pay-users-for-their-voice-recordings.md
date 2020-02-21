@@ -1,21 +1,19 @@
 ---
 category: news
 title: "Facebook offers to pay users for their voice recordings"
-excerpt: "The recordings, made through its new market research app Viewpoints, will help to train the speech recognition system that powers Facebook’s Portal devices, which rival Amazon’s Echo speakers and its Alexa virtual assistant. Makers of smart speakers including Facebook, Amazon, Apple and Google faced criticism last year when it emerged that ..."
-publishedDateTime: 2020-02-21T18:33:00Z
-webUrl: "https://arstechnica.com/tech-policy/2020/02/facebook-offers-to-pay-users-for-their-voice-recordings/"
+excerpt: "The recordings, made through its new market research app Viewpoints, will help to train the speech recognition system that powers Facebook’s Portal devices, which rival Amazon’s Echo speakers and its Alexa virtual assistant. Makers of smart speakers, including Facebook, Amazon, Apple and Google, faced criticism last year when it emerged ..."
+publishedDateTime: 2020-02-21T20:45:00Z
+webUrl: "https://www.latimes.com/business/story/2020-02-21/facebook-voice-recordings"
+ampWebUrl: "https://www.latimes.com/business/story/2020-02-21/facebook-voice-recordings?_amp=true"
+cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/business/story/2020-02-21/facebook-voice-recordings?_amp=true"
 type: article
-quality: 34
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Ars Technica
-  domain: arstechnica.com
-  images:
-    - url: "/assets/images/organizations/arstechnica.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Los Angeles Times
+  domain: latimes.com
 
 topics:
   - AI
@@ -265,19 +263,6 @@ related:
       - url: "https://images.livemint.com/img/2020/02/21/600x338/2019-12-02T174920Z_467783753_RC25ND9X2N0L_RTRMADP_3_EU-FACEBOOK_1575316477461_1582267603516.JPG"
         width: 600
         height: 337
-  - title: "Facebook to pay users to improve speech recognition technology"
-    excerpt: "Facebook has announced it will pay select users who agree to record their voice to improve its speech recognition technology. According to The Verge, the social networking giant he company will pay select users to record snippets of audio through a new programme called \"Pronunciations in its Viewpoints market research app. If you qualify to be ..."
-    publishedDateTime: 2020-02-21T16:02:00Z
-    webUrl: "https://www.khaleejtimes.com/technology/mobiles/facebook-to-pay-users-for-to-improve-service"
-    type: article
-    provider:
-      name: Khaleej Times
-      domain: khaleejtimes.com
-    quality: 39
-    images:
-      - url: "https://images.khaleejtimes.com/storyimage/KT/20200221/ARTICLE/200229877/AR/0/Facebook,-voice-recognition,-social-media.jpg&NCS_modified=20200221110340&exif=.jpg"
-        width: 1200
-        height: 800
   - title: "Facebook Will Pay You For Sharing Your Voice Recordings: Here's How You Can Earn"
     excerpt: "The program will be rolled out to select users with 75 or more Facebook friends Facebook has been repeatedly caught with its hand in the cookie jar when it comes to sharing user data. It was caught in August last year hiring third-party contractors for reviewing and transcribing user audio clips,"
     publishedDateTime: 2020-02-21T09:00:00Z
@@ -370,6 +355,6 @@ related:
         width: 1763
         height: 1175
 
-secured: "kNe7a+2cHxnyXIuYVHrbpaK4CRJUYwkdITHaZBC9fb3kVcmi27ygEqvVYXp+lGNHFXIJoarVIacCduEejENqgp/BV9nU6aV2marYiq9CHRx8mdVEFEOAByQ4CciOVFlUiW39QCCvH+1whUXW+fclnhddhWr3gTgyLVb1FfqSlC7Bse8UN/3XPsafUXJaTFXmcONNAyostj6ERqRZuJDK6/b8qqJrlaITXoSV0m9V2mKxn+Z05hy4jymlAe+ShsnAv/UQndL41vdbWdszUhoLxFtvKlDONmWQ0u+QyUAm2hiDr7ME++cw6jqBa2iByvQ2NWV/08A8bUavMRPSAfU0eqe7gC4V1VpBeXWRiJRzW9ResQUZLpPqPM8D+tr7IyYERx1j2GmwfmnUTIsgaIMHeZYv3q4J3U6VugpB0UwUzrfOPaImJMh68k3C2Wy6872EgMEPKxMUQ2Qo/Uj3TDypOyXOYrQnpY7YjH6Mu1Yni1k=;ZuG08CvINjBLm6v7fBHPfg=="
+secured: "vVOmO76IgD3sBEo+OTOR82dk0Bm3s95Umo7NM227Yrtr0kfraw2pFyoyUbYjRGyURBq9Bu3HN/VqFR4rZpU93SeypNberruRNZ7CQU1Xb7F6BrTBq79gGm5JBzZtzO2MYj1/FLDzJr2jw8b/xqSpOVLZYdNKsMa5uyqysu5fwNOp47YeW9CXsMiWRgUGV6HxB9Ae+NqgcPdZJPDLI+ZX+vX1SqjFduSvh55rMo7F2PJBpWKxIlONyIiX5px82aErTPZoDLEKAjcXwQBCpl3mNFIJDXs3ZwKi0Ew/BKTyVJ9l+viOXUuQgwi/90oAWRd6sp/qwbaX78oZJwrgsojBexk45AZuQGCmDixU4uT4c92MbeO6QOjczeGR9zY1Od/pt/fLjP+tGMDhk8UavYWA2y9nmMJt5VLT0VBCkTcrp3AzIcNFhwL73mgaoxtabg39Zn/Cmc3tSxaTChn8Oy0uCPgF0avj+fS80aNvXj+ph40=;JO6h2pqjFW42Dxvc6qUx3A=="
 ---
 

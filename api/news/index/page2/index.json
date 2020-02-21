@@ -2,50 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_posts/2020-02-10-7-things-digital-marketing-industry-need-to-know-about-artificial-intelligence.md",
-      "title": "7 Things Digital Marketing Industry Need To Know About Artificial Intelligence",
-      "excerpt": "But, again, it becomes important to mention digital marketing without an effective resolution to the customer means nothing. And, here, AI or Artificial Intelligence comes into the picture. Today, most of the companies are merging the two technologies to create outstanding business operations, which can help in business growth.",
-      "heat": 73,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/@inforobertsmith36/7-things-digital-marketing-industry-need-to-know-about-artificial-intelligence-17cab74ff304",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-10T10:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/1*9CF2YcL5UfPcmS034ycptg.jpeg",
-          "width": 1200,
-          "height": 628,
-          "title": "7 Things Digital Marketing Industry Need To Know About Artificial Intelligence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-10-8-powerful-examples-of-ai-for-good.md",
       "title": "8 Powerful Examples Of AI For Good",
       "excerpt": "Many of the headlines about artificial intelligence warn of its dangers. However, artificial intelligence (AI) can be and is being used for good in many ways from improving the accessibility for people with disabilities to building our resilience to natural disasters.",
@@ -739,7 +695,7 @@
       "path": "_posts/2020-02-10-facial-recognition-the-next-step-in-fight-against-rabies.md",
       "title": "Facial recognition: the next step in fight against rabies",
       "excerpt": "The research team, based out of Washington State University’s Paul G. Allen School for Global Animal Health, is working with PiP My Pet, a company that developed a mobile application that uses facial recognition to reunite lost pets with their owners. The only twist; rather than locate the lost, the company designed a new app to track which ...",
-      "heat": 94,
+      "heat": 74,
       "tags": null,
       "type": "article",
       "webUrl": "https://scienceblog.com/514102/facial-recognition-the-next-step-in-fight-against-rabies/",
@@ -955,7 +911,7 @@
       "path": "_posts/2020-02-10-friendships-are-faltering-but-theres-hope-that-ai-self-driving-cars-might-cause-a-friendship-uplift.md",
       "title": "Friendships Are Faltering But There’s Hope That AI Self-Driving Cars Might Cause A Friendship Uplift",
       "excerpt": "Seems like friendships are faltering, but there's hope that via AI self-driving cars a friendship uplift will occur.",
-      "heat": 86,
+      "heat": 76,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/02/10/friendships-are-faltering-but-theres-hope-that-ai-self-driving-cars-might-cause-a-friendship-uplift/",
@@ -1669,7 +1625,7 @@
       "path": "_posts/2020-02-10-top-5-companies-using-machine-learning-in-2020.md",
       "title": "Top 5 companies using Machine Learning in 2020",
       "excerpt": "Nowadays small startups are more innovative and dynamic than big companies and established in market leaders. Machine learning is trending and more effective technology so every industry are started to use this technology. It’s not same for all the cases since the making of advanced products and services is often very expensive, few companies ...",
-      "heat": 101,
+      "heat": 91,
       "tags": null,
       "type": "article",
       "webUrl": "https://medium.com/@sushmithagowda216/top-5-companies-using-machine-learning-in-2020-cb5558468da9",
@@ -2145,6 +2101,51 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-11-aptivs-self-driving-cars-have-given-100000-paid-rides-on-the-lyft-app.md",
+      "title": "Aptiv’s self-driving cars have given 100,000 paid rides on the Lyft app",
+      "excerpt": "What started out as a temporary pilot project to test a robotaxi service in Las Vegas has turned into a multi-year partnership between self-driving software company Aptiv and Lyft and a new milestone that suggests the operation is ramping up. The companies announced Tuesday that they’ve given 100,000 paid rides in Aptiv’s self-driving ...",
+      "heat": 289,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/02/11/aptivs-self-driving-cars-have-given-100000-paid-rides-on-the-lyft-app/",
+      "ampWebUrl": "https://techcrunch.com/2020/02/11/aptivs-self-driving-cars-have-given-100000-paid-rides-on-the-lyft-app/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/11/aptivs-self-driving-cars-have-given-100000-paid-rides-on-the-lyft-app/amp/",
+      "publishedDateTime": "2020-02-11T03:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/02/aptiv-self-driving-car-technical-center.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": "Aptiv’s self-driving cars have given 100,000 paid rides on the Lyft app",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
       ]
     }
   ],

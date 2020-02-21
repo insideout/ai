@@ -20,21 +20,43 @@ topics:
   - Computer Vision
 
 related:
-  - title: "All it takes to fool facial recognition at airports and border crossings is a printed mask, researchers found"
-    excerpt: "Researchers said they fooled facial-recognition tech across three continents but were unable to fool some software, including Apple's Face ID."
-    publishedDateTime: 2020-02-07T18:22:00Z
-    webUrl: "https://www.businessinsider.com/facial-recognition-fooled-with-mask-kneron-tests-2019-12/"
-    ampWebUrl: "https://amp.businessinsider.com/facial-recognition-fooled-with-mask-kneron-tests-2019-12"
-    cdnAmpWebUrl: "https://amp-businessinsider-com.cdn.ampproject.org/c/s/amp.businessinsider.com/facial-recognition-fooled-with-mask-kneron-tests-2019-12"
+  - title: "New facial recognition app promises to solve crimes, critics say it means end of privacy"
+    excerpt: "A class action lawsuit filed Wednesday in New York federal court claims a breakthrough facial recognition technology designed for law enforcement use is illegally taking people’s biometric information without their consent. The lawsuit was filed by two individuals from Illinois who claim the company behind the technology, Clearview AI ..."
+    publishedDateTime: 2020-02-14T14:50:00Z
+    webUrl: "https://www.foxnews.com/us/new-facial-recognition-app-promises-to-solve-crimes-critics-say-its-the-end-of-privacy"
+    ampWebUrl: "https://www.foxnews.com/us/new-facial-recognition-app-promises-to-solve-crimes-critics-say-its-the-end-of-privacy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/new-facial-recognition-app-promises-to-solve-crimes-critics-say-its-the-end-of-privacy.amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 85
+      name: Fox News
+      domain: foxnews.com
+    quality: 80
     images:
-      - url: "https://image.businessinsider.com/5df25692fd9db202c04bee94?width=750&format=jpeg&auto=webp"
-        width: 750
-        height: 563
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2019/08/bc4a043e-532521-microsoft-facial-recognition.jpg"
+        width: 810
+        height: 456
+  - title: "Mitek claims spoof-proof breakthrough in facial recognition"
+    excerpt: "As the industry-first provider of Liveness Detection, Mitek is extending its technology to offer virtually spoof-proof facial comparison across all digital channels (native and web) - through one simple selfie. There are no additional steps for the consumer. Mitek’s extended Liveness Detection provides customers with additional security ..."
+    publishedDateTime: 2020-02-10T14:47:00Z
+    webUrl: "https://www.finextra.com/pressarticle/81436/mitek-claims-spoof-proof-breakthrough-in-facial-recognition"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 54
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
+        width: 480
+        height: 270
+  - title: "India's Use of Facial Recognition Tech During Protests Causes Stir"
+    excerpt: "MUMBAI/NEW DELHI, India (Reuters) - When artist Rachita Taneja heads out to protest in New Delhi, she covers her face with a pollution mask, a hoodie or a scarf to reduce the risk of being identified by police facial recognition software."
+    publishedDateTime: 2020-02-17T14:15:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2020-02-17/indias-use-of-facial-recognition-tech-during-protests-causes-stir"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
   - title: "Brazil takes a page from China, taps facial recognition to solve crime"
     excerpt: "In much of the world citizens are speaking out against facial recognition technology. Brazil appears poised to embrace it in the name of security."
     publishedDateTime: 2020-02-11T14:44:00Z
@@ -46,41 +68,19 @@ related:
       name: Christian Science Monitor
       domain: csmonitor.com
     quality: 39
-  - title: "CBP Expands Facial Recognition Program to Another Southern Border Crossing"
-    excerpt: "Customs and Border Protection is deploying its facial recognition program at land border crossings at a fifth location ahead of a broader expansion planned for this spring. This week, CBP began scanning pedestrians’ faces at the Progreso port of entry in Weslaco, Texas. Progreso became the fifth location to use the technology since the ..."
-    publishedDateTime: 2020-02-13T18:50:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2020/02/cbp-expands-facial-recognition-program-another-southern-border-crossing/163111/"
+  - title: "Class action: Tech firm Clarifai scanned OKCupid pics to train face recognition A.I., broke IL privacy law"
+    excerpt: "According to the complaint, Clarifai’s “surreptitious harvesting of biometric identifiers is ongoing” and Clarifai has indicated a willingness to “sell its facial recognition technology to foreign governments” and allow the technology to be used in “autonomous weapons” systems. According to the complaint, Clarifai “gained access ..."
+    publishedDateTime: 2020-02-18T14:50:00Z
+    webUrl: "https://cookcountyrecord.com/stories/525710212-class-action-tech-firm-clarifai-scanned-okcupid-pics-to-train-face-recognition-a-i-broke-il-privacy-law"
     type: article
     provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 37
+      name: Cook County Record
+      domain: cookcountyrecord.com
+    quality: 36
     images:
-      - url: "https://cdn.nextgov.com/media/img/upload/2020/02/13/NGborder20200213/open-graph.jpg"
-        width: 400
-        height: 400
-  - title: "Facial-recognition tech questioned, defended at House committee hearing"
-    excerpt: "The controversy over usage of facial recognition technology took center stage last week in Washington, D.C., as the House of Representatives’ Homeland Security Committee held a two-hour hearing, as opponents in the debate decry its racial bias and federal government’s quick rollout at U.S. airports without fully testing or acknowledging ..."
-    publishedDateTime: 2020-02-07T20:31:00Z
-    webUrl: "https://www.scmagazine.com/home/security-news/privacy-compliance/facial-recognition-tech-questioned-defended-at-house-committee-hearing/"
-    type: article
-    provider:
-      name: SC Media
-      domain: scmagazine.com
-    quality: 24
-    images:
-      - url: "https://www.scmagazine.com/wp-content/uploads/sites/2/2018/07/facialrecognition_1326427.jpg"
-        width: 700
-        height: 379
-  - title: "Chicago Police Launch New Facial Recognition Technology, They Say, To Catch Crooks"
-    excerpt: "CHICAGO (CBS) — They’re watching you in a whole new way, with controversial new facial recognition software used by Chicago Police. CBS 2’s Tara Molina is Always Investigating and she found that while this software is new to the city, the practice isn’t. The department has used some form of facial recognition tech since at least 2013."
-    publishedDateTime: 2020-02-08T04:26:00Z
-    webUrl: "https://chicago.cbslocal.com/2020/02/07/chicago-police-launch-new-facial-recognition-technology-they-say-to-catch-crooks/"
-    type: article
-    provider:
-      name: CBS Boston / WBZ
-      domain: cbslocal.com
-    quality: 13
+      - url: "https://jnswire.s3.amazonaws.com/jns-media/28/0f/193780/Chicago_DaleyCenter_Picasso_Upshot.jpg"
+        width: 1280
+        height: 640
 
 secured: "pBmJIdypDdVktNfVvyXEPT7xG5M2B2RtZMc07cBNlhpZISgwyg9xr50v+pzF6B5c3HRIUN5+G4e+dqlmEb8Km3e3Ty1dRXMcewfq0+BAUGg9oSr3MXMPoqoPtP0q0AGz6p6jkph6P4EXfH8L+ZbStIIQ122ox6iRdnZjI9hwS05qAfSV4a6Va/T6cj+oRlVI3d1ImzoAf0t0moEon6C/ANGdzBeRC7L25iKPup7EsL+esj+IEeelvbPINlI6D6hxHFFtw2W//ny/ZKDMog9PQwJwkMIgJzMtTuAcWBajOzEBGsOhVD1HXDNqRmCU02te01Z2Ck+4Sg9S4n8NL2Tq+W5wZV75fWvlVq72ffus75jAa+X/ylv69tAXfkFB5zHiZ7HI5cz2BIFedVCIggVaFr2F79Fhg+bFrSPChfFWmodXTDoAtJ8PC9Sc0KVhE65SrqD/tE4WNnxXWCfjvmPa9yNAjTFF2HJwLsb9P+ZyAok=;n9lWP45LRVA2IHr/yw6oHA=="
 ---

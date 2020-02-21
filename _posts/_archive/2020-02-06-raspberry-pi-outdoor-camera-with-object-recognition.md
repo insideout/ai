@@ -5,8 +5,8 @@ excerpt: "Technology enthusiast and environmentalist Paul Kinsella has created a
 publishedDateTime: 2020-02-06T11:26:00Z
 webUrl: "https://www.geeky-gadgets.com/raspberry-pi-outdoor-camera-06-02-2020/"
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: 19
 published: false
 
 provider:
@@ -17,22 +17,7 @@ topics:
   - AI
   - Computer Vision
 
-images:
-  - url: "https://www.geeky-gadgets.com/wp-content/uploads/2020/02/Raspberry-Pi-outdoor-camera.jpg"
-    width: 700
-    height: 500
-    title: "Raspberry Pi outdoor camera with object recognition"
-
 related:
-  - title: "Autonomous Object Recognition for Robots"
-    excerpt: "Reliable object detection and recognition is a difficult task for robots to achieve and, therefore, still remains a challenge when real-world environments are considered. Curiosity, often seen in humans and its primates, drives learning activities."
-    publishedDateTime: 2020-02-07T00:00:00Z
-    webUrl: "https://www.ulster.ac.uk/doctoralcollege/find-a-phd/511643"
-    type: article
-    provider:
-      name: Ulster University
-      domain: ulster.ac.uk
-    quality: 19
   - title: "Soft Error Resilience of Deep Residual Networks for Object Recognition"
     excerpt: "Abstract: Convolutional Neural Networks (CNNs) have truly gained attention in object recognition and object classification in particular. When being implemented on Graphics Processing Units (GPUs), deeper networks are more accurate than shallow ones. Residual Networks (ResNets) are one of the deepest CNN architectures used in various fields ..."
     publishedDateTime: 2020-02-13T06:31:00Z
@@ -43,6 +28,6 @@ related:
       domain: ieee.org
     quality: 19
 
-secured: "5R/Ms3yV/F2ISNXGuJMjCyAkUUzfKCd8csYwjfQQwappoMCV/VJMyR/uB+h/Rk5jxz7WKqqo0TKhSi5O/s1pq0A6gE8dNuCQw/PihCopgIdzxn4gOXj4YUv6sjhfBq7aHUH3PwnGJKXZXwr3IF5dWplzabpsrVkjWRelwJzFe0k/VdCVibNZqTKS9s50MXKlQWjKyTVjzmAMXC5nDYoVx0jcnRAJ/PmBiVJfIa2amH4JyUnOCPaUiqVj+8UVGwsdfJGXexzHSEOGUX7WhE5En5Vh/aLHEr5j1Sp6ZaGpQtQ0UotfW43ALKPaaycIQQpW;lT6mUriX1fEoghIqqrUckw=="
+secured: "+SaO5KUF7srJRorA3RCzbN/WVznfP2LDZcWkAon4cl3VCu3qVf6EItQPhOnNXg2iiCLOqvoWFp8HAMmI3F65RTaVgKc9EMdfsM7JGu/ZgAZK//Se89/5VopUlpFxMDZH2Ft8+dvkNDejSbeFWHj2yURRjkGjvTp3Cy9HFQdTZzkWLoF+tr9MrinH++6+4w3U/errSG0upPoIweHf6vVQgW2xCVaI9dcTG0wRuEo0ZnqDpj96rDyMaoc7fTatEL7a/bKKx5uQw5Xh6cY9OkiTPOcpdGuifbyZOUjAgrGLU/q3qNlCZF95MPazCvPtwvxe;o8JMSKk0pT3FqO5cGIpEeA=="
 ---
 

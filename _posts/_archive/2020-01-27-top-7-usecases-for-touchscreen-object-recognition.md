@@ -1,11 +1,11 @@
 ---
 category: news
 title: "Top 7 Usecases for Touchscreen Object Recognition"
-excerpt: "This whitepaper from eyefactive presents some of the most exiting usecases of touchscreen object recognition for interactive displays, tables and video walls. The recognition of objects on large-scale touch screens picks up the well-known principle of cashier systems barcodes and takes it to a new level: objects which are equipped with a ..."
+excerpt: "This whitepaper from eyefactive presents some of the most exiting usecases of touchscreen object recognition for interactive displays, tables and video walls. The recognition of objects on large-scale touch screens picks up the well-known principle of ..."
 publishedDateTime: 2020-01-27T14:40:00Z
 webUrl: "https://www.digitalsignagetoday.com/whitepapers/top-7-usecases-for-touchscreen-object-recognition/"
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
@@ -16,12 +16,6 @@ provider:
 topics:
   - AI
   - Computer Vision
-
-images:
-  - url: "https://nmgprod.s3.amazonaws.com/media/files/6f/5d/6f5db33eb9f9e376da43e8199eaa1155/3/social_image_11.png"
-    width: 1200
-    height: 630
-    title: "Top 7 Usecases for Touchscreen Object Recognition"
 
 related:
   - title: "Object Recognition Is The Answer, Here’s Why"
@@ -34,12 +28,8 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F483146942%2F0x0.jpg"
-        width: 1200
-        height: 800
+    quality: 69
 
-secured: "Gy5tReMsGga6uGWs1rzjmlTFA+cl9ZvdjiEdfsk1oaUTg10gpCJTRjKuV8k5z1QcgnjjBcUaEEvdF5oH5AUXUgDsE6LXH3DJ8XQ6iQ7WrruLvgt3TOk1ISrjxbKil0LLOLY5bCCPT+p9iatbxy37K9BNwoRuCJdNgWkKVWQQjjIkm1BYEqitDDigP8yR9fDG9fVob0TgzHCXQi8xWrofW++QtrkKc0BJ+cVwObIVhZQTwHZ9gbTCsMUATOtamRg5rX51JkecHABaKZVNCXbTeAQX7tQC4fIGdHdiSIazPo8/cNdU2eMxuKTPX9gzzsDk;EHmRCJtygo15xb4QDcLJlQ=="
+secured: "fnvl1LICiKL1rZEFBsmLV2ZaniH9DEzYf4dae41Q/7IJd1aqv2Qhs8xWfxqGM1BwPUKQ8atHea493IFtYkUQGZR4bg/na7hvDT0jbqBcBdxA5rB6Lq9/EgexHw4+kjTGDqoTcbrHu0RexlY73qw4rd9ww7Js/zFp/8O0msMEQw5V3F7vQ+uLsO2kY7DYmHCAtcAtjztBJRZMqxGIl6daIcZ0G2nNoK+NpyPrKagyFNtpF3dCDuIFkKTD630pOfcgJSsbZd+AwS+cbmp+rroduB1875a8299bqpLH9eMPvOb3VLjRYIyYZ4eR+y0BItQd;W+gd+BoB/d5PudA4AWyK5g=="
 ---
 

@@ -26,71 +26,75 @@ images:
     title: "Editorial: Facial recognition software takes personal invasion into a new dimension"
 
 related:
-  - title: "New facial recognition app promises to solve crimes, critics say it means end of privacy"
-    excerpt: "A class action lawsuit filed Wednesday in New York federal court claims a breakthrough facial recognition technology designed for law enforcement use is illegally taking people’s biometric information without their consent. The lawsuit was filed by two individuals from Illinois who claim the company behind the technology, Clearview AI ..."
-    publishedDateTime: 2020-02-14T14:50:00Z
-    webUrl: "https://www.foxnews.com/us/new-facial-recognition-app-promises-to-solve-crimes-critics-say-its-the-end-of-privacy"
-    ampWebUrl: "https://www.foxnews.com/us/new-facial-recognition-app-promises-to-solve-crimes-critics-say-its-the-end-of-privacy.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/new-facial-recognition-app-promises-to-solve-crimes-critics-say-its-the-end-of-privacy.amp"
+  - title: "Leaked Reports Show EU Police Are Planning a Pan-European Network of Facial Recognition Databases"
+    excerpt: "the EU could soon be creating a network of national police facial recognition databases. A report drawn up by the national police forces of 10 EU member states, led by Austria, calls for the introduction of EU legislation to introduce and interconnect such databases in every member state. The report, which The Intercept obtained from a European ..."
+    publishedDateTime: 2020-02-21T17:08:00Z
+    webUrl: "https://theintercept.com/2020/02/21/eu-facial-recognition-database/"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 80
+      name: The Intercept
+      domain: theintercept.com
+    quality: 126
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2019/08/bc4a043e-532521-microsoft-facial-recognition.jpg"
-        width: 810
-        height: 456
-  - title: "London police deploy facial recognition tech, stirring privacy fears"
-    excerpt: "London police started using facial recognition cameras on Tuesday to automatically scan for wanted people, as authorities adopt the controversial technology that has raised concerns about increased surveillance and erosion of privacy. Surveillance cameras mounted on a blue police van monitored people coming out of a shopping centre in Stratford ..."
-    publishedDateTime: 2020-02-11T18:01:00Z
-    webUrl: "https://www.dawn.com/news/1533822"
-    ampWebUrl: "https://www.dawn.com/news/amp/1533822"
-    cdnAmpWebUrl: "https://www-dawn-com.cdn.ampproject.org/c/s/www.dawn.com/news/amp/1533822"
+      - url: "https://theintercept.com/wp-uploads/sites/1/2020/02/YotamHadar_TheIntercept_EUv4-still-1582297909.jpg"
+        width: 2000
+        height: 1000
+  - title: "Facial recognition software used by Waterloo Regional Police Service in past"
+    excerpt: "The Waterloo Regional Police Service says it used facial recognition technology 'on a very limited basis' in 2019, but Chief Bryan Larkin says it won't be used going forward until more is known about how it works and there's a policy in place for its use."
+    publishedDateTime: 2020-02-20T12:30:00Z
+    webUrl: "https://www.cbc.ca/news/canada/kitchener-waterloo/clearview-ai-facial-recognition-waterloo-regional-police-1.5468839"
+    ampWebUrl: "https://www.cbc.ca/amp/1.5468839"
+    cdnAmpWebUrl: "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.5468839"
     type: article
     provider:
-      name: Dawn
-      domain: dawn.com
-    quality: 59
+      name: CBC.ca
+      domain: www.cbc.ca
+    quality: 56
     images:
-      - url: "https://i.dawn.com/large/2020/02/5e42e958446ca.jpg"
-        width: 800
-        height: 480
-  - title: "Mitek claims spoof-proof breakthrough in facial recognition"
-    excerpt: "As the industry-first provider of Liveness Detection, Mitek is extending its technology to offer virtually spoof-proof facial comparison across all digital channels (native and web) - through one simple selfie. There are no additional steps for the consumer. Mitek’s extended Liveness Detection provides customers with additional security ..."
-    publishedDateTime: 2020-02-10T14:47:00Z
-    webUrl: "https://www.finextra.com/pressarticle/81436/mitek-claims-spoof-proof-breakthrough-in-facial-recognition"
+      - url: "https://i.cbc.ca/1.5403918.1581719698!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/china-security.JPG"
+        width: 620
+        height: 349
+  - title: "Canadian privacy officials will investigate controversial facial recognition tool used by Toronto police"
+    excerpt: "TORONTO -- The federal privacy watchdog and three provincial ombudsmen have announced an investigation into the controversial facial recognition software used by several police services, including Toronto. “The investigation was initiated in the wake of numerous media reports that have raised questions and concerns about whether the company ..."
+    publishedDateTime: 2020-02-21T18:56:00Z
+    webUrl: "https://toronto.ctvnews.ca/canadian-privacy-officials-will-investigate-controversial-facial-recognition-tool-used-by-toronto-police-1.4822198"
+    ampWebUrl: "https://beta.ctvnews.ca/local/toronto/2020/2/21/1_4822198.html"
+    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/toronto/2020/2/21/1_4822198.html"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 54
+      name: CTV News
+      domain: ctvnews.ca
+    quality: 42
     images:
-      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
-        width: 480
-        height: 270
-  - title: "India's Use of Facial Recognition Tech During Protests Causes Stir"
-    excerpt: "MUMBAI/NEW DELHI, India (Reuters) - When artist Rachita Taneja heads out to protest in New Delhi, she covers her face with a pollution mask, a hoodie or a scarf to reduce the risk of being identified by police facial recognition software."
-    publishedDateTime: 2020-02-17T14:15:00Z
-    webUrl: "https://www.usnews.com/news/world/articles/2020-02-17/indias-use-of-facial-recognition-tech-during-protests-causes-stir"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
-  - title: "Class action: Tech firm Clarifai scanned OKCupid pics to train face recognition A.I., broke IL privacy law"
-    excerpt: "According to the complaint, Clarifai’s “surreptitious harvesting of biometric identifiers is ongoing” and Clarifai has indicated a willingness to “sell its facial recognition technology to foreign governments” and allow the technology to be used in “autonomous weapons” systems. According to the complaint, Clarifai “gained access ..."
-    publishedDateTime: 2020-02-18T14:50:00Z
-    webUrl: "https://cookcountyrecord.com/stories/525710212-class-action-tech-firm-clarifai-scanned-okcupid-pics-to-train-face-recognition-a-i-broke-il-privacy-law"
-    type: article
-    provider:
-      name: Cook County Record
-      domain: cookcountyrecord.com
-    quality: 36
-    images:
-      - url: "https://jnswire.s3.amazonaws.com/jns-media/28/0f/193780/Chicago_DaleyCenter_Picasso_Upshot.jpg"
+      - url: "https://beta.ctvnews.ca/local/toronto/2020/2/21/1_4822198/_jcr_content/root/responsivegrid/image.coreimg.jpg"
         width: 1280
-        height: 640
+        height: 901
+  - title: "Facial Recognition: Beware the ‘Long Arm of the Algorithm’"
+    excerpt: "Facial recognition is unlikely to provide sufficient evidence to determine a guilty suspect in court without the intervention of human judgment, say two researchers from the United Kingdom. In a case study analyzing the South Wales Police Department’s automated facial recognition (AFR) pilot program called “AFR Locate,” found serious ..."
+    publishedDateTime: 2020-02-18T13:05:00Z
+    webUrl: "https://thecrimereport.org/2020/02/18/facial-recognition-beware-the-long-arm-of-the-algorithm/"
+    type: article
+    provider:
+      name: thecrimereport.org
+      domain: thecrimereport.org
+    quality: 39
+    images:
+      - url: "https://thecrimereport.org/wp-content/uploads/2020/02/photo-by-Endstation-Jetzt.jpg"
+        width: 800
+        height: 549
+  - title: "Metropolitan Police deploys facial recognition in central London with two hours’ warning"
+    excerpt: "Police have deployed controversial facial recognition technology in central London with just two hours' notice, sparking privacy concerns. The Metropolitan Police installed a live facial recognition (LFR) camera at Oxford Circus, a highly-trafficked area ..."
+    publishedDateTime: 2020-02-20T13:59:00Z
+    webUrl: "https://www.independent.co.uk/news/uk/crime/met-police-facial-recognition-technology-city-westminster-a9346831.html"
+    type: article
+    provider:
+      name: The Independent
+      domain: independent.co.uk
+    quality: 30
+    images:
+      - url: "https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/07/09/13/facialrecognition-ban.jpg"
+        width: 1998
+        height: 1499
 
 secured: "POi5Va/5VjckceldTBKQCOZIWN+489g/cTP1ooS5Bh3fDBqGyYXaMXurNDboRa/vQves9kR1dO0aAt9jrwZxJfY8fjwVrogBTdKzoHu3V/13URn1ohPURUVY+HqLFe/BAF9SAftXmsOXITtceE4muUQtaXgay2pgqDcnoJJybh5DFVXB/SlK9p1xrSv9PpP6gBu2E3JoJkhjHJSoOuwZ17mRYbsjBGomBxlsdkvdWRyJ2Rx0M+PaErXsX7CS5oEVnVwDkA376zicxfioQUWrnn3PVRcASmBGA8Ve1UgsPxF18kD9PrZ6Gy++3C3fFT13;Gxc0WeMKd7nL0BuDlfLsDQ=="
 ---

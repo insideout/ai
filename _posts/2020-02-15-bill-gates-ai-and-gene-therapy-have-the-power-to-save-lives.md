@@ -45,6 +45,17 @@ related:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2020/02/200214-gates1-630x420.jpg"
         width: 630
         height: 420
+  - title: "An AI developed a new antibiotic that could save the day"
+    excerpt: "the AI system identified a number of antibiotic candidates that show serious promise. “We wanted to develop a platform that would allow us to harness the power of artificial intelligence to ..."
+    publishedDateTime: 2020-02-21T20:14:00Z
+    webUrl: "https://bgr.com/2020/02/21/ai-antibiotic-mit-superbug-drugs/"
+    ampWebUrl: "https://bgr.com/2020/02/21/ai-antibiotic-mit-superbug-drugs/amp/"
+    cdnAmpWebUrl: "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/2020/02/21/ai-antibiotic-mit-superbug-drugs/amp/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 37
 
 secured: "21c+9souzO6ec1Q1GFyG7o2KM+e4OoLU+FLd+6bLrjTJFRmQNMVyXdL/+I6m8lm9nwUX1FRZFlkkoYnAyRBsm5m2MCZHAL9lcmdOxTPPWGkaFfMoNU83+0HnrXvHjFm5JZBSpP/E/lGDu6m5IpirPKv3J4uvFxyJ3fpf/zCv1X1Fz0MyQJUzEnTFsuFomi3axtBoqkpTjXEUk3/SDkjv/XKZibOzbEDXXah1JfKntxxRsizeN6UExP5OoS8QgjjADE/mCCqJS5/YapFReVo0BqV5t1pY1ek1HPKGFBbLHNRACz8eHBP9oCXaIg5Zz3smSEQDXkFQsjysbHMOtFOYgm1AnsBkzaJAcSMJP/U3b7MtizxGoBuIQoDcnxt7WZIiZDLbpWxlvrxWyCBtPmn5BdDRiG0fMWqFPwQfH8Yr6tO8s/6QuwJfyIDdcghE22SUY9HkE3LW88aMROtcsM0AaDMoBWmADmG3iJYM3lh1ytk=;uUHhKt0YBR2k7GT5SuME4A=="
 ---

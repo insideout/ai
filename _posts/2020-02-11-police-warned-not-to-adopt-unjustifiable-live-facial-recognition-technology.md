@@ -67,32 +67,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/03/15194350/artificial-intelligence.jpg"
         width: 660
         height: 300
-  - title: "WeWork wants facial recognition biometrics class action dismissed"
-    excerpt: "CHICAGO — WeWork has asked a judge to dismiss a lawsuit accusing it of improperly deploying facial recognition technology for people using its shared office spaces. Elliott Osborne, who in 2017 worked for SpotHero at a WeWork space on South Clark Street, filed a class action complaint in November in Cook County Circuit Court alleging WeWork ..."
-    publishedDateTime: 2020-02-07T03:36:00Z
-    webUrl: "https://cookcountyrecord.com/stories/524475063-wework-wants-facial-recognition-biometrics-class-action-dismissed"
-    type: article
-    provider:
-      name: Cook County Record
-      domain: cookcountyrecord.com
-    quality: 39
-    images:
-      - url: "https://jnswire.s3.amazonaws.com/jns-media/1c/74/11382225/WeWork_NY.jpg"
-        width: 1280
-        height: 640
-  - title: "Met Police begins deploying live facial recognition cameras in Stratford"
-    excerpt: "The Metropolitan Police has started deploying live facial recognition camera technology in Stratford today. According to the police, the technology will aid the fight against serious crime in London, while helping to find missing children and vulnerable people. \"The Met will deploy Live Facial Recognition on Tuesday 11 February at key locations ..."
-    publishedDateTime: 2020-02-11T11:37:00Z
-    webUrl: "https://www.computing.co.uk/news/4010475/met-police-live-facial-recognition"
-    type: article
-    provider:
-      name: Computing
-      domain: computing.co.uk
-    quality: 38
-    images:
-      - url: "https://www.computing.co.uk/api/v1/wps/ff5f354/fc6d1fdc-dffc-47f8-bcdb-4760220f6a01/2/LFR-370x229.jpg"
-        width: 370
-        height: 229
   - title: "Editorial: Facial-recognition software takes personal invasion into a new dimension"
     excerpt: "Law enforcers around the world are celebrating the rapidly expanding potential of facial-recognition software to help them catch criminals faster and solve long-dormant cases. Such capabilities in the right hands could reap enormous public-safety dividends. But in the wrong hands, an entirely new dimension in crime, extortion and mayhem could ..."
     publishedDateTime: 2020-02-16T22:00:00Z
@@ -108,19 +82,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/d/8b/d8bc824d-a430-5a4c-a7d5-3c24d9712733/5e46e82107203.image.jpg"
         width: 436
         height: 512
-  - title: "London police deploy live facial recognition technology, stirring privacy fears"
-    excerpt: "LONDON (AP) - London police have started using facial recognition cameras to automatically scan for wanted people, as authorities adopt the controversial technology that has raised concerns about increased surveillance and erosion of privacy. Surveillance cameras mounted on a blue police van monitored people coming out of a shopping center in ..."
-    publishedDateTime: 2020-02-11T18:47:00Z
-    webUrl: "https://www.hawaiinewsnow.com/2020/02/11/london-police-deploy-live-facial-recognition-technology-stirring-privacy-fears/"
-    type: article
-    provider:
-      name: KHNL
-      domain: hawaiinewsnow.com
-    quality: 35
-    images:
-      - url: "https://www.hawaiinewsnow.com/resizer/5WPDfcRoZsIEZzSuFgW7EurnGtA=/1200x0/arc-anglerfish-arc2-prod-raycom.s3.amazonaws.com/public/52R5YBRIHZBEHP5HNAANYUWTEE.jpg"
-        width: 1200
-        height: 675
   - title: "Met police deploy live facial recognition technology"
     excerpt: "Cameras used at east London shopping centre despite experts warning against them"
     publishedDateTime: 2020-02-11T19:20:00Z
@@ -130,15 +91,6 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 19
-  - title: "London police deploy facial recognition technology, stirring privacy fears"
-    excerpt: "LONDON — London police started using facial recognition cameras on Tuesday to automatically scan for wanted people, as authorities adopt the technology that has raised concerns about increased surveillance and erosion of privacy. Surveillance cameras mounted on a blue police van monitored people coming out of a shopping center in east London."
-    publishedDateTime: 2020-02-12T01:13:00Z
-    webUrl: "https://www.pressherald.com/2020/02/11/london-police-deploy-facial-recognition-technology-stirring-privacy-fears/"
-    type: article
-    provider:
-      name: Portland Press Herald
-      domain: pressherald.com
-    quality: 17
   - title: "Facial recognition technology is 'unfit' for use by Police Scotland, MSPs say"
     excerpt: "Police identified \"live\" facial recognition technology in its plans for 2026. The force already uses retrospective technology to search and match. MSPs on Holyrood’s policing committee raised concerns over human rights and called for Scottish Government ..."
     publishedDateTime: 2020-02-11T09:23:00Z
@@ -147,15 +99,6 @@ related:
     provider:
       name: dailyrecord
       domain: dailyrecord.co.uk
-    quality: 16
-  - title: "Public Perception of Facial Recognition Technologies - a four countries study"
-    excerpt: "Facial recognition technology (FRT) – which seeks to match people from a digital image or video with various identifying attributes – is increasingly commonplace in everyday life. The wide and quickly spreading application of the technology has become the subject of increased debate. On the one hand, #FRT is seen as a potentially powerful ..."
-    publishedDateTime: 2020-02-12T19:35:00Z
-    webUrl: "https://www.linkedin.com/pulse/public-perception-facial-recognition-technologies-four-meckel"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
     quality: 16
 
 secured: "h5CxR9Sn2e0SwgBNv02wp8b/loAU1gJtQvVyYcrkHSWJSbiTtMU2mDA97bKb11JAgO1S0Uj/c2n/0vhsOw4u2wUPw4IIB3U7+V4TJ8PFzIrkUrZLFLO5oYcS/yJffIiXBaE0sIMMWtyLFpppiyX4d0sGI2n3SApoNoQ7uhTDRd9G/gD5EkYEJdmikDkdyKkOSVSKjk3QJymMyjpNnBbg1TIjxSprlIyQW6g0KLeAK49kyO2NRP3CaxqUoSOIon0ce0kb7uq/p/enn0byhm+aJGQ6/UZTPgicYbHBpkfyfF5ac879z5KTkZAYNqqu0J3k;ng0pggKbFxr2Nua8Wtr8Rw=="

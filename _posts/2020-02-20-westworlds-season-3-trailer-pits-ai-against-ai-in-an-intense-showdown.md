@@ -29,6 +29,17 @@ images:
     title: "Westworld’s season 3 trailer pits AI against AI in an intense showdown"
 
 related:
+  - title: "Seven Takeaways From the ‘Westworld’ Season 3 Trailer"
+    excerpt: "We’ve come a long way from all that natural splendor. HBO released the official Westworld Season 3 trailer on Thursday, and it looks like showrunners Jonathan Nolan and Lisa Joy are making good on the “radical shift” they promised back in August 2018. Our central characters have gone from the confines of the Westworld park to the human wo ..."
+    publishedDateTime: 2020-02-20T21:10:00Z
+    webUrl: "https://www.theringer.com/tv/2020/2/20/21146044/westworld-season-3-trailer"
+    ampWebUrl: "https://www.theringer.com/platform/amp/tv/2020/2/20/21146044/westworld-season-3-trailer"
+    cdnAmpWebUrl: "https://www-theringer-com.cdn.ampproject.org/c/s/www.theringer.com/platform/amp/tv/2020/2/20/21146044/westworld-season-3-trailer"
+    type: article
+    provider:
+      name: The Ringer
+      domain: theringer.com
+    quality: 137
   - title: "'Westworld' season 3 trailer sets the stage for an AI battle"
     excerpt: "\"The real gods are coming, and they're very angry.\" HBO has released a new trailer for the upcoming third season of Westworld. It shows Dolores, Maeve and Westworld's other characters leave the confines of the park that defined so much of show's past two seasons. Additionally, we see more of the futuristic city we saw glimpses of in the first ..."
     publishedDateTime: 2020-02-20T19:28:00Z

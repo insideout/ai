@@ -95,19 +95,6 @@ related:
       - url: "https://www.eenews.net/image_assets/2020/02/image_asset_74141.jpg"
         width: 938
         height: 483
-  - title: "Silicon Valley startup Nuro becomes first company to receive self-driving vehicle exemption from U.S. Department of Transportation"
-    excerpt: "That car is designed to carry packages, not people, and can take loads of up to 400 pounds while maxing out at 25 mph. The major difference from other self-driving vehicles is the fact it’s not designed to have any humans as passengers or drivers. Nuro calls it a “zero-occupant vehicle” rather that a driver-less car. The cars can be ..."
-    publishedDateTime: 2020-02-07T03:43:00Z
-    webUrl: "https://siliconangle.com/2020/02/06/silicon-valley-startup-nuro-becomes-gets-self-driving-vehicle-exemption-u-s-department-transportation/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 0
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/02/nuro.jpeg"
-        width: 4000
-        height: 2666
 
 secured: "gEWQMn6rQD93QfuaaGgWnK2yTGrAEf0WBwuB1K9tsftgj2iUbT3yGbpCKCzt6gutWEohSoDyNjpcfJsNBPf3LE+Y7WuIz7uckhooFTyYeCaDrwLs7nJ08LmVxssAoLgrPuDSxd1ZKxts9qHOzwSDp5emKz2nKNhAAeCD++kSIVvaylWYOzzEhPOroYdOjbo8AbNdNic/ZIzHiPe1gIShfKW40knTdFpaTv59KlADY4/QioiWEbFoj74nEMr9a6peGNR3zLnCeSL8kdEjzEWdBmrSL2D5k9n3qtBHchedliKV8BR993hZ6lrLY/8MdosS;578nP+iN/VviPeo5Dop46A=="
 ---

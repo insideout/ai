@@ -39,21 +39,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/07/blockchain_database-e1573158651295.jpg?fit=1200%2C600&strip=all"
         width: 1200
         height: 600
-  - title: "Here comes a chip designed for AI, 5G era"
-    excerpt: "It is going to power the upcoming Mi 10 smartphone from the Xiaomi stable. The chip takes less power yet offer faster data access speeds. DDR5 DRAM or Double Data Rate 5 Dynamic Random-Access Memory, will accelerate enablement of 5G and AI applications,” Raj Talluri, Senior Vice-President and General Manager (Mobile Business Unit) of Micron ..."
-    publishedDateTime: 2020-02-07T04:06:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/here-comes-a-chip-designed-for-ai-5g-era/article30759113.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/here-comes-a-chip-designed-for-ai-5g-era/article30759113.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/here-comes-a-chip-designed-for-ai-5g-era/article30759113.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 74
-    images:
-      - url: "https://www.thehindubusinessline.com/opinion/7xd79r/article29214263.ece/ALTERNATES/LANDSCAPE_615/BL22THINKGP2"
-        width: 615
-        height: 384
   - title: "Arm unveils AI chip for small devices"
     excerpt: "The chips require little electricity or internet connections and aim to bring AI functions to small devices like sensors that detect human speech. Arm sees Cortex M55 fitting into markets like health care, where data needs to be stored locally. Chips with the tech will hit the market next year."
     publishedDateTime: 2020-02-10T14:53:00Z

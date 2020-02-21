@@ -8,8 +8,8 @@ ampWebUrl: "https://www.engadget.com/amp/2020/02/20/westworld-new-season-3-trail
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/20/westworld-new-season-3-trailer/"
 type: article
 quality: 87
-heat: 97
-published: true
+heat: -1
+published: false
 
 provider:
   name: Engadget
@@ -29,6 +29,17 @@ images:
     title: "'Westworld' season 3 trailer sets the stage for an AI battle"
 
 related:
+  - title: "Seven Takeaways From the ‘Westworld’ Season 3 Trailer"
+    excerpt: "We’ve come a long way from all that natural splendor. HBO released the official Westworld Season 3 trailer on Thursday, and it looks like showrunners Jonathan Nolan and Lisa Joy are making good on the “radical shift” they promised back in August 2018. Our central characters have gone from the confines of the Westworld park to the human wo ..."
+    publishedDateTime: 2020-02-20T21:10:00Z
+    webUrl: "https://www.theringer.com/tv/2020/2/20/21146044/westworld-season-3-trailer"
+    ampWebUrl: "https://www.theringer.com/platform/amp/tv/2020/2/20/21146044/westworld-season-3-trailer"
+    cdnAmpWebUrl: "https://www-theringer-com.cdn.ampproject.org/c/s/www.theringer.com/platform/amp/tv/2020/2/20/21146044/westworld-season-3-trailer"
+    type: article
+    provider:
+      name: The Ringer
+      domain: theringer.com
+    quality: 137
   - title: "Westworld’s season 3 trailer pits AI against AI in an intense showdown"
     excerpt: "The second season saw those same artificially intelligent beings lead a revolution against their human counterparts. Now, a new trailer for Westworld’s third season, premiering on March 15th, pits AI against AI. In Westworld’s third season, Dolores has escaped from the Delos-owned park she called home — or perhaps prison is the more ..."
     publishedDateTime: 2020-02-20T18:25:00Z

@@ -91,51 +91,6 @@
       ]
     },
     {
-      "path": "_posts/2020-02-07-all-it-takes-to-fool-facial-recognition-at-airports-and-border-crossings-is-a-printed-mask-researchers-found.md",
-      "title": "All it takes to fool facial recognition at airports and border crossings is a printed mask, researchers found",
-      "excerpt": "Researchers said they fooled facial-recognition tech across three continents but were unable to fool some software, including Apple's Face ID.",
-      "heat": 135,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/facial-recognition-fooled-with-mask-kneron-tests-2019-12/",
-      "ampWebUrl": "https://amp.businessinsider.com/facial-recognition-fooled-with-mask-kneron-tests-2019-12",
-      "cdnAmpWebUrl": "https://amp-businessinsider-com.cdn.ampproject.org/c/s/amp.businessinsider.com/facial-recognition-fooled-with-mask-kneron-tests-2019-12",
-      "publishedDateTime": "2020-02-07T10:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.businessinsider.com/5df25692fd9db202c04bee94?width=750&format=jpeg&auto=webp",
-          "width": 750,
-          "height": 563,
-          "title": "All it takes to fool facial recognition at airports and border crossings is a printed mask, researchers found",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_posts/2020-02-07-amazon-personalize-can-now-use-10x-more-item-attributes-to-improve-relevance-of-recommendations.md",
       "title": "Amazon Personalize can now use 10X more item attributes to improve relevance of recommendations",
       "excerpt": "Amazon Personalize is a machine learning service which enables you to personalize your website, app, ads, emails, and more, with custom machine learning models which can be created in Amazon Personalize, with no prior machine learning experience. AWS is pleased to announce that Amazon Personalize now",
@@ -817,7 +772,7 @@
       "path": "_posts/2020-02-07-nuros-r2-vehicle-has-been-granted-the-nhtsas-first-regulatory-exemption-for-a-custom-self-driving-car.md",
       "title": "Nuro's R2 vehicle has been granted the NHTSA's first regulatory exemption for a custom self-driving car",
       "excerpt": "Self-driving cars: Nuro is a well-known entity in the autonomous vehicle industry. It's partnered up with companies like Kroger and Dominos in the past to offer driverless food and grocery delivery services via its \"R1\" generation of vehicles. Now ...",
-      "heat": 108,
+      "heat": 118,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.techspot.com/news/83926-nuro-has-granted-nhtsa-first-regulatory-exemption-custom.html",
@@ -1166,7 +1121,7 @@
       "path": "_posts/2020-02-07-us-house-panel-to-hold-hearing-on-future-of-self-driving-cars.md",
       "title": "U.S. House panel to hold hearing on future of self-driving cars",
       "excerpt": "A U.S. House panel will hold a hearing Tuesday on autonomous vehicles as lawmakers try to hammer out legislation to advance self-driving cars. An Energy and Commerce subcommittee overseeing automotive issues will hear from officials of trade groups representing automakers and tech companies,",
-      "heat": 204,
+      "heat": 194,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.reuters.com/article/us-autos-autonomous-congress-idUSKBN2012K2",
@@ -2164,6 +2119,50 @@
         "Microsoft AI",
         "Facebook AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-10-7-things-digital-marketing-industry-need-to-know-about-artificial-intelligence.md",
+      "title": "7 Things Digital Marketing Industry Need To Know About Artificial Intelligence",
+      "excerpt": "But, again, it becomes important to mention digital marketing without an effective resolution to the customer means nothing. And, here, AI or Artificial Intelligence comes into the picture. Today, most of the companies are merging the two technologies to create outstanding business operations, which can help in business growth.",
+      "heat": 73,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/@inforobertsmith36/7-things-digital-marketing-industry-need-to-know-about-artificial-intelligence-17cab74ff304",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T10:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*9CF2YcL5UfPcmS034ycptg.jpeg",
+          "width": 1200,
+          "height": 628,
+          "title": "7 Things Digital Marketing Industry Need To Know About Artificial Intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

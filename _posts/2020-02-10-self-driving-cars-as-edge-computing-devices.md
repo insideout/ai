@@ -177,19 +177,6 @@ related:
       - url: "https://i.cbc.ca/1.5459338.1581429585!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/autonomoose.JPG"
         width: 620
         height: 349
-  - title: "Report calls out automakers to prioritize kids' safety in self-driving cars"
-    excerpt: "Self driving cars promise freedom; from steering for you to accelerating the car down ... Audi; Continental; Intel; Infineon; Aptiv; Baidu; HERE Technologies sets out an organized framework for the development, testing and validation of safe, automated passenger vehicles. This is becoming increasingly important with the rapid growth of ..."
-    publishedDateTime: 2020-02-07T03:45:00Z
-    webUrl: "https://www.wtol.com/article/life/family-focus/report-calls-out-automakers-to-prioritize-kids-safety-in-self-driving-cars/512-fa0605c4-7852-48fe-89b7-e0266b839362"
-    type: article
-    provider:
-      name: WTOL
-      domain: wtol.com
-    quality: 22
-    images:
-      - url: "https://media.wtol.com/assets/WTOL/images/73fa9d4c-e350-45aa-8d4b-a9482434eacd/73fa9d4c-e350-45aa-8d4b-a9482434eacd_1140x641.jpg"
-        width: 1140
-        height: 641
   - title: "Will Self-Driving Cars Increase Or Decrease Drunk Driving?"
     excerpt: "Sobriety checkpoints are also useful, though they aren't as effective as they should be. Some industry experts have started to explore the idea of self-driving cars as a solution to drunk driving. Will these autonomous vehicles be the solution we're looking for? Will Autonomous Vehicles Help? Will self-driving cars reduce the number of drunk ..."
     publishedDateTime: 2020-02-11T19:56:00Z

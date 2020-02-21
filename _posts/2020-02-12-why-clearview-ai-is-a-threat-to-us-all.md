@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/2020/02/12/clearview-ai-police-surveill
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/12/clearview-ai-police-surveillance-explained/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -27,23 +27,6 @@ images:
     width: 600
     height: 350
     title: "Why Clearview AI is a threat to us all"
-
-related:
-  - title: "The controversial facial recognition tech from Clearview AI is also being used to identify child victims of sexual abuse"
-    excerpt: "A software startup that scraped billions of images from Facebook, Google, and YouTube is helping to identify child victims of sexual abuse."
-    publishedDateTime: 2020-02-08T12:03:00Z
-    webUrl: "https://www.businessinsider.com/facial-recognition-search-clearview-ai-child-abuse-id-2020-2/"
-    ampWebUrl: "https://www.businessinsider.com/facial-recognition-search-clearview-ai-child-abuse-id-2020-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facial-recognition-search-clearview-ai-child-abuse-id-2020-2?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 79
-    images:
-      - url: "https://i.insider.com/5e3db92a0ce3d1240312779c?width=1200&format=jpeg"
-        width: 1200
-        height: 600
 
 secured: "zURfsWngNpnNUorra48uhYRNUeUYDR1l5G1FTYven9CtupH2Rj8a+RoJyTsQr2gP5yVYAUY938n/Dk9p9ujyQWm20D9uJrVqDKtC3AmFpRELoXhlYeIA9+W2caf1LxcaW3UJia6d3SBuM7qdIrhn+szPyFzkvukC2TshmkoLwC2kFK2QTUMdjLGQ9rpPs2vxebSI4riNvFkjM85Lv48IjgsmNesSd3SAK5j6b2+2delF9uvrHZj9RyOx2LgKe849VKYMfDwiBYegAsExmrySt0QerRwrayeL6BxZma28AL0BElzx7zNT1/IvaJFXpZEAIH413YmZOi5TvwvlJzoQMnb3S29SwxYjYnVi/KOW6iqPCLfV9RHPN8/9RFaYxijgJcDAnM15wizsHVqvK7xm3fFJSsyj+NqLS/MD6yNbx8+kzv35YYc5mPYtvkiEr1HC/x9L/YRhYIJ2rfyCDlKMx63NAGeK7CJfWrwVr9GQh+o=;WMWO1QAtY6qPWUlRCQ3h8w=="
 ---

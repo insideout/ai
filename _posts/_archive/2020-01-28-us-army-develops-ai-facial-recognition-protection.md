@@ -5,7 +5,7 @@ excerpt: "The US Army uses facial and object recognition technologies to train a
 publishedDateTime: 2020-01-28T09:26:00Z
 webUrl: "https://www.fudzilla.com/news/ai/50195-us-army-develops-ai-facial-recognition-protection"
 type: article
-quality: 54
+quality: 34
 heat: -1
 published: false
 
@@ -17,16 +17,10 @@ topics:
   - AI
   - Computer Vision
 
-images:
-  - url: "https://www.fudzilla.com/media/k2/items/cache/9da04a8003f0d759bae25bbf360e627c_L.jpg"
-    width: 620
-    height: 465
-    title: "US Army develops AI facial recognition protection"
-
 related:
   - title: "The US Army uses facial recognition to train AI. Now, it needs to protect it"
-    excerpt: "A team from Duke University, led by electrical and computer engineering faculty members Dr. Helen Li and Dr. Yiran Chen, have created a system which, it is hoped, will be able to mitigate cyberattacks against the military's facial recognition applications. Facial and object recognition technologies are used by the US Army to train artificial ..."
-    publishedDateTime: 2020-01-27T09:55:00Z
+    excerpt: "Facial and object recognition technologies are used by the US Army to train artificial intelligence (AI) systems used in unmanned aerial vehicles (UAVs), surveillance systems, and more."
+    publishedDateTime: 2020-01-27T11:21:00Z
     webUrl: "https://www.zdnet.com/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
     ampWebUrl: "https://www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
     cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
@@ -34,12 +28,8 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 101
-    images:
-      - url: "https://zdnet4.cbsistatic.com/hub/i/r/2019/11/20/b42aa021-90ac-43be-a1d9-65e1fbf4829f/resize/1200x900/0b0264a41ecba4d5f7fd7e3dce4a7015/screenshot-2019-11-20-at-13-23-49.png"
-        width: 1200
-        height: 763
+    quality: 81
 
-secured: "Q2Rz5XE3kwab4w2O3WCTIMCLYDgwxq0jmvBi3oozCCXQKz1k1ckypHm6yyhCnXf+RywXN3Hxv/kfQ1XWchnO8h5YzPs3NMvLwbaRzRhTxGqxOn+pTs3uH0suKvBHR4mdH8FEq48xawKohL5z3mSwI6jFGjAN7IfIQ1ku9lR3N2umpR3dUHWsBgWxkTOKGtFdTXQLfcl4RE0vSP9MvNtHki4aqZTBTxWwzbMuEp+Pl5J7gL9yy3hgfFoWpzHvNKcaRndmi+DKnJU19cDqFwfhhPgIO42rEAROYHXaFkGKnlVV3Hbg4hY6nVO/0m6cAp3W;moiO3lkXc/KZovji6eErkw=="
+secured: "SUApCPtxrFYUT4a6D6Glb31tRF9Ik/St1zvCFWLcYyHtV8PpLtZe9dGRUAOar/JlcBiz/6sesev3IMzB3R7yvnQqgjVGSedYJP6HydDyybNUkFbEyK58AZpaP7uBgIyNL5R2psd5oerC5r1JZizC+DA5wnNJDLKfrTIpQph2nQGOYLg31OpZrMx+Irsq7QJxdLC5SOK2KMFRW6zRd2GRUvEhVRF60lAINncNH1Om9mbXnUfnN7fIJxz1Lx1/G77TeFyce7PXdlM3qho2pFk+qnlRgiQy64C7v/Bs1AnY9b9EsneSNi7QGSmJ4x2/AzbZ;Mra5oo9/JnOYjBcYjArK0g=="
 ---
 

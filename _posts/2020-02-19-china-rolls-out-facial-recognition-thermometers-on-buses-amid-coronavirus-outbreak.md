@@ -24,6 +24,21 @@ images:
     title: "China rolls out facial recognition thermometers on buses amid coronavirus outbreak"
 
 related:
+  - title: "Moscow deploys facial recognition technology for coronavirus quarantine"
+    excerpt: "Moscow is using facial recognition technology to ensure people ordered to remain at home or at their hotels under coronavirus quarantine do so."
+    publishedDateTime: 2020-02-21T19:06:00Z
+    webUrl: "https://www.cnbc.com/2020/02/21/moscow-deploys-facial-recognition-technology-for-coronavirus-quarantine.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/02/21/moscow-deploys-facial-recognition-technology-for-coronavirus-quarantine.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/02/21/moscow-deploys-facial-recognition-technology-for-coronavirus-quarantine.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 189
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/100978289-135627372r.jpg?v=1582293185"
+        width: 2000
+        height: 1325
   - title: "China’s facial-recognition giant says it can crack masked faces during the coronavirus"
     excerpt: "China’s SenseTime, the world’s most valuable AI startup, said earlier this month (link in Chinese) that it was rolling out a facial-recognition products that incorporates thermal imaging cameras to help spot people with elevated temperatures at building entrances and airport checkpoints, and send pop-up alerts to users of the software."
     publishedDateTime: 2020-02-18T09:02:00Z
@@ -39,114 +54,233 @@ related:
       - url: "https://cms.qz.com/wp-content/uploads/2020/02/1581746326404096.png?w=1400&strip=all&quality=75"
         width: 875
         height: 492
-  - title: "Clearview AI’s false claims of accuracy increase the dangers of its face recognition software"
-    excerpt: "The facial recognition company has been embroiled in a storm of controversy since The New York Times revealed that it was helping police match photos of suspects’ faces to images scraped from websites and social media platforms to aid in their investigations. Clearview says that it has amassed a database of more than three billion images ..."
-    publishedDateTime: 2020-02-11T17:49:00Z
-    webUrl: "https://thenextweb.com/neural/2020/02/11/clearview-ais-false-claims-of-accuracy-increase-the-dangers-of-its-face-recognition-software/"
-    ampWebUrl: "https://thenextweb.com/neural/2020/02/11/clearview-ais-false-claims-of-accuracy-increase-the-dangers-of-its-face-recognition-software/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/11/clearview-ais-false-claims-of-accuracy-increase-the-dangers-of-its-face-recognition-software/amp/"
+  - title: "Three Common Misconceptions About Facial Recognition Technology"
+    excerpt: "There are many misconceptions regarding the technology, how it is actually used and the significant benefits agencies are achieving by employing it in a responsible manner."
+    publishedDateTime: 2020-02-18T13:07:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/02/18/three-common-misconceptions-about-facial-recognition-technology/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/02/18/three-common-misconceptions-about-facial-recognition-technology/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/18/three-common-misconceptions-about-facial-recognition-technology/amp/"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 93
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/Untitled-design-4-796x417.png"
-        width: 796
-        height: 417
-  - title: "Moscow deploys facial recognition technology for coronavirus quarantine"
-    excerpt: "Moscow is using facial recognition technology to ensure people ordered to remain at home or at their hotels under coronavirus quarantine do so."
-    publishedDateTime: 2020-02-21T19:06:00Z
-    webUrl: "https://www.cnbc.com/2020/02/21/moscow-deploys-facial-recognition-technology-for-coronavirus-quarantine.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/02/21/moscow-deploys-facial-recognition-technology-for-coronavirus-quarantine.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/02/21/moscow-deploys-facial-recognition-technology-for-coronavirus-quarantine.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
+      name: Forbes
+      domain: forbes.com
     quality: 89
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/100978289-135627372r.jpg?v=1582293185"
-        width: 2000
-        height: 1325
-  - title: "New Jersey’s former attorney general on Ring cameras and facial recognition"
-    excerpt: "And it is a little creepy. That’s not the technical legal term for it. But there’s a way in which, when you think about some of what China’s doing with facial recognition, and trying to basically, literally, track people in communities, you could see where it could end. And one of the things about Ring is that, what has been fascinating ..."
-    publishedDateTime: 2020-02-11T13:00:00Z
-    webUrl: "https://www.theverge.com/2020/2/11/21120372/anne-milgram-ring-cameras-facial-recognition-policing-vergecast-podcast"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2020/2/11/21120372/anne-milgram-ring-cameras-facial-recognition-policing-vergecast-podcast"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/11/21120372/anne-milgram-ring-cameras-facial-recognition-policing-vergecast-podcast"
+      - url: "https://thumbor.forbes.com/thumbor/711x543/https://specials-images.forbesimg.com/dam/imageserve/905553688/960x0.jpg?fit=scale"
+        width: 711
+        height: 543
+  - title: "Hamilton police tested controversial facial recognition technology Clearview AI"
+    excerpt: "People walk past a poster simulating facial recognition software at the Security China 2018 exhibition on public safety and security in Beijing, China October 24, 2018. (Thomas Peter/Reuters) Hamilton police have had access to a controversial facial recognition tool called Clearview AI, CBC News has learned, but have been directed to stop by ..."
+    publishedDateTime: 2020-02-20T21:33:00Z
+    webUrl: "https://www.cbc.ca/news/canada/hamilton/the-service-says-it-has-not-used-the-tool-for-any-investigative-purposes-1.5470359"
+    ampWebUrl: "https://www.cbc.ca/amp/1.5470359"
+    cdnAmpWebUrl: "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.5470359"
     type: article
     provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 87
+      name: CBC.ca
+      domain: www.cbc.ca
+    quality: 70
     images:
-      - url: "https://cdn.vox-cdn.com/thumbor/1w7EjZRDn4rDOY8DsJ_aggz42gg=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66290964/jbareham_170417_1617_0001.0.jpg"
-        width: 1400
-        height: 933
-  - title: "Chinese subways are using artificial intelligence facial recognition scanners to help detect whether people have coronavirus"
-    excerpt: "In Beijing, China, artificial intelligence and other temperature-detection measures are being ratcheted up."
-    publishedDateTime: 2020-02-11T17:44:00Z
-    webUrl: "https://www.businessinsider.com/chinese-tech-companies-artificial-intelligence-surveillance-coronavirus-2020-2"
-    ampWebUrl: "https://www.businessinsider.com/chinese-tech-companies-artificial-intelligence-surveillance-coronavirus-2020-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chinese-tech-companies-artificial-intelligence-surveillance-coronavirus-2020-2?amp"
+      - url: "https://i.cbc.ca/1.5403918.1581719698!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/china-security.JPG"
+        width: 620
+        height: 349
+  - title: "Chino police and facial recognition technology: 5 things to know"
+    excerpt: "The Chino Police Department held a forum on the use of the software and solicited feedback from the community."
+    publishedDateTime: 2020-02-15T00:16:00Z
+    webUrl: "https://www.dailybulletin.com/2020/02/14/chino-police-and-facial-recognition-technology-5-things-to-know/"
+    ampWebUrl: "https://www.dailybulletin.com/2020/02/14/chino-police-and-facial-recognition-technology-5-things-to-know/amp/"
+    cdnAmpWebUrl: "https://www-dailybulletin-com.cdn.ampproject.org/c/s/www.dailybulletin.com/2020/02/14/chino-police-and-facial-recognition-technology-5-things-to-know/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 77
+      name: Inland Valley Daily Bulletin
+      domain: dailybulletin.com
+    quality: 59
     images:
-      - url: "https://i.insider.com/5e42e5f3e0e1443a0e6a1bfe?width=1200&format=jpeg"
+      - url: "https://www.dailybulletin.com/wp-content/uploads/2020/02/IDB-L-FACEID-0215-16x9-1-1.jpg?w=480&h=270"
+        width: 480
+        height: 270
+  - title: "Facial Recognition Technology Is the New Rogues’ Gallery"
+    excerpt: "Fueled by explosive reporting, foreign totalitarian regimes, and a lifetime of dystopian sci-fi, the movement to ban the government’s use of face recognition technology is growing. As of now, seven cities across the country—San Francisco, Oakland, and Berkeley in California, and Brookline, Somerville, Northampton, and Cambridge in ..."
+    publishedDateTime: 2020-02-17T10:45:00Z
+    webUrl: "https://slate.com/technology/2020/02/rogues-gallery-facial-recognition-technology-history.html"
+    ampWebUrl: "https://slate.com/technology/2020/02/rogues-gallery-facial-recognition-technology-history.amp"
+    cdnAmpWebUrl: "https://slate-com.cdn.ampproject.org/c/s/slate.com/technology/2020/02/rogues-gallery-facial-recognition-technology-history.amp"
+    type: article
+    provider:
+      name: Slate
+      domain: slate.com
+    quality: 59
+    images:
+      - url: "https://compote.slate.com/images/98a4ad17-4082-4a99-a71e-75514dd0625f.jpeg?width=780&height=520&rect=780x520&offset=0x0"
+        width: 780
+        height: 520
+  - title: "Edmonton police to reveal intended use of facial recognition technology"
+    excerpt: "EDMONTON -- Police will speak about how and when they intend to use facial recognition technology in Edmonton at a news conference Wednesday. Informatics Division Supt. Warren Driechel will reveal ..."
+    publishedDateTime: 2020-02-19T20:28:00Z
+    webUrl: "https://edmonton.ctvnews.ca/edmonton-police-to-reveal-intended-use-of-facial-recognition-technology-1.4818878"
+    ampWebUrl: "https://beta.ctvnews.ca/local/edmonton/2020/2/19/1_4818878.html"
+    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/edmonton/2020/2/19/1_4818878.html"
+    type: article
+    provider:
+      name: CTV News
+      domain: ctvnews.ca
+    quality: 59
+    images:
+      - url: "https://beta.ctvnews.ca/local/edmonton/2020/2/19/1_4818878/_jcr_content/root/responsivegrid/image.coreimg.jpg"
+        width: 1020
+        height: 574
+  - title: "Facial recognition technology will follow privacy laws: Edmonton police"
+    excerpt: "EDMONTON -- Attempting to quell privacy concerns, Edmonton police say facial recognition software that they intend to use to identify criminals will follow privacy laws. Informatics Division Supt. Warren Driechel revealed new details about the proposed technology Wednesday, though the department has not implemented facial recognition yet."
+    publishedDateTime: 2020-02-19T21:18:00Z
+    webUrl: "https://edmonton.ctvnews.ca/facial-recognition-technology-will-follow-privacy-laws-edmonton-police-1.4818878"
+    ampWebUrl: "https://beta.ctvnews.ca/local/edmonton/2020/2/19/1_4818878.html"
+    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/edmonton/2020/2/19/1_4818878.html"
+    type: article
+    provider:
+      name: CTV News
+      domain: ctvnews.ca
+    quality: 59
+    images:
+      - url: "https://beta.ctvnews.ca/local/edmonton/2020/2/19/1_4818878/_jcr_content/root/responsivegrid/image.coreimg.jpg"
+        width: 1020
+        height: 574
+  - title: "Live facial recognition technology used by police at Oxford Circus"
+    excerpt: "Live facial recognition technology has been deployed near Oxford Circus in London after an operational roll-out was announced last month. The van-mounted cameras were spotted at the busy location, which is popular with tourists, on Thursday morning. Image: The Met Police tweeted this to let people know It is believed to be the second time the ..."
+    publishedDateTime: 2020-02-20T15:35:00Z
+    webUrl: "https://news.sky.com/story/live-facial-recognition-technology-used-by-police-at-oxford-circus-11938683"
+    ampWebUrl: "https://news.sky.com/story/amp/live-facial-recognition-technology-used-by-police-at-oxford-circus-11938683"
+    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/live-facial-recognition-technology-used-by-police-at-oxford-circus-11938683"
+    type: article
+    provider:
+      name: Sky
+      domain: sky.com
+    quality: 59
+    images:
+      - url: "https://e3.365dm.com/20/02/1600x900/skynews-oxford-street-shoppers_4925640.jpg?20200220143955"
+        width: 1600
+        height: 900
+  - title: "Portland considering strictest ban on facial recognition technology in the U.S."
+    excerpt: "“Please look at camera for entry.” Jacksons’ use of facial recognition technology could soon be outlawed in Portland. City officials are considering the strictest ban of the technology in the country, prohibiting its use not only by government agencies but also private businesses. Facial recognition technology typically uses a camera and ..."
+    publishedDateTime: 2020-02-21T15:20:00Z
+    webUrl: "https://www.oregonlive.com/portland/2020/02/portland-considering-strictest-ban-on-facial-recognition-technology-in-the-us.html"
+    ampWebUrl: "https://www.oregonlive.com/portland/2020/02/portland-considering-strictest-ban-on-facial-recognition-technology-in-the-us.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/portland/2020/02/portland-considering-strictest-ban-on-facial-recognition-technology-in-the-us.html?outputType=amp"
+    type: article
+    provider:
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 55
+    images:
+      - url: "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/MUODS64EPVH7LB6P6GFG4M5MUM.JPG"
+        width: 4272
+        height: 2848
+  - title: "EU Plans Rules for Facial-Recognition Technology"
+    excerpt: "European Union officials plan to regulate certain applications of facial-recognition technology later this year because it can violate privacy rights."
+    publishedDateTime: 2020-02-20T20:22:00Z
+    webUrl: "https://www.wsj.com/articles/eu-plans-rules-for-facial-recognition-technology-11582219726"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 54
+    images:
+      - url: "https://images.wsj.net/im-156180/social"
+        width: 1280
+        height: 640
+  - title: "Controversy over India's use of facial recognition technology"
+    excerpt: "a hoodie or a scarf to reduce the risk of police facial recognition software identifying her. Protesters in India are increasingly concerned about the use of facial recognition technology during protests against a controversial new citizenship law. Credit:AP Police in the Indian capital and the northern state of Uttar Pradesh – both hotbeds ..."
+    publishedDateTime: 2020-02-17T13:19:00Z
+    webUrl: "https://www.smh.com.au/world/asia/controversy-over-india-s-use-of-facial-recognition-during-protests-20200217-p541pp.html"
+    ampWebUrl: "https://amp.smh.com.au/world/asia/controversy-over-india-s-use-of-facial-recognition-during-protests-20200217-p541pp.html"
+    cdnAmpWebUrl: "https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/world/asia/controversy-over-india-s-use-of-facial-recognition-during-protests-20200217-p541pp.html"
+    type: article
+    provider:
+      name: Sydney Morning Herald
+      domain: smh.com.au
+    quality: 39
+  - title: "Facebook to pay users to improve speech recognition technology"
+    excerpt: "Facebook has announced it will pay select users who agree to record their voice to improve its speech recognition technology. According to The Verge, the social networking giant he company will pay select users to record snippets of audio through a new programme called \"Pronunciations in its Viewpoints market research app. If you qualify to be ..."
+    publishedDateTime: 2020-02-21T16:02:00Z
+    webUrl: "https://www.khaleejtimes.com/technology/mobiles/facebook-to-pay-users-for-to-improve-service"
+    type: article
+    provider:
+      name: Khaleej Times
+      domain: khaleejtimes.com
+    quality: 39
+    images:
+      - url: "https://images.khaleejtimes.com/storyimage/KT/20200221/ARTICLE/200229877/AR/0/Facebook,-voice-recognition,-social-media.jpg&NCS_modified=20200221110340&exif=.jpg"
         width: 1200
-        height: 600
-  - title: "U.S. military facial recognition could identify people from 1 kilometer away"
-    excerpt: "Thanks to recent advances in machine learning, facial-recognition technology can pick faces out of a crowd with impressive accuracy. But just how far away from their subjects can cutting-edge facial-recognition systems work? According to a new report, a whole lot further than you probably think. So far, in fact, that the person identified may ..."
-    publishedDateTime: 2020-02-18T19:59:00Z
-    webUrl: "https://www.digitaltrends.com/cool-tech/military-facial-recognition-tech-kilometer/"
-    ampWebUrl: "https://www.digitaltrends.com/cool-tech/military-facial-recognition-tech-kilometer/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/military-facial-recognition-tech-kilometer/?amp"
+        height: 800
+  - title: "Chinese city rolls out facial-recognition thermometers on buses to combat coronavirus"
+    excerpt: "Buses in a Chinese city have been equipped with thermometers that use facial recognition to scan passengers in efforts to more quickly detect symptoms of the coronavirus, according to local reports. The smart thermometers can measure commuters’ temperatures in as fast as a second and alert the driver if an anomaly is detected, the Guangzhou ..."
+    publishedDateTime: 2020-02-19T14:33:00Z
+    webUrl: "https://nypost.com/2020/02/19/chinese-city-rolls-out-facial-recognition-thermometers-on-buses-to-combat-coronavirus/"
+    ampWebUrl: "https://nypost.com/2020/02/19/chinese-city-rolls-out-facial-recognition-thermometers-on-buses-to-combat-coronavirus/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/02/19/chinese-city-rolls-out-facial-recognition-thermometers-on-buses-to-combat-coronavirus/amp/"
     type: article
     provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 66
-  - title: "Facial recognition cameras scan 4,600 faces but don’t find a single crook"
-    excerpt: "Scotland Yard’s first operational deployment of facial recognition cameras has been described as a failure after it did not spot a single suspect after hours spent scanning thousands of people. The country’s biggest police force was accused of wasting taxpayers’ money at the expense of civil liberties after it emerged that earlier this ..."
-    publishedDateTime: 2020-02-20T17:33:00Z
-    webUrl: "https://www.thetimes.co.uk/article/facial-recognition-cameras-scan-4-600-faces-but-dont-find-a-single-crook-jltfrtlcn"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 38
+      name: New York Post
+      domain: nypost.com
+    quality: 37
     images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F4a5770c6-53f1-11ea-b4ee-385bb4c8d255.jpg?crop=2742%2C1543%2C616%2C465&resize=685"
-        width: 685
-        height: 385
-  - title: "OTHER VOICES: Facial-recognition software produces concerns"
-    excerpt: "Law enforcers around the world are celebrating the rapidly expanding potential of facial-recognition software to help them catch criminals faster and solve long-dormant cases. Such capabilities in the right hands could reap enormous public-safety dividends. But in the wrong hands, an entirely new dimension in crime, extortion and mayhem could ..."
-    publishedDateTime: 2020-02-19T06:00:00Z
-    webUrl: "https://siouxcityjournal.com/other-voices-facial-recognition-software-produces-concerns/article_564dad32-9a2e-55f9-bd6d-6d90a63edb8b.html"
+      - url: "https://thenypost.files.wordpress.com/2020/02/chinese-city-rolls-out-facial-recognition-thermometers-on-buses.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+  - title: "Edmonton police unveil details on use of facial recognition technology"
+    excerpt: "City police revealed details on Wednesday for plans to implement facial recognition technology to match suspects from crime scenes with known offenders. Internal discussions began a couple of years ago to use the technology and have ramped up in the last couple of months, said Warren Driechel, superintendent of the Edmonton police informatics ..."
+    publishedDateTime: 2020-02-20T01:16:00Z
+    webUrl: "https://edmontonjournal.com/news/local-news/edmonton-police-unveil-details-on-use-of-facial-recognition-technology"
     type: article
     provider:
-      name: Sioux City Journal
-      domain: siouxcityjournal.com
-    quality: 24
+      name: Edmonton Journal
+      domain: edmontonjournal.com
+    quality: 34
+  - title: "Police roll out controversial live facial recognition technology at Oxford Circus"
+    excerpt: "Scotland Yard has installed controversial facial recognition technology at Oxford Circus. The cameras were spotted mounted on vans in the area, one of the busiest in London, this morning. One dark blue van was captured in a picture posted by UK civil liberties group Big Brother Watch next to a sign reading: \"Police live facial recognition in use.\""
+    publishedDateTime: 2020-02-20T16:46:00Z
+    webUrl: "https://www.standard.co.uk/news/london/police-roll-out-controversial-live-facial-recognition-technology-at-oxford-circus-a4367416.html"
+    type: article
+    provider:
+      name: London Evening Standard
+      domain: standard.co.uk
+    quality: 34
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/siouxcityjournal.com/content/tncms/custom/image/55280824-bc85-11e5-a21a-ff9109e609b3.jpg"
-        width: 654
-        height: 625
-  - title: "Let’s face the facts: To ensure our digital rights, we must hit pause on facial-recognition technology"
-    excerpt: "Like a growing number of political activists and citizens, the organizers were concerned about the increasing use by autocratic governments of facial-recognition technology, so volunteers covered their faces and used pseudonyms. The organization’s executive director still received a threatening call to her hotel room. The event, however ..."
-    publishedDateTime: 2020-02-14T17:55:00Z
-    webUrl: "https://www.theglobeandmail.com/opinion/article-lets-face-the-facts-to-ensure-our-digital-rights-we-must-hit-pause/"
-    ampWebUrl: "https://www.theglobeandmail.com/amp/opinion/article-lets-face-the-facts-to-ensure-our-digital-rights-we-must-hit-pause/"
-    cdnAmpWebUrl: "https://www-theglobeandmail-com.cdn.ampproject.org/c/s/www.theglobeandmail.com/amp/opinion/article-lets-face-the-facts-to-ensure-our-digital-rights-we-must-hit-pause/"
+      - url: "https://static.standard.co.uk/s3fs-public/thumbnails/image/2018/03/21/09/poetry-london-underground.jpg"
+        width: 1500
+        height: 1000
+  - title: "Privacy commissioners launch investigation into facial recognition technology tested by Toronto police, other GTA forces"
+    excerpt: "Federal and provincial regulators are launching an investigation into whether Clearview AI, the company that makes facial recognition technology used by at least four Ontario police forces, breaks Canadian privacy laws. The investigation was initiated ..."
+    publishedDateTime: 2020-02-21T16:52:00Z
+    webUrl: "https://www.thestar.com/news/gta/2020/02/20/privacy-commissioners-launch-investigation-into-facial-recognition-technology-tested-by-toronto-police-other-gta-forces.html"
+    ampWebUrl: "https://www.thestar.com/amp/news/gta/2020/02/20/privacy-commissioners-launch-investigation-into-facial-recognition-technology-tested-by-toronto-police-other-gta-forces.html"
+    cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/news/gta/2020/02/20/privacy-commissioners-launch-investigation-into-facial-recognition-technology-tested-by-toronto-police-other-gta-forces.html"
     type: article
     provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 8
+      name: The Star
+      domain: thestar.com
+    quality: 34
+    images:
+      - url: "https://images.thestar.com/VCnTmwymLnbBmkLF_tK-THOX3fM=/1200x800/smart/filters:cb(1582302710274)/https://www.thestar.com/content/dam/thestar/news/gta/2020/02/20/privacy-commissioners-launch-investigation-into-facial-recognition-technology-tested-by-toronto-police-other-gta-forces/clearview_ai.jpg"
+        width: 1200
+        height: 800
+  - title: "Watch: Edmonton police give update on facial recognition technology"
+    excerpt: "Warren Driechel, superintendent of the Edmonton police informatics division, and Devin Laforce, superintendent of the Edmonton police investigative support, provided an update Wednesday on a project assessing and engaging in a facial recognition solution for the police service. The technology hasn’t been implemented yet as EPS is still ..."
+    publishedDateTime: 2020-02-20T01:38:00Z
+    webUrl: "https://edmontonjournal.com/news/local-news/watch-edmonton-police-update-on-facial-recognition-technology"
+    type: article
+    provider:
+      name: Edmonton Journal
+      domain: edmontonjournal.com
+    quality: 19
+  - title: "Met police deploy facial recognition technology in central London"
+    excerpt: "Metropolitan Police have deployed facial recognition technology in central London with just two hours’ notice, alarming citizens. Just across from the Microsoft store on London’s Regent ..."
+    publishedDateTime: 2020-02-21T10:26:00Z
+    webUrl: "https://tribune.com.pk/story/2161493/8-london-police-deploy-facial-recognition-technology-oxford-circus/"
+    type: article
+    provider:
+      name: The Express Tribune
+      domain: tribune.com.pk
+    quality: 19
 
 secured: "NSD9O/DKsDG6D8CAqElbGp1AEEyR5bmO23M6ob4QOnq326JupGxYR/kuPZGCY9U0Yq5YkNtcHUcH7cPDZLd78AwybgYBsT38TeEZUrjXS2cRN8/HhMGMEr3wdwEIESIYv00TqYou0rB7DY2/kCzgs5EPGU76OniYyPrk4yMesr25hfaP8fmg4w6jTLwUa0a8xri3/u7DnSnQQBLsbyq5ErBTcz3YayOiuTJLlnwvI3QM6Bng2x5bWGE/SReTqjuW4hbGaLsowMwCue0daGIAfNZM2sU0FjqZdsPKcfYlqQ4iBsVzmkPnJFSuxxs6UlnRKLqjyC6L530Qhf+yG5dNAl/nBnruOnk9vsutCVqe5LNJK3IxNvXV7W1XiKN932Tmk5scEDqK3qV5WGelR4mVDrYhGCgsZHD/2il5iYzbW/VAxBiR16nfKljnWmlnZx9VyUbnaLFrT/QCutCU9je43VNwsCNoD7aa+vSSyo/9or8=;nXFIauaAAHGuZvTtO0Mh2g=="
 ---

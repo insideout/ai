@@ -33,21 +33,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/07/blockchain_database-e1573158651295.jpg?fit=1200%2C600&strip=all"
         width: 1200
         height: 600
-  - title: "Here comes a chip designed for AI, 5G era"
-    excerpt: "It is going to power the upcoming Mi 10 smartphone from the Xiaomi stable. The chip takes less power yet offer faster data access speeds. DDR5 DRAM or Double Data Rate 5 Dynamic Random-Access Memory, will accelerate enablement of 5G and AI applications,” Raj Talluri, Senior Vice-President and General Manager (Mobile Business Unit) of Micron ..."
-    publishedDateTime: 2020-02-07T04:06:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/here-comes-a-chip-designed-for-ai-5g-era/article30759113.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/here-comes-a-chip-designed-for-ai-5g-era/article30759113.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/here-comes-a-chip-designed-for-ai-5g-era/article30759113.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 74
-    images:
-      - url: "https://www.thehindubusinessline.com/opinion/7xd79r/article29214263.ece/ALTERNATES/LANDSCAPE_615/BL22THINKGP2"
-        width: 615
-        height: 384
   - title: "TRIPLE-1 unveils AI processor ‘GOKU’ for deep learning"
     excerpt: "KUALA LUMPUR, Feb 7 -- TRIPLE-1 Inc, based in Fukuoka, south-western Japan has announced the development of the AI processor ‘GOKU’ for deep learning that uses the world’s cutting-edge 5-nanometer process. ‘GOKU’ has 10 times higher power efficiency than the conventional process, according to a statement. It utilises core know-how ..."
     publishedDateTime: 2020-02-07T08:59:00Z
