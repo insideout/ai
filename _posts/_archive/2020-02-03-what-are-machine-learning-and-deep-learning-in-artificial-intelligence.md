@@ -7,7 +7,7 @@ webUrl: "https://www.thewindowsclub.com/machine-learning-deep-learning-artificia
 ampWebUrl: "https://www.thewindowsclub.com/machine-learning-deep-learning-artificial-intelligence/amp"
 cdnAmpWebUrl: "https://www-thewindowsclub-com.cdn.ampproject.org/c/s/www.thewindowsclub.com/machine-learning-deep-learning-artificial-intelligence/amp"
 type: article
-quality: 69
+quality: 89
 heat: -1
 published: false
 
@@ -18,6 +18,12 @@ provider:
 topics:
   - AI
   - Machine Learning
+
+images:
+  - url: "https://thewindowsclub-thewindowsclubco.netdna-ssl.com/wp-content/uploads/2020/01/aivsmlvsdl.png"
+    width: 412
+    height: 338
+    title: "What are Machine Learning and Deep Learning in Artificial Intelligence"
 
 related:
   - title: "AI And The Ghost In The Machine"
@@ -141,6 +147,6 @@ related:
       domain: roboticstomorrow.com
     quality: 4
 
-secured: "j5bpV1yDNwcV3ItNuhebzwyltY4efF/c6UnhR7TZK5oEY1MIgv7b2Ia58v4WMYdovfa86Wq6frmqbNO+aI4BSrrFCXQ5qjqvPl2dZDrPxFAKgYfcW9dr3+Fa/kaWrWm0dqNsbCBncUUwViMYpmVh2N2ThBZS1vxPcVsyyT0lpBbMZaOt9l8i0oTL2RnmhrVePfBggIJ4jPRRgAjkNVj1RE+4Ar4cRTIEkQuocqUkuDNfQocnqQDXxvlk53UjBza+xXeDIIt+cff4atGuTHHgwbkhYdvlsi6umhZtt3/fsOjG9hFSEMJ5nKRHhh5JzUvw;l4ulhhDOfUQ0pfnDvLTPaQ=="
+secured: "+OsjnueBm/S2P9mQFoqE2x1FjGL8YZmxxtRjonkCY2SflH048zdhl4o8y0vfk/Qm/vjM56zI6rvkq0MalpLxeYUeY2nBTQhSU/S/R77JxrLRT5SkSMGY60nmR4x9RNzPpeCnYKThWJ1Z6gkzPhNrZjceTZwovGiJ7/924Mmz+Q373Qp6chYuyZpURmpFsx8sZfoQhCnmDzbqwVpYeOD8W9lj19C0P7jxCgNgBSqeRDVsLTWFXjj5qqaUJQzruUP/8iX26OaL6ORTHTEYOKpJWP24rJ7xsH+Wvslqg1z4sV6zkmnY3w8s6VflPsK12rmk;BhZG4K0vmoHyqo4Sw2V75A=="
 ---
 

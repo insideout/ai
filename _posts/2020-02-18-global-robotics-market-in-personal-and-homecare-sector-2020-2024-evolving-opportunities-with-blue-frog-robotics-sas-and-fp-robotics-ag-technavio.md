@@ -137,6 +137,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 16
+  - title: "Global AI in Social Media market Strategies and Insight Driven Transformation 2019-2025"
+    excerpt: "\"AI in Social Media market: by By Technology (Deep Learning & Machine Learning, Natural language processing (NLP)), By Component (Solutions, Services), By Application (Customer Experience Management, Predictive Risk Assessment and Sales & Marketing) By End-User(BFSI, Education, Media and Advertising, Retail and Ecommerce, Public Utilities ..."
+    publishedDateTime: 2020-02-21T11:53:00Z
+    webUrl: "https://www.openpr.com/news/1941008/global-ai-in-social-media-market-strategies-and-insight-driven"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 11
   - title: "Mantra Labs Announces New Report Addressing Insurance Challenges, Solutions & Ripe Investment Opportunities in AI in 2020"
     excerpt: "“The State of AI in Insurance 2020” is Mantra Labs Point of View (POV ... The company also has strategic technology partnerships with MongoDB, IBM Watson, Nvidia, and Microsoft Azure."
     publishedDateTime: 2020-02-13T08:06:00Z

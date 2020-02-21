@@ -144,6 +144,15 @@ related:
       - url: "https://mms.businesswire.com/media/20200218005781/en/774126/4/Global_Robotics_Market_in_Personal_and_Homecare_Sector_2020-2024.jpg"
         width: 480
         height: 271
+  - title: "Global AI in Social Media market Strategies and Insight Driven Transformation 2019-2025"
+    excerpt: "\"AI in Social Media market: by By Technology (Deep Learning & Machine Learning, Natural language processing (NLP)), By Component (Solutions, Services), By Application (Customer Experience Management, Predictive Risk Assessment and Sales & Marketing) By End-User(BFSI, Education, Media and Advertising, Retail and Ecommerce, Public Utilities ..."
+    publishedDateTime: 2020-02-21T11:53:00Z
+    webUrl: "https://www.openpr.com/news/1941008/global-ai-in-social-media-market-strategies-and-insight-driven"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 11
 
 secured: "9PIxeZqURvn72+zOv8NVMdXdYFRPVTeNpXWHWxmgsd8ENbZ3WRzZnU5EPS/FLkoZBjhdxlRraff6NKSW8MPheYw1kXwR0moNVIC7pe98VumARBdy7uepj1Q4uaV0+IyJZA/9L6TYmMfBhQXnCFgpiuflsUaq5McK+TVI98OvT7wle/fDF/bW2Bl9scjuB9cMrVbAZXpd68PO0aB7bXkqHgLBARte7IozH2wS5l5ZhCAtfGPasqHNxLp2WYih0EyrUlYmCSAb5uHEA+mutfjA0Leqxl3DUUubZ3ybbp9tE0XU6tbaSCTyNfeeNwR1ZJ2w;P3eILnurKDUhXf2aYUGWdg=="
 ---

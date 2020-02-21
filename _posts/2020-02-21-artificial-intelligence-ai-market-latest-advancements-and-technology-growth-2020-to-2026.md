@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-21T07:52:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-latest-advancements-and-technology-growth-2020-to-2026-2020-02-21"
 type: article
 quality: 74
-heat: 184
+heat: 194
 published: true
 
 provider:
@@ -89,6 +89,19 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence in Healthcare Market 2020| Latest Report Analysis, Global Trends, Share, Opportunities And Forecast To 2026"
+    excerpt: "Artificial Intelligence in Healthcare Market report offers an in-depth analysis of various factors promoting and demoting the growth of the market during the mentioned forecast period. The information provided in the report is gathered from primary and secondary research methods The rising demand for time-efficient artificial intelligence systems for resolving complex medical conditions is driving the global “artificial intelligence in healthcare” market says Fortune business Insights in a report,"
+    publishedDateTime: 2020-02-21T12:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2020-latest-report-analysis-global-trends-share-opportunities-and-forecast-to-2026-2020-02-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

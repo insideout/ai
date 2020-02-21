@@ -71,6 +71,21 @@ related:
       - url: "https://sm.mashable.com/t/mashable_in/image/u/us-politic/us-politicians-can-now-pay-for-sponsored-content-on-facebook_ndjn.620.png"
         width: 620
         height: 348
+  - title: "Facebook will pay users for submitting their voice recordings"
+    excerpt: "It’s a way to improve speech recognition systems, but many customers were angry at not being informed. Qualifying users will have to record the phrase “Hey Portal,” followed by the first name of a friend from their friends list. They’ll be able to repeat this with the names of up to ten friends, and they have to record each statement ..."
+    publishedDateTime: 2020-02-21T12:58:00Z
+    webUrl: "https://www.techspot.com/news/84112-facebook-pay-users-submitting-their-voice-recordings.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/84112-facebook-pay-users-submitting-their-voice-recordings.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/84112-facebook-pay-users-submitting-their-voice-recordings.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 74
+    images:
+      - url: "https://static.techspot.com/images2/news/ts3_thumbs/2020/02/2020-02-21-ts3_thumbs-1fe.jpg"
+        width: 800
+        height: 560
   - title: "Facebook will pay users to improve its speech recognition"
     excerpt: "Last year, Facebook abandoned its practice of listening to Messenger audio chats in order to improve its AI speech recognition. Now ... The Verge reports that selected users will be asked to record short phrases via its Viewpoints market research app. If you qualify, you’ll have all the fun of saying “Hey Portal” and then the name ..."
     publishedDateTime: 2020-02-21T09:07:00Z
@@ -194,6 +209,21 @@ related:
       - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2020%2F02%2Ffacebook-pay-users-for-voice-recordings-001.jpg?quality=95&w=1170&cbr=1&q=90&fit=max"
         width: 1170
         height: 781
+  - title: "Facebook will PAY you for your voice recordings, but should you do it?"
+    excerpt: "Facebook is offering up to $5 for your voice recordings so its speech recognition technology can improve. According to The Verge, those who qualify to be part of Pronunciations will be asked to record the phrase “Hey Portal” (AKA the name for Facebook's hardware division) followed by the first name of someone on your Facebook friends list."
+    publishedDateTime: 2020-02-21T12:25:00Z
+    webUrl: "https://www.tomsguide.com/news/facebook-will-pay-you-dollar5-for-your-voice-recordings-but-should-you-do-it"
+    ampWebUrl: "https://www.tomsguide.com/amp/news/facebook-will-pay-you-dollar5-for-your-voice-recordings-but-should-you-do-it"
+    cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/news/facebook-will-pay-you-dollar5-for-your-voice-recordings-but-should-you-do-it"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 44
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/Zppqju29nmtX5AdWz3eHoD-1200-80.jpg"
+        width: 1000
+        height: 600
   - title: "Facebook is willing to pay users for just recording audio for voice recognition"
     excerpt: "San Francisco: Facebook has announced it will pay select users who agree to record their voice to improve its speech recognition technology. According to The Verge, the social networking giant company will pay select users to record snippets of audio through a new programme called \"Pronunciations\" in its Viewpoints market research app."
     publishedDateTime: 2020-02-21T07:07:00Z

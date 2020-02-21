@@ -17,6 +17,17 @@ topics:
   - AI
   - Machine Learning
 
+related:
+  - title: "Artificial Intelligence in the Global BFSI Industry, 2019-2026 - Expected to Witness a CAGR of 38% During the Forecast Period"
+    excerpt: "Dublin, Feb. 21, 2020 (GLOBE NEWSWIRE) -- The \"Artificial Intelligence in BFSI Market by Offerings Solution Technology: Global Opportunity Analysis and Industry Forecast, 2019-2026\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2020-02-21T12:23:00Z
+    webUrl: "https://www.globenewswire.com/news-release/2020/02/21/1988577/0/en/Artificial-Intelligence-in-the-Global-BFSI-Industry-2019-2026-Expected-to-Witness-a-CAGR-of-38-During-the-Forecast-Period.html"
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 0
+
 secured: "Fd+SbI/eRZpE4K3u8pk4IR7B6e1LyJnTc6ND3bWbPfXQxCp2mI+ddFySMRNpH7MbIYqupNqxzEwKXdv8b4+/mkSsmLTwqAhsWPHio1u6DKfujJDIWUceH8BzrzSEeTzwoInd75tUstTNAUPEYC85BFn7gWL5JPJxb7x2YiGPtZu8wWSfM8mRfHJtcMbAzaqFvWkvZ8wd1bd4H4pwlQeYGeN5yGW4wXe/XEKd1hy+UFrhJZwphiuSDQgEtB85OxO218o7QoT2zUIFJ7coroPuJqNSz6hYC/oRbFFAp7xk3d0iTiWErWJpDp45SChkvL1xb5k3v6qlJB8CYpjUXu9jPGsh5VUQKOpmqi2spH+QOslZDKU00iY6UZQWUWPTvZ9GD0M9M6crfz+pKu8IHIePLMBBVMmVaeALXqqWJTETXVa54XhWQ9YIg6D+wcrm0ovoPaA0lBA/RRh62zHA1Jn6/zvFMOhhUF0CWyHU5PiOOWQ=;2X+/Pkq0VmfphBgzDnRibg=="
 ---
 

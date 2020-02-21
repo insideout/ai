@@ -17,6 +17,6 @@ topics:
   - AI
   - Microsoft AI
 
-secured: "9nCZfIeXNw5Q91x+KIg/nWNMH1hiGsizvaRBOq9wTo2JHBVwsbDEXsI9sy/3f59781JDzHDEMWdVKezoQ/h8GU/nJghcCh1K2glnFoFqCDKoLzubS0bNVwHdU2/meQfDELioO+Qdrm0/QqkSNEm9f6OhGrZooCoM/WsSlIYbj9c5cCFnbk+kRlN6IoM2lpgSBtcQ3swJn4+lF2c/MCmUzT5RgH/VZVdodiUS/YlCWB9b9RYYynEDWwqN5ya7VO4lEEWmVMyr4FciQcjHDie4ER6uO2MoWkqqpxdNWXU2JGQ6clKr9othLzKzTklVef/j;L8xMHPmzlqHuv0lILyXtfg=="
+secured: "wuJPyO8MNAf5miuP+BEAab6LzdsHtMGT1VCCon84cr3zArt4FhXUjgiDuyRP8grv5cYsvSQo8+rzv+ZH4RpFmFTXBYRY3vM8a/ViXUXMTqApmDIPTMTtnua6+GWQ6kp7qOXTSrDKrYJy4SZbsAE8VbAfy/imhHWeetG0v31w92CdyCUEsBYPhXbOPy8AthTfkKo6qEoYevBgkIFOWzL+Pn2KOtyCPkOurzNy+n0Nc9M0ZDXaLcn03GMuPY9NnpLxrocaW6dEbswrutRU+U2KgCruuvH8cXydsIZPda60yLrMCg3RtcR3VUIhn21u8Vf5;VRzp/f8qoj3txLKg8KQyRw=="
 ---
 

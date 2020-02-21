@@ -3,7 +3,7 @@ category: news
 title: "London Police Just Turned On Facial Recognition In One Of The World’s Busiest Shopping Districts"
 excerpt: "Just across from the Microsoft store on London’s Regent Street, and just outside the entrance to the Oxford Circus tube station, cameras atop dark blue police vans are watching passersby. London's Metropolitan Police says the rollout of the \"live\" facial recognition across the British capital would reduce serious crime,"
 publishedDateTime: 2020-02-20T14:49:00Z
-webUrl: "https://www.forbes.com/sites/thomasbrewster/2020/02/20/london-police-just-turned-on-facial-recognition-in-one-of-the-worlds-busiest-shopping-districts/"
+webUrl: "https://www.forbes.com/sites/thomasbrewster/2020/02/20/london-police-just-turned-on-facial-recognition-in-one-of-the-worlds-busiest-shopping-districts"
 ampWebUrl: "https://www.forbes.com/sites/thomasbrewster/2020/02/20/london-police-just-turned-on-facial-recognition-in-one-of-the-worlds-busiest-shopping-districts/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/thomasbrewster/2020/02/20/london-police-just-turned-on-facial-recognition-in-one-of-the-worlds-busiest-shopping-districts/amp/"
 type: article
@@ -174,6 +174,6 @@ related:
       domain: tribune.com.pk
     quality: 19
 
-secured: "nKw2cVQ5+Q1tbnnhNTynlFqRA6DAzl1M9b/Ay1D2RrHF3Oz68E+zmTqfBP21jzFdRGVyBM4ZJbbiUNKb2Ub6HI6MwnUtanXlMbZUyMajZb7jn31QLyRxmz0USGDU6qEjAmDQcB7TX2ljaq5XqIpE4cbSjocFZasiyUWe8dkkFCmXApJ6fRvFlxhC8ZgGvVU1EsBD8IOPCITK6Khkjbnm8pVduDI4ZsP8InF3BCDmp7ZRo8ScXfx/uSDbT2oeVPbdeM0JlgYnPYy8s2kEwS1HZKtlK+oEsrEG9S6xzpyYPFLwtjjZQrgFoglaMDENE2TyAX1z7r/u0uoUpjUVfjLsGd74Pku57xWMg55hbh1Ob0A8N3tfHJMtrepsezQuPEjVgNXVqAZo69aOrccOKebDvBAPro8hJq+996CwNbtCUKHLEa0tAEypJU5ZVvwwinYRXzFzbA6BiQBAtcIQgQY9MxspNASeo1UhKkxF82IIgJQ=;yeiCR4DkwGY8f7C9m74Qcw=="
+secured: "8Nj7bAXIVABNYwOVjPuytvBEzJTyj0RSSanw87CsZzD0EbQV8nEiJdwe2EHmK2JqvnyTfNTkZxYrzkuhMt1yWIk+Az7vMh3jsjPzeZpWiDm/6ASpJn5PxX0cEgEgkxAeJ48VR2VxkUo44wdgyGy0zGCP7v3ROQoBsoGfb2EA56XMdoSXODe1W1SOwrySpP8bNURQhTScSsJZpHwzscCHKJgbvFDntCOJbmPhkYXM8eSSDrT5iMI6vCNbs4iIPWwx3nzEsRiOZADWQyyss8+l83pc2ALXvV4Ut5LuYYuj4Zz7Abkhydds8L0DQbujEhsj;RrZhUmxzNOG0rh8/M1DMPA=="
 ---
 
