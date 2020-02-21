@@ -66,6 +66,21 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F7bf31b7c-533c-11ea-8841-482eed0038b1?source=google-amp&fit=scale-down&width=500"
         width: 500
         height: 281
+  - title: "Artificial Intelligence Finds A Powerful New Antibiotic For The First Time"
+    excerpt: "Artificial intelligence (AI) has proved to be a useful ally in the battle against antibiotic resistance. A powerful antibiotic that’s even able to kill superbugs has been discovered thanks to a machine-learning algorithm Researchers from MIT used a novel computer algorithm to sift through a vast digital archive of over 100 million chemical ..."
+    publishedDateTime: 2020-02-21T12:57:00Z
+    webUrl: "https://www.iflscience.com/health-and-medicine/artificial-intelligence-finds-a-powerful-new-antibiotic-for-the-first-time/"
+    ampWebUrl: "https://amp.iflscience.com/health-and-medicine/artificial-intelligence-finds-a-powerful-new-antibiotic-for-the-first-time/"
+    cdnAmpWebUrl: "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/health-and-medicine/artificial-intelligence-finds-a-powerful-new-antibiotic-for-the-first-time/"
+    type: article
+    provider:
+      name: IFLScience
+      domain: iflscience.com
+    quality: 55
+    images:
+      - url: "https://cdn.iflscience.com/images/b8c230b6-a3ea-5854-9482-5d6e99b6c372/default-1582285414-cover-image.jpg"
+        width: 720
+        height: 405
   - title: "Artificial Intelligence brings a novel antibiotic compound"
     excerpt: "Researchers from the Massachusetts Institute of Technology (MIT) have made a scientific breakthrough where their machine-learning algorithm or Artificial Intelligence (AI) program successfully created a novel antibiotic compound. The drug has since then been tested on deadly bacteria in the lab, and in lab mice with a considerable amount of ..."
     publishedDateTime: 2020-02-21T00:44:00Z

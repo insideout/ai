@@ -2,140 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_posts/2020-02-20-jpeg-committee-is-banking-on-ai-to-build-its-next-image-codec.md",
-      "title": "JPEG committee is banking on AI to build its next image codec",
-      "excerpt": "Joint Photographic Experts Group (JPEG), a committee that maintains various JPEG image-related standards, has started exploring a way to involve AI to build a new compression standard.",
-      "heat": 187,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/02/20/jpeg-committee-is-banking-on-ai-to-build-its-next-image-codec/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/02/20/jpeg-committee-is-banking-on-ai-to-build-its-next-image-codec/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/20/jpeg-committee-is-banking-on-ai-to-build-its-next-image-codec/amp/",
-      "publishedDateTime": "2020-02-20T03:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/MIT-Model.jpg",
-          "width": 739,
-          "height": 390,
-          "title": "JPEG committee is banking on AI to build its next image codec",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-20-london-police-just-turned-on-facial-recognition-in-one-of-the-worlds-busiest-shopping-districts.md",
-      "title": "London Police Just Turned On Facial Recognition In One Of The World’s Busiest Shopping Districts",
-      "excerpt": "Just across from the Microsoft store on London’s Regent Street, and just outside the entrance to the Oxford Circus tube station, cameras atop dark blue police vans are watching passersby. London's Metropolitan Police says the rollout of the \"live\" facial recognition across the British capital would reduce serious crime,",
-      "heat": 186,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/thomasbrewster/2020/02/20/london-police-just-turned-on-facial-recognition-in-one-of-the-worlds-busiest-shopping-districts",
-      "ampWebUrl": "https://www.forbes.com/sites/thomasbrewster/2020/02/20/london-police-just-turned-on-facial-recognition-in-one-of-the-worlds-busiest-shopping-districts/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/thomasbrewster/2020/02/20/london-police-just-turned-on-facial-recognition-in-one-of-the-worlds-busiest-shopping-districts/amp/",
-      "publishedDateTime": "2020-02-20T06:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e4e88d0765d4500072cc76a%2F0x0.jpg",
-          "width": 1200,
-          "height": 794,
-          "title": "London Police Just Turned On Facial Recognition In One Of The World’s Busiest Shopping Districts",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-20-mass-adoption-of-ai-in-financial-services-expected-within-two-years.md",
-      "title": "Mass Adoption Of AI In Financial Services Expected Within Two Years",
-      "excerpt": "A significant number of financial industry executives from 151 financial institutions in 33 countries recently reported that within the next two years they expect to become mass adopters of AI and expect AI to become an essential business driver across the financial industry.",
-      "heat": 90,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/20/mass-adoption-of-ai-in-financial-services-expected-within-two-years/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/20/mass-adoption-of-ai-in-financial-services-expected-within-two-years/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/02/20/mass-adoption-of-ai-in-financial-services-expected-within-two-years/amp/",
-      "publishedDateTime": "2020-02-20T11:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e4edaa7de40290007718aea%2F0x0.jpg",
-          "width": 1200,
-          "height": 582,
-          "title": "Mass Adoption Of AI In Financial Services Expected Within Two Years",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
       "path": "_posts/2020-02-20-met-polices-first-facial-recognition-cameras-spot-no-offenders-and-are-branded-a-failure.md",
       "title": "Met Police's first facial recognition cameras spot NO offenders and are branded a failure",
       "excerpt": "New police face recognition cameras have been branded a failure after spotting no suspects in hours of surveillance. The UK’s biggest force was accused of wasting taxpayer cash after the devices failed to find a single match despite scanning 4,600 ...",
@@ -900,14 +766,14 @@
     {
       "path": "_posts/2020-02-21-breakingviews-bank-of-englands-ai-approach-will-toughen-up.md",
       "title": "Breakingviews - Bank of England’s AI approach will toughen up",
-      "excerpt": "The Bank of England last year picked artificial-intelligence pioneer Alan Turing as the face of its new 50-pound note. It’s an apt choice given the central bank will quickly have to figure out how to ensure that the spread of smart robots throughout finance is a force for good rather than a destabilising influence.",
+      "excerpt": "There’s some evidence to support the thesis. AI models can be better at assessing creditworthiness than traditional ones, according to a recent Bank for International Settlements study that was based on data from a Chinese fintech firm. Because AI models can incorporate a range of data, such as phone-bill payments and other transactions ...",
       "heat": 104,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.reuters.com/article/us-artificial-intelligence-boe-breakingv-idUSKBN20F1IG",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN20F1IG",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN20F1IG",
-      "publishedDateTime": "2020-02-21T03:37:00-08:00",
+      "webUrl": "https://in.reuters.com/article/us-artificial-intelligence-boe-breakingv-idINKBN20F1IG",
+      "ampWebUrl": "https://in.mobile.reuters.com/article/amp/idINKBN20F1IG",
+      "cdnAmpWebUrl": "https://in-mobile-reuters-com.cdn.ampproject.org/c/s/in.mobile.reuters.com/article/amp/idINKBN20F1IG",
+      "publishedDateTime": "2020-02-21T05:03:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Reuters",
@@ -1077,6 +943,51 @@
       ]
     },
     {
+      "path": "_posts/2020-02-21-how-machine-learning-can-help-stamp-out-hiring-bias.md",
+      "title": "How Machine Learning Can Help Stamp Out Hiring Bias",
+      "excerpt": "But how do we check our unconscious biases when, by definition, we don't know what they are? A Seattle-based startup called Textio says it’s using machine learning to help eliminate those biases in real time, by literally changing the writing of hiring managers who are composing the job postings. This week on Gadget Lab, WIRED senior writer ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/gadget-lab-podcast-443/",
+      "ampWebUrl": "https://www.wired.com/story/gadget-lab-podcast-443/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/gadget-lab-podcast-443/amp",
+      "publishedDateTime": "2020-02-21T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5e4f21a5efbb670008f8c3aa/master/pass/GettyImages-1139487339.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": "How Machine Learning Can Help Stamp Out Hiring Bias",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_posts/2020-02-21-how-much-worth-natural-language-processing-market-will-generate-by-2026.md",
       "title": "How much Worth Natural Language Processing Market will Generate by 2026?",
       "excerpt": "Feb 21, 2020 (The Expresswire) -- Top Players in Natural Language Processing Market are 3M Company, Adobe Systems Inc., Amazon Web Services Inc., Apple Inc., Google (Alphabet Inc.), Hewlett-Packard Enterprise Company, Intel Corporation, International Business Machine (IBM) Corporation , Microsoft Corporation, SAS Institute Inc The overall ...",
@@ -1119,6 +1030,50 @@
       "topics": [
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-21-how-will-artificial-intelligence-change-the-commercial-real-estate-industry.md",
+      "title": "How Will Artificial Intelligence Change The Commercial Real Estate Industry?",
+      "excerpt": "Since the start of the industrial revolution, the world has seen skills shift in a way that has resulted in ever-changing jobs and newer skills required to keep pace with emerging technologies. According to McKinsey,",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbesrealestatecouncil/2020/02/21/how-will-artificial-intelligence-change-the-commercial-real-estate-industry/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesrealestatecouncil/2020/02/21/how-will-artificial-intelligence-change-the-commercial-real-estate-industry/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesrealestatecouncil/2020/02/21/how-will-artificial-intelligence-change-the-commercial-real-estate-industry/amp/",
+      "publishedDateTime": "2020-02-21T05:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1160370731/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 474,
+          "title": "How Will Artificial Intelligence Change The Commercial Real Estate Industry?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -1199,6 +1154,95 @@
           "width": 1200,
           "height": 577,
           "title": "The Amazing Ways Goodyear Uses Artificial Intelligence And IoT For Digital Transformation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-21-this-program-will-make-you-invisible-to-your-webcam.md",
+      "title": "This Program Will Make You Invisible (to Your Webcam)",
+      "excerpt": "“This is all happening in real time, in the browser, using TensorFlow.” TensorFlow is a Google-developed open source program used for machine learning and neural network applications. Disappearing People works by pulling the frames from a webcam, copying them, then scanning the copy for human features. If it sees something it identifies as ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.vice.com/en_us/article/4ag4km/this-program-will-make-you-invisible-to-your-webcam",
+      "ampWebUrl": "https://www.vice.com/amp/en_us/article/4ag4km/this-program-will-make-you-invisible-to-your-webcam",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/4ag4km/this-program-will-make-you-invisible-to-your-webcam",
+      "publishedDateTime": "2020-02-21T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://video-images.vice.com/test-uploads/articles/5e4f3c285ef24d009dc85222/lede/1582251394119-gault.jpeg?crop=0.6666666666666666xw%3A1xh%3Bcenter%2Ccenter&resize=2000%3A*",
+          "width": 2000,
+          "height": 1125,
+          "title": "This Program Will Make You Invisible (to Your Webcam)",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-21-three-ai-powered-jobs-for-non-techies.md",
+      "title": "Three AI-powered Jobs For Non-Techies",
+      "excerpt": "In a world where students are urged to study STEM subjects, the rise of AI may ironically increase the value we place on the skills gained by studying the humanities or the arts. In an AI-powered world,",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/21/three-ai-powered-jobs-for-non-techies/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/21/three-ai-powered-jobs-for-non-techies/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/21/three-ai-powered-jobs-for-non-techies/amp/",
+      "publishedDateTime": "2020-02-21T05:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/958841856/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 474,
+          "title": "Three AI-powered Jobs For Non-Techies",
           "attribution": null
         }
       ],
@@ -2063,51 +2107,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2019-12-21-what-is-natural-language-processing-nlp.md",
-      "title": "What is Natural Language Processing (NLP)?",
-      "excerpt": "Aristo found its answers from among billions of documents using natural language processing (NLP), a branch of computer science and artificial intelligence that enables computers to extract meaning from unstructured text. Though we're still a long way from ...",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.pcmag.com/article/372633/what-is-natural-language-processing-nlp",
-      "ampWebUrl": "https://www.pcmag.com/article/372633/what-is-natural-language-processing-nlp?amp=1",
-      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/article/372633/what-is-natural-language-processing-nlp?amp=1",
-      "publishedDateTime": "2019-12-21T04:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/02Bp7I29l1NFftRcxQQllxT-1.fit_lpad.size_1200x675.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "What is Natural Language Processing (NLP)?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

@@ -39,6 +39,21 @@ related:
       - url: "https://cnet1.cbsistatic.com/img/8k-lRQK2Dutoix3kDWRdfo1bBIc=/2020/02/06/26455c98-4cd8-44fa-a8b3-880df866df5c/ogi-nuro.jpg"
         width: 1200
         height: 630
+  - title: "Self-driving delivery van ditches 'human controls'"
+    excerpt: "The first self-driving vehicle designed without basic human controls such as steering wheels, pedals or side view mirrors has been granted permission to test on US roads. Nuro, the company behind the design, makes autonomous delivery vans. The vehicle is Nuro's second generation of its vehicles, which it is calling R2 and will be tested in ..."
+    publishedDateTime: 2020-02-06T23:45:00Z
+    webUrl: "https://www.bbc.com/news/technology-51409031"
+    ampWebUrl: "https://www.bbc.com/news/amp/technology-51409031"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51409031"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 74
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/13970/production/_110804208_screen-shot-2020-02-06-at-2_32_43-pm.png"
+        width: 1024
+        height: 576
   - title: "U.S. House panel to hold hearing on future of self-driving cars"
     excerpt: "A U.S. House panel will hold a hearing Tuesday on autonomous vehicles as lawmakers try to hammer out legislation to advance self-driving cars. An Energy and Commerce subcommittee overseeing automotive issues will hear from officials of trade groups representing automakers and tech companies,"
     publishedDateTime: 2020-02-07T20:50:00Z
@@ -125,6 +140,21 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 54
+  - title: "Self-driving car company Nuro wins federal safety approval for grocery delivery robot"
+    excerpt: "WASHINGTON — Delivery robot company Nuro won the first federal safety approval for a purpose-built self-driving vehicle, advancing the young company's plans to cart groceries around neighborhoods and marking a milestone for the autonomous vehicle industry. The approval indicates that federal regulators at the Department of Transportation ..."
+    publishedDateTime: 2020-02-09T10:11:00Z
+    webUrl: "https://www.swtimes.com/entertainmentlife/20200209/self-driving-car-company-nuro-wins-federal-safety-approval-for-grocery-delivery-robot"
+    ampWebUrl: "https://www.swtimes.com/entertainmentlife/20200209/self-driving-car-company-nuro-wins-federal-safety-approval-for-grocery-delivery-robot?template=ampart"
+    cdnAmpWebUrl: "https://www-swtimes-com.cdn.ampproject.org/c/s/www.swtimes.com/entertainmentlife/20200209/self-driving-car-company-nuro-wins-federal-safety-approval-for-grocery-delivery-robot?template=ampart"
+    type: article
+    provider:
+      name: Southwest Times Record
+      domain: swtimes.com
+    quality: 37
+    images:
+      - url: "https://www.swtimes.com/apps/pbcsi.dll/bilde?Site=AR&Date=20200209&Category=ENTERTAINMENTLIFE&ArtNo=200209775&Ref=AR"
+        width: 6720
+        height: 4480
   - title: "Feds break from policy, allow self-driving vehicle to bypass human-driver safety rules"
     excerpt: "DETROIT — For the first time, the U.S. government’s highway safety agency has approved a company’s request to deploy a self-driving vehicle that doesn’t need to meet the same federal safety standards for cars and trucks driven by humans. The National Highway Traffic Safety Administration granted temporary approval for Silicon Valley ..."
     publishedDateTime: 2020-02-06T23:59:00Z
@@ -149,19 +179,6 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 34
-  - title: "When can we buy self-driving vehicles? No one knows"
-    excerpt: "Recently, the U.S. Department of Transportation released its fourth edition of guidance for the introduction of automated vehicles. That must mean self-driving vehicles are coming soon, right? Yes. Well, no. Ummm, maybe? Over the past several years, there has been a lot of talk about self-driving vehicles. Whether it’s cars, trucks or both ..."
-    publishedDateTime: 2020-02-06T21:01:00Z
-    webUrl: "https://landline.media/when-can-we-buy-self-driving-vehicles-no-one-knows/"
-    type: article
-    provider:
-      name: Land Line
-      domain: landline.media
-    quality: 24
-    images:
-      - url: "https://landline.media/wp-content/uploads/2020/02/200206-AV-tech-blog.jpg"
-        width: 540
-        height: 420
   - title: "California allows Uber’s self-driving cars to get back on its roads"
     excerpt: "Nearly two years after a car from Uber’s autonomous fleet was involved in a deadly crash in the neighboring US state of Arizona, the Department of Motor Vehicles has granted a permit to the ride-hailing company to test its self-driving cars on public roads. Before the horrendous incident in Arizona, the multinational ride hailing giant was ..."
     publishedDateTime: 2020-02-07T14:43:00Z
@@ -225,19 +242,6 @@ related:
       - url: "https://newscdn.weigelbroadcasting.com/WEsd0-1581098470-157079-blog-hypatia-h_6c542cd4da989a321201ee0792ec843c-h_380deb702e8624c8a7d02bce596b8943.jpg"
         width: 3000
         height: 2000
-  - title: "A Self-Driving Delivery Vehicle Gets Green Light From Federal Highway Safety Agency"
-    excerpt: "The U.S. government's highway safety agency has approved a Bay Area company's request to exempt its self-driving delivery vehicle from federal safety rules governing human-driven cars and trucks. The approval for Mountain View-based Nuro marks the first time the National Highway Traffic Safety Administration has granted an exemption for an ..."
-    publishedDateTime: 2020-02-06T20:46:00Z
-    webUrl: "https://www.kqed.org/news/11800378/a-self-driving-delivery-vehicle-gets-green-light-from-federal-highway-safety-agency"
-    type: article
-    provider:
-      name: KQED
-      domain: kqed.org
-    quality: 18
-    images:
-      - url: "https://ww2.kqed.org/app/uploads/sites/10/2020/02/nuro2-e1581019013601.jpeg"
-        width: 1920
-        height: 1280
   - title: "Self-Driving Cars as Edge Computing Devices"
     excerpt: "Matt Ranney explains the architecture of Uber ATG’s self-driving cars and takes a look at how the software is developed, tested, and deployed. Jade Abbott discusses machine learning and the unexpected details of putting models in production besides just the code, model and infrastructure: DataOps, robustness and uncertainty tests, model drift ..."
     publishedDateTime: 2020-02-10T22:40:00Z

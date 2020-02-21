@@ -595,19 +595,6 @@ related:
       - url: "https://inews.co.uk/images-i.jpimedia.uk/imagefetch/https://inews.co.uk/wp-content/uploads/2020/02/Thumbnail-maker-91.jpg"
         width: 1200
         height: 630
-  - title: "European Parliament says no intention to deploy biometric facial recognition for MEP security"
-    excerpt: "The European parliament insists it will not roll out biometric facial recognition technology for access control in monitoring within parliament, after information leaked hinting the institution was looking into using it for security purposes, writes The Guardian. The Guardian further states that it reviewed an intranet page titled “artificial ..."
-    publishedDateTime: 2020-02-06T20:54:00Z
-    webUrl: "https://www.biometricupdate.com/202002/european-parliament-says-no-intention-to-deploy-biometric-facial-recognition-for-mep-security"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 28
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
-        width: 640
-        height: 260
   - title: "Artificial Intelligence and Facial Recognition Could Change How Vegas Casinos Work"
     excerpt: "The applications of AI into casinos and poker online could be massive. However, most industry experts agree that there is more value in incorporating facial recognition into the overall customer experience. For example, a facial recognition system can easily identify customers as they come in. Facial recognition tech installed on slot machines ..."
     publishedDateTime: 2020-02-11T16:13:00Z

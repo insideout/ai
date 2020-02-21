@@ -88,6 +88,21 @@ related:
       - url: "https://s3.amazonaws.com/spectrumnews-web-assets/wp-content/uploads/2020/02/17111237/20200218-PelphryMRI112011.jpg"
         width: 1120
         height: 550
+  - title: "Amazon sells facial recognition software to police all over the US, but has no idea how many departments are using it"
+    excerpt: "In addition to all those different businesses, Amazon also runs a major facial recognition service aptly named Amazon Rekognition. Rekognition — which Amazon says \"provides highly accurate facial analysis and facial search capabilities that you can use to detect, analyze, and compare faces for a wide variety of user verification, people ..."
+    publishedDateTime: 2020-02-21T13:57:00Z
+    webUrl: "https://www.businessinsider.com/amazon-rekognition-police-use-unknown-2020-2"
+    ampWebUrl: "https://www.businessinsider.com/amazon-rekognition-police-use-unknown-2020-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/amazon-rekognition-police-use-unknown-2020-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 68
+    images:
+      - url: "https://i.insider.com/5dea4655fd9db251244cbf43?width=1200&format=jpeg"
+        width: 1200
+        height: 600
   - title: "UCLA won’t use facial recognition on its campus after it receives backlash"
     excerpt: "UCLA was going to be the first university in the U.S. to use facial recognition, but backlash against the idea has caused the school to reverse course. Michael Black, UCLA’s administrative vice chancellor, wrote a letter to the digital rights group Fight for the Future on Wednesday, February 18, announcing the school’s decision to back out ..."
     publishedDateTime: 2020-02-19T22:24:00Z

@@ -97,6 +97,21 @@ related:
       - url: "https://s3.amazonaws.com/spectrumnews-web-assets/wp-content/uploads/2020/02/17111237/20200218-PelphryMRI112011.jpg"
         width: 1120
         height: 550
+  - title: "Amazon sells facial recognition software to police all over the US, but has no idea how many departments are using it"
+    excerpt: "In addition to all those different businesses, Amazon also runs a major facial recognition service aptly named Amazon Rekognition. Rekognition — which Amazon says \"provides highly accurate facial analysis and facial search capabilities that you can use to detect, analyze, and compare faces for a wide variety of user verification, people ..."
+    publishedDateTime: 2020-02-21T13:57:00Z
+    webUrl: "https://www.businessinsider.com/amazon-rekognition-police-use-unknown-2020-2"
+    ampWebUrl: "https://www.businessinsider.com/amazon-rekognition-police-use-unknown-2020-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/amazon-rekognition-police-use-unknown-2020-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 68
+    images:
+      - url: "https://i.insider.com/5dea4655fd9db251244cbf43?width=1200&format=jpeg"
+        width: 1200
+        height: 600
   - title: "Chino police and facial recognition technology: 5 things to know"
     excerpt: "The Chino Police Department held a forum on the use of the software and solicited feedback from the community."
     publishedDateTime: 2020-02-15T00:16:00Z

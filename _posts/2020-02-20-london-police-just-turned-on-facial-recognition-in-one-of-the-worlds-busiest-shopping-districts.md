@@ -3,7 +3,7 @@ category: news
 title: "London Police Just Turned On Facial Recognition In One Of The World’s Busiest Shopping Districts"
 excerpt: "Just across from the Microsoft store on London’s Regent Street, and just outside the entrance to the Oxford Circus tube station, cameras atop dark blue police vans are watching passersby. London's Metropolitan Police says the rollout of the \"live\" facial recognition across the British capital would reduce serious crime,"
 publishedDateTime: 2020-02-20T14:49:00Z
-webUrl: "https://www.forbes.com/sites/thomasbrewster/2020/02/20/london-police-just-turned-on-facial-recognition-in-one-of-the-worlds-busiest-shopping-districts"
+webUrl: "https://www.forbes.com/sites/thomasbrewster/2020/02/20/london-police-just-turned-on-facial-recognition-in-one-of-the-worlds-busiest-shopping-districts/"
 ampWebUrl: "https://www.forbes.com/sites/thomasbrewster/2020/02/20/london-police-just-turned-on-facial-recognition-in-one-of-the-worlds-busiest-shopping-districts/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/thomasbrewster/2020/02/20/london-police-just-turned-on-facial-recognition-in-one-of-the-worlds-busiest-shopping-districts/amp/"
 type: article
@@ -174,6 +174,6 @@ related:
       domain: tribune.com.pk
     quality: 19
 
-secured: "8Nj7bAXIVABNYwOVjPuytvBEzJTyj0RSSanw87CsZzD0EbQV8nEiJdwe2EHmK2JqvnyTfNTkZxYrzkuhMt1yWIk+Az7vMh3jsjPzeZpWiDm/6ASpJn5PxX0cEgEgkxAeJ48VR2VxkUo44wdgyGy0zGCP7v3ROQoBsoGfb2EA56XMdoSXODe1W1SOwrySpP8bNURQhTScSsJZpHwzscCHKJgbvFDntCOJbmPhkYXM8eSSDrT5iMI6vCNbs4iIPWwx3nzEsRiOZADWQyyss8+l83pc2ALXvV4Ut5LuYYuj4Zz7Abkhydds8L0DQbujEhsj;RrZhUmxzNOG0rh8/M1DMPA=="
+secured: "2NDZLgozs3IqxsnLI+kBXmfyU+rdvrKz3KoYC7XaJLOxwUWAsmuO05Tz3ssHN7oY8QRDht/3nvCOlAiplf/rXrGyYGFUlMDQcAr7vRkl9xLkgiFnCRUQT4YnZm64eZyi1aAV9v4Diiahw1MFJTWmYAigPtYQQshaUPWL6Fnmz0PhhYgEaLqLExjy+xZnw6+kXOCFuSOshFyNCmJ086cShbB4DH1XdZMUcmq+wpz+tAGeC4gA2lsFEN4UUNllHPpABm+0xLUmZ2xFz/ywXBO3l2Bo73RTCKYnZInzky8/em7R+NmA34tA+kW5KXkrWuI0;D74mUsizYswCg3ousfWk+g=="
 ---
 

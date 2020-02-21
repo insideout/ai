@@ -2,125 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_posts/2020-02-12-india-can-benefit-from-ai-machine-learning-chandra.md",
-      "title": "India can benefit from AI, machine learning: Chandra",
-      "excerpt": "Mumbai, Feb 12 () Tata Sons Chairman N Chandrasekaran on Tuesday said job losses due to technological growth is a bogey created by advanced nations, and emerging economies like India can benefit from aspects such as artificial intelligence and machine learning. Addressing tech industry chief executives at industry lobby Nasscom's annual event ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.in/business/news/india-can-benefit-from-ai-machine-learning-chandra/articleshow/74103826.cms",
-      "ampWebUrl": "https://www.businessinsider.in/business/news/india-can-benefit-from-ai-machine-learning-chandra/amp_articleshow/74103826.cms",
-      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/business/news/india-can-benefit-from-ai-machine-learning-chandra/amp_articleshow/74103826.cms",
-      "publishedDateTime": "2020-02-12T06:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider India",
-        "domain": "businessinsider.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.businessinsider.in/thumb/72107402.cms?height=275&width=412",
-          "width": 412,
-          "height": 275,
-          "title": "India can benefit from AI, machine learning: Chandra",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-12-lyft-touts-benefits-of-self-driving-cars-but-warns-of-second-order-effects.md",
-      "title": "Lyft touts benefits of self-driving cars, but warns of ‘second order’ effects",
-      "excerpt": "Autonomous cars will prove critical to the future of cities, according to Raj Kapoor, Lyft’s chief strategy officer and head of business for self-driving. But he added that riders may need to adjust their expectations and warned of unintended “second order” effects of the burgeoning driverless car industry. Kapoor was speaking at the Move ...",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/12/lyft-touts-benefits-of-self-driving-cars-but-warns-of-second-order-effects/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/12/lyft-touts-benefits-of-self-driving-cars-but-warns-of-second-order-effects/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/12/lyft-touts-benefits-of-self-driving-cars-but-warns-of-second-order-effects/amp/",
-      "publishedDateTime": "2020-02-12T02:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/Raj.jpg?fit=2286%2C1247&strip=all",
-          "width": 2286,
-          "height": 1247,
-          "title": "Lyft touts benefits of self-driving cars, but warns of ‘second order’ effects",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-12-met-police-try-to-calm-tensions-as-live-facial-recognition-hits-london.md",
-      "title": "Met Police try to calm tensions as live facial recognition hits London",
-      "excerpt": "This is the Met Police’s first live deployment of facial recognition technology in London, following 10 trials around the city since 2016 and months of public debate about the use of the controversial biometric software on the public. The rollout comes in the wake of similar deployments in countries including China, Brazil, India and Wales.",
-      "heat": 189,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.ft.com/content/db8bfc3c-4cf4-11ea-95a0-43d18ec715f5",
-      "ampWebUrl": "https://amp.ft.com/content/db8bfc3c-4cf4-11ea-95a0-43d18ec715f5",
-      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/db8bfc3c-4cf4-11ea-95a0-43d18ec715f5",
-      "publishedDateTime": "2020-02-11T20:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F104630ce-4cea-11ea-95a0-43d18ec715f5?source=google-amp&fit=scale-down&width=500",
-          "width": 500,
-          "height": 281,
-          "title": "Met Police try to calm tensions as live facial recognition hits London",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_posts/2020-02-12-milestone-systems-hosts-the-2020-milestone-integration-platform-symposium-mips-texas.md",
       "title": "Milestone Systems hosts the 2020 Milestone Integration Platform Symposium (MIPS), Texas",
       "excerpt": "“Each year we hear from an array of speakers that challenge our thinking about today’s technology and the new frontiers of tomorrow ... Canscan’s idea is the next-level shipping container checking system, powered by artificial intelligence (AI) called Virtual Checker. “Jennifer and her team have come up with an innovation that addresses ...",
@@ -940,7 +821,7 @@
       "path": "_posts/2020-02-13-facial-recognition-could-be-temporarily-banned-for-law-enforcement-use.md",
       "title": "Facial recognition could be temporarily banned for law enforcement use",
       "excerpt": "Senators have introduced a bill that would prohibit the technology for police use until guidelines and limitations are set. Law enforcement agencies could be temporarily banned from using facial recognition after Sens.",
-      "heat": 749,
+      "heat": 739,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.cnet.com/news/facial-recognition-could-be-temporarily-banned-for-law-enforcement-use/",
@@ -2132,6 +2013,141 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-14-new-facial-recognition-app-promises-to-solve-crimes-critics-say-it-means-end-of-privacy.md",
+      "title": "New facial recognition app promises to solve crimes, critics say it means end of privacy",
+      "excerpt": "A class action lawsuit filed Wednesday in New York federal court claims a breakthrough facial recognition technology designed for law enforcement use is illegally taking people’s biometric information without their consent. The lawsuit was filed by two individuals from Illinois who claim the company behind the technology, Clearview AI ...",
+      "heat": 150,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.foxnews.com/us/new-facial-recognition-app-promises-to-solve-crimes-critics-say-its-the-end-of-privacy",
+      "ampWebUrl": "https://www.foxnews.com/us/new-facial-recognition-app-promises-to-solve-crimes-critics-say-its-the-end-of-privacy.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/new-facial-recognition-app-promises-to-solve-crimes-critics-say-its-the-end-of-privacy.amp",
+      "publishedDateTime": "2020-02-14T06:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2019/08/bc4a043e-532521-microsoft-facial-recognition.jpg",
+          "width": 810,
+          "height": 456,
+          "title": "New facial recognition app promises to solve crimes, critics say it means end of privacy",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-14-nvidia-posts-killer-q4-earnings-driven-by-profitable-data-center-gpu-demand.md",
+      "title": "NVIDIA Posts Killer Q4 Earnings Driven By Profitable Data Center GPU Demand",
+      "excerpt": "Shares of Silicon Valley machine learning and gaming chip giant NVIDIA have spiked in early morning trading, as the company posted stellar fiscal Q4 results for the period ending in January 2020 after the bell yesterday.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/davealtavilla/2020/02/14/nvidia-posts-killer-q4-earnings-driven-by-profitable-data-center-gpu-demand/",
+      "ampWebUrl": "https://www.forbes.com/sites/davealtavilla/2020/02/14/nvidia-posts-killer-q4-earnings-driven-by-profitable-data-center-gpu-demand/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2020/02/14/nvidia-posts-killer-q4-earnings-driven-by-profitable-data-center-gpu-demand/amp/",
+      "publishedDateTime": "2020-02-14T08:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e46c0c3a854780006b15b3f%2F0x0.jpg",
+          "width": 900,
+          "height": 500,
+          "title": "NVIDIA Posts Killer Q4 Earnings Driven By Profitable Data Center GPU Demand",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-14-nvidia-shares-surge-on-signs-of-a-machine-learning-boom.md",
+      "title": "Nvidia shares surge on signs of a machine learning boom",
+      "excerpt": "Nvidia stunned analysts with strong quarterly results and joined rivals Intel and Advanced Micro Devices in predicting strong demand for chips used in data centers and A.I.",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/02/14/nvidia-nvda-earnings-q4-2020.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/02/14/nvidia-nvda-earnings-q4-2020.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/02/14/nvidia-nvda-earnings-q4-2020.html",
+      "publishedDateTime": "2020-02-14T06:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/105398954-1534357352806rts1xdsi.jpg?v=1534357453",
+          "width": 3846,
+          "height": 2564,
+          "title": "Nvidia shares surge on signs of a machine learning boom",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

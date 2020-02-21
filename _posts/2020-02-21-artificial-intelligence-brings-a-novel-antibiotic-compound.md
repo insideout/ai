@@ -73,6 +73,21 @@ related:
       - url: "https://e3.365dm.com/20/02/1600x900/skynews-e-coli-bacteria-antibiotics_4926241.jpg?20200221070106"
         width: 1600
         height: 900
+  - title: "Artificial Intelligence Finds A Powerful New Antibiotic For The First Time"
+    excerpt: "Artificial intelligence (AI) has proved to be a useful ally in the battle against antibiotic resistance. A powerful antibiotic that’s even able to kill superbugs has been discovered thanks to a machine-learning algorithm Researchers from MIT used a novel computer algorithm to sift through a vast digital archive of over 100 million chemical ..."
+    publishedDateTime: 2020-02-21T12:57:00Z
+    webUrl: "https://www.iflscience.com/health-and-medicine/artificial-intelligence-finds-a-powerful-new-antibiotic-for-the-first-time/"
+    ampWebUrl: "https://amp.iflscience.com/health-and-medicine/artificial-intelligence-finds-a-powerful-new-antibiotic-for-the-first-time/"
+    cdnAmpWebUrl: "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/health-and-medicine/artificial-intelligence-finds-a-powerful-new-antibiotic-for-the-first-time/"
+    type: article
+    provider:
+      name: IFLScience
+      domain: iflscience.com
+    quality: 55
+    images:
+      - url: "https://cdn.iflscience.com/images/b8c230b6-a3ea-5854-9482-5d6e99b6c372/default-1582285414-cover-image.jpg"
+        width: 720
+        height: 405
 
 secured: "m0W0AHO7Jv2W+txIH/nGEHaORofa+c4ahnnb0yVMunIs1jNrTorWn706NVQJ8Zi0oJ7ZjqiPfb8zkQa0u0xlLpxkgeBHxWykWoYu+9g2d8PXauJHxrvnQ6f8kk2lxozzg1G1Gq+RH7gQF4EceRAg0D51ODmTP8CjeM6cRUJvmyleRehm+dh1sr/nB2N7+spsF5AeNAXBZiYUggt2cAdCcOzdf27IHrEe4hl4We3UU8/NtAUWk9Lg2mt0GE8AskT8R/z7hTweUQgVT9x0j0G6DO4j9AVfqXjTbfIEjGFJo+7WRJ9fROofqGxHtl3EG4BB;bb7FVG7o4oArRZ5u1aTLtw=="
 ---

@@ -84,6 +84,21 @@ related:
       - url: "https://static.techspot.com/images2/news/ts3_thumbs/2020/02/2020-02-21-ts3_thumbs-1fe.jpg"
         width: 800
         height: 560
+  - title: "Facebook users to get paid for voice recordings; company wants to improve speech recognition"
+    excerpt: "In an attempt to improve its voice recognition technology, social media giant Facebook could pay users who agree to record their voice. The move comes after reports suggested that the company — along with Apple, Google, Microsoft, and Amazon — was caught listening to and transcribing voice recordings to improve its speech recognition ..."
+    publishedDateTime: 2020-02-21T13:38:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/facebook-users-to-get-paid-for-voice-recordings-company-wants-to-improve-speech-recognition-4965781.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/facebook-users-to-get-paid-for-voice-recordings-company-wants-to-improve-speech-recognition-4965781.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/facebook-users-to-get-paid-for-voice-recordings-company-wants-to-improve-speech-recognition-4965781.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 63
+    images:
+      - url: "https://static-news.moneycontrol.com/static-mcnews/2018/08/Uttar-Pradesh-Chief-Minister-Yogi-Adityanath-378x213.jpg"
+        width: 378
+        height: 213
   - title: "Facebook will pay users to improve its speech recognition"
     excerpt: "Last year, Facebook abandoned its practice of listening to Messenger audio chats in order to improve its AI speech recognition. Now ... The Verge reports that selected users will be asked to record short phrases via its Viewpoints market research app. If you qualify, you’ll have all the fun of saying “Hey Portal” and then the name ..."
     publishedDateTime: 2020-02-21T09:07:00Z
@@ -166,6 +181,21 @@ related:
       - url: "https://cdn.idropnews.com/wp-content/uploads/2020/02/20135522/Facebook-App-Icon.jpg"
         width: 1000
         height: 600
+  - title: "Facebook offers to pay users for their voice recordings"
+    excerpt: "The recordings, made through its new market research app Viewpoints, will help to train the speech recognition system that powers Facebook’s Portal devices, which rival Amazon’s Echo speakers and its Alexa virtual assistant. Makers of smart speakers including Facebook, Amazon, Apple and Google faced criticism last year when it emerged ..."
+    publishedDateTime: 2020-02-21T13:24:00Z
+    webUrl: "https://www.ft.com/content/42f6b93c-54a4-11ea-8841-482eed0038b1"
+    ampWebUrl: "https://amp.ft.com/content/42f6b93c-54a4-11ea-8841-482eed0038b1"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/42f6b93c-54a4-11ea-8841-482eed0038b1"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 44
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F572c7db8-54ab-11ea-a1ef-da1721a0541e?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
   - title: "Facebook To Pay Users $5 For Their Voice Recordings"
     excerpt: "Facebook Inc. (NASDAQ: FB) will pay users $5 for sharing their voice recordings, the company announced Thursday. What Happened The voice recordings would be used for"
     publishedDateTime: 2020-02-21T09:48:00Z

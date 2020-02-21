@@ -600,19 +600,6 @@ related:
       - url: "https://inews.co.uk/images-i.jpimedia.uk/imagefetch/https://inews.co.uk/wp-content/uploads/2020/02/Thumbnail-maker-91.jpg"
         width: 1200
         height: 630
-  - title: "European Parliament says no intention to deploy biometric facial recognition for MEP security"
-    excerpt: "The European parliament insists it will not roll out biometric facial recognition technology for access control in monitoring within parliament, after information leaked hinting the institution was looking into using it for security purposes, writes The Guardian. The Guardian further states that it reviewed an intranet page titled “artificial ..."
-    publishedDateTime: 2020-02-06T20:54:00Z
-    webUrl: "https://www.biometricupdate.com/202002/european-parliament-says-no-intention-to-deploy-biometric-facial-recognition-for-mep-security"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 28
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
-        width: 640
-        height: 260
   - title: "Amazon Exec Defends Facial Recognition Sales to Law Enforcement, Says Would Sell to Foreign Governments"
     excerpt: "In recent years, Amazon has faced growing criticism from civil rights groups, AI researchers and even some Amazon employees and shareholders for selling its facial recognition technology to law enforcement and discussing it with U.S. government agencies. Some of the same groups have also raised concerns that the technology could in the future ..."
     publishedDateTime: 2020-02-19T02:40:00Z

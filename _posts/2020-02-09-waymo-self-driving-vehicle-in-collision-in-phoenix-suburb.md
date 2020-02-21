@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-09T03:32:00Z
 webUrl: "https://www.herald-dispatch.com/ap/ap_business/waymo-self-driving-vehicle-in-collision-in-phoenix-suburb/article_92c577c4-c2b3-5bc3-b384-d67125bbb2e3.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -24,36 +24,6 @@ images:
     title: "Waymo self-driving vehicle in collision in Phoenix suburb"
 
 related:
-  - title: "US clears the way for this self-driving vehicle with no steering wheel or pedals"
-    excerpt: "CALIFORNIA — The federal government has cleared the way for a Silicon Valley startup to deploy thousands of its self-driving delivery vehicles on US streets. The R2 has no steering wheel, pedals or side mirrors as it’s designed to be unmanned and carry cargo. Large compartments on its side open up to reveal deliveries, such as groceries or ..."
-    publishedDateTime: 2020-02-07T19:34:00Z
-    webUrl: "https://wreg.com/2020/02/07/us-clears-the-way-for-this-self-driving-vehicle-with-no-steering-wheel-or-pedals/"
-    ampWebUrl: "http://wreg.com/2020/02/07/us-clears-the-way-for-this-self-driving-vehicle-with-no-steering-wheel-or-pedals/amp/"
-    cdnAmpWebUrl: "https://wreg-com.cdn.ampproject.org/c/wreg.com/2020/02/07/us-clears-the-way-for-this-self-driving-vehicle-with-no-steering-wheel-or-pedals/amp/"
-    type: article
-    provider:
-      name: WREG
-      domain: wreg.com
-    quality: 39
-    images:
-      - url: "https://localtvwreg.files.wordpress.com/2020/02/hypatia-h_6c542cd4da989a321201ee0792ec843c-h_380deb702e8624c8a7d02bce596b8943.jpg?quality=85&strip=all&w=1200"
-        width: 1200
-        height: 800
-  - title: "Federal government approves California company’s self-driving vehicle with no wheel or pedals"
-    excerpt: "MOUNTAIN VIEW, Calif. — The federal government has cleared the way for a Silicon Valley startup to deploy thousands of its self-driving delivery vehicles on US streets. The R2 has no steering wheel, pedals or side mirrors as it’s designed to be unmanned and carry cargo. Large compartments on its side open up to reveal deliveries ..."
-    publishedDateTime: 2020-02-08T04:16:00Z
-    webUrl: "https://fox4kc.com/2020/02/07/federal-government-approves-california-companys-self-driving-vehicle-with-no-wheel-or-pedals/"
-    ampWebUrl: "https://fox4kc.com/2020/02/07/federal-government-approves-california-companys-self-driving-vehicle-with-no-wheel-or-pedals/amp/"
-    cdnAmpWebUrl: "https://fox4kc-com.cdn.ampproject.org/c/s/fox4kc.com/2020/02/07/federal-government-approves-california-companys-self-driving-vehicle-with-no-wheel-or-pedals/amp/"
-    type: article
-    provider:
-      name: FOX4 Kansas City
-      domain: fox4kc.com
-    quality: 33
-    images:
-      - url: "https://placehold.it/300X250"
-        width: 300
-        height: 250
   - title: "Self-driving vehicle coming to Fargo area to improve work safety"
     excerpt: "FARGO — A self-driving vehicle is expected to hit the road in the Fargo area later this year. The Federal Highway Administration has awarded the North Dakota Department of Transportation a $241,687 grant to improve work zone safety with a self-driving ..."
     publishedDateTime: 2020-02-08T01:37:00Z
@@ -67,19 +37,6 @@ related:
       - url: "https://www.inforum.com/news/601307-gqfrk5-Work-Zone-photo/alternates/BASE_LANDSCAPE/Work%20Zone%20photo"
         width: 1140
         height: 712
-  - title: "Self-driving vehicle law hits a speed bump"
-    excerpt: "The big picture: Manufacturers and tech companies want federal rules of the road for their roll-out of self-driving vehicles. But trial lawyers, a powerful lobby, want key questions on liability in a driverless world answered before legislation advances. Driving the news: Daniel Hinkle, an attorney with the American Association for Justice ..."
-    publishedDateTime: 2020-02-11T11:08:00Z
-    webUrl: "https://www.axios.com/self-driving-vehicle-law-hits-a-speed-bump-875152c5-3455-42f7-831a-a563b72256ac.html"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 24
-    images:
-      - url: "https://images.axios.com/WAaKWDWilhZmV1aIrsnfnqOj4JQ=/2020/02/10/1581362650395.jpg"
-        width: 1920
-        height: 1080
 
 secured: "8enk8Z08OrZ7Dn6JhK5hGQtiko08btI0TP94GfvPtseRA+ikOEpe5vx5iZnRxnOMDqMtZK1awCpUcF4/1RQEBkwIPdTlrtBAdMIAF8gxBL4Lind7o1roIi8O6YvWS2khl0hpe9y76JA9C2UMqaG75tPA+iQsY+JuvbPiw0zSr9xRQBOlzugQ6nRNwQL4e3HyeTROCSco/Ay9ykVpxvHkUq+sKtZBwJHhXbeN8+9R4NRGWkMuKszf5MrRifV18MDc7O1iSAv5eqU463atkJ62+Rp9cH6reoyQQO1sWHs4tM1BNJnJ6cA0PPU+j/3VXKhR;18B9j1bvu5ZZisLtEJsegQ=="
 ---

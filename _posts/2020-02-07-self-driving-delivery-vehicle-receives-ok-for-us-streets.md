@@ -8,7 +8,7 @@ ampWebUrl: "https://www.governing.com/now/Self-Driving-Delivery-Vehicle-Receives
 cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/now/Self-Driving-Delivery-Vehicle-Receives-OK-for-US-Streets.html?AMP"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -26,51 +26,21 @@ images:
     title: "Self-Driving Delivery Vehicle Receives OK for U.S. Streets"
 
 related:
-  - title: "Nuro Claims A Self-Driving First: U.S. Approval To Deploy Toaster-Styled Delivery Bots"
-    excerpt: "The tech startup created by two former Google engineers will deploy battery-powered R2 driverless delivery vehicles on public streets–little vans without steering wheels, pedals or side-mirrors"
-    publishedDateTime: 2020-02-06T20:30:00Z
-    webUrl: "https://www.forbes.com/sites/alanohnsman/2020/02/06/nuro-claims-a-self-driving-first-us-approval-to-deploy-toaster-styled-delivery-bots/"
-    ampWebUrl: "https://www.forbes.com/sites/alanohnsman/2020/02/06/nuro-claims-a-self-driving-first-us-approval-to-deploy-toaster-styled-delivery-bots/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2020/02/06/nuro-claims-a-self-driving-first-us-approval-to-deploy-toaster-styled-delivery-bots/amp/"
+  - title: "Federal government approves California company’s self-driving vehicle with no wheel or pedals"
+    excerpt: "MOUNTAIN VIEW, Calif. — The federal government has cleared the way for a Silicon Valley startup to deploy thousands of its self-driving delivery vehicles on US streets. The R2 has no steering wheel, pedals or side mirrors as it’s designed to be unmanned and carry cargo. Large compartments on its side open up to reveal deliveries ..."
+    publishedDateTime: 2020-02-08T04:16:00Z
+    webUrl: "https://fox4kc.com/2020/02/07/federal-government-approves-california-companys-self-driving-vehicle-with-no-wheel-or-pedals/"
+    ampWebUrl: "https://fox4kc.com/2020/02/07/federal-government-approves-california-companys-self-driving-vehicle-with-no-wheel-or-pedals/amp/"
+    cdnAmpWebUrl: "https://fox4kc-com.cdn.ampproject.org/c/s/fox4kc.com/2020/02/07/federal-government-approves-california-companys-self-driving-vehicle-with-no-wheel-or-pedals/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 81
+      name: FOX4 Kansas City
+      domain: fox4kc.com
+    quality: 33
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e3c413ba854780006b0a8ad%2F0x0.jpg"
-        width: 1200
-        height: 800
-  - title: "Self-driving delivery van ditches 'human controls'"
-    excerpt: "The first self-driving vehicle designed without basic human controls such as steering wheels, pedals or side view mirrors has been granted permission to test on US roads. Nuro, the company behind the design, makes autonomous delivery vans. The vehicle is Nuro's second generation of its vehicles, which it is calling R2 and will be tested in ..."
-    publishedDateTime: 2020-02-06T23:45:00Z
-    webUrl: "https://www.bbc.com/news/technology-51409031"
-    ampWebUrl: "https://www.bbc.com/news/amp/technology-51409031"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51409031"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 74
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/13970/production/_110804208_screen-shot-2020-02-06-at-2_32_43-pm.png"
-        width: 1024
-        height: 576
-  - title: "Self-driving car company Nuro wins federal safety approval for grocery delivery robot"
-    excerpt: "WASHINGTON — Delivery robot company Nuro won the first federal safety approval for a purpose-built self-driving vehicle, advancing the young company's plans to cart groceries around neighborhoods and marking a milestone for the autonomous vehicle industry. The approval indicates that federal regulators at the Department of Transportation ..."
-    publishedDateTime: 2020-02-09T10:11:00Z
-    webUrl: "https://www.swtimes.com/entertainmentlife/20200209/self-driving-car-company-nuro-wins-federal-safety-approval-for-grocery-delivery-robot"
-    ampWebUrl: "https://www.swtimes.com/entertainmentlife/20200209/self-driving-car-company-nuro-wins-federal-safety-approval-for-grocery-delivery-robot?template=ampart"
-    cdnAmpWebUrl: "https://www-swtimes-com.cdn.ampproject.org/c/s/www.swtimes.com/entertainmentlife/20200209/self-driving-car-company-nuro-wins-federal-safety-approval-for-grocery-delivery-robot?template=ampart"
-    type: article
-    provider:
-      name: Southwest Times Record
-      domain: swtimes.com
-    quality: 37
-    images:
-      - url: "https://www.swtimes.com/apps/pbcsi.dll/bilde?Site=AR&Date=20200209&Category=ENTERTAINMENTLIFE&ArtNo=200209775&Ref=AR"
-        width: 6720
-        height: 4480
+      - url: "https://placehold.it/300X250"
+        width: 300
+        height: 250
   - title: "CA Startup Gets Approval to Deploy Thousands of Self-Driving Delivery Vehicles With No Steering Wheel"
     excerpt: "The federal government has cleared the way for a Silicon Valley startup to deploy thousands of its self-driving delivery vehicles on US streets. The R2 has no steering wheel, pedals or side mirrors as it’s designed to be unmanned and carry cargo. Large compartments on its side open up to reveal deliveries, such as groceries or pizza."
     publishedDateTime: 2020-02-07T19:49:00Z
@@ -86,6 +56,19 @@ related:
       - url: "https://tribktla.files.wordpress.com/2020/02/hypatia-h_6c542cd4da989a321201ee0792ec843c-h_380deb702e8624c8a7d02bce596b8943.jpg?quality=85&strip=all&w=1200"
         width: 1200
         height: 800
+  - title: "Self-driving vehicle law hits a speed bump"
+    excerpt: "The big picture: Manufacturers and tech companies want federal rules of the road for their roll-out of self-driving vehicles. But trial lawyers, a powerful lobby, want key questions on liability in a driverless world answered before legislation advances. Driving the news: Daniel Hinkle, an attorney with the American Association for Justice ..."
+    publishedDateTime: 2020-02-11T11:08:00Z
+    webUrl: "https://www.axios.com/self-driving-vehicle-law-hits-a-speed-bump-875152c5-3455-42f7-831a-a563b72256ac.html"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 24
+    images:
+      - url: "https://images.axios.com/WAaKWDWilhZmV1aIrsnfnqOj4JQ=/2020/02/10/1581362650395.jpg"
+        width: 1920
+        height: 1080
 
 secured: "sW0gKmmo9etSxBsMYaziTiKqP+aB6ub2bHc9H0HhrlhVUnbMEU1Q0eAq+7LXK445XfBksTeYSrhPG8oOr15lYpJv6mO1QyR/vbZ9XBoFG4U74WyvPcFlyGf6NymmvZLXx08Y08YpLd1jzIODLEfTlB59xPKtYE46k3t0jq/+pZxGx0lRXYz26vuz5V67taUefJZBtqtHaWexEA4HWYPB6CuxMpShLXEU+6+pXxfi67hKMjbjcsCLJWcqQlK3purVf7I4B1qyzQ5DRPMCf3tCHnqvu2rcJB4TgXos8CrbbDU/7MVtrWFqZUJF8m079mad;0kJRwTQiIrdwznagNMgJfw=="
 ---

@@ -1,11 +1,11 @@
 ---
 category: news
 title: "Breakingviews - Bank of England’s AI approach will toughen up"
-excerpt: "The Bank of England last year picked artificial-intelligence pioneer Alan Turing as the face of its new 50-pound note. It’s an apt choice given the central bank will quickly have to figure out how to ensure that the spread of smart robots throughout finance is a force for good rather than a destabilising influence."
-publishedDateTime: 2020-02-21T11:37:00Z
-webUrl: "https://www.reuters.com/article/us-artificial-intelligence-boe-breakingv-idUSKBN20F1IG"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN20F1IG"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN20F1IG"
+excerpt: "There’s some evidence to support the thesis. AI models can be better at assessing creditworthiness than traditional ones, according to a recent Bank for International Settlements study that was based on data from a Chinese fintech firm. Because AI models can incorporate a range of data, such as phone-bill payments and other transactions ..."
+publishedDateTime: 2020-02-21T13:03:00Z
+webUrl: "https://in.reuters.com/article/us-artificial-intelligence-boe-breakingv-idINKBN20F1IG"
+ampWebUrl: "https://in.mobile.reuters.com/article/amp/idINKBN20F1IG"
+cdnAmpWebUrl: "https://in-mobile-reuters-com.cdn.ampproject.org/c/s/in.mobile.reuters.com/article/amp/idINKBN20F1IG"
 type: article
 quality: 104
 heat: 104
@@ -29,6 +29,6 @@ images:
     height: 545
     title: "Breakingviews - Bank of England’s AI approach will toughen up"
 
-secured: "tY+h6MCNTdfS4GhsVnpWYCtAohkvukZx0tFBYxaqIVvDgAOxEynVYORH3lHv1K69pT/dYjBc/HY5x14K3f121CRLknESk9Mn75J6NxHzDLZjAjL8gLjPXu3rqT26bwgj9SeB3S5PgixmW/LLFXY9xS/DUMu3xHxGJsRUwaqtZbHkrcDtSF8JJj6UgkHOBgrMDZCBAOvNKblbMYEhOFyPqMWsb7KHDqG9nSmRlbJBE1L4H1ZbNadf/w9gOZmqgtYLlO+3E0Kbn5yDe1foVeCmmesuMp91FE4VB+81W+HVA9LxnLcAzMU6OJFP8FRUuJR2xpoEOkBXbUGs8++7xmcXAxB/s+p4NuCYUPVt6F5IuAo/2MfCUaSvmbi4oeEIJvab6M4qBAGgz9sCxlKO3XbhrfFuk8kJHa5zMSU/yhw5rfIWPCwG89NNdTlCCRTsAmbv3XsUe4oafiSxZIxzr2iQ0L7+89A7A7kjmDErHbd1zyU=;p1S+z1RlU1pbTG3S33D0hQ=="
+secured: "ruMduPsNcnXfJQq/keSFhcW8Balu0v/YI5susbjkLY1fdyCFZvU82VQmIGcbKF2lZFsvzH3L+7Obk5KOjpEMiKU/StswwueEeKqHz8DlTYUeeX5YP4aor153bH6uyAZHc/rWYhqSmS1duphjijMki/XF+RaqmgziChYcbBU8jyq7yyJvoVDtgUUv/M6mIPBcvQSrv1gKSxIH3lgoDu6iXyiKV5IySpxXMBpcGi4NJXrxTiOaojGIZrys47dHEoJrmoVlccOO98e7GGZa1lyNhLUEaszXUMwkFAr6WgFppxH1UMwtp9EmrdcS/bvpF5+i;T+Nbw0qpoMKa4SR3idg5ng=="
 ---
 

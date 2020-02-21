@@ -2,6 +2,52 @@
   "page": 23,
   "value": [
     {
+      "path": "_posts/_archive/2020-02-01-5-soon-to-be-trends-in-artificial-intelligence-and-deep-learning.md",
+      "title": "5 Soon-to-Be Trends in Artificial Intelligence And Deep Learning",
+      "excerpt": "AI’s major headwind is the cost of the investment, which will skew returns in the short-term. When the turnaround occurs, however, companies who are making the investment can expect to be rewarded disproportionately with a wide performance gap and up to double the cash flow.",
+      "heat": 106,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/bethkindig/2020/01/31/5-soon-t0-be-trends-in-artificial-intelligence-and-deep-learning/",
+      "ampWebUrl": "https://www.forbes.com/sites/bethkindig/2020/01/31/5-soon-t0-be-trends-in-artificial-intelligence-and-deep-learning/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bethkindig/2020/01/31/5-soon-t0-be-trends-in-artificial-intelligence-and-deep-learning/amp/",
+      "publishedDateTime": "2020-01-31T17:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x533/https://specials-images.forbesimg.com/imageserve/5e34ccbef133f400076b5a6a/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 533,
+          "title": "5 Soon-to-Be Trends in Artificial Intelligence And Deep Learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-02-01-big-brother-facial-recognition-cameras-are-watching-you-more-than-ever-right-across-britain.md",
       "title": "Big Brother facial recognition cameras are watching YOU more than ever right across Britain",
       "excerpt": "The secret expansion of controversial facial recognition technology has been laid bare after an investigation by The Mail on Sunday discovered it is now being used by ten police forces, councils and hundreds of shops. Civil liberties groups are increasingly worried by the spread of the 'Big Brother' cameras which record a person's face as they ...",
@@ -2059,52 +2105,6 @@
       "topics": [
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-02-04-ai-machine-learning-robots-and-marketing-tech-coming-to-a-store-near-you.md",
-      "title": "AI, machine learning, robots, and marketing tech coming to a store near you",
-      "excerpt": "It's not going to work. It can turn into a big food fight.\" Retailers are increasingly realizing the value of artificial intelligence and machine learning as a way to churn through troves of data collected from customers through e-commerce sites. While these tools require the kind of digital base that both Mitchell-Keller and Colaneri mentioned ...",
-      "heat": 239,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/ai-machine-learning-robots-and-marketing-tech-coming-to-a-store-near-you/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-machine-learning-robots-and-marketing-tech-coming-to-a-store-near-you/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-machine-learning-robots-and-marketing-tech-coming-to-a-store-near-you/",
-      "publishedDateTime": "2020-02-04T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2019/01/15/cede3a51-32c8-47dc-8928-b8c18295dde9/resize/1200x/9f06c8112c21a809abb2fc0b6a7e4b11/retail-ai.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": "AI, machine learning, robots, and marketing tech coming to a store near you",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Robotics"
       ]
     }
   ],

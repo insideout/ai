@@ -26,47 +26,36 @@ images:
     title: "Federal government approves California company’s self-driving vehicle with no wheel or pedals"
 
 related:
-  - title: "US clears the way for this self-driving vehicle with no steering wheel or pedals"
-    excerpt: "CALIFORNIA — The federal government has cleared the way for a Silicon Valley startup to deploy thousands of its self-driving delivery vehicles on US streets. The R2 has no steering wheel, pedals or side mirrors as it’s designed to be unmanned and carry cargo. Large compartments on its side open up to reveal deliveries, such as groceries or ..."
-    publishedDateTime: 2020-02-07T19:34:00Z
-    webUrl: "https://wreg.com/2020/02/07/us-clears-the-way-for-this-self-driving-vehicle-with-no-steering-wheel-or-pedals/"
-    ampWebUrl: "http://wreg.com/2020/02/07/us-clears-the-way-for-this-self-driving-vehicle-with-no-steering-wheel-or-pedals/amp/"
-    cdnAmpWebUrl: "https://wreg-com.cdn.ampproject.org/c/wreg.com/2020/02/07/us-clears-the-way-for-this-self-driving-vehicle-with-no-steering-wheel-or-pedals/amp/"
+  - title: "Self-Driving Delivery Vehicle Receives OK for U.S. Streets"
+    excerpt: "They’ll arrive in Houston, Texas, soon. (TNS) — A self-driving delivery vehicle with no driver's seat, steering wheel or brake pedal has become the first to be cleared by the federal government to operate without the presence of a human. Nuro Inc., a robotics company based in Mountain View, Calif., has been given permission to put up to ..."
+    publishedDateTime: 2020-02-07T22:04:00Z
+    webUrl: "https://www.governing.com/now/Self-Driving-Delivery-Vehicle-Receives-OK-for-US-Streets.html"
+    ampWebUrl: "https://www.governing.com/now/Self-Driving-Delivery-Vehicle-Receives-OK-for-US-Streets.html?AMP"
+    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/now/Self-Driving-Delivery-Vehicle-Receives-OK-for-US-Streets.html?AMP"
     type: article
     provider:
-      name: WREG
-      domain: wreg.com
-    quality: 39
+      name: Governing
+      domain: governing.com
+    quality: 44
     images:
-      - url: "https://localtvwreg.files.wordpress.com/2020/02/hypatia-h_6c542cd4da989a321201ee0792ec843c-h_380deb702e8624c8a7d02bce596b8943.jpg?quality=85&strip=all&w=1200"
+      - url: "https://media2.govtech.com/images/shutterstock_156230078.jpg"
+        width: 950
+        height: 629
+  - title: "CA Startup Gets Approval to Deploy Thousands of Self-Driving Delivery Vehicles With No Steering Wheel"
+    excerpt: "The federal government has cleared the way for a Silicon Valley startup to deploy thousands of its self-driving delivery vehicles on US streets. The R2 has no steering wheel, pedals or side mirrors as it’s designed to be unmanned and carry cargo. Large compartments on its side open up to reveal deliveries, such as groceries or pizza."
+    publishedDateTime: 2020-02-07T19:49:00Z
+    webUrl: "https://ktla.com/2020/02/07/ca-startup-gets-approval-to-deploy-thousands-of-self-driving-delivery-vehicles-with-no-steering-wheel/"
+    ampWebUrl: "https://ktla.com/2020/02/07/ca-startup-gets-approval-to-deploy-thousands-of-self-driving-delivery-vehicles-with-no-steering-wheel/amp/"
+    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/2020/02/07/ca-startup-gets-approval-to-deploy-thousands-of-self-driving-delivery-vehicles-with-no-steering-wheel/amp/"
+    type: article
+    provider:
+      name: KTLA
+      domain: ktla.com
+    quality: 29
+    images:
+      - url: "https://tribktla.files.wordpress.com/2020/02/hypatia-h_6c542cd4da989a321201ee0792ec843c-h_380deb702e8624c8a7d02bce596b8943.jpg?quality=85&strip=all&w=1200"
         width: 1200
         height: 800
-  - title: "Waymo self-driving vehicle in collision in Phoenix suburb"
-    excerpt: "TEMPE, Ariz. (AP) — A Waymo self-driving vehicle was involved in a collision with another vehicle in a Phoenix suburb and the driver of the Waymo vehicle was taken to a hospital with non-life threatening injuries,"
-    publishedDateTime: 2020-02-09T03:32:00Z
-    webUrl: "https://www.herald-dispatch.com/ap/ap_business/waymo-self-driving-vehicle-in-collision-in-phoenix-suburb/article_92c577c4-c2b3-5bc3-b384-d67125bbb2e3.html"
-    type: article
-    provider:
-      name: The Herald-Dispatch
-      domain: herald-dispatch.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/herald-dispatch.com/content/tncms/custom/image/10aba90e-dd9e-11e6-8368-ebae1dfc24e1.png?resize=600%2C600"
-        width: 600
-        height: 600
-  - title: "Self-driving vehicle coming to Fargo area to improve work safety"
-    excerpt: "FARGO — A self-driving vehicle is expected to hit the road in the Fargo area later this year. The Federal Highway Administration has awarded the North Dakota Department of Transportation a $241,687 grant to improve work zone safety with a self-driving ..."
-    publishedDateTime: 2020-02-08T01:37:00Z
-    webUrl: "https://www.thedickinsonpress.com/business/transportation/4927484-Self-driving-vehicle-coming-to-Fargo-area-to-improve-work-safety"
-    type: article
-    provider:
-      name: Dickinson Press
-      domain: thedickinsonpress.com
-    quality: 24
-    images:
-      - url: "https://www.inforum.com/news/601307-gqfrk5-Work-Zone-photo/alternates/BASE_LANDSCAPE/Work%20Zone%20photo"
-        width: 1140
-        height: 712
   - title: "Self-driving vehicle law hits a speed bump"
     excerpt: "The big picture: Manufacturers and tech companies want federal rules of the road for their roll-out of self-driving vehicles. But trial lawyers, a powerful lobby, want key questions on liability in a driverless world answered before legislation advances. Driving the news: Daniel Hinkle, an attorney with the American Association for Justice ..."
     publishedDateTime: 2020-02-11T11:08:00Z

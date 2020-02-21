@@ -60,6 +60,21 @@ related:
       - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/Untitled-design-4-796x417.png"
         width: 796
         height: 417
+  - title: "Moscow deploys facial recognition technology for coronavirus quarantine"
+    excerpt: "Moscow is using facial recognition technology to ensure people ordered to remain at home or at their hotels under coronavirus quarantine do so, the mayor of the Russian capital said on Friday. Russia has temporarily barred Chinese nationals from entering the country to curb the spread of the virus,"
+    publishedDateTime: 2020-02-21T13:01:00Z
+    webUrl: "https://www.reuters.com/article/us-china-health-moscow-technology/moscow-deploys-facial-recognition-technology-for-coronavirus-quarantine-idUSKBN20F1RZ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN20F1RZ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN20F1RZ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 89
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200221&t=2&i=1493306581&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG1K17S"
+        width: 818
+        height: 545
   - title: "New Jersey’s former attorney general on Ring cameras and facial recognition"
     excerpt: "And it is a little creepy. That’s not the technical legal term for it. But there’s a way in which, when you think about some of what China’s doing with facial recognition, and trying to basically, literally, track people in communities, you could see where it could end. And one of the things about Ring is that, what has been fascinating ..."
     publishedDateTime: 2020-02-11T13:00:00Z

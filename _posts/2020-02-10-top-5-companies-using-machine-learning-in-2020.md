@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-10T18:43:00Z
 webUrl: "https://medium.com/@sushmithagowda216/top-5-companies-using-machine-learning-in-2020-cb5558468da9"
 type: article
 quality: 71
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -68,17 +68,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Top 10 Cybersecurity Companies to Watch in 2020"
-    excerpt: "Many are relying on AI and machine learning to determine if login and resource requests are legitimate ... It then extended these capabilities to systems being hosted in IaaS environments like AWS and Microsoft Azure, and offered the industry’s first PAM-as-a-Service, which continues to be the only offering in the market with a true multi ..."
-    publishedDateTime: 2020-02-06T21:01:00Z
-    webUrl: "https://www.business2community.com/cybersecurity/top-10-cybersecurity-companies-to-watch-in-2020-02281640"
-    ampWebUrl: "https://www.business2community.com/cybersecurity/top-10-cybersecurity-companies-to-watch-in-2020-02281640/amp"
-    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/cybersecurity/top-10-cybersecurity-companies-to-watch-in-2020-02281640/amp"
-    type: article
-    provider:
-      name: Business 2 Community
-      domain: business2community.com
-    quality: 24
 
 secured: "4WDbfdXPWGzFS+WazpKWs9o4Pcy/hTsf7cdKoD8wKeGsOZhzTAlEnORTLIEfUMqmkYXhv8Zu8n8kbU8Qmj+PggdrduySQ0nE/eOozfa5KtopU6WdJNOTsgMddm4G9WfHu8vHDTJvgtfH7WdpvTOGXVnU4olG3T+Og5THbrkabCk56o+RiE2fwcUZ5jg4e13Y/Dpct9nvO3iDfzSUzM0j+sC+shaUpVhx5DW3M1sM6+tvu18T0uyM+G/Rxg3fI5KMI1OpyHg5PVwl2Y5FEtGRdTxm4jbtwil0HErzdAAacR+jqYWGosy/EeSu7YGJQJ2Q2qpzvnjV9lyTkMy49gaQh+SGJ3QCRL67mKHEfDady1Abc7HStE7rkgwIgQjXLamSqGugS53bGZ8t8i6J1bF2zYIO4D6HfFZpu6eGQm7KLV2bbnW1K4GgmC7IX+7aybDIK/yhNGSLjpHGA7R/hCDoXyxYr+YmsjRJ/drR0QvTbnw=;O5Xn6i5qyBwTnJVPtINzBQ=="
 ---

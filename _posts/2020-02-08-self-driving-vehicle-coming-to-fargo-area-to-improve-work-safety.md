@@ -24,21 +24,6 @@ images:
     title: "Self-driving vehicle coming to Fargo area to improve work safety"
 
 related:
-  - title: "US clears the way for this self-driving vehicle with no steering wheel or pedals"
-    excerpt: "CALIFORNIA — The federal government has cleared the way for a Silicon Valley startup to deploy thousands of its self-driving delivery vehicles on US streets. The R2 has no steering wheel, pedals or side mirrors as it’s designed to be unmanned and carry cargo. Large compartments on its side open up to reveal deliveries, such as groceries or ..."
-    publishedDateTime: 2020-02-07T19:34:00Z
-    webUrl: "https://wreg.com/2020/02/07/us-clears-the-way-for-this-self-driving-vehicle-with-no-steering-wheel-or-pedals/"
-    ampWebUrl: "http://wreg.com/2020/02/07/us-clears-the-way-for-this-self-driving-vehicle-with-no-steering-wheel-or-pedals/amp/"
-    cdnAmpWebUrl: "https://wreg-com.cdn.ampproject.org/c/wreg.com/2020/02/07/us-clears-the-way-for-this-self-driving-vehicle-with-no-steering-wheel-or-pedals/amp/"
-    type: article
-    provider:
-      name: WREG
-      domain: wreg.com
-    quality: 39
-    images:
-      - url: "https://localtvwreg.files.wordpress.com/2020/02/hypatia-h_6c542cd4da989a321201ee0792ec843c-h_380deb702e8624c8a7d02bce596b8943.jpg?quality=85&strip=all&w=1200"
-        width: 1200
-        height: 800
   - title: "Waymo self-driving vehicle in collision in Phoenix suburb"
     excerpt: "TEMPE, Ariz. (AP) — A Waymo self-driving vehicle was involved in a collision with another vehicle in a Phoenix suburb and the driver of the Waymo vehicle was taken to a hospital with non-life threatening injuries,"
     publishedDateTime: 2020-02-09T03:32:00Z
@@ -52,34 +37,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/herald-dispatch.com/content/tncms/custom/image/10aba90e-dd9e-11e6-8368-ebae1dfc24e1.png?resize=600%2C600"
         width: 600
         height: 600
-  - title: "Federal government approves California company’s self-driving vehicle with no wheel or pedals"
-    excerpt: "MOUNTAIN VIEW, Calif. — The federal government has cleared the way for a Silicon Valley startup to deploy thousands of its self-driving delivery vehicles on US streets. The R2 has no steering wheel, pedals or side mirrors as it’s designed to be unmanned and carry cargo. Large compartments on its side open up to reveal deliveries ..."
-    publishedDateTime: 2020-02-08T04:16:00Z
-    webUrl: "https://fox4kc.com/2020/02/07/federal-government-approves-california-companys-self-driving-vehicle-with-no-wheel-or-pedals/"
-    ampWebUrl: "https://fox4kc.com/2020/02/07/federal-government-approves-california-companys-self-driving-vehicle-with-no-wheel-or-pedals/amp/"
-    cdnAmpWebUrl: "https://fox4kc-com.cdn.ampproject.org/c/s/fox4kc.com/2020/02/07/federal-government-approves-california-companys-self-driving-vehicle-with-no-wheel-or-pedals/amp/"
-    type: article
-    provider:
-      name: FOX4 Kansas City
-      domain: fox4kc.com
-    quality: 33
-    images:
-      - url: "https://placehold.it/300X250"
-        width: 300
-        height: 250
-  - title: "Self-driving vehicle law hits a speed bump"
-    excerpt: "The big picture: Manufacturers and tech companies want federal rules of the road for their roll-out of self-driving vehicles. But trial lawyers, a powerful lobby, want key questions on liability in a driverless world answered before legislation advances. Driving the news: Daniel Hinkle, an attorney with the American Association for Justice ..."
-    publishedDateTime: 2020-02-11T11:08:00Z
-    webUrl: "https://www.axios.com/self-driving-vehicle-law-hits-a-speed-bump-875152c5-3455-42f7-831a-a563b72256ac.html"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 24
-    images:
-      - url: "https://images.axios.com/WAaKWDWilhZmV1aIrsnfnqOj4JQ=/2020/02/10/1581362650395.jpg"
-        width: 1920
-        height: 1080
 
 secured: "pjSe0OvFAj9lraPDB2r43RhuZrqzyI5hw8R1oF0vW1J/1oC44iSYx1i5U1OPQn4DJUtPxepZkFD5rDjjT8AckwFb+dj/QWzD7/v25O2EbXjTkfeqR58E8YZVN8hka4nrj7jX6XU6ttVWLrKVOI96ip7+NLKYV8BsxBSYFfLceCN4995JNnl+/Ta1/wknkLKdr/awLsfMHRiEkbviC4T1gNddXbhK2PjjU/G9Pcclh/cDB1ohDC7/9fy7P1hERkyuDShZOvzVlDln8kLEep9UT5fwYbZOKtALsf20R2bCQ8vsMMS+cVNQgwuwIT6B19CY;A1uYAUdXZPYFo8/FOnNcZw=="
 ---
