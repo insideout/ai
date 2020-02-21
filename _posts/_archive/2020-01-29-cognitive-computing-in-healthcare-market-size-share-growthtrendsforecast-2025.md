@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-29T12:11:00Z
 webUrl: "https://www.openpr.com/news/1912885/cognitive-computing-in-healthcare-market-size-share"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,21 @@ topics:
   - AI
   - Microsoft AI
 
-secured: "TgT+WNwIIWGulwWwJcSEnBL2FcYbyboWunyomYRMEZ/gYKOOlmUBGpzbNiFYG8ku5ya51/8HVZuW0Too6RMuHlsvawomKUiYr5ZuIpXwzxpbW8qgBW9Qn00KXLd5GgaCCPA2mqwZztarOJla5q+o0mk7JBc+mFKLNhHzbbLKD7AvVRuIA4I+D+SPEDf7gocrql9wI5cxUZ/RBBa7w7/4XaAtkOaXLT5S2nOB8LAWDY+4WLyu4FjWN4KUPOFjH5s/rGiykT9PEQOEJCWKk6WqcwjqgvMIAaTwXFLY9IhlDmm4foapuHRQjDWCtZot23zN;pD1s5BwTTp0Gcp3DBMNK5Q=="
+related:
+  - title: "Autonomous Vehicle Market 2020: Global Overview, Latest Technology, Market Size, Share, Demand, Major Players, Key Trends, and Forecast to 2026"
+    excerpt: "Autonomous Vehicle Market by Level of Automation (Level 3, Level 4, and Level 5), Component (Hardware, Software, and Service) and Application (Civil, Robo Taxi, Self-driving Bus, Ride Share, Self-driving Truck,"
+    publishedDateTime: 2020-02-05T03:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/autonomous-vehicle-market-2020-global-overview-latest-technology-market-size-share-demand-major-players-key-trends-and-forecast-to-2026-2020-02-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 18
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+
+secured: "+aSX17TqgX70jciOY3Ar916P4e57Geu5csIx/6MFYz0lv4zP59yUzdg1NjSH2sJk6Mu5IHNlk4TKAHtnBUrdxtdFWkZAiYSFo3y5CnaKfBFYqKmuSh6JbR8GKVPkddWonCjl65jhleI5S4VLWPl+5trGj53vli/Pub6a0gSs0fL/GnG7J1frSI38lZmHId3DQtSh0wGLw2wJCt9f/UwagpN59ZznUZThqDdBFM79/y6glhYrxZA0nvtNfkujXOgoiWh0eRmAr5ta24PZU/wxPWHlDpm0r5YA0i0hmxd3YY8edDMEsaoArwmmbZJkKvTs;Y7iE0+Pw5/m9mkcTC+q7JA=="
 ---
 

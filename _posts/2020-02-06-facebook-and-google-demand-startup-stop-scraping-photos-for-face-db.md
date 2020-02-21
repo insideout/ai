@@ -99,15 +99,6 @@ related:
       - url: "https://www.chicagotribune.com/resizer/EVhzXiNn0fjNzE2DbtVmB06lF-s=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/OE6AB6SZOFGDVFZJFPF5Z6M2PQ.jpg"
         width: 1200
         height: 800
-  - title: "Facebook Sends Cease And Desist Letter To AI Startup, Joins Twitter, Venmo, YouTube"
-    excerpt: "Facebook Inc. (NASDAQ: FB) has joined other social media giants and has sent Clearview AI a cease and desist letter to stop using user images to identify them"
-    publishedDateTime: 2020-02-06T10:16:00Z
-    webUrl: "https://www.benzinga.com/news/20/02/15266220/facebook-sends-cease-and-desist-letter-to-ai-startup-joins-twitter-venmo-youtube"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 11
 
 secured: "7bOE2Od+qyXVNGiNVNXEEIfLljweDg3WrHd2ZPZi38/vyfi0fwap86jgRC8mUOrMnsA3Ab1QoxUAKjTakE9bEy2CJvzqtk6srm+kJ5qiSzSVU/jjqFbGW0zXiU91X9vlXxnklXs8P5ngX5ddeV7UXAwb/1aVaBc/NBifQ9glkzHT+9f3U8bAE0IEGlSRAQ2e8fOD1emC+ZaIHWpykJQj7wFaUIj5FbrwtbMoFe94DPZLIKM6b2zuERJmcBrhgWAA8g4GCnHMCZe8pLChr2Upu/Z7TD3kc5fUi85IGcRKz/0zUt0Ja+3tFSNZ9pOTjHMq;fjfK1mMXqmh/+9gnb8hijw=="
 ---

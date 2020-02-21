@@ -37,19 +37,6 @@ related:
       - url: "https://mma.prnewswire.com/media/556898/MemComputing_Logo.jpg?p=facebook"
         width: 1198
         height: 628
-  - title: "Locating induced earthquakes with a network of seismic stations in Oklahoma via a deep learning method"
-    excerpt: "We observed that the large location errors are mainly in the areas without many training samples. The deep learning method requires training data, which means a newly installed network cannot apply the method with cataloged events. For a monitoring system that has been already trained for a seismic network, a couple of malfunction traces do not ..."
-    publishedDateTime: 2020-02-06T10:07:00Z
-    webUrl: "https://www.nature.com/articles/s41598-020-58908-5"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 23
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-58908-5/MediaObjects/41598_2020_58908_Fig1_HTML.png"
-        width: 685
-        height: 657
 
 secured: "rzf7eT0FT/yrx0gdomLQ3nG5FbCrvxUOMiH8LVn6JCGE5//tL/WkiSeC97s8jDsDwP2J1TWO7RoDhB/FzR20dF0XyzaLIeVfJx6dT5fH2WLwyGx74+f98IfBDjQolDsUg+/2sIMhOv+s/kfZm971R61gxBSw7Vs1bEfo+RBaK1zaWYtUbSE+DT1fpOFdcujwdlE9ugH9gSW0rxYR905mOMgMAvc9c/hPahpCXIndb/mXZ8vvX1G7/JbpGOz5OW+hUf4XaR5hwXbqxuXrB3iOz6nIz2B/R2tAe9V6OHMSARfvrFE36P4i8iyqtTQ9tN9409+e/VC7R2bnCURqadknil8nSxmr0fsCzElYZSKLROQalDYgZpHJmZMg6lBTo/1mgXg9pGoknCHCCCc+hKAB13r2v6FYWE7zivvsKdwJ4JMI+vqSPoUTQMQq26+PHFi3c+Io8oqLF25LQuCYvAWCVIj5yB2A7XwYWbiFPw8S6U4=;p6ygjzToN9m+dotawvr4uQ=="
 ---

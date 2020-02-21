@@ -1,7 +1,7 @@
 ---
 category: news
 title: "REPLY: European Central Bank Explores the Possibilities of Machine Learning With a Coding Marathon Organised by Reply"
-excerpt: "Reply has proven its Artificial Intelligence and Machine Learning capabilities with numerous projects in various industries and combines this technological expertise with in-depth knowledge of the financial services industry and its regulatory environment."
+excerpt: "Reply has proven its Artificial Intelligence and Machine Learning capabilities with numerous projects in various industries and combines this technological expertise with in-depth knowledge of the financial services industry and its regulatory environment. Coding marathons using the latest technologies are a substantial element in Reply’s ..."
 publishedDateTime: 2020-02-04T10:00:00Z
 webUrl: "https://www.businesswire.com/news/home/20200204005137/en/REPLY-European-Central-Bank-Explores-Possibilities-Machine"
 type: article
@@ -47,6 +47,6 @@ related:
         width: 914
         height: 611
 
-secured: "Hs/+qSpXoYsZbOtkQFRBegYiRaIzAKVpI7baC5q8qSUlgthf52xFc0HV8XjUFF74kCkxRral5WpCECtEDaI83EoizjkkB2ELU7e74skspKRcfRUIitvShWORc1OVBxHXNM90NaCYQOp3ziWJN82DOL4xK6ghidjz6DNiaNxcbBapuFrSuXziSc0X1iilrd/0Um5D/vVH7JW0V5grRqW+tXY8U5GvSBSGWX5mB2PRGSdwJvscDhcW9usdfoOAzCE+xxCFeza27mYZulEVqQiySPGm/aOVeNBFchyIb++5NpC/TeYKcTaRbWi8KYhA/Xd/;P6mmVY1AHGi8M/Gi7ixQQA=="
+secured: "Hw63c7yefLwpvIDgwAB32IGulE+kssUOLuVWZDW0AFVBi3duaPT7L6JNGj3ktX/q0rE0pqwjYVGZFsUU0Ki3CODx/wo+ayfDVPhq+T0VnFhXAdqRwE3Km+Je6lY2yxHME3LjV2Q2G+ZL5AxlDdaBCGO4JIRetBBYRzJzaHOfHYXr8fs5JO7MBv0vRSskFcLv3CaisbQSfFwkX4p11z5GtyXIkfMDYSVHl8yuC0eiIs+XpITahLDD/GksA3oWLJPCwFO6s/MWxOp6cFzP0qSTEWKAIHZ629vCVYsirqVoP8EysIB/vdUuv5kYoKouWtza;rYKGs8DNG6axSvzFGrbv5Q=="
 ---
 

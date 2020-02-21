@@ -155,15 +155,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 27
-  - title: "Voice and Speech Recognition Market Worth $26.8 Billion by 2025 at a CAGR of 17.2% from 2019- Meticulous Research(R)"
-    excerpt: "London, Feb. 06, 2020 (GLOBE NEWSWIRE) -- The overall voice and speech recognition market is expected to grow at a CAGR of 17.2% from 2019 to 2025 to reach $26.8 billion by 2025. The growth in the speech and voice recognition market can be attributed to the rising acceptance of advanced technology together with increasing consumer demand for smart devices,"
-    publishedDateTime: 2020-02-06T11:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-worth-268-billion-by-2025-at-a-cagr-of-172-from-2019--meticulous-researchr-2020-02-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 26
   - title: "Healthcare Chatbots Market worth $703.2 million by 2025"
     excerpt: "Factors such as increasing optimum internet connectivity and rising adoption of smart devices, limited availability to council huge patient population, technology advancements in artificial intelligence, chatbots to reduce the healthcare cost, and increasing demand for virtual health assistance are driving the growth of the global market."
     publishedDateTime: 2020-02-13T07:34:00Z
@@ -198,6 +189,6 @@ related:
       domain: benzinga.com
     quality: 0
 
-secured: "dJYyID+rLREI9NUsgh33yGpKeTrYAGHKWriU5DivnXrgtGdJ73SdmoExEwkJgv3kJOdaBe+2DtgJBV+jVHhe8e6IwJu1f1vl641nkB+rBTn4zmcJZ18okhkb1hIdIouyEZR5Cz6JJ4Q+HrrC2oWQ9zFLwCHIReuqNWnwxC7iB/fBHn+HmhBwShfG5gBL2rQkpA1kOnt20yv2D2Bgk9w5V1N49aEiy9UA1V71AzHn1oAEHwanVW3F9V9Y9el8Aj1foQFdoWDlEUkgSwNJDmipY45eU4jVQrVHP4uEAw6cqgKOgO0AixtmWN/7ZqVBhZF9;ehIa4PiPZ8mZUM2ve/p2GA=="
+secured: "fqFxMYUE3XfpgBhF7KCW8vM+k+SAFeUvcQ4aTUBxNBy0EjkFkacwvyABZcVWntvG3mH2Nzna02koPT+kIXUyGCdErNXequ8cgnAbciroIfjCC/ft8O35PyYnmBMS2LaFGdyl9l9f/PBlzFSb0ko8lzn85xNc6KTE7LnGqjGHvy2iGKo7Q5ZFOYufvhJ7wZmMSo6qV2AJQZLIOXJ5jlQn//GNhRntuberYaYz756KVE4Ji/YhCYc9b/Ds6nmfCyKMzQkm1FSbd4f5PfyBVqgXfQlxMmQrdwzLkC/43DkfXjpdnFXtE/NFH2jgCFoDnjv8;iLngjjog+39tppe96J8o7w=="
 ---
 

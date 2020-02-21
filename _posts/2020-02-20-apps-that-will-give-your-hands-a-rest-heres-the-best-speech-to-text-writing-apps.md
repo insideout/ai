@@ -25,6 +25,23 @@ images:
     height: 600
     title: "Apps that will give your hands a rest, here's the best speech to text writing apps"
 
+related:
+  - title: "Know The Best Startup & Small Business Ideas That Will Make You Money This Year!"
+    excerpt: "Start with personal training and then maybe you will build your empire of physical ... This is one of the most important reasons that has driven the use of AI-based chatbots. Many companies are now using chatbots to automate systems, especially when it comes to customer service. Due to the growing demand for chatbots, many companies have ..."
+    publishedDateTime: 2020-02-21T03:49:00Z
+    webUrl: "https://yourstory.com/mystory/best-startup-small-business-ideas-money"
+    ampWebUrl: "https://yourstory.com/mystory/best-startup-small-business-ideas-money/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/mystory/best-startup-small-business-ideas-money/amp"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 37
+    images:
+      - url: "https://images.yourstory.com/cs/1/92cf8d40496d11eaaa2a3b9102f82a72/startups-1582182307099.jpg?fm=png&auto=format"
+        width: 512
+        height: 288
+
 secured: "T8Y4ti4X/audJgm/+ZFxpmdmqVIzpY2z+tVso9xUpweU0s+om2nVXBNQpMhS/OHOP64BOHNxrGi8yH8rSQLoMXE+TSe+C57ZmNXvmvJjqGHlVApxv1w6SlB8KUgAln1Ce9cAh0/uevU8cYc/kCJaCeUatCUwL5lGYHIlS3S+1+BgK9qucvOgZOcw3nghZ/zi+GfKwyQXru5mlnAvME6r3UvH5wUUls0gHWiBdUhIVpFCPVFNmbuE1WQnxcEHB/BbHRFkKxxyy1VI6elwoZ9c1VX6bnLiyqWNAWTNasuHOUuOuviktHj3g4A5XfZEnkHLldQA19/ntAkDE847c/dimQ6LQ1g7e4N+VU7VzDyvKORHMuyNES+bdMIbNjdwAvsmUyO6nPizf2pTi9ma8NfytI3I4SIiG94EbqOrXwZpWcweAdUqTfR6fc92vSgPr/iCkkv1/3GPNko6+dBaVqcSqNkTHlSWUISwSdyelynmwzE=;6Ry1c3RvjP9UWrnh9J2Uqw=="
 ---
 

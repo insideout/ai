@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-06T20:06:00Z
 webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-is-booming-worldwide-xerox-google-baidu-amazon-2020-02-06"
 type: article
 quality: 73
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -26,17 +26,6 @@ images:
     width: 1200
     height: 630
     title: "Cloud Natural Language Processing Market Is Booming Worldwide | Xerox, Google, Baidu, Amazon"
-
-related:
-  - title: "Conversational AI Market is Booming Worldwide | Oracle, SAP, Nuance"
-    excerpt: "A New Syndicate Global Conversational AI Market Study is added in HTF MI database compiled covering key business segments and wider geographical scope to get deep dive analysed market data. The study brings a perfect bridging between qualitative and statistical data of Conversational AI market."
-    publishedDateTime: 2020-02-06T10:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/conversational-ai-market-is-booming-worldwide-oracle-sap-nuance-2020-02-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
 
 secured: "iu9lOVBGBCeqozKaYENnBbhedjpcK464m4IVfK641fRxL2jYMIuowNCzPWZV2mulFLP6Pj6UogQ8T1p0cX/7Vu7ivvalJQcfTknrOV8noqpOn50EQxbOdZZ928xHomR9jtDx13wMKwW1jQFRFocz+VI8RCnuDrsvkdCtOkX+aGjRUAtamgO3MBoh5u+xeb2Mlqjw5xHIutlYWtK8HOz/wicGMD27SBd/CucVnqlbiVCYH/ig9W6rHadJyPYmy08Hkqjsq9PKtBdSmvmAqjhKeXT+mGxEXr5s0Y4cfSSDkq9uknN5Wtu3BP1GtwKBb+V2;aCmkwQEoG16mzKTVnqWaRg=="
 ---

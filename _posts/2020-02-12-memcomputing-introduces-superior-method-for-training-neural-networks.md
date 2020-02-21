@@ -6,8 +6,8 @@ publishedDateTime: 2020-02-12T13:24:00Z
 webUrl: "https://www.prnewswire.com/news-releases/memcomputing-introduces-superior-method-for-training-neural-networks-301003522.html"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: PR Newswire
@@ -37,19 +37,6 @@ related:
       - url: "https://insidehpc.com/wp-content/uploads/2020/02/memcomputing.jpg"
         width: 600
         height: 720
-  - title: "Locating induced earthquakes with a network of seismic stations in Oklahoma via a deep learning method"
-    excerpt: "We observed that the large location errors are mainly in the areas without many training samples. The deep learning method requires training data, which means a newly installed network cannot apply the method with cataloged events. For a monitoring system that has been already trained for a seismic network, a couple of malfunction traces do not ..."
-    publishedDateTime: 2020-02-06T10:07:00Z
-    webUrl: "https://www.nature.com/articles/s41598-020-58908-5"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 23
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-58908-5/MediaObjects/41598_2020_58908_Fig1_HTML.png"
-        width: 685
-        height: 657
 
 secured: "3dLuJE6HBz4DlorBsA/WrEioyTeBK0ejjlT1PIuEWrE6DOCgFwOxvQ5ZxmnZM75VuH1NbUlzKVPXxVds/66lyayCy2yi9EJ9kj3XPV9Zk5CgTPq6dMir/s2RW6Qf9OE4XucYROsEsLaDNiSSEQc0PYWaSpScFeQZg0uV/g9dDa1nc8yAxiHMmZREmVE3F6xbY/Ui+1WQGtHFo4eF1gaE7BnkbB2etPehMOFveoI9gBgUYEqcDIjSrOpufIRApJFF9mpTCEcpYRroPkYAMxY+x0WPpFyCnQ6Jk4y5H5gHQvd9FBGD6J3LZwvuK7aWCZuMURgAAHa3K1oMPn6F9ZuFxe5cMucopOCkIv8yrLATxWNMv497SZS1VIYivwg/sgy7M5GPsQG+yAMKntWRbSPlssbP/Y6BiuNZ6stPL5aSESSw3WqRVTq04+HJTtt3juAh0ORpd/ghBAIVvjHVk5XhbmZoafr1RUfvfJp2vAv5fXQ=;5adv9b5fUqDknrSaSjdTYA=="
 ---

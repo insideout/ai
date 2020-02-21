@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/2020/02/06/facebook-venmo-cease-and-des
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/06/facebook-venmo-cease-and-desist-clearview-ai/"
 type: article
 quality: 87
-heat: 157
+heat: 147
 published: true
 
 provider:
@@ -103,15 +103,6 @@ related:
       - url: "https://petapixel.com/assets/uploads/2020/02/cuttingedgetech.jpg"
         width: 1600
         height: 840
-  - title: "Facebook Sends Cease And Desist Letter To AI Startup, Joins Twitter, Venmo, YouTube"
-    excerpt: "Facebook Inc. (NASDAQ: FB) has joined other social media giants and has sent Clearview AI a cease and desist letter to stop using user images to identify them"
-    publishedDateTime: 2020-02-06T10:16:00Z
-    webUrl: "https://www.benzinga.com/news/20/02/15266220/facebook-sends-cease-and-desist-letter-to-ai-startup-joins-twitter-venmo-youtube"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 11
 
 secured: "siJ7z7PAXk1mBGD95Y3D29zYi8muPO33rIzLUoc/gCtJ+jmegQp7/Z3Qg8Vb4a1s4R9VS6qcx67wCjjJBVYzvbxrM3GsSwYIipAu4/1FdM8RwsU9snqfXuJlbPylRArc60Rtos7HlgqG7AEgLrWNc1P5MgyDq533GVM+USP43JsPYVGL5TbfPnK9cZmEEinJEaqzQiObgvDuMdi7jcLWMp7V6l+zyEm4Y81KFI+s97b0ipLsfPkA+ky4idJweaNHirV0aj+iBJLdLxCUQx8JeKnJgrGV2e4tajaT2osv0nLnGBhqhfHYNq9V0OJfmMYmE/YyEnjunTrEWBiCMV5i+Dp0VzlLQm8wBZXBWxrEO7EKKUtPDljUZiCZVY16LdKrVIYR0nzhl8efds8Au8dFuP3wzsEkGjVMlBSGSRxHGqLhQVh++AcpBi9htx3wN2ARa9ong3LLvZZncTpfPxdh2rcBvpZgHD7lPcHqHJW8c+s=;KmABWyQ62lDnho7P/ZhW2Q=="
 ---

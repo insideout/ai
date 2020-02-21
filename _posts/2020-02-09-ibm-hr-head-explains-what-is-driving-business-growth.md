@@ -33,15 +33,6 @@ related:
       - url: "https://miro.medium.com/max/1200/0*pEwq-FFpV7tLbZik"
         width: 1200
         height: 800
-  - title: "Deep learning skills shortage crippling UK businesses"
-    excerpt: "The lack of deep learning skills is hampering the performance of British businesses, according to new research from operational AI firm Peltarion. Its survey of firms across the UK and Nordic regions found 83 percent of AI decision-makers believe the deep learning skills shortage is affecting their business’s ability to compete in the market."
-    publishedDateTime: 2020-02-06T10:44:00Z
-    webUrl: "https://www.techradar.com/news/deep-learning-skills-shortage-crippling-uk-businesses"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 49
 
 secured: "YOA09WQu9Rl0y0gsoM3HxH8ZGJAXg/CgWKGZK6jpIytHHfMmnwlzWyTkcfcYAilS5v5d5yLlfl+gH6ObUR3wOnC9NIj1FYCw7KutTgs3ZJzwMveX3uYjdDbilA9FVYJyNPcAkmFvosSqcmp6EZOIxtkWATmX+QYjLeA+HSKu3QeB5l7APP3xA/zuPdSVjoQgR5ndIfDnw/LHAC35mMI+7BCljyAF7+nI23XrLTMaYUOtFvJx4qUHUbN3FTmSsc2uTye15GGPCUOd4N+DwyVMtp3RgNxT7XolX4D4CHaDXsKBH40hf8v0iCZQNzHgIaQ18g6SDucNIDjBvTi4KPZjX5U6PB3akE2oVh8ruaSpknvSLeNvvl0GbbEEJSOuLMzW2pyUFEnL6pRB0PmucxbfKSOupV9eeMfsib4N7ec7VuC9cbiFoubH7Jc/CimQ8SnsxIxrraQWgTAwxaqjfxF7j+diKKZGVvffibUYF7m5VkM=;IowG8q3p3Gpa3qkzhdndfA=="
 ---

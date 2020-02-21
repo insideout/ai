@@ -44,15 +44,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Artificial Intelligence (AI) in Supply Chain Market"
-    excerpt: "Meticulous Research - leading global market research company published a research report titled \"Artificial Intelligence in Supply Chain Market by Component (Platforms, Solutions) Technology (Machine Learning, Computer Vision, Natural Language Processing), Application (Warehouse, Fleet, Inventory Management), & by End User - Global Forecast to ..."
-    publishedDateTime: 2020-02-06T11:12:00Z
-    webUrl: "https://www.openpr.com/news/1921632/artificial-intelligence-ai-in-supply-chain-market-is-expected"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 32
 
 secured: "D2CadV4bxlv6cR/pgVQZf7frfGsVuL5yKPo/fE1DcpA9G2ORqjsfO/3wGo1/rXTn+3FMifxFdq8JBGq0k4B1s4fTvGFGenCtn0G6lbKub2dNZhhvMg2B4WtOsKrv54mw8YIvr4Sf8hvJ59QuGz9An7Ni4bEozV4PvLEigyEkbZpm6zOuOMIeniScQnbx80VDohyv3NRYrRNO9WVX5b6l3105aGxCTLmbr3joeNQwjXgHnApKZ0RAcKD1dU4tSgf1bjTPTYb0+aJbGrCJcl8tho2yZ/MBwymhITV5ebjSdNJeqrlYMs5Cc0bpT73C5qWI;Bo0yrw1d0lbwVHDMLbRLAg=="
 ---

@@ -152,15 +152,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 27
-  - title: "Voice and Speech Recognition Market Worth $26.8 Billion by 2025 at a CAGR of 17.2% from 2019- Meticulous Research(R)"
-    excerpt: "London, Feb. 06, 2020 (GLOBE NEWSWIRE) -- The overall voice and speech recognition market is expected to grow at a CAGR of 17.2% from 2019 to 2025 to reach $26.8 billion by 2025. The growth in the speech and voice recognition market can be attributed to the rising acceptance of advanced technology together with increasing consumer demand for smart devices,"
-    publishedDateTime: 2020-02-06T11:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-worth-268-billion-by-2025-at-a-cagr-of-172-from-2019--meticulous-researchr-2020-02-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 26
   - title: "Healthcare Chatbots Market worth $703.2 million by 2025"
     excerpt: "Factors such as increasing optimum internet connectivity and rising adoption of smart devices, limited availability to council huge patient population, technology advancements in artificial intelligence, chatbots to reduce the healthcare cost, and increasing demand for virtual health assistance are driving the growth of the global market."
     publishedDateTime: 2020-02-13T07:34:00Z
@@ -204,6 +195,6 @@ related:
       domain: benzinga.com
     quality: 0
 
-secured: "TVunlRz+c10on81gcFj4KUItIJGSeBFIa0J8yq8WEsocefdbsaN5u8AakGvu0OBaVF+k4LaA4KZdS5Xv0QDyinyHWUN9R3ywXsXnFXkmTRCS7w4IeVzeiD84zISYMKi1M+ySS9A9s1OHAOCdRR3D/ZzcnGEOpyEMWEAlUrnXC+quqeBl6UGKWqhz0Sn+mjJ2fHf97NquLok1r3/hAcAakQtrGOM6XO4aZa7eEmKTxDr2wgnLzhlToQ+kSigPaB8DiBRrJI1K5AwwhRlMhp4Sy2A9ly0ygOfNWAk8mLdZkz0J6eY+AhDQ8JvtDwP824ec;tGxnc6/FyeF9ijRsIXebdg=="
+secured: "q6ra5lcAGF+S4I4sjxNmafM1FmmPqHtmBAXYvDx654YefjLtOSdZ6wvfduXxtDZCMF77PsjRfj8nbmHXuD1K+BBo5EaxjNFsiZoyC9+dM96YNKwHmum7puw4KmIw4q8o/yP3fPiEg7wekU/flJuA4JzYp9EEEBXC0jKIgQoqQFXDCRQ4WrJh9cj5te6Qme8ut25u4vlY+YnC87kiO3GxIkxWf1nf9JoyS0UuE9bxgME93VkWNcbO8Ypx5bWB5cKtuFPai8WsW8o0u9kqtwp5kbEgKnJzQSunDNybYJgjoynCC408cAg8AY4orQcN8amZ;SSl8iNiH5Ruz5YEArB3fDQ=="
 ---
 

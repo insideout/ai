@@ -100,15 +100,6 @@ related:
       - url: "https://petapixel.com/assets/uploads/2020/02/cuttingedgetech.jpg"
         width: 1600
         height: 840
-  - title: "Facebook Sends Cease And Desist Letter To AI Startup, Joins Twitter, Venmo, YouTube"
-    excerpt: "Facebook Inc. (NASDAQ: FB) has joined other social media giants and has sent Clearview AI a cease and desist letter to stop using user images to identify them"
-    publishedDateTime: 2020-02-06T10:16:00Z
-    webUrl: "https://www.benzinga.com/news/20/02/15266220/facebook-sends-cease-and-desist-letter-to-ai-startup-joins-twitter-venmo-youtube"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 11
 
 secured: "FAc8n/c9+OHZyypwdwWQwZZEDhA77wXWxHAZUt1Aiq/N56p6MLTLFFDPodEt50bMCMKnaGvucTzE96eFXCztJB1XUhR+NPv+TW1so3+KNjoIhxiH/XjIGFFDkDRbAHYYnNbWKMj3rR9/VkMnX76MkmavkZZ82fx2vbcmWKfcw6Fy59LwC8k67/WR7K17W6+5hCAEfv/1DeATb0gO4+rPIk+3w8YGxDVV98q0t5K/AHnq/rzq4vba20OIG0prxe7cON2anQRFxTSe46tl1dTlgAR/wcFr7zxmHvKw7ld9FLrQY/LlCOLdgz2hf73UWzDaaLLOI1E62wuV1+Eokh9GWfUOsjD3m55IVHLu2jOA4hygut5zRdWj02C+p/pQ+dtl+bPey5MCOvH2uzntu56TBP1HEgOEj2GJu4b+eTD/dxtkp/GMME/+sTcVPafpFyO028K/zNU1hg3fsHA663L1g91DDXfrM/XkDxgrQEe9ceE=;9P2xqnxpWxyIoG8CMD9DPA=="
 ---
