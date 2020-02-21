@@ -7,9 +7,9 @@ webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/02/06/will-advancem
 ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/02/06/will-advancements-in-tech-make-homo-sapiens-go-extinct/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/06/will-advancements-in-tech-make-homo-sapiens-go-extinct/amp/"
 type: article
-quality: 54
-heat: 54
-published: false
+quality: 74
+heat: 74
+published: true
 
 provider:
   name: Forbes
@@ -23,6 +23,12 @@ topics:
   - AI
   - AI in Robotics
 
-secured: "YCIXzFNBOvL3KIgByPjbyla4dARuTioQHf7xLisW1aUHFFSPJEn80aMqrRoin5Qb3pEDPqfKu/KHYyBcV3VHjY9+WvTHlY6HDa81N4jKjXAtBVUhwXzY6EIKD5fPpB0aqYUa3Q54pImNHocsrkEpIc2e2qAJ29MymQXIiTdtaf6otngSI46CxjT2lfof+3WaSIrWXeMsHClNi26NFKNjzVAkNtTQqIEEk47jCHepUNpGTWISBcMcjJK4tnjaci/8f3GUNUwBd0L+n+m9R5O5DWSpPZwOyfCvtFR26kOwx7EJvLHlKKETXBjk6P4VBqhC;+jo+mBmqjB4iPxVaRW2zRg=="
+images:
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F02%2Fa-42.jpg"
+    width: 640
+    height: 640
+    title: "Will Advancements In Tech Make Homo Sapiens Go Extinct?"
+
+secured: "llAEK24uTSmpRtBssGF4bLkEyXztyzYzGgtIswfktSOfnED8zpxSotXfEo3Y3lEIPZvgmvEzoUoTu1U43FgjRgx+nKjNqBqGhQSuCHcCHV7bTT7H2eEo+BlwQClXeeblPsznWcwm05/tESqArDOZId4BzBFeg3MeDRJlvyTxQiny6xKWQkk6Nq/CoKK0M1CnUcC3NAmapplWlADxCbb9ERMXmnxJqkyOrOAoxzTjqhmXwLgprKAOcqCuxGzdNDO0Ho0mztbYn6ofGTjweAEwd8UjzcE6DV2V+YHE2j19zOk5m9/pa1nIabt//Vkeu6zb;Kh1ZNlFCYMlTeyFLW5WgAg=="
 ---
 

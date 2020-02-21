@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Inspur Re-Elected as Member of SPEC OSSC and Chair of SPEC Machine Learning"
-excerpt: "Machine Learning is an important direction in AI development. Different computing accelerator technologies such as GPU, FPGA, ASIC, and different AI frameworks such as TensorFlow and Pytorch provide customers with a rich marketplace of options. However, the next important thing for the customer to consider is how to evaluate the computing ..."
+excerpt: "It is worth noting that Inspur, a re-elected OSSC member, was also re-elected as the chair of the SPEC Machine Learning (SPEC ML) working group. The development plan of ML test benchmark proposed by Inspur has been approved by members which aims to provide users with standard on evaluating machine learning computing performance. SPEC is a ..."
 publishedDateTime: 2020-02-21T14:07:00Z
 webUrl: "https://www.businesswire.com/news/home/20200221005123/en/Inspur-Re-Elected-Member-SPEC-OSSC-Chair-SPEC"
 type: article
-quality: 37
-heat: 37
+quality: 52
+heat: 52
 published: false
 
 provider:
@@ -15,7 +15,7 @@ provider:
 
 topics:
   - AI
-  - Google AI
+  - Machine Learning
 
 images:
   - url: "https://mms.businesswire.com/media/20200221005123/en/774950/23/inspur_logo.jpg"
@@ -23,6 +23,6 @@ images:
     height: 627
     title: "Inspur Re-Elected as Member of SPEC OSSC and Chair of SPEC Machine Learning"
 
-secured: "RSbpTZBiALqH2DADwWGGb9iUNQ3JVClgxSe/QNTbXInZKxAGeJHOggnnG3t7UKoCYmJXEMuYW7QFG1RJzHyPPW4I1GlqgiiPTnc3w+k/Emv2zK18PBKrNdltmt8a5RNlJE1WmkATCYHC7443ceITwRZTk12BNQ9wVCSThu/JsUmPVc9x4i51Mkkc3wGdBTGITEkL9Lr6H5Y6C665H33l7NnKreu9fk5lhViq1sA9VgJPj9NnHumsgcBe+JXAENGQZDHCP01o7gWI0Ks8jmfs2t6caDQXFhXdzv2ypWeiPrHWn/Wb+FFDrm2YS/31g6lA;LiiTuTJeKbUaWC6wHMhiuA=="
+secured: "n//vivF+GjDavfDZizPC53Ev60SlJsYIcfBMtd99gsZ9agxOGRt8v19RA24DIMZRpKXbvMCjd6Q4gPu7z1CYhZI76dtxW6OkF57igPGc3vqsQ1mxjqO1GaUWuekU5FioclC8sDJk/0lr9HCvbHImRGkF2nJlaKrbrvsUJW4Et9MromMqAmau323Myo2K8IOtl9UGuVuHiSr5dS+5mFPfgV3Djc5ZtNBcOYRms5R2cVyad29Tld+YMrACsCQVOvN3/CWGYR9UZuIv/RCk+zRi09Vzapo4mDydwAN8UR/dK9ImjkFq94zNQQOW/G6CDTzx;2UKh9CgPxD+6z7TkStSYtg=="
 ---
 

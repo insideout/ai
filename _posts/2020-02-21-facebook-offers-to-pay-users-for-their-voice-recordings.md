@@ -1,19 +1,21 @@
 ---
 category: news
 title: "Facebook offers to pay users for their voice recordings"
-excerpt: "The recordings, made through its new market research app Viewpoints, will help to train the speech recognition system that powers Facebook’s Portal devices, which rival Amazon’s Echo speakers and its Alexa virtual assistant. Makers of smart speakers, including Facebook, Amazon, Apple and Google, faced criticism last year when it emerged ..."
-publishedDateTime: 2020-02-21T20:45:00Z
-webUrl: "https://www.latimes.com/business/story/2020-02-21/facebook-voice-recordings"
-ampWebUrl: "https://www.latimes.com/business/story/2020-02-21/facebook-voice-recordings?_amp=true"
-cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/business/story/2020-02-21/facebook-voice-recordings?_amp=true"
+excerpt: "The recordings, made through its new market research app Viewpoints, will help to train the speech recognition system that powers Facebook’s Portal devices, which rival Amazon’s Echo speakers and its Alexa virtual assistant. Makers of smart speakers including Facebook, Amazon, Apple and Google faced criticism last year when it emerged that ..."
+publishedDateTime: 2020-02-21T18:33:00Z
+webUrl: "https://arstechnica.com/tech-policy/2020/02/facebook-offers-to-pay-users-for-their-voice-recordings/"
 type: article
-quality: 24
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Los Angeles Times
-  domain: latimes.com
+  name: Ars Technica
+  domain: arstechnica.com
+  images:
+    - url: "/assets/images/organizations/arstechnica.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -355,6 +357,6 @@ related:
         width: 1763
         height: 1175
 
-secured: "vVOmO76IgD3sBEo+OTOR82dk0Bm3s95Umo7NM227Yrtr0kfraw2pFyoyUbYjRGyURBq9Bu3HN/VqFR4rZpU93SeypNberruRNZ7CQU1Xb7F6BrTBq79gGm5JBzZtzO2MYj1/FLDzJr2jw8b/xqSpOVLZYdNKsMa5uyqysu5fwNOp47YeW9CXsMiWRgUGV6HxB9Ae+NqgcPdZJPDLI+ZX+vX1SqjFduSvh55rMo7F2PJBpWKxIlONyIiX5px82aErTPZoDLEKAjcXwQBCpl3mNFIJDXs3ZwKi0Ew/BKTyVJ9l+viOXUuQgwi/90oAWRd6sp/qwbaX78oZJwrgsojBexk45AZuQGCmDixU4uT4c92MbeO6QOjczeGR9zY1Od/pt/fLjP+tGMDhk8UavYWA2y9nmMJt5VLT0VBCkTcrp3AzIcNFhwL73mgaoxtabg39Zn/Cmc3tSxaTChn8Oy0uCPgF0avj+fS80aNvXj+ph40=;JO6h2pqjFW42Dxvc6qUx3A=="
+secured: "slsXINOKqb9xrfsSxzRpm5dQjmJNkVwqJPcx4eBW6RTL5Eo7P+UcJgo7+m90yq3cqWfW7ZIk61pg6VSLT+vo4lqe5o/2Hsknjz8G20E2s92hYaSHQcM0d6mJBEqBA8yRTiDQV05amHkrYv4Gxtes0pvhM2CpguyXE2MhMgk85HQvcgs1bifm+/3uE8w+o0CbZ2wi+aiI4zuYSoJkhDKfTPEapRfF9/cgHgA/0VNkXy7k6H4v12zT5JQNxjADmOqQvW+LGMcvr1zS2WZ15mEA/rn5hsY8nHnfVGuLVDCKHlkCWR2pwP6YfXUsh/2uQMUTnusmmpmb9/FFq8UJouNT0XyE8k2F+ZFBSwOIlotoXnV7fUVFPN50CP0b9JkR1FETHnF357jzOetPLIghU+4TmvXmL5YTMQ/YqfhxZsy4QgnSYRjVG45enTgrPmWIa1siLwBmSTYN1lOjQWlGVCbBia2RcSn0ci9FWlnUj8hXmaI=;+tgKPEo2fY2Nl1UEDIbv2A=="
 ---
 

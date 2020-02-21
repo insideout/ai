@@ -1,8 +1,8 @@
 ---
 category: news
 title: "AI in manufacturing is stalled by lack of data infrastructure and internal buy-in"
-excerpt: "According to Gartner, artificial intelligence is still in the early phases of the hype cycle. Among the 37 types of AI on its chart, only speech recognition and GPU accelerators have reached the plateau of productivity. Despite the fact that many AI technologies are too new for mainstream adoption, manufacturing leaders are already stuck in a ..."
-publishedDateTime: 2020-01-23T14:34:00Z
+excerpt: "Among the 37 types of AI on its chart, only speech recognition and GPU accelerators have reached the plateau of productivity. Despite the fact that many AI technologies are too new for ..."
+publishedDateTime: 2020-01-23T16:56:00Z
 webUrl: "https://www.techrepublic.com/article/ai-in-manufacturing-is-stalled-by-lack-of-data-infrastructure-and-internal-buy-in/"
 ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-in-manufacturing-is-stalled-by-lack-of-data-infrastructure-and-internal-buy-in/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-in-manufacturing-is-stalled-by-lack-of-data-infrastructure-and-internal-buy-in/"
@@ -24,11 +24,11 @@ topics:
   - AI Hardware
 
 images:
-  - url: "https://tr3.cbsistatic.com/hub/i/r/2019/04/16/cc5d2e5c-2d75-433f-a9a7-034a858b46e6/resize/1200x/8e5aaa1afe23fa7488ee8e296e79d3e3/istock-861189644ai.jpg"
+  - url: "https://tr1.cbsistatic.com/hub/i/r/2019/12/04/70d05d50-7fdc-4611-acee-d1c6867906c0/thumbnail/1200x675/075730befe930c61f707faeac9381bfe/20191125-veronica-karen.jpg"
     width: 1200
-    height: 800
+    height: 675
     title: "AI in manufacturing is stalled by lack of data infrastructure and internal buy-in"
 
-secured: "/v3/yrmHBUB3w42nxMeV+sWv2vHNg7QwG+4vnrQCPKp6W6yWoea9dCAv8Mspo/WiSMsho4ymBqwhnRghshWEGSZBQtjVzsRAlQIUtmsSkbnry9dUsaJqVykEEaX10JpCyGMlgvJQiIC/08aZKviAlffStJuVQ7tYRE7oxJ5dGO3uHWGECiuee03ZBFEmlVlQQaf3021PpKfBk560C/37PehqDKqA15awsFcmBM+sMSI976aHIMvT+N90k+/A8GlGxzZycMZYYwT9lofLpSRsFzJ/z6zJhI6inMDnELRMHaKotVIoPyZuhof7a1kCf19F;NIUjefiJ7RghqH7Vgqwr7w=="
+secured: "xb5EkdjfakttALv+xeOKPX+Da8mCQqW/UQyYNRdrhdiBuoEQ7oc/XcIRAbUgVO0eKefo+AmV4IMktKDlkxdAJlPCKVk+tbtSNz339HiY6MeGYTSabAQNvQcTzJ+S5Unxb/zxAmQOkbjnWA4/BrwctjlL9i3ubmxqA+pEryD2oGNnG8xj/xm3N3zuMs6Ca/MCQDpj+Sz95OFgCAzj2Nl9y18FnOm12xbeskTM85irNcWQ8NAuelTZbqQIzNoBEzER0X8PggCcny7YXy1CIiHcmhLBA5/uynlHbJjbPHfPkLyv5s13QohTDNjpn5pHNCO+;npALfvL55dK3i0uiIRS6ow=="
 ---
 

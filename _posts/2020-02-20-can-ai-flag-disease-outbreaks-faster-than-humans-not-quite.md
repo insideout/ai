@@ -1,27 +1,25 @@
 ---
 category: news
 title: "Can AI flag disease outbreaks faster than humans? Not quite"
-excerpt: "Did an artificial-intelligence system beat human doctors in warning the world of a severe coronavirus outbreak in China? In a narrow sense, yes. But what the humans lacked in sheer speed, they more than made up in finesse."
-publishedDateTime: 2020-02-20T23:27:00Z
-webUrl: "https://www.sfgate.com/news/medical/article/Can-AI-flag-disease-outbreaks-faster-than-humans-15069881.php"
-ampWebUrl: "https://www.sfgate.com/news/medical/amp/Can-AI-flag-disease-outbreaks-faster-than-humans-15069881.php"
-cdnAmpWebUrl: "https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/news/medical/amp/Can-AI-flag-disease-outbreaks-faster-than-humans-15069881.php"
+excerpt: "Early warnings of disease outbreaks can help people and governments save lives. In the final days of 2019, an AI system in Boston sent out the first global alert about a new viral outbreak in China. But it took human intelligence to recognize the significance of the outbreak and then awaken response from the public health community. What's more ..."
+publishedDateTime: 2020-02-20T09:34:00Z
+webUrl: "https://abcnews.go.com/Business/wireStory/ai-flag-disease-outbreaks-faster-humans-69094703"
 type: article
-quality: 57
-heat: 67
+quality: 37
+heat: 37
 published: false
 
 provider:
-  name: SFGate
-  domain: sfgate.com
+  name: ABC
+  domain: go.com
 
 topics:
   - AI
 
 images:
-  - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-    width: 375
-    height: 211
+  - url: "https://s.abcnews.com/images/Technology/WireAP_946b069f249747868f8f2742bc385a85_16x9_992.jpg"
+    width: 992
+    height: 558
     title: "Can AI flag disease outbreaks faster than humans? Not quite"
 
 related:
@@ -35,6 +33,6 @@ related:
       domain: orlandosentinel.com
     quality: 17
 
-secured: "/gINgmgrfDLrkIpua29q3oUjZMzG43JPdmjy631CAEYFJXzE1fOKfSJbDjkuxSWcgOot7h3UgecHwir7ucTwS8OVuhlT0F7Dk4iIC2So5jOjjEcvERCyXdgnzc7XyfN0oeOnRZl99BYUNpyhTZdc4H7Id4HEHFrUu5xiFWubER5FqERqY0anxZqYYK6MqbmAKUgaOZORKuWMOlxHpNYHEl8rJ6gLKwj0+Phiu4y/SU3mYomE6Hjt+fAfKb+8ZNbJHphrd7FLXVZUf673IpE24GmXodHTYgGMHsa9zXYMo0iZiHHxHw2SZv1DuE9Efopw;KsRFmEQ6yK0oKMxS4dNrlg=="
+secured: "v9mhpy/XTaq9m2dP488MM7Q+33AjzN7AhEa01732Eb8XdS6gDIdfRPUQaMy50KBL2oNXtTmfVFwRIgngZrgLh4pMH+4D++dAO0Dp4HUWjSg0OhcqHXwEtmNAGZDirz4cGPfzd0xrsWlNvfw08IAc0LdqMbJlPvM8kIAVFONUCcUYGeLNgvPU8f5SGp038SZK21DaiYmo4d1Fbw+hLCp2q1Ie+tYibEPvoXnz9Et1ItEnf3AUXekQrSMQDq4r3wcobtqFm2DbFMi20AOX52r1jDExUDPSuNUHydF1Fql9HLul1ktjVEvFPnqWm2pgghZy;4fmNG3DUuvTmd9m3NkelzQ=="
 ---
 

@@ -293,6 +293,15 @@ related:
       name: The Hindu
       domain: thehindu.com
     quality: 39
+  - title: "Facebook offers to pay users for their voice recordings"
+    excerpt: "The recordings, made through its new market research app Viewpoints, will help to train the speech recognition system that powers Facebook’s Portal devices, which rival Amazon’s Echo speakers and its Alexa virtual assistant. Makers of smart speakers including Facebook, Amazon, Apple and Google faced criticism last year when it emerged that ..."
+    publishedDateTime: 2020-02-21T18:33:00Z
+    webUrl: "https://arstechnica.com/tech-policy/2020/02/facebook-offers-to-pay-users-for-their-voice-recordings/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 34
   - title: "Facebook will pay for users' voice recordings after it was caught listening to Messenger chats"
     excerpt: "In a program called 'Pronunciations', participants will be payed a small sum, only up to $5, to use the company's market research app Viewpoints for recording various words and phrases that the company will then leverage to train its speech recognition AI. That voice data will be used to improve products like Portal, which is Facebook's smart ..."
     publishedDateTime: 2020-02-21T16:31:00Z
@@ -332,17 +341,6 @@ related:
       - url: "https://www.legitreviews.com/wp-content/uploads/2019/12/facebook-facebook.jpg"
         width: 1024
         height: 680
-  - title: "Facebook offers to pay users for their voice recordings"
-    excerpt: "The recordings, made through its new market research app Viewpoints, will help to train the speech recognition system that powers Facebook’s Portal devices, which rival Amazon’s Echo speakers and its Alexa virtual assistant. Makers of smart speakers, including Facebook, Amazon, Apple and Google, faced criticism last year when it emerged ..."
-    publishedDateTime: 2020-02-21T20:45:00Z
-    webUrl: "https://www.latimes.com/business/story/2020-02-21/facebook-voice-recordings"
-    ampWebUrl: "https://www.latimes.com/business/story/2020-02-21/facebook-voice-recordings?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/business/story/2020-02-21/facebook-voice-recordings?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 24
   - title: "Facebook will pay you up to $5 to record your voice"
     excerpt: "Facebook will pay you for your voice, but don’t expect to get wealthy. The company is paying selected people to record phrases to improve its voice recognition tools. It’s asking them record the phrase, “Hey Portal, call…” which is its camera-equipped home device, followed by saying the first name of a Facebook friend twice for 10 times."
     publishedDateTime: 2020-02-21T17:18:00Z

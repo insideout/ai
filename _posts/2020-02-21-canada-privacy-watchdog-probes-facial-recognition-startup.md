@@ -46,6 +46,19 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/9/e9/9e9cbbbc-111e-5904-b1c9-c12426069aab/5e41f2280d4e7.image.jpg?resize=576%2C324"
         width: 576
         height: 324
+  - title: "Clearview AI CEO Defends Facial Recognition Software"
+    excerpt: "Clearview AI is an astonishing piece of technology—a groundbreaking facial recognition app that collects billions of images from social media and all across the internet. Law enforcement agencies around the world are becoming enthusiastic clients, using the app to identify suspects. Hari speaks to the company’s co-founder and CEO ..."
+    publishedDateTime: 2020-02-20T05:31:00Z
+    webUrl: "https://www.pbs.org/wnet/amanpour-and-company/video/clearview-ai-ceo-defends-facial-recognition-software/"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 54
+    images:
+      - url: "https://www.pbs.org/wnet/amanpour-and-company/files/2020/02/4gPfMc5-asset-mezzanine-16x9-BKkp7dE.jpg"
+        width: 1920
+        height: 1080
 
 secured: "NOkPC8uTlc3eLGxaK2igk2lHcPIUQVf5nAR8XCbaMYHYqZn6SsLg9/VmUJ5fIJrlp+znu3uuv/rSm/4HJ2M3oF2x6OJk8ehUHuPZqm0FGSgNqHFs5e6ti1KTWTgrKqkcb9LgeuRe0W4qFfRLilvzMo/B+UMoGcFqt+DICP7ZpVtZITmfMXRtBiHnnf7ARVk97SGIkNf/WT4xavAhDtgWPj5L/P+AAu+JXt47r0dIoCXIMW4Uwv4TXZ0AIVVo/7IiAdiCu4/cC8NENkZrmpNbL5tQedfrzqZfPqM7zULy69HqRCFeNASOCmS1bK9mkRefWqBfaYevdR1kIAKEHZR14fHR+HFkrPOR2bPOWweqjUeU22CFAof1XEjlPVoW2GRhUXAHe3w3VAgnYk9MXr2Wr6Af5vh5uXMqBDTTaoMDNSaOrUfRt74nTLfvPBZy/xJ8kDWq592rbvyiUkZCdzF380VnZjM/eGZliaZtnslCgH8=;e8vmqeAbIXoUbcFdzZrl1w=="
 ---

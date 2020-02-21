@@ -302,6 +302,19 @@ related:
       - url: "https://www.globaltimes.cn/Portals/0//attachment/2020/2020-02-19/6f344b7d-b48e-4111-837d-16487e02ef51.jpeg"
         width: 500
         height: 300
+  - title: "Facial Recognition Surveillance on Campus"
+    excerpt: "The University of California, Los Angeles, was the first university to openly propose using facial recognition software for security surveillance. Now it's the first to openly drop that plan. But whether other colleges are using the technology behind ..."
+    publishedDateTime: 2020-02-21T22:50:00Z
+    webUrl: "https://www.insidehighered.com/news/2020/02/21/ucla-drops-plan-use-facial-recognition-security-surveillance-other-colleges-may-be"
+    type: article
+    provider:
+      name: Inside Higher Ed
+      domain: insidehighered.com
+    quality: 39
+    images:
+      - url: "https://www.insidehighered.com/sites/default/server_files/media/GettyImages-1189384731_0.jpg"
+        width: 1024
+        height: 620
   - title: "Peel and Halton police reveal they too used controversial facial recognition tool"
     excerpt: "One day after the revelation Toronto police tested a controversial facial recognition technology, two more Greater Toronto Area police services have revealed they have also used the U.S.-based Clearview AI investigative tool. Officers in Peel and Halton regions confirmed to the Star Friday that they ran tests of the highly divisive artificial ..."
     publishedDateTime: 2020-02-15T17:58:00Z

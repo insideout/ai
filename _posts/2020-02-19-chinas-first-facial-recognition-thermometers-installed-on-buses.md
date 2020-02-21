@@ -289,6 +289,19 @@ related:
       - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.channel3000.com/content/uploads/2020/02/200207150324-05-clearview-hoan-ton-that-live-video.jpg"
         width: 576
         height: 324
+  - title: "Facial Recognition Surveillance on Campus"
+    excerpt: "The University of California, Los Angeles, was the first university to openly propose using facial recognition software for security surveillance. Now it's the first to openly drop that plan. But whether other colleges are using the technology behind ..."
+    publishedDateTime: 2020-02-21T22:50:00Z
+    webUrl: "https://www.insidehighered.com/news/2020/02/21/ucla-drops-plan-use-facial-recognition-security-surveillance-other-colleges-may-be"
+    type: article
+    provider:
+      name: Inside Higher Ed
+      domain: insidehighered.com
+    quality: 39
+    images:
+      - url: "https://www.insidehighered.com/sites/default/server_files/media/GettyImages-1189384731_0.jpg"
+        width: 1024
+        height: 620
   - title: "How EU is Dealing with the Facial Recognition Controversies and Debates?"
     excerpt: "The controversies, debates, and discussions for facial recognition are taking the center stage in every tech-advanced region. Where some realizing its utility deploys it for social good, others consider it socially harmful at the same time. The wave of dialogues has even reached the European Parliament and the European Commission. According to ..."
     publishedDateTime: 2020-02-17T14:25:00Z

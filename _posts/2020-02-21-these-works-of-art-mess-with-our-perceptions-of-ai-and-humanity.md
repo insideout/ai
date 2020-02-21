@@ -3,7 +3,7 @@ category: news
 title: "These works of art mess with our perceptions of AI and humanity"
 excerpt: "Claudia Schmuckli [Photo: courtesy of the Fine Arts Museums of San Francisco] The show’s name is a kind of double entendre referencing both the dated and emerging conceptions of AI. Coined in the 1970s, the term “uncanny valley” describes the rise and then sudden drop off of empathy we feel toward a machine as its resemblance to a human ..."
 publishedDateTime: 2020-02-21T14:03:00Z
-webUrl: "https://www.fastcompany.com/90464750/these-works-of-art-mess-with-our-perceptions-of-ai-and-humanity"
+webUrl: "https://www.fastcompany.com/90464750/these-works-of-art-mess-with-our-perceptions-of-ai-and-humanity?partner=feedburner"
 type: article
 quality: 37
 heat: 37
@@ -22,6 +22,6 @@ images:
     height: 720
     title: "These works of art mess with our perceptions of AI and humanity"
 
-secured: "WTLHzctNdmmiBjcsRm2tPVfoPNT0Tn6321cqTVdtVxsMxkiOZ2eSlp7nIksaYe0IF/xo4Ki82CTfQBX9y+2B0NOKyaVSMTFmsG2+QwI53qQD9B06dpI7eob0HTea2sCqtPZQO2cfNhObY2LpU37cHHYpybt+JaRj2dCRSNqANhlq55rrmG8eNJBC6qD+f93eGAvLmVEwdsxRE3ZbZErItsrj16CXeHbaD3g6l8QG43hb75buYnelrbs6L8FxXDYeuj+EQ6avSKR8ZTBiRrVvWc2vwIvraMpW6OVSIe22/kayQfyalrRD89TeE/VJmrdGIiB79/NdsluaS2oVuhpkSRN/PXK5YN09QWNnmko6xximsumSQMXrlO9yRiLfj/M8JvMxw4sMAESRGHAwG7HzbcT5Pg6hfTs6Xyza888L2cgFUM1kmqR4SHo01GH8kceg14T8mq+pKqdxZQJHb9hsRGCkF+AlbyAY5A1QE+ROa4g=;/uqhHcQAub89DpqaJ+Z9VA=="
+secured: "J81duWWPcwLXzNxPrTIg8WkWSYwD8jD6lQ2oFtab8TFktC+trW/8fzwvmdVRrAaMt4eoytLk/k+1yxqZo9JH3B/0YhCKzjse0ypsb5aZix+2dKFokFu9Y08IMWTa4UrsBT2SJBrs5vo2YOebVd6EPu5tE4PH+1OmMqJfq6w/o5fNTVMqsfRzstm92YjdBOaa3FG3I11vfoPy9tc/o0MKmJFqp97+Y6aLUDayqPm1lmTZd71RRUg4QjAPr8Msxfl7rFagAjejy0UgsWe8SKxNznBDppGDniUz1p5HwzSPBZjzrI3YGs2ZY3/8YBIH9kyx;xmQD6YUr/5HPcqsu97Bgsw=="
 ---
 
