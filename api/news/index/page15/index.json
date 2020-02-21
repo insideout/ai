@@ -2,52 +2,6 @@
   "page": 15,
   "value": [
     {
-      "path": "_posts/_archive/2020-01-17-how-jpmorgan-and-fidelity-could-leverage-blockchain-to-modernize-financial-services.md",
-      "title": "How JPMorgan And Fidelity Could Leverage Blockchain To Modernize Financial Services",
-      "excerpt": "Large enterprises like JPMorgan, Fidelity and ICE are looking into using multi-party computations for a new breed of financial services business models. Leveraging blockchain and MPCs will lead to opening of massive opportunities for new services and products.",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/biserdimitrov/2020/01/16/how-jp-morgan-and-fidelity-could-leverage-blockchain-to-modernize-financial-services/",
-      "ampWebUrl": "https://www.forbes.com/sites/biserdimitrov/2020/01/16/how-jp-morgan-and-fidelity-could-leverage-blockchain-to-modernize-financial-services/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/biserdimitrov/2020/01/16/how-jp-morgan-and-fidelity-could-leverage-blockchain-to-modernize-financial-services/amp/",
-      "publishedDateTime": "2020-01-16T16:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e1fb5e2a854780006e89f78%2F0x0.jpg",
-          "width": 1200,
-          "height": 757,
-          "title": "How JPMorgan And Fidelity Could Leverage Blockchain To Modernize Financial Services",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-01-17-how-nhs-111-london-is-using-ai-to-ensure-patients-get-the-care-they-need-urgently.md",
       "title": "How NHS 111 London Is Using AI To Ensure Patients Get The Care They Need Urgently",
       "excerpt": "In London, the National Health Service’s 111 helpline receives up to 32,000 urgent calls every week. Here's how AI is helping the organisation deliver urgent medical health accurately and quickly.",
@@ -2117,6 +2071,50 @@
           "width": 1280,
           "height": 640,
           "title": "Google Pushes ‘Sensible’ Ideas for How to Regulate AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-20-how-artificial-intelligence-will-make-decisions-in-tomorrows-wars.md",
+      "title": "How Artificial Intelligence Will Make Decisions In Tomorrow’s Wars",
+      "excerpt": "Artificial intelligence isn't only a consumer and business-centric technology. Yes, companies use AI to automate various tasks, while consumers use AI to make their daily routines easier. But governments–and in particular militaries–also have a massive interest in the speed and scale offered by AI.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/simonchandler/2020/01/20/how-artificial-intelligence-will-make-decisions-in-tomorrows-wars/",
+      "ampWebUrl": "https://www.forbes.com/sites/simonchandler/2020/01/20/how-artificial-intelligence-will-make-decisions-in-tomorrows-wars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/simonchandler/2020/01/20/how-artificial-intelligence-will-make-decisions-in-tomorrows-wars/amp/",
+      "publishedDateTime": "2020-01-20T03:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e2584aea854780006cb3ed7%2F0x0.jpg",
+          "width": 1200,
+          "height": 753,
+          "title": "How Artificial Intelligence Will Make Decisions In Tomorrow’s Wars",
           "attribution": null
         }
       ],

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.wired.com/story/2021-escalade-super-cruise-self-driving/
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/2021-escalade-super-cruise-self-driving/amp"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -56,15 +56,6 @@ related:
       - url: "https://static.seekingalpha.com/uploads/2020/2/4/saupload_Dollar-Car-cropped_thumb1.png"
         width: 640
         height: 390
-  - title: "Photos: Smart Columbus self-driving shuttle starts rolling in Linden"
-    excerpt: "Smart Columbus has launched its self-driving shuttles between COTA routes and community centers in Linden. \"To be part of innovation in a community that deserves access and equity is exciting for us.\""
-    publishedDateTime: 2020-02-06T12:00:00Z
-    webUrl: "https://www.bizjournals.com/columbus/news/2020/02/06/photossmart-columbus-self-driving-shuttle-starts.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 4
 
 secured: "wDKTnGWq0M84+HSwuyLMfGqMviQDu9p4sNfAYkFrgIcK0BNnezunE5OaryqWdt29+x9vV4X6fZG7N/mdP58HH+NdJWno6JuepVz1fwFM3rAOqqbk9YJcjEHi3j2zsoF/+LUVhk4LNuGZoTPmdZeN5FXdSSaGeWvdAbO5c9bGdXmyDJP3UwcZZOQK2sWED4qcZrnyzFOZHv0kguxkmrDy0DdhR3+4lbxq7uaSciOf6RQIS1/8/FcL+yunsBsfdxUDLD+U2i3fTMxo9kI1H1gZBPXitqTwMlFYRO9sO0EuZEBRoCqdKTltysxGv+b8KtXi8cVamKTyFX9uAWKTasqVCIknc3sL1B3SuhJ6oQmmAI6gnc7y9KDTuOcwV7v1ltc3zVXGAVhJRONYrlV1izyMGLlmuZBBfED1Vu7a9KshYLajCfUAX0LPZ02ZODoPy17gDdkPLjq/4ObYKCjp1JEpejIU0rbGyDfbb46saOaBmUg=;6FCrOcXXY90Ab5XSSqIY4g=="
 ---

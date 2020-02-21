@@ -2,43 +2,6 @@
   "page": 21,
   "value": [
     {
-      "path": "_posts/_archive/2020-01-28-why-silicon-valley-is-obsessed-with-robots-delivering-pizza.md",
-      "title": "Why Silicon Valley is obsessed with robots delivering pizza",
-      "excerpt": "A robot that bakes the well-loved meal was a big hit at the Consumer Electronics ... Here’s a second reason for caution: Despite heady media claims that pizza is now being made by artificial intelligence (and a similar suggestion from the company itself), Picnic’s device doesn’t quite earn that encomium. I tend to agree with Melanie ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://theprint.in/tech/why-silicon-valley-is-obsessed-with-robots-delivering-pizza/355357/",
-      "ampWebUrl": "https://theprint.in/tech/why-silicon-valley-is-obsessed-with-robots-delivering-pizza/355357/?amp",
-      "cdnAmpWebUrl": "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/tech/why-silicon-valley-is-obsessed-with-robots-delivering-pizza/355357/?amp",
-      "publishedDateTime": "2020-01-27T23:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ThePrint",
-        "domain": "theprint.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2c7ipcroan06u.cloudfront.net/wp-content/uploads/2018/06/robot-e1527912484227.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Why Silicon Valley is obsessed with robots delivering pizza",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-01-28-yogi-raises-23m-uses-neural-networking-to-reconstruct-the-entire-customer-feedback-process.md",
       "title": "Yogi Raises $2.3M Uses Neural Networking to Reconstruct the Entire Customer Feedback Process",
       "excerpt": "Customer feedback ... to the Yogi platform while also adding more functionality to our product. What’s your favorite restaurant in the city? I’m all about getting my day started right, so nothing beats a Sausage, Egg, & Cheese Bagel at New York City ...",
@@ -2093,6 +2056,50 @@
           "width": 720,
           "height": 400,
           "title": "AI Finds 'Square Structure' Inside 'Triangle' on Ceres, Failing Experiment to See If It Could Be Used to Find Aliens",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-30-ai-stats-news-35-of-workers-worldwide-expect-their-job-will-be-automated.md",
+      "title": "AI Stats News: 35% Of Workers Worldwide Expect Their Job Will Be Automated",
+      "excerpt": "Recent surveys, studies, forecasts and other quantitative assessments of the progress of AI highlight anxiety about AI eliminating jobs, the competition for AI talent, questions about employees AI preparedness,",
+      "heat": 85,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/gilpress/2020/01/30/ai-stats-news-35-of-workers-worldwide-expect-their-job-will-be-automated/",
+      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2020/01/30/ai-stats-news-35-of-workers-worldwide-expect-their-job-will-be-automated/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2020/01/30/ai-stats-news-35-of-workers-worldwide-expect-their-job-will-be-automated/amp/",
+      "publishedDateTime": "2020-01-30T06:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1050855180%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "AI Stats News: 35% Of Workers Worldwide Expect Their Job Will Be Automated",
           "attribution": null
         }
       ],

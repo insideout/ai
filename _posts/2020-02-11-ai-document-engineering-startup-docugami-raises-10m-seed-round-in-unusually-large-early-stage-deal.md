@@ -44,21 +44,6 @@ related:
       - url: "https://assets.entrepreneur.com/content/3x2/2000/20200211171501-Tribal-DarkCardMock-Simple.png?width=600&crop=16:9"
         width: 600
         height: 338
-  - title: "UK Fintech Rimilia Raises $15 Million Through Latest Investment Round"
-    excerpt: "Rimilia, a UK-based SaaS fintech, announced earlier this week it raised $15 million through its latest ... while also focusing on building out our team to add further subject matter expertise and leading data scientists to further advance our automation and AI.” The funding, which brings the total amount raised by Rimilia to $40 million ..."
-    publishedDateTime: 2020-02-06T12:08:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/02/157192-uk-fintech-rimilia-raises-15-million-through-latest-investment-round/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/02/157192-uk-fintech-rimilia-raises-15-million-through-latest-investment-round/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/02/157192-uk-fintech-rimilia-raises-15-million-through-latest-investment-round/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 59
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2016/10/Coins-Pounds-Money-UK-sketch-600x415.jpg"
-        width: 600
-        height: 415
   - title: "North Texas startup grabs $1 million in funding as it focuses on AI tools for health care"
     excerpt: "DocSynk is kicking off the year with new bridge funding. The North Texas startup focused on health care received the package from private equity firm Colosseum Group in Chicago, according to a news release."
     publishedDateTime: 2020-02-12T19:54:00Z

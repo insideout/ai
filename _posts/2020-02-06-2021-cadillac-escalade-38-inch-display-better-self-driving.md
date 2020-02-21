@@ -52,15 +52,6 @@ related:
       - url: "https://static.seekingalpha.com/uploads/2020/2/4/saupload_Dollar-Car-cropped_thumb1.png"
         width: 640
         height: 390
-  - title: "Photos: Smart Columbus self-driving shuttle starts rolling in Linden"
-    excerpt: "Smart Columbus has launched its self-driving shuttles between COTA routes and community centers in Linden. \"To be part of innovation in a community that deserves access and equity is exciting for us.\""
-    publishedDateTime: 2020-02-06T12:00:00Z
-    webUrl: "https://www.bizjournals.com/columbus/news/2020/02/06/photossmart-columbus-self-driving-shuttle-starts.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 4
 
 secured: "U6yxG4hfIi2zpHAVBjet3AUIIBYy0hrlIsWnD5mPvc4IVTvKwmSmANDRRpZwre6/oB5Lgod6cyhq8y2v+P4/n22rgtdrkFNFP32O284eeKLDFVMAV7D4Lk+rh5hWurAY39vfwUbisW6T3c6JPs0tvlE/prDtG8Uf7L1NvpGjuKrxbGCPxYkZfkvwe7S85UQMqVYowRs/5XUksHM9IBI5LJeWSMCxuqodJ65ghoEGsFDdjNSk3WdpgSpswfa6sp3AoZfjNj6flliyfcPk253xoObYvwn+4M+9kNOmBhWZV2vLRIFhAw0JTyl9KCHyv2mZ;ils5fqGPb5RZmwVimMV9uA=="
 ---

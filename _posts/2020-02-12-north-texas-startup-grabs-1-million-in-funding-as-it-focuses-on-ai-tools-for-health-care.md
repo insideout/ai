@@ -56,21 +56,6 @@ related:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2020/02/Docugami-Board-of-Directors-February-2020-1-630x443.jpg"
         width: 630
         height: 443
-  - title: "UK Fintech Rimilia Raises $15 Million Through Latest Investment Round"
-    excerpt: "Rimilia, a UK-based SaaS fintech, announced earlier this week it raised $15 million through its latest ... while also focusing on building out our team to add further subject matter expertise and leading data scientists to further advance our automation and AI.” The funding, which brings the total amount raised by Rimilia to $40 million ..."
-    publishedDateTime: 2020-02-06T12:08:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/02/157192-uk-fintech-rimilia-raises-15-million-through-latest-investment-round/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/02/157192-uk-fintech-rimilia-raises-15-million-through-latest-investment-round/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/02/157192-uk-fintech-rimilia-raises-15-million-through-latest-investment-round/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 59
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2016/10/Coins-Pounds-Money-UK-sketch-600x415.jpg"
-        width: 600
-        height: 415
   - title: "Dave Copps’ stealthy AI startup emerges with $10 million in backing"
     excerpt: "“As the number of IoT devices continues to grow, so will the need for AI and machine learning solutions to help manage the massive influx of data these devices will create.” Worlds’ funding round continues the fast start this year for Dallas-based ..."
     publishedDateTime: 2020-02-07T13:58:00Z

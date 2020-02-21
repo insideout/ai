@@ -1,21 +1,21 @@
 ---
 category: news
-title: "Artificial Neural Network Market- Global Analysis, Latest Trends, Industry Growth, Technology Innovation and Regional Forecast"
-excerpt: "The artificial neural network market globally has been segmented into component, type, and application. By type, the market has been segmented into feedforward artificial neural network, feedback artificial neural network, and others. The market segmentation by component has been segmented into services, software, and platform. By application ..."
-publishedDateTime: 2020-02-06T12:30:00Z
-webUrl: "https://www.openpr.com/news/1921905/artificial-neural-network-market-global-analysis-latest"
+title: "Global In Flight Voice Recognition Market, 2014-2019 & 2020-2024 - Analysis by Technology, Aircraft Type, Application and Region"
+excerpt: "Dublin, Feb. 06, 2020 (GLOBE NEWSWIRE) -- The \"Global In Flight Voice Recognition Market, By Technology, By Aircraft Type, By Application (Commercial Aviation, Military Aviation), By Region, Competition,"
+publishedDateTime: 2020-02-06T12:19:00Z
+webUrl: "https://www.globenewswire.com/news-release/2020/02/06/1980975/0/en/Global-In-Flight-Voice-Recognition-Market-2014-2019-2020-2024-Analysis-by-Technology-Aircraft-Type-Application-and-Region.html"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: openpr.com
-  domain: openpr.com
+  name: GlobeNewswire
+  domain: globenewswire.com
 
 topics:
   - AI
-  - Machine Learning
+  - Natural Language Processing
 
 related:
   - title: "Facial Recognition Market Present Scenario and Growth Analysis till 2026"
@@ -123,23 +123,14 @@ related:
       name: SecuriMetrics HIIDE
       domain: findbiometrics.com
     quality: 4
-  - title: "Artificial Intelligence as a Service (AIaaS) Market Analysis by Business Methodologies, Financial Overview and Growth Prospects Predicted by 2023"
-    excerpt: "The advancement in the concepts of deep learning, machine learning, and natural language processing is boosting the Artificial Intelligence as a Service market. The growth in the popularity of AI-enabled tools is motivating the expansion of the market. Moreover, the benefits such as transparency in business operations and minimal cost of ..."
-    publishedDateTime: 2020-02-06T11:35:00Z
-    webUrl: "https://www.openpr.com/news/1921721/artificial-intelligence-as-a-service-aiaas-market-analysis"
+  - title: "Artificial Neural Network Market- Global Analysis, Latest Trends, Industry Growth, Technology Innovation and Regional Forecast"
+    excerpt: "The artificial neural network market globally has been segmented into component, type, and application. By type, the market has been segmented into feedforward artificial neural network, feedback artificial neural network, and others. The market segmentation by component has been segmented into services, software, and platform. By application ..."
+    publishedDateTime: 2020-02-06T12:30:00Z
+    webUrl: "https://www.openpr.com/news/1921905/artificial-neural-network-market-global-analysis-latest"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 0
-  - title: "Global In Flight Voice Recognition Market, 2014-2019 & 2020-2024 - Analysis by Technology, Aircraft Type, Application and Region"
-    excerpt: "Dublin, Feb. 06, 2020 (GLOBE NEWSWIRE) -- The \"Global In Flight Voice Recognition Market, By Technology, By Aircraft Type, By Application (Commercial Aviation, Military Aviation), By Region, Competition,"
-    publishedDateTime: 2020-02-06T12:19:00Z
-    webUrl: "https://www.globenewswire.com/news-release/2020/02/06/1980975/0/en/Global-In-Flight-Voice-Recognition-Market-2014-2019-2020-2024-Analysis-by-Technology-Aircraft-Type-Application-and-Region.html"
-    type: article
-    provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
     quality: 0
   - title: "Voice Recognition for Automotive Market Trends, Opportunities, Key Players, Growth, Analysis, Outlook & Forecasts To 2025"
     excerpt: "The market study on the global Voice Recognition for Automotive Market will include the entire ecosystem of the industry, covering five major regions namely North America, Europe, Asia Pacific, Latin America and Middle East & Africa, and the major countries falling under those regions. The study will feature estimates in terms of sales revenue ..."
@@ -160,6 +151,6 @@ related:
       domain: openpr.com
     quality: 0
 
-secured: "387bNaqA1QIF8DAIS5xmVOq0+0kjm948kdjNoeHBU3RwYJTEH+SqETbLrB0GaCVAUdbwhYSTXf4g/xf7Hue3TFuGS8SYf4Y26jgoIPbfvuTO7MNo2yWW4ohhed/lc+9V+dIRgqkdCAHw1LBpDmzE7XWznWeO8A1/bK3DuTRX/DxIut+LKANJkmC58TzWBbHcCFZOUEc/uISFxxfQTgmckVjtp/uAjxrmKoOR09El1hWA+95J6vaujPBC+qmDwBYMZNmgZXqLAESPfclx7mtaDxgW1qnEkZ1UyN6t+vT/BrCGlq3gR96bT3MjgKHlg3ZD;AxvY9K52QgIdIwx8p0spew=="
+secured: "A3qBTpG6ELxIgI33f71JDoctP0b0KiTZhM04QOU+Gc+bn4b/utGWWtUVbVg8mP1v8qNIwIEEWE94cwnvYV1PRk9tqvuuKoO9Q86OSpX1ROTDv9Pim3h5qYeE0Dw+vC5KyQMIjnz2ZNZMec3/dhaNImPvL3AQ8ZPeH1g7aMhZCAThnGa2bgTDdnWZc+NToI8/AvSOBcmEsPKWRkrLk1+VIgvB7KIJcE2rfAOf0Q9tC7cQmvsVbLLei2V1Iff0RouJ66UfIH2EfFq4lVNdMyC4VK/FqUPPdam/5h7HMcq8gLgktuyIULwWdZmE9+4MIFW2;EdUtasBImnRSJbHFRC1Qyw=="
 ---
 

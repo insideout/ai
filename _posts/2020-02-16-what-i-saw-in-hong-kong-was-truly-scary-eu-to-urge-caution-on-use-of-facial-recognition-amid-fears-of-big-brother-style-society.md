@@ -114,15 +114,6 @@ related:
       - url: "https://media.bizj.us/view/img/11480968/rob-glaser-ceo-realnetworks-01*600xx4965-3310-9-0.jpg"
         width: 600
         height: 400
-  - title: "Google and YouTube want Clearview AI to stop scraping images and video for facial recognition database"
-    excerpt: "Facebook told CBS News that it, too, is reviewing the company's controversial practices, but so far hasn't made any decision on what to do about it. The social giant is on thin ice when it comes to facial recognition, after being brought to court for silently doing it in the background using photos uploaded by its users."
-    publishedDateTime: 2020-02-06T11:51:00Z
-    webUrl: "https://www.techspot.com/news/83883-google-youtube-want-clearview-ai-stop-scraping-images.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 48
   - title: "Facial recognition has been championed for keeping data safe - but some targeting practices are making customers uneasy"
     excerpt: "eMarketer shares key 2020 insights on which uses of facial recognition technology will be the best received by audiences and how advertisers can adjust their strategies accordingly."
     publishedDateTime: 2020-02-11T22:23:00Z

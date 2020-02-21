@@ -3,7 +3,7 @@ category: news
 title: "Microsoft Preps for RSA Conference with Multiple Security Product Announcements"
 excerpt: "Azure Sentinel uses so-called \"Fusion\" machine learning technology to find the most important threats. How that's done is outlined in this blog post by Ram Shankar Siva Kumar of Microsoft's cloud and AI security team. Microsoft Defender ATP for Linux Previews Microsoft is extending endpoint detection and response protections with its currently ..."
 publishedDateTime: 2020-02-21T01:21:00Z
-webUrl: "https://redmondmag.com/articles/2020/02/20/microsoft-rsa-security-product-announcements.aspx"
+webUrl: "https://redmondmag.com/articles/2020/02/20/microsoft-rsa-security-product-announcements.aspx?m=1"
 type: article
 quality: 35
 heat: -1
@@ -66,6 +66,6 @@ related:
         width: 600
         height: 600
 
-secured: "2wBjcfckIOZ+7Riy8kFB54Yn9l1n4k6OaD9Jzu8bMwlCOcHqigKUcpKer1IFCc7RM+MLcX9XGObwJWp/wy+iI6Pa4cLgfJ5d+wkN+6Cl5uuB0a0lmyEHU3Ok1/2fxaOEwKu7vTYKltDXRQBokkDXQqsofbM2hthjloADQwxW3oWNw5cXpzy0T8eKDUQBLKpHNjQ1rhE54N7PgOHKWrS2NBq0ijMJbFhpDcEyHVmw4/aIzPER6WYbZdp5/ZnCZuWjwXPwj3QFBnXk4LmIDZ12bwmKH3hloZXDg+iKfVA6dm58q64Oi81Ga194l2yFJcSKOl6WEhy5dYM0q/jyj99xopYAwYeUxS3VM+L6DYoPCKWOJeAYZTjKckeIPHwzptkHu9Xi1Ki+2cksjlqq6f8ZyUhWMmoNnl6drHxJlSWUjPOyRtYuIfuZkfTPnOGgDKAOQvWfOXO28taNR57vVDO8OLNzzrp5fYM2HAecpd8rC0g=;1zhGXFLFMf02goxcxgmR+Q=="
+secured: "t8boh3D553rCS6lJCTtCfftb5UhZZ1JNDQ22GhECDaJNbjyNfHOxuFVlHISVEVUN8od0PqpNiyFsx1W1OF7/T4CaKcDeEdPn3bIxgvWhsQpqbzXFv9AN395f4JHHItMFFQzGJPl/1RQbglw0NEzzHSsAfFqapISFaZGr5dg4fOSqS6RIrPlrM2Q69hPxpBZTf+pJDUy0eVDacg8ecANQrEl3onkh3PjO2SB57Tb2x1qv0VxmIMu/DrocHfTN74K42yndQh3xu+S5CtfAP2L7P8DP2m0TSKKfqZGzRbc3ORGYBuGVuK62bFz1JXJciSGY;2hdvD5xV12IHo9V0O2v4UQ=="
 ---
 

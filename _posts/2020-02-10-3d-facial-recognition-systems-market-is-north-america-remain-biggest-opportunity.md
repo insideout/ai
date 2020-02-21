@@ -116,15 +116,6 @@ related:
       name: SecuriMetrics HIIDE
       domain: findbiometrics.com
     quality: 4
-  - title: "Artificial Intelligence as a Service (AIaaS) Market Analysis by Business Methodologies, Financial Overview and Growth Prospects Predicted by 2023"
-    excerpt: "The advancement in the concepts of deep learning, machine learning, and natural language processing is boosting the Artificial Intelligence as a Service market. The growth in the popularity of AI-enabled tools is motivating the expansion of the market. Moreover, the benefits such as transparency in business operations and minimal cost of ..."
-    publishedDateTime: 2020-02-06T11:35:00Z
-    webUrl: "https://www.openpr.com/news/1921721/artificial-intelligence-as-a-service-aiaas-market-analysis"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
   - title: "Artificial Neural Network Market- Global Analysis, Latest Trends, Industry Growth, Technology Innovation and Regional Forecast"
     excerpt: "The artificial neural network market globally has been segmented into component, type, and application. By type, the market has been segmented into feedforward artificial neural network, feedback artificial neural network, and others. The market segmentation by component has been segmented into services, software, and platform. By application ..."
     publishedDateTime: 2020-02-06T12:30:00Z

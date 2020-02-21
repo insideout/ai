@@ -99,15 +99,6 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F104630ce-4cea-11ea-95a0-43d18ec715f5?source=google-amp&fit=scale-down&width=500"
         width: 500
         height: 281
-  - title: "Google and YouTube want Clearview AI to stop scraping images and video for facial recognition database"
-    excerpt: "Facebook told CBS News that it, too, is reviewing the company's controversial practices, but so far hasn't made any decision on what to do about it. The social giant is on thin ice when it comes to facial recognition, after being brought to court for silently doing it in the background using photos uploaded by its users."
-    publishedDateTime: 2020-02-06T11:51:00Z
-    webUrl: "https://www.techspot.com/news/83883-google-youtube-want-clearview-ai-stop-scraping-images.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 48
   - title: "Facial recognition has been championed for keeping data safe - but some targeting practices are making customers uneasy"
     excerpt: "eMarketer shares key 2020 insights on which uses of facial recognition technology will be the best received by audiences and how advertisers can adjust their strategies accordingly."
     publishedDateTime: 2020-02-11T22:23:00Z

@@ -90,21 +90,6 @@ related:
       - url: "https://media1.s-nbcnews.com/i/newscms/2020_06/2878756/190531-facebook-mc-1420_f639f66c650025e6a1878b44481e1754.JPG"
         width: 2500
         height: 1668
-  - title: "Facebook and LinkedIn are latest to demand Clearview stop scraping images for facial recognition tech"
-    excerpt: "Facebook has “demanded” that Clearview AI stop using data scraped from its social networks for its controversial facial recognition database, CBSNews reports. “Scraping people’s information violates our policies,” a spokesperson for the company said, “Which is why we’ve demanded that Clearview stop accessing or using information f ..."
-    publishedDateTime: 2020-02-06T11:56:00Z
-    webUrl: "https://www.theverge.com/2020/2/6/21126063/facebook-clearview-ai-image-scraping-facial-recognition-database-terms-of-service-twitter-youtube"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2020/2/6/21126063/facebook-clearview-ai-image-scraping-facial-recognition-database-terms-of-service-twitter-youtube"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/6/21126063/facebook-clearview-ai-image-scraping-facial-recognition-database-terms-of-service-twitter-youtube"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 74
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/7l1HObT4uIVko8_sSo6v9vlNURg=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66260685/acastro_170329_1777_facebook_0001.0.jpg"
-        width: 1400
-        height: 933
   - title: "Facial recognition moves into a new front: schools"
     excerpt: "LOCKPORT, N.Y. — Jim Shultz tried everything he could think of to stop facial recognition technology from entering the public schools in Lockport, a small city 20 miles east of Niagara Falls. He posted about the issue in a Facebook group called Lockportians. He wrote an Op-Ed in The New York Times. He filed a petition with the superintendent ..."
     publishedDateTime: 2020-02-06T13:00:00Z

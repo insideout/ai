@@ -21,19 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Plannuh Raises $4 Million To Expand AI-Driven Marketing, Budgeting and Planning Platform"
-    excerpt: "/PRNewswire/ -- Plannuh, a startup transforming the way marketers plan and budget, today announced a $4 million seed round co-led by Glasswing Ventures"
-    publishedDateTime: 2020-02-06T12:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/plannuh-raises-4-million-to-expand-ai-driven-marketing-budgeting-and-planning-platform-300999949.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 28
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
   - title: "ASG Technologies Partners with 4th-IR to Enrich ASG Data Intelligence with AI Models and Data Expertise"
     excerpt: "ASG and 4th-IR have also combined the power of an automated lineage process with the analytical capabilities of artificial intelligence in the Virtual Compliance Officer (VCO). The VCO helps companies enhance compliance and performance in their audits with an efficient and scalable workforce. \"4th-IR provides Applied Intelligence to enhance the ..."
     publishedDateTime: 2020-02-18T13:39:00Z

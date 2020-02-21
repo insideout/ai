@@ -52,15 +52,6 @@ related:
       - url: "https://www.extremetech.com/wp-content/uploads/2020/02/Escalade-0764B8300.jpg"
         width: 1344
         height: 743
-  - title: "Photos: Smart Columbus self-driving shuttle starts rolling in Linden"
-    excerpt: "Smart Columbus has launched its self-driving shuttles between COTA routes and community centers in Linden. \"To be part of innovation in a community that deserves access and equity is exciting for us.\""
-    publishedDateTime: 2020-02-06T12:00:00Z
-    webUrl: "https://www.bizjournals.com/columbus/news/2020/02/06/photossmart-columbus-self-driving-shuttle-starts.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 4
 
 secured: "lg1f/I0bewBJX5H5tGpzUYCKSbm3VbKbiPpINKZ6zSL+7CUf8TSLSsEHDEBY7W31LMjMdmQ+y3FRroBlNOSlkChKamQadMqXr7cj0M30oU0QH/rA70HsE45k7Y+WbzELbHQc3GXngSB8RqIefuG71LKMzjd+LPG1k7woMyF9Xoc5KdZQ9uEEw+nMJyg9H/rpfSHQbEhHS8tF0T1d9B+zHAvGswoWGBL33mCDkfldCwj2I/48kjbwLOzBd1iCuiEuwCk0Z/WGKEMMk97dUna0Gi522qi9DhnrM8e80eDZgAqcNFSiaYZ64KXjRXLIdncCGJdogmO3JR4lSdlLEN6AGffT8QUNPdgpGFO+FO9S/RpuZHW7DucfnorDR4JgpT8tjgqc0D1zyBVzeomrGwTZazjdReqBAcvxTJl2SUjYGP4fZFGHZ9LJwsP0Z8E7ZK6AS4A3CRCur3AoziMXJpzk3eVDUVQ+gnlim1Xopr8TZE0=;7UghYY9sTPABw1PiwN7bew=="
 ---

@@ -2,8 +2,8 @@
 category: news
 title: "UCLA cancels on-campus facial recognition program after backlash"
 excerpt: "This article, UCLA cancels on-campus facial recognition program after backlash, originally appeared on CNET.com. UCLA will not go forward with a facial recognition program, and will prohibit the technology's use on campus,"
-publishedDateTime: 2020-02-20T02:19:00Z
-webUrl: "https://www.sfgate.com/cnet/article/UCLA-cancels-on-campus-facial-recognition-program-15068812.php?ipid=newsrecirc"
+publishedDateTime: 2020-02-20T06:20:00Z
+webUrl: "https://www.sfgate.com/cnet/article/UCLA-cancels-on-campus-facial-recognition-program-15068812.php"
 type: article
 quality: 39
 heat: -1
@@ -306,6 +306,6 @@ related:
         width: 623
         height: 432
 
-secured: "aiEFGK6A9T2TRq8ePgo3Ako/l9bpZKVi53eFWDOxRXXqtUlo+LmHkl8cszJpZtOH8h8Ozr/MlH4wPSs4SaPjZAyRanzMim4wxgmGkUo1CqqnGhuwjjZrdurHzBr16sPpS7SpDN1jQjLySxVumgHW2tdguITDDolycp1rY/ywzwAhj26Lr0ZpX4v89caEmdQFZMQXoCD2i3/w7oE4zb/K0SeZWkWe+lLkObXi/OLynI2fKO1WrlQm1DAXxMYeqsfuNmggCHCKkYAu3abUG26I9FImOCPldEQ9EahHfvUD/7ljL9Ll0QhuFFwJCfACIFaS+ugVyX3bgF1oJCFg5DRZuY+oPT98692ZiPB/seFEe6H8JKwQbKI7czW/MFKliK5tIHs1PdDx5177GKEcFIdui38ptDe+uDD78j4oEPzGm5Tq7SHpWBunIxph/un1iPcxEQvFsQ3ifc2uavWm45PEqg522y9oOlVUoRY2XJV/NM4=;FCZafbvOTENb/YsuvLPhWg=="
+secured: "395Y4KHsTd6WP5SolmaDBQspKtWOY4xyfpLV7H5cBLBJn5Hhzjx+fMduvU002tPmwKmlzHhjETCzOM+shz0n/E91ffGC2WFMfqjbrq6s9dBTLdECDLM0KNOsGzfFFbd0uYkYzGgW/SSgUMnjJkW8GlmzrgIICREt/EfaEpwMN9sVuPO5UltCEyP+icOm/A8ufa9lDWqngZwb2Co7HW8WDjGab3vQ60tQ7zs36yEVj9owY/4vUCR945SpubIatARuyO/5AKlc3F7zx+0ul00UcPDoiuSBUz/vdJVpsZcpMpMsQfNAqxgUjP1ZpJr9msT8;uaWH0abHWOpyJBcXK5+phg=="
 ---
 

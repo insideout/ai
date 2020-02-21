@@ -66,15 +66,6 @@ related:
       - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/02/p-1-facebook-joins-others-in-contesting-face-recognition-firmand8217s-scraping.jpg"
         width: 1280
         height: 720
-  - title: "Facebook is latest to demand Clearview stop using its images for controversial facial recognition"
-    excerpt: "Facebook has “demanded” that Clearview AI stop using data scraped from its social networks for its controversial facial recognition database, CBSNews reports. “Scraping people’s information violates our policies,” a spokesperson for the company ..."
-    publishedDateTime: 2020-02-06T11:57:00Z
-    webUrl: "https://www.theverge.com/2020/2/6/21126063/facebook-clearview-ai-image-scraping-facial-recognition-database-terms-of-service-twitter-youtube"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 36
   - title: "Facebook, YouTube, Twitter warn Clearview face-recognition service to stop harvesting images"
     excerpt: "Facebook joined YouTube, Twitter and payment service Venmo on Wednesday in demanding that a facial recognition company stop harvesting user images to identify the people in them, which the startup does as part of its work with police. Facebook said it has demanded New York-based Clearview AI stop accessing or using information from its flagship ..."
     publishedDateTime: 2020-02-06T19:37:00Z

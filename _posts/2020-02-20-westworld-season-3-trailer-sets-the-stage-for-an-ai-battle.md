@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/2020/02/20/westworld-new-season-3-trail
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/20/westworld-new-season-3-trailer/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -27,6 +27,23 @@ images:
     width: 600
     height: 350
     title: "'Westworld' season 3 trailer sets the stage for an AI battle"
+
+related:
+  - title: "Westworld’s season 3 trailer pits AI against AI in an intense showdown"
+    excerpt: "The second season saw those same artificially intelligent beings lead a revolution against their human counterparts. Now, a new trailer for Westworld’s third season, premiering on March 15th, pits AI against AI. In Westworld’s third season, Dolores has escaped from the Delos-owned park she called home — or perhaps prison is the more ..."
+    publishedDateTime: 2020-02-20T18:25:00Z
+    webUrl: "https://www.theverge.com/2020/2/20/21145734/westworld-season-3-trailer-premiere-date-dolores-maeve-aaron-paul-tessa-thompson"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/2/20/21145734/westworld-season-3-trailer-premiere-date-dolores-maeve-aaron-paul-tessa-thompson"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/20/21145734/westworld-season-3-trailer-premiere-date-dolores-maeve-aaron-paul-tessa-thompson"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 87
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/MPNVa5MD5XP74qf9laGKSJQtz7s=/0x0:1672x826/1400x933/filters:focal(703x280:969x546):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66344588/Screen_Shot_2020_02_20_at_1.00.44_PM.0.png"
+        width: 1400
+        height: 826
 
 secured: "+SfQnERXhFX2z8IO7hM6h2ojIg0lRscR607XotmfKBfhsgcKER5r4PMsvZFYL6r3spyjKhfhwEjdVYcb+ekeJby5bVdx4Pa2HojvGaJdJgf4pnWxjUTpJgfbxt3k9zI+oBwAOxncZyccK7yN2Ja2impn51pL+ukP6l6AgdzheDwRKGJ/13NigRPgLd3IdA9cFIPJgazN1NZAfbCpQx717mfxvUrpzLc1iEQfKJCthS3B2cOtI9vmz7hVYH4SFfqxIcWqh1KuanGJLn0anxgHJ10ra7zVngJEdR4mCYWTAjvMma4x/ohdaZ11X51sN0OHCoE4Uwe9XYHDWEWeacQUSeCaLvl/v3w3CL1MA/DF/t8vTm3m+G6KdvZfVEtz4sn+LPZWrhtcpDpN2AmM2s170tJpzEovR35v+YoaEVsTMKkAo3UoPH2euJOBRvduKTQMoQFyL5ix/g/flgWclXryR2T/xpiBndveaRIdzzMtMZo=;v8ER63xZKw3rCPf3pmJ5tA=="
 ---
