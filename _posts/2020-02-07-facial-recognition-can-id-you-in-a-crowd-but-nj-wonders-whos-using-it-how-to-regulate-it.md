@@ -149,15 +149,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 32
-  - title: "Internet giants reject controversial facial-recognition start-up"
-    excerpt: "Google and its subsidiary YouTube, Twitter, and Facebook have demanded that Clearview AI stops scraping their platforms of photos of peoples’ faces to train its facial-recognition tools. The start-up was exposed in a recent New York Times report. Clearview AI is a start-up which offers facial-recognition tools based on three billion ..."
-    publishedDateTime: 2020-02-06T12:46:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2020/02/internet-giants-reject-controversial-facial-recognition-start-up/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 4
 
 secured: "fEueY8OTeDGf2qIPWbFIXWMHF21kkplnlqVrMPyvbJYCBT/g4Zp0W1OCP+fp+Pg9HEffsPgnKZSdZ+os5BK5GcEuWjwSbnCWh36wL/L39RBFeKEddu+Ls/RCl8PUsdzzicDJdAlOfOZAVp3o7YSL0Fodyu9OEPZJqa8RdAT2b8MSOOLZhqm+RmD5B7DDwzzJJmmNc9V1yP/z/s4kYig6LfnSAh3dKJld/Qdk1iTdju82OCqZbPPSUoY9AHAc0RgyiN8kjznL8y+P4cLdtVQFHx0Zu5A6h52o3I3MVu+R36D0yBcvpy0aO1MBrx8bdPXc;iT0HoLKTIqjFVtDscrPOqA=="
 ---

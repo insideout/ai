@@ -102,15 +102,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 37
-  - title: "Global Robo Taxi Market 2026 Information Procurement and Data Analysis"
-    excerpt: "A Robo-Taxi, also known as a Robo-Cab, is a driverless taxi or a self-driving taxi. Its primary purpose is to eliminate the need for human ... Companies such as Lyft, DiDi, Uber, and Baidu are the major ride-hailing service providers. These players are the major potential customers for Robo -Taxi. Nowadays, most companies are focusing on ..."
-    publishedDateTime: 2020-02-06T12:43:00Z
-    webUrl: "https://www.openpr.com/news/1921960/global-robo-taxi-market-2026-information-procurement-and-data"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 4
   - title: "Meticulous Forecasts $26.8 Billion Speech and Voice Recognition Market"
     excerpt: "Meticulous Research has released a new report that predicts that the market for speech and voice recognition technology will climb to $26.8 billion between 2019 and 2025. That figure represents a CAGR of 17.2 percent. Meticulous credits the anticipated ..."
     publishedDateTime: 2020-02-07T00:00:00Z
@@ -120,24 +111,6 @@ related:
       name: SecuriMetrics HIIDE
       domain: findbiometrics.com
     quality: 4
-  - title: "Artificial Neural Network Market- Global Analysis, Latest Trends, Industry Growth, Technology Innovation and Regional Forecast"
-    excerpt: "The artificial neural network market globally has been segmented into component, type, and application. By type, the market has been segmented into feedforward artificial neural network, feedback artificial neural network, and others. The market segmentation by component has been segmented into services, software, and platform. By application ..."
-    publishedDateTime: 2020-02-06T12:30:00Z
-    webUrl: "https://www.openpr.com/news/1921905/artificial-neural-network-market-global-analysis-latest"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
-  - title: "Global In Flight Voice Recognition Market, 2014-2019 & 2020-2024 - Analysis by Technology, Aircraft Type, Application and Region"
-    excerpt: "Dublin, Feb. 06, 2020 (GLOBE NEWSWIRE) -- The \"Global In Flight Voice Recognition Market, By Technology, By Aircraft Type, By Application (Commercial Aviation, Military Aviation), By Region, Competition,"
-    publishedDateTime: 2020-02-06T12:19:00Z
-    webUrl: "https://www.globenewswire.com/news-release/2020/02/06/1980975/0/en/Global-In-Flight-Voice-Recognition-Market-2014-2019-2020-2024-Analysis-by-Technology-Aircraft-Type-Application-and-Region.html"
-    type: article
-    provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 0
   - title: "Voice Recognition for Automotive Market Trends, Opportunities, Key Players, Growth, Analysis, Outlook & Forecasts To 2025"
     excerpt: "The market study on the global Voice Recognition for Automotive Market will include the entire ecosystem of the industry, covering five major regions namely North America, Europe, Asia Pacific, Latin America and Middle East & Africa, and the major countries falling under those regions. The study will feature estimates in terms of sales revenue ..."
     publishedDateTime: 2020-02-07T11:00:00Z

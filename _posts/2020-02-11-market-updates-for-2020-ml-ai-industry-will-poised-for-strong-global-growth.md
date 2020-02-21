@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-11T10:47:00Z
 webUrl: "https://www.marketwatch.com/press-release/market-updates-for-2020-ml-ai-industry-will-poised-for-strong-global-growth-2020-02-11"
 type: article
 quality: 67
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -63,19 +63,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Natural Language Processing Market Global Industry Growth, Trends, Revenue, Key Suppliers and Demand Projections by 2026"
-    excerpt: "Top Players in Natural Language Processing Market are 3M Company, Adobe Systems Inc., Amazon Web Services Inc., Apple Inc., Google (Alphabet Inc.), Hewlett-Packard Enterprise Company, Intel Corporation,"
-    publishedDateTime: 2020-02-06T12:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-global-industry-growth-trends-revenue-key-suppliers-and-demand-projections-by-2026-2020-02-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 44
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

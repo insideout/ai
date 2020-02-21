@@ -2,115 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_posts/2020-02-13-the-illusion-of-artificial-emotional-awareness.md",
-      "title": "The Illusion of Artificial Emotional Awareness",
-      "excerpt": "Welcome to the world of affective computing, also known as emotion AI. A relatively new branch of computer science ... Since writing Heart of the Machine: Our Future in a World of Artificial Emotional Intelligence, I’ve routinely had to explain that none of this technology is giving computers the ability to experience or understand emotions ...",
-      "heat": 162,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.psychologytoday.com/intl/blog/the-intelligence-report/202002/the-illusion-artificial-emotional-awareness",
-      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/the-intelligence-report/202002/the-illusion-artificial-emotional-awareness?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-intelligence-report/202002/the-illusion-artificial-emotional-awareness?amp",
-      "publishedDateTime": "2020-02-13T12:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-13-the-open-wearables-initiative-expands-founding-team-begins-soliciting-algorithms-and-datasets-for-wearable-and-connected-health-technologies.md",
-      "title": "The Open Wearables Initiative expands founding team; begins soliciting algorithms and datasets for wearable and connected health technologies",
-      "excerpt": "Its goal is to provide the industry with a searchable database of benchmarked algorithms and source code that can be freely used by everyone ... researchers who use our wearable sensors for healthcare applications and encouraging them to register their algorithms and datasets with OWEAR as well,\" said Geoffrey Gill, president of Shimmer ...",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.eurekalert.org/pub_releases/2020-02/rhsl-tow021220.php",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-13T05:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/multimedia/pub/web/224124_web.jpg",
-          "width": 1440,
-          "height": 957,
-          "title": "The Open Wearables Initiative expands founding team; begins soliciting algorithms and datasets for wearable and connected health technologies",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-13-the-self-driving-and-sharing-economy-how-regulation-may-drive-the-transportation-revolution-in-2020-and-beyond.md",
-      "title": "The Self Driving And Sharing Economy: How Regulation May Drive The Transportation Revolution In 2020 And Beyond",
-      "excerpt": "Everyone recognizes that these technologies will mold the future, but this final piece—how regulators will interact with these developing technologies—is the critical factor that has the potential to shape the race to market.",
-      "heat": 129,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/paulrosen/2020/02/12/the-self-driving-and-sharing-economy-how-regulation-may-drive-the-transportation-revolution-in-2020-and-beyond/",
-      "ampWebUrl": "https://www.forbes.com/sites/paulrosen/2020/02/12/the-self-driving-and-sharing-economy-how-regulation-may-drive-the-transportation-revolution-in-2020-and-beyond/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paulrosen/2020/02/12/the-self-driving-and-sharing-economy-how-regulation-may-drive-the-transportation-revolution-in-2020-and-beyond/amp/",
-      "publishedDateTime": "2020-02-12T17:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e3074548b6cf300071d30e2%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D960%26cropY1%3D48%26cropY2%3D588",
-          "width": 960,
-          "height": 541,
-          "title": "The Self Driving And Sharing Economy: How Regulation May Drive The Transportation Revolution In 2020 And Beyond",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_posts/2020-02-13-this-ai-can-perfectly-dub-videos-in-indic-languages-and-correct-lip-syncing.md",
       "title": "This AI can perfectly dub videos in Indic languages — and correct lip syncing",
       "excerpt": "India have developed a new AI model that translates and lip-syncs a video from one language to another with great accuracy. The team said we already have the technology to get translated textual or speech output from a video. However, visual translation — such as the movement of lips — is lost during dubbing. To solve that, Indian ...",
@@ -2063,6 +1954,132 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-17-deltec-bank-bahamas-explains-role-of-fintech-in-the-banking-and-finance-sector.md",
+      "title": "Deltec Bank, Bahamas Explains Role of FinTech in the Banking and Finance Sector",
+      "excerpt": "The term fintech is a portmanteau of ‘financial technology’ and denotes an industry that has exploded in popularity over the past five years. When examining Google Trends, we see that prior to 2015,",
+      "heat": 100,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/deltec-bank-bahamas-explains-role-of-fintech-in-the-banking-and-finance-sector-2020-02-17",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-17T15:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Deltec Bank, Bahamas Explains Role of FinTech in the Banking and Finance Sector",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-17-eu-plan-on-ai-new-rules-better-taxes.md",
+      "title": "EU plan on AI: new rules, better taxes",
+      "excerpt": "\"The new ... taxes and others do not,\" it adds. Other initiatives currently being discussed include an action plan on 6G, making data-centres more sustainable and a revision of the regulation on online identification. After the EU's approach to AI and ...",
+      "heat": 207,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://euobserver.com/science/147454",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-16T22:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EUobserver",
+        "domain": "euobserver.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s3.eu-central-1.amazonaws.com/euobs-media/ed6fdf40109cab6388b14a8576373ce9-480x.jpg",
+          "width": 480,
+          "height": 320,
+          "title": "EU plan on AI: new rules, better taxes",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-17-how-salesforce-makes-decisions-on-ethics-and-social-issues.md",
+      "title": "How Salesforce Makes Decisions on Ethics and Social Issues",
+      "excerpt": "Paula Goldman joined Salesforce.com Inc. early last year as chief ethical and humane use officer, a new role tasked with developing a framework for making decisions on complicated political issues.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/how-salesforce-makes-decisions-on-ethics-and-social-issues-11581955201",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/how-salesforce-makes-decisions-on-ethics-and-social-issues-11581955201",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-salesforce-makes-decisions-on-ethics-and-social-issues-11581955201",
+      "publishedDateTime": "2020-02-17T09:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-154936/social",
+          "width": 1280,
+          "height": 640,
+          "title": "How Salesforce Makes Decisions on Ethics and Social Issues",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
       ]
     }
   ],

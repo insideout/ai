@@ -2,50 +2,6 @@
   "page": 19,
   "value": [
     {
-      "path": "_posts/_archive/2020-01-24-qut-to-use-ai-and-ml-in-gold-coast-future-waterways-project.md",
-      "title": "QUT to use AI and ML in Gold Coast future waterways project",
-      "excerpt": "QUT said its research team will use advanced machine learning and statistical methods to estimate the number and types of vessels using the waterways. See also: How AI and drones are trying to save the Great Barrier Reef (TechRepublic) In combination with information on marine incidents and weather conditions, QUT said it will establish usage ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/qut-to-use-ai-and-ml-in-gold-coast-future-waterways-project/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/qut-to-use-ai-and-ml-in-gold-coast-future-waterways-project/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/qut-to-use-ai-and-ml-in-gold-coast-future-waterways-project/",
-      "publishedDateTime": "2020-01-23T17:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/01/24/4044e1c1-ffc0-4f58-b883-ed92982493e3/49422632433-2e29103a65-k.jpg",
-          "width": 2048,
-          "height": 1536,
-          "title": "QUT to use AI and ML in Gold Coast future waterways project",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-01-24-samsung-and-ge-are-cooking-up-the-kitchen-smarts-ive-been-waiting-for.md",
       "title": "Samsung and GE are cooking up the kitchen smarts I've been waiting for",
       "excerpt": "With cameras and object recognition, GE and Samsung are bringing smart kitchen appliances to the US that might actually be useful. The newest version of Samsung's Family Hub smart refrigerator ...",
@@ -2188,6 +2144,50 @@
       "topics": [
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-27-tinder-asks-does-this-bother-you.md",
+      "title": "Tinder Asks ‘Does This Bother You’?",
+      "excerpt": "If the answer is yes, Tinder will direct them to its report form. The new feature is available in 11 countries and nine languages currently, with plans to eventually expand to every language and country where the app is used. Major social media platforms like Facebook and Google have enlisted AI for years to help flag and remove violating content.",
+      "heat": 172,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/tinder-does-this-bother-you-harassment-tools/",
+      "ampWebUrl": "https://www.wired.com/story/tinder-does-this-bother-you-harassment-tools/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/tinder-does-this-bother-you-harassment-tools/amp",
+      "publishedDateTime": "2020-01-27T00:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg",
+          "width": 800,
+          "height": 450,
+          "title": "Tinder Asks ‘Does This Bother You’?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

@@ -26,28 +26,17 @@ images:
     title: "Drones and self-driving robots used to fight coronavirus in China"
 
 related:
-  - title: "Coronavirus-battling robots deployed to help fight deadly outbreak in China"
-    excerpt: "“Robots can help with decontamination and reducing human-to-human transmission risk by reducing exposure,” O'Malley said. \"Artificial intelligence might be helpful in data science aspects, tracking information about the spread of cases to determine risk profiles and identify ways to limit spread if we understand better how it is spread."
-    publishedDateTime: 2020-02-14T21:11:00Z
-    webUrl: "https://www.foxnews.com/tech/coronavirus-battling-robots-deployed-help-fight-deadly-outbreak-china"
+  - title: "Artificial Intelligence Gears Up to Fight a Future Coronavirus"
+    excerpt: "Disease outbreaks like the coronavirus often unfold too quickly for scientists to find a cure. But in the future, artificial intelligence could help researchers do a better job. While it’s probably too late for the fledgling technology to play a major role in the current epidemic,"
+    publishedDateTime: 2020-02-21T05:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-02-21/artificial-intelligence-gears-up-to-fight-a-future-coronavirus"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-02-21/artificial-intelligence-gears-up-to-fight-a-future-coronavirus"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-02-21/artificial-intelligence-gears-up-to-fight-a-future-coronavirus"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 47
-  - title: "China using technology such as drones and robots during outbreak"
-    excerpt: "Telco China Mobile last week also donated one 5G robot each to both Wuhan Union Hospital and Tongji Tianyou Hospital. These bots carry a disinfectant tank on board and are being used to safely clean hospital areas along a pre-determined route. China is also using data tracking and artificial intelligence to find and prevent potential infections."
-    publishedDateTime: 2020-02-13T21:32:00Z
-    webUrl: "https://www.straitstimes.com/asia/east-asia/china-using-technology-such-as-drones-and-robots-during-outbreak"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 39
-    images:
-      - url: "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2020/02/14/ST_20200214_VNXINHUA_5450428.jpg?itok=ZKB4K8MF"
-        width: 763
-        height: 509
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 67
 
 secured: "SpOr8FU3Ml0xY0fBBH183XVjGDtWSztBp6Koo8OoAhQYiQWvfVFPuinvjpk7VLZDhr+CPRyoPcilbEabuO+qmdpc5X8vIj0UQcKB35OP8YSDS+OoaMPrXLrXU8CJsMAydAKlDsfjlvoUj6pQ/vh4MloyMPiNXEjBuAoVVnweyzk1BI/tev30a6GhC7vxLqDndpmumpWl2G7viMAKKTynBTAPDjY0vYuV1cvHIRn+ks6lmjOPc5Iqkib5LqhCfBE8CYgNPfKgqHBmH/hfRKNOz6i4fRKqtTaVikp1hLRrzjb3GgmcSy7Tl+SyDThsbEl8;Xkk3LPw17irsm/Rk/N8YEA=="
 ---

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.buzzfeednews.com/amphtml/carolinehaskins1/clearview-ai-f
 cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/carolinehaskins1/clearview-ai-facial-recognition-accurate-aclu-absurd"
 type: article
 quality: 180
-heat: 360
+heat: 350
 published: true
 
 provider:
@@ -91,21 +91,6 @@ related:
       - url: "https://i.insider.com/5e3bff71d9db1d368665e4b5?width=1200&format=jpeg"
         width: 1200
         height: 600
-  - title: "Facial recognition moves into a new front: schools"
-    excerpt: "LOCKPORT, N.Y. — Jim Shultz tried everything he could think of to stop facial recognition technology from entering the public schools in Lockport, a small city 20 miles east of Niagara Falls. He posted about the issue in a Facebook group called Lockportians. He wrote an Op-Ed in The New York Times. He filed a petition with the superintendent ..."
-    publishedDateTime: 2020-02-06T13:00:00Z
-    webUrl: "https://www.seattletimes.com/nation-world/facial-recognition-moves-into-a-new-front-schools/"
-    ampWebUrl: "https://www.seattletimes.com/nation-world/facial-recognition-moves-into-a-new-front-schools/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/facial-recognition-moves-into-a-new-front-schools/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 59
-    images:
-      - url: "https://static.seattletimes.com/wp-content/uploads/2020/02/FACIAL-RECOGNITION-EDUC-2-1-300x450.jpg"
-        width: 300
-        height: 450
   - title: "Facial recognition moves into a new front: Schools"
     excerpt: "Jim Shultz tried everything he could think of to stop facial recognition technology from entering the public schools in Lockport, a small city 20 miles east of Niagara Falls. He posted about the issue in a Facebook group called Lockportians. He wrote an Op-Ed in The New York Times. He filed a petition with the superintendent of the district ..."
     publishedDateTime: 2020-02-07T00:02:00Z

@@ -2,42 +2,6 @@
   "page": 21,
   "value": [
     {
-      "path": "_posts/_archive/2020-01-28-yogi-raises-23m-uses-neural-networking-to-reconstruct-the-entire-customer-feedback-process.md",
-      "title": "Yogi Raises $2.3M Uses Neural Networking to Reconstruct the Entire Customer Feedback Process",
-      "excerpt": "Customer feedback ... to the Yogi platform while also adding more functionality to our product. What’s your favorite restaurant in the city? I’m all about getting my day started right, so nothing beats a Sausage, Egg, & Cheese Bagel at New York City ...",
-      "heat": 146,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.alleywatch.com/2020/01/yogi-customer-feedback-platform-neural-gautum-kanumuru/",
-      "ampWebUrl": "https://www.alleywatch.com/2020/01/yogi-customer-feedback-platform-neural-gautum-kanumuru/amp/",
-      "cdnAmpWebUrl": "https://www-alleywatch-com.cdn.ampproject.org/c/s/www.alleywatch.com/2020/01/yogi-customer-feedback-platform-neural-gautum-kanumuru/amp/",
-      "publishedDateTime": "2020-01-28T10:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "alleywatch.com",
-        "domain": "alleywatch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.alleywatch.com/wp-content/uploads/2020/01/Gautam_Kanumuru_Yogi-300x300.jpg",
-          "width": 300,
-          "height": 300,
-          "title": "Yogi Raises $2.3M Uses Neural Networking to Reconstruct the Entire Customer Feedback Process",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-01-29-48-hours-left-on-early-bird-pricing-to-tc-sessions-robotics-ai-2020.md",
       "title": "48 hours left on early-bird pricing to TC Sessions: Robotics + AI 2020",
       "excerpt": "Just two days stand between you and serious savings on tickets to TC Sessions: Robotics+AI 2020. This annual day-long event draws the most innovative and visionary technologists, researchers and investors from two game-changing industries — last year we hosted 1,500 attendees. Make a smart investment. Buy an early-bird ticket before prices go ...",
@@ -2109,6 +2073,51 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-30-alphabet-earnings-might-google-make-a-fourth-quarter-comeback.md",
+      "title": "Alphabet Earnings: Might Google Make A Fourth Quarter Comeback?",
+      "excerpt": "Key Takeaways:Third-party analyst consensus sees quarterly adjusted earnings of $12.55 per share on revenue of $46.93 billion.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/jjkinahan/2020/01/30/alphabet-earnings-might-google-make-a-fourth-quarter-comeback/",
+      "ampWebUrl": "https://www.forbes.com/sites/jjkinahan/2020/01/30/alphabet-earnings-might-google-make-a-fourth-quarter-comeback/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jjkinahan/2020/01/30/alphabet-earnings-might-google-make-a-fourth-quarter-comeback/amp/",
+      "publishedDateTime": "2020-01-30T08:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e32fbe9a854780006aff826%2F0x0.jpg",
+          "width": 507,
+          "height": 290,
+          "title": "Alphabet Earnings: Might Google Make A Fourth Quarter Comeback?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
       ]
     }
   ],

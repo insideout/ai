@@ -5,8 +5,8 @@ excerpt: "Mental health is now the brave new frontier for artificial intelligenc
 publishedDateTime: 2020-02-21T04:36:00Z
 webUrl: "https://www.channelnews.com.au/artificial-intelligence-may-be-your-future-therapist/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AI in Robotics
 
 images:
   - url: "https://www.channelnews.com.au/wp-content/uploads/2020/02/Screen-Shot-2020-02-21-at-3.26.43-pm.png"
@@ -23,6 +24,6 @@ images:
     height: 514
     title: "Artificial Intelligence May Be Your Future Therapist"
 
-secured: "yJ/EapXSCrO9Nu82Dh3YlKbb4xwoAxIJkzHfNYmqG04sI4ckNekfbnQvi31x0e0RUgC5ZpqOhpg7Mp9BXxLin2sDLmZuNtjOG0XLlPxxvBbc9EkEoFOTwwEnGyTXiV/B0MYWCm1ijfNtbyA29chFQ+Y2vtT40GVn6wMJGSzn7hgSCbC4jdKw+4A+VLb0jMEhZO7OlibEZiHOItmlHgwyg81HoNxe3Sdk+44XcGnykKSEAUnTMQNVJtAsFkfWRTVShCENr2MBQspJ+0DoMyC3QVEgXNToGSyYGWEMa6wUgRY/5nOIvEDrvsMsWUkuIsGa;s9//OeNxkB041JGXPddW3Q=="
+secured: "5j/F2PJSP7imCdEeGk2u7Qd3iSlMjshy871EGH97qUf37M19eT3jJ2WegllwKx5vjWL2AmRhIgWf9nZu++O353fLUCX/kLDzVtf5QbQc3GCIiUuDIUBVh8R8vvPPzv9LS5gn8zzKlr0YA5qA/u8l5uyMvmQukNPR6fHXB0J1UUWst3D63eLM751yDgwReDcrKcFsw1GXPfW+hWBAu2++RuFyTYC8sIKKa7K9tXlembOPGSBVvN5ALlUT/fXaiBGaZ4gOF4vxSlMPC+4MoJzAR+sWn4MqlC7ilkD9USU3/0BfYk1FBTCL0wj9MUhJ2oXCc0beGDadxmj5ceQNZNUhzPrrUYkjRvjtOImz00o6ZAaoWqSY6LfKLdgR6WGpoGGwB+iZzBrUbUGOjknP06Y8Sdpzlw1eOonQnsgurBY7vuG4WRzwfpdBZ6Oe/0JNOrThokcpGRCHiQqrYDIl2B3Z39vzFUoC2mNkiSk/JbrosRg=;rRgHS6sr/JP/PZ5SJrDCMQ=="
 ---
 

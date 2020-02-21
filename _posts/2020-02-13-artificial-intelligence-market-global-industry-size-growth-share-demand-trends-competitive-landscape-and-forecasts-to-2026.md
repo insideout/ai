@@ -80,19 +80,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Natural Language Processing Market Global Industry Growth, Trends, Revenue, Key Suppliers and Demand Projections by 2026"
-    excerpt: "Top Players in Natural Language Processing Market are 3M Company, Adobe Systems Inc., Amazon Web Services Inc., Apple Inc., Google (Alphabet Inc.), Hewlett-Packard Enterprise Company, Intel Corporation,"
-    publishedDateTime: 2020-02-06T12:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-global-industry-growth-trends-revenue-key-suppliers-and-demand-projections-by-2026-2020-02-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 44
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "Artificial Intelligence in Manufacturing Market Global Trends, Market Share, Industry Size, Opportunities, Analysis and Forecast To 2025"
     excerpt: "name=1148471 Major Vendors profiled in the Artificial Intelligence in Manufacturing Market include are NVIDIA Corporation (US), IBM Corporation (US), Alphabet Inc. (Google) (US), Microsoft Corporation (US), Intel Corporation (US), AWS (US), Sight Machine (US),Siemens AG (Germany), and General Electric Company (US). Increasing need for hardware ..."
     publishedDateTime: 2020-02-11T02:58:00Z

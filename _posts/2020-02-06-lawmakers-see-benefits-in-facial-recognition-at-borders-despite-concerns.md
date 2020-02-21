@@ -8,7 +8,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/lawmakers-see-benefits-in-facial-re
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/lawmakers-see-benefits-in-facial-recognition-at-borders-despite-concerns-11581026462"
 type: article
 quality: 88
-heat: 188
+heat: 178
 published: true
 
 provider:
@@ -153,15 +153,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 32
-  - title: "Internet giants reject controversial facial-recognition start-up"
-    excerpt: "Google and its subsidiary YouTube, Twitter, and Facebook have demanded that Clearview AI stops scraping their platforms of photos of peoples’ faces to train its facial-recognition tools. The start-up was exposed in a recent New York Times report. Clearview AI is a start-up which offers facial-recognition tools based on three billion ..."
-    publishedDateTime: 2020-02-06T12:46:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2020/02/internet-giants-reject-controversial-facial-recognition-start-up/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 4
 
 secured: "zHSZgihDef2Vr8+UcVKbXVl3TfdQLOKz3MaODPkWamfbh2Dlixes1rpiU1ZkTyuEFzhbv3jIRXRx4bdnV+Gn6AtM1tUduxQ5R4p5ZdA7QMZ8IQY8nbjJOq41pNW7CyDmJudb/6Ek7rtc+gKwb+2kArsBuawy0gLRGmyY1rzA0q8ZpRkkYiSV8jwfW88RGe/rA+UfEX94kPX70tREluFVGAmnJWG9SJY0ZSSLu9r5ZCurr4oc9q9lrecXTFSXoiLT1f2UR7y5aFZFZm7ifo+45hX2Z4yCeH1yiMV+kTMioYqN8oXhMqz+yxjBTjD5H0mRJAtWRqy8ilf8f3/COszMmkOlNQopOCuksIUFXF5MAwwrBYK2+o86CR6zaZmiiy8lxE6GWq5rBa6jB0skTSsadQdysUDDKYfND49wDcIq9C1yOIHtW6/L9m1yZa4iA1e5Ps850/nBoqmaRmqfIYnq9VTcrfxH7YCts2m/4/6QN/s=;Y0qebBxZ4f8v1AgMp4YA1A=="
 ---

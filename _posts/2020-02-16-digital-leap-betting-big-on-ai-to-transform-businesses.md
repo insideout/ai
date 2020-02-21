@@ -20,21 +20,21 @@ topics:
   - AI Hardware
 
 related:
-  - title: "Digital Transformation – Why Now?"
-    excerpt: "Google also sought to broaden its customer base by putting artificial intelligence in reach for a wider audience. With Google’s AutoML, Google CEO Sundar Pichai wrote, “Today, designing neural nets is extremely time intensive, and requires an expertise that limits its use to a smaller community of scientists and engineers. That’s why we ..."
-    publishedDateTime: 2020-02-13T15:40:00Z
-    webUrl: "https://www.cmswire.com/information-management/digital-transformation-why-now/"
-    ampWebUrl: "https://www.cmswire.com/information-management/digital-transformation-why-now/amp/"
-    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/information-management/digital-transformation-why-now/amp/"
+  - title: "The Amazing Ways Goodyear Uses Artificial Intelligence And IoT For Digital Transformation"
+    excerpt: "Although Goodyear is a mature company, they are on the cutting edge of using today’s newest technology to propel innovation and their business in the 21st century."
+    publishedDateTime: 2020-02-21T05:50:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2020/02/21/the-amazing-ways-goodyear-uses-artificial-intelligence-and-iot-for-digital-transformation/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2020/02/21/the-amazing-ways-goodyear-uses-artificial-intelligence-and-iot-for-digital-transformation/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/02/21/the-amazing-ways-goodyear-uses-artificial-intelligence-and-iot-for-digital-transformation/amp/"
     type: article
     provider:
-      name: CMS Wire
-      domain: cmswire.com
-    quality: 46
+      name: Forbes
+      domain: forbes.com
+    quality: 78
     images:
-      - url: "https://www.cmswire.com/~/media/4f6ff12791384bfcbfe2ca1e08d4e283.jpg?mw=1024&hash=87FABE1B6A8C20FF6582B0B72E28EF165144DB1C"
-        width: 640
-        height: 480
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e4f6b9f765d4500072cd7f2%2F0x0.jpg"
+        width: 1200
+        height: 577
   - title: "Microsoft Cloud is powering the digital transformation of Myntra, India’s leading fashion retailer online"
     excerpt: "Amar Nagaram, CEO, Myntra By building and centralizing its data platform on Azure, Myntra is also applying advanced analytics and machine learning to gain a comprehensive understanding of customers and deliver highly personalized products, marketing, and service for them. The company is using Microsoft Power BI to empower its employees to ..."
     publishedDateTime: 2020-02-19T10:10:00Z
@@ -59,43 +59,6 @@ related:
       name: ETCIO.com
       domain: indiatimes.com
     quality: 37
-  - title: "Yseop Introduces Automated Report Generation Software to Assist Financial Service Providers with Digital Transformation Efforts"
-    excerpt: "The platform is primarily for financial service providers across around a hundred different projects and more ... The Augmented Analyst leverages an NLG engine, extended natural-language understanding (NLU) and machine learning (ML) to formulate conclusions from structured data and translates them into written reports. The platform also makes ..."
-    publishedDateTime: 2020-02-06T20:12:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/02/157174-yseop-introduces-automated-report-generation-software-to-assist-financial-service-providers-with-digital-transformation-efforts/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/02/157174-yseop-introduces-automated-report-generation-software-to-assist-financial-service-providers-with-digital-transformation-efforts/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/02/157174-yseop-introduces-automated-report-generation-software-to-assist-financial-service-providers-with-digital-transformation-efforts/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 16
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/02/Paris-France-Eiffel-Tower-300x300.jpeg"
-        width: 300
-        height: 300
-  - title: "CitiusTech Announces Partnership with Google Cloud to Accelerate Digital Transformation for Healthcare Organizations"
-    excerpt: "... healthcare organizations through digital transformation in key areas such as data analytics, artificial intelligence, machine learning and hybrid cloud,\" said Manish Sharma, Sr. Vice President, Strategy & Partnerships at CitiusTech. \"Our combined technology will empower payers and providers to drive better outcomes and improve care quality.\""
-    publishedDateTime: 2020-02-07T13:34:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-citiustech-announces-partnership-with-google-cloud-accelerate-digital-/2020/02/07/9094107.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 16
-    images:
-      - url: "https://images.tmcnet.com/tmc/iot-mag/images/iot-mag-0115.jpg"
-        width: 252
-        height: 335
-  - title: "Cloudtech startup Rapyder has partnered with AWS to help clients with digital transformation"
-    excerpt: "“Being an AWS Advanced Consulting Partner enables us to provide seamless ... It aims to leverage big data, data analytics, artificial intelligence, and machine learning, in the near future. “We have 55 employees across our offices, and plan to hire up to 50 more professionals by the end of 2020,” Amit says."
-    publishedDateTime: 2020-02-07T00:24:00Z
-    webUrl: "https://yourstory.com/2020/02/cloudtech-startup-rapyder-aws-quickride"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 8
 
 secured: "bd1I//+E7H5yqeth+xBxZ6XiDN5HwUjlJTpL7MAArzFKAPBz9is490RdwDmBgIbRAfS5zHOYI38LjHBHGnUGxV+Dm78xQhVKF1g9JfloZ+L76/oIBX18cPsFJE3t5eDpmH4bo1mJjVv8SsDh1MTD2WHoBOHZYA7R6iPnxbhzfOdySE7J2J/sUVGLh9JI1mZ0dE/Ql9MYePx8xnqpG0qezxQA3Xq1bZCbZ3WGQkqdfKhwZJLOU7SzpZwrAjS+EqwOmPxdRM1OJR1Ina+fyBkbM5OOlGPGQWs9BDcoA99dAbOD9RRRhksQJu4diWjZEU2aCfIXFwocnGxJvLNYF9BR92EirjiIyWlrpQo7tZYuNe4BcoGCpxIi1hFOcRcJ283poB1MY5JZETjzwyffE+ypZjOa9/ynGyNHJ1ujMTAkmilVjtPEnSisQE4+bT57FnqhaYLyeJCYIfV50T0hB8VNDyah3zs1pBKBOGF+17FyXAM=;LFRcOk+2K/OBqamxPCyZpw=="
 ---

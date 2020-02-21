@@ -101,21 +101,6 @@ related:
       - url: "https://i.insider.com/5e3bff71d9db1d368665e4b5?width=1200&format=jpeg"
         width: 1200
         height: 600
-  - title: "Facial recognition moves into a new front: schools"
-    excerpt: "LOCKPORT, N.Y. — Jim Shultz tried everything he could think of to stop facial recognition technology from entering the public schools in Lockport, a small city 20 miles east of Niagara Falls. He posted about the issue in a Facebook group called Lockportians. He wrote an Op-Ed in The New York Times. He filed a petition with the superintendent ..."
-    publishedDateTime: 2020-02-06T13:00:00Z
-    webUrl: "https://www.seattletimes.com/nation-world/facial-recognition-moves-into-a-new-front-schools/"
-    ampWebUrl: "https://www.seattletimes.com/nation-world/facial-recognition-moves-into-a-new-front-schools/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/facial-recognition-moves-into-a-new-front-schools/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 59
-    images:
-      - url: "https://static.seattletimes.com/wp-content/uploads/2020/02/FACIAL-RECOGNITION-EDUC-2-1-300x450.jpg"
-        width: 300
-        height: 450
   - title: "Facial Recognition Has Its Eye on the U.K."
     excerpt: "For Americans concerned about a developing Big Brother at home, recent judicial and regulatory developments on facial recognition technology in the U.K. may provide a glimpse into a potential future. As the U.S. government and the U.S. public consider the potential future use and regulation of facial surveillance, the debate in the U.K. can ..."
     publishedDateTime: 2020-02-07T13:41:00Z

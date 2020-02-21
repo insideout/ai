@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Facebook Will Now Pay You for Voice Recordings (Instead of Spying)"
-excerpt: "Facebook will now offer to pay some of its users for providing voice recordings that the social media giant will use to improve its speech recognition systems. The company announced the new initiative, dubbed Pronunciations, on Thursday. And, while Facebook didn’t mention it, the program seems like a way forward after Facebook was caught ..."
-publishedDateTime: 2020-02-20T21:55:00Z
-webUrl: "https://www.idropnews.com/news/facebook-will-now-pay-you-for-voice-recordings-instead-of-spying/129908/"
-ampWebUrl: "https://www.idropnews.com/news/facebook-will-now-pay-you-for-voice-recordings-instead-of-spying/129908/amp/"
-cdnAmpWebUrl: "https://www-idropnews-com.cdn.ampproject.org/c/s/www.idropnews.com/news/facebook-will-now-pay-you-for-voice-recordings-instead-of-spying/129908/amp/"
+title: "Facebook to Pay Users for Their Voice Recordings"
+excerpt: "transcribing them in many occasions in the hopes of improving its voice recognition technology, a practice that other tech giants such as Amazon and Google were also doing. In light of this revelation, and the backlash that ensued, the social media platform is now changing its strategy, instead offering to pay its members for those recordings."
+publishedDateTime: 2020-02-21T05:57:00Z
+webUrl: "https://hypebeast.com/?post=4911494"
+ampWebUrl: "https://hypebeast.com/2020/2/facebook-pay-users-for-voice-recordings?amp=1"
+cdnAmpWebUrl: "https://hypebeast-com.cdn.ampproject.org/c/s/hypebeast.com/2020/2/facebook-pay-users-for-voice-recordings?amp=1"
 type: article
 quality: 44
 heat: -1
 published: false
 
 provider:
-  name: iDrop News
-  domain: idropnews.com
+  name: Hypebeast
+  domain: hypebeast.com
 
 topics:
   - AI
   - Natural Language Processing
 
 images:
-  - url: "https://cdn.idropnews.com/wp-content/uploads/2020/02/20135522/Facebook-App-Icon.jpg"
-    width: 1000
-    height: 600
-    title: "Facebook Will Now Pay You for Voice Recordings (Instead of Spying)"
+  - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2020%2F02%2Ffacebook-pay-users-for-voice-recordings-001.jpg?quality=95&w=1170&cbr=1&q=90&fit=max"
+    width: 1170
+    height: 781
+    title: "Facebook to Pay Users for Their Voice Recordings"
 
 related:
   - title: "Facebook will now pay you for your voice recordings"
@@ -61,22 +61,22 @@ related:
       name: Engadget
       domain: engadget.com
     quality: 51
-  - title: "Facebook to Pay Users for Their Voice Recordings"
-    excerpt: "transcribing them in many occasions in the hopes of improving its voice recognition technology, a practice that other tech giants such as Amazon and Google were also doing. In light of this revelation, and the backlash that ensued, the social media platform is now changing its strategy, instead offering to pay its members for those recordings."
-    publishedDateTime: 2020-02-21T05:57:00Z
-    webUrl: "https://hypebeast.com/?post=4911494"
-    ampWebUrl: "https://hypebeast.com/2020/2/facebook-pay-users-for-voice-recordings?amp=1"
-    cdnAmpWebUrl: "https://hypebeast-com.cdn.ampproject.org/c/s/hypebeast.com/2020/2/facebook-pay-users-for-voice-recordings?amp=1"
+  - title: "Facebook Will Now Pay You for Voice Recordings (Instead of Spying)"
+    excerpt: "Facebook will now offer to pay some of its users for providing voice recordings that the social media giant will use to improve its speech recognition systems. The company announced the new initiative, dubbed Pronunciations, on Thursday. And, while Facebook didn’t mention it, the program seems like a way forward after Facebook was caught ..."
+    publishedDateTime: 2020-02-20T21:55:00Z
+    webUrl: "https://www.idropnews.com/news/facebook-will-now-pay-you-for-voice-recordings-instead-of-spying/129908/"
+    ampWebUrl: "https://www.idropnews.com/news/facebook-will-now-pay-you-for-voice-recordings-instead-of-spying/129908/amp/"
+    cdnAmpWebUrl: "https://www-idropnews-com.cdn.ampproject.org/c/s/www.idropnews.com/news/facebook-will-now-pay-you-for-voice-recordings-instead-of-spying/129908/amp/"
     type: article
     provider:
-      name: Hypebeast
-      domain: hypebeast.com
+      name: iDrop News
+      domain: idropnews.com
     quality: 44
     images:
-      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2020%2F02%2Ffacebook-pay-users-for-voice-recordings-001.jpg?quality=95&w=1170&cbr=1&q=90&fit=max"
-        width: 1170
-        height: 781
+      - url: "https://cdn.idropnews.com/wp-content/uploads/2020/02/20135522/Facebook-App-Icon.jpg"
+        width: 1000
+        height: 600
 
-secured: "UZVZuxCIhUtNoH0PtEab1WXZCiUjo3nvQ+W8XuWKe4LZpGt3LIw0HSs59fwtc4Pw/KXrMlXa+/OHNPdADNjHC5Cb0yp0vHEwCyIsZmrnVhnH3pUnP9dHSofOo8jNZ7/oc/0Xjs4zonZ2b+uSNP0i3I9YUxLyouX7ftxg/t5fFav4PDOFlgYWNUBH0/5Iq1XNv/JWuVq24PrLUrCHCsw2Hkh7KoDfhQBnRvWPZUuXSc54zRGtrBXKMRHnprGsc19uKVPGcWj+NKmsmwG1DUGKH+bBvEI71nLsiYamSOnrm84PYo+Q634HAj7I30Je8JD2bFfX+p6nngy96UBaiwThRyPoNg6OMswQ6a5RD8A3qurzYJtqQWAFHS3lX/l7aLUAHxmrLWI9JWX7Axo7LM8aB648gLpZ66FNHQvwfRJOqv9LXsBqTik4bgvIcRO4G0GJmIW7WCK6waFeD75sGZnT7D+wdWnWF2Xy2L4Ft78l/Gg=;pCRKkiD4y4w6YTGJ1rjRQw=="
+secured: "nj3dO7sI03lvNi+wlmOyTbdLHUuDM9NfE0Skpc36EEeIMHt9oqgzMUg42rSA+uVFjkta61KsMAB3RjkEAsg6n0usyf0jOeCN2LKzMgTOZJ8BICHwROZrAI+f+7OxveSjA+w47smck8bQffCT/QnP53gIl9j38OeGxg4onsRSoTbpFme6a4wPbAN05JevAfqV23DejxpHzKyRzTd61fJQYn0+4xXrFIB/A8+pCp7NIZ/f0rE4kfnm0uH7jhdLF1OaMU83Vtye7EppV49XRdM6buGD1T+hJgQrEUC9XDFxx5mrBqe356BUJ8S3A3OFHvmJ;6nrFUGJCnL72bQPIw9BdHA=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-08T12:49:00Z
 webUrl: "https://www.analyticsinsight.net/top-10-robotics-investment-funding-january-2020/"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -24,19 +24,6 @@ images:
     title: "Top 10 Robotics Investment and Funding in January 2020"
 
 related:
-  - title: "Robotics investments recap: January 2020"
-    excerpt: "In January 2020, reported transactions among robotics, drone, autonomous vehicles, and artificial intelligence companies totaled $1.16 billion. There were fewer deals around self-driving vehicles than in the past several months, but investors still supported supply chain, surgical systems, and agricultural automation. At the same time ..."
-    publishedDateTime: 2020-02-06T13:34:00Z
-    webUrl: "https://www.therobotreport.com/january-2020-robotics-investments-recap/"
-    type: article
-    provider:
-      name: The Robot Report
-      domain: therobotreport.com
-    quality: 84
-    images:
-      - url: "https://www.therobotreport.com/wp-content/uploads/2019/01/bg-robotic-omnichannel-fulfillmentflexbot-with-order1200xx3840-2160-0-0.png"
-        width: 1200
-        height: 675
   - title: "Top Artificial Intelligence Funding in January 2020"
     excerpt: "Particularly, artificial intelligence is one such technology that is making headlines every ... “We have developed a new category of heart disease diagnostic products powered by AI that promise to revolutionize healthcare by delivering accurate, cost-effective and timely expert-level diagnostics,” said Yann Fleureau, co-founder and CEO ..."
     publishedDateTime: 2020-02-08T08:55:00Z

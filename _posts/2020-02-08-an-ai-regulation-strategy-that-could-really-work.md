@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/02/08/an-ai-regulation-strategy-that-co
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/08/an-ai-regulation-strategy-that-could-really-work/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -44,21 +44,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1194878708%2F0x0.jpg"
         width: 1200
         height: 800
-  - title: "Dutch court rules AI benefits fraud detection system violates EU human rights"
-    excerpt: "Discriminative practices were accepted by the court, which also raised concerns over the tool's insufficient privacy safeguards and a lack of transparency. CNET: Clearview AI hit with cease-and-desist from Google, Facebook over facial recognition collection Alston applauded the decision, commenting: \"By applying universal human rights ..."
-    publishedDateTime: 2020-02-06T13:30:00Z
-    webUrl: "https://www.zdnet.com/article/dutch-court-rules-ai-benefits-fraud-detection-system-violates-eu-human-rights/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/dutch-court-rules-ai-benefits-fraud-detection-system-violates-eu-human-rights/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/dutch-court-rules-ai-benefits-fraud-detection-system-violates-eu-human-rights/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 84
-    images:
-      - url: "https://zdnet3.cbsistatic.com/hub/i/r/2018/09/05/ea56213d-03b9-4e1c-add4-dd9d8659e133/resize/1200x900/0921563461aa76e305ea6d4224c2109d/screen-shot-2018-09-05-at-19-43-25.png"
-        width: 1200
-        height: 759
 
 secured: "nXokJ/jWbuPkGKIeMVRAGjl1jqGb8e66eeNLxz8EZYmsqq9doEvDonhtRxgDaUKx4sH6UCkF+/Csqbg0S8O0M8mrNSjczEj1lk4yvgfEsMJpfc4e5eOwH5GNsmgOI/0qBkK3JY8fOPN8CrikVkR0ssdmlvNZi2fwIo2gfhGVxXGzIqLrSpc7HEX79bjxr8xonq5qx6Rat+zHcv2Xb5ZM0Yd/YACVNmKG7wzLWemPUcebdUr+ckMuYYbTpHQ+FBs5d4eFVA/MMUvXSeGOd3y/v306/oPgz9STqaeOCkXLsu5b6rfaNf0tbK5R5uRIcB9QTAGao4mkPRlWVFG4sGoaNXMRWfefY7720w8FI9o9XA2xNn1kiaL06sbZj1KTyr3QMCpkJ5fiT5SFA0KKDo3yaqZZtb2eA4QABQlqtrtXvg2wPyGuzp8mXHadkeVnwPjEQTgVPYJ0176R8t7TcGRbxlWVx+U44tAfA0DhKQv5C1Q=;nsLR67+FP02pvblo9lmB1w=="
 ---

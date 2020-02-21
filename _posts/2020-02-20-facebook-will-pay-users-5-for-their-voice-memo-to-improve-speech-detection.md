@@ -63,6 +63,21 @@ related:
       - url: "https://cdn.idropnews.com/wp-content/uploads/2020/02/20135522/Facebook-App-Icon.jpg"
         width: 1000
         height: 600
+  - title: "Facebook to Pay Users for Their Voice Recordings"
+    excerpt: "transcribing them in many occasions in the hopes of improving its voice recognition technology, a practice that other tech giants such as Amazon and Google were also doing. In light of this revelation, and the backlash that ensued, the social media platform is now changing its strategy, instead offering to pay its members for those recordings."
+    publishedDateTime: 2020-02-21T05:57:00Z
+    webUrl: "https://hypebeast.com/?post=4911494"
+    ampWebUrl: "https://hypebeast.com/2020/2/facebook-pay-users-for-voice-recordings?amp=1"
+    cdnAmpWebUrl: "https://hypebeast-com.cdn.ampproject.org/c/s/hypebeast.com/2020/2/facebook-pay-users-for-voice-recordings?amp=1"
+    type: article
+    provider:
+      name: Hypebeast
+      domain: hypebeast.com
+    quality: 44
+    images:
+      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2020%2F02%2Ffacebook-pay-users-for-voice-recordings-001.jpg?quality=95&w=1170&cbr=1&q=90&fit=max"
+        width: 1170
+        height: 781
 
 secured: "bOTr/QXFiD83yLGUm3SA79LwWd29amIJvH1y/Et0/qJcRulCQ0HqJRBvIhryIbPpgLeY1kOBG/WNdI2E2e87SsmY/9GVkl3lHy6tCeJEOVgYePITk9jTWBQiWQQ586MYngR8zb1fmRukHNde11mL7fQEpdIdKhIroZZrurLvIyaiyK1B5hJmQHNrBNk2wamsox2RpqBRD0yiQiGHbcDD/E3C6cnL4xZLb3jZKaUUGziBE9O3HPZutjcS8gyygEGCrsM9eGT/Ui+8/Jw7VeSPL5v47F6SHuoxqxtVrHxHPRtFZ/NxGYOpX6/9ScLdhv5iQAUH8+2qT5nxR8ogR995oYDtJR4F+ra6SdOUpmE+E5kkLtV8RUg4D8lasD5S4M5+lR5CJ5TfaLF3GfzFrTqPReiELaPD+4ga57A2sOjQ+70yQeB1vlMC+LDbQcuIzHwtoqDxO7jq9VMvLqXjvNXo/3OtlGqeu+yVgWjuggHyDjM=;vpEKhsOjWnF0S8POwqdv7g=="
 ---

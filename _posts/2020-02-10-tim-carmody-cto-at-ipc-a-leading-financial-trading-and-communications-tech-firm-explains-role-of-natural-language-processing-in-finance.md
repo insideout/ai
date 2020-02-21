@@ -39,15 +39,6 @@ related:
       - url: "https://miro.medium.com/freeze/max/480/1*ltzTsd0__NMjb1gH4Js6EA.gif"
         width: 480
         height: 270
-  - title: "How can finance keep up with digital transformation in financial services?"
-    excerpt: "Digital transformation is more than a buzzword in financial services, writes Sage Intacct's Diana Ermini ... Driven by AI and behavioral economics, machine learning, robotics, and advanced analytics, these emerging technologies are ushering in extraordinary operational efficiencies, accelerating time-to-market, and enabling superior customer ..."
-    publishedDateTime: 2020-02-06T12:33:00Z
-    webUrl: "https://diginomica.com/finance-digital-transformation-financial-services"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 2
 
 secured: "zQoef0sVtXrJ34SC6Tc1GcbVytPVPJm4SHH7zS1yGKrURufu+xsvooFng+jw0UCYdo2XVz9AgfcAw68/OvfL9IFDM/AKxPl6fiM+lM98woMPi7IaVzyafHWcEfejmbv9jKbWi4sGmcPgJPMlKgUsA7ONzj+V9zq4YgOAif2Qxu/UJJQQ37pWByD+S+5lKMTvaSqzuz9UHoZY8bYgXViJlju5tm5n+pTRgaMaUvB25gYl34RG9QpFpyYC9Py5W3GbQGkyJMQyaO9fvhHzyMa5hzy0Qhk5fPA72h2xOWO47Z+VYPpgXQ+H8+e5vLhfK83EUP/+wz7s1sQh11x57LtAi0SrvdMNREH9Yn+bbeVRNImw3KVgVvd40WRekTHPKHsPRStGzqu9Z8I8UYYOXINTiXj1tuomvE5JlMUt0Pox4kZP5PO6SEIGjZuzOFKrPv7sSSSzAj33p/BklRQXuSgz6KVme6ByUBKBJujxQdQDufQ=;Qz4ucREng9Zonml3E0mZjw=="
 ---

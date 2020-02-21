@@ -40,15 +40,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/01/11-McAfee-interview.jpg?fit=2160%2C1078&strip=all"
         width: 2160
         height: 1078
-  - title: "Biased AI Is Another Sign We Need to Solve the Cybersecurity Diversity Problem"
-    excerpt: "Individuals with diverse perspectives on AI, technology, data, ethics and diversity need to collaborate on governance. Remember, “minimize” is not the same as “remove.” A risk-based framework is the only pragmatic way to put AI governance into practice. Resources should be directed toward mitigating biases in artificial intelligence ..."
-    publishedDateTime: 2020-02-06T12:17:00Z
-    webUrl: "https://securityintelligence.com/articles/biased-ai-is-another-sign-we-need-to-solve-the-cybersecurity-diversity-problem/"
-    type: article
-    provider:
-      name: Hack
-      domain: securityintelligence.com
-    quality: 17
 
 secured: "eZuPD/HprlKNrvzGFEpxC4lDPBJuRiYKhdq538Bh4k4lUoMNy1IJPYCvHg7KPSbTNb0XP7PDBaBjXFeikWQhhh4sZ8AbXxRFumfss37Rn2zVDoNjApbkGk3tGYbWYx0vasq0qm1a0Bmh6K7X0n8pmWaThAs+Qw3H3LXj7WR9jJjQTH5Lb0BVsReI8Y6CsohoJ1OgksdkFM5PKCsMoosGYLsxX9SSg3KyPtaSSz/5U0ScTorOqBQRoTHi5E959lD9+62+uuZA9aZ/gUaf6JhswUdprCluczuuSBXYU/G/Xy/2wh0y2dfip5m36Z4SnQm7LA+Nxsko0y8/oGmoJUXYGzncgqHBIgSlBBtx9kBcPG1ocriFMHARue/3WS5ZOO4CRCueSlRkXGGl3DyiL/CbW9gpApZHdEJioxWWVUwA7dm1Ikfyc8sMVCLbV79ynuOIyArEOygCtKhihFxjjNAtcgEV7KP3yMYUd+EdxEU4VHo=;p/ZgDLKsZRFhGaOv9tozaA=="
 ---

@@ -2,51 +2,6 @@
   "page": 13,
   "value": [
     {
-      "path": "_posts/_archive/2020-01-15-machine-learning-as-a-service-market-2017-2024-with-detailed-insights-of-key-players-and-technological-innovations.md",
-      "title": "Machine Learning as a Service Market 2017-2024 With Detailed Insights of Key Players And Technological Innovations",
-      "excerpt": "Machine Learning as a Service Market Study 2017-2024 by Deployment Type (Public Cloud, Private Cloud), By End Use Application (Manufacturing, Retail, Healthcare & Life Sciences, BFSI, Travel & Hospitality,",
-      "heat": 92,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-2017-2024-with-detailed-insights-of-key-players-and-technological-innovations-2020-01-15",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-15T03:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Machine Learning as a Service Market 2017-2024 With Detailed Insights of Key Players And Technological Innovations",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-01-15-machine-learning-as-a-service-mlaas-market-key-insights-based-on-product-type-end-use-and-regional-demand-till-2023.md",
       "title": "Machine Learning as a Service (MLaaS) Market key Insights Based on Product Type, End-use and Regional Demand Till 2023",
       "excerpt": "Jan 15, 2020 (AmericaNewsHour) -- Machine learning has become a disruptive trend in the technology industry with computers learning to accomplish tasks without being explicitly programmed. The manufacturing industry is relatively new to the concept of machine learning. Machine learning is well aligned to deal with the complexities of the ...",
@@ -2182,6 +2137,53 @@
       "topics": [
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-16-googles-ai-language-model-reformer-can-process-the-entirety-of-novels.md",
+      "title": "Google’s AI language model Reformer can process the entirety of novels",
+      "excerpt": "We believe Reformer gives the basis for future use of Transformer models, both for long text and applications outside of natural language processing,” added Kaiser and Kitaev. In an interview late last year, Google AI chief Jeff Dean told VentureBeat that larger context would be a principal focus of Google’s work going forward.",
+      "heat": 93,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/16/googles-ai-language-model-reformer-can-process-the-entirety-of-novels/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/16/googles-ai-language-model-reformer-can-process-the-entirety-of-novels/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/16/googles-ai-language-model-reformer-can-process-the-entirety-of-novels/amp/",
+      "publishedDateTime": "2020-01-16T11:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google’s AI language model Reformer can process the entirety of novels",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "AI Hardware",
+        "Facebook AI"
       ]
     }
   ],

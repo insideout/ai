@@ -2,50 +2,6 @@
   "page": 20,
   "value": [
     {
-      "path": "_posts/_archive/2020-01-27-tinder-asks-does-this-bother-you.md",
-      "title": "Tinder Asks ‘Does This Bother You’?",
-      "excerpt": "If the answer is yes, Tinder will direct them to its report form. The new feature is available in 11 countries and nine languages currently, with plans to eventually expand to every language and country where the app is used. Major social media platforms like Facebook and Google have enlisted AI for years to help flag and remove violating content.",
-      "heat": 172,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/tinder-does-this-bother-you-harassment-tools/",
-      "ampWebUrl": "https://www.wired.com/story/tinder-does-this-bother-you-harassment-tools/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/tinder-does-this-bother-you-harassment-tools/amp",
-      "publishedDateTime": "2020-01-27T00:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg",
-          "width": 800,
-          "height": 450,
-          "title": "Tinder Asks ‘Does This Bother You’?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-01-27-ubers-ai-plays-text-based-games-like-a-human.md",
       "title": "Uber’s AI plays text-based games like a human",
       "excerpt": "Can AI learn to play text-based games like a human? That’s the question applied scientists at Uber’s AI research division set out to answer in a recent study. Their exploration and imitation-learning-based system — which builds upon an earlier framework called Go-Explore — taps policies to solve a game by following paths (or ...",
@@ -2102,6 +2058,42 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-28-yogi-raises-23m-uses-neural-networking-to-reconstruct-the-entire-customer-feedback-process.md",
+      "title": "Yogi Raises $2.3M Uses Neural Networking to Reconstruct the Entire Customer Feedback Process",
+      "excerpt": "Customer feedback ... to the Yogi platform while also adding more functionality to our product. What’s your favorite restaurant in the city? I’m all about getting my day started right, so nothing beats a Sausage, Egg, & Cheese Bagel at New York City ...",
+      "heat": 146,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.alleywatch.com/2020/01/yogi-customer-feedback-platform-neural-gautum-kanumuru/",
+      "ampWebUrl": "https://www.alleywatch.com/2020/01/yogi-customer-feedback-platform-neural-gautum-kanumuru/amp/",
+      "cdnAmpWebUrl": "https://www-alleywatch-com.cdn.ampproject.org/c/s/www.alleywatch.com/2020/01/yogi-customer-feedback-platform-neural-gautum-kanumuru/amp/",
+      "publishedDateTime": "2020-01-28T10:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "alleywatch.com",
+        "domain": "alleywatch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.alleywatch.com/wp-content/uploads/2020/01/Gautam_Kanumuru_Yogi-300x300.jpg",
+          "width": 300,
+          "height": 300,
+          "title": "Yogi Raises $2.3M Uses Neural Networking to Reconstruct the Entire Customer Feedback Process",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

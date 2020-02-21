@@ -8,7 +8,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/2/20/21145584/facebook-pa
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/20/21145584/facebook-pay-record-voice-speech-recognition-viewpoints-proununciations-app"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -65,6 +65,21 @@ related:
       - url: "https://cdn.idropnews.com/wp-content/uploads/2020/02/20135522/Facebook-App-Icon.jpg"
         width: 1000
         height: 600
+  - title: "Facebook to Pay Users for Their Voice Recordings"
+    excerpt: "transcribing them in many occasions in the hopes of improving its voice recognition technology, a practice that other tech giants such as Amazon and Google were also doing. In light of this revelation, and the backlash that ensued, the social media platform is now changing its strategy, instead offering to pay its members for those recordings."
+    publishedDateTime: 2020-02-21T05:57:00Z
+    webUrl: "https://hypebeast.com/?post=4911494"
+    ampWebUrl: "https://hypebeast.com/2020/2/facebook-pay-users-for-voice-recordings?amp=1"
+    cdnAmpWebUrl: "https://hypebeast-com.cdn.ampproject.org/c/s/hypebeast.com/2020/2/facebook-pay-users-for-voice-recordings?amp=1"
+    type: article
+    provider:
+      name: Hypebeast
+      domain: hypebeast.com
+    quality: 44
+    images:
+      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2020%2F02%2Ffacebook-pay-users-for-voice-recordings-001.jpg?quality=95&w=1170&cbr=1&q=90&fit=max"
+        width: 1170
+        height: 781
 
 secured: "YeYvj6yhzk6Vs4VdXrLhCVBztvUNxKEeEo3CmXFRU7MMuwJEOL4ufuDh/TW3xZVU1ovLFcDObnzKQ/moAgqC3izat079Hvqkv8ycLuIQdw6Of7XdhHuUtBYRh70Pm/jNlLjkNahiHp3wTl+xfzbN/9s//g5ZkAgl4grKR8WbAR3WHiljjYdUTnAI1C8aKLLP5O79v0rpgUT1qtdpq5FVVGLGXd+OlUNPY/d0m+cR2O//mvZZJBWcrIfYeBE8NN6MKoRKAISNUU0T0dT0rf0FnFZL+xsD2vlfHBDQxYgr6ZPvrY/v40G4VsLiWr6ciC5xuOestd+YDdGjBYfOhGCTy8/vUA/HVSDv4yT/CBKIwV09HsYli9xztYOmBSXlVkyMBWZJSdmSQnIuTcdGWXw1+/8cdT0+m9YHMPbIRw3wE3UEMQuz9CD/eSMV9CMxkw2xecy/yFJbVbTL+2+9R3i1TKVPq2vc0NIwtTNOzuuV2QA=;9+FJgteGe7RXtnJtpuAJjg=="
 ---
