@@ -111,6 +111,17 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 37
+  - title: "eConnect Presents on Facial Recognition at the Western Indian Gaming Conference 2020"
+    excerpt: "eConnect, Inc., a Las Vegas-based software company which provides hospitality companies with a platform for actionable information, reinforced by video, will be speaking at the Western Indian Gaming Conference and Trade Show."
+    publishedDateTime: 2020-02-10T00:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/02/p15286237/econnect-presents-on-facial-recognition-at-the-western-indian-gaming-conference-2020"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/15286237"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15286237"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 32
   - title: "Meticulous Forecasts $26.8 Billion Speech and Voice Recognition Market"
     excerpt: "Meticulous Research has released a new report that predicts that the market for speech and voice recognition technology will climb to $26.8 billion between 2019 and 2025. That figure represents a CAGR of 17.2 percent. Meticulous credits the anticipated ..."
     publishedDateTime: 2020-02-07T00:00:00Z

@@ -41,6 +41,21 @@ related:
       - url: "https://scienceblog.com/wp-content/uploads/2020/02/Facial-recognition-the-next-step-in-fight-against-rabies.jpg"
         width: 792
         height: 528
+  - title: "Raleigh police stop using controversial facial recognition technology"
+    excerpt: "Raleigh police have stopped using a facial recognition app to identify potential criminals through the Internet, cutting ties with a company that has drawn widespread privacy concerns. In August, the department paid $2,500 to Clearview AI for one year’s access to its app, which collects pictures from Facebook, YouTube and other public sites ..."
+    publishedDateTime: 2020-02-12T17:54:00Z
+    webUrl: "https://www.newsobserver.com/news/local/crime/article240221072.html"
+    ampWebUrl: "https://amp.newsobserver.com/news/local/crime/article240221072.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/local/crime/article240221072.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 59
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/98982b80-0f4c-4539-8307-e03345d59828/f123b10c-3acf-4f41-b7eb-0cf3424b4196/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
 
 secured: "dM2GlwsXHdGJwPTaCE8ZAqyoiWdBAqVp6LrCu8MrESnF8R7YAU1/o5yceu6vc9Km3C0isAuRJehq3XAWmyDb/DenhH12YwWBklJwa7Y7GZ8I3DKU1oBPuiuGsMeOnZ/3WjsyPqRuOPZGFzFH1/2wkfJqYjD60rWFGQOpwkCIuCZQSuK1SIlq1cvqS33t+jRZlsC0dIU6E2EyhUW4OHMDzg9MtbFfV/JgjbN5KC5YULJhdP/CZ4fEikvlP+QE4sRxUxLiAMOHqhh8DLYx3eF0DWxP7CWhBG6HeeVt92nVNKfSxrMGob2QxkzzuYr25dV4xgG7S2tVjRIklsdoVXKNNZirqeOn/rrYuTTciLy/IbKZg7aDOi+AA0lRP72mxpZesD6AXGeJIqJcB8zCb9FpBhmPvrHhoOmcFZTWzGDGAf3KvvmrxLZp9HhwjMW/ryIrlzmQXUuxMrieDb1X0umYb2DNLy/FSIujBlFphJfheKU=;hin9bt2gzubGKlhvkV4DQw=="
 ---

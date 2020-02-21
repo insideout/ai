@@ -80,6 +80,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Health care in 2030: Artificial intelligence helping people get better healthcare"
+    excerpt: "Artificial intelligence may help in any diagnosis because it can scan millions of medical patterns and offer doctors possible causes of why you aren't feeling well."
+    publishedDateTime: 2020-02-21T14:08:00Z
+    webUrl: "https://www.kgw.com/video/money/artificial-intelligence-helping-people-get-better-healthcare/283-5a7a609f-6164-4e50-b000-99abd0c53da1"
+    type: article
+    provider:
+      name: KGW8
+      domain: kgw.com
+    quality: 49
+    images:
+      - url: "https://media.kgw.com/assets/KGW/images/cf0b54f0-4b61-4a63-8c2b-90fb5755a70d/cf0b54f0-4b61-4a63-8c2b-90fb5755a70d_1140x641.jpg"
+        width: 1140
+        height: 641
   - title: "AI in the Manufacturing Sector Market Analysis to 2025 | New Technologies Transforming the Global Industry"
     excerpt: "The hardware segment will continue dominating the AI in the manufacturing sector market on account of the increasing demand for AI processors across several industry verticals. Considering the AI processors,"
     publishedDateTime: 2020-02-18T10:28:00Z

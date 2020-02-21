@@ -24,6 +24,6 @@ images:
     height: 338
     title: "Don't care if you even graduated, says Elon Musk as he announces AI party at his place"
 
-secured: "uHkP1d8HyniXWCLZkguRvPcscF415d6SwR/Z3v+wCvV6doc6yP2m5KJQFGdSpRevDyTWhLP0xs/oggZMDU7Vh+wCJcr5wfR5tLjGPpwHHwqxTZDzgl17BEAcx9NPtRxheVS5VAk6EvPS14K+jDYBYIvzwwWMOf6ExjykfTPH+/5x6dzgpvL6T1QRozFbqEPPC0YWwdczBHTni6RwQWu8nDQtRK5ZoO5N9KFBp3vOIB+uuJYXeYATXHiK+QEDmsVaQqQAint4XpuS3aZvls2uv6LEKdNwkyy2gE4wKoGWf/yKXLVpk/YrxRDVvE7N7s+XuLu++ydFFIM8OtyJtfXsYQ==;uzLU6CyvxbRf1qSSAhGjkQ=="
+secured: "mrj9lUI6+VGB2t9QEY752xc25FRfrOxjXYbCrl+sbV4/hfD0px45Nci1GD+esz0jyHaqrBteF3TrsR8Q/4+yJyGAmtKoEc9bN4IqrVq9bkRejpr0wjv3VZlKGPURWKnl4fsuIBpD8/riXVYtcIbao4GJquiBWWxtkikc/DCPVe2D8Xl9X058tWM2fPnYRueUXxwnnFzQIpBT0nqaIgV+XTqLFm2onk3SMw0K8qCmw6ocxCwVGXNGMrUfrbnBv9ufJ76FIXoA8PrIUPsvoNIPjO1eBlGxjnt6HsVBJDLwTEupbpsZbIllFbpoAvbPIp4IcM0N5/3gCcCRP7arB6Y/4A==;E6uqkMStCsOa18/rf69Xlw=="
 ---
 

@@ -45,19 +45,6 @@ related:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2020/02/Glick-Guest-Post-Pic-630x387.png"
         width: 630
         height: 387
-  - title: "JD Logistics prepares to launch robots and drones in sickened Wuhan"
-    excerpt: "Chinese e-commerce marketplace operator JD Logistics is turning to robots and drones in its continuing effort to sustain last-mile ... \"highly efficient fulfillment centers that integrate intelligent logistics technologies such as artificial intelligence (AI), deep learning, and image recognition, with over 70 varying degrees of automation ..."
-    publishedDateTime: 2020-02-06T22:00:00Z
-    webUrl: "https://www.dcvelocity.com/articles/20200206-jd-logistics-prepares-to-launch-robots-and-drones-in-sickened-wuhan/"
-    type: article
-    provider:
-      name: DC Velocity
-      domain: dcvelocity.com
-    quality: 39
-    images:
-      - url: "https://www.dcvelocity.com/images/articles/2020/202002/20200206news_jd_robot.jpg"
-        width: 402
-        height: 262
 
 secured: "9EafMNmWuN/MWaRRi7iwpaDOqUE9WZSJnw5XBzTfti4T1U7HC7qjUcQRiJ1u4w9v6dFLFOIpIyppQabHzzkkG0zo6AS8YHmARrCy+cQYpxJU34z+bpBy7teqwe/AHoV/wk9XBjlZZd+9DTNR/+ljNmJtOmPhOOHuAkL6uGkEnZTI8tvrspjId/2uVRC0jTTdT9MgBa6qDJ0vMwBfl2YAz0oY1LJs2TU6BFOJ5Gh4PuGFQt/1Czuc9ql+pxnFWx5ayQRYAwBthcEMVhPOBIKwLLgbuPWloEQppWSWiiGXbRzT+fKljKYW+Op8MtuSWCNevW4dylF8Jx3JpvaAFaCi6OAZ0d+mNFYemYUsE92i+7VevMdqydru9wX1PVE1zVcciR9UFbiMlBz+iW4gh7OIt/f28pzzJQNR7SCV0A/MYiDbS4NE1EoL1Ll3zqpuFzrxAH+chdE7Eo8dyaSAfXuPs1wXljA4O80cOmwRJlTa0FM=;WJSnyicnhdVJmTeqVR+x3g=="
 ---

@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.detroitnews.com/amp/111333818"
 cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/111333818"
 type: article
 quality: 72
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -38,6 +38,21 @@ related:
       - url: "https://www.japantimes.co.jp/wp-content/uploads/2020/02/f-ainvent-b-20200220-870x580.jpg"
         width: 870
         height: 580
+  - title: "Edison, Morse ... Watson? Artificial intelligence poses test of who’s an inventor"
+    excerpt: "Computers using artificial intelligence are discovering medicines, designing better golf clubs and creating video games. But are they inventors? Patent offices around the world are grappling with the question of who — if anyone — owns innovations developed using AI. The answer may upend what’s eligible for protection and who profits as AI ..."
+    publishedDateTime: 2020-02-21T14:35:00Z
+    webUrl: "https://www.latimes.com/business/story/2020-02-21/artificial-intelligence-inventor"
+    ampWebUrl: "https://www.latimes.com/business/story/2020-02-21/artificial-intelligence-inventor?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/business/story/2020-02-21/artificial-intelligence-inventor?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 52
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/6213f25/2147483647/strip/true/crop/2400x1568+0+16/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F25%2Ff4%2F4f89dafd4d529ab9cbee88164c86%2Fla-photos-1staff-471675-me-1105-laxit-lot-007.IK.jpg"
+        width: 320
+        height: 209
 
 secured: "0RInEFF5jJPp0vVebnnK4HubWnMRqqiDmYDlaWdLyAxje4uTbTEH9K/NfAC5TWzCE+WcAM+0de9kfwobcUCG2o089eLKh6Is/KVb9FiOCjBWv9NGgENusx7uSN5tSiSNlqYl2Cg3EB5mACT8WyrIxfde5mTlO1pTc9v9nnNUXFDuQORUIfhJFrqsV5p1nFj55rZ2nLp0bP2tvMh9jMEJNOPCgt8Gb+vtPRxyVprmr9xLBEVeyDDYwA4yTRVHm9lGqkCbNkEqi5JwAGMCvL384pLxp/nI41Qusus1LVASCRr3Av491KDWOpfEs5KBSAl7Y00qVCrGRNrKOcyCd2JMiZXYIQ3VRImJSK/Ed+xXFgKbo3OFeqIID+8xE+AxB/AgiLLBWy4VfOriiXCpezWBGPUY97IVDX+sfi6D2CdVfYoUW7a7hVb9A7QfwGTM38OePelwKHLCF2Tmn+/6BfhZgkpWqxKOqW/EbS8XpqhHXDA=;PebkjEXJxHR6PbcW9MoAqQ=="
 ---

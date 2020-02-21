@@ -24,6 +24,6 @@ images:
     height: 300
     title: "Yogi Raises $2.3M Uses Neural Networking to Reconstruct the Entire Customer Feedback Process"
 
-secured: "6RoUvWbhADsz6Di54bAGevk2QIWj8tUONEj+N7tG7Zs98hgrTwhz71C+md3r6volSolMmIViqWEjH2yhBkFh8mkTudyaoxe35LP5NzL2hyc6sPQo+ckbha5tJgVDkKPS6bsmHFdrKCOhYmS1G8hQxKhiH1CEnpbtIluvxxhbCJcZb5NFUY8MEEtSXZJGRohoLqEpVi4T8RmLfs6qM0D0pPj91nSKo0mbKi5jiIbHxef44WMnhb2U2d3+wStaY3WXWOkKf2HqsgTj9JyGc8YrtKWVRLJXMd29/kGacUEKRklRw/h74OLkDAsxe1ph4DfXhMkI1GJ2VYNDd0xebAWpXg==;gdaM/556moj97TES3wnFSw=="
+secured: "AEYPfj65faNwa1h7KdpzEvLutwVv/gDod7NlAsua1ihW5m4XylViuTdeW26GGmVTFB7J4hn+XB/BweV7AX2LQdOywBkGc6oEUyBlXmuv0ZPVwn6nhaxAh8U4EaVvfWuLztr1TMoKFfEKXV0RA++RToE4RHcM5b+8nkqE5ycLIwGVr0ERl66JDT1aomeL8DQfgrBgFDlEAKgWk5iKGdQrQd+gqxSNzIJr9+972QB+rA+19H2WRCBru8S+6Rww910opKMFOX2TFqG6Tw16wMdk+YMmRVci5GQoOHxyPeo1Kvy+IZrEgfCTiVz8ZJMZr+w/LrburQRdjK5lIgXW37IaVA==;aCtWYOgRz1OCur6tvL7TIA=="
 ---
 

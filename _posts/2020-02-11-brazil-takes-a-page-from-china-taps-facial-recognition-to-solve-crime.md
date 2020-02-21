@@ -20,75 +20,21 @@ topics:
   - Computer Vision
 
 related:
-  - title: "New facial recognition app promises to solve crimes, critics say it means end of privacy"
-    excerpt: "A class action lawsuit filed Wednesday in New York federal court claims a breakthrough facial recognition technology designed for law enforcement use is illegally taking people’s biometric information without their consent. The lawsuit was filed by two individuals from Illinois who claim the company behind the technology, Clearview AI ..."
-    publishedDateTime: 2020-02-14T14:50:00Z
-    webUrl: "https://www.foxnews.com/us/new-facial-recognition-app-promises-to-solve-crimes-critics-say-its-the-end-of-privacy"
-    ampWebUrl: "https://www.foxnews.com/us/new-facial-recognition-app-promises-to-solve-crimes-critics-say-its-the-end-of-privacy.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/new-facial-recognition-app-promises-to-solve-crimes-critics-say-its-the-end-of-privacy.amp"
+  - title: "All it takes to fool facial recognition at airports and border crossings is a printed mask, researchers found"
+    excerpt: "Researchers said they fooled facial-recognition tech across three continents but were unable to fool some software, including Apple's Face ID."
+    publishedDateTime: 2020-02-07T18:22:00Z
+    webUrl: "https://www.businessinsider.com/facial-recognition-fooled-with-mask-kneron-tests-2019-12/"
+    ampWebUrl: "https://amp.businessinsider.com/facial-recognition-fooled-with-mask-kneron-tests-2019-12"
+    cdnAmpWebUrl: "https://amp-businessinsider-com.cdn.ampproject.org/c/s/amp.businessinsider.com/facial-recognition-fooled-with-mask-kneron-tests-2019-12"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 80
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 85
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2019/08/bc4a043e-532521-microsoft-facial-recognition.jpg"
-        width: 810
-        height: 456
-  - title: "London police deploy facial recognition tech, stirring privacy fears"
-    excerpt: "London police started using facial recognition cameras on Tuesday to automatically scan for wanted people, as authorities adopt the controversial technology that has raised concerns about increased surveillance and erosion of privacy. Surveillance cameras mounted on a blue police van monitored people coming out of a shopping centre in Stratford ..."
-    publishedDateTime: 2020-02-11T18:01:00Z
-    webUrl: "https://www.dawn.com/news/1533822"
-    ampWebUrl: "https://www.dawn.com/news/amp/1533822"
-    cdnAmpWebUrl: "https://www-dawn-com.cdn.ampproject.org/c/s/www.dawn.com/news/amp/1533822"
-    type: article
-    provider:
-      name: Dawn
-      domain: dawn.com
-    quality: 59
-    images:
-      - url: "https://i.dawn.com/large/2020/02/5e42e958446ca.jpg"
-        width: 800
-        height: 480
-  - title: "Facial recognition technology will follow privacy laws: Edmonton police"
-    excerpt: "EDMONTON -- Attempting to quell privacy concerns, Edmonton police say facial recognition software that they intend to use to identify criminals will follow privacy laws. Informatics Division Supt. Warren Driechel revealed new details about the proposed technology Wednesday, though the department has not implemented facial recognition yet."
-    publishedDateTime: 2020-02-19T21:18:00Z
-    webUrl: "https://edmonton.ctvnews.ca/facial-recognition-technology-will-follow-privacy-laws-edmonton-police-1.4818878"
-    ampWebUrl: "https://beta.ctvnews.ca/local/edmonton/2020/2/19/1_4818878.html"
-    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/edmonton/2020/2/19/1_4818878.html"
-    type: article
-    provider:
-      name: CTV News
-      domain: ctvnews.ca
-    quality: 59
-    images:
-      - url: "https://beta.ctvnews.ca/local/edmonton/2020/2/19/1_4818878/_jcr_content/root/responsivegrid/image.coreimg.jpg"
-        width: 1020
-        height: 574
-  - title: "Editorial: Facial recognition software takes personal invasion into a new dimension"
-    excerpt: "Law enforcers around the world are celebrating the rapidly expanding potential of facial recognition software to help them catch criminals faster and solve long-dormant cases. Such capabilities in the right hands could reap enormous public safety dividends. But in the wrong hands, an entirely new dimension in crime, extortion and mayhem could ..."
-    publishedDateTime: 2020-02-18T23:02:00Z
-    webUrl: "https://www.dailycamera.com/2020/02/18/editorial-facial-recognition-software-takes-personal-invasion-into-a-new-dimension/"
-    ampWebUrl: "https://www.dailycamera.com/2020/02/18/editorial-facial-recognition-software-takes-personal-invasion-into-a-new-dimension/amp/"
-    cdnAmpWebUrl: "https://www-dailycamera-com.cdn.ampproject.org/c/s/www.dailycamera.com/2020/02/18/editorial-facial-recognition-software-takes-personal-invasion-into-a-new-dimension/amp/"
-    type: article
-    provider:
-      name: Daily Camera
-      domain: dailycamera.com
-    quality: 53
-    images:
-      - url: "https://www.dailycamera.com/wp-content/uploads/2019/04/DC-backupimage-1000x563.jpg"
-        width: 1000
+      - url: "https://image.businessinsider.com/5df25692fd9db202c04bee94?width=750&format=jpeg&auto=webp"
+        width: 750
         height: 563
-  - title: "India's Use of Facial Recognition Tech During Protests Causes Stir"
-    excerpt: "MUMBAI/NEW DELHI, India (Reuters) - When artist Rachita Taneja heads out to protest in New Delhi, she covers her face with a pollution mask, a hoodie or a scarf to reduce the risk of being identified by police facial recognition software."
-    publishedDateTime: 2020-02-17T14:15:00Z
-    webUrl: "https://www.usnews.com/news/world/articles/2020-02-17/indias-use-of-facial-recognition-tech-during-protests-causes-stir"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
   - title: "2 On Your Side: Is Facial Recognition Technology A Threat To Privacy?"
     excerpt: "Facial recognition software is here and already being used around the world by law enforcement and government agencies. It's designed to protect you, but some think it's a serious threat to your privacy. Kristine Lazar talks to the founders of one local company at the forefront of this new technology."
     publishedDateTime: 2020-02-12T07:33:00Z
@@ -100,19 +46,15 @@ related:
       name: CBS Boston / WBZ
       domain: cbslocal.com
     quality: 39
-  - title: "Class action: Tech firm Clarifai scanned OKCupid pics to train face recognition A.I., broke IL privacy law"
-    excerpt: "According to the complaint, Clarifai’s “surreptitious harvesting of biometric identifiers is ongoing” and Clarifai has indicated a willingness to “sell its facial recognition technology to foreign governments” and allow the technology to be used in “autonomous weapons” systems. According to the complaint, Clarifai “gained access ..."
-    publishedDateTime: 2020-02-18T14:50:00Z
-    webUrl: "https://cookcountyrecord.com/stories/525710212-class-action-tech-firm-clarifai-scanned-okcupid-pics-to-train-face-recognition-a-i-broke-il-privacy-law"
+  - title: "Chicago Police Launch New Facial Recognition Technology, They Say, To Catch Crooks"
+    excerpt: "CHICAGO (CBS) — They’re watching you in a whole new way, with controversial new facial recognition software used by Chicago Police. CBS 2’s Tara Molina is Always Investigating and she found that while this software is new to the city, the practice isn’t. The department has used some form of facial recognition tech since at least 2013."
+    publishedDateTime: 2020-02-08T04:26:00Z
+    webUrl: "https://chicago.cbslocal.com/2020/02/07/chicago-police-launch-new-facial-recognition-technology-they-say-to-catch-crooks/"
     type: article
     provider:
-      name: Cook County Record
-      domain: cookcountyrecord.com
-    quality: 36
-    images:
-      - url: "https://jnswire.s3.amazonaws.com/jns-media/28/0f/193780/Chicago_DaleyCenter_Picasso_Upshot.jpg"
-        width: 1280
-        height: 640
+      name: CBS Boston / WBZ
+      domain: cbslocal.com
+    quality: 13
 
 secured: "T9Iskof5J7aAUNfQIPv6FzOeteH2k6RaR3A7THA+7bBWd7v/p8hRJiZzEYYB7Tjqnqkrs2J6EW/NnzVZJ+tZ+w38c0VbEwZOp89sbq1fpgBEg4ts7miMYZ/wZa4E+cP9FJHV8mI9yaXQGSOr80qukEtrLhXdAyh0IgMta02oNciWiFBYaNpIr3X/I3kpdfGCCTIH4Eu6hPb4Xic5kTZXTDfVKZS8r/qIY3giTwyw/kZh/Z8YsPZ8vCl+ErlGYAngQ7D7M5BA0n78kLJ4NbZ4QExtYSq2jaIFYSOdHOS6u7sECxZHhulMlxSzwJtrwgQR675xZNLBiCGBQ6p7F9s07/XJOwKBtZSNR/I2LuwtG3tp+WE0VM5iKJrsHhkLGpY+GeLwQ+S1AOP1C2Cn4IyhRsbCeSWsDPovhytyXjhuAz9wBHp+Hu0IzFA7Ok/oOHYKY2FDI3/DIfjRm6GEIzfRzFmG9q2Aj1HOiuPcnFwY0/o=;1Ogi/+SCBOSjYYJ41P91oQ=="
 ---

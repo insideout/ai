@@ -24,51 +24,43 @@ images:
     title: "Self-driving vehicle law hits a speed bump"
 
 related:
-  - title: "Self-Driving Delivery Vehicle Receives OK for U.S. Streets"
-    excerpt: "They’ll arrive in Houston, Texas, soon. (TNS) — A self-driving delivery vehicle with no driver's seat, steering wheel or brake pedal has become the first to be cleared by the federal government to operate without the presence of a human. Nuro Inc., a robotics company based in Mountain View, Calif., has been given permission to put up to ..."
-    publishedDateTime: 2020-02-07T22:04:00Z
-    webUrl: "https://www.governing.com/now/Self-Driving-Delivery-Vehicle-Receives-OK-for-US-Streets.html"
-    ampWebUrl: "https://www.governing.com/now/Self-Driving-Delivery-Vehicle-Receives-OK-for-US-Streets.html?AMP"
-    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/now/Self-Driving-Delivery-Vehicle-Receives-OK-for-US-Streets.html?AMP"
+  - title: "Nuro's R2 vehicle has been granted the NHTSA's first regulatory exemption for a custom self-driving car"
+    excerpt: "Self-driving cars: Nuro is a well-known entity in the autonomous vehicle industry. It's partnered up with companies like Kroger and Dominos in the past to offer driverless food and grocery delivery services via its \"R1\" generation of vehicles. Now ..."
+    publishedDateTime: 2020-02-07T22:57:00Z
+    webUrl: "https://www.techspot.com/news/83926-nuro-has-granted-nhtsa-first-regulatory-exemption-custom.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/83926-nuro-has-granted-nhtsa-first-regulatory-exemption-custom.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83926-nuro-has-granted-nhtsa-first-regulatory-exemption-custom.html"
     type: article
     provider:
-      name: Governing
-      domain: governing.com
-    quality: 44
+      name: TechSpot
+      domain: techspot.com
+    quality: 58
     images:
-      - url: "https://media2.govtech.com/images/shutterstock_156230078.jpg"
-        width: 950
-        height: 629
-  - title: "Federal government approves California company’s self-driving vehicle with no wheel or pedals"
-    excerpt: "MOUNTAIN VIEW, Calif. — The federal government has cleared the way for a Silicon Valley startup to deploy thousands of its self-driving delivery vehicles on US streets. The R2 has no steering wheel, pedals or side mirrors as it’s designed to be unmanned and carry cargo. Large compartments on its side open up to reveal deliveries ..."
-    publishedDateTime: 2020-02-08T04:16:00Z
-    webUrl: "https://fox4kc.com/2020/02/07/federal-government-approves-california-companys-self-driving-vehicle-with-no-wheel-or-pedals/"
-    ampWebUrl: "https://fox4kc.com/2020/02/07/federal-government-approves-california-companys-self-driving-vehicle-with-no-wheel-or-pedals/amp/"
-    cdnAmpWebUrl: "https://fox4kc-com.cdn.ampproject.org/c/s/fox4kc.com/2020/02/07/federal-government-approves-california-companys-self-driving-vehicle-with-no-wheel-or-pedals/amp/"
+      - url: "https://static.techspot.com/images2/news/ts3_thumbs/2020/02/2020-02-07-ts3_thumbs-3a9.jpg"
+        width: 800
+        height: 560
+  - title: "The feds just blessed a custom self-driving vehicle for the first time"
+    excerpt: "The National Highway Traffic Safety Administration on Thursday officially signed off on a new self-driving vehicle from the the delivery startup Nuro. It's an historic move; Nuro says it's the first time NHTSA has exempted a self-driving vehicle from regulatory requirements that apply to conventional vehicles. Nuro's new delivery vehicle ..."
+    publishedDateTime: 2020-02-07T12:30:00Z
+    webUrl: "https://arstechnica.com/cars/2020/02/the-feds-just-blessed-a-custom-self-driving-vehicle-for-the-first-time/"
     type: article
     provider:
-      name: FOX4 Kansas City
-      domain: fox4kc.com
-    quality: 33
-    images:
-      - url: "https://placehold.it/300X250"
-        width: 300
-        height: 250
-  - title: "CA Startup Gets Approval to Deploy Thousands of Self-Driving Delivery Vehicles With No Steering Wheel"
-    excerpt: "The federal government has cleared the way for a Silicon Valley startup to deploy thousands of its self-driving delivery vehicles on US streets. The R2 has no steering wheel, pedals or side mirrors as it’s designed to be unmanned and carry cargo. Large compartments on its side open up to reveal deliveries, such as groceries or pizza."
-    publishedDateTime: 2020-02-07T19:49:00Z
-    webUrl: "https://ktla.com/2020/02/07/ca-startup-gets-approval-to-deploy-thousands-of-self-driving-delivery-vehicles-with-no-steering-wheel/"
-    ampWebUrl: "https://ktla.com/2020/02/07/ca-startup-gets-approval-to-deploy-thousands-of-self-driving-delivery-vehicles-with-no-steering-wheel/amp/"
-    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/2020/02/07/ca-startup-gets-approval-to-deploy-thousands-of-self-driving-delivery-vehicles-with-no-steering-wheel/amp/"
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 34
+  - title: "US clears the way for self-driving vehicle with no steering wheel or pedals"
+    excerpt: "(CNN) -- The federal government has cleared the way for a Silicon Valley startup to deploy thousands of its self-driving delivery vehicles on US streets. Nuro, based in Mountain View, California,is now able to launch up to 5,000 of its R2autonomousvehicles over the next two years, according to the US Department of Transportation. The R2 has no ..."
+    publishedDateTime: 2020-02-07T18:06:00Z
+    webUrl: "https://cbs58.com/news/us-clears-the-way-for-self-driving-vehicle-with-no-steering-wheel-or-pedals"
     type: article
     provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 29
+      name: CBS 58
+      domain: cbs58.com
+    quality: 22
     images:
-      - url: "https://tribktla.files.wordpress.com/2020/02/hypatia-h_6c542cd4da989a321201ee0792ec843c-h_380deb702e8624c8a7d02bce596b8943.jpg?quality=85&strip=all&w=1200"
-        width: 1200
-        height: 800
+      - url: "https://newscdn.weigelbroadcasting.com/WEsd0-1581098470-157079-blog-hypatia-h_6c542cd4da989a321201ee0792ec843c-h_380deb702e8624c8a7d02bce596b8943.jpg"
+        width: 3000
+        height: 2000
 
 secured: "6SzfK1BlP+/AFRYaMWpJ+lnTeD3uL+R+eiccSpQFd2Umhrvqxo3tbS4IQXgUJqcduD4l+2qLBZN3Kbyrnys9qtG9Ws0bImMM6J1OYTxvqbU3xlpixrZHsrlPYbKOGtDuIOv88mpNhKDJm4tppL4GaEB70gzFu+hsuEbAskcV87n7LX7T/Ojv5K5gnr6jb+pHmIFFH5ZAEBEiSontalzNh+BbwQV4C+j/S77Pdyb07Ujh6f9MIVArZmMT3P2Ly93p730NSVYbJ9HbONk1i2npJzaFQYRqhGYLV0H5aWDS6tbtyJyEV3Q285WYlBnxtBty;z/TYBGBg/wgrRiKxW/Xuxw=="
 ---

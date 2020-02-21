@@ -3,14 +3,14 @@ category: news
 title: "Bumble bees display cross-modal object recognition between visual and tactile senses"
 excerpt: "For example, an object out of view, but for which we have a mental image, can still be recognized by touch. Such cross-modal recognition is highly adaptive and has been recently identified in other mammals, but whether it is widespread has been debated. Solvi et al. tested for this behavior in bumble bees, which are increasingly recognized as ..."
 publishedDateTime: 2020-02-20T19:25:00Z
-webUrl: "https://science.sciencemag.org/content/367/6480/910?rss=1"
+webUrl: "https://science.sciencemag.org/content/367/6480/910.full"
 type: article
 quality: 32
 heat: -1
 published: false
 
 provider:
-  name: Science
+  name: Science | AAAS
   domain: sciencemag.org
 
 topics:
@@ -64,6 +64,6 @@ related:
         width: 264
         height: 440
 
-secured: "cbrDQSZvv/5Hm5EYp2wWjGRw1zpJ/pa2xDNnn++ueoJ/CUy8sXOSpa9M+t0WL4odidSrnZuvkN/nnQwRFEvcJRfDj4uoWt4OkLiklvnBda/f6+PV0ngNSKBBtcxaUCnNJT+m1hDCuqNlTB/C3/9n1Bi+vEIb9jVgvorSNJl/foGlYmpcYef2ExR/g3sDmWvLbzgY10k6WX3T7sXaln/VPNvsYpSPpLjloMER4vWlrqMBtNFYnVOB2osKE5VkkqSRNUbky7ieRrd30oWqTWP9qA96NzVdLB7IqOeIvmDnBdQEHfa4O5nfeQ+L9MiBBbkL;B7xToJTXWEocFeUvliq34g=="
+secured: "cqrIORw1actFGgjiP2q9UJrCJ/gpH+n6KtQXOo82/pQOQ7/502+dv7tns/kjkDKblZkyojaS3cEIAGBfxFT5+6AkfMx3OBDdgknv6R0lEifyZGvtWxyyW0y7Vl3hROZCofm0+I4O2coAXAoEbyTWY0Rx0EbReP7jZbEX85GoMxcEcDwQeIrAEcoBGRQMv1G+An3tzKalFRWe4Fzjsd5hX1Fq2+W+7elE1h/KEY1dVoRXoF5yOJGcQi/+we6T571BgBB9Rk5hoUNvgPKXbNwvjLjC/NF5HqVRMVcHZFaoP4xArFG+SxmD7vS2yHwC50Sd;DrDgc07Cx12yltmIqlRDMg=="
 ---
 

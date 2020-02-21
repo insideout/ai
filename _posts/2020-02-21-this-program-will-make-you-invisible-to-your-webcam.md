@@ -2,10 +2,10 @@
 category: news
 title: "This Program Will Make You Invisible (to Your Webcam)"
 excerpt: "“This is all happening in real time, in the browser, using TensorFlow.” TensorFlow is a Google-developed open source program used for machine learning and neural network applications. Disappearing People works by pulling the frames from a webcam, copying them, then scanning the copy for human features. If it sees something it identifies as ..."
-publishedDateTime: 2020-02-21T13:00:00Z
-webUrl: "https://www.vice.com/en_us/article/4ag4km/this-program-will-make-you-invisible-to-your-webcam"
-ampWebUrl: "https://www.vice.com/amp/en_us/article/4ag4km/this-program-will-make-you-invisible-to-your-webcam"
-cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/4ag4km/this-program-will-make-you-invisible-to-your-webcam"
+publishedDateTime: 2020-02-21T14:03:00Z
+webUrl: "https://www.vice.com/en_ca/article/4ag4km/this-program-will-make-you-invisible-to-your-webcam"
+ampWebUrl: "https://www.vice.com/amp/en_ca/article/4ag4km/this-program-will-make-you-invisible-to-your-webcam"
+cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_ca/article/4ag4km/this-program-will-make-you-invisible-to-your-webcam"
 type: article
 quality: 74
 heat: 74
@@ -29,6 +29,6 @@ images:
     height: 1125
     title: "This Program Will Make You Invisible (to Your Webcam)"
 
-secured: "f+CCHrLQSbY5YvV6/TB5inzjtkc0iJj2SOt0jsUlRh7oIMCygGAg70G01gD2VtslxlI1cir7C75glwthvJs0xHJb4+hHAgoJNmsYuZvC4uaygNi+wCGd4L/ulVa6T9ADvd0q4oC52dydFa7rCrz7oXgRde5oay7ApDT09UKALrvL1NjeCcoye/jpw5qN1NhlP/6dGuYkkHkwPMQ23jVX2COvhXGd0LVNbLXjtWoVKfx5ac4kcd2fWav+civepeqjvJ9GCOXevmLz0fR5TGFJ2PTT2kvwv/OwjQaI/SC85WJkIXzTUu09FyHmgonf3HUs;SknIGtQQxLdseiEYpM48TA=="
+secured: "mMLup6LV7Dr0NNJE5bKIWsTuW7a8D3ndFRSTVwV4cLJ4IQAkpo4Kx//025Pyi62QtMDEydTm4fPdUnjAqRUPFtl4+EMF6N7DQOtEz1auZtB6lRy0RC7fJimNpMf7Jh1d80GSc5nPCQoML/MWXXwuyTO3OEO7pdsgZJ3qu9WnQIjAtSX46QBnW3564h9K5NHQEQM34/Z39CXs3Re54D54ia8+SiyXE5Do2Ch+/tZQ4xgcvWz7SqfH3mm3Lv/nFF1XP0Ro6t4+OPrJhbdP718ylRX7Li7+TDTwnxVX8Wtpx1lqFPA6+oc49pGQQH9mZQ5D;CfidZL5kxiCc6iC1RshFFw=="
 ---
 

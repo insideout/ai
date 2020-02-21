@@ -24,36 +24,6 @@ images:
     title: "How Waterloo researchers are giving self-driving cars 'Canadian vision"
 
 related:
-  - title: "Nuro self-driving car gets US DOT's blessing"
-    excerpt: "California-based Nuro has made history. Perhaps not the biggest splash, but in one small step for self-driving cars, Nuro's driverless R2 has received the first approved exemption from the US Department of Transportation. The exemption allows Nuro to operate its latest R2 self-driving car on public roads despite it having no human-driver controls."
-    publishedDateTime: 2020-02-06T22:00:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/nuro-r2-self-driving-car-delivery-vehicle/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/nuro-r2-self-driving-car-delivery-vehicle/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nuro-r2-self-driving-car-delivery-vehicle/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 74
-    images:
-      - url: "https://cnet1.cbsistatic.com/img/8k-lRQK2Dutoix3kDWRdfo1bBIc=/2020/02/06/26455c98-4cd8-44fa-a8b3-880df866df5c/ogi-nuro.jpg"
-        width: 1200
-        height: 630
-  - title: "Self-driving delivery van ditches 'human controls'"
-    excerpt: "The first self-driving vehicle designed without basic human controls such as steering wheels, pedals or side view mirrors has been granted permission to test on US roads. Nuro, the company behind the design, makes autonomous delivery vans. The vehicle is Nuro's second generation of its vehicles, which it is calling R2 and will be tested in ..."
-    publishedDateTime: 2020-02-06T23:45:00Z
-    webUrl: "https://www.bbc.com/news/technology-51409031"
-    ampWebUrl: "https://www.bbc.com/news/amp/technology-51409031"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51409031"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 74
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/13970/production/_110804208_screen-shot-2020-02-06-at-2_32_43-pm.png"
-        width: 1024
-        height: 576
   - title: "U.S. House panel to hold hearing on future of self-driving cars"
     excerpt: "A U.S. House panel will hold a hearing Tuesday on autonomous vehicles as lawmakers try to hammer out legislation to advance self-driving cars. An Energy and Commerce subcommittee overseeing automotive issues will hear from officials of trade groups representing automakers and tech companies,"
     publishedDateTime: 2020-02-07T20:50:00Z
@@ -114,121 +84,105 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/10T-kTZJK2tlblwYeUppcBLmegw=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66295443/vpavic_191202_3827_0024.0.jpg"
         width: 1400
         height: 933
-  - title: "Nuro's R2 vehicle has been granted the NHTSA's first regulatory exemption for a custom self-driving car"
-    excerpt: "Self-driving cars: Nuro is a well-known entity in the autonomous vehicle industry. It's partnered up with companies like Kroger and Dominos in the past to offer driverless food and grocery delivery services via its \"R1\" generation of vehicles. Now ..."
-    publishedDateTime: 2020-02-07T22:57:00Z
-    webUrl: "https://www.techspot.com/news/83926-nuro-has-granted-nhtsa-first-regulatory-exemption-custom.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/83926-nuro-has-granted-nhtsa-first-regulatory-exemption-custom.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83926-nuro-has-granted-nhtsa-first-regulatory-exemption-custom.html"
+  - title: "Tech Start-Up Pix Moving Uses Self-Driving Ideas To Make Flexible Cities"
+    excerpt: "Tech start-up Pix Moving has engineered a pioneering autonomous mobile living unit based on self-driving cars and is proposing Pix City as a flexible, tech-evolving future city"
+    publishedDateTime: 2020-02-09T17:04:00Z
+    webUrl: "https://www.forbes.com/sites/nargessbanks/2020/02/09/autonomous-drive-pix-moving/"
+    ampWebUrl: "https://www.forbes.com/sites/nargessbanks/2020/02/09/autonomous-drive-pix-moving/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nargessbanks/2020/02/09/autonomous-drive-pix-moving/amp/"
     type: article
     provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 58
+      name: Forbes
+      domain: forbes.com
+    quality: 73
     images:
-      - url: "https://static.techspot.com/images2/news/ts3_thumbs/2020/02/2020-02-07-ts3_thumbs-3a9.jpg"
-        width: 800
-        height: 560
-  - title: "Uber cleared to restart self-driving car testing in California"
-    excerpt: "Uber is the latest company that California has granted a permit to test self-driving vehicles — with a trained human driver still present. Reuters reports that California’s Department of Motor Vehicles issued Uber the permit on Wednesday, February 5. The permit was issued to Uber Advanced Technologies Group (ATG), which is tasked with ..."
-    publishedDateTime: 2020-02-06T21:27:00Z
-    webUrl: "https://www.digitaltrends.com/news/uber-self-driving-testing-california/"
-    ampWebUrl: "https://www.digitaltrends.com/news/uber-self-driving-testing-california/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/uber-self-driving-testing-california/?amp"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e403a4b8b6cf300071e3efc%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1000%26cropY1%3D0%26cropY2%3D563"
+        width: 1000
+        height: 563
+  - title: "UPDATE 1-U.S. lawmakers hear arguments for new safeguards for self-driving cars"
+    excerpt: "WASHINGTON, Feb 11- A U.S. House panel on Tuesday heard from advocates of imposing stricter safeguards for self-driving cars as part of any effort to speed the adoption of the vehicles on U.S. roads."
+    publishedDateTime: 2020-02-12T04:03:00Z
+    webUrl: "https://www.cnbc.com/2020/02/11/reuters-america-update-1-u-s-lawmakers-hear-arguments-for-new-safeguards-for-self-driving-cars.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/02/11/reuters-america-update-1-u-s-lawmakers-hear-arguments-for-new-safeguards-for-self-driving-cars.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/02/11/reuters-america-update-1-u-s-lawmakers-hear-arguments-for-new-safeguards-for-self-driving-cars.html"
     type: article
     provider:
-      name: Digital Trends
-      domain: digitaltrends.com
+      name: CNBC
+      domain: cnbc.com
+    quality: 70
+    images:
+      - url: "https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif?v=1524171804"
+        width: 1200
+        height: 630
+  - title: "Waymo Workers: People Keep Injecting Drugs in Self-Driving Cars"
+    excerpt: "In 2018, self-driving car company Waymo launched Waymo One, a rideshare service à la Uber or Lyft but with autonomous cars. In December 2019, it took the program to the next level by offering some passengers rides in Arizona cars without safety drivers behind the wheel. Now, in a trashy twist, Waymo workers have told The Verge that passengers ..."
+    publishedDateTime: 2020-02-07T20:17:00Z
+    webUrl: "https://futurism.com/the-byte/waymo-people-injecting-drugs-self-driving-cars"
+    ampWebUrl: "https://futurism.com/waymo-people-injecting-drugs-self-driving-cars/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/waymo-people-injecting-drugs-self-driving-cars/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 59
+    images:
+      - url: "https://wp-assets.futurism.com/2020/02/waymo-workers-people-keep-injecting-drugs-self-driving-cars-600x315.jpg"
+        width: 600
+        height: 315
+  - title: "House Hearing Revives Push for Self-Driving-Car Legislation"
+    excerpt: "House lawmakers held a hearing in an effort to revive legislation that would create clear federal safety guidelines and standards for autonomous vehicles and help companies bring the technology to market."
+    publishedDateTime: 2020-02-12T14:21:00Z
+    webUrl: "https://www.wsj.com/articles/house-hearing-revives-push-for-self-driving-car-legislation-11581503402"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
     quality: 54
-  - title: "Self-driving car company Nuro wins federal safety approval for grocery delivery robot"
-    excerpt: "WASHINGTON — Delivery robot company Nuro won the first federal safety approval for a purpose-built self-driving vehicle, advancing the young company's plans to cart groceries around neighborhoods and marking a milestone for the autonomous vehicle industry. The approval indicates that federal regulators at the Department of Transportation ..."
-    publishedDateTime: 2020-02-09T10:11:00Z
-    webUrl: "https://www.swtimes.com/entertainmentlife/20200209/self-driving-car-company-nuro-wins-federal-safety-approval-for-grocery-delivery-robot"
-    ampWebUrl: "https://www.swtimes.com/entertainmentlife/20200209/self-driving-car-company-nuro-wins-federal-safety-approval-for-grocery-delivery-robot?template=ampart"
-    cdnAmpWebUrl: "https://www-swtimes-com.cdn.ampproject.org/c/s/www.swtimes.com/entertainmentlife/20200209/self-driving-car-company-nuro-wins-federal-safety-approval-for-grocery-delivery-robot?template=ampart"
-    type: article
-    provider:
-      name: Southwest Times Record
-      domain: swtimes.com
-    quality: 37
     images:
-      - url: "https://www.swtimes.com/apps/pbcsi.dll/bilde?Site=AR&Date=20200209&Category=ENTERTAINMENTLIFE&ArtNo=200209775&Ref=AR"
-        width: 6720
-        height: 4480
-  - title: "Feds break from policy, allow self-driving vehicle to bypass human-driver safety rules"
-    excerpt: "DETROIT — For the first time, the U.S. government’s highway safety agency has approved a company’s request to deploy a self-driving vehicle that doesn’t need to meet the same federal safety standards for cars and trucks driven by humans. The National Highway Traffic Safety Administration granted temporary approval for Silicon Valley ..."
-    publishedDateTime: 2020-02-06T23:59:00Z
-    webUrl: "https://www.syracuse.com/us-news/2020/02/feds-break-from-policy-allow-self-driving-vehicle-to-bypass-human-driver-safety-rules.html"
-    ampWebUrl: "https://www.syracuse.com/us-news/2020/02/feds-break-from-policy-allow-self-driving-vehicle-to-bypass-human-driver-safety-rules.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-syracuse-com.cdn.ampproject.org/c/s/www.syracuse.com/us-news/2020/02/feds-break-from-policy-allow-self-driving-vehicle-to-bypass-human-driver-safety-rules.html?outputType=amp"
+      - url: "https://images.wsj.net/im-153483/social"
+        width: 1280
+        height: 640
+  - title: "House lawmakers close to draft bill on self-driving cars"
+    excerpt: "House lawmakers on Tuesday touted progress toward bipartisan legislation on self-driving cars, with plans to release draft language soon."
+    publishedDateTime: 2020-02-11T21:46:00Z
+    webUrl: "https://thehill.com/policy/technology/482628-house-lawmakers-close-to-draft-bill-on-self-driving-cars"
+    ampWebUrl: "https://thehill.com/policy/technology/482628-house-lawmakers-close-to-draft-bill-on-self-driving-cars?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/482628-house-lawmakers-close-to-draft-bill-on-self-driving-cars?amp"
     type: article
     provider:
-      name: syracuse.com
-      domain: syracuse.com
-    quality: 36
+      name: The Hill
+      domain: thehill.com
+    quality: 44
     images:
-      - url: "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/ALVEY7JR7NCHZKKWPIJVSNBDLY.jpg"
-        width: 6720
-        height: 4480
-  - title: "The feds just blessed a custom self-driving vehicle for the first time"
-    excerpt: "The National Highway Traffic Safety Administration on Thursday officially signed off on a new self-driving vehicle from the the delivery startup Nuro. It's an historic move; Nuro says it's the first time NHTSA has exempted a self-driving vehicle from regulatory requirements that apply to conventional vehicles. Nuro's new delivery vehicle ..."
-    publishedDateTime: 2020-02-07T12:30:00Z
-    webUrl: "https://arstechnica.com/cars/2020/02/the-feds-just-blessed-a-custom-self-driving-vehicle-for-the-first-time/"
+      - url: "https://thehill.com/sites/default/files/uber_self-driving_car_04032018_1.jpg"
+        width: 980
+        height: 551
+  - title: "House Panel to Hold Hearing to Advance Rules on Self-Driving Vehicles"
+    excerpt: "A U.S. House panel will hold a hearing Tuesday on autonomous vehicles as lawmakers try to hammer out legislation to advance self-driving cars. An Energy and Commerce subcommittee overseeing automotive issues will hear from officials of trade groups representing automakers and tech companies, as well as safety advocates and a San Francisco ..."
+    publishedDateTime: 2020-02-10T14:44:00Z
+    webUrl: "https://www.insurancejournal.com/news/national/2020/02/10/557962.htm"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 34
-  - title: "California allows Uber’s self-driving cars to get back on its roads"
-    excerpt: "Nearly two years after a car from Uber’s autonomous fleet was involved in a deadly crash in the neighboring US state of Arizona, the Department of Motor Vehicles has granted a permit to the ride-hailing company to test its self-driving cars on public roads. Before the horrendous incident in Arizona, the multinational ride hailing giant was ..."
-    publishedDateTime: 2020-02-07T14:43:00Z
-    webUrl: "https://www.techjuice.pk/california-allows-ubers-self-driving-cars-to-get-back-on-its-roads/"
-    type: article
-    provider:
-      name: techjuice.pk
-      domain: techjuice.pk
+      name: Insurance Journal
+      domain: insurancejournal.com
     quality: 24
     images:
-      - url: "https://cdn.techjuice.pk/wp-content/uploads/2020/02/image-7.jpeg"
-        width: 796
-        height: 419
-  - title: "Uber gets California nod to restart self-driving test"
-    excerpt: "The California Department of Motor Vehicles issued a permit on Wednesday to the company’s selfdriving unit, Uber Advanced Technologies.Reuters | February 07, 2020, 07:07 IST Uber Technologies has been allowed to restart testing its self-driving vehicles with a backup driver in California, almost two years after its autonomous car killed a ..."
-    publishedDateTime: 2020-02-07T01:37:00Z
-    webUrl: "https://tech.economictimes.indiatimes.com/news/technology/uber-gets-california-nod-to-restart-self-driving-test/73996819"
-    ampWebUrl: "https://tech.economictimes.indiatimes.com/amp/news/technology/uber-gets-california-nod-to-restart-self-driving-test/73996819"
-    cdnAmpWebUrl: "https://tech-economictimes-indiatimes-com.cdn.ampproject.org/c/s/tech.economictimes.indiatimes.com/amp/news/technology/uber-gets-california-nod-to-restart-self-driving-test/73996819"
+      - url: "https://www.insurancejournal.com/app/uploads/2013/09/Congress-580x386.jpg"
+        width: 580
+        height: 386
+  - title: "Report calls out automakers to prioritize kids' safety in self-driving cars"
+    excerpt: "Self driving cars promise freedom; from steering for you to accelerating the car down ... Audi; Continental; Intel; Infineon; Aptiv; Baidu; HERE Technologies sets out an organized framework for the development, testing and validation of safe, automated passenger vehicles. This is becoming increasingly important with the rapid growth of ..."
+    publishedDateTime: 2020-02-07T03:45:00Z
+    webUrl: "https://www.wtol.com/article/life/family-focus/report-calls-out-automakers-to-prioritize-kids-safety-in-self-driving-cars/512-fa0605c4-7852-48fe-89b7-e0266b839362"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 24
-  - title: "Congress looks to revive self-driving car legislation"
-    excerpt: "Want access to the top energy and environment news? Sign up for a free trial! Enter your email to register or log in. By signing up, you agree to receive E&E News email updates and offers. You also grant your consent to our data collection practices. We encourage you to review our Privacy and Data Practices Policy."
-    publishedDateTime: 2020-02-12T12:19:00Z
-    webUrl: "https://www.eenews.net/eedaily/2020/02/12/stories/1062327793"
-    type: article
-    provider:
-      name: E&E
-      domain: eenews.net
-    quality: 24
-    images:
-      - url: "https://www.eenews.net/image_assets/2020/02/image_asset_74141.jpg"
-        width: 938
-        height: 483
-  - title: "US clears the way for self-driving vehicle with no steering wheel or pedals"
-    excerpt: "(CNN) -- The federal government has cleared the way for a Silicon Valley startup to deploy thousands of its self-driving delivery vehicles on US streets. Nuro, based in Mountain View, California,is now able to launch up to 5,000 of its R2autonomousvehicles over the next two years, according to the US Department of Transportation. The R2 has no ..."
-    publishedDateTime: 2020-02-07T18:06:00Z
-    webUrl: "https://cbs58.com/news/us-clears-the-way-for-self-driving-vehicle-with-no-steering-wheel-or-pedals"
-    type: article
-    provider:
-      name: CBS 58
-      domain: cbs58.com
+      name: WTOL
+      domain: wtol.com
     quality: 22
     images:
-      - url: "https://newscdn.weigelbroadcasting.com/WEsd0-1581098470-157079-blog-hypatia-h_6c542cd4da989a321201ee0792ec843c-h_380deb702e8624c8a7d02bce596b8943.jpg"
-        width: 3000
-        height: 2000
+      - url: "https://media.wtol.com/assets/WTOL/images/73fa9d4c-e350-45aa-8d4b-a9482434eacd/73fa9d4c-e350-45aa-8d4b-a9482434eacd_1140x641.jpg"
+        width: 1140
+        height: 641
   - title: "Self-Driving Cars as Edge Computing Devices"
     excerpt: "Matt Ranney explains the architecture of Uber ATG’s self-driving cars and takes a look at how the software is developed, tested, and deployed. Jade Abbott discusses machine learning and the unexpected details of putting models in production besides just the code, model and infrastructure: DataOps, robustness and uncertainty tests, model drift ..."
     publishedDateTime: 2020-02-10T22:40:00Z
@@ -237,15 +191,6 @@ related:
     provider:
       name: InfoQ
       domain: infoq.com
-    quality: 4
-  - title: "Can self-driving cars handle Canadian winters?"
-    excerpt: "University of Toronto professor Steven Waslander talks about a new study, which will be used to determine whether self-driving cars can handle the snow and ice from harsh Canadian winters. <iframe src=\"https://globalnews.ca/video/embed/6535979/\" width=\"670\" height=\"372\" frameborder=\"0\" allowfullscreen scrolling=\"no\"></iframe> <style>.gn-embed ..."
-    publishedDateTime: 2020-02-11T16:22:00Z
-    webUrl: "https://globalnews.ca/video/6535979/can-self-driving-cars-handle-canadian-winters"
-    type: article
-    provider:
-      name: Global News
-      domain: globalnews.ca
     quality: 4
   - title: "Will Self-Driving Cars Increase Or Decrease Drunk Driving?"
     excerpt: "Sobriety checkpoints are also useful, though they aren't as effective as they should be. Some industry experts have started to explore the idea of self-driving cars as a solution to drunk driving. Will these autonomous vehicles be the solution we're looking for? Will Autonomous Vehicles Help? Will self-driving cars reduce the number of drunk ..."
@@ -256,19 +201,6 @@ related:
       name: i4u.com
       domain: i4u.com
     quality: 4
-  - title: "Silicon Valley startup Nuro becomes first company to receive self-driving vehicle exemption from U.S. Department of Transportation"
-    excerpt: "That car is designed to carry packages, not people, and can take loads of up to 400 pounds while maxing out at 25 mph. The major difference from other self-driving vehicles is the fact it’s not designed to have any humans as passengers or drivers. Nuro calls it a “zero-occupant vehicle” rather that a driver-less car. The cars can be ..."
-    publishedDateTime: 2020-02-07T03:43:00Z
-    webUrl: "https://siliconangle.com/2020/02/06/silicon-valley-startup-nuro-becomes-gets-self-driving-vehicle-exemption-u-s-department-transportation/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 0
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/02/nuro.jpeg"
-        width: 4000
-        height: 2666
 
 secured: "Tt3RdEfA1Wocce69V8ToLE0xsgK3Bbd6QLU8wM2a5Zdr87zD+99n43W5yOlrXaI4Vh/2lwIhA5t6BmAqjknxjDsFJfKtYL4JbvpVfX9olDKxIQENjKggE58mqA3bePKiwVzZh26NMRkKDtwREsKB+wFCW/H8qYu8LMo9RQvsz05NoCYIQ+TCw43oG9ugkztb5j+qtwQQuE0WDa9d1oVtXRG5ADhrfOwP/M3YkW+Wc/wpJWaL18nDHA8/7Lvqv8wQJStNOWhQEcscV5S7ks6hBmCOK+6YxGqeue+W1SQeVkEvAbMDe7H+NrEkwjGfYMD5RHk7V1tBN+YFTmr6KZOwiNsnbk9FhOI7H/mE5alqpJ35rv6TFtrANkca3C5NoKSKX+GZWwT0Hblgq+zkhhtsRDYACpOj1UoTvv05PrdadrP/xJ9BawF/jn9e7patKC4oiHhfM2lkhkW0RiscEMSK/9hgaEe329gS7AzChHImp6A=;DIPqDkQfo1ZY67/PiKveIQ=="
 ---
