@@ -1,23 +1,27 @@
 ---
 category: news
 title: "Global Cyber Security Market Value Projected to Exceed $280 Billion by 2027"
-excerpt: "PALM BEACH, Florida, Feb. 19, 2020 /PRNewswire/ -- The Global cyber security market value stood at USD 112.01 billion in 2019 and is projected to reach USD 281.74 billion by 2027, exhibiting a CAGR of 12."
+excerpt: "/PRNewswire/ -- The Global cyber security market value stood at USD 112.01 billion in 2019 and is projected to reach USD 281.74 billion by 2027, exhibiting"
 publishedDateTime: 2020-02-19T13:30:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/02/n15363728/global-cyber-security-market-value-projected-to-exceed-280-billion-by-2027"
-ampWebUrl: "https://amp.benzinga.com/amp/content/15363728"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15363728"
+webUrl: "https://www.prnewswire.com/news-releases/global-cyber-security-market-value-projected-to-exceed-280-billion-by-2027-301007223.html"
 type: article
 quality: 22
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
   - Machine Learning
+
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    title: "Global Cyber Security Market Value Projected to Exceed $280 Billion by 2027"
 
 related:
   - title: "Global Machine Learning Chip Market to Garner $37.85 Billion by 2025, at 40.8% CAGR"
@@ -63,6 +67,6 @@ related:
       domain: openpr.com
     quality: 5
 
-secured: "n7xvaHxh5IRXF0uh3e3KJY0DUWv86JSpdE8yEyoE7g5mJzJ15mO4FXQDprZr2foQGgMmfOqeLDo/iDK3uhnw6SZuwmVpiSY3q7OXlyUMUCbm1WuZISHvTqLl7bAQSC/qmEZXJSHleEBVCVOqiu3BPInpbBZ1zz1yzM8HN4ji59ch8awsNnd3hMSKpWrOHYjPU7+yHLq3BmqCKuY51PmNzycTu7zDFVqO6SvBWFfhr/t+DyPvgA/bDLOI+xuLY8qcgyn0zXlQlRRVVQ/4x8ETDY5dYwhXxgktz2n+ameizIDDkmgjgIg4iLyD5JGG154F;hrLetKIWdL71iYQ32p4WAw=="
+secured: "RgZZaVzvUc5gXsD+Rb+ZvMojhB1c8+/Vlhpfkte4gbOmd6KbHnlP6jusLl8BBjqXLMqr8QHhhj38iKla9grLcT9qk+dYJPG1q6JHcAKlExWflzb5wNPPnpF5EB2YHdlIfaxK43rKiQF9HilBRZQRuVBhXK8mXRgnBJqAiUgWP+wZVgzuyxVCfyQNdZ3pXnk6CSbWwKRjr8GiczqifBgABInx24pHKwcv63BQwr//hBGHe7EWG+6zrq96piwPoA3o7EFU9Aw/n5SlgiywWr6wulwNcNOOBr5u+szDzwY2RwflUmkAx6zauTVf3BWB1z/v;1xdjWCrpW2pXMhI+Z8k6FA=="
 ---
 

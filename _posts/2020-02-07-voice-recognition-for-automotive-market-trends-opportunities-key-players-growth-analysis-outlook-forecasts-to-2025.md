@@ -125,15 +125,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 32
-  - title: "Meticulous Forecasts $26.8 Billion Speech and Voice Recognition Market"
-    excerpt: "Meticulous Research has released a new report that predicts that the market for speech and voice recognition technology will climb to $26.8 billion between 2019 and 2025. That figure represents a CAGR of 17.2 percent. Meticulous credits the anticipated ..."
-    publishedDateTime: 2020-02-07T00:00:00Z
-    webUrl: "https://findbiometrics.com/biometrics-news-meticulous-forecasts-26-8-billion-speech-voice-recognition-market-020705/"
-    type: article
-    provider:
-      name: SecuriMetrics HIIDE
-      domain: findbiometrics.com
-    quality: 4
   - title: "TOP Companies Operating in the Global Speech and Voice Recognition Market| Future Growth Outlook"
     excerpt: "The global speech and voice recognition market is expected to grow at a CAGR of 17.2% from 2019 to reach $26.79 billion by 2025, Says \"Meticulous Research, where Asia Pacific speech and voice recognition market is expected to grow at the highest CAGR. Voice and speech recognition technologies authorize contactless control to several devices and ..."
     publishedDateTime: 2020-02-11T11:51:00Z

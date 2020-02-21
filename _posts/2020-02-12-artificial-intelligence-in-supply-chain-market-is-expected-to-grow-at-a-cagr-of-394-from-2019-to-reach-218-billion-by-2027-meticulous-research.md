@@ -44,16 +44,18 @@ related:
       domain: marketwatch.com
     quality: 36
   - title: "Global Cyber Security Market Value Projected to Exceed $280 Billion by 2027"
-    excerpt: "PALM BEACH, Florida, Feb. 19, 2020 /PRNewswire/ -- The Global cyber security market value stood at USD 112.01 billion in 2019 and is projected to reach USD 281.74 billion by 2027, exhibiting a CAGR of 12."
+    excerpt: "/PRNewswire/ -- The Global cyber security market value stood at USD 112.01 billion in 2019 and is projected to reach USD 281.74 billion by 2027, exhibiting"
     publishedDateTime: 2020-02-19T13:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/02/n15363728/global-cyber-security-market-value-projected-to-exceed-280-billion-by-2027"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/15363728"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15363728"
+    webUrl: "https://www.prnewswire.com/news-releases/global-cyber-security-market-value-projected-to-exceed-280-billion-by-2027-301007223.html"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 22
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
   - title: "Global Artificial Intelligence In Accounting Market on Target to Reach $ 7,085 Million By 2025"
     excerpt: "The\"Global Artificial Intelligence In Accounting Market Is Anticipated To Reach Around USD 7,085 Million By 2025\"published and promoted by Zion Market Research provides in-depth segment analysis of the market being effective in several sectors, thereby providing valuable insights to the rivals. The global Artificial Intelligence in Accounting ..."
     publishedDateTime: 2020-02-19T10:36:00Z

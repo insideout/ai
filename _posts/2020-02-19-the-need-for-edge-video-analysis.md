@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-19T17:26:00Z
 webUrl: "https://www.embedded-computing.com/guest-blogs/the-need-for-edge-video-analysis"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,21 @@ images:
     width: 974
     height: 647
     title: "The Need for Edge Video Analysis"
+
+related:
+  - title: "Edge Video Analysis (EVA) for Autonomous Machines with Computer Vision"
+    excerpt: "The latest generation of industrial robots are known as autonomous mobile robots (AMRs). These robots employ a fusion of sophisticated sensor systems, like global positioning system (GPS) and computer vision, augmented with state-of-the-art artificial intelligence (AI) and deep learning (DL) technologies. These technologies allow AMRs to ..."
+    publishedDateTime: 2020-02-21T16:04:00Z
+    webUrl: "https://www.embedded-computing.com/guest-blogs/edge-video-analysis-eva-for-autonomous-machines-with-computer-vision"
+    type: article
+    provider:
+      name: Embedded Computing Design
+      domain: embedded-computing.com
+    quality: 39
+    images:
+      - url: "http://share.opsy.st/5e4ff5e62b6d1-Picture1.png"
+        width: 972
+        height: 650
 
 secured: "DagzCZGxVYWwZdGKC2HhFA9frBJaMJubMT1SeSGqLon+fJOLg8os8vbf/NReJ2A0Vg6n3xi61rWTpXKM2QKBgE8vAXEkqkG2v/nTlonEPxjEWD9tYp1t5DxW15cmXg1t0oLQ6tklSZZoqfiv7pfKlkRGT+Zz1xQEv3wT95EAF4OxomVGu2Uoa6MGDsJk7ELL3lk/MP4kwJWNTiK2vKUcTvARwi5EhL9ghujIzK7R/52ta6Yv9VSkqz5Mi6Q8AN8Kp5qvsEXCS4vCRYDt2xbkchep6BpWrVsZJGizi95uc72gwgDJnqaRJCFnaENDWxOemHvGX/sOOSMXRG/SeQTEBqoZ0utP3kRPacKdZlO+wXnffoN4FnuVlMyvzjM8DlNqmeKozhMX/whBtDMjdIwVG2+Dkokd0asQb9EX1mYTI5iHrm+lOi+idiJLYFgt7hzWs2eFCEEsXKFRxqRq5m/PA+EhGuE0BdePN7HrK0XUlSM=;yFqBCkoJkZ83CGpAkZ9MRw=="
 ---

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.birminghammail.co.uk/news/midlands-news/uber-birmingham-
 cdnAmpWebUrl: "https://www-birminghammail-co-uk.cdn.ampproject.org/c/s/www.birminghammail.co.uk/news/midlands-news/uber-birmingham-launch-face-recognition-17775710.amp"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -41,6 +41,21 @@ related:
       - url: "https://images.martechadvisor.com/images/uploads/content_images/the_mob_museum_pwc_martech_buzz_card_546_x_273_px_5e4fb231b1f25.png"
         width: 545
         height: 273
+  - title: "Privacy commissioners launch investigation into facial recognition technology tested by Toronto police, other GTA forces"
+    excerpt: "Federal and provincial regulators are launching an investigation into whether Clearview AI, the company that makes facial recognition technology used by at least four Ontario police forces, breaks Canadian privacy laws. The investigation was initiated ..."
+    publishedDateTime: 2020-02-21T16:52:00Z
+    webUrl: "https://www.thestar.com/news/gta/2020/02/20/privacy-commissioners-launch-investigation-into-facial-recognition-technology-tested-by-toronto-police-other-gta-forces.html"
+    ampWebUrl: "https://www.thestar.com/amp/news/gta/2020/02/20/privacy-commissioners-launch-investigation-into-facial-recognition-technology-tested-by-toronto-police-other-gta-forces.html"
+    cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/news/gta/2020/02/20/privacy-commissioners-launch-investigation-into-facial-recognition-technology-tested-by-toronto-police-other-gta-forces.html"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com
+    quality: 34
+    images:
+      - url: "https://images.thestar.com/VCnTmwymLnbBmkLF_tK-THOX3fM=/1200x800/smart/filters:cb(1582302710274)/https://www.thestar.com/content/dam/thestar/news/gta/2020/02/20/privacy-commissioners-launch-investigation-into-facial-recognition-technology-tested-by-toronto-police-other-gta-forces/clearview_ai.jpg"
+        width: 1200
+        height: 800
   - title: "Speech and Voice Recognition Market Top Leading Companies, Consumption, Key Drivers, Challenges and Trends Forecast to 2026"
     excerpt: "Top Players in Speech and Voice Recognition Market are Google, Baidu, Facebook, Amazon, Advanced Voice Recognition Systems, Apple Inc, IBM , Microsoft , Brianasoft, Voicebox Technologies Corporation,"
     publishedDateTime: 2020-02-13T12:51:00Z

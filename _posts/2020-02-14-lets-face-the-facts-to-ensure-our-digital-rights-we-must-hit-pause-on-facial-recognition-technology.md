@@ -51,20 +51,20 @@ related:
         width: 796
         height: 417
   - title: "Moscow deploys facial recognition technology for coronavirus quarantine"
-    excerpt: "Moscow is using facial recognition technology to ensure people ordered to remain at home or at their hotels under coronavirus quarantine do so."
-    publishedDateTime: 2020-02-21T14:22:00Z
-    webUrl: "https://www.cnbc.com/2020/02/21/moscow-deploys-facial-recognition-technology-for-coronavirus-quarantine.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/02/21/moscow-deploys-facial-recognition-technology-for-coronavirus-quarantine.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/02/21/moscow-deploys-facial-recognition-technology-for-coronavirus-quarantine.html"
+    excerpt: "Moscow is using facial recognition technology to ensure people ordered to remain at home or at their hotels under coronavirus quarantine do so, the mayor of the Russian capital said on Friday."
+    publishedDateTime: 2020-02-21T16:47:00Z
+    webUrl: "https://www.businessinsider.com/moscow-deploys-facial-recognition-technology-for-coronavirus-quarantine-2020-2?r=DE&IR=T"
+    ampWebUrl: "https://www.businessinsider.com/moscow-deploys-facial-recognition-technology-for-coronavirus-quarantine-2020-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/moscow-deploys-facial-recognition-technology-for-coronavirus-quarantine-2020-2?amp"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 89
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/100978289-135627372r.jpg?v=1582293185"
-        width: 2000
-        height: 1325
+      - url: "https://i.insider.com/5e4fce5efee23d1e136e7862?width=750&format=jpeg&auto=webp"
+        width: 750
+        height: 500
   - title: "New Jersey’s former attorney general on Ring cameras and facial recognition"
     excerpt: "And it is a little creepy. That’s not the technical legal term for it. But there’s a way in which, when you think about some of what China’s doing with facial recognition, and trying to basically, literally, track people in communities, you could see where it could end. And one of the things about Ring is that, what has been fascinating ..."
     publishedDateTime: 2020-02-11T13:00:00Z

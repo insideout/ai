@@ -1,11 +1,11 @@
 ---
 category: news
 title: "Breakingviews - Bank of England’s AI approach will toughen up"
-excerpt: "There’s some evidence to support the thesis. AI models can be better at assessing creditworthiness than traditional ones, according to a recent Bank for International Settlements study that was based on data from a Chinese fintech firm. Because AI models can incorporate a range of data, such as phone-bill payments and other transactions ..."
-publishedDateTime: 2020-02-21T13:03:00Z
-webUrl: "https://in.reuters.com/article/us-artificial-intelligence-boe-breakingv-idINKBN20F1IG"
-ampWebUrl: "https://in.mobile.reuters.com/article/amp/idINKBN20F1IG"
-cdnAmpWebUrl: "https://in-mobile-reuters-com.cdn.ampproject.org/c/s/in.mobile.reuters.com/article/amp/idINKBN20F1IG"
+excerpt: "The Bank of England last year picked artificial-intelligence pioneer Alan Turing as the face of its new 50-pound note. It’s an apt choice given the central bank will quickly have to figure out how to ensure that the spread of smart robots throughout finance is a force for good rather than a destabilising influence."
+publishedDateTime: 2020-02-21T11:37:00Z
+webUrl: "https://www.reuters.com/article/us-artificial-intelligence-boe-breakingv-idUSKBN20F1IG"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN20F1IG"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN20F1IG"
 type: article
 quality: 104
 heat: 104
@@ -29,6 +29,6 @@ images:
     height: 545
     title: "Breakingviews - Bank of England’s AI approach will toughen up"
 
-secured: "On/XgeY+sR3OyvmbiaxQFqcmFqgd/Iq/6PV07ToVbWm+svIAeSRvcutbWDZa+nNGF7nGd1tAl2vH/RbV1KBBXfoqEjKueOQQbPnadYCre3r5IWliZAXtk/8U+zIubhw5WnVqwYrAvLoBtAAGXR6eK78OxgfgtYimgkV8pZkrjmAb+tQ7kjNxvkgs6rcFDncvdd7J0JIuZGtXUUaWuCntaILBGNQ5uBwmb02+15sqpKieggxg4teJes0Ht8zSUayN3IFjxxlD4U2BsXa7CUXgnbgy0ezZps0xmk+sG6eWYmgXwzr3xOA54R5JjHLLPSqN;JSh9Sr7VM6CHTi0u8hgdXQ=="
+secured: "dDAEfZu5I9+W8M2cFVcyDo2U2QWQ7D4IUocKXnEIAytyXT8tXlNDmnp1l1c8A7VxOFtvR9HN006GQxspXgSugNuIEmw3sY/Z3imK5cmgbegtFD3Pd0zG4BvLN/dxfuiwQiytBOz2Ouc5NlZ63295AXlpz495dTiiupjAkyNVhAQVcA2yq4f7TktasZyFcEIeqv5usRIhQC3UncOqT7lSbASH6BKdWC3neD3gLse+iB9R+8Ls5fHPgJiRde1P/+jyqX+U6ylopWfyuUG7HpD1XQ1g+1r3KhdFPH9jzwKYwvyAHYPHkuiL7fNB8i8ywXe4;3stDwR5j5UTV8Jq+raK/fA=="
 ---
 

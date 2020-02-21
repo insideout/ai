@@ -270,6 +270,19 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/Zppqju29nmtX5AdWz3eHoD-1200-80.jpg"
         width: 1000
         height: 600
+  - title: "Facebook to pay users to improve speech recognition technology"
+    excerpt: "Facebook has announced it will pay select users who agree to record their voice to improve its speech recognition technology. According to The Verge, the social networking giant he company will pay select users to record snippets of audio through a new programme called \"Pronunciations in its Viewpoints market research app. If you qualify to be ..."
+    publishedDateTime: 2020-02-21T16:02:00Z
+    webUrl: "https://www.khaleejtimes.com/technology/mobiles/facebook-to-pay-users-for-to-improve-service"
+    type: article
+    provider:
+      name: Khaleej Times
+      domain: khaleejtimes.com
+    quality: 39
+    images:
+      - url: "https://images.khaleejtimes.com/storyimage/KT/20200221/ARTICLE/200229877/AR/0/Facebook,-voice-recognition,-social-media.jpg&NCS_modified=20200221110340&exif=.jpg"
+        width: 1200
+        height: 800
   - title: "Facebook Will Pay You For Sharing Your Voice Recordings: Here's How You Can Earn"
     excerpt: "The program will be rolled out to select users with 75 or more Facebook friends Facebook has been repeatedly caught with its hand in the cookie jar when it comes to sharing user data. It was caught in August last year hiring third-party contractors for reviewing and transcribing user audio clips,"
     publishedDateTime: 2020-02-21T09:00:00Z
@@ -307,6 +320,19 @@ related:
       name: Hindustan Times
       domain: hindustantimes.com
     quality: 31
+  - title: "Facebook Offers Some Users Money For Voice Recordings"
+    excerpt: "The voice recordings will be used to improve speech recognition systems. The offer comes after Facebook was caught transcribing voice recordings for the shoes in the past without informing customers is doing so. Users of the Viewpoints app can look under the Pronunciations tab to see if they qualify to be part of the program. Those that do ..."
+    publishedDateTime: 2020-02-21T16:30:00Z
+    webUrl: "https://www.legitreviews.com/facebook-offers-some-users-money-for-voice-recordings_217594"
+    type: article
+    provider:
+      name: Legit Reviews
+      domain: legitreviews.com
+    quality: 24
+    images:
+      - url: "https://www.legitreviews.com/wp-content/uploads/2019/12/facebook-facebook.jpg"
+        width: 1024
+        height: 680
   - title: "Facebook to pay users for to improve service"
     excerpt: "According to The Verge, the social networking giant he company will pay select users to record snippets of audio through a new programme called \"Pronunciations in its Viewpoints market research app ... this is an interesting approach by Facebook to improve its artificial intelligence-driven transcription skills."
     publishedDateTime: 2020-02-21T08:04:00Z

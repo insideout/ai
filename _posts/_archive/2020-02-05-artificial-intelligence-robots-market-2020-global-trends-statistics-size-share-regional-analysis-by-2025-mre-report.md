@@ -27,6 +27,6 @@ images:
     height: 630
     title: "Artificial Intelligence Robots Market 2020 Global Trends, Statistics, Size, Share, Regional Analysis By 2025-MRE Report"
 
-secured: "CqhVhS915GjFRiK3Pi0pfRaAgBaqMnuFTw74P6npB27+0gV+3rBVGgKkdAhq3n/8kzf2w5NeFlGe3qy5fxmsba6btmHWZqiVKU1l8f404ZizTjrUFBQD0N/Pl8PSMOozxaMnGt9dt7Cj54szxgW9Rgj2sS0jC8weJl/E9EBry/yVn5bCW4I2knjOlisDF9QjeU7zSJMcqqhyMRW5IINNRPamoYvB0S6RjV09HyP2p9w6GXKk27oe5Em3YDjeUgnqa54VwWN+VVzSckOexbo+ydfGoVaAK742BwoKp9CwGNbGAHf7GfhxIEljOF+YtmpR;qK3UPza3KT4l/vMhXD1Zmg=="
+secured: "6+cBdkgJ1mOjXNOab7v6yBW7DhIeKX8ZE3aAwI0F9K0TgsocDedWyV8BOU6lViglyUCB3ckRcEWemMY4MOBAmQHpMilRK+db2sqsqFY46smGoNXuagkGlJZnFWe1S4rvRxQgLyNv9UbntrwW06edGtMUsuru/lwWUrXh35K5w9YwruQenOJ7WI6GIxEU5nTL1p+d7vHc2WUJKd94v10j3eX7FObDkB/XfXSgBxttCFu+us7yakFvs9Ttd/CRrjw0MCzoM2T7pjbsiKDCIZdUhvvVloZ36wHdQrcTUyHuF0X7a1TXv0OV7r94UGiqXfPP;FOr//HNjGOfwBKygWJOo1A=="
 ---
 

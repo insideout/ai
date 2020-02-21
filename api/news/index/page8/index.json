@@ -175,43 +175,6 @@
       ]
     },
     {
-      "path": "_posts/2020-02-20-powerful-antibiotic-discovered-using-machine-learning-for-first-time.md",
-      "title": "Powerful antibiotic discovered using machine learning for first time",
-      "excerpt": "Team at MIT says halicin kills some of the world’s most dangerous strains",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theguardian.com/society/2020/feb/20/antibiotic-that-kills-drug-resistant-bacteria-discovered-through-ai",
-      "ampWebUrl": "https://amp.theguardian.com/society/2020/feb/20/antibiotic-that-kills-drug-resistant-bacteria-discovered-through-ai",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/society/2020/feb/20/antibiotic-that-kills-drug-resistant-bacteria-discovered-through-ai",
-      "publishedDateTime": "2020-02-20T08:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/5ad9424c30e580fdc638c52ef7cd200e61ad6e07/363_670_3568_2141/master/3568.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0b80c4e4b7fb6e665ef4567b4a989f87",
-          "width": 600,
-          "height": 360,
-          "title": "Powerful antibiotic discovered using machine learning for first time",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_posts/2020-02-20-predictions-2020-what-to-expect-in-ai-ml-rpa-sectors.md",
       "title": "Predictions 2020: What to Expect in AI, ML, RPA Sectors",
       "excerpt": "Here is another in a list of articles eWEEK is now publishing about predictions for 2020 (and sometimes beyond!). AI adoption in non-consumer internet industries is still in an early stage, and many projects are stuck in pilot purgatory because of challenges ranging from a lack of data to knowing how to manage complex machine learning workflows.",
@@ -766,14 +729,14 @@
     {
       "path": "_posts/2020-02-21-breakingviews-bank-of-englands-ai-approach-will-toughen-up.md",
       "title": "Breakingviews - Bank of England’s AI approach will toughen up",
-      "excerpt": "There’s some evidence to support the thesis. AI models can be better at assessing creditworthiness than traditional ones, according to a recent Bank for International Settlements study that was based on data from a Chinese fintech firm. Because AI models can incorporate a range of data, such as phone-bill payments and other transactions ...",
+      "excerpt": "The Bank of England last year picked artificial-intelligence pioneer Alan Turing as the face of its new 50-pound note. It’s an apt choice given the central bank will quickly have to figure out how to ensure that the spread of smart robots throughout finance is a force for good rather than a destabilising influence.",
       "heat": 104,
       "tags": null,
       "type": "article",
-      "webUrl": "https://in.reuters.com/article/us-artificial-intelligence-boe-breakingv-idINKBN20F1IG",
-      "ampWebUrl": "https://in.mobile.reuters.com/article/amp/idINKBN20F1IG",
-      "cdnAmpWebUrl": "https://in-mobile-reuters-com.cdn.ampproject.org/c/s/in.mobile.reuters.com/article/amp/idINKBN20F1IG",
-      "publishedDateTime": "2020-02-21T05:03:00-08:00",
+      "webUrl": "https://www.reuters.com/article/us-artificial-intelligence-boe-breakingv-idUSKBN20F1IG",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN20F1IG",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN20F1IG",
+      "publishedDateTime": "2020-02-21T03:37:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Reuters",
@@ -1123,6 +1086,50 @@
       ]
     },
     {
+      "path": "_posts/2020-02-21-scientists-discover-powerful-antibiotic-using-ai.md",
+      "title": "Scientists discover powerful antibiotic using AI",
+      "excerpt": "In a world first, scientists have discovered a new type of antibiotic using artificial intelligence (AI). It has been heralded by experts as a major breakthrough in the fight against the growing problem of drug resistance. A powerful algorithm was used to analyse more than one hundred million chemical compounds in a matter of days. The newly ...",
+      "heat": 167,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bbc.com/news/health-51586010",
+      "ampWebUrl": "https://www.bbc.com/news/amp/health-51586010",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/health-51586010",
+      "publishedDateTime": "2020-02-21T08:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/6764/production/_110986462_gettyimages-1068778256.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": "Scientists discover powerful antibiotic using AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_posts/2020-02-21-the-amazing-ways-goodyear-uses-artificial-intelligence-and-iot-for-digital-transformation.md",
       "title": "The Amazing Ways Goodyear Uses Artificial Intelligence And IoT For Digital Transformation",
       "excerpt": "Although Goodyear is a mature company, they are on the cutting edge of using today’s newest technology to propel innovation and their business in the 21st century.",
@@ -1244,6 +1251,50 @@
           "width": 711,
           "height": 474,
           "title": "Three AI-powered Jobs For Non-Techies",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-21-un-will-use-ai-to-learn-what-people-want-from-peace-deals.md",
+      "title": "UN will use AI to learn what people want from peace deals",
+      "excerpt": "The UN will help people in warzones to influence peace deals through an AI conversation tool they can access through their smartphones. The system will be launched within the next year, the Financial Times reports. The technology was developed by UN officials alongside a startup called Remesh, which produces a tool that creates online ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/02/21/un-will-use-ai-to-learn-what-people-want-from-peace-deals/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/02/21/un-will-use-ai-to-learn-what-people-want-from-peace-deals/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/21/un-will-use-ai-to-learn-what-people-want-from-peace-deals/amp/",
+      "publishedDateTime": "2020-02-21T08:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/Untitled-design-28-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "UN will use AI to learn what people want from peace deals",
           "attribution": null
         }
       ],
@@ -2063,51 +2114,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2019-12-21-facebook-twitter-remove-ai-powered-fake-accounts-with-pro-trump-messages.md",
-      "title": "Facebook, Twitter Remove AI-Powered Fake Accounts With Pro-Trump Messages",
-      "excerpt": "Facebook and Twitter have taken down a global network of fake accounts used in a coordinated campaign to push pro-Trump political messages, including some that used artificial intelligence tools to try to mask the behavior,",
-      "heat": 88,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wsj.com/articles/facebook-twitter-remove-ai-powered-fake-accounts-with-pro-trump-messages-11576873453",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/facebook-twitter-remove-ai-powered-fake-accounts-with-pro-trump-messages-11576873453",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facebook-twitter-remove-ai-powered-fake-accounts-with-pro-trump-messages-11576873453",
-      "publishedDateTime": "2019-12-20T20:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-138654/social",
-          "width": 1280,
-          "height": 640,
-          "title": "Facebook, Twitter Remove AI-Powered Fake Accounts With Pro-Trump Messages",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

@@ -1,21 +1,21 @@
 ---
 category: news
 title: "Moscow deploys facial recognition technology for coronavirus quarantine"
-excerpt: "Moscow is using facial recognition technology to ensure people ordered to remain at home or at their hotels under coronavirus quarantine do so."
-publishedDateTime: 2020-02-21T14:22:00Z
-webUrl: "https://www.cnbc.com/2020/02/21/moscow-deploys-facial-recognition-technology-for-coronavirus-quarantine.html"
-ampWebUrl: "https://www.cnbc.com/amp/2020/02/21/moscow-deploys-facial-recognition-technology-for-coronavirus-quarantine.html"
-cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/02/21/moscow-deploys-facial-recognition-technology-for-coronavirus-quarantine.html"
+excerpt: "Moscow is using facial recognition technology to ensure people ordered to remain at home or at their hotels under coronavirus quarantine do so, the mayor of the Russian capital said on Friday."
+publishedDateTime: 2020-02-21T16:47:00Z
+webUrl: "https://www.businessinsider.com/moscow-deploys-facial-recognition-technology-for-coronavirus-quarantine-2020-2?r=DE&IR=T"
+ampWebUrl: "https://www.businessinsider.com/moscow-deploys-facial-recognition-technology-for-coronavirus-quarantine-2020-2?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/moscow-deploys-facial-recognition-technology-for-coronavirus-quarantine-2020-2?amp"
 type: article
 quality: 89
 heat: -1
 published: false
 
 provider:
-  name: CNBC
-  domain: cnbc.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "/assets/images/organizations/cnbc.com-50x50.jpg"
+    - url: "/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -24,9 +24,9 @@ topics:
   - Computer Vision
 
 images:
-  - url: "https://image.cnbcfm.com/api/v1/image/100978289-135627372r.jpg?v=1582293185"
-    width: 2000
-    height: 1325
+  - url: "https://i.insider.com/5e4fce5efee23d1e136e7862?width=750&format=jpeg&auto=webp"
+    width: 750
+    height: 500
     title: "Moscow deploys facial recognition technology for coronavirus quarantine"
 
 related:
@@ -152,6 +152,6 @@ related:
       domain: theglobeandmail.com
     quality: 8
 
-secured: "LfL7dwUArpv7q7wcnLlP0a1Pr7vzY0hSKhn/ihJHeIBp8uprfVG74rhM3Atrq0yWSIVSkKD1OO/zfkjOrVJyQb9E4EtEJTdhfnh9FujqQ7yyeDM/fHiU/BOBx0ecpdrVE5Gm0qgFc31cfE9EytZoJw4pW8x/3D701yIUCnJn7CRrOt0yyTa/xjwlbeWCqX/dLVfAekMJrZ+tlVHFi1DFbNv1G1jQYLkLYUqyFGEwSJA+SSQIAkWERWFUsGnIpTyZeyfwScgJHBC5lW2YQ6qICTAsrtbFbqIvfHn7VbxJUetBpcL56ZZIcTLnadKhI9Pj84enZImsy0CKxa3m0As2SeIGIIpp+QmvA2uXiGJqKVLOfpvYD+RVjhLQn5AwVuaMMh5MS2B0x9Ot1ewXQmqLj0dOLIXmYsfHlRwecxGfcdkHqGvx5/keFQFGtFKkuaHb+BNY6WzB9wO1dmWGLaSC7dXN6bSzZHGXmTkrbqjxlU0=;OmL9FFuvUW0NKOx9WS2Wxw=="
+secured: "i0mburQr3QJkxSLcyLky4BX4fuBwNXod2pAZjq3BGXdyVtXOaPKli9GvK15xqzMSJ66wYyVmk+vmGqopm7NARGCPzTH9W8go2k6Xi9WzgfQpXyQc+Er4VvlSaypUp8tUjLVR8ZWfVcD6V5RU1KQ0TQEBnRe2A5sTkOLF0/oK/hoVLNPJAJGVLpLyTAAYbnmuJmOBR99tyb9to9NC70XBTckO4coegITkwYlzSobBAPsREsOST1LGyq8/dsfiG647+1D1oSMAbYMtzz+GU1jk3C+bb71Ty9ebtXTW2m8nMMaaTdiXj2x5Vt+kHGf5P9nw;QSHAv+viyRGWb1Mpk3T1+Q=="
 ---
 

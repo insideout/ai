@@ -26,21 +26,6 @@ images:
     title: "CA Startup Gets Approval to Deploy Thousands of Self-Driving Delivery Vehicles With No Steering Wheel"
 
 related:
-  - title: "Self-driving delivery van ditches 'human controls'"
-    excerpt: "The first self-driving vehicle designed without basic human controls such as steering wheels, pedals or side view mirrors has been granted permission to test on US roads. Nuro, the company behind the design, makes autonomous delivery vans. The vehicle is Nuro's second generation of its vehicles, which it is calling R2 and will be tested in ..."
-    publishedDateTime: 2020-02-06T23:45:00Z
-    webUrl: "https://www.bbc.com/news/technology-51409031"
-    ampWebUrl: "https://www.bbc.com/news/amp/technology-51409031"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51409031"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 74
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/13970/production/_110804208_screen-shot-2020-02-06-at-2_32_43-pm.png"
-        width: 1024
-        height: 576
   - title: "Self-Driving Delivery Vehicle Receives OK for U.S. Streets"
     excerpt: "They’ll arrive in Houston, Texas, soon. (TNS) — A self-driving delivery vehicle with no driver's seat, steering wheel or brake pedal has become the first to be cleared by the federal government to operate without the presence of a human. Nuro Inc., a robotics company based in Mountain View, Calif., has been given permission to put up to ..."
     publishedDateTime: 2020-02-07T22:04:00Z
@@ -56,49 +41,6 @@ related:
       - url: "https://media2.govtech.com/images/shutterstock_156230078.jpg"
         width: 950
         height: 629
-  - title: "Self-driving car company Nuro wins federal safety approval for grocery delivery robot"
-    excerpt: "WASHINGTON — Delivery robot company Nuro won the first federal safety approval for a purpose-built self-driving vehicle, advancing the young company's plans to cart groceries around neighborhoods and marking a milestone for the autonomous vehicle industry. The approval indicates that federal regulators at the Department of Transportation ..."
-    publishedDateTime: 2020-02-09T10:11:00Z
-    webUrl: "https://www.swtimes.com/entertainmentlife/20200209/self-driving-car-company-nuro-wins-federal-safety-approval-for-grocery-delivery-robot"
-    ampWebUrl: "https://www.swtimes.com/entertainmentlife/20200209/self-driving-car-company-nuro-wins-federal-safety-approval-for-grocery-delivery-robot?template=ampart"
-    cdnAmpWebUrl: "https://www-swtimes-com.cdn.ampproject.org/c/s/www.swtimes.com/entertainmentlife/20200209/self-driving-car-company-nuro-wins-federal-safety-approval-for-grocery-delivery-robot?template=ampart"
-    type: article
-    provider:
-      name: Southwest Times Record
-      domain: swtimes.com
-    quality: 37
-    images:
-      - url: "https://www.swtimes.com/apps/pbcsi.dll/bilde?Site=AR&Date=20200209&Category=ENTERTAINMENTLIFE&ArtNo=200209775&Ref=AR"
-        width: 6720
-        height: 4480
-  - title: "Federal government approves California company’s self-driving vehicle with no wheel or pedals"
-    excerpt: "MOUNTAIN VIEW, Calif. — The federal government has cleared the way for a Silicon Valley startup to deploy thousands of its self-driving delivery vehicles on US streets. The R2 has no steering wheel, pedals or side mirrors as it’s designed to be unmanned and carry cargo. Large compartments on its side open up to reveal deliveries ..."
-    publishedDateTime: 2020-02-08T04:16:00Z
-    webUrl: "https://fox4kc.com/2020/02/07/federal-government-approves-california-companys-self-driving-vehicle-with-no-wheel-or-pedals/"
-    ampWebUrl: "https://fox4kc.com/2020/02/07/federal-government-approves-california-companys-self-driving-vehicle-with-no-wheel-or-pedals/amp/"
-    cdnAmpWebUrl: "https://fox4kc-com.cdn.ampproject.org/c/s/fox4kc.com/2020/02/07/federal-government-approves-california-companys-self-driving-vehicle-with-no-wheel-or-pedals/amp/"
-    type: article
-    provider:
-      name: FOX4 Kansas City
-      domain: fox4kc.com
-    quality: 33
-    images:
-      - url: "https://placehold.it/300X250"
-        width: 300
-        height: 250
-  - title: "Silicon Valley startup Nuro becomes first company to receive self-driving vehicle exemption from U.S. Department of Transportation"
-    excerpt: "That car is designed to carry packages, not people, and can take loads of up to 400 pounds while maxing out at 25 mph. The major difference from other self-driving vehicles is the fact it’s not designed to have any humans as passengers or drivers. Nuro calls it a “zero-occupant vehicle” rather that a driver-less car. The cars can be ..."
-    publishedDateTime: 2020-02-07T03:43:00Z
-    webUrl: "https://siliconangle.com/2020/02/06/silicon-valley-startup-nuro-becomes-gets-self-driving-vehicle-exemption-u-s-department-transportation/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 0
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/02/nuro.jpeg"
-        width: 4000
-        height: 2666
 
 secured: "DzV2QusQjiq5fKFddOshoT9EGE16r0jd7YhQmyU0p9kqF5QuyAtW8WgT4ga0wywH6/KDto13rXXg9ixLfeJBUFN8qD4z981J48AqOlFkvkar2dhrA69VZbm5K0wR6RjpHoV2pzGcHXeilkAlmxo8gHcriaKtxks55mv/7GlTENsfvtM5EbdB5VD5OxLbTGC6WtfN1nfVubvzzmmSVwmpu8yNuIK3E4FpFpNDPODzNN4mVQu0X/DX8WDNQ7Xu1weNU6fWET6GsIGatLkIT555lXg6FgNKDLJpZMVIcEioNYRo7ahwcotKzTpigkgZW0WRRUHoadmhxSxT662uAvZ58BJY3BXfUbryOd8fY1UMx0FeduwTkwhW3mvy7TpmtWrRXrSxsv1KxPspNBhRB9Ja26lWfVtBZCKG4f4ZdF1pn34PJsDLhk+hCq+XK3ytRdoUlUP9FWksX8+MmeY43OVXklnfjMjepnBU5wid6flvyng=;ymWwkdgLc//zotVkTzsoKg=="
 ---
