@@ -22,106 +22,164 @@ topics:
   - AI in Finance
 
 related:
-  - title: "AI (ARTIFICIAL INTELLIGENCE) SPEAKER Market Technology Advancement and Latest Study Report 2020"
-    excerpt: "The Global AI (ARTIFICIAL INTELLIGENCE) SPEAKER Market research provides a basic overview of the industry including definitions, classifications, applications and industry chain structure. The market report also calculate the market size,"
-    publishedDateTime: 2020-02-06T06:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-artificial-intelligence-speaker-market-technology-advancement-and-latest-study-report-2020-2020-02-06"
+  - title: "Facial Recognition Market Present Scenario and Growth Analysis till 2026"
+    excerpt: "QY Market Research Store has added the report titled Global Facial Recognition Market to its ever-growing repository to enable an effective business outlook. The report comprises an in-depth study of varying features characteristic of industries,"
+    publishedDateTime: 2020-02-07T08:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-present-scenario-and-growth-analysis-till-2026-2020-02-07"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 70
+    quality: 68
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Artificial Intelligence (AI) in Social Media Market Briefing, Technology Advancement and Future Scope Till 2025"
-    excerpt: "The AI Market in Social Media valued at USD 815.33 million in 2019 and is expected to reach USD 3,714.89 million by 2025, recording a CAGR of 28.77%, during the forecast period of 2020-2025. Social media has become one of the primary sources of customer intelligence data."
-    publishedDateTime: 2020-02-06T09:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-social-media-market-briefing-technology-advancement-and-future-scope-till-2025-2020-02-06"
+  - title: "Natural Language Processing Market: Key and Forecast Predictions Presented Until 2029"
+    excerpt: "The increasing use of Natural Language Processing in healthcare and call centers, rising demand for advanced text analytics are some major factor drives the target market growth. Additionally, growing uses of smart device,"
+    publishedDateTime: 2020-02-14T05:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-key-and-forecast-predictions-presented-until-2029-2020-02-14"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 66
+    quality: 62
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Artificial Intelligence (AI) In Supply Chain And Logistics Market Technology Advancement and Business Outlook 2020"
-    excerpt: "The report titled \"Artificial Intelligence (AI) In Supply Chain And Logistics Market\" has recently added by MarketInsightsReports to get a stronger and effective business outlook. It provides an in-depth analysis of different attributes of industries such as trends,"
-    publishedDateTime: 2020-02-08T04:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-supply-chain-and-logistics-market-technology-advancement-and-business-outlook-2020-2020-02-08"
+  - title: "Natural Language Processing Market: Industry Development Scenario and Forecast to 2029"
+    excerpt: "Global Natural Language Processing Market, revenue was xx.xx Million USD in 2018, and will reach xx.xx Million USD in 2029, with a CAGR of x.x% during 2019-2029. The report published by Prophecy Market Insights covers detailed segmentation as mentioned below - By Type: – Rule-Based – Statistical – Hybrid By Technologies: – Recognition – IVR – OCR – Speech Recognition – Text Processing – Pattern & Image Recognition Download Sample of This Strategic Report: https://www."
+    publishedDateTime: 2020-02-12T10:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-industry-development-scenario-and-forecast-to-2029-2020-02-12"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 66
+    quality: 61
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Artificial Intelligence in Military Market Latest Advancement And New Upcoming Trends To 2029"
-    excerpt: "A recent market research analysis titled, Artificial Intelligence in Military Market offers insightful information to the clients escalating their basic leadership size explores distinct significant facets associated with Artificial Intelligence in Military market covering industry surroundings,"
-    publishedDateTime: 2020-02-10T09:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-military-market-latest-advancement-and-new-upcoming-trends-to-2029-2020-02-10"
+  - title: "Enterprise AI Market Statistics and Growth Prediction 2020 to 2025 | IBM Corporation, Oracle, HP"
+    excerpt: "Artificial Intelligence in recent years has moved on to become a key component for enterprise applications and has posed as an important factor for successful business strategies. With AI, enterprises are now able to achieve far more in quite less time."
+    publishedDateTime: 2020-02-06T08:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/enterprise-ai-market-statistics-and-growth-prediction-2020-to-2025-ibm-corporation-oracle-hp-2020-02-06"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 56
+    quality: 60
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Computer Vision Market 2020 – 2023: Regional Study, Emerging Technologies, Global Segments, Business Trends, Landscape and Demand"
-    excerpt: "Computer Vision Market Overview: The intensifying call for equipping computers with vision similar to humans has generated considerable traction for the computer vision market globally. The concept of computer vision as a scientific stream encompasses the technology and theory for creating artificial systems that acquire information from images or multi-dimensional data."
-    publishedDateTime: 2020-02-06T10:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-2020-2023-regional-study-emerging-technologies-global-segments-business-trends-landscape-and-demand-2020-02-06"
+  - title: "Artificial Intelligence In Construction Market Size is Continues to Grow US$ 2.1 Bn till 2026"
+    excerpt: "The global Artificial Intelligence In Construction Market will increase by a CAGR of approximately 6% during the forecast era and is expected to achieve a market value above US$ 7 Bn in 2026. This Acumen research report examines the 2015-2026 Global Artificial Intelligence In Construction Market."
+    publishedDateTime: 2020-02-12T07:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-construction-market-size-is-continues-to-grow-us-21-bn-till-2026-2020-02-12"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 40
+    quality: 58
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Autonomous Vehicle Market 2020: Global Overview, Latest Technology, Market Size, Share, Demand, Major Players, Key Trends, and Forecast to 2026"
-    excerpt: "Autonomous Vehicle Market by Level of Automation (Level 3, Level 4, and Level 5), Component (Hardware, Software, and Service) and Application (Civil, Robo Taxi, Self-driving Bus, Ride Share, Self-driving Truck,"
-    publishedDateTime: 2020-02-05T03:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/autonomous-vehicle-market-2020-global-overview-latest-technology-market-size-share-demand-major-players-key-trends-and-forecast-to-2026-2020-02-04"
+  - title: "Artificial Intelligence Platform Market 2020 Global Analysis, Opportunities And Forecast To 2025"
+    excerpt: "Artificial Intelligence Platform Industry Description This report studies the Artificial Intelligence Platform market, Artificial intelligence (AI, also machine intelligence, MI) is intelligence displayed by machines,"
+    publishedDateTime: 2020-02-06T07:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-platform-market-2020-global-analysis-opportunities-and-forecast-to-2025-2020-02-06"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 18
+    quality: 54
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Self-Driving Bus Market Advanced Technology and New Innovations by 2026 – AV Volvo, Continental AG, Volkswagen"
-    excerpt: "Market Growth Insight add Self-Driving Bus Industry Report providing Global and Chinese Market Landscape and its Growth Prospects over the coming years till 2026 A self-driving bus is a robotic vehicle designed to travel between destinations without the need of a human operator. It combines sensors and software to control, navigate, and drive ..."
-    publishedDateTime: 2020-02-06T13:49:00Z
-    webUrl: "https://www.reseller.co.nz/mediareleases/38259/self-driving-bus-market-advanced-technology-and/"
+  - title: "3D Facial Recognition Systems Market – Is North America Remain Biggest Opportunity?"
+    excerpt: "Pune, Maharashtra, January 24, 2020 (Wired Release) Prudour Pvt. Ltd: Global News of 3D Facial Recognition Systems Market Study 2020-2029, by Segment (Hardware, Software), Playing a Pivotal Role in Expanding by (Access Control, Attendance Tracking And ..."
+    publishedDateTime: 2020-02-10T20:50:00Z
+    webUrl: "https://apnews.com/Wired Release/e55c43f30b343441bc07f67fa9cdb516"
     type: article
     provider:
-      name: Reseller News
-      domain: reseller.co.nz
+      name: Associated Press
+      domain: apnews.com
+    quality: 48
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+  - title: "Automotive Self-driving Chip Market 2020 Analysis report with Cross-Channel, Opportunities, Upturn Growth by 2026"
+    excerpt: "The report provides rational insights along with historical and forecast data to aid in better understanding of the Global Automotive Self-driving Chip Market. The report provides a comprehensive analysis of key factors that are expected to drive the growth of the Automotive Self-driving Chip market."
+    publishedDateTime: 2020-02-10T09:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-self-driving-chip-market-2020-analysis-report-with-cross-channel-opportunities-upturn-growth-by-2026-2020-02-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Global Robo Taxi Market 2026 Information Procurement and Data Analysis"
+    excerpt: "A Robo-Taxi, also known as a Robo-Cab, is a driverless taxi or a self-driving taxi. Its primary purpose is to eliminate the need for human ... Companies such as Lyft, DiDi, Uber, and Baidu are the major ride-hailing service providers. These players are the major potential customers for Robo -Taxi. Nowadays, most companies are focusing on ..."
+    publishedDateTime: 2020-02-06T12:43:00Z
+    webUrl: "https://www.openpr.com/news/1921960/global-robo-taxi-market-2026-information-procurement-and-data"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 4
+  - title: "Artificial Intelligence as a Service (AIaaS) Market Analysis by Business Methodologies, Financial Overview and Growth Prospects Predicted by 2023"
+    excerpt: "The advancement in the concepts of deep learning, machine learning, and natural language processing is boosting the Artificial Intelligence as a Service market. The growth in the popularity of AI-enabled tools is motivating the expansion of the market. Moreover, the benefits such as transparency in business operations and minimal cost of ..."
+    publishedDateTime: 2020-02-06T11:35:00Z
+    webUrl: "https://www.openpr.com/news/1921721/artificial-intelligence-as-a-service-aiaas-market-analysis"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
     quality: 0
-  - title: "24.7% Growth Rate for Social and Emotional Learning (SEL) Market by 2024 | Latest Innovation, Advance Technology, Top Companies - ReportsnReports"
-    excerpt: "Browse 130 Market Data Tables and 87 Figures spread through 199 Pages and in-depth TOC on \"Social and Emotional Learning (SEL) Market Research Report\" https://www.reportsnreports.com/reports/2891963-social-and-emotional-learning-sel-market-by-component-solutions-sel-platform-and-sel-assessment-tool-services-type-web-and-application-end-user-pre ..."
-    publishedDateTime: 2020-02-07T13:12:00Z
-    webUrl: "https://www.finanzen.net/nachricht/aktien/24-7-growth-rate-for-social-and-emotional-learning-sel-market-by-2024-latest-innovation-advance-technology-top-companies-reportsnreports-8485879"
+  - title: "Artificial Neural Network Market- Global Analysis, Latest Trends, Industry Growth, Technology Innovation and Regional Forecast"
+    excerpt: "The artificial neural network market globally has been segmented into component, type, and application. By type, the market has been segmented into feedforward artificial neural network, feedback artificial neural network, and others. The market segmentation by component has been segmented into services, software, and platform. By application ..."
+    publishedDateTime: 2020-02-06T12:30:00Z
+    webUrl: "https://www.openpr.com/news/1921905/artificial-neural-network-market-global-analysis-latest"
     type: article
     provider:
-      name: Finanzen
-      domain: finanzen.net
+      name: openpr.com
+      domain: openpr.com
     quality: 0
-    images:
-      - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
-        width: 600
-        height: 315
+  - title: "Global In Flight Voice Recognition Market, 2014-2019 & 2020-2024 - Analysis by Technology, Aircraft Type, Application and Region"
+    excerpt: "Dublin, Feb. 06, 2020 (GLOBE NEWSWIRE) -- The \"Global In Flight Voice Recognition Market, By Technology, By Aircraft Type, By Application (Commercial Aviation, Military Aviation), By Region, Competition,"
+    publishedDateTime: 2020-02-06T12:19:00Z
+    webUrl: "https://www.globenewswire.com/news-release/2020/02/06/1980975/0/en/Global-In-Flight-Voice-Recognition-Market-2014-2019-2020-2024-Analysis-by-Technology-Aircraft-Type-Application-and-Region.html"
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 0
+  - title: "Voice Recognition for Automotive Market Trends, Opportunities, Key Players, Growth, Analysis, Outlook & Forecasts To 2025"
+    excerpt: "The market study on the global Voice Recognition for Automotive Market will include the entire ecosystem of the industry, covering five major regions namely North America, Europe, Asia Pacific, Latin America and Middle East & Africa, and the major countries falling under those regions. The study will feature estimates in terms of sales revenue ..."
+    publishedDateTime: 2020-02-07T11:00:00Z
+    webUrl: "https://www.openpr.com/news/1923215/voice-recognition-for-automotive-market-trends"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
+  - title: "TOP Companies Operating in the Global Speech and Voice Recognition Market| Future Growth Outlook"
+    excerpt: "The global speech and voice recognition market is expected to grow at a CAGR of 17.2% from 2019 to reach $26.79 billion by 2025, Says \"Meticulous Research, where Asia Pacific speech and voice recognition market is expected to grow at the highest CAGR. Voice and speech recognition technologies authorize contactless control to several devices and ..."
+    publishedDateTime: 2020-02-11T11:51:00Z
+    webUrl: "https://www.openpr.com/news/1927505/top-companies-operating-in-the-global-speech-and-voice"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
 
 secured: "A0i0NbeNBD5lLbifCYAyYvKXcla/1AKGbyKlWqNmtrIdtYkrmqrwtmLQsTg2pLCEjAfPBoUm+Ru6OCgMww/MFqjVtzZHqX3r6oQoiQgCsUAGCYxeA96OjkGMDKYlLGVdO8c6Tar7cFgjgDMWVhblZHhJcfGbXLH4K1maCcjzO4Qts38tx1HuyQVZSN3hoYlFs4O60E3Gg53jaw/6kODZ4MBrLHYuZ/rUBSdIwow8v0OhJrJCURhmBvtE19bkn/VMiNEuEDXiVy53Jc48FIClYHRGB7iZ1WxNVdjXTZX6ZpxKRqm0XrsTDK5Syhz1K22a;aP+D7PDmaBUdetu12IRAlA=="
 ---

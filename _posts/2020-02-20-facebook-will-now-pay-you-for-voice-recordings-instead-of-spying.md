@@ -41,7 +41,18 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/9GjJYqY3aHq7Y6WKo61JQUsI72o=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66345179/acastro_180522_facebook_0001.0.jpg"
         width: 1400
         height: 933
+  - title: "Facebook will pay users $5 for their voice memo to improve speech detection"
+    excerpt: "Facebook announced Thursday it plans to pay some users up to $5 for voice memos in an effort to better develop its speech recognition technology. The social media platform will slowly begin rolling out its “Pronunciations” program as part of its market research app Viewpoints, which it launched last November. The program announced today ..."
+    publishedDateTime: 2020-02-20T22:56:00Z
+    webUrl: "https://www.digitaltrends.com/news/facebook-wants-to-pay-users-5-for-their-voice-memo-to-improve-speech-detection/"
+    ampWebUrl: "https://www.digitaltrends.com/news/facebook-wants-to-pay-users-5-for-their-voice-memo-to-improve-speech-detection/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/facebook-wants-to-pay-users-5-for-their-voice-memo-to-improve-speech-detection/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 52
 
-secured: "3J9Y3rvIXxMGF84pLYTjhegIPvKKIWm4ls9zLCSsk1FQON8M8ambP1xacJ4hzLgPJ4GJWT0hQeT4tiCy7s0DEsZUBKhSnjX0sSaL5/jMLcdashjTCt+M4X97/ij71lorK1NGP7SpB3Jfgkx4qgNJRa/dWvPrfK00On4d4Hl/IkOwyJE/ldgTFbKy3fbN3+MiSxKEn7cXEGubCYwXQzH6+ZYYMo30XlODurl2YH+XN8EivKzHoQ8/q07z7OJy7ZoXJzsKZbBy4U894Cw66H0EoiQlmi9m9qVJtYcyUDN69mD/Lyd0CknfFX6uRsH89uEZ;BvEHVSV+8WkCyQNAwSCK5g=="
+secured: "UZVZuxCIhUtNoH0PtEab1WXZCiUjo3nvQ+W8XuWKe4LZpGt3LIw0HSs59fwtc4Pw/KXrMlXa+/OHNPdADNjHC5Cb0yp0vHEwCyIsZmrnVhnH3pUnP9dHSofOo8jNZ7/oc/0Xjs4zonZ2b+uSNP0i3I9YUxLyouX7ftxg/t5fFav4PDOFlgYWNUBH0/5Iq1XNv/JWuVq24PrLUrCHCsw2Hkh7KoDfhQBnRvWPZUuXSc54zRGtrBXKMRHnprGsc19uKVPGcWj+NKmsmwG1DUGKH+bBvEI71nLsiYamSOnrm84PYo+Q634HAj7I30Je8JD2bFfX+p6nngy96UBaiwThRyPoNg6OMswQ6a5RD8A3qurzYJtqQWAFHS3lX/l7aLUAHxmrLWI9JWX7Axo7LM8aB648gLpZ66FNHQvwfRJOqv9LXsBqTik4bgvIcRO4G0GJmIW7WCK6waFeD75sGZnT7D+wdWnWF2Xy2L4Ft78l/Gg=;pCRKkiD4y4w6YTGJ1rjRQw=="
 ---
 

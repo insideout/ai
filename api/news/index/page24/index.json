@@ -2,44 +2,6 @@
   "page": 24,
   "value": [
     {
-      "path": "_posts/_archive/2020-02-03-intel-dumps-its-nervana-neural-network-processors-for-habanas-ai-chips.md",
-      "title": "Intel dumps its Nervana neural network processors for Habana’s AI chips",
-      "excerpt": "... told him it had decided to end its work on both the Nervana NNP-T training chips and the Nervana NNP-I inference chips, though it said it will still deliver on customer commitments for the latter. Habana has developed two AI chips of its own, namely the Habana Gaudi and the Habana Goya (pictured). The former is a highly specialized neural ...",
-      "heat": 131,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://siliconangle.com/2020/02/02/intel-dumps-nervana-neural-network-processors-habanas-ai-chips/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-02T17:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/02/1-800x533.jpg",
-          "width": 800,
-          "height": 533,
-          "title": "Intel dumps its Nervana neural network processors for Habana’s AI chips",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-02-03-intel-stopping-nervana-development-to-focus-on-habana-ai-chips.md",
       "title": "Intel Stopping Nervana Development to Focus on Habana AI Chips",
       "excerpt": "Just two months after acquiring Israeli AI chip start-up Habana Labs for $2 billion, Intel is stopping development of its existing Nervana neural network processor line. Instead, Intel will focus on technology from Habana whose inference (Goya) chip and training chip (Gaudi) are in the market and have gained traction. Intel had purchased ...",
@@ -2131,6 +2093,51 @@
       "topics": [
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-02-05-ceo-of-creepy-face-recognition-firm-clearview-ai-says-he-has-first-amendment-right-to-billions-of-photos.md",
+      "title": "CEO of Creepy Face Recognition Firm Clearview AI Says He Has First Amendment Right to Billions of Photos",
+      "excerpt": "Clearview AI has licensed its face surveillance systems to over 600 law enforcement agencies ranging from the FBI and the Department of Homeland Security to local police departments. It operates with virtually next to no oversight, claims it’s exempt from biometric data laws, and marketed its tools to law enforcement as a sort of face ...",
+      "heat": 117,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://gizmodo.com/ceo-of-creepy-face-recognition-firm-clearview-ai-says-h-1841461190",
+      "ampWebUrl": "https://gizmodo.com/ceo-of-creepy-face-recognition-firm-clearview-ai-says-h-1841461190/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/ceo-of-creepy-face-recognition-firm-clearview-ai-says-h-1841461190/amp",
+      "publishedDateTime": "2020-02-04T20:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/s--51OlzhBf--/c_scale,f_auto,fl_progressive,q_80,w_800/v7g6u3pj00bddvrigfbb.png",
+          "width": 800,
+          "height": 450,
+          "title": "CEO of Creepy Face Recognition Firm Clearview AI Says He Has First Amendment Right to Billions of Photos",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
       ]
     }
   ],

@@ -8,7 +8,7 @@ ampWebUrl: "https://medicalxpress.com/news/2020-01-ai-jump-start-therapy-cancer-
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-01-ai-jump-start-therapy-cancer-patients.amp"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,21 @@ topics:
   - AI in Healthcare
 
 related:
+  - title: "AI can help cancer patients start radiation therapy sooner"
+    excerpt: "Artificial intelligence can help cancer patients start their radiation therapy sooner - and thereby decrease the odds of the cancer spreading - by instantly translating complex clinical data into ..."
+    publishedDateTime: 2020-01-27T00:00:00Z
+    webUrl: "https://www.news-medical.net/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 74
+    images:
+      - url: "https://www.news-medical.net/image.axd?picture=2014%2f7%2fRadiation_Therapy-620x480.jpg"
+        width: 620
+        height: 480
   - title: "AI could kickstart early radiation therapy for cancer patients"
     excerpt: "Artificial intelligence (AI) could one day be used to help cancer patients start their radiation therapy sooner, thereby decreasing the odds of the cancer spreading, by instantly translating complex clinical data into an optimal plan of attack. Typically ..."
     publishedDateTime: 2020-01-28T13:01:00Z
@@ -34,6 +49,6 @@ related:
         width: 1200
         height: 450
 
-secured: "kOEZirrxfw5Z1BQN0BFupiHZ/Jcci8+L0Id75HAphkO6dBG05D1Vv1A+hccq/OtJU23EgfCJ1YvhTaGLA5Yqeys05zrpD78kmUBwNMp4yNp2KHk65adlVucn1ANlodbevbhW+n0LBHmAk+uGdPj+HCyC0otZy/WOgY6i07f6YT5V1XzcSIU5Sr+dFN0rBuodQI2WofPdnLu7kUrleRXkvhH1JowmTTzZkMjDl5vuq/aoGwE08mrEhC/ohutXIyC+TrqiEj3HgVBUSEz8+XdrsOvQopj8f0NIv/sTFlYM0tJGhfE6CWduoKWp4mtWCj97;C4EiG0pgn2d3+mmwG3+AAQ=="
+secured: "ZmQI7UR6pDFb+N9rH8E1a3lt6tTa2EXHOLvCSunD67+xN5MixWRqDkSbng9MKxbw8s/QMXNECJXhfieJ7td9IwUCD7IuQr08MorsD/i1W0kvyo3RVknfWvgRK8RUJF/9dWo3mv7iYRu3QZv1v84FVatJDqz364xZ0LZjrB14BgUmHyNF2Usz0WrRSyDGpllvultlx6xNoWfKW+Wa2SSP4dk4kyM1FE426DerkCoTfoYt+mqqCuKpUznSVwF4pYDVggl2PebIGh5GbS2DIFqCrxLKGTZ96Hz80GvMb+itmorH30do2pbGsXAO7gxnei4s;Ss62bM0UVklvC+vt1IcYXw=="
 ---
 

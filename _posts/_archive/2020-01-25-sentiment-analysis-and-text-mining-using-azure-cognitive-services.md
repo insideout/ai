@@ -40,6 +40,6 @@ related:
       domain: business2community.com
     quality: 36
 
-secured: "vET49bkUIwkvXpEnnzpKJqppRZJ6k3+RC/eDZTqkJhEUdV/C/JplnGAjvY1Zh0uAST9w0cu2Cr838xmWXBMdEQUThZ4FHqER5eWKP37WHbOg7uMq3JnpSkHHUX7Yt8fcOwd9+HKLeVc3Num6Nk88KqqIYleX/xOag9SSb7Sfqgt/Yp0cu+YpKNkk08oy+Z/Q53D3DnCkOQDPH6emrJsj1QmIVl2cQCv1fK66/crP2KBLxccxIFeNubhHxhzJCYfwtkEy5+jsDDTXzubvCm7eIlXROJnR4T8bNT7RXmcvmI9ccRhW6fD/K/CVQwd3gSXj;DITN+ANCGm0jOd9sUnZscA=="
+secured: "oh8ulVnHMvIEp5zxVvo7nQ+JSgKzyIR78qsEbzEay3dhLVP5x49cvaNQbez/RboDTXuRMQpyXhYqQHrPYZBi6LbmCnQhPDqdAfbmg9nrGKNq/pSLkUCu+hr/tpw3oMm6HeKHBRpEm0Ao93cp6xC0V/B+lMPnej9oQ1MFA76J5nP+5iKEn1xXb8dAtEZ5VuKJXnunodhFvoLSDhSEATi/AC8Ss4Amq0MYV+iuYeXpto+gK1QwOTVZFNXxdOUpe3IUPkLb2ZYVoDn3LjtTPWJOuzHFL3MZs5QX++qIMO1KW62FHBPLzL6gbPFCIPbaNF5J;e+YP5k+BD+Vp5Lh8u5IW9Q=="
 ---
 

@@ -25,6 +25,6 @@ images:
     height: 630
     title: "SkyWay: UAE's driverless pods, cable car project takes shape"
 
-secured: "TCIoCHZBO80DDt/LkXdKUoZV2hXJaZmRwgPqFjuz1TCM5uvO/C6BKDrdY6GGtFB+uXVkB97m6zi2QFSxkZz1TKo5qo+Mfp2Jx1+BObQhk71v+33mCoAXzSkvBhEy/yXTFyrujOZuLIvyjhXNTBhjEyFsO+qto3cDr2Bsz7oKM61xY0L1UArBaSfSec4NFeY7C5Yv9m92UTI4iYGybF8ZLcMTRzPovdV1GEIcRnqh5Hq+7SJjjSqa2Z0h0FOAIVzCQmU8gHxS+pzbzbfW7zTYhvNaY2j6n4oPasH1HO8tvDXZHaNrRRAJtJnaQ/xf9r0M;BDkfYBkcNG2M4YU7bla/Gg=="
+secured: "0yFjToBz5S8rs+zYHktlpBbV1gRhBcKRA+O1OApQ/na4/kpwf/09N4pksVuzytpzNXw3JzoigT+4zr0UMimPBbTOTxNMQz29A9wgOOZRoZ4CgocN5zsErPHRlMx09k99NlAkRZTR5ZQ8r48VdMc2R/e2FzpMnn+G1ujP04cpFWaCKBRFrmfK+q2vLUYP/gfDTKLbV+SnfsPxtf4w55oBuDrrUexViQ/FRK7lPe9VMBfuWeN5zyRcwQRVHGipEM8zG9pvbCLYPByFZNPZ7sAKtRhwNIeP9VtFiyyRB7ZGiJSZQImaZwPlhznJCfRQFTlX;juWj2Fpa0W0wOezCW/hbPQ=="
 ---
 

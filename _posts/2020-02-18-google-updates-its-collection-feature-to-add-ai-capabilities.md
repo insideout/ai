@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/ilkerkoksal/2020/02/18/google-updates-i
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2020/02/18/google-updates-its-collection-feature-to-add-ai-capabilities/amp/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

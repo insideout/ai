@@ -8,7 +8,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/2/20/21145584/facebook-pa
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/20/21145584/facebook-pay-record-voice-speech-recognition-viewpoints-proununciations-app"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -30,6 +30,17 @@ images:
     title: "Facebook will now pay you for your voice recordings"
 
 related:
+  - title: "Facebook will pay users $5 for their voice memo to improve speech detection"
+    excerpt: "Facebook announced Thursday it plans to pay some users up to $5 for voice memos in an effort to better develop its speech recognition technology. The social media platform will slowly begin rolling out its “Pronunciations” program as part of its market research app Viewpoints, which it launched last November. The program announced today ..."
+    publishedDateTime: 2020-02-20T22:56:00Z
+    webUrl: "https://www.digitaltrends.com/news/facebook-wants-to-pay-users-5-for-their-voice-memo-to-improve-speech-detection/"
+    ampWebUrl: "https://www.digitaltrends.com/news/facebook-wants-to-pay-users-5-for-their-voice-memo-to-improve-speech-detection/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/facebook-wants-to-pay-users-5-for-their-voice-memo-to-improve-speech-detection/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 52
   - title: "Facebook Will Now Pay You for Voice Recordings (Instead of Spying)"
     excerpt: "Facebook will now offer to pay some of its users for providing voice recordings that the social media giant will use to improve its speech recognition systems. The company announced the new initiative, dubbed Pronunciations, on Thursday. And, while Facebook didn’t mention it, the program seems like a way forward after Facebook was caught ..."
     publishedDateTime: 2020-02-20T21:55:00Z

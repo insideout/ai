@@ -105,21 +105,6 @@ related:
       - url: "https://i.insider.com/5e3bff71d9db1d368665e4b5?width=1200&format=jpeg"
         width: 1200
         height: 600
-  - title: "Facebook Has Sent Facial Recognition Startup 'Clearview AI' Cease And Desist Letters"
-    excerpt: "Facial recognition software startup Clearview AI has been under fire over revelations it's been training its machine learning algorithm on billions of publicly available photos, including public personal images scraped from social media without permission. Now Facebook has become the latest tech giant to tell the controversial company to quit it."
-    publishedDateTime: 2020-02-06T06:21:00Z
-    webUrl: "https://in.mashable.com/tech/11154/facebook-has-sent-facial-recognition-startup-clearview-ai-cease-and-desist-letters"
-    ampWebUrl: "https://in.mashable.com/tech/11154/facebook-has-sent-facial-recognition-startup-clearview-ai-cease-and-desist-letters?amp=1"
-    cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/11154/facebook-has-sent-facial-recognition-startup-clearview-ai-cease-and-desist-letters?amp=1"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 80
-    images:
-      - url: "https://sm.mashable.com/t/mashable_in/news/f/facebook-s/facebook-sends-cease-and-desist-to-facial-recognition-startu_aamw.620.jpg"
-        width: 620
-        height: 441
   - title: "Facial recognition moves into a new front: schools"
     excerpt: "LOCKPORT, N.Y. — Jim Shultz tried everything he could think of to stop facial recognition technology from entering the public schools in Lockport, a small city 20 miles east of Niagara Falls. He posted about the issue in a Facebook group called Lockportians. He wrote an Op-Ed in The New York Times. He filed a petition with the superintendent ..."
     publishedDateTime: 2020-02-06T13:00:00Z

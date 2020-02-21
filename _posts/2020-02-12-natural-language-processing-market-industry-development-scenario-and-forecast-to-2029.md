@@ -106,6 +106,15 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+  - title: "AI in Fintech Market Technological Innovation, Current and Future Huge Demand, Scope 2020-2026"
+    excerpt: "QY Market Research Store has added the report titled Global AI in Fintech Market to its ever-growing repository to enable an effective business outlook. The report comprises an in-depth study of varying features characteristic of industries,"
+    publishedDateTime: 2020-02-07T09:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-technological-innovation-current-and-future-huge-demand-scope-2020-2026-2020-02-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
   - title: "Automotive Self-driving Chip Market 2020 Analysis report with Cross-Channel, Opportunities, Upturn Growth by 2026"
     excerpt: "The report provides rational insights along with historical and forecast data to aid in better understanding of the Global Automotive Self-driving Chip Market. The report provides a comprehensive analysis of key factors that are expected to drive the growth of the Automotive Self-driving Chip market."
     publishedDateTime: 2020-02-10T09:19:00Z

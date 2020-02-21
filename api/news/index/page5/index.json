@@ -1571,7 +1571,7 @@
       "path": "_posts/2020-02-16-eu-fights-for-purpose-in-grand-plan-for-tech-ai-rules.md",
       "title": "EU Fights For ‘Purpose’ in Grand Plan for Tech, AI Rules",
       "excerpt": "China might have data and the U.S. might have money, but Europe has purpose. That’s the message European Union tech czar Margrethe Vestager aims to convey on Wednesday when she unveils plans to help the bloc compete with the U.",
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.bloomberg.com/news/articles/2020-02-16/eu-to-launch-grand-plan-on-ai-tech-in-challenge-to-u-s-china",
@@ -1879,50 +1879,6 @@
       ]
     },
     {
-      "path": "_posts/2020-02-17-artificial-intelligence-ai-in-food-and-beverages-market-rising-trends-technology-and-demand-2020-2025.md",
-      "title": "Artificial Intelligence (AI) In Food and Beverages Market Rising Trends, Technology and Demand 2020-2025",
-      "excerpt": "Artificial Intelligence (AI) In Food & Beverages market has been thoroughly scrutinized and then carefully demarcated by geographic locations which are based on major economic regions and their topographical regions.",
-      "heat": 75,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-food-and-beverages-market-rising-trends-technology-and-demand-2020-2025-2020-02-17",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-17T02:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence (AI) In Food and Beverages Market Rising Trends, Technology and Demand 2020-2025",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-17-artificial-intelligence-program-aims-to-help-doctors-more-accurately-diagnose-breast-cancer.md",
       "title": "Artificial intelligence program aims to help doctors more accurately diagnose breast cancer",
       "excerpt": "A team at Google has developed an artificial intelligence program aimed at helping doctors accurately detect cancer in mammograms. Thousands of women receive a false negative on their breast cancer tests each year, while one in 10 receive a false positive. Shravya Shetty, who heads the Google team developing the system, told CBS News' Jamie ...",
@@ -2074,6 +2030,51 @@
       "topics": [
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-17-bridging-the-gender-gap-in-ai.md",
+      "title": "Bridging The Gender Gap In AI",
+      "excerpt": "The first step to bridge the gender gap in AI is awareness. By understanding the nature and significance of the gender bias, we can take meaningfully steps to bridge the divide.",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/falonfatemi/2020/02/17/bridging-the-gender-gap-in-ai/",
+      "ampWebUrl": "https://www.forbes.com/sites/falonfatemi/2020/02/17/bridging-the-gender-gap-in-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/falonfatemi/2020/02/17/bridging-the-gender-gap-in-ai/amp/",
+      "publishedDateTime": "2020-02-17T07:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e4a973bf133f40006290dbd%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": "Bridging The Gender Gap In AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
       ]
     }
   ],

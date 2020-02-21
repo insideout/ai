@@ -6,8 +6,8 @@ publishedDateTime: 2020-02-06T09:09:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-social-media-market-briefing-technology-advancement-and-future-scope-till-2025-2020-02-06"
 type: article
 quality: 66
-heat: -1
-published: false
+heat: 106
+published: true
 
 provider:
   name: MarketWatch
@@ -29,19 +29,6 @@ images:
     title: "Artificial Intelligence (AI) in Social Media Market Briefing, Technology Advancement and Future Scope Till 2025"
 
 related:
-  - title: "AI (ARTIFICIAL INTELLIGENCE) SPEAKER Market Technology Advancement and Latest Study Report 2020"
-    excerpt: "The Global AI (ARTIFICIAL INTELLIGENCE) SPEAKER Market research provides a basic overview of the industry including definitions, classifications, applications and industry chain structure. The market report also calculate the market size,"
-    publishedDateTime: 2020-02-06T06:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-artificial-intelligence-speaker-market-technology-advancement-and-latest-study-report-2020-2020-02-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 70
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "Artificial Intelligence (AI) In Supply Chain And Logistics Market Technology Advancement and Business Outlook 2020"
     excerpt: "The report titled \"Artificial Intelligence (AI) In Supply Chain And Logistics Market\" has recently added by MarketInsightsReports to get a stronger and effective business outlook. It provides an in-depth analysis of different attributes of industries such as trends,"
     publishedDateTime: 2020-02-08T04:54:00Z
@@ -68,63 +55,28 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Computer Vision Market 2020 – 2023: Regional Study, Emerging Technologies, Global Segments, Business Trends, Landscape and Demand"
-    excerpt: "Computer Vision Market Overview: The intensifying call for equipping computers with vision similar to humans has generated considerable traction for the computer vision market globally. The concept of computer vision as a scientific stream encompasses the technology and theory for creating artificial systems that acquire information from images or multi-dimensional data."
-    publishedDateTime: 2020-02-06T10:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-2020-2023-regional-study-emerging-technologies-global-segments-business-trends-landscape-and-demand-2020-02-06"
+  - title: "Global Artificial Intelligence (AI) in Social Media Market 2019-2023 | Growing Demand for Smart Homes to Boost Growth | Technavio"
+    excerpt: "LONDON--(BUSINESS WIRE)--The artificial intelligence (AI) in social media market size is poised to grow by USD 1.67 billion during the period 2019-2023, according to the latest market research report by Technavio. Request a free sample report The process of deploying and maintaining reliable data interfaces is difficult, owing to the complexity ..."
+    publishedDateTime: 2020-02-07T01:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200206005722/en/Global-Artificial-Intelligence-AI-Social-Media-Market"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
+      name: Business Wire
+      domain: businesswire.com
+    quality: 25
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://mms.businesswire.com/media/20200206005722/en/771844/23/Global_Artificial_Intelligence_%28AI%29_in_Social_Media_Market_2019-2023.jpg"
         width: 1200
-        height: 630
-  - title: "AI in Fintech Market Technological Innovation, Current and Future Huge Demand, Scope 2020-2026"
-    excerpt: "QY Market Research Store has added the report titled Global AI in Fintech Market to its ever-growing repository to enable an effective business outlook. The report comprises an in-depth study of varying features characteristic of industries,"
-    publishedDateTime: 2020-02-07T09:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-technological-innovation-current-and-future-huge-demand-scope-2020-2026-2020-02-07"
+        height: 627
+  - title: "Artificial Intelligence in Accounting Market Worldwide Industry Share, Size, Gross Margin, Trend, Future Demand and Forecast till 2024"
+    excerpt: "Get Free Sample Research Report of Artificial Intelligence in Accounting Market spread across 146 pages, profiling 23 companies and supported with 51 tables and 40 figures is now available at https://www.reportsnreports.com/contacts/requestsample.aspx?name=2443587. Key Players- Microsoft (US), AWS (US), Xero (New Zealand), Intuit (US), Sage ..."
+    publishedDateTime: 2020-02-11T02:47:00Z
+    webUrl: "https://www.openpr.com/news/1926330/artificial-intelligence-in-accounting-market-worldwide"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
-  - title: "Autonomous Vehicle Market 2020: Global Overview, Latest Technology, Market Size, Share, Demand, Major Players, Key Trends, and Forecast to 2026"
-    excerpt: "Autonomous Vehicle Market by Level of Automation (Level 3, Level 4, and Level 5), Component (Hardware, Software, and Service) and Application (Civil, Robo Taxi, Self-driving Bus, Ride Share, Self-driving Truck,"
-    publishedDateTime: 2020-02-05T03:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/autonomous-vehicle-market-2020-global-overview-latest-technology-market-size-share-demand-major-players-key-trends-and-forecast-to-2026-2020-02-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 18
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Self-Driving Bus Market Advanced Technology and New Innovations by 2026 – AV Volvo, Continental AG, Volkswagen"
-    excerpt: "Market Growth Insight add Self-Driving Bus Industry Report providing Global and Chinese Market Landscape and its Growth Prospects over the coming years till 2026 A self-driving bus is a robotic vehicle designed to travel between destinations without the need of a human operator. It combines sensors and software to control, navigate, and drive ..."
-    publishedDateTime: 2020-02-06T13:49:00Z
-    webUrl: "https://www.reseller.co.nz/mediareleases/38259/self-driving-bus-market-advanced-technology-and/"
-    type: article
-    provider:
-      name: Reseller News
-      domain: reseller.co.nz
+      name: openpr.com
+      domain: openpr.com
     quality: 0
-  - title: "24.7% Growth Rate for Social and Emotional Learning (SEL) Market by 2024 | Latest Innovation, Advance Technology, Top Companies - ReportsnReports"
-    excerpt: "Browse 130 Market Data Tables and 87 Figures spread through 199 Pages and in-depth TOC on \"Social and Emotional Learning (SEL) Market Research Report\" https://www.reportsnreports.com/reports/2891963-social-and-emotional-learning-sel-market-by-component-solutions-sel-platform-and-sel-assessment-tool-services-type-web-and-application-end-user-pre ..."
-    publishedDateTime: 2020-02-07T13:12:00Z
-    webUrl: "https://www.finanzen.net/nachricht/aktien/24-7-growth-rate-for-social-and-emotional-learning-sel-market-by-2024-latest-innovation-advance-technology-top-companies-reportsnreports-8485879"
-    type: article
-    provider:
-      name: Finanzen
-      domain: finanzen.net
-    quality: 0
-    images:
-      - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
-        width: 600
-        height: 315
 
 secured: "UcGVxnqK3PXpJzLCjvUeAIFq1wE8SxwL2VRWLDNhzhC1Lu1LioztwlWyxQvbnhNIY30xEmV9J6widO0ljlRGsnmB39WH3QFreYFrnmZnAC6XzbjOt1S+znYptK+oOik99GozGy41u2MGoCqVCJk3IlC3nYni7e3PbgHV8l/OJf+rA9NK7leYDCO0qWQqssH4a2lhuAzb/kFAEMIt60qU38uqTMJSoBrKENiPH6vHk6dmBtf5R1JIgj6roNPCFSz5xzYgPzynMbAQtzYDSDheedjGtW73po0Wc4JZqVTLPZBY4KdIRjJhJRmzj8/26mnk;KPQQhAP+pajk1J30OkOATw=="
 ---

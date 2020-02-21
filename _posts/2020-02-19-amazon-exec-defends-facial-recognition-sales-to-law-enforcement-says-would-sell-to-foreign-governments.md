@@ -474,19 +474,6 @@ related:
       - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
         width: 1120
         height: 629
-  - title: "Facial Recognition app could be a threat to privacy"
-    excerpt: "U.S. — A facial recognition software used by more than 600 law enforcement agencies across the country is proving to be controversial and a threat to privacy. The Clearview app can take a person’s photograph and potentially match it using a database of billions of pictures taken from the internet including social media sites. “Right now ..."
-    publishedDateTime: 2020-02-06T06:49:00Z
-    webUrl: "https://www.actionnewsjax.com/news/local/duval-county/facial-recognition-app-could-be-threat-privacy/JLJMHU55TZDTBI5VD27GWSDKOA/"
-    type: article
-    provider:
-      name: Action News Jax
-      domain: actionnewsjax.com
-    quality: 39
-    images:
-      - url: "https://d1hfln2sfez66z.cloudfront.net/02-06-2020/t_6b8a407e593d4132b60e39783d84274f_name_328EAE6F609D4EC69F4DE76964CD220E.jpg"
-        width: 1280
-        height: 720
   - title: "Facial recognition company CEO speaks out"
     excerpt: "Watch \"CEO of controversial facial recognition company speaks out about privacy concerns\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2020-02-06T17:07:00Z
