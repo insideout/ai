@@ -4,8 +4,10 @@ title: "Automation Is Probably Coming for Your Job Too"
 excerpt: "Waymo, a self-driving-technology company owned by Google's parent corporation ... since up to 70 percent of the work they do could be done by machines. But as artificial intelligence becomes more common and effective, automation will start to supplant receptionists, couriers, market research analysts, proofreaders, cashiers, office clerks ..."
 publishedDateTime: 2020-02-07T13:10:00Z
 webUrl: "https://www.gq.com/story/automation-is-coming"
+ampWebUrl: "https://www.gq.com/story/automation-is-coming/amp"
+cdnAmpWebUrl: "https://www-gq-com.cdn.ampproject.org/c/s/www.gq.com/story/automation-is-coming/amp"
 type: article
-quality: 4
+quality: 44
 heat: -1
 published: false
 
@@ -16,6 +18,12 @@ provider:
 topics:
   - AI
   - AI in Autos
+
+images:
+  - url: "https://media.gq.com/photos/5e3c46fb40e46c00081a19f2/master/pass/GettyImages-1082066722.jpg"
+    width: 6000
+    height: 4000
+    title: "Automation Is Probably Coming for Your Job Too"
 
 related:
   - title: "Is AI Coming for the Job of your Favourite News Reader?"
@@ -34,6 +42,6 @@ related:
         width: 773
         height: 454
 
-secured: "k/8cRMJpXUjylPPU3O7tj/hkHfb+K3LHXflG1mVja6mGPk1wdwqok969S/P58zL3RLNzOc+ZlEnFQSfkjvHiAgaPNbH4egElWkizmI6UlFoHba7VK0O11NpqrIvnxNw9AyysfDTrN4KRpggbK3WGReeQvcGBC34NYt7hhrGvXq0e3ujuOhk0yw/Pl8wmkyD/akxQviuivk84eCWdC7vApzrRezwYB2YV3u9NUyGBMQ692DMbN4eAnWeMjSskMYPEOH2yhVJQiPhRL/GHxNa4wSZbSva87g1rt7QqbLbO1sZEzwsNEhxFGr582DkwU2kBJGnK5af9w0jROM7DYhBu9zfAPiqcFKrBJHAuUB+DEG57SBk2FXSQm3BThD6cGSgBPA7s4x1Pr96XuGZoq9UF/nTxqXhav1zaywUmIFkLnF+Lh/fIucuL2lQmhA+KkKFfVv3/vs0pRFI7Y0m0Iw9P4qZUXeeyhZQWST4HpS1CVEw=;pwsXIYt0Oiac6L1V7DLfkw=="
+secured: "hKBbJSlsNhgDR6BtWVvQcAHjVwHF2093IqEp8ycYu68AUcC44h+xjR+VV5Uvnw5oFruP4egp9BtyYGI6YPl3DES/44RNpIiPUxkdatPG+mmkDdICgmhD+LuLkEVTpX9lVSa6TO32jKbiMOC5x04ChtOgzvN4bexYAAXAF8jTt67lfzGLTL3lrCi70+eAEO3++2plFHMA2mTwrkeIl6L9QZH8uHhVrddTGkKrI0AyNEHacv7TBjvU+68QuEa1tsbTmXB9YrWb0OW/vieAUtMbU1x4dO5K4WjIeUwfIuQqFtMjraQNAvQFOhVmvdNxgr0f;UauqUyV1TBgvvz5kqB2/rg=="
 ---
 

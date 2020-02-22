@@ -48,21 +48,6 @@ related:
       - url: "https://cnet1.cbsistatic.com/img/T7vHUXN92GZ-p8NS6dA-Ll1wLrQ=/756x567/2020/02/14/93a842af-7754-4d73-baf3-c2fd2af66118/facial-recognition-getty.jpg"
         width: 756
         height: 567
-  - title: "Paper Masks Are Fooling Facial Recognition Software"
-    excerpt: "Facial recognition is being widely embraced as a security tool — law enforcement and corporations alike are rolling it out to keep tabs on who's accessing airports, stores, and smartphones. As it turns out, the technology is fallible. Researchers with the artificial-intelligence firm Kneron announced that they were able to fool some facial ..."
-    publishedDateTime: 2020-02-07T16:44:00Z
-    webUrl: "https://www.entrepreneur.com/article/346056"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/346056"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/346056"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 89
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/20200207163845-face-recognition.jpeg?width=600&crop=16:9"
-        width: 600
-        height: 338
   - title: "Oh great, the EU has ditched its facial recognition ban"
     excerpt: "The European Union is backing away from its plan to introduce a temporary ban on facial recognition technology, instead delegating decisions on the software to its member states. In a previous draft of a paper on AI, the European Commission had proposed introducing a five-year moratorium on the technology. But in a new draft seen by the ..."
     publishedDateTime: 2020-02-12T16:00:00Z

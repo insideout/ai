@@ -8,7 +8,7 @@ ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-02-16/eu-to-launch-
 cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-02-16/eu-to-launch-grand-plan-on-ai-tech-in-challenge-to-u-s-china"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -34,6 +34,21 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 67
+  - title: "EU proposes rules for artificial intelligence to limit risks"
+    excerpt: "LONDON (AP) — The European Union unveiled proposalsWednesday to regulate artificial intelligence that call for strict rules and safeguards on ... German government ministers announced plans to require companies like Facebook and YouTube to report certain forms of hate speech to the police and to provide the users' IP addresses."
+    publishedDateTime: 2020-02-19T11:37:00Z
+    webUrl: "https://www.abc27.com/news/us-world/tech/eu-proposes-rules-for-artificial-intelligence-to-limit-risks/"
+    ampWebUrl: "https://www.abc27.com/news/us-world/tech/eu-proposes-rules-for-artificial-intelligence-to-limit-risks/amp/"
+    cdnAmpWebUrl: "https://www-abc27-com.cdn.ampproject.org/c/s/www.abc27.com/news/us-world/tech/eu-proposes-rules-for-artificial-intelligence-to-limit-risks/amp/"
+    type: article
+    provider:
+      name: abc27.com
+      domain: abc27.com
+    quality: 59
+    images:
+      - url: "https://www.abc27.com/wp-content/uploads/sites/55/2020/02/26a5d5519fb44b4cbb90a8135709a722.jpg?w=1280&h=720&crop=1"
+        width: 1280
+        height: 720
   - title: "EU to launch grand plan for AI, tech in challenge to US, China"
     excerpt: "In the U.S., reports that police were using technology from Clearview AI -- a startup that’s scraped billions of photos from social media accounts with the aim of helping law enforcement find suspects without criminal records -- caused a backlash from privacy groups and lawmakers.The same groups are urging legislation to prevent abuses of a ..."
     publishedDateTime: 2020-02-17T04:50:00Z

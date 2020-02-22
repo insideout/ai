@@ -5,7 +5,7 @@ excerpt: "Artificial intelligence (AI) could one day be used to help cancer pati
 publishedDateTime: 2020-01-28T13:01:00Z
 webUrl: "https://eandt.theiet.org/content/articles/2020/01/ai-could-kickstart-early-radiation-therapy-for-cancer-patients/"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
@@ -17,26 +17,36 @@ topics:
   - AI
   - AI in Healthcare
 
+images:
+  - url: "https://eandt.theiet.org/media/10452/cancer-patient.jpg?crop=0,0.014583333333333332,0,0.49322916666666672&cropmode=percentage&width=1200&height=450&rnd=132246806200000000"
+    width: 1200
+    height: 450
+    title: "AI could kickstart early radiation therapy for cancer patients"
+
 related:
   - title: "AI can help cancer patients start radiation therapy sooner"
     excerpt: "Artificial intelligence can help cancer patients start their radiation therapy sooner - and thereby decrease the odds of the cancer spreading - by instantly translating complex clinical data into ..."
     publishedDateTime: 2020-01-27T00:00:00Z
     webUrl: "https://www.news-medical.net/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx"
     type: article
     provider:
       name: News Medical
       domain: news-medical.net
-    quality: 34
+    quality: 54
   - title: "AI can jump-start radiation therapy for cancer patients"
     excerpt: "Artificial intelligence can help cancer patients start their radiation therapy sooner—and thereby decrease the odds of the cancer spreading—by instantly translating complex clinical data into ..."
     publishedDateTime: 2020-01-28T07:25:00Z
     webUrl: "https://medicalxpress.com/news/2020-01-ai-jump-start-therapy-cancer-patients.html"
+    ampWebUrl: "https://medicalxpress.com/news/2020-01-ai-jump-start-therapy-cancer-patients.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-01-ai-jump-start-therapy-cancer-patients.amp"
     type: article
     provider:
       name: Medical Xpress
       domain: medicalxpress.com
-    quality: 34
+    quality: 54
 
-secured: "yZoAfBS82HV/bIulZER5Lve18KsjzWaoGeXhJgWq6qOKl5fG7plTLyAVrwMh2WQKx/k9nicfjxsY3LcRFzZscZaevppSYQQluF2J0AJIEhIO2ZJP0EJ0gI3lpi7CJch6KssFsgIQgjvNhvrYm3HnQ2cGNckaNZq7HkLieCq1b/Gl3A8BiosyFPIPuYhgYGoyG7C5uS53XmjYn/BkPeaYa6zao55MusvdJt+PpENDer9wvtQfvO5E7vifdq0pdTzVWLtPDzmbWvalJ2wuVdcVjC43q+fZ7y0zNiSrBqVUiRPnQJ83DzaWM3BsQgtBZdcC;2IFzNxXD0zqUQb4wH8MYvw=="
+secured: "BiFRZA0w/06Q6PzwtkoyMHbDLUJDQ2luBztO49WprUUZ+IbSN3xPZjoN39MNx14gNOt67YZ6naQGII2odpVMsu0d7aw7/00XPx9+qKn5HhsUmPe/dVZIVuTbtj5dsSuh95DDWtx2GGWSYnVJRDc5uEpSE3NCssqUYSqtnsPX3qcsPqHfXzU7PuOU4r5XK6qi268XLQSCxqFXVW8NJMQobyAjjMGIbBPVzpO9F+EO9+9C5LNYNZbqbFB0w4kdx9SXPWjdd6pD9A8piTJ403thrHiL/R5mtRo9f3VzFBVPWTz54LVv8YylHAoK9D88fo8W;xe05F/3tKNYtZlt7w8hAKQ=="
 ---
 

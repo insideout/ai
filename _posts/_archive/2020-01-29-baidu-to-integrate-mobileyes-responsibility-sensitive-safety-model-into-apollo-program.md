@@ -5,8 +5,8 @@ excerpt: "Before it's here, it's on the Bloomberg Terminal."
 publishedDateTime: 2020-01-29T18:28:00Z
 webUrl: "https://www.bloomberg.com/press-releases/2018-07-04/baidu-to-integrate-mobileye-s-responsibility-sensitive-safety-model-into-apollo-program"
 type: article
-quality: 41
-heat: 41
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -21,6 +21,12 @@ topics:
   - AI
   - AI in Autos
 
-secured: "RSvgi3tArjcgkAIXM0ddBt7cYS3VQxnjJqZjZM3icUVaJCKx/1eIyBOcwTcutIjYYZ4hrf6OPUfrTV1KoiG44WTZNkzu5Pi0hTXsSYNEkkTI8r6rLaqAXV2DZc6IJ2c95Wy9cphhLtspGWAxKJIjE23dKgZuDeS8dnWcvfz5s42wPc6vlLLE5/KtBw3bxADIG3BIxSpA5PgUccda9XkHxw87SIDHppgMmCXxdRhqurRJL5Hb3BeRuYc27e0OKvcu8SypDpyrUiAs7w3tZknHNkP6ySJoD4oZJbtR7yAj5OQVQMav3FlwccmprlUa2Wci;PfvL9pV/q4vF0m37mYC3yQ=="
+images:
+  - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
+    width: 1200
+    height: 630
+    title: "Baidu to Integrate Mobileye’s Responsibility Sensitive Safety Model Into Apollo Program"
+
+secured: "J0jP8FKTTUS5cJMmS1uVqBhZu7OfpPRXg3d7EOzrgLfkepyBTtxM5i5Dd0gSDfphs280wBgfL2yHGWQemLYBzJEU0jqQPbnRxJCoG1dKxoDK3gl5A8l/mNwakeI1YW96Y7B1HRQBokSYTgUkV7qzafe6eaeqZMo5hKHucJ6T+G4YCIlu31SbOU0hJ+wZdrBQ0e7LU+ZiepSnpUpMQSSRnY2+0cntBRCkkvB7L76ZIJdD+uN9hNjcLBS/zLwAp+wWflrtPrvUYgzPyeygXWMN9D2FRFiBlY51eawRCRv+Ol/opKDw9FF4M9AxEIDFievE;zu1jACVGP9j1xyf8+HzS7g=="
 ---
 

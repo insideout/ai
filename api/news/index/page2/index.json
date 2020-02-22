@@ -2,142 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_posts/2020-02-10-deep-learning-godfathers-bengio-hinton-lecun-say-the-field-can-fix-its-flaws.md",
-      "title": "Deep learning godfathers Bengio, Hinton, LeCun say the field can fix its flaws",
-      "excerpt": "Each of the three scientists got a half hour to talk, and each one acknowledged numerous shortcomings in deep learning, things such as \"adversarial examples,\" where an object recognition system can be tricked into mis-identifying an object just by adding noise to a picture. \"There's been a lot of talk of the negatives about deep learning ...",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/deep-learning-godfathers-bengio-hinton-lecun-say-the-field-can-fix-its-flaws/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/deep-learning-godfathers-bengio-hinton-lecun-say-the-field-can-fix-its-flaws/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/deep-learning-godfathers-bengio-hinton-lecun-say-the-field-can-fix-its-flaws/",
-      "publishedDateTime": "2020-02-10T06:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/02/10/791c60e2-4f7e-4ab8-9ddf-688966cfe2ac/hinton-lecun-bengio-aaai20-feb-9-2020.png",
-          "width": 3151,
-          "height": 1082,
-          "title": "Deep learning godfathers Bengio, Hinton, LeCun say the field can fix its flaws",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-10-deep-learning-has-limits-but-its-commercial-impact-has-just-begun.md",
-      "title": "Deep Learning Has Limits. But Its Commercial Impact Has Just Begun.",
-      "excerpt": "Deep learning may be bumping up against conceptual limits as a model of intelligence, but opportunities to apply it to transform industries and enact massive real-world change still abound.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/robtoews/2020/02/09/deep-learning-has-limits-but-its-commercial-impact-has-just-begun/",
-      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2020/02/09/deep-learning-has-limits-but-its-commercial-impact-has-just-begun/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2020/02/09/deep-learning-has-limits-but-its-commercial-impact-has-just-begun/amp/",
-      "publishedDateTime": "2020-02-09T17:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e40aef58b6cf300071e457e%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Deep Learning Has Limits. But Its Commercial Impact Has Just Begun.",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-10-deepmind-trains-robots-to-insert-usb-keys-and-stack-colored-blocks.md",
-      "title": "DeepMind trains robots to insert USB keys and stack colored blocks",
-      "excerpt": "Robots perform better at a range of tasks when they draw on a growing body of experience. That’s the assertion of a team of researchers hailing from DeepMind, who in a preprint paper propose a technique called reward sketching. They claim it’s an effective way of eliciting human preferences to learn a reward function — a function ...",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/10/deepmind-trains-robots-to-insert-usb-keys-and-stack-colored-blocks/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/10/deepmind-trains-robots-to-insert-usb-keys-and-stack-colored-blocks/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/10/deepmind-trains-robots-to-insert-usb-keys-and-stack-colored-blocks/amp/",
-      "publishedDateTime": "2020-02-10T09:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/dims-e1575998404106.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "DeepMind trains robots to insert USB keys and stack colored blocks",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-10-facebook-quietly-acquired-another-uk-ai-startup-and-almost-no-one-noticed.md",
       "title": "Facebook quietly acquired another UK AI startup and almost no one noticed",
       "excerpt": "Over the last few years, Facebook has been busy building out AI capabilities in areas like computer vision, natural language processing (NLP) and ‘deep learning,’ in part by acquiring promising startups in the space. Understandably, this has seen the U.S. social networking giant look to the U.K. for AI talent, including an acqui-hire of NLP ...",
@@ -2128,6 +1992,143 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-11-global-artificial-intelligence-ai-in-healthcare-market-hits-record-value-of-usd-178-billion-by-2025.md",
+      "title": "Global Artificial Intelligence (AI) in Healthcare Market Hits Record Value of USD 17.8 Billion By 2025",
+      "excerpt": "The \"Global Artificial Intelligence (AI) in Healthcare Market Is Anticipated To Reach Around USD 17.8 Billion By 2025\" Research Report provides the newest industry data and industry future trends, allowing you to identify the products and end users driving Revenue growth and profitability.",
+      "heat": 205,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-healthcare-market-hits-record-value-of-usd-178-billion-by-2025-2020-02-11",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T22:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Global Artificial Intelligence (AI) in Healthcare Market Hits Record Value of USD 17.8 Billion By 2025",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-11-googles-machine-learning-is-making-you-more-effective-in-2020.md",
+      "title": "Google’s Machine Learning Is Making You More Effective In 2020",
+      "excerpt": "to email as well as increasing ways to help me complete or enhance a document, spreadsheet, or presentation with the Explore function.",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/tjmccue/2020/02/10/googles-machine-learning-is-making-you-more-effective-in-2020/",
+      "ampWebUrl": "https://www.forbes.com/sites/tjmccue/2020/02/10/googles-machine-learning-is-making-you-more-effective-in-2020/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tjmccue/2020/02/10/googles-machine-learning-is-making-you-more-effective-in-2020/amp/",
+      "publishedDateTime": "2020-02-10T20:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F881497148%2F0x0.jpg%3FcropX1%3D148%26cropX2%3D3119%26cropY1%3D1497%26cropY2%3D3169",
+          "width": 1200,
+          "height": 676,
+          "title": "Google’s Machine Learning Is Making You More Effective In 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-11-how-will-your-career-be-impacted-by-artificial-intelligence.md",
+      "title": "How Will Your Career Be Impacted By Artificial Intelligence?",
+      "excerpt": "Nobody can predict the future with absolute precision. But when it comes to the impact of artificial intelligence (AI) on people’s careers, the recent past provides some intriguing clues. Rhonda Scharf’s book Alexa Is Stealing Your Job: The Impact of Artificial Intelligence on Your Future offers some insights and predictions that are well worth our consideration.",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/rodgerdeanduncan/2020/02/11/how-will-your-career-be-impacted-by-artificial-intelligence/",
+      "ampWebUrl": "https://www.forbes.com/sites/rodgerdeanduncan/2020/02/11/how-will-your-career-be-impacted-by-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rodgerdeanduncan/2020/02/11/how-will-your-career-be-impacted-by-artificial-intelligence/amp/",
+      "publishedDateTime": "2020-02-11T00:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x511/https://specials-images.forbesimg.com/imageserve/5e17b6d42ffdbd000701d5f4/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 511,
+          "title": "How Will Your Career Be Impacted By Artificial Intelligence?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI in Robotics"
       ]
     }
   ],

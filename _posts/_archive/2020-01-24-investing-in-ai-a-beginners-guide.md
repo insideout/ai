@@ -4,10 +4,12 @@ title: "Investing in AI: A Beginner's Guide"
 excerpt: "Artificial intelligence involves the use of algorithms ... itself as an early leader in self-driving cars. The tech giant's Waymo subsidiary is currently the only American unit that is testing ..."
 publishedDateTime: 2020-01-24T15:12:00Z
 webUrl: "https://www.fool.com/investing/2020/01/24/investing-in-ai-a-beginners-guide.aspx"
+ampWebUrl: "https://www.fool.com/amp/investing/2020/01/24/investing-in-ai-a-beginners-guide.aspx"
+cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/24/investing-in-ai-a-beginners-guide.aspx"
 type: article
-quality: 49
-heat: 49
-published: false
+quality: 89
+heat: 89
+published: true
 
 provider:
   name: The Motley Fool
@@ -21,6 +23,12 @@ topics:
   - AI
   - AI in Autos
 
-secured: "/ZDfXzV5GVbrbAE578lHe1JB0jTlufWhoYQE7sTuVdoFNrEarlPGISl0X5fLqC66DXW5fY7/WZI+9lVzOOlky86UMjEOdWoEUxrzqHoBy43Tb5DsP/E4CAvBsbhIPstqx+r36bJ+qxhkJPMfJr8f7AFJ8JIVe7mE7OOFYYWIFw+Mjnb5OuR1N60KXRcVz5dxyHl5jx/eQf6yEPjFaZJYj8jqv0njtiyA+D+0Gh8VLSjIPq93h0/Z8ZNql5ADk8uWkZxciOYuPbd0EbClHXAfBIZbjcsmb5ACGf3M+BQSPFDrvovjQT++8sehcMis6BRe;Ild0iLiH9qCabubCa2JomQ=="
+images:
+  - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F484858%2Fgettyimages-851955936.jpg&w=1200&op=resize"
+    width: 1200
+    height: 800
+    title: "Investing in AI: A Beginner's Guide"
+
+secured: "h4AIf1Albry6awDD7qM1r36Hopfx9V0HW6lRnSJb55p4y8Z21esH4Ecbvz8tyRU4Dluh2E9p3AWjZyZbDC/CtD/1vMR5QAzkIqbmDJKVPuRTLdmjNtDtTPF0G95Nxot7KEcQRfKiJ9dZDQKiPMNobyXJn/FRiGe0l2GHCh0Fvy51gObtv9CCqvd3fdrozRsQBu6UGScnuTtYwWiLchT+luU6RlGDGPTfFq//y+6FR1P5HritBzx6WWZEC4hYI6LeRzlaYpn/gFTd3kfV5zMe1NVlElI3Tx+C3LeoAQamsV+k8iO55o8EhsyaihEe6T7d;wdTyyjwEqJgl8ZPTUHHQdA=="
 ---
 

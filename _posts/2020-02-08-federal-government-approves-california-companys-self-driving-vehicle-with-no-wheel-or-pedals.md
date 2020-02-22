@@ -71,15 +71,6 @@ related:
       - url: "https://www.swtimes.com/apps/pbcsi.dll/bilde?Site=AR&Date=20200209&Category=ENTERTAINMENTLIFE&ArtNo=200209775&Ref=AR"
         width: 6720
         height: 4480
-  - title: "Nuro Self-Driving Car Scores Federal Regulator Approval(Radio)"
-    excerpt: "Self-driving robot start-up Nuro Inc. has been granted regulatory permission to deploy its grocery delivery vehicles on the nation’s roads, making the company’s autonomous vehicles the first approved to temporarily sidestep car-safety standards."
-    publishedDateTime: 2020-02-07T16:03:00Z
-    webUrl: "https://www.bloomberg.com/news/audio/2020-02-07/nuro-self-driving-car-scores-federal-regulator-approval-radio"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 34
   - title: "Self-driving vehicle law hits a speed bump"
     excerpt: "The big picture: Manufacturers and tech companies want federal rules of the road for their roll-out of self-driving vehicles. But trial lawyers, a powerful lobby, want key questions on liability in a driverless world answered before legislation advances. Driving the news: Daniel Hinkle, an attorney with the American Association for Justice ..."
     publishedDateTime: 2020-02-11T11:08:00Z

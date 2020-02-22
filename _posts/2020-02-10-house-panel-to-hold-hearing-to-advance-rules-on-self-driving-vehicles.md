@@ -333,19 +333,6 @@ related:
       - url: "https://www.inforum.com/news/601307-gqfrk5-Work-Zone-photo/alternates/BASE_LANDSCAPE/Work%20Zone%20photo"
         width: 1140
         height: 712
-  - title: "Will self-driving cars create more distracted drivers?"
-    excerpt: "Technologies like smartphones have made it easier to get distracted, but on the flip side, tech also seems to offer a solution. Self-driving vehicles could eliminate the dangers of distraction, but in their current state, they may do more harm than good. Distraction while driving is a serious issue. In 2017, crashes involving distracted drivers ..."
-    publishedDateTime: 2020-02-07T16:42:00Z
-    webUrl: "https://techaeris.com/2020/02/07/will-self-driving-cars-create-more-distracted-drivers/"
-    type: article
-    provider:
-      name: Techaeris
-      domain: techaeris.com
-    quality: 24
-    images:
-      - url: "https://techaeris.com/wp-content/uploads/2018/02/Uber-Self-Driving-Car-FI-1000x543.jpg"
-        width: 1000
-        height: 543
   - title: "Hearing to review self-driving car legislation"
     excerpt: "Want access to the top energy and environment news? Sign up for a free trial! Enter your email to register or log in. By signing up, you agree to receive E&E News email updates and offers. You also grant your consent to our data collection practices. We encourage you to review our Privacy and Data Practices Policy."
     publishedDateTime: 2020-02-10T11:13:00Z

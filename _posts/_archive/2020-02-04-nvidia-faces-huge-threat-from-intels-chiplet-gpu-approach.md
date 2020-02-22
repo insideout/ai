@@ -5,8 +5,8 @@ excerpt: "If Intel can deliver a 7nm discrete gaming GPU in 2022 (codenamed Jupi
 publishedDateTime: 2020-02-04T13:29:00Z
 webUrl: "https://seekingalpha.com/article/4321159-nvidia-faces-huge-threat-from-intels-chiplet-gpu-approach"
 type: article
-quality: 34
-heat: 34
+quality: 54
+heat: 54
 published: false
 
 provider:
@@ -17,6 +17,12 @@ topics:
   - AI
   - AI Hardware
 
-secured: "tcLJyhqiAIv/kCUT3K5PgXDn44HVU9wcRRA/jwGpx2C9faM9C8PhG4W5L8pNGp32E8whdqZGRoOvIT11A9NUCz6YL8s5syPWbEt1kdsIln8nLZm2d4xp1tIJzvJXecnx8lq55GNJ2tJ9pzgUV4rftfE5gkoe11Fegy0VJ3KXPzfXMeujiY0idxp7STL4IMjaJFM0QBa5/XSWYNx7cYcSFVmXSMWeOZqipR4P4LnNoU1yDbZMtiDnM1c7d3K+wByK6nH7hDZQ+MirbA7dzWoGGADAsfmxVlSTzxVofUKWflkZOwnQREEsj10h7xxYEjqkp8LDCaCYALoBNp994hEg+NdLUBhBnFywX83nOpCaKcBR5YQpdezQiXAInDVgZREcSfrXdSUNvXxiv35No1gOQAO6F70xqicEvYzuX5dKfmDAtFjTT/n0QhdcgYCeXOCN7E7iJhIXavlX7jDNNRaGdRqutY8+TeWr/mYOzFU7kCI=;HHo8Q/a/WweLa+i6ODoD5g=="
+images:
+  - url: "https://static1.seekingalpha.com/uploads/2020/1/29/13402352-1580290725897106.png"
+    width: 640
+    height: 354
+    title: "Nvidia Faces Huge Threat From Intel's Chiplet GPU Approach"
+
+secured: "UNq9ZilcPCQTh3lCt3kzI+geHK7dSDpMmHnv5mMc+5fDhLpYMuxCCfASfjCSJLpaQ+eoLsMO50qKIsGBlAvFTCstduccvtuCcDo/HDx9KXc+tHJTc0/gCTZD/0VDwg3Lggk4/rLNCdFefwOR12GAUbV2stCGMUPReh0mQOFI4k2hy+iIwvnd6Bh2zYjH9ZZp285bZ4vnQZP10SMNemsDaydQs0fU3IFewAbFiVa5u2ftwgGE7SZvUp/jBNdT1Ni11E2SLP2F229jsBE/S/v9+P7Jiqm+rOcnbOAt897Z+J3PUSg2dFAel81vybq5Eqax;jzDR6zR5Ogg6No9WkJCb8Q=="
 ---
 

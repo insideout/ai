@@ -4,8 +4,10 @@ title: "Cloud-Native Cognitive Computing How to Get Ready For The Next Frontier 
 excerpt: "which is of course why cognitive services are so closely linked to cloud-based environments. The leading providers in this field – Amazon AWS, Microsoft Azure, Google Cloud, and IBM Watson ..."
 publishedDateTime: 2020-01-24T00:00:00Z
 webUrl: "https://www.business2community.com/cloud-computing/cloud-native-cognitive-computing-how-to-get-ready-for-the-next-frontier-in-ai-02277792"
+ampWebUrl: "https://www.business2community.com/cloud-computing/cloud-native-cognitive-computing-how-to-get-ready-for-the-next-frontier-in-ai-02277792/amp"
+cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/cloud-computing/cloud-native-cognitive-computing-how-to-get-ready-for-the-next-frontier-in-ai-02277792/amp"
 type: article
-quality: 16
+quality: 36
 heat: -1
 published: false
 
@@ -26,8 +28,12 @@ related:
     provider:
       name: Medium
       domain: medium.com
-    quality: 64
+    quality: 84
+    images:
+      - url: "https://miro.medium.com/max/1200/1*eIuRRxcgZxzCMZvc4HLiiA.png"
+        width: 1200
+        height: 600
 
-secured: "eDraWXtFRgnAPDyKWxCP7QcYAcby2d4jy+9q7I2erNztg0DHr0/RKwV5raB6OyUs1uF0pxnWaZzT6uVuYVxSXFYdeE3No+orDRHMazwnMQiuVveUB0BNSlygtKNSOq/Yi3JQJt0n1CJ6v5BLMOeTHUNGs/57F5yQrx0gm61W1IEs5wRyS5jOUqATIoJ8mRU/bbk4IEB9nWJcVd5EQJE+CFyJF7BLCAc58ohBAXAr0sQ7LjRUO7sY4sYfKNIftff+/pvml75JcaRat8iCU81mTpyzKH3wzEaXJH/H4PvjtQWKx4t0HJhX/v/RS6bk3pvO;cEYywt2vZDFtLOV4tlXJdQ=="
+secured: "M3l6hl//BxrvvxY37OG5FrQ9JkyJNr1+NLjBChTGISe3WwQzeRWgPfJEsp38F33duIsBNs4PwMQt39Lcw+o+b/XWuySW8HC6yt/gd/1rg/vSR9S2FMb527+gLjFr3DCSXqvGIUdsTO4E0A6gIvNUGwak7GG2lf89WxRX/mB8NIjOkykAVriHJCcWJmbo6ctdWy9fS/GNSs8nL7QMm2j7fPVIBcHsEIq7KHKbIg5GYouSVwkZVNwz0XFYsEzCfYvdWUx+lNatGDgVbd0664ODy+XCgXjn5Ot3FBzLMSn4xyri+dEU1CCnLhJ83zjCqX1p;dPGGIrHTL5wcIoVPboExEQ=="
 ---
 

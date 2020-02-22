@@ -42,21 +42,6 @@ related:
       - url: "https://hackaday.com/wp-content/uploads/2017/02/ghost.jpg"
         width: 3000
         height: 1815
-  - title: "How Is Artificial Intelligence And Machine Learning Used In Engineering?"
-    excerpt: "and machine learning are bringing changes to the field of engineering and the responsibilities of engineers just like they have in other industries. Many of these changes improve efficiency and effectiveness."
-    publishedDateTime: 2020-02-07T16:48:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2020/02/07/how-is-artificial-intelligence-and-machine-learning-used-in-engineering/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2020/02/07/how-is-artificial-intelligence-and-machine-learning-used-in-engineering/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/02/07/how-is-artificial-intelligence-and-machine-learning-used-in-engineering/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 105
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/711x290/https://specials-images.forbesimg.com/imageserve/5e3cf820f133f400076be0f6/960x0.jpg?fit=scale"
-        width: 711
-        height: 290
   - title: "Most used jargon's in Machine Learning"
     excerpt: "Machine learning and data science are one of the hot topics. We hear lots of terms related to these fields. Let’s learn about few popular terms. Supervised learning typically begins with an established set of data and a certain understanding of how that data is classified. Supervised learning is intended to find patterns in data that can be ..."
     publishedDateTime: 2020-02-07T19:29:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-08T00:00:00Z
 webUrl: "https://hackaday.com/2017/02/06/ai-and-the-ghost-in-the-machine/"
 type: article
 quality: 137
-heat: 227
+heat: 217
 published: true
 
 provider:
@@ -23,21 +23,6 @@ images:
     title: "AI And The Ghost In The Machine"
 
 related:
-  - title: "How Is Artificial Intelligence And Machine Learning Used In Engineering?"
-    excerpt: "and machine learning are bringing changes to the field of engineering and the responsibilities of engineers just like they have in other industries. Many of these changes improve efficiency and effectiveness."
-    publishedDateTime: 2020-02-07T16:48:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2020/02/07/how-is-artificial-intelligence-and-machine-learning-used-in-engineering/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2020/02/07/how-is-artificial-intelligence-and-machine-learning-used-in-engineering/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/02/07/how-is-artificial-intelligence-and-machine-learning-used-in-engineering/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 105
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/711x290/https://specials-images.forbesimg.com/imageserve/5e3cf820f133f400076be0f6/960x0.jpg?fit=scale"
-        width: 711
-        height: 290
   - title: "The Role of Machine Learning in Marketing"
     excerpt: "For example, Microsoft’s Azure ML Studio has a methodology to model customer churn. Image source: https://docs.microsoft.com/en-us/azure/machine-learning/studio/azure-ml-customer-churn-scenario In figure 1, it shows a risk model that shows you how actions affect risk and probability. Moving over, figure 2 shows an intervention model that ..."
     publishedDateTime: 2020-02-10T18:43:00Z

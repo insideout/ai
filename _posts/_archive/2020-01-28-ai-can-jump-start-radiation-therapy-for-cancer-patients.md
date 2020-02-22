@@ -4,8 +4,10 @@ title: "AI can jump-start radiation therapy for cancer patients"
 excerpt: "Artificial intelligence can help cancer patients start their radiation therapy sooner—and thereby decrease the odds of the cancer spreading—by instantly translating complex clinical data into ..."
 publishedDateTime: 2020-01-28T07:25:00Z
 webUrl: "https://medicalxpress.com/news/2020-01-ai-jump-start-therapy-cancer-patients.html"
+ampWebUrl: "https://medicalxpress.com/news/2020-01-ai-jump-start-therapy-cancer-patients.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-01-ai-jump-start-therapy-cancer-patients.amp"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
@@ -22,11 +24,13 @@ related:
     excerpt: "Artificial intelligence can help cancer patients start their radiation therapy sooner - and thereby decrease the odds of the cancer spreading - by instantly translating complex clinical data into ..."
     publishedDateTime: 2020-01-27T00:00:00Z
     webUrl: "https://www.news-medical.net/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx"
     type: article
     provider:
       name: News Medical
       domain: news-medical.net
-    quality: 34
+    quality: 54
   - title: "AI could kickstart early radiation therapy for cancer patients"
     excerpt: "Artificial intelligence (AI) could one day be used to help cancer patients start their radiation therapy sooner, thereby decreasing the odds of the cancer spreading, by instantly translating complex clinical data into an optimal plan of attack. Typically ..."
     publishedDateTime: 2020-01-28T13:01:00Z
@@ -35,8 +39,12 @@ related:
     provider:
       name: IET
       domain: theiet.org
-    quality: 34
+    quality: 54
+    images:
+      - url: "https://eandt.theiet.org/media/10452/cancer-patient.jpg?crop=0,0.014583333333333332,0,0.49322916666666672&cropmode=percentage&width=1200&height=450&rnd=132246806200000000"
+        width: 1200
+        height: 450
 
-secured: "Bw9Hzwg9yEjztV7/tS2DXuG/Gz3rr8k4owGXQTnxdqUUqXEwMYtfBLEXbxvXOVK5mhzNXRvcjF2bjJnzywigq+LcmkSojq0eDEnWf70PLF6A6zg8cGD2V5tcsEfgmMvzgcUdTKZgn/v6RDLzZXw9sxt5fkJpcYbiwNzNT4KDqZUnZsyXEQwqjpmLtRBx+XxqRarBbuy5nsPJTnqt1Q3TiXfbPYaUvsA6AVAZHBeluXyxBbBZcskUT//lVm9EGccGh2yv18xK+35b+VhECD83m2JL+lubG3XMmmS7pLeEY/XE7S72FFi167cvtKCupNO2;0PCh/kgWaVEVeqR80vA5Xg=="
+secured: "4j1QkOwfrcoQLb0B7TmkfJJXUkrFHtxHdvHcoxBqyvGV6wlqSJ6xDbv+ZZPdhn5n4Iv5gQ0XnEjkgfKTd2E0SZBfXmHLR3wwG2e6J3yZ0g5sA/P4EQF2PPsM1quM+rXnmpCCg4xWaQeBtHR2CdFkp3YkT1nfNY0zUV4XNS3uRjrFiNNZBlQncsAxIB2/oI/lYH93S/goxxcpDLgj6BJb2fMHXspLoKvB4hKNx5Hl5tkGcqiDDXNu5Fd7yj7x9u1aED/BZ8bZQM6qQ2V0D/gt+E1WiQzdr8yCYNJJcbPF+KHJHKyHdxkezINKlEbXHJKI;8h3oFR5XlOi6TR6itxAjQQ=="
 ---
 

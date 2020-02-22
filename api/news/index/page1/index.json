@@ -136,51 +136,6 @@
       ]
     },
     {
-      "path": "_posts/2020-02-07-an-update-on-intel-and-habana-labs.md",
-      "title": "An Update On Intel And Habana Labs",
-      "excerpt": "Analyst Karl Freund provides an update on Intel's plans to switch its AI acceleration from Nervana to recently acquired Habana Labs.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/02/05/an-update-on-intel-and-habana-labs/?ss=ai",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/02/05/an-update-on-intel-and-habana-labs/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/02/05/an-update-on-intel-and-habana-labs/amp/",
-      "publishedDateTime": "2020-02-07T09:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e3a6013f133f400076baa00%2F0x0.jpg",
-          "width": 899,
-          "height": 568,
-          "title": "An Update On Intel And Habana Labs",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-07-center-for-robotics-and-biosystems-at-northwestern-works-on-human-robot-collaboration.md",
       "title": "Center for Robotics and Biosystems at Northwestern works on human-robot collaboration",
       "excerpt": "“The robot can learn how well the user can operate on his or her own and adjust ... not to mention the application itself. “Artificial intelligence is a hot topic,” Lynch acknowledged. “At the highest level, embodied intelligence has to have some physical connection to the world. It’s not just chatbots but AI that receives information ...",
@@ -260,42 +215,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-07-et-prime-introduces-market-first-subscribe-with-google-partnership.md",
-      "title": "ET Prime introduces market-first ‘subscribe with Google’ partnership",
-      "excerpt": "NEW DELHI: The Economic Times’ subscription-based premium ... the ability to seamlessly pay for subscriptions or read premium articles across a dedicated mobile app, web browser or search results. ET Prime has now become India’s first premium business news publisher to offer the ‘Subscribe with Google’ option that allows users to ...",
-      "heat": 142,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://timesofindia.indiatimes.com/business/india-business/et-prime-introduces-market-first-subscribe-with-google-partnership/articleshow/74013039.cms",
-      "ampWebUrl": "https://m.timesofindia.com/business/india-business/et-prime-introduces-market-first-subscribe-with-google-partnership/amp_articleshow/74013039.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/business/india-business/et-prime-introduces-market-first-subscribe-with-google-partnership/amp_articleshow/74013039.cms",
-      "publishedDateTime": "2020-02-07T09:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "ET Prime introduces market-first ‘subscribe with Google’ partnership",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     },
     {
@@ -477,7 +396,7 @@
       "path": "_posts/2020-02-07-nuros-r2-vehicle-has-been-granted-the-nhtsas-first-regulatory-exemption-for-a-custom-self-driving-car.md",
       "title": "Nuro's R2 vehicle has been granted the NHTSA's first regulatory exemption for a custom self-driving car",
       "excerpt": "Self-driving cars: Nuro is a well-known entity in the autonomous vehicle industry. It's partnered up with companies like Kroger and Dominos in the past to offer driverless food and grocery delivery services via its \"R1\" generation of vehicles. Now ...",
-      "heat": 118,
+      "heat": 108,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.techspot.com/news/83926-nuro-has-granted-nhtsa-first-regulatory-exemption-custom.html",
@@ -606,43 +525,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-07-software-that-swaps-out-words-can-now-fool-the-ai-behind-alexa-and-siri.md",
-      "title": "Software that swaps out words can now fool the AI behind Alexa and Siri",
-      "excerpt": "But the tweaks made an AI interpret the sentences completely differently. Why it matters: We have seen many examples of such adversarial attacks, most often with image recognition systems, where tiny alterations to the input can flummox an AI and make it misclassify what it sees. TextFooler shows that this style of attack also breaks NLP ...",
-      "heat": 139,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.technologyreview.com/f/615158/software-that-swaps-out-words-can-now-fool-the-ai-behind-alexa-and-siri/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-07T09:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.technologyreview.com/i/images/40507772191411d162do.jpg?sw=1200&cx=478&cy=0&cw=2350&ch=1322",
-          "width": 1200,
-          "height": 675,
-          "title": "Software that swaps out words can now fool the AI behind Alexa and Siri",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     },
     {
@@ -783,7 +665,7 @@
       "path": "_posts/2020-02-08-ai-and-the-ghost-in-the-machine.md",
       "title": "AI And The Ghost In The Machine",
       "excerpt": "If you search for ‘sunset’ in the pictures on your phone, it’s AI vision that finds them.” This sort of artificial intelligence is what the industry calls “weak AI”. Weak AI is ...",
-      "heat": 227,
+      "heat": 217,
       "tags": null,
       "type": "article",
       "webUrl": "https://hackaday.com/2017/02/06/ai-and-the-ghost-in-the-machine/",
@@ -2152,6 +2034,142 @@
           "width": 920,
           "height": 470,
           "title": "Deal: Prepare for the robot age with Essential AI training",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-10-deep-learning-godfathers-bengio-hinton-lecun-say-the-field-can-fix-its-flaws.md",
+      "title": "Deep learning godfathers Bengio, Hinton, LeCun say the field can fix its flaws",
+      "excerpt": "Each of the three scientists got a half hour to talk, and each one acknowledged numerous shortcomings in deep learning, things such as \"adversarial examples,\" where an object recognition system can be tricked into mis-identifying an object just by adding noise to a picture. \"There's been a lot of talk of the negatives about deep learning ...",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/deep-learning-godfathers-bengio-hinton-lecun-say-the-field-can-fix-its-flaws/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/deep-learning-godfathers-bengio-hinton-lecun-say-the-field-can-fix-its-flaws/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/deep-learning-godfathers-bengio-hinton-lecun-say-the-field-can-fix-its-flaws/",
+      "publishedDateTime": "2020-02-10T06:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/02/10/791c60e2-4f7e-4ab8-9ddf-688966cfe2ac/hinton-lecun-bengio-aaai20-feb-9-2020.png",
+          "width": 3151,
+          "height": 1082,
+          "title": "Deep learning godfathers Bengio, Hinton, LeCun say the field can fix its flaws",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-10-deep-learning-has-limits-but-its-commercial-impact-has-just-begun.md",
+      "title": "Deep Learning Has Limits. But Its Commercial Impact Has Just Begun.",
+      "excerpt": "Deep learning may be bumping up against conceptual limits as a model of intelligence, but opportunities to apply it to transform industries and enact massive real-world change still abound.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/robtoews/2020/02/09/deep-learning-has-limits-but-its-commercial-impact-has-just-begun/",
+      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2020/02/09/deep-learning-has-limits-but-its-commercial-impact-has-just-begun/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2020/02/09/deep-learning-has-limits-but-its-commercial-impact-has-just-begun/amp/",
+      "publishedDateTime": "2020-02-09T17:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e40aef58b6cf300071e457e%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Deep Learning Has Limits. But Its Commercial Impact Has Just Begun.",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-10-deepmind-trains-robots-to-insert-usb-keys-and-stack-colored-blocks.md",
+      "title": "DeepMind trains robots to insert USB keys and stack colored blocks",
+      "excerpt": "Robots perform better at a range of tasks when they draw on a growing body of experience. That’s the assertion of a team of researchers hailing from DeepMind, who in a preprint paper propose a technique called reward sketching. They claim it’s an effective way of eliciting human preferences to learn a reward function — a function ...",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/10/deepmind-trains-robots-to-insert-usb-keys-and-stack-colored-blocks/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/10/deepmind-trains-robots-to-insert-usb-keys-and-stack-colored-blocks/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/10/deepmind-trains-robots-to-insert-usb-keys-and-stack-colored-blocks/amp/",
+      "publishedDateTime": "2020-02-10T09:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/dims-e1575998404106.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "DeepMind trains robots to insert USB keys and stack colored blocks",
           "attribution": null
         }
       ],

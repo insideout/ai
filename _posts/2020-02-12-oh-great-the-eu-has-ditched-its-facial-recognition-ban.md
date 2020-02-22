@@ -60,21 +60,6 @@ related:
       - url: "https://cnet1.cbsistatic.com/img/T7vHUXN92GZ-p8NS6dA-Ll1wLrQ=/756x567/2020/02/14/93a842af-7754-4d73-baf3-c2fd2af66118/facial-recognition-getty.jpg"
         width: 756
         height: 567
-  - title: "Paper Masks Are Fooling Facial Recognition Software"
-    excerpt: "Facial recognition is being widely embraced as a security tool — law enforcement and corporations alike are rolling it out to keep tabs on who's accessing airports, stores, and smartphones. As it turns out, the technology is fallible. Researchers with the artificial-intelligence firm Kneron announced that they were able to fool some facial ..."
-    publishedDateTime: 2020-02-07T16:44:00Z
-    webUrl: "https://www.entrepreneur.com/article/346056"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/346056"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/346056"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 89
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/20200207163845-face-recognition.jpeg?width=600&crop=16:9"
-        width: 600
-        height: 338
   - title: "Senate bill would place a moratorium on feds using facial recognition"
     excerpt: "First, a 13 member commission would try to establish some guidelines on its use. Facial recognition is being used by more agencies than ever, even as its accuracy and impact remain unclear. Several local governments have already taken steps to stop law enforcement from using it in various ways, and a bill introduced by two US senators seeks to ..."
     publishedDateTime: 2020-02-13T07:50:00Z

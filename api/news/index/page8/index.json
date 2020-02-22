@@ -2,128 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_posts/2020-02-20-study-uses-machine-learning-to-identify-personalized-brain-networks-in-kids.md",
-      "title": "Study uses machine learning to identify personalized brain networks in kids",
-      "excerpt": "Machine learning is helping Penn Medicine researchers identify the size and shape of brain networks in individual children, which may be useful for understanding psychiatric disorders. In a new study published today in the journal Neuron, a multidisciplinary team showed how brain networks unique to each child can predict cognition. The study ...",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.news-medical.net/news/20200219/Study-uses-machine-learning-to-identify-personalized-brain-networks-in-kids.aspx",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20200219/Study-uses-machine-learning-to-identify-personalized-brain-networks-in-kids.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200219/Study-uses-machine-learning-to-identify-personalized-brain-networks-in-kids.aspx",
-      "publishedDateTime": "2020-02-19T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.news-medical.net/image.axd?picture=2016%2f3%2fChildren_playing_sunset_-_Zurijeta_8c5bdac77e44431bb1bfec67b9c87208-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": "Study uses machine learning to identify personalized brain networks in kids",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-20-the-ai-eye-let-the-chips-fall-where-they-may-the-burgeoning-market-for-artificial-intelligence-chips.md",
-      "title": "The AI Eye: Let the Chips Fall Where They May - The Burgeoning Market for Artificial Intelligence Chips",
-      "excerpt": "Point Roberts, WA and Vancouver, BC - February 20, 2020 (Investorideas.com Newswire) Investorideas.com (www.investorideas.com), a global investor news source covering Artificial Intelligence (AI) brings you today's edition of The AI Eye,",
-      "heat": 105,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/the-ai-eye-let-the-chips-fall-where-they-may---the-burgeoning-market-for-artificial-intelligence-chips-2020-02-20",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-20T07:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "The AI Eye: Let the Chips Fall Where They May - The Burgeoning Market for Artificial Intelligence Chips",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-20-the-zacks-analyst-blog-highlights-microsoft-applied-materials-sap-se-lam-research-and-tencent.md",
-      "title": "The Zacks Analyst Blog Highlights: Microsoft, Applied Materials, SAP SE, Lam Research and Tencent",
-      "excerpt": "Chicago, IL – February 20, 2020 – Zacks.com announces the list of stocks featured in the Analyst Blog. Every day the Zacks Equity Research analysts discuss the latest news and events impacting stocks and the financial markets.",
-      "heat": 80,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nasdaq.com/articles/the-zacks-analyst-blog-highlights%3A-microsoft-applied-materials-sap-se-lam-research-and",
-      "ampWebUrl": "https://www.nasdaq.com/articles/the-zacks-analyst-blog-highlights%3A-microsoft-applied-materials-sap-se-lam-research-and?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/the-zacks-analyst-blog-highlights%3A-microsoft-applied-materials-sap-se-lam-research-and?amp",
-      "publishedDateTime": "2020-02-20T06:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg",
-          "width": 1024,
-          "height": 512,
-          "title": "The Zacks Analyst Blog Highlights: Microsoft, Applied Materials, SAP SE, Lam Research and Tencent",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "Facebook AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_posts/2020-02-20-this-college-banned-students-from-even-discussing-facial-recognition.md",
       "title": "This College Banned Students From Even Discussing Facial Recognition",
       "excerpt": "This article originally appeared on VICE US. Amidst a growing nationwide resistance to facial recognition on college campuses, school administrators at Michigan's Oakland Community College (OCC) are blocking students’ organizing efforts to prevent the technology from being adopted. Last week, the school's administrators canceled a forum event ...",
@@ -2063,6 +1941,141 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2019-12-19T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*YGkB52a5tgp8vGHleh2bAw.png",
+          "width": 1200,
+          "height": 744,
+          "title": "Computer Vision and the CCPA: What You Need to Know",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2019-12-20-facebook-discovers-fakes-that-show-evolution-of-disinformation.md",
+      "title": "Facebook Discovers Fakes That Show Evolution of Disinformation",
+      "excerpt": "The network exposed by Facebook used fake profile photos generated with artificial intelligence.Credit...Graphika/The Atlantic Council’s Digital Forensic Research Lab Facebook said on Friday that it had removed hundreds of accounts with ties to the Epoch ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/2019/12/20/business/facebook-ai-generated-profiles.html",
+      "ampWebUrl": "https://www.nytimes.com/2019/12/20/business/facebook-ai-generated-profiles.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2019/12/20/business/facebook-ai-generated-profiles.amp.html",
+      "publishedDateTime": "2019-12-20T15:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2019/12/20/business/20takedown3/20takedown3-facebookJumbo-v2.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": "Facebook Discovers Fakes That Show Evolution of Disinformation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2019-12-20-facebook-removes-hundreds-of-fake-pro-trump-accounts-using-ai-generated-profile-photos.md",
+      "title": "Facebook Removes Hundreds of Fake Pro-Trump Accounts Using AI-Generated Profile Photos",
+      "excerpt": "Facebook says it worked with independent researchers Graphika and the Atlantic Council’s Digital Forensic Research Lab (DFRLab ... most notably that the network was using artificial intelligence to generate fake profile photos. The network banned ...",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/mnunez/2019/12/20/facebook-removes-hundreds-of-fake-pro-trump-accounts-using-ai-generated-profile-photos/",
+      "ampWebUrl": "https://www.forbes.com/sites/mnunez/2019/12/20/facebook-removes-hundreds-of-fake-pro-trump-accounts-using-ai-generated-profile-photos/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mnunez/2019/12/20/facebook-removes-hundreds-of-fake-pro-trump-accounts-using-ai-generated-profile-photos/amp/",
+      "publishedDateTime": "2019-12-20T15:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F939701722%2F0x0.jpg",
+          "width": 1200,
+          "height": 797,
+          "title": "Facebook Removes Hundreds of Fake Pro-Trump Accounts Using AI-Generated Profile Photos",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2019-12-21-computer-vision-and-the-ccpa-what-you-need-to-know.md",
+      "title": "Computer Vision and the CCPA: What You Need to Know",
+      "excerpt": "This article will cover what companies who have deployed or are considering deploying computer vision technology should do with the biometric data they collect in order to be compliant with the CCPA. The National Law Review does a tremendous job of ...",
+      "heat": 69,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/trueface-ai/computer-vision-and-the-ccpa-what-you-need-to-know-928477de0601?source=topic_page---------2------------------1",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-12-20T16:09:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Medium",

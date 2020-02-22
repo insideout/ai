@@ -56,15 +56,6 @@ related:
       - url: "https://localtvwreg.files.wordpress.com/2020/02/hypatia-h_6c542cd4da989a321201ee0792ec843c-h_380deb702e8624c8a7d02bce596b8943.jpg?quality=85&strip=all&w=1200"
         width: 1200
         height: 800
-  - title: "Nuro Self-Driving Car Scores Federal Regulator Approval(Radio)"
-    excerpt: "Self-driving robot start-up Nuro Inc. has been granted regulatory permission to deploy its grocery delivery vehicles on the nation’s roads, making the company’s autonomous vehicles the first approved to temporarily sidestep car-safety standards."
-    publishedDateTime: 2020-02-07T16:03:00Z
-    webUrl: "https://www.bloomberg.com/news/audio/2020-02-07/nuro-self-driving-car-scores-federal-regulator-approval-radio"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 34
   - title: "Federal government approves California company’s self-driving vehicle with no wheel or pedals"
     excerpt: "MOUNTAIN VIEW, Calif. — The federal government has cleared the way for a Silicon Valley startup to deploy thousands of its self-driving delivery vehicles on US streets. The R2 has no steering wheel, pedals or side mirrors as it’s designed to be unmanned and carry cargo. Large compartments on its side open up to reveal deliveries ..."
     publishedDateTime: 2020-02-08T04:16:00Z
