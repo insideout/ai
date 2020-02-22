@@ -32,9 +32,9 @@ related:
   - title: "Researchers Use Advanced AI to Predict Extreme Weather"
     excerpt: "Predicting extreme weather is a complex science, and an area where artificial intelligence (AI) machine learning, specifically the pattern-recognition capabilities of deep learning, can make a difference in forecasting accuracy. A recent peer-reviewed Rice University study published in February 2020 in the Journal of Advances in Modeling Earth ..."
     publishedDateTime: 2020-02-22T16:03:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202002/researchers-use-advanced-ai-predict-extreme-weather"
-    ampWebUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202002/researchers-use-advanced-ai-predict-extreme-weather?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202002/researchers-use-advanced-ai-predict-extreme-weather?amp"
+    webUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202002/researchers-use-advanced-ai-predict-extreme-weather"
+    ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202002/researchers-use-advanced-ai-predict-extreme-weather?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202002/researchers-use-advanced-ai-predict-extreme-weather?amp"
     type: article
     provider:
       name: Psychology Today

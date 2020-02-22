@@ -23,6 +23,6 @@ images:
     height: 580
     title: "How coding is becoming child's play"
 
-secured: "rVkxGFgzGesuZbnkLSKly2CA45d1FYHI5gmUCxaIRnxZatofKncdd6XoD5byfOyDjrqUTZWn7vvyeNcrrgejSKM0RspcYfzlFV7gMkeLo7xgxWiNrgcX7vuDfuX2W079QSoY9BiuXQ1BgJGs64kM8+nEApZQFTRj7hc/70XgT+ZSkdIzdrHHohxdvAQBLn+8sXiRH71ciSqa5ANQP3+BEvsOsWmOOEkyaiPtXc2JgCsFZ8Xl1Z5+Fts0EfcX6qsZqs3YAyFQpn3coN0G94G7pbTsIMKFEvW/+w5v45dMJ/fBbxHFGO3FhsGPFuVRWtm3;pH49CUYucf/ETY3U61cPbQ=="
+secured: "47wgUT4OklJXjD9BhnwDvrxfLN5HGh9SzTOozNEcwApN6UP7BJnnGReneNC+NoY+/Pt+6vef5Oom+ULHmFRjPbAJE+sdD8IwhQK8GoPrP2OJx60C0TVNX3MkfKkzZuB+3EbVE2R0SoeyojOMRwFuUnROE29WQaRXrgicxTLmDEL/ldzayynQgzxfiCzNjkYvgvWV57utj793yYk196sSIpOXUXIF4aAXZ4IwulMCtb252xsZFAbW2PolwwDP8D8h0A8NZY8XXgmzCYqkzIHUVdhwBVhg3Y34sB3NVFvPKDDbRUSfsewmNUyDQCx5HSiP;Gu5atwNKrzLHtvP/MIEaSQ=="
 ---
 

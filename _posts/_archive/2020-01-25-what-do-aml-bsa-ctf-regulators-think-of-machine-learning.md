@@ -23,6 +23,6 @@ images:
     height: 497
     title: "What do AML-BSA-CTF Regulators think of Machine Learning?"
 
-secured: "Tq8gUAJ2oCkPgj9sy0Kds/EjHLqcDNIvx+fvXmidU4tFcBUanOQ9iKKIjAzD80H2msgjbHJuSuur8/wsYrko5noTcev64om0Guj2ZCTM3r0BpQOUOW1o9syZEeLvlPj4QTpkDIrrXP1zZETh5WY54UBILwTnIaVZczPHJYivQnIX7ppIqaxikmsGOkg9m4qXwsArC2tdTUXG5q0XM06GTHj/xTZfq86D77r7XdgkKjoH3WDHKdcvmwa7HFALPFMfZPicoIornSh+TjL/bMKhbpFG4WCM5+owluO6NXWFZPCFFFa4UNFC7wQqOhPKfzHx;cJJS4RQPq7NwwYznrfo4YQ=="
+secured: "FZDiKcJpueqbEkDWxdW4dRDRY2evosF87UV6s2kdBH+Q2VLhkPR6IBZBe1vGDge2MYKuJAUl4n7KKChwbCR0E2ObF5y9rgowxH0dUMiaorKzmlqtvyPr7WPUpXDimdvmSoZmzDYJ6MF0IuHfAQVL/y9Dqz1++Tgcy0Zrrzr54RxVoagj9kmp0Zc1yNGDbsm6YhVkovrqMgTH/MQbPw0RPUYjRDFE+XGOsR2UO2/7HUolC3VJZPCkg8FNeKvxkbznVFO1IO84TRh3fPgUBEFbZJ34JDXxLuYSN7pyXvk/1Q7kMfsnoBcOdT4xYiPSANlS;RNxV48yvh5/sW1c3BqMCbw=="
 ---
 

@@ -38,6 +38,6 @@ related:
       domain: itproportal.com
     quality: 20
 
-secured: "gkN+86hDjQ7epMrc6aFS36PqGaJcyF7yvLrYqiAD9ZeWHwzgEVGTZvtSs8eb3BFEHeqiASFZaiSHa1d81LXGOLbxiIp208jC+N52AU2ekAHF6QjvZWhkVZgmEoiL73FzogsnBfUOmxkv+2ZFe2yj3+2aSn1NrNtOM9rf/LjTOwkwW0LhqXJflz0OTFAYVF5FNw6QGXFM72+UVC4NDFdY9TPOg98MIRniIsk0ZFtIHD49ezlx5bMwmdF/MMekNqXm87wW1tLJxeEA5A752EKhBZlDWdV+pRlEJd5C+P/V0e5uHiZ/8blqqGOls1uwftmI;LN0jjSNHDTiwDYWGgjSeng=="
+secured: "/uRe6Vcix0f5eXKpGBf0yC/jCkC+Hpi76eyNuxl9x1VjPKXkFO4LDKam8znfqZpifrKcVh2qlRLla3eCaYBSsKHM0cgj/xdMfZnGzr9S6bKQ51vsTvamILZ9PTQA3NIf7jyjQfZwSDfzqJwpWB79urO+tqHQRG8/h/1ZIYAop8GRUSpQUC+nfyFrti90ewZcrtb13a8qQcPvlHGMA0PM2Dpm2GIsHf38rZSt27COdV6H/l3jCxoV9q0H2ILsAO7sAKrITACpNH8BfvOwh/hxdypF5cP7mzU+Iq1JHV9svesoYXna4d6UmfsYd9bWAJlE;cjB2j16ZcpK54rbvc/TBJQ=="
 ---
 

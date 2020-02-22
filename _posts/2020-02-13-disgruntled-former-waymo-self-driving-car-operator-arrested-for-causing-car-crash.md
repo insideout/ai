@@ -45,21 +45,6 @@ related:
       - url: "https://s.marketwatch.com/public/resources/images/MW-HD183_waymo_ZH_20190201153208.jpg"
         width: 890
         height: 501
-  - title: "Tesla Self-Driving Computer architect Jim Keller is confident about solving autonomous driving"
-    excerpt: "Jim Keller, Tesla’s former head of Autopilot hardware and the designer of Tesla’s Self-Driving Computer chip, says that he is confident about solving autonomous driving after working at Tesla. We first exclusively reported on Tesla quietly hiring Keller, a legendary chip designer, from AMD back in 2016 and we were fairly excited by the ..."
-    publishedDateTime: 2020-02-08T02:43:00Z
-    webUrl: "https://electrek.co/2020/02/07/tesla-self-driving-computer-designer-jim-keller-confident-solving-autonomous-driving/"
-    ampWebUrl: "https://electrek.co/2020/02/07/tesla-self-driving-computer-designer-jim-keller-confident-solving-autonomous-driving/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/02/07/tesla-self-driving-computer-designer-jim-keller-confident-solving-autonomous-driving/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 77
-    images:
-      - url: "https://electrek.co/wp-content/uploads/sites/3/2020/02/Tesla-chip-designer-Jim-keller.jpg?quality=82&strip=all&w=1000"
-        width: 1000
-        height: 484
   - title: "Those Three Clever Dogs Trained To Drive A Car Provide Valuable Lessons For AI Self-Driving Cars"
     excerpt: "We’ve all seen dogs traveling in cars, including how they like to peek out an open window and enjoy the fur-fluffing breeze and dwell in the cacophony of scents that blow along in the flavorful wind."
     publishedDateTime: 2020-02-08T12:42:00Z

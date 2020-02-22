@@ -54,21 +54,6 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/e2sevaTPzwSLrrkLMMC8ntmIiWI=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66310283/vpavic_191202_3827_0025.0.jpg"
         width: 1400
         height: 933
-  - title: "Tesla Self-Driving Computer architect Jim Keller is confident about solving autonomous driving"
-    excerpt: "Jim Keller, Tesla’s former head of Autopilot hardware and the designer of Tesla’s Self-Driving Computer chip, says that he is confident about solving autonomous driving after working at Tesla. We first exclusively reported on Tesla quietly hiring Keller, a legendary chip designer, from AMD back in 2016 and we were fairly excited by the ..."
-    publishedDateTime: 2020-02-08T02:43:00Z
-    webUrl: "https://electrek.co/2020/02/07/tesla-self-driving-computer-designer-jim-keller-confident-solving-autonomous-driving/"
-    ampWebUrl: "https://electrek.co/2020/02/07/tesla-self-driving-computer-designer-jim-keller-confident-solving-autonomous-driving/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/02/07/tesla-self-driving-computer-designer-jim-keller-confident-solving-autonomous-driving/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 77
-    images:
-      - url: "https://electrek.co/wp-content/uploads/sites/3/2020/02/Tesla-chip-designer-Jim-keller.jpg?quality=82&strip=all&w=1000"
-        width: 1000
-        height: 484
   - title: "Those Three Clever Dogs Trained To Drive A Car Provide Valuable Lessons For AI Self-Driving Cars"
     excerpt: "We’ve all seen dogs traveling in cars, including how they like to peek out an open window and enjoy the fur-fluffing breeze and dwell in the cacophony of scents that blow along in the flavorful wind."
     publishedDateTime: 2020-02-08T12:42:00Z

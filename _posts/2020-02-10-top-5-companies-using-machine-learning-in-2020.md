@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-10T18:43:00Z
 webUrl: "https://medium.com/@sushmithagowda216/top-5-companies-using-machine-learning-in-2020-cb5558468da9"
 type: article
 quality: 71
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -27,21 +27,6 @@ images:
     width: 800
     height: 445
     title: "Top 5 companies using Machine Learning in 2020"
-
-related:
-  - title: "Artificial Intelligence in Medical Imaging Market Sees Promising Growth during 2019-2025"
-    excerpt: "An extensive elaboration of the Global Artificial Intelligence in Medical Imaging market strategy of the industry players in the precision of import/export consumption, supply and demand. The study starts with an introduction about the company/manufacturers profiling stating strategic concept behind business using methods to assess and analyze market."
-    publishedDateTime: 2020-02-08T02:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medical-imaging-market-sees-promising-growth-during-2019-2025-2020-02-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
 
 secured: "4WDbfdXPWGzFS+WazpKWs9o4Pcy/hTsf7cdKoD8wKeGsOZhzTAlEnORTLIEfUMqmkYXhv8Zu8n8kbU8Qmj+PggdrduySQ0nE/eOozfa5KtopU6WdJNOTsgMddm4G9WfHu8vHDTJvgtfH7WdpvTOGXVnU4olG3T+Og5THbrkabCk56o+RiE2fwcUZ5jg4e13Y/Dpct9nvO3iDfzSUzM0j+sC+shaUpVhx5DW3M1sM6+tvu18T0uyM+G/Rxg3fI5KMI1OpyHg5PVwl2Y5FEtGRdTxm4jbtwil0HErzdAAacR+jqYWGosy/EeSu7YGJQJ2Q2qpzvnjV9lyTkMy49gaQh+SGJ3QCRL67mKHEfDady1Abc7HStE7rkgwIgQjXLamSqGugS53bGZ8t8i6J1bF2zYIO4D6HfFZpu6eGQm7KLV2bbnW1K4GgmC7IX+7aybDIK/yhNGSLjpHGA7R/hCDoXyxYr+YmsjRJ/drR0QvTbnw=;O5Xn6i5qyBwTnJVPtINzBQ=="
 ---
