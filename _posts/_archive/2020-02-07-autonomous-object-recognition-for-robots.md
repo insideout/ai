@@ -18,29 +18,16 @@ topics:
   - Computer Vision
 
 related:
-  - title: "Raspberry Pi outdoor camera with object recognition"
-    excerpt: "Technology enthusiast and environmentalist Paul Kinsella has created a new rugged Raspberry Pi outdoor camera that can be powered by a standard 5 volt micro USB or via the company’s 24-36 volt ..."
-    publishedDateTime: 2020-02-06T11:26:00Z
-    webUrl: "https://www.geeky-gadgets.com/raspberry-pi-outdoor-camera-06-02-2020/"
+  - title: "An AR based procedure to automate image labelling in the context 3D object recognition"
+    excerpt: "This article describes a procedure aimed to ease the toil of labelling images while building your own object recognition system. I will explain the steps I followed and the difficulties I ran into."
+    publishedDateTime: 2020-02-07T19:48:00Z
+    webUrl: "https://medium.com/@alfredo.rubio.arevalo/an-ar-based-procedure-to-automate-image-labelling-in-the-context-3d-object-recognition-a5129b55a755"
     type: article
     provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2020/02/Raspberry-Pi-outdoor-camera.jpg"
-        width: 700
-        height: 500
-  - title: "Soft Error Resilience of Deep Residual Networks for Object Recognition"
-    excerpt: "Abstract: Convolutional Neural Networks (CNNs) have truly gained attention in object recognition and object classification in particular. When being implemented on Graphics Processing Units (GPUs), deeper networks are more accurate than shallow ones. Residual Networks (ResNets) are one of the deepest CNN architectures used in various fields ..."
-    publishedDateTime: 2020-02-13T06:31:00Z
-    webUrl: "https://ieeexplore.ieee.org/document/8963961"
-    type: article
-    provider:
-      name: IEEE
-      domain: ieee.org
-    quality: 19
+      name: Medium
+      domain: medium.com
+    quality: 41
 
-secured: "bnFuOHSYCnMBGHCR4n8GtQeVKe+N9Gu+Q9qr7XYw9i9yTi04o8R3NifNo9+1DmVRiozP50eeFBouljLVj8lbim7w+Dna8qKhadFWTAupS/KCGVy5tkxK1cis2CqH+pF2eql2kzO4F488al9WXD0AbYx9h6CuU1/AqUEvFxiRQq5IAkuiSCAVnAYWkFuJ7++CDEdLM5yJbK0o095Yj6vHnRCOz5HttVN6wsn3KPJ7rEEbMwa/ZihA4v2iU1XG7ZwspmUfgIW1pObeaTHIpyVb7qMtmFEX56UUoL6G+qKeScUq33/djemYnKRPuG1Y12Kv;aJzgCGFdgsA4lbfF4d64+A=="
+secured: "ykGZhvNc063fRyaPGFu9p3mdvDmcdNd4ZAKgzANa+zGl1LGDYtTIXLZijRK26LjEGHdWkfw95ZI6ybjnNoVX4ub1KIAIzlpOg0bNsxYo/y80E/BGw33xj0ZHVPXz/OR5Gs4tF8Kzv6hI20pWtO95MUlrIkKXroM4D1BQnMTcoNMlb/3oeslPXgPyTE/hU8bYLt1yg7m0st6XTWrbdiX4PFP5wLJhXAyHhvqPjggHx0RYw4oQ3DGFW1DXisla4p0Gb32pdA2752UOp5mitI+2l6r5FHGfN+6dOYdZzLbwq4Tw5EpsHEQLmzTZEYyh+Y6o;UBOR8nmyX0xtjIzNZxk9dw=="
 ---
 

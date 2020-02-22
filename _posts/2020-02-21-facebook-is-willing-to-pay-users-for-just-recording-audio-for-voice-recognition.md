@@ -270,6 +270,21 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/Zppqju29nmtX5AdWz3eHoD-1200-80.jpg"
         width: 1000
         height: 600
+  - title: "Facebook will pay you to record your voice"
+    excerpt: "(CNN) — Facebook will pay you for your voice, but don’t expect to get wealthy. The company is paying selected people to record phrases to improve its voice recognition tools. It’s asking them record the phrase, “Hey Portal, call…” which is its camera-equipped home device, followed by saying the first name of a Facebook friend twice ..."
+    publishedDateTime: 2020-02-21T17:32:00Z
+    webUrl: "https://fox6now.com/2020/02/21/facebook-will-pay-you-to-record-your-voice/"
+    ampWebUrl: "https://fox6now.com/2020/02/21/facebook-will-pay-you-to-record-your-voice/amp/"
+    cdnAmpWebUrl: "https://fox6now-com.cdn.ampproject.org/c/s/fox6now.com/2020/02/21/facebook-will-pay-you-to-record-your-voice/amp/"
+    type: article
+    provider:
+      name: FOX6 Milwaukee
+      domain: fox6now.com
+    quality: 44
+    images:
+      - url: "https://localtvwiti.files.wordpress.com/2018/10/untitled-26.jpg?quality=85&strip=all"
+        width: 729
+        height: 410
   - title: "Facebook Will Pay You For Sharing Your Voice Recordings: Here's How You Can Earn"
     excerpt: "The program will be rolled out to select users with 75 or more Facebook friends Facebook has been repeatedly caught with its hand in the cookie jar when it comes to sharing user data. It was caught in August last year hiring third-party contractors for reviewing and transcribing user audio clips,"
     publishedDateTime: 2020-02-21T09:00:00Z

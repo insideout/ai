@@ -1,0 +1,41 @@
+---
+category: news
+title: "Linden self-driving shuttle out of service after woman said she was thrown from seat"
+excerpt: "COLUMBUS (WCMH) — The Linden self-driving shuttle is out of operation after a person fell on that shuttle just yesterday. Since this shuttle has been put into action on Feb. 5, Smart Columbus has recorded around 50 people riding the shuttle around the Linden area and no problems. Both of the shuttles are sitting in a garage until shuttles ..."
+publishedDateTime: 2020-02-22T00:21:00Z
+webUrl: "https://www.nbc4i.com/news/local-news/linden-self-driving-shuttle-out-of-service-after-woman-said-she-was-thrown-from-seat/"
+ampWebUrl: "https://www.nbc4i.com/news/local-news/linden-self-driving-shuttle-out-of-service-after-woman-said-she-was-thrown-from-seat/amp/"
+cdnAmpWebUrl: "https://www-nbc4i-com.cdn.ampproject.org/c/s/www.nbc4i.com/news/local-news/linden-self-driving-shuttle-out-of-service-after-woman-said-she-was-thrown-from-seat/amp/"
+type: article
+quality: 52
+heat: 62
+published: false
+
+provider:
+  name: NBC4i
+  domain: nbc4i.com
+
+topics:
+  - AI
+  - AI in Autos
+
+images:
+  - url: "https://www.nbc4i.com/wp-content/uploads/sites/18/2020/02/Shuttle.jpg?w=1280&h=720&crop=1"
+    width: 1280
+    height: 720
+    title: "Linden self-driving shuttle out of service after woman said she was thrown from seat"
+
+related:
+  - title: "City Starts Self-Driving Shuttle Service"
+    excerpt: "Smart Columbus has started daily operations of a public, self-driving shuttle in a residential area. The vehicle is operating in the South Linden neighborhood or Columbus, Ohio."
+    publishedDateTime: 2020-02-17T22:17:00Z
+    webUrl: "https://www.mediapost.com/publications/article/347148/city-starts-self-driving-shuttle-service.html"
+    type: article
+    provider:
+      name: MediaPost
+      domain: mediapost.com
+    quality: 4
+
+secured: "T85vU4AVh6aSPaSlRqwmQm2STpYHffV3Ksyj6RR+k4e+1NoYHrozkMjetE7RWMVq7R8NI1TH0llyvCnTzolyC0kgEfSpJ7z6u7mK/qS+Pz9M+OPcIVJTt4zDWmuTMzSH73FesifWtEffRN+y3swrsNLkU2fwQVm6SbhkvOmL+bMtPcUGBccwOLBiRtUDnsWFRUhgJCcbdYvGHtcl7pRCPQnhWWF0f9XpfB4AzONsIoFuKvZJJCZ2fSHDiogf77IkVQkd8IO2/7/5ae7RwvxYjd1yc1nmM4inHcsZLRAq+9jw4Q+49Ye4LfH3QbUA5WDw;+uwKxHRLOM9BAuZT5h8aHw=="
+---
+

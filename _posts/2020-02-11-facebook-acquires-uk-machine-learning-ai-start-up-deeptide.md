@@ -78,21 +78,6 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/01/28/facebook-reports-it-is-closer-to-setting-up.jpg"
         width: 1024
         height: 682
-  - title: "Facebook & Twitter sent cease and desist letters to creepy AI startup"
-    excerpt: "This AI has been fed over 3 billion publically available images and can now identify almost anyone at the drop of a hat. Clearview, the company behind the AI, has been pushing into government and law enforcement as they believe what they have created can assist in investigations. According to a Facebook spokesperson who spoke to Buzzfeed News ..."
-    publishedDateTime: 2020-02-07T07:48:00Z
-    webUrl: "https://www.tweaktown.com/news/70457/facebook-twitter-sent-cease-and-desist-letters-to-creepy-ai-startup/index.html"
-    ampWebUrl: "https://www.tweaktown.com/news/70457/facebook-twitter-sent-cease-and-desist-letters-to-creepy-ai-startup/amp.html"
-    cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/70457/facebook-twitter-sent-cease-and-desist-letters-to-creepy-ai-startup/amp.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 57
-    images:
-      - url: "https://images.tweaktown.com/news/7/0/70457_01_facebook-sends-cease-and-desist-to-facial-recognition-startup-clearvie.png"
-        width: 620
-        height: 343
 
 secured: "Uwv4a0mS29mpvMrhKFqspH2f4oLC8dn2g7GwVBQD1CyJ0Pe8zshPGjoY+yaVtkvq47E4EhuFh25CL01TCXQBbhK3kT+Vb8eBr//Hjx+eC/bFb9Nw7vGSpB7YHjUomot2VWdrIvEVTZKPZAhp60mqjGz2rQoeboo0qddarbXu+WgqSi1u/wKXYjZmO/exPF7AkmexBk+3wJUAc11LCqBDIXd9xlsaIRkPZd+FYWMdPJXOWo3KAip+AXH7TZGuOOmwAWYNWCWpu2CXLFnkWOPSzqY/HcyWDJ9V9IaPjkzI/szqD9TmiPZFOoT4w9ZTYu0D;hpuxD3k4Ik7s4UkKj4k94w=="
 ---

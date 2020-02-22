@@ -71,21 +71,6 @@ related:
       - url: "https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2020/02/scape-technologies.jpg"
         width: 1920
         height: 1080
-  - title: "Facebook & Twitter sent cease and desist letters to creepy AI startup"
-    excerpt: "This AI has been fed over 3 billion publically available images and can now identify almost anyone at the drop of a hat. Clearview, the company behind the AI, has been pushing into government and law enforcement as they believe what they have created can assist in investigations. According to a Facebook spokesperson who spoke to Buzzfeed News ..."
-    publishedDateTime: 2020-02-07T07:48:00Z
-    webUrl: "https://www.tweaktown.com/news/70457/facebook-twitter-sent-cease-and-desist-letters-to-creepy-ai-startup/index.html"
-    ampWebUrl: "https://www.tweaktown.com/news/70457/facebook-twitter-sent-cease-and-desist-letters-to-creepy-ai-startup/amp.html"
-    cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/70457/facebook-twitter-sent-cease-and-desist-letters-to-creepy-ai-startup/amp.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 57
-    images:
-      - url: "https://images.tweaktown.com/news/7/0/70457_01_facebook-sends-cease-and-desist-to-facial-recognition-startup-clearvie.png"
-        width: 620
-        height: 343
   - title: "Facebook acquires UK machine learning AI start-up Deeptide"
     excerpt: "A regulatory filing at Companies House shows that Facebook now controls 75 percent or more of shares in Deeptide, which controls Atlas ML, the company behind the 'Papers with Code' resource for machine learning. According to unnamed sources from London's ..."
     publishedDateTime: 2020-02-11T10:11:00Z

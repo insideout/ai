@@ -7,8 +7,8 @@ webUrl: "https://www.forbes.com/sites/bernardmarr/2020/02/21/the-amazing-ways-go
 ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2020/02/21/the-amazing-ways-goodyear-uses-artificial-intelligence-and-iot-for-digital-transformation/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/02/21/the-amazing-ways-goodyear-uses-artificial-intelligence-and-iot-for-digital-transformation/amp/"
 type: article
-quality: 78
-heat: 108
+quality: 80
+heat: 120
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e4f6b9f765d4500072cd7f2%2F0x0.jpg"
@@ -64,6 +65,15 @@ related:
       name: ETCIO.com
       domain: indiatimes.com
     quality: 37
+  - title: "Myntra accelerates its digital transformation journey with Microsoft cloud"
+    excerpt: "By building and centralizing its data platform on Azure, Myntra is applying advanced analytics and machine learning to gain a comprehensive understanding of customers and deliver highly personalized products, marketing, and service for them. The company is using Microsoft Power BI to empower its employees to visualize and act on real-time ..."
+    publishedDateTime: 2020-02-22T00:19:00Z
+    webUrl: "https://www.newkerala.com/news/2020/27853.htm"
+    type: article
+    provider:
+      name: New Kerala
+      domain: newkerala.com
+    quality: 17
 
 secured: "VZ8bMMdNBn2ervkvE/21ZdfUyJsig9G3Cfs5StLxId4nS7EytiOmh2Ct+CftN1+yfBmy4X5g9Wf/AGfBx3F6oln81B3SrOkyLsucJc7AdsTk4fS0ta43xkTf6/Afl6Hqw7NDyNk1LtSiH/mwBwSgVyMb449IRHU7fQVraxjSqkAqA/38CbRnguWyLAyHj0VHd9I3AXyUOdoAGhSte45A9mrIzSsZAQSG1qrwxcrHG5jDXalbAwbRURyKXieZJjTXwMn6KN6zAL2w5aEybmqJFiYHx6hRHNGyiOI1Zawkihr45UR1bpP33eIjrWBuAYutbxUfzArrbDvL1ONN0nRUa0e6nqHuqeplIyjIwNzKw9YlIhWW+AgaXhiHdtpqHt+QyxyCeJOwV0tw5Uy2KA/VgPB1uVLseCMOlVR4ApX8YouealG2LZKR1M2S7CNUEVgM3Kp/4ramsckZUCMB9womIN8NEzkTRXEc8Nb4m9vxRic=;dDUD7vh8ZJ2ISGqGhcoGRA=="
 ---

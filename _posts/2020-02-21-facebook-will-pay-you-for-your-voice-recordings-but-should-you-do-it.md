@@ -254,6 +254,21 @@ related:
       - url: "https://static.toiimg.com/photo/msid-74238121/74238121.jpg"
         width: 800
         height: 600
+  - title: "Facebook will pay you to record your voice"
+    excerpt: "(CNN) — Facebook will pay you for your voice, but don’t expect to get wealthy. The company is paying selected people to record phrases to improve its voice recognition tools. It’s asking them record the phrase, “Hey Portal, call…” which is its camera-equipped home device, followed by saying the first name of a Facebook friend twice ..."
+    publishedDateTime: 2020-02-21T17:32:00Z
+    webUrl: "https://fox6now.com/2020/02/21/facebook-will-pay-you-to-record-your-voice/"
+    ampWebUrl: "https://fox6now.com/2020/02/21/facebook-will-pay-you-to-record-your-voice/amp/"
+    cdnAmpWebUrl: "https://fox6now-com.cdn.ampproject.org/c/s/fox6now.com/2020/02/21/facebook-will-pay-you-to-record-your-voice/amp/"
+    type: article
+    provider:
+      name: FOX6 Milwaukee
+      domain: fox6now.com
+    quality: 44
+    images:
+      - url: "https://localtvwiti.files.wordpress.com/2018/10/untitled-26.jpg?quality=85&strip=all"
+        width: 729
+        height: 410
   - title: "Facebook is willing to pay users for just recording audio for voice recognition"
     excerpt: "San Francisco: Facebook has announced it will pay select users who agree to record their voice to improve its speech recognition technology. According to The Verge, the social networking giant company will pay select users to record snippets of audio through a new programme called \"Pronunciations\" in its Viewpoints market research app."
     publishedDateTime: 2020-02-21T07:07:00Z

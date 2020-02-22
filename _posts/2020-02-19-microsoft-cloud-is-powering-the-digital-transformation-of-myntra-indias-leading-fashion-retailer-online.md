@@ -34,7 +34,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 78
+    quality: 80
     images:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e4f6b9f765d4500072cd7f2%2F0x0.jpg"
         width: 1200
@@ -61,6 +61,15 @@ related:
       name: ETCIO.com
       domain: indiatimes.com
     quality: 37
+  - title: "Myntra accelerates its digital transformation journey with Microsoft cloud"
+    excerpt: "By building and centralizing its data platform on Azure, Myntra is applying advanced analytics and machine learning to gain a comprehensive understanding of customers and deliver highly personalized products, marketing, and service for them. The company is using Microsoft Power BI to empower its employees to visualize and act on real-time ..."
+    publishedDateTime: 2020-02-22T00:19:00Z
+    webUrl: "https://www.newkerala.com/news/2020/27853.htm"
+    type: article
+    provider:
+      name: New Kerala
+      domain: newkerala.com
+    quality: 17
 
 secured: "uV3jSbJgnbrm2ubbs810/6NS8tKvB1XgSdn2g8rGSHVtkXsRP9sH1TzrebZkIZiS8a9biQTwr+k1FLE1QrMb1ErueSpuKz+Kk1L4HcUkiQYQppstlP688sIm7u84WSd7vnFUmJecjlB878gA9Sj1JQXUoQgA5I9Jif7ldWdegVicQWEABbxhTzV3bRS7EqvWngPnzGRP571+L0otLCtMIA2ZGHJPkoWlsq6pg6av/UCKeYXHADY3KHbGB6JRGbjALm34Y8O1CkvhxdLVKLjrJArKgPWOSjaI73CKIZl7Z2GSfpQ0O3yFegtGA0CQuLipKBQIN8nk28d1tCMM4t3WKKXBD6qKL2yPlaqmwmosjsqC17BqCvbjEC/sXcAiFlbNvhtRqU8x0PwMVU2MPWuFh0yzZmKJB5Z+lo0wkCgpZ0xoJ7F2vcveSC3Pdl1q3uxB9NgxmJAEn31kSY7DNyynVtb/GDg5l6+tXrxmbM2qen0=;TTwbHFXCvGRg5IyypntKlQ=="
 ---

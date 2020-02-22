@@ -28,6 +28,6 @@ images:
     height: 545
     title: "Breakingviews - Bank of England’s AI approach will toughen up"
 
-secured: "vvyGCXS/ucbXsylD263sw5giysrGuN9aXQdhzYbI9DJVRtiQS3Y72zHBre+vP8cwSwKEj3qj8vu7v15y8tRzbMclA2SXzuWfkO7w1PmYtwC+hE3RxnUXrEQ5DcuCDSLPZGk/dOP2jZpsOw3eK5oK6sEyA7crjVE+7bHjjwhKli7ix8Hz3rkibAe1bdaje++oDPOPus2XW06n24COTphxDW9Um2rH8Q+iz1xNiC20z1P4kiqrO0EJcgYUUT9V1G/Kl/06MTZBcdSpVcDRmwODZelgRZC8Zp0boFTsAXYJLUyT1+XgGs6Xt8R7G201bb/9;iyPF7hQ40+d8PnVj6iMTDQ=="
+secured: "0fmwJuPr1JFLDSL1VLb4inbQN2WrOYdnwTdi3zlr8XtlroGcbfd9JqiDyfbXJ5L6NBZMGn+K7PTpGiqKHmGzb0jiVJxxiRXpiuqf3Pxx29O345yMYdJASrhXLMqXM/TLVhyaI5V6K349sNttAJ9BSKHSo1g9tSdFa7V7VuJaHQuVcyKRXZs9EGp9FNX44cOUCD6WwUZwteZ6QeQSKSCTHHI8jFDYqJOmcpSqN3bYjflppGXW83z//l03ey1MPhFxg/QicAb0RcUmg2rfSWdfpm89ijZgZbb9gBhtZ94MPV+cvLWtzlmF+5t3mRWQf8Oj;I9gt8GcrzlWjYncZKzgfQQ=="
 ---
 

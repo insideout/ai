@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-11T06:00:00Z
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-healthcare-market-hits-record-value-of-usd-178-billion-by-2025-2020-02-11"
 type: article
 quality: 85
-heat: 215
+heat: 205
 published: true
 
 provider:
@@ -90,19 +90,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Global Healthcare Artificial Intelligence Market Analysis 2020 - Dynamics, Trends, Revenue, Regional Segmented, Outlook & Forecast Till 2026"
-    excerpt: "Global Healthcare Artificial Intelligence Industry Overview The Global Healthcare Artificial Intelligence Market has been servicing the customers for several years. The market has seen several ups and downs due to changing government policies,"
-    publishedDateTime: 2020-02-07T07:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-healthcare-artificial-intelligence-market-analysis-2020---dynamics-trends-revenue-regional-segmented-outlook-forecast-till-2026-2020-02-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

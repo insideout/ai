@@ -93,19 +93,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Global Healthcare Artificial Intelligence Market Analysis 2020 - Dynamics, Trends, Revenue, Regional Segmented, Outlook & Forecast Till 2026"
-    excerpt: "Global Healthcare Artificial Intelligence Industry Overview The Global Healthcare Artificial Intelligence Market has been servicing the customers for several years. The market has seen several ups and downs due to changing government policies,"
-    publishedDateTime: 2020-02-07T07:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-healthcare-artificial-intelligence-market-analysis-2020---dynamics-trends-revenue-regional-segmented-outlook-forecast-till-2026-2020-02-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "Global Artificial Intelligence Market Is Projected to Reach $390.9 Billion by 2025: Report"
     excerpt: "all of which have contributed to the swift uptake of artificial intelligence technology in end-use industries such as automotive and healthcare,” the release stated."
     publishedDateTime: 2020-02-13T01:42:00Z
@@ -186,6 +173,6 @@ related:
       domain: benzinga.com
     quality: 0
 
-secured: "/nT4saIbAvSK7TApIrK12to6nb6N76c7AbUQsm4n6ut0aftz1s0ogu0ggJWmuZycdba5cFMiTvk5sCzY3qnW3Czu38yHW0+8Bp/23ZpkEmfzfWILgH95b7a3nezSyb03NYGvbpAvpeWXVw8v6X0+DmgU4f/RsLMDuNuMBeclCKIPD//EzFKwuO4ppnMKin0zUSDUyl/MRXNFYKSAkBlyZPZ0KLMaq5plpnS3O7n96NPjr5v6iqeh+EX0HeSHHGEpm96WqMZvOumgGaA6fm89L1ZL3IFAhzfmnZncR5UPgoVGJ3746b9XdmzjIhqmW777;BCQqkxHUf44JWOUOtGpe7g=="
+secured: "ohVzGIzpdOgOIVv88iISx9BQ5MIij4CKITo5+FnkTbuyP+IK0oCU3MNbZuXuLvzd12WnLwGfZ7F1WzOKw6+T6PmUIdtOGDhLf40qnDS7KCdx3I00x0JZskx8oU9iSdZwETcC0VbdQuDlN3ukocHKw6f+q/Uy5t983j1eegZ58q1uyAvKRKO9mhIAAq2kLLFjex3oNlZWHcoI3olHObtIRkHSn2bjYqOxh4/WS12X+E6SM/9o9NJua9Vq3Xi2zMZr3Cxg9D4RH/5p4R+ETb0OXxLhiwjHjUhF88E88aj4E+PGR4p8kTrR/OK1IJL6rOTZ;/Vrf9pm/MYeDZGguwe/55A=="
 ---
 

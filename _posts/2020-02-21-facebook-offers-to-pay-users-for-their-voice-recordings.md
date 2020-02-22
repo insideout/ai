@@ -254,6 +254,21 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/Zppqju29nmtX5AdWz3eHoD-1200-80.jpg"
         width: 1000
         height: 600
+  - title: "Facebook will pay you to record your voice"
+    excerpt: "(CNN) — Facebook will pay you for your voice, but don’t expect to get wealthy. The company is paying selected people to record phrases to improve its voice recognition tools. It’s asking them record the phrase, “Hey Portal, call…” which is its camera-equipped home device, followed by saying the first name of a Facebook friend twice ..."
+    publishedDateTime: 2020-02-21T17:32:00Z
+    webUrl: "https://fox6now.com/2020/02/21/facebook-will-pay-you-to-record-your-voice/"
+    ampWebUrl: "https://fox6now.com/2020/02/21/facebook-will-pay-you-to-record-your-voice/amp/"
+    cdnAmpWebUrl: "https://fox6now-com.cdn.ampproject.org/c/s/fox6now.com/2020/02/21/facebook-will-pay-you-to-record-your-voice/amp/"
+    type: article
+    provider:
+      name: FOX6 Milwaukee
+      domain: fox6now.com
+    quality: 44
+    images:
+      - url: "https://localtvwiti.files.wordpress.com/2018/10/untitled-26.jpg?quality=85&strip=all"
+        width: 729
+        height: 410
   - title: "Facebook is willing to pay users for just recording audio for voice recognition"
     excerpt: "San Francisco: Facebook has announced it will pay select users who agree to record their voice to improve its speech recognition technology. According to The Verge, the social networking giant company will pay select users to record snippets of audio through a new programme called \"Pronunciations\" in its Viewpoints market research app."
     publishedDateTime: 2020-02-21T07:07:00Z
@@ -361,6 +376,6 @@ related:
         width: 1763
         height: 1175
 
-secured: "n+MvCHm66uVy15Q3vCy6TKECyTBn3onyE/UjHoWH1uE8uOjSNFNFh7bmIn8oWcellPDvy800txow3lSPQRUrd0NcRA0f7CNUoRKLjZN8xOhWos/7sxSom+MzHRZxgKEvQUkA8ZD9pel7VITLU6EmFjJb6h0PDLfER4isrbkUIMTn6ngJJ+MKdFw2sj8OEI1b+D6HuHcwVBTzF3w90B9bFeDAOyOtCYq1F5Oncbcq9kXa74vVCriK+vVWtMW/aJQ7u4qsBXQVtq4WSdNOgm9yYRpCOuf4dK64sGK8XRg7OFRNjw6IhTHG1V4ANUtImjPG;nP7+bg3b+7nMv3rF2EECuQ=="
+secured: "d7L8/UzldnHBdH56uzOtV2kH/uS7zXhV3IYzVRYzD3I8jI4mLz2+Cc98TzLD5RJPFdjb574wtejJ3XSlsKJEfmmP3Ls/9YXbPDxmg0W+AeGPAJn2PGZOml7idtFWuFt5hWMfSYxsmwKTKXlvdNbA2QBz5KQyeCsfjbEYdiRcnGQ5O6OZGFteo82p73jURldIbSg6NZN3LnNy+gZ7aaMteNBEgRFe5Z1ueso0Ru2xjP/0+SWaz7ukVkqquy3EdHLhm8o8rZCPS0mWI1757mstPU09GWmZJf0Dqhuia3dLp6K6rzgGwG/jz6qjB1c/tm9yTpZ5jRCECCB5Qk28RdKAdeGQ58PhYVhCpPB9oftDbXqrZ6JcY+hn43jR0gL45CjDawX5hcmUlQwlbH0dmPYtgcyf486gEBzHxmpfKKUPszeNwA3PihKfrJeitwEbaaMiKv32rfd9EwISWDCnJ0RR9aJopb9mL3fTGJfo3NSG0Ac=;DqNNOPZkSEfttntoeHnpDA=="
 ---
 

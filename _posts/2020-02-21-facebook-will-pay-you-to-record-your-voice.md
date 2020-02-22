@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Facebook users to get paid for voice recordings; company wants to improve speech recognition"
-excerpt: "In an attempt to improve its voice recognition technology, social media giant Facebook could pay users who agree to record their voice. The move comes after reports suggested that the company — along with Apple, Google, Microsoft, and Amazon — was caught listening to and transcribing voice recordings to improve its speech recognition ..."
-publishedDateTime: 2020-02-21T13:38:00Z
-webUrl: "https://www.moneycontrol.com/news/technology/facebook-users-to-get-paid-for-voice-recordings-company-wants-to-improve-speech-recognition-4965781.html"
-ampWebUrl: "https://www.moneycontrol.com/news/technology/facebook-users-to-get-paid-for-voice-recordings-company-wants-to-improve-speech-recognition-4965781.html/amp"
-cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/facebook-users-to-get-paid-for-voice-recordings-company-wants-to-improve-speech-recognition-4965781.html/amp"
+title: "Facebook will pay you to record your voice"
+excerpt: "(CNN) — Facebook will pay you for your voice, but don’t expect to get wealthy. The company is paying selected people to record phrases to improve its voice recognition tools. It’s asking them record the phrase, “Hey Portal, call…” which is its camera-equipped home device, followed by saying the first name of a Facebook friend twice ..."
+publishedDateTime: 2020-02-21T17:32:00Z
+webUrl: "https://fox6now.com/2020/02/21/facebook-will-pay-you-to-record-your-voice/"
+ampWebUrl: "https://fox6now.com/2020/02/21/facebook-will-pay-you-to-record-your-voice/amp/"
+cdnAmpWebUrl: "https://fox6now-com.cdn.ampproject.org/c/s/fox6now.com/2020/02/21/facebook-will-pay-you-to-record-your-voice/amp/"
 type: article
-quality: 63
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: moneycontrol.com
-  domain: moneycontrol.com
+  name: FOX6 Milwaukee
+  domain: fox6now.com
 
 topics:
   - AI
   - Natural Language Processing
 
 images:
-  - url: "https://static-news.moneycontrol.com/static-mcnews/2018/08/Uttar-Pradesh-Chief-Minister-Yogi-Adityanath-378x213.jpg"
-    width: 378
-    height: 213
-    title: "Facebook users to get paid for voice recordings; company wants to improve speech recognition"
+  - url: "https://localtvwiti.files.wordpress.com/2018/10/untitled-26.jpg?quality=85&strip=all"
+    width: 729
+    height: 410
+    title: "Facebook will pay you to record your voice"
 
 related:
   - title: "Facebook will now pay you for your voice recordings"
@@ -86,6 +86,21 @@ related:
       - url: "https://static.techspot.com/images2/news/ts3_thumbs/2020/02/2020-02-21-ts3_thumbs-1fe.jpg"
         width: 800
         height: 560
+  - title: "Facebook users to get paid for voice recordings; company wants to improve speech recognition"
+    excerpt: "In an attempt to improve its voice recognition technology, social media giant Facebook could pay users who agree to record their voice. The move comes after reports suggested that the company — along with Apple, Google, Microsoft, and Amazon — was caught listening to and transcribing voice recordings to improve its speech recognition ..."
+    publishedDateTime: 2020-02-21T13:38:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/facebook-users-to-get-paid-for-voice-recordings-company-wants-to-improve-speech-recognition-4965781.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/facebook-users-to-get-paid-for-voice-recordings-company-wants-to-improve-speech-recognition-4965781.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/facebook-users-to-get-paid-for-voice-recordings-company-wants-to-improve-speech-recognition-4965781.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 63
+    images:
+      - url: "https://static-news.moneycontrol.com/static-mcnews/2018/08/Uttar-Pradesh-Chief-Minister-Yogi-Adityanath-378x213.jpg"
+        width: 378
+        height: 213
   - title: "Facebook will pay users to improve its speech recognition"
     excerpt: "Last year, Facebook abandoned its practice of listening to Messenger audio chats in order to improve its AI speech recognition. Now ... The Verge reports that selected users will be asked to record short phrases via its Viewpoints market research app. If you qualify, you’ll have all the fun of saying “Hey Portal” and then the name ..."
     publishedDateTime: 2020-02-21T09:07:00Z
@@ -254,21 +269,6 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/Zppqju29nmtX5AdWz3eHoD-1200-80.jpg"
         width: 1000
         height: 600
-  - title: "Facebook will pay you to record your voice"
-    excerpt: "(CNN) — Facebook will pay you for your voice, but don’t expect to get wealthy. The company is paying selected people to record phrases to improve its voice recognition tools. It’s asking them record the phrase, “Hey Portal, call…” which is its camera-equipped home device, followed by saying the first name of a Facebook friend twice ..."
-    publishedDateTime: 2020-02-21T17:32:00Z
-    webUrl: "https://fox6now.com/2020/02/21/facebook-will-pay-you-to-record-your-voice/"
-    ampWebUrl: "https://fox6now.com/2020/02/21/facebook-will-pay-you-to-record-your-voice/amp/"
-    cdnAmpWebUrl: "https://fox6now-com.cdn.ampproject.org/c/s/fox6now.com/2020/02/21/facebook-will-pay-you-to-record-your-voice/amp/"
-    type: article
-    provider:
-      name: FOX6 Milwaukee
-      domain: fox6now.com
-    quality: 44
-    images:
-      - url: "https://localtvwiti.files.wordpress.com/2018/10/untitled-26.jpg?quality=85&strip=all"
-        width: 729
-        height: 410
   - title: "Facebook is willing to pay users for just recording audio for voice recognition"
     excerpt: "San Francisco: Facebook has announced it will pay select users who agree to record their voice to improve its speech recognition technology. According to The Verge, the social networking giant company will pay select users to record snippets of audio through a new programme called \"Pronunciations\" in its Viewpoints market research app."
     publishedDateTime: 2020-02-21T07:07:00Z
@@ -376,6 +376,6 @@ related:
         width: 1763
         height: 1175
 
-secured: "jqWtp8jUQFq6RAdEREUIQl/HEvE0N/uEl/xWb60ZaJpLI5nVqjtgW8PqmWFsI5rf7EQNdO9XxPrl7Oy0vczoA5a3BsB0O2+KpGi8dyjez+SCCqobuR20WDEqLbluu7+2etlHNM6yl0LOTsUd6ASspbwhElaNzf8frRenHCJC5LuhjeTbymI4sw/GfGbPv+MBzNht3BZaZWsLpPQs4L2CNUVlJbz24JJFWerNxYFMwsohdiHWaRrJVDUESJOou37+CtgwyzWdpUEMncd+yTYrVvZgcm9FcfFzS6gUYz0FDjXCw3s2iFG1Bl0Xx6PbJntFOXDlHoUZe2e+K5DT5/N18RqUtcsDNNI20wJszCVNyjQKOmURrCRCei+75a3rL20b9LqJwS+os8nijpfSM6az/56CXhweeAB7mtt5OWFMiqTQ1MpS2NlOc1wrEAF4hG0KWB1S7Ewe8rFfAbsfC5goRMf4kysXdAbxUdcchiI2ouE=;LhC8ZhJILz0s/YjgNBAVbw=="
+secured: "pu4Jcm5lI4BHrayuYE8ewIlycZDcXwmd/sxjdIwaQjg+RP8Z9dLIsohOmZKhWEJvE37puV5rp0QHPII9IldDOgPYxmHfKTTO2SZUH2RDZx0oWxGeybLITNY0O/pU0N33cKl3/K/yQFJ/mXpw9S169ZewKOcEJq+t2qNRoh1aTQZTX4GZMzINc6g823VVsKoJgf68xT34/VJ1Xm5mqM+ju6fzJmYHIUuNXrWMihmn3zTioK5RbC19PJZ7CulyB6bt5sDoUJIHVal8xDNXiSyylz7+9WzgU83hzSJr6nUfX7tXH2DRRbdB6hvwdlmLjLvn;4gYjqn+2m7D7hSZw6RqlYg=="
 ---
 

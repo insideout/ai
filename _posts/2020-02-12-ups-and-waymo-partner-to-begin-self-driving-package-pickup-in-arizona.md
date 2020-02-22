@@ -25,7 +25,7 @@ images:
 
 related:
   - title: "UPS, Waymo partner to start self-driving package pickup"
-    excerpt: "United Parcel Service (UPS) and self-driving technology company Waymo recently ... Over the last decade, the company has demonstrated leadership in advanced data analytics, artificial intelligence, autonomous drone delivery, robotics and facility automation."
+    excerpt: "United Parcel Service (UPS) and self-driving technology company Waymo recently announced a first-of-a ... Over the last decade, the company has demonstrated leadership in advanced data analytics, artificial intelligence, autonomous drone delivery, robotics and facility automation."
     publishedDateTime: 2020-02-06T03:22:00Z
     webUrl: "https://www.fibre2fashion.com/news/textile-news/ups-waymo-partner-to-start-self-driving-package-pickup-254957-newsdetails.htm"
     type: article

@@ -23,6 +23,6 @@ images:
     height: 627
     title: "Inspur Re-Elected as Member of SPEC OSSC and Chair of SPEC Machine Learning"
 
-secured: "Rbg9//5QjWuTnUvjkOesJ7JS4Xy6NhXDGbhcPedl7eQpQVjBRHbqo87EHB+MIk+9GcoTjiLAGEE9VUXI2o1itp6KFfR7edHjFfwtLfpxyA4q7+FbyVLwhLno/vMOuc/X+SHTAn/3m+o7JT8dss6nJSHo4vpaS3TElrqpRU7EgCNrY5fewff5Yk5EolwI6Xg872euzxPnFw+NlFRgDxbvXOmjXQu2H7nvJKNsCponRod+KJW+E9JxVTqsn4ycjeKYFG0jKBnIF/ah/g9MGX4mQV5UFhqTmvraP+muBUhKm5PYVHlLS4KKXLzmd88WFobF;kTqVSEzOoGnbE1rCOPn9TA=="
+secured: "79B7HB/BlKTLgp+0bOgQmi5d4h9wj08iYIBWkskeHStK+BuL2oz6AHqJtvO2QSrJKK0gigVIS6rPzaAiLg/HyiMN2syUwlFPVBAmNnQyXfS7AvMkyg7d4A9AR81pYzk7L6OjTFhbvRc+pkhYECzJkUS0FiqBxdalVLD7tFn8U8nqMqV288+PIXbuvDVEGrsDuW7NccbCZZPVb8Zb6LkLQswwVGP7WuxLCvc/qvQGnmhRWvf1lsiVsZY8bjPNV/HuwOoJIZyKYWvAeKxshlqzmOngb3pMWRROfbjl7fA8Yt8XrTdZRnW9n3IST6W96Yiunw6dtsBkZ+K0LBE8PQhH/35Iaw1yx5LAHQHbRRLOW83OD4N4t6iL4QdWTqjlWi1LCWeB4ViJyfrbbCtDaH2SAV6dSgsHush7zI/dWdNY+9aUcuFfhtlGPQ/zUlL4udWKuZavhQazYMx0xS47xNiPjPPFBT2IPS62NkcuHBoXOhA=;KFQlqSjUepTdd+AQg+FY/w=="
 ---
 

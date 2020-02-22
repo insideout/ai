@@ -21,6 +21,17 @@ topics:
   - AI
   - Computer Vision
 
+related:
+  - title: "Autonomous Object Recognition for Robots"
+    excerpt: "Reliable object detection and recognition is a difficult task for robots to achieve and, therefore, still remains a challenge when real-world environments are considered. Curiosity, often seen in humans and its primates, drives learning activities."
+    publishedDateTime: 2020-02-07T00:00:00Z
+    webUrl: "https://www.ulster.ac.uk/doctoralcollege/find-a-phd/511643"
+    type: article
+    provider:
+      name: Ulster University
+      domain: ulster.ac.uk
+    quality: 19
+
 secured: "OBI0ruAGCdh+UwA2Q4pkVAnksnK0gQS7GXJucIAdv2qNuJyVbIREPBptUcdoNskvCZye8p66I3UIFRwqvyV8BJXniofVvcMLPN0Nh0hU6YaV9A1N/zQS7lurwdQCa1ciEmF7TfRMvBKbE4uFFXIvXApghJsrMYknMlpx2BwLwaw8a3KBZN+Nw3cebs0pLdk+VbwQMJfHLacNDasg1o+5ulczm4Dtx+WjlDlDlfZJboVHi7IxawuyP5KTt2xCsRz5M3llYoZhPZYXvm7jbTNEKxOLCsTJVfg9NAczay35Sazwder8jhvQwwIMOlm4vZFp;ilPV4KASQSoe/Tw46xtBXQ=="
 ---
 

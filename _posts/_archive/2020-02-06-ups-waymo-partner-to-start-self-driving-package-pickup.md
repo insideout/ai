@@ -1,7 +1,7 @@
 ---
 category: news
 title: "UPS, Waymo partner to start self-driving package pickup"
-excerpt: "United Parcel Service (UPS) and self-driving technology company Waymo recently ... Over the last decade, the company has demonstrated leadership in advanced data analytics, artificial intelligence, autonomous drone delivery, robotics and facility automation."
+excerpt: "United Parcel Service (UPS) and self-driving technology company Waymo recently announced a first-of-a ... Over the last decade, the company has demonstrated leadership in advanced data analytics, artificial intelligence, autonomous drone delivery, robotics and facility automation."
 publishedDateTime: 2020-02-06T03:22:00Z
 webUrl: "https://www.fibre2fashion.com/news/textile-news/ups-waymo-partner-to-start-self-driving-package-pickup-254957-newsdetails.htm"
 type: article
@@ -38,6 +38,6 @@ related:
         width: 700
         height: 450
 
-secured: "dSuu4fYmBSYb0Utb2FpAUyg7w/gf+tngYFP1Z1N2Bw1Z4yqnFRcHgznZ37FJrUAMLwebKmrAwiXIULew/u564cp9RqR05o+e7jpbRLmtf0GvTBCwIAsvnOFtuxTjoIr2xnVhRI/tply5wLJe8p9HFflGGseL8kSSYPKlsDK1/vV0M1sbJyrGK4pjpe3q2lUPjZmfNurM9G+086XVNZ7J7o60vS20bOuG2/vE4/EzZAmClE7u4zi8zD4O+oTwpe1Q/5hlf0ooeMkvSQdL+5D1NLtAGbviHKfYiDDxz+ehp5vHqgL5444Z95hOo2JJWJll;IkMfytgVZve/HCocC8yWVw=="
+secured: "EA//HVE6koxr99fXGpVG8geMMfhhbSOI2TPYdFwG2LJOrSOFG+LKBIW/p7BFEYPZeYSvsyy4jMk+TPs4jv0lHk3gLtixYLqE0Tmx+5wHafKvw4GxZw8zBXCm7C34yM4hGsDlKMm0gfBczQb5JIw0zo8KENbaWy+twaLz6pGBKvviwt2YZJ/A91h/rQgaec50nF88MmQMSb01e2l3Dw7dYg8+3XqBoHN1RVqw9ITOMjW6+P8pd7TG3QbKwufLE/QO+TZ8acPNMWTN21yLZ1DpSk3A0ocfiwpCxGpqOuplyBblvy5/Jmv7Sqs7YaIUg7hG;Bx3twCSFPZymU22QO1X0+g=="
 ---
 

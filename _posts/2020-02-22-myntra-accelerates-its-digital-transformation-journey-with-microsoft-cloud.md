@@ -1,19 +1,17 @@
 ---
 category: news
-title: "Myntra accelerates its digital transformation journey with Microsoft Cloud"
-excerpt: "By building and centralizing its data platform on Azure, Myntra is applying advanced analytics and machine learning to gain a comprehensive understanding of customers and deliver highly personalized products, marketing and service for them. The company is using Microsoft Power BI to empower its employees to visualize and act on real time ..."
-publishedDateTime: 2020-02-19T10:12:00Z
-webUrl: "https://cio.economictimes.indiatimes.com/news/cloud-computing/myntra-accelerates-its-digital-transformation-journey-with-microsoft-cloud/74208035"
-ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/cloud-computing/myntra-accelerates-its-digital-transformation-journey-with-microsoft-cloud/74208035"
-cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/cloud-computing/myntra-accelerates-its-digital-transformation-journey-with-microsoft-cloud/74208035"
+title: "Myntra accelerates its digital transformation journey with Microsoft cloud"
+excerpt: "By building and centralizing its data platform on Azure, Myntra is applying advanced analytics and machine learning to gain a comprehensive understanding of customers and deliver highly personalized products, marketing, and service for them. The company is using Microsoft Power BI to empower its employees to visualize and act on real-time ..."
+publishedDateTime: 2020-02-22T00:19:00Z
+webUrl: "https://www.newkerala.com/news/2020/27853.htm"
 type: article
-quality: 37
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: ETCIO.com
-  domain: indiatimes.com
+  name: New Kerala
+  domain: newkerala.com
 
 topics:
   - AI
@@ -59,16 +57,18 @@ related:
       - url: "https://i1.wp.com/www.onmsft.com/wp-content/uploads/2020/02/myntra-microsoft.jpg?fit=940%2C570&ssl=1"
         width: 940
         height: 570
-  - title: "Myntra accelerates its digital transformation journey with Microsoft cloud"
-    excerpt: "By building and centralizing its data platform on Azure, Myntra is applying advanced analytics and machine learning to gain a comprehensive understanding of customers and deliver highly personalized products, marketing, and service for them. The company is using Microsoft Power BI to empower its employees to visualize and act on real-time ..."
-    publishedDateTime: 2020-02-22T00:19:00Z
-    webUrl: "https://www.newkerala.com/news/2020/27853.htm"
+  - title: "Myntra accelerates its digital transformation journey with Microsoft Cloud"
+    excerpt: "By building and centralizing its data platform on Azure, Myntra is applying advanced analytics and machine learning to gain a comprehensive understanding of customers and deliver highly personalized products, marketing and service for them. The company is using Microsoft Power BI to empower its employees to visualize and act on real time ..."
+    publishedDateTime: 2020-02-19T10:12:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/cloud-computing/myntra-accelerates-its-digital-transformation-journey-with-microsoft-cloud/74208035"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/cloud-computing/myntra-accelerates-its-digital-transformation-journey-with-microsoft-cloud/74208035"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/cloud-computing/myntra-accelerates-its-digital-transformation-journey-with-microsoft-cloud/74208035"
     type: article
     provider:
-      name: New Kerala
-      domain: newkerala.com
-    quality: 17
+      name: ETCIO.com
+      domain: indiatimes.com
+    quality: 37
 
-secured: "o1eUegCOn0HutVTi2y9a9XZVFv6YFqRQRP8azjKTcryRSmleFEu7XBLyp8rUcrbvrY5OW7h1nNnMHxD+jZS0Y9Gwbdd7R7yev4uFv5sIrqU08PHPjIwn6uiVnwI6gib8d7h7l9ICeICmoma7Iul9vQkHTmO/EPJMIDl8z1xOlCECkx0CdzAmeUGb1VWdL6eWBSELk59jzdDWRri6ekiAn/UltXa27IYhoy/PXU+83g8klgAWwYZQGIu0Lb838LoWgAQs6iI34LiH5Hk0Sa+R1KmJciMW5voSKzyYbiCy+lgeWQGqZ2og8eNeRuxt46thRuB1vC5EciWLpTez1MHhoEFtX6VjJFIplzANaZwWJRmS65A/Ig9bPyTg8Ypyx9K/uzg390FmhZSqN9rFQVjeRT3ACV/E4r7mFWdHSgq3KDjRRS2HNVnQT3SoUbAhMIeDBGc+LbLtpKW3xTbr0ZjwHSV+FV0FlIFW+gnKlkkeuYk=;j7fjs82rwgeazLkL/1oWAg=="
+secured: "Iwk37KQmwvwVGevMnP1JjH96lLnIybvZQ+bUNbNgUVIYthLfVCRjrjkxpE4JEsqTJCYRmPkbigMur5+uZKlqJYog38/akROyAyoMvGf2VUzVBStDvHLagPFsbgX8qyYrOMfKFhRjZiUT8gPRIBKpdmJJGeZNNhcliUtS2x/Ic6Qdu7ddAygCirbnq9zlhGL7Z2dQVPFbLwyRh9BacLTlFtBeNOp39QkSyR9JucMToFxe8ORH/wPe5tCp7U1su46mRtQBVP87S0X0i49Idp+2AlVbioHpg62qLLJvrNRdr6/7dYBmumFHxIfreoEp3Oda;WU2GuPdfyJZ6DLNwvD8/eQ=="
 ---
 
