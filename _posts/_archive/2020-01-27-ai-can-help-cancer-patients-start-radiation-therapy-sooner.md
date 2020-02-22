@@ -7,8 +7,8 @@ webUrl: "https://www.news-medical.net/news/20200127/AI-can-help-cancer-patients-
 ampWebUrl: "https://www.news-medical.net/amp/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx"
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx"
 type: article
-quality: 54
-heat: 74
+quality: 74
+heat: 94
 published: true
 
 provider:
@@ -18,6 +18,12 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+
+images:
+  - url: "https://www.news-medical.net/image.axd?picture=2014%2f7%2fRadiation_Therapy-620x480.jpg"
+    width: 620
+    height: 480
+    title: "AI can help cancer patients start radiation therapy sooner"
 
 related:
   - title: "AI can jump-start radiation therapy for cancer patients"
@@ -45,6 +51,6 @@ related:
         width: 1200
         height: 450
 
-secured: "16/kYhTSZOsamLyOksT3hYVic7A3red+qcKulbkDw82fDDq/hfPAGmUtreWz/Q1tVzwj/z3xydAxb2tWLE7+KBJDt/cZsuUhOF/HdlG+uUlVgL5olg3pJqOsUHEbZFipK/0r2yCY7JWvkDsTIJXPevq9d+pi+7Wqv6tn3wUnWWXtXCKOeYnukzMvLv5wpLkDI2SvQnB91nDjgKPcnApzCnxAoBrwO32XJDLcUt1mfV1TchohSltK31bN2d6G5mCVLJEEbEyh/dSwhUux15lcq0UTXscaxpT3VJ8dQDMLcoOOo0mPm1ZUS7FV8FNVVr52;fFfgjPayAy9WWvgZnX+ZMg=="
+secured: "fUx6phw4u7TfpEr+2XvMe9I9Hm1a21HtEuA1ySbOEyd9znry7OkM55+tVXiqnaIGqowiq3w3ebCrfxD55JU0uHHEdH/OHO0W+2cJJYIRk0VJDqe+6WRGXct/fPTpM5VTG/uh9Vi0saNp+euXKKXmCfmqDNPhpuH72yKGAYTXqWq6fHilmfVeSZCTZPiFsu2CJNQG18qUUk2NnFbzsX0LmjyM8KNMOFAVpTvHED9HBtpM9EixhN5bmF5uaREJ/wkuw0m7HKjIcsuaHhAblihnXgLXYlSQIXwe/jZKabCtFyB7nSBK4jSnfacOaEPivtpD;CX4DAKPFDG8wFIxv9WckUA=="
 ---
 

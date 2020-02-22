@@ -1,23 +1,28 @@
 ---
 category: news
-title: "Regulate all companies developing AI, including Tesla: Elon Musk"
-excerpt: "Nadella who sees a greater role of AI for humanity will invest $1 billion in the next few years in OpenAI to support it build \"democratised AGI\" models. OpenAI would develop a hardware and software platform within Microsoft Azure Cloud platform which will scale to AGI. The start-up would also jointly develop new Azure AI supercomputing ..."
-publishedDateTime: 2020-02-19T05:20:00Z
-webUrl: "https://www.livemint.com/technology/tech-news/regulate-all-companies-developing-ai-including-tesla-elon-musk-11582088884072.html"
-ampWebUrl: "https://www.livemint.com/technology/tech-news/regulate-all-companies-developing-ai-including-tesla-elon-musk/amp-11582088884072.html"
-cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/regulate-all-companies-developing-ai-including-tesla-elon-musk/amp-11582088884072.html"
+title: "Elon Musk calls for regulations on artificial intelligence"
+excerpt: "Elon Musk is calling for regulation on organizations developing advanced artificial intelligence, including his companies. The Tesla and SpaceX head tweeting earlier this week, “All orgs developing advanced AI should be regulated, including Tesla.” Musk was, according to TechCrunch, “responding to a new MIT Technology Review profile of ..."
+publishedDateTime: 2020-02-22T09:38:00Z
+webUrl: "https://nypost.com/2020/02/22/elon-musk-calls-for-regulations-on-artificial-intelligence/"
+ampWebUrl: "https://nypost.com/2020/02/22/elon-musk-calls-for-regulations-on-artificial-intelligence/amp/"
+cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/02/22/elon-musk-calls-for-regulations-on-artificial-intelligence/amp/"
 type: article
-quality: 39
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Mint
-  domain: livemint.com
+  name: New York Post
+  domain: nypost.com
 
 topics:
   - AI
-  - Microsoft AI
+
+images:
+  - url: "https://thenypost.files.wordpress.com/2020/02/space-exploration_spacex.jpg?quality=90&strip=all&w=1200"
+    width: 1200
+    height: 800
+    title: "Elon Musk calls for regulations on artificial intelligence"
 
 related:
   - title: "Elon Musk: Everyone developing AI must be regulated — even Tesla"
@@ -59,21 +64,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 63
-  - title: "Elon Musk calls for regulations on artificial intelligence"
-    excerpt: "Elon Musk is calling for regulation on organizations developing advanced artificial intelligence, including his companies. The Tesla and SpaceX head tweeting earlier this week, “All orgs developing advanced AI should be regulated, including Tesla.” Musk was, according to TechCrunch, “responding to a new MIT Technology Review profile of ..."
-    publishedDateTime: 2020-02-22T09:38:00Z
-    webUrl: "https://nypost.com/2020/02/22/elon-musk-calls-for-regulations-on-artificial-intelligence/"
-    ampWebUrl: "https://nypost.com/2020/02/22/elon-musk-calls-for-regulations-on-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/02/22/elon-musk-calls-for-regulations-on-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 57
-    images:
-      - url: "https://thenypost.files.wordpress.com/2020/02/space-exploration_spacex.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
   - title: "Elon Musk warns that all A.I. must be regulated, even at Tesla"
     excerpt: "Musk tweeted his thoughts on A.I. on Monday night in reply to an article written about research company Open AI, which was once backed by Musk himself. “OpenA.I. should be more open imo,” Musk tweeted. “All orgs developing advanced A.I. should be regulated, including Tesla.” All orgs developing advanced AI should be regulated ..."
     publishedDateTime: 2020-02-18T17:05:00Z
@@ -100,6 +90,17 @@ related:
       - url: "https://www.benzinga.com/files/images/story/2012/screen_shot_2020-02-19_at_7.07.00_am.png"
         width: 974
         height: 900
+  - title: "Regulate all companies developing AI, including Tesla: Elon Musk"
+    excerpt: "Nadella who sees a greater role of AI for humanity will invest $1 billion in the next few years in OpenAI to support it build \"democratised AGI\" models. OpenAI would develop a hardware and software platform within Microsoft Azure Cloud platform which will scale to AGI. The start-up would also jointly develop new Azure AI supercomputing ..."
+    publishedDateTime: 2020-02-19T05:20:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/regulate-all-companies-developing-ai-including-tesla-elon-musk-11582088884072.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/regulate-all-companies-developing-ai-including-tesla-elon-musk/amp-11582088884072.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/regulate-all-companies-developing-ai-including-tesla-elon-musk/amp-11582088884072.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 39
   - title: "Elon Musk joins calls to regulate companies developing AI, including Tesla"
     excerpt: "“OpenAI should be more open in my opinion. All orgs developing advanced AI should be regulated, including Tesla,” said Elon Musk."
     publishedDateTime: 2020-02-19T05:12:00Z
@@ -134,6 +135,6 @@ related:
       domain: dailypioneer.com
     quality: 19
 
-secured: "7xc5FD+QK3KcMhZkZt/AnJNUlKjgqQUuPLH9O80NgHdS9WDUN4EvxOiOlLzScYzwk6r8XyIpeqNKBdFIfZhxf8bK3jKjeycJk9uzv94gcoeqNL8ybpY1WmODcuSu1wQLBE1QnNyE6ap8MjlBuAH+IkC2HIeK0EWETD6gRJ7Von0A0MKRsc368EDAy6Nm28/WIr6YazXrfC19X+qnkOJ2QJvDbdjYEuG7ARXo0wPnC3XKPt3/TYTjiolVEa1PfEKIEQ8YwVf98Hfgiei/NKhsUFyyvqBLuRxiPzBaRQHiPRhlO0/4sHsa4dP/FE9FiPWWIGnHW7hwUBg7qRHND4FFFnz3SzWzGzTMSGmo4dceidN9YhrjlwIypAetVnMjBNPonjdFOZDLWcvSwCmTzGiDkXm0y2NBGlI3FeKyzFwwWtU6XqxLKB11IQFui5o2B9NPNDKT5heZzlIMjTOMyj8p9EX9kOdqgS6X2BYhUcz0SqM=;xYai/6stXz2f15iLraeJYw=="
+secured: "weQHI54hs7mGQnN83sMwstfAbQ0MAEaFFZpP7ilRRBnAXRLSg8EKo3F0lgizZUmhWG0C44N6NUbXFVDBM6k/daybmQtFXGYSTN6OcUh2EONM3JriVHNJrMWv8O2gb4vVadoy1wS2GwuSzyyhk65PgqhjMbutrsJNNt/lwbWWwAiRrKr3NONuYzzeCEbPV9uFV3BgM/5Lkpz60DpLp+s8Keuj9j1dlvk+PSMO/Q1FI0kwusC42u9wuc0LeQURKauJV5Cd5BFdWVbDS4+K5X3e+WY+fpEYU/hnCAiK9EPDLrs8LHk0iPNKE0VZk18HtSf+;XkDT6jgPuJ8Ok6YhHHPLnw=="
 ---
 

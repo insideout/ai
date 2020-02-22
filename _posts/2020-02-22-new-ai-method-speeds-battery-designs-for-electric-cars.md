@@ -3,9 +3,9 @@ category: news
 title: "New AI Method Speeds Battery Designs for Electric Cars"
 excerpt: "In a recent Stanford News report, a study led by Stanford University professors Stefano Ermon and William Chueh, along with their colleagues at the Massachusetts Institute of Technology (MIT) and the Toyota Research Institute, created a battery testing method using artificial intelligence (AI) machine learning that reduces battery testing times ..."
 publishedDateTime: 2020-02-22T20:46:00Z
-webUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202002/new-ai-method-speeds-battery-designs-electric-cars"
-ampWebUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202002/new-ai-method-speeds-battery-designs-electric-cars?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-future-brain/202002/new-ai-method-speeds-battery-designs-electric-cars?amp"
+webUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202002/new-ai-method-speeds-battery-designs-electric-cars"
+ampWebUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202002/new-ai-method-speeds-battery-designs-electric-cars?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202002/new-ai-method-speeds-battery-designs-electric-cars?amp"
 type: article
 quality: 37
 heat: -1
@@ -76,6 +76,6 @@ related:
         width: 1440
         height: 960
 
-secured: "Kr2z4M22mWjg8xAYtCsEuKkfgZQOtJIJ06TBMHmu7WH+dFBF6WdPc4Adyrvn55MW3b48Mp6oHlqH8k8KJfqLrbbimMsqWJ4i5H//MTpoqIL6oJih2dsA72+W3dOkNcBr9ElXL3/FoJB3ziMwf3RiaUuZ3knyt7dpX8BSFme45U4pu9VgtiPRGuS9f6CJRUf1D/VNM9ZUqQ6XeG/G1uK5VHFusl19V1UnsfJ+9VK+ZA87lFAPcXItmeB9VUKzTLjMFJVTVcYi3FdD7WsI18jhm6fQuMYPte0w4rF/Y1T8ZmOIYLKxLxbGkUcWfFslDgFi8k6WZClIuM5F1QVJddckFubkN4Kb37BHUKsMkQRwC2pbc32cO6//5VQCK5uLag2Hqsxdcn6SGXQJhgxzSaDvH2HuoiHaMz9jrNpJhFY4LlmfLLZyeFj2yo8AualgxatW4LPkxrC8ZGnZWpSxUTOGdqSEqmyenY2x7/eCCng1TW4=;tCgGjuF9mQMHm/K1KBYVKw=="
+secured: "2Y5SF7392ki428AbalaNXEFDoyQBjQxUm2p3aRQ+msAXKv3cuj3bpdzOWASL2gfqwOBd85dNp84HgLt4ggNIcFK8rEFmV8a6p0DaLV8uC0GX63hEaILdsLr8Omhr3nsvn3m028XIo11Pz77l0zbpiBx7sCwH6VwGM9u8SLIiDzv/SC95+wxWEIJR5TAu9IvjnlyHPLehQSwErRCFRVRExkBx4lnZEeGkY1eI0G088gfiYdbX7GGtROInXpw/6CNvvdqLm3HCEVIKUXhNPlAc3Tcd/GVAWV/ncSZsrQuOkRAmTnyy+a6W2Pcq+wg2ycIMmgOV1OjrIC70+U3UY6GMnWNgn91BWHISNeTGVLwKmngEY8ulj5HezvVvjT0DXc4/iqtcWbH8tWLtWLgBMp3OUKpBgjC9M7+qgnHq4yqADm6wLWYpCMHmACD0CbboPeBNKBKTKIowQhUIdMqFoWHj8RdeyLCx2wD8r/pnHSsCtAc=;+rIDXHAiieu72VFWm8486A=="
 ---
 

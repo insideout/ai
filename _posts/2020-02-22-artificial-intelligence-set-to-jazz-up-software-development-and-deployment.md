@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/how-artificial-intelligence
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-artificial-intelligence-will-jazz-up-software-development-and-deployment/"
 type: article
 quality: 85
-heat: 95
+heat: 96
 published: true
 
 provider:
@@ -43,6 +43,6 @@ related:
         width: 1200
         height: 677
 
-secured: "mN/Eguvz4SFIdJeay9uix6zWjf3KD5yHge9TMJGS1vQL97mgzO1QEWqYRLBVQa1xGBb6aAi7+6bvVv1tYqwE+aevP51HC9KKQ1GUIhANfWyc66+Q3d7nEmMGy2/zAt5Nmr3gOZUN0B7RufQMxnX882/rKh0IIdulZiSsXU9iJK+b62rkdX12etf5G6foHkorWBVz/wap+ItIh8H6gEnrgbnBhTRzfglsqPQtf46j5x8fZt9kEHRYPUZBKBdXz7vpfpwp2gE2lJ+eg0y1IkL+4F9reL1EaJM7hAcmAdNPTU7Hwrck2dkxZLfagwckqUxMG47oPevOuODxYbc/FJd1P7q4N/3D6oIFmN0ZFwriR/pY7VtJFLkR/FHYdi/G1xsTBu4EajYTmVk9ouXmX0bzjfL8D2MhAqRzNizDpG6ujM4MCzE4jRZixdUoNnm6dWbC/VruubLr5tiCsfhif4pvD6b8RH9a1x5k/KntZ8GNuWg=;dj+fxcvTIfB3ADYQ3sLYLg=="
+secured: "ECIKiUTXSir0whR3GYW/7nqLkYlqBve+H59Tc9dbYeUu/0jsM5prm9P89wjh0NuaqD9xZIg4i7mDK7IQgMvoWzIOcG+8qyEQlTeIj4Hd5l91QO+zegTCYgwPuzz2oYn3y6UWjkZRkqXyf0gmd/eWtEz/DgDF33AECTUO6w+wf2pfwwON9jVS4i/q1Gqx9U9A1X3ndhz5kjutt2PrbAMWGecwfapEEnuFfsGC7jaJhO3LWCxHQTbfvOB+8ynZ9X4xFtvAN0Sl2qOvUFsTZM81FlJEKqXk/Y2WjHAkZUR1zisnmaQe4pXKeVE5V38qRfNcw4ML7VErBQaSmms84UyHaLcd1nREwnZqPoy7om0UeMcji1CRye4Kw7yS6KIWjGAlPblGv9qCijEa/J8G7xMvAB+PKZ2IiW2LWM52cFWkWj1VfCiImkPOAH1z7979Wc3uReY26v9f1V6WK/Oj4UQGOcq3TeTo/F5Fcby6pZpbYFQ=;eJxe92ShNxh5/eEBGTceSg=="
 ---
 

@@ -293,12 +293,12 @@ related:
     quality: 0
   - title: "Automotive Voice Recognition Market Outlines the Growth Factors and Current State of Market by 2025"
     excerpt: "\"The statistical surveying report comprises of a detailed study of the Automotive Voice Recognition Market 2020 along with the industry trends, size, share, growth drivers, challenges, competitive analysis, and revenue. The report also includes an analysis on the overall market competition as well as the product portfolio of major players ..."
-    publishedDateTime: 2020-02-22T12:40:00Z
-    webUrl: "https://www.reseller.co.nz/mediareleases/39726/automotive-voice-recognition-market-outlines-the/"
+    publishedDateTime: 2020-02-22T11:28:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/39726/automotive-voice-recognition-market-outlines-the/"
     type: article
     provider:
-      name: Reseller News
-      domain: reseller.co.nz
+      name: ARN
+      domain: arnnet.com.au
     quality: 0
 
 secured: "dTxyT5QCuMS+4Ed1ZC67sqhWlDNmnV3IHKC192cR/CIKYxhMxpPSNCC+/bPi9kaAIDKWyXq9qS3sTx/Nd8RtEszmBPPG37wILOvDRcnTglPoCI9fPLHeIC9LAxoZk/DliVQAYhPWlMDyOEZPNz7zma0M7B3CVjod8III+hVaG6ixhZBvC0iHYEZiCistq+k005StI2J7OZ/nMHhmxwn3zV00n6Q64d8oPZScJkfunbC9x9/hH30PZv5RG+6ctKLdJt/4zxf5i9z9q3XMihNiLW0b4sj1Au+rwSy4EYNRsh+FitOmivqO6kO1tAHNMNu6;cakGLz4bIT54rdmX8baBOg=="

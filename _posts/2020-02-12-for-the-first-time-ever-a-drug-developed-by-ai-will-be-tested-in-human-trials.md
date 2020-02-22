@@ -51,6 +51,21 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2018/11/AP_18296801176372.jpg?w=1024"
         width: 1024
         height: 658
+  - title: "Elon Musk calls for regulations on artificial intelligence"
+    excerpt: "Elon Musk is calling for regulation on organizations developing advanced artificial intelligence, including his companies. The Tesla and SpaceX head tweeting earlier this week, “All orgs developing advanced AI should be regulated, including Tesla.” Musk was, according to TechCrunch, “responding to a new MIT Technology Review profile of ..."
+    publishedDateTime: 2020-02-22T09:38:00Z
+    webUrl: "https://nypost.com/2020/02/22/elon-musk-calls-for-regulations-on-artificial-intelligence/"
+    ampWebUrl: "https://nypost.com/2020/02/22/elon-musk-calls-for-regulations-on-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/02/22/elon-musk-calls-for-regulations-on-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 57
+    images:
+      - url: "https://thenypost.files.wordpress.com/2020/02/space-exploration_spacex.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
   - title: "Elon Musk warns that all A.I. must be regulated, even at Tesla"
     excerpt: "Musk tweeted his thoughts on A.I. on Monday night in reply to an article written about research company Open AI, which was once backed by Musk himself. “OpenA.I. should be more open imo,” Musk tweeted. “All orgs developing advanced A.I. should be regulated, including Tesla.” All orgs developing advanced AI should be regulated ..."
     publishedDateTime: 2020-02-18T17:05:00Z

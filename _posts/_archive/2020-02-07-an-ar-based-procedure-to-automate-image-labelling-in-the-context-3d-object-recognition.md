@@ -6,8 +6,8 @@ publishedDateTime: 2020-02-07T19:48:00Z
 webUrl: "https://medium.com/@alfredo.rubio.arevalo/an-ar-based-procedure-to-automate-image-labelling-in-the-context-3d-object-recognition-a5129b55a755"
 type: article
 quality: 61
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: Medium
@@ -27,6 +27,17 @@ images:
     height: 1600
     title: "An AR based procedure to automate image labelling in the context 3D object recognition"
 
-secured: "ygdE8DkVNrmJ0lm+BG7IzLw5Tbyv2refxvWp9siNezUDWLWN4G76G+ea6QaalkSSd9wP34jFJr99vN6ft/ES3sZRtJIh7NHV6cx1KFx6qM8WjnIqcYExPmPzX4bGlN44ysc/zT1YhXRy/lWWd48+5QL9brV50sduzJXfFF4bRa0mndudlLVthizb5iGRGhYtOMRzWukEXDHCd2EoYFo6k1cLzEyTIQGcop6LgL7NCN6keRCqsnTmrw0twr2DHo1wioa9EeqQNneeNupqPsAydVOGxhJtmxDVxqKSQ57DaHWNOooRmel4Y+5QFrYQ/EVL;WTzkE1FvXXBcPzH2r8xjcw=="
+related:
+  - title: "Autonomous Object Recognition for Robots"
+    excerpt: "Reliable object detection and recognition is a difficult task for robots to achieve and, therefore, still remains a challenge when real-world environments are considered. Curiosity, often seen in humans and its primates, drives learning activities."
+    publishedDateTime: 2020-02-07T00:00:00Z
+    webUrl: "https://www.ulster.ac.uk/doctoralcollege/find-a-phd/511643"
+    type: article
+    provider:
+      name: Ulster University
+      domain: ulster.ac.uk
+    quality: 19
+
+secured: "JaU8IAdDQGrbdeTTtlrtVkGfhh81tRi2oetrPcE3Slp+9c4tZ4gRvatxLEgYCfMyBCBDUQBfkBbpF1mmpCgl39nLt8d0lTwEc3kPEaAFHOH4yc0MI8yPYuQkJKTyBgrdRoA61TjWBwduIIS1//lohBO+voWzlCVw1MvsfVeMpIdTab+mmosWjoLWm95YRdzvBHkn9WcCK8OvOo/7IvucP6AVJLSl5aQfKk4EhNq1k8r8iOP9AR5q5GbweGUtlTbsS0+PjaqWIUbnZQ4gxxhlVGlyfFlQ7KuZsJH3oX2kbT3Gnc7IdM9KO/UxNeVu1Ui5;mCWnOO4j3DBHrp4sDjwpVQ=="
 ---
 

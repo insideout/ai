@@ -62,6 +62,21 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 63
+  - title: "Elon Musk calls for regulations on artificial intelligence"
+    excerpt: "Elon Musk is calling for regulation on organizations developing advanced artificial intelligence, including his companies. The Tesla and SpaceX head tweeting earlier this week, “All orgs developing advanced AI should be regulated, including Tesla.” Musk was, according to TechCrunch, “responding to a new MIT Technology Review profile of ..."
+    publishedDateTime: 2020-02-22T09:38:00Z
+    webUrl: "https://nypost.com/2020/02/22/elon-musk-calls-for-regulations-on-artificial-intelligence/"
+    ampWebUrl: "https://nypost.com/2020/02/22/elon-musk-calls-for-regulations-on-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/02/22/elon-musk-calls-for-regulations-on-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 57
+    images:
+      - url: "https://thenypost.files.wordpress.com/2020/02/space-exploration_spacex.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
   - title: "Elon Musk Thinks All Artificial Intelligence Needs To Be Better Regulated, Including At Tesla"
     excerpt: "Tesla Inc. (NASDAQ: TSLA) CEO Elon Musk thinks artificial intelligence needs to be better regulated, at his own company as well, What Happened Musk, who also heads the"
     publishedDateTime: 2020-02-19T12:14:00Z
