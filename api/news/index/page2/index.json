@@ -265,6 +265,52 @@
       ]
     },
     {
+      "path": "_posts/2020-02-10-the-role-of-machine-learning-in-marketing.md",
+      "title": "The Role of Machine Learning in Marketing",
+      "excerpt": "For example, Microsoft’s Azure ML Studio has a methodology to model customer churn. Image source: https://docs.microsoft.com/en-us/azure/machine-learning/studio/azure-ml-customer-churn-scenario In figure 1, it shows a risk model that shows you how actions affect risk and probability. Moving over, figure 2 shows an intervention model that ...",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/@bo.lau/the-role-of-machine-learning-in-marketing-60918b8f51e2",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T10:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/0*ogKgDXUqbtxLfG54.png",
+          "width": 1200,
+          "height": 672,
+          "title": "The Role of Machine Learning in Marketing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_posts/2020-02-10-this-ai-could-reunite-families-after-an-earthquake.md",
       "title": "This AI could reunite families after an earthquake",
       "excerpt": "A new AI prototype could transform how earthquake aftermaths are managed, by predicting the safest routes that families can take to find their loved ones ... predict and verify safe routes that parents and children could take to find one another after an earthquake — and the dangerous areas they should avoid. “In the urban environment ...",
@@ -2119,51 +2165,6 @@
         "AI",
         "Computer Vision",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-11-the-ai-revolution-is-here-a-podcast-and-interview-with-nate-yohannes.md",
-      "title": "The AI Revolution Is Here - A Podcast And Interview With Nate Yohannes",
-      "excerpt": "Nate’s perspective on AI being built for everybody on the planet is birthed from one of the most unique foundations possible. He’s the offspring of a revolutionary who stepped on a landmine in 1978 fighting for democracy on the Horn of Africa,",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbesinsights/2020/02/11/the-ai-revolution-is-herea-podcast-and-interview-with-nate-yohannes/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesinsights/2020/02/11/the-ai-revolution-is-herea-podcast-and-interview-with-nate-yohannes/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesinsights/2020/02/11/the-ai-revolution-is-herea-podcast-and-interview-with-nate-yohannes/amp/",
-      "publishedDateTime": "2020-02-11T10:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e3d6e478b6cf300071e2656%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "The AI Revolution Is Here - A Podcast And Interview With Nate Yohannes",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/monash-university-researche
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/monash-university-researchers-develop-ai-aimed-at-improving-suicide-prevention/"
 type: article
 quality: 83
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     title: "Monash University researchers develop AI aimed at improving suicide prevention"
 
 related:
+  - title: "Researchers Use Advanced AI to Predict Extreme Weather"
+    excerpt: "Predicting extreme weather is a complex science, and an area where artificial intelligence (AI) machine learning, specifically the pattern-recognition capabilities of deep learning, can make a difference in forecasting accuracy. A recent peer-reviewed Rice University study published in February 2020 in the Journal of Advances in Modeling Earth ..."
+    publishedDateTime: 2020-02-22T16:03:00Z
+    webUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202002/researchers-use-advanced-ai-predict-extreme-weather"
+    ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202002/researchers-use-advanced-ai-predict-extreme-weather?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202002/researchers-use-advanced-ai-predict-extreme-weather?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 37
   - title: "Researchers develop 'multitasking' AI tool to extract cancer data in record time"
     excerpt: "To better leverage cancer data for research, scientists at ORNL are developing an artificial intelligence-based natural language processing tool to improve information extraction from textual pathology reports. The project is part of a DOE-National Cancer Institute collaboration known as the Joint Design of Advanced Computing Solutions for ..."
     publishedDateTime: 2020-02-12T22:48:00Z

@@ -2,6 +2,96 @@
   "page": 11,
   "value": [
     {
+      "path": "_posts/_archive/2020-01-10-artificial-intelligence-makes-bad-medicine-even-worse.md",
+      "title": "Artificial Intelligence Makes Bad Medicine Even Worse",
+      "excerpt": "Google researchers made headlines early this month for a study that claimed their artificial intelligence system could outperform human experts at finding breast cancers on mammograms. It sounded like a big win, and yet another example of how AI will soon transform health care: More cancers found! Fewer false positives! A better, cheaper way to ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/artificial-intelligence-makes-bad-medicine-even-worse/",
+      "ampWebUrl": "https://www.wired.com/story/artificial-intelligence-makes-bad-medicine-even-worse/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artificial-intelligence-makes-bad-medicine-even-worse/amp",
+      "publishedDateTime": "2020-01-10T03:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg",
+          "width": 800,
+          "height": 450,
+          "title": "Artificial Intelligence Makes Bad Medicine Even Worse",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-10-export-controls-threaten-the-future-of-ai-outposts-in-china.md",
+      "title": "Export Controls Threaten the Future of AI Outposts in China",
+      "excerpt": "Other US tech companies, like Facebook, are effectively blocked ... University who writes a newsletter on Chinese AI. “Google, Microsoft Research Asia, and other multinationals with R&D labs ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/export-controls-threaten-ai-outposts-china/",
+      "ampWebUrl": "https://www.wired.com/story/export-controls-threaten-ai-outposts-china/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/export-controls-threaten-ai-outposts-china/amp",
+      "publishedDateTime": "2020-01-10T05:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5e177e6287b5f30008dd4e8e/master/pass/Business-AI-US-China-1169747427.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": "Export Controls Threaten the Future of AI Outposts in China",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-10-facial-recognition-could-take-over-one-convenience-at-a-time.md",
       "title": "Facial recognition could take over, one 'convenience' at a time",
       "excerpt": "At Konami's headquarters in Las Vegas, its facial recognition powered cameras tracked me around the room. Konami Gaming, a slot machine maker, wants to weave facial recognition into its one-armed ...",
@@ -2053,87 +2143,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-14-bundesliga-brings-on-aws-to-revolutionise-football-viewing-experience.md",
-      "title": "Bundesliga brings on AWS to ‘revolutionise’ football viewing experience",
-      "excerpt": "Under the terms of its deal with AWS, the Bundesliga will make use during the 2019-20 season and beyond of artificial intelligence (AI), machine learning (ML), analytics, compute, database, and storage services to deliver real-time statistics to predict future plays and game outcomes, and recommend personalised match footage across mobile ...",
-      "heat": 69,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.rapidtvnews.com/2020011457936/bundesliga-brings-on-aws-to-revolutionise-football-viewing-experience.html",
-      "ampWebUrl": "https://www.rapidtvnews.com/2020011457936/bundesliga-brings-on-aws-to-revolutionise-football-viewing-experience.amp.html",
-      "cdnAmpWebUrl": "https://www-rapidtvnews-com.cdn.ampproject.org/c/s/www.rapidtvnews.com/2020011457936/bundesliga-brings-on-aws-to-revolutionise-football-viewing-experience.amp.html",
-      "publishedDateTime": "2020-01-13T23:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Rapid TV",
-        "domain": "rapidtvnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.rapidtvnews.com/images/2020/Jan_2020/bundesliga_AWS_14Jan2020.jpg",
-          "width": 788,
-          "height": 337,
-          "title": "Bundesliga brings on AWS to ‘revolutionise’ football viewing experience",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-14-ces-2020-older-adults-embrace-ai-with-transparency.md",
-      "title": "CES 2020: Older adults embrace AI with transparency",
-      "excerpt": "Tonya Hall talks with Kari Olson, chief innovation and technology officer at Front Porch, about how older adults are beginning to understand and embrace AI.",
-      "heat": 67,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/video/ces-2020-older-adults-embrace-ai-with-transparency/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-14T06:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/01/14/8d8ebb00-3f91-4110-adc1-769ce1d616d0/thumbnail/770x578/8cdde30d9fe62b9ee966452220fe3f7f/thumb.jpg",
-          "width": 770,
-          "height": 578,
-          "title": "CES 2020: Older adults embrace AI with transparency",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

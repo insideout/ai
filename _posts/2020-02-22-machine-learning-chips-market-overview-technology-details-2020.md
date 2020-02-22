@@ -90,6 +90,6 @@ related:
       domain: openpr.com
     quality: 19
 
-secured: "1a0ODlOMl4MkjSpTFroeTAO5Cirs3PFj2f19eVKhqnaNILe/WCeqv5ofShwg7hW2EZXHOzqHgRDtmW1Ntx/yMiQNdCqcCIiKRgjxlLZW1ChuNzHxsxGp/+w1g+ekjatnJSFgO4OAaqZ9+/Md2rVFPpRPJ8v1gNtZ6VPXdxvCwN412eyXmHOfiuXz5BHC1lWdcItvYA+0eHCFu7JflvtE8HD6TlPioW7Hsuhfcy0YN54q0LwFV4ItKLAsKloym2oByu+EPd8Z5jzq4UgiwHihJ2Gi3/rgC5ChIvfja33/IvjkPj9gZrWBagQ2LKguDFpi;guJQjaMkD2DZBXQjaY3qnQ=="
+secured: "cuLBb3AQzFO+A3IHkddqWtOkACvQOVvNwdXMbGlvRg89nDWEVMvjyytoG6RlMWbnIJZu9IfbuPrsj7ST2mj0sZ8C4aRVkYxWKrdtI2z56Y/L1Xa/6O/KJD2Mj7ECQ9j9MwTCN9BtMqHl7jvLZRlzQs34g8Zb0SgLHnSGujRTRbSGsNMLYoCFAEkD/yvs+UmkEK4XN6LjsylPK3JFI1s+DWkuXIBZ/X/y4+rUnj6g4uPXvbuichgmourqv1tsZ8Q3COTyRwxf4euG++BAjrIKcNtfs3OflmqS+DbJdvRjXXRMkh8rv4TU93YlZYy3xrqu;dH6Zr0Z8Q1NrWCvt5OT7ig=="
 ---
 

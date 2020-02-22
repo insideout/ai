@@ -1,21 +1,22 @@
 ---
 category: news
-title: "ORNL researchers develop 'multitasking' AI tool to extract cancer data in record time"
-excerpt: "To better leverage cancer data for research, scientists at ORNL are developing an artificial intelligence-based natural language processing tool to improve information extraction from textual pathology reports. The project is part of a DOE-National Cancer Institute collaboration known as the Joint Design of Advanced Computing Solutions for ..."
-publishedDateTime: 2020-02-12T19:17:00Z
-webUrl: "https://www.eurekalert.org/pub_releases/2020-02/drnl-ord021220.php"
+title: "Researchers Use Advanced AI to Predict Extreme Weather"
+excerpt: "Predicting extreme weather is a complex science, and an area where artificial intelligence (AI) machine learning, specifically the pattern-recognition capabilities of deep learning, can make a difference in forecasting accuracy. A recent peer-reviewed Rice University study published in February 2020 in the Journal of Advances in Modeling Earth ..."
+publishedDateTime: 2020-02-22T16:03:00Z
+webUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202002/researchers-use-advanced-ai-predict-extreme-weather"
+ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202002/researchers-use-advanced-ai-predict-extreme-weather?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202002/researchers-use-advanced-ai-predict-extreme-weather?amp"
 type: article
-quality: 12
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Psychology Today
+  domain: psychologytoday.com
 
 topics:
   - AI
-  - Natural Language Processing
 
 related:
   - title: "Monash University researchers develop AI aimed at improving suicide prevention"
@@ -33,17 +34,6 @@ related:
       - url: "https://zdnet3.cbsistatic.com/hub/i/r/2020/02/17/b6213abd-fa0f-464c-9980-616c43d989c6/thumbnail/1200x675/71d46fb343b28e5a5692484319d19257/idf-collage.jpg"
         width: 1200
         height: 675
-  - title: "Researchers Use Advanced AI to Predict Extreme Weather"
-    excerpt: "Predicting extreme weather is a complex science, and an area where artificial intelligence (AI) machine learning, specifically the pattern-recognition capabilities of deep learning, can make a difference in forecasting accuracy. A recent peer-reviewed Rice University study published in February 2020 in the Journal of Advances in Modeling Earth ..."
-    publishedDateTime: 2020-02-22T16:03:00Z
-    webUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202002/researchers-use-advanced-ai-predict-extreme-weather"
-    ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202002/researchers-use-advanced-ai-predict-extreme-weather?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202002/researchers-use-advanced-ai-predict-extreme-weather?amp"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 37
   - title: "Researchers develop 'multitasking' AI tool to extract cancer data in record time"
     excerpt: "To better leverage cancer data for research, scientists at ORNL are developing an artificial intelligence-based natural language processing tool to improve information extraction from textual pathology reports. The project is part of a DOE-National Cancer Institute collaboration known as the Joint Design of Advanced Computing Solutions for ..."
     publishedDateTime: 2020-02-12T22:48:00Z
@@ -55,7 +45,16 @@ related:
       name: Medical Xpress
       domain: medicalxpress.com
     quality: 34
+  - title: "ORNL researchers develop 'multitasking' AI tool to extract cancer data in record time"
+    excerpt: "To better leverage cancer data for research, scientists at ORNL are developing an artificial intelligence-based natural language processing tool to improve information extraction from textual pathology reports. The project is part of a DOE-National Cancer Institute collaboration known as the Joint Design of Advanced Computing Solutions for ..."
+    publishedDateTime: 2020-02-12T19:17:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-02/drnl-ord021220.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 12
 
-secured: "o+GE3QtUxG1EpHNEoG6jJDRdR6ARMGxorjGuvzGqFbPrQirojUIDeGSJw65BdZsoj5Jqw1Ou+kWCDl8/oO3nfH3kAzuqjs1Hsxg8KOvqTkrDzs+/mSAu5rIwXCFpoXKyuJob/6bE53DUQcDhgkwIHjXtxpyPEskDmiXxFU5YGIHH8gyWxayVSg2Ddr9DrvAdw3OEBXhI0IffBRkpjcZMn+ENgJvtMlvWm75XIgILaiNRMY6vULZJS51M1gIMda7SuLWr5BJ5FFP5XzEsCcsKhAPR5KZ1NdU7PfCg0vzlQGXtbietgnObvkziyMUeDdNaT9S4WLv/B82ChtG0SAksFLakXaaQrYjIpexha8w8uexzJOHgsMtOLw9KA8msyEDVxxWyKMSLfRy5aPFWQW3UtfXMCSyOsS/IJYoFuOjfqv0m6gqhj2j55qbF33dr7UikX973FXdIIjc1rMKu06XrzeGCszUCOK+aiKNS/oTvOGY=;4wdc55NCzH6OMyyUF0d2ug=="
+secured: "5sKF18bMvdCfIoplXo3hU7totq6i25nVAvK4ouJd83oTiYmh2hlcYMV5gfHL8Yv9XDo8MCjQtAjT+CgXEDsBX/hmVNHOpjzhqEofz1zEWgfNgmH1L9fQYQxcFLKmmU/uAzV8l3lXNUrCEx2X1lL417TeRSHLbK280S8gZS9DHNrojd117WXC5ZvmHvTkjcpTdBkIPSAjrRh2QIiTpwc8Rme76rqzPmiWoKemAq7XnDmlfSRiRhWDIF48RnAlndonQ0/L0vKaNSn5zjoVvan38vd5buzcpRkLc1zIoXk7LWYu7hm53PN/78WyZOenRM34pBY3GJovz97Uazlntrepys+BBLtB9VUJcEydOOHjCvby58zUorgKp/ECVLzbFolqtzNJ5BSKdoqeE9iYwDMG2m+j2tMg1bjcaykVRhLMeYiRnylhHAxM+dAnmXYsQ7/uOUilOqyO036iyUkHEL4dOMsr0bb+CdOldeMQ8Cvg+BU=;Sptnk+OE8ZNIsubnbiVZMA=="
 ---
 

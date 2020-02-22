@@ -6,8 +6,8 @@ publishedDateTime: 2020-02-10T18:43:00Z
 webUrl: "https://medium.com/@bo.lau/the-role-of-machine-learning-in-marketing-60918b8f51e2"
 type: article
 quality: 71
-heat: -1
-published: false
+heat: 91
+published: true
 
 provider:
   name: Medium
@@ -29,72 +29,32 @@ images:
     title: "The Role of Machine Learning in Marketing"
 
 related:
-  - title: "AI And The Ghost In The Machine"
-    excerpt: "If you search for ‘sunset’ in the pictures on your phone, it’s AI vision that finds them.” This sort of artificial intelligence is what the industry calls “weak AI”. Weak AI is ..."
-    publishedDateTime: 2020-02-08T00:00:00Z
-    webUrl: "https://hackaday.com/2017/02/06/ai-and-the-ghost-in-the-machine/"
+  - title: "Influence marketing’s problems can be solved with a machine-learning solution"
+    excerpt: "But the rapid growth of this channel (in little over 10 years) has brought with it significant debate on its effectiveness and ethics. And those criticisms warrant the introduction of machine learning. Criticisms levelled at the industry and individual influencers have included: a lack of transparency of the effectiveness of influencers ..."
+    publishedDateTime: 2020-02-10T20:08:00Z
+    webUrl: "https://mumbrella.com.au/influence-marketings-problems-can-be-solved-with-a-machine-learning-solution-616382"
     type: article
     provider:
-      name: Hackaday
-      domain: hackaday.com
-    quality: 137
+      name: Mumbrella
+      domain: mumbrella.com.au
+    quality: 21
     images:
-      - url: "https://hackaday.com/wp-content/uploads/2017/02/ghost.jpg"
-        width: 3000
-        height: 1815
-  - title: "Arm brings AI and machine learning to IoT and the edge"
-    excerpt: "However, because a great deal of ML and AI-based algorithm work is being created in frameworks, such as TensorFlow, the company is also bringing support for its new IP designs into TensorFlow Lite Micro, which is optimized for the types of smaller devices for which these new chips are intended. In addition to software, there are several ..."
-    publishedDateTime: 2020-02-11T16:10:00Z
-    webUrl: "https://www.techspot.com/news/83965-arm-brings-ai-machine-learning-iot-edge.html"
+      - url: "https://mumbrella.com.au/wp-content/uploads/2019/05/iStock-917159056.jpg"
+        width: 1254
+        height: 836
+  - title: "North America is the leading Machine Translation Market Globally Owing to the Abundant Demands from the IT Sector of the U.S"
+    excerpt: "The increasing investments and developments in artificial intelligence and machine learning by technology giants will bolster the North America machine translation market. On the basis of technology, the SMT segment has shown a lucrative growth over the ..."
+    publishedDateTime: 2020-02-14T04:57:00Z
+    webUrl: "https://www.cmo.com.au/mediareleases/38383/north-america-is-the-leading-machine-translation/"
     type: article
     provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 68
-  - title: "AI and machine learning will dominate the CIO agenda this year"
-    excerpt: "We are experiencing a data revolution. Data has become the engine of the global economy and it’s growing like never before. Our relationships, our jobs, our health, and our security all depend on it. Some industry experts say over 90 percent of the world ..."
-    publishedDateTime: 2020-02-14T08:30:00Z
-    webUrl: "https://www.benefitnews.com/opinion/ai-and-machine-learning-will-dominate-the-cio-agenda-this-year"
-    type: article
-    provider:
-      name: Employee Benefit News
-      domain: benefitnews.com
-    quality: 54
+      name: cmo.com.au
+      domain: cmo.com.au
+    quality: 0
     images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/f91ef0e/2147483647/strip/true/crop/1200x630+0+22/resize/1200x630!/quality/90/?url=https%3A%2F%2Farizent.brightspotcdn.com%2Ff9%2Fe4%2F8e285a8f4049b010e65718bd30fc%2Fai-studies.jpg"
-        width: 1200
-        height: 630
-  - title: "How Will Machine Learning Serve the Hotel Industry in 2020 and Beyond?"
-    excerpt: "Machine learning will help the hotel industry to remain tech-savvy and also help them to save money, improve service, and grow more efficient. Fremont, CA: Artificial intelligence (AI) implementation grew tremendously last year alone such that any business that does not consider the implications of machine learning (ML) will find itself in ..."
-    publishedDateTime: 2020-02-07T23:24:00Z
-    webUrl: "https://www.cioreview.com/news/how-will-machine-learning-serve-the-hotel-industry-in-2020-and-beyond-nid-31155-cid-40.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 39
-    images:
-      - url: "https://www.cioreview.com/newsimages/705x485_w12f.jpg"
-        width: 705
-        height: 485
-  - title: "Arm Brings AI And Machine Learning To IoT And The Edge"
-    excerpt: "However, because a great deal of ML and AI-based algorithm work is being created in frameworks, such as TensorFlow, the company is also bringing support for its new IP designs into TensorFlow Lite Micro, which is optimized for the types of smaller devices for which these new chips are intended. In addition to software, there are several ..."
-    publishedDateTime: 2020-02-12T14:19:00Z
-    webUrl: "https://seekingalpha.com/article/4323431-arm-brings-ai-and-machine-learning-to-iot-and-edge"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 38
-  - title: "Is CoaXPress the Best Interface in Multi-Camera Machine Vision Systems?"
-    excerpt: "AMR Innovation Arrives at MODEX 2020 Discussing ATX West with LMI Technologies COMPUTER VISION AND ROBOTICS EXPAND INDUSTRIAL CAPABILITIES Deployment of an Automation Solution - Process, People, Technology Cobots Versus Industrial Robots First introduced in 2008 by the CoaXPress Consortium, the original version of CXP supported a maximum data ..."
-    publishedDateTime: 2020-02-12T22:24:00Z
-    webUrl: "https://www.roboticstomorrow.com/news/2020/02/12/is-coaxpress-the-best-interface-in-multi-camera-machine-vision-systems/14852/"
-    type: article
-    provider:
-      name: Robotics Tomorrow
-      domain: roboticstomorrow.com
-    quality: 4
+      - url: "https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg"
+        width: 600
+        height: 246
 
 secured: "BD4R9BJI6siHp/qPGNVidIAejwGDGCS/zU/45l/Fbqf77Q3MUPAfXJjQ3LQGFuKxuxsO0SfxpkDGlnJfvURUB/05UIyCPwyy2eTbqXaUqMjzDuwWZcuTFl1BE91StAUzcOZU6BE/brDih5pOqAXkPgpkR5nzF1sUUbq5v/JzlLm9kFEpsHO346ocOwvf/N5lhwYeQxOGphJQsuglLGnsEj/lMbwqWgzpd75BdvbRq/X9MDwgLcL8kK466KcVvvuHa1KysHQ5tFeu0UJGh9Xo9Z/OBGHhzABG0S5gEVTp2DCwsjbOY6D7q2+T/ig+JBoB5KlK2qri8O4RtNOiIuZZDhu9ivC7pHeY05AnjRNEa5NJKy3kW12nGZJ+1VXpy/euN8s9zL5PxlyiZ1cFTmMuRkJGGnj7hhLtClV8BrxRbZvKyZkgb8V005+fSoVsFdMDIES6tHFPNNbqLl8vX68jqhhKpeZnz5f0mffSZCYpfUQ=;z9MhOzaZdr7USDjhfNhZ2Q=="
 ---
