@@ -2,18 +2,22 @@
 category: news
 title: "Scientists discover powerful antibiotic using AI"
 excerpt: "In a world first, scientists have discovered a new type of antibiotic using artificial intelligence (AI). It has been heralded by experts as a major breakthrough in the fight against the growing problem of drug resistance. A powerful algorithm was used to analyse more than one hundred million chemical compounds in a matter of days. The newly ..."
-publishedDateTime: 2020-02-21T16:32:00Z
-webUrl: "https://www.bbc.co.uk/news/health-51586010"
-ampWebUrl: "https://www.bbc.co.uk/news/amp/health-51586010"
-cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/health-51586010"
+publishedDateTime: 2020-02-21T16:40:00Z
+webUrl: "https://www.bbc.com/news/health-51586010"
+ampWebUrl: "https://www.bbc.com/news/amp/health-51586010"
+cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/health-51586010"
 type: article
-quality: 57
-heat: -1
-published: false
+quality: 87
+heat: 177
+published: true
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: "/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -70,6 +74,43 @@ related:
       - url: "https://i.guim.co.uk/img/media/5ad9424c30e580fdc638c52ef7cd200e61ad6e07/363_670_3568_2141/master/3568.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0b80c4e4b7fb6e665ef4567b4a989f87"
         width: 600
         height: 360
+  - title: "Medical Breakthrough: Deep Learning Ai Discovers Surprising New Antibiotics"
+    excerpt: "Deep learning AI can recognize individual faces. The same technology is being adapted to recognize potential antibiotics."
+    publishedDateTime: 2020-02-20T20:15:00Z
+    webUrl: "https://patch.com/us/across-america/medical-breakthrough-deep-learning-ai-discovers-surprising-new-antibiotics"
+    type: article
+    provider:
+      name: Patch
+      domain: patch.com
+    quality: 52
+    images:
+      - url: "https://patch.com/img/cdn20/shutterstock/22908971/20200220/014539/styles/patch_image/public/shutterstock-1060302206___20134451109.jpg"
+        width: 599
+        height: 449
+  - title: "Aided by machine learning, scientists find a novel antibiotic able to kill superbugs in mice"
+    excerpt: "A study published Thursday in the journal Cell describes how researchers at the Massachusetts Institute of Technology used machine learning to identify a molecule that appears capable of countering some of the world’s most formidable pathogens. When tested in mice, the molecule, dubbed halicin, effectively treated the gastrointestinal bug ..."
+    publishedDateTime: 2020-02-20T16:07:00Z
+    webUrl: "https://www.statnews.com/2020/02/20/machine-learning-finds-novel-antibiotic-able-to-kill-superbugs/"
+    type: article
+    provider:
+      name: STAT
+      domain: statnews.com
+    quality: 43
+    images:
+      - url: "https://www.statnews.com/wp-content/uploads/2020/02/c.-difficile-1024x576.jpg"
+        width: 1024
+        height: 576
+  - title: "MIT Disrupts Pharma, Uses AI to Discover a Novel Antibiotic"
+    excerpt: "What makes this remarkable is that the MIT researchers used artificial intelligence (AI) machine learning to discover the new antibiotic, an achievement that heralds the disruption of traditional research and drug development processes deployed by pharmaceutical industry behemoths. Antibiotic resistance is a global existential threat that is ..."
+    publishedDateTime: 2020-02-20T23:23:00Z
+    webUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202002/mit-disrupts-pharma-uses-ai-discover-novel-antibiotic"
+    ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202002/mit-disrupts-pharma-uses-ai-discover-novel-antibiotic?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202002/mit-disrupts-pharma-uses-ai-discover-novel-antibiotic?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 37
   - title: "Powerful antibiotics discovered using AI"
     excerpt: "The researchers say the antibiotic, called halicin, is the first discovered with artificial intelligence (AI). Although AI has been used to aid parts of the antibiotic-discovery process before, they say that this is the first time it has identified completely new kinds of antibiotic from scratch, without using any previous human assumptions."
     publishedDateTime: 2020-02-20T18:54:00Z
@@ -83,7 +124,31 @@ related:
       - url: "https://media.nature.com/lw1024/magazine-assets/d41586-020-00018-3/d41586-020-00018-3_17728260.jpg"
         width: 1024
         height: 576
+  - title: "Artificial Intelligence Model Identifies ‘Amazing’ Antibiotic Candidate"
+    excerpt: "The new antibiotic candidate, which has been given the name halicin—after the fictional artificial intelligence system from “2001: A Space Odyssey,”—was discovered in the Drug Repurposing Hub, and is structurally different to conventional antibiotics. Initial in vivo experiments showed that halicin was effective against Clostridium ..."
+    publishedDateTime: 2020-02-21T13:00:00Z
+    webUrl: "https://www.genengnews.com/news/artificial-intelligence-model-identifies-amazing-antibiotic-candidate/"
+    type: article
+    provider:
+      name: GEN
+      domain: genengnews.com
+    quality: 37
+    images:
+      - url: "https://www.genengnews.com/wp-content/uploads/2020/02/MIT-New-Antibiotic-01_0.jpg"
+        width: 639
+        height: 426
+  - title: "MIT Uses AI to Discover a Novel Antibiotic"
+    excerpt: "It was renamed to halicin by the MIT researchers. According to a MIT news report released today, the name was inspired by the fictional sentient AI computer with artificial general intelligence named HAL (Heuristically Programmed ALgorithmic Computer) from Arthur C. Clarke’s Space Odyssey series of science fiction novels and the iconic and ..."
+    publishedDateTime: 2020-02-21T17:14:00Z
+    webUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202002/mit-uses-ai-discover-novel-antibiotic"
+    ampWebUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202002/mit-uses-ai-discover-novel-antibiotic?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202002/mit-uses-ai-discover-novel-antibiotic?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 37
 
-secured: "z7CBGgTGbE8PZtmR/u7HL+fQCACQFlTwEFYeYbZoAzkEA1mr14nUpyZzlc326PXUgQmE47/l6zGNVIpA3+gsqWEFU4dr01GbYCgR2gj+0tuvM88+DAreFrlfbmOS+Hnrfg0uQOsRQmLSIozjrMrsXTT4IYd1EMoRUzTteLw+dBIMGxe/GOcJed5B9JeMHsDZN6DFRSRKa1SppJafQqEkF3AFugaSCTws0/2UuYV+XbQZsWS+4lA0ybAJUw4B/JtlrNM0AqPfZ2Jm5OVtUqR4QqWxPUU48NvVxBddRrdbLjYWkVtHOm0YWm228y34goq2;nibAkd55QA+ySZxyw/0OiA=="
+secured: "wWxY+uI5sfnKycq1S9rWdBNnF3nNHav/au9zcQYijU66K3OSxcdkdlaWiYgNyIllmOsjewsbSqm9yCgy9ApG0n1J8gVWHkNgRsYeWS4Vm3dnd2U8gUjXf/aHGXeEMi6wlPVwLma/GT3RUFLbmNQJkD9OCSB6yCf3cDspkRlTZ4uwvYR4aej3v2OM7oOgKtwpp6bnH58RYHHL7mraVhQP0ZBZHzybEnspxo3CO1TgGU1Nisp5vFw2I80NXVY/ZfgazfWPkQAiL59Vh1g1fFJNFZV2ZLf2Fd2uFJZ9SOEdH7kso+y0dg1puu0q+Ly8QC4X;wCaPjUuHwgd3Goi40t/ldQ=="
 ---
 

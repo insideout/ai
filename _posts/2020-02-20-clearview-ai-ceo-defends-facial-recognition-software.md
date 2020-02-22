@@ -39,6 +39,21 @@ related:
       - url: "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png"
         width: 1200
         height: 630
+  - title: "Canadian Privacy Commissioners to Investigate Creepy Facial Recognition Firm Clearview AI"
+    excerpt: "Canadian authorities are investigating shady face recognition company Clearview AI on the grounds that its scraping of billions of photos from the web might violate privacy laws, Reuters reported on Friday. According to Reuters, privacy commissioners from the Canadian federal government and of the provinces of British Columbia, Alberta ..."
+    publishedDateTime: 2020-02-21T23:37:00Z
+    webUrl: "https://gizmodo.com/canadian-privacy-commissioners-to-investigate-creepy-fa-1841841033"
+    ampWebUrl: "https://gizmodo.com/canadian-privacy-commissioners-to-investigate-creepy-fa-1841841033/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/canadian-privacy-commissioners-to-investigate-creepy-fa-1841841033/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 95
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/s--k8Q9PwVM--/c_scale,f_auto,fl_progressive,q_80,w_800/thuqbup5w7zmofhx9lam.png"
+        width: 800
+        height: 450
   - title: "Clearview AI's founder defends controversial facial recognition app"
     excerpt: "Hoan Ton-That's app, Clearview AI, has triggered fears about facial recognition — and the dystopian future it could foreshadow. CNN Business' Donie O'Sullivan sits down with the CEO to talk about questions of legality, privacy, and bias in the era of facial recognition."
     publishedDateTime: 2020-02-18T14:19:00Z
@@ -62,6 +77,6 @@ related:
       domain: ibtimes.com
     quality: 19
 
-secured: "EuCz/hyAc8/Jc3Krj0ayFtnxRNObIGBbWDss1COVg/+gzGvzfinJ9Mb66OYPVV3zsASXiysyKAW8kPO12HNvkrdzFGvdqtgHtfVUyX2tpjdw7zsYumhuI5l+MTQagaPszna0qVlsAVNXuSbkkPRdX7H+LBqbWUY1Lw029Vh+ldsd/C7vOmdm09E1SNLxAFULM6yS6tm7aDdx4C2Cl+kSe6DdMVNKMWpecmTXADERXrz/ugV9kEuvgZKVdLF0DWDU/PAEER98RqJ0CYuZED8sBLH8iOR/bWGgKtCjJny7XFRkoBJaqgD4eFbrONoqETSz;hK+AyT52IYstFUHd7GYV1g=="
+secured: "XI1JD/Axx0hugl7dCrwfYzVkUP0ohlJ2XjE4a/M3mIwPo6cLNcx1FYMTQGPYj/iFBuJj4UHUQiJ/Tzgrt8MHO2rYNZ/pgWpfDsU1jPipro/1eZolOT4r7R++/TyZvBShdho+dtsgMjci0xKi4zvRttqkRB9kYjrUEuIAgcYtK4zKVc8qYq6WLbipvgktMpaL8BetAzmk33hIZg10Odo8oCwO8lf9/t91bdhjdBXU6ApJjdfRLUmdjG5m927vDx3C0eoAHBSDVG3HRgFdSOby8cDYFoPTjbZCNJAnh9YsHjFH4p7FHd8NRLvmSEfljZP84kk3Rzr5Ct8m2zPbOqle0RI9slseidpVSrogzQ5ih749ekfjzP0TJw8L8xGNgYW9R5zRC9KbS76yScQJDCuEZy/bp25lzQOdk6R6atoP0EqZd0A5nz0xvtrWV0uqQoflJc2BASyY9R7Lytb0KE+2nnFGEX6QjqDQXqg1yBZieWY=;2xlXkF32aQR57jWd5CcAUg=="
 ---
 

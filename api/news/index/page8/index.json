@@ -2,55 +2,10 @@
   "page": 8,
   "value": [
     {
-      "path": "_posts/2020-02-20-london-police-just-turned-on-facial-recognition-in-one-of-the-worlds-busiest-shopping-districts.md",
-      "title": "London Police Just Turned On Facial Recognition In One Of The World’s Busiest Shopping Districts",
-      "excerpt": "Just across from the Microsoft store on London’s Regent Street, and just outside the entrance to the Oxford Circus tube station, cameras atop dark blue police vans are watching passersby. London's Metropolitan Police says the rollout of the \"live\" facial recognition across the British capital would reduce serious crime,",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/thomasbrewster/2020/02/20/london-police-just-turned-on-facial-recognition-in-one-of-the-worlds-busiest-shopping-districts/",
-      "ampWebUrl": "https://www.forbes.com/sites/thomasbrewster/2020/02/20/london-police-just-turned-on-facial-recognition-in-one-of-the-worlds-busiest-shopping-districts/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/thomasbrewster/2020/02/20/london-police-just-turned-on-facial-recognition-in-one-of-the-worlds-busiest-shopping-districts/amp/",
-      "publishedDateTime": "2020-02-20T06:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e4e88d0765d4500072cc76a%2F0x0.jpg",
-          "width": 1200,
-          "height": 794,
-          "title": "London Police Just Turned On Facial Recognition In One Of The World’s Busiest Shopping Districts",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_posts/2020-02-20-mass-adoption-of-ai-in-financial-services-expected-within-two-years.md",
       "title": "Mass Adoption Of AI In Financial Services Expected Within Two Years",
       "excerpt": "A significant number of financial industry executives from 151 financial institutions in 33 countries recently reported that within the next two years they expect to become mass adopters of AI and expect AI to become an essential business driver across the financial industry.",
-      "heat": 90,
+      "heat": 89,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/20/mass-adoption-of-ai-in-financial-services-expected-within-two-years/",
@@ -312,7 +267,7 @@
       "path": "_posts/2020-02-20-retail-optimization-startup-teikametrics-raises-15m-as-it-expands-beyond-amazon-and-beyond-ads.md",
       "title": "Retail optimization startup Teikametrics raises $15M as it expands beyond Amazon and beyond ads",
       "excerpt": "Teikametrics, a startup that helps retailers optimize their online ad spending ... Looking at the broader retail and advertising landscape, McLean-Foreman acknowledged, “AI is almost a buzzword,” but he argued, “We are actually AI-first. The product itself is automation, it is intelligent decision-making.” He added, “Advertising ...",
-      "heat": 76,
+      "heat": 75,
       "tags": null,
       "type": "article",
       "webUrl": "https://techcrunch.com/2020/02/19/teikametrics-funding/",
@@ -384,7 +339,7 @@
       "path": "_posts/2020-02-20-she-broke-the-glass-ceiling-to-establish-her-coliving-start-up.md",
       "title": "She Broke the Glass Ceiling To Establish Her Coliving Start-up",
       "excerpt": "Prior to this, the trio had founded Augbrain which uses artificial intelligence (AI) in education. However, the product was too complicated for ... Zolostays has raised $37 million in total till date. Choudhry revealed that the start-up is in advanced talks with new investors to raise up to $100 million for Series C round through a mix of ...",
-      "heat": 74,
+      "heat": 72,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.entrepreneur.com/article/346594",
@@ -1149,7 +1104,7 @@
       "path": "_posts/2020-02-21-facial-recognition-company-clearview-ai-probed-by-canada-privacy-agencies.md",
       "title": "Facial recognition company Clearview AI probed by Canada privacy agencies",
       "excerpt": "Canadian privacy authorities have launched an investigation into New York-based Clearview AI to determine whether the firm’s use of facial recognition technology complies with the country’s privacy laws,",
-      "heat": 133,
+      "heat": 143,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.reuters.com/article/us-clearview-ai-canada-idUSKBN20F2I3",
@@ -1496,51 +1451,6 @@
       ]
     },
     {
-      "path": "_posts/2020-02-21-machine-learning-used-to-discover-powerful-new-antibiotic-that-can-kill-some-of-worlds-most-dangerous-bacteria.md",
-      "title": "Machine Learning Used to Discover Powerful New Antibiotic That Can Kill Some of World's Most Dangerous Bacteria",
-      "excerpt": "\"This groundbreaking work signifies a paradigm shift in antibiotic discovery and indeed in drug discovery more generally,\" said researcher Roy Kishony.",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.newsweek.com/machine-learning-new-antibiotic-world-dangerous-bacteria-1488470",
-      "ampWebUrl": "https://www.newsweek.com/machine-learning-new-antibiotic-world-dangerous-bacteria-1488470?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/machine-learning-new-antibiotic-world-dangerous-bacteria-1488470?amp=1",
-      "publishedDateTime": "2020-02-21T08:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1568640/halicin-antibiotics.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": "Machine Learning Used to Discover Powerful New Antibiotic That Can Kill Some of World's Most Dangerous Bacteria",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_posts/2020-02-21-microsoft-launches-entrepreneurship-program-targeted-at-social-entrepreneurs.md",
       "title": "Microsoft launches entrepreneurship program targeted at social entrepreneurs",
       "excerpt": "Under the program, which will be available in 140 countries, qualifying social enterprises will receive access to free Microsoft cloud technologies, including up to $120,000 in Azure credits, along with technical ... and Zindi's web platform has been created to host machine learning and AI competitions online in Africa.",
@@ -1589,7 +1499,7 @@
       "path": "_posts/2020-02-21-moscow-deploys-facial-recognition-technology-for-coronavirus-quarantine.md",
       "title": "Moscow deploys facial recognition technology for coronavirus quarantine",
       "excerpt": "Moscow is using facial recognition technology to ensure people ordered to remain at home or at their hotels under coronavirus quarantine do so.",
-      "heat": 380,
+      "heat": 383,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.cnbc.com/2020/02/21/moscow-deploys-facial-recognition-technology-for-coronavirus-quarantine.html",
@@ -1628,6 +1538,50 @@
       "topics": [
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-21-scientists-discover-powerful-antibiotic-using-ai.md",
+      "title": "Scientists discover powerful antibiotic using AI",
+      "excerpt": "In a world first, scientists have discovered a new type of antibiotic using artificial intelligence (AI). It has been heralded by experts as a major breakthrough in the fight against the growing problem of drug resistance. A powerful algorithm was used to analyse more than one hundred million chemical compounds in a matter of days. The newly ...",
+      "heat": 177,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bbc.com/news/health-51586010",
+      "ampWebUrl": "https://www.bbc.com/news/amp/health-51586010",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/health-51586010",
+      "publishedDateTime": "2020-02-21T08:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/6764/production/_110986462_gettyimages-1068778256.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": "Scientists discover powerful antibiotic using AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -2100,6 +2054,50 @@
           "width": 1280,
           "height": 860,
           "title": "Serbian Parliament apologizes for 1995 Srebrenica, Bosnia, massacre; President Boris Tadic says it strengthens links to EU",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2019-09-30-face-recognition-on-a-raspberry-pi-using-3d-model-for-face-alignment.md",
+      "title": "Face recognition on a Raspberry Pi using 3D model for face alignment",
+      "excerpt": "Many face detectors exist in the literature each having its advantages and disadvantages. Here we used the “Viola & Jones ... recognition task easier. For example we could use a 2D alignment ...",
+      "heat": 152,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/@appstud/face-recognition-on-a-raspberry-pi-using-3d-model-for-face-alignment-4bdc38d50dd1",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-09-30T10:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/640/1*Y5Z8dUctqXo2LnLmxkZlzA.jpeg",
+          "width": 640,
+          "height": 480,
+          "title": "Face recognition on a Raspberry Pi using 3D model for face alignment",
           "attribution": null
         }
       ],

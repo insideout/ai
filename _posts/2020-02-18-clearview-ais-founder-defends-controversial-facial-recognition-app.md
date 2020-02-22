@@ -39,6 +39,21 @@ related:
       - url: "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png"
         width: 1200
         height: 630
+  - title: "Canadian Privacy Commissioners to Investigate Creepy Facial Recognition Firm Clearview AI"
+    excerpt: "Canadian authorities are investigating shady face recognition company Clearview AI on the grounds that its scraping of billions of photos from the web might violate privacy laws, Reuters reported on Friday. According to Reuters, privacy commissioners from the Canadian federal government and of the provinces of British Columbia, Alberta ..."
+    publishedDateTime: 2020-02-21T23:37:00Z
+    webUrl: "https://gizmodo.com/canadian-privacy-commissioners-to-investigate-creepy-fa-1841841033"
+    ampWebUrl: "https://gizmodo.com/canadian-privacy-commissioners-to-investigate-creepy-fa-1841841033/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/canadian-privacy-commissioners-to-investigate-creepy-fa-1841841033/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 95
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/s--k8Q9PwVM--/c_scale,f_auto,fl_progressive,q_80,w_800/thuqbup5w7zmofhx9lam.png"
+        width: 800
+        height: 450
   - title: "Clearview AI CEO Defends Facial Recognition Software"
     excerpt: "Clearview AI is an astonishing piece of technology—a groundbreaking facial recognition app that collects billions of images from social media and all across the internet. Law enforcement agencies around the world are becoming enthusiastic clients, using the app to identify suspects. Hari speaks to the company’s co-founder and CEO ..."
     publishedDateTime: 2020-02-20T05:31:00Z

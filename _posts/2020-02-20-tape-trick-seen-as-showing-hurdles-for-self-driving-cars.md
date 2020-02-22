@@ -3,7 +3,7 @@ category: news
 title: "Tape trick seen as showing hurdles for self-driving cars"
 excerpt: "To be sure, the real-world threats of such an occurrence today are limited. For one, self-driving cars are still in the development phase, and most are being tested with drivers behind the wheel. Vehicles with advanced driver-assist systems that are available now still require the human to be attentive. And the McAfee researchers were only able ..."
 publishedDateTime: 2020-02-20T07:50:00Z
-webUrl: "https://www.arkansasonline.com/news/2020/feb/20/tape-trick-seen-as-showing-hurdles-for-/?business-national"
+webUrl: "https://www.arkansasonline.com/news/2020/feb/20/tape-trick-seen-as-showing-hurdles-for-/"
 type: article
 quality: 24
 heat: -1
@@ -177,19 +177,6 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 34
-  - title: "Rules eased for self-driving vehicle"
-    excerpt: "DETROIT -- For the first time, the U.S. government's highway safety agency has approved a company's request to deploy a self-driving vehicle that doesn't meet federal safety standards that apply to cars and trucks driven by humans. The National Highway Traffic Safety Administration granted temporary approval for Silicon Valley robotics company ..."
-    publishedDateTime: 2020-02-07T06:44:00Z
-    webUrl: "https://www.arkansasonline.com/news/2020/feb/07/rules-eased-for-self-driving-vehicle-20/?latest"
-    type: article
-    provider:
-      name: Arkansas Democrat-Gazette
-      domain: arkansasonline.com
-    quality: 24
-    images:
-      - url: "https://media.arkansasonline.com/img/photos/2020/02/06/resized_265633-1d-autonomous-0207rgb_44-28621_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
-        width: 600
-        height: 399
   - title: "Will self-driving cars create more distracted drivers?"
     excerpt: "Technologies like smartphones have made it easier to get distracted, but on the flip side, tech also seems to offer a solution. Self-driving vehicles could eliminate the dangers of distraction, but in their current state, they may do more harm than good. Distraction while driving is a serious issue. In 2017, crashes involving distracted drivers ..."
     publishedDateTime: 2020-02-07T16:42:00Z
@@ -319,6 +306,6 @@ related:
       domain: openpr.com
     quality: 0
 
-secured: "BymOqg2lyvrQ7becc/HEJFjqRdQ/QfYiVu2vwaits9O6MsV5wDVZ1KaIDf7KGGaI+F+XgwDoD+100cVd2Vpkim2pCVBPxQZwNuUhX9PJHOnn7uFxvRWIXN3hbcKQXhbm3kRKyLVe/+xQStomYG2VNvRUU7GjCv5u6ggGm6aimhbEp2sjyrkceDAW3JJcABYXUxx/+kzENZkCmYKJTbM/RVyqsTLq6SmlBod92M87x1jF2MBBmsYjH8ISnk+xebLgKCOBZznCwgUmKPY+CxduKS8ZGcOH3FL4VCCbM8G8faT7iFV3FNxN5sLkR+M6st8s;kqa0hT77+PBLKcBm2lUfng=="
+secured: "UykCxAAaggApIsfmOnw4g0HzFVgz+aVyxa4hzK6NAav1rgDPckYrFpPwWj7lv/vfwR0LUbIb5nXReUQBc9tVmo1NUhww8aIIxIgYEHAJGj6HOj+MRbuANY4F2RSh3kKrX5jfdIKmTy6yqt213iv4soeSA0w6+OzpMYDnr4SV+YoDjGpZkeRX9qhkzsLcSDeZwlpU3x/ze5tW4+wf+PrX+FeaNIo8wyKMCVKvfedQsj3DF5ukVKHSo09/O7ucVoWQTQkAOmHhuBd3VK3fbNn1SSbRYoycDm4z6nScmOu1Du4zoxjTcAjsy9naXCyKaF9n;3ycAGBiWaeiAiSe4/vyj9g=="
 ---
 

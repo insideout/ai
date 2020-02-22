@@ -2,51 +2,6 @@
   "page": 19,
   "value": [
     {
-      "path": "_posts/_archive/2020-01-24-investing-in-ai-a-beginners-guide.md",
-      "title": "Investing in AI: A Beginner's Guide",
-      "excerpt": "Artificial intelligence involves the use of algorithms ... itself as an early leader in self-driving cars. The tech giant's Waymo subsidiary is currently the only American unit that is testing ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/01/24/investing-in-ai-a-beginners-guide.aspx",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/01/24/investing-in-ai-a-beginners-guide.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/24/investing-in-ai-a-beginners-guide.aspx",
-      "publishedDateTime": "2020-01-24T07:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F484858%2Fgettyimages-851955936.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": "Investing in AI: A Beginner's Guide",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-01-24-london-police-deploy-real-time-facial-recognition-cameras.md",
       "title": "London police deploy real-time facial recognition cameras",
       "excerpt": "(Reuters) — British police are to start operational use of live facial recognition cameras in London, despite warnings over privacy from rights groups and concerns expressed by the government’s own surveillance watchdog. “The use of live facial recognition technology will be intelligence-led and deployed to specific locations in London ...",
@@ -2179,6 +2134,50 @@
           "width": 1200,
           "height": 771,
           "title": "Software developers can create better programs with AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-27-taiwan-is-opening-a-giant-ai-focused-business-park.md",
+      "title": "Taiwan Is Opening A Giant AI-Focused Business Park",
+      "excerpt": "The government of Hsinchu County, near Taipei, will open a 126,000-square-meter AI business park near one of Taiwan’s major all-purpose high-tech zones and two top universities.",
+      "heat": 187,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/ralphjennings/2020/01/27/taiwan-is-opening-a-giant-ai-focused-business-park/",
+      "ampWebUrl": "https://www.forbes.com/sites/ralphjennings/2020/01/27/taiwan-is-opening-a-giant-ai-focused-business-park/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ralphjennings/2020/01/27/taiwan-is-opening-a-giant-ai-focused-business-park/amp/",
+      "publishedDateTime": "2020-01-26T22:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e2a897aa854780006af60ec%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4800%26cropY1%3D147%26cropY2%3D2847",
+          "width": 1200,
+          "height": 675,
+          "title": "Taiwan Is Opening A Giant AI-Focused Business Park",
           "attribution": null
         }
       ],

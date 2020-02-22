@@ -2,43 +2,6 @@
   "page": 18,
   "value": [
     {
-      "path": "_posts/_archive/2020-01-23-california-robotics-company-sues-business-partner-over-ai-ocean-vehicle.md",
-      "title": "California Robotics Company Sues Business Partner Over AI Ocean Vehicle",
-      "excerpt": "Los Angeles County robotics company Apium sued a maritime vehicles manufacturer for breach of contract and trade secret misappropriation in federal court Wednesday. Apium partnered with Aquabotix Technology Corp. in the competitive and fast-moving artificial intelligence space to develop robots that could swarm in the ocean, according to a ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.law.com/therecorder/2020/01/22/california-robotics-company-sues-business-partner-over-ai-ocean-vehicle/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-22T16:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Law",
-        "domain": "law.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.law.com/contrib/content/uploads/sites/403/2020/01/APIUM-Swarm-Robotics-Article-202001222322.jpg",
-          "width": 620,
-          "height": 372,
-          "title": "California Robotics Company Sues Business Partner Over AI Ocean Vehicle",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-01-23-can-ai-drive-education-forward.md",
       "title": "Can AI Drive Education Forward?",
       "excerpt": "Teachers are asked to incorporate more technology in the classroom but they are not necessarily given the time to learn and make the most out of it.",
@@ -2105,6 +2068,51 @@
       "topics": [
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-24-investing-in-ai-a-beginners-guide.md",
+      "title": "Investing in AI: A Beginner's Guide",
+      "excerpt": "Artificial intelligence involves the use of algorithms ... itself as an early leader in self-driving cars. The tech giant's Waymo subsidiary is currently the only American unit that is testing ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/01/24/investing-in-ai-a-beginners-guide.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/01/24/investing-in-ai-a-beginners-guide.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/24/investing-in-ai-a-beginners-guide.aspx",
+      "publishedDateTime": "2020-01-24T07:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F484858%2Fgettyimages-851955936.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": "Investing in AI: A Beginner's Guide",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
       ]
     }
   ],

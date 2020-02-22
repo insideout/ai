@@ -1,22 +1,27 @@
 ---
 category: news
-title: "AI Is Used to Discover a Novel Antibiotic"
-excerpt: "Researchers announced the breakthrough discovery of a new type of antibiotic compound that is capable of killing many types of harmful bacteria, including deadly antibiotic-resistant strains, and published their findings in Cell on February 20. What makes this remarkable is that the researchers, from the Massachusetts Institute of ..."
-publishedDateTime: 2020-02-21T18:09:00Z
-webUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202002/ai-is-used-discover-novel-antibiotic"
-ampWebUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202002/ai-is-used-discover-novel-antibiotic?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202002/ai-is-used-discover-novel-antibiotic?amp"
+title: "Ask Dr. Nandi: Artificial intelligence yields new antibiotic"
+excerpt: "Now, artificial intelligence has been around for some time ... Dr. Partha Nandi, MD talks with Detroit’s very own Dr. Gail Parker, PhD who shares her methods of healthiness through yoga therapy. Also joining the discussion is actress Leila Almas who reveals how her career was saved through meditative practice. Plus, a discussion on meditation ..."
+publishedDateTime: 2020-02-21T22:03:00Z
+webUrl: "https://www.wxyz.com/news/health/ask-dr-nandi/ask-dr-nandi-artificial-intelligence-yields-new-antibiotic"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Psychology Today
-  domain: psychologytoday.com
+  name: WXYZ Detroit
+  domain: wxyz.com
 
 topics:
   - AI
+  - AI in Healthcare
+
+images:
+  - url: "https://ewscripps.brightspotcdn.com/dims4/default/69762f6/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fausw%2Fslices%2F3bf%2Fbe88c4e651db4a7dbe102614d7272948%2F3bfdec98d7b74f82af326e4bfb851ebf%2Fposter_e90ed55fe2cd40e998d41e9534958f14.jpg"
+    width: 1200
+    height: 630
+    title: "Ask Dr. Nandi: Artificial intelligence yields new antibiotic"
 
 related:
   - title: "Artificial intelligence yields new antibiotic"
@@ -101,19 +106,6 @@ related:
       - url: "https://cdn.iflscience.com/images/b8c230b6-a3ea-5854-9482-5d6e99b6c372/default-1582285414-cover-image.jpg"
         width: 720
         height: 405
-  - title: "Ask Dr. Nandi: Artificial intelligence yields new antibiotic"
-    excerpt: "Now, artificial intelligence has been around for some time ... Dr. Partha Nandi, MD talks with Detroit’s very own Dr. Gail Parker, PhD who shares her methods of healthiness through yoga therapy. Also joining the discussion is actress Leila Almas who reveals how her career was saved through meditative practice. Plus, a discussion on meditation ..."
-    publishedDateTime: 2020-02-21T22:03:00Z
-    webUrl: "https://www.wxyz.com/news/health/ask-dr-nandi/ask-dr-nandi-artificial-intelligence-yields-new-antibiotic"
-    type: article
-    provider:
-      name: WXYZ Detroit
-      domain: wxyz.com
-    quality: 39
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/69762f6/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fausw%2Fslices%2F3bf%2Fbe88c4e651db4a7dbe102614d7272948%2F3bfdec98d7b74f82af326e4bfb851ebf%2Fposter_e90ed55fe2cd40e998d41e9534958f14.jpg"
-        width: 1200
-        height: 630
   - title: "Using machine learning to find new antibiotics"
     excerpt: "But in a paper publishing February 20 in the journal Cell, researchers demonstrate a method to uncover new antibiotics quickly and efficiently through machine learning. James Collins, a synthetic biologist at MIT, and his team trained a deep neural network to identify possible antibiotic molecules using compounds known to suppress E."
     publishedDateTime: 2020-02-21T15:06:00Z
@@ -125,6 +117,17 @@ related:
       name: Medical Xpress
       domain: medicalxpress.com
     quality: 39
+  - title: "AI Is Used to Discover a Novel Antibiotic"
+    excerpt: "Researchers announced the breakthrough discovery of a new type of antibiotic compound that is capable of killing many types of harmful bacteria, including deadly antibiotic-resistant strains, and published their findings in Cell on February 20. What makes this remarkable is that the researchers, from the Massachusetts Institute of ..."
+    publishedDateTime: 2020-02-21T18:09:00Z
+    webUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202002/ai-is-used-discover-novel-antibiotic"
+    ampWebUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202002/ai-is-used-discover-novel-antibiotic?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202002/ai-is-used-discover-novel-antibiotic?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 37
   - title: "Artificial Intelligence brings a novel antibiotic compound"
     excerpt: "Researchers from the Massachusetts Institute of Technology (MIT) have made a scientific breakthrough where their machine-learning algorithm or Artificial Intelligence (AI) program successfully created a novel antibiotic compound. The drug has since then been tested on deadly bacteria in the lab, and in lab mice with a considerable amount of ..."
     publishedDateTime: 2020-02-21T00:44:00Z
@@ -135,6 +138,6 @@ related:
       domain: news-medical.net
     quality: 17
 
-secured: "oqs504NHtsYciNmPp2EWEiLaSgAR1L75whPdhIlDbp5r1xI+YHJQdL/7TiOk9ZSkRGRTMKpnOMaollJCvPCcWTEaaAFXoSxQP2PzTwAWfjg0DHQ6b8ivkhJPsz0VEHAUR/NyZQ+YWAlKfqVEVaKFeuZNd7KzBvTD0XskucFOkfKNB5gpO4D99I7hQGbjJeHPCtfv1TaKZbjBxQcOfnCTjNrPoC0GSPyw5MPJ8lzZomU42Z4d/M/lr2WzI93YbYlaknCQHqb6zwIpzY1HiF5E4I9mLXegi8fCYp1UrxXKKq34z+/4QimpAV0GDN2XeT1D8EtEG0HT9wC4Ar1TkevYKJccJU96G9QDENACA+gn+EkAsGLXF4WD+K5l1eYu8OqZf6iAF/mbsHWy/knlo7ceoYP6fYu3XvDpWEtuIzWshI16ncZGLnFel12SJYkEQXAq+saQhmZM6Qew3U9KROgnlPpaJd4XwkpwDSfW0eQStbA=;cLMe6c8nnoTbgdFvy+i7Ug=="
+secured: "ArFOV4D/xklmbxWXuqU5kpB+wZk5CX2fdFV3m89/fP+8Hk7DsbO5SWVtmSTvWGlh07XUGk4vJ9jxynJzH9qA3CTVkDh7Ew1I5pD1arbu8/Fk/9Erii2Sn2vu5YbBYh7B9va6ykxd6DBsITMW050DYp42FsmiwH5+pRM7QbDxamfoD2X+dLD+XxoS7pC06RVDqvX6YIjM0bVSse0iChW/xiP/CF/Pk1q2XalmchsQreMGFMEucxq1wr6SRlxprIKQe8TUGuOwP3TcURTJhtWhVsO/ZVFB1D1w3IYI7YGQ7kFiouqTQXQcVLHL6egRR9N8;szA63/dJDOK2vdlM59PvDg=="
 ---
 

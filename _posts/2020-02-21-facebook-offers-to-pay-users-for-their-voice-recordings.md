@@ -1,25 +1,29 @@
 ---
 category: news
 title: "Facebook offers to pay users for their voice recordings"
-excerpt: "The recordings, made through its new market research app Viewpoints, will help to train the speech recognition system that powers Facebook’s Portal devices, which rival Amazon’s Echo speakers and its Alexa virtual assistant. Makers of smart speakers including Facebook, Amazon, Apple and Google faced criticism last year when it emerged that ..."
-publishedDateTime: 2020-02-21T18:33:00Z
-webUrl: "https://arstechnica.com/tech-policy/2020/02/facebook-offers-to-pay-users-for-their-voice-recordings/"
+excerpt: "The recordings, made through its new market research app Viewpoints, will help to train the speech recognition system that powers Facebook’s Portal devices, which rival Amazon’s Echo speakers and its Alexa virtual assistant. Makers of smart speakers, including Facebook, Amazon, Apple and Google, faced criticism last year when it emerged ..."
+publishedDateTime: 2020-02-21T20:45:00Z
+webUrl: "https://www.latimes.com/business/story/2020-02-21/facebook-voice-recordings"
+ampWebUrl: "https://www.latimes.com/business/story/2020-02-21/facebook-voice-recordings?_amp=true"
+cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/business/story/2020-02-21/facebook-voice-recordings?_amp=true"
 type: article
-quality: 34
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Ars Technica
-  domain: arstechnica.com
-  images:
-    - url: "/assets/images/organizations/arstechnica.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Los Angeles Times
+  domain: latimes.com
 
 topics:
   - AI
   - Natural Language Processing
+
+images:
+  - url: "https://ca-times.brightspotcdn.com/dims4/default/d9b315c/2147483647/strip/true/crop/840x549+0+6/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F28%2F83%2F0c440fea4628b62ee124a28837c6%2Fvirus.jpg"
+    width: 320
+    height: 209
+    title: "Facebook offers to pay users for their voice recordings"
 
 related:
   - title: "Facebook will now pay you for your voice recordings"
@@ -357,6 +361,6 @@ related:
         width: 1763
         height: 1175
 
-secured: "slsXINOKqb9xrfsSxzRpm5dQjmJNkVwqJPcx4eBW6RTL5Eo7P+UcJgo7+m90yq3cqWfW7ZIk61pg6VSLT+vo4lqe5o/2Hsknjz8G20E2s92hYaSHQcM0d6mJBEqBA8yRTiDQV05amHkrYv4Gxtes0pvhM2CpguyXE2MhMgk85HQvcgs1bifm+/3uE8w+o0CbZ2wi+aiI4zuYSoJkhDKfTPEapRfF9/cgHgA/0VNkXy7k6H4v12zT5JQNxjADmOqQvW+LGMcvr1zS2WZ15mEA/rn5hsY8nHnfVGuLVDCKHlkCWR2pwP6YfXUsh/2uQMUTnusmmpmb9/FFq8UJouNT0XyE8k2F+ZFBSwOIlotoXnV7fUVFPN50CP0b9JkR1FETHnF357jzOetPLIghU+4TmvXmL5YTMQ/YqfhxZsy4QgnSYRjVG45enTgrPmWIa1siLwBmSTYN1lOjQWlGVCbBia2RcSn0ci9FWlnUj8hXmaI=;+tgKPEo2fY2Nl1UEDIbv2A=="
+secured: "n+MvCHm66uVy15Q3vCy6TKECyTBn3onyE/UjHoWH1uE8uOjSNFNFh7bmIn8oWcellPDvy800txow3lSPQRUrd0NcRA0f7CNUoRKLjZN8xOhWos/7sxSom+MzHRZxgKEvQUkA8ZD9pel7VITLU6EmFjJb6h0PDLfER4isrbkUIMTn6ngJJ+MKdFw2sj8OEI1b+D6HuHcwVBTzF3w90B9bFeDAOyOtCYq1F5Oncbcq9kXa74vVCriK+vVWtMW/aJQ7u4qsBXQVtq4WSdNOgm9yYRpCOuf4dK64sGK8XRg7OFRNjw6IhTHG1V4ANUtImjPG;nP7+bg3b+7nMv3rF2EECuQ=="
 ---
 

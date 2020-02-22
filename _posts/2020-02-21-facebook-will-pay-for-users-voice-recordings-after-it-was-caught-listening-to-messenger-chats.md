@@ -194,6 +194,21 @@ related:
       - url: "https://cdn.idropnews.com/wp-content/uploads/2020/02/20135522/Facebook-App-Icon.jpg"
         width: 1000
         height: 600
+  - title: "Facebook offers to pay users for their voice recordings"
+    excerpt: "The recordings, made through its new market research app Viewpoints, will help to train the speech recognition system that powers Facebook’s Portal devices, which rival Amazon’s Echo speakers and its Alexa virtual assistant. Makers of smart speakers, including Facebook, Amazon, Apple and Google, faced criticism last year when it emerged ..."
+    publishedDateTime: 2020-02-21T20:45:00Z
+    webUrl: "https://www.latimes.com/business/story/2020-02-21/facebook-voice-recordings"
+    ampWebUrl: "https://www.latimes.com/business/story/2020-02-21/facebook-voice-recordings?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/business/story/2020-02-21/facebook-voice-recordings?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 44
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/d9b315c/2147483647/strip/true/crop/840x549+0+6/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F28%2F83%2F0c440fea4628b62ee124a28837c6%2Fvirus.jpg"
+        width: 320
+        height: 209
   - title: "Facebook To Pay Users $5 For Their Voice Recordings"
     excerpt: "Facebook Inc. (NASDAQ: FB) will pay users $5 for sharing their voice recordings, the company announced Thursday. What Happened The voice recordings would be used for"
     publishedDateTime: 2020-02-21T09:48:00Z
@@ -295,15 +310,6 @@ related:
       name: The Hindu
       domain: thehindu.com
     quality: 39
-  - title: "Facebook offers to pay users for their voice recordings"
-    excerpt: "The recordings, made through its new market research app Viewpoints, will help to train the speech recognition system that powers Facebook’s Portal devices, which rival Amazon’s Echo speakers and its Alexa virtual assistant. Makers of smart speakers including Facebook, Amazon, Apple and Google faced criticism last year when it emerged that ..."
-    publishedDateTime: 2020-02-21T18:33:00Z
-    webUrl: "https://arstechnica.com/tech-policy/2020/02/facebook-offers-to-pay-users-for-their-voice-recordings/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 34
   - title: "Facebook to pay users for recording their voice to improve its speech recognition tech"
     excerpt: "Facebook has announced it will pay select users who agree to record their voice to improve its speech recognition technology. According to The Verge, the social networking giant he company will pay select users to record snippets of audio through a new programme called “Pronunciations in its Viewpoints market research app."
     publishedDateTime: 2020-02-21T10:28:00Z

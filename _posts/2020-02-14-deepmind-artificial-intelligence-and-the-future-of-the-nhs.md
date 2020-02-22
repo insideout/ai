@@ -50,15 +50,6 @@ related:
       - url: "https://www.straitstimes.com/sites/all/themes/custom/bootdemo/images/facebook_default_pic.jpg"
         width: 1200
         height: 799
-  - title: "What Happens When the Spin Doctors Adopt Machine Learning? The Future of PR"
-    excerpt: "In this special guest feature, Michael Burke, Director of Science & Technology at MSR Communications, takes a look at the state of the PR industry and its growing relationship with data science and machine learning technology. Machine learning may not replace the art of PR anytime soon, but there are countless areas where machine learning can ..."
-    publishedDateTime: 2020-02-07T06:25:00Z
-    webUrl: "https://insidebigdata.com/2020/02/04/what-happens-when-the-spin-doctors-adopt-machine-learning-the-future-of-pr/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 17
 
 secured: "Y7xZlsd0SlmIAqaGUBWRkiCvaEESytcTjkU97iefsotErjGnRDNwbhfTiwW2AxNtuaX0awlId1guKHm7UHRelBB37HkybYbAtNp3eYnVKhoDiIDT1yCXnoteVnt9jJuQtMfE2T/MQg27ST8vP77mwo7YO+uV6gk2IoxfYDxyLyodAHJuOLZF0lw5s3TK121vyvPVF3TWRa7EeqNqtBnaRipmNQml7oDDs+7O25c/LJ8bSjePqR9z5GlXoYDCQ8BgxeTwMUTEaABGUJAm5UrIGMW3kFf25AIawRRS5xMDNgD2YjgBearGLy1lpIukY6Zd;iews/r1i8cezX7MTtpCR8w=="
 ---

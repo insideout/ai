@@ -92,6 +92,19 @@ related:
       - url: "https://e3.365dm.com/20/02/1600x900/skynews-e-coli-bacteria-antibiotics_4926241.jpg?20200221070106"
         width: 1600
         height: 900
+  - title: "Ask Dr. Nandi: Artificial intelligence yields new antibiotic"
+    excerpt: "Now, artificial intelligence has been around for some time ... Dr. Partha Nandi, MD talks with Detroit’s very own Dr. Gail Parker, PhD who shares her methods of healthiness through yoga therapy. Also joining the discussion is actress Leila Almas who reveals how her career was saved through meditative practice. Plus, a discussion on meditation ..."
+    publishedDateTime: 2020-02-21T22:03:00Z
+    webUrl: "https://www.wxyz.com/news/health/ask-dr-nandi/ask-dr-nandi-artificial-intelligence-yields-new-antibiotic"
+    type: article
+    provider:
+      name: WXYZ Detroit
+      domain: wxyz.com
+    quality: 39
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/69762f6/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fausw%2Fslices%2F3bf%2Fbe88c4e651db4a7dbe102614d7272948%2F3bfdec98d7b74f82af326e4bfb851ebf%2Fposter_e90ed55fe2cd40e998d41e9534958f14.jpg"
+        width: 1200
+        height: 630
   - title: "Using machine learning to find new antibiotics"
     excerpt: "But in a paper publishing February 20 in the journal Cell, researchers demonstrate a method to uncover new antibiotics quickly and efficiently through machine learning. James Collins, a synthetic biologist at MIT, and his team trained a deep neural network to identify possible antibiotic molecules using compounds known to suppress E."
     publishedDateTime: 2020-02-21T15:06:00Z

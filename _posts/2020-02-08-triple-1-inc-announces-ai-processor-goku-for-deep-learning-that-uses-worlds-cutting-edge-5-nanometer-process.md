@@ -24,17 +24,6 @@ images:
     height: 720
     title: "TRIPLE-1, Inc. Announces AI Processor \"GOKU\" for Deep Learning That Uses World's Cutting-edge 5-nanometer Process"
 
-related:
-  - title: "TRIPLE-1, Inc. Announces AI Processor \"GOKU\" for Deep Learning That Uses World's Cutting-edge 5-nanometer Process"
-    excerpt: "/PRNewswire/ -- TRIPLE-1, Inc. (henceforth \"TRIPLE-1\"), based in Fukuoka, southwestern Japan, has announced the development of the AI processor \"GOKU\" for"
-    publishedDateTime: 2020-02-07T07:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/triple-1-inc-announces-ai-processor-goku-for-deep-learning-that-uses-worlds-cutting-edge-5-nanometer-process-301000799.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 13
-
 secured: "j21u9aNmG00tU9tKNUSKiXAqz60a6GpOCRkDMBoaQgf2D8V0zGKBFc4hmgDU//9uhVBp1jZg/dGjxmR27wvqfRR6IKdFJvLrCw1yKkIXSRhOF1aROVxQ7aV2iqqVfjKu9KN9nQ42hn4Lv7LzYafL5JfL7QHOa9jWoHg5cyHfAe9IkOWCVMTj2GPYm8LDUuI9slnXckJzM0h0hj4qKleqj8wr8d5J80aze66Z2kYSyHzNc0IpQDpf5Sg+9cqOZuziz9vtpG2oZryFxO2+pJgUQWY4Qw0GhbjFmiyZ5XFZcjvYz0HJne2rq+PmlfVfWQ8z;V/m45zK9ZAKgze9tg0MGTQ=="
 ---
 

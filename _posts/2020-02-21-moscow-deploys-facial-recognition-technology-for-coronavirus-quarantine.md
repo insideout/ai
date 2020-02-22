@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2020/02/21/moscow-deploys-facial-recognitio
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/02/21/moscow-deploys-facial-recognition-technology-for-coronavirus-quarantine.html"
 type: article
 quality: 189
-heat: 380
+heat: 383
 published: true
 
 provider:
@@ -286,6 +286,6 @@ related:
       domain: tribune.com.pk
     quality: 19
 
-secured: "OjO2rsUfnFUmz/Lse3vrJYzOEm069P9Dgv0g7G/GIpRphUJOx5PLVsFj8/tzM82sLmnXQnIP8bZydshJ+PFXCzlo9zBxwn47Cy0fbElamSqILLOlpci2LGI4fqFpJFvhL97Ytt8IOYSLpPZmsjzBHwHp2Z/TQ2yezinNUsOjk90mUyOBvv7WizlOGx9SezSUXQM7tcDe38mrwPK4qRsRUzGWABsfnug2NFS5nCfvM+slfurPNZ3Aj4Rg26ERXLnsSjCNwQN4CbG4kJPpQsVws9SRc5iw8Gf74/CDukR/EMIMhYQbOIuwqtvRzpuvHZPJqlYzlT5U2cRwvGd1StrOwtWdESVb6O07yy3ov8uohMvLS0tnLS2PWP9ZB/Sm4jNBIdQABmsFeiD3TOJ6i/CrsxnsK09IVHE1SVJT+sb627+XcVHA7idnkLm5ANQxOcXjv1TvvTgBOqoV6J4/tlWxA5weGJ5FllC/bIyTCFXONCdVXAiDW03NFkQt3wVlZGtN;ap1ikvFeBozLWwByzi2geA=="
+secured: "3jjHuCFWHgbGCzYPdiQQU/ydzsiw7x3cMhmq00BDWFfcEkZOTbz0BcKXiiWo62Xj/vl+iMP/JYCOus0t5qL+2ZVuFK0enlZ2qGIYIy2Mk7F356LFkaE6wvSU3R4IKyJOtPKpGPB5QWErQa2UFG+tB9ij/18QY0ggBH3cSPqhVRH5NGAVwMaHDxgCoVUYWwqFZ9y/uyduD1BtL8DeuwvYlnhRDpFPkDcvjBwvZCiS6BjO2OCNp+kvenIuLxXwhoUUvrD/xEtDMmbJhKaB6G2OHeQyAyHOsW4dZeDnSPu49z6sZyqv4w16ONH3mV3lhlamLY/ZYA5CvApOWGtNFHhDUaIR2JKHGCBv7VNe+RmfRGCqC9hRKJREBQ221kzEi3Z3IcstGkXRG7aDHY17mLw2gJuxWxA3hyBe/CNgPq36hrERj8KJySrLm+DVYgwfOzPu2OIqqk4QZax16KYTejOP/T/t203C3IPYIpMjC+MvPavJGLZnhq0fL6THbRQ19OjC;GlYkgV3tTJ28/mhEwD/qwA=="
 ---
 

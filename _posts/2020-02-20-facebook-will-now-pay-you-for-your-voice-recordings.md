@@ -8,7 +8,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/2/20/21145584/facebook-pa
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/20/21145584/facebook-pay-record-voice-speech-recognition-viewpoints-proununciations-app"
 type: article
 quality: 74
-heat: 314
+heat: 315
 published: true
 
 provider:
@@ -183,6 +183,21 @@ related:
       - url: "https://cdn.idropnews.com/wp-content/uploads/2020/02/20135522/Facebook-App-Icon.jpg"
         width: 1000
         height: 600
+  - title: "Facebook offers to pay users for their voice recordings"
+    excerpt: "The recordings, made through its new market research app Viewpoints, will help to train the speech recognition system that powers Facebook’s Portal devices, which rival Amazon’s Echo speakers and its Alexa virtual assistant. Makers of smart speakers, including Facebook, Amazon, Apple and Google, faced criticism last year when it emerged ..."
+    publishedDateTime: 2020-02-21T20:45:00Z
+    webUrl: "https://www.latimes.com/business/story/2020-02-21/facebook-voice-recordings"
+    ampWebUrl: "https://www.latimes.com/business/story/2020-02-21/facebook-voice-recordings?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/business/story/2020-02-21/facebook-voice-recordings?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 44
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/d9b315c/2147483647/strip/true/crop/840x549+0+6/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F28%2F83%2F0c440fea4628b62ee124a28837c6%2Fvirus.jpg"
+        width: 320
+        height: 209
   - title: "Facebook To Pay Users $5 For Their Voice Recordings"
     excerpt: "Facebook Inc. (NASDAQ: FB) will pay users $5 for sharing their voice recordings, the company announced Thursday. What Happened The voice recordings would be used for"
     publishedDateTime: 2020-02-21T09:48:00Z
@@ -284,15 +299,6 @@ related:
       name: The Hindu
       domain: thehindu.com
     quality: 39
-  - title: "Facebook offers to pay users for their voice recordings"
-    excerpt: "The recordings, made through its new market research app Viewpoints, will help to train the speech recognition system that powers Facebook’s Portal devices, which rival Amazon’s Echo speakers and its Alexa virtual assistant. Makers of smart speakers including Facebook, Amazon, Apple and Google faced criticism last year when it emerged that ..."
-    publishedDateTime: 2020-02-21T18:33:00Z
-    webUrl: "https://arstechnica.com/tech-policy/2020/02/facebook-offers-to-pay-users-for-their-voice-recordings/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 34
   - title: "Facebook will pay for users' voice recordings after it was caught listening to Messenger chats"
     excerpt: "In a program called 'Pronunciations', participants will be payed a small sum, only up to $5, to use the company's market research app Viewpoints for recording various words and phrases that the company will then leverage to train its speech recognition AI. That voice data will be used to improve products like Portal, which is Facebook's smart ..."
     publishedDateTime: 2020-02-21T16:31:00Z
@@ -359,6 +365,6 @@ related:
         width: 1763
         height: 1175
 
-secured: "YeYvj6yhzk6Vs4VdXrLhCVBztvUNxKEeEo3CmXFRU7MMuwJEOL4ufuDh/TW3xZVU1ovLFcDObnzKQ/moAgqC3izat079Hvqkv8ycLuIQdw6Of7XdhHuUtBYRh70Pm/jNlLjkNahiHp3wTl+xfzbN/9s//g5ZkAgl4grKR8WbAR3WHiljjYdUTnAI1C8aKLLP5O79v0rpgUT1qtdpq5FVVGLGXd+OlUNPY/d0m+cR2O//mvZZJBWcrIfYeBE8NN6MKoRKAISNUU0T0dT0rf0FnFZL+xsD2vlfHBDQxYgr6ZPvrY/v40G4VsLiWr6ciC5xuOestd+YDdGjBYfOhGCTy8/vUA/HVSDv4yT/CBKIwV09HsYli9xztYOmBSXlVkyMBWZJSdmSQnIuTcdGWXw1+/8cdT0+m9YHMPbIRw3wE3UEMQuz9CD/eSMV9CMxkw2xecy/yFJbVbTL+2+9R3i1TKVPq2vc0NIwtTNOzuuV2QA=;9+FJgteGe7RXtnJtpuAJjg=="
+secured: "M+icDzYPtncdBGZOxqCOztpz6uFWSNyOtbnWkhpxQhpS3ZHKipDFQrgi3Y/NPjMW5F56v8u+BaNBhxW/QL5K4sDVUS/KEoUE7h8VycR2a5M6Ai8TLdlxF/EySIIWYOrtkYwByAeA5pPvJ3bn8YWV2uZGjTlJxCvOcLMhHDfqxTqoRXUg/NWqK89uTOocJL+EShX5pN6fS1gtuwdcN21Bf9LF/D5dFzHNyQkAv4ovwvBdWdYX9/YvsEeuxMaf2wLm9cnVZxPyoikk1FGkuwqISfPC4ouHNF9yxB2DNW6Qz1nZ/44/FoQFKOG5vH8BLy/zrCWI+aSTgBSAk96rDvwmPnXhKNxTpYGJYeTZdDBL724gMLZiWVCcCyVR4UTcwYc8UhgcFMhcRUcxWUr/qRhex86hFMCKxfr3zsXY0SKzecyvx5a0w8j3gDcLyCCTM6JBtk/4FWQFsyzPe5ryibpX+Bk6pt+QFYJBzK4GcWAd4nI=;R0Y24hUBi21MfGV82Op9zQ=="
 ---
 

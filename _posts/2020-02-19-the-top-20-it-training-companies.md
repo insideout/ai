@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/the-top-20-it-traini
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/the-top-20-it-training-companies/"
 type: article
 quality: 89
-heat: 90
+heat: 89
 published: true
 
 provider:

@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-10T12:16:00Z
 webUrl: "https://www.wsj.com/articles/the-future-of-deep-learning-is-unsupervised-ai-pioneers-say-11581330600"
 type: article
 quality: 84
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -54,15 +54,6 @@ related:
       - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F567205e8-d3b7-11e9-aa6d-16cb9f989e55.jpg?crop=6194%2C3484%2C0%2C323&resize=685"
         width: 685
         height: 385
-  - title: "What Happens When the Spin Doctors Adopt Machine Learning? The Future of PR"
-    excerpt: "In this special guest feature, Michael Burke, Director of Science & Technology at MSR Communications, takes a look at the state of the PR industry and its growing relationship with data science and machine learning technology. Machine learning may not replace the art of PR anytime soon, but there are countless areas where machine learning can ..."
-    publishedDateTime: 2020-02-07T06:25:00Z
-    webUrl: "https://insidebigdata.com/2020/02/04/what-happens-when-the-spin-doctors-adopt-machine-learning-the-future-of-pr/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 17
 
 secured: "68EShpzFhT446JLxQBcra+heAzk+nR45fHeL4KIBS3iBOrFVqIO/xodRsuU6OV3+ghZ2oXEGr526OCBrFw83boaD6YcMlAvjEmFcKhZIXLamdwJx8OupDzDm5caE3GGmiWG9e65in0JRiENVqeIh65cKmObJ5DQCIAiaNuELCOOCz9YlgK0wYXO1gtxx33zG9OndrghFNPFLNB+9AdVMbL8iOVZcCmfz32w7KVfv6f+H1dPS9moJJv7lH+zvlZIR6a5Zl5lmaZcsKnXVrtjN3GFBqdhv2iClZuOX0ykOypAuQb4tDIY57p/+cX45Nah2ssqGArRap9OvOkH6OphHE8HG7uFFSqtaMGUdDN2mVAXEvYbAKu6JmxWhsbUuWFTvafFKvOmlB7qi5UEVqgwz2eHMouIMgMvmPl8PRVISj+N5hfSHYMZTov64RvjCQgCzDdQy7IDepmFtcy84xhHH/KUWG5iZHG5Ifzx9rrHHbUs=;6eOncO08jYKXONwJjUkgyw=="
 ---

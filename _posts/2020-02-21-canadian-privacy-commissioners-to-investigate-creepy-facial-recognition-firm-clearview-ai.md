@@ -1,21 +1,21 @@
 ---
 category: news
-title: "Facial recognition company Clearview AI probed by Canada privacy agencies"
-excerpt: "Canadian privacy authorities have launched an investigation into New York-based Clearview AI to determine whether the firm’s use of facial recognition technology complies with the country’s privacy laws,"
-publishedDateTime: 2020-02-21T18:32:00Z
-webUrl: "https://www.reuters.com/article/us-clearview-ai-canada-idUSKBN20F2I3"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN20F2I3"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN20F2I3"
+title: "Canadian Privacy Commissioners to Investigate Creepy Facial Recognition Firm Clearview AI"
+excerpt: "Canadian authorities are investigating shady face recognition company Clearview AI on the grounds that its scraping of billions of photos from the web might violate privacy laws, Reuters reported on Friday. According to Reuters, privacy commissioners from the Canadian federal government and of the provinces of British Columbia, Alberta ..."
+publishedDateTime: 2020-02-21T23:37:00Z
+webUrl: "https://gizmodo.com/canadian-privacy-commissioners-to-investigate-creepy-fa-1841841033"
+ampWebUrl: "https://gizmodo.com/canadian-privacy-commissioners-to-investigate-creepy-fa-1841841033/amp"
+cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/canadian-privacy-commissioners-to-investigate-creepy-fa-1841841033/amp"
 type: article
-quality: 103
-heat: 143
-published: true
+quality: 95
+heat: -1
+published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: Gizmodo
+  domain: gizmodo.com
   images:
-    - url: "/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "/assets/images/organizations/gizmodo.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -24,27 +24,27 @@ topics:
   - Computer Vision
 
 images:
-  - url: "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png"
-    width: 1200
-    height: 630
-    title: "Facial recognition company Clearview AI probed by Canada privacy agencies"
+  - url: "https://i.kinja-img.com/gawker-media/image/upload/s--k8Q9PwVM--/c_scale,f_auto,fl_progressive,q_80,w_800/thuqbup5w7zmofhx9lam.png"
+    width: 800
+    height: 450
+    title: "Canadian Privacy Commissioners to Investigate Creepy Facial Recognition Firm Clearview AI"
 
 related:
-  - title: "Canadian Privacy Commissioners to Investigate Creepy Facial Recognition Firm Clearview AI"
-    excerpt: "Canadian authorities are investigating shady face recognition company Clearview AI on the grounds that its scraping of billions of photos from the web might violate privacy laws, Reuters reported on Friday. According to Reuters, privacy commissioners from the Canadian federal government and of the provinces of British Columbia, Alberta ..."
-    publishedDateTime: 2020-02-21T23:37:00Z
-    webUrl: "https://gizmodo.com/canadian-privacy-commissioners-to-investigate-creepy-fa-1841841033"
-    ampWebUrl: "https://gizmodo.com/canadian-privacy-commissioners-to-investigate-creepy-fa-1841841033/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/canadian-privacy-commissioners-to-investigate-creepy-fa-1841841033/amp"
+  - title: "Facial recognition company Clearview AI probed by Canada privacy agencies"
+    excerpt: "Canadian privacy authorities have launched an investigation into New York-based Clearview AI to determine whether the firm’s use of facial recognition technology complies with the country’s privacy laws,"
+    publishedDateTime: 2020-02-21T18:32:00Z
+    webUrl: "https://www.reuters.com/article/us-clearview-ai-canada-idUSKBN20F2I3"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN20F2I3"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN20F2I3"
     type: article
     provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 95
+      name: Reuters
+      domain: reuters.com
+    quality: 103
     images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/s--k8Q9PwVM--/c_scale,f_auto,fl_progressive,q_80,w_800/thuqbup5w7zmofhx9lam.png"
-        width: 800
-        height: 450
+      - url: "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png"
+        width: 1200
+        height: 630
   - title: "Clearview AI's founder defends controversial facial recognition app"
     excerpt: "Hoan Ton-That's app, Clearview AI, has triggered fears about facial recognition — and the dystopian future it could foreshadow. CNN Business' Donie O'Sullivan sits down with the CEO to talk about questions of legality, privacy, and bias in the era of facial recognition."
     publishedDateTime: 2020-02-18T14:19:00Z
@@ -81,6 +81,6 @@ related:
       domain: ibtimes.com
     quality: 19
 
-secured: "jCvL1Bz0+w9q3fO2gvhKa+xnhRqs4FNwsIxl+yTH5fOYzDrUYRvD2h5R+4Tj7ktPTJiNaYw9OSVV+Px9uSrseTmcVoOp5VUSIfrMlOKNsPmeRaNGuAPI5+e1PDhdmWmpg5EiPOc58Frr6I8RSlaIB1MzKC0j3Gw1q4BSByJ6+MCMhLRqyq5qjKif5RGzpf5UGjh4v3fkcX0m3ASnX0bWRXu/okqlnESWMcSQrH8VPldWIf/WM+cf9uyJEeLkjn/QelElPsfE9P2WG6ew8NEJuwd5/cehYF/BtEaZLHJM1qSZuDYpG0gKt18g3EXCFu8F;qvhAXRWhSJyNcZMJhjkIag=="
+secured: "TSLPxIby/w3qF9kBW88uIJUJBJ1q9nLAnMEVg76eBnVyLx4sV6fylumx3tZ3JwzqjJTlFB1c6dwHiN0IARYazxeRfGYfi/wUoN2gBwwWLL+zOjxUyNt7BYiB+MMVsHnmnko9QUlI+GL+2llEusQ/miUnmezJl6zyAbtGUPjid9mbwlNECT2usPVNJ8L1o4/aRLBqNqUBqMNXfyeoOycb9O86PvCPZVA2Ld2lx1NjpqbNd4+IcNOy/jQUAwekctPgpPAwbJYvIz2J6sRzsKFphUTfeTfyaWkZ9FwKIsHPDB3AS4OU3QRqKTkhSZWfcMfG;7Fahh2W5uZKaQmS4MUBK9g=="
 ---
 

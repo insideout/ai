@@ -171,19 +171,6 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 34
-  - title: "Rules eased for self-driving vehicle"
-    excerpt: "DETROIT -- For the first time, the U.S. government's highway safety agency has approved a company's request to deploy a self-driving vehicle that doesn't meet federal safety standards that apply to cars and trucks driven by humans. The National Highway Traffic Safety Administration granted temporary approval for Silicon Valley robotics company ..."
-    publishedDateTime: 2020-02-07T06:44:00Z
-    webUrl: "https://www.arkansasonline.com/news/2020/feb/07/rules-eased-for-self-driving-vehicle-20/?latest"
-    type: article
-    provider:
-      name: Arkansas Democrat-Gazette
-      domain: arkansasonline.com
-    quality: 24
-    images:
-      - url: "https://media.arkansasonline.com/img/photos/2020/02/06/resized_265633-1d-autonomous-0207rgb_44-28621_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
-        width: 600
-        height: 399
   - title: "Will self-driving cars create more distracted drivers?"
     excerpt: "Technologies like smartphones have made it easier to get distracted, but on the flip side, tech also seems to offer a solution. Self-driving vehicles could eliminate the dangers of distraction, but in their current state, they may do more harm than good. Distraction while driving is a serious issue. In 2017, crashes involving distracted drivers ..."
     publishedDateTime: 2020-02-07T16:42:00Z
@@ -248,7 +235,7 @@ related:
   - title: "Tape trick seen as showing hurdles for self-driving cars"
     excerpt: "To be sure, the real-world threats of such an occurrence today are limited. For one, self-driving cars are still in the development phase, and most are being tested with drivers behind the wheel. Vehicles with advanced driver-assist systems that are available now still require the human to be attentive. And the McAfee researchers were only able ..."
     publishedDateTime: 2020-02-20T07:50:00Z
-    webUrl: "https://www.arkansasonline.com/news/2020/feb/20/tape-trick-seen-as-showing-hurdles-for-/?business-national"
+    webUrl: "https://www.arkansasonline.com/news/2020/feb/20/tape-trick-seen-as-showing-hurdles-for-/"
     type: article
     provider:
       name: Arkansas Democrat-Gazette

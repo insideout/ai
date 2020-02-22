@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/beasleydavid/2020/02/20/google-removes-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/beasleydavid/2020/02/20/google-removes-gender-descriptions-on-ai-tool/amp/"
 type: article
 quality: 87
-heat: 118
+heat: 117
 published: true
 
 provider:

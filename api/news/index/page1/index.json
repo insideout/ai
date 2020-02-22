@@ -181,50 +181,6 @@
       ]
     },
     {
-      "path": "_posts/2020-02-07-artificial-intelligence-privacy-and-the-choices-you-must-make.md",
-      "title": "Artificial Intelligence, Privacy, And The Choices You Must Make",
-      "excerpt": "For some thoughtful insights we can turn to Rhonda Scharf’s book Alexa Is Stealing Your Job: The Impact of Artificial Intelligence on Your Future.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/rodgerdeanduncan/2020/02/07/artificial-intelligence-privacy-and-the-choices-you-must-make/",
-      "ampWebUrl": "https://www.forbes.com/sites/rodgerdeanduncan/2020/02/07/artificial-intelligence-privacy-and-the-choices-you-must-make/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rodgerdeanduncan/2020/02/07/artificial-intelligence-privacy-and-the-choices-you-must-make/amp/",
-      "publishedDateTime": "2020-02-07T00:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e17afe8735f8c0007998582%2F0x0.jpg",
-          "width": 640,
-          "height": 389,
-          "title": "Artificial Intelligence, Privacy, And The Choices You Must Make",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-07-center-for-robotics-and-biosystems-at-northwestern-works-on-human-robot-collaboration.md",
       "title": "Center for Robotics and Biosystems at Northwestern works on human-robot collaboration",
       "excerpt": "“The robot can learn how well the user can operate on his or her own and adjust ... not to mention the application itself. “Artificial intelligence is a hot topic,” Lynch acknowledged. “At the highest level, embodied intelligence has to have some physical connection to the world. It’s not just chatbots but AI that receives information ...",
@@ -2154,6 +2110,50 @@
           "width": 1200,
           "height": 628,
           "title": "7 Things Digital Marketing Industry Need To Know About Artificial Intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-10-8-powerful-examples-of-ai-for-good.md",
+      "title": "8 Powerful Examples Of AI For Good",
+      "excerpt": "Many of the headlines about artificial intelligence warn of its dangers. However, artificial intelligence (AI) can be and is being used for good in many ways from improving the accessibility for people with disabilities to building our resilience to natural disasters.",
+      "heat": 187,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/02/10/8-powerful-examples-of-ai-for-good/",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/02/10/8-powerful-examples-of-ai-for-good/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/02/10/8-powerful-examples-of-ai-for-good/amp/",
+      "publishedDateTime": "2020-02-09T21:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e40e666a854780006b0e11d%2F0x0.jpg",
+          "width": 1200,
+          "height": 754,
+          "title": "8 Powerful Examples Of AI For Good",
           "attribution": null
         }
       ],

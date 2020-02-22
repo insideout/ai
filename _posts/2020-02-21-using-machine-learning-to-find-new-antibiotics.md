@@ -102,6 +102,19 @@ related:
       - url: "https://cdn.iflscience.com/images/b8c230b6-a3ea-5854-9482-5d6e99b6c372/default-1582285414-cover-image.jpg"
         width: 720
         height: 405
+  - title: "Ask Dr. Nandi: Artificial intelligence yields new antibiotic"
+    excerpt: "Now, artificial intelligence has been around for some time ... Dr. Partha Nandi, MD talks with Detroit’s very own Dr. Gail Parker, PhD who shares her methods of healthiness through yoga therapy. Also joining the discussion is actress Leila Almas who reveals how her career was saved through meditative practice. Plus, a discussion on meditation ..."
+    publishedDateTime: 2020-02-21T22:03:00Z
+    webUrl: "https://www.wxyz.com/news/health/ask-dr-nandi/ask-dr-nandi-artificial-intelligence-yields-new-antibiotic"
+    type: article
+    provider:
+      name: WXYZ Detroit
+      domain: wxyz.com
+    quality: 39
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/69762f6/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fausw%2Fslices%2F3bf%2Fbe88c4e651db4a7dbe102614d7272948%2F3bfdec98d7b74f82af326e4bfb851ebf%2Fposter_e90ed55fe2cd40e998d41e9534958f14.jpg"
+        width: 1200
+        height: 630
   - title: "AI Is Used to Discover a Novel Antibiotic"
     excerpt: "Researchers announced the breakthrough discovery of a new type of antibiotic compound that is capable of killing many types of harmful bacteria, including deadly antibiotic-resistant strains, and published their findings in Cell on February 20. What makes this remarkable is that the researchers, from the Massachusetts Institute of ..."
     publishedDateTime: 2020-02-21T18:09:00Z
