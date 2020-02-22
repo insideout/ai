@@ -1,24 +1,28 @@
 ---
 category: news
 title: "The War Against Artificial Intelligence And Mass Unemployment - Do 'Nootropic' Brain Supplements Hold The Answer?"
-excerpt: "NEW YORK, Feb. 19, 2020 /PRNewswire-PRWeb/ -- \"Artificial intelligence will soon leave people displaced and needing to find a new way to put food on the table and it will likely be you.\" - Archie Marks,"
-publishedDateTime: 2020-02-19T10:00:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/02/n15362033/the-war-against-artificial-intelligence-and-mass-unemployment-do-nootropic-brain-supplements-hold-"
-ampWebUrl: "https://amp.benzinga.com/amp/content/15362033"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15362033"
+excerpt: "It's difficult to name any of the large tech companies that aren't investing time and energy into creating artificial intelligence technology. It's already a big part of our lives, and with the market value set to increase from $9.5 billion to $118.6 billion by 2025 , it's about to take over our lives. Uber's self-driving car ran 6 red lights ..."
+publishedDateTime: 2020-02-19T11:15:00Z
+webUrl: "https://www.medindia.net/health-press-release/the-war-against-artificial-intelligence-and-mass-unemployment-do-nootropic-brain-supplements-hold-the-answer-452086-1.htm"
 type: article
 quality: 33
 heat: 33
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Medindia
+  domain: medindia.net
 
 topics:
   - AI
-  - AI in Robotics
+  - AI in Autos
 
-secured: "j0lnCAaZ8/jHnxzF+KNiwJ+zgh/PRkW89LxCy3Inc8NTAVvJdj+Ta5BWfJneoMfCPVMREoTR3jnaIJfIJrk0a2/6sft6eh9JyN87ROXltb/2CIE+RoyeuM+lbtmEF3tvMPSqta0nUFNIX+LcTLhSwRCeR3Tmg8G6ZrsSBHgaPs/KkSQuwMc3cNDNAZyO7l5/VVjp2oemZjijvayK5nLYjXPIbbwFmMwFjQa/gdybIg+GsS4zDCE5g1NYZS0WNk0huy+ah4Bpx3pFjvBOHFRpsldwiO7tFPolVGyxikIG0Swop3MEL79t+Rnpo3Mx3aVo;IlLOHd7b7ObHV4nyYux0xw=="
+images:
+  - url: "https://www.medindia.net/images/common/regis/450_237/hypertension-popup.jpg"
+    width: 300
+    height: 250
+    title: "The War Against Artificial Intelligence And Mass Unemployment - Do 'Nootropic' Brain Supplements Hold The Answer?"
+
+secured: "yNvSjizA+Cd+QUwIfDJYWf2n1D73RjLO5z09/A0fhxMHZCIwPVrp6/1dyWlZT5TsHdmTbj7gv+rynIq5rFmOQyj67LNCRokjFSmpSDomWQldiDvgCU5C5fPTwrzrk6ZjgdQcsOWE2jY91CaQV2+UWwz6mLDOBXnR60lHomiclPkzGNDZe38/reolyg51Z2tTxdRKxolNkfWME+WIro67pDiadjYCbq7rZzkHfOJNfQnHJYS4noseAX7c4EldpNxFJ8dKq09c9RHbukT1xWlgRLUgxkXWyai/NV5HKJ15Nd7uxi2AY/wsPCEyBeaNBPea;roiwyMtUhAcBW9iA7g8w9A=="
 ---
 

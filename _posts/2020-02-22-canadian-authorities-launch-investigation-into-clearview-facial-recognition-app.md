@@ -1,29 +1,33 @@
 ---
 category: news
-title: "Peel and Halton police reveal they too used controversial facial recognition tool"
-excerpt: "One day after the revelation Toronto police tested a controversial facial recognition technology, two more Greater Toronto Area police services have revealed they have also used the U.S.-based Clearview AI investigative tool. Officers in Peel and Halton regions confirmed to the Star Friday that they ran tests of the highly divisive artificial ..."
-publishedDateTime: 2020-02-17T01:11:00Z
-webUrl: "https://www.thestar.com/news/gta/2020/02/14/peel-and-halton-police-reveal-they-too-used-controversial-facial-recognition-tool.html"
-ampWebUrl: "https://www.thestar.com/amp/news/gta/2020/02/14/peel-and-halton-police-reveal-they-too-used-controversial-facial-recognition-tool.html"
-cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/news/gta/2020/02/14/peel-and-halton-police-reveal-they-too-used-controversial-facial-recognition-tool.html"
+title: "Canadian authorities launch investigation into Clearview facial recognition app"
+excerpt: "The commissioners have agreed to work together “to develop guidance for organizations — including law enforcement — on the use of biometric technology, including facial recognition.” The founder of Clearview, Hoan Ton-That, said that the first amendment gives his company the right to collect photos from public webpages and use them in ..."
+publishedDateTime: 2020-02-22T18:00:00Z
+webUrl: "https://www.digitaltrends.com/web/clearview-facial-recognition-canadian-investigation-privacy/"
+ampWebUrl: "https://www.digitaltrends.com/web/clearview-facial-recognition-canadian-investigation-privacy/?amp"
+cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/web/clearview-facial-recognition-canadian-investigation-privacy/?amp"
 type: article
-quality: 54
+quality: 85
 heat: -1
 published: false
 
 provider:
-  name: Toronto Star
-  domain: thestar.com
+  name: Digital Trends
+  domain: digitaltrends.com
+  images:
+    - url: "/assets/images/organizations/digitaltrends.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: "https://images.thestar.com/4Gdty1kT8G_3_BfW_A4H-pAkIM8=/1200x800/smart/filters:cb(1581730926690)/https://www.thestar.com/content/dam/thestar/news/gta/2020/02/14/peel-and-halton-police-reveal-they-too-used-controversial-facial-recognition-tool/policegraduation10.jpg"
+  - url: "https://icdn3.digitaltrends.com/image/digitaltrends/facial-recognition-composite-feature-1200x630-c-ar1.91.jpg"
     width: 1200
-    height: 800
-    title: "Peel and Halton police reveal they too used controversial facial recognition tool"
+    height: 628
+    title: "Canadian authorities launch investigation into Clearview facial recognition app"
 
 related:
   - title: "Automated facial recognition breaches GDPR, says EU digital chief"
@@ -71,21 +75,6 @@ related:
       - url: "https://zdnet3.cbsistatic.com/hub/i/2020/02/11/a4f44ba3-79b4-4f42-b5a9-ba5aa4375bd6/lg-cns-3-lg-cns.jpg"
         width: 2400
         height: 1600
-  - title: "Canadian authorities launch investigation into Clearview facial recognition app"
-    excerpt: "The commissioners have agreed to work together “to develop guidance for organizations — including law enforcement — on the use of biometric technology, including facial recognition.” The founder of Clearview, Hoan Ton-That, said that the first amendment gives his company the right to collect photos from public webpages and use them in ..."
-    publishedDateTime: 2020-02-22T18:00:00Z
-    webUrl: "https://www.digitaltrends.com/web/clearview-facial-recognition-canadian-investigation-privacy/"
-    ampWebUrl: "https://www.digitaltrends.com/web/clearview-facial-recognition-canadian-investigation-privacy/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/web/clearview-facial-recognition-canadian-investigation-privacy/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 85
-    images:
-      - url: "https://icdn3.digitaltrends.com/image/digitaltrends/facial-recognition-composite-feature-1200x630-c-ar1.91.jpg"
-        width: 1200
-        height: 628
   - title: "Watchdog rejects Met's claim that he supported facial recognition"
     excerpt: "Biometrics commissioner says force was wrong to say he backed use of the technology"
     publishedDateTime: 2020-02-12T17:53:00Z
@@ -269,6 +258,21 @@ related:
       - url: "https://media.datacenterdynamics.com/media/images/jason_carolan_flexential_mono.2e16d0ba.fill-1200x630.jpg"
         width: 900
         height: 474
+  - title: "Peel and Halton police reveal they too used controversial facial recognition tool"
+    excerpt: "One day after the revelation Toronto police tested a controversial facial recognition technology, two more Greater Toronto Area police services have revealed they have also used the U.S.-based Clearview AI investigative tool. Officers in Peel and Halton regions confirmed to the Star Friday that they ran tests of the highly divisive artificial ..."
+    publishedDateTime: 2020-02-17T01:11:00Z
+    webUrl: "https://www.thestar.com/news/gta/2020/02/14/peel-and-halton-police-reveal-they-too-used-controversial-facial-recognition-tool.html"
+    ampWebUrl: "https://www.thestar.com/amp/news/gta/2020/02/14/peel-and-halton-police-reveal-they-too-used-controversial-facial-recognition-tool.html"
+    cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/news/gta/2020/02/14/peel-and-halton-police-reveal-they-too-used-controversial-facial-recognition-tool.html"
+    type: article
+    provider:
+      name: Toronto Star
+      domain: thestar.com
+    quality: 54
+    images:
+      - url: "https://images.thestar.com/4Gdty1kT8G_3_BfW_A4H-pAkIM8=/1200x800/smart/filters:cb(1581730926690)/https://www.thestar.com/content/dam/thestar/news/gta/2020/02/14/peel-and-halton-police-reveal-they-too-used-controversial-facial-recognition-tool/policegraduation10.jpg"
+        width: 1200
+        height: 800
   - title: "Why Tech Firms Want (Some) Facial Recognition Rules: QuickTake"
     excerpt: "If there’s been a constant in the tech industry’s approach to the idea of regulating new products, it’s been the twin mantras of “leave us alone, we’ll take care of it” and “don’t make rules that will harm innovation."
     publishedDateTime: 2020-02-19T11:54:00Z
@@ -401,6 +405,6 @@ related:
         width: 1200
         height: 627
 
-secured: "jw7EiVdJ6m8stioX+QK1PtRxNZ6notdklw1La7phUPub8aVxuGPgepzwbFz7iSTXFQcyrumx86bdxbvn5KlVbnjsc2yR9KKoFW0tAPqKn6fgtdaHKXoRJJzjroJhLAPmWXBIwrWtwMvrBnHaZakeNp23NfBcb4ifeJVuedfgKuz98azZkdPy9RiQhKC47QGE8ZbAcMiJabulT09GTyebOb8oOuXf1FFpp5Ia3PzukRf8Fy0cfkzoJshdRvQWXYRDohsmsn9EkwCtxoCwnOX39cRZ9o4TsAvZwGNyvUwdEieoyXxIAc1opjp4cNafN7IW3xJPQqmzrIrOAtqrnSU2NbsDf6r56CcGudLoYeyo1pSz7B7IfYbC8u2SZbHe7UdBwCGdd9fn3U4J8ul9DGzFobqdgNWlMmPXHwD71yhsqUZUYMBSek91iXvB6EYUjg618vLkU8WbqdEE9NalG02DYcOA+8n2RApLhnHWHAe91UU=;YWDn6ksmV6KX/U3p7nUxog=="
+secured: "sTT4hWBBINYBAEdqtTiLIIy7bV+2bGxptSv+vYsBJ1/X0yHUCX6Fn6wzU3g+EJ1OV0kRvJFYzP8Cdo9AWREcnmzEy9aKrFOs5UQYdSzQyANOpHnVqzzaNjXRGk1+VzuK9buV9GXkghGJMunucM19Iw8RXSynokjn+Ze2g2BC5fp1yUpW3zBW9rnvFBb8F6ztmqHjcCANlQpwDMotzAFfNdqAgtbr84lD5nV4dpFna+0kEw6r1PLRWIO7vsBaASElbBMFd5zeP9u7CpZ1i9srcYwVFeuDt9EalVi/RvmmGLN2bcicWC6rhHxInoR6aPum;z5r7WmX6Ox0VoiPdFryZaQ=="
 ---
 

@@ -3,9 +3,9 @@ category: news
 title: "Researchers Use Advanced AI to Predict Extreme Weather"
 excerpt: "Predicting extreme weather is a complex science, and an area where artificial intelligence (AI) machine learning, specifically the pattern-recognition capabilities of deep learning, can make a difference in forecasting accuracy. A recent peer-reviewed Rice University study published in February 2020 in the Journal of Advances in Modeling Earth ..."
 publishedDateTime: 2020-02-22T16:03:00Z
-webUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202002/researchers-use-advanced-ai-predict-extreme-weather"
-ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202002/researchers-use-advanced-ai-predict-extreme-weather?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202002/researchers-use-advanced-ai-predict-extreme-weather?amp"
+webUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202002/researchers-use-advanced-ai-predict-extreme-weather"
+ampWebUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202002/researchers-use-advanced-ai-predict-extreme-weather?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202002/researchers-use-advanced-ai-predict-extreme-weather?amp"
 type: article
 quality: 37
 heat: -1
@@ -55,6 +55,6 @@ related:
       domain: eurekalert.org
     quality: 12
 
-secured: "5sKF18bMvdCfIoplXo3hU7totq6i25nVAvK4ouJd83oTiYmh2hlcYMV5gfHL8Yv9XDo8MCjQtAjT+CgXEDsBX/hmVNHOpjzhqEofz1zEWgfNgmH1L9fQYQxcFLKmmU/uAzV8l3lXNUrCEx2X1lL417TeRSHLbK280S8gZS9DHNrojd117WXC5ZvmHvTkjcpTdBkIPSAjrRh2QIiTpwc8Rme76rqzPmiWoKemAq7XnDmlfSRiRhWDIF48RnAlndonQ0/L0vKaNSn5zjoVvan38vd5buzcpRkLc1zIoXk7LWYu7hm53PN/78WyZOenRM34pBY3GJovz97Uazlntrepys+BBLtB9VUJcEydOOHjCvby58zUorgKp/ECVLzbFolqtzNJ5BSKdoqeE9iYwDMG2m+j2tMg1bjcaykVRhLMeYiRnylhHAxM+dAnmXYsQ7/uOUilOqyO036iyUkHEL4dOMsr0bb+CdOldeMQ8Cvg+BU=;Sptnk+OE8ZNIsubnbiVZMA=="
+secured: "vTJDqainARHlIGnETpcQt0fQ9b5BZdrighKd7vKs6oIQUaZgdXKiWzNjPQc7Ys3CPVFAZt/YkYp5USlUeAch0zxwQ1GPLhPAE0y0s4PjRNyEm4wYgeSOBfL0I0XvZ9vPlUujjBK2zjmZG3cqKMd8F1aNb211Wglf9xsQJWLOlda7AEvCbnWGtkT99cVoFpQZxaX2TlW9XwUdY2clIn9ihinoCjWvHT5/zOfFqSOPVm0xgfLimJp44qHRdNqjKMq9WEkx7qVMzuNvCGr8U22jBg+BkHHWvGwlyQWSD8JnlXXnhfD+Q1WsbA1UegQ4CCiejDAeB32vulDNBE7h4RaZYzBFznZPCYX3a85xm2Af4BUn7jbb2kXMOhA50DeUfvsYTz4PYzXhX+Ipbl8mIcWUi/t0Mn9AvBQAPnodxUsbwzqhpmHmJkrKdLkv9NF2XtmSi7jP0xOOKq/L5CtbRqJ36FaBNz9VEYVSqIpiGemnYyU=;kT3U6DkE01dmveJmAkidTA=="
 ---
 

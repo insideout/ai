@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Unbiased Surveillance: AI Security Tech That Spots Guns, Not People"
-excerpt: "And worse, there’s a lot of evil profiling using facial recognition—I’m talking to you Amazon Rekognition, which mistook Boston athletes of color for criminals. Still, artificial ..."
+excerpt: "At least, for now, San Franciscans won’t have to become characters in a real-life Black Mirror episode. And worse, there’s a lot of evil profiling using facial recognition—I’m talking to you Amazon Rekognition, which mistook Boston athletes of color for criminals. Still, artificial intelligence (AI) and facial recognition always seem to ..."
 publishedDateTime: 2020-02-04T12:00:00Z
 webUrl: "https://observer.com/2020/02/athena-security-surveillance-bias-gun-control/"
 ampWebUrl: "https://observer.com/2020/02/athena-security-surveillance-bias-gun-control/amp/"
@@ -25,6 +25,6 @@ images:
     height: 505
     title: "Unbiased Surveillance: AI Security Tech That Spots Guns, Not People"
 
-secured: "ObhYSAzAAf9wtHMJQvN2p6iv1XP7IiO3SKFR2FzVDB3PKCmm6h7LoCWSkrRfrrpMyjxT4hmUsXK6yEdU11nwjrh3UbsRI3fOSyJTDPWuICaWC375hR3b2DGFhEvVIGy3i4L4GgAR7pleAu2xlIsO/8Iqxxx2RkOJct7Fzyi9lYMadd4nGOZ1p94OoBsA4x6z0ev0p3STs63IW1zpnNdDzOoYGKA1P02FNKNcf4lZHB+7Bc/JXS8I9AaxufIaLkflqbSe2Nf+xq5V2UQALvvITiMTLqASjgbbMXK+DCR5HrFlU9gxQWoaRVgSRxplj1xt;I+fNq3MIs2UmVGNLGNTCCg=="
+secured: "nE2pBXt7t70n1FsITL12MS5gBHOHgYZcmEd1kueViaDsrpZAstzDT6PAKq7OFAzCeE+HQDZ5sR9ldl+BbjgL422P98hGf48GMClyTFIfW7/7DRLq6TwZCTqiq4PXQaT568LkjOxU5sN4VXvUQx1Xfvhj72KvNXC9fX5ItVZzaZmURe9zap4FjfqVG7Kkw6z9Qh8bRRlMydQVIwUu13y5ghvVb5jljkPTgfnTlaPhXPxTAFMxb8aiqXBF7Pvy3ceN6tF/mg3Erk1jgg/R5lNnL9u8LoMeG+EOR/FHYCJ0poVsUFVNgFAHoX9msTWXsUsn;RZh+6CPK6wA1ERaLVV3ieA=="
 ---
 

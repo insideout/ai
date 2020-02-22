@@ -27,6 +27,6 @@ images:
     height: 1600
     title: "An AR based procedure to automate image labelling in the context 3D object recognition"
 
-secured: "ea5b0e6CeV2oLmjQnZZSPvA33LzbL8zSk/C431iJkLGZiLSv3C7n8A2wGGDoo7hR9Y/UpnMQrhL6Sfcd9NHAzEMuOMZTxGmOO+L8GVJvz2AWGe/dm5ZvNhTyXkV0aRbo+K75rUeSHp7JJlUGJaQrbKFpVJMtoAKV5ftPb08ZPOuTAMR/iNXW1GP+9SvqyHJNv67MfTzwtzjmaSscM/TluRDORMLvujKigd+BcduDpJlrvPNO5wRlEDCWeagYvjKItfJTCOUoasM/8GtJzLyhLHChIZVMAiGBarJQ9Sh2fRNuCEnWmEcO6m1RjNZh49zR;p/MSUkiw324LWW1H7yirDg=="
+secured: "J9KgUHhgmsY2CPY+IFarT1snqzFdMuraiLrCleX/jVr1DsOeH7oCAZcgOXm9X4SqBbRC4uGPe0NgfDc1XDkH/lL34xXbkrMC7BovLnD6Fi+zt/sso7+pNEUWxOPEmqfClpkKUD1W+twZ3WW/6j4poOnmOPNo75HrKFWSFPBI8wpprZGjzxayXjTyOcLETPxIHzP8ah51+b0zQexwwapYbu+Dyclf90MCAzsNWcv0ZBCGZO08ZqT3SMkEiXWVCTdRVldBIuxULcYoWUXH+dVodxFpE3SuB9We5kPyFbHNinzW4EiVCJCAwKch/qWBXkMM;YST/4mUA+2AFS5P9vr1tgw=="
 ---
 

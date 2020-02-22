@@ -60,6 +60,21 @@ related:
       - url: "https://cms.qz.com/wp-content/uploads/2020/02/RTS32KQS-1-e1582225812882.jpg?quality=75&strip=all&w=1400"
         width: 1400
         height: 788
+  - title: "Canadian authorities launch investigation into Clearview facial recognition app"
+    excerpt: "The commissioners have agreed to work together “to develop guidance for organizations — including law enforcement — on the use of biometric technology, including facial recognition.” The founder of Clearview, Hoan Ton-That, said that the first amendment gives his company the right to collect photos from public webpages and use them in ..."
+    publishedDateTime: 2020-02-22T18:00:00Z
+    webUrl: "https://www.digitaltrends.com/web/clearview-facial-recognition-canadian-investigation-privacy/"
+    ampWebUrl: "https://www.digitaltrends.com/web/clearview-facial-recognition-canadian-investigation-privacy/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/web/clearview-facial-recognition-canadian-investigation-privacy/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 85
+    images:
+      - url: "https://icdn3.digitaltrends.com/image/digitaltrends/facial-recognition-composite-feature-1200x630-c-ar1.91.jpg"
+        width: 1200
+        height: 628
   - title: "Watchdog rejects Met's claim that he supported facial recognition"
     excerpt: "Biometrics commissioner says force was wrong to say he backed use of the technology"
     publishedDateTime: 2020-02-12T17:53:00Z

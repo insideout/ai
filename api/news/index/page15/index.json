@@ -2,80 +2,6 @@
   "page": 15,
   "value": [
     {
-      "path": "_posts/_archive/2020-01-18-how-fractals-trial-run-uses-aws-to-power-ai-based-decision-making.md",
-      "title": "How Fractal’s Trial Run uses AWS to power AI-based decision-making",
-      "excerpt": "Akhil Behl, VP, Artificial Intelligence and Machine Learning at ... When it comes to cloud service, AWS was on the top of their mind due to several reasons, including the fact that more than ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://yourstory.com/2020/01/fractals-trial-run-aws-ai-decision-making",
-      "ampWebUrl": "https://yourstory.com/2020/01/fractals-trial-run-aws-ai-decision-making/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/01/fractals-trial-run-aws-ai-decision-making/amp",
-      "publishedDateTime": "2020-01-17T19:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/2/2d86ed30-b282-11e8-b2e7-114aea10c711/1579263492635.png?fm=png&auto=format",
-          "width": 800,
-          "height": 400,
-          "title": "How Fractal’s Trial Run uses AWS to power AI-based decision-making",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-18-how-to-build-ethical-ai.md",
-      "title": "How to build ethical AI",
-      "excerpt": "There are serious ethical and societal issues we must confront quickly.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thehill.com/opinion/technology/478731-how-to-build-ethical-artificial-intelligence",
-      "ampWebUrl": "https://thehill.com/opinion/technology/478731-how-to-build-ethical-artificial-intelligence?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/technology/478731-how-to-build-ethical-artificial-intelligence?amp",
-      "publishedDateTime": "2020-01-18T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/humanoid_robot_07272018_1_0.jpg",
-          "width": 980,
-          "height": 551,
-          "title": "How to build ethical AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-01-18-secure-technologies-and-artificial-intelligence-in-focus-for-airbus-at-intersec-2020.md",
       "title": "Secure Technologies and Artificial Intelligence in Focus for Airbus at Intersec 2020",
       "excerpt": "In addition, the company will also be showcasing various projects around the use of Artificial Intelligence for mission-critical application. The latter include facial, license plate, and object recognition, which run on the Tactilon Agnet mission-critical collaborative platform integrated with other systems through Application Programming ...",
@@ -2135,6 +2061,95 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-21-do-you-want-ai-used-on-you-at-the-hospital.md",
+      "title": "Do You Want AI Used On You At The Hospital?",
+      "excerpt": "At its core, successful AI, whether traffic- or health-related, should function seamlessly so that the user isn't aware of how it's functioning in the first place.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/21/do-you-want-ai-used-on-you-at-the-hospital/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/21/do-you-want-ai-used-on-you-at-the-hospital/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/21/do-you-want-ai-used-on-you-at-the-hospital/amp/",
+      "publishedDateTime": "2020-01-21T05:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/958886670/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 474,
+          "title": "Do You Want AI Used On You At The Hospital?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-21-facebooks-ai-learns-the-relationships-between-physical-places-from-first-person-video-footage.md",
+      "title": "Facebook’s AI learns the relationships between physical places from first-person video footage",
+      "excerpt": "That’s why a team of researchers from the University of Texas and Facebook AI Research investigated in a paper Ego-Topo, a technique that decomposes a space captured in a video into a ...",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/21/facebooks-ai-learns-the-relationships-between-physical-places-from-first-person-video-footage/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/21/facebooks-ai-learns-the-relationships-between-physical-places-from-first-person-video-footage/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/21/facebooks-ai-learns-the-relationships-between-physical-places-from-first-person-video-footage/amp/",
+      "publishedDateTime": "2020-01-21T09:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/df0f4b81-fa76-42d4-bee8-2b4c4e8cd50d-e1579627646898.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Facebook’s AI learns the relationships between physical places from first-person video footage",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
       ]
     }
   ],
