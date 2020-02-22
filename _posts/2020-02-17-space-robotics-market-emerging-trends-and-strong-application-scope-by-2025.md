@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-17T16:44:00Z
 webUrl: "https://www.marketwatch.com/press-release/space-robotics-market-emerging-trends-and-strong-application-scope-by-2025-2020-02-17"
 type: article
 quality: 82
-heat: 302
+heat: 312
 published: true
 
 provider:
@@ -291,6 +291,15 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
+    quality: 0
+  - title: "Automotive Voice Recognition Market Outlines the Growth Factors and Current State of Market by 2025"
+    excerpt: "The report consists of streamlined financial data obtained from various research sources to provide specific and trustworthy analysis. Evaluation of the key market trends with a positive impact on the market over the following couple of years, including an ..."
+    publishedDateTime: 2020-02-22T11:28:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/39726/automotive-voice-recognition-market-outlines-the/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
     quality: 0
 
 secured: "c+8J4219zzi+pKYmZ+XSflO/mLHQNq+mkegvW7Wwr7CWtzqwxQ0lvprqHiCXRlZaXNARPgpM+JWHAILN291CsB5dTJ3eIySfdMT3Y6kWrT55tiUEetluKSLQOIvfI4nQJ3PuWntlV9zdgzzLFrKpDla272z0DssISVRXisDJSTrsausy0DWKwxmgFV4sgFeOfLLDAeWUVz64QhcI4n1MXKsMj4pI8JnNNMLCJ24ejvcbJ3mIbwbSWDBrRXuNBt2x0el4Gad6qXRU7QZ5d/ApOYEKnFP+b0IXuYfbOGnH9IubxviLtcIctWGfMtXV30Za;yRuQ6d1ZmEaa8M+n4RAscQ=="

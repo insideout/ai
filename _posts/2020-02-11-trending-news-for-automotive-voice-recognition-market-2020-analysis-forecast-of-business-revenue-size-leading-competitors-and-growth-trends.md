@@ -290,6 +290,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 11
+  - title: "Automotive Voice Recognition Market Outlines the Growth Factors and Current State of Market by 2025"
+    excerpt: "The report consists of streamlined financial data obtained from various research sources to provide specific and trustworthy analysis. Evaluation of the key market trends with a positive impact on the market over the following couple of years, including an ..."
+    publishedDateTime: 2020-02-22T11:28:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/39726/automotive-voice-recognition-market-outlines-the/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 0
 
 secured: "eCL5AD8/3rUzTIBzm8nOjSXjQQvsUYsrh9yed4tDXydVpOvNsA1I9hNgYSp876t4YpinYqVM5pP0qCFQVn8yi6JspWmGq8esGSlgpxg+rUoVZDXwk0GzKA9CC19lnwAQN5zJWadYNAHqzQ4E0sPgEsObBq/OkXdLI8yPi9iKeHBAuk2vQfxNy9URQOvYxCcE7R84VTYvHdjXuga7mTRv5hKibe9NsgWx/nUAnvZm2xtqWyHVDZGqYW7ZKp9dJ26wOuUsaqAMH+mB5TTa1AILPH7/e0Jqw2QIhYFyif1WD6DvZk6nLkc90YIJ3ZVLnRLF;/n3eItG4nYbrW4zItpVvyg=="
 ---

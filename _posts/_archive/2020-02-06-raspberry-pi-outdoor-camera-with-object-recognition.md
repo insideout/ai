@@ -5,8 +5,8 @@ excerpt: "Technology enthusiast and environmentalist Paul Kinsella has created a
 publishedDateTime: 2020-02-06T11:26:00Z
 webUrl: "https://www.geeky-gadgets.com/raspberry-pi-outdoor-camera-06-02-2020/"
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: 19
 published: false
 
 provider:
@@ -16,12 +16,6 @@ provider:
 topics:
   - AI
   - Computer Vision
-
-images:
-  - url: "https://www.geeky-gadgets.com/wp-content/uploads/2020/02/Raspberry-Pi-outdoor-camera.jpg"
-    width: 700
-    height: 500
-    title: "Raspberry Pi outdoor camera with object recognition"
 
 related:
   - title: "Soft Error Resilience of Deep Residual Networks for Object Recognition"
@@ -34,6 +28,6 @@ related:
       domain: ieee.org
     quality: 19
 
-secured: "VgoWsS2xyLsqlmCk3tyBcOaewFZ0NdCPqdzlS3zKo1f8zTSW7LDcsu8qYilLSjw5l4cRKKlXO5mrX/Om2LNIptq+XDfFHrNDgC47ojijnQHz9L+NxEwpbkrcvGuYPfFgCFNF1qxQzk/eQVP1BvGD4AnU+izSE3MpR0uHJ7UR5iOdVXAFFzppTzg5T2yvjneujjnF6c3Oxu2NAhrjHS2qUyakmf4mavmyhlWxiBCvggSuWOed3/V0nQPrEhYCqG5mUYUQIjCeXM1/COGG35/aishBlK5URgaTOaWOGE2fAgPtUhHDMcy5u/SDTyk/ITpA;hAJRr7v/dKrpNR5xaAOPXw=="
+secured: "0aXqhvEqlY5DBeNI9VVao7u371EVFlRZhEQ57ideOR1LA0BmZgqCYtDiEXVEsgt1ZJVQp39PNf3b/1MV2LXnK13vmPe9uw2fkmWz2JcDHqFQXFwgrGxscvj97NHi1zK3HWU2YSGITcLsPZA8deodWal+kOu4rPcmEpUYLVSXZT6wHkw2z/aX8BAKNdC0+Zk03OOq/Am8jflH5MYKc/HJmo+6oqA0YohlMRlLLvXNIYivwulJeYf4yMBu9pg+UiiFC2tbjFDKySDRMsa/t9GiEEwspczsoOBpWS8raYxB6OKw+Ze+SK7FpXdHhCOZqwVQ;Ik5tI0ZAidGhAgREKuEOlA=="
 ---
 

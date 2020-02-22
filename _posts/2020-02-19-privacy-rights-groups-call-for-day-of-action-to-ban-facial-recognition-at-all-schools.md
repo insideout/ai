@@ -251,6 +251,15 @@ related:
       - url: "https://www.rawstory.com/wp-content/uploads/2019/07/Facial-Recognition-Technology.jpg"
         width: 625
         height: 305
+  - title: "Facial recognition at protests: Delhi Police says they aren’t using social media photos to screen crowds"
+    excerpt: "These responses came in a reply to a right to information request filed by Mint. Just to put things into perspective, Delhi Police had started using facial recognition software to screen crowds at protests in the city recently. This software was acquired in 2017 to track missing children and persons. The software Delhi Police is using has been ..."
+    publishedDateTime: 2020-02-22T11:45:00Z
+    webUrl: "https://www.hindustantimes.com/tech/facial-recognition-at-protests-delhi-police-says-they-aren-t-using-social-media-photos-to-screen-crowds/story-mpQ4T9hDqbYjgFWDFdTsgJ.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 2
 
 secured: "I3m+TY7lOSGBNAv0nSpBsSzf6C154fnV0diCnuTODvLeyOziMOVpWGIq6zQF2m/lUBOc4fw2wN0Y9o9qEtsypJ+j4PfhnPNEAFW59aR+nyUIFVsx33mwxusR6x+Fe+Sr5KFuYozTOYG0XbBl3YWNzJT/2xlxkdJVRiIiBQ0BVg6bB/FrxrxwZGD1bFp3l6D3YRSXquBPCAmC2sDRQCdPxL5Eu70DeW+nks/06Pyyi72/Y42HFrIj6jHv9lbUdilY4MyDz3cq1j+ejvah1WlpX3D+VkRSFwwpWe1Jm/kp2O4loqy+F5Ws71yxY48r+J+iqHWWEBdytHPHKL6Sfk8h6oCVLgxYhRoNJ23VwPQSfHo7TPztlt1wGx3O7Y5W3EarXL3CCRKX2BGWxHF2uig4auBM3KtjKu/ydFrulXEYWjqp9lKcpX4ApmJtbJZdzljyH5dcFjTo/nnGaEODjk0rpegLnUtMmZe/xo6ytixDye0=;pvJPf53oAa8VSqNjsfxB1g=="
 ---

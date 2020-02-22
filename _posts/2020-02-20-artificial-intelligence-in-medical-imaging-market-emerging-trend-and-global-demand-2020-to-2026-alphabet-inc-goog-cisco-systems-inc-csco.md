@@ -293,6 +293,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 0
+  - title: "Automotive Voice Recognition Market Outlines the Growth Factors and Current State of Market by 2025"
+    excerpt: "The report consists of streamlined financial data obtained from various research sources to provide specific and trustworthy analysis. Evaluation of the key market trends with a positive impact on the market over the following couple of years, including an ..."
+    publishedDateTime: 2020-02-22T11:28:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/39726/automotive-voice-recognition-market-outlines-the/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 0
 
 secured: "oyDKG23HzENzFkPjtmtfY5DrlLy0wgxiUEb2Td3BfJ/A+cqeT6YLpK5yAdxuaRoHshAVYzAeVUpqXMwKN/BtwzY0AA/q3Qam2y4X5dAcFswfokeSeKBYOXwQkgAQYEyQKIFEo3sXioIXz+nOmlWXDMPOgYsbAQbFmVvE9szG8nl9vO1FLdyxGg2ST0s5n6CPCnfCEln3xc5ahTSmrqNkfWvCtshd06E5uqvh9i/fEztuaBMn++FCcO1YF/V4Wl4K3CKUHcmzkF0iHirY+5b7ssdDw4goxzk4Vcjy6HMwvFPUSzF/hHxsnBT8xQB5j0AY;yMZ4GPgFbB2ldtmVRPe67g=="
 ---

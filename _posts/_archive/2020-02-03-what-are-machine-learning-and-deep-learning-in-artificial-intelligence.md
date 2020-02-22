@@ -4,10 +4,8 @@ title: "What are Machine Learning and Deep Learning in Artificial Intelligence"
 excerpt: "AI can be called a superset of Machine Learning (ML) processes, and Deep Learning (DL) processes. AI usually is an umbrella term that is used for ML and DL. Deep Learning is again, a subset of ..."
 publishedDateTime: 2020-02-03T03:39:00Z
 webUrl: "https://www.thewindowsclub.com/machine-learning-deep-learning-artificial-intelligence"
-ampWebUrl: "https://www.thewindowsclub.com/machine-learning-deep-learning-artificial-intelligence/amp"
-cdnAmpWebUrl: "https://www-thewindowsclub-com.cdn.ampproject.org/c/s/www.thewindowsclub.com/machine-learning-deep-learning-artificial-intelligence/amp"
 type: article
-quality: 89
+quality: 49
 heat: -1
 published: false
 
@@ -18,12 +16,6 @@ provider:
 topics:
   - AI
   - Machine Learning
-
-images:
-  - url: "https://thewindowsclub-thewindowsclubco.netdna-ssl.com/wp-content/uploads/2020/01/aivsmlvsdl.png"
-    width: 412
-    height: 338
-    title: "What are Machine Learning and Deep Learning in Artificial Intelligence"
 
 related:
   - title: "AI And The Ghost In The Machine"
@@ -39,21 +31,6 @@ related:
       - url: "https://hackaday.com/wp-content/uploads/2017/02/ghost.jpg"
         width: 3000
         height: 1815
-  - title: "How Is Artificial Intelligence And Machine Learning Used In Engineering?"
-    excerpt: "and machine learning are bringing changes to the field of engineering and the responsibilities of engineers just like they have in other industries. Many of these changes improve efficiency and effectiveness."
-    publishedDateTime: 2020-02-07T16:48:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2020/02/07/how-is-artificial-intelligence-and-machine-learning-used-in-engineering/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2020/02/07/how-is-artificial-intelligence-and-machine-learning-used-in-engineering/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/02/07/how-is-artificial-intelligence-and-machine-learning-used-in-engineering/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 105
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/711x290/https://specials-images.forbesimg.com/imageserve/5e3cf820f133f400076be0f6/960x0.jpg?fit=scale"
-        width: 711
-        height: 290
   - title: "The Role of Machine Learning in Marketing"
     excerpt: "For example, Microsoft’s Azure ML Studio has a methodology to model customer churn. Image source: https://docs.microsoft.com/en-us/azure/machine-learning/studio/azure-ml-customer-churn-scenario In figure 1, it shows a risk model that shows you how actions affect risk and probability. Moving over, figure 2 shows an intervention model that ..."
     publishedDateTime: 2020-02-10T18:43:00Z
@@ -147,6 +124,6 @@ related:
       domain: roboticstomorrow.com
     quality: 4
 
-secured: "O+jo/OB7mEZ86qYo0a4rp7oMfeobaqWbuE0R4BQSvuQi7j2Cj+glOuGXrB2VpIesqpEG6xSyM0lDr5sJXJGjdirqBCsYcWC3sbur/gcSdRTktqkYAZxTRWH9P2JudbG0F90iFVY8eCXU5nHavrkwI1n52SG1/4jABzxUo6emdRf83PUMAZPgs34JVZVFzO4sYCy6I8a3rxrjYqZJIhe/5tE+qc2yZPgmaMnWRFG/ohxkHQZQsNjUL8LcGs25B2bgaw/G2zNPhWJYM26Sbg037qANbT5B/dgF5SW9O50SnZ7fGqGc/Z/O6fuWpEzOS+Ji;z1aCGDhyGjH9oKjZctqa4w=="
+secured: "LuGiMGSJkDpblV3ww8uIR9N0v2rYfz/mAeTQBaU5oyUNkmptCm58WpOFkHjvnyakQgRNQKvp7dEuUC01WLMzrvN61ZT0c4EVlV/Y915COh/CrrtQgqNUbwef5LGpnGpp4eAPcBIEttznG/gEZA02MdayHYsZQZmN+vcYan7fY05prf+1XcrQJ9MkV5rJBjcxzF4ABmuqVydJKzId3p6I8vBjNHicUBYGdL/nDphdARnvzir0qdmBsceWR8H75rmXT2uA0u14JRJmI+piv8+pMq3ZjcEXlrSkCz7s18Vep/lofaHWRX/S5NRAkvvzIdmJ;aimziJv7PdTWZ/iUbGw/Lw=="
 ---
 

@@ -5,8 +5,8 @@ excerpt: "Gradually, he began doing online courses on app development. â€œNow Iâ
 publishedDateTime: 2020-01-25T03:44:00Z
 webUrl: "https://timesofindia.indiatimes.com/india/how-coding-is-becoming-childs-play/articleshow/73550266.cms"
 type: article
-quality: 24
-heat: 24
+quality: 4
+heat: 4
 published: false
 
 provider:
@@ -17,12 +17,6 @@ topics:
   - AI
   - Google AI
 
-images:
-  - url: "https://static.toiimg.com/thumb/msid-73550266,width-1070,height-580,imgsize-1,resizemode-6,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-    width: 1070
-    height: 580
-    title: "How coding is becoming child's play"
-
-secured: "rMJkNqitoGiOOTWBAt2xGFqSjBPVtlxcWFYcBNDU90DmlBdpUOZZUmBNXmjUw6p7IKtjoZAmK9eFq0BUOmvDyBVh2FdfF0ujunQO3rMhVH+5iJFQafy75E4+CA/fTE6PgfYphPsB7xdiZdhzz26J/kk9+/D8xSiActwkP2ueh/O5aRk0SDvVRFYwo7WcmONfnuyG9o3eQd4VSgszhjBxdHmR2MuCarpaKSSUaeO6J1a5ANleHXd1J2eWiknf/saFBmzjkhyAkk9LRQQuGpn2stdJ+bX1oXHUy8luwH191hQzOhmm+rUY4CsNOOGE5vnQ;wSGfimJDf6Z5gGD2kLMHpw=="
+secured: "6v3q687OAj1PHMMIMrIqwogtxap0Eqfavo7MHTWi2SG8G8BnLFPQRKFVPVu9+clHxK2/NO48MtLa1n7FlriRIv4Nfsi5fPb3Bw4HdTHzwSshR5/vVUpzWRUj7aL7ric86ym3NOpzU+5byc0hnO84MLFhwWSZY+rJs603ikVLvmcaJ2H99Ov0hLbWYWgr9gJsB2Q3sjL7y4Y90LuEcRXqpT690t18mSqeL/h7+DmVmIHHxOlVbnDrPRogjf9sNYp96M80ZXlrGCVaTJXjMB4PvTxK//Jif58bwxl+tWQ0TuAGEhWs4sQM6eLHM53TcZIn;quYFH2CLpJ+CKK/KUMXJrw=="
 ---
 

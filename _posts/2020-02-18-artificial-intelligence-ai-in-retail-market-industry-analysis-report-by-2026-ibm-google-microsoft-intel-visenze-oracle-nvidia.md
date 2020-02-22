@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-18T08:37:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-industry-analysis-report-by-2026-ibm-google-microsoft-intel-visenze-oracle-nvidia-2020-02-18"
 type: article
 quality: 50
-heat: 50
+heat: 60
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 1200
     height: 630
     title: "Artificial Intelligence (AI) in Retail Market Industry Analysis Report by 2026 | IBM, Google, Microsoft, Intel, ViSenze, Oracle, Nvidia"
+
+related:
+  - title: "Global Artificial Intelligence in Oil & Gas Market Witness Highest Growth in near future| Intel, Microsoft and IBM Corporation"
+    excerpt: "Global Artificial Intelligence in Oil & Gas Market (Revenue and Volume), Type, Application, End-User, and Regional Analysis, Import-Export Analysis, Industry Analysis, Premium Insights, Intellectual Property Analysis,"
+    publishedDateTime: 2020-02-22T09:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-oil-gas-market-witness-highest-growth-in-near-future-intel-microsoft-and-ibm-corporation-2020-02-22?mod=mw_quote_news"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 19
 
 secured: "ynHTpRT8mTGjFob8CZLhsOxBj8S6SMjFKMmtC0CKrJcHkm6l/M5xggmT9+DUNFA5sWPxIy7Hkp8sqVgL2m3AH+vPSM4Ryd4ys/1FU6EqzWbqUDWzLgz774jwmVeMw6eKRJRhis4ZskPlSCuyVi6JqwCvPyXS+4B++jV2eSy1CqtU8o5/G5O+Zv8Gh9EvL93+TIrxrHRQ6AEbuOWK8rujROc2bbBqiV2Nh+O8wwN+kNSti8JB8k9zckN8dLXqBG+FYn8pUg4o2VE49HMdtEagHdnsN4sUlZhyz3vZeQqGm+l7Ascl7ypq8p3+9431IqH/;eR8s55tO4/1+68I8lHu9oA=="
 ---

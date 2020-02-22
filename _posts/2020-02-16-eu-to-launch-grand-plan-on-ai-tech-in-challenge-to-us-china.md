@@ -34,6 +34,21 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 67
+  - title: "US pushes light regulations for AI, in contrast to Europe"
+    excerpt: "The guidelines encourage driverless-car manufacturers to submit safety self ... But they do aim to deliver on von der Leyen’s promise to initiate legislation on artificial intelligence within her first 100 days in office, a pledge she made last summer ..."
+    publishedDateTime: 2020-02-20T02:22:00Z
+    webUrl: "https://www.politico.eu/article/us-pushes-light-regulations-for-ai-in-contrast-to-europe/"
+    ampWebUrl: "https://www.politico.eu/article/us-pushes-light-regulations-for-ai-in-contrast-to-europe/amp/"
+    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/us-pushes-light-regulations-for-ai-in-contrast-to-europe/amp/"
+    type: article
+    provider:
+      name: POLITICO
+      domain: politico.eu
+    quality: 59
+    images:
+      - url: "https://www.politico.eu/wp-content/uploads/2020/01/GettyImages-1035331888-1200x628.jpg"
+        width: 1200
+        height: 628
   - title: "EU to launch grand plan for AI, tech in challenge to US, China"
     excerpt: "In the U.S., reports that police were using technology from Clearview AI -- a startup that’s scraped billions of photos from social media accounts with the aim of helping law enforcement find suspects without criminal records -- caused a backlash from privacy groups and lawmakers.The same groups are urging legislation to prevent abuses of a ..."
     publishedDateTime: 2020-02-17T04:50:00Z

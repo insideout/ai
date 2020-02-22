@@ -63,15 +63,6 @@ related:
       - url: "https://images.wsj.net/im-153483/social"
         width: 1280
         height: 640
-  - title: "Prediction: Market for Artificial Intelligence in Cars Will Grow 1,200% in Next Six Years"
-    excerpt: "The market for artificial intelligence in the automotive industry will go from $1 billion today to ... for more assistive and autonomous features for improved driving comfort and safety, as well as realizing the goal of self-driving cars and trucks. AI-powered features are already being developed, tested and offered on consumer vehicles."
-    publishedDateTime: 2020-02-07T19:07:00Z
-    webUrl: "https://www.machinedesign.com/mechanical-motion-systems/article/21122520/prediction-market-for-artificial-intelligence-in-cars-will-grow-1200-in-next-six-years"
-    type: article
-    provider:
-      name: Machine Design
-      domain: machinedesign.com
-    quality: 10
   - title: "Can self-driving cars handle Canadian winters?"
     excerpt: "University of Toronto professor Steven Waslander talks about a new study, which will be used to determine whether self-driving cars can handle the snow and ice from harsh Canadian winters. <iframe src=\"https://globalnews.ca/video/embed/6535979/\" width=\"670\" height=\"372\" frameborder=\"0\" allowfullscreen scrolling=\"no\"></iframe> <style>.gn-embed ..."
     publishedDateTime: 2020-02-11T16:22:00Z

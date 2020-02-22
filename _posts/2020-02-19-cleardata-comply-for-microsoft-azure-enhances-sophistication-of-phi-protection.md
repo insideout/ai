@@ -75,16 +75,12 @@ related:
   - title: "The new collaboration is designed to enhance the cybersecurity capabilities of Azure Security Center for IoT customers."
     excerpt: "Azure Security Center offers advanced security posture management. By integrating the two products, Firedome and Microsoft will be able to deliver real-time protection and response, with dual detection capabilities of both Microsoft Threat Intelligence and Firedome's machine learning, cloud-based AI engine. The combined solution provides ..."
     publishedDateTime: 2020-02-22T01:31:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/firedome-announces-integration-with-microsoft-azure-security-center-for-iot/article_9fd4db82-0673-50af-bd2b-78c981cc8039.html"
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/firedome-announces-integration-with-microsoft-azure-security-center-for-iot/article_9fd4db82-0673-50af-bd2b-78c981cc8039.html"
     type: article
     provider:
       name: WFMZ-TV
       domain: wfmz.com
-    quality: 15
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
+    quality: 0
 
 secured: "evtZe6UDUZoPnmwKWcuHdw2D88UDyn3Zy7064GghUAcd/kr3ypIOgmsVEbN+HB+iUDbHFudNP78otogitcShI7kQPmu5tN8b5DMKuuqhEleJOqfcWT8T6sPKIm/jxxM/6XPP0KxSsZx15hINSvPrv0D+h4HnUfDzXV+Zd9qXc3gRYTeS1f0BQjpOxMqkVU7BIVVeA6w8ZKs49CBrHOMkoio/Vy4ttD309GOdjz2UEADaUKCInmozL2lKNWPlKvuo9XNot+zA/k0o3dMAmKZoSUq5usCQZkPwnYhmJO4GyIyTUG+BcPOWAfBWB5TZIYAN;plg4JSSNXfdIsFr3JS8CgQ=="
 ---

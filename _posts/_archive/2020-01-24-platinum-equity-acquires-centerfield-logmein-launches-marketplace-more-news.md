@@ -4,11 +4,9 @@ title: "Platinum Equity Acquires Centerfield, LogMeIn Launches Marketplace, More
 excerpt: "Microsoft Dynamics 365 and Azure Cognitive Services, and officials promised more information about these upcoming integrations later this year. Headquartered in Daly City, Calif., Genesys has more ..."
 publishedDateTime: 2020-01-24T12:47:00Z
 webUrl: "https://www.cmswire.com/customer-experience/platinum-equity-acquires-centerfield-logmein-launches-marketplace-more-news/"
-ampWebUrl: "https://www.cmswire.com/customer-experience/platinum-equity-acquires-centerfield-logmein-launches-marketplace-more-news/amp/"
-cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/customer-experience/platinum-equity-acquires-centerfield-logmein-launches-marketplace-more-news/amp/"
 type: article
-quality: 41
-heat: 41
+quality: 1
+heat: 1
 published: false
 
 provider:
@@ -19,12 +17,6 @@ topics:
   - AI
   - Microsoft AI
 
-images:
-  - url: "https://www.cmswire.com/~/media/951755c6545646ff959dd2829dd71ecd.jpg?mw=1024&hash=90E8FD4CBF33B2AD8D5DCEEF05E2F15103D67212"
-    width: 640
-    height: 480
-    title: "Platinum Equity Acquires Centerfield, LogMeIn Launches Marketplace, More News"
-
-secured: "R+xMI0mw6KVSZUgzrxEiejjXd0FHJP9eQ16Wu11O7vQ44zt+I2UHhRCtN0rHc1ulo337LODKXzk0nidtGpqFXMgNLq/WB860tIf/Rg8pqFvn7o3fYlUCaLl6awXQgBt+l4Yu+GSKmoP0UiUaeMWlPIf8SXvbs2lMzEJucGH8uePjyfE0lmDticU29iHRIBCG9pc/5sMnE3O5CfZpU4M1gtpGt9XCQ/dwVBPO5sTAJfdFk/aicNAQNKSsJVpf12vj/rtg+I1HvHkJqtA5TIJOdYeyXWGaUEn3Rmaezwrf9iwi2UYoKqBYHL7s8RVbNYBO;bJ4DRfsqMuBxYUsrDzQykA=="
+secured: "anV1VcDVjYBHzSxKZF8wfWl4Z9/lnTA+yECtjZRAZEYZIa5e9/V9ppHOuBwM8wWg+f9iBlHK7shjJJOXstnjdSHAFbnIVL7cNsXi0TfQtZagRRLHnnyFZEHAtm2frlc51fqLWMALDK3PGkpHQQH+EYaM9LWwBzkUYJoILRg2bUgeoRmdQSizNYJQQHu6CkIptM2PMDXq2Iia9LoACXs7ADZnCLeGh8188vIIyt9vWBNqd1MGXShW2pXs8yxaDWf+jiYQptv1srMJhOaePdr1AHYs40Her9Oizb13MT7v6qjuJ3dtRL2c+MGElugI87y4;IsDSXt+s4ZCSALzK15ctjg=="
 ---
 

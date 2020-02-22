@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/02/11/is-ai-cybersecuritys-salvation-or
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/11/is-ai-cybersecuritys-salvation-or-its-greatest-threat/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -27,21 +27,6 @@ images:
     width: 2160
     height: 1078
     title: "Is AI cybersecurity’s salvation or its greatest threat?"
-
-related:
-  - title: "Why Artificial Intelligence is the answer to the greatest threat of 2017, cyber-hacking"
-    excerpt: "Sharing the full story, not just the headlines Artificial Intelligence (AI) is a promising source of such help. It comprises theory and techniques that enable intelligent processing of information. It underpins many current robotics and other smart systems (e.g. driverless cars) but its current dominant application area is the analysis of large ..."
-    publishedDateTime: 2020-02-07T18:28:00Z
-    webUrl: "https://www.independent.co.uk/voices/artificial-intelligence-cyber-hacking-russia-malware-2017-biggest-threat-a7516916.html"
-    type: article
-    provider:
-      name: Independent
-      domain: independent.co.uk
-    quality: 31
-    images:
-      - url: "https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/12/15/16/computer-darkness-hacking-website-wennington.jpg"
-        width: 2500
-        height: 1667
 
 secured: "sHg/4mK0ejVKZXfHM7pySzdWLsBYnNjMmZr8KBapoLdinvbrSqfcaLWU4P1JewFaAMxF97CIxsBORTLo6lsF2oJK00HXv0kyTDVfk8W2o2OwfuAqmbBZPCCdNE4myVLL9mAHRPOFOjDpceVLWKjqszPkRpCK6ly00jn3ikj6+LsSwbkfC1JkRnKlI2rMRYffhHCko/1jxZhhbr9Z6fpyw6hZIbE5zQztsf/YeFd2ol+eVjZc+nskFxFQPJC3wPuR40Eo5exBLkjkrlnZ2RKD3Qu2Ao52f5aVDF6uxLfbF8bRFYL8lyjNwDhqBZWFpka2xgM3AqFkTM5g5PjMyy3Oc5l6s2vjHl0XbNkDf8VAr5f26xps3+foB3m1CY/RCnnt0FjJtSAkbelJExSTx2thhMGuuG4jx7Ofi80I0f6L5i0ljnwKMvqHzdzYH9Au75f4ke9ZyO3nbxnjQTfesEBr7aWVBHq344f5X3aANciq9M8=;0hdKFxR+NWOxtRYvYBXZQw=="
 ---

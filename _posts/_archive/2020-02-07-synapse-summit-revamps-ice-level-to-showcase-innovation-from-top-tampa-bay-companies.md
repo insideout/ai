@@ -4,11 +4,9 @@ title: "Synapse Summit revamps ice level to showcase innovation from top Tampa B
 excerpt: "Synapse Summit, which expects to bring 6,000 people under one roof in less than one week, will kick off with one major change. The summit's ice level, which has been used in years past for VIP sponsors and showcase its keynotes,"
 publishedDateTime: 2020-02-07T12:17:00Z
 webUrl: "https://www.bizjournals.com/tampabay/news/2020/02/07/synapse-summit-revamps-icelevel-to-showcase.html"
-ampWebUrl: "https://www.bizjournals.com/tampabay/news/2020/02/07/synapse-summit-revamps-icelevel-to-showcase.amp.html"
-cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/tampabay/news/2020/02/07/synapse-summit-revamps-icelevel-to-showcase.amp.html"
 type: article
-quality: 37
-heat: 37
+quality: 0
+heat: 0
 published: false
 
 provider:
@@ -19,12 +17,6 @@ topics:
   - AI
   - AWS AI
 
-images:
-  - url: "https://media.bizj.us/view/img/11599926/synapsesummitinnovationsontheice*600xx1500-1000-36-0.jpg"
-    width: 600
-    height: 400
-    title: "Synapse Summit revamps ice level to showcase innovation from top Tampa Bay companies"
-
-secured: "dntzSU9RAVEmVjZaFsJkT71xqSKrGBNtF5m5AZe6WyM5UC0ypaWr5Jvr8WVlYGLA8eU4bhYRgpG+Hc9ruk75agH2YvlPGXWTAxsOmjGTCUThw4mdfrxT5cpC8lpgZldKge6Ka4JA/HUSy5r8U1icmo6jI9xCzcNbhPHynFmydJH3HlW6muE/sihKk/+LINvQ0ocxd7g+mqs5HldVtRrzNReuc1J45/s2ZW6X+2EGsONvmd48sL1Scp0BJDF/GQDIkso0MFgyJDZLCjAIOqDnBlwKmsG7ZRsbNvEsPH7h/BFPPMlBmYI+Y9jdv/vaMM1q;wOAWtahHkuDG1VhRMDyt+w=="
+secured: "Cce9bJl9hCeNjYpOMkNuxtCzO0sPFZgF9z0bTLoijp5+iwKS2lv99PQp5WpFjY+JQc1TAw238lQnfzQMZDV40M5OS58xtiYLU4f6FS0aHD67mB5YYojxLlNMWI5PNmH3eHZVgpjIRy/h5B627h/WqK7k8Sl5dIcytWgbNQ+VmL4OibWTrpgS6bFjoz40rbVOCoT2RiPx+10trnKgpjZEfDdAYUKhU8RrufxHTZ5SoTv0QxxiDtEY1ogS8Xe6w2VolB2VKS0YiHDuuTkCHXdslkctzNYhC+dDblXP8UihSFkrkRtEDK+nmKpgSWgxQdqALfCZLW/Vsy/0/AVfean6SF/D1HA7JGFptQqAPTwjIin4wwfKYBK7sH1bOQAyh5I6j1p3g0XjXLVPq+WElF/9UCue0cLdr1gK5WQbSqsxsPEuLi1mzEWMfQxeim4KeFIEhCLRbpIhq78pVfRBRrL5rukrIEE+AhSohrtKZOkgewQ=;COsHoZY0IzJ6+rW5xq2Phg=="
 ---
 

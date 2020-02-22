@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-19T21:44:00Z
 webUrl: "https://www.vice.com/en_us/article/z3by79/ucla-abandons-plans-to-use-facial-recognition-after-backlash"
 type: article
 quality: 171
-heat: 341
+heat: 351
 published: true
 
 provider:
@@ -256,6 +256,15 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2017/07/25183012/Chincotech-facial-recognition.png"
         width: 623
         height: 432
+  - title: "Facial recognition at protests: Delhi Police says they aren’t using social media photos to screen crowds"
+    excerpt: "These responses came in a reply to a right to information request filed by Mint. Just to put things into perspective, Delhi Police had started using facial recognition software to screen crowds at protests in the city recently. This software was acquired in 2017 to track missing children and persons. The software Delhi Police is using has been ..."
+    publishedDateTime: 2020-02-22T11:45:00Z
+    webUrl: "https://www.hindustantimes.com/tech/facial-recognition-at-protests-delhi-police-says-they-aren-t-using-social-media-photos-to-screen-crowds/story-mpQ4T9hDqbYjgFWDFdTsgJ.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 2
 
 secured: "HGqhuwtgUY37y0c63AsOzvar3xz5WQPr+H1e7zc4Dc1gTTJ3OJA5T+/W9mofCvU9UW5H0s5KqeYyCIoIMRY8OFMWeHxMkjimLZzQYMvEt23PrkexZfA1jH9AloIh7F32IG67S7kz+pXoLC4UCh9x+lHz4T8HxDByH2pNwpsRbMgCLZJ6fLdyzrMLNVL1nz3mF4xk9hotSmvkP/KB8L4Y5t78GCnoBOg9hnToQzBnjA0k4S2ABO1Zo6RxEuE4iYs52SbKInr0C6dJJ6EwuYiBR0Ys7MZhqjg2DN/MMlEiYsjr+zP2fs8qI4oH2ETu8bZ6BrG//XXeTxaa/vQeWkiPqCGYFwH/FZRnynFabw7Kg84=;nbT8eZAv6rSymrUDVxZPEA=="
 ---

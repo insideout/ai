@@ -37,19 +37,6 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/105398954-1534357352806rts1xdsi.jpg?v=1534357453"
         width: 3846
         height: 2564
-  - title: "Machine-Learning Studies on Spin Models"
-    excerpt: "With the recent developments in machine learning, Carrasquilla and Melko have proposed a paradigm that is complementary to the conventional approach for the study of spin models. As an alternative to investigating the thermal average of macroscopic physical quantities, they have used the spin configurations for the classification of the ..."
-    publishedDateTime: 2020-02-07T18:26:00Z
-    webUrl: "https://www.nature.com/articles/s41598-020-58263-5"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 24
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-58263-5/MediaObjects/41598_2020_58263_Fig1_HTML.png"
-        width: 685
-        height: 647
 
 secured: "AFpChqMNIouqdGkq+FLhYQqHiXxqKWYzW6cb7byZBYAbhBUzQ5MuLm2qx4fzx7VrpYvu6CZWQ16uVnn+LX9csPue7z9WrcrpPWm//QlXI/O4EFcY9K6embKkUUkzomHhdZag4XCR7/1oS4JUPilTOS2eALDULe/hsmJowL/edHniIVw+85X0KTa6VQSA8PTiI9ES26NNrFcI6jCi9TadRixBT9Ow3DJcjFt0ggOFe8UwnPS6kDNrclrKbGbSb+DrTjUNT5US+E3ZyFXPGqR63YVsIHsZwCwPWSi8jRJSzw1Hitg8v/EQaaSwx3/bIkB5epTtTrjaXiSc45K4L+ChCMQgHs3L71cxf/AEgcA/hgjzwBxg6zTwvofmA9QLfQDrVCPq+Gz3WiBnOAZnQjeOAQQjcoOVqDga9V3rt9UYCJyMrsrdDrj50Gt5dbCb0ZBfEXBVT+or+8DAlfHofO9hhUnmktSsg/jh66reGDgxGUY=;drvB3RcduxZqbrABr8VFAA=="
 ---

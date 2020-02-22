@@ -8,7 +8,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/2/20/21145584/facebook-pa
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/20/21145584/facebook-pay-record-voice-speech-recognition-viewpoints-proununciations-app"
 type: article
 quality: 74
-heat: 355
+heat: 365
 published: true
 
 provider:
@@ -318,6 +318,19 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2020/02/21/16/21461494-0-image-a-11_1582301264268.jpg"
         width: 636
         height: 382
+  - title: "Facebook Offering $5 For User Voice Snippet To Improve Its Speech Recognition Technology"
+    excerpt: "Tech giants like Facebook, Google, Amazon and Apple had to suspend training their AI (Artificial Intelligence) software a while back for voice recognition ... they will first need to apply to get qualified by simply taking help from Facebook's Viewpoints market research app. Once a user is qualified, they will be asked to record the phrase ..."
+    publishedDateTime: 2020-02-22T12:54:00Z
+    webUrl: "https://www.republicworld.com/technology-news/apps/facebook-offering-350-for-voice-snippet.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 32
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/civx6ujxzrxga6yg_1582359929.jpeg?tr=f-jpeg"
+        width: 1242
+        height: 711
   - title: "Facebook to pay users for recording their voice to improve its speech recognition tech"
     excerpt: "Facebook has announced it will pay select users who agree to record their voice to improve its speech recognition technology. According to The Verge, the social networking giant he company will pay select users to record snippets of audio through a new programme called “Pronunciations in its Viewpoints market research app."
     publishedDateTime: 2020-02-21T10:28:00Z
@@ -409,6 +422,6 @@ related:
       domain: knowtechie.com
     quality: 0
 
-secured: "OIaypqVS20RVq45PbiDKlBsZi80qVdJSjlUroWXjcjPvaDStJ08/W6Xzx7FhSKWQ/wXSr4rzen779iMBtWC/NaN/oERdOuf5kPQw1z6MTdB9PIwA5ftve7XofIkBf4YtwQ8iCSHCPZ5yu3H0iKKlPFG4CV5AOeBhFn8bO6z7dHobvrOasRIREAiWOVjW55tWejhKugcowLZf32BCKQAVtTgq9gpeDLrAIMHQQDm098xHE+9byGdkzi8Tvs9LnTFiVrCkLwh+PYYNocpyWOp1BZ0KJhH5b5zYOfTFVYyDV3DsV5GmvdFFrBt96GRjqPeOAwdnlMfdJZ4ktYo0QYoihiFdCU8ccOOfuZDDqma3l2Ssxoabl+J2vfKEoAhIlWLOP5MXmv9Av4JeZJoCAeK1j3EvRxlDVmkk/Mq6MyZ4FBfdnVYcgXtQgC3FR7Qb+V8CafyneDazCKnbkAR8+feAmrIEYt3vrS4zk4+vvTBPApA=;yDTrvNvsu7mlbPw+FVPXrA=="
+secured: "b/23CRRIO0fcEoBe2oIdccmCiT7QPnGP47+6CR0SMipvupD++3uMbt0s7qV6nb41Vy/sgt+ztzWnFJU6SVxW6C8ezemhmUDfGpfv3DSmD54MH9EenXmolrQEV9zolWWcXxht1jrVGtRf2TxcfL3F98QF9k/76GUfsbKWkQPj4PCuNccwR6YWYouioYRznkHKSK5fkBejG8FBYtbvN4o+F3hKb3MkXk2vV3gSHE6bFe7sIHuht98KRkTKyc6VDtqd8kfkuwZ1GApgXkV+eOXBcTwiGsMLb83euZaLD6p1SIYyPnWoPOaDJag5mJlVd+8LEJi3Uhmb6jA2I0EWMEyRwhkK5JfyX31yUiGRZzR2oUNWA0TAoWT+u+eRVa+RUnDLXzrK99zGDDMWIUHq8AvnOs7MW370qiEg6557zfKK/RovuUvc33IFwhtULSX+9++eMfHQ7+zG/61zxeZdoK7y1aUSJCDMK8aZpTr4NBYM0DA=;7Fw4RGfq73myjb4m1A5n4w=="
 ---
 

@@ -321,6 +321,19 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2020/02/21/16/21461494-0-image-a-11_1582301264268.jpg"
         width: 636
         height: 382
+  - title: "Facebook Offering $5 For User Voice Snippet To Improve Its Speech Recognition Technology"
+    excerpt: "Tech giants like Facebook, Google, Amazon and Apple had to suspend training their AI (Artificial Intelligence) software a while back for voice recognition ... they will first need to apply to get qualified by simply taking help from Facebook's Viewpoints market research app. Once a user is qualified, they will be asked to record the phrase ..."
+    publishedDateTime: 2020-02-22T12:54:00Z
+    webUrl: "https://www.republicworld.com/technology-news/apps/facebook-offering-350-for-voice-snippet.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 32
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/civx6ujxzrxga6yg_1582359929.jpeg?tr=f-jpeg"
+        width: 1242
+        height: 711
   - title: "Facebook to pay users for recording their voice to improve its speech recognition tech"
     excerpt: "Facebook has announced it will pay select users who agree to record their voice to improve its speech recognition technology. According to The Verge, the social networking giant he company will pay select users to record snippets of audio through a new programme called “Pronunciations in its Viewpoints market research app."
     publishedDateTime: 2020-02-21T10:28:00Z

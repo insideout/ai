@@ -4,12 +4,10 @@ title: "Object Recognition Is The Answer, Here’s Why"
 excerpt: "More specifically, the convergence of Object Recognition, Machine Vision, and Neural Networks enables machines to see and understand what it is they are seeing. For sure, there are specific use ..."
 publishedDateTime: 2020-01-29T19:32:00Z
 webUrl: "https://www.forbes.com/sites/hodfleishman/2020/01/29/object-recognition-is-the-answer-heres-why/"
-ampWebUrl: "https://www.forbes.com/sites/hodfleishman/2020/01/29/object-recognition-is-the-answer-heres-why/amp/"
-cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hodfleishman/2020/01/29/object-recognition-is-the-answer-heres-why/amp/"
 type: article
-quality: 89
-heat: 99
-published: true
+quality: 49
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -23,27 +21,17 @@ topics:
   - AI
   - Computer Vision
 
-images:
-  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F483146942%2F0x0.jpg"
-    width: 1200
-    height: 800
-    title: "Object Recognition Is The Answer, Here’s Why"
-
 related:
-  - title: "Top 7 Usecases for Touchscreen Object Recognition"
-    excerpt: "This whitepaper from eyefactive presents some of the most exiting usecases of touchscreen object recognition for interactive displays, tables and video walls. The recognition of objects on large-scale touch screens picks up the well-known principle of ..."
-    publishedDateTime: 2020-01-27T14:40:00Z
-    webUrl: "https://www.digitalsignagetoday.com/whitepapers/top-7-usecases-for-touchscreen-object-recognition/"
+  - title: "Face Recognition and Micro Expressions with OpenCV and AWS Rekognition"
+    excerpt: "Amazon Rekognition makes it easy to add image and video analysis to your applications using proven, highly scalable, deep learning technology that requires no machine learning expertise to use."
+    publishedDateTime: 2020-01-23T11:56:00Z
+    webUrl: "https://medium.com/analytics-vidhya/face-recognition-and-microespressions-with-opencv-and-aws-rekognition-2ea2bc83f7da"
     type: article
     provider:
-      name: Digital Signage
-      domain: digitalsignagetoday.com
-    quality: 39
-    images:
-      - url: "https://nmgprod.s3.amazonaws.com/media/files/6f/5d/6f5db33eb9f9e376da43e8199eaa1155/3/social_image_11.png"
-        width: 1200
-        height: 630
+      name: Medium
+      domain: medium.com
+    quality: 49
 
-secured: "adxJilhfBtfXQes7DgXR8S3Lj8abs6R9Ba12pHJqZEuY6qk0f4D91EdH9pBmhD5fv23pFybTpQSEbWyBpjntK3cEkRWJRSkaLbViLVFd41ulJQeDbP9ulqwKDqrmU30pOgVGhilKRJuvdATAVY5iUqKcL8twq6qPpHIrtT3OCoYWdQZmyUDKSCjWOH+pO+QwUgtHMU9FFeHTz2mN+hWMdHH0aKEUPZU0u6MlWV8cyj+MZRpsvkdhHwcHEioCG4zrPGz8ChCSZWlF3/Powa0hsV7SBmlEspfXC+5HsNcxZ7Op0Ld8IGikHGu7NPgPuPYl;4qq83WjEHKyXOUePp+enKQ=="
+secured: "+p51Tsv16xeDEmYz2TeugP0n9KVWea3ZO6KLvki3mLxsThdw0JwGp43UCbgbCdeO6DVt+fyKInGkeur/HEpNuPH11Oxibd3SVV6hGzDng0YO7sNJSw5HUaGkTiG59J82d6WEQdj+Dkjebrimh7nRjv3g8kAeCHK3ILy0wbKyQcLZuN+L+15x9qVV4dET6I09RXoNuVUnTNSkHLSrZLmuLItM7JGzVhHjWBUzNmlEFTg29moRLFWywQmglWCsRsALB4rIxFC/R9IR/ondrCRAoFd3zjCN2lW1cT+UIZTt14wzmsUi8ULV5s/lwUUAQyvo;28CGXqjY/V2ic7JrXEn78g=="
 ---
 

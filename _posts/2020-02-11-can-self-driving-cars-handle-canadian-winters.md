@@ -72,15 +72,6 @@ related:
       name: Law360
       domain: law360.com
     quality: 24
-  - title: "Prediction: Market for Artificial Intelligence in Cars Will Grow 1,200% in Next Six Years"
-    excerpt: "The market for artificial intelligence in the automotive industry will go from $1 billion today to ... for more assistive and autonomous features for improved driving comfort and safety, as well as realizing the goal of self-driving cars and trucks. AI-powered features are already being developed, tested and offered on consumer vehicles."
-    publishedDateTime: 2020-02-07T19:07:00Z
-    webUrl: "https://www.machinedesign.com/mechanical-motion-systems/article/21122520/prediction-market-for-artificial-intelligence-in-cars-will-grow-1200-in-next-six-years"
-    type: article
-    provider:
-      name: Machine Design
-      domain: machinedesign.com
-    quality: 10
 
 secured: "jH+eg6qclLj1QE4M0GfQUPAx3Wea+d3S+3RWmgeiT9Bc7Y5C3prdxQLWpSzqA7Haw4Mk8/AzJoiHXBJWYTZAI7G5h80hMzPKBVVS2fG+sd3G/z3jOhaGCUJiaO7QGhYV59Y8cj+jBq+q8NiL2xmshEzBevZn/9YuLv0sa02vP69x3TMUI8mQC6iUsR5eKNABXX6LKKmhG0B627X9XcCvZJ5DYkdJy60WxQY24mtO4Ae1woulp55N7XYKgEOGjbiEsRcgjgZsRq48z8+bF+18D9WVG6dIpbyoEyiW9O8TL29Ltxo65R0/CY8ZwQuc7jwc9gcxhIygHKRH5Nmc6dxeEw942RHKJvLROkycoL2JLbXr4dLhNHBzDPk0a2lkujaY+Ku3LMjYZpYXhjj24u1LWOwdJWTD6cce9wznB5SkWzJTQ1XOgqZqZbuoLwunemyJ3Z/BgLI7AiopRxM4M+GL64QPqctN8IANWO6DN/R7UxM=;HPN3teqEeyvR2bCgWN2RIw=="
 ---

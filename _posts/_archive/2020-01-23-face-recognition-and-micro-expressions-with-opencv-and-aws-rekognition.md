@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-23T11:56:00Z
 webUrl: "https://medium.com/analytics-vidhya/face-recognition-and-microespressions-with-opencv-and-aws-rekognition-2ea2bc83f7da"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -22,51 +22,16 @@ topics:
   - AWS AI
 
 related:
-  - title: "Facebook Messenger may soon use face recognition to lock the app"
-    excerpt: "Perhaps more importantly, the text suggests that face recognition details will not be stored on Facebook’s servers. Whether it will implement its own technology or use Android’s and iOS’s facilities isn’t yet clear. And whether it will indeed do as it says will be a whole different matter entirely."
-    publishedDateTime: 2020-01-24T05:58:00Z
-    webUrl: "https://www.slashgear.com/facebook-messenger-may-soon-use-face-recognition-to-lock-the-app-24607595/"
-    ampWebUrl: "https://www.slashgear.com/facebook-messenger-may-soon-use-face-recognition-to-lock-the-app-24607595/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/facebook-messenger-may-soon-use-face-recognition-to-lock-the-app-24607595/amp/"
+  - title: "Object Recognition Is The Answer, Here’s Why"
+    excerpt: "More specifically, the convergence of Object Recognition, Machine Vision, and Neural Networks enables machines to see and understand what it is they are seeing. For sure, there are specific use ..."
+    publishedDateTime: 2020-01-29T19:32:00Z
+    webUrl: "https://www.forbes.com/sites/hodfleishman/2020/01/29/object-recognition-is-the-answer-heres-why/"
     type: article
     provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 89
-    images:
-      - url: "https://scdn.slashgear.com/wp-content/uploads/2020/01/messenger.jpg"
-        width: 1280
-        height: 800
-  - title: "Campaign to Ban Face Recognition at U.S. Colleges Gathers Steam"
-    excerpt: "An organized campaign against the use of biometric surveillance at universities and colleges in the U.S. is ratcheting up pressure on institutions it believes are currently using—or are likely soon to adopt—face recognition technology. Fight for the Future, one of the nation’s leading digital rights organizations, and Students for ..."
-    publishedDateTime: 2020-01-28T13:38:00Z
-    webUrl: "https://gizmodo.com/campaign-to-ban-face-recognition-at-u-s-colleges-gathe-1841302162"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 64
-  - title: "It's too late to ban face recognition – here's what we need instead"
-    excerpt: "Calls for an outright ban on face recognition technology are growing louder, but it is already too late. Given its widespread use by tech companies and the police, permanently rolling back the technology is impossible. It was widely reported this week that the European Commission is considering a temporary ban on the use of face recognition in ..."
-    publishedDateTime: 2020-01-23T11:43:00Z
-    webUrl: "https://www.newscientist.com/article/2231066-its-too-late-to-ban-face-recognition-heres-what-we-need-instead/"
-    ampWebUrl: "https://www.newscientist.com/article/2231066-its-too-late-to-ban-face-recognition-heres-what-we-need-instead/amp/"
-    cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2231066-its-too-late-to-ban-face-recognition-heres-what-we-need-instead/amp/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 39
-  - title: "Facebook to pay US$550 million to settle face recognition lawsuit and avoid ‘risky and expensive’ trial"
-    excerpt: "If Facebook had lost it might have been forced to pay US$6 billion, according to Matthew Schettenhelm, Bloomberg Intelligence litigation and government analyst. Sign up now for our 50% early bird offer from SCMP Research: China AI Report. The all new SCMP China AI Report gives you exclusive first-hand insights and analysis into the latest ..."
-    publishedDateTime: 2020-01-30T04:04:00Z
-    webUrl: "https://www.scmp.com/news/world/united-states-canada/article/3048174/facebook-pay-us550-million-settle-face-recognition"
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 0
+      name: Forbes
+      domain: forbes.com
+    quality: 49
 
-secured: "hJ3p96P4tAc3DPEw15QrefYDssa9iGu5amD9zD8tbrOvMLiIsegCs+NjMXsmjuhdzM1pL2ESr/CPczqRMFZxmUJ2mCUXHGTAAYGB7j5qaD1gAM1NIYM28lDzZ+qXe+jgM93dZ6lDozgWx2vdbfkmpr/cogNgm+OKS8Pe/A8ZDTEkJkdj1OzoJWUg0xoW1tikNm/6MgC5DNR/qu0x7Qjp7+MI5GjpHaRo6xivNULdD25gSxYAEl/cjeC6cwIdeN5UlzP1UubKDUCbgueWzLzlAo15uA9684QY/zHSDTTdv0CZfKMznMAAYRF71pg9C3V5;dnX27d9wNdaozK/MsllgFQ=="
+secured: "76YbVOvXPJodlyGPBn6/oNpOjZGmW2q/FCxhlYkfhXJzHrA5We2VeAYmPUQX7HHyyK/EVBOUBWue/s4EqttuEh/xUZ7AVyplAh4x/EhgaUktuX7LHKrB6rxUUeT5JGt9k/9Pbx/xrZToCmftas4Nzfzb1z5MY8rNH55ZcjgcuNVIVokxj5FCCC1A7kAlRQCnxrlSyj/g6ftiaAseSVubJUPNEyNVsa0yHIAWSr12+gKj8+GhdJd0ZogrM6LUg9ERgZuC0qPG+g7enVMUgDOrhIY49Xmh89no4fLCfL2Z2kfXkTfFf8PyDUAqbIJGfsLB;F6DCqU/nyHszOwOxAh5s9Q=="
 ---
 

@@ -253,6 +253,15 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2017/07/25183012/Chincotech-facial-recognition.png"
         width: 623
         height: 432
+  - title: "Facial recognition at protests: Delhi Police says they aren’t using social media photos to screen crowds"
+    excerpt: "These responses came in a reply to a right to information request filed by Mint. Just to put things into perspective, Delhi Police had started using facial recognition software to screen crowds at protests in the city recently. This software was acquired in 2017 to track missing children and persons. The software Delhi Police is using has been ..."
+    publishedDateTime: 2020-02-22T11:45:00Z
+    webUrl: "https://www.hindustantimes.com/tech/facial-recognition-at-protests-delhi-police-says-they-aren-t-using-social-media-photos-to-screen-crowds/story-mpQ4T9hDqbYjgFWDFdTsgJ.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 2
 
 secured: "N3bzzUJlUZ+R1PLIA8uH11Evama4bFPuLnZKy+FFLduERfMNAdK6Ni0McsOZ3spCfBPmzLwVDKG2Y4XyK0FU5hKZvtBD7Fc7KyJNzkZmwcA2TK455vhdpYHLts1xLhcG4pH3NTg33tYWbFkxSCbo3F61R07pGhKu14ggvPFZztnQwrRwHWHV+tsO7sUGxQd5flyB5rD8lCBF+RSU3lEJwuWRFaMRKKqbC5HQmoyMXhdcPsrX6IOCzZCNhLgX+bHXWnwHI6vYqPoFBjEjQPlU/RBHlYprcrfRu52LBYqpKJ6DlfXApSrjKeJuYujmqH0obvK70aKiPtP05XCo32erUNUC0royMa4+g8xDM1/JnDok6BuDtRJS1QQQmE8g83Ixv/CSWncw7rwSHRgpw6TnApActp5cUAGoh9NXiQuxiPzDSm0ugA76nKIvN5OZNomSdwn9EOFl/DFwykRFzMu0J9ok6kuAklP3e4zn8sIHzrg=;lBM7JhnfITlH2Qt2duZaoQ=="
 ---
