@@ -40,21 +40,6 @@ related:
       - url: "https://cdn.technologyreview.com/i/images/david-everett-strickler-igcbfrmd11i-unsplash.jpg?sw=1200&cx=0&cy=0&cw=3000&ch=1688"
         width: 1200
         height: 675
-  - title: "White House reportedly aims to double AI research budget to $2B"
-    excerpt: "The White House is pushing to dedicate an additional billion dollars to fund artificial intelligence research, effectively doubling the budget for that purpose ... applications that may grow to become the next globe-spanning monopoly, a la Google or Facebook — which themselves, as quasi-sovereign powers, invest heavily in the field for ..."
-    publishedDateTime: 2020-02-07T22:57:00Z
-    webUrl: "https://techcrunch.com/2020/02/07/white-house-reportedly-aims-to-double-ai-research-budget-to-2b/"
-    ampWebUrl: "https://techcrunch.com/2020/02/07/white-house-reportedly-aims-to-double-ai-research-budget-to-2b/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/07/white-house-reportedly-aims-to-double-ai-research-budget-to-2b/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/11/GettyImages-1139876920.jpg?w=1024"
-        width: 1024
-        height: 664
   - title: "Trump admin wants funding doubled to make US an AI powerhouse"
     excerpt: "FACEBOOK'S FACIAL-RECOGNITION SETTLEMENT AMOUNT BREAKS RECORD The White ... The budget proposal on Monday will include a 70% increase for National Science Foundation (NSF) for AI-related grants and interdisciplinary research institutes, rising to more than $850 million, sources said, as well as a significant jump in funding at NSF for quantum ..."
     publishedDateTime: 2020-02-08T00:57:00Z

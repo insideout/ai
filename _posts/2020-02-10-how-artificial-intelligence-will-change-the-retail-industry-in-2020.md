@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-10T18:43:00Z
 webUrl: "https://medium.com/@venkat34.k/how-artificial-intelligence-will-change-the-retail-industry-in-2020-592fc2037d74"
 type: article
 quality: 82
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -27,15 +27,6 @@ images:
     title: "How Artificial Intelligence will Change the Retail Industry in 2020?"
 
 related:
-  - title: "The 6 trends set to transform the video industry in 2020"
-    excerpt: "First, we analyze the title, synopsis and other metadata to get keywords, then use those to filter down the episode images using Amazon Rekognition. This platform can search actors, actions ..."
-    publishedDateTime: 2020-02-07T23:07:00Z
-    webUrl: "https://medium.com/@josesomolinos/the-6-trends-set-to-transform-the-video-industry-in-2020-4810d3e0762c"
-    type: article
-    provider:
-      name: Medium
-      domain: medium.com
-    quality: 34
   - title: "How artificial intelligence may aid the poultry industry"
     excerpt: "Robots offer not only higher productivity and profits, but their presence can also contribute to improved health and welfare. robot-avcola-Octopus-granja-2 The most visible signs of employment of artificial intelligence on farm is in the form of robots that not only improve efficiency but benefit bird welfare. Octopus Robots Some robots ..."
     publishedDateTime: 2020-02-17T18:22:00Z

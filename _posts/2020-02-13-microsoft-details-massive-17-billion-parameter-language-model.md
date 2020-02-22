@@ -39,19 +39,6 @@ related:
       - url: "https://mspoweruser.com/wp-content/uploads/2020/02/Microsoft-Deepspeed-deeplearning.jpg"
         width: 1305
         height: 717
-  - title: "DeepSpeed is a deep learning optimization library that makes distributed training easy, efficient, and effective."
-    excerpt: "Training advanced deep learning models is challenging. Beyond model design, model scientists also need to set up the state-of-the-art training techniques such as distributed training, mixed precision, gradient accumulation, and checkpointing. Yet still ..."
-    publishedDateTime: 2020-02-07T22:56:00Z
-    webUrl: "https://github.com/microsoft/DeepSpeed"
-    type: article
-    provider:
-      name: GitHub
-      domain: github.com
-    quality: 33
-    images:
-      - url: "https://avatars2.githubusercontent.com/u/6154722?s=400&v=4"
-        width: 400
-        height: 400
   - title: "Turing-NLG: A 17-billion-parameter language model by Microsoft"
     excerpt: "have improved the state of the art on nearly every downstream natural language processing (NLP) task, including question answering, conversational agents, and document understanding among others. We are releasing a private demo of T-NLG, including its freeform generation, question answering, and summarization capabilities, to a small set of ..."
     publishedDateTime: 2020-02-10T17:43:00Z

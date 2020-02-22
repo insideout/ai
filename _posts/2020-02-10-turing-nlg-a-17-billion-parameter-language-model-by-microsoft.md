@@ -56,19 +56,6 @@ related:
       - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/02/T-NLG.png"
         width: 800
         height: 546
-  - title: "DeepSpeed is a deep learning optimization library that makes distributed training easy, efficient, and effective."
-    excerpt: "Training advanced deep learning models is challenging. Beyond model design, model scientists also need to set up the state-of-the-art training techniques such as distributed training, mixed precision, gradient accumulation, and checkpointing. Yet still ..."
-    publishedDateTime: 2020-02-07T22:56:00Z
-    webUrl: "https://github.com/microsoft/DeepSpeed"
-    type: article
-    provider:
-      name: GitHub
-      domain: github.com
-    quality: 33
-    images:
-      - url: "https://avatars2.githubusercontent.com/u/6154722?s=400&v=4"
-        width: 400
-        height: 400
 
 secured: "PqqH59MhQ98pPUX2UJ5Rr6IxDuFbR45JM97YfCTWwvKxRIrkT0VDaBaA7ih/gzQ+bOpgDvQoSGd17POCiqufdkCAynC7dfEjTz3lm/lsgMkDW2ZZGzXrI6uTWFcvQNS0Q4ZsW/IjeZrUbPQYS41g/JUzx7DqeX3gjj+4qijWIj+m+TE198rPq4TTUu07uSA1w8g+So5E3i87j3oCLn+ZnZ8GM1byvZa5xm2cK5B5M3nakT2uG4iPbcoFwLKFxG2zbSsHU/extMrmwDn0qkGYNDAtdJnJrpke4RNgGzYMNwl3gkVzYtqh5RJOp1BWFvp7CpZU9B2iUk12ssNdfCbMQzns+qexzpwz8KO2rn+AHE6tJUzA+dHpDpgQD5ZkPB2lt272+edQ59PNFnDC1eka2h93u02WNy9yyWahWEVn/AF1I9UO9x9SvoPNLiYe1rJhEe6kh79BnQJ3ttrYOzx9KoErcc68MB5J6qEax2Z2OqE=;f+XdB+zmu9UeAYr511TK3w=="
 ---

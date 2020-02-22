@@ -8,7 +8,7 @@ ampWebUrl: "https://www.swtimes.com/entertainmentlife/20200209/self-driving-car-
 cdnAmpWebUrl: "https://www-swtimes-com.cdn.ampproject.org/c/s/www.swtimes.com/entertainmentlife/20200209/self-driving-car-company-nuro-wins-federal-safety-approval-for-grocery-delivery-robot?template=ampart"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -26,21 +26,6 @@ images:
     title: "Self-driving car company Nuro wins federal safety approval for grocery delivery robot"
 
 related:
-  - title: "Nuro's R2 vehicle has been granted the NHTSA's first regulatory exemption for a custom self-driving car"
-    excerpt: "Self-driving cars: Nuro is a well-known entity in the autonomous vehicle industry. It's partnered up with companies like Kroger and Dominos in the past to offer driverless food and grocery delivery services via its \"R1\" generation of vehicles. Now ..."
-    publishedDateTime: 2020-02-07T22:57:00Z
-    webUrl: "https://www.techspot.com/news/83926-nuro-has-granted-nhtsa-first-regulatory-exemption-custom.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/83926-nuro-has-granted-nhtsa-first-regulatory-exemption-custom.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83926-nuro-has-granted-nhtsa-first-regulatory-exemption-custom.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 58
-    images:
-      - url: "https://static.techspot.com/images2/news/ts3_thumbs/2020/02/2020-02-07-ts3_thumbs-3a9.jpg"
-        width: 800
-        height: 560
   - title: "Federal government approves California company’s self-driving vehicle with no wheel or pedals"
     excerpt: "MOUNTAIN VIEW, Calif. — The federal government has cleared the way for a Silicon Valley startup to deploy thousands of its self-driving delivery vehicles on US streets. The R2 has no steering wheel, pedals or side mirrors as it’s designed to be unmanned and carry cargo. Large compartments on its side open up to reveal deliveries ..."
     publishedDateTime: 2020-02-08T04:16:00Z
@@ -56,19 +41,15 @@ related:
       - url: "https://placehold.it/300X250"
         width: 300
         height: 250
-  - title: "Self-driving vehicle law hits a speed bump"
-    excerpt: "The big picture: Manufacturers and tech companies want federal rules of the road for their roll-out of self-driving vehicles. But trial lawyers, a powerful lobby, want key questions on liability in a driverless world answered before legislation advances. Driving the news: Daniel Hinkle, an attorney with the American Association for Justice ..."
-    publishedDateTime: 2020-02-11T11:08:00Z
-    webUrl: "https://www.axios.com/self-driving-vehicle-law-hits-a-speed-bump-875152c5-3455-42f7-831a-a563b72256ac.html"
+  - title: "Self-Driving Car Market Outlook: World Approaching Demand & Growth Prospect 2019-2025 | BMW, Daimler, Ford, General Motors"
+    excerpt: "The self-driving car market has high growth prospects owing to increasing demand for autonomous vehicles and technological advancement such as integration of artificial intelligence and machine learning technologies in the self- driving car propelling the market growth. For instance, Tesla announced to release fully self-driving cars by 2019."
+    publishedDateTime: 2020-02-11T13:56:00Z
+    webUrl: "https://www.openpr.com/news/1927864/self-driving-car-market-outlook-world-approaching-demand"
     type: article
     provider:
-      name: Axios
-      domain: axios.com
-    quality: 24
-    images:
-      - url: "https://images.axios.com/WAaKWDWilhZmV1aIrsnfnqOj4JQ=/2020/02/10/1581362650395.jpg"
-        width: 1920
-        height: 1080
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
 
 secured: "3WPqiH/TYfNWn/75xLdQo7VUzeq4ZblLocUmnlnybizqAVRHeatp/nAKa5L1Hb3uEKXY5vQnDI4q5ygLyvCsyJkgQYjI1mvVxmCDsUPrydRJiupfCq12aXdwmBookSY2nfRZ3Q5cnHkFUcAcXgev+78Xt12Rs7Yz4wjnDejrihi6g78RlhlxFn4E0bdde+p+drn4JRNL5GYgLeAuqmDTnZ9sWk54fa3d4+yi15QqxrX1JhfQ3wHqxg1NYI14t3mvRes9iikH5NmiDfxDExHtjbGCIqmvZmPgN4xYQ2fVv34i+tfwGwkA96Cs9R2kKaM/6gjrAPrKVrGYYFQk1BQP15yeqkT2AeaG6XAAfbAaYQQWUtYl9CgLi/4Bp2mf0V+k9tjW4uR768izrXR30kQmrXc5NzT34HdKE2j7bs45xhpuEzmwQ8NS1kHQY4alEy+k4m8GA9cdGCEGc1JAkDswUaPUcDFNfkCh2H79OLb7584=;CMXq1hmaZc5OpxnmeQ76/w=="
 ---

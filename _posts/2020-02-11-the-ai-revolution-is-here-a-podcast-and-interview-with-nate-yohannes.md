@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesinsights/2020/02/11/the-ai-revolu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesinsights/2020/02/11/the-ai-revolution-is-herea-podcast-and-interview-with-nate-yohannes/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -28,21 +28,6 @@ images:
     width: 1200
     height: 800
     title: "The AI Revolution Is Here - A Podcast And Interview With Nate Yohannes"
-
-related:
-  - title: "An interview with an AI"
-    excerpt: "... tech’, passes the Turing tests but also falls under the strict purview of their AI global ethics agency. We will now tune in telepathically, a few trillion miles away, into an interview ..."
-    publishedDateTime: 2020-02-07T23:07:00Z
-    webUrl: "https://medium.com/@mkarthik.narayanan/an-interview-with-an-ai-cc009307595e"
-    type: article
-    provider:
-      name: Medium
-      domain: medium.com
-    quality: 69
-    images:
-      - url: "https://miro.medium.com/max/1200/1*e2gbH7a9-imhl8T_p6Kpdw.png"
-        width: 1200
-        height: 777
 
 secured: "bi81AtaPz0CMnBSebJf5Gk8LNa39EPiTkrvyH35EKB0kVgf8Ag3lXqMk94t55KlSvP68qFi/7JBnqcPOfZTV+zEVZX7ESnWQ6CefD7fIrNpzGWkUEomunBvcVOH0J5T1MfWO7N7pfbrqayB8/HRgwBtS1x/8sn+dd1EvEo4YjQiFXGCAY3izB/A0a8PmX/goBxeoEWmRyLzuc5HJcpnGgC5U7LBjluEzXW71WBYVNgLGpMTL+dMpcOGxW7bPnHu8v0mGleX1f5WS5o5rIY/uMw/8QvgwiwsAo1tzjqFnfI3sC/xPxqRSwor2WC+S1JmuQY6Ypc8wST4TPM2Ez6Rh/UunC2scyPh5EnwtE59jTbInhqu2pacRuto8L4wkjMBDsTPPo36yai+ZRkJtMQ1E13OMNY504Wl0MBCmLI2PqI7DCtwcWu7gtFsS7dhuSZN5geaSzUhcBnQ75c53R3sG1YqDEJshxhBqdQq7xP8w78U=;CObwT/MQbwpbkwUsrXdUnA=="
 ---

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-02-16/eu-to-launch-
 cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-02-16/eu-to-launch-grand-plan-on-ai-tech-in-challenge-to-u-s-china"
 type: article
 quality: 67
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -64,17 +64,6 @@ related:
       - url: "https://images.livemint.com/img/2020/02/17/600x338/2020-01-30T114805Z_148678691_RC2BQE9Y9Q8L_RTRMADP_3_EU-ANTITRUST_1581912675356_1581912712630.JPG"
         width: 600
         height: 338
-  - title: "EU proposes rules for artificial intelligence to limit risks"
-    excerpt: "The EU's report said clear rules are needed to address “high-risk AI systems,” such as those in recruitment, healthcare, law enforcement or transport, which should be “transparent, traceable and guarantee human oversight.” Other artificial intelligence systems could come with labels certifying that they are in line with EU standards."
-    publishedDateTime: 2020-02-20T06:09:00Z
-    webUrl: "https://www.kansascity.com/news/business/national-international/article240423231.html"
-    ampWebUrl: "https://amp.kansascity.com/news/business/national-international/article240423231.html"
-    cdnAmpWebUrl: "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/news/business/national-international/article240423231.html"
-    type: article
-    provider:
-      name: Kansas City Star
-      domain: kansascity.com
-    quality: 39
 
 secured: "Pe22F2PGjS8S4EMxyZFo5awGKh4PXhGvvBBGW4mP5V6oqkUD1f0vVALIMHXbq0+vz1V/y/WlVgSGA7dt223KhNaOzuWQMct66TEyOeolFxiyNqzMiEo4U6cBfeBGsymbGd2t0A9nw4ZuoLYEpDeAtNTDD3xA2bpN/ulBkruKot5NMqo2eOVoB83Xtqvr3TMerDt8VGCybgZU7ugIQGBQPKc6PV05SLyeLNmiSOZe6TvMkg/1EJf5s1zPTDf2F0cMxTjl+SEsKHgG2+OUj/3KQ+LSxanlYjdv3xLx7PBLW0O/yEr7FT8/4WvuCgJb/7PwZtkN7DL6wfZELB4tFBivxI+y40tsIeDY3ySPkv1fP/W5j8GjVeHvk4Y1rUUa0++dtxKrlgo2GmebtkhIrYht0xdv6/9QplxLA5XjOk3ZZ80Y/NFkBoY2hiuMuiOHqEZFMBD3nOMjjcoieONsDT68/yQVns5/1C7DU1LoIWhar/U=;8QIWMyEQ9SkCKBpYR8xZCA=="
 ---

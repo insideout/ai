@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-11T12:34:00Z
 webUrl: "https://www.technologyreview.com/f/615174/the-white-house-will-spend-hundreds-of-millions-more-on-ai-research/"
 type: article
 quality: 137
-heat: 187
+heat: 177
 published: true
 
 provider:
@@ -23,21 +23,6 @@ images:
     title: "The White House wants to spend hundreds of millions more on AI research"
 
 related:
-  - title: "White House reportedly aims to double AI research budget to $2B"
-    excerpt: "The White House is pushing to dedicate an additional billion dollars to fund artificial intelligence research, effectively doubling the budget for that purpose ... applications that may grow to become the next globe-spanning monopoly, a la Google or Facebook — which themselves, as quasi-sovereign powers, invest heavily in the field for ..."
-    publishedDateTime: 2020-02-07T22:57:00Z
-    webUrl: "https://techcrunch.com/2020/02/07/white-house-reportedly-aims-to-double-ai-research-budget-to-2b/"
-    ampWebUrl: "https://techcrunch.com/2020/02/07/white-house-reportedly-aims-to-double-ai-research-budget-to-2b/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/07/white-house-reportedly-aims-to-double-ai-research-budget-to-2b/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/11/GettyImages-1139876920.jpg?w=1024"
-        width: 1024
-        height: 664
   - title: "The White House wants more AI research for less money"
     excerpt: "AI is upending companies, industries, and humanity. The White House released a budget proposal this week that at first glance, looks like a big win for the fields of artificial intelligence and machine learning. The budget for fiscal year 2021 (which begins in October) would ramp up spending for AI research at DARPA (the Pentagon’s research ..."
     publishedDateTime: 2020-02-14T23:05:00Z
