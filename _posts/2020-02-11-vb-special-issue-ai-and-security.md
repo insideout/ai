@@ -6,8 +6,8 @@ publishedDateTime: 2020-02-11T18:06:00Z
 webUrl: "https://venturebeat.com/vb-special-issue-ai-and-security/"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 77
+published: true
 
 provider:
   name: VentureBeat
@@ -27,21 +27,19 @@ images:
     title: "VB Special Issue: AI and Security"
 
 related:
-  - title: "AI Weekly: Announcing our AI and security special issue"
-    excerpt: "VentureBeat’s second special issue is nigh. Following our first special issue, Power in AI, this next one focuses on AI and security. Each special issue is a package of articles that explores a central topic from a variety of angles, from voices in industry, academia, and our newsroom. Whether we’re aware of it or not, both AI and ..."
-    publishedDateTime: 2020-02-07T19:59:00Z
-    webUrl: "https://venturebeat.com/2020/02/07/ai-weekly-announcing-our-ai-and-security-special-issue/"
-    ampWebUrl: "https://venturebeat.com/2020/02/07/ai-weekly-announcing-our-ai-and-security-special-issue/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/07/ai-weekly-announcing-our-ai-and-security-special-issue/amp/"
+  - title: "Information Security and Artificial Intelligence news"
+    excerpt: "A Purdue University–affiliated company using artificial intelligence to improve health care delivery has received a $500,000 investment from Purdue Research Foundation’s Foundry Investment Fund to help it advance medical technology. Purdue announces plans to build new data science building Purdue University will build a new $40 million ..."
+    publishedDateTime: 2020-02-08T18:03:00Z
+    webUrl: "https://www.purdue.edu/newsroom/info-security-ai/index.html"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: Purdue University
+      domain: purdue.edu
+    quality: 39
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/02/AI-and-Security-header.png?fit=4842%2C2421&strip=all"
-        width: 4842
-        height: 2421
+      - url: "https://news.uns.purdue.edu/images/2020/gary-conkrightLO.jpg"
+        width: 800
+        height: 576
 
 secured: "J8/q+UM63vDNK2UdWQF2ghxVAM6btab85Em/ItHmXh4+Za+Mc7e4jfmKsvtzyafBDUphjD9+iCoCOWjznw/n2WFwrkvzIIOMsxiuwRoH3WVBk5V8N59+IY8cXJePV0ogKoJoGzDu6DKXmpZdXzAYaXk3FYdXAEmAsytCpKgt1unsnjmu6+9pa/J1SQCYWRZ45BOzbQblm9x7dvFg8x/Srm4KaBDbPR+kXArZEKJl9gg+GS3molNWJ0TdVZL9KfZ4I/6qJVan0ybWPEoGWK5SYHhxdyK2m3j27T+1+ajviFZcZIPI82lrwK3Dpg/mLPn2qIFJiDEXuvb7qUqbDGmUosA7lA71yh46KomILk9dCnbFnkLEztaoOYc/UW5OHq0Lada9Hn0qHY9Dpa74b9OmU/lSxrOO1tPR4pq2rKusDVUXPX4vSTu0iPuz0lFU5jTfM9O4R4FYEQ3bs080SbtHo18HnvogIXxjorSADCSY/WI=;d9HidJAseq8KzocfOsZt/g=="
 ---

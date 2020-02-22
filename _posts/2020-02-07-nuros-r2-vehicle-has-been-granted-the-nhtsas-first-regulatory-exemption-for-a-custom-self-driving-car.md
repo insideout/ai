@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/83926-nuro-has-granted-nhtsa-first
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83926-nuro-has-granted-nhtsa-first-regulatory-exemption-custom.html"
 type: article
 quality: 58
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -30,21 +30,6 @@ images:
     title: "Nuro's R2 vehicle has been granted the NHTSA's first regulatory exemption for a custom self-driving car"
 
 related:
-  - title: "US clears the way for this self-driving vehicle with no steering wheel or pedals"
-    excerpt: "CALIFORNIA — The federal government has cleared the way for a Silicon Valley startup to deploy thousands of its self-driving delivery vehicles on US streets. The R2 has no steering wheel, pedals or side mirrors as it’s designed to be unmanned and carry cargo. Large compartments on its side open up to reveal deliveries, such as groceries or ..."
-    publishedDateTime: 2020-02-07T19:34:00Z
-    webUrl: "https://wreg.com/2020/02/07/us-clears-the-way-for-this-self-driving-vehicle-with-no-steering-wheel-or-pedals/"
-    ampWebUrl: "http://wreg.com/2020/02/07/us-clears-the-way-for-this-self-driving-vehicle-with-no-steering-wheel-or-pedals/amp/"
-    cdnAmpWebUrl: "https://wreg-com.cdn.ampproject.org/c/wreg.com/2020/02/07/us-clears-the-way-for-this-self-driving-vehicle-with-no-steering-wheel-or-pedals/amp/"
-    type: article
-    provider:
-      name: WREG
-      domain: wreg.com
-    quality: 39
-    images:
-      - url: "https://localtvwreg.files.wordpress.com/2020/02/hypatia-h_6c542cd4da989a321201ee0792ec843c-h_380deb702e8624c8a7d02bce596b8943.jpg?quality=85&strip=all&w=1200"
-        width: 1200
-        height: 800
   - title: "Self-driving car company Nuro wins federal safety approval for grocery delivery robot"
     excerpt: "WASHINGTON — Delivery robot company Nuro won the first federal safety approval for a purpose-built self-driving vehicle, advancing the young company's plans to cart groceries around neighborhoods and marking a milestone for the autonomous vehicle industry. The approval indicates that federal regulators at the Department of Transportation ..."
     publishedDateTime: 2020-02-09T10:11:00Z

@@ -34,19 +34,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e3da204f133f400076beb5a%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1000%26cropY1%3D0%26cropY2%3D563"
         width: 1000
         height: 563
-  - title: "Predicting chaos using aerosols and AI"
-    excerpt: "Click to share on Facebook (Opens in new window) Click to share on Twitter (Opens in new window ... methods and determined that the generative adversarial network produced the most accurate outcomes. This kind of AI is first fed information about a real-world process, then, based on that data, it creates a simulation of that process."
-    publishedDateTime: 2020-02-07T20:52:00Z
-    webUrl: "https://source.wustl.edu/2020/02/predicting-chaos-using-aerosols-and-ai/"
-    type: article
-    provider:
-      name: Washington University in St. Louis
-      domain: wustl.edu
-    quality: 39
-    images:
-      - url: "https://source.wustl.edu/wp-content/uploads/2020/02/ChaosFeature.jpg"
-        width: 760
-        height: 507
 
 secured: "ixpbrsmHAbg8NxRHlfwwL3vGkwSRnJndBoYINDWCrPhitwUPfUvzQQ5Aycy9Tnp1g71RqBu/zih2pVE/scr9mciupyA0rAKIR0AJ/AyfVNRwVZvuCVxv2RS0/LNjhOb8B+WY9rSaO2Ht/3C7+ZIriDBkHr0dNlaOpQvh7RAeDdr3iXB2XWhV/nVvHy6Fc/YsiHlCr+Nkj1SlPjli+y8cTuEdyA+AkKqdv6hatR0MRSRD5vgZR9NQ/w4DaCx8zSml5PiVg+9OwdAFS6UmYRLSifOk9bSuwtxiQtAsH/cBm9DeWzdJkmG98fr04kQLf8WFLeXprSgOqA1d/DUpOnNDUgetXS2fpZNmRzpC6CgyRPj/WA5sKXsJ9WHXec34hkETwMDGh5BjCo+nNIQnOFPLbDbpT3B6W6mLob0GBQ/vwS471ja+htsnTEGWJj6JoGzNdmGZN4ngVXTlStp/XGoAzWuU49JYBzxWq/OzWBRPGzo=;e+j+HZClDCUVkdYKNnsL9Q=="
 ---

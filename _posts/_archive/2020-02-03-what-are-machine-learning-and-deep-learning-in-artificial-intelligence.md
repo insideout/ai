@@ -4,8 +4,10 @@ title: "What are Machine Learning and Deep Learning in Artificial Intelligence"
 excerpt: "AI can be called a superset of Machine Learning (ML) processes, and Deep Learning (DL) processes. AI usually is an umbrella term that is used for ML and DL. Deep Learning is again, a subset of ..."
 publishedDateTime: 2020-02-03T03:39:00Z
 webUrl: "https://www.thewindowsclub.com/machine-learning-deep-learning-artificial-intelligence"
+ampWebUrl: "https://www.thewindowsclub.com/machine-learning-deep-learning-artificial-intelligence/amp"
+cdnAmpWebUrl: "https://www-thewindowsclub-com.cdn.ampproject.org/c/s/www.thewindowsclub.com/machine-learning-deep-learning-artificial-intelligence/amp"
 type: article
-quality: 49
+quality: 89
 heat: -1
 published: false
 
@@ -16,6 +18,12 @@ provider:
 topics:
   - AI
   - Machine Learning
+
+images:
+  - url: "https://thewindowsclub-thewindowsclubco.netdna-ssl.com/wp-content/uploads/2020/01/aivsmlvsdl.png"
+    width: 412
+    height: 338
+    title: "What are Machine Learning and Deep Learning in Artificial Intelligence"
 
 related:
   - title: "AI And The Ghost In The Machine"
@@ -44,32 +52,6 @@ related:
       - url: "https://miro.medium.com/max/1200/0*ogKgDXUqbtxLfG54.png"
         width: 1200
         height: 672
-  - title: "Most used jargon's in Machine Learning"
-    excerpt: "Machine learning and data science are one of the hot topics. We hear lots of terms related to these fields. Let’s learn about few popular terms. Supervised learning typically begins with an established set of data and a certain understanding of how that data is classified. Supervised learning is intended to find patterns in data that can be ..."
-    publishedDateTime: 2020-02-07T19:29:00Z
-    webUrl: "https://medium.com/@vikaskp/most-used-jargons-in-machine-learning-799b05cc6eab"
-    type: article
-    provider:
-      name: Medium
-      domain: medium.com
-    quality: 69
-    images:
-      - url: "https://miro.medium.com/max/531/0*unStElN00ZSlgzvl.jpeg"
-        width: 531
-        height: 450
-  - title: "What Is A.I. and Machine Learning?"
-    excerpt: "Artificial intelligence (A.I.) and machine learning have seen a recent resurgence due to advancements in computing power A.I. is an area of R&D that focuses on getting machines to act rationally and autonomously. Machine learning is a subset of A.I. that leverages applied math to find patterns in data Machine learning is composed of three ..."
-    publishedDateTime: 2020-02-07T19:29:00Z
-    webUrl: "https://medium.com/@shanif/what-is-a-i-and-machine-learning-58cd0f46d9eb"
-    type: article
-    provider:
-      name: Medium
-      domain: medium.com
-    quality: 69
-    images:
-      - url: "https://miro.medium.com/max/1200/1*27WsK53Ir7W6xSo46jjTow.jpeg"
-        width: 1200
-        height: 745
   - title: "Arm brings AI and machine learning to IoT and the edge"
     excerpt: "However, because a great deal of ML and AI-based algorithm work is being created in frameworks, such as TensorFlow, the company is also bringing support for its new IP designs into TensorFlow Lite Micro, which is optimized for the types of smaller devices for which these new chips are intended. In addition to software, there are several ..."
     publishedDateTime: 2020-02-11T16:10:00Z
@@ -124,6 +106,6 @@ related:
       domain: roboticstomorrow.com
     quality: 4
 
-secured: "LuGiMGSJkDpblV3ww8uIR9N0v2rYfz/mAeTQBaU5oyUNkmptCm58WpOFkHjvnyakQgRNQKvp7dEuUC01WLMzrvN61ZT0c4EVlV/Y915COh/CrrtQgqNUbwef5LGpnGpp4eAPcBIEttznG/gEZA02MdayHYsZQZmN+vcYan7fY05prf+1XcrQJ9MkV5rJBjcxzF4ABmuqVydJKzId3p6I8vBjNHicUBYGdL/nDphdARnvzir0qdmBsceWR8H75rmXT2uA0u14JRJmI+piv8+pMq3ZjcEXlrSkCz7s18Vep/lofaHWRX/S5NRAkvvzIdmJ;aimziJv7PdTWZ/iUbGw/Lw=="
+secured: "SecfIunTWVXKIJXKxSQg/npoO9EHt1/VaMTv74d8b65C1cClWzBsgERK2Gbdq5Lfn5hhwhjdPgH8JhUiV1N0ibshui3Gvm+VLJM6XY9dJjlqvmRNFro/W+Mi0++7wGfKVLtDJg7SEGB6iguaI1ztXpwEEol3rRy3rB0KX0EIvqDwzuVHY1yqv2rJZF6eab4TABU7F9vwd2V8TW6IiqV+VMMRF8x4eUbNjB9dseSXj/cT3ZrEsWP8vI4bkYNShZU3OAATItrVj6KrUiaVp9BRjIomrIEkSTDY+re/AAT1Z9ymtKDhVFcNdbVFWyFz2FWP;MHGroEnoP976lYbnpqOg9Q=="
 ---
 

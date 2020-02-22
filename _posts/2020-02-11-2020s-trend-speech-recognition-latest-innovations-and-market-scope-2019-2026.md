@@ -31,19 +31,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Speechmatics opens third international office to address U.S. speech recognition market"
-    excerpt: "Speechmatics has opened an office in Denver, Colorado, the third international office space the UK-based automated speech recognition software provider has opened in just three months, following Chennai, India and Brno, Czech Republic, the company announced. By opening its first office in the U.S., Speechmatics wants to leverage the country’s ..."
-    publishedDateTime: 2020-02-07T19:16:00Z
-    webUrl: "https://www.biometricupdate.com/202002/speechmatics-opens-third-international-office-to-address-u-s-speech-recognition-market"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 31
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/01/09162857/voice-biometrics-large2.jpg"
-        width: 900
-        height: 499
 
 secured: "Z+ucgRBt527+hORMKiFHo6YUbFRAWSxEknFxt9Z2PSxcul8kGmOV2xbnV5RdKxyrCh+j/khRe3curt3p5raH1JvX654dHCewnfT0XiebGsVCbU3SheQ+XxoKU9HjxZX0QCaHvxD3+dyGOon145xZIhhcdCU1RQU/1Q+A6br0HurbFZnwbNdck68zvv6RCqWaGneQz8tp5je4T7P9Lu/9XBUirxRPzKdn3qWH9HtVsq/SsoXo89XQoIFK9/hLe7fexxtPSHHkekotNu2w39r3dfxAeNAKlFVS/cd6JpdmMdTr6C/ZCk3tDs2tVx3QtydC;mreoAcctsrxB8yCW+2O97Q=="
 ---

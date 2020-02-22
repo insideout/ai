@@ -1,11 +1,11 @@
 ---
 category: news
 title: "UPS, Waymo partner to start self-driving package pickup"
-excerpt: "United Parcel Service (UPS) and self-driving technology company Waymo recently announced a first-of-a ... Over the last decade, the company has demonstrated leadership in advanced data analytics, artificial intelligence, autonomous drone delivery, robotics and facility automation."
-publishedDateTime: 2020-02-06T03:22:00Z
+excerpt: "“UPS and Waymo are exploring automated and autonomous ... the company has demonstrated leadership in advanced data analytics, artificial intelligence, autonomous drone delivery, robotics and ..."
+publishedDateTime: 2020-02-06T03:20:00Z
 webUrl: "https://www.fibre2fashion.com/news/textile-news/ups-waymo-partner-to-start-self-driving-package-pickup-254957-newsdetails.htm"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,12 @@ provider:
 topics:
   - AI
   - AI in Autos
+
+images:
+  - url: "https://static.fibre2fashion.com/Newsresource/images/254/ups_266546.jpg"
+    width: 710
+    height: 450
+    title: "UPS, Waymo partner to start self-driving package pickup"
 
 related:
   - title: "Tech Start-Up Pix Moving Uses Self-Driving Ideas To Make Flexible Cities"
@@ -34,6 +40,6 @@ related:
         width: 1000
         height: 563
 
-secured: "Eg7dgjywp31ph+8J3qWM0fXNIt90kBQzAD+vQcZL4DLyyZkLH76FYoqwLCIF8mObk3oK0J06JNYkW0bN3HOpUR2qLCNM3ddFn2jw7Ws1oqZfKPSr4tFhBlqo4dEEHzHYXNoQoqqkTyDpSV19CyeAkX1Q0h55OsKy2eAYwSArV5im9OOEloTwtdUXjaLZEEk7xMDDsF+6muPmhu4Lt8EGLLIo5R/4b5BKVFceA7EanBiSxGvb/NFwQ6vLjPN2ZAgWVUs81MfQMhae5REBmlwZ2k3xdFJVBNTTU+Coe8KzByM3EYmwE3Mui5RRHBwc+ld5PlosufvRQR0f5H0yANWxeAjokczdP/VlPRdQKr9SwaZoEHTIhxIrZCVA2Z8jpOjkk2oOOgKKicgi8SFDM7kimMeibMTUAOtW8UfWRsUsiCJW+w1NposPedOA27SAG+cdHgTvcOkR6DJOJ//rfoB7e73NPdDWNRDfUhCrTyKlFuk=;jJ7RyY+xzeuTHhfold+YdQ=="
+secured: "weS3ruPlqPLw8s73y+6g8Cunhkjjet82S0hSKVUb+uX4yKv0aVomVjG9oioTLIIs16T+pQ/ZvL0mxRckBuXc19FQfYNULFGPPVGdCxaiZQp8QD2oxvODXszPJ5+K3K+01NCd8cB0Gz8hZWB8aUfSBjyIdF3RZRkpoHyoXdDlaQJUAnJLllHD8goC4Xxsc8dbsPDj5BKx4Vhh6cA143B7iQYku1SjHhh37FgVFD8MzEYGrT48oPCikRuQE7AzS2y4T6urOodLgXoi+T+LiceSBp3WaJRJ52pLT/O21/qi/SyR2G6esTJjuuqvR6tLDOTz;H4OgKxf5ZxULqAqWs8EXuw=="
 ---
 

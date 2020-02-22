@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-10T19:14:00Z
 webUrl: "https://www.destinationcrm.com/ReportsandResearch/9642-Machine-learning-is-transforming-the-agent-and-customer-experience.htm"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -24,19 +24,15 @@ images:
     title: "Machine learning is transforming the agent and customer experience"
 
 related:
-  - title: "What is machine learning? Exploring its impact on customer experience"
-    excerpt: "As machine learning algorithms become increasingly integrated into home and business applications, this offspring of artificial intelligence is certainly grabbing headlines. From self-driving cars ..."
-    publishedDateTime: 2020-02-07T19:29:00Z
-    webUrl: "https://medium.com/@mahiprashanth866/what-is-machine-learning-exploring-its-impact-on-customer-experience-350bf3115497"
+  - title: "How artificial intelligence is transforming higher education"
+    excerpt: "The potential of AI to be creative and to further enhance teaching was addressed by industry experts at THE Live When we talk about artificial intelligence, we often envisage a suite of robots performing tasks, transferring labour from humans to machines. Within higher education, the AI revolution has arrived in a different, inconspicuous form ..."
+    publishedDateTime: 2020-02-11T09:48:00Z
+    webUrl: "https://www.timeshighereducation.com/hub/adobe/p/how-artificial-intelligence-transforming-higher-education"
     type: article
     provider:
-      name: Medium
-      domain: medium.com
-    quality: 69
-    images:
-      - url: "https://miro.medium.com/max/844/0*bbnXzCvTKv0Wl7uc.png"
-        width: 844
-        height: 422
+      name: Times Higher Education
+      domain: timeshighereducation.com
+    quality: 19
 
 secured: "OfdL/BExnEjOORFA61GEL3LUA3IVP+usymLXIS4ml10wMZ3CaCsHl/CyACn7hgA9lAwh4qUvhhpHtEzwEqpYOkM1WX045ehYZ1QQEnhlaEZPQ6BD2+rOMLmn5CGUipLX5Gm/Vy60/KvWwHTrKgbm701T2MtXTx0jN8ky4ymDiE+99Fxn2/KYXblw+gV+fbG941mdNa9y/axwYWdoxrywo1RpaTthdeao3RItjX8ZKmNpvCL1g/CIDGBrNoehCK65dsYe5ZzZgXk48ObzlKu2RMD2/n7tVyaSk25jfOF8hZFm92sfHXC/tF6B2Vwmzwd4;6tU7rGGcA3pXNPOlJx/bOA=="
 ---

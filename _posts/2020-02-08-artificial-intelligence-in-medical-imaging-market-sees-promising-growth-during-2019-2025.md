@@ -40,19 +40,6 @@ related:
       - url: "https://miro.medium.com/max/800/1*IVYvNXzk1XVr7XM9Hu9X-A.png"
         width: 800
         height: 445
-  - title: "Using Artificial Intelligence in Trading"
-    excerpt: "Artificial intelligence (AI), which is also called machine intelligence ... This advanced technology has been used to power self-driving cars, voice-activated assistants and, now, trading. Traditional trading strategies use technical analysis conducted by humans, to assess investments and detect trading opportunities. This is done by analysing ..."
-    publishedDateTime: 2020-02-07T20:07:00Z
-    webUrl: "https://medium.com/@rfexchange08/using-artificial-intelligence-in-trading-6a09a6b4ed50"
-    type: article
-    provider:
-      name: Medium
-      domain: medium.com
-    quality: 69
-    images:
-      - url: "https://miro.medium.com/max/1200/1*S3as9DvE-54fw9_q6JXAhQ.jpeg"
-        width: 1200
-        height: 627
 
 secured: "pcWSExulHPqf7SFcj93mDW0eErIFMV9iEMkPeakmv+skbPymSGZSR+IlicDwSuZGmw26R0JnF3Z50oI8PVvzEkR+W4PA8IsPRjQ5q7Q22yVTgj0CrIs3rZFKZSootiIN+E0rzHatD5cSmSXpOtTlq0LFEqMVUUtPJiktC7y2nMS4Oy5z5+DX/MBMZw5IVYfTB6PFZ473am5Ifrg3dJbRkqQVxu5R3sKuqrR3Zy1GC9Uo9JlbqCuD6t03kq1ipa6QCuInesebeWlPsJI5wyuPUcO5RTVfgwrrjmZo9dr3lniVToJ7UHvUTajIFfv6UXfh;gOfK9vE3HNOFRsnO1/w1bw=="
 ---

@@ -76,6 +76,15 @@ related:
       name: Analytics
       domain: healthitanalytics.com
     quality: 34
+  - title: "Artificial intelligence and healthcare professional education: superhuman resources for health?"
+    excerpt: "So it is no surprise that artificial intelligence has also been suggested as a solution to problems in healthcare and healthcare professional education.3 It has even been suggested as a means by which healthcare professional education might be unnecessary. After all, if you have intelligent machines that can do the job of human beings ..."
+    publishedDateTime: 2020-02-22T13:09:00Z
+    webUrl: "https://pmj.bmj.com/content/96/1133/121"
+    type: article
+    provider:
+      name: BMJ
+      domain: bmj.com
+    quality: 22
 
 secured: "vUaLVWOCY3LDt3gKXP1f25H8Zb73BogBWRSBWKq4KiGfW+zVih8IMYkXqhQtzJ/UDcgyaBITgDgBViPA0SvqZluJP0EyiCjePaFZvM/RkT/w3gi14Ti+upe2+K3oqxL1b+x0fspXkLv6ckehCCGn0prrhE1XJK0htXf4hAGVW2h9VTmVw21zhQsahROF3P0+u+JL5impGjufGjJ150UwJO5OXTBkxsB/+0fgh44B7h9PKB9DFZc5AOnuiuZVqn7C4u0zbUF5OR3XJAJyGjj8YclmJ5MapYbUoWCh1cDThqlG+Pb2B0caFqkJFobAI7ew;HAGsJkbfE/j41OhIRa/8NA=="
 ---

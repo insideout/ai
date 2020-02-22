@@ -8,7 +8,7 @@ ampWebUrl: "https://www.ciol.com/6-ways-technology-changing-healthcare/amp/"
 cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/6-ways-technology-changing-healthcare/amp/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -20,21 +20,15 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Technology is changing the underwriting of health care risks"
-    excerpt: "Your article was successfully shared with the contacts you provided. Globally, artificial intelligence applications in health care are raising profound questions about medical responsibility. Here, an associate professor at the University of Tokyo inspects 3-D digital images of brain tumor, cranial nerves and blood vessels of a brain scanned ..."
-    publishedDateTime: 2020-02-07T20:35:00Z
-    webUrl: "https://www.propertycasualty360.com/2020/02/07/technology-is-changing-the-underwriting-of-health-care-risks/"
-    ampWebUrl: "https://www.propertycasualty360.com/2020/02/07/technology-is-changing-the-underwriting-of-health-care-risks/?amp=1"
-    cdnAmpWebUrl: "https://www-propertycasualty360-com.cdn.ampproject.org/c/s/www.propertycasualty360.com/2020/02/07/technology-is-changing-the-underwriting-of-health-care-risks/?amp=1"
+  - title: "From Data to AI: How these 4 tech trends are reshaping healthcare"
+    excerpt: "Of course, if they are unwilling, the laundry list of privacy regulations promise to prod them along. #4 AI & Machine Learning Infiltrate Healthcare For good reason, few technologies elicit as much excitement as AI. Each of the above initiatives will be supported by AI, which is increasing its capabilities in everything from diagnosis to data ..."
+    publishedDateTime: 2020-02-18T07:30:00Z
+    webUrl: "https://medcitynews.com/2020/02/from-data-to-ai-how-these-4-tech-trends-are-reshaping-healthcare/"
     type: article
     provider:
-      name: PropertyCasualty360
-      domain: propertycasualty360.com
-    quality: 44
-    images:
-      - url: "https://images.propertycasualty360.com/contrib/content/uploads/sites/414/2020/02/Digital-Health_Bloomberg.jpg"
-        width: 620
-        height: 372
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 17
 
 secured: "PkDbFDYgtJUo4J78EMcjckWoDbshJbQtaWM9Xmu52sM5oJJCm7L90S88IAyMEqPmkHCw0nKMI1lACRauCg+whG+040K8CgqvTJ2Ae2jX7ABXLCNO8qjwU1j5qijQDJywnDgHa770r7qxFjg5EE0oavg5MalWbjYPsrrWJqQQHT2gPeDjfTe01wsYZXpvsqL/EXqrKpAagaNwtwG526286ubaJNjk8qkxTprXu/Fcl0vNJ5yhMeL3f9SElq7FKVcfkwUG10rGRAafOSHLTnVHrhurIpFmRFKAf9NR8Lh7gWZnikUfZNQynoWZp88PdGWLqH98A6l8CTsmWRau+XFepYkp8/IioEAahjNvo+YZ2trgZsgnIqYFgAAMfIkqVYBNILRmlFcj8TAJpxlwcz9ePlD2dxNBDQQyRAmXfjCJbnlGnbKCtk6qXqnkKBkzeDOSzPUpthok+YIove/Wf2YJC+xlJXOMnjkeNCxZ4QHHdKw=;YYZOKUlmQGbwZV4xpE5Nuw=="
 ---

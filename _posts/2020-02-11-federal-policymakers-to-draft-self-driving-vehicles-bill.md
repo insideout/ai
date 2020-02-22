@@ -84,21 +84,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/711x507/https://specials-images.forbesimg.com/imageserve/1150260060/960x0.jpg?fit=scale"
         width: 711
         height: 507
-  - title: "U.S. House panel to hold hearing on future of self-driving cars"
-    excerpt: "A U.S. House panel will hold a hearing Tuesday on autonomous vehicles as lawmakers try to hammer out legislation to advance self-driving cars. An Energy and Commerce subcommittee overseeing automotive issues will hear from officials of trade groups representing automakers and tech companies,"
-    publishedDateTime: 2020-02-07T20:50:00Z
-    webUrl: "https://www.reuters.com/article/us-autos-autonomous-congress-idUSKBN2012K2"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2012K2"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2012K2"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 74
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200207&t=2&i=1487254704&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG161PZ"
-        width: 902
-        height: 545
   - title: "China is betting on slow but steady to win the self-driving car race"
     excerpt: "Just don’t expect that revolution to come quickly. In the United States, individual states are taking the lead in deciding how self-driving cars will be rolled out in their communities ..."
     publishedDateTime: 2020-02-10T20:43:00Z
@@ -129,21 +114,6 @@ related:
       - url: "https://i.insider.com/5e45e27a3b62b725f9357f95?width=1200&format=jpeg"
         width: 1200
         height: 600
-  - title: "Waymo Workers: People Keep Injecting Drugs in Self-Driving Cars"
-    excerpt: "In 2018, self-driving car company Waymo launched Waymo One, a rideshare service à la Uber or Lyft but with autonomous cars. In December 2019, it took the program to the next level by offering some passengers rides in Arizona cars without safety drivers behind the wheel. Now, in a trashy twist, Waymo workers have told The Verge that passengers ..."
-    publishedDateTime: 2020-02-07T20:17:00Z
-    webUrl: "https://futurism.com/the-byte/waymo-people-injecting-drugs-self-driving-cars"
-    ampWebUrl: "https://futurism.com/waymo-people-injecting-drugs-self-driving-cars/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/waymo-people-injecting-drugs-self-driving-cars/amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 59
-    images:
-      - url: "https://wp-assets.futurism.com/2020/02/waymo-workers-people-keep-injecting-drugs-self-driving-cars-600x315.jpg"
-        width: 600
-        height: 315
   - title: "Ex-Waymo driver accused of deliberately causing crash"
     excerpt: "Waymo officials said Tang “engaged in similar conduct ... days before the bloc is expected to release new proposals on regulating artificial intelligence. The billionaire social network founder is the latest U.S. tech executive to make the trip to ..."
     publishedDateTime: 2020-02-13T21:33:00Z

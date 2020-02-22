@@ -1,11 +1,11 @@
 ---
 category: news
 title: "The new collaboration is designed to enhance the cybersecurity capabilities of Azure Security Center for IoT customers."
-excerpt: "Azure Security Center offers advanced security posture management. By integrating the two products, Firedome and Microsoft will be able to deliver real-time protection and response, with dual detection capabilities of both Microsoft Threat Intelligence and Firedome's machine learning, cloud-based AI engine. The combined solution provides ..."
+excerpt: "Michal Braverman-Blumenstyk, CTO and GM, Cloud and AI Security Division at Microsoft Corp. said, \"We are pleased to partner with Firedome's Endpoint Protection solution to provide a solution for manufacturers who don't have a SOC team for their IoT installed device base. We view this collaboration as a way to enrich Microsoft Azure Security ..."
 publishedDateTime: 2020-02-22T01:31:00Z
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/firedome-announces-integration-with-microsoft-azure-security-center-for-iot/article_9fd4db82-0673-50af-bd2b-78c981cc8039.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/firedome-announces-integration-with-microsoft-azure-security-center-for-iot/article_9fd4db82-0673-50af-bd2b-78c981cc8039.html"
 type: article
-quality: 0
+quality: 15
 heat: -1
 published: false
 
@@ -16,6 +16,12 @@ provider:
 topics:
   - AI
   - Microsoft AI
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
+    title: "The new collaboration is designed to enhance the cybersecurity capabilities of Azure Security Center for IoT customers."
 
 related:
   - title: "CyberMDX Announces Integration With Microsoft Azure Security Center for IoT"
@@ -80,6 +86,6 @@ related:
         width: 1200
         height: 627
 
-secured: "TLXnbpo6zbAcRhUiiimiGafUeI09Z7U9NvSEjGIt1NkM7Ns6gGvndzSC8pRoL4jBVV5bzqmFyiIqIDw/BIgQAkc76n/JtTmBtglkam+xSjYt00JSom7GhmSK4b8zLnV3nEHI6UCYiITTVHqY92SjWHw1CkZBoG5eW+IS5w12B6ZP/hyoGRQSQ7GWP+sKyflyejlVQQb1E0gCuxHaVQhZnYd20Rfm+L/sHBJMNPKbIttJ/R4QKsAGynJTSBjfkwuj78Qz5KJOdLbD8UKEOhxewiS+MuwDOYxkbnU9tSWKG1hCXFcyXDusyqHMmjBG1Ovg;LxgZrMNXY6eApjC9Sjxl4Q=="
+secured: "Iud5MwtTNnAb0Fr7H24IS0u3hocjV7T8PhUsZv6omjrFqYqTClojkS1HaaxpgAGdK48V3KvDPACHSkLZRyook9Gpfq1DB+TdnYNDRA2YEIYNiUpBdtVn1F+kzrbqvqosWfGGb2pi3wBlPSuJfVfw9/c5+owR8uXdWqmty48RzoCf+lF1hmsvstlsQtlM5ilvAqlRDVbjRzIadWeonssHQ5mfqLo39ucNckCsGOzGDTJp3c13fuFIL9UXCSuZDyYxmjsX1tqtStqOUNhXMNRc4VlhM5IxcsNidP5bTOJ1UXb2CWoAL2jFDRLkRz08g5C1;aFfjWQZjQwmrxAxZFuR/tQ=="
 ---
 

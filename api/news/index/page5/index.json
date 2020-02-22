@@ -2,42 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_posts/2020-02-17-chicago-kids-company-presents-goldilocks-the-three-bears.md",
-      "title": "Chicago Kids Company Presents Goldilocks & The Three Bears",
-      "excerpt": "When Goldilocks and her dog, Bailey, venture into the woods to find a friend for her mom, she stumbles upon a cute house with three bowls of porridge, three chairs and three beds, but no one is home. Will Goldi be able to make it back to her mom before she ...",
-      "heat": 122,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.chicagoparent.com/events/chicago-kids-company-presents-goldilocks-three-bears/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-17T02:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Parent",
-        "domain": "chicagoparent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.chicagoparent.com/downloads/22705/download/calendar%20-%20performances%20Chicago%20Kids%20Company%27s%20GOLDILOCKS%20AND%20THE%20THREE%20BEARS.jpeg?cb=80b27000e1de900824773ebcd4ca2a81&w=1200",
-          "width": 1200,
-          "height": 1600,
-          "title": "Chicago Kids Company Presents Goldilocks & The Three Bears",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-17-costa-group-turns-to-ai-maths-robot-to-improve-berry-yield-predictions.md",
       "title": "Costa Group turns to AI 'maths robot' to improve berry yield predictions",
       "excerpt": "Costa Group, one of Australia's largest horticulturist companies, has begun rolling out an artificial intelligence (AI) system to help the company better understand and manage the quantity and quality of its berry crops. The Sensing+ system, developed by Sydney-based company, The Yield, has been designed to measure 14 variables of a typical ...",
@@ -167,7 +131,7 @@
       "path": "_posts/2020-02-17-eu-plan-on-ai-new-rules-better-taxes.md",
       "title": "EU plan on AI: new rules, better taxes",
       "excerpt": "\"The new ... taxes and others do not,\" it adds. Other initiatives currently being discussed include an action plan on 6G, making data-centres more sustainable and a revision of the regulation on online identification. After the EU's approach to AI and ...",
-      "heat": 207,
+      "heat": 197,
       "tags": null,
       "type": "article",
       "webUrl": "https://euobserver.com/science/147454",
@@ -2148,6 +2112,43 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-18-us-military-facial-recognition-could-identify-people-from-1-kilometer-away.md",
+      "title": "U.S. military facial recognition could identify people from 1 kilometer away",
+      "excerpt": "Thanks to recent advances in machine learning, facial-recognition technology can pick faces out of a crowd with impressive accuracy. But just how far away from their subjects can cutting-edge facial-recognition systems work? According to a new report, a whole lot further than you probably think. So far, in fact, that the person identified may ...",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.digitaltrends.com/cool-tech/military-facial-recognition-tech-kilometer/",
+      "ampWebUrl": "https://www.digitaltrends.com/cool-tech/military-facial-recognition-tech-kilometer/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/military-facial-recognition-tech-kilometer/?amp",
+      "publishedDateTime": "2020-02-18T11:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
       ]
     }
   ],

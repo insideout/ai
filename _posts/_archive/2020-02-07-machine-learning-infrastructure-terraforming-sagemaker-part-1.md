@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-07T22:01:00Z
 webUrl: "https://medium.com/@yuyasugano/machine-learning-infrastructure-terraforming-sagemaker-part-1-e5e22e368248"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -28,19 +28,6 @@ images:
     title: "Machine Learning Infrastructure ~Terraforming SageMaker Part 1~"
 
 related:
-  - title: "Machine Learning Infrastructure ~Terraforming SageMaker Part 2~"
-    excerpt: "[1] Amazon SageMaker is AWS based machine learning platform that enables developers to build machine learning models, train data, deploy an inference point on the public cloud. It consists of ..."
-    publishedDateTime: 2020-02-07T19:56:00Z
-    webUrl: "https://medium.com/@yuyasugano/machine-learning-infrastructure-terraforming-sagemaker-part-2-f2460a9a4663"
-    type: article
-    provider:
-      name: Medium
-      domain: medium.com
-    quality: 69
-    images:
-      - url: "https://miro.medium.com/max/564/1*R5ZFzVkwjQ3W3uNkHDU0pg.png"
-        width: 564
-        height: 453
   - title: "With GPU Sales Cooling After Crypto Craze, Investors Ask What’s to Happen With the Mining Infrastructure"
     excerpt: "In the case of Tatau, that’s being done for developing AI and the compute-intensive processes associated with it. Regardless of what the future holds for the cryptocurrency markets, the current state is no longer supporting GPU mining at the scale that it once was. Because of that, investors need to start looking at alternate ways for these ..."
     publishedDateTime: 2020-02-07T22:29:00Z

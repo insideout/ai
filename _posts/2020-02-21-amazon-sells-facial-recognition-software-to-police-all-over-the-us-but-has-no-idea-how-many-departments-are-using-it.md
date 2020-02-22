@@ -89,6 +89,21 @@ related:
       - url: "https://s3.amazonaws.com/spectrumnews-web-assets/wp-content/uploads/2020/02/17111237/20200218-PelphryMRI112011.jpg"
         width: 1120
         height: 550
+  - title: "EU is planning a network of police facial recognition cameras, report claims"
+    excerpt: "The European Union is accused of seeking to create a network of national police facial recognition databases that could lead to 'politically motivated surveillance'. Leaked internal documents obtained by The Intercept allegedly indicate that police forces from 10 EU member-states led by Austria had called for laws introducing and ..."
+    publishedDateTime: 2020-02-22T13:45:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-8016361/EU-planning-network-police-facial-recognition-cameras-report-claims.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-8016361/amp/EU-planning-network-police-facial-recognition-cameras-report-claims.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-8016361/amp/EU-planning-network-police-facial-recognition-cameras-report-claims.html"
+    type: article
+    provider:
+      name: Mail Online
+      domain: dailymail.co.uk
+    quality: 71
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2020/02/22/13/25057522-0-image-a-18_1582379015431.jpg"
+        width: 636
+        height: 382
   - title: "UCLA won’t use facial recognition on its campus after it receives backlash"
     excerpt: "UCLA was going to be the first university in the U.S. to use facial recognition, but backlash against the idea has caused the school to reverse course. Michael Black, UCLA’s administrative vice chancellor, wrote a letter to the digital rights group Fight for the Future on Wednesday, February 18, announcing the school’s decision to back out ..."
     publishedDateTime: 2020-02-19T22:24:00Z

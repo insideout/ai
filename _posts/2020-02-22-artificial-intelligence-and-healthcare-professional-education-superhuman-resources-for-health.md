@@ -1,27 +1,21 @@
 ---
 category: news
-title: "GE Healthcare launches cyberdefense product"
-excerpt: "As connected devices proliferate, GE Healthcare is banking that hospitals, health systems and other providers will seek the company’s help in shoring up their defenses against cyber threats. The company on Thursday unveiled a cybersecurity product that scans for cyber risks and recommends responses using a mix of artificial intelligence and ..."
-publishedDateTime: 2020-02-20T18:37:00Z
-webUrl: "https://medcitynews.com/2020/02/ge-healthcare-launches-cyberdefense-product/"
+title: "Artificial intelligence and healthcare professional education: superhuman resources for health?"
+excerpt: "So it is no surprise that artificial intelligence has also been suggested as a solution to problems in healthcare and healthcare professional education.3 It has even been suggested as a means by which healthcare professional education might be unnecessary. After all, if you have intelligent machines that can do the job of human beings ..."
+publishedDateTime: 2020-02-22T13:09:00Z
+webUrl: "https://pmj.bmj.com/content/96/1133/121"
 type: article
-quality: 39
+quality: 22
 heat: -1
 published: false
 
 provider:
-  name: MedCity News
-  domain: medcitynews.com
+  name: BMJ
+  domain: bmj.com
 
 topics:
   - AI
   - AI in Healthcare
-
-images:
-  - url: "https://medcitynews.com/uploads/2017/08/GettyImages-578833436.jpg"
-    width: 724
-    height: 483
-    title: "GE Healthcare launches cyberdefense product"
 
 related:
   - title: "AI Improves Healthcare? 91% Of Healthcare Executives Say It Does"
@@ -67,6 +61,19 @@ related:
       - url: "https://i2.wp.com/wp-cpr.s3.amazonaws.com/uploads/2020/02/tampa_docs_1-scaled.jpg?resize=1200,600"
         width: 1200
         height: 600
+  - title: "GE Healthcare launches cyberdefense product"
+    excerpt: "As connected devices proliferate, GE Healthcare is banking that hospitals, health systems and other providers will seek the company’s help in shoring up their defenses against cyber threats. The company on Thursday unveiled a cybersecurity product that scans for cyber risks and recommends responses using a mix of artificial intelligence and ..."
+    publishedDateTime: 2020-02-20T18:37:00Z
+    webUrl: "https://medcitynews.com/2020/02/ge-healthcare-launches-cyberdefense-product/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 39
+    images:
+      - url: "https://medcitynews.com/uploads/2017/08/GettyImages-578833436.jpg"
+        width: 724
+        height: 483
   - title: "53% of Execs Say Healthcare Leads Artificial Intelligence Adoption"
     excerpt: "February 18, 2020 - Fifty-three percent of healthcare executives say that the healthcare industry is ahead of most other industries in artificial intelligence adoption, according to a survey from KPMG. However, 37 percent of respondents believe that the pace at which they’re implementing artificial intelligence is too slow, mainly because of ..."
     publishedDateTime: 2020-02-18T14:51:00Z
@@ -76,16 +83,7 @@ related:
       name: Analytics
       domain: healthitanalytics.com
     quality: 34
-  - title: "Artificial intelligence and healthcare professional education: superhuman resources for health?"
-    excerpt: "So it is no surprise that artificial intelligence has also been suggested as a solution to problems in healthcare and healthcare professional education.3 It has even been suggested as a means by which healthcare professional education might be unnecessary. After all, if you have intelligent machines that can do the job of human beings ..."
-    publishedDateTime: 2020-02-22T13:09:00Z
-    webUrl: "https://pmj.bmj.com/content/96/1133/121"
-    type: article
-    provider:
-      name: BMJ
-      domain: bmj.com
-    quality: 22
 
-secured: "fyhGMIJMq4YoxADrI56yf5Q6BOAQEnw7dUKymXJM8ScwzLlXprQFy++qIq2Nket6WM3Tz163Y5mfK/fuOvwd5dinLaZGCgGCQrAteeiMzJvJSBN8OhywTBybRmIxAtBP+wAPYYh4ey+vU+EABNHH6aVPiqpCQZIhC8vsqd93mPFAjgaAGP9MvwO3i2VEBnBT1ILNjWaiPkW7WEf8ePa+6/VBNz0oVf83IYz5BTznVPXVmZu+PBB4tA5SfiQY0xF6Zy+ARnZzx6j8jDDrBgoQAHu/ibW9wR3f2bvyO96jqdyu/+zf8VY0Lhj4DGao+ZLDqwfCHhDI4Dhxdd9Pt7LfAcpl3JALiWWKZc5Midlpa9BjQYYCFTvSRTv4WsHQi8w0htBiejf8HWmTMIMLGCpvKqNfhZyHItCq/laaQ3yepU5195auXnsnWzBxq32iOh6ZwYC1iuy5qaUZsqqFGjwvv7nyucBFb5NXToDcL7+cY9Y=;LQHL7T96kRNxOYS9WpV6ZA=="
+secured: "yzlnKU43uDUf41K+gC7h7IuKJgPnZ1rhvzpx0YfTk0fAwXok6DnPerKa8tUMBPlDtNc9SxC1weOGQuPn+2HudisZ7iyHHS6N6OQ0Pffvea8wpMMPQ46Zm+NCEurPOuZ+GgrdLq0uuqI4W6S9se7z5AamMs9nC5rnT0lAZSZGPbl4DtDpcuXB3WwhszldhXO8aetxd4wpzoI3vevg07qRsni0emppKIy4BUt5cI8DGgCndOg+3pJhAOxtvOzr3jynry2Og/msoIn21kY7H2QawRGIZgTa8dCwbJAvvBCNSM9sk3od1K0f7Ir07ONeEgMREIJc0Abmqcny20+tiFH+90ugq/ao+LnDWOItn8MVwpm0TWLX/1StjGHVuemOvoOXlV+V+8jz5NQUYhzmEw8JHN8EzIKeouvfgUpzm2g8bV6uR54bKhOUeHGYFLQmX/REffZZT7sxKoBdoxGhNP8NnWz4kpy/5lZoM8fjNp1lBRo=;35zof9vHKvIy+wf1hBJELA=="
 ---
 

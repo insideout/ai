@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-10T09:27:00Z
 webUrl: "https://www.marketwatch.com/press-release/vehicle-speech-recognition-system-market-latest-review-know-more-about-industry-gainers-2020-02-10"
 type: article
 quality: 75
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -28,19 +28,6 @@ images:
     title: "Vehicle Speech Recognition System Market Latest Review: Know More about Industry Gainers"
 
 related:
-  - title: "Speechmatics opens third international office to address U.S. speech recognition market"
-    excerpt: "Speechmatics has opened an office in Denver, Colorado, the third international office space the UK-based automated speech recognition software provider has opened in just three months, following Chennai, India and Brno, Czech Republic, the company announced. By opening its first office in the U.S., Speechmatics wants to leverage the country’s ..."
-    publishedDateTime: 2020-02-07T19:16:00Z
-    webUrl: "https://www.biometricupdate.com/202002/speechmatics-opens-third-international-office-to-address-u-s-speech-recognition-market"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 31
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/01/09162857/voice-biometrics-large2.jpg"
-        width: 900
-        height: 499
   - title: "2020's Trend: Speech Recognition- Latest Innovations and Market Scope 2019-2026"
     excerpt: "Speech Recognition: How it Works? Speech recognition is a technology used in various devices such as smartphones which enables system to identify the sound of spoken words and convert them into machine readable form. It uses linguistic units for speech and audio signals. These signals are measured by word error rate (WER) that helps to identify ..."
     publishedDateTime: 2020-02-11T08:37:00Z

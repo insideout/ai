@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2020/02/08/how-to-rise-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/02/08/how-to-rise-above-the-itops-chaos-using-ai/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -29,19 +29,6 @@ images:
     title: "How To Rise Above The ITOps Chaos Using AI"
 
 related:
-  - title: "Predicting chaos using aerosols and AI"
-    excerpt: "Click to share on Facebook (Opens in new window) Click to share on Twitter (Opens in new window ... methods and determined that the generative adversarial network produced the most accurate outcomes. This kind of AI is first fed information about a real-world process, then, based on that data, it creates a simulation of that process."
-    publishedDateTime: 2020-02-07T20:52:00Z
-    webUrl: "https://source.wustl.edu/2020/02/predicting-chaos-using-aerosols-and-ai/"
-    type: article
-    provider:
-      name: Washington University in St. Louis
-      domain: wustl.edu
-    quality: 39
-    images:
-      - url: "https://source.wustl.edu/wp-content/uploads/2020/02/ChaosFeature.jpg"
-        width: 760
-        height: 507
   - title: "Predicting chaos using aerosols and AI"
     excerpt: "This kind of AI is first fed information about a real-world process, then, based on that data, it creates a simulation of that process. Motivated by game theory, a generative adversarial network receives both the ground truth (real) and randomly generated data (fake) and tries to determine which is real and which is fake. This process repeats ..."
     publishedDateTime: 2020-02-10T13:54:00Z

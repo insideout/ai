@@ -5,8 +5,8 @@ excerpt: "ML Conference gives you the opportunity to learn about the latest mach
 publishedDateTime: 2020-01-23T00:00:00Z
 webUrl: "https://jaxenter.com/ml-conference-singapore-early-bird-ends-january-23-167081.html"
 type: article
-quality: 4
-heat: 4
+quality: 24
+heat: 24
 published: false
 
 provider:
@@ -17,6 +17,12 @@ topics:
   - AI
   - Google AI
 
-secured: "eiCoYDpxkKeuBzOE50i7cH/KE06SsQWa9UXt6a1vbdEsx1E6ojKbcWekfDaP+VWaBzZugmQKTsero9gTrEW5PscBlpq62dMP7jfDywU7qfYSePBd87dQUSENhy1oxa7HjMEy9IxHdrwK17cV5LNAABpCDbEvbC2WkSXUmRclrFxI535hgeKnYpDZLiqydM5ObZ9VDA7YlXmWgIHTMrF/MMNGDFD4uCxHBYINCu7KPSr2Yzsh67qFbk8ebSajQdOnNUNOsXAb8+zoNvXwqZ2z3MCeGugtKI2FKX1ZLFRK2UcXYQQOUSYLdMPKFC0OkoUu;csIYqYruzIrYZ6tTnLtI2w=="
+images:
+  - url: "https://jaxenter.com/wp-content/uploads/2020/01/MLC_SNG20_Medienpartner_600x300_55639_v1.jpg"
+    width: 600
+    height: 300
+    title: "ML Conference Singapore very early bird offer ends January 23"
+
+secured: "lqUgBvDydiPVAa64JueVP6zSBjTQbmHQ4a23ncItYqJK8D1DhgoRNJVote8WV6F+phQ1St8A1tKPFM9Xg5lv7s5F2R55xRejU8Z7+TPosTX61WbrO/qmfMvuv3WTX9oiLC0zhMGnNMk5OrmjeUrledAb1cZ/TYsJUQZKkf3vZGIHqMakirDc24BoiIIYLwFzTnaoZqUhWcDuhpq8Vt6GAaE0SmwsuO3aUYNWI/Rnrx6cB1qU9lmgYgok+kDlZFlttRXeYzlGcbVwPx/K3ntVNHKS6uwC8d7TnHjSWC1QHFlKdF+18+XW20qjOUQDti3y;/QHc3ndvktp5mkknfaYLBA=="
 ---
 

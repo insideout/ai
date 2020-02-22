@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/gilpress/2020/02/21/ai-improves-healthc
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2020/02/21/ai-improves-healthcare-91-of-healthcare-executives-say-it-does/amp/"
 type: article
 quality: 91
-heat: 131
+heat: 141
 published: true
 
 provider:
@@ -81,6 +81,15 @@ related:
       name: Analytics
       domain: healthitanalytics.com
     quality: 34
+  - title: "Artificial intelligence and healthcare professional education: superhuman resources for health?"
+    excerpt: "So it is no surprise that artificial intelligence has also been suggested as a solution to problems in healthcare and healthcare professional education.3 It has even been suggested as a means by which healthcare professional education might be unnecessary. After all, if you have intelligent machines that can do the job of human beings ..."
+    publishedDateTime: 2020-02-22T13:09:00Z
+    webUrl: "https://pmj.bmj.com/content/96/1133/121"
+    type: article
+    provider:
+      name: BMJ
+      domain: bmj.com
+    quality: 22
 
 secured: "X1iVnZ58h7ud5jWh03lEp+963a7kYuHoQ0VWdLxPOqScYW7BzHNv8S1iK8RXQ3xigDRvUah8JBM8sIUYyUQFt2l+nFYKeg41O8NCytoYTtO2Z9oay93t/+bJ0PC846IkJq1FH/UAmXqxjisN8VvesNCmdAobtcblps57WGOSB/UrQXOdWsVMzObfspTQR3+lL6MF2xoSYLSV58EhyF5rSBByVgxpJl+LM4uhbzj4uoqToO7OuGeWlTAaKOEw7KKbdlx94TSy4P8PiR7VeHr0fk1Z0Lhk7X78MJo0dyL+wKislpHL1sY+dOrzXT0a+7kg1NFaaQ8AhNmPcRK00r8/4kZWLM7dHe8epn2EfOl8qVqvVFP7vZy4YpUcpikQgmPxQpDw7Q8K/I797YsEIQIzJRzoXUcJMsDSgQ7V1maY41+NyD+WjE5TQjD58cf4qUK/pSNNTL6frcoh59d5oWBEF6JfNRl8glUK3Wi3VQfBDno=;7xw79u4U2G7iXGLIavTHNg=="
 ---

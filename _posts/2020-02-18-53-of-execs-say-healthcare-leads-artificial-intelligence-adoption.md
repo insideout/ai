@@ -74,6 +74,15 @@ related:
       - url: "https://medcitynews.com/uploads/2017/08/GettyImages-578833436.jpg"
         width: 724
         height: 483
+  - title: "Artificial intelligence and healthcare professional education: superhuman resources for health?"
+    excerpt: "So it is no surprise that artificial intelligence has also been suggested as a solution to problems in healthcare and healthcare professional education.3 It has even been suggested as a means by which healthcare professional education might be unnecessary. After all, if you have intelligent machines that can do the job of human beings ..."
+    publishedDateTime: 2020-02-22T13:09:00Z
+    webUrl: "https://pmj.bmj.com/content/96/1133/121"
+    type: article
+    provider:
+      name: BMJ
+      domain: bmj.com
+    quality: 22
 
 secured: "+UiElFumP7xNMiYrPYFl41fK9rMk3nKz54lJB2rOWZIA6vY9kyRxNc55dGi0H4rjOgBovCTXQQdFpGKRtnvLKDL1KP9rHgM2oYIClqN+Ihsu1zoGswP+CsVdnrDEGmYSznaKDmgvP4JZcFMr7INuQd99LG1bbkanzh+V29obqHPgPLau0KFrkP8ruPej3/MAJ6QXvyz6lc7p+f5LSMoyBqNKgJJHsTsdR7p30eKB7/hYr/VG1uTWxPJ+7V8Y37DMWEZvY/O77WQsYpx3BBDgdvoF3icDtt5XgR7F8z1YCTMtRh3QhSCm9a6/mYclGpiH1vC6OdzmsSkRZotp6v7jHY1A4gxt9Mw5xhyLK0W9K5MaLxjj8Ab/8BjWXXLHj5MNb7jbxUZyOlLdbkeXOi09T2KQy6Wqt5qOHQfx4YUmRLKufZDyTkXM8pyMKeruiJZjgI3o4yf170G7NbWdgDbkQkya9G/tQkIsQgTgvbW3kQ8=;ZRYRjfaYaiZjXVrpRbFu5g=="
 ---

@@ -31,6 +31,21 @@ related:
       - url: "https://hackaday.com/wp-content/uploads/2017/02/ghost.jpg"
         width: 3000
         height: 1815
+  - title: "What are Machine Learning and Deep Learning in Artificial Intelligence"
+    excerpt: "AI can be called a superset of Machine Learning (ML) processes, and Deep Learning (DL) processes. AI usually is an umbrella term that is used for ML and DL. Deep Learning is again, a subset of ..."
+    publishedDateTime: 2020-02-03T03:39:00Z
+    webUrl: "https://www.thewindowsclub.com/machine-learning-deep-learning-artificial-intelligence"
+    ampWebUrl: "https://www.thewindowsclub.com/machine-learning-deep-learning-artificial-intelligence/amp"
+    cdnAmpWebUrl: "https://www-thewindowsclub-com.cdn.ampproject.org/c/s/www.thewindowsclub.com/machine-learning-deep-learning-artificial-intelligence/amp"
+    type: article
+    provider:
+      name: TWCN Tech News
+      domain: thewindowsclub.com
+    quality: 89
+    images:
+      - url: "https://thewindowsclub-thewindowsclubco.netdna-ssl.com/wp-content/uploads/2020/01/aivsmlvsdl.png"
+        width: 412
+        height: 338
   - title: "The Role of Machine Learning in Marketing"
     excerpt: "For example, Microsoft’s Azure ML Studio has a methodology to model customer churn. Image source: https://docs.microsoft.com/en-us/azure/machine-learning/studio/azure-ml-customer-churn-scenario In figure 1, it shows a risk model that shows you how actions affect risk and probability. Moving over, figure 2 shows an intervention model that ..."
     publishedDateTime: 2020-02-10T18:43:00Z
@@ -44,32 +59,6 @@ related:
       - url: "https://miro.medium.com/max/1200/0*ogKgDXUqbtxLfG54.png"
         width: 1200
         height: 672
-  - title: "Most used jargon's in Machine Learning"
-    excerpt: "Machine learning and data science are one of the hot topics. We hear lots of terms related to these fields. Let’s learn about few popular terms. Supervised learning typically begins with an established set of data and a certain understanding of how that data is classified. Supervised learning is intended to find patterns in data that can be ..."
-    publishedDateTime: 2020-02-07T19:29:00Z
-    webUrl: "https://medium.com/@vikaskp/most-used-jargons-in-machine-learning-799b05cc6eab"
-    type: article
-    provider:
-      name: Medium
-      domain: medium.com
-    quality: 69
-    images:
-      - url: "https://miro.medium.com/max/531/0*unStElN00ZSlgzvl.jpeg"
-        width: 531
-        height: 450
-  - title: "What Is A.I. and Machine Learning?"
-    excerpt: "Artificial intelligence (A.I.) and machine learning have seen a recent resurgence due to advancements in computing power A.I. is an area of R&D that focuses on getting machines to act rationally and autonomously. Machine learning is a subset of A.I. that leverages applied math to find patterns in data Machine learning is composed of three ..."
-    publishedDateTime: 2020-02-07T19:29:00Z
-    webUrl: "https://medium.com/@shanif/what-is-a-i-and-machine-learning-58cd0f46d9eb"
-    type: article
-    provider:
-      name: Medium
-      domain: medium.com
-    quality: 69
-    images:
-      - url: "https://miro.medium.com/max/1200/1*27WsK53Ir7W6xSo46jjTow.jpeg"
-        width: 1200
-        height: 745
   - title: "Arm brings AI and machine learning to IoT and the edge"
     excerpt: "However, because a great deal of ML and AI-based algorithm work is being created in frameworks, such as TensorFlow, the company is also bringing support for its new IP designs into TensorFlow Lite Micro, which is optimized for the types of smaller devices for which these new chips are intended. In addition to software, there are several ..."
     publishedDateTime: 2020-02-11T16:10:00Z
@@ -92,15 +81,6 @@ related:
       - url: "https://arizent.brightspotcdn.com/dims4/default/f91ef0e/2147483647/strip/true/crop/1200x630+0+22/resize/1200x630!/quality/90/?url=https%3A%2F%2Farizent.brightspotcdn.com%2Ff9%2Fe4%2F8e285a8f4049b010e65718bd30fc%2Fai-studies.jpg"
         width: 1200
         height: 630
-  - title: "What are Machine Learning and Deep Learning in Artificial Intelligence"
-    excerpt: "AI can be called a superset of Machine Learning (ML) processes, and Deep Learning (DL) processes. AI usually is an umbrella term that is used for ML and DL. Deep Learning is again, a subset of ..."
-    publishedDateTime: 2020-02-03T03:39:00Z
-    webUrl: "https://www.thewindowsclub.com/machine-learning-deep-learning-artificial-intelligence"
-    type: article
-    provider:
-      name: TWCN Tech News
-      domain: thewindowsclub.com
-    quality: 49
   - title: "How Will Machine Learning Serve the Hotel Industry in 2020 and Beyond?"
     excerpt: "Machine learning will help the hotel industry to remain tech-savvy and also help them to save money, improve service, and grow more efficient. Fremont, CA: Artificial intelligence (AI) implementation grew tremendously last year alone such that any business that does not consider the implications of machine learning (ML) will find itself in ..."
     publishedDateTime: 2020-02-07T23:24:00Z

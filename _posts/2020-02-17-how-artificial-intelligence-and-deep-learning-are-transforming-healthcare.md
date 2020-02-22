@@ -56,21 +56,6 @@ related:
       - url: "https://sm.pcmag.com/t/pcmag_uk/news/h/healthcare/healthcare-algorithms-are-biased-and-the-results-can-be-dead_3kzk.620.jpg"
         width: 620
         height: 348
-  - title: "How AI and Blockchain are Powering the Next Generation of Healthcare"
-    excerpt: "With artificial intelligence (AI), a greater amount of information about our bodies ... whose Watson Supercomputer has analyzed more than 115,000 patients to gauge impact of symptoms are leading the charge in introducing AI into healthcare as a means to save precious resources like money and time. How can we use cutting edge technologies ..."
-    publishedDateTime: 2020-02-07T20:49:00Z
-    webUrl: "https://www.fxempire.com/education/article/how-ai-and-blockchain-are-powering-the-next-generation-of-healthcare-521998"
-    ampWebUrl: "https://amp.fxempire.com/en/how-ai-and-blockchain-are-powering-the-next-generation-of-healthcare/521998"
-    cdnAmpWebUrl: "https://amp-fxempire-com.cdn.ampproject.org/c/s/amp.fxempire.com/en/how-ai-and-blockchain-are-powering-the-next-generation-of-healthcare/521998"
-    type: article
-    provider:
-      name: FXEmpire.com
-      domain: fxempire.com
-    quality: 76
-    images:
-      - url: "https://responsive.fxempire.com/cover/615x410/_n/_fxempire_/2018/08/Blockchain-Concept-99.jpg"
-        width: 615
-        height: 410
   - title: "AI in healthcare: What's science and what's fiction"
     excerpt: "Artificial intelligence has fueled our imagination ever since the term was first ... Combining all these elements reliably and for the benefit of patients isn’t a job for one company alone: In healthcare, we’re dealing with the life and hopes of patients and their families. Algorithms can’t do the job without the extensive expertise ..."
     publishedDateTime: 2020-02-17T17:49:00Z

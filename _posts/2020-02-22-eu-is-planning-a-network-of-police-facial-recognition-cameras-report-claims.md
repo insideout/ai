@@ -1,34 +1,29 @@
 ---
 category: news
-title: "UCLA cancels on-campus facial recognition program after backlash"
-excerpt: "UCLA will not go forward with a facial recognition program, and will prohibit the technology's use on campus, a university administrator said Wednesday. The move comes after backlash from student groups and privacy advocates,"
-publishedDateTime: 2020-02-19T23:21:00Z
-webUrl: "https://www.cnet.com/news/ucla-cancels-on-campus-facial-recognition-program-after-backlash/"
-ampWebUrl: "https://www.cnet.com/google-amp/news/ucla-cancels-on-campus-facial-recognition-program-after-backlash/"
-cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ucla-cancels-on-campus-facial-recognition-program-after-backlash/"
+title: "EU is planning a network of police facial recognition cameras, report claims"
+excerpt: "The European Union is accused of seeking to create a network of national police facial recognition databases that could lead to 'politically motivated surveillance'. Leaked internal documents obtained by The Intercept allegedly indicate that police forces from 10 EU member-states led by Austria had called for laws introducing and ..."
+publishedDateTime: 2020-02-22T13:45:00Z
+webUrl: "https://www.dailymail.co.uk/news/article-8016361/EU-planning-network-police-facial-recognition-cameras-report-claims.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
+ampWebUrl: "https://www.dailymail.co.uk/news/article-8016361/amp/EU-planning-network-police-facial-recognition-cameras-report-claims.html"
+cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-8016361/amp/EU-planning-network-police-facial-recognition-cameras-report-claims.html"
 type: article
-quality: 91
+quality: 71
 heat: -1
 published: false
 
 provider:
-  name: CNET
-  domain: cnet.com
-  images:
-    - url: "/assets/images/organizations/cnet.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Mail Online
+  domain: dailymail.co.uk
 
 topics:
   - AI
   - Computer Vision
-  - AWS AI
 
 images:
-  - url: "https://cnet2.cbsistatic.com/img/Oz7mCdAo5X1NoCOIXkN3LG0Ws9I=/756x567/2020/02/19/19f84363-9dbf-4ec9-86c1-e95838a79888/gettyimages-992065420.jpg"
-    width: 756
-    height: 567
-    title: "UCLA cancels on-campus facial recognition program after backlash"
+  - url: "https://i.dailymail.co.uk/1s/2020/02/22/13/25057522-0-image-a-18_1582379015431.jpg"
+    width: 636
+    height: 382
+    title: "EU is planning a network of police facial recognition cameras, report claims"
 
 related:
   - title: "UCLA Abandons Plans to Use Facial Recognition After Backlash"
@@ -44,6 +39,21 @@ related:
       - url: "https://video-images.vice.com/test-uploads/articles/5e4daba66b5b2900986d5840/lede/1582148536256-GettyImages-899305840.jpeg?crop=1xw:0.8436405216037368xh;center,center&resize=1200:*"
         width: 1200
         height: 674
+  - title: "UCLA cancels on-campus facial recognition program after backlash"
+    excerpt: "UCLA will not go forward with a facial recognition program, and will prohibit the technology's use on campus, a university administrator said Wednesday. The move comes after backlash from student groups and privacy advocates,"
+    publishedDateTime: 2020-02-19T23:21:00Z
+    webUrl: "https://www.cnet.com/news/ucla-cancels-on-campus-facial-recognition-program-after-backlash/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/ucla-cancels-on-campus-facial-recognition-program-after-backlash/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ucla-cancels-on-campus-facial-recognition-program-after-backlash/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 91
+    images:
+      - url: "https://cnet2.cbsistatic.com/img/Oz7mCdAo5X1NoCOIXkN3LG0Ws9I=/756x567/2020/02/19/19f84363-9dbf-4ec9-86c1-e95838a79888/gettyimages-992065420.jpg"
+        width: 756
+        height: 567
   - title: "Android facial recognition is more secure than you think"
     excerpt: "After running real-world tests of Android's facial recognition on a Pixel 4, Jack Wallen shares his theory of why some people are so concerned about facial recognition. My TechRepublic article How to enable facial recognition in the BitWarden mobile password manager wound up receiving feedback about Android facial recognition--not BitWarden."
     publishedDateTime: 2020-02-14T15:11:00Z
@@ -74,21 +84,6 @@ related:
       - url: "https://s3.amazonaws.com/spectrumnews-web-assets/wp-content/uploads/2020/02/17111237/20200218-PelphryMRI112011.jpg"
         width: 1120
         height: 550
-  - title: "EU is planning a network of police facial recognition cameras, report claims"
-    excerpt: "The European Union is accused of seeking to create a network of national police facial recognition databases that could lead to 'politically motivated surveillance'. Leaked internal documents obtained by The Intercept allegedly indicate that police forces from 10 EU member-states led by Austria had called for laws introducing and ..."
-    publishedDateTime: 2020-02-22T13:45:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-8016361/EU-planning-network-police-facial-recognition-cameras-report-claims.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-8016361/amp/EU-planning-network-police-facial-recognition-cameras-report-claims.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-8016361/amp/EU-planning-network-police-facial-recognition-cameras-report-claims.html"
-    type: article
-    provider:
-      name: Mail Online
-      domain: dailymail.co.uk
-    quality: 71
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/02/22/13/25057522-0-image-a-18_1582379015431.jpg"
-        width: 636
-        height: 382
   - title: "Amazon sells facial recognition software to police all over the US, but has no idea how many departments are using it"
     excerpt: "In addition to all those different businesses, Amazon also runs a major facial recognition service aptly named Amazon Rekognition. Rekognition — which Amazon says \"provides highly accurate facial analysis and facial search capabilities that you can use to detect, analyze, and compare faces for a wide variety of user verification, people ..."
     publishedDateTime: 2020-02-21T13:57:00Z
@@ -281,6 +276,6 @@ related:
       domain: hindustantimes.com
     quality: 2
 
-secured: "TVe+M1Z8x3qUbQ0ur+8edr5/BlmMD6Pio4MFNDVozStI+N4rqfDWbzNpgJkdPJNK+TvE5REzQClJ/qlKEYstPheVh8fUrvGT8CXY3kmP2xzeABIeGGX4vDSkboNZ8TJ01Ph4jg466qEgGnErNM3Sm/g9r+45JPNy0tNaBL5WiuwsafXDoyh+OYft5eBez03Qino57jiAGfIKrR7dXOM05GniB9eNmfK6nVINOh6NxDX8duM9lufuuYjF5rva7i9nYbRDyf917hXV+tzwSnttrbvpXzlotCs6/nwZmptRZRqiRBY7M65KhyYIakFKsvN+kuENHT0Kg332DRTxux6R21tjQFP4ms+fyaNSgCGmpNJRVZQtYuPFA5+ccNxWvLMYY46Cdf6cnOB5dsB3ixio6Jb2vqrze5ynulhjNoaQ3LexqkNWrAOFatq2oFaCUOiCalVGZ8kmekQpNHpo729PunXsAftwC/0PtE2glhDwe/U=;o360+S3aqWWlGKJZsIQEYA=="
+secured: "RAbNakbXpdfwCEaBWpryW7/a5Z6WiN3k2UBXpivHEHnMQB91R6ZEUn7Dvkv+D1NQUAVqgL5ftjdQCHsaPaEIeqT2N50nFIf7q7rniBYV93x1lFUejoQdfo0dVm/hr9gwPIol+9dX2IAAzSKBznpDHkxFX1y+PG+rJfr4Xh87RGF8glb4R9M5YbghUQ8m7nhUE6rEVn/HoAlfaach8JItyJaQK6hrP/pSbvpMEnLhfONTRJ1D7+oXnVqAJneTmv/E/4H0pKkqNDlrVSCmTHHbHZCNGg+q2MHzbS4AWb58ww5EfW/uON/RpUm0ed9avRWk;3SfWvPtwl04ndq08/XOX4A=="
 ---
 

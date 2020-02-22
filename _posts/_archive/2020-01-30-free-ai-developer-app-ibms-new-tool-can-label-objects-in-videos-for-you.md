@@ -1,13 +1,15 @@
 ---
 category: news
 title: "Free AI developer app: IBM's new tool can label objects in videos for you"
-excerpt: "IBM estimates it takes 200 to 500 samples of hand-labeled images for an AI object-recognition model to detect a specific object. SEE: How to implement AI and machine learning (ZDNet special report ..."
+excerpt: "IBM has released a new free tool designed to help developers cut the chore of labeling images in video when training AI object-detection models. The new auto-labeling tool is part of IBM's push to ..."
 publishedDateTime: 2020-01-30T15:36:00Z
 webUrl: "https://www.zdnet.com/article/free-ai-developer-app-ibms-new-tool-can-label-objects-in-videos-for-you/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/free-ai-developer-app-ibms-new-tool-can-label-objects-in-videos-for-you/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/free-ai-developer-app-ibms-new-tool-can-label-objects-in-videos-for-you/"
 type: article
-quality: 50
-heat: 50
-published: false
+quality: 90
+heat: 90
+published: true
 
 provider:
   name: ZDNet
@@ -19,9 +21,15 @@ provider:
 
 topics:
   - AI
-  - Computer Vision
   - Google AI
+  - Computer Vision
 
-secured: "yABWlECVfLEOQBfABc2BvjeTlmYIVCWCsFdLgRZhLLT+eoVqQocb5c+GSHg+urjXF0OdHpe4lw+U6EIUUqOhM6TwzwfGE1cDuxwyH2O10ln4wRL/+LqJfsdjVwlAJBkNp9W6cWWnUkrb84ArZ8zbbLb+emD1rk/thPAg7vb0CGrCuWVaQX4Gp0ktSdewuVp70RPis4cGEVDtSilVVreDLd5XTb1FaeDD61ULUAZ49H+Cf7APDq62TwTim7ahwuCwcuTyfofSYfRbi9Im148As8tYbuBGbKEblcyL/rtea1SKNZOQ/6pITAUpGf+8024T;ea0d6xkb+oqtxDbzI7Y1fA=="
+images:
+  - url: "https://zdnet2.cbsistatic.com/hub/i/r/2019/05/15/0f3f7afe-160c-451d-babe-17ed14a1c12a/thumbnail/1200x675/b87d99aee9c8455f3ae1be92387d7290/cloud-computing-and-ai-can-ibm-finally-c-5cd59307fe727300c4b89bff-1-may-15-2019-11-42-48-poster.jpg"
+    width: 1200
+    height: 675
+    title: "Free AI developer app: IBM's new tool can label objects in videos for you"
+
+secured: "r4io2kPKZAnhtS1A6n5/L3VPOFHAsQbs0gIG4hfpiO3f1RpHTZxaNmhhBlEs9t3nRRp8P4CVjalQLD52VXGFcBLdlCAuGRqpl9JMukLizIiuXp6d6CS98H0nRD+fv+53Q4XiKNpeO1d6bMbxOqM7afGlAYNqO731KSdzxCIIGbf9V8RqAP+qhWkiDfIdDtF8JrEdpF+wcoqrbMGVO5k83sf4aSenCcQvtiNJfBSA4fQsBTj0V7zbgcF4VXzrn1Tc6eGy1m6tmgUD61gtyI75mm+JjTnnSW6nXLRF/Sy64FX+qFMRlXMY/q15D1yu2hc7;RwvnRcwy2hCQw6vKPDFyKQ=="
 ---
 
