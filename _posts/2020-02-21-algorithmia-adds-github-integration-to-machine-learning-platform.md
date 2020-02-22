@@ -5,8 +5,8 @@ excerpt: "Algorithmia, an AI model management automation platform for data scien
 publishedDateTime: 2020-02-21T09:57:00Z
 webUrl: "https://www.infoq.com/news/2020/02/algorithmia-ML-github/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - AI in Finance
 
 images:
   - url: "https://res.infoq.com/news/2020/02/algorithmia-ML-github/en/headerimage/Algorithmia-ML-GitHub-1582209249792.jpg"

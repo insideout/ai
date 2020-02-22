@@ -8,7 +8,7 @@ ampWebUrl: "https://www.gamepur.com/guides/how-to-use-voice-recognition-in-pokem
 cdnAmpWebUrl: "https://www-gamepur-com.cdn.ampproject.org/c/s/www.gamepur.com/guides/how-to-use-voice-recognition-in-pokemon-home/amp"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -24,23 +24,6 @@ images:
     width: 1200
     height: 675
     title: "How to use voice recognition in Pokémon HOME"
-
-related:
-  - title: "Facial recognition can ID you in a crowd. But NJ wonders who's using it, how to regulate it"
-    excerpt: "Facial recognition can ID you in a crowd. But NJ wonders who's using it, how to regulate it With more questions than answers about how facial recognition technology is used by police and private companies, New Jersey considers a moratorium. Check out this story on northjersey.com: https://www.northjersey.com/story/news/2020/02/06/facial ..."
-    publishedDateTime: 2020-02-07T08:21:00Z
-    webUrl: "https://www.northjersey.com/story/news/2020/02/06/facial-recognition-clearview-police-new-jersey-attorney-general/4666380002/"
-    ampWebUrl: "https://amp.northjersey.com/amp/4666380002"
-    cdnAmpWebUrl: "https://amp-northjersey-com.cdn.ampproject.org/c/s/amp.northjersey.com/amp/4666380002"
-    type: article
-    provider:
-      name: NorthJersey.com
-      domain: northjersey.com
-    quality: 49
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/b2b05a4ab25f4fca0316459e1c7404c537a89702/c=0-0-1365-768/local/-/media/2019/11/13/USATODAY/usatsports/imageforentry20-mcf.jpg?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 675
 
 secured: "6R/GHmPNn/3PfmJhVWdo9Ej7qwr/mXB1WopSlZ/K+/PO3jWOHrpHlJdTrcoHp5nFlyeinIAqDkThyRzCjh+4SoY8WNNAAjzXRyllPRlYpDgnm9y5RUHCAPjE/VxybHspbc22qqBWFVY7GcUsgTM52o/of9PcEOrDNsRLKBFnyeOSgLuNqi8jnENH6BQ5Mzdr43oDvB+I2JpR/7iV2jApv/MKTuBh1tlfYhaOZ4TvCblpVvuhuAEAk3wqD4lplJkAjMu/P4F8h9A1nvMm60Uv+e0/rvg0NQzN6wG0GAWERFgeBb2EIr0zZrs/6pOt1acovYSqduq3G1g8QFcDyXORwLP3/PKu4NM3OnZgYxnyrPD83zbmXhelzHcL7JaF6Wcbu3Gdmj70WiNIanWdNUN1w0y2Bq6ZzIhaJVCfIRGGvPeqEqWs7ySLi0Z95da1AHxxRL5cPvZySefD1phmTFzJRZYPVYqq0C8KWFDe5vNGcKc=;iPVGJzchuW8hIdYAM/YjvQ=="
 ---

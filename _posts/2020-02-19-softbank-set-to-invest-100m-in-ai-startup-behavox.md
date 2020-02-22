@@ -43,12 +43,16 @@ related:
   - title: "Softbank to invest $100m in AI start-up Behavox"
     excerpt: "Softbank's second Vision Fund is on the verge of investing $100m in Behavox, a UK startup which uses AI to monitor employees' behaviour at financial services companies. The Japanese conglomerate could complete and announce its deal with Behavox in the next week, according to Sky News. Behavox uses AI to detect nefarious activity by employees ..."
     publishedDateTime: 2020-02-21T00:20:00Z
-    webUrl: "https://www.finextra.com/newsarticle/35319/softbank-to-invest-100m-in-ai-start-up-behavox"
+    webUrl: "https://www.finextra.com/newsarticle/35319/softbank-to-invest-100m-in-ai-start-up-behavox/startups"
     type: article
     provider:
       name: Finextra
       domain: finextra.com
-    quality: 17
+    quality: 37
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/softbank.jpg"
+        width: 480
+        height: 270
 
 secured: "ZmuqQ6KbVXm1CFXvZyRMV7s0R+5KjMeUjc425p5ss4NXxpavlf1ylPjfP+V3kGNqITvC0pLuoXMFw5yXhke9c6t6eH7pimkPqhPefqvh0Hs9kea8uVANpDjBK/EWWnQ1BcfwpA3Yr37KjEU4UJgEU5laMdrELYyXHGQdLXhrPOZrZgvIgKaGO41quRRq9ISoz/T4IndeVZLycx6PIukzqYTVDUEyZCl7wPi9i9eISxwcys5g6qccgQOQeQV9tBbvhnR8GOQkI60aDUQXvnPXhS8Jr+j9STohdHmpkGQ4V5QDZTrRKRVHBL1ptKLJFO7/9DgtQCM2M0feC1XgRc03FkQaj8VniVbzCVTOEhA63b0rvsqsL8owJRHYQsWtbvLO0/Lo8H1ged3G8ly68rLWGdrdSEMVLQG37YHptIn2nZ/V2kTjwDLQ4/rumqv/IXDZ4UopOajhW8CwW85zC75lqQeSrFU6N8V8VLkF0eWNCjY=;wBW17ENoOnx2gxTtdV0ayg=="
 ---

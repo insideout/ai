@@ -35,6 +35,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Artificial Intelligence In Construction Market Size is Continues to Grow US$ 2.1 Bn till 2026"
+    excerpt: "The global Artificial Intelligence In Construction Market will increase by a CAGR of approximately 6% during the forecast era and is expected to achieve a market value above US$ 7 Bn in 2026. This Acumen research report examines the 2015-2026 Global Artificial Intelligence In Construction Market."
+    publishedDateTime: 2020-02-12T07:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-construction-market-size-is-continues-to-grow-us-21-bn-till-2026-2020-02-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Machine Learning Market 2020-2029| Amazon Web Services Inc, Baidu Inc, Google Inc."
     excerpt: "Pune, Maharashtra, January 30, 2020 (Wired Release) Prudour Pvt. Ltd. The Global Machine Learning Market Research Report is expected to display a high CAGR according to the recent report added by MarketResearch.Biz. Distinct growth driving forces and upcoming trends which will boost the market growth are included in this study. The supply ..."
     publishedDateTime: 2020-02-12T21:41:00Z

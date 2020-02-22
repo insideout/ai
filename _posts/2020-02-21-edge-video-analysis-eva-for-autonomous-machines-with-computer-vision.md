@@ -5,8 +5,8 @@ excerpt: "The latest generation of industrial robots are known as autonomous mob
 publishedDateTime: 2020-02-21T16:04:00Z
 webUrl: "https://www.embedded-computing.com/guest-blogs/edge-video-analysis-eva-for-autonomous-machines-with-computer-vision"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI
   - Computer Vision
+  - AI Hardware
 
 images:
   - url: "http://share.opsy.st/5e4ff5e62b6d1-Picture1.png"

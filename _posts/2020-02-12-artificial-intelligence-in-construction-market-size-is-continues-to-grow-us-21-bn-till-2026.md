@@ -28,23 +28,10 @@ images:
     title: "Artificial Intelligence In Construction Market Size is Continues to Grow US$ 2.1 Bn till 2026"
 
 related:
-  - title: "Facial Recognition Market Present Scenario and Growth Analysis till 2026"
-    excerpt: "QY Market Research Store has added the report titled Global Facial Recognition Market to its ever-growing repository to enable an effective business outlook. The report comprises an in-depth study of varying features characteristic of industries,"
-    publishedDateTime: 2020-02-07T08:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-present-scenario-and-growth-analysis-till-2026-2020-02-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 68
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Natural Language Processing Market: Key and Forecast Predictions Presented Until 2029"
-    excerpt: "The increasing use of Natural Language Processing in healthcare and call centers, rising demand for advanced text analytics are some major factor drives the target market growth. Additionally, growing uses of smart device,"
-    publishedDateTime: 2020-02-14T05:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-key-and-forecast-predictions-presented-until-2029-2020-02-14"
+  - title: "Deep Learning Market By Type Analysis is Anticipated to Reach US$56,427.2 Mn by 2026"
+    excerpt: "The global Deep Learning Market will increase by a CAGR of approximately 51.1% during the forecast era and is expected to achieve a market value above US$ 56,427.2 Mn in 2026. This Acumen research report examines the 2015-2026 Global Deep Learning Market."
+    publishedDateTime: 2020-02-12T08:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-by-type-analysis-is-anticipated-to-reach-us564272-mn-by-2026-2020-02-12"
     type: article
     provider:
       name: MarketWatch
@@ -54,23 +41,10 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Natural Language Processing Market: Industry Development Scenario and Forecast to 2029"
-    excerpt: "Global Natural Language Processing Market, revenue was xx.xx Million USD in 2018, and will reach xx.xx Million USD in 2029, with a CAGR of x.x% during 2019-2029. The report published by Prophecy Market Insights covers detailed segmentation as mentioned below - By Type: – Rule-Based – Statistical – Hybrid By Technologies: – Recognition – IVR – OCR – Speech Recognition – Text Processing – Pattern & Image Recognition Download Sample of This Strategic Report: https://www."
-    publishedDateTime: 2020-02-12T10:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-industry-development-scenario-and-forecast-to-2029-2020-02-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "3D Facial Recognition Systems Market – Is North America Remain Biggest Opportunity?"
-    excerpt: "Pune, Maharashtra, January 24, 2020 (Wired Release) Prudour Pvt. Ltd: Global News of 3D Facial Recognition Systems Market Study 2020-2029, by Segment (Hardware, Software), Playing a Pivotal Role in Expanding by (Access Control, Attendance Tracking And ..."
-    publishedDateTime: 2020-02-10T20:50:00Z
-    webUrl: "https://apnews.com/Wired Release/e55c43f30b343441bc07f67fa9cdb516"
+  - title: "Machine Learning Market 2020-2029| Amazon Web Services Inc, Baidu Inc, Google Inc."
+    excerpt: "Pune, Maharashtra, January 30, 2020 (Wired Release) Prudour Pvt. Ltd. The Global Machine Learning Market Research Report is expected to display a high CAGR according to the recent report added by MarketResearch.Biz. Distinct growth driving forces and upcoming trends which will boost the market growth are included in this study. The supply ..."
+    publishedDateTime: 2020-02-12T21:41:00Z
+    webUrl: "https://apnews.com/20233db08db8aaec55c77fb43be451e8"
     type: article
     provider:
       name: Associated Press
@@ -80,66 +54,15 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
-  - title: "Automotive Artificial Intelligence Market Development Analysis 2020 to 2026"
-    excerpt: "Latest Trends Report On Global Automotive Artificial Intelligence Market 2020 with Upcoming Industry Trends, Size, Share, Top Companies Profiles, Growth Report and Forecast By 2026. Automotive Artificial Intelligence Market is a valuable source of insightful data for business strategists."
-    publishedDateTime: 2020-02-13T11:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-development-analysis-2020-to-2026-2020-02-13"
+  - title: "Deep Learning Market In-Depth Industry Analysis on Size, Share Analysis, Cost Structure and Prominent Key Players Analysis 2026"
+    excerpt: "The global Deep Learning Market will increase by a CAGR of approximately 5.1% from 2019 to 2026 and is expected to achieve a market value above US$ 56,427.2 million in 2026. The report provides analysis of global Deep Learning Market for the period 2015-2026,"
+    publishedDateTime: 2020-02-18T06:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-in-depth-industry-analysis-on-size-share-analysis-cost-structure-and-prominent-key-players-analysis-2026-2020-02-18"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 45
-  - title: "AI in Fintech Market Technological Innovation, Current and Future Huge Demand, Scope 2020-2026"
-    excerpt: "QY Market Research Store has added the report titled Global AI in Fintech Market to its ever-growing repository to enable an effective business outlook. The report comprises an in-depth study of varying features characteristic of industries,"
-    publishedDateTime: 2020-02-07T09:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-technological-innovation-current-and-future-huge-demand-scope-2020-2026-2020-02-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
-  - title: "Automotive Self-driving Chip Market 2020 Analysis report with Cross-Channel, Opportunities, Upturn Growth by 2026"
-    excerpt: "The report provides rational insights along with historical and forecast data to aid in better understanding of the Global Automotive Self-driving Chip Market. The report provides a comprehensive analysis of key factors that are expected to drive the growth of the Automotive Self-driving Chip market."
-    publishedDateTime: 2020-02-10T09:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-self-driving-chip-market-2020-analysis-report-with-cross-channel-opportunities-upturn-growth-by-2026-2020-02-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "eConnect Presents on Facial Recognition at the Western Indian Gaming Conference 2020"
-    excerpt: "eConnect, Inc., a Las Vegas-based software company which provides hospitality companies with a platform for actionable information, reinforced by video, will be speaking at the Western Indian Gaming Conference and Trade Show."
-    publishedDateTime: 2020-02-10T00:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/02/p15286237/econnect-presents-on-facial-recognition-at-the-western-indian-gaming-conference-2020"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/15286237"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15286237"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 32
-  - title: "Voice Recognition for Automotive Market Trends, Opportunities, Key Players, Growth, Analysis, Outlook & Forecasts To 2025"
-    excerpt: "The market study on the global Voice Recognition for Automotive Market will include the entire ecosystem of the industry, covering five major regions namely North America, Europe, Asia Pacific, Latin America and Middle East & Africa, and the major countries falling under those regions. The study will feature estimates in terms of sales revenue ..."
-    publishedDateTime: 2020-02-07T11:00:00Z
-    webUrl: "https://www.openpr.com/news/1923215/voice-recognition-for-automotive-market-trends"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
-  - title: "TOP Companies Operating in the Global Speech and Voice Recognition Market| Future Growth Outlook"
-    excerpt: "The global speech and voice recognition market is expected to grow at a CAGR of 17.2% from 2019 to reach $26.79 billion by 2025, Says \"Meticulous Research, where Asia Pacific speech and voice recognition market is expected to grow at the highest CAGR. Voice and speech recognition technologies authorize contactless control to several devices and ..."
-    publishedDateTime: 2020-02-11T11:51:00Z
-    webUrl: "https://www.openpr.com/news/1927505/top-companies-operating-in-the-global-speech-and-voice"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
+    quality: 21
 
 secured: "+VQuA4Dystr25q8TQSzSRTizxeD13kSEBSLz+45TQ1uqje3ZGR2B9VvuKu/aEj3hKndLd0DYpGqVHn4uIdjCTnx4nCGJ3cG0iKyhdndR9jbjby8TAOs++HcYIRcyL8PlIoQeuQIXrgzu4QK8zlOjuzE9oJVvFdKy3X1mgFJ7gRsylFYPQ69RJ/ppB+xgEuH7JTjTa5IEGSW6MR2IjQii13CA8mM0IrG9kIq/sD9+zDB9oMXuhG4whDR9HOkzUxsjGsypQRBkC+I/YsIKPiugSpn6LVWUSw8nUIR2mE5IjGw9NsjSwvSeUUW95w89tyXN;1QSLRrdXGKEyrn9FbTkoYA=="
 ---

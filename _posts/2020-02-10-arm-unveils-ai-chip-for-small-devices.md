@@ -33,19 +33,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/07/blockchain_database-e1573158651295.jpg?fit=1200%2C600&strip=all"
         width: 1200
         height: 600
-  - title: "TRIPLE-1 unveils AI processor ‘GOKU’ for deep learning"
-    excerpt: "KUALA LUMPUR, Feb 7 -- TRIPLE-1 Inc, based in Fukuoka, south-western Japan has announced the development of the AI processor ‘GOKU’ for deep learning that uses the world’s cutting-edge 5-nanometer process. ‘GOKU’ has 10 times higher power efficiency than the conventional process, according to a statement. It utilises core know-how ..."
-    publishedDateTime: 2020-02-07T08:59:00Z
-    webUrl: "https://www.bernama.com/en/business/news.php?id=1812202"
-    type: article
-    provider:
-      name: bernama.com
-      domain: bernama.com
-    quality: 54
-    images:
-      - url: "https://www.bernama.com/bm/img/bernama.png"
-        width: 2483
-        height: 2942
   - title: "Intel Angling for Piece of Self-Driving Market with New Processors"
     excerpt: "Intel Corp., trying to convert its dominance of computers into a stake in the growing market for chips used in cars, is offering automakers new products aimed at making its technology crucial to the effort to develop self-driving vehicles. ‘Intel Go’ will feature processors ranging from its smallest Atom chips all the way up to its most ..."
     publishedDateTime: 2020-02-12T20:51:00Z

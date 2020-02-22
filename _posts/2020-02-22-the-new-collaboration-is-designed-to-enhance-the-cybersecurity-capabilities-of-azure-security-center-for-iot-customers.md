@@ -1,29 +1,42 @@
 ---
 category: news
-title: "CyberMDX Announces Integration With Microsoft Azure Security Center for IoT"
-excerpt: "/PRNewswire/ -- CyberMDX, a leading provider of medical cyber security solution, delivering asset visibility and threat prevention for medical devices"
-publishedDateTime: 2020-02-20T19:00:00Z
-webUrl: "https://www.prnewswire.com/news-releases/cybermdx-announces-integration-with-microsoft-azure-security-center-for-iot-301008578.html"
+title: "The new collaboration is designed to enhance the cybersecurity capabilities of Azure Security Center for IoT customers."
+excerpt: "Michal Braverman-Blumenstyk, CTO and GM, Cloud and AI Security Division at Microsoft Corp. said, \"We are pleased to partner with Firedome's Endpoint Protection solution to provide a solution for manufacturers who don't have a SOC team for their IoT installed device base. We view this collaboration as a way to enrich Microsoft Azure Security ..."
+publishedDateTime: 2020-02-22T01:31:00Z
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/firedome-announces-integration-with-microsoft-azure-security-center-for-iot/article_9fd4db82-0673-50af-bd2b-78c981cc8039.html"
 type: article
-quality: 52
-heat: 102
-published: true
+quality: 15
+heat: -1
+published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI
   - Microsoft AI
 
 images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    title: "CyberMDX Announces Integration With Microsoft Azure Security Center for IoT"
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
+    title: "The new collaboration is designed to enhance the cybersecurity capabilities of Azure Security Center for IoT customers."
 
 related:
+  - title: "CyberMDX Announces Integration With Microsoft Azure Security Center for IoT"
+    excerpt: "/PRNewswire/ -- CyberMDX, a leading provider of medical cyber security solution, delivering asset visibility and threat prevention for medical devices"
+    publishedDateTime: 2020-02-20T19:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/cybermdx-announces-integration-with-microsoft-azure-security-center-for-iot-301008578.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 52
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
   - title: "ClearDATA Comply™ for Microsoft Azure Enhances Sophistication of PHI Protection"
     excerpt: "in healthcare including Azure Kubernetes Service (AKS), Azure Machine Learning as well as PaaS based services like Azure SQL. ClearDATA is a Microsoft Gold Partner and has offered managed security, compliance and privacy solutions on Microsoft Azure since 2015. ClearDATA will further collaborate with Microsoft to support its sensitive data ..."
     publishedDateTime: 2020-02-19T16:00:00Z
@@ -72,20 +85,7 @@ related:
       - url: "https://mms.businesswire.com/media/20200220005507/en/774439/23/cyberx.jpg"
         width: 1200
         height: 627
-  - title: "The new collaboration is designed to enhance the cybersecurity capabilities of Azure Security Center for IoT customers."
-    excerpt: "Michal Braverman-Blumenstyk, CTO and GM, Cloud and AI Security Division at Microsoft Corp. said, \"We are pleased to partner with Firedome's Endpoint Protection solution to provide a solution for manufacturers who don't have a SOC team for their IoT installed device base. We view this collaboration as a way to enrich Microsoft Azure Security ..."
-    publishedDateTime: 2020-02-22T01:31:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/firedome-announces-integration-with-microsoft-azure-security-center-for-iot/article_9fd4db82-0673-50af-bd2b-78c981cc8039.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 15
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
 
-secured: "O9rWmRDfljc/nj9RZn1vUTL1GvgIjTVlY1XbTYqxLsodFsWY5p+RUiB1i2Kpj/IMS/f8jasogfiL8YXY0zfnoAISU0zdGvN1/8x8EUnzZwcFYFmC85fnbjNZ3aSTiEkACzWkg8kA2E3RuO2/n2TyFc3G+C1FXQE0bHcNP/+bR/sovD6AV+1So8PJldJhLSJq6X/oM56vVjgkFiGKR3naFzgzNea/lBogGYHndqWlAAQ/dczeaEF4cvy7nOZInVN+o9LbrWcV/QZT5VmFWlHVZYgOTmtPHdvAAZDek04ed5AvKhlCBgf4s91ICwUxBMd7;ZcuvUs6eHxIcMNA/w4YwpQ=="
+secured: "4iNa7IGSna2fvKpkpRoqmJ/fIAwK9kPAG+0KAvFEfmAEnuHrlQQmYia9CQSmC7ExTaJ7X1xC4i83dWlZI1jA6EdFEJwXJw0QM4N0TZk3j0gn8V3LbgKAshthkgB/iIq4LJaeVzaRgx1YUDCrZ6WvAWYNsamjlSKwueGdd6afD9BY+Vz0lFCVMHgwRry2hc/iy6gW2AM2x7O52EQ+HRPKIXNUNZ42OvngIqVa2cE8GRmPuH7eqIXpdgP7fxxubTmagau3XLD5gjzD9k2GBR9OdRsG2/SUYX9F4+a99bk2HT3Ljrec1z5J4FCLzo++tncm;fp4x2xKN4mRq5eP+k9ht7Q=="
 ---
 

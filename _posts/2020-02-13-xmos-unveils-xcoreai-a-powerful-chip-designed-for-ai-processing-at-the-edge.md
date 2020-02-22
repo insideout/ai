@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/02/12/xmos-unveils-xcore-ai-a-powerful-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/12/xmos-unveils-xcore-ai-a-powerful-chip-designed-for-ai-processing-at-the-edge/amp/"
 type: article
 quality: 105
-heat: 135
+heat: 125
 published: true
 
 provider:
@@ -32,19 +32,6 @@ images:
     title: "XMOS unveils Xcore.ai, a powerful chip designed for AI processing at the edge"
 
 related:
-  - title: "TRIPLE-1 unveils AI processor ‘GOKU’ for deep learning"
-    excerpt: "KUALA LUMPUR, Feb 7 -- TRIPLE-1 Inc, based in Fukuoka, south-western Japan has announced the development of the AI processor ‘GOKU’ for deep learning that uses the world’s cutting-edge 5-nanometer process. ‘GOKU’ has 10 times higher power efficiency than the conventional process, according to a statement. It utilises core know-how ..."
-    publishedDateTime: 2020-02-07T08:59:00Z
-    webUrl: "https://www.bernama.com/en/business/news.php?id=1812202"
-    type: article
-    provider:
-      name: bernama.com
-      domain: bernama.com
-    quality: 54
-    images:
-      - url: "https://www.bernama.com/bm/img/bernama.png"
-        width: 2483
-        height: 2942
   - title: "Arm unveils AI chip for small devices"
     excerpt: "The chips require little electricity or internet connections and aim to bring AI functions to small devices like sensors that detect human speech. Arm sees Cortex M55 fitting into markets like health care, where data needs to be stored locally. Chips with the tech will hit the market next year."
     publishedDateTime: 2020-02-10T14:53:00Z

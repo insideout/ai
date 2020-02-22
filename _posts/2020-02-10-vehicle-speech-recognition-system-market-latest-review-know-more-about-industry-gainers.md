@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-10T09:27:00Z
 webUrl: "https://www.marketwatch.com/press-release/vehicle-speech-recognition-system-market-latest-review-know-more-about-industry-gainers-2020-02-10"
 type: article
 quality: 75
-heat: 115
+heat: 105
 published: true
 
 provider:
@@ -28,15 +28,6 @@ images:
     title: "Vehicle Speech Recognition System Market Latest Review: Know More about Industry Gainers"
 
 related:
-  - title: "Voice And Speech Recognition Software Market Technology Growth and Development 2020 to 2026"
-    excerpt: "The report titled \"Voice And Speech Recognition Software Market\" has recently added by MarketInsightsReports to get a stronger and effective business outlook. It provides an in-depth analysis of different attributes of industries such as trends,"
-    publishedDateTime: 2020-02-07T09:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-software-market-technology-growth-and-development-2020-to-2026-2020-02-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
   - title: "Speechmatics opens third international office to address U.S. speech recognition market"
     excerpt: "Speechmatics has opened an office in Denver, Colorado, the third international office space the UK-based automated speech recognition software provider has opened in just three months, following Chennai, India and Brno, Czech Republic, the company announced. By opening its first office in the U.S., Speechmatics wants to leverage the country’s ..."
     publishedDateTime: 2020-02-07T19:16:00Z
