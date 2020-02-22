@@ -2,51 +2,6 @@
   "page": 26,
   "value": [
     {
-      "path": "_posts/_archive/2020-02-07-growth-within-limits-us-based-cloud-service-provider-1q-earnings.md",
-      "title": "Growth Within Limits: US-Based Cloud Service Provider 1Q Earnings",
-      "excerpt": "Evaluating Amazon AWS, Microsoft Azure, Alphabet GCP, IBM Cloud and Oracle OCI earnings from an IaaS perspective to understand how these cloud giants are managing and growing their infrastructure.",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/paulteich/2020/02/07/growth-within-limits-us-based-cloud-service-provider-1q-earnings/",
-      "ampWebUrl": "https://www.forbes.com/sites/paulteich/2020/02/07/growth-within-limits-us-based-cloud-service-provider-1q-earnings/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paulteich/2020/02/07/growth-within-limits-us-based-cloud-service-provider-1q-earnings/amp/",
-      "publishedDateTime": "2020-02-07T07:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e3d7b0d3738f500063f272c%2F0x0.jpg%3FcropX1%3D6%26cropX2%3D1142%26cropY1%3D0%26cropY2%3D640",
-          "width": 1137,
-          "height": 640,
-          "title": "Growth Within Limits: US-Based Cloud Service Provider 1Q Earnings",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-02-07-how-to-learn-pytorch-a-resources-guide-for-developers.md",
       "title": "How to learn PyTorch: A resources guide for developers",
       "excerpt": "Developed by Facebook, PyTorch is similar to Google's TensorFlow in that it runs on tensors, but instead of using static computation graphs like TensorFlow, it utilizes dynamic computation graphs. If you are interested in learning PyTorch, the following list of resources can help you get started. SEE: Hiring kit: Python developer ...",
@@ -702,6 +657,53 @@
       ]
     },
     {
+      "path": "_posts/_archive/2020-02-08-artificial-intelligence-ai-in-supply-chain-and-logistics-market-technology-advancement-and-business-outlook-2020.md",
+      "title": "Artificial Intelligence (AI) In Supply Chain And Logistics Market Technology Advancement and Business Outlook 2020",
+      "excerpt": "The report titled \"Artificial Intelligence (AI) In Supply Chain And Logistics Market\" has recently added by MarketInsightsReports to get a stronger and effective business outlook. It provides an in-depth analysis of different attributes of industries such as trends,",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-supply-chain-and-logistics-market-technology-advancement-and-business-outlook-2020-2020-02-08",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-07T20:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence (AI) In Supply Chain And Logistics Market Technology Advancement and Business Outlook 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "Facebook AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-02-08-biased-algorithms-learn-from-biased-data-3-kinds-biases-found-in-ai-datasets.md",
       "title": "Biased Algorithms Learn From Biased Data: 3 Kinds Biases Found In AI Datasets",
       "excerpt": "Algorithmic bias negatively impacts society, and has a direct negative impact on the lives of traditionally marginalized groups.",
@@ -788,6 +790,51 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-02-08-this-new-memory-chip-could-end-up-in-an-iphone-5g.md",
+      "title": "This new memory chip could end up in an iPhone 5G",
+      "excerpt": "The new chip is likely to make its way into the next iPhone ... The rising popularity of high pixel cameras (like the 108 million pixel sensor set on the Xiaomi CC9 Pro), concurrent apps demanding huge bandwidth and AI means that LPDDR5 is likely to become the defacto memory tech for flagship smartphones in 2020. It remains to be seen whether ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techradar.com/au/news/this-new-memory-chip-could-end-up-in-an-iphone-5g",
+      "ampWebUrl": "https://www.techradar.com/au/amp/news/this-new-memory-chip-could-end-up-in-an-iphone-5g",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/this-new-memory-chip-could-end-up-in-an-iphone-5g",
+      "publishedDateTime": "2020-02-07T21:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/n5GsBjxkGK8epc7bMzP4ug-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": "This new memory chip could end up in an iPhone 5G",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
       ]
     }
   ],

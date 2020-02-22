@@ -1,27 +1,22 @@
 ---
 category: news
-title: "New machine learning method could supercharge battery development for electric vehicles"
-excerpt: "But now, a team led by Stanford professors Stefano Ermon and William Chueh has developed a machine learning-based method that slashes these testing times by 98 percent. Although the group tested their method on battery charge speed, they said it can be applied to numerous other parts of the battery development pipeline and even to non-energy ..."
-publishedDateTime: 2020-02-19T19:45:00Z
-webUrl: "https://www.eurekalert.org/pub_releases/2020-02/su-nml021920.php"
+title: "New AI Method Speeds Battery Designs for Electric Cars"
+excerpt: "In a recent Stanford News report, a study led by Stanford University professors Stefano Ermon and William Chueh, along with their colleagues at the Massachusetts Institute of Technology (MIT) and the Toyota Research Institute, created a battery testing method using artificial intelligence (AI) machine learning that reduces battery testing times ..."
+publishedDateTime: 2020-02-22T20:46:00Z
+webUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202002/new-ai-method-speeds-battery-designs-electric-cars"
+ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202002/new-ai-method-speeds-battery-designs-electric-cars?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202002/new-ai-method-speeds-battery-designs-electric-cars?amp"
 type: article
-quality: 31
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Psychology Today
+  domain: psychologytoday.com
 
 topics:
   - AI
-  - Machine Learning
-
-images:
-  - url: "https://www.eurekalert.org/multimedia/pub/web/224737_web.jpg"
-    width: 1440
-    height: 960
-    title: "New machine learning method could supercharge battery development for electric vehicles"
 
 related:
   - title: "AI delivers a battery boost to electric vehicles, slashing testing times 98%"
@@ -67,18 +62,20 @@ related:
       - url: "https://news-media.stanford.edu/wp-content/uploads/2020/02/13134738/EVbattery1.jpg"
         width: 1500
         height: 1001
-  - title: "New AI Method Speeds Battery Designs for Electric Cars"
-    excerpt: "In a recent Stanford News report, a study led by Stanford University professors Stefano Ermon and William Chueh, along with their colleagues at the Massachusetts Institute of Technology (MIT) and the Toyota Research Institute, created a battery testing method using artificial intelligence (AI) machine learning that reduces battery testing times ..."
-    publishedDateTime: 2020-02-22T20:46:00Z
-    webUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202002/new-ai-method-speeds-battery-designs-electric-cars"
-    ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202002/new-ai-method-speeds-battery-designs-electric-cars?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202002/new-ai-method-speeds-battery-designs-electric-cars?amp"
+  - title: "New machine learning method could supercharge battery development for electric vehicles"
+    excerpt: "But now, a team led by Stanford professors Stefano Ermon and William Chueh has developed a machine learning-based method that slashes these testing times by 98 percent. Although the group tested their method on battery charge speed, they said it can be applied to numerous other parts of the battery development pipeline and even to non-energy ..."
+    publishedDateTime: 2020-02-19T19:45:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-02/su-nml021920.php"
     type: article
     provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 37
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 31
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/224737_web.jpg"
+        width: 1440
+        height: 960
 
-secured: "9ZqXevTxg9ocI1oxy/h9K3/tM2pTdAPbJIV2UC0UW5MIEXO/MYmo5YCfjFYCHS02Xf5mDDXVQ7aCX4giaUjkmLtm/hwU2ivpkTQd/KgT4XCHU4aiZUPhwwZ51tF6cNPl6jzz6jpdS5tIUNwFYar3FfWfau4Kd7PzWuj6s7H2TVljNkEvr6kex8vIKxbdInpEU5dPfqmWoyMgM76w1pO5icca178USS+hOWTKh89D7Uyog92hyY5UuYeh3HClLkNPlZXnM4Bvixsq15sAVcbEcEyeNJnjr6YPbsnnWSP8NBIOufogZa2KxxyHGRr+2y8H;303iqgsWemaOs5JZglGAXQ=="
+secured: "uL8n5fbBeawYJn7rFADWK4V6iEpHKSGdzs2d5dRypWZrWd+FhykeP0V/yHQhoj9S+pJjaflZ5etmcUYoU1eBCexILBNG7dhOvSQc4CsqyhWubHsK0+flFpS2ienuQvsDFqdGVfA3PrRL6VZfWdHM/h2AZVHwVKVOo0KZNrTwYYpPEZNToLR+lcRUPy93Ss84WxM3lJ0bWSyqJNrwfo9/uDJHxO9C+Tfnu3HYbD2eA2rq4nKh6TF/mOfva7nUT1vPUPlpCCkwzzHN+3AdeNcLn024lCIVBD+lHwQe+0g6LLAP8mNbaEVnYCjz08jP3gqEAKwf+x4st3YdCUxN7Ht4qVyChpz4M30mhJ7cmWCumasguW0Bn+2kKtqJX2qgf17T3kFTFd37uS1vCbanen2aImrdHVDp5GoxTr99hPx8/LXspuU46tWAOBL0xso+8bmPZRweUrMf2CJeP1wlSWm75GQ3pOApjI5TJ7VsvM2gNhc=;upMrLZDeYD5q6ObevGK0DQ=="
 ---
 

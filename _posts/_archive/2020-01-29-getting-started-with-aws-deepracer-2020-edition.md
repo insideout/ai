@@ -27,6 +27,6 @@ images:
     height: 450
     title: "Getting Started with AWS Deepracer (2020 edition)"
 
-secured: "/gsz5x9XzS1DPCpxYLZxe/O7zQrnHLkzgrDKSBhXo6v6rto7L/4ktcAt2dAbXITx9WjHR7d5A6yyJLQBRdFKCTyKETcnGiTsTFHkHT8UZGQajVdSlKJg1JVsAhiAoc1fle1EUhjUoLF6zjcTA0eODGInVFhIapLudNq3geE2elqvRLfUcwX8bKaFdH0ji8sFIYqAjYWNv6Hesip7kcDR/67VAGrgmWbnCJi5YWxbxp+ct4JaMw/XIe9t3oM4P2oKQfAGD8TeoTRrQ8DutbrDpCIbc7Hwua4hym4vD6/zCLqxDThRUZLklf9UUmyH0BTV;ik/uSy5QINX7+Z2g8Kb5jw=="
+secured: "q0tmtms+E8DLPXVv/vHYxZrPYDCuFwGOAhHeRMGuQ1UQlNR9SIYvaNJSQ9BLiZvoEQI3fg8n3ayrCnRAlDwGa9cL1FEfprtcipS86o7dXU315eF7vUmnI5ZLjDhS9Rk54rEVVNj1UZiYe+94C2tOZn36dbiAH4/vf5BXViVKwTHlBW6LbI2+yEULzn9/ideRZq7fRd/u29LunKpiQhPUQeWl7zqz8ZCEmiWAE/IcIp03kweItzdUsx98GEdb8apmoaCx2wk9sLvKn4KlOykrCzKDjMZoythpldFy8ipsJ/eG8QR3ty2eMFqePi1ERhuT;tEVSYWC/mnaLJvqjmSsxug=="
 ---
 

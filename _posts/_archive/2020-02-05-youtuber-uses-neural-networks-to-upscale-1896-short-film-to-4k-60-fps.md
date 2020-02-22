@@ -28,6 +28,6 @@ images:
     height: 560
     title: "YouTuber uses neural networks to upscale 1896 short film to 4K 60 fps"
 
-secured: "Q/6GJR7o0a5W9q7aFPKRU3uD8+Lp9rax+ETqfMX+4DK02SesJB3QX2eyGWRS/6lhcnf70IeGEbsvdV8droLaDVy8ot6dVdrFfo+M0Cna8HVJBXCpjCDDqG8adEd7drLTHjV0J9Xy4W5FJGKuaeIrpcEzVFpYMKdfS8fDANhJ2tIhDkiMV32HiY8c2KsF7nTK+r73NWSuUn+Tlq7wcEuTtEvhNmkUYt/QvawiJIWNsGF54dfVSP7c1omUg2JO32ahzerKaZcoY8xUUWVWseTNit8qoEY950vlOfRzZa/+4t3jhUXDhfnuM437rNhxB6Ee95DR4C811NW8kuaIlP9uug==;cp7DSNPe07z171eF8LU6cg=="
+secured: "XI3KOD6ssk4wUIy9Axdahxpp3BFSdtaXny2UU3uOoOWQ4Po2y4Gf2u9IGFHUWFfBTFt4NHYjncUEjQoRbgo3TsafagKtAL8gfjkAdsU/axtvFUWZSd22hQbRIUwP/ocfFny/B77fDJi6zhJ9SuwbhJBHUOXw7NRm38iWLW1x7ALoPGESA/aHkKfewOR8A9Z71YSaycxRlkB+B/roXSnP7hAJXptUo9AYe4mprf0fncgC4Sc1UxaravUQDfvmH81ydvxA+Dy7wzdEHcZReDZ2R+36K+7QTm8fUE6FWXmsjVx5VE8pdnqrzuoNSoHRoFILExx6MM7+NY16WyE5/VmPKA==;7a2erHRvRIeYAzN93+IVRQ=="
 ---
 

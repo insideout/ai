@@ -25,6 +25,6 @@ images:
     height: 400
     title: "Synapse Summit revamps ice level to showcase innovation from top Tampa Bay companies"
 
-secured: "huGRDlaCyhJnf1HJI/VgiBmHx4xzh7s4TuPM/F4Ui+6svPSP9u8rop2TF5mbE/qIAwTHfWDYEV8Xcpcfu3ZruXUlADeCYygb0w2ACA3Y4lm6EQD/fC2xsoXw38Mxo8zjiZYatmlkAncqInw4oKJEnjP1ec2JRt6UeFkERBbqgm6nNhP8OkPD9hCVzr4i2kKNclI/wTP/Kl0xdaVei1kzHNS7cuX5y88DxznQcPivS4pzys/e2zd23qb3AjMbBAtGxyiohH4qJTcozXFzCVTQSoJMXDpQHNLGGK3KQXKP9Y4OE/FHTEvkyGSVNq9Kx3VW;609QzgFiaxE4bRmjfoHTGw=="
+secured: "rB8QpBRootUzogfxtl9fIyO5tc78Z9RQZYE8KScyZ7p+osgL61YRZ9DU2H9Og1uyZ0UANQ4aUyhlekQVB+OOfJzS+BQvxH4gCX6kJhCNe+HZ6Esa3+M5ZvAT18FOXbqHq/24SaJ7gJ9qGHMVkqsRFG6ndaHL1fiIj75W7dp8WAMurkLU8UFB/vcSna7DpYDzybQHpEc8THSdXrq/5ywYxYnjKaT8PGEltGENMrnxFonAp3qJnPUdRVVgfMnUlkumgXcauWIRrz2eJ3Aj0jV4i14oPik4LBYR0KU86g453oIDHwpPcgNL+EyKf1BTTeUA;hHIOFsL0UGDJ9ch1qT5x9g=="
 ---
 

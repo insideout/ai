@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-delivers-a-batter
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-delivers-a-battery-boost-to-electric-vehicles-slashing-testing-times-98/"
 type: article
 quality: 84
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -57,6 +57,17 @@ related:
       - url: "https://news-media.stanford.edu/wp-content/uploads/2020/02/13134738/EVbattery1.jpg"
         width: 1500
         height: 1001
+  - title: "New AI Method Speeds Battery Designs for Electric Cars"
+    excerpt: "In a recent Stanford News report, a study led by Stanford University professors Stefano Ermon and William Chueh, along with their colleagues at the Massachusetts Institute of Technology (MIT) and the Toyota Research Institute, created a battery testing method using artificial intelligence (AI) machine learning that reduces battery testing times ..."
+    publishedDateTime: 2020-02-22T20:46:00Z
+    webUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202002/new-ai-method-speeds-battery-designs-electric-cars"
+    ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202002/new-ai-method-speeds-battery-designs-electric-cars?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202002/new-ai-method-speeds-battery-designs-electric-cars?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 37
   - title: "New machine learning method could supercharge battery development for electric vehicles"
     excerpt: "But now, a team led by Stanford professors Stefano Ermon and William Chueh has developed a machine learning-based method that slashes these testing times by 98 percent. Although the group tested their method on battery charge speed, they said it can be applied to numerous other parts of the battery development pipeline and even to non-energy ..."
     publishedDateTime: 2020-02-19T19:45:00Z
