@@ -8,8 +8,8 @@ ampWebUrl: "https://www.computerweekly.com/news/252478163/AI-in-public-service-m
 cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252478163/AI-in-public-service-must-be-accountable?amp=1"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Computer Weekly
@@ -35,15 +35,6 @@ related:
       name: gov.uk
       domain: www.gov.uk
     quality: 18
-  - title: "Artificial Intelligence in Platform as a Service Market"
-    excerpt: "The latest market intelligence study on Artificial Intelligence in Platform as a Service relies on the statistics derived from both primary and secondary research to present insights pertaining to the forecasting model, opportunities, and competitive landscape of Artificial Intelligence in Platform as a Service market for the forecast period ..."
-    publishedDateTime: 2020-02-07T13:33:00Z
-    webUrl: "https://www.openpr.com/news/1923740/artificial-intelligence-in-platform-as-a-service-market-trends"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 17
 
 secured: "b2OBywqjR/u8Aleii/NidffEUV6pJX1mHJ0/P49exox8SLLvaoazjL5d0lN5oDxbOO4WbuodlCqkYjHGWNuFxWNiYL5C/5nmbFywX7Y0d34B5Pa4ia+e+ohWuYSIKDH9m7VL9lAdzXeT68o8xB/uMxPgpRh5TfZeqs7YTeI2Jl9lDgMjXiQ8U8WDPpgY8z2kw6L52HyHfpAan8Tx+1Tc1zix9Vi76fK1QITJS9xHFSFgCn+q7wRE/SENC/JAask04FGHNU0+KzaVu8jQyKt4gCeigPC+z0HEcSDkYN9UiGOoYiL7zk/rP53C9ZGJPINm3YTDj0fZeytrHn6hIWwAtiopWZ9THUzusQuRMzH/CYamDZR239xa7v978pLhmAGE4W/vnzK6Br49yiMUmDbaDrr0Kc8melbmP15+7olbIjXDpf+0kWDICS8ZFRJhXyvZ20iBff+AJhai6AWQE2HA+S9TimKZ0JpauTKRLfvyXVE=;ji5Pu6MF+NHaJGJakU6qtg=="
 ---

@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Tape trick seen as showing hurdles for self-driving cars"
-excerpt: "To be sure, the real-world threats of such an occurrence today are limited. For one, self-driving cars are still in the development phase, and most are being tested with drivers behind the wheel. Vehicles with advanced driver-assist systems that are available now still require the human to be attentive. And the McAfee researchers were only able ..."
+excerpt: "To be sure, the real-world threats of such an occurrence today are limited. For one, self-driving cars are still in the development phase, and most are being tested with drivers behind the wheel. Vehicles with advanced driver-assist systems that are ..."
 publishedDateTime: 2020-02-20T07:50:00Z
-webUrl: "https://www.arkansasonline.com/news/2020/feb/20/tape-trick-seen-as-showing-hurdles-for-/?business-national"
+webUrl: "https://www.arkansasonline.com/news/2020/feb/20/tape-trick-seen-as-showing-hurdles-for-/"
 type: article
 quality: 24
 heat: -1
@@ -53,6 +53,6 @@ related:
         width: 1920
         height: 1080
 
-secured: "4XuM5SQheZPJLJikqCQYbHwGFYVqdk52GTI/HYq6RF7GKyUavSpo+qh5K5+py+OskwQkWCrPY5HI/103PvjQalsZJfTF2X47dxytVNr2tFJQctqIxLv8HsgRcNdCSOI5ssDhHnMgC0/W82l84obFEv6puAEzksK6JA0jY1No4yZDoGPfRUKF76Yv7eZD+3wRpgecT6dVcMZXl887lvbNzT9czwqnEuSiPaARMzWRpyrZpVI3KitDobx7GjSBWlSVLxtU/zVATLCOWdESAwEgv3Wi28t9hXPdQdOkc/qiYmkT95XQkguEtoA//fcSUDin;PzusANVS65ShxKHPceV6Pg=="
+secured: "2avO2R5Y1b2RNGitu6OXtcckRZhqol4Q9vdu+58n40Q13gQbKZEpoC/ng5/hh8Rhx4f1dnSgJ/3LUg1q+EkZ1PrzHzLv8SFy89Apm1cK/uZncopZuAGAvxK0WWVaFYR0nsEr/LENhkbwg4KciqtZgqJu70PdcMPOK/7nTw59lrBeZWj4ixFO6scJn14gnrQiVKHedTOEb2s+gTIml+xDjio5wZ8bHgRlsQdJtJYUBfzpAt0GUVIAZanvtAVZmk5B5Kb4mzPhvhHiz5wO9+0ZOMgIky4ao1q9NbTp/VrJ8to0xQyQwNdYSUTn/1YpKc4l;aWeEaYz7ZV8CVdRPrNxu4w=="
 ---
 

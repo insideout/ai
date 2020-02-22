@@ -1,7 +1,7 @@
 ---
 category: news
 title: "The 10 Coolest, Silliest, and Most Borderline Insulting TV Pilots of 2020"
-excerpt: "There are plenty of theories about how her time with Hannibal impacted her, including one that insists she was being mind-controlled to ... starring Karl Urban about robot cops that was pretty ..."
+excerpt: "There are plenty of theories about how her time with Hannibal impacted her, including one that insists she was being mind-controlled to become a government assassin ... better known as that show starring Karl Urban about robot cops that was pretty good except when it was awful. This could end up being something interesting, or it could turn ..."
 publishedDateTime: 2020-01-28T17:24:00Z
 webUrl: "https://io9.gizmodo.com/the-10-coolest-silliest-and-most-borderline-insulting-1841305564"
 ampWebUrl: "https://io9.gizmodo.com/the-10-coolest-silliest-and-most-borderline-insulting-1841305564/amp"
@@ -29,6 +29,6 @@ images:
     height: 449
     title: "The 10 Coolest, Silliest, and Most Borderline Insulting TV Pilots of 2020"
 
-secured: "eY4z5T44XeVRQLPB9tJTpUVOAWMrBlcYuGAxi0FKSnfXbxOkHT7esf4SV9AWl3xwbe6mSaEMDIf/nLNrAFJelOmHpfa9c66Jt/Q6dtZSECx1D80vntB4dvXB7+wcd/umMgh3/Ne0tyWHgUeyIXoBEcto1nRrG9F53glGcsMqaUOno6AoLNC00t800F8lR+ytwzqIe5IynAnLA5HmA2WcGMnY80Sf+4zbW7Un1DE8FzxsrtzRH0+/rQapKrNc3HSCf7jdbMh0W0Ri5ojZ7xSNPtxDXJybfdrvS3qEhg85gMCjMDPOuPmQZSQhMX1LOnyS;rClfUpIC6S+v/9Nazqqnlw=="
+secured: "JKLZiP8TCBvUcMBW9hANjwk12WIGUMFnEO4y+OlGo5gd6bo048oJx7fd7WPTZkeeqBjUjFvHCLuIvEJ56GGartThyXqF2F5v5QS5gCdHgvXx6L7FuW3SQpeGAuHvC8T7+uRLS47mTxq1owOVsfnb1PqfteT90VpOYKP8JYXt94eDiacszJ3B08Nwwyg+h4wMJqJDIO0Dq50nGp+daUxa9J5RoNpJcraSUAH8dCyFlBfY55AyT025ngdISU11ow0KHrVl1shnGb3eI+ZHhr9vGHj/+XTn/525l8rOz18LvOAuwfeRoIoaudLqKs1h4qIC;B2t55Wg+w5xLuHWI3qRafw=="
 ---
 

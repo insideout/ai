@@ -23,6 +23,6 @@ images:
     height: 506
     title: "Army developing binoculars that can identify far-off faces in the dark"
 
-secured: "sXzdFcCTF2LfDcblq46t12ww2haF7h/YDs71/dzA8NuHjZvI7j4piExQY+v+L2J8wxk7C2HjHgAkHm3rLELYjX4tEzm89afXNQyMgW5LkyG48+BYNoeG1frckd9XSm4czGiZLPSIAqGMzu+jxhDSAmaSvx4cd/2d/zLlfxrgi2hc/bJy0gi/mqFgD6nb42PA5CmwVHH+hKpkRQ8fXOkc4elQNJcLib3eM/Uqa3YfucnRFwSrCVCEncM3d776Pi4YbtluJ7v36NzxpXHFLNhDy45W3xKucYhTZKGUh/KOsReL3USPBb6UsIfay85F1T5C;iD9+WiVPhm8MLRJD5yDPNA=="
+secured: "Jck63HrNGyW/OJ2SCdNcbhp1LqBAQCzIl4HCWjmDeM4zdas5Gb+smMqP0zAac9L9L7bPX+kJEtGLidksDgKW8PH0e+OvTCzldJ24FGj65mV0cLlbpNsS7qoy/mnWgXVd2DCixx9DoZEug00S/KZ1M7QxkP6mGlpFwCLtwJ5qYLW5XXS72y58FULQhED93zYkBny6iK1PP/wuver7akW4LHsTFxdBqbI+HA1bry8s8T4IxDjRlC727+VlldcQdE4tFHdH8YWLJY7lCn7wzFUre0szqINYqCYDgbavnkUlS0m4oq+PmzeQIQeo+7upRCrK;GzKnLzmbU1C4OzurvClHiw=="
 ---
 

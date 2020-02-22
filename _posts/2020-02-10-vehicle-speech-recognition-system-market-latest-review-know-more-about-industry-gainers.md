@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-10T09:27:00Z
 webUrl: "https://www.marketwatch.com/press-release/vehicle-speech-recognition-system-market-latest-review-know-more-about-industry-gainers-2020-02-10"
 type: article
 quality: 75
-heat: 105
+heat: 95
 published: true
 
 provider:
@@ -50,15 +50,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 15
-  - title: "North America Speech and Voice Recognition Market"
-    excerpt: "Data Bridge Market research has recently released expansive research report with titled \"North America Speech and voice recognition Market\". The report helps out the clients to tackle every strategic aspect including product development, product specification, exploring niche growth opportunities, application modelling, and new geographical ..."
-    publishedDateTime: 2020-02-07T13:42:00Z
-    webUrl: "https://www.openpr.com/news/1923721/north-america-speech-and-voice-recognition-market-2020-study"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 4
 
 secured: "Q0rRDSrqz3Of2iA3rJHNYiSSBCvoYTKzoCwTSSO81orrIIBVJOjs0rXMlNKd1uQZZuGEuqvAfE57B4lhhhuH/4iBxDHhch6m5SvTSejdkBMHN85K76+F/CVGxd9khRDTCfoiVZ7u4UEiFSdhG9XwgegoW4Jcog7rhzhd8bHpky3aKF9Uxn+Q5H8wMlxx1fjQZkBZdxOtbPeNEvx5XqfW8qr2YvZLwmDyaiNjESgyw0rXabVgp00cbhZHqillwX9RzUs6UzgPAQh1gzLSVt1n/Y0YQzOFDP1ubVD5LIBYxqDcTSNowLO7Qv9UwqzGo/mL;L+p+NgNDbvvsbQJ5VLoxsg=="
 ---

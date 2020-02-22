@@ -26,21 +26,6 @@ images:
     height: 480
     title: "Digital Transformation – Why Now?"
 
-related:
-  - title: "CitiusTech Announces Partnership with Google Cloud to Accelerate Digital Transformation for Healthcare Organizations"
-    excerpt: "... healthcare organizations through digital transformation in key areas such as data analytics, artificial intelligence, machine learning and hybrid cloud,\" said Manish Sharma, Sr. Vice President, Strategy & Partnerships at CitiusTech. \"Our combined technology will empower payers and providers to drive better outcomes and improve care quality.\""
-    publishedDateTime: 2020-02-07T13:34:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-citiustech-announces-partnership-with-google-cloud-accelerate-digital-/2020/02/07/9094107.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 16
-    images:
-      - url: "https://images.tmcnet.com/tmc/iot-mag/images/iot-mag-0115.jpg"
-        width: 252
-        height: 335
-
 secured: "+QMikM2sf5CElqbvzlFO//iB/WO3yotHTTAsUYQChNyE7dkhUM8tlk919jN+nj4ytNs5KjxnATWvG8pfyvHAO7bu7BxlBLAuGt6KZzqZgvzAHMRn9awN9GKlJZpoLt9oof1oV6QVLi1wtpAF5QVoI4ZVie/A5Skwb1DEd+QhSLBovm9Ku7FhsGrl4VdU8dLHaI84rRcu7UtywyOg147+K72FzGugsm6xLU8DTkFXuRvmAcTpPDlWIdfQTc0QZqm55KBSF3BfEP2Ppcdfbe/p7U6LLgtLzkrTpGUk0peaD+IN4ROkvEPTaxMxp88BlZohwsZwyUYdBnpgU0ZFUTg5D8jbHzFYofctB6tBuHtureitWN1SwlAOJGB1yQviX8aizfVWQLElA3F0Zb3pnY10fqgVflZt402CHduookQg1/8WJG8Bf2zBkm10YVLfrSUUCrQKhvFjThCN/z93RHMLnKXmLCnBwUSPBBToVWFOZMY=;LIDProHzq6xnLW2BpqUDvQ=="
 ---
 

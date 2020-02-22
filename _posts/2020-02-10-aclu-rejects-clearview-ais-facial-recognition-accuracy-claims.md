@@ -60,19 +60,6 @@ related:
       - url: "https://img.buzzfeed.com/buzzfeed-static/static/2020-02/10/16/asset/da869febf445/sub-buzz-274-1581350749-7.jpg?output-quality=auto&output-format=auto&downsize=640:*"
         width: 640
         height: 440
-  - title: "Facial Recognition Has Its Eye on the U.K."
-    excerpt: "For Americans concerned about a developing Big Brother at home, recent judicial and regulatory developments on facial recognition technology in the U.K. may provide a glimpse into a potential future. As the U.S. government and the U.S. public consider the potential future use and regulation of facial surveillance, the debate in the U.K. can ..."
-    publishedDateTime: 2020-02-07T13:41:00Z
-    webUrl: "https://www.lawfareblog.com/facial-recognition-has-its-eye-uk"
-    type: article
-    provider:
-      name: Lawfare
-      domain: lawfareblog.com
-    quality: 39
-    images:
-      - url: "https://lawfare.s3-us-west-2.amazonaws.com/staging/s3fs-public/20094558872_e897053335_c.jpg"
-        width: 800
-        height: 530
   - title: "Miami, LA Firms Sue Google Over Facial Recognition Photo Scans"
     excerpt: "Law firms in Miami and Los Angeles claim in a class action that the Google Photos service uses facial recognition technology that violates an Illinois biometric privacy law with stiff statutory penalties. The lawsuit filed in U.S. District Court for the Northern District of California claims Google failed to get the consent or written release ..."
     publishedDateTime: 2020-02-07T21:16:00Z

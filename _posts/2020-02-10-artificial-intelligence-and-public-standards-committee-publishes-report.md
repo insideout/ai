@@ -33,15 +33,6 @@ related:
       - url: "https://cdn.ttgtmedia.com/visuals/searchEnterpriseAI/ai-platforms/searchEnterpriseAI_023.png"
         width: 1200
         height: 400
-  - title: "Artificial Intelligence in Platform as a Service Market"
-    excerpt: "The latest market intelligence study on Artificial Intelligence in Platform as a Service relies on the statistics derived from both primary and secondary research to present insights pertaining to the forecasting model, opportunities, and competitive landscape of Artificial Intelligence in Platform as a Service market for the forecast period ..."
-    publishedDateTime: 2020-02-07T13:33:00Z
-    webUrl: "https://www.openpr.com/news/1923740/artificial-intelligence-in-platform-as-a-service-market-trends"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 17
 
 secured: "oENnl15Y+6XT1NhwznalFlN0zMY+W247tQorYFVxs8PPbk2j4fVbUjrTWpPOmMwQz9Ky9mzLdEoiVbhINCDB88wP3R1cDAGs37i3MakIh4znKgj7IaQBwrVllrxy+61U3r5QnOe/ODqCUKWkgp5PVj7Cd7576ecrfElmq5K8EVyBqre25BX3xNChs8h2Cx9Mi3VO3LHNMH2id+hCbghfLMD+C2gAfcmdZun1TVloFJlgY4psBcuqtdXkfMfa4bPhFbCuKBvtFDUmI3BsruSZeGh8Ba9qWVsx3Wi32OMV/LbQZwx3vic3KKcSzFFa7Pwh;bMMc0DygfUX3+++9EMW8dw=="
 ---

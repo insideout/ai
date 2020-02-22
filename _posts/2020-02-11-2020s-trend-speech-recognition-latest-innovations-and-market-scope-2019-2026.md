@@ -44,15 +44,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/01/09162857/voice-biometrics-large2.jpg"
         width: 900
         height: 499
-  - title: "North America Speech and Voice Recognition Market"
-    excerpt: "Data Bridge Market research has recently released expansive research report with titled \"North America Speech and voice recognition Market\". The report helps out the clients to tackle every strategic aspect including product development, product specification, exploring niche growth opportunities, application modelling, and new geographical ..."
-    publishedDateTime: 2020-02-07T13:42:00Z
-    webUrl: "https://www.openpr.com/news/1923721/north-america-speech-and-voice-recognition-market-2020-study"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 4
 
 secured: "Z+ucgRBt527+hORMKiFHo6YUbFRAWSxEknFxt9Z2PSxcul8kGmOV2xbnV5RdKxyrCh+j/khRe3curt3p5raH1JvX654dHCewnfT0XiebGsVCbU3SheQ+XxoKU9HjxZX0QCaHvxD3+dyGOon145xZIhhcdCU1RQU/1Q+A6br0HurbFZnwbNdck68zvv6RCqWaGneQz8tp5je4T7P9Lu/9XBUirxRPzKdn3qWH9HtVsq/SsoXo89XQoIFK9/hLe7fexxtPSHHkekotNu2w39r3dfxAeNAKlFVS/cd6JpdmMdTr6C/ZCk3tDs2tVx3QtydC;mreoAcctsrxB8yCW+2O97Q=="
 ---

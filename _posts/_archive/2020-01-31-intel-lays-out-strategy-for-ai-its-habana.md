@@ -29,6 +29,6 @@ images:
     height: 568
     title: "Intel Lays Out Strategy For AI: It’s Habana"
 
-secured: "MQe7MgoSsNxiWGjZQY1gPpbfWivFy57/8a77nMizEShG5p549L9BCRDmF30NwPLtY/lp5bDazzgQVyG6EriAhac06jdGkMo2Ge1n2fe9WBJr20pzHT7YtZ7ygI5PZK5Led4mn+TQ611mF1px0vJxwRjcu8KUv4gcvBI2brYSacNRTDUVUht7HahVWtshFeEt+KL44WKjW6XI7E2Qh8d3+uCwILlsPEA9uY5XH/1P0Ke1WNr6fI1BzqjERfR90/jMBfPCgab/OOD5fhAbYY6+TZ8r0U/dGAoGknqR+udC9W/Sk8nhUjEkdb6HRcNZTHTL;9yKzJtYq9k5JdhiKiewj7A=="
+secured: "WVn4/jEQ02xcc0VeETJC93geQ/4ApPqRlczNTirJKnoiWn/Vcb5ImD8CMm/2shCoBKjUencVhtqUxPHWpOTr249yZhQLOpYAHegKi4x12GPaNb9Iu7bd16y3NYi3LYuO6wTClfa4vUFz99gJ//NVMO0/vul8LRutfnbQ4UaNZrQuKgTiAZErbBE0Qo1HVudEwu4BAgHpLIdZyANwtDVWTA9ngvBENd/AjhpaZPKChIjqiSy3az17llCkjoQFLfdB1mOTriG7LentphzjHhudS8ahAa0/9DrNDszfLkCfXYe425OYJP21VjjPC5eZnz5N;Ww7a4uYr1L2el44snnNTEQ=="
 ---
 

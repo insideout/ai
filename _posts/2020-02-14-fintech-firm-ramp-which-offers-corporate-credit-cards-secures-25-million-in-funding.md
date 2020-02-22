@@ -71,19 +71,6 @@ related:
       - url: "https://media.bizj.us/view/img/725821/fundingstartupistockphoto*600xx3454-2303-0-182.jpg"
         width: 600
         height: 400
-  - title: "Dave Copps’ stealthy AI startup emerges with $10 million in backing"
-    excerpt: "“As the number of IoT devices continues to grow, so will the need for AI and machine learning solutions to help manage the massive influx of data these devices will create.” Worlds’ funding round continues the fast start this year for Dallas-based ..."
-    publishedDateTime: 2020-02-07T13:58:00Z
-    webUrl: "https://www.dallasnews.com/business/technology/2020/02/07/dave-copps-stealthy-ai-startup-comes-out-with-10-million-in-backing/"
-    type: article
-    provider:
-      name: Dallas Morning News
-      domain: dallasnews.com
-    quality: 37
-    images:
-      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/Nvbis_8VTU4PHPL2W_pxLvpoOP8=/1200x630/smart/filters:no_upscale()/arc-anglerfish-arc2-prod-dmn.s3.amazonaws.com/public/TOIOGQZAJP6BPQADYQ2HKTRVA4.png"
-        width: 1200
-        height: 630
   - title: "Docugami Announces $10 Million Seed Funding Round Led by SignalFire"
     excerpt: "former engineering manager for Microsoft Office and Azure. The Docugami science team is led by Luis Martí, an international expert in machine learning and evolutionary computing, and Steve DeRose, a renowned expert in natural language processing, computational linguistics, and standards related to document processing. The company’s business ..."
     publishedDateTime: 2020-02-11T15:04:00Z
