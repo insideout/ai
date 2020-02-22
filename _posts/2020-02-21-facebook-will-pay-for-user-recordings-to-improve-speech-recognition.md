@@ -287,6 +287,21 @@ related:
       - url: "https://www.wjbf.com/wp-content/uploads/sites/47/2016/02/facebook-logo-on-laptop-screen_36088381_ver1.0.jpg?w=1280&h=720&crop=1"
         width: 1280
         height: 720
+  - title: "Reports: Facebook offers up to $5 for voice recordings"
+    excerpt: "The company says that users' collected voice recordings will not be connected to Facebook profiles ... Facebook said on Wednesday it will pay $550 million in response to an Illinois-based class-action lawsuit against the facial recognition technology in its photo-labeling service, the New York Times reports. The big picture: The settlement ..."
+    publishedDateTime: 2020-02-22T17:43:00Z
+    webUrl: "https://www.axios.com/facebook-recording-speech-recognition-a3f4b813-d301-43ff-9d8b-a06cad0591a5.html"
+    ampWebUrl: "https://www.axios.com/facebook-recording-speech-recognition-a3f4b813-d301-43ff-9d8b-a06cad0591a5.html"
+    cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/facebook-recording-speech-recognition-a3f4b813-d301-43ff-9d8b-a06cad0591a5.html"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 44
+    images:
+      - url: "https://images.axios.com/V5g3DwWwcHd9GOG3xrFQxp-3PcE=/2020/02/22/1582389772887.jpg"
+        width: 3000
+        height: 2000
   - title: "Facebook is willing to pay users for just recording audio for voice recognition"
     excerpt: "San Francisco: Facebook has announced it will pay select users who agree to record their voice to improve its speech recognition technology. According to The Verge, the social networking giant company will pay select users to record snippets of audio through a new programme called \"Pronunciations\" in its Viewpoints market research app."
     publishedDateTime: 2020-02-21T07:07:00Z

@@ -45,21 +45,6 @@ related:
       - url: "https://cms.qz.com/wp-content/uploads/2020/02/RTSE2HG-e1581718030973.jpg?quality=75&strip=all&w=1400"
         width: 1400
         height: 787
-  - title: "Trump admin wants funding doubled to make US an AI powerhouse"
-    excerpt: "FACEBOOK'S FACIAL-RECOGNITION SETTLEMENT AMOUNT BREAKS RECORD The White ... The budget proposal on Monday will include a 70% increase for National Science Foundation (NSF) for AI-related grants and interdisciplinary research institutes, rising to more than $850 million, sources said, as well as a significant jump in funding at NSF for quantum ..."
-    publishedDateTime: 2020-02-08T00:57:00Z
-    webUrl: "https://www.foxbusiness.com/markets/trump-admin-wants-funding-doubled-to-make-us-an-ai-powerhouse"
-    ampWebUrl: "https://www.foxbusiness.com/markets/trump-admin-wants-funding-doubled-to-make-us-an-ai-powerhouse.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/markets/trump-admin-wants-funding-doubled-to-make-us-an-ai-powerhouse.amp"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 59
-    images:
-      - url: "http://media.foxbusiness.com/BrightCove/854081161001/202002/1906/854081161001_6129875769001_6129874072001-vs.jpg"
-        width: 1280
-        height: 720
   - title: "Trump splashes out on $4.8 trillion artificial intelligence plan"
     excerpt: "For several years, technologists have urged the Trump administration to back research on artificial intelligence -- which could affect things as diverse as weapons and transportation -- and ..."
     publishedDateTime: 2020-02-11T22:54:00Z

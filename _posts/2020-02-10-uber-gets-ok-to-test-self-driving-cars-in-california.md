@@ -149,19 +149,6 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 34
-  - title: "Self-driving cars are getting their own rules"
-    excerpt: "By granting an exemption to Nuro's self-driving delivery vans, the National Highway Traffic Safety Administration is beginning to pave the way for the driverless era. In China and Japan, high-tech cities are being developed as living laboratories to test automated vehicles, robots and artificial intelligence. Why it matters: The real-world ..."
-    publishedDateTime: 2020-02-08T00:30:00Z
-    webUrl: "https://www.axios.com/autonomous-vehicles-regulations-5f371552-7a5c-4d1a-a6ef-69db96964de7.html"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 24
-    images:
-      - url: "https://images.axios.com/GxIK2k7vNBGlfBeN5jj2xiCfRJM=/0x0:1920x1080/1920x1080/2020/02/07/1581095136579.jpg"
-        width: 1920
-        height: 1080
 
 secured: "xjXcXPl5NF2wumn/V5xIl39r8cTclNvu34E619aNCrgKZ5VXN7e910Ty5zurdQLPMcbEMXIXCN8iyJGUqfhOLplTMBsrZvRFQmS7gsHes3Siv0zoSHGTL8czKxlXXkOgAEBYoPF/rfKzI4UH5yV1BEo7cIkQmTSgTpSC1IDvv0cL4tYTbF/XM8JW25aB0yOuDTywnWLNB2AAKSzgR4U8nZI1m6tgn8bd0IffSueeKFSYJyjZLfV7RZ36BoISH37U8wwC868NJ9ZgUXm8OK8KB/p5U1rLieuCD8/oLQBjgSecG9IWbJnLdgNRMClZDKBWz0pR5PtkBFTHPAh58j6Td/e76w2dVLvHty/uVsG+uqiz4zLho6zUxH7TUqM1vCZ5z6Q7yl510OKzono8vMkRHBmEvsVSAII7iQzMQaoC9jpUdcTmyzmjFU4f4LFTXm2ubPeIAq8IgsSj3R86oA2bVWUiWTvAJRSF7rIUtg6YneI=;n9YS82jEfAzUUYHia4DSaQ=="
 ---

@@ -1,31 +1,29 @@
 ---
 category: news
-title: "Facebook will pay you for your voice recordings, but it’s not worth it"
-excerpt: "Last year, Facebook said it would stop listening to voice notes in messenger to improve its speech recognition technology. Now, the company is starting a new program where it will explicitly ask you to submit your recordings, and earn money in return. According to a report from The Verge, the social network is commencing this project ..."
-publishedDateTime: 2020-02-21T09:13:00Z
-webUrl: "https://thenextweb.com/facebook/2020/02/21/facebook-will-pay-you-for-your-voice-recordings-but-its-not-worth-it/"
+title: "Reports: Facebook offers up to $5 for voice recordings"
+excerpt: "The company says that users' collected voice recordings will not be connected to Facebook profiles ... Facebook said on Wednesday it will pay $550 million in response to an Illinois-based class-action lawsuit against the facial recognition technology in its photo-labeling service, the New York Times reports. The big picture: The settlement ..."
+publishedDateTime: 2020-02-22T17:43:00Z
+webUrl: "https://www.axios.com/facebook-recording-speech-recognition-a3f4b813-d301-43ff-9d8b-a06cad0591a5.html"
+ampWebUrl: "https://www.axios.com/facebook-recording-speech-recognition-a3f4b813-d301-43ff-9d8b-a06cad0591a5.html"
+cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/facebook-recording-speech-recognition-a3f4b813-d301-43ff-9d8b-a06cad0591a5.html"
 type: article
-quality: 54
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: The Next Web
-  domain: thenextweb.com
-  images:
-    - url: "/assets/images/organizations/thenextweb.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Axios
+  domain: axios.com
 
 topics:
   - AI
   - Natural Language Processing
 
 images:
-  - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/Facebook-recording-796x418.jpg"
-    width: 796
-    height: 418
-    title: "Facebook will pay you for your voice recordings, but it’s not worth it"
+  - url: "https://images.axios.com/V5g3DwWwcHd9GOG3xrFQxp-3PcE=/2020/02/22/1582389772887.jpg"
+    width: 3000
+    height: 2000
+    title: "Reports: Facebook offers up to $5 for voice recordings"
 
 related:
   - title: "Facebook will now pay you for your voice recordings"
@@ -133,6 +131,19 @@ related:
       - url: "https://www.thehindu.com/sci-tech/technology/uzp6oh/article30823445.ece/ALTERNATES/LANDSCAPE_615/FACEBOOK-PAID-POLITICAL-MEMES"
         width: 615
         height: 384
+  - title: "Facebook will pay you for your voice recordings, but it’s not worth it"
+    excerpt: "Last year, Facebook said it would stop listening to voice notes in messenger to improve its speech recognition technology. Now, the company is starting a new program where it will explicitly ask you to submit your recordings, and earn money in return. According to a report from The Verge, the social network is commencing this project ..."
+    publishedDateTime: 2020-02-21T09:13:00Z
+    webUrl: "https://thenextweb.com/facebook/2020/02/21/facebook-will-pay-you-for-your-voice-recordings-but-its-not-worth-it/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 54
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/Facebook-recording-796x418.jpg"
+        width: 796
+        height: 418
   - title: "Facebook willing to pay for your voice recordings as it works on speech recognition"
     excerpt: "If the firm indeed wants to improve its quality of speech recognition, casting as wide a net as possible seems the best route in our opinion. For now Facebook explains those who qualify will be required to record the phrase, “Hey Portal”, which is then followed by the name of a friend on your friend list. Given the key phrase above ..."
     publishedDateTime: 2020-02-21T09:00:00Z
@@ -288,21 +299,6 @@ related:
       - url: "https://www.wjbf.com/wp-content/uploads/sites/47/2016/02/facebook-logo-on-laptop-screen_36088381_ver1.0.jpg?w=1280&h=720&crop=1"
         width: 1280
         height: 720
-  - title: "Reports: Facebook offers up to $5 for voice recordings"
-    excerpt: "The company says that users' collected voice recordings will not be connected to Facebook profiles ... Facebook said on Wednesday it will pay $550 million in response to an Illinois-based class-action lawsuit against the facial recognition technology in its photo-labeling service, the New York Times reports. The big picture: The settlement ..."
-    publishedDateTime: 2020-02-22T17:43:00Z
-    webUrl: "https://www.axios.com/facebook-recording-speech-recognition-a3f4b813-d301-43ff-9d8b-a06cad0591a5.html"
-    ampWebUrl: "https://www.axios.com/facebook-recording-speech-recognition-a3f4b813-d301-43ff-9d8b-a06cad0591a5.html"
-    cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/facebook-recording-speech-recognition-a3f4b813-d301-43ff-9d8b-a06cad0591a5.html"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 44
-    images:
-      - url: "https://images.axios.com/V5g3DwWwcHd9GOG3xrFQxp-3PcE=/2020/02/22/1582389772887.jpg"
-        width: 3000
-        height: 2000
   - title: "Facebook is willing to pay users for just recording audio for voice recognition"
     excerpt: "San Francisco: Facebook has announced it will pay select users who agree to record their voice to improve its speech recognition technology. According to The Verge, the social networking giant company will pay select users to record snippets of audio through a new programme called \"Pronunciations\" in its Viewpoints market research app."
     publishedDateTime: 2020-02-21T07:07:00Z
@@ -452,6 +448,6 @@ related:
       domain: knowtechie.com
     quality: 0
 
-secured: "vXc5F6vR6ZrpQiMYnBpBxECdUmoUfdfY7yFr3kSTmfdiWF+ACi2rsSpMi1xlq+foyPNWr90YWBRlAWlIFQZamA0B/HqZPfmCfYCwp0V2fHwWBB2QFzaz7JwiomdzyGDDqzqgChRWGfWzn1mRlXVpffCop8teMPne9N/J4mBx+YldhXsyrMCpGf0wVC2eIXQ6JRiODGj7l4+A4ZvGTLh0h/Fjqyop1MAZ/aRV3Xzd9mfSTZ7YJxNPMErgxVbdtxZKdh3SM5Z924npFcUz9+4eOfqM9WJJwoavxC+l74xLB207K0z176DR8x/AD/AoSa3xawTGun3AJ5yjazXBR+VZTrrWBpj/HPv8eczr9M8OI0i99hUb09NRV1dtxMhLChQ1upM/u48ZpYRcfUMwn2CdjrWICaBiFLymoP/iCm2pVsFHIjnZvaBUhFUleA6aE9540wu8JBSu3isJJKeZHVajp0FTotPJVcHBVZkYlhOR8MI=;0Ysx0DQQfI2v/3roBGcc6Q=="
+secured: "BPx/DTcNS9xiYr/mM5gDYgPisGe6QK4QjzW0evdiViuyh0zbZuTHzGE9omgB0jDd+vMtT3V7JQVSwS/M9nqTn6vreZHO/qgnRqWoIh7kD16GQ+SnazbpaoLNMQnXtG+ivdXNyA2mFhS3KrDP7P+pkbUgslBVhX/kQlxuMA9wVt7WAvvN4sZxvrgfxKWGZpFv3dlsO/X1Lwj6tH5grZn193lE+vzCc267B8ZdIN7wiOtFKjdq8NPiDYIiBlH3VaHoEbNvkIjVNuHWjKbDpJRAk7olwbQryC6uPRlnMWgm9WU/aItT6O0qCSvfDY86qLBd;pvvL1sYx8T05+hgdnNbh7w=="
 ---
 

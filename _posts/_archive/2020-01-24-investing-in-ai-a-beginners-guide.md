@@ -29,6 +29,6 @@ images:
     height: 800
     title: "Investing in AI: A Beginner's Guide"
 
-secured: "aXee7p/BjoZzm3UztucAOghrAIwEWtBTMnIMc8o7Y1Wl8iTOkxIiTPLmz9REngZfU3K7ughoxpsvQxydUO1yiRHHHnOv67XKl5BewJSV6w9wPXM9xsD9JVOimV03BDCpA3PNn1uZ0ixibEtab0Dgzl7AEoNATKD4smcZbk5gtbRrClVfYD4HJsZQw9j6Ne5HHFk4zIiwUar913b4E8S4OSO4dxaufa+/Fwg+bQxejpGIuPXrQLSHdeEIGMf21ULRNpRO+z3BozcYX/V8FL+kQ37AL7JLvj4H8Z+n160QelpBOxBjdp9DB4khl7Uoz5o6;xZyruHH336xM0sgU1V3FHA=="
+secured: "QzY3+qGnnGF84vONt5JqLoSKR3pTXPKK/cYCEpLDsK3Z5rjp5EXxbX6xFlPy3Y4Ch99wX7/O++FeS91M8JbDGCnz1rl5kKPMdk1sDx93Xl1Ow7aS1z9cnbfzNbGkkvLZkaPnDElpi66iODLREK9N8b5t1BQDOnQ+XUPzCzHudQhFl3Yc8W7LmA9qCr1ToAy4dUwpd4mZL00iFrmkQe0Ryc+rv1CWQ68OurbrxjDVxNQEERk8xuMKKjvvahah8oC0VcKwCRQYtWytffBDnGVAfXeDjNbaLuqyVDSWT+vR3KD+Lk53CmFvKxR72Vg9X6KE;6PWjncnaXaWm782gi+emrg=="
 ---
 

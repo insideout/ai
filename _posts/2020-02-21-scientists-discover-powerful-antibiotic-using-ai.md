@@ -8,7 +8,7 @@ ampWebUrl: "https://www.bbc.com/news/amp/health-51586010"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/health-51586010"
 type: article
 quality: 87
-heat: 177
+heat: 178
 published: true
 
 provider:
@@ -145,6 +145,6 @@ related:
       domain: nature.com
     quality: 17
 
-secured: "hhX0rlzNwXDGm17lYg6E7YD1RaaeFXalb2aA0MH6akHFSeK/jDIAJ+VLLBmXpO62+i8yFeR7L3MOIgMT2fcKd0QV7DuGwKeRkChFBNeU6QuMsvKGuwS0kvpSJQ115bPddlBBTNCHzn4wwxSjQOBDWvxF8tmbcy1Zug9oC9UH4eybJhWQjIEkXPB0v+S0C6fWSSD4aQrbta9v/BerI2tDkKqA61x25nQj2q5nn58qSpK4E1TE3YJdyb4CByPw7LnUvXyQrRDDawkiOL7S66ZQjB720fRMcWrO9dS3Mv4fyQvipdvHDJrfLI25fkybpynjGsBtwS2Uy9jSsd6rP6mazwhTuzwQ5Xs6J0pDBQMwNmRtH1dgzzrJeAO+Nwt7umdazDhMlIj0HlVfNHmrVhexAgoAx0mPvQUyLFyn/5YibYa+MQJZY0hkZgykhAcf720xZpeyWVX48IbPKw1rqra6khyDiZ3RWexkm9WJDkxZGzg=;T/kwGuDBpfeuruZoWPR7Tg=="
+secured: "KRiPBuBRgVgOfZxbbR/oVrG2wZqCSJxUmjMJjUs0NL3dKPlPXxCQKS17N3KP2sTO5flPVGxt6VLMVc+jbURftxi9BsfUyLHem6ObUB2DAgA+mbLuHxosBeJ/qvJZPKmaJghUZnFfaH1ixpGGpRqrAuKXPUy0xsj8IYXQgrEDva3vMY9GceSof4bafHpCzKOMej+9u3ZF/ZecNCgPBgF1U7sqqZRQG/9R4z3RnBvGc70dbUyfnJFdWJAKK5MparsiXkmTyP3czn8coWvyGehL2PE1iESxezwAXJRZhr8bI3ewZfz4WlyoJ3txXNMUvNaHsb1FqxdLE41dbMAybI6DoI6m5PvLTJ94zjme+Lw/tPCfjM4k5ZRf3r9+u4fRUy2EDgfICR978q3gxnquHmD0CziwkGi648ztc4tgfrpaodO38Vj0cXUGDv5s6xn+lfRXlCpbtyA546qzQApeC5B9cBBH98nLYUCBMON3RgSJXA0=;5hL+pAgy9/xNaWZex/od+A=="
 ---
 

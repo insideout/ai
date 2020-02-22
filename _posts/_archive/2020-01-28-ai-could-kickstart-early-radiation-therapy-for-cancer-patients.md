@@ -51,6 +51,6 @@ related:
       domain: medicalxpress.com
     quality: 54
 
-secured: "zDKyEG8Kh2v3mMXsKrqGDy68/WQFZiLynnOp9SfqQFE3KCAOJhfXPEy0yRNtQYeuvQcYvDeFOpMVHKMvGhdKNJQLlcSqOJ040/twhABKx+ikpRru2eTC9OU85nJ142G5Bo3nns31aQ5V36OJArCkmtpFhAdG83a4FaYJsddKhDq6BHgj+YYasSr7aOKp14hvaEG3dpsk0meFMS0Mxrkf+RZAujxDvknIacTqplEmuWpCKCA/q7OBQOndduMmbnZPNRL+ZW9qnlT/CG3TT83WgnM/Wvc3lb3c+XFNLRus+HjeGOfCEq36BOmZHa3qMqyF;F0Rb4sBvxxHDRZ5v+sQJUA=="
+secured: "GJQN+52d5ezGr2l9kO3fw8FCHaFvYrJZArdJsJL8suexqo595IRycgp88xN0HltrO+b9RFV7QAGd3Nwe9Ng5jyt5UqMCQT6uXPVKMsrNo+xFDCeIzdGVo1JBgjdZcBJkauqGG2SmoIzp7cza5HBDRa1L3d4iEIsBBSWmIUU2L7BR4GJpaSRCtm4nO2icmlXxBtcJVDegRiPYa6yCoykfy6FjuiihsovVeJ/KGkTazfq6ISVp1K+oOrdPM9D1yllYODbqWhWm37+SpuHF3GVB7EiG3+zk/rSvXhEWqOjcFDhzGv8/tjuxvrrkRnwy6LRb;UmclON8Ht1s8GBcA8nV2OA=="
 ---
 

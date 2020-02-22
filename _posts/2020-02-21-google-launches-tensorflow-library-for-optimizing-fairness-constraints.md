@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-21T22:21:00Z
 webUrl: "https://venturebeat.com/2020/02/21/google-launches-tensorflow-library-for-optimizing-fairness-constraints/"
 type: article
 quality: 84
-heat: 84
+heat: 85
 published: true
 
 provider:
@@ -27,6 +27,6 @@ images:
     height: 600
     title: "Google launches TensorFlow library for optimizing fairness constraints"
 
-secured: "94SvKHPrYrxWmZmhp+qxXM4BKDb1AGWDsSZ51qaSTabosSNbxr9m80lGwzFJ3FvPN/+DWCRcxPDM2yUwqIgK4uvtS7pZ1pT70jwErvwPrCNrjCZVS7Fap9c2b/D3WJQwGoZ6F7IQ/58kL3R3Z+niyC1voz0i5DJfzYOWdxWezAJmITt5Iy8UX+emlfV38lqAh5jM4C2kC8EjWKIr4S9B6SItdAG+Cqq7PHvp4E7bdBkisOOXNCHUKVs0lqHs6frlyrvb2Hv6dIJNYUA1nv2oU//6x8dw4XYGgK3HesNuELoL2egHM8iO+Ig5GDUAbXk50jOAdBnfXPgz33Eik1/HGhWK+vl0dQgN2n4DF1peDGwYXEHczM4HcJdziR2cy/D0vYnCJvrjXZJrsUqhkCV4e0oP0ynbTrLHNGsBw3Jmakxf6PTs3AkOOqUqZrjsJ9N26aq1Xu2+T4HpoVxCBKlHbdw5/ajdzdmmeMZOAip5NTw=;Bqe9VQiFDhos/LDk0WDYyA=="
+secured: "0AGjgPzYLd8Bg2vhTKh6XzRbxlZYhLuQHKjet9eJKOwBWYtNNzuRLBHi8O1sVGgRTKu9oU3T1jkI2Eyn33ivaYYeLiKJCLC58/MjNflK7wv91HCqJhIDArQd/J+GOOsbwU0ZdLB3IIZDVxXupk7gRS0livZcoXQQktqIzAuCx+06wpAx1VlrN8N1TSYAMqVjUCixf1f9w7DtinptaF27KXKpkiSyeQ19NRXBUJse96XM2QZ0x+vwlE65uL60prBshQSRNKWNr23CaeQ9eoajSGPzncdQVEQtz7RPvDxIb7NWPlQlk61zB2zJwr/gTAFAlrVYqSkuJOfdaPimzYnMrqR7AHuu4hU2RsWwqO8sJyocU5LHrCy3z+Vkft5BD4RkNqQl6BH6pBBCtEdjrmEOwlvj/kcFZ7gDpUTnoBzWYA4dvtZBkV/qEopX/yLgjK3b4UioFEjpUmvcFL6klYxl+VGJbVuP7i5w/o+M1vowJL8=;3kn3Yi83tSc9fdXvsRuoHw=="
 ---
 
