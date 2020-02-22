@@ -36,19 +36,6 @@ related:
       - url: "https://i.insider.com/5e42b9522dae5c3e3c424764?width=1200&format=jpeg"
         width: 1200
         height: 600
-  - title: "FDA Authorizes Marketing of First Cardiac Ultrasound Software That Uses Artificial Intelligence to Guide User"
-    excerpt: "/PRNewswire/ -- Today, the U.S. Food and Drug Administration authorized marketing of software to assist medical professionals in the acquisition of"
-    publishedDateTime: 2020-02-07T17:57:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/fda-authorizes-marketing-of-first-cardiac-ultrasound-software-that-uses-artificial-intelligence-to-guide-user-301001084.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 18
-    images:
-      - url: "https://mma.prnewswire.com/media/317925/FDA_Logo.jpg?p=facebook"
-        width: 2423
-        height: 1269
 
 secured: "O/1zMictm4yYEu4cFOvkzheTgyZMYETf7uLD9Sb/nXIkEZWgdqcgG/Cc8042zY9PqTe05bzDNi6hWPmw/EkXKLk+NZodTe//oogQy373PlZwY6f8geCqcM4N1ZrYiLVnPtQzHfFspHIG7VpCjYEvrTTSZ4RsNfJCl524yH+cB28N7Pd3M5HVnLOnSAmY+FwIKU4PB/CpHxlqVClD8x0n0JNzF6/iiRewhdFc0yBoQcihw1RQNnsLb0uxpY/n9pLXZa3SDi5JJ1spV+vhEaj7mcmXxhOTVZM7mMsj5bu05m+YlGAqbks5yhWZULgqh+uBiTYaoHiSsogUdqloqe9S2x7q9n88f+bVeN/ecH1/9GrpMUtG2McNQjdJXyDgiW3df0fNKpncScXg5cCOFE2Skhp76wJP/2NbHH4P+i6iIaQf3GNCv2/wpTD9q+zHEklJDK5Uy+2DnoLVEP7qlfEoVYv4iFLCAErFnv1lL/QnobE=;PSCcJgElKQ9BtopEZYEPHA=="
 ---

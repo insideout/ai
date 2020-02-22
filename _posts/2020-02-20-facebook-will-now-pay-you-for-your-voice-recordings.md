@@ -8,7 +8,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/2/20/21145584/facebook-pa
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/20/21145584/facebook-pay-record-voice-speech-recognition-viewpoints-proununciations-app"
 type: article
 quality: 74
-heat: 345
+heat: 355
 published: true
 
 provider:
@@ -388,6 +388,17 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 19
+  - title: "Facebook is paying $5 to users! Check who all qualify to participate in its voice recognition programme"
+    excerpt: "Social media giant Facebook is offering USD 5 to some select users in a bid to improve its voice recognition technology. According to The Verge, Facebook will record the voice of some users through a new programme called “Pronounciations” in its Viewpoints market research app. The move comes after Google, Apple, Amazon and Microsoft had ..."
+    publishedDateTime: 2020-02-22T10:37:00Z
+    webUrl: "https://www.financialexpress.com/industry/technology/facebook-is-paying-5-to-users-check-who-all-qualify-to-participate-in-its-voice-recognition-programme/1875817/"
+    ampWebUrl: "https://www.financialexpress.com/industry/technology/facebook-is-paying-5-to-users-check-who-all-qualify-to-participate-in-its-voice-recognition-programme/1875817/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/facebook-is-paying-5-to-users-check-who-all-qualify-to-participate-in-its-voice-recognition-programme/1875817/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 8
   - title: "Facebook will pay you $5 for your voice recordings instead of just listening in for free"
     excerpt: "Those recordings will then help improve Facebook’s speech recognition technology, presumably so CEO Mark Zuckerberg will have someone to talk to once he alienates the rest of the world’s population… Those of you that want to take up this offer, might want to know what’s happening with your sultry tones. A new section in the Viewpoints ..."
     publishedDateTime: 2020-02-21T16:14:00Z
@@ -398,6 +409,6 @@ related:
       domain: knowtechie.com
     quality: 0
 
-secured: "VvtvNxM+3qFAWKD2/qtb0xNVsvY7SXDVEjodiVJuCCFRjpwGSuNBtKX4yl3QK2BxLjsOAmGn+7WmqxGMm+hdNdoFrpogLZ/5JJEio/of1lD9mdE1IwN2zt0IVuTCdUBAS0aOGIp9h3Ze0+ZsacZco/HAPN/DeemnpkxrH83Y5jaWCTjDQOVOCFkBVN3XaSxzV3mEtveSyymWWSN5GNgWeHWocG3ct3W/ON9AXss/2zaw29n1CMMveih+AxWl+r/SpmyZuhyMJaTO4xRxfHoSS4o+NcIL5SR9+lLNcGsOVUoHHwfbxp6YxOP6+wUGMkWstFp6vmYP5fR9yrGfcPrySVHoNxwSDwHvG6khU1GEauoN+BVhTLcQPtUYt0Bdp/CICcbp8j0IcTzKMFAEHyGlB9pli7tAucIG1oxwFWSeO6p7B38ckYguWaHVKYXcMOyUkgnuTrQQcuTVFEoy409O8w14RGV7kgQNVaAcIROZGQ4=;H5Y2TIyBrw9aWnqrUalOzg=="
+secured: "OIaypqVS20RVq45PbiDKlBsZi80qVdJSjlUroWXjcjPvaDStJ08/W6Xzx7FhSKWQ/wXSr4rzen779iMBtWC/NaN/oERdOuf5kPQw1z6MTdB9PIwA5ftve7XofIkBf4YtwQ8iCSHCPZ5yu3H0iKKlPFG4CV5AOeBhFn8bO6z7dHobvrOasRIREAiWOVjW55tWejhKugcowLZf32BCKQAVtTgq9gpeDLrAIMHQQDm098xHE+9byGdkzi8Tvs9LnTFiVrCkLwh+PYYNocpyWOp1BZ0KJhH5b5zYOfTFVYyDV3DsV5GmvdFFrBt96GRjqPeOAwdnlMfdJZ4ktYo0QYoihiFdCU8ccOOfuZDDqma3l2Ssxoabl+J2vfKEoAhIlWLOP5MXmv9Av4JeZJoCAeK1j3EvRxlDVmkk/Mq6MyZ4FBfdnVYcgXtQgC3FR7Qb+V8CafyneDazCKnbkAR8+feAmrIEYt3vrS4zk4+vvTBPApA=;yDTrvNvsu7mlbPw+FVPXrA=="
 ---
 

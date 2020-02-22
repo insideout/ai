@@ -157,19 +157,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Global Machine Learning in Automobile Market 2020, by Applications, Industry Profiles, Trends, Technology, Demand and Opportunities to 2024"
-    excerpt: "Report on the Global Machine Learning in Automobile Market outlines the comprehensive study of market comprising overview, production, producers, dimensions, income, price, consumption, growth rate, sales revenue,"
-    publishedDateTime: 2020-02-18T13:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-in-automobile-market-2020-by-applications-industry-profiles-trends-technology-demand-and-opportunities-to-2024-2020-02-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "Artificial Intelligence In Medical Imaging Market Emerging Trend and Global Demand 2020 to 2026 | Alphabet Inc. GOOG, Cisco Systems, Inc. CSCO"
     excerpt: "The latest market report on Artificial Intelligence In Medical Imaging 2020-26 offers an in-depth analysis of this business vertical involving key information concerning industry deliverables, predominantly market tendencies,"
     publishedDateTime: 2020-02-20T21:00:00Z

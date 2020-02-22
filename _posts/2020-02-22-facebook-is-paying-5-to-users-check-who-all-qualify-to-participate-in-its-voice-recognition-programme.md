@@ -1,29 +1,23 @@
 ---
 category: news
-title: "Facebook willing to pay for your voice recordings as it works on speech recognition"
-excerpt: "If the firm indeed wants to improve its quality of speech recognition, casting as wide a net as possible seems the best route in our opinion. For now Facebook explains those who qualify will be required to record the phrase, “Hey Portal”, which is then followed by the name of a friend on your friend list. Given the key phrase above ..."
-publishedDateTime: 2020-02-21T09:00:00Z
-webUrl: "https://www.htxt.co.za/2020/02/21/facebook-willing-to-pay-for-your-voice-recordings-as-it-works-on-speech-recognition/"
-ampWebUrl: "https://www.htxt.co.za/2020/02/21/facebook-willing-to-pay-for-your-voice-recordings-as-it-works-on-speech-recognition/amp/"
-cdnAmpWebUrl: "https://www-htxt-co-za.cdn.ampproject.org/c/s/www.htxt.co.za/2020/02/21/facebook-willing-to-pay-for-your-voice-recordings-as-it-works-on-speech-recognition/amp/"
+title: "Facebook is paying $5 to users! Check who all qualify to participate in its voice recognition programme"
+excerpt: "Social media giant Facebook is offering USD 5 to some select users in a bid to improve its voice recognition technology. According to The Verge, Facebook will record the voice of some users through a new programme called “Pronounciations” in its Viewpoints market research app. The move comes after Google, Apple, Amazon and Microsoft had ..."
+publishedDateTime: 2020-02-22T10:37:00Z
+webUrl: "https://www.financialexpress.com/industry/technology/facebook-is-paying-5-to-users-check-who-all-qualify-to-participate-in-its-voice-recognition-programme/1875817/"
+ampWebUrl: "https://www.financialexpress.com/industry/technology/facebook-is-paying-5-to-users-check-who-all-qualify-to-participate-in-its-voice-recognition-programme/1875817/lite/"
+cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/facebook-is-paying-5-to-users-check-who-all-qualify-to-participate-in-its-voice-recognition-programme/1875817/lite/"
 type: article
-quality: 53
+quality: 8
 heat: -1
 published: false
 
 provider:
-  name: Htxt.Africa
-  domain: htxt.co.za
+  name: The Financial Express
+  domain: financialexpress.com
 
 topics:
   - AI
   - Natural Language Processing
-
-images:
-  - url: "https://www.htxt.co.za/wp-content/uploads/2019/11/new-facebook-company-brand.jpg"
-    width: 1920
-    height: 1080
-    title: "Facebook willing to pay for your voice recordings as it works on speech recognition"
 
 related:
   - title: "Facebook will now pay you for your voice recordings"
@@ -144,6 +138,21 @@ related:
       - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/Facebook-recording-796x418.jpg"
         width: 796
         height: 418
+  - title: "Facebook willing to pay for your voice recordings as it works on speech recognition"
+    excerpt: "If the firm indeed wants to improve its quality of speech recognition, casting as wide a net as possible seems the best route in our opinion. For now Facebook explains those who qualify will be required to record the phrase, “Hey Portal”, which is then followed by the name of a friend on your friend list. Given the key phrase above ..."
+    publishedDateTime: 2020-02-21T09:00:00Z
+    webUrl: "https://www.htxt.co.za/2020/02/21/facebook-willing-to-pay-for-your-voice-recordings-as-it-works-on-speech-recognition/"
+    ampWebUrl: "https://www.htxt.co.za/2020/02/21/facebook-willing-to-pay-for-your-voice-recordings-as-it-works-on-speech-recognition/amp/"
+    cdnAmpWebUrl: "https://www-htxt-co-za.cdn.ampproject.org/c/s/www.htxt.co.za/2020/02/21/facebook-willing-to-pay-for-your-voice-recordings-as-it-works-on-speech-recognition/amp/"
+    type: article
+    provider:
+      name: Htxt.Africa
+      domain: htxt.co.za
+    quality: 53
+    images:
+      - url: "https://www.htxt.co.za/wp-content/uploads/2019/11/new-facebook-company-brand.jpg"
+        width: 1920
+        height: 1080
   - title: "Facebook will pay users $5 for their voice memo to improve speech detection"
     excerpt: "Facebook announced Thursday it plans to pay some users up to $5 for voice memos in an effort to better develop its speech recognition technology. The social media platform will slowly begin rolling out its “Pronunciations” program as part of its market research app Viewpoints, which it launched last November. The program announced today ..."
     publishedDateTime: 2020-02-20T22:56:00Z
@@ -384,17 +393,6 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 19
-  - title: "Facebook is paying $5 to users! Check who all qualify to participate in its voice recognition programme"
-    excerpt: "Social media giant Facebook is offering USD 5 to some select users in a bid to improve its voice recognition technology. According to The Verge, Facebook will record the voice of some users through a new programme called “Pronounciations” in its Viewpoints market research app. The move comes after Google, Apple, Amazon and Microsoft had ..."
-    publishedDateTime: 2020-02-22T10:37:00Z
-    webUrl: "https://www.financialexpress.com/industry/technology/facebook-is-paying-5-to-users-check-who-all-qualify-to-participate-in-its-voice-recognition-programme/1875817/"
-    ampWebUrl: "https://www.financialexpress.com/industry/technology/facebook-is-paying-5-to-users-check-who-all-qualify-to-participate-in-its-voice-recognition-programme/1875817/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/facebook-is-paying-5-to-users-check-who-all-qualify-to-participate-in-its-voice-recognition-programme/1875817/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 8
   - title: "Facebook will pay you $5 for your voice recordings instead of just listening in for free"
     excerpt: "Those recordings will then help improve Facebook’s speech recognition technology, presumably so CEO Mark Zuckerberg will have someone to talk to once he alienates the rest of the world’s population… Those of you that want to take up this offer, might want to know what’s happening with your sultry tones. A new section in the Viewpoints ..."
     publishedDateTime: 2020-02-21T16:14:00Z
@@ -405,6 +403,6 @@ related:
       domain: knowtechie.com
     quality: 0
 
-secured: "p0i44Phc0Pm1f8hmIjo3n2EpFmT73ZrkDQg12oOEQ9NL+grASCdFbVGm6/IqLS8BziOvSFfju9nTZ+frsSSqK4Ku7JBUMecIZUs6+8oAzZRszCel6l7nyNLBQ0gB1Sfz++JDTKNy1BDxGFd7E8DPCUexpAnziyBn4RyjVS9aHAXAtWwKQIEhzf9wx+OIY6X1G123pHtLL+3jcloP7ETVvjiNenT4EmqFVwm9j76+JQO+W419ltjDm83caonWSbRoTUxSX2QeVHRJOQSU6NWMuOjqLKefIy92qFY1hl2M5X4OWXPUEQWBCuqjoQh0APHfbLYeCba351owDQaDpWzPtjHIKF+EQhSG7K9nIhJqd6w5RkylPwCN/hAYdn+nrSO2+2A2rDA4/SK4eyhU1dXeTFvTAxGKZH4Mu1gaEXsKVu20DTQw0DzstVGic42qdhU9Npt+HEk6qb7AiYR9O344NaUP6GgiAAZh7cGzGzctRFw=;IC3uSHGLX1DRLOSetHrTLw=="
+secured: "K6P9BpbWHbygheKLiobhxu4RVyA94PThRbjYq+Rjijn2hD/UZmQBe/4KAt10cyysWO1E2S9T65bcdUPy15KWyyjhIi2KrxaRFE/pgLncPxrfo+bvxY8PmTNMHSR4G0MoIsSCdQbViARB5/NN2R3BNHmaGnaNgAjkEkmRhajnEWMfNlTCA+kRpX9FBKrbA20POqtrfoot66I441mEk/BVo2Tpm0pHAN5aj3twE5vAmmDrWUP9v95qI+6NlTYbsdAsEk12d1V/lSZRyyA4Cu0nMOAc0HL2YHiPyJBcC5KXyg1ouBMePWrDv6v/czN889dSaydQWWcSRkj6On8ZN9/T7gBPrQHSnMQgkSS7FiX3udLGNtCZyK1kSCuy7vP0S6PtBWlLgIhgXCJJSnsYHg/GHeI0p3dwY27FatpY+4iszd/G/TtpdGC7qr6G324y84Hj7SmqkRxWJmoSC6b9xGPuDkBOEVjF/2y21Q1H4gDe9v4=;shfE4HYL1QS3jES2BJ8pnw=="
 ---
 

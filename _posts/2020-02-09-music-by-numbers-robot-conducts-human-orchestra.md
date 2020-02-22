@@ -41,21 +41,6 @@ related:
       - url: "https://static.toiimg.com/photo/msid-74007661/74007661.jpg"
         width: 1200
         height: 900
-  - title: "Aleshia Howell column: Human rights for robots come with responsibilities"
-    excerpt: "A robot may not injure a human being or ... There is also the question of who owns intellectual property produced by artificial intelligence in the form of electronic persons who are afforded rights under the UDHR. Technically, these legal people should be compensated and retain ownership of their inventions, algorithms, and ideas; however ..."
-    publishedDateTime: 2020-02-07T17:17:00Z
-    webUrl: "https://www.savannahnow.com/opinion/20200207/aleshia-howell-column-human-rights-for-robots-come-with-responsibilities"
-    ampWebUrl: "https://www.savannahnow.com/opinion/20200207/aleshia-howell-column-human-rights-for-robots-come-with-responsibilities?template=ampart"
-    cdnAmpWebUrl: "https://www-savannahnow-com.cdn.ampproject.org/c/s/www.savannahnow.com/opinion/20200207/aleshia-howell-column-human-rights-for-robots-come-with-responsibilities?template=ampart"
-    type: article
-    provider:
-      name: Savannah Morning News
-      domain: savannahnow.com
-    quality: 58
-    images:
-      - url: "https://www.savannahnow.com/apps/pbcsi.dll/bilde?Site=GA&Date=20200207&Category=OPINION&ArtNo=200209374&Ref=AR"
-        width: 504
-        height: 704
 
 secured: "6gI2jLSM4i8ysG0POvBEURHwDH070UuO8sMd55GsUnD+TfvQ2SjZDnjHhkN2WTBtDhVCh9N5DyJ9UxJdHz8FhS4Blkl+fHfFXOJdYLLxcPPSCwb9dA/LZiB441e0FFV7v8Vui7iGnU0cmpcJk5Ah2Dd+E+irIuJXo0ecea63YhbAgw5gxoHxoet9+OAW80SPMWfdFCI4IvIpxb5mwZFQpkr0Py84D+eQ5Rj8Yqth78zfZYgTRpauM5SmZ9yXyKBNCo6GaSOlcpLezG5UCIw2gmGJm4fncTjTMnGp5rO8MXaun5wdaczEUzFPsqghH4gu;pDhSQWoCsZVzWRXSd1m3ew=="
 ---

@@ -391,6 +391,17 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 19
+  - title: "Facebook is paying $5 to users! Check who all qualify to participate in its voice recognition programme"
+    excerpt: "Social media giant Facebook is offering USD 5 to some select users in a bid to improve its voice recognition technology. According to The Verge, Facebook will record the voice of some users through a new programme called “Pronounciations” in its Viewpoints market research app. The move comes after Google, Apple, Amazon and Microsoft had ..."
+    publishedDateTime: 2020-02-22T10:37:00Z
+    webUrl: "https://www.financialexpress.com/industry/technology/facebook-is-paying-5-to-users-check-who-all-qualify-to-participate-in-its-voice-recognition-programme/1875817/"
+    ampWebUrl: "https://www.financialexpress.com/industry/technology/facebook-is-paying-5-to-users-check-who-all-qualify-to-participate-in-its-voice-recognition-programme/1875817/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/facebook-is-paying-5-to-users-check-who-all-qualify-to-participate-in-its-voice-recognition-programme/1875817/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 8
 
 secured: "CWP634vSrD31rme2PsiGY/tabNQoDfOZFcv3p62sNCcsqcDzDriKB2NqoHPGOB+ZwTAQsdgitywQPLX4ZQmdKQLifmhyrvtvJOa1kCUgZQATeYPLeP41lHBOth144KiZ9Jglknw0ZXPCMU6ATgZuzRcCwFEbQR5Z8U2fKVbHMYtI23Y47qgNqZoDqB3D+NA3EXJbvp81+cAYGiEkJiY5j/OlU44MnWszYOkodWMEVY86O0XjziwIRIjrKErv0hDl9niW3yki0Q80IedQWIWyOEyfPqZ3nlFkygNqog1DpO1Z5WqRWDY3T4kVmKibD4RDXKwg/dQ5Qww+q5JCluHl9S3MHrZFfgSDqQxskNLzsUDAmTW9WNfzIrReIKRXLoZnH58C1eRhYsQhBd3S2G5eETGGao/AW0+rw/U4DgtOuU1AN+vFvlPqu4PLno+ACOuoWL3zd3nKaj9pTP71nCSGwjSxlT6D8H8l22+Ww0EvlOw=;TOt+LLbzf4FB0V8VMqGg9w=="
 ---

@@ -24,19 +24,21 @@ images:
     title: "Development of an early-warning system for high-risk patients for suicide attempt using deep learning and electronic health records"
 
 related:
-  - title: "Assessing and mapping multi-hazard risk susceptibility using a machine learning technique"
-    excerpt: "The aim of the current study was to suggest a multi-hazard probability assessment in Fars Province, Shiraz City, and its four strategic watersheds. At first, we construct maps depicting the most effective factors on floods (12 factors), forest fires (10 factors), and landslides (10 factors), and used the Boruta algorithm to prioritize the ..."
-    publishedDateTime: 2020-02-21T10:14:00Z
-    webUrl: "https://www.nature.com/articles/s41598-020-60191-3"
+  - title: "Apple patents machine learning based maps system"
+    excerpt: "Apple appears to be working on a new system to correct GPS coordinates of its maps service. The company is planning to use machine learning for the correction of Global Navigation Satellite System (GNSS) data by obtaining data from consumer location. If implemented, this method will help the company improve the accuracy of its mapping service."
+    publishedDateTime: 2020-02-22T08:14:00Z
+    webUrl: "https://www.ilounge.com/news/apple-maps-ml-system"
+    ampWebUrl: "https://www.ilounge.com/news/apple-maps-ml-system/amp"
+    cdnAmpWebUrl: "https://www-ilounge-com.cdn.ampproject.org/c/s/www.ilounge.com/news/apple-maps-ml-system/amp"
     type: article
     provider:
-      name: Nature
-      domain: nature.com
-    quality: 30
+      name: iLounge
+      domain: ilounge.com
+    quality: 59
     images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-60191-3/MediaObjects/41598_2020_60191_Fig1_HTML.png"
-        width: 685
-        height: 529
+      - url: "https://www.ilounge.com/wp-content/uploads/2019/06/Apple-Maps-Look-Around-iOS-13.png"
+        width: 1450
+        height: 866
 
 secured: "3i2DwueIIl0MDZsZKV1JLscUghO+YNSm3zvu518FcMrLzM/ennXdFIRIp8fF4T+ztqRm1taQEocxES0xgs5GXPaUgTNNc5PukreNeOwe5nu52Jl6YSjwv+Ikn+WyaMuoz3GNN4CEoefdPW9832mpDDsibcMJb2SvVFmQoNv1fuQnMkqL2MGz4FqY7aPAepLNg0+2Oj7T//X9BkYterYNF02UP+70oXJ3/8lkNtxW6ioa9xJIAg9w0G5aWSVo7+Z9FnRBfqRRRCJWBBOxd1sHJKFKgN3rU6almd4cgJkxddo7e2rVhD12V4HqqmJKrD6N;NgLrwkMYwC4r4k891Mnwrw=="
 ---

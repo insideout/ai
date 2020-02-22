@@ -8,8 +8,8 @@ ampWebUrl: "https://m.timesofindia.com/life-style/spotlight/music-by-numbers-rob
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/life-style/spotlight/music-by-numbers-robot-conducts-human-orchestra/amp_articleshow/74007683.cms"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: India Times
@@ -41,21 +41,6 @@ related:
       - url: "http://www.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Feb2020/20200207_robot_r.jpg?h=215d3f1a&itok=_fCoJwA7"
         width: 600
         height: 316
-  - title: "Aleshia Howell column: Human rights for robots come with responsibilities"
-    excerpt: "A robot may not injure a human being or ... There is also the question of who owns intellectual property produced by artificial intelligence in the form of electronic persons who are afforded rights under the UDHR. Technically, these legal people should be compensated and retain ownership of their inventions, algorithms, and ideas; however ..."
-    publishedDateTime: 2020-02-07T17:17:00Z
-    webUrl: "https://www.savannahnow.com/opinion/20200207/aleshia-howell-column-human-rights-for-robots-come-with-responsibilities"
-    ampWebUrl: "https://www.savannahnow.com/opinion/20200207/aleshia-howell-column-human-rights-for-robots-come-with-responsibilities?template=ampart"
-    cdnAmpWebUrl: "https://www-savannahnow-com.cdn.ampproject.org/c/s/www.savannahnow.com/opinion/20200207/aleshia-howell-column-human-rights-for-robots-come-with-responsibilities?template=ampart"
-    type: article
-    provider:
-      name: Savannah Morning News
-      domain: savannahnow.com
-    quality: 58
-    images:
-      - url: "https://www.savannahnow.com/apps/pbcsi.dll/bilde?Site=GA&Date=20200207&Category=OPINION&ArtNo=200209374&Ref=AR"
-        width: 504
-        height: 704
 
 secured: "G1hpwykSV7r9L+paWHNboZGWCPV0Yj1xM5vz3A1QgRvdhe0xOdTkwVWroyWObvuZbtBlj26SGK8PRaJ+X9Gje/vVnI/NoDk0B4EbLRVPewnYfvXT4+sllNq8Bvv4jOt+vvs7A9VMN9ckmQhYYaXsgbSuJflI0UYBEPFtotnpA/swnIPGFWG920V90A0QtlRwThO5Y+hiXdf1kU3tEYMv6BoTz6yVHJpj1iwZNnUhdXMmD5dBVThoQJpByccfR2cQLeOzPhcPtw/Diq5YDl6UqJBFKN5wyv040GtdSttaXt+qhNyrXfqfXJ7TUYIXHPwZ;o9VnJWxWlRp7ECddhsztow=="
 ---

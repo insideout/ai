@@ -25,6 +25,6 @@ images:
     height: 505
     title: "Unbiased Surveillance: AI Security Tech That Spots Guns, Not People"
 
-secured: "eeFexr20IDZ6pkRr2PMy2DIIKF+bDp3OmymNAH0H5SMQ4+CFfE1gCp29VZYHoMzNHasyxDdGTf82qKF1D5e8T9+WExHH7FDvW5QMY5RBSIq82T+VIYoAHOIz6aCF6s5giEYqQjnK1t6ld5ueEshFqZb86fP2+686dOtZmXH5opPkJZzJdZfiJR615SlBnBxHe69hkuVg/NblxcaU2i8ZmBXR4Y4KjLPKyVwT7YWGDrZVuU6sMmGE+FM9WzjtVO5KcOsSu3g2A+iPuW8mIUK0EqHNd3xvg2ajtljyin7GQNvZlt5WM3Ez4pOXMNfafzig;OYK1TrYLVQZjQfAnfqwpEw=="
+secured: "rMxEv/AuzkNv+pVcB1i1o0UTjuFHoiAVnGegAQd3GCTwjJaQsgKsVuo1Z+VUzxsXjHeAzvd4NudBdUM12/FM/yIXdLwfQzYbfhWsF8EabFuNlKrMDJubDuF12rcjzPngdpWfC4HF8L2xU4+uOVIILYrITbLy0c/cvz680bsWhyjsD9Hs8O3pDEsiQb13f1HARp3Kf3JKVLV/qlGh6jKkxb373xNyAXVvwlYJPAdWlMQR4AGCE0tOvPh25XIpa2s6lA3z3K5NTmozesaLdm/j9U0kJZ4L15sp3DxF4Qx5kybBJhM/P+wVt3oBImEQUe94;+DgxPU9fM1clv0e/JQhFDQ=="
 ---
 

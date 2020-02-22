@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/83926-nuro-has-granted-nhtsa-first
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83926-nuro-has-granted-nhtsa-first-regulatory-exemption-custom.html"
 type: article
 quality: 58
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -88,19 +88,6 @@ related:
       - url: "https://images.axios.com/WAaKWDWilhZmV1aIrsnfnqOj4JQ=/2020/02/10/1581362650395.jpg"
         width: 1920
         height: 1080
-  - title: "US clears the way for self-driving vehicle with no steering wheel or pedals"
-    excerpt: "(CNN) -- The federal government has cleared the way for a Silicon Valley startup to deploy thousands of its self-driving delivery vehicles on US streets. Nuro, based in Mountain View, California,is now able to launch up to 5,000 of its R2autonomousvehicles over the next two years, according to the US Department of Transportation. The R2 has no ..."
-    publishedDateTime: 2020-02-07T18:06:00Z
-    webUrl: "https://cbs58.com/news/us-clears-the-way-for-self-driving-vehicle-with-no-steering-wheel-or-pedals"
-    type: article
-    provider:
-      name: CBS 58
-      domain: cbs58.com
-    quality: 22
-    images:
-      - url: "https://newscdn.weigelbroadcasting.com/WEsd0-1581098470-157079-blog-hypatia-h_6c542cd4da989a321201ee0792ec843c-h_380deb702e8624c8a7d02bce596b8943.jpg"
-        width: 3000
-        height: 2000
 
 secured: "gDWtbDym4EU9KQciGqPU9LlRnMAVkKMzPcfXtCLOf6ZAla/RqH6L4E+XgwtJA+FacB8r3WUcrGfwGohNapOWWq5PLXHQ+1NlRhUZC3fA4xz02CpjwrBRa7hc1B19/Zxh2z1+okVXIBGAEOHI2TSKyTJEpUYiqoYDymquDFMaU6U/zh4m53jyQdAPGV8WmTtbbzxG62l+WEtZI8H5dsAe1VUQM7QbVMWq8ptmuzQoDhcostW1deVMfoqoAw9kQMPevUIGOFH5l/MQ9SxeL0Oj5gXsDNuQAz3+pTLOZg7uT6Tkz65XPEogc12hokwPE2ujNCUMKDBaH3ZK7wsycullZaMrKkEzXmxfx2EtZ7DUz2aRFXtWJuzgz3yrs/ZV1boM8OlL4A2SfUCm5uIYS06ry5l4u98f8ox13haaf93r5M9tFrMhnQoyyEdUVkwEoV6gTCz6xxyPolJ2+n+tcEnmOFjV4g8RakyF0l+DWiuX+Po=;sRHWu8vqU6PtWDnQA6FkHA=="
 ---

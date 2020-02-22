@@ -23,6 +23,6 @@ images:
     height: 354
     title: "Nvidia Faces Huge Threat From Intel's Chiplet GPU Approach"
 
-secured: "UNq9ZilcPCQTh3lCt3kzI+geHK7dSDpMmHnv5mMc+5fDhLpYMuxCCfASfjCSJLpaQ+eoLsMO50qKIsGBlAvFTCstduccvtuCcDo/HDx9KXc+tHJTc0/gCTZD/0VDwg3Lggk4/rLNCdFefwOR12GAUbV2stCGMUPReh0mQOFI4k2hy+iIwvnd6Bh2zYjH9ZZp285bZ4vnQZP10SMNemsDaydQs0fU3IFewAbFiVa5u2ftwgGE7SZvUp/jBNdT1Ni11E2SLP2F229jsBE/S/v9+P7Jiqm+rOcnbOAt897Z+J3PUSg2dFAel81vybq5Eqax;jzDR6zR5Ogg6No9WkJCb8Q=="
+secured: "3eGLj01FwWqOlRYi2Egg24074/FdOKyMjVZgibWbjQO14bFy7acyo0UdIbGkLTpONO8iA8Nel8/AaMNY7Cn1Wk4NScv3TjwJnjYwND5B2Ow86xp4oybkwmZpY+xVP7gtZDM8sV67P5gD3LHHIv5m8BTjMoDjph/XvMp5YLiJwvMQfQbdeoUyb+IO/wntBUOfwD7fFVtPWsEd+Pgnrhv3WBYkqycnZo0wVFhCy5+7SXPYDb6rU9cP1Q5pQmjYOEyv/2f7Z/ocqgyzLwJVSqMza+kU7ffHPXu+M5Osepue5Rty4nYELO6VxHR97humQCML;WZl/+DpnyG++uGWuUzBIkQ=="
 ---
 

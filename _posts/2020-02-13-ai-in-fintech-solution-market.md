@@ -83,19 +83,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "International Emotion Recognition Market to Double by 2024"
-    excerpt: "The emotion recognition market includes both voice and facial recognition technologies, in addition to biosensors that can track other physiological markers. Of those, biosensors made up the biggest portion of the market in 2019, though voice recognition is expected to fuel much of the growth moving forward. According to MarketsandMarkets ..."
-    publishedDateTime: 2020-02-07T17:07:00Z
-    webUrl: "https://mobileidworld.com/biometrics-news-international-emotion-recognition-market-to-double-by-2024/"
-    type: article
-    provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
-    quality: 24
-    images:
-      - url: "https://mobileidworld.com/wp-content/uploads/chart.jpeg"
-        width: 400
-        height: 295
 
 secured: "UjQbwMYnckgCUv9JC9/tG7Ia++zdYYBlwHyYzemh9I7nGrtdFW2lrMi8ZsN5CEPPPyy4LiiqS5V+JCDkWn46n0TKzvigPRX8J1VI3xvIHyKR7NRprsL4ReodYGkFZOAmeamLC7qNlwREfiX7QPdGll9eZN0M9oukPvunt0mZDldBm9EiL7NksBuySYsfkE0zsVU6G/Fk2IJmZps3LVoAJ/GQ3uZ597NUZJnLitTUvLA04yIcbiL0hvn+aYXeyDmz3yPPNdwOUqlI1CyrcI0htvbkMISnRdNH+DYB58W4edHUfm2GymuKvHQSCWmRz9Oc;0XnymSwAab5kiObqFLhkCw=="
 ---

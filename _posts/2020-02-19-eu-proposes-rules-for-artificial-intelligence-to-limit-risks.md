@@ -1,69 +1,73 @@
 ---
 category: news
 title: "EU proposes rules for artificial intelligence to limit risks"
-excerpt: "LONDON (AP) — The European Union unveiled proposalsWednesday to regulate artificial intelligence that call for strict rules and safeguards on ... German government ministers announced plans to require companies like Facebook and YouTube to report certain forms of hate speech to the police and to provide the users' IP addresses."
-publishedDateTime: 2020-02-19T11:37:00Z
-webUrl: "https://www.abc27.com/news/us-world/tech/eu-proposes-rules-for-artificial-intelligence-to-limit-risks/"
-ampWebUrl: "https://www.abc27.com/news/us-world/tech/eu-proposes-rules-for-artificial-intelligence-to-limit-risks/amp/"
-cdnAmpWebUrl: "https://www-abc27-com.cdn.ampproject.org/c/s/www.abc27.com/news/us-world/tech/eu-proposes-rules-for-artificial-intelligence-to-limit-risks/amp/"
+excerpt: "The European Union is unveiling proposals to regulate artificial intelligence that call for strict rules and safeguards on risky applications of the emerging technology. The report"
+publishedDateTime: 2020-02-19T11:35:00Z
+webUrl: "https://www.kxan.com/news/international/eu-proposes-rules-for-artificial-intelligence-to-limit-risks/"
+ampWebUrl: "https://www.kxan.com/news/international/eu-proposes-rules-for-artificial-intelligence-to-limit-risks/amp/"
+cdnAmpWebUrl: "https://www-kxan-com.cdn.ampproject.org/c/s/www.kxan.com/news/international/eu-proposes-rules-for-artificial-intelligence-to-limit-risks/amp/"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: abc27.com
-  domain: abc27.com
+  name: KXAN
+  domain: kxan.com
 
 topics:
   - AI
-  - Facebook AI
+  - AI in Robotics
 
 images:
-  - url: "https://www.abc27.com/wp-content/uploads/sites/55/2020/02/26a5d5519fb44b4cbb90a8135709a722.jpg?w=1280&h=720&crop=1"
+  - url: "https://www.kxan.com/wp-content/uploads/sites/40/2020/02/26a5d5519fb44b4cbb90a8135709a722.jpg?w=1280&h=720&crop=1"
     width: 1280
     height: 720
     title: "EU proposes rules for artificial intelligence to limit risks"
 
 related:
-  - title: "EU Fights For ‘Purpose’ in Grand Plan for Tech, AI Rules"
-    excerpt: "China might have data and the U.S. might have money, but Europe has purpose. That’s the message European Union tech czar Margrethe Vestager aims to convey on Wednesday when she unveils plans to help the bloc compete with the U."
-    publishedDateTime: 2020-02-16T23:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2020-02-16/eu-to-launch-grand-plan-on-ai-tech-in-challenge-to-u-s-china"
-    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-02-16/eu-to-launch-grand-plan-on-ai-tech-in-challenge-to-u-s-china"
-    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-02-16/eu-to-launch-grand-plan-on-ai-tech-in-challenge-to-u-s-china"
+  - title: "Europe plans to strictly regulate high-risk AI technology"
+    excerpt: "By Nicholas Wallace Feb. 19, 2020 , 12:05 PM The European Commission today unveiled its plan to strictly regulate artificial intelligence (AI), distinguishing itself from more freewheeling approaches to the technology in the United States and China."
+    publishedDateTime: 2020-02-19T18:11:00Z
+    webUrl: "https://www.sciencemag.org/news/2020/02/europe-plans-strictly-regulate-high-risk-ai-technology"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 67
-  - title: "EU to Launch Grand Plan on AI, Tech In Challenge to U.S, China"
-    excerpt: "China might have data and the U.S. might have money, but Europe has purpose. That’s the message European Union tech czar Margrethe Vestager aims to convey on Wednesday when she unveils plans to help the bloc compete with the U."
-    publishedDateTime: 2020-02-16T23:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2020-02-16/eu-to-launch-grand-plan-on-ai-tech-in-challenge-to-u-s-china"
-    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-02-16/eu-to-launch-grand-plan-on-ai-tech-in-challenge-to-u-s-china"
-    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-02-16/eu-to-launch-grand-plan-on-ai-tech-in-challenge-to-u-s-china"
+      name: Science | AAAS
+      domain: sciencemag.org
+    quality: 139
+    images:
+      - url: "https://www.sciencemag.org/sites/default/files/styles/article_main_large/public/European_AI_Regulation_1280x720.jpg?itok=OAWMDBz_"
+        width: 1280
+        height: 720
+  - title: "EU proposes rules for artificial intelligence to limit risks"
+    excerpt: "The European Union unveiled proposalsWednesday to regulate artificial intelligence that call for strict rules and safeguards on risky applications of the rapidly developing technology. The report is part of the bloc's wider digital strategy aimed at maintaining its position as the global pacesetter on technological standards."
+    publishedDateTime: 2020-02-20T00:18:00Z
+    webUrl: "https://www.sfgate.com/business/technology/article/EU-proposes-rules-for-artificial-intelligence-to-15066968.php"
+    ampWebUrl: "https://www.sfgate.com/business/technology/amp/EU-proposes-rules-for-artificial-intelligence-to-15066968.php"
+    cdnAmpWebUrl: "https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/business/technology/amp/EU-proposes-rules-for-artificial-intelligence-to-15066968.php"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 67
-  - title: "EU to launch grand plan for AI, tech in challenge to US, China"
-    excerpt: "In the U.S., reports that police were using technology from Clearview AI -- a startup that’s scraped billions of photos from social media accounts with the aim of helping law enforcement find suspects without criminal records -- caused a backlash from privacy groups and lawmakers.The same groups are urging legislation to prevent abuses of a ..."
-    publishedDateTime: 2020-02-17T04:50:00Z
-    webUrl: "https://www.livemint.com/technology/tech-news/eu-to-launch-grand-plan-for-ai-tech-in-challenge-to-us-china-11581912099688.html"
-    ampWebUrl: "https://www.livemint.com/technology/tech-news/eu-to-launch-grand-plan-for-ai-tech-in-challenge-to-us-china/amp-11581912099688.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/eu-to-launch-grand-plan-for-ai-tech-in-challenge-to-us-china/amp-11581912099688.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
+      name: SFGate
+      domain: sfgate.com
     quality: 57
     images:
-      - url: "https://images.livemint.com/img/2020/02/17/600x338/2020-01-30T114805Z_148678691_RC2BQE9Y9Q8L_RTRMADP_3_EU-ANTITRUST_1581912675356_1581912712630.JPG"
-        width: 600
-        height: 338
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
+  - title: "EU Unveils Plans to Regulate Artificial Intelligence"
+    excerpt: "Margrethe Vestager, the EU’s digital policy chief, unveiled a strategy for artificial intelligence on Wednesday that aims to boost the use of AI in Europe while addressing concerns about data privacy. “We want every citizen, every employee, every business to stand a fair chance to reap the benefits of digitalization,” she said in a statement."
+    publishedDateTime: 2020-02-19T18:32:00Z
+    webUrl: "https://www.law.com/international-edition/2020/02/19/eu-unveils-plans-to-regulate-artificial-intelligence/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 37
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/378/2019/04/Artificial-Intelligence-Article-201904091050.jpg"
+        width: 620
+        height: 372
 
-secured: "vLqkG9/3FhKjqSIx/3pMD5dRxuDtuzps2Eu/GMgHkvuPJX+1hBr0IoHlFcwfn983mhVtVSGjZP7EMe37SRJiM5yCamK9zPMOeiFWyEUhVEArnHfUoeXq4iGslOqk8Hezmv3UMOy46n1dI8aAcNN+biZMRVLzexISRIvBD88H/O/lKto51SZo9WDCD5sniOK33e9U56Be2q8/EbwWI1YJn9MAbDALQ9Hg3YQo6ACUOqSNB+HsaZjNEzfBK0useTgjFlkCkB/PRy+YBda3h4qP657gjv6Wzb7JsK0zzn+Il4WEmfcxQvuRltg+Brmak3aD;EpMG5U9gJfj5m3ZAxK/Ddw=="
+secured: "ha+PIs4loqaCUQl6LkgHokMNV5uEzoVy/Cp8Vqm2ciYFkvlHZ4AlcnzB5zK949MJvt0q2X2F7XU08PgAwRCLq5S8BqNtZqGEOF6JbzyJUUy6VLGPKhUV7FEzayPUxFpsc/d5+FRqS20/7vORtlrWTh6CBf03HAewZz2bIEBY6p78rpyOzQEcnYYehs+ghZ49T1/tZe17r9AomgnTMWdNvR+WXscLWhC7L9dX0B9bS16n+PA/8MevtkwIE+dd6nUKZ8bZXrW62hU81FLDvKCGfO1LZee+54Y9tSZvto4sTY4aqQleTzqbZbc9UV9yXavC;9phhw2T8fRE+KiMNS4Jskw=="
 ---
 
