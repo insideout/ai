@@ -6,8 +6,8 @@ publishedDateTime: 2020-02-10T18:43:00Z
 webUrl: "https://medium.com/@venkat34.k/how-artificial-intelligence-will-change-the-retail-industry-in-2020-592fc2037d74"
 type: article
 quality: 82
-heat: -1
-published: false
+heat: 102
+published: true
 
 provider:
   name: Medium
@@ -27,49 +27,24 @@ images:
     title: "How Artificial Intelligence will Change the Retail Industry in 2020?"
 
 related:
-  - title: "The Rise Of The AI Agency In 2020"
-    excerpt: "In a world of increasing information and races to the bottom, AI is more obviously an important competitive advantage for many organizations."
-    publishedDateTime: 2020-02-07T12:48:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/02/07/the-rise-of-the-ai-agency-in-2020/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/02/07/the-rise-of-the-ai-agency-in-2020/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/07/the-rise-of-the-ai-agency-in-2020/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/711x493/https://specials-images.forbesimg.com/dam/imageserve/545163603/960x0.jpg?fit=scale"
-        width: 711
-        height: 493
-  - title: "China 2020: Rise of the AI driven Services"
-    excerpt: "Historically, Chinese technology companies were largely known for imitating successful business models in the US (such as Alibaba compared to Amazon or Baidu ... its self-driving car platform ..."
-    publishedDateTime: 2020-02-07T19:56:00Z
-    webUrl: "https://medium.com/@denisbarrier/china-2020-rise-of-the-ai-services-revolution-1192a7cd4818"
+  - title: "The 6 trends set to transform the video industry in 2020"
+    excerpt: "First, we analyze the title, synopsis and other metadata to get keywords, then use those to filter down the episode images using Amazon Rekognition. This platform can search actors, actions ..."
+    publishedDateTime: 2020-02-07T23:07:00Z
+    webUrl: "https://medium.com/@josesomolinos/the-6-trends-set-to-transform-the-video-industry-in-2020-4810d3e0762c"
     type: article
     provider:
       name: Medium
       domain: medium.com
-    quality: 69
-    images:
-      - url: "https://miro.medium.com/max/1200/1*p41V0ILqV5v14YumjuEc4w.jpeg"
-        width: 1200
-        height: 900
-  - title: "Love in the time of Artificial Intelligence"
-    excerpt: "The formidable third wheel in the romance between a man and a woman is… a hologram! Netflix’s newest and now-streaming K-drama My Holo Love takes on love in the time of Artificial Intelligence (AI). So-yeon is a woman who distances herself from people because of her face blindness disorder, which is described as the inability to recognize ..."
-    publishedDateTime: 2020-02-07T16:03:00Z
-    webUrl: "https://www.philstar.com/entertainment/2020/02/08/1991213/love-time-artificial-intelligence"
-    ampWebUrl: "https://www.philstar.com/entertainment/2020/02/08/1991213/love-time-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-philstar-com.cdn.ampproject.org/c/s/www.philstar.com/entertainment/2020/02/08/1991213/love-time-artificial-intelligence/amp/"
+    quality: 34
+  - title: "How artificial intelligence may aid the poultry industry"
+    excerpt: "Robots offer not only higher productivity and profits, but their presence can also contribute to improved health and welfare. robot-avcola-Octopus-granja-2 The most visible signs of employment of artificial intelligence on farm is in the form of robots that not only improve efficiency but benefit bird welfare. Octopus Robots Some robots ..."
+    publishedDateTime: 2020-02-17T18:22:00Z
+    webUrl: "https://www.wattagnet.com/articles/39650-how-artificial-intelligence-may-aid-the-poultry-industry"
     type: article
     provider:
-      name: philstar.com
-      domain: philstar.com
-    quality: 57
-    images:
-      - url: "https://media.philstar.com/photos/2020/02/07/kpop_2020-02-07_17-11-54414_thumbnail.jpg"
-        width: 686
-        height: 392
+      name: WATTAgNet
+      domain: wattagnet.com
+    quality: 34
 
 secured: "KVGOX+92agp4HIyB09Vx/o9XknKr0s/upowNGiTbI2ob54NCy+i4fM9EXeq+SBykOO3pnCp2+6P4GDDPrHGiVi8JFaw689zwEcs5Qm+/13EDjXOfbmG1peH/vbfF6YMC1X2ee9xJ/Lu/7au8pswkkrRo/5CXSEVEd8Grexm2LAc0v39l0R0pRzeqVFBgWFX/3cgag9kQ42Sz1JOix7TN/l7mfeklpzVYhW7TSIciAnj9fyIGnlVE2y9ay9y2WqEzJN7suDTmdIM5dwojLouGBmw0BZDGBbkQA/2dxM2Nqm9TpAa/zCPOlwqbQHomq2UF;2NB0Ac6/PlDeAF84rHidww=="
 ---

@@ -29,6 +29,6 @@ images:
     height: 1334
     title: "Apple's dismissal of 200 self-driving car employees points to a shift in its AI strategy"
 
-secured: "dCTaigyE/W2q16DGCOhiVuM18+vmswHyo1twOTbczOLG3a3zLZg+jD6I/cGkVBr8OYJIoKYSFj1buljVkh+WODthvfO043tOnwilPbD2HDycKLuONixJNW8gqdJhesDxeR3RsvvZBAlivUFt1h4eI24DDHY9fEU3plwZIdjw9b7N1Vo64GYbpkpN/R8ihha0zJeRKqtVEZr2rYQ33MAyq8lwZXZ4E5gaXQPtGMdWW6X7E0ndTqLth4nnaHj9mwVdjST48kvQboXWSpWRKotI+Diqabjk7XJrM7uzUoLae3YRYkR8h6tNi/p5TeEp6RfN;0QFGTOZ52vRIfy4qrTWVUw=="
+secured: "II+MAsfFx+hsMRL6fAbM+hRiWybA5UqqPsIb6lw0Prcc7iJ9M1fXpQd69UREUDcDJsw1EuPNeLZC8Tq/i4DPE1U4Bnh3qF2Gt+4gRqF0Uo3F7edAZz+fyD7dHNyT4BnB/8EnT0lSTRfMaXpLHH94tLuiM4560em1XP/U+/EhgDP27CSEzNYe/wrZEiFROnGvzA4dQg1veHOmYvIIuCrXMtE3Vwj6ouBluJw2etXTHVO0PGYotV9pvzpU4JuFlRofYOzG/LiVQrL15/GcEpCSU/2BiQrI0OINiQAYn1rXGEuFrNpkwEf7+9mbKFcSKKlf;L0UBiDSPRIc6ZwqSxO2kgQ=="
 ---
 

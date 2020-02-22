@@ -1,7 +1,7 @@
 ---
 category: news
 title: "EU proposes rules for artificial intelligence to limit risks"
-excerpt: "President of the European Commission Ursula von der Leyen looks at the invention ‘Do you Speak Robot?’ at the AI Xperience Center at the VUB (Vrije ... The European Union unveiled proposalsWednesday to regulate artificial intelligence that call for strict rules and safeguards on risky applications of the rapidly developing technology."
+excerpt: "President of the European Commission Ursula von der Leyen looks at the invention ‘Do you Speak Robot?’ at the AI Xperience Center at the VUB (Vrije Universiteit Brussel ... The decision clears the way for the trial of Al Hassan Ag Abdoul Aziz Ag Mohamed Ag Mahmoud to start later this year for alleged war crimes and crimes against humanity ..."
 publishedDateTime: 2020-02-19T11:32:00Z
 webUrl: "https://www.wtnh.com/news/international/eu-proposes-rules-for-artificial-intelligence-to-limit-risks/"
 ampWebUrl: "https://www.wtnh.com/news/international/eu-proposes-rules-for-artificial-intelligence-to-limit-risks/amp/"
@@ -122,6 +122,6 @@ related:
       domain: hbs.edu
     quality: 17
 
-secured: "jTbEbnedr6gHojK+0JCjgaZioLVWhN1LYQx1LVAtcv5LxZsWwHhy5O2FhH6+LtGmE50IvS1KYnTD0Eq0p0iEldj7jF56SzV2+a55AyUwhytVcyucc2KrpACJ6mpGsoe5weIfRPW8/h5VO9mMsScjU7kA/0QnVKO7lVmbDavxD8adjekVletr51maNscoRRn4/eBlFBgSellnD6qf1OfP3JiAlAmQNFkz2C+Ye2lWAwZr41nlBWINmYTphe3vs8SxiyVGkRHkoHLrf5VjLbFBiPXT2fla0VR5OYF0tNBaMI3NgaZugA6hGpdl/aQ78ANM;dL2qSTOm8yQ+yiO/gIAcLg=="
+secured: "OruSOO0osULFvurllFz4LQliycZ/k0Jd4ZHdbhBcYsy4zuC8dXnREVZJZlev9ZKLKkXJhfL0IQhwU5o29xN8tlan5MRwJG7TAggENtpvPUeS1WxZRQcFqn1/AUYxRE2QoVYVIWNSMgpA4Z0sXVgYG4mb+1dTel9gaA8myPrPyQk3Lx55i2abyz5CKM51t0EqXwaBl91S8BaiDB1PXiEG1sxErDHa5wTxmvlWC5PlTXmrWQefoFwer8wzQ22AT6YH0z2XDBSgM2I9rZInq2W/rusyEq58lPJUfECYundBTa+f7+3W293xSGeLxBGIIr4l;7PUFmWQh+OmEt81qy1aBSg=="
 ---
 

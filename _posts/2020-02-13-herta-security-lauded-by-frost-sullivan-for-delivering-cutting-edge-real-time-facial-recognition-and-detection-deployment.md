@@ -24,19 +24,6 @@ images:
     title: "Herta Security Lauded by Frost & Sullivan for Delivering Cutting-edge, Real-time Facial Recognition and Detection Deployment"
 
 related:
-  - title: "Facial Recognition Technology Uses at Homeland Security Department"
-    excerpt: "Homeland Security Department officials testify on how the agency uses facial recognition technology to conduct its mission."
-    publishedDateTime: 2020-02-07T12:41:00Z
-    webUrl: "https://www.c-span.org/video/?469047-1/homeland-security-officials-testify-facial-recognition-technology-usage"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 39
-    images:
-      - url: "https://images.c-span.org/Files/296/1581003713.jpg/Thumbs/height.630.no_border.width.1200.jpg"
-        width: 1200
-        height: 630
   - title: "Herta Security Lauded by Frost & Sullivan for Delivering Cutting-edge, Real-time Facial Recognition and Detection Deployment"
     excerpt: "/PRNewswire/ -- Based on its recent analysis of the European biometric surveillance solutions market, Frost & Sullivan recognizes Herta Security with the"
     publishedDateTime: 2020-02-12T15:40:00Z

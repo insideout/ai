@@ -25,6 +25,6 @@ images:
     height: 429
     title: "Google says its latest chatbot is the most human-like ever – trained on our species' best works: 341GB of social media"
 
-secured: "Sj9zwyAohB1XBQms2zJbpbzto1gv1G9p7wSyDM0mtYD6uNSUBBdXsbqC0ZC+0ievbUWUv+/msiCavSP1pmDsoUm4nXDKWp2CWbOjD0k6r4c4w1kwJYaYNy40QjB+PGExwX8pPRBUDl6ycVFQt9Gn4+IDJJkvz8TN/7N22k7ocYVNWYMHtI953ihOZuwGbJTZFCNNxUcDhv+iRmZEq0zkjfFQ1ckRUZPJ1MwkjdF1HX6ycNFOK7Ly2wqsJWyq2SC0JiYqv0TsLJeK3Z0GiTv/Oa0m+0HhmhVD4qQmJaH+qcvfbl2m3GfbO19zVSLchgjv;F2LVvNoYo9HlG7eXFX8Ulg=="
+secured: "m+tRbfzqDf/5KE68zdD6LbFUhlZ4Oijywxvs7voz+cJ/NDQkimtoVdaRAGbQpHyLlBP783FEshkzy4olD5/ah+cEhc9zsFKM2K98e6EuxCH3GiJUDGMpi/5HFvQfb+RykaU09wcRiHxf2v1VJzU+YtCt18RjwOzslC+ZWTGtBugWqIKhctTGRTnUwAUARtBNefkWFsCIc88VaTcRqF2OVvIdLuPvsqEB+IF3KFwGxp0z8hzg76FaZViCmT7MTFEWyS/iw5wH5hZsj4pw9BuUL9lMgXo+zEPrfA1vD9hI3q0InXPD2kmeHih1Oosza5LE;eKVBXOOAu+OWPbSC/BLK1A=="
 ---
 

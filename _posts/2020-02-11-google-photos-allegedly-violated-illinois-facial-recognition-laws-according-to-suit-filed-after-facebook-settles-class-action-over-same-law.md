@@ -123,19 +123,6 @@ related:
       - url: "https://www.technewsworld.com/article_images/story_graphics_xlarge/xl-2019-facial-recognition-1.jpg"
         width: 620
         height: 350
-  - title: "Facebook demands Clearview stop scraping images for facial recognition tech"
-    excerpt: "EPA-EFE/FELIPE TRUEBA Facebook has warned US-based tech company Clearview AI to stop using data scraped from its social networks for its facial recognition database. “Scraping people’s information violates our policies, which is why we’ve demanded that Clearview stop accessing or using information from Facebook or Instagram”, a Facebook ..."
-    publishedDateTime: 2020-02-07T12:48:00Z
-    webUrl: "https://www.neweurope.eu/article/facebook-demands-clearview-stop-scraping-images-for-facial-recognition-tech/"
-    type: article
-    provider:
-      name: New Europe
-      domain: neweurope.eu
-    quality: 37
-    images:
-      - url: "https://www.neweurope.eu/wp-content/uploads/2019/11/h_54166602.jpg"
-        width: 5379
-        height: 3551
   - title: "London police officially deploy facial recognition cameras"
     excerpt: "LONDON — London police started using facial recognition cameras on Tuesday to automatically scan for wanted people, as authorities adopt the technology that has raised concerns about increased surveillance and erosion of privacy. Surveillance cameras mounted on a blue police van monitored people coming out of a shopping center in Stratford ..."
     publishedDateTime: 2020-02-11T07:40:00Z

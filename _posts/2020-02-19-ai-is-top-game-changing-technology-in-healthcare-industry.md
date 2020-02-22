@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/sap/2020/02/19/ai-is-top-game-changing-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2020/02/19/ai-is-top-game-changing-technology-in-healthcare-industry/amp/"
 type: article
 quality: 104
-heat: 164
+heat: 174
 published: true
 
 provider:
@@ -97,6 +97,19 @@ related:
       - url: "https://vertassets.blob.core.windows.net/image/b61ec6d6/b61ec6d6-3bd5-4eb2-a2ec-0e9423fa3414/375_250-big_data.jpg"
         width: 375
         height: 249
+  - title: "Top AI Ted Talks to Watch for Acquiring Better Technology Outlook"
+    excerpt: "Technologist Kriti Sharma explores how the lack of diversity in tech is creeping into our AI, offering three ways we can start making more ethical algorithms. Matt Beane does field research on work involving robots to help us understand the implications of intelligent machines for the broader world of work. Any of his projects mean many ..."
+    publishedDateTime: 2020-02-22T05:38:00Z
+    webUrl: "https://www.analyticsinsight.net/top-ai-ted-talks-watch-acquiring-better-technology-outlook/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
+    images:
+      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/02/Top-AI-Ted-Talks-to-Watch-for-Acquiring-Better-Technology-Outlook.png"
+        width: 1640
+        height: 860
   - title: "AI in the Manufacturing Sector Market Analysis to 2025 | New Technologies Transforming the Global Industry"
     excerpt: "The hardware segment will continue dominating the AI in the manufacturing sector market on account of the increasing demand for AI processors across several industry verticals. Considering the AI processors,"
     publishedDateTime: 2020-02-18T10:28:00Z

@@ -93,6 +93,19 @@ related:
       - url: "https://media.kgw.com/assets/KGW/images/cf0b54f0-4b61-4a63-8c2b-90fb5755a70d/cf0b54f0-4b61-4a63-8c2b-90fb5755a70d_1140x641.jpg"
         width: 1140
         height: 641
+  - title: "Top AI Ted Talks to Watch for Acquiring Better Technology Outlook"
+    excerpt: "Technologist Kriti Sharma explores how the lack of diversity in tech is creeping into our AI, offering three ways we can start making more ethical algorithms. Matt Beane does field research on work involving robots to help us understand the implications of intelligent machines for the broader world of work. Any of his projects mean many ..."
+    publishedDateTime: 2020-02-22T05:38:00Z
+    webUrl: "https://www.analyticsinsight.net/top-ai-ted-talks-watch-acquiring-better-technology-outlook/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
+    images:
+      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/02/Top-AI-Ted-Talks-to-Watch-for-Acquiring-Better-Technology-Outlook.png"
+        width: 1640
+        height: 860
   - title: "AI in the Manufacturing Sector Market Analysis to 2025 | New Technologies Transforming the Global Industry"
     excerpt: "The hardware segment will continue dominating the AI in the manufacturing sector market on account of the increasing demand for AI processors across several industry verticals. Considering the AI processors,"
     publishedDateTime: 2020-02-18T10:28:00Z

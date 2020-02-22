@@ -39,19 +39,6 @@ related:
       - url: "https://i0.wp.com/www.mobileworldlive.com/wp-content/uploads/2020/01/London-IoT.png?fit=650%2C400&ssl=1"
         width: 650
         height: 400
-  - title: "BrainChip Showcases Vision and Learning Capabilities of its Akida Neural Processing IP and Device at tinyML Summit 2020"
-    excerpt: "\"We recognize the growing need for low-power machine learning for emerging applications and architectures and have worked diligently to provide a solution that performs complex neural network training and inference for these systems. We believe that as a high-performance and ultra-power neural processor, Akida is ideally suited to be ..."
-    publishedDateTime: 2020-02-07T13:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2020/02/07/9094090.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 30
-    images:
-      - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
-        width: 252
-        height: 335
   - title: "ARM’s Micro Neural Processing Unit, The Ethos-U55"
     excerpt: "Join The Register as they delve into these two chips as well as the larger Ethos-N77 processor. Deep-learning systems destined for these low-end microNPU-powered devices can be developed in any framework as long as it is eventually exported as a TensorFlow Lite or PyTorch Mobile model."
     publishedDateTime: 2020-02-11T18:41:00Z

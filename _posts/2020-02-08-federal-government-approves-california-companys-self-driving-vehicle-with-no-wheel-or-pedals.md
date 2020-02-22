@@ -80,15 +80,6 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 34
-  - title: "The feds just blessed a custom self-driving vehicle for the first time"
-    excerpt: "The National Highway Traffic Safety Administration on Thursday officially signed off on a new self-driving vehicle from the the delivery startup Nuro. It's an historic move; Nuro says it's the first time NHTSA has exempted a self-driving vehicle from regulatory requirements that apply to conventional vehicles. Nuro's new delivery vehicle ..."
-    publishedDateTime: 2020-02-07T12:30:00Z
-    webUrl: "https://arstechnica.com/cars/2020/02/the-feds-just-blessed-a-custom-self-driving-vehicle-for-the-first-time/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 34
   - title: "Self-driving vehicle law hits a speed bump"
     excerpt: "The big picture: Manufacturers and tech companies want federal rules of the road for their roll-out of self-driving vehicles. But trial lawyers, a powerful lobby, want key questions on liability in a driverless world answered before legislation advances. Driving the news: Daniel Hinkle, an attorney with the American Association for Justice ..."
     publishedDateTime: 2020-02-11T11:08:00Z

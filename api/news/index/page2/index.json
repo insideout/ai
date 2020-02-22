@@ -2,51 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_posts/2020-02-10-arms-new-edge-ai-chips-promise-iot-devices-that-wont-need-the-cloud.md",
-      "title": "ARM’s new edge AI chips promise IoT devices that won’t need the cloud",
-      "excerpt": "Edge AI is one of the biggest trends in chip technology. These are chips that run AI processing on the edge — or, in other words, on a device without a cloud connection. Apple recently bought a company that specializes in it, Google’s Coral initiative is meant to make it easier, and chipmaker ARM has already been working on it for years.",
-      "heat": 284,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theverge.com/2020/2/10/21130800/arm-new-edge-ai-chips-processing-npu-cortex-m55-u55-iot",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/2/10/21130800/arm-new-edge-ai-chips-processing-npu-cortex-m55-u55-iot",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/10/21130800/arm-new-edge-ai-chips-processing-npu-cortex-m55-u55-iot",
-      "publishedDateTime": "2020-02-10T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/-rDHx30xs1UWS9j8noL2vBx-200=/0x0:814x458/1400x933/filters:focal(342x164:472x294):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66283236/InfographicPreview.0.0.jpg",
-          "width": 814,
-          "height": 458,
-          "title": "ARM’s new edge AI chips promise IoT devices that won’t need the cloud",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_posts/2020-02-10-artificial-intelligence-ai-in-agriculture-market-industry-outlook-growth-prospects-and-key-opportunities-to-2026.md",
       "title": "Artificial Intelligence (AI) in Agriculture Market : Industry Outlook, Growth Prospects And Key Opportunities To 2026",
       "excerpt": "A new market research report by Big Market Research on Artificial Intelligence (AI) in Agriculture market reveals that the market is estimated to grow with a substantial growth rate from 2019-2026. This report is a valuable document for major players and the new entrants to scrutinize the market in detail.",
@@ -643,6 +598,50 @@
         "authors": null
       },
       "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-10-how-artificial-intelligence-will-change-the-retail-industry-in-2020.md",
+      "title": "How Artificial Intelligence will Change the Retail Industry in 2020?",
+      "excerpt": "Artificial intelligence is the hottest and most promising development in the tech landscape for years. According to the market, global Artificial Intelligence revenues increased from $ 643.7 million in 2016 to $ 36.8 billion in 2025. Almost all market segments, industries, and business domains are actively interested in AI and are looking to ...",
+      "heat": 102,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/@venkat34.k/how-artificial-intelligence-will-change-the-retail-industry-in-2020-592fc2037d74",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T10:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*KJGBPm15gz6RlWMu91EUWw.jpeg",
+          "width": 1200,
+          "height": 800,
+          "title": "How Artificial Intelligence will Change the Retail Industry in 2020?",
+          "attribution": null
+        }
+      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -1822,7 +1821,7 @@
       "path": "_posts/2020-02-11-arm-targets-iot-with-new-machine-learning-ip-processors.md",
       "title": "Arm targets IoT with new Machine Learning IP, processors",
       "excerpt": "The company added new machine learning (ML) IP, a new Cortex processor and neural processing unit (NPU) to its AI platform. In a statement, Arm said the combination of its latest IP with a related set of tools would provide hardware and software developers with more options for innovation when delivering on-device ML, while lowering overall ...",
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.mobileworldlive.com/featured-content/devices-home-banner/arm-targets-iot-with-new-machine-learning-ip-processors/",

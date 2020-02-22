@@ -27,6 +27,6 @@ images:
     height: 413
     title: "Install TensorFlow GPU on Ubuntu 18.04 LTS"
 
-secured: "XZ/eXMBD/gqYxINZexZvOlVeA54VzXBNshEYo7tibocqac4JS7nIt1ljCb/jnV6fC37SAKivlXeTc+HyR8ZG+ojvhsqp2NSENxFtkiWf35k2eZc+r8WflNgtpnbSm+KTD872DOTxKfsyUJLFA0zzKQ7W/H/aHfNOTDGGxNzMjb11mM0THc8gYnUnVTSGwBvicuPLWcc+e7ujVCX5+g5oPiJDIrSflfKnvVo5QwV3Ae1L+KxOQQ3UpeNrzlHTP9jRZOQhdCs2Pgsork1uGh8XieGDgmZ7KWiiWnVzJkNSJFtsT3Y0lIhsMU7T9wX5tw88;kkIc8aDYp6RJIODAJ0rAAg=="
+secured: "Gp+GenVt+vBKtaBo44QVxJ9yZT4UcEceMSsEd9Se/e2MIt4rSYRd1jUwtO/9p9d3+ANAg6tb0A+bV3QcXXFSmg//CwITcLeb7fqSRf24sG7B74LkE+qseMa1YPXpmBuZg2N+Crbl9DUI1bjo2dzWiaxmIVXo1dcX0YGocwFmfFvOOh4gKdjEOVTRkEo2EY5QirTBP/t7WeRFrULrL7JNeaYVF1jTmRR9pLvJ80qaHlWYHWkVZ52Deko+GoHosaRmFSKk8PyzSS8DYulMwt/ixRkEFSDY+Snw9LDo0jKmBts04ypECfcSTDVc94TLtHUe;LA2oZcRPiXOnh4x2DS50mQ=="
 ---
 

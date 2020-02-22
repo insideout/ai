@@ -22,32 +22,28 @@ topics:
   - AWS AI
 
 related:
-  - title: "Fintech in 2020: The Top 5 Trends, According to the Experts"
-    excerpt: "However, in order for any fintech platform–inclusive or exclusive–to be successful in 2020, most experts agree that “hyper-personalization” is key. Indeed, “customer [data], artificial intelligence (AI), and hyper-personalization will transform the UX on fintech platforms,” said Maarten Verweij, chief executive and founding partner ..."
-    publishedDateTime: 2020-02-07T14:11:00Z
-    webUrl: "https://www.financemagnates.com/fintech/news/fintech-in-2020-the-top-5-trends-according-to-the-experts/"
-    ampWebUrl: "https://www.financemagnates.com/fintech/news/fintech-in-2020-the-top-5-trends-according-to-the-experts/amp/"
-    cdnAmpWebUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/fintech/news/fintech-in-2020-the-top-5-trends-according-to-the-experts/amp/"
+  - title: "How Artificial Intelligence will Change the Retail Industry in 2020?"
+    excerpt: "Artificial intelligence is the hottest and most promising development in the tech landscape for years. According to the market, global Artificial Intelligence revenues increased from $ 643.7 million in 2016 to $ 36.8 billion in 2025. Almost all market segments, industries, and business domains are actively interested in AI and are looking to ..."
+    publishedDateTime: 2020-02-10T18:43:00Z
+    webUrl: "https://medium.com/@venkat34.k/how-artificial-intelligence-will-change-the-retail-industry-in-2020-592fc2037d74"
     type: article
     provider:
-      name: Finance Magnates
-      domain: financemagnates.com
-    quality: 44
+      name: Medium
+      domain: medium.com
+    quality: 82
     images:
-      - url: "https://www.financemagnates.com/wp-content/uploads/2018/05/Fintech-880x400.jpg"
-        width: 880
-        height: 400
-  - title: "Fintech Trends Everyone Should Look For in 2020"
-    excerpt: "Now, fintech companies can understand more about us through our online behaviour, browsing history and app usage on our likes and dislikes, preferences, credit and repayment history and more. With AI being omnipresent across multiple channels, fintech companies are looking to combine the power of both to deliver better services and experiences ..."
-    publishedDateTime: 2020-02-10T14:04:00Z
-    webUrl: "https://www.paymentsjournal.com/fintech-trends-everyone-should-look-for-in-2020/"
-    ampWebUrl: "https://www.paymentsjournal.com/fintech-trends-everyone-should-look-for-in-2020/amp/"
-    cdnAmpWebUrl: "https://www-paymentsjournal-com.cdn.ampproject.org/c/s/www.paymentsjournal.com/fintech-trends-everyone-should-look-for-in-2020/amp/"
+      - url: "https://miro.medium.com/max/1200/1*KJGBPm15gz6RlWMu91EUWw.jpeg"
+        width: 1200
+        height: 800
+  - title: "How artificial intelligence may aid the poultry industry"
+    excerpt: "Robots offer not only higher productivity and profits, but their presence can also contribute to improved health and welfare. robot-avcola-Octopus-granja-2 The most visible signs of employment of artificial intelligence on farm is in the form of robots that not only improve efficiency but benefit bird welfare. Octopus Robots Some robots ..."
+    publishedDateTime: 2020-02-17T18:22:00Z
+    webUrl: "https://www.wattagnet.com/articles/39650-how-artificial-intelligence-may-aid-the-poultry-industry"
     type: article
     provider:
-      name: PaymentsJournal
-      domain: paymentsjournal.com
-    quality: 24
+      name: WATTAgNet
+      domain: wattagnet.com
+    quality: 34
 
 secured: "fahm/sMuxdV1hQ0glFWUYUGyjwHqhxlBw2rEQyGmdaHMzRyE3qfMLH79T7vpxEUXBg1il6E6fA8yHGNqQMNI94FSLAX9GM8LI6Jt30xzt1YSMxuk3TIdrg0JTIPnggX2mAgXsAcLhRUhSdPztb8lUc4WAWF5lTpLg9z3v6zY2q/jrqnUb6Wg8+TI53TJ5oW/chqjoXZIuhSV+EeG6/IBPxjNzUzKZhLsYTUMh+SiTG0z52zcbW1qE9rvBTQi4vXEP3ceS4diJxL4FCIRftUIF7M11O9rpRRJ364NH1FoSKjjSr9Lp6uZfRy9vrIP3MmT;7phBCFU1k3B0nT2QaDoupA=="
 ---

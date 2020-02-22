@@ -1,27 +1,27 @@
 ---
 category: news
-title: "AI in healthcare: 5 big updates in the past 60 days"
-excerpt: "Artificial intelligence is making its way into the healthcare space, with big tech partnerships and investments leading the way. Here are five AI updates from around the healthcare industry. 1. Microsoft launched its $40 million AI for Health initiative on ..."
-publishedDateTime: 2020-02-18T17:53:00Z
-webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/ai-in-healthcare-5-big-updates-in-the-past-60-days.html"
+title: "Top AI Ted Talks to Watch for Acquiring Better Technology Outlook"
+excerpt: "Technologist Kriti Sharma explores how the lack of diversity in tech is creeping into our AI, offering three ways we can start making more ethical algorithms. Matt Beane does field research on work involving robots to help us understand the implications of intelligent machines for the broader world of work. Any of his projects mean many ..."
+publishedDateTime: 2020-02-22T05:38:00Z
+webUrl: "https://www.analyticsinsight.net/top-ai-ted-talks-watch-acquiring-better-technology-outlook/"
 type: article
-quality: 54
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Becker's Hospital Review
-  domain: beckershospitalreview.com
+  name: Analytics Insight
+  domain: analyticsinsight.net
 
 topics:
   - AI
-  - AI in Healthcare
+  - AI in Robotics
 
 images:
-  - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/3.jpg"
-    width: 400
-    height: 300
-    title: "AI in healthcare: 5 big updates in the past 60 days"
+  - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/02/Top-AI-Ted-Talks-to-Watch-for-Acquiring-Better-Technology-Outlook.png"
+    width: 1640
+    height: 860
+    title: "Top AI Ted Talks to Watch for Acquiring Better Technology Outlook"
 
 related:
   - title: "AI Is Top Game-Changing Technology In Healthcare Industry"
@@ -54,6 +54,19 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/941446382/960x0.jpg?fit=scale"
         width: 711
         height: 474
+  - title: "AI in healthcare: 5 big updates in the past 60 days"
+    excerpt: "Artificial intelligence is making its way into the healthcare space, with big tech partnerships and investments leading the way. Here are five AI updates from around the healthcare industry. 1. Microsoft launched its $40 million AI for Health initiative on ..."
+    publishedDateTime: 2020-02-18T17:53:00Z
+    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/ai-in-healthcare-5-big-updates-in-the-past-60-days.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/3.jpg"
+        width: 400
+        height: 300
   - title: "AI in Healthcare Market By Offering, By Technology, By Region – Trends, Analysis, and Forecast Till 2030"
     excerpt: "The research study on Global AI in Healthcare market 2019 presents an extensive analysis of current AI in Healthcare market size, drivers, trends, opportunities, challenges, as well as key AI in Healthcare market segments."
     publishedDateTime: 2020-02-17T07:35:00Z
@@ -93,19 +106,6 @@ related:
       - url: "https://vertassets.blob.core.windows.net/image/b61ec6d6/b61ec6d6-3bd5-4eb2-a2ec-0e9423fa3414/375_250-big_data.jpg"
         width: 375
         height: 249
-  - title: "Top AI Ted Talks to Watch for Acquiring Better Technology Outlook"
-    excerpt: "Technologist Kriti Sharma explores how the lack of diversity in tech is creeping into our AI, offering three ways we can start making more ethical algorithms. Matt Beane does field research on work involving robots to help us understand the implications of intelligent machines for the broader world of work. Any of his projects mean many ..."
-    publishedDateTime: 2020-02-22T05:38:00Z
-    webUrl: "https://www.analyticsinsight.net/top-ai-ted-talks-watch-acquiring-better-technology-outlook/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 39
-    images:
-      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/02/Top-AI-Ted-Talks-to-Watch-for-Acquiring-Better-Technology-Outlook.png"
-        width: 1640
-        height: 860
   - title: "AI in the Manufacturing Sector Market Analysis to 2025 | New Technologies Transforming the Global Industry"
     excerpt: "The hardware segment will continue dominating the AI in the manufacturing sector market on account of the increasing demand for AI processors across several industry verticals. Considering the AI processors,"
     publishedDateTime: 2020-02-18T10:28:00Z
@@ -116,6 +116,6 @@ related:
       domain: marketwatch.com
     quality: 29
 
-secured: "NyLoii9+6hMAcQ25G3m7Ij8S2ZX2rEawRFduEvdYMLf2xb+2VnRYIvbXUw3mlScuCDtxybQemHxILQbTP0h8BnYTTQYBLfiAMjfyQ+HJk4yc06PG88x2o+7ai01FUSsSq8IyutXWfrkpHmQh1bZod/Ue022RquR/pz1HxR8A8kwq/ibljb4YBRfGP2P3xr4EGjm7wZ/6NHV0Edr6gPgVH4+cPZV+VlsCYv2C99+cir9Rj2pDvnQ+tXMLojNJpe5RIpukBDVDwHHFJstAQY9REVYx0z3De+vbM8bCd3p6ukRCtzUrXyOEGPZz1Ynx8aD0;cyOaf4y/n7WWWsyIMwTYjw=="
+secured: "gwUGiwldOvKNx9VRsBIX4p0usf1pmWbeVf6GPH+R4KzvoIK6BAwvMkG+PBf4Y6SGcB+dmVGOLUSlnTqNpFIyBENr3KwXev/tELUbud1n0x4kVhlU7tfm7uRlae+fUmfU14B2hXC/AdudcXGIjmzlSgH92PkQXm+MBGkIydZupqBX0zhJSdacG/ohvzj/4vOajwu2PfJNhdJs3tRkuySkqwQONnuqete1s2JLPUsFTR6wKuMsaVHz4lUmooVsytroaWV4GXl7LlPG6dk9NR7K1mlDqG8VesDy5oXZamRZg36Pz4JE9g+ex+YZh8rQpZaC;o1JC5Ab9iLmChOoSWIgnwA=="
 ---
 

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.philstar.com/entertainment/2020/02/08/1991213/love-time-
 cdnAmpWebUrl: "https://www-philstar-com.cdn.ampproject.org/c/s/www.philstar.com/entertainment/2020/02/08/1991213/love-time-artificial-intelligence/amp/"
 type: article
 quality: 57
-heat: -1
+heat: 57
 published: false
 
 provider:
@@ -23,49 +23,6 @@ images:
     width: 686
     height: 392
     title: "Love in the time of Artificial Intelligence"
-
-related:
-  - title: "The Rise Of The AI Agency In 2020"
-    excerpt: "In a world of increasing information and races to the bottom, AI is more obviously an important competitive advantage for many organizations."
-    publishedDateTime: 2020-02-07T12:48:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/02/07/the-rise-of-the-ai-agency-in-2020/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/02/07/the-rise-of-the-ai-agency-in-2020/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/07/the-rise-of-the-ai-agency-in-2020/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/711x493/https://specials-images.forbesimg.com/dam/imageserve/545163603/960x0.jpg?fit=scale"
-        width: 711
-        height: 493
-  - title: "How Artificial Intelligence will Change the Retail Industry in 2020?"
-    excerpt: "Artificial intelligence is the hottest and most promising development in the tech landscape for years. According to the market, global Artificial Intelligence revenues increased from $ 643.7 million in 2016 to $ 36.8 billion in 2025. Almost all market segments, industries, and business domains are actively interested in AI and are looking to ..."
-    publishedDateTime: 2020-02-10T18:43:00Z
-    webUrl: "https://medium.com/@venkat34.k/how-artificial-intelligence-will-change-the-retail-industry-in-2020-592fc2037d74"
-    type: article
-    provider:
-      name: Medium
-      domain: medium.com
-    quality: 82
-    images:
-      - url: "https://miro.medium.com/max/1200/1*KJGBPm15gz6RlWMu91EUWw.jpeg"
-        width: 1200
-        height: 800
-  - title: "China 2020: Rise of the AI driven Services"
-    excerpt: "Historically, Chinese technology companies were largely known for imitating successful business models in the US (such as Alibaba compared to Amazon or Baidu ... its self-driving car platform ..."
-    publishedDateTime: 2020-02-07T19:56:00Z
-    webUrl: "https://medium.com/@denisbarrier/china-2020-rise-of-the-ai-services-revolution-1192a7cd4818"
-    type: article
-    provider:
-      name: Medium
-      domain: medium.com
-    quality: 69
-    images:
-      - url: "https://miro.medium.com/max/1200/1*p41V0ILqV5v14YumjuEc4w.jpeg"
-        width: 1200
-        height: 900
 
 secured: "spP2KsMPggO+WfrPFC5DV+hRyeFceTK+5M01PHYsAhifvC+Qx+qympPic5V9/0QmieOZh7xE5t1PY/jpYlBcUSn+THTC8tDlLRY8kbpIdK2sifS1bPdbPALbygvfvh1jqVRsd2Hth1BxKy5xy0wNDSUMm8OALNRO+fxAIQP4pnnnIxe2G60zb5TUcBOiCrfONIuVXKjP183SMTS+K9agFDlsYd5IeYWSUrMIFi7TF+1TBl/EGZuBamF29JJbdfilqEDBmKLQnOn7385Juyhj22ToJQ4lF5rP5S5eGne06g+2D9Q1AVFuifx82a3c+NOL;KBjdhgryF8OhABq4QxSBBA=="
 ---

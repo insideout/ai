@@ -23,6 +23,6 @@ images:
     height: 751
     title: "AI Without the Costly GPU Chips? Seattle Startup Xnor.ai Sees a Way"
 
-secured: "WH9YNE1+C9kq9ysGBXaG9Rv4G6L6fFK2Ryv/K3jdpJWB5cxo9cRo9kb1Jq9dNjbG3vxgsnDLJcaVjhRoiJ4tHVfNH4CPP+s2D7jBEejOVyXLC+mJDsHO2WQ4sPiZuYnDSnt20C4NjhWtEc/riloWuMjBzZESLdUDbOBdZHSP6UuSGUE0hXaARJgWEPjJv5cJ5RZkBkkXjjdFieQhXRmkV2Ml/x+Mp6zy1y9t6UqV5tP0ULcJCY7a5YnjvFSJiuirxAwEmzRqkAS7cEb5EJhMRTJPyFKDN1CvuQxPD+9PFEbiMZfkqiNpaATv+3SByPrH;HuKZAadP7VwhPJM0ur5oBQ=="
+secured: "zaD0CasCvLeNCpbkSmitqdm0g1IeJthCmJ32eBsw3zrazQ6DZEIadNTE9BZls++cyGAkMbkwSg2GiBkdBklPeXdLx1ST/tBsc9ezRjf4rIB9MuakriBOa2bqGfzLk9+6JtD5DYRAdBfz4RfcW4kLBDjK8FoYiIlSfwDlUprn0P9IYNBMqUx3rr+6kIAvqk77qyM0hfh71pH+0m6KeBNgw3osrYVu0LT7SI1zfMJeMLu2jQHoVcnYMz/S49YY0BdnRVBu+WkCHQVkQ4Db2p+myZIgepOp+2/7J7y8wzH+x5VeJO7S39CepkDqYmo1EbIJ;4sodIMLNhNOiSFvuwWsNqQ=="
 ---
 

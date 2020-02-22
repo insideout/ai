@@ -113,19 +113,6 @@ related:
       - url: "https://www.technewsworld.com/article_images/story_graphics_xlarge/xl-2019-facial-recognition-1.jpg"
         width: 620
         height: 350
-  - title: "Facebook demands Clearview stop scraping images for facial recognition tech"
-    excerpt: "EPA-EFE/FELIPE TRUEBA Facebook has warned US-based tech company Clearview AI to stop using data scraped from its social networks for its facial recognition database. “Scraping people’s information violates our policies, which is why we’ve demanded that Clearview stop accessing or using information from Facebook or Instagram”, a Facebook ..."
-    publishedDateTime: 2020-02-07T12:48:00Z
-    webUrl: "https://www.neweurope.eu/article/facebook-demands-clearview-stop-scraping-images-for-facial-recognition-tech/"
-    type: article
-    provider:
-      name: New Europe
-      domain: neweurope.eu
-    quality: 37
-    images:
-      - url: "https://www.neweurope.eu/wp-content/uploads/2019/11/h_54166602.jpg"
-        width: 5379
-        height: 3551
   - title: "Google Photos allegedly violated Illinois’ facial recognition laws, according to suit filed after Facebook settles class-action over same law"
     excerpt: "The suit was filed about a week after Facebook agreed to pay $550 million to Illinois users to settle allegations that its facial tagging feature violated the same state law protecting biometric information, which can include data from facial, fingerprint and iris scans. Illinois has one of the strictest biometric privacy laws in the nation."
     publishedDateTime: 2020-02-11T23:07:00Z

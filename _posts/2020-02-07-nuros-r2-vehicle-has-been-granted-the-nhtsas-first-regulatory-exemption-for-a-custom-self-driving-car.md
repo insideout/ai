@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/83926-nuro-has-granted-nhtsa-first
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83926-nuro-has-granted-nhtsa-first-regulatory-exemption-custom.html"
 type: article
 quality: 58
-heat: 128
+heat: 118
 published: true
 
 provider:
@@ -68,15 +68,6 @@ related:
     provider:
       name: Bloomberg
       domain: bloomberg.com
-    quality: 34
-  - title: "The feds just blessed a custom self-driving vehicle for the first time"
-    excerpt: "The National Highway Traffic Safety Administration on Thursday officially signed off on a new self-driving vehicle from the the delivery startup Nuro. It's an historic move; Nuro says it's the first time NHTSA has exempted a self-driving vehicle from regulatory requirements that apply to conventional vehicles. Nuro's new delivery vehicle ..."
-    publishedDateTime: 2020-02-07T12:30:00Z
-    webUrl: "https://arstechnica.com/cars/2020/02/the-feds-just-blessed-a-custom-self-driving-vehicle-for-the-first-time/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
     quality: 34
   - title: "Federal government approves California company’s self-driving vehicle with no wheel or pedals"
     excerpt: "MOUNTAIN VIEW, Calif. — The federal government has cleared the way for a Silicon Valley startup to deploy thousands of its self-driving delivery vehicles on US streets. The R2 has no steering wheel, pedals or side mirrors as it’s designed to be unmanned and carry cargo. Large compartments on its side open up to reveal deliveries ..."

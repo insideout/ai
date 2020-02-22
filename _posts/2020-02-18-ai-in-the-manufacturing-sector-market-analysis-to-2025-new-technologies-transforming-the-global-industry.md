@@ -103,6 +103,19 @@ related:
       - url: "https://vertassets.blob.core.windows.net/image/b61ec6d6/b61ec6d6-3bd5-4eb2-a2ec-0e9423fa3414/375_250-big_data.jpg"
         width: 375
         height: 249
+  - title: "Top AI Ted Talks to Watch for Acquiring Better Technology Outlook"
+    excerpt: "Technologist Kriti Sharma explores how the lack of diversity in tech is creeping into our AI, offering three ways we can start making more ethical algorithms. Matt Beane does field research on work involving robots to help us understand the implications of intelligent machines for the broader world of work. Any of his projects mean many ..."
+    publishedDateTime: 2020-02-22T05:38:00Z
+    webUrl: "https://www.analyticsinsight.net/top-ai-ted-talks-watch-acquiring-better-technology-outlook/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
+    images:
+      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/02/Top-AI-Ted-Talks-to-Watch-for-Acquiring-Better-Technology-Outlook.png"
+        width: 1640
+        height: 860
 
 secured: "CtdAWOgs3rSx6u2uzYfUm5o2kJXozfRdciTOQs9L22ktT/9FN8dMiKeryeqb6sqtdmz4TAPzdA2Z9VwlX8FxUrmHFzYCgBF27iY98inwQxJPG+JnW+xHxQauzWkvdFuy0/wg+KccGhcFv4iSOip60Iaz6+akHxeJvvwnUBjEufhdc7T3JBaWz28RfsME7yICLIFkrXwVkli/fc9/KZECampoxA3r970T9XsfrPAhz+kZXgVAakg/MyPKSv4BuqcoNTwiUFzMC0VfHdDyK1cBxj/QFoP/9Wbc2V6RbjXuAzhXh3Bi6zvy9K7jAc+CeKzx;nrsrkJQQqIK0tUoF+p/V+g=="
 ---
