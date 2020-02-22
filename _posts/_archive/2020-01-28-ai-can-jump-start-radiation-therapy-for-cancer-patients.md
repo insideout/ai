@@ -4,8 +4,10 @@ title: "AI can jump-start radiation therapy for cancer patients"
 excerpt: "Artificial intelligence can help cancer patients start their radiation therapy sooner—and thereby decrease the odds of the cancer spreading—by instantly translating complex clinical data into ..."
 publishedDateTime: 2020-01-28T07:25:00Z
 webUrl: "https://medicalxpress.com/news/2020-01-ai-jump-start-therapy-cancer-patients.html"
+ampWebUrl: "https://medicalxpress.com/news/2020-01-ai-jump-start-therapy-cancer-patients.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-01-ai-jump-start-therapy-cancer-patients.amp"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
@@ -22,11 +24,17 @@ related:
     excerpt: "Artificial intelligence can help cancer patients start their radiation therapy sooner - and thereby decrease the odds of the cancer spreading - by instantly translating complex clinical data into ..."
     publishedDateTime: 2020-01-27T00:00:00Z
     webUrl: "https://www.news-medical.net/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx"
     type: article
     provider:
       name: News Medical
       domain: news-medical.net
-    quality: 34
+    quality: 74
+    images:
+      - url: "https://www.news-medical.net/image.axd?picture=2014%2f7%2fRadiation_Therapy-620x480.jpg"
+        width: 620
+        height: 480
   - title: "AI could kickstart early radiation therapy for cancer patients"
     excerpt: "Artificial intelligence (AI) could one day be used to help cancer patients start their radiation therapy sooner, thereby decreasing the odds of the cancer spreading, by instantly translating complex clinical data into an optimal plan of attack. Typically ..."
     publishedDateTime: 2020-01-28T13:01:00Z
@@ -35,8 +43,12 @@ related:
     provider:
       name: IET
       domain: theiet.org
-    quality: 34
+    quality: 54
+    images:
+      - url: "https://eandt.theiet.org/media/10452/cancer-patient.jpg?crop=0,0.014583333333333332,0,0.49322916666666672&cropmode=percentage&width=1200&height=450&rnd=132246806200000000"
+        width: 1200
+        height: 450
 
-secured: "IT6bDvnC1U9Y8ajAz8Ek6cG5jRbG9D//MB3VWYqrzDmouCOQPyc7C2pmnkIZ6rCfScRkN7ZqQhu7BVp/0D91E5REy9GuntoE1STPn8LGjDwGNhtErkN1ii2Ew14EpTtzW5lIL5bozIihxF7VIQf9wSBi1ahxvibGDK0CIfX/FQE4yqqnSmjjTOrrTKna74YeXsTDKrvc6uZ/W/Ko5lEawpiiPMw77KMW4/235Nde3UrKkLfG9PR87u45GMF28867Ucre7fjYIvEN/LFrrim0yg/7osBj/QGcj9Pyw18p5E13epX2YrIC/coi7zr163Lh;F/ue0BHwge1qH9pJ+jXdXw=="
+secured: "U45uD1A7F8+xURAaC19WPQdXe9n/MgNG3EN12+I7JUQBq5fWv6RU7geHa4+JBtWpFaPrFTE4RPeDKSAigDnp1a+hdHxaxbpJlqRlnNPLBOtQTA7PnFO2WlEHFYN9sliiGDPcvW1lgM80VyQxJ9Lizk80J+ZhwJNZTEi2bD02wxSpGdoyFGuoM/wRgWuy8FBdtN/nNBHpi2gQ9pJH++UsI569EtUaCNA9GzLzp7L9SXaliQOrzNWzsPFiv+Qgqd1MNJAm4NIWfkPNEbU+OMKl8Edv78TVygPVQZJ2IrH8e/AbN58qTWzW2cOdPxgqujNx;O2DB1x2jFMEnVCFXowWyPA=="
 ---
 

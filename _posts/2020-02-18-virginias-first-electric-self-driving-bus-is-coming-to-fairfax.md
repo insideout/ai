@@ -56,30 +56,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F664664484%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D7000%26cropY1%3D166%26cropY2%3D4831"
         width: 1200
         height: 800
-  - title: "New publicly-funded self-driving bus is coming to Fairfax"
-    excerpt: "FAIRFAX, Va. — Cars are one of the biggest sources of carbon emissions today. If more people use public transportation, these emissions will be reduced drastically. In a partnership with Dominion Energy, Fairfax County is slated to get the first publicly-funded electric, autonomous shuttle bus in Virginia. This method of transportation ..."
-    publishedDateTime: 2020-02-18T22:32:00Z
-    webUrl: "https://www.wusa9.com/article/entertainment/television/programs/great-day-washington/virginias-first-electric-self-driving-bus-is-coming-to-fairfax/65-5208efe3-ae61-4f6a-adf1-b4517da774ff"
-    ampWebUrl: "https://www.wusa9.com/amp/article/entertainment/television/programs/great-day-washington/virginias-first-electric-self-driving-bus-is-coming-to-fairfax/65-5208efe3-ae61-4f6a-adf1-b4517da774ff"
-    cdnAmpWebUrl: "https://www-wusa9-com.cdn.ampproject.org/c/s/www.wusa9.com/amp/article/entertainment/television/programs/great-day-washington/virginias-first-electric-self-driving-bus-is-coming-to-fairfax/65-5208efe3-ae61-4f6a-adf1-b4517da774ff"
-    type: article
-    provider:
-      name: WUSA9
-      domain: wusa9.com
-    quality: 59
-    images:
-      - url: "https://media.wusa9.com/assets/WUSA/images/459402d0-fcad-4cae-b224-c7fc7973a985/459402d0-fcad-4cae-b224-c7fc7973a985_360x203.jpg"
-        width: 361
-        height: 203
-  - title: "Can self-driving cars handle Canadian winters?"
-    excerpt: "University of Toronto professor Steven Waslander talks about a new study, which will be used to determine whether self-driving cars can handle the snow and ice from harsh Canadian winters. <iframe src=\"https://globalnews.ca/video/embed/6535979/\" width=\"670\" height=\"372\" frameborder=\"0\" allowfullscreen scrolling=\"no\"></iframe> <style>.gn-embed ..."
-    publishedDateTime: 2020-02-11T16:22:00Z
-    webUrl: "https://globalnews.ca/video/6535979/can-self-driving-cars-handle-canadian-winters"
-    type: article
-    provider:
-      name: Global News
-      domain: globalnews.ca
-    quality: 4
 
 secured: "/7DLsFx31sJt8oGYQZIv84P2WDBcHZEARNhWeW+bISnhZ6v+QXZ/teEIuf8RDDhwXb4C7vvLh9ezc5uJbYy83RC5pywg+5nUnzdO3Rpd3ERNf0mideX3GFgCMqcROBMJ3gWiI3UlIqza942BPWbWw/SB8UsfdmpwjzMoaakQFIiC9cNLlzo3sWYP1I6VT1eD9graLKdInG3TaoI24eu3oXJ4CIGXbs+zmLVgvcVt7yp9w4KqrRCuizhw4uxEs17klc85JlCTfCscy9lDc/NzyyBuRcBXgSh1jtuT4bHCUbWfM1JbgOEpwdgw8+Zu7QFfr4oWIr0r3LE91qqb4BdfYbEAq3kXiTq5WFhw/GHEFTu9E7y9TPm6tC7ZpAnG1QjlE36YOE965ymYSkkdfnNeaG3YXV/uUMuaTpf/Vxo50+NgOEuIU6Xn4JOCD4dlhdERWl+dA13SJ6tN8562EAqvNVmGFy0mTAgmnJPyhJuNpKA=;kmsDIMXxAlTIMMlx2oZ86g=="
 ---

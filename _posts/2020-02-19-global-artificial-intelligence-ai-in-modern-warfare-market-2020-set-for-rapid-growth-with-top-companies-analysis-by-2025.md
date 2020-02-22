@@ -157,6 +157,19 @@ related:
       - url: "https://www.abnewswire.com/uploads/1582017829.jpeg"
         width: 600
         height: 250
+  - title: "Global Deep Learning Chip Market (2019 to 2027) - Drivers, Restraints, Opportunities and Trends - ResearchAndMarkets.com"
+    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Deep Learning Chip Market to 2027 - Global Analysis and Forecasts By Chip Type; Technology; Industry Vertical\" report has been added to ResearchAndMarkets.com's offering. The global deep learning chip market accounted for US$ 2.04 Bn in 2018 and is expected to grow at a CAGR of 30.0% over the forecast period 2019 ..."
+    publishedDateTime: 2020-02-20T13:35:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200220005509/en/Global-Deep-Learning-Chip-Market-2019-2027"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 29
+    images:
+      - url: "https://mms.businesswire.com/media/20200220005509/en/371054/23/ResearchAndMarkets_800px.jpg"
+        width: 1200
+        height: 627
 
 secured: "eTJmv3b4jgY3OOGQZGKD/RyghGBwaVSizZxOwOG3X8jLvlicEf6pG3OSmTlVso7i3WQraeB16qiCq6Ge8rnZCwfm/bV1RQirkeyjGUxVHMTM4eMxIffmSk0Q7SYPdl6VAEq2/QKMoG/m6b5XF4U5FdF6nEiYd+Rv7HW414IPvCINt0nq+HRA86sXDuL8kp2rQQhWiI7iav/RV8BIlY3iouUJnsXJimNmi8RrQdTKj1zgQ2RMqM+Ev+dvxXyxo+dTx2T+C2MTkJX7ySTmebDOSnPZ65v/VGGIgcDOnUOUsiaHkzOdeQwd/zeMbFsBLX8E;hBT1XaYhKiLqmDVTl9yJlw=="
 ---

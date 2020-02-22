@@ -41,30 +41,6 @@ related:
       - url: "https://s.marketwatch.com/public/resources/images/MW-IA488_tesla_ZH_20200219100228.jpg"
         width: 890
         height: 501
-  - title: "Self-driving Tesla tricked into speeding using terrifying hack"
-    excerpt: "Security researchers have discovered a way to fool Tesla electric cars into speeding using a small strip of black tape. McAfee researchers found that placing a two-inch section of black electric tape over part of a 35mph speed limit sign tricked a Tesla car into reading the sign as 85mph. The car, which was operating in the Autopilot mode, then ..."
-    publishedDateTime: 2020-02-19T10:55:00Z
-    webUrl: "https://www.telegraph.co.uk/technology/2020/02/19/self-driving-tesla-tricked-speeding-using-terrifying-hack/"
-    ampWebUrl: "https://www.telegraph.co.uk/technology/2020/02/19/self-driving-tesla-tricked-speeding-using-terrifying-hack/amp/"
-    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/02/19/self-driving-tesla-tricked-speeding-using-terrifying-hack/amp/"
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 59
-    images:
-      - url: "https://i.ytimg.com/vi/4uGV_fRj0UA/maxresdefault.jpg"
-        width: 1280
-        height: 720
-  - title: "Insight: How to make an ethical self-driving car"
-    excerpt: "Not too long ago, tech enthusiasts were telling us that by 2020, we’d see self-driving cars hit the mainstream, with some 10 million on the roads. That turned out to be a wild overestimation. The actual number of vehicles in testing is thousands of times smaller, and they’re still driving mostly in controlled conditions. Companies have also ..."
-    publishedDateTime: 2020-02-16T09:31:00Z
-    webUrl: "https://www.pressherald.com/2020/02/16/insight-how-to-make-an-ethical-self-driving-car/"
-    type: article
-    provider:
-      name: Portland Press Herald
-      domain: pressherald.com
-    quality: 4
 
 secured: "YwZRqC2T9tRbbicVFLYeXfIFta4/bAgHXLLZUwme8f79ERiOe9TdZPYKrG6CmUnm0GAReooT4gmtT4c4KtIVH3FZbFFFWyOHX54QJiJP+ceJ2y1SiXEmMxVsD/RTQjiqw/dQGACkCU7cZ4JYPxvuMEF/9tYp9Nqjuf2GJRTm/PxsEh/5HAVxSmZyLWkN8YEF8nh+o86benn6V8YvaH0ApBWDQwU+M3s4jITKF4r4pw841zEzXyo7R8U32jB5SRwhR9WbFnn8+cO93iPkA7GmiepoZ5WJtnEBIdhHx7HHDezpTb5OjUbJawHdIx5LPiQc;9n7q3DFCXZM/IlrsehJ4rw=="
 ---

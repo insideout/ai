@@ -8,7 +8,7 @@ ampWebUrl: "https://www.nbc4i.com/news/local-news/linden-self-driving-shuttle-ou
 cdnAmpWebUrl: "https://www-nbc4i-com.cdn.ampproject.org/c/s/www.nbc4i.com/news/local-news/linden-self-driving-shuttle-out-of-service-after-woman-said-she-was-thrown-from-seat/amp/"
 type: article
 quality: 52
-heat: 62
+heat: 52
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 1280
     height: 720
     title: "Linden self-driving shuttle out of service after woman said she was thrown from seat"
-
-related:
-  - title: "City Starts Self-Driving Shuttle Service"
-    excerpt: "Smart Columbus has started daily operations of a public, self-driving shuttle in a residential area. The vehicle is operating in the South Linden neighborhood or Columbus, Ohio."
-    publishedDateTime: 2020-02-17T22:17:00Z
-    webUrl: "https://www.mediapost.com/publications/article/347148/city-starts-self-driving-shuttle-service.html"
-    type: article
-    provider:
-      name: MediaPost
-      domain: mediapost.com
-    quality: 4
 
 secured: "mQ0J94DpxU1s3yvnp3+jzW6MGkOCTwS9BOalqdxkspXPGXWus3VcYrlCZu8aB8yzNWXPM+0taXYeFlHMNOVHjlOscoPmmAkmO/7VDaRN48zpkr6q3Wam62fGOy4fq8wzGkKgICcnCjePdpal/qVVl2USry6g9Vy8JqG9lR+tKLXMRP05vscN8I0kVny3vvoe9RMpFJzVOO0i0VpFVVRbNL94QaxZmKMgMBnPaFCdJHqpMDXJXiEMCC/KjmOCVpodrGNkOGY0UnUgvZ3EuaaFEpxpV6bFlkhr9iP1dSvLuXClN7CNQLBe4iS64rzJzVkd+vWdkEDLefZrvuVeoblrIb8ylfeCxtlD52huipSrYGdlfNtcQtlfFQoRARUkpprWVH7V89Ir7qTQawzPNKwZCop73CHT5Rae0b2Y/h4sm/bX2vXJpAJE9p72WLh2gFwdyI/IqqfY25M2h2yjWEnAO4QYjYCaU2OT0hBeg/uV9sc=;moD3GGdPOKiwwd6oGdlZZw=="
 ---

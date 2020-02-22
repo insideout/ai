@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-10T04:03:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-agriculture-market-industry-outlook-growth-prospects-and-key-opportunities-to-2026-2020-02-10"
 type: article
 quality: 59
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -75,15 +75,6 @@ related:
       - url: "https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg"
         width: 600
         height: 246
-  - title: "Voice Recognition for Automotive Market Trends, Opportunities, Key Players, Growth, Analysis, Outlook & Forecasts To 2025"
-    excerpt: "The market study on the global Voice Recognition for Automotive Market will include the entire ecosystem of the industry, covering five major regions namely North America, Europe, Asia Pacific, Latin America and Middle East & Africa, and the major countries falling under those regions. The study will feature estimates in terms of sales revenue ..."
-    publishedDateTime: 2020-02-07T11:00:00Z
-    webUrl: "https://www.openpr.com/news/1923215/voice-recognition-for-automotive-market-trends"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
   - title: "TOP Companies Operating in the Global Speech and Voice Recognition Market| Future Growth Outlook"
     excerpt: "The global speech and voice recognition market is expected to grow at a CAGR of 17.2% from 2019 to reach $26.79 billion by 2025, Says \"Meticulous Research, where Asia Pacific speech and voice recognition market is expected to grow at the highest CAGR. Voice and speech recognition technologies authorize contactless control to several devices and ..."
     publishedDateTime: 2020-02-11T11:51:00Z

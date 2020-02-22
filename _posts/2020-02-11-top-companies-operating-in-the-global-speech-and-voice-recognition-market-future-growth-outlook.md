@@ -79,15 +79,6 @@ related:
       - url: "https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg"
         width: 600
         height: 246
-  - title: "Voice Recognition for Automotive Market Trends, Opportunities, Key Players, Growth, Analysis, Outlook & Forecasts To 2025"
-    excerpt: "The market study on the global Voice Recognition for Automotive Market will include the entire ecosystem of the industry, covering five major regions namely North America, Europe, Asia Pacific, Latin America and Middle East & Africa, and the major countries falling under those regions. The study will feature estimates in terms of sales revenue ..."
-    publishedDateTime: 2020-02-07T11:00:00Z
-    webUrl: "https://www.openpr.com/news/1923215/voice-recognition-for-automotive-market-trends"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
 
 secured: "1D6/dZLG7d39wlnAD4hxtCDCx9e5MkJZqWkHubPynNOdMt9RtkwIc1u/nKpIy9G3CBjNq178JMJswCi391QMQ+tJt+G10gJ8ZqTskmkaE2Lxd8Gca6mJr87xXHynFOgNNldo92mpBrX/kb4iGvZd7nK7KaA8+WhjxELj5lssfCkF4EaPexCDDQpi5aAshPPtc9HJ01ZdPtNWY8OXtyjzT/cIWlipQtA3fNOYKgzTYmPZnXC/SdSXM3eRKVXYvZSJ4ZTzowgLqXeFDIDHGGy5jnrf8MW4FucFOj77SsPLEZp2KE5ARpPpYL6wuwZznF8J;EDTwdpggn556n2H8VtXvNg=="
 ---

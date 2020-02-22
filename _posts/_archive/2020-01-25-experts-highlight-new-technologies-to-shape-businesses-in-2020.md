@@ -5,8 +5,8 @@ excerpt: "Artificial Intelligence (AI) is one of the most transformative ... Goo
 publishedDateTime: 2020-01-25T01:38:00Z
 webUrl: "https://www.thisdaylive.com/index.php/2020/01/25/experts-highlight-new-technologies-to-shape-businesses-in-2020/"
 type: article
-quality: 4
-heat: 4
+quality: 24
+heat: 24
 published: false
 
 provider:
@@ -17,6 +17,12 @@ topics:
   - AI
   - AI in Autos
 
-secured: "lbvXMmg26O21MQaR/olEkGhTqnVHs+XYf8LpmYg7yjHn+DJPJwCKRkSZzY9f2Ze3wZXZaVF64Iws1pPY1eQ+eR1ejw4SNM1iiPvLeaLuJxT84j7YC8MXQWEzH7HXmswewX9PI4Zv7aqVcnVFpgeOjSCjnqdM9WmaXdFc0qT3xx8a0SAnHOq00BiE8nkCTvtRA3qP95jI1Oll2gMPeDdyXzK3kIyw1CX8G4iHkh9sOZRgkaVwTjTLhKUkB4KPw5wzDtmi0DKb+EUUX+vnSvEbpHw3K7LW0HFdZ6onz95cFMJttdEPQs6/t0r6QRAUQCTM;dYTeutm6CCJScLFw3JYA0Q=="
+images:
+  - url: "https://image.issuu.com/160316145944-339c517c519c4194b8d9b6955fbcbbb0/jpg/page_1_thumb_large.jpg"
+    width: 320
+    height: 457
+    title: "Experts Highlight New Technologies to Shape Businesses in 2020"
+
+secured: "SxRob1zQ6qKfWAYUAkG9YscCqAuKynn5ehmNjRELE0odQ/YqNsupgTPoFYV8QBtFVXoX+jpv0JFb9GIxnMvJArhqtlFj0R24JuQogIg1DDlaMum1UopovG8bMv/zMc+kwDiCMv9XgJSijaK0fR4RyTcEyzGx745HhQmVgGDoVl2gloHG8MIGcFgtguHR5NF/jY8nftu2JndQBGw6e2Dl9fvUpUmNF/jpgzRpd+QikeSWi5C2a/Cj4LbGih1e9NdB52aWrKiV6t0iD5FlQMSmLIXjeqkWmgycbG/REj/AEU3X1Lt/nLQ3czs6ybozS37O;9oRuvZbzawSMkh0g2LrQsQ=="
 ---
 

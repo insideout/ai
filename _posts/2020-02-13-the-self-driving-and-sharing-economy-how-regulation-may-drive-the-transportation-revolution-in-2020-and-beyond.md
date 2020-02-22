@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/paulrosen/2020/02/12/the-self-driving-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paulrosen/2020/02/12/the-self-driving-and-sharing-economy-how-regulation-may-drive-the-transportation-revolution-in-2020-and-beyond/amp/"
 type: article
 quality: 69
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -95,6 +95,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Transportation in 2030: Flying cars maybe, but mainstream electric and shared ones for sure, some possibly self-driving"
+    excerpt: "so this is a serious space.\" Companies like Uber, Boeing, Volvo, & Toyota among others are testing this technology. Meanwhile, autonomous vehicles (self-driving cars) are nearly here. They already undergoing vigorous testing and by the way the Oregon Department of Transportation has an autonomous vehicle task force considering what changes ..."
+    publishedDateTime: 2020-02-18T14:30:00Z
+    webUrl: "https://www.kgw.com/article/money/transportation-in-2030-flying-cars-maybe-but-self-driving-electric-shared-ones-will-be-everywhere/283-1c3c9d75-4057-44c0-984c-0a82e0aef4f6"
+    type: article
+    provider:
+      name: KGW8
+      domain: kgw.com
+    quality: 15
+    images:
+      - url: "https://media.kgw.com/assets/KGW/images/0543c9e3-1e11-4cd0-b801-1fc1a9a8f0ec/0543c9e3-1e11-4cd0-b801-1fc1a9a8f0ec_1140x641.png"
+        width: 1140
+        height: 641
 
 secured: "rB7GYpmgOqQA7VbyuNy4K+VX+Fm3pTKHzY3ilXLF5mMSzpCg37d/dIfI7WgCRLcl/Wbn5RamTLPuMzRB1A98Q/hXo5pgrEpnX2sSpMBGBcYQK3LFTraWtaFNNaMyj9N+dzIgVYQsIcL/jjqes7PtVftzAG2Naj/9JK+tauy6yY58y0HMEXCBbnXjWuiQYyihQhk9MhYupRjiB1jDGQ9lWD1yhASS4UXGWTkuD1gIsnLP3iBEeuAAs0pmRTb2oxN1lpeKJhgOklduuXu5X3zGUZBiNn1Tn7O4oUaoRh12dksQodiaipkF1TV0Nzc/pd5JTIko9YGiOsij5DDQi7COT3NHWOt0xIk5iHbT7oLz+NRPM1KnGeZ42MJrjgyrzEiQTuyfqixopgG0dtdCrfUYNe4V++kNelXiweHMM5kElFGhoS8UzYLQz4uhanb2OLjMJFBD4RBT31HVI47Feh/ixWuNYZQhTv2sa7j0y0n7Yzw=;Vyca368yr3y1Eu2UCgPebw=="
 ---

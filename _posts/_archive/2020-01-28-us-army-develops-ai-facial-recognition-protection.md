@@ -28,12 +28,18 @@ related:
     excerpt: "Facial and object recognition technologies are used by the US Army to train artificial intelligence (AI) systems used in unmanned aerial vehicles (UAVs), surveillance systems, and more."
     publishedDateTime: 2020-01-27T11:21:00Z
     webUrl: "https://www.zdnet.com/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 61
+    quality: 101
+    images:
+      - url: "https://zdnet4.cbsistatic.com/hub/i/r/2019/12/16/35ee7b2b-7adc-4a8f-9a42-034997586ff6/thumbnail/1200x675/29e6b7ba24c8774ada650245cc7c7ba7/san-diego-to-suspend-facial-recognition-5df3b0c7aaacb30001a11066-1-dec-16-2019-22-49-36-poster.jpg"
+        width: 1200
+        height: 675
 
-secured: "gf5YWM9YmGQr6NNpq8KeK1hW/zrrbMnJFaTujcubViOIOZxXIDab1xq6cR5jlHNG38PtGvqIRwnJSErjWjqH5b8gNRkG0uOdYAxtPWql0nm9YlU/tckTcQEFo+zzk975NbCYViAk0c32h7oJA3BDENUDJZ6N33DgPifncMeBGA34bmMc3OAfED1yBtAwsYzOOP4aOwo/pOUUQ+59YTbRncvkkMFWjNQ0bty71Q2roT80yEmHOvbodwFsMaN9GaFLk354xImd91wTqDS0lAA3vl+oNqMn0C5Njaqv+3sMpE3vz4uBTy/1WzQjKWIBv3Q3;tcyIgD6X48VW1uYC5+NF3w=="
+secured: "Vpl3i7FV2lDOm7Fmu2+lCRGfdr9t7JbQ3xDRIVzBQxA5wHU0N0D08c2ZE0ylCYGMzTIbVbeOkbJ1GwYX+wYqLiD5RrFT0nIZnf5Rzalc+BLBDJHJJGUVyTlRM1cSCy2+sSUaIFEWjaa48qehAsJdt1v5KzqK19G0KHGOIzlFfhBc54zvrYxmnfZtnHpXCIZ6mXcIDnSNNT4DtB5q1IuPLZk5fuC6QPOI78uNfr+mxeM4a3trkF+mf7w5xUwQARN6OvcpuOq4ZCAtBzAymG3OEL1Qfz1Gep8F4DyFmORXWraR1xIEJMqjS12y+58+IoZ2;wA4wMAPdLhpxANgaHbDZjg=="
 ---
 

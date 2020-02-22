@@ -37,19 +37,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Image Recognition Market Competitive Landscape Outlook To 2029 | Attrasoft Inc, NEC Corporation, Google Inc"
-    excerpt: "Segmentation on the basis of technique: QR/Barcode Recognition, Object Recognition, Facial Recognition, Pattern Recognition, Optical Character Recognition. Segmentation on the basis of component: Hardware, Software, Service, Segmentation on the basis of application: Augmented Reality, Scanning Imaging, Security Surveillance, Marketing ..."
-    publishedDateTime: 2020-02-07T11:27:00Z
-    webUrl: "https://apnews.com/Wired Release/a8d7aa85bcfa1fb52dce7fe6e811cac3"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 6
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
   - title: "Cognitive Data Management Market Future Scope – AttivioInc, CognitiveScaleInc, Cognizant Technology Solutions Corporation"
     excerpt: "Ltd. The Global Cognitive Data Management ... Kingland Systems Corporation, Microsoft Corporation Market Segmentation: Segmentation by Component: Solutions, Data Integration and Migration, Data Governance and Quality, Others (Data Prep, Data Security, and Event Stream Processing), Services. By Business Function, Operations, Sales and Marketing ..."
     publishedDateTime: 2020-02-12T21:03:00Z

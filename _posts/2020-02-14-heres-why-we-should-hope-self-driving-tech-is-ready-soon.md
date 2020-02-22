@@ -39,6 +39,19 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e41afbef133f400076c1a47%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6720%26cropY1%3D341%26cropY2%3D4121"
         width: 1200
         height: 675
+  - title: "Tape trick seen as showing hurdles for self-driving cars"
+    excerpt: "To be sure, the real-world threats of such an occurrence today are limited. For one, self-driving cars are still in the development phase, and most are being tested with drivers behind the wheel. Vehicles with advanced driver-assist systems that are available now still require the human to be attentive. And the McAfee researchers were only able ..."
+    publishedDateTime: 2020-02-20T07:50:00Z
+    webUrl: "https://www.arkansasonline.com/news/2020/feb/20/tape-trick-seen-as-showing-hurdles-for-/"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 24
+    images:
+      - url: "https://media.arkansasonline.com/static/ao_redesign/graphics/adgog.jpg"
+        width: 340
+        height: 246
 
 secured: "1byM5mIBIt+57emXu0PDYTU++TmHNvb+5PgfgISwysvHhL2A8zumHoqfgtsjb7+/NCkh3KFowtvKd/ZSDge97vGwrc20BV1comwMF4Kai4nS/FyyNN7LZFnXRNmL0JRUm7vQ6cZ9S2xJMCeKfOc1AIKNYra5iYENlKUYPcuEMBIN0UHJrZTPuUSUqNHFDvpxZ2yUYWhSf6VQtBN/lPBuQQ1l2ePtbCETbdtp4Uv9X+SGF6u+QA1qZ1pyw+Z4fGDDMnPxqBFA+VY8dz3okOJ4hRrclz/k1XMSegyTqRvGpGb16JZvHDyFuUABNZnWuln7;2K21mIYW70HMD1Vdp+xZHQ=="
 ---

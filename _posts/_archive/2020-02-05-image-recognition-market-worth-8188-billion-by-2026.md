@@ -5,7 +5,7 @@ excerpt: "The global image recognition market was worth USD 20.19 billion in 201
 publishedDateTime: 2020-02-05T06:40:00Z
 webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-worth-8188-billion-by-2026-2020-02-05"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
@@ -20,6 +20,12 @@ provider:
 topics:
   - AI
   - Computer Vision
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    title: "Image Recognition Market Worth $81.88 billion by 2026"
 
 related:
   - title: "Global Artificial Intelligence (AI) in Healthcare Market Hits Record Value of USD 17.8 Billion By 2025"
@@ -167,6 +173,6 @@ related:
       domain: benzinga.com
     quality: 0
 
-secured: "EseV2sLdHC9MUTZcRX/GSpPnxHjqkq7/074UGdIb7QZR0BoBFmAzLidtFUh0TKGoIGjxbWyyFMto/Kj73LVj84KXS6NM4z7ZSonYh/2ExN7RxaZ2JzH90MeGYDhWL1Pd+JTc+cT4jBoU4iW3BNMb50r6N2KeNnaDqNxJjP0NOOlRdGKYpe7qcC9U+A0XaONwKwHs7A8GkDdKC+dILYfjE/7Fi7Clv8EkuzDPrkqz8XtXS+AxAIpB66lbJc+J2OTk143ifHea6ky0TH15nw31ow6drJs685NZvL292MappIA20pnhxFyEl3O98bw2Mvpw;1Lgt8MpwNoGRWgfPVtwMIQ=="
+secured: "30V0zcitcoqh1z69iJQDRpsJ4equCxUVNRJU+ZOV5mNI71Fb2WelQ2HnjpAFQwDkU8X//yqbORNs+vrvV1c3twk2JOKqc22N++zhbsBbG6jB9cZd76XM+tJzZmZay4V3O82fzc1riCSwxIBdYDOo5Juj50QYbDHqNdT8uXiYCsbu9DFTi8ZPewU2TX/JITxO3k1b24ojTxoUfs6ZLE494CMJN7hTT/BNB6EsECKhfoAs55eEn+6IPa3uVKL2GusUKJCvpKncJlE3oioARmlPDcGp7BaSC6dEsvFsyzndLj2NOVru2mGxZp7O4X+VSZqy;xoZX6OVNIj2dbMEYUYn/HQ=="
 ---
 

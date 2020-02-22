@@ -28,19 +28,6 @@ images:
     title: "Natural Language Processing Market Future Innovation Strategies by 2029 | Apple Incorporation, Dolbey Systems, Google"
 
 related:
-  - title: "Image Recognition Market Competitive Landscape Outlook To 2029 | Attrasoft Inc, NEC Corporation, Google Inc"
-    excerpt: "Segmentation on the basis of technique: QR/Barcode Recognition, Object Recognition, Facial Recognition, Pattern Recognition, Optical Character Recognition. Segmentation on the basis of component: Hardware, Software, Service, Segmentation on the basis of application: Augmented Reality, Scanning Imaging, Security Surveillance, Marketing ..."
-    publishedDateTime: 2020-02-07T11:27:00Z
-    webUrl: "https://apnews.com/Wired Release/a8d7aa85bcfa1fb52dce7fe6e811cac3"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 6
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
   - title: "Artificial Intelligence Chip Market From 2020-2029: Growth Analysis by Manufacturers| Advanced Micro Devices, Google LLC, Intel Corporation"
     excerpt: "Healthcare, Banking, Financial services and Insurance (BFSI), Media and Advertising, Automotive and Transportation, IT and Telecom, Others (include Robotics, Semiconductor, etc.) Any Questions? Fill Free To Enquire Here. Well Put You On The Right Path: https://marketresearch.biz/report/artificial-intelligence-chip-market/#inquiry Global ..."
     publishedDateTime: 2020-02-12T20:28:00Z
