@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_posts/2020-02-13-viziblezone-taps-ai-and-smartphone-data-to-alert-drivers-to-pedestrians.md",
+      "title": "Viziblezone taps AI and smartphone data to alert drivers to pedestrians",
+      "excerpt": "An intriguing solution emerged last year from Viziblezone, a startup within the Jerusalem-based investment platform OurCrowd’s Labs/02 incubator program. Using a combination of AI and machine learning models, smartphones, and commodity car hardware, it’s capable of alerting drivers about potential nearby hazards while helping them to avoid ...",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/13/viziblezone-taps-ai-and-smartphone-data-to-alert-drivers-of-pedestrians/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/13/viziblezone-taps-ai-and-smartphone-data-to-alert-drivers-of-pedestrians/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/13/viziblezone-taps-ai-and-smartphone-data-to-alert-drivers-of-pedestrians/amp/",
+      "publishedDateTime": "2020-02-13T09:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/maxresdefault-3-e1581578338376.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Viziblezone taps AI and smartphone data to alert drivers to pedestrians",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_posts/2020-02-13-xmos-unveils-xcoreai-a-powerful-chip-designed-for-ai-processing-at-the-edge.md",
       "title": "XMOS unveils Xcore.ai, a powerful chip designed for AI processing at the edge",
       "excerpt": "With seed funding from the University of Bristol enterprise fund and the Wyvern seed fund as well as Amadeus Capital Partners, DJF Espirit, and Foundation Capital, the startup set about developing processor technology ... spinning off its Graphcore division focused on server-side AI. The following three years culminated in the release of ...",
@@ -1918,7 +1962,7 @@
       "path": "_posts/2020-02-17-eu-plan-on-ai-new-rules-better-taxes.md",
       "title": "EU plan on AI: new rules, better taxes",
       "excerpt": "\"The new ... taxes and others do not,\" it adds. Other initiatives currently being discussed include an action plan on 6G, making data-centres more sustainable and a revision of the regulation on online identification. After the EU's approach to AI and ...",
-      "heat": 207,
+      "heat": 197,
       "tags": null,
       "type": "article",
       "webUrl": "https://euobserver.com/science/147454",
@@ -2029,51 +2073,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-17-israel-risks-falling-behind-in-ai-despite-growth.md",
-      "title": "Israel risks falling behind in AI despite growth",
-      "excerpt": "Habana Labs. Mobileye. Hailo. Wix. There are more than 1,150 AI-focused startups in Israel, and that number is growing. Even so, some people within the government are concerned that the nation risks falling behind because it lacks a unified AI policy. AI policy refers to national strategies like the U.S.’s American AI Initiative and Canada ...",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/17/israel-risks-falling-behind-in-ai-despite-growth/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/17/israel-risks-falling-behind-in-ai-despite-growth/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/17/israel-risks-falling-behind-in-ai-despite-growth/amp/",
-      "publishedDateTime": "2020-02-17T11:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/05/mobileye-e1572905863843.jpeg?fit=1200%2C601&strip=all",
-          "width": 1200,
-          "height": 601,
-          "title": "Israel risks falling behind in AI despite growth",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

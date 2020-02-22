@@ -284,6 +284,21 @@ related:
       - url: "https://localtvwiti.files.wordpress.com/2018/10/untitled-26.jpg?quality=85&strip=all"
         width: 729
         height: 410
+  - title: "Facebook will pay you $5 to record your voice"
+    excerpt: "Facebook will pay you for your voice, but don’t expect to get wealthy. The California-based company is paying selected people to record phrases to improve its voice recognition tools. It’s asking them record the phrase, “Hey Portal, call…” which is its camera-equipped home device, followed by saying the first name of a Facebook ..."
+    publishedDateTime: 2020-02-22T21:08:00Z
+    webUrl: "https://fox4kc.com/news/facebook-will-pay-you-5-to-record-your-voice/"
+    ampWebUrl: "https://fox4kc.com/news/facebook-will-pay-you-5-to-record-your-voice/amp/"
+    cdnAmpWebUrl: "https://fox4kc-com.cdn.ampproject.org/c/s/fox4kc.com/news/facebook-will-pay-you-5-to-record-your-voice/amp/"
+    type: article
+    provider:
+      name: FOX4 Kansas City
+      domain: fox4kc.com
+    quality: 44
+    images:
+      - url: "https://fox4kc.com/wp-content/uploads/sites/16/2018/03/facebook_thumb.jpg?w=400&h=225&crop=1&resize=1280,720"
+        width: 1280
+        height: 720
   - title: "Reports: Facebook offers up to $5 for voice recordings"
     excerpt: "The company says that users' collected voice recordings will not be connected to Facebook profiles ... Facebook said on Wednesday it will pay $550 million in response to an Illinois-based class-action lawsuit against the facial recognition technology in its photo-labeling service, the New York Times reports. The big picture: The settlement ..."
     publishedDateTime: 2020-02-22T17:43:00Z

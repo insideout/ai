@@ -1,21 +1,33 @@
 ---
 category: news
-title: "Watch: Edmonton police give update on facial recognition technology"
-excerpt: "Warren Driechel, superintendent of the Edmonton police informatics division, and Devin Laforce, superintendent of the Edmonton police investigative support, provided an update Wednesday on a project assessing and engaging in a facial recognition solution for the police service. The technology hasn’t been implemented yet as EPS is still ..."
-publishedDateTime: 2020-02-20T01:38:00Z
-webUrl: "https://edmontonjournal.com/news/local-news/watch-edmonton-police-update-on-facial-recognition-technology"
+title: "Moscow Using Facial Recognition to Enforce Coronavirus Quarantine of 2,500 Travelers from China"
+excerpt: "Moscow is using facial recognition technology to enforce a quarantine on thousands of people who arrived in Russia from China, over fears of the new coronavirus that has killed over 2,000 people worldwide, according to a new report from the Moscow Times. The news comes as the virus, which causes an illness dubbed COVID-19, continues to spread ..."
+publishedDateTime: 2020-02-21T23:43:00Z
+webUrl: "https://gizmodo.com/moscow-using-facial-recognition-to-enforce-coronavirus-1841830557/amp?__twitter_impression=true"
+ampWebUrl: "https://gizmodo.com/moscow-using-facial-recognition-to-enforce-coronavirus-1841830557/amp?__twitter_impression=true"
+cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/moscow-using-facial-recognition-to-enforce-coronavirus-1841830557/amp?__twitter_impression=true"
 type: article
-quality: 19
+quality: 77
 heat: -1
 published: false
 
 provider:
-  name: Edmonton Journal
-  domain: edmontonjournal.com
+  name: Gizmodo
+  domain: gizmodo.com
+  images:
+    - url: "/assets/images/organizations/gizmodo.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
   - Computer Vision
+
+images:
+  - url: "https://i.kinja-img.com/gawker-media/image/upload/s--AKvNXy5y--/c_scale,f_auto,fl_progressive,q_80,w_800/ddahcgnqbfvrkf7kiawb.jpg"
+    width: 800
+    height: 449
+    title: "Moscow Using Facial Recognition to Enforce Coronavirus Quarantine of 2,500 Travelers from China"
 
 related:
   - title: "Moscow deploys facial recognition technology for coronavirus quarantine"
@@ -63,21 +75,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/711x543/https://specials-images.forbesimg.com/dam/imageserve/905553688/960x0.jpg?fit=scale"
         width: 711
         height: 543
-  - title: "Moscow Using Facial Recognition to Enforce Coronavirus Quarantine of 2,500 Travelers from China"
-    excerpt: "Moscow is using facial recognition technology to enforce a quarantine on thousands of people who arrived in Russia from China, over fears of the new coronavirus that has killed over 2,000 people worldwide, according to a new report from the Moscow Times. The news comes as the virus, which causes an illness dubbed COVID-19, continues to spread ..."
-    publishedDateTime: 2020-02-21T23:43:00Z
-    webUrl: "https://gizmodo.com/moscow-using-facial-recognition-to-enforce-coronavirus-1841830557/amp?__twitter_impression=true"
-    ampWebUrl: "https://gizmodo.com/moscow-using-facial-recognition-to-enforce-coronavirus-1841830557/amp?__twitter_impression=true"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/moscow-using-facial-recognition-to-enforce-coronavirus-1841830557/amp?__twitter_impression=true"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 77
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/s--AKvNXy5y--/c_scale,f_auto,fl_progressive,q_80,w_800/ddahcgnqbfvrkf7kiawb.jpg"
-        width: 800
-        height: 449
   - title: "Hamilton police tested controversial facial recognition technology Clearview AI"
     excerpt: "People walk past a poster simulating facial recognition software at the Security China 2018 exhibition on public safety and security in Beijing, China October 24, 2018. (Thomas Peter/Reuters) Hamilton police have had access to a controversial facial recognition tool called Clearview AI, CBC News has learned, but have been directed to stop by ..."
     publishedDateTime: 2020-02-20T21:33:00Z
@@ -300,6 +297,15 @@ related:
       - url: "https://thehill.com/sites/default/files/ca_busfacialtech_021920getty.jpg"
         width: 1440
         height: 880
+  - title: "Watch: Edmonton police give update on facial recognition technology"
+    excerpt: "Warren Driechel, superintendent of the Edmonton police informatics division, and Devin Laforce, superintendent of the Edmonton police investigative support, provided an update Wednesday on a project assessing and engaging in a facial recognition solution for the police service. The technology hasn’t been implemented yet as EPS is still ..."
+    publishedDateTime: 2020-02-20T01:38:00Z
+    webUrl: "https://edmontonjournal.com/news/local-news/watch-edmonton-police-update-on-facial-recognition-technology"
+    type: article
+    provider:
+      name: Edmonton Journal
+      domain: edmontonjournal.com
+    quality: 19
   - title: "Met police deploy facial recognition technology in central London"
     excerpt: "Metropolitan Police have deployed facial recognition technology in central London with just two hours’ notice, alarming citizens. Just across from the Microsoft store on London’s Regent ..."
     publishedDateTime: 2020-02-21T10:26:00Z
@@ -310,6 +316,6 @@ related:
       domain: tribune.com.pk
     quality: 19
 
-secured: "rkmGmoRQLrWGiq+mgs8CVMDFp+SCk+zk/R+TvFwfst3P98NgFeg0XBJmDKYcPMjVV9i3IGed+MbGUEJ4VIfoiBbQ4IDD6JU6iO2B+CRlf0lmy4rTv+L/QxWLgyTFcrz7JGXEis46oIMsLWoybqVpscjivtSXybi7/OX5wJzTo3GFi0iMmDM5H/RMV4RLua12ItZ/LJoBoBKFZYrEBuT+CVmnX4Giv0Ss96jx2zQSWDWtratG06ie2CMUas7K/vvmZFs897DC6hfT01Wjr6+3ZpPQxhjihzZjuZJ5UpLpL7+3id3MHx5unC8onxd4ddU7GgOLHj9QUzLFMn8f9Xg/fVaKCslAdXMLbs6Qlkv3XDQB9FFEWuhzfYeR6/gu2e+yGj7hTGppFFVzN6+GQr56fjDGI8H+6BbaqFv8LelYMKNHbw7g79rWJk/qjKBHyVZAZ1GJVSj3zSvIX7QlCtnR8ecaVwJ/pNbzVuLs3u6S15A=;t9v8rjPZkONnDfuNNOrWKg=="
+secured: "C0Lg+1YqxsDpMuMH0KLF7zgmXvN5DTNz4niBPpHhMuqzSBHh6l4uDJdIfehrOMp+LdbwKikipRums5fbV0SwUQuWc2CjZTVMDxeIGQymXU2tDk2QLW9sqeKAE4/x6IOyuQEdgteisLRVTUGGrHneQTW6zx6ee15gmwbSgW5933EqhO/ri8SK5GeCttLEyAgmzBb8G+mDMuG21keztba26Ehn4W/eEPbp8+H5tTaF3D4hy9elF96Ahk/fIsxWT3YNJ13VnTIhBRmr6k37Ugx+wDih8GnedQ3wGJI9XvclN0Wx59pvLnnLV+MellLg9y/n;miXuyaMVM4lVTxVd8tSYdw=="
 ---
 

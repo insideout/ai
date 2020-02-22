@@ -76,15 +76,6 @@ related:
       - url: "https://www.computing.co.uk/api/v1/wps/ff5f354/fc6d1fdc-dffc-47f8-bcdb-4760220f6a01/2/LFR-370x229.jpg"
         width: 370
         height: 229
-  - title: "Chicago Police Launch New Facial Recognition Technology, They Say, To Catch Crooks"
-    excerpt: "CHICAGO (CBS) — They’re watching you in a whole new way, with controversial new facial recognition software used by Chicago Police. CBS 2’s Tara Molina is Always Investigating and she found that while this software is new to the city, the practice isn’t. The department has used some form of facial recognition tech since at least 2013."
-    publishedDateTime: 2020-02-08T04:26:00Z
-    webUrl: "https://chicago.cbslocal.com/2020/02/07/chicago-police-launch-new-facial-recognition-technology-they-say-to-catch-crooks/"
-    type: article
-    provider:
-      name: CBS Boston / WBZ
-      domain: cbslocal.com
-    quality: 13
 
 secured: "69VmHm8EV6pOImOdzmzvjDtgd5SktpvHRylEIVLiYtsqfE2j+u/kfVN4GffLyI+gJunlycP3OsWFsMBVQzPijlAqqK0OWwIG0LNjLjlzo4JgxLJRE5gLbnjsU0QW9L717jvsLANotIqY+2+1Hf5x3u6flMEloXb0xEr6xV0NNu2XXXpjr6WogpFt+LX8M4z0gnvQiOm9iq+29h2+IZKDSBUNvThfX1kU3wo7C5h/Re/TCuD7TcWZ4WxCQjP9ifLkY7SEvb7fgXEUSs36Q2SVgayM8Ju/GRqN6o37C5ccvnONM2l4tVRsekpPGy5oANmtvP+5Yvc652pjBZEZZ033iLnFH88OKGPakv8Au/75M/IZhnaClG3Dmv00OxTwpquri0HSwVeog7Ox1Hoi12qB7Qn/8n2a3h4RCT4He8IpUwNL0AoD9nHT1zJ5fiQ0hv8jNW4g4k51vT0hE4vr0W33XQ6KdoTsYTaSvbDF/WqxaJY=;nFW1Uusl+S+NZZOnvj1rUQ=="
 ---

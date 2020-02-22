@@ -3,7 +3,7 @@ category: news
 title: "The Machine Learning Vendor Landscape"
 excerpt: "Machine learning has had a major impact on marketing personalization. But how does a brand find the necessary help? Here is a review of the machine learning vendor landscape."
 publishedDateTime: 2020-02-21T18:49:00Z
-webUrl: "https://www.mediapost.com/publications/article/347450/the-machine-learning-vendor-landscape.html"
+webUrl: "https://www.mediapost.com/publications/article/347450/the-machine-learning-vendor-landscape.html?edition=117302"
 type: article
 quality: 19
 heat: 19
@@ -17,6 +17,6 @@ topics:
   - AI
   - Machine Learning
 
-secured: "SIAcE4hu4YlCiQkx1dnkh4Bvg7K28LUdh9N/sV+QQyyVekDgd1tsFf6qOnW5npz/L4k7MCCgEg0HtfPYuF/rYOhwpcP55cpHXLWxpjsE1TaLJP0O8fehb3+z4jy6KyD2aV/xtEVonGJPaIwN350yFAGU7Qsdxzx+qnGKTsLgXrX3IOkMkTRPrbbD/kxNXBA2wDQCWzcTorYMgwBc/nVRqBuEK30hrnvhkmZdXhEZSlijDqBsOz4Ev7NNWbDS+CEXaAWtmCFJ6IW4sLZXGSFTcSiEfndOumY8EKB9uaQbRwk8xLwDBAC3j97XYAMIG9br;qal/R89huxgP+Kx7EI+okg=="
+secured: "5S1aadRuYQy+hI2TjggrzYfDEtIM1kHJ1jwJNNb4FV57o3kD9uUJhtGFygcuwgfjs/VE2d8mAV6ORhE3zUtzXx3SMqF4q/0sm2H7oChqwhJt1+Q94BFNjNG886KLJl5n2/H/m7HlyGh1Hg6aASSWLWtZ8kDOgtCsAO0N00LzXdz2y/D1RbyV6dGcOb8rquXFldDXJG0QM+i+k9kkiKvSQMgVy5G823SGqaRndBh2bbaejIxwYyH9PJfBhWhT8DbfAkbcTaFpXn2cmzvpk+N1spjG1HaKEsB8AygBXOYJFdG/U66VoVsevqtBoWo2gwpj;86HAw4aPflDmVzaWU/6xiw=="
 ---
 

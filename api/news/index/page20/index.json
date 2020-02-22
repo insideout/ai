@@ -2,6 +2,51 @@
   "page": 20,
   "value": [
     {
+      "path": "_posts/_archive/2020-01-28-general-motors-to-build-cruise-origin-electric-self-driving-shuttle-electric-trucks-in-detroit.md",
+      "title": "General Motors to build Cruise Origin electric self-driving shuttle, electric trucks in Detroit",
+      "excerpt": "The facility has been earmarked to build several all-electric models, starting with a pickup in late 2021. The plant was previously the home of the discontinued Chevrolet Volt plug-in hybrid and currently produces the Cadillac CT6 and Chevrolet Impala, which will bill both end production in February. Batteries for all of the vehicles will be ...",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.foxnews.com/auto/general-motors-cruise-origin-driving-shuttle-detroit",
+      "ampWebUrl": "https://www.foxnews.com/auto/general-motors-cruise-origin-driving-shuttle-detroit.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/general-motors-cruise-origin-driving-shuttle-detroit.amp",
+      "publishedDateTime": "2020-01-28T09:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/640/320/origin-3.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": "General Motors to build Cruise Origin electric self-driving shuttle, electric trucks in Detroit",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-28-google-brings-cross-platform-ai-pipeline-framework-mediapipe-to-the-web.md",
       "title": "Google brings cross-platform AI pipeline framework MediaPipe to the web",
       "excerpt": "TensorFlow Lite inference isn’t supported, and the graph’s computations must be run on a single processor thread. A lack of compute shaders — routines compiled for high-throughput ...",
@@ -2078,51 +2123,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-29-here-are-the-7-biggest-fintech-trends-to-watch-in-2020-according-to-a-centana-growth-partners-exec.md",
-      "title": "Here are the 7 biggest fintech trends to watch in 2020, according to a Centana Growth Partners exec",
-      "excerpt": "Alfieri, one of Business Insider's 2019 Rising Stars of Wall Street, lays out the biggest themes to watch for fintech in 2020.",
-      "heat": 70,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/centana-growth-partners-exec-gives-outlook-for-fintech-2020-1",
-      "ampWebUrl": "https://www.businessinsider.com/centana-growth-partners-exec-gives-outlook-for-fintech-2020-1?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/centana-growth-partners-exec-gives-outlook-for-fintech-2020-1?amp",
-      "publishedDateTime": "2020-01-29T11:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5de57a1efd9db2771d15a925?width=750&format=jpeg&auto=webp",
-          "width": 750,
-          "height": 563,
-          "title": "Here are the 7 biggest fintech trends to watch in 2020, according to a Centana Growth Partners exec",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

@@ -1,21 +1,29 @@
 ---
 category: news
-title: "FB to pay users for recording to improve speech recognition"
-excerpt: "... has announced it will pay select users who agree to record their voice to improve its speech recognition technology. According to The Verge, the social networking giant he company will pay ..."
-publishedDateTime: 2020-02-21T12:12:00Z
-webUrl: "https://news.webindia123.com/news/Articles/Science/20200221/3508472.html"
+title: "Facebook will pay you $5 to record your voice"
+excerpt: "Facebook will pay you for your voice, but don’t expect to get wealthy. The California-based company is paying selected people to record phrases to improve its voice recognition tools. It’s asking them record the phrase, “Hey Portal, call…” which is its camera-equipped home device, followed by saying the first name of a Facebook ..."
+publishedDateTime: 2020-02-22T21:08:00Z
+webUrl: "https://fox4kc.com/news/facebook-will-pay-you-5-to-record-your-voice/"
+ampWebUrl: "https://fox4kc.com/news/facebook-will-pay-you-5-to-record-your-voice/amp/"
+cdnAmpWebUrl: "https://fox4kc-com.cdn.ampproject.org/c/s/fox4kc.com/news/facebook-will-pay-you-5-to-record-your-voice/amp/"
 type: article
-quality: 19
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: FOX4 Kansas City
+  domain: fox4kc.com
 
 topics:
   - AI
   - Natural Language Processing
+
+images:
+  - url: "https://fox4kc.com/wp-content/uploads/sites/16/2018/03/facebook_thumb.jpg?w=400&h=225&crop=1&resize=1280,720"
+    width: 1280
+    height: 720
+    title: "Facebook will pay you $5 to record your voice"
 
 related:
   - title: "Facebook will now pay you for your voice recordings"
@@ -291,21 +299,6 @@ related:
       - url: "https://www.wjbf.com/wp-content/uploads/sites/47/2016/02/facebook-logo-on-laptop-screen_36088381_ver1.0.jpg?w=1280&h=720&crop=1"
         width: 1280
         height: 720
-  - title: "Facebook will pay you $5 to record your voice"
-    excerpt: "Facebook will pay you for your voice, but don’t expect to get wealthy. The California-based company is paying selected people to record phrases to improve its voice recognition tools. It’s asking them record the phrase, “Hey Portal, call…” which is its camera-equipped home device, followed by saying the first name of a Facebook ..."
-    publishedDateTime: 2020-02-22T21:08:00Z
-    webUrl: "https://fox4kc.com/news/facebook-will-pay-you-5-to-record-your-voice/"
-    ampWebUrl: "https://fox4kc.com/news/facebook-will-pay-you-5-to-record-your-voice/amp/"
-    cdnAmpWebUrl: "https://fox4kc-com.cdn.ampproject.org/c/s/fox4kc.com/news/facebook-will-pay-you-5-to-record-your-voice/amp/"
-    type: article
-    provider:
-      name: FOX4 Kansas City
-      domain: fox4kc.com
-    quality: 44
-    images:
-      - url: "https://fox4kc.com/wp-content/uploads/sites/16/2018/03/facebook_thumb.jpg?w=400&h=225&crop=1&resize=1280,720"
-        width: 1280
-        height: 720
   - title: "Reports: Facebook offers up to $5 for voice recordings"
     excerpt: "The company says that users' collected voice recordings will not be connected to Facebook profiles ... Facebook said on Wednesday it will pay $550 million in response to an Illinois-based class-action lawsuit against the facial recognition technology in its photo-labeling service, the New York Times reports. The big picture: The settlement ..."
     publishedDateTime: 2020-02-22T17:43:00Z
@@ -440,6 +433,15 @@ related:
       name: Kim Komando
       domain: komando.com
     quality: 20
+  - title: "FB to pay users for recording to improve speech recognition"
+    excerpt: "... has announced it will pay select users who agree to record their voice to improve its speech recognition technology. According to The Verge, the social networking giant he company will pay ..."
+    publishedDateTime: 2020-02-21T12:12:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20200221/3508472.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
   - title: "Facebook is paying $5 to users! Check who all qualify to participate in its voice recognition programme"
     excerpt: "Social media giant Facebook is offering USD 5 to some select users in a bid to improve its voice recognition technology. According to The Verge, Facebook will record the voice of some users through a new programme called “Pronounciations” in its Viewpoints market research app. The move comes after Google, Apple, Amazon and Microsoft had ..."
     publishedDateTime: 2020-02-22T10:37:00Z
@@ -461,6 +463,6 @@ related:
       domain: knowtechie.com
     quality: 0
 
-secured: "bitB2xmFszJcQOw8oe3hc+wWMX5hzWUcY4rIcjXCH1c1XEzT9/bw1OwEYbmaUakrot/fDA27hg9Jh19g2aiPSFA6ioJ0/5oPIU0jpIMJENL+uXvDWGw95uWXCPE2PdLJAaP7EB3RpOteMniotUGFDBgAPJLCC+KKjmUTwEAl+oUK69DxyUXZsKSsBznw/Rq1tvmf83lTarLv6L066q82Qv6M3KsaHoEDgjEcIkaePGtwNNYrucGvG6hLUSPSuOiaXH5T2CQD+eRr4F0x9zIMBumigG8H6raic315N7p26B3z+PXDqf/NpoBShxVaipdp;3K+Y6NqA6F3r/1KDJ4vJxA=="
+secured: "sFlot4fpXFhoP7R3Qid+/WQMxLRwS2rOlhmY0U9l76pu1z0H72N5k19NKXSn5V7UuS83H8wkkbCYroSaYPX6WS1TJXvHkBot6wKanl46uiw422YLgFt5BrIrGKFh/ZnfM6uPDoFZJAHEcD7eUv33qsWmpVG958Z9oHBV2wqHZuQeEbYVfycyZQMm11xLq5J1/9vF0itInkSaIfssrPTizPIfzsnJVwoPzQJG2ribrhnZs2OA48Jo8wjFxIxo7BO0dfDGTE2KSqo7ptdwf7KE6yWuv/4XnJ4c3kvsfUiwC7fZs15OCtnDQNymxdCbp4xp;CFPTyEb+WOVC/NW4jAyzuA=="
 ---
 

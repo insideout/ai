@@ -8,7 +8,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/2/20/21145584/facebook-pa
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/20/21145584/facebook-pay-record-voice-speech-recognition-viewpoints-proununciations-app"
 type: article
 quality: 74
-heat: 385
+heat: 395
 published: true
 
 provider:
@@ -288,6 +288,21 @@ related:
       - url: "https://www.wjbf.com/wp-content/uploads/sites/47/2016/02/facebook-logo-on-laptop-screen_36088381_ver1.0.jpg?w=1280&h=720&crop=1"
         width: 1280
         height: 720
+  - title: "Facebook will pay you $5 to record your voice"
+    excerpt: "Facebook will pay you for your voice, but don’t expect to get wealthy. The California-based company is paying selected people to record phrases to improve its voice recognition tools. It’s asking them record the phrase, “Hey Portal, call…” which is its camera-equipped home device, followed by saying the first name of a Facebook ..."
+    publishedDateTime: 2020-02-22T21:08:00Z
+    webUrl: "https://fox4kc.com/news/facebook-will-pay-you-5-to-record-your-voice/"
+    ampWebUrl: "https://fox4kc.com/news/facebook-will-pay-you-5-to-record-your-voice/amp/"
+    cdnAmpWebUrl: "https://fox4kc-com.cdn.ampproject.org/c/s/fox4kc.com/news/facebook-will-pay-you-5-to-record-your-voice/amp/"
+    type: article
+    provider:
+      name: FOX4 Kansas City
+      domain: fox4kc.com
+    quality: 44
+    images:
+      - url: "https://fox4kc.com/wp-content/uploads/sites/16/2018/03/facebook_thumb.jpg?w=400&h=225&crop=1&resize=1280,720"
+        width: 1280
+        height: 720
   - title: "Reports: Facebook offers up to $5 for voice recordings"
     excerpt: "The company says that users' collected voice recordings will not be connected to Facebook profiles ... Facebook said on Wednesday it will pay $550 million in response to an Illinois-based class-action lawsuit against the facial recognition technology in its photo-labeling service, the New York Times reports. The big picture: The settlement ..."
     publishedDateTime: 2020-02-22T17:43:00Z
@@ -452,6 +467,6 @@ related:
       domain: knowtechie.com
     quality: 0
 
-secured: "zrHp+X53fej1MS5r6Jsv1OKzmr/YDpv+2WiSJIwmAEjpqHhBFkayTcQNZbGVIse3KD2eT3rd+efYoGPizYV4FpTuTS7a6Z4S+GA4G8d2XvR53AUkiuuhZ7hQSF/u7AD9JgbbgbNuW4Gq6U07IIyL1S65VJd0tsSepaxw5RQzs6NAmwwab1CKniANDHmQgi1cbh1/7GHUd7/AKufcvijclHODNOJMuD/jT+oy5jZS8NspK0vUCkZLInQdeAL++Zm1/RCra7O7ysATxNWpJh76NevoALNp0A24ANAKk8EQBdLMZdR7/MDgKhQiA+2EdN+vW+KSWpVT4t/QCFJuAn+N+wVCGaWSrv3qGOmm8Ssh3pSFQXnzpryvPuNqHx2RLbYo8b2CjpOo163mulj4+RakoLccKTcbqMFkgFtTu1lU7aqelN/frlGkgMDrIxOMIUBpNVWW9kH8NQyjnRHwpncbWV4TslW48Zo1hMrT66OmalQ=;ZkrQ/15KugmNDqw5i0yl9Q=="
+secured: "U5JZ3bR8lhceApuSvK8or0QVa64xu1ah8A1+mha0yE4UaCaFHgnC9S2fVylKEGmMd8HYvzpZM9qTZa4wyE5xvAJOdCgLgXjVI7EYXgoIREHiGQ8/LpauBCl+1KRCkBJ0d8+PS9GtrwlAP/BJlX47rkhN4x9U7vjNq/Elq0FggwhpqHakN995hAZaNs2NBIrMPGzHZM6dfxnJzk1Qo95+OpB6j/hFGb4mwotsd/xSr3mN5vt+084hvyT7spqlBVomzf9VeT9LZbEnTUYneBj4bKRcxp7lbu/K/p0yimVraOmJV2eTCKA+gnkeVu1vl5pJ940qXl+WYbsn95xuj0FbLO0HH3CrYxXIJS6L8XS+GD9qI+Gc+i0uChP+uUfYW15fOcSWru9ntDBI9yJ2LY6R2z6hP8aTSqYxSOXplthwYkomG8oAb+twBoaWJ1o+n2sg0m3dm59FyyBZaGELa3+4oBebXGmzLLuRvQzrg4HkMCg=;nVXabfL9aOG0P+NmQZYlCg=="
 ---
 

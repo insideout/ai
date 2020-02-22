@@ -37,6 +37,21 @@ related:
         width: 1280
         height: 720
   - title: "EU proposes rules for artificial intelligence to limit risks"
+    excerpt: "The European Union is unveiling proposals to regulate artificial intelligence that call for strict rules and safeguards on risky applications of the emerging technology. The report"
+    publishedDateTime: 2020-02-19T11:35:00Z
+    webUrl: "https://www.kxan.com/news/international/eu-proposes-rules-for-artificial-intelligence-to-limit-risks/"
+    ampWebUrl: "https://www.kxan.com/news/international/eu-proposes-rules-for-artificial-intelligence-to-limit-risks/amp/"
+    cdnAmpWebUrl: "https://www-kxan-com.cdn.ampproject.org/c/s/www.kxan.com/news/international/eu-proposes-rules-for-artificial-intelligence-to-limit-risks/amp/"
+    type: article
+    provider:
+      name: KXAN
+      domain: kxan.com
+    quality: 59
+    images:
+      - url: "https://www.kxan.com/wp-content/uploads/sites/40/2020/02/26a5d5519fb44b4cbb90a8135709a722.jpg?w=1280&h=720&crop=1"
+        width: 1280
+        height: 720
+  - title: "EU proposes rules for artificial intelligence to limit risks"
     excerpt: "The European Union unveiled proposalsWednesday to regulate artificial intelligence that call for strict rules and safeguards on risky applications of the rapidly developing technology. The report is part of the bloc's wider digital strategy aimed at maintaining its position as the global pacesetter on technological standards."
     publishedDateTime: 2020-02-20T00:18:00Z
     webUrl: "https://www.sfgate.com/business/technology/article/EU-proposes-rules-for-artificial-intelligence-to-15066968.php"

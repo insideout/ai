@@ -78,15 +78,6 @@ related:
       name: Portland Press Herald
       domain: pressherald.com
     quality: 17
-  - title: "Chicago Police Launch New Facial Recognition Technology, They Say, To Catch Crooks"
-    excerpt: "CHICAGO (CBS) — They’re watching you in a whole new way, with controversial new facial recognition software used by Chicago Police. CBS 2’s Tara Molina is Always Investigating and she found that while this software is new to the city, the practice isn’t. The department has used some form of facial recognition tech since at least 2013."
-    publishedDateTime: 2020-02-08T04:26:00Z
-    webUrl: "https://chicago.cbslocal.com/2020/02/07/chicago-police-launch-new-facial-recognition-technology-they-say-to-catch-crooks/"
-    type: article
-    provider:
-      name: CBS Boston / WBZ
-      domain: cbslocal.com
-    quality: 13
 
 secured: "OfBsGsXwZbQvmKum1C2FoP5+m5tqsmB4/zgT18egTSA5gYA1V3UCoVH+dgPcSXrDmZJKaEBFXY7Wtv1R+mJqgXHm2L4fgUymH9Or+kKgwXAq0Tgyh3zW4Gs3aKMej++yMgDiubZ8JwC/35+RXRIVMVBhg02fHGhZFuvThembpj5Gmsn/HhqtPPiqxhVyrbD0ZRgUdbWICE8j/TJ/edU39NJF4TD0e9aiLVWrKnOmV4zu1hzS/LQVUmcWrhSsw+Y5jbF7nUoIWcUV8R/7meLE5h6pN0EYENgRPtaU5VGfgsLaHYNL9PK4r+Kb1mu9Hjy0WUmaZz+qJng0wwu7ldFDX6KoABWIHRrhW7CvRPJ+UqG/5aiwHTlA7gf1kOprJWgXH6Wl9NWpQjpz6jHZAJadtv0jX3zgsbRpbVD7HP5RL/pPBfltgumyRohoyJbQBR7wwSj7KyNZboWNwKBgdp36nlP/WlHzevNXzTRBIniiLmI=;IExj5DfxD+fjjTeiAZTCdQ=="
 ---

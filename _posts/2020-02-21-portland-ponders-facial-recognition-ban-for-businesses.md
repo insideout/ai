@@ -1,21 +1,29 @@
 ---
 category: news
-title: "Watch: Edmonton police give update on facial recognition technology"
-excerpt: "Warren Driechel, superintendent of the Edmonton police informatics division, and Devin Laforce, superintendent of the Edmonton police investigative support, provided an update Wednesday on a project assessing and engaging in a facial recognition solution for the police service. The technology hasn’t been implemented yet as EPS is still ..."
-publishedDateTime: 2020-02-20T01:38:00Z
-webUrl: "https://edmontonjournal.com/news/local-news/watch-edmonton-police-update-on-facial-recognition-technology"
+title: "Portland Ponders Facial Recognition Ban for Businesses"
+excerpt: "The state of Oregon has already banned police from using body cameras with facial recognition, but the city wants to take the ban further. “We felt a moral obligation to develop a broader approach.” (TNS) — It took a few moments before Eduardo ..."
+publishedDateTime: 2020-02-21T22:13:00Z
+webUrl: "https://www.governing.com/security/Portland-Ponders-Facial-Recognition-Ban-for-Businesses.html"
+ampWebUrl: "https://www.governing.com/security/Portland-Ponders-Facial-Recognition-Ban-for-Businesses.html?AMP"
+cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/Portland-Ponders-Facial-Recognition-Ban-for-Businesses.html?AMP"
 type: article
-quality: 19
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Edmonton Journal
-  domain: edmontonjournal.com
+  name: Governing
+  domain: governing.com
 
 topics:
   - AI
   - Computer Vision
+
+images:
+  - url: "https://media2.govtech.com/images/shutterstock_1508404712.jpg"
+    width: 1008
+    height: 630
+    title: "Portland Ponders Facial Recognition Ban for Businesses"
 
 related:
   - title: "Moscow deploys facial recognition technology for coronavirus quarantine"
@@ -168,21 +176,6 @@ related:
       - url: "https://e3.365dm.com/20/02/1600x900/skynews-oxford-street-shoppers_4925640.jpg?20200220143955"
         width: 1600
         height: 900
-  - title: "Portland Ponders Facial Recognition Ban for Businesses"
-    excerpt: "The state of Oregon has already banned police from using body cameras with facial recognition, but the city wants to take the ban further. “We felt a moral obligation to develop a broader approach.” (TNS) — It took a few moments before Eduardo ..."
-    publishedDateTime: 2020-02-21T22:13:00Z
-    webUrl: "https://www.governing.com/security/Portland-Ponders-Facial-Recognition-Ban-for-Businesses.html"
-    ampWebUrl: "https://www.governing.com/security/Portland-Ponders-Facial-Recognition-Ban-for-Businesses.html?AMP"
-    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/Portland-Ponders-Facial-Recognition-Ban-for-Businesses.html?AMP"
-    type: article
-    provider:
-      name: Governing
-      domain: governing.com
-    quality: 59
-    images:
-      - url: "https://media2.govtech.com/images/shutterstock_1508404712.jpg"
-        width: 1008
-        height: 630
   - title: "Portland considering strictest ban on facial recognition technology in the U.S."
     excerpt: "“Please look at camera for entry.” Jacksons’ use of facial recognition technology could soon be outlawed in Portland. City officials are considering the strictest ban of the technology in the country, prohibiting its use not only by government agencies but also private businesses. Facial recognition technology typically uses a camera and ..."
     publishedDateTime: 2020-02-21T15:20:00Z
@@ -300,6 +293,15 @@ related:
       - url: "https://thehill.com/sites/default/files/ca_busfacialtech_021920getty.jpg"
         width: 1440
         height: 880
+  - title: "Watch: Edmonton police give update on facial recognition technology"
+    excerpt: "Warren Driechel, superintendent of the Edmonton police informatics division, and Devin Laforce, superintendent of the Edmonton police investigative support, provided an update Wednesday on a project assessing and engaging in a facial recognition solution for the police service. The technology hasn’t been implemented yet as EPS is still ..."
+    publishedDateTime: 2020-02-20T01:38:00Z
+    webUrl: "https://edmontonjournal.com/news/local-news/watch-edmonton-police-update-on-facial-recognition-technology"
+    type: article
+    provider:
+      name: Edmonton Journal
+      domain: edmontonjournal.com
+    quality: 19
   - title: "Met police deploy facial recognition technology in central London"
     excerpt: "Metropolitan Police have deployed facial recognition technology in central London with just two hours’ notice, alarming citizens. Just across from the Microsoft store on London’s Regent ..."
     publishedDateTime: 2020-02-21T10:26:00Z
@@ -310,6 +312,6 @@ related:
       domain: tribune.com.pk
     quality: 19
 
-secured: "rkmGmoRQLrWGiq+mgs8CVMDFp+SCk+zk/R+TvFwfst3P98NgFeg0XBJmDKYcPMjVV9i3IGed+MbGUEJ4VIfoiBbQ4IDD6JU6iO2B+CRlf0lmy4rTv+L/QxWLgyTFcrz7JGXEis46oIMsLWoybqVpscjivtSXybi7/OX5wJzTo3GFi0iMmDM5H/RMV4RLua12ItZ/LJoBoBKFZYrEBuT+CVmnX4Giv0Ss96jx2zQSWDWtratG06ie2CMUas7K/vvmZFs897DC6hfT01Wjr6+3ZpPQxhjihzZjuZJ5UpLpL7+3id3MHx5unC8onxd4ddU7GgOLHj9QUzLFMn8f9Xg/fVaKCslAdXMLbs6Qlkv3XDQB9FFEWuhzfYeR6/gu2e+yGj7hTGppFFVzN6+GQr56fjDGI8H+6BbaqFv8LelYMKNHbw7g79rWJk/qjKBHyVZAZ1GJVSj3zSvIX7QlCtnR8ecaVwJ/pNbzVuLs3u6S15A=;t9v8rjPZkONnDfuNNOrWKg=="
+secured: "Z6sLUry1nvK5meorlkecaAUtRaLqVbhRLTJWkTYp+XdmDVQ/c64UxLdqo6zi36E7AeUu/0c5TBB3KLPlE47uIbELkq6+jE3rL80yq3I3joE2dmyYN/SdKbZeL4dOV30PNWThxub1vWSnpxwKA4Ol57gPVc0YFDAte14XsNbCMIpz8hF0roaESbzHIFXUwxRzki+7xuV79TinNRYPQdDYvPgJ3ZzCZwSgEFHI42aV5VmEuuW2PDk8LI6zKyFEi1zRvGU8S+DdR+Md0TdpKBxq3OLTktVFxY+LRPrbSZ57vwCKKLW+874r8gM7kZBl+qEt;Y42jZCqbi/jsn4pIFtX7UQ=="
 ---
 

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2020/02/21/moscow-deploys-facial-recognitio
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/02/21/moscow-deploys-facial-recognition-technology-for-coronavirus-quarantine.html"
 type: article
 quality: 189
-heat: 383
+heat: 403
 published: true
 
 provider:
@@ -60,6 +60,21 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/711x543/https://specials-images.forbesimg.com/dam/imageserve/905553688/960x0.jpg?fit=scale"
         width: 711
         height: 543
+  - title: "Moscow Using Facial Recognition to Enforce Coronavirus Quarantine of 2,500 Travelers from China"
+    excerpt: "Moscow is using facial recognition technology to enforce a quarantine on thousands of people who arrived in Russia from China, over fears of the new coronavirus that has killed over 2,000 people worldwide, according to a new report from the Moscow Times. The news comes as the virus, which causes an illness dubbed COVID-19, continues to spread ..."
+    publishedDateTime: 2020-02-21T23:43:00Z
+    webUrl: "https://gizmodo.com/moscow-using-facial-recognition-to-enforce-coronavirus-1841830557/amp?__twitter_impression=true"
+    ampWebUrl: "https://gizmodo.com/moscow-using-facial-recognition-to-enforce-coronavirus-1841830557/amp?__twitter_impression=true"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/moscow-using-facial-recognition-to-enforce-coronavirus-1841830557/amp?__twitter_impression=true"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 77
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/s--AKvNXy5y--/c_scale,f_auto,fl_progressive,q_80,w_800/ddahcgnqbfvrkf7kiawb.jpg"
+        width: 800
+        height: 449
   - title: "Hamilton police tested controversial facial recognition technology Clearview AI"
     excerpt: "People walk past a poster simulating facial recognition software at the Security China 2018 exhibition on public safety and security in Beijing, China October 24, 2018. (Thomas Peter/Reuters) Hamilton police have had access to a controversial facial recognition tool called Clearview AI, CBC News has learned, but have been directed to stop by ..."
     publishedDateTime: 2020-02-20T21:33:00Z
@@ -150,6 +165,21 @@ related:
       - url: "https://e3.365dm.com/20/02/1600x900/skynews-oxford-street-shoppers_4925640.jpg?20200220143955"
         width: 1600
         height: 900
+  - title: "Portland Ponders Facial Recognition Ban for Businesses"
+    excerpt: "The state of Oregon has already banned police from using body cameras with facial recognition, but the city wants to take the ban further. “We felt a moral obligation to develop a broader approach.” (TNS) — It took a few moments before Eduardo ..."
+    publishedDateTime: 2020-02-21T22:13:00Z
+    webUrl: "https://www.governing.com/security/Portland-Ponders-Facial-Recognition-Ban-for-Businesses.html"
+    ampWebUrl: "https://www.governing.com/security/Portland-Ponders-Facial-Recognition-Ban-for-Businesses.html?AMP"
+    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/Portland-Ponders-Facial-Recognition-Ban-for-Businesses.html?AMP"
+    type: article
+    provider:
+      name: Governing
+      domain: governing.com
+    quality: 59
+    images:
+      - url: "https://media2.govtech.com/images/shutterstock_1508404712.jpg"
+        width: 1008
+        height: 630
   - title: "Portland considering strictest ban on facial recognition technology in the U.S."
     excerpt: "“Please look at camera for entry.” Jacksons’ use of facial recognition technology could soon be outlawed in Portland. City officials are considering the strictest ban of the technology in the country, prohibiting its use not only by government agencies but also private businesses. Facial recognition technology typically uses a camera and ..."
     publishedDateTime: 2020-02-21T15:20:00Z
@@ -286,6 +316,6 @@ related:
       domain: tribune.com.pk
     quality: 19
 
-secured: "RRiyH2CzmVC/HRSX/dADiLTAxTBbaEjlPeMhUiyVOmfd0i/HkXF7tWS7CFGHVsVg/8SoVnmSoXoRMNuE7pNwlIBKg+3OMmnZmBDmV09zQwtkyOY8SZ2QHy9lySYaSEpwZgWcvCfMWt8f95AQs2cypquHZQLYGIpLGmxx1tMiYMkZ/MQ43fpp3z+jtdUZ6HX4UfK9E9LzarBBVBbW5AXFivVVglCeVT0xh/AhGousTunb4lScGC/eTky/udrirQS/Ov/kXFvht/E2DvH6YYhD70TfnwHIyjUYf1EZSKnFowtuAUn2BN7ce09wPjqDCuTuZp0ixiR8eJtlPZ/rhsJIGRoIdW4Q+ZP2GSTZPROoW9aSRBNOddhQgBId6wbuaS5276b0vlGgaJ1miC9aa2sKiMPRnaKsYihpURSELwm35J3AouZn4RHuKSq/2YQdWMtV5T/Gy6aD52ziEbornhrzIjBQ4fSqH/aTOXJJOCrgi3R4brUM6NfO/hTmJ9DEnKip;RDkAEN23weFKUo8tDdE1lw=="
+secured: "6lFD0BKAbRl594rNq3fhXLwgBIoHF1/iFmhewAySIocI5AlF7QH0WD5/21h8yeEYZDREEGMuH/5OUbdK+y3iUm3zUQqTQYgLD9IDoNhSWUkrOj1LiHrjdQQNo7jxu5sE2pj2iEcL5uFxm0yj9tMEX8cdJmE73lD7kJadKvP3sPbNnZ/lvSK7l4DSqgtMihdTI1gmHrG+5/Cw886DZUtyfGA8YBm6w0/qzqhN5rwV7El8EtLi0XToPsaEZxBr6Rvc/y0mfQeokynUxgVT2PgzuOMGkANzxWqLqhlVdQfr9fDTVn/i8oG1/YXcgtM+9zv3ofPUy2vbGczKnUMK+I7RlOEazCjVhNO9bNkzxdPsfseXHYOCrLMfj+C+sw+CKJkjfmBLwkUF4NaLXHCJRxCCkKT822hHFhlXwDqaADaPjnr9FZ67EjFRbH1uVQyOujpKgj4MbWkl+ijcudE3mAJvnuw4DClhFMrf4li+0dEm7tORcSLKteJRNUAJydnUAhZI;MoepFp1/BOkjEtVVmSGdYQ=="
 ---
 

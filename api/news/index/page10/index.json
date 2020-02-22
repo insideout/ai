@@ -2,6 +2,43 @@
   "page": 10,
   "value": [
     {
+      "path": "_posts/_archive/2020-01-06-robots-artificial-intelligence-highlight-ces-expo.md",
+      "title": "Robots, artificial intelligence highlight CES expo",
+      "excerpt": "The annual gadget fest in Las Vegas started this week with \"CES Unveiled,\" an event highlighted by several new robotic and artificial intelligence technology, including one that acts as a pet. (Jan. 6)",
+      "heat": 64,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fltimes.com/robots-artificial-intelligence-highlight-ces-expo/video_f52d8126-6f46-54e2-9e89-503ffb536d94.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-06T11:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finger Lakes Times",
+        "domain": "fltimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/fltimes.com/content/tncms/assets/v3/editorial/f/52/f52d8126-6f46-54e2-9e89-503ffb536d94/5e13998eab3cc.preview.jpg?crop=960%2C720%2C160%2C0&resize=840%2C630&order=crop%2Cresize",
+          "width": 840,
+          "height": 630,
+          "title": "Robots, artificial intelligence highlight CES expo",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-06-tech-trade-ban-exporting-ai-is-going-to-get-harder-says-us.md",
       "title": "Tech trade ban: Exporting AI is going to get harder, says US",
       "excerpt": "The US government is making it harder for US companies to export artificial-intelligence software that helps organizations automate object recognition from geospatial imagery. The export ...",
@@ -2107,43 +2144,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-10-inside-ibm-sterling-supply-chain-suite.md",
-      "title": "Inside: IBM Sterling Supply Chain Suite",
-      "excerpt": "IBM described the introduction of its Sterling Supply Chain Suite as “an integrated supply chain suite, embedded with Watson AI and IBM Blockchain and open to developers, to help organisations make their supply chains smarter, more efficient and better able to make decisions to adjust to disruptions and opportunities in an era when ...",
-      "heat": 69,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.supplychaindigital.com/technology/inside-ibm-sterling-supply-chain-suite",
-      "ampWebUrl": "https://www.supplychaindigital.com/technology/inside-ibm-sterling-supply-chain-suite?amp",
-      "cdnAmpWebUrl": "https://www-supplychaindigital-com.cdn.ampproject.org/c/s/www.supplychaindigital.com/technology/inside-ibm-sterling-supply-chain-suite?amp",
-      "publishedDateTime": "2020-01-10T05:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Supply Chain Digital",
-        "domain": "supplychaindigital.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "http://www.supplychaindigital.com/sites/default/files/styles/slider_detail/public/topic/image/GettyImages-1088950364%20%281%29.jpg?itok=QrgtHVc6",
-          "width": 778,
-          "height": 518,
-          "title": "Inside: IBM Sterling Supply Chain Suite",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI"
       ]
     }
   ],

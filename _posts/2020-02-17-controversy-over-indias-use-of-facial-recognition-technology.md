@@ -65,6 +65,21 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/711x543/https://specials-images.forbesimg.com/dam/imageserve/905553688/960x0.jpg?fit=scale"
         width: 711
         height: 543
+  - title: "Moscow Using Facial Recognition to Enforce Coronavirus Quarantine of 2,500 Travelers from China"
+    excerpt: "Moscow is using facial recognition technology to enforce a quarantine on thousands of people who arrived in Russia from China, over fears of the new coronavirus that has killed over 2,000 people worldwide, according to a new report from the Moscow Times. The news comes as the virus, which causes an illness dubbed COVID-19, continues to spread ..."
+    publishedDateTime: 2020-02-21T23:43:00Z
+    webUrl: "https://gizmodo.com/moscow-using-facial-recognition-to-enforce-coronavirus-1841830557/amp?__twitter_impression=true"
+    ampWebUrl: "https://gizmodo.com/moscow-using-facial-recognition-to-enforce-coronavirus-1841830557/amp?__twitter_impression=true"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/moscow-using-facial-recognition-to-enforce-coronavirus-1841830557/amp?__twitter_impression=true"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 77
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/s--AKvNXy5y--/c_scale,f_auto,fl_progressive,q_80,w_800/ddahcgnqbfvrkf7kiawb.jpg"
+        width: 800
+        height: 449
   - title: "Hamilton police tested controversial facial recognition technology Clearview AI"
     excerpt: "People walk past a poster simulating facial recognition software at the Security China 2018 exhibition on public safety and security in Beijing, China October 24, 2018. (Thomas Peter/Reuters) Hamilton police have had access to a controversial facial recognition tool called Clearview AI, CBC News has learned, but have been directed to stop by ..."
     publishedDateTime: 2020-02-20T21:33:00Z
@@ -155,6 +170,21 @@ related:
       - url: "https://e3.365dm.com/20/02/1600x900/skynews-oxford-street-shoppers_4925640.jpg?20200220143955"
         width: 1600
         height: 900
+  - title: "Portland Ponders Facial Recognition Ban for Businesses"
+    excerpt: "The state of Oregon has already banned police from using body cameras with facial recognition, but the city wants to take the ban further. “We felt a moral obligation to develop a broader approach.” (TNS) — It took a few moments before Eduardo ..."
+    publishedDateTime: 2020-02-21T22:13:00Z
+    webUrl: "https://www.governing.com/security/Portland-Ponders-Facial-Recognition-Ban-for-Businesses.html"
+    ampWebUrl: "https://www.governing.com/security/Portland-Ponders-Facial-Recognition-Ban-for-Businesses.html?AMP"
+    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/Portland-Ponders-Facial-Recognition-Ban-for-Businesses.html?AMP"
+    type: article
+    provider:
+      name: Governing
+      domain: governing.com
+    quality: 59
+    images:
+      - url: "https://media2.govtech.com/images/shutterstock_1508404712.jpg"
+        width: 1008
+        height: 630
   - title: "Portland considering strictest ban on facial recognition technology in the U.S."
     excerpt: "“Please look at camera for entry.” Jacksons’ use of facial recognition technology could soon be outlawed in Portland. City officials are considering the strictest ban of the technology in the country, prohibiting its use not only by government agencies but also private businesses. Facial recognition technology typically uses a camera and ..."
     publishedDateTime: 2020-02-21T15:20:00Z

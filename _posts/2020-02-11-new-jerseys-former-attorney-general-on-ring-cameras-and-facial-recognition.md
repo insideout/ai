@@ -8,7 +8,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/2/11/21120372/anne-milgra
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/11/21120372/anne-milgram-ring-cameras-facial-recognition-policing-vergecast-podcast"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -82,15 +82,6 @@ related:
       name: Portland Press Herald
       domain: pressherald.com
     quality: 17
-  - title: "Chicago Police Launch New Facial Recognition Technology, They Say, To Catch Crooks"
-    excerpt: "CHICAGO (CBS) — They’re watching you in a whole new way, with controversial new facial recognition software used by Chicago Police. CBS 2’s Tara Molina is Always Investigating and she found that while this software is new to the city, the practice isn’t. The department has used some form of facial recognition tech since at least 2013."
-    publishedDateTime: 2020-02-08T04:26:00Z
-    webUrl: "https://chicago.cbslocal.com/2020/02/07/chicago-police-launch-new-facial-recognition-technology-they-say-to-catch-crooks/"
-    type: article
-    provider:
-      name: CBS Boston / WBZ
-      domain: cbslocal.com
-    quality: 13
 
 secured: "aNGClI6UYQOA9+tRBG8bcM6sJPRolea3alNm3o+RRAoVhydKd5LLLRQZrGZ0nplFeSkfCq6cfyusZGRx4WSNIg7uvlR+2RZ3yirMGCra2qBbgvcPzYge8UgK8J7BB5vt6fT4WfpqmI1QFuBaEdfppY2ymrb4kK6lyVBfdguMABCw5hDMVZ0z/Rln4LA1MJwnXtSY/GOVJIO7VHl10LDz2hTf8uvZbpQ+nLO0i1zfkx7aEzK/B0BHlf0eWN3stLgW32PgSd9ah07M9CgPogXeSN03vSGwZK6O7xIFniRo6WcStAMTgGGbryj5bk1BokmIJkODw4UgUKO2bbJDMV/zzGDK7HU71oer+prNXRwszaE0oZ5fzzEFQx4EhlAZKOTm5tKbMw2+cZ9dgnLddAc+lxJnd22U9wp1PXE/+KrtRc0lBa7nKPltLLp1X+l8ndR+0aMGU4jFVxLiwhP8peqy7x0rvSj5iWiNSGqY2XXgNAg=;lEcx2nGWFDqy3ol4KeoiuQ=="
 ---

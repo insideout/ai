@@ -299,6 +299,21 @@ related:
       - url: "https://www.wjbf.com/wp-content/uploads/sites/47/2016/02/facebook-logo-on-laptop-screen_36088381_ver1.0.jpg?w=1280&h=720&crop=1"
         width: 1280
         height: 720
+  - title: "Facebook will pay you $5 to record your voice"
+    excerpt: "Facebook will pay you for your voice, but don’t expect to get wealthy. The California-based company is paying selected people to record phrases to improve its voice recognition tools. It’s asking them record the phrase, “Hey Portal, call…” which is its camera-equipped home device, followed by saying the first name of a Facebook ..."
+    publishedDateTime: 2020-02-22T21:08:00Z
+    webUrl: "https://fox4kc.com/news/facebook-will-pay-you-5-to-record-your-voice/"
+    ampWebUrl: "https://fox4kc.com/news/facebook-will-pay-you-5-to-record-your-voice/amp/"
+    cdnAmpWebUrl: "https://fox4kc-com.cdn.ampproject.org/c/s/fox4kc.com/news/facebook-will-pay-you-5-to-record-your-voice/amp/"
+    type: article
+    provider:
+      name: FOX4 Kansas City
+      domain: fox4kc.com
+    quality: 44
+    images:
+      - url: "https://fox4kc.com/wp-content/uploads/sites/16/2018/03/facebook_thumb.jpg?w=400&h=225&crop=1&resize=1280,720"
+        width: 1280
+        height: 720
   - title: "Facebook is willing to pay users for just recording audio for voice recognition"
     excerpt: "San Francisco: Facebook has announced it will pay select users who agree to record their voice to improve its speech recognition technology. According to The Verge, the social networking giant company will pay select users to record snippets of audio through a new programme called \"Pronunciations\" in its Viewpoints market research app."
     publishedDateTime: 2020-02-21T07:07:00Z

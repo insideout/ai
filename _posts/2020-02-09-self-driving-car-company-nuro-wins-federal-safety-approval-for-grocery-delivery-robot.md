@@ -26,21 +26,6 @@ images:
     title: "Self-driving car company Nuro wins federal safety approval for grocery delivery robot"
 
 related:
-  - title: "Federal government approves California company’s self-driving vehicle with no wheel or pedals"
-    excerpt: "MOUNTAIN VIEW, Calif. — The federal government has cleared the way for a Silicon Valley startup to deploy thousands of its self-driving delivery vehicles on US streets. The R2 has no steering wheel, pedals or side mirrors as it’s designed to be unmanned and carry cargo. Large compartments on its side open up to reveal deliveries ..."
-    publishedDateTime: 2020-02-08T04:16:00Z
-    webUrl: "https://fox4kc.com/2020/02/07/federal-government-approves-california-companys-self-driving-vehicle-with-no-wheel-or-pedals/"
-    ampWebUrl: "https://fox4kc.com/2020/02/07/federal-government-approves-california-companys-self-driving-vehicle-with-no-wheel-or-pedals/amp/"
-    cdnAmpWebUrl: "https://fox4kc-com.cdn.ampproject.org/c/s/fox4kc.com/2020/02/07/federal-government-approves-california-companys-self-driving-vehicle-with-no-wheel-or-pedals/amp/"
-    type: article
-    provider:
-      name: FOX4 Kansas City
-      domain: fox4kc.com
-    quality: 33
-    images:
-      - url: "https://placehold.it/300X250"
-        width: 300
-        height: 250
   - title: "Self-Driving Car Market Outlook: World Approaching Demand & Growth Prospect 2019-2025 | BMW, Daimler, Ford, General Motors"
     excerpt: "The self-driving car market has high growth prospects owing to increasing demand for autonomous vehicles and technological advancement such as integration of artificial intelligence and machine learning technologies in the self- driving car propelling the market growth. For instance, Tesla announced to release fully self-driving cars by 2019."
     publishedDateTime: 2020-02-11T13:56:00Z

@@ -61,9 +61,9 @@ related:
   - title: "New AI Method Speeds Battery Designs for Electric Cars"
     excerpt: "In a recent Stanford News report, a study led by Stanford University professors Stefano Ermon and William Chueh, along with their colleagues at the Massachusetts Institute of Technology (MIT) and the Toyota Research Institute, created a battery testing method using artificial intelligence (AI) machine learning that reduces battery testing times ..."
     publishedDateTime: 2020-02-22T20:46:00Z
-    webUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202002/new-ai-method-speeds-battery-designs-electric-cars"
-    ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202002/new-ai-method-speeds-battery-designs-electric-cars?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202002/new-ai-method-speeds-battery-designs-electric-cars?amp"
+    webUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202002/new-ai-method-speeds-battery-designs-electric-cars"
+    ampWebUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202002/new-ai-method-speeds-battery-designs-electric-cars?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-future-brain/202002/new-ai-method-speeds-battery-designs-electric-cars?amp"
     type: article
     provider:
       name: Psychology Today
