@@ -23,28 +23,19 @@ images:
     title: "ECG to deploy artificial intelligence in fighting power theft – Bawumia"
 
 related:
-  - title: "ECG: Artificial Intelligence project to end power theft – Bawumia"
-    excerpt: "The Vice President, Dr Mahamudu Bawumia, has announced that the Electricity Company of Ghana (ECG) is piloting an Artificial Intelligence (AI) system which when fully operational will completely eliminate electricity stealing in the entire country. Addressing a ceremony at the ECG head office to officially launch the ECG Mobile Application (ECG ..."
-    publishedDateTime: 2020-02-18T13:21:00Z
-    webUrl: "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/ECG-Artificial-Intelligence-project-to-end-power-theft-Bawumia-869986"
+  - title: "ARV to deploy AI for farming, analytics"
+    excerpt: "AI and Robotics Ventures (ARV), a subsidiary of PTT Exploration and Production (PTTEP), is diversifying into agriculture by developing AI (artificial intelligence) and data analytics systems for local farming. Thana Slanvetpan, ARV's general manager, said the company is planning a joint venture with Thaicom in a collaboration with this project."
+    publishedDateTime: 2020-02-16T23:41:00Z
+    webUrl: "https://www.bangkokpost.com/business/1859129/arv-to-deploy-ai-for-farming-analytics"
     type: article
     provider:
-      name: Ghanaweb.com
-      domain: ghanaweb.com
+      name: Bangkok Post
+      domain: bangkokpost.com
     quality: 37
     images:
-      - url: "https://cdn.ghanaweb.com/imagelib/pics/105/10511846.jpg"
-        width: 600
-        height: 502
-  - title: "ECG to deploy artificial intelligence to tackle power theft"
-    excerpt: "Vice President Dr Mahamudu Bawumia has hinted of plans by the Electricity Company of Ghana (ECG) to employ the use of Artificial Intelligence and Remote Sensors across its systems to fight the canker of power theft. Speaking at the launch of a mobile application for ECG customers on Tuesday, Vice President Bawumia indicated that difficulties in ..."
-    publishedDateTime: 2020-02-19T00:44:00Z
-    webUrl: "https://www.ghanaweb.com/GhanaHomePage/business/ECG-to-deploy-artificial-intelligence-to-tackle-power-theft-870454"
-    type: article
-    provider:
-      name: Ghanaweb.com
-      domain: ghanaweb.com
-    quality: 17
+      - url: "https://static.bangkokpost.com/media/content/dcx/2020/02/17/3529629_700.jpg"
+        width: 700
+        height: 526
 
 secured: "fTcNxskXoJ75WxLhKpQPeCDRuvN70D4Luz9yz6FZwN0UAKr9UF3qyUue+149yPEvLlegkGzXZ0E+VowR7DH5fiBMaM+xkpYcAkZX60LDX4tIr0agbJgdW5qtuR8ixiRwZI7z6ahErJCZTJ/qMyHZ4gOYo46xTMy/BcJf7eTIpKSE/UkOSbYFrAg6qaS7ySnqkHlqmrKkjACiiOaukInkDUpmzNj+ViufCmpKMcdHkzWalFeGDGstJpaVmiU4SlKDx20+UVVw2/+Gd7zTQkP/93Vf1/ACwlfLBZ89Xi4PUsSo4PkDKS+Vw1ASNx7LSmI7BH2eJbCfevSbMQC26eAx4EqVKIDp0xeys693Mx+s0Ao5QN2j8Ft3NXDyvAjxaZr8GqUG4HmnhwSel46muvkGnxfZeBImOsy+je2sX/pKiOPE3xdUJM6GFDCit5dq/hfuDybfS50c5z4G8E07LokN3plnanfvJJJ3z8toqohfvH8=;n9Ivm+X5Us8ksrOhF2ev/Q=="
 ---

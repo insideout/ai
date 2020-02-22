@@ -1,72 +1,78 @@
 ---
 category: news
 title: "EU proposes rules for artificial intelligence to limit risks"
-excerpt: "The European Union unveiled proposalsWednesday to regulate artificial intelligence that call for strict rules and safeguards on risky applications of the rapidly developing technology. The report is part of the bloc's wider digital strategy aimed at maintaining its position as the global pacesetter on technological standards."
-publishedDateTime: 2020-02-20T00:18:00Z
-webUrl: "https://www.sfgate.com/business/technology/article/EU-proposes-rules-for-artificial-intelligence-to-15066968.php"
-ampWebUrl: "https://www.sfgate.com/business/technology/amp/EU-proposes-rules-for-artificial-intelligence-to-15066968.php"
-cdnAmpWebUrl: "https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/business/technology/amp/EU-proposes-rules-for-artificial-intelligence-to-15066968.php"
+excerpt: "The EU's report said clear rules are needed to address “high-risk AI systems,” such as those in recruitment, healthcare, law enforcement or transport, which should be “transparent, traceable and guarantee human oversight.” Other artificial intelligence systems could come with labels certifying that they are in line with EU standards."
+publishedDateTime: 2020-02-20T06:09:00Z
+webUrl: "https://www.kansascity.com/news/business/national-international/article240423231.html"
+ampWebUrl: "https://amp.kansascity.com/news/business/national-international/article240423231.html"
+cdnAmpWebUrl: "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/news/business/national-international/article240423231.html"
 type: article
-quality: 57
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: SFGate
-  domain: sfgate.com
+  name: Kansas City Star
+  domain: kansascity.com
 
 topics:
   - AI
-
-images:
-  - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-    width: 375
-    height: 211
-    title: "EU proposes rules for artificial intelligence to limit risks"
+  - AI in Healthcare
 
 related:
-  - title: "Europe plans to strictly regulate high-risk AI technology"
-    excerpt: "By Nicholas Wallace Feb. 19, 2020 , 12:05 PM The European Commission today unveiled its plan to strictly regulate artificial intelligence (AI), distinguishing itself from more freewheeling approaches to the technology in the United States and China."
-    publishedDateTime: 2020-02-19T18:11:00Z
-    webUrl: "https://www.sciencemag.org/news/2020/02/europe-plans-strictly-regulate-high-risk-ai-technology"
+  - title: "EU Fights For ‘Purpose’ in Grand Plan for Tech, AI Rules"
+    excerpt: "China might have data and the U.S. might have money, but Europe has purpose. That’s the message European Union tech czar Margrethe Vestager aims to convey on Wednesday when she unveils plans to help the bloc compete with the U."
+    publishedDateTime: 2020-02-16T23:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-02-16/eu-to-launch-grand-plan-on-ai-tech-in-challenge-to-u-s-china"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-02-16/eu-to-launch-grand-plan-on-ai-tech-in-challenge-to-u-s-china"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-02-16/eu-to-launch-grand-plan-on-ai-tech-in-challenge-to-u-s-china"
     type: article
     provider:
-      name: Science | AAAS
-      domain: sciencemag.org
-    quality: 139
-    images:
-      - url: "https://www.sciencemag.org/sites/default/files/styles/article_main_large/public/European_AI_Regulation_1280x720.jpg?itok=OAWMDBz_"
-        width: 1280
-        height: 720
-  - title: "EU proposes rules for artificial intelligence to limit risks"
-    excerpt: "The European Union is unveiling proposals to regulate artificial intelligence that call for strict rules and safeguards on risky applications of the emerging technology. The report"
-    publishedDateTime: 2020-02-19T11:35:00Z
-    webUrl: "https://www.kxan.com/news/international/eu-proposes-rules-for-artificial-intelligence-to-limit-risks/"
-    ampWebUrl: "https://www.kxan.com/news/international/eu-proposes-rules-for-artificial-intelligence-to-limit-risks/amp/"
-    cdnAmpWebUrl: "https://www-kxan-com.cdn.ampproject.org/c/s/www.kxan.com/news/international/eu-proposes-rules-for-artificial-intelligence-to-limit-risks/amp/"
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 67
+  - title: "EU to Launch Grand Plan on AI, Tech In Challenge to U.S, China"
+    excerpt: "China might have data and the U.S. might have money, but Europe has purpose. That’s the message European Union tech czar Margrethe Vestager aims to convey on Wednesday when she unveils plans to help the bloc compete with the U."
+    publishedDateTime: 2020-02-16T23:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-02-16/eu-to-launch-grand-plan-on-ai-tech-in-challenge-to-u-s-china"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-02-16/eu-to-launch-grand-plan-on-ai-tech-in-challenge-to-u-s-china"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-02-16/eu-to-launch-grand-plan-on-ai-tech-in-challenge-to-u-s-china"
     type: article
     provider:
-      name: KXAN
-      domain: kxan.com
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 67
+  - title: "US pushes light regulations for AI, in contrast to Europe"
+    excerpt: "The guidelines encourage driverless-car manufacturers to submit safety self ... But they do aim to deliver on von der Leyen’s promise to initiate legislation on artificial intelligence within her first 100 days in office, a pledge she made last summer ..."
+    publishedDateTime: 2020-02-20T02:22:00Z
+    webUrl: "https://www.politico.eu/article/us-pushes-light-regulations-for-ai-in-contrast-to-europe/"
+    ampWebUrl: "https://www.politico.eu/article/us-pushes-light-regulations-for-ai-in-contrast-to-europe/amp/"
+    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/us-pushes-light-regulations-for-ai-in-contrast-to-europe/amp/"
+    type: article
+    provider:
+      name: POLITICO
+      domain: politico.eu
     quality: 59
     images:
-      - url: "https://www.kxan.com/wp-content/uploads/sites/40/2020/02/26a5d5519fb44b4cbb90a8135709a722.jpg?w=1280&h=720&crop=1"
-        width: 1280
-        height: 720
-  - title: "EU Unveils Plans to Regulate Artificial Intelligence"
-    excerpt: "Margrethe Vestager, the EU’s digital policy chief, unveiled a strategy for artificial intelligence on Wednesday that aims to boost the use of AI in Europe while addressing concerns about data privacy. “We want every citizen, every employee, every business to stand a fair chance to reap the benefits of digitalization,” she said in a statement."
-    publishedDateTime: 2020-02-19T18:32:00Z
-    webUrl: "https://www.law.com/international-edition/2020/02/19/eu-unveils-plans-to-regulate-artificial-intelligence/"
+      - url: "https://www.politico.eu/wp-content/uploads/2020/01/GettyImages-1035331888-1200x628.jpg"
+        width: 1200
+        height: 628
+  - title: "EU to launch grand plan for AI, tech in challenge to US, China"
+    excerpt: "In the U.S., reports that police were using technology from Clearview AI -- a startup that’s scraped billions of photos from social media accounts with the aim of helping law enforcement find suspects without criminal records -- caused a backlash from privacy groups and lawmakers.The same groups are urging legislation to prevent abuses of a ..."
+    publishedDateTime: 2020-02-17T04:50:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/eu-to-launch-grand-plan-for-ai-tech-in-challenge-to-us-china-11581912099688.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/eu-to-launch-grand-plan-for-ai-tech-in-challenge-to-us-china/amp-11581912099688.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/eu-to-launch-grand-plan-for-ai-tech-in-challenge-to-us-china/amp-11581912099688.html"
     type: article
     provider:
-      name: Law
-      domain: law.com
-    quality: 37
+      name: Mint
+      domain: livemint.com
+    quality: 57
     images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/378/2019/04/Artificial-Intelligence-Article-201904091050.jpg"
-        width: 620
-        height: 372
+      - url: "https://images.livemint.com/img/2020/02/17/600x338/2020-01-30T114805Z_148678691_RC2BQE9Y9Q8L_RTRMADP_3_EU-ANTITRUST_1581912675356_1581912712630.JPG"
+        width: 600
+        height: 338
 
-secured: "w/YrNeA/OFCN0A3TuvZWVv4WfT3KMexCm2KmsSnt7FoIKfOmGsE9vZnqSCcS0P1lLRgsId0rKqOJ/JJbOBwWJMrZF3M7aKoOiiU9qpFIoZ9RWRhnE0OW63JR6RztMbt9TyD7HL9Qtg+DN4o0ozjGHlqSllYJVtOywGUh0FVDDwOGcZn/bN+b9RmfZk5WdErajdlmNlne3lRHSWyc4C0fyURhHeUdD1L9+eIg7ivgoaZ8AUdTAOTLAg4axRyMnsn2/Z6gPAoDLn3gmrE7CcSR5F7d5rVZuwiILANhjjOh6eFIoRFmOe4PUnmn7puqZQCI;L4e9cwSMPtka0JAkdRRg0A=="
+secured: "D31lRcPfl8lCcIn3JH3Whl9p/Jj7PUfnZGcVfzWhvBwFDiait9eTqH1W8nUJAs0XL0BM7kucr77ZtsZOAPZ2QvsHeTrwV8FhXVzGKjTfqbdsGkiyqhU9MRpZPn8cu2jAc/D0ofXefomGCLC9oSVw7PpMJX2FkpnzpvNKJSK6O/no7kkeLQt/V1pOiAWECRZhkSj3/a4ZADyacf4nTgehHaw2/1LiGdBUbuV3cYus5bemKE1wQMKOm2uwtOV24FsW1HmhzXHJjZ2U6iJPopZLIdnz2P5LuVRBd48WgktrVKjaZ44KztwvB0L4cMeHoVy7GoWrp8/GCSQkR8RZECt9O8T95nTBO50GpQtd2rG+HpxeghUH+9EkigWPHY053Ibzg4hVsWL6KxbsXzJ5XVQZwGSMNcDX6L/X/XefePoL2KgYNfRB2kbitk6iflgW0dVduKOd3VJdm4UhzRRpkrhj0jpWjxOYEtw78K9s2+lVhz8=;Bxoq1wxCEhDxyYei9kZd+A=="
 ---
 

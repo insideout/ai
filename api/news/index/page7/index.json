@@ -2,42 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_posts/2020-02-19-transcript-tech-expert-ben-buchanan-talks-with-michael-morell-on-intelligence-matters.md",
-      "title": "Transcript: Tech expert Ben Buchanan talks with Michael Morell on \"Intelligence Matters\"",
-      "excerpt": "Can we get AI talent to come to our shores, not just for education, but for work? Can we get AI talent to work in national security in a way that's consistent with their principles? Can we get a federal government ... the first thing we need to say, I think there's a lot of hype in Silicon Valley around AI and cyber on defense.",
-      "heat": 133,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cbsnews.com/news/transcript-tech-expert-ben-buchanan-talks-with-michael-morell-on-intelligence-matters/",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/transcript-tech-expert-ben-buchanan-talks-with-michael-morell-on-intelligence-matters/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/transcript-tech-expert-ben-buchanan-talks-with-michael-morell-on-intelligence-matters/",
-      "publishedDateTime": "2020-02-19T03:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/02/19/638f33e3-728d-4dc0-a92f-16a59234d241/thumbnail/1200x630/ec4e33af4cbd2e79aee757eb4fe5d69f/screen-shot-2020-02-18-at-7-49-39-pm.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Transcript: Tech expert Ben Buchanan talks with Michael Morell on \"Intelligence Matters\"",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-19-uber-in-birmingham-to-launch-face-recognition-checks-for-drivers.md",
       "title": "Uber in Birmingham to launch face recognition checks for drivers",
       "excerpt": "Uber has just been given a new one-year licence to continue in Birmingham and pledges to do more to ease safety fears - including introducing driver facial recognition technology Uber in Birmingham is to launch new face-matching technology for drivers, alongside a passenger 'panic button', to ease safety fears. The company's UK chief was in ...",
@@ -541,7 +505,7 @@
       "path": "_posts/2020-02-20-facebook-will-now-pay-you-for-your-voice-recordings.md",
       "title": "Facebook will now pay you for your voice recordings",
       "excerpt": "Facebook will offer to pay some users for voice recordings that will be used to help improve its speech recognition technology, the company announced Thursday. The move comes after Facebook — as well as Amazon, Apple, Google, and Microsoft — was caught listening to and transcribing voice recordings to improve speech recognition systems ...",
-      "heat": 365,
+      "heat": 375,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.theverge.com/2020/2/20/21145584/facebook-pay-record-voice-speech-recognition-viewpoints-proununciations-app",
@@ -2114,6 +2078,50 @@
       "topics": [
         "AI",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-21-can-ai-better-match-luxury-real-estate-agents-with-well-heeled-buyers.md",
+      "title": "Can AI Better Match Luxury Real Estate Agents With Well-Heeled Buyers?",
+      "excerpt": "Nascent technologies and AI can assist high-end real estate agent reach more buyers and better communicate with them, but old-fashioned personal networking is still crucial in a sector driven by customization and individual attention.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/dimawilliams/2020/02/21/can-ai-better-match-luxury-real-estate-agents-with-high-heeled-buyers/",
+      "ampWebUrl": "https://www.forbes.com/sites/dimawilliams/2020/02/21/can-ai-better-match-luxury-real-estate-agents-with-high-heeled-buyers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/dimawilliams/2020/02/21/can-ai-better-match-luxury-real-estate-agents-with-high-heeled-buyers/amp/",
+      "publishedDateTime": "2020-02-21T09:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1071612584%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Can AI Better Match Luxury Real Estate Agents With Well-Heeled Buyers?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

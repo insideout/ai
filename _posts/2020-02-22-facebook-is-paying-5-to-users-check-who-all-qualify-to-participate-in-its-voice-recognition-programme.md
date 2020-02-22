@@ -278,6 +278,21 @@ related:
       - url: "https://localtvwiti.files.wordpress.com/2018/10/untitled-26.jpg?quality=85&strip=all"
         width: 729
         height: 410
+  - title: "Facebook will you $5 to record your voice"
+    excerpt: "(CNN) – Facebook will pay you to record your voice. The company is looking for select people to help improve its voice recognition tools. All you have to do is record a phrase… followed by the first name of a Facebook friend. You do that multiple times. In total, the task takes around five minutes. It doesn’t pay much though — you get ..."
+    publishedDateTime: 2020-02-21T17:46:00Z
+    webUrl: "https://www.wjbf.com/news/facebook-will-you-5-to-record-your-voice/"
+    ampWebUrl: "https://www.wjbf.com/news/facebook-will-you-5-to-record-your-voice/amp/"
+    cdnAmpWebUrl: "https://www-wjbf-com.cdn.ampproject.org/c/s/www.wjbf.com/news/facebook-will-you-5-to-record-your-voice/amp/"
+    type: article
+    provider:
+      name: WJBF
+      domain: wjbf.com
+    quality: 44
+    images:
+      - url: "https://www.wjbf.com/wp-content/uploads/sites/47/2016/02/facebook-logo-on-laptop-screen_36088381_ver1.0.jpg?w=1280&h=720&crop=1"
+        width: 1280
+        height: 720
   - title: "Facebook is willing to pay users for just recording audio for voice recognition"
     excerpt: "San Francisco: Facebook has announced it will pay select users who agree to record their voice to improve its speech recognition technology. According to The Verge, the social networking giant company will pay select users to record snippets of audio through a new programme called \"Pronunciations\" in its Viewpoints market research app."
     publishedDateTime: 2020-02-21T07:07:00Z

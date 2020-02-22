@@ -2,6 +2,50 @@
   "page": 26,
   "value": [
     {
+      "path": "_posts/_archive/2020-02-07-finding-the-cracks-in-public-data-keeping-our-ai-safe-from-tampering.md",
+      "title": "Finding The Cracks In Public Data: Keeping Our AI Safe From Tampering",
+      "excerpt": "To safely incorporate AI into the world of the future, it’s paramount that agencies pay attention to the source of their data.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/06/finding-the-cracks-in-public-data-keeping-our-ai-safe-from-tampering/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/06/finding-the-cracks-in-public-data-keeping-our-ai-safe-from-tampering/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/06/finding-the-cracks-in-public-data-keeping-our-ai-safe-from-tampering/amp/",
+      "publishedDateTime": "2020-02-06T19:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/515444720/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 474,
+          "title": "Finding The Cracks In Public Data: Keeping Our AI Safe From Tampering",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-02-07-first-peoples-sing-with-one-voice-this-anthem-is-not-ours-and-at-last-the-nrl-hears.md",
       "title": "First Peoples sing with one voice: this anthem is not ours and at last the NRL hears",
       "excerpt": "These ... lyrics have changed before, and for a song that has only been our official anthem since 1974, perhaps this might be the right time to update it. Despite Durham and Edwards’ conciliatory efforts, some will say the First Peoples of this continent have much more pressing concerns than a song. This is true, but those concerns do not ...",
@@ -27,6 +71,52 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-02-07-geek-of-the-week-trupanions-david-jaw-uses-machine-learning-to-help-facilitate-better-pet-care.md",
+      "title": "Geek of the Week: Trupanion’s David Jaw uses machine learning to help facilitate better pet care",
+      "excerpt": "As the leader of the data science department at Trupanion in Seattle, David Jaw’s projects are actually around pets. Jaw, GeekWire’s latest Geek of the Week, uses artificial intelligence and machine learning to help automate medical insurance claims for pets, streamlining the process and removing the worry about what’s covered and what ...",
+      "heat": 78,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geekwire.com/2020/david-jaw-2/",
+      "ampWebUrl": "https://www.geekwire.com/2020/david-jaw-2/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/david-jaw-2/amp/",
+      "publishedDateTime": "2020-02-07T14:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/02/hank_home_011-630x511.jpg",
+          "width": 630,
+          "height": 511,
+          "title": "Geek of the Week: Trupanion’s David Jaw uses machine learning to help facilitate better pet care",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Finance"
       ]
     },
     {
@@ -209,6 +299,51 @@
       "topics": [
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-02-07-nuros-r2-vehicle-has-been-granted-the-nhtsas-first-regulatory-exemption-for-a-custom-self-driving-car.md",
+      "title": "Nuro's R2 vehicle has been granted the NHTSA's first regulatory exemption for a custom self-driving car",
+      "excerpt": "Self-driving cars: Nuro is a well-known entity in the autonomous vehicle industry. It's partnered up with companies like Kroger and Dominos in the past to offer driverless food and grocery delivery services via its \"R1\" generation of vehicles. Now ...",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techspot.com/news/83926-nuro-has-granted-nhtsa-first-regulatory-exemption-custom.html",
+      "ampWebUrl": "https://www.techspot.com/amp/news/83926-nuro-has-granted-nhtsa-first-regulatory-exemption-custom.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83926-nuro-has-granted-nhtsa-first-regulatory-exemption-custom.html",
+      "publishedDateTime": "2020-02-07T14:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/ts3_thumbs/2020/02/2020-02-07-ts3_thumbs-3a9.jpg",
+          "width": 800,
+          "height": 560,
+          "title": "Nuro's R2 vehicle has been granted the NHTSA's first regulatory exemption for a custom self-driving car",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
       ]
     },
     {

@@ -18,11 +18,11 @@ topics:
   - AI in Autos
 
 images:
-  - url: "https://image.issuu.com/161101100337-00029289bc4c42a7b454fe68dd15a568/jpg/page_1_thumb_large.jpg"
+  - url: "https://image.issuu.com/160316145944-339c517c519c4194b8d9b6955fbcbbb0/jpg/page_1_thumb_large.jpg"
     width: 320
     height: 457
     title: "Experts Highlight New Technologies to Shape Businesses in 2020"
 
-secured: "grx7+WvhFOwRk+pCgCMXSj417ooscoG1E0ybn0OpHZny2USCfeQKWLUmDU/MyMhgSdjCMn5O9r+MonEHX+tl3Hd+IerFvkRlZx/2AXjOnNmiNUMmEW1Am7JFf7UVIkpmZ7Vry3KwTlO6MZ5xCC+fWI6BFQOxM2FmEWwztXlS1tWgWLMDnl9I88DqhpvMzLl1Ujvi77yxUVcUxC/1lZdiEfMEOkhz2pVL5UNH5bFx23EPIntPYWqQ+pA+qC4smFSSLjEBXnrZ+lyfAMG2mSjqqm4CCnF4/OFSVAIcSMizbeAa6zVDRj1aT41sTmrRlbIl;/vSWgpWjnQvSJkoSjqqEZg=="
+secured: "4svwNoG9dZAvYHUfKiCfoxWruXuRxpRtbtPOqOtjrtUyYFNRqW19InNihro1dITPwrr+UGZhAkmrXu8Tq08qAJYqolNw2ULJlvhK0QRNMY9Dwcuhwd5ali32mod6hqDWZeJ70t87GAm259a07goyb0lMfrmaIPyi6p0KRKF6WKzT3CbQxNNL0sXqbYPbDarG6Uv/1HYcYEjL3lPHgUyTirf+p8W4onXrexPCJZTnQjlgpVacn72dx0fMPVltyGyQgra/BCbM4/VeSg6ApbiTlujJwu2Sa/FlxHiQPkYjWIhGkf/k6GqVSvYvTxYWM6L/;ZD+K/mDm0nbuQoS7UYQeQg=="
 ---
 

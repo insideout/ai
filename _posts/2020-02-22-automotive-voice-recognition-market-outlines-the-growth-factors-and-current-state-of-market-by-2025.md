@@ -1,17 +1,17 @@
 ---
 category: news
 title: "Automotive Voice Recognition Market Outlines the Growth Factors and Current State of Market by 2025"
-excerpt: "The report consists of streamlined financial data obtained from various research sources to provide specific and trustworthy analysis. Evaluation of the key market trends with a positive impact on the market over the following couple of years, including an ..."
-publishedDateTime: 2020-02-22T11:28:00Z
-webUrl: "https://www.arnnet.com.au/mediareleases/39726/automotive-voice-recognition-market-outlines-the/"
+excerpt: "\"The statistical surveying report comprises of a detailed study of the Automotive Voice Recognition Market 2020 along with the industry trends, size, share, growth drivers, challenges, competitive analysis, and revenue. The report also includes an analysis on the overall market competition as well as the product portfolio of major players ..."
+publishedDateTime: 2020-02-22T12:40:00Z
+webUrl: "https://www.reseller.co.nz/mediareleases/39726/automotive-voice-recognition-market-outlines-the/"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: ARN
-  domain: arnnet.com.au
+  name: Reseller News
+  domain: reseller.co.nz
 
 topics:
   - AI
@@ -296,6 +296,6 @@ related:
       domain: marketwatch.com
     quality: 0
 
-secured: "T3F6lJrGHw4g6MuvF8X9U1+hM4oai3hhhhsJ8eVeXJCAIk5PQ0mJVfku5J0oNDpe7pxouEfIKnqaihT6Nsy3C9hIn5xzuboaAFr465ZzjvfHE7toFl0iaNYe5LFs/10bWYv6eosCo0F4EZx2k3zd42wADJTxPEYVkonV4f2zgTtTsxHvgga0gPMdVI9UUbz6kHqV/+y9MZk8nD4sUT39C8fmBsfDqqoeId8U7uc65zSUujweaLURMJr0JveurQ99hPP0xY3d+NGa95dNxQ3M9U69HylauRsdEPOKNZb4VRaOPPKAlKI9RX/5FACNKsT6;/arCuGhROjd5PmNLzK5PlQ=="
+secured: "Jp78MLRR4RhwNGYvPE5VaT9UL/BCzTAowCCt8S2z9N7PH3ENwgl65PJglpozDz0RAGbNqQKvdluGGOCPzmfzQVJ2bLdAsE4AGszKdirDW0LYV9X65UIl8paHX79eySTUUEthsNRzN/Jw5h2jH/KXKSlpJy0RCJvfXdtY039ga53W5ew/dfL486zUIVqi8jMEigam29SHzg2AhkCU5DfKtF8/cxivs2HA4gxFYdZeKqqzdiqzq1pCpV/nNG3XjykOjeW7s/8qfpTM15aUY8iNN3yJoXZZEugW3cQUZCRxEbokCyVoJZjKGePcHwyZVNyw;zMLzZwo8dVsGnJ3jIBPFMA=="
 ---
 

@@ -42,21 +42,6 @@ related:
       - url: "https://hackaday.com/wp-content/uploads/2017/02/ghost.jpg"
         width: 3000
         height: 1815
-  - title: "What are Machine Learning and Deep Learning in Artificial Intelligence"
-    excerpt: "AI can be called a superset of Machine Learning (ML) processes, and Deep Learning (DL) processes. AI usually is an umbrella term that is used for ML and DL. Deep Learning is again, a subset of ..."
-    publishedDateTime: 2020-02-03T03:39:00Z
-    webUrl: "https://www.thewindowsclub.com/machine-learning-deep-learning-artificial-intelligence"
-    ampWebUrl: "https://www.thewindowsclub.com/machine-learning-deep-learning-artificial-intelligence/amp"
-    cdnAmpWebUrl: "https://www-thewindowsclub-com.cdn.ampproject.org/c/s/www.thewindowsclub.com/machine-learning-deep-learning-artificial-intelligence/amp"
-    type: article
-    provider:
-      name: TWCN Tech News
-      domain: thewindowsclub.com
-    quality: 89
-    images:
-      - url: "https://thewindowsclub-thewindowsclubco.netdna-ssl.com/wp-content/uploads/2020/01/aivsmlvsdl.png"
-        width: 412
-        height: 338
   - title: "Arm brings AI and machine learning to IoT and the edge"
     excerpt: "However, because a great deal of ML and AI-based algorithm work is being created in frameworks, such as TensorFlow, the company is also bringing support for its new IP designs into TensorFlow Lite Micro, which is optimized for the types of smaller devices for which these new chips are intended. In addition to software, there are several ..."
     publishedDateTime: 2020-02-11T16:10:00Z

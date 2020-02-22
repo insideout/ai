@@ -60,19 +60,6 @@ related:
       - url: "https://img.buzzfeed.com/buzzfeed-static/static/2020-02/10/16/asset/da869febf445/sub-buzz-274-1581350749-7.jpg?output-quality=auto&output-format=auto&downsize=640:*"
         width: 640
         height: 440
-  - title: "Miami, LA Firms Sue Google Over Facial Recognition Photo Scans"
-    excerpt: "Law firms in Miami and Los Angeles claim in a class action that the Google Photos service uses facial recognition technology that violates an Illinois biometric privacy law with stiff statutory penalties. The lawsuit filed in U.S. District Court for the Northern District of California claims Google failed to get the consent or written release ..."
-    publishedDateTime: 2020-02-07T21:16:00Z
-    webUrl: "https://www.law.com/dailybusinessreview/2020/02/07/google-hit-with-class-action-under-illinois-biometric-privacy-law-over-facial-recognition-392-82075/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 39
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/392/2020/02/Google-Headquarters-Shutterstock.com_.jpg"
-        width: 620
-        height: 372
   - title: "Tech giants hammer facial recognition startup"
     excerpt: "Facebook, YouTube, Twitter, Venmo and Linkedin have sent Clearview AI cease-and-desist letters in the wake of a blockbuster report that the facial recognition startup has scraped billions of people's faces from their websites, the New York Times reports."
     publishedDateTime: 2020-02-08T21:15:00Z

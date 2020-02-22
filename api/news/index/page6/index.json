@@ -2,51 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_posts/2020-02-18-vote-for-the-pacific-northwests-best-innovation-at-the-geekwire-awards.md",
-      "title": "Vote for the Pacific Northwest’s best innovation at the GeekWire Awards",
-      "excerpt": "(GeekWire Photo / Kevin Lisota) The Pacific Northwest’s status as an innovation hub is well-documented: It is at the center of the cloud computing revolution, a hotspot for artificial intelligence, and it will play a role in the future of driverless cars, mobile technology, video games and much more. But the innovation in the region goes well ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/vote-pacific-northwests-best-innovation-geekwire-awards/",
-      "ampWebUrl": "https://www.geekwire.com/2020/vote-pacific-northwests-best-innovation-geekwire-awards/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/vote-pacific-northwests-best-innovation-geekwire-awards/amp/",
-      "publishedDateTime": "2020-02-17T18:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2019/08/textiosnyder-630x420.jpg",
-          "width": 630,
-          "height": 420,
-          "title": "Vote for the Pacific Northwest’s best innovation at the GeekWire Awards",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_posts/2020-02-18-webinar-leveraging-ai-to-maximize-collaborative-robot-efficiency-march-17.md",
       "title": "Webinar: Leveraging AI to maximize collaborative robot efficiency – March 17",
       "excerpt": "Recent advancements in Artificial Intelligence (AI) have enabled collaborative robots to precisely execute tasks in dynamically changing workspaces, enabling operations to run more smoothly, efficiently and productively. This webinar will define AI and demonstrate how AI-powered cobots can increase production, decrease cost, and shorten cycle ...",
@@ -945,7 +900,7 @@
       "path": "_posts/2020-02-19-europe-plans-to-strictly-regulate-high-risk-ai-technology.md",
       "title": "Europe plans to strictly regulate high-risk AI technology",
       "excerpt": "By Nicholas Wallace Feb. 19, 2020 , 12:05 PM The European Commission today unveiled its plan to strictly regulate artificial intelligence (AI), distinguishing itself from more freewheeling approaches to the technology in the United States and China.",
-      "heat": 169,
+      "heat": 159,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.sciencemag.org/news/2020/02/europe-plans-strictly-regulate-high-risk-ai-technology",
@@ -2116,6 +2071,42 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-19-transcript-tech-expert-ben-buchanan-talks-with-michael-morell-on-intelligence-matters.md",
+      "title": "Transcript: Tech expert Ben Buchanan talks with Michael Morell on \"Intelligence Matters\"",
+      "excerpt": "Can we get AI talent to come to our shores, not just for education, but for work? Can we get AI talent to work in national security in a way that's consistent with their principles? Can we get a federal government ... the first thing we need to say, I think there's a lot of hype in Silicon Valley around AI and cyber on defense.",
+      "heat": 133,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cbsnews.com/news/transcript-tech-expert-ben-buchanan-talks-with-michael-morell-on-intelligence-matters/",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/transcript-tech-expert-ben-buchanan-talks-with-michael-morell-on-intelligence-matters/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/transcript-tech-expert-ben-buchanan-talks-with-michael-morell-on-intelligence-matters/",
+      "publishedDateTime": "2020-02-19T03:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/02/19/638f33e3-728d-4dc0-a92f-16a59234d241/thumbnail/1200x630/ec4e33af4cbd2e79aee757eb4fe5d69f/screen-shot-2020-02-18-at-7-49-39-pm.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Transcript: Tech expert Ben Buchanan talks with Michael Morell on \"Intelligence Matters\"",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

@@ -1,23 +1,29 @@
 ---
 category: news
-title: "Facebook to pay users for recording their voice to improve its speech recognition tech"
-excerpt: "Facebook has announced it will pay select users who agree to record their voice to improve its speech recognition technology. According to The Verge, the social networking giant he company will pay select users to record snippets of audio through a new programme called “Pronunciations in its Viewpoints market research app."
-publishedDateTime: 2020-02-21T10:28:00Z
-webUrl: "https://www.hindustantimes.com/tech/facebook-to-pay-users-for-recording-their-voice-to-improve-its-speech-recognition-tech/story-IwjGQJS1AoyzPfgGlZykRN.html"
-ampWebUrl: "https://m.hindustantimes.com/tech/facebook-to-pay-users-for-recording-their-voice-to-improve-its-speech-recognition-tech/story-IwjGQJS1AoyzPfgGlZykRN_amp.html"
-cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/facebook-to-pay-users-for-recording-their-voice-to-improve-its-speech-recognition-tech/story-IwjGQJS1AoyzPfgGlZykRN_amp.html"
+title: "Facebook will you $5 to record your voice"
+excerpt: "(CNN) – Facebook will pay you to record your voice. The company is looking for select people to help improve its voice recognition tools. All you have to do is record a phrase… followed by the first name of a Facebook friend. You do that multiple times. In total, the task takes around five minutes. It doesn’t pay much though — you get ..."
+publishedDateTime: 2020-02-21T17:46:00Z
+webUrl: "https://www.wjbf.com/news/facebook-will-you-5-to-record-your-voice/"
+ampWebUrl: "https://www.wjbf.com/news/facebook-will-you-5-to-record-your-voice/amp/"
+cdnAmpWebUrl: "https://www-wjbf-com.cdn.ampproject.org/c/s/www.wjbf.com/news/facebook-will-you-5-to-record-your-voice/amp/"
 type: article
-quality: 31
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Hindustan Times
-  domain: hindustantimes.com
+  name: WJBF
+  domain: wjbf.com
 
 topics:
   - AI
   - Natural Language Processing
+
+images:
+  - url: "https://www.wjbf.com/wp-content/uploads/sites/47/2016/02/facebook-logo-on-laptop-screen_36088381_ver1.0.jpg?w=1280&h=720&crop=1"
+    width: 1280
+    height: 720
+    title: "Facebook will you $5 to record your voice"
 
 related:
   - title: "Facebook will now pay you for your voice recordings"
@@ -278,21 +284,6 @@ related:
       - url: "https://localtvwiti.files.wordpress.com/2018/10/untitled-26.jpg?quality=85&strip=all"
         width: 729
         height: 410
-  - title: "Facebook will you $5 to record your voice"
-    excerpt: "(CNN) – Facebook will pay you to record your voice. The company is looking for select people to help improve its voice recognition tools. All you have to do is record a phrase… followed by the first name of a Facebook friend. You do that multiple times. In total, the task takes around five minutes. It doesn’t pay much though — you get ..."
-    publishedDateTime: 2020-02-21T17:46:00Z
-    webUrl: "https://www.wjbf.com/news/facebook-will-you-5-to-record-your-voice/"
-    ampWebUrl: "https://www.wjbf.com/news/facebook-will-you-5-to-record-your-voice/amp/"
-    cdnAmpWebUrl: "https://www-wjbf-com.cdn.ampproject.org/c/s/www.wjbf.com/news/facebook-will-you-5-to-record-your-voice/amp/"
-    type: article
-    provider:
-      name: WJBF
-      domain: wjbf.com
-    quality: 44
-    images:
-      - url: "https://www.wjbf.com/wp-content/uploads/sites/47/2016/02/facebook-logo-on-laptop-screen_36088381_ver1.0.jpg?w=1280&h=720&crop=1"
-        width: 1280
-        height: 720
   - title: "Facebook is willing to pay users for just recording audio for voice recognition"
     excerpt: "San Francisco: Facebook has announced it will pay select users who agree to record their voice to improve its speech recognition technology. According to The Verge, the social networking giant company will pay select users to record snippets of audio through a new programme called \"Pronunciations\" in its Viewpoints market research app."
     publishedDateTime: 2020-02-21T07:07:00Z
@@ -351,6 +342,17 @@ related:
       - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/civx6ujxzrxga6yg_1582359929.jpeg?tr=f-jpeg"
         width: 1242
         height: 711
+  - title: "Facebook to pay users for recording their voice to improve its speech recognition tech"
+    excerpt: "Facebook has announced it will pay select users who agree to record their voice to improve its speech recognition technology. According to The Verge, the social networking giant he company will pay select users to record snippets of audio through a new programme called “Pronunciations in its Viewpoints market research app."
+    publishedDateTime: 2020-02-21T10:28:00Z
+    webUrl: "https://www.hindustantimes.com/tech/facebook-to-pay-users-for-recording-their-voice-to-improve-its-speech-recognition-tech/story-IwjGQJS1AoyzPfgGlZykRN.html"
+    ampWebUrl: "https://m.hindustantimes.com/tech/facebook-to-pay-users-for-recording-their-voice-to-improve-its-speech-recognition-tech/story-IwjGQJS1AoyzPfgGlZykRN_amp.html"
+    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/facebook-to-pay-users-for-recording-their-voice-to-improve-its-speech-recognition-tech/story-IwjGQJS1AoyzPfgGlZykRN_amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 31
   - title: "Facebook Offers Some Users Money For Voice Recordings"
     excerpt: "The voice recordings will be used to improve speech recognition systems. The offer comes after Facebook was caught transcribing voice recordings for the shoes in the past without informing customers is doing so. Users of the Viewpoints app can look under the Pronunciations tab to see if they qualify to be part of the program. Those that do ..."
     publishedDateTime: 2020-02-21T16:30:00Z
@@ -431,6 +433,6 @@ related:
       domain: knowtechie.com
     quality: 0
 
-secured: "PKfaRCGS4YLuRHYrZnDTPWYb2z/iVYWEqZR4l8DD+Jcwa2U3ShFP2TbUB5MlFCF8bGKsvIlpad8AOsk0ED2rFf2XqvVQJ9eIw/gSPJrcdZGTTymryELj6kjyQhHAq13RjhrI/S5xLzULT4LLePl7oGE7hfF4e12dVE65ullcPbtHOhuvsgZTVUbew6VfNkhK8gudeElT7kFN1xkbTvl0WBvs61ZsxXsgcet/znRilOu3yFuWZYUkc9XdSWh0uQWqBrWMxeuxOAthx6s/CZ/ZXytT9O/DC/L+jr+rz8V1iTLBF2t4X29WhDgANahiWTFDwaQ/iLQZ+nxdZe0YVGuNEb++6EXD7yjxN2NSwK0kSsM+YCVoyMl//LJ8QQmmWGE0PFKDG0t2HdWdaE0+Qh41AM6e+PfeSqRg3Uhk9EuDuov1XkqaqqHMFBolnul4HeO4s/ILdggGOigcGMrNKCufWakxDtCp31Pt2DANNXfkdC8=;xYTxRbgMXXpn7ZjaEih/0w=="
+secured: "oJdkRm6rO4HrEHQ4C+HgLuDjJOheZ8TAsZuHAX8qXxnT932NKCfnBSbFtobK6z6JMpvpR17S63HkdEs4+9viHHUiyCEXm8WK7UxtJiHkUNkso48cHTH/Tmkq1Y7yoHJAhAosbP8ljsmp1bI0ELUfQKLUw2346Jdac6RV41fMPPmfO5rW+x8SagKLTyDbzNEaVLfkJ3yzgcpaWfVbMpWecNuVav85AkfcyRFwiJAGtMreV9A/PkpBbV4OnlcMoShf7jPsae8vGiDWr2z0ujFaVb6cBBBddr46DsO3TMFZ8MQbUl/kDTdEVk1tadxA8jxk;5+oNVLNhjgd9hWOwI39yfA=="
 ---
 

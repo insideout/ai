@@ -54,6 +54,19 @@ related:
       - url: "https://i.kinja-img.com/gawker-media/image/upload/s--k8Q9PwVM--/c_scale,f_auto,fl_progressive,q_80,w_800/thuqbup5w7zmofhx9lam.png"
         width: 800
         height: 450
+  - title: "Facial Recognition Company Clearview AI Probed by Canada Privacy Agencies"
+    excerpt: "Canadian privacy authorities have launched an investigation into New York-based Clearview AI to determine whether the firm's use of facial recognition technology complies with the country's privacy laws,"
+    publishedDateTime: 2020-02-22T09:32:00Z
+    webUrl: "https://www.nytimes.com/reuters/2020/02/22/technology/22reuters-clearview-ai-canada.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 83
+    images:
+      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
+        width: 1200
+        height: 630
   - title: "Clearview AI CEO Defends Facial Recognition Software"
     excerpt: "Clearview AI is an astonishing piece of technology—a groundbreaking facial recognition app that collects billions of images from social media and all across the internet. Law enforcement agencies around the world are becoming enthusiastic clients, using the app to identify suspects. Hari speaks to the company’s co-founder and CEO ..."
     publishedDateTime: 2020-02-20T05:31:00Z

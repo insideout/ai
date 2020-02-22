@@ -63,19 +63,6 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D4860%252C3240%252C0%252C495%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-02%252Fe54aedf0-4c27-11ea-a9fe-866995234731%26client%3Da1acac3e1b3290917d92%26signature%3Dde699115449a716bcec325db3e7903662dbd4881&client=amp-blogside-v2&signature=3eefa1557daf961b15de1298ae8254f93b9244fb"
         width: 600
         height: 350
-  - title: "Miami, LA Firms Sue Google Over Facial Recognition Photo Scans"
-    excerpt: "Law firms in Miami and Los Angeles claim in a class action that the Google Photos service uses facial recognition technology that violates an Illinois biometric privacy law with stiff statutory penalties. The lawsuit filed in U.S. District Court for the Northern District of California claims Google failed to get the consent or written release ..."
-    publishedDateTime: 2020-02-07T21:16:00Z
-    webUrl: "https://www.law.com/dailybusinessreview/2020/02/07/google-hit-with-class-action-under-illinois-biometric-privacy-law-over-facial-recognition-392-82075/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 39
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/392/2020/02/Google-Headquarters-Shutterstock.com_.jpg"
-        width: 620
-        height: 372
   - title: "Tech giants hammer facial recognition startup"
     excerpt: "Facebook, YouTube, Twitter, Venmo and Linkedin have sent Clearview AI cease-and-desist letters in the wake of a blockbuster report that the facial recognition startup has scraped billions of people's faces from their websites, the New York Times reports."
     publishedDateTime: 2020-02-08T21:15:00Z

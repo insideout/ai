@@ -1946,14 +1946,14 @@
     {
       "path": "_posts/_archive/2020-02-05-youtuber-uses-neural-networks-to-upscale-1896-short-film-to-4k-60-fps.md",
       "title": "YouTuber uses neural networks to upscale 1896 short film to 4K 60 fps",
-      "excerpt": "One of the hot topics in tech for the last few years has been AI, with business leaders throwing lots of buzzwords around - machine learning, deep learning, reinforcement learning, neural networks ... experiment of turning the famous Lumière Brothers' 1896 short clip \"Arrival of a Train at La Ciotat\" into a 4K, 60 fps video that looks a ...",
-      "heat": 152,
+      "excerpt": "Today, many companies use something called neural ... experiment of turning the famous Lumière Brothers' 1896 short clip \"Arrival of a Train at La Ciotat\" into a 4K, 60 fps video that looks ...",
+      "heat": 172,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.techspot.com/news/83867-youtuber-uses-neural-networks-upscale-1896-short-film.html",
       "ampWebUrl": "https://www.techspot.com/amp/news/83867-youtuber-uses-neural-networks-upscale-1896-short-film.html",
       "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83867-youtuber-uses-neural-networks-upscale-1896-short-film.html",
-      "publishedDateTime": "2020-02-05T02:27:00-08:00",
+      "publishedDateTime": "2020-02-05T02:22:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechSpot",
@@ -1970,7 +1970,15 @@
         "publishers": null,
         "authors": null
       },
-      "images": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/ts3_thumbs/2019/07/2019-07-16-ts3_thumbs-789.jpg",
+          "width": 800,
+          "height": 560,
+          "title": "YouTuber uses neural networks to upscale 1896 short film to 4K 60 fps",
+          "attribution": null
+        }
+      ],
       "locale": "en-us",
       "categories": [
         "news"

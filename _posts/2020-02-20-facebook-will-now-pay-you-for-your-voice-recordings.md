@@ -8,7 +8,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/2/20/21145584/facebook-pa
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/20/21145584/facebook-pay-record-voice-speech-recognition-viewpoints-proununciations-app"
 type: article
 quality: 74
-heat: 365
+heat: 375
 published: true
 
 provider:
@@ -273,6 +273,21 @@ related:
       - url: "https://localtvwiti.files.wordpress.com/2018/10/untitled-26.jpg?quality=85&strip=all"
         width: 729
         height: 410
+  - title: "Facebook will you $5 to record your voice"
+    excerpt: "(CNN) – Facebook will pay you to record your voice. The company is looking for select people to help improve its voice recognition tools. All you have to do is record a phrase… followed by the first name of a Facebook friend. You do that multiple times. In total, the task takes around five minutes. It doesn’t pay much though — you get ..."
+    publishedDateTime: 2020-02-21T17:46:00Z
+    webUrl: "https://www.wjbf.com/news/facebook-will-you-5-to-record-your-voice/"
+    ampWebUrl: "https://www.wjbf.com/news/facebook-will-you-5-to-record-your-voice/amp/"
+    cdnAmpWebUrl: "https://www-wjbf-com.cdn.ampproject.org/c/s/www.wjbf.com/news/facebook-will-you-5-to-record-your-voice/amp/"
+    type: article
+    provider:
+      name: WJBF
+      domain: wjbf.com
+    quality: 44
+    images:
+      - url: "https://www.wjbf.com/wp-content/uploads/sites/47/2016/02/facebook-logo-on-laptop-screen_36088381_ver1.0.jpg?w=1280&h=720&crop=1"
+        width: 1280
+        height: 720
   - title: "Facebook is willing to pay users for just recording audio for voice recognition"
     excerpt: "San Francisco: Facebook has announced it will pay select users who agree to record their voice to improve its speech recognition technology. According to The Verge, the social networking giant company will pay select users to record snippets of audio through a new programme called \"Pronunciations\" in its Viewpoints market research app."
     publishedDateTime: 2020-02-21T07:07:00Z
@@ -422,6 +437,6 @@ related:
       domain: knowtechie.com
     quality: 0
 
-secured: "q6OV9pgKXXnPNi4jnEv9+ECtWEthThB7gXBMjJbJoljvzK5V50VwNJkJlVGLZwbGUP2M5Q8NNkZHzPr3ui8qK4EejB44cQlI1xjrBcHaLIhCYYaZVniMAn+tCljhbY4nK+4ljCjBHQgotLnrjGXyuvrb97uhbHPtlw42faiAMK7EHSX2qrI76+8rmb5ZZZMHgwHXHZgNQP7zdVVLyksr1OFysVO8zq63ApEC4M3Ax7Q+3maOPQ5/fk+YcpNTmUvhmQoi2qC248UzjZ2y7Bvi/9VumYDUeQyDEBXZOC0Lbc/o/awfy9iamsrfOmHD4L70sJatzGQ30FYeEz92Z24a5uTaLma0rN0CxTKgraOD7rZdD9RIM5H1zKQxnypFxuICjYZZo4TwNPlEqt5q79yu2cZEOiWW2pJsbJY5Jci5AHewYy8L1pLEp+EZpAbqHWrY1xU9qOb1Z7hj0vd9FW+i6l0DKNImddTbkStxmJHp1bY=;7iDdTFPSKCgXHvZY5qxnoA=="
+secured: "AohDPXcCn8X81lNq+FAkGiYAp2t3hqYFltK2NeOAMVOOo9K4vlue6p5sBU0Ndr1LjkcgEj2tENURim6x8ubXMxnRFA3AFa+4FtOqt139zyLJJtGyRPmFmvcBmky7whpmy+WsIsuTaLEdBy07oTbClppwfd+SDiGAO0K3XRHwOeR41SbQtLysyoP6pAWXTnp7xQD8qYdZNea/E23PLb4URU6Dw929y1I/D6qTAj3hfr8niDNyBgsZpGvmgt+M1OVous0qsYKB1yf7UDI6m1EVvCtqi1mFPbhjmpTEow0mH/uCs4My5U7rl9UW3If4hW5eD8l8LJoC3rfAd1AfW69qothwGuwrpH6HEZcE+mJPf6IKMI2Ms8s7lX4iEvoDI3kLwDKguuvpBi2ldMc/cCU9DRhWtijcFWMABkUBCR+ZEg1O2v96D9tKlxR3uK9e4GVo7QQA0yzrHW7Lgd24aIdRTwqmvUsCMOqMdus2Jp6B3go=;lw9hDbEhgJcsuEMuv3A9HA=="
 ---
 
