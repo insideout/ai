@@ -1,11 +1,11 @@
 ---
 category: news
 title: "Tape trick seen as showing hurdles for self-driving cars"
-excerpt: "To be sure, the real-world threats of such an occurrence today are limited. For one, self-driving cars are still in the development phase, and most are being tested with drivers behind the wheel. Vehicles with advanced driver-assist systems that are ..."
+excerpt: "To be sure, the real-world threats of such an occurrence today are limited. For one, self-driving cars are still in the development phase, and most are being tested with drivers behind the wheel. Vehicles with advanced driver-assist systems that are available now still require the human to be attentive. And the McAfee researchers were only able ..."
 publishedDateTime: 2020-02-20T07:50:00Z
-webUrl: "https://www.arkansasonline.com/news/2020/feb/20/tape-trick-seen-as-showing-hurdles-for-/"
+webUrl: "https://www.arkansasonline.com/news/2020/feb/20/tape-trick-seen-as-showing-hurdles-for-/?business-national"
 type: article
-quality: 24
+quality: 4
 heat: -1
 published: false
 
@@ -16,12 +16,6 @@ provider:
 topics:
   - AI
   - AI in Autos
-
-images:
-  - url: "https://media.arkansasonline.com/static/ao_redesign/graphics/adgog.jpg"
-    width: 340
-    height: 246
-    title: "Tape trick seen as showing hurdles for self-driving cars"
 
 related:
   - title: "Altruistic Hopes For AI Self-Driving Car Firms To Share Their Proprietary Tech Is A Starry-Eyed Dream"
@@ -53,6 +47,6 @@ related:
         width: 1920
         height: 1080
 
-secured: "2avO2R5Y1b2RNGitu6OXtcckRZhqol4Q9vdu+58n40Q13gQbKZEpoC/ng5/hh8Rhx4f1dnSgJ/3LUg1q+EkZ1PrzHzLv8SFy89Apm1cK/uZncopZuAGAvxK0WWVaFYR0nsEr/LENhkbwg4KciqtZgqJu70PdcMPOK/7nTw59lrBeZWj4ixFO6scJn14gnrQiVKHedTOEb2s+gTIml+xDjio5wZ8bHgRlsQdJtJYUBfzpAt0GUVIAZanvtAVZmk5B5Kb4mzPhvhHiz5wO9+0ZOMgIky4ao1q9NbTp/VrJ8to0xQyQwNdYSUTn/1YpKc4l;aWeEaYz7ZV8CVdRPrNxu4w=="
+secured: "hMdsPsraAwQVzq0rLcB6ErE/6buJNvHNDqVgefsAyhrvdFfQLhTs7MalpQT73RoX8xaK32Y8HoDpBK6hPZX+WrIriSU+0gkYdZXvkXAVRSH/wN9rwEvQROuQPy4k4k0b7zdisSyARkOpa7OlBb6naJMeK1xREXnDmxjD5cMPpf2NDbvb053VuMxFotT7NbmYINAkE3objawkQ+irPQLcZRI3x4lPs9V5qWzEqmGud/3JOlZ+4tfJZi8Zb5nnFYKnx2a8v4YKpIncs5N783F6OBD+LGE66qoJ5TkaZL1Q9h7EQJxFOagnvIU9dteHoRtg;K4MEchk7e+9BTenjahkzXA=="
 ---
 

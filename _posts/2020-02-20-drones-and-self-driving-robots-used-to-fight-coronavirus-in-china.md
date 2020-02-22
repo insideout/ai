@@ -48,6 +48,15 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 67
+  - title: "AI could be our best hope in fighting the next coronavirus"
+    excerpt: "One such way, he says, is the use of AI to create “virtual quarantines”. An example of which would be suggesting people from a certain part of London travel on a certain line at a certain time, thus reducing their interaction with the rest of the population more generally. Elsewhere, Oxford start-up Exscientia is among those using AI to ..."
+    publishedDateTime: 2020-02-22T07:47:00Z
+    webUrl: "https://www.telegraph.co.uk/technology/2020/02/22/ai-could-best-hope-fighting-next-coronavirus/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 17
 
 secured: "SpOr8FU3Ml0xY0fBBH183XVjGDtWSztBp6Koo8OoAhQYiQWvfVFPuinvjpk7VLZDhr+CPRyoPcilbEabuO+qmdpc5X8vIj0UQcKB35OP8YSDS+OoaMPrXLrXU8CJsMAydAKlDsfjlvoUj6pQ/vh4MloyMPiNXEjBuAoVVnweyzk1BI/tev30a6GhC7vxLqDndpmumpWl2G7viMAKKTynBTAPDjY0vYuV1cvHIRn+ks6lmjOPc5Iqkib5LqhCfBE8CYgNPfKgqHBmH/hfRKNOz6i4fRKqtTaVikp1hLRrzjb3GgmcSy7Tl+SyDThsbEl8;Xkk3LPw17irsm/Rk/N8YEA=="
 ---

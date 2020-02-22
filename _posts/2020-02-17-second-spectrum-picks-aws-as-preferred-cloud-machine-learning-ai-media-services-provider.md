@@ -47,6 +47,15 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/02/71500375_2621006007939026_4334469282747383808_n.png"
         width: 820
         height: 312
+  - title: "Second Spectrum Selects AWS as its Preferred Cloud, Machine Learning, Artificial Intelligence, and Media Services Provider"
+    excerpt: "Today, Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced that Second Spectrum, the Official Optical Tracking and Analytics Provider of sports leagues such as the National Basketball Association (NBA) and the English Premier League, has chosen AWS as its preferred cloud, machine learning (ML), and artificial ..."
+    publishedDateTime: 2020-02-14T14:00:00Z
+    webUrl: "https://www.financialbuzz.com/second-spectrum-selects-aws-as-its-preferred-cloud-machine-learning-artificial-intelligence-and-media-services-provider/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 0
 
 secured: "n8zXzmKT67wFHgOaTRQsuiWvh5kMNa24BwHvqfOveK4BPXzMwzoiMAaKsYkRTKkf6hoDhKC3cTm5KxJaov276xgquNVNovnef6LEUQbgK656IiVN9KgP+4oJFhWFlgIKhXqWyaCAVuMgaKhUQomnJhGwmUQo2SLP9f1sfrORBIZrpJCjDjNyhmXs8RPmMZkl+f0+XqkWU/s1gMCZf/KGCaZvb48kCEhU12JfmFW+GtoSSQeQvi5mK2s36A8FbcA2J17bt4lihJukKae3wiCJ+91FbdVfxXnwy4jbjURHTadk0oDLwjfw5kg9CYitxgkI;FZXqF3ZxKVTwCBNYftg+XQ=="
 ---

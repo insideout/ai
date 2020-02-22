@@ -94,19 +94,6 @@ related:
       - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/02/p-1-drug-makers-are-using-ai-to-help-find-an-answer-to-the-coronavirus-copy.jpg"
         width: 1280
         height: 720
-  - title: "Coronavirus: Modelling an outbreak"
-    excerpt: "Its AI also continuously scans news reports from recognised sources in 65 different languages, subjecting them to natural language processing and analysis that further inform its ML algorithms. This, the company says, not only allowed it to get ahead of the game in identifying the Wuhan outbreak but also meant that it was able to predict ..."
-    publishedDateTime: 2020-02-07T14:49:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2020/02/coronavirus-modelling-an-outbreak/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 24
-    images:
-      - url: "https://eandt.theiet.org/media/10504/2019-ncov-centers-for-disease-control-and-prevention-cdc.jpg?anchor=center&mode=crop&width=1200&height=450&rnd=132252160040000000"
-        width: 1200
-        height: 450
 
 secured: "PcVs1Qon3MALTmwU7PDHIGXyFD8Ylo3ilxDiwP5zs+Snt0Kosdp1af9nwXBbljIovO+iwoOhw6uQA+/EkCCwCHY18bP9Q166WSmLRV/Ggp82rL3i3h8zYCzUyugTGYuL3/dXBcxiCVU9UKM4/RUNZ2MNaX7e3j3r2PnJSRaW+/mGNPq6gc8Cj3fdk/eosGic9FfstuxDU/OIIGs3BDhAq5hATBYuuMmZ0mM+U2Oh7fo6KwAR6q8k9a9QVIYGMYEfEhgHaaglc+fOvz4D/yK1IuIRyjmHzHt/112SmNPRbtvbtn7VPLo6byhI/tWzRMZx20ZqP/uN487ZaLIQUj6som+XyjyzZlInB1HUffZXdpeWqasoKDlrR/Vty+NfsTMm4HNGLHhUmd7Yvwr/8w2MAU0STiq+b/nQAeDblsJftodJKJnIA2Q1f0DoMFMBY9/q1D1kwRBng8F6jGRwUAEW40I8QMpC328neZfAQGPw29g=;k7Sb8Te66WYp4Rv5QGJZUA=="
 ---

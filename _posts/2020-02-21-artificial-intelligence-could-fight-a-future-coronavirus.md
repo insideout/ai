@@ -8,7 +8,7 @@ ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-02-21/artificial-in
 cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-02-21/artificial-intelligence-gears-up-to-fight-a-future-coronavirus"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -49,6 +49,15 @@ related:
       - url: "https://static.dezeen.com/uploads/2020/02/uvd-robot-drones-coronavirus-china-sq-b-1024x1024.jpg"
         width: 1024
         height: 1024
+  - title: "AI could be our best hope in fighting the next coronavirus"
+    excerpt: "One such way, he says, is the use of AI to create “virtual quarantines”. An example of which would be suggesting people from a certain part of London travel on a certain line at a certain time, thus reducing their interaction with the rest of the population more generally. Elsewhere, Oxford start-up Exscientia is among those using AI to ..."
+    publishedDateTime: 2020-02-22T07:47:00Z
+    webUrl: "https://www.telegraph.co.uk/technology/2020/02/22/ai-could-best-hope-fighting-next-coronavirus/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 17
 
 secured: "YB+V0kF5wGGRoZR3uu3wQPcHmZAGslNY/UaH1axVil8fqVJNgM7YJFiEEE/dZlrygWh96Kg6sri9mczziEDxThfraVQypFB+OFJ/Crq6vg87LywOUZLSD5/dP9pKT659eAKC6VJCoTUSPIEPwHhgWvxK4R6x1M+cAz46u8aImd3B3YHtmKVXRg4ozmBIFH+rYDxHGrudDjkOhZkJMOPdQydoKRsJ0Zt4te/WSzIGgDroXaQ5neAu1Tw1MAE7mtlLBJrBAkUG+dPSXrx5KMP/XT9e9Gk/+6wDpeODbjECeua+oRhD6YWhtVEcnw357qDc;siCppp85wGcXakbcl7h3TQ=="
 ---

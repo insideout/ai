@@ -8,7 +8,7 @@ ampWebUrl: "https://www.wired.com/story/how-ai-tracking-coronavirus-outbreak/amp
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/how-ai-tracking-coronavirus-outbreak/amp"
 type: article
 quality: 91
-heat: 151
+heat: 141
 published: true
 
 provider:
@@ -96,19 +96,6 @@ related:
       - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/02/p-1-drug-makers-are-using-ai-to-help-find-an-answer-to-the-coronavirus-copy.jpg"
         width: 1280
         height: 720
-  - title: "Coronavirus: Modelling an outbreak"
-    excerpt: "Its AI also continuously scans news reports from recognised sources in 65 different languages, subjecting them to natural language processing and analysis that further inform its ML algorithms. This, the company says, not only allowed it to get ahead of the game in identifying the Wuhan outbreak but also meant that it was able to predict ..."
-    publishedDateTime: 2020-02-07T14:49:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2020/02/coronavirus-modelling-an-outbreak/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 24
-    images:
-      - url: "https://eandt.theiet.org/media/10504/2019-ncov-centers-for-disease-control-and-prevention-cdc.jpg?anchor=center&mode=crop&width=1200&height=450&rnd=132252160040000000"
-        width: 1200
-        height: 450
 
 secured: "T5JtaN9r6iHGos6piawOp7KkldTfI81pV5aSIcW5cR6c59hQySf29MSS1IeuCFLYCRbAyGDFJ82hwZkTOdNHW9nCswKlzBa7OUDA4gUrx2kiXkoxOxYf45doV1k61V10J7mBITYs9D9dK1vje9VpBd5bxJoLJwWdNl+OR7T0x9Zsi0kxJRlwucT74Bptgl4Dk1K/ll4Kn7rnH7PcfIdNo8LnBqIiyWvZhkMAr55yh20uwWOOXAA8ISpzLE7K9S4dKO1NJ6/5wEMPKI22u+G0k/02ukTnH/mDuG0M4Z8YzJ0n+auwh/16tEfzpGa6DltsTIeDb6oBIAz+FeO7v3RPXQIUG7XJBkNWzHVCQjczip6Sj07Yz7qNXtqYvE55kMZad9fvIEtgh0a0nFhGIWsN6llq0OZtN/1UsvHgb5GOlZN1pDJkbb7hYlgd9v3dyV+wL5V35RptC1+fQn/AzXw6QfnygjyOD5kf0A52qf5WHvQ=;ZWxB1t91gBsH22Rm4ls47A=="
 ---

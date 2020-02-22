@@ -49,6 +49,15 @@ related:
       - url: "https://static.dezeen.com/uploads/2020/02/uvd-robot-drones-coronavirus-china-sq-b-1024x1024.jpg"
         width: 1024
         height: 1024
+  - title: "AI could be our best hope in fighting the next coronavirus"
+    excerpt: "One such way, he says, is the use of AI to create “virtual quarantines”. An example of which would be suggesting people from a certain part of London travel on a certain line at a certain time, thus reducing their interaction with the rest of the population more generally. Elsewhere, Oxford start-up Exscientia is among those using AI to ..."
+    publishedDateTime: 2020-02-22T07:47:00Z
+    webUrl: "https://www.telegraph.co.uk/technology/2020/02/22/ai-could-best-hope-fighting-next-coronavirus/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 17
 
 secured: "phYpxaIkMXcHYh8de5TuriCiqwnf8BIrcz3cKlxHu1G0r2RfQeYhOcYC/s4Da+7XzycwosT/ZTIJsMIwgrJl8yBnCTyEwHNz7412EgFIw6m958CHOFJ9eh0gfjTo4fdgy+Kh2HIDis9vi0d/qRGROrgh458iK41HkYVROcORiuHRVi2uUPaxz3zGB4t+JjI7xzfDC62UezaXoRNL13gds1mtRoIyA+Or/rLJGDVSvpWECe7BFLmTLqfmabrUb4K0mqB6NWO3cUIdbqcGpyuqd2co9PcunNQ4qBBI1hZElI4K/QyAqlWelGZaD3FyJ/dH8jDdxvoEv3rbKq5acXV5ulp8QZygK2AtAn8Ju/4VZ8aSC25lLWtGTnqGCN8KJc6TV1OnzsgeF9YEvT8zyBPbtKHfUjBy7l9cMyH60xh7Z+/hlI+1omysWzcrffRYmrqDmM2GKA5+I6tGb1wWFiAyFYzUaVqFYHLVB+wO7tnIOp0=;GuP62j+oDz4ELwvGCG53hg=="
 ---

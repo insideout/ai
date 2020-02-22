@@ -8,7 +8,7 @@ ampWebUrl: "https://www.tvbeurope.com/technology/aws-assists-premier-league-anal
 cdnAmpWebUrl: "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/technology/aws-assists-premier-league-analytics?amp"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -48,6 +48,15 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/02/71500375_2621006007939026_4334469282747383808_n.png"
         width: 820
         height: 312
+  - title: "Second Spectrum Selects AWS as its Preferred Cloud, Machine Learning, Artificial Intelligence, and Media Services Provider"
+    excerpt: "Today, Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced that Second Spectrum, the Official Optical Tracking and Analytics Provider of sports leagues such as the National Basketball Association (NBA) and the English Premier League, has chosen AWS as its preferred cloud, machine learning (ML), and artificial ..."
+    publishedDateTime: 2020-02-14T14:00:00Z
+    webUrl: "https://www.financialbuzz.com/second-spectrum-selects-aws-as-its-preferred-cloud-machine-learning-artificial-intelligence-and-media-services-provider/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 0
 
 secured: "l3+d+q6wLbrS+k86FY/T8s67GdXDx3e8/PIMlWmjiU0Aa3f68wXgwxNprl0WywT8QtSImPpkPGbgUvgsU95X6RaE9gbH7QekesiFaZedmURU5vxbU9Z5DEVzhsrcXyT0DB1o9NKbdxhvnQT1M1S+bRmabxAPEqLJCn3gNJSRcI7dfDa4n6q+6m6TefZqQZH5H9jYTscRQePg+RlpYyb8PJN9O0psyt/apkd9P/UHiFSarKZnZASbEgMTBmCspmkBmlrQxhjqTHVQxG9xlaV8XQHFogqKw0wPzY4mH0YnmAykH3fnJcNf2ak4G0AUMn5WBfmBz7N+JL0JCV0QLu+QDEPLneYuMcxYzFl2jFSLrvuUtQ5BhiQhj3AtMeGyFDRkJjbZfe4cMTZ4EFQt6tOANE/nryYj5/QHuDZJFl1icippZKW7VFsSi9Gmgkh52FuPOE7eA1RWUsu9BeTzEGWCmggjPh2RPUtsH5P+k0aC4U4=;Axzzd+F+Zm/WEbMgdHGPxQ=="
 ---

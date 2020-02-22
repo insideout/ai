@@ -4,11 +4,9 @@ title: "Google says its latest chatbot is the most human-like ever – trained o
 excerpt: "The software, dubbed Meena, has at its heart a Tensorflow seq2seq model containing conversations encoded as streams of vectors that are transformed back into text to form replies when the thing is ..."
 publishedDateTime: 2020-01-30T07:10:00Z
 webUrl: "https://www.theregister.co.uk/2020/01/30/google_meena_chatbot/"
-ampWebUrl: "https://www.theregister.co.uk/AMP/2020/01/30/google_meena_chatbot/"
-cdnAmpWebUrl: "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/01/30/google_meena_chatbot/"
 type: article
-quality: 35
-heat: 35
+quality: 0
+heat: 0
 published: false
 
 provider:
@@ -19,12 +17,6 @@ topics:
   - AI
   - Google AI
 
-images:
-  - url: "https://regmedia.co.uk/2020/01/29/chatbot.jpg"
-    width: 648
-    height: 429
-    title: "Google says its latest chatbot is the most human-like ever – trained on our species' best works: 341GB of social media"
-
-secured: "xZtCB3oe62CZQHho2K88MmH8NF7ZoBWERNMwTDuHhWau5X5TvfaQ54sF9jUj6Edue47e1SAkX7rpJyVhaMWkFSsfJaam5UDsI66JZCTlqUazKYf21mYgKIdNHxCzj2irNVFFlKELIpKJjSe5c4d295Or3W1nA6vLam65wG+Fd9a3nc+uOJ/yBHm8euLnd0cSXwcI1+FraoC2Q4SmLrgv7GOM4EyEFE4q7BH3ZvweyGJ8W5mwDB+oxYr1IhZy/iwqxBkazuMKQJke+J2b//r01xAooNf55xKsnu0FHQ65mfweo7SWzouAURuv/O3RYH9E;0V6InPjRknC4MNBrSwgN5Q=="
+secured: "rE0z0iflqHWI1z/mI7E39j381LeHarhANXbyDfrK4PEWkkN/Rs/wFBtkQp9ARlyrTKy+2Vj66bEto2G3HXtBuu81FsOgGrqtgfcw0W09aExPNG22cBhBTsCaJkGoVPm4HYDFGaE5SVjdHe6ypy2g2+R9l3syReo4MJWw8atf9IVzlvNmdwTa2NJplp9JxBSpiCUMcM/zg6zME/t6cybd6/gNTbzwZcZs3MNu34wsa03Ox0lcPi2/tvTnNqwUzy07boXnQthmbkY1Kn/JeCt72jUxJ8Im8G7qhL5ETeaehIYi3gz0bCZH9HQnGpeRkObq;qH0tx9nQO8X49GbowoU5ag=="
 ---
 

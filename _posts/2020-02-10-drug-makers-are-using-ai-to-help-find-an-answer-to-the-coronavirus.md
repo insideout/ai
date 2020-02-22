@@ -90,19 +90,6 @@ related:
       - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/7s4xbfkmap9ztguf_1581145729.jpeg?tr=f-jpeg"
         width: 1242
         height: 708
-  - title: "Coronavirus: Modelling an outbreak"
-    excerpt: "Its AI also continuously scans news reports from recognised sources in 65 different languages, subjecting them to natural language processing and analysis that further inform its ML algorithms. This, the company says, not only allowed it to get ahead of the game in identifying the Wuhan outbreak but also meant that it was able to predict ..."
-    publishedDateTime: 2020-02-07T14:49:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2020/02/coronavirus-modelling-an-outbreak/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 24
-    images:
-      - url: "https://eandt.theiet.org/media/10504/2019-ncov-centers-for-disease-control-and-prevention-cdc.jpg?anchor=center&mode=crop&width=1200&height=450&rnd=132252160040000000"
-        width: 1200
-        height: 450
 
 secured: "Rvpdv5Az2gkT2ag0jNHJVQe2GIUj/wPtWt2LIB3wvINH4NZPohE7Kcvu4qC4aJW0hblizdJLhZ6v0K9eQwl+WqpoXVO9cveiXF1+Iyow8ey7Pgj1R9CsvFNlhlgM7EQPLWs9dItcKhGCbhm0m/Cdtg26z6jwRBcgy2toptL+SVdPHdkDYeQyCmzudoOfsjlQs6USQpNItaDEEMWZ57TpQJYVk2kB/YC5e/4bVjxdMA4J98qkQHm8G/4cOHyrW2T3YodGeBGzDD1MsnHbB0W32FO5SEEV2ngMisSpPV3B5S4K4AVQU5bQio+i/MzdmvfKYgoRBv6Z43Fd1dYv04Rq0A+rlILiAJ9K5tEgCzzhGtOdMfvq0O/c0hrK7xxz+Vdq3DKsWGR+rs9f/kNCuLxdJhlv6Vu8+5lFkk7Xyt5Z9tW8ysp9r3zTN8RfPVYupMp6eyzCUPOJWzLVwJ8iRnbjDItw27lEAwLRkl30dYBqOrw=;4izEXHtopP80w9tS5A+v/A=="
 ---
