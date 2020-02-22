@@ -1,19 +1,17 @@
 ---
 category: news
 title: "FB to pay users for recording to improve speech recognition"
-excerpt: "Facebook has announced it will pay select users who agree to record their voice to improve its speech recognition technology. The social networking giant will pay select users to record snippets of audio through a new programme called “Pronunciations” in its Viewpoints market research app, according to The Verge. If you qualify to be part ..."
-publishedDateTime: 2020-02-21T06:23:00Z
-webUrl: "https://www.thehindu.com/sci-tech/technology/fb-to-pay-users-for-recording-to-improve-speech-recognition/article30878453.ece"
-ampWebUrl: "https://www.thehindu.com/sci-tech/technology/fb-to-pay-users-for-recording-to-improve-speech-recognition/article30878453.ece/amp/"
-cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/fb-to-pay-users-for-recording-to-improve-speech-recognition/article30878453.ece/amp/"
+excerpt: "... has announced it will pay select users who agree to record their voice to improve its speech recognition technology. According to The Verge, the social networking giant he company will pay ..."
+publishedDateTime: 2020-02-21T12:12:00Z
+webUrl: "https://news.webindia123.com/news/Articles/Science/20200221/3508472.html"
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: The Hindu
-  domain: thehindu.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - AI
@@ -373,7 +371,27 @@ related:
       - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.channel3000.com/content/uploads/2020/01/5dfb591dd3167.image_.jpg"
         width: 1763
         height: 1175
+  - title: "Now Facebook wants to pay you for your voice recordings – how much can you get?"
+    excerpt: "As a part of Facebook Viewpoints, a new program called Pronunciations will let users submit audio recordings to Facebook. The company says it wants these recordings to help improve its speech recognition AI. Each participant will need to say, “Hey Portal,” followed by a friend’s name twice, then repeat the process nine more times with dif ..."
+    publishedDateTime: 2020-02-22T03:46:00Z
+    webUrl: "https://www.komando.com/social-media/facebook-pays-for-voice-recordings/707922/"
+    ampWebUrl: "https://www.komando.com/social-media/facebook-pays-for-voice-recordings/707922/?amp"
+    cdnAmpWebUrl: "https://www-komando-com.cdn.ampproject.org/c/s/www.komando.com/social-media/facebook-pays-for-voice-recordings/707922/?amp"
+    type: article
+    provider:
+      name: Kim Komando
+      domain: komando.com
+    quality: 20
+  - title: "Facebook will pay you $5 for your voice recordings instead of just listening in for free"
+    excerpt: "Those recordings will then help improve Facebook’s speech recognition technology, presumably so CEO Mark Zuckerberg will have someone to talk to once he alienates the rest of the world’s population… Those of you that want to take up this offer, might want to know what’s happening with your sultry tones. A new section in the Viewpoints ..."
+    publishedDateTime: 2020-02-21T16:14:00Z
+    webUrl: "https://knowtechie.com/facebook-will-pay-you-5-for-your-voice-recordings-instead-of-just-listening-in-for-free/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 0
 
-secured: "C2hS2FHxV5rj0l8Bwsu0wL5lT4qaxBCsTJs54eYhR0zP/L+ZvdPEL9/f0yjR9D/X5ix7hWlbVPQMJrJi+jML+dizSfUDVfC48D5kl+dpVrQA0MpFolfWz9Zmw0F9DThJGQm8wXaehoEYZQM1U5DoZ1xJbgHqLHCbtLir0eU8bxwUkrtYPA/9BiHO8hjvsNUzPdTQkfms1WBViTCkk4cYQWWlc4qW2b2xjOufkn/wlw6XA6XciseLDcsM7dlgqURSLm2HFM3FJ/pjQHEUnv0xXysPQCDx2Q5enwixV+v0RqCOlYn4ZcV9K4Xb5dbHmOK7B0AvG0zo1a0zTQ65nBC6kS+8sYgaAgSIagRtsvx8HeDWwtepXMANyvgl5RN8bYFagaTmM0JbLGiwkgjeRiB2n648Vk1vvvfp6v8phWpV1yei8yE/u8f9Z3WjLBkwEtaKLa6lP8ipTC3eBIbkvQ8jnTh6WGV3i1/g2KV2nkW3jZ0=;IxQno4uJpPYBlzuXgXn7ZA=="
+secured: "bitB2xmFszJcQOw8oe3hc+wWMX5hzWUcY4rIcjXCH1c1XEzT9/bw1OwEYbmaUakrot/fDA27hg9Jh19g2aiPSFA6ioJ0/5oPIU0jpIMJENL+uXvDWGw95uWXCPE2PdLJAaP7EB3RpOteMniotUGFDBgAPJLCC+KKjmUTwEAl+oUK69DxyUXZsKSsBznw/Rq1tvmf83lTarLv6L066q82Qv6M3KsaHoEDgjEcIkaePGtwNNYrucGvG6hLUSPSuOiaXH5T2CQD+eRr4F0x9zIMBumigG8H6raic315N7p26B3z+PXDqf/NpoBShxVaipdp;3K+Y6NqA6F3r/1KDJ4vJxA=="
 ---
 

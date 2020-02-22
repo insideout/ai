@@ -1,15 +1,13 @@
 ---
 category: news
 title: "Free AI developer app: IBM's new tool can label objects in videos for you"
-excerpt: "IBM estimates it takes 200 to 500 samples of hand-labeled images for an AI object-recognition model to detect a specific object. SEE: How to implement AI and machine learning (ZDNet special report ..."
+excerpt: "IBM has released a new free tool designed to help developers cut the chore of labeling images in video when training AI object-detection models. The new auto-labeling tool is part of IBM's push to ..."
 publishedDateTime: 2020-01-30T15:36:00Z
 webUrl: "https://www.zdnet.com/article/free-ai-developer-app-ibms-new-tool-can-label-objects-in-videos-for-you/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/free-ai-developer-app-ibms-new-tool-can-label-objects-in-videos-for-you/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/free-ai-developer-app-ibms-new-tool-can-label-objects-in-videos-for-you/"
 type: article
-quality: 88
-heat: 88
-published: true
+quality: 50
+heat: 50
+published: false
 
 provider:
   name: ZDNet
@@ -21,14 +19,9 @@ provider:
 
 topics:
   - AI
+  - Google AI
   - Computer Vision
 
-images:
-  - url: "https://zdnet2.cbsistatic.com/hub/i/r/2019/05/15/0f3f7afe-160c-451d-babe-17ed14a1c12a/thumbnail/1200x675/b87d99aee9c8455f3ae1be92387d7290/cloud-computing-and-ai-can-ibm-finally-c-5cd59307fe727300c4b89bff-1-may-15-2019-11-42-48-poster.jpg"
-    width: 1200
-    height: 675
-    title: "Free AI developer app: IBM's new tool can label objects in videos for you"
-
-secured: "VUfzitsCXMtJlLxx3P/VpghH1D5gdoqY/y7OtcJtn2JDgZcAvWNxlGXR97gdNtZKcFEcefez+rjB5UaDVF1o07qxrn9mFdueKVgJ+T5EoczbLs+WzOloL4j+hBZBBNBQORc3YXPI3ejQocUZJSwv3yT9FgrJZWQGMOgtfoBlIbnWMWIR0d1IJ+STMUTg13KkPruiSxlvNRJOALfiEYt/4AqPiY27YWrOxDcG/M/TqctxfjdjVPBdQKd5TNmX99nB+GHePDGpyceLbPIoxfgx795jMLVxufrTkfCjgz5OCfwXs7/hial5oe+WGwhnt4DD;OlYd6icdUExfQ+kUYb1UVw=="
+secured: "5BFoFfYIGt0swQzZiDaCUdBvbvSaNsJIzxhXGf5Iuly22gpvUaPUhemVT9Mqjre/Z2pX8eds7qQmmz6oVxKlQL3QYnGzn7X9eZIghH+2m627t0weLo87pk0BGc5T9ftsQUyT3TwTcFTVwblyQJdMfo2fm86DktDltTRCV7RwiiNvO9MiPdAihPQCaGRZNw6YklGqjHF1/5pGERHZaFUBqdEHsc6cMLjvpkTpP3cmpzjKBCYRovXI5CyImB3O3mBHXyJTgY0WZOkuYAJlElSpo4bt4czlIts8Uir+YnOKIAvX0wl0TCmt73hr1BuMpZ/d;yDA2om6aQ9wlei7tDKbScA=="
 ---
 

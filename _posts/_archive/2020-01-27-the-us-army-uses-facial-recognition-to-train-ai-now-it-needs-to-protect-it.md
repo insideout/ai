@@ -4,11 +4,9 @@ title: "The US Army uses facial recognition to train AI. Now, it needs to protec
 excerpt: "Facial and object recognition technologies are used by the US Army to train artificial intelligence (AI) systems used in unmanned aerial vehicles (UAVs), surveillance systems, and more."
 publishedDateTime: 2020-01-27T11:21:00Z
 webUrl: "https://www.zdnet.com/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
 type: article
-quality: 101
-heat: 111
+quality: 61
+heat: 71
 published: true
 
 provider:
@@ -22,12 +20,6 @@ provider:
 topics:
   - AI
   - Computer Vision
-
-images:
-  - url: "https://zdnet4.cbsistatic.com/hub/i/r/2019/12/16/35ee7b2b-7adc-4a8f-9a42-034997586ff6/thumbnail/1200x675/29e6b7ba24c8774ada650245cc7c7ba7/san-diego-to-suspend-facial-recognition-5df3b0c7aaacb30001a11066-1-dec-16-2019-22-49-36-poster.jpg"
-    width: 1200
-    height: 675
-    title: "The US Army uses facial recognition to train AI. Now, it needs to protect it"
 
 related:
   - title: "US Army develops AI facial recognition protection"
@@ -44,6 +36,6 @@ related:
         width: 620
         height: 465
 
-secured: "02tdgEuMxIvMnRTnBJhoLQetCteNCiBcA9NawuQDU7ufC8Q95y6kAdgemUP8SuhBWn1TfrNgvQLWlwL05ETi6qKInmMf27PjOKJmbTI3Q/ndfktKxEERT5qkpqaAx6ib2LUxCQnSTsd1HV+kF+9Sirg+FLs/EWOYJbNttWvW2Tk4eiw2Xc/sQ+2iGzwZRSWhxBg4mFi8tvpnOLQYcRv4FxPDWed8wjh0g6i1SfDaWQPflZgHJaPgL4oqoDvi1zQP0vKeEyf6qG+OvksUnGVrH4wl3U2rXK1o+fCl69g74JNVePb8DpBrgYAiPfx7L5l1;Q93stioiYw/gdmC5qCOHTA=="
+secured: "Tp5/aMp96oTavzakUVvbwaRw27OPKxmST9CJqVKzLcl3Y1OmixaMWSLaFZpwHYb9xDB4COoUMXJv0TC6hSqZHENOzKsGLvXTEFBE+Fftqx4knjPhJBsZ/vDFchwHLE61+cR6ChStwak+OAy6Dzr8YyPwcgnjDipt7vlKLPZVnc0H1/aXIUceT9q1bo5cq33bzGP1QiAoeYRp+2SEAap9GTYMNrFNFj44DFqbYH06mmsN1mN8c1m0T1maWN2cILYKAEhgJ2f9gCxoTYWrPoLjCjtX4p06UAPb7dXTxXkTzFUffnYI3qGNRDjzAONnbT07;yAOtYmxX9B2/Srpn2FYBDQ=="
 ---
 

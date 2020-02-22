@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-12T19:33:00Z
 webUrl: "https://apnews.com/ff2671f3b1b1e579abfae6baa55d5c48"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -32,11 +32,7 @@ related:
     provider:
       name: Fibre2Fashion
       domain: fibre2fashion.com
-    quality: 39
-    images:
-      - url: "https://static.fibre2fashion.com/Newsresource/images/254/ups_266546.jpg"
-        width: 710
-        height: 450
+    quality: 19
 
 secured: "072YdsST7EHabUgUZO4j3QrgJrcGSFybxKJsQbUwASNEIGqh06IZV0yj7xTqhwIqx3txAUvLCpIib/SYeaO10zoBTf5N0c/uYdExfq3YK872Fuh75hYCOEiizFAmix9BJUWGRQjWj37MyEwrUmtoZZ6BJckaFqe5FpKaje1Ot9tfOa4lVHEEHVfHmeRALbcOKD0qqhoqXKOKsjld+3znCjk2WbeTUvkxP0K6yKH6eWcWgWJgPqlXkorZbEdSWYEYyoGyyVmlOne6Q7BlcHi38yljBMGsffR0DETW3xW8qXlQ508tiemtfEYi5DYOFCrV;Son1Ms2tSkZcAduRPNhFWQ=="
 ---

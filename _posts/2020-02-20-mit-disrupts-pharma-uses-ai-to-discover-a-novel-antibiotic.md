@@ -105,19 +105,6 @@ related:
       - url: "https://www.statnews.com/wp-content/uploads/2020/02/c.-difficile-1024x576.jpg"
         width: 1024
         height: 576
-  - title: "Powerful antibiotics discovered using AI"
-    excerpt: "The researchers say the antibiotic, called halicin, is the first discovered with artificial intelligence (AI). Although AI has been used to aid parts of the antibiotic-discovery process before, they say that this is the first time it has identified completely new kinds of antibiotic from scratch, without using any previous human assumptions."
-    publishedDateTime: 2020-02-20T18:54:00Z
-    webUrl: "https://www.nature.com/articles/d41586-020-00018-3"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 37
-    images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-020-00018-3/d41586-020-00018-3_17728260.jpg"
-        width: 1024
-        height: 576
   - title: "Artificial Intelligence Model Identifies ‘Amazing’ Antibiotic Candidate"
     excerpt: "The new antibiotic candidate, which has been given the name halicin—after the fictional artificial intelligence system from “2001: A Space Odyssey,”—was discovered in the Drug Repurposing Hub, and is structurally different to conventional antibiotics. Initial in vivo experiments showed that halicin was effective against Clostridium ..."
     publishedDateTime: 2020-02-21T13:00:00Z
@@ -142,6 +129,15 @@ related:
       name: Psychology Today
       domain: psychologytoday.com
     quality: 37
+  - title: "Powerful antibiotics discovered using AI"
+    excerpt: "The researchers say the antibiotic, called halicin, is the first discovered with artificial intelligence (AI). Although AI has been used to aid parts of the antibiotic-discovery process before, they say that this is the first time it has identified completely new kinds of antibiotic from scratch, without using any previous human assumptions."
+    publishedDateTime: 2020-02-20T18:54:00Z
+    webUrl: "https://www.nature.com/articles/d41586-020-00018-3?sf230461118=1"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 17
 
 secured: "9VQEiRdOWJcx8usWTdd3SQnw9natrKgiTubB66INpb+KdQp0avpECWah6zH7u8Iaxde1QoV/2ainvuookG46BjB1wvB6pyZDUgjJzYDZ388702tSRFnFVSFZcLw9BapGm2gxSprk6WBApaOCRdBzK2cwUaBvmJxInEwIph6nreJGFVwL9sf6dWJiJOC8k1RYbmeld5BMHEKwpKJNuhlswOeE/LTo2Kui1f/wiPxSI86DJ20liKHBQkDftrbxcpHBV8YkQ1preCpmzc0zakTjFAuCAQb7CxQz4//lp53TmxOUn/+dpXxvxEzmoXhp39V9YiMhvuoD5eW3NElCLz5iDqHwXGEIzjRsb9iLvOFbdQ29ou+woBnu2RL+1Jt+sc51UQx1o+ETpjUVpei10lcYvz7IdfdsmQTBxVydTrEZcfph5iI9lv594IMAYHO8mTow3AnvPmsOUPEMCb/1hHQHc3Byx5Bj+BNAv0bGHuVX738=;2EVVlT3UYvWU1aO8fuCbOQ=="
 ---

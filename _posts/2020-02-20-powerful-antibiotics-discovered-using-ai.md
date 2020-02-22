@@ -3,9 +3,9 @@ category: news
 title: "Powerful antibiotics discovered using AI"
 excerpt: "The researchers say the antibiotic, called halicin, is the first discovered with artificial intelligence (AI). Although AI has been used to aid parts of the antibiotic-discovery process before, they say that this is the first time it has identified completely new kinds of antibiotic from scratch, without using any previous human assumptions."
 publishedDateTime: 2020-02-20T18:54:00Z
-webUrl: "https://www.nature.com/articles/d41586-020-00018-3"
+webUrl: "https://www.nature.com/articles/d41586-020-00018-3?sf230461118=1"
 type: article
-quality: 37
+quality: 17
 heat: -1
 published: false
 
@@ -15,12 +15,6 @@ provider:
 
 topics:
   - AI
-
-images:
-  - url: "https://media.nature.com/lw1024/magazine-assets/d41586-020-00018-3/d41586-020-00018-3_17728260.jpg"
-    width: 1024
-    height: 576
-    title: "Powerful antibiotics discovered using AI"
 
 related:
   - title: "Scientists discover powerful antibiotic using AI"
@@ -145,6 +139,6 @@ related:
       domain: psychologytoday.com
     quality: 37
 
-secured: "S3YtBBL/O7Jmrzxg7PUg8wRSKiAQicQKF9b8i/OiPhBj2GioxKAVNPJHkE/E07+rOlPWd8HlVdwskRRiBViBLe1rfVvduVIbpOfVCDCEPrtHHmLNyi1tZsOMurCaXHQwpr8Qd07YnwbeZbxSNtZ4P21YabVr221oRSXxVUpbJIDRTd5AaMOlISmqaxrSG0kBWg02Rmr6V2b/9Uull3dB+fmOeKKDofaACrkJ3/tgggWXWd/Fabpnm8qml8Tr1rEhFBY/Zi0Uqeal3xHwGaWIhh8RT513ZzCGg7LOmc8+vtE5SnnriXUpa7vpngvWxhxCxQwlgR2o1mL190rNbh4jZilHH8ZrPbNiufPOIeqjPONSmXyOR5er/rlETSdQQnBZHvHvCc8aMIdxj86hu1/uHSUOLUQ7xekJKaoYtnxgJR+9eg8C1ZKihQm11O+iMQB41eKSfeFOywd8K5d6VrqYNcw0I/1noMC7Q68woUGLD5Q=;BKfeOqH0znq3cKbfkeSIVA=="
+secured: "+6WZV4lNkTxxfLUJkvIwbiWWP0+xm7i8abYqd6d71RDYA8CWeWCEA1zEpv/eOCWei+bryttqhIRfo8tMD1j2fGiL37wOcL9sYER3HM7ziAHONRo6nJF71Wkmx/khPZUGYt4EshgpyEj6YEelyVIuWAtvm61OCU2H0f8octpqlnLtHQWWs2G9FqizAnxMo5nnw+1+pQuBM3TUjvDSoEmShDiMw2zybCvAowHviHL8HbTDiyuJFxHmRmtXiey72uCmbCN7a5bELsEhLDCgXu3mQzf055v1XwuPR3PMgFF+Lpv/vgkAscuaCjZi5XuZkJ5/2fMSoIwn9PFe6HXK0tPLpr3vDunt2xE+srjRlanYTWaU14Do2CkbPsEch2Y4jexri2B+FCJXeCW85iOcG04hz900zGBtOyzJ75MvAWuJ+q6ThoQwM9j/O+02NpGyJdc5XWSUem1+TJDKO9V00uS2FYicWeKdF4k1fP2fET07iIo=;iKSpAg9mZ4cccoi5QcaLgA=="
 ---
 

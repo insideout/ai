@@ -299,17 +299,6 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/03/18/facebook-logos_0.jpg"
         width: 1024
         height: 683
-  - title: "FB to pay users for recording to improve speech recognition"
-    excerpt: "Facebook has announced it will pay select users who agree to record their voice to improve its speech recognition technology. The social networking giant will pay select users to record snippets of audio through a new programme called “Pronunciations” in its Viewpoints market research app, according to The Verge. If you qualify to be part ..."
-    publishedDateTime: 2020-02-21T06:23:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/fb-to-pay-users-for-recording-to-improve-speech-recognition/article30878453.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/fb-to-pay-users-for-recording-to-improve-speech-recognition/article30878453.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/fb-to-pay-users-for-recording-to-improve-speech-recognition/article30878453.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 39
   - title: "Facebook will pay for users' voice recordings after it was caught listening to Messenger chats"
     excerpt: "In a program called 'Pronunciations', participants will be payed a small sum, only up to $5, to use the company's market research app Viewpoints for recording various words and phrases that the company will then leverage to train its speech recognition AI. That voice data will be used to improve products like Portal, which is Facebook's smart ..."
     publishedDateTime: 2020-02-21T16:31:00Z
@@ -375,6 +364,35 @@ related:
       - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.channel3000.com/content/uploads/2020/01/5dfb591dd3167.image_.jpg"
         width: 1763
         height: 1175
+  - title: "Now Facebook wants to pay you for your voice recordings – how much can you get?"
+    excerpt: "As a part of Facebook Viewpoints, a new program called Pronunciations will let users submit audio recordings to Facebook. The company says it wants these recordings to help improve its speech recognition AI. Each participant will need to say, “Hey Portal,” followed by a friend’s name twice, then repeat the process nine more times with dif ..."
+    publishedDateTime: 2020-02-22T03:46:00Z
+    webUrl: "https://www.komando.com/social-media/facebook-pays-for-voice-recordings/707922/"
+    ampWebUrl: "https://www.komando.com/social-media/facebook-pays-for-voice-recordings/707922/?amp"
+    cdnAmpWebUrl: "https://www-komando-com.cdn.ampproject.org/c/s/www.komando.com/social-media/facebook-pays-for-voice-recordings/707922/?amp"
+    type: article
+    provider:
+      name: Kim Komando
+      domain: komando.com
+    quality: 20
+  - title: "FB to pay users for recording to improve speech recognition"
+    excerpt: "... has announced it will pay select users who agree to record their voice to improve its speech recognition technology. According to The Verge, the social networking giant he company will pay ..."
+    publishedDateTime: 2020-02-21T12:12:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20200221/3508472.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
+  - title: "Facebook will pay you $5 for your voice recordings instead of just listening in for free"
+    excerpt: "Those recordings will then help improve Facebook’s speech recognition technology, presumably so CEO Mark Zuckerberg will have someone to talk to once he alienates the rest of the world’s population… Those of you that want to take up this offer, might want to know what’s happening with your sultry tones. A new section in the Viewpoints ..."
+    publishedDateTime: 2020-02-21T16:14:00Z
+    webUrl: "https://knowtechie.com/facebook-will-pay-you-5-for-your-voice-recordings-instead-of-just-listening-in-for-free/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 0
 
 secured: "SWI6t5wZBkRMOxT51s9B4c1HzVVcExih1PnkAyhQbJUat+3kvuPBmO3cUfa5wCwuY6ZTcW6w8qoHonW04yLs6+Tiby0BRHgI5OwxGWVRboq7kfcMdpkWFN6EoYCuZgTN30IEa5rEw1wbYl95hVltx5Hzx8lF4C3nJYlxiHxWkbsQA1yVfPCv4QhtZbje/Wi/sbExY0Taf//JbwLAyWF1zdco2p703m78PbEac/FZpQ/gmb682OhdNRgRpzBgJxyFv5oCZzI7s9GJwx2JsLpbJRqMQgtMvzeZ//dHUuejBe+eqFYzhhZRJ9w3eFpPfKje6eQtW0F/bwIq1spkX9+UTwmrdrhxb/EHBv7uB+6P4MLTBoeskp5v4DtkedS+AcaOdYv/EUlPkZkMYTZb0lUGzl11Qdv+MEJyiXNkWQxSCdU9UQpT4EwChojTGPgavS1ZuexbysZUdqF04BFBij5u7u1Vqeym2+oSiBXNDJwSJGw=;nV8WtvJW1zjYeE0/UFOYCw=="
 ---

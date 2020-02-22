@@ -8,7 +8,7 @@ ampWebUrl: "https://www.chicagotribune.com/featured/sns-nyt-warehouse-robot-lear
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/featured/sns-nyt-warehouse-robot-learns-sort-out-tricky-stuff-20200201-agcolycsqbetnk27wmpumpxsl4-story.html?outputType=amp"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -24,21 +24,6 @@ images:
     width: 1200
     height: 900
     title: "A warehouse robot learns to sort out the tricky stuff"
-
-related:
-  - title: "Look out, the robots are coming!"
-    excerpt: "Just when I think that I'm getting used to the shiny new world of Roombas, Alexas and driverless cars, something else comes along and throws ... a team of international researchers remarked on the potential of artificial intelligence to disrupt a variety of jobs in fields as diverse as finance, information technology, law and medicine, and ..."
-    publishedDateTime: 2020-02-08T04:31:00Z
-    webUrl: "https://www.texarkanagazette.com/news/features/story/2020/feb/07/look-out-robots-are-coming/815638/"
-    type: article
-    provider:
-      name: Texarkana Gazette
-      domain: texarkanagazette.com
-    quality: 24
-    images:
-      - url: "https://media-cdn.wehco.com/img/photos/2020/02/07/cdoughertycolumn24539147173_t1070_h10763943e31ed1ed1283106f30b9da2ac5376c82.jpg"
-        width: 1070
-        height: 721
 
 secured: "hJ1RMWqSMir7ILLxlhOY0HbXlaKSu0L+9IV9wJE7+Ij+NTdhS+2bdgTB3JdKFkil2mCkyiIosNRWITB5knKiM4rMCHr3erfBibsODmrOrQFPbNhKraiQLwWLCv5Jj0DUQUeEPzPd/yKayZfiqYhcsK925bP0twfeCm0qNkx4TiQSgW92s1CLd7TdRvtUMbvrNRtD02shPgYFWPYoXCgnPzw0e7dkp7tK5FrGNTAlN1WhOAD3fNNsezamZ+/DL4GPRc0yRlQdE4pQEsugTdvon8e/r4uoGHgB58GTyH+/YpUqczUfG0/+RSpT1stNOrNOzJJcdE/lU1i470dFJUD+Bpvo3S/HaYGWfyG0FxBLHn3vHQhPWSK+YZP74bVdjrUuMrt8WDw+Mcuf1T3v1T8itj+RjUdeqiheE4ELNFICriRyA33S8Fi+UrhK2WdzcibZFPEayTDxPVRleAogU3hpcLbYCfpwIrek5nhFi1GOMmU=;DiK0FfgeGtmXqiRuBbhIfw=="
 ---

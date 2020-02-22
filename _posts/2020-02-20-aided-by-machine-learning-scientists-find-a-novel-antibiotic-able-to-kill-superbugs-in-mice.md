@@ -108,19 +108,6 @@ related:
       name: Psychology Today
       domain: psychologytoday.com
     quality: 37
-  - title: "Powerful antibiotics discovered using AI"
-    excerpt: "The researchers say the antibiotic, called halicin, is the first discovered with artificial intelligence (AI). Although AI has been used to aid parts of the antibiotic-discovery process before, they say that this is the first time it has identified completely new kinds of antibiotic from scratch, without using any previous human assumptions."
-    publishedDateTime: 2020-02-20T18:54:00Z
-    webUrl: "https://www.nature.com/articles/d41586-020-00018-3"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 37
-    images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-020-00018-3/d41586-020-00018-3_17728260.jpg"
-        width: 1024
-        height: 576
   - title: "Artificial Intelligence Model Identifies ‘Amazing’ Antibiotic Candidate"
     excerpt: "The new antibiotic candidate, which has been given the name halicin—after the fictional artificial intelligence system from “2001: A Space Odyssey,”—was discovered in the Drug Repurposing Hub, and is structurally different to conventional antibiotics. Initial in vivo experiments showed that halicin was effective against Clostridium ..."
     publishedDateTime: 2020-02-21T13:00:00Z
@@ -145,6 +132,15 @@ related:
       name: Psychology Today
       domain: psychologytoday.com
     quality: 37
+  - title: "Powerful antibiotics discovered using AI"
+    excerpt: "The researchers say the antibiotic, called halicin, is the first discovered with artificial intelligence (AI). Although AI has been used to aid parts of the antibiotic-discovery process before, they say that this is the first time it has identified completely new kinds of antibiotic from scratch, without using any previous human assumptions."
+    publishedDateTime: 2020-02-20T18:54:00Z
+    webUrl: "https://www.nature.com/articles/d41586-020-00018-3?sf230461118=1"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 17
 
 secured: "b8JLTRns1ABFyUJh39pEj8i1/jovj5kQBuy3OFfVP9/+WFKc3YyyJqMm17RqrTsTWQFUDGJFwrF3ax8Aud9cyG8vtSSKmljzUWX052QGj1Cvc5uApi1yhqnbh0RzlQ9Va5XJ0XBeoSUxBBZi+anb3twLypE1zTK0ZNhJ94iJLOzfVz0jX5I79kpRG+FIbRyhQPCZjdYkXu69PG7pyTwkohTY7fdXcWDah6O60a10jp3jTXgvtc+6hLw2e4UO/b37K6wKDndXwGtYs5I46xBaG42/acohb0NkqHiXCYc973n5LxzP6UxeU9cMIH9l4IkA/BX7MG0RoxecCyd7qWurZCIwO8xhuF2Cf5j4m9lQjVNYOXEj9t+vHfD9f/h9obmkPHuUEEfV1RFnkLPdqeOCnjJnUw7WVNzJ20YV4R7fpv5r5b7DILdXhJUT8RVWU+GvmyuT/8D/6oMYLs8jmuj9Ofie9KpO7hRUOHtUGHoAeOc=;HLOf6n0ys1fWjNB1RhAXaw=="
 ---

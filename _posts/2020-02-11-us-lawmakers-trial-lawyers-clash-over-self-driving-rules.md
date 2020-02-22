@@ -41,6 +41,19 @@ related:
       - url: "https://media2.govtech.com/images/shutterstock_1019141671.jpg"
         width: 950
         height: 629
+  - title: "Federal Policymakers to Draft Self-Driving Vehicles Bill"
+    excerpt: "WASHINGTON — Policymakers in the U.S. House of Representatives are aiming to draft a bipartisan measure that would guarantee the deployment of life-saving technologies in self-driving vehicles, the chairman of a key committee said Feb. 11. “We can ..."
+    publishedDateTime: 2020-02-11T22:37:00Z
+    webUrl: "https://www.ttnews.com/articles/federal-policymakers-draft-self-driving-vehicles-bill"
+    type: article
+    provider:
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 24
+    images:
+      - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/pallone.jpg?itok=zhaIX2_q"
+        width: 470
+        height: 246
 
 secured: "ZqLNwneeB79JnNs8Ji+KHNgpw5F4zuFXtLJtgfcxyEoORbG5DLOFDplgDy+corE/lYdSeH9Wr9pTdXZaRLVDfTB+fVgaqQNcrNLhtbrYMSABIp60jn3rZP9erzOzqtJo8r6iMdd5OJRUtky4n6BRTRdMYgo/TmFtVpT7Yt94fsWWAkKjTpJOXOsveZa/6yGZ91CBEGAOs0k8RHhER0hsgNZWwUf+zA0OEUTakQehq1S/AFknoz3aZhiltPXo+4uOgECnJmqCs27hedX4NQ9hTYLGDmj/82UzByC9XPzaMoiB/i+4Hm93Xjx1vHEjoTHXqufYcOB2s1YpNY7bRq1tTBUIplo0sdbXstc97fU3KL1otLQSnKgKfKS7/PwjXasNN10MxeF5VFogYtSfD8nDGmrwdysOqt5cJCw92DQA8bjuEOwIDwkG/L2zyuGMD5w4a8TvkOYxWNPaUMr4bme8eKZQ6HD2Ox9Dtu8suI3BXsE=;JlsPuVR0EhHm9EZDECZd6g=="
 ---

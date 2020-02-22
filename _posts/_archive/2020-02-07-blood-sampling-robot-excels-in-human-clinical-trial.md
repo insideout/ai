@@ -23,17 +23,6 @@ images:
     height: 500
     title: "Blood sampling robot excels in human clinical trial"
 
-related:
-  - title: "New Blood-Sampling Robot Performs Better Than Humans"
-    excerpt: "Next steps include refining the device to improve success rates in patients with difficult veins to access. Data from this study will be used to enhance artificial intelligence in the robot to improve its performance. Rutgers co-authors include Max L. Balter and Alvin I. Chen, who both graduated with doctorates; Enrique J. Pantin at Rutgers ..."
-    publishedDateTime: 2020-02-07T10:10:00Z
-    webUrl: "https://www.medindia.net/news/new-blood-sampling-robot-performs-better-than-humans-193018-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 19
-
 secured: "hAc4JpkEk9Xw4dI+L3Fl+NUiRly46iVgLiFupYAda65ttiEt+v1rZL4tk/FMeYjmwW4kFbiC7Tt2Ak790VX1iAf1PXKbZebBxv4+C08efV1Qw8koxftgHuoMy0TGQ/3WrkMLXA37+1+RmS9D/lb+e4IVX3zd9F7Js61rMdQ6+zXowySqbBrt8qMxBEycsQs6cqePo6GV9Mb9ti0zD6D27OBDp4thQyCcf72wvvOC0kH/w5egKwQgALJgsI0Vbaqxo0EmPiaLKeiLWJaLEvxgsxx0+0C7z0p6eU3yA+VaybmnYBr/Hw+NrVfSynqH4HUy;m/4zSpz0VtwgdENZC9JmlA=="
 ---
 

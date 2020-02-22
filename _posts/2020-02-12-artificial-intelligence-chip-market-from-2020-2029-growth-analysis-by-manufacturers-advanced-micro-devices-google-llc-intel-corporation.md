@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-12T20:28:00Z
 webUrl: "https://apnews.com/faca3a891d21c793cb6c119b5e367d30"
 type: article
 quality: 5
-heat: 5
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,56 @@ images:
     width: 700
     height: 450
     title: "Artificial Intelligence Chip Market From 2020-2029: Growth Analysis by Manufacturers| Advanced Micro Devices, Google LLC, Intel Corporation"
+
+related:
+  - title: "Natural Language Processing Market Future Innovation Strategies by 2029 | Apple Incorporation, Dolbey Systems, Google"
+    excerpt: "Global News of Natural Language Processing Market Study 2020-2029, by Segment (Rule-Based, Statistical, Hybrid), Playing a Pivotal Role in Expanding by (Web Search, Language Translation, Customer Service),"
+    publishedDateTime: 2020-02-12T10:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-future-innovation-strategies-by-2029-apple-incorporation-dolbey-systems-google-2020-02-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Image Recognition Market Competitive Landscape Outlook To 2029 | Attrasoft Inc, NEC Corporation, Google Inc"
+    excerpt: "Segmentation on the basis of technique: QR/Barcode Recognition, Object Recognition, Facial Recognition, Pattern Recognition, Optical Character Recognition. Segmentation on the basis of component: Hardware, Software, Service, Segmentation on the basis of application: Augmented Reality, Scanning Imaging, Security Surveillance, Marketing ..."
+    publishedDateTime: 2020-02-07T11:27:00Z
+    webUrl: "https://apnews.com/Wired Release/a8d7aa85bcfa1fb52dce7fe6e811cac3"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 6
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+  - title: "Cognitive Data Management Market Future Scope – AttivioInc, CognitiveScaleInc, Cognizant Technology Solutions Corporation"
+    excerpt: "Ltd. The Global Cognitive Data Management ... Kingland Systems Corporation, Microsoft Corporation Market Segmentation: Segmentation by Component: Solutions, Data Integration and Migration, Data Governance and Quality, Others (Data Prep, Data Security, and Event Stream Processing), Services. By Business Function, Operations, Sales and Marketing ..."
+    publishedDateTime: 2020-02-12T21:03:00Z
+    webUrl: "https://apnews.com/6d03754c03ddf3ddd25e5258c04473bb"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+  - title: "Voice Assistant Market Innovations, And Top Companies – Forecast To 2029| Amazon Inc, Google Inc, Apple Inc"
+    excerpt: "Segmentation by Technology:, Speech Recognition, Speech Recognition System, Speaker Dependent Systems, Speaker Independent Systems, Natural Language Processing (NLP), Text-to-Speech Recognition, Voice Recognition. Segmentation by Application: Messenger Bots, Websites, Contact Centers. Segmentation by End User: Individual Users, SMEs ..."
+    publishedDateTime: 2020-02-12T20:18:00Z
+    webUrl: "https://apnews.com/Wired Release/f77df562f1ed5f919f28a22f80c01d58"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
 
 secured: "8WFRQnmbASHA++i53abibq0ssA0i17t7sVPY74fAZOey6PAzrWPArXgeUsQFTq4U26ZkGpT4hJLLsSQ4XhUOk+SaXHJPZvaJLJFzmyxI5ULyRvLPQRT+45oiHdL3nMH0MhmmeLiwqadKXnwBYr2w7DGoCEl+Q5nyLoVJIKdPK/5j/Mkn5HRXLkABiUc1yMXyZzdSjfIr4FNRKXCJxdiMwJEqge3TeA3nkvfIEOXlQf84WrRPYXhLFM9UleBqx0Jh4gciKbcCR3GM9Vx3HbYu8BxlaqjesChTQ1i9Nx+mix1KLEDLbyj7BsqQyREqR1L/;WHTFsE2k02NECMIK7N3GGg=="
 ---

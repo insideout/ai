@@ -37,6 +37,19 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/herald-dispatch.com/content/tncms/custom/image/10aba90e-dd9e-11e6-8368-ebae1dfc24e1.png?resize=600%2C600"
         width: 600
         height: 600
+  - title: "Self-driving vehicle coming to Fargo area later this year"
+    excerpt: "FARGO — A self-driving vehicle is expected to hit the road in the Fargo area later this year. The Federal Highway Administration has awarded the North Dakota Department of Transportation a $241,687 grant to improve work zone safety with a self-driving vehicle."
+    publishedDateTime: 2020-02-07T23:34:00Z
+    webUrl: "https://www.inforum.com/news/government-and-politics/4927364-Self-driving-vehicle-coming-to-Fargo-area-later-this-year"
+    type: article
+    provider:
+      name: INFORUM
+      domain: inforum.com
+    quality: 24
+    images:
+      - url: "https://www.inforum.com/news/601307-gqfrk5-Work-Zone-photo/alternates/BASE_LANDSCAPE/Work%20Zone%20photo"
+        width: 1140
+        height: 712
 
 secured: "pjSe0OvFAj9lraPDB2r43RhuZrqzyI5hw8R1oF0vW1J/1oC44iSYx1i5U1OPQn4DJUtPxepZkFD5rDjjT8AckwFb+dj/QWzD7/v25O2EbXjTkfeqR58E8YZVN8hka4nrj7jX6XU6ttVWLrKVOI96ip7+NLKYV8BsxBSYFfLceCN4995JNnl+/Ta1/wknkLKdr/awLsfMHRiEkbviC4T1gNddXbhK2PjjU/G9Pcclh/cDB1ohDC7/9fy7P1hERkyuDShZOvzVlDln8kLEep9UT5fwYbZOKtALsf20R2bCQ8vsMMS+cVNQgwuwIT6B19CY;A1uYAUdXZPYFo8/FOnNcZw=="
 ---

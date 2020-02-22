@@ -312,17 +312,6 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/03/18/facebook-logos_0.jpg"
         width: 1024
         height: 683
-  - title: "FB to pay users for recording to improve speech recognition"
-    excerpt: "Facebook has announced it will pay select users who agree to record their voice to improve its speech recognition technology. The social networking giant will pay select users to record snippets of audio through a new programme called “Pronunciations” in its Viewpoints market research app, according to The Verge. If you qualify to be part ..."
-    publishedDateTime: 2020-02-21T06:23:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/fb-to-pay-users-for-recording-to-improve-speech-recognition/article30878453.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/fb-to-pay-users-for-recording-to-improve-speech-recognition/article30878453.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/fb-to-pay-users-for-recording-to-improve-speech-recognition/article30878453.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 39
   - title: "Facebook will pay for users' voice recordings after it was caught listening to Messenger chats"
     excerpt: "In a program called 'Pronunciations', participants will be payed a small sum, only up to $5, to use the company's market research app Viewpoints for recording various words and phrases that the company will then leverage to train its speech recognition AI. That voice data will be used to improve products like Portal, which is Facebook's smart ..."
     publishedDateTime: 2020-02-21T16:31:00Z
@@ -375,6 +364,35 @@ related:
       - url: "https://images.khaleejtimes.com/storyimage/KT/20200221/ARTICLE/200229877/AR/0/Facebook,-voice-recognition,-social-media.jpg&NCS_modified=20200221083954&exif=.jpg"
         width: 790
         height: 517
+  - title: "Now Facebook wants to pay you for your voice recordings – how much can you get?"
+    excerpt: "As a part of Facebook Viewpoints, a new program called Pronunciations will let users submit audio recordings to Facebook. The company says it wants these recordings to help improve its speech recognition AI. Each participant will need to say, “Hey Portal,” followed by a friend’s name twice, then repeat the process nine more times with dif ..."
+    publishedDateTime: 2020-02-22T03:46:00Z
+    webUrl: "https://www.komando.com/social-media/facebook-pays-for-voice-recordings/707922/"
+    ampWebUrl: "https://www.komando.com/social-media/facebook-pays-for-voice-recordings/707922/?amp"
+    cdnAmpWebUrl: "https://www-komando-com.cdn.ampproject.org/c/s/www.komando.com/social-media/facebook-pays-for-voice-recordings/707922/?amp"
+    type: article
+    provider:
+      name: Kim Komando
+      domain: komando.com
+    quality: 20
+  - title: "FB to pay users for recording to improve speech recognition"
+    excerpt: "... has announced it will pay select users who agree to record their voice to improve its speech recognition technology. According to The Verge, the social networking giant he company will pay ..."
+    publishedDateTime: 2020-02-21T12:12:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20200221/3508472.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
+  - title: "Facebook will pay you $5 for your voice recordings instead of just listening in for free"
+    excerpt: "Those recordings will then help improve Facebook’s speech recognition technology, presumably so CEO Mark Zuckerberg will have someone to talk to once he alienates the rest of the world’s population… Those of you that want to take up this offer, might want to know what’s happening with your sultry tones. A new section in the Viewpoints ..."
+    publishedDateTime: 2020-02-21T16:14:00Z
+    webUrl: "https://knowtechie.com/facebook-will-pay-you-5-for-your-voice-recordings-instead-of-just-listening-in-for-free/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 0
 
 secured: "9uM92euZfxauht1xeT+h9IQTtp8IgBHPoX3ICENqfwQCNXUPz1owGV4kzgyv2bENN8yFBgVDdJxClKZRStkxamZOHRz3MfgqAm10oeUrZy47DZaOvngJQP43WN7aIPNuA9xn9IW5pHVjBWac4sio60KtYWHOZwZ0h+0UjYc6WRL0Weta1ynKQOcXAn7AVdxUoPnewt9G+tpUyJN4qqzY9/o+MJ5yhnFhLs7Ty0kZl/AAKThPwp3QsjYZ3qqZScuPAVDwmGUSCstZzDq0EoBYe4kOJ53NS/C+Rjc5IEsxXgck8y/6u9FNne/aYEC5d//VOcd5gCRDZbnylj7EkIBDMbQHBheXyuyyu5WsjWh6l12D6qYJd4kRy1ECh3EWsABPsRMhAYFiJrFANnph5i2Jy5igo8WN2BYMuZUenhw7E/TTW9ueHRRJcrQ/1JM3azIl2SpZ+tByPhnT6n716D0BhboC186fNxRpfVoU7yOu3Kw=;z9K0qdp/z4JPSOkmHm1+wg=="
 ---

@@ -5,8 +5,8 @@ excerpt: "Object recognition can recognize faces, animals, cars, weapons, fires,
 publishedDateTime: 2020-01-27T18:03:00Z
 webUrl: "https://theintercept.com/2020/01/27/surveillance-cctv-smart-camera-networks/"
 type: article
-quality: 24
-heat: 24
+quality: 4
+heat: 4
 published: false
 
 provider:
@@ -17,12 +17,6 @@ topics:
   - AI
   - Computer Vision
 
-images:
-  - url: "https://theintercept.com/wp-uploads/sites/1/2020/01/3atkinson70a-still-2-1579897034.jpg"
-    width: 1000
-    height: 500
-    title: "The Rise of Smart Camera Networks, and Why We Should Ban Them"
-
-secured: "0dU08axmTkWQ50FDC/KkVtJEDeLxK/Fv5r/LW+wiJTScw0aoEV3ILHOlwyyo6f2uM0oHtlwoM3U1674TuImvsW3C/fj+N2c7sNojNpGMnvlVs1svgqxiFlWulU1pgzMAFNug9dky1RBW5Ws8Td0vTG9Ei5Ufp91Ky06M/Kby4+X0AVQhVhN2r1TkZEjgtgh0aVruollU9DWT++xh28rJppcwigdEJ6R+bFr4b8bf1BK0+CEW6ev7174r51FcX5wrZzcxaLkj4jgEkXjdsgTXMg/Xdy/dn1jV7tmbl0+x5LJFvKYubVMbOASnZGWNzg3s;Rh9j3gv5Z5ZU3M8OUbqABg=="
+secured: "HLDAdEz6tFP54RPchCvzKSCvdCy8nWPCAYt2QoquWhhsia0L+sEzuDyb95WLne8wubPqK2BrugTM6v58RpN/GTl4juRFOvxkC6qJXXVQlwzWutIhPNFOai1MWS3X4bWoO1uNV+T+z4lnlTNgQWW2rZeTjb7bAbbjM4VZnX/1fMLcnCjCzUdfOvpE6BX1dQvgJfhiCm2DLOMnyNVLh5orYPI7RLSICfvsIJcIqavGGUzrEPVkUFfz8aJES9sENSe65KRnfOh6mPhIhQQkzAmX05IpAgRCKwmR7Agg1p2sOK9DglaLUI0jz0lQyfaqPVrs;GIYjsXDZsaNKLg5dDeLlJA=="
 ---
 

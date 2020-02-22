@@ -1,15 +1,13 @@
 ---
 category: news
 title: "The 10 Coolest, Silliest, and Most Borderline Insulting TV Pilots of 2020"
-excerpt: "There are plenty of theories about how her time with Hannibal impacted her, including one that insists she was being mind-controlled to ... starring Karl Urban about robot cops that was pretty ..."
+excerpt: "There are plenty of theories about how her time with Hannibal impacted her, including one that insists she was being mind-controlled to become a government assassin ... better known as that show starring Karl Urban about robot cops that was pretty good except when it was awful. This could end up being something interesting, or it could turn ..."
 publishedDateTime: 2020-01-28T17:24:00Z
 webUrl: "https://io9.gizmodo.com/the-10-coolest-silliest-and-most-borderline-insulting-1841305564"
-ampWebUrl: "https://io9.gizmodo.com/the-10-coolest-silliest-and-most-borderline-insulting-1841305564/amp"
-cdnAmpWebUrl: "https://io9-gizmodo-com.cdn.ampproject.org/c/s/io9.gizmodo.com/the-10-coolest-silliest-and-most-borderline-insulting-1841305564/amp"
 type: article
-quality: 73
-heat: 73
-published: true
+quality: 33
+heat: 33
+published: false
 
 provider:
   name: Gizmodo
@@ -23,12 +21,6 @@ topics:
   - AI
   - AI in Robotics
 
-images:
-  - url: "https://i.kinja-img.com/gawker-media/image/upload/s--aSgrF8P5--/c_scale,f_auto,fl_progressive,q_80,w_800/civehnkykwkfwklensxt.jpg"
-    width: 800
-    height: 449
-    title: "The 10 Coolest, Silliest, and Most Borderline Insulting TV Pilots of 2020"
-
-secured: "K4LeCoak9JZ65VS+NXtg5Uj0/BaAO22D2rNdVhWy6/szARnJbJ+rsNK/8u9BQp6syMBlDfIh1IeGnH/R7yJMJ+6GE9s80+36RPtbNRR6DFdwCZFxm3NfACsVtqMZwAUeyqkL8nilq7iGDYG6sCWfoAN/DAz6dzH5Uo5rPXQ8JDS8k89UOCY+Z8ypEpC6XltUkuGaqWnrYlKuwc4DIYxIvvFC5LjYVlegIF7c/aPyDwV54s1OybKiztZwiwg4PVUVsZ53Evs/D0pAeNqQo0nFx8Zm9c1J2eu6jiY9eibRqxo/EjT4mMsq1GSDyq/82iYQ;dPgnDKp7ocPeNuFygKRe+w=="
+secured: "z4lt0dRKZL/qjscerqQOKI7QjpGfeIyOuY1VJvJGMkkmLylg1PBxmY96lENfPDG48jxG/5EDgwETb6pcz7rYKAABvyShNU1neDvbSTDKm5PM0dKNahCW2YyTSm02kgx5qhP+YFLZf3xMkvwK0Q3AwEz232zisF44QjUp9QPx8L+ary0OIDvjP3aHEIUqkTfIfNg+FdeYle9qY/3w4G2aJc1ZfjT3Tp4wpbMIvklH/QdDrTjHSk96VhC2uvzWUFWVdd2NJbC4T4cH7R4j/gyj4qwCzzafHyJzbWRmwg0oxrgs+MIgOBYuTl41L7L/Y2H7eX6t1LHqDumzx+hCUpjIfpLURptKCXHSnXdBHhECVE2p87I5qEMTXv19+KbRf5hWXsgYUkkUbcQ1+Aun0NEfo2YZqGuQylUEgwRsTIr0mPd8CApov6WlKwonYOz/nHKa6loO4FK1HU+tArrCVqOlrg1a9n0jnUkpyVf7b2AgzEw=;X9CZBy8GudESvfG/rEOfeQ=="
 ---
 

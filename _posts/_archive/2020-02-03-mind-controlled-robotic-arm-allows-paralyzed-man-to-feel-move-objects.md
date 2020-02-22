@@ -4,10 +4,8 @@ title: "Mind-Controlled Robotic Arm Allows Paralyzed Man To Feel, Move Objects"
 excerpt: "Nathan Copeland can't use his own arms to move objects, he can use a robot arm just by thinking about moving it; KDKA's Dr. Maria Simbra reports. Around The Table: The Importance Of The Iowa ..."
 publishedDateTime: 2020-02-03T00:00:00Z
 webUrl: "https://pittsburgh.cbslocal.com/video/3669495-mind-controlled-robotic-arm-allows-paralyzed-man-to-feel-move-objects/"
-ampWebUrl: "https://pittsburgh.cbslocal.com/video/3669495-mind-controlled-robotic-arm-allows-paralyzed-man-to-feel-move-objects/amp/"
-cdnAmpWebUrl: "https://pittsburgh-cbslocal-com.cdn.ampproject.org/c/s/pittsburgh.cbslocal.com/video/3669495-mind-controlled-robotic-arm-allows-paralyzed-man-to-feel-move-objects/amp/"
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
@@ -30,6 +28,6 @@ related:
       domain: mashable.com
     quality: 57
 
-secured: "ozD6+6xOX9RlEjsOOzrddBFCg0kiyIoYeKK9HnsxIqYrkyqnr/CnbiHEX54YxNZ+XnB84nNqVkc1w0qNasrRJM3+6bPksRY/aiZnjuJmYHixrp2Cn+PtmcAV8jSP1U2uas7URVBM6rGWARpAv0rnr0ZH4sdmweGcWaI9Ncr41W/LJI3pABEQpBLe/r0w8f2L+/oL4/kGuRHH00tpPyDqmBWq4iVNTDMlWOpYXrBy6dFgZd7E9zZB7Uitv9atgB3c8WOtscGERB0DO21md7STMF2m3C9e/ib6yPQ0qgqIJ4zPHf4pWsZ4Mh580Y75vm+b;I1dqurR5KnyinIMlQ+7wjA=="
+secured: "eFwDhXCSqCNKEEL9nu6cLzLVthWwVqe+nRACqwd8JavhRRMF+AOPobmoUHeygKt8xbYrZrp4qxzxss78VzQD6CN1cpbwSVxTeoPIpkw8ItKKM6HJduAbpI0+ZQ8wznFAng8ulvyLjhsZhStg9qDgQa/wt8DSe9EfCB+2OD6XrgnXrFb9jmNyjWfScXS4wSib4nCGDfak3/XbWfh41dslEj6S0KltaG/4RBVR/wmAAzJDaH4kPUs7gvuTD/y9BzP+Gi1MQqYuJiqInVr3ygjSQ7YJLr/q6BZlSaFMdT9iOuyiQRHajxspvms8OvhkL+Qz;8PCztZ/PzdmFmIGVWkIl1g=="
 ---
 
