@@ -58,6 +58,15 @@ related:
       - url: "https://www.newscientist.com/wp-content/themes/new-scientist/assets/img/barrier/barrier-2020-q1-digital-book.png"
         width: 394
         height: 213
+  - title: "New machine learning method could supercharge battery development for electric vehicles"
+    excerpt: "A new machine learning method has slashed battery testing times -- a key barrier to longer-lasting, faster-charging batteries for electric vehicles -- by nearly fifteenfold. Battery performance can make or break the electric vehicle experience, from driving range to charging time to the lifetime of the car. Now, artificial intelligence has made ..."
+    publishedDateTime: 2020-02-23T04:18:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2020/02/200219152837.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 41
   - title: "New AI Method Speeds Battery Designs for Electric Cars"
     excerpt: "In a recent Stanford News report, a study led by Stanford University professors Stefano Ermon and William Chueh, along with their colleagues at the Massachusetts Institute of Technology (MIT) and the Toyota Research Institute, created a battery testing method using artificial intelligence (AI) machine learning that reduces battery testing times ..."
     publishedDateTime: 2020-02-22T20:46:00Z

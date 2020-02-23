@@ -63,6 +63,15 @@ related:
         width: 1500
         height: 1001
   - title: "New machine learning method could supercharge battery development for electric vehicles"
+    excerpt: "A new machine learning method has slashed battery testing times -- a key barrier to longer-lasting, faster-charging batteries for electric vehicles -- by nearly fifteenfold. Battery performance can make or break the electric vehicle experience, from driving range to charging time to the lifetime of the car. Now, artificial intelligence has made ..."
+    publishedDateTime: 2020-02-23T04:18:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2020/02/200219152837.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 41
+  - title: "New machine learning method could supercharge battery development for electric vehicles"
     excerpt: "But now, a team led by Stanford professors Stefano Ermon and William Chueh has developed a machine learning-based method that slashes these testing times by 98 percent. Although the group tested their method on battery charge speed, they said it can be applied to numerous other parts of the battery development pipeline and even to non-energy ..."
     publishedDateTime: 2020-02-19T19:45:00Z
     webUrl: "https://www.eurekalert.org/pub_releases/2020-02/su-nml021920.php"

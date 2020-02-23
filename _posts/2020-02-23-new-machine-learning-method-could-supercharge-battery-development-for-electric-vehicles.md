@@ -1,34 +1,42 @@
 ---
 category: news
-title: "AI delivers a battery boost to electric vehicles, slashing testing times 98%"
-excerpt: "On Tuesday, battery testing for EVs surged forward, thanks to the work of a Stanford-led research team––which used AI to cut testing times by nearly 15fold. Led by Stanford professors Stefano Ermon and William Chueh, the research team, from Stanford, MIT, and the Toyota Research Institute, wanted to come up with the best way to charge an EV ..."
-publishedDateTime: 2020-02-18T16:17:00Z
-webUrl: "https://www.techrepublic.com/article/ai-delivers-a-battery-boost-to-electric-vehicles-slashing-testing-times-98/"
-ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-delivers-a-battery-boost-to-electric-vehicles-slashing-testing-times-98/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-delivers-a-battery-boost-to-electric-vehicles-slashing-testing-times-98/"
+title: "New machine learning method could supercharge battery development for electric vehicles"
+excerpt: "A new machine learning method has slashed battery testing times -- a key barrier to longer-lasting, faster-charging batteries for electric vehicles -- by nearly fifteenfold. Battery performance can make or break the electric vehicle experience, from driving range to charging time to the lifetime of the car. Now, artificial intelligence has made ..."
+publishedDateTime: 2020-02-23T04:18:00Z
+webUrl: "https://www.sciencedaily.com/releases/2020/02/200219152837.htm"
 type: article
-quality: 84
-heat: 134
-published: true
+quality: 41
+heat: -1
+published: false
 
 provider:
-  name: TechRepublic
-  domain: techrepublic.com
+  name: Science Daily
+  domain: sciencedaily.com
   images:
-    - url: "/assets/images/organizations/techrepublic.com-50x50.jpg"
+    - url: "/assets/images/organizations/sciencedaily.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI
-
-images:
-  - url: "https://tr2.cbsistatic.com/hub/i/r/2018/07/03/3a08ce38-c418-4ba6-af19-f251dbb8ff9c/resize/1200x/ad6c8926eb2468f73ce7ba686767bbc2/electric-vehicle.jpg"
-    width: 1200
-    height: 800
-    title: "AI delivers a battery boost to electric vehicles, slashing testing times 98%"
+  - Machine Learning
 
 related:
+  - title: "AI delivers a battery boost to electric vehicles, slashing testing times 98%"
+    excerpt: "On Tuesday, battery testing for EVs surged forward, thanks to the work of a Stanford-led research team––which used AI to cut testing times by nearly 15fold. Led by Stanford professors Stefano Ermon and William Chueh, the research team, from Stanford, MIT, and the Toyota Research Institute, wanted to come up with the best way to charge an EV ..."
+    publishedDateTime: 2020-02-18T16:17:00Z
+    webUrl: "https://www.techrepublic.com/article/ai-delivers-a-battery-boost-to-electric-vehicles-slashing-testing-times-98/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-delivers-a-battery-boost-to-electric-vehicles-slashing-testing-times-98/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-delivers-a-battery-boost-to-electric-vehicles-slashing-testing-times-98/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 84
+    images:
+      - url: "https://tr2.cbsistatic.com/hub/i/r/2018/07/03/3a08ce38-c418-4ba6-af19-f251dbb8ff9c/resize/1200x/ad6c8926eb2468f73ce7ba686767bbc2/electric-vehicle.jpg"
+        width: 1200
+        height: 800
   - title: "AI could help make fast-charging, long-lasting electric car batteries"
     excerpt: "Artificial intelligence could help to create long-lasting electric vehicle (EV) batteries that charge faster. William Chueh at Stanford University in the US and his colleagues have developed an AI that optimises EV battery recharging while also maximising the battery’s lifespan. “If you want to charge a battery quickly there is an infinite ..."
     publishedDateTime: 2020-02-19T17:01:00Z
@@ -57,15 +65,6 @@ related:
       - url: "https://news-media.stanford.edu/wp-content/uploads/2020/02/13134738/EVbattery1.jpg"
         width: 1500
         height: 1001
-  - title: "New machine learning method could supercharge battery development for electric vehicles"
-    excerpt: "A new machine learning method has slashed battery testing times -- a key barrier to longer-lasting, faster-charging batteries for electric vehicles -- by nearly fifteenfold. Battery performance can make or break the electric vehicle experience, from driving range to charging time to the lifetime of the car. Now, artificial intelligence has made ..."
-    publishedDateTime: 2020-02-23T04:18:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2020/02/200219152837.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 41
   - title: "New AI Method Speeds Battery Designs for Electric Cars"
     excerpt: "In a recent Stanford News report, a study led by Stanford University professors Stefano Ermon and William Chueh, along with their colleagues at the Massachusetts Institute of Technology (MIT) and the Toyota Research Institute, created a battery testing method using artificial intelligence (AI) machine learning that reduces battery testing times ..."
     publishedDateTime: 2020-02-22T20:46:00Z
@@ -91,6 +90,6 @@ related:
         width: 1440
         height: 960
 
-secured: "t8X4kTNN9VgMu3oNhkaUUvGyc9mCXNjI+G0t0IFAbRGGuhbCnw+/Q0djgiIGYb3aGx98cFQiMeF/rdDmuUARmAscLokQKy6ZQ2IzSBKU92S6/meSchHqlTbXtpOkbDzqPJ55T3teqzhM8/rZCdJ6SQp2IgKyiIyfPnP7d6AM2prd22dX3FVVwIrebNI+g5h5NVrO1nYn9Z4B1yJbnKjEmbU89hkAMyKAc/pgkZeZhCM2UyWMghHgXECIDyKuHbKu0yWcx0DjzDv2MgeS6Iu2tjMPltRNZ6bzahU8gwZxZWYOqmI+Q2Y06pS3OnenvKQY0yVF6HkQGJ+nPDpKpFG10rU7U8c5sTPZlUL10JGd2xWxviLMsR1Yy2EXKaadH/IVQrcdDSn1k3/k2NSbTExTdjvm0XOWrOHHylv8ZDi5AXByQOD/afjGjZOM/Zmvy5mDLDvG3wQePtJIqgTkXrTjoF2KLTfv16p+EngqebW0nNw=;psfAYFx326/b+8i8QHg4TA=="
+secured: "6V/N41eF9udk7tAhotDztR125spyUMbXKktdV+m/4KtrJyt7xPlLXATqw40PNu3JEBUuh6Erv3NnuzOOWvthA3DgfSWrwU5jTNKaHrAT0kZyGvtPgjHGtqCg1kpMg2bzzinETSwIxMmufhQ5ArFJ3IDRayrJ2TGjiHCLGDg84hifVI3LrOVhrwCqrxauCwWsYfF9wJLdsb4cfxw5tFH/1F0V/jBSbEf3HzoBA7SL/rdxgg11s7AiCR1YT04JmERzL/WX5NzL0mfYBdHt0vgd9tQNlqamGmZn9GoY8stEFafNvZcnr1uc7CjFJecSDmx0;k1p3PseuPA+gp2SBuRn40g=="
 ---
 
