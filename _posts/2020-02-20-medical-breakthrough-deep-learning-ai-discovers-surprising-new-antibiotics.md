@@ -69,6 +69,21 @@ related:
       - url: "https://d.newsweek.com/en/full/1568640/halicin-antibiotics.jpg"
         width: 2500
         height: 1667
+  - title: "Artificial intelligence news: Brain-based AI discovers ‘remarkable’ antibiotic"
+    excerpt: "Deep learning, also known as the deep neural network is a subset of machine learning in artificial intelligence which has networks capable of learning unsupervised from data which is unstructured or unlabelled. The AI platform identified molecules that looked quite different from existing antibiotics. This overcome the bias human researchers ..."
+    publishedDateTime: 2020-02-23T11:01:00Z
+    webUrl: "https://www.express.co.uk/news/science/1246170/artificial-intelligence-news-ai-discover-halcyon-remarkable-antibiotic"
+    ampWebUrl: "https://www.express.co.uk/news/science/1246170/artificial-intelligence-news-ai-discover-halcyon-remarkable-antibiotic/amp"
+    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/science/1246170/artificial-intelligence-news-ai-discover-halcyon-remarkable-antibiotic/amp"
+    type: article
+    provider:
+      name: Express
+      domain: express.co.uk
+    quality: 68
+    images:
+      - url: "https://cdn.images.express.co.uk/img/dynamic/151/590x/artificial-intelligence-news-ai-discover-halcyon-antibiotic-1246170.jpg?r=1582457833674"
+        width: 590
+        height: 350
   - title: "Powerful antibiotic discovered using machine learning for first time"
     excerpt: "Team at MIT says halicin kills some of the world’s most dangerous strains"
     publishedDateTime: 2020-02-20T16:28:00Z
@@ -123,6 +138,19 @@ related:
       name: Psychology Today
       domain: psychologytoday.com
     quality: 37
+  - title: "Powerful antibiotics discovered using AI"
+    excerpt: "The researchers say the antibiotic, called halicin, is the first discovered with artificial intelligence (AI). Although AI has been used to aid parts of the antibiotic-discovery process before, they say that this is the first time it has identified completely new kinds of antibiotic from scratch, without using any previous human assumptions."
+    publishedDateTime: 2020-02-20T18:54:00Z
+    webUrl: "https://www.nature.com/articles/d41586-020-00018-3?sf230461128=1"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 37
+    images:
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-020-00018-3/d41586-020-00018-3_17728260.jpg"
+        width: 1024
+        height: 576
   - title: "Artificial Intelligence Model Identifies ‘Amazing’ Antibiotic Candidate"
     excerpt: "The new antibiotic candidate, which has been given the name halicin—after the fictional artificial intelligence system from “2001: A Space Odyssey,”—was discovered in the Drug Repurposing Hub, and is structurally different to conventional antibiotics. Initial in vivo experiments showed that halicin was effective against Clostridium ..."
     publishedDateTime: 2020-02-21T13:00:00Z
@@ -147,15 +175,6 @@ related:
       name: Psychology Today
       domain: psychologytoday.com
     quality: 37
-  - title: "Powerful antibiotics discovered using AI"
-    excerpt: "The researchers say the antibiotic, called halicin, is the first discovered with artificial intelligence (AI). Although AI has been used to aid parts of the antibiotic-discovery process before, they say that this is the first time it has identified completely new kinds of antibiotic from scratch, without using any previous human assumptions."
-    publishedDateTime: 2020-02-20T18:54:00Z
-    webUrl: "https://www.nature.com/articles/d41586-020-00018-3?sf230461118=1"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 17
 
 secured: "YzMRSQMwFuT3E1w1ZOssm7HeSDhopYy9JZtEjbh5qsz0OKpQiapLmBoFOeYagZEo9xwYKqvp0tPXIfeojo+qnrHBxiLP3grn5BSwc1gSYAGrLKtH/mGPLX+f+Qn7qjSpYVXmN3JJi8fYP14lNGjIrNcU6LbY//4ji06eWIobAexfNnXK3lbbfj7pPOyPrgbWjYjkFCm9WzrCbBIYXyB9INg5MqaKHuXQ8e0GqT5PgaIrTafkG2T6DDmfm5ohbVMkt90dla26fIQWzg71nU0JgEvRKp24C0B5J+03o8pGV0oAkcP6DwXK0ip6IP9wUdNFYKHpRRm5Ial/tLHFH7/cDUA+OUWKzaJyAjGG6h4mPjJWIaFM1kdNHvpb3zFqQVVKPoScBsYDJa0GiuT+Go2FS0IurFEHG4vvZ/fQnTNn/FPSGCCKynfQF9JN9LjywnWUzfsgAtGCP2KTbS43VjxNtgzB9h3YOSTzk0TUMWNTcv8=;dTUEeHPE9ZQn4d8VQ6RXfQ=="
 ---

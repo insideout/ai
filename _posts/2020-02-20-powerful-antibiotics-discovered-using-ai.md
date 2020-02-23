@@ -3,9 +3,9 @@ category: news
 title: "Powerful antibiotics discovered using AI"
 excerpt: "The researchers say the antibiotic, called halicin, is the first discovered with artificial intelligence (AI). Although AI has been used to aid parts of the antibiotic-discovery process before, they say that this is the first time it has identified completely new kinds of antibiotic from scratch, without using any previous human assumptions."
 publishedDateTime: 2020-02-20T18:54:00Z
-webUrl: "https://www.nature.com/articles/d41586-020-00018-3?sf230461118=1"
+webUrl: "https://www.nature.com/articles/d41586-020-00018-3?sf230461128=1"
 type: article
-quality: 17
+quality: 37
 heat: -1
 published: false
 
@@ -15,6 +15,12 @@ provider:
 
 topics:
   - AI
+
+images:
+  - url: "https://media.nature.com/lw1024/magazine-assets/d41586-020-00018-3/d41586-020-00018-3_17728260.jpg"
+    width: 1024
+    height: 576
+    title: "Powerful antibiotics discovered using AI"
 
 related:
   - title: "Scientists discover powerful antibiotic using AI"
@@ -62,6 +68,21 @@ related:
       - url: "https://d.newsweek.com/en/full/1568640/halicin-antibiotics.jpg"
         width: 2500
         height: 1667
+  - title: "Artificial intelligence news: Brain-based AI discovers ‘remarkable’ antibiotic"
+    excerpt: "Deep learning, also known as the deep neural network is a subset of machine learning in artificial intelligence which has networks capable of learning unsupervised from data which is unstructured or unlabelled. The AI platform identified molecules that looked quite different from existing antibiotics. This overcome the bias human researchers ..."
+    publishedDateTime: 2020-02-23T11:01:00Z
+    webUrl: "https://www.express.co.uk/news/science/1246170/artificial-intelligence-news-ai-discover-halcyon-remarkable-antibiotic"
+    ampWebUrl: "https://www.express.co.uk/news/science/1246170/artificial-intelligence-news-ai-discover-halcyon-remarkable-antibiotic/amp"
+    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/science/1246170/artificial-intelligence-news-ai-discover-halcyon-remarkable-antibiotic/amp"
+    type: article
+    provider:
+      name: Express
+      domain: express.co.uk
+    quality: 68
+    images:
+      - url: "https://cdn.images.express.co.uk/img/dynamic/151/590x/artificial-intelligence-news-ai-discover-halcyon-antibiotic-1246170.jpg?r=1582457833674"
+        width: 590
+        height: 350
   - title: "Powerful antibiotic discovered using machine learning for first time"
     excerpt: "Team at MIT says halicin kills some of the world’s most dangerous strains"
     publishedDateTime: 2020-02-20T16:28:00Z
@@ -154,6 +175,6 @@ related:
       domain: psychologytoday.com
     quality: 37
 
-secured: "+6WZV4lNkTxxfLUJkvIwbiWWP0+xm7i8abYqd6d71RDYA8CWeWCEA1zEpv/eOCWei+bryttqhIRfo8tMD1j2fGiL37wOcL9sYER3HM7ziAHONRo6nJF71Wkmx/khPZUGYt4EshgpyEj6YEelyVIuWAtvm61OCU2H0f8octpqlnLtHQWWs2G9FqizAnxMo5nnw+1+pQuBM3TUjvDSoEmShDiMw2zybCvAowHviHL8HbTDiyuJFxHmRmtXiey72uCmbCN7a5bELsEhLDCgXu3mQzf055v1XwuPR3PMgFF+Lpv/vgkAscuaCjZi5XuZkJ5/2fMSoIwn9PFe6HXK0tPLpr3vDunt2xE+srjRlanYTWaU14Do2CkbPsEch2Y4jexri2B+FCJXeCW85iOcG04hz900zGBtOyzJ75MvAWuJ+q6ThoQwM9j/O+02NpGyJdc5XWSUem1+TJDKO9V00uS2FYicWeKdF4k1fP2fET07iIo=;iKSpAg9mZ4cccoi5QcaLgA=="
+secured: "YYwj2nWORD8g2Bv1P3vWIoaFi2/F2+c6b38xruWM6zDxZDFdl4Qx7qMD/sy+4+GMyV+hYmVQbFI+7vGSZ1z/WJprbbxQ1t4WdFF56H089b58RY/svseL53Rn1lVjLTf37tG/tJrdRHrNY+VWsI2Hp1axfvSVQyMvUFhiuYHa9586Gh9JfwW/xfsg37G3DpRxK0ldX/QBraQ/eNs8MlZmP2gSVKr0EmiQMGl4EJrnZ7cNBZVD/4qnQ7lpQcLCg+slWbMa5281FLx8ikQENvm8HyJwd2JmJ7FDl8Y2b9VJj7KGx3cNFHUKc442nEud+sAD;ayRI0cuvBmORj2tC+A+KtA=="
 ---
 

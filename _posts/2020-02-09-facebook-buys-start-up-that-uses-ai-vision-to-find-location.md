@@ -8,8 +8,8 @@ ampWebUrl: "https://www.thestatesman.com/technology/facebook-buys-start-uses-ai-
 cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/technology/facebook-buys-start-uses-ai-vision-find-location-1502854522.html/amp"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 99
+published: true
 
 provider:
   name: The Statesman
@@ -26,36 +26,6 @@ images:
     title: "Facebook buys start-up that uses AI vision to find location"
 
 related:
-  - title: "Facebook buys startup using AI vision to find your location (updated)"
-    excerpt: "Facebook might have just acquired a key ingredient for its augmented reality glasses. TechCrunch has discovered a filing indicating that Facebook has bought Scape Technologies, a London-based startup using computer vision to determine your location beyond the capabilities of GPS alone. Its cloud-based \"Visual Positioning Service\" translates ..."
-    publishedDateTime: 2020-02-08T17:28:00Z
-    webUrl: "https://www.engadget.com/2020/02/08/facebook-buys-computer-vision-startup-scape/"
-    ampWebUrl: "https://www.engadget.com/amp/2020/02/08/facebook-buys-computer-vision-startup-scape/"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/08/facebook-buys-computer-vision-startup-scape/"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 89
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D1600%252C1067%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-02%252F7a46c7b0-4a8b-11ea-bbbf-1c3d171afeaf%26client%3Da1acac3e1b3290917d92%26signature%3D2d974150179ef44b8290709e15088aefd3cda7fc&client=amp-blogside-v2&signature=f00fad49113cfed9099a2e85502dd4e6422c103b"
-        width: 600
-        height: 350
-  - title: "Facebook buys startup using AI vision to find your location"
-    excerpt: "Facebook might have just acquired a key ingredient for its augmented reality glasses. TechCrunch has discovered a filing indicating that Facebook has bought Scape Technologies, a London-based startup using computer vision to determine your location beyond the capabilities of GPS alone. Its cloud-based \"Visual Positioning Service\" translates ..."
-    publishedDateTime: 2020-02-08T17:28:00Z
-    webUrl: "https://www.engadget.com/2020/02/08/facebook-buys-computer-vision-startup-scape/"
-    ampWebUrl: "https://www.engadget.com/amp/2020/02/08/facebook-buys-computer-vision-startup-scape/"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/08/facebook-buys-computer-vision-startup-scape/"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 89
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D1600%252C1067%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-02%252F7a46c7b0-4a8b-11ea-bbbf-1c3d171afeaf%26client%3Da1acac3e1b3290917d92%26signature%3D2d974150179ef44b8290709e15088aefd3cda7fc&client=amp-blogside-v2&signature=f00fad49113cfed9099a2e85502dd4e6422c103b"
-        width: 600
-        height: 350
   - title: "Facebook Looks Beyond GPS, Ties With Startup That Uses AI Vision For Location"
     excerpt: "Facebook co-founder and CEO Mark Zuckerberg (File Photo). San Francisco: Facebook has acquired Scape Technologies — a London-based computer vision start-up working on location accuracy beyond the capabilities of GPS. Full terms of the deal remain as yet unknown, although a Companies House update reveals that Facebook Inc now has majority ..."
     publishedDateTime: 2020-02-09T12:49:00Z

@@ -85,6 +85,43 @@
       ]
     },
     {
+      "path": "_posts/2020-02-09-facebook-buys-start-up-that-uses-ai-vision-to-find-location.md",
+      "title": "Facebook buys start-up that uses AI vision to find location",
+      "excerpt": "Facebook has acquired Scape Technologies — a London-based computer vision start-up working on location accuracy beyond the capabilities of GPS. Full terms of the deal remain as yet unknown, although a Companies House update reveals that Facebook Inc now has majority control of the company (more than 75 per cent). “However by looking at ...",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.thestatesman.com/technology/facebook-buys-start-uses-ai-vision-find-location-1502854522.html",
+      "ampWebUrl": "https://www.thestatesman.com/technology/facebook-buys-start-uses-ai-vision-find-location-1502854522.html/amp",
+      "cdnAmpWebUrl": "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/technology/facebook-buys-start-uses-ai-vision-find-location-1502854522.html/amp",
+      "publishedDateTime": "2020-02-09T08:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Statesman",
+        "domain": "thestatesman.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.thestatesman.com/wp-content/uploads/2020/02/QT-facebook.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Facebook buys start-up that uses AI vision to find location",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_posts/2020-02-09-kuwait-launches-robotics-ai-festival.md",
       "title": "Kuwait launches Robotics, AI Festival",
       "excerpt": "Kuwait launched on Sunday the Robotics and Artificial Intelligence (AI) Festival to promote the scientific awareness in Kuwait. At the opening ceremony, Salam Al-Ablani, scientific culture director of the Kuwait Foundation for Advancement of Science (KFAS), said that the festival aims at boosting the scientific culture in smart industries and ...",
@@ -2084,52 +2121,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-10-top-5-companies-using-machine-learning-in-2020.md",
-      "title": "Top 5 companies using Machine Learning in 2020",
-      "excerpt": "Nowadays small startups are more innovative and dynamic than big companies and established in market leaders. Machine learning is trending and more effective technology so every industry are started to use this technology. It’s not same for all the cases since the making of advanced products and services is often very expensive, few companies ...",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/@sushmithagowda216/top-5-companies-using-machine-learning-in-2020-cb5558468da9",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-10T10:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/800/1*IVYvNXzk1XVr7XM9Hu9X-A.png",
-          "width": 800,
-          "height": 445,
-          "title": "Top 5 companies using Machine Learning in 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Finance"
       ]
     }
   ],

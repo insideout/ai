@@ -5,8 +5,8 @@ excerpt: "Tensorflow is an open-source framework for running machine learning al
 publishedDateTime: 2020-02-07T19:54:00Z
 webUrl: "https://medium.com/@shravan007.c/tensorflow-2-1-running-on-gpu-ubuntu-18-04-76b0c8b0a25d"
 type: article
-quality: 69
-heat: 69
+quality: 49
+heat: 49
 published: false
 
 provider:
@@ -21,12 +21,6 @@ topics:
   - AI
   - Google AI
 
-images:
-  - url: "https://miro.medium.com/max/1200/1*YGNSNxvpUFcztQzavQ7lBA.png"
-    width: 1200
-    height: 672
-    title: "Tensorflow 2.1 running on GPU-Ubuntu 18.04"
-
-secured: "c9ulQYrn8gT14dXtssrPyj0bYLMki5E3IktAlYoR5NO4wfOqEnKfeIbyDHZjfbxnbVURlsspeWMv7KKf+T7e8fe8n4lrv5ihJHs3/JsalsmpKI2UHmleqsBCF4FSREgkX3/jwUmB2cDJk6aFXfBwyGAdwN3HYvfWbBnvjUuhC5ZJ0exg4Ok48t5olgDm6YoVbDxVCrDWqLRNBMvF7vcqZAfdQnxFu+M7YOexyf9GyFoy0i7gtfUp4gbvciNj/kIgDzNs6pmxVyXo/g/lFHnttUPa49GtcUg5XBukGd/6j5Jn2W4YrmTqBJ2GSpdz1APn;vNm7NVmIUScGl+p4giBoLw=="
+secured: "feW3IYlHPRbECor2TD1gAEbmgFLfz8H6+hZ1223zLiLNGSqVXApa3I4KKnE8LBmTL/SVC18piUAJPumuNYK8qD+UyDkz1XiJKTe38VlNZo31kVjb3i19KsoPSWZ/+LqFChXFvJqUkumOdysHeUEdXTZdNC2uGJn5cjYJ3CnifFWZoNHVWosg350cLYnqjf63WaTcbpLSajEboOyDMNZz/AhDVuor2skRcDOIQsrRxfV/bxbdlB5S2EDFj81ZNJjBFnKPWIGUIoBgRptmdVe4Y/1Np3lvMrmQHfnPAuVAbcRUG0PESmy7NnhgIkXZb9Ky;5RCrAbssXdM64PyF7LT9Tw=="
 ---
 

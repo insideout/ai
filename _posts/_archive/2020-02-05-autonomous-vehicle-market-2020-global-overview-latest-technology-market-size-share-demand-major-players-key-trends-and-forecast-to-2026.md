@@ -5,7 +5,7 @@ excerpt: "Autonomous Vehicle Market by Level of Automation (Level 3, Level 4, an
 publishedDateTime: 2020-02-05T03:05:00Z
 webUrl: "https://www.marketwatch.com/press-release/autonomous-vehicle-market-2020-global-overview-latest-technology-market-size-share-demand-major-players-key-trends-and-forecast-to-2026-2020-02-04"
 type: article
-quality: 18
+quality: 0
 heat: -1
 published: false
 
@@ -21,12 +21,6 @@ topics:
   - AI
   - AI in Autos
 
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    title: "Autonomous Vehicle Market 2020: Global Overview, Latest Technology, Market Size, Share, Demand, Major Players, Key Trends, and Forecast to 2026"
-
 related:
   - title: "Image Recognition Market Insights By Size Growth, Industry Share, Leading Players and Regional Forecast by 2026"
     excerpt: "The global image recognition market was worth USD 20.19 billion in 2018 and will exhibit a CAGR of 19.6% during the forecast period, till 2026 The global image recognition market size is projected to reach USD 81."
@@ -36,12 +30,8 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 34
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+    quality: 14
 
-secured: "dKpdDa7WVl1J8wCpB1rkTajVNinoEpf3Umn7RmFcn5gRYz/17BAz4t+FyAQJ0jIUX5pnBMSJAMz/xmJUCllJnJqRcjcFxZUyD+O9T5bZJJjDn8xSd0h+5GZtiSqJyL3cqslVzWDUxc576yl/FH531H5w4Qfqkg2RSI5FH/Dx9JxugdMSsZn2z7HlbKnSaRVrP0bBzeZICYFSsUfDXEdDukJRo7zZPD9jMvaKAUA/Ss6/6dtwYT4nY81tur/hqRv7Doxgpu0JgsmCCOQmRGO8YtqHi5wklOUCOqQylsTAFDbAsSaAD5H5ScFdi3+Ryc+Q;cud9+zLaTloqaqnBmtHCoA=="
+secured: "rYSr/EqWXvU03vsYyDWhF0RPseBbo8NCPhQSfeCtmT4AP+sBU2LdDHL9+7M3Lil7QwYW5UTXdqTcrffXLFzOiZ8RQZScmsYGdrZqnjO7bIFCe7AZiwRCBAfAM77czqPuUbSlHreocSnXi4FhtdpTYm26Q9wc13ms01pGC+2XicUhRcWlkuAwSsEdgjeQfmjjRFfghiY5ZpbJLccJh2FEEtGND4gYE7JRouvG9zSmUozno28DkovZUT5+r/nNw6PMUTzFLcWdOWv/esvk0hej1TOwmn1X9vGcDgtCx4XFj625bEBzTJuCfA8FJVm+ngXx;gy8vetalgzuYzDnJ7VsuLw=="
 ---
 

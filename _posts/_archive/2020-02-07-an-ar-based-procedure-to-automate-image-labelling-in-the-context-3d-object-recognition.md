@@ -5,9 +5,9 @@ excerpt: "This article describes a procedure aimed to ease the toil of labelling
 publishedDateTime: 2020-02-07T19:48:00Z
 webUrl: "https://medium.com/@alfredo.rubio.arevalo/an-ar-based-procedure-to-automate-image-labelling-in-the-context-3d-object-recognition-a5129b55a755"
 type: article
-quality: 61
-heat: 71
-published: true
+quality: 41
+heat: 41
+published: false
 
 provider:
   name: Medium
@@ -21,12 +21,6 @@ topics:
   - AI
   - Computer Vision
 
-images:
-  - url: "https://miro.medium.com/max/778/1*m9yobYKqtSe9paXDczs5IA.png"
-    width: 778
-    height: 1600
-    title: "An AR based procedure to automate image labelling in the context 3D object recognition"
-
 related:
   - title: "Autonomous Object Recognition for Robots"
     excerpt: "Reliable object detection and recognition is a difficult task for robots to achieve and, therefore, still remains a challenge when real-world environments are considered. Curiosity, often seen in humans and its primates, drives learning activities."
@@ -38,6 +32,6 @@ related:
       domain: ulster.ac.uk
     quality: 19
 
-secured: "4SDZT6CniiXNhRmwvueQbpYDWX+hrAXvjGmnEOfUy12lgDO7rmhTXx/4bBDM+OSJ5Sq+G91NMhN++xwm6ygwwpjQyzgxySbRT/sU0pY0iku895mhJfkJCwXGsUo74eh+1gAvyN07yeTu5CzjrKP4n0gp4HUPsFDdDihAZj34DNHBfdk+61rlXOKQndPfZDEShO/M6mayqOG6t7t0rKDvCa25XxfVWNwWuQQLhQtQtX64E+LhjLe0U5QcCGy7MyGcrwzcNYfsnE4ypNizi95aP32kB445Kz0T6gyfZR1XiyDuJFfWcQ93pH8DHBASIUk2;fLPgxqa3ruKaQbOu02XeOw=="
+secured: "0iCPFkP+CNs3dvJ7JD3zDJntIb9wlojiRm/kWsFbzjB8C3ewVP6re+D2qvQ5mO9UPvRDvPzl9qIFbe6ldrobiHfTk7Qq3e/bWc5DRCy8T0VvRVhhb60caMVGS2J+XpGIdGzA4TQ+zAs+qAv6DDrbNVv06SssdjBQyepws7Ky1c0Bfoq+H3K+cG0EqImawmtZoAJwcKCrFH0L5TpPhiY5e4v0nAL6IR0mb9eTWQkUs17oGvNEWb0wA3BdjltD2JpgYdSydBAfdvvpwSxqnQQF3+RWKReTA2ZBGOgbXXNkqwz3mn9oyeN4FAJxvIpmg3lw;r5q4QxDznkNweTZj0aw5Og=="
 ---
 
