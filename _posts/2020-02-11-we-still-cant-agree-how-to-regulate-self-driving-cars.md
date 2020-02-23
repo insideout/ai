@@ -8,8 +8,8 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/2/11/21133389/house-energ
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/11/21133389/house-energy-commerce-self-driving-car-hearing-bill-2020"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 104
+published: true
 
 provider:
   name: The Verge
@@ -30,54 +30,47 @@ images:
     title: "We still can’t agree how to regulate self-driving cars"
 
 related:
-  - title: "US House panel will discuss self-driving cars next week"
-    excerpt: "Witnesses include officials from automotive, tech and transportation trade groups. On February 11th, a House panel will hold a hearing that could help shape the future of self-driving vehicles in the US. The Consumer Protection and Commerce Subcommittee ..."
-    publishedDateTime: 2020-02-08T06:41:00Z
-    webUrl: "https://www.engadget.com/2020/02/08/us-house-panel-self-driving-cars-hearing/"
-    ampWebUrl: "https://www.engadget.com/amp/2020/02/08/us-house-panel-self-driving-cars-hearing/"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/08/us-house-panel-self-driving-cars-hearing/"
+  - title: "How to build a morally ethical self-driving car"
+    excerpt: "Not too long ago, tech enthusiasts were telling us that by 2020, we’d see self-driving cars hit the mainstream, with some 10 million on the roads. That turned out to be a wild overestimation. The actual number of vehicles in testing is thousands of times smaller, and they’re still driving mostly in controlled conditions. Companies have also ..."
+    publishedDateTime: 2020-02-10T14:32:00Z
+    webUrl: "https://www.seattletimes.com/business/how-to-build-a-morally-ethical-self-driving-car/"
+    ampWebUrl: "https://www.seattletimes.com/business/how-to-build-a-morally-ethical-self-driving-car/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/how-to-build-a-morally-ethical-self-driving-car/?amp=1"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 74
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 44
     images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D3840%252C2160%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C900%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-02%252Fe8321670-4a05-11ea-bd5b-cd741edc3230%26client%3Da1acac3e1b3290917d92%26signature%3D6aee8e9932ff3d82e71bea7b1cb228158bfd2a07&client=amp-blogside-v2&signature=62165aa1622e9790a5b5bbd711a47ca73626cfb6"
-        width: 600
-        height: 350
-  - title: "House Hearing Revives Push for Self-Driving-Car Legislation"
-    excerpt: "House lawmakers held a hearing in an effort to revive legislation that would create clear federal safety guidelines and standards for autonomous vehicles and help companies bring the technology to market."
-    publishedDateTime: 2020-02-12T14:21:00Z
-    webUrl: "https://www.wsj.com/articles/house-hearing-revives-push-for-self-driving-car-legislation-11581503402"
+      - url: "https://static.seattletimes.com/wp-content/uploads/2020/02/02072020_Self-Driving-Car_122510-300x220.jpg"
+        width: 300
+        height: 220
+  - title: "Congress looks to revive self-driving car legislation"
+    excerpt: "Want access to the top energy and environment news? Sign up for a free trial! Enter your email to register or log in. By signing up, you agree to receive E&E News email updates and offers. You also grant your consent to our data collection practices. We encourage you to review our Privacy and Data Practices Policy."
+    publishedDateTime: 2020-02-12T12:19:00Z
+    webUrl: "https://www.eenews.net/eedaily/2020/02/12/stories/1062327793"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 54
-    images:
-      - url: "https://images.wsj.net/im-153483/social"
-        width: 1280
-        height: 640
-  - title: "Nuro Self-Driving Car's OK Sets Course For New Exemptions"
-    excerpt: "Law360 (February 11, 2020, 8:55 PM EST) -- Technology and automotive stakeholders are hailing the federal government's first-ever blessing of a self-driving vehicle that will deliver food and packages, but experts say passenger-carrying autonomous vehicles ..."
-    publishedDateTime: 2020-02-12T01:57:00Z
-    webUrl: "https://www.law360.com/articles/1242352/nuro-self-driving-car-s-ok-sets-course-for-new-exemptions"
-    ampWebUrl: "https://www.law360.com/amp/articles/1242352"
-    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1242352"
-    type: article
-    provider:
-      name: Law360
-      domain: law360.com
+      name: E&E
+      domain: eenews.net
     quality: 24
-  - title: "Can self-driving cars handle Canadian winters?"
-    excerpt: "University of Toronto professor Steven Waslander talks about a new study, which will be used to determine whether self-driving cars can handle the snow and ice from harsh Canadian winters. <iframe src=\"https://globalnews.ca/video/embed/6535979/\" width=\"670\" height=\"372\" frameborder=\"0\" allowfullscreen scrolling=\"no\"></iframe> <style>.gn-embed ..."
-    publishedDateTime: 2020-02-11T16:22:00Z
-    webUrl: "https://globalnews.ca/video/6535979/can-self-driving-cars-handle-canadian-winters"
+    images:
+      - url: "https://www.eenews.net/image_assets/2020/02/image_asset_74141.jpg"
+        width: 938
+        height: 483
+  - title: "How should self-driving cars decide who to kill? by Mark Buchanan"
+    excerpt: "Not too long ago, tech enthusiasts were telling us that by 2020, we’d see self-driving cars hit the mainstream, with some 10 million on the roads. That turned out to be a wild overestimation. The actual number of vehicles in testing is thousands of times smaller, and they’re still driving mostly in controlled conditions. Companies have also ..."
+    publishedDateTime: 2020-02-18T05:00:00Z
+    webUrl: "https://www.pressofatlanticcity.com/opinion/commentary/how-should-self-driving-cars-decide-who-to-kill-by/article_6c1dbac7-3a51-5e99-bc84-8066769cbe28.html"
     type: article
     provider:
-      name: Global News
-      domain: globalnews.ca
-    quality: 4
+      name: The Press of Atlantic City
+      domain: pressofatlanticcity.com
+    quality: 24
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/pressofatlanticcity.com/content/tncms/custom/image/bae1e730-3e34-11e6-9bc5-8f83ee7a0e54.jpg"
+        width: 1200
+        height: 630
 
 secured: "pn/Tq/3GZFe8Xv3ZA2tI4IwnBzoy+U9VcLHuZ5KSiILSDd75EDr1UglkqvhYdRcrKZ5wxx5cRg0YvZktbBpLtuqc7fb160j8x2h6tV/qPj1/UIzzTQrRGRJp1B5eRb7Sm3eDlzNhLpKyDMiy/vmuHCQjspx5e/ez2Pg03QEuaP3x0+MzZ7xNf5aLpWvYoCtRDylSYMAtB3SMVfEv0rXOwM/TTw2VUbjrcUEmQZPvIaA2y5Tbdeg3QnJFmTfFaddxGaUkAQIJbgDOmJB03kixoGQLDTx6fvPvQAefVGRvbKif+zlm9r4WSkcofuDG40vDcnWhhDIbFbtwAc3ZwVQGwMSzkk4JILdTHQpeKayifU6VutS3hx8u9dkdugjhuzjCoEf07f+n85giovm25UU8/tknw9/myIcZJaDr+vUMCuXGcbOajQFycwO9jx+42KgLwfUTQ4nzIWHw+WwNZbv/FaWc8gSyHsKG62qzoAZslIY=;KAHcK7mc5mywv9RnRHnENw=="
 ---

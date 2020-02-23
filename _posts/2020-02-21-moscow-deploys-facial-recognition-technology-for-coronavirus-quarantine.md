@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2020/02/21/moscow-deploys-facial-recognitio
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/02/21/moscow-deploys-facial-recognition-technology-for-coronavirus-quarantine.html"
 type: article
 quality: 189
-heat: 403
+heat: 399
 published: true
 
 provider:

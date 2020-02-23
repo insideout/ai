@@ -24,60 +24,73 @@ images:
     title: "How Artificial Intelligence Is Transforming Businesses"
 
 related:
-  - title: "How AI Is Tracking the Coronavirus Outbreak"
-    excerpt: "Alessandro Vespignani, a professor at Northeastern University who specializes in modeling contagion in large populations, says it will be particularly challenging to identify new instances of the coronavirus from social media posts, even using the most advanced AI tools, because its characteristics still aren’t entirely clear. “It’s ..."
-    publishedDateTime: 2020-02-08T07:00:00Z
-    webUrl: "https://www.wired.com/story/how-ai-tracking-coronavirus-outbreak/"
-    ampWebUrl: "https://www.wired.com/story/how-ai-tracking-coronavirus-outbreak/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/how-ai-tracking-coronavirus-outbreak/amp"
+  - title: "How AI is impacting the workplace"
+    excerpt: "The reason for this may be very straightforward: as impressive as it is (think self-driving cars or Google's DeepMind beating human Go champions) the technology just isn't capable of doing what humans can do. At least not yet. The Brookings Institute's January 2019 report, Automation and Artificial Intelligence: How Machines are Affecting ..."
+    publishedDateTime: 2020-02-18T16:55:00Z
+    webUrl: "https://www.techrepublic.com/article/how-ai-is-impacting-the-workplace/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/how-ai-is-impacting-the-workplace/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ai-is-impacting-the-workplace/"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 91
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 89
     images:
-      - url: "https://media.wired.com/photos/5e3dfca7e601630009b7e800/master/pass/Tracking-the-coronavirus-with-AI_1153872548.jpg"
-        width: 2400
-        height: 1350
-  - title: "AI Helps Diagnose Coronavirus"
-    excerpt: "Medical workers on the front lines of the coronavirus outbreak are under pressure to quickly diagnose people who are infected. Experts say medical-imaging equipment embedded with artificial intelligence is starting to aid them in their work."
-    publishedDateTime: 2020-02-14T11:36:00Z
-    webUrl: "https://www.wsj.com/articles/ai-helps-diagnose-coronavirus-11581676202"
+      - url: "https://tr2.cbsistatic.com/hub/i/r/2018/07/25/e8eedcaf-12c3-4a1e-bf5e-15e6fd477219/resize/1200x/64b60cf8e2906fc42ff960eec0c87377/robots-working-5.jpg"
+        width: 1200
+        height: 900
+  - title: "How Does The CCPA Impact Your AI?"
+    excerpt: "In the era of growing AI regulation, the CCPA sets a high bar for consumer protections for the coming AI-centric decade."
+    publishedDateTime: 2020-02-20T14:18:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/02/20/how-does-the-ccpa-impact-your-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/02/20/how-does-the-ccpa-impact-your-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/20/how-does-the-ccpa-impact-your-ai/amp/"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://images.wsj.net/im-154475/social"
-        width: 1280
-        height: 640
-  - title: "China Uses Data Tracking And Artificial Intelligence To Fight Coronavirus"
-    excerpt: "Authorities in China have turned to data tracking and artificial intelligence to help combat the spread of the new virus. Robots also deployed in hospitals. In an effort to help contain the spread of the deadly coronavirus which has infected more than 30,000 people and killed more than 600 people on the mainland, Chinese authorities have turned ..."
-    publishedDateTime: 2020-02-08T08:37:00Z
-    webUrl: "https://www.republicworld.com/world-news/rest-of-the-world-news/china-uses-data-tracking-and-ai-to-combat-new-virus.html"
+      - url: "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/916896044/960x0.jpg?fit=scale"
+        width: 711
+        height: 474
+  - title: "How Artificial Intelligence is Changing Content Marketing?"
+    excerpt: "In addition, some of our digital assistants are based on smartphones and some messenger bots are based on (simple) AI. Google expanded its algorithm with artificial intelligence at the end of 2015: Google RankBrain . Behind this is a system that gradually learns more about the semantics of user inquiries, and with this knowledge gets better and ..."
+    publishedDateTime: 2020-02-18T05:40:00Z
+    webUrl: "https://yourstory.com/mystory/artificial-intelligence-changing-content-marketing"
+    ampWebUrl: "https://yourstory.com/mystory/artificial-intelligence-changing-content-marketing/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/mystory/artificial-intelligence-changing-content-marketing/amp"
     type: article
     provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 38
+      name: Your Story
+      domain: yourstory.com
+    quality: 59
     images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/7s4xbfkmap9ztguf_1581145729.jpeg?tr=f-jpeg"
-        width: 1242
-        height: 708
-  - title: "Drug makers are using AI to help find an answer to the coronavirus"
-    excerpt: "Companies that use artificial intelligence to suss out molecules for potential drugs are among those looking for an answer to the coronavirus. On Tuesday, Benevolent AI published a letter in The Lancet, explaining how it found a drug that could be repurposed to fight the coronavirus using artificial intelligence. The most promising choice is a ..."
-    publishedDateTime: 2020-02-10T13:00:00Z
-    webUrl: "https://www.fastcompany.com/90461383/drug-makers-are-using-ai-to-help-find-an-answer-to-the-coronavirus?partner=feedburner"
+      - url: "https://images.yourstory.com/cs/users/b4d12160-b5c5-11e9-a9c8-dd066755f2ab/profile_image_1564819636222.jpg"
+        width: 512
+        height: 508
+  - title: "Five ways artificial intelligence changed the workplace in 2019"
+    excerpt: "2019 marks another year of rapid development in the world of artificial intelligence. But while there continues to be much debate over ... Stockholm-based tech firm Furhat Robotics, however, is working to reduce the impact of human bias on candidate screening – all with the help of the robotic interviewer Tengai. Unlike human recruiters ..."
+    publishedDateTime: 2020-02-14T10:45:00Z
+    webUrl: "https://www.hcamag.com/us/specialization/hr-technology/five-ways-artificial-intelligence-changed-the-workplace-in-2019/213721"
     type: article
     provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 37
+      name: hcamag.com
+      domain: hcamag.com
+    quality: 39
     images:
-      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/02/p-1-drug-makers-are-using-ai-to-help-find-an-answer-to-the-coronavirus-copy.jpg"
-        width: 1280
-        height: 720
+      - url: "https://cdn-res.keymedia.com/cms/images/us/036/0248_637172748247166840.jpg"
+        width: 1000
+        height: 600
+  - title: "How Niramai is using artificial intelligence to change the face of breast cancer detection"
+    excerpt: "Manjunath was working with a research group to create artificial intelligence (AI)-based solutions ranging from transportation to healthcare for customers. The group also had budget for innovation from emerging markets. A part of this research meant working with doctors and hospitals. It was during this time in her career that she would ..."
+    publishedDateTime: 2020-02-16T09:38:00Z
+    webUrl: "https://www.moneycontrol.com/news/business/how-niramai-is-using-artificial-intelligence-to-change-the-face-of-breast-cancer-detection-4937181.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 24
 
 secured: "rU8oUlcrut1X6ccfrYnz7ACE6LM7HNaXP/OucGmLtPy7yto0MwZXkDrpLJ9rLe6zhrs4suvZDpHzhH8mi5sW+RAQo5sZI+3FEYcYi/bWqI7XKRYYWwi+U4sGxYemeN73rp+448dZJoEJ9QiwQ0BLh6BXpKJirRufjicCrav7cJf43XcFAsLBLtIyd/Tf9y2yseO5BRa92VY+RB06mILAt/lRFYzVJBYyc1RmNoQMsGnBLz56f+fqnA5kK953A5vl4+sOthfBxjGBXkQnVwFNcjYOjGNwGKjtu71RYBhPzNU9Z/s+WfrWgog2E0o2PiJuKJi1+LFUn9VepiYcWBbUsRm1XMVkpLtlrIdsMJ9B0AnKcxrzDUlRdis3bHj2qWCBR2TWpJUWR5VvNbWtFz2rPqCb//BA8LrvzS7xKCdUy4ep4P0KuUp8gXxObX+1ty+YXop5WzrVDoSD2JYutrrZ5TrN4/Plx3P58VUweXmMMsA=;k+SqowJId2zLbRqf85Nj3w=="
 ---

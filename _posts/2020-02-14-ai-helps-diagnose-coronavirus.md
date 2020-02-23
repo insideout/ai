@@ -6,8 +6,8 @@ publishedDateTime: 2020-02-14T11:36:00Z
 webUrl: "https://www.wsj.com/articles/ai-helps-diagnose-coronavirus-11581676202"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 87
+published: true
 
 provider:
   name: Wall Street Journal
@@ -27,60 +27,28 @@ images:
     title: "AI Helps Diagnose Coronavirus"
 
 related:
-  - title: "How AI Is Tracking the Coronavirus Outbreak"
-    excerpt: "Alessandro Vespignani, a professor at Northeastern University who specializes in modeling contagion in large populations, says it will be particularly challenging to identify new instances of the coronavirus from social media posts, even using the most advanced AI tools, because its characteristics still aren’t entirely clear. “It’s ..."
-    publishedDateTime: 2020-02-08T07:00:00Z
-    webUrl: "https://www.wired.com/story/how-ai-tracking-coronavirus-outbreak/"
-    ampWebUrl: "https://www.wired.com/story/how-ai-tracking-coronavirus-outbreak/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/how-ai-tracking-coronavirus-outbreak/amp"
+  - title: "Artificial Intelligence Could Fight a Future Coronavirus"
+    excerpt: "Disease outbreaks like the coronavirus often unfold too quickly for scientists to find a cure. But in the future, artificial intelligence could help researchers do a better job. While it’s probably too late for the fledgling technology to play a major role in the current epidemic,"
+    publishedDateTime: 2020-02-21T05:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-02-21/artificial-intelligence-gears-up-to-fight-a-future-coronavirus"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-02-21/artificial-intelligence-gears-up-to-fight-a-future-coronavirus"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-02-21/artificial-intelligence-gears-up-to-fight-a-future-coronavirus"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 91
-    images:
-      - url: "https://media.wired.com/photos/5e3dfca7e601630009b7e800/master/pass/Tracking-the-coronavirus-with-AI_1153872548.jpg"
-        width: 2400
-        height: 1350
-  - title: "How Artificial Intelligence Is Transforming Businesses"
-    excerpt: "Essentially, AI is a term that is used to describe computer software that simulates human-like/human intelligence processes ... Deep learning relies on artificial neural networks to learn from data. It can be used to help with various different functions, including fraud detection and self-driving cars. In self-driving cars, deep learning ..."
-    publishedDateTime: 2020-02-11T17:21:00Z
-    webUrl: "https://www.propertywire.com/how-artificial-intelligence-is-transforming-businesses"
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 67
+  - title: "Artificial Intelligence Gears Up to Fight a Future Coronavirus"
+    excerpt: "Disease outbreaks like the coronavirus often unfold too quickly for scientists to find a cure. But in the future, artificial intelligence could help researchers do a better job. While it’s probably too late for the fledgling technology to play a major role in the current epidemic,"
+    publishedDateTime: 2020-02-21T05:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-02-21/artificial-intelligence-gears-up-to-fight-a-future-coronavirus"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-02-21/artificial-intelligence-gears-up-to-fight-a-future-coronavirus"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-02-21/artificial-intelligence-gears-up-to-fight-a-future-coronavirus"
     type: article
     provider:
-      name: PropertyWire
-      domain: propertywire.com
-    quality: 39
-    images:
-      - url: "https://www.propertywire.com/wp-content/uploads/2020/02/shutterstock_1384554629.jpg"
-        width: 900
-        height: 500
-  - title: "China Uses Data Tracking And Artificial Intelligence To Fight Coronavirus"
-    excerpt: "Authorities in China have turned to data tracking and artificial intelligence to help combat the spread of the new virus. Robots also deployed in hospitals. In an effort to help contain the spread of the deadly coronavirus which has infected more than 30,000 people and killed more than 600 people on the mainland, Chinese authorities have turned ..."
-    publishedDateTime: 2020-02-08T08:37:00Z
-    webUrl: "https://www.republicworld.com/world-news/rest-of-the-world-news/china-uses-data-tracking-and-ai-to-combat-new-virus.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 38
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/7s4xbfkmap9ztguf_1581145729.jpeg?tr=f-jpeg"
-        width: 1242
-        height: 708
-  - title: "Drug makers are using AI to help find an answer to the coronavirus"
-    excerpt: "Companies that use artificial intelligence to suss out molecules for potential drugs are among those looking for an answer to the coronavirus. On Tuesday, Benevolent AI published a letter in The Lancet, explaining how it found a drug that could be repurposed to fight the coronavirus using artificial intelligence. The most promising choice is a ..."
-    publishedDateTime: 2020-02-10T13:00:00Z
-    webUrl: "https://www.fastcompany.com/90461383/drug-makers-are-using-ai-to-help-find-an-answer-to-the-coronavirus?partner=feedburner"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 37
-    images:
-      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/02/p-1-drug-makers-are-using-ai-to-help-find-an-answer-to-the-coronavirus-copy.jpg"
-        width: 1280
-        height: 720
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 67
 
 secured: "PcVs1Qon3MALTmwU7PDHIGXyFD8Ylo3ilxDiwP5zs+Snt0Kosdp1af9nwXBbljIovO+iwoOhw6uQA+/EkCCwCHY18bP9Q166WSmLRV/Ggp82rL3i3h8zYCzUyugTGYuL3/dXBcxiCVU9UKM4/RUNZ2MNaX7e3j3r2PnJSRaW+/mGNPq6gc8Cj3fdk/eosGic9FfstuxDU/OIIGs3BDhAq5hATBYuuMmZ0mM+U2Oh7fo6KwAR6q8k9a9QVIYGMYEfEhgHaaglc+fOvz4D/yK1IuIRyjmHzHt/112SmNPRbtvbtn7VPLo6byhI/tWzRMZx20ZqP/uN487ZaLIQUj6som+XyjyzZlInB1HUffZXdpeWqasoKDlrR/Vty+NfsTMm4HNGLHhUmd7Yvwr/8w2MAU0STiq+b/nQAeDblsJftodJKJnIA2Q1f0DoMFMBY9/q1D1kwRBng8F6jGRwUAEW40I8QMpC328neZfAQGPw29g=;k7Sb8Te66WYp4Rv5QGJZUA=="
 ---

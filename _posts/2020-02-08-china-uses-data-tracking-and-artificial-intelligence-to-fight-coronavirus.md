@@ -24,60 +24,69 @@ images:
     title: "China Uses Data Tracking And Artificial Intelligence To Fight Coronavirus"
 
 related:
-  - title: "How AI Is Tracking the Coronavirus Outbreak"
-    excerpt: "Alessandro Vespignani, a professor at Northeastern University who specializes in modeling contagion in large populations, says it will be particularly challenging to identify new instances of the coronavirus from social media posts, even using the most advanced AI tools, because its characteristics still aren’t entirely clear. “It’s ..."
-    publishedDateTime: 2020-02-08T07:00:00Z
-    webUrl: "https://www.wired.com/story/how-ai-tracking-coronavirus-outbreak/"
-    ampWebUrl: "https://www.wired.com/story/how-ai-tracking-coronavirus-outbreak/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/how-ai-tracking-coronavirus-outbreak/amp"
+  - title: "China tech giants chip in to combat coronavirus, global events impacted"
+    excerpt: "Meanwhile, Alibaba's rival JD.com on Monday said its smart assistant platform, powered by artificial intelligence (AI), had been integrated with the WeChat account of the Wuhan Mayor's Office. The messaging app, which provides updated information and services related to the coronavirus, taps the AI capabilities--including semantic ..."
+    publishedDateTime: 2020-02-11T08:04:00Z
+    webUrl: "https://www.zdnet.com/article/china-tech-giants-chip-in-to-combat-coronavirus-global-shows-impacted/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/china-tech-giants-chip-in-to-combat-coronavirus-global-shows-impacted/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/china-tech-giants-chip-in-to-combat-coronavirus-global-shows-impacted/"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 91
+      name: ZDNet
+      domain: zdnet.com
+    quality: 89
     images:
-      - url: "https://media.wired.com/photos/5e3dfca7e601630009b7e800/master/pass/Tracking-the-coronavirus-with-AI_1153872548.jpg"
-        width: 2400
-        height: 1350
-  - title: "AI Helps Diagnose Coronavirus"
-    excerpt: "Medical workers on the front lines of the coronavirus outbreak are under pressure to quickly diagnose people who are infected. Experts say medical-imaging equipment embedded with artificial intelligence is starting to aid them in their work."
-    publishedDateTime: 2020-02-14T11:36:00Z
-    webUrl: "https://www.wsj.com/articles/ai-helps-diagnose-coronavirus-11581676202"
+      - url: "https://zdnet3.cbsistatic.com/hub/i/r/2014/10/04/d918c155-4bf8-11e4-b6a0-d4ae52e95e57/thumbnail/1200x675/8160da71d46f35e6b7f8af8058103971/ftc-thumb.jpeg"
+        width: 1200
+        height: 675
+  - title: "China turns to artificial intelligence, data in fight against coronavirus"
+    excerpt: "As Chinese authorities race to contain the spread of a new virus, which has infected more than 34,000 people and killed more than 700 in China, Beijing is turning to a familiar set of tools to find and prevent potential infections: data tracking and artificial intelligence. Several Chinese tech firms have developed apps to help people check if ..."
+    publishedDateTime: 2020-02-08T12:05:00Z
+    webUrl: "https://www.newindianexpress.com/world/2020/feb/08/china-turns-to-artificial-intelligence-data-in-fight-against-coronavirus-2100807.html"
+    ampWebUrl: "https://www.newindianexpress.com/world/2020/feb/08/china-turns-to-artificial-intelligence-data-in-fight-against-coronavirus-2100807.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/world/2020/feb/08/china-turns-to-artificial-intelligence-data-in-fight-against-coronavirus-2100807.amp"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 71
     images:
-      - url: "https://images.wsj.net/im-154475/social"
-        width: 1280
-        height: 640
-  - title: "How Artificial Intelligence Is Transforming Businesses"
-    excerpt: "Essentially, AI is a term that is used to describe computer software that simulates human-like/human intelligence processes ... Deep learning relies on artificial neural networks to learn from data. It can be used to help with various different functions, including fraud detection and self-driving cars. In self-driving cars, deep learning ..."
-    publishedDateTime: 2020-02-11T17:21:00Z
-    webUrl: "https://www.propertywire.com/how-artificial-intelligence-is-transforming-businesses"
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2019/12/25/w600X390/declare_AI.jpg"
+        width: 600
+        height: 390
+  - title: "China tech giants chip in to combat coronavirus, global shows impacted"
+    excerpt: "Meanwhile, Alibaba's rival JD.com on Monday said its smart assistant platform, powered by artificial intelligence (AI), had been integrated with the WeChat account of the Wuhan Mayor's Office. The messaging app, which provides updated information and services related to the coronavirus, taps the AI capabilities--including semantic ..."
+    publishedDateTime: 2020-02-11T08:04:00Z
+    webUrl: "https://www.zdnet.com/article/china-tech-giants-chip-in-to-combat-coronavirus-global-shows-impacted/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/china-tech-giants-chip-in-to-combat-coronavirus-global-shows-impacted/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/china-tech-giants-chip-in-to-combat-coronavirus-global-shows-impacted/"
     type: article
     provider:
-      name: PropertyWire
-      domain: propertywire.com
-    quality: 39
-    images:
-      - url: "https://www.propertywire.com/wp-content/uploads/2020/02/shutterstock_1384554629.jpg"
-        width: 900
-        height: 500
-  - title: "Drug makers are using AI to help find an answer to the coronavirus"
-    excerpt: "Companies that use artificial intelligence to suss out molecules for potential drugs are among those looking for an answer to the coronavirus. On Tuesday, Benevolent AI published a letter in The Lancet, explaining how it found a drug that could be repurposed to fight the coronavirus using artificial intelligence. The most promising choice is a ..."
-    publishedDateTime: 2020-02-10T13:00:00Z
-    webUrl: "https://www.fastcompany.com/90461383/drug-makers-are-using-ai-to-help-find-an-answer-to-the-coronavirus?partner=feedburner"
+      name: ZDNet
+      domain: zdnet.com
+    quality: 69
+  - title: "Robotics companies providing technology to fight coronavirus in China"
+    excerpt: "She added that, as a result of the success of robots in helping against the coronavirus, China is likely to use more artificial intelligence and robotics in medical care. “It is set to be more common in the future,” she said. Coronavirus has spread across China and beyond, having started in Wuhan province, geographically central in the country."
+    publishedDateTime: 2020-02-12T14:30:00Z
+    webUrl: "https://roboticsandautomationnews.com/2020/02/12/robotics-companies-providing-technology-to-fight-coronavirus-in-china/29921/"
     type: article
     provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 37
+      name: Robotics & Automation News
+      domain: roboticsandautomationnews.com
+    quality: 54
     images:
-      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/02/p-1-drug-makers-are-using-ai-to-help-find-an-answer-to-the-coronavirus-copy.jpg"
-        width: 1280
-        height: 720
+      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2020/02/ubtech-robot-in-china.png"
+        width: 1015
+        height: 972
+  - title: "Coronavirus | China turns to Artificial Intelligence, big data"
+    excerpt: "data tracking and artificial intelligence. Several Chinese tech firms have developed apps to help people check if they have taken the same flight or train as confirmed virus patients, scraping data from lists published by state media. In Guangzhou, southern Guangdong province, robots at one public plaza have even been deployed to scold passers ..."
+    publishedDateTime: 2020-02-08T16:45:00Z
+    webUrl: "https://www.thehindu.com/news/international/coronavirus-china-turns-to-artificial-intelligence-big-data/article30771991.ece"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 19
 
 secured: "mXzsJQhoPNlKvlwGi6qoblQXpkkABN+/ZY6jKDS8+/ZLUFdbri8tSbc9GNECZpOvI/wPKNcmqZzPwTEnhqezpuw9mOxtHafNVvAmIzHIs9F5UX5pmrj86GFkPq9pUvWbGvowwFwK+VPgUM/MsWFcmWL08JljfCDRGdVMKtInlh5pzrSJdYi8QFCjOiqG1NnU2rSRj65PE/1aBuuID9clMuWLZnJakC7Y5AoW3oA05QBBNMB1lgd9aeljrxylhQWvpwIFxOFKf34+5MXyPYWsvQgfbyvlTRXsBMG0FpqkV4jOCn4lxxsOFgn8tyx2mU30is2IdkNZbBuKbo2q+GN1yQBlz/lxPepIZQzNN5X4n4FQhN0bn8lLLa+C75J5dQH1uysKq2awc69f8WwxZEYgW6AzJ0SDskLUMPNQENJcfsySCwR5VoJAD0uSo2Bg14i8X0e38J0V2E0pGCgzWyfN9gyV4ut+Isk6V+YqRACgBQs=;mQuR2RWaG+HAeuR9XAn9dA=="
 ---

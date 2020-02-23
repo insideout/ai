@@ -56,6 +56,30 @@ related:
       - url: "https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif?v=1524171804"
         width: 1200
         height: 630
+  - title: "House Hearing Revives Push for Self-Driving-Car Legislation"
+    excerpt: "House lawmakers held a hearing in an effort to revive legislation that would create clear federal safety guidelines and standards for autonomous vehicles and help companies bring the technology to market."
+    publishedDateTime: 2020-02-12T14:21:00Z
+    webUrl: "https://www.wsj.com/articles/house-hearing-revives-push-for-self-driving-car-legislation-11581503402"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 54
+    images:
+      - url: "https://images.wsj.net/im-153483/social"
+        width: 1280
+        height: 640
+  - title: "U.S. lawmakers to hear calls for requiring new safeguards for self-driving cars"
+    excerpt: "A U.S. House panel on Tuesday will hear calls for requiring new safeguards as part of any effort to speed the adoption of self-driving cars on U.S. roads. At the same hearing, groups representing automakers and tech companies will tout benefits of autonomous vehicles and warn the United States risks falling behind China and others without new legal backing."
+    publishedDateTime: 2020-02-11T10:10:00Z
+    webUrl: "https://www.reuters.com/article/us-autos-autonomous-congress-idUSKBN20513F"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN20513F"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN20513F"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 50
   - title: "US lawmakers, trial lawyers clash over self-driving rules"
     excerpt: "US lawmakers, trial lawyers clash over self-driving rules Trial lawyers objected to a lack of protections in a 2018 Senate bill that would ensure the right to sue carmakers after autonomous-vehicle crashes Check out this story on detroitnews.com ..."
     publishedDateTime: 2020-02-11T22:55:00Z
@@ -97,6 +121,26 @@ related:
       - url: "https://i.cbc.ca/1.5459338.1581429585!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/autonomoose.JPG"
         width: 620
         height: 349
+  - title: "Nuro Self-Driving Car's OK Sets Course For New Exemptions"
+    excerpt: "Law360 (February 11, 2020, 8:55 PM EST) -- Technology and automotive stakeholders are hailing the federal government's first-ever blessing of a self-driving vehicle that will deliver food and packages, but experts say passenger-carrying autonomous vehicles ..."
+    publishedDateTime: 2020-02-12T01:57:00Z
+    webUrl: "https://www.law360.com/articles/1242352/nuro-self-driving-car-s-ok-sets-course-for-new-exemptions"
+    ampWebUrl: "https://www.law360.com/amp/articles/1242352"
+    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1242352"
+    type: article
+    provider:
+      name: Law360
+      domain: law360.com
+    quality: 24
+  - title: "Can self-driving cars handle Canadian winters?"
+    excerpt: "University of Toronto professor Steven Waslander talks about a new study, which will be used to determine whether self-driving cars can handle the snow and ice from harsh Canadian winters. <iframe src=\"https://globalnews.ca/video/embed/6535979/\" width=\"670\" height=\"372\" frameborder=\"0\" allowfullscreen scrolling=\"no\"></iframe> <style>.gn-embed ..."
+    publishedDateTime: 2020-02-11T16:22:00Z
+    webUrl: "https://globalnews.ca/video/6535979/can-self-driving-cars-handle-canadian-winters"
+    type: article
+    provider:
+      name: Global News
+      domain: globalnews.ca
+    quality: 4
 
 secured: "Z9O4PKTeujKC/8pgYDq7TAbfSON9r4cKFks4sUwhJmh1KI1I6oOPuVNU2aSiNkemiAv5uWqF4E332xvoCHuzhoefxq//hnVM6qiRb8+EaebjTQsTJfKeHAh+Xl9mqXaeAulXFX0QOjlARO4cFkwLogM66wsqG67mQLNEPwPnsgLXiwQRsIgevd0ontTJlnQeexNtcPFTfTJ2SkGxYvG+8AHXxm0Ujcw1KdKEHZT99EElHMR9iR5GcJNlLnNvbAUwhdMzAKgYVEuCfKh6Y0qSiARN4O9rcVtnZU90PBUkJPHwrS5GlwGIHZAiQpYxrlfld0v2pm2J3fjKzLWjHAhoJk8EZsfxWQ6KeU2tuTRPDQv6/a1H0u2KuqEottLTy1Rlbq2JJFCX30g8S+TmWk9iyY6tMQsqATM1JUsgvFaqwZbS3RhwPy0/M5uYFlm5uC+5ddZaluQSWzxWHCB0BisG+VBYulK+7cJv5oGdZ8yijYc=;EaQLraLt9ZZrueVpoMZWeA=="
 ---

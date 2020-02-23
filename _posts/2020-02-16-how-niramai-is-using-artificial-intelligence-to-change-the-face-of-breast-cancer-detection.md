@@ -63,6 +63,19 @@ related:
       - url: "https://images.yourstory.com/cs/users/b4d12160-b5c5-11e9-a9c8-dd066755f2ab/profile_image_1564819636222.jpg"
         width: 512
         height: 508
+  - title: "How Artificial Intelligence Is Transforming Businesses"
+    excerpt: "Essentially, AI is a term that is used to describe computer software that simulates human-like/human intelligence processes ... Deep learning relies on artificial neural networks to learn from data. It can be used to help with various different functions, including fraud detection and self-driving cars. In self-driving cars, deep learning ..."
+    publishedDateTime: 2020-02-11T17:21:00Z
+    webUrl: "https://www.propertywire.com/how-artificial-intelligence-is-transforming-businesses"
+    type: article
+    provider:
+      name: PropertyWire
+      domain: propertywire.com
+    quality: 39
+    images:
+      - url: "https://www.propertywire.com/wp-content/uploads/2020/02/shutterstock_1384554629.jpg"
+        width: 900
+        height: 500
   - title: "Five ways artificial intelligence changed the workplace in 2019"
     excerpt: "2019 marks another year of rapid development in the world of artificial intelligence. But while there continues to be much debate over ... Stockholm-based tech firm Furhat Robotics, however, is working to reduce the impact of human bias on candidate screening – all with the help of the robotic interviewer Tengai. Unlike human recruiters ..."
     publishedDateTime: 2020-02-14T10:45:00Z

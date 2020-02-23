@@ -24,34 +24,49 @@ images:
     title: "How should self-driving cars decide who to kill? by Mark Buchanan"
 
 related:
-  - title: "Self-driving electric powered vehicle that changes COLOUR could be on the roads by 2050"
-    excerpt: "But this appears set o change with the implementation of self-driving tech from firms such as Tesla and Waymo, and legislation stating diesel and petrol cars will be obsolete in the next 15 years. And it appears that by 2050, the transport industry will ..."
-    publishedDateTime: 2020-02-17T14:50:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8012769/Self-driving-electric-powered-vehicle-changes-COLOUR-roads-2050.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8012769/amp/Self-driving-electric-powered-vehicle-changes-COLOUR-roads-2050.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8012769/amp/Self-driving-electric-powered-vehicle-changes-COLOUR-roads-2050.html"
+  - title: "We still can’t agree how to regulate self-driving cars"
+    excerpt: "A quick recap in case you forgot: the Republican-controlled House of Representatives unanimously passed the SELF DRIVE Act in 2017, which would speed the adoption of self-driving cars and bar states from setting performance standards. But a complementary bill in the Senate, AV START, failed to pass after Democrats raised objections that it didn ..."
+    publishedDateTime: 2020-02-11T21:19:00Z
+    webUrl: "https://www.theverge.com/2020/2/11/21133389/house-energy-commerce-self-driving-car-hearing-bill-2020"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/2/11/21133389/house-energy-commerce-self-driving-car-hearing-bill-2020"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/11/21133389/house-energy-commerce-self-driving-car-hearing-bill-2020"
     type: article
     provider:
-      name: Mail Online
-      domain: dailymail.co.uk
-    quality: 36
+      name: The Verge
+      domain: theverge.com
+    quality: 74
     images:
-      - url: "https://i.dailymail.co.uk/1s/2020/02/17/14/24841066-0-image-a-6_1581950107383.jpg"
-        width: 636
-        height: 382
-  - title: "Self-driving vehicle law hits a speed bump"
-    excerpt: "The big picture: Manufacturers and tech companies want federal rules of the road for their roll-out of self-driving vehicles. But trial lawyers, a powerful lobby, want key questions on liability in a driverless world answered before legislation advances. Driving the news: Daniel Hinkle, an attorney with the American Association for Justice ..."
-    publishedDateTime: 2020-02-11T11:08:00Z
-    webUrl: "https://www.axios.com/self-driving-vehicle-law-hits-a-speed-bump-875152c5-3455-42f7-831a-a563b72256ac.html"
+      - url: "https://cdn.vox-cdn.com/thumbor/10T-kTZJK2tlblwYeUppcBLmegw=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66295443/vpavic_191202_3827_0024.0.jpg"
+        width: 1400
+        height: 933
+  - title: "How to build a morally ethical self-driving car"
+    excerpt: "Not too long ago, tech enthusiasts were telling us that by 2020, we’d see self-driving cars hit the mainstream, with some 10 million on the roads. That turned out to be a wild overestimation. The actual number of vehicles in testing is thousands of times smaller, and they’re still driving mostly in controlled conditions. Companies have also ..."
+    publishedDateTime: 2020-02-10T14:32:00Z
+    webUrl: "https://www.seattletimes.com/business/how-to-build-a-morally-ethical-self-driving-car/"
+    ampWebUrl: "https://www.seattletimes.com/business/how-to-build-a-morally-ethical-self-driving-car/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/how-to-build-a-morally-ethical-self-driving-car/?amp=1"
     type: article
     provider:
-      name: Axios
-      domain: axios.com
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 44
+    images:
+      - url: "https://static.seattletimes.com/wp-content/uploads/2020/02/02072020_Self-Driving-Car_122510-300x220.jpg"
+        width: 300
+        height: 220
+  - title: "Congress looks to revive self-driving car legislation"
+    excerpt: "Want access to the top energy and environment news? Sign up for a free trial! Enter your email to register or log in. By signing up, you agree to receive E&E News email updates and offers. You also grant your consent to our data collection practices. We encourage you to review our Privacy and Data Practices Policy."
+    publishedDateTime: 2020-02-12T12:19:00Z
+    webUrl: "https://www.eenews.net/eedaily/2020/02/12/stories/1062327793"
+    type: article
+    provider:
+      name: E&E
+      domain: eenews.net
     quality: 24
     images:
-      - url: "https://images.axios.com/WAaKWDWilhZmV1aIrsnfnqOj4JQ=/2020/02/10/1581362650395.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://www.eenews.net/image_assets/2020/02/image_asset_74141.jpg"
+        width: 938
+        height: 483
 
 secured: "7injR4GfcXxMreJo1t+fcZwlueQqr3bc5KLVEsR7Yom6zOOsyGeJkmVsWTKFHelt+2KnYe7ZOj1S3MB5E7tGmKuHoVshUFKKPsutVv/p8iZCawoSyYeC5MZ4/DLoZ7lm5Na+GXDECPgUJVX94fHf6xXniDoRh5Z6U3bsyFRfPiJbkfacCVdYS6enCWnRRdoD2uuLR5LUKWgsZHXa5VkI4WIvs9PLh5HRbZWr4//F+JOHZBxBiPJjYuV6vaxvS4hNuoI1niRPq8QyZ9C67ijDKUxnUMewfGcCkS4SEcNELZ713TIO5KwX9LzEmlQrtWOX;bzIgVENAj9V2IalOZWi2Cg=="
 ---
