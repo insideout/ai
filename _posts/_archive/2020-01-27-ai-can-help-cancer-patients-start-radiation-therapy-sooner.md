@@ -53,6 +53,6 @@ related:
       domain: medicalxpress.com
     quality: 54
 
-secured: "4wFAk2c/3F2T/HXdYWctUqS6ipOSUdAIZsaqd6JR6b5OFWYGsFIB5Qo8NiY662KpVdjNkSMXExn2s+PIzqPkMpoN25Rc7Fm4q+2oMniZPnZydciDciWVvdKFn5rn/dy4/Ugik8k6tyXFmZkCGXYy0U5UIfkwQRbAVhl4y6UM5EEyx+SSm0g1w7of5OJZMT5RIgfif2MuIOYH96dUeSmStPdvJdkImyqO/Qczj/OI+D6Vm9wBBByWNe9I+t0xYViLnrU4e/X0QrgyH/7Voq6sG7bMbqkOe9MqiDguuouzra2G0p71PbDD+4SUsCKpT2tj;Mq44BLgU0EwMR7BJcKipgQ=="
+secured: "+tQjND2fZK9vB18M15el0NTHLEh0qR8/lXGjAtiEoVW02lmwDee8+C0pKMuI/ikHeMDyqYIMlClT1QhqaSmU3DAIYNFAUa8IMxwy6AMEUyB0Z/yNeb2LzryN8Kk8BlTWNAtEHtX9s59nsGIRBoDIvv3iOHx82s/4dscQER/4mmXij2HnTMAivHFQWBW4Oq+9e77oasAjW+mPgnbln1npNaLXMTGGvcPdmaj9IZ+44DAdkh/x+5Q3ajw2tkCdv0HJfv7+HFBI9F6xABgq10hyrjb3ixlVwXrFBxYkBxb2JbJwvykrumoEDMaxzRE3l017;kgfm+95/7Ba5dfgF4w9KAg=="
 ---
 

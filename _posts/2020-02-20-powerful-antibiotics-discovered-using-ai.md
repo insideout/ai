@@ -3,7 +3,7 @@ category: news
 title: "Powerful antibiotics discovered using AI"
 excerpt: "The researchers say the antibiotic, called halicin, is the first discovered with artificial intelligence (AI). Although AI has been used to aid parts of the antibiotic-discovery process before, they say that this is the first time it has identified completely new kinds of antibiotic from scratch, without using any previous human assumptions."
 publishedDateTime: 2020-02-20T18:54:00Z
-webUrl: "https://www.nature.com/articles/d41586-020-00018-3?sf230461118=1"
+webUrl: "https://www.nature.com/articles/d41586-020-00018-3?sf230461128=1"
 type: article
 quality: 37
 heat: -1
@@ -175,6 +175,6 @@ related:
       domain: psychologytoday.com
     quality: 37
 
-secured: "iMTHZnE5UKIFWp3Lwq9sEOxh++INe7RRCo7Qgxlcn6dJ2s1azRZlhAEQOLYwDBRQpirG+z9hcle//ae6+6fHggqSrgwcH0oQer9ZHEauT9CIsMhrIPjHUPWr990OHtR8gbX4jWl+r4vhGLPpqcD5Vypc0QJdlSLXh2JI5frWwk8SGhqgfwRVmETUxAgWgrtu4G8+YSFUyUTdbW6Z7W/Qx2H0EYbgLtQoVbtn8/etI9PH7TOZZIhurRu+vYdTSpZ4IsNFVTWQ/HluWNH5977k0Utj+T2fmHiRUSPl4LkgYJWP2QVtN8lbWhWw83Z5hsKvkrtPPDZQ0nQgWxv1dInbbcElPNeBkN9v+9MRNr4uhQ9wAnp/A392D8JRa2h8xsatMM105FwE1aRSgyT5iShtOJ08ELnvocYnyQOQQv1PW7/+v6xy9tAIkS1CKOZwN1OFsOFH3Z94PsWVjt5DtEnsDlznZwQHzavbd6rRwTzQwWk=;SE3Q640dn8SmY44ZD47uLg=="
+secured: "lNAoh0sYxQIc5NfdiOAcmee58zSJiJ83eZ+Ny+CoIM35S/QbD0/JbY4v7kOZ0wjWL9DBGQs2SmmVK6z608nY+L5kTn9zO+RVErBbyViiGHmsak9VJ6fqMEI0FBDPm3nGSMeADkLf+3s+D/PNVMVaf0GA64OUlq1zLNa3663i9hd4CIFlQQdT8OmPPBfV8mg4KAnQ+JUuW+9dswlf04bOgj/OIOiCBAJ/0/eU7/U5TTsgYM8da+cqskFlsfcD8APL9kXU4a0N22eluxrir9bYvyLZOA3HMGnTlp2xGg+Pi6qhzGz+U25RTLdPFkelAAwr;vRlMXgoacMepPy4H33SyRA=="
 ---
 

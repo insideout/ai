@@ -50,6 +50,17 @@ related:
       - url: "https://mms.businesswire.com/media/20200219005066/en/774196/23/AIQ_Logo.jpg"
         width: 1200
         height: 627
+  - title: "Yseop Announces Augmented Analyst, the Next-Generation AI NLG Platform Featuring ..."
+    excerpt: "Yseop, the world-leading AI software company and pioneer in Natural Language Generation (NLG), today announced the launch of Augmented ... scaling from single use case applications to enterprise-wide deployments could translate into billions in savings for the financial and pharmaceutical industries. Developed with high levels of user-adoption ..."
+    publishedDateTime: 2020-02-14T09:00:00Z
+    webUrl: "https://theprovince.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/yseop-announces-augmented-analyst-the-next-generation-ai-nlg-platform-featuring-the-most-advanced-intelligent-automation-solution-for-streamlined-regulatory-compliance-reporting/wcm/562a1186-0e94-4be1-ae5c-b57c9948a9c4"
+    ampWebUrl: "https://theprovince.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/yseop-announces-augmented-analyst-the-next-generation-ai-nlg-platform-featuring-the-most-advanced-intelligent-automation-solution-for-streamlined-regulatory-compliance-reporting/wcm/562a1186-0e94-4be1-ae5c-b57c9948a9c4/amp"
+    cdnAmpWebUrl: "https://theprovince-com.cdn.ampproject.org/c/s/theprovince.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/yseop-announces-augmented-analyst-the-next-generation-ai-nlg-platform-featuring-the-most-advanced-intelligent-automation-solution-for-streamlined-regulatory-compliance-reporting/wcm/562a1186-0e94-4be1-ae5c-b57c9948a9c4/amp"
+    type: article
+    provider:
+      name: The Province
+      domain: theprovince.com
+    quality: 32
   - title: "Utilizing Artificial Intelligence to Synchronize Stroke Care Impacts Workflow and Hospitalization"
     excerpt: "SAN FRANCISCO & TEL AVIV, Israel--(BUSINESS WIRE)--Viz.ai, Inc. the leading applied artificial intelligence healthcare company, is excited to highlight real-world data from Dr. Ameer Hassan’s presentation “Early Experience Utilizing Artificial Intelligence Shows Significant Reduction in Transfer Times and Length of Stay in a Hub and Spoke ..."
     publishedDateTime: 2020-02-20T14:28:00Z

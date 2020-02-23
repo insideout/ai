@@ -20,21 +20,54 @@ topics:
   - Natural Language Processing
 
 related:
-  - title: "The Next AI Platform: 2020 Edition"
-    excerpt: "Fernanda brings a strong accelerated high performance computing systems view to the table along with extensive large-scale workload perspectives that blend AI and traditional modeling and simulation. She is a currently GPU Developer Advocate for Bioinformatics at NVIDIA. She was previously in the HPC User Assistance Group as an HPC Programmer ..."
-    publishedDateTime: 2020-02-08T22:26:00Z
-    webUrl: "https://www.nextplatform.com/2020/02/08/the-next-ai-platform-2020-edition-march-10-san-jose/"
-    ampWebUrl: "https://www.nextplatform.com/2020/02/08/the-next-ai-platform-2020-edition-march-10-san-jose/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/02/08/the-next-ai-platform-2020-edition-march-10-san-jose/amp/"
+  - title: "Viz.ai Adds Next Generation Functionality to Artificial Intelligence Stroke Platform"
+    excerpt: "SAN FRANCISCO--(BUSINESS WIRE)--Viz.ai, the leader in applied artificial intelligence in healthcare, today launched the next generation of its synchronized care platform for stroke. Viz.ai incorporates cutting edge artificial intelligence with HIPAA-compliant communication to allow stroke teams to quickly and efficiently triage patients to time ..."
+    publishedDateTime: 2020-02-19T20:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200219005851/en/"
     type: article
     provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 61
+      name: Business Wire
+      domain: businesswire.com
+    quality: 47
     images:
-      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2019/03/NextAIPlatformPresoLogo.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://mms.businesswire.com/media/20200219005851/en/774458/23/Viz.ai_Logo_Blue_Horizontal.jpg"
+        width: 1200
+        height: 627
+  - title: "Signal AI Introduces the Next Generation of Artificial Intelligence With the Launch of AIQ"
+    excerpt: "LONDON--(BUSINESS WIRE)--Today, Signal AI, one of the leading companies transforming how business leaders make sense of the world’s information, has announced the launch of AIQ, the next generation of AI technology powering their media monitoring and market intelligence platform. AIQ enhances the proprietary artificial intelligence ..."
+    publishedDateTime: 2020-02-19T08:29:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200219005066/en/Signal-AI-Introduces-Generation-Artificial-Intelligence-Launch"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 42
+    images:
+      - url: "https://mms.businesswire.com/media/20200219005066/en/774196/23/AIQ_Logo.jpg"
+        width: 1200
+        height: 627
+  - title: "Viz.ai Showcasing Artificial Intelligence Detection for Cerebral Aneurysms at 2020 International Stroke Conference"
+    excerpt: "SAN FRANCISCO--(BUSINESS WIRE)--Viz.ai, Inc., the leading applied artificial intelligence healthcare company, is excited to highlight Dr. Vitor Mendes Pereira’s presentation “Artificial Intelligence to Improve the Detection and Triage of Cerebral Aneurysms”, which outlines the development of the Viz.ai algorithm to detect cerebral ..."
+    publishedDateTime: 2020-02-20T12:06:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200220005270/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 32
+    images:
+      - url: "https://mms.businesswire.com/media/20200220005270/en/774567/23/Viz.ai_Logo_Blue_Horizontal.jpg"
+        width: 1200
+        height: 627
+  - title: "Utilizing Artificial Intelligence to Synchronize Stroke Care Impacts Workflow and Hospitalization"
+    excerpt: "SAN FRANCISCO & TEL AVIV, Israel--(BUSINESS WIRE)--Viz.ai, Inc. the leading applied artificial intelligence healthcare company, is excited to highlight real-world data from Dr. Ameer Hassan’s presentation “Early Experience Utilizing Artificial Intelligence Shows Significant Reduction in Transfer Times and Length of Stay in a Hub and Spoke ..."
+    publishedDateTime: 2020-02-20T14:28:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200220005279/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 6
 
 secured: "gzxB4miW3eVziSlZhGy7EWzE2vbQWot+fWNqJiRH8sTa0wSvrBYz7jPgZFF4KT7cd2dZDtB2BVVzQh1ih8E3ABFmtpsEGY4fE4j6hhQ68gHZGGh1k/5D4E3AUIJxQwSXCeksNybJdHwaKN9u0zTm/oO8j6LfU7ODbFxqJKFMPSYLfMY4dDl+/8tEPd2YbiIbkbGlpiVVjiHG6h6g+a0AHsdykWw/DuC8lKBY40svQXsV7Y4ms/O/db12Q6iE3/tekVVu7pLlTZA+Jn+Up6HTlhSrvkhApIasoyYm8XJo6GeajMMS3BaEVLilhRWTql0Y;zYqDjuUdxTPYvNvuFec/uw=="
 ---

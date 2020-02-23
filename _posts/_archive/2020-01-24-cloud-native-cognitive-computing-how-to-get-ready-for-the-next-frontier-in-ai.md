@@ -8,7 +8,7 @@ ampWebUrl: "https://www.business2community.com/cloud-computing/cloud-native-cogn
 cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/cloud-computing/cloud-native-cognitive-computing-how-to-get-ready-for-the-next-frontier-in-ai-02277792/amp"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -19,21 +19,6 @@ topics:
   - AI
   - Microsoft AI
 
-related:
-  - title: "Sentiment analysis and text mining using Azure Cognitive Services"
-    excerpt: "This post provides 6 sample codes showing how Azure Microsoft Cognitive Services can used to build AI solutions to tackle opportunities like sentiment analysis and text mining."
-    publishedDateTime: 2020-01-25T12:40:00Z
-    webUrl: "https://medium.com/@caiomsouza/sentiment-analysis-and-text-mining-using-azure-cognitive-services-6185a1d0f0b7"
-    type: article
-    provider:
-      name: Medium
-      domain: medium.com
-    quality: 84
-    images:
-      - url: "https://miro.medium.com/max/1200/1*eIuRRxcgZxzCMZvc4HLiiA.png"
-        width: 1200
-        height: 600
-
-secured: "cO/GY6ijXyI8pC2rqSzUk7vyzDjNiqmSr0VyiT2tm0zPObeHnfU3XvHFnk13TIZR/C/t49eSiNN90DnzFvpW3Z9M5BBJ1szXilIQThA9Ap60a1OL1I+R3bCZgP8mtG6QC6FsSBC2yzGigj8ZmNm4lvwNX92mDPBX0d1mjlwdvquD579Uh/3yKJ47hVSZx1a3JJq5iKT0EzPOV1VWLHwzzSuRszaQme/i8AQlfiyOEHnb/Lut8GubbeAyngRg/g9pqQYnTL9JMwXutcTe3EdJBMIy78ixfeY2++fRjMoV/ZHXS2Ui3OBX7yrzW2vBEcuG;YWDXrK/EQHHUK7PyOlO4pg=="
+secured: "wGd2yL7TT0vAaFAdWb8yYG/EsXAIDNpMrW5JbZHcWGnKboNGMJIskqi0nszwMUKHrJ2gkXpp8vrG02GtLmeGK7Lb7TpQlPR+ux2HActHtGy+QttQ8REPiYsYDzeppgcwgPMT7sCYJrDI9S29vdALBQm4tW6vDnuFb2zWa0GQJD8b/XWHJ8cIB6D2010pPvTe6PUyKXv4jQ3b+YZJ3jiZHAcMplIAfqsHnWiR3K+Upfe8JC8KDBTMMjRuiAzRbCJ/umk+G/kvC3+L0NLISZUNqeG7EvpCUcyC6TQMpAsz7sDQXKv9u66yRwQHZ34zd5JH;c14bAVWEpI31oKTeoudhyA=="
 ---
 

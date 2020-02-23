@@ -1,9 +1,9 @@
 ---
 category: news
 title: "The new collaboration is designed to enhance the cybersecurity capabilities of Azure Security Center for IoT customers."
-excerpt: "Azure Security Center offers advanced security posture management. By integrating the two products, Firedome and Microsoft will be able to deliver real-time protection and response, with dual detection capabilities of both Microsoft Threat Intelligence and Firedome's machine learning, cloud-based AI engine. The combined solution provides ..."
+excerpt: "Michal Braverman-Blumenstyk, CTO and GM, Cloud and AI Security Division at Microsoft Corp. said, \"We are pleased to partner with Firedome's Endpoint Protection solution to provide a solution for manufacturers who don't have a SOC team for their IoT installed device base. We view this collaboration as a way to enrich Microsoft Azure Security ..."
 publishedDateTime: 2020-02-22T01:31:00Z
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/firedome-announces-integration-with-microsoft-azure-security-center-for-iot/article_9fd4db82-0673-50af-bd2b-78c981cc8039.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/firedome-announces-integration-with-microsoft-azure-security-center-for-iot/article_9fd4db82-0673-50af-bd2b-78c981cc8039.html"
 type: article
 quality: 15
 heat: -1
@@ -86,6 +86,6 @@ related:
         width: 1200
         height: 627
 
-secured: "xB7s+LgqKofDQUiPlfp6026wLoUG4JlftMBRI7EiQvv5XEHSmk30TYSGSeZPO4faMq1Mu5MLXiHktm9sV6fzj9h5uQVQ5Taaz6VNsbPkHinl5vaDUTEFRe9ZIzaHYUciSA/JFJqKtXawb4ny+54nFY/tj/qVP5hCmMbJDpEn2KRWrlTjVljMKtiRkb0a7cew4sry5Lcef6N4nJBHcC6h/lOS5Q/15NVTUJV2IBAfjU5omepbr9ixhCVl60+06KjAGyxbecMNVIb4SAaru7ej3SzsiL0ZAV4+l3qmCkTDX45mwl9SA7MIfgtrmY5KZ5XY;RJoZYlfTibVK5wUanTGggA=="
+secured: "UPAdgyulbIPWtf7xu4vsLq1Z0J5XzVw1dsid2yFnvMTsw1fY/438VtmtcX+mUpQG8oyKJO8djAxIdxLFyTEJGP0dnjtiq5CaOettpABuMMtFpkx5OKOmTjhy4Y5gWCbwSNeNTZ08oLBF3z0ygHhOfSzA000tbQVOPdEHkfe4+v8vbZJg/ey7/IA+s5vuf/WUKf5dHfXitBHrniFCSonkOzLqnyP+gXql7DbQ6t8HUfoChcTBeStIA1wWcbJzZthGa5Z+pa9w5cxYAGptc9JER9er9h/6VowTdo1Dmg2DmMu6RSUMacgMkND+oaA0KhTJ;q4cODY9pmNom7bEK3AmUkw=="
 ---
 
