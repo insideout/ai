@@ -52,15 +52,6 @@ related:
       - url: "https://roboticsandautomationnews.com/wp-content/uploads/2020/02/ubtech-robot-in-china.png"
         width: 1015
         height: 972
-  - title: "Coronavirus | China turns to Artificial Intelligence, big data"
-    excerpt: "data tracking and artificial intelligence. Several Chinese tech firms have developed apps to help people check if they have taken the same flight or train as confirmed virus patients, scraping data from lists published by state media. In Guangzhou, southern Guangdong province, robots at one public plaza have even been deployed to scold passers ..."
-    publishedDateTime: 2020-02-08T16:45:00Z
-    webUrl: "https://www.thehindu.com/news/international/coronavirus-china-turns-to-artificial-intelligence-big-data/article30771991.ece"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 19
 
 secured: "rjRrlvTgDxXTta2SqfcqCnpamTxroSFtdziUuof7lv8MctyhREtdfnVN8DaKlppQP6gl+yBFfj3x/OfOJa/o6vuMkQz3Kr1H5wuyIINxK+S3ybxUL/NZgYCDe1ebCwWXeHTxRhfSZuvESqElv+aakeap4i+qLJA0oo25LwDsws8lBjv0w4GgPBkivTKIAgIsf+f1CF4S0ogvZcFNgFk2WkL/Txa19MDZjKObVWegPPKnAZKIvFJh/4vEMpxPAInceQ8RqqcL6pxKw40oJtflsxknPocY6ba3HWQwfp4NpckZTOOQl4OBG4Oqm07mJeNXhXUej3ZYOLa6azPxcDfE/9rHyHeP/iiVQpDfyCyy9KTMpW55EVO8pf0ZbSxlh+5YJt/PwFZASrY6Bix7VHGNGT/N3ScNWdyAdeqdj0SB8T49UfY5r2uO0Ld4MS54112Wg9KeY4YisG3DKQ2Pvxr6wYU1/mj383BOwuzsLPELN2s=;c7WXQKnU3Gy57Ce85xB9/A=="
 ---

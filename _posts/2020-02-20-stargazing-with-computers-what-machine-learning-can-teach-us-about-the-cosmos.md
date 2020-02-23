@@ -35,6 +35,19 @@ related:
       - url: "https://images.yourstory.com/cs/2/b3bfb136ab5e11e88691f70342131e20/Image7yw1-1581845064064.jpg?fm=png&auto=format"
         width: 800
         height: 400
+  - title: "Maine Voices: Expanding early learning, computer science can boost institute’s reach"
+    excerpt: "With a focus on high-growth technology fields, specifically, the practical application of artificial intelligence and machine learning in the digital and life sciences sectors, the Roux Institute has the potential to make Maine a new hub for the innovation economy. The institute will help keep Maine talent in Maine, attract new people to our ..."
+    publishedDateTime: 2020-02-23T09:12:00Z
+    webUrl: "https://www.pressherald.com/2020/02/23/maine-voices-expanding-early-learning-computer-science-education-can-maximize-roux-institutes-potential/"
+    type: article
+    provider:
+      name: Portland Press Herald
+      domain: pressherald.com
+    quality: 32
+    images:
+      - url: "https://i0.wp.com/multifiles.pressherald.com/uploads/sites/10/2019/05/hacker-internet.jpg?fit=800%2C533&#038;ssl=1"
+        width: 800
+        height: 533
 
 secured: "8zYYUt+W8CmVQqE9gBH1Gxqj7oUGH2YTSMU3x9eLz8EGz6C4n9mrEWNyRxjbx8VJUXxhMuIrwjqOWr6k36ajssbUGRI/Ug51mjj/fjoRC935MaFvUjZP7XNfZTPmuThO9e2/W1KPOUmwRZQYK6C7Y319tvCm2Ow+3nG0SYmNlqIFAAaZOrv74VjWI7T1T+dMIeWbSahbf4m2mnUQoOhLZNy/0BleioJ7oHG5bN7Sc+Z/us3TKqBW0tCL+jfWi/FL4PlVsQSetCo/sDJazUxcU67LCbmhwgb804OK/jzOZuMrYOWXIGl8OqZYheTiYkFcQ3Q076tCcdieZriLVuVKo86TfHG8XIZ1fbmuRuUzE6JGqFvHGLurV+2XNWIW4OQrWakqOKm5cL7BNza8EMxYks9JPa4eoWJdNXbNKf30yx4l9rMmkbhGVLVgMAcZxH9GhTPS2rxBySHVRnBDeedXPR9KHJrRJ02zat9jI6VfO4g=;Sdf5H1LgQB9s9ZQ5fZo/hQ=="
 ---

@@ -50,15 +50,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 69
-  - title: "Coronavirus | China turns to Artificial Intelligence, big data"
-    excerpt: "data tracking and artificial intelligence. Several Chinese tech firms have developed apps to help people check if they have taken the same flight or train as confirmed virus patients, scraping data from lists published by state media. In Guangzhou, southern Guangdong province, robots at one public plaza have even been deployed to scold passers ..."
-    publishedDateTime: 2020-02-08T16:45:00Z
-    webUrl: "https://www.thehindu.com/news/international/coronavirus-china-turns-to-artificial-intelligence-big-data/article30771991.ece"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 19
 
 secured: "zoaLAUe8kaHYW4tsLM/JYfio5BPQTu40KfuKoddfHppXgpm7GCmZlCtlufgQcjLWdWyJixJUiwsic4VUthVyJfjNCXRYvgUcarbJ4h4rXS8U9loY3gm91S9OqTCYHIAs9c5sff2qR/njkagUuwk5zn7Fefd86hoVScmXs+EhgSy7iB0luVChmc7dqUG3dmExSGksz0mH4TK8j1wJW4AqUlOMphCWsWKAsn5Ok6mYhIs7/i46W3AV72zXyBoPjVlaMIZ0PF7XwwuP5ZCsOYihrn2dyGqwXvMByIk/qTZvJBn7gBRQ5KBkkc0ezE5qjD8GNEUoSD9F9m3zeERSFjoQ0scfghfkgpZeF96CAKWzx2lMzZH1zBJmqMv7t8FmnoyPwTeRDufe7KxeOcfCBXNonqDnMFuVEju6fMe500nUW4LdDGmMhf/LNcn+R0l3JpKWNIGuFANuB8Nvy1kHUnqX7Tfd9krT82oe2kqmqc7Fhew=;KcA8ejxn9tdsNWPf++0SfA=="
 ---

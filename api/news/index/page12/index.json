@@ -2,50 +2,6 @@
   "page": 12,
   "value": [
     {
-      "path": "_posts/_archive/2020-01-14-the-case-for-a-light-hand-with-ai-and-a-hard-line-on-china.md",
-      "title": "The Case for a Light Hand With AI and a Hard Line on China",
-      "excerpt": "Last week, at the WIRED HQ at CES, I spoke with Michael Kratsios, the chief technology officer of the United States. We dug into the government’s recent regulatory framework for AI, the potential for an AI cold war with China, and whether or not the NSA is building a quantum computer. The conversation has been lightly edited for clarity.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/light-hand-ai-hard-line-china/",
-      "ampWebUrl": "https://www.wired.com/story/light-hand-ai-hard-line-china/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/light-hand-ai-hard-line-china/amp",
-      "publishedDateTime": "2020-01-14T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5e18caa890f5f5000872b7b5/master/pass/Biz-Kratsios-IMG_6970.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": "The Case for a Light Hand With AI and a Hard Line on China",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-01-14-the-secret-to-building-ai-quantify.md",
       "title": "The Secret to Building AI? Quantify.",
       "excerpt": "If you want to build an AI company, you should define the “goal” of your AI and have a quantitative means to progress toward that goal.",
@@ -2150,6 +2106,50 @@
           "width": 800,
           "height": 560,
           "title": "Apple acquires on-device AI startup Xnor.ai for $200 million",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-16-apple-acquires-xnorai-leaving-wyze-cams-blind-to-people.md",
+      "title": "Apple acquires Xnor.ai leaving Wyze cams blind to people",
+      "excerpt": "It’s no that often, however, that you hear of such an acquisition causing a different company direct problems. That’s exactly the strange situation behind Apple’s reported purchase of Seattle-based startup Xnor.ai which is apparently the real reason why Wyze is losing a key feature of its smart security cameras. Although perhaps virtually ...",
+      "heat": 147,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.slashgear.com/apple-acquires-xnor-ai-leaving-wyze-cams-blind-to-people-15606956/",
+      "ampWebUrl": "https://www.slashgear.com/apple-acquires-xnor-ai-leaving-wyze-cams-blind-to-people-15606956/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/apple-acquires-xnor-ai-leaving-wyze-cams-blind-to-people-15606956/amp/",
+      "publishedDateTime": "2020-01-15T19:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://scdn.slashgear.com/wp-content/uploads/2020/01/wyze_insert_2.jpg",
+          "width": 1280,
+          "height": 800,
+          "title": "Apple acquires Xnor.ai leaving Wyze cams blind to people",
           "attribution": null
         }
       ],

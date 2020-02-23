@@ -2,8 +2,8 @@
 category: news
 title: "Can AI flag disease outbreaks faster than humans? Not quite"
 excerpt: "Early warnings of disease outbreaks can help people and governments save lives. In the final days of 2019, an AI system in Boston sent out the first global alert about a new viral outbreak in China. But it took human intelligence to recognize the significance of the outbreak and then awaken response from the public health community. What's more ..."
-publishedDateTime: 2020-02-20T09:34:00Z
-webUrl: "https://abcnews.go.com/Business/wireStory/ai-flag-disease-outbreaks-faster-humans-69094703"
+publishedDateTime: 2020-02-20T21:30:00Z
+webUrl: "https://abcnews.go.com/Technology/wireStory/ai-flag-disease-outbreaks-faster-humans-69094040"
 type: article
 quality: 37
 heat: 37
@@ -33,6 +33,6 @@ related:
       domain: orlandosentinel.com
     quality: 17
 
-secured: "C1edFujNehmx5O88CkYBs6lmOuvBfEbcjDrs1FEAmewtXAMLlkwtEe8XioWDxyJLqLhs8HoeXSa3Ln1zGps5DwF3ehPzWv0Lxy+L7WtwNtuQbcwQOTMMo5tZi1UepgS9YH1qe8j9vLAQPYxgVZbKCr90Qs5BjU0IvBFqBpTCLIl0Q1NGNPYcuXBMh/uyH1FUgZ9ujfojBXdgiZ4qLcjplfnKVCqSzHw4p7+L62YZwW8FFLjuajKkb90973ATCKcnuxfMw1PYMypWBnj/8QcWnzyViIziTAvqD54mqeW5/UcNZnIURNxKpil8izWwtpEHFvMt671/gpj3ZvXNGSX6JjU42UfSziC58RieG8rEDVnqe46FVyMSQFgA9bdueP84L+ukc+QMS13j6/PSDKdLT4urU0vNQ2Z+bM7VK+840oiosnNZBxoyHCEjqrGkOGGo5+MLFSZSAGvp3A5n9xHhhhGF/sOom+AgM7Ty+4MCFZk=;7btCuA9PDi8H12OdkwMBCQ=="
+secured: "cKmD/oGhaX6UK8kX1mQGgn8R3+noEbTKvA2A1gqY3RlEr7sQVfxHQySp+uyoXNqgRR6HN15UXn4X0U1ZVfQei38ANPECIfE1dJCbIfqYN3qJuvnRPMXzAdxLuAWEciiz3Dv00Hu4LFCE9mn7ah676o1K/fj1DN/M39DQLUFnTOU6osfM4UmQP9XP5iaRerPr8Io1McODy8MN+IyWAdUf0dE8AfGoQ+C75rbEt9ufoZyIUQtauLBqU2MvhL8lQwvGXvi3ErBOM1BRY7Vc3x8+hOjwpEWDqR+HX8H9Asa6ojtNqaWEfSK+LAAL6lVHAZSd;2CaCAp0xzfof/wY0KO40yQ=="
 ---
 

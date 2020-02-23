@@ -53,6 +53,6 @@ related:
       domain: medicalxpress.com
     quality: 54
 
-secured: "bDwlDUYgxBnRPsX3G2+T7CUWO/DVst8P5NtElApzOcOqMy/dIWUPG96xsdO5v+I3SJ4Ou5xW5YVRMlBIaxDTrSbxobTQPXjZfY0+XqjLKsoTk7JHVcm1s34jwjWo71u5Dhq968bcDxfXv25f9q7XeUf7pP1U5O9FpzjXKOHq22ZJdxy8jk8QxEa0mHVsoRY6KWy29pUA8XU+e5JVoP8SnBugX0sQ35wM9lZqbnr9QchNRyXEALy+8O/4yTu25Ub+d1tWNYjbNHEuofPhjXvI4CSL7Io4sd1c/tyXpBfyjaAThd4hB6/HDsm0CC6TF61U;mee8pWuNMCTFxLFqmLmuxg=="
+secured: "rcRANVefqNFVaaB/U5DiGSjusvWL/Wv2MYP6VBzjHe1gaASbAnv0HypTIXPBvnUEdzezyw1mjOQl89ZgvUxRB2ReecevY9qx62ISVH2D0BhXcnf9WWz8otyXTRpDSO97RqfjL+j9+fK/9VjFOQhyuC/f+OVycxni68BNj14/wL4OgSM4lbxgqbkMoi0Q2oQheKwHROdXIV6mdaBs2aW8nUcwwI6lib0SYuZZUPRifbCgox6MPZzQpJR85/qTRVsC2kD6ucK9kdo8XJH2R51szmDbRSG/8Zd05wPvX+ACbuNUUms+A/fxW/btLUrdqvqB;axawy/CRGORLN+OUUtkMyg=="
 ---
 

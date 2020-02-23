@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/china-tech-giants-chip-in-t
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/china-tech-giants-chip-in-to-combat-coronavirus-global-shows-impacted/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -54,15 +54,6 @@ related:
       - url: "https://roboticsandautomationnews.com/wp-content/uploads/2020/02/ubtech-robot-in-china.png"
         width: 1015
         height: 972
-  - title: "Coronavirus | China turns to Artificial Intelligence, big data"
-    excerpt: "data tracking and artificial intelligence. Several Chinese tech firms have developed apps to help people check if they have taken the same flight or train as confirmed virus patients, scraping data from lists published by state media. In Guangzhou, southern Guangdong province, robots at one public plaza have even been deployed to scold passers ..."
-    publishedDateTime: 2020-02-08T16:45:00Z
-    webUrl: "https://www.thehindu.com/news/international/coronavirus-china-turns-to-artificial-intelligence-big-data/article30771991.ece"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 19
 
 secured: "c7N3ygclSSRC34Y5PE50uis8OhCUEBkmynbNKLesOFOE/Zbnhdd1TekMvyX4kTsYxpQMPwIj2kSq3r1pMpx8xZEc7JzMj3uZxLu0Dsht/DsNvLSZi7WqielNasmvY0WGtF4u2WWY60ZnNjEPLKUGT8kr05VNrt2eB/Y/RzBiwCnAN0F8dkN3mMtsLiMVyZxtgYSfG7/o/YIwuuj8CBqUqzRHGmvkl2vS42PqtqsEgpV97S8pH0VUmS7Epao796JQ5VoUZfNEEqw8TbQSJlrEwmD4+H/5PiQ/XJ6cNxRqAMfg3APf8DlBgKS9mCFA1CEjG1d/nU8R5iJXxDlAcPD8whbjwzLsauu0Z0WfVtHdPG30Wr1E1NVsOP9FLyZrl0oBCyx+fcTG8cDpbMyPHTnWmZlM6QNI+ZWh6mn9Vo/MmSeAs+9FvZSBV2NAMLKqOscJaVgN0fU6iKwkyKQDZo08pl4ysahJA3LGAOK3cbWaynA=;M19vQwjhiBfWEelrRFMowA=="
 ---
