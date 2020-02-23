@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-13T15:19:00Z
 webUrl: "https://www.marketwatch.com/press-release/ai-in-telecommunication-market-outlook-big-expectations-to-watch-for-2020-02-13"
 type: article
 quality: 69
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -28,19 +28,6 @@ images:
     title: "AI in Telecommunication Market Outlook: Big Expectations to Watch For"
 
 related:
-  - title: "Artificial Intelligence In Retail Market Outlook and Opportunities in Grooming Regions : Edition 2020-2026"
-    excerpt: "The global Artificial Intelligence In Retail market is carefully researched in the report while largely concentrating on top players and their business tactics, geographical expansion, market segments,"
-    publishedDateTime: 2020-02-08T09:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-outlook-and-opportunities-in-grooming-regions-edition-2020-2026-2020-02-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "Artificial Intelligence Solutions Market Value Estimation to Expand From 2020 to 2029"
     excerpt: "A recent market research analysis titled, Artificial Intelligence Solutions Market offers insightful information to the clients escalating their basic leadership size explores distinct significant facets associated with Artificial Intelligence Solutions market covering industry surroundings,"
     publishedDateTime: 2020-02-09T10:26:00Z

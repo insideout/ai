@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Free AI developer app: IBM's new tool can label objects in videos for you"
-excerpt: "IBM has released a new free tool designed to help developers cut the chore of labeling images in video when training AI object-detection models. The new auto-labeling tool is part of IBM's push to ..."
+excerpt: "AWS launched Amazon Rekognition Custom Labels in December, aimed at helping businesses spot objects and images that are relevant to their business. The IBM auto-labeling feature is in an \"early ..."
 publishedDateTime: 2020-01-30T15:36:00Z
 webUrl: "https://www.zdnet.com/article/free-ai-developer-app-ibms-new-tool-can-label-objects-in-videos-for-you/"
 ampWebUrl: "https://www.zdnet.com/google-amp/article/free-ai-developer-app-ibms-new-tool-can-label-objects-in-videos-for-you/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/free-ai-developer-app-ibms-new-tool-can-label-objects-in-videos-for-you/"
 type: article
-quality: 90
-heat: 90
+quality: 92
+heat: 92
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - AWS AI
   - Google AI
   - Computer Vision
 
@@ -30,6 +31,6 @@ images:
     height: 675
     title: "Free AI developer app: IBM's new tool can label objects in videos for you"
 
-secured: "4H1uUOHKPm9wKabfh5Fc1aSeH6N1txnqnuvh/fU2CscPAsMTRDuRgzaxi5tN3o1oNW1rNxxxaU5n5+vpoTxdSGAIAY1mXL2GxYyfwi4GNqeqE1RGjyL1dM0raZ8rw27TRqy4jgUvdooNYllaGhy2TI/UZfwENJVRRUAG2ohWpbhhlNfQhJld+4aLULzjAYjN/T+VP9eq/9bZMZNpOUyYs307c+U1amvnWAv3zRY/8cyCShXWUwtE/8oJgkK1IdPgScnuy3qE2LaFdxDNLEOg5CX6Trj0gZI4fPOGy3eIrlCAnVQlT9RfO5/53m4tvbeb;t7m2sfSVxwVp956T0N1ZWA=="
+secured: "/5kf/Jzb+XxUvceW7FCIPc2whLl4iJyRox1xc5Lpq8bI6CNlwLfKcFuQ17HbuzEslJa+thaf3gfOJ9igAkXHI90opd75Rh4xkwwBPagfvtqYqVMwfwv/n+VqNwEoCWWagYh0vheR3Vj3xyFKT8tV8rMSwXKvU2Buy9sOKBCI5rnxK6z55ES41XiwQUZ7QTqnxZoAEAffTchdp1uzcHA4ec2ERwnbwYUSJlrL2VMesOH4giJuyZ+H5KY7Xt+w6rbSuxHbtYWLORMqYN3XK8zUc0OYF60fptBMrSKgJfOFTMaTq76iKtHtrTaTstP9xU0C;T0L4lQknZoPtBl/ri+CO9Q=="
 ---
 

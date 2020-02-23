@@ -39,19 +39,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e3074548b6cf300071d30e2%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D960%26cropY1%3D48%26cropY2%3D588"
         width: 960
         height: 541
-  - title: "Automatic Speech Transcription And Speaker Recognition Simultaneously Using Apple AI"
-    excerpt: "Last year, Apple witnessed several controversies regarding its speech recognition technology. To provide quality control in the company’s voice assistant Siri, Apple asked its contractors to regularly hear the confidential voice recordings in the name of the “Siri Grading Program”. However, to this matter, the company later apologised and ..."
-    publishedDateTime: 2020-02-08T08:43:00Z
-    webUrl: "https://analyticsindiamag.com/automatic-speech-transcription-and-speaker-recognition-simultaneously-using-apple-ai/"
-    type: article
-    provider:
-      name: India
-      domain: analyticsindiamag.com
-    quality: 32
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/02/aim_Apple.jpg"
-        width: 1600
-        height: 800
   - title: "Global Emotion Detection And Recognition (EDR) Market 2020 Growth Analysis, Key Insights, Future Development and Statistical Forecast 2025"
     excerpt: "Scope of the Report Emotion Detection and Recognition (EDR) is typically identifying human emotion from facial expression or verbal expression. Now, with the help of AI, NLP and ML, the machine is made to understand human emotion through various software and act according to it."
     publishedDateTime: 2020-02-19T11:19:00Z

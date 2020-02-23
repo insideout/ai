@@ -1,9 +1,9 @@
 ---
 category: news
 title: "The new collaboration is designed to enhance the cybersecurity capabilities of Azure Security Center for IoT customers."
-excerpt: "Michal Braverman-Blumenstyk, CTO and GM, Cloud and AI Security Division at Microsoft Corp. said, \"We are pleased to partner with Firedome's Endpoint Protection solution to provide a solution for manufacturers who don't have a SOC team for their IoT installed device base. We view this collaboration as a way to enrich Microsoft Azure Security ..."
+excerpt: "Azure Security Center offers advanced security posture management. By integrating the two products, Firedome and Microsoft will be able to deliver real-time protection and response, with dual detection capabilities of both Microsoft Threat Intelligence and Firedome's machine learning, cloud-based AI engine. The combined solution provides ..."
 publishedDateTime: 2020-02-22T01:31:00Z
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/firedome-announces-integration-with-microsoft-azure-security-center-for-iot/article_9fd4db82-0673-50af-bd2b-78c981cc8039.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/firedome-announces-integration-with-microsoft-azure-security-center-for-iot/article_9fd4db82-0673-50af-bd2b-78c981cc8039.html"
 type: article
 quality: 15
 heat: -1
@@ -38,18 +38,18 @@ related:
         width: 600
         height: 315
   - title: "ClearDATA Comply™ for Microsoft Azure Enhances Sophistication of PHI Protection"
-    excerpt: "in healthcare including Azure Kubernetes Service (AKS), Azure Machine Learning as well as PaaS based services like Azure SQL. ClearDATA is a Microsoft Gold Partner and has offered managed security, compliance and privacy solutions on Microsoft Azure since 2015. ClearDATA will further collaborate with Microsoft to support its sensitive data ..."
-    publishedDateTime: 2020-02-19T16:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200219005687/en/ClearDATA-Comply™-Microsoft-Azure-Enhances-Sophistication-PHI"
+    excerpt: "in healthcare including Azure Kubernetes Service (AKS), Azure Machine Learning as well as PaaS based services like Azure SQL. ClearDATA is a Microoft Gold Partner and has offered managed security, compliance and privacy solutions on Microsoft Azure since 2015. ClearDATA will further collaborate with Microsoft to support its sensitive data ..."
+    publishedDateTime: 2020-02-19T16:53:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-cleardata-complytrade-microsoft-azure-enhances-sophistication-phi-protection-/2020/02/19/9100677.htm"
     type: article
     provider:
-      name: Daily News
-      domain: businesswire.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 50
     images:
-      - url: "https://mms.businesswire.com/media/20200219005687/en/683520/23/CD_2018_No_Descriptors_Logo_w_%C2%AE.jpg"
-        width: 1200
-        height: 627
+      - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
+        width: 252
+        height: 335
   - title: "SecuriThings Announces Integration with Microsoft Azure Security Center for IoT to Protect Customers' IoT Devices Against Cyber-Attacks"
     excerpt: "/PRNewswire/ -- SecuriThings is the technology provider of Horizon, a software-only solution which detects and mitigates cyber-attacks exploiting the"
     publishedDateTime: 2020-02-20T17:30:00Z
@@ -86,6 +86,6 @@ related:
         width: 1200
         height: 627
 
-secured: "/86sAOe7LVOJY8weTPSNhhq1s7zqeZfugX+y4FeOWTI6YizEJ47nYM1bguKf6UgQ6ZrT91Sf6e1uoUvmYX8Pt6raGRq52KGugx040jdnfRUd/cS0zP0iX0Gr7ojxcxUNQIdChKsb4VEZS9oqFkJCCHnNDwLBXSirTKXM56ITGuCNBHlQK3PT2DM3yuvXl3Ip9F14y/Jtv4zSPnxd2cCK5ckXMhJQfxmNh83M1UC8gTwGTB5ih4RF4moomrnITbCTpbi2mkQyi10iHzIHrPQeazpGUGXQCY06S0cVlJ38CSRNXWST5H7OM53amIhz1+PM;/TgMsHFhRAawyacIUxSmXA=="
+secured: "cEST6RknZTTjcTFUOcJKLwSXXa+PC+EQ7rVJs5/fayF+w9gTVrLm0urwXBrU5HRKeTAlfD3jb1huGajpvD+Mt/h4CNC9jj/mx7zVsmyEVwRHNGMM285A1MnbFBb6mvSf2CcqeTliKXojXRsli74EWTF0CivryNNFIqLs/DjmEBFpmsh3MEbkSGWWawAUhBqdqRSt1rrvm80Bu7n3hEW8lT0Yunm8k9J8Jf3zEUHfYFX0R2kdX6EOfAPYXlRMM4dAfUvGCYNm+Qq4KCDn7GTfhDp1Gyk81eWzJBVQmSmF94hxfyh2opqj+QBF1w7nv3/n;BxNCekXxbd1KskPf6hiIEQ=="
 ---
 

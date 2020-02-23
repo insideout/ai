@@ -72,19 +72,6 @@ related:
       - url: "https://roboticsandautomationnews.com/wp-content/uploads/2020/02/ubtech-robot-in-china.png"
         width: 1015
         height: 972
-  - title: "China Uses Data Tracking And Artificial Intelligence To Fight Coronavirus"
-    excerpt: "Authorities in China have turned to data tracking and artificial intelligence to help combat the spread of the new virus. Robots also deployed in hospitals. In an effort to help contain the spread of the deadly coronavirus which has infected more than 30,000 people and killed more than 600 people on the mainland, Chinese authorities have turned ..."
-    publishedDateTime: 2020-02-08T08:37:00Z
-    webUrl: "https://www.republicworld.com/world-news/rest-of-the-world-news/china-uses-data-tracking-and-ai-to-combat-new-virus.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 38
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/7s4xbfkmap9ztguf_1581145729.jpeg?tr=f-jpeg"
-        width: 1242
-        height: 708
 
 secured: "vio16lDnQR8pQBjo3Ui/quk0QX1FvCzVfes6ieXHsQtwwJ75vo1pwrCrcPEa/Fh26CAiQ6W5teSEonoE8JHrOraX7vpD6VSNG+p0k2QAqrGHNh5RVpJzBGZW29FaVfGn7oY+EUES9oDDD0+ObR0n4kYbzw6UNWofPhSnZ6L6M+9VP/hId0HoipaCwcF1RM6V5iALYFanL9cDbC887WshXGKS7/YIu5KXavR0TZlrwIYJjrGkxfyOgI8V+ZE9gIwDYMJ+AWDOHvlF0T8K/HX9j2kAX3+U+psftvaSEAKX701hE95nVhYt36rnSdehxdo2;Dpoi99/J+qcJyi360DQDPQ=="
 ---

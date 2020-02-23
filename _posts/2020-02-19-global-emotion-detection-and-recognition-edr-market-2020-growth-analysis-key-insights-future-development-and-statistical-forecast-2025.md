@@ -43,19 +43,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e3074548b6cf300071d30e2%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D960%26cropY1%3D48%26cropY2%3D588"
         width: 960
         height: 541
-  - title: "Automatic Speech Transcription And Speaker Recognition Simultaneously Using Apple AI"
-    excerpt: "Last year, Apple witnessed several controversies regarding its speech recognition technology. To provide quality control in the company’s voice assistant Siri, Apple asked its contractors to regularly hear the confidential voice recordings in the name of the “Siri Grading Program”. However, to this matter, the company later apologised and ..."
-    publishedDateTime: 2020-02-08T08:43:00Z
-    webUrl: "https://analyticsindiamag.com/automatic-speech-transcription-and-speaker-recognition-simultaneously-using-apple-ai/"
-    type: article
-    provider:
-      name: India
-      domain: analyticsindiamag.com
-    quality: 32
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/02/aim_Apple.jpg"
-        width: 1600
-        height: 800
   - title: "Transportation in 2030: Flying cars maybe, but mainstream electric and shared ones for sure, some possibly self-driving"
     excerpt: "so this is a serious space.\" Companies like Uber, Boeing, Volvo, & Toyota among others are testing this technology. Meanwhile, autonomous vehicles (self-driving cars) are nearly here. They already undergoing vigorous testing and by the way the Oregon Department of Transportation has an autonomous vehicle task force considering what changes ..."
     publishedDateTime: 2020-02-18T14:30:00Z

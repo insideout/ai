@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-08T12:49:00Z
 webUrl: "https://www.analyticsinsight.net/top-10-robotics-investment-funding-january-2020/"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -22,21 +22,6 @@ images:
     width: 1592
     height: 942
     title: "Top 10 Robotics Investment and Funding in January 2020"
-
-related:
-  - title: "Top Artificial Intelligence Funding in January 2020"
-    excerpt: "Particularly, artificial intelligence is one such technology that is making headlines every ... “We have developed a new category of heart disease diagnostic products powered by AI that promise to revolutionize healthcare by delivering accurate, cost-effective and timely expert-level diagnostics,” said Yann Fleureau, co-founder and CEO ..."
-    publishedDateTime: 2020-02-08T08:55:00Z
-    webUrl: "https://www.analyticsinsight.net/top-artificial-intelligence-funding-january-2020/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 39
-    images:
-      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/02/Top-Artificial-Intelligence-Funding-in-January-2020.png"
-        width: 1568
-        height: 1046
 
 secured: "AcYH3u4LTLzgpPMXZEbnyO+3VaDi4QUYGshBQVbNKw4ShazGAhoU6z0jPaAA1SUThQR2UlaIlINgqOu9V73BboIaLq/0q78DGxBGYJv43W8ObOcrfv4BfVxaZnOaXNgdbK+HwBluFU6GFj+XGeN61UO2+aAitdLxwXwtEoyKHUVTaA7jhodnpMqdtbjg1XRoQeW8kkuCyUMmNYSwg01ytFJ7lvMC3u++/ltrrbZoSIkARYDSXx6IvTBSnwZ5xSTlDpoBIaxK5bjKvjkIuz5OzCXbE0Zb9JXGb5luNshJ/sKPt3j0O19GELrBZD7n2kne7kucIuBqAiKyr9OUEjEFh7mwDho09bTsQj98y/WejZFz19da7di7lE4FT+flOt60X59PWMrSMxwSVzGB3jTDjYmgZMAxR7BEei00y4uFoHrknNJEt4e7Xoy0XHN66GjyohYaETkgmVRuUCOfcMhYOjTGi4Y9naAd0XCfzi2WC3g=;Z/RAuxV4YwEPOW+1nqTqAw=="
 ---

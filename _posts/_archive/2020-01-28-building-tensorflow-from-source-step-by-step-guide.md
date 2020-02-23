@@ -27,6 +27,6 @@ images:
     height: 585
     title: "Building Tensorflow from source. Step by step guide."
 
-secured: "ie+R1ciQ5bXDx4W0Cj79cSpI+y7ZNCtAr9zEaPUMMsYCeTnYgRSw7g7Uqv6Z3nOWVg2XNDtRojdiSzQy0tlZP34W9CuRTezA9HVvrUm5sjEtNxRA5UYz0IOWBooQ8YfPL8116CmpixjmCo2A/wzO3ix65UCrMyezIG7L5P81gAnhD2reMjgdwbZGbHdCLjVNkjewl97M5GNDKVDukiBiCs0IG1RyGlfLdqrPd//VYEb8afa0U4TL0U6SvLMrqRLrgJKhW836aYven7UWv+yEJiK+8AFht7tjYQqyAVOcAr7Hme6Pb8TjwCQujLBVS4do;XbyfD+qRvo4Kkg3lFax3Kw=="
+secured: "fAE3XprlnFzNoL6aqS6/8/jl38dKEdhAcnIHXuj7AgDWUnLw6/TFRdQkCgDA3JrSjagLGND0TKWVvLzc6lSdk9Z6+zuBMCFARP5Nh2+s1nKfQvcKlC9kBOam9XklAJXtQNyhEzDn5co6DwRCF1dzB3HfCnbnRfsbFjbjqySnIhusd96T9dfoDiVLvclsKKJfKtcv66wbopar/HOWbb5pATDuPsusteLkMR+nvcKlI0CKnDT+360kHobFSscFZJSIskBV0O4af2UeOusrmipWEGlcPtuB558lR1prptxnu9D8dwOG6BvnFcDp0S8dzlHe;0GomhaHv0wHIvzK4SElfHA=="
 ---
 

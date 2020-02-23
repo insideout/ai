@@ -1,26 +1,26 @@
 ---
 category: news
 title: "ClearDATA Comply™ for Microsoft Azure Enhances Sophistication of PHI Protection"
-excerpt: "in healthcare including Azure Kubernetes Service (AKS), Azure Machine Learning as well as PaaS based services like Azure SQL. ClearDATA is a Microsoft Gold Partner and has offered managed security, compliance and privacy solutions on Microsoft Azure since 2015. ClearDATA will further collaborate with Microsoft to support its sensitive data ..."
-publishedDateTime: 2020-02-19T16:00:00Z
-webUrl: "https://www.businesswire.com/news/home/20200219005687/en/ClearDATA-Comply™-Microsoft-Azure-Enhances-Sophistication-PHI"
+excerpt: "in healthcare including Azure Kubernetes Service (AKS), Azure Machine Learning as well as PaaS based services like Azure SQL. ClearDATA is a Microoft Gold Partner and has offered managed security, compliance and privacy solutions on Microsoft Azure since 2015. ClearDATA will further collaborate with Microsoft to support its sensitive data ..."
+publishedDateTime: 2020-02-19T16:53:00Z
+webUrl: "https://www.tmcnet.com/usubmit/-cleardata-complytrade-microsoft-azure-enhances-sophistication-phi-protection-/2020/02/19/9100677.htm"
 type: article
 quality: 50
 heat: -1
 published: false
 
 provider:
-  name: Daily News
-  domain: businesswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
   - Microsoft AI
 
 images:
-  - url: "https://mms.businesswire.com/media/20200219005687/en/683520/23/CD_2018_No_Descriptors_Logo_w_%C2%AE.jpg"
-    width: 1200
-    height: 627
+  - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
+    width: 252
+    height: 335
     title: "ClearDATA Comply™ for Microsoft Azure Enhances Sophistication of PHI Protection"
 
 related:
@@ -73,9 +73,9 @@ related:
         width: 1200
         height: 627
   - title: "The new collaboration is designed to enhance the cybersecurity capabilities of Azure Security Center for IoT customers."
-    excerpt: "Michal Braverman-Blumenstyk, CTO and GM, Cloud and AI Security Division at Microsoft Corp. said, \"We are pleased to partner with Firedome's Endpoint Protection solution to provide a solution for manufacturers who don't have a SOC team for their IoT installed device base. We view this collaboration as a way to enrich Microsoft Azure Security ..."
+    excerpt: "Azure Security Center offers advanced security posture management. By integrating the two products, Firedome and Microsoft will be able to deliver real-time protection and response, with dual detection capabilities of both Microsoft Threat Intelligence and Firedome's machine learning, cloud-based AI engine. The combined solution provides ..."
     publishedDateTime: 2020-02-22T01:31:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/firedome-announces-integration-with-microsoft-azure-security-center-for-iot/article_9fd4db82-0673-50af-bd2b-78c981cc8039.html"
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/firedome-announces-integration-with-microsoft-azure-security-center-for-iot/article_9fd4db82-0673-50af-bd2b-78c981cc8039.html"
     type: article
     provider:
       name: WFMZ-TV
@@ -86,6 +86,6 @@ related:
         width: 1280
         height: 720
 
-secured: "evtZe6UDUZoPnmwKWcuHdw2D88UDyn3Zy7064GghUAcd/kr3ypIOgmsVEbN+HB+iUDbHFudNP78otogitcShI7kQPmu5tN8b5DMKuuqhEleJOqfcWT8T6sPKIm/jxxM/6XPP0KxSsZx15hINSvPrv0D+h4HnUfDzXV+Zd9qXc3gRYTeS1f0BQjpOxMqkVU7BIVVeA6w8ZKs49CBrHOMkoio/Vy4ttD309GOdjz2UEADaUKCInmozL2lKNWPlKvuo9XNot+zA/k0o3dMAmKZoSUq5usCQZkPwnYhmJO4GyIyTUG+BcPOWAfBWB5TZIYAN;plg4JSSNXfdIsFr3JS8CgQ=="
+secured: "fqjKLO5DPQMeg2NJAHq0vWHUmF2Jck/Xs3Fr36OeN9Jx/uAHyQQGThsQ/knMvuw0u03cJAzeKeFuOoAaWDvkEw0h9n7SG2SbZaAFrPGkDYnZpNgbQz9Yj/Mu7WLejUZbARwPY3VL+1sMQ6ccneiPs9qvtEVY68U9J3ie+JUmCR5cQ/GGb1tOjqGjS/hfKsBHjQsvggEVUfWdyQj2divHgC8J9HO+l/2zEbSX5N2Qybn4/GOq3BXAEFWVGz0DgygvpCDNbjZlW9v4K0Ft5VKdYY6OZfB2b1TKVYV6XLsk1kFPAedHM29rxIfyN/Xtsn6I;fTZkKjj9yxdXQ1B0/FO0kQ=="
 ---
 

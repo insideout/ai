@@ -23,6 +23,6 @@ images:
     height: 300
     title: "REPLY: European Central Bank Explores the Possibilities of Machine Learning With a Coding Marathon Organised by Reply"
 
-secured: "ZCRrJv/lnIkt8PPE5bsfM5HXdcZ+0aDrAprLk2VTVLJTf3lYF/Ohw/nQkjgGCikc2Yqj6ATKaw6z5pIoQjrh0cjsHvK+apXpqWKbHnRzrfGzG/4CHI/JKrqcFL67Pe+KnJ7TkYimLyhUE6MdBrrTL1UChI5ZZgN7IvoJgnjeBvq2ixNWRVxvimwJZVFEaVSl2VNLtRmLrva1gseLknKEqEavveU2jC5weLHSDCeRkwnZP5I6Lwo1JLlmuaOIJh8LF3m/mRkhopNMpvYrjLejmul+/4mAh+5/68bK7CaxTxhZC4xIHYHiLZ/QnfrCKUZ5;bKSP4QlZ66Ea9bc7Uc7EIQ=="
+secured: "I9lUiBn2MhWMVYU0CaWZuF8+4ioIyG1pBKwbEgG7yxs2ihzvNpYe0yQUemi4YBaac59u3zx1CTxcD1HmzpOaS+gDGHTzGx4dWMNRLRqywBxtsPdX/Frrd1PpUdC9yYba7Bl9zYvlsSkumJjo7vIIV46xpcU0wZQQVswro1DXd52f4WhwVN1DRQHtBxCmKGNt3/7ce2TR5nYVft9TFqOknmz/65AvPDFmcNFxQWL6sTsTRikYFnhpe6n8ck3gCcqcaUg+BSZKKPTWNQK1gOamwOHgOFEv/8Y/eVPA27TxzoF8dn/W34vnc2yMsVDTDnzO;np5nMR0v4Rv2kJHD8+3d6g=="
 ---
 

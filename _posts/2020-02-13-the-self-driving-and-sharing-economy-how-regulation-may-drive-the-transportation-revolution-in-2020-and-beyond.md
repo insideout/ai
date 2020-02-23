@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/paulrosen/2020/02/12/the-self-driving-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paulrosen/2020/02/12/the-self-driving-and-sharing-economy-how-regulation-may-drive-the-transportation-revolution-in-2020-and-beyond/amp/"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -30,19 +30,6 @@ images:
     title: "The Self Driving And Sharing Economy: How Regulation May Drive The Transportation Revolution In 2020 And Beyond"
 
 related:
-  - title: "Automatic Speech Transcription And Speaker Recognition Simultaneously Using Apple AI"
-    excerpt: "Last year, Apple witnessed several controversies regarding its speech recognition technology. To provide quality control in the company’s voice assistant Siri, Apple asked its contractors to regularly hear the confidential voice recordings in the name of the “Siri Grading Program”. However, to this matter, the company later apologised and ..."
-    publishedDateTime: 2020-02-08T08:43:00Z
-    webUrl: "https://analyticsindiamag.com/automatic-speech-transcription-and-speaker-recognition-simultaneously-using-apple-ai/"
-    type: article
-    provider:
-      name: India
-      domain: analyticsindiamag.com
-    quality: 32
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/02/aim_Apple.jpg"
-        width: 1600
-        height: 800
   - title: "Global Emotion Detection And Recognition (EDR) Market 2020 Growth Analysis, Key Insights, Future Development and Statistical Forecast 2025"
     excerpt: "Scope of the Report Emotion Detection and Recognition (EDR) is typically identifying human emotion from facial expression or verbal expression. Now, with the help of AI, NLP and ML, the machine is made to understand human emotion through various software and act according to it."
     publishedDateTime: 2020-02-19T11:19:00Z
