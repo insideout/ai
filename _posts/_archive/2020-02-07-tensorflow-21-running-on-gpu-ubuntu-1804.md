@@ -27,6 +27,6 @@ images:
     height: 672
     title: "Tensorflow 2.1 running on GPU-Ubuntu 18.04"
 
-secured: "pT9zIqJoKjnf3YFJIKKZ7XoVjeRWNO71gpTuXSI1tp90NK6DPvvJ5ehZ9aYDxQSFJu/ubySoCOkXsb2RjGqMrx0MBBsb4/ijQmNPbv67BaSpaYRADFGSe7hCgWtqClt1/0sdNkt4GvJLq4p0Mlqp6WCPE46TzHOH+rXRS5VIDXCKE7tdEHy5QRVSmI2MEy/hGkfOcjE99J/cjd4bd8yAVrmCfPCGWYmA3yxuUFD1I+Z5AwRFWRJ9nPabEyyJJrIApgLFvwuCkPrHeSV2TWjO7l9S4LZpogoqegLYV9Ix5BrVyQQQUHblSipAUtnMmqss;MndxU2oy311oh2kjcc3ruQ=="
+secured: "3SfRzf5GOifqu9zb2ij8dXX/QdHyZ9uxIzxfLwMRH1gtiK44PKw3tnrcNthjyPnsIHuqdi69VYyjF8LjfAvyfTfJarhqAzu1w7Sg6AqJOAi0WsTqIon8CSiAsbzGMSDCuzzwjZRUVVtLSxKWa2vmb5JW3/EXRI9d6FiDAHJVIrR6fot2CTVkPdIzA922gItqtIejfYXbOrbWd+B1UyRPWhbFv/Cu2RY1KcNdGbrkeOez+RwqZyXO3plkv4ApmmU3UdK7GP7GnQe2NLv7++QdUx5xtBf61wMohNBA7kzzVcav4otwjtEpimfBWg+IAvij;TLQMHqCSO/MHgVFwgHS3hw=="
 ---
 

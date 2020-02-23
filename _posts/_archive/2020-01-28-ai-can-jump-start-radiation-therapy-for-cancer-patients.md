@@ -35,20 +35,22 @@ related:
       - url: "https://www.news-medical.net/image.axd?picture=2014%2f7%2fRadiation_Therapy-620x480.jpg"
         width: 620
         height: 480
-  - title: "AI could kickstart early radiation therapy for cancer patients"
-    excerpt: "Artificial intelligence (AI) could one day be used to help cancer patients start their radiation therapy sooner, thereby decreasing the odds of the cancer spreading, by instantly translating complex clinical data into an optimal plan of attack. Typically ..."
-    publishedDateTime: 2020-01-28T13:01:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2020/01/ai-could-kickstart-early-radiation-therapy-for-cancer-patients/"
+  - title: "AI can Boost Radiation Therapy for Cancer Patients"
+    excerpt: "Artificial intelligence (AI) can now instantly translate complex clinical data into an optimal plan of attack which can help cancer patients start their radiation therapy sooner and thereby ..."
+    publishedDateTime: 2020-01-28T07:21:00Z
+    webUrl: "https://www.medindia.net/news/ai-can-boost-radiation-therapy-for-cancer-patients-192787-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/ai-can-boost-radiation-therapy-for-cancer-patients-192787-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/ai-can-boost-radiation-therapy-for-cancer-patients-192787-1.htm"
     type: article
     provider:
-      name: IET
-      domain: theiet.org
-    quality: 54
+      name: Medindia
+      domain: medindia.net
+    quality: 74
     images:
-      - url: "https://eandt.theiet.org/media/10452/cancer-patient.jpg?crop=0,0.014583333333333332,0,0.49322916666666672&cropmode=percentage&width=1200&height=450&rnd=132246806200000000"
+      - url: "https://images.medindia.net/amp-images/health-images/zika-virus-kills-brain-cancer-cells.jpg"
         width: 1200
-        height: 450
+        height: 1000
 
-secured: "RxQ7K6u2v7RMHtmxftStqCP0e4OcNGACdRvP+gK7AznXU1GGF/uobubyidnENewOSg/K6GF2ypPiUS60o0jgCImEPKRhxQFEDh0KXLr4c5SXTZg+RD51hb1JlfjLMT/LwFCuYO67oKQV8HHAkb+06m060QQlwxTmpDa6XO02cjxJjrYGt3UwJVtZV94px6eQSDpYzrIes2bnRpsVZiUQpV6Chm2Wd/y8d7TDhW9cAuLt+WZvM1MrVytRWsJqxjo6BwBD6B1vwdvl/pUpw1syQM8MBHP4OeipWPy640nmi4qneJLH4f15JATW0kg7r2VK;QMyTsuatbDMsYsUbuOjfPg=="
+secured: "+nyKeTMa3TImR/6pMOsjOfofOTsZyfh49Z3S33cDwhflvWK5fgH8aqSYlL8wkCbdLRfc55/NKQQP+D9P2K6Vd9YzsPOpgYykmrtbENBtnjBXD7EaomeXWoQNT0PL0kTkPMxoA19QVH8X64NEVujLOfbqaby/edWZeGayTex3bp8Ee/wfWW/RtKpndVAMuCgC4hL9F7e9KTUg7pq9zWSOEuK3TbMGCyAvWS3LZKEF2AmcO3SDUKMNm0AuLtFyuFVW+SBHeTzOrsk6ODBjdn9OtOIshYOu0nTo1eR+VYLRMQyozbR4mhTI1r/KNRCtQFA7;MNVPNgBvyyTQ29jSBe6cfA=="
 ---
 

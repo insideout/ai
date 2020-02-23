@@ -29,7 +29,20 @@ related:
       name: Mashable
       domain: mashable.com
     quality: 57
+  - title: "A Mind-Controlled Robotic Hand With A Sense Of Touch"
+    excerpt: "Researchers Monitor Sørensen's Prosthetic LifeHand 2/Patrizia Tocci He could even adjust his grip as needed, all from his robotic sense of touch. \"What we did was to provide this tactile ..."
+    publishedDateTime: 2020-02-05T00:00:00Z
+    webUrl: "https://www.popsci.com/article/science/mind-controlled-robotic-hand-sense-touch?loc=recent&lnk=2&con=a-mindcontrolled-robotic-hand-with-a-sense-of-touch"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 39
+    images:
+      - url: "https://www.popsci.com/resizer/fpU9tcI__P5BYCC0_WtmmQNOfOQ=/1200x628/smart/arc-anglerfish-arc2-prod-bonnier.s3.amazonaws.com/public/NSO6ZVCP43CLCPK3A4UYAJGYFA.jpg"
+        width: 1200
+        height: 628
 
-secured: "rHokpAKe9pQx8K/qXjmLW1VEtO5X3i0YpAt9LZA/zipXg2EPTNzAaAbqvC61+iDidDJALLbX1uQsKHcDm9Wh+ptruLs3i9XlkXoB4Tq48W9fTR0x+6idlQrUIhoWjxxKaO9WNKtjDxmtuITJ1FE119+DIanJ7hq4lgKwOWdGWkWcmE53V2DykCy3wwUXErC5+5GmVyxDYvNIQPrdob/gaXMHtCSQac1JW8Lox7ttojuHWLEbP1TVaqVKDDjuEQkRjRLrOxkz1Xnrw170F442Cv/FPXPao8FZXAQ33MIpyI8mbqXNrvZhezHT1wsKh7pd;YI+fuQWUXrB8CJYrCfwTnA=="
+secured: "wRf5SL4OgFp3LfA0b56k4Ujs8Map4vXWGdvD94DarHruZCN8x3kBsVDMvUrW0TFJoSYoZo/UGW/ytFSJi7TLiOBMoYf6aBJIiXUS3nW21rADWnGI/bFJvwE2pf8FzGbiqOvwYorNddM2SRxYznRDGtTYc2bMnWced9hLbEtU76dbSYy10kANJ68wfdkzetDSKm0+626xlj48SxXFVj8C2OSh6T7nbNn4hCqxuUCvd74rvHgBjyeCyLt7O3rgTWEBXLDS8t/yR+LJ/89WsRvXTrcSf0Mj9C7mt/ZLwnfkei/HsBN0u044LkzI7J5gdmG9;eiPOZoXxMIzU6IrjNOT3pQ=="
 ---
 

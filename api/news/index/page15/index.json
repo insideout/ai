@@ -2,6 +2,50 @@
   "page": 15,
   "value": [
     {
+      "path": "_posts/_archive/2020-01-19-how-quartz-used-ai-to-sort-through-the-luanda-leaks.md",
+      "title": "How Quartz used AI to sort through the Luanda Leaks",
+      "excerpt": "But they had a problem: That’s a heck of a lot of files. ICIJ partnered with Quartz’s AI Studio to find a solution. We built a system using artificial intelligence to “read” all the documents and help journalists from Quartz, ICIJ and other partner organizations find the kinds of documents they expected in the cache of leaks ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://qz.com/1786896/ai-for-investigations-sorting-through-the-luanda-leaks/",
+      "ampWebUrl": "https://qz.com/1786896/ai-for-investigations-sorting-through-the-luanda-leaks/amp/",
+      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/1786896/ai-for-investigations-sorting-through-the-luanda-leaks/amp/",
+      "publishedDateTime": "2020-01-19T10:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quartz",
+        "domain": "qz.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/qz.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cms.qz.com/wp-content/uploads/2020/01/Cover-TheEngineer-V2.jpeg_effected_logo.jpg?quality=75&strip=all&w=1400",
+          "width": 1400,
+          "height": 787,
+          "title": "How Quartz used AI to sort through the Luanda Leaks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-19-how-software-developers-sparked-management-transformation.md",
       "title": "How Software Developers Sparked Management Transformation",
       "excerpt": "20 Years Ago, The IT Department Was Often The Firm’s Worst Performing Unit. Now The Rest Of The Firm Can’t Keep Up",
@@ -2108,43 +2152,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-21-machine-learning-spam-in-google.md",
-      "title": "Machine Learning Spam in Google",
-      "excerpt": "Spammers are taking advantage of Google Rich Results algorithms in order to place content at the top of Google search. Spammers are taking advantage of machine learning technologies to automatically create video content from web pages and vice versa. The same technology can be used to create text content from podcasts and podcast content from ...",
-      "heat": 159,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.searchenginejournal.com/machine-learning-spam-in-google/344359/",
-      "ampWebUrl": "https://www.searchenginejournal.com/machine-learning-spam-in-google/344359/amp/",
-      "cdnAmpWebUrl": "https://www-searchenginejournal-com.cdn.ampproject.org/c/s/www.searchenginejournal.com/machine-learning-spam-in-google/344359/amp/",
-      "publishedDateTime": "2020-01-21T02:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Search Engine Journal",
-        "domain": "searchenginejournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.searchenginejournal.com/wp-content/uploads/2020/01/machine-learning-spam-5e26c3c13dc1a.png",
-          "width": 1600,
-          "height": 840,
-          "title": "Machine Learning Spam in Google",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

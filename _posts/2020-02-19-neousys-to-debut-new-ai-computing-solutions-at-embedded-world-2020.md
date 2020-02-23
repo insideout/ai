@@ -5,8 +5,8 @@ excerpt: "Neousys will showcase state-of-the-art GPU computing platform, Nuvo-81
 publishedDateTime: 2020-02-19T16:25:00Z
 webUrl: "https://www.embedded-computing.com/news-releases/neousys-to-debut-new-ai-computing-solutions-at-embedded-world-2020"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI
   - AI Hardware
+  - AI in Autos
 
 images:
   - url: "http://share.opsy.st/5e4c5db73f540-76219803_neousys_will_demonstrate_its_latest_aiot_solutions_that_include_edge_ai_computing_platform_vision_controller_and_industrial_iot_gateways_at_embedded_world_2020.jpg"

@@ -1,25 +1,27 @@
 ---
 category: news
-title: "Panel: Add New License Photos to Facial Recognition Database"
-excerpt: "The Attorney General's Facial Recognition Task Force recommended that current Bureau of Motor Vehicle photos be added, which would include photos of people already in the database plus photos of individuals who received a license since 2011. The photos would have to meet an image quality standard. The report noted that the recommendation was ..."
-publishedDateTime: 2020-02-20T18:57:00Z
-webUrl: "https://www.usnews.com/news/best-states/ohio/articles/2020-02-20/panel-add-new-license-photos-to-facial-recognition-database"
+title: "Panel: Add new license photos to facial recognition database"
+excerpt: "COLUMBUS, Ohio (AP) — Additional and better quality driver’s license photos would be added to Ohio’s facial recognition database under a task force recommendation released Thursday. The database, used by law enforcement officers to identify both crime suspects and crime victims, currently includes driver’s license photos taken in 2011 ..."
+publishedDateTime: 2020-02-20T18:47:00Z
+webUrl: "https://apnews.com/c62c63927886647f76dad425aaf5612e"
 type: article
-quality: 49
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
   - Computer Vision
+
+images:
+  - url: "https://apnews.com/images/ShareLogo2.png"
+    width: 700
+    height: 450
+    title: "Panel: Add new license photos to facial recognition database"
 
 related:
   - title: "UCLA Abandons Plans to Use Facial Recognition After Backlash"
@@ -392,6 +394,6 @@ related:
       domain: hindustantimes.com
     quality: 2
 
-secured: "7it41VV93xhw4lHLGOpWORdMh2ZV2oo7uRGOpi2xLMymXea5shZS8e03Rl7qpBR/uWoTheE+oxkFewXuOgvMUXDaE9KJV+a3Y4Z/mP7Tr2BK4k+Ojnojgczp/nRiIw9ai5ZhuCpqWJ11C3vBFGTTLpdVEKCAoXhEHMDbypXUn29+rq05ThgTr1L14euV4AMZliaCqisxKXIG562jxtkLAMz2G55r1piAxGBkbDwz8HusQAFXHzygTpMMlAkP7jfqfAn6FbjKHzMGUYleA1F/wfVoH1a6l5+qTrUsRfCNvNgYrZD7Ua44Lgu1NmUYcg64;NYC1VU+bFfFzIjbwTybOnw=="
+secured: "XCfZgig2cvBWgm7ST6n5oPaNtw44WJ9glSE0b4c3zU9DvPKA1ZZIZFDLGqtk+9RPWwC4epjLpXtiNwtL0/MBL3wO7bXRdFZet2Mat13RV3MHgfm+NuDT9douMeIT/GNQHrcMvo9QX4RUEl2qYXpQWXxxKShAWwi55EE06Esn0LDq3qvfhgA6eFBKf7B9N+ilVfToYmw4HHLGdCX2Kz1IoIKgKyQ0dTGnbwboynyHEBQ3a0HhZzOJ5XFqqU1FwGZO3UVgliIK3Kod1ipd1uzr4h3aWUR7idDTUSrFP3UtR/3nVcA4PlIAwbMprbFrqi3J;Qn8V7X0LTelD2He7Nh4rcA=="
 ---
 

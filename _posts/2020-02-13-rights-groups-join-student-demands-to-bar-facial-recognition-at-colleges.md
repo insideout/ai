@@ -276,15 +276,6 @@ related:
       - url: "https://www.twincities.com/wp-content/themes/twincities/static/images/twincities.jpg"
         width: 1280
         height: 720
-  - title: "Panel: Add New License Photos to Facial Recognition Database"
-    excerpt: "The Attorney General's Facial Recognition Task Force recommended that current Bureau of Motor Vehicle photos be added, which would include photos of people already in the database plus photos of individuals who received a license since 2011. The photos would have to meet an image quality standard. The report noted that the recommendation was ..."
-    publishedDateTime: 2020-02-20T18:57:00Z
-    webUrl: "https://www.usnews.com/news/best-states/ohio/articles/2020-02-20/panel-add-new-license-photos-to-facial-recognition-database"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
   - title: "UCLA cancels facial recognition amid backlash over privacy likening use to George Orwell's '1984'"
     excerpt: "UCLA cancelled a plan to use facial recognition technology on campus after students protested over privacy concerns, including one critique that likened use of the digital surveillance to George Orwell's book, '1984.' The school issued a statement on Wednesday, saying that its plan for using facial recognition was scrapped due to the privacy ..."
     publishedDateTime: 2020-02-20T19:16:00Z
@@ -326,6 +317,19 @@ related:
       name: Sydney Morning Herald
       domain: smh.com.au
     quality: 39
+  - title: "Panel: Add new license photos to facial recognition database"
+    excerpt: "COLUMBUS, Ohio (AP) — Additional and better quality driver’s license photos would be added to Ohio’s facial recognition database under a task force recommendation released Thursday. The database, used by law enforcement officers to identify both crime suspects and crime victims, currently includes driver’s license photos taken in 2011 ..."
+    publishedDateTime: 2020-02-20T18:47:00Z
+    webUrl: "https://apnews.com/c62c63927886647f76dad425aaf5612e"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://apnews.com/images/ShareLogo2.png"
+        width: 700
+        height: 450
   - title: "UCLA cancels on-campus facial recognition program after backlash"
     excerpt: "This article, UCLA cancels on-campus facial recognition program after backlash, originally appeared on CNET.com. UCLA will not go forward with a facial recognition program, and will prohibit the technology's use on campus,"
     publishedDateTime: 2020-02-20T06:20:00Z

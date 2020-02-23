@@ -41,16 +41,7 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Cognitive computing in Healthcare Market Size, Share, Growth,Trends,Forecast 2025"
-    excerpt: "The wide popularity of IBM Watson and Cognitive Services by Microsoft among healthcare providers is accentuating the growth of the market. Leveraging the potential of self-learning systems to look ..."
-    publishedDateTime: 2020-01-29T12:11:00Z
-    webUrl: "https://www.openpr.com/news/1912885/cognitive-computing-in-healthcare-market-size-share"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
 
-secured: "tIxBUfheVTrjMcuIc2bHhT9JtM7xoP07irWFq3xC7pP6GITDp/+duW7vBTb2d3VBbf+wgbgkof71Vsg77A74RnVbYbe3LEWM/HjzPYncXfYuUp9S2a1bNUtMNg83JML6neMj89FbfcnYMDBz0bPbrYRXimDzy/EQgUnSmOrEQIKDJgmfVuw4jrXPtLyPmVCKmJ+o9B7+dVJrljtujSQ8toOVhbHueVqZ800skdCb+4h+10QhOImayxghXrGrHnG3Gt21kFDmg/oHbED/7D379juBNmKoOA48bZIXJdhBERN+ulOULc08R1/BbsMl9ZeB;4iZyY+DlsT8m5QSQ4wf/zA=="
+secured: "VY4x8WoD+T0PxEh0cNroT1J7ozjkzw0fGLVvrVtVlxHlVuFTqsyAfZ1r+hbt/s8KtcOquTq4aD8a9N0hMyGg5jMz+HtGTVoBda8s/p0hkTwUeuFSmkQ8eTj1MTGetwdo+hVnkrk3aeY+6VYvtBNa2PS2Od465rUzdQ5TQdBqZsaOalKAN3LGV5ghok4wy+Z8TiQz+Vep/BRBhYoh3sev7FF2mzoPrknfGp2CmU/fSObxUQL/AvVj0Xma/bPJILA9/pk1IRChZA/5ANjIAQ/0Hc/ptnRDv/j/XxH6Yz/iMWnyCBLYpAkqdW+ULPC7enm6;LiecOVVk0dI6wUHZXIGZHw=="
 ---
 
