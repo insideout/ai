@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/monash-university-researche
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/monash-university-researchers-develop-ai-aimed-at-improving-suicide-prevention/"
 type: article
 quality: 83
-heat: 113
+heat: 123
 published: true
 
 provider:
@@ -29,6 +29,19 @@ images:
     title: "Monash University researchers develop AI aimed at improving suicide prevention"
 
 related:
+  - title: "New Research Says Artificial Intelligence Can Detect and Prevent Suicides"
+    excerpt: "Could artificial intelligence (AI), or intelligence demonstrated by machines, possibly help to prevent these deaths? As researchers in psychiatry, in the Canadian Biomarker Integration Network for ..."
+    publishedDateTime: 2020-02-23T19:47:00Z
+    webUrl: "https://nationalinterest.org/blog/buzz/new-research-says-artificial-intelligence-can-detect-and-prevent-suicides-124836"
+    type: article
+    provider:
+      name: The National Interest
+      domain: nationalinterest.org
+    quality: 40
+    images:
+      - url: "https://nationalinterest.org/sites/default/files/main_images/fb123%20%281%29_8.jpg"
+        width: 1305
+        height: 789
   - title: "Researchers Use Advanced AI to Predict Extreme Weather"
     excerpt: "Predicting extreme weather is a complex science, and an area where artificial intelligence (AI) machine learning, specifically the pattern-recognition capabilities of deep learning, can make a difference in forecasting accuracy. A recent peer-reviewed Rice University study published in February 2020 in the Journal of Advances in Modeling Earth ..."
     publishedDateTime: 2020-02-22T16:03:00Z

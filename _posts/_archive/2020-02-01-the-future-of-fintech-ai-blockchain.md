@@ -27,6 +27,6 @@ images:
     height: 224
     title: "The Future of Fintech: AI & Blockchain"
 
-secured: "ZLP3PKnh7qBlJMD41l6sfez4pbvMNwUNxokukLnX50uCrY3XAYkMhhRMJwc+aJcv0tppNc5kKz5Nk5l7a6htREPBwTp3wfNJ+1VR9dIs0GxO91duSJcThuN4aezqacd3FxbYb0exxq72BCwmooZ98U2hrEGhiMeYPCWSEgSAsYLBdeCg1qUpwno7Iu3IXzcCQFcl6YpdRBd4RhBMx9SluEwHnLH6ZJmHQk4UVBGXXndS7t3CSDMUFue5NNVnCo4jsVlpC2ApaRTNP0muD71SN1lHcuniC71ktKDhQ75uFK9HaFEptbeKXVkU/AuAoQCZ;7j+j9kiN4il/7lNzp9V2ZQ=="
+secured: "LmjjpcGO6lKGPWxlEHacOEfXEeOuG/jzqgbzyWMBtggwqdaOBwWs3zYyvNM9Gt2CmJddsVgzKc2jjHMeRdXQw22tPzYYaAhVk/1ZVvysZKGJCBFgO5aVOJkI+Ne6ixC4wP3LcrB0eyWy/xRf7XPaSkZLz6u3HCFInI87wCh0PTC6mFprPq0WbPpBEPknNy7cbyvB5/xQ3vcodEf8wIlkYo7aNLYwzN+Nxjy+uEHB+zaP6dz5afuVdHZv1xgxwokYZvv3o+x2D76UwcQub66qR9ttjrDAjH6p2dBnv6Wpnyu+nUWBQ7AtdFMnpINnUs0q;NKYd4LtfXA/7VnI6rRJNnw=="
 ---
 

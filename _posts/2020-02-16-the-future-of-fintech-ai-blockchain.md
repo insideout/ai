@@ -80,21 +80,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e4411977ea82f00072814e2%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5000%26cropY1%3D257%26cropY2%3D3069"
         width: 1200
         height: 675
-  - title: "A Vision For Fintech In 2020: The Future Looks Bright For BFSI Sector"
-    excerpt: "These two pillars being the base of fintech 2020 will build a world of ease for daily consumers with AI, Blockchain and IT working more wonders than they had begun within 2019. The year gone by played a key role in the world-wide fintech time capsule. The fintech conversation of 2019 incepted with the much-awaited advent of 5G, the rise of ..."
-    publishedDateTime: 2020-02-09T02:55:00Z
-    webUrl: "https://inc42.com/resources/a-vision-for-fintech-in-2020-the-future-looks-bright-for-bfsi-sector/"
-    ampWebUrl: "https://inc42.com/resources/a-vision-for-fintech-in-2020-the-future-looks-bright-for-bfsi-sector/?amp&utm_medium=Social&utm_source=telegram"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/resources/a-vision-for-fintech-in-2020-the-future-looks-bright-for-bfsi-sector/?amp&utm_medium=Social&utm_source=telegram"
-    type: article
-    provider:
-      name: inc42.com
-      domain: inc42.com
-    quality: 44
-    images:
-      - url: "https://i2.wp.com/cdn.inc42.com/wp-content/uploads/2020/02/Untitled-design-2020-02-04T012522.531.jpg?fit=1200%2C628&#038;ssl=1"
-        width: 1200
-        height: 628
   - title: "AI and the future of your mind"
     excerpt: "Susan Schneider, associate professor of philosophy and cognitive science and director of the AI, Mind and Society (AIMS) Group at UConn, has gained a national and international reputation for her writing on the philosophical implications of artificial intelligence (AI). She writes about the nature of the self and mind, AI, cognitive science ..."
     publishedDateTime: 2020-02-18T14:28:00Z
