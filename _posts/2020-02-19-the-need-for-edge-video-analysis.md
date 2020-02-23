@@ -37,6 +37,19 @@ related:
       - url: "http://share.opsy.st/5e4ff5e62b6d1-Picture1.png"
         width: 972
         height: 650
+  - title: "Illumitex pivots to AgTech computer-vision focus, away from LEDs"
+    excerpt: "Illumitex, the digital horticulture company, is pivoting to become a pure AgTech computer-vision AI company that deploys edge vision systems, edge AI, and cloud services to provide visualization and augmented intelligence for controlled environment agriculture. “With installations ramping, we are seeing that FarmVisionAI is more valuable to ..."
+    publishedDateTime: 2020-02-21T15:01:00Z
+    webUrl: "https://www.producegrower.com/article/illumitex-agtech-computer-vision-ai/"
+    type: article
+    provider:
+      name: Produce Grower
+      domain: producegrower.com
+    quality: 24
+    images:
+      - url: "http://www.producegrower.com/fileuploads/image/2020/02/21/illumitex.png?w=736&h=414&mode=crop"
+        width: 736
+        height: 414
 
 secured: "DagzCZGxVYWwZdGKC2HhFA9frBJaMJubMT1SeSGqLon+fJOLg8os8vbf/NReJ2A0Vg6n3xi61rWTpXKM2QKBgE8vAXEkqkG2v/nTlonEPxjEWD9tYp1t5DxW15cmXg1t0oLQ6tklSZZoqfiv7pfKlkRGT+Zz1xQEv3wT95EAF4OxomVGu2Uoa6MGDsJk7ELL3lk/MP4kwJWNTiK2vKUcTvARwi5EhL9ghujIzK7R/52ta6Yv9VSkqz5Mi6Q8AN8Kp5qvsEXCS4vCRYDt2xbkchep6BpWrVsZJGizi95uc72gwgDJnqaRJCFnaENDWxOemHvGX/sOOSMXRG/SeQTEBqoZ0utP3kRPacKdZlO+wXnffoN4FnuVlMyvzjM8DlNqmeKozhMX/whBtDMjdIwVG2+Dkokd0asQb9EX1mYTI5iHrm+lOi+idiJLYFgt7hzWs2eFCEEsXKFRxqRq5m/PA+EhGuE0BdePN7HrK0XUlSM=;yFqBCkoJkZ83CGpAkZ9MRw=="
 ---

@@ -49,6 +49,17 @@ related:
       - url: "https://www.rawstory.com/wp-content/uploads/2020/02/A-colored-electron-microscope-image-of-MRSA.-NIH-NIAIDflickr-CC-BY.jpeg"
         width: 640
         height: 315
+  - title: "Researchers use artificial intelligence to develop powerful new antibiotic"
+    excerpt: "Researchers at MIT have used artificial intelligence to develop a new antibiotic compound that can kill even some antibiotic-resistant strains of bacteria. They created a computer model of millions of chemical compounds and used a machine-learning algorithm to pick out those which could be effective antibiotics, then selected one particular ..."
+    publishedDateTime: 2020-02-23T17:00:00Z
+    webUrl: "https://www.digitaltrends.com/cool-tech/mit-antibiotic-ai-machine-learning/"
+    ampWebUrl: "https://www.digitaltrends.com/cool-tech/mit-antibiotic-ai-machine-learning/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/mit-antibiotic-ai-machine-learning/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 65
   - title: "AI discovers new antibiotics effective against certain diseases"
     excerpt: "Artificial intelligence has been used to discover new antibiotics that treat resistant strains such as C. difficile and Acinetobacter baumannii (pictured) © FT montage; Janice Carr/CDC Share on Twitter (opens new window) Share on Facebook (opens new window) Share on LinkedIn (opens new window) Share on Whatsapp (opens new window) Artificial ..."
     publishedDateTime: 2020-02-20T06:00:00Z

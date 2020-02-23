@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Artificial intelligence used to discover powerful new antibiotic"
-excerpt: "Scientists have used artificial intelligence to discover a new type of antibiotic which could kill some of the world's most dangerous drug-resistant bacteria. A team from Massachusetts Institute of Technology (MIT) say their machine-learning algorithm was able to identify a powerful new antibiotic compound which did not develop any resistance ..."
-publishedDateTime: 2020-02-21T07:51:00Z
-webUrl: "https://news.sky.com/story/artificial-intelligence-used-to-discover-powerful-new-antibiotic-11939198"
-ampWebUrl: "https://news.sky.com/story/amp/artificial-intelligence-used-to-discover-powerful-new-antibiotic-11939198"
-cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/artificial-intelligence-used-to-discover-powerful-new-antibiotic-11939198"
+title: "Researchers use artificial intelligence to develop powerful new antibiotic"
+excerpt: "Researchers at MIT have used artificial intelligence to develop a new antibiotic compound that can kill even some antibiotic-resistant strains of bacteria. They created a computer model of millions of chemical compounds and used a machine-learning algorithm to pick out those which could be effective antibiotics, then selected one particular ..."
+publishedDateTime: 2020-02-23T17:00:00Z
+webUrl: "https://www.digitaltrends.com/cool-tech/mit-antibiotic-ai-machine-learning/"
+ampWebUrl: "https://www.digitaltrends.com/cool-tech/mit-antibiotic-ai-machine-learning/?amp"
+cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/mit-antibiotic-ai-machine-learning/?amp"
 type: article
-quality: 57
+quality: 65
 heat: -1
 published: false
 
 provider:
-  name: Sky
-  domain: sky.com
+  name: Digital Trends
+  domain: digitaltrends.com
+  images:
+    - url: "/assets/images/organizations/digitaltrends.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
-
-images:
-  - url: "https://e3.365dm.com/20/02/1600x900/skynews-e-coli-bacteria-antibiotics_4926241.jpg?20200221070106"
-    width: 1600
-    height: 900
-    title: "Artificial intelligence used to discover powerful new antibiotic"
 
 related:
   - title: "Artificial intelligence yields new antibiotic"
@@ -51,17 +49,6 @@ related:
       - url: "https://www.rawstory.com/wp-content/uploads/2020/02/A-colored-electron-microscope-image-of-MRSA.-NIH-NIAIDflickr-CC-BY.jpeg"
         width: 640
         height: 315
-  - title: "Researchers use artificial intelligence to develop powerful new antibiotic"
-    excerpt: "Researchers at MIT have used artificial intelligence to develop a new antibiotic compound that can kill even some antibiotic-resistant strains of bacteria. They created a computer model of millions of chemical compounds and used a machine-learning algorithm to pick out those which could be effective antibiotics, then selected one particular ..."
-    publishedDateTime: 2020-02-23T17:00:00Z
-    webUrl: "https://www.digitaltrends.com/cool-tech/mit-antibiotic-ai-machine-learning/"
-    ampWebUrl: "https://www.digitaltrends.com/cool-tech/mit-antibiotic-ai-machine-learning/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/mit-antibiotic-ai-machine-learning/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 65
   - title: "MIT researchers use artificial intelligence to identify powerful new antibiotic"
     excerpt: "In brief: Researchers at MIT are harnessing the power of artificial intelligence to create powerful new drugs capable of killing disease-causing bacteria, some of which are resistant to all known types of antibiotics. Only a small number of new antibiotics have been developed over the past few decades due to the cost and time associated with ..."
     publishedDateTime: 2020-02-21T19:27:00Z
@@ -88,6 +75,21 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F7bf31b7c-533c-11ea-8841-482eed0038b1?source=google-amp&fit=scale-down&width=500"
         width: 500
         height: 281
+  - title: "Artificial intelligence used to discover powerful new antibiotic"
+    excerpt: "Scientists have used artificial intelligence to discover a new type of antibiotic which could kill some of the world's most dangerous drug-resistant bacteria. A team from Massachusetts Institute of Technology (MIT) say their machine-learning algorithm was able to identify a powerful new antibiotic compound which did not develop any resistance ..."
+    publishedDateTime: 2020-02-21T07:51:00Z
+    webUrl: "https://news.sky.com/story/artificial-intelligence-used-to-discover-powerful-new-antibiotic-11939198"
+    ampWebUrl: "https://news.sky.com/story/amp/artificial-intelligence-used-to-discover-powerful-new-antibiotic-11939198"
+    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/artificial-intelligence-used-to-discover-powerful-new-antibiotic-11939198"
+    type: article
+    provider:
+      name: Sky
+      domain: sky.com
+    quality: 57
+    images:
+      - url: "https://e3.365dm.com/20/02/1600x900/skynews-e-coli-bacteria-antibiotics_4926241.jpg?20200221070106"
+        width: 1600
+        height: 900
   - title: "Artificial Intelligence Finds A Powerful New Antibiotic For The First Time"
     excerpt: "Artificial intelligence (AI) has proved to be a useful ally in the battle against antibiotic resistance. A powerful antibiotic that’s even able to kill superbugs has been discovered thanks to a machine-learning algorithm Researchers from MIT used a novel computer algorithm to sift through a vast digital archive of over 100 million chemical ..."
     publishedDateTime: 2020-02-21T12:57:00Z
@@ -161,6 +163,6 @@ related:
       domain: news-medical.net
     quality: 17
 
-secured: "FVswduN4H/r3rgstE9d0X5QzwbHxcPC/5Y1v4J0h12Gjv4zlJ5mSiGNy5TFgGFNj5LagAreKx/IDQqGTZ7+AkHiybCrVhNk85eQ22zkAmu0PXpQL0e9g6XvTtTyELlUDUg2ydXwmBk8nkISn4vN4IdrMQ2VsRt0jGQTzRsuoCY53zJWEDKWcIczlV+sBKI3Eb3Oo2ICtaGGmgqhWI9FoeXXVoD9DQvMbe1o0YUTRRh4kzByHZ78FUS1xXEzJGxP2rQCBl6pvruQw2Tj4Ps8Tw5CG6RtfriM/RsyaPQn6BHaiqn2U/PM0idrOx74bvcCD;L/lGPiU3fqbjrRIamB6rIA=="
+secured: "O45B0jVGkJ54F2dibCaMX5g5udHulBRqiDxLXyea7i4dnk8pnsRtL7BTZb6ilV6EqLC+rPOWg39RytnAPw34cU7C+AiM+tnqQfSY5YCH6oHVbNb4BsNGu6tWD9HdpFHyodcp+ns7bHQoZnZG0gKDD7nS1qyDH6nXcQIs7OWgVUVJad4rqkzL1lzrAxth1y4644aV25cZO9bM/r5MVqJuYYY4dQYT7r6BzZ94nnevjHyef8ORuCieGc6y1OQrSNTruNXa1chJUp+53x8E3/fSyYbKxhSB51n+ByP58n50T1Or9oVXkg4MdjpC7dENRL/j5w3Owp4V80dxVmEoogFr2qBmi6kScaLfDVIksOZC6OBGy23QMEQvzqDOvIMeMPV+/Jy5e9/i8YojP+CqGPFSHLPVA51Lg3rli2zemLWRn+7OChB3JXyyJXZUIxNKbXdmzJggYUTjBM2pLcODTE+ONjRkbK9J3kCN8G4DeP9piOA=;/DG8XUxDc3h+KAfbYquAhw=="
 ---
 

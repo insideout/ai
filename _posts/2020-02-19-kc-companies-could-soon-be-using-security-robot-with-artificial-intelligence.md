@@ -1,7 +1,7 @@
 ---
 category: news
 title: "KC companies could soon be using security robot with artificial intelligence"
-excerpt: "It's able to patrol businesses and a local company hopes businesses in Kansas and Missouri will start using it ... “Simon,” and other Cobalt Robots are autonomous with artificial intelligence designed to detect safety hazards and intruders."
+excerpt: "It's able to patrol businesses and a local company hopes businesses in Kansas and Missouri will start using it. Kenton Brothers Inc. is already ... “Simon,” and other Cobalt Robots are autonomous with artificial intelligence designed to detect safety hazards and intruders. “It combines human intellect with superhuman sensors ..."
 publishedDateTime: 2020-02-19T02:36:00Z
 webUrl: "https://www.kctv5.com/news/local_news/kc-companies-could-soon-be-using-security-robot-with-artificial/article_a85c11fe-52c0-11ea-bf6f-872f9cacdda8.html"
 ampWebUrl: "https://www.kctv5.com/news/local_news/kc-companies-could-soon-be-using-security-robot-with-artificial/article_a85c11fe-52c0-11ea-bf6f-872f9cacdda8.amp.html"
@@ -30,6 +30,6 @@ related:
       domain: 13newsnow.com
     quality: 49
 
-secured: "n3P64scIYDjug0WblH+KqDSFhYkyg+Mrk/KoNbVwicyIWqK7FwKHsxjgqsSmN1SrZlznTOwGavzOfuD97mTFoANn2y4hwxP1OGPwn/6nZpTayCynhkA5r0X2ZxXf67vyleBymhAqKMLvercjGGbdNX0xpDgfnEt1SoHfWEleQI1u4QyP7dMBm/9lg18lGHDbf//SoESL3lWFpMx0I5UCT4xRuOAhmHehXfwAzCcfpuomaoGu+lH0XgRaTEq7Fin7sH/AckrieNQ8nV68Zbz94bD9hwvss0ViLBiVj45F9X3s5zF0diMQWAVGcU75jLi48W+FmoxS9EDbNhJWBsgKv7iNSPXMJe3RDg+DZHJuDsBCCY5C2adsxMpCFSLs6mb2DhH8lya8+Floh9GFrpYAZtZJu7hUuQyMb4eOkcQqsBOeEeb+uT3Yr61MLW/SJpee6MfnTYH30N6UHWr605snLunV/c9IS16HF7kdmCGDI34=;ZFnXkR0vrPgiP1U7I5fHIg=="
+secured: "KEI6TCJv3dLboQZlYqnyArj9xO9lcs0GAqzLtc3o/EgMbA5j81pFkjvJG2UF+gshW0FeHc3LHl3vh+nxDwnrgdgMtuyo/5FIL6pN0IKMwPdKxvmqaFOJhIJNMeULuTEs7QkFZ/1pjvNfRAsy4RBAll0QlkP/5t9fD6waWiBnhNZlk+6PSzHYHLl2nsoYMXzm3yx65ALa2O04D5073s4zYNnhc9Q3rwHQLP///1ABzDoAe/5rlbBS9MG+kJvYl9trpCiwNwSQ/QCJRjIbVBWSCmQldzssUOJ5w8px1+xMS6yzk+1UJqLGq05XuyTTshHH7j0/8z9zo1z9i+tbHBfyA4nP+fzAkj2CjAzqI+E2lkfvl242cFsMyzYWrEOEq6l1J3F2JMTD3iUwL//40+nfsnW/T6uZk8zZshJ5uNuOUakVlOV+dcaYricGYqVydfDWW61jNwZDKVIdmXOTlEi4CnR8OLcyIJi0RXIBnXfPDZo=;ACQ+EbpgSxNCvX41tRMzmw=="
 ---
 

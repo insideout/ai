@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-11T05:10:00Z
 webUrl: "https://www.fastcompany.com/90462023/feeling-brave-try-these-disturbing-jell-o-mold-recipes-created-by-a-bot?partner=rss"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -21,21 +21,6 @@ images:
     width: 1280
     height: 720
     title: "Jell-O mold recipes created by AI are downright disturbing"
-
-related:
-  - title: "Artificial Intelligence Does Jell-O Recipes"
-    excerpt: "Janelle Shane works with artificial intelligence, experimenting with training neural networks to generate data that may or may not resemble anything in the real world. She posts the funniest results on her blog AI Weirdness. Shane put out a call for mid-century American recipes (the kind that rely on Jell-O and other processed foods ..."
-    publishedDateTime: 2020-02-09T00:42:00Z
-    webUrl: "https://www.geeksaresexy.net/2020/02/08/artificial-intelligence-does-jell-o-recipes/"
-    type: article
-    provider:
-      name: Geeks Are Sexy
-      domain: geeksaresexy.net
-    quality: 39
-    images:
-      - url: "https://i5k2d6q9.stackpathcdn.com/wp-content/uploads/2020/02/aquabunny.png"
-        width: 500
-        height: 331
 
 secured: "Pcn/HxLPlz2xUBKaMr2c1h/1E0sjCyjqPeEn/Rw5WimrEtJaJwVWUm6kfB5wgc91cgLZa035pZwzZ7ncryS9NoxSUHf8DnKQQMFywm09f3/SQo6SDszCcd8O0KVew3sV6cogoRIXouetkX3B3mKJBmXpI6Z6j0v6oClTT+zH8hdYm30fiUX5H3GWAOaWzFeAWdwpsbQVDzHapzTpZSWME9RljN0rChClhm5ysC91vQRMqPr1Y2wGfml1dMbVOT+ucx1wi/IMZxZpAyEehNwfG5tk0OYnh50u06e+WI6IrcvGlg235Tiv4J4+/0o15/2NO3qKtjkbBO/L3cchU3Qk1dndPl9BybaMXm2SbEvNQjWsj2jgKf3qyOdW/2fO6rZ9p8aN/1nD2ZedpK3Mkp4M/7jLDikDOkPMKW7ymN0Yq6d6tqwdOtZD4vMcKdBNk0jDTvv4AYr0NdtxfZtptGUm+R47gD/p3zcu5k6YeZQja6w=;4AUqiOHnqkdVFrCAQiPpAw=="
 ---

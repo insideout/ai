@@ -49,6 +49,6 @@ related:
       domain: cbslocal.com
     quality: 39
 
-secured: "8xc1211dK7IMjxFlo247uYpuXft6+y+Djc1fTK1vcxRQfJhxUpun2TpMzFoGz+eXR/M7WVsJMl9aIaqwHeVQO0eArPVdWdDb/940aXBM/gKI1pDKDYCv4c3AxYzhg7dXEGZaGk68qFkdWZQeocS0fwotIAiCGvtjL3oBmn5fb2MZ3AgdeGzH7aZRQdu8lCnZQIEGoomRrlcIM2OJavw0mM/3GwnBVYmIfJMegE+Cr3jsDn/d6DAgzcV7P+1aiefIKd1702mqbA9g19FWXxGJLjH1oUQktSITcV+UFIM/4OGeMVQ6VIAG1Vdz5Hxjjz+f;/Ie3LngHOILAM96cvJYp9Q=="
+secured: "m0k+p7+/WR7c2rFi+0hHmhxImGa9mDFWtUcfHVPIxrES24T8tI9/Qq7LSKUlrdD982W9VylHYfX3Lu/RHg2BUAAp4M+ip6sCg5Qo5xkHRYnhQ90+K8L3EjVwVa532z09KoSLeX0Nm1i36yEVzaleGogsck0VUC1aTuabaIan+o8kUiUhOwSlDeGBfFNKpGnBZjKWjlmCbf8cF2GdOeCNyDhe8iRU0r8KmqTCh8tMHq992KYaWzd9KtML+6tiN/Tb34mE+2fkak6U4Elbssmm23eRToJNfJ2Nt77nOnEXUd0NlHJhdppldl/tuz2POtiK;DUsQIvvuJiVgnYZ91jSfVw=="
 ---
 

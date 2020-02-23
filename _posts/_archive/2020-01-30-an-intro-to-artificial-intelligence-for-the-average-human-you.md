@@ -23,6 +23,6 @@ images:
     height: 345
     title: "An intro to artificial intelligence for the average human (you)"
 
-secured: "fxWle7+kiuAi539eZ9TwNfr38egSFozlnQDvnBe51igQCUUInxs0sd3XjcBgdYKY8/QfbYqlvI/hsRH2OefTUcww+RftlHzDyyLFp0tdaqUa8w51a0y5w32+HX1ggIOrAJyZJt89bLkbbqYIT5UNTVufspC1/TkupihEhygYTH9Cse+lLmkO3QSvvMrl64nV1Sp7qFc4Jw4kOp7C7uyrfF8qBUOGXjnf2j4VEbI44IK+IQKi9XNbNQqHlmZy746qpX3dpRSHqRhsXZeqpjPrlAxl0j47LHc7BqK2cxE2u9lC2oyDiLaUv8bgmBclYmtZ;VUYB0yf91699JKpxl5DWWg=="
+secured: "gznQXTlpqYSx7DnXS5I795iYPoleIs6RTV7QixFrRQ+PQHQnz62Ads/59iyLvPlzf3fhs0vGSk9qLvl5Q9ZDiY2K9NkDQrtDQi8bTnQYunVF9S44igfz34ndhnSBxo3EYmtWzi/PpCI9Wm9hNWFl91hT9MH2+ZQoVErUp03+Zo4mInzNS2UZwFABGiGkQL0vNT4zTU0rgQnVH7FDXXTBzPzbhfDkrzovY+sbkZwvYNc1YZKB/Yn+SRB58uxuo5ZlliY3mtjZk7wsfIfS1JgnOGJmWLOTEk969iWLRFf1A0WMeJIO5YKZHK4liuEKg/fE;HoxklwQ15Xc7imxuYTkTXg=="
 ---
 
