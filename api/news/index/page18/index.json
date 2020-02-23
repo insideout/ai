@@ -2,6 +2,51 @@
   "page": 18,
   "value": [
     {
+      "path": "_posts/_archive/2020-01-23-what-cruises-self-driving-vehicle-reveals-about-gms-giant-ev-ambitions.md",
+      "title": "What Cruise’s self-driving vehicle reveals about GM’s giant EV ambitions",
+      "excerpt": "As Electrek reported, Cruise yesterday unveiled its van-like, self-driving, all-electric vehicle. For the past four years, Cruise (a GM subsidiary) has been repurposing Chevy Bolts — including its four-generation self-driving Bolt that doesn’t have a steering wheel. But now GM’s Cruise has the Origin. The two essential things to consider ...",
+      "heat": 93,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://electrek.co/2020/01/22/what-cruises-self-driving-vehicle-reveals-about-gms-giant-ev-ambitions/",
+      "ampWebUrl": "https://electrek.co/2020/01/22/what-cruises-self-driving-vehicle-reveals-about-gms-giant-ev-ambitions/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/01/22/what-cruises-self-driving-vehicle-reveals-about-gms-giant-ev-ambitions/amp/",
+      "publishedDateTime": "2020-01-22T16:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://electrek.co/wp-content/uploads/sites/3/2020/01/origin-sunset-2000.jpg?quality=82&strip=all&w=1000",
+          "width": 1000,
+          "height": 500,
+          "title": "What Cruise’s self-driving vehicle reveals about GM’s giant EV ambitions",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-23-why-your-business-should-focus-on-understanding-speech-over-voice-recognition.md",
       "title": "Why your business should focus on understanding speech over voice recognition",
       "excerpt": "If you have ever had to repeat “yes” six times to your automated telephone banking assistant, you’d be forgiven for thinking that automatic speech recognition (ASR) has a long way yet to go.",
@@ -1875,6 +1920,43 @@
       ]
     },
     {
+      "path": "_posts/_archive/2020-01-27-ai-can-help-cancer-patients-start-radiation-therapy-sooner.md",
+      "title": "AI can help cancer patients start radiation therapy sooner",
+      "excerpt": "Artificial intelligence can help cancer patients start their radiation therapy sooner - and thereby decrease the odds of the cancer spreading - by instantly translating complex clinical data into ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.news-medical.net/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx",
+      "publishedDateTime": "2020-01-26T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.news-medical.net/image.axd?picture=2014%2f7%2fRadiation_Therapy-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": "AI can help cancer patients start radiation therapy sooner",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-27-ai-license-plate-readers-are-cheaperso-drive-carefully.md",
       "title": "AI License Plate Readers Are Cheaper—So Drive Carefully",
       "excerpt": "Conventional ALPRs are also getting a boost from AI. Canada’s Genetec, a leading supplier of surveillance and security technology, recently announced a new ALPR camera for use on police vehicles that includes an Intel chip designed to power image-processing neural networks. Genetec says that will make the device better at reading plates at ...",
@@ -2041,94 +2123,6 @@
           "width": 1200,
           "height": 675,
           "title": "Apple's $200M acquisition of Xnor.ai: A snapshot into our AI-on-the-edge future via your iPhone",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-27-berlin-venture-studio-merantix-raises-27m-fund-to-concentrate-on-ai-startups.md",
-      "title": "Berlin venture studio Merantix raises $27M fund to concentrate on AI startups",
-      "excerpt": "Berlin-based Merantix, a venture studio which specifically concentrates on building ‘AI companies’, says it has raised a new €25M fund ($27M). Anchor investors include Trusted Insight, the Robert Wood Johnson Foundation, the W.K. Kellogg Foundation, as well as further family offices from Europe. Co-founder Adrian Locher said in a ...",
-      "heat": 194,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/01/27/berlin-venture-studio-merantix-raises-27m-fund-to-concentrate-on-ai-startups/",
-      "ampWebUrl": "https://techcrunch.com/2020/01/27/berlin-venture-studio-merantix-raises-27m-fund-to-concentrate-on-ai-startups/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/27/berlin-venture-studio-merantix-raises-27m-fund-to-concentrate-on-ai-startups/amp/",
-      "publishedDateTime": "2020-01-27T06:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/01/Rasmus_Adrian_Davos.jpg?w=605",
-          "width": 605,
-          "height": 340,
-          "title": "Berlin venture studio Merantix raises $27M fund to concentrate on AI startups",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-27-bzigo-uses-ai-and-lasers-to-locate-mosquitoes-in-your-home.md",
-      "title": "Bzigo Uses AI And Lasers To Locate Mosquitoes In Your Home",
-      "excerpt": "It can detect mosquitoes within seconds of when they enter a room, at a distance of up to 8 meters (26 feet), even in the dark. Once detected, the system trains a laser pointer on the bug and sends a smartphone notification to the system owner.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/jeffkart/2020/01/27/bzigo-uses-ai-and-lasers-to-locate-mosquitoes-in-your-home/",
-      "ampWebUrl": "https://www.forbes.com/sites/jeffkart/2020/01/27/bzigo-uses-ai-and-lasers-to-locate-mosquitoes-in-your-home/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeffkart/2020/01/27/bzigo-uses-ai-and-lasers-to-locate-mosquitoes-in-your-home/amp/",
-      "publishedDateTime": "2020-01-27T09:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e2f20f18b6cf300071d10bd%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Bzigo Uses AI And Lasers To Locate Mosquitoes In Your Home",
           "attribution": null
         }
       ],

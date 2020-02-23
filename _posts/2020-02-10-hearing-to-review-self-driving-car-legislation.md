@@ -234,19 +234,6 @@ related:
       - url: "https://thehill.com/sites/default/files/uber_self-driving_car_04032018_1.jpg"
         width: 980
         height: 551
-  - title: "Waymo self-driving vehicle in collision in Phoenix suburb"
-    excerpt: "TEMPE, Ariz. (AP) — A Waymo self-driving vehicle was involved in a collision with another vehicle in a Phoenix suburb and the driver of the Waymo vehicle was taken to a hospital with non-life threatening injuries,"
-    publishedDateTime: 2020-02-09T03:32:00Z
-    webUrl: "https://www.herald-dispatch.com/ap/ap_business/waymo-self-driving-vehicle-in-collision-in-phoenix-suburb/article_92c577c4-c2b3-5bc3-b384-d67125bbb2e3.html"
-    type: article
-    provider:
-      name: The Herald-Dispatch
-      domain: herald-dispatch.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/herald-dispatch.com/content/tncms/custom/image/10aba90e-dd9e-11e6-8368-ebae1dfc24e1.png?resize=600%2C600"
-        width: 600
-        height: 600
   - title: "House Panel to Hold Hearing to Advance Rules on Self-Driving Vehicles"
     excerpt: "A U.S. House panel will hold a hearing Tuesday on autonomous vehicles as lawmakers try to hammer out legislation to advance self-driving cars. An Energy and Commerce subcommittee overseeing automotive issues will hear from officials of trade groups representing automakers and tech companies, as well as safety advocates and a San Francisco ..."
     publishedDateTime: 2020-02-10T14:44:00Z

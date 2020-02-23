@@ -21,6 +21,6 @@ topics:
   - AI
   - AI in Healthcare
 
-secured: "O1jCVZAs4r/x/JXxrwZJZQ0Yrl1Hsvgnt/IoCVlxMvMhwsp9xAGnBkxnOlkCYiX/BwHJaDlMJLD5kAbfLDTHUlojunvHBT3fMIUuZ/ESnmaUmz/K3ag1MdVWtT7z+ltaqtZiTeipd4V/WjrHvTFGU9M+Pq9fmw2FZrBeTOf0S9JlqcWbL7Hy6agmMwA1icRVc9Q49jDZxqe8sEbqJ2AKy7RX7djcnpd2N+bCDlHYG1asmAwy9shc2terqms6alGPMLAZ6WvkZ8gwsvkvTRonVeghn7bzz0rQ3W8kRGiZ0HNqC6B1Dg/h3MMMO1B7bvnH;DPmX7AfvxO0kt0wEmxv47w=="
+secured: "1tjJjakKh5tBG+5On08o4wd/PwkzKD1m5xbPVSn2oMPpRX5beFweQe05ueW2vmGP/iqphRPsnnmZ2UdP9duXcaoHsJrhNLXGNMUO0WDwCImhnQNfSeYxNzjoQ36TyTjNLDq4joJTyiuKzqSx+WbsYZtv4dHb8EERrbs2zB1Kd4V2TwaO+j1yHYjKQu5VrtyRg++3Op9XxjkbEu5JFz6eDT8qjUgocMKja+in4nT8CwnYy4lBTNQXb/NP6vTteMtACg8sh0KgBPhRTRLtsjU+BjFlo3iZEuqPHFaD1VCGBzjcDUYp+9xjXXQHQ4+C6JT/;FQXZU0Z7P6ihK8jl8Ssl1g=="
 ---
 

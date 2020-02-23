@@ -38,6 +38,6 @@ related:
       domain: itproportal.com
     quality: 20
 
-secured: "SsOXATjgNknVdlvX6duAFgfEyyEnVUJEFrKlPPcmduix+Ug8dLVTqjobFO55VVoEc9/BEI43IFm7DQtUy4MX50ue/ejvZ6NNwjJVplkg7v1ffL1NAKqRYFO+3W11SvL56RTklZXruFQtmygosjDCyvP2ulDsXzCEOg8quv9Rx6oS7VPHAG/1VAHKv1rpo+muw/udRekZz9lr+IAG45AgHnt+52bale2Ej+SS2r3VPKyNmn03j6UXovDSv7bMS+8m6pzlTk0CT++YBua0Jfts2j9xIjMinqiiCT4LBAHh0tPHFsMebonvQ1Gl5etJqmjf;Bhhq1R7bo41kIXZfk3nkZg=="
+secured: "iP/toE7FJVr5v/Sabh6edDp6PAe0gyjiUpLZRLHYQlKtMbvS4p13iDzzRAUUcioPPaInH47UHmVTlqWGle4oapN3jdUvltDI9V5Qi1c7JlJZtt+4jZFYUuvOAwT1wQeHmlI2/IYmQB7p1czoQqZaO8BuPl/RNm2USSSltvjuOLFDKg81x9zp7j3ZuAjnpGNMOoUC6xgzTtKrg+6i7f38nFSbo9WSdUi+3F69zchdNrkU11kcTtTX1nf6dlcAaG2XWstIo8xiOapAwVdmmz+b5IQ3yGUA0vUUQjktKT+l4lYF5Sla9yi6VZ3a4T81gun9;KqDKsv5ta/jPgzKK/9wCIg=="
 ---
 

@@ -33,21 +33,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e4e88d0765d4500072cc76a%2F0x0.jpg"
         width: 1200
         height: 794
-  - title: "Live facial recognition technology used by police at Oxford Circus"
-    excerpt: "Live facial recognition technology has been deployed near Oxford Circus in London after an operational roll-out was announced last month. The van-mounted cameras were spotted at the busy location, which is popular with tourists, on Thursday morning. Image: The Met Police tweeted this to let people know It is believed to be the second time the ..."
-    publishedDateTime: 2020-02-20T15:35:00Z
-    webUrl: "https://news.sky.com/story/live-facial-recognition-technology-used-by-police-at-oxford-circus-11938683"
-    ampWebUrl: "https://news.sky.com/story/amp/live-facial-recognition-technology-used-by-police-at-oxford-circus-11938683"
-    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/live-facial-recognition-technology-used-by-police-at-oxford-circus-11938683"
-    type: article
-    provider:
-      name: Sky
-      domain: sky.com
-    quality: 59
-    images:
-      - url: "https://e3.365dm.com/20/02/1600x900/skynews-oxford-street-shoppers_4925640.jpg?20200220143955"
-        width: 1600
-        height: 900
   - title: "Ottawa police piloted controversial facial recognition software last year"
     excerpt: "Ottawa police quietly tested facial recognition software for three months last year, this newspaper has learned. The pilot, which ended in March of 2019, came before a public dialogue on the use of CCTV cameras in spaces like the ByWard Market after a string of fatal shootings in the tourist hub. Though Ottawa police at the time spoke of the ..."
     publishedDateTime: 2020-02-13T23:12:00Z
@@ -63,21 +48,6 @@ related:
       - url: "https://postmediaottawacitizen2.files.wordpress.com/2020/01/0107_childporn-w.jpg"
         width: 1000
         height: 750
-  - title: "Facial recognition software used by Waterloo Regional Police Service in past"
-    excerpt: "The Waterloo Regional Police Service says it used facial recognition technology 'on a very limited basis' in 2019, but Chief Bryan Larkin says it won't be used going forward until more is known about how it works and there's a policy in place for its use."
-    publishedDateTime: 2020-02-20T12:30:00Z
-    webUrl: "https://www.cbc.ca/news/canada/kitchener-waterloo/clearview-ai-facial-recognition-waterloo-regional-police-1.5468839"
-    ampWebUrl: "https://www.cbc.ca/amp/1.5468839"
-    cdnAmpWebUrl: "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.5468839"
-    type: article
-    provider:
-      name: CBC.ca
-      domain: www.cbc.ca
-    quality: 56
-    images:
-      - url: "https://i.cbc.ca/1.5403918.1581719698!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/china-security.JPG"
-        width: 620
-        height: 349
   - title: "Portland considering strictest ban on facial recognition technology in the U.S."
     excerpt: "“Please look at camera for entry.” Jacksons’ use of facial recognition technology could soon be outlawed in Portland. City officials are considering the strictest ban of the technology in the country, prohibiting its use not only by government agencies but also private businesses. Facial recognition technology typically uses a camera and ..."
     publishedDateTime: 2020-02-21T15:20:00Z
@@ -123,15 +93,6 @@ related:
       - url: "https://regmedia.co.uk/2020/02/20/shutterstock_cops_met_london.jpg"
         width: 648
         height: 429
-  - title: "Edmonton police unveil details on use of facial recognition technology"
-    excerpt: "City police revealed details on Wednesday for plans to implement facial recognition technology to match suspects from crime scenes with known offenders. Internal discussions began a couple of years ago to use the technology and have ramped up in the last couple of months, said Warren Driechel, superintendent of the Edmonton police informatics ..."
-    publishedDateTime: 2020-02-20T01:16:00Z
-    webUrl: "https://edmontonjournal.com/news/local-news/edmonton-police-unveil-details-on-use-of-facial-recognition-technology"
-    type: article
-    provider:
-      name: Edmonton Journal
-      domain: edmontonjournal.com
-    quality: 34
   - title: "Police roll out controversial live facial recognition technology at Oxford Circus"
     excerpt: "Scotland Yard has installed controversial facial recognition technology at Oxford Circus. The cameras were spotted mounted on vans in the area, one of the busiest in London, this morning. One dark blue van was captured in a picture posted by UK civil liberties group Big Brother Watch next to a sign reading: \"Police live facial recognition in use.\""
     publishedDateTime: 2020-02-20T16:46:00Z
@@ -145,28 +106,6 @@ related:
       - url: "https://static.standard.co.uk/s3fs-public/thumbnails/image/2018/03/21/09/poetry-london-underground.jpg"
         width: 1500
         height: 1000
-  - title: "Metropolitan Police deploys facial recognition in central London with two hours’ warning"
-    excerpt: "Police have deployed controversial facial recognition technology in central London with just two hours' notice, sparking privacy concerns. The Metropolitan Police installed a live facial recognition (LFR) camera at Oxford Circus, a highly-trafficked area ..."
-    publishedDateTime: 2020-02-20T13:59:00Z
-    webUrl: "https://www.independent.co.uk/news/uk/crime/met-police-facial-recognition-technology-city-westminster-a9346831.html"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 30
-    images:
-      - url: "https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/07/09/13/facialrecognition-ban.jpg"
-        width: 1998
-        height: 1499
-  - title: "Watch: Edmonton police give update on facial recognition technology"
-    excerpt: "Warren Driechel, superintendent of the Edmonton police informatics division, and Devin Laforce, superintendent of the Edmonton police investigative support, provided an update Wednesday on a project assessing and engaging in a facial recognition solution for the police service. The technology hasn’t been implemented yet as EPS is still ..."
-    publishedDateTime: 2020-02-20T01:38:00Z
-    webUrl: "https://edmontonjournal.com/news/local-news/watch-edmonton-police-update-on-facial-recognition-technology"
-    type: article
-    provider:
-      name: Edmonton Journal
-      domain: edmontonjournal.com
-    quality: 19
 
 secured: "xjyUS2bqMvAopoHG+OyjOuwQgMBXBxvIodLxNL2lgah2Cg+EKaAWmCzkLn++LuipwKWN8fMRUiCpQyHADDtxrhI1z/Klffg5kLCsdybZStcKtmCqPcQGqST0PAQ3KRN8pE8L4Ts0nGLwxOSuNhD46gyN2wk3JsL04JpJMMUvu+SoaVe7FvSpLC5AMSy4na5PVD3Sad7YyZZEz2vIjVDnzSjBRh1lt2w/0Z5l/0gYP99/nVaNBnQTKF+U/Fmix1ZOsjTT76mxKBx03+YELvx1CAeuTc6p3a6qflhteqcrP6uDgvlAjoWbb1NSBZ5QQ4weB2EdGFgro8ITo7m7ig3ROIYgKwcsSQ0JcSBdqXJ9njTROohaBAw87wOqlfH8lf1XWtKz9dJYsv3vSXTTlzs6a1dJ5ob58Q7W9nTXTUNOG+V50TPxtiu6/x/JdTVALDFTyLTzZ9mXgrCuF0DMoZJ8Bv1XwrLDmEOoHDkwYtU3MfI=;IqVyNSugt7dU/uhdKR4V/A=="
 ---
