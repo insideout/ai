@@ -231,7 +231,7 @@
       "path": "_posts/_archive/2020-01-29-object-recognition-is-the-answer-heres-why.md",
       "title": "Object Recognition Is The Answer, Here’s Why",
       "excerpt": "More specifically, the convergence of Object Recognition, Machine Vision, and Neural Networks enables machines to see and understand what it is they are seeing. For sure, there are specific use ...",
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.forbes.com/sites/hodfleishman/2020/01/29/object-recognition-is-the-answer-heres-why/",
@@ -1353,8 +1353,8 @@
     {
       "path": "_posts/_archive/2020-01-30-free-ai-developer-app-ibms-new-tool-can-label-objects-in-videos-for-you.md",
       "title": "Free AI developer app: IBM's new tool can label objects in videos for you",
-      "excerpt": "AWS launched Amazon Rekognition Custom Labels in December, aimed at helping businesses spot objects and images that are relevant to their business. The IBM auto-labeling feature is in an \"early ...",
-      "heat": 92,
+      "excerpt": "IBM estimates it takes 200 to 500 samples of hand-labeled images for an AI object-recognition model to detect a specific object. SEE: How to implement AI and machine learning (ZDNet special report ...",
+      "heat": 90,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.zdnet.com/article/free-ai-developer-app-ibms-new-tool-can-label-objects-in-videos-for-you/",
@@ -1392,9 +1392,8 @@
       ],
       "topics": [
         "AI",
-        "AWS AI",
-        "Google AI",
-        "Computer Vision"
+        "Computer Vision",
+        "Google AI"
       ]
     },
     {

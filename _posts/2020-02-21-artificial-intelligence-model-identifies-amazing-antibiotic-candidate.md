@@ -38,6 +38,21 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/6764/production/_110986462_gettyimages-1068778256.jpg"
         width: 1024
         height: 576
+  - title: "AI discovers antibiotic that kills even highly resistant bacteria"
+    excerpt: "It could wipe out resistant bacteria strains. The use of AI to discover medicine appears to be paying off. MIT scientists have revealed that their AI discovered an antibiotic compound, halicin (named after 2001's HAL 9000), that can not only kill many forms of resistant bacteria but do so in a novel way. Where many antibiotics are slight spins ..."
+    publishedDateTime: 2020-02-23T02:40:00Z
+    webUrl: "https://www.engadget.com/2020/02/22/ai-discovers-powerful-antibiotic/"
+    ampWebUrl: "https://www.engadget.com/amp/2020/02/22/ai-discovers-powerful-antibiotic/"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/22/ai-discovers-powerful-antibiotic/"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 87
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D1600%252C1067%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-02%252F96e36800-55c7-11ea-aeef-0998ce2acd94%26client%3Da1acac3e1b3290917d92%26signature%3D2e961db71cfa44b9dab8eb45dd810e3ebf6d85c0&client=amp-blogside-v2&signature=e4cdf38e971530fdf57df41ded48568493737422"
+        width: 600
+        height: 350
   - title: "Machine Learning Used to Discover Powerful New Antibiotic That Can Kill Some of World's Most Dangerous Bacteria"
     excerpt: "\"This groundbreaking work signifies a paradigm shift in antibiotic discovery and indeed in drug discovery more generally,\" said researcher Roy Kishony."
     publishedDateTime: 2020-02-21T16:02:00Z
