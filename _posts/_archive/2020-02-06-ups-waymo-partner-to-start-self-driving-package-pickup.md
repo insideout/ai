@@ -1,11 +1,11 @@
 ---
 category: news
 title: "UPS, Waymo partner to start self-driving package pickup"
-excerpt: "United Parcel Service (UPS) and self-driving technology company Waymo recently announced a first-of-a ... Over the last decade, the company has demonstrated leadership in advanced data analytics, artificial intelligence, autonomous drone delivery, robotics and facility automation."
-publishedDateTime: 2020-02-06T03:22:00Z
+excerpt: "“UPS and Waymo are exploring automated and autonomous ... the company has demonstrated leadership in advanced data analytics, artificial intelligence, autonomous drone delivery, robotics and ..."
+publishedDateTime: 2020-02-06T03:20:00Z
 webUrl: "https://www.fibre2fashion.com/news/textile-news/ups-waymo-partner-to-start-self-driving-package-pickup-254957-newsdetails.htm"
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
@@ -16,12 +16,6 @@ provider:
 topics:
   - AI
   - AI in Autos
-
-images:
-  - url: "https://static.fibre2fashion.com/Newsresource/images/254/ups_266546.jpg"
-    width: 710
-    height: 450
-    title: "UPS, Waymo partner to start self-driving package pickup"
 
 related:
   - title: "Tech Start-Up Pix Moving Uses Self-Driving Ideas To Make Flexible Cities"
@@ -40,6 +34,6 @@ related:
         width: 1000
         height: 563
 
-secured: "0hyxiq8AyXxsHqWreYR6P3P+98hJ6xSz1yXMtPf7chU+65ilGZytsotxGZflVD/joslrdtFxLsXkIfwVIBadbfwMYxHSNqNsY/8acxC6DLDd817NOgajhSRFE4hcIvwesL4j8nDUpYZHxl4l5yUOFspyXy1m9efd61xdytDeJc8McLORYm2k+Oa+xFEO+uIQZoTwUq+nh9E9SmuLRJkSupnbwygzNLZbuMZ0ly18kv3tFPrwZxN1RKJnFMNHwd/qQrN+LuKtd0c90lwXO8XEnMPyTTE1GQzvKlUR6t8EQylAr0VY8/5ylpat2Z+dshSf;Yj7uT8Bhy5eyinwc7gaOxA=="
+secured: "lFhItZG8PRUWdiul5uRPKFvPZgXVzgJXA7bqHd2OnKJgRMufgzsPKE9prlQk9inSuRzSPV1tRoe7jIGLpzwocxcMZGlY9v7eSC+GJzsYxTkacYUmraO7GFC20dPp+iSePLRrCCoyBTzCcjMiP6ZP+xuyxeRMUeActUSnRW71L1RYqawGrK5tdjwBBUwghO2bo38vb+pcTOZFWMSCqIDcdYEY4Mf57SY9O6/6CY4vPUg6MRdh9c7S9OZnBQ6UWMfEv/7B6Evoh4627FvMqAfCvpwsLDMWw7QHdQ+hmhwZ1C1T9Sx8pG0l9CZEE2UNiruzPf5BzfW76wxE3xCizbbSIvWbJCXVykkUWF14Ma6GQyq8ga2iIvtX2BOLq6YRRTPxaUjAxbXASw/9uXUra1eDyaRXPLGfiJTmoQ5CswUbnv235TeR3TRS0+hRRuWbJkvPL2e8YV+EWOkZxnbRLap4ECLN+koy1/D5fJty1n6VrCU=;tBa19aU9Rzq8pyP0e2napA=="
 ---
 

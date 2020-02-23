@@ -5,8 +5,8 @@ excerpt: "ReportsWeb Adds \"Global COGNITIVE SERVICES Market\" offers an up-to-d
 publishedDateTime: 2020-02-03T11:10:00Z
 webUrl: "https://www.marketwatch.com/press-release/cognitive-services-market-rise-at-231-cagr-to-2025-ibm-sas-aws-microsoft-qualcomm-technologies-google-tcs-2020-02-03"
 type: article
-quality: 62
-heat: 62
+quality: 42
+heat: 42
 published: false
 
 provider:
@@ -21,12 +21,6 @@ topics:
   - AI
   - Microsoft AI
 
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    title: "Cognitive Services Market Rise at 23.1% CAGR to 2025 | IBM, SAS, AWS, Microsoft, Qualcomm Technologies, Google, TCS"
-
-secured: "NW2fW9AEKnl4CDmLa47vQEqBtFEAA9ipP4aPXARCc+QObOQWCh92cQq/EfGMDk2a4Ugw6kXCE+/p61uZ9aCe2Ob+S9vB1Fr9ZGx93DR648hDWdBcj0XKrP8huKOdF5ubhUXpuv8+KxaegHt8kWiJ6ew5gV8k7m7bf9XAGOltfoqPROIVDsrONfM4+f/EsBPBiwJIQFug0MtaBXG9IX5X+MxmwNUvGodWf4h5uAr6wz1D5EbiBGrHhjPzqFqMvmDSIfMYQiYkDn7LYd3L0A2qUnP2DUbM+CcvjYOdfPlztkRxRI2p1HEkK3NkcOkSkiA4;1GkSar3nrFAiYCaEdcBidw=="
+secured: "2sAAMqd3GQckEqlqt1tizDbRBRvVyn97Bh8Xs0irXicl3k7M+kdVTo6bOfCbCUBfbAZZ06Bjzz9sx5FyUq7qEj38cwyfA8emlfPfNOX56Lw8oE0zPGXETr36243f9ANbSYnhAOzfltD09f4azlqQT5Z8/nhVqyODY1v4gMpoO1/IsKad6RUa7UBEgQ6HG/u6ZYsi78H6nMiT1ofO3HhC33f5I4ryQZ9zLHS870hqB/YEf2KOkRphheFn46+l0co9mBqulDfBEWHV8zMTNCgx1LSlVGGBx5b8NosjTJSZkKKEisjxzGtsujq2L3y6KNtf;t/G9umHRL5K5LeIjUd33iA=="
 ---
 

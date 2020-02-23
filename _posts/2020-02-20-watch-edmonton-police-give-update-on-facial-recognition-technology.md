@@ -141,6 +141,19 @@ related:
       - url: "https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/07/09/13/facialrecognition-ban.jpg"
         width: 1998
         height: 1499
+  - title: "Announcement - Commissioners launch joint investigation into Clearview AI amid growing concerns over use of facial recognition technology"
+    excerpt: "Media reports have stated that Clearview AI is using its technology to collect images and make facial recognition available to law enforcement for the purposes of identifying individuals. The company has also claimed to be providing its services to financial institutions. The four privacy regulators will examine whether the organization's ..."
+    publishedDateTime: 2020-02-21T17:10:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-announcement-commissioners-launch-joint-investigation-into-clearview-ai-/2020/02/21/9102220.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 21
+    images:
+      - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
+        width: 252
+        height: 335
 
 secured: "rkmGmoRQLrWGiq+mgs8CVMDFp+SCk+zk/R+TvFwfst3P98NgFeg0XBJmDKYcPMjVV9i3IGed+MbGUEJ4VIfoiBbQ4IDD6JU6iO2B+CRlf0lmy4rTv+L/QxWLgyTFcrz7JGXEis46oIMsLWoybqVpscjivtSXybi7/OX5wJzTo3GFi0iMmDM5H/RMV4RLua12ItZ/LJoBoBKFZYrEBuT+CVmnX4Giv0Ss96jx2zQSWDWtratG06ie2CMUas7K/vvmZFs897DC6hfT01Wjr6+3ZpPQxhjihzZjuZJ5UpLpL7+3id3MHx5unC8onxd4ddU7GgOLHj9QUzLFMn8f9Xg/fVaKCslAdXMLbs6Qlkv3XDQB9FFEWuhzfYeR6/gu2e+yGj7hTGppFFVzN6+GQr56fjDGI8H+6BbaqFv8LelYMKNHbw7g79rWJk/qjKBHyVZAZ1GJVSj3zSvIX7QlCtnR8ecaVwJ/pNbzVuLs3u6S15A=;t9v8rjPZkONnDfuNNOrWKg=="
 ---

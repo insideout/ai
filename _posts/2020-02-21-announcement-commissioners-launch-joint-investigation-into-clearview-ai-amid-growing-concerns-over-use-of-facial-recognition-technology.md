@@ -1,21 +1,27 @@
 ---
 category: news
-title: "Edmonton police unveil details on use of facial recognition technology"
-excerpt: "City police revealed details on Wednesday for plans to implement facial recognition technology to match suspects from crime scenes with known offenders. Internal discussions began a couple of years ago to use the technology and have ramped up in the last couple of months, said Warren Driechel, superintendent of the Edmonton police informatics ..."
-publishedDateTime: 2020-02-20T01:16:00Z
-webUrl: "https://edmontonjournal.com/news/local-news/edmonton-police-unveil-details-on-use-of-facial-recognition-technology"
+title: "Announcement - Commissioners launch joint investigation into Clearview AI amid growing concerns over use of facial recognition technology"
+excerpt: "Media reports have stated that Clearview AI is using its technology to collect images and make facial recognition available to law enforcement for the purposes of identifying individuals. The company has also claimed to be providing its services to financial institutions. The four privacy regulators will examine whether the organization's ..."
+publishedDateTime: 2020-02-21T17:10:00Z
+webUrl: "https://www.tmcnet.com/usubmit/-announcement-commissioners-launch-joint-investigation-into-clearview-ai-/2020/02/21/9102220.htm"
 type: article
-quality: 34
+quality: 21
 heat: -1
 published: false
 
 provider:
-  name: Edmonton Journal
-  domain: edmontonjournal.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
   - Computer Vision
+
+images:
+  - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
+    width: 252
+    height: 335
+    title: "Announcement - Commissioners launch joint investigation into Clearview AI amid growing concerns over use of facial recognition technology"
 
 related:
   - title: "Leaked Reports Show EU Police Are Planning a Pan-European Network of Facial Recognition Databases"
@@ -119,6 +125,15 @@ related:
       - url: "https://thecrimereport.org/wp-content/uploads/2020/02/photo-by-Endstation-Jetzt.jpg"
         width: 800
         height: 549
+  - title: "Edmonton police unveil details on use of facial recognition technology"
+    excerpt: "City police revealed details on Wednesday for plans to implement facial recognition technology to match suspects from crime scenes with known offenders. Internal discussions began a couple of years ago to use the technology and have ramped up in the last couple of months, said Warren Driechel, superintendent of the Edmonton police informatics ..."
+    publishedDateTime: 2020-02-20T01:16:00Z
+    webUrl: "https://edmontonjournal.com/news/local-news/edmonton-police-unveil-details-on-use-of-facial-recognition-technology"
+    type: article
+    provider:
+      name: Edmonton Journal
+      domain: edmontonjournal.com
+    quality: 34
   - title: "Metropolitan Police deploys facial recognition in central London with two hours’ warning"
     excerpt: "Police have deployed controversial facial recognition technology in central London with just two hours' notice, sparking privacy concerns. The Metropolitan Police installed a live facial recognition (LFR) camera at Oxford Circus, a highly-trafficked area ..."
     publishedDateTime: 2020-02-20T13:59:00Z
@@ -132,19 +147,6 @@ related:
       - url: "https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/07/09/13/facialrecognition-ban.jpg"
         width: 1998
         height: 1499
-  - title: "Announcement - Commissioners launch joint investigation into Clearview AI amid growing concerns over use of facial recognition technology"
-    excerpt: "Media reports have stated that Clearview AI is using its technology to collect images and make facial recognition available to law enforcement for the purposes of identifying individuals. The company has also claimed to be providing its services to financial institutions. The four privacy regulators will examine whether the organization's ..."
-    publishedDateTime: 2020-02-21T17:10:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-announcement-commissioners-launch-joint-investigation-into-clearview-ai-/2020/02/21/9102220.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 21
-    images:
-      - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
-        width: 252
-        height: 335
   - title: "Watch: Edmonton police give update on facial recognition technology"
     excerpt: "Warren Driechel, superintendent of the Edmonton police informatics division, and Devin Laforce, superintendent of the Edmonton police investigative support, provided an update Wednesday on a project assessing and engaging in a facial recognition solution for the police service. The technology hasn’t been implemented yet as EPS is still ..."
     publishedDateTime: 2020-02-20T01:38:00Z
@@ -155,6 +157,6 @@ related:
       domain: edmontonjournal.com
     quality: 19
 
-secured: "gQMh2xQAw2v6xd9kXaTBmCWnL7SOzohsFqEtftnKdpHr5Zn86Vg54sM3OQ5cbHAvyyanWmGW3hK/ghnlERUlec2lURvipeDSk+khW9tqdbmcYIpobBR8WLwJTalj5Mm6uRtV78gO5bvp0+lNJMM5XSlO5C4hhqdgfoVLjhE/dtZiwrGwB5pNbvu4ZJVwzGl/EfTLkk8QybfvVh0dZHAxcldWLvp0DJHFIuNjaT1Rs4qfeiqIV4ER3w0oyzQ9ChMnGKwOYwMYHyvy2VCt3vRxsnZW3CaIlOOvRo542KG7XCiFT2SDaIiq2zx3lGTM6GmdY73cZLrdCtE+pwH1Jyu6omjeMWQU1r1MY/yKWD+msk1e2LSGu3xqafOYpjpCKixagKjsDpzm0S9rCiU5YfK4Do9hH1XsjyqwqM+ly4Vh2IR4vFn86sU7lEPTJDw3+rricp5Pg6PT2xemkB5NPbSUbFzuWHdXQQM1334VgWVF9x0=;b1KM8fIA3yBgCwttWeXpHg=="
+secured: "SYmI5b8D4VR/t4jGOomg4l8myhuhGxi/a585z/9jAJlkV2wNeoQkqicGwlHPl3IInVwbCZiVrUDyStd9JJ7lB0f1qh09x4UdIXp27xIkWmyN4vo8M03dGMRZWmnLTvDIbr480V14s1sbHkwx+SWbbDz6s0UTuAMmclOBY70WP83z26r2XDrpLnJEWZm7nSXEz1DwWV/3jCMJF8E7rrHqJn57HqwQkyu+x0GYFIJyXs93ADAUUNtUxrvPwmVEHXeAISizoYAU4tOzMwIhfBOwnZWNK9c6/wbPzVkOqAkuY3m7LuR09Djz1xmBtdHM2czX;x+A+oOlp7tlrEZa/F0IMhw=="
 ---
 

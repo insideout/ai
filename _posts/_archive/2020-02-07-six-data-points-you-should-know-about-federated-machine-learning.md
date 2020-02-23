@@ -5,8 +5,8 @@ excerpt: "Download the authoritative guide: Leading Big Data Vendors: Solutions 
 publishedDateTime: 2020-02-07T18:38:00Z
 webUrl: "https://www.eweek.com/big-data-and-analytics/six-data-points-you-should-know-about-federated-machine-learning"
 type: article
-quality: 54
-heat: 64
+quality: 34
+heat: 34
 published: false
 
 provider:
@@ -21,12 +21,6 @@ topics:
   - AI
   - AI in Finance
 
-images:
-  - url: "https://www.eweek.com/imagesvr_ez/b2bezp/2019/05/eweek.logo.DataPoints-UPDATE_2.jpg?alias=social_image"
-    width: 560
-    height: 300
-    title: "Six Data Points You Should Know about Federated Machine Learning"
-
 related:
   - title: "Federated machine learning: The road to decentralised data collaboration"
     excerpt: "Big data projects and state-of-the-art data science models are using artificial intelligence (AI) and machine learning (ML) to drive innovation across financial services, healthcare, government and other sectors. Take the healthcare industry for example, which is expected to spend roughly $23 billion globally on big data analytics by 2023 ..."
@@ -38,6 +32,6 @@ related:
       domain: itproportal.com
     quality: 20
 
-secured: "85llBRb9heRWX1EKRqyvRRE/RbRPxnU99vjt2UaX4WFRE75Rf4rMNrMPJ9dDDyrwuTFNFpgLrjUOIM0lytzaT4UUNZ/8Evvn9wAr4hLB1NV3Ovzzzu+dLQjkh6v8xQmM5rC0hvw4ZzdtvSrc+UlrsVV/rVmj+HDyXMavHArNUWJs0aPt+rpDX/4wjCBNZzmBjf/NXxPYE8evkNYvIt2FUsHGiRdP5+xfHWskBGfMfRh3CT7oFxnAJvztlThDagnTiBWQAhXXtFM5JKxD/ltD/T2kmyIz1tkMpRoTQTga1up6NsiszE02J3h2+PXm9UCF;Bq8/3wwol7Syda+DhuhFXw=="
+secured: "jom3i3ftCcCnMMyKtfMxH5MldltRUAgzNrgCU4Yv/5rSk3jVac7GQxQFsZFG8b3alXeuAsAejgHftWpUJTbspsJM3+I687PEplD+1dCcNwvSM+W0lfZu5N+IQkd8q9iKTnIsTv1Kfg8lNWKLUqZdWZuVBC2GkqnHJMDiF/tz2lbFd8UUZVpYwFXgryNMOieGo6/O3mHiyh13rKVHP9d9AfYzDwo2QvPPhAcdEleLevHEVEeD4N3/5dOiaKxJyLReeX2MB9MxNavEwbw2Zefm8/ys3S77kRtdVxw5+zdjxGHYTk/gxMFVlpLJMMzz2VR1ug6wGzw7vg5F8KEE341YyHQ6RXa0hpmpAPwuyE5aK8Vk3NKRschBdKBga7yy4BIWmRYfTszK5HHjmnHINKS7Y7XE8nuO4G3iD/65EMb4wok+aC/mat+VCfv9EPiU4X+AJmMFm/mFMsucj1fUgPliY+jx8umWyUsdLniCHF/GF/w=;oDXbHLfgP1CO+REfLgLf4g=="
 ---
 
