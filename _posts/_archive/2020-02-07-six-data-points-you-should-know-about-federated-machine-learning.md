@@ -38,6 +38,6 @@ related:
       domain: itproportal.com
     quality: 20
 
-secured: "4qnPV8S6c3l5fh7C1iPWe7gq5w2yiiu3eUfQp1hD7kf72ncydZjfqW1XoTGxkSRCyWOvFENdwBFXgO+sNyXgYTpybjSARU9Byaahihcfu0lNfAJ0zbA+4crgwj28ntyy2Kfv+pW1Xi6bHl5kp1HZ/p3ZO5Vz3Uy+6rE2MchPWkG5S1osxLH2+8j4JKM06+o5l8nqsv8K0cpZSIFV7lzNrLOhRoFxojGvGhvKSuEBJDiY3xXj+esSEc/C4cy1iAOMzKfsvLgbCXNh8ec6tubq6lHLkffyJiNh/4PNAN20S9SABWxS1hc3JriiTqosIjfd;+wDdKFcplSnvtI8hnTVQuA=="
+secured: "6Zk8qyiQbDtQLCOSRawJg/YLZ6I3mG61A3tUX+5YC0KaBb6zbAWKcW6q9trL1GvFZx7SNoREhXmEpsEFhn22tR38Nwd5aOsAlJ1LxW4u+VI+3kzhsDNg5Q+3VpeYNcn33iasFBVHN4psrub068AwPNmP8SlOYHCHC4vxoaKO4oKJug31S68BAttri6ncFy579bHMO8Rvg9Jp4sbHaQUZvwNrFwS1003K0plMw14/cGQBTl1F4to2gw8z3tHc8Wfc5l8250Yvnx4Hui8cw9t2UE/el+ZG7/g+l3TfTja3GUzIlGaWGAncLzmdeXqHCWhc;+kSA0XYinldcOl1qli46EA=="
 ---
 

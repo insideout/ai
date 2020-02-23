@@ -35,7 +35,20 @@ related:
       - url: "https://www.news-medical.net/image.axd?picture=2014%2f7%2fRadiation_Therapy-620x480.jpg"
         width: 620
         height: 480
+  - title: "AI could kickstart early radiation therapy for cancer patients"
+    excerpt: "Artificial intelligence (AI) could one day be used to help cancer patients start their radiation therapy sooner, thereby decreasing the odds of the cancer spreading, by instantly translating complex clinical data into an optimal plan of attack. Typically ..."
+    publishedDateTime: 2020-01-28T13:01:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2020/01/ai-could-kickstart-early-radiation-therapy-for-cancer-patients/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 54
+    images:
+      - url: "https://eandt.theiet.org/media/10452/cancer-patient.jpg?crop=0,0.014583333333333332,0,0.49322916666666672&cropmode=percentage&width=1200&height=450&rnd=132246806200000000"
+        width: 1200
+        height: 450
 
-secured: "GqJ6XHPALPp3GUNyPiffpiz+2b85bbfGXAvZDeO3mYyNHbPVsH6Ar6fBaKaUWCKTygDoQxG80YLOn6UR/SOXc6EpXO60UyQUG+oPlne6J9+I5kU5sErjJvL9PtYuEQUE1iODxh7qVQeuUqxe/Xn8Q7+q6tjeJmVhfFhPa5GEIXTvMYnqxBZTPqbScB4F64G2Np6reW90Tyd2Ql2q6Y4DUwc6ufChu8UTEkLwRRVvZQM073v7lHuPLAyavabMaoC7UTdrZU/ovGgLVzm44WeoclD4lGmdjsxAMT4PQY3dShUGXVfeufd16y/wB6HdAq2W;IttHIOb1OsxIdufPfR7Kfw=="
+secured: "qNE1c2k19jNCtSR2X66NeDSjdQxOLiup73Cb2ugYGnDZpfwehVwNP70ng+lBXc9VP53onBj29PWIkazfIiCo2spdMnkyMkh9Jp33X9XChvlFvfIqK4mp1fniHSJFxluw1TiLSqu34eF2XPpp53uyAvZKyk0oym29K0YklQMyKJkhlx71c4/3UYJVqLpwEZO8lLgkyuKb2KFrbkVDPhBXefJGPgMPCkfvxjjHOD4omho2N3FuBbRwROb2r4HMyLsXNRcgxory6SbRRGpmJMWRtqnGDULTORLS6EW5zqlMCWUvUtaWFMeC32yS6Hp6FRzI;wsz81pr6k293XCkgTPiy6g=="
 ---
 

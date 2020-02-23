@@ -1,28 +1,26 @@
 ---
 category: news
-title: "AI discovers new antibiotics effective against certain diseases"
-excerpt: "Artificial intelligence has been used to discover new antibiotics that treat resistant strains such as C. difficile and Acinetobacter baumannii (pictured) © FT montage; Janice Carr/CDC Share on Twitter (opens new window) Share on Facebook (opens new window) Share on LinkedIn (opens new window) Share on Whatsapp (opens new window) Artificial ..."
-publishedDateTime: 2020-02-20T06:00:00Z
-webUrl: "https://www.ft.com/content/e5bb4e4e-5332-11ea-8841-482eed0038b1"
-ampWebUrl: "https://amp.ft.com/content/e5bb4e4e-5332-11ea-8841-482eed0038b1"
-cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/e5bb4e4e-5332-11ea-8841-482eed0038b1"
+title: "Artificial Intelligence Discovers Potent Antibiotic"
+excerpt: "Anewly designed artificial intelligence tool based on the structure of the brain has identified a molecule capable of wiping out a number of antibiotic-resistant strains of bacteria, according to a study published on February 20 in Cell. The molecule, halicin, which had previously been investigated as a potential treatment for diabetes ..."
+publishedDateTime: 2020-02-23T03:41:00Z
+webUrl: "https://www.the-scientist.com/news-opinion/artificial-intelligence-discovers-potent-antibiotic--67156"
 type: article
-quality: 57
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: The Financial Times
-  domain: ft.com
+  name: The Scientist
+  domain: the-scientist.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F7bf31b7c-533c-11ea-8841-482eed0038b1?source=google-amp&fit=scale-down&width=500"
-    width: 500
-    height: 281
-    title: "AI discovers new antibiotics effective against certain diseases"
+  - url: "https://cdn.the-scientist.com/assets/articleNo/67156/aImg/36085/new-antibiotic-artificial-intelligence-m.png"
+    width: 800
+    height: 560
+    title: "Artificial Intelligence Discovers Potent Antibiotic"
 
 related:
   - title: "Artificial intelligence yields new antibiotic"
@@ -62,6 +60,21 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 63
+  - title: "AI discovers new antibiotics effective against certain diseases"
+    excerpt: "Artificial intelligence has been used to discover new antibiotics that treat resistant strains such as C. difficile and Acinetobacter baumannii (pictured) © FT montage; Janice Carr/CDC Share on Twitter (opens new window) Share on Facebook (opens new window) Share on LinkedIn (opens new window) Share on Whatsapp (opens new window) Artificial ..."
+    publishedDateTime: 2020-02-20T06:00:00Z
+    webUrl: "https://www.ft.com/content/e5bb4e4e-5332-11ea-8841-482eed0038b1"
+    ampWebUrl: "https://amp.ft.com/content/e5bb4e4e-5332-11ea-8841-482eed0038b1"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/e5bb4e4e-5332-11ea-8841-482eed0038b1"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 57
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F7bf31b7c-533c-11ea-8841-482eed0038b1?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
   - title: "Artificial intelligence used to discover powerful new antibiotic"
     excerpt: "Scientists have used artificial intelligence to discover a new type of antibiotic which could kill some of the world's most dangerous drug-resistant bacteria. A team from Massachusetts Institute of Technology (MIT) say their machine-learning algorithm was able to identify a powerful new antibiotic compound which did not develop any resistance ..."
     publishedDateTime: 2020-02-21T07:51:00Z
@@ -127,19 +140,6 @@ related:
       name: Psychology Today
       domain: psychologytoday.com
     quality: 37
-  - title: "Artificial Intelligence Discovers Potent Antibiotic"
-    excerpt: "Anewly designed artificial intelligence tool based on the structure of the brain has identified a molecule capable of wiping out a number of antibiotic-resistant strains of bacteria, according to a study published on February 20 in Cell. The molecule, halicin, which had previously been investigated as a potential treatment for diabetes ..."
-    publishedDateTime: 2020-02-23T03:41:00Z
-    webUrl: "https://www.the-scientist.com/news-opinion/artificial-intelligence-discovers-potent-antibiotic--67156"
-    type: article
-    provider:
-      name: The Scientist
-      domain: the-scientist.com
-    quality: 37
-    images:
-      - url: "https://cdn.the-scientist.com/assets/articleNo/67156/aImg/36085/new-antibiotic-artificial-intelligence-m.png"
-        width: 800
-        height: 560
   - title: "Artificial Intelligence brings a novel antibiotic compound"
     excerpt: "Researchers from the Massachusetts Institute of Technology (MIT) have made a scientific breakthrough where their machine-learning algorithm or Artificial Intelligence (AI) program successfully created a novel antibiotic compound. The drug has since then been tested on deadly bacteria in the lab, and in lab mice with a considerable amount of ..."
     publishedDateTime: 2020-02-21T00:44:00Z
@@ -150,6 +150,6 @@ related:
       domain: news-medical.net
     quality: 17
 
-secured: "RHOZkjUQGuFGr7t87Cv7h0Qx5IwGnMQx9W+aakUNj+BNm91usg3QdU8v2fauoys/Q9+RTxOhRXFM7UO0iqnYiguWfH5gmu/ZWbfeM3Y2BcR7xwRfgp/VMbYqkcAsmG5IYtPboBO5YYAZDfDZ/rBRrDwCdpLJoYOp1hXcAFqDuzj+Vz5HZia8TOyIiEOsS/Cl1CuddRNamuOtfBpRqto40DpkAbmC7lYsx6r9ZL/MPNx8XW5huG0YEKDRJpA+DDsYl7nRrqMxJjUC2l7nfp72voyKgywD6sSjumv5c4YImh6/fhKcMVBvX4J26A3wb2gxVOQr+WgYPdANMjVMb0tbQXdH1AUkKWEftVDoR8ahzOPuvaug01sIX6TaRVPqEBXNDgN9AEk6+wjgMZpZYgkHS4T+yqRIiuC5Zd6De1mUPPI9oE6ZkxFAshldxN+ygPrL60oNYd8w78X05kePDz5sGOLRa9LIukKrNzwuOYeWSA0=;iZ/djTY/vMtdANPKZaDH0g=="
+secured: "Y7YjMyxKHDVdSsER31bO7qEomA2LBBLj4abt+vGcv88rhHnXQEZTqG6sOPRtdaxohtygGYsokYLG2M/x9NMLrK7OhCZwpsYeqo8lZwm2aC5Hd/a7qgAtYLLtfbpsPBbWMtNlJJkzVdc0KuP+URzeA6rRQ7rkL5Ew0eGzusd5tx0d1mwzdZhQjUKHHBo1Dc6sC6qV6X+JKLSUZyHy+nS2zPz43/tdOYppNe1N8qd2NFghdzy3KE10XLXQB4NxTLhltOZsdumCn3trbFrL5kR5WOPnfXeaedBU/NU8yIB7XlxedcVTAkv74fPCBXxnC33S;iVQAbibVgmtcoaXqaijgfw=="
 ---
 

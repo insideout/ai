@@ -53,19 +53,6 @@ related:
       - url: "https://i.insider.com/5e4d5a12d039616eb942b6f4?width=1200&format=jpeg"
         width: 1200
         height: 600
-  - title: "This is the pitch deck that the CEO of AI startup Directly used to convince its top customers Microsoft and Samsung to invest in a $20 million round"
-    excerpt: "Directly's top customers, Microsoft and Samsung, are also key investors in the AI customer support startup. They just raised $20 million."
-    publishedDateTime: 2020-02-08T10:49:00Z
-    webUrl: "https://www.businessinsider.com/directly-ai-customer-support-startup-microsoft-samsung-investors-2020-1?IR=T"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 28
-    images:
-      - url: "https://i.insider.com/5e30cf1d62fa8157b1286fe4?width=1200&format=jpeg"
-        width: 1200
-        height: 600
   - title: "This Canadian startup used AI to track coronavirus and raised alarm days before the outbreak"
     excerpt: "BlueDot can sift through several news stories a day in order to detect and monitor the spread.AFP | February 19, 2020, 13:47 IST On the shores of Lake Ontario, a Canadian start-up raised one of the earliest alarms about the risk posed by the mystery virus that emerged in the Chinese city of Wuhan. How did it do it? Artificial intelligence."
     publishedDateTime: 2020-02-19T08:17:00Z

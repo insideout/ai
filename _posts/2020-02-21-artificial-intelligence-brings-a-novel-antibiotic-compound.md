@@ -134,6 +134,19 @@ related:
       name: Psychology Today
       domain: psychologytoday.com
     quality: 37
+  - title: "Artificial Intelligence Discovers Potent Antibiotic"
+    excerpt: "Anewly designed artificial intelligence tool based on the structure of the brain has identified a molecule capable of wiping out a number of antibiotic-resistant strains of bacteria, according to a study published on February 20 in Cell. The molecule, halicin, which had previously been investigated as a potential treatment for diabetes ..."
+    publishedDateTime: 2020-02-23T03:41:00Z
+    webUrl: "https://www.the-scientist.com/news-opinion/artificial-intelligence-discovers-potent-antibiotic--67156"
+    type: article
+    provider:
+      name: The Scientist
+      domain: the-scientist.com
+    quality: 37
+    images:
+      - url: "https://cdn.the-scientist.com/assets/articleNo/67156/aImg/36085/new-antibiotic-artificial-intelligence-m.png"
+        width: 800
+        height: 560
 
 secured: "m0W0AHO7Jv2W+txIH/nGEHaORofa+c4ahnnb0yVMunIs1jNrTorWn706NVQJ8Zi0oJ7ZjqiPfb8zkQa0u0xlLpxkgeBHxWykWoYu+9g2d8PXauJHxrvnQ6f8kk2lxozzg1G1Gq+RH7gQF4EceRAg0D51ODmTP8CjeM6cRUJvmyleRehm+dh1sr/nB2N7+spsF5AeNAXBZiYUggt2cAdCcOzdf27IHrEe4hl4We3UU8/NtAUWk9Lg2mt0GE8AskT8R/z7hTweUQgVT9x0j0G6DO4j9AVfqXjTbfIEjGFJo+7WRJ9fROofqGxHtl3EG4BB;bb7FVG7o4oArRZ5u1aTLtw=="
 ---
