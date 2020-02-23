@@ -1,28 +1,25 @@
 ---
 category: news
 title: "The War Against Artificial Intelligence And Mass Unemployment - Do 'Nootropic' Brain Supplements Hold The Answer?"
-excerpt: "It's difficult to name any of the large tech companies that aren't investing time and energy into creating artificial intelligence technology. It's already a big part of our lives, and with the market value set to increase from $9.5 billion to $118.6 billion by 2025 , it's about to take over our lives. Uber's self-driving car ran 6 red lights ..."
-publishedDateTime: 2020-02-19T11:15:00Z
-webUrl: "https://www.medindia.net/health-press-release/the-war-against-artificial-intelligence-and-mass-unemployment-do-nootropic-brain-supplements-hold-the-answer-452086-1.htm"
+excerpt: "NEW YORK, Feb. 19, 2020 /PRNewswire-PRWeb/ -- \"Artificial intelligence will soon leave people displaced and needing to find a new way to put food on the table and it will likely be you.\" - Archie Marks,"
+publishedDateTime: 2020-02-19T10:00:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/02/n15362033/the-war-against-artificial-intelligence-and-mass-unemployment-do-nootropic-brain-supplements-hold-"
+ampWebUrl: "https://amp.benzinga.com/amp/content/15362033"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15362033"
 type: article
-quality: 33
-heat: 33
+quality: 35
+heat: 35
 published: false
 
 provider:
-  name: Medindia
-  domain: medindia.net
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
   - AI in Autos
+  - AI in Robotics
 
-images:
-  - url: "https://www.medindia.net/images/common/regis/450_237/diabetes-popup.jpg"
-    width: 300
-    height: 250
-    title: "The War Against Artificial Intelligence And Mass Unemployment - Do 'Nootropic' Brain Supplements Hold The Answer?"
-
-secured: "+2ZciaSisJ07+6Tj2QlBqxk2+t3cupIt2eiYyetRnd+Kp7PHXk7rlaFTTCSOc5bwUAiZmJBXBs/dvy2wETK4WDTWdbodhZlDkKDDahDedKAMCkyrO4F7TMQKw0v+6XOEr1oD3v3v+bsb1KceDHzQtIXj7x2yiu7qqc6CXYYkMaEGQTzccW6ztZXcSTBL+/pEteKv0ygL9Yvi1NZo9ORyj5vxp37TBboSbaKKVjIpxU1KKhlwj0wguGGY0VsPdhI4U/ukvYXCR83jZTXUiB44qDlCB9JbSIQf3tBRch5duk177La8HNY621LrFzsVG8Hp;V1wkXzHJvuS/jdc+yyV+xw=="
+secured: "gcqoSDSGlqRB7CcfZ78gWGVqHPKCIXE2qZGKDAbW12QPgfNJG5NHvkfvZHG3STP+LZ/ypPw6JfJz1DNX75wyXp9OtftzPOHcDsfFVwnMqe8W67XHeJ4az1j9EDfmTAmHVLgpfhK53f2fJK447Tl5eMTw2AyI52opY6kCT04gHdwrBNfTGWMQn909tZ1rT80/1jnh8O9UQzC1Fx5thyhe/1DjHeVIALlqC4ty1eAwYanKJm012nc2J7lMrJfRu+yf3mlgSIDDrlwLP/QnLvXGv0xcrD6da+8I/5aeimNxF5sCSfqLBQopQ/eslUm05cph;BwSVCJk3nHie/wWVcCjj6Q=="
 ---
 
