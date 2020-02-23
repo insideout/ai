@@ -24,293 +24,457 @@ images:
     title: "Facebook to pay users to improve speech recognition technology"
 
 related:
-  - title: "Moscow deploys facial recognition technology for coronavirus quarantine"
-    excerpt: "Moscow is using facial recognition technology to ensure people ordered to remain at home or at their hotels under coronavirus quarantine do so."
-    publishedDateTime: 2020-02-21T19:06:00Z
-    webUrl: "https://www.cnbc.com/2020/02/21/moscow-deploys-facial-recognition-technology-for-coronavirus-quarantine.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/02/21/moscow-deploys-facial-recognition-technology-for-coronavirus-quarantine.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/02/21/moscow-deploys-facial-recognition-technology-for-coronavirus-quarantine.html"
+  - title: "Facebook will now pay you for your voice recordings"
+    excerpt: "Facebook will offer to pay some users for voice recordings that will be used to help improve its speech recognition technology, the company announced Thursday. The move comes after Facebook — as well as Amazon, Apple, Google, and Microsoft — was caught listening to and transcribing voice recordings to improve speech recognition systems ..."
+    publishedDateTime: 2020-02-20T20:00:00Z
+    webUrl: "https://www.theverge.com/2020/2/20/21145584/facebook-pay-record-voice-speech-recognition-viewpoints-proununciations-app"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/2/20/21145584/facebook-pay-record-voice-speech-recognition-viewpoints-proununciations-app"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/20/21145584/facebook-pay-record-voice-speech-recognition-viewpoints-proununciations-app"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 189
+      name: The Verge
+      domain: theverge.com
+    quality: 74
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/100978289-135627372r.jpg?v=1582293185"
-        width: 2000
-        height: 1325
-  - title: "China’s facial-recognition giant says it can crack masked faces during the coronavirus"
-    excerpt: "China’s SenseTime, the world’s most valuable AI startup, said earlier this month (link in Chinese) that it was rolling out a facial-recognition products that incorporates thermal imaging cameras to help spot people with elevated temperatures at building entrances and airport checkpoints, and send pop-up alerts to users of the software."
-    publishedDateTime: 2020-02-18T09:02:00Z
-    webUrl: "https://qz.com/1803737/chinas-facial-recognition-tech-can-crack-masked-faces-amid-coronavirus/"
-    ampWebUrl: "https://qz.com/1803737/chinas-facial-recognition-tech-can-crack-masked-faces-amid-coronavirus/amp/"
-    cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/1803737/chinas-facial-recognition-tech-can-crack-masked-faces-amid-coronavirus/amp/"
+      - url: "https://cdn.vox-cdn.com/thumbor/9GjJYqY3aHq7Y6WKo61JQUsI72o=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66345179/acastro_180522_facebook_0001.0.jpg"
+        width: 1400
+        height: 933
+  - title: "Facebook will now pay for your voice recordings – here's how to cash in"
+    excerpt: "To improve its speech recognition algorithms, Facebook is now offering to pay some of its users for voice recordings. These snippets will be used to 'teach' systems used in devices like its Facebook Portal smart speakers and cameras. The clips were anonymized, but the practice raised questions about security and privacy, with workers being ..."
+    publishedDateTime: 2020-02-21T10:31:00Z
+    webUrl: "https://www.techradar.com/news/facebook-will-now-pay-for-your-voice-recordings-heres-how-to-cash-in"
+    ampWebUrl: "https://www.techradar.com/amp/news/facebook-will-now-pay-for-your-voice-recordings-heres-how-to-cash-in"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/facebook-will-now-pay-for-your-voice-recordings-heres-how-to-cash-in"
     type: article
     provider:
-      name: Quartz
-      domain: qz.com
-    quality: 166
+      name: TechRadar
+      domain: techradar.com
+    quality: 74
     images:
-      - url: "https://cms.qz.com/wp-content/uploads/2020/02/1581746326404096.png?w=1400&strip=all&quality=75"
-        width: 875
-        height: 492
-  - title: "Three Common Misconceptions About Facial Recognition Technology"
-    excerpt: "There are many misconceptions regarding the technology, how it is actually used and the significant benefits agencies are achieving by employing it in a responsible manner."
-    publishedDateTime: 2020-02-18T13:07:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/02/18/three-common-misconceptions-about-facial-recognition-technology/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/02/18/three-common-misconceptions-about-facial-recognition-technology/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/18/three-common-misconceptions-about-facial-recognition-technology/amp/"
+      - url: "https://cdn.mos.cms.futurecdn.net/jgJrX8BxhZREZSf3s8UGF9-1200-80.jpg"
+        width: 1200
+        height: 675
+  - title: "Facebook Will Now Pay You To Record Your Voice"
+    excerpt: "Yeah, Facebook is now paying users who offer their voice recordings to improve the California-based social media giant’s speech recognition technology. This move comes after Facebook said it would finally stop listening to voice notes in messenger. According to a report from The Verge, Facebook has launched a new program called Pronunciations ..."
+    publishedDateTime: 2020-02-21T10:33:00Z
+    webUrl: "https://in.mashable.com/tech/11638/facebook-will-now-pay-you-to-record-your-voice"
+    ampWebUrl: "https://in.mashable.com/tech/11638/facebook-will-now-pay-you-to-record-your-voice?amp=1"
+    cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/11638/facebook-will-now-pay-you-to-record-your-voice?amp=1"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: Mashable
+      domain: mashable.com
+    quality: 74
     images:
-      - url: "https://thumbor.forbes.com/thumbor/711x543/https://specials-images.forbesimg.com/dam/imageserve/905553688/960x0.jpg?fit=scale"
-        width: 711
-        height: 543
-  - title: "Moscow Using Facial Recognition to Enforce Coronavirus Quarantine of 2,500 Travelers from China"
-    excerpt: "Moscow is using facial recognition technology to enforce a quarantine on thousands of people who arrived in Russia from China, over fears of the new coronavirus that has killed over 2,000 people worldwide, according to a new report from the Moscow Times. The news comes as the virus, which causes an illness dubbed COVID-19, continues to spread ..."
-    publishedDateTime: 2020-02-21T23:43:00Z
-    webUrl: "https://gizmodo.com/moscow-using-facial-recognition-to-enforce-coronavirus-1841830557/amp?__twitter_impression=true"
-    ampWebUrl: "https://gizmodo.com/moscow-using-facial-recognition-to-enforce-coronavirus-1841830557/amp?__twitter_impression=true"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/moscow-using-facial-recognition-to-enforce-coronavirus-1841830557/amp?__twitter_impression=true"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 77
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/s--AKvNXy5y--/c_scale,f_auto,fl_progressive,q_80,w_800/ddahcgnqbfvrkf7kiawb.jpg"
-        width: 800
-        height: 449
-  - title: "Hamilton police tested controversial facial recognition technology Clearview AI"
-    excerpt: "People walk past a poster simulating facial recognition software at the Security China 2018 exhibition on public safety and security in Beijing, China October 24, 2018. (Thomas Peter/Reuters) Hamilton police have had access to a controversial facial recognition tool called Clearview AI, CBC News has learned, but have been directed to stop by ..."
-    publishedDateTime: 2020-02-20T21:33:00Z
-    webUrl: "https://www.cbc.ca/news/canada/hamilton/the-service-says-it-has-not-used-the-tool-for-any-investigative-purposes-1.5470359"
-    ampWebUrl: "https://www.cbc.ca/amp/1.5470359"
-    cdnAmpWebUrl: "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.5470359"
-    type: article
-    provider:
-      name: CBC.ca
-      domain: www.cbc.ca
-    quality: 70
-    images:
-      - url: "https://i.cbc.ca/1.5403918.1581719698!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/china-security.JPG"
+      - url: "https://sm.mashable.com/t/mashable_in/image/u/us-politic/us-politicians-can-now-pay-for-sponsored-content-on-facebook_ndjn.620.png"
         width: 620
-        height: 349
-  - title: "Chino police and facial recognition technology: 5 things to know"
-    excerpt: "The Chino Police Department held a forum on the use of the software and solicited feedback from the community."
-    publishedDateTime: 2020-02-15T00:16:00Z
-    webUrl: "https://www.dailybulletin.com/2020/02/14/chino-police-and-facial-recognition-technology-5-things-to-know/"
-    ampWebUrl: "https://www.dailybulletin.com/2020/02/14/chino-police-and-facial-recognition-technology-5-things-to-know/amp/"
-    cdnAmpWebUrl: "https://www-dailybulletin-com.cdn.ampproject.org/c/s/www.dailybulletin.com/2020/02/14/chino-police-and-facial-recognition-technology-5-things-to-know/amp/"
+        height: 348
+  - title: "Facebook will pay users for submitting their voice recordings"
+    excerpt: "It’s a way to improve speech recognition systems, but many customers were angry at not being informed. Qualifying users will have to record the phrase “Hey Portal,” followed by the first name of a friend from their friends list. They’ll be able to repeat this with the names of up to ten friends, and they have to record each statement ..."
+    publishedDateTime: 2020-02-21T12:58:00Z
+    webUrl: "https://www.techspot.com/news/84112-facebook-pay-users-submitting-their-voice-recordings.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/84112-facebook-pay-users-submitting-their-voice-recordings.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/84112-facebook-pay-users-submitting-their-voice-recordings.html"
     type: article
     provider:
-      name: Inland Valley Daily Bulletin
-      domain: dailybulletin.com
+      name: TechSpot
+      domain: techspot.com
+    quality: 74
+    images:
+      - url: "https://static.techspot.com/images2/news/ts3_thumbs/2020/02/2020-02-21-ts3_thumbs-1fe.jpg"
+        width: 800
+        height: 560
+  - title: "Facebook users to get paid for voice recordings; company wants to improve speech recognition"
+    excerpt: "In an attempt to improve its voice recognition technology, social media giant Facebook could pay users who agree to record their voice. The move comes after reports suggested that the company — along with Apple, Google, Microsoft, and Amazon — was caught listening to and transcribing voice recordings to improve its speech recognition ..."
+    publishedDateTime: 2020-02-21T13:38:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/facebook-users-to-get-paid-for-voice-recordings-company-wants-to-improve-speech-recognition-4965781.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/facebook-users-to-get-paid-for-voice-recordings-company-wants-to-improve-speech-recognition-4965781.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/facebook-users-to-get-paid-for-voice-recordings-company-wants-to-improve-speech-recognition-4965781.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 63
+    images:
+      - url: "https://static-news.moneycontrol.com/static-mcnews/2018/08/Uttar-Pradesh-Chief-Minister-Yogi-Adityanath-378x213.jpg"
+        width: 378
+        height: 213
+  - title: "Facebook will pay users to improve its speech recognition"
+    excerpt: "Last year, Facebook abandoned its practice of listening to Messenger audio chats in order to improve its AI speech recognition. Now ... The Verge reports that selected users will be asked to record short phrases via its Viewpoints market research app. If you qualify, you’ll have all the fun of saying “Hey Portal” and then the name ..."
+    publishedDateTime: 2020-02-21T09:07:00Z
+    webUrl: "https://www.trustedreviews.com/news/facebook-will-pay-users-to-improve-its-speech-recognition-3987512"
+    ampWebUrl: "https://www.trustedreviews.com/news/facebook-will-pay-users-to-improve-its-speech-recognition-3987512/amp"
+    cdnAmpWebUrl: "https://www-trustedreviews-com.cdn.ampproject.org/c/s/www.trustedreviews.com/news/facebook-will-pay-users-to-improve-its-speech-recognition-3987512/amp"
+    type: article
+    provider:
+      name: Trusted Reviews
+      domain: trustedreviews.com
+    quality: 61
+    images:
+      - url: "https://ksassets.timeincuk.net/wp/uploads/sites/54/2017/11/Facebook-Logo-1024x609.jpg"
+        width: 1024
+        height: 609
+  - title: "Facebook to pay users for recording to improve speech recognition"
+    excerpt: "Facebook has announced it will pay select users who agree to record their voice to improve its speech recognition technology. The social networking giant will pay select users to record snippets of audio through a new programme called “Pronunciations” in its Viewpoints market research app, according to The Verge. If you qualify to be part ..."
+    publishedDateTime: 2020-02-21T06:23:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/fb-to-pay-users-for-recording-to-improve-speech-recognition/article30878453.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/fb-to-pay-users-for-recording-to-improve-speech-recognition/article30878453.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/fb-to-pay-users-for-recording-to-improve-speech-recognition/article30878453.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
     quality: 59
     images:
-      - url: "https://www.dailybulletin.com/wp-content/uploads/2020/02/IDB-L-FACEID-0215-16x9-1-1.jpg?w=480&h=270"
-        width: 480
-        height: 270
-  - title: "Facial Recognition Technology Is the New Rogues’ Gallery"
-    excerpt: "Fueled by explosive reporting, foreign totalitarian regimes, and a lifetime of dystopian sci-fi, the movement to ban the government’s use of face recognition technology is growing. As of now, seven cities across the country—San Francisco, Oakland, and Berkeley in California, and Brookline, Somerville, Northampton, and Cambridge in ..."
-    publishedDateTime: 2020-02-17T10:45:00Z
-    webUrl: "https://slate.com/technology/2020/02/rogues-gallery-facial-recognition-technology-history.html"
-    ampWebUrl: "https://slate.com/technology/2020/02/rogues-gallery-facial-recognition-technology-history.amp"
-    cdnAmpWebUrl: "https://slate-com.cdn.ampproject.org/c/s/slate.com/technology/2020/02/rogues-gallery-facial-recognition-technology-history.amp"
+      - url: "https://www.thehindu.com/sci-tech/technology/uzp6oh/article30823445.ece/ALTERNATES/LANDSCAPE_615/FACEBOOK-PAID-POLITICAL-MEMES"
+        width: 615
+        height: 384
+  - title: "Facebook will pay you for your voice recordings, but it’s not worth it"
+    excerpt: "Last year, Facebook said it would stop listening to voice notes in messenger to improve its speech recognition technology. Now, the company is starting a new program where it will explicitly ask you to submit your recordings, and earn money in return. According to a report from The Verge, the social network is commencing this project ..."
+    publishedDateTime: 2020-02-21T09:13:00Z
+    webUrl: "https://thenextweb.com/facebook/2020/02/21/facebook-will-pay-you-for-your-voice-recordings-but-its-not-worth-it/"
     type: article
     provider:
-      name: Slate
-      domain: slate.com
-    quality: 59
-    images:
-      - url: "https://compote.slate.com/images/98a4ad17-4082-4a99-a71e-75514dd0625f.jpeg?width=780&height=520&rect=780x520&offset=0x0"
-        width: 780
-        height: 520
-  - title: "Edmonton police to reveal intended use of facial recognition technology"
-    excerpt: "EDMONTON -- Police will speak about how and when they intend to use facial recognition technology in Edmonton at a news conference Wednesday. Informatics Division Supt. Warren Driechel will reveal ..."
-    publishedDateTime: 2020-02-19T20:28:00Z
-    webUrl: "https://edmonton.ctvnews.ca/edmonton-police-to-reveal-intended-use-of-facial-recognition-technology-1.4818878"
-    ampWebUrl: "https://beta.ctvnews.ca/local/edmonton/2020/2/19/1_4818878.html"
-    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/edmonton/2020/2/19/1_4818878.html"
-    type: article
-    provider:
-      name: CTV News
-      domain: ctvnews.ca
-    quality: 59
-    images:
-      - url: "https://beta.ctvnews.ca/local/edmonton/2020/2/19/1_4818878/_jcr_content/root/responsivegrid/image.coreimg.jpg"
-        width: 1020
-        height: 574
-  - title: "Facial recognition technology will follow privacy laws: Edmonton police"
-    excerpt: "EDMONTON -- Attempting to quell privacy concerns, Edmonton police say facial recognition software that they intend to use to identify criminals will follow privacy laws. Informatics Division Supt. Warren Driechel revealed new details about the proposed technology Wednesday, though the department has not implemented facial recognition yet."
-    publishedDateTime: 2020-02-19T21:18:00Z
-    webUrl: "https://edmonton.ctvnews.ca/facial-recognition-technology-will-follow-privacy-laws-edmonton-police-1.4818878"
-    ampWebUrl: "https://beta.ctvnews.ca/local/edmonton/2020/2/19/1_4818878.html"
-    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/edmonton/2020/2/19/1_4818878.html"
-    type: article
-    provider:
-      name: CTV News
-      domain: ctvnews.ca
-    quality: 59
-    images:
-      - url: "https://beta.ctvnews.ca/local/edmonton/2020/2/19/1_4818878/_jcr_content/root/responsivegrid/image.coreimg.jpg"
-        width: 1020
-        height: 574
-  - title: "Live facial recognition technology used by police at Oxford Circus"
-    excerpt: "Live facial recognition technology has been deployed near Oxford Circus in London after an operational roll-out was announced last month. The van-mounted cameras were spotted at the busy location, which is popular with tourists, on Thursday morning. Image: The Met Police tweeted this to let people know It is believed to be the second time the ..."
-    publishedDateTime: 2020-02-20T15:35:00Z
-    webUrl: "https://news.sky.com/story/live-facial-recognition-technology-used-by-police-at-oxford-circus-11938683"
-    ampWebUrl: "https://news.sky.com/story/amp/live-facial-recognition-technology-used-by-police-at-oxford-circus-11938683"
-    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/live-facial-recognition-technology-used-by-police-at-oxford-circus-11938683"
-    type: article
-    provider:
-      name: Sky
-      domain: sky.com
-    quality: 59
-    images:
-      - url: "https://e3.365dm.com/20/02/1600x900/skynews-oxford-street-shoppers_4925640.jpg?20200220143955"
-        width: 1600
-        height: 900
-  - title: "Portland Ponders Facial Recognition Ban for Businesses"
-    excerpt: "The state of Oregon has already banned police from using body cameras with facial recognition, but the city wants to take the ban further. “We felt a moral obligation to develop a broader approach.” (TNS) — It took a few moments before Eduardo ..."
-    publishedDateTime: 2020-02-21T22:13:00Z
-    webUrl: "https://www.governing.com/security/Portland-Ponders-Facial-Recognition-Ban-for-Businesses.html"
-    ampWebUrl: "https://www.governing.com/security/Portland-Ponders-Facial-Recognition-Ban-for-Businesses.html?AMP"
-    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/Portland-Ponders-Facial-Recognition-Ban-for-Businesses.html?AMP"
-    type: article
-    provider:
-      name: Governing
-      domain: governing.com
-    quality: 59
-    images:
-      - url: "https://media2.govtech.com/images/shutterstock_1508404712.jpg"
-        width: 1008
-        height: 630
-  - title: "Portland considering strictest ban on facial recognition technology in the U.S."
-    excerpt: "“Please look at camera for entry.” Jacksons’ use of facial recognition technology could soon be outlawed in Portland. City officials are considering the strictest ban of the technology in the country, prohibiting its use not only by government agencies but also private businesses. Facial recognition technology typically uses a camera and ..."
-    publishedDateTime: 2020-02-21T15:20:00Z
-    webUrl: "https://www.oregonlive.com/portland/2020/02/portland-considering-strictest-ban-on-facial-recognition-technology-in-the-us.html"
-    ampWebUrl: "https://www.oregonlive.com/portland/2020/02/portland-considering-strictest-ban-on-facial-recognition-technology-in-the-us.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/portland/2020/02/portland-considering-strictest-ban-on-facial-recognition-technology-in-the-us.html?outputType=amp"
-    type: article
-    provider:
-      name: Oregonian
-      domain: oregonlive.com
-    quality: 55
-    images:
-      - url: "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/MUODS64EPVH7LB6P6GFG4M5MUM.JPG"
-        width: 4272
-        height: 2848
-  - title: "EU Plans Rules for Facial-Recognition Technology"
-    excerpt: "European Union officials plan to regulate certain applications of facial-recognition technology later this year because it can violate privacy rights."
-    publishedDateTime: 2020-02-20T20:22:00Z
-    webUrl: "https://www.wsj.com/articles/eu-plans-rules-for-facial-recognition-technology-11582219726"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
+      name: The Next Web
+      domain: thenextweb.com
     quality: 54
     images:
-      - url: "https://images.wsj.net/im-156180/social"
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/Facebook-recording-796x418.jpg"
+        width: 796
+        height: 418
+  - title: "Facebook willing to pay for your voice recordings as it works on speech recognition"
+    excerpt: "If the firm indeed wants to improve its quality of speech recognition, casting as wide a net as possible seems the best route in our opinion. For now Facebook explains those who qualify will be required to record the phrase, “Hey Portal”, which is then followed by the name of a friend on your friend list. Given the key phrase above ..."
+    publishedDateTime: 2020-02-21T09:00:00Z
+    webUrl: "https://www.htxt.co.za/2020/02/21/facebook-willing-to-pay-for-your-voice-recordings-as-it-works-on-speech-recognition/"
+    ampWebUrl: "https://www.htxt.co.za/2020/02/21/facebook-willing-to-pay-for-your-voice-recordings-as-it-works-on-speech-recognition/amp/"
+    cdnAmpWebUrl: "https://www-htxt-co-za.cdn.ampproject.org/c/s/www.htxt.co.za/2020/02/21/facebook-willing-to-pay-for-your-voice-recordings-as-it-works-on-speech-recognition/amp/"
+    type: article
+    provider:
+      name: Htxt.Africa
+      domain: htxt.co.za
+    quality: 53
+    images:
+      - url: "https://www.htxt.co.za/wp-content/uploads/2019/11/new-facebook-company-brand.jpg"
+        width: 1920
+        height: 1080
+  - title: "Facebook will pay users $5 for their voice memo to improve speech detection"
+    excerpt: "Facebook announced Thursday it plans to pay some users up to $5 for voice memos in an effort to better develop its speech recognition technology. The social media platform will slowly begin rolling out its “Pronunciations” program as part of its market research app Viewpoints, which it launched last November. The program announced today ..."
+    publishedDateTime: 2020-02-20T22:56:00Z
+    webUrl: "https://www.digitaltrends.com/news/facebook-wants-to-pay-users-5-for-their-voice-memo-to-improve-speech-detection/"
+    ampWebUrl: "https://www.digitaltrends.com/news/facebook-wants-to-pay-users-5-for-their-voice-memo-to-improve-speech-detection/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/facebook-wants-to-pay-users-5-for-their-voice-memo-to-improve-speech-detection/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 52
+  - title: "Facebook will pay for user recordings to improve speech recognition"
+    excerpt: "Facebook may have stopped listening to and transcribing Messenger voice chats, but it still needs voice recordings to improve its speech recognition technology. So the company is going to pay select users to record snippets of audio through a new program called \"Pronunciations,\" The Verge reports. In exchange, users can earn up to $5."
+    publishedDateTime: 2020-02-21T00:28:00Z
+    webUrl: "https://www.engadget.com/2020/02/20/facebook-voice-recordings-viewpoints-app/"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 51
+  - title: "Facebook Will Now Pay You for Voice Recordings (Instead of Spying)"
+    excerpt: "Facebook will now offer to pay some of its users for providing voice recordings that the social media giant will use to improve its speech recognition systems. The company announced the new initiative, dubbed Pronunciations, on Thursday. And, while Facebook didn’t mention it, the program seems like a way forward after Facebook was caught ..."
+    publishedDateTime: 2020-02-20T21:55:00Z
+    webUrl: "https://www.idropnews.com/news/facebook-will-now-pay-you-for-voice-recordings-instead-of-spying/129908/"
+    ampWebUrl: "https://www.idropnews.com/news/facebook-will-now-pay-you-for-voice-recordings-instead-of-spying/129908/amp/"
+    cdnAmpWebUrl: "https://www-idropnews-com.cdn.ampproject.org/c/s/www.idropnews.com/news/facebook-will-now-pay-you-for-voice-recordings-instead-of-spying/129908/amp/"
+    type: article
+    provider:
+      name: iDrop News
+      domain: idropnews.com
+    quality: 44
+    images:
+      - url: "https://cdn.idropnews.com/wp-content/uploads/2020/02/20135522/Facebook-App-Icon.jpg"
+        width: 1000
+        height: 600
+  - title: "Facebook offers to pay users for their voice recordings"
+    excerpt: "The recordings, made through its new market research app Viewpoints, will help to train the speech recognition system that powers Facebook’s Portal devices, which rival Amazon’s Echo speakers and its Alexa virtual assistant. Makers of smart speakers, including Facebook, Amazon, Apple and Google, faced criticism last year when it emerged ..."
+    publishedDateTime: 2020-02-21T20:45:00Z
+    webUrl: "https://www.latimes.com/business/story/2020-02-21/facebook-voice-recordings"
+    ampWebUrl: "https://www.latimes.com/business/story/2020-02-21/facebook-voice-recordings?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/business/story/2020-02-21/facebook-voice-recordings?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 44
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/d9b315c/2147483647/strip/true/crop/840x549+0+6/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F28%2F83%2F0c440fea4628b62ee124a28837c6%2Fvirus.jpg"
+        width: 320
+        height: 209
+  - title: "Facebook To Pay Users $5 For Their Voice Recordings"
+    excerpt: "Facebook Inc. (NASDAQ: FB) will pay users $5 for sharing their voice recordings, the company announced Thursday. What Happened The voice recordings would be used for"
+    publishedDateTime: 2020-02-21T09:48:00Z
+    webUrl: "https://www.benzinga.com/news/20/02/15381956/facebook-to-pay-users-5-for-their-voice-recordings"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/15381956"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15381956"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 44
+    images:
+      - url: "https://www.benzinga.com/files/images/story/2012/fbb.jpeg"
+        width: 1867
+        height: 1400
+  - title: "Facebook to Pay Users for Their Voice Recordings"
+    excerpt: "transcribing them in many occasions in the hopes of improving its voice recognition technology, a practice that other tech giants such as Amazon and Google were also doing. In light of this revelation, and the backlash that ensued, the social media platform is now changing its strategy, instead offering to pay its members for those recordings."
+    publishedDateTime: 2020-02-21T05:57:00Z
+    webUrl: "https://hypebeast.com/?post=4911494"
+    ampWebUrl: "https://hypebeast.com/2020/2/facebook-pay-users-for-voice-recordings?amp=1"
+    cdnAmpWebUrl: "https://hypebeast-com.cdn.ampproject.org/c/s/hypebeast.com/2020/2/facebook-pay-users-for-voice-recordings?amp=1"
+    type: article
+    provider:
+      name: Hypebeast
+      domain: hypebeast.com
+    quality: 44
+    images:
+      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2020%2F02%2Ffacebook-pay-users-for-voice-recordings-001.jpg?quality=95&w=1170&cbr=1&q=90&fit=max"
+        width: 1170
+        height: 781
+  - title: "Facebook to pay users for using their voice recordings"
+    excerpt: "As per a report by The Verge, Facebook has announced that it will pay some users for their voice recordings, which will be used by the company in improving its speech recognition technology. Facebook announced this after it was ‘caught’ listening and transcribing voice recordings without seeking permission from users. The report adds that ..."
+    publishedDateTime: 2020-02-21T06:50:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/facebook-to-pay-users-for-using-their-voice-recordings/articleshow/74238134.cms"
+    ampWebUrl: "https://m.timesofindia.com/gadgets-news/facebook-to-pay-users-for-using-their-voice-recordings/amp_articleshow/74238134.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/facebook-to-pay-users-for-using-their-voice-recordings/amp_articleshow/74238134.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 44
+    images:
+      - url: "https://static.toiimg.com/photo/msid-74238121/74238121.jpg"
+        width: 800
+        height: 600
+  - title: "Facebook will PAY you for your voice recordings, but should you do it?"
+    excerpt: "Facebook is offering up to $5 for your voice recordings so its speech recognition technology can improve. According to The Verge, those who qualify to be part of Pronunciations will be asked to record the phrase “Hey Portal” (AKA the name for Facebook's hardware division) followed by the first name of someone on your Facebook friends list."
+    publishedDateTime: 2020-02-21T12:25:00Z
+    webUrl: "https://www.tomsguide.com/uk/news/facebook-will-pay-you-dollar5-for-your-voice-recordings-but-should-you-do-it"
+    ampWebUrl: "https://www.tomsguide.com/uk/amp/news/facebook-will-pay-you-dollar5-for-your-voice-recordings-but-should-you-do-it"
+    cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/uk/amp/news/facebook-will-pay-you-dollar5-for-your-voice-recordings-but-should-you-do-it"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 44
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/Zppqju29nmtX5AdWz3eHoD-1200-80.jpg"
+        width: 1000
+        height: 600
+  - title: "Facebook will pay you to record your voice"
+    excerpt: "(CNN) — Facebook will pay you for your voice, but don’t expect to get wealthy. The company is paying selected people to record phrases to improve its voice recognition tools. It’s asking them record the phrase, “Hey Portal, call…” which is its camera-equipped home device, followed by saying the first name of a Facebook friend twice ..."
+    publishedDateTime: 2020-02-21T17:32:00Z
+    webUrl: "https://fox6now.com/2020/02/21/facebook-will-pay-you-to-record-your-voice/"
+    ampWebUrl: "https://fox6now.com/2020/02/21/facebook-will-pay-you-to-record-your-voice/amp/"
+    cdnAmpWebUrl: "https://fox6now-com.cdn.ampproject.org/c/s/fox6now.com/2020/02/21/facebook-will-pay-you-to-record-your-voice/amp/"
+    type: article
+    provider:
+      name: FOX6 Milwaukee
+      domain: fox6now.com
+    quality: 44
+    images:
+      - url: "https://localtvwiti.files.wordpress.com/2018/10/untitled-26.jpg?quality=85&strip=all"
+        width: 729
+        height: 410
+  - title: "Facebook will you $5 to record your voice"
+    excerpt: "(CNN) – Facebook will pay you to record your voice. The company is looking for select people to help improve its voice recognition tools. All you have to do is record a phrase… followed by the first name of a Facebook friend. You do that multiple times. In total, the task takes around five minutes. It doesn’t pay much though — you get ..."
+    publishedDateTime: 2020-02-21T17:46:00Z
+    webUrl: "https://www.wjbf.com/news/facebook-will-you-5-to-record-your-voice/"
+    ampWebUrl: "https://www.wjbf.com/news/facebook-will-you-5-to-record-your-voice/amp/"
+    cdnAmpWebUrl: "https://www-wjbf-com.cdn.ampproject.org/c/s/www.wjbf.com/news/facebook-will-you-5-to-record-your-voice/amp/"
+    type: article
+    provider:
+      name: WJBF
+      domain: wjbf.com
+    quality: 44
+    images:
+      - url: "https://www.wjbf.com/wp-content/uploads/sites/47/2016/02/facebook-logo-on-laptop-screen_36088381_ver1.0.jpg?w=1280&h=720&crop=1"
         width: 1280
-        height: 640
-  - title: "Controversy over India's use of facial recognition technology"
-    excerpt: "a hoodie or a scarf to reduce the risk of police facial recognition software identifying her. Protesters in India are increasingly concerned about the use of facial recognition technology during protests against a controversial new citizenship law. Credit:AP Police in the Indian capital and the northern state of Uttar Pradesh – both hotbeds ..."
-    publishedDateTime: 2020-02-17T13:19:00Z
-    webUrl: "https://www.smh.com.au/world/asia/controversy-over-india-s-use-of-facial-recognition-during-protests-20200217-p541pp.html"
-    ampWebUrl: "https://amp.smh.com.au/world/asia/controversy-over-india-s-use-of-facial-recognition-during-protests-20200217-p541pp.html"
-    cdnAmpWebUrl: "https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/world/asia/controversy-over-india-s-use-of-facial-recognition-during-protests-20200217-p541pp.html"
+        height: 720
+  - title: "Facebook will pay you $5 to record your voice"
+    excerpt: "Facebook will pay you for your voice, but don’t expect to get wealthy. The California-based company is paying selected people to record phrases to improve its voice recognition tools. It’s asking them record the phrase, “Hey Portal, call…” which is its camera-equipped home device, followed by saying the first name of a Facebook ..."
+    publishedDateTime: 2020-02-22T21:08:00Z
+    webUrl: "https://fox4kc.com/news/facebook-will-pay-you-5-to-record-your-voice/"
+    ampWebUrl: "https://fox4kc.com/news/facebook-will-pay-you-5-to-record-your-voice/amp/"
+    cdnAmpWebUrl: "https://fox4kc-com.cdn.ampproject.org/c/s/fox4kc.com/news/facebook-will-pay-you-5-to-record-your-voice/amp/"
     type: article
     provider:
-      name: Sydney Morning Herald
-      domain: smh.com.au
+      name: FOX4 Kansas City
+      domain: fox4kc.com
+    quality: 44
+    images:
+      - url: "https://fox4kc.com/wp-content/uploads/sites/16/2018/03/facebook_thumb.jpg?w=400&h=225&crop=1&resize=1280,720"
+        width: 1280
+        height: 720
+  - title: "Reports: Facebook offers up to $5 for voice recordings"
+    excerpt: "The company says that users' collected voice recordings will not be connected to Facebook profiles ... Facebook said on Wednesday it will pay $550 million in response to an Illinois-based class-action lawsuit against the facial recognition technology in its photo-labeling service, the New York Times reports. The big picture: The settlement ..."
+    publishedDateTime: 2020-02-22T17:43:00Z
+    webUrl: "https://www.axios.com/facebook-recording-speech-recognition-a3f4b813-d301-43ff-9d8b-a06cad0591a5.html"
+    ampWebUrl: "https://www.axios.com/facebook-recording-speech-recognition-a3f4b813-d301-43ff-9d8b-a06cad0591a5.html"
+    cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/facebook-recording-speech-recognition-a3f4b813-d301-43ff-9d8b-a06cad0591a5.html"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 44
+    images:
+      - url: "https://images.axios.com/V5g3DwWwcHd9GOG3xrFQxp-3PcE=/2020/02/22/1582389772887.jpg"
+        width: 3000
+        height: 2000
+  - title: "Facebook is willing to pay users for just recording audio for voice recognition"
+    excerpt: "San Francisco: Facebook has announced it will pay select users who agree to record their voice to improve its speech recognition technology. According to The Verge, the social networking giant company will pay select users to record snippets of audio through a new programme called \"Pronunciations\" in its Viewpoints market research app."
+    publishedDateTime: 2020-02-21T07:07:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/facebook-is-willing-to-pay-users-for-just-recording-audio-for-voice-recognition-11582267466383.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/facebook-is-willing-to-pay-users-for-just-recording-audio-for-voice-recognition/amp-11582267466383.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/facebook-is-willing-to-pay-users-for-just-recording-audio-for-voice-recognition/amp-11582267466383.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 42
+    images:
+      - url: "https://images.livemint.com/img/2020/02/21/600x338/2019-12-02T174920Z_467783753_RC25ND9X2N0L_RTRMADP_3_EU-FACEBOOK_1575316477461_1582267603516.JPG"
+        width: 600
+        height: 337
+  - title: "Facebook Will Pay You For Sharing Your Voice Recordings: Here's How You Can Earn"
+    excerpt: "The program will be rolled out to select users with 75 or more Facebook friends Facebook has been repeatedly caught with its hand in the cookie jar when it comes to sharing user data. It was caught in August last year hiring third-party contractors for reviewing and transcribing user audio clips,"
+    publishedDateTime: 2020-02-21T09:00:00Z
+    webUrl: "https://www.ibtimes.com/facebook-will-pay-you-sharing-your-voice-recordings-heres-how-you-can-earn-2926330"
+    ampWebUrl: "https://www.ibtimes.com/facebook-will-pay-you-sharing-your-voice-recordings-heres-how-you-can-earn-2926330?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/facebook-will-pay-you-sharing-your-voice-recordings-heres-how-you-can-earn-2926330?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
     quality: 39
-  - title: "Chinese city rolls out facial-recognition thermometers on buses to combat coronavirus"
-    excerpt: "Buses in a Chinese city have been equipped with thermometers that use facial recognition to scan passengers in efforts to more quickly detect symptoms of the coronavirus, according to local reports. The smart thermometers can measure commuters’ temperatures in as fast as a second and alert the driver if an anomaly is detected, the Guangzhou ..."
-    publishedDateTime: 2020-02-19T14:33:00Z
-    webUrl: "https://nypost.com/2020/02/19/chinese-city-rolls-out-facial-recognition-thermometers-on-buses-to-combat-coronavirus/"
-    ampWebUrl: "https://nypost.com/2020/02/19/chinese-city-rolls-out-facial-recognition-thermometers-on-buses-to-combat-coronavirus/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/02/19/chinese-city-rolls-out-facial-recognition-thermometers-on-buses-to-combat-coronavirus/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 37
     images:
-      - url: "https://thenypost.files.wordpress.com/2020/02/chinese-city-rolls-out-facial-recognition-thermometers-on-buses.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-  - title: "Edmonton police unveil details on use of facial recognition technology"
-    excerpt: "City police revealed details on Wednesday for plans to implement facial recognition technology to match suspects from crime scenes with known offenders. Internal discussions began a couple of years ago to use the technology and have ramped up in the last couple of months, said Warren Driechel, superintendent of the Edmonton police informatics ..."
-    publishedDateTime: 2020-02-20T01:16:00Z
-    webUrl: "https://edmontonjournal.com/news/local-news/edmonton-police-unveil-details-on-use-of-facial-recognition-technology"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/03/18/facebook-logos_0.jpg"
+        width: 1024
+        height: 683
+  - title: "Facebook will pay for users' voice recordings after it was caught listening to Messenger chats"
+    excerpt: "In a program called 'Pronunciations', participants will be payed a small sum, only up to $5, to use the company's market research app Viewpoints for recording various words and phrases that the company will then leverage to train its speech recognition AI. That voice data will be used to improve products like Portal, which is Facebook's smart ..."
+    publishedDateTime: 2020-02-21T16:31:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8029495/Facebook-pay-users-voice-recordings-caught-listening-Messenger-chats.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8029495/amp/Facebook-pay-users-voice-recordings-caught-listening-Messenger-chats.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8029495/amp/Facebook-pay-users-voice-recordings-caught-listening-Messenger-chats.html"
     type: article
     provider:
-      name: Edmonton Journal
-      domain: edmontonjournal.com
-    quality: 34
-  - title: "Police roll out controversial live facial recognition technology at Oxford Circus"
-    excerpt: "Scotland Yard has installed controversial facial recognition technology at Oxford Circus. The cameras were spotted mounted on vans in the area, one of the busiest in London, this morning. One dark blue van was captured in a picture posted by UK civil liberties group Big Brother Watch next to a sign reading: \"Police live facial recognition in use.\""
-    publishedDateTime: 2020-02-20T16:46:00Z
-    webUrl: "https://www.standard.co.uk/news/london/police-roll-out-controversial-live-facial-recognition-technology-at-oxford-circus-a4367416.html"
-    type: article
-    provider:
-      name: London Evening Standard
-      domain: standard.co.uk
-    quality: 34
+      name: Mail Online
+      domain: dailymail.co.uk
+    quality: 32
     images:
-      - url: "https://static.standard.co.uk/s3fs-public/thumbnails/image/2018/03/21/09/poetry-london-underground.jpg"
-        width: 1500
-        height: 1000
-  - title: "Privacy commissioners launch investigation into facial recognition technology tested by Toronto police, other GTA forces"
-    excerpt: "Federal and provincial regulators are launching an investigation into whether Clearview AI, the company that makes facial recognition technology used by at least four Ontario police forces, breaks Canadian privacy laws. The investigation was initiated ..."
-    publishedDateTime: 2020-02-21T16:52:00Z
-    webUrl: "https://www.thestar.com/news/gta/2020/02/20/privacy-commissioners-launch-investigation-into-facial-recognition-technology-tested-by-toronto-police-other-gta-forces.html"
-    ampWebUrl: "https://www.thestar.com/amp/news/gta/2020/02/20/privacy-commissioners-launch-investigation-into-facial-recognition-technology-tested-by-toronto-police-other-gta-forces.html"
-    cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/news/gta/2020/02/20/privacy-commissioners-launch-investigation-into-facial-recognition-technology-tested-by-toronto-police-other-gta-forces.html"
+      - url: "https://i.dailymail.co.uk/1s/2020/02/21/16/21461494-0-image-a-11_1582301264268.jpg"
+        width: 636
+        height: 382
+  - title: "Facebook Offering $5 For User Voice Snippet To Improve Its Speech Recognition Technology"
+    excerpt: "Tech giants like Facebook, Google, Amazon and Apple had to suspend training their AI (Artificial Intelligence) software a while back for voice recognition ... they will first need to apply to get qualified by simply taking help from Facebook's Viewpoints market research app. Once a user is qualified, they will be asked to record the phrase ..."
+    publishedDateTime: 2020-02-22T12:54:00Z
+    webUrl: "https://www.republicworld.com/technology-news/apps/facebook-offering-350-for-voice-snippet.html"
     type: article
     provider:
-      name: The Star
-      domain: thestar.com
-    quality: 34
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 32
     images:
-      - url: "https://images.thestar.com/VCnTmwymLnbBmkLF_tK-THOX3fM=/1200x800/smart/filters:cb(1582302710274)/https://www.thestar.com/content/dam/thestar/news/gta/2020/02/20/privacy-commissioners-launch-investigation-into-facial-recognition-technology-tested-by-toronto-police-other-gta-forces/clearview_ai.jpg"
-        width: 1200
-        height: 800
-  - title: "China rolls out facial recognition thermometers on buses amid coronavirus outbreak"
-    excerpt: "Buses in south China’s Guangdong Province are being equipped with facial recognition thermometers for faster detection of passengers who may be infected."
-    publishedDateTime: 2020-02-19T18:29:00Z
-    webUrl: "https://thehill.com/changing-america/well-being/prevention-cures/483669-china-rolls-out-facial-recognition-thermometers"
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/civx6ujxzrxga6yg_1582359929.jpeg?tr=f-jpeg"
+        width: 1242
+        height: 711
+  - title: "Facebook to pay users for recording their voice to improve its speech recognition tech"
+    excerpt: "Facebook has announced it will pay select users who agree to record their voice to improve its speech recognition technology. According to The Verge, the social networking giant he company will pay select users to record snippets of audio through a new programme called “Pronunciations in its Viewpoints market research app."
+    publishedDateTime: 2020-02-21T10:28:00Z
+    webUrl: "https://www.hindustantimes.com/tech/facebook-to-pay-users-for-recording-their-voice-to-improve-its-speech-recognition-tech/story-IwjGQJS1AoyzPfgGlZykRN.html"
+    ampWebUrl: "https://m.hindustantimes.com/tech/facebook-to-pay-users-for-recording-their-voice-to-improve-its-speech-recognition-tech/story-IwjGQJS1AoyzPfgGlZykRN_amp.html"
+    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/facebook-to-pay-users-for-recording-their-voice-to-improve-its-speech-recognition-tech/story-IwjGQJS1AoyzPfgGlZykRN_amp.html"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 33
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 31
+  - title: "Facebook Offers Some Users Money For Voice Recordings"
+    excerpt: "The voice recordings will be used to improve speech recognition systems. The offer comes after Facebook was caught transcribing voice recordings for the shoes in the past without informing customers is doing so. Users of the Viewpoints app can look under the Pronunciations tab to see if they qualify to be part of the program. Those that do ..."
+    publishedDateTime: 2020-02-21T16:30:00Z
+    webUrl: "https://www.legitreviews.com/facebook-offers-some-users-money-for-voice-recordings_217594"
+    type: article
+    provider:
+      name: Legit Reviews
+      domain: legitreviews.com
+    quality: 24
     images:
-      - url: "https://thehill.com/sites/default/files/ca_busfacialtech_021920getty.jpg"
-        width: 1440
-        height: 880
-  - title: "Watch: Edmonton police give update on facial recognition technology"
-    excerpt: "Warren Driechel, superintendent of the Edmonton police informatics division, and Devin Laforce, superintendent of the Edmonton police investigative support, provided an update Wednesday on a project assessing and engaging in a facial recognition solution for the police service. The technology hasn’t been implemented yet as EPS is still ..."
-    publishedDateTime: 2020-02-20T01:38:00Z
-    webUrl: "https://edmontonjournal.com/news/local-news/watch-edmonton-police-update-on-facial-recognition-technology"
+      - url: "https://www.legitreviews.com/wp-content/uploads/2019/12/facebook-facebook.jpg"
+        width: 1024
+        height: 680
+  - title: "Facebook to pay users for to improve service"
+    excerpt: "According to The Verge, the social networking giant he company will pay select users to record snippets of audio through a new programme called \"Pronunciations in its Viewpoints market research app ... this is an interesting approach by Facebook to improve its artificial intelligence-driven transcription skills."
+    publishedDateTime: 2020-02-21T08:04:00Z
+    webUrl: "https://www.khaleejtimes.com/technology/mobiles/facebook-to-pay-users-for-to-improve-service"
     type: article
     provider:
-      name: Edmonton Journal
-      domain: edmontonjournal.com
+      name: Khaleej Times
+      domain: khaleejtimes.com
+    quality: 24
+    images:
+      - url: "https://images.khaleejtimes.com/storyimage/KT/20200221/ARTICLE/200229877/AR/0/Facebook,-voice-recognition,-social-media.jpg&NCS_modified=20200221083954&exif=.jpg"
+        width: 790
+        height: 517
+  - title: "Facebook will pay you up to $5 to record your voice"
+    excerpt: "Facebook will pay you for your voice, but don’t expect to get wealthy. The company is paying selected people to record phrases to improve its voice recognition tools. It’s asking them record the phrase, “Hey Portal, call…” which is its camera-equipped home device, followed by saying the first name of a Facebook friend twice for 10 times."
+    publishedDateTime: 2020-02-21T17:18:00Z
+    webUrl: "https://www.channel3000.com/facebook-will-pay-you-up-to-5-to-record-your-voice/"
+    type: article
+    provider:
+      name: Channel 3000
+      domain: channel3000.com
+    quality: 24
+    images:
+      - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.channel3000.com/content/uploads/2020/01/5dfb591dd3167.image_.jpg"
+        width: 1763
+        height: 1175
+  - title: "Now Facebook wants to pay you for your voice recordings – how much can you get?"
+    excerpt: "As a part of Facebook Viewpoints, a new program called Pronunciations will let users submit audio recordings to Facebook. The company says it wants these recordings to help improve its speech recognition AI. Each participant will need to say, “Hey Portal,” followed by a friend’s name twice, then repeat the process nine more times with dif ..."
+    publishedDateTime: 2020-02-22T03:46:00Z
+    webUrl: "https://www.komando.com/social-media/facebook-pays-for-voice-recordings/707922/"
+    ampWebUrl: "https://www.komando.com/social-media/facebook-pays-for-voice-recordings/707922/?amp"
+    cdnAmpWebUrl: "https://www-komando-com.cdn.ampproject.org/c/s/www.komando.com/social-media/facebook-pays-for-voice-recordings/707922/?amp"
+    type: article
+    provider:
+      name: Kim Komando
+      domain: komando.com
+    quality: 20
+  - title: "FB to pay users for recording to improve speech recognition"
+    excerpt: "... has announced it will pay select users who agree to record their voice to improve its speech recognition technology. According to The Verge, the social networking giant he company will pay ..."
+    publishedDateTime: 2020-02-21T12:12:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20200221/3508472.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
     quality: 19
-  - title: "Met police deploy facial recognition technology in central London"
-    excerpt: "Metropolitan Police have deployed facial recognition technology in central London with just two hours’ notice, alarming citizens. Just across from the Microsoft store on London’s Regent ..."
-    publishedDateTime: 2020-02-21T10:26:00Z
-    webUrl: "https://tribune.com.pk/story/2161493/8-london-police-deploy-facial-recognition-technology-oxford-circus/"
+  - title: "Facebook is paying $5 to users! Check who all qualify to participate in its voice recognition programme"
+    excerpt: "Social media giant Facebook is offering USD 5 to some select users in a bid to improve its voice recognition technology. According to The Verge, Facebook will record the voice of some users through a new programme called “Pronounciations” in its Viewpoints market research app. The move comes after Google, Apple, Amazon and Microsoft had ..."
+    publishedDateTime: 2020-02-22T10:37:00Z
+    webUrl: "https://www.financialexpress.com/industry/technology/facebook-is-paying-5-to-users-check-who-all-qualify-to-participate-in-its-voice-recognition-programme/1875817/"
+    ampWebUrl: "https://www.financialexpress.com/industry/technology/facebook-is-paying-5-to-users-check-who-all-qualify-to-participate-in-its-voice-recognition-programme/1875817/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/facebook-is-paying-5-to-users-check-who-all-qualify-to-participate-in-its-voice-recognition-programme/1875817/lite/"
     type: article
     provider:
-      name: The Express Tribune
-      domain: tribune.com.pk
-    quality: 19
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 8
+  - title: "Facebook will pay you $5 for your voice recordings instead of just listening in for free"
+    excerpt: "Those recordings will then help improve Facebook’s speech recognition technology, presumably so CEO Mark Zuckerberg will have someone to talk to once he alienates the rest of the world’s population… Those of you that want to take up this offer, might want to know what’s happening with your sultry tones. A new section in the Viewpoints ..."
+    publishedDateTime: 2020-02-21T16:14:00Z
+    webUrl: "https://knowtechie.com/facebook-will-pay-you-5-for-your-voice-recordings-instead-of-just-listening-in-for-free/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 0
 
 secured: "Hh+Yj99r1I4pQTgE8AXuw/RGil+4kinEb1g1AG3F+yAeEo7+WesZUgP4YGL46FNS3DDPbjsoMUycnAwu5j9697kknY7piSHRP3fj0M4mrSuey10BbkVAK/0dYjFafllYwr4NkqeH6gF+EUzPYHED4lgTdn639aQ4xtr9hW0hbIp5GPqBFKwo0fSfpghP229jQ716bICBCS2jM3UsbtsKue9xSj9YrPmMYkYoE6mAUlwOo5baUTMm9lNzWQVO7qSLdR88knEEuUvKYWXtmJFlAxKNFb3BCDOUQllToCMiMTV5mm9b4jtRW4guX+Hq8p/xdXxGA5z42nM4HMvcRAYO6uWPcYWae55Jtw8AQe68RaI2kboZ7N7uS8PYyDjZjbd2lUd2r4AwiTMtnigedEohPYkH6PZraT5FYLQYoCFa5NWHM1lUKBAVRZ78v2WSUCgJzGLAvox8egwbe9z1PjYzG9BBcf8No9SBeCNJlhUQ3Vk=;fqLihEP04kB8Z1ZQTRDjnA=="
 ---

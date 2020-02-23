@@ -69,6 +69,21 @@ related:
       - url: "https://tr2.cbsistatic.com/hub/i/r/2020/02/14/7d318858-3655-4511-abd6-0b3f89d03303/resize/1200x/dd6b6e59edbabf3fe55af7ed24c5343a/facial-recognition.jpg"
         width: 1200
         height: 633
+  - title: "Three Common Misconceptions About Facial Recognition Technology"
+    excerpt: "There are many misconceptions regarding the technology, how it is actually used and the significant benefits agencies are achieving by employing it in a responsible manner."
+    publishedDateTime: 2020-02-18T13:07:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/02/18/three-common-misconceptions-about-facial-recognition-technology/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/02/18/three-common-misconceptions-about-facial-recognition-technology/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/18/three-common-misconceptions-about-facial-recognition-technology/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/711x543/https://specials-images.forbesimg.com/dam/imageserve/905553688/960x0.jpg?fit=scale"
+        width: 711
+        height: 543
   - title: "Why concern about facial recognition from brain scans is overblown"
     excerpt: "The privacy concerns arose when a study published in October reported that a facial-recognition software program had correctly matched photos of research volunteers with magnetic resonance imaging (MRI) scans of their head and brain 1. This feat was a technical tour de force, representing important advances in biomedical image analysis."
     publishedDateTime: 2020-02-18T12:40:00Z
@@ -125,6 +140,21 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 67
+  - title: "Chino police and facial recognition technology: 5 things to know"
+    excerpt: "The Chino Police Department held a forum on the use of the software and solicited feedback from the community."
+    publishedDateTime: 2020-02-15T00:16:00Z
+    webUrl: "https://www.dailybulletin.com/2020/02/14/chino-police-and-facial-recognition-technology-5-things-to-know/"
+    ampWebUrl: "https://www.dailybulletin.com/2020/02/14/chino-police-and-facial-recognition-technology-5-things-to-know/amp/"
+    cdnAmpWebUrl: "https://www-dailybulletin-com.cdn.ampproject.org/c/s/www.dailybulletin.com/2020/02/14/chino-police-and-facial-recognition-technology-5-things-to-know/amp/"
+    type: article
+    provider:
+      name: Inland Valley Daily Bulletin
+      domain: dailybulletin.com
+    quality: 59
+    images:
+      - url: "https://www.dailybulletin.com/wp-content/uploads/2020/02/IDB-L-FACEID-0215-16x9-1-1.jpg?w=480&h=270"
+        width: 480
+        height: 270
   - title: "Protesters in India object to facial recognition expansion"
     excerpt: "Police in New Delhi are using facial recognition to identify protesters. Activists are worried about the lack of regulation around the technology; they are also sharing tips on evading detection. Protest against India's Citizenship Amendment Act in New Delhi. Activists in the Indian capital of New Delhi are expressing concern over the use of ..."
     publishedDateTime: 2020-02-18T04:49:00Z
@@ -140,6 +170,21 @@ related:
       - url: "https://www.dw.com/static/stills/images/je/je20200114_paperN_image_1024x576_3.jpg"
         width: 1024
         height: 576
+  - title: "Edmonton police to reveal intended use of facial recognition technology"
+    excerpt: "EDMONTON -- Police will speak about how and when they intend to use facial recognition technology in Edmonton at a news conference Wednesday. Informatics Division Supt. Warren Driechel will reveal ..."
+    publishedDateTime: 2020-02-19T20:28:00Z
+    webUrl: "https://edmonton.ctvnews.ca/edmonton-police-to-reveal-intended-use-of-facial-recognition-technology-1.4818878"
+    ampWebUrl: "https://beta.ctvnews.ca/local/edmonton/2020/2/19/1_4818878.html"
+    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/edmonton/2020/2/19/1_4818878.html"
+    type: article
+    provider:
+      name: CTV News
+      domain: ctvnews.ca
+    quality: 59
+    images:
+      - url: "https://beta.ctvnews.ca/local/edmonton/2020/2/19/1_4818878/_jcr_content/root/responsivegrid/image.coreimg.jpg"
+        width: 1020
+        height: 574
   - title: "UCLA drops controversial face recognition plan"
     excerpt: "A major California university has dropped plans to use facial recognition for the surveillance of the campus. The idea was to have the University of California Los Angeles use facial recognition as a way to gain access to buildings, to prove authenticity and to deny entry to people with restricted access to the campus, matching their faces ..."
     publishedDateTime: 2020-02-19T22:32:00Z
@@ -155,6 +200,36 @@ related:
       - url: "https://www.gannett-cdn.com/-mm-/d8d0774057d19139d16e6ede624d76e89947662d/c=1-0-1365-767/local/-/media/2020/02/06/USATODAY/usatsports/imageforentry34-vs0.jpg?auto=webp&format=pjpg&width=1200"
         width: 1200
         height: 675
+  - title: "Portland Ponders Facial Recognition Ban for Businesses"
+    excerpt: "The state of Oregon has already banned police from using body cameras with facial recognition, but the city wants to take the ban further. “We felt a moral obligation to develop a broader approach.” (TNS) — It took a few moments before Eduardo ..."
+    publishedDateTime: 2020-02-21T22:13:00Z
+    webUrl: "https://www.governing.com/security/Portland-Ponders-Facial-Recognition-Ban-for-Businesses.html"
+    ampWebUrl: "https://www.governing.com/security/Portland-Ponders-Facial-Recognition-Ban-for-Businesses.html?AMP"
+    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/Portland-Ponders-Facial-Recognition-Ban-for-Businesses.html?AMP"
+    type: article
+    provider:
+      name: Governing
+      domain: governing.com
+    quality: 59
+    images:
+      - url: "https://media2.govtech.com/images/shutterstock_1508404712.jpg"
+        width: 1008
+        height: 630
+  - title: "Chino police and facial recognition technology: 5 things to know"
+    excerpt: "The Chino Police Department started using facial recognition software in a trial run in 2019, and it plans to ask the City Council to approve it for full-time use. Chino Police Chief Wes Simmons and Sgt. Dustin Tomicic recently held an event to show the public how the software functions, and answered questions about it. “We want to take away ..."
+    publishedDateTime: 2020-02-22T17:20:00Z
+    webUrl: "https://www.pe.com/2020/02/14/chino-police-and-facial-recognition-technology-5-things-to-know/"
+    ampWebUrl: "https://www.pe.com/2020/02/14/chino-police-and-facial-recognition-technology-5-things-to-know/amp/"
+    cdnAmpWebUrl: "https://www-pe-com.cdn.ampproject.org/c/s/www.pe.com/2020/02/14/chino-police-and-facial-recognition-technology-5-things-to-know/amp/"
+    type: article
+    provider:
+      name: The Press-Enterprise
+      domain: pe.com
+    quality: 59
+    images:
+      - url: "https://www.pe.com/wp-content/uploads/2020/02/IDB-L-FACEID-0215-16x9-1-1.jpg?w=480&h=270"
+        width: 480
+        height: 270
   - title: "Merkley bill aims to avert federal abuse of facial recognition"
     excerpt: "WASHINGTON (KTVZ) – Sens. Jeff Merkley (D-OR) and Cory Booker (D-NJ) introduced legislation Wednesday they said is aimed at protecting the privacy of consumers from rapidly advancing facial recognition technology and data collection practices that heighten the risk of over-surveillance and over-policing, especially in communities already ..."
     publishedDateTime: 2020-02-14T07:25:00Z
@@ -168,6 +243,19 @@ related:
       - url: "https://ktvz.com/wp-content/uploads/2019/11/US-Capitol-generic-860x484.jpg"
         width: 860
         height: 484
+  - title: "EU Plans Rules for Facial-Recognition Technology"
+    excerpt: "European Union officials plan to regulate certain applications of facial-recognition technology later this year because it can violate privacy rights."
+    publishedDateTime: 2020-02-20T20:22:00Z
+    webUrl: "https://www.wsj.com/articles/eu-plans-rules-for-facial-recognition-technology-11582219726"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 54
+    images:
+      - url: "https://images.wsj.net/im-156180/social"
+        width: 1280
+        height: 640
   - title: "UCLA Abandons Plans to Use Facial Recognition After Backlash"
     excerpt: "In an attempt to highlight the risks of using facial recognition on UCLA's campus, Fight for the Future used Amazon's facial recognition software, Rekognition, to scan public photos of UCLA's athletes and faculty, then compare the photos to a mugshot database. Over 400 photos were scanned, 58 of which were false positives for mugshot images ..."
     publishedDateTime: 2020-02-20T02:08:00Z
@@ -240,6 +328,17 @@ related:
       - url: "https://www.brookings.edu/wp-content/uploads/2020/02/Police_surveillance_camera.jpg"
         width: 2400
         height: 1376
+  - title: "Controversy over India's use of facial recognition technology"
+    excerpt: "a hoodie or a scarf to reduce the risk of police facial recognition software identifying her. Protesters in India are increasingly concerned about the use of facial recognition technology during protests against a controversial new citizenship law. Credit:AP Police in the Indian capital and the northern state of Uttar Pradesh – both hotbeds ..."
+    publishedDateTime: 2020-02-17T13:19:00Z
+    webUrl: "https://www.smh.com.au/world/asia/controversy-over-india-s-use-of-facial-recognition-during-protests-20200217-p541pp.html"
+    ampWebUrl: "https://amp.smh.com.au/world/asia/controversy-over-india-s-use-of-facial-recognition-during-protests-20200217-p541pp.html"
+    cdnAmpWebUrl: "https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/world/asia/controversy-over-india-s-use-of-facial-recognition-during-protests-20200217-p541pp.html"
+    type: article
+    provider:
+      name: Sydney Morning Herald
+      domain: smh.com.au
+    quality: 39
   - title: "UCLA cancels on-campus facial recognition program after backlash"
     excerpt: "This article, UCLA cancels on-campus facial recognition program after backlash, originally appeared on CNET.com. UCLA will not go forward with a facial recognition program, and will prohibit the technology's use on campus,"
     publishedDateTime: 2020-02-20T06:20:00Z
@@ -253,6 +352,21 @@ related:
       - url: "https://s.hdnux.com/photos/01/10/54/66/19058071/3/rawImage.jpg"
         width: 940
         height: 627
+  - title: "Chinese city rolls out facial-recognition thermometers on buses to combat coronavirus"
+    excerpt: "Buses in a Chinese city have been equipped with thermometers that use facial recognition to scan passengers in efforts to more quickly detect symptoms of the coronavirus, according to local reports. The smart thermometers can measure commuters’ temperatures in as fast as a second and alert the driver if an anomaly is detected, the Guangzhou ..."
+    publishedDateTime: 2020-02-19T14:33:00Z
+    webUrl: "https://nypost.com/2020/02/19/chinese-city-rolls-out-facial-recognition-thermometers-on-buses-to-combat-coronavirus/"
+    ampWebUrl: "https://nypost.com/2020/02/19/chinese-city-rolls-out-facial-recognition-thermometers-on-buses-to-combat-coronavirus/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/02/19/chinese-city-rolls-out-facial-recognition-thermometers-on-buses-to-combat-coronavirus/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 37
+    images:
+      - url: "https://thenypost.files.wordpress.com/2020/02/chinese-city-rolls-out-facial-recognition-thermometers-on-buses.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
   - title: "Privacy rights groups call for ‘day of action’ to ban facial recognition at all schools"
     excerpt: "Fight for the Future (FFTF) and Students for Sensible Drug Policy are organizing what they call a ‘National Day of Action to Ban Facial Recognition from College Campuses’ on March 2. FFTF and other groups have also called for and have actively been lobbying for a total federal ban on facial recognition technology, although there has been ..."
     publishedDateTime: 2020-02-19T18:13:00Z

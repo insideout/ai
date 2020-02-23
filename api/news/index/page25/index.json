@@ -2,176 +2,6 @@
   "page": 25,
   "value": [
     {
-      "path": "_posts/_archive/2020-02-06-clearview-ai-is-looking-to-expand-globally-report-says.md",
-      "title": "Clearview AI is looking to expand globally, report says",
-      "excerpt": "The facial recognition company reportedly wants to sell its app to law enforcement in 22 more countries. Clearview AI, a controversial facial recognition app being used by US law enforcement to identify suspects and other people, is reportedly eyeing global expansion. It wants to sell its services to law enforcement in 22 more countries ...",
-      "heat": 117,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/news/clearview-ai-reportedly-looking-to-expand-globally/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/clearview-ai-reportedly-looking-to-expand-globally/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/clearview-ai-reportedly-looking-to-expand-globally/",
-      "publishedDateTime": "2020-02-05T18:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet3.cbsistatic.com/img/g3NdohYSdrzYH4i2iNFOSc9gHbQ=/756x567/2020/02/06/8599565c-e194-4d37-9ab7-56f3f399d317/facial-recognition.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "Clearview AI is looking to expand globally, report says",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-02-06-cloud-natural-language-processing-market-is-booming-worldwide-xerox-google-baidu-amazon.md",
-      "title": "Cloud Natural Language Processing Market Is Booming Worldwide | Xerox, Google, Baidu, Amazon",
-      "excerpt": "The Latest research study released by HTF MI \"Global Cloud Natural Language Processing Market\" with 100+ pages of analysis on business Strategy taken up by key and emerging industry players and delivers know how of the current market development,",
-      "heat": 73,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-is-booming-worldwide-xerox-google-baidu-amazon-2020-02-06",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-06T12:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Cloud Natural Language Processing Market Is Booming Worldwide | Xerox, Google, Baidu, Amazon",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-02-06-coronavirus-fears-will-leave-empty-seats-at-a-top-ai-conference.md",
-      "title": "Coronavirus Fears Will Leave Empty Seats at a Top AI Conference",
-      "excerpt": "Yang was due to present an award-winning paper describing a way for an AI algorithm to perform image recognition by drawing from different datasets without ever revealing their contents. He decided to cancel his trip due to the global health emergency triggered by the coronavirus in China. Yang estimates that around 800 attendees from mainland ...",
-      "heat": 187,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/coronavirus-fears-empty-seats-ai-conference/",
-      "ampWebUrl": "https://www.wired.com/story/coronavirus-fears-empty-seats-ai-conference/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/coronavirus-fears-empty-seats-ai-conference/amp",
-      "publishedDateTime": "2020-02-05T23:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5e3b32fd281efd000882f15d/master/pass/Biz-emptyplane-86146996.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": "Coronavirus Fears Will Leave Empty Seats at a Top AI Conference",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-02-06-crowdstrike-aws-expand-world-challenge-official-provider-roles.md",
-      "title": "CrowdStrike, AWS expand World Challenge official provider roles",
-      "excerpt": "In forming an expanded alliance, SRO Motorsports Group will benefit from AWS’ 175 fully featured services for storage, networking, analytics, machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR and AR), with a broad global reach. Along with being official ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://racer.com/2020/02/06/crowdstrike-aws-expand-world-challenge-official-provider-roles/",
-      "ampWebUrl": "https://racer.com/2020/02/06/crowdstrike-aws-expand-world-challenge-official-provider-roles/amp/",
-      "cdnAmpWebUrl": "https://racer-com.cdn.ampproject.org/c/s/racer.com/2020/02/06/crowdstrike-aws-expand-world-challenge-official-provider-roles/amp/",
-      "publishedDateTime": "2020-02-06T10:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Racer",
-        "domain": "racer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://racerdigital.files.wordpress.com/2020/02/aws-crowdstrike-1.jpeg?w=1000&h=430&crop=1",
-          "width": 1000,
-          "height": 430,
-          "title": "CrowdStrike, AWS expand World Challenge official provider roles",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-02-06-energy-names-inaugural-director-of-new-artificial-intelligence-and-technology-office.md",
       "title": "Energy Names Inaugural Director of New Artificial Intelligence and Technology Office",
       "excerpt": "Less than a half-year into its existence, the Energy Department’s new Artificial Intelligence and Technology Office officially unveiled its leader. According to a Thursday announcement, the agency’s undersecretary for science officially swore in Cheryl Ingstad as the inaugural director of AITO on Feb. 4. “AI technologies will be as ...",
@@ -2095,6 +1925,185 @@
         "Google AI",
         "Microsoft AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-02-07-machine-learning-infrastructure-terraforming-sagemaker-part-1.md",
+      "title": "Machine Learning Infrastructure ~Terraforming SageMaker Part 1~",
+      "excerpt": "The MLOps cover these areas mainly: Amazon SageMaker is AWS based machine learning platform that enables developers to build machine learning models, train data, deploy an inference point on the ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/@yuyasugano/machine-learning-infrastructure-terraforming-sagemaker-part-1-e5e22e368248",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-07T14:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/765/1*ZdKHNcpoyZaePOlGoy4Qlg.png",
+          "width": 765,
+          "height": 436,
+          "title": "Machine Learning Infrastructure ~Terraforming SageMaker Part 1~",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-02-07-natural-language-processing-market-2020-precise-outlook-apple-dolbey-systems-google-microsof-verint.md",
+      "title": "Natural Language Processing Market 2020 Precise Outlook - Apple, Dolbey Systems, Google, Microsof, Verint",
+      "excerpt": "The Natural Language Processing Market report is a compilation of first-hand information, qualitative and quantitative assessment by industry analysts, inputs from industry experts and industry participants across the value chain.",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-2020-precise-outlook---apple-dolbey-systems-google-microsof-verint-2020-02-07",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-07T01:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Natural Language Processing Market 2020 Precise Outlook - Apple, Dolbey Systems, Google, Microsof, Verint",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-02-07-nuros-r2-vehicle-has-been-granted-the-nhtsas-first-regulatory-exemption-for-a-custom-self-driving-car.md",
+      "title": "Nuro's R2 vehicle has been granted the NHTSA's first regulatory exemption for a custom self-driving car",
+      "excerpt": "Self-driving cars: Nuro is a well-known entity in the autonomous vehicle industry. It's partnered up with companies like Kroger and Dominos in the past to offer driverless food and grocery delivery services via its \"R1\" generation of vehicles. Now ...",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techspot.com/news/83926-nuro-has-granted-nhtsa-first-regulatory-exemption-custom.html",
+      "ampWebUrl": "https://www.techspot.com/amp/news/83926-nuro-has-granted-nhtsa-first-regulatory-exemption-custom.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83926-nuro-has-granted-nhtsa-first-regulatory-exemption-custom.html",
+      "publishedDateTime": "2020-02-07T14:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/ts3_thumbs/2020/02/2020-02-07-ts3_thumbs-3a9.jpg",
+          "width": 800,
+          "height": 560,
+          "title": "Nuro's R2 vehicle has been granted the NHTSA's first regulatory exemption for a custom self-driving car",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-02-07-smart-cities-how-artificial-intelligence-could-change-london.md",
+      "title": "Smart cities: How artificial intelligence could change London",
+      "excerpt": "Computers are scanning London's roads, with a 98% accuracy rate in identifying vehicles and people. And they are are learning all the time. The new system can run 24/7 and is part of the \"smart city\" revolution. Using data from the scanners, planners can change streets and target investment.",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bbc.com/news/av/uk-england-london-51415491/smart-cities-how-artificial-intelligence-could-change-london",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-07T15:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/F0A1/production/_110810616_p082lg33.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": "Smart cities: How artificial intelligence could change London",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

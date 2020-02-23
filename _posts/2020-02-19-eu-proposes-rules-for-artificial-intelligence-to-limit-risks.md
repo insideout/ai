@@ -39,21 +39,6 @@ related:
       - url: "https://www.sciencemag.org/sites/default/files/styles/article_main_large/public/European_AI_Regulation_1280x720.jpg?itok=OAWMDBz_"
         width: 1280
         height: 720
-  - title: "EU proposes rules for artificial intelligence to limit risks"
-    excerpt: "The European Union unveiled proposalsWednesday to regulate artificial intelligence that call for strict rules and safeguards on risky applications of the rapidly developing technology. The report is part of the bloc's wider digital strategy aimed at maintaining its position as the global pacesetter on technological standards."
-    publishedDateTime: 2020-02-20T00:18:00Z
-    webUrl: "https://www.sfgate.com/business/technology/article/EU-proposes-rules-for-artificial-intelligence-to-15066968.php"
-    ampWebUrl: "https://www.sfgate.com/business/technology/amp/EU-proposes-rules-for-artificial-intelligence-to-15066968.php"
-    cdnAmpWebUrl: "https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/business/technology/amp/EU-proposes-rules-for-artificial-intelligence-to-15066968.php"
-    type: article
-    provider:
-      name: SFGate
-      domain: sfgate.com
-    quality: 57
-    images:
-      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-        width: 375
-        height: 211
   - title: "EU Unveils Plans to Regulate Artificial Intelligence"
     excerpt: "Margrethe Vestager, the EU’s digital policy chief, unveiled a strategy for artificial intelligence on Wednesday that aims to boost the use of AI in Europe while addressing concerns about data privacy. “We want every citizen, every employee, every business to stand a fair chance to reap the benefits of digitalization,” she said in a statement."
     publishedDateTime: 2020-02-19T18:32:00Z
@@ -68,6 +53,6 @@ related:
         width: 620
         height: 372
 
-secured: "Pz/2fnRPJmyaQGAFS2qEKCvO6j2mwjanBvtEa41r/DwlbkZpHPgSvnxmuOBS0VjxKGM6lL6JjS5jVow5w3m7p9GRmg2Mb3yL5EghWemMODkRypg7brVT6I8iHHHXgZ65d3w0bDEkAHeNfbzWP8PW/JAMLhMdLfdCyu7Gfa58eQttXOx+phYiUBlw2NNk6e39tIgD0fb3kYWTGuYcJc0owmWrfRzSXYMVh07FRvSITszEpXTwHGcLccIkBcHAA7nlkRbrClAy1pmkzJj9yojhL2/6t1UqlmwAstaaXKf0cP77+hlwGtp1Jt3JP0dVIgPK;SJT/Ho6GHV9Zz3HsgChtQA=="
+secured: "xQu1BhQMPUFuJX8aAzphke+1eNx7bshNNNcS9kgDBJAGk+VcHnuojEbSkupXSUixFiyt+e3UJlElj8cPD0/OKTunV9GBVNfgeGnUsPUwYh5AHXNiD7fN1c/Eqo8cYaQOvs+W/hKrGp+Ld/gI/L2b6FcWszqGBbkH933sXvKPWK2GXyOD6T+YOhA54/nTsiMFQCQcuDK9k9X3LXZcadmX0JwbWqbcJKZBXgXygHRWOBVbUfLec1njOdWi0Q5IhnIXNoe5+bVrbkycTVEqYHM1zsk/gnFwMEESiAltuPUo+R+9Td8V0Nmzd559+QQpD9OX;/kzvzQKH41wLhq/3ZvHG6Q=="
 ---
 

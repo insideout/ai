@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-19T18:11:00Z
 webUrl: "https://www.sciencemag.org/news/2020/02/europe-plans-strictly-regulate-high-risk-ai-technology"
 type: article
 quality: 139
-heat: 169
+heat: 159
 published: true
 
 provider:
@@ -39,21 +39,6 @@ related:
       - url: "https://www.kxan.com/wp-content/uploads/sites/40/2020/02/26a5d5519fb44b4cbb90a8135709a722.jpg?w=1280&h=720&crop=1"
         width: 1280
         height: 720
-  - title: "EU proposes rules for artificial intelligence to limit risks"
-    excerpt: "The European Union unveiled proposalsWednesday to regulate artificial intelligence that call for strict rules and safeguards on risky applications of the rapidly developing technology. The report is part of the bloc's wider digital strategy aimed at maintaining its position as the global pacesetter on technological standards."
-    publishedDateTime: 2020-02-20T00:18:00Z
-    webUrl: "https://www.sfgate.com/business/technology/article/EU-proposes-rules-for-artificial-intelligence-to-15066968.php"
-    ampWebUrl: "https://www.sfgate.com/business/technology/amp/EU-proposes-rules-for-artificial-intelligence-to-15066968.php"
-    cdnAmpWebUrl: "https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/business/technology/amp/EU-proposes-rules-for-artificial-intelligence-to-15066968.php"
-    type: article
-    provider:
-      name: SFGate
-      domain: sfgate.com
-    quality: 57
-    images:
-      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-        width: 375
-        height: 211
   - title: "EU Unveils Plans to Regulate Artificial Intelligence"
     excerpt: "Margrethe Vestager, the EU’s digital policy chief, unveiled a strategy for artificial intelligence on Wednesday that aims to boost the use of AI in Europe while addressing concerns about data privacy. “We want every citizen, every employee, every business to stand a fair chance to reap the benefits of digitalization,” she said in a statement."
     publishedDateTime: 2020-02-19T18:32:00Z

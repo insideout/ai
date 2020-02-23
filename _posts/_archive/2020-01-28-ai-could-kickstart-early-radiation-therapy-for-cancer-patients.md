@@ -51,6 +51,6 @@ related:
       domain: medicalxpress.com
     quality: 54
 
-secured: "Gs0lmP+1mqmwN8uXxCKAnmo+dHysWQcTMffo+k+maF9YSC3CowbgtklAMAzUAL1qcw/6dzXrjvd4Iv/tPeF+LvCUuY/M+rA7/imQZartH6CbaJWqelf8Vy4K/f217UVznPLCsNz6pD3rankBdRFTYnhWCqq/zK27c7wns/nAQ2RzZw5qYnIe/eFUg9YFf1nFOd4nVM+4QiplBD6VWjAa2qj8LPENd1XBvxpvSWzzuEg7LGZPiR5WYZwbm52IWoiz8FE8oJpMbo/H5NmRnZ52yRmwogJ0rsUAXZFxvyfOYrHNKTFsdCxkjDvseI9BODt7;gmxSOXd2/PRjxRKrrUeeOA=="
+secured: "bBHDu288LVhnc1wxhU0FKeVcqr2pkTpmE9NaCMvbVd+rwJr8Z6neGDCIP9RfHLHKn1TDH6+aQRCQLNYLCLi4cGdFgvDSgJvCQ1ys6p6TG6M6PS9+dblteexWRF3UwMm+vPpuwW8dpUKBR390JHBYlMi3PUIkrUxWZRdSJ3hcmuF7wX5oWYq4sfbkuUjCrwrOHuExE4eukpvCliLTGhQGZuLJBYVBRZp3xFpPH3Yii0QokMdQySgpBbIzwk3638le0SCRE5ue5Os+ebV07S2M6LTizOMMV8Ttn0UR2dQ0XO8mDSTI0NdZ2NX7OG4hTV0V;7F+5v4rFKmqjFCCf0Mytjw=="
 ---
 

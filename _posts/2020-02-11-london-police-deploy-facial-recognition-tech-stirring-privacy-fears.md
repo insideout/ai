@@ -26,75 +26,78 @@ images:
     title: "London police deploy facial recognition tech, stirring privacy fears"
 
 related:
-  - title: "Clearview AI’s false claims of accuracy increase the dangers of its face recognition software"
-    excerpt: "The facial recognition company has been embroiled in a storm of controversy since The New York Times revealed that it was helping police match photos of suspects’ faces to images scraped from websites and social media platforms to aid in their investigations. Clearview says that it has amassed a database of more than three billion images ..."
-    publishedDateTime: 2020-02-11T17:49:00Z
-    webUrl: "https://thenextweb.com/neural/2020/02/11/clearview-ais-false-claims-of-accuracy-increase-the-dangers-of-its-face-recognition-software/"
-    ampWebUrl: "https://thenextweb.com/neural/2020/02/11/clearview-ais-false-claims-of-accuracy-increase-the-dangers-of-its-face-recognition-software/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/11/clearview-ais-false-claims-of-accuracy-increase-the-dangers-of-its-face-recognition-software/amp/"
+  - title: "New facial recognition app promises to solve crimes, critics say it means end of privacy"
+    excerpt: "A class action lawsuit filed Wednesday in New York federal court claims a breakthrough facial recognition technology designed for law enforcement use is illegally taking people’s biometric information without their consent. The lawsuit was filed by two individuals from Illinois who claim the company behind the technology, Clearview AI ..."
+    publishedDateTime: 2020-02-14T14:50:00Z
+    webUrl: "https://www.foxnews.com/us/new-facial-recognition-app-promises-to-solve-crimes-critics-say-its-the-end-of-privacy"
+    ampWebUrl: "https://www.foxnews.com/us/new-facial-recognition-app-promises-to-solve-crimes-critics-say-its-the-end-of-privacy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/new-facial-recognition-app-promises-to-solve-crimes-critics-say-its-the-end-of-privacy.amp"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 93
+      name: Fox News
+      domain: foxnews.com
+    quality: 80
     images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/Untitled-design-4-796x417.png"
-        width: 796
-        height: 417
-  - title: "The controversial facial recognition tech from Clearview AI is also being used to identify child victims of sexual abuse"
-    excerpt: "A software startup that scraped billions of images from Facebook, Google, and YouTube is helping to identify child victims of sexual abuse."
-    publishedDateTime: 2020-02-08T12:03:00Z
-    webUrl: "https://www.businessinsider.com/facial-recognition-search-clearview-ai-child-abuse-id-2020-2/"
-    ampWebUrl: "https://www.businessinsider.com/facial-recognition-search-clearview-ai-child-abuse-id-2020-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facial-recognition-search-clearview-ai-child-abuse-id-2020-2?amp"
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2019/08/bc4a043e-532521-microsoft-facial-recognition.jpg"
+        width: 810
+        height: 456
+  - title: "Mitek claims spoof-proof breakthrough in facial recognition"
+    excerpt: "As the industry-first provider of Liveness Detection, Mitek is extending its technology to offer virtually spoof-proof facial comparison across all digital channels (native and web) - through one simple selfie. There are no additional steps for the consumer. Mitek’s extended Liveness Detection provides customers with additional security ..."
+    publishedDateTime: 2020-02-10T14:47:00Z
+    webUrl: "https://www.finextra.com/pressarticle/81436/mitek-claims-spoof-proof-breakthrough-in-facial-recognition"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 79
+      name: Finextra
+      domain: finextra.com
+    quality: 54
     images:
-      - url: "https://i.insider.com/5e3db92a0ce3d1240312779c?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-  - title: "Ottawa police piloted controversial facial recognition software last year"
-    excerpt: "Ottawa police quietly tested facial recognition software for three months last year, this newspaper has learned. The pilot, which ended in March of 2019, came before a public dialogue on the use of CCTV cameras in spaces like the ByWard Market after a string of fatal shootings in the tourist hub. Though Ottawa police at the time spoke of the ..."
-    publishedDateTime: 2020-02-13T23:12:00Z
-    webUrl: "https://ottawacitizen.com/news/local-news/ottawa-police-piloted-controversial-facial-recognition-software-last-year"
-    ampWebUrl: "https://ottawacitizen.com/news/local-news/ottawa-police-piloted-controversial-facial-recognition-software-last-year/amp"
-    cdnAmpWebUrl: "https://ottawacitizen-com.cdn.ampproject.org/c/s/ottawacitizen.com/news/local-news/ottawa-police-piloted-controversial-facial-recognition-software-last-year/amp"
+      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
+        width: 480
+        height: 270
+  - title: "India's Use of Facial Recognition Tech During Protests Causes Stir"
+    excerpt: "MUMBAI/NEW DELHI, India (Reuters) - When artist Rachita Taneja heads out to protest in New Delhi, she covers her face with a pollution mask, a hoodie or a scarf to reduce the risk of being identified by police facial recognition software."
+    publishedDateTime: 2020-02-17T14:15:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2020-02-17/indias-use-of-facial-recognition-tech-during-protests-causes-stir"
     type: article
     provider:
-      name: Ottawa Citizen
-      domain: ottawacitizen.com
-    quality: 58
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
+  - title: "Brazil takes a page from China, taps facial recognition to solve crime"
+    excerpt: "In much of the world citizens are speaking out against facial recognition technology. Brazil appears poised to embrace it in the name of security."
+    publishedDateTime: 2020-02-11T14:44:00Z
+    webUrl: "https://www.csmonitor.com/World/Americas/2020/0211/Brazil-takes-a-page-from-China-taps-facial-recognition-to-solve-crime"
+    ampWebUrl: "https://www.csmonitor.com/layout/set/amphtml/World/Americas/2020/0211/Brazil-takes-a-page-from-China-taps-facial-recognition-to-solve-crime"
+    cdnAmpWebUrl: "https://www-csmonitor-com.cdn.ampproject.org/c/s/www.csmonitor.com/layout/set/amphtml/World/Americas/2020/0211/Brazil-takes-a-page-from-China-taps-facial-recognition-to-solve-crime"
+    type: article
+    provider:
+      name: Christian Science Monitor
+      domain: csmonitor.com
+    quality: 39
+  - title: "2 On Your Side: Is Facial Recognition Technology A Threat To Privacy?"
+    excerpt: "Facial recognition software is here and already being used around the world by law enforcement and government agencies. It's designed to protect you, but some think it's a serious threat to your privacy. Kristine Lazar talks to the founders of one local company at the forefront of this new technology."
+    publishedDateTime: 2020-02-12T07:33:00Z
+    webUrl: "https://losangeles.cbslocal.com/video/4443490-2-on-your-side-is-facial-recognition-technology-a-threat-to-privacy/"
+    ampWebUrl: "https://losangeles.cbslocal.com/video/4443490-2-on-your-side-is-facial-recognition-technology-a-threat-to-privacy/amp/"
+    cdnAmpWebUrl: "https://losangeles-cbslocal-com.cdn.ampproject.org/c/s/losangeles.cbslocal.com/video/4443490-2-on-your-side-is-facial-recognition-technology-a-threat-to-privacy/amp/"
+    type: article
+    provider:
+      name: CBS Boston / WBZ
+      domain: cbslocal.com
+    quality: 39
+  - title: "Class action: Tech firm Clarifai scanned OKCupid pics to train face recognition A.I., broke IL privacy law"
+    excerpt: "According to the complaint, Clarifai’s “surreptitious harvesting of biometric identifiers is ongoing” and Clarifai has indicated a willingness to “sell its facial recognition technology to foreign governments” and allow the technology to be used in “autonomous weapons” systems. According to the complaint, Clarifai “gained access ..."
+    publishedDateTime: 2020-02-18T14:50:00Z
+    webUrl: "https://cookcountyrecord.com/stories/525710212-class-action-tech-firm-clarifai-scanned-okcupid-pics-to-train-face-recognition-a-i-broke-il-privacy-law"
+    type: article
+    provider:
+      name: Cook County Record
+      domain: cookcountyrecord.com
+    quality: 36
     images:
-      - url: "https://postmediaottawacitizen2.files.wordpress.com/2020/01/0107_childporn-w.jpg"
-        width: 1000
-        height: 750
-  - title: "London police deploy live facial recognition technology, stirring privacy fears"
-    excerpt: "LONDON (AP) - London police have started using facial recognition cameras to automatically scan for wanted people, as authorities adopt the controversial technology that has raised concerns about increased surveillance and erosion of privacy. Surveillance cameras mounted on a blue police van monitored people coming out of a shopping center in ..."
-    publishedDateTime: 2020-02-11T18:47:00Z
-    webUrl: "https://www.hawaiinewsnow.com/2020/02/11/london-police-deploy-live-facial-recognition-technology-stirring-privacy-fears/"
-    type: article
-    provider:
-      name: KHNL
-      domain: hawaiinewsnow.com
-    quality: 35
-    images:
-      - url: "https://www.hawaiinewsnow.com/resizer/5WPDfcRoZsIEZzSuFgW7EurnGtA=/1200x0/arc-anglerfish-arc2-prod-raycom.s3.amazonaws.com/public/52R5YBRIHZBEHP5HNAANYUWTEE.jpg"
-        width: 1200
-        height: 675
-  - title: "Let’s face the facts: To ensure our digital rights, we must hit pause on facial-recognition technology"
-    excerpt: "Like a growing number of political activists and citizens, the organizers were concerned about the increasing use by autocratic governments of facial-recognition technology, so volunteers covered their faces and used pseudonyms. The organization’s executive director still received a threatening call to her hotel room. The event, however ..."
-    publishedDateTime: 2020-02-14T17:55:00Z
-    webUrl: "https://www.theglobeandmail.com/opinion/article-lets-face-the-facts-to-ensure-our-digital-rights-we-must-hit-pause/"
-    ampWebUrl: "https://www.theglobeandmail.com/amp/opinion/article-lets-face-the-facts-to-ensure-our-digital-rights-we-must-hit-pause/"
-    cdnAmpWebUrl: "https://www-theglobeandmail-com.cdn.ampproject.org/c/s/www.theglobeandmail.com/amp/opinion/article-lets-face-the-facts-to-ensure-our-digital-rights-we-must-hit-pause/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 8
+      - url: "https://jnswire.s3.amazonaws.com/jns-media/28/0f/193780/Chicago_DaleyCenter_Picasso_Upshot.jpg"
+        width: 1280
+        height: 640
 
 secured: "xjUJmU7jeHboqTSgcTt0mt6CzPDu5vQKkqjAxc1/gfN92GdRmcSCwJ+durgEgK5VO01sgH2u7Gn4VfmOli+jdrbnlYE74Mkap7/U7ESRXa38iqq8jgkIjvTQUl+X8Sb0a867cvS2hrUgYS2dnIETd29+Nk7cQzOGuAYXa5TDwzuePuveB6ayeNqUmVTkmJoRS3Ll8NiuWOd2GmO+/6mAulNyOII5IVXVsDnWnAQO1AEJNnMrN8zf63HVaPt9WJxA96F0tidG3bv0TYtOjbHW+kEM33EcH5GuBlKeQkhXndc4uv4quj+pBY9AP38FmBDg;thnoLo129ekxPUXzhu/fyg=="
 ---

@@ -2,230 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_posts/2020-02-21-microsoft-launches-entrepreneurship-program-targeted-at-social-entrepreneurs.md",
-      "title": "Microsoft launches entrepreneurship program targeted at social entrepreneurs",
-      "excerpt": "Under the program, which will be available in 140 countries, qualifying social enterprises will receive access to free Microsoft cloud technologies, including up to $120,000 in Azure credits, along with technical ... and Zindi's web platform has been created to host machine learning and AI competitions online in Africa.",
-      "heat": 106,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/microsoft-launches-entrepreneurship-program-targeted-at-social-entrepreneurs/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-launches-entrepreneurship-program-targeted-at-social-entrepreneurs/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-launches-entrepreneurship-program-targeted-at-social-entrepreneurs/",
-      "publishedDateTime": "2020-02-21T00:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2018/01/14/0b007dc5-ca44-4699-930c-7831748aa020/thumbnail/1200x675/747f01070b6fac97c0eed9500191a237/samsung-logo-ces.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Microsoft launches entrepreneurship program targeted at social entrepreneurs",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-21-moscow-deploys-facial-recognition-technology-for-coronavirus-quarantine.md",
-      "title": "Moscow deploys facial recognition technology for coronavirus quarantine",
-      "excerpt": "Moscow is using facial recognition technology to ensure people ordered to remain at home or at their hotels under coronavirus quarantine do so.",
-      "heat": 399,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2020/02/21/moscow-deploys-facial-recognition-technology-for-coronavirus-quarantine.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/02/21/moscow-deploys-facial-recognition-technology-for-coronavirus-quarantine.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/02/21/moscow-deploys-facial-recognition-technology-for-coronavirus-quarantine.html",
-      "publishedDateTime": "2020-02-21T11:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/100978289-135627372r.jpg?v=1582293185",
-          "width": 2000,
-          "height": 1325,
-          "title": "Moscow deploys facial recognition technology for coronavirus quarantine",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-21-scientists-discover-powerful-antibiotic-using-ai.md",
-      "title": "Scientists discover powerful antibiotic using AI",
-      "excerpt": "In a world first, scientists have discovered a new type of antibiotic using artificial intelligence (AI). It has been heralded by experts as a major breakthrough in the fight against the growing problem of drug resistance. A powerful algorithm was used to analyse more than one hundred million chemical compounds in a matter of days. The newly ...",
-      "heat": 178,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bbc.com/news/health-51586010",
-      "ampWebUrl": "https://www.bbc.com/news/amp/health-51586010",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/health-51586010",
-      "publishedDateTime": "2020-02-21T08:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/6764/production/_110986462_gettyimages-1068778256.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": "Scientists discover powerful antibiotic using AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-21-self-driving-car-companies-complain-california-test-data-may-mislead.md",
-      "title": "Self-driving car companies complain California test data may mislead",
-      "excerpt": "Developers of self-driving cars are amping up criticism of a California reporting requirement on test data, saying the data could mislead, as the state prepares to release the latest results for 2019.",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.reuters.com/article/us-autos-self-driving-california/self-driving-car-companies-complain-california-test-data-may-mislead-idUSKBN20F2F7",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN20F2F7",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN20F2F7",
-      "publishedDateTime": "2020-02-21T09:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200221&t=2&i=1493407844&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG1K1LU",
-          "width": 830,
-          "height": 545,
-          "title": "Self-driving car companies complain California test data may mislead",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-21-the-amazing-ways-goodyear-uses-artificial-intelligence-and-iot-for-digital-transformation.md",
-      "title": "The Amazing Ways Goodyear Uses Artificial Intelligence And IoT For Digital Transformation",
-      "excerpt": "Although Goodyear is a mature company, they are on the cutting edge of using today’s newest technology to propel innovation and their business in the 21st century.",
-      "heat": 120,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/02/21/the-amazing-ways-goodyear-uses-artificial-intelligence-and-iot-for-digital-transformation/",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/02/21/the-amazing-ways-goodyear-uses-artificial-intelligence-and-iot-for-digital-transformation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/02/21/the-amazing-ways-goodyear-uses-artificial-intelligence-and-iot-for-digital-transformation/amp/",
-      "publishedDateTime": "2020-02-20T21:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e4f6b9f765d4500072cd7f2%2F0x0.jpg",
-          "width": 1200,
-          "height": 577,
-          "title": "The Amazing Ways Goodyear Uses Artificial Intelligence And IoT For Digital Transformation",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_posts/2020-02-21-three-ai-powered-jobs-for-non-techies.md",
       "title": "Three AI-powered Jobs For Non-Techies",
       "excerpt": "In a world where students are urged to study STEM subjects, the rise of AI may ironically increase the value we place on the skills gained by studying the humanities or the arts. In an AI-powered world,",
@@ -392,6 +168,51 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-22-heres-why-the-ai-at-the-wheel-of-a-self-driving-car-might-be-male-female-gender-fluid-or-gender-neutral.md",
+      "title": "Here’s Why The AI At The Wheel Of A Self-Driving Car Might Be Male, Female, Gender-Fluid, Or Gender-Neutral",
+      "excerpt": "Do you think that men are better drivers than women, or do you believe that women are better drivers than men? Seems like most of us have an opinion on the matter, one way or another. In a stereotypical manner,",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/02/22/heres-why-the-ai-at-the-wheel-of-a-self-driving-car-might-be-male-female-gender-fluid-or-gender-neutral/",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/02/22/heres-why-the-ai-at-the-wheel-of-a-self-driving-car-might-be-male-female-gender-fluid-or-gender-neutral/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/02/22/heres-why-the-ai-at-the-wheel-of-a-self-driving-car-might-be-male-female-gender-fluid-or-gender-neutral/amp/",
+      "publishedDateTime": "2020-02-22T07:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1042124056%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5472%26cropY1%3D277%26cropY2%3D3355",
+          "width": 1200,
+          "height": 675,
+          "title": "Here’s Why The AI At The Wheel Of A Self-Driving Car Might Be Male, Female, Gender-Fluid, Or Gender-Neutral",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -2106,6 +1927,170 @@
       "topics": [
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2019-12-29-misty-robotics-eyes-23-million-developers-to-build-skills-marketplace.md",
+      "title": "Misty Robotics Eyes 23 Million Developers To Build Skills Marketplace",
+      "excerpt": "Sphero spin off Misty Robotics is building a skills marketplace for its Misty II robot by crowdsourcing the talents of the global developer community. Now hobbyists with a few lines of Javascript or C# code can create their dream assistant who out of the box can see,",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/martineparis/2020/12/29/misty-robotics-eyes-23-million-developers-to-build-skills-marketplace/",
+      "ampWebUrl": "https://www.forbes.com/sites/martineparis/2020/12/29/misty-robotics-eyes-23-million-developers-to-build-skills-marketplace/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2020/12/29/misty-robotics-eyes-23-million-developers-to-build-skills-marketplace/amp/",
+      "publishedDateTime": "2019-12-29T02:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e087da825ab5d0007cf756b%2F0x0.jpg%3FcropX1%3D178%26cropX2%3D1606%26cropY1%3D0%26cropY2%3D804",
+          "width": 1200,
+          "height": 676,
+          "title": "Misty Robotics Eyes 23 Million Developers To Build Skills Marketplace",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2019-12-30-2020-supply-chain-technology-trends-where-do-young-technologies-fit-on-a-maturity-curve.md",
+      "title": "2020 Supply Chain Technology Trends: Where Do Young Technologies Fit On A Maturity Curve?",
+      "excerpt": "When it comes to talking about technology trends, it is very helpful to talk about the maturity of newer technologies that are getting a lot of buzz.",
+      "heat": 80,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/stevebanker/2020/12/30/2020-supply-chain-technology-trends-where-do-young-technologies-fit-on-a-maturity-curve/",
+      "ampWebUrl": "https://www.forbes.com/sites/stevebanker/2020/12/30/2020-supply-chain-technology-trends-where-do-young-technologies-fit-on-a-maturity-curve/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevebanker/2020/12/30/2020-supply-chain-technology-trends-where-do-young-technologies-fit-on-a-maturity-curve/amp/",
+      "publishedDateTime": "2019-12-30T06:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e0a0450ab5be600076292aa%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1308%26cropY1%3D140%26cropY2%3D876",
+          "width": 1200,
+          "height": 676,
+          "title": "2020 Supply Chain Technology Trends: Where Do Young Technologies Fit On A Maturity Curve?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2019-12-30-a-reality-check-on-artificial-intelligence-are-health-care-claims-overblown.md",
+      "title": "A Reality Check On Artificial Intelligence: Are Health Care Claims Overblown?",
+      "excerpt": "That reality check could come in the form of disappointing results when AI products are ushered into the real world. Even Topol, the author of “Deep Medicine: How Artificial Intelligence Can Make Healthcare Human Again,” acknowledges that many AI products are little more than hot air. “It’s a mixed bag,” he said. Experts such as Dr ...",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://khn.org/news/a-reality-check-on-artificial-intelligence-are-health-care-claims-overblown/",
+      "ampWebUrl": "https://khn.org/news/a-reality-check-on-artificial-intelligence-are-health-care-claims-overblown/amp/",
+      "cdnAmpWebUrl": "https://khn-org.cdn.ampproject.org/c/s/khn.org/news/a-reality-check-on-artificial-intelligence-are-health-care-claims-overblown/amp/",
+      "publishedDateTime": "2019-12-30T11:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Kaiser Health News",
+        "domain": "khn.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://khn.org/wp-content/uploads/sites/2/2019/12/AI_illustration_02.jpg",
+          "width": 1350,
+          "height": 900,
+          "title": "A Reality Check On Artificial Intelligence: Are Health Care Claims Overblown?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2019-12-30-ai-in-2020-how-use-cases-will-drive-artificial-intelligence-deployments.md",
+      "title": "AI in 2020: How use cases will drive artificial intelligence deployments",
+      "excerpt": "Learn why predictions about artificial intelligence trends include ... cost savings across the automotive OEM supply chain, and self-driving technology is projected to be a $556 billion market ...",
+      "heat": 63,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/ai-in-2020-how-use-cases-will-drive-artificial-intelligence-deployments/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-12-30T07:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
       ]
     }
   ],

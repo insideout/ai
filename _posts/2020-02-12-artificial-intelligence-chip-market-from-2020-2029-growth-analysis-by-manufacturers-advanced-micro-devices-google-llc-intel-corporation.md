@@ -37,6 +37,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Edge Artificial Intelligence Hardware Market 2020|by Top Key Players- Apple Inc, Xilinx Inc, Alphabet Inc"
+    excerpt: "Ltd. The Global Edge Artificial Intelligence Hardware Market Research Report is expected to display ... and SoC accelerators.). Segmentation by End-User Industry: Industrial, Healthcare, Government, Smart Home, Consumer Electronics, Aerospace Defense, Automotive Transportation, Others (Retail, Construction, Manufacturing, Education, Etc ..."
+    publishedDateTime: 2020-02-12T20:20:00Z
+    webUrl: "https://apnews.com/Wired Release/e7593db4ef23ab8e0a529a9919ca3ab2"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 22
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
   - title: "Cognitive Data Management Market Future Scope – AttivioInc, CognitiveScaleInc, Cognizant Technology Solutions Corporation"
     excerpt: "Ltd. The Global Cognitive Data Management ... Kingland Systems Corporation, Microsoft Corporation Market Segmentation: Segmentation by Component: Solutions, Data Integration and Migration, Data Governance and Quality, Others (Data Prep, Data Security, and Event Stream Processing), Services. By Business Function, Operations, Sales and Marketing ..."
     publishedDateTime: 2020-02-12T21:03:00Z

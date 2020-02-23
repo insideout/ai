@@ -23,34 +23,41 @@ images:
     title: "Drug makers are using AI to help find an answer to the coronavirus"
 
 related:
-  - title: "Chinese subways are using artificial intelligence facial recognition scanners to help detect whether people have coronavirus"
-    excerpt: "In Beijing, China, artificial intelligence and other temperature-detection measures are being ratcheted up."
-    publishedDateTime: 2020-02-11T17:44:00Z
-    webUrl: "https://www.businessinsider.com/chinese-tech-companies-artificial-intelligence-surveillance-coronavirus-2020-2"
-    ampWebUrl: "https://www.businessinsider.com/chinese-tech-companies-artificial-intelligence-surveillance-coronavirus-2020-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chinese-tech-companies-artificial-intelligence-surveillance-coronavirus-2020-2?amp"
+  - title: "AI Helps Diagnose Coronavirus"
+    excerpt: "Medical workers on the front lines of the coronavirus outbreak are under pressure to quickly diagnose people who are infected. Experts say medical-imaging equipment embedded with artificial intelligence is starting to aid them in their work."
+    publishedDateTime: 2020-02-14T11:36:00Z
+    webUrl: "https://www.wsj.com/articles/ai-helps-diagnose-coronavirus-11581676202"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 77
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
     images:
-      - url: "https://i.insider.com/5e42e5f3e0e1443a0e6a1bfe?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-  - title: "CBP Expands Facial Recognition Program to Another Southern Border Crossing"
-    excerpt: "Customs and Border Protection is deploying its facial recognition program at land border crossings at a fifth location ahead of a broader expansion planned for this spring. This week, CBP began scanning pedestrians’ faces at the Progreso port of entry in Weslaco, Texas. Progreso became the fifth location to use the technology since the ..."
-    publishedDateTime: 2020-02-13T18:50:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2020/02/cbp-expands-facial-recognition-program-another-southern-border-crossing/163111/"
+      - url: "https://images.wsj.net/im-154475/social"
+        width: 1280
+        height: 640
+  - title: "Artificial Intelligence Could Fight a Future Coronavirus"
+    excerpt: "Disease outbreaks like the coronavirus often unfold too quickly for scientists to find a cure. But in the future, artificial intelligence could help researchers do a better job. While it’s probably too late for the fledgling technology to play a major role in the current epidemic,"
+    publishedDateTime: 2020-02-21T05:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-02-21/artificial-intelligence-gears-up-to-fight-a-future-coronavirus"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-02-21/artificial-intelligence-gears-up-to-fight-a-future-coronavirus"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-02-21/artificial-intelligence-gears-up-to-fight-a-future-coronavirus"
     type: article
     provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 37
-    images:
-      - url: "https://cdn.nextgov.com/media/img/upload/2020/02/13/NGborder20200213/open-graph.jpg"
-        width: 400
-        height: 400
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 67
+  - title: "Artificial Intelligence Gears Up to Fight a Future Coronavirus"
+    excerpt: "Disease outbreaks like the coronavirus often unfold too quickly for scientists to find a cure. But in the future, artificial intelligence could help researchers do a better job. While it’s probably too late for the fledgling technology to play a major role in the current epidemic,"
+    publishedDateTime: 2020-02-21T05:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-02-21/artificial-intelligence-gears-up-to-fight-a-future-coronavirus"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-02-21/artificial-intelligence-gears-up-to-fight-a-future-coronavirus"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-02-21/artificial-intelligence-gears-up-to-fight-a-future-coronavirus"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 67
 
 secured: "Rvpdv5Az2gkT2ag0jNHJVQe2GIUj/wPtWt2LIB3wvINH4NZPohE7Kcvu4qC4aJW0hblizdJLhZ6v0K9eQwl+WqpoXVO9cveiXF1+Iyow8ey7Pgj1R9CsvFNlhlgM7EQPLWs9dItcKhGCbhm0m/Cdtg26z6jwRBcgy2toptL+SVdPHdkDYeQyCmzudoOfsjlQs6USQpNItaDEEMWZ57TpQJYVk2kB/YC5e/4bVjxdMA4J98qkQHm8G/4cOHyrW2T3YodGeBGzDD1MsnHbB0W32FO5SEEV2ngMisSpPV3B5S4K4AVQU5bQio+i/MzdmvfKYgoRBv6Z43Fd1dYv04Rq0A+rlILiAJ9K5tEgCzzhGtOdMfvq0O/c0hrK7xxz+Vdq3DKsWGR+rs9f/kNCuLxdJhlv6Vu8+5lFkk7Xyt5Z9tW8ysp9r3zTN8RfPVYupMp6eyzCUPOJWzLVwJ8iRnbjDItw27lEAwLRkl30dYBqOrw=;4izEXHtopP80w9tS5A+v/A=="
 ---

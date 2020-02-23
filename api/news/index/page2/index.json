@@ -685,96 +685,6 @@
       ]
     },
     {
-      "path": "_posts/2020-02-11-chinese-subways-are-using-artificial-intelligence-facial-recognition-scanners-to-help-detect-whether-people-have-coronavirus.md",
-      "title": "Chinese subways are using artificial intelligence facial recognition scanners to help detect whether people have coronavirus",
-      "excerpt": "In Beijing, China, artificial intelligence and other temperature-detection measures are being ratcheted up.",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/chinese-tech-companies-artificial-intelligence-surveillance-coronavirus-2020-2",
-      "ampWebUrl": "https://www.businessinsider.com/chinese-tech-companies-artificial-intelligence-surveillance-coronavirus-2020-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chinese-tech-companies-artificial-intelligence-surveillance-coronavirus-2020-2?amp",
-      "publishedDateTime": "2020-02-11T09:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5e42e5f3e0e1443a0e6a1bfe?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "Chinese subways are using artificial intelligence facial recognition scanners to help detect whether people have coronavirus",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-11-clearview-ais-false-claims-of-accuracy-increase-the-dangers-of-its-face-recognition-software.md",
-      "title": "Clearview AI’s false claims of accuracy increase the dangers of its face recognition software",
-      "excerpt": "The facial recognition company has been embroiled in a storm of controversy since The New York Times revealed that it was helping police match photos of suspects’ faces to images scraped from websites and social media platforms to aid in their investigations. Clearview says that it has amassed a database of more than three billion images ...",
-      "heat": 143,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/02/11/clearview-ais-false-claims-of-accuracy-increase-the-dangers-of-its-face-recognition-software/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/02/11/clearview-ais-false-claims-of-accuracy-increase-the-dangers-of-its-face-recognition-software/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/11/clearview-ais-false-claims-of-accuracy-increase-the-dangers-of-its-face-recognition-software/amp/",
-      "publishedDateTime": "2020-02-11T09:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/Untitled-design-4-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Clearview AI’s false claims of accuracy increase the dangers of its face recognition software",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_posts/2020-02-11-computer-vision-and-robotics-expand-industrial-capabilities.md",
       "title": "COMPUTER VISION AND ROBOTICS EXPAND INDUSTRIAL CAPABILITIES",
       "excerpt": "One way to increase robotic abilities in a safe and efficient manner is to use an innovative new technology: computer vision. Computer vision technology enables a robot to use a camera or scanner to transform multidimensional inputs into data it can process, “perceiving” its surroundings and mimicking sight. Computer vision coupled with ...",
@@ -934,7 +844,7 @@
       "path": "_posts/2020-02-11-global-artificial-intelligence-ai-in-healthcare-market-hits-record-value-of-usd-178-billion-by-2025.md",
       "title": "Global Artificial Intelligence (AI) in Healthcare Market Hits Record Value of USD 17.8 Billion By 2025",
       "excerpt": "The \"Global Artificial Intelligence (AI) in Healthcare Market Is Anticipated To Reach Around USD 17.8 Billion By 2025\" Research Report provides the newest industry data and industry future trends, allowing you to identify the products and end users driving Revenue growth and profitability.",
-      "heat": 205,
+      "heat": 195,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-healthcare-market-hits-record-value-of-usd-178-billion-by-2025-2020-02-11",
@@ -1553,51 +1463,6 @@
       ]
     },
     {
-      "path": "_posts/2020-02-11-new-jerseys-former-attorney-general-on-ring-cameras-and-facial-recognition.md",
-      "title": "New Jersey’s former attorney general on Ring cameras and facial recognition",
-      "excerpt": "And it is a little creepy. That’s not the technical legal term for it. But there’s a way in which, when you think about some of what China’s doing with facial recognition, and trying to basically, literally, track people in communities, you could see where it could end. And one of the things about Ring is that, what has been fascinating ...",
-      "heat": 127,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theverge.com/2020/2/11/21120372/anne-milgram-ring-cameras-facial-recognition-policing-vergecast-podcast",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/2/11/21120372/anne-milgram-ring-cameras-facial-recognition-policing-vergecast-podcast",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/11/21120372/anne-milgram-ring-cameras-facial-recognition-policing-vergecast-podcast",
-      "publishedDateTime": "2020-02-11T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/1w7EjZRDn4rDOY8DsJ_aggz42gg=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66290964/jbareham_170417_1617_0001.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": "New Jersey’s former attorney general on Ring cameras and facial recognition",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_posts/2020-02-11-robot-with-coronavirus-advice-hits-times-square.md",
       "title": "Robot with coronavirus advice hits Times Square",
       "excerpt": "Worried about the spread of coronavirus? A five-foot tall (1.5 meter) Promobot might have your answer. The robot with a friendly face rolled into Times Square on Monday to help provide information about the new virus.",
@@ -2155,6 +2020,140 @@
       "topics": [
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-12-2020-and-the-dawn-of-ai-learning-at-the-edge.md",
+      "title": "2020 And The Dawn Of AI Learning At The Edge",
+      "excerpt": "AI that learns at the edge is a paradigm-shifting technology that will finally empower AI to truly serve its purpose.",
+      "heat": 129,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/12/2020-and-the-dawn-of-ai-learning-at-the-edge/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/12/2020-and-the-dawn-of-ai-learning-at-the-edge/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/12/2020-and-the-dawn-of-ai-learning-at-the-edge/amp/",
+      "publishedDateTime": "2020-02-12T08:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x473/https://specials-images.forbesimg.com/dam/imageserve/593333566/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 473,
+          "title": "2020 And The Dawn Of AI Learning At The Edge",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-12-6-ways-to-boost-your-marketing-with-natural-language-processing.md",
+      "title": "6 Ways to Boost Your Marketing With Natural Language Processing",
+      "excerpt": "Given that marketing is heavily reliant on words to convey messages about people and products, it’s not surprising that NLP has carved out a large niche in marketing technology.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/mariyayao/2020/02/12/6-ways-to-boost-your-marketing-with-natural-language-processing/",
+      "ampWebUrl": "https://www.forbes.com/sites/mariyayao/2020/02/12/6-ways-to-boost-your-marketing-with-natural-language-processing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mariyayao/2020/02/12/6-ways-to-boost-your-marketing-with-natural-language-processing/amp/",
+      "publishedDateTime": "2020-02-12T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1134222543%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4000%26cropY1%3D1750%26cropY2%3D4000",
+          "width": 1200,
+          "height": 675,
+          "title": "6 Ways to Boost Your Marketing With Natural Language Processing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-12-andrew-yang-an-ai-first-candidate-drops-out-of-presidential-race.md",
+      "title": "Andrew Yang, an AI-first candidate, drops out of presidential race",
+      "excerpt": "(Reuters) — Andrew Yang, an entrepreneur whose unlikely White House bid evolved into a serious campaign thanks to grassroots enthusiasm, pulled out of the Democratic presidential race on Tuesday after New Hampshire delivered him a second straight poor showing. Yang, 45, who ran for president despite having no political background, surprised ...",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/11/andrew-yang-an-ai-first-candidate-drops-out-of-presidential-race/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/11/andrew-yang-an-ai-first-candidate-drops-out-of-presidential-race/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/11/andrew-yang-an-ai-first-candidate-drops-out-of-presidential-race/amp/",
+      "publishedDateTime": "2020-02-11T19:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/andrew-yang-1.jpg?fit=5048%2C2524&strip=all",
+          "width": 5048,
+          "height": 2524,
+          "title": "Andrew Yang, an AI-first candidate, drops out of presidential race",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

@@ -26,58 +26,88 @@ images:
     title: "Met Police's controversial facial recognition cameras correctly identify just one in three women"
 
 related:
-  - title: "New Jersey’s former attorney general on Ring cameras and facial recognition"
-    excerpt: "And it is a little creepy. That’s not the technical legal term for it. But there’s a way in which, when you think about some of what China’s doing with facial recognition, and trying to basically, literally, track people in communities, you could see where it could end. And one of the things about Ring is that, what has been fascinating ..."
-    publishedDateTime: 2020-02-11T13:00:00Z
-    webUrl: "https://www.theverge.com/2020/2/11/21120372/anne-milgram-ring-cameras-facial-recognition-policing-vergecast-podcast"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2020/2/11/21120372/anne-milgram-ring-cameras-facial-recognition-policing-vergecast-podcast"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/11/21120372/anne-milgram-ring-cameras-facial-recognition-policing-vergecast-podcast"
+  - title: "London Police Just Turned On Facial Recognition In One Of The World’s Busiest Shopping Districts"
+    excerpt: "Just across from the Microsoft store on London’s Regent Street, and just outside the entrance to the Oxford Circus tube station, cameras atop dark blue police vans are watching passersby. London's Metropolitan Police says the rollout of the \"live\" facial recognition across the British capital would reduce serious crime,"
+    publishedDateTime: 2020-02-20T14:49:00Z
+    webUrl: "https://www.forbes.com/sites/thomasbrewster/2020/02/20/london-police-just-turned-on-facial-recognition-in-one-of-the-worlds-busiest-shopping-districts/"
+    ampWebUrl: "https://www.forbes.com/sites/thomasbrewster/2020/02/20/london-police-just-turned-on-facial-recognition-in-one-of-the-worlds-busiest-shopping-districts/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/thomasbrewster/2020/02/20/london-police-just-turned-on-facial-recognition-in-one-of-the-worlds-busiest-shopping-districts/amp/"
     type: article
     provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 87
+      name: Forbes
+      domain: forbes.com
+    quality: 76
     images:
-      - url: "https://cdn.vox-cdn.com/thumbor/1w7EjZRDn4rDOY8DsJ_aggz42gg=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66290964/jbareham_170417_1617_0001.0.jpg"
-        width: 1400
-        height: 933
-  - title: "Raleigh police stop using controversial facial recognition technology"
-    excerpt: "Raleigh police have stopped using a facial recognition app to identify potential criminals through the Internet, cutting ties with a company that has drawn widespread privacy concerns. In August, the department paid $2,500 to Clearview AI for one year’s access to its app, which collects pictures from Facebook, YouTube and other public sites ..."
-    publishedDateTime: 2020-02-12T17:54:00Z
-    webUrl: "https://www.newsobserver.com/news/local/crime/article240221072.html"
-    ampWebUrl: "https://amp.newsobserver.com/news/local/crime/article240221072.html"
-    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/local/crime/article240221072.html"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e4e88d0765d4500072cc76a%2F0x0.jpg"
+        width: 1200
+        height: 794
+  - title: "Ottawa police piloted controversial facial recognition software last year"
+    excerpt: "Ottawa police quietly tested facial recognition software for three months last year, this newspaper has learned. The pilot, which ended in March of 2019, came before a public dialogue on the use of CCTV cameras in spaces like the ByWard Market after a string of fatal shootings in the tourist hub. Though Ottawa police at the time spoke of the ..."
+    publishedDateTime: 2020-02-13T23:12:00Z
+    webUrl: "https://ottawacitizen.com/news/local-news/ottawa-police-piloted-controversial-facial-recognition-software-last-year"
+    ampWebUrl: "https://ottawacitizen.com/news/local-news/ottawa-police-piloted-controversial-facial-recognition-software-last-year/amp"
+    cdnAmpWebUrl: "https://ottawacitizen-com.cdn.ampproject.org/c/s/ottawacitizen.com/news/local-news/ottawa-police-piloted-controversial-facial-recognition-software-last-year/amp"
     type: article
     provider:
-      name: Raleigh News & Observer
-      domain: newsobserver.com
-    quality: 59
+      name: Ottawa Citizen
+      domain: ottawacitizen.com
+    quality: 58
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/98982b80-0f4c-4539-8307-e03345d59828/f123b10c-3acf-4f41-b7eb-0cf3424b4196/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-  - title: "Met Police begins deploying live facial recognition cameras in Stratford"
-    excerpt: "The Metropolitan Police has started deploying live facial recognition camera technology in Stratford today. According to the police, the technology will aid the fight against serious crime in London, while helping to find missing children and vulnerable people. \"The Met will deploy Live Facial Recognition on Tuesday 11 February at key locations ..."
-    publishedDateTime: 2020-02-11T11:37:00Z
-    webUrl: "https://www.computing.co.uk/news/4010475/met-police-live-facial-recognition"
+      - url: "https://postmediaottawacitizen2.files.wordpress.com/2020/01/0107_childporn-w.jpg"
+        width: 1000
+        height: 750
+  - title: "Portland considering strictest ban on facial recognition technology in the U.S."
+    excerpt: "“Please look at camera for entry.” Jacksons’ use of facial recognition technology could soon be outlawed in Portland. City officials are considering the strictest ban of the technology in the country, prohibiting its use not only by government agencies but also private businesses. Facial recognition technology typically uses a camera and ..."
+    publishedDateTime: 2020-02-21T15:20:00Z
+    webUrl: "https://www.oregonlive.com/portland/2020/02/portland-considering-strictest-ban-on-facial-recognition-technology-in-the-us.html"
+    ampWebUrl: "https://www.oregonlive.com/portland/2020/02/portland-considering-strictest-ban-on-facial-recognition-technology-in-the-us.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/portland/2020/02/portland-considering-strictest-ban-on-facial-recognition-technology-in-the-us.html?outputType=amp"
     type: article
     provider:
-      name: Computing
-      domain: computing.co.uk
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 55
+    images:
+      - url: "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/MUODS64EPVH7LB6P6GFG4M5MUM.JPG"
+        width: 4272
+        height: 2848
+  - title: "London's Metropolitan Police flip the switch: Smile, fellow citizens... you're undergoing Live Facial Recognition"
+    excerpt: "Appy days? Microsoft's Word, Excel and PowerPoint now live under one roof on mobile – but look out for Office 365 popups The Metropolitan Police are using live facial recognition (LFR) in various locations in central London today after spending two years testing the technology. Most recently spotted at Oxford Circus, the vans are equipped ..."
+    publishedDateTime: 2020-02-20T16:53:00Z
+    webUrl: "https://www.theregister.co.uk/2020/02/20/met_police_facial_recognition/"
+    ampWebUrl: "https://www.theregister.co.uk/AMP/2020/02/20/met_police_facial_recognition/"
+    cdnAmpWebUrl: "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/02/20/met_police_facial_recognition/"
+    type: article
+    provider:
+      name: The Register
+      domain: theregister.co.uk
     quality: 38
     images:
-      - url: "https://www.computing.co.uk/api/v1/wps/ff5f354/fc6d1fdc-dffc-47f8-bcdb-4760220f6a01/2/LFR-370x229.jpg"
-        width: 370
-        height: 229
-  - title: "London police deploy facial recognition technology, stirring privacy fears"
-    excerpt: "LONDON — London police started using facial recognition cameras on Tuesday to automatically scan for wanted people, as authorities adopt the technology that has raised concerns about increased surveillance and erosion of privacy. Surveillance cameras mounted on a blue police van monitored people coming out of a shopping center in east London."
-    publishedDateTime: 2020-02-12T01:13:00Z
-    webUrl: "https://www.pressherald.com/2020/02/11/london-police-deploy-facial-recognition-technology-stirring-privacy-fears/"
+      - url: "https://regmedia.co.uk/2020/02/20/shutterstock_cops_met_london.jpg"
+        width: 648
+        height: 429
+  - title: "Police roll out controversial live facial recognition technology at Oxford Circus"
+    excerpt: "Scotland Yard has installed controversial facial recognition technology at Oxford Circus. The cameras were spotted mounted on vans in the area, one of the busiest in London, this morning. One dark blue van was captured in a picture posted by UK civil liberties group Big Brother Watch next to a sign reading: \"Police live facial recognition in use.\""
+    publishedDateTime: 2020-02-20T16:46:00Z
+    webUrl: "https://www.standard.co.uk/news/london/police-roll-out-controversial-live-facial-recognition-technology-at-oxford-circus-a4367416.html"
     type: article
     provider:
-      name: Portland Press Herald
-      domain: pressherald.com
-    quality: 17
+      name: London Evening Standard
+      domain: standard.co.uk
+    quality: 34
+    images:
+      - url: "https://static.standard.co.uk/s3fs-public/thumbnails/image/2018/03/21/09/poetry-london-underground.jpg"
+        width: 1500
+        height: 1000
+  - title: "Met police deploy facial recognition technology in central London"
+    excerpt: "Metropolitan Police have deployed facial recognition technology in central London with just two hours’ notice, alarming citizens. Just across from the Microsoft store on London’s Regent ..."
+    publishedDateTime: 2020-02-21T10:26:00Z
+    webUrl: "https://tribune.com.pk/story/2161493/8-london-police-deploy-facial-recognition-technology-oxford-circus/"
+    type: article
+    provider:
+      name: The Express Tribune
+      domain: tribune.com.pk
+    quality: 19
 
 secured: "f22fGkqR4SECAz6i2Ok6bP/7869CahOQ1hi5ofzvBwg0iZqLSCRf0c/sN3yNzrtcOPNgUS5ShLbJQYJ1E42D+NcSfpBhpwYJmYM/rsjGRAfj4V851IYqf5Q4WZjgePZSYVBt/KimL06lIPFLCYN0hpFAxP6193TotFH0CypAoRLvo2qSVuWGhuzM99roOSWgQpVYeFluM+LsZ8Fy0L7WUwt1S6vqzO7VuIcPKoLSJDDeGwkFWmnPx4okKtYyRf+OUJXr7ag+iO9TAyflNrAWWizCpmPrVDesTW0lHuDNnDoUVfLqOzVkeuZc2HU2dCALmxxteKyRc8mtrJu+Pnnc5N/hGAsy1XfbHWUzk9ckVYbED1G1YJJcJLloLtLfRRfstd9KnN58iHSSxVdU8ftwrPBm9tm9wqyxox05/zoGKsHCHqW/DC37VpBKCTiGfCFavKqBK42yCw8BN1claOcyHpsCKUAjZJHvWDD9NvxKtM4=;1fhR87ATa7aT/1T2Y4jnwQ=="
 ---

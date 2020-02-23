@@ -64,6 +64,17 @@ related:
       - url: "https://images.livemint.com/img/2020/02/17/600x338/2020-01-30T114805Z_148678691_RC2BQE9Y9Q8L_RTRMADP_3_EU-ANTITRUST_1581912675356_1581912712630.JPG"
         width: 600
         height: 338
+  - title: "EU proposes rules for artificial intelligence to limit risks"
+    excerpt: "The EU's report said clear rules are needed to address “high-risk AI systems,” such as those in recruitment, healthcare, law enforcement or transport, which should be “transparent, traceable and guarantee human oversight.” Other artificial intelligence systems could come with labels certifying that they are in line with EU standards."
+    publishedDateTime: 2020-02-20T06:09:00Z
+    webUrl: "https://www.kansascity.com/news/business/national-international/article240423231.html"
+    ampWebUrl: "https://amp.kansascity.com/news/business/national-international/article240423231.html"
+    cdnAmpWebUrl: "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/news/business/national-international/article240423231.html"
+    type: article
+    provider:
+      name: Kansas City Star
+      domain: kansascity.com
+    quality: 39
 
 secured: "cIS/hLDLxKUeS79E+7ayFn00rJ81zmFXIRe0psys00wKkCtnudX29U/t+k3reJRH7Zg7eQvCaqk+a8nNwyt2cNWmgcDsO+5JWyNjH93cuyG9C4T0CssHGPtzB8+V+tQlD2jUFJddu+wi2jVRaohGIGJ346QSqsvbZ1uKOgZJ3dradoFDTo6X1+hka64KXiFXMNL5Y18xHNviEUnGgyKh5xVIKCppskAHOMvUXWIN6DatY2ZDG+c3B46lKXgf7aEhRmb8L5G36V2Ms7svM8buTZ0UX0dV2FRkA7HHoZnKmGRmJugXiqBRpPRauns56vqhUbvlgj5RUdHs6xmfPz0ABYzX5+a4eLNwZXhdThFDszdQGAF79HDYJXbdi9p/Kidm/7vGEgwwxPR7hXd37L2mDum/j/mt1rXXOCD9QzaxKBPtjF1W2PiT9ilhik2pE9RnuSiS5IRnEVRzbYmtcGqR8ewUoiuHTqHATJMM7ytyxxI=;nXfxSQApdkO63nxw5/UlPQ=="
 ---

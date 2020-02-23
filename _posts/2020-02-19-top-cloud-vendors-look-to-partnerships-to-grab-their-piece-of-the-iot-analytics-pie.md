@@ -1,28 +1,24 @@
 ---
 category: news
 title: "Top cloud Vendors Look to Partnerships to Grab Their Piece of the IoT Analytics Pie"
-excerpt: "Cloud vendor’s revenues come primarily from streaming, storage, and the orchestration of data. Analytics services across cloud vendors, on the other hand, are less differentiated, as reflected in pre-built templates such as AWS Sagemaker and Microsoft Azure Notebooks which leverage the open source Jupyter project. Considering that many cloud ..."
-publishedDateTime: 2020-02-19T09:59:00Z
-webUrl: "https://www.abiresearch.com/press/top-cloud-vendors-look-partnerships-grab-their-piece-iot-analytics-pie/"
+excerpt: "Analytics services across cloud vendors, on the other hand, are less differentiated, as reflected in pre-built templates such as AWS Sagemaker and Microsoft Azure Notebooks which leverage the open ..."
+publishedDateTime: 2020-02-19T09:20:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/02/n15361913/top-cloud-vendors-look-to-partnerships-to-grab-their-piece-of-the-iot-analytics-pie"
+ampWebUrl: "https://amp.benzinga.com/amp/content/15361913"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15361913"
 type: article
 quality: 18
 heat: 18
 published: false
 
 provider:
-  name: ABI Research
-  domain: abiresearch.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
   - AWS AI
 
-images:
-  - url: "https://cdn.abiresearch.com/media/social_images/AN-5268.png"
-    width: 501
-    height: 399
-    title: "Top cloud Vendors Look to Partnerships to Grab Their Piece of the IoT Analytics Pie"
-
-secured: "vmHMziADxAy/4yfPUSrcihqo9ZxB/y0fFP8Bp79NyfPeFktV3w5QhwUsdogxUDHADQ+hHFlqGQc8unytbwAflEEIRpX1dzxmWJhRESulN12SniXOUUaeaIDdXlb811lSIHONlyiWh6ZOWTSTxlzMbgOZMciEdAAPrPLW1Xs31lGHb2UuIOmeaW6TKDqr1SuSK9Ud4nJTF4Ejs4YOmFizQzYxM3lua3Ilntw1yO5dht+zTIlP61qF5VgHrZ2s3CUQQJrK0XDK9wsUpbPo4B0EOV8onnGmaNvGgJLTsCoNEa3Frw4eYJKEujsBwmegjmfb;mFWapQuyk3ciOsDExRZf+Q=="
+secured: "oxPyMqkG2Qw1nU7gMbcD2LnKNYcQynWNRTD8gqEE++hBH543Nny4Vw+b0Gc9Pe9BwjTApgw7fP+vJ93zxg1oHBJxF2R2H+Ajrmb1sR8vVVuXRzsUveG+24hYAwT7np3FoddeKJnjaEwW5qSLpRihtwDy7wFm1JClpNSpgKmp96toz3uVbL6bn/+4Fc0dGbusdMyCPYpLH4uaIv0G5bdpgzSl7vYPKw9VCxbsjJ0wbgDtMEi04lpw/S0ADZuJwY28YC6F/2zZyn8hnVGXN/sBHlWgRgjzD8Xz83Xv3lZconeP+sgB/32HeY4lnDWIBM3J;RRdubGa6gP9j+xhx0w2jQg=="
 ---
 

@@ -35,6 +35,21 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2019/08/bc4a043e-532521-microsoft-facial-recognition.jpg"
         width: 810
         height: 456
+  - title: "London police deploy facial recognition tech, stirring privacy fears"
+    excerpt: "London police started using facial recognition cameras on Tuesday to automatically scan for wanted people, as authorities adopt the controversial technology that has raised concerns about increased surveillance and erosion of privacy. Surveillance cameras mounted on a blue police van monitored people coming out of a shopping centre in Stratford ..."
+    publishedDateTime: 2020-02-11T18:01:00Z
+    webUrl: "https://www.dawn.com/news/1533822"
+    ampWebUrl: "https://www.dawn.com/news/amp/1533822"
+    cdnAmpWebUrl: "https://www-dawn-com.cdn.ampproject.org/c/s/www.dawn.com/news/amp/1533822"
+    type: article
+    provider:
+      name: Dawn
+      domain: dawn.com
+    quality: 59
+    images:
+      - url: "https://i.dawn.com/large/2020/02/5e42e958446ca.jpg"
+        width: 800
+        height: 480
   - title: "Mitek claims spoof-proof breakthrough in facial recognition"
     excerpt: "As the industry-first provider of Liveness Detection, Mitek is extending its technology to offer virtually spoof-proof facial comparison across all digital channels (native and web) - through one simple selfie. There are no additional steps for the consumer. Mitek’s extended Liveness Detection provides customers with additional security ..."
     publishedDateTime: 2020-02-10T14:47:00Z

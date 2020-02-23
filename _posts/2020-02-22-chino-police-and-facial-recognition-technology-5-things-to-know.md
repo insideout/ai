@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Chinese city rolls out facial-recognition thermometers on buses to combat coronavirus"
-excerpt: "Buses in a Chinese city have been equipped with thermometers that use facial recognition to scan passengers in efforts to more quickly detect symptoms of the coronavirus, according to local reports. The smart thermometers can measure commuters’ temperatures in as fast as a second and alert the driver if an anomaly is detected, the Guangzhou ..."
-publishedDateTime: 2020-02-19T14:33:00Z
-webUrl: "https://nypost.com/2020/02/19/chinese-city-rolls-out-facial-recognition-thermometers-on-buses-to-combat-coronavirus/"
-ampWebUrl: "https://nypost.com/2020/02/19/chinese-city-rolls-out-facial-recognition-thermometers-on-buses-to-combat-coronavirus/amp/"
-cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/02/19/chinese-city-rolls-out-facial-recognition-thermometers-on-buses-to-combat-coronavirus/amp/"
+title: "Chino police and facial recognition technology: 5 things to know"
+excerpt: "The Chino Police Department started using facial recognition software in a trial run in 2019, and it plans to ask the City Council to approve it for full-time use. Chino Police Chief Wes Simmons and Sgt. Dustin Tomicic recently held an event to show the public how the software functions, and answered questions about it. “We want to take away ..."
+publishedDateTime: 2020-02-22T17:20:00Z
+webUrl: "https://www.pe.com/2020/02/14/chino-police-and-facial-recognition-technology-5-things-to-know/"
+ampWebUrl: "https://www.pe.com/2020/02/14/chino-police-and-facial-recognition-technology-5-things-to-know/amp/"
+cdnAmpWebUrl: "https://www-pe-com.cdn.ampproject.org/c/s/www.pe.com/2020/02/14/chino-police-and-facial-recognition-technology-5-things-to-know/amp/"
 type: article
-quality: 37
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: New York Post
-  domain: nypost.com
+  name: The Press-Enterprise
+  domain: pe.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: "https://thenypost.files.wordpress.com/2020/02/chinese-city-rolls-out-facial-recognition-thermometers-on-buses.jpg?quality=90&strip=all&w=1200"
-    width: 1200
-    height: 800
-    title: "Chinese city rolls out facial-recognition thermometers on buses to combat coronavirus"
+  - url: "https://www.pe.com/wp-content/uploads/2020/02/IDB-L-FACEID-0215-16x9-1-1.jpg?w=480&h=270"
+    width: 480
+    height: 270
+    title: "Chino police and facial recognition technology: 5 things to know"
 
 related:
   - title: "UCLA Abandons Plans to Use Facial Recognition After Backlash"
@@ -215,21 +215,6 @@ related:
       - url: "https://media2.govtech.com/images/shutterstock_1508404712.jpg"
         width: 1008
         height: 630
-  - title: "Chino police and facial recognition technology: 5 things to know"
-    excerpt: "The Chino Police Department started using facial recognition software in a trial run in 2019, and it plans to ask the City Council to approve it for full-time use. Chino Police Chief Wes Simmons and Sgt. Dustin Tomicic recently held an event to show the public how the software functions, and answered questions about it. “We want to take away ..."
-    publishedDateTime: 2020-02-22T17:20:00Z
-    webUrl: "https://www.pe.com/2020/02/14/chino-police-and-facial-recognition-technology-5-things-to-know/"
-    ampWebUrl: "https://www.pe.com/2020/02/14/chino-police-and-facial-recognition-technology-5-things-to-know/amp/"
-    cdnAmpWebUrl: "https://www-pe-com.cdn.ampproject.org/c/s/www.pe.com/2020/02/14/chino-police-and-facial-recognition-technology-5-things-to-know/amp/"
-    type: article
-    provider:
-      name: The Press-Enterprise
-      domain: pe.com
-    quality: 59
-    images:
-      - url: "https://www.pe.com/wp-content/uploads/2020/02/IDB-L-FACEID-0215-16x9-1-1.jpg?w=480&h=270"
-        width: 480
-        height: 270
   - title: "Merkley bill aims to avert federal abuse of facial recognition"
     excerpt: "WASHINGTON (KTVZ) – Sens. Jeff Merkley (D-OR) and Cory Booker (D-NJ) introduced legislation Wednesday they said is aimed at protecting the privacy of consumers from rapidly advancing facial recognition technology and data collection practices that heighten the risk of over-surveillance and over-policing, especially in communities already ..."
     publishedDateTime: 2020-02-14T07:25:00Z
@@ -352,6 +337,21 @@ related:
       - url: "https://s.hdnux.com/photos/01/10/54/66/19058071/3/rawImage.jpg"
         width: 940
         height: 627
+  - title: "Chinese city rolls out facial-recognition thermometers on buses to combat coronavirus"
+    excerpt: "Buses in a Chinese city have been equipped with thermometers that use facial recognition to scan passengers in efforts to more quickly detect symptoms of the coronavirus, according to local reports. The smart thermometers can measure commuters’ temperatures in as fast as a second and alert the driver if an anomaly is detected, the Guangzhou ..."
+    publishedDateTime: 2020-02-19T14:33:00Z
+    webUrl: "https://nypost.com/2020/02/19/chinese-city-rolls-out-facial-recognition-thermometers-on-buses-to-combat-coronavirus/"
+    ampWebUrl: "https://nypost.com/2020/02/19/chinese-city-rolls-out-facial-recognition-thermometers-on-buses-to-combat-coronavirus/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/02/19/chinese-city-rolls-out-facial-recognition-thermometers-on-buses-to-combat-coronavirus/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 37
+    images:
+      - url: "https://thenypost.files.wordpress.com/2020/02/chinese-city-rolls-out-facial-recognition-thermometers-on-buses.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
   - title: "Because facial recognition makes students and faculty less safe, 40+ rights groups call on universities to ban technology"
     excerpt: "“Facial recognition technology isn’t safe,” reads the letter. “It’s biased and is more likely to misidentify students of color, which can result in traumatic interactions with law enforcement, loss of class time, disciplinary action, and potentially a criminal record… Facial recognition is invasive, enabling anyone with access to ..."
     publishedDateTime: 2020-02-13T19:29:00Z
@@ -390,6 +390,6 @@ related:
       domain: hindustantimes.com
     quality: 2
 
-secured: "YtFvB3Pjw3NDvBzWIWBa9QvTyKReFjpj/srkIMynyBcTtKOt9MTCBCblkwM4sSijP8FRGE45LzQqo6haPgf+Az0rKnfHml6Nt6V0yo13JqGZMvfZMO3ZsjqFpndkaqgJOigl7qHIFQN8a9HWe+RUVWgS7RO+7ftDTK4BZmwf8zttKOux67oPJup2IL5YkXi/Nv43O5+I+RbC8hYEftm6o/qed31nbh6r5qsj4YTC8ee8aBEMOAU+jj/xDE48QpbWjaNH9/5XB3nSXqHPfhFXhGOlXxNREF0TEUAne5yrI7OEB9R14S8QPADfaDrzHAimE9ABvdRD7IfQbBiNuyGwjBAUaqqFNnQiGFNB1AykRhfnK6qkC2qPQqeAMNGt0/vwqiI1NDETxWTnsvdtJqKGF5dL4PsMxX/qobNfJst8q0tCD9xQXvuiiT/eLKWCAu1OcVFD8JOXdRTzKv+hEo+FaGf6VTkbtbcLuX3n9hOYmfo=;JocMNN/AFPeAuiAdW4GFlg=="
+secured: "SIEqc19jB3KZyY+/CEFtWsxyRYH/lKkeFMR5PjcNTb4zG+jbfi3BmDUWVOJEyrkUVww/sWnnIPAb2mZUFwg6Gu+/SwIPigNZWjKYM84k8Wwuf5U/I/OQ2yojeB8pTmC1VH/kblEVGGVnq/ec9fOhQ0FYC88eBcEPsL4upXbU7NzqMirmjPKFa4AX08vhraKtqEvE6I1tgBx4J6AGQkNcJL7EUYsJ50RmW5Qri5SaJ6Wgbj2O7PpZQXjkNpA2n6TOshRVGQag7X5PqOHCT12YFme/ESJfLpCsriuJvanTsYkHd0jKw6CF424FPuhN8HQo;BiKs7FJoUqaNS22MhbOpmw=="
 ---
 

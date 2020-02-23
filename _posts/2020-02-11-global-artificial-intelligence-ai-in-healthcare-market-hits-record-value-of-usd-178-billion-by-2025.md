@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-11T06:00:00Z
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-healthcare-market-hits-record-value-of-usd-178-billion-by-2025-2020-02-11"
 type: article
 quality: 85
-heat: 205
+heat: 195
 published: true
 
 provider:
@@ -64,19 +64,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Image Recognition Market Worth $81.88 billion by 2026"
-    excerpt: "The global image recognition market was worth USD 20.19 billion in 2018 and will exhibit a CAGR of 19.6% during the forecast period, till 2026 The global image recognition market size is projected to reach USD 81."
-    publishedDateTime: 2020-02-05T06:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-worth-8188-billion-by-2026-2020-02-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
