@@ -8,7 +8,7 @@ ampWebUrl: "https://www.buzzfeednews.com/amphtml/carolinehaskins1/clearview-ai-f
 cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/carolinehaskins1/clearview-ai-facial-recognition-accurate-aclu-absurd"
 type: article
 quality: 180
-heat: 270
+heat: 260
 published: true
 
 provider:
@@ -61,19 +61,6 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D4860%252C3240%252C0%252C495%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-02%252Fe54aedf0-4c27-11ea-a9fe-866995234731%26client%3Da1acac3e1b3290917d92%26signature%3Dde699115449a716bcec325db3e7903662dbd4881&client=amp-blogside-v2&signature=3eefa1557daf961b15de1298ae8254f93b9244fb"
         width: 600
         height: 350
-  - title: "Tech giants hammer facial recognition startup"
-    excerpt: "Facebook, YouTube, Twitter, Venmo and Linkedin have sent Clearview AI cease-and-desist letters in the wake of a blockbuster report that the facial recognition startup has scraped billions of people's faces from their websites, the New York Times reports."
-    publishedDateTime: 2020-02-08T21:15:00Z
-    webUrl: "https://www.axios.com/clearview-tech-giant-facial-recognition-startup-0961b589-2462-46cf-9ee4-dbcfd5266049.html"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 39
-    images:
-      - url: "https://static.axios.com/img/axios-icon.png"
-        width: 400
-        height: 400
   - title: "ACLU Blasts Clearview's Facial Recognition Accuracy Claims"
     excerpt: "Clearview apparently has been telling law enforcement agencies that its technology underwent accuracy testing modeled on the ACLU's 2018 test of Amazon's Rekognition facial recognition tool. For that test, the ACLU simulated the way law enforcement used Rekognition in the field, matching photos of all 535 members of the United States Congress ..."
     publishedDateTime: 2020-02-14T12:00:00Z

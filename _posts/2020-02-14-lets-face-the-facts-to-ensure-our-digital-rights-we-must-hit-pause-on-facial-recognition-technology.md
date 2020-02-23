@@ -35,6 +35,17 @@ related:
       - url: "https://cms.qz.com/wp-content/uploads/2020/02/1581746326404096.png?w=1400&strip=all&quality=75"
         width: 875
         height: 492
+  - title: "Moscow deploys facial recognition technology for coronavirus quarantine"
+    excerpt: "Moscow is using facial recognition technology to ensure people ordered to remain at home or at their hotels under coronavirus quarantine do so, the mayor of the Russian capital said on Friday. Russia has temporarily barred Chinese nationals from entering the country to curb the spread of the virus,"
+    publishedDateTime: 2020-02-21T17:31:00Z
+    webUrl: "https://www.reuters.com/article/us-china-health-moscow-technology/moscow-deploys-facial-recognition-technology-for-coronavirus-quarantine-idUSKBN20F1RZ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN20F1RZ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN20F1RZ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 152
   - title: "Clearview AI’s false claims of accuracy increase the dangers of its face recognition software"
     excerpt: "The facial recognition company has been embroiled in a storm of controversy since The New York Times revealed that it was helping police match photos of suspects’ faces to images scraped from websites and social media platforms to aid in their investigations. Clearview says that it has amassed a database of more than three billion images ..."
     publishedDateTime: 2020-02-11T17:49:00Z
@@ -50,21 +61,6 @@ related:
       - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/Untitled-design-4-796x417.png"
         width: 796
         height: 417
-  - title: "Moscow deploys facial recognition technology for coronavirus quarantine"
-    excerpt: "Moscow is using facial recognition technology to ensure people ordered to remain at home or at their hotels under coronavirus quarantine do so."
-    publishedDateTime: 2020-02-21T19:06:00Z
-    webUrl: "https://www.cnbc.com/2020/02/21/moscow-deploys-facial-recognition-technology-for-coronavirus-quarantine.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/02/21/moscow-deploys-facial-recognition-technology-for-coronavirus-quarantine.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/02/21/moscow-deploys-facial-recognition-technology-for-coronavirus-quarantine.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 89
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/100978289-135627372r.jpg?v=1582293185"
-        width: 2000
-        height: 1325
   - title: "New Jersey’s former attorney general on Ring cameras and facial recognition"
     excerpt: "And it is a little creepy. That’s not the technical legal term for it. But there’s a way in which, when you think about some of what China’s doing with facial recognition, and trying to basically, literally, track people in communities, you could see where it could end. And one of the things about Ring is that, what has been fascinating ..."
     publishedDateTime: 2020-02-11T13:00:00Z

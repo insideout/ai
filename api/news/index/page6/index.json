@@ -2,51 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_posts/2020-02-19-apples-priorities-are-shifting-as-iphone-sales-continue-to-sink.md",
-      "title": "Apple's priorities are shifting as iPhone sales continue to sink",
-      "excerpt": "The company poached a new executive from Google to lead its artificial intelligence efforts ... most notably Waymo, the Alphabet company that spun out of Google's self-driving car project.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2019/02/19/apple-shifts-priorities-to-grow-services-ai.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2019/02/19/apple-shifts-priorities-to-grow-services-ai.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2019/02/19/apple-shifts-priorities-to-grow-services-ai.html",
-      "publishedDateTime": "2020-02-18T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/102732800-GettyImages-146178359.jpg?v=1545326522",
-          "width": 3000,
-          "height": 2111,
-          "title": "Apple's priorities are shifting as iPhone sales continue to sink",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_posts/2020-02-19-artificial-intelligence-chips-market-to-watch-google-baidu-adapteva-in-focus.md",
       "title": "Artificial Intelligence Chips Market To Watch: Google, Baidu, Adapteva In Focus",
       "excerpt": "This intelligence report provides a comprehensive analysis of the Global Artificial Intelligence Chips Market. This includes Investigation of past progress, ongoing market scenarios, and future prospects.",
@@ -2088,6 +2043,51 @@
           "width": 711,
           "height": 532,
           "title": "Do We Need More Data Or More Science In Data Science?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-20-facebook-will-now-pay-you-for-your-voice-recordings.md",
+      "title": "Facebook will now pay you for your voice recordings",
+      "excerpt": "Facebook will offer to pay some users for voice recordings that will be used to help improve its speech recognition technology, the company announced Thursday. The move comes after Facebook — as well as Amazon, Apple, Google, and Microsoft — was caught listening to and transcribing voice recordings to improve speech recognition systems ...",
+      "heat": 404,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theverge.com/2020/2/20/21145584/facebook-pay-record-voice-speech-recognition-viewpoints-proununciations-app",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/2/20/21145584/facebook-pay-record-voice-speech-recognition-viewpoints-proununciations-app",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/20/21145584/facebook-pay-record-voice-speech-recognition-viewpoints-proununciations-app",
+      "publishedDateTime": "2020-02-20T12:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/9GjJYqY3aHq7Y6WKo61JQUsI72o=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66345179/acastro_180522_facebook_0001.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": "Facebook will now pay you for your voice recordings",
           "attribution": null
         }
       ],

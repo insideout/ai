@@ -60,19 +60,6 @@ related:
       - url: "https://img.buzzfeed.com/buzzfeed-static/static/2020-02/10/16/asset/da869febf445/sub-buzz-274-1581350749-7.jpg?output-quality=auto&output-format=auto&downsize=640:*"
         width: 640
         height: 440
-  - title: "Tech giants hammer facial recognition startup"
-    excerpt: "Facebook, YouTube, Twitter, Venmo and Linkedin have sent Clearview AI cease-and-desist letters in the wake of a blockbuster report that the facial recognition startup has scraped billions of people's faces from their websites, the New York Times reports."
-    publishedDateTime: 2020-02-08T21:15:00Z
-    webUrl: "https://www.axios.com/clearview-tech-giant-facial-recognition-startup-0961b589-2462-46cf-9ee4-dbcfd5266049.html"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 39
-    images:
-      - url: "https://static.axios.com/img/axios-icon.png"
-        width: 400
-        height: 400
   - title: "ACLU Blasts Clearview's Facial Recognition Accuracy Claims"
     excerpt: "Clearview apparently has been telling law enforcement agencies that its technology underwent accuracy testing modeled on the ACLU's 2018 test of Amazon's Rekognition facial recognition tool. For that test, the ACLU simulated the way law enforcement used Rekognition in the field, matching photos of all 535 members of the United States Congress ..."
     publishedDateTime: 2020-02-14T12:00:00Z

@@ -110,21 +110,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/9/e9/9e9cbbbc-111e-5904-b1c9-c12426069aab/5e41f2280d4e7.image.jpg?resize=576%2C324"
         width: 576
         height: 324
-  - title: "Canadian privacy officials will investigate controversial facial recognition tool used by Toronto police"
-    excerpt: "TORONTO -- The federal privacy watchdog and three provincial ombudsmen have announced an investigation into the controversial facial recognition software used by several police services, including Toronto. “The investigation was initiated in the wake of numerous media reports that have raised questions and concerns about whether the company ..."
-    publishedDateTime: 2020-02-21T18:56:00Z
-    webUrl: "https://toronto.ctvnews.ca/canadian-privacy-officials-will-investigate-controversial-facial-recognition-tool-used-by-toronto-police-1.4822198"
-    ampWebUrl: "https://beta.ctvnews.ca/local/toronto/2020/2/21/1_4822198.html"
-    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/toronto/2020/2/21/1_4822198.html"
-    type: article
-    provider:
-      name: CTV News
-      domain: ctvnews.ca
-    quality: 42
-    images:
-      - url: "https://beta.ctvnews.ca/local/toronto/2020/2/21/1_4822198/_jcr_content/root/responsivegrid/image.coreimg.jpg"
-        width: 1280
-        height: 901
   - title: "Privacy commissioners launch investigation into facial recognition technology tested by Toronto police, other GTA forces"
     excerpt: "Federal and provincial regulators are launching an investigation into whether Clearview AI, the company that makes facial recognition technology used by at least four Ontario police forces, breaks Canadian privacy laws. The investigation was initiated ..."
     publishedDateTime: 2020-02-21T16:52:00Z
@@ -140,19 +125,6 @@ related:
       - url: "https://images.thestar.com/VCnTmwymLnbBmkLF_tK-THOX3fM=/1200x800/smart/filters:cb(1582302710274)/https://www.thestar.com/content/dam/thestar/news/gta/2020/02/20/privacy-commissioners-launch-investigation-into-facial-recognition-technology-tested-by-toronto-police-other-gta-forces/clearview_ai.jpg"
         width: 1200
         height: 800
-  - title: "Announcement - Commissioners launch joint investigation into Clearview AI amid growing concerns over use of facial recognition technology"
-    excerpt: "Media reports have stated that Clearview AI is using its technology to collect images and make facial recognition available to law enforcement for the purposes of identifying individuals. The company has also claimed to be providing its services to financial institutions. The four privacy regulators will examine whether the organization's ..."
-    publishedDateTime: 2020-02-21T17:10:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-announcement-commissioners-launch-joint-investigation-into-clearview-ai-/2020/02/21/9102220.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 21
-    images:
-      - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
-        width: 252
-        height: 335
   - title: "Canada Privacy Watchdog Probes Facial Recognition Startup"
     excerpt: "The images -- grabbed from popular social media platforms including Facebook, Instagram, Twitter and YouTube as well as millions of other websites -- are used in its facial recognition software. Clearview AI's founder Hoan Ton-That has said the technology has been made available to more than 600 law enforcement agencies in Canada and the United ..."
     publishedDateTime: 2020-02-21T20:27:00Z

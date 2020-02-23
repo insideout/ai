@@ -2,44 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_posts/2020-02-08-the-next-ai-platform-2020-edition.md",
-      "title": "The Next AI Platform: 2020 Edition",
-      "excerpt": "Fernanda brings a strong accelerated high performance computing systems view to the table along with extensive large-scale workload perspectives that blend AI and traditional modeling and simulation. She is a currently GPU Developer Advocate for Bioinformatics at NVIDIA. She was previously in the HPC User Assistance Group as an HPC Programmer ...",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nextplatform.com/2020/02/08/the-next-ai-platform-2020-edition-march-10-san-jose/",
-      "ampWebUrl": "https://www.nextplatform.com/2020/02/08/the-next-ai-platform-2020-edition-march-10-san-jose/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/02/08/the-next-ai-platform-2020-edition-march-10-san-jose/amp/",
-      "publishedDateTime": "2020-02-08T14:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2019/03/NextAIPlatformPresoLogo.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": "The Next AI Platform: 2020 Edition",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Facebook AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-09-artificial-intelligence-is-not-ready-for-the-intricacies-of-radiology.md",
       "title": "Artificial Intelligence Is Not Ready For The Intricacies Of Radiology",
       "excerpt": "The use of radiology in clinical medicine is exponentially growing. Many issues need to be resolved prior to integrating artificial intelligence into this field.",
@@ -836,7 +798,7 @@
       "path": "_posts/2020-02-10-deal-prepare-for-the-robot-age-with-essential-ai-training.md",
       "title": "Deal: Prepare for the robot age with Essential AI training",
       "excerpt": "That might be an apocalyptic view, but learning how our future conquerors operate is definitely a worthwhile career move. Tech Deals is now offering the Essential AI and Machine Learning Certification Training Bundle as a budget-friendly guide. Explore computer vision and machine learning. Across your training, you’ll dabble with computer ...",
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.androidauthority.com/essential-ai-training-1080950/",
@@ -2121,6 +2083,52 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-10-top-5-companies-using-machine-learning-in-2020.md",
+      "title": "Top 5 companies using Machine Learning in 2020",
+      "excerpt": "Nowadays small startups are more innovative and dynamic than big companies and established in market leaders. Machine learning is trending and more effective technology so every industry are started to use this technology. It’s not same for all the cases since the making of advanced products and services is often very expensive, few companies ...",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/@sushmithagowda216/top-5-companies-using-machine-learning-in-2020-cb5558468da9",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T10:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/800/1*IVYvNXzk1XVr7XM9Hu9X-A.png",
+          "width": 800,
+          "height": 445,
+          "title": "Top 5 companies using Machine Learning in 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Finance"
       ]
     }
   ],

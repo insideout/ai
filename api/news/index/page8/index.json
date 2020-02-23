@@ -83,6 +83,50 @@
       ]
     },
     {
+      "path": "_posts/2020-02-22-hbo-hbo-max-are-heading-to-youtube-tv.md",
+      "title": "HBO, HBO Max Are Heading To YouTube TV",
+      "excerpt": "Google's live TV streaming platform will soon let users sign up for HBO, Cinemax, and HBO Max. WarnerMedia announced a distribution agreement that'll enhance YouTube TV with linear and on-demand content from the premium services.",
+      "heat": 172,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.pcmag.com/news/hbo-hbo-max-are-heading-to-youtube-tv",
+      "ampWebUrl": "https://www.pcmag.com/news/hbo-hbo-max-are-heading-to-youtube-tv?amp=true",
+      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/hbo-hbo-max-are-heading-to-youtube-tv?amp=true",
+      "publishedDateTime": "2020-02-22T10:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/03tOrEwaESGaiyYPQwFtpM1-1.fit_lim.size_1200x630.v_1582386528.png",
+          "width": 1120,
+          "height": 630,
+          "title": "HBO, HBO Max Are Heading To YouTube TV",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_posts/2020-02-22-heres-why-the-ai-at-the-wheel-of-a-self-driving-car-might-be-male-female-gender-fluid-or-gender-neutral.md",
       "title": "Here’s Why The AI At The Wheel Of A Self-Driving Car Might Be Male, Female, Gender-Fluid, Or Gender-Neutral",
       "excerpt": "Do you think that men are better drivers than women, or do you believe that women are better drivers than men? Seems like most of us have an opinion on the matter, one way or another. In a stereotypical manner,",
@@ -170,43 +214,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-22-police-chiefs-say-facial-recognition-needs-more-review-but-cops-should-be-able-to-use-ai.md",
-      "title": "Police chiefs say facial recognition needs more review — but cops should be able to use AI",
-      "excerpt": "The chiefs of two Greater Toronto Area police forces now slamming the brakes on the use of a contentious facial recognition tool admit the app should have undergone greater scrutiny before it was tested by their investigators. Clearview AI, a U.S.-based app providing an artificial intelligence-powered tool to law enforcement agencies ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.thestar.com/news/gta/2020/02/22/police-chiefs-say-facial-recognition-needs-more-review-but-cops-should-be-able-to-use-ai.html",
-      "ampWebUrl": "https://www.thestar.com/amp/news/gta/2020/02/22/police-chiefs-say-facial-recognition-needs-more-review-but-cops-should-be-able-to-use-ai.html",
-      "cdnAmpWebUrl": "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/news/gta/2020/02/22/police-chiefs-say-facial-recognition-needs-more-review-but-cops-should-be-able-to-use-ai.html",
-      "publishedDateTime": "2020-02-22T10:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Star",
-        "domain": "thestar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.thestar.com/qwkecqtwTW63-JSZV4bdnJsqCl4=/1200x800/smart/filters:cb(1582396914056)/https://www.thestar.com/content/dam/thestar/news/gta/2020/02/22/police-chiefs-say-facial-recognition-needs-more-review-but-cops-should-be-able-to-use-ai/afwpeelchief01.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Police chiefs say facial recognition needs more review — but cops should be able to use AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     },
     {

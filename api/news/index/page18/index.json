@@ -1830,6 +1830,43 @@
       ]
     },
     {
+      "path": "_posts/_archive/2020-01-27-ai-can-help-cancer-patients-start-radiation-therapy-sooner.md",
+      "title": "AI can help cancer patients start radiation therapy sooner",
+      "excerpt": "Artificial intelligence can help cancer patients start their radiation therapy sooner - and thereby decrease the odds of the cancer spreading - by instantly translating complex clinical data into ...",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.news-medical.net/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx",
+      "publishedDateTime": "2020-01-26T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.news-medical.net/image.axd?picture=2014%2f7%2fRadiation_Therapy-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": "AI can help cancer patients start radiation therapy sooner",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-27-ai-license-plate-readers-are-cheaperso-drive-carefully.md",
       "title": "AI License Plate Readers Are Cheaper—So Drive Carefully",
       "excerpt": "Conventional ALPRs are also getting a boost from AI. Canada’s Genetec, a leading supplier of surveillance and security technology, recently announced a new ALPR camera for use on police vehicles that includes an Intel chip designed to power image-processing neural networks. Genetec says that will make the device better at reading plates at ...",
@@ -2093,51 +2130,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-27-cloud-natural-language-processing-nlp-market-demands-and-forecast-2019-2027.md",
-      "title": "Cloud Natural Language Processing (NLP) Market demands And forecast 2019-2027",
-      "excerpt": "The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million).",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-demands-and-forecast-2019-2027-2020-01-27-7197455",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-27T03:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Cloud Natural Language Processing (NLP) Market demands And forecast 2019-2027",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

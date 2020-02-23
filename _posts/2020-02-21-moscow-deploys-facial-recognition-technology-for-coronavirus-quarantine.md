@@ -1,33 +1,26 @@
 ---
 category: news
 title: "Moscow deploys facial recognition technology for coronavirus quarantine"
-excerpt: "Moscow is using facial recognition technology to ensure people ordered to remain at home or at their hotels under coronavirus quarantine do so."
-publishedDateTime: 2020-02-21T19:06:00Z
-webUrl: "https://www.cnbc.com/2020/02/21/moscow-deploys-facial-recognition-technology-for-coronavirus-quarantine.html"
-ampWebUrl: "https://www.cnbc.com/amp/2020/02/21/moscow-deploys-facial-recognition-technology-for-coronavirus-quarantine.html"
-cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/02/21/moscow-deploys-facial-recognition-technology-for-coronavirus-quarantine.html"
+excerpt: "Moscow is using facial recognition technology to ensure people ordered to remain at home or at their hotels under coronavirus quarantine do so, the mayor of the Russian capital said on Friday. Russia has temporarily barred Chinese nationals from entering the country to curb the spread of the virus,"
+publishedDateTime: 2020-02-21T17:31:00Z
+webUrl: "https://www.reuters.com/article/us-china-health-moscow-technology/moscow-deploys-facial-recognition-technology-for-coronavirus-quarantine-idUSKBN20F1RZ"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN20F1RZ"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN20F1RZ"
 type: article
-quality: 89
+quality: 152
 heat: -1
 published: false
 
 provider:
-  name: CNBC
-  domain: cnbc.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "/assets/images/organizations/cnbc.com-50x50.jpg"
+    - url: "/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI
-  - Computer Vision
-
-images:
-  - url: "https://image.cnbcfm.com/api/v1/image/100978289-135627372r.jpg?v=1582293185"
-    width: 2000
-    height: 1325
-    title: "Moscow deploys facial recognition technology for coronavirus quarantine"
 
 related:
   - title: "China’s facial-recognition giant says it can crack masked faces during the coronavirus"
@@ -167,6 +160,6 @@ related:
       domain: theglobeandmail.com
     quality: 8
 
-secured: "FkNHJX8lHO2ErpAKzfIh2oi1EjErtcIQFHB+XIAMZWFvfMBNSpFZ8wTAlQP8tmu3VnBIf3mJp8UBhoGcvPfjC3VYAYKy+0Uu3OkaYItCOww0SROMIXM5ByhNgb3m6AT0rSk+Sk4HZQkC4cQUPNZUQqkbiTQnGRHbcEX1nlHnNxpGVeUiilGCKO/31NBniPGM/POXV26NVo3kpPuZunBKdiQRtN0fH8e8D5S5BHnGlt4ZJRjy0Z2FcPhzswlMd5lcu+qXun7eK5kbwoSex1AygDz3aMEZFE6eQ96yLrwKRMdzck4pPqjHqw5SlyGwaa3/S5m3tiom5BB2Mer4Ojl4wyzyFv+mAcTIaPtAMoy1Bo4BOhQ+mB/xfwMCuWJrAze7aSr7qpNw1QPlFB7PHvpLUyy9MTIxTDK2UMWwS6D6goFCpefqf3a6VV6PBC3sKm1rIKigXblwzQCMqy9uTXdXmTWVNm35SYLscueEpnNlFHY=;eNp61mJw+zmI0sS/L55KNw=="
+secured: "S3S54YTr3Wq7T5FZgYW6IvaEOKA+o0DW4r5MQ/bxvPEcrLLvzdhb8e4SbG379PnLObOfo20/CujJuvJI3H8nFF8Aac117Y0Aca74cOJ52xbhTcRbG42A1naAON6KWVoKA7kx3cAf9ME6JrdyaAa3PYsQycmeO/CmxqJhDs6zPEUd1646JfDAtjCNarn+mY8MB6BmKiuL/LicJQP/8d32/EWNfBnwp6qOWis08CTVIID0e6uik+1mze1W7fzuh8ugyv0Dcb3dwUH2FS3fNkadAGSYV+vfDGGg8ZZaIS0TTOz4qANUjzEztV3/06B5g1Y1rpZyHRYhXqdZCr1df4VnpelTiySsWk6quZeUo6ypHlJlcoNN9QvpRlJMhhxcz/c55dL9dU7ykKGPCaCJwlcwcCDTxqKZryyuROrMu+Ll8l95zcKk00iR/UfV9IddnucHGdpC6y2HKWtO+7V8AXdvQ6XvMZFjG47eL+BQ3oiI9payIEh0P8FeG5PY5OnxsNHf;mXfHIjZxEYJZ2AvasK0iKg=="
 ---
 
