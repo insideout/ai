@@ -45,19 +45,6 @@ related:
       - url: "https://www.insidehook.com/wp-content/uploads/2020/02/Sophia_at_the_AI_for_Good_Global_Summit_2018_27254369807.jpg?fit=1280%2C853"
         width: 1280
         height: 853
-  - title: "Rutgers robot draws blood better than humans in first trials"
-    excerpt: "Next steps include refining the device to improve success rates in patients with difficult veins to access. Data from this study will be used to enhance artificial intelligence in the healthcare robot to improve its performance."
-    publishedDateTime: 2020-02-08T13:36:00Z
-    webUrl: "https://www.therobotreport.com/rutgers-robot-draws-blood-better-humans-first-trial/"
-    type: article
-    provider:
-      name: The Robot Report
-      domain: therobotreport.com
-    quality: 69
-    images:
-      - url: "https://www.therobotreport.com/wp-content/uploads/2020/02/alte-cinci-decese-provocate-de-gripa-1024x826.jpg"
-        width: 1024
-        height: 826
   - title: "Robot-analysts make BETTER stock recommendations than human investors, study finds"
     excerpt: "Robots are said to take over some 200,000 jobs on Wall Street over the next decade ... Robo-Analyst firms generally advertise sophisticated technologies such as 'Natural Language Processing,' 'Machine Learning,' and 'Artificial Intelligence' on their corporate websites and produce reports that rely more on technical analysis than on subjective ..."
     publishedDateTime: 2020-02-11T20:47:00Z

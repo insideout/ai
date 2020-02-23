@@ -56,19 +56,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e4a3210a854780006b18efa%2F0x0.jpg"
         width: 1200
         height: 675
-  - title: "Rutgers robot draws blood better than humans in first trials"
-    excerpt: "Next steps include refining the device to improve success rates in patients with difficult veins to access. Data from this study will be used to enhance artificial intelligence in the healthcare robot to improve its performance."
-    publishedDateTime: 2020-02-08T13:36:00Z
-    webUrl: "https://www.therobotreport.com/rutgers-robot-draws-blood-better-humans-first-trial/"
-    type: article
-    provider:
-      name: The Robot Report
-      domain: therobotreport.com
-    quality: 69
-    images:
-      - url: "https://www.therobotreport.com/wp-content/uploads/2020/02/alte-cinci-decese-provocate-de-gripa-1024x826.jpg"
-        width: 1024
-        height: 826
 
 secured: "RP+A0cdpZc+WvjBQVRPyFGgJRcgKF34b/MoD6Rwc2LQjmjDMNzTdSbr1nqZbiNgvCP4EJQvmwTzDpX+whN5a5SmoYuFyup6JcVDIWUjrBwZKBG3rY/hTrdUbmJ3R8Hb4Fs/SoYoQlX7oUOzHa9c6AHFDoVxZaVd2wdrLSBvwc0U0K3sNVyI4bFijusWQDPwF80Hsq9OhfXSTOhAOlBd+kRqnooJxtILF9jP4hdl68dEWiDlJYkXneGnxDm43MaKF1LjbS4mrucc6z/H3Yi0GWyOUViUbjLjbusxMemJtvkExS88MUB7x4mxkbvIsuB1W;2fy7MSs3NSkdorYbRkzwgA=="
 ---

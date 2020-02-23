@@ -26,7 +26,11 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 14
+    quality: 34
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Autonomous Vehicle Market 2020: Global Overview, Latest Technology, Market Size, Share, Demand, Major Players, Key Trends, and Forecast to 2026"
     excerpt: "Autonomous Vehicle Market by Level of Automation (Level 3, Level 4, and Level 5), Component (Hardware, Software, and Service) and Application (Civil, Robo Taxi, Self-driving Bus, Ride Share, Self-driving Truck,"
     publishedDateTime: 2020-02-05T03:05:00Z
@@ -35,8 +39,12 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 0
+    quality: 18
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
 
-secured: "HNDzlNSlHudw9z470Ax770OV32hH5XU5ePfszXLbGmfUr7O/CHMoj57wy05r/4C3VjU2SoOATPfDzkmNe3+kUDtpQgM0QaFJ6/LD7v5YqTPn9R/ktyYlxA58dJ71taIV3350mOerHXp98VaCt047l8iYcXWGiGC+E/kfddeyhEmjxrIWyKA0Es2Z0vCA+Af2sXnUPjW/ptr7EzE5E0T5fpahlQu1fa3go+fjF9Y2BA/7UGJT4ou+KnG9ZdTDoMfcJt1QJ+m5xnZrqsGDghhRHet/VqdYwbTlS8S3/aVBrElML1Mnl0CcQMuV1/9kfFuS;CR9kajW2SwgaCWf4nneerw=="
+secured: "alKs19J0rkH2l+kZOBGdVa+1pwRM0GFY/hDGZBt+sy+PW8JBNFRD+NQH9viEjQ1+spnOwN9fUMur/zypU3o1fNHFHh7EwCAZzXz349RyeDLnV6RjAwcRAMUYxUForo8ZU5/V4YjJoHaKjHIk4B5npsG/Dg3BHjsyz1ispTLCKsnSHCpWpqqVQUcXjxCkYiv0bEfnJsyCqRC3WYqCy6BTs+YM5++qJ4TOLIa6u+98kyO5QmLDXdPqUtJvN9Ulzmm4EltSXJsp2KwCBMMkuUscJ4O1Lw1VeuYpFrN9wP8m3pI9t3Mnpj1sqzzVfLjpsO60;C3UPqcgpBumTGeHLXdM8Fw=="
 ---
 
