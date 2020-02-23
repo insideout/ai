@@ -2,51 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_posts/2020-02-17-what-does-artificial-intelligence-really-mean.md",
-      "title": "What Does “Artificial Intelligence” Really Mean?",
-      "excerpt": "Years ago, Marvin Minsky coined the phrase “suitcase words” to refer to terms that have a multitude of different meanings packed into them. He gave as examples words like consciousness, morality and creativity.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/robtoews/2020/02/17/what-does-artificial-intelligence-really-mean/",
-      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2020/02/17/what-does-artificial-intelligence-really-mean/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2020/02/17/what-does-artificial-intelligence-really-mean/amp/",
-      "publishedDateTime": "2020-02-17T13:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F255005%2F0x0.jpg",
-          "width": 1200,
-          "height": 799,
-          "title": "What Does “Artificial Intelligence” Really Mean?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_posts/2020-02-17-why-ai-systems-should-be-recognized-as-inventors.md",
       "title": "Why AI systems should be recognized as inventors",
       "excerpt": "This could also play a major role in the AI arms race, as countries that adapt their patent systems most quickly will get a head start over their slower rivals. It’s important to note that the Artificial Inventor Project doesn’t want AI systems to own the patents for their creations. Such an interpretation of the case confuses ownership of ...",
@@ -1056,7 +1011,7 @@
       "path": "_posts/2020-02-18-how-ai-is-impacting-the-workplace.md",
       "title": "How AI is impacting the workplace",
       "excerpt": "The reason for this may be very straightforward: as impressive as it is (think self-driving cars or Google's DeepMind beating human Go champions) the technology just isn't capable of doing what humans can do. At least not yet. The Brookings Institute's January 2019 report, Automation and Artificial Intelligence: How Machines are Affecting ...",
-      "heat": 139,
+      "heat": 149,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.techrepublic.com/article/how-ai-is-impacting-the-workplace/",
@@ -2168,6 +2123,51 @@
       "topics": [
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-19-artificial-intelligence-chips-market-to-watch-google-baidu-adapteva-in-focus.md",
+      "title": "Artificial Intelligence Chips Market To Watch: Google, Baidu, Adapteva In Focus",
+      "excerpt": "This intelligence report provides a comprehensive analysis of the Global Artificial Intelligence Chips Market. This includes Investigation of past progress, ongoing market scenarios, and future prospects.",
+      "heat": 95,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chips-market-to-watch-google-baidu-adapteva-in-focus-2020-02-19",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-18T23:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence Chips Market To Watch: Google, Baidu, Adapteva In Focus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
       ]
     }
   ],

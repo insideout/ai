@@ -26,21 +26,6 @@ images:
     title: "Millions of updated driver’s license photos to fill Ohio’s facial-recognition system"
 
 related:
-  - title: "Ohio’s controversial facial-recognition database to get $21.4 million update, AG Dave Yost says"
-    excerpt: "COLUMBUS, Ohio — The state of Ohio is spending $21.4 million to revamp its controversial facial-recognition software next year to better identify suspects and missing persons by matching their photos with updated driver’s license and mug-shot pictures, Attorney General Dave Yost announced Thursday. The announcement came as a task force ..."
-    publishedDateTime: 2020-02-20T18:14:00Z
-    webUrl: "https://www.cleveland.com/open/2020/02/ohios-controverisal-facial-recognition-database-to-get-214-million-update-ag-dave-yost-says.html"
-    ampWebUrl: "https://www.cleveland.com/open/2020/02/ohios-controverisal-facial-recognition-database-to-get-214-million-update-ag-dave-yost-says.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/open/2020/02/ohios-controverisal-facial-recognition-database-to-get-214-million-update-ag-dave-yost-says.html?outputType=amp"
-    type: article
-    provider:
-      name: Cleveland.com
-      domain: cleveland.com
-    quality: 32
-    images:
-      - url: "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/O4C7BWLACRGL5EKOY7V6WLBEFY.jpg"
-        width: 960
-        height: 720
   - title: "Washington Senate passes bill to regulate governments’ use of facial-recognition technology"
     excerpt: "OLYMPIA — Washington state senators Wednesday approved a bill that would begin regulating the use of facial-recognition programs by local and state governments. Sponsored by Sen. Joe Nguyen, D-White Center, Senate Bill 6280 is one of a series of legislative proposals this year to counter technology that is evolving fast, regulated little and ..."
     publishedDateTime: 2020-02-20T02:25:00Z

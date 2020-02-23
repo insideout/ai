@@ -2,81 +2,6 @@
   "page": 23,
   "value": [
     {
-      "path": "_posts/_archive/2020-02-02-what-are-machine-learning-and-deep-learning-in-artificial-intelligence.md",
-      "title": "What are Machine Learning and Deep Learning in Artificial Intelligence",
-      "excerpt": "They say ML is a complete science in its own right and thus, need not be called with reference to Artificial Intelligence. AI thrives on data ... For example, if the machine is a self-driving vehicle, it has to create its own scenarios on road. There is no way a programmer can program every step as he or she can’t think of all the ...",
-      "heat": 101,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.thewindowsclub.com/machine-learning-deep-learning-artificial-intelligence",
-      "ampWebUrl": "https://www.thewindowsclub.com/machine-learning-deep-learning-artificial-intelligence/amp",
-      "cdnAmpWebUrl": "https://www-thewindowsclub-com.cdn.ampproject.org/c/s/www.thewindowsclub.com/machine-learning-deep-learning-artificial-intelligence/amp",
-      "publishedDateTime": "2020-02-02T14:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TWCN Tech News",
-        "domain": "thewindowsclub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thewindowsclub-thewindowsclubco.netdna-ssl.com/wp-content/uploads/2020/01/aivsmlvsdl.png",
-          "width": 412,
-          "height": 338,
-          "title": "What are Machine Learning and Deep Learning in Artificial Intelligence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-02-03-3-top-artificial-intelligence-stocks-to-watch-in-february.md",
-      "title": "3 Top Artificial Intelligence Stocks to Watch in February",
-      "excerpt": "Though artificial intelligence (AI) has been a hot topic among technologists for quite some time, it's only in recent years that semiconductor, software, and cloud capabilities have gotten to the point where companies are now deploying AI on a wider basis.",
-      "heat": 119,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-watch-in-february-2020-02-03",
-      "ampWebUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-watch-in-february-2020-02-03?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-watch-in-february-2020-02-03?amp",
-      "publishedDateTime": "2020-02-03T05:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg",
-          "width": 1024,
-          "height": 512,
-          "title": "3 Top Artificial Intelligence Stocks to Watch in February",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-02-03-a-look-back-at-ten-years-of-microsoft-azure.md",
       "title": "A Look Back At Ten Years Of Microsoft Azure",
       "excerpt": "Microsoft Azure became generally available ... The innovations around Azure Cognitive Services, ML Services, deep integration of AI in the data platform, Azure IoT Edge and Azure Stack are aligned ...",
@@ -2126,6 +2051,80 @@
       "topics": [
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-02-04-lightfoot-urged-to-pull-the-plug-on-facial-recognition-technology.md",
+      "title": "Lightfoot urged to pull the plug on facial recognition technology",
+      "excerpt": "A coalition of 75 civil liberties groups led by the Lucy Parsons Project calls the system used by the Chicago Police Department \"racially-discriminatory, inaccurate and highly-biased.\"",
+      "heat": 179,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://chicago.suntimes.com/city-hall/2020/2/4/21122568/lightfoot-urged-pull-plug-facial-recognition-technology",
+      "ampWebUrl": "https://chicago.suntimes.com/platform/amp/city-hall/2020/2/4/21122568/lightfoot-urged-pull-plug-facial-recognition-technology",
+      "cdnAmpWebUrl": "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/city-hall/2020/2/4/21122568/lightfoot-urged-pull-plug-facial-recognition-technology",
+      "publishedDateTime": "2020-02-04T03:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Sun-Times",
+        "domain": "suntimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/PZclB6fGOtr11pOfdVx__HSnmiM=/0x0:640x480/1400x1050/filters:focal(263x164:365x266):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66248421/IMG_0429.0.jpg",
+          "width": 640,
+          "height": 480,
+          "title": "Lightfoot urged to pull the plug on facial recognition technology",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-02-04-nomagics-pick-and-place-warehouse-robots-raise-86m.md",
+      "title": "Nomagic’s pick-and-place warehouse robots raise $8.6M",
+      "excerpt": "Since automation can relieve human warehouse workers of tedious tasks, Nomagic claimed that its smart pick-and-place robots offer high flexibility and that they can help reduce the cost per pick. The company added that its artificial intelligence and cloud platform enable its robotic arms to handle millions of different products. Magicloader is ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.therobotreport.com/nomagic-pick-place-warehouse-robots-86m/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-04T07:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2020/02/Nomagic_0-1024x563-1.jpeg",
+          "width": 1024,
+          "height": 563,
+          "title": "Nomagic’s pick-and-place warehouse robots raise $8.6M",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

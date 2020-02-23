@@ -400,6 +400,19 @@ related:
       name: Washington Post
       domain: washingtonpost.com
     quality: 21
+  - title: "Biometrics for financial services, facial recognition integrations and arguments top week’s digital ID stories"
+    excerpt: "New bank deployments of biometrics and payment technologies, facial recognition in new integrations and continuing arguments, and applications-specific projects in Africa were among the week’s top biometrics and digital identity news. The biometrics industry seems to be marshaling its arguments against blanket bans and reactionary laws in an ..."
+    publishedDateTime: 2020-02-21T22:45:00Z
+    webUrl: "https://www.biometricupdate.com/202002/biometrics-for-financial-services-facial-recognition-integrations-and-arguments-top-weeks-digital-id-stories"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 19
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/02/11145627/sensetime-facial-biometrics-for-masked-faces.jpg"
+        width: 2000
+        height: 1333
 
 secured: "V03XX30AKAjKnmqk1OrLQfQuPhvcIjHcdIdwLyk7sF0XeP2ieA0jxCam6VlEd64mkxaz0VE0ErgQrnGUq2DnzEZCQ6GvNm9PKNhV/JOAN2ZEoNmToZLOcCoPcwqkhvqB9Od5mEjYR4mS15dtp27bE87UwY1VVD2TZYR65NNyHiqrha/CgBXB5YnnDHD8uzwuS02Wkp2u9avsSLKR2MOehZdng0da044p+VXNdqn9ruAJ9975jk1ns5RHITppDK6UqsWUnWJbDk7huA97cTcOZ7artcc0nOhzmQ7GQEP1vL6OXCS5dv6yHY7WVEuo8J1ahTbUBV4gItggE4VHaJSQ94eQOb3c3aF49+UUvVE8uhirMxxc4T4cEGq9aOTjgswZqpg4tTdD8q6umanH+tUzumGVaOsSdqhaS7l+5Zo0jF+xvimLYmC+4T9ACsyrOeet2ENfcvcEuMjqHJTxRsY2wrTMRCeWAQU3hdwt02XQvOU=;1L7hIWZ/jz0wJwkM5Ixs9w=="
 ---

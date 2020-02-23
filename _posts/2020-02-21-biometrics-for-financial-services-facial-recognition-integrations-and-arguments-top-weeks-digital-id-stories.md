@@ -1,29 +1,27 @@
 ---
 category: news
-title: "UCLA drops plans to use facial recognition after student pushback"
-excerpt: "UCLA is dropping its plans to use facial recognition technology as digital rights and student groups have pushed colleges across the country not to adopt the controversial technology. Fight for the Future, a digital rights group that has been raising alarms about facial recognition technology, shared a statement from UCLA Administrative Vice ..."
-publishedDateTime: 2020-02-20T19:07:00Z
-webUrl: "https://www.dailydot.com/layer8/facial-recognition-ucla/"
-ampWebUrl: "https://www.dailydot.com/layer8/facial-recognition-ucla/?amp"
-cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/layer8/facial-recognition-ucla/?amp"
+title: "Biometrics for financial services, facial recognition integrations and arguments top week’s digital ID stories"
+excerpt: "New bank deployments of biometrics and payment technologies, facial recognition in new integrations and continuing arguments, and applications-specific projects in Africa were among the week’s top biometrics and digital identity news. The biometrics industry seems to be marshaling its arguments against blanket bans and reactionary laws in an ..."
+publishedDateTime: 2020-02-21T22:45:00Z
+webUrl: "https://www.biometricupdate.com/202002/biometrics-for-financial-services-facial-recognition-integrations-and-arguments-top-weeks-digital-id-stories"
 type: article
-quality: 59
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: The Daily Dot
-  domain: dailydot.com
+  name: Biometric Companies
+  domain: biometricupdate.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: "https://www.dailydot.com/wp-content/uploads/2020/02/Facial-Recognition-UCLA-1024x512.jpg"
-    width: 1024
-    height: 512
-    title: "UCLA drops plans to use facial recognition after student pushback"
+  - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/02/11145627/sensetime-facial-biometrics-for-masked-faces.jpg"
+    width: 2000
+    height: 1333
+    title: "Biometrics for financial services, facial recognition integrations and arguments top week’s digital ID stories"
 
 related:
   - title: "Automated facial recognition breaches GDPR, says EU digital chief"
@@ -211,6 +209,21 @@ related:
       - url: "https://www.aljazeera.com/mritems/imagecache/mbdxlarge/mritems/Images/2020/2/6/52300b9d1ce048f2a0623c7f4b109fb1_18.jpg"
         width: 583
         height: 325
+  - title: "UCLA drops plans to use facial recognition after student pushback"
+    excerpt: "UCLA is dropping its plans to use facial recognition technology as digital rights and student groups have pushed colleges across the country not to adopt the controversial technology. Fight for the Future, a digital rights group that has been raising alarms about facial recognition technology, shared a statement from UCLA Administrative Vice ..."
+    publishedDateTime: 2020-02-20T19:07:00Z
+    webUrl: "https://www.dailydot.com/layer8/facial-recognition-ucla/"
+    ampWebUrl: "https://www.dailydot.com/layer8/facial-recognition-ucla/?amp"
+    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/layer8/facial-recognition-ucla/?amp"
+    type: article
+    provider:
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 59
+    images:
+      - url: "https://www.dailydot.com/wp-content/uploads/2020/02/Facial-Recognition-UCLA-1024x512.jpg"
+        width: 1024
+        height: 512
   - title: "Washington Passes Government Facial Recognition Rules"
     excerpt: "Washington state senators Wednesday approved a bill that would begin regulating the use of facial-recognition programs by local and state governments, one in a series of related proposals up for review this year. (TNS) — Washington state senators ..."
     publishedDateTime: 2020-02-20T17:56:00Z
@@ -387,19 +400,6 @@ related:
       name: Washington Post
       domain: washingtonpost.com
     quality: 21
-  - title: "Biometrics for financial services, facial recognition integrations and arguments top week’s digital ID stories"
-    excerpt: "New bank deployments of biometrics and payment technologies, facial recognition in new integrations and continuing arguments, and applications-specific projects in Africa were among the week’s top biometrics and digital identity news. The biometrics industry seems to be marshaling its arguments against blanket bans and reactionary laws in an ..."
-    publishedDateTime: 2020-02-21T22:45:00Z
-    webUrl: "https://www.biometricupdate.com/202002/biometrics-for-financial-services-facial-recognition-integrations-and-arguments-top-weeks-digital-id-stories"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 19
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/02/11145627/sensetime-facial-biometrics-for-masked-faces.jpg"
-        width: 2000
-        height: 1333
   - title: "Study on Digital China in 2020 - The Government is Fostering Key Technologies Like 5G and Facial Recognition - ResearchAndMarkets.com"
     excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Digital China - The Other Digital Superpower\" report has been added to ResearchAndMarkets.com's offering. The stunning emergence, over the past decade, of China's digital economic miracle, is transforming the country - and its domestic and global position. Once a follower, digital China is now a world leader in ..."
     publishedDateTime: 2020-02-12T10:04:00Z
@@ -414,6 +414,6 @@ related:
         width: 1200
         height: 627
 
-secured: "hZ/fV1+eOlWSvoZQITpRLEvn/5/i+48AmSryo7yqrCldE7Uy1k/aG7EcobbTdJwmG/hd4vsJwCi3TNsEx77MR51lvA4oov//QuOe/DXFD4aXT1Aj0qa4l1w4G1KSyqXd9y2DdMztsAI9SM5ydySgMUpuTtLFoCj2pj9bbVX1Wiznn9fzPh9RzMbHqqGOUDz+CS4IzppKXJ/0KQ5WFAL5uIUhf3thFo1xEgOMeM2LTL132Bn1vtnjezztBqmbX7BsRA7XZ91zckD80rKXPbYUheGwFxfEpcS9bO9/igkNB8vsyPe8QsvFTOoKvpM2Mt57to2vlj8wtHr35Ku0XxBlp448M14W+HFeyUsSmuoOFClI8GqzHEzQOaobhG8dLJ5Knr4xmTl6eseXsNJIypNlTjBEV2wArjmkHReEogC9MFzZ5SDUk7M34FAwkRfheyANUN+Hjk5WJF2SHybv8+Ft2urdXCOo9ZGMqa8rM+YNLAE=;1z3IQ2Vpj39+k777+H3aNA=="
+secured: "UlSrnLGlDzDKXYMb0csycn1YOylPVQs2+0BHU9MmlX1kQp9REMo9h4uPxmxQ3tyhIXiKg2x/RiarmbQY36+we8X+oVjF7C9mjkjh8ngR8LO/Ss0Oc57cmKo5oZKxbXArkHggjheaPekIW3eeznagjaokelJU9EHzuvDP69P23kAiOO+wr8PaWBvuVCUJVNrss/U38XJsWA3zc4LWqIkwz0rzaHtyH82daRE4t4uBbCM99QLBG2KGPc/U5FwF8oUi0mxIW1WvyrYz0szXuoHr6wreSUqcIaybfGy/1sKw1xKGOt/zXct/ZDZhSNNB4dIT;xNFKQ71CCvmk0HJ8l/3JDQ=="
 ---
 

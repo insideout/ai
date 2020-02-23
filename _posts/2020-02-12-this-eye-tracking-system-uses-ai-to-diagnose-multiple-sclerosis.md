@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/2020/02/12/eye-tracking-ai-spots-mulitp
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/12/eye-tracking-ai-spots-mulitple-sclerosis/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -44,19 +44,6 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D4752%252C2969%252C478%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C999%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-02%252F2bf14030-49c4-11ea-bd12-51dd6eb02117%26client%3Da1acac3e1b3290917d92%26signature%3Dc06466b4199d3f7b3a513f29e3fcc3a88a4b1399&client=amp-blogside-v2&signature=6405a5ad9aa4e773b6077a09463989cd83fdcb9b"
         width: 600
         height: 350
-  - title: "VA doctors are using artificial intelligence to diagnose cancer"
-    excerpt: "Sophisticated artificial intelligence is capable of drastically altering how cancer is diagnosed ... Greater accessibility would especially benefit the millions of patients in the VA’s healthcare system, many of whom live in remote, rural areas where specialists or facilities needed to treat unique diseases are scarce at best."
-    publishedDateTime: 2020-02-09T04:27:00Z
-    webUrl: "https://www.airforcetimes.com/off-duty/military-culture/2020/02/09/va-doctors-are-using-artificial-intelligence-to-diagnose-cancer/"
-    type: article
-    provider:
-      name: Air Force Times
-      domain: airforcetimes.com
-    quality: 39
-    images:
-      - url: "https://www.armytimes.com/resizer/to_jNb_D6OzaD4pxQxunjGcZKrk=/1200x630/filters:quality(100)/arc-anglerfish-arc2-prod-mco.s3.amazonaws.com/public/Q466XCMKUVDILI2TKHH3ZGBGCY.jpg"
-        width: 1200
-        height: 630
 
 secured: "OMQxxd9lc8cZnWC36eISoPDvpP69U5qIsOIGbv86694Sw81WiyfNlq18L9coxQC950Io/M/YKfV2RcTNj9sXqAliN4D3KDySM3t4wdx0aSZ4Uj/BaIZ+/7kms3F2L8+7df+uSHehvUOXBvwCbu7h8r9i2EVKALDHYi1JamkwU8VwE380fqdPTorp9OtGNuaoK0p37NmYIkyqZbgaYFhfZfmosKJzbe9bZptIVuYHismuI5Ix5YysgHb1n+SslgoYfmbyVev/2n0wZcYEJ3JH8B6l9gM0/5jn9a6HsP5lswcr3PTZZzudp/eTj9z/0jjv1CtwjqBdWS6Wma9Z8DU7ojuGYmxpHdsM8W3kc6ooz/I4wErNDDLM2LI72/iHX7t6+b0t3u2n+xmARiE2YDXcrfW+dbboXst3EIF9/poorgZPhe8kVkgn+8HcMz8ziL+ALB6o0xMPVRd1TVIi0Ihifaq9PwRVqbqssf9XsmLbm4M=;WgfJNWcFIr/LXDwqKxyp2Q=="
 ---

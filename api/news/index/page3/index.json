@@ -2,51 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_posts/2020-02-12-deep-learning-with-spiking-networks-optimising-energy-consumption.md",
-      "title": "Deep Learning with Spiking Networks: Optimising Energy Consumption",
-      "excerpt": "There are several important differences between what is nowadays known as a “neural network” (in the deep learning sense) and networks of neurons in the brain. A particularly evident one is that artificial networks have analogue activations — the output of an artificial neuron is a continuous number. Biological neurons, conversely ...",
-      "heat": 119,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/@martino.sorbaro/deep-learning-with-spiking-networks-optimising-energy-consumption-50588b4435fd",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-12T14:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/1*kfFVkqlme7mqJvfySyfXcg.jpeg",
-          "width": 1200,
-          "height": 644,
-          "title": "Deep Learning with Spiking Networks: Optimising Energy Consumption",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_posts/2020-02-12-fintech-startup-tribal-credit-secures-us55-million-in-funding-round.md",
       "title": "Fintech Startup Tribal Credit Secures US$5.5 Million In Funding Round",
       "excerpt": "The founding team consists of serial entrepreneurs, data scientists, and fintech execs who have had experiences in banking, risk and compliance, regulations, and scaling in emerging markets. Shady points out that the startup’s main advantage in the market is its proprietary AI algorithm, which they originally conceived based off their researc ...",
@@ -386,7 +341,7 @@
       "path": "_posts/2020-02-12-this-eye-tracking-system-uses-ai-to-diagnose-multiple-sclerosis.md",
       "title": "This eye-tracking system uses AI to diagnose multiple sclerosis",
       "excerpt": "Now, C. Light Technologies, a neurotech and AI company that grew out of the Berkeley Skydeck accelerator, wants to help doctors diagnose neurological conditions with more speed and precision. The company has developed an eye-tracking technology paired with machine learning that can be used to diagnose multiple sclerosis (MS). Patients simply ...",
-      "heat": 107,
+      "heat": 97,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.engadget.com/2020/02/12/eye-tracking-ai-spots-mulitple-sclerosis/",
@@ -2117,6 +2072,50 @@
           "width": 4288,
           "height": 2848,
           "title": "How AI Can Predict Heart Attacks and Strokes",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-14-how-ai-is-stopping-the-next-great-flu-before-it-starts.md",
+      "title": "How AI is stopping the next great flu before it starts",
+      "excerpt": "But in the near future, AI-augmented drug development could help produce vaccines and treatments fast enough to halt the spread of deadly viruses before they mutate into global pandemics. Conventional methods for drug and vaccine development are wildly inefficient. Researchers can spend nearly a decade laboriously vetting candidate molecule ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/2020/02/14/how-ai-is-helping-halt-the-flu-of-the-future/",
+      "ampWebUrl": "https://www.engadget.com/amp/2020/02/14/how-ai-is-helping-halt-the-flu-of-the-future/",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/14/how-ai-is-helping-halt-the-flu-of-the-future/",
+      "publishedDateTime": "2020-02-14T07:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D7500%252C5000%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-02%252Ffd29d5e0-4ea1-11ea-b6dd-e3d6fe4cba04%26client%3Da1acac3e1b3290917d92%26signature%3D0964e8ac968f39002df536bc4bf24d3679a31fb6&client=amp-blogside-v2&signature=b353e5af5b3a5277d2ae3d8528aa33207e1df384",
+          "width": 600,
+          "height": 350,
+          "title": "How AI is stopping the next great flu before it starts",
           "attribution": null
         }
       ],

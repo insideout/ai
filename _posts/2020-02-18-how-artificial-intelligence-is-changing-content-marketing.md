@@ -56,6 +56,19 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/916896044/960x0.jpg?fit=scale"
         width: 711
         height: 474
+  - title: "AI Is the Next Workplace Disrupter—and It’s Coming for High-Skilled Jobs"
+    excerpt: "Artificial intelligence is expected to alter how Americans work on a scale similar to that of robotics and PCs—but this time, most affected employees will be managers and professionals."
+    publishedDateTime: 2020-02-23T15:07:00Z
+    webUrl: "https://www.wsj.com/articles/ai-is-the-next-workplace-disrupterand-its-coming-for-high-skilled-jobs-11582470000"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 66
+    images:
+      - url: "https://images.wsj.net/im-156105/social"
+        width: 1280
+        height: 640
   - title: "How Artificial Intelligence Is Transforming Businesses"
     excerpt: "Essentially, AI is a term that is used to describe computer software that simulates human-like/human intelligence processes ... Deep learning relies on artificial neural networks to learn from data. It can be used to help with various different functions, including fraud detection and self-driving cars. In self-driving cars, deep learning ..."
     publishedDateTime: 2020-02-11T17:21:00Z

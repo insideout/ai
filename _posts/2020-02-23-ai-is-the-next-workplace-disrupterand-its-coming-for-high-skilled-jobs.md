@@ -1,27 +1,30 @@
 ---
 category: news
-title: "Five ways artificial intelligence changed the workplace in 2019"
-excerpt: "2019 marks another year of rapid development in the world of artificial intelligence. But while there continues to be much debate over ... Stockholm-based tech firm Furhat Robotics, however, is working to reduce the impact of human bias on candidate screening – all with the help of the robotic interviewer Tengai. Unlike human recruiters ..."
-publishedDateTime: 2020-02-14T10:45:00Z
-webUrl: "https://www.hcamag.com/us/specialization/hr-technology/five-ways-artificial-intelligence-changed-the-workplace-in-2019/213721"
+title: "AI Is the Next Workplace Disrupter—and It’s Coming for High-Skilled Jobs"
+excerpt: "Artificial intelligence is expected to alter how Americans work on a scale similar to that of robotics and PCs—but this time, most affected employees will be managers and professionals."
+publishedDateTime: 2020-02-23T15:07:00Z
+webUrl: "https://www.wsj.com/articles/ai-is-the-next-workplace-disrupterand-its-coming-for-high-skilled-jobs-11582470000"
 type: article
-quality: 39
+quality: 66
 heat: -1
 published: false
 
 provider:
-  name: hcamag.com
-  domain: hcamag.com
+  name: Wall Street Journal
+  domain: wsj.com
+  images:
+    - url: "/assets/images/organizations/wsj.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
-  - AI in Robotics
 
 images:
-  - url: "https://cdn-res.keymedia.com/cms/images/us/036/0248_637172748247166840.jpg"
-    width: 1000
-    height: 600
-    title: "Five ways artificial intelligence changed the workplace in 2019"
+  - url: "https://images.wsj.net/im-156105/social"
+    width: 1280
+    height: 640
+    title: "AI Is the Next Workplace Disrupter—and It’s Coming for High-Skilled Jobs"
 
 related:
   - title: "How AI is impacting the workplace"
@@ -54,19 +57,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/916896044/960x0.jpg?fit=scale"
         width: 711
         height: 474
-  - title: "AI Is the Next Workplace Disrupter—and It’s Coming for High-Skilled Jobs"
-    excerpt: "Artificial intelligence is expected to alter how Americans work on a scale similar to that of robotics and PCs—but this time, most affected employees will be managers and professionals."
-    publishedDateTime: 2020-02-23T15:07:00Z
-    webUrl: "https://www.wsj.com/articles/ai-is-the-next-workplace-disrupterand-its-coming-for-high-skilled-jobs-11582470000"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 66
-    images:
-      - url: "https://images.wsj.net/im-156105/social"
-        width: 1280
-        height: 640
   - title: "How Artificial Intelligence is Changing Content Marketing?"
     excerpt: "In addition, some of our digital assistants are based on smartphones and some messenger bots are based on (simple) AI. Google expanded its algorithm with artificial intelligence at the end of 2015: Google RankBrain . Behind this is a system that gradually learns more about the semantics of user inquiries, and with this knowledge gets better and ..."
     publishedDateTime: 2020-02-18T05:40:00Z
@@ -95,6 +85,19 @@ related:
       - url: "https://www.propertywire.com/wp-content/uploads/2020/02/shutterstock_1384554629.jpg"
         width: 900
         height: 500
+  - title: "Five ways artificial intelligence changed the workplace in 2019"
+    excerpt: "2019 marks another year of rapid development in the world of artificial intelligence. But while there continues to be much debate over ... Stockholm-based tech firm Furhat Robotics, however, is working to reduce the impact of human bias on candidate screening – all with the help of the robotic interviewer Tengai. Unlike human recruiters ..."
+    publishedDateTime: 2020-02-14T10:45:00Z
+    webUrl: "https://www.hcamag.com/us/specialization/hr-technology/five-ways-artificial-intelligence-changed-the-workplace-in-2019/213721"
+    type: article
+    provider:
+      name: hcamag.com
+      domain: hcamag.com
+    quality: 39
+    images:
+      - url: "https://cdn-res.keymedia.com/cms/images/us/036/0248_637172748247166840.jpg"
+        width: 1000
+        height: 600
   - title: "How Niramai is using artificial intelligence to change the face of breast cancer detection"
     excerpt: "Manjunath was working with a research group to create artificial intelligence (AI)-based solutions ranging from transportation to healthcare for customers. The group also had budget for innovation from emerging markets. A part of this research meant working with doctors and hospitals. It was during this time in her career that she would ..."
     publishedDateTime: 2020-02-16T09:38:00Z
@@ -105,6 +108,6 @@ related:
       domain: moneycontrol.com
     quality: 24
 
-secured: "yGI3y2BPLXllhrNUjcwjZlp82LtR23upiKUjZt8kmerZ7o5i9eJyvuWtgTFBHRelrHib16lVpAEgTclCctbwiawkKgF73fVNUQSszygrbsB3OCldQ5sn9IcR3S+s5s/+EhkVwB4a19b1W+gmngpA2z/3o+9EgCpJiTOPoCkOec+SXMOjgRI0c3dC5OKrJN+1+5zyshpCHfIwLw6Ji7liU3i9dGGITUndkg4E9jUuaF+Mlewfa3+ef2OTtLUcMD9nhZvzKVlPMXVKVkY9vEfMfUrgYuoFUVfxUpTH4Hua8s3FYUHf9x8e7LieUfDligG9SqoEmSeCLggQ5queIQfUaKniFRgz2JZnHxAvBKtf19zvjmJJKxcuzfgwn42UYz2I+Sh0nh7krzLfrdJV9OfioZB752tk8MBC6qvYKl0G9QCuI+nqEdWhQcumKMsso1JTvCb5Y7TOxKMIiX9NZB1P7de7xei45OXAykve0YtZKvQ=;4DBWnWxFEh1BxNjTPS2/AQ=="
+secured: "rEmk82DaXCtKs2AdWyIXt/DpYQje5XxBEv39Ug68Bi/wTfnhtRZDh0h6kZDgm0uX56BC8VNtqLHPNDcUI29XJOJoGf/ryT7pfLcyk8e5ssgo36jkb5RwH8kNfLXfK43VH2MXna2d9nnRulMZR1+SGrIMfK4f/i2Z5WU/Rc2lL7KplEjhiJQyow6AASixjmT/nVFabujx/lJNr1Ny8L9G6UL5TenDUTIVHc+Ms2CHUXwc+5CdgDTBKVKfD2gKIFcB235h8p/AI2UVaze7LdtMwhKyqTA1V+u5YvSv4wxtB/rJ1eqdtrhlcN/59lkystEP;tc3aoe9YzdWZwJkdjP9VIA=="
 ---
 

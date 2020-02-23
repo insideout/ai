@@ -388,6 +388,19 @@ related:
       name: Washington Post
       domain: washingtonpost.com
     quality: 21
+  - title: "Biometrics for financial services, facial recognition integrations and arguments top week’s digital ID stories"
+    excerpt: "New bank deployments of biometrics and payment technologies, facial recognition in new integrations and continuing arguments, and applications-specific projects in Africa were among the week’s top biometrics and digital identity news. The biometrics industry seems to be marshaling its arguments against blanket bans and reactionary laws in an ..."
+    publishedDateTime: 2020-02-21T22:45:00Z
+    webUrl: "https://www.biometricupdate.com/202002/biometrics-for-financial-services-facial-recognition-integrations-and-arguments-top-weeks-digital-id-stories"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 19
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/02/11145627/sensetime-facial-biometrics-for-masked-faces.jpg"
+        width: 2000
+        height: 1333
   - title: "Study on Digital China in 2020 - The Government is Fostering Key Technologies Like 5G and Facial Recognition - ResearchAndMarkets.com"
     excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Digital China - The Other Digital Superpower\" report has been added to ResearchAndMarkets.com's offering. The stunning emergence, over the past decade, of China's digital economic miracle, is transforming the country - and its domestic and global position. Once a follower, digital China is now a world leader in ..."
     publishedDateTime: 2020-02-12T10:04:00Z

@@ -44,6 +44,19 @@ related:
       - url: "https://tr2.cbsistatic.com/hub/i/r/2018/07/25/e8eedcaf-12c3-4a1e-bf5e-15e6fd477219/resize/1200x/64b60cf8e2906fc42ff960eec0c87377/robots-working-5.jpg"
         width: 1200
         height: 900
+  - title: "AI Is the Next Workplace Disrupter—and It’s Coming for High-Skilled Jobs"
+    excerpt: "Artificial intelligence is expected to alter how Americans work on a scale similar to that of robotics and PCs—but this time, most affected employees will be managers and professionals."
+    publishedDateTime: 2020-02-23T15:07:00Z
+    webUrl: "https://www.wsj.com/articles/ai-is-the-next-workplace-disrupterand-its-coming-for-high-skilled-jobs-11582470000"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 66
+    images:
+      - url: "https://images.wsj.net/im-156105/social"
+        width: 1280
+        height: 640
   - title: "How Artificial Intelligence is Changing Content Marketing?"
     excerpt: "In addition, some of our digital assistants are based on smartphones and some messenger bots are based on (simple) AI. Google expanded its algorithm with artificial intelligence at the end of 2015: Google RankBrain . Behind this is a system that gradually learns more about the semantics of user inquiries, and with this knowledge gets better and ..."
     publishedDateTime: 2020-02-18T05:40:00Z

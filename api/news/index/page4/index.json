@@ -2,50 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_posts/2020-02-14-how-ai-is-stopping-the-next-great-flu-before-it-starts.md",
-      "title": "How AI is stopping the next great flu before it starts",
-      "excerpt": "But in the near future, AI-augmented drug development could help produce vaccines and treatments fast enough to halt the spread of deadly viruses before they mutate into global pandemics. Conventional methods for drug and vaccine development are wildly inefficient. Researchers can spend nearly a decade laboriously vetting candidate molecule ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/2020/02/14/how-ai-is-helping-halt-the-flu-of-the-future/",
-      "ampWebUrl": "https://www.engadget.com/amp/2020/02/14/how-ai-is-helping-halt-the-flu-of-the-future/",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/14/how-ai-is-helping-halt-the-flu-of-the-future/",
-      "publishedDateTime": "2020-02-14T07:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D7500%252C5000%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-02%252Ffd29d5e0-4ea1-11ea-b6dd-e3d6fe4cba04%26client%3Da1acac3e1b3290917d92%26signature%3D0964e8ac968f39002df536bc4bf24d3679a31fb6&client=amp-blogside-v2&signature=b353e5af5b3a5277d2ae3d8528aa33207e1df384",
-          "width": 600,
-          "height": 350,
-          "title": "How AI is stopping the next great flu before it starts",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-14-how-to-avoid-another-ai-winter.md",
       "title": "How To Avoid Another AI Winter",
       "excerpt": "over the past few years, many of us remember the AI winter in the 1990s, which resulted from overinflated promises by developers and unnaturally high expectations from end users. Now, industry insiders,",
@@ -228,7 +184,7 @@
       "path": "_posts/2020-02-14-new-facial-recognition-app-promises-to-solve-crimes-critics-say-it-means-end-of-privacy.md",
       "title": "New facial recognition app promises to solve crimes, critics say it means end of privacy",
       "excerpt": "A class action lawsuit filed Wednesday in New York federal court claims a breakthrough facial recognition technology designed for law enforcement use is illegally taking people’s biometric information without their consent. The lawsuit was filed by two individuals from Illinois who claim the company behind the technology, Clearview AI ...",
-      "heat": 140,
+      "heat": 150,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.foxnews.com/us/new-facial-recognition-app-promises-to-solve-crimes-critics-say-its-the-end-of-privacy",
@@ -1286,7 +1242,7 @@
       "path": "_posts/2020-02-17-automated-facial-recognition-breaches-gdpr-says-eu-digital-chief.md",
       "title": "Automated facial recognition breaches GDPR, says EU digital chief",
       "excerpt": "The EU’s digital and competition chief has said that automated facial recognition breaches GDPR, as the technology fails to meet the regulation’s requirement for consent. Margrethe Vestager, the European Commission’s executive vice president for digital affairs, told reporters that “as it stands right now, GDPR would say ‘don’t ...",
-      "heat": 469,
+      "heat": 479,
       "tags": null,
       "type": "article",
       "webUrl": "https://thenextweb.com/neural/2020/02/17/automated-facial-recognition-breaches-gdpr-says-eu-digital-chief/",
@@ -2067,6 +2023,51 @@
       "topics": [
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-17-what-does-artificial-intelligence-really-mean.md",
+      "title": "What Does “Artificial Intelligence” Really Mean?",
+      "excerpt": "Years ago, Marvin Minsky coined the phrase “suitcase words” to refer to terms that have a multitude of different meanings packed into them. He gave as examples words like consciousness, morality and creativity.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/robtoews/2020/02/17/what-does-artificial-intelligence-really-mean/",
+      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2020/02/17/what-does-artificial-intelligence-really-mean/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2020/02/17/what-does-artificial-intelligence-really-mean/amp/",
+      "publishedDateTime": "2020-02-17T13:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F255005%2F0x0.jpg",
+          "width": 1200,
+          "height": 799,
+          "title": "What Does “Artificial Intelligence” Really Mean?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
       ]
     }
   ],

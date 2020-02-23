@@ -23,6 +23,6 @@ images:
     height: 457
     title: "Experts Highlight New Technologies to Shape Businesses in 2020"
 
-secured: "5mS+kaysq+Lmdk3Jo9HzYPkZqvG1IkPtCH32m+2prSUbUXYpfz+CgGaV0t1IexJ5zPEkuZxPIYGFGlVYxOdCiV9ZegqF6COE6JCE1ojiD8k6+p6vFwLGU3qtzwtv7OM5WAMlwW46X2vlCHxhdAvj4IARJTiOrhWadm7zr8iUSnY0weyP6o1VZ2QCsjS1FKiAw3/us9+UWTpaxC/XKB7wc10VtTtz8hQQixwpfogo3HN+0J+ThJ1s+VZTuFp/vhBd/lxFoV9MysnbMorCWo48yyCM/PMrOUwLl2MkMT2rOvQMsL4Ly2HlAtSucyDDPCiw;4rL9tDSkz9UvUqZ+K7q/Yg=="
+secured: "udJA1O89P/rX8l/WbjHCQ8Au8GckfZc8QcBTxyJfNSyYieypfzv83iR4S7O7cjccfcTtEZvr4ygg673rqCzqZjsmfc9kaq2R/3t8msK4emq47h4/K+S3j6+1kIi1EbxtvVgYa2yySvb/vQKODYoF5gIgk5IPRN0tyfgIOa9FyHPfOEj/W3SCPb4jRmIlNS+CxV1se6pepi6fVARQdMWyaKUVB7Ze0Dq/dtVGDVeXDdR/Ht9uJd9X1QlneTEWOK2OP/GlIDuu25yBoPpXijtgIGKKOmW7ly55BVRNPywJnbEUSPUJHOs8QigHNC/zNbyp;qmpgL89Jm7u05d+wKuEcEg=="
 ---
 

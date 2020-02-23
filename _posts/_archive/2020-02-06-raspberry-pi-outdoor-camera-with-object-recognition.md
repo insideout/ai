@@ -43,6 +43,6 @@ related:
       domain: ieee.org
     quality: 19
 
-secured: "FhjH7GLoF2ae51+fcLjNq+CA5no9VvPC68os07qTfkaFtW1B0O9PvCtMXwc5X1XFNo49j7AeB3HQMm0Boz1lrfIpUxxDzpGo7FQO4TnjKR/shS2oO/cmldUR24DgVX6CLR6/syNT0aIJd1grpRlgHzE/tkZWsBKG6HKJz75o2D9hv38jgTOOGmgHQu8Xf7KuUzkGlY1xaNWYwBcHNAaT+5gE9XSg4XLzaGCibzqGSrtHGoKh5j1ImjuUdTMWyKJ+D/UL0AsUygem1UI3hVT9CeXtSkVRnpbQe6jAT4Ef7jyC2PN7ep4HjFUr5lyYYgKo;+xe9X+8NsA/qn2wkEDFzFw=="
+secured: "/bssl/G+tuE+mFjoQBnQ/+51rvbgpl2kab2AuVn2KjIUizKRHYg3aPLmSNrvq3zw0MdEQXqYdUer7HcxZZznnXOoqEIGaGyhvvcZmoPSKGIRILyXF+L+F8reulOKiNuGtwREivzyamxKazoJ0eSwrD1+AabBPsW8aw1FPbiRrev2mU1Uzw8ncko8gtIBBNFJn6z8B2uZDAo+lamrpp0DhsXEXXxqBDEXSHUvqFvP5IHeEK+LpjvqgOC0iofYqArl9r5LK/YiZxtWRMIe7WlKF3osMjUsEt4zbVchS1692AzIvyoCPQ4Xiq0q8O6Ecgkc;+gYWX5MUl3X/Gj4HMaSTeQ=="
 ---
 
