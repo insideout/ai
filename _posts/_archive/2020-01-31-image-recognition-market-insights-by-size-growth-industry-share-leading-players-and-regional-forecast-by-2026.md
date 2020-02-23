@@ -5,8 +5,8 @@ excerpt: "The global image recognition market was worth USD 20.19 billion in 201
 publishedDateTime: 2020-01-31T05:35:00Z
 webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-insights-by-size-growth-industry-share-leading-players-and-regional-forecast-by-2026-2020-01-31"
 type: article
-quality: 14
-heat: 14
+quality: 34
+heat: 34
 published: false
 
 provider:
@@ -21,6 +21,12 @@ topics:
   - AI
   - Computer Vision
 
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    title: "Image Recognition Market Insights By Size Growth, Industry Share, Leading Players and Regional Forecast by 2026"
+
 related:
   - title: "Autonomous Vehicle Market 2020: Global Overview, Latest Technology, Market Size, Share, Demand, Major Players, Key Trends, and Forecast to 2026"
     excerpt: "Autonomous Vehicle Market by Level of Automation (Level 3, Level 4, and Level 5), Component (Hardware, Software, and Service) and Application (Civil, Robo Taxi, Self-driving Bus, Ride Share, Self-driving Truck,"
@@ -30,8 +36,12 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 0
+    quality: 18
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
 
-secured: "/plDCvr6X2Q0OKF+47e3drgxb4P5aE4saD8/bOjN1elSzY7Xv02FJnqfIBoSPBpFIbHiVOlAHjmi3NT7FwcJlWWG5cAO4wO4dOg96VlBGL4m7boUMQqRBJcAi1ugpRfnX4tMRyiJ+RfOcVRxTSOyaocKh7CHSit7RXFK+BAEi+frbuNzsPh1zuP4QxMK4JDksp+1BCnKy/YbCuuN3+1IKm+K1zrECAEcWi7wEBhjqoJpMhElUu7gDhKHAPjgIgbf5MBdx62p7XtvpB0juXr6u+GJIgfOUmmg+LmW9QLx+ANiofS7QO/k0/OUH/TS+pYf;lV/ROKOzaxbidwng7MUv5g=="
+secured: "pYL03acBZKHdbxLOfz0ETssyM2S1PpLIPMci9dVtsyvQt8duNeIk+KioqoatiMIDogob3TAWs+2taEvr7H20K/n4uy4pTE7GRtWV5bnHnYNExsJ5ABgKmG5imL3nSVJgy2g3f96O2A2CXy7QEUH1n2RYKBigb09YOq66knuKNebwrYIWAaUurpt9GEBg+vkZAzTk0Q2KIrRmJ586mCTBsAhzGUJJ77lnj1t3KAQ9S7XANXv1rT6J69DqxmzplnIDD/V12jF3/A+t9Dsc0UbwFccKHIGpT8QWyhPw6wYM6iXe3UA/DYfd4N/LwPx2Lk1u;AzfL3NM/aXYNj3b36zjC3A=="
 ---
 

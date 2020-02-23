@@ -5,7 +5,7 @@ excerpt: "Researchers Monitor Sørensen's Prosthetic LifeHand 2/Patrizia Tocci H
 publishedDateTime: 2020-02-05T00:00:00Z
 webUrl: "https://www.popsci.com/article/science/mind-controlled-robotic-hand-sense-touch?loc=recent&lnk=2&con=a-mindcontrolled-robotic-hand-with-a-sense-of-touch"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,12 @@ provider:
 topics:
   - AI
   - AI in Robotics
+
+images:
+  - url: "https://www.popsci.com/resizer/fpU9tcI__P5BYCC0_WtmmQNOfOQ=/1200x628/smart/arc-anglerfish-arc2-prod-bonnier.s3.amazonaws.com/public/NSO6ZVCP43CLCPK3A4UYAJGYFA.jpg"
+    width: 1200
+    height: 628
+    title: "A Mind-Controlled Robotic Hand With A Sense Of Touch"
 
 related:
   - title: "This paralyzed man can feel his fingers again thanks to a mind-controlled robotic arm"
@@ -31,12 +37,14 @@ related:
     excerpt: "Nathan Copeland can't use his own arms to move objects, he can use a robot arm just by thinking about moving it; KDKA's Dr. Maria Simbra reports. Around The Table: The Importance Of The Iowa ..."
     publishedDateTime: 2020-02-03T00:00:00Z
     webUrl: "https://pittsburgh.cbslocal.com/video/3669495-mind-controlled-robotic-arm-allows-paralyzed-man-to-feel-move-objects/"
+    ampWebUrl: "https://pittsburgh.cbslocal.com/video/3669495-mind-controlled-robotic-arm-allows-paralyzed-man-to-feel-move-objects/amp/"
+    cdnAmpWebUrl: "https://pittsburgh-cbslocal-com.cdn.ampproject.org/c/s/pittsburgh.cbslocal.com/video/3669495-mind-controlled-robotic-arm-allows-paralyzed-man-to-feel-move-objects/amp/"
     type: article
     provider:
       name: CBS Local
       domain: cbslocal.com
-    quality: 19
+    quality: 39
 
-secured: "Tb4wiVNvpFRN+ikNHrdVAR/fYFw4olxwU7jk8DXZAnOhZo6zQKba6XhMlgpzrZBqPZlxETtGD2y72xuHHaUXl+aRTn+z082rSCvhLoFyS07r/XtRvmGTQu6hwqyHkeL0RYbANAqIvhmlcSpiKmT8SpCgqpGdL1WykBHJq0+emdA7aoq1QeWXXprUcvuAhz0YzO3NuAwQp4fJT0xmXYj8KZjmg0fFbXuvkr6+k93J21Vai9vEI7yVrOe8ApCmqH/ohPrwXq4IR4v2olDNEmUlzl27LEwUaUVTrWENa553ARbX/3f6MKWbPohuuXHoOs0W;varLALTEsFLZXNmgmyv2sg=="
+secured: "HCQOvKL/ZgLcCf9QfdsbW3hLeE5z1cgL9LruEHb7VmdiVUJOoFLh4pA1keohrj3C2RZ95GxKniXuOwX81jw1x+f1/WFZ4VYSG5pkZU1Fvd4xrpZU4wmxnIwDeXFo78h46W8ocbqJUglWwAhV7FftrOehg/ej2G4lPCMjceqirEzYWPv7aSyUwt5KcyD7ID4xXH5iQJHrMELuLwwm72ervCsvEOD3/OO/mNbESEZ83D55kh6ghw8vrYAoC7XxGps+Pz8F1nP54HY9xB3HfvjsFnAS4MxadSOUtkPcQrzwsligVVzBGEeCVjgpWcBJPeKF;hl7NJMR3hwjiK/yDLbNNTw=="
 ---
 

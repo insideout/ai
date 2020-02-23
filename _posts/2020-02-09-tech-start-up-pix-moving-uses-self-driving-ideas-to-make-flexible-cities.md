@@ -38,7 +38,11 @@ related:
     provider:
       name: Fibre2Fashion
       domain: fibre2fashion.com
-    quality: 19
+    quality: 39
+    images:
+      - url: "https://static.fibre2fashion.com/Newsresource/images/254/ups_266546.jpg"
+        width: 710
+        height: 450
 
 secured: "Xq+LLqQq+6SW4PPrq1Jbl20wB6VVMLyPKnjK2LHx3qcK5oDznMG28RoxHUoSoFl9aRo1dbavkjr8/Xl4G/s6yEwq0kD2nyjM4ae/MKF1a4ubbbGa0pqUP905dcBfg4jGKi992Ut+KMBJnAJH3lPVfzijEcNF91hyAH7RgFQB+jT8A37Njk7ibimp9PPmx+eFHp2PkoOg5KstGxWIDJ2Q/EDuV3fn21ToBO47UTQDa3GxNhPMAEeL5f1yDTRJbaOwJ4d77AgQjOVHIfh1ZMcli+w1rMc947FzeuBWLCZyBFBCshDm1rfYZ2NIfb5bUgTOesizDz55ZT81iPVQRVAD9k+fY4vnzsxklK4H3A7yZWtkGSMEIxuhdEDjx/Zd5k/sY2ZdDZVBriokEwbY/yikDmPVgJpFe04opip/CTvdyYx/o0Rpuu0H77QI06M25ptU58DRpSG1hIJTsqwIxKhp/uMi4Uxm4f+qYWfH4h4R7is=;jifX2eXhdeYsRrmoaR2h9Q=="
 ---

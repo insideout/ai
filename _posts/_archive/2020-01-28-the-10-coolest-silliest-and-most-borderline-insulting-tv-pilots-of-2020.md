@@ -4,10 +4,12 @@ title: "The 10 Coolest, Silliest, and Most Borderline Insulting TV Pilots of 202
 excerpt: "There are plenty of theories about how her time with Hannibal impacted her, including one that insists she was being mind-controlled to become a government assassin ... better known as that show starring Karl Urban about robot cops that was pretty good except when it was awful. This could end up being something interesting, or it could turn ..."
 publishedDateTime: 2020-01-28T17:24:00Z
 webUrl: "https://io9.gizmodo.com/the-10-coolest-silliest-and-most-borderline-insulting-1841305564"
+ampWebUrl: "https://io9.gizmodo.com/the-10-coolest-silliest-and-most-borderline-insulting-1841305564/amp"
+cdnAmpWebUrl: "https://io9-gizmodo-com.cdn.ampproject.org/c/s/io9.gizmodo.com/the-10-coolest-silliest-and-most-borderline-insulting-1841305564/amp"
 type: article
-quality: 33
-heat: 33
-published: false
+quality: 73
+heat: 73
+published: true
 
 provider:
   name: Gizmodo
@@ -21,6 +23,12 @@ topics:
   - AI
   - AI in Robotics
 
-secured: "8OOFUj4aAP0iztnT9orZ0yqMXYkPt99ziuXFIkeq8XQHhCFViz/2lJBR2YJP/ckujyyeMuaUs2SaTc6X3dwi0cm/Bh85qge4Iyy1jZmOzKzrmqxZmwO8Asu23VVwbIf6wFLjMD4rDM2vXij7laRa8lQ659YBHSSnd/dbH2A8ECFBtToZDXSXw4vhFaaY+pHr/U/StBXDNGXC3VP3/1T2nNwvTS0WnDAxFDtl5VvNGMlbZlVaVu89K3O7IkUelce21wvYLhfr3UsM4+5ELO9eSePr2wuY9K23OwAgrh06SBnLzQBzEPHLTeTvAmpvnwDeTqld5HqVvL6qGkKJBAvnz1/62hMKurUrfPYdprZ+mTgprR3EtHgzrTGotA5lTdjQAz5ZgttW7VMF6TNaCyMRslg4ff5/OWOjmMPigDUEBvVyHAl5lgJbub8XfWRSNtqHwupe+qxgxwJ+dx+GJduiz3NXpkI1uH8WiFo+Ff/t0jc=;bc9dYuqfipIlry1yq25f3A=="
+images:
+  - url: "https://i.kinja-img.com/gawker-media/image/upload/s--aSgrF8P5--/c_scale,f_auto,fl_progressive,q_80,w_800/civehnkykwkfwklensxt.jpg"
+    width: 800
+    height: 449
+    title: "The 10 Coolest, Silliest, and Most Borderline Insulting TV Pilots of 2020"
+
+secured: "JkOPFiMdA+D1bvWj3IKdZiPR4hQoYZZUK12eFXYqtFa8HfCvzfC/H/Vr/5xGu8R/EjqbQ9jx0kt6q8hLbYFQZAQvfckmnZljCwN8EYpZaCWqRwMYk5nmCJeSY8Fr9N7Z0D04g1EiAeQfSqb/u4dRZV52Yfdtrok6PW010LVF9uwyyD7l8x4H2iqdrYHnMnHRqbKQZaHWKboEji2DiCnv/c6IasEZjYYooLpQ5dMM8XC/m5s54aqcvTODQWNVUis/001+qVWMpQP13isqG9BNvtpN4+fBqcVQzX+J+XNUTe7K8zO1pHxXgs7B56SsYOU3;/YumIHHNaK6TYIyVIuGN1A=="
 ---
 

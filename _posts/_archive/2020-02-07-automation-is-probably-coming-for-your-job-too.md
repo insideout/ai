@@ -4,8 +4,10 @@ title: "Automation Is Probably Coming for Your Job Too"
 excerpt: "Waymo, a self-driving-technology company owned by Google's parent corporation ... since up to 70 percent of the work they do could be done by machines. But as artificial intelligence becomes more common and effective, automation will start to supplant receptionists, couriers, market research analysts, proofreaders, cashiers, office clerks ..."
 publishedDateTime: 2020-02-07T13:10:00Z
 webUrl: "https://www.gq.com/story/automation-is-coming"
+ampWebUrl: "https://www.gq.com/story/automation-is-coming/amp"
+cdnAmpWebUrl: "https://www-gq-com.cdn.ampproject.org/c/s/www.gq.com/story/automation-is-coming/amp"
 type: article
-quality: 4
+quality: 44
 heat: -1
 published: false
 
@@ -16,6 +18,12 @@ provider:
 topics:
   - AI
   - AI in Autos
+
+images:
+  - url: "https://media.gq.com/photos/5e3c46fb40e46c00081a19f2/master/pass/GettyImages-1082066722.jpg"
+    width: 6000
+    height: 4000
+    title: "Automation Is Probably Coming for Your Job Too"
 
 related:
   - title: "Is AI Coming for the Job of your Favourite News Reader?"
@@ -34,6 +42,6 @@ related:
         width: 773
         height: 454
 
-secured: "qX0avvbmizJhzb5hT/MM2/sUrEgZ9m9+mMlXVu/N/qGVtuHD3vC9QOIl2kdt3lFnvx4o+6IkrhbT3HWY3xKi1v1ZzVgiYMEaE0ZYVCdqjyi3gfuFVbasMGJkf8eGDW0lsMplPoH4zD1Hn+CR47nlXapNn8wdJXGgQdBsOMk0GAFxT8BwddbHGyfsxAPOy0NR+5FYREFYRyD2e3gHccmJ0eM3dhCep/LGfSKJpddAeNJqEitan44P1gOvDxuTbBTN0+rD5XEkmpldyjHE1/tHD5OyROBttBCQp/KhnCQsrpiHDDa3ZbJobfbMY0/oDUtdK9L9DW0R1gkr5r/9AbP52CFGq77/aFTOfKE0RKxPIzZ3DhT3jbwAwb92oRnjYZxK1AoZflDj8goIaAt4tvJhMrK584C9CWsWthuXpt7HwUO5n+APquXE6LNUHMVEP0ltIX/eeFGdCcXnGTqoR88Iw+4VV6Ak3bcXUgF5y5GAQz0=;0PWV/S70vb/IfxnWxJUY/g=="
+secured: "qi3Biqwj70YqunBFDgznVU6TT7Y4Wtwly/qqh0OFqDGD0sxzOcoBE6cwO0w8J3MAIwwyVLyklDARvj7fE91SVcAXfXRUxyWkEtVnlz05hsitgZGlh1Iczdb2bcFpnACIgERIJKD1pf7v7/tyb6+VtYOFt0BT3Fyd18BdAsBJmqzVhkg/uvElCX6uEp/x9ilhJKp/OoJnRMQlwKxTQ1bsAtFZh0TWuk2blzrdyRDmPTYRQbrrH/9nShZqA1yCmFkmSYq+sZx9jEiU6wyMlfDUZ+jqdpDfx5nWy4Dnt9c4a5Bjl2uE7zhZRXoYV+JANQx8;8ktMLl8GmO3hHBYdvuwNXg=="
 ---
 

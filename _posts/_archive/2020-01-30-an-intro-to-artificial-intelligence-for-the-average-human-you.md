@@ -5,8 +5,8 @@ excerpt: "SALT LAKE CITY — The average human's idea of artificial intelligence
 publishedDateTime: 2020-01-30T00:00:00Z
 webUrl: "https://www.ksl.com/article/46480156/an-intro-to-artificial-intelligence-for-the-average-human-you"
 type: article
-quality: 19
-heat: 19
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -17,6 +17,12 @@ topics:
   - AI
   - AI in Autos
 
-secured: "EgrQEUoKAYqeblWEq+txgR+6WtXPEV6w27jmO0ynlyIAVhHuSkIYFCEgmDpZZOi43qgj3CU33WRNFbkjBNU9kH2l5wF/Ww0oNFtgVKTbXkXLUDPLpWdyHu+SScRzDtrYjB0Ryxr1foDypD1M4FTprJifKhn/D/DbJ5uIGiJ6YRzQ+d4qIYvKPCdIk8rMTpA/70hOIGvoKx0OxNA6qJpxLsGWwk4hYjWfWVvJY6OnOiKG1iNjK3M2dHu43cc9Afq60ZIBrjX2mDWEvNh+YWHerTEBnNoGSjGsUvqzVwf1r8v6W6ycDTeztrY/w9msb8YO;nt1tea6pzYe18fS1UIlVpg=="
+images:
+  - url: "https://img.ksl.com/slc/2706/270672/27067244.jpg?filter=ksl/responsive_story_lg"
+    width: 614
+    height: 345
+    title: "An intro to artificial intelligence for the average human (you)"
+
+secured: "5naGdWCb3FaQMnpyyhFGnbnwgP/nzGS+XJkdhldICSRJcLOWHn7s5w8c2mLmUrfJS5OL28GwsZGaNGNpCev5qbhFrhMSlUP6tJRfunNx3Z8DMKdUKtorboJeewy/4N/rNWfBFb0NtZXoirzNwCmy3IDFxurIhkF59OK58L0jZS8g7ilRRiVp6jeZVy53NmwneS73G/RMRStI+RxEJYfjXiF13YnAa+rYmpxO9G2IkdG9j6oiQc+cv1nCAISFnR3W11ZdzwS68Sn98jLpAeXmzFWrY5iYGNCLdj83LXnfp6KA2VkXg1GZWqrg0iXI5IK1;WOU/RwQ7fCwQBRseDfrihw=="
 ---
 
