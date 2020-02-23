@@ -36,12 +36,16 @@ related:
   - title: "Leaked Reports Show EU Police Are Planning a Pan-European Network of Facial Recognition Databases"
     excerpt: "the EU could soon be creating a network of national police facial recognition databases. A report drawn up by the national police forces of 10 EU member states, led by Austria, calls for the introduction of EU legislation to introduce and interconnect such databases in every member state. The report, which The Intercept obtained from a European ..."
     publishedDateTime: 2020-02-21T17:08:00Z
-    webUrl: "https://theintercept.com/2020/02/21/eu-facial-recognition-database/?="
+    webUrl: "https://theintercept.com/2020/02/21/eu-facial-recognition-database/"
     type: article
     provider:
       name: The Intercept
       domain: theintercept.com
-    quality: 6
+    quality: 26
+    images:
+      - url: "https://theintercept.com/wp-uploads/sites/1/2020/02/YotamHadar_TheIntercept_EUv4-still-1582297909.jpg"
+        width: 2000
+        height: 1000
 
 secured: "WUVjlsqVE2XxpvO3Ol9Z8T1MIqX29Ogysi+6+9QRmM1SqoxyUns2aH+BXlrjJtURVGJREcWqCG0SSiEsYNc5Gy2qcrk2LkatZfsEZ0bUm+Je3NqL2PgPjwOqnlu4+Nb3xoDvAvWTMRnAGUh+Psda5FfaVwEJZlHG9cYiZziVd7EjU7SPY0tK2eqARqQJSaRJ9WVy9357rkBxP8SX6dPkM6SsVqShx9ZlOyy8ehEs2u0mQ2mdCmFRI6hqDOjBZq6awtILkHd/RYOF2xwwtFFzsYsWmTrWmELGVS4QX8j3ghQUaxei9p97TutPaSsqsupK;h8vFS886fVcdSf0c5liZmw=="
 ---

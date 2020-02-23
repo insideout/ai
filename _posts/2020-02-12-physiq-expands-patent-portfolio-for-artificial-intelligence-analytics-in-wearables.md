@@ -3,7 +3,7 @@ category: news
 title: "PhysIQ Expands Patent Portfolio for Artificial Intelligence Analytics in Wearables"
 excerpt: "These analytics help power PhysIQ's machine learning and artificial intelligence approach to providing ... received protection for its ground-breaking approach to using deep neural networks to make estimates of cardiopulmonary functional capacity from ..."
 publishedDateTime: 2020-02-12T14:16:00Z
-webUrl: "https://www.tmcnet.com/usubmit/-physiq-expands-patent-portfolio-artificial-intelligence-analytics-wearables-/2020/02/12/9096875.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2020/02/12/9096875.htm"
 type: article
 quality: 33
 heat: 33
@@ -23,6 +23,6 @@ images:
     height: 335
     title: "PhysIQ Expands Patent Portfolio for Artificial Intelligence Analytics in Wearables"
 
-secured: "ip9aLrzJpIucpI/QU2fp7WX2p6oDNFL7/ORHj/gEz/q0RQLCuaeC4RjYT1mvq4FLtfSBshuMMTEdRHXTWqynApc822aWFpbVAizor3NF84luPLNaWMLh1fJR30YMBKlHCaJlaa2jO/92e08ei9Daeoqyew9WAy0CMAs0SBPf6Sls0mWI/O/sAewdasqoHXp6/CwtKBS5424noMOACa2/3D+7lafLxorWQBpQbojW+BiVbcKfx3C7jRBIdYvFqwd12GPDW7DyUxRMKIKUlKjUaeDe0+Ek6phXHEpmBMdErUNBUtUGxPOKWknM6oCPzzm9;gRFQS+MOwwAlsJ7wIPcWyg=="
+secured: "pzBkHRJMDWYR8u8ltSjgiJ3s9bYQm7xZKU4DRwFYJ4UQQHWg5Ycq83mAhmcPYs8bGefdnwnpxp+/3VWSMcurYpOvI/bCW/cprpR/6wJo31yb208KuWRERgNUJzr3Y1XZK7xLXjOv/XQTmqiRH1p6mCdF23hCMxcHsY/shG/mvQHo/eawFmGCgeVowC/QXUJ9ZBnYB4IBwlWlZ5FRzr9zp5VxYVSHn94BAlfPYzCdouU3mmBjC2dHw1xA2MtCKfSJAHNZdT20nVVE9WpnIEpW5RrIp3bbRT7lDtLvzmdzjNEy0OB99TBUftpDpoanTwMl;tq2ukTlNhIKqg0hzyAw6cw=="
 ---
 

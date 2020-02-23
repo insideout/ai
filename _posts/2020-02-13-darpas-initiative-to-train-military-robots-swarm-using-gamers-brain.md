@@ -39,21 +39,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/02/640/320/creative-commons-robot-swarm.jpg?ve=1&tl=1"
         width: 640
         height: 320
-  - title: "DARPA Is Using Gamers’ Brain Waves to Train Robot Swarms"
-    excerpt: "A team of artificial intelligence researchers at the University at Buffalo plans to study the brain ... gamers to build an advanced AI — so that it can then coordinate the actions of entire fleets of autonomous military robots. The U.S. Defense Advanced Research Projects Agency — better known as DARPA — has awarded the UB team a $ ..."
-    publishedDateTime: 2020-02-08T20:13:00Z
-    webUrl: "https://futurism.com/the-byte/darpa-gamers-brain-waves-train-robots-swarms"
-    ampWebUrl: "https://futurism.com/darpa-gamers-brain-waves-train-robots-swarms/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/darpa-gamers-brain-waves-train-robots-swarms/amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 74
-    images:
-      - url: "https://wp-assets.futurism.com/2020/02/darpa-gamer-brainwaves-train-killer-robots-600x315.jpg"
-        width: 600
-        height: 315
   - title: "The Government Wants to Use Your Brainwaves to Train Swarms of Military Robots"
     excerpt: "DARPA has given a $316,000 federal grant to the University at Buffalo Artificial Intelligence Institute to study gamers' brain waves and eye movements. The aim is to improve organization and strategy among autonomous air and ground robots. Why would the U.S. want to invest in robot swarms? Because bevies of bots are already being pursued ..."
     publishedDateTime: 2020-02-10T21:27:00Z

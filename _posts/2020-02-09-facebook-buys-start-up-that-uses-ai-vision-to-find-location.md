@@ -8,7 +8,7 @@ ampWebUrl: "https://www.thestatesman.com/technology/facebook-buys-start-uses-ai-
 cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/technology/facebook-buys-start-uses-ai-vision-find-location-1502854522.html/amp"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -52,15 +52,6 @@ related:
       name: Hindustan Times
       domain: hindustantimes.com
     quality: 35
-  - title: "Facebook acquires computer vision firm Scape - report"
-    excerpt: "Facebook (NASDAQ:FB) has acquired computer vision start-up Scape Technologies, TechCrunch reports. The deal for London-based Scape could be around $40M, according to the report, and it says filings indicate that Facebook has more than 75% of the company. They also indicate that VC representatives on Scape's board have been replaced by two ..."
-    publishedDateTime: 2020-02-08T21:05:00Z
-    webUrl: "https://seekingalpha.com/news/3539871-facebook-acquires-computer-vision-firm-scape-report"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 19
   - title: "Facebook takes control of London computer vision start-up Scape Technologies"
     excerpt: "Facebook has acquired majority control of London-based computer vision start-up company Scape Technologies, TechCrunch reported. A regulatory filing with Companies House shows that Facebook now controls more than 75 percent of the company. Scape Technologies is developing hyper-accurate location recognition technology for augmented reality (AR ..."
     publishedDateTime: 2020-02-10T12:10:00Z

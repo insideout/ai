@@ -2,6 +2,50 @@
   "page": 14,
   "value": [
     {
+      "path": "_posts/_archive/2020-01-17-apple-buys-another-artificial-intelligence-start-up.md",
+      "title": "Apple Buys Another Artificial Intelligence Start-Up",
+      "excerpt": "CEO Tim Cook confirmed last year that the tech titan tends to buy smaller companies every two to three weeks. Apple's latest acquisition is all about low-power edge-based artificial intelligence (AI). Here's what investors need to know. Apple chip exec Sri Santhanam detailing the A13 Bionic's machine-learning capabilities in September.",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/01/17/apple-buys-another-artificial-intelligence-start-u.aspx",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-17T05:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/553773/apple_keynote-event_sri-santhanam-a13-bionic_091019.jpg",
+          "width": 3008,
+          "height": 2000,
+          "title": "Apple Buys Another Artificial Intelligence Start-Up",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-17-apples-latest-deal-shows-how-ai-is-moving-right-onto-devices.md",
       "title": "Apple's Latest Deal Shows How AI Is Moving Right Onto Devices",
       "excerpt": "It’s all about keeping an edge in AI ... by adding more AI to the edge. “Machine learning is going to happen at the edge in a big way,” predicts Subhasish Mitra, a professor at Stanford who is working on low-power chips for AI. “The big question is how do you do it efficiently? That requires new hardware technology and design.",
@@ -2088,51 +2132,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-19-from-washington-state-to-washington-dc-lawmakers-rush-to-regulate-facial-recognition.md",
-      "title": "From Washington state to Washington DC, lawmakers rush to regulate facial recognition",
-      "excerpt": "Amid the start of an impeachment trial; talk of mounting hostility with Iran; new trade deals with China, Canada, and Mexico; and the final presidential debate before the start of the Democratic presidential primary season, you might’ve missed it, but it was also a momentous week for facial recognition regulation. A bipartisan group in ...",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/19/from-washington-state-to-washington-dc-lawmakers-rush-to-regulate-facial-recognition/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/19/from-washington-state-to-washington-dc-lawmakers-rush-to-regulate-facial-recognition/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/19/from-washington-state-to-washington-dc-lawmakers-rush-to-regulate-facial-recognition/amp/",
-      "publishedDateTime": "2020-01-19T13:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/GettyImages-1181457356.jpg?fit=2215%2C1353&strip=all",
-          "width": 2215,
-          "height": 1353,
-          "title": "From Washington state to Washington DC, lawmakers rush to regulate facial recognition",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

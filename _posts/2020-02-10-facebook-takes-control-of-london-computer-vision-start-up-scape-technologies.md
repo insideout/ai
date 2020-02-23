@@ -59,15 +59,6 @@ related:
       name: Hindustan Times
       domain: hindustantimes.com
     quality: 35
-  - title: "Facebook acquires computer vision firm Scape - report"
-    excerpt: "Facebook (NASDAQ:FB) has acquired computer vision start-up Scape Technologies, TechCrunch reports. The deal for London-based Scape could be around $40M, according to the report, and it says filings indicate that Facebook has more than 75% of the company. They also indicate that VC representatives on Scape's board have been replaced by two ..."
-    publishedDateTime: 2020-02-08T21:05:00Z
-    webUrl: "https://seekingalpha.com/news/3539871-facebook-acquires-computer-vision-firm-scape-report"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 19
 
 secured: "JLhfy63fcEuYRjE9U07gSpz2TnfmefatgmEs0yg+j4/CEx754MAe6jEKpyuOK4GoIVQAhq2EN6EVU14yVy9mjDBnvjkOUvFpQa/WhMRYxS/h5HWZGVedSsAnWWbExofL1+GVHUL8JAXRTEU8GU+D6SVe9TVcyuOe2kc1+5qqqgDwKwWdnnUDlyVNo9Mw3XBDw0uKFxq8JsvbPDoc6ZFalJVRdltyiExzPQ8D4z2g3AP/V6uZJYH18nXHd6iCJdnNWeyW4AWkjs7C8P3cLDGZFMjRDj/mhWaUjGGeZGAh3qzEeY5l7uf43G/S0PRjSC3O;MPgttkkfpDQslhsK15I7Aw=="
 ---

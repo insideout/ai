@@ -3,9 +3,9 @@ category: news
 title: "Leaked Reports Show EU Police Are Planning a Pan-European Network of Facial Recognition Databases"
 excerpt: "the EU could soon be creating a network of national police facial recognition databases. A report drawn up by the national police forces of 10 EU member states, led by Austria, calls for the introduction of EU legislation to introduce and interconnect such databases in every member state. The report, which The Intercept obtained from a European ..."
 publishedDateTime: 2020-02-21T17:08:00Z
-webUrl: "https://theintercept.com/2020/02/21/eu-facial-recognition-database/?="
+webUrl: "https://theintercept.com/2020/02/21/eu-facial-recognition-database/"
 type: article
-quality: 6
+quality: 26
 heat: -1
 published: false
 
@@ -16,6 +16,12 @@ provider:
 topics:
   - AI
   - Computer Vision
+
+images:
+  - url: "https://theintercept.com/wp-uploads/sites/1/2020/02/YotamHadar_TheIntercept_EUv4-still-1582297909.jpg"
+    width: 2000
+    height: 1000
+    title: "Leaked Reports Show EU Police Are Planning a Pan-European Network of Facial Recognition Databases"
 
 related:
   - title: "Police chiefs say facial recognition needs more review — but cops should be able to use AI"
@@ -43,6 +49,6 @@ related:
       domain: therecord.com
     quality: 10
 
-secured: "brS4u+X/Uuxey3AzaB6BV5D2egQXe5tAG0oK8jJFthLorIrNjDaxlCsxmX7PKu7YQ+dxgp4rxWrqJEhBy9ojBYT9jJzPY2q7ew+EOipwR5w4gDDttpMT+0v6P+1rKZnBAv3VEgATCQBynVblBBW/dbZgn8tw8fjN8sIYnUQShYkfLRbfxoQqHUVFvrEYAG/TZINkAANPlkcb5X7OBlpaVVDlxUlHgRFBFI2NVKgfVTVsBJ7lk3PaPaTbULJ36w/xahIEMo6B32P5YdpYk03DIxF8aSIMAfcD0xY6u6mq6OP58g98zJXLLdylkROPc0LBrOJEhWjc5/TlcdywV089g53bU7dL+kSwR7Mu/yhfsnStQLiYcxwLGiDd3OYjE0gxXwopBbG5AEz9fE0ovvKCq6hdgKR4KOEYT3KcHlmTVGmgAuuGF4hzvNRfe3UUtk5wa207VcTzsA/bgpp9CGtau7UQDWkKVBvwW3zCHs2bADA=;N10Qzvf8n/qFcr+suRWAqw=="
+secured: "whmykSzTf1TjY+BhuDw2YVq0SK4Hz6Re3tK8PLvPBF1K0DEa6QW37j49D4IgD3mCIdNPH20lyXzfoAFM1H4hHtZs59dTzAZRY7FRp5JAb0rUlsAEu+CtmtiHi6NzYvcynrucGkgSEDJBCmb1HnjOQ0sTkMPWb4f+O2//bijRViYnGjOubYwIyTerJCTtrL2l+HHSnGksyziXdnQuG+siAgGWcFVfmbUbSRYxpRGOaGVPxHOUhNlAWGtmxk40ovshRaiGsZ8yhweEUe55Krf6kpC0xHtRoeiQjrtnE/w+dwVpOC7g1gggDYM0I1g50jEJ;kH+ArEmtW9WjsjnYfaQmNQ=="
 ---
 
