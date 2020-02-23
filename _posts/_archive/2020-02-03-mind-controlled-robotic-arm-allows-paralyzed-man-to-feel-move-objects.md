@@ -28,7 +28,11 @@ related:
     provider:
       name: Mashable
       domain: mashable.com
-    quality: 57
+    quality: 77
+    images:
+      - url: "https://mondrian.mashable.com/2016%252F10%252F14%252Fb6%252FAP_16287736330662.d3659.jpg%252F1200x630.jpg?signature=NIqfeD79B--WSLa-nz-r7U5cHZ0="
+        width: 1200
+        height: 630
   - title: "A Mind-Controlled Robotic Hand With A Sense Of Touch"
     excerpt: "Researchers Monitor Sørensen's Prosthetic LifeHand 2/Patrizia Tocci He could even adjust his grip as needed, all from his robotic sense of touch. \"What we did was to provide this tactile ..."
     publishedDateTime: 2020-02-05T00:00:00Z
@@ -43,6 +47,6 @@ related:
         width: 1200
         height: 628
 
-secured: "3C0dWogubS87i90SVkhMPXvQAkG3Xoz1sH2Zwtd9cApUR08gQ2/rTqAQyQlg9Upi4PpXXD/2jXN7yCccIjnuKEXI6tQFtU6AiBX5MWnPvy7P2fs+BQ5SG6MA8PobYBTiaUGJj8MMNxvKcqCwUHWmlS7UrkR9VGOM+BwwaeUh6gxBRM7WRej5gT17QjP7FrS26n33c1wKjEwrQF1evQaWB/L37HX4cdXRLGL4FHGSfRHhg9zaYbjfSTl1Lm1xuiu6OmivdTTsx2t5j87froI5fRE+Jfs2T4RipzSQIaDkSDz69G1dcGG8DXlidETMNsCA;I/XSftgGmiKkyZJdH606rA=="
+secured: "zEk24qjA5QAXSa9x9DU8bNJaDRyZctwoZ1Xe9pwgcqa26xRnWaUsBJBf/byyJIzVcjvr/K+nYNAPfiayk10dIl6jnmGi4sX0SGW1R1+q0DylIDi1fxCpEphbU2Jp85veJNvQso3OyOi/doUImEIJ3pS7m9dyIdPqBvs473evE7lCnQ/iXEu9RmRQMu1P411Z1TFMkFLxF7EnrtJKbKul0fJ9kyRQu/rvxL2+0okb4aLOobbZPW1Clgf7K1eC2XDV8EmNIvTTyyoPLq267TvW8inuguvi/fWxa8hM3lcbcFjTAj12BKzaHrMdFdd/d3tB;YX61RRvZ0vx09COwg0v5Pw=="
 ---
 

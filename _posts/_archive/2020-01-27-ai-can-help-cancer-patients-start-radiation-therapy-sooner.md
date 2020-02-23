@@ -8,7 +8,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20200127/AI-can-help-cancer-pa
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -26,21 +26,6 @@ images:
     title: "AI can help cancer patients start radiation therapy sooner"
 
 related:
-  - title: "AI can Boost Radiation Therapy for Cancer Patients"
-    excerpt: "Artificial intelligence (AI) can now instantly translate complex clinical data into an optimal plan of attack which can help cancer patients start their radiation therapy sooner and thereby ..."
-    publishedDateTime: 2020-01-28T07:21:00Z
-    webUrl: "https://www.medindia.net/news/ai-can-boost-radiation-therapy-for-cancer-patients-192787-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/ai-can-boost-radiation-therapy-for-cancer-patients-192787-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/ai-can-boost-radiation-therapy-for-cancer-patients-192787-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 74
-    images:
-      - url: "https://images.medindia.net/amp-images/health-images/zika-virus-kills-brain-cancer-cells.jpg"
-        width: 1200
-        height: 1000
   - title: "AI can jump-start radiation therapy for cancer patients"
     excerpt: "Artificial intelligence can help cancer patients start their radiation therapy sooner—and thereby decrease the odds of the cancer spreading—by instantly translating complex clinical data into ..."
     publishedDateTime: 2020-01-28T07:25:00Z
@@ -53,6 +38,6 @@ related:
       domain: medicalxpress.com
     quality: 54
 
-secured: "+tQjND2fZK9vB18M15el0NTHLEh0qR8/lXGjAtiEoVW02lmwDee8+C0pKMuI/ikHeMDyqYIMlClT1QhqaSmU3DAIYNFAUa8IMxwy6AMEUyB0Z/yNeb2LzryN8Kk8BlTWNAtEHtX9s59nsGIRBoDIvv3iOHx82s/4dscQER/4mmXij2HnTMAivHFQWBW4Oq+9e77oasAjW+mPgnbln1npNaLXMTGGvcPdmaj9IZ+44DAdkh/x+5Q3ajw2tkCdv0HJfv7+HFBI9F6xABgq10hyrjb3ixlVwXrFBxYkBxb2JbJwvykrumoEDMaxzRE3l017;kgfm+95/7Ba5dfgF4w9KAg=="
+secured: "F6sap5x5EmHpHG81DsmRan+JIwDMVINWoQES9EslwyefdsTpri6tI8GSqbdYFzQ7YXZsN2knyD8wyG938HvITTdaU3Rik8hmNUgf2qpUfK3oNbWpdtQTiCgVCTu14gW0UzoiMF+whEMf2yvwsgbE85q+yJ7FjffwgN3pMnU1F2mFfwb7zrVMw2LtYnwaXCrbXdGennjASBkHWk1aY0751lRuILb9ZqSvEk5i6J96TyOoFBbzE6NKd171zcm8QuawH0n+NACq7HUnszvYvuZmu14Urv2RgfDzw4LmRo1wG+PvukCRo586CvLYzblo75mz;jPYJVY8xH9KCSnLc9t+dxw=="
 ---
 

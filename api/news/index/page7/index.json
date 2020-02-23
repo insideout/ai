@@ -2,6 +2,52 @@
   "page": 7,
   "value": [
     {
+      "path": "_posts/2020-02-20-finnish-city-espoo-pioneers-civic-ai-with-education-and-explainability.md",
+      "title": "Finnish city Espoo pioneers civic AI with education and explainability",
+      "excerpt": "Espoo has already conducted AI trials that initially required overcoming technical hurdles but ultimately improved city services. Over the long-term, the city is crafting a model that places ethics at the center of its AI plans by ensuring citizens can understand how these systems work and participate in debates about their implementation.",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/20/finnish-city-espoo-pioneers-civic-ai-with-education-and-explainability/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-20T04:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/image001.png?w=1200&#038;strip=all",
+          "width": 875,
+          "height": 397,
+          "title": "Finnish city Espoo pioneers civic AI with education and explainability",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_posts/2020-02-20-gartners-2020-magic-quadrant-for-data-science-and-machine-learning-platforms-has-many-surprises.md",
       "title": "Gartner’s 2020 Magic Quadrant For Data Science And Machine Learning Platforms Has Many Surprises",
       "excerpt": "Enterprise decision-makers look up to Gartner for its recommendations on enterprise software stack. The magic quadrant report is one of the most credible, genuine, and authoritative research from Gartner.",
@@ -2128,43 +2174,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-22-goodwill-launches-new-initiative-to-train-employees-in-artificial-intelligence.md",
-      "title": "Goodwill launches new initiative to train employees in artificial intelligence",
-      "excerpt": "Goodwill of Western Missouri and Eastern Kansas announced \"The Artemis Initiative.\" The new initiative is meant to train employees on how to use robots, artificial intelligence and other cutting-edge technology. David Starr from the local startup Tesseract Ventures says in the next five years, millions of workers will either need to upgrade ...",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://fox4kc.com/news/goodwill-launches-new-initiative-to-train-employees-in-artificial-intelligence/",
-      "ampWebUrl": "https://fox4kc.com/news/goodwill-launches-new-initiative-to-train-employees-in-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://fox4kc-com.cdn.ampproject.org/c/s/fox4kc.com/news/goodwill-launches-new-initiative-to-train-employees-in-artificial-intelligence/amp/",
-      "publishedDateTime": "2020-02-21T17:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FOX4 Kansas City",
-        "domain": "fox4kc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://fox4kc.com/wp-content/uploads/sites/16/2020/02/Robot.jpeg?w=1280&h=720&crop=1",
-          "width": 1280,
-          "height": 720,
-          "title": "Goodwill launches new initiative to train employees in artificial intelligence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

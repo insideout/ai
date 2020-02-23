@@ -5,8 +5,8 @@ excerpt: "Mashable is a global, multi-platform media and entertainment company. 
 publishedDateTime: 2020-02-09T00:00:00Z
 webUrl: "https://mashable.com/2016/10/14/paralyzed-man-feels-fingers-again/"
 type: article
-quality: 57
-heat: 77
+quality: 77
+heat: 97
 published: true
 
 provider:
@@ -16,6 +16,12 @@ provider:
 topics:
   - AI
   - AI in Robotics
+
+images:
+  - url: "https://mondrian.mashable.com/2016%252F10%252F14%252Fb6%252FAP_16287736330662.d3659.jpg%252F1200x630.jpg?signature=NIqfeD79B--WSLa-nz-r7U5cHZ0="
+    width: 1200
+    height: 630
+    title: "This paralyzed man can feel his fingers again thanks to a mind-controlled robotic arm"
 
 related:
   - title: "Mind-Controlled Robotic Arm Allows Paralyzed Man To Feel, Move Objects"
@@ -43,6 +49,6 @@ related:
         width: 1200
         height: 628
 
-secured: "vf1fd/1Areb0RpP9T/6CXiPKrqn6JtyELLhywIQe3LjW1yF7FeGAfctqxP2ITNikB6VZ0Wuq41g8WwQyKQqqeRpIBPlxrbmNHNhP9SSW23JS0h7/oFA5fl8riH869B6iA5yi21ERKSpzlXlCAsxyMFbZIMlzp/PJZkkc+S25s8nBKlfkZhnLMiMIo80MxajBHbaMdnInbcgS/O17uo0Erv4NlLXJoyA1A6489xeMH1BZnuS6jCWvj96uoPPMnIts2wYsyxCSMHoujWhdaytjmANKKW4geJFzQlZYVjdRs0CToLpzvWWpyebnzRLrDzR5;bEkJHl1TP1JIn0ZGSB7p4Q=="
+secured: "zsCy7HXKxmxkInq5X3QG8fynughLQJScnXNizFzE8EwpiYKSvVVALc26rhkV1+1u/pKsP68TNBDUeSKJdBt0kKvRYmwNpu0Date8/ZeSyMaMkA9pP1Wr4t7LzrkHMxw/7xpCdTq2hE1aJc6+ENv18AWG59MWf09QrgBy0xUhAnIylxynhNg6lQyPdS7LLAoJtuXV0czyW/sVm4NmxLk12y/woFLbmNGoU8xXsn62DDZkjLcyzMv7kXoNryae/X0E8ZYc+fxKOWw/34kLXt8lNrsGK/mRjeDBi8RqrHXxy+Xm+V6cam1s8552kG62QaA9;3/fD3mVBoYBYUsaupR6Ejw=="
 ---
 

@@ -83,19 +83,6 @@ related:
         width: 1200
         height: 600
   - title: "Despite public concerns, facial recognition gets traction in Congress"
-    excerpt: "Opposition to the use of facial recognition and other biometric identity systems by the federal government and private sector has been slowly growing as the public learns more about such programs ..."
-    publishedDateTime: 2020-02-09T00:00:00Z
-    webUrl: "https://fcw.com/articles/2020/02/09/congress-facial-recognition.aspx"
-    type: article
-    provider:
-      name: Federal Computer Week
-      domain: fcw.com
-    quality: 39
-    images:
-      - url: "https://fcw.com/-/media/GIG/EDIT_SHARED/Identity/facialrecognitiondatabase.png"
-        width: 760
-        height: 368
-  - title: "Despite public concerns, facial recognition gets traction in Congress"
     excerpt: "Opposition to the use of facial recognition and other biometric identity systems by the federal government and private sector has been slowly growing as the public learns more about such programs' scope and application. Some in Congress are calling for a moratorium on the government's use of the technology, but programs used by the Department ..."
     publishedDateTime: 2020-02-10T01:59:00Z
     webUrl: "https://fcw.com/articles/2020/02/09/congress-facial-recognition.aspx?admgarea=TC_Agencies"

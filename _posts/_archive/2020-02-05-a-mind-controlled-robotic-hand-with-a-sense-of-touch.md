@@ -32,7 +32,11 @@ related:
     provider:
       name: Mashable
       domain: mashable.com
-    quality: 57
+    quality: 77
+    images:
+      - url: "https://mondrian.mashable.com/2016%252F10%252F14%252Fb6%252FAP_16287736330662.d3659.jpg%252F1200x630.jpg?signature=NIqfeD79B--WSLa-nz-r7U5cHZ0="
+        width: 1200
+        height: 630
   - title: "Mind-Controlled Robotic Arm Allows Paralyzed Man To Feel, Move Objects"
     excerpt: "Nathan Copeland can't use his own arms to move objects, he can use a robot arm just by thinking about moving it; KDKA's Dr. Maria Simbra reports. Around The Table: The Importance Of The Iowa ..."
     publishedDateTime: 2020-02-03T00:00:00Z
@@ -45,6 +49,6 @@ related:
       domain: cbslocal.com
     quality: 39
 
-secured: "aCHkG5reJte2UdKrF5x713Tq6Esac/dgPt4TjZapYQFRxpWHlvGuWUXr30gCG5v7JKd7vZLLX8qN/H74aYrmeM+ANe75DVSLRA93rrX5TMvxKSO5BIqG6KU2HORm8bBpN7TA3yfZnYpVK3MSIH9PdFyS9yqNivAY+L/urZfDbqWkSEs9bbddxpIfM5pnLS6FeG4zNdlSN8COFVhUumhdH8wakKnly29r7bUohr6YnxOYV6sEZMcy5uBdegvmtDr/+z/TI/QTywhZr6X0n5fLhaVRKsy4HZTpHvMAhIBD4rxXcAwmRZdc3pctCXAyBdDO;6NScQXLhRzRcWHR7gp5lkg=="
+secured: "8xc1211dK7IMjxFlo247uYpuXft6+y+Djc1fTK1vcxRQfJhxUpun2TpMzFoGz+eXR/M7WVsJMl9aIaqwHeVQO0eArPVdWdDb/940aXBM/gKI1pDKDYCv4c3AxYzhg7dXEGZaGk68qFkdWZQeocS0fwotIAiCGvtjL3oBmn5fb2MZ3AgdeGzH7aZRQdu8lCnZQIEGoomRrlcIM2OJavw0mM/3GwnBVYmIfJMegE+Cr3jsDn/d6DAgzcV7P+1aiefIKd1702mqbA9g19FWXxGJLjH1oUQktSITcV+UFIM/4OGeMVQ6VIAG1Vdz5Hxjjz+f;/Ie3LngHOILAM96cvJYp9Q=="
 ---
 

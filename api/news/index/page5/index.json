@@ -1365,6 +1365,42 @@
       ]
     },
     {
+      "path": "_posts/2020-02-18-the-4-key-benefits-ai-provides-your-business.md",
+      "title": "The 4 key benefits AI provides your business",
+      "excerpt": "AI has been a popular talking point in the technology field for years, yet many businesses haven’t implemented effective AI solutions into their operations. These businesses are losing out on the significant benefits that AI can provide, and it is for this reason organisations should take note of Microsoft’s AI 360 strategy. Any opportunity ...",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://mybroadband.co.za/news/industrynews/339210-the-4-key-benefits-ai-provides-your-business.html",
+      "ampWebUrl": "https://mybroadband.co.za/news/industrynews/339210-the-4-key-benefits-ai-provides-your-business.html/amp",
+      "cdnAmpWebUrl": "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/industrynews/339210-the-4-key-benefits-ai-provides-your-business.html/amp",
+      "publishedDateTime": "2020-02-18T00:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MyBroadband",
+        "domain": "mybroadband.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mybroadband.co.za/news/wp-content/uploads/2018/05/AI-in-business.jpg",
+          "width": 640,
+          "height": 430,
+          "title": "The 4 key benefits AI provides your business",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_posts/2020-02-18-the-greatest-gift-machine-learning-ever-gave-us-is-this-archive-of-mark-zuckerberg-haircuts.md",
       "title": "The greatest gift machine learning ever gave us is this archive of Mark Zuckerberg haircuts",
       "excerpt": "Even the most commonplace of objects, sufficiently decontextualized, has the power to take on new meaning. We see this, perhaps most famously, with Marcel Duchamp's \"Fountain.\" The so-called readymade sculpture was in fact simply a signed urinal. However, in part by separating it from the whole, Duchamp challenged his audience to see the ...",
@@ -2132,51 +2168,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-19-artificial-intelligence-chips-market-to-watch-google-baidu-adapteva-in-focus.md",
-      "title": "Artificial Intelligence Chips Market To Watch: Google, Baidu, Adapteva In Focus",
-      "excerpt": "This intelligence report provides a comprehensive analysis of the Global Artificial Intelligence Chips Market. This includes Investigation of past progress, ongoing market scenarios, and future prospects.",
-      "heat": 95,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chips-market-to-watch-google-baidu-adapteva-in-focus-2020-02-19",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-18T23:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence Chips Market To Watch: Google, Baidu, Adapteva In Focus",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],
