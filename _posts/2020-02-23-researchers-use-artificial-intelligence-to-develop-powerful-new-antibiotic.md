@@ -153,6 +153,19 @@ related:
       - url: "https://cdn.the-scientist.com/assets/articleNo/67156/aImg/36085/new-antibiotic-artificial-intelligence-m.png"
         width: 800
         height: 560
+  - title: "Could AI Create Super Antibiotics?"
+    excerpt: "Yet few new antibiotics have entered the market of late, and even these are just minor variants of old antibiotics. While the prospects look bleak, the recent revolution in artificial intelligence (AI) offers new hope. In a study published on Feb. 20 in the journal Cell, scientists from MIT and Harvard used a type of AI called deep learning to ..."
+    publishedDateTime: 2020-02-23T21:33:00Z
+    webUrl: "https://nationalinterest.org/blog/buzz/could-ai-create-super-antibiotics-125476"
+    type: article
+    provider:
+      name: The National Interest
+      domain: nationalinterest.org
+    quality: 37
+    images:
+      - url: "https://nationalinterest.org/sites/default/files/main_images/aidl.jpg"
+        width: 1305
+        height: 870
   - title: "Artificial Intelligence brings a novel antibiotic compound"
     excerpt: "Researchers from the Massachusetts Institute of Technology (MIT) have made a scientific breakthrough where their machine-learning algorithm or Artificial Intelligence (AI) program successfully created a novel antibiotic compound. The drug has since then been tested on deadly bacteria in the lab, and in lab mice with a considerable amount of ..."
     publishedDateTime: 2020-02-21T00:44:00Z

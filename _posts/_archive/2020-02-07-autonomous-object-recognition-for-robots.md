@@ -26,11 +26,7 @@ related:
     provider:
       name: Geeky Gadgets
       domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2020/02/Raspberry-Pi-outdoor-camera.jpg"
-        width: 700
-        height: 500
+    quality: 19
   - title: "Soft Error Resilience of Deep Residual Networks for Object Recognition"
     excerpt: "Abstract: Convolutional Neural Networks (CNNs) have truly gained attention in object recognition and object classification in particular. When being implemented on Graphics Processing Units (GPUs), deeper networks are more accurate than shallow ones. Residual Networks (ResNets) are one of the deepest CNN architectures used in various fields ..."
     publishedDateTime: 2020-02-13T06:31:00Z
@@ -41,6 +37,6 @@ related:
       domain: ieee.org
     quality: 19
 
-secured: "QpVa75eLOjua+JfSfh4L4TyMM8yZ+8O9fW6zioQ4N/ABI/Kczp3qDqlI5pyx7Ovi8EXviaMGAi2S5K1MGP1TWJ8joz0bJ0dw5/+TDvfZ5FrfQeacEQCWTxOtChPMG9PA751AkWVrujAa6a4kpSj0uK/wH10PsYoJDerXmcnyg7x23FXZF3zUJ0u4k2hxkoO1MsRMdQ/RzadPaThmM7Zp3pP7QzXcpalPbRLYohXprkf5VudnWS1Jd3WkparloebrQnB7R/xyXoj/qJDX3WWfuofcm9Ad12St4/A1x2tyxK14Eu9anJd6+qmRzlUqhqkH;rG07n2cGi0gC1m4HfEHQYg=="
+secured: "Twmq8Hn5PP7mIJWO5lGp20+1vmLk5+n+HPoiQ7Vm1TywtvnUw+p7BKiozO/uEGaBl+0p2Sw5t+8x+LhF3TuOcFOyDXFnExJBvShmH0eZuUOYgG3NGYvIj6kBzn6qjth909P+Smd99pcEfgyQSSyfmpoJjI5oTlPIu7Rb4r/yPGrcxZpAYviHdMTK5lnb0Pbr6j4z6Jm49EQWrOnGwzpJ3T+ZmXs4iBMakFRZG+KOYZvmwW0GevmAAUZHYQXQ6QNeV5k5J0hfydc4x6Dwo1OAb/adIMaGKsWDMX23ZRYROR2ZsCkbkLdGwQi7DcqjVsyT;9m537xgxYCTV6TCQlLJ7Kw=="
 ---
 

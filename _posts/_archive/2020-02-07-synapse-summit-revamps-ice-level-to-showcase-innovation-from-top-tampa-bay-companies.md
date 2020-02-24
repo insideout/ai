@@ -4,11 +4,9 @@ title: "Synapse Summit revamps ice level to showcase innovation from top Tampa B
 excerpt: "Synapse Summit, which expects to bring 6,000 people under one roof in less than one week, will kick off with one major change. The summit's ice level, which has been used in years past for VIP sponsors and showcase its keynotes,"
 publishedDateTime: 2020-02-07T12:17:00Z
 webUrl: "https://www.bizjournals.com/tampabay/news/2020/02/07/synapse-summit-revamps-icelevel-to-showcase.html"
-ampWebUrl: "https://www.bizjournals.com/tampabay/news/2020/02/07/synapse-summit-revamps-icelevel-to-showcase.amp.html"
-cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/tampabay/news/2020/02/07/synapse-summit-revamps-icelevel-to-showcase.amp.html"
 type: article
-quality: 37
-heat: 37
+quality: 0
+heat: 0
 published: false
 
 provider:
@@ -19,12 +17,6 @@ topics:
   - AI
   - AWS AI
 
-images:
-  - url: "https://media.bizj.us/view/img/11599926/synapsesummitinnovationsontheice*600xx1500-1000-36-0.jpg"
-    width: 600
-    height: 400
-    title: "Synapse Summit revamps ice level to showcase innovation from top Tampa Bay companies"
-
-secured: "RtYSckwha2sGSzCTgPWe33TXg7Aa7HQid7o6KztF3VhS8NfmmimdiRb/LKgBog7KrrT1n2+q7bo55NFl+9Kx1n6jFxfZKGfwwf9fp5m8oSYScDMfAuWs4bz+iZ/ftFk2KTZ7yu4apjI+WPcQXwT8ADMvNaCvensBFi/iRTOiNf7BfN1z4K6hhtvmB25zohkf+bn7wZZc9ZCO9OKCZ6kUWuyv+VqLSVsexbYOtdDagKooI1hcxjA5Aw1Q6WebsRFWbkm9ECfmMbJEZCZj8eK5mknG+JtJN+kWW9c1hsKeXHb54tpzAeTNJj1DykHQ0a3s;LSlOQgbrYtHPZpzbdGVnZA=="
+secured: "gFthpjFlrwVVqylzfiuiN6eQRogeM0OZhrHXmmM0azaDNSJsNFtXR9OMwRQYk3W7x6iKfxXErUPPXvbC2a3aPo1tZcKwRx+8dAnM/ct2MwW5FZ/4OJHPWzbw9PYJxF7ZURfoDh19hsf8YzQWowyUFQhpaOmk2GgC73awcgWmm3mB4i8oX0dJsDc+hkuFi1x/ctNliatbbj1eKvC8JsngLpetGru5CrmqkTphZ9ed+aGm+Zd23DK1K0yaXniOXKcJGsHnduQjEO1uzb9lGDM2FC+ZIAo6/Q9hy8+As9VFH4HGffA5gmXyKEfjfolg8eLT2X5sNYHlPZWGv2GRzC6I7wEiJOUE/EvWHlVbZrGap0KSyWyYkC5SiInn15dEcJROaPdSvd68c3TwYF51fm5uIWCyYMrjp4jZWnQ7cnJyXc7tGlwVt4IDgJpchWlion/WzqDJ4q1/Q/wM3hrSlnVr/pJMKUmg5JnI2+GJ5NOPDmU=;CT2JI+KaUMhXiOuVOHywRQ=="
 ---
 

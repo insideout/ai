@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/how-artificial-intelligence
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-artificial-intelligence-will-jazz-up-software-development-and-deployment/"
 type: article
 quality: 85
-heat: 96
+heat: 95
 published: true
 
 provider:

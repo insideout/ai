@@ -41,6 +41,17 @@ related:
       - url: "https://english.mathrubhumi.com/polopoly_fs/1.4372375.1576661380!/image/image.PNG_gen/derivatives/landscape_1080_600/image.PNG"
         width: 1080
         height: 608
+  - title: "Google backs six artificial intelligence-based research projects – Details"
+    excerpt: "and deep learning techniques Artificial Intelligence (AI) is opening up the next phase of technological advances. Riding the AI wave, Google has started six AI-based research projects in India. These projects would focus on addressing social, humanitarian and environmental challenges in sectors such as healthcare, education, disaster prevention ..."
+    publishedDateTime: 2020-02-23T23:56:00Z
+    webUrl: "https://www.financialexpress.com/industry/technology/google-backs-six-artificial-intelligence-based-research-projects-details/1876616/"
+    ampWebUrl: "https://www.financialexpress.com/industry/technology/google-backs-six-artificial-intelligence-based-research-projects-details/1876616/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/google-backs-six-artificial-intelligence-based-research-projects-details/1876616/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 54
   - title: "Google banks more on artificial intelligence, funds six AI-based research projects in India"
     excerpt: "Google Research India will provide each team with funding and computational resources in addition to supporting the efforts with expertise in computer vision, natural language processing, and other deep learning techniques."
     publishedDateTime: 2020-02-18T06:40:00Z

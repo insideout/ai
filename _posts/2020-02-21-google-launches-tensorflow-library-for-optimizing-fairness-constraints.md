@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-21T22:21:00Z
 webUrl: "https://venturebeat.com/2020/02/21/google-launches-tensorflow-library-for-optimizing-fairness-constraints/"
 type: article
 quality: 84
-heat: 85
+heat: 84
 published: true
 
 provider:

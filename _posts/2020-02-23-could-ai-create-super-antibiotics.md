@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Artificial intelligence used to discover powerful new antibiotic"
-excerpt: "Scientists have used artificial intelligence to discover a new type of antibiotic which could kill some of the world's most dangerous drug-resistant bacteria. A team from Massachusetts Institute of Technology (MIT) say their machine-learning algorithm was able to identify a powerful new antibiotic compound which did not develop any resistance ..."
-publishedDateTime: 2020-02-21T07:51:00Z
-webUrl: "https://news.sky.com/story/artificial-intelligence-used-to-discover-powerful-new-antibiotic-11939198"
-ampWebUrl: "https://news.sky.com/story/amp/artificial-intelligence-used-to-discover-powerful-new-antibiotic-11939198"
-cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/artificial-intelligence-used-to-discover-powerful-new-antibiotic-11939198"
+title: "Could AI Create Super Antibiotics?"
+excerpt: "Yet few new antibiotics have entered the market of late, and even these are just minor variants of old antibiotics. While the prospects look bleak, the recent revolution in artificial intelligence (AI) offers new hope. In a study published on Feb. 20 in the journal Cell, scientists from MIT and Harvard used a type of AI called deep learning to ..."
+publishedDateTime: 2020-02-23T21:33:00Z
+webUrl: "https://nationalinterest.org/blog/buzz/could-ai-create-super-antibiotics-125476"
 type: article
-quality: 57
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Sky
-  domain: sky.com
+  name: The National Interest
+  domain: nationalinterest.org
 
 topics:
   - AI
 
 images:
-  - url: "https://e3.365dm.com/20/02/1600x900/skynews-e-coli-bacteria-antibiotics_4926241.jpg?20200221070106"
-    width: 1600
-    height: 900
-    title: "Artificial intelligence used to discover powerful new antibiotic"
+  - url: "https://nationalinterest.org/sites/default/files/main_images/aidl.jpg"
+    width: 1305
+    height: 870
+    title: "Could AI Create Super Antibiotics?"
 
 related:
   - title: "Artificial intelligence yields new antibiotic"
@@ -88,6 +86,21 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F7bf31b7c-533c-11ea-8841-482eed0038b1?source=google-amp&fit=scale-down&width=500"
         width: 500
         height: 281
+  - title: "Artificial intelligence used to discover powerful new antibiotic"
+    excerpt: "Scientists have used artificial intelligence to discover a new type of antibiotic which could kill some of the world's most dangerous drug-resistant bacteria. A team from Massachusetts Institute of Technology (MIT) say their machine-learning algorithm was able to identify a powerful new antibiotic compound which did not develop any resistance ..."
+    publishedDateTime: 2020-02-21T07:51:00Z
+    webUrl: "https://news.sky.com/story/artificial-intelligence-used-to-discover-powerful-new-antibiotic-11939198"
+    ampWebUrl: "https://news.sky.com/story/amp/artificial-intelligence-used-to-discover-powerful-new-antibiotic-11939198"
+    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/artificial-intelligence-used-to-discover-powerful-new-antibiotic-11939198"
+    type: article
+    provider:
+      name: Sky
+      domain: sky.com
+    quality: 57
+    images:
+      - url: "https://e3.365dm.com/20/02/1600x900/skynews-e-coli-bacteria-antibiotics_4926241.jpg?20200221070106"
+        width: 1600
+        height: 900
   - title: "Artificial Intelligence Finds A Powerful New Antibiotic For The First Time"
     excerpt: "Artificial intelligence (AI) has proved to be a useful ally in the battle against antibiotic resistance. A powerful antibiotic that’s even able to kill superbugs has been discovered thanks to a machine-learning algorithm Researchers from MIT used a novel computer algorithm to sift through a vast digital archive of over 100 million chemical ..."
     publishedDateTime: 2020-02-21T12:57:00Z
@@ -151,19 +164,6 @@ related:
       - url: "https://cdn.the-scientist.com/assets/articleNo/67156/aImg/36085/new-antibiotic-artificial-intelligence-m.png"
         width: 800
         height: 560
-  - title: "Could AI Create Super Antibiotics?"
-    excerpt: "Yet few new antibiotics have entered the market of late, and even these are just minor variants of old antibiotics. While the prospects look bleak, the recent revolution in artificial intelligence (AI) offers new hope. In a study published on Feb. 20 in the journal Cell, scientists from MIT and Harvard used a type of AI called deep learning to ..."
-    publishedDateTime: 2020-02-23T21:33:00Z
-    webUrl: "https://nationalinterest.org/blog/buzz/could-ai-create-super-antibiotics-125476"
-    type: article
-    provider:
-      name: The National Interest
-      domain: nationalinterest.org
-    quality: 37
-    images:
-      - url: "https://nationalinterest.org/sites/default/files/main_images/aidl.jpg"
-        width: 1305
-        height: 870
   - title: "Artificial Intelligence brings a novel antibiotic compound"
     excerpt: "Researchers from the Massachusetts Institute of Technology (MIT) have made a scientific breakthrough where their machine-learning algorithm or Artificial Intelligence (AI) program successfully created a novel antibiotic compound. The drug has since then been tested on deadly bacteria in the lab, and in lab mice with a considerable amount of ..."
     publishedDateTime: 2020-02-21T00:44:00Z
@@ -174,6 +174,6 @@ related:
       domain: news-medical.net
     quality: 17
 
-secured: "FVswduN4H/r3rgstE9d0X5QzwbHxcPC/5Y1v4J0h12Gjv4zlJ5mSiGNy5TFgGFNj5LagAreKx/IDQqGTZ7+AkHiybCrVhNk85eQ22zkAmu0PXpQL0e9g6XvTtTyELlUDUg2ydXwmBk8nkISn4vN4IdrMQ2VsRt0jGQTzRsuoCY53zJWEDKWcIczlV+sBKI3Eb3Oo2ICtaGGmgqhWI9FoeXXVoD9DQvMbe1o0YUTRRh4kzByHZ78FUS1xXEzJGxP2rQCBl6pvruQw2Tj4Ps8Tw5CG6RtfriM/RsyaPQn6BHaiqn2U/PM0idrOx74bvcCD;L/lGPiU3fqbjrRIamB6rIA=="
+secured: "4gy2nU3EY1df/VTMYKOntTrbnQilOoeoZrn7iwZbRX2oClpJBaqccGPYk5KrnAxQ04/ZiCD6Cdg9c2yWly8IJKJLCSDGSUDuXJIj8UIUOgfDBisrLPRD58JeLk1uYryHum1kNPdrnc2up2FTma09tqGdxR4fd7NEB2zqz0bwEwLZ+Ua7WIs+RM632qBR96/WEsG0vedaiPzhtt8peqDEOFr98x8V8TyFlBZPrqzsp6s1m5FtytDuzlfaFs0y2yppSvyArsA0IKj/gQeCAG6yVavj7s4j/3IPAgfYwB5m1ZN4JSuJLuOWcJAeOLYfEsYl;Vz+tFEN+ff6mGvk5PAysEg=="
 ---
 

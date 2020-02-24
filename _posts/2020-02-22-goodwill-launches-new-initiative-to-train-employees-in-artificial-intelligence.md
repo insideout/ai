@@ -8,7 +8,7 @@ ampWebUrl: "https://fox4kc.com/news/goodwill-launches-new-initiative-to-train-em
 cdnAmpWebUrl: "https://fox4kc-com.cdn.ampproject.org/c/s/fox4kc.com/news/goodwill-launches-new-initiative-to-train-employees-in-artificial-intelligence/amp/"
 type: article
 quality: 70
-heat: 71
+heat: 70
 published: true
 
 provider:

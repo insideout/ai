@@ -8,8 +8,8 @@ ampWebUrl: "https://www.dailymail.co.uk/news/article-8026771/amp/Met-Polices-fac
 cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-8026771/amp/Met-Polices-facial-recognition-cameras-spot-NO-offenders-branded-failure.html"
 type: article
 quality: 65
-heat: 65
-published: false
+heat: 75
+published: true
 
 provider:
   name: Mail Online
@@ -24,6 +24,17 @@ images:
     width: 636
     height: 382
     title: "Met Police's first facial recognition cameras spot NO offenders and are branded a failure"
+
+related:
+  - title: "Commentary: How to make Singapore smile for the facial recognition camera"
+    excerpt: "SINGAPORE: In Singapore, security cameras watch corridors of housing blocks and student hostels. Cameras detect littering from high-rise buildings, illegal smoking and e-scooters on footpaths. Singaporeans, it seems, are accustomed to being watched for security and safety, and to curb nuisances. Now, it’s increasingly practical to use cameras ..."
+    publishedDateTime: 2020-02-23T22:10:00Z
+    webUrl: "https://www.channelnewsasia.com/news/commentary/singapore-facial-recognition-camera-data-privacy-identity-12452916"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 18
 
 secured: "UrWU+zdViocwTv6aCgZ+UUIxfbcNoYCUtQRDVbIr4wUVXEyhPBCxhhFAaSzpXRDOstum592iEOOs3IvAFNbHq7313FJBTfeUb+afJ3h3+tYkqX3b9SfBvlgTuLxRulfsPQNsnhU5WzB1t4FsnsB8x0De2kKqxwh+VQN9tC6Hjaq/VBgcw7eruUWKZnz/AiOEmulFnA6BMIWMitZ7G6EdduUqjomdH+s/tSHIUDm/iX7vSTgmcnb4uHxTmxJ1EUUqx8YtOXvtBAok1HWDqppGa+4jb9XC7BdFoTHnViJ2IVPdVZJ0fObRFnossnUy1/n1;fZWAbHYhY/L6pB2mGYg8wg=="
 ---

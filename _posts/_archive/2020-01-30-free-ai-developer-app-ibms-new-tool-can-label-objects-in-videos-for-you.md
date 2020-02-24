@@ -4,12 +4,10 @@ title: "Free AI developer app: IBM's new tool can label objects in videos for yo
 excerpt: "IBM has released a new free tool designed to help developers cut the chore of labeling images in video when training AI object-detection models. The new auto-labeling tool is part of IBM's push to ..."
 publishedDateTime: 2020-01-30T15:36:00Z
 webUrl: "https://www.zdnet.com/article/free-ai-developer-app-ibms-new-tool-can-label-objects-in-videos-for-you/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/free-ai-developer-app-ibms-new-tool-can-label-objects-in-videos-for-you/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/free-ai-developer-app-ibms-new-tool-can-label-objects-in-videos-for-you/"
 type: article
-quality: 90
-heat: 90
-published: true
+quality: 50
+heat: 50
+published: false
 
 provider:
   name: ZDNet
@@ -24,12 +22,6 @@ topics:
   - Google AI
   - Computer Vision
 
-images:
-  - url: "https://zdnet2.cbsistatic.com/hub/i/r/2019/05/15/0f3f7afe-160c-451d-babe-17ed14a1c12a/thumbnail/1200x675/b87d99aee9c8455f3ae1be92387d7290/cloud-computing-and-ai-can-ibm-finally-c-5cd59307fe727300c4b89bff-1-may-15-2019-11-42-48-poster.jpg"
-    width: 1200
-    height: 675
-    title: "Free AI developer app: IBM's new tool can label objects in videos for you"
-
-secured: "MnA2x0o5P54aq7wQFjUNaQgAC7bp+HCIBcAayFo2DwBZnLjD5nFFLpHHmyeRQnHLAQdWwHanmZo84gyH4Ux3n16eerrDJuiLYHzdu7zl26c6cCIi4P3hXuCZ+pkPUSjf7cw61eLNOZ7xtKlRg9nt4R7XMJjKeFWmsmpY6TEV9LkTKHtuoiF85zih1AZmlWvlSTHyitRcV5yMda4DFHuTESgmnPIc917qyPZ2a3vpz/b2sNTD/Aznl5ZxQ4eBdLbzz9e2CmE7B5XmA52Ijx09PsjmN66SHSxGcbQSMaOtfTbkvkGQ/k3hLUINSw5HQ7d/;I4O7pcA86fVhhdU95K381g=="
+secured: "V+Nnez2nbMdc0kj6xLqRqFVHanbuZkF2pUD04zoSkV9O6qs7C8AMHD51oHFDepdzMOyNyplPlyjLB4R/fE5NYJmSu4i5+BHx9c8Q68Wp+OqqW289mEJjbLxHb4QQIBhzt3QIoA9QZXzsxcq+m8sihfPhptV9eN4cgMy1619sYAkQunQz+3mVVDREaGrehn+wPuFhnQqZNeBQerBpfiZJ7v9wEoycrN03P4HDX2szB8946R9yrZZjgJVD+VJdJWAP60CPUUszcGjjgx9L4cOoh/e/cOyVaf3XCYB++fRPwLd6xFSPwcoaErfd5efKNCnv;+YQ387xslblxFY3gWTPLqQ=="
 ---
 

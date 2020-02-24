@@ -5,8 +5,8 @@ excerpt: "(AP) — Google CEO Sundar Pichai recently declared that artificial in
 publishedDateTime: 2020-02-01T00:00:00Z
 webUrl: "https://www.ksl.com/article/46251459/googles-ai-push-comes-with-plenty-of-people-problems"
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: 19
 published: false
 
 provider:
@@ -17,12 +17,6 @@ topics:
   - AI
   - AI in Autos
 
-images:
-  - url: "https://img.ksl.com/slc/2654/265405/26540552.jpg?filter=ksl/responsive_story_lg"
-    width: 614
-    height: 345
-    title: "Google's AI push comes with plenty of people problems"
-
-secured: "ZfJ+jBOnyHCGrxNrSmP2ZzwVvLSqanrzZsvQuhJ/9p66SW3I5ZcPOfu1nwbprCTAvHExvl7M2eYzgjTm12maqVrs87/LRsYncuRAkBk+U+DQJ2ecY9JuP0cQdUrYjrYnFvmal+NpctkEvUk8gFK5R+26V6+py3TNbjf+kpVetHYhSaKJF6cSHGUz+ZO8+b3CEQseIJB7JjP53S97XTncXixEKxURqNPrgPPEmT3tuYAhBwfdtZ999UfEUIO8EkEPtpSROLAwpXvD+lZxALNM0OINLlikme60v5O6nvVrdAz8FqtSoYRjIXXEV9obBkqv;xDmOk5vbG7sQxrlrQPPBzA=="
+secured: "MfOwzhrJqKoORF296VDLxHzbs4ujG1CmnzsCN8MKmhi/4g+kgu1DIYtVGexxbHk3cPa9C3LWkVtr6ty9vfS5+0jOJvaS3Jiqyjst0jqYpHGRqyfvYE26xcgOn4hcKb7VlbOCLTXvQJ3hE++A7XsAg1/RYussinIUW7g59b/aGi2Um4oL71XsiuVFL6qpp3b0q9aFSNX+4EEVWPCmtWXqbt8zRg7pszf/trZypP/fvbHTpj0l5W83BpVMLDn82Umw3qxATju4IEkGOmATHE/alx9+9H7iP1guSnJm4oJX3ZdaJnLy3pt5p4b66jyU4KeK;SrTa0u6ILiXS3WV/H88woQ=="
 ---
 

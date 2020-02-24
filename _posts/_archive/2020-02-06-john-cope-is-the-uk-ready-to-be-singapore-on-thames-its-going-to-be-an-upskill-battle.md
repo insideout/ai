@@ -5,8 +5,8 @@ excerpt: "Artificial intelligence, driverless cars, automation – the most visi
 publishedDateTime: 2020-02-06T15:01:00Z
 webUrl: "https://www.conservativehome.com/platform/2020/02/john-cope-is-the-uk-ready-to-be-singapore-on-thames-its-going-to-be-an-upskill-battle.html"
 type: article
-quality: 15
-heat: 15
+quality: 0
+heat: 0
 published: false
 
 provider:
@@ -17,12 +17,6 @@ topics:
   - AI
   - AI in Autos
 
-images:
-  - url: "https://www.conservativehome.com/wp-content/uploads/2020/02/Screen-Shot-2020-02-06-at-10.11.16-300x300.png"
-    width: 300
-    height: 300
-    title: "John Cope: Is the UK ready to be Singapore-on-Thames? It’s going to be an upskill battle"
-
-secured: "KlHUsgGRxpgcpZyb8G6R46mRaICxRM8RvHChTB7v5Nif5jEIyJySDapgvTM+X9vysJQv3qYnkbF/PyYl7IJZsht83CSe8GHgKbU3XPT1iBbs3L89cGh4xD0C2AS/3xgMLpdHglLpAMpPpIHI0IOnzu7+ut2iRggyirWqKKFiKb5NqXeHT2QkofGI3dE8/owtau6v6YW7ZPqP5TM0vXFcMDZHBfI77smLv79eWmG6VCNujCSoCdLly5LoSY8I3Rl0NJ546sOo++mcKrngno6J/fFlmofE4njLWLdTYeX6xDDfef3x0w4L7Jd32/wr6RIH;LYxiZH5xIkOInnNhrEdt4Q=="
+secured: "rseY6H93XUblb9vqMDkVOSKRcwZnBUXND309WfOykKr9MlA+KxUBl+iERHXquQPe2hxva7fRslFE+XgZdio1RJfQCBmXMPYapjCdoHNw+0eSGSm3Maa07prAHJafFArv6k/ZJ14SDXOcaDtaQL4zQHp0uJ6AWGcmR/qxPTEsZvGMwYYZPL+cZCIbxqWboaRZQBWTQLYLbyyNz8rON1eUglrn3xnysubl14jCJwUHePsa+Xd1OOnaWAqvp9Qk49qBPnMFnDl4X8wD4FXd5bfFHEwzztJ9Wjai28ZUHqv18cUwHLPY5J5TxiZSjSNwAPJa;apWwMRpgRvQRi+SfXrE1gw=="
 ---
 

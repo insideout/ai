@@ -8,7 +8,7 @@ ampWebUrl: "https://www.bbc.com/news/amp/health-51586010"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/health-51586010"
 type: article
 quality: 87
-heat: 198
+heat: 197
 published: true
 
 provider:

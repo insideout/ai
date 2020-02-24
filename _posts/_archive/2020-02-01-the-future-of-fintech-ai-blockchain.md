@@ -5,8 +5,8 @@ excerpt: "In The Future of Fintech: AI & Blockchain slide deck, Business Insider
 publishedDateTime: 2020-02-01T03:19:00Z
 webUrl: "https://www.businessinsider.com/intelligence/future-of-fintech-ai-and-blockchain?IR=T&itm_source=businessinsider&itm_medium=content_marketing&itm_campaign=content_marketing_leadgen_link&itm_content=leadgen_teaser&itm_term=leadgen_teaser-the-future-of-fintech-ai-and-blockchain&vertical=fintech&_escaped_fragment_=/"
 type: article
-quality: 69
-heat: 69
+quality: 49
+heat: 49
 published: false
 
 provider:
@@ -21,12 +21,6 @@ topics:
   - AI
   - AI in Finance
 
-images:
-  - url: "https://static.businessinsider.com/image/5e305ac224306a476129d512"
-    width: 400
-    height: 224
-    title: "The Future of Fintech: AI & Blockchain"
-
-secured: "KsPUEGnMidh1Uhk6SzcNyy2hf/AnFfy0eUjB/V4QQYVVTD2+8O3dN4fcFcM+XUjpaej7jLHqeWNmP7ErsHU30sHTe76gzDlfC5QNg/C+lCiJ9ghyqbuFhqX/sFBvNW1o2uIpYsjh0GtPlulEjsZtD8c1jPiIt6Sj3Ru1V9lq27OFj79XA/7EGRm7WzpuSLyRg0A78yyE+HjTnLCEJ5lBfgKeIxVjXe5e21xLRJsrfjBIYpezdv3PbyEy7d2HUrRiJsnfhxYp2VHYqBANlHi0/+FZOdxS15UHPb/KzdKogq9G14ZgBeN7IuqF4VKKWf03;ExUW4OVj8KmNOtLhRgrHsQ=="
+secured: "hS87DiasxafG4pnjVh1q0B2RTBnWF51GeGfq7IMFJrbhSb9Od8BZmOzlTKSlYb9lxCddB/atWjRumNA/TTJJm/kYJc49ZEcmnnv6Ig2zQIsE084HkyZ87pBZezUGo5mTRsxuZqkRJvWnPaGxUJ/hSKsLEU/YAqp9UTeODZzk+Hd1QOpd63O0J3yBj7BL5ytuvLRgzV94VYe1J1pKT1fRyqWalIBhi6BhxM9XUgwMDAq3C+X2z+ZoNF/e6yvZe85HLaXoEF99Wj58pwLJDsWHVfF4OOv3Kzr7n08UIv3YHQcauCOQ5+eM376yy/R1q5J8nui2VgCSxV47h0o8Ltg/YTj22zyMKQJyKMoxOT5ZfJCsahUrV/I+Qgcvte/rqjfQCAtxSS36WVYXbE8dKj3EP6e3IPqUgE+PHu5HfdhIGO48XbmPpzbin53MBulJEVH+wPnoEUWiqPfmglEIUCdVzenDtOMOMDi0KMSPsJj0b1A=;MbSsddemKZcfy/RZhiLOKg=="
 ---
 

@@ -5,8 +5,8 @@ excerpt: "Mashable is a global, multi-platform media and entertainment company. 
 publishedDateTime: 2020-02-09T00:00:00Z
 webUrl: "https://mashable.com/2016/10/14/paralyzed-man-feels-fingers-again/"
 type: article
-quality: 77
-heat: 97
+quality: 57
+heat: 77
 published: true
 
 provider:
@@ -17,24 +17,16 @@ topics:
   - AI
   - AI in Robotics
 
-images:
-  - url: "https://mondrian.mashable.com/2016%252F10%252F14%252Fb6%252FAP_16287736330662.d3659.jpg%252F1200x630.jpg?signature=NIqfeD79B--WSLa-nz-r7U5cHZ0="
-    width: 1200
-    height: 630
-    title: "This paralyzed man can feel his fingers again thanks to a mind-controlled robotic arm"
-
 related:
   - title: "Mind-Controlled Robotic Arm Allows Paralyzed Man To Feel, Move Objects"
     excerpt: "Nathan Copeland can't use his own arms to move objects, he can use a robot arm just by thinking about moving it; KDKA's Dr. Maria Simbra reports. Around The Table: The Importance Of The Iowa ..."
     publishedDateTime: 2020-02-03T00:00:00Z
     webUrl: "https://pittsburgh.cbslocal.com/video/3669495-mind-controlled-robotic-arm-allows-paralyzed-man-to-feel-move-objects/"
-    ampWebUrl: "https://pittsburgh.cbslocal.com/video/3669495-mind-controlled-robotic-arm-allows-paralyzed-man-to-feel-move-objects/amp/"
-    cdnAmpWebUrl: "https://pittsburgh-cbslocal-com.cdn.ampproject.org/c/s/pittsburgh.cbslocal.com/video/3669495-mind-controlled-robotic-arm-allows-paralyzed-man-to-feel-move-objects/amp/"
     type: article
     provider:
       name: CBS Local
       domain: cbslocal.com
-    quality: 39
+    quality: 19
   - title: "A Mind-Controlled Robotic Hand With A Sense Of Touch"
     excerpt: "Researchers Monitor Sørensen's Prosthetic LifeHand 2/Patrizia Tocci He could even adjust his grip as needed, all from his robotic sense of touch. \"What we did was to provide this tactile ..."
     publishedDateTime: 2020-02-05T00:00:00Z
@@ -43,12 +35,8 @@ related:
     provider:
       name: Popular Science
       domain: popsci.com
-    quality: 39
-    images:
-      - url: "https://www.popsci.com/resizer/fpU9tcI__P5BYCC0_WtmmQNOfOQ=/1200x628/smart/arc-anglerfish-arc2-prod-bonnier.s3.amazonaws.com/public/NSO6ZVCP43CLCPK3A4UYAJGYFA.jpg"
-        width: 1200
-        height: 628
+    quality: 19
 
-secured: "N/uNAxzJEQpUyc20l8GI2s15SWiWpCVvuuxqqRfpz+dJ76Zhci8cJRlIpyyi5bDaTThSgg8Q9S5oagJ0ZZ7B7g616loY1YOYr3Oum+2U3EiWCbn+VOCCjOSI2sQCLRQfh7LpC5XVc287z4S7gKFUIMU7SiPMmQ454aVdGgVSfx1R10pm49oCGeCBh0j3/PUKyObBKJD8d0xO29NbMlKSMavdfLyADk7q60m9sRiPx0fPm+ZRBYnIw0jiN51J52r5/wsz/eZl6VtkJypTPdu9j91VuiwJ9Xyd2r4lhJlOwLxF6McTpSbeL3ZyH4/nUKTE;QFYD/Zxj/ElvCvTESxZMZw=="
+secured: "9zTjM1Lzr365B0VWQodt/0hRYUGd8/YA94+LPgmJ2/Oz5aJTsq0+uSOgJnJdiR5RJKFl8kHoXkihq47ZZj8u416QkaX5Ha1h7i4s6TP4ezc8KmMeRJdre0mq3v4RzdKpoD0hgC8SHsMYGN9Qo/xx1teBRr0n1dge/tclIJNMlIS6DgBr9+Qgsua8DB5gB5qzgNjmK7LLC3D04XQ1O8HZ8+HUkGw2AcPA8WNnRFKKqUXyX53fkbQKzG1MJdpWXtD88Lg2dJIoEVTIIA7SU/okOh4v2IZ1HuynsMInuqeLLyo7NdLmdAv3L+LcSLYNmzl0;DcULLl4mPv+ERYIjr6/pkg=="
 ---
 

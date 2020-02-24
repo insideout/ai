@@ -22,6 +22,6 @@ images:
     height: 486
     title: "The Goliath strategy: How healthcare enterprises can compete with startup innovation"
 
-secured: "NgGK+Yjh41QWb9UI9pCHSlmUg8+DSoBV06YgXPAJCMQTBsqCJRvNCWrGwec35MSAw+G9/PK0FXv/eD0Xg4weXnPwr5VBv+mWBF2z3KYC8qBWoxe+p5GZ5vLMCheK0MC/QSC4Dae0fpxaR+wUddp7yH/3Bj4u9wkBcQEiqheJ2Xf+sE2nghX4II7JX1zS9O2LDiqDg2dt4UUCiSl3EPM0LgoKXrr/xlN/HB63+LJymlMRVL40FahY/LuWV9AOIMN/Bj9IOjajikZy1+VL33u4/JQv9n0mAe4Fy/IjipXw6eF6AsbQonWdGS7VKMCKG0DN;hKdcdBMihnGM2+6rNPeeHQ=="
+secured: "QhCW4jYgyb76F9pNot1bx5qyFxHyqwj8orZK2ActKfFzk7wkUoY18JNHu8PIz8haOZ5r4VcnwYbF+n5ftUfDm/8UATIqdpw00V2HXCmwZhRJf9/K999nxkfkUWA1UwIQ7V+0fGoL2daw3INFzygy2we+sKNcI6esXkT9KTZXj9+qfIkddpVr6WWFF6yidoMPNrA6ZYTZoUPYfhiWHF4zrhTO2Zh7ARn5DJ7TAiBCxakyIfMXBqlTAUOzrzqhO9HaESSZstVjOqy/guVdxruCOQ8kDja6UnzVuAB4mr2H4Ai3DAcyf3KM+azgi7TiQ8Qu0L4YUTYajdxgUX82D8zXEiA+uZQ+OSA3fGSwKMySG+EyJk0Zc5BBdAQay8yCe0HXM9HKo+/sOFcWYD2Wu138cCGE5UFJki0jwigZjkQhtjuRYjSSovtqxNapZE3YDE6+PgRpFSTjw3d786juPgrSjktUgy7jdgOkzKmCVQFFCO8=;O7K+Q22Y1fSGWPhbZZA4sQ=="
 ---
 
