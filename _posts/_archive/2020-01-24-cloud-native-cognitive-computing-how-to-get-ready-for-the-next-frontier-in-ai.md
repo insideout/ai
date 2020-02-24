@@ -30,6 +30,6 @@ related:
       domain: openpr.com
     quality: 0
 
-secured: "bSoyRdJJcpYs1B3FX0yV4caBuniMuE5G6iwuSYvEynSfHCZbYoDOkdusXntCcnLd6MBOuX2Jggr88wTbmLPCZ5toKCD0DR4DM9iqYpabdjJk/7HKJNjvgxtEBZl3G0V7xrHF0tj9FL7Qr0Z4IfWYMhuMazu1r/UeKs6bR6iQ34bdFcaKSH/Q16A2uvtYn5I5oma3CV3fRGXEUMVAzP3AjPZi4X3iPMMwxpmva0ZhZCMycdwCep58MGz9XapbhXDCiNmd5KY/t6Z3Ou2vaWP5h7ZWVABsGQNuiyIjAe8RHIoQstN+EDsnkrndkkn8Uqo9;2FGXMynk1lUcxQlXuaxXEg=="
+secured: "wL8+KRR7LjPISUsr0JrJLy7Hs1X/1KE1FR+ieQDWX7rnJ7fJOv+ynhGnT9r70v6G68asTy31bKxAJ/dn0cNP7HKQqks9VgAVbnUkNDlrJCtq+slyz00FP4rv+TcPnN9w3BKkGV7yhK+MLHqs9ZF21ipG3FaMRNyts8+2YG+/OyBVvWds4hjMSHEUNiVesIECBa+r3QRBI8MsGaHSovIlA7zLwbUfUXZU0RsZYbsyCjD6FTXxnRz/hYsr4ia36Ybq27huXAzCyD1DoIacjf42tSPvvgRqIrMiqqjoEbC/FjCtZprJNsVJapSCsldBI6e2;97CbP+ukgtwsji3P1W5OFg=="
 ---
 

@@ -3,9 +3,9 @@ category: news
 title: "The new collaboration is designed to enhance the cybersecurity capabilities of Azure Security Center for IoT customers."
 excerpt: "Azure Security Center offers advanced security posture management. By integrating the two products, Firedome and Microsoft will be able to deliver real-time protection and response, with dual detection capabilities of both Microsoft Threat Intelligence and Firedome's machine learning, cloud-based AI engine. The combined solution provides ..."
 publishedDateTime: 2020-02-22T01:31:00Z
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/firedome-announces-integration-with-microsoft-azure-security-center-for-iot/article_9fd4db82-0673-50af-bd2b-78c981cc8039.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/firedome-announces-integration-with-microsoft-azure-security-center-for-iot/article_9fd4db82-0673-50af-bd2b-78c981cc8039.html"
 type: article
-quality: 0
+quality: 15
 heat: -1
 published: false
 
@@ -16,6 +16,12 @@ provider:
 topics:
   - AI
   - Microsoft AI
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
+    title: "The new collaboration is designed to enhance the cybersecurity capabilities of Azure Security Center for IoT customers."
 
 related:
   - title: "CyberMDX Announces Integration With Microsoft Azure Security Center for IoT"
@@ -93,6 +99,6 @@ related:
         width: 1200
         height: 627
 
-secured: "i6PQZScGvjbx+NFJR4c65+66IlVkvg0ZcnU7bhzUab19Y6n3JG/3GQ8SXNR8nKXymYaSlRtSpG6ATa1P2xwYJ51xaCJNuMhkWMb1k8wfMCtwZFSED6ut0lB5w0g5kIpU7zjdBn2cdvVDyyJ4WYNpA4wShvlKP4AvVIIeZihOhg6cDsikeoSoBe3Co0EsT/BC7su+FGUJZq2KsPHzbD/mGI7SNUhBSxxWQINIPS18wREIW8MYWwsyQmnPObUTj4T2643cokuNP2U3Tr5TN8KtukMJe7/wqnQFxbo7XjL/RHft3hOTPtvfzArheF4djZss;FP8IzFMoLcpN/lFVcLWKGQ=="
+secured: "l1oihl9GeKAkK0gWWgzdobIixfVE23i3gDr6cORdSf8GPQ53nw7HvdD4E1tbkIVAsIbKx5hTj7bjNeh2aqiNIb1UyqGPk1/eKzT5j8jxYcOIescRpKSGvscX0kTlKUxYmrYDjHqAlj/8vEWFhszUB+ykIDPjXFCVOmeOiFOZoIo/3wsPl3xF4m5yzZgEi4KcI8RlnfVysZso8kK+/+6bKZiUbOb+x9u/LE6CVbU95LfL5WxrJpPpsyoES2hd2EKyIuTt2/S/i+6PpjRHMr7wGD+cuCppTPPeYH/Sg1dP+ax0lZ1zi5wJGcLXvyO4Yo0C;nA8qscR0LGnfth6k26t9lQ=="
 ---
 

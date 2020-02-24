@@ -23,6 +23,6 @@ images:
     height: 300
     title: "John Cope: Is the UK ready to be Singapore-on-Thames? It’s going to be an upskill battle"
 
-secured: "0RfW4rMe/sFlkdQCykFTJkv3PJlrOmS5pilM2goZpyZBp1ZgNV1kg3Tfq3BZ1Pa8RwvMlNNDIEAnysVLa4SHEDYRlpU8jH+GPcKSjFjfCH+yMTVEfx45FcmxDgl6ULxW4FxyB4uceYUnbA8biwgCEPSDcxlQ2qigBswPGUcdGDSWgfmPV/MB3QuSegFuUSEYCgMbIdSyeSr+nlFsls0or68O5MMyzY6iAk06ZWT0rSnU/vUHa2p0Q461Dp1ryBBXGXx9uqpRdw1D1LDwCefvKKxxRgsU8aHth2LhnomLy8EunOWUt1KiXaugBqN8m5o0;4B2dAkBb1FQjXBVH2ITGBw=="
+secured: "FwBkKABrk0P9pZXBRlcJeGR/+5S/R8iWcXqxY6lF7C73TaB4iMutxe39e+UrUHn6KF2GTX9uyfE9HTir02eXf8iWOjH4UkIUijBVkePtE0U8hHEhGiKz5idbtW4/ROTNm19SubbL48Y0ecFR+dB1rrGntvM6i3B8NhpnSZC7BeWXx4LtqVgeaemDKd1zmKDAoP34m2d5nqij2UihoQt9s74eLzOJ9Lnvn2PhmX89mhq0YMz+GUJGkG1h8aUHFr6H9WZ+oKH1VMnry0oFd2YPlJeYl834PaEpiCYAaHHMl0xmya2wkvtGvItyLfdO69tP;IIf9ffeXhs8SIjgJaVG8EQ=="
 ---
 

@@ -49,6 +49,6 @@ related:
       domain: cbslocal.com
     quality: 39
 
-secured: "Ubs+8iquLVdUTLerKXg5tHt42KiHCkUQzPfg7i1YZLI/sw7t1E5t+gWcb2x4Iwe1+l3VDH+HKyLM3j67VluGxrxSeu8NQnHrQq1/kG4wUZ+4MltLKcDM1H5dlbpAxjDP5dzJ4hsQ4nvqIEi01VCD3B6hRPbIj9AXXsr6QwjBIreiLbzFnrtBhv6dtYcXI3KYVy29H+WHunifDH85QEoR36GZCiaSKBmJI/ojFKzisYor0IjNhRRgh/JlIeMF+ECwk3coG9rA/AIwqHjroTBgDgsbycqQMAmOFBcC+bhN+JUR+ePXRimVXufwqw5dx2C1;kyaIT5TlmHrGerUPuYpsrg=="
+secured: "PaQ79zgYYEzlQ8R13Pk3hIs83wWfqpEjq+l+2qAI7zGHG1K10/3iEevwNMpsgS5qgOTWNLmnMbyO1SNK8QN5xis+52zUEj5+oVYaWwBl10fnAQddWDkhLwFwJxCghnd/6F5IKVsnl/sG48nRYsqL7bgiHuV3bT5ZwQpa7eHgr8cFPQ/0UyT7XsXGUqs9h8ColmpIKxSGqHZjCAhzS/Bt74aw7kYWX5gdn7ovjqVE8U2oS8GCah+wSriu8J0OepSUyMAvDSFiQ3ldNDYVJYbLzQsf8TLvHg+F0VhAqZogzQgE6vRG9mGW9y8zcbyoqmd/;cd8xJQ4aVdmYz21E0PFEOA=="
 ---
 
