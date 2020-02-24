@@ -4,10 +4,12 @@ title: "Why The Race For AI Dominance Is More Global Than You Think"
 excerpt: "When people hear about the race for Artificial Intelligence dominance, they often think that the main competition is between the US and China. But, many countries have AI efforts, funding, technologies,"
 publishedDateTime: 2020-02-09T06:03:00Z
 webUrl: "https://www.forbes.com/sites/cognitiveworld/2020/02/09/why-the-race-for-ai-dominance-is-more-global-than-you-think/"
+ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2020/02/09/why-the-race-for-ai-dominance-is-more-global-than-you-think/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/02/09/why-the-race-for-ai-dominance-is-more-global-than-you-think/amp/"
 type: article
-quality: 49
-heat: 49
-published: false
+quality: 89
+heat: 89
+published: true
 
 provider:
   name: Forbes
@@ -21,6 +23,12 @@ topics:
   - AI
   - AI in Autos
 
-secured: "bbLLr+qt8KcWLSCKfeGLvHaEymL2hOS2QYJbCaNG43eQGBSB6LKIl6kKA4EHBmVM8mP0OI7cnqnfmqC0CKtqf6fFC9zijDu1xRFIrH6Cozxi8gP7kqbGFAuTcLMu1Dr2GrNwuhliO6VqbgNu3yexJkGi1qF8+h6oZ8hwjKafKnmZg7wpUlLpfor/yBLPIyhNbZTs8k0kyTuVpLY1lVaGisiHOgmIKbU6iOt5xKIBE8nBena7d9EjN+sUQFl2aYwfvTQfDJLqDvVudzXzWxbUicW411ABKd1bw3MIYfMUpBMmcrmcNfJJEAgod5JPPKHZIY+D9a8rZJkUkDPojciyElKGaENILusuLGTin++EVs0uqEw1SUFqrezI4ntYGz3G6zjOGIT5yU2Mf+3yawWaPg/xTyqKYAuvT3gC/ElT7gOO3E9nETrgRSLv53X8DeezXPkzWHGHWWDVtjv1Dbq/aYQaBvNMf+PCD7RSZLQT1Ec=;ghnMq6zqrZVpYRU+mtkjvw=="
+images:
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1144319087%2F0x0.jpg"
+    width: 1200
+    height: 675
+    title: "Why The Race For AI Dominance Is More Global Than You Think"
+
+secured: "lOHQErFZeu5pbEEO7bNWDIdl4N3FJJtY7yxO8L2l3AdWJvUXqBCmRSlSwfzs+UexVixmU+z2V74XaXPBbVdqn7MsFUIQn1fN0GJkXH0fCN2w18Z1pMXsq6t8D8PsQKpxN2wkXsGdXNs1nQEiiqRdtifiYRagWlZWPGZV5qBOoNTihETt/F/YpFFvclcc67B55yDN4UWEpwEcHW9QcUTSYnDILh+ox41UJFjsfr5wQU7PrRdUAv1wk4herBGG7Jx7xSKI0LVx3c5ZUaoruhA1mEmQ/ZvvLFibGKBW3E/Ec9Zcsj/JcwX8V9Zxr2bOqz1a;z57Ca5bzgC8HqOAH3L34SQ=="
 ---
 

@@ -4,9 +4,11 @@ title: "Bristol’s Graphcore taps investors for $75m to gain edge on AI chips"
 excerpt: "The start-up’s chips are designed for unpredictable decision-making tasks, such as providing the brains of a driverless car Credit: Graphcore A Bristol start-up building artificial intelligence ..."
 publishedDateTime: 2020-02-02T05:03:00Z
 webUrl: "https://www.telegraph.co.uk/technology/2020/02/02/bristols-graphcore-taps-investors-75m-gain-edge-ai-chips/"
+ampWebUrl: "https://www.telegraph.co.uk/technology/2020/02/02/bristols-graphcore-taps-investors-75m-gain-edge-ai-chips/amp/"
+cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/02/02/bristols-graphcore-taps-investors-75m-gain-edge-ai-chips/amp/"
 type: article
-quality: 19
-heat: 19
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -17,6 +19,12 @@ topics:
   - AI
   - AI in Autos
 
-secured: "cL2Qy28KzXFTveZHjkoL48zsPavsNsPhomcz4eHEJjPdTSeqZ1svezEDberLSt53eyST17bXVsSwJXouE2JboUj2NoUO6omTfhjncvMaboZOiOmc3AfndiKrLTyNUBNv/owW/BF9Xwk+LvBjx/UJ/LI8/wIEZEHdpodY8+BxbB7UXR//51Jp8AH7bAbQ/j5YEdFSCCx2cq0z6hgQRUIgQCIBzeZc/sRWcrAXK8+ksFlYnuRNGVaLGGgWOlc8TQTHHC5F6vwmFmbEk9gOu2N7R9dBtTCJI7es0RtIta1df246hh5z4W+hdhq1GFi9d+lO;igSoIQzn1hNaN8s0tRWiIg=="
+images:
+  - url: "https://www.telegraph.co.uk/content/dam/technology/2020/02/21/softbank_trans_NvBQzQNjv4BqPkxvTPxRsdaOVYYFR2S-zaZwVohKoJl2Ye-pFbS5eYg.PNG"
+    width: 680
+    height: 425
+    title: "Bristol’s Graphcore taps investors for $75m to gain edge on AI chips"
+
+secured: "pK3nmMaekXSkXXkYIFKzGWCs9jXXZDYNUPXkzMzszEY2dQtKWI38QWyVCf0FBOrQ48/rZ9Jtntx2NQBQ0dvX6Yq2XCbqBqaJcyeAWMutanU7yJ7aZb5Lj2KN0gc2H/OBJQucfSxd4fUqFamuGux3pEA+gBnbdU0x3IZsQd1CLWLp2aTLjvrpXV7Gy+AiojUYp/OL1p2AHvwMjZimqg7yJzWgr9ddG2QXRjKicyP20lfXVtyJMbbSdh1MOCsUHOep444hUyOCK5Aja1cOtl1s2iM+EEwyDo6YyANuGiFd/ZnenPmCLWGhw4bZRMpIQHKe;yHFSlAxJmRyyRTQJzGMzkA=="
 ---
 

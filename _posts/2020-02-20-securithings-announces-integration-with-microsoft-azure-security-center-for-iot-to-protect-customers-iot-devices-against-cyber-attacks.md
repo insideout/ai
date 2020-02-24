@@ -50,6 +50,19 @@ related:
       - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
         width: 252
         height: 335
+  - title: "CyberMDX completes integration certification for the Microsoft Azure Security Center for IoT"
+    excerpt: "CyberMDX delivers its granular Internet of Medical Things visibility into the single pane of glass of Azure Security Center to provide continuous visibility and threat protection across device types and network layers. All on-premises hospital assets are auto-identified and classified by CyberMDX’s DPI and AI engine. The classified assets are ..."
+    publishedDateTime: 2020-02-24T00:33:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/02/24/cybermdx-microsoft-azure/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 43
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2016/06/09111805/pulse.jpg"
+        width: 1600
+        height: 907
   - title: "CyberX integrates with Microsoft Azure Security Center"
     excerpt: "According to Michal Braverman-Blumenstyk, CTO and GM, Cloud and AI Security Division at Microsoft Corp.: “CyberX’s IoT security platform and integration with the Microsoft Azure Security Center for IoT enables customers to go further and faster with IoT innovations that drive new revenue streams and operational efficiencies — without comp ..."
     publishedDateTime: 2020-02-21T00:03:00Z

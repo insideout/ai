@@ -151,6 +151,19 @@ related:
       - url: "https://thehill.com/sites/default/files/ca_busfacialtech_021920getty.jpg"
         width: 1440
         height: 880
+  - title: "Moscow Using Facial Recognition To Enforce Coronavirus Quarantine Of 2,500 Travellers From China"
+    excerpt: "Sergei Sobyanin, the mayor of Moscow, in a file photo from 2018 (Photo: Getty Images) Moscow is using facial recognition technology to enforce a quarantine on thousands of people who arrived in Russia from China, over fears of the new coronavirus that has killed over 2,000 people worldwide, according to a new report from the Moscow Times."
+    publishedDateTime: 2020-02-21T16:50:00Z
+    webUrl: "https://www.gizmodo.com.au/2020/02/moscow-using-facial-recognition-to-enforce-coronavirus-quarantine-of-2500-travelers-from-china/"
+    type: article
+    provider:
+      name: Gizmodo Australia
+      domain: gizmodo.com.au
+    quality: 26
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_lfill,w_1200,h_628,q_90/ddahcgnqbfvrkf7kiawb.jpg"
+        width: 1200
+        height: 628
   - title: "Let’s face the facts: To ensure our digital rights, we must hit pause on facial-recognition technology"
     excerpt: "Like a growing number of political activists and citizens, the organizers were concerned about the increasing use by autocratic governments of facial-recognition technology, so volunteers covered their faces and used pseudonyms. The organization’s executive director still received a threatening call to her hotel room. The event, however ..."
     publishedDateTime: 2020-02-14T17:55:00Z

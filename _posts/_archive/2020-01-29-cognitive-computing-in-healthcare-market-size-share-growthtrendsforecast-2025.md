@@ -18,33 +18,18 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Image Recognition Market Insights By Size Growth, Industry Share, Leading Players and Regional Forecast by 2026"
-    excerpt: "The global image recognition market was worth USD 20.19 billion in 2018 and will exhibit a CAGR of 19.6% during the forecast period, till 2026 The global image recognition market size is projected to reach USD 81."
-    publishedDateTime: 2020-01-31T05:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-insights-by-size-growth-industry-share-leading-players-and-regional-forecast-by-2026-2020-01-31"
+  - title: "Cloud-Native Cognitive Computing How to Get Ready For The Next Frontier in AI"
+    excerpt: "which is of course why cognitive services are so closely linked to cloud-based environments. The leading providers in this field – Amazon AWS, Microsoft Azure, Google Cloud, and IBM Watson ..."
+    publishedDateTime: 2020-01-24T00:00:00Z
+    webUrl: "https://www.business2community.com/cloud-computing/cloud-native-cognitive-computing-how-to-get-ready-for-the-next-frontier-in-ai-02277792"
+    ampWebUrl: "https://www.business2community.com/cloud-computing/cloud-native-cognitive-computing-how-to-get-ready-for-the-next-frontier-in-ai-02277792/amp"
+    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/cloud-computing/cloud-native-cognitive-computing-how-to-get-ready-for-the-next-frontier-in-ai-02277792/amp"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Autonomous Vehicle Market 2020: Global Overview, Latest Technology, Market Size, Share, Demand, Major Players, Key Trends, and Forecast to 2026"
-    excerpt: "Autonomous Vehicle Market by Level of Automation (Level 3, Level 4, and Level 5), Component (Hardware, Software, and Service) and Application (Civil, Robo Taxi, Self-driving Bus, Ride Share, Self-driving Truck,"
-    publishedDateTime: 2020-02-05T03:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/autonomous-vehicle-market-2020-global-overview-latest-technology-market-size-share-demand-major-players-key-trends-and-forecast-to-2026-2020-02-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 18
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      name: Business 2 Community
+      domain: business2community.com
+    quality: 36
 
-secured: "alKs19J0rkH2l+kZOBGdVa+1pwRM0GFY/hDGZBt+sy+PW8JBNFRD+NQH9viEjQ1+spnOwN9fUMur/zypU3o1fNHFHh7EwCAZzXz349RyeDLnV6RjAwcRAMUYxUForo8ZU5/V4YjJoHaKjHIk4B5npsG/Dg3BHjsyz1ispTLCKsnSHCpWpqqVQUcXjxCkYiv0bEfnJsyCqRC3WYqCy6BTs+YM5++qJ4TOLIa6u+98kyO5QmLDXdPqUtJvN9Ulzmm4EltSXJsp2KwCBMMkuUscJ4O1Lw1VeuYpFrN9wP8m3pI9t3Mnpj1sqzzVfLjpsO60;C3UPqcgpBumTGeHLXdM8Fw=="
+secured: "iEkO0CbyUPAC7A2o8Qs0dYQ0Pcls1gYFimeqGnGGQiiyHs/cFnktHLa6DrlHP0KFfCRPI8xqQcNC51wTCpmG6JaZBj8LEIC13Vp6L8VVFkhEoJ7jlgnzZ2bF+syjf5/HonuxWPrb5156NOizO4Q5tax3YzgsGiiwRddlbCN/t09q9i8vqIwK5CPonWO+ayLqSWAdBbGNxdj2/8U508zehjGmL+M1o6XTilIGxndzHUbbBb2/7TwUhQAIVlOloYsMRuUfPRZwtboZLNwYEZHywzk/Zb/7Cqv3HCjbb1HwjZCUUwUiGUB5fE41QvO9NkwJ;YlS+nOFL3zDO2ceHvcUmNw=="
 ---
 

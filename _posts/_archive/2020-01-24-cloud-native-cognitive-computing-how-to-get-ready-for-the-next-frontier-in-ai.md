@@ -4,9 +4,11 @@ title: "Cloud-Native Cognitive Computing How to Get Ready For The Next Frontier 
 excerpt: "which is of course why cognitive services are so closely linked to cloud-based environments. The leading providers in this field – Amazon AWS, Microsoft Azure, Google Cloud, and IBM Watson ..."
 publishedDateTime: 2020-01-24T00:00:00Z
 webUrl: "https://www.business2community.com/cloud-computing/cloud-native-cognitive-computing-how-to-get-ready-for-the-next-frontier-in-ai-02277792"
+ampWebUrl: "https://www.business2community.com/cloud-computing/cloud-native-cognitive-computing-how-to-get-ready-for-the-next-frontier-in-ai-02277792/amp"
+cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/cloud-computing/cloud-native-cognitive-computing-how-to-get-ready-for-the-next-frontier-in-ai-02277792/amp"
 type: article
-quality: 16
-heat: 16
+quality: 36
+heat: 36
 published: false
 
 provider:
@@ -17,6 +19,17 @@ topics:
   - AI
   - Microsoft AI
 
-secured: "epIgNzA7R5LT2+qCWJKLtQs7LkzN53m0H4IrzfCITqKGr8pzho/a3SFp5v3UxcbgW+T8Y+XtVjuMU+jQTVlbEsGtNb7a1dk+/NVGtrUW6s+5iXyozWU9RlAI9/T7SwNBcs4dx2m55ArbwOLIxVJkWXpBz5tbf1RPKIAuDmv+aqwSHpafqVSEX6lAg/+TB1wmt+sIJzexcJuXYxI+s157ApmJhVaHvfMPiRhZQYa/ysbetsz6rmGmja9XzarWnudd3MmijquCUOqdR8fh+JgcKb1uTnaLaNXl3ClK0kjAOUlnXj7O4fAOt1+2k3YeBXud;I2f1PDU0fgdh2UtBGxrZsw=="
+related:
+  - title: "Cognitive computing in Healthcare Market Size, Share, Growth,Trends,Forecast 2025"
+    excerpt: "The wide popularity of IBM Watson and Cognitive Services by Microsoft among healthcare providers is accentuating the growth of the market. Leveraging the potential of self-learning systems to look ..."
+    publishedDateTime: 2020-01-29T12:11:00Z
+    webUrl: "https://www.openpr.com/news/1912885/cognitive-computing-in-healthcare-market-size-share"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
+
+secured: "9L38I+Wq0v2QV6WqeMoJr+QG7QM7r04xSGwOKrfqP5q6/PN7GBFXlQzOUOfuHIojDT4dpOePGnSGYp3FojWvnAO9bobjKpORGWp/b0n/Wyf0lNNDKcJwoxn4TVLghtv33YZ29UgG2S4QZ2IHsbG5pRxYhqRt7+E3+jLz38pLrxLUzGmmuWqJFkGp6TgDqSI3G9g9i+cW8cJzqO0DqK+6e35At7lvjMxr6fywPeH7AbpyrDNnk5cXX+PmxMjWYuhOb/6bkFAm0T8eCZIUw1CpmuDZY37c+9PCpqOkJHEdekO4ZsQMjve4uM50i+RkqDSy;6Uq+KFMGAj20swJyvH3trQ=="
 ---
 

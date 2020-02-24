@@ -5,8 +5,8 @@ excerpt: "Momo tells us that the DeepMind - Juno 106 Editor is a VST, AU and Sta
 publishedDateTime: 2020-01-30T01:04:00Z
 webUrl: "https://sonicstate.com/news/2020/01/30/easy-juno-106-sounds-from-your-deepmind/"
 type: article
-quality: 19
-heat: 19
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -17,6 +17,12 @@ topics:
   - AI
   - Google AI
 
+images:
+  - url: "https://s3.amazonaws.com/ww2.sonicftp.com/news/images/32473_386.jpg"
+    width: 720
+    height: 405
+    title: "Easy Juno 106 Sounds From Your DeepMind"
+
 related:
   - title: "Patches For Your DeepMind 12"
     excerpt: "GEOSynths has released Deeper Vol 3, their 3rd and final bank of patches for the Behringer DeepMind 12. Spokesperson Jamie, told us, “There's 128 Patches in Deeper Vol 3 and It's full of Pads, Motion sounds, String Synths, huge Bass, cutting Leads ..."
@@ -26,8 +32,12 @@ related:
     provider:
       name: Sonic State
       domain: sonicstate.com
-    quality: 19
+    quality: 39
+    images:
+      - url: "https://s3.amazonaws.com/ww2.sonicftp.com/news/images/32517_197.jpg"
+        width: 720
+        height: 405
 
-secured: "qeWXyNU5co72N1BVwDml0JS6ZqrdYpsFjoZ0osqsLShI9/85g7foAjCbrrY0Lk1ET6qaQ05351vLAJRUsPVxvQvA/nfjVCiZoQvsuKekEmzolhp3JDBIiA/yum36ZN3epM7IjkuYeRAx/Q/fZT3FbpwwVpO8lIL04DqJ0gMgy7czCmByGakMxKA0GGVAKGLcmPnVAgtfAvaooixlqrFCWXefUiZ59uTSJ/8PfJsHVYkKc1dGxUH9vBzLsJXpe2VEGGfmOSW5rOQCTY9ZvrD1FVN/rBEl/xTyhUI3RsMsnYJLi9KInLtEttMwg7nIV889;WFNsSGkAJuEDeGzBDHM4RA=="
+secured: "ea3M5Qkh/maDTGbmPyS2SkRdsiXQU6nELcdhb/tT98vPliI5Y94ODRIuxhihc/8yvNjD7Rm0gTr/cXksY8tYpyEPZJU7cOt4/ID5y08SsqqDpciJlHaHmQU3GLZfArewgPwpozYSLnZgtmWl/cpU0EWBrDABzUaQSC2I0BvnzCSDCqCOYZN2cqWXQJZkMr5HCPsL9L7YYFN0Nwee7dyLiw/DAFiYHZCJN3+zpwAWu6vIvCbZrRAOt8ZrTWxaleQqAcShaumtbugMqOg22BuWbmCM08iLA8G1vMZp7EBWHEXJeg45Q2yQruBAXj7D7Wqj;eS5Xn/6G1NhAwTokzGM/Tg=="
 ---
 

@@ -5,7 +5,7 @@ excerpt: "Autonomous Vehicle Market by Level of Automation (Level 3, Level 4, an
 publishedDateTime: 2020-02-05T03:05:00Z
 webUrl: "https://www.marketwatch.com/press-release/autonomous-vehicle-market-2020-global-overview-latest-technology-market-size-share-demand-major-players-key-trends-and-forecast-to-2026-2020-02-04"
 type: article
-quality: 0
+quality: 18
 heat: -1
 published: false
 
@@ -21,6 +21,12 @@ topics:
   - AI
   - AI in Autos
 
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    title: "Autonomous Vehicle Market 2020: Global Overview, Latest Technology, Market Size, Share, Demand, Major Players, Key Trends, and Forecast to 2026"
+
 related:
   - title: "Image Recognition Market Insights By Size Growth, Industry Share, Leading Players and Regional Forecast by 2026"
     excerpt: "The global image recognition market was worth USD 20.19 billion in 2018 and will exhibit a CAGR of 19.6% during the forecast period, till 2026 The global image recognition market size is projected to reach USD 81."
@@ -30,8 +36,12 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 14
+    quality: 34
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
 
-secured: "OTUVyZiScNvZPBQvVL3sYKage/qIlzEm5MCyGqfGXgVsXgpOZmljJU1gPflF2oeVom+Y/NYmMp4UlR2cq1LJwtVL1pdOmBmsLo0feYKZOYuyJqhE6DOR0/grFhHn1IBsOgQCebUxaOGrOr61rfTjWwXm7JOBMGcABiF+Q2mhc1VU7XvcsImccaBwFTPKorisulTcBoQZGnlj0AgsgzvjRxFkCYIJ5G70Z9gXI79skwNM0AerHLxg8pQXb5X95e1LaGhwrImgnLDoLfdYs8RWfoU0J2dcjCqV2Fn/QrKmq2gsG5sGRfq0kfv4qdgzJrqM;clK8H710cAf/1/fwKpFnyg=="
+secured: "PXbCCDPKMxsMbObvvZWNwAXQTTozX37vNZcwfAGOiQVVhdJ5I36xkBZ2sUJW68H1NNLkGeLMad2aQZqccYWIqP6zf6brQdjwkNRyLjSqOvlCBQN5ClWQPqhIGLYIDvczzF42xla6LFMH80iTuNAQV1cu8NpQlXC7jtwgjksqbRGlfY9TbKC1nowvZ0wPIxVOSDL/mllYqGwTDGAem3l/pkX9GLNMkMBNlVvHQMgli1VTBOTiaa8WdGeNqhOh6/WZRh6XE1rMo+pOYWomDdPFrdqMP43uJ+IMNccUSFXkAsUlOvHlFZuaR++5kj8M5C6D;Y0N1/rOKs3YIU7b4wqZrFg=="
 ---
 

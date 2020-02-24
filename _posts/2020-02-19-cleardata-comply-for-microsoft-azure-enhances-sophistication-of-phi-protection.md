@@ -37,6 +37,19 @@ related:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
         height: 315
+  - title: "CyberMDX completes integration certification for the Microsoft Azure Security Center for IoT"
+    excerpt: "CyberMDX delivers its granular Internet of Medical Things visibility into the single pane of glass of Azure Security Center to provide continuous visibility and threat protection across device types and network layers. All on-premises hospital assets are auto-identified and classified by CyberMDX’s DPI and AI engine. The classified assets are ..."
+    publishedDateTime: 2020-02-24T00:33:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/02/24/cybermdx-microsoft-azure/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 43
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2016/06/09111805/pulse.jpg"
+        width: 1600
+        height: 907
   - title: "SecuriThings Announces Integration with Microsoft Azure Security Center for IoT to Protect Customers' IoT Devices Against Cyber-Attacks"
     excerpt: "/PRNewswire/ -- SecuriThings is the technology provider of Horizon, a software-only solution which detects and mitigates cyber-attacks exploiting the"
     publishedDateTime: 2020-02-20T17:30:00Z

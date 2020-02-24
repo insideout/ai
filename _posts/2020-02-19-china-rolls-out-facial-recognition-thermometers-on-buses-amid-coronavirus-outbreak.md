@@ -138,6 +138,19 @@ related:
       - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F4a5770c6-53f1-11ea-b4ee-385bb4c8d255.jpg?crop=2742%2C1543%2C616%2C465&resize=685"
         width: 685
         height: 385
+  - title: "Moscow Using Facial Recognition To Enforce Coronavirus Quarantine Of 2,500 Travellers From China"
+    excerpt: "Sergei Sobyanin, the mayor of Moscow, in a file photo from 2018 (Photo: Getty Images) Moscow is using facial recognition technology to enforce a quarantine on thousands of people who arrived in Russia from China, over fears of the new coronavirus that has killed over 2,000 people worldwide, according to a new report from the Moscow Times."
+    publishedDateTime: 2020-02-21T16:50:00Z
+    webUrl: "https://www.gizmodo.com.au/2020/02/moscow-using-facial-recognition-to-enforce-coronavirus-quarantine-of-2500-travelers-from-china/"
+    type: article
+    provider:
+      name: Gizmodo Australia
+      domain: gizmodo.com.au
+    quality: 26
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_lfill,w_1200,h_628,q_90/ddahcgnqbfvrkf7kiawb.jpg"
+        width: 1200
+        height: 628
   - title: "OTHER VOICES: Facial-recognition software produces concerns"
     excerpt: "Law enforcers around the world are celebrating the rapidly expanding potential of facial-recognition software to help them catch criminals faster and solve long-dormant cases. Such capabilities in the right hands could reap enormous public-safety dividends. But in the wrong hands, an entirely new dimension in crime, extortion and mayhem could ..."
     publishedDateTime: 2020-02-19T06:00:00Z

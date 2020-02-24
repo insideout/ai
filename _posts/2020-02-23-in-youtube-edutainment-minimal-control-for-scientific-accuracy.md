@@ -25,6 +25,6 @@ images:
     height: 250
     title: "In YouTube \"edutainment,\" minimal control for scientific accuracy"
 
-secured: "UahGXMyt/tNlhu2F8HY2dJ+QhAfYRI0iTBKSNS6IW05d3mPGRjLnVkfdfalhaoJg9QdeidOc1r7I2Ckg9QRpA4Y85dzoJFtlHDmt0njbN6SL1oANoG2NPbEjw6hvbLG4Y7mdQtHpYuemi8oDf4BrlvQVzl3w5mIHeVB8V20NSyYKA2pebzqh9dkavdLIlTw8qeyVQlLddMT2bh627+QsZSwVv2TG6TE4uOpGZ7VGLdEL/hEuf/LY2Cg6OQbVuV5wtEGlUDnRwm8Cn0K3dlmfLoxjDgRO6VoTy6Ufk8THAI7Uw4R5dygIEsNz7cHFr+0F;48fQ8bC06BdSOWO5/qk8ng=="
+secured: "ymt8iJ8A/2H3RyxoTJI8j4tydlv7daC4XL0YEi4IKtiP8MVN4vmb5JLkqT1u/EpYiPusekeeyHt6Jr6Y6I8yPv49WvGzWfaNLRXB4Lid2zQl8JApQ5QzDrWe9emKrtXv4URM2caKMXEkhHKkeqSqnqTPLd0ItF/hdz9uajkxzBkgShacK+H3VxobufAMRQAYk8/dlf3f1N/2w+AYZMez+bNBAA2cnGRrB1vtUGF0007/z8NDu92W3sWQ5pA5ASiQfuXepY+V6DJZh/HRrry8if0dlO6iWusqKI/mM5Oo4vZnAHoZKdrrMR/BT+q7xqIKl2ohmX/8NPKpF4j0gxg2kCEJSn+ANdBtPReTQxGEYYvH/2PiyfTI7siAUDPnx+5FNYFC+5y/I4p3WgJSgWOPFDoQZ7W8XClab2MPLWAF19NFYgNueqIdvWcrVLlD3sFFiFgkCbzCmfFb9IkwpBoVCcXrhtcPIjZYRACKE+XmcQI=;PF/6/TWx2XpYBKBp+5R7fg=="
 ---
 

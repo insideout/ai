@@ -93,6 +93,21 @@ related:
       - url: "https://vertassets.blob.core.windows.net/image/b61ec6d6/b61ec6d6-3bd5-4eb2-a2ec-0e9423fa3414/375_250-big_data.jpg"
         width: 375
         height: 249
+  - title: "How technology is changing the future of higher education"
+    excerpt: "Cruising to class in her driverless car, a student crams from notes projected on the inside of ... using everything from blockchain networks to computer simulations to artificial intelligence, or AI. Theirs is not a future of falling enrollment, financial challenges and closing campuses. It’s a brighter world in which students subscribe ..."
+    publishedDateTime: 2020-02-24T00:07:00Z
+    webUrl: "https://www.orlandosentinel.com/featured/sns-nyt-technology-changing-future-higher-education-20200223-d6gquhklcrcitobiuuhfktwyeq-story.html"
+    ampWebUrl: "https://www.orlandosentinel.com/featured/sns-nyt-technology-changing-future-higher-education-20200223-d6gquhklcrcitobiuuhfktwyeq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-orlandosentinel-com.cdn.ampproject.org/c/s/www.orlandosentinel.com/featured/sns-nyt-technology-changing-future-higher-education-20200223-d6gquhklcrcitobiuuhfktwyeq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Orlando Sentinel
+      domain: orlandosentinel.com
+    quality: 44
+    images:
+      - url: "https://www.orlandosentinel.com/resizer/xE1k5NBEL3qZ5mxQ073yIs4gVsc=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/2C4HNKSUDZEH5DBKS2XBQVJOSY.jpg"
+        width: 1200
+        height: 800
   - title: "Top AI Ted Talks to Watch for Acquiring Better Technology Outlook"
     excerpt: "Technologist Kriti Sharma explores how the lack of diversity in tech is creeping into our AI, offering three ways we can start making more ethical algorithms. Matt Beane does field research on work involving robots to help us understand the implications of intelligent machines for the broader world of work. Any of his projects mean many ..."
     publishedDateTime: 2020-02-22T05:38:00Z

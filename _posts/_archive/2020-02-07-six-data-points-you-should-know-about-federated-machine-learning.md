@@ -5,8 +5,8 @@ excerpt: "Download the authoritative guide: Leading Big Data Vendors: Solutions 
 publishedDateTime: 2020-02-07T18:38:00Z
 webUrl: "https://www.eweek.com/big-data-and-analytics/six-data-points-you-should-know-about-federated-machine-learning"
 type: article
-quality: 34
-heat: 34
+quality: 54
+heat: 64
 published: false
 
 provider:
@@ -21,6 +21,12 @@ topics:
   - AI
   - AI in Finance
 
+images:
+  - url: "https://www.eweek.com/imagesvr_ez/b2bezp/2019/05/eweek.logo.DataPoints-UPDATE_2.jpg?alias=social_image"
+    width: 560
+    height: 300
+    title: "Six Data Points You Should Know about Federated Machine Learning"
+
 related:
   - title: "Federated machine learning: The road to decentralised data collaboration"
     excerpt: "Big data projects and state-of-the-art data science models are using artificial intelligence (AI) and machine learning (ML) to drive innovation across financial services, healthcare, government and other sectors. Take the healthcare industry for example, which is expected to spend roughly $23 billion globally on big data analytics by 2023 ..."
@@ -32,6 +38,6 @@ related:
       domain: itproportal.com
     quality: 20
 
-secured: "HaUkxyx9LA+nRfEeSIrx1Dkau5hdaWc05M/9nCYzw1Nag8qlIAkmGDZ7+de9uQ4vi3neOf1aDOO5J2aDEToObJ6+FaS6TkohZVqYvFMIEg6c7SAUlo2YBtvk7v4qzlp++59LJ45bKUTdLLOS8Qmn2a/DO2q9aBAYLUh8ShQ62SPMt33vC+Xqf7NBdovfSm3TXP8qTARqIb0ZuazTrtT9yIXoInmPSh/4WF3LeU4HNDOqhxnb8MRXkAfkO7yXaDNeicM6tPX08sx1oxcuxlwPFg/P/jhhtfaPIhd8nKpY/F8DSyJ2ifXgH2Nz+COzTOVNLDEgGp8Zkdp9w58TJEjejkh02oTA3pgf9i3MxIwHWwLCk5T7FzK4iSiVXVRbvx6uGOJKOfgBhXwD7UumhIF5vH//l+phzkmkBTC+VsjjhRPpHT5C68mnxW8bx2MgziRvjn5UbQXnbveEsnKphVOf3im7+r4eXoKTGzR11PoWkhE=;IMEK45skHB2V1Jsg/v6EEg=="
+secured: "Ea4vOwTgjpcIYcqlYPn7msJhEf9tbD+3UJRsHufHJyRglOdJbTeNYy/XVuFmJGOL0tbq+BsWEvvPXE/Hh3YuLb25Gas0Jb+wnr2oaPpSNUSkbr2Kk0i+JqtXD9pqF/+xcap2uHtByv9APju+fAY++oPuMOAvzPyNgDYWfC0TE0gy1P+I58VVFa3FbOKQg/KjaQyFpeZBsdm8Z76j1pC/hVU+3Cv/GofG/OKXPRSfM3PhVQ/Kg2bpVRjUA6wBp2e8tHsiKmY7e2KrU9NAAwB9TZKhMxWAQZw2M/Zce9WHCM6/MQsk49ZvCEbIjGfY7MIF;OSKeCk5TT/Vrs67BnoTI0A=="
 ---
 
