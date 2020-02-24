@@ -489,6 +489,6 @@ related:
       domain: knowtechie.com
     quality: 0
 
-secured: "Q1/yrWE19OS4FawtbHI/GGjNRAw7CSvKpFVbsNIAFTfyAoeGIKG0S/vQC0JqziJBhNuCgL9dCnqy4+omxvvsfA60WMs+kShXOkO+ZU5cVowtM3Kxg/XaPa3uFq45EOuGh+TGYBnQ9M9OHVAI5L62mQlGwL19AbbrWks6OiEYEBH/MQ9TVrgf1CBawvZsGzARdvED7L+5Buj+4/Vx5+d0wfhanvNF33nx2JcLuma5Oqc5A9SiIF2W2+xq2SOOjrFyuMaNiSUJ3YmWdfjuc9FNHyzyhu2dBrq2ejDTPoziWjp+zG3CXY+zxelxMFyPh3Nd;K28oyXNnaIOxkJMqSDO8Zw=="
+secured: "IiIvKA/FAV4m5movqYpnSijnjbcy7WiNbv/O3tfY9WY5G1XBb4SIzm/BwgoYhmVJMUoYE/jvw7hfT0v7ji5Cp4tbSEmJFaYP5pV1IQv0PSw+uoO42bsiFSzcBbdXxYOZZoffziKnFUnov2lbQ1Hy+fFzl+t7K/wmmjgHWtXzEtuOJ8d6UG7YVmZs8jEpatw4K48eA7FE2vvGp1DRRMLlmIhEgn0RjrSJ4qoI/uv7IoWjoHmnqpIr6Qj50eKeEfkAsYTLsI9lopDS+hWqy6m73SGEZSeTonGX/C1Hi7kidnMGusbNBrXFlQgs0wvOpa/T1CpaepnxS/FnhyvlBjmky2+fAd3bDcybxYGEQu7gfM7k0xYwequPxJK3xa/b8FR4hZN3TWuIqeN9I9hdA0cKf/U6a7uS3bvkEsIbr3J+6BBH2E4cC78jyg8rGEGK82jGT+6NUv/sVi6uJDgD/2F/gZUuZfU4ccZvZPnJN1Arq2g=;Sge7Tz/A92GL3tiG0A5cxw=="
 ---
 

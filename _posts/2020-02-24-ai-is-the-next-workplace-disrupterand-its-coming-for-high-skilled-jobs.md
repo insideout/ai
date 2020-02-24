@@ -1,35 +1,45 @@
 ---
 category: news
-title: "How AI is impacting the workplace"
-excerpt: "The reason for this may be very straightforward: as impressive as it is (think self-driving cars or Google's DeepMind beating human Go champions) the technology just isn't capable of doing what humans can do. At least not yet. The Brookings Institute's January 2019 report, Automation and Artificial Intelligence: How Machines are Affecting ..."
-publishedDateTime: 2020-02-18T16:55:00Z
-webUrl: "https://www.techrepublic.com/article/how-ai-is-impacting-the-workplace/"
-ampWebUrl: "https://www.techrepublic.com/google-amp/article/how-ai-is-impacting-the-workplace/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ai-is-impacting-the-workplace/"
+title: "AI is the next workplace disrupter—and it’s coming for high-skilled jobs"
+excerpt: "Other jobs most vulnerable to being affected by AI included certain types of engineers, optometrists, graphic designers, software developers and sales managers. Job impact New technology in the workplace has generally been better for higher-skilled workers than for the lower-skilled, said Mark Muro, one of the study’s authors. “Artificial ..."
+publishedDateTime: 2020-02-24T12:54:00Z
+webUrl: "https://www.livemint.com/companies/people/ai-is-the-next-workplace-disrupter-and-it-s-coming-for-high-skilled-jobs-11582531717379.html"
+ampWebUrl: "https://www.livemint.com/companies/people/ai-is-the-next-workplace-disrupter-and-it-s-coming-for-high-skilled-jobs/amp-11582531717379.html"
+cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/people/ai-is-the-next-workplace-disrupter-and-it-s-coming-for-high-skilled-jobs/amp-11582531717379.html"
 type: article
-quality: 89
-heat: 159
-published: true
+quality: 56
+heat: -1
+published: false
 
 provider:
-  name: TechRepublic
-  domain: techrepublic.com
-  images:
-    - url: "/assets/images/organizations/techrepublic.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Mint
+  domain: livemint.com
 
 topics:
   - AI
-  - Google AI
 
 images:
-  - url: "https://tr2.cbsistatic.com/hub/i/r/2018/07/25/e8eedcaf-12c3-4a1e-bf5e-15e6fd477219/resize/1200x/64b60cf8e2906fc42ff960eec0c87377/robots-working-5.jpg"
-    width: 1200
-    height: 900
-    title: "How AI is impacting the workplace"
+  - url: "https://images.livemint.com/img/2020/02/24/600x338/jobs_1582532250210.JPG"
+    width: 600
+    height: 338
+    title: "AI is the next workplace disrupter—and it’s coming for high-skilled jobs"
 
 related:
+  - title: "How AI is impacting the workplace"
+    excerpt: "The reason for this may be very straightforward: as impressive as it is (think self-driving cars or Google's DeepMind beating human Go champions) the technology just isn't capable of doing what humans can do. At least not yet. The Brookings Institute's January 2019 report, Automation and Artificial Intelligence: How Machines are Affecting ..."
+    publishedDateTime: 2020-02-18T16:55:00Z
+    webUrl: "https://www.techrepublic.com/article/how-ai-is-impacting-the-workplace/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/how-ai-is-impacting-the-workplace/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ai-is-impacting-the-workplace/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 89
+    images:
+      - url: "https://tr2.cbsistatic.com/hub/i/r/2018/07/25/e8eedcaf-12c3-4a1e-bf5e-15e6fd477219/resize/1200x/64b60cf8e2906fc42ff960eec0c87377/robots-working-5.jpg"
+        width: 1200
+        height: 900
   - title: "How Does The CCPA Impact Your AI?"
     excerpt: "In the era of growing AI regulation, the CCPA sets a high bar for consumer protections for the coming AI-centric decade."
     publishedDateTime: 2020-02-20T14:18:00Z
@@ -73,21 +83,6 @@ related:
       - url: "https://images.yourstory.com/cs/users/b4d12160-b5c5-11e9-a9c8-dd066755f2ab/profile_image_1564819636222.jpg"
         width: 512
         height: 508
-  - title: "AI is the next workplace disrupter—and it’s coming for high-skilled jobs"
-    excerpt: "Other jobs most vulnerable to being affected by AI included certain types of engineers, optometrists, graphic designers, software developers and sales managers. Job impact New technology in the workplace has generally been better for higher-skilled workers than for the lower-skilled, said Mark Muro, one of the study’s authors. “Artificial ..."
-    publishedDateTime: 2020-02-24T12:54:00Z
-    webUrl: "https://www.livemint.com/companies/people/ai-is-the-next-workplace-disrupter-and-it-s-coming-for-high-skilled-jobs-11582531717379.html"
-    ampWebUrl: "https://www.livemint.com/companies/people/ai-is-the-next-workplace-disrupter-and-it-s-coming-for-high-skilled-jobs/amp-11582531717379.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/people/ai-is-the-next-workplace-disrupter-and-it-s-coming-for-high-skilled-jobs/amp-11582531717379.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 56
-    images:
-      - url: "https://images.livemint.com/img/2020/02/24/600x338/jobs_1582532250210.JPG"
-        width: 600
-        height: 338
   - title: "How Artificial Intelligence Is Transforming Businesses"
     excerpt: "Essentially, AI is a term that is used to describe computer software that simulates human-like/human intelligence processes ... Deep learning relies on artificial neural networks to learn from data. It can be used to help with various different functions, including fraud detection and self-driving cars. In self-driving cars, deep learning ..."
     publishedDateTime: 2020-02-11T17:21:00Z
@@ -124,6 +119,6 @@ related:
       domain: moneycontrol.com
     quality: 24
 
-secured: "9w2zpbI4ZfcBb4dqUZ0hKCPIVn5a3faIzxWMsDIMQ/6YyGi2HlozdlXe/bB+XwcqqAlHn9Lozf/lAVk7aEHQtamHZ5Eazj/iFHuUy13R3XXSpjPExKLCdefM1qPLXMYpUnzS6avDqilX9R9E5xy3wxmbFliCDipmgo701WjxwjtpOxYJ+Y9k6g8RYboFFlHKUYwRpHvD7JSQc/1ApvIbCRM/Sxpi38vxhAqqBeBfRDxSRQUzH4p/4ffP38HvDVJd8TR4dbukAx3KVoSIFcGK3E0sGsq7h+XzcdH0Ku02/eu2Acea1IZvH4ISB0JUWJ1ugHzCyikeb/VNQvBspWWsiG8nJ2bDkOjJigWa6tjVon3zxXcyWX2HvE2Oj/xPOts508Otuu+KJGeTPuuVProPCoKroiBDcwXMnUwuCTD+IDN16tYz4Q7+5EPzikPBl8C2TXSaJysl8n6N7xAzb45h55uaKQxTPTVENew9IAQmd1E=;TCDDlBa942IC7cPcUrK4hA=="
+secured: "xA8iLQ2lHaFXWDO/0QlFKZYB2uJP8TCDT5VgoP7F6zWNTK3oY9PeZMTkMXrEjd1yzxM8f4+QWKsZ7g/uGm5br4e5SZ55Z25JRddtPzPQxi0TpMVKSOMJ0rmWUL2hWFnAfaLOg2+GjhSh3b+bODinU0M3xekPfZ6sgTj911lN54qoBbyt1kS76mIMNlBSZpmmYjF8TZia3qJO4uxVAgFlIBGLGkCqb33KxwFeOg9hJuBTz1l1AVVlnlwx/4/+w5qjqrcEArLj8/CvLuXuCW7clFQkj4OsEQ7vjkWB3fyx1xrWuJiKd62jZB+s5Yedjv96;3aDuoSMpHr8hiOE0HEYFog=="
 ---
 

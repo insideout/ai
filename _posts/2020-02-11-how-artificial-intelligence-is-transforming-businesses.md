@@ -82,6 +82,21 @@ related:
       - url: "https://images.yourstory.com/cs/users/b4d12160-b5c5-11e9-a9c8-dd066755f2ab/profile_image_1564819636222.jpg"
         width: 512
         height: 508
+  - title: "AI is the next workplace disrupter—and it’s coming for high-skilled jobs"
+    excerpt: "Other jobs most vulnerable to being affected by AI included certain types of engineers, optometrists, graphic designers, software developers and sales managers. Job impact New technology in the workplace has generally been better for higher-skilled workers than for the lower-skilled, said Mark Muro, one of the study’s authors. “Artificial ..."
+    publishedDateTime: 2020-02-24T12:54:00Z
+    webUrl: "https://www.livemint.com/companies/people/ai-is-the-next-workplace-disrupter-and-it-s-coming-for-high-skilled-jobs-11582531717379.html"
+    ampWebUrl: "https://www.livemint.com/companies/people/ai-is-the-next-workplace-disrupter-and-it-s-coming-for-high-skilled-jobs/amp-11582531717379.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/people/ai-is-the-next-workplace-disrupter-and-it-s-coming-for-high-skilled-jobs/amp-11582531717379.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 56
+    images:
+      - url: "https://images.livemint.com/img/2020/02/24/600x338/jobs_1582532250210.JPG"
+        width: 600
+        height: 338
   - title: "Five ways artificial intelligence changed the workplace in 2019"
     excerpt: "2019 marks another year of rapid development in the world of artificial intelligence. But while there continues to be much debate over ... Stockholm-based tech firm Furhat Robotics, however, is working to reduce the impact of human bias on candidate screening – all with the help of the robotic interviewer Tengai. Unlike human recruiters ..."
     publishedDateTime: 2020-02-14T10:45:00Z

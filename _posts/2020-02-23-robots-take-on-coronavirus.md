@@ -27,16 +27,16 @@ related:
   - title: "Drones. Disinfecting robots. Supercomputers. The coronavirus outbreak is a test for China’s tech industry"
     excerpt: "The government has long stressed technological innovation as an important pillar of growth, and Beijing has spent billions of dollars on subsidies, loans and bonds designed to spur advancements in artificial intelligence ... from simulation to practice.” And a startup, Shanghai TMIRob, is sending dozens of robots inside hospitals throughout ..."
     publishedDateTime: 2020-02-24T05:07:00Z
-    webUrl: "https://ktvz.com/lifestyle/technology/2020/02/23/drones-disinfecting-robots-supercomputers-the-coronavirus-outbreak-is-a-test-for-chinas-tech-industry/"
+    webUrl: "https://krdo.com/money/2020/02/23/drones-disinfecting-robots-supercomputers-the-coronavirus-outbreak-is-a-test-for-chinas-tech-industry/"
     type: article
     provider:
-      name: KTVZ
-      domain: ktvz.com
+      name: KRDO
+      domain: krdo.com
     quality: 22
     images:
-      - url: "https://ktvz.com/wp-content/uploads/2019/10/ktvz-biz-tech-860x484.png"
-        width: 860
-        height: 484
+      - url: "https://krdo.com/wp-content/themes/storymate-npg/assets/images/weather-icons/9000_clear_night.png"
+        width: 280
+        height: 360
 
 secured: "ujpMDVg12tNZkHEkPAgA2nhwAxLONQxX0HF4tya/4wEAXOfsVzUQCbPNrUmGw2r7ktfJnUZJcmCRmzJJDT6/De5kwf53dBJBB6fqQNC2xowRFcO7pvk2X51Mljx0zfncQl6qGm5T6yvucQFWQFDOXTR7ATDXZzJj0vsACN2Ws65/hz+wxE2Hx0alJtaLbYXOnS41HIi6XJ6tJVk1SySl285h4zj0S3dQ0R5f5vI2HzVHlk6tg5zen0irkB/TnN5i+uVLRg95MJKUoOoYqQCdByin6+bEDWVvNl/tsbKaKIeMIRhz7DtiyClV9C3So03HBJldIrodNHfjFsWMY+ZF3+4t8iLGzmJPPvsEk1zqPsLZSgHqD+2FEp9v2yeRZPtohWNMCdNBBLtdEmExEmUKduinHq1gkd0ZprGcYlKqAyBi3o7FzIaa8Uur1LFFsroM8UylJzDjA3pXUuFXkBZEHIULYYzaPAzXZuMc/Zk/fTQ=;TNtS8J9sbMBxHVflghs4aw=="
 ---

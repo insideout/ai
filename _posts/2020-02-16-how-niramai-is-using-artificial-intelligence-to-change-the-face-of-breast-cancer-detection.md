@@ -76,6 +76,21 @@ related:
       - url: "https://images.yourstory.com/cs/users/b4d12160-b5c5-11e9-a9c8-dd066755f2ab/profile_image_1564819636222.jpg"
         width: 512
         height: 508
+  - title: "AI is the next workplace disrupter—and it’s coming for high-skilled jobs"
+    excerpt: "Other jobs most vulnerable to being affected by AI included certain types of engineers, optometrists, graphic designers, software developers and sales managers. Job impact New technology in the workplace has generally been better for higher-skilled workers than for the lower-skilled, said Mark Muro, one of the study’s authors. “Artificial ..."
+    publishedDateTime: 2020-02-24T12:54:00Z
+    webUrl: "https://www.livemint.com/companies/people/ai-is-the-next-workplace-disrupter-and-it-s-coming-for-high-skilled-jobs-11582531717379.html"
+    ampWebUrl: "https://www.livemint.com/companies/people/ai-is-the-next-workplace-disrupter-and-it-s-coming-for-high-skilled-jobs/amp-11582531717379.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/people/ai-is-the-next-workplace-disrupter-and-it-s-coming-for-high-skilled-jobs/amp-11582531717379.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 56
+    images:
+      - url: "https://images.livemint.com/img/2020/02/24/600x338/jobs_1582532250210.JPG"
+        width: 600
+        height: 338
   - title: "How Artificial Intelligence Is Transforming Businesses"
     excerpt: "Essentially, AI is a term that is used to describe computer software that simulates human-like/human intelligence processes ... Deep learning relies on artificial neural networks to learn from data. It can be used to help with various different functions, including fraud detection and self-driving cars. In self-driving cars, deep learning ..."
     publishedDateTime: 2020-02-11T17:21:00Z
