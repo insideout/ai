@@ -23,6 +23,6 @@ images:
     height: 335
     title: "Fortinet Introduces Self-Learning Artificial Intelligence Appliance for Sub-Second Threat Detection"
 
-secured: "hFuH35ayL8XDhtf4Xh9WCl0UtoVmAsKexzCahSu8RZR4AxK9yrLUMslkq+Xn4UfxnCCdfMq7XbI4bQBK9wdoA+tiI+ZOJmxf4N5JMSYTkxQi4ET6y52MOAq/Qtnq9mrL1JgjxfzxGCO6vooyyoAL6OZVm9F+edCChr7qe1egM8Sg4ub5YAUw+2uTv0GcYn3dpIPkcauJr04t3woKpI6HjWJj+olbdOFm3zMe9eJ2fdco7Mfy7NGKzjEVHoorBxvX4nXDPy2NorP31TlG48m+01/2yt1sgQXgRkIchKxTbQi9V1sX8eEUhZ23vChw9qvD;4d0JC+ea6lDb5D5C3NooWg=="
+secured: "wFeFfKyuLUkRWenkTIAFnWhWfPEVLOH19xlMkd2GhTduHw8VMNO0QKIUIOd++R/YJbsG2qWKzVDMg8Tz1F3s+A5/QADY84KLUjcvOHWb/W0KhAn0idHJSxbQ1xVvBH9+kKmRku2LQaEOfXu9Xq4RAiPKhk2bREGqXOhfutoV8yKzDk9fHbNM9h5w8/1XIx67M2ZEgaOuyeDrABgFIMBqgBWSN0McCMBQ+M5t/8rPYJ9Eu+mK4hfSJpza2bVlLxot4jT0Wgztek32ClzabZ/bkwWZl/05tNQWA7MsyVdFefUBFe0yZCdCqaZDuioO3tD9;mofLiSzaskIEpbB0NpyZ5A=="
 ---
 

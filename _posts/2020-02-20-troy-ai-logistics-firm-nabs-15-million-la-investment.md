@@ -25,8 +25,8 @@ images:
 related:
   - title: "SoftBank leads $265 million investments in two U.S.-based start-ups"
     excerpt: "SoftBank on Monday led a new funding round of $165 million in California-based Karius and invested $100 million in New York-headquartered AI company Behavox, as the technology giant builds a portfolio under its second Vision Fund."
-    publishedDateTime: 2020-02-24T16:10:00Z
-    webUrl: "https://www.reuters.com/article/us-karius-funding/softbank-leads-165-million-capital-boost-for-liquid-biopsy-firm-karius-idUSKCN20I155"
+    publishedDateTime: 2020-02-24T20:41:00Z
+    webUrl: "https://www.reuters.com/article/us-karius-funding-idUSKCN20I155"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN20I155"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN20I155"
     type: article

@@ -23,6 +23,6 @@ images:
     height: 627
     title: "MWC Canceled, GIGABYTE Turns Its Exhibition Digital and Showcases Multi-access Edge Computing Infrastructure to Realize 5G Networks"
 
-secured: "dGA3fFMV/RXKyH3dvbzdK0Nh6klTF0nY77z1J8v+GOXkBfcVi4lfHr4+KdZYen0zvr1OJjHOZo3glxd5N8kciYsxf7v6cr74wdjBvsZjooW/mHj8silddBkyjvNziZbX2CZ009ZsheHyd3+MiEC5/yR9heG63Ab2i1cVvBBAWnR88dza/Stc/yFh6owUmWfZihl1g0YaCGVCK3XqHn0b0Pa66ebs+f/Nn3/Hw6HO/jPdbOOqI3yS7Bx9G8GasFFaP2plgiDyZP+/7SmhTA8M2WDAovcDnQNf0ly9Pc6nx5xZm8QnMwistcRTAgJAoh4h;mNobxyo9fHORYmvNeGEIjg=="
+secured: "vtEM2749S8SnavdhlHI7sG7XykabguI5iSdFmZGlX2PgXv9Nm3nrz3YO9RYERXx0xIz6pbeW9KkKpO5N/nlokmujEhVsIDErrz8cjIC6jnRgTvMaoTRBLkZGMR+vQxwTO4eHTt1QthOvaUVMsgjab6J9bGoR+kg4pyv/SqN3y12F8Xby/NZX3BF+RyIWxKmqJUimIGZtNimsPsLu3Bg2qVX+ZW8bzRUrP5X7s07qArLqEXMYkKuOTgi4qOdLNCdult7+TBEFsyItaNQFmy2tmpbH2Sa6neMt/tF/HR9aQOtZbckp7+waNT9e1BooZKLLPt2eadAPHkCqKl2JRr90smVkZmr7J6AoiZyHlQeTyFKd2nG83LaDROaSZuLDB+whhr3IjMZbWKRjNHSqgAQu/CD/1HTmJv+H9BsW8WZmJGz9IuWbow4fkhiR8k41LDcnbOtBpP/5uOeSIM6xzf4E7Zo0CiqKd/qpkrMid6Ghk+E=;SF6U0UIpfc+fVQ1rk3z2JA=="
 ---
 

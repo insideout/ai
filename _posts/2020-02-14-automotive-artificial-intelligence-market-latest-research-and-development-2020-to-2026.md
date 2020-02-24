@@ -129,6 +129,19 @@ related:
       - url: "https://www.abnewswire.com/uploads/1582017829.jpeg"
         width: 600
         height: 250
+  - title: "Global Artificial Intelligence in BFSI Market Drivers, Restraints & Opportunities to 2026 - ResearchAndMarkets.com"
+    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Artificial Intelligence in BFSI Market by Offerings Solution Technology : Global Opportunity Analysis and Industry Forecast, 2019-2026\" report has been added to ResearchAndMarkets.com's offering. The global artificial intelligence (AI) in BFSI market was valued at $17,765.2 million in 2018 and is expected to reach ..."
+    publishedDateTime: 2020-02-24T17:35:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200224005751/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 30
+    images:
+      - url: "https://mms.businesswire.com/media/20200224005751/en/371054/23/ResearchAndMarkets_800px.jpg"
+        width: 1200
+        height: 627
 
 secured: "cSSAMUM5oN4qTGfrN4RXM6/yGhurinfGw0JLITQEjZDOzhaVZQEowMD8SXZcsYS3dyFxz/coXnF+cSuTLbDCMv8NP7VG1EuUUaYcLNSx0llfMnYAsrt1B4hp1mTAqgmBsbqY1Zbl56vE4GO5QwuGVthutwo84dHd17XdudCPP4mDdByFQ3qMO+giSW6r7vLKPOh41XA9ZuExh46RBtEVFIsRkrs8iZfNnldN/OQ2XLWiUk6Ffe20mPfgxV83T7qxF79MDWpCJLjS2Kt1ViR9QwlvilnnA7Lg2aNUjmr0W2M05j2NJDhMWHuAOQ9mKz/B;5hUayAlJlYA398JbCavJTg=="
 ---

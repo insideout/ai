@@ -37,6 +37,19 @@ related:
       - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-59847-x/MediaObjects/41598_2020_59847_Fig1_HTML.png"
         width: 685
         height: 301
+  - title: "Clinical quantitative cardiac imaging for the assessment of myocardial ischaemia"
+    excerpt: "Of note, no studies have compared outcomes when therapy is decided on the basis of SPECT versus an alternative test ... blood velocity as a semiquantitative measure of myocardial ischaemia with improved image quality. Artificial intelligence solutions using machine learning for automated myocardial segmentation promise automated and fast ..."
+    publishedDateTime: 2020-02-24T21:12:00Z
+    webUrl: "https://www.nature.com/articles/s41569-020-0341-8"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 19
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41569-020-0341-8/MediaObjects/41569_2020_341_Fig1_HTML.png"
+        width: 472
+        height: 685
 
 secured: "l3PNehn/wLhW+nhdvpGS9Abq3829C6vTW09V7nPuNRHDNhsGdnTz+hp2pCCBxLreip1k0sS7q9pQ/k+0sCfb2MJSxp5ZF2ZrDQcUs8XtU+WWREwcB4sSNrpSsJHUM7JhLqWlKwEWyIG9l32mE8kMpl07Jr9QwWYapSHPXL4Lt/G2/SPbidIWkp9i25MPo66RpfscTyElNKrc127ts55VmzTm1E8uBR1WCMRKLvKdzTiWRu2pZ7/mODLhhLZFrRUCzX3IFDZJ1+NqsRpl8D4Lr26KGWIFir1akAJCt0ZN8ufub69+LfUw+Uxv8DG5kh/KGpX5/hdOELYaytOU2Nn4BzTIYHkiEOLqw/EOI6xQeijapdfKwmngT2YVAkZaBwt4T/fO0BOPuxsXevKCmoOkMgWO+UgYtzIEo3wv9KEswXnQjQA20Pt8bAl1NTLbjsdS2o14vxIF+sABG9gC1lJ95DjiCpVnBR02nZwBpWQG0Hw=;xAC6bNMh86BJcsHhn3dcJw=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-20T15:05:00Z
 webUrl: "https://www.marketwatch.com/press-release/the-ai-eye-let-the-chips-fall-where-they-may---the-burgeoning-market-for-artificial-intelligence-chips-2020-02-20"
 type: article
 quality: 85
-heat: 105
+heat: 115
 published: true
 
 provider:
@@ -38,6 +38,19 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 77
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "The AI Eye: Nuance DAX Made Generally Available and Intrinsyc's HDK Featuring Qualcomm Snapdragon Made Available"
+    excerpt: "Point Roberts, WA and Vancouver, BC - February 24, 2020 (Investorideas.com Newswire) Investorideas.com (www.investorideas.com), a global investor news source covering Artificial Intelligence (AI) brings you today's edition of The AI Eye - watching stock news,"
+    publishedDateTime: 2020-02-24T18:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/the-ai-eye-nuance-dax-made-generally-available-and-intrinsycs-hdk-featuring-qualcomm-snapdragon-made-available-2020-02-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

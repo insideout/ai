@@ -330,6 +330,21 @@ related:
       - url: "https://www.news10.com/wp-content/uploads/sites/64/2019/12/6e7454d3c5664eb3b6dd0abd53a8b812.jpg?w=1280&h=720&crop=1"
         width: 1280
         height: 720
+  - title: "Facebook will pay you up to $5 to record your voice"
+    excerpt: "(CNN) — Facebook will pay you for your voice, but don’t expect to get wealthy. The company is paying selected people to record phrases to improve its voice recognition tools. It’s asking them to record the phrase, “Hey Portal, call…” which is its camera-equipped home device, followed by saying the first name of a Facebook friend ..."
+    publishedDateTime: 2020-02-24T12:15:00Z
+    webUrl: "https://www.wate.com/news/facebook-will-pay-you-up-to-5-to-record-your-voice/"
+    ampWebUrl: "https://www.wate.com/news/facebook-will-pay-you-up-to-5-to-record-your-voice/amp/"
+    cdnAmpWebUrl: "https://www-wate-com.cdn.ampproject.org/c/s/www.wate.com/news/facebook-will-pay-you-up-to-5-to-record-your-voice/amp/"
+    type: article
+    provider:
+      name: WATE 6 On Your Side
+      domain: wate.com
+    quality: 44
+    images:
+      - url: "https://www.wate.com/wp-content/uploads/sites/42/2019/10/ece6458a844845c78b688fb4883b9fcb.jpg?w=1280&h=720&crop=1"
+        width: 1280
+        height: 720
   - title: "Hashtag Trending- Facebook pays for your data; AI finds new antibiotic; Instagram Music comes to Canada"
     excerpt: "MIT discovered a new potent antibiotic compound using AI, and Instagram Music has finally come to Canada. Thank you for tuning into Hashtag Trending, it’s Monday, February 24th, and I’m your host, Tom Li. Trending on Google, Facebook will now pay money to improve its voice recognition data. Through Viewpoints, Facebook’s research app ..."
     publishedDateTime: 2020-02-24T14:56:00Z
@@ -403,6 +418,19 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/03/18/facebook-logos_0.jpg"
         width: 1024
         height: 683
+  - title: "Facebook pays users for their voice recordings to improve speech recognition tech"
+    excerpt: "After it was caught in the act of secretly transcribing voice recordings without user consent, Facebook is officially upgrading its speech recognition technology and will start paying users for their voice recordings, writes the Verge. The social network announced it was starting a program called “Pronunciations” within Viewpoints ..."
+    publishedDateTime: 2020-02-24T21:53:00Z
+    webUrl: "https://www.biometricupdate.com/202002/facebook-pays-users-for-their-voice-recordings-to-improve-speech-recognition-tech"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 34
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/01/09162857/voice-biometrics-large2.jpg"
+        width: 900
+        height: 499
   - title: "Facebook will pay for users' voice recordings after it was caught listening to Messenger chats"
     excerpt: "In a program called 'Pronunciations', participants will be payed a small sum, only up to $5, to use the company's market research app Viewpoints for recording various words and phrases that the company will then leverage to train its speech recognition AI. That voice data will be used to improve products like Portal, which is Facebook's smart ..."
     publishedDateTime: 2020-02-21T16:31:00Z

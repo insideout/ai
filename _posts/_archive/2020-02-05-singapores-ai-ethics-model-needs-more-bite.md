@@ -1,8 +1,8 @@
 ---
 category: news
 title: "Singapore's AI ethics model needs more bite"
-excerpt: "Singapore's artificial intelligence (AI) ethics framework is a great start but needs more diverse voices to raise transparency, enhance disclosures on what exactly goes into AI algorithms and start discussions on pricing of personal data Singapore's award-winning model on how artificial intelligence (AI) can be ethically used received a major ..."
-publishedDateTime: 2020-02-05T22:18:00Z
+excerpt: "Singapore's artificial intelligence (AI) ethics framework is a great start but needs more diverse voices to raise transparency, enhance disclosures on what exactly goes into AI algorithms and ..."
+publishedDateTime: 2020-02-05T21:27:00Z
 webUrl: "https://www.straitstimes.com/opinion/singapores-ai-ethics-model-needs-more-bite"
 type: article
 quality: 54
@@ -23,6 +23,6 @@ images:
     height: 335
     title: "Singapore's AI ethics model needs more bite"
 
-secured: "xSlDNnKQ7byw3KiiAeHutzlAfKzTVxC8HiXq5+vS3sTwmLfd+tNeCJtt34b8Wf2J7ZCBxT4IrRX3LQR9taydUdlRBMH28yJiHaNDfqhYEA+Y4Zx2BUnDDHyh/zb4TOIB0pEw/8fwVsRAwTRom4XkvPEHKQyu1zJZSy698UQaz0ZpkfMPf4k7egYegkvdejNIhBmAuaue3n8NPf7XEe/gioYoDr1wsLFnOzwBVU2+z7sNjy2GVr3SoN9/n5M0f7tVjSp+YQYal5e9tPr1veJvdk8AjJBdHux3gmn4P7yebifcHJHFkGlUpRjp6O7zVWrN;Z84qazXN0kO/OG4SqzHVwQ=="
+secured: "v/rt5lrHMQuTeDF7nlkn/s2HU4m/gUqCT7y2rBP/PPsBgOw/maF7Io6DZLjY1dLL97HCgPoQEFI5Dw4HKi4zSQpoFbMXAhvyqzWwUtT7cUg9YAm4tmqLU/u9msNTy704yXNlzKZguidMc+wGBoavmZztj0upNwf84OJW0LjlIok+cvIIONpv1w3byzHQD2p6LOPun1Bltb7WRLySYnEJuZ/Af0oPgQwDZcm/FKAuQmHdRU99XDxWKCQAlH/2N4muhwyyW3/OA9oL2lxKs9j1WAlGObPSabcTMgID57x7UnP77QNK1XyuVqF7M+3OvX24;FacEZWpIhvgtBkKTtnAkXg=="
 ---
 

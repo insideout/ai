@@ -59,6 +59,21 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/02/cfowdf.png?w=1024"
         width: 1024
         height: 558
+  - title: "A team of Imagineers will discuss Disney’s tech breakthroughs at TC Sessions: Robotics + AI, March 3 at UC Berkeley"
+    excerpt: "With TC Sessions: Robotics + AI 2020 a little over a week away, you likely thought we were finished with our big announcements. Understandably. We have top executives from Amazon and Toyota Research, and some of the hottest startups and biggest VCs. But there’s still some excitement left to announce. On March 3, Disney will be returning to ..."
+    publishedDateTime: 2020-02-24T21:12:00Z
+    webUrl: "https://techcrunch.com/2020/02/24/a-team-of-imagineers-will-discuss-disneys-tech-breakthroughs-at-tc-sessions-roboticsai-march-3-at-uc-berkeley/"
+    ampWebUrl: "https://techcrunch.com/2020/02/24/a-team-of-imagineers-will-discuss-disneys-tech-breakthroughs-at-tc-sessions-roboticsai-march-3-at-uc-berkeley/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/24/a-team-of-imagineers-will-discuss-disneys-tech-breakthroughs-at-tc-sessions-roboticsai-march-3-at-uc-berkeley/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 97
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/02/disney_header_1.png?w=1024"
+        width: 1024
+        height: 558
   - title: "Join the Q&A with top speakers at TC Sessions: Robotics + AI (March 3)"
     excerpt: "Over the past four years, TechCrunch has brought together some of the biggest names in robotics — founders, CEOs, VCs and researchers — for TC Sessions: Robotics + AI. The show has provided a unique opportunity to explore the future and present of robotics, AI and the automation technologies that will define our professional and personal lives."
     publishedDateTime: 2020-02-20T03:06:00Z

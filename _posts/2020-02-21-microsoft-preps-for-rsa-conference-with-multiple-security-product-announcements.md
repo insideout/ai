@@ -39,19 +39,6 @@ related:
       - url: "https://images.idgesg.net/images/idge/imported/imageapi/2019/12/09/06/2019-11-16t023310z_1_lynxmpefaf02a_rtroptp_4_microsoft-results-100820758-large.jpg"
         width: 1200
         height: 800
-  - title: "ClearDATA Comply™ for Microsoft Azure Enhances Sophistication of PHI Protection"
-    excerpt: "in healthcare including Azure Kubernetes Service (AKS), Azure Machine Learning as well as PaaS based services like Azure SQL. ClearDATA is a Microoft Gold Partner and has offered managed security, compliance and privacy solutions on Microsoft Azure since 2015. ClearDATA will further collaborate with Microsoft to support its sensitive data ..."
-    publishedDateTime: 2020-02-19T16:53:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-cleardata-complytrade-microsoft-azure-enhances-sophistication-phi-protection-/2020/02/19/9100677.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 50
-    images:
-      - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
-        width: 252
-        height: 335
   - title: "SecuriThings Announces Integration with Microsoft Azure Security Center for IoT to Protect Customers' IoT Devices Against Cyber-Attacks"
     excerpt: "/PRNewswire/ -- SecuriThings is the technology provider of Horizon, a software-only solution which detects and mitigates cyber-attacks exploiting the"
     publishedDateTime: 2020-02-20T17:30:00Z
@@ -65,6 +52,15 @@ related:
       - url: "https://mma.prnewswire.com/media/970547/SecuriThings_Logo.jpg?p=facebook"
         width: 2700
         height: 1414
+  - title: "ClearDATA Comply for Microsoft Azure Enhances Sophistication of PHI Protection"
+    excerpt: "in healthcare including Azure Kubernetes Service (AKS), Azure Machine Learning as well as PaaS based services like Azure SQL. ClearDATA is a Microsoft Gold Partner and has offered managed security, compliance and privacy solutions on Microsoft Azure since 2015. ClearDATA will further collaborate with Microsoft to support its sensitive data ..."
+    publishedDateTime: 2020-02-19T16:00:00Z
+    webUrl: "https://www.financialbuzz.com/cleardata-comply-for-microsoft-azure-enhances-sophistication-of-phi-protection-6/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 30
   - title: "Attivo Networks Announces Integration with Microsoft Azure Security Center for IoT"
     excerpt: "The Azure IoT Edge is a fully managed service built on Azure IoT Hub ... and data deceptions designed to misdirect and reveal attacks efficiently from all threat vectors. Advanced machine-learning makes preparation, deployment, and operations fast and simple to operate for organizations of all sizes. Comprehensive attack analysis and forensics ..."
     publishedDateTime: 2020-02-20T17:30:00Z

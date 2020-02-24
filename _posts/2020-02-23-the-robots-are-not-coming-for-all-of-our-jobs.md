@@ -3,7 +3,7 @@ category: news
 title: "The Robots Are Not Coming for All of Our Jobs"
 excerpt: "They are. Tech affects everything — work, play, love, politics, art, all of it. But the maximalist version, where robots, equipped with artificial intelligence, are going to replace human workers, is way overdone. No doubt they will replace some. But not all. Back in 1987, ancient history in tech time, the economist Robert Solow observed ..."
 publishedDateTime: 2020-02-23T17:32:00Z
-webUrl: "https://jacobinmag.com/2020/02/robots-jobs-united-states-gdp-wages-productivity-growth-economy/"
+webUrl: "https://jacobinmag.com/2020/02/robots-jobs-united-states-gdp-wages-productivity-growth-economy"
 type: article
 quality: 39
 heat: 39
@@ -38,6 +38,6 @@ related:
         width: 2700
         height: 3096
 
-secured: "EgYAUaE58SD9CtfRr7dxoYAH1AVAfpU3lQwWbzarG3MO8tKBGn3jk//IwIOQMau/YLPPwrUUSZzzEmRls3FCGdJaQVq9CbhVelEIncHet53+/kZqEYHvSVhWbj2vfvIMvA9xtf59rrVqeXsJoZIGrjGdl36/jh7K24Rwv3g4dCn55SmI9yk1gkR+tUwl3An3gKLOC9nF0Bxs6GA8qM3/OVBz+PB31PKYuMlQLyb00mPRGF+p2MJXWNLUSKdwq374DJmtVPgWzV+ZUbO1wC8002MhlSa7L5oWYYYkAIPwMNK0lIbkUoCLcnjCzsS8af468scFMwiFMeWm19mBKzWWQ2gxrLez3CuU6ph7P/pSgjRc06S8hmYaJk+sF+XkKnZqxs9n3qG8VQ5Sbwi8jQf/pInugNsbz8icQQWslRhgMmOYtJiDQOmHCcryqPcXJXyr8kiul4Dc9XU2gmntHMPdxF10dfjT4r0aBscCGSUHnE4=;l9VMMY64UiQti9P1FLz/KQ=="
+secured: "MvnnXMg151pIVq1nL1UMcIW2efqUoWympDrLbRolr3ntU9598Fykq68pmyymyyRZ+orP9aemoTtFDTlFzqC9VWx75fHfTCfYDnyWTb/WG302nB1v6lkjKK9DR/4qS9riTnZXdGaj42SkkdRozTiAzxZTvRyyhHAiQVREqeuLfxwK6g/eLPxAkFi/9juHt8j4jhOQXgWvb0jJIfVQuv/A9F1dS6rZebONPPOqfL3aaakYwmYZnKzi86Ct0NVpze1vA1VU4qM/n0oa1rAIWhMetG8yhhKnWPnUdXoJZfLZkTYCFkP2mZD1zvScg7eR+h1x;t2HgfBmOX1IVfbY0mv3gNA=="
 ---
 

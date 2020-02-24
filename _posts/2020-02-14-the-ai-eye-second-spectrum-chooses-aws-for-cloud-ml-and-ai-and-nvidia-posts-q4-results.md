@@ -42,6 +42,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "The AI Eye: Nuance DAX Made Generally Available and Intrinsyc's HDK Featuring Qualcomm Snapdragon Made Available"
+    excerpt: "Point Roberts, WA and Vancouver, BC - February 24, 2020 (Investorideas.com Newswire) Investorideas.com (www.investorideas.com), a global investor news source covering Artificial Intelligence (AI) brings you today's edition of The AI Eye - watching stock news,"
+    publishedDateTime: 2020-02-24T18:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/the-ai-eye-nuance-dax-made-generally-available-and-intrinsycs-hdk-featuring-qualcomm-snapdragon-made-available-2020-02-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "The AI Eye: Let the Chips Fall Where They May - The Burgeoning Market for AI Chips"
     excerpt: "looking at the market for AI Chips and featuring GBT Technologies Inc. (OTC Pink: GTCH). Read the full article on AI Chips on Investorideas.com https://www.investorideas.com/news/2020/artificial-intelligence/02200AIEye.asp As artificial intelligence (AI) markets grow and their accompanying applications are reshaping an array of industries ..."
     publishedDateTime: 2020-02-20T14:46:00Z

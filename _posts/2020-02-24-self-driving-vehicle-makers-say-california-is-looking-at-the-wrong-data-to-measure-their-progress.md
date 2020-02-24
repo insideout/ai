@@ -41,6 +41,21 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200221&t=2&i=1493407844&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG1K1LU"
         width: 830
         height: 545
+  - title: "Cruise can now transport passengers in self-driving cars in CA"
+    excerpt: "Cruise is now one of five self-driving companies allowed to participate in this program. The others are Zoox, Waymo, Pony.ai, Aurora and AutoX. This program is a bit different from the one run by the California Department of Motor Vehicles, which has granted 66 companies permits to test their respective vehicles in the state. Cruise originally ..."
+    publishedDateTime: 2020-02-24T21:26:00Z
+    webUrl: "https://techcrunch.com/2020/02/24/cruise-can-now-transport-passengers-in-self-driving-cars-in-ca/"
+    ampWebUrl: "https://techcrunch.com/2020/02/24/cruise-can-now-transport-passengers-in-self-driving-cars-in-ca/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/24/cruise-can-now-transport-passengers-in-self-driving-cars-in-ca/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 74
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/01/Cruise-car-in-Hayes-Valley-San-Francisco.jpg?w=1024"
+        width: 1024
+        height: 576
   - title: "Self-driving car companies complain California test data may mislead"
     excerpt: "(Reuters) — Developers of self-driving cars are amping up criticism of a California reporting requirement on test data, saying the data could mislead, as the state prepares to release the latest results for 2019. Companies such as General Motors’ Cruise and startup Aurora have said the metric, called disengagements, is not an accurate or ..."
     publishedDateTime: 2020-02-22T19:56:00Z
@@ -55,6 +70,6 @@ related:
         width: 1200
         height: 600
 
-secured: "lRfXY56xrtqTJkCH0BoTYi0aR4IHeTcWcYX8hyYjIMQyL5+xIwOUI2cUavF2qb8E5xDqiuU47kyviLkxLHSj9Dr0ll216xb6ttDpQp3WDqGsmYTj5U+8x68IeiiyYDT33eht72bxDObvYJqQMs3wAuYhlbW1cbr3FgYzdwoRNgOb3mFgaFTjrGWLDom2GjGgoqjBDp3mIrFD5JdJRRqL3Vq2nq7tNx29wXRWs9b9QJ1/NdfJruaLWrqBr4xTwi5dsRLF0w2nUQ9rQ0MOGRsNF8Y38gHhTZNXz/X3f5BH4xLhRVta8FDRxIV/n/R9eN/7;eODiyMHhAS4DYRb9r599iQ=="
+secured: "p5fEcB5VD4WahdCPmoHM1WZnHRygNqxb1i0VjUxC42e8hDXvGfzl0TjNwC5AVlNSo4INa96+HYl/a8OvOzuVenXzS7K2q0bLnbrUFoSxzzULD8ayN80DwYbMLUtvdOF6iA8ouT+fjOrGmbCRg46A6dQWe7D2lEBTUEENYLTwPJMX9t8E1ZI/IvxJSqxSY+rECh30evbXo9L6IHOHv03pYHvA7eZjHUCTjpHijvnEYkZneZlC0KDTva5+FSWgYSS7vPMShst/+xanx16rC2aSg9kRyEPRVDxMXGX9TKKTc+cyYHIPanG9xQ0W4ntyYNPYSZzH9Ycn8MoJhds84Pxjj9y659JZtHLvrZgZbfq8JEM1/blc8B66IsjQKkFYqpMDED2O5ikYp4nvtmTBOPmmsXGeJbhC2B/VtOkHLTYfxWjpYSb9t3kxs4AygJD+LRqJX4H4S4GFQKGMaGz2Hatzdi7RPXaE9/n4WZ9kbAB4SyY=;WEDL3r8qq3K6Z865SHRxCQ=="
 ---
 

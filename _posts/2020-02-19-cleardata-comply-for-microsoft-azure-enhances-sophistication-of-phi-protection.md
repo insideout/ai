@@ -1,27 +1,21 @@
 ---
 category: news
-title: "ClearDATA Comply™ for Microsoft Azure Enhances Sophistication of PHI Protection"
-excerpt: "in healthcare including Azure Kubernetes Service (AKS), Azure Machine Learning as well as PaaS based services like Azure SQL. ClearDATA is a Microoft Gold Partner and has offered managed security, compliance and privacy solutions on Microsoft Azure since 2015. ClearDATA will further collaborate with Microsoft to support its sensitive data ..."
-publishedDateTime: 2020-02-19T16:53:00Z
-webUrl: "https://www.tmcnet.com/usubmit/-cleardata-complytrade-microsoft-azure-enhances-sophistication-phi-protection-/2020/02/19/9100677.htm"
+title: "ClearDATA Comply for Microsoft Azure Enhances Sophistication of PHI Protection"
+excerpt: "in healthcare including Azure Kubernetes Service (AKS), Azure Machine Learning as well as PaaS based services like Azure SQL. ClearDATA is a Microsoft Gold Partner and has offered managed security, compliance and privacy solutions on Microsoft Azure since 2015. ClearDATA will further collaborate with Microsoft to support its sensitive data ..."
+publishedDateTime: 2020-02-19T16:00:00Z
+webUrl: "https://www.financialbuzz.com/cleardata-comply-for-microsoft-azure-enhances-sophistication-of-phi-protection-6/"
 type: article
-quality: 50
+quality: 30
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Financial Buzz
+  domain: financialbuzz.com
 
 topics:
   - AI
   - Microsoft AI
-
-images:
-  - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
-    width: 252
-    height: 335
-    title: "ClearDATA Comply™ for Microsoft Azure Enhances Sophistication of PHI Protection"
 
 related:
   - title: "Microsoft Threat Protection: an Israeli-built AI bundle of Redmond's security services"
@@ -75,6 +69,6 @@ related:
       domain: businesswire.com
     quality: 28
 
-secured: "5/23QbcvqvX4faFgeuNq5PNko2gDRZzV5SC/MqxrHPZlRxIsHNrqV4i0wGolPreHzLZCeb16YpYSNXFSy6vEK3/4Y/dD4nvP+8acJBCdZ9gcZAoxbh7DANeCZIP+j7djOZiWXeCjoGTIi0ycZoKs/lfqoNgkNHXhC6rJl/qbvTZcnGSCKfa/bsV0439H22aJnPztdALVD3bni3ubbeymD9E0nO3e01/8NCKk67ssDwPvg98M6gkFNQgu4tj5kGhD17tN5VA5Fnlw2mctWPEYRHqtQ8zvKTJGNUN1g4SYfF565LsUytH+rtlLw5/JHqxW;F/tqd1bpYp3FdjLgEgHl6w=="
+secured: "s2vgX14zLRfLd9hpTBr0QxwlDL3j42FGAiHQQESEGr217GRB1fZAGUY5vEFc270AvX0O+cjQkb42Risue7fUwJ0tTRKH49XasZ9fErmcySqexjnT8kIjrjn1APOWd4v5N/RAApocFpeopyEltyOSGQNI21CrqqIQxEAHmdMVpG3McObvjDnqz1L0W8DJvUbC4mB+YlxIlqVVzvgWQ0cg1evxs55W5SoUqctb5t4BvJku4mjbk1Y4Eo9xnWYL2Du3TWmfpCV3e4StaQk5vATO+6rPZZ2UVDSHGXIpylMUAgKhLKk09SAdhs5F4g71uyk0;FF88DM5i9nBkYfQj7c+3SQ=="
 ---
 

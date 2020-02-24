@@ -76,6 +76,19 @@ related:
       - url: "https://images.yourstory.com/cs/users/b4d12160-b5c5-11e9-a9c8-dd066755f2ab/profile_image_1564819636222.jpg"
         width: 512
         height: 508
+  - title: "How the 'Amazon of China' is using AI to reduce the need for human workers, including teaching robots how to be more polite"
+    excerpt: "JD.com's tech cut steps for its facility workers by 60%, according to its innovation head. It is starting to teach robots to be polite to the public."
+    publishedDateTime: 2020-02-24T21:29:00Z
+    webUrl: "https://www.businessinsider.com/how-jdcom-using-robots-and-other-tech-compete-against-amazon-2020-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 58
+    images:
+      - url: "https://i.insider.com/5e53da52fee23d64d40e1ad6?width=1200&format=jpeg"
+        width: 1200
+        height: 600
   - title: "AI is the next workplace disrupter—and it’s coming for high-skilled jobs"
     excerpt: "Other jobs most vulnerable to being affected by AI included certain types of engineers, optometrists, graphic designers, software developers and sales managers. Job impact New technology in the workplace has generally been better for higher-skilled workers than for the lower-skilled, said Mark Muro, one of the study’s authors. “Artificial ..."
     publishedDateTime: 2020-02-24T12:54:00Z

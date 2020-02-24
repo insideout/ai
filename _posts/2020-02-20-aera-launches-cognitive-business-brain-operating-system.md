@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2020/02/20/aera-launch
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2020/02/20/aera-launches-cognitive-business-brain-operating-system/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -30,6 +30,19 @@ images:
     title: "Aera Launches Cognitive ‘Business Brain’ Operating System"
 
 related:
+  - title: "Udacity Launches AI for Business Executive Training Program"
+    excerpt: "It’s broken up into seven units: The Paradigm Shift; The Math Behind the Magic; Architectures of AI Systems; Working with Data; Accuracy, Bias, and Ethics; Gathering Feedback; and Thinking Bigger. It then culminates in a capstone project that asks learners to create their own AI business strategy. Bringing Business Leaders Up to Speed with ..."
+    publishedDateTime: 2020-02-24T20:02:00Z
+    webUrl: "https://news.elearninginside.com/udacity-launches-ai-for-business-executive-training-program/"
+    type: article
+    provider:
+      name: eLearningInside News
+      domain: elearninginside.com
+    quality: 39
+    images:
+      - url: "https://news.elearninginside.com/wp-content/uploads/2020/02/29575864642_ab846cae41_k.jpg"
+        width: 1598
+        height: 869
   - title: "Automation as self-driving glass box - Aera's Fred Laluyaux on the firm's Cognitive Operating System platform play"
     excerpt: "The key theme for Aera is that its new platform enables the ‘Self-Driving Enterprise’, a term that the company has trademarked. The announcement says: Aera harmonises both internal and external data across the enterprise; applies science (analytics, search, optimisation, modelling, and data science) to derive insights and recommendations ..."
     publishedDateTime: 2020-02-20T16:14:00Z

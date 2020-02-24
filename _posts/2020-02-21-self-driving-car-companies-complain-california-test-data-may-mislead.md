@@ -8,7 +8,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN20F2F7"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN20F2F7"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -30,6 +30,21 @@ images:
     title: "Self-driving car companies complain California test data may mislead"
 
 related:
+  - title: "Cruise can now transport passengers in self-driving cars in CA"
+    excerpt: "Cruise is now one of five self-driving companies allowed to participate in this program. The others are Zoox, Waymo, Pony.ai, Aurora and AutoX. This program is a bit different from the one run by the California Department of Motor Vehicles, which has granted 66 companies permits to test their respective vehicles in the state. Cruise originally ..."
+    publishedDateTime: 2020-02-24T21:26:00Z
+    webUrl: "https://techcrunch.com/2020/02/24/cruise-can-now-transport-passengers-in-self-driving-cars-in-ca/"
+    ampWebUrl: "https://techcrunch.com/2020/02/24/cruise-can-now-transport-passengers-in-self-driving-cars-in-ca/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/24/cruise-can-now-transport-passengers-in-self-driving-cars-in-ca/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 74
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/01/Cruise-car-in-Hayes-Valley-San-Francisco.jpg?w=1024"
+        width: 1024
+        height: 576
   - title: "Self-driving car companies complain California test data may mislead"
     excerpt: "(Reuters) — Developers of self-driving cars are amping up criticism of a California reporting requirement on test data, saying the data could mislead, as the state prepares to release the latest results for 2019. Companies such as General Motors’ Cruise and startup Aurora have said the metric, called disengagements, is not an accurate or ..."
     publishedDateTime: 2020-02-22T19:56:00Z

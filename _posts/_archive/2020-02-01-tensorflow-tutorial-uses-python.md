@@ -23,6 +23,6 @@ images:
     height: 600
     title: "Tensorflow Tutorial Uses Python"
 
-secured: "9jgD99CwYQRXCWXd9b2SFLtYIMtr2WZncovYP4kzCZA68NU7/ZV5FrjCZVtk3SothUFXRm7WnHKXJMc/3iEcYncLzLKrsVk7R4FeOtykgN5fGcuQXa3jLrhRDPpTjM+AgJ3DOLV9grrLALCEo7cJkODAMLA/t8q+hNp/Iae9LNUTiTE9TctfQcrKkVZMv2//7nykmLMf3C9gRMaFKtzTddY/lsyykTMKdehN0gt1ud3fHxHknz70aMy9Mcsna165fox1nDnAnCqrfsfDWxjGxphaZX7nMwFI1DzgyPqEUq6xbsLdYO0FLoZVsub+wOlq;FoxYPQYGXtqssRQpuaquzA=="
+secured: "4ulMjbvsmbbBJAWb76cE7vKTJh/wMbmNOYSfiOEwb9MrKi95iY4U4jEtFavb7Y7jvQj39af1FPT3tXwvjQsfHWo2NcP2/x/1yL8b0ON0NxwOm96jlrnH1L4OFWozpxQjgC35VAevZr/BA3pcV/qzwOiZRewAG+vOncYiBmYNsgWTnIsgVCM7BnaX/PPTxxR5zm/fdym1+WHkojE4J2HL2ezH6zKSbgP1wAaOc0pfrawqaQGgew6WqOa1qNN+ZqMVHcbxiocw5Y0lf5Qh0SdhUJWbf3IeaRMRM6La9KnFM3vR62n7COGlVxGHoj57MM/R;HvWQyxZPDYuw0D2aAwLjRA=="
 ---
 

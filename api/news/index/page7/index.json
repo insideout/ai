@@ -2,51 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_posts/2020-02-20-openai-text-generator-gpt-2-creates-video-game-walkthrough-for-most-tedious-game-in-history.md",
-      "title": "OpenAI Text Generator GPT-2 Creates Video Game Walkthrough for 'Most Tedious Game in History'",
-      "excerpt": "An advanced language model may one day be used in game design, experiments with 'Overwatch,' 'Dota 2' and 'Final Fantasy VII' demonstrate.",
-      "heat": 78,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.newsweek.com/openai-text-generator-gpt-2-video-game-walkthrough-most-tedious-1488334",
-      "ampWebUrl": "https://www.newsweek.com/openai-text-generator-gpt-2-video-game-walkthrough-most-tedious-1488334?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/openai-text-generator-gpt-2-video-game-walkthrough-most-tedious-1488334?amp=1",
-      "publishedDateTime": "2020-02-20T13:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1568474/goldeneye-n64-artificial-intelligence.jpg",
-          "width": 2500,
-          "height": 1406,
-          "title": "OpenAI Text Generator GPT-2 Creates Video Game Walkthrough for 'Most Tedious Game in History'",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_posts/2020-02-20-predictions-2020-what-to-expect-in-ai-ml-rpa-sectors.md",
       "title": "Predictions 2020: What to Expect in AI, ML, RPA Sectors",
       "excerpt": "Here is another in a list of articles eWEEK is now publishing about predictions for 2020 (and sometimes beyond!). AI adoption in non-consumer internet industries is still in an early stage, and many projects are stuck in pilot purgatory because of challenges ranging from a lack of data to knowing how to manage complex machine learning workflows.",
@@ -247,7 +202,7 @@
       "path": "_posts/2020-02-20-the-ai-eye-let-the-chips-fall-where-they-may-the-burgeoning-market-for-artificial-intelligence-chips.md",
       "title": "The AI Eye: Let the Chips Fall Where They May - The Burgeoning Market for Artificial Intelligence Chips",
       "excerpt": "Point Roberts, WA and Vancouver, BC - February 20, 2020 (Investorideas.com Newswire) Investorideas.com (www.investorideas.com), a global investor news source covering Artificial Intelligence (AI) brings you today's edition of The AI Eye,",
-      "heat": 105,
+      "heat": 115,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.marketwatch.com/press-release/the-ai-eye-let-the-chips-fall-where-they-may---the-burgeoning-market-for-artificial-intelligence-chips-2020-02-20",
@@ -716,7 +671,7 @@
       "path": "_posts/2020-02-21-artificial-intelligence-ai-market-latest-advancements-and-technology-growth-2020-to-2026.md",
       "title": "Artificial Intelligence (AI) Market Latest Advancements and Technology Growth 2020 to 2026",
       "excerpt": "Global Artificial Intelligence (AI) Market research report published by market insight reports explores the current outlook in global and key regions from the perspective of Major Players, Countries,",
-      "heat": 154,
+      "heat": 164,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-latest-advancements-and-technology-growth-2020-to-2026-2020-02-21",
@@ -1363,7 +1318,7 @@
       "path": "_posts/2020-02-21-self-driving-car-companies-complain-california-test-data-may-mislead.md",
       "title": "Self-driving car companies complain California test data may mislead",
       "excerpt": "Developers of self-driving cars are amping up criticism of a California reporting requirement on test data, saying the data could mislead, as the state prepares to release the latest results for 2019.",
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.reuters.com/article/us-autos-self-driving-california/self-driving-car-companies-complain-california-test-data-may-mislead-idUSKBN20F2F7",
@@ -2102,6 +2057,44 @@
         "AI",
         "Google AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-24-ai-android-teaching-assistant-gives-students-hands-on-robotics-experience.md",
+      "title": "AI Android Teaching Assistant Gives Students Hands-on Robotics Experience",
+      "excerpt": "Students in an ethics course are the first to work with an artificial intelligence teaching assistant in California's Notre Dame de Namur University. Professor \"Maria Bot,\" as the android is called, serves as the TA for Professor William Barry's class on the \"Ethics of Emerging Technology.\" The AI bot was introduced in the spring 2020 semester.",
+      "heat": 80,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://campustechnology.com/articles/2020/02/24/ai-android-teaching-assistant-gives-students-hands-on-robotics-experience.aspx?admgarea=news",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-24T13:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Campus Technology",
+        "domain": "campustechnology.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://campustechnology.com/-/media/EDU/CampusTechnology/2020-images/20200224MariaBotfigure1.jpg",
+          "width": 300,
+          "height": 243,
+          "title": "AI Android Teaching Assistant Gives Students Hands-on Robotics Experience",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "AI in Robotics"
       ]
     },
     {

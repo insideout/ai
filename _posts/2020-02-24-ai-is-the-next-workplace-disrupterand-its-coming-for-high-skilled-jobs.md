@@ -83,6 +83,19 @@ related:
       - url: "https://images.yourstory.com/cs/users/b4d12160-b5c5-11e9-a9c8-dd066755f2ab/profile_image_1564819636222.jpg"
         width: 512
         height: 508
+  - title: "How the 'Amazon of China' is using AI to reduce the need for human workers, including teaching robots how to be more polite"
+    excerpt: "JD.com's tech cut steps for its facility workers by 60%, according to its innovation head. It is starting to teach robots to be polite to the public."
+    publishedDateTime: 2020-02-24T21:29:00Z
+    webUrl: "https://www.businessinsider.com/how-jdcom-using-robots-and-other-tech-compete-against-amazon-2020-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 58
+    images:
+      - url: "https://i.insider.com/5e53da52fee23d64d40e1ad6?width=1200&format=jpeg"
+        width: 1200
+        height: 600
   - title: "How Artificial Intelligence Is Transforming Businesses"
     excerpt: "Essentially, AI is a term that is used to describe computer software that simulates human-like/human intelligence processes ... Deep learning relies on artificial neural networks to learn from data. It can be used to help with various different functions, including fraud detection and self-driving cars. In self-driving cars, deep learning ..."
     publishedDateTime: 2020-02-11T17:21:00Z
