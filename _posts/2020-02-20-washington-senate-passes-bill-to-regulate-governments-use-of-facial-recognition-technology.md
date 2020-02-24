@@ -33,6 +33,21 @@ related:
       - url: "https://images.wsj.net/im-156193/social"
         width: 1280
         height: 640
+  - title: "Met police chief: facial recognition technology critics are ill-informed"
+    excerpt: "Cressida Dick defends tech after civil liberties groups raise fears over accuracy and privacy"
+    publishedDateTime: 2020-02-24T15:43:00Z
+    webUrl: "https://www.theguardian.com/technology/2020/feb/24/met-police-chief-cressida-dick-facial-recognition-technology-critics-ill-informed"
+    ampWebUrl: "https://amp.theguardian.com/technology/2020/feb/24/met-police-chief-cressida-dick-facial-recognition-technology-critics-ill-informed"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/feb/24/met-police-chief-cressida-dick-facial-recognition-technology-critics-ill-informed"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 58
+    images:
+      - url: "https://i.guim.co.uk/img/media/6527a5db37946bab14375a67ded41e294359749b/109_407_2779_1667/master/2779.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8db0391fdb6cc0f6fc84eadbd17fff8d"
+        width: 600
+        height: 360
   - title: "Cressida Dick: Facial recognition critics should face up to victims of crime"
     excerpt: "Privacy concerns over live facial recognition are ‘much smaller’ than the need to protect the public from ‘a knife through the chest’, Britain’s most senior police officer has said. Metropolitan Police Commissioner Dame Cressida Dick told a conference in Whitehall that critics of the use of such technology would need to justify to ..."
     publishedDateTime: 2020-02-24T17:36:00Z

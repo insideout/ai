@@ -115,6 +115,21 @@ related:
       - url: "https://i.guim.co.uk/img/media/5ad9424c30e580fdc638c52ef7cd200e61ad6e07/363_670_3568_2141/master/3568.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0b80c4e4b7fb6e665ef4567b4a989f87"
         width: 600
         height: 360
+  - title: "MIT Scientists Identify Powerful Antibiotic Using Artificial Intelligence"
+    excerpt: "BOSTON (CBS) — Bacteria are becoming increasingly resistant to antibiotics, but using artificial intelligence, scientists at Massachusetts Institute of Technology have developed a new powerful antibiotic. Only a few antibiotics have been developed in recent years because the process is costly and time-consuming. But researchers at MIT trained ..."
+    publishedDateTime: 2020-02-24T20:38:00Z
+    webUrl: "https://boston.cbslocal.com/2020/02/24/powerful-antibiotic-artificial-intelligence-massachusetts-institute-of-technology-healthwatch-dr-mallika-marshall/"
+    ampWebUrl: "https://boston.cbslocal.com/2020/02/24/powerful-antibiotic-artificial-intelligence-massachusetts-institute-of-technology-healthwatch-dr-mallika-marshall/amp/"
+    cdnAmpWebUrl: "https://boston-cbslocal-com.cdn.ampproject.org/c/s/boston.cbslocal.com/2020/02/24/powerful-antibiotic-artificial-intelligence-massachusetts-institute-of-technology-healthwatch-dr-mallika-marshall/amp/"
+    type: article
+    provider:
+      name: CBS Boston / WBZ
+      domain: cbslocal.com
+    quality: 56
+    images:
+      - url: "https://boston.cbslocal.com/wp-content/uploads/sites/3859903/2020/02/mit.jpg"
+        width: 1024
+        height: 576
   - title: "Medical Breakthrough: Deep Learning Ai Discovers Surprising New Antibiotics"
     excerpt: "Deep learning AI can recognize individual faces. The same technology is being adapted to recognize potential antibiotics."
     publishedDateTime: 2020-02-20T20:15:00Z

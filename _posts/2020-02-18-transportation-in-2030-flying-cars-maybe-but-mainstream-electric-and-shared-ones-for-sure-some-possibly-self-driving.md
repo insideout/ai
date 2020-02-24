@@ -136,6 +136,19 @@ related:
       - url: "https://media.arkansasonline.com/static/ao_redesign/graphics/adgog.jpg"
         width: 340
         height: 246
+  - title: "Look under the road to stay on the road"
+    excerpt: "If you’re a driverless car, the answer may be to look under it. US researchers are experimenting with the use of ground-penetrating radar (GPR) to give vehicles an idea of exactly where they are, even when snow, rain, darkness and other acts of nature are making that difficult. A team from MIT’s Computer Science and Artificial Intelligence ..."
+    publishedDateTime: 2020-02-24T20:42:00Z
+    webUrl: "https://cosmosmagazine.com/technology/look-under-the-road-to-stay-on-the-road"
+    type: article
+    provider:
+      name: Cosmos
+      domain: cosmosmagazine.com
+    quality: 24
+    images:
+      - url: "https://cosmos-images1.imgix.net/file/spina/photo/21363/200225-Snow_car.jpg?ixlib=rails-2.1.4&auto=format&ch=Width%2CDPR&fit=max&w=835"
+        width: 835
+        height: 472
 
 secured: "5qwdzS+a5hB8dpTBqM0oFcYQYQna4pxdKW7jF68xJl7Hybd32XIzkHMrOg82WmIxBD9dS51T2CNW1Q6BC8rDVfzl0+4Dm3lqJOQ+E11w9HqW0XdtzZBQRyIBXwLf9Xms7H/j9kENZ+P1/WlwKLqVgRLUKSbm3IExbOJeivdXQaBww/QEcVEW8BnqnvwjCSqjUSm+fRXICsORnfaEutX1BznLix6E+jUQnUB6xE/HHwF59q+yafQJRTEw4Nd7zxXHwHEbQv18vs4/tpgu7iN/t/it6FSb40vqo4qqdM92UtMg4FxYmq3p6zkBeXNcoNTokU2keq891yMNb1ezU53xANifbDM1l6Z7rxn2AlE718CubCCdBXH6M3o1fZ6t3zhCXlDuSI64a2YB4FbF84NaYhbhlwBUzTkV9FQ8Vsy+yOfA6dEIxeiZwcHV92QWa6bnOpYkZcU3XzRAk9wQDilJeGGc7GDAPtG3++OWTerhuIM=;ois/NsX37ZOC4x+q/lsSbw=="
 ---

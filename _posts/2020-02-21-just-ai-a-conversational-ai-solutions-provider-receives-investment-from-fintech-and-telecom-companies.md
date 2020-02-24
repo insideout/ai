@@ -33,6 +33,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Combining Quantum Mechanics and Machine-Learning Calculations for Anharmonic Corrections to Vibrational Frequencies"
+    excerpt: "Center for Nonlinear Phenomena and Complex Systems, Code Postal 231, Université Libre de Bruxelles, Boulevard du Triomphe, 1050 Brussels, Belgium Article Views are the COUNTER-compliant sum of full text article downloads since November 2008 (both PDF and HTML) across all institutions and individuals. These metrics are regularly updated to ..."
+    publishedDateTime: 2020-02-23T20:02:00Z
+    webUrl: "https://pubs.acs.org/doi/full/10.1021/acs.jctc.9b00964"
+    type: article
+    provider:
+      name: C&EN
+      domain: acs.org
+    quality: 2
+    images:
+      - url: "https://pubs.acs.org/pb-assets/images/footer_logos/logo-cope-1525375622977.png"
+        width: 323
+        height: 208
 
 secured: "hem3kNND5KBPl3ADaW/2UwS9J+lfFY1JZMj1Gp3+QYQGI2tFrlO17m9doVmroViNoEtrl4WDCO7rc+kcvFQlRuSPsZ1AAWYrsL5i/jAh+E1DryxbXsm5lY5wzH1wslNeeES0uKeZ4JbDeFlCakw0JPO2QSXFVHmqRhDuG5xN1kFmygwpdGbJ8RUqSdf090QU/4ntqjax/hx20PrDRTQYXt28vv5ddqjBflXcHY7ItEeovsOjQkrYhebC0FZTl7EjPR6AJ6D65L5wjT3mfsj88lKt/DmeGLyj+F9tEdxAm6v0KMwOsXHOmNXIrRvxTIgF;egFbI/dCy/HhRjw9SJsIiw=="
 ---

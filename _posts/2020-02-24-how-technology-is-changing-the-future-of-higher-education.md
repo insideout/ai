@@ -74,14 +74,14 @@ related:
   - title: "The top 5 technologies that will change health care over the next decade"
     excerpt: "Dr. Beralan Mesko, aka The Medical Futurist, says with advancements in exoskeleton technology, AI’s ever-increasing importance in health care,"
     publishedDateTime: 2020-02-24T14:48:00Z
-    webUrl: "https://www.marketwatch.com/story/the-top-5-technologies-that-will-change-health-care-over-the-next-decade-2020-02-24?link=MW_latest_news"
+    webUrl: "https://www.marketwatch.com/story/the-top-5-technologies-that-will-change-health-care-over-the-next-decade-2020-02-24"
     ampWebUrl: "https://www.marketwatch.com/amp/story/guid/626A6AC2-5713-11EA-BF64-5AC3A6D77C0D"
     cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/guid/626A6AC2-5713-11EA-BF64-5AC3A6D77C0D"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 75
+    quality: 73
     images:
       - url: "https://s.marketwatch.com/public/resources/images/MW-IA016_0220_b_ZH_20200210155254.jpg"
         width: 890

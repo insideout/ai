@@ -3,11 +3,11 @@ category: news
 title: "The top 5 technologies that will change health care over the next decade"
 excerpt: "Dr. Beralan Mesko, aka The Medical Futurist, says with advancements in exoskeleton technology, AI’s ever-increasing importance in health care,"
 publishedDateTime: 2020-02-24T14:48:00Z
-webUrl: "https://www.marketwatch.com/story/the-top-5-technologies-that-will-change-health-care-over-the-next-decade-2020-02-24?link=MW_latest_news"
+webUrl: "https://www.marketwatch.com/story/the-top-5-technologies-that-will-change-health-care-over-the-next-decade-2020-02-24"
 ampWebUrl: "https://www.marketwatch.com/amp/story/guid/626A6AC2-5713-11EA-BF64-5AC3A6D77C0D"
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/guid/626A6AC2-5713-11EA-BF64-5AC3A6D77C0D"
 type: article
-quality: 75
+quality: 73
 heat: -1
 published: false
 
@@ -21,7 +21,6 @@ provider:
 
 topics:
   - AI
-  - Google AI
   - AI in Healthcare
 
 images:
@@ -192,6 +191,6 @@ related:
       domain: marketwatch.com
     quality: 29
 
-secured: "ED4bvjYHr/StByvgAFmOeC3FnDt3hugLGAPxnUChqSm9BbrnIAktjhFb06VvZP4GIpLdAV6ALSK59J7tWGjSsIwIaa/w4qsnuwimg4Ks7KTBwdTV5zauH7C5GjeAIJFY7JF4NdBtf0Yfc8idVFeWS9AbUAcetFKvIsqF8AhlbL9YYk3FecsjqdM2x33cbLoMY7LpkwaQ0/ArItRfIP5d0p+M783JUDTKoGjrvHc5K+cqVAdEbRKAvr/pEZ/7x6lj953M1+GJG0QT397I8jNb//CcLGm0QCRvmhkSXSv1O0JAAMWRljt+k83jFqUIDoO5;jOwCYTlTcAMRCEtYXkQi3A=="
+secured: "3gvK9RW7LZDEkrwkaC02s3UXv9QdGAmAXmgWDnEv0xYeMRmIT4jbMsLN6eqjE1dFEr1IOnT09jR8Vx2XqM873QArEAswH1HiS+oswrBs5tugQJGm/ec4EI2RbDqiYvCDPixCWPGB2qUI1a+rus7OIAw+0HSsr4V2hxpoGZVLkDhKqymGUzjMedahmOFR9901B/COWIrPrkz1sB3zRrvbb1VW7aau3OjcaknmlluKBGF1jYV3+PXBVxi/ACEvR7ZFmbLhnGmFaOHNfxywXpwjCFmC+pL5UFnwHNbb+Rl6wY4Fz0bwXHI2fFS063Qn8sLw;VhcnvoX35H4e1aAMAr9bQg=="
 ---
 

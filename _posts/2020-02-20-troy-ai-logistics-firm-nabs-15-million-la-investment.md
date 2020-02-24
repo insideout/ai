@@ -38,6 +38,21 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200224&t=2&i=1494517480&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG1N0Y9"
         width: 785
         height: 545
+  - title: "SoftBank leads $265 mln investments in two U.S.-based start-ups"
+    excerpt: "SoftBank on Monday led a new funding round of $165 million in California-based Karius and invested $100 million in New York-headquartered AI company Behavox, as the technology giant builds a portfolio under its second Vision Fund."
+    publishedDateTime: 2020-02-24T15:39:00Z
+    webUrl: "https://www.nasdaq.com/articles/softbank-leads-%24265-mln-investments-in-two-u.s.-based-start-ups-2020-02-24"
+    ampWebUrl: "https://www.nasdaq.com/articles/softbank-leads-%24265-mln-investments-in-two-u.s.-based-start-ups-2020-02-24?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/softbank-leads-%24265-mln-investments-in-two-u.s.-based-start-ups-2020-02-24?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 72
+    images:
+      - url: "https://www.nasdaq.com/sites/acquia.prod/files/2020-02-10T031146Z_697225804_RC2FXE98KO0F_RTRMADP_2_SOFTBANK-RESULTS.JPG"
+        width: 640
+        height: 379
   - title: "Softbank set to invest $100m in AI startup Behavox"
     excerpt: "Softbank founder Masayoshi Son is trying to drum up investment for his second Vision Fund (via Getty Images) Softbank is reportedly close to investing $100m (£77m) in a startup which uses artificial intelligence (AI) to help financial firms monitor ..."
     publishedDateTime: 2020-02-19T13:20:00Z

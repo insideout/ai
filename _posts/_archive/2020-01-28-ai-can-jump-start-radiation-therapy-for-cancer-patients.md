@@ -8,7 +8,7 @@ ampWebUrl: "https://medicalxpress.com/news/2020-01-ai-jump-start-therapy-cancer-
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-01-ai-jump-start-therapy-cancer-patients.amp"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -19,23 +19,6 @@ topics:
   - AI
   - AI in Healthcare
 
-related:
-  - title: "AI can help cancer patients start radiation therapy sooner"
-    excerpt: "Artificial intelligence can help cancer patients start their radiation therapy sooner - and thereby decrease the odds of the cancer spreading - by instantly translating complex clinical data into ..."
-    publishedDateTime: 2020-01-27T00:00:00Z
-    webUrl: "https://www.news-medical.net/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 74
-    images:
-      - url: "https://www.news-medical.net/image.axd?picture=2014%2f7%2fRadiation_Therapy-620x480.jpg"
-        width: 620
-        height: 480
-
-secured: "y0MRG8BMfXYy04b20PFaTyB3upSS4JNMl5Fkeul3Dpe59cerhgxtbDzuobucksqZJG5KJVzwpjL6qJ4LstJi5enqW8gIIf0JvmQr/9XWBkV0VyV+1BTTi45c1/wkNw5LoOm7FQuQN3HHxfb3pdm4ni/uWCQHSBRhb2iHjIddVNtv5RG0kNuf7h4pAxYgLlGp/DXQhX17tZaZ9bCjrRpAXQBJFZzc3fotJDd3kxsPvA38YsJi5EPg0GyN5LVurGlSHgIFeqClsLu0D6s0LPlR/dD+1QzuQVDYxH6yuewAFcC4Vho67QDmPDaAdl8bWXYe;cRwnzr6HpsoFBKjS0N5MBQ=="
+secured: "TLfsUZ8EyaGlPSabHHhJ1buI1gxeE/XcaG2TVj/w8z9IO5rcLuB0OJwhBCJe8sbKwHvOGRIr/EbKRKk9fNonwupdm7UHHV4i47AHrCZyy92Ufry0xO9SO5UWkWyPJU/e7b9J/b63fA6xh8WhMsXF+BYfwdDRc6rNumtvukfIYQtl5BcClCYuph6ghkCJcZdXXJJK4WOK4anX9oXXQl+iuVwFARRuJU7uh3j6hQ5mmvIAsAnwM3YVUZOq1vQyKXczpUO9UZGcK6UQpvklFkbVM33gUxomkU7Bm5SNltDK7s3TbZhY/biM56ZHK5wyVMI1;lz0E9fG3/InDfBoYkmmbMw=="
 ---
 

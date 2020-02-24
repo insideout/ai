@@ -125,34 +125,6 @@ related:
       - url: "https://www.pbs.org/wnet/amanpour-and-company/files/2020/02/4gPfMc5-asset-mezzanine-16x9-BKkp7dE.jpg"
         width: 1920
         height: 1080
-  - title: "Canadian privacy officials will investigate controversial facial recognition tool used by Toronto police"
-    excerpt: "TORONTO -- The federal privacy watchdog and three provincial ombudsmen have announced an investigation into the controversial facial recognition software used by several police services, including Toronto. “The investigation was initiated in the wake of numerous media reports that have raised questions and concerns about whether the company ..."
-    publishedDateTime: 2020-02-21T18:56:00Z
-    webUrl: "https://toronto.ctvnews.ca/canadian-privacy-officials-will-investigate-controversial-facial-recognition-tool-used-by-toronto-police-1.4822198"
-    ampWebUrl: "https://beta.ctvnews.ca/local/toronto/2020/2/21/1_4822198.html"
-    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/toronto/2020/2/21/1_4822198.html"
-    type: article
-    provider:
-      name: CTV News
-      domain: ctvnews.ca
-    quality: 42
-    images:
-      - url: "https://beta.ctvnews.ca/local/toronto/2020/2/21/1_4822198/_jcr_content/root/responsivegrid/image.coreimg.jpg"
-        width: 1280
-        height: 901
-  - title: "Announcement - Commissioners launch joint investigation into Clearview AI amid growing concerns over use of facial recognition technology"
-    excerpt: "Media reports have stated that Clearview AI is using its technology to collect images and make facial recognition available to law enforcement for the purposes of identifying individuals. The company has also claimed to be providing its services to financial institutions. The four privacy regulators will examine whether the organization's ..."
-    publishedDateTime: 2020-02-21T17:10:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-announcement-commissioners-launch-joint-investigation-into-clearview-ai-/2020/02/21/9102220.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 21
-    images:
-      - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
-        width: 252
-        height: 335
   - title: "Canada Privacy Watchdog Probes Facial Recognition Startup"
     excerpt: "The images -- grabbed from popular social media platforms including Facebook, Instagram, Twitter and YouTube as well as millions of other websites -- are used in its facial recognition software. Clearview AI's founder Hoan Ton-That has said the technology has been made available to more than 600 law enforcement agencies in Canada and the United ..."
     publishedDateTime: 2020-02-21T20:27:00Z

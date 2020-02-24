@@ -29,6 +29,6 @@ images:
     height: 676
     title: "Fintech — The Personal Stories Of The Money Hackers Who Have Changed Finance"
 
-secured: "LAKiqKI+x9bOWLOE9arn4MMShkCt8rJx4FqYXQjHUsLtlJRXQHYidM7meucQfSIGKw4mUKMbnLWKg1KJiobWilRs+dVzmfyJyT+TBv5oi6Twc7xYcwCT+v2IHUsXrIk1+HacvOcgzhnCCTmpw4bjOu7vvMriUimZ8U9zyLcnxHmOcQ5QRy4+a7u1MQ2cOlDeApL9O30NslLb2XN5UL1Qi0IUOpipqFbkiVCGnA2sA7FR91fnO6yqhCOfe6k1wJ7c038QrYih/WZEyJnheCn+vUeQoiUrzf0WtblOgPZEkVwzIxibKqtHIqbcAguxCPGc;Nizjf+kiCVuHKss2U/T/Tw=="
+secured: "VO+UqTrsegb2BuaNNJyyE4jqp0j80ynkZiNLpXADC0wtjMXd4QUU1nGagqqrE4Pl05g66TtGwJ7PzL0W+wIlW2GwYrEbE93DnNm+vBzXvHVT5qqOIfvJMAI74n+kUAtj05twazGSKEMtKIQg1gc1pG/S23pP+jDkBHWmZgsFYyiUMXQF/gVlOgZIkofyMBMp37ZzHMbe6hteJ+qeuQvvn9QwDnAkoJJIhpncf15TMwVlzAp+5wQy7v0eOq6YpAF9Uw/BoYLiHld8B1V0YPlAmNls/Lp4cE3TVJvBXQwLyWKVEe7r44KlSzgABpO+/3I3P2603cHKTAImyp/iwxDJ0DzVkGCrTk9qwTFXozxfvv+x8kx+mLYZ6eoCcis69GeV/0qhVFd2Qkm9xsPK6inW1cMA2xp7aVLKUnmmfjJcgjL+0EalcT8kz1D7UpCFAS/GJonLe/u40n/l5G4iWdSX3NHFBmJ7jSpwdxooeonLyk8=;FVpsy8Hm9FHP6FUbxk7Kqw=="
 ---
 

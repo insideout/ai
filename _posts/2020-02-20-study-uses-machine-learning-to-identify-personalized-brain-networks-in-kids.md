@@ -8,7 +8,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20200219/Study-uses-machine-le
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200219/Study-uses-machine-learning-to-identify-personalized-brain-networks-in-kids.aspx"
 type: article
 quality: 72
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -26,6 +26,15 @@ images:
     title: "Study uses machine learning to identify personalized brain networks in kids"
 
 related:
+  - title: "Machine learning identifies personalized brain networks in children"
+    excerpt: "Machine learning is helping researchers identify the size and shape of brain networks in individual children, which may be useful for understanding psychiatric disorders. In a new study published in the journal Neuron, a multidisciplinary team showed how brain networks unique to each child can predict cognition. The study is the first to show ..."
+    publishedDateTime: 2020-02-23T19:00:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2020/02/200219152910.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 64
   - title: "Machine learning identifies personalized brain networks in children"
     excerpt: "Machine learning is helping Penn Medicine researchers identify the size and shape of brain networks in individual children, which may be useful for understanding psychiatric disorders. In a new study published today in the journal Neuron, a multidisciplinary team showed how brain networks unique to each child can predict cognition. The study ..."
     publishedDateTime: 2020-02-19T16:32:00Z

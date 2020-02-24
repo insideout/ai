@@ -41,6 +41,21 @@ related:
       - url: "https://images.wsj.net/im-156193/social"
         width: 1280
         height: 640
+  - title: "Met police chief: facial recognition technology critics are ill-informed"
+    excerpt: "Cressida Dick defends tech after civil liberties groups raise fears over accuracy and privacy"
+    publishedDateTime: 2020-02-24T15:43:00Z
+    webUrl: "https://www.theguardian.com/technology/2020/feb/24/met-police-chief-cressida-dick-facial-recognition-technology-critics-ill-informed"
+    ampWebUrl: "https://amp.theguardian.com/technology/2020/feb/24/met-police-chief-cressida-dick-facial-recognition-technology-critics-ill-informed"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/feb/24/met-police-chief-cressida-dick-facial-recognition-technology-critics-ill-informed"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 58
+    images:
+      - url: "https://i.guim.co.uk/img/media/6527a5db37946bab14375a67ded41e294359749b/109_407_2779_1667/master/2779.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8db0391fdb6cc0f6fc84eadbd17fff8d"
+        width: 600
+        height: 360
   - title: "Chief says police will not use face recognition until technology has been fully reviewed"
     excerpt: "WATERLOO REGION — Controversial facial recognition technology is not being used by local police and won't be until it is fully reviewed, said the police chief. Waterloo Regional Police Chief Bryan Larkin said he will be issuing an internal memo telling all officers that they are not to use face recognition apps in their investigations."
     publishedDateTime: 2020-02-20T04:31:00Z

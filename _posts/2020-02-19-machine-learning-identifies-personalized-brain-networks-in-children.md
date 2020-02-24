@@ -35,6 +35,15 @@ related:
       - url: "https://www.news-medical.net/image.axd?picture=2016%2f3%2fChildren_playing_sunset_-_Zurijeta_8c5bdac77e44431bb1bfec67b9c87208-620x480.jpg"
         width: 620
         height: 480
+  - title: "Machine learning identifies personalized brain networks in children"
+    excerpt: "Machine learning is helping researchers identify the size and shape of brain networks in individual children, which may be useful for understanding psychiatric disorders. In a new study published in the journal Neuron, a multidisciplinary team showed how brain networks unique to each child can predict cognition. The study is the first to show ..."
+    publishedDateTime: 2020-02-23T19:00:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2020/02/200219152910.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 64
 
 secured: "I5RnSkitRF8vxBYuIafneOk0cufgMcZFCCPRfvEATMjep2E2HlwdOE+tDDRZOc0Sk7JsvtgECCsYezz6kPZ5XK2zKikLBfU4F0xYmz+wj2N1MiBxB4S2VVv8tFMA7M/rYSw8M0698duXzXupjA/AV2W9mye3YFHqUJfh2W1LqJdaM9bZ/W/l/P62EHJ/8OQ89ASwo/5c/5L8gHVyNJIav6CoS296biENLW4UgbHsKfrWJrt47G7TeCzOnBXZiHsH4KmSnoHtZeepSsX7WQHUmkQ2YE+3Nb2inz2HUqJeCkgeYNVJ3lXvM222OCZVcovcDg6tPmYWyK+S+J93pbJVKK3p1WTBG9QIs61OGbEyjg/hv7QOQ4u8AdPqjbMtlL6FFmhABD79jW8ZLMWUpPdSyqarMYR46bH1tp4IBWYubwLNaDqjpEDFaZalLOjsYEFEjJn21dkuXUf0C0yAWWcxNAq7wqsjBy5TucKL1T1BPZE=;Gd8QrHP9zTx+H0pN9ivFfw=="
 ---

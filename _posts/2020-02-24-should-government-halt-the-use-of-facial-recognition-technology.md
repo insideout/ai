@@ -8,7 +8,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/should-government-halt-the-use-of-f
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/should-government-halt-the-use-of-facial-recognition-technology-11582513260"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -30,6 +30,21 @@ images:
     title: "Should Government Halt the Use of Facial-Recognition Technology?"
 
 related:
+  - title: "Met police chief: facial recognition technology critics are ill-informed"
+    excerpt: "Cressida Dick defends tech after civil liberties groups raise fears over accuracy and privacy"
+    publishedDateTime: 2020-02-24T15:43:00Z
+    webUrl: "https://www.theguardian.com/technology/2020/feb/24/met-police-chief-cressida-dick-facial-recognition-technology-critics-ill-informed"
+    ampWebUrl: "https://amp.theguardian.com/technology/2020/feb/24/met-police-chief-cressida-dick-facial-recognition-technology-critics-ill-informed"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/feb/24/met-police-chief-cressida-dick-facial-recognition-technology-critics-ill-informed"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 58
+    images:
+      - url: "https://i.guim.co.uk/img/media/6527a5db37946bab14375a67ded41e294359749b/109_407_2779_1667/master/2779.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8db0391fdb6cc0f6fc84eadbd17fff8d"
+        width: 600
+        height: 360
   - title: "Cressida Dick: Facial recognition critics should face up to victims of crime"
     excerpt: "Privacy concerns over live facial recognition are ‘much smaller’ than the need to protect the public from ‘a knife through the chest’, Britain’s most senior police officer has said. Metropolitan Police Commissioner Dame Cressida Dick told a conference in Whitehall that critics of the use of such technology would need to justify to ..."
     publishedDateTime: 2020-02-24T17:36:00Z
@@ -77,6 +92,6 @@ related:
       domain: seattletimes.com
     quality: 0
 
-secured: "fwkmpe+VKAbPjE2FGFjq16yahRmN8DxT4fBP1rrWdHC/XpN4DWc9M3yXVlauanE0ik1h0j4SEsPkSCuCpgfYCogtZCbAN3hs0xefOVgxBbQbf7rokdmHXFV2Ne/hHhD7CUWjY8bpV58Wa1PqTeYfmcrN9Yyxsa9tokybabihpUGbWvU6vOIe7iPrt4/AAbpq2SBxY/ZTVpytOWAnjfcc/GGiYqdJNE+oKxczYGC8bcxy1cg5Ki30S1p3rCm8Vmg/aWQAq3zuW6usCge+PcSir1g6EPgJiuj4AbS4+p+gvSmlo376zv9hdpqbrD6jYN1CIbjlenYIlCxl+3xQJ/hWCEnpbWphzjBmB08gCWRy6+lHMEt7XBNb2CZizExxAyqMp5Nw7l1HE8XoNU6NbmvvKuR8iG6udZCVB1J0dqCX+7F4v4X9zMg/25hbsk0bhogcB6o8OaVMR0O6AJo9akoDu8pirlhAu/TdTBOfnBagj4U=;JhBX058jAR7ao7UhyC29gA=="
+secured: "5VaT6IeJ/ohEZI2jfKSlkKM7/z5WJS0pbixXWAZ/WW7uH0h+oVxW01rWAjYr9sjjaaWqepgtHnp0mk/dGUszD5M8RFC6NxbxNwsrbwSu1kzJHR1oNnO8yJe0n/+wgEkQYWiJ2LmGkHCwLrRhN9DvXEmydwmzFwsVZa5K1tzR83MfdhBqyn5RjwiLaIauKXCsaQY+tr37MzlVQIYutjVVUzmCHEnVYqMplsNDUQbhn5xRe2okzmk18Gvf+zkFjeRwb3J+ju8tfb6HABJJfHktiSe6rAmfBYKfE1eOVD0LIjin9xjZ6jakV6XXYA94nZXzHW/E/qsGu6fTs5WLrhdBh7GGdfqbOrxOPfp6w9uGh/HnvcdMUqcNcFd3KJIDXWH0GhAlttuImHe8tAMh7vgMnKz2rNpLVsXdpEP5IgVM0M+c2zd2hzG4KBPyDe2f+8nd+kc8BLlrt4tHEmCotsvwnMHZCFTHNJZR8DQ0RycrO3k=;LIYAs1PNBS0/Llq7AVMHEA=="
 ---
 

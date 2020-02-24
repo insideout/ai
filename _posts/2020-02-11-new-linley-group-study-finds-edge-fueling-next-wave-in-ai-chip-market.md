@@ -1,12 +1,12 @@
 ---
 category: news
 title: "New Linley Group Study Finds Edge Fueling Next Wave in AI Chip Market"
-excerpt: "Deep-learning accelerator (DLA) chips, also known as artificial intelligence (AI) processors, continue to proliferate to meet rising demand. Adoption of deep-learning applications in data centers and automotive markets has been substantial, but the past year has seen more robust growth in edge devices and embedded (IoT) systems. With new ..."
+excerpt: "Deep-learning accelerator (DLA) chips, also known as artificial intelligence (AI) processors, continue to proliferate to meet rising demand. Adoption of deep-learning applications in data centers and automotive markets has been substantial, but the past ..."
 publishedDateTime: 2020-02-11T14:21:00Z
-webUrl: "https://www.tmcnet.com/usubmit/-new-linley-group-study-finds-edge-fueling-next-/2020/02/11/9095863.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2020/02/11/9095863.htm"
 type: article
-quality: 34
-heat: 34
+quality: 54
+heat: 54
 published: false
 
 provider:
@@ -17,6 +17,12 @@ topics:
   - AI
   - AI Hardware
 
-secured: "35QjWL5WooeGqgoCDure0UCvPlAxekw5VMue3+IohJkdjp/TD5RIhtoxGOxqRzlA3Y+FoVQr5fhYuqRFMy6tWF/DKY0wXuqUHjdCTGxlgeLDf/KHU8l3MzCi9Vv+ATNPmUHQx9aNzkEfb05CS3/4xGfWuEJdwXsuld0Qs92fgya6U9uNvMtSPYN/Hk1owPnufbuhUnXIj8GRQMnnNFvOxhdc/2jppI7Khn36sQctIH98kd2CeQuI99WSqhdCQCBwmNQn3JzbRU9I0R7P3MNTwPsRCGolfunoSdgjWiqJEJW0M2K/R+hj3U5EezE05rwc;BRr9FgYuv0ylilN+aSmYww=="
+images:
+  - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
+    width: 252
+    height: 335
+    title: "New Linley Group Study Finds Edge Fueling Next Wave in AI Chip Market"
+
+secured: "Rygg3NLZ2ciQc6OUKpGMOA/w7AnFZjJl0W/DS73w6iqJ+0Ha6gaq1t0dTxCguBBxRyZewR94II5mw1SWJ1/gx/FphvnO0+wngwugfo4jaAUV1+8Ccpefz+X3Ej0jbz2tCTfE9L11rh7ydHVeANRkeJkdldjTNzuuxlWoZ+HCiLHRB4zXCdvw6QO/IfplRo7XZN6eT2+2f0q0UvSvM788HPXhnvkLhpzKsdWgos75mtNay+Bee5TY6qsX4Gzzvm8vB7G12dNWPH2MZm9eZROgOy/RyfZOtlTUbHPlYf+nRbevhCDGzPmcZIVKyvYRzGQD;ewwzC6BmptfNZNZ+ahV11A=="
 ---
 

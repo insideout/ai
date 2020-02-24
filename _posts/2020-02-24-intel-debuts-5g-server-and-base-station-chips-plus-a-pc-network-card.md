@@ -27,6 +27,6 @@ images:
     height: 600
     title: "Intel debuts 5G server and base station chips, plus a PC network card"
 
-secured: "ErWj5YePXRw+wvamw454GLtCVP78jPmxl8EpGjpGeGYptf0fdhozvsyLuMAaDjxP6jE+2eCyid8kR+87HIqIAeQ6IuoOGKjk4+NmEb7Fswyx0Fx44cRA+F5G7bygwKlSGA62+IFDASoMiAm/Y70tqcf1IADGir+PQ4rBVKzwLdvaNcRflyIhurFsnC0AE+hmNefKdWQ4x1nWpWICiZl/XYD4SyD051qyWgnvGX7rE1m4cONRvCrSZNb8wBkYWKC/nhmW9nyyW9TKb+bq9Ky8KniuPKB1cRcG5K7pFybre1JN4qxC/OhxtEO0hVIQmaBB;SbVRrHggOEEsqtankYIkMA=="
+secured: "VnkCxTQuUiJ2nD1ZNLmz+rT/dlYNkWIwFu7Pbz86M9PIF/7jlfwPusp+NcaajW62IBXfRb7m8PMkrNrdRKOt++9ZvuABzvtVCW26AuV3cxbuwMQS8NPcTR/a+m2ynTQxTXDWq6GBGDXRDBJqNU4V+1eVsIPWbdMAacT8rJyh9c0a+h/+lTAka2q/puKYb0Qny8N0WUZyS58X7QHvwpb1RMJGuChWHAN6ye3dLfc3zojrmVW2uF07JUKu+fG6cayokGsCLXIpKc532s0pepjuZ+QFjJLE9xGEz9DAaHbs8uuOVBuBY+6oCAH/ZVrVkbB/wMYQH0QOMatK1UjeXitlM/HOmg6E+csssh8p/TT0gAAjfVDgAXMf6ST3Aw7WelnXW+XNtWahLz/4ZHATauqggsgVFAoWrdQzhyGo+Qbts5XNXpp4UEirNPCXF6NKyXoFN/lFJ/d7b1A0JsxhCuvQaPWvbRmYzER7cGoaLEgXv94=;Q/IhutCELuL9EkoOFQpBDQ=="
 ---
 

@@ -26,21 +26,52 @@ images:
     title: "Canaan, Northern Bitcoin Partner to Develop Blockchain, AI"
 
 related:
-  - title: "Parrot and RIIS Partner to Develop AI Applications"
-    excerpt: "Back in 2018, IT consultancy and mobile app development specialists RIIS showed how, with a little help from Google’s machine learning platform, TensorFlow, a DJI drone could be used to count the number of sheep in a field in real-time. At the time it was an interesting, albeit niche glimpse into how drones and AI could work together to carry ..."
-    publishedDateTime: 2020-02-14T01:02:00Z
-    webUrl: "https://dronelife.com/2020/02/13/riis-parrot-drone-ai/"
-    ampWebUrl: "https://dronelife.com/2020/02/13/riis-parrot-drone-ai/amp/"
-    cdnAmpWebUrl: "https://dronelife-com.cdn.ampproject.org/c/s/dronelife.com/2020/02/13/riis-parrot-drone-ai/amp/"
+  - title: "Northern Data and Canaan Inc Announce Cooperation on Blockchain-technology and AI"
+    excerpt: "Combining Canaan's excellence in the fields of AI Chip development and ASIC hardware with Northern Data's proven track record at delivering A class Datacenter and Blockchain infrastructure at scale will provide both companies with a solid bedrock to build and expand in this tremendously exciting technology space and catapult both companies ..."
+    publishedDateTime: 2020-02-19T07:43:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/northern-data-and-canaan-inc-announce-cooperation-on-blockchain-technology-and-ai-1028917334"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/northern-data-and-canaan-inc-announce-cooperation-on-blockchain-technology-and-ai-1028917334"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/northern-data-and-canaan-inc-announce-cooperation-on-blockchain-technology-and-ai-1028917334"
     type: article
     provider:
-      name: Dronelife
-      domain: dronelife.com
-    quality: 59
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
+  - title: "Artificial Intelligence Technology and Competition with China"
+    excerpt: "U.S. Chief Technology Officer Michael Kratsios talks about artificial intelligence technology and tackling Chinese competition."
+    publishedDateTime: 2020-02-20T19:16:00Z
+    webUrl: "https://www.c-span.org/video/?469498-1/artificial-intelligence-technology-competition-china"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 37
     images:
-      - url: "https://dronelife.com/wp-content/uploads/2020/02/image002.png"
-        width: 390
-        height: 259
+      - url: "https://images.c-span.org/Files/90d/1582138795.jpg/Thumbs/height.630.no_border.width.1200.jpg"
+        width: 1200
+        height: 630
+  - title: "Sandler's Methodology and Gong's Revenue Intelligence Technology is an Unbeatable Combination"
+    excerpt: "/PRNewswire/ -- Artificial intelligence is here to stay. The global leader in the training industry, Sandler (www.sandler.com), has partnered with"
+    publishedDateTime: 2020-02-12T14:32:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/sandlers-methodology-and-gongs-revenue-intelligence-technology-is-an-unbeatable-combination-301003733.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 11
+    images:
+      - url: "https://mma.prnewswire.com/media/836802/Sandler_Training_Logo.jpg?p=facebook"
+        width: 2695
+        height: 1414
+  - title: "DGAP-News: NORTHERN DATA AND CANAAN INC ANNOUNCE COOPERATION ON BLOCKCHAIN-TECHNOLOGY AND AI"
+    excerpt: "Combining Canaan's excellence in the fields of AI Chip development and ASIC hardware with Northern Data's proven track record at delivering A class Datacenter and Blockchain infrastructure at scale will provide both companies with a solid bedrock to build and expand in this tremendously exciting technology space and catapult both companies ..."
+    publishedDateTime: 2020-02-19T06:30:00Z
+    webUrl: "https://www.4investors.de/nachrichten/dgap-meldung.php?sektion=dgap&ID=60921"
+    type: article
+    provider:
+      name: 4investors.de
+      domain: 4investors.de
+    quality: 8
 
 secured: "g9L1i39e0zfx58PXwRlYFfj8WstNC8WAa+IqsRZRCyFWx6gLBbxQhKGHIFE+4/g71ITcUzusmjixM++irl2wW69xrK85cJyf0r988p7UpxRlIdmnzCFemsLqZY8oVA4HgyJ364zooMmVLBCkNzlLffjEsG6SfEofqREQXfmqCDcm9GG8L5V/+PnJWdVDzsVMhEZhIdRsXWIfdg4K+17co/oe1kFxLLmUyVSTsgp9GybX3EWNstpUdBkk7vfaQkZer2HefGm+7KZb/HLiyPOaqFEFElc1ZY6efBFTaj8AGV2s8Jq+TGZFqznI/XzCO8s8EYw8HNAOq5u7feKT8ohcwQfkFSIUmSdGIrfA6PMhX4mciLhOw+hDALuZVhdR0FjlZsrGgkleNOrjZ2/IkG8H0YfqLkxGepzGZK5K8H0dezMU86XvFy47/zvNuRND5hpPKfLZZ8udpKRU8EfB5MLyizLvLERpDUU7FXAOtjX7E3I=;W/i7oItIyBq1z4Ypq9G7QA=="
 ---

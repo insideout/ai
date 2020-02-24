@@ -46,6 +46,19 @@ related:
       - url: "https://mms.businesswire.com/media/20200219005066/en/774196/23/AIQ_Logo.jpg"
         width: 1200
         height: 627
+  - title: "Google Award for next generation Deep Learning education"
+    excerpt: "Distinguished Research Professor Mary-Anne Williams is the recipient of an inaugural Google TensorFlow Faculty Award to develop educational content with TensorFlow 2.0, Google's open-source deep learning platform. Director of The Magic Lab at UTS, this Award recognises Professor Williams's position as a senior leader in the Australian and ..."
+    publishedDateTime: 2020-02-24T20:25:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-02/uots-gaf022320.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 41
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/225053_web.jpg"
+        width: 720
+        height: 380
   - title: "Viz.ai Showcasing Artificial Intelligence Detection for Cerebral Aneurysms at 2020 International Stroke Conference"
     excerpt: "SAN FRANCISCO--(BUSINESS WIRE)--Viz.ai, Inc., the leading applied artificial intelligence healthcare company, is excited to highlight Dr. Vitor Mendes Pereira’s presentation “Artificial Intelligence to Improve the Detection and Triage of Cerebral Aneurysms”, which outlines the development of the Viz.ai algorithm to detect cerebral ..."
     publishedDateTime: 2020-02-20T12:06:00Z

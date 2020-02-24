@@ -26,21 +26,21 @@ images:
     title: "Ohio’s controversial facial-recognition database to get $21.4 million update, AG Dave Yost says"
 
 related:
-  - title: "EU poised to create massive transatlantic facial-recognition database, link with US"
-    excerpt: "The EU is laying the groundwork for a massive international facial recognition database that may someday hook into the one maintained by the US, according to leaked internal documents. National police forces of 10 EU member states are calling for a legal framework to create a massive system of interlinked facial recognition databases “as ..."
-    publishedDateTime: 2020-02-22T02:24:00Z
-    webUrl: "https://www.rt.com/news/481441-eu-facial-recognition-database-surveillance/"
-    ampWebUrl: "https://www.rt.com/news/481441-eu-facial-recognition-database-surveillance/amp/"
-    cdnAmpWebUrl: "https://www-rt-com.cdn.ampproject.org/c/s/www.rt.com/news/481441-eu-facial-recognition-database-surveillance/amp/"
+  - title: "Millions of updated driver’s license photos to fill Ohio’s facial-recognition system"
+    excerpt: "Attorney General Dave Yost and Gov. Mike DeWine plan to fill the state’s facial-recognition system — used to help identify suspected criminals — with updated and new mug shots of every licensed Ohio driver. Ohio has about 8.8 million licensed drivers and state ID holders. A task force formed by Yost recommended the step Thursday while ..."
+    publishedDateTime: 2020-02-20T19:24:00Z
+    webUrl: "https://www.dispatch.com/news/20200220/millions-of-updated-driverrsquos-license-photos-to-fill-ohiorsquos-facial-recognition-system"
+    ampWebUrl: "https://www.dispatch.com/news/20200220/millions-of-updated-drivers-license-photos-to-fill-ohios-facial-recognition-system?template=ampart"
+    cdnAmpWebUrl: "https://www-dispatch-com.cdn.ampproject.org/c/s/www.dispatch.com/news/20200220/millions-of-updated-drivers-license-photos-to-fill-ohios-facial-recognition-system?template=ampart"
     type: article
     provider:
-      name: RT
-      domain: rt.com
-    quality: 38
+      name: Columbus Dispatch
+      domain: dispatch.com
+    quality: 37
     images:
-      - url: "https://cdni.rt.com/files/2020.02/xxl/5e5086f785f54034da19d85a.JPG"
-        width: 1240
-        height: 697
+      - url: "https://www.dispatch.com/apps/pbcsi.dll/bilde?Site=OH&Date=20200220&Category=NEWS&ArtNo=200229853&Ref=AR"
+        width: 3855
+        height: 2228
 
 secured: "36iBNbJ2X3GZJN/ObgpfqSRP0OeCx7VwRsi28JGFpOv3fl7eaNAjdj+b9AOkPb7S1CJrfUNBry+9bzIXEOvEGK7RnrUtGGcY27nEZ0Umn2Cz3eHcS+Yy/YceDATF98if+pUFpj9AWImwemzFB7OdgkvRr6C+BGhF2/hePRZkO2zreWGrHhYTu3M1RGmknAmcvxFyk8G2SuKrflRr9rlIkeu3CQof3ddyo4owaCqxsBoTPC5jSP1N3peSccKgY0q1hwMkm2SHmvTDyy6gO3H2Fz4RnHp4I8kkmYjayQIpjzXpmpcbcpH5pxhzn1yCYo+ITDVGv77ZotXqxAbTbzG9qCkOu7BRUgebGPDzGZFieZmfrje5d9V3iUHWPLk3OXb3xL9dPuBDB82YYN7mj2s+jnWnAP0Ol/m9/oxwGeYcrHfWdl+o0ZakdObSNM9NEVQL8h6+djvs7OyMUyOrYIGaoVjc3cldCETUvvM7rGT3ka0=;bC8GQ2nwvL5lrUqlAy9NCA=="
 ---
