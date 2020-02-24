@@ -25,6 +25,6 @@ images:
     height: 448
     title: "Udacity launches new Intro to Machine Learning with TensorFlow Nanodegree program"
 
-secured: "MS6bU9rNsJc6F1qD7beiq1+JJcyYUYFJENLONdreoJxQSm8NZkxomAI0WytuYzkB3KXPuFAahDCo/0JSFFbtln+VAbHfDlZieYP4fsSy3s0CNenNd3ZQ7upXHXT5BJHB6R88T+O03t1e13Wlfyu3lTSX37qbIPZi+UlUdOi6WKxHz6QsFA3IPR6QJHRbZ4ZC1IEaVuv6r3A4187VEkuyHdpzEaLBHpUnN0B0Ty/IN4s9AcpBbnCtj2UKCZ1noSw4BQpwCoIK7Ks8dt324WRyZpCGqSIkWucgY/DKfayYvjBZuSI2al3B+oiJ6l2dZK+i;otE8C34baX83sivFmiyoAQ=="
+secured: "rCzy1iQVL6ZCEkRvwqgyzRWwBXfeGihRuVBWJIrthJhRkYhVxp/jc0zHd7zFgrWqmIqVdExQTY1pprwF0Tfe1fOLGNu0CGne96mIGTnwp2baEKSAWcJh3UwRjD28eKoUSY+N0PvVeD4o2Trj5/czoVYD/zq6ZLGqdpk4LuFu86k/OlpJvbS0BlItwSC4LcQalbLQ+CKGP1SXNMvvEJqHT0aaKD6MYTdhretDJAXnZ1IAzgwrIggAOiHCOwP/6KpsyM4VR0m3EgE6TXclxW3o1gxJzr8yOb+P+62Y1pNf2dFz7DHn0nnkngk53W2WV7pd;Irf8Y19WTMJK2xOLiDRPFQ=="
 ---
 

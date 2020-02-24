@@ -45,6 +45,21 @@ related:
       - url: "https://s.marketwatch.com/public/resources/images/MW-HD183_waymo_ZH_20190201153208.jpg"
         width: 890
         height: 501
+  - title: "Ford is giving Google and Uber veterans $1 billion to build a self-driving car brain"
+    excerpt: "Ford announced plans today to invest $1 billion over the course of five years into a new, previously unheard of artificial intelligence ... Alphabet Inc.'s new Waymo division is ramping up ..."
+    publishedDateTime: 2020-02-11T00:57:00Z
+    webUrl: "https://www.cnbc.com/2017/02/10/ford-is-giving-google-and-uber-veterans-1-billion-to-build-a-self-driving-car-brain.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2017/02/10/ford-is-giving-google-and-uber-veterans-1-billion-to-build-a-self-driving-car-brain.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2017/02/10/ford-is-giving-google-and-uber-veterans-1-billion-to-build-a-self-driving-car-brain.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 82
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/104275514-argo-photo-22.jpg?v=1529474180"
+        width: 3600
+        height: 2400
   - title: "China is betting on slow but steady to win the self-driving car race"
     excerpt: "Just don’t expect that revolution to come quickly. In the United States, individual states are taking the lead in deciding how self-driving cars will be rolled out in their communities ..."
     publishedDateTime: 2020-02-10T20:43:00Z

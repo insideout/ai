@@ -2,50 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_posts/2020-02-12-the-future-of-blockchain-fintech-50-2020.md",
-      "title": "The Future Of Blockchain: Fintech 50 2020",
-      "excerpt": "Over the past year, the price of bitcoin has more than doubled, and a number of imaginative new blockchain products have launched, showing the breadth of industries that could be impacted.",
-      "heat": 237,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/michaeldelcastillo/2020/02/12/the-future-of-blockchain-fintech-50-2020/",
-      "ampWebUrl": "https://www.forbes.com/sites/michaeldelcastillo/2020/02/12/the-future-of-blockchain-fintech-50-2020/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaeldelcastillo/2020/02/12/the-future-of-blockchain-fintech-50-2020/amp/",
-      "publishedDateTime": "2020-02-12T06:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e42d3368b6cf300071e6e36%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "The Future Of Blockchain: Fintech 50 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-12-this-eye-tracking-system-uses-ai-to-diagnose-multiple-sclerosis.md",
       "title": "This eye-tracking system uses AI to diagnose multiple sclerosis",
       "excerpt": "Now, C. Light Technologies, a neurotech and AI company that grew out of the Berkeley Skydeck accelerator, wants to help doctors diagnose neurological conditions with more speed and precision. The company has developed an eye-tracking technology paired with machine learning that can be used to diagnose multiple sclerosis (MS). Patients simply ...",
@@ -1706,7 +1662,7 @@
       "path": "_posts/2020-02-14-ex-waymo-driver-accused-of-causing-self-driving-van-to-crash.md",
       "title": "Ex-Waymo driver accused of causing self-driving van to crash",
       "excerpt": "PHOENIX — Ex-Waymo driver accused of causing self-driving van to crash Tempe police said Raymond Tang, 31, was booked into jail Wednesday night and is facing felony charges of aggravated assault and criminal damage,",
-      "heat": 339,
+      "heat": 349,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.marketwatch.com/story/ex-waymo-driver-accused-of-causing-self-driving-van-to-crash-2020-02-13",
@@ -2147,6 +2103,43 @@
       "topics": [
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-14-nvidia-spikes-as-demand-spikes-for-chips-used-in-ai-applications.md",
+      "title": "Nvidia Spikes As Demand Spikes For Chips Used In AI Applications",
+      "excerpt": "Thursday night, the graphics chip company posted better-than-expected fourth quarter results ... “Cloud vendors should see a step up in spend and clearly Nvidia has a combination of AI drivers layering in on top of this market improvement,” he writes. “On the competitive front, there still appears little competition.”",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.barrons.com/articles/nvidia-spikes-as-demand-spikes-for-chips-used-in-ai-applications-51581701337",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/nvidia-spikes-as-demand-spikes-for-chips-used-in-ai-applications-51581701337",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-spikes-as-demand-spikes-for-chips-used-in-ai-applications-51581701337",
+      "publishedDateTime": "2020-02-14T09:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.barrons.com/im-154652/social",
+          "width": 1280,
+          "height": 640,
+          "title": "Nvidia Spikes As Demand Spikes For Chips Used In AI Applications",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
       ]
     }
   ],

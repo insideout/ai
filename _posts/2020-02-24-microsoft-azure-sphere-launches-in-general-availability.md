@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-24T09:00:00Z
 webUrl: "https://venturebeat.com/2020/02/24/microsoft-azure-sphere-launches-in-general-availability/"
 type: article
 quality: 99
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -41,6 +41,19 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/02/microsoft-threat-protection-hero.jpg?w=1200&#038;strip=all"
         width: 1200
         height: 600
+  - title: "Azure Sphere—Microsoft’s answer to escalating IoT threats—reaches general availability"
+    excerpt: "In June, NXP, the world’s number one microcontroller manufacturer, announced their timeline for their very first Azure Sphere chip. And that chip will add much larger compute capabilities. For example, they’ll do AI, and vision, and graphics, and more sophisticated user interfaces. And then in October, Qualcomm announced that they’ll ..."
+    publishedDateTime: 2020-02-24T14:28:00Z
+    webUrl: "https://www.microsoft.com/security/blog/2020/02/24/azure-sphere-microsoft-answer-iot-threats-reaches-general-availability/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 61
+    images:
+      - url: "https://www.microsoft.com/security/blog/wp-content/uploads/2020/02/Azure-Sphere-card.jpg"
+        width: 440
+        height: 268
   - title: "Microsoft Announces General Availability of Threat Protection, Insider Risk Management"
     excerpt: "It started with an internal demand at Microsoft to use machine learning to detect threats based on user behavior ... and other partners to enable easier data collection. A new connector for Azure Security Center for IoT lets admins onboard data workloads from the Internet of Things into Azure Sentinel from deployments managed in the IoT ..."
     publishedDateTime: 2020-02-20T20:37:00Z
@@ -55,6 +68,6 @@ related:
         width: 600
         height: 600
 
-secured: "p7hm9b7hgQ700UjlbeGY4X1ypMuVF6W80+JIEsxzovH4ill+zSfr6HKMV1k9GUSwC2hmOWZmvlUuTVZDjMS3nolRe04IGWOFacQw8navvdE/mAfFzosHAAb0NISjvXpp80rdAKdRfVLdU8nBQxc1kQGGRRAhhezeIsjR54UshnCZm+iSBmcBwCfEKyrJOckvI5ZW73BRVuxQGVAPdMGGc3DYqGAkCfex+w6pBfG/efUK2pwhX778Qjx6bmLgjmKLPGudYrvo8lxCFKBpq6Ju1BtOHakpMrks375jPpLao5dzTcB48FpTlXBNPIggjSa+;2iqoC/l3HVs3HYzmJo1jjA=="
+secured: "Zln2nGW/m87rloGBVenMogz+ZcB7Oa9r8raKQKt4BgFjSmD7MlaIHVZnFVollLncuVDNLozFZcwX8IrxHDhQsdiU6LsR6zcTaF73Fx09qpBFm58genUYeap8WW2CYWR8a9Bvc2cUpxK1LZBMqeVmpC6HIk64ERZMSP6yoUPsd6BOZczccUCAdCIL8FYOVcaOBsNGlm0oQXWDo3EzZNKKDljo0mnzo/OkTaJ6WOkQ31F/3m18XlPASByFTUorj7i4IcLhTKG2iPfuEuqBDbO3nyZk77uT2AfciYb+ziXzyQasf18hHZ5KNpODBz/QbxfnxMcrmSr8EcRlX8Jzo81UzQTg65rWdFVE6Tu0duwgmrt6o1yeFHwOpu0ltrf3fAv/I7n1AC4LJaajdKiY2Efl2Bh+/+5qbxQ6udb7cw3IDliCivZxeXZbSfskd7y7gSpAvx9mr6ByU/q/BAqaiUASrJbyGPaigNjnGzzVSwVelYw=;luFfNIeJqZq68d2nNaocOw=="
 ---
 

@@ -114,6 +114,21 @@ related:
       - url: "https://i.kinja-img.com/gawker-media/image/upload/s--AKvNXy5y--/c_scale,f_auto,fl_progressive,q_80,w_800/ddahcgnqbfvrkf7kiawb.jpg"
         width: 800
         height: 449
+  - title: "A.I. companies are improving their facial recognition software to detect people wearing face masks"
+    excerpt: "Facial recognition has been used as a form of authentication and in some countries, as a crime prevention tool. Countries like China and Great Britan have been using this technology on its streets for a while now. But this technology is now getting an upgrade due to the Covid-19 outbreak. Facial recognition technology requires your face to not ..."
+    publishedDateTime: 2020-02-24T14:30:00Z
+    webUrl: "https://sea.mashable.com/tech/9268/ai-companies-are-improving-their-facial-recognition-software-to-detect-people-wearing-face-masks"
+    ampWebUrl: "https://sea.mashable.com/tech/9268/ai-companies-are-improving-their-facial-recognition-software-to-detect-people-wearing-face-masks?amp=1"
+    cdnAmpWebUrl: "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/9268/ai-companies-are-improving-their-facial-recognition-software-to-detect-people-wearing-face-masks?amp=1"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 75
+    images:
+      - url: "https://sm.mashable.com/t/mashable_sea/news/d/departing-/departing-the-us-from-an-airport-your-face-will-be-scanned_h5jp.620.jpg"
+        width: 620
+        height: 357
   - title: "Facial recognition cameras scan 4,600 faces but don’t find a single crook"
     excerpt: "Scotland Yard’s first operational deployment of facial recognition cameras has been described as a failure after it did not spot a single suspect after hours spent scanning thousands of people. The country’s biggest police force was accused of wasting taxpayers’ money at the expense of civil liberties after it emerged that earlier this ..."
     publishedDateTime: 2020-02-20T17:33:00Z

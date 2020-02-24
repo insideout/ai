@@ -1,0 +1,73 @@
+---
+category: news
+title: "Azure Sphere—Microsoft’s answer to escalating IoT threats—reaches general availability"
+excerpt: "In June, NXP, the world’s number one microcontroller manufacturer, announced their timeline for their very first Azure Sphere chip. And that chip will add much larger compute capabilities. For example, they’ll do AI, and vision, and graphics, and more sophisticated user interfaces. And then in October, Qualcomm announced that they’ll ..."
+publishedDateTime: 2020-02-24T14:28:00Z
+webUrl: "https://www.microsoft.com/security/blog/2020/02/24/azure-sphere-microsoft-answer-iot-threats-reaches-general-availability/"
+type: article
+quality: 61
+heat: -1
+published: false
+
+provider:
+  name: Microsoft
+  domain: microsoft.com
+  images:
+    - url: "/assets/images/organizations/microsoft.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+  - Microsoft AI
+
+images:
+  - url: "https://www.microsoft.com/security/blog/wp-content/uploads/2020/02/Azure-Sphere-card.jpg"
+    width: 440
+    height: 268
+    title: "Azure Sphere—Microsoft’s answer to escalating IoT threats—reaches general availability"
+
+related:
+  - title: "Microsoft Azure Sphere launches in general availability"
+    excerpt: "As for brownfield, it calls for an Azure Sphere “guardian” device — the bulk of which are produced by Avnet and AI-Link — to connect existing hardware to the internet. Azure Sphere hardware is available in several configurations, including Wi-Fi modules, development kits and dev boards (from partners like Seeed Studios and USI), and the ..."
+    publishedDateTime: 2020-02-24T09:00:00Z
+    webUrl: "https://venturebeat.com/2020/02/24/microsoft-azure-sphere-launches-in-general-availability/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 99
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2017/12/microsoft-azure-new-logo-2017-e1572843284943.png?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
+  - title: "Microsoft Threat Protection and Insider Risk Management hit general availability"
+    excerpt: "The biggest announcement is arguably the general availability of Microsoft Threat Protection, which uses AI to offer a correlated view of threats and automation to address them. Other tidbits worth touching on include news from Microsoft Defender ATP (Android and iOS support is coming), Insider Risk Management, and Azure Sentinel. Microsoft ..."
+    publishedDateTime: 2020-02-20T14:00:00Z
+    webUrl: "https://venturebeat.com/2020/02/20/microsoft-threat-protection-insider-risk-management-general-availability/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 79
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/02/microsoft-threat-protection-hero.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
+  - title: "Microsoft Announces General Availability of Threat Protection, Insider Risk Management"
+    excerpt: "It started with an internal demand at Microsoft to use machine learning to detect threats based on user behavior ... and other partners to enable easier data collection. A new connector for Azure Security Center for IoT lets admins onboard data workloads from the Internet of Things into Azure Sentinel from deployments managed in the IoT ..."
+    publishedDateTime: 2020-02-20T20:37:00Z
+    webUrl: "https://www.darkreading.com/cloud/microsoft-announces-general-availability-of-threat-protection-insider-risk-management-/d/d-id/1337105"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 46
+    images:
+      - url: "https://twimgs.com/nojitter/darkreading/dr-logo.jpg"
+        width: 600
+        height: 600
+
+secured: "9S76T48OrB+PdjYW6ULD3VyNci4xWhfMjRKDM7PB9IIyiKtXsrX2xHVXmxTO4yyjJviDgrh1KsVy35iwg1ifn6tZPsrmdRltVzJQvkDm62Y7fqY715O55FMeHIljdJPjKXvtJGdh3P/5Zk+DwO0jVCbA9ghf+oJPjFKBsGzySuMmE1QfuhQz3szakK6wD3pN4KLbbVv7uVBZ4A/lz2j/rcVu+6rQQh0nm1/psWg7VvQtcaqfD4DySekimHyvHF691On36Xoc+bLTMcZ9Ayb2ZGDcCghcI0cnDdAdSPuobEGVp5p7Xhh7161mTgvkwypR;i22uUxqEny6ibFaIZ0TDOw=="
+---
+

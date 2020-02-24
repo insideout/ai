@@ -20,11 +20,11 @@ topics:
   - AWS AI
 
 images:
-  - url: "https://static-news.moneycontrol.com/static-mcnews/2019/04/flipkart-378x213.jpg"
+  - url: "https://static-news.moneycontrol.com/static-mcnews/2019/06/Digital-India-378x213.jpg"
     width: 378
     height: 213
     title: "How AWS is delivering innovation in a box for startups"
 
-secured: "EJiwPadNMF1fD3xIlbVqL7WMmUQ0ADN1ziZwQPtXqwAP+06qmUuQIpe5wdmQOtaZmX+F8oaStyCtLmts0M5QKK1FWlPpXdFyhd4bc48lKwmxpCgnOn6eGWFUnmEbmLNgcmlS/wNu15Q1UmQbnzIQmT96kjSLEDgRKPhvxpzO1Hu1c5Ey4f8qycBX3fi4ZRCuwyEIWnAbscYko6reMp0cu76VGuOSi02utUbNX0fMJSDH2uvmhFLgaeMJ4Gijz0qR7AdJOa6TX7cpXYw4gcnVjZiXW5syqlrJEgmD3NL9ymEkc6b31TZQeKvVvMSLL+Gl;Rtzx7c7WM1LuiqPCXb7Xbg=="
+secured: "mEjDiRdToYAmqKpN9foKTZlgY+BlrVzuhFjRaJ0RjY/7l44KsFfo9z71mJJyjCV66AcyFDwlc+Q3Pb0GQPbMaDwLX6foSCDO8cKvvu2PFc+juTqshYpuYdf49gkY9xKvRin/Ye8+2YLDyN6SPaJsbQaSgz4yivJq6N/8nM8IipmnHhTMmiyZ+Pm05ox6lYhQ5l4FsoENKKIesqffff3+rUbyoo/XkHWz5QBEWHll5MijN5+Z2jyOLrt/WwfV36ssjK9pqnq8xgPZwQKb20GYD4JZ/yjYMJiCJkkTlWTu3L2lAdk3Dn7RpfYkz5uAFkmY;eNfAMGhRRwTrgqwRz2+G4g=="
 ---
 

@@ -50,6 +50,19 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/02/microsoft-threat-protection-hero.jpg?w=1200&#038;strip=all"
         width: 1200
         height: 600
+  - title: "Azure Sphere—Microsoft’s answer to escalating IoT threats—reaches general availability"
+    excerpt: "In June, NXP, the world’s number one microcontroller manufacturer, announced their timeline for their very first Azure Sphere chip. And that chip will add much larger compute capabilities. For example, they’ll do AI, and vision, and graphics, and more sophisticated user interfaces. And then in October, Qualcomm announced that they’ll ..."
+    publishedDateTime: 2020-02-24T14:28:00Z
+    webUrl: "https://www.microsoft.com/security/blog/2020/02/24/azure-sphere-microsoft-answer-iot-threats-reaches-general-availability/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 61
+    images:
+      - url: "https://www.microsoft.com/security/blog/wp-content/uploads/2020/02/Azure-Sphere-card.jpg"
+        width: 440
+        height: 268
 
 secured: "T9J1THe/S7kyrqwCiOrra7k6kiM8KtBjf4syPfxPht/EX1gYQZDyL0CmDUU8FAVAs9ojv6ReyT4r6o90Inzo/xUa5x2013zQPnYpguzbha1QgeyOQN2cUyMW+cFsNVWHVbDRURZk9Lb2JMD6BQ8sezhZHoggte+04TAq4d1EZ+jNIcA+PAQnI8vlTzyL6iefU5A4eGyv4q+YnNSc4hlQYiXDekw6iNh6Wewd77CHywPx7zJu9QszajAhp4ccwIRShclNhojSvLdTpokuZfvfrZMYEuhJuDwbuFze9jg/FPPfMp81SB40cChVsXlx1OZr;AMaxbTN6yO67FaocXMnJFg=="
 ---

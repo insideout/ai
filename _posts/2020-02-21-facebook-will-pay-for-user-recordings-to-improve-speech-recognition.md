@@ -317,6 +317,21 @@ related:
       - url: "https://images.axios.com/V5g3DwWwcHd9GOG3xrFQxp-3PcE=/2020/02/22/1582389772887.jpg"
         width: 3000
         height: 2000
+  - title: "Hashtag Trending- Facebook pays for your data; AI finds new antibiotic; Instagram Music comes to Canada"
+    excerpt: "MIT discovered a new potent antibiotic compound using AI, and Instagram Music has finally come to Canada. Thank you for tuning into Hashtag Trending, it’s Monday, February 24th, and I’m your host, Tom Li. Trending on Google, Facebook will now pay money to improve its voice recognition data. Through Viewpoints, Facebook’s research app ..."
+    publishedDateTime: 2020-02-24T14:56:00Z
+    webUrl: "https://www.itworldcanada.com/article/hashtag-trending-facebook-pays-for-your-data-ai-finds-new-antibiotic-instagram-music-comes-to-canada/427656"
+    ampWebUrl: "https://www.itworldcanada.com/article/hashtag-trending-facebook-pays-for-your-data-ai-finds-new-antibiotic-instagram-music-comes-to-canada/427656?amp=1"
+    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/hashtag-trending-facebook-pays-for-your-data-ai-finds-new-antibiotic-instagram-music-comes-to-canada/427656?amp=1"
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 43
+    images:
+      - url: "https://i.itworldcanada.com/wp-content/uploads/2017/07/ht_3000X1668-e1501855285944-620x250.jpg"
+        width: 620
+        height: 250
   - title: "Facebook is willing to pay users for just recording audio for voice recognition"
     excerpt: "San Francisco: Facebook has announced it will pay select users who agree to record their voice to improve its speech recognition technology. According to The Verge, the social networking giant company will pay select users to record snippets of audio through a new programme called \"Pronunciations\" in its Viewpoints market research app."
     publishedDateTime: 2020-02-21T07:07:00Z

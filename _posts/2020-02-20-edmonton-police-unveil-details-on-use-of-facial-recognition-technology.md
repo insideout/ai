@@ -18,51 +18,34 @@ topics:
   - Computer Vision
 
 related:
-  - title: "London Police Just Turned On Facial Recognition In One Of The World’s Busiest Shopping Districts"
-    excerpt: "Just across from the Microsoft store on London’s Regent Street, and just outside the entrance to the Oxford Circus tube station, cameras atop dark blue police vans are watching passersby. London's Metropolitan Police says the rollout of the \"live\" facial recognition across the British capital would reduce serious crime,"
-    publishedDateTime: 2020-02-20T14:49:00Z
-    webUrl: "https://www.forbes.com/sites/thomasbrewster/2020/02/20/london-police-just-turned-on-facial-recognition-in-one-of-the-worlds-busiest-shopping-districts"
-    ampWebUrl: "https://www.forbes.com/sites/thomasbrewster/2020/02/20/london-police-just-turned-on-facial-recognition-in-one-of-the-worlds-busiest-shopping-districts/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/thomasbrewster/2020/02/20/london-police-just-turned-on-facial-recognition-in-one-of-the-worlds-busiest-shopping-districts/amp/"
+  - title: "Leaked Reports Show EU Police Are Planning a Pan-European Network of Facial Recognition Databases"
+    excerpt: "the EU could soon be creating a network of national police facial recognition databases. A report drawn up by the national police forces of 10 EU member states, led by Austria, calls for the ..."
+    publishedDateTime: 2020-02-21T17:08:00Z
+    webUrl: "https://theintercept.com/2020/02/21/eu-facial-recognition-database/?="
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 76
+      name: The Intercept
+      domain: theintercept.com
+    quality: 109
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e4e88d0765d4500072cc76a%2F0x0.jpg"
+      - url: "https://theintercept.com/wp-uploads/sites/1/2020/02/YotamHadar_TheIntercept_EUv4-still-1582297909.jpg"
+        width: 2000
+        height: 1000
+  - title: "Police chiefs say facial recognition needs more review — but cops should be able to use AI"
+    excerpt: "The chiefs of two Greater Toronto Area police forces now slamming the brakes on the use of a contentious facial recognition tool admit the app should have undergone greater scrutiny before it was tested by their investigators. Clearview AI, a U.S.-based app providing an artificial intelligence-powered tool to law enforcement agencies ..."
+    publishedDateTime: 2020-02-22T18:47:00Z
+    webUrl: "https://www.thestar.com/news/gta/2020/02/22/police-chiefs-say-facial-recognition-needs-more-review-but-cops-should-be-able-to-use-ai.html"
+    ampWebUrl: "https://www.thestar.com/amp/news/gta/2020/02/22/police-chiefs-say-facial-recognition-needs-more-review-but-cops-should-be-able-to-use-ai.html"
+    cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/news/gta/2020/02/22/police-chiefs-say-facial-recognition-needs-more-review-but-cops-should-be-able-to-use-ai.html"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com
+    quality: 64
+    images:
+      - url: "https://images.thestar.com/qwkecqtwTW63-JSZV4bdnJsqCl4=/1200x800/smart/filters:cb(1582396914056)/https://www.thestar.com/content/dam/thestar/news/gta/2020/02/22/police-chiefs-say-facial-recognition-needs-more-review-but-cops-should-be-able-to-use-ai/afwpeelchief01.jpg"
         width: 1200
-        height: 794
-  - title: "Live facial recognition technology used by police at Oxford Circus"
-    excerpt: "Live facial recognition technology has been deployed near Oxford Circus in London after an operational roll-out was announced last month. The van-mounted cameras were spotted at the busy location, which is popular with tourists, on Thursday morning. Image: The Met Police tweeted this to let people know It is believed to be the second time the ..."
-    publishedDateTime: 2020-02-20T15:35:00Z
-    webUrl: "https://news.sky.com/story/live-facial-recognition-technology-used-by-police-at-oxford-circus-11938683"
-    ampWebUrl: "https://news.sky.com/story/amp/live-facial-recognition-technology-used-by-police-at-oxford-circus-11938683"
-    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/live-facial-recognition-technology-used-by-police-at-oxford-circus-11938683"
-    type: article
-    provider:
-      name: Sky
-      domain: sky.com
-    quality: 59
-    images:
-      - url: "https://e3.365dm.com/20/02/1600x900/skynews-oxford-street-shoppers_4925640.jpg?20200220143955"
-        width: 1600
-        height: 900
-  - title: "Ottawa police piloted controversial facial recognition software last year"
-    excerpt: "Ottawa police quietly tested facial recognition software for three months last year, this newspaper has learned. The pilot, which ended in March of 2019, came before a public dialogue on the use of CCTV cameras in spaces like the ByWard Market after a string of fatal shootings in the tourist hub. Though Ottawa police at the time spoke of the ..."
-    publishedDateTime: 2020-02-13T23:12:00Z
-    webUrl: "https://ottawacitizen.com/news/local-news/ottawa-police-piloted-controversial-facial-recognition-software-last-year"
-    ampWebUrl: "https://ottawacitizen.com/news/local-news/ottawa-police-piloted-controversial-facial-recognition-software-last-year/amp"
-    cdnAmpWebUrl: "https://ottawacitizen-com.cdn.ampproject.org/c/s/ottawacitizen.com/news/local-news/ottawa-police-piloted-controversial-facial-recognition-software-last-year/amp"
-    type: article
-    provider:
-      name: Ottawa Citizen
-      domain: ottawacitizen.com
-    quality: 58
-    images:
-      - url: "https://postmediaottawacitizen2.files.wordpress.com/2020/01/0107_childporn-w.jpg"
-        width: 1000
-        height: 750
+        height: 800
   - title: "Facial recognition software used by Waterloo Regional Police Service in past"
     excerpt: "The Waterloo Regional Police Service says it used facial recognition technology 'on a very limited basis' in 2019, but Chief Bryan Larkin says it won't be used going forward until more is known about how it works and there's a policy in place for its use."
     publishedDateTime: 2020-02-20T12:30:00Z
@@ -78,77 +61,34 @@ related:
       - url: "https://i.cbc.ca/1.5403918.1581719698!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/china-security.JPG"
         width: 620
         height: 349
-  - title: "Portland considering strictest ban on facial recognition technology in the U.S."
-    excerpt: "“Please look at camera for entry.” Jacksons’ use of facial recognition technology could soon be outlawed in Portland. City officials are considering the strictest ban of the technology in the country, prohibiting its use not only by government agencies but also private businesses. Facial recognition technology typically uses a camera and ..."
-    publishedDateTime: 2020-02-21T15:20:00Z
-    webUrl: "https://www.oregonlive.com/portland/2020/02/portland-considering-strictest-ban-on-facial-recognition-technology-in-the-us.html"
-    ampWebUrl: "https://www.oregonlive.com/portland/2020/02/portland-considering-strictest-ban-on-facial-recognition-technology-in-the-us.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/portland/2020/02/portland-considering-strictest-ban-on-facial-recognition-technology-in-the-us.html?outputType=amp"
+  - title: "GTA police chiefs say facial recognition needs more review — but cops should be able to use AI"
+    excerpt: "The chiefs of two Greater Toronto Area police forces now slamming the brakes on the use of a contentious facial recognition tool admit the app should have undergone greater scrutiny before it was tested by their investigators. Clearview AI, a U.S.-based app providing an artificial intelligence-powered tool to law enforcement agencies ..."
+    publishedDateTime: 2020-02-23T19:13:00Z
+    webUrl: "https://www.thespec.com/news-story/9862787-gta-police-chiefs-say-facial-recognition-needs-more-review-but-cops-should-be-able-to-use-ai/"
     type: article
     provider:
-      name: Oregonian
-      domain: oregonlive.com
-    quality: 55
+      name: The Hamilton Spectator
+      domain: thespec.com
+    quality: 42
     images:
-      - url: "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/MUODS64EPVH7LB6P6GFG4M5MUM.JPG"
-        width: 4272
-        height: 2848
-  - title: "Met Police's controversial facial recognition cameras correctly identify just one in three women"
-    excerpt: "Controversial facial recognition cameras used by Britain's biggest police force correctly identify only a third of women, an official report admits. A review of the technology by Scotland Yard also reveals that two in three men are accurately identified, while black people are far more likely to be wrongly flagged up than white people."
-    publishedDateTime: 2020-02-15T22:02:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-8007907/Met-Polices-controversial-facial-recognition-cameras-correctly-identify-just-one-three-women.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-8007907/amp/Met-Polices-controversial-facial-recognition-cameras-correctly-identify-just-one-three-women.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-8007907/amp/Met-Polices-controversial-facial-recognition-cameras-correctly-identify-just-one-three-women.html"
+      - url: "https://dynamicmedia.zuza.com/zz/m/original_/2/5/25c13924-d942-4127-ab5c-876b462a3e14/B881053350Z.1_20200223131813_000_GI7SUH6U.4-0_Super_Portrait.jpg"
+        width: 625
+        height: 417
+  - title: "EU poised to create massive transatlantic facial-recognition database, link with US"
+    excerpt: "The EU is laying the groundwork for a massive international facial recognition database that may someday hook into the one maintained by the US, according to leaked internal documents. National police forces of 10 EU member states are calling for a legal framework to create a massive system of interlinked facial recognition databases “as ..."
+    publishedDateTime: 2020-02-22T02:24:00Z
+    webUrl: "https://www.rt.com/news/481441-eu-facial-recognition-database-surveillance/"
+    ampWebUrl: "https://www.rt.com/news/481441-eu-facial-recognition-database-surveillance/amp/"
+    cdnAmpWebUrl: "https://www-rt-com.cdn.ampproject.org/c/s/www.rt.com/news/481441-eu-facial-recognition-database-surveillance/amp/"
     type: article
     provider:
-      name: Mail Online
-      domain: dailymail.co.uk
-    quality: 46
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/02/15/22/24785266-0-image-a-29_1581804047268.jpg"
-        width: 636
-        height: 382
-  - title: "Just the facts on artificial intelligence"
-    excerpt: "Here are a few notable AI wins. May 1997: IBM's Deep Blue computer defeats world chess champion Garry Kasparov after a six-game match. February 2011: IBM's Watson computer defeats champions Ken Jennings and Brad Rutter on \"Jeopardy!\" (below) March 2016: A program called AlphaGo, from Google unit DeepMind, defeats 18-time world champion Lee ..."
-    publishedDateTime: 2020-02-24T00:54:00Z
-    webUrl: "https://www.autonews.com/shift/just-facts-artificial-intelligence"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 41
-    images:
-      - url: "https://www.autonews.com/s3/files/styles/800x600/public/jepordy-MAIN_i.jpg"
-        width: 800
-        height: 600
-  - title: "London's Metropolitan Police flip the switch: Smile, fellow citizens... you're undergoing Live Facial Recognition"
-    excerpt: "Appy days? Microsoft's Word, Excel and PowerPoint now live under one roof on mobile – but look out for Office 365 popups The Metropolitan Police are using live facial recognition (LFR) in various locations in central London today after spending two years testing the technology. Most recently spotted at Oxford Circus, the vans are equipped ..."
-    publishedDateTime: 2020-02-20T16:53:00Z
-    webUrl: "https://www.theregister.co.uk/2020/02/20/met_police_facial_recognition/"
-    ampWebUrl: "https://www.theregister.co.uk/AMP/2020/02/20/met_police_facial_recognition/"
-    cdnAmpWebUrl: "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/02/20/met_police_facial_recognition/"
-    type: article
-    provider:
-      name: The Register
-      domain: theregister.co.uk
+      name: RT
+      domain: rt.com
     quality: 38
     images:
-      - url: "https://regmedia.co.uk/2020/02/20/shutterstock_cops_met_london.jpg"
-        width: 648
-        height: 429
-  - title: "Police roll out controversial live facial recognition technology at Oxford Circus"
-    excerpt: "Scotland Yard has installed controversial facial recognition technology at Oxford Circus. The cameras were spotted mounted on vans in the area, one of the busiest in London, this morning. One dark blue van was captured in a picture posted by UK civil liberties group Big Brother Watch next to a sign reading: \"Police live facial recognition in use.\""
-    publishedDateTime: 2020-02-20T16:46:00Z
-    webUrl: "https://www.standard.co.uk/news/london/police-roll-out-controversial-live-facial-recognition-technology-at-oxford-circus-a4367416.html"
-    type: article
-    provider:
-      name: London Evening Standard
-      domain: standard.co.uk
-    quality: 34
-    images:
-      - url: "https://static.standard.co.uk/s3fs-public/thumbnails/image/2018/03/21/09/poetry-london-underground.jpg"
-        width: 1500
-        height: 1000
+      - url: "https://cdni.rt.com/files/2020.02/xxl/5e5086f785f54034da19d85a.JPG"
+        width: 1240
+        height: 697
   - title: "Metropolitan Police deploys facial recognition in central London with two hours’ warning"
     excerpt: "Police have deployed controversial facial recognition technology in central London with just two hours' notice, sparking privacy concerns. The Metropolitan Police installed a live facial recognition (LFR) camera at Oxford Circus, a highly-trafficked area ..."
     publishedDateTime: 2020-02-20T13:59:00Z
@@ -162,24 +102,6 @@ related:
       - url: "https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/07/09/13/facialrecognition-ban.jpg"
         width: 1998
         height: 1499
-  - title: "Watch: Edmonton police give update on facial recognition technology"
-    excerpt: "Warren Driechel, superintendent of the Edmonton police informatics division, and Devin Laforce, superintendent of the Edmonton police investigative support, provided an update Wednesday on a project assessing and engaging in a facial recognition solution for the police service. The technology hasn’t been implemented yet as EPS is still ..."
-    publishedDateTime: 2020-02-20T01:38:00Z
-    webUrl: "https://edmontonjournal.com/news/local-news/watch-edmonton-police-update-on-facial-recognition-technology"
-    type: article
-    provider:
-      name: Edmonton Journal
-      domain: edmontonjournal.com
-    quality: 19
-  - title: "Met police deploy facial recognition technology in central London"
-    excerpt: "Metropolitan Police have deployed facial recognition technology in central London with just two hours’ notice, alarming citizens. Just across from the Microsoft store on London’s Regent ..."
-    publishedDateTime: 2020-02-21T10:26:00Z
-    webUrl: "https://tribune.com.pk/story/2161493/8-london-police-deploy-facial-recognition-technology-oxford-circus/"
-    type: article
-    provider:
-      name: The Express Tribune
-      domain: tribune.com.pk
-    quality: 19
 
 secured: "gQMh2xQAw2v6xd9kXaTBmCWnL7SOzohsFqEtftnKdpHr5Zn86Vg54sM3OQ5cbHAvyyanWmGW3hK/ghnlERUlec2lURvipeDSk+khW9tqdbmcYIpobBR8WLwJTalj5Mm6uRtV78gO5bvp0+lNJMM5XSlO5C4hhqdgfoVLjhE/dtZiwrGwB5pNbvu4ZJVwzGl/EfTLkk8QybfvVh0dZHAxcldWLvp0DJHFIuNjaT1Rs4qfeiqIV4ER3w0oyzQ9ChMnGKwOYwMYHyvy2VCt3vRxsnZW3CaIlOOvRo542KG7XCiFT2SDaIiq2zx3lGTM6GmdY73cZLrdCtE+pwH1Jyu6omjeMWQU1r1MY/yKWD+msk1e2LSGu3xqafOYpjpCKixagKjsDpzm0S9rCiU5YfK4Do9hH1XsjyqwqM+ly4Vh2IR4vFn86sU7lEPTJDw3+rricp5Pg6PT2xemkB5NPbSUbFzuWHdXQQM1334VgWVF9x0=;b1KM8fIA3yBgCwttWeXpHg=="
 ---

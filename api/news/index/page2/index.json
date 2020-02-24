@@ -2,50 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_posts/2020-02-11-ai-and-automation-together-forever.md",
-      "title": "AI And Automation: Together Forever?",
-      "excerpt": "AI and automation are particularly intertwined in robotics, supplying workforce-enhancing solutions that not only complete repetitive tasks but also support and improve decision-making processes.",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/businessreporter/2020/02/11/ai-and-automation-together-forever/",
-      "ampWebUrl": "https://www.forbes.com/sites/businessreporter/2020/02/11/ai-and-automation-together-forever/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/businessreporter/2020/02/11/ai-and-automation-together-forever/amp/",
-      "publishedDateTime": "2020-02-11T10:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e42e21e3f2df80006e3c68f%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": "AI And Automation: Together Forever?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-11-ai-powered-otterbot-chatbot-helps-students-navigate-choppy-waters-of-financial-aid-applications.md",
       "title": "AI-powered ‘Otterbot’ chatbot helps students navigate choppy waters of financial aid applications",
       "excerpt": "Otterbot is a free, AI-powered texting service that can help high school seniors apply for financial aid that covers tuition and fees for college and other training. Last year, Washington ranked 48th among U.S. states for the percent of students who completed federal financial aid applications or FAFSA, a standardized form used for awarding ...",
@@ -2152,6 +2108,50 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-12-the-future-of-blockchain-fintech-50-2020.md",
+      "title": "The Future Of Blockchain: Fintech 50 2020",
+      "excerpt": "Over the past year, the price of bitcoin has more than doubled, and a number of imaginative new blockchain products have launched, showing the breadth of industries that could be impacted.",
+      "heat": 237,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/michaeldelcastillo/2020/02/12/the-future-of-blockchain-fintech-50-2020/",
+      "ampWebUrl": "https://www.forbes.com/sites/michaeldelcastillo/2020/02/12/the-future-of-blockchain-fintech-50-2020/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaeldelcastillo/2020/02/12/the-future-of-blockchain-fintech-50-2020/amp/",
+      "publishedDateTime": "2020-02-12T06:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e42d3368b6cf300071e6e36%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "The Future Of Blockchain: Fintech 50 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

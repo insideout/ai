@@ -41,6 +41,19 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2017/12/microsoft-azure-new-logo-2017-e1572843284943.png?w=1200&#038;strip=all"
         width: 1200
         height: 600
+  - title: "Azure Sphere—Microsoft’s answer to escalating IoT threats—reaches general availability"
+    excerpt: "In June, NXP, the world’s number one microcontroller manufacturer, announced their timeline for their very first Azure Sphere chip. And that chip will add much larger compute capabilities. For example, they’ll do AI, and vision, and graphics, and more sophisticated user interfaces. And then in October, Qualcomm announced that they’ll ..."
+    publishedDateTime: 2020-02-24T14:28:00Z
+    webUrl: "https://www.microsoft.com/security/blog/2020/02/24/azure-sphere-microsoft-answer-iot-threats-reaches-general-availability/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 61
+    images:
+      - url: "https://www.microsoft.com/security/blog/wp-content/uploads/2020/02/Azure-Sphere-card.jpg"
+        width: 440
+        height: 268
   - title: "Microsoft Announces General Availability of Threat Protection, Insider Risk Management"
     excerpt: "It started with an internal demand at Microsoft to use machine learning to detect threats based on user behavior ... and other partners to enable easier data collection. A new connector for Azure Security Center for IoT lets admins onboard data workloads from the Internet of Things into Azure Sentinel from deployments managed in the IoT ..."
     publishedDateTime: 2020-02-20T20:37:00Z

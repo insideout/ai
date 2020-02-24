@@ -2,43 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_posts/2020-02-20-ids-nxt-ocean-designed-to-ease-image-processing-for-neural-networks.md",
-      "title": "IDS NXT ocean designed to ease image processing for neural networks",
-      "excerpt": "Among the challenges facing artificial intelligence, robotics, and autonomous vehicle developers is the need to process mages for training neural networks. IDS NXT ocean from Imaging Development Systems GmbH is intended to make it easier for users who are not AI experts to classify images. IDS NXT ocean includes camera hardware, a self ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.therobotreport.com/ids-nxt-ocean-designed-ease-image-processing-neural-networks/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-20T08:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2020/02/ids-nxt-ocean-industrial-cameras-ai-1000x800-02.jpg",
-          "width": 1000,
-          "height": 800,
-          "title": "IDS NXT ocean designed to ease image processing for neural networks",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_posts/2020-02-20-job-hunters-face-a-new-hurdle-impressing-ai.md",
       "title": "Job hunters face a new hurdle: Impressing AI",
       "excerpt": "Major businesses like Unilever and Ikea are turning to AI programs to sniff out suitable applicants — and predict future job performance — partly as a way to cut down on the time needed to hire employees. Supporters say the tech can help companies find better job candidates and eliminate some of the inherent bias that executives may not ...",
@@ -124,7 +87,7 @@
       "path": "_posts/2020-02-20-london-police-just-turned-on-facial-recognition-in-one-of-the-worlds-busiest-shopping-districts.md",
       "title": "London Police Just Turned On Facial Recognition In One Of The World’s Busiest Shopping Districts",
       "excerpt": "Just across from the Microsoft store on London’s Regent Street, and just outside the entrance to the Oxford Circus tube station, cameras atop dark blue police vans are watching passersby. London's Metropolitan Police says the rollout of the \"live\" facial recognition across the British capital would reduce serious crime,",
-      "heat": 196,
+      "heat": 166,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.forbes.com/sites/thomasbrewster/2020/02/20/london-police-just-turned-on-facial-recognition-in-one-of-the-worlds-busiest-shopping-districts",
@@ -1320,6 +1283,42 @@
       ]
     },
     {
+      "path": "_posts/2020-02-21-how-ai-is-supercharging-rpa-robotic-process-automation.md",
+      "title": "How AI Is Supercharging RPA (Robotic Process Automation)",
+      "excerpt": "Robotic Process Automation (RPA), which allows for the automation of the tasks of workers, has been one of the hottest categories in tech. The reason is actually simple: the ROI (Return on Investment) has generally been fairly high.",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/tomtaulli/2020/02/21/how-ai-is-supercharging-rpa-robotic-process-automation/",
+      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2020/02/21/how-ai-is-supercharging-rpa-robotic-process-automation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/02/21/how-ai-is-supercharging-rpa-robotic-process-automation/amp/",
+      "publishedDateTime": "2020-02-21T12:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_posts/2020-02-21-how-israel-became-a-technology-startup-nation.md",
       "title": "How Israel Became A Technology Startup Nation",
       "excerpt": "Why should Israel have shown its mettle in the tech market? What drove this region to become a software-centric startup nation of young companies vying for a place on the global tech map?",
@@ -1486,6 +1485,42 @@
           "width": 711,
           "height": 474,
           "title": "How Will Artificial Intelligence Change The Commercial Real Estate Industry?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-21-leaked-reports-show-eu-police-are-planning-a-pan-european-network-of-facial-recognition-databases.md",
+      "title": "Leaked Reports Show EU Police Are Planning a Pan-European Network of Facial Recognition Databases",
+      "excerpt": "the EU could soon be creating a network of national police facial recognition databases. A report drawn up by the national police forces of 10 EU member states, led by Austria, calls for the ...",
+      "heat": 169,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://theintercept.com/2020/02/21/eu-facial-recognition-database/?=",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-21T09:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Intercept",
+        "domain": "theintercept.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://theintercept.com/wp-uploads/sites/1/2020/02/YotamHadar_TheIntercept_EUv4-still-1582297909.jpg",
+          "width": 2000,
+          "height": 1000,
+          "title": "Leaked Reports Show EU Police Are Planning a Pan-European Network of Facial Recognition Databases",
           "attribution": null
         }
       ],
@@ -2014,43 +2049,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-22-police-chiefs-say-facial-recognition-needs-more-review-but-cops-should-be-able-to-use-ai.md",
-      "title": "Police chiefs say facial recognition needs more review — but cops should be able to use AI",
-      "excerpt": "The chiefs of two Greater Toronto Area police forces now slamming the brakes on the use of a contentious facial recognition tool admit the app should have undergone greater scrutiny before it was tested by their investigators. Clearview AI, a U.S.-based app providing an artificial intelligence-powered tool to law enforcement agencies ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.thestar.com/news/gta/2020/02/22/police-chiefs-say-facial-recognition-needs-more-review-but-cops-should-be-able-to-use-ai.html",
-      "ampWebUrl": "https://www.thestar.com/amp/news/gta/2020/02/22/police-chiefs-say-facial-recognition-needs-more-review-but-cops-should-be-able-to-use-ai.html",
-      "cdnAmpWebUrl": "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/news/gta/2020/02/22/police-chiefs-say-facial-recognition-needs-more-review-but-cops-should-be-able-to-use-ai.html",
-      "publishedDateTime": "2020-02-22T10:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Star",
-        "domain": "thestar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.thestar.com/qwkecqtwTW63-JSZV4bdnJsqCl4=/1200x800/smart/filters:cb(1582396914056)/https://www.thestar.com/content/dam/thestar/news/gta/2020/02/22/police-chiefs-say-facial-recognition-needs-more-review-but-cops-should-be-able-to-use-ai/afwpeelchief01.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Police chiefs say facial recognition needs more review — but cops should be able to use AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     },
     {
