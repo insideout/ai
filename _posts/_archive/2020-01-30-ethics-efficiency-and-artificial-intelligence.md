@@ -1,12 +1,14 @@
 ---
 category: news
 title: "Ethics, efficiency, and artificial intelligence"
-excerpt: "As AI systems continue to approach — or exceed — human-level performance in various ... But until we do, society needs to recognize and grapple with the ethics and trade-offs. Talal Rahwan is an associate professor at New York University Abu Dhabi. Jacob Crandall is an associate professor at Brigham Young University. Fatimah Ishowo-Oloko ..."
-publishedDateTime: 2020-01-30T08:39:00Z
+excerpt: "As AI systems continue to approach — or exceed ... But until we do, society needs to recognize and grapple with the ethics and trade-offs. Talal Rahwan is an associate professor at New ..."
+publishedDateTime: 2020-01-30T08:04:00Z
 webUrl: "https://www.bostonglobe.com/2020/01/30/opinion/ethics-efficiency-artificial-intelligence/"
+ampWebUrl: "https://www.bostonglobe.com/2020/01/30/opinion/ethics-efficiency-artificial-intelligence/?outputType=amp"
+cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/01/30/opinion/ethics-efficiency-artificial-intelligence/?outputType=amp"
 type: article
-quality: 36
-heat: 36
+quality: 54
+heat: 54
 published: false
 
 provider:
@@ -16,8 +18,7 @@ provider:
 topics:
   - AI
   - AI Ethics
-  - Facebook AI
 
-secured: "ee01wRE+XRBmF/SKs7Sd1rMqwlwWPOSQLa400SMaefAjmV9BI7DAI5Duo9wmlQnZh7U/67L3ic9drsEApPTkmmZWrtjdtlV1ZsJlbkejMVnuCzzDb44CEydauu/QvMl7Yi8HsUDg77LhMOF9QfvgsaIRX5swVi95mQjjADvYdBT52/M/1ICbuZKx3CvzjY3fAimKLYZIgzdhEPz975lNS8P9Q998qG7BRWHNHJpy4TZ0ot1cu8nnNJJQrSB7mDmME6Vxyt5NHRmoGU0SWIR7Dvg2bYErjh5sO7fNWe9aMXTVukr4EYf7ZiI/MoeJaHkV;guDm7mkdTndEfgbnMSx1bA=="
+secured: "IVRy3HNxzB1LzR8COtJF8NW/9HMuDJdKbHE36GazctSz3qnJm7huk83qe0cuZ3pUeo8Bw8jzAt9JREHdaRQ4y9voM3o+nLxLor83Z7e1/ENafy3iKssrUWh2orUyT1G9GfyTwNldpjTbkPUClPBbO1pEOA3I2XuKFWVx3f7/91A+X8rzKyawkklDR6NNCC2Kw0b2LwGs1nFlejFXEiIlBftQ407j61Z8dYRjPhujMisymcd5JGEsGlIgJ4lgZR0dkgCNQWagUlxt4GaNjTPg5Fy/2sOecu2Etk32thRz+zFuiry/V4DXE8g0L2yGjZX1;lurgr3egWmJfh1TwvvgU0A=="
 ---
 

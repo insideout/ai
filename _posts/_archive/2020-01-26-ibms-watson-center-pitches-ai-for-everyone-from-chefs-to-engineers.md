@@ -25,6 +25,6 @@ images:
     height: 201
     title: "IBM’s Watson Center pitches AI for everyone, from chefs to engineers"
 
-secured: "GCNoEv+HnkiOSMWrfJe7w4OtAGUwq3ZzHkFkgzVABQt70ZlDLho79pul3aJluCSdQVKqWfDyc3105v4TeeH1lhVc768f3H6Ba7XHFt60wVyfr0hAI0A/m2xIK9OcafjlRGbdjemmfo3wmsbd3BMcJUs4KKdE+lpKRAxziv2TSdegC+EPkqf741H9UbISlESWYYBtxQxLZ9SVrkArMFMSmqX0nNxqe6h36RGlETZywcQVLQseSPnz1uztaIHl3+JjKjuc2DmhvAv72q+elN2OueiWTykfxSJ8/BS9nNmU9mPUyfdmLVqyggMmPGaDoMtb;cLuBTFd2PcaxaOWkon0/nA=="
+secured: "p7vq7+YNKCIppiK/2/XoMeqq8HlqdrQUofVtgMAQQbNIygBkeOdT3rb0+ErCbmc78YMh5ZfFQbp4zTVuRzXtQIK8INnw4vLHaSxcBqakkw8ueygd8d/jI445gY25lyx+TpJLo/pWF/+u3EGY8RywKLPxzHVii0E6TMvkUSYjtarzupbIrPxS5dVRLWYChl2pMfsttPHXD5exBODUu2QzzFa1NlvXhaaPtcl7PpuvD1bRAVRHFXnuQcmmqi2sHMpVHZIDOixILXWAhnQ4URene693XO+9KsBrrdZp7py0MAIJPavbbYtz52uZbvwf4Ax4;CTZh0AaPiI/Z4RvOfyCNkw=="
 ---
 

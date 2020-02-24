@@ -6,8 +6,8 @@ publishedDateTime: 2020-02-24T13:56:00Z
 webUrl: "https://venturebeat.com/2020/02/24/karius-raises-165-million-to-identify-infectious-diseases-with-ai/"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: VentureBeat
@@ -25,6 +25,21 @@ images:
     width: 1200
     height: 600
     title: "Karius raises $165 million to identify infectious diseases with AI"
+
+related:
+  - title: "AI-powered blood testing startup Karius raises $165M"
+    excerpt: "Karius, a startup developing liquid biopsy tests for infectious diseases, tested in ongoing clinical trials with St. Jude Children's Research Hospital, Duke Clinical Research Institute and more, closed a $165 million Series B funding on Feb. 24. The new ..."
+    publishedDateTime: 2020-02-24T22:26:00Z
+    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/ai-powered-blood-testing-startup-karius-raises-165m.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 37
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/2.jpg"
+        width: 400
+        height: 300
 
 secured: "KOrXYACvb7cUw7/SSklEqcIBLrQx/EdIeVb8GZ5ytkvm+TlMnZghFADq800kciK+HJAoquplxGn38ZeJSM8QbiNjkkqEtUr01xl75p275YOSri4j6Ql8chkE3i2Sn5Sq8XY9IwuUJ68D9qgAP+UE5McETxx40ll0aY8hC1QxqK12BI0DPteXoYeIDAiB9qaskc/Bnoew1e1bO6NNN0ykALRJUVG/pYNOk9pmsOIfAP/SkUep7uO9rR2/Wi3wHccV3EG3sSklrGjX3PwG7yW209hOnjmav2q9kmZh00Ed4p19+w5X17PxDq1vKdlneStzBzJ3I+Kbr38K54sYsaiEPsfB+3k5GVrLjGjizGW4KO09NTx2iCwCe2AT2yKia7VVxneqpVEF9Ez52vSVykeDKfBN75t5zCsP9cg3VLl/fP9gvQLbh/IoPW1BuvUEHNe3xh03IgTdd8KoNxPkImxvZE0d1alIExrUUWmlK6RANpI=;EDeAW+7UJ3kfVYxj/NKnSw=="
 ---

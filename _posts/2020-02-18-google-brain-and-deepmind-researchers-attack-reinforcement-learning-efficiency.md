@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/02/18/google-brain-deepmind-reinforceme
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/18/google-brain-deepmind-reinforcement-learning-efficiency/amp/"
 type: article
 quality: 100
-heat: 110
+heat: 120
 published: true
 
 provider:
@@ -30,6 +30,19 @@ images:
     title: "Google Brain and DeepMind researchers attack reinforcement learning efficiency"
 
 related:
+  - title: "Using machine learning to solve real-world data problems for scientists and engineers"
+    excerpt: "Many researchers in artificial intelligence and machine learning aim to develop computer programs that can sift through huge amounts of data, learn from it, and guide future decisions. But, what if the many data options are hugely expensive and difficult to acquire and one has to decide which data is best to spend your money on? What direction ..."
+    publishedDateTime: 2020-02-24T14:00:00Z
+    webUrl: "https://news.wsu.edu/2020/02/24/using-machine-learning-solve-real-world-data-problems-scientists-engineers/"
+    type: article
+    provider:
+      name: Washington State University News
+      domain: wsu.edu
+    quality: 32
+    images:
+      - url: "https://s3.wp.wsu.edu/uploads/sites/609/2020/02/doppa-at-NeurIPS2.jpg"
+        width: 1188
+        height: 792
   - title: "Army researchers develop efficient distributed deep learning"
     excerpt: "ADELPHI, Md. (Feb. 18, 2020) -- A new algorithm is enabling deep learning that is more collaborative and communication-efficient than traditional methods. Army researchers developed algorithms that facilitate distributed, decentralized and collaborative ..."
     publishedDateTime: 2020-02-18T18:00:00Z

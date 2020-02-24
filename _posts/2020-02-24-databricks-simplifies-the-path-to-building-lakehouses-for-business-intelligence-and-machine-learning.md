@@ -25,30 +25,19 @@ images:
     title: "Databricks Simplifies the Path to Building Lakehouses for Business Intelligence and Machine Learning"
 
 related:
-  - title: "Syncsort Partners with Databricks to Make Mainframe Data Accessible for Cloud Analytics, Artificial Intelligence and Machine Learning"
-    excerpt: "Enterprises can now leverage Syncsort Connect products to access, transform and deliver mainframe data to Delta Lake for advanced analytics, artificial intelligence (AI) and machine learning projects. Organizations rely on Databricks to process massive amounts of data in the cloud and power AI, machine learning and business insights."
-    publishedDateTime: 2020-02-24T19:48:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-syncsort-partners-with-databricks-make-mainframe-data-accessible-/2020/02/24/9102924.htm"
+  - title: "Turning Machine Learning into Business Applications"
+    excerpt: "Machine Learning is viewed as an essential enabler that will allow applications to act on the collection of new data sets to improve their predictive capabilities. This white paper shows how Talend and AWS are bridging the gap between data scientists and data engineers to operationalize ML."
+    publishedDateTime: 2020-02-24T22:09:00Z
+    webUrl: "https://www.computerworld.com/resources/199257/turning-machine-learning-into-business-applications"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 38
+      name: Computerworld
+      domain: computerworld.com
+    quality: 39
     images:
-      - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
-        width: 252
-        height: 335
-  - title: "3 Ways to Make AI Practical and Accessible in CX"
-    excerpt: "There’s confusion surrounding every step of implementing AI-powered CX, from choosing a solution and determining how it will functionally add value. Forrester surveyed CX leaders, and found that most start with revamping their digital channels, seeking technology platforms that empower both agents and consumers. Many organizations choose to ..."
-    publishedDateTime: 2020-02-20T16:31:00Z
-    webUrl: "https://www.business2community.com/brandviews/zendesk/3-ways-to-make-ai-practical-and-accessible-in-cx-02286527"
-    ampWebUrl: "https://www.business2community.com/brandviews/zendesk/3-ways-to-make-ai-practical-and-accessible-in-cx-02286527/amp"
-    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/brandviews/zendesk/3-ways-to-make-ai-practical-and-accessible-in-cx-02286527/amp"
-    type: article
-    provider:
-      name: Business 2 Community
-      domain: business2community.com
-    quality: 37
+      - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
+        width: 300
+        height: 300
 
 secured: "mY2dor3D+2FJqmTtL/LbEDvjc3e+/57bgavP5QcIhvdWOTUoHebvQUHe6swSjq3/0JWujIrLmlN4401iaV/hFXrGYZlAofxbBTJDm9JIvacj3HzRikhjs4q8L10i/mGzKkbyw8wG1JAe+bQy39fqrPWlgbkuGZ62scv+SxoaAIRluStT/G9XIlvuaQJzRSUhWbEQnkzOx0/BVWfpgdpkFlm6hkPt+XE0ci0U1+cj6ZpmYORVPC9lMxkDGB3VEMrF2+QQS6owtyh7KstBHcy4vfcSYSaZUaYfXIfcKjoprL1djdAVKYVdk6/5hfMMHgzr;EOxRxnB2n8RAa8+Qqe+lsg=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-24T21:51:00Z
 webUrl: "https://www.dvidshub.net/webcast/23232"
 type: article
 quality: 54
-heat: 54
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,21 @@ images:
     height: 500
     title: "WEBCAST: DOD OFFICIALS DISCUSS ARTIFICIAL INTELLIGENCE ETHICS"
 
-secured: "ahjJ6ujr0VplvWZz3PIhfQuC2Ll56J9e2Dt8znd2pW4cpYy8B1BgfIW1DzZlgxrTumubbr+Ocd925zgFb+CNZgB1LVbbV4aMrD37ni1xaelu3vOR5uIo2s0l0/6b/dqk4s9GrGYvlZHoq5wGH0Uls3CUCJicL6qD9B1yCFP6VPYFYHVPMbpaWjhJk4CAOjB6ys5dBaq9CklEJEG1j6CzICGWdJ6Nf4inFsGLM5iNgPbUUi6tkJmTl4VXO6Yx8rUHrpb3IZGV1FLEQ0Wp3XwKpUIJyjWsMSSBDyPE4rXpwTMbZJX3cZW3WD0Y75F+Xnvb;ZlxJkoK18fuaWkdEDAAk/A=="
+related:
+  - title: "DOD Officials Discuss Artificial Intelligence Ethics"
+    excerpt: "Gen John N.T. Shanahan, director of the DOD’s Joint Artificial Intelligence Center, discuss the adoption of ethical principles for artificial intelligence at a Pentagon press briefing, Feb. 21, 2020."
+    publishedDateTime: 2020-02-24T22:55:00Z
+    webUrl: "https://www.dvidshub.net/video/740566/dod-officials-discuss-artificial-intelligence-ethics"
+    type: article
+    provider:
+      name: DVIDSHub
+      domain: dvidshub.net
+    quality: 54
+    images:
+      - url: "https://www.dvidshub.net/images/defensetv_new_logo_white.png"
+        width: 366
+        height: 313
+
+secured: "OnijHPTNuDncQagaE7LUOHLC1I1vY70K03+FY1hfLzIQmFuMoz1CWZ0WsNIzCmEJCHE1USKHI8Ub3R1jYa7x/le34BEb7yz8zIF7Ua+TRlldfIftHq9HSlVJo49sx9c1NkpsAcR57RG4MFc1Udl7xiQgxxoral0dMPjBF+ndi5Xam3Ieyv65BK9LxkNRX4zj4leb1KxqCj31j++fG5LEQ1rv5iQ2Broa/yaH/YHFifa7QopC8I6/a/JANsDC7Oow5J/WDY52wto+O6l58mO9AVPgzN8P86MjNV7xvYdRS4/Al44pTiLqYFtR5kRMnDVNJakMeCWieqt0lnZumgCGDVdgabvsW/yW2VDM12Mffy253oCbVLuTvKtheZtcF83ecfmckhRMjCo2/2hPUSC8jDsIcBXL0DL+/VQFbqPxClX+sUfKfQW4fPgiL3PJ3ZwDrl9lmJVE133kMCEDuRTvoE5xfQpK6mE2iPJ1AJEQRMw=;59dxt0xtk3PsljPjz8wPmg=="
 ---
 

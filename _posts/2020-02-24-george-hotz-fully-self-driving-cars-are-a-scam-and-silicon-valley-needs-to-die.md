@@ -23,6 +23,6 @@ images:
     height: 630
     title: "George Hotz: Fully Self-Driving Cars Are a 'Scam' and Silicon Valley 'Needs To Die'"
 
-secured: "OrKPhIbmGqIvrxOHMqbQffiy3as542Nu7JWvJPAZMzKDZ8AQD+RliI8aqxMhcekZSCn9gTpDZ5QIJU26wjGYSuF6GYbn//5hRUfEzrtk67vkTfhneh0Q8UxiP2aQr9fufkRtJlP7/kLNP4K4xqq7yGSQvYTJL6+1iqKrPQZsobostGPc7Ga+QrcL4hZmd+GVwA1Zi9GTcqJfzFdAlDKbSycusR/rla/JJ0fBsQiy7GVWi/nrScdflKfRdNKcdrNQimC0+dvGykr6EcGNlz8q/iUwz+loI0Gr/vcGiA768QGPlXsjJ40Jf8RBI3HxTReQ;TWvORxMK3VbHrNGabq49SA=="
+secured: "AUHsosn6tfOe7Gt/5Mb4mbIqhVhOem6eYB7RNtIV1f7Szez1cGT6jSSEuEU1sZgiWQN2VQzsua/bVuJqydiWtB7jGRfaS/qiOu9xkNhQVbflMOo5W3pGevuI+4bEBJKlziKnP65tc64bVNpuzLq8+ILigNpGT2WLh1lGkQrT4aEJ4jkNgka2/AOGBZPzxF061iFvT3wGdXQPnFzJxo5Bc49CnIhdnZDf8uBDxnStaFQpuFF7igAK7D59CUrfAMcqIKstFCzjoqDmCa+XeCuT3SsdUFNxwTb/WUKII5XNLJZAMSWdWzrN/SCwomNUKNo2Ev9xdFKWrSvsYvS7ktkQNpAsfc5zBIfInSJdBts4IYxfA8hmnaQFbEV7R72JpS6ZDrEvdiav2CuL/o3Ux62aw7LMrUMxhsIC15nCfGRxPXt+iE5sUruvsrsaEgPNauVmMtUC/wRPfJE4a+yb+CccAGddRry/6tPjEvhSmzR0tv4=;dYWVAsfrcsiGGbnCj0ZUog=="
 ---
 

@@ -2,25 +2,25 @@
 category: news
 title: "Drones. Disinfecting robots. Supercomputers. The coronavirus outbreak is a test for China’s tech industry"
 excerpt: "The government has long stressed technological innovation as an important pillar of growth, and Beijing has spent billions of dollars on subsidies, loans and bonds designed to spur advancements in artificial intelligence ... from simulation to practice.” And a startup, Shanghai TMIRob, is sending dozens of robots inside hospitals throughout ..."
-publishedDateTime: 2020-02-24T05:07:00Z
-webUrl: "https://krdo.com/money/2020/02/23/drones-disinfecting-robots-supercomputers-the-coronavirus-outbreak-is-a-test-for-chinas-tech-industry/"
+publishedDateTime: 2020-02-24T19:35:00Z
+webUrl: "https://keyt.com/lifestyle/money-and-business/2020/02/24/drones-disinfecting-robots-supercomputers-the-coronavirus-outbreak-is-a-test-for-chinas-tech-industry/"
 type: article
 quality: 22
 heat: -1
 published: false
 
 provider:
-  name: KRDO
-  domain: krdo.com
+  name: KEYT
+  domain: keyt.com
 
 topics:
   - AI
   - AI in Robotics
 
 images:
-  - url: "https://krdo.com/wp-content/themes/storymate-npg/assets/images/weather-icons/9003_partly%20cloudy_day.png"
-    width: 280
-    height: 360
+  - url: "https://s3.us-east-1.wasabisys.com/keyt.com/2020/02/hypatia-h_036d6558ca5d40262f24cfcdcaf8983f-h_18363860c4c94f3fc0da726aa7ecb32b_preview.jpg"
+    width: 499
+    height: 333
     title: "Drones. Disinfecting robots. Supercomputers. The coronavirus outbreak is a test for China’s tech industry"
 
 related:
@@ -38,6 +38,6 @@ related:
         width: 822
         height: 537
 
-secured: "pNkst1Kwf2KqKYj22Q5WTJDh4KQAFSNQmWIImirOC+MCa1T4D4ZPZBOHI90cNdCIakE7t/UkzVlNqWdikEejdK7miaW40Z/Q49zfdqyggrEi9aD19u6BwUsNANewQMUXm83jg7WJYMxiPFEOoCYGO9NahYXafh+8H9unXC62QO1DTfbVF1iVwB1u/wMrxWyyV2LNh52IjhqsAQxgjiJwp7EmmFzCIOOsYF4XZVs+DMmSSVwXuu1Q2056x07uRMfInay0fj3/KYRkfTu7LP8YMejOAPuT1tQp/TTXN4idlumM/yPfvNYJP83O1aE6PuXJ;psAjAD2KdGOg1jyC7W63DA=="
+secured: "nqVPBkjUK71/HW/K9k9dldOcYDpJ/CSS/nFzpGyTjT1Nu0ForGu9R+WP5VyZoUfasskU6ZibBvCG6SOdDtZSGpCSDqGwBMeuqrG3M2EdIqTW/nLJVzeCYWm4tbo0jUnluoYn6uB5DUoDsTjgOUaLKMc77RVfoEGB6LuB4Uw1qpHr2PFpXQKF6MEIS/abREiQLzIJIgKCuRvmTazDc/IjTeZOsTDjlZNo8RxmLsmcyLeUlgbe0hlCzBFHXSVPKceABLucJtreITCY3tjUnJcAX7LKNmsZV3fzSl+BM2ZPa23l1sW7TToPPQKrVliJL2AN;wSK0OYzpbK0gTJUHqpatbw=="
 ---
 

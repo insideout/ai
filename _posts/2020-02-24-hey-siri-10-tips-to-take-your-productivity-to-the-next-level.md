@@ -25,6 +25,6 @@ images:
     height: 796
     title: "‘Hey Siri:’ 10 tips to take your productivity to the next level"
 
-secured: "dBB6AWfV4SemlnQRyW3pQQ/1kfph2AR9ivMAkdYaHbNhLd2+GxYOT8mO6lvSKjj2fMU4vPx7s+dLn/dx3f9zTqX9VMcLRdhqSBydCQuGbpytqUBPZIZ9ic1iLEbysXpdPBSpWFeqeu4f86x7izG9/bRB8wEz1aMcouoeL4s0y98rMBe4o1/cK1wy9RVYG25CIIObQJKr6NZQRp0t+8C7cyM00gEScMBkDFoyXaoQ0jkt5/FtzhmOob1ifF0ez8R/vWWEcarm+0Jr9XweFXSElZSWFJ6edv3zwaXTtEhIRmMNPQ1x5NGilj2xIGBF7r5x;w5on4ASgDyrUQTWC+n+sqA=="
+secured: "/xSOVYp1FkAP5GoVfLqE/IJdyObSdndsEHDplhi1vlRMAZlil6joT9gUqW8X/vaInlJxjaVvJITh3vYVbpLN6Xh3vkNNtcH+DR9Lv9rIFuA70D+A76AqezoKgjHvq+tpXplvUD35rUA9obss2aGL46R46piWaSVahuI8nwqEMhulRjAn1kudR4u2fSFRB9rljBG4J9jD8b9YDzXBhCwQFEoBhhqLMQR1Nv9lH/BDN7lbcFI3T6L/4HYBjQulcKL6htUIy9x+TwJ/Vq6/rnEJh8INhzkFtjxIiIV8Ea3A7cox/+BWIthkKaRWE239y7aLsTRAQ56eTc5rC7v/uD//XKr29EhLfa9+fM5GfxUJS6QrglN6O3fo1HvmoCne1MEPGkEiGOiXDxL+sGi4hHfcX5xdw6FGF+ZDTEpni51a44jK/EaVMhpOXdidS9M7O0+1B1g4n8Q2FYaJpWRyBdvDeXEB1An1l+NKVbQCEXTstv0=;QVW49EM2mQxxIACujdBi4g=="
 ---
 

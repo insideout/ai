@@ -85,6 +85,19 @@ related:
       - url: "https://mms.businesswire.com/media/20200219005572/en/704236/23/DataRobot_Logo.jpg"
         width: 1200
         height: 627
+  - title: "DataRobot Named a Visionary in the 2020 Gartner Magic Quadrant for Data Science and Machine Learning Platforms"
+    excerpt: "DataRobot, the leader in enterprise AI, today announced that it was named a Visionary in Gartner’s 2020 Magic Quadrant for Data Science and Machine Learning Platforms for the second year in a row. The report recognized DataRobot for its completeness of vision and ability to execute. “Over the past year, we’ve been focused on expanding our ..."
+    publishedDateTime: 2020-02-24T22:54:00Z
+    webUrl: "https://apnews.com/457fb1cbb5e849138ce775c22609efdf"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 19
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
 
 secured: "R0+wjTZFB4QCLL+5Np2jVVCw74k9Npo/2AVcuR8hQTdKWVHpoRehyF1XNtOeyubIYRFdOCnVdXJKnVchdsSJePSaXle3xAQGqsHjT6KN86xgPuKC7krLxWLV35qt3izAisMANXh6Uesncdx0neh2dnfc1D5e/4Hpybli+2h47oNgMuWHpLvbMnaoxCtLa42HE9XrBRndkBjFI2JrT3XXZSeIb2K3Y7MqoUtVMHJe360zcIXckyxAvu5HQ9RzX7LaU26hbzbrAf0f1z9IiuoOdQGaSp3dgG8Pc+TPPOiIzPs+Om2ibcoU+rYyxEfEJmZl;IXvGkIM/L8NdC3jLhNHLZw=="
 ---

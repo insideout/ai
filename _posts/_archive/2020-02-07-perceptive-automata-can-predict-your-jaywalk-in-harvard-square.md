@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Perceptive Automata Can Predict your Jaywalk in Harvard Square"
-excerpt: "Perceptive Automata takes a novel approach to circumvent this shortcoming of overly-cautious driverless technology with artificial intelligence that reflects human thought processes. By analyzing everything from posture and shoulder tension to how someone is holding their coffee cup or phone, “[we’re] getting at the underlying dimensions of ..."
-publishedDateTime: 2020-02-07T02:05:00Z
+excerpt: "Perceptive Automata takes a novel approach to circumvent this shortcoming of overly-cautious driverless technology with artificial intelligence that reflects human thought processes. By analyzing ..."
+publishedDateTime: 2020-02-07T02:01:00Z
 webUrl: "https://www.thecrimson.com/article/2020/2/6/perceptive-automata-sees-you-jaywalking/"
 type: article
-quality: 4
-heat: 4
+quality: 24
+heat: 24
 published: false
 
 provider:
@@ -17,6 +17,12 @@ topics:
   - AI
   - AI in Autos
 
-secured: "2vut5ICHZnW/A742V+Pqs7dPGRDHnXZURrhpCUboKBoxmU/i1rFLd5msUgXYmbVRuRLBPutD9MFA4I2pTNsNnZeUbd104Zjl7Srhhe0iDw+/yVcURSw3aUFxERmUMtHqCpG1DHb9O1m/T70FlELMmJgJpF17EHUOIGI1cSJpu47Ywzk5ApSFXJzHQxeTTQak0A/vWnhtof9DghYq7REDcdN5DJxtLvB3crttVjWbxsg08eHHZZzJ9Fmmy9IsT7ft58/AM94suE5R7hhIrgpKBUTROqZTfkvwTS9Qx5+ToqM+0SvQPCrFd+vtr/Hu6Cq/OFxwJv6McprkL63O+WvHt1KUFmhVg95sSpGYUhKIjeHWBIKFVM1qLFwPirRTgRajifwxYDnf247TOvvpzgSkN/I3H1Hm65TsFAmqHw/uQ6b+YVkIgK15uFI9X4PkFgaZhKFOVelwXr6PrrnlgZ3cCw9IpxiqRp38eAvFx34K2s0=;hmJr0ByKd3KpqbvqGSWK6w=="
+images:
+  - url: "https://s3.amazonaws.com/thumbnails.thecrimson.com/photos/2020/02/04/220657_1342258.png.2000x1103_q95_crop-smart_upscale.png"
+    width: 2000
+    height: 1103
+    title: "Perceptive Automata Can Predict your Jaywalk in Harvard Square"
+
+secured: "UIJwrv4vJLY4sorN2P4nj1Guyx22+PNd1uwFMOs2bup1MYtQQC8W1oNHZO4mlpv8zzdjdx8KBqbLOxBAvwAFewc+X7JdywQ/66orUr3mIo9+nD+jK1IJPZHiH8yCpEsP9yV+Li4oQ1yDKmP9cOu3NFEAgRbZj3UpXXqo4cyknzrjlvRJEWPsDVtCxg6JkNE/zWbxokyUDBb2eaEXE64dTKfhP+7oWdFQ/1bVSIcLYe9X7snrwwRUsWPebmUtG5OYfAa8OYKq3NTAwHwPUrg57tJAmDeGg0P5C8EL8i7q8UgQfh2JWSC07h5Z7NvMPv3j;Dz9V1UAAJaTVdjJ3DhyVFQ=="
 ---
 

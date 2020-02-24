@@ -35,6 +35,15 @@ related:
       name: GlobeNewswire
       domain: globenewswire.com
     quality: 0
+  - title: "The Artificial Intelligence in Food and Beverages Market is expected to register a CAGR of over 65.3% during the forecast period 2019"
+    excerpt: "Market Overview The Artificial Intelligence in Food and Beverages Market is expected to register a CAGR of over 65. 3% during the forecast period 2019 - 2024."
+    publishedDateTime: 2020-02-24T19:00:00Z
+    webUrl: "https://www.globenewswire.com/news-release/2020/02/24/1989471/0/en/The-Artificial-Intelligence-in-Food-and-Beverages-Market-is-expected-to-register-a-CAGR-of-over-65-3-during-the-forecast-period-2019.html"
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 0
 
 secured: "tbdy/+WzIlwmWtq2zQ5zHpuIX4yXrJb2kDA+l8O4uOwI3pIrFaYsgRWUAErMr5OPzg29srRMYUGHlenxyXOAcZb/Gxb6P6uzFnPdUvCQRHUacoDbjHLr44baO/PTi1ZX6oWJ5XBl+IhzkU0vQUpTnM63R5ZFJLnx07LpiwbbBMTmRBXpPP2YJUmSDQ3Gu2Z/2zoVf/hhrYzhuYjRAtBlqXkjAII5pe9QfwFkRdLmVeUoGSQzP+TYCjYAhMV1WrufaC313uELQExUVM+OSfC98AQDEUO3zDcVQ2p1eqpfA65SYu9eAONNxJqaNU37YSa0;AtaQX9orH4yJFACAL5N9VQ=="
 ---

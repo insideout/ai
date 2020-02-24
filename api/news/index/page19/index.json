@@ -2,6 +2,51 @@
   "page": 19,
   "value": [
     {
+      "path": "_posts/_archive/2020-01-26-apples-dismissal-of-200-self-driving-car-employees-points-to-a-shift-in-its-ai-strategy.md",
+      "title": "Apple's dismissal of 200 self-driving car employees points to a shift in its AI strategy",
+      "excerpt": "Apple dismissed 200 employees from its self-driving car unit on Wednesday. Apple said some employees have been reassigned to work more broadly on artificial intelligence and machine learning at ...",
+      "heat": 80,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2019/01/26/apple-car-layoffs-signal-focus-on-ai.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2019/01/26/apple-car-layoffs-signal-focus-on-ai.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2019/01/26/apple-car-layoffs-signal-focus-on-ai.html",
+      "publishedDateTime": "2020-01-25T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/105107156-rsz_gettyimages-849703458.jpg?v=1545329379",
+          "width": 2000,
+          "height": 1334,
+          "title": "Apple's dismissal of 200 self-driving car employees points to a shift in its AI strategy",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-26-clearview-ais-database-has-amassed-3-billion-photos-this-is-how-if-you-want-yours-deleted-you-have-to-opt-out.md",
       "title": "Clearview AI’s Database Has Amassed 3 Billion Photos. This Is How If You Want Yours Deleted, You Have To Opt Out",
       "excerpt": "The Clearview AI nightmare has already been well-documented. Now, it’s emerged that if you want to be deleted from its 3 billion image database, you have to prove who you are first.",
@@ -1544,14 +1589,14 @@
     {
       "path": "_posts/_archive/2020-01-27-university-of-michigan-showcases-new-ai-ethics-center.md",
       "title": "University of Michigan Showcases New AI Ethics Center",
-      "excerpt": "(TNS) — Researchers at the University of Michigan have been exploring the need to set ethics standards and policies when it comes to the use of artificial intelligence, and they now have their own place to do so. The university has created a new Center of Ethics, Society and Computing (ESC) that will focus on AI, data usage, augmented and ...",
+      "excerpt": "(TNS) — Researchers at the University of Michigan have been exploring the need to set ethics standards and policies when it comes to the use of artificial intelligence, and they now have their ...",
       "heat": 74,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.govtech.com/education/University-of-Michigan-Showcases-New-AI-Ethics-Center.html",
       "ampWebUrl": "https://www.govtech.com/education/University-of-Michigan-Showcases-New-AI-Ethics-Center.html?AMP",
       "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/University-of-Michigan-Showcases-New-AI-Ethics-Center.html?AMP",
-      "publishedDateTime": "2020-01-27T12:17:00-08:00",
+      "publishedDateTime": "2020-01-27T12:15:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Government Technology",
@@ -2118,51 +2163,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-28-cisco-brings-new-ai-functionality-to-webex.md",
-      "title": "Cisco brings new AI functionality to Webex",
-      "excerpt": "About six months after acquiring Voicea, Cisco is bringing its AI capabilities to Webex meetings. Now, Webex Assistant will be able to help with meeting tasks such as language translation, closed captioning and transcriptions. What is AI? Everything you need to know about Artificial Intelligence A guide to artificial intelligence, from ...",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/cisco-brings-new-ai-functionality-to-webex/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/cisco-brings-new-ai-functionality-to-webex/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cisco-brings-new-ai-functionality-to-webex/",
-      "publishedDateTime": "2020-01-28T00:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/01/27/b83afa9e-e7cf-4580-873e-523febb334a5/wm-1.jpg",
-          "width": 1789,
-          "height": 1118,
-          "title": "Cisco brings new AI functionality to Webex",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

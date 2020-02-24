@@ -1,27 +1,28 @@
 ---
 category: news
 title: "Pentagon adopts new ethical principles for using AI in war"
-excerpt: "The Pentagon is adopting new ethical principles as it prepares to accelerate its use of artificial intelligence technology on the battlefield. The new principles call for people to \"exercise appropriate levels of judgment and care\" when deploying and using AI systems,"
-publishedDateTime: 2020-02-24T21:56:00Z
-webUrl: "https://www.sfgate.com/business/technology/article/Pentagon-adopts-new-ethical-principles-for-using-15080225.php"
-ampWebUrl: "https://www.sfgate.com/business/technology/amp/Pentagon-adopts-new-ethical-principles-for-using-15080225.php"
-cdnAmpWebUrl: "https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/business/technology/amp/Pentagon-adopts-new-ethical-principles-for-using-15080225.php"
+excerpt: "The new principles call for people to \"exercise appropriate levels of judgment and care\" when deploying and using AI systems, such as those that scan aerial imagery to look for targets. They also say decisions made by automated systems should be “traceable\" and “governable,\" which means “there has to be a way to disengage or deactivate ..."
+publishedDateTime: 2020-02-24T21:54:00Z
+webUrl: "https://abcnews.go.com/Politics/wireStory/pentagon-adopts-ethical-principles-ai-war-69181756"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pentagon-adopts-ethical-principles-ai-war-69181756"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pentagon-adopts-ethical-principles-ai-war-69181756"
 type: article
-quality: 57
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: SFGate
-  domain: sfgate.com
+  name: ABC
+  domain: go.com
 
 topics:
   - AI
+  - AI Ethics
 
 images:
-  - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-    width: 375
-    height: 211
+  - url: "https://s.abcnews.com/images/Politics/WireAP_5a2ee9d1ab2546ab8f055f25d1597576_16x9_992.jpg"
+    width: 992
+    height: 558
     title: "Pentagon adopts new ethical principles for using AI in war"
 
 related:
@@ -38,7 +39,31 @@ related:
       - url: "https://cdn.nextgov.com/media/img/upload/2020/02/19/NGdrone20200219/open-graph.jpg"
         width: 400
         height: 400
+  - title: "Pentagon adopts ethics for artificial intelligence use"
+    excerpt: "The Defense Department has announced adoption of ethical principles for use of artificial intelligence following 15 months of consultation with AI experts in industry, government, academia and the American public."
+    publishedDateTime: 2020-02-24T22:28:00Z
+    webUrl: "https://www.upi.com/Defense-News/2020/02/24/Pentagon-adopts-ethics-for-artificial-intelligence-use/3091582573432/"
+    ampWebUrl: "https://www.upi.com/amp/Defense-News/2020/02/24/Pentagon-adopts-ethics-for-artificial-intelligence-use/3091582573432/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Defense-News/2020/02/24/Pentagon-adopts-ethics-for-artificial-intelligence-use/3091582573432/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 74
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/3091582573432/2020/1/9824e619619d8a01a1f10fbe03097da5/v1.5/Pentagon-adopts-ethics-for-artificial-intelligence-use.jpg"
+        width: 800
+        height: 534
+  - title: "DOD Adopts Ethical Principles for Artificial Intelligence"
+    excerpt: "The adoption of AI ethical principles aligns with the DOD AI strategy objective directing the U.S. military lead in AI ethics and the lawful use of AI systems. \"The United States, together with our allies and partners, must accelerate the adoption of AI and lead in its national security applications to maintain our strategic position ..."
+    publishedDateTime: 2020-02-24T22:03:00Z
+    webUrl: "https://www.defense.gov/Newsroom/Releases/Release/Article/2091996/dod-adopts-ethical-principles-for-artificial-intelligence/source/GovDelivery/"
+    type: article
+    provider:
+      name: US Department of Defense
+      domain: defense.gov
+    quality: 34
 
-secured: "e2SeL9R3aJclQTMIEcWX++cKAyqYHqNEGX+ZLaif0nScnSwQZuHxrPuLByQkZ9Dl4msSljX5DUJ+cq+ieHiCL5daim8e9mf7UOVt4oX1V+k4pAKNDhSD+WnRf4EpLRXH0V+zb7C4zXbF4vO5Kwtfw8bowMKcRQytnL+DwEgSfJn+rZpMiv+aNseBUMMAMpX63WrZ+3n/um8IPr8qBXk2s6hIE0IU3QAwWLxvhfh3nlsktWRubIRKXU/X20eP38718/0FYycU+UB9Uo6N2FgnRmUAHoO6Iu7ISVLbhN2X7bkkSvo5gzdmSwy4F4IdlcZy;vuZjnu7QPrjB8vSfVkmHZw=="
+secured: "p4H8uTFc2QYPc36lj0Bbs7BzsSk/nXk3W9c5fu2fF202fJF+Ky8aWN3Z1cMSd7STH/eyPssXugb7+DGQe5BONuZMwSel3gggzZmcH8Rs2VVV/AlKcbmR0WoUkAzHiJslkJIoUpGp+dNOips8ISsZraF2DE+GMgUO0kZNkdvOVdqhkpGk+0mW7+vhMwRTwaIZ50w/nAGiQpHVt5DY/tkkj79T7tMyC05LTMWWtOTIjbi+ynijnngJJOzmLbbuqM6vqqOOcX6ChVl7D8pJfu783Gd5G8Ak90NsdIWeARFWEwZClWOelnf3sHNp+SPkuwvZ;mhzlNkLaiG/JkjwpnMPGJA=="
 ---
 

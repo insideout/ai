@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2020/02/20/gartners-2020-m
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/02/20/gartners-2020-magic-quadrant-for-data-science-and-machine-learning-platforms-has-many-surprises/amp/"
 type: article
 quality: 80
-heat: 130
+heat: 140
 published: true
 
 provider:
@@ -84,6 +84,19 @@ related:
       - url: "https://mms.businesswire.com/media/20200219005572/en/704236/23/DataRobot_Logo.jpg"
         width: 1200
         height: 627
+  - title: "DataRobot Named a Visionary in the 2020 Gartner Magic Quadrant for Data Science and Machine Learning Platforms"
+    excerpt: "DataRobot, the leader in enterprise AI, today announced that it was named a Visionary in Gartner’s 2020 Magic Quadrant for Data Science and Machine Learning Platforms for the second year in a row. The report recognized DataRobot for its completeness of vision and ability to execute. “Over the past year, we’ve been focused on expanding our ..."
+    publishedDateTime: 2020-02-24T22:54:00Z
+    webUrl: "https://apnews.com/457fb1cbb5e849138ce775c22609efdf"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 19
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
   - title: "Domino Data Lab Named a “Visionary” in Gartner Magic Quadrant for Data Science and Machine Learning Platforms"
     excerpt: "Company Cited for High Customer Satisfaction and Industrial-Strength Capabilities that Enable Transparent, Scalable and Collaborative Environments SAN FRANCISCO, Feb. 19, 2020 (GLOBE NEWSWIRE) -- Domino Data Lab,"
     publishedDateTime: 2020-02-19T16:16:00Z

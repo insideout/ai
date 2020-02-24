@@ -23,6 +23,6 @@ images:
     height: 335
     title: "Singapore's AI ethics model needs more bite"
 
-secured: "v/rt5lrHMQuTeDF7nlkn/s2HU4m/gUqCT7y2rBP/PPsBgOw/maF7Io6DZLjY1dLL97HCgPoQEFI5Dw4HKi4zSQpoFbMXAhvyqzWwUtT7cUg9YAm4tmqLU/u9msNTy704yXNlzKZguidMc+wGBoavmZztj0upNwf84OJW0LjlIok+cvIIONpv1w3byzHQD2p6LOPun1Bltb7WRLySYnEJuZ/Af0oPgQwDZcm/FKAuQmHdRU99XDxWKCQAlH/2N4muhwyyW3/OA9oL2lxKs9j1WAlGObPSabcTMgID57x7UnP77QNK1XyuVqF7M+3OvX24;FacEZWpIhvgtBkKTtnAkXg=="
+secured: "lcs4xJZxWBmNumguyCDKDbsd18DcKHgsWGEW0XFn1KomaLtnlFKqNtrW4iqtL0wIlGZyvwS+88mW7TG2bfNtPXUqvhzIgE2Iht5Hhej1KXnqWGBm/GrvLvWWR+6BUOvrBfH4jUEz+vZY0JY/Jxmnct1k7k+Jb+GqFozTXkwCyY564kp7IG86/uilInjA/dHVHHB2GaDhtrpHWsOBYvGYJQU1asng9CXFu3NJnYORpR4mwUsvh/H6aKTEpXssttCMXFJq52N1dm7MJPZuTkThIZYFINbED5oEsv/efqt38GJNqdBCXO86oGt+/LpIBNfb;eLwRp8HpDkDPUXmJ80/Vwg=="
 ---
 

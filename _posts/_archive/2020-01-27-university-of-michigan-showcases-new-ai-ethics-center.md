@@ -1,8 +1,8 @@
 ---
 category: news
 title: "University of Michigan Showcases New AI Ethics Center"
-excerpt: "(TNS) — Researchers at the University of Michigan have been exploring the need to set ethics standards and policies when it comes to the use of artificial intelligence, and they now have their own place to do so. The university has created a new Center of Ethics, Society and Computing (ESC) that will focus on AI, data usage, augmented and ..."
-publishedDateTime: 2020-01-27T20:17:00Z
+excerpt: "(TNS) — Researchers at the University of Michigan have been exploring the need to set ethics standards and policies when it comes to the use of artificial intelligence, and they now have their ..."
+publishedDateTime: 2020-01-27T20:15:00Z
 webUrl: "https://www.govtech.com/education/University-of-Michigan-Showcases-New-AI-Ethics-Center.html"
 ampWebUrl: "https://www.govtech.com/education/University-of-Michigan-Showcases-New-AI-Ethics-Center.html?AMP"
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/University-of-Michigan-Showcases-New-AI-Ethics-Center.html?AMP"
@@ -25,6 +25,6 @@ images:
     height: 627
     title: "University of Michigan Showcases New AI Ethics Center"
 
-secured: "TU2lzTuuFizxk7ffE9kOaxkBS2mjdonTp/aUt2Vp1fh6faiajaTdocuQ7aJdDiWTltvm36wnnpGAhqSTjbikISv+PRF45mMWmQe0y3ju+LtM8LTAW/QiWZUrVWSaDz8HKok7RQALC1l4UJDtnSaQuuilLrTpx5APTwmLgKKc1ZYR/nzEPs48GANZEdEvaqrjxRNg4Q8BL47vd401BQcp0AUIlfYbajzMMoksox4LaTFM59ceMexf3D8dC/A95X3BobIaxOzRcgAhs6ft+tzIXO0aEIrkyRFGxm2EWFQD87atgNuZSVGEt7BtkBzdDu376qrUalB9ewj9ub94BFkiMuKpI/DqetqsWqCGi4yp66ShbqmuFAxOs8sC0cTFxZ+hpKyWZ5jzoxVDd6IXWxJonnmw85FiskwxNZ57CyiUetgY55UX1CHetCTlRNYhHfoMy4+7k3/oHKIv6v93vucMamRLIrzzZPSZb+rIWQZ6ykM=;JKZGzhf5pH4wVujVZtWdYg=="
+secured: "0/Jpajj0enxGGlOBkya3iD+mJYWh+6sBjcOat0TNa09lBYv6X9REUuZ30/mRxBXbhO+wCvQ27cU7Z52h6Hq6xNHxOAn0Fvt7KqhA6Xer+IkqprS4X2ni4M/N9Vueztu7qBZv3J6JQZuj56eoCIZaN/C7ba55iaLhEUyCMYqJGYjme+FE98Oaq7Gaj5eXM9x4u0aXw7nS/7MzzxENj5ysmzcTY69QHR1g0qCKbDrap9ESCGQ4dNaQlNeBuO4Ao5sEYmAaYR2ozznQW+yp4pMyv7dvSy2PPmATCURvwra9+uXOHPRqIHY9noUhlE6SRfX6;nDPnLtHcfInf0kIocrxpcg=="
 ---
 
