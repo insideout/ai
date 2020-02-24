@@ -22,6 +22,6 @@ images:
     height: 600
     title: "Honda: AI ‘almost gives us superpowers' to build, inspect cars"
 
-secured: "c9FhZhUBE56RbX/BoiX9dRs/UDyfiZ7ebVcD4QgQiKGHCU0zimqDM+jqmmQ+IeXMvTGE6vrw+lZScv5A+AuKrF0iTvVJJvVArSY7BCsokKCFJKyyhFx2N8RZlD9APkZKaIwXpT6ssLnypQN4yu35/Yx6xFw94D2lUaCPfQ+YAJXj+fwvHywXIfBJd22gshs/Ig77g0fjhH2VJ1CLlp6uCFvitzbas+az4Hl/VMv7y7qAu51qha3MdhgbpOWuj87o+8fvPvAQQpqj5Hliwj7UEh1r8pKh4C0qM1StzlWi9QbsqUP1Xd9xRsGx70S23xgK;HskZ8P2SYot8M7R1Eu15Qg=="
+secured: "S5OrWQ+1SWDZEMsSh73aCGohwT0P1Eyv6V+ZtR+FE/buh/ybacACzXJaB2VJYUviTOJEhXsW0GvlaZOyG3Sum6oLA/9WwVXWZDYFIbYXa2FgAKgLNsHMyzLLpf6aLrZUv2OQ/L76XcKNytLDrGvQuKMhV5VyQAxsm3jC3rg9PbBvqsJYly9PX0xbTJZxqBdx1t0Vej+OOGvV7RYV7c2ZX2+tRH6VdcnvcDaTpFwRFw5Ig3ipBfluibhIVxLE5v6PJEmOfYxVBhzgdAlnjeuKKicTv0vd+3JIxHsWyTsxPQi0UCUS1XSck6BDBBqiPUaAhYUuWrSuZzBXLq3OTKPzc39hWtOqrg5iNUm3dlwJKSfA/3+mpzx6P3MgkOxbEnArDeVsG1IbF35T+K3hP1wC26oPgz4PIPl+CreGwhA0+qIr2pBo+687EQyz3yypDm1HMMk33lpWhjrvMHKaQagvaIrdbZUBpuS0LIHa2IJ5DWw=;Guu+nw/MGDNiuV69K2qhIw=="
 ---
 

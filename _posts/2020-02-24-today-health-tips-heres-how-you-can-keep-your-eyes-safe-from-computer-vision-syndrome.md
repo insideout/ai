@@ -25,6 +25,6 @@ images:
     height: 365
     title: "Today health tips: Here’s how you can keep your eyes safe from computer vision syndrome"
 
-secured: "m3/86jwroJQ4i4zfhAnlm22hedvRmGDlkwjnOWACb0/IB1C/+LbbkkhOYOzjqP5Hphp8XHUZfVMRjqkqFLOGmqxTvrzq75JF/BeAQ80KLNjekIveTwc35sW938/Myk0lK61iyr4K44UiDMFoVVQ+Wk0x6vHwbt+/MI/AOBBZvqQAkuy8g13sHaunggJsPC86IHQlENK1DjiimpfnUfNH+2TakJzmTx1ZNcT3pIU85kOnTE1IGBuuSbnIRtxlT3oU/NHtTbJmc9p+thOlSAz2dffgjP+9qzMGcoD/w2ree8tNyaYHux0VYKjFknZaeoaJ;qIu/r08ka8Z2S6NI7qX7NQ=="
+secured: "49s+coTSin0W5GnVUK1A12aeA+kvFXd2M7b2oQvgD6yq3s+tq9XAzligqHD7LO1Yd2VPDH3ctbzH30PlzsDeboSedwK0fjvBAggPo4TzDEftsNdoc8GBz5pQMn83b/kcKDuRb1gKc3GRJ4fpYXcaQAWoJm2zL+TgfTzmsUVyuyiqsi6t3fBo8S0iT5Huzk8XHfcHZlg1nPC03+Mn6+TRHOt6BGaQ2hoXg1qFhuTWGJUftDMltRVzLg35aD4OxVJ1WIAcM9sR7aIKi/wtmSQ08rAb/X+S/Ppwcy3RD7TPqpW9ZUsBE6Qk6BKJ5/hgH3U88nGMZvZ43pqRVOF7zkdB/g4c2KaTtCt3gEjZCtSMKx7aYEhcEnszG6x2iTMhNf8jrnfWpEM2j1beCi914bXzglJY3i3ZIucJAjUJpxUnOUeZVMLn85/zoXh7b951lB3oE6Jr0A1oXVmGGUYV2HoUc22AS/u21/n3CqL5Iv1ZeyY=;1nI7j5X4CF6q25tFGA4AvQ=="
 ---
 

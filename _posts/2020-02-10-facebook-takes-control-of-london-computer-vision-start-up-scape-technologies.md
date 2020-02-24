@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-10T12:10:00Z
 webUrl: "https://www.telecompaper.com/news/facebook-takes-control-of-london-computer-vision-start-up-scape-technologies--1325962"
 type: article
 quality: 16
-heat: -1
+heat: 16
 published: false
 
 provider:
@@ -16,23 +16,6 @@ provider:
 topics:
   - AI
   - Computer Vision
-
-related:
-  - title: "Facebook buys start-up that uses AI vision to find location"
-    excerpt: "Facebook has acquired Scape Technologies — a London-based computer vision start-up working on location accuracy beyond the capabilities of GPS. Full terms of the deal remain as yet unknown, although a Companies House update reveals that Facebook Inc now has majority control of the company (more than 75 per cent). “However by looking at ..."
-    publishedDateTime: 2020-02-09T16:45:00Z
-    webUrl: "https://www.thestatesman.com/technology/facebook-buys-start-uses-ai-vision-find-location-1502854522.html"
-    ampWebUrl: "https://www.thestatesman.com/technology/facebook-buys-start-uses-ai-vision-find-location-1502854522.html/amp"
-    cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/technology/facebook-buys-start-uses-ai-vision-find-location-1502854522.html/amp"
-    type: article
-    provider:
-      name: The Statesman
-      domain: thestatesman.com
-    quality: 59
-    images:
-      - url: "https://www.thestatesman.com/wp-content/uploads/2020/02/QT-facebook.jpg"
-        width: 1200
-        height: 800
 
 secured: "JLhfy63fcEuYRjE9U07gSpz2TnfmefatgmEs0yg+j4/CEx754MAe6jEKpyuOK4GoIVQAhq2EN6EVU14yVy9mjDBnvjkOUvFpQa/WhMRYxS/h5HWZGVedSsAnWWbExofL1+GVHUL8JAXRTEU8GU+D6SVe9TVcyuOe2kc1+5qqqgDwKwWdnnUDlyVNo9Mw3XBDw0uKFxq8JsvbPDoc6ZFalJVRdltyiExzPQ8D4z2g3AP/V6uZJYH18nXHd6iCJdnNWeyW4AWkjs7C8P3cLDGZFMjRDj/mhWaUjGGeZGAh3qzEeY5l7uf43G/S0PRjSC3O;MPgttkkfpDQslhsK15I7Aw=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-06T03:20:00Z
 webUrl: "https://www.fibre2fashion.com/news/textile-news/ups-waymo-partner-to-start-self-driving-package-pickup-254957-newsdetails.htm"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -24,22 +24,20 @@ images:
     title: "UPS, Waymo partner to start self-driving package pickup"
 
 related:
-  - title: "Tech Start-Up Pix Moving Uses Self-Driving Ideas To Make Flexible Cities"
-    excerpt: "Tech start-up Pix Moving has engineered a pioneering autonomous mobile living unit based on self-driving cars and is proposing Pix City as a flexible, tech-evolving future city"
-    publishedDateTime: 2020-02-09T17:04:00Z
-    webUrl: "https://www.forbes.com/sites/nargessbanks/2020/02/09/autonomous-drive-pix-moving/"
-    ampWebUrl: "https://www.forbes.com/sites/nargessbanks/2020/02/09/autonomous-drive-pix-moving/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nargessbanks/2020/02/09/autonomous-drive-pix-moving/amp/"
+  - title: "UPS And Waymo Partner To Begin Self-Driving Package Pickup In Arizona"
+    excerpt: "Over the last decade, the company has demonstrated leadership in advanced data analytics, artificial intelligence, autonomous drone delivery, robotics and facility automation. Waymo is a self-driving technology company with a mission to improve road safety. Waymo has driven more than 20 million miles on public roads, 10 billion miles in ..."
+    publishedDateTime: 2020-02-12T19:33:00Z
+    webUrl: "https://apnews.com/ff2671f3b1b1e579abfae6baa55d5c48"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 73
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e403a4b8b6cf300071e3efc%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1000%26cropY1%3D0%26cropY2%3D563"
-        width: 1000
-        height: 563
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
 
-secured: "mprG1ktDSbS9Sg3+DPBritoYuMpEKaLFhs/BW8cyhm4w/TMF9o7D6wHQnwwRv18GSCPZe0/+dJWrGuSD7PGF8eSY/Cmbs3FMlPN73AzEYH761Sp32xfPIgreJXPhLHTY3v19OcbEnb5Z4oeqB7R5f6DkQK62OnrsZFcyRWxEnT/BJZ+Y980SkmAR0n7AqcCOhxQv/yyU04ntZL4RyxEiolxoHZmKWlQ+/7JOQLkoJUquGOL0j7CeXuWcNxtqd1NIOyNaIgucssjHPy7IWjLupSF5qZ0yGVa5mMpouAkTca2I1V//dni40tGmXI472Unx;0wIbOa6POce2XaAMZTwV5w=="
+secured: "02Tgl6KcRh/8OrbSMrkd6ezdCRSJO0ydrK/me0SgG1wN0Qk1QjWfEZJhqlAkTOFG+m8cxjuLlNL3VfAmkUnMYbzyM1nDRpL1aQobpQqi3Jdu0vYh7xOYq2ueHuM8X6mhmUTOPqg78er2Eby6GGVU1v0lrz1te1Avwtb/P6fhZvQXPFCouRNRE8JkAS/FKSGEGt5JPoe0vBswEbzEI6CeTC3Nk7ks8kLLWwXk7hdfAbed6JHObg3cbchTWW6B4ScrZVSCV54ZdAEPVj2ePWu2O32ZSk2qedFhcqEydWTmvnBiWafdSHNpGAdT9KMBF7m2;Azjl3dmoHbaBO2ya4H0vhw=="
 ---
 

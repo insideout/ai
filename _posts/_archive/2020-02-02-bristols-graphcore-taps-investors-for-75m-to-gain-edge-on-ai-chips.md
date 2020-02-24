@@ -25,6 +25,6 @@ images:
     height: 876
     title: "Bristol’s Graphcore taps investors for $75m to gain edge on AI chips"
 
-secured: "RQA0l1pHe5ospODxEmiBTEn9ASXmRs3pxFYWm60YO6bJb96NERmBOkWOv5JbxucwpPSyEVnjR09BXS4KRr/vgFDdKVcrIuEhCHHOafxTetvE9lUiBB1gR9UEha5449Nc3o4P5UCKLdKOqwuv/C1cNz2DzK4QX1mjtONgT2KW7dzbCD+C3c8acHf9OP6JDTr334w8cFSOXSOHAg5wCr3HqRx5g2XL+VNTaUeM8PNmbWNyPbVM3eaWKhdE2Tm4p3sXPOZSbaI7zMG2TywRfqP+C4L9pmUm2au0jUEjItZ3PoNr7x8tjAeStClJc1JeIp0G;18TIr9Ih4gO5UeMTrOeh+Q=="
+secured: "3THjOpX2peyPcOyMIYt8l6bwmzXo4Jl+7xqVb2W3A/T9GU+Gqnp9lfV1dBDn37TvGXoabQ5Ykabkc+GBFWTLTIcmsAy47JqnY2VnyxPTet6wyg74YkCEipRdpmAGK9OpwjueNrx/y6nKW7yQGc5TGmaK1vy7785ypoh9VO2KBRtGIunVDDhlqulpWeR91NBuHUiF/DbejyeICWMCeFw6dT5NmP+mj4LSkAtWNlq6YF5uS7mw4XYnftmAbb6uiVRDUamcZNFon6GDlkdyIcLN50MQPvFjaYef5spaaA394lqiImZLeP1EEtq/g82p9u5f;XNZ+rRthZa9nFfas+STsaA=="
 ---
 
