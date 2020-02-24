@@ -4,12 +4,10 @@ title: "Intel Lays Out Strategy For AI: It’s Habana"
 excerpt: "Does Intel still need a big GPU? While Habana will become the flagship processor for Intel’s AI, a GPU still has a place in its data center strategy because it is far more flexible and can be ..."
 publishedDateTime: 2020-01-31T00:00:00Z
 webUrl: "https://www.forbes.com/sites/moorinsights/2020/01/31/intel-lays-out-strategy-for-ai-its-habana/"
-ampWebUrl: "https://www.forbes.com/sites/moorinsights/2020/01/31/intel-lays-out-strategy-for-ai-its-habana/amp/"
-cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/01/31/intel-lays-out-strategy-for-ai-its-habana/amp/"
 type: article
-quality: 89
-heat: 89
-published: true
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Forbes
@@ -23,12 +21,6 @@ topics:
   - AI
   - AI Hardware
 
-images:
-  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e3474dcf133f400076b4e60%2F0x0.jpg"
-    width: 899
-    height: 568
-    title: "Intel Lays Out Strategy For AI: It’s Habana"
-
-secured: "3NGFyii8tJ/e1uDToBZsc6onbXWIie6wXPsdaERN7iGOKSCdvCInsg97Q+b0sPya6YVV8mQM/IQ/lVjW/AN0WrYRhwGTERyuemtW1+wfVd7VcmP5sAi1ls/sIkHEjrEvUHL9yD6Ld/F3ZeBfRLXWSaSWuNHnmFIZDIBCV45Rw8ZiA+qbyo3EaD9kHR3x2omlB9sRXcugzY1sR6qlRt0HdrYkodWcTUDmR8Bj/chk+twMuHEKKjga3ZrhKYA/i3UQVKqhitn5iDZSFI5BYaIqKPnFVJOwdecxn7PLez2v0BgcmHNPY4hWNUiyY9KEjsS8;QjXn61EthxRnwWLmwuyDvA=="
+secured: "xL04e15lbG0axnW94v0NUvUNWjF+9IN4440cd+/u8HPERUEOkV6njoNpw7bkqPNO/aOsnMXBOS8TWVHb0a7H2A67A4N1xntLcqi6uWJyB5n/gJLXMHmbUEcvnDl1rnEdXc8wfdNXU1ppk7sXKgm3vQNQyuyFywfSYwqInPJ+KNEPSg/MaUkj7zvDxlBwDD4pTq/9pG4p13CkkT24bvjDs3alw+3tAM9gCLNWCdIi2Nuf1S6qM3gd2QOS2o3fykHwSw83yK1ZZU9xxCkDmTdrWQRdRdsvheCCYlhlplwriJ7XnaCfqhmEMpYiZliF1pRb;c5l3yCi5YmDWnqGDJ1Ko/w=="
 ---
 

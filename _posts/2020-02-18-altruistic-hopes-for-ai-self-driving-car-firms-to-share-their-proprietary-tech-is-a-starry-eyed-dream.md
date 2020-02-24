@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/02/18/altruistic-hopes-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/02/18/altruistic-hopes-for-ai-self-driving-car-firms-to-share-their-proprietary-tech-is-a-starry-eyed-dream/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -43,19 +43,6 @@ related:
       - url: "https://images.axios.com/8jyT9gSDwqmCe6cAiOxbSleecYI=/2020/02/14/1581699922480.jpg"
         width: 1920
         height: 1080
-  - title: "Tape trick seen as showing hurdles for self-driving cars"
-    excerpt: "To be sure, the real-world threats of such an occurrence today are limited. For one, self-driving cars are still in the development phase, and most are being tested with drivers behind the wheel. Vehicles with advanced driver-assist systems that are available now still require the human to be attentive. And the McAfee researchers were only able ..."
-    publishedDateTime: 2020-02-20T07:50:00Z
-    webUrl: "https://www.arkansasonline.com/news/2020/feb/20/tape-trick-seen-as-showing-hurdles-for-/?latest"
-    type: article
-    provider:
-      name: Arkansas Democrat-Gazette
-      domain: arkansasonline.com
-    quality: 24
-    images:
-      - url: "https://media.arkansasonline.com/static/ao_redesign/graphics/adgog.jpg"
-        width: 340
-        height: 246
 
 secured: "+YiHqz88cnPfNnbetfPVOpAxu2vSLQirropPOIN0DXv7X63L8MYvEaeU4dktUQNxA11LMUkKgaEMJeN7WOl8lzMDBKoRJgGD+Obr3kr1+ieWvuztRzsTQ/z1BMOgKMUYzKDTnQQsAzoPMY4KVodtzQqdT5NDDqLJul9xapNWMfsb1JNNItIf9MsjC/x7JPt6/B7mD5RB1M2/Gyatt5vRATgdFcxXaIda6mXjJRDz/xutYcLF/mCPD4Qp7HNiHlIzhKLvzvO/ggriFc/4oKzbPyh+KEFtc3jrBD5oefnUr/sCWB0faC/MDnfyrDTgL+bY5iRtQ4lDlQcIn4vVWonzcGwXkxdcO4H3XcheZfaNMw9tKEoDlyG5VavgS2YTL0R0zLoNmSjzkVFOuNh1yIwgNdCZ1Zpu7CAprTBbuawfb83CDfjHO2Sd0Svz9Dyacdx+D/ugg4BxEe5F/r716s9k2jAeZRWHh2+us1Qr5IEd3EQ=;8TNWOO9E08fV/dk7nl6z3w=="
 ---

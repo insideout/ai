@@ -26,6 +26,21 @@ images:
     title: "Self-driving electric powered vehicle that changes COLOUR could be on the roads by 2050"
 
 related:
+  - title: "GM to exit some overseas markets to cut costs, focus on electric and self-driving vehicles"
+    excerpt: "General Motors is exiting Australia, New Zealand and Thailand to save costs in the under performing markets and better hone its focus on growth markets as well as on its electric vehicle and self-driving car strategies. As a result, GM said it expects to incur net cash charges of $300 million and to record total cash and non-cash charges ..."
+    publishedDateTime: 2020-02-17T15:52:00Z
+    webUrl: "https://www.usatoday.com/story/money/cars/2020/02/17/gm-exits-australia-more-overseas-markets-restructuring-move/4784052002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4784052002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4784052002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 34
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/b5f04775ee7d965f7efc1e844b57d5548e663c17/c=0-463-1686-1416/local/-/media/2017/01/07/DetroitFreePress/DetroitFreePress/636194077423742009-General-Motors.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 678
   - title: "Self-driving vehicle law hits a speed bump"
     excerpt: "The big picture: Manufacturers and tech companies want federal rules of the road for their roll-out of self-driving vehicles. But trial lawyers, a powerful lobby, want key questions on liability in a driverless world answered before legislation advances. Driving the news: Daniel Hinkle, an attorney with the American Association for Justice ..."
     publishedDateTime: 2020-02-11T11:08:00Z

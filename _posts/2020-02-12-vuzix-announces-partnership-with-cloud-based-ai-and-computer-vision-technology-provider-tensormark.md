@@ -5,8 +5,8 @@ excerpt: "ROCHESTER, N.Y., Feb. 12, 2020 /PRNewswire/ -- Vuzix® Corporation (
 publishedDateTime: 2020-02-12T14:29:00Z
 webUrl: "https://www.prnewswire.com/news-releases/vuzix-announces-partnership-with-cloud-based-ai-and-computer-vision-technology-provider-tensormark-301003714.html"
 type: article
-quality: 40
-heat: 40
+quality: 42
+heat: 42
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI
   - Computer Vision
+  - AI in Finance
 
 images:
   - url: "https://mma.prnewswire.com/media/678111/Vuzix_Corporation_Logo.jpg?p=facebook"

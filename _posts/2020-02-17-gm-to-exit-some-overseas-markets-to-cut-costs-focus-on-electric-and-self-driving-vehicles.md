@@ -26,88 +26,34 @@ images:
     title: "GM to exit some overseas markets to cut costs, focus on electric and self-driving vehicles"
 
 related:
-  - title: "Jaguar Land Rover Project Vector self-driving car sets sights on the streets in 2021"
-    excerpt: "Jaguar Land Rover has revealed a new autonomous concept vehicle, Project Vector, a self-driving pod that the automaker hopes to have on roads from 2021. Rather than borrowing an existing vehicle’s platform, Project Vector eschews the SUVs and performance cars from JLR’s garage and is based instead on a city-friendly new architecture."
-    publishedDateTime: 2020-02-18T16:21:00Z
-    webUrl: "https://www.slashgear.com/jaguar-land-rover-project-vector-self-driving-car-sets-sights-on-the-streets-in-2021-18610098/"
-    ampWebUrl: "https://www.slashgear.com/jaguar-land-rover-project-vector-self-driving-car-sets-sights-on-the-streets-in-2021-18610098/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/jaguar-land-rover-project-vector-self-driving-car-sets-sights-on-the-streets-in-2021-18610098/amp/"
+  - title: "Self-driving electric powered vehicle that changes COLOUR could be on the roads by 2050"
+    excerpt: "But this appears set o change with the implementation of self-driving tech from firms such as Tesla and Waymo, and legislation stating diesel and petrol cars will be obsolete in the next 15 years. And it appears that by 2050, the transport industry will ..."
+    publishedDateTime: 2020-02-17T14:50:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8012769/Self-driving-electric-powered-vehicle-changes-COLOUR-roads-2050.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8012769/amp/Self-driving-electric-powered-vehicle-changes-COLOUR-roads-2050.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8012769/amp/Self-driving-electric-powered-vehicle-changes-COLOUR-roads-2050.html"
     type: article
     provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 67
+      name: Mail Online
+      domain: dailymail.co.uk
+    quality: 36
     images:
-      - url: "https://scdn.slashgear.com/wp-content/uploads/2020/02/5Vector-2.jpg"
-        width: 1680
-        height: 1117
-  - title: "Jaguar Land Rover unveils electric self-driving car that will be used on UK roads next year"
-    excerpt: "JAGUAR Land Rover has revealed a electric driverless car that will hit UK roads as early as next year. The self-driving pods will be trialled in Coventry in 2021 to test how it interacts with other vehicles, road users and pedestrians. The vehicles - dubbed Project Vector - were unveiled yesterday at the National Automotive Innovation Centre at ..."
-    publishedDateTime: 2020-02-19T10:45:00Z
-    webUrl: "https://www.thesun.co.uk/motors/10993533/jaguar-land-rover-electric-self-driving-car-uk-roads/"
-    ampWebUrl: "https://www.thesun.co.uk/motors/10993533/jaguar-land-rover-electric-self-driving-car-uk-roads/amp/"
-    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/motors/10993533/jaguar-land-rover-electric-self-driving-car-uk-roads/amp/"
-    type: article
-    provider:
-      name: The Sun
-      domain: thesun.co.uk
-    quality: 34
-    images:
-      - url: "https://www.thesun.co.uk/wp-content/uploads/2020/02/NINTCHDBPICT000563995434.jpg?strip=all&w=960&quality=100"
-        width: 960
-        height: 634
-  - title: "Jaguar Land Rover latest to unveil a self-driving shuttle"
-    excerpt: "Limited parking spots coupled with congestion will make owning and driving your own car a hassle. Automakers realize this and seem to have reached a consensus on the solution: self-driving shuttles that run around town offering rides. The British automaker's design is called the Project Vector, a self-driving, battery-electric shuttle that ..."
-    publishedDateTime: 2020-02-20T18:00:00Z
-    webUrl: "https://www.motorauthority.com/news/1127185_jaguar-land-rover-latest-to-unveil-a-self-driving-shuttle"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 24
-    images:
-      - url: "https://images.hgmsites.net/hug/jaguar-land-rover-project-vector_100736818_h.jpg"
-        width: 1920
-        height: 1278
-  - title: "Jaguar Land Rover reveals self-driving transport pod"
-    excerpt: "Jaguar Land Rover, the UK’s largest automotive manufacturer, has revealed a new self-driving transport pod developed for cities and ready for an on-road pilot programme in the UK starting next year. Known as Project Vector, the vehicle is an autonomous platform with a design focus on maximising interior space and offering flexible body ..."
-    publishedDateTime: 2020-02-20T12:43:00Z
-    webUrl: "https://www.itweb.co.za/content/4r1ly7RbzdP7pmda"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 24
-    images:
-      - url: "https://www.itweb.co.za/static/pictures/2020/02/LandRover-Vector-3-2020.jpg"
-        width: 816
-        height: 459
-  - title: "Jaguar Land Rover reveals new electric self-driving pod to be used on UK roads next year"
-    excerpt: "The city will be used as a 'living laboratory' by Britain's biggest car-maker to test how the self-driving pods interact with other vehicles, pedestrians and cyclists. One of the first to get an early preview is Prince Charles, who was on hand to officially open the National Automotive Innovation Centre at Warwick University, where the ..."
-    publishedDateTime: 2020-02-18T15:03:00Z
-    webUrl: "https://www.thisismoney.co.uk/money/cars/article-8016591/Jaguar-Land-Rover-reveals-new-electric-self-driving-pod-used-UK-roads-year.html"
-    type: article
-    provider:
-      name: This is Money
-      domain: thisismoney.co.uk
-    quality: 15
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/02/18/15/24886152-0-image-a-128_1582038178000.jpg"
+      - url: "https://i.dailymail.co.uk/1s/2020/02/17/14/24841066-0-image-a-6_1581950107383.jpg"
         width: 636
         height: 382
-  - title: "Jaguar Land Rover’s Project Vector is a self-driving pod that focuses on zero emissions/accidents"
-    excerpt: "Joining the ranks of companies like Toyota, Honda, Volvo, Volkswagen, and many more, Jaguar Land Rover has unveiled its hitherto secret Project Vector, a self-driving pod that aims to usher the company into the future of mobility and achieve its goal of reaching Destination Zero. What is Destination Zero, you ask? “Jaguar Land Rover’s ..."
-    publishedDateTime: 2020-02-19T14:57:00Z
-    webUrl: "https://www.yankodesign.com/2020/02/19/jaguar-land-rovers-project-vector-is-a-self-driving-pod-that-focuses-on-zero-emissions-accidents/"
+  - title: "Self-driving vehicle law hits a speed bump"
+    excerpt: "The big picture: Manufacturers and tech companies want federal rules of the road for their roll-out of self-driving vehicles. But trial lawyers, a powerful lobby, want key questions on liability in a driverless world answered before legislation advances. Driving the news: Daniel Hinkle, an attorney with the American Association for Justice ..."
+    publishedDateTime: 2020-02-11T11:08:00Z
+    webUrl: "https://www.axios.com/self-driving-vehicle-law-hits-a-speed-bump-875152c5-3455-42f7-831a-a563b72256ac.html"
     type: article
     provider:
-      name: Yanko Design
-      domain: yankodesign.com
-    quality: 11
+      name: Axios
+      domain: axios.com
+    quality: 24
     images:
-      - url: "https://cdn.yankodesign.com/images/design_news/2020/01/here-are-the-winners-of-the-39th-international-design-excellence-award-for-peak-design-inspiration/idea_2020_call_entries_1-510x314.jpg"
-        width: 510
-        height: 314
+      - url: "https://images.axios.com/WAaKWDWilhZmV1aIrsnfnqOj4JQ=/2020/02/10/1581362650395.jpg"
+        width: 1920
+        height: 1080
 
 secured: "3q8gW1V0HUu1xD/aWstaxK5aU+Gj1sIfHp21Xo/7ctulF/95YkhfWWh0rEnaa9+Evs289V/v2kOmogx4LNV748689EtueLHXjo5zr9kUQ6p31sydZ5Dr7IuwBGgFPtgMK6NbvtvMl0VJIDVhweYjzZOPr4lqicyEzCC4MRq1LbCZNO+vCa/65SKGFkB+Iu9N6DwaTOMwpbZXOT8iyo6pCwGy3DT3a6WaWTFSJv/iKIJe44sD7uaY77jCr/WGv5DvqtYG5W/IlF8HWQmRVYMP1XBS9lny7UhZb9FR2aIkcPpzY/DLZ09xWitUqIlY4TZXQjPqGGPBODjdBzw22pXds4ll9Qkz5Bsvd8NYMjl47SixnKBgPmceAJVTK99vk771dWEvTF8VXmQglX6OKHpfhoTmcGGfulIK5KidIkyi76Biqi/prbyqdTTgQElL3nkxJgYqlZMcd8ShH9mt3PemyUVxNMqOdvbhtbZZyfn6fKA=;6WvaZbtPIA/EozJ9yAbn7w=="
 ---

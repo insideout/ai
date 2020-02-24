@@ -5,8 +5,8 @@ excerpt: "The global image recognition market was worth USD 20.19 billion in 201
 publishedDateTime: 2020-01-31T05:35:00Z
 webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-insights-by-size-growth-industry-share-leading-players-and-regional-forecast-by-2026-2020-01-31"
 type: article
-quality: 34
-heat: 34
+quality: 14
+heat: 14
 published: false
 
 provider:
@@ -21,12 +21,6 @@ topics:
   - AI
   - Computer Vision
 
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    title: "Image Recognition Market Insights By Size Growth, Industry Share, Leading Players and Regional Forecast by 2026"
-
 related:
   - title: "Autonomous Vehicle Market 2020: Global Overview, Latest Technology, Market Size, Share, Demand, Major Players, Key Trends, and Forecast to 2026"
     excerpt: "Autonomous Vehicle Market by Level of Automation (Level 3, Level 4, and Level 5), Component (Hardware, Software, and Service) and Application (Civil, Robo Taxi, Self-driving Bus, Ride Share, Self-driving Truck,"
@@ -36,12 +30,8 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 18
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+    quality: 0
 
-secured: "5oQlrqLNAFeGTBxhnLi4C/eYmERwOb0hv9Pnui+YZuKGVFkL+bCYS0sc8mkyIumPJFRW34/xHl1NbmtWXipCXO8zXwH9e9HyJe0pkJNufg9kUwQno9gQkPS2Zf9z56MWNRj/ZkZnWo8rLn0wHqHxHHM6Rm+I2hJrhCydF4en2eimhTLHMvhkJocle/F7oEC3qO2KJ7C2M9XIUfLIB526ky9QXYe04oRLI3nVDYqW3HrdIRnqWk/bn9Um6IJLUk9BxgMFyrx4M1zamdGqJTgHUGYDq85gveZZqkR7bJ3aCRa4H123Qbbo4AODLuhCx3Gh;ok8tls0KPiOnu1zDhsB2xA=="
+secured: "h1wNdELSIbTV8Qfgis5x2WdqZeGQU9NV/Ft4cosCgLMlYf6A54cYqiB1UsQw1Vl/JKFjqNXO4tOoHBLLiMrgotiBzfDW2UdhTDHy85LiroQRqN8TfWayTq2h/K8JAFaqqAObxaMikNold7x9X3Pev7Br1w+xW7o2M1RN3SFCeas659YMCoot3IFarTnbS1BweeCAYFmO5H4iVVzv6kjJbr9JUHlKl92IRKd8kmdrz0YRSme7qryyePXdgrxU4tajFOrEUcA/ceeG6gTgNOadcuEYnx80gaWAPABMJQF/Wd+bvOly+QFu1UaXSDdgy03p;5uCPPRIztEd9p6aOcL6iiA=="
 ---
 

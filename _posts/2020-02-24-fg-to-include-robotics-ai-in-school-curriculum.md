@@ -8,7 +8,7 @@ ampWebUrl: "https://punchng.com/fg-to-include-robotics-ai-in-school-curriculum/a
 cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/fg-to-include-robotics-ai-in-school-curriculum/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 100
 published: true
 
 provider:
@@ -42,6 +42,6 @@ related:
         width: 700
         height: 417
 
-secured: "OkZceNRJOHASaaXk5FyXTzRVVIotu0C37ZxAwLudkjXRqcqyTDQUAQIkVrKwqU2U0yGQYvF+Na70vU9Gkjqy0AscMdcztP1kOhsQFrbM0bYnuI7oGiq5XMAUeQcjlxLM1CuiouqnljHE5w4NWr+fWVqKesYDWzfyDh/WXwAqxzY106ETGc3HOQOvOPKgEdUw759mpo/GPUf4+/IDSghNADMregqReBm68WbAccrvADKp20uX6QQ4WUJ/AxuyVzT25ttkoWy6rDW05OovjLlGaOXDRtV7JhiWz0RFAA2fFQYm+WsFKsmu3jz/0e9m0bIR;maS3fRN/sQ0u7NXRkTbp4w=="
+secured: "phIT+qxpCZr8Si8Wr1NzCTggjG8FpTdJeSlPKbPOSpHpSRSnqDURi0b1IBR28W9Md6uXlL3kRSaJVxSQMPKQiTpKiXoVn3tLzEJFQuLA585Oavg6MoobYgHNR1ynlpps+tbvw48+PiTbtCGSqkuPzEaYctKdTRiFQKAAkEVEq42vPtxFPiT6wchyY0/Kgt7/7Jh/EL/YNqy5zzccjYRBDM78SXi6PvNsFWZy/tmo0c58qulIRDcVBIf0Vmc82VpfFE/aoDOPUKuSkl/nX2oFXdgXYCZbLOGCypUKT/8kqWnI5uMSbvpNYOdB5/3Io2CA;nKsefjzm9igYj7dIAE187w=="
 ---
 

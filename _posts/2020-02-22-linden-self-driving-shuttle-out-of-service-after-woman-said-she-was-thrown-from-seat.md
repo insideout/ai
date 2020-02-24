@@ -8,7 +8,7 @@ ampWebUrl: "https://www.nbc4i.com/news/local-news/linden-self-driving-shuttle-ou
 cdnAmpWebUrl: "https://www-nbc4i-com.cdn.ampproject.org/c/s/www.nbc4i.com/news/local-news/linden-self-driving-shuttle-out-of-service-after-woman-said-she-was-thrown-from-seat/amp/"
 type: article
 quality: 52
-heat: 52
+heat: 62
 published: false
 
 provider:
@@ -24,6 +24,21 @@ images:
     width: 1280
     height: 720
     title: "Linden self-driving shuttle out of service after woman said she was thrown from seat"
+
+related:
+  - title: "Beep Inc. making noise with self-driving shuttles"
+    excerpt: "In an industry endlessly fascinated with the companies creating the self-driving future, Beep Inc. often registers not a peep. The company does not write its own code. It does not develop its own self-driving stack. Nor does it manufacture vehicles. Nor host a platform that matches riders and drivers. Beep is a pure fleet operator and content ..."
+    publishedDateTime: 2020-02-24T05:00:00Z
+    webUrl: "https://www.autonews.com/mobility-report/beep-inc-making-noise-self-driving-shuttles"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://www.autonews.com/s3/files/styles/800x600/public/40MOYEBEEP-MAIN_i.jpg"
+        width: 800
+        height: 600
 
 secured: "mQ0J94DpxU1s3yvnp3+jzW6MGkOCTwS9BOalqdxkspXPGXWus3VcYrlCZu8aB8yzNWXPM+0taXYeFlHMNOVHjlOscoPmmAkmO/7VDaRN48zpkr6q3Wam62fGOy4fq8wzGkKgICcnCjePdpal/qVVl2USry6g9Vy8JqG9lR+tKLXMRP05vscN8I0kVny3vvoe9RMpFJzVOO0i0VpFVVRbNL94QaxZmKMgMBnPaFCdJHqpMDXJXiEMCC/KjmOCVpodrGNkOGY0UnUgvZ3EuaaFEpxpV6bFlkhr9iP1dSvLuXClN7CNQLBe4iS64rzJzVkd+vWdkEDLefZrvuVeoblrIb8ylfeCxtlD52huipSrYGdlfNtcQtlfFQoRARUkpprWVH7V89Ir7qTQawzPNKwZCop73CHT5Rae0b2Y/h4sm/bX2vXJpAJE9p72WLh2gFwdyI/IqqfY25M2h2yjWEnAO4QYjYCaU2OT0hBeg/uV9sc=;moD3GGdPOKiwwd6oGdlZZw=="
 ---

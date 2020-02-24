@@ -5,8 +5,8 @@ excerpt: "Microsoft 365 bundles together Office, Windows, and other key products
 publishedDateTime: 2020-02-08T14:12:00Z
 webUrl: "https://www.businessinsider.com/microsoft-365-power-players-reorganization-windows-devices-2020-2"
 type: article
-quality: 38
-heat: 38
+quality: 18
+heat: 18
 published: false
 
 provider:
@@ -21,12 +21,6 @@ topics:
   - AI
   - Microsoft AI
 
-images:
-  - url: "https://i.insider.com/5e3b2e43e35bab56ce2ca134?width=1200&format=jpeg"
-    width: 1200
-    height: 600
-    title: "Meet the 21 power players behind Microsoft 365, the mega-bundle of business apps that's getting shaken up after an executive shuffle"
-
-secured: "d/Gr1hL068oZgiUy2g4XJH059Or4++jxN57wAlkn1jFP/OOX3vAfYfbEsLndgBGt2zc9GWGfWzWHGXi1szywxWSysNfSBK/tHpcY2qJH8j43SO7L/M1n9OCIey4SkqfK7WD0YNkuGPxYZdRw/kroj+80uJ4tI3LJDuBZ0D4JB5tzfk0ZgFbcDj0n2Vm2luL938im/XE45Xe1u2VKouOgfxScVCmrVD5RKrzxO7Go9PzvQ5nDn8snjzc6lWjVUjcU5pAiiPqCGMBDh4Dke7YyE/3KWRIbzTwIA2jLZCyASnwP1s4+cdungypiF1bFKQwh;BFIDaIHqxtMFARNycQ8icA=="
+secured: "zZeqRMgyFHtAOIMvUGn/a3fL+UrI7owcLrAJJ4AFZgoWby9RJKAW8FPrw6H8v5ZKMYznDUje1UGb4FRLno1Nc7zJJKtQSH7pO+gkuRCn4c4VB+Io5LKETJR5c4hpU5RDkSsdEpmqwZ5mBag15A78HiEDdMmVu6Tv4d1SF6R42RibtKj8pHISP+sFhS3doAjk60zebvhTgjy8peKfqFss/Y83fj84JYrPgSm/l1yF7Q6Kmd2Vc9nrxFo/wGNQJk+ukyiN59KcCQLv1eba6hLVkE9D5zwYbDdhRMKnUKyJmo1Gio4z5uBms1RcBedP8MHyAE6AjXlELIXep0CeVBczAh+ycUWxiy5qPQkgp8YY5jMDVlVgTzet7E/O2JiNRNtvynHiGbs867A+eNqkUresisERWaLYJ7pQ+blQ13TuDxOY3rXJ3wb5J6E4gX1Ka9CHj6UzoTaqvHzP5GlBPgVZwqRVONpaHhEYRcaJ3Xg1YSQ=;Vp0M3Fp/RcNCC5Hy86II9Q=="
 ---
 

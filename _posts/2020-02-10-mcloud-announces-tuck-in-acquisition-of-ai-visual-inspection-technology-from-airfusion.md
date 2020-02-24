@@ -32,7 +32,7 @@ related:
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 40
+    quality: 42
     images:
       - url: "https://mma.prnewswire.com/media/678111/Vuzix_Corporation_Logo.jpg?p=facebook"
         width: 600

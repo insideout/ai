@@ -1,33 +1,27 @@
 ---
 category: news
-title: "Jaguar Land Rover Project Vector self-driving car sets sights on the streets in 2021"
-excerpt: "Jaguar Land Rover has revealed a new autonomous concept vehicle, Project Vector, a self-driving pod that the automaker hopes to have on roads from 2021. Rather than borrowing an existing vehicle’s platform, Project Vector eschews the SUVs and performance cars from JLR’s garage and is based instead on a city-friendly new architecture."
-publishedDateTime: 2020-02-18T16:21:00Z
-webUrl: "https://www.slashgear.com/jaguar-land-rover-project-vector-self-driving-car-sets-sights-on-the-streets-in-2021-18610098/"
-ampWebUrl: "https://www.slashgear.com/jaguar-land-rover-project-vector-self-driving-car-sets-sights-on-the-streets-in-2021-18610098/amp/"
-cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/jaguar-land-rover-project-vector-self-driving-car-sets-sights-on-the-streets-in-2021-18610098/amp/"
+title: "MIT researchers look under the road to aid self-driving cars"
+excerpt: "Car companies and researchers have been feverishly working to improve the technologies behind self-driving cars. But so far ... A team from MIT’s Computer Science and Artificial Intelligence Lab (CSAIL) developed a new system that uses an existing technology called “ground-penetrating radar” (GPR) to send electromagnetic pulses ..."
+publishedDateTime: 2020-02-24T07:39:00Z
+webUrl: "https://www.therobotreport.com/mit-researchers-look-under-the-road-to-aid-self-driving-cars/"
 type: article
-quality: 67
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: SlashGear
-  domain: slashgear.com
-  images:
-    - url: "/assets/images/organizations/slashgear.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Robot Report
+  domain: therobotreport.com
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: "https://scdn.slashgear.com/wp-content/uploads/2020/02/5Vector-2.jpg"
-    width: 1680
-    height: 1117
-    title: "Jaguar Land Rover Project Vector self-driving car sets sights on the streets in 2021"
+  - url: "https://www.therobotreport.com/wp-content/uploads/2018/01/the-robot-report-business-of-robots-Lisa-Eitel-Dan-Kara-Steve-Crowe.jpg"
+    width: 883
+    height: 478
+    title: "MIT researchers look under the road to aid self-driving cars"
 
 related:
   - title: "This self-driving car looks under the road for a safety boost in rain and snow"
@@ -45,19 +39,21 @@ related:
       - url: "https://zdnet1.cbsistatic.com/hub/i/r/2018/10/20/46764bbf-aad1-4e5a-8b0e-e5ebe4228ad9/resize/1200x900/f882f01e4412ac9465fbc91b9e0f972e/screen-shot-2018-10-20-at-15-30-54.png"
         width: 1200
         height: 767
-  - title: "MIT researchers look under the road to aid self-driving cars"
-    excerpt: "Car companies and researchers have been feverishly working to improve the technologies behind self-driving cars. But so far ... A team from MIT’s Computer Science and Artificial Intelligence Lab (CSAIL) developed a new system that uses an existing technology called “ground-penetrating radar” (GPR) to send electromagnetic pulses ..."
-    publishedDateTime: 2020-02-24T07:39:00Z
-    webUrl: "https://www.therobotreport.com/mit-researchers-look-under-the-road-to-aid-self-driving-cars/"
+  - title: "Jaguar Land Rover Project Vector self-driving car sets sights on the streets in 2021"
+    excerpt: "Jaguar Land Rover has revealed a new autonomous concept vehicle, Project Vector, a self-driving pod that the automaker hopes to have on roads from 2021. Rather than borrowing an existing vehicle’s platform, Project Vector eschews the SUVs and performance cars from JLR’s garage and is based instead on a city-friendly new architecture."
+    publishedDateTime: 2020-02-18T16:21:00Z
+    webUrl: "https://www.slashgear.com/jaguar-land-rover-project-vector-self-driving-car-sets-sights-on-the-streets-in-2021-18610098/"
+    ampWebUrl: "https://www.slashgear.com/jaguar-land-rover-project-vector-self-driving-car-sets-sights-on-the-streets-in-2021-18610098/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/jaguar-land-rover-project-vector-self-driving-car-sets-sights-on-the-streets-in-2021-18610098/amp/"
     type: article
     provider:
-      name: The Robot Report
-      domain: therobotreport.com
-    quality: 69
+      name: SlashGear
+      domain: slashgear.com
+    quality: 67
     images:
-      - url: "https://www.therobotreport.com/wp-content/uploads/2018/01/the-robot-report-business-of-robots-Lisa-Eitel-Dan-Kara-Steve-Crowe.jpg"
-        width: 883
-        height: 478
+      - url: "https://scdn.slashgear.com/wp-content/uploads/2020/02/5Vector-2.jpg"
+        width: 1680
+        height: 1117
   - title: "Jaguar Land Rover unveils electric self-driving car that will be used on UK roads next year"
     excerpt: "JAGUAR Land Rover has revealed a electric driverless car that will hit UK roads as early as next year. The self-driving pods will be trialled in Coventry in 2021 to test how it interacts with other vehicles, road users and pedestrians. The vehicles - dubbed Project Vector - were unveiled yesterday at the National Automotive Innovation Centre at ..."
     publishedDateTime: 2020-02-19T10:45:00Z
@@ -126,6 +122,6 @@ related:
         width: 1140
         height: 641
 
-secured: "sU1gFKTkpaxQ9sc5yKgfFO3Zou41bf2IOG5oxotUYPOGCWeAy+t2eF1l6jAmXv/ImcvqDErnXBBSuqNEti+tpQFiicNohIy6wh3KMm2HDReYYmJcI/3Gh2V2l3VYA6g+1lyAuLMj0OVBIfruYmfOjQG1lo2ECWrKqLled4Iln5flWRSIuYp8PRqgGWQxtY9WYgvfk1BqqM0TgHuHg6+HVcgX3EqThgKYw8lFP5amZPXRhJ4nj5Mfk+NBN0HTfyXYpwk/hM+4p7pW0KAQOYo/HX7eQULYMpDnENsb+TRJyiAR/OuXyp61hYdSMl0fU9S52J8oaUaVpR6D64KMzUFfDo5uB7o1WZzVTE74nh4Mi/H3mMCr3BCBX5jyIlFRhlb5V8cuZ7ZbWdJDPivACyHJgvoFiCNZrQbO8viMhK0nC/J2j4+l9kwNhZOFuMrEXM/yR4uxfByCjc2q5ZlrV5RJ1SJH1prF/uYupk/V0LYLZvo=;3XpHhfnCQqpvQMavBy4fnw=="
+secured: "/MBXgSUUiiBGfz8qC4OE1rwTsCeIAXxF44/bRSKD/2m1Vk2RgUPCcaLWCeuZ8pxrQJpHzux3RS1pPh2UMUFroGlHkInnrIgrYqR6lLdk3EKqRZPvqTXI6nMKqz0G5x+FETx+/DfNYq+ngJekkpGU553V+6uSV0+oNZwJfvVQfwoMQ4vCPqFODn72iZWSsEJq0+1iGkQWNnLoeqIK+ri95yHhU7JMfzLFuYah+RGXimrp0ioBH2wXSmxystSxTTdW8cMDcX2acLzdqzzmMD8up9jAcbWrx3Ru5jFf2HTHXMaAnOuI5Kg0Q0Fe1A0WQbI6;y0Zwmty245BIVvlwuRbPiQ=="
 ---
 

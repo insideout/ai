@@ -35,21 +35,6 @@ related:
       - url: "https://www.thestatesman.com/wp-content/uploads/2020/02/QT-facebook.jpg"
         width: 1200
         height: 800
-  - title: "Facebook Looks Beyond GPS, Ties With Startup That Uses AI Vision For Location"
-    excerpt: "Facebook co-founder and CEO Mark Zuckerberg (File Photo). San Francisco: Facebook has acquired Scape Technologies — a London-based computer vision start-up working on location accuracy beyond the capabilities of GPS. Full terms of the deal remain as yet unknown, although a Companies House update reveals that Facebook Inc now has majority ..."
-    publishedDateTime: 2020-02-09T12:49:00Z
-    webUrl: "https://www.india.com/technology/facebook-looks-beyond-gps-ties-with-startup-that-uses-ai-vision-for-location-3937280/"
-    ampWebUrl: "https://www.india.com/technology/facebook-looks-beyond-gps-ties-with-startup-that-uses-ai-vision-for-location-3937280/amp/"
-    cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/technology/facebook-looks-beyond-gps-ties-with-startup-that-uses-ai-vision-for-location-3937280/amp/"
-    type: article
-    provider:
-      name: India.com
-      domain: india.com
-    quality: 56
-    images:
-      - url: "https://s3.india.com/wp-content/uploads/2019/11/Mark-Zuckerberg-F8.jpg"
-        width: 805
-        height: 503
   - title: "Facebook takes control of London computer vision start-up Scape Technologies"
     excerpt: "Facebook has acquired majority control of London-based computer vision start-up company Scape Technologies, TechCrunch reported. A regulatory filing with Companies House shows that Facebook now controls more than 75 percent of the company. Scape Technologies is developing hyper-accurate location recognition technology for augmented reality (AR ..."
     publishedDateTime: 2020-02-10T12:10:00Z

@@ -24,34 +24,103 @@ images:
     title: "Transportation in 2030: Flying cars maybe, but mainstream electric and shared ones for sure, some possibly self-driving"
 
 related:
-  - title: "The Self Driving And Sharing Economy: How Regulation May Drive The Transportation Revolution In 2020 And Beyond"
-    excerpt: "Everyone recognizes that these technologies will mold the future, but this final piece—how regulators will interact with these developing technologies—is the critical factor that has the potential to shape the race to market."
-    publishedDateTime: 2020-02-13T01:21:00Z
-    webUrl: "https://www.forbes.com/sites/paulrosen/2020/02/12/the-self-driving-and-sharing-economy-how-regulation-may-drive-the-transportation-revolution-in-2020-and-beyond/"
-    ampWebUrl: "https://www.forbes.com/sites/paulrosen/2020/02/12/the-self-driving-and-sharing-economy-how-regulation-may-drive-the-transportation-revolution-in-2020-and-beyond/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paulrosen/2020/02/12/the-self-driving-and-sharing-economy-how-regulation-may-drive-the-transportation-revolution-in-2020-and-beyond/amp/"
+  - title: "This self-driving car looks under the road for a safety boost in rain and snow"
+    excerpt: "Over the past few years, autonomous vehicle technology and self-driving systems have reached new levels of sophistication and an experimental scanning system could lead to improved safety levels in poor weather. Self-driving capabilities are measured on a scale of levels 0 - 5; 0 being no automation and level 5 considered to be a true ..."
+    publishedDateTime: 2020-02-24T05:00:00Z
+    webUrl: "https://www.zdnet.com/article/this-self-driving-car-system-looks-under-the-road-for-a-safety-boost-in-rain-and-snow/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/this-self-driving-car-system-looks-under-the-road-for-a-safety-boost-in-rain-and-snow/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-self-driving-car-system-looks-under-the-road-for-a-safety-boost-in-rain-and-snow/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: ZDNet
+      domain: zdnet.com
+    quality: 85
+    images:
+      - url: "https://zdnet1.cbsistatic.com/hub/i/r/2018/10/20/46764bbf-aad1-4e5a-8b0e-e5ebe4228ad9/resize/1200x900/f882f01e4412ac9465fbc91b9e0f972e/screen-shot-2018-10-20-at-15-30-54.png"
+        width: 1200
+        height: 767
+  - title: "MIT researchers look under the road to aid self-driving cars"
+    excerpt: "Car companies and researchers have been feverishly working to improve the technologies behind self-driving cars. But so far ... A team from MIT’s Computer Science and Artificial Intelligence Lab (CSAIL) developed a new system that uses an existing technology called “ground-penetrating radar” (GPR) to send electromagnetic pulses ..."
+    publishedDateTime: 2020-02-24T07:39:00Z
+    webUrl: "https://www.therobotreport.com/mit-researchers-look-under-the-road-to-aid-self-driving-cars/"
+    type: article
+    provider:
+      name: The Robot Report
+      domain: therobotreport.com
     quality: 69
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e3074548b6cf300071d30e2%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D960%26cropY1%3D48%26cropY2%3D588"
-        width: 960
-        height: 541
-  - title: "Global Emotion Detection And Recognition (EDR) Market 2020 Growth Analysis, Key Insights, Future Development and Statistical Forecast 2025"
-    excerpt: "Scope of the Report Emotion Detection and Recognition (EDR) is typically identifying human emotion from facial expression or verbal expression. Now, with the help of AI, NLP and ML, the machine is made to understand human emotion through various software and act according to it."
-    publishedDateTime: 2020-02-19T11:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-emotion-detection-and-recognition-edr-market-2020-growth-analysis-key-insights-future-development-and-statistical-forecast-2025-2020-02-19"
+      - url: "https://www.therobotreport.com/wp-content/uploads/2018/01/the-robot-report-business-of-robots-Lisa-Eitel-Dan-Kara-Steve-Crowe.jpg"
+        width: 883
+        height: 478
+  - title: "Jaguar Land Rover Project Vector self-driving car sets sights on the streets in 2021"
+    excerpt: "Jaguar Land Rover has revealed a new autonomous concept vehicle, Project Vector, a self-driving pod that the automaker hopes to have on roads from 2021. Rather than borrowing an existing vehicle’s platform, Project Vector eschews the SUVs and performance cars from JLR’s garage and is based instead on a city-friendly new architecture."
+    publishedDateTime: 2020-02-18T16:21:00Z
+    webUrl: "https://www.slashgear.com/jaguar-land-rover-project-vector-self-driving-car-sets-sights-on-the-streets-in-2021-18610098/"
+    ampWebUrl: "https://www.slashgear.com/jaguar-land-rover-project-vector-self-driving-car-sets-sights-on-the-streets-in-2021-18610098/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/jaguar-land-rover-project-vector-self-driving-car-sets-sights-on-the-streets-in-2021-18610098/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 20
+      name: SlashGear
+      domain: slashgear.com
+    quality: 67
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://scdn.slashgear.com/wp-content/uploads/2020/02/5Vector-2.jpg"
+        width: 1680
+        height: 1117
+  - title: "Jaguar Land Rover unveils electric self-driving car that will be used on UK roads next year"
+    excerpt: "JAGUAR Land Rover has revealed a electric driverless car that will hit UK roads as early as next year. The self-driving pods will be trialled in Coventry in 2021 to test how it interacts with other vehicles, road users and pedestrians. The vehicles - dubbed Project Vector - were unveiled yesterday at the National Automotive Innovation Centre at ..."
+    publishedDateTime: 2020-02-19T10:45:00Z
+    webUrl: "https://www.thesun.co.uk/motors/10993533/jaguar-land-rover-electric-self-driving-car-uk-roads/"
+    ampWebUrl: "https://www.thesun.co.uk/motors/10993533/jaguar-land-rover-electric-self-driving-car-uk-roads/amp/"
+    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/motors/10993533/jaguar-land-rover-electric-self-driving-car-uk-roads/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: thesun.co.uk
+    quality: 34
+    images:
+      - url: "https://www.thesun.co.uk/wp-content/uploads/2020/02/NINTCHDBPICT000563995434.jpg?strip=all&w=960&quality=100"
+        width: 960
+        height: 634
+  - title: "Jaguar Land Rover latest to unveil a self-driving shuttle"
+    excerpt: "Limited parking spots coupled with congestion will make owning and driving your own car a hassle. Automakers realize this and seem to have reached a consensus on the solution: self-driving shuttles that run around town offering rides. The British automaker's design is called the Project Vector, a self-driving, battery-electric shuttle that ..."
+    publishedDateTime: 2020-02-20T18:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1127185_jaguar-land-rover-latest-to-unveil-a-self-driving-shuttle"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 24
+    images:
+      - url: "https://images.hgmsites.net/hug/jaguar-land-rover-project-vector_100736818_h.jpg"
+        width: 1920
+        height: 1278
+  - title: "Jaguar Land Rover reveals self-driving transport pod"
+    excerpt: "Jaguar Land Rover, the UK’s largest automotive manufacturer, has revealed a new self-driving transport pod developed for cities and ready for an on-road pilot programme in the UK starting next year. Known as Project Vector, the vehicle is an autonomous platform with a design focus on maximising interior space and offering flexible body ..."
+    publishedDateTime: 2020-02-20T12:43:00Z
+    webUrl: "https://www.itweb.co.za/content/4r1ly7RbzdP7pmda"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 24
+    images:
+      - url: "https://www.itweb.co.za/static/pictures/2020/02/LandRover-Vector-3-2020.jpg"
+        width: 816
+        height: 459
+  - title: "Tape trick seen as showing hurdles for self-driving cars"
+    excerpt: "To be sure, the real-world threats of such an occurrence today are limited. For one, self-driving cars are still in the development phase, and most are being tested with drivers behind the wheel. Vehicles with advanced driver-assist systems that are available now still require the human to be attentive. And the McAfee researchers were only able ..."
+    publishedDateTime: 2020-02-20T07:50:00Z
+    webUrl: "https://www.arkansasonline.com/news/2020/feb/20/tape-trick-seen-as-showing-hurdles-for-/?latest"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 24
+    images:
+      - url: "https://media.arkansasonline.com/static/ao_redesign/graphics/adgog.jpg"
+        width: 340
+        height: 246
 
 secured: "5qwdzS+a5hB8dpTBqM0oFcYQYQna4pxdKW7jF68xJl7Hybd32XIzkHMrOg82WmIxBD9dS51T2CNW1Q6BC8rDVfzl0+4Dm3lqJOQ+E11w9HqW0XdtzZBQRyIBXwLf9Xms7H/j9kENZ+P1/WlwKLqVgRLUKSbm3IExbOJeivdXQaBww/QEcVEW8BnqnvwjCSqjUSm+fRXICsORnfaEutX1BznLix6E+jUQnUB6xE/HHwF59q+yafQJRTEw4Nd7zxXHwHEbQv18vs4/tpgu7iN/t/it6FSb40vqo4qqdM92UtMg4FxYmq3p6zkBeXNcoNTokU2keq891yMNb1ezU53xANifbDM1l6Z7rxn2AlE718CubCCdBXH6M3o1fZ6t3zhCXlDuSI64a2YB4FbF84NaYhbhlwBUzTkV9FQ8Vsy+yOfA6dEIxeiZwcHV92QWa6bnOpYkZcU3XzRAk9wQDilJeGGc7GDAPtG3++OWTerhuIM=;ois/NsX37ZOC4x+q/lsSbw=="
 ---

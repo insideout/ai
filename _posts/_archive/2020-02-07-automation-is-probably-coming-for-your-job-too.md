@@ -4,10 +4,8 @@ title: "Automation Is Probably Coming for Your Job Too"
 excerpt: "Waymo, a self-driving-technology company owned by Google's parent corporation ... since up to 70 percent of the work they do could be done by machines. But as artificial intelligence becomes more common and effective, automation will start to supplant receptionists, couriers, market research analysts, proofreaders, cashiers, office clerks ..."
 publishedDateTime: 2020-02-07T13:10:00Z
 webUrl: "https://www.gq.com/story/automation-is-coming"
-ampWebUrl: "https://www.gq.com/story/automation-is-coming/amp"
-cdnAmpWebUrl: "https://www-gq-com.cdn.ampproject.org/c/s/www.gq.com/story/automation-is-coming/amp"
 type: article
-quality: 44
+quality: 4
 heat: -1
 published: false
 
@@ -18,12 +16,6 @@ provider:
 topics:
   - AI
   - AI in Autos
-
-images:
-  - url: "https://media.gq.com/photos/5e3c46fb40e46c00081a19f2/master/pass/GettyImages-1082066722.jpg"
-    width: 6000
-    height: 4000
-    title: "Automation Is Probably Coming for Your Job Too"
 
 related:
   - title: "Is AI Coming for the Job of your Favourite News Reader?"
@@ -42,6 +34,6 @@ related:
         width: 773
         height: 454
 
-secured: "MkyXUCHW+1LS8iBLtOoQCtR7yfmj4+CiIGINpqyg0ttcjqFJ9i7qJ7fTeEHNHJZHKRsLnU+dTFbsHq9caQgmxhdD6FWnJm4BTpfPhjuOLP0wnk9MGdLTy7Y41cmI+jrfvvPGQPO0SfhXnIT44F/onJR3xhrithV7uCofbSE+Av0vDo136pmuMXtErhtn3lK1J8DXb86XUw43h85HiMKpFXGwVIMvER7YbinUYp9Vz5zScmLI2d2BKQ1uSDkZ8VlFKzCGLK8ttwAczF6K9Z2u0HdYhRj1G7xME1xI4OUulsQtiwW0DQ/6sxBfMfyCT3jF;3oDJjkfMHXaZlR7gfWWlRA=="
+secured: "z3rRY7PVpeKz41knRupRAVhXt5VFoEqVQLHtsYY85Sy3mjxXFt1QzJ5wqiuGPlrdlh46sDW3ssIUdO0g7efJVK5FKLlsZhxKYHFeReCbvTPo5Wd+f3FUW9N+U+9b0ICwxB+30+2dQBRFrt2Zuk5/A5rwc0evbstIBfnVFnV2hFmlFnQkdSU/1+TjtaEnoZoE5DE5FE2dfgV8Waq0bax9lzEjFhFW/6tMtM8dZWNQig/lKWkWK/AvMGzF2pfZJvmlinT9zBy1Qw79k8tBtF2DpdW1qlxsKFt0jq2sQLrQqPbK6oMm891VPZRanOqGkTg8FQcV/M/MNAc5DLtFEX3hAtQ/35Xis1gG2HnNMnGgJXNtpmSpexdypdOGlANmLseW2dC7a6gF2tG/O1nDlOU8GhOeGSWOHlFoHkTpzBzBc2b9KIf272WEG6A/YhV99rGm0sCfWQR3ratmA0YYvV8IzSeD8l3veEeDsXODuxJh3V4=;nvpgxoraiS+wzlaaDJnRnw=="
 ---
 

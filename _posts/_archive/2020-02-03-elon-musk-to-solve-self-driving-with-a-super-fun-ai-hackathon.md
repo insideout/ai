@@ -5,8 +5,8 @@ excerpt: "And then we will need to convince regulators of this, so there are som
 publishedDateTime: 2020-02-03T20:08:00Z
 webUrl: "https://thenextweb.com/artificial-intelligence/2020/02/03/elon-musk-to-solve-self-driving-with-a-super-fun-ai-hackathon/"
 type: article
-quality: 69
-heat: 69
+quality: 49
+heat: 49
 published: false
 
 provider:
@@ -21,12 +21,6 @@ topics:
   - AI
   - AI in Autos
 
-images:
-  - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/elonmusk_party-796x417.jpg"
-    width: 796
-    height: 417
-    title: "Elon Musk to solve self-driving with a ‘Super Fun’ AI hackathon"
-
-secured: "QEyd+fHoCr7nfXlOki6FOrJkYnQbQuPZL2DqmDZkF/VWC8llYuBbRh5XJsHLWEilg9d1EDQW7gixkFgOrkhZlC0bsTt4VU/21sVkEbRiujn7Ir5JJU/kJYdyU7KuSf/31hHjYQWNTCOQkXjz2dIpOOdK+8WI2FAKn96LZb2TSvN0oVpFIm/VyxggKbNwzLX5jpXw/Vmq4hNm+Nv3fDCNWobndn9ujpUGtx+KeVbvhVG6VMV7id7ljA5Hr3nXjdXrYINUGhR3hw/Xy9IAVKo0eokQ71TSqiWIAqwMzTDSj2hotZpcd9yc5Cg/vnOb3mbP;AEGFb7aoK9PueQqld+yigg=="
+secured: "hBNc3lRZ0jWEk5fYwUxQamSKQ6pP40hjsYf0EhcYwvX1Fl6IdZfuAYnlKiBZZ2Fj+0NEFQHfp9KDTDI5AkM6OzDhxxw5axdw68art6j5XnCFA3qsp2VosHKER/bj5liA4e1YYEU2RqXuvO9793tuEENNpk+0r4Xnzsu/TLDvvP0d0pzjT0K9E2HdiyZJKBmzms39rpHkjRFhj4d64MjrAKnlnzV6gm0fYi2KCIgYDMU61zckAdg9cBjs5+cWsNWv3A93/qGIrQXspgAO6iOTkZNlxRzJdYs2k772/n6rmOAgh+1IOK/SInV9I5zga81a;KlHXXIOhoKGTFJKZhMXRgA=="
 ---
 

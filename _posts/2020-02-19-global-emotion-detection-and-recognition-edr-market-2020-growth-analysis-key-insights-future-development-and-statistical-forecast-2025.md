@@ -43,19 +43,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e3074548b6cf300071d30e2%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D960%26cropY1%3D48%26cropY2%3D588"
         width: 960
         height: 541
-  - title: "Transportation in 2030: Flying cars maybe, but mainstream electric and shared ones for sure, some possibly self-driving"
-    excerpt: "so this is a serious space.\" Companies like Uber, Boeing, Volvo, & Toyota among others are testing this technology. Meanwhile, autonomous vehicles (self-driving cars) are nearly here. They already undergoing vigorous testing and by the way the Oregon Department of Transportation has an autonomous vehicle task force considering what changes ..."
-    publishedDateTime: 2020-02-18T14:30:00Z
-    webUrl: "https://www.kgw.com/article/money/transportation-in-2030-flying-cars-maybe-but-self-driving-electric-shared-ones-will-be-everywhere/283-1c3c9d75-4057-44c0-984c-0a82e0aef4f6"
-    type: article
-    provider:
-      name: KGW8
-      domain: kgw.com
-    quality: 15
-    images:
-      - url: "https://media.kgw.com/assets/KGW/images/0543c9e3-1e11-4cd0-b801-1fc1a9a8f0ec/0543c9e3-1e11-4cd0-b801-1fc1a9a8f0ec_1140x641.png"
-        width: 1140
-        height: 641
 
 secured: "gEWQMn6rQD93QfuaaGgWnK2yTGrAEf0WBwuB1K9tsftgj2iUbT3yGbpCKCzt6gutWEohSoDyNjpcfJsNBPf3LE+Y7WuIz7uckhooFTyYeCaDrwLs7nJ08LmVxssAoLgrPuDSxd1ZKxts9qHOzwSDp5emKz2nKNhAAeCD++kSIVvaylWYOzzEhPOroYdOjbo8AbNdNic/ZIzHiPe1gIShfKW40knTdFpaTv59KlADY4/QioiWEbFoj74nEMr9a6peGNR3zLnCeSL8kdEjzEWdBmrSL2D5k9n3qtBHchedliKV8BR993hZ6lrLY/8MdosS;578nP+iN/VviPeo5Dop46A=="
 ---
