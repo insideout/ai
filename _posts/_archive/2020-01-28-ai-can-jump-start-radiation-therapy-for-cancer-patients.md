@@ -30,8 +30,12 @@ related:
     provider:
       name: News Medical
       domain: news-medical.net
-    quality: 54
+    quality: 74
+    images:
+      - url: "https://www.news-medical.net/image.axd?picture=2014%2f7%2fRadiation_Therapy-620x480.jpg"
+        width: 620
+        height: 480
 
-secured: "tOISmN1vjjJMQ/mUQm9ZP8d1g36wGncxOYrR+aWEwBu7Hz0OWkBtTkUCihjSdIh5gbFKgS/vH/MaYM470FTr2syvCcjWz15GwNbMdgpa+dWMMMQsHNztL4KI9lbk54bshSt908Tq/IuiDQgtslYtm7e/7aQpSd/+fBQ9d/6tAkdcAvIblm/gVSaG8d+kfhBcVkTItudszlJSJXhZVpDSEgDzBun2oNyR/WorYg8Ke5mwNZI4q+wIorPiDOClKiyXU6jB/ZTs9BL+Y4fmebVb3m550goguxhVohj8guFLn6sN+dBXKwew4uQ/JJhOe8AV;eVkOo41gmmiGwnlHb27Ihw=="
+secured: "GakR071FVFAQ3lSRTGc2/Px6zwTEKg4Q64tajnSr2EJA802sfE4whjijO4jVMa2yA69wjHtdY0ozuf05XpFYtX4nSbGZ9gDuEbX3/ZcnohdN0bJW5beWyzLupHZ/b7EgCMEyzMymKQUy5SFQmJ8+z7faWil3vRrzjlyOIcNTsMud1QdxMOzwiaiopEbQSF6oBnveDalw7Thg/oRCJuvkiFSgbQvAhDfdZtIIE/+yGHcXO0m/8J68NunBhWZTg+RmIT+YxVRZ6C+xrI4xjDsDPZLHJa0WgFXcYtPQaG4h0361nJau98yMaaQlRYR1J1V7;9UwyvXFWdYHixhK1kV8uiw=="
 ---
 

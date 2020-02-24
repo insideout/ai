@@ -41,6 +41,21 @@ related:
       - url: "https://zdnet1.cbsistatic.com/hub/i/r/2018/10/20/46764bbf-aad1-4e5a-8b0e-e5ebe4228ad9/resize/1200x900/f882f01e4412ac9465fbc91b9e0f972e/screen-shot-2018-10-20-at-15-30-54.png"
         width: 1200
         height: 767
+  - title: "MIT helps self-driving cars ‘see’ through snow and fog"
+    excerpt: "Self-driving technology has come a long way, but it can still be tripped up by bad weather. A team from MIT's Computer Science and Artificial Intelligence Lab (CSAIL) may have a solution. They've developed a way to help autonomous vehicles \"see\" by mapping what's beneath the road using Ground Penetrating Radar (GPR). Most autonomous vehicles ..."
+    publishedDateTime: 2020-02-24T05:00:00Z
+    webUrl: "https://www.engadget.com/2020/02/24/mit-self-driving-cars-snow-fog/"
+    ampWebUrl: "https://www.engadget.com/amp/2020/02/24/mit-self-driving-cars-snow-fog/"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/24/mit-self-driving-cars-snow-fog/"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 74
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D4898%252C3058%252C0%252C206%26quality%3D85%26format%3Djpg%26resize%3D1600%252C999%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-02%252F807c04d0-5411-11ea-8fd9-fae4e1dbdc3d%26client%3Da1acac3e1b3290917d92%26signature%3D9030995f20c05de9020e813b8ac405d24d3cb1c9&client=amp-blogside-v2&signature=1e2a04df0c9c6a179bfcea2e6db4afc767a7117e"
+        width: 600
+        height: 350
   - title: "MIT researchers look under the road to aid self-driving cars"
     excerpt: "Car companies and researchers have been feverishly working to improve the technologies behind self-driving cars. But so far ... A team from MIT’s Computer Science and Artificial Intelligence Lab (CSAIL) developed a new system that uses an existing technology called “ground-penetrating radar” (GPR) to send electromagnetic pulses ..."
     publishedDateTime: 2020-02-24T07:39:00Z

@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Drones. Disinfecting robots. Supercomputers. The coronavirus outbreak is a test for China’s tech industry"
-excerpt: "Others are deploying robots to eliminate human-to-human contact ... China has long used facial recognition, artificial intelligence and other technologies to crack down on crime and monitor its citizens. And tech companies like Tencent have for years been accused of censoring politically sensitive topics online in China."
+excerpt: "The government has long stressed technological innovation as an important pillar of growth, and Beijing has spent billions of dollars on subsidies, loans and bonds designed to spur advancements in artificial intelligence ... from simulation to practice.” And a startup, Shanghai TMIRob, is sending dozens of robots inside hospitals throughout ..."
 publishedDateTime: 2020-02-24T05:07:00Z
 webUrl: "https://krdo.com/money/2020/02/23/drones-disinfecting-robots-supercomputers-the-coronavirus-outbreak-is-a-test-for-chinas-tech-industry/"
 type: article
@@ -38,6 +38,6 @@ related:
         width: 822
         height: 537
 
-secured: "5zYDnUq0unG49SUlffwZ+V7oUeD9PFyXawn+udU8vw8cCIPb1K+5CdZGGki2tcANgtYTQq9VHI9cp0bYtH5cWXvisvba9r1+qYquIkKJ2Gd/vC9JST7HkPq2qf80Fba9tc7BCiGyBevsSOI3YbSQB1P+kZz6TL3QKxBSH9wLoLNLmSNpF1WtwO0bfi3LFEEMswORtc9+ddcc9PsT/lP83BvdJs+iW6+93oQvQB2l3s46/aKGcsg8AqHh1eDHyRVWRohUe1Q3mW+Mppdvyx82jYH+FZsryTpPE6tw7hf6AmDoeAZm8t3jsHR4UxJjKafn;25oRe3HSKPiBUsNjcXxO7A=="
+secured: "2n/FSQ5jXH0NKD5v400LykIvM7JMOYsYJQrUrTLKQGlr5R8ODr9a3rk7l975QOWFQZtGgV85JCBrUHKqHZdXUfKfIdaiFHq+uPNrG/LXEZuEMkH9L/Z2x4AfzujQkX89kuMLGeIdSTSXPOLrBPNgj4EDvee0iNJovr1/1NMdHnD+aFNn/ATkNQxBHqUwQKyp2o5blYm6m1xlK1uOCbdUpG8Len26edhRQaluc7+Nkmty2E1DwFR5F7vwLcHXF96Q/lLHWHTPDqGnD4x5lrKjQuU9dQOVI1lW8MQVHPFq3bsB37GvpZ1/i2yGun7oXek7;hSpVWpxKDBW29CaK/shXbg=="
 ---
 

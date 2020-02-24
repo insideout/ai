@@ -1,27 +1,33 @@
 ---
 category: news
-title: "Jaguar Land Rover reveals self-driving transport pod"
-excerpt: "Jaguar Land Rover, the UK’s largest automotive manufacturer, has revealed a new self-driving transport pod developed for cities and ready for an on-road pilot programme in the UK starting next year. Known as Project Vector, the vehicle is an autonomous platform with a design focus on maximising interior space and offering flexible body ..."
-publishedDateTime: 2020-02-20T12:43:00Z
-webUrl: "https://www.itweb.co.za/content/4r1ly7RbzdP7pmda"
+title: "MIT helps self-driving cars ‘see’ through snow and fog"
+excerpt: "Self-driving technology has come a long way, but it can still be tripped up by bad weather. A team from MIT's Computer Science and Artificial Intelligence Lab (CSAIL) may have a solution. They've developed a way to help autonomous vehicles \"see\" by mapping what's beneath the road using Ground Penetrating Radar (GPR). Most autonomous vehicles ..."
+publishedDateTime: 2020-02-24T05:00:00Z
+webUrl: "https://www.engadget.com/2020/02/24/mit-self-driving-cars-snow-fog/"
+ampWebUrl: "https://www.engadget.com/amp/2020/02/24/mit-self-driving-cars-snow-fog/"
+cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/24/mit-self-driving-cars-snow-fog/"
 type: article
-quality: 24
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: ITWeb
-  domain: itweb.co.za
+  name: Engadget
+  domain: engadget.com
+  images:
+    - url: "/assets/images/organizations/engadget.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: "https://www.itweb.co.za/static/pictures/2020/02/LandRover-Vector-3-2020.jpg"
-    width: 816
-    height: 459
-    title: "Jaguar Land Rover reveals self-driving transport pod"
+  - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D4898%252C3058%252C0%252C206%26quality%3D85%26format%3Djpg%26resize%3D1600%252C999%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-02%252F807c04d0-5411-11ea-8fd9-fae4e1dbdc3d%26client%3Da1acac3e1b3290917d92%26signature%3D9030995f20c05de9020e813b8ac405d24d3cb1c9&client=amp-blogside-v2&signature=1e2a04df0c9c6a179bfcea2e6db4afc767a7117e"
+    width: 600
+    height: 350
+    title: "MIT helps self-driving cars ‘see’ through snow and fog"
 
 related:
   - title: "This self-driving car looks under the road for a safety boost in rain and snow"
@@ -39,21 +45,6 @@ related:
       - url: "https://zdnet1.cbsistatic.com/hub/i/r/2018/10/20/46764bbf-aad1-4e5a-8b0e-e5ebe4228ad9/resize/1200x900/f882f01e4412ac9465fbc91b9e0f972e/screen-shot-2018-10-20-at-15-30-54.png"
         width: 1200
         height: 767
-  - title: "MIT helps self-driving cars ‘see’ through snow and fog"
-    excerpt: "Self-driving technology has come a long way, but it can still be tripped up by bad weather. A team from MIT's Computer Science and Artificial Intelligence Lab (CSAIL) may have a solution. They've developed a way to help autonomous vehicles \"see\" by mapping what's beneath the road using Ground Penetrating Radar (GPR). Most autonomous vehicles ..."
-    publishedDateTime: 2020-02-24T05:00:00Z
-    webUrl: "https://www.engadget.com/2020/02/24/mit-self-driving-cars-snow-fog/"
-    ampWebUrl: "https://www.engadget.com/amp/2020/02/24/mit-self-driving-cars-snow-fog/"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/24/mit-self-driving-cars-snow-fog/"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 74
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D4898%252C3058%252C0%252C206%26quality%3D85%26format%3Djpg%26resize%3D1600%252C999%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-02%252F807c04d0-5411-11ea-8fd9-fae4e1dbdc3d%26client%3Da1acac3e1b3290917d92%26signature%3D9030995f20c05de9020e813b8ac405d24d3cb1c9&client=amp-blogside-v2&signature=1e2a04df0c9c6a179bfcea2e6db4afc767a7117e"
-        width: 600
-        height: 350
   - title: "MIT researchers look under the road to aid self-driving cars"
     excerpt: "Car companies and researchers have been feverishly working to improve the technologies behind self-driving cars. But so far ... A team from MIT’s Computer Science and Artificial Intelligence Lab (CSAIL) developed a new system that uses an existing technology called “ground-penetrating radar” (GPR) to send electromagnetic pulses ..."
     publishedDateTime: 2020-02-24T07:39:00Z
@@ -110,6 +101,19 @@ related:
       - url: "https://images.hgmsites.net/hug/jaguar-land-rover-project-vector_100736818_h.jpg"
         width: 1920
         height: 1278
+  - title: "Jaguar Land Rover reveals self-driving transport pod"
+    excerpt: "Jaguar Land Rover, the UK’s largest automotive manufacturer, has revealed a new self-driving transport pod developed for cities and ready for an on-road pilot programme in the UK starting next year. Known as Project Vector, the vehicle is an autonomous platform with a design focus on maximising interior space and offering flexible body ..."
+    publishedDateTime: 2020-02-20T12:43:00Z
+    webUrl: "https://www.itweb.co.za/content/4r1ly7RbzdP7pmda"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 24
+    images:
+      - url: "https://www.itweb.co.za/static/pictures/2020/02/LandRover-Vector-3-2020.jpg"
+        width: 816
+        height: 459
   - title: "Tape trick seen as showing hurdles for self-driving cars"
     excerpt: "To be sure, the real-world threats of such an occurrence today are limited. For one, self-driving cars are still in the development phase, and most are being tested with drivers behind the wheel. Vehicles with advanced driver-assist systems that are available now still require the human to be attentive. And the McAfee researchers were only able ..."
     publishedDateTime: 2020-02-20T07:50:00Z
@@ -137,6 +141,6 @@ related:
         width: 1140
         height: 641
 
-secured: "N1non8OY9U7eq1T1ZPr+aYuPW2qp9e518CxrMrqquov2hi2/oAUmeathoICDklYRIowJINfuq3+rXNF5BgfUsRPhyoDuMzAwQYA3Jt+E9x5jVVy0UXfRFuomJZEuBVwa8cla9kXUTkwx4/c6bDeMK/iRilUbdnD2N/348WXYj7KJAVuVSiTAbyU7eFA+QT2DfziDqtdOLbm0DrYxzkD5rAjcLTYlgOMcBH3hHdO7KtEvSGQsF/wE1yQi9idwGA+Svc23PVn8UcMR1tU8WXReUYM1V0Qyj5E7lL+qhQWSPHcNjEM0AHDuH4N0kxbnMRWqrvY3m+thMyZEls1VM0mUTiB1TP2HafJZcTBT6HXFnXNZrBZtAC0+HqXvdsx0LdG6z7tXREohbpR3biCBjbMdGkH4NIExAf5Wf1JZnTXtka3dg/bjdcv5lyM7Wa0nePoxmLN1CMyFW6eueXofZ2eo30ELnmO7pFswLAyfHh2QneI=;esNQ5O9V4seWho61wg4YIg=="
+secured: "ZKHXYu4HmEUpjvmEomojXgkiKhxjsTlKarYerq+dwG9lfP3xCHiysrl3rUpK/O5JFKxYwkYUfJqf9AyJsorDsTsHljCxXqjszk86we0FmWL9BHcQUSNNkoMFEvEoCPOzltTLfPGiq/istJA5oTIlEBBlPj2Aai1CJnVPWzuym9HSIFszYDHMFCN8qAu7adF/0kMHaDfEX7x3yfW90tMsGynzhrS1/v3nMrUbOnLM7CFoc5CCrad9qTaDSVgaabWAuwxoWzqSpjic4j/L4axxb34t3lfz2qurGW5k8GJRnDc6L3AImEQYqqO30I29jnJ2;STa8SUwXXFYWHc9FPMwlYw=="
 ---
 
