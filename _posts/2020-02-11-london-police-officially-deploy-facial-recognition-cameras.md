@@ -91,15 +91,6 @@ related:
       - url: "https://www.chicagotribune.com/resizer/R_JTtoqdaQpQCFtG9OHt_xZ_9lY=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/C3DCANJPP5EF3BJLLF7AUJDL3U.jpg"
         width: 1200
         height: 720
-  - title: "Illinois privacy law leads to $550M Facebook settlement over facial recognition"
-    excerpt: "CHICAGO — Adam Pezen, Carlo Licata and Nimesh Patel are among millions of people who have been tagged in Facebook photos at some point in the past decade, sometimes at the suggestion of an automated tagging feature powered by facial recognition technology. It was their Illinois addresses, though, that put the trio’s names atop a lawsuit ..."
-    publishedDateTime: 2020-02-09T20:40:00Z
-    webUrl: "https://www.bostonherald.com/2020/02/09/illinois-privacy-law-leads-to-550m-facebook-settlement-over-facial-recognition/"
-    type: article
-    provider:
-      name: Boston Herald
-      domain: bostonherald.com
-    quality: 15
   - title: "Google Tells Clearview To Stop Scraping Photos For Facial Recognition Database"
     excerpt: "Google and its video service YouTube have joined Twitter in demanding that facial recognition startup Clearview AI stop scraping photos from their services. “YouTube’s terms of service explicitly forbid collecting data that can be used to identify a person,” a spokesperson told CBS, which first reported the company's move. The tech ..."
     publishedDateTime: 2020-02-17T23:20:00Z

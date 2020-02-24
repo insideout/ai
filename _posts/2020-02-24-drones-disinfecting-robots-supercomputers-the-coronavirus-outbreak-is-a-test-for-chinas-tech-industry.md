@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Drones. Disinfecting robots. Supercomputers. The coronavirus outbreak is a test for China’s tech industry"
-excerpt: "The government has long stressed technological innovation as an important pillar of growth, and Beijing has spent billions of dollars on subsidies, loans and bonds designed to spur advancements in artificial intelligence ... from simulation to practice.” And a startup, Shanghai TMIRob, is sending dozens of robots inside hospitals throughout ..."
+excerpt: "Others are deploying robots to eliminate human-to-human contact ... China has long used facial recognition, artificial intelligence and other technologies to crack down on crime and monitor its citizens. And tech companies like Tencent have for years been accused of censoring politically sensitive topics online in China."
 publishedDateTime: 2020-02-24T05:07:00Z
-webUrl: "https://krdo.com/money/2020/02/23/drones-disinfecting-robots-supercomputers-the-coronavirus-outbreak-is-a-test-for-chinas-tech-industry/"
+webUrl: "https://ktvz.com/lifestyle/technology/2020/02/23/drones-disinfecting-robots-supercomputers-the-coronavirus-outbreak-is-a-test-for-chinas-tech-industry/"
 type: article
 quality: 22
 heat: -1
 published: false
 
 provider:
-  name: KRDO
-  domain: krdo.com
+  name: KTVZ
+  domain: ktvz.com
 
 topics:
   - AI
   - AI in Robotics
 
 images:
-  - url: "https://krdo.com/wp-content/themes/storymate-npg/assets/images/weather-icons/9000_clear_night.png"
-    width: 280
-    height: 360
+  - url: "https://ktvz.com/wp-content/uploads/2019/10/ktvz-biz-tech-860x484.png"
+    width: 860
+    height: 484
     title: "Drones. Disinfecting robots. Supercomputers. The coronavirus outbreak is a test for China’s tech industry"
 
 related:
@@ -38,6 +38,6 @@ related:
         width: 822
         height: 537
 
-secured: "wTalltA0dwOK7u84wZyXpnE8BX8QY7VFT8PT4UnmCaIUPRMOoKc1TF0q3Ufk0LiLqMw39GIfE8sbjHyGEAJu8ou3tWEpwkYKgnq8qrvckMFtBuBNxH9SqYxWvrvtP/D38Gxc2rz01VslV0yx4njYq0HwBPC/DPI5dRC2bx8RtfYJMdxF56OuRjCu49Oj8ddP0i0UMW834QycoHN8at1NEgI67XQf/yuuz2xE4Q/t79H7kxhY3VZLmcv3C9ADuUEIjD8/cHPl6FGU5r92Y1MNJdoUbVHi2OAWzj4Zsh8JjNty6hfQp7Ob/yDcsmkpnUE8;91ev8fi55VjlTj7jkAKFlA=="
+secured: "oRYQzAaBCp0bEmd2q30F7NYeWUJgOQIdVWjFHotNx+xN4fT1vrgCc9o4CsKpyp/oOslYu7A3DLhRcs5+S15zGhKj4SkHnq/18dinH7BLUJq/VVPOpInRwJMG+sE9h2kVUkTbq+G+IfDS8oA/hpPJzZPaa4aioV2zReEWLCDoNAXdnZB9ckQ7wHhDwegwXt+dspqHCjg5a1lhBuiGQxfWtAj8Ox0ho6fK+7PrddSAsPyxEli2+dIa9V+5he6+Uzk6zmXC8aFtsvOQ6kzVynnr2HdedKg8A0lldALfZA58x9q+6VupnzhVlk6xzkbd4XiA;SeyQSrQmWKw9aX9o0z43eA=="
 ---
 

@@ -1,22 +1,24 @@
 ---
 category: news
-title: "Diamanti Accelerates Energy and Service Organizations’ Adoption of AI/ML"
-excerpt: "Leading provider of hyperconverged platform for Kubernetes and containers to share breakthrough customer use cases at ARC Industry Forum 2020"
-publishedDateTime: 2020-02-03T18:35:00Z
-webUrl: "https://www.globenewswire.com/news-release/2020/02/03/1978964/0/en/Diamanti-Accelerates-Energy-and-Service-Organizations-Adoption-of-AI-ML.html"
+title: "Diamanti Accelerates Energy and Service Organizations' Adoption of AI/ML"
+excerpt: "AI and ML applications often leverage GPU processing for training models and they benefit from containers and Kubernetes. However, these processes are often complicated to adopt and run at scale."
+publishedDateTime: 2020-02-03T13:30:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/02/g15239298/diamanti-accelerates-energy-and-service-organizations-adoption-of-aiml"
+ampWebUrl: "https://amp.benzinga.com/amp/content/15239298"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15239298"
 type: article
-quality: 18
-heat: 18
+quality: 38
+heat: 38
 published: false
 
 provider:
-  name: GlobeNewswire
-  domain: globenewswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
   - AI Hardware
 
-secured: "4FYwd8E9ef/5QS5sHM68F0hjcxZCpk2bw6PhU6p7nQakWfo/wAEp8TEjl5e9WXtWZdLoAynYh/6NiiHR699H5DXLKbuGEpiztYDBaMgx5los8qEcp5Uc762xtx0+FjSTPbTuWmbYoS0CjstALi3kw2HbOhqJhpKO52CZwA44juXfRVPznEkehKApg8G2W9pyJXn+jZYqXFxC9kaGzq0oilOUdL8NGGTqUTJ3MHl7U9ij3nF+7sFQzLJshhH0TSWxVJvpwT8PEpHN/AlCZ5hsp8v/h8wjuesUMbJzjxmfaIy+75i2euJHNMRLj82uZ0vN;Pr48DkKDrYyVO8tUz50Dtw=="
+secured: "wbraYpJGFxxEs8u3ASbRCr3W36+tu+VP1t/x/RCL2IHU6Bc/0jaL76hndJDqHiYODFRG1aLsODdYVjA54qjhEO2mGeVSQu40IKVzn50DTCD748PSgySVoU/C4IHlGPtR1sxYMeNfgvi/t1vno15cWGhzfDrzf7dQtKm9OUlFm60yYOsEeeeEboKavt1A5O+uZkju+Rblxko1uV44Xt2CFAQ7UW+PDLc54vA4V5zXYPiXX4VVxaZuocgb661nLZ59heq+Kcphz/Esf/gwnDUTJnZq6+zdQuY0UsA+s58TnmlUR+YRonozljkbI2skqeJ9;b3ZNVMhc5PdLymXe9Y2Enw=="
 ---
 

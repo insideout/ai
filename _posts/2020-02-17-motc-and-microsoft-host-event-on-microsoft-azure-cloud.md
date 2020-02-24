@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-17T21:10:00Z
 webUrl: "https://thepeninsulaqatar.com/article/18/02/2020/MoTC-and-Microsoft-host-event-on-Microsoft-Azure-Cloud"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -48,15 +48,6 @@ related:
       name: Hindustan Times
       domain: hindustantimes.com
     quality: 35
-  - title: "Attivo Networks Announces Integration with Microsoft Azure Security Center for IoT"
-    excerpt: "The Azure IoT Edge is a fully managed service built on Azure IoT Hub ... and data deceptions designed to misdirect and reveal attacks efficiently from all threat vectors. Advanced machine-learning makes preparation, deployment, and operations fast and simple to operate for organizations of all sizes. Comprehensive attack analysis and forensics ..."
-    publishedDateTime: 2020-02-20T17:30:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200220005132/en/Attivo-Networks-Announces-Integration-Microsoft-Azure-Security"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 28
 
 secured: "ibG7sR6zff/iTtDGoU7lg4rt8sjOg+JXs55gwfof8tBT2Q6v6cNuRpeNhaLtZvZCtOt/TkwtVekF8HiBD6hcRA0x34gWChdQ6ZfKAcnBUSHqjHUmt7emb8//J3PgtU/jeQGDGc2m5NnDmZUkpjl8k/0/4QnuZ6oewV1MZP1nfeSFaqHtH0zIB/REU59/D/WkvwlbSpGtAFnezc7qsUo7rPPCYBs79xrPKUTfst3dyJL68ijBxVQBA+v1+NAJxCdTwbtPijywl4mTfb54Hhz0oprNO0E3EOfNzCz3riLP7bvUu4pdmRZNxS+ylY39t+XsTQWoGdo+6N1PlKSiUUNy7q0J1P9cpxeFq6FXEOQK3qSknDaJwHiayGGxxB3+9U6ihnS4spo6PeRvnoCgBlr9/z9RfOX+xRPOMNLa8zFO4WlT6BQk2L9L0Av3v5qxagLwFMOqJeO9ukFnnIsPCXM5i21VkvSHQxen0qCFiChhpw8=;PhSeFQ1eEtAoQRPRI4qpjQ=="
 ---

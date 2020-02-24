@@ -24,32 +24,21 @@ images:
     title: "ClearDATA Comply™ for Microsoft Azure Enhances Sophistication of PHI Protection"
 
 related:
-  - title: "CyberMDX Announces Integration With Microsoft Azure Security Center for IoT"
-    excerpt: "/PRNewswire/ -- CyberMDX, a leading provider of medical cyber security solution, delivering asset visibility and threat prevention for medical devices"
-    publishedDateTime: 2020-02-20T19:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/cybermdx-announces-integration-with-microsoft-azure-security-center-for-iot-301008578.html"
+  - title: "Microsoft Threat Protection: an Israeli-built AI bundle of Redmond's security services"
+    excerpt: "Microsoft Threat Protection literally consists of four existing services including Microsoft Defender Advanced Threat Protection (ATP), its Windows antivirus — which these days Mac and Linux too — Office ATP, Azure ATP, and its cloud app security suite. But while Microsoft Threat Protection is a combination of those existing services ..."
+    publishedDateTime: 2020-02-21T02:20:00Z
+    webUrl: "https://www.csoonline.com/article/3528708/microsoft-threat-protection-an-israeli-built-ai-bundle-of-redmonds-security-services.html"
+    ampWebUrl: "https://www.csoonline.com/article/3528708/microsoft-threat-protection-an-israeli-built-ai-bundle-of-redmonds-security-services.amp.html"
+    cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3528708/microsoft-threat-protection-an-israeli-built-ai-bundle-of-redmonds-security-services.amp.html"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 52
+      name: CSOonline
+      domain: csoonline.com
+    quality: 66
     images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-  - title: "CyberMDX completes integration certification for the Microsoft Azure Security Center for IoT"
-    excerpt: "CyberMDX delivers its granular Internet of Medical Things visibility into the single pane of glass of Azure Security Center to provide continuous visibility and threat protection across device types and network layers. All on-premises hospital assets are auto-identified and classified by CyberMDX’s DPI and AI engine. The classified assets are ..."
-    publishedDateTime: 2020-02-24T00:33:00Z
-    webUrl: "https://www.helpnetsecurity.com/2020/02/24/cybermdx-microsoft-azure/"
-    type: article
-    provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 43
-    images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2016/06/09111805/pulse.jpg"
-        width: 1600
-        height: 907
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2019/12/09/06/2019-11-16t023310z_1_lynxmpefaf02a_rtroptp_4_microsoft-results-100820758-large.jpg"
+        width: 1200
+        height: 800
   - title: "SecuriThings Announces Integration with Microsoft Azure Security Center for IoT to Protect Customers' IoT Devices Against Cyber-Attacks"
     excerpt: "/PRNewswire/ -- SecuriThings is the technology provider of Horizon, a software-only solution which detects and mitigates cyber-attacks exploiting the"
     publishedDateTime: 2020-02-20T17:30:00Z
@@ -63,41 +52,28 @@ related:
       - url: "https://mma.prnewswire.com/media/970547/SecuriThings_Logo.jpg?p=facebook"
         width: 2700
         height: 1414
-  - title: "CyberX integrates with Microsoft Azure Security Center"
-    excerpt: "According to Michal Braverman-Blumenstyk, CTO and GM, Cloud and AI Security Division at Microsoft Corp.: “CyberX’s IoT security platform and integration with the Microsoft Azure Security Center for IoT enables customers to go further and faster with IoT innovations that drive new revenue streams and operational efficiencies — without comp ..."
-    publishedDateTime: 2020-02-21T00:03:00Z
-    webUrl: "https://www.helpnetsecurity.com/2020/02/21/cyberx-microsoft/"
+  - title: "Microsoft Preps for RSA Conference with Multiple Security Product Announcements"
+    excerpt: "Azure Sentinel uses so-called \"Fusion\" machine learning technology to find the most important threats. How that's done is outlined in this blog post by Ram Shankar Siva Kumar of Microsoft's cloud and AI security team. Microsoft Defender ATP for Linux Previews Microsoft is extending endpoint detection and response protections with its currently ..."
+    publishedDateTime: 2020-02-21T01:21:00Z
+    webUrl: "https://redmondmag.com/articles/2020/02/20/microsoft-rsa-security-product-announcements.aspx?m=1"
     type: article
     provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 34
-  - title: "CyberX Announces Integration with Microsoft Azure Security Center for IoT, Joins Microsoft Intelligent Security Association"
-    excerpt: "According to Michal Braverman-Blumenstyk, CTO and GM, Cloud and AI Security Division at Microsoft Corp.: “CyberX’s IoT security platform and integration with the Microsoft Azure Security Center for IoT enables customers to go further and faster with IoT innovations that drive new revenue streams and operational efficiencies — without comp ..."
-    publishedDateTime: 2020-02-20T18:16:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200220005507/en/CyberX-Announces-Integration-Microsoft-Azure-Security-Center"
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 35
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/OldFashionedMicsBig.jpg"
+        width: 1665
+        height: 1158
+  - title: "Attivo Networks Announces Integration with Microsoft Azure Security Center for IoT"
+    excerpt: "The Azure IoT Edge is a fully managed service built on Azure IoT Hub ... and data deceptions designed to misdirect and reveal attacks efficiently from all threat vectors. Advanced machine-learning makes preparation, deployment, and operations fast and simple to operate for organizations of all sizes. Comprehensive attack analysis and forensics ..."
+    publishedDateTime: 2020-02-20T17:30:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200220005132/en/Attivo-Networks-Announces-Integration-Microsoft-Azure-Security"
     type: article
     provider:
       name: Business Wire
       domain: businesswire.com
     quality: 28
-    images:
-      - url: "https://mms.businesswire.com/media/20200220005507/en/774439/23/cyberx.jpg"
-        width: 1200
-        height: 627
-  - title: "The new collaboration is designed to enhance the cybersecurity capabilities of Azure Security Center for IoT customers."
-    excerpt: "Michal Braverman-Blumenstyk, CTO and GM, Cloud and AI Security Division at Microsoft Corp. said, \"We are pleased to partner with Firedome's Endpoint Protection solution to provide a solution for manufacturers who don't have a SOC team for their IoT installed device base. We view this collaboration as a way to enrich Microsoft Azure Security ..."
-    publishedDateTime: 2020-02-22T01:31:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/firedome-announces-integration-with-microsoft-azure-security-center-for-iot/article_9fd4db82-0673-50af-bd2b-78c981cc8039.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 15
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
 
 secured: "fqjKLO5DPQMeg2NJAHq0vWHUmF2Jck/Xs3Fr36OeN9Jx/uAHyQQGThsQ/knMvuw0u03cJAzeKeFuOoAaWDvkEw0h9n7SG2SbZaAFrPGkDYnZpNgbQz9Yj/Mu7WLejUZbARwPY3VL+1sMQ6ccneiPs9qvtEVY68U9J3ie+JUmCR5cQ/GGb1tOjqGjS/hfKsBHjQsvggEVUfWdyQj2divHgC8J9HO+l/2zEbSX5N2Qybn4/GOq3BXAEFWVGz0DgygvpCDNbjZlW9v4K0Ft5VKdYY6OZfB2b1TKVYV6XLsk1kFPAedHM29rxIfyN/Xtsn6I;fTZkKjj9yxdXQ1B0/FO0kQ=="
 ---

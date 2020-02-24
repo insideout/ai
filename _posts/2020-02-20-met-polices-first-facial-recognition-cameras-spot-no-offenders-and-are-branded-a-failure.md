@@ -29,12 +29,16 @@ related:
   - title: "Commentary: How to make Singapore smile for the facial recognition camera"
     excerpt: "SINGAPORE: In Singapore, security cameras watch corridors of housing blocks and student hostels. Cameras detect littering from high-rise buildings, illegal smoking and e-scooters on footpaths. Singaporeans, it seems, are accustomed to being watched for security and safety, and to curb nuisances. Now, it’s increasingly practical to use cameras ..."
     publishedDateTime: 2020-02-23T22:10:00Z
-    webUrl: "https://www.channelnewsasia.com/news/commentary/singapore-facial-recognition-camera-data-privacy-identity-12452916"
+    webUrl: "https://www.channelnewsasia.com/news/commentary/singapore-facial-recognition-camera-data-privacy-identity-12452916/"
     type: article
     provider:
       name: Channel NewsAsia Singapore
       domain: channelnewsasia.com
-    quality: 18
+    quality: 38
+    images:
+      - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/11671404/16x9/991/557/ed1432e89a4bb96e24775c0edbc42a49/TV/facial-recognition-gantry-for-office-workers-at-funan.jpg"
+        width: 991
+        height: 557
 
 secured: "UrWU+zdViocwTv6aCgZ+UUIxfbcNoYCUtQRDVbIr4wUVXEyhPBCxhhFAaSzpXRDOstum592iEOOs3IvAFNbHq7313FJBTfeUb+afJ3h3+tYkqX3b9SfBvlgTuLxRulfsPQNsnhU5WzB1t4FsnsB8x0De2kKqxwh+VQN9tC6Hjaq/VBgcw7eruUWKZnz/AiOEmulFnA6BMIWMitZ7G6EdduUqjomdH+s/tSHIUDm/iX7vSTgmcnb4uHxTmxJ1EUUqx8YtOXvtBAok1HWDqppGa+4jb9XC7BdFoTHnViJ2IVPdVZJ0fObRFnossnUy1/n1;fZWAbHYhY/L6pB2mGYg8wg=="
 ---

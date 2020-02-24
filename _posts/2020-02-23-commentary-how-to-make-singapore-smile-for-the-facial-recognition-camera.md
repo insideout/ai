@@ -3,9 +3,9 @@ category: news
 title: "Commentary: How to make Singapore smile for the facial recognition camera"
 excerpt: "SINGAPORE: In Singapore, security cameras watch corridors of housing blocks and student hostels. Cameras detect littering from high-rise buildings, illegal smoking and e-scooters on footpaths. Singaporeans, it seems, are accustomed to being watched for security and safety, and to curb nuisances. Now, it’s increasingly practical to use cameras ..."
 publishedDateTime: 2020-02-23T22:10:00Z
-webUrl: "https://www.channelnewsasia.com/news/commentary/singapore-facial-recognition-camera-data-privacy-identity-12452916"
+webUrl: "https://www.channelnewsasia.com/news/commentary/singapore-facial-recognition-camera-data-privacy-identity-12452916/"
 type: article
-quality: 18
+quality: 38
 heat: -1
 published: false
 
@@ -16,6 +16,12 @@ provider:
 topics:
   - AI
   - Computer Vision
+
+images:
+  - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/11671404/16x9/991/557/ed1432e89a4bb96e24775c0edbc42a49/TV/facial-recognition-gantry-for-office-workers-at-funan.jpg"
+    width: 991
+    height: 557
+    title: "Commentary: How to make Singapore smile for the facial recognition camera"
 
 related:
   - title: "Met Police's first facial recognition cameras spot NO offenders and are branded a failure"
@@ -34,6 +40,6 @@ related:
         width: 636
         height: 382
 
-secured: "cT2vNXoblhT7oS0nz26TChfzSr/iKXsGXSI6d5LJ2hQfZ8uwhSVLCL6rS9mx2cV3dZwtXBeohLytQn94VYu100+7+/hfSHRk8hvoQrO2aJE7mYfaxkIYVupRNqyJECRfhMnC/cqPU75v/5ernB4QsGhf+0f2g9/Ubs9cvNhMMqrshSpX/ijcHPTIewE2H51KSw2WZ3r+Si+/RDxae4Jh13Cyd2mq1594qzSDtE6K9AJq1Zx/xOo91oal+2qf7wuLUMMEq/6/aqfvn619LitDIj/7HrFF6nnktb81cVaQ8BBBwoUduu/bxFUwj6psT0Q4UFbTjMZmpE5MwRru8jjNG14TWeBs3H7nujwEwHdRb5MtpZ30B4UvTRlLkoMSQfmsqaXV0WkhdkFbjrSbfx6WDqGH05lVO5ELPdVrJZ1eTgFbs81IXD30WLvMijwCfCfR4qgH4uZ8bMSzZBu/e/GAA0Yq80BtE9yStgTTQDLYInU=;t0pnvXB3RdGdwmo9TYw5Jg=="
+secured: "+KGU8epKJmm6G0ESHTd9rdr5GjeY6rY2pftZ/xZa53Ba3j4lacQz6tNKofFWYqHzjQy3fSxCSgCIA7FazcRYQrYnzuHbLs97UdNouggFsb0aMJ/cgUdY2IYMRwyMK987Etc+1PGAd30oggXVetuFyI2ht6EQZ5Lpj0Qpmv9NhSoRNLQeP2kzYeu+VhOZ9FSFC4oULqd05maLMDQsp3FpCx66Kz8f3qwpA5VSwuIy5gyn2VU0LtlRC7ypUVnFLmcAYQcr5vStwL3iDOO0Dy9Y4h8S7LvFWxcD/tqV1wtXUX7OUQqTW0AGJ4N7xzz5dloa;0dGIihqTrBUdZOzUNw9fQA=="
 ---
 

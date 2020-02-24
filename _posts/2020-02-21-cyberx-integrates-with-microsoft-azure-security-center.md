@@ -31,19 +31,6 @@ related:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
         height: 315
-  - title: "ClearDATA Comply™ for Microsoft Azure Enhances Sophistication of PHI Protection"
-    excerpt: "in healthcare including Azure Kubernetes Service (AKS), Azure Machine Learning as well as PaaS based services like Azure SQL. ClearDATA is a Microoft Gold Partner and has offered managed security, compliance and privacy solutions on Microsoft Azure since 2015. ClearDATA will further collaborate with Microsoft to support its sensitive data ..."
-    publishedDateTime: 2020-02-19T16:53:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-cleardata-complytrade-microsoft-azure-enhances-sophistication-phi-protection-/2020/02/19/9100677.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 50
-    images:
-      - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
-        width: 252
-        height: 335
   - title: "CyberMDX completes integration certification for the Microsoft Azure Security Center for IoT"
     excerpt: "CyberMDX delivers its granular Internet of Medical Things visibility into the single pane of glass of Azure Security Center to provide continuous visibility and threat protection across device types and network layers. All on-premises hospital assets are auto-identified and classified by CyberMDX’s DPI and AI engine. The classified assets are ..."
     publishedDateTime: 2020-02-24T00:33:00Z
@@ -57,19 +44,6 @@ related:
       - url: "https://img.helpnetsecurity.com/wp-content/uploads/2016/06/09111805/pulse.jpg"
         width: 1600
         height: 907
-  - title: "SecuriThings Announces Integration with Microsoft Azure Security Center for IoT to Protect Customers' IoT Devices Against Cyber-Attacks"
-    excerpt: "/PRNewswire/ -- SecuriThings is the technology provider of Horizon, a software-only solution which detects and mitigates cyber-attacks exploiting the"
-    publishedDateTime: 2020-02-20T17:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/securithings-announces-integration-with-microsoft-azure-security-center-for-iot-to-protect-customers-iot-devices-against-cyber-attacks-301008562.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 37
-    images:
-      - url: "https://mma.prnewswire.com/media/970547/SecuriThings_Logo.jpg?p=facebook"
-        width: 2700
-        height: 1414
   - title: "CyberX Announces Integration with Microsoft Azure Security Center for IoT, Joins Microsoft Intelligent Security Association"
     excerpt: "According to Michal Braverman-Blumenstyk, CTO and GM, Cloud and AI Security Division at Microsoft Corp.: “CyberX’s IoT security platform and integration with the Microsoft Azure Security Center for IoT enables customers to go further and faster with IoT innovations that drive new revenue streams and operational efficiencies — without comp ..."
     publishedDateTime: 2020-02-20T18:16:00Z
@@ -86,7 +60,7 @@ related:
   - title: "The new collaboration is designed to enhance the cybersecurity capabilities of Azure Security Center for IoT customers."
     excerpt: "Michal Braverman-Blumenstyk, CTO and GM, Cloud and AI Security Division at Microsoft Corp. said, \"We are pleased to partner with Firedome's Endpoint Protection solution to provide a solution for manufacturers who don't have a SOC team for their IoT installed device base. We view this collaboration as a way to enrich Microsoft Azure Security ..."
     publishedDateTime: 2020-02-22T01:31:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/firedome-announces-integration-with-microsoft-azure-security-center-for-iot/article_9fd4db82-0673-50af-bd2b-78c981cc8039.html"
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/firedome-announces-integration-with-microsoft-azure-security-center-for-iot/article_9fd4db82-0673-50af-bd2b-78c981cc8039.html"
     type: article
     provider:
       name: WFMZ-TV
