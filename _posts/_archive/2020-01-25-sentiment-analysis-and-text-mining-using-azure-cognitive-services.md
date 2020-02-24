@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-25T12:40:00Z
 webUrl: "https://medium.com/@caiomsouza/sentiment-analysis-and-text-mining-using-azure-cognitive-services-6185a1d0f0b7"
 type: article
 quality: 84
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,19 +27,6 @@ images:
     height: 600
     title: "Sentiment analysis and text mining using Azure Cognitive Services"
 
-related:
-  - title: "Cloud-Native Cognitive Computing How to Get Ready For The Next Frontier in AI"
-    excerpt: "which is of course why cognitive services are so closely linked to cloud-based environments. The leading providers in this field – Amazon AWS, Microsoft Azure, Google Cloud, and IBM Watson ..."
-    publishedDateTime: 2020-01-24T00:00:00Z
-    webUrl: "https://www.business2community.com/cloud-computing/cloud-native-cognitive-computing-how-to-get-ready-for-the-next-frontier-in-ai-02277792"
-    ampWebUrl: "https://www.business2community.com/cloud-computing/cloud-native-cognitive-computing-how-to-get-ready-for-the-next-frontier-in-ai-02277792/amp"
-    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/cloud-computing/cloud-native-cognitive-computing-how-to-get-ready-for-the-next-frontier-in-ai-02277792/amp"
-    type: article
-    provider:
-      name: Business 2 Community
-      domain: business2community.com
-    quality: 36
-
-secured: "pTVehJUF0NLNu6WdpXZeugvXdUkXTvRL7tEWwLAOG41xMvq4dNQjwWtiHpuR0sJLvWo38JmnxoxxJzcybBcyoqd2iite+dgzB5f7G/Ek0ndwulMnDSbV+nBDzVeQ0+VbcLp62P/43jkLw+uA65aDS+VlHRacmhGMc4KUrryxvYzzqfDJbRVVnvZgchQdzgkSnk3VEjUzc8UiOFKNmSHGYFdy63gN0yuoJBG4/1Ivdx6Zsg08FD3kr8SsNV9zADErhQlOHgwEhNLRC9hTurwkHi4CQe7mkApvJwe3LYbJZHaP6vNSgcnDEUUxXXcr7Qpy;s7OeUW6TOX/oz6hhBZjoaA=="
+secured: "KW7+RFo8UhnlAdlJzJ+BDoupw1lkyehZVeGanKgYcf973td8dDlgNszZ4vrt/98NqdRY6xZwGmMqdeZALQrPN80S5sQLaRHncpUAONCdkGA3ye+4BDTfSZulQvzGWBYzn1IBG4Ih4GB7MutMA9YyMVerOVrWmU7Tu6ss+R9YWIlYFxZ896F8v5UU1KDAbbTWq+vCas5SZOrqH656pGMJbvLLs9rxDHarzAxXNM6D2/y3q51Qyzd+9di7g+Cu7x+evuA5wije597jf3gJ7lKzpfdTvduRPgZ3Ysd0c+VLLz52X6r3LeiWON2avxmmJ5ho;lNuamZkBOjDxk0MBGmr26A=="
 ---
 

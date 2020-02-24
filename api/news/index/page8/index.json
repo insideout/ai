@@ -2,23 +2,23 @@
   "page": 8,
   "value": [
     {
-      "path": "_posts/2020-02-23-this-technique-uses-ai-to-fool-other-ais.md",
-      "title": "This Technique Uses AI to Fool Other AIs",
-      "excerpt": "Research shows how AI programs that parse and analyze text can be confused and deceived by carefully crafted phrases. A sentence that seems straightforward to you or me may have a strange ability to deceive an AI algorithm. Jin and colleagues devised an algorithm called TextFooler capable of deceiving an AI system without changing the meaning ...",
-      "heat": 87,
+      "path": "_posts/2020-02-24-ai-in-marketing-is-only-as-good-as-the-human-behind-it.md",
+      "title": "AI In Marketing Is Only As Good As The Human Behind It",
+      "excerpt": "While AI might change some day-to-day tasks for marketers, we believe that it will actually improve their jobs, not take them over.",
+      "heat": 99,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.wired.com/story/technique-uses-ai-fool-other-ais/",
-      "ampWebUrl": "https://www.wired.com/story/technique-uses-ai-fool-other-ais/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/technique-uses-ai-fool-other-ais/amp",
-      "publishedDateTime": "2020-02-23T04:00:00-08:00",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/24/ai-in-marketing-is-only-as-good-as-the-human-behind-it/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/24/ai-in-marketing-is-only-as-good-as-the-human-behind-it/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/24/ai-in-marketing-is-only-as-good-as-the-human-behind-it/amp/",
+      "publishedDateTime": "2020-02-24T09:43:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
+        "name": "Forbes",
+        "domain": "forbes.com",
         "images": [
           {
-            "url": "/assets/images/organizations/wired.com-50x50.jpg",
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -30,54 +30,10 @@
       },
       "images": [
         {
-          "url": "https://media.wired.com/photos/5e509f9235982c0009f6eb56/master/pass/5e509f7e6b2364000910b4d9_business-deceptive_ai_text-1140942135_autoxauto_00001.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": "This Technique Uses AI to Fool Other AIs",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-24-5-reasons-to-choose-pytorch-for-deep-learning.md",
-      "title": "5 reasons to choose PyTorch for deep learning",
-      "excerpt": "But why should you choose to use PyTorch instead of other frameworks like MXNet, Chainer, or TensorFlow? Let’s look into five reasons that add up to a strong case for PyTorch. Before we get started, a plea to TensorFlow users who are already typing furious tweets and emails even before I begin: Yes, there are also plenty of reasons to choose ...",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.infoworld.com/article/3528780/5-reasons-to-choose-pytorch-for-deep-learning.html",
-      "ampWebUrl": "https://www.infoworld.com/article/3528780/5-reasons-to-choose-pytorch-for-deep-learning.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3528780/5-reasons-to-choose-pytorch-for-deep-learning.amp.html",
-      "publishedDateTime": "2020-02-24T08:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/02/number-5-on-fire_top-five_five-tips-100750848-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "5 reasons to choose PyTorch for deep learning",
+          "url": "https://thumbor.forbes.com/thumbor/711x494/https://specials-images.forbesimg.com/dam/imageserve/1079012838/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 494,
+          "title": "AI In Marketing Is Only As Good As The Human Behind It",
           "attribution": null
         }
       ],
@@ -87,8 +43,7 @@
       ],
       "topics": [
         "AI",
-        "Google AI",
-        "Machine Learning"
+        "Facebook AI"
       ]
     },
     {
@@ -176,7 +131,7 @@
       "path": "_posts/2020-02-24-crucial-oversight-needed-for-police-ai-use.md",
       "title": "\"Crucial\" oversight needed for police AI use",
       "excerpt": "A report looking into police use of AI and data-driven technologies has called for urgent national guidance to ... RUSI was commissioned to conduct an independent study into English and Welsh police use of data analytics by the Centre for Data Ethics and Innovation (CDEI). Its focus was on algorithmic bias with a primary focus to help CDEI's ...",
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.itpro.co.uk/data-insights/big-data-analytics/354841/crucial-oversight-needed-for-police-ai-use",
@@ -221,7 +176,7 @@
       "path": "_posts/2020-02-24-dubai-set-to-witness-professional-interaction-with-humanoid-robot-sophia.md",
       "title": "Dubai set to witness professional interaction with humanoid robot Sophia",
       "excerpt": "“As a robot myself, I believe that data is the key to making smart decisions. With enough data, AI can be used to evaluate potential risk factors and prevent problems before they start.” The UAE is the only country in the world to have a Ministry of Artificial Intelligence. When she was asked to suggest as to what should it do to be a ...",
-      "heat": 73,
+      "heat": 83,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.zawya.com/mena/en/press-releases/story/Dubai_set_to_witness_professional_interaction_with_humanoid_robot_Sophia-ZAWYA20200224083733/",
@@ -279,6 +234,51 @@
           "width": 700,
           "height": 417,
           "title": "FG to include robotics, AI in school curriculum",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-24-how-to-deploy-robotics-responsibly.md",
+      "title": "How To Deploy Robotics Responsibly",
+      "excerpt": "industrial and commercial robotics, artificial intelligence (AI) and the interconnectivity of software and hardware devices. Indeed, IDC predicts that by 2022, the global robotics market (i.e., robots,",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/24/how-to-deploy-robotics-responsibly/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/24/how-to-deploy-robotics-responsibly/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/24/how-to-deploy-robotics-responsibly/amp/",
+      "publishedDateTime": "2020-02-24T09:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1011468914/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 474,
+          "title": "How To Deploy Robotics Responsibly",
           "attribution": null
         }
       ],

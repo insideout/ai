@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Facebook will pay you up to $5 to record your voice"
-excerpt: "Facebook will pay you for your voice, but don’t expect to get wealthy. The company is paying selected people to record phrases to improve its voice recognition tools. It’s asking them record the phrase, “Hey Portal, call…” which is its camera-equipped home device, followed by saying the first name of a Facebook friend twice for 10 times."
-publishedDateTime: 2020-02-21T17:18:00Z
-webUrl: "https://www.channel3000.com/facebook-will-pay-you-up-to-5-to-record-your-voice/"
+excerpt: "(CNN) — Facebook will pay you for your voice, but don't expect to get wealthy. The company is paying selected people to record phrases to improve its voice recognition tools. It's asking them to record the phrase, \"Hey Portal, call...\" which is its camera-equipped home device, followed by saying the first name of a Facebook friend twice for ..."
+publishedDateTime: 2020-02-21T23:37:00Z
+webUrl: "https://www.ksl.com/article/46720497/facebook-will-pay-you-up-to-5-to-record-your-voice"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Channel 3000
-  domain: channel3000.com
+  name: KSL
+  domain: ksl.com
 
 topics:
   - AI
   - Natural Language Processing
 
 images:
-  - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.channel3000.com/content/uploads/2020/01/5dfb591dd3167.image_.jpg"
-    width: 1763
-    height: 1175
+  - url: "https://img.ksl.com/slc/2774/277453/27745350.jpg?filter=ksl/responsive_story_lg"
+    width: 614
+    height: 345
     title: "Facebook will pay you up to $5 to record your voice"
 
 related:
@@ -357,6 +357,21 @@ related:
       - url: "https://images.livemint.com/img/2020/02/21/600x338/2019-12-02T174920Z_467783753_RC25ND9X2N0L_RTRMADP_3_EU-FACEBOOK_1575316477461_1582267603516.JPG"
         width: 600
         height: 337
+  - title: "Amid Eavesdropping Tech Giants, Facebook Wants To Reward Users For Voice Data"
+    excerpt: "While Facebook claims the recordings will be used to offer better speech recognition services, when seen in the light of security breaches on Facebook, it does raise questions of ethics. Is paying users the right way to go about getting them to submit data? It is to be noted that Facebook was reportedly paying third-party contractors to ..."
+    publishedDateTime: 2020-02-24T17:20:00Z
+    webUrl: "https://inc42.com/buzz/amid-eavesdropping-tech-giants-facebook-wants-to-reward-users-for-voice-data/"
+    ampWebUrl: "https://inc42.com/buzz/amid-eavesdropping-tech-giants-facebook-wants-to-reward-users-for-voice-data/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/amid-eavesdropping-tech-giants-facebook-wants-to-reward-users-for-voice-data/amp/"
+    type: article
+    provider:
+      name: inc42.com
+      domain: inc42.com
+    quality: 41
+    images:
+      - url: "https://i1.wp.com/inc42.com/wp-content/uploads/2020/02/facebook-feature-social.jpg?fit=1200%2C628&#038;ssl=1"
+        width: 1200
+        height: 628
   - title: "Facebook to pay users to improve speech recognition technology"
     excerpt: "Facebook has announced it will pay select users who agree to record their voice to improve its speech recognition technology. According to The Verge, the social networking giant he company will pay select users to record snippets of audio through a new programme called \"Pronunciations in its Viewpoints market research app. If you qualify to be ..."
     publishedDateTime: 2020-02-21T16:02:00Z
@@ -504,6 +519,6 @@ related:
       domain: knowtechie.com
     quality: 0
 
-secured: "9uM92euZfxauht1xeT+h9IQTtp8IgBHPoX3ICENqfwQCNXUPz1owGV4kzgyv2bENN8yFBgVDdJxClKZRStkxamZOHRz3MfgqAm10oeUrZy47DZaOvngJQP43WN7aIPNuA9xn9IW5pHVjBWac4sio60KtYWHOZwZ0h+0UjYc6WRL0Weta1ynKQOcXAn7AVdxUoPnewt9G+tpUyJN4qqzY9/o+MJ5yhnFhLs7Ty0kZl/AAKThPwp3QsjYZ3qqZScuPAVDwmGUSCstZzDq0EoBYe4kOJ53NS/C+Rjc5IEsxXgck8y/6u9FNne/aYEC5d//VOcd5gCRDZbnylj7EkIBDMbQHBheXyuyyu5WsjWh6l12D6qYJd4kRy1ECh3EWsABPsRMhAYFiJrFANnph5i2Jy5igo8WN2BYMuZUenhw7E/TTW9ueHRRJcrQ/1JM3azIl2SpZ+tByPhnT6n716D0BhboC186fNxRpfVoU7yOu3Kw=;z9K0qdp/z4JPSOkmHm1+wg=="
+secured: "cddsshE4HgSzYb3D8PBnQi6sK1INautU52oWDfF29UL1p/5UitLbW/FOa4edMbSVY8k1LuzX5xNdZWZ1fSWwXXmB3mtw8juOEnwwtCh5SiKoEwuIlC3yewcXzR759SQJpqSlrJYkhIhtdUS92NiZQanirM7U5qkXZ+e+DImtK7NJQ1AU8mCEvrZ4Tm2PHA9q1Gy1z00BQgG5dF2O58sa12vOO/fMY1w2kn33SXOjJNr88jo4G9eI/nqsxKgKZ4Ra+D9MJLEIB0apj1uchXF2I3EUi8PtSUkSeOR7QB/8pRoQCufPkLdfC88bFsh3i+fV;o02l1JVSCVqra2yjnlalqQ=="
 ---
 

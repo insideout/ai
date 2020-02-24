@@ -30,6 +30,6 @@ images:
     height: 800
     title: "5 reasons to choose PyTorch for deep learning"
 
-secured: "wrTnauuIhsjeYYrd1LytGDmC1xelkI8gXYplunh1Ie0yRJAzCgyJa91qNSMHDtQe/r1ywcrziiV6sDvQ/DDcFnNyvbHO2DIMc48d8vpzOyFC+LZ56W+ncJoI/nCYEEuwBf3vAVuABSB/UCubjh386ZalLYoc+m7MxxxcvMjnBPH+mhqCG4cZ46WK5JkasrTgZ9NFlUzo3XASuHW0gNK/Qci2BfeonTbeqCu2e7B/bFVFep7wW1Z9gywDpot/VWb0rU902KtmxotR+yqDYBa2L9TOqkU3zEEq9hQenySm+2xsNwlB6SSrc8TJFY4GDnRA;6nXIZbBviYTKdHdG3fz5Bw=="
+secured: "v7KEu7ZZkJYqHo+JjLMGCCrjatH6xOHOlTb3H8Z3HSiAeim35XaTh5RbJbHmzbTUMMoiXhNae/McVKAjfUQL75/5bhOTHFvY/CoDg+rXcKKJ870JQrFLsZxS6JlDi5TT9jhL+5aTLHVah7o7u8cPdVMXsszdSTcyxB7TyhZQzU/2v33fOPnlKILwJ8EObJ0K8MW3UM7Pn/CBGFMQnTFDGycO/7WRI/1TRT1X+QO2E3p5eqiWbmDwveQl5YMA0dcotcj9m+avMsojQQYy3YxUEqf+RL+D4/+W2942FyVLg1NFB9QuucBD77/srKpFctb6knTtAWNgqF1lmm4KQXtI4aie1/YqM95js9YclWZkPDF+jeis1Ws+dEShmkJ9HcgGciXUNxYgvZ7aqxO2hF3PxRvUuEtN3CLXqhNKTpxalBZHhX+gRB+hBYHbCR6I3BjoT0+M6cYKzr0wM+s1bkD40rl0okYiSMnfKCnYjTWLdGE=;/WJPCpwTGVUjfULj09zRcw=="
 ---
 

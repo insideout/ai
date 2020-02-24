@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Cressida Dick: Facial recognition critics should face up to victims of crime"
-excerpt: "The head of the Metropolitan Police told a conference the only people who benefit from not using such technology are criminals. Privacy concerns over live facial recognition are ‘much smaller’ than the need to protect the public from ‘a knife through the chest’, Britain’s most senior police officer has said. Metropolitan Police ..."
-publishedDateTime: 2020-02-24T16:48:00Z
-webUrl: "https://www.shropshirestar.com/news/uk-news/2020/02/24/cressida-dick-facial-recognition-critics-should-face-up-to-victims-of-crime/"
+excerpt: "Privacy concerns over live facial recognition are ‘much smaller’ than the need to protect the public from ‘a knife through the chest’, Britain’s most senior police officer has said. Metropolitan Police Commissioner Dame Cressida Dick told a conference in Whitehall that critics of the use of such technology would need to justify to ..."
+publishedDateTime: 2020-02-24T17:36:00Z
+webUrl: "https://www.belfasttelegraph.co.uk/news/uk/cressida-dick-facial-recognition-critics-should-face-up-to-victims-of-crime-38984989.html"
+ampWebUrl: "https://amp.belfasttelegraph.co.uk/news/uk/cressida-dick-facial-recognition-critics-should-face-up-to-victims-of-crime-38984989.html"
+cdnAmpWebUrl: "https://amp-belfasttelegraph-co-uk.cdn.ampproject.org/c/s/amp.belfasttelegraph.co.uk/news/uk/cressida-dick-facial-recognition-critics-should-face-up-to-victims-of-crime-38984989.html"
 type: article
-quality: 36
+quality: 56
 heat: -1
 published: false
 
 provider:
-  name: Shropshire Star
-  domain: shropshirestar.com
+  name: Belfast Telegraph Digital
+  domain: belfasttelegraph.co.uk
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: "https://www.shropshirestar.com/resizer/j77f7duFobVJD8TELfKIQfmOi1I=/1200x0/filters:quality(100)/arc-anglerfish-arc2-prod-shropshirestar-mna.s3.amazonaws.com/public/IJLZIDHMI5FMBAFR4OQM7GPIQA.jpg"
-    width: 1200
-    height: 900
+  - url: "https://www.belfasttelegraph.co.uk/news/uk/20e5a/38984986.ece/alternates/w700/bpanews_036c0fc6-e90b-4b02-8fd6-310400dc250d_1"
+    width: 700
+    height: 435
     title: "Cressida Dick: Facial recognition critics should face up to victims of crime"
 
 related:
@@ -71,6 +73,6 @@ related:
       domain: seattletimes.com
     quality: 0
 
-secured: "DHXX09C3JuXLM5eTm9xmVByBJjf3t4Mv3kntrGFReEzbX9hDdkQ8PNXr+g85pPeKiBJjvqmxaQ2e/W4gPMH9ieJpI4PbWGnM+KAn0ZkMeobsxdlGeutyQaDhH6qNVvPDdm5gPIAh+nPhJILzQlOQ1Xdp64T/Lq6RSlh5pZzD4K+IB4rrm0QP4TkeWvKygtk6KOcryQn/FqOLsxYzocqEMmCI+w+fq+KOXSAG501MWrJUfhVI/GnpZ3xostVXMinrccznNyLmHJ7mMD4ZDBNKA4p7IWM1r3xoYrR5RGODn1tIsjQwA4oqT8iKoIoAdz/7;h8cbAWwZX4OoLgby2vPpRg=="
+secured: "4rfB5NOMCe++2YpMrpjNA+xtiUpAhtd4z6hrGFe6tp3K+DKvS7+uT4NbzTvLBIZweUt3AKxHaOFuDjlKSJFe3FgOj3LKztsku7W5mXpTR46zY+6V9AD0cbL9kpld2n+7KAapHKA1O4FRunDjhM5F0sXJFoUabv80sKGtZGOyr8YC3BaM+/5Bw4DTDwlgVQMOxpjGUVCNbjUll/2gcxR1/1GnkDgrbTJF5pO4yS/wqgYZ/pq4aho9QTBuLMHpgx+w5+gG+5YSEDhlokYNI0tfB48RaVwkJauBytJLzI1kynjR/2lpctlpH8YlQHA/PYFr;2FgkMPRyNlSLy9d5pIndkA=="
 ---
 

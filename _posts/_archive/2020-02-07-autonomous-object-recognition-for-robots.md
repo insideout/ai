@@ -18,29 +18,20 @@ topics:
   - Computer Vision
 
 related:
-  - title: "Raspberry Pi outdoor camera with object recognition"
-    excerpt: "Technology enthusiast and environmentalist Paul Kinsella has created a new rugged Raspberry Pi outdoor camera that can be powered by a standard 5 volt micro USB or via the company’s 24-36 volt vehicle powering system. Enabling the small outdoor cameras to be situated almost anywhere thanks to their rugged shell. The Raspberry Pi camera lens ..."
-    publishedDateTime: 2020-02-06T11:26:00Z
-    webUrl: "https://www.geeky-gadgets.com/raspberry-pi-outdoor-camera-06-02-2020/"
+  - title: "An AR based procedure to automate image labelling in the context 3D object recognition"
+    excerpt: "This article describes a procedure aimed to ease the toil of labelling images while building your own object recognition system. I will explain the steps I followed and the difficulties I ran into."
+    publishedDateTime: 2020-02-07T19:48:00Z
+    webUrl: "https://medium.com/@alfredo.rubio.arevalo/an-ar-based-procedure-to-automate-image-labelling-in-the-context-3d-object-recognition-a5129b55a755"
     type: article
     provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
+      name: Medium
+      domain: medium.com
+    quality: 61
     images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2020/02/Raspberry-Pi-outdoor-camera.jpg"
-        width: 700
-        height: 500
-  - title: "Soft Error Resilience of Deep Residual Networks for Object Recognition"
-    excerpt: "Abstract: Convolutional Neural Networks (CNNs) have truly gained attention in object recognition and object classification in particular. When being implemented on Graphics Processing Units (GPUs), deeper networks are more accurate than shallow ones. Residual Networks (ResNets) are one of the deepest CNN architectures used in various fields ..."
-    publishedDateTime: 2020-02-13T06:31:00Z
-    webUrl: "https://ieeexplore.ieee.org/document/8963961"
-    type: article
-    provider:
-      name: IEEE
-      domain: ieee.org
-    quality: 19
+      - url: "https://miro.medium.com/max/778/1*m9yobYKqtSe9paXDczs5IA.png"
+        width: 778
+        height: 1600
 
-secured: "zjlTyFmuoDd50tuj8w/jEYnmZcZ1VMWUWw9GHHULhKf2jVPySd4GSO6TWHmMsWDXejCGPjo97AZnU1C2vjtUCVNkJ1zMMXcRNLm+jsErIuW1UW2om2OhQG/19k/trwETT8sd5dtENgAyeUvE/DdsxRYPUyROnxX0jyYl5aq01TtAiPwLJAnJ7U6DwaCSfdhEfK3v6twuV4oTzs9mJTictpOAjxul+5N16ohmZ9mx/Y9fbSHSgeWsLsWBIZmD3pH8LTQkEut576Pwe5OqMkYNWYlFykNAxzcfJshZ5aH7ggDl/op2A7oYfQnIXo4pkCUN;9qP+ilqkun4APjuAXOUzAQ=="
+secured: "PCSQVMULSnod7QfjRDMODNf/ZjU2nNG3ha7C2TPC2fDwmDXzQ0PtatmkiMEPTQM4GLjIkcP+MES7Z9gtTOWC9S8fxnwFahKS5iucKozdSxENK32SqgYXRtN31/+Y8PZ6quxA+ImNOgLbKLlYr8JSggBMkJCgLW5d8b5gAkj9I2Og35tcB8Px0/FRRofzWLWrEQdgepht+1bFU7+ykRkzzmp/5A5ftDlu+caWxgGTWutIJbtf/hllcAIuG5Jvjy+UYxXlyV68vcwRpVEjFV2HHaLnH/jy4dEUNLNcgS1OfmbKaAt2yCpR8rUECl8fQ512;wosCm2OT7tS2cEnW1l9Bww=="
 ---
 

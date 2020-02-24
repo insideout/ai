@@ -31,15 +31,6 @@ related:
       - url: "https://www.geeky-gadgets.com/wp-content/uploads/2020/02/Raspberry-Pi-outdoor-camera.jpg"
         width: 700
         height: 500
-  - title: "Autonomous Object Recognition for Robots"
-    excerpt: "Reliable object detection and recognition is a difficult task for robots to achieve and, therefore, still remains a challenge when real-world environments are considered. Curiosity, often seen in humans and its primates, drives learning activities."
-    publishedDateTime: 2020-02-07T00:00:00Z
-    webUrl: "https://www.ulster.ac.uk/doctoralcollege/find-a-phd/511643"
-    type: article
-    provider:
-      name: Ulster University
-      domain: ulster.ac.uk
-    quality: 19
 
 secured: "Bw95IcW345EW669uyTiQlis1mzNCuMUqvJfj4gFIaOypAc/9HOVSIA0+WdsJmHhEnY5tV56/3x2ImzkXPHrOBzSu+dSHl0ApNpZN07Iz7d6Ki9G9o6/0g/Zu2GigyCYrRsPNP6iAdQBtrCgl8h8dRojX315mzJ6dMKVbH6KSFJtBZVt6E6E5AsO8FzdZt9P57NsltiJ2X9frkBdPIPFfGWEmkipBFQfm+15aNzcN93WWkd5hDIW1yyTnXu6DBUEMc3cEVhM+PL/XmkWh2WqmW8ZVB0tatuLTRLvJa6xyq43PBBpM/863OeTmnGk2r76p;MAoZgYKzMlKFQt9dn10p4Q=="
 ---

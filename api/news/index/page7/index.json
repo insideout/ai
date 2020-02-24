@@ -2,88 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_posts/2020-02-20-mass-adoption-of-ai-in-financial-services-expected-within-two-years.md",
-      "title": "Mass Adoption Of AI In Financial Services Expected Within Two Years",
-      "excerpt": "A significant number of financial industry executives from 151 financial institutions in 33 countries recently reported that within the next two years they expect to become mass adopters of AI and expect AI to become an essential business driver across the financial industry.",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/20/mass-adoption-of-ai-in-financial-services-expected-within-two-years/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/20/mass-adoption-of-ai-in-financial-services-expected-within-two-years/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/02/20/mass-adoption-of-ai-in-financial-services-expected-within-two-years/amp/",
-      "publishedDateTime": "2020-02-20T11:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e4edaa7de40290007718aea%2F0x0.jpg",
-          "width": 1200,
-          "height": 582,
-          "title": "Mass Adoption Of AI In Financial Services Expected Within Two Years",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-20-met-polices-first-facial-recognition-cameras-spot-no-offenders-and-are-branded-a-failure.md",
-      "title": "Met Police's first facial recognition cameras spot NO offenders and are branded a failure",
-      "excerpt": "New police face recognition cameras have been branded a failure after spotting no suspects in hours of surveillance. The UK’s biggest force was accused of wasting taxpayer cash after the devices failed to find a single match despite scanning 4,600 ...",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.dailymail.co.uk/news/article-8026771/Met-Polices-facial-recognition-cameras-spot-NO-offenders-branded-failure.html",
-      "ampWebUrl": "https://www.dailymail.co.uk/news/article-8026771/amp/Met-Polices-facial-recognition-cameras-spot-NO-offenders-branded-failure.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-8026771/amp/Met-Polices-facial-recognition-cameras-spot-NO-offenders-branded-failure.html",
-      "publishedDateTime": "2020-02-20T14:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mail Online",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2020/02/20/22/24998426-0-image-a-11_1582237916016.jpg",
-          "width": 636,
-          "height": 382,
-          "title": "Met Police's first facial recognition cameras spot NO offenders and are branded a failure",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_posts/2020-02-20-only-a-better-understanding-of-ai-can-help-end-our-fear-of-robots.md",
       "title": "Only a better understanding of AI can help end our fear of robots",
       "excerpt": "AI is upending companies, industries, and humanity. There has been an ongoing polarising discussion among experts in both the academic and industrial circles when it comes to artificial intelligence (AI), and the impact of its adoption on our continued existence. One side envisions multiple benefits over its widespread adoption; while the other ...",
@@ -978,7 +896,7 @@
       "path": "_posts/2020-02-21-defeated-chess-champ-garry-kasparov-has-made-peace-with-ai.md",
       "title": "Defeated Chess Champ Garry Kasparov Has Made Peace With AI",
       "excerpt": "Most remarkably, AlphaZero uncovered new approaches to the game that dazzled chess experts. Last week, Kasparov returned to the scene of his famous Deep Blue defeat—the ballroom of a New York hotel—for a debate with AI experts organized by the Association for the Advancement of Artificial Intelligence. He met with WIRED senior writer Will ...",
-      "heat": 91,
+      "heat": 101,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.wired.com/story/defeated-chess-champ-garry-kasparov-made-peace-ai/",
@@ -2140,6 +2058,96 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-23-this-technique-uses-ai-to-fool-other-ais.md",
+      "title": "This Technique Uses AI to Fool Other AIs",
+      "excerpt": "Research shows how AI programs that parse and analyze text can be confused and deceived by carefully crafted phrases. A sentence that seems straightforward to you or me may have a strange ability to deceive an AI algorithm. Jin and colleagues devised an algorithm called TextFooler capable of deceiving an AI system without changing the meaning ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/technique-uses-ai-fool-other-ais/",
+      "ampWebUrl": "https://www.wired.com/story/technique-uses-ai-fool-other-ais/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/technique-uses-ai-fool-other-ais/amp",
+      "publishedDateTime": "2020-02-23T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5e509f9235982c0009f6eb56/master/pass/5e509f7e6b2364000910b4d9_business-deceptive_ai_text-1140942135_autoxauto_00001.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": "This Technique Uses AI to Fool Other AIs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-24-5-reasons-to-choose-pytorch-for-deep-learning.md",
+      "title": "5 reasons to choose PyTorch for deep learning",
+      "excerpt": "But why should you choose to use PyTorch instead of other frameworks like MXNet, Chainer, or TensorFlow? Let’s look into five reasons that add up to a strong case for PyTorch. Before we get started, a plea to TensorFlow users who are already typing furious tweets and emails even before I begin: Yes, there are also plenty of reasons to choose ...",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.infoworld.com/article/3528780/5-reasons-to-choose-pytorch-for-deep-learning.html",
+      "ampWebUrl": "https://www.infoworld.com/article/3528780/5-reasons-to-choose-pytorch-for-deep-learning.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3528780/5-reasons-to-choose-pytorch-for-deep-learning.amp.html",
+      "publishedDateTime": "2020-02-24T08:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/02/number-5-on-fire_top-five_five-tips-100750848-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "5 reasons to choose PyTorch for deep learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI",
+        "Machine Learning"
       ]
     }
   ],

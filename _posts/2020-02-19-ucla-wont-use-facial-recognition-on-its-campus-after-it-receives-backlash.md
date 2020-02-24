@@ -356,6 +356,19 @@ related:
       - url: "https://www.campussafetymagazine.com/wp-content/uploads/2020/02/facial-recognition-2.jpg"
         width: 1000
         height: 500
+  - title: "Coronavirus: China uses facial recognition and infrared scanners"
+    excerpt: "Zhengzhou is the first city in China to have set up facial recognition gates at all of its underground stations. Now, these cameras are being used alongside infrared temperature scanners to help contain the spread of the new coronavirus. The hi-tech cameras allow authorities to track and access a citizen's travel history. There are now an ..."
+    publishedDateTime: 2020-02-24T17:03:00Z
+    webUrl: "https://www.aljazeera.com/programmes/newsfeed/2020/02/coronavirus-china-facial-recognition-infrared-scanners-200224092119453.html"
+    type: article
+    provider:
+      name: Al Jazeera English
+      domain: aljazeera.com
+    quality: 39
+    images:
+      - url: "https://www.aljazeera.com/mritems/Images/2020/2/24/b1302d9786814603a2836c634f962dbf_18.jpg"
+        width: 999
+        height: 562
   - title: "Chinese city rolls out facial-recognition thermometers on buses to combat coronavirus"
     excerpt: "Buses in a Chinese city have been equipped with thermometers that use facial recognition to scan passengers in efforts to more quickly detect symptoms of the coronavirus, according to local reports. The smart thermometers can measure commuters’ temperatures in as fast as a second and alert the driver if an anomaly is detected, the Guangzhou ..."
     publishedDateTime: 2020-02-19T14:33:00Z

@@ -27,6 +27,6 @@ images:
     height: 423
     title: "From Wind Farms to AI Robot Swarms — Problematizing AI Thinking"
 
-secured: "DwP+w9g7xmX+x/PtAIYKLCVoRJUMaF7BmLHpTrea1HlKib+uGyIgfVedI6ZX2EqfoBqbjEMjs0wGkLSLxRNMx0CvrVOXZc5ArhPLUnlldzGYmXn5D7iv2rz3UvDUT6Jx+i4WQlVDpkGxaxvwBGmhpRhQ3EuIerv9lwbb1rJZfrGF5Zp0AbWRrS0ucl66T99crlSaO3ViRG9naI+qfKeYzt4UpJt9rVwd0G8ZnT93khFDSqwwO1Jg7o8fKBpnNM6ythTB3lKMBwjZGugTlvF5vAmWk+L3TA0lAm1+12qFKiFSGn+2ZmLhD5/FHBJkIUHO;UBMPtn6gjt4Vo2X3TZf6Tg=="
+secured: "jjoX+Iw8vCw8AnytVAkzzxEsqgFU/fIhtST6xU0OZnwHGiKNv8xIewRpRXHZe0YA3PnMhtfyLhedhi027HZYe1kxFX8SRFegDbFKajvyL4SXEV3rWoB3uXoGSHVF84Jr8riP36GpG3dcoqvsvf113mPMGhIv1c6AtNKUU2AZjdw30N2S8ONGRE90XLmzjFq3FW2BPl+mPnwYO9qfcYOKSqPSUAVizDs/R9VUMZCy1t7K9HkKZlAykWy7dUM3NEj1z5wFQzaPY7tmjwpC1sE08GYwCoIyCNbXHM17knfVgAvaqKeQ9GL6hPbK4ctFzE1V;MotO/D5q4KwAcP6JfZVHag=="
 ---
 

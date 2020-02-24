@@ -40,18 +40,20 @@ related:
         width: 1280
         height: 640
   - title: "Cressida Dick: Facial recognition critics should face up to victims of crime"
-    excerpt: "The head of the Metropolitan Police told a conference the only people who benefit from not using such technology are criminals. Privacy concerns over live facial recognition are ‘much smaller’ than the need to protect the public from ‘a knife through the chest’, Britain’s most senior police officer has said. Metropolitan Police ..."
-    publishedDateTime: 2020-02-24T16:48:00Z
-    webUrl: "https://www.shropshirestar.com/news/uk-news/2020/02/24/cressida-dick-facial-recognition-critics-should-face-up-to-victims-of-crime/"
+    excerpt: "Privacy concerns over live facial recognition are ‘much smaller’ than the need to protect the public from ‘a knife through the chest’, Britain’s most senior police officer has said. Metropolitan Police Commissioner Dame Cressida Dick told a conference in Whitehall that critics of the use of such technology would need to justify to ..."
+    publishedDateTime: 2020-02-24T17:36:00Z
+    webUrl: "https://www.belfasttelegraph.co.uk/news/uk/cressida-dick-facial-recognition-critics-should-face-up-to-victims-of-crime-38984989.html"
+    ampWebUrl: "https://amp.belfasttelegraph.co.uk/news/uk/cressida-dick-facial-recognition-critics-should-face-up-to-victims-of-crime-38984989.html"
+    cdnAmpWebUrl: "https://amp-belfasttelegraph-co-uk.cdn.ampproject.org/c/s/amp.belfasttelegraph.co.uk/news/uk/cressida-dick-facial-recognition-critics-should-face-up-to-victims-of-crime-38984989.html"
     type: article
     provider:
-      name: Shropshire Star
-      domain: shropshirestar.com
-    quality: 36
+      name: Belfast Telegraph Digital
+      domain: belfasttelegraph.co.uk
+    quality: 56
     images:
-      - url: "https://www.shropshirestar.com/resizer/j77f7duFobVJD8TELfKIQfmOi1I=/1200x0/filters:quality(100)/arc-anglerfish-arc2-prod-shropshirestar-mna.s3.amazonaws.com/public/IJLZIDHMI5FMBAFR4OQM7GPIQA.jpg"
-        width: 1200
-        height: 900
+      - url: "https://www.belfasttelegraph.co.uk/news/uk/20e5a/38984986.ece/alternates/w700/bpanews_036c0fc6-e90b-4b02-8fd6-310400dc250d_1"
+        width: 700
+        height: 435
   - title: "Chief says police will not use face recognition until technology has been fully reviewed"
     excerpt: "WATERLOO REGION — Controversial facial recognition technology is not being used by local police and won't be until it is fully reviewed, said the police chief. Waterloo Regional Police Chief Bryan Larkin said he will be issuing an internal memo telling all officers that they are not to use face recognition apps in their investigations."
     publishedDateTime: 2020-02-20T04:31:00Z

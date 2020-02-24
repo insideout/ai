@@ -24,15 +24,6 @@ images:
     title: "Raspberry Pi outdoor camera with object recognition"
 
 related:
-  - title: "Autonomous Object Recognition for Robots"
-    excerpt: "Reliable object detection and recognition is a difficult task for robots to achieve and, therefore, still remains a challenge when real-world environments are considered. Curiosity, often seen in humans and its primates, drives learning activities."
-    publishedDateTime: 2020-02-07T00:00:00Z
-    webUrl: "https://www.ulster.ac.uk/doctoralcollege/find-a-phd/511643"
-    type: article
-    provider:
-      name: Ulster University
-      domain: ulster.ac.uk
-    quality: 19
   - title: "Soft Error Resilience of Deep Residual Networks for Object Recognition"
     excerpt: "Abstract: Convolutional Neural Networks (CNNs) have truly gained attention in object recognition and object classification in particular. When being implemented on Graphics Processing Units (GPUs), deeper networks are more accurate than shallow ones. Residual Networks (ResNets) are one of the deepest CNN architectures used in various fields ..."
     publishedDateTime: 2020-02-13T06:31:00Z
@@ -43,6 +34,6 @@ related:
       domain: ieee.org
     quality: 19
 
-secured: "vjz77VTNI24mGcZcrNUL9h6RldypWFzTElDHf5YRiLK9JL68wmF8Fy08ztUtwxKfw+fOdq6G8LNwj8v/ya/zQS8pt1dTUyjHDluBd/fOevQwBTLVxhLhvbKd+Qjff/RvoVukD5I/exi3MpnnR0PftvC0tjVzllrsrzdnWzIrlAWJ3HVi7s+nMFG2NPBisAVCWWUSKr9ZCkB28q+VQGK4vx3ukn9vm30Z4jF5ikzo7WorNj6bHTOicRetYUecA5kA+TW37P7CkrRbgJZSHaLnuMZpnMn/199Y/tu5S5x9KK11QjTN0udQqDofhQcvUm5g;TQNPAp3VSLts+H6ZYo2R3Q=="
+secured: "jm3GY4Zq7OmG71B/ni9Z52K/BvIkiWTCqT/2+NACUmttmUQsPczZI9big1QFzYU4ZzpRgu9r004LW0BOPloychKUl/A9OOau9bf3bY+ICW+eFW8n+zqexzNhTfHviKWJhXvmh6P5bszKadxWzi5bYrNqx0dyYhI+05zxpQ3oIFYr6Oa+8nuSEWR7iuN4xjqktCYpRybG+4uQBTMVq5dDD4O8qoFn61MIb24sTzbv/i8XBWJJXUhKsQXYk4zUXpMXdaWUaH3k/lThk4PxtoGSOHzOF2UH8wsgrMsNB/5t5kGfzl1xcnhMMrEwCxHglPCc;JOPPZwmYY+u9Cqkhb9Vksw=="
 ---
 
