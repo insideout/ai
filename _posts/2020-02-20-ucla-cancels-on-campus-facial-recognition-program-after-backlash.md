@@ -341,6 +341,19 @@ related:
       - url: "https://apnews.com/images/ShareLogo2.png"
         width: 700
         height: 450
+  - title: "UCLA Drops Plan to Use Facial Recognition Technology on Campus"
+    excerpt: "A group ran over 400 pictures of UCLA athletes and staff through facial recognition software and found 58 were incorrectly matched with mugshot database photos. The University of California, Los Angeles (UCLA) has abandoned its plan to implement facial recognition technology into its campus surveillance systems. UCLA administrative vice ..."
+    publishedDateTime: 2020-02-22T11:18:00Z
+    webUrl: "https://www.campussafetymagazine.com/technology/ucla-facial-recognition-technology/"
+    type: article
+    provider:
+      name: Campus Safety Magazine
+      domain: campussafetymagazine.com
+    quality: 39
+    images:
+      - url: "https://www.campussafetymagazine.com/wp-content/uploads/2020/02/facial-recognition-2.jpg"
+        width: 1000
+        height: 500
   - title: "Chinese city rolls out facial-recognition thermometers on buses to combat coronavirus"
     excerpt: "Buses in a Chinese city have been equipped with thermometers that use facial recognition to scan passengers in efforts to more quickly detect symptoms of the coronavirus, according to local reports. The smart thermometers can measure commuters’ temperatures in as fast as a second and alert the driver if an anomaly is detected, the Guangzhou ..."
     publishedDateTime: 2020-02-19T14:33:00Z

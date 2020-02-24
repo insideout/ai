@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Because facial recognition makes students and faculty less safe, 40+ rights groups call on universities to ban technology"
-excerpt: "“Facial recognition technology isn’t safe,” reads the letter. “It’s biased and is more likely to misidentify students of color, which can result in traumatic interactions with law enforcement, loss of class time, disciplinary action, and potentially a criminal record… Facial recognition is invasive, enabling anyone with access to ..."
-publishedDateTime: 2020-02-13T19:29:00Z
-webUrl: "https://www.rawstory.com/2020/02/because-facial-recognition-makes-students-and-faculty-less-safe-40-rights-groups-call-on-universities-to-ban-technology/"
-ampWebUrl: "https://www.rawstory.com/2020/02/because-facial-recognition-makes-students-and-faculty-less-safe-40-rights-groups-call-on-universities-to-ban-technology/amp/"
-cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/02/because-facial-recognition-makes-students-and-faculty-less-safe-40-rights-groups-call-on-universities-to-ban-technology/amp/"
+title: "UCLA Drops Plan to Use Facial Recognition Technology on Campus"
+excerpt: "A group ran over 400 pictures of UCLA athletes and staff through facial recognition software and found 58 were incorrectly matched with mugshot database photos. The University of California, Los Angeles (UCLA) has abandoned its plan to implement facial recognition technology into its campus surveillance systems. UCLA administrative vice ..."
+publishedDateTime: 2020-02-22T11:18:00Z
+webUrl: "https://www.campussafetymagazine.com/technology/ucla-facial-recognition-technology/"
 type: article
-quality: 34
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: The Raw Story
-  domain: rawstory.com
+  name: Campus Safety Magazine
+  domain: campussafetymagazine.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: "https://www.rawstory.com/wp-content/uploads/2019/07/Facial-Recognition-Technology.jpg"
-    width: 625
-    height: 305
-    title: "Because facial recognition makes students and faculty less safe, 40+ rights groups call on universities to ban technology"
+  - url: "https://www.campussafetymagazine.com/wp-content/uploads/2020/02/facial-recognition-2.jpg"
+    width: 1000
+    height: 500
+    title: "UCLA Drops Plan to Use Facial Recognition Technology on Campus"
 
 related:
   - title: "UCLA Abandons Plans to Use Facial Recognition After Backlash"
@@ -356,19 +354,6 @@ related:
       - url: "https://s.hdnux.com/photos/01/10/54/66/19058071/3/rawImage.jpg"
         width: 940
         height: 627
-  - title: "UCLA Drops Plan to Use Facial Recognition Technology on Campus"
-    excerpt: "A group ran over 400 pictures of UCLA athletes and staff through facial recognition software and found 58 were incorrectly matched with mugshot database photos. The University of California, Los Angeles (UCLA) has abandoned its plan to implement facial recognition technology into its campus surveillance systems. UCLA administrative vice ..."
-    publishedDateTime: 2020-02-22T11:18:00Z
-    webUrl: "https://www.campussafetymagazine.com/technology/ucla-facial-recognition-technology/"
-    type: article
-    provider:
-      name: Campus Safety Magazine
-      domain: campussafetymagazine.com
-    quality: 39
-    images:
-      - url: "https://www.campussafetymagazine.com/wp-content/uploads/2020/02/facial-recognition-2.jpg"
-        width: 1000
-        height: 500
   - title: "Chinese city rolls out facial-recognition thermometers on buses to combat coronavirus"
     excerpt: "Buses in a Chinese city have been equipped with thermometers that use facial recognition to scan passengers in efforts to more quickly detect symptoms of the coronavirus, according to local reports. The smart thermometers can measure commuters’ temperatures in as fast as a second and alert the driver if an anomaly is detected, the Guangzhou ..."
     publishedDateTime: 2020-02-19T14:33:00Z
@@ -384,6 +369,21 @@ related:
       - url: "https://thenypost.files.wordpress.com/2020/02/chinese-city-rolls-out-facial-recognition-thermometers-on-buses.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+  - title: "Because facial recognition makes students and faculty less safe, 40+ rights groups call on universities to ban technology"
+    excerpt: "“Facial recognition technology isn’t safe,” reads the letter. “It’s biased and is more likely to misidentify students of color, which can result in traumatic interactions with law enforcement, loss of class time, disciplinary action, and potentially a criminal record… Facial recognition is invasive, enabling anyone with access to ..."
+    publishedDateTime: 2020-02-13T19:29:00Z
+    webUrl: "https://www.rawstory.com/2020/02/because-facial-recognition-makes-students-and-faculty-less-safe-40-rights-groups-call-on-universities-to-ban-technology/"
+    ampWebUrl: "https://www.rawstory.com/2020/02/because-facial-recognition-makes-students-and-faculty-less-safe-40-rights-groups-call-on-universities-to-ban-technology/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/02/because-facial-recognition-makes-students-and-faculty-less-safe-40-rights-groups-call-on-universities-to-ban-technology/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 34
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2019/07/Facial-Recognition-Technology.jpg"
+        width: 625
+        height: 305
   - title: "Privacy rights groups call for ‘day of action’ to ban facial recognition at all schools"
     excerpt: "Fight for the Future (FFTF) and Students for Sensible Drug Policy are organizing what they call a ‘National Day of Action to Ban Facial Recognition from College Campuses’ on March 2. FFTF and other groups have also called for and have actively been lobbying for a total federal ban on facial recognition technology, although there has been ..."
     publishedDateTime: 2020-02-19T18:13:00Z
@@ -407,6 +407,6 @@ related:
       domain: hindustantimes.com
     quality: 2
 
-secured: "1kw2nUC5Zfn8fh93XovXHAJQilm2hxmMewaZ8W5J35njaR5DD15oxSrFLihNx9pqTUUaDHW/MelpJFQFUefpdDwMi0XmEEVw4fssJILZX1RAGzr0CvR8SZgz/o/P0QwtIST6Pnud0B99IG8i/mqQBfd4JjqNqSQpuFMNzxMqER7iovicWgRpqrzP9GUP0j5wXX6yRzfuZlEW+J33YxcIVBN/ZBl/sdLRyGjwgrysz/1mANpyxh2s9ZWqmGi1pgV1IJqkxStnVJfWTLR8T8QVuGGscFeoYJhdOCVidz85kHQ4sM9lhnNf3Nlm3YuMiXyMMcxzObToTpa/8iX6FJ1r7TiNYgp/xn5VNrBw1pDFuvdoWD0cOmVg16OFHS6XDHObab+S86Vfu7lITzLiKB1IPpI9NX7/+5aK7LKkyzG062jWJu8acm1GH56otyN2tkpYrKDa/SEYMpg6s4TMxH3UcNLeLGO5wvzXK1SbroBFd0c=;5r/p+nl1wt1ZRoYsZBC8Kg=="
+secured: "HCXabiMeWHaIy4SYw8uLGQWit/D1POBzttDPL9kO8bwluqXk273CQBaGz2iUboiy5hDjnhqBszASnlF9e05nv/bmAD6j1I3JTQbMT6WaBX4dshB1pDPQED/vy0uFvZZ7/W42ZJcxoeJJyimxcpoQEUGMYuUg2Ehk3rKLEzL7WRhJAQuNTEUx5hzjCD6cxiXhsGWIhtyI+a5OC2qS7bwIxa9b4EUMVJp/4X/+5ZnkUgj45hCwdECqc1Q6aOyWTr4JlXX/4Q3cTEE5kwgRUYs9rXB7KZVDt4cWPTVYOJlGsi+4wJiH8fsJRLQHxQSWnoiS;Bfy+unGhEc0fCx+8eccSCA=="
 ---
 

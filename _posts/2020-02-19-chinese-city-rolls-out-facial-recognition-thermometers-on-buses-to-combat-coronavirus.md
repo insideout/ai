@@ -356,6 +356,19 @@ related:
       - url: "https://s.hdnux.com/photos/01/10/54/66/19058071/3/rawImage.jpg"
         width: 940
         height: 627
+  - title: "UCLA Drops Plan to Use Facial Recognition Technology on Campus"
+    excerpt: "A group ran over 400 pictures of UCLA athletes and staff through facial recognition software and found 58 were incorrectly matched with mugshot database photos. The University of California, Los Angeles (UCLA) has abandoned its plan to implement facial recognition technology into its campus surveillance systems. UCLA administrative vice ..."
+    publishedDateTime: 2020-02-22T11:18:00Z
+    webUrl: "https://www.campussafetymagazine.com/technology/ucla-facial-recognition-technology/"
+    type: article
+    provider:
+      name: Campus Safety Magazine
+      domain: campussafetymagazine.com
+    quality: 39
+    images:
+      - url: "https://www.campussafetymagazine.com/wp-content/uploads/2020/02/facial-recognition-2.jpg"
+        width: 1000
+        height: 500
   - title: "Because facial recognition makes students and faculty less safe, 40+ rights groups call on universities to ban technology"
     excerpt: "“Facial recognition technology isn’t safe,” reads the letter. “It’s biased and is more likely to misidentify students of color, which can result in traumatic interactions with law enforcement, loss of class time, disciplinary action, and potentially a criminal record… Facial recognition is invasive, enabling anyone with access to ..."
     publishedDateTime: 2020-02-13T19:29:00Z

@@ -23,6 +23,6 @@ images:
     height: 366
     title: "Who will win the war of chip supremacy in 2020? Buckle up!"
 
-secured: "ir+cUYG4KuD31egM9UiYAcK/Jp8ibVNmyL+v3zi+uTzTIm1d6eKxoPLHZe/DJvbRYZksNIgHEZZCYtbmxEEM+NKxnOQJAm3M7QBrFjqIo/ZXSM9MgghNm63tjwqqSD0PpZ9Hr/VS1TZVL5PKzKl1Bs9MOwGvnkghW7qbJAts1QPXRHJ0PWKx9jiwfXgFk3up9ZHislfnu1AwGZ2B5IyUtAVvNKILlX/PZO5CqfRg8vnOCKm/OOinloHo85ig8pS5PHbbxrrxB3nrCzBqU7dAFd8jvhkoTgELKQEJnDfJoMKWIWH50lghXiScwNJWJwnW;tLiOKMnJL+v+fzc43BKvTw=="
+secured: "FtIhIc2cvLteUUGktzpLCfJPbNS9XiLKGuqacN0zeskktQv91jmcmxMdHJcKsvFDlRzHgw1yxxh4IqxMh7eJKT8O9hxmPosZZXFsIEnAE/kg4hhkfXM6HGFfgFCgLDBdR0UDUDeMBdlETSVMl/1KdEs3dGaxQ3pF7uDuyI99QZhtALQgh+4KY4ZqJ2MJiH+ad4x9EYKcyKUEppxEQncmlalMYCaAW3EI+z2FZI/0bQgQKji2LvREomDXWOztRQF7Sdb5GuiKWEzUKUHY61AJ4UP2EvzM/f8Rcva95JFmgrfZRCROoGgBN+/nomYD+9H5iOje5XZxkCtTCoTBAcORCdxtfHqwmNmqPSVzaDizKTZubzCXFi9nkEVK1g1AHeKej8KFbh+gaBh2rod7fbwqSS8M/ux+SanO18+jxAFK3GM1ptpvHf5BVOGPk4gl03EhT/gvn88DhkU+DJ4UtFUgxeb1d5jGSpQ1BUAkPq/19XM=;SJdM9QwgUK6CujdgPStEQA=="
 ---
 

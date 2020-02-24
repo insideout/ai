@@ -116,6 +116,19 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2020/02/15/22/24785266-0-image-a-29_1581804047268.jpg"
         width: 636
         height: 382
+  - title: "Just the facts on artificial intelligence"
+    excerpt: "Here are a few notable AI wins. May 1997: IBM's Deep Blue computer defeats world chess champion Garry Kasparov after a six-game match. February 2011: IBM's Watson computer defeats champions Ken Jennings and Brad Rutter on \"Jeopardy!\" (below) March 2016: A program called AlphaGo, from Google unit DeepMind, defeats 18-time world champion Lee ..."
+    publishedDateTime: 2020-02-24T00:54:00Z
+    webUrl: "https://www.autonews.com/shift/just-facts-artificial-intelligence"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 41
+    images:
+      - url: "https://www.autonews.com/s3/files/styles/800x600/public/jepordy-MAIN_i.jpg"
+        width: 800
+        height: 600
   - title: "Edmonton police unveil details on use of facial recognition technology"
     excerpt: "City police revealed details on Wednesday for plans to implement facial recognition technology to match suspects from crime scenes with known offenders. Internal discussions began a couple of years ago to use the technology and have ramped up in the last couple of months, said Warren Driechel, superintendent of the Edmonton police informatics ..."
     publishedDateTime: 2020-02-20T01:16:00Z

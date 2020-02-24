@@ -114,6 +114,19 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2020/02/15/22/24785266-0-image-a-29_1581804047268.jpg"
         width: 636
         height: 382
+  - title: "Just the facts on artificial intelligence"
+    excerpt: "Here are a few notable AI wins. May 1997: IBM's Deep Blue computer defeats world chess champion Garry Kasparov after a six-game match. February 2011: IBM's Watson computer defeats champions Ken Jennings and Brad Rutter on \"Jeopardy!\" (below) March 2016: A program called AlphaGo, from Google unit DeepMind, defeats 18-time world champion Lee ..."
+    publishedDateTime: 2020-02-24T00:54:00Z
+    webUrl: "https://www.autonews.com/shift/just-facts-artificial-intelligence"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 41
+    images:
+      - url: "https://www.autonews.com/s3/files/styles/800x600/public/jepordy-MAIN_i.jpg"
+        width: 800
+        height: 600
   - title: "London's Metropolitan Police flip the switch: Smile, fellow citizens... you're undergoing Live Facial Recognition"
     excerpt: "Appy days? Microsoft's Word, Excel and PowerPoint now live under one roof on mobile – but look out for Office 365 popups The Metropolitan Police are using live facial recognition (LFR) in various locations in central London today after spending two years testing the technology. Most recently spotted at Oxford Circus, the vans are equipped ..."
     publishedDateTime: 2020-02-20T16:53:00Z

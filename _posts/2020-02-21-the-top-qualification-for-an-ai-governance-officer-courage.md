@@ -5,8 +5,8 @@ excerpt: "Artificial intelligence is starting to permeate corporate America. Com
 publishedDateTime: 2020-02-21T13:55:00Z
 webUrl: "https://www.fastcompany.com/90465134/the-top-qualification-for-an-ai-governance-officer-courage?partner=feedburner"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 images:
   - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/02/p-1-banking-AI.jpg"
