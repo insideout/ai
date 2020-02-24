@@ -112,21 +112,6 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 54
-  - title: "House panel to a hold hearing on the future of self-driving cars"
-    excerpt: "WASHINGTON — A U.S. House panel will hold a hearing Tuesday on autonomous vehicles as lawmakers try to hammer out legislation to advance self-driving cars. An Energy and Commerce subcommittee overseeing automotive issues will hear from officials of trade groups representing automakers and tech companies, as well as safety advocates and a San ..."
-    publishedDateTime: 2020-02-09T18:48:00Z
-    webUrl: "https://www.autoblog.com/2020/02/09/house-hearing-self-driving-cars/"
-    ampWebUrl: "https://www.autoblog.com/amp/2020/02/09/house-hearing-self-driving-cars/"
-    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2020/02/09/house-hearing-self-driving-cars/"
-    type: article
-    provider:
-      name: Autoblog
-      domain: autoblog.com
-    quality: 44
-    images:
-      - url: "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/800x450/format/jpg/quality/85/https://s.aolcdn.com/os/ab/_cms/2019/12/26125219/Cadillac-CT6-SuperCruiseEngaged.jpg"
-        width: 800
-        height: 450
   - title: "How lidar makers are coping with slow progress of self-driving tech"
     excerpt: "Experts and industry insiders not named Elon Musk see it as a key technology for self-driving cars. There are dozens of companies developing lidar technology, and each insists that its sensor is a cut above the rest. But while every lidar is above-average in the halls of CES, things are starting to look different in the real world. At least one ..."
     publishedDateTime: 2020-02-11T11:45:00Z

@@ -44,6 +44,17 @@ related:
       - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/133/2020/02/Panel-Discusion_LR.jpg"
         width: 1400
         height: 933
+  - title: "Satya Nadella talks cloud, AI, data, and cyber security at Future Decoded event"
+    excerpt: "Nadella urged the companies to build their own tech capabilities which could be the most defining thing in the next decade."
+    publishedDateTime: 2020-02-24T07:40:00Z
+    webUrl: "https://www.hindustantimes.com/tech/satya-nadella-talks-cloud-ai-data-and-cyber-security-at-future-decoded-event/story-xTOoVJc2x1vcddbwHYSIlL.html"
+    ampWebUrl: "https://m.hindustantimes.com/tech/satya-nadella-talks-cloud-ai-data-and-cyber-security-at-future-decoded-event/story-xTOoVJc2x1vcddbwHYSIlL_amp.html"
+    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/satya-nadella-talks-cloud-ai-data-and-cyber-security-at-future-decoded-event/story-xTOoVJc2x1vcddbwHYSIlL_amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 35
 
 secured: "HN/rtRchDBIBLwVMdFO3LJSnCou+CopTJ/XWexuUAmi+KL5vCPBAoAqXt6TpsdmacAu9UufMWZz0frTx8iV+OKdrK7lkOK+rjhmArQgokpquapkc/2MkSYnMNS0sv8LPjDLJMaC6OubR3cfLmA4+XGjp7aldIi9vxmK8CuTrJ96HaTjJ6p6zcBQ/mrG/fg87ILMU71QBWnMs8Rt+IqxV3juTo0mk5BcybFe7zQnxJAvt0ECrn9bF7Yr1l+iKuNRKVvn9vjEdppgG+iAbjE8E6NbHHnDx55LZKhw+s253/yP7VlnYELa9C7PK2KktTajq;deS3AvNVNiCeCHPDIBz1tA=="
 ---

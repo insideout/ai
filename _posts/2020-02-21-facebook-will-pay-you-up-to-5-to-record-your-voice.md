@@ -435,6 +435,19 @@ related:
       - url: "https://images.khaleejtimes.com/storyimage/KT/20200221/ARTICLE/200229877/AR/0/Facebook,-voice-recognition,-social-media.jpg&NCS_modified=20200221083954&exif=.jpg"
         width: 790
         height: 517
+  - title: "Facebook Will Pay You $5 To Record Your Voice"
+    excerpt: "... improve its voice recognition tools. All you have to do is record a phrase; followed by the first name of a Facebook friend. You do that multiple times. In total, the task takes around five minutes. It doesn’t pay much though; you get up to $5.00 sent to your Paypal. Look for the Facebook survey on a market research app called Viewpoints."
+    publishedDateTime: 2020-02-24T11:23:00Z
+    webUrl: "https://www.wltz.com/2020/02/24/facebook-will-pay-you-5-to-record-your-voice/"
+    type: article
+    provider:
+      name: WLTZ
+      domain: wltz.com
+    quality: 24
+    images:
+      - url: "https://wpcdn.us-midwest-1.vip.tn-cloud.net/www.wltz.com/content/uploads/2020/02/Screen-Shot-2020-02-21-at-5.55.00-PM.png"
+        width: 437
+        height: 229
   - title: "Now Facebook wants to pay you for your voice recordings – how much can you get?"
     excerpt: "As a part of Facebook Viewpoints, a new program called Pronunciations will let users submit audio recordings to Facebook. The company says it wants these recordings to help improve its speech recognition AI. Each participant will need to say, “Hey Portal,” followed by a friend’s name twice, then repeat the process nine more times with dif ..."
     publishedDateTime: 2020-02-22T03:46:00Z

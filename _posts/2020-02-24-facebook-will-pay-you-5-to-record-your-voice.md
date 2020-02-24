@@ -1,33 +1,27 @@
 ---
 category: news
-title: "Facebook will pay users for submitting their voice recordings"
-excerpt: "It’s a way to improve speech recognition systems, but many customers were angry at not being informed. Qualifying users will have to record the phrase “Hey Portal,” followed by the first name of a friend from their friends list. They’ll be able to repeat this with the names of up to ten friends, and they have to record each statement ..."
-publishedDateTime: 2020-02-21T12:58:00Z
-webUrl: "https://www.techspot.com/news/84112-facebook-pay-users-submitting-their-voice-recordings.html"
-ampWebUrl: "https://www.techspot.com/amp/news/84112-facebook-pay-users-submitting-their-voice-recordings.html"
-cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/84112-facebook-pay-users-submitting-their-voice-recordings.html"
+title: "Facebook Will Pay You $5 To Record Your Voice"
+excerpt: "... improve its voice recognition tools. All you have to do is record a phrase; followed by the first name of a Facebook friend. You do that multiple times. In total, the task takes around five minutes. It doesn’t pay much though; you get up to $5.00 sent to your Paypal. Look for the Facebook survey on a market research app called Viewpoints."
+publishedDateTime: 2020-02-24T11:23:00Z
+webUrl: "https://www.wltz.com/2020/02/24/facebook-will-pay-you-5-to-record-your-voice/"
 type: article
-quality: 74
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: TechSpot
-  domain: techspot.com
-  images:
-    - url: "/assets/images/organizations/techspot.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WLTZ
+  domain: wltz.com
 
 topics:
   - AI
   - Natural Language Processing
 
 images:
-  - url: "https://static.techspot.com/images2/news/ts3_thumbs/2020/02/2020-02-21-ts3_thumbs-1fe.jpg"
-    width: 800
-    height: 560
-    title: "Facebook will pay users for submitting their voice recordings"
+  - url: "https://wpcdn.us-midwest-1.vip.tn-cloud.net/www.wltz.com/content/uploads/2020/02/Screen-Shot-2020-02-21-at-5.55.00-PM.png"
+    width: 437
+    height: 229
+    title: "Facebook Will Pay You $5 To Record Your Voice"
 
 related:
   - title: "Facebook will now pay you for your voice recordings"
@@ -75,6 +69,21 @@ related:
       - url: "https://sm.mashable.com/t/mashable_in/image/u/us-politic/us-politicians-can-now-pay-for-sponsored-content-on-facebook_ndjn.620.png"
         width: 620
         height: 348
+  - title: "Facebook will pay users for submitting their voice recordings"
+    excerpt: "It’s a way to improve speech recognition systems, but many customers were angry at not being informed. Qualifying users will have to record the phrase “Hey Portal,” followed by the first name of a friend from their friends list. They’ll be able to repeat this with the names of up to ten friends, and they have to record each statement ..."
+    publishedDateTime: 2020-02-21T12:58:00Z
+    webUrl: "https://www.techspot.com/news/84112-facebook-pay-users-submitting-their-voice-recordings.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/84112-facebook-pay-users-submitting-their-voice-recordings.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/84112-facebook-pay-users-submitting-their-voice-recordings.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 74
+    images:
+      - url: "https://static.techspot.com/images2/news/ts3_thumbs/2020/02/2020-02-21-ts3_thumbs-1fe.jpg"
+        width: 800
+        height: 560
   - title: "Facebook users to get paid for voice recordings; company wants to improve speech recognition"
     excerpt: "In an attempt to improve its voice recognition technology, social media giant Facebook could pay users who agree to record their voice. The move comes after reports suggested that the company — along with Apple, Google, Microsoft, and Amazon — was caught listening to and transcribing voice recordings to improve its speech recognition ..."
     publishedDateTime: 2020-02-21T13:38:00Z
@@ -439,19 +448,6 @@ related:
       - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.channel3000.com/content/uploads/2020/01/5dfb591dd3167.image_.jpg"
         width: 1763
         height: 1175
-  - title: "Facebook Will Pay You $5 To Record Your Voice"
-    excerpt: "... improve its voice recognition tools. All you have to do is record a phrase; followed by the first name of a Facebook friend. You do that multiple times. In total, the task takes around five minutes. It doesn’t pay much though; you get up to $5.00 sent to your Paypal. Look for the Facebook survey on a market research app called Viewpoints."
-    publishedDateTime: 2020-02-24T11:23:00Z
-    webUrl: "https://www.wltz.com/2020/02/24/facebook-will-pay-you-5-to-record-your-voice/"
-    type: article
-    provider:
-      name: WLTZ
-      domain: wltz.com
-    quality: 24
-    images:
-      - url: "https://wpcdn.us-midwest-1.vip.tn-cloud.net/www.wltz.com/content/uploads/2020/02/Screen-Shot-2020-02-21-at-5.55.00-PM.png"
-        width: 437
-        height: 229
   - title: "Now Facebook wants to pay you for your voice recordings – how much can you get?"
     excerpt: "As a part of Facebook Viewpoints, a new program called Pronunciations will let users submit audio recordings to Facebook. The company says it wants these recordings to help improve its speech recognition AI. Each participant will need to say, “Hey Portal,” followed by a friend’s name twice, then repeat the process nine more times with dif ..."
     publishedDateTime: 2020-02-22T03:46:00Z
@@ -493,6 +489,6 @@ related:
       domain: knowtechie.com
     quality: 0
 
-secured: "bHHNg7SHBIZNGSOJQoBdyZ7ZwUZvoKytiD56HAae+Z0Wy0WPz+3allo/k2FBeDVURn1rT8aoeJDhKPAjOihafY93ZRbAJBlEZ/EteSEwKWZoo1PnHBBtk3KxKU5wyZVD2YvuO8ZHA+18MRNfwhpZE6j8j3L2Pomo/dlTIVP9MCjPg7todzHYYUsy09ZCbw8h3o8iwoHpbaH8gfJ5iKc8MARa10KT5inxtYbv9SKcsIwUjTAqu8Mrr5wVzfk1JqNAt6uWpUQOxu8OGuZ62RLiwVikkyKhkMMwfnOXZetks7H7EWKE1qoKijZmym0l6HwCUPFC0ut50iuYgukoA6iJQ7XJy5i25CY72/WcjwjE0Bq+CGl5jCCxHHVV1Nlm/Z4oVNjeTZgMtBVvoCGXSOkVfskJDC6I9Oh4EizQU73eQ9RZwfZX3vnzXF+2jRphH/Rh78hzCITgxoGgwAv1EOc3rI2hlsh5cF4lioQDDwvIaEQ=;8T87XOWTxCocoIypi73C3g=="
+secured: "Q1/yrWE19OS4FawtbHI/GGjNRAw7CSvKpFVbsNIAFTfyAoeGIKG0S/vQC0JqziJBhNuCgL9dCnqy4+omxvvsfA60WMs+kShXOkO+ZU5cVowtM3Kxg/XaPa3uFq45EOuGh+TGYBnQ9M9OHVAI5L62mQlGwL19AbbrWks6OiEYEBH/MQ9TVrgf1CBawvZsGzARdvED7L+5Buj+4/Vx5+d0wfhanvNF33nx2JcLuma5Oqc5A9SiIF2W2+xq2SOOjrFyuMaNiSUJ3YmWdfjuc9FNHyzyhu2dBrq2ejDTPoziWjp+zG3CXY+zxelxMFyPh3Nd;K28oyXNnaIOxkJMqSDO8Zw=="
 ---
 

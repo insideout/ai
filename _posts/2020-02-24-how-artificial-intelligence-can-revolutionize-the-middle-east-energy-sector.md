@@ -24,6 +24,6 @@ images:
     height: 878
     title: "How artificial intelligence can revolutionize the Middle East energy sector"
 
-secured: "g3+kibgSg/jA3rkxCD7wDiOUw2+4NtFhmtpXr4ezXqIO6cgxekBV/NwcB70fHzzhYtgKpe3jaZLDfPNIuP3e4G8/p4IhPktbLUJtjAZQCgObEJGyVywwsgw0Q2HxFShU9H/+aRF6N3T7QodT3JVeABgNQLq1I/PPWn1FUZXzUcKYO2lIlHKvx5MD7sH/ITYgHL4w9g1jkC5hblOcll9BqKAtyP28q995V5Zng+DLOGwCcn0g0mbEzkQtOy6Ffry3+H3vVnTCbUcK1ZC/WfUKhxx/b8XD8duvTy3Rv5e+X1A8yY/gorAeTopXtxK77odV;WD64dUFf2yZ+sjulQmcTtg=="
+secured: "AgtxQgtYv+KNcJj+BKkfxUNoq/X50lkGnM+6JYNOwuWlMnnNZEAVD63JDda+PhgJ3T3TIaWbkq7IxzJNe88zOxXAhaWuqW1EyVkRQONJkK24aTj+R7MszzWbhyPVYSxyT2J1TxOcHJK1LOgi+9Q/VMw5XXcIPH21K6oBSIzuLAaXdC/cMkMUQsNSwNo8zoymg5umhGut24MRP4nnbp4bbGdaA0brmLUAymfGLET+RsodIO55yGgB1/mD+xnReESa0yrUpY7jOkVvl3hgNVh6bj+5q1Bs7UB9KbrTeqlTqLb8vxtxTQLKqsfJrL/jzD1fgqiJrBbXfgqQhxSq5d+vi6LhOJ5hWoI5A4zleMw+4hyWlDY5mMt8fPTXzRs5VsHiiAtvPtqn56g+Chz6VuaTznD6Zj3J0CPls8JN+2SkK9qsdNuIoQ4LRgHnQ9akzWGuq6RuXqlsrZ6CunEZMJGHSeNQEF7VlmjKrXUBTbrJ5Jw=;tV3iQFhs0KbIkNVXkr+5gg=="
 ---
 

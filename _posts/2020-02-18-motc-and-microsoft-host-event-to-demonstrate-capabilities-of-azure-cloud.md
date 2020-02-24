@@ -41,6 +41,17 @@ related:
       - url: "https://thepeninsulaqatar.com/uploads/2020/02/18/post_main_cover/46fd2d3449a2330392fe130d6ed07e07d69d5f84.jpg"
         width: 532
         height: 355
+  - title: "Satya Nadella talks cloud, AI, data, and cyber security at Future Decoded event"
+    excerpt: "Nadella urged the companies to build their own tech capabilities which could be the most defining thing in the next decade."
+    publishedDateTime: 2020-02-24T07:40:00Z
+    webUrl: "https://www.hindustantimes.com/tech/satya-nadella-talks-cloud-ai-data-and-cyber-security-at-future-decoded-event/story-xTOoVJc2x1vcddbwHYSIlL.html"
+    ampWebUrl: "https://m.hindustantimes.com/tech/satya-nadella-talks-cloud-ai-data-and-cyber-security-at-future-decoded-event/story-xTOoVJc2x1vcddbwHYSIlL_amp.html"
+    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/satya-nadella-talks-cloud-ai-data-and-cyber-security-at-future-decoded-event/story-xTOoVJc2x1vcddbwHYSIlL_amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 35
   - title: "Attivo Networks Announces Integration with Microsoft Azure Security Center for IoT"
     excerpt: "The Azure IoT Edge is a fully managed service built on Azure IoT Hub ... and data deceptions designed to misdirect and reveal attacks efficiently from all threat vectors. Advanced machine-learning makes preparation, deployment, and operations fast and simple to operate for organizations of all sizes. Comprehensive attack analysis and forensics ..."
     publishedDateTime: 2020-02-20T17:30:00Z

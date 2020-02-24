@@ -444,6 +444,19 @@ related:
       - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.channel3000.com/content/uploads/2020/01/5dfb591dd3167.image_.jpg"
         width: 1763
         height: 1175
+  - title: "Facebook Will Pay You $5 To Record Your Voice"
+    excerpt: "... improve its voice recognition tools. All you have to do is record a phrase; followed by the first name of a Facebook friend. You do that multiple times. In total, the task takes around five minutes. It doesn’t pay much though; you get up to $5.00 sent to your Paypal. Look for the Facebook survey on a market research app called Viewpoints."
+    publishedDateTime: 2020-02-24T11:23:00Z
+    webUrl: "https://www.wltz.com/2020/02/24/facebook-will-pay-you-5-to-record-your-voice/"
+    type: article
+    provider:
+      name: WLTZ
+      domain: wltz.com
+    quality: 24
+    images:
+      - url: "https://wpcdn.us-midwest-1.vip.tn-cloud.net/www.wltz.com/content/uploads/2020/02/Screen-Shot-2020-02-21-at-5.55.00-PM.png"
+        width: 437
+        height: 229
   - title: "FB to pay users for recording to improve speech recognition"
     excerpt: "... has announced it will pay select users who agree to record their voice to improve its speech recognition technology. According to The Verge, the social networking giant he company will pay ..."
     publishedDateTime: 2020-02-21T12:12:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-17T21:10:00Z
 webUrl: "https://thepeninsulaqatar.com/article/18/02/2020/MoTC-and-Microsoft-host-event-on-Microsoft-Azure-Cloud"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -37,6 +37,17 @@ related:
       - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/133/2020/02/Panel-Discusion_LR.jpg"
         width: 1400
         height: 933
+  - title: "Satya Nadella talks cloud, AI, data, and cyber security at Future Decoded event"
+    excerpt: "Nadella urged the companies to build their own tech capabilities which could be the most defining thing in the next decade."
+    publishedDateTime: 2020-02-24T07:40:00Z
+    webUrl: "https://www.hindustantimes.com/tech/satya-nadella-talks-cloud-ai-data-and-cyber-security-at-future-decoded-event/story-xTOoVJc2x1vcddbwHYSIlL.html"
+    ampWebUrl: "https://m.hindustantimes.com/tech/satya-nadella-talks-cloud-ai-data-and-cyber-security-at-future-decoded-event/story-xTOoVJc2x1vcddbwHYSIlL_amp.html"
+    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/satya-nadella-talks-cloud-ai-data-and-cyber-security-at-future-decoded-event/story-xTOoVJc2x1vcddbwHYSIlL_amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 35
   - title: "Attivo Networks Announces Integration with Microsoft Azure Security Center for IoT"
     excerpt: "The Azure IoT Edge is a fully managed service built on Azure IoT Hub ... and data deceptions designed to misdirect and reveal attacks efficiently from all threat vectors. Advanced machine-learning makes preparation, deployment, and operations fast and simple to operate for organizations of all sizes. Comprehensive attack analysis and forensics ..."
     publishedDateTime: 2020-02-20T17:30:00Z

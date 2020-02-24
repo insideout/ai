@@ -24,6 +24,19 @@ images:
     title: "Danone, Microsoft for AI accelerator: ‘The success of the food revolution will depend on data’"
 
 related:
+  - title: "Dataland: The evolution of artificial intelligence and big data"
+    excerpt: "Dataland illustrates the different facets of big data and artificial intelligence being unleashed by the world's most prolific data scientists. The film goes to Dublin where artificial intelligence is becoming an increasing influence on community life; to Finland where citizens transmit their DNA to improve public health and predictive ..."
+    publishedDateTime: 2020-02-24T11:18:00Z
+    webUrl: "https://www.aljazeera.com/programmes/specialseries/2020/02/dataland-evolution-artificial-intelligence-big-data-200222121001577.html"
+    type: article
+    provider:
+      name: Al Jazeera English
+      domain: aljazeera.com
+    quality: 37
+    images:
+      - url: "https://www.aljazeera.com/mritems/Images/2020/2/24/e625f14e0c2b4a0e807ce19c3ab45406_18.jpg"
+        width: 999
+        height: 562
   - title: "Danone, Microsoft join forces for AI accelerator: ‘The success of the food revolution will depend on data’"
     excerpt: "The AI Factory for AgriFood is the third class of the Microsoft AI factory ... Microsoft will provide personalized support through its technological skills and the services of its Azure platform, as well as its sales network. Inria, the national research institute in digital sciences, France Digitale, FaberNovel, EIT Food and Seventure Partners ..."
     publishedDateTime: 2020-02-18T14:41:00Z
