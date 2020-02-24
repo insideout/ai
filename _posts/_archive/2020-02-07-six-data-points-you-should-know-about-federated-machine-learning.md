@@ -5,8 +5,8 @@ excerpt: "Download the authoritative guide: Leading Big Data Vendors: Solutions 
 publishedDateTime: 2020-02-07T18:38:00Z
 webUrl: "https://www.eweek.com/big-data-and-analytics/six-data-points-you-should-know-about-federated-machine-learning"
 type: article
-quality: 34
-heat: 34
+quality: 54
+heat: 64
 published: false
 
 provider:
@@ -21,6 +21,12 @@ topics:
   - AI
   - AI in Finance
 
+images:
+  - url: "https://www.eweek.com/imagesvr_ez/b2bezp/2019/05/eweek.logo.DataPoints-UPDATE_2.jpg?alias=social_image"
+    width: 560
+    height: 300
+    title: "Six Data Points You Should Know about Federated Machine Learning"
+
 related:
   - title: "Federated machine learning: The road to decentralised data collaboration"
     excerpt: "Big data projects and state-of-the-art data science models are using artificial intelligence (AI) and machine learning (ML) to drive innovation across financial services, healthcare, government and other sectors. Take the healthcare industry for example, which is expected to spend roughly $23 billion globally on big data analytics by 2023 ..."
@@ -32,6 +38,6 @@ related:
       domain: itproportal.com
     quality: 20
 
-secured: "62LLhAmL3zZy1SuyjM6XdUg11RmYsDHS+mcEw7nxHxwL4O6ofUb0kJ0bQW3srA9ALXImsvs97XlhohhondTt2mC7aZy6xa0yk8VsC8A5GaazsrXXFF0oaRs4AeAS2BOzFDHRxAubUC8RfYV6+cQHzbgfcv58JbUVos6O+Xgtzg7AhxeyD8DIPnBRRqmkgA/u9+McFhNlcLw5G8jURKBZBkPrs7JP3ay+N4QzyLi2/HjDtntYgGhmWd+eZHmn88nKsXW29+MvOwYpZMDVJo/dTAipsJY56C52Cea7dRKCv+i7k43/SDAggxTrteoBy7DyiiKoQRFPldYgqFmcXDN7Q8JMsc/cA19+PQZERrVmovwdlz+wjvkKoOiJk9gugFKP/kf9+a9crEDwZiI2zmtq3jMhJ8WottR1qm44pQ06mTpSO8yxJwYxFHbcgdVBRgZHzR9DLhrWfQpHScP6s0TB5Ay++cgggsQ5GLzkbMz0YZs=;O6H+U48Jy2iBY3XXn23BKQ=="
+secured: "KMsWCK7Gly47Do2C2bBBtvDLw6YrFljH22EAVfVFY+gIxz9hHMRflWY9mcGkkxvee5R7lx5rxaHvsIBOkIsBK7gNjsPyXadh21EJa2eXqEVoNUuFsYH+pLaJtIRe/FFrLUTloaX1IElXqDdH5UhYDOvkQLCdrdsa4gCLEA/IzgWF8ZH11NEJBd7+4UbfW/yEUFS+MUoI11w4F8nAfJNXibA+qWCFJaMSg76ddQL9RK5lNTfoJL2gxDXfbFRAKFd+YFjbXIRG/Iu93lLtGn0EBOhF/FqjY3lcUcm0H4ZPiBbLZ9seFxmhAo6zEplbHixn;sMGs1sBVNkJ17uvEopzgUg=="
 ---
 

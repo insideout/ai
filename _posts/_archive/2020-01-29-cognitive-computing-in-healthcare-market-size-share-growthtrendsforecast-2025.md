@@ -18,16 +18,33 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Cloud-Native Cognitive Computing How to Get Ready For The Next Frontier in AI"
-    excerpt: "which is of course why cognitive services are so closely linked to cloud-based environments. The leading providers in this field – Amazon AWS, Microsoft Azure, Google Cloud, and IBM Watson ..."
-    publishedDateTime: 2020-01-24T00:00:00Z
-    webUrl: "https://www.business2community.com/cloud-computing/cloud-native-cognitive-computing-how-to-get-ready-for-the-next-frontier-in-ai-02277792"
+  - title: "Image Recognition Market Insights By Size Growth, Industry Share, Leading Players and Regional Forecast by 2026"
+    excerpt: "The global image recognition market was worth USD 20.19 billion in 2018 and will exhibit a CAGR of 19.6% during the forecast period, till 2026 The global image recognition market size is projected to reach USD 81."
+    publishedDateTime: 2020-01-31T05:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-insights-by-size-growth-industry-share-leading-players-and-regional-forecast-by-2026-2020-01-31"
     type: article
     provider:
-      name: Business 2 Community
-      domain: business2community.com
-    quality: 16
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Autonomous Vehicle Market 2020: Global Overview, Latest Technology, Market Size, Share, Demand, Major Players, Key Trends, and Forecast to 2026"
+    excerpt: "Autonomous Vehicle Market by Level of Automation (Level 3, Level 4, and Level 5), Component (Hardware, Software, and Service) and Application (Civil, Robo Taxi, Self-driving Bus, Ride Share, Self-driving Truck,"
+    publishedDateTime: 2020-02-05T03:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/autonomous-vehicle-market-2020-global-overview-latest-technology-market-size-share-demand-major-players-key-trends-and-forecast-to-2026-2020-02-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 18
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
 
-secured: "mZ9Z3RUvW9wJmSQE4B0NcxyUuJg+8XQsLVzk0onrf+JKPcA9+ZIDaK9P4tlRNRuVMbzS4KjTO3zCq76+qDo17TJ1sol/5kJwU6DXGzTPLTU0cchMgfQWtic72c48B9jjouu9iQx2ejzn5O080S8pKYDvLqgO0RbQ3ywn26hDbX5NVoila/3drJdAPd9Dc2mmSoBOYuFp0o3YDEURcqd2EebC8l8hzHS+eJ0yIqdRtISuOVdXkmRewU/xpL19VETNZVKDMx+ZT26/M2i/jsN+ItYutJFOWFvvP11WFytAo7yOz1cW++T9Mckqk6zIFUKF;aMf005PBGGELuaKcew1nFw=="
+secured: "nBlYHJ+l7fbg0aDx3vjWpJoga43jQn1uJaJZq6Lx8qOfG3AC1rxhpxnDmm4Cf51/8fJBw07XsEe2ePThWKCnjJ326zoxWUR0Wtlr6lmXDXGaOrchS9kn1s3XCRiH/QvujEm6ILWX1qcqu+97KDEvwylKqogOdSwKFt7z8Ewn+fNWjClkeGUTRh5YYUK6GGh2oX6nOF8XzkYpLK7ZdvsoOBUuMWfSukqIFzjbsNUL4P7nOFkIegOI3e6NtItDDyXJbq0vhuZk3lpPBGCFVX/dZaAImkheAYoklR/jQou036AenvpvjKyk2b1ojcl2Ydgy;vtVFg8q+qwdZAzc8pOzn4g=="
 ---
 

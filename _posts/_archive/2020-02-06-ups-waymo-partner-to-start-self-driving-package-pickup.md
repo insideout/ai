@@ -5,7 +5,7 @@ excerpt: "“UPS and Waymo are exploring automated and autonomous ... the compan
 publishedDateTime: 2020-02-06T03:20:00Z
 webUrl: "https://www.fibre2fashion.com/news/textile-news/ups-waymo-partner-to-start-self-driving-package-pickup-254957-newsdetails.htm"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,12 @@ provider:
 topics:
   - AI
   - AI in Autos
+
+images:
+  - url: "https://static.fibre2fashion.com/Newsresource/images/254/ups_266546.jpg"
+    width: 710
+    height: 450
+    title: "UPS, Waymo partner to start self-driving package pickup"
 
 related:
   - title: "Tech Start-Up Pix Moving Uses Self-Driving Ideas To Make Flexible Cities"
@@ -34,6 +40,6 @@ related:
         width: 1000
         height: 563
 
-secured: "tVgUQln/yfG+ip4EHbcaDqD7tpFFN5/fXh6A/HPzmb9BsWUuE/BFEfRaNDNrJuJYUWszH6fjP1m5RwX/xn2A65mAtI3ZAD/dGudCkBchFL7kwza1Engqufk/+y47jPhltCjYJnz/Fnh7NmFaWQllvc2Y3IP5sP8Oet38q8jSouYE9iSsEtfD9Y7eKjLCZvcxzZ5oKUyNNqbutWJ/Sge/VYe5sTtsWOKiULzE/htweOfK85YazT8K7uiHbajksUPrL8KM4p6By++qLlnyQwe2bjxAr2z7yR4DlP5rBmCD/Gf64v8Gja9n7S8ixVBlV72k;4paJd/vtfK112JMXozlTFw=="
+secured: "mprG1ktDSbS9Sg3+DPBritoYuMpEKaLFhs/BW8cyhm4w/TMF9o7D6wHQnwwRv18GSCPZe0/+dJWrGuSD7PGF8eSY/Cmbs3FMlPN73AzEYH761Sp32xfPIgreJXPhLHTY3v19OcbEnb5Z4oeqB7R5f6DkQK62OnrsZFcyRWxEnT/BJZ+Y980SkmAR0n7AqcCOhxQv/yyU04ntZL4RyxEiolxoHZmKWlQ+/7JOQLkoJUquGOL0j7CeXuWcNxtqd1NIOyNaIgucssjHPy7IWjLupSF5qZ0yGVa5mMpouAkTca2I1V//dni40tGmXI472Unx;0wIbOa6POce2XaAMZTwV5w=="
 ---
 

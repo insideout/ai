@@ -2,90 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_posts/2020-02-12-how-to-teach-artificial-intelligence.md",
-      "title": "How To Teach Artificial Intelligence",
-      "excerpt": "Every high school graduate should have an appreciation of how AI is reshaping the economy and the career landscape—and the option of educational pathways that lead to college and meaningful high wage work.",
-      "heat": 93,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/tomvanderark/2020/02/12/how-to-teach-artificial-intelligence/",
-      "ampWebUrl": "https://www.forbes.com/sites/tomvanderark/2020/02/12/how-to-teach-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomvanderark/2020/02/12/how-to-teach-artificial-intelligence/amp/",
-      "publishedDateTime": "2020-02-12T02:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x572/https://specials-images.forbesimg.com/imageserve/5e4280f7298c2a00065f7857/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 572,
-          "title": "How To Teach Artificial Intelligence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI in Healthcare",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-12-india-can-benefit-from-ai-machine-learning-chandra.md",
-      "title": "India can benefit from AI, machine learning: Chandra",
-      "excerpt": "Mumbai, Feb 12 () Tata Sons Chairman N Chandrasekaran on Tuesday said job losses due to technological growth is a bogey created by advanced nations, and emerging economies like India can benefit from aspects such as artificial intelligence and machine learning. Addressing tech industry chief executives at industry lobby Nasscom's annual event ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.in/business/news/india-can-benefit-from-ai-machine-learning-chandra/articleshow/74103826.cms",
-      "ampWebUrl": "https://www.businessinsider.in/business/news/india-can-benefit-from-ai-machine-learning-chandra/amp_articleshow/74103826.cms",
-      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/business/news/india-can-benefit-from-ai-machine-learning-chandra/amp_articleshow/74103826.cms",
-      "publishedDateTime": "2020-02-12T06:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider India",
-        "domain": "businessinsider.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.businessinsider.in/thumb/72107402.cms?height=275&width=412",
-          "width": 412,
-          "height": 275,
-          "title": "India can benefit from AI, machine learning: Chandra",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_posts/2020-02-12-lyft-touts-benefits-of-self-driving-cars-but-warns-of-second-order-effects.md",
       "title": "Lyft touts benefits of self-driving cars, but warns of ‘second order’ effects",
       "excerpt": "Autonomous cars will prove critical to the future of cities, according to Raj Kapoor, Lyft’s chief strategy officer and head of business for self-driving. But he added that riders may need to adjust their expectations and warned of unintended “second order” effects of the burgeoning driverless car industry. Kapoor was speaking at the Move ...",
@@ -2125,6 +2041,95 @@
       "topics": [
         "AI",
         "Facebook AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-14-hypodermic-needles-left-in-self-driving-cars-is-an-ominous-harbinger-of-whats-to-come.md",
+      "title": "Hypodermic Needles Left In Self-Driving Cars Is An Ominous Harbinger Of What’s To Come",
+      "excerpt": "Reckless passengers are leaving hypodermic needles in self-driving cars, it's a problem that's going to get worse.",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/02/12/hypodermic-needles-leftover-in-ai-self-driving-cars-by-despicable-passengers-is-an-ominous-harbinger-of-whats-yet-to-come/",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/02/12/hypodermic-needles-leftover-in-ai-self-driving-cars-by-despicable-passengers-is-an-ominous-harbinger-of-whats-yet-to-come/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/02/12/hypodermic-needles-leftover-in-ai-self-driving-cars-by-despicable-passengers-is-an-ominous-harbinger-of-whats-yet-to-come/amp/",
+      "publishedDateTime": "2020-02-14T06:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F664664484%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D7000%26cropY1%3D166%26cropY2%3D4831",
+          "width": 1200,
+          "height": 800,
+          "title": "Hypodermic Needles Left In Self-Driving Cars Is An Ominous Harbinger Of What’s To Come",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-14-microsofts-ai-improves-text-summarization-performance-by-paying-closer-attention-to-the-beginning.md",
+      "title": "Microsoft’s AI improves text summarization performance by paying closer attention to the beginning",
+      "excerpt": "That’s why researchers from Pittsburgh and Microsoft Researcher’s Future Social Experiences (FUSE) lab, which focuses on real-time and media-rich experiences, developed an AI system that pays close attention to the beginning of documents it’s summarizing. They say that this improved its experimental performance particularly in the case of ...",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/14/microsofts-ai-improves-text-summarization-performance-by-paying-closer-attention-to-the-beginning/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/14/microsofts-ai-improves-text-summarization-performance-by-paying-closer-attention-to-the-beginning/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/14/microsofts-ai-improves-text-summarization-performance-by-paying-closer-attention-to-the-beginning/amp/",
+      "publishedDateTime": "2020-02-14T07:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Microsoft’s AI improves text summarization performance by paying closer attention to the beginning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

@@ -8,8 +8,8 @@ ampWebUrl: "https://www.thestatesman.com/technology/facebook-buys-start-uses-ai-
 cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/technology/facebook-buys-start-uses-ai-vision-find-location-1502854522.html/amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: The Statesman
@@ -26,17 +26,6 @@ images:
     title: "Facebook buys start-up that uses AI vision to find location"
 
 related:
-  - title: "Facebook buys Scape Technologies, start-up that uses AI vision to find location"
-    excerpt: "Founded in 2017, Scape Technologies was developing a “Visual Positioning Service” based on computer vision which lets developers build apps that require location accuracy far beyond the capabilities of GPS alone."
-    publishedDateTime: 2020-02-09T14:04:00Z
-    webUrl: "https://www.hindustantimes.com/tech/facebook-buys-scape-technologies-start-up-that-uses-ai-vision-to-find-location/story-gxFrDt4ZIa4Fu1gMnn4fEM.html"
-    ampWebUrl: "https://m.hindustantimes.com/tech/facebook-buys-scape-technologies-start-up-that-uses-ai-vision-to-find-location/story-gxFrDt4ZIa4Fu1gMnn4fEM_amp.html"
-    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/facebook-buys-scape-technologies-start-up-that-uses-ai-vision-to-find-location/story-gxFrDt4ZIa4Fu1gMnn4fEM_amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 35
   - title: "Facebook takes control of London computer vision start-up Scape Technologies"
     excerpt: "Facebook has acquired majority control of London-based computer vision start-up company Scape Technologies, TechCrunch reported. A regulatory filing with Companies House shows that Facebook now controls more than 75 percent of the company. Scape Technologies is developing hyper-accurate location recognition technology for augmented reality (AR ..."
     publishedDateTime: 2020-02-10T12:10:00Z

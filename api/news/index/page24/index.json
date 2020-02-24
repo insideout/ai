@@ -2,6 +2,141 @@
   "page": 24,
   "value": [
     {
+      "path": "_posts/_archive/2020-02-04-robot-nutrition-ai-drug-discovery-and-neuro-rehabilitation-11-of-the-most-exciting-healthcare-startups-in-europe.md",
+      "title": "Robot nutrition, AI drug discovery, and neuro-rehabilitation: 11 of the most exciting healthcare startups in Europe",
+      "excerpt": "From robot chefs to smart patches that analyze your sleeping habits, here are 11 of the most exciting health tech companies in Europe.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/11-exciting-healthcare-startups-in-europe-2020-1",
+      "ampWebUrl": "https://www.businessinsider.com/11-exciting-healthcare-startups-in-europe-2020-1?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/11-exciting-healthcare-startups-in-europe-2020-1?amp",
+      "publishedDateTime": "2020-02-04T01:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5e32f5e524306a1e385a2fb7?width=1200&format=jpeg",
+          "width": 1000,
+          "height": 500,
+          "title": "Robot nutrition, AI drug discovery, and neuro-rehabilitation: 11 of the most exciting healthcare startups in Europe",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-02-04-russia-and-nato-artificial-intelligence-in-military-market-segmentation-and-forecast-to-2019-2027.md",
+      "title": "Russia and NATO Artificial Intelligence in Military Market Segmentation and Forecast to 2019-2027",
+      "excerpt": "The report covers a forecast and an analysis of the Russia and NATO artificial intelligence in military market. The study provides historical data from 2016 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million).",
+      "heat": 96,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/russia-and-nato-artificial-intelligence-in-military-market-segmentation-and-forecast-to-2019-2027-2020-02-04",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-04T03:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Russia and NATO Artificial Intelligence in Military Market Segmentation and Forecast to 2019-2027",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-02-04-smart-marketing-how-corporate-marketers-deploy-ai.md",
+      "title": "Smart Marketing: How Corporate Marketers Deploy AI",
+      "excerpt": "Marketers report a 27% increase in the use of AI and machine learning in marketing toolkits over 6 months prior. Top uses include AI for content personalization, targeting, predictive analytics. Organizational challenges to maximize the impact of AI in marketing are discussed.",
+      "heat": 117,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/christinemoorman/2020/02/04/smart-marketing-how-corporate-marketers-deploy-ai/",
+      "ampWebUrl": "https://www.forbes.com/sites/christinemoorman/2020/02/04/smart-marketing-how-corporate-marketers-deploy-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/christinemoorman/2020/02/04/smart-marketing-how-corporate-marketers-deploy-ai/amp/",
+      "publishedDateTime": "2020-02-04T08:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fchristinemoorman%2Ffiles%2F2020%2F02%2FAI-F1.png",
+          "width": 1200,
+          "height": 588,
+          "title": "Smart Marketing: How Corporate Marketers Deploy AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-02-04-this-new-ai-model-will-badmouth-you-for-putting-trash-in-the-wrong-bin.md",
       "title": "This new AI model will badmouth you for putting trash in the wrong bin",
       "excerpt": "When I’m at airports, I often get confused as to which trash and recycling bin I should throw my rubbish into. A new solution from a Canadian AI company, Initutaive AI, might come in handy. The firm has developed Oscar, an image-detection based AI, that recognizes objects in your hand and guides you to put things in correct bins.",
@@ -1972,132 +2107,6 @@
           "width": 600,
           "height": 350,
           "title": "Facebook and Venmo demand Clearview AI stops scraping their data",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-02-06-facebook-and-youtube-say-ai-firm-must-stop-scraping-faces-from-sites.md",
-      "title": "Facebook and YouTube Say AI Firm Must Stop Scraping Faces from Sites",
-      "excerpt": "Facebook has joined YouTube, Twitter and payment service Venmo in demanding that a facial recognition company stop harvesting user images to identify the people in them, which the startup does as part of its work with police. Facebook said it has demanded New York-based Clearview AI stop accessing or using information from its flagship site and ...",
-      "heat": 287,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.snopes.com/ap/2020/02/05/facebook-and-youtube-say-ai-firm-must-stop-scraping-faces-from-sites/",
-      "ampWebUrl": "https://www.snopes.com/ap/2020/02/05/facebook-and-youtube-say-ai-firm-must-stop-scraping-faces-from-sites/amp/",
-      "cdnAmpWebUrl": "https://www-snopes-com.cdn.ampproject.org/c/s/www.snopes.com/ap/2020/02/05/facebook-and-youtube-say-ai-firm-must-stop-scraping-faces-from-sites/amp/",
-      "publishedDateTime": "2020-02-05T18:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Snopes.com",
-        "domain": "snopes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.snopes.com/tachyon/2020/02/ap_youtube.jpg?resize=800,452",
-          "width": 800,
-          "height": 452,
-          "title": "Facebook and YouTube Say AI Firm Must Stop Scraping Faces from Sites",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-02-06-facebook-launches-3d-deep-learning-library-for-pytorch.md",
-      "title": "Facebook launches 3D deep learning library for PyTorch",
-      "excerpt": "Facebook AI Research (FAIR) today unveiled PyTorch3D, a library that enables researchers and developers to combine deep learning and 3D objects. As part of the release, Facebook is also open-sourcing Mesh R-CNN, a model introduced last year capable of rendering 3D objects from 2D shapes in images of interior spaces. PyTorch3D was inspired by ...",
-      "heat": 126,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/06/facebook-launches-3d-deep-learning-library-for-pytorch/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/06/facebook-launches-3d-deep-learning-library-for-pytorch/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/06/facebook-launches-3d-deep-learning-library-for-pytorch/amp/",
-      "publishedDateTime": "2020-02-06T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/pytorch3D-1.png?fit=2472%2C1314&strip=all",
-          "width": 2472,
-          "height": 1314,
-          "title": "Facebook launches 3D deep learning library for PyTorch",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-02-06-how-ai-can-help-keep-your-customers-onside.md",
-      "title": "How AI Can Help Keep Your Customers Onside",
-      "excerpt": "After years of hype around the potential of artificial intelligence (AI), the augmented workforce is finally a reality for many businesses. But while much of the attention so far has focused on relatively simplistic chatbots helping field basic customer enquiries,",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/businessreporter/2020/02/03/how-ai-can-help-keep-your-customers-onside/",
-      "ampWebUrl": "https://www.forbes.com/sites/businessreporter/2020/02/03/how-ai-can-help-keep-your-customers-onside/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/businessreporter/2020/02/03/how-ai-can-help-keep-your-customers-onside/amp/",
-      "publishedDateTime": "2020-02-05T16:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e384e52a854780006b054f3%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": "How AI Can Help Keep Your Customers Onside",
           "attribution": null
         }
       ],

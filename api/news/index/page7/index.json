@@ -2,95 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_posts/2020-02-20-google-parent-alphabet-is-pruning-its-other-bets.md",
-      "title": "Google parent Alphabet is pruning its 'other bets'",
-      "excerpt": "YouTube and more), Access (Fiber broadband), Calico (aging), Capital (late-stage investment), DeepMind (artificial intelligence), Google Ventures (startup investment), Life Sciences (health), Nest (smart home appliances), Sidewalk (smart cities) and Google X, which still looked after Boston Dynamics (robots), Waymo (self-driving cars), Loon ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/2020/02/20/alphabet-makani-chronicle-jigsaw-other-bets/",
-      "ampWebUrl": "https://www.engadget.com/amp/2020/02/20/alphabet-makani-chronicle-jigsaw-other-bets/",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/20/alphabet-makani-chronicle-jigsaw-other-bets/",
-      "publishedDateTime": "2020-02-20T07:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-02%252F84251f30-53db-11ea-9fcf-d89c1210ec92%26client%3Da1acac3e1b3290917d92%26signature%3D6ed4057d83c63aff8c4a85abf3a6285ca6b30cdb&client=amp-blogside-v2&signature=22c879d0d3bb8d2443c47f82793e879d2cc7bc5a",
-          "width": 600,
-          "height": 350,
-          "title": "Google parent Alphabet is pruning its 'other bets'",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-20-google-removes-gender-descriptions-on-ai-tool.md",
-      "title": "Google Removes Gender Descriptions On AI Tool",
-      "excerpt": "A Google artificial intelligence tool will no longer identify photos with gender descriptions such “man” or “woman,” Business Insider reported.",
-      "heat": 117,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/beasleydavid/2020/02/20/google-removes-gender-descriptions-on-ai-tool/",
-      "ampWebUrl": "https://www.forbes.com/sites/beasleydavid/2020/02/20/google-removes-gender-descriptions-on-ai-tool/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/beasleydavid/2020/02/20/google-removes-gender-descriptions-on-ai-tool/amp/",
-      "publishedDateTime": "2020-02-20T06:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1ef8df0c18d04d60b8bcca96180e0cbd%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4365%26cropY1%3D221%26cropY2%3D2677",
-          "width": 1199,
-          "height": 675,
-          "title": "Google Removes Gender Descriptions On AI Tool",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-20-googles-android-11-heres-whats-new-for-5g-ai-and-security-plus-tougher-data-rules.md",
       "title": "Google's Android 11: Here's what's new for 5G, AI and security, plus tougher data rules",
       "excerpt": "There's a permissions module that standardizes user and developer access to key privacy controls on Android devices, a media provider module that improves scoped storage privacy, and a Neural Networks API module that optimizes performance for AI tasks on mobile devices.",
@@ -2155,6 +2066,96 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-22-heres-why-the-ai-at-the-wheel-of-a-self-driving-car-might-be-male-female-gender-fluid-or-gender-neutral.md",
+      "title": "Here’s Why The AI At The Wheel Of A Self-Driving Car Might Be Male, Female, Gender-Fluid, Or Gender-Neutral",
+      "excerpt": "Do you think that men are better drivers than women, or do you believe that women are better drivers than men? Seems like most of us have an opinion on the matter, one way or another. In a stereotypical manner,",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/02/22/heres-why-the-ai-at-the-wheel-of-a-self-driving-car-might-be-male-female-gender-fluid-or-gender-neutral/",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/02/22/heres-why-the-ai-at-the-wheel-of-a-self-driving-car-might-be-male-female-gender-fluid-or-gender-neutral/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/02/22/heres-why-the-ai-at-the-wheel-of-a-self-driving-car-might-be-male-female-gender-fluid-or-gender-neutral/amp/",
+      "publishedDateTime": "2020-02-22T07:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1042124056%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5472%26cropY1%3D277%26cropY2%3D3355",
+          "width": 1200,
+          "height": 675,
+          "title": "Here’s Why The AI At The Wheel Of A Self-Driving Car Might Be Male, Female, Gender-Fluid, Or Gender-Neutral",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-22-machine-learning-chips-market-overview-technology-details-2020.md",
+      "title": "Machine Learning Chips Market Overview, Technology Details 2020",
+      "excerpt": "Latest Trends Report On Global Machine Learning Chips Market 2020 with Upcoming Industry Trends, Size, Share, Top Companies Profiles, Growth Report and Forecast By 2026. Machine Learning Chips Market is a valuable source of insightful data for business strategists.",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-chips-market-overview-technology-details-2020-2020-02-22",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-21T23:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Machine Learning Chips Market Overview, Technology Details 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

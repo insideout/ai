@@ -88,7 +88,7 @@ related:
   - title: "The new collaboration is designed to enhance the cybersecurity capabilities of Azure Security Center for IoT customers."
     excerpt: "Michal Braverman-Blumenstyk, CTO and GM, Cloud and AI Security Division at Microsoft Corp. said, \"We are pleased to partner with Firedome's Endpoint Protection solution to provide a solution for manufacturers who don't have a SOC team for their IoT installed device base. We view this collaboration as a way to enrich Microsoft Azure Security ..."
     publishedDateTime: 2020-02-22T01:31:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/firedome-announces-integration-with-microsoft-azure-security-center-for-iot/article_9fd4db82-0673-50af-bd2b-78c981cc8039.html"
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/firedome-announces-integration-with-microsoft-azure-security-center-for-iot/article_9fd4db82-0673-50af-bd2b-78c981cc8039.html"
     type: article
     provider:
       name: WFMZ-TV

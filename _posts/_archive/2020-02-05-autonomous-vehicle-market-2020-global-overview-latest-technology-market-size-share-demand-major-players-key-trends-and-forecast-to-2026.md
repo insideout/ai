@@ -5,7 +5,7 @@ excerpt: "Autonomous Vehicle Market by Level of Automation (Level 3, Level 4, an
 publishedDateTime: 2020-02-05T03:05:00Z
 webUrl: "https://www.marketwatch.com/press-release/autonomous-vehicle-market-2020-global-overview-latest-technology-market-size-share-demand-major-players-key-trends-and-forecast-to-2026-2020-02-04"
 type: article
-quality: 0
+quality: 18
 heat: -1
 published: false
 
@@ -21,6 +21,12 @@ topics:
   - AI
   - AI in Autos
 
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    title: "Autonomous Vehicle Market 2020: Global Overview, Latest Technology, Market Size, Share, Demand, Major Players, Key Trends, and Forecast to 2026"
+
 related:
   - title: "Image Recognition Market Insights By Size Growth, Industry Share, Leading Players and Regional Forecast by 2026"
     excerpt: "The global image recognition market was worth USD 20.19 billion in 2018 and will exhibit a CAGR of 19.6% during the forecast period, till 2026 The global image recognition market size is projected to reach USD 81."
@@ -30,8 +36,21 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 14
+    quality: 34
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Cognitive computing in Healthcare Market Size, Share, Growth,Trends,Forecast 2025"
+    excerpt: "The wide popularity of IBM Watson and Cognitive Services by Microsoft among healthcare providers is accentuating the growth of the market. Leveraging the potential of self-learning systems to look ..."
+    publishedDateTime: 2020-01-29T12:11:00Z
+    webUrl: "https://www.openpr.com/news/1912885/cognitive-computing-in-healthcare-market-size-share"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
 
-secured: "beJtHNujgRkHUC8VC+e+tHOxwEp0s2SSJ24tzUnMW/gzHR0k3gavV4CKtwCwzjyCnEVGYe/Po6UvNNhExWL70LwyxlO2yOZ+nMC3FimNubx18rNwuktYY0uO3SI3Ip6YQwpe+q0sb48mbYFZ6/WXHqo+yPDRxpSYp0Rg+1P5uZB2GvW4FaxkHNXXiR03LOL3ks32heyfjDY6WS99UKPRayb++NZeix+6L33a3jQeDyIBUPqnqY/pSHA52UW36dlCnT7WgYDTrfoD+20Q4RV/YcSKsrS1nPy5FNs0YKrZRPC/awVuMIlQtTSsKbSl1gS4;3xtBkePBe3wh9g+BETrkOw=="
+secured: "ATv5s9Fm5B361DUdRU0i40G5FfFeIiYR2ew8icMIlILRxP5sqyc1pFaPoQuTSV/S/HQQdmFBPkDO8jCFazvAr4/ELOUQmqkcQWB6+Xaw4ym3otlldwmKRvffWepmSdN17jmT6+tPn/OOBFyRMqdZGPsdKa9nvqRnhZRk3owmv5a06LCNYbhvllIrbs1ksceJqw8FQOPuNCB2bPLVXYiUe3BXWl0Rt9ATP6g6LPVZndnKy/VoktBLJwX+wd/MSwJjEpNYr51h53hEFrOuwPotP552GPUDXKX9oXBhqGKIzMalw+rha5fprHSH1LOtBZi0;EKaheJ7y2jfAHjDTM4h/Zw=="
 ---
 

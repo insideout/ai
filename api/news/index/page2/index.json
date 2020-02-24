@@ -2,96 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_posts/2020-02-10-us-army-to-use-gamers-brain-waves-to-train-military-robot-swarms.md",
-      "title": "US Army to use gamers’ brain waves to train military robot swarms",
-      "excerpt": "The U.S. Defense Advanced Research Projects Agency, known as DARPA, awarded a team from the University of Buffalo's Artificial Intelligence Institute a $316,000 grant for the study. Although swarm robotics is inspired by many things, including ant colonies ...",
-      "heat": 124,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.foxnews.com/tech/army-using-gamers-brain-waves-to-train-military-robots",
-      "ampWebUrl": "https://www.foxnews.com/tech/army-using-gamers-brain-waves-to-train-military-robots.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/army-using-gamers-brain-waves-to-train-military-robots.amp",
-      "publishedDateTime": "2020-02-10T11:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/02/640/320/creative-commons-robot-swarm.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": "US Army to use gamers’ brain waves to train military robot swarms",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-10-vehicle-speech-recognition-system-market-latest-review-know-more-about-industry-gainers.md",
-      "title": "Vehicle Speech Recognition System Market Latest Review: Know More about Industry Gainers",
-      "excerpt": "This intelligence report provides a comprehensive analysis of the \"Global Vehicle Speech Recognition System Market. This includes Investigation of past progress, ongoing market scenarios, and future prospects.",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/vehicle-speech-recognition-system-market-latest-review-know-more-about-industry-gainers-2020-02-10",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-10T01:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Vehicle Speech Recognition System Market Latest Review: Know More about Industry Gainers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_posts/2020-02-10-we-are-still-playing-catch-up-with-ai-and-its-a-dangerous-game.md",
       "title": "We are still playing catch up with AI, and it's a dangerous game",
       "excerpt": "\"This review found that the government is failing on openness.\" The very first issue highlighted by the organisation, in effect, is that no one knows exactly where the government currently uses AI. Academics, civil society groups and public officials alike said that they were unable to find out which government departments were using the ...",
@@ -2155,6 +2065,90 @@
       "topics": [
         "AI",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-12-how-to-teach-artificial-intelligence.md",
+      "title": "How To Teach Artificial Intelligence",
+      "excerpt": "Every high school graduate should have an appreciation of how AI is reshaping the economy and the career landscape—and the option of educational pathways that lead to college and meaningful high wage work.",
+      "heat": 93,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/tomvanderark/2020/02/12/how-to-teach-artificial-intelligence/",
+      "ampWebUrl": "https://www.forbes.com/sites/tomvanderark/2020/02/12/how-to-teach-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomvanderark/2020/02/12/how-to-teach-artificial-intelligence/amp/",
+      "publishedDateTime": "2020-02-12T02:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x572/https://specials-images.forbesimg.com/imageserve/5e4280f7298c2a00065f7857/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 572,
+          "title": "How To Teach Artificial Intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI in Healthcare",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-12-india-can-benefit-from-ai-machine-learning-chandra.md",
+      "title": "India can benefit from AI, machine learning: Chandra",
+      "excerpt": "Mumbai, Feb 12 () Tata Sons Chairman N Chandrasekaran on Tuesday said job losses due to technological growth is a bogey created by advanced nations, and emerging economies like India can benefit from aspects such as artificial intelligence and machine learning. Addressing tech industry chief executives at industry lobby Nasscom's annual event ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.in/business/news/india-can-benefit-from-ai-machine-learning-chandra/articleshow/74103826.cms",
+      "ampWebUrl": "https://www.businessinsider.in/business/news/india-can-benefit-from-ai-machine-learning-chandra/amp_articleshow/74103826.cms",
+      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/business/news/india-can-benefit-from-ai-machine-learning-chandra/amp_articleshow/74103826.cms",
+      "publishedDateTime": "2020-02-12T06:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider India",
+        "domain": "businessinsider.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.businessinsider.in/thumb/72107402.cms?height=275&width=412",
+          "width": 412,
+          "height": 275,
+          "title": "India can benefit from AI, machine learning: Chandra",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
       ]
     }
   ],
