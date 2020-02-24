@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Ford to invest $1 billion in artificial intelligence for your car"
-excerpt: "Ford will pour $1 billion over the next five years into an artificial intelligence company tasked ... who previously worked on self-driving car initiatives at Google and Uber, respectively."
+excerpt: "Ford will pour $1 billion over the next five years into an artificial intelligence company tasked ... will put Ford in direct competition with Waymo, Google’s self-driving car company, which ..."
 publishedDateTime: 2020-02-10T00:00:00Z
 webUrl: "https://www.abqjournal.com/947509/ford-to-invest-1-billion-in-artificial-intelligence-for-your-car.html"
 ampWebUrl: "https://www.abqjournal.com/947509/ford-to-invest-1-billion-in-artificial-intelligence-for-your-car.html/amp"
@@ -19,6 +19,6 @@ topics:
   - AI
   - AI in Autos
 
-secured: "+PTXGrHmarENo1C6YTUbpEco4Y/94UH3wHHv5KYtcL40kdmbF+ojLWX5SVOPnqZPpBugGyL59Zmc3KXQ3fkeQelkW2KyxLmEn0vjd7pWTQnWkPUESqaWetrfYSXmXQ81Znf+kQA7UJdt/GpkIDwCQZNhNxsQcnnvWRVbzbiCF4bRxzm2E249RNueqKCxzbivvsMsqgAFsHp7u28ehzMfMKPjYNC4nXk9w+qKAbQQqGdPyGvEeszPGaVZW7RPhPXr6SEZ4fQDY5VtLpyg1I6MT6GJDIT5HZU07H0/arUlBxRhtvHmqA+wYi8ebVXAZ68W;XE5oHrfhp2HT8LWkifZp6g=="
+secured: "bYZRxu9IrZrHUBZFTYBeced0b8CE406eRWorLnYwt2c4oDAIAPMdLe0560M1Q6iOLEMevfK3i2ahtPSML6nGcASHS+fU3DTZQHeDFZ5XAi+W/BoTGSYxK0vgksoKu7RAB+ZDKx1vZ+K1T3UF1rRuwxBz2Ryl7u3rBMf66kNfYOZMs6ipe9JcTPEYKHvQSnCivSOvXd7hfflg2VScNK77JImNEioeggxwfkXP2DBw3C1ge8Svl+s/zU6r9e9pz3bBiRUFAQzcjudIZOLF15z0jzkZZafs5qQSRBAgc5CJPszIW6B5ER+hRRVTElTWzVwn;HnZeyGi+cVA/I5ehB+jZAg=="
 ---
 

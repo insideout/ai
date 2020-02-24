@@ -23,21 +23,21 @@ images:
     title: "Softbank to invest $100m in AI start-up Behavox"
 
 related:
-  - title: "SoftBank has Vision of UK AI start-up Behavox"
-    excerpt: "The Vision Fund also sold its stake in Wag, a dog-walking start-up, after mounting losses. Insiders said that the investment in Behavox ... and also focuses on helping clients to monitor their own customer relationships through the use of AI tools. The company's early investors were Hoxton Ventures and Index Ventures, the venture capital ..."
-    publishedDateTime: 2020-02-19T12:22:00Z
-    webUrl: "https://news.sky.com/story/softbank-has-vision-of-uk-ai-start-up-behavox-11937743"
-    ampWebUrl: "https://news.sky.com/story/amp/softbank-has-vision-of-uk-ai-start-up-behavox-11937743"
-    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/softbank-has-vision-of-uk-ai-start-up-behavox-11937743"
+  - title: "SoftBank leads $265 million investments in two U.S.-based start-ups"
+    excerpt: "SoftBank on Monday led a new funding round of $165 million in California-based Karius and invested $100 million in New York-headquartered AI company Behavox, as the technology giant builds a portfolio under its second Vision Fund."
+    publishedDateTime: 2020-02-24T16:10:00Z
+    webUrl: "https://www.reuters.com/article/us-karius-funding/softbank-leads-165-million-capital-boost-for-liquid-biopsy-firm-karius-idUSKCN20I155"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN20I155"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN20I155"
     type: article
     provider:
-      name: Sky
-      domain: sky.com
-    quality: 59
+      name: Reuters
+      domain: reuters.com
+    quality: 72
     images:
-      - url: "https://e3.365dm.com/20/02/1600x900/skynews-softbank-masayoshi-son_4924345.jpg?20200219103123"
-        width: 1600
-        height: 900
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200224&t=2&i=1494517480&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG1N0Y9"
+        width: 785
+        height: 545
   - title: "Softbank set to invest $100m in AI startup Behavox"
     excerpt: "Softbank founder Masayoshi Son is trying to drum up investment for his second Vision Fund (via Getty Images) Softbank is reportedly close to investing $100m (£77m) in a startup which uses artificial intelligence (AI) to help financial firms monitor ..."
     publishedDateTime: 2020-02-19T13:20:00Z
@@ -53,6 +53,19 @@ related:
       - url: "https://www.cityam.com/wp-content/uploads/2020/02/1180313918.jpg"
         width: 1024
         height: 719
+  - title: "Troy AI logistics firm nabs $15 million L.A. investment"
+    excerpt: "We could not be more excited to partner with Amjad and his team on this next phase of growth.\" Coastal investment into Michigan companies has been on the rise, Crain's has previously reported, with every $1 invested into a Michigan startup by a Michigan-based venture capital firm now being matched by $7.85 in investment from outside the state."
+    publishedDateTime: 2020-02-20T22:10:00Z
+    webUrl: "https://www.crainsdetroit.com/entrepreneurship/troy-ai-logistics-firm-nabs-15-million-la-investment"
+    type: article
+    provider:
+      name: Crain's Detroit
+      domain: crainsdetroit.com
+    quality: 37
+    images:
+      - url: "https://www.crainsdetroit.com/s3/files/styles/800x600/public/istock%20venture%20capital_i_i.jpg"
+        width: 800
+        height: 600
 
 secured: "+ILknWlviDEk4kMR6Vvq6sUs0Lj8eNQFQSLUtgM3bKquU8SRyJKeGBoA5lG2/9+7xK1cUWThI+iNvlkxG643oKsklJAofy6xzYkCAGissLvebcD+0a+V+rIHdK5tcZDT9mNjY0wFyMkkBH4hHoeqb9mWM2AJy44Dhr9vIXgdzgC/Gte9ZlhSn2EZSARyCD3k9PkEGBjrlGf74EwckHVs+ePlm/0y4Zt/hqRokE8RTwoSAiKFPlb9SQXW4OKBPsI3vGpf9F8q+e0RCu8EfzndmE44LLhkbR5wkWhiFyu2kIzd0no/Fb6b2vxY6IFL3jn1;mOAc/+RxMITUIIDQzSGI7g=="
 ---

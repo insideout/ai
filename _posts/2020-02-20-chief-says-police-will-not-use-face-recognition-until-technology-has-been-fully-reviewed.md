@@ -33,6 +33,19 @@ related:
       - url: "https://images.wsj.net/im-156193/social"
         width: 1280
         height: 640
+  - title: "Cressida Dick: Facial recognition critics should face up to victims of crime"
+    excerpt: "The head of the Metropolitan Police told a conference the only people who benefit from not using such technology are criminals. Privacy concerns over live facial recognition are ‘much smaller’ than the need to protect the public from ‘a knife through the chest’, Britain’s most senior police officer has said. Metropolitan Police ..."
+    publishedDateTime: 2020-02-24T16:48:00Z
+    webUrl: "https://www.shropshirestar.com/news/uk-news/2020/02/24/cressida-dick-facial-recognition-critics-should-face-up-to-victims-of-crime/"
+    type: article
+    provider:
+      name: Shropshire Star
+      domain: shropshirestar.com
+    quality: 36
+    images:
+      - url: "https://www.shropshirestar.com/resizer/j77f7duFobVJD8TELfKIQfmOi1I=/1200x0/filters:quality(100)/arc-anglerfish-arc2-prod-shropshirestar-mna.s3.amazonaws.com/public/IJLZIDHMI5FMBAFR4OQM7GPIQA.jpg"
+        width: 1200
+        height: 900
   - title: "Washington State moves ahead on bill to regulate governments’ use of facial-recognition technology"
     excerpt: "OLYMPIA, Wash. — Washington state senators Wednesday approved a bill that would begin regulating the use of facial-recognition programs by local and state governments. Sponsored by Democratic state Sen."
     publishedDateTime: 2020-02-20T03:03:00Z

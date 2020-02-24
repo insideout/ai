@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-22T07:52:00Z
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-chips-market-overview-technology-details-2020-2020-02-22"
 type: article
 quality: 84
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -28,6 +28,19 @@ images:
     title: "Machine Learning Chips Market Overview, Technology Details 2020"
 
 related:
+  - title: "Deep Learning Chipset Market Size, Share, Trend & Growth Forecast to 2025"
+    excerpt: "Market Study Report adds New Global Deep Learning Chipset Market research providing in-depth information about market overview, top vendors, Key market highlights, product types, market drivers, challenges,"
+    publishedDateTime: 2020-02-24T10:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-chipset-market-size-share-trend-growth-forecast-to-2025-2020-02-24?mod=mw_quote_news"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 68
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Artificial Intelligence (AI) In Food and Beverages Market Rising Trends, Technology and Demand 2020-2025"
     excerpt: "Artificial Intelligence (AI) In Food & Beverages market has been thoroughly scrutinized and then carefully demarcated by geographic locations which are based on major economic regions and their topographical regions."
     publishedDateTime: 2020-02-17T10:08:00Z

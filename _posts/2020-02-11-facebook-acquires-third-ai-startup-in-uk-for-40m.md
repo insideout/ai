@@ -57,20 +57,20 @@ related:
         width: 1024
         height: 767
   - title: "Facebook Acquires Computer Vision Startup Scape Technologies"
-    excerpt: "According to regulatory filings uncovered by Tech Crunch, Facebook has acquired Scape Technologies, a London-based computer vision startup. Facebook has yet to publicly acknowledge the acquisition. A company spokesperson told Tech Crunch that it “acquire[s] smaller tech companies from time to time. We don’t always discuss our plans.”"
-    publishedDateTime: 2020-02-10T14:19:00Z
-    webUrl: "https://www.roadtovr.com/facebook-acquires-computer-vision-startup-scape-technologies/"
-    ampWebUrl: "https://www.roadtovr.com/facebook-acquires-computer-vision-startup-scape-technologies/amp/"
-    cdnAmpWebUrl: "https://www-roadtovr-com.cdn.ampproject.org/c/s/www.roadtovr.com/facebook-acquires-computer-vision-startup-scape-technologies/amp/"
+    excerpt: "Facebook quietly acquired London-based computer vision startup Scape Technologies, according to several regulatory filings with the U.K.’s Companies House. Scape said on its about page that it is building a cloud-based Vision Engine that allows camera devices to understand their environment, using computer vision. The company added ..."
+    publishedDateTime: 2020-02-10T22:40:00Z
+    webUrl: "https://www.adweek.com/digital/facebook-acquires-computer-vision-startup-scape-technologies/"
+    ampWebUrl: "https://www.adweek.com/digital/facebook-acquires-computer-vision-startup-scape-technologies/amp/"
+    cdnAmpWebUrl: "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/digital/facebook-acquires-computer-vision-startup-scape-technologies/amp/"
     type: article
     provider:
-      name: Road to VR
-      domain: roadtovr.com
+      name: Adweek
+      domain: adweek.com
     quality: 59
     images:
-      - url: "https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2020/02/scape-technologies.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://www.adweek.com/wp-content/uploads/2020/02/uber-ooh-content-2020-640x360.jpg"
+        width: 640
+        height: 360
   - title: "Facebook acquires UK machine learning AI start-up Deeptide"
     excerpt: "A regulatory filing at Companies House shows that Facebook now controls 75 percent or more of shares in Deeptide, which controls Atlas ML, the company behind the 'Papers with Code' resource for machine learning. According to unnamed sources from London's ..."
     publishedDateTime: 2020-02-11T10:11:00Z

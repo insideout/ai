@@ -8,8 +8,8 @@ ampWebUrl: "https://www.forbes.com/sites/dangingiss/2020/02/18/why-experience-su
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/dangingiss/2020/02/18/why-experience-surveys-dont-always-expose-the-voice-of-the-customer/amp/"
 type: article
 quality: 74
-heat: 74
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -28,6 +28,49 @@ images:
     width: 711
     height: 566
     title: "Why Experience Surveys Don’t Always Expose The Voice Of The Customer"
+
+related:
+  - title: "How To Enhance The Customer Experience Using AI And Voice Biometrics"
+    excerpt: "Due to pressures regarding data privacy, companies are often forced to set up stringent security processes that compromise the customer experience."
+    publishedDateTime: 2020-02-24T16:49:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2020/02/24/how-to-enhance-the-customer-experience-using-ai-and-voice-biometrics/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2020/02/24/how-to-enhance-the-customer-experience-using-ai-and-voice-biometrics/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/02/24/how-to-enhance-the-customer-experience-using-ai-and-voice-biometrics/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/970156432/960x0.jpg?fit=scale"
+        width: 711
+        height: 474
+  - title: "Beyond Omnichannel - Transforming Customer Experience with AI-driven insight"
+    excerpt: ".Net developer Top cloud providers in 2020: AWS, Microsoft Azure, and Google Cloud, hybrid, SaaS players Hiring Kit: Computer Hardware Engineer"
+    publishedDateTime: 2020-02-19T08:38:00Z
+    webUrl: "https://www.techrepublic.com/resource-library/webcasts/beyond-omnichannel-transforming-customer-experience-with-ai-driven-insight/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/resource-library/webcasts/beyond-omnichannel-transforming-customer-experience-with-ai-driven-insight/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/resource-library/webcasts/beyond-omnichannel-transforming-customer-experience-with-ai-driven-insight/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 66
+  - title: "How the insurance industry can leverage AI to enhance efficiencies"
+    excerpt: "This second machine age has seen the rise of artificial intelligence (AI), or intelligence that is not the result of human cogitation. AI is now ubiquitous in many commercial products, from search engines to virtual assistants. AI is the result of exponential growth in computing power, memory capacity, cloud computing, distributed and ..."
+    publishedDateTime: 2020-02-18T06:35:00Z
+    webUrl: "https://yourstory.com/2020/02/insurance-industry-leverage-ai-enhance-efficiencies"
+    ampWebUrl: "https://yourstory.com/2020/02/insurance-industry-leverage-ai-enhance-efficiencies/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/02/insurance-industry-leverage-ai-enhance-efficiencies/amp"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 57
+    images:
+      - url: "https://images.yourstory.com/cs/2/f02aced0d86311e98e0865c1f0fe59a2/Future-of-work-Insurance-1581958631691.png?fm=png&auto=format"
+        width: 800
+        height: 400
 
 secured: "GNqyp89T5KCf2DqvO4aUZ59qLtlR+uw2HSWg1ML5N6ofccIZVdPpqtlCder6kGgXNO1TisM1kwBepn5+0tZbBtV78KxnDtsGj+FmIaWupg6LUON2d13nFpWhm+5wpZo9RHJa7tVCoT0cvET+/526W1k48+Czpm6nXSc0HxjUP+BB527jYznvDyZHNOI3J8CPFbisYyAPeYeWDbD5jtZSV3TGtssp7xJdaAD90kAvmHXy+kIXajDEq9sSY+1aZEulZYmg4rZ0QNnwamAeMaaiz2RNrn7SD1nERqHF/jHzUVkWIoXk1EPsXrJmCffTsbjHBw3qhhekUAVh0UkULXrVls4QCz55XBXOhft9tG7XRcGelES9AL4XMaoZ5EmhZGyv55KrhC8I7PJalF61zdUBQEh+rg1WPooHlq9lBxjHYaLHaT2Jm7A/4FpN7BU7TJnHqgqwCqCQDmlM4QhlmxSlUi/rfhUGiOtrxLwcgvgq3bw=;kLSdigC5bVmjU9svWtgEWg=="
 ---

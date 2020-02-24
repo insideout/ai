@@ -40,6 +40,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Deep Learning Chipset Market Size, Share, Trend & Growth Forecast to 2025"
+    excerpt: "Market Study Report adds New Global Deep Learning Chipset Market research providing in-depth information about market overview, top vendors, Key market highlights, product types, market drivers, challenges,"
+    publishedDateTime: 2020-02-24T10:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-chipset-market-size-share-trend-growth-forecast-to-2025-2020-02-24?mod=mw_quote_news"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 68
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Artificial Intelligence Chip Market 2020 Increasing Demand, Growth Analysis and Strategic Outlook – 2026"
     excerpt: "Artificial Intelligence Chip Marketis a valuable source of insightful data for business strategists. It provides the industry overview with growth analysis and historical & futuristic cost, revenue, demand and supply data (as applicable)."
     publishedDateTime: 2020-02-18T14:08:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-12T10:11:00Z
 webUrl: "https://www.nature.com/articles/s41598-020-59102-3"
 type: article
 quality: 14
-heat: -1
+heat: 14
 published: false
 
 provider:
@@ -22,19 +22,6 @@ images:
     width: 559
     height: 685
     title: "Poor resolution at the back of the tongue is the bottleneck for spatial pattern recognition"
-
-related:
-  - title: "eConnect Presents on Facial Recognition at the Western Indian Gaming Conference 2020"
-    excerpt: "eConnect, Inc., a Las Vegas-based software company which provides hospitality companies with a platform for actionable information, reinforced by video, will be speaking at the Western Indian Gaming Conference and Trade Show."
-    publishedDateTime: 2020-02-10T00:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/02/p15286237/econnect-presents-on-facial-recognition-at-the-western-indian-gaming-conference-2020"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/15286237"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15286237"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 32
 
 secured: "KdhCBxw4q00bysIPYZxrQsf6Aapcl176/M1SW+7WymhM2EMrzpLii8w4UqGau3hDAINOSsXh/tTD2lbx3vS/5XK+Rr0X6/ChF7W92uuc/KDfxymJPMj+GmnG11FhTvseMtJGlPXHAmKwsdIJS7W51X9KbNBGUy8qsttNik2RqmT5aylscjp4HkxM18rj4e05s5nbWoHQCf4x4Hy6u4xVEOC5nWv+c9XBA18ITUnmRiyTSDDHPSnCbddo2UoL51TvXg6HzIdapu//bYyPIK8vWe0+SHZzHEzeYTxJtfbwVZ98mu3TLBTkLLpjkXMlCNYOp2kUr7vSIAFWCNIaqklNKCbdHw5kzZPHoS3THz9Ps4bzSJICsZ1/EJp/iJ5IesEzBR4nLhfbzqLGxyRCtWbysV2/6huBnlcKLTrsBzE1YkAtcIdSC3tvInc+KU87q44PVqBQlDRwHR9eWvIPIdxnO/086ovq+h5c8wdQJemVYmk=;Q3R83JPDvE9MkDiuEd2ImQ=="
 ---

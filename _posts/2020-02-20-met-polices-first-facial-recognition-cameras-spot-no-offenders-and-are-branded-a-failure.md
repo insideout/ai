@@ -8,7 +8,7 @@ ampWebUrl: "https://www.dailymail.co.uk/news/article-8026771/amp/Met-Polices-fac
 cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-8026771/amp/Met-Polices-facial-recognition-cameras-spot-NO-offenders-branded-failure.html"
 type: article
 quality: 65
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -26,6 +26,21 @@ images:
     title: "Met Police's first facial recognition cameras spot NO offenders and are branded a failure"
 
 related:
+  - title: "Controversial face recognition software a 'tool' for Sudbury police, but not yet in use"
+    excerpt: "As Canada's privacy commissioner says he will begin investigating concerns around Clearview AI, police in Sudbury say they have not yet used the controversial face recognition software. The powerful new app can identify a person's name, phone number and even their address by comparing their photo to a database of billions of images scraped from ..."
+    publishedDateTime: 2020-02-24T16:55:00Z
+    webUrl: "https://www.cbc.ca/news/canada/sudbury/sudbury-police-software-1.5472055"
+    ampWebUrl: "https://www.cbc.ca/amp/1.5472055"
+    cdnAmpWebUrl: "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.5472055"
+    type: article
+    provider:
+      name: CBC.ca
+      domain: www.cbc.ca
+    quality: 51
+    images:
+      - url: "https://i.cbc.ca/1.5403918.1581719698!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/china-security.JPG"
+        width: 620
+        height: 349
   - title: "Commentary: How to make Singapore smile for the facial recognition camera"
     excerpt: "SINGAPORE: In Singapore, security cameras watch corridors of housing blocks and student hostels. Cameras detect littering from high-rise buildings, illegal smoking and e-scooters on footpaths. Singaporeans, it seems, are accustomed to being watched for security and safety, and to curb nuisances. Now, it’s increasingly practical to use cameras ..."
     publishedDateTime: 2020-02-23T22:10:00Z
