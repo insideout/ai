@@ -8,7 +8,7 @@ ampWebUrl: "https://punchng.com/fg-to-include-robotics-ai-in-school-curriculum/a
 cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/fg-to-include-robotics-ai-in-school-curriculum/amp/"
 type: article
 quality: 89
-heat: 100
+heat: 110
 published: true
 
 provider:
@@ -41,7 +41,20 @@ related:
       - url: "https://cdn.punchng.com/wp-content/uploads/2019/11/01205241/Chukwuemeka-Nwajiuba.jpg"
         width: 700
         height: 417
+  - title: "UC Irvine School of Law To Integrate Blue J Legal’s AI-Enabled Tax Platform into Curriculum"
+    excerpt: "The partnership intends to teach UCI Law graduate students pursuing a degree in tax law about the best methods for implementing artificial intelligence (AI) into their practice. Blue J’s AI-enabled tax platform is one of the first AI integrations of its kind for both UCI Law and other law schools across the United States. The joint effort ..."
+    publishedDateTime: 2020-02-24T19:45:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200224005081/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 27
+    images:
+      - url: "https://mms.businesswire.com/media/20200224005081/en/775000/23/Blue_J_Logo_final_CMYK.jpg"
+        width: 1200
+        height: 627
 
-secured: "SenPlgREhSpMbnpGmVzXxG05swYq1ct2KvtTHx9RLNlftRC7ftwcgOU2/WNCBmzIy1Pl/Flaa+A3a+Sz7vajxu2QUfGoUwU8Us06vXKXQZ48FkRwtyn71FTxCvSFyHnKVmPoAU1WPUJSsqtk3/C6hxHj/94ErE35AJNebeWWvzJQY8kvWfovK2grzmy9ru79ef2CuRs4sBiw7q3EXrdcZNuQqryyWv9BxwH2FpSqOjGe/MBhA3BlkWVsTz+ZTbbiqXUx1HC3tlEG4d1QMio/5rX354SzIpZOH7u9XOtEpIaWAAE23sQ1sNDTabex+B/q;pEjOlE9D2UMf81Ljppfmjg=="
+secured: "JHxuk5C8B/iMBdHUUzTc5oN2pGwCmjrpwlsYqAmXaKadD544sF0J3cdy6SI39k3jsfaftCGYaVpAlTT8zqiSO4XToJ4eRxwi+65DGcVbAgE2LtdlEX01fbswfT2zJfX68ukPHYRcBIA2PBCvLsRLneyfu8E9wabszeSyIb8iVrGNo6q6dW1JoM9YoKaDZfDGTa50EzCn2Jr3dsx0+10HziQ4O9ODlUMUbmx+GSAkFcSG8ESN+k5cZsMxkSzjdQGldcr2aS1ctj9B2xjNCFX6QZFJWoGSIwijFxRRyaQEETkvQCHr5bCMhYAfzkdhMJsW;P3KVhG1OGQ3Gmwew+YcCUg=="
 ---
 

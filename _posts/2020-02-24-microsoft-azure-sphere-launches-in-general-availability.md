@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-24T09:00:00Z
 webUrl: "https://venturebeat.com/2020/02/24/microsoft-azure-sphere-launches-in-general-availability/"
 type: article
 quality: 99
-heat: 130
+heat: 131
 published: true
 
 provider:
@@ -68,6 +68,6 @@ related:
         width: 600
         height: 600
 
-secured: "AnjhUoah0HrcGhblLb1EibBEDvl86bNocHv6lnRP0pe+E+Q59xSexJ59t/17z0NPTEqCx27/LO/+MyKXdVhvda3sZXPoaZg22VdLy7sKJyLhEiEbKs/Y5x2bWFqEmjYia3J+fwxRQ3vnwT59+AQ/7lXqikaIF55UwxtUWb8sde5TYww6aauh2wVB0JCazK0+fAlvoId2Qr5Hk7tH9fJQAf233Hj7gHYIyT3b3q29UAZrR6F53QFT7vvcedTYVVrskog/RnMF6ufHQUSDd+xVWr/fhCg97iMoNbFc1iLS+tXhT5UXk74yBSi0aylLZvEVQnJntd1EX3eLnMXfpGw20Kq8jAP36TMsUwETiaBq5XtNR5fD9GzkW6RcX1rJU7mGkHUkgKGQzlEH/MeEsFWbBJCq/uX+BJywlm8UlXSGv9vQIwXqW9DQnHx2lu1vHvgJRnG45xmZJ91l7z+HUrPGhq9GeLs1ZES/Qwu8rJL/U9k=;KjK1csKdlLKpP7DTzAUL5A=="
+secured: "YdP5tqO631oPQyuWbaEr0KmOd4kWkwWuF2T+BAxQm2ozUNCOqpvRNUTI+MyuFL/465kLhu2SFudH8fINGKafPTdnyXNDC6QtHS8v5dDiJ+hwtHy3+yPD3zsHq3Vu0TpL8c43c/36mhSew2I92rzAfx5ejFIBrWabbS3eOimQcK49k6fyjRvrT1iQsO4PSkZXsp0QrhGxHdXvhjbctn3dxnqonDV3veCCQBTdujj7U1li0DAxscSXvIb9Dfcy6PiXoRcxnXI0dA3fZjyzX99URoUiO3iT+UdifFfHuAr7v6VhN7yFJ8W+IDoAoUPsI2/V3GrEgRpebFAUe4EwEiVdbpsZFqdXX4lVsb+oOecSxGzMxgP33ZRsIDnrHhudn47/OZEmOY80MC71XAaTU5FAqV6caYm2BXxJ4y1/9uriu+h2v51hRdL/oPeHjK/oKlbuxprFioT/sZBxqZqHbD4CA3yYyuxRc86d/BiB2C/z4vo=;EZjDSA9BSEVBj/hBILJBrA=="
 ---
 

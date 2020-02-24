@@ -7,8 +7,8 @@ webUrl: "https://www.theregister.co.uk/2020/02/24/ai_roundup_210220/"
 ampWebUrl: "https://www.theregister.co.uk/AMP/2020/02/24/ai_roundup_210220/"
 cdnAmpWebUrl: "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/02/24/ai_roundup_210220/"
 type: article
-quality: 39
-heat: 39
+quality: 22
+heat: 22
 published: false
 
 provider:
@@ -18,14 +18,13 @@ provider:
 topics:
   - AI
   - Machine Learning
-  - Computer Vision
 
 images:
-  - url: "https://regmedia.co.uk/2016/05/13/gg2b_mpu.png"
-    width: 300
-    height: 250
+  - url: "https://regmedia.co.uk/2020/02/22/facial_recognition.jpg"
+    width: 1000
+    height: 527
     title: "Google gets woke on gender in Vision API, Amazon happy to sell its facial recognition code to foreigners, and more"
 
-secured: "Jk79BdVBIHn4+jvZbvLKrr6IWd1+jkildeCPCzQH7MwWmdw8NBA6xDlkyb3qzOThZMY27sHyplvPLVEyy8AaArp/OpIw2VswU/stgF2YNZxFmYdDygZAWzXaan3VQGTNquLrD8YgkkYez2aY5aR8eoVO5nZB1GGzloMJEdFgqvECHG5hi4+UYdh5sltzZbu8yzgMgY8S4XznXu+MObM1c/1O9AD9d+h3QxS8qSlpAk39dLA+0lzXRfPYvCQdozDaO2dT9w7UrgEi8WPLWRcgfvuLblWuy4QlA7aWH8jyK7xERQ52vzpxYi4dcYsntNnc;v8in+BKXiKz0l0Bn1vyFrQ=="
+secured: "iFv9TQol6ypqvQzG2eQMv/EwbeLpnzRoUTFDF3eWwQZZpSd4oIRZqdmbcEB6zWtr/HOO/jEgQPJpeGOwNdOtThTO3ZI7VCxxNHMjjjhhkz4sA+g31v60mSbHJa9Jn8imNXeuFoTWDJgn89mNemig6PHCuDRv4qSIJxFuVf8hAuNW97xGeNGusm43ug/HeyiCJkvKOhpNh4rJFvilI94KMmhh/vnu778F/5Janv3vg3c2cvY+Codxebqh0pTXO09kpEUiN/qrQa/1uZyOu7cJF1BFU/08jCuw8viXyumnEO+V/HjW5NPd9Ipt6IZ+wLP9;kVby2hsOKEAA5PW3j9eVaQ=="
 ---
 

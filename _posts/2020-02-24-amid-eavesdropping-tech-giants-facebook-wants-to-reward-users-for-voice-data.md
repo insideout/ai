@@ -329,6 +329,21 @@ related:
       - url: "https://images.axios.com/V5g3DwWwcHd9GOG3xrFQxp-3PcE=/2020/02/22/1582389772887.jpg"
         width: 3000
         height: 2000
+  - title: "Facebook will now pay select users to share their voice recordings"
+    excerpt: "(AP Photo/Richard Drew, File) (NEWS10) — The social networking company, Facebook announced they will pay users to record phrases to improve their voice recognition technology. The name of the compensation-based survey is called “Pronunciations” and it comes after reports that Facebook was caught listening to and transcribing some users ..."
+    publishedDateTime: 2020-02-24T12:32:00Z
+    webUrl: "https://www.news10.com/news/facebook-will-now-pay-select-users-to-share-their-voice-recordings/"
+    ampWebUrl: "https://www.news10.com/news/facebook-will-now-pay-select-users-to-share-their-voice-recordings/amp/"
+    cdnAmpWebUrl: "https://www-news10-com.cdn.ampproject.org/c/s/www.news10.com/news/facebook-will-now-pay-select-users-to-share-their-voice-recordings/amp/"
+    type: article
+    provider:
+      name: WTEN
+      domain: news10.com
+    quality: 44
+    images:
+      - url: "https://www.news10.com/wp-content/uploads/sites/64/2019/12/6e7454d3c5664eb3b6dd0abd53a8b812.jpg?w=1280&h=720&crop=1"
+        width: 1280
+        height: 720
   - title: "Hashtag Trending- Facebook pays for your data; AI finds new antibiotic; Instagram Music comes to Canada"
     excerpt: "MIT discovered a new potent antibiotic compound using AI, and Instagram Music has finally come to Canada. Thank you for tuning into Hashtag Trending, it’s Monday, February 24th, and I’m your host, Tom Li. Trending on Google, Facebook will now pay money to improve its voice recognition data. Through Viewpoints, Facebook’s research app ..."
     publishedDateTime: 2020-02-24T14:56:00Z
@@ -519,6 +534,6 @@ related:
       domain: knowtechie.com
     quality: 0
 
-secured: "jq/bMzeIYyB5ZLXAyTTNy5VpqF7ENQFVy76upH+q9WRGzSmnKwMu9VOoSB6tTvIinciIXc+tgDrJ4he1MyaNwwnyTQ/N8Mi5AM8z+i2hu73bub+H0jyVSJIrpqTvmL1OjDH2P2KXrBqITpmLOycw2A52oerSnwrKknfjWCG4oGKlouo/VX410M6aua9SPVrRs35PlX3+iBFTuxo46uDp8fL4gAOczPG/bZbrN92C5iRogXmvBJgDsfQnm8jr2G2YWMFm76Q9gN+UoKaAaRH621HuCRppfa0poKmwtkFUQXrZNKLpb0UKGcf+op0+P/LJ;bq26Q3xF//T3hiRgt6ezkA=="
+secured: "G3OsSgs5ahuovKGh7gRkxZ588oWHuqRKwidkK9bid2RgNCVmRaDRkP5nJSVknRoHXDOKnsRJg2uLiTcbqtVeE+dNPzOlMqbETbB3Z8e4EwkEtWnOq7Hidqy4befKJrpgBXizEl4C8lOsWl+fT+Ub0h4uP+YALD4UbRwQrrT/NQFj0ULaMvlOuSLluozfuv8K/gminogcUYGcPxUnoKUaNegS28xByDGiB44IMbF/hLZEGbgtHwJxT/wd8PuxsmEALtbBDwII+ihNsIojSQ2wsX52gTB8KYtly5xRs1biDGA73oRQ6A/8TTo07nVjgFLD0zJkEdMxIW8dpfxzdvU0ZCDx2W7ZHT7tAuFJ6jYorBHFU9CpsuFb/6fE7XW4p1SamDup/EN5QMz22U5MBBkDcylIM5DVgHkqqNquuAQ+5zW6X37T6oJbVzhDtR1cVGB1xf4V8e8qITR90+yXQrn5canpVFiXSBPdQCdkGBY6d08=;tLZUge9z/0wPVj+R2Q7coA=="
 ---
 

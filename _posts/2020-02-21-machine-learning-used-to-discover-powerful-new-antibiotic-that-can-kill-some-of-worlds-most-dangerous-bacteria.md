@@ -105,6 +105,21 @@ related:
       - url: "https://i.guim.co.uk/img/media/5ad9424c30e580fdc638c52ef7cd200e61ad6e07/363_670_3568_2141/master/3568.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0b80c4e4b7fb6e665ef4567b4a989f87"
         width: 600
         height: 360
+  - title: "AI May Help Speed Up Drug Discovery, Fight Antibiotic Resistant Bacteria"
+    excerpt: "The compound, Halicin, works by killing bacteria's ability to maintain the electrochemical gradient necessary to produce energy-storing molecules."
+    publishedDateTime: 2020-02-24T12:38:00Z
+    webUrl: "https://www.ibtimes.com/ai-may-help-speed-drug-discovery-fight-antibiotic-resistant-bacteria-2927851"
+    ampWebUrl: "https://www.ibtimes.com/ai-may-help-speed-drug-discovery-fight-antibiotic-resistant-bacteria-2927851?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/ai-may-help-speed-drug-discovery-fight-antibiotic-resistant-bacteria-2927851?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 56
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/02/24/ecoli.jpg"
+        width: 800
+        height: 563
   - title: "Medical Breakthrough: Deep Learning Ai Discovers Surprising New Antibiotics"
     excerpt: "Deep learning AI can recognize individual faces. The same technology is being adapted to recognize potential antibiotics."
     publishedDateTime: 2020-02-20T20:15:00Z

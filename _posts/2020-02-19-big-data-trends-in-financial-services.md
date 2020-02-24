@@ -43,6 +43,21 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e4edaa7de40290007718aea%2F0x0.jpg"
         width: 1200
         height: 582
+  - title: "Innovation Contests Offer Financial Services Firms Access to Game-Changing FinTech"
+    excerpt: "A blockchain ledger for farmers, a microloan platform for healthcare expenses, and a credit card that offers rebates in Bitcoin are just a few fintech innovations developed by the female entrepreneurs who made it to the finals of Quesnay’s Female Founders in FinTech innovation competition earlier this month."
+    publishedDateTime: 2020-02-24T14:05:00Z
+    webUrl: "https://www.nasdaq.com/articles/innovation-contests-offer-financial-services-firms-access-to-game-changing-fintech-2020-02"
+    ampWebUrl: "https://www.nasdaq.com/articles/innovation-contests-offer-financial-services-firms-access-to-game-changing-fintech-2020-02?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/innovation-contests-offer-financial-services-firms-access-to-game-changing-fintech-2020-02?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 68
+    images:
+      - url: "https://www.nasdaq.com/sites/acquia.prod/files/2019-06/FinancialTechTexture_3.jpeg"
+        width: 3000
+        height: 1607
 
 secured: "VcV1Nu99WxbrCn4mm8CuvD4KFEwCnvdr6jobAiQi90dlXYxx+wKMGRdTckBxwCcT12c256VSmf9tGcSF/d2vkh0xy3CojN77SvtbRRMICDfE8q0Y1DAAzVfjAHe1rGxwZZ2RaJ8RH6wryX/B/0w4RK09KGcpXOkYPMFKSY99nYETZm0CgKELiHbvKQySbF+HgaJCZY8A0Ia8/Y+H4X0uFJPDItHWcAcpkqSM6CEK5oopmWOUND2hohcO3gcbXRSBwhji2+ojDOIEOidGYyPQ/8SnMaXaunc9vG3ldhGD3yXMAkYxUPS0vkWsrFxxvNHx;t9Bua8gFHpkA3zpRfF065w=="
 ---

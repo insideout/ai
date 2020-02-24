@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2020/02/24/oracle-cloud-in
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/02/24/oracle-cloud-infrastructure-finally-gets-data-science-and-ml-services/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 365
     title: "Oracle Cloud Infrastructure Finally Gets Data Science And ML Services"
 
-secured: "8EZ1pFRmK/XukgVQlp1oqOCkb8+FWqNieZoOKFfBHZF9EqhLswsgMRCHtGs+XtUwb5haHtKKxFosUUMKGj2NNl9d3njRfVgYtv9tOAb8kGD4oAmgYMU6j95ylT/tkrfOJhdH372VQkWrBQOr0sOt9932SOWohmfGgKlpB3KEjp1Z31l3vvPT+bMUrkyw584/5lYWrs5RFb/JXiZUhIueQ/By9DDJFTXNm35Kt76vXinpcNfI3h+/cSX+9LNa2pFOG+wGD9TMrMQlT6ZDrUniDREO35OcjrAnD71UW4T2I9alMjwzwgWvKUVDUlcFNq3ZjvIQ5e6nitT7cpQMYNZMZQ7uF7A8owzfcT1OLRvvOYmXO1EeWYEIA4plyKL9qo8esFHsGDoW7LEAy0+FY7ARwlogycRW2zyTB3KxL8lMaEvJ4nqs+FTwV3lOzDzdVz9nInYkjv06FfYHqu4JdTw10P4xhbOZV22TFd1A2Ty3QwA=;+ODu7xppB1QMCOXi3w7HvQ=="
+secured: "rcyNYGrnOHA9mxHg6OCbS3FT2rn396bYhCBEKiQ68eBHwLQPelnoV8dVIK5/+sKQlJ25UacWWcVry/0PauM+fXB865ImHj6kPIO1SAt6F7iCFxktiMfqJkqD8IOE3aM8rh8yLOg1gpfE0ucEKgcg/O7+c+mo0eHt+kMBD6TIlfc0ygUuseMJKfdSL89Vl1dI8LTufhswvTzb4QD/9fzvSqBsVIqn4LFtZ7Y6ItpUJRNzXZtum9Q4jFpmUmlmPZ/SsHNwSsjGPPmMBFuewc1XpFGRpVuDbChTryx9VKc6vcjRhfElCjZQa8rwA4dUDBlFf7VvDTVwAHb/5Bwr9R8ztmDzPQOCCghFnI5kVpWr0CelnM25U6Ztazr8UeIMo9+MyL+ry3uVmXibAQeRnDvr5alEu3uPjJaMihXF6bN4SV1mK+d+fpW5Z8NAa7173ztkbdnRgyDIrkXpmaHA9gc/MLDXdyDl4+h5OH4lOT9/m90=;V2IK65es3olTE7bU1ep/Vg=="
 ---
 

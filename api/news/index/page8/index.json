@@ -2,88 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_posts/2020-02-24-ai-in-marketing-is-only-as-good-as-the-human-behind-it.md",
-      "title": "AI In Marketing Is Only As Good As The Human Behind It",
-      "excerpt": "While AI might change some day-to-day tasks for marketers, we believe that it will actually improve their jobs, not take them over.",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/24/ai-in-marketing-is-only-as-good-as-the-human-behind-it/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/24/ai-in-marketing-is-only-as-good-as-the-human-behind-it/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/24/ai-in-marketing-is-only-as-good-as-the-human-behind-it/amp/",
-      "publishedDateTime": "2020-02-24T09:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x494/https://specials-images.forbesimg.com/dam/imageserve/1079012838/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 494,
-          "title": "AI In Marketing Is Only As Good As The Human Behind It",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-24-applications-of-photodetectors-in-robotics.md",
-      "title": "Applications of Photodetectors in Robotics",
-      "excerpt": "For now, security robots aren’t able to adequately replace a human security guard ... In 2017, the US Department of Defense launched Project Maven, an initiative to leverage artificial intelligence to classify and analyze massive amounts of surveillance video. The project has been working on AI software that can flag people, vehicles ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.azorobotics.com/Article.aspx?ArticleID=345",
-      "ampWebUrl": "https://www.azorobotics.com/amp/article.aspx?ArticleID=345",
-      "cdnAmpWebUrl": "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/article.aspx?ArticleID=345",
-      "publishedDateTime": "2020-02-24T07:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Azorobotics",
-        "domain": "azorobotics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.azorobotics.com/images/Article_Images/ImageForArticle_345_15825385749239338.png",
-          "width": 950,
-          "height": 713,
-          "title": "Applications of Photodetectors in Robotics",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_posts/2020-02-24-choosing-between-rule-based-bots-and-ai-bots.md",
       "title": "Choosing Between Rule-Based Bots And AI Bots",
       "excerpt": "Chatbot success stories are inspiring companies to adopt bots for customer service purposes. However, the main question to be considered before adopting bots is whether to go with rule-based bots or AI bots.",
@@ -213,7 +131,7 @@
       "path": "_posts/2020-02-24-fg-to-include-robotics-ai-in-school-curriculum.md",
       "title": "FG to include robotics, AI in school curriculum",
       "excerpt": "The Federal Ministry of Education has said it will work on the inclusion of coding, robotics and artificial intelligence in the country’s school curricula so as to take pupils to the 21st Century technology and educational standards. The Minister of State for Education, Chukwuemeka Nwajiuba, stated this in Abuja at the 2019/2020 Nigeria ...",
-      "heat": 100,
+      "heat": 110,
       "tags": null,
       "type": "article",
       "webUrl": "https://punchng.com/fg-to-include-robotics-ai-in-school-curriculum/",
@@ -244,6 +162,96 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-24-fintech-the-personal-stories-of-the-money-hackers-who-have-changed-finance.md",
+      "title": "Fintech — The Personal Stories Of The Money Hackers Who Have Changed Finance",
+      "excerpt": "Dan Simon has written a book about the people who created the technology firms that have been changing finance, such as Venmo and Braintree, Credit Karma, Lending Club, Kabbage, Yodlee, Clarity Money and Betterment.",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/tomgroenfeldt/2020/02/24/fintech---the-personal-stories-of-the-money-hackers-who-have-changed-finance/",
+      "ampWebUrl": "https://www.forbes.com/sites/tomgroenfeldt/2020/02/24/fintech---the-personal-stories-of-the-money-hackers-who-have-changed-finance/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomgroenfeldt/2020/02/24/fintech---the-personal-stories-of-the-money-hackers-who-have-changed-finance/amp/",
+      "publishedDateTime": "2020-02-24T11:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e53e07ad378190007f42478%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1283%26cropY1%3D228%26cropY2%3D950",
+          "width": 1200,
+          "height": 676,
+          "title": "Fintech — The Personal Stories Of The Money Hackers Who Have Changed Finance",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-24-global-automatic-speech-recognition-software-market-innovations-and-top-companies-forecast-to-2029-baidu-google-and-facebook.md",
+      "title": "Global Automatic Speech Recognition Software Market Innovations, And Top Companies - Forecast To 2029| Baidu, Google and Facebook",
+      "excerpt": "Global Automatic Speech Recognition Software Market (Revenue and Volume), Type, Application, End-User, and Regional Analysis, Import-Export Analysis, Industry Analysis, Premium Insights, Intellectual Property Analysis,",
+      "heat": 105,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/global-automatic-speech-recognition-software-market-innovations-and-top-companies---forecast-to-2029-baidu-google-and-facebook-2020-02-24",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-24T04:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Global Automatic Speech Recognition Software Market Innovations, And Top Companies - Forecast To 2029| Baidu, Google and Facebook",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -339,7 +347,7 @@
       "path": "_posts/2020-02-24-microsoft-azure-sphere-launches-in-general-availability.md",
       "title": "Microsoft Azure Sphere launches in general availability",
       "excerpt": "As for brownfield, it calls for an Azure Sphere “guardian” device — the bulk of which are produced by Avnet and AI-Link — to connect existing hardware to the internet. Azure Sphere hardware is available in several configurations, including Wi-Fi modules, development kits and dev boards (from partners like Seeed Studios and USI), and the ...",
-      "heat": 130,
+      "heat": 131,
       "tags": null,
       "type": "article",
       "webUrl": "https://venturebeat.com/2020/02/24/microsoft-azure-sphere-launches-in-general-availability/",
@@ -384,7 +392,7 @@
       "path": "_posts/2020-02-24-mit-csails-radars-map-hidden-features-to-help-driverless-cars-navigate-snowy-terrain.md",
       "title": "MIT CSAIL’s radars map hidden features to help driverless cars navigate snowy terrain",
       "excerpt": "Plus, bad weather has a tendency to obscure road signage and structures that normally serve as navigational landmarks. Fortunately, researchers at MIT’s Computer Science and Artificial Intelligence Laboratory and Lincoln Laboratory are on the case. In a paper that will be published in the journal IEEE Robotics and Automation Letters later ...",
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "type": "article",
       "webUrl": "https://venturebeat.com/2020/02/23/mit-csails-ground-penetrating-radars-map-underground-features-to-help-driverless-cars-navigate-snowy-terrain/",
@@ -429,7 +437,7 @@
       "path": "_posts/2020-02-24-oracle-cloud-infrastructure-finally-gets-data-science-and-ml-services.md",
       "title": "Oracle Cloud Infrastructure Finally Gets Data Science And ML Services",
       "excerpt": "Even though Oracle is late to the ML PaaS party, it has unique capabilities in the form of AutoML integration with the data warehouse, model explainability, and comprehensive model management.",
-      "heat": 89,
+      "heat": 90,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.forbes.com/sites/janakirammsv/2020/02/24/oracle-cloud-infrastructure-finally-gets-data-science-and-ml-services/",
@@ -548,6 +556,50 @@
           "width": 785,
           "height": 545,
           "title": "SoftBank leads $265 million investments in two U.S.-based start-ups",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-24-the-future-of-customer-service-isnt-as-simple-as-ai-or-human.md",
+      "title": "The Future Of Customer Service Isn't As Simple As AI Or Human",
+      "excerpt": "Business leaders who wish to bring AI-human collaboration to life in their customer service organizations need only ask themselves a few key questions to get started.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/24/the-future-of-customer-service-isnt-as-simple-as-ai-or-human/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/24/the-future-of-customer-service-isnt-as-simple-as-ai-or-human/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/24/the-future-of-customer-service-isnt-as-simple-as-ai-or-human/amp/",
+      "publishedDateTime": "2020-02-24T09:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x493/https://specials-images.forbesimg.com/dam/imageserve/545163603/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 493,
+          "title": "The Future Of Customer Service Isn't As Simple As AI Or Human",
           "attribution": null
         }
       ],
@@ -2045,51 +2097,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2019-12-27-tesla-patents-data-pipeline-and-deep-learning-system-for-autonomous-driving.md",
-      "title": "Tesla patents data pipeline and deep learning system for autonomous driving",
-      "excerpt": "As Tesla is working toward deploying an autonomous driving system as soon as next year, the automaker is patenting a data pipeline and deep learning system that could help them develop it faster. The system has been revealed in a new patent application by ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://electrek.co/2019/12/27/tesla-patents-data-pipeline-deep-learning-autonomous-driving/",
-      "ampWebUrl": "https://electrek.co/2019/12/27/tesla-patents-data-pipeline-deep-learning-autonomous-driving/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2019/12/27/tesla-patents-data-pipeline-deep-learning-autonomous-driving/amp/",
-      "publishedDateTime": "2019-12-27T13:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://electrek.co/wp-content/uploads/sites/3/2019/10/Tesla-Autopilot-hero-4-e1570845324247.jpg?quality=82&strip=all&w=1000",
-          "width": 1000,
-          "height": 500,
-          "title": "Tesla patents data pipeline and deep learning system for autonomous driving",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

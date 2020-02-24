@@ -2,6 +2,50 @@
   "page": 20,
   "value": [
     {
+      "path": "_posts/_archive/2020-01-28-launch-your-product-at-transform-2020-the-ai-event-for-enterprise-decision-makers.md",
+      "title": "Launch your product at Transform 2020 — The AI event for enterprise decision makers",
+      "excerpt": "VentureBeat’s Tech Showcase is back at Transform 2020: Accelerating your business with AI, July 15-16 in San Francisco. We’re on the lookout for disruptive AI companies of all sizes that are ready to present their tech on the main stage. Those selected to present will do so in front of hundreds of industry decision makers. Every presenter ...",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/28/launch-your-product-at-transform-2020/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/28/launch-your-product-at-transform-2020/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/28/launch-your-product-at-transform-2020/amp/",
+      "publishedDateTime": "2020-01-28T15:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/ShowcasePic-1.jpg?fit=2000%2C925&strip=all",
+          "width": 2000,
+          "height": 925,
+          "title": "Launch your product at Transform 2020 — The AI event for enterprise decision makers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-28-meena-is-googles-attempt-at-making-true-conversational-ai.md",
       "title": "Meena is Google’s attempt at making true conversational AI",
       "excerpt": "Conversational AI is a catch-all term for natural language models for artificial intelligence that can interpret human words, speak to people, or carry out tasks or computation with natural language. But talk to any of the best-known AI assistants today — Alexa, Siri, Google Assistant — and they’re not exactly conversational. They can ...",
@@ -2071,50 +2115,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-29-looking-to-train-algorithms-enforce-ethical-ai-then-theres-an-ai-job-for-you.md",
-      "title": "Looking To Train Algorithms? Enforce Ethical AI? Then There's An AI Job For You",
-      "excerpt": "Here are some of the current AI-related roles that exist today and will increasingly be in demand over the next few years.",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/29/looking-to-train-algorithms-enforce-ethical-ai-then-theres-an-ai-job-for-you/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/29/looking-to-train-algorithms-enforce-ethical-ai-then-theres-an-ai-job-for-you/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/29/looking-to-train-algorithms-enforce-ethical-ai-then-theres-an-ai-job-for-you/amp/",
-      "publishedDateTime": "2020-01-29T04:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1053499704/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 474,
-          "title": "Looking To Train Algorithms? Enforce Ethical AI? Then There's An AI Job For You",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

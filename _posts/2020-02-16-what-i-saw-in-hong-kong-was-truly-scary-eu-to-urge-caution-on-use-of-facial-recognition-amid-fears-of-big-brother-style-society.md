@@ -39,21 +39,6 @@ related:
       - url: "https://www.fedscoop.com/wp-content/uploads/2020/02/GettyImages-1167845607.jpg"
         width: 2309
         height: 1299
-  - title: "Is this facial recognition app going too far? We tested it"
-    excerpt: "Hoan Ton-That's app, Clearview AI, has triggered fears about facial recognition — and the dystopian future it could foreshadow. CNN Business' Donie O'Sullivan sits down with the CEO to talk about questions of legality,"
-    publishedDateTime: 2020-02-10T02:12:00Z
-    webUrl: "https://www.cnn.com/videos/business/2020/02/10/clearview-ai-facial-recognition-orig.cnn-business"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/business/2020/02/10/clearview-ai-facial-recognition-orig.cnn-business"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2020/02/10/clearview-ai-facial-recognition-orig.cnn-business"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 89
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200207150324-05-clearview-hoan-ton-that-super-tease.jpg"
-        width: 1100
-        height: 619
   - title: "Met Police rolls out live facial recognition in London"
     excerpt: "This is the Met Police’s first live deployment of facial recognition technology in London, following 10 trials around the city since 2016 and months of public debate about the use of the controversial biometric software on the public. The rollout comes in the wake of similar deployments in countries including China, Brazil, India and Wales."
     publishedDateTime: 2020-02-12T04:00:00Z
@@ -97,19 +82,6 @@ related:
       - url: "https://i.insider.com/5806c115c52402c3008b54aa?width=1200&format=jpeg"
         width: 1200
         height: 600
-  - title: "Despite public concerns, facial recognition gets traction in Congress"
-    excerpt: "Opposition to the use of facial recognition and other biometric identity systems by the federal government and private sector has been slowly growing as the public learns more about such programs' scope and application. Some in Congress are calling for a moratorium on the government's use of the technology, but programs used by the Department ..."
-    publishedDateTime: 2020-02-10T01:59:00Z
-    webUrl: "https://fcw.com/articles/2020/02/09/congress-facial-recognition.aspx?admgarea=TC_Agencies"
-    type: article
-    provider:
-      name: Federal Computer Week
-      domain: fcw.com
-    quality: 39
-    images:
-      - url: "https://fcw.com/-/media/GIG/EDIT_SHARED/Identity/facialrecognitiondatabase.png"
-        width: 760
-        height: 368
 
 secured: "sHfQOU2CA43hBGxY+powPXARvRqSBvL0drewBJhPTJkiaeuyBVAFfPzmgkbRl6EN96n9NBLf6JzvOoK0yZfXpwA14Dco4hoouVSxPKLDDOJtFobpNIwmaiqnA+H7YuXtgssl5cFB4muCl2G89oMYQR55KIAj/VqDDB5bV4O42HNss9ZO74ZiV2wwDVSKumn3PMhtgab3HSty9maq8q01C60ZQLsy9P6vQPY13qbXKWmVnlo7Bs4Zx1hWg7KeCsUCdSpuErk7WyvfoVmGJorUAnKjRAuvqN1/OqALc7xR9Av18wCjwQgu4h/Wpg+oyBc5;YCKSuhytE1CojFxxWLJrNA=="
 ---

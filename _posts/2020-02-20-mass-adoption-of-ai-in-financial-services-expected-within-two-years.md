@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2020/02/20/mass-adoption
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/02/20/mass-adoption-of-ai-in-financial-services-expected-within-two-years/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -30,6 +30,21 @@ images:
     title: "Mass Adoption Of AI In Financial Services Expected Within Two Years"
 
 related:
+  - title: "Innovation Contests Offer Financial Services Firms Access to Game-Changing FinTech"
+    excerpt: "A blockchain ledger for farmers, a microloan platform for healthcare expenses, and a credit card that offers rebates in Bitcoin are just a few fintech innovations developed by the female entrepreneurs who made it to the finals of Quesnay’s Female Founders in FinTech innovation competition earlier this month."
+    publishedDateTime: 2020-02-24T14:05:00Z
+    webUrl: "https://www.nasdaq.com/articles/innovation-contests-offer-financial-services-firms-access-to-game-changing-fintech-2020-02"
+    ampWebUrl: "https://www.nasdaq.com/articles/innovation-contests-offer-financial-services-firms-access-to-game-changing-fintech-2020-02?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/innovation-contests-offer-financial-services-firms-access-to-game-changing-fintech-2020-02?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 68
+    images:
+      - url: "https://www.nasdaq.com/sites/acquia.prod/files/2019-06/FinancialTechTexture_3.jpeg"
+        width: 3000
+        height: 1607
   - title: "Big Data Trends in Financial Services"
     excerpt: "Humans are creating data at an exponential rate. In fact, 90% of the data in the world has been created in the past 2 years according to a 2015 IBM study. In the same study, it was estimated that we create 2."
     publishedDateTime: 2020-02-19T13:04:00Z

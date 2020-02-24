@@ -42,6 +42,6 @@ related:
       domain: business2community.com
     quality: 52
 
-secured: "3cLsXJYkaPZfUkp3raHDTLhpnqdq+wzZMqLrnB4fCPhS2KCnVklLag1Y6F8swW0aU4AzMw8MgxL6zykmWH+Spfj0gZXe9yLtvUn8GPt9Sb18HVKY/Akb6Q5smUBLZ9xxXbN31WngyZTsSrOHQiCvBMZ8eXb8lX0+A6aH4CwxEaaCjcTdw1QkUc2rJkTytankWMTbMu826cEFj1nNSWkLozDHLueKcX/0XApdxsmXKcM/RmuQyt1UMks79T/KPN7DNTr1CCZEZO6o4nwbw6iZLZ8f1x/8W48dZErS95kD0fUnADYTSq/HYohxnekiNNME;nCvTLv+fCwelYrtUb9DZtA=="
+secured: "JAzK/G5fcUU4xsxPdsECrTTYLMAAZxxVUROrimGgd3Gsc1/lee7EaJXYNtE++/+d20R33rQ+WY+Cpei6bFPKxdtRa5D/ifDY/HAUIdrjgnTL4+VzhFnufD86JheXjYGcYadddEkpTkTMkFg+d21fZSalQKCdnQirbB0dzK1g3cP0r/Gq28MgnRDKXhQunIFV6UdgkOmv2P2+S/0vqbLsIbYmsmwInsvky+AkYWp9O+f/46ityOrIGgfvlBmteZ+27rWA1H0TfVJXVbYuwCRJ6XN8tt9F2r+denAR5H3lsx53u1oXYC7vqcJHU6Fr1Y2FWnfx9+yKll04uikHKrTdHdRA9iuePrNQNsLClugldddVUCELEyxR3jwKKJKizNxXvEt7GiI0Pi3s+nNpv8cuBpXjP5px/qqngTqThZ/VqO5HDNwp59ItZLoCwqFnUZyUbMZ18nPAkKw/Pb72Dp4kxA4mkHmZl/6S37J5KqK/tvk=;Q7z/l6cyrWSB3iBommw+DA=="
 ---
 

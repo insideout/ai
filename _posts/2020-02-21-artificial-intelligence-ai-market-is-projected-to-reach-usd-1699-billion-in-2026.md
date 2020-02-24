@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-21T18:00:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-is-projected-to-reach-usd-1699-billion-in-2026-2020-02-21"
 type: article
 quality: 84
-heat: 174
+heat: 184
 published: true
 
 provider:
@@ -53,6 +53,19 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Image Recognition Market Size is Expected to Exhibit USD 81.88 billion by 2026"
+    excerpt: "The global image recognition market was worth USD 20.19 billion in 2018 and will exhibit a CAGR of 19.6% during the forecast period, till 2026 The global image recognition market size is projected to reach USD 81."
+    publishedDateTime: 2020-02-24T12:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-size-is-expected-to-exhibit-usd-8188-billion-by-2026-2020-02-24?mod=mw_quote_news"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -1,28 +1,25 @@
 ---
 category: news
 title: "The War Against Artificial Intelligence And Mass Unemployment - Do 'Nootropic' Brain Supplements Hold The Answer?"
-excerpt: "And Yes, our fridges can order the grocery's. But what are the consequences of allowing artificial intelligence to take over more and more of our lives? And how can we keep up with the change? \"There certainly will be job disruption. Because what's going to happen is robots will be able to do everything better than us... I mean all of us.\""
+excerpt: "NEW YORK, Feb. 19, 2020 /PRNewswire-PRWeb/ -- \"Artificial intelligence will soon leave people displaced and needing to find a new way to put food on the table and it will likely be you.\" - Archie Marks,"
 publishedDateTime: 2020-02-19T10:00:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/the-war-against-artificial-intelligence-and-mass-unemployment-do-nootropic-brain-supplements-hold-the-answer-1028917769"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/the-war-against-artificial-intelligence-and-mass-unemployment-do-nootropic-brain-supplements-hold-the-answer-1028917769"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/the-war-against-artificial-intelligence-and-mass-unemployment-do-nootropic-brain-supplements-hold-the-answer-1028917769"
+webUrl: "https://www.benzinga.com/pressreleases/20/02/n15362033/the-war-against-artificial-intelligence-and-mass-unemployment-do-nootropic-brain-supplements-hold-"
+ampWebUrl: "https://amp.benzinga.com/amp/content/15362033"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15362033"
 type: article
-quality: 63
-heat: 63
+quality: 35
+heat: 35
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
   - AI in Robotics
+  - AI in Autos
 
-secured: "dV480RS4Ejn5b3ws4SJ5J7BWjaCGPaNga1SIuREsHJfjFn1HilYuCntCVEurlVOQAxdFR3aQ4VgKRdgk2S7SylXkfCiLKZjaO650oK/518TSfPC0swXsjxTi0h9VW2RSdVBdcLP1DG62fwspQHlBb1tz9xfR/u+V09klj+dDgKeJsE5daFH5+NRpwpqJ2PVF79Ti18L+eXocYpsVq1pKbKi/xeTMBTZTY54VI593PcNZtxq5iq3lFumIZ+qU+j8qc9RD2EG2DbstP6/pXmmJgUPLy+WCGG2ChXu1KRK2U3HBly9RDqotj+I/G60++xcT;518cAjI6aHLa7UIiHOg7zg=="
+secured: "JFZctNQLTVWeA/CaZ4VyUPoxB/UWi3KYkQbONV2e/fzTSMQOw5rWs+GbzCUEqkWXY6cqh7sS+W5x6u0meuKRji0ahPiE1kgr+bePAlWYVvwJVpd+v8RjDYkysbPiHGZxfgJm9oM6vDarBjHcr+dpktyoKUN/TIUHmbmZkz13Auk3EdMxIYpn0QUr4TacOfknWiMqJnV4tcEGKjE5+fALqXa34ZOyR7qjqeQ8nXTKkvoHIwTJAJYU3J+SKkNUF1DrJy2t9RQ/2Kr1ix577qSRgNGiQsJhdkZB6YevphV3iqvmPjNgCeRkC6bGjyIMvMKE;eeWjDtL2jcesYgfGu+lI2w=="
 ---
 

@@ -60,6 +60,34 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e505188765d4500072ce883%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3840%26cropY1%3D0%26cropY2%3D2160"
         width: 1200
         height: 675
+  - title: "The top 5 technologies that will change health care over the next decade"
+    excerpt: "Dr. Beralan Mesko, aka The Medical Futurist, says with advancements in exoskeleton technology, AI’s ever-increasing importance in health care,"
+    publishedDateTime: 2020-02-24T14:48:00Z
+    webUrl: "https://www.marketwatch.com/story/the-top-5-technologies-that-will-change-health-care-over-the-next-decade-2020-02-24?link=MW_latest_news"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/guid/626A6AC2-5713-11EA-BF64-5AC3A6D77C0D"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/guid/626A6AC2-5713-11EA-BF64-5AC3A6D77C0D"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 75
+    images:
+      - url: "https://s.marketwatch.com/public/resources/images/MW-IA016_0220_b_ZH_20200210155254.jpg"
+        width: 890
+        height: 501
+  - title: "3 ways AI is transforming the insurance industry"
+    excerpt: "Natural language processing, the science of helping computers understand and draw value from unstructured text, is a hot area of research and has seen tremendous progress in recent years. The insurance sector, which is laden with textual data, has benefitted immensely from advances in NLP. Insurers have been able to leverage language models to ..."
+    publishedDateTime: 2020-02-24T19:54:00Z
+    webUrl: "https://thenextweb.com/growth-quarters/2020/02/24/3-ways-ai-is-transforming-the-insurance-industry/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 69
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/growth-quarters?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2020%2F02%2FUntitled-design-6.jpg&signature=ed8ea774369febe805bd7544cb4a3eee"
+        width: 1200
+        height: 600
   - title: "AI in healthcare: 5 big updates in the past 60 days"
     excerpt: "Artificial intelligence is making its way into the healthcare space, with big tech partnerships and investments leading the way. Here are five AI updates from around the healthcare industry. 1. Microsoft launched its $40 million AI for Health initiative on ..."
     publishedDateTime: 2020-02-18T17:53:00Z
@@ -140,6 +168,19 @@ related:
       - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/02/Top-AI-Ted-Talks-to-Watch-for-Acquiring-Better-Technology-Outlook.png"
         width: 1640
         height: 860
+  - title: "The Health 202: Artificial intelligence use is growing in the U.S. health-care system"
+    excerpt: "The use of artificial intelligence is proliferating in American health care — outpacing the development of government regulation. From diagnosing patients to policing drug theft in hospitals, AI has crept into nearly every facet of the health-care system, eclipsing the use of machine intelligence in other industries. More than half of health ..."
+    publishedDateTime: 2020-02-24T12:41:00Z
+    webUrl: "https://www.washingtonpost.com/news/powerpost/paloma/the-health-202/2020/02/24/the-health-202-artificial-intelligence-use-is-growing-in-the-u-s-health-care-system/5e52f13188e0fa632ba81ec7/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 32
+    images:
+      - url: "https://img.washingtonpost.com/wp-apps/imrs.php?src=https%3A%2F%2Fpalomaimages.washingtonpost.com%2Fprod%2FNV-entrancepollssinglepayer_tstmp_1582513280.jpg&w=908"
+        width: 908
+        height: 346
   - title: "AI in the Manufacturing Sector Market Analysis to 2025 | New Technologies Transforming the Global Industry"
     excerpt: "The hardware segment will continue dominating the AI in the manufacturing sector market on account of the increasing demand for AI processors across several industry verticals. Considering the AI processors,"
     publishedDateTime: 2020-02-18T10:28:00Z

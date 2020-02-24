@@ -27,6 +27,6 @@ images:
     height: 600
     title: "Sentiment analysis and text mining using Azure Cognitive Services"
 
-secured: "KW7+RFo8UhnlAdlJzJ+BDoupw1lkyehZVeGanKgYcf973td8dDlgNszZ4vrt/98NqdRY6xZwGmMqdeZALQrPN80S5sQLaRHncpUAONCdkGA3ye+4BDTfSZulQvzGWBYzn1IBG4Ih4GB7MutMA9YyMVerOVrWmU7Tu6ss+R9YWIlYFxZ896F8v5UU1KDAbbTWq+vCas5SZOrqH656pGMJbvLLs9rxDHarzAxXNM6D2/y3q51Qyzd+9di7g+Cu7x+evuA5wije597jf3gJ7lKzpfdTvduRPgZ3Ysd0c+VLLz52X6r3LeiWON2avxmmJ5ho;lNuamZkBOjDxk0MBGmr26A=="
+secured: "xnJVSm0o70EphTULHbtCpph7qaBKcj0/YCvTcUvKEXpe1ilxfQagKpTwe5BOpHPoRyS2s5i3di7XiXHuwDbleGieBuArXz6/1sQ3kCzJaiStp5zM9o1JCZaJsdrLMmD+7UhqIpqDfwl7KWbCZbcfOSyF714aqmsNta1Xei4e/3NRjbeDY+KYwCRakps8nBTle5GnAyBzk5VIVwA8zmwJVf6T9Z9ivRf5QnvtFx1nXz3hAAILQ2hLh5WQo2erLxTvjrjr+KmLVNZC3yksu6KIMZSYqFYN/K8G3IBjHY/07J9g0osrTwxxHZ/REr09kl5Z;I3oy2UAvf9qgOsl0CcSYaQ=="
 ---
 

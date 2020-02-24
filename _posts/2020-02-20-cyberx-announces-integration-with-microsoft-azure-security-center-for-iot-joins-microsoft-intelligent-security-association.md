@@ -59,6 +59,19 @@ related:
       name: Help Net Security
       domain: helpnetsecurity.com
     quality: 34
+  - title: "Vectra AI Announces Integration with Chronicle's Security Analytics Platform"
+    excerpt: "Vectra® is the leader in network detection and response – from cloud and data center workloads to user and IoT devices. Its Cognito® platform accelerates threat detection and investigation using AI to enrich network metadata it collects and stores with the right context to detect, hunt and investigate known and unknown threats in real time."
+    publishedDateTime: 2020-02-24T19:22:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-vectra-ai-announces-integration-with-chronicles-security-analytics-/2020/02/24/9102745.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
+    images:
+      - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
+        width: 252
+        height: 335
   - title: "The new collaboration is designed to enhance the cybersecurity capabilities of Azure Security Center for IoT customers."
     excerpt: "Michal Braverman-Blumenstyk, CTO and GM, Cloud and AI Security Division at Microsoft Corp. said, \"We are pleased to partner with Firedome's Endpoint Protection solution to provide a solution for manufacturers who don't have a SOC team for their IoT installed device base. We view this collaboration as a way to enrich Microsoft Azure Security ..."
     publishedDateTime: 2020-02-22T01:31:00Z

@@ -329,6 +329,21 @@ related:
       - url: "https://images.axios.com/V5g3DwWwcHd9GOG3xrFQxp-3PcE=/2020/02/22/1582389772887.jpg"
         width: 3000
         height: 2000
+  - title: "Facebook will now pay select users to share their voice recordings"
+    excerpt: "(AP Photo/Richard Drew, File) (NEWS10) — The social networking company, Facebook announced they will pay users to record phrases to improve their voice recognition technology. The name of the compensation-based survey is called “Pronunciations” and it comes after reports that Facebook was caught listening to and transcribing some users ..."
+    publishedDateTime: 2020-02-24T12:32:00Z
+    webUrl: "https://www.news10.com/news/facebook-will-now-pay-select-users-to-share-their-voice-recordings/"
+    ampWebUrl: "https://www.news10.com/news/facebook-will-now-pay-select-users-to-share-their-voice-recordings/amp/"
+    cdnAmpWebUrl: "https://www-news10-com.cdn.ampproject.org/c/s/www.news10.com/news/facebook-will-now-pay-select-users-to-share-their-voice-recordings/amp/"
+    type: article
+    provider:
+      name: WTEN
+      domain: news10.com
+    quality: 44
+    images:
+      - url: "https://www.news10.com/wp-content/uploads/sites/64/2019/12/6e7454d3c5664eb3b6dd0abd53a8b812.jpg?w=1280&h=720&crop=1"
+        width: 1280
+        height: 720
   - title: "Facebook is willing to pay users for just recording audio for voice recognition"
     excerpt: "San Francisco: Facebook has announced it will pay select users who agree to record their voice to improve its speech recognition technology. According to The Verge, the social networking giant company will pay select users to record snippets of audio through a new programme called \"Pronunciations\" in its Viewpoints market research app."
     publishedDateTime: 2020-02-21T07:07:00Z

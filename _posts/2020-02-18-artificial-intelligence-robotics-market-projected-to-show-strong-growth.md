@@ -57,6 +57,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Image Recognition Market Size is Expected to Exhibit USD 81.88 billion by 2026"
+    excerpt: "The global image recognition market was worth USD 20.19 billion in 2018 and will exhibit a CAGR of 19.6% during the forecast period, till 2026 The global image recognition market size is projected to reach USD 81."
+    publishedDateTime: 2020-02-24T12:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-size-is-expected-to-exhibit-usd-8188-billion-by-2026-2020-02-24?mod=mw_quote_news"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Artificial Intelligence In Construction Market is Estimated to Achieve $ 2.1 Billion by 2026"
     excerpt: "The global Artificial Intelligence In Construction Market will increase by a CAGR of approximately 29.4% from 2019 to 2026 and is expected to achieve a market value above US$ 2.1 Billion in 2026. The report provides analysis of global Artificial Intelligence In Construction Market for the period 2015-2026,"
     publishedDateTime: 2020-02-18T06:36:00Z

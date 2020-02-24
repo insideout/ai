@@ -2,89 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_posts/2020-02-19-googles-ai-chief-explains-machine-learning-for-chip-design.md",
-      "title": "Google’s AI chief explains machine learning for chip design",
-      "excerpt": "Jeff Dean, head of Google’s AI research, explained to ZDNet how machine learning algorithms can be used to come up with better designs for computer chips. Google is starting to use the technology internally to better design its own parts. Read more: https://zd.net/38HobeV",
-      "heat": 111,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/video/googles-ai-chief-explains-machine-learning-for-chip-design/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-19T13:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/02/19/c094ad77-8b65-46bb-a116-452e865b15cb/thumbnail/770x578/7ff49d5646bbec8959dfe7485c3fa7e7/thumb.jpg",
-          "width": 770,
-          "height": 578,
-          "title": "Google’s AI chief explains machine learning for chip design",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-19-grok-combines-machine-learning-and-the-human-brain-to-build-smarter-aiops.md",
-      "title": "Grok combines Machine Learning and the Human Brain to build smarter AIOps",
-      "excerpt": "A few weeks ago I wrote a piece here about Moogsoft which has been making waves in the service assurance space by applying artificial intelligence and machine learning to the arcane task of keeping on keeping critical IT up and running and lessening the business impact of service interruptions. It’s a hot area for startups and I’ve since ...",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://diginomica.com/grok-combines-machine-learning-and-human-brain-build-smarter-aiops",
-      "ampWebUrl": "https://diginomica.com/grok-combines-machine-learning-and-human-brain-build-smarter-aiops?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/grok-combines-machine-learning-and-human-brain-build-smarter-aiops?amp",
-      "publishedDateTime": "2020-02-19T07:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2020-01/shutterstock-%20Antonov-Serg-1576515697.jpg",
-          "width": 3000,
-          "height": 2000,
-          "title": "Grok combines Machine Learning and the Human Brain to build smarter AIOps",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_posts/2020-02-19-high-risk-artificial-intelligence-to-be-certified-tested-and-controlled-commission-says.md",
       "title": "High-risk Artificial Intelligence to be ‘certified, tested and controlled,’ Commission says",
       "excerpt": "Commission President Ursula von der Leyen praised Europe’s efforts in the field of Artificial Intelligence thus far, saying that such technologies can be of vital use in a number of sectors including in healthcare, agriculture and energy, and can also ...",
@@ -1001,7 +918,7 @@
       "path": "_posts/2020-02-19-ucla-abandons-plans-to-use-facial-recognition-after-backlash.md",
       "title": "UCLA Abandons Plans to Use Facial Recognition After Backlash",
       "excerpt": "In an attempt to highlight the risks of using facial recognition on UCLA's campus, Fight for the Future used Amazon's facial recognition software, Rekognition, to scan public photos of UCLA's athletes and faculty, then compare the photos to a mugshot database.",
-      "heat": 461,
+      "heat": 481,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.vice.com/en_us/article/z3by79/ucla-abandons-plans-to-use-facial-recognition-after-backlash",
@@ -1382,7 +1299,7 @@
       "path": "_posts/2020-02-20-cybermdx-announces-integration-with-microsoft-azure-security-center-for-iot.md",
       "title": "CyberMDX Announces Integration With Microsoft Azure Security Center for IoT",
       "excerpt": "/PRNewswire/ -- CyberMDX, a leading provider of medical cyber security solution, delivering asset visibility and threat prevention for medical devices",
-      "heat": 92,
+      "heat": 102,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.prnewswire.com/news-releases/cybermdx-announces-integration-with-microsoft-azure-security-center-for-iot-301008578.html",
@@ -1464,7 +1381,7 @@
       "path": "_posts/2020-02-20-facebook-will-now-pay-you-for-your-voice-recordings.md",
       "title": "Facebook will now pay you for your voice recordings",
       "excerpt": "Facebook will offer to pay some users for voice recordings that will be used to help improve its speech recognition technology, the company announced Thursday. The move comes after Facebook — as well as Amazon, Apple, Google, and Microsoft — was caught listening to and transcribing voice recordings to improve speech recognition systems ...",
-      "heat": 434,
+      "heat": 444,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.theverge.com/2020/2/20/21145584/facebook-pay-record-voice-speech-recognition-viewpoints-proununciations-app",
@@ -2033,7 +1950,7 @@
       "path": "_posts/2020-02-20-mass-adoption-of-ai-in-financial-services-expected-within-two-years.md",
       "title": "Mass Adoption Of AI In Financial Services Expected Within Two Years",
       "excerpt": "A significant number of financial industry executives from 151 financial institutions in 33 countries recently reported that within the next two years they expect to become mass adopters of AI and expect AI to become an essential business driver across the financial industry.",
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/20/mass-adoption-of-ai-in-financial-services-expected-within-two-years/",
@@ -2109,6 +2026,97 @@
       "topics": [
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-20-only-a-better-understanding-of-ai-can-help-end-our-fear-of-robots.md",
+      "title": "Only a better understanding of AI can help end our fear of robots",
+      "excerpt": "AI is upending companies, industries, and humanity. There has been an ongoing polarising discussion among experts in both the academic and industrial circles when it comes to artificial intelligence (AI), and the impact of its adoption on our continued existence. One side envisions multiple benefits over its widespread adoption; while the other ...",
+      "heat": 106,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://qz.com/india/1805292/only-a-better-understanding-of-ai-can-help-end-our-fear-of-robots/",
+      "ampWebUrl": "https://qz.com/india/1805292/only-a-better-understanding-of-ai-can-help-end-our-fear-of-robots/amp/",
+      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/india/1805292/only-a-better-understanding-of-ai-can-help-end-our-fear-of-robots/amp/",
+      "publishedDateTime": "2020-02-20T01:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quartz",
+        "domain": "qz.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/qz.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cms.qz.com/wp-content/uploads/2020/02/RTX265HX-e1582179189744.jpg?quality=75&strip=all&w=1400",
+          "width": 1400,
+          "height": 789,
+          "title": "Only a better understanding of AI can help end our fear of robots",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-20-openai-text-generator-gpt-2-creates-video-game-walkthrough-for-most-tedious-game-in-history.md",
+      "title": "OpenAI Text Generator GPT-2 Creates Video Game Walkthrough for 'Most Tedious Game in History'",
+      "excerpt": "An advanced language model may one day be used in game design, experiments with 'Overwatch,' 'Dota 2' and 'Final Fantasy VII' demonstrate.",
+      "heat": 78,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.newsweek.com/openai-text-generator-gpt-2-video-game-walkthrough-most-tedious-1488334",
+      "ampWebUrl": "https://www.newsweek.com/openai-text-generator-gpt-2-video-game-walkthrough-most-tedious-1488334?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/openai-text-generator-gpt-2-video-game-walkthrough-most-tedious-1488334?amp=1",
+      "publishedDateTime": "2020-02-20T13:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1568474/goldeneye-n64-artificial-intelligence.jpg",
+          "width": 2500,
+          "height": 1406,
+          "title": "OpenAI Text Generator GPT-2 Creates Video Game Walkthrough for 'Most Tedious Game in History'",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
       ]
     }
   ],

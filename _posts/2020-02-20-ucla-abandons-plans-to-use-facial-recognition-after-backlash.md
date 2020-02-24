@@ -36,6 +36,21 @@ related:
       - url: "https://video-images.vice.com/test-uploads/articles/5e4daba66b5b2900986d5840/lede/1582148536256-GettyImages-899305840.jpeg?crop=1xw:0.8436405216037368xh;center,center&resize=1200:*"
         width: 1200
         height: 674
+  - title: "Leak shows EU police aim to create an international facial recognition database"
+    excerpt: "The system was proposed by police forces from 10 EU nations, and it could be expanded to cover the US EU police forces plan to build a network of national police facial recognition databases covering every member state, according to internal documents obtained by The Intercept. The report from national police forces of 10 EU member states ..."
+    publishedDateTime: 2020-02-24T18:03:00Z
+    webUrl: "https://thenextweb.com/neural/2020/02/24/leak-shows-eu-police-aim-to-create-an-international-facial-recognition-database/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/02/24/leak-shows-eu-police-aim-to-create-an-international-facial-recognition-database/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/24/leak-shows-eu-police-aim-to-create-an-international-facial-recognition-database/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 100
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/Untitled-design-29-796x417.png"
+        width: 796
+        height: 417
   - title: "UCLA cancels on-campus facial recognition program after backlash"
     excerpt: "UCLA will not go forward with a facial recognition program, and will prohibit the technology's use on campus, a university administrator said Wednesday. The move comes after backlash from student groups and privacy advocates,"
     publishedDateTime: 2020-02-19T23:21:00Z
@@ -253,6 +268,21 @@ related:
       - url: "https://images.wsj.net/im-156180/social"
         width: 1280
         height: 640
+  - title: "Calgary police says it won't use social media in its facial recognition technology"
+    excerpt: "A Calgary police officer says using open-sourced data such as social media with facial recognition technology is “fraught with danger.” The comments were made in reference to controversy surrounding the use by Canadian police forces of an American company’s facial recognition software that created a massive database of open-sourced images ..."
+    publishedDateTime: 2020-02-24T19:46:00Z
+    webUrl: "https://calgaryherald.com/news/local-news/calgary-police-says-it-wont-use-social-media-in-its-facial-recognition-technology"
+    ampWebUrl: "https://calgaryherald.com/news/local-news/calgary-police-says-it-wont-use-social-media-in-its-facial-recognition-technology/amp"
+    cdnAmpWebUrl: "https://calgaryherald-com.cdn.ampproject.org/c/s/calgaryherald.com/news/local-news/calgary-police-says-it-wont-use-social-media-in-its-facial-recognition-technology/amp"
+    type: article
+    provider:
+      name: Calgary Herald
+      domain: calgaryherald.com
+    quality: 53
+    images:
+      - url: "https://postmediacalgaryherald2.files.wordpress.com/2020/02/calfacialrecognition.jpg"
+        width: 1000
+        height: 750
   - title: "Other voices: Facial recognition software takes personal invasion into a new dimension"
     excerpt: "Law enforcers around the world are celebrating the rapidly expanding potential of facial recognition software to help them catch criminals faster and solve long-dormant cases. Such capabilities in the right hands could reap enormous public safety dividends. But in the wrong hands, an entirely new dimension in crime, extortion and mayhem could ..."
     publishedDateTime: 2020-02-21T07:30:00Z
