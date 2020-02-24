@@ -52,15 +52,6 @@ related:
       - url: "https://theintercept.com/wp-uploads/sites/1/2020/02/YotamHadar_TheIntercept_EUv4-still-1582297909.jpg"
         width: 2000
         height: 1000
-  - title: "Chief says police will not use face recognition until technology has been fully reviewed"
-    excerpt: "WATERLOO REGION — Controversial facial recognition technology is not being used by local police and won't be until it is fully reviewed, said the police chief. Waterloo Regional Police Chief Bryan Larkin said he will be issuing an internal memo telling all officers that they are not to use face recognition apps in their investigations."
-    publishedDateTime: 2020-02-20T04:31:00Z
-    webUrl: "https://www.therecord.com/news-story/9859221-chief-says-police-will-not-use-face-recognition-until-technology-has-been-fully-reviewed/"
-    type: article
-    provider:
-      name: Waterloo Region Record
-      domain: therecord.com
-    quality: 10
 
 secured: "6rjc0dEKhmTetOvD7DWpiuVwqNSt+IWWZ8QJJi2OwrOtutCYD1naMxqz1+klzWNoZb5BPYv6+A1JmBmFwbDQQvsB5J70Qp8PnGfxqAXKB/+2ZLQ+0dgin5dPHoNssWiwNn67uyhLZGylis03xgKBldocqpoak0nbWjJ++peIdyO0Tb+9cvDVOhj+EKxgEbVu758eLQUAROeHYa4F9k3Pf8f7PBGBhym+y5WdjncSFhk1CTkEj9AvJfdOWS5hVeruYTrS4WM1ylTpepHGhJ6mgT05yMHXw6Dnq0OG8/iPm2YZUWXGozWGgZZ0eWP2qADMDihcV5SMuhjooN47QPm0r67b7H3Au9zixDjz6ZR3BMZ4wBKFt/ftl5X+8XPBdWdtidAfVaqMjxRybtCzC28/KyAAhRB7Vbe2FM+k8sJmuw8/htk++NNYqUC+NQ2/H9T4vgA0g8l/f7WiaWDXZ7JwiwIl67gHp7eYY2dZnz0ve50=;PsBm8NJhNBUpN81DKQtm/A=="
 ---

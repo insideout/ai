@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-20T03:03:00Z
 webUrl: "https://www.omaha.com/news/national/washington-state-moves-ahead-on-bill-to-regulate-governments-use/article_81a5a78c-4b22-548f-b17f-95e8e5e84552.html"
 type: article
 quality: 10
-heat: 10
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,41 @@ images:
     width: 1200
     height: 630
     title: "Washington State moves ahead on bill to regulate governments’ use of facial-recognition technology"
+
+related:
+  - title: "Should Government Halt the Use of Facial-Recognition Technology?"
+    excerpt: "Critics say false positives are far higher for some groups of people than for others, but supporters of the technology says the actual numbers involved are tiny."
+    publishedDateTime: 2020-02-24T04:11:00Z
+    webUrl: "https://www.wsj.com/articles/should-government-halt-the-use-of-facial-recognition-technology-11582513260"
+    ampWebUrl: "https://www.wsj.com/amp/articles/should-government-halt-the-use-of-facial-recognition-technology-11582513260"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/should-government-halt-the-use-of-facial-recognition-technology-11582513260"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 74
+    images:
+      - url: "https://images.wsj.net/im-156193/social"
+        width: 1280
+        height: 640
+  - title: "Chief says police will not use face recognition until technology has been fully reviewed"
+    excerpt: "WATERLOO REGION — Controversial facial recognition technology is not being used by local police and won't be until it is fully reviewed, said the police chief. Waterloo Regional Police Chief Bryan Larkin said he will be issuing an internal memo telling all officers that they are not to use face recognition apps in their investigations."
+    publishedDateTime: 2020-02-20T04:31:00Z
+    webUrl: "https://www.therecord.com/news-story/9859221-chief-says-police-will-not-use-face-recognition-until-technology-has-been-fully-reviewed/"
+    type: article
+    provider:
+      name: Waterloo Region Record
+      domain: therecord.com
+    quality: 10
+  - title: "Washington Senate passes bill to regulate governments’ use of facial-recognition technology"
+    excerpt: "OLYMPIA — Washington state senators Wednesday approved a bill that would begin regulating the use of facial-recognition programs by local and state governments. Sponsored by Sen. Joe Nguyen, D-White Center, Senate Bill 6280 is one of a series of legislative proposals this year to counter technology that is evolving fast, regulated little and ..."
+    publishedDateTime: 2020-02-20T02:25:00Z
+    webUrl: "https://www.seattletimes.com/seattle-news/politics/washington-senate-passes-bill-to-regulate-governments-use-of-facial-recognition-technology/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 0
 
 secured: "zctnnB/t3amIMFe09FVvTyYMmFXHHOYLwSs/IMWRhpigbyVtEJq7bhcfsHdjp7ys9yoXItVEUPSxyrzNzPhuZ7Gm3oBXi7uIAXhp0QMQsFuf0p/RoPOnl8jLW5K1NTRgMC3yr9w7mPRgfKy9GIx0+M30MAqKCiCAewjIB+ySsYLFzZtlng5B7PNlfFxilIwkSs5MpaDEd87CaVO23SPyFGZC+Rf3bhu/RYsGj3S9FG/gthanahZ+sJGS2x7jKpe5FoX14NnUI9YqCaUyauPK+xlN+mWGBRrH1y3SnbOZS+8CkoIe+lYDwHNl+8PNo7JO;axMCtPKLuPmGl1JpY/xjWw=="
 ---

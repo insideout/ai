@@ -18,21 +18,43 @@ topics:
   - Computer Vision
 
 related:
-  - title: "Millions of updated driver’s license photos to fill Ohio’s facial-recognition system"
-    excerpt: "Attorney General Dave Yost and Gov. Mike DeWine plan to fill the state’s facial-recognition system — used to help identify suspected criminals — with updated and new mug shots of every licensed Ohio driver. Ohio has about 8.8 million licensed drivers and state ID holders. A task force formed by Yost recommended the step Thursday while ..."
-    publishedDateTime: 2020-02-20T19:24:00Z
-    webUrl: "https://www.dispatch.com/news/20200220/millions-of-updated-driverrsquos-license-photos-to-fill-ohiorsquos-facial-recognition-system"
-    ampWebUrl: "https://www.dispatch.com/news/20200220/millions-of-updated-drivers-license-photos-to-fill-ohios-facial-recognition-system?template=ampart"
-    cdnAmpWebUrl: "https://www-dispatch-com.cdn.ampproject.org/c/s/www.dispatch.com/news/20200220/millions-of-updated-drivers-license-photos-to-fill-ohios-facial-recognition-system?template=ampart"
+  - title: "Should Government Halt the Use of Facial-Recognition Technology?"
+    excerpt: "Critics say false positives are far higher for some groups of people than for others, but supporters of the technology says the actual numbers involved are tiny."
+    publishedDateTime: 2020-02-24T04:11:00Z
+    webUrl: "https://www.wsj.com/articles/should-government-halt-the-use-of-facial-recognition-technology-11582513260"
+    ampWebUrl: "https://www.wsj.com/amp/articles/should-government-halt-the-use-of-facial-recognition-technology-11582513260"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/should-government-halt-the-use-of-facial-recognition-technology-11582513260"
     type: article
     provider:
-      name: Columbus Dispatch
-      domain: dispatch.com
-    quality: 37
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 74
     images:
-      - url: "https://www.dispatch.com/apps/pbcsi.dll/bilde?Site=OH&Date=20200220&Category=NEWS&ArtNo=200229853&Ref=AR"
-        width: 3855
-        height: 2228
+      - url: "https://images.wsj.net/im-156193/social"
+        width: 1280
+        height: 640
+  - title: "Chief says police will not use face recognition until technology has been fully reviewed"
+    excerpt: "WATERLOO REGION — Controversial facial recognition technology is not being used by local police and won't be until it is fully reviewed, said the police chief. Waterloo Regional Police Chief Bryan Larkin said he will be issuing an internal memo telling all officers that they are not to use face recognition apps in their investigations."
+    publishedDateTime: 2020-02-20T04:31:00Z
+    webUrl: "https://www.therecord.com/news-story/9859221-chief-says-police-will-not-use-face-recognition-until-technology-has-been-fully-reviewed/"
+    type: article
+    provider:
+      name: Waterloo Region Record
+      domain: therecord.com
+    quality: 10
+  - title: "Washington State moves ahead on bill to regulate governments’ use of facial-recognition technology"
+    excerpt: "OLYMPIA, Wash. — Washington state senators Wednesday approved a bill that would begin regulating the use of facial-recognition programs by local and state governments. Sponsored by Democratic state Sen."
+    publishedDateTime: 2020-02-20T03:03:00Z
+    webUrl: "https://www.omaha.com/news/national/washington-state-moves-ahead-on-bill-to-regulate-governments-use/article_81a5a78c-4b22-548f-b17f-95e8e5e84552.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 10
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/custom/image/9595a7a2-2379-11e7-b3c5-13eacc36a918.jpg"
+        width: 1200
+        height: 630
 
 secured: "Gq694Dd1Yge1AoJd0CymplXLTgF6dAGLPaGmUhS2tUyJlsE0Fy/eiTgDMh50RW83y1OJeyhVsL2B9KfPLHpbRYnt5Z02CYNgew/8bC/ot66kSKQi78O20wRnjj+Dy2sadhjqwepIBeik/+UiCkG5V/o261JptHky1LdC5g+g3MXKGcT5xSzKSh0SfiSPkBHCQVilVnW/aufsXtszuwJw4Kdrtt0es0FzHB3cKxiCyzToP3Z25S2avlluFU82N9RJoHH9+1SUEVIfuNSpU9njdwy2LwHkEvYQRxvqoX52mh0qu5I1mKe+Qc11c2S3djDP;SCEb+l2ywfDw0QlynxRvlQ=="
 ---

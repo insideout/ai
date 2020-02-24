@@ -38,6 +38,6 @@ related:
       domain: itproportal.com
     quality: 20
 
-secured: "VyoaH9ICyM+OzWOexvYCbZMsv7+EQSaQEwxIhLnq0tXZceXUZUxeeggohqzurWDyBY56tRqqawJM/wytGUY1x9htLkNvqeGK7OplmlUg2SqAZXPrdPFscMTG5r2Y8YhaXPykGxFqMeeuBp67P567k3J1RaLDx11LZH6xJiPSLlVcnpxswPr7d3a1QGgfOveQ4QIi4IjDrbwVeYBbzUz3ldcx9bPgGjG9QkAqt8Yu6G+QI+X9IlXTft1/s8Gnxp2TwPn/O36kGPxPsq0BgwD9KFNN0INTvtmtuOE+50z5cVJ8DpRRxF5r+AoA+RXqoe4Z;7lVsTOsYcJBrjyRENSxNXQ=="
+secured: "t/EqMAiPN4zoKZl+il8ckaWm4PyLfC/upzZDZDR6Oxk0HlSxy5EFd5LW4x9W20XaZ2wS+0wdEJvSfm5P+ZKoIQUyf0FaKgS51NH6CECIQCNUSrKoU8mmlA7HViSGRPk891cDuHpQcbC8x66i5ED7GSfYFjCD/5aNMvO3qkTNxNrhxO9lji/zI0vqXTg4GbJzD11/yHA/fcoudl2C5/KmSNUy5cHHJyHrlOoGErYhHFZOYz+cfsm/oKfAxKI9cMX9KdMCzVvOS2uDLnV/A905qGtfMkFf2JXLdkSjRsDIR/NUumh/m85iFKvy9RgIA9q2;tLGplXIBMlVlj5hxibVIMA=="
 ---
 

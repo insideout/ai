@@ -88,6 +88,21 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F7bf31b7c-533c-11ea-8841-482eed0038b1?source=google-amp&fit=scale-down&width=500"
         width: 500
         height: 281
+  - title: "An AI Algorithm Just Discovered Entirely New Antibiotics"
+    excerpt: "but application of a halicin-containing ointment completely cleared the infections within 24 hours,” MIT says in their statement. In addition to their ongoing studies of halicin, the team used the AI-discovered model to uncover 23 other candidate molecules that could have antibiotic abilities as well."
+    publishedDateTime: 2020-02-23T20:23:00Z
+    webUrl: "https://www.popularmechanics.com/science/a31049138/ai-algorithm-antibiotics/"
+    ampWebUrl: "https://www.popularmechanics.com/science/amp31049138/ai-algorithm-antibiotics/"
+    cdnAmpWebUrl: "https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/science/amp31049138/ai-algorithm-antibiotics/"
+    type: article
+    provider:
+      name: Popular Mechanics
+      domain: popularmechanics.com
+    quality: 57
+    images:
+      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/hispanic-man-sitting-at-dining-room-table-reaches-royalty-free-image-1582324450.jpg?crop=1xw:0.75xh;center,top&resize=1200:*"
+        width: 1200
+        height: 600
   - title: "Artificial Intelligence Finds A Powerful New Antibiotic For The First Time"
     excerpt: "Artificial intelligence (AI) has proved to be a useful ally in the battle against antibiotic resistance. A powerful antibiotic that’s even able to kill superbugs has been discovered thanks to a machine-learning algorithm Researchers from MIT used a novel computer algorithm to sift through a vast digital archive of over 100 million chemical ..."
     publishedDateTime: 2020-02-21T12:57:00Z

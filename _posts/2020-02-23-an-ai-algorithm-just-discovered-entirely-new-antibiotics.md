@@ -1,28 +1,28 @@
 ---
 category: news
-title: "Artificial Intelligence Finds A Powerful New Antibiotic For The First Time"
-excerpt: "Artificial intelligence (AI) has proved to be a useful ally in the battle against antibiotic resistance. A powerful antibiotic that’s even able to kill superbugs has been discovered thanks to a machine-learning algorithm Researchers from MIT used a novel computer algorithm to sift through a vast digital archive of over 100 million chemical ..."
-publishedDateTime: 2020-02-21T12:57:00Z
-webUrl: "https://www.iflscience.com/health-and-medicine/artificial-intelligence-finds-a-powerful-new-antibiotic-for-the-first-time/"
-ampWebUrl: "https://amp.iflscience.com/health-and-medicine/artificial-intelligence-finds-a-powerful-new-antibiotic-for-the-first-time/"
-cdnAmpWebUrl: "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/health-and-medicine/artificial-intelligence-finds-a-powerful-new-antibiotic-for-the-first-time/"
+title: "An AI Algorithm Just Discovered Entirely New Antibiotics"
+excerpt: "but application of a halicin-containing ointment completely cleared the infections within 24 hours,” MIT says in their statement. In addition to their ongoing studies of halicin, the team used the AI-discovered model to uncover 23 other candidate molecules that could have antibiotic abilities as well."
+publishedDateTime: 2020-02-23T20:23:00Z
+webUrl: "https://www.popularmechanics.com/science/a31049138/ai-algorithm-antibiotics/"
+ampWebUrl: "https://www.popularmechanics.com/science/amp31049138/ai-algorithm-antibiotics/"
+cdnAmpWebUrl: "https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/science/amp31049138/ai-algorithm-antibiotics/"
 type: article
-quality: 55
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: IFLScience
-  domain: iflscience.com
+  name: Popular Mechanics
+  domain: popularmechanics.com
 
 topics:
   - AI
 
 images:
-  - url: "https://cdn.iflscience.com/images/b8c230b6-a3ea-5854-9482-5d6e99b6c372/default-1582285414-cover-image.jpg"
-    width: 720
-    height: 405
-    title: "Artificial Intelligence Finds A Powerful New Antibiotic For The First Time"
+  - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/hispanic-man-sitting-at-dining-room-table-reaches-royalty-free-image-1582324450.jpg?crop=1xw:0.75xh;center,top&resize=1200:*"
+    width: 1200
+    height: 600
+    title: "An AI Algorithm Just Discovered Entirely New Antibiotics"
 
 related:
   - title: "Artificial intelligence yields new antibiotic"
@@ -103,21 +103,21 @@ related:
       - url: "https://e3.365dm.com/20/02/1600x900/skynews-e-coli-bacteria-antibiotics_4926241.jpg?20200221070106"
         width: 1600
         height: 900
-  - title: "An AI Algorithm Just Discovered Entirely New Antibiotics"
-    excerpt: "but application of a halicin-containing ointment completely cleared the infections within 24 hours,” MIT says in their statement. In addition to their ongoing studies of halicin, the team used the AI-discovered model to uncover 23 other candidate molecules that could have antibiotic abilities as well."
-    publishedDateTime: 2020-02-23T20:23:00Z
-    webUrl: "https://www.popularmechanics.com/science/a31049138/ai-algorithm-antibiotics/"
-    ampWebUrl: "https://www.popularmechanics.com/science/amp31049138/ai-algorithm-antibiotics/"
-    cdnAmpWebUrl: "https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/science/amp31049138/ai-algorithm-antibiotics/"
+  - title: "Artificial Intelligence Finds A Powerful New Antibiotic For The First Time"
+    excerpt: "Artificial intelligence (AI) has proved to be a useful ally in the battle against antibiotic resistance. A powerful antibiotic that’s even able to kill superbugs has been discovered thanks to a machine-learning algorithm Researchers from MIT used a novel computer algorithm to sift through a vast digital archive of over 100 million chemical ..."
+    publishedDateTime: 2020-02-21T12:57:00Z
+    webUrl: "https://www.iflscience.com/health-and-medicine/artificial-intelligence-finds-a-powerful-new-antibiotic-for-the-first-time/"
+    ampWebUrl: "https://amp.iflscience.com/health-and-medicine/artificial-intelligence-finds-a-powerful-new-antibiotic-for-the-first-time/"
+    cdnAmpWebUrl: "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/health-and-medicine/artificial-intelligence-finds-a-powerful-new-antibiotic-for-the-first-time/"
     type: article
     provider:
-      name: Popular Mechanics
-      domain: popularmechanics.com
-    quality: 57
+      name: IFLScience
+      domain: iflscience.com
+    quality: 55
     images:
-      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/hispanic-man-sitting-at-dining-room-table-reaches-royalty-free-image-1582324450.jpg?crop=1xw:0.75xh;center,top&resize=1200:*"
-        width: 1200
-        height: 600
+      - url: "https://cdn.iflscience.com/images/b8c230b6-a3ea-5854-9482-5d6e99b6c372/default-1582285414-cover-image.jpg"
+        width: 720
+        height: 405
   - title: "Ask Dr. Nandi: Artificial intelligence yields new antibiotic"
     excerpt: "Now, artificial intelligence has been around for some time ... Dr. Partha Nandi, MD talks with Detroit’s very own Dr. Gail Parker, PhD who shares her methods of healthiness through yoga therapy. Also joining the discussion is actress Leila Almas who reveals how her career was saved through meditative practice. Plus, a discussion on meditation ..."
     publishedDateTime: 2020-02-21T22:03:00Z
@@ -189,6 +189,6 @@ related:
       domain: news-medical.net
     quality: 17
 
-secured: "KqDINQPSn0GCreH1Wnd9kEQ9gmd/yPzCXZLb/j1xmsYTklgtMFKHPaq1DrqL3wU+MmWzmw5mBwdmFgfcx+qmI+61xib+kMx24AUsnmzSoSJakSqnFoWvJlBYRMkhudM2MVXtpfD7fjX3aXsZ/gy2vtPJYhUty1uUptHM8PRsmg6/WKsOwYI2nmGPSYWl30XsIaDi7uBq+92HPrIAsTbKMuAr7slUtmS/p7DUORzNk0vjlCOLguLKdK9dPoWEa7IcByacZHPKYM4J3XPeDYiTnOu4GKCRWLqDJ/lkvDlGcTGAgA1s1wCTBK8wEQP95bqNM/j7GcvMdyRzB5GSI4pZ8NT03D/nL3dj0OAfh+MM+cn2B93WZx/cVW4ZXszYjVmbb/KnR1XBF6s3X2JksXjnFaWssfL7mP9HgPl4cdAy6BsfxMDdnliVvuZp989YRMvjygVWp7+zBByfWHvAQmp0t89J8fjcJkLvqv7TfhnFiJ4=;5UD51nQ1j3HE0bvmUS6ZVQ=="
+secured: "B62OUqqzb5ngftfrRHW8t9hR4gdTu2ubjfT+2l3Fy/j8yi0K2jRpEDCeGnRodUl0HRrrcjdg849TXMBKWVQ6XieeDBo+CxIiojUp+LY79busuS4tPOm1Y591VpKAZp/wlGAzF853oPgrdFP4H1k+rBRcwFnsvO7m1iCyIE9QivvMZItAbZsPDnoSFoOW0ZMqVqxs1Upr+yPEJ9Z76wbdjQmNUdv9S5BkaEnvy9zjyYKDlv6Rq2qGwgH+7pirq4KHILza6D3A2VSJKXsyXu2eW67uiKcX8x4RfrpbIwGWWzQUJ4ZMmCgHaeurzTyXFqDJ;kZag0tOO7EbAh+9RzuW6cw=="
 ---
 

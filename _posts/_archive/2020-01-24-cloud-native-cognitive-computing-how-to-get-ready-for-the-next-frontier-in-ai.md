@@ -30,6 +30,6 @@ related:
       domain: openpr.com
     quality: 0
 
-secured: "p5FNjeuk2zv5GXlqDL4WHbi87AbYMFcX/oJHaXBd4Tg9Bny08yI8AFodZ0CRuo48Vgh8V8RLr9ZAfIsY4T4R9wfqSQ0s/OOQTdlY/ZODriQIM+4I7LKcVqXH/rkB/9iz9PJVc8uw2Ml0tGbRvVxhkHBdj3ai+hZa5do1epSUo6YeZ+q3XvEUYF4PNvEhe6hLHfcQc3YVjaxjo3DVC84iKof90ArV/3MZeS5aiGlTuW8ynhEwMbg2PF3nTmbCFmwzgy66wG7CfBvX3F4/wVDD8P6h1xqDrBqet2zXfP9II6Q9moWsVtt6XqPXrTinIpQw;qMRaIM7OhHf56M/QUVO8Xg=="
+secured: "qW0jEXxx1U1Sq9/sujx/H3uK3wPxt1/ohOgTNqPiDjr49vrC9QbggVz+ICoE84ZOMtxfK+N0o++Byf2mSAtfGYWi5zmECB0LwIhYGWtBYzLzn8X4/58QP0NdNiF+dbzZH0O7Z32F/Ci50blLIqkDwEMIY67aKlAvx27XWqkTktBj74Flu63DmgjOAKFe2vHLfiIsW7Y1Pkk7H8t8xU6cui6Rcyw32ubhk1cB/9wppo3t7nkFHwK4gta3jAaO+tzh8gRj2+dzdCVU+arhzkozsGqyte3RTLBNiFvXZ2ReVkicfCE4vt5/oqwfpakmuiOZ;5e+fnhXbBkAzEO97IE2qmA=="
 ---
 
