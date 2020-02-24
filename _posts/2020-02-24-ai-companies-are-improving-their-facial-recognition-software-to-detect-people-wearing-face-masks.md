@@ -127,6 +127,21 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 66
+  - title: "Canada Is Next Among The Countries Using Facial Recognition In Public Places"
+    excerpt: "The world has been opening up to the idea of using facial recognition to prevent crimes all across industries. While the idea seems quite effective and harmless people have already been speaking about the possible dangers of using this technology on such a large scale and how it could actually negatively affect the lives of many people."
+    publishedDateTime: 2020-02-24T14:18:00Z
+    webUrl: "https://www.techshout.com/artificial-intelligence/2020/24/canada-is-next-among-the-countries-using-facial-recognition-in-public-places/"
+    ampWebUrl: "https://www.techshout.com/artificial-intelligence/2020/24/canada-is-next-among-the-countries-using-facial-recognition-in-public-places/amp/"
+    cdnAmpWebUrl: "https://www-techshout-com.cdn.ampproject.org/c/s/www.techshout.com/artificial-intelligence/2020/24/canada-is-next-among-the-countries-using-facial-recognition-in-public-places/amp/"
+    type: article
+    provider:
+      name: TechShout
+      domain: techshout.com
+    quality: 56
+    images:
+      - url: "https://www.techshout.com/wp-content/uploads/2018/07/future-iphone.jpg"
+        width: 700
+        height: 440
   - title: "Facial recognition cameras scan 4,600 faces but don’t find a single crook"
     excerpt: "Scotland Yard’s first operational deployment of facial recognition cameras has been described as a failure after it did not spot a single suspect after hours spent scanning thousands of people. The country’s biggest police force was accused of wasting taxpayers’ money at the expense of civil liberties after it emerged that earlier this ..."
     publishedDateTime: 2020-02-20T17:33:00Z
@@ -191,6 +206,6 @@ related:
       domain: theglobeandmail.com
     quality: 8
 
-secured: "X59PLesjbFKtbys6JPchpPEJQEekjIRaGq1xtVaKeD2g0Coi4oZfqv3S3W7halQ4mYOcWefbEF2MJcYCMDaL5oYdpq4Ni8knQNvr4eGTg+FZ5Q+KVHZxe3bmSWMZJ7a+TuBUZH3D+ytNVJKJQamBPrl63ndX7b8h56jKHzcd1tmGtK6mOxajOdkMyuD5d4cKKPi3SxVdp5j/1ILwUTgTTMfe2BoBXRloG02nrhgZJjVbIteSMi/Gq6ETs0X11n7OQiyr8EObO6UqAEYsPOmZtTC/62DY1OIlmLV5cKGABTyN7UdWFqN4yZMV9/QTZcQ5;32DF4rGLtR0vrCNUKg/lag=="
+secured: "aKhxZzXcVu8QIYSMmAd+rAKpXGXg+03X/opBu4ixuM+IgEUm+ueXwLErNg8TtcPwkIgMzHlIJES8NBwLY7H+XZ04pYdhsAnKF4Ahsjd+235iMohGTG5cfdHBo1ypbBRAiJ2mjAu2LOrkb5GCEEn5orcMvRv4wH6yo0LlNVeXu+3kaPkQINtXr57LD4reUd9QB+oYly6iGR/HmiJmsKD3tTCZsVfANL4TYVa4KYwgO6t3Kl7QZ/wnY6Ae/twYT47NYbdz0YfLALMJ0c4ZOIHQNB1RrSluFiX57DbqPKKLVDUIt8npP58zS4BqIiOZGWnJaLxmzSC2jVKcanZoY5AWwPBae0U+bywRH5PJeA5mh592SoxBqYpttRVOaaJUG4yTTzWXAOAVl62WH0D61zLT80h4tLZgeORIEOAs4RFZ6K8dXDz8sBrhIb+8JYKUUoIAmtrFTGLHrci9ZESt2pvlC7nyBGPNuD11/RgpRYOHHSY=;iYkghPrWz8jUTGeh8LUwIQ=="
 ---
 

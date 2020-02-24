@@ -136,6 +136,21 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 66
+  - title: "Canada Is Next Among The Countries Using Facial Recognition In Public Places"
+    excerpt: "The world has been opening up to the idea of using facial recognition to prevent crimes all across industries. While the idea seems quite effective and harmless people have already been speaking about the possible dangers of using this technology on such a large scale and how it could actually negatively affect the lives of many people."
+    publishedDateTime: 2020-02-24T14:18:00Z
+    webUrl: "https://www.techshout.com/artificial-intelligence/2020/24/canada-is-next-among-the-countries-using-facial-recognition-in-public-places/"
+    ampWebUrl: "https://www.techshout.com/artificial-intelligence/2020/24/canada-is-next-among-the-countries-using-facial-recognition-in-public-places/amp/"
+    cdnAmpWebUrl: "https://www-techshout-com.cdn.ampproject.org/c/s/www.techshout.com/artificial-intelligence/2020/24/canada-is-next-among-the-countries-using-facial-recognition-in-public-places/amp/"
+    type: article
+    provider:
+      name: TechShout
+      domain: techshout.com
+    quality: 56
+    images:
+      - url: "https://www.techshout.com/wp-content/uploads/2018/07/future-iphone.jpg"
+        width: 700
+        height: 440
   - title: "Facial recognition cameras scan 4,600 faces but don’t find a single crook"
     excerpt: "Scotland Yard’s first operational deployment of facial recognition cameras has been described as a failure after it did not spot a single suspect after hours spent scanning thousands of people. The country’s biggest police force was accused of wasting taxpayers’ money at the expense of civil liberties after it emerged that earlier this ..."
     publishedDateTime: 2020-02-20T17:33:00Z

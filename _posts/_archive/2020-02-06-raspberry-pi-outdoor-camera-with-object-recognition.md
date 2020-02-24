@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Raspberry Pi outdoor camera with object recognition"
-excerpt: "Technology enthusiast and environmentalist Paul Kinsella has created a new rugged Raspberry Pi outdoor camera that can be powered by a standard 5 volt micro USB or via the company’s 24-36 volt ..."
+excerpt: "Technology enthusiast and environmentalist Paul Kinsella has created a new rugged Raspberry Pi outdoor camera that can be powered by a standard 5 volt micro USB or via the company’s 24-36 volt vehicle powering system. Enabling the small outdoor cameras to be situated almost anywhere thanks to their rugged shell. The Raspberry Pi camera lens ..."
 publishedDateTime: 2020-02-06T11:26:00Z
 webUrl: "https://www.geeky-gadgets.com/raspberry-pi-outdoor-camera-06-02-2020/"
 type: article
@@ -43,6 +43,6 @@ related:
       domain: ieee.org
     quality: 19
 
-secured: "NA4dTHCV8+sMO5Rd4J3ltkBjhAMis0W84TooU+ooLIsXnXoGlr1yWl2AU0EIo3+2A/jXKR7KNx/50/BtkKakffmmqSKt4gxpOGcHiiqyFptp0hUNlHmCgcnNcCneHmTmVhUG8A1EcI4rlSkK16lr1tZOVWGS6npDwkESbkqi+MxhHh6KS+x2V2aDX3rDHpSY8RqPbbnx4GYQoHe2y0FgaNW6z6ivMf+Ks0/aQ+Eera3ZX7xr/7luVN359EjTLCQFrEeUeMm6PA/9Ra9z7RtWByMnaP0JesnUmFCEyeCK2XefXTAg+mC1/X3+TNTP6oTs;vkIBC/MhEOTK/sj2nZqx8w=="
+secured: "G421ZB9defutsRI8q6z+6izMzeFJmFWwX4nbb2XacA5O0CpN8zp4kSfd+jo8YfKa+WwRXBpVisQzd9Zox8iWKYX8JLEDmWOvriNUWPOarUg5P2wa0o10+BxKwZCsm3b4mmKGkInEWhli7cq0DhMHieZKq0vMA1KLUZoxL1FBARhlzFatuCqk8lydGwg8FTWebMNgTOz6gHf4xAd5KP7G057kJMxoBirXNyz4/kVjFx3qk6WveR0QteZeDiRtClByIZ3hqJRovqNvxYVIlfsaaphUMZkg0OFIjfpr1s176WJgryfUs9yGZH7Aarjh6SFw;I+1umMX2nQoWemQtyaVMuw=="
 ---
 

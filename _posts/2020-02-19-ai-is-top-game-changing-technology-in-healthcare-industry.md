@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/sap/2020/02/19/ai-is-top-game-changing-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2020/02/19/ai-is-top-game-changing-technology-in-healthcare-industry/amp/"
 type: article
 quality: 104
-heat: 184
+heat: 194
 published: true
 
 provider:
@@ -30,6 +30,21 @@ images:
     title: "AI Is Top Game-Changing Technology In Healthcare Industry"
 
 related:
+  - title: "How AI Can Live Up To Its Hype In The Healthcare Industry"
+    excerpt: "Because tech companies too often fail to prioritize human needs over business interests, medicine’s most-hyped AI applications have failed, repeatedly, to move the needle on public health, patient safety or healthcare costs."
+    publishedDateTime: 2020-02-24T15:57:00Z
+    webUrl: "https://www.forbes.com/sites/robertpearl/2020/02/24/ai-hype/"
+    ampWebUrl: "https://www.forbes.com/sites/robertpearl/2020/02/24/ai-hype/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robertpearl/2020/02/24/ai-hype/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e505188765d4500072ce883%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3840%26cropY1%3D0%26cropY2%3D2160"
+        width: 1200
+        height: 675
   - title: "Humanity In Focus: Five Predictions For The Healthcare Industry In 2020"
     excerpt: "In 2020, the pendulum will swing back and put the emphasis where it belongs: on using technology to improve the lives of others."
     publishedDateTime: 2020-02-14T13:32:00Z

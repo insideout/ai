@@ -41,6 +41,19 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e50147b7a0098000733e9a9%2F0x0.jpg"
         width: 1200
         height: 800
+  - title: "The Potential of AI in the Healthcare Supply Chain"
+    excerpt: "There’s no shortage of enthusiasm — or predictions — about the potential use of artificial intelligence (AI ... that 2020 is the year executives will focus on how to drive and measure the value of their investments in AI. Healthcare is no exception. A recent survey of healthcare executives conducted by Optum found that not only is ..."
+    publishedDateTime: 2020-02-24T15:53:00Z
+    webUrl: "https://www.supplychainbrain.com/blogs/1-think-tank/post/30899-realizing-the-potential-of-ai-in-the-healthcare-supply-chain"
+    type: article
+    provider:
+      name: Supply Chain
+      domain: supplychainbrain.com
+    quality: 54
+    images:
+      - url: "https://www.supplychainbrain.com/ext/resources/0-images/article-images/2020/0224_PotentialofAIinHealthcare.jpg?height=635&t=1582520107&width=1200"
+        width: 847
+        height: 635
   - title: "VA Embraces Artificial Intelligence To Improve Veterans’ Health Care"
     excerpt: "He said the VA has a \"unique opportunity to help veterans\" with artificial intelligence. As the largest integrated health care system in the country, the VA has vast amounts of patient data, which is helpful when training AI software to recognize patterns and trends. Alterovitz said the health system generates about a billion medical images a year."
     publishedDateTime: 2020-02-19T10:26:00Z

@@ -25,23 +25,6 @@ images:
     height: 2228
     title: "Millions of updated driver’s license photos to fill Ohio’s facial-recognition system"
 
-related:
-  - title: "Ohio’s controversial facial-recognition database to get $21.4 million update, AG Dave Yost says"
-    excerpt: "COLUMBUS, Ohio — The state of Ohio is spending $21.4 million to revamp its controversial facial-recognition software next year to better identify suspects and missing persons by matching their photos with updated driver’s license and mug-shot pictures, Attorney General Dave Yost announced Thursday. The announcement came as a task force ..."
-    publishedDateTime: 2020-02-20T18:14:00Z
-    webUrl: "https://www.cleveland.com/open/2020/02/ohios-controverisal-facial-recognition-database-to-get-214-million-update-ag-dave-yost-says.html"
-    ampWebUrl: "https://www.cleveland.com/open/2020/02/ohios-controverisal-facial-recognition-database-to-get-214-million-update-ag-dave-yost-says.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/open/2020/02/ohios-controverisal-facial-recognition-database-to-get-214-million-update-ag-dave-yost-says.html?outputType=amp"
-    type: article
-    provider:
-      name: Cleveland.com
-      domain: cleveland.com
-    quality: 32
-    images:
-      - url: "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/O4C7BWLACRGL5EKOY7V6WLBEFY.jpg"
-        width: 960
-        height: 720
-
 secured: "VXxovsJzC/6dbtPXxLQ/y8Gc1Xsf83hsTrYjDsv6FuzImH3W0IwPaIHWgcDAGNHhFZfcRx2/3RkXyhrfr64zQaPdRRrWTCnwYJORx6fsggtvM6t+HNR1ril/p3AxnuWwS6XeSMJGQc+iW73TW5UQFxCpu61WNM9AFCRAjrhbQFnKdcCUezHdtQuNxcQSMfHB7NHZ+MHX8INKBecfE81lNPn24hsPvxfOrYEMnoI9DV8WPnirM0sEjVsjK5yWX6GYOAidgbGWJX9A3YdnrcL97isEpWYys86HGcPkOl5R65c2grKUxYfvY/gtOFeXhxDZQLNX6oMiMnQWreny0MPb549mbkRKHITkKh7dVI3NLvbl1Y5xGtjnNfLydD/wpYnqvrNKlk9ZwthtFrhBDcXWl+3plbBwE5KTeP+txr0sgEQv3RueAX/b10Bo4NIamrOsoQFpmAnehO0kXLvdtXnTQbkT9Emz/sCM9YxDIBp55hM=;s+cLokcq/TLrySc5A21ppA=="
 ---
 
