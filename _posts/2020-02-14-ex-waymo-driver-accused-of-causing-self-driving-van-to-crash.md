@@ -8,7 +8,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/guid/0A09C846-4EDF-11EA-833C-A
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/guid/0A09C846-4EDF-11EA-833C-A3261B110A22"
 type: article
 quality: 89
-heat: 339
+heat: 329
 published: true
 
 provider:
@@ -240,19 +240,6 @@ related:
       - url: "https://thehill.com/sites/default/files/uber_self-driving_car_04032018_1.jpg"
         width: 980
         height: 551
-  - title: "House Panel to Hold Hearing to Advance Rules on Self-Driving Vehicles"
-    excerpt: "A U.S. House panel will hold a hearing Tuesday on autonomous vehicles as lawmakers try to hammer out legislation to advance self-driving cars. An Energy and Commerce subcommittee overseeing automotive issues will hear from officials of trade groups representing automakers and tech companies, as well as safety advocates and a San Francisco ..."
-    publishedDateTime: 2020-02-10T14:44:00Z
-    webUrl: "https://www.insurancejournal.com/news/national/2020/02/10/557962.htm"
-    type: article
-    provider:
-      name: Insurance Journal
-      domain: insurancejournal.com
-    quality: 24
-    images:
-      - url: "https://www.insurancejournal.com/app/uploads/2013/09/Congress-580x386.jpg"
-        width: 580
-        height: 386
   - title: "Federal Policymakers to Draft Self-Driving Vehicles Bill"
     excerpt: "WASHINGTON — Policymakers in the U.S. House of Representatives are aiming to draft a bipartisan measure that would guarantee the deployment of life-saving technologies in self-driving vehicles, the chairman of a key committee said Feb. 11. “We can ..."
     publishedDateTime: 2020-02-11T22:37:00Z

@@ -26,36 +26,82 @@ images:
     title: "Facial Recognition Technology Is the New Rogues’ Gallery"
 
 related:
-  - title: "Facial recognition: the next step in fight against rabies"
-    excerpt: "The research team, based out of Washington State University’s Paul G. Allen School for Global Animal Health, is working with PiP My Pet, a company that developed a mobile application that uses facial recognition to reunite lost pets with their owners. The only twist; rather than locate the lost, the company designed a new app to track which ..."
-    publishedDateTime: 2020-02-10T14:43:00Z
-    webUrl: "https://scienceblog.com/514102/facial-recognition-the-next-step-in-fight-against-rabies/"
-    ampWebUrl: "https://scienceblog.com/514102/facial-recognition-the-next-step-in-fight-against-rabies/amp/"
-    cdnAmpWebUrl: "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/514102/facial-recognition-the-next-step-in-fight-against-rabies/amp/"
+  - title: "Should Government Halt the Use of Facial-Recognition Technology?"
+    excerpt: "Critics say false positives are far higher for some groups of people than for others, but supporters of the technology says the actual numbers involved are tiny."
+    publishedDateTime: 2020-02-24T04:11:00Z
+    webUrl: "https://www.wsj.com/articles/should-government-halt-the-use-of-facial-recognition-technology-11582513260"
+    ampWebUrl: "https://www.wsj.com/amp/articles/should-government-halt-the-use-of-facial-recognition-technology-11582513260"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/should-government-halt-the-use-of-facial-recognition-technology-11582513260"
     type: article
     provider:
-      name: ScienceBlog
-      domain: scienceblog.com
+      name: Wall Street Journal
+      domain: wsj.com
     quality: 74
     images:
-      - url: "https://scienceblog.com/wp-content/uploads/2020/02/Facial-recognition-the-next-step-in-fight-against-rabies.jpg"
-        width: 792
-        height: 528
-  - title: "Raleigh police stop using controversial facial recognition technology"
-    excerpt: "Raleigh police have stopped using a facial recognition app to identify potential criminals through the Internet, cutting ties with a company that has drawn widespread privacy concerns. In August, the department paid $2,500 to Clearview AI for one year’s access to its app, which collects pictures from Facebook, YouTube and other public sites ..."
-    publishedDateTime: 2020-02-12T17:54:00Z
-    webUrl: "https://www.newsobserver.com/news/local/crime/article240221072.html"
-    ampWebUrl: "https://amp.newsobserver.com/news/local/crime/article240221072.html"
-    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/local/crime/article240221072.html"
+      - url: "https://images.wsj.net/im-156193/social"
+        width: 1280
+        height: 640
+  - title: "Met police chief: facial recognition technology critics are ill-informed"
+    excerpt: "Cressida Dick defends tech after civil liberties groups raise fears over accuracy and privacy"
+    publishedDateTime: 2020-02-24T15:43:00Z
+    webUrl: "https://www.theguardian.com/technology/2020/feb/24/met-police-chief-cressida-dick-facial-recognition-technology-critics-ill-informed"
+    ampWebUrl: "https://amp.theguardian.com/technology/2020/feb/24/met-police-chief-cressida-dick-facial-recognition-technology-critics-ill-informed"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/feb/24/met-police-chief-cressida-dick-facial-recognition-technology-critics-ill-informed"
     type: article
     provider:
-      name: Raleigh News & Observer
-      domain: newsobserver.com
-    quality: 59
+      name: The Guardian
+      domain: theguardian.com
+    quality: 58
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/98982b80-0f4c-4539-8307-e03345d59828/f123b10c-3acf-4f41-b7eb-0cf3424b4196/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://i.guim.co.uk/img/media/6527a5db37946bab14375a67ded41e294359749b/109_407_2779_1667/master/2779.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8db0391fdb6cc0f6fc84eadbd17fff8d"
+        width: 600
+        height: 360
+  - title: "Cressida Dick: Facial recognition critics should face up to victims of crime"
+    excerpt: "Privacy concerns over live facial recognition are ‘much smaller’ than the need to protect the public from ‘a knife through the chest’, Britain’s most senior police officer has said. Metropolitan Police Commissioner Dame Cressida Dick told a conference in Whitehall that critics of the use of such technology would need to justify to ..."
+    publishedDateTime: 2020-02-24T17:36:00Z
+    webUrl: "https://www.belfasttelegraph.co.uk/news/uk/cressida-dick-facial-recognition-critics-should-face-up-to-victims-of-crime-38984989.html"
+    ampWebUrl: "https://amp.belfasttelegraph.co.uk/news/uk/cressida-dick-facial-recognition-critics-should-face-up-to-victims-of-crime-38984989.html"
+    cdnAmpWebUrl: "https://amp-belfasttelegraph-co-uk.cdn.ampproject.org/c/s/amp.belfasttelegraph.co.uk/news/uk/cressida-dick-facial-recognition-critics-should-face-up-to-victims-of-crime-38984989.html"
+    type: article
+    provider:
+      name: Belfast Telegraph Digital
+      domain: belfasttelegraph.co.uk
+    quality: 56
+    images:
+      - url: "https://www.belfasttelegraph.co.uk/news/uk/20e5a/38984986.ece/alternates/w700/bpanews_036c0fc6-e90b-4b02-8fd6-310400dc250d_1"
+        width: 700
+        height: 435
+  - title: "Chief says police will not use face recognition until technology has been fully reviewed"
+    excerpt: "WATERLOO REGION — Controversial facial recognition technology is not being used by local police and won't be until it is fully reviewed, said the police chief. Waterloo Regional Police Chief Bryan Larkin said he will be issuing an internal memo telling all officers that they are not to use face recognition apps in their investigations."
+    publishedDateTime: 2020-02-20T04:31:00Z
+    webUrl: "https://www.therecord.com/news-story/9859221-chief-says-police-will-not-use-face-recognition-until-technology-has-been-fully-reviewed/"
+    type: article
+    provider:
+      name: Waterloo Region Record
+      domain: therecord.com
+    quality: 10
+  - title: "Washington State moves ahead on bill to regulate governments’ use of facial-recognition technology"
+    excerpt: "OLYMPIA, Wash. — Washington state senators Wednesday approved a bill that would begin regulating the use of facial-recognition programs by local and state governments. Sponsored by Democratic state Sen."
+    publishedDateTime: 2020-02-20T03:03:00Z
+    webUrl: "https://www.omaha.com/news/national/washington-state-moves-ahead-on-bill-to-regulate-governments-use/article_81a5a78c-4b22-548f-b17f-95e8e5e84552.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 10
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/custom/image/9595a7a2-2379-11e7-b3c5-13eacc36a918.jpg"
+        width: 1200
+        height: 630
+  - title: "Washington Senate passes bill to regulate governments’ use of facial-recognition technology"
+    excerpt: "OLYMPIA — Washington state senators Wednesday approved a bill that would begin regulating the use of facial-recognition programs by local and state governments. Sponsored by Sen. Joe Nguyen, D-White Center, Senate Bill 6280 is one of a series of legislative proposals this year to counter technology that is evolving fast, regulated little and ..."
+    publishedDateTime: 2020-02-20T02:25:00Z
+    webUrl: "https://www.seattletimes.com/seattle-news/politics/washington-senate-passes-bill-to-regulate-governments-use-of-facial-recognition-technology/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 0
 
 secured: "dM2GlwsXHdGJwPTaCE8ZAqyoiWdBAqVp6LrCu8MrESnF8R7YAU1/o5yceu6vc9Km3C0isAuRJehq3XAWmyDb/DenhH12YwWBklJwa7Y7GZ8I3DKU1oBPuiuGsMeOnZ/3WjsyPqRuOPZGFzFH1/2wkfJqYjD60rWFGQOpwkCIuCZQSuK1SIlq1cvqS33t+jRZlsC0dIU6E2EyhUW4OHMDzg9MtbFfV/JgjbN5KC5YULJhdP/CZ4fEikvlP+QE4sRxUxLiAMOHqhh8DLYx3eF0DWxP7CWhBG6HeeVt92nVNKfSxrMGob2QxkzzuYr25dV4xgG7S2tVjRIklsdoVXKNNZirqeOn/rrYuTTciLy/IbKZg7aDOi+AA0lRP72mxpZesD6AXGeJIqJcB8zCb9FpBhmPvrHhoOmcFZTWzGDGAf3KvvmrxLZp9HhwjMW/ryIrlzmQXUuxMrieDb1X0umYb2DNLy/FSIujBlFphJfheKU=;hin9bt2gzubGKlhvkV4DQw=="
 ---

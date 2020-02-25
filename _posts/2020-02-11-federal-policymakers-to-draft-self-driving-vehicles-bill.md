@@ -249,19 +249,6 @@ related:
       - url: "https://thehill.com/sites/default/files/uber_self-driving_car_04032018_1.jpg"
         width: 980
         height: 551
-  - title: "House Panel to Hold Hearing to Advance Rules on Self-Driving Vehicles"
-    excerpt: "A U.S. House panel will hold a hearing Tuesday on autonomous vehicles as lawmakers try to hammer out legislation to advance self-driving cars. An Energy and Commerce subcommittee overseeing automotive issues will hear from officials of trade groups representing automakers and tech companies, as well as safety advocates and a San Francisco ..."
-    publishedDateTime: 2020-02-10T14:44:00Z
-    webUrl: "https://www.insurancejournal.com/news/national/2020/02/10/557962.htm"
-    type: article
-    provider:
-      name: Insurance Journal
-      domain: insurancejournal.com
-    quality: 24
-    images:
-      - url: "https://www.insurancejournal.com/app/uploads/2013/09/Congress-580x386.jpg"
-        width: 580
-        height: 386
   - title: "Former Waymo Operator Tricks Self-Driving Car Into Crashing, Cops Say"
     excerpt: "He was allegedly successful, and a self-driving vehicle slammed into his Mazda sedan around 10:30 p.m. January 30, as a local ABC affiliate previously reported. The Waymo vehicle’s autonomous driving was not engaged at the time of the crash, according to Tempe police, and the driver was the only one inside the vehicle. “His initial ..."
     publishedDateTime: 2020-02-13T22:40:00Z

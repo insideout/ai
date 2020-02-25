@@ -3,7 +3,7 @@ category: news
 title: "Canada's Privacy Watchdogs To Probe Facial Recognition Co."
 excerpt: "Law360 (February 24, 2020, 9:40 PM EST) -- Canadian privacy regulators have launched an investigation into facial recognition company Clearview AI, seeking to examine whether the controversial startup has breached local privacy law by building a photo database the company claims can help law enforcement solve crimes. The Office of the Privacy ..."
 publishedDateTime: 2020-02-25T04:56:00Z
-webUrl: "https://www.law360.com/articles/1246398/canada-s-privacy-watchdogs-to-probe-facial-recognition-co-"
+webUrl: "https://www.law360.com/articles/1246398/canada-s-privacy-watchdogs-to-probe-facial-recognition-co"
 ampWebUrl: "https://www.law360.com/amp/articles/1246398"
 cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1246398"
 type: article
@@ -459,6 +459,6 @@ related:
       domain: hindustantimes.com
     quality: 2
 
-secured: "vvrqbXr8EzHsE4iXUhdhI58EIb7NMqpfFu14azs09GfALAXLADH/NJ+E/0Te0rl7BYEG5olffygfbars501D0+S6P3e+NuWFL9KC+ApR/1DF9ihIJyfIsniWkrpN6irq2D1E+x9LwjnBX/rosBRSDSqwnforvlYBOm5gOQ86XH1jdkfVbmPUHwjrcJyl+gYyoWvWw2+FAprZ6mBnBoU0PwHa2Yet+kch2e0C7ckDgcn2+FfSSm5ZGFVqvktu5YHK49+F956Usc+G06HIUSWKxyRU5LXUElle0V7BX9eLvj0P0Gmn+0v45tbhjXZUKHif;qgfTFNwcEEzxtnFMDeER1Q=="
+secured: "1sTP6v6RPTGODKqXBs5cNc24F2TR+6vWrjh4jiCgJ5HwaB7rFqftc48Sxi1xWwZoBaTuGFmcoKGJ0p33AruEb+f9tR9o2pdcNq5y0QEiSEgCU6vQNtt8rA3hD6MGPj9mev+hkYQketICM52BoeeSdODB58cb6TU0Fu5Zq0rf8wMPlO5cnQfBP/EplSERTAge0xv5SmZaDLk5fNDqVr1PtcpERrZhIkbVcbp2KqBkGmPf2VP+4Dfu1gPdtdFuNkaoxO5qXkOxEEvnDCZxZxuCtJ40NDAgI+RK4/bE4WYlTc61w3gkY6D8d2xXjB/3tTpB;c4Qyk4Kwk2DefswX6HYsSQ=="
 ---
 

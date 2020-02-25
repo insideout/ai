@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Oracle Announces Oracle Cloud Data Science Platform"
-excerpt: "Oracle Cloud Infrastructure Data Science automatically selects the most optimal training datasets through AutoML algorithm selection and tuning, model evaluation and model explanation. Today, organizations realize only a fraction of the enormous transformational potential of data because data science teams don’t have easy access to the right ..."
-publishedDateTime: 2020-02-12T13:20:00Z
-webUrl: "https://www.oracle.com/corporate/pressrelease/oracle-cloud-data-science-platform-021220.html"
+excerpt: "/PRNewswire/ -- Oracle today announced the availability of the Oracle Cloud Data Science Platform. At the core is Oracle Cloud Infrastructure Data"
+publishedDateTime: 2020-02-12T13:00:00Z
+webUrl: "https://www.prnewswire.com/news-releases/oracle-announces-oracle-cloud-data-science-platform-301003588.html"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Oracle
-  domain: oracle.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
   - Machine Learning
 
 images:
-  - url: "http://www.oracle.com/us/oracle-social-share-fb-480-2516041.jpg"
-    width: 480
-    height: 480
+  - url: "https://mma.prnewswire.com/media/467598/Oracle_Logo.jpg?p=facebook"
+    width: 2700
+    height: 1414
     title: "Oracle Announces Oracle Cloud Data Science Platform"
 
 related:
@@ -73,6 +73,6 @@ related:
       domain: tmcnet.com
     quality: 1
 
-secured: "HYZC+M/vVAkGdeeBS0r3RBKJMLXGXAT00UqIjoz8eZ5/McrnbN4iti/mX6B4Adthvpng5rR5w3AdRXuna8Xxtke+zMZppzr2dTgJOJBzOJ5kYD5S5fj8tH8g27gl8A65DPDwpy3PxiRU/KJqOMFFGmKGlRQhRSfc2mLKoPqw5dre3aa5VJKV06c9Fyl+U+kaHzlyHSCHpZ1wVKjnwQmtNNMiVJ8d/1mcJYIAh/e+CB57Oj9HHD5qG0I01inXoq96tWzSlHxkvOQUnfhlcSBVWm71X36l9vgUaJxmeskzea+Bmhoj0Bwq7mbgvRxrJp1D;er3a/nsItXFqdr1vy2Y5QA=="
+secured: "MnPBrYEVH7zwqNWYOxL4QYISyAdGIwIitX6aEualtFuT5TWYh+Rp5Ip1XbKtPWiAHlKyVErvHqomAc6JXFdXSDg5o+f1NY/veBcXu77T7o4KoJj3CTXJXOm5mmd339OKnw8GLRdgjRZOEyYoqRW1wFYPD9MmrynCOUYOxwTACO08X3E5G/SZ2xJCmbDi5PnmIbA7FGvk70IeSBmz0Oft5qHiBdxNd6Nxra8xzpzOUf8Qt5CSKyuZ0OZ5R0RoOKVHuz3Z3h+LWodOIbKMdd8PttSB9wVnQ29Q1eU7G90Ln6HpokKr6dmkouh5W5ekeujJ;9twWvssrSVrDRd1lB1JyUQ=="
 ---
 

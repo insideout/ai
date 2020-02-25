@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Pentagon adopts new ethical principles for using AI in war"
+title: "Pentagon Adopts New Ethical Principles for Using AI in War"
 excerpt: "While the Pentagon acknowledged that AI “raises new ethical ambiguities and risks,\" the new principles fall short of stronger restrictions favored by arms control advocates. “I worry that the principles are a bit of an ethics-washing project,” said Lucy Suchman, an anthropologist who studies the role of AI in warfare. “The word ..."
-publishedDateTime: 2020-02-24T21:54:00Z
-webUrl: "https://abcnews.go.com/Politics/wireStory/pentagon-adopts-ethical-principles-ai-war-69181756"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pentagon-adopts-ethical-principles-ai-war-69181756"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pentagon-adopts-ethical-principles-ai-war-69181756"
+publishedDateTime: 2020-02-24T23:28:00Z
+webUrl: "https://www.nbcnewyork.com/news/national-international/pentagon-adopts-new-ethical-principles-for-using-ai-in-war/2300430/"
+ampWebUrl: "https://www.nbcnewyork.com/news/national-international/pentagon-adopts-new-ethical-principles-for-using-ai-in-war/2300430/?amp"
+cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/pentagon-adopts-new-ethical-principles-for-using-ai-in-war/2300430/?amp"
 type: article
 quality: 74
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: go.com
+  name: NBC New York
+  domain: nbcnewyork.com
 
 topics:
   - AI
   - AI Ethics
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_5a2ee9d1ab2546ab8f055f25d1597576_16x9_992.jpg"
-    width: 992
-    height: 558
-    title: "Pentagon adopts new ethical principles for using AI in war"
+  - url: "https://media.nbcnewyork.com/2019/09/1055516816-Pentagon.jpg?resize=1200%2C675"
+    width: 1200
+    height: 675
+    title: "Pentagon Adopts New Ethical Principles for Using AI in War"
 
 related:
   - title: "Pentagon to Adopt Detailed Principles for Using AI"
@@ -69,15 +69,21 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/44c2b6e/2147483647/strip/true/crop/1762x1151+142+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F28%2F22%2F8178e5064f7c136ce007d7fc24b1%2Fla-1548770710-xhgwtmgm6p-snap-image"
         width: 320
         height: 209
-  - title: "Pentagon Adopts New Ethical Principles for Using AI in War"
-    excerpt: "The Pentagon is adopting new ethical principles as it prepares to accelerate its use of artificial intelligence technology on the battlefield."
-    publishedDateTime: 2020-02-25T01:36:00Z
-    webUrl: "https://www.usnews.com/news/business/articles/2020-02-24/pentagon-adopts-new-ethical-principles-for-using-ai-in-war"
+  - title: "Pentagon adopts new ethical principles for using AI in war"
+    excerpt: "The Pentagon is adopting new ethical principles as it prepares to accelerate its use of artificial intelligence technology on the battlefield. The new principles call for people to \"exercise appropriate levels of judgment and care\" when deploying and using AI systems,"
+    publishedDateTime: 2020-02-25T05:22:00Z
+    webUrl: "https://www.sfgate.com/business/technology/article/Pentagon-adopts-new-ethical-principles-for-using-15080225.php"
+    ampWebUrl: "https://www.sfgate.com/business/technology/amp/Pentagon-adopts-new-ethical-principles-for-using-15080225.php"
+    cdnAmpWebUrl: "https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/business/technology/amp/Pentagon-adopts-new-ethical-principles-for-using-15080225.php"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 64
+      name: SFGate
+      domain: sfgate.com
+    quality: 57
+    images:
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
   - title: "DoD Adopts AI Ethics Principles, But How Will They Be Enforced?"
     excerpt: "Jack Shanahan, told reporters this afternoon. “The real hard part of this is taking the AI delivery pipeline” – from the initial algorithms and data sets, field testing, and training human users, to holding commanders accountable for lethal errors – “and understanding where those ethics principles need to be applied.” “They’re ..."
     publishedDateTime: 2020-02-24T22:37:00Z
@@ -201,6 +207,6 @@ related:
       domain: fedscoop.com
     quality: 17
 
-secured: "IIgjQ4hTtfp7IJh4HiyoxZ5RjAunQjYr1XehkES2efoqqBV0k8k1MRwYHhDPl6sPGMn4xq98bVz6QUW+yhWq/RC/BpYRrP8mqP3C+BUu2tU0j1u/xKRSY81S8CfoY0B9+ev0EAknZqfoVDmBZDrGIRhQr2UzYdcX7TQ3vQr699T0o4umA64k5HesjoVEfHJnFyU7D+IfEXocFwD5Nx2SB4bvA8Hgl/OUgy/XIJ8rercTqFsL1wa9neBLC8ngFuUnKoy6DMl70UZYBg6zjLQA0QtZ+uKcy0pGfmORd26HTPFmbI3KotQHXFBk3GBIquBBpD8ruyKtBdDL/lFiipxbvEWLNYUc6nToEs40p3BX/26bh2coo3VUdgqWtGV1Eig2MTEt8WTtPZ3zA3vkPzc2QW/4dye29yWMb4ZVKaAYcG0rLpnHzy+YruDV1seFY1wGL7cC35mnqoZcEonJbQCXOlR0Zrj+SllPkN1mVXVe8uA=;4MJcBuUizQz8Y/hK9VqjIA=="
+secured: "3K6qmDIfh2JjwgHv8+kmSvGNBybzb4b+aKMcV5j64G1rP0St8mh3WsdlTasMgx/Bgl9GTgV0vCD8iAnNOh2YBB9CEMshive/M5lGy7lgX4Dk388kpy038NVZoeKU4ycUwO9HKn+zztMIjGR6eA2F2s4NiaGbWAG9BFg4zzAf9ylKXUxbnVILOs/ZIvJUHZ94+/bwkZc/PEHs2O8nYvigtcTuR3RkM1dPiXyUDox5+N8xjoeB5DjSTK9zUiCAhcJ4Pbz4Yrxh7SfmtQ8dfPcWaSNI63ecsfCNY3XI+8TO3NlWIXKBExCAtZ3YoaK82JG7;pi5ukoaa5UXCoRz9oRA73g=="
 ---
 

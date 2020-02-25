@@ -8,7 +8,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/2/11/21133389/house-energ
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/11/21133389/house-energy-commerce-self-driving-car-hearing-bill-2020"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -30,21 +30,6 @@ images:
     title: "We still can’t agree how to regulate self-driving cars"
 
 related:
-  - title: "How to build a morally ethical self-driving car"
-    excerpt: "Not too long ago, tech enthusiasts were telling us that by 2020, we’d see self-driving cars hit the mainstream, with some 10 million on the roads. That turned out to be a wild overestimation. The actual number of vehicles in testing is thousands of times smaller, and they’re still driving mostly in controlled conditions. Companies have also ..."
-    publishedDateTime: 2020-02-10T14:32:00Z
-    webUrl: "https://www.seattletimes.com/business/how-to-build-a-morally-ethical-self-driving-car/"
-    ampWebUrl: "https://www.seattletimes.com/business/how-to-build-a-morally-ethical-self-driving-car/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/how-to-build-a-morally-ethical-self-driving-car/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 44
-    images:
-      - url: "https://static.seattletimes.com/wp-content/uploads/2020/02/02072020_Self-Driving-Car_122510-300x220.jpg"
-        width: 300
-        height: 220
   - title: "Congress looks to revive self-driving car legislation"
     excerpt: "Want access to the top energy and environment news? Sign up for a free trial! Enter your email to register or log in. By signing up, you agree to receive E&E News email updates and offers. You also grant your consent to our data collection practices. We encourage you to review our Privacy and Data Practices Policy."
     publishedDateTime: 2020-02-12T12:19:00Z

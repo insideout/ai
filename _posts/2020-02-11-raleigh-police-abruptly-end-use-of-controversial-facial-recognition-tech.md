@@ -41,6 +41,21 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F104630ce-4cea-11ea-95a0-43d18ec715f5?source=google-amp&fit=scale-down&width=500"
         width: 500
         height: 281
+  - title: "Raleigh police stop using controversial facial recognition technology"
+    excerpt: "Raleigh police have stopped using a facial recognition app to identify potential criminals through the Internet, cutting ties with a company that has drawn widespread privacy concerns. In August, the department paid $2,500 to Clearview AI for one year’s access to its app, which collects pictures from Facebook, YouTube and other public sites ..."
+    publishedDateTime: 2020-02-12T17:54:00Z
+    webUrl: "https://www.newsobserver.com/news/local/crime/article240221072.html"
+    ampWebUrl: "https://amp.newsobserver.com/news/local/crime/article240221072.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/local/crime/article240221072.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 59
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/98982b80-0f4c-4539-8307-e03345d59828/f123b10c-3acf-4f41-b7eb-0cf3424b4196/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
   - title: "Vuzix integrates TensorMark’s AI, computer vision tech for facial recognition in AR smart glasses"
     excerpt: "The company has been actively working on building an interface tailored to the Vuzix Blade Smart Glasses so that it makes use of device characteristics, such as the color display and on-board camera, to embed facial and object recognition. The technology will allow customers to identify countless facial and object images located in a cloud ..."
     publishedDateTime: 2020-02-18T17:33:00Z

@@ -110,19 +110,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 45
-  - title: "Change Healthcare Releases the 2020 Industry Pulse Report"
-    excerpt: "and the immense potential for artificial intelligence (AI) and machine learning (ML) to improve healthcare. Also, for the first time in its decade-long history, Industry Pulse Report researchers asked participants what direction they anticipate healthcare ..."
-    publishedDateTime: 2020-02-10T14:22:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200210005115/en/Change-Healthcare-Releases-2020-Industry-Pulse-Report"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 39
-    images:
-      - url: "https://mms.businesswire.com/media/20200210005115/en/603399/23/CH_red_blue_logo_%281%29.jpg"
-        width: 1200
-        height: 576
   - title: "Healthcare Chatbots Market worth $703.2 million by 2025"
     excerpt: "Factors such as increasing optimum internet connectivity and rising adoption of smart devices, limited availability to council huge patient population, technology advancements in artificial intelligence, chatbots to reduce the healthcare cost, and increasing demand for virtual health assistance are driving the growth of the global market."
     publishedDateTime: 2020-02-13T07:34:00Z

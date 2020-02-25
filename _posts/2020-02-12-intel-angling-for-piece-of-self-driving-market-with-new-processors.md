@@ -76,15 +76,6 @@ related:
       - url: "https://aniportalimages.s3.amazonaws.com/media/details/technology-chips-micro-computer-embed-steel-royalty-free-thumbnail_1.jpg"
         width: 600
         height: 450
-  - title: "Arm unveils AI chip for small devices"
-    excerpt: "The chips require little electricity or internet connections and aim to bring AI functions to small devices like sensors that detect human speech. Arm sees Cortex M55 fitting into markets like health care, where data needs to be stored locally. Chips with the tech will hit the market next year."
-    publishedDateTime: 2020-02-10T14:53:00Z
-    webUrl: "https://seekingalpha.com/news/3540046-arm-unveils-ai-chip-for-small-devices"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 34
 
 secured: "XLCepabvwExf4ssjI5YC0HcJXLYUllko++E3msmWaBPokaAjbVjRVJJMk1V2LKv2fu4Um/ZzzFM97wUOopxDvb3IWyEV58GSJttPuKAYoBK9nqYBLtQ56deYFj2g4AGdZVzKe7YhFkl/w4EQCyglRvaxckvJJ61YqdY3PmGsA7A6/27936q8236QyoE0G2arhfZI1KDsCXuBSyPiTsUuSTcpQg0Bsq9upemknMSXpVlx1UcAIam1egTDHEMs4BISaedD2j3iU/b93y1NtsFuZRtw7PeprdQcQkImOycRjCoMn10sQKQbguWXZeJnBQo0u5fpiwjGcGzBzsBCV1qYNDIbQmdP3eTFh5NsqA53ulQfxYSKiSlX1k8Y67VNdZqGpwjByJ1V4i8NdIIhvrsJz9M0qrFdEQbb2XNcAuyB155odBRHhFh4ncAes/62WoKNKc9nhBUGtLQOO52koTLTdGmPgrzgOqOffO0YPb/ZScY=;9bjWkxeF3WIUAR2hElPIog=="
 ---

@@ -404,7 +404,7 @@ related:
   - title: "Canada's Privacy Watchdogs To Probe Facial Recognition Co."
     excerpt: "Law360 (February 24, 2020, 9:40 PM EST) -- Canadian privacy regulators have launched an investigation into facial recognition company Clearview AI, seeking to examine whether the controversial startup has breached local privacy law by building a photo database the company claims can help law enforcement solve crimes. The Office of the Privacy ..."
     publishedDateTime: 2020-02-25T04:56:00Z
-    webUrl: "https://www.law360.com/articles/1246398/canada-s-privacy-watchdogs-to-probe-facial-recognition-co-"
+    webUrl: "https://www.law360.com/articles/1246398/canada-s-privacy-watchdogs-to-probe-facial-recognition-co"
     ampWebUrl: "https://www.law360.com/amp/articles/1246398"
     cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1246398"
     type: article

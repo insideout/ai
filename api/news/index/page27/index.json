@@ -2,6 +2,34 @@
   "page": 27,
   "value": [
     {
+      "path": "_posts/_archive/2020-02-10-hello-new-member-here.md",
+      "title": "Hello, new member here",
+      "excerpt": "Hi, I had joined many years ago on another account but just got back on the site so made a new one. I’m on iPad and was wondering how we create a album or change themes, colors on our profile? I can’t seem to find out how. I just have a plain white ...",
+      "heat": 102,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.christianforums.com/threads/hello-new-member-here.8148658/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-09T17:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Christian Forums",
+        "domain": "christianforums.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-02-10-notes-from-a-former-guitar-zero.md",
       "title": "Notes From A Former 'Guitar Zero'",
       "excerpt": "NYU psychology professor Gary Marcus took up guitar at ... and she was brilliant. And a lot of it was just about absolutely perfect technique. You know, every finger movement was just right.",

@@ -8,7 +8,7 @@ ampWebUrl: "https://yourstory.com/2020/02/mahindra-group-incubated-comviva-finte
 cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/02/mahindra-group-incubated-comviva-fintech-startup-yabx/amp"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,21 @@ images:
     title: "This Mahindra Group-incubated fintech startup is simplifying financial access to the un-banked"
 
 related:
+  - title: "This fintech startup incubated by Comviva is simplifying financial access to the un-banked"
+    excerpt: "In this process, there are also instances where such new companies are successfully incubated by these large organisations. The fintech startup aims to simplify financial access to the un-banked in emerging markets such as Africa, Asia, and Latin America using mobile phones. Yabx was incubated in December 2017 within Comviva, a company which ..."
+    publishedDateTime: 2020-02-17T09:29:00Z
+    webUrl: "https://yourstory.com/2020/02/mahindra-group-incubated-comviva-fintech-startup-yabx"
+    ampWebUrl: "https://yourstory.com/2020/02/mahindra-group-incubated-comviva-fintech-startup-yabx/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/02/mahindra-group-incubated-comviva-fintech-startup-yabx/amp"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 49
+    images:
+      - url: "https://images.yourstory.com/cs/2/220356402d6d11e9aa979329348d4c3e/Yabxp-1581861640635.png?fm=png&auto=format"
+        width: 800
+        height: 400
   - title: "10 Israeli fintech startups shaping financial services today"
     excerpt: "With more than 500 companies ranging from fledgling startups to unicorns, Israel's fintech ecosystem has pioneered the use of technology such as machine learning, big-data analytics, and cloud-based services for the financial industry. It has also attracted global attention, billions in venture investment and the embrace of major companies ..."
     publishedDateTime: 2020-02-19T04:18:00Z

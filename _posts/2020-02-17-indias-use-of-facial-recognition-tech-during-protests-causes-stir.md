@@ -52,19 +52,6 @@ related:
       - url: "https://i.dawn.com/large/2020/02/5e42e958446ca.jpg"
         width: 800
         height: 480
-  - title: "Mitek claims spoof-proof breakthrough in facial recognition"
-    excerpt: "As the industry-first provider of Liveness Detection, Mitek is extending its technology to offer virtually spoof-proof facial comparison across all digital channels (native and web) - through one simple selfie. There are no additional steps for the consumer. Mitek’s extended Liveness Detection provides customers with additional security ..."
-    publishedDateTime: 2020-02-10T14:47:00Z
-    webUrl: "https://www.finextra.com/pressarticle/81436/mitek-claims-spoof-proof-breakthrough-in-facial-recognition"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 54
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
-        width: 480
-        height: 270
   - title: "Brazil takes a page from China, taps facial recognition to solve crime"
     excerpt: "In much of the world citizens are speaking out against facial recognition technology. Brazil appears poised to embrace it in the name of security."
     publishedDateTime: 2020-02-11T14:44:00Z

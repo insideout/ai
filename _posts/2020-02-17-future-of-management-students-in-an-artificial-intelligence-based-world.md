@@ -35,6 +35,17 @@ related:
       - url: "https://www.techworm.net/wp-content/uploads/2020/02/evisort.png"
         width: 1200
         height: 675
+  - title: "The future of management students in an artificial intelligence- based world"
+    excerpt: "AI-enabled decision making is better than human or software alone decision making. Let’s understand this with an example. IBM’s cognitive room, an immersive Watson driven exploration of IBM’s capabilities and solutions, supports decision making for mergers and acquisitions. It allows the decision-makers to effectively interact with a ..."
+    publishedDateTime: 2020-02-13T06:59:00Z
+    webUrl: "https://www.hindustantimes.com/education/the-future-of-management-students-in-an-artificial-intelligence-based-world/story-SwyaGNdkNfhQ0AwmoujXWO.html"
+    ampWebUrl: "https://m.hindustantimes.com/education/the-future-of-management-students-in-an-artificial-intelligence-based-world/story-SwyaGNdkNfhQ0AwmoujXWO_amp.html"
+    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/education/the-future-of-management-students-in-an-artificial-intelligence-based-world/story-SwyaGNdkNfhQ0AwmoujXWO_amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 36
   - title: "Dynatrace expands its pitch at managing automated management"
     excerpt: "The platform can now onboard and work with data from services running major public cloud service providers like AWS and Azure, Kubernetes-native events ... This then works with Davis, the company’s AI engine, which provides thresholds and baselining algorithms for all infrastructure performance and reliability metrics that enable extended ..."
     publishedDateTime: 2020-02-11T14:32:00Z

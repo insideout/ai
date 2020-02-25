@@ -39,21 +39,6 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/10T-kTZJK2tlblwYeUppcBLmegw=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66295443/vpavic_191202_3827_0024.0.jpg"
         width: 1400
         height: 933
-  - title: "How to build a morally ethical self-driving car"
-    excerpt: "Not too long ago, tech enthusiasts were telling us that by 2020, we’d see self-driving cars hit the mainstream, with some 10 million on the roads. That turned out to be a wild overestimation. The actual number of vehicles in testing is thousands of times smaller, and they’re still driving mostly in controlled conditions. Companies have also ..."
-    publishedDateTime: 2020-02-10T14:32:00Z
-    webUrl: "https://www.seattletimes.com/business/how-to-build-a-morally-ethical-self-driving-car/"
-    ampWebUrl: "https://www.seattletimes.com/business/how-to-build-a-morally-ethical-self-driving-car/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/how-to-build-a-morally-ethical-self-driving-car/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 44
-    images:
-      - url: "https://static.seattletimes.com/wp-content/uploads/2020/02/02072020_Self-Driving-Car_122510-300x220.jpg"
-        width: 300
-        height: 220
   - title: "How should self-driving cars decide who to kill? by Mark Buchanan"
     excerpt: "Not too long ago, tech enthusiasts were telling us that by 2020, we’d see self-driving cars hit the mainstream, with some 10 million on the roads. That turned out to be a wild overestimation. The actual number of vehicles in testing is thousands of times smaller, and they’re still driving mostly in controlled conditions. Companies have also ..."
     publishedDateTime: 2020-02-18T05:00:00Z

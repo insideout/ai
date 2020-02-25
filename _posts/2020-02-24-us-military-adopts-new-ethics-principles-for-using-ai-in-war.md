@@ -54,30 +54,36 @@ related:
       - url: "https://cdnph.upi.com/sv/ph/og/upi/3091582573432/2020/1/9824e619619d8a01a1f10fbe03097da5/v1.5/Pentagon-adopts-ethics-for-artificial-intelligence-use.jpg"
         width: 800
         height: 534
-  - title: "Pentagon adopts new ethical principles for using AI in war"
+  - title: "Pentagon Adopts New Ethical Principles for Using AI in War"
     excerpt: "While the Pentagon acknowledged that AI “raises new ethical ambiguities and risks,\" the new principles fall short of stronger restrictions favored by arms control advocates. “I worry that the principles are a bit of an ethics-washing project,” said Lucy Suchman, an anthropologist who studies the role of AI in warfare. “The word ..."
-    publishedDateTime: 2020-02-24T21:54:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/pentagon-adopts-ethical-principles-ai-war-69181756"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pentagon-adopts-ethical-principles-ai-war-69181756"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pentagon-adopts-ethical-principles-ai-war-69181756"
+    publishedDateTime: 2020-02-24T23:28:00Z
+    webUrl: "https://www.nbcnewyork.com/news/national-international/pentagon-adopts-new-ethical-principles-for-using-ai-in-war/2300430/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/pentagon-adopts-new-ethical-principles-for-using-ai-in-war/2300430/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/pentagon-adopts-new-ethical-principles-for-using-ai-in-war/2300430/?amp"
     type: article
     provider:
-      name: ABC
-      domain: go.com
+      name: NBC New York
+      domain: nbcnewyork.com
     quality: 74
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_5a2ee9d1ab2546ab8f055f25d1597576_16x9_992.jpg"
-        width: 992
-        height: 558
-  - title: "Pentagon Adopts New Ethical Principles for Using AI in War"
-    excerpt: "The Pentagon is adopting new ethical principles as it prepares to accelerate its use of artificial intelligence technology on the battlefield."
-    publishedDateTime: 2020-02-25T01:36:00Z
-    webUrl: "https://www.usnews.com/news/business/articles/2020-02-24/pentagon-adopts-new-ethical-principles-for-using-ai-in-war"
+      - url: "https://media.nbcnewyork.com/2019/09/1055516816-Pentagon.jpg?resize=1200%2C675"
+        width: 1200
+        height: 675
+  - title: "Pentagon adopts new ethical principles for using AI in war"
+    excerpt: "The Pentagon is adopting new ethical principles as it prepares to accelerate its use of artificial intelligence technology on the battlefield. The new principles call for people to \"exercise appropriate levels of judgment and care\" when deploying and using AI systems,"
+    publishedDateTime: 2020-02-25T05:22:00Z
+    webUrl: "https://www.sfgate.com/business/technology/article/Pentagon-adopts-new-ethical-principles-for-using-15080225.php"
+    ampWebUrl: "https://www.sfgate.com/business/technology/amp/Pentagon-adopts-new-ethical-principles-for-using-15080225.php"
+    cdnAmpWebUrl: "https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/business/technology/amp/Pentagon-adopts-new-ethical-principles-for-using-15080225.php"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 64
+      name: SFGate
+      domain: sfgate.com
+    quality: 57
+    images:
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
   - title: "DoD Adopts AI Ethics Principles, But How Will They Be Enforced?"
     excerpt: "Jack Shanahan, told reporters this afternoon. “The real hard part of this is taking the AI delivery pipeline” – from the initial algorithms and data sets, field testing, and training human users, to holding commanders accountable for lethal errors – “and understanding where those ethics principles need to be applied.” “They’re ..."
     publishedDateTime: 2020-02-24T22:37:00Z

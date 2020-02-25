@@ -1517,7 +1517,7 @@
       "path": "_posts/2020-02-24-5-reasons-to-choose-pytorch-for-deep-learning.md",
       "title": "5 reasons to choose PyTorch for deep learning",
       "excerpt": "While the fast.ai course uses fast.ai’s own library that provides further abstractions on top of PyTorch (making it even easier to get to grips with deep learning), the course also delves deep into the fundamentals, building a PyTorch-like library from scratch, which will give you a thorough understanding of how the internals of PyTorch ...",
-      "heat": 89,
+      "heat": 91,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.infoworld.com/article/3528780/5-reasons-to-choose-pytorch-for-deep-learning.html",
@@ -1555,7 +1555,8 @@
       ],
       "topics": [
         "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "Google AI"
       ]
     },
     {

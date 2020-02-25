@@ -41,6 +41,21 @@ related:
       - url: "https://images.wsj.net/im-156193/social"
         width: 1280
         height: 640
+  - title: "Facial Recognition Technology Is the New Rogues’ Gallery"
+    excerpt: "Fueled by explosive reporting, foreign totalitarian regimes, and a lifetime of dystopian sci-fi, the movement to ban the government’s use of face recognition technology is growing. As of now, seven cities across the country—San Francisco, Oakland, and Berkeley in California, and Brookline, Somerville, Northampton, and Cambridge in ..."
+    publishedDateTime: 2020-02-17T10:45:00Z
+    webUrl: "https://slate.com/technology/2020/02/rogues-gallery-facial-recognition-technology-history.html"
+    ampWebUrl: "https://slate.com/technology/2020/02/rogues-gallery-facial-recognition-technology-history.amp"
+    cdnAmpWebUrl: "https://slate-com.cdn.ampproject.org/c/s/slate.com/technology/2020/02/rogues-gallery-facial-recognition-technology-history.amp"
+    type: article
+    provider:
+      name: Slate
+      domain: slate.com
+    quality: 59
+    images:
+      - url: "https://compote.slate.com/images/98a4ad17-4082-4a99-a71e-75514dd0625f.jpeg?width=780&height=520&rect=780x520&offset=0x0"
+        width: 780
+        height: 520
   - title: "Cressida Dick: Facial recognition critics should face up to victims of crime"
     excerpt: "Privacy concerns over live facial recognition are ‘much smaller’ than the need to protect the public from ‘a knife through the chest’, Britain’s most senior police officer has said. Metropolitan Police Commissioner Dame Cressida Dick told a conference in Whitehall that critics of the use of such technology would need to justify to ..."
     publishedDateTime: 2020-02-24T17:36:00Z

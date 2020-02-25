@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.detroitnews.com/amp/4761860002"
 cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/4761860002"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -24,34 +24,6 @@ images:
     width: 1200
     height: 675
     title: "Anti-hacking protection emphasized in self-driving law draft"
-
-related:
-  - title: "Protecting privacy in an AI-driven world"
-    excerpt: "This report from The Brookings Institution’s Artificial Intelligence and Emerging Technology (AIET ... The Brookings Institution is a nonprofit organization devoted to independent research and policy solutions. Its mission is to conduct high-quality, independent research and, based on that research, to provide innovative, practical ..."
-    publishedDateTime: 2020-02-10T14:10:00Z
-    webUrl: "https://www.brookings.edu/research/protecting-privacy-in-an-ai-driven-world/"
-    ampWebUrl: "https://www.brookings.edu/research/protecting-privacy-in-an-ai-driven-world/amp/"
-    cdnAmpWebUrl: "https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/research/protecting-privacy-in-an-ai-driven-world/amp/"
-    type: article
-    provider:
-      name: Brookings Institution
-      domain: brookings.edu
-    quality: 59
-    images:
-      - url: "https://www.brookings.edu/wp-content/uploads/2017/04/es_20170425_fintechapps.jpg"
-        width: 4566
-        height: 3024
-  - title: "The future of management students in an artificial intelligence- based world"
-    excerpt: "AI-enabled decision making is better than human or software alone decision making. Let’s understand this with an example. IBM’s cognitive room, an immersive Watson driven exploration of IBM’s capabilities and solutions, supports decision making for mergers and acquisitions. It allows the decision-makers to effectively interact with a ..."
-    publishedDateTime: 2020-02-13T06:59:00Z
-    webUrl: "https://www.hindustantimes.com/education/the-future-of-management-students-in-an-artificial-intelligence-based-world/story-SwyaGNdkNfhQ0AwmoujXWO.html"
-    ampWebUrl: "https://m.hindustantimes.com/education/the-future-of-management-students-in-an-artificial-intelligence-based-world/story-SwyaGNdkNfhQ0AwmoujXWO_amp.html"
-    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/education/the-future-of-management-students-in-an-artificial-intelligence-based-world/story-SwyaGNdkNfhQ0AwmoujXWO_amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 36
 
 secured: "Kzm6FgH9nALO42yvarZV9lVjMe/+gKjlfR6EGoKbUxVTRIoSNQ02M5YTe5x4OHhc1GE0A3z9Bk0EuRaADSbLGSwKqbS4HP9fAipoD/42kTneeUXBQ5CjxzKsHSUebMXr94KH26SdSlWVjcBkhoKQ7xihZ3MZz/qcmlIofSYrTP/M8pHNCB1Kx3iMhXG5gtyirITnk0OeWaaqOXw9Uhumk22lF/Ca0hHczH3Wl9K7ejA5DcwkGYnR3+f2OjaVxya3zDuWWptLi874Hhx0QX/cQ1SUbS/o286R/T2rqk8wioqId5OoHkgA4fE555/GZRHELYcC5fejEEfwKz0d//xQyx81do6fHSE1kiEm1bRZdTmZgh3CURp1Jly4mwH9JNgzYRctq59Z6S2cwK8/+JzVkV9DBQ3mRnwKS3keO6vE9uTLXt9FEQ3W0ZoCVrrywA6dih+uDDJZNDm/evkFLBTifud2Xrm6sDrQt/HllMes+6g=;/KaZL9fXKK7lXBEVmuUPrg=="
 ---

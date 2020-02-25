@@ -69,15 +69,6 @@ related:
       - url: "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-c6vcqtlfu5qn38at3rp993fd81-20200213084133.Medi.jpeg"
         width: 800
         height: 448
-  - title: "Arm unveils AI chip for small devices"
-    excerpt: "The chips require little electricity or internet connections and aim to bring AI functions to small devices like sensors that detect human speech. Arm sees Cortex M55 fitting into markets like health care, where data needs to be stored locally. Chips with the tech will hit the market next year."
-    publishedDateTime: 2020-02-10T14:53:00Z
-    webUrl: "https://seekingalpha.com/news/3540046-arm-unveils-ai-chip-for-small-devices"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 34
   - title: "Intel Angling for Piece of Self-Driving Market with New Processors"
     excerpt: "Intel Corp., trying to convert its dominance of computers into a stake in the growing market for chips used in cars, is offering automakers new products aimed at making its technology crucial to the effort to develop self-driving vehicles. ‘Intel Go’ will feature processors ranging from its smallest Atom chips all the way up to its most ..."
     publishedDateTime: 2020-02-12T20:51:00Z
