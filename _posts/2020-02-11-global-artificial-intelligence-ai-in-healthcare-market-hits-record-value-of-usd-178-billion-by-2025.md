@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-11T06:00:00Z
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-healthcare-market-hits-record-value-of-usd-178-billion-by-2025-2020-02-11"
 type: article
 quality: 85
-heat: 195
+heat: 185
 published: true
 
 provider:
@@ -136,19 +136,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 19
-  - title: "Global Smart Learning Market Size is Projected to Grow to USD 56.5 Billion by 2024, at a CAGR of 19.5% - ResearchAndMarkets.com"
-    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Smart Learning Market by Component (Hardware ... Enterprise users include organizations catering to various verticals, such as retail; government; healthcare; and Banking, Financial Services and Insurance (BFSI). Corporate users implement these solutions as a tool to train and assess employees for providing ..."
-    publishedDateTime: 2020-02-10T11:56:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200210005444/en/Global-Smart-Learning-Market-Size-Projected-Grow"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
-    images:
-      - url: "https://mms.businesswire.com/media/20200210005444/en/371054/23/ResearchAndMarkets_800px.jpg"
-        width: 1200
-        height: 627
   - title: "Speech and Voice Recognition Market To Set Phenomenal Growth At CAGR of 17.20% from 2019 to reach $26.79 billion by 2025"
     excerpt: "Meticulous Research – a leading global market research company published a research report titled \"Speech and Voice Recognition Market by Type (Speech and Voice Recognition),"
     publishedDateTime: 2020-02-17T06:37:00Z

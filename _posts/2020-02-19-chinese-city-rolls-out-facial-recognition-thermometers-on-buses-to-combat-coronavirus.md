@@ -412,6 +412,17 @@ related:
       - url: "https://www.aljazeera.com/mritems/Images/2020/2/24/b1302d9786814603a2836c634f962dbf_18.jpg"
         width: 999
         height: 562
+  - title: "Canada's Privacy Watchdogs To Probe Facial Recognition Co."
+    excerpt: "Law360 (February 24, 2020, 9:40 PM EST) -- Canadian privacy regulators have launched an investigation into facial recognition company Clearview AI, seeking to examine whether the controversial startup has breached local privacy law by building a photo database the company claims can help law enforcement solve crimes. The Office of the Privacy ..."
+    publishedDateTime: 2020-02-25T04:56:00Z
+    webUrl: "https://www.law360.com/articles/1246398/canada-s-privacy-watchdogs-to-probe-facial-recognition-co-"
+    ampWebUrl: "https://www.law360.com/amp/articles/1246398"
+    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1246398"
+    type: article
+    provider:
+      name: Law360
+      domain: law360.com
+    quality: 39
   - title: "Because facial recognition makes students and faculty less safe, 40+ rights groups call on universities to ban technology"
     excerpt: "“Facial recognition technology isn’t safe,” reads the letter. “It’s biased and is more likely to misidentify students of color, which can result in traumatic interactions with law enforcement, loss of class time, disciplinary action, and potentially a criminal record… Facial recognition is invasive, enabling anyone with access to ..."
     publishedDateTime: 2020-02-13T19:29:00Z

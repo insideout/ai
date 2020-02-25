@@ -37,6 +37,19 @@ related:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
         height: 315
+  - title: "CyberMDX Announces Integration With Microsoft Azure Security Center for IoT"
+    excerpt: "/PRNewswire/ -- CyberMDX, a leading provider of medical cyber security solution, delivering asset visibility and threat prevention for medical devices"
+    publishedDateTime: 2020-02-21T02:00:00Z
+    webUrl: "https://www.prnewswire.com/il/news-releases/cybermdx-announces-integration-with-microsoft-azure-security-center-for-iot-301008578.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 52
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
   - title: "CyberMDX completes integration certification for the Microsoft Azure Security Center for IoT"
     excerpt: "CyberMDX delivers its granular Internet of Medical Things visibility into the single pane of glass of Azure Security Center to provide continuous visibility and threat protection across device types and network layers. All on-premises hospital assets are auto-identified and classified by CyberMDX’s DPI and AI engine. The classified assets are ..."
     publishedDateTime: 2020-02-24T00:33:00Z
@@ -72,6 +85,15 @@ related:
       - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
         width: 252
         height: 335
+  - title: "Microsoft pushes Azure platform, announces accelerator programme"
+    excerpt: "As important components of the Azure platform, Trust and Security, AI, Office 365, Dynamics 365, Linkedin and tools for citizen developers will be given importance in the digital journey. Nadella mentioned that new unicorns in India benefit the most from Azure cloud. Azure has focused on building limitless data estate to help businesses scale."
+    publishedDateTime: 2020-02-25T04:30:00Z
+    webUrl: "https://www.financialexpress.com/industry/technology/microsoft-pushes-azure-platform-announces-accelerator-programme/1878126/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 34
   - title: "The new collaboration is designed to enhance the cybersecurity capabilities of Azure Security Center for IoT customers."
     excerpt: "Azure Security Center offers advanced security posture management. By integrating the two products, Firedome and Microsoft will be able to deliver real-time protection and response, with dual detection capabilities of both Microsoft Threat Intelligence and Firedome's machine learning, cloud-based AI engine. The combined solution provides ..."
     publishedDateTime: 2020-02-22T01:31:00Z

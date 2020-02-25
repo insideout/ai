@@ -5,8 +5,8 @@ excerpt: "Law and ethics-specific documentation would also emphasize the importa
 publishedDateTime: 2020-01-28T08:52:00Z
 webUrl: "https://warontherocks.com/2020/01/day-zero-ethics-for-military-ai/"
 type: article
-quality: 54
-heat: 54
+quality: 34
+heat: 34
 published: false
 
 provider:
@@ -17,12 +17,6 @@ topics:
   - AI
   - AI Ethics
 
-images:
-  - url: "https://warontherocks.com/wp-content/uploads/2020/01/AI-Ethics-Again-1.jpg"
-    width: 1330
-    height: 850
-    title: "Day Zero Ethics for Military AI"
-
-secured: "SQQ+k/m5xm75ZSSkGnTxuKbhQYTMG9CYkAvMcyC8RYAsXEfd5UOhxAf8CIs+K3R0ZXbBWXbr+nKIusObyE1aJDgj2SfBvSPI/vN6nEujnRxrIVJMSR9xwWjZ+dj533aZVyutyx67Pv1U6u7IW7noVcl2Vs32irwj0DO0V585O0QZCcA2qZTbHlZjhylU86gZVW+8DAXX8cEpRPjyuO1QOLnOCz7rCrIM3jetFf8zlXMwWrZzjGE1hK0XwV/9ueHM1a0T3G0WbY0gEZSImcyisRDP1Z4ymu9TzchVZ0Z1uLvhH9l2o484ydPcdOnFP7yL;ogYYGRYo1QCAuiZoJB796Q=="
+secured: "dtKh9wucqbACOpuCoVpJAQZ6krhsKLs+alwqEHsZKwo1JT0iX6hlJ2/x3diUT6RDKxztxGN9JT2RC8s5eOI/7HNsuRZfbKQT/UWsbucLEqWsbGXoYELd7MILfpPXfCbYEi666yEvkYpbbuboMB+Jr/g7Rm7+BsHJSbFc739s2VYGaFlFCFsrazlzQWLC/uH6tGFIHadKr5lGI9+pZM2ESALn6VjGFD6ro6tX2I2F+Sg+c9ZsS+eBujxu6GhZwSyUFD7lNQ9Qc67nbOFwpwFsdEe38SuJaAO1TpOlE1g+lm/xJdGajmxH2haTYdxEjUgS;1/IioLmAifCe/aok+joOeQ=="
 ---
 

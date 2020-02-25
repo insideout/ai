@@ -5,8 +5,8 @@ excerpt: "New customers secured during January 2020 continue the trend. Excelero
 publishedDateTime: 2020-01-28T16:08:00Z
 webUrl: "https://www.hpcwire.com/off-the-wire/excelero-announces-ai-ml-and-hyperscale-customer-growth/"
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: 19
 published: false
 
 provider:
@@ -17,12 +17,6 @@ topics:
   - AI
   - AI Hardware
 
-images:
-  - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2018/02/HPCwire-logo-square.png"
-    width: 440
-    height: 440
-    title: "Excelero Announces AI/ML and Hyperscale Customer Growth"
-
-secured: "KjPSBxB1IAWKMAHyl7O6ae6OR2HYeKuUa1sErvJa0MMK2mg4I/Ch/VuilUebCd67FSwyU1dko/XNuvVxiGsOA49kmrUSFISP2wkhr+t4U6C+DnZmKDWFnNK6Fp+52xcST4anxKnV4m2YA4uvVAbScsoqe/yE/yFpWQy4r2Io8THWaGJiUyz1VsACnvPQue68rKOWyR30J/tMXveAo9sIEbs0dAy4GU7Btkv001doHMadkwYLKid8+6yGjdEeEdXXnLzs0KdDzO9K0jxczEXPWZupDxzqjriRH8kbDNw5b9+1r3R7b44Fu3GU+yMEId4a;HvP1dIEjpfX5bjSjb8BSkg=="
+secured: "UBq7GuK7ccgxre1Ux9ychAuAzn9WVZ1YH8sHxHMjqzng2d9Ed8xOUVH5r4StSwzw7fUmt37ssXSl5aO9TLjRAyyUUBQtibn6Jo/J1SuV7YsGf/Sq8n45WOpQAK8Ci/iSH0H/qmvx1IX0spszjWDQAQJf6+GuhrJ+xkU9pfbxAcvNT5yo5+EeBkDP6gLStIEwUeUpLAobb6LSVo+hCMgIKFAcroa1AWuJyVxJ0nhCaA5TgGtUVKUZ1/si1TDXOWmGtmHfrPWrj8APDMV5FyOTFyNKIi0+JO/vbL0sUewzemGhyY2quZkDSMnmc8lrUMiM;6fhRH5xCu15pGQb9VpqOOw=="
 ---
 

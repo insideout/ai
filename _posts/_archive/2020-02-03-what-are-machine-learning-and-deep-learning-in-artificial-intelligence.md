@@ -4,12 +4,10 @@ title: "What are Machine Learning and Deep Learning in Artificial Intelligence"
 excerpt: "AI can be called a superset of Machine Learning (ML) processes, and Deep Learning (DL) processes. AI usually is an umbrella term that is used for ML and DL. Deep Learning is again, a subset of ..."
 publishedDateTime: 2020-02-03T03:39:00Z
 webUrl: "https://www.thewindowsclub.com/machine-learning-deep-learning-artificial-intelligence"
-ampWebUrl: "https://www.thewindowsclub.com/machine-learning-deep-learning-artificial-intelligence/amp"
-cdnAmpWebUrl: "https://www-thewindowsclub-com.cdn.ampproject.org/c/s/www.thewindowsclub.com/machine-learning-deep-learning-artificial-intelligence/amp"
 type: article
-quality: 89
-heat: 89
-published: true
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: TWCN Tech News
@@ -19,12 +17,6 @@ topics:
   - AI
   - Machine Learning
 
-images:
-  - url: "https://thewindowsclub-thewindowsclubco.netdna-ssl.com/wp-content/uploads/2020/01/aivsmlvsdl.png"
-    width: 412
-    height: 338
-    title: "What are Machine Learning and Deep Learning in Artificial Intelligence"
-
-secured: "Z2A2GdD3yUuOLFI1jLA0fLx2bjwzf1zYCm3jrjthmFLbJ/TGAPc1QGMoX/YyZka2KIptiQA2BSegzR3qYfo5GSlByOrd54ljToMFyelv+Ir+pF1jBnASR3vu/ZY4unut4uNeWOci7fcT8ZBuTzQyIy69WJf5JZDUVf2F6nKOjnzGL3KKik3YKqR/ZKcXUDswsYQHy24ZwwxGP3Wrk7BF+PH0l37zr1RtCWWGrkC4Z6SEXoNLeng6qoJkDo1oIzfQAeVW5MZ6rSdTGCUYB3OHEXSHYrZvsWgmkdCmVvzTPhz/3SGnkWUeT61U2Rm6GsuV;i3atmetStIsGurH/IpTC6Q=="
+secured: "UxNeh9htO5pai/EqdJkHTwYBzuEZqQSM5oXU50vgSNj5ZUkdGDPxUJUos5HNh+Qt9rTbVigXbIQPwxb5+lFwoOi7N6HakTkVIcP1+ahjrrLzBzeQWjm/FemM1MAGj9VE21SsGpWiyaXAZHgqtNJFyeBq6O0AdSrCqbKGv4ht7jbX+BtfIWv1xt7GXx56y8h+b/4u8KAATkvEd9PwEGsuMcZkyoE9qn9JO9TEuAR9IXOIMqHtxsnEwcMmd3KNmwItpgCqP/2OR9n5NvJ5ueTTLIICtg5XtGQmfXqj5ww/MViOSuwh+0wvCs1eE+Htzd8z;fibCEI7crGfJosklnGzeQQ=="
 ---
 

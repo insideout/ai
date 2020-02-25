@@ -5,8 +5,8 @@ excerpt: "Autonomous Vehicle Market by Level of Automation (Level 3, Level 4, an
 publishedDateTime: 2020-02-05T03:05:00Z
 webUrl: "https://www.marketwatch.com/press-release/autonomous-vehicle-market-2020-global-overview-latest-technology-market-size-share-demand-major-players-key-trends-and-forecast-to-2026-2020-02-04"
 type: article
-quality: 18
-heat: 18
+quality: 0
+heat: 0
 published: false
 
 provider:
@@ -21,12 +21,6 @@ topics:
   - AI
   - AI in Autos
 
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    title: "Autonomous Vehicle Market 2020: Global Overview, Latest Technology, Market Size, Share, Demand, Major Players, Key Trends, and Forecast to 2026"
-
-secured: "ur8B2qZOGwVECTVVvqEgmORAvF46x8eNpYRpmjjTdMxmSMpiJ0Awh7gL1YroThE+zomi0+yaXtmC9AtHz20KoDiOM/6TZunr14ml4T4CJ+b/h2sR1ObBfkup/bGui7nomLoQvbT3xCcwb+8gFxTmL+okX/s11b3udOGLi4lQLH9Izp5hltTurOEAx5Q0tR1EFQTzXqPmbD7KHSZ6SB1AGwAkh9icYE0wqqVoG7KwGneT4Y01QuScM5zi9Hzv7R/U5VxhLZTrqe2PNf8KjuJa0LcdqCnJr3y0ISGDfv/VFVy8k5R760bgq/hhy3jNSRQb;CS99wQjLu+RWjwhl9WLjnA=="
+secured: "OQ/uNg7X92PZ1+vrGiLxRM36GDB2mhS4zk7PFs9ZUinPUfwvoRIpfUCq7xByq/9d34nY4RtGYETiDpBYJhBEpV2xnQ7l2woYBU7gCoUJ2WgOF404ajYfPTH1LC5C1AbpndP4SjO1G4lCwaFpfpFRoYFiVy/tmN8m5Rkk8R81Md3BJ0K5ok/al0HZ1l9RY54yYbdraPqOVBeDPr4uNyNr5tATYn4rphdu1sBcLUhdaJCFaanANn0xq3FCL5amiqp4OKwWPEJ61SdseXlZTKn/qeGiBOg599TmNWfFhxXOaBh+1hO/x5+RQM0OdBzsn7es;A6u1rg81RBrtB5sidpZb6w=="
 ---
 

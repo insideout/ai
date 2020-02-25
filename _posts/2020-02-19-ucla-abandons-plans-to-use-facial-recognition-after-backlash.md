@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-19T21:44:00Z
 webUrl: "https://www.vice.com/en_us/article/z3by79/ucla-abandons-plans-to-use-facial-recognition-after-backlash"
 type: article
 quality: 171
-heat: 481
+heat: 491
 published: true
 
 provider:
@@ -402,6 +402,17 @@ related:
       - url: "https://www.aljazeera.com/mritems/Images/2020/2/24/b1302d9786814603a2836c634f962dbf_18.jpg"
         width: 999
         height: 562
+  - title: "Canada's Privacy Watchdogs To Probe Facial Recognition Co."
+    excerpt: "Law360 (February 24, 2020, 9:40 PM EST) -- Canadian privacy regulators have launched an investigation into facial recognition company Clearview AI, seeking to examine whether the controversial startup has breached local privacy law by building a photo database the company claims can help law enforcement solve crimes. The Office of the Privacy ..."
+    publishedDateTime: 2020-02-25T04:56:00Z
+    webUrl: "https://www.law360.com/articles/1246398/canada-s-privacy-watchdogs-to-probe-facial-recognition-co-"
+    ampWebUrl: "https://www.law360.com/amp/articles/1246398"
+    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1246398"
+    type: article
+    provider:
+      name: Law360
+      domain: law360.com
+    quality: 39
   - title: "Chinese city rolls out facial-recognition thermometers on buses to combat coronavirus"
     excerpt: "Buses in a Chinese city have been equipped with thermometers that use facial recognition to scan passengers in efforts to more quickly detect symptoms of the coronavirus, according to local reports. The smart thermometers can measure commuters’ temperatures in as fast as a second and alert the driver if an anomaly is detected, the Guangzhou ..."
     publishedDateTime: 2020-02-19T14:33:00Z

@@ -243,19 +243,6 @@ related:
       - url: "https://thehill.com/sites/default/files/uber_self-driving_car_04032018_1.jpg"
         width: 980
         height: 551
-  - title: "Hearing to review self-driving car legislation"
-    excerpt: "Want access to the top energy and environment news? Sign up for a free trial! Enter your email to register or log in. By signing up, you agree to receive E&E News email updates and offers. You also grant your consent to our data collection practices. We encourage you to review our Privacy and Data Practices Policy."
-    publishedDateTime: 2020-02-10T11:13:00Z
-    webUrl: "https://www.eenews.net/eedaily/2020/02/10/stories/1062290541"
-    type: article
-    provider:
-      name: E&E
-      domain: eenews.net
-    quality: 24
-    images:
-      - url: "https://www.eenews.net/image_assets/2020/02/image_asset_73911.jpg"
-        width: 618
-        height: 318
   - title: "House Panel to Hold Hearing to Advance Rules on Self-Driving Vehicles"
     excerpt: "A U.S. House panel will hold a hearing Tuesday on autonomous vehicles as lawmakers try to hammer out legislation to advance self-driving cars. An Energy and Commerce subcommittee overseeing automotive issues will hear from officials of trade groups representing automakers and tech companies, as well as safety advocates and a San Francisco ..."
     publishedDateTime: 2020-02-10T14:44:00Z

@@ -5,8 +5,8 @@ excerpt: "Download the authoritative guide: Leading Big Data Vendors: Solutions 
 publishedDateTime: 2020-02-07T18:38:00Z
 webUrl: "https://www.eweek.com/big-data-and-analytics/six-data-points-you-should-know-about-federated-machine-learning"
 type: article
-quality: 54
-heat: 64
+quality: 34
+heat: 34
 published: false
 
 provider:
@@ -21,12 +21,6 @@ topics:
   - AI
   - AI in Finance
 
-images:
-  - url: "https://www.eweek.com/imagesvr_ez/b2bezp/2019/05/eweek.logo.DataPoints-UPDATE_2.jpg?alias=social_image"
-    width: 560
-    height: 300
-    title: "Six Data Points You Should Know about Federated Machine Learning"
-
 related:
   - title: "Federated machine learning: The road to decentralised data collaboration"
     excerpt: "Big data projects and state-of-the-art data science models are using artificial intelligence (AI) and machine learning (ML) to drive innovation across financial services, healthcare, government and other sectors. Take the healthcare industry for example, which is expected to spend roughly $23 billion globally on big data analytics by 2023 ..."
@@ -38,6 +32,6 @@ related:
       domain: itproportal.com
     quality: 20
 
-secured: "ib1L0XB77E1Wr4GARcFoa4Z7dRD6EJMYrYPzJN+S8Dl+CuQ+OlNsVGOFZpcym2dnqivf/sQdENsVT6gXp/29Uiviytvr2YkFO82dQh6dMO9DlitVkxQHEQEAoTQCq+Mx+888Mx3g+k9Omq/XFb4VaGm71LHaO4YOKnuG90VxhihXtPoYKcza1jr1ZAd2q8+wSRUxBAi88ZIAz/jAebWWhwa+bIAKli5IPG4gZO+j+B5RXTjITTh9+S3p1PjPke5UN7rAkFDtUdYzroN7GlGDuolGKabsmsxjkGsFzCa1hp/n+62+W/HPpYz8HwQyvkdc;8LQ3hT8I7bTjT0/hkWT0dw=="
+secured: "kJCtUMTnGCCKfV8i2CFzuQ60B8ScoliZGKlK87PY/CN08LMDlQ2K+dUfKD+gyZSih0dFZwQyPXy23GrDIRcccUWWYZRBbVlmQ/L995A7PnMNHLeS5n0+QOjd4rqSBeAx7g9cd1c4XSOwOiclUkuQEgzdqiEEhWfiePaBFkbVfe+rn08Py6QQ/sqtkK/RtuPWcyQ5cMX09Xu8NuZ0Z2Stt0k0DV6kDJ50SGnG5tW3n2j5aVfXCOrg1X/5LMwsDSoiOLjK4Qvfkf1/T821xGPgzH5njHEIi0Ozhz50Qm2z9Wt1Hsgk4SUAamWR2E4OUncfLx8rTHYEaK3wb4+xKip9ed06uk7bvqkv7UBSd0Rf7PaitnmWEWNbhXD4UddCn7fNaVbm7a1Z8JOg9G/LryVwI+5/EcIpPrI9sbv5BSpI/RL6vShaR6NyvkIHyqTmqnBu1I3IBQ5anuTWcqvAs0JNTkYSNGkSCpoprvVG0CRJyOs=;hEuOuQREaQ2pjknbwNrnyw=="
 ---
 

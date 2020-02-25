@@ -23,6 +23,6 @@ images:
     height: 375
     title: "Australian fintech investment hits ‘record’ $2.9 billion in 2019"
 
-secured: "b2fsqy773Rs7n+PWkg4txMCarRRIL+AQ+9yveK7ssFBJiOQHNPMZTOvzx1VDOMdzcxFzW6CHFM5E+D+9v+tzScPCFc/WClifNBVmq+4xHo5Uc//3rS32o54LY8ONJL9WBabWyeMzTRZn/e+fx7+zgWdlyN/fYeVvE/NcJtKkmMwp0cNZ50hTbr7dmXyFaYySBoXxl/W+HbvUHkQpEicV1xDG1C6SVZJF0WZ75dvUKRde5PD7cg3+qjMO2SUDfojmgwtEby1KkXZBlj3O37hKWExdH4qoAwb+V91Nr5+Ex35v5ughchEz8vbaLIGRzeLi;sGIqgXNI3KSGY2X5ykELaQ=="
+secured: "HdJmnb6COWK3drCyhiheBhdb8txF1lk8p4/4qqHdkrOeZViLgzCwFkvwcDOZaRJEdzNSgkkO/KyrFoFJ7KJPyctPoxaKrvCHMD7wd0VD79O3WhZ+6LqG5QNqRFhG1VnGq/ydP+t0lklSfJn3iht2+xjiAbq3MWXnq577pBuR2i16sYZU62i3f8HNBgEp97684ejyHPRiGcelEoIN/mFvn4CmigWCbPTjlJ20Ii962+C5NcLIwe30IG66/kFZpdLZrlTf8oKQ4Q9uUAYWhfKhtl/W4TrR/17NGYYmvZuPuhzqbV6Ec9vQMooEJLNArwOkWnPjxBQmHACSO1uNMn7mmR58k/ZmEaBLR9TBpoFO/VBHp6ZXeotCH72PDCQNqQKWCiHwYIyP86VNzyd/Pt+LbbaudJD+zyLE2CP8rLHSW+n+saBZw389EMSd9Pkyh7Ml6cBpLf1rllCtmp0WiYRwr4ml5frJXRdWy8OP1/FKfZM=;pMoX1ANMvLDirZJ4ZdBNqg=="
 ---
 

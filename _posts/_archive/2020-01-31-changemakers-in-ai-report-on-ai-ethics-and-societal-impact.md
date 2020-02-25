@@ -5,9 +5,9 @@ excerpt: "As the FAT Conference winds down, we are sharing reports written and r
 publishedDateTime: 2020-01-31T19:10:00Z
 webUrl: "https://medium.com/ai4allorg/changemakers-in-ai-report-on-ai-ethics-and-societal-impact-2195be28c086"
 type: article
-quality: 84
-heat: 84
-published: true
+quality: 64
+heat: 64
+published: false
 
 provider:
   name: Medium
@@ -21,12 +21,6 @@ topics:
   - AI
   - AI Ethics
 
-images:
-  - url: "https://miro.medium.com/max/1200/1*tuZHT8ifnQVeXcbu9cW70A.jpeg"
-    width: 1200
-    height: 800
-    title: "Changemakers in AI report on AI ethics and societal impact"
-
-secured: "uhfiqdj/XKYKmwn8EkbzgrLYoM/zgKIBrRvFvfKNx15EAbng4h5st47iV+/FJdQzCRHrjiONTQlu2GsHO3EnF/5i4j6WOx/NEzZfM8JGsVdS4OJaCrGpUplqJOET1oaw2V3X/8bk0QMclwn5YfWzpfRA+K05J3GtZceuweMsIYoqR5ZmL/MBQXE4SkngpVsH542qkhqFdN/qHftM7AE6w39uRbEMI3REiHNZzHqjoHA+g4qpynE86AQWmlUjXgOHhgsu7WNe7C1AHY5zByst442JR6dlN9+yp2W/GNX2IJ/4cSZeFV0Zhj25lIpeQRMV;8plYUTnr2wjg5LLM5nVjaw=="
+secured: "laCGJ5cTnsdUtBBJyNrxjKXtFF1NutYvFbiEFpjyLpuWI/VyiQBpYtYZBA2jdxQ/vBmcCVj3FZlcR63/74eR+UBX0DxOa/5XRiXEMr7kpRa+a1mvqQi2D4ttgXIVWrG9wTLiKtKjRecpv9+kswc6/dSDTSOV1D0migQypasPcb2E3GAdt7YEIG3RyQIzCYQsIJQpT3d/dV1aRca3EqwM3XX1ANku+/TMsor8x2evXKdxlneKmtZy+FkvFfFa//+yGYwn3hw1bWTrSQ6tspi6ggVJLyLmZbXEWAwoiNL6T7yCJpl1b+ivHRD95fWWnOz/;tvsXZ8t+oYciKAePBv0uaw=="
 ---
 

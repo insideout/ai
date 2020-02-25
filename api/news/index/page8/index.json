@@ -2,222 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_posts/2020-02-24-chess-grandmaster-gary-kasparov-predicts-ai-will-disrupt-96-percent-of-all-jobs.md",
-      "title": "Chess grandmaster Gary Kasparov predicts AI will disrupt 96 percent of all jobs",
-      "excerpt": "After Kasparov‘s loss, the experts didn’t miss a beat. They said Chess was too easy and postulated that machines would never beat us at Go. Champion Lee Sedol’s loss against DeepMind’s AlphaGo proved them wrong there. Apparently the only thing more powerful than human hubris is our ability to iterate new technologies. At least ...",
-      "heat": 95,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/02/24/chess-grandmaster-gary-kasparov-predicts-ai-will-disrupt-96-percent-of-all-jobs/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/02/24/chess-grandmaster-gary-kasparov-predicts-ai-will-disrupt-96-percent-of-all-jobs/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/24/chess-grandmaster-gary-kasparov-predicts-ai-will-disrupt-96-percent-of-all-jobs/amp/",
-      "publishedDateTime": "2020-02-24T14:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/chesspieces-796x405.jpg",
-          "width": 796,
-          "height": 405,
-          "title": "Chess grandmaster Gary Kasparov predicts AI will disrupt 96 percent of all jobs",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-24-choosing-between-rule-based-bots-and-ai-bots.md",
-      "title": "Choosing Between Rule-Based Bots And AI Bots",
-      "excerpt": "Chatbot success stories are inspiring companies to adopt bots for customer service purposes. However, the main question to be considered before adopting bots is whether to go with rule-based bots or AI bots.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/23/choosing-between-rule-based-bots-and-ai-bots/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/23/choosing-between-rule-based-bots-and-ai-bots/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/02/23/choosing-between-rule-based-bots-and-ai-bots/amp/",
-      "publishedDateTime": "2020-02-23T16:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x284/https://specials-images.forbesimg.com/imageserve/5e4031e98b6cf300071e3eb8/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 284,
-          "title": "Choosing Between Rule-Based Bots And AI Bots",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-24-clever-browser-tool-erases-people-from-live-webcam-feeds-in-real-time.md",
-      "title": "Clever Browser Tool Erases People From Live Webcam Feeds in Real Time",
-      "excerpt": "Mayes is a Google web engineer who developed his Disappearing-People tool using Javascript and TensorFlow, which is Google’s free, open source software library that allows the terrifying potential of artificial intelligence and deep learning to be applied to less terrifying applications. In this case, the neural network works to determine ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://gizmodo.com/clever-browser-tool-erases-people-from-live-webcam-feed-1841886899",
-      "ampWebUrl": "https://gizmodo.com/clever-browser-tool-erases-people-from-live-webcam-feed-1841886899/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/clever-browser-tool-erases-people-from-live-webcam-feed-1841886899/amp",
-      "publishedDateTime": "2020-02-24T15:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/s--kY9EtKmN--/c_scale,f_auto,fl_progressive,q_80,w_800/rn8juxshvtinyw3oh5te.jpg",
-          "width": 800,
-          "height": 450,
-          "title": "Clever Browser Tool Erases People From Live Webcam Feeds in Real Time",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-24-crucial-oversight-needed-for-police-ai-use.md",
-      "title": "\"Crucial\" oversight needed for police AI use",
-      "excerpt": "A report looking into police use of AI and data-driven technologies has called for urgent national guidance to ... RUSI was commissioned to conduct an independent study into English and Welsh police use of data analytics by the Centre for Data Ethics and Innovation (CDEI). Its focus was on algorithmic bias with a primary focus to help CDEI's ...",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itpro.co.uk/data-insights/big-data-analytics/354841/crucial-oversight-needed-for-police-ai-use",
-      "ampWebUrl": "https://www.itpro.co.uk/data-insights/big-data-analytics/354841/crucial-oversight-needed-for-police-ai-use?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/data-insights/big-data-analytics/354841/crucial-oversight-needed-for-police-ai-use?amp",
-      "publishedDateTime": "2020-02-24T07:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/v1582538868/itpro/Police_officers.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": "\"Crucial\" oversight needed for police AI use",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-24-dubai-set-to-witness-professional-interaction-with-humanoid-robot-sophia.md",
-      "title": "Dubai set to witness professional interaction with humanoid robot Sophia",
-      "excerpt": "“As a robot myself, I believe that data is the key to making smart decisions. With enough data, AI can be used to evaluate potential risk factors and prevent problems before they start.” The UAE is the only country in the world to have a Ministry of Artificial Intelligence. When she was asked to suggest as to what should it do to be a ...",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zawya.com/mena/en/press-releases/story/Dubai_set_to_witness_professional_interaction_with_humanoid_robot_Sophia-ZAWYA20200224083733/",
-      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/ZAWYA20200224083733/",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200224083733/",
-      "publishedDateTime": "2020-02-24T05:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.zawya.com/resources/img/zawya-logo-en-social.png",
-          "width": 1200,
-          "height": 878,
-          "title": "Dubai set to witness professional interaction with humanoid robot Sophia",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_posts/2020-02-24-fg-to-include-robotics-ai-in-school-curriculum.md",
       "title": "FG to include robotics, AI in school curriculum",
       "excerpt": "The Federal Ministry of Education has said it will work on the inclusion of coding, robotics and artificial intelligence in the country’s school curricula so as to take pupils to the 21st Century technology and educational standards. The Minister of State for Education, Chukwuemeka Nwajiuba, stated this in Abuja at the 2019/2020 Nigeria ...",
@@ -2128,6 +1912,207 @@
       "topics": [
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2019-12-22-artificial-intelligence-can-help-detect-blood-cancer-study.md",
+      "title": "Artificial Intelligence can help detect blood cancer: Study",
+      "excerpt": "Possibly, the diagnosis would then happen earlier than it does now and therapy could start earlier,” added ... out what an analysis of the transcriptome can achieve using artificial intelligence, that is to say trainable algorithms,” said Schultze.",
+      "heat": 69,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.thehealthsite.com/news/artificial-intelligence-can-help-detect-blood-cancer-study-718275/",
+      "ampWebUrl": "https://www.thehealthsite.com/news/artificial-intelligence-can-help-detect-blood-cancer-study-718275/amp/",
+      "cdnAmpWebUrl": "https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/news/artificial-intelligence-can-help-detect-blood-cancer-study-718275/amp/",
+      "publishedDateTime": "2019-12-22T02:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheHealthSite",
+        "domain": "thehealthsite.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://st1.thehealthsite.com/wp-content/uploads/2019/12/cancer-news.jpg",
+          "width": 675,
+          "height": 365,
+          "title": "Artificial Intelligence can help detect blood cancer: Study",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2019-12-22-facebook-says-group-used-ai-generated-faces-to-push-pro-trump-messages.md",
+      "title": "Facebook says group used AI-generated faces to push pro-Trump messages",
+      "excerpt": "Facebook Inc has taken down a well-financed ... Researchers from New York-based Graphika and the Digitial Forensics Research Lab, an arm of the Washington-based Atlantic Council, said it was ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.livemint.com/technology/tech-news/facebook-says-group-used-ai-generated-faces-to-push-pro-trump-messages-11577018518743.html",
+      "ampWebUrl": "https://www.livemint.com/technology/tech-news/facebook-says-group-used-ai-generated-faces-to-push-pro-trump-messages/amp-11577018518743.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/facebook-says-group-used-ai-generated-faces-to-push-pro-trump-messages/amp-11577018518743.html",
+      "publishedDateTime": "2019-12-22T04:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2019/12/22/600x338/2019-09-10T150809Z_1_LYNXNPEF891DD_RTROPTP_3_FACEBOOK-MICROSOFT-DEEPFAKES_1568203372371_1577018802874.JPG",
+          "width": 600,
+          "height": 337,
+          "title": "Facebook says group used AI-generated faces to push pro-Trump messages",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2019-12-22-real-life-automl-problem-with-multiple-tools-and-libraries-a-comparative-approach.md",
+      "title": "Real Life AutoML Problem with Multiple Tools and Libraries, a Comparative Approach",
+      "excerpt": "This article, introduces to the multiple AutoML tools for a real life problem. Different than the other articles about AutoML, we will use multiple AutoML tool for the same project or multiple ...",
+      "heat": 63,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/@sadievrenseker/real-life-automl-problem-with-multiple-tools-and-libraries-a-comparative-approach-96edcdc70932",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-12-21T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*B7sxpiEDrzG1YH09fMeH_w.png",
+          "width": 1200,
+          "height": 634,
+          "title": "Real Life AutoML Problem with Multiple Tools and Libraries, a Comparative Approach",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2019-12-22-top-25-ai-startups-who-raised-the-most-money-in-2019.md",
+      "title": "Top 25 AI Startups Who Raised The Most Money In 2019",
+      "excerpt": "Its Cognito platform accelerates threat detection and investigation using artificial intelligence to collect ... and robotics teams at companies like Waymo, OpenAI, Lyft, Zoox, Pinterest, and Airbnb focus on building differentiated models vs.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2019/12/22/top-25-ai-startups-who-raised-the-most-money-in-2019/",
+      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2019/12/22/top-25-ai-startups-who-raised-the-most-money-in-2019/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2019/12/22/top-25-ai-startups-who-raised-the-most-money-in-2019/amp/",
+      "publishedDateTime": "2019-12-22T13:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5dff94624e2917000783b233%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Top 25 AI Startups Who Raised The Most Money In 2019",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2019-12-23-artificial-intelligence-that-tracks-down-leukemia-discovered.md",
+      "title": "Artificial Intelligence That Tracks Down Leukemia Discovered",
+      "excerpt": "Artificial intelligence is a much-discussed topic in ... Possibly, the diagnosis would then happen earlier than it does now and therapy could start earlier.\"",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.medindia.net/news/artificial-intelligence-that-tracks-down-leukemia-discovered-192212-1.htm",
+      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-that-tracks-down-leukemia-discovered-192212-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-that-tracks-down-leukemia-discovered-192212-1.htm",
+      "publishedDateTime": "2019-12-23T10:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.medindia.net/amp-images/health-images/chemotherapy-associated-neurocognitive-in-leukemia-patients.jpg",
+          "width": 1200,
+          "height": 1000,
+          "title": "Artificial Intelligence That Tracks Down Leukemia Discovered",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
       ]
     }
   ],

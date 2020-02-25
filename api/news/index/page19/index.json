@@ -2,259 +2,6 @@
   "page": 19,
   "value": [
     {
-      "path": "_posts/_archive/2020-01-25-sentiment-analysis-and-text-mining-using-azure-cognitive-services.md",
-      "title": "Sentiment analysis and text mining using Azure Cognitive Services",
-      "excerpt": "This post provides 6 sample codes showing how Azure Microsoft Cognitive Services can used to build AI solutions to tackle opportunities like sentiment analysis and text mining.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/@caiomsouza/sentiment-analysis-and-text-mining-using-azure-cognitive-services-6185a1d0f0b7",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-25T04:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/1*eIuRRxcgZxzCMZvc4HLiiA.png",
-          "width": 1200,
-          "height": 600,
-          "title": "Sentiment analysis and text mining using Azure Cognitive Services",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-26-ai-robot-will-replace-managers-by-2024.md",
-      "title": "AI robot will replace managers by 2024",
-      "excerpt": "In the coming times, new technologies such as Artificial Intelligence (AI) can make everyday tasks easier ... It further states that restaurants are implementing AI robotics technology so that paralyzed employees can also control robotic waiters from remote locations. Due to technologies like Braille readers and virtual reality, institutions ...",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://english.newstracklive.com/news/69-percent-of-routine-work-of-managers-taken-by-artificial-intelligence-by-2024-sc86-nu-1065539-1.html",
-      "ampWebUrl": "https://english.newstracklive.com/ampnews/69-percent-of-routine-work-of-managers-taken-by-artificial-intelligence-by-2024-sc86-nu-1065539-1.html",
-      "cdnAmpWebUrl": "https://english-newstracklive-com.cdn.ampproject.org/c/s/english.newstracklive.com/ampnews/69-percent-of-routine-work-of-managers-taken-by-artificial-intelligence-by-2024-sc86-nu-1065539-1.html",
-      "publishedDateTime": "2020-01-25T22:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Track",
-        "domain": "newstracklive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.newstracklive.com/uploads/technology-news/gadgets-news-info/Jan/26/big_thumb/sdtyfstyfsf_5e2d2d0e90399.JPG",
-          "width": 1122,
-          "height": 675,
-          "title": "AI robot will replace managers by 2024",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-26-apples-dismissal-of-200-self-driving-car-employees-points-to-a-shift-in-its-ai-strategy.md",
-      "title": "Apple's dismissal of 200 self-driving car employees points to a shift in its AI strategy",
-      "excerpt": "Apple dismissed 200 employees from its self-driving car unit on Wednesday. Apple said some employees have been reassigned to work more broadly on artificial intelligence and machine learning at ...",
-      "heat": 80,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2019/01/26/apple-car-layoffs-signal-focus-on-ai.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2019/01/26/apple-car-layoffs-signal-focus-on-ai.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2019/01/26/apple-car-layoffs-signal-focus-on-ai.html",
-      "publishedDateTime": "2020-01-25T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/105107156-rsz_gettyimages-849703458.jpg?v=1545329379",
-          "width": 2000,
-          "height": 1334,
-          "title": "Apple's dismissal of 200 self-driving car employees points to a shift in its AI strategy",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-26-clearview-ais-database-has-amassed-3-billion-photos-this-is-how-if-you-want-yours-deleted-you-have-to-opt-out.md",
-      "title": "Clearview AI’s Database Has Amassed 3 Billion Photos. This Is How If You Want Yours Deleted, You Have To Opt Out",
-      "excerpt": "The Clearview AI nightmare has already been well-documented. Now, it’s emerged that if you want to be deleted from its 3 billion image database, you have to prove who you are first.",
-      "heat": 166,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/kateoflahertyuk/2020/01/26/clearview-ais-database-has-amassed-3-billion-photos-this-is-how-if-you-want-yours-deleted-you-have-to-opt-out/",
-      "ampWebUrl": "https://www.forbes.com/sites/kateoflahertyuk/2020/01/26/clearview-ais-database-has-amassed-3-billion-photos-this-is-how-if-you-want-yours-deleted-you-have-to-opt-out/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kateoflahertyuk/2020/01/26/clearview-ais-database-has-amassed-3-billion-photos-this-is-how-if-you-want-yours-deleted-you-have-to-opt-out/amp/",
-      "publishedDateTime": "2020-01-26T06:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x498/https://specials-images.forbesimg.com/imageserve/1139858627/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 498,
-          "title": "Clearview AI’s Database Has Amassed 3 Billion Photos. This Is How If You Want Yours Deleted, You Have To Opt Out",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-26-ibms-watson-center-pitches-ai-for-everyone-from-chefs-to-engineers.md",
-      "title": "IBM’s Watson Center pitches AI for everyone, from chefs to engineers",
-      "excerpt": "But IBM is betting its AI can “extract the insights” from data to help its clients stay ahead of the curve, Nebo said. For example, Watson’s AI could reveal a preference for avocado oil over ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.seattletimes.com/business/technology/ibms-watson-center-pitches-ai-for-everyone-from-chefs-to-engineers/",
-      "ampWebUrl": "https://www.seattletimes.com/business/technology/ibms-watson-center-pitches-ai-for-everyone-from-chefs-to-engineers/?amp=1",
-      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/ibms-watson-center-pitches-ai-for-everyone-from-chefs-to-engineers/?amp=1",
-      "publishedDateTime": "2020-01-26T06:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seattle Times",
-        "domain": "seattletimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static.seattletimes.com/wp-content/uploads/2020/01/01182020_AIibm_182723-300x201.jpg",
-          "width": 300,
-          "height": 201,
-          "title": "IBM’s Watson Center pitches AI for everyone, from chefs to engineers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-26-microsoft-weekly-series-x-ports-patches-for-a-price-and-stories-in-the-cloud.md",
-      "title": "Microsoft Weekly: Series X ports, patches for a price, and stories in the cloud",
-      "excerpt": "In either video or written form, Microsoft is inviting folks to share technical content relating to interesting experiences with Azure. These can revolve around open source, apps, DevOps + infrastructure, Big Data and Distributed Systems, Machine Learning and Data Science, as well as research. Submitted stories will be vetted by a committee of ...",
-      "heat": 75,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.neowin.net/news/microsoft-weekly-series-x-ports-patches-for-a-price-and-stories-in-the-cloud",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-26T04:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/01/1580038361_msw-20200126_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": "Microsoft Weekly: Series X ports, patches for a price, and stories in the cloud",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-01-27-4-days-left-to-save-150-on-tickets-to-tc-sessions-robotics-ai-2020.md",
       "title": "4 days left to save $150 on tickets to TC Sessions: Robotics + AI 2020",
       "excerpt": "There’s plenty more waiting for you, including the finalists of our first Pitch Night. This group of intrepid robotics and AI startup founders made the cut (10 teams will pitch the night before the conference at a private event). The finalists will pitch again at the conference from the Main Stage. Think your startup has what it takes to ...",
@@ -1494,12 +1241,12 @@
       "path": "_posts/_archive/2020-01-27-the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it.md",
       "title": "The US Army uses facial recognition to train AI. Now, it needs to protect it",
       "excerpt": "Facial and object recognition technologies are used by the US Army to train artificial intelligence (AI) systems used in unmanned aerial vehicles (UAVs), surveillance systems, and more.",
-      "heat": 111,
+      "heat": 71,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.zdnet.com/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-01-27T03:21:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -1517,15 +1264,7 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2019/12/16/35ee7b2b-7adc-4a8f-9a42-034997586ff6/thumbnail/1200x675/29e6b7ba24c8774ada650245cc7c7ba7/san-diego-to-suspend-facial-recognition-5df3b0c7aaacb30001a11066-1-dec-16-2019-22-49-36-poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "The US Army uses facial recognition to train AI. Now, it needs to protect it",
-          "attribution": null
-        }
-      ],
+      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
@@ -2172,6 +1911,250 @@
       "topics": [
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-28-campaign-to-ban-face-recognition-at-us-colleges-gathers-steam.md",
+      "title": "Campaign to Ban Face Recognition at U.S. Colleges Gathers Steam",
+      "excerpt": "An organized campaign against the use of biometric surveillance at universities and colleges in the U.S. is ratcheting up pressure on institutions it believes are currently using—or are likely soon to adopt—face recognition technology. Fight for the Future, one of the nation’s leading digital rights organizations, and Students for ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://gizmodo.com/campaign-to-ban-face-recognition-at-u-s-colleges-gathe-1841302162",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-28T05:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-28-cisco-adds-ai-transcription-to-webex-meetings.md",
+      "title": "Cisco adds AI transcription to Webex Meetings",
+      "excerpt": "Cisco has added new AI capabilities to Webex Meetings, following the company’s acquisition of Voicea last year. Voicea’s Enterprise Voice Assistant (EVA) speech recognition tech has been integrated into Cisco’s Webex Meetings videoconferencing platform. New features include automated recording and transcription of conversations ...",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.computerworld.com/article/3516593/cisco-adds-ai-transcription-to-webex-meetings.html",
+      "ampWebUrl": "https://www.computerworld.com/article/3516593/cisco-adds-ai-transcription-to-webex-meetings.amp.html",
+      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3516593/cisco-adds-ai-transcription-to-webex-meetings.amp.html",
+      "publishedDateTime": "2020-01-28T10:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/01/cisco-100784903-large.jpg",
+          "width": 700,
+          "height": 498,
+          "title": "Cisco adds AI transcription to Webex Meetings",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-28-cisco-brings-new-ai-functionality-to-webex.md",
+      "title": "Cisco brings new AI functionality to Webex",
+      "excerpt": "About six months after acquiring Voicea, Cisco is bringing its AI capabilities to Webex meetings. Now, Webex Assistant will be able to help with meeting tasks such as language translation, closed captioning and transcriptions. What is AI? Everything you need to know about Artificial Intelligence A guide to artificial intelligence, from ...",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/cisco-brings-new-ai-functionality-to-webex/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/cisco-brings-new-ai-functionality-to-webex/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cisco-brings-new-ai-functionality-to-webex/",
+      "publishedDateTime": "2020-01-28T00:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/01/27/b83afa9e-e7cf-4580-873e-523febb334a5/wm-1.jpg",
+          "width": 1789,
+          "height": 1118,
+          "title": "Cisco brings new AI functionality to Webex",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-28-deep-graph-library-part-2-training-on-amazon-sagemaker.md",
+      "title": "Deep Graph Library, part 2 — Training on Amazon SageMaker",
+      "excerpt": "Well, as DGL is available on Amazon SageMaker, I’ll show you in this post how to quickly and easily adapt your DGL code for SageMaker. As you probably guessed, we’re going to use script mode ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/@julsimon/deep-graph-library-part-2-training-on-amazon-sagemaker-54d318dfc814",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-28T01:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/891/1*Ti5TbBkB0vxxKOC5DyESHQ.png",
+          "width": 891,
+          "height": 514,
+          "title": "Deep Graph Library, part 2 — Training on Amazon SageMaker",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-28-directly-raises-20-million-to-improve-customer-service-with-ai.md",
+      "title": "Directly raises $20 million to improve customer service with AI",
+      "excerpt": "Notably, it comes after a year in which the startup grew 10% per month over a six-month period. “At Industry Ventures, our focus is to work with leading growth companies, full stop,” said the VC firm’s Brian Langer. “Directly saw tremendous growth toward the end of 2019, and the work they’re doing to revolutionize AI and machine ...",
+      "heat": 137,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/28/directly-raises-20-million-to-inject-ai-into-customer-service/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/28/directly-raises-20-million-to-inject-ai-into-customer-service/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/28/directly-raises-20-million-to-inject-ai-into-customer-service/amp/",
+      "publishedDateTime": "2020-01-28T06:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/5b070d85a92bfd1d8fa7ba1c_sharing_c5g69e6MSr5iT0iGaltGfR_upscaled_image_x4-1-e1580223042930.png?fit=1200%2C733&strip=all",
+          "width": 1200,
+          "height": 733,
+          "title": "Directly raises $20 million to improve customer service with AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-28-disruptive-opportunities-can-developing-ai-and-robotics-stabilise-the-naira.md",
+      "title": "Disruptive Opportunities: Can developing AI and robotics stabilise the Naira?",
+      "excerpt": "The massive global investments that are fueling rapidly developing technologies like Artificial Intelligence (AI) and robotics present huge opportunities for Nigeria to pull our currency out from the deep water. Currently, big tech players like the United Kingdom (UK) are outsourcing AI, robotics, and other related jobs to China, where the ...",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://nairametrics.com/2020/01/28/disruptive-opportunities-can-developing-ai-and-robotics-stabilise-the-naira/",
+      "ampWebUrl": "https://nairametrics.com/2020/01/28/disruptive-opportunities-can-developing-ai-and-robotics-stabilise-the-naira/amp/",
+      "cdnAmpWebUrl": "https://nairametrics-com.cdn.ampproject.org/c/s/nairametrics.com/2020/01/28/disruptive-opportunities-can-developing-ai-and-robotics-stabilise-the-naira/amp/",
+      "publishedDateTime": "2020-01-28T04:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nairametrics",
+        "domain": "nairametrics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i0.wp.com/nairametrics.com/wp-content/uploads/2020/01/Robotics.jpg?fit=900%2C563&#038;ssl=1",
+          "width": 900,
+          "height": 563,
+          "title": "Disruptive Opportunities: Can developing AI and robotics stabilise the Naira?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

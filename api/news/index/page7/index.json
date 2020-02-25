@@ -2,255 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_posts/2020-02-20-she-broke-the-glass-ceiling-to-establish-her-coliving-start-up.md",
-      "title": "She Broke the Glass Ceiling To Establish Her Coliving Start-up",
-      "excerpt": "Prior to this, the trio had founded Augbrain which uses artificial intelligence (AI) in education. However, the product was too complicated for ... Zolostays has raised $37 million in total till date. Choudhry revealed that the start-up is in advanced talks with new investors to raise up to $100 million for Series C round through a mix of ...",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.entrepreneur.com/article/346594",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/346594",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/346594",
-      "publishedDateTime": "2020-02-20T03:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/20200220095801-Snehaedited.jpeg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": "She Broke the Glass Ceiling To Establish Her Coliving Start-up",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-20-study-uses-machine-learning-to-identify-personalized-brain-networks-in-kids.md",
-      "title": "Study uses machine learning to identify personalized brain networks in kids",
-      "excerpt": "Machine learning is helping Penn Medicine researchers identify the size and shape of brain networks in individual children, which may be useful for understanding psychiatric disorders. In a new study published today in the journal Neuron, a multidisciplinary team showed how brain networks unique to each child can predict cognition. The study ...",
-      "heat": 92,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.news-medical.net/news/20200219/Study-uses-machine-learning-to-identify-personalized-brain-networks-in-kids.aspx",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20200219/Study-uses-machine-learning-to-identify-personalized-brain-networks-in-kids.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200219/Study-uses-machine-learning-to-identify-personalized-brain-networks-in-kids.aspx",
-      "publishedDateTime": "2020-02-19T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.news-medical.net/image.axd?picture=2016%2f3%2fChildren_playing_sunset_-_Zurijeta_8c5bdac77e44431bb1bfec67b9c87208-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": "Study uses machine learning to identify personalized brain networks in kids",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-20-the-ai-eye-let-the-chips-fall-where-they-may-the-burgeoning-market-for-artificial-intelligence-chips.md",
-      "title": "The AI Eye: Let the Chips Fall Where They May - The Burgeoning Market for Artificial Intelligence Chips",
-      "excerpt": "Point Roberts, WA and Vancouver, BC - February 20, 2020 (Investorideas.com Newswire) Investorideas.com (www.investorideas.com), a global investor news source covering Artificial Intelligence (AI) brings you today's edition of The AI Eye,",
-      "heat": 115,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/the-ai-eye-let-the-chips-fall-where-they-may---the-burgeoning-market-for-artificial-intelligence-chips-2020-02-20",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-20T07:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "The AI Eye: Let the Chips Fall Where They May - The Burgeoning Market for Artificial Intelligence Chips",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-20-the-zacks-analyst-blog-highlights-microsoft-applied-materials-sap-se-lam-research-and-tencent.md",
-      "title": "The Zacks Analyst Blog Highlights: Microsoft, Applied Materials, SAP SE, Lam Research and Tencent",
-      "excerpt": "Chicago, IL – February 20, 2020 – Zacks.com announces the list of stocks featured in the Analyst Blog. Every day the Zacks Equity Research analysts discuss the latest news and events impacting stocks and the financial markets.",
-      "heat": 80,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nasdaq.com/articles/the-zacks-analyst-blog-highlights%3A-microsoft-applied-materials-sap-se-lam-research-and",
-      "ampWebUrl": "https://www.nasdaq.com/articles/the-zacks-analyst-blog-highlights%3A-microsoft-applied-materials-sap-se-lam-research-and?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/the-zacks-analyst-blog-highlights%3A-microsoft-applied-materials-sap-se-lam-research-and?amp",
-      "publishedDateTime": "2020-02-20T06:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg",
-          "width": 1024,
-          "height": 512,
-          "title": "The Zacks Analyst Blog Highlights: Microsoft, Applied Materials, SAP SE, Lam Research and Tencent",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "Facebook AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-20-this-college-banned-students-from-even-discussing-facial-recognition.md",
-      "title": "This College Banned Students From Even Discussing Facial Recognition",
-      "excerpt": "This article originally appeared on VICE US. Amidst a growing nationwide resistance to facial recognition on college campuses, school administrators at Michigan's Oakland Community College (OCC) are blocking students’ organizing efforts to prevent the technology from being adopted. Last week, the school's administrators canceled a forum event ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.vice.com/en_in/article/4ag4mw/this-college-banned-students-from-even-discussing-facial-recognition",
-      "ampWebUrl": "https://www.vice.com/amp/en_in/article/4ag4mw/this-college-banned-students-from-even-discussing-facial-recognition",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_in/article/4ag4mw/this-college-banned-students-from-even-discussing-facial-recognition",
-      "publishedDateTime": "2020-02-20T05:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://video-images.vice.com/test-uploads/articles/5e4d943853183c009d48a232/lede/1582144710293-GettyImages-1127318593.jpeg?crop=1xw%3A0.8431477516059958xh%3Bcenter%2Ccenter&resize=2000%3A*",
-          "width": 2000,
-          "height": 1124,
-          "title": "This College Banned Students From Even Discussing Facial Recognition",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-20-vcs-warn-pumping-millions-into-an-ai-startup-you-mean-pumping-millions-into-azure-aws-or-google-cloud.md",
-      "title": "VCs warn: Pumping millions into an AI startup? You mean, pumping millions into Azure, AWS or Google Cloud...",
-      "excerpt": "“Anecdotally, we have seen a surprisingly consistent pattern in the financial data of AI companies, with gross margins often in the 50-60 per cent range – well below the 60-80 per cent [and above] benchmark for comparable SaaS businesses,” said Martin Casado and Matt Bornstein, venture-capitalists at Silicon Valley's venerable Andreessen ...",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theregister.co.uk/2020/02/20/starting_an_ai_biz/",
-      "ampWebUrl": "https://www.theregister.co.uk/AMP/2020/02/20/starting_an_ai_biz/",
-      "cdnAmpWebUrl": "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/02/20/starting_an_ai_biz/",
-      "publishedDateTime": "2020-02-20T01:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Register",
-        "domain": "theregister.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2018/09/26/shutterstock_118942015.jpg",
-          "width": 648,
-          "height": 448,
-          "title": "VCs warn: Pumping millions into an AI startup? You mean, pumping millions into Azure, AWS or Google Cloud...",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-20-when-it-comes-to-artificial-intelligence-throw-away-that-tired-old-tech-rulebook.md",
       "title": "When It Comes To Artificial Intelligence, Throw Away That Tired Old Tech Rulebook",
       "excerpt": "MIT Sloan survey finds AI incurs risks and demands for executive involvement not seen in previous technology incarnations.",
@@ -729,6 +480,43 @@
         "AI",
         "AI Ethics",
         "Google AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-21-edmodo-partners-with-ibm-watson-education-to-close-learning-gaps-using-ai.md",
+      "title": "Edmodo Partners with IBM Watson Education to Close Learning Gaps using AI",
+      "excerpt": "Before it's here, it's on the Bloomberg Terminal.",
+      "heat": 73,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bloomberg.com/press-releases/2018-07-16/edmodo-partners-with-ibm-watson-education-to-close-learning-gaps-using-ai",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-21T10:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI"
       ]
     },
     {
@@ -2142,6 +1930,222 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-24-chess-grandmaster-gary-kasparov-predicts-ai-will-disrupt-96-percent-of-all-jobs.md",
+      "title": "Chess grandmaster Gary Kasparov predicts AI will disrupt 96 percent of all jobs",
+      "excerpt": "After Kasparov‘s loss, the experts didn’t miss a beat. They said Chess was too easy and postulated that machines would never beat us at Go. Champion Lee Sedol’s loss against DeepMind’s AlphaGo proved them wrong there. Apparently the only thing more powerful than human hubris is our ability to iterate new technologies. At least ...",
+      "heat": 95,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/02/24/chess-grandmaster-gary-kasparov-predicts-ai-will-disrupt-96-percent-of-all-jobs/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/02/24/chess-grandmaster-gary-kasparov-predicts-ai-will-disrupt-96-percent-of-all-jobs/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/24/chess-grandmaster-gary-kasparov-predicts-ai-will-disrupt-96-percent-of-all-jobs/amp/",
+      "publishedDateTime": "2020-02-24T14:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/chesspieces-796x405.jpg",
+          "width": 796,
+          "height": 405,
+          "title": "Chess grandmaster Gary Kasparov predicts AI will disrupt 96 percent of all jobs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-24-choosing-between-rule-based-bots-and-ai-bots.md",
+      "title": "Choosing Between Rule-Based Bots And AI Bots",
+      "excerpt": "Chatbot success stories are inspiring companies to adopt bots for customer service purposes. However, the main question to be considered before adopting bots is whether to go with rule-based bots or AI bots.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/23/choosing-between-rule-based-bots-and-ai-bots/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/23/choosing-between-rule-based-bots-and-ai-bots/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/02/23/choosing-between-rule-based-bots-and-ai-bots/amp/",
+      "publishedDateTime": "2020-02-23T16:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x284/https://specials-images.forbesimg.com/imageserve/5e4031e98b6cf300071e3eb8/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 284,
+          "title": "Choosing Between Rule-Based Bots And AI Bots",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-24-clever-browser-tool-erases-people-from-live-webcam-feeds-in-real-time.md",
+      "title": "Clever Browser Tool Erases People From Live Webcam Feeds in Real Time",
+      "excerpt": "Mayes is a Google web engineer who developed his Disappearing-People tool using Javascript and TensorFlow, which is Google’s free, open source software library that allows the terrifying potential of artificial intelligence and deep learning to be applied to less terrifying applications. In this case, the neural network works to determine ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://gizmodo.com/clever-browser-tool-erases-people-from-live-webcam-feed-1841886899",
+      "ampWebUrl": "https://gizmodo.com/clever-browser-tool-erases-people-from-live-webcam-feed-1841886899/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/clever-browser-tool-erases-people-from-live-webcam-feed-1841886899/amp",
+      "publishedDateTime": "2020-02-24T15:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/s--kY9EtKmN--/c_scale,f_auto,fl_progressive,q_80,w_800/rn8juxshvtinyw3oh5te.jpg",
+          "width": 800,
+          "height": 450,
+          "title": "Clever Browser Tool Erases People From Live Webcam Feeds in Real Time",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-24-crucial-oversight-needed-for-police-ai-use.md",
+      "title": "\"Crucial\" oversight needed for police AI use",
+      "excerpt": "A report looking into police use of AI and data-driven technologies has called for urgent national guidance to ... RUSI was commissioned to conduct an independent study into English and Welsh police use of data analytics by the Centre for Data Ethics and Innovation (CDEI). Its focus was on algorithmic bias with a primary focus to help CDEI's ...",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.itpro.co.uk/data-insights/big-data-analytics/354841/crucial-oversight-needed-for-police-ai-use",
+      "ampWebUrl": "https://www.itpro.co.uk/data-insights/big-data-analytics/354841/crucial-oversight-needed-for-police-ai-use?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/data-insights/big-data-analytics/354841/crucial-oversight-needed-for-police-ai-use?amp",
+      "publishedDateTime": "2020-02-24T07:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/v1582538868/itpro/Police_officers.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": "\"Crucial\" oversight needed for police AI use",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-24-dubai-set-to-witness-professional-interaction-with-humanoid-robot-sophia.md",
+      "title": "Dubai set to witness professional interaction with humanoid robot Sophia",
+      "excerpt": "“As a robot myself, I believe that data is the key to making smart decisions. With enough data, AI can be used to evaluate potential risk factors and prevent problems before they start.” The UAE is the only country in the world to have a Ministry of Artificial Intelligence. When she was asked to suggest as to what should it do to be a ...",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zawya.com/mena/en/press-releases/story/Dubai_set_to_witness_professional_interaction_with_humanoid_robot_Sophia-ZAWYA20200224083733/",
+      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/ZAWYA20200224083733/",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200224083733/",
+      "publishedDateTime": "2020-02-24T05:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.zawya.com/resources/img/zawya-logo-en-social.png",
+          "width": 1200,
+          "height": 878,
+          "title": "Dubai set to witness professional interaction with humanoid robot Sophia",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

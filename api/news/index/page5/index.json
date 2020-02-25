@@ -2,268 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_posts/2020-02-18-eu-wants-big-tech-to-deploy-ai-tech-on-its-own-terms.md",
-      "title": "EU wants Big Tech to deploy AI tech on its own terms",
-      "excerpt": "The general perception is that Europe is far behind the US and China in terms of AI development. However, according to the McKinsey Global Institute, the EU's gap in digital tech can be overcome by funding startup development, digital transformation of non-tech companies, and encouraging investors to bring in more capital. As for talent ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techspot.com/news/84049-eu-wants-big-tech-deploy-ai-tech-own.html",
-      "ampWebUrl": "https://www.techspot.com/amp/news/84049-eu-wants-big-tech-deploy-ai-tech-own.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/84049-eu-wants-big-tech-deploy-ai-tech-own.html",
-      "publishedDateTime": "2020-02-17T17:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/ts3_thumbs/2019/09/2019-09-11-ts3_thumbs-cdd.jpg",
-          "width": 800,
-          "height": 560,
-          "title": "EU wants Big Tech to deploy AI tech on its own terms",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-18-frontline-documentary-tackles-jeff-bezos-and-the-amazon-empire.md",
-      "title": "‘Frontline’ documentary tackles Jeff Bezos and the ‘Amazon Empire’",
-      "excerpt": "Complaints about Amazon becoming a monopoly (and resulting scrutiny from antitrust officials) take up a chunk of the runtime, as do troubling privacy issues with the likes of Alexa, Ring and Rekognition. The film covers issues spanning Amazon's entire history, including prominent incidents from the last couple of months. For one thing ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/2020/02/18/amazon-jeff-bezos-pbs-frontline-documentary/",
-      "ampWebUrl": "https://www.engadget.com/amp/2020/02/18/amazon-jeff-bezos-pbs-frontline-documentary/",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/18/amazon-jeff-bezos-pbs-frontline-documentary/",
-      "publishedDateTime": "2020-02-18T10:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D4000%252C2665%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1066%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2019-10%252F2dc5f530-f73b-11e9-b9fb-e4efc3e98a11%26client%3Da1acac3e1b3290917d92%26signature%3Dd508de34fd88318d726156a4659e02821dfc543b&client=amp-blogside-v2&signature=f50a601669cd596c8c0df2f87d19e86eea91f1e8",
-          "width": 600,
-          "height": 350,
-          "title": "‘Frontline’ documentary tackles Jeff Bezos and the ‘Amazon Empire’",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-18-global-machine-learning-chip-market-to-garner-3785-billion-by-2025-at-408-cagr.md",
-      "title": "Global Machine Learning Chip Market to Garner $37.85 Billion by 2025, at 40.8% CAGR",
-      "excerpt": "Portland, Feb. 18, 2020 (GLOBE NEWSWIRE) -- According to the report published by Allied Market Research, the global machine learning chip market accounted for $3.46 billion in 2018 and is projected to reach $37.",
-      "heat": 73,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/global-machine-learning-chip-market-to-garner-3785-billion-by-2025-at-408-cagr-2020-02-18",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-18T06:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Global Machine Learning Chip Market to Garner $37.85 Billion by 2025, at 40.8% CAGR",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-18-google-brain-and-deepmind-researchers-attack-reinforcement-learning-efficiency.md",
-      "title": "Google Brain and DeepMind researchers attack reinforcement learning efficiency",
-      "excerpt": "Unfortunately, it’s data-intensive, which motivated research teams — one from Google Brain (one of Google’s AI research divisions) and the other from Alphabet’s DeepMind — to prototype more efficient means of executing it. In a pair of preprint papers, the researchers propose Adaptive Behavior Policy Sharing (ABPS), an algorithm that ...",
-      "heat": 120,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/18/google-brain-deepmind-reinforcement-learning-efficiency/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/18/google-brain-deepmind-reinforcement-learning-efficiency/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/18/google-brain-deepmind-reinforcement-learning-efficiency/amp/",
-      "publishedDateTime": "2020-02-18T09:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/dims-e1575998404106.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Google Brain and DeepMind researchers attack reinforcement learning efficiency",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-18-google-experiments-with-ai-to-design-its-in-house-computer-chips.md",
-      "title": "Google experiments with AI to design its in-house computer chips",
-      "excerpt": "The Google Translate application is an escape of a sophisticated program, now at seventy different languages, that can run on a phone even in airplane mode, he noted, when there's no connection back to the data center. The family of Google silicon for AI has already broadened, he indicated. The \"Edge TPU,\" for example, is a designation that ...",
-      "heat": 116,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/google-experiments-with-ai-to-design-its-in-house-computer-chips/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-experiments-with-ai-to-design-its-in-house-computer-chips/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-experiments-with-ai-to-design-its-in-house-computer-chips/",
-      "publishedDateTime": "2020-02-18T09:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/02/18/488b0d78-cb71-4f26-a228-dabf1c603a54/google-ai-for-chip-design-feb-2020.png",
-          "width": 2388,
-          "height": 1339,
-          "title": "Google experiments with AI to design its in-house computer chips",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-18-google-funds-6-ai-driven-research-projects-in-india.md",
-      "title": "Google funds 6 AI-driven research projects in India",
-      "excerpt": "Google Research India will provide each team with funding and computational resources in addition to supporting the efforts with expertise in computer vision, natural language processing, and other deep learning techniques, the company said in a statement. \"We are increasingly seeing people apply AI to address big challenges. Therefore ...",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://english.mathrubhumi.com/technology/tech-news/google-funds-6-ai-driven-research-projects-in-india-1.4539361",
-      "ampWebUrl": "https://english.mathrubhumi.com/technology/tech-news/google-funds-6-ai-driven-research-projects-in-india-1.4539361",
-      "cdnAmpWebUrl": "https://english-mathrubhumi-com.cdn.ampproject.org/c/s/english.mathrubhumi.com/technology/tech-news/google-funds-6-ai-driven-research-projects-in-india-1.4539361",
-      "publishedDateTime": "2020-02-18T04:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mathrubhumi",
-        "domain": "mathrubhumi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://english.mathrubhumi.com/polopoly_fs/1.4372375.1576661380!/image/image.PNG_gen/derivatives/landscape_1080_600/image.PNG",
-          "width": 1080,
-          "height": 608,
-          "title": "Google funds 6 AI-driven research projects in India",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_posts/2020-02-18-google-revealed-to-have-acquired-the-most-ai-startups-since-2009.md",
       "title": "Google revealed to have acquired the most AI startups since 2009",
       "excerpt": "Coming in behind Google was Apple with 18 AI companies acquired for a total disclosed amount of $886 million, followed by Facebook with 12 for the disclosed cost of just over $1 billion. Apple’s acquisitions included Siri in 2010 and Realface in 2017, while Facebook bought Face.com in 2012 and Masquerade Technologies in 2016. Along with data ...",
@@ -2140,6 +1878,259 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-19-levels-and-limits-of-ai.md",
+      "title": "Levels And Limits Of AI",
+      "excerpt": "Not all AI is the same. Accelerated AI makes what you do faster. Augmented AI makes it better. And Automated AI does it for you. But when each \"level\" of AI becomes feasible is a function of the underlying problem's difficulty,",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/konstantinebuhler/2020/02/19/levels-and-limits-of-ai/",
+      "ampWebUrl": "https://www.forbes.com/sites/konstantinebuhler/2020/02/19/levels-and-limits-of-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/konstantinebuhler/2020/02/19/levels-and-limits-of-ai/amp/",
+      "publishedDateTime": "2020-02-19T08:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1141218835%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6400%26cropY1%3D663%26cropY2%3D4263",
+          "width": 1200,
+          "height": 675,
+          "title": "Levels And Limits Of AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-19-malaysian-firm-offers-ai-based-profiling-of-chinese-visitors-for-virus.md",
+      "title": "Malaysian firm offers AI-based profiling of Chinese visitors for virus",
+      "excerpt": "Malaysia’s MYEG Services Bhd ( MYEG.KL) said on Wednesday it had developed a coronavirus risk-profiling system for visitors from China and was offering the artificial intelligence-based service to the governments of Malaysia and the Philippines.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-china-health-malaysia-profiling-idUSKBN20D1WJ",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN20D1WJ",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN20D1WJ",
+      "publishedDateTime": "2020-02-19T06:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200219&t=2&i=1492406894&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG1I18X",
+          "width": 817,
+          "height": 545,
+          "title": "Malaysian firm offers AI-based profiling of Chinese visitors for virus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-19-microsofts-new-dynamics-365-services-apply-ai-to-finance-and-project-operations.md",
+      "title": "Microsoft’s new Dynamics 365 services apply AI to finance and project operations",
+      "excerpt": "“Our continued investment in expanding AI capabilities across Dynamics 365 helps … organization[s] accelerate ... Customer Insights now plays nicely with Azure Synapse Analytics, allowing managers to run customer data through analytical processing pipelines and machine learning models. This in conjunction with prebuilt APIs that enable ...",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/19/microsofts-new-dynamics-365-services-apply-ai-to-finance-and-project-operations/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/19/microsofts-new-dynamics-365-services-apply-ai-to-finance-and-project-operations/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/19/microsofts-new-dynamics-365-services-apply-ai-to-finance-and-project-operations/amp/",
+      "publishedDateTime": "2020-02-19T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?fit=1200%2C573&strip=all",
+          "width": 1200,
+          "height": 573,
+          "title": "Microsoft’s new Dynamics 365 services apply AI to finance and project operations",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-19-nasa-missed-these-11-dangerous-asteroids-but-an-ai-caught-them.md",
+      "title": "NASA missed these 11 dangerous asteroids, but an AI caught them",
+      "excerpt": "To see just how many possibly dangerous asteroids we’ve been missing, researchers from the Netherlands built an AI network to analyze the data and see what it could find. AMAZON'S TOP DEALS: These Amazon deals are up to 50% off, today only! As the researchers explain in a new paper published in Astronomy & Astrophysics, the computer brain was ...",
+      "heat": 167,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://bgr.com/2020/02/18/ai-asteroids-detection-threatening-earth/",
+      "ampWebUrl": "https://bgr.com/2020/02/18/ai-asteroids-detection-threatening-earth/amp/",
+      "cdnAmpWebUrl": "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/2020/02/18/ai-asteroids-detection-threatening-earth/amp/",
+      "publishedDateTime": "2020-02-18T17:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BGR",
+        "domain": "bgr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://boygeniusreport.files.wordpress.com/2016/12/asteroid.png",
+          "width": 1560,
+          "height": 1205,
+          "title": "NASA missed these 11 dangerous asteroids, but an AI caught them",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-19-northern-data-and-canaan-inc-announce-cooperation-on-blockchain-technology-and-ai.md",
+      "title": "Northern Data and Canaan Inc Announce Cooperation on Blockchain-technology and AI",
+      "excerpt": "Combining Canaan's excellence in the fields of AI Chip development and ASIC hardware with Northern Data's proven track record at delivering A class Datacenter and Blockchain infrastructure at scale will provide both companies with a solid bedrock to build and expand in this tremendously exciting technology space and catapult both companies ...",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/northern-data-and-canaan-inc-announce-cooperation-on-blockchain-technology-and-ai-1028917334",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/northern-data-and-canaan-inc-announce-cooperation-on-blockchain-technology-and-ai-1028917334",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/northern-data-and-canaan-inc-announce-cooperation-on-blockchain-technology-and-ai-1028917334",
+      "publishedDateTime": "2020-02-18T23:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-19-obviously-ai-introduces-natural-language-predictive-analytics-service.md",
+      "title": "Obviously AI introduces natural language predictive analytics service",
+      "excerpt": "The key is a combination of natural language processing and AutoML-like capabilities that let you write a query down in standard English (you can skip the SQL), choose the data set and column(s) you want to target. Then the service performs some data cleansing to normalize the data, internally runs a handful of competing algorithms to select ...",
+      "heat": 121,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/obviously-ai-introduces-natural-language-predictive-analytics-service/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/obviously-ai-introduces-natural-language-predictive-analytics-service/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/obviously-ai-introduces-natural-language-predictive-analytics-service/",
+      "publishedDateTime": "2020-02-19T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/02/19/3b6d1b1b-288c-4f2d-9b9d-76593f46fba9/thumbnail/1200x675/aeb3ea6808e22b96d2de0a08c7e48caa/sennheiser-hd-450bt-header.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Obviously AI introduces natural language predictive analytics service",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "Machine Learning"
       ]
     }
   ],

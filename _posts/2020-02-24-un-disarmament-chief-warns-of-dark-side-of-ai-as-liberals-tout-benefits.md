@@ -1,29 +1,21 @@
 ---
 category: news
 title: "UN disarmament chief warns of 'dark side' of AI, as Liberals tout benefits"
-excerpt: "OTTAWA — The United Nations’ top disarmament official says governments need to pay more attention to the “dark side” of artificial intelligence, including the implications of ... Britain on Monday to develop AI projects that could lead to breakthroughs in driverless vehicles and health care for seniors. The government has made AI ..."
-publishedDateTime: 2020-02-24T20:54:00Z
-webUrl: "https://nationalpost.com/pmn/news-pmn/canada-news-pmn/un-disarmament-chief-warns-of-dark-side-of-ai-as-liberals-tout-benefits"
-ampWebUrl: "https://nationalpost.com/pmn/news-pmn/canada-news-pmn/un-disarmament-chief-warns-of-dark-side-of-ai-as-liberals-tout-benefits/amp"
-cdnAmpWebUrl: "https://nationalpost-com.cdn.ampproject.org/c/s/nationalpost.com/pmn/news-pmn/canada-news-pmn/un-disarmament-chief-warns-of-dark-side-of-ai-as-liberals-tout-benefits/amp"
+excerpt: "OTTAWA — The United Nations' top disarmament official says governments need to pay more attention to the \"dark side\" of artificial intelligence, including the implications of so ... Britain on Monday to develop AI projects that could lead to breakthroughs in driverless vehicles and health care for seniors. The government has made AI a pillar ..."
+publishedDateTime: 2020-02-24T20:52:00Z
+webUrl: "https://www.burnabynow.com/un-disarmament-chief-warns-of-dark-side-of-ai-as-liberals-tout-benefits-1.24082995"
 type: article
-quality: 57
-heat: 67
+quality: 17
+heat: -1
 published: false
 
 provider:
-  name: National Post
-  domain: nationalpost.com
+  name: Burnaby Now
+  domain: burnabynow.com
 
 topics:
   - AI
   - AI in Autos
-
-images:
-  - url: "https://nationalpostcom.files.wordpress.com/2020/02/cpt128-the-associated-press-1.jpg"
-    width: 1000
-    height: 750
-    title: "UN disarmament chief warns of 'dark side' of AI, as Liberals tout benefits"
 
 related:
   - title: "Benefits of AI touted by Liberals, despite UN warnings of its ‘dark side’"
@@ -38,6 +30,6 @@ related:
       domain: globalnews.ca
     quality: 40
 
-secured: "OtCVgx5GwXt3/jVEK/abYJMRVvvkSx3aJqSPrGxTwC5vqxun9ENZELiUdKJeXYLtt1iccGqEWAgn/YfSe4Vckxxb+xsEf9PJGPyWpWLvuCYz9NgZJZgBRYdqFyzuWRR/G9wMbJFJFqSBBtCuVgZI/PYyCpfKHJkGEA6hLMMiKRUJFPy31Hs7cO2kq4HPM3r1hp2oz9Z1kXnrpSukl7DFGPk9MSe3PuB6JGrNkUm/f6TVqngm8958hLVXQXEk2iFpM3vFtfSCbSn3lBJBrKugtwteD4xDcl2VXI4tTXniSOTxPCOPsbA1VfKa3+wOr+5QfmdDfLgl/zh0n1S8QMYuYzgyfaVQ32oh6Y6vIRcMzpeb9Isgn8i3ceQAaIqO/VvFte4Zl4VwOcNh9UiFF/umNomU3ebHHaZ7dbrtP4uF9IhPyydXvBeC82HxrLkNRGq5WGUjHvM3vz13mCPq63w3PuASL6ml2o2QfTqJ1LDU2G0=;KWCmvTI1mQcLcKIo/23DQg=="
+secured: "eCldS0AQa0N+vPFwymCzlh5fi0ST0e2EYL0ZYLBFHUlK9UNxH1wbPmh2sn2r4HPiV7xV6zkddC+pkiKb3va8ImXgZjy1vuI+GilYriDRR5n+5YozQyjGE8WBpU8AzKAX5l5BY6YhN75C8bIWd7e2j3upgwNa7bD2xF0cxXS8u1VNw0kB+gn8Hg2ZOeB2m1hnHSxPzhyJ+ECzySi+n7wPkbNA81v/QtG3OTd4IrqJt/tyRrOsViAJ2+cNQoKj/Pk3u1WRCupNwFP9SLLf6QZaPANXivvp1paZjdOANU0zzGmbJltCKH3jFILWYFIJzFimUxDYAUZ1ONrzT3KT3oZB85AcHoeM2JsS69zBg0pmdTYBxCx+mWHllHWHVQ7uCwGCh+u1EF0rYQyiA09rpLViz5H2s5YuKSsC0tc4hUD1HVhbfGIi9M/f5S8TKl+Hfa4g0NyhvqMYJxYlPtn0fn81M9Z6KE+jltCtTJGbeTk8QEg=;GiX77CAbLQafRT2X99sGGA=="
 ---
 
