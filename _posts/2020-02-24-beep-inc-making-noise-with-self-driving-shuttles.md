@@ -39,6 +39,21 @@ related:
       - url: "https://www.nbc4i.com/wp-content/uploads/sites/18/2020/02/Shuttle.jpg?w=1280&h=720&crop=1"
         width: 1280
         height: 720
+  - title: "Smart Columbus halts self-driving shuttle test after malfunction"
+    excerpt: "Smart Columbus has put the brakes on its two self-driving shuttles in Linden after one unexpectedly stopped in the middle of a route and a woman slipped from her seat on to the floor. The shuttle had just left the Douglas Community Recreation Center on Windsor Avenue when it stopped on the street around noon Thursday, Smart Columbus spokeswoman ..."
+    publishedDateTime: 2020-02-25T01:22:00Z
+    webUrl: "https://www.dispatch.com/news/20200224/smart-columbus-halts-self-driving-shuttle-test-after-unplanned-stop?rssfeed=true"
+    ampWebUrl: "https://www.dispatch.com/news/20200224/smart-columbus-halts-self-driving-shuttle-test-after-unplanned-stop?template=ampart"
+    cdnAmpWebUrl: "https://www-dispatch-com.cdn.ampproject.org/c/s/www.dispatch.com/news/20200224/smart-columbus-halts-self-driving-shuttle-test-after-unplanned-stop?template=ampart"
+    type: article
+    provider:
+      name: Columbus Dispatch
+      domain: dispatch.com
+    quality: 44
+    images:
+      - url: "https://www.dispatch.com/apps/pbcsi.dll/bilde?Site=OH&Date=20200224&Category=NEWS&ArtNo=200229208&Ref=AR"
+        width: 2000
+        height: 1326
 
 secured: "ZMQm45b0qv0AeAa/kGlqy95Ko467Y/nMjDDoyXFNKe3Hv32R6lyOjKkTnjjrFNmD8RKMX22g/ISGEovgTwns8ajdhQbAqZYaygK7lzi2zhz88/uJmI0vEXenNgiAvJbgVfE9dErhf4e+T6TIn4j5yrZSXp8ohxIi2V+26qwNp5Y1b7JVgCSL+NVHlMg3tw17MUnbgcbOqZMAZmsTg2VAliglgzqzjMq8iejt3ZTNnYRhAvo/GvEXyublmYzGApXVfh8ZJMAtz2cGj+9DsN3tBm1LC7XqiO9ZEs0kfhvZqHy2PwyhkedJJfSFMh76dmygu/z2zhMiMTq9IeZBprI/XBHI5pDIc/Dt5HvDpB0/UWUG9lNKyOMaOOQCEu2FtlAvTZscb/UJaIwtjat/2TyuVwy7YrzNBbYf9a11SdTaqtb6mv0s7+CZcsWHIFz9E2N5pSCSOGJfhm42IB/1dSaIpQjvNc2EYUtznA88bEVuH2Y=;XigTI9RH5jViy8eQ6nljEg=="
 ---

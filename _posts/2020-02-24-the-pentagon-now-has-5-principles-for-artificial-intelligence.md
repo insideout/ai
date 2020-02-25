@@ -121,6 +121,19 @@ related:
       - url: "https://thediplomat.com/wp-content/uploads/2019/08/sizes/td-story-s-2/thediplomat-48638537022_c1dc1f9a14_o.jpg"
         width: 600
         height: 400
+  - title: "Pentagon adopts ethical principles for Artificial Intelligence use in military"
+    excerpt: "WASHINGTON — The very phrase \"artificial intelligence\" conjures up images of every Hollywood science fiction flick that one can recall. But the technology is very real, and so are concerns about the ethics involved when it comes to the battlefield. The U.S. military has actually been using autonomous technology for years, from medical ..."
+    publishedDateTime: 2020-02-25T01:06:00Z
+    webUrl: "https://www.13newsnow.com/article/news/national/military-news/considering-the-ethics-of-artificial-intelligence-in-the-military/291-4b87fa7b-6e1e-4d32-82b9-7af286950913"
+    type: article
+    provider:
+      name: WVEC
+      domain: 13newsnow.com
+    quality: 50
+    images:
+      - url: "https://media.13newsnow.com/assets/WVEC/images/58a3c937-e9af-42da-a5b4-b33c6745f1e8/58a3c937-e9af-42da-a5b4-b33c6745f1e8_1140x641.jpg"
+        width: 1140
+        height: 641
   - title: "DOD Adopts Ethical Principles for Artificial Intelligence"
     excerpt: "The adoption of AI ethical principles aligns with the DOD AI strategy objective directing the U.S. military lead in AI ethics and the lawful use of AI systems. \"The United States, together with our allies and partners, must accelerate the adoption of AI and lead in its national security applications to maintain our strategic position ..."
     publishedDateTime: 2020-02-24T22:03:00Z

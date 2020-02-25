@@ -1,20 +1,28 @@
 ---
 category: news
-title: "Artificial Intelligence brings a novel antibiotic compound"
-excerpt: "Researchers from the Massachusetts Institute of Technology (MIT) have made a scientific breakthrough where their machine-learning algorithm or Artificial Intelligence (AI) program successfully created a novel antibiotic compound. The drug has since then been tested on deadly bacteria in the lab, and in lab mice with a considerable amount of ..."
-publishedDateTime: 2020-02-21T00:44:00Z
-webUrl: "https://www.news-medical.net/news/20200220/Artificial-Intelligence-brings-a-novel-antibiotic-compound.aspx"
+title: "A New Antibiotic, Discovered By Artificial Intelligence, May Help Reinvigorate A Slowing Field"
+excerpt: "The new compound, which scientists named Halicin after the murderous computer from the classic movie \"2001: A Space Odyssey,\" showed a broad ability to kill bacteria, raising hopes that artificial intelligence might boost a lagging antibiotic development field. Pharmaceutical companies have been retreating from antibiotic development because ..."
+publishedDateTime: 2020-02-25T01:27:00Z
+webUrl: "https://www.wbur.org/commonhealth/2020/02/24/ai-antibiotic-halicin-mit"
+ampWebUrl: "https://amp.wbur.org/commonhealth/2020/02/24/ai-antibiotic-halicin-mit"
+cdnAmpWebUrl: "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/commonhealth/2020/02/24/ai-antibiotic-halicin-mit"
 type: article
-quality: 17
+quality: 45
 heat: -1
 published: false
 
 provider:
-  name: News Medical
-  domain: news-medical.net
+  name: WBUR
+  domain: wbur.org
 
 topics:
   - AI
+
+images:
+  - url: "https://d279m997dpfwgl.cloudfront.net/wp/2020/02/49234831117_008df8ab3a_o-1.jpg"
+    width: 2047
+    height: 1462
+    title: "A New Antibiotic, Discovered By Artificial Intelligence, May Help Reinvigorate A Slowing Field"
 
 related:
   - title: "Artificial intelligence yields new antibiotic"
@@ -125,21 +133,6 @@ related:
       - url: "https://cdn.iflscience.com/images/b8c230b6-a3ea-5854-9482-5d6e99b6c372/default-1582285414-cover-image.jpg"
         width: 720
         height: 405
-  - title: "A New Antibiotic, Discovered By Artificial Intelligence, May Help Reinvigorate A Slowing Field"
-    excerpt: "The new compound, which scientists named Halicin after the murderous computer from the classic movie \"2001: A Space Odyssey,\" showed a broad ability to kill bacteria, raising hopes that artificial intelligence might boost a lagging antibiotic development field. Pharmaceutical companies have been retreating from antibiotic development because ..."
-    publishedDateTime: 2020-02-25T01:27:00Z
-    webUrl: "https://www.wbur.org/commonhealth/2020/02/24/ai-antibiotic-halicin-mit"
-    ampWebUrl: "https://amp.wbur.org/commonhealth/2020/02/24/ai-antibiotic-halicin-mit"
-    cdnAmpWebUrl: "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/commonhealth/2020/02/24/ai-antibiotic-halicin-mit"
-    type: article
-    provider:
-      name: WBUR
-      domain: wbur.org
-    quality: 45
-    images:
-      - url: "https://d279m997dpfwgl.cloudfront.net/wp/2020/02/49234831117_008df8ab3a_o-1.jpg"
-        width: 2047
-        height: 1462
   - title: "Ask Dr. Nandi: Artificial intelligence yields new antibiotic"
     excerpt: "Now, artificial intelligence has been around for some time ... Dr. Partha Nandi, MD talks with Detroit’s very own Dr. Gail Parker, PhD who shares her methods of healthiness through yoga therapy. Also joining the discussion is actress Leila Almas who reveals how her career was saved through meditative practice. Plus, a discussion on meditation ..."
     publishedDateTime: 2020-02-21T22:03:00Z
@@ -201,7 +194,16 @@ related:
       - url: "https://nationalinterest.org/sites/default/files/main_images/aidl.jpg"
         width: 1305
         height: 870
+  - title: "Artificial Intelligence brings a novel antibiotic compound"
+    excerpt: "Researchers from the Massachusetts Institute of Technology (MIT) have made a scientific breakthrough where their machine-learning algorithm or Artificial Intelligence (AI) program successfully created a novel antibiotic compound. The drug has since then been tested on deadly bacteria in the lab, and in lab mice with a considerable amount of ..."
+    publishedDateTime: 2020-02-21T00:44:00Z
+    webUrl: "https://www.news-medical.net/news/20200220/Artificial-Intelligence-brings-a-novel-antibiotic-compound.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 17
 
-secured: "m0W0AHO7Jv2W+txIH/nGEHaORofa+c4ahnnb0yVMunIs1jNrTorWn706NVQJ8Zi0oJ7ZjqiPfb8zkQa0u0xlLpxkgeBHxWykWoYu+9g2d8PXauJHxrvnQ6f8kk2lxozzg1G1Gq+RH7gQF4EceRAg0D51ODmTP8CjeM6cRUJvmyleRehm+dh1sr/nB2N7+spsF5AeNAXBZiYUggt2cAdCcOzdf27IHrEe4hl4We3UU8/NtAUWk9Lg2mt0GE8AskT8R/z7hTweUQgVT9x0j0G6DO4j9AVfqXjTbfIEjGFJo+7WRJ9fROofqGxHtl3EG4BB;bb7FVG7o4oArRZ5u1aTLtw=="
+secured: "D+0aaIxs0ECQfaNf7ME7myKlatUJ7NpYLcwRTK1bKXHkQDeB2JsimpvCjQGXroyQavSELTqpxgQLQQAu0qk2aRKLgXou1+D0KLbtSD3zW1ge0usVROGh6Zk6kmI0/jX+tDkOWOfzZhww0xDwR5GPd92AAtyVYM1EG14/uGv0D6Zzn+HYRK48+mqxdwPqvzeOXstWLNVyOpQdmfZQuhK3a6oOI65SXf6DKhjre/2/Du53TfhjdG3InqCDaqy3z1JRXdNeR4I6AMKBCESHLiRaZNKl8dtvVxKIlmObwChuH+rY0j+XWX4UgveQo6njf11W;Vc/BN+81IY58pmYI6cOtaQ=="
 ---
 

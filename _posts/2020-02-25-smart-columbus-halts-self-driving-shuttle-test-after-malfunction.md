@@ -1,0 +1,60 @@
+---
+category: news
+title: "Smart Columbus halts self-driving shuttle test after malfunction"
+excerpt: "Smart Columbus has put the brakes on its two self-driving shuttles in Linden after one unexpectedly stopped in the middle of a route and a woman slipped from her seat on to the floor. The shuttle had just left the Douglas Community Recreation Center on Windsor Avenue when it stopped on the street around noon Thursday, Smart Columbus spokeswoman ..."
+publishedDateTime: 2020-02-25T01:22:00Z
+webUrl: "https://www.dispatch.com/news/20200224/smart-columbus-halts-self-driving-shuttle-test-after-unplanned-stop?rssfeed=true"
+ampWebUrl: "https://www.dispatch.com/news/20200224/smart-columbus-halts-self-driving-shuttle-test-after-unplanned-stop?template=ampart"
+cdnAmpWebUrl: "https://www-dispatch-com.cdn.ampproject.org/c/s/www.dispatch.com/news/20200224/smart-columbus-halts-self-driving-shuttle-test-after-unplanned-stop?template=ampart"
+type: article
+quality: 44
+heat: -1
+published: false
+
+provider:
+  name: Columbus Dispatch
+  domain: dispatch.com
+
+topics:
+  - AI
+  - AI in Autos
+
+images:
+  - url: "https://www.dispatch.com/apps/pbcsi.dll/bilde?Site=OH&Date=20200224&Category=NEWS&ArtNo=200229208&Ref=AR"
+    width: 2000
+    height: 1326
+    title: "Smart Columbus halts self-driving shuttle test after malfunction"
+
+related:
+  - title: "Linden self-driving shuttle out of service after woman said she was thrown from seat"
+    excerpt: "COLUMBUS (WCMH) — The Linden self-driving shuttle is out of operation after a person fell on that shuttle just yesterday. Since this shuttle has been put into action on Feb. 5, Smart Columbus has recorded around 50 people riding the shuttle around the Linden area and no problems. Both of the shuttles are sitting in a garage until shuttles ..."
+    publishedDateTime: 2020-02-22T00:21:00Z
+    webUrl: "https://www.nbc4i.com/news/local-news/linden-self-driving-shuttle-out-of-service-after-woman-said-she-was-thrown-from-seat/"
+    ampWebUrl: "https://www.nbc4i.com/news/local-news/linden-self-driving-shuttle-out-of-service-after-woman-said-she-was-thrown-from-seat/amp/"
+    cdnAmpWebUrl: "https://www-nbc4i-com.cdn.ampproject.org/c/s/www.nbc4i.com/news/local-news/linden-self-driving-shuttle-out-of-service-after-woman-said-she-was-thrown-from-seat/amp/"
+    type: article
+    provider:
+      name: NBC4i
+      domain: nbc4i.com
+    quality: 52
+    images:
+      - url: "https://www.nbc4i.com/wp-content/uploads/sites/18/2020/02/Shuttle.jpg?w=1280&h=720&crop=1"
+        width: 1280
+        height: 720
+  - title: "Beep Inc. making noise with self-driving shuttles"
+    excerpt: "In an industry endlessly fascinated with the companies creating the self-driving future, Beep Inc. often registers not a peep. The company does not write its own code. It does not develop its own self-driving stack. Nor does it manufacture vehicles. Nor host a platform that matches riders and drivers. Beep is a pure fleet operator and content ..."
+    publishedDateTime: 2020-02-24T05:00:00Z
+    webUrl: "https://www.autonews.com/mobility-report/beep-inc-making-noise-self-driving-shuttles"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://www.autonews.com/s3/files/styles/800x600/public/40MOYEBEEP-MAIN_i.jpg"
+        width: 800
+        height: 600
+
+secured: "wV7z8jRcwkPSmnwZs6wKJ5EdIFafHlUeowoLZ2dvcc4iCiNjeplv1lu2Tpvd/sX3cr9marCPJ6YfBlZ1nzZ/HpQnMlMPi6tzbk5thRi1OrFXxPQz9JXqNeqadiyIM+uvPIp07ppVKtCStNS3xw39mbzVl8+Ds0zmTNjTeulVneRmJ/aBum5WWySUnqQHseMyaHlMbV2zAxmbSkOHGPYv4I7/WIyXaYutnZFuJzBuOzkn+PH/9i/0AJQQH2VyCB/19zWLtpufzgLIkeh1yQmg16QTZ1rjzX6neE4R7rr706ZHOOC+HoQQTuM+BKSUm5Ut;7jBs2WlmIpvU0CO/z3w42Q=="
+---
+

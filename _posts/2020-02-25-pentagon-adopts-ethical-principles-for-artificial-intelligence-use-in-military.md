@@ -1,21 +1,27 @@
 ---
 category: news
-title: "DOD Adopts Ethical Principles for Artificial Intelligence"
-excerpt: "The adoption of AI ethical principles aligns with the DOD AI strategy objective directing the U.S. military lead in AI ethics and the lawful use of AI systems. \"The United States, together with our allies and partners, must accelerate the adoption of AI and lead in its national security applications to maintain our strategic position ..."
-publishedDateTime: 2020-02-24T22:03:00Z
-webUrl: "https://www.defense.gov/Newsroom/Releases/Release/Article/2091996/dod-adopts-ethical-principles-for-artificial-intelligence/source/GovDelivery/"
+title: "Pentagon adopts ethical principles for Artificial Intelligence use in military"
+excerpt: "WASHINGTON — The very phrase \"artificial intelligence\" conjures up images of every Hollywood science fiction flick that one can recall. But the technology is very real, and so are concerns about the ethics involved when it comes to the battlefield. The U.S. military has actually been using autonomous technology for years, from medical ..."
+publishedDateTime: 2020-02-25T01:06:00Z
+webUrl: "https://www.13newsnow.com/article/news/national/military-news/considering-the-ethics-of-artificial-intelligence-in-the-military/291-4b87fa7b-6e1e-4d32-82b9-7af286950913"
 type: article
-quality: 34
+quality: 50
 heat: -1
 published: false
 
 provider:
-  name: US Department of Defense
-  domain: defense.gov
+  name: WVEC
+  domain: 13newsnow.com
 
 topics:
   - AI
   - AI Ethics
+
+images:
+  - url: "https://media.13newsnow.com/assets/WVEC/images/58a3c937-e9af-42da-a5b4-b33c6745f1e8/58a3c937-e9af-42da-a5b4-b33c6745f1e8_1140x641.jpg"
+    width: 1140
+    height: 641
+    title: "Pentagon adopts ethical principles for Artificial Intelligence use in military"
 
 related:
   - title: "Pentagon to Adopt Detailed Principles for Using AI"
@@ -115,19 +121,6 @@ related:
       - url: "https://thediplomat.com/wp-content/uploads/2019/08/sizes/td-story-s-2/thediplomat-48638537022_c1dc1f9a14_o.jpg"
         width: 600
         height: 400
-  - title: "Pentagon adopts ethical principles for Artificial Intelligence use in military"
-    excerpt: "WASHINGTON — The very phrase \"artificial intelligence\" conjures up images of every Hollywood science fiction flick that one can recall. But the technology is very real, and so are concerns about the ethics involved when it comes to the battlefield. The U.S. military has actually been using autonomous technology for years, from medical ..."
-    publishedDateTime: 2020-02-25T01:06:00Z
-    webUrl: "https://www.13newsnow.com/article/news/national/military-news/considering-the-ethics-of-artificial-intelligence-in-the-military/291-4b87fa7b-6e1e-4d32-82b9-7af286950913"
-    type: article
-    provider:
-      name: WVEC
-      domain: 13newsnow.com
-    quality: 50
-    images:
-      - url: "https://media.13newsnow.com/assets/WVEC/images/58a3c937-e9af-42da-a5b4-b33c6745f1e8/58a3c937-e9af-42da-a5b4-b33c6745f1e8_1140x641.jpg"
-        width: 1140
-        height: 641
   - title: "The Pentagon now has 5 principles for artificial intelligence"
     excerpt: "“This runs in stark contrast to Russia and China, whose use of AI technology for military purposes raises serious concerns about human rights, ethics and international norms.” The five principles apply to both the combat and non-combat use of AI technologies, said Deasy. Sign up for the Early Bird Brief, the defense industry's most ..."
     publishedDateTime: 2020-02-24T23:20:00Z
@@ -141,7 +134,16 @@ related:
       - url: "https://www.armytimes.com/resizer/HCJVtE9JHfrGKeCjk9CJbXKJ5R8=/1200x630/filters:quality(100)/arc-anglerfish-arc2-prod-mco.s3.amazonaws.com/public/MAYIFX5RQ5BLHHABTTKYSBPTL4.jpg"
         width: 1200
         height: 630
+  - title: "DOD Adopts Ethical Principles for Artificial Intelligence"
+    excerpt: "The adoption of AI ethical principles aligns with the DOD AI strategy objective directing the U.S. military lead in AI ethics and the lawful use of AI systems. \"The United States, together with our allies and partners, must accelerate the adoption of AI and lead in its national security applications to maintain our strategic position ..."
+    publishedDateTime: 2020-02-24T22:03:00Z
+    webUrl: "https://www.defense.gov/Newsroom/Releases/Release/Article/2091996/dod-adopts-ethical-principles-for-artificial-intelligence/source/GovDelivery/"
+    type: article
+    provider:
+      name: US Department of Defense
+      domain: defense.gov
+    quality: 34
 
-secured: "Fl09hWX619Zl8yNWuSjw86Y5kqxjUJUuZkb7gEbLEuWympCJaKILrux92k88ukq756LiD4y9b8f4NJSIp04f+iFdE+319TpOIGHc/yAA6v1/QpTVUmX83hk4qxYCQ4zQmFFLeGG+BrIBI+TSMo2xwvZ7o1Y+mO5XtU5oIiXRl+vAKOrsJ36t7rr6fsVfM2kRudjucheB2Iy9P092ZNr/np0WbSSkECufCq57Ibah4T1rEDYINfg+TrKEs1Al54bhBpC2pVYj8DO4F1USOZe2JjP4d4hQ4BOv0c+S/OOBH0w3aofeOQ2fIthfNn1IhWSN;iHJtzcIEHMYwevX74requQ=="
+secured: "egUyxlio3q3ZWV8tUhTqfjW8PB2QANDJviR/yMtq1xUMCOuOYXYoyTiAk265c4mogJsBwWWc017Ncq5F+8Ni7bj+z7IhEsFlZ+SlPOjP2sye6bwLgfqIUJyBKiJv5YIvGTUqSc68bDzEAl+wHZYxtIciSxpeqyWxjXO6ThGx25pdzM2QZ/BALnI1zWhodncXhI8wpn5Jf96Ox7zgSmMTjGvUtUUApp6k+b860OAxoBeQ0q45z/3VTWKswYbBgt5Qh1Hxzenkh4VUPQeQXkcEOzZ2hqOIjKiVm1mfSXDzAvDcP680Lce6n+zE17lBi7x0;pRH7uZB0huWLI7wtrZnfBQ=="
 ---
 

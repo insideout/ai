@@ -108,6 +108,19 @@ related:
       - url: "https://thediplomat.com/wp-content/uploads/2019/08/sizes/td-story-s-2/thediplomat-48638537022_c1dc1f9a14_o.jpg"
         width: 600
         height: 400
+  - title: "Pentagon adopts ethical principles for Artificial Intelligence use in military"
+    excerpt: "WASHINGTON — The very phrase \"artificial intelligence\" conjures up images of every Hollywood science fiction flick that one can recall. But the technology is very real, and so are concerns about the ethics involved when it comes to the battlefield. The U.S. military has actually been using autonomous technology for years, from medical ..."
+    publishedDateTime: 2020-02-25T01:06:00Z
+    webUrl: "https://www.13newsnow.com/article/news/national/military-news/considering-the-ethics-of-artificial-intelligence-in-the-military/291-4b87fa7b-6e1e-4d32-82b9-7af286950913"
+    type: article
+    provider:
+      name: WVEC
+      domain: 13newsnow.com
+    quality: 50
+    images:
+      - url: "https://media.13newsnow.com/assets/WVEC/images/58a3c937-e9af-42da-a5b4-b33c6745f1e8/58a3c937-e9af-42da-a5b4-b33c6745f1e8_1140x641.jpg"
+        width: 1140
+        height: 641
   - title: "The Pentagon now has 5 principles for artificial intelligence"
     excerpt: "“This runs in stark contrast to Russia and China, whose use of AI technology for military purposes raises serious concerns about human rights, ethics and international norms.” The five principles apply to both the combat and non-combat use of AI technologies, said Deasy. Sign up for the Early Bird Brief, the defense industry's most ..."
     publishedDateTime: 2020-02-24T23:20:00Z
@@ -131,6 +144,6 @@ related:
       domain: defense.gov
     quality: 34
 
-secured: "tvuh7sbixXsiu8MuMikWGlW/W0LKmE9IitQ1PejU05I8QL5eTOy0JiDOyE1XA6BYaHhV34tgko3MzbB0/plWqwOeKHWmJMkQXlR8bXV05AyQM74l/QhGAwJEGfq+zbTsF8DCqLchI3sDw+C3fZ86+iIT7sirzKryPNJ+QNQVOktWzvet7dUJzBttNzpfNQmEfoic94bcfdC9HhJXpQ/X9bUZhxn+WMCslmq6KlWxAVj8eDWOBzB/ZgIEeEQlyN7mNzsALui53tretMTDHJK1/alq35b7YXPpjNaH3+f2DpEyPiIzGs9dvP5IAPMPQp8r;Plg4ANdSDXCzF4YRBEQfYA=="
+secured: "r4bvdOEhCKNvt8OcXNLttk9yxvOPtm6VM6RMEonJUOXRTMshWEh+FsSWwTua4haq+4R04kE7tv9ZDkMI2whylbjsfCqCQF/mK1ZBjDtYai9ZhZ0xpEQMXmxkutlz/pzOO7IiU/Xwxt2RKu4VQHl/xmddT8RBAEbCrNmd8kDGvgz9I0hOLX7ciglmAQrbb4jVlcYmtr8KBqe5yHEDw3zIoIlgI8hH5yB/EjrW1QzsI42+UyxisaR6Eoa1SurDxdzciyI2L4FRg36wZucWYvustzB8ag0YeYGz7IEcb3t03HQ/CQLWLZzPWkg9vp756NSH;itq95lsJObkhmjBhWAqVUA=="
 ---
 

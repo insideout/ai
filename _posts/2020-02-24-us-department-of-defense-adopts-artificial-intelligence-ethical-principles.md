@@ -108,6 +108,19 @@ related:
       - url: "https://spacenews.com/wp-content/uploads/2020/02/IMG-0929-1.jpg"
         width: 2000
         height: 1500
+  - title: "Pentagon adopts ethical principles for Artificial Intelligence use in military"
+    excerpt: "WASHINGTON — The very phrase \"artificial intelligence\" conjures up images of every Hollywood science fiction flick that one can recall. But the technology is very real, and so are concerns about the ethics involved when it comes to the battlefield. The U.S. military has actually been using autonomous technology for years, from medical ..."
+    publishedDateTime: 2020-02-25T01:06:00Z
+    webUrl: "https://www.13newsnow.com/article/news/national/military-news/considering-the-ethics-of-artificial-intelligence-in-the-military/291-4b87fa7b-6e1e-4d32-82b9-7af286950913"
+    type: article
+    provider:
+      name: WVEC
+      domain: 13newsnow.com
+    quality: 50
+    images:
+      - url: "https://media.13newsnow.com/assets/WVEC/images/58a3c937-e9af-42da-a5b4-b33c6745f1e8/58a3c937-e9af-42da-a5b4-b33c6745f1e8_1140x641.jpg"
+        width: 1140
+        height: 641
   - title: "The Pentagon now has 5 principles for artificial intelligence"
     excerpt: "“This runs in stark contrast to Russia and China, whose use of AI technology for military purposes raises serious concerns about human rights, ethics and international norms.” The five principles apply to both the combat and non-combat use of AI technologies, said Deasy. Sign up for the Early Bird Brief, the defense industry's most ..."
     publishedDateTime: 2020-02-24T23:20:00Z

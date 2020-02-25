@@ -29,6 +29,6 @@ images:
     height: 1357
     title: "Google researchers release audit framework to close AI accountability gap"
 
-secured: "sg96Cn0VwIFQfzwsl9yo6yCrvhn4KU9cuqiHNv+hCg3xJ8TKEVuVS01FsXQ3vPpu+ifQRE5IW1PoZsBotzN62ARlBPon4ysP6g3PooR+oRuqbGKdLFJ17EC6NORy+CFYQVGVRepKXz5wY6lAJCN4kVrIW98/22FEqKDoDV2TVBtak7bFurOZ7DmjyrZqEnAOUnDsKLj697tro4qV3FO1BJjXglN82aQKxyZx+VjhmBtRqYsyjW+4oqR4SpDXkxlrxkWX3NbZopBG+ZOFopCTPNo+Rag/oO0tlAdHP8GTCCvAOigeXazJkAtW5eW99pdU;r46aRKBpVQLnXi7zggUIkg=="
+secured: "hIxOOGRY114BA9YB9EhWaOCjR6b9TMEFPnMGPmjnyKajYoC6ktyVmLhc8qdk1hJ4DVYC45wFVB9uoPkKwzve3G+WYKLcBKVdoURU6hPOmTQK+o4JaqBGoJqQ2d/ec8Nd36+WX/zvXkR4RGemwqo3c9HeiAAE8LOhE6eI7sdvdfuo0D/tU/RScV3WxHAIiYSrdYATD3NFT/mzl4Q0eSHA1RfX63hgE7YCyzskcrrAYnTAAhA1oMZdytCenf1Ym4opkjs+9eEqsz1UJxE90MvvEjKkIIH3icOHdn1ton/wsyPs8Lv6fUJiZwEdr3P/11p0;H2iG1GcZwtBDEmelCz7F2A=="
 ---
 

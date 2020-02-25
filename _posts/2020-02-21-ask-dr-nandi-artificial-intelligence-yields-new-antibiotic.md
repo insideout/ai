@@ -132,6 +132,21 @@ related:
       - url: "https://cdn.iflscience.com/images/b8c230b6-a3ea-5854-9482-5d6e99b6c372/default-1582285414-cover-image.jpg"
         width: 720
         height: 405
+  - title: "A New Antibiotic, Discovered By Artificial Intelligence, May Help Reinvigorate A Slowing Field"
+    excerpt: "The new compound, which scientists named Halicin after the murderous computer from the classic movie \"2001: A Space Odyssey,\" showed a broad ability to kill bacteria, raising hopes that artificial intelligence might boost a lagging antibiotic development field. Pharmaceutical companies have been retreating from antibiotic development because ..."
+    publishedDateTime: 2020-02-25T01:27:00Z
+    webUrl: "https://www.wbur.org/commonhealth/2020/02/24/ai-antibiotic-halicin-mit"
+    ampWebUrl: "https://amp.wbur.org/commonhealth/2020/02/24/ai-antibiotic-halicin-mit"
+    cdnAmpWebUrl: "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/commonhealth/2020/02/24/ai-antibiotic-halicin-mit"
+    type: article
+    provider:
+      name: WBUR
+      domain: wbur.org
+    quality: 45
+    images:
+      - url: "https://d279m997dpfwgl.cloudfront.net/wp/2020/02/49234831117_008df8ab3a_o-1.jpg"
+        width: 2047
+        height: 1462
   - title: "Using machine learning to find new antibiotics"
     excerpt: "But in a paper publishing February 20 in the journal Cell, researchers demonstrate a method to uncover new antibiotics quickly and efficiently through machine learning. James Collins, a synthetic biologist at MIT, and his team trained a deep neural network to identify possible antibiotic molecules using compounds known to suppress E."
     publishedDateTime: 2020-02-21T15:06:00Z
