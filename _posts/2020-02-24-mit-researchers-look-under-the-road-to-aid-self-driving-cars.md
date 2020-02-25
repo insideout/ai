@@ -69,6 +69,21 @@ related:
       - url: "https://scdn.slashgear.com/wp-content/uploads/2020/02/5Vector-2.jpg"
         width: 1680
         height: 1117
+  - title: "MIT Tech Lets Self-Driving Cars “See” Under Surface of Road"
+    excerpt: "MIT is working on self-driving technology that allows cars to “see” through the ground ... A team at MIT’s Computer Science and Artificial Intelligence Lab have come up with a new system they call “Localizing Ground Penetrating Radar” (LGPR) that can create a real-time map of the ground below the road’s surface."
+    publishedDateTime: 2020-02-25T00:33:00Z
+    webUrl: "https://futurism.com/mit-tech-self-driving-cars-see-under-surface-road"
+    ampWebUrl: "https://futurism.com/mit-tech-self-driving-cars-see-under-surface-road/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/mit-tech-self-driving-cars-see-under-surface-road/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 44
+    images:
+      - url: "https://wp-assets.futurism.com/2020/02/mit-tech-self-driving-cars-see-ten-feet-ground-600x315.jpg"
+        width: 600
+        height: 315
   - title: "Jaguar Land Rover unveils electric self-driving car that will be used on UK roads next year"
     excerpt: "JAGUAR Land Rover has revealed a electric driverless car that will hit UK roads as early as next year. The self-driving pods will be trialled in Coventry in 2021 to test how it interacts with other vehicles, road users and pedestrians. The vehicles - dubbed Project Vector - were unveiled yesterday at the National Automotive Innovation Centre at ..."
     publishedDateTime: 2020-02-19T10:45:00Z

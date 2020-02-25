@@ -19,19 +19,19 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Machine Learning May Cut Surgical Hypotension"
-    excerpt: "ORLANDO -- Early findings from the single-center HYPE study reported here suggest a role for machine learning in alerting clinicians to impending intraoperative hypotension in patients undergoing noncardiac surgery. The unblinded randomized trial was performed at a tertiary care center in Amsterdam, and compared intraoperative hypotension ..."
-    publishedDateTime: 2020-02-19T17:37:00Z
-    webUrl: "https://www.medpagetoday.com/meetingcoverage/sccm/84961"
+  - title: "All things GCP: Machine Learning Decision pyramid"
+    excerpt: "Many users want Machine Learning in their products and cloud providers like GCP, AWS Azure, etc knows about this. Because of this demand, as per the user's needs and expertise they can provide machine learning tools out of the box and users can work on complex Machine Learning tasks by a few lines of code or no code at all! Understanding of ..."
+    publishedDateTime: 2020-02-24T23:35:00Z
+    webUrl: "https://medium.com/analytics-vidhya/all-things-gcp-machine-learning-decision-pyramid-82260c798a88"
     type: article
     provider:
-      name: MedPage Today
-      domain: medpagetoday.com
-    quality: 39
+      name: Medium
+      domain: medium.com
+    quality: 54
     images:
-      - url: "https://clf1.medpagetoday.com/media/images/84xxx/84961.jpg"
-        width: 720
-        height: 480
+      - url: "https://miro.medium.com/max/1200/1*Jj3jiMWxYJOMJIcMQj34bw.jpeg"
+        width: 1200
+        height: 675
 
 secured: "3vnJJAW3mSJLd0nbTgFspj6NXNRqp9we/Hz2pPavFH5pOv2siKVMH+DxHvRZ58sSYY/lxRvlCPBjMQmktAcJY/J9ihKPkj8GHWlpOPfPdT0uk8ID2n1xrYF1OkpqrUGqh+Rn7pmSsJiyNVpcEYMTenRcLgIVaMfxsWmWDHnd4y9mWfSg6YDJlOBhlOdw29/wkPNai9Fq+xjxgfnPDeG5pr03ZL9NzeePqeF13nwRpmlLNI+EbCzkcHAD85HnnvCZe1wpv1fZ5jgFEFiHokQ+lmPa/HEeMK2I3OzjnWKmC+qYm8oyxzbx7eAlSsm+0jtqqarnyg0mYK/O8AmvzId+cbzPGVupFrOnPYuZLdHtvlfdPi+WgLI5jaQx83GoxO9o3WM/On7DkBWDIzQnPh/tsAyXyiN1Ym3y3Ms9ODkuS9zvtUtb9sQlnKNFMdutWma5OG87ppPKq4bRc0NMk22FktO8EQyYJKYL+kG7vnJTeCU=;reel5NQufw7bARLyhd/LZw=="
 ---

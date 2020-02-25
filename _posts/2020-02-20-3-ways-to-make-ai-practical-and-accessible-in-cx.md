@@ -32,6 +32,19 @@ related:
       - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
         width: 252
         height: 335
+  - title: "Databricks Simplifies the Path to Building Lakehouses for Business Intelligence and Machine Learning"
+    excerpt: "Azure Databricks customers already benefit from native integration with Azure Data Factory to ingest data from many sources. “Databricks powers our machine learning and business intelligence across multiple business functions, from car inventory management, to price prediction and technical operations, by using hundreds of terabytes of data ..."
+    publishedDateTime: 2020-02-24T20:50:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200224005279/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 26
+    images:
+      - url: "https://mms.businesswire.com/media/20200224005279/en/722802/23/Databricks_Logo.jpg"
+        width: 1200
+        height: 627
 
 secured: "RVvJweKXoCLDS/AH931PIdK/ZIixXAJsQvFmG9idAv/c1GPXYLeq2733Nax+xl37+2wHEjuyTjyZCTihqM9xZowlDckZDqd0bIc1ZIrZ7z3g979Km5YzGP7wdoTSqh10ef11SaSAbb7Wi88eU5jid8OGR3Lbq93RzM8cG06XedHAQjAUsHtUZOZwF/XH1/2b4U+D5M5zEc2CtOTk7ifRs+F31sRM21WMXyJb9yzXUQ9sNGWOH2Nvefi9lI6tz7XQFDzKVyywZqrAx6Z7WhJwwfXGSiruLjIutdDp6FAf+wK7WQITyR4bgsR7l/CI0nqUb4B4hnD8vTATefhTC5aqiNg/RL4NTdqiZk7sb/QMgh4U7k3DDNW7clHJsfMOZAqwbJynCjkI4tB2G5z3dBHfoAdKaB+7BDCWCV4fpHIReYOYGe5PTVXNDcDxdF+PhCVHh+5jtQlpMJn5OXwHpYXXDJShzKMbnj43lhgDgeHcGX8=;OL6gH/zyTfM8oK5OiRKWgg=="
 ---

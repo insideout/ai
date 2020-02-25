@@ -1,8 +1,8 @@
 ---
 category: news
 title: "Deep Learning for Predicting Severe Weather"
-excerpt: "Researchers from Rice University have introduced a data-driven framework that formulates extreme weather prediction as a pattern recognition problem, employing state-of-the-art deep learning techniques. Their findings were published in the February 2020 edition of the American Geophysical Union’s Journal of Advances in Modeling Earth Systems."
-publishedDateTime: 2020-02-06T15:25:00Z
+excerpt: "Researchers from Rice University have introduced a data-driven framework that formulates extreme weather prediction as a pattern recognition problem, employing state-of-the-art deep learning techniques. Their findings were published in the February 2020 ..."
+publishedDateTime: 2020-02-06T15:24:00Z
 webUrl: "https://insidehpc.com/2020/02/deep-learning-for-predicting-severe-weather/"
 type: article
 quality: 39
@@ -24,6 +24,17 @@ images:
     title: "Deep Learning for Predicting Severe Weather"
 
 related:
+  - title: "Predicting chaos using aerosols and AI"
+    excerpt: "This kind of AI is first fed information about a real-world process, then, based on that data, it creates a simulation of that process. Motivated by game theory, a generative adversarial network receives both the ground truth (real) and randomly generated data (fake) and tries to determine which is real and which is fake. This process repeats ..."
+    publishedDateTime: 2020-02-10T13:54:00Z
+    webUrl: "https://phys.org/news/2020-02-chaos-aerosols-andai.html"
+    ampWebUrl: "https://phys.org/news/2020-02-chaos-aerosols-andai.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-02-chaos-aerosols-andai.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 37
   - title: "Machine Learning Algorithms for Predicting the Recurrence of Stage IV Colorectal Cancer After Tumor Resection"
     excerpt: "The aim of this study is to explore the feasibility of using machine learning (ML) technology to predict postoperative recurrence risk among stage IV colorectal cancer patients. Four basic ML algorithms were used for prediction—logistic regression, decision tree, GradientBoosting and lightGBM. The research samples were randomly divided into a ..."
     publishedDateTime: 2020-02-13T10:10:00Z
@@ -38,6 +49,6 @@ related:
         width: 640
         height: 685
 
-secured: "s9Muo49602DDY1uAXQ2xOEaBbmmAOO5a7KcdHfJ9D8hrFnhwx821ouDugsz8tGW4agSn+NLIrd9nGu5krDUAUb78tKmegts1YgSKBfksvSJUSfIjgl+9DIadbYFqxu3neuawdZ6lnaqAEAS9nljxH3rEzr3fVah1D3GYviXuohKajr9MsSwSdJN1FspfzErqtF2iLpQD5FdMU0vBleGODDCX7oTPqsTmTPdKKSDeTqAnVDdi2hPBmK9DX+KtBoaP4NDEMa02NEVpMF0dVXuvC3mH6UPCKbas4NDIj2f4bWhanie5vjRVcvJa4ccrfshlDu1JrT45y666hIk3a9C6EUT6LDa+6BfkbYvZy5XPipswXSkqrWOxcb7uwzqVlV39c1QvZ1tQwpOSnpYDDZhTVgkiXzVJau4STEKkNLfRUF3t+LCbgSakEAlidqWTra38E0Wd7SfkuxCYQ0PfU/y2fLixMYJFGHCVp+6Ut613gqg=;G5OuFbjB4QU4jsj5o0IxWA=="
+secured: "/hHYsqOEMAyDH4zE0w6oB2CLQLE5TZx53L/S/JEvMi50p80vq/tJG6OV85x63fODMB5BiR1KSFHnXad94hNi7icdT6iEkGeh8jNi65gjdAIlrKTufOoqfrt3oO9kEUY9HI3hN5r3P6iy3e1Xcbvm0UTsruKV2PawLfr0ker58gK/10Cp//8jQiXnRoTRJnCXmsdCGn1LnvRKK3AFawoi89tQfs8FJwjpuGIt6rb09AUVgzHSxcthnCfLEKsxVT6fOp+yk+LTCfb5hynP04xEAQbM3YCzPYVo9mPlg2X+3KFDRkMphWNpXQ8Y1026KJ1V;F1DzXfr4ZCN3SSnAdw8kdw=="
 ---
 

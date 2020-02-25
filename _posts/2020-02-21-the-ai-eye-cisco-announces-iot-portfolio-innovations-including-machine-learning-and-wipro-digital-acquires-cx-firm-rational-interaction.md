@@ -6,8 +6,8 @@ publishedDateTime: 2020-02-21T17:58:00Z
 webUrl: "https://www.marketwatch.com/press-release/the-ai-eye-cisco-announces-iot-portfolio-innovations-including-machine-learning-and-wipro-digital-acquires-cx-firm-rational-interaction-2020-02-21"
 type: article
 quality: 51
-heat: 71
-published: true
+heat: 61
+published: false
 
 provider:
   name: MarketWatch
@@ -39,19 +39,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 23
-  - title: "Combining Quantum Mechanics and Machine-Learning Calculations for Anharmonic Corrections to Vibrational Frequencies"
-    excerpt: "Center for Nonlinear Phenomena and Complex Systems, Code Postal 231, Université Libre de Bruxelles, Boulevard du Triomphe, 1050 Brussels, Belgium Article Views are the COUNTER-compliant sum of full text article downloads since November 2008 (both PDF and HTML) across all institutions and individuals. These metrics are regularly updated to ..."
-    publishedDateTime: 2020-02-23T20:02:00Z
-    webUrl: "https://pubs.acs.org/doi/full/10.1021/acs.jctc.9b00964"
-    type: article
-    provider:
-      name: C&EN
-      domain: acs.org
-    quality: 2
-    images:
-      - url: "https://pubs.acs.org/pb-assets/images/footer_logos/logo-cope-1525375622977.png"
-        width: 323
-        height: 208
 
 secured: "kABb9Fr29hRMyDaHm+RT+SAcrEt3JEBbs8ix6MEMFOfugCkf7VMCZcwAtVZuI1IP1stIe/V96d8WC1Xr17oOeYu8MKeCoINPmeRjQJ+lm1J8n6E4DFC+1PmXEkcIpBn7fkouO4BWNTZExRMXkh0osfbNDmlqHOboMN1+sgupc+AzpQ9YG7eLNuprJ45WV6cxvUzNlKycdbWI+VuhT4lM3EaI488yriKQXGrWR8O0eI1qdaLNvDtsjcg/s3YIIjtoNiJqkqGYtE+P3mupmd/Ib75loLv9NUD8NpSjuijyAWGtN2Xvo8Sdjx0AkHjpOY5d;Akd7rT+k2QO6kH1X/aNCMg=="
 ---

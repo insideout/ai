@@ -22,6 +22,6 @@ images:
     height: 840
     title: "Using AI to Colorize and Upscale a 109-Year-Old Video of New York City to 4K and 60fps"
 
-secured: "JO6Mh97XO2NDxh5OSBebKnS6L8Q82NznYOcCFyLpBKncVzLa2ETGC3Ooa0HjaySJld0S3y8AhhJSujkVJqbtAreqIVmPmp3TbwaeJfotVrYupJiJfB1+kTBHS1HOgG5jStIlAvxFngJ1w9t7O5q1YVuHQnpQUiDifFgJRb2OIIoa6482p4/ETKs2/u20+I7C5JQzqPuFrrKcdYRGfsAme4M5b4TpwdSgmw4WeW/4NtynzmG1iwF/e8SsEpc5j/4Bz7OqGJKulUgI1lSb5cnlpY/+9YDDr3UegYKRGqxRfkNBSmxBZEIzZS0GdWZRG4tz;eOBUEYQe01revTDK+asGkw=="
+secured: "gy0eKsr6i5cIVD0QPomk4SH1MGS7T0uDr1H0gm7Ltbx2xhko0bH/T5KU76xMi9oGWmuHQoMHM7+SGkzulQ7xRk9j/dp29qMddxVUqvnVQIUEj68Ny82hRtTVvjTFfQTkKIUpxPcyAPlwpkElPQf8pg1iCr07pZ0pvhN7NWvdvZCWCvvqbRf8p5LtewhJvgKD6FF2WUIDgJjWjQc5Ut4wVQGcaO+hemrEQNct+RADh8GEK+JQS3bkBU7erqtTqqX4wO70/hRzT/K6VopfAtKJlkKjF/AN7ywhLZ0yyvAMjQwom67YSDuSRln3EfLXVruLuByZniVJ0kSf/TPqi/PVk3xiM+GfcxXuej8oKRweaVhfiGcBw1+L73pkTMV5iXL3BiBAAJX5FMs02DNSCejeb9l/dB0fJF+SFIBoirKl2/wDq3GCxzdfk8uzVe7z2+dXjg3Kx3Ki3KKHHHmOoZRhqCvfanmXEcQ2Tsgy1IBCHEs=;ec0k0axZQoTk5Jq10r+J2Q=="
 ---
 

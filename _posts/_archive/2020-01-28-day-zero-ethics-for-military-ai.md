@@ -23,6 +23,6 @@ images:
     height: 850
     title: "Day Zero Ethics for Military AI"
 
-secured: "nz8MfT0H5bdSUrLP/1po99L/MWbA/q/kec+VEhtARJtusWJd/xsgsHAGQYeElmJ9Ga104Jjb/vz8O6/rRLQA5DS0BPF9gYN+ixSKcMWP6m984Q5edLDyVv8q8qNUY+gdcqYAW7Jkt/KNTqPNbj3vvh6VWmWkX9Utp+qJTAaZjRjztNDszcKqWAdXWlTtCo+JjbeBMWCeyS6JbyGrPNfYGk3caxXGM32PjxtUAx+GM4lMkWUvrxqcPd9jVQhp0NKL5a3Rwsn0p/e6MLBq1VNAMf1mNiSbm/eouQbw18YZc8EpesWVrlkXjCMJ/bKDGRoJ;MjT6u8v0SeKT+m8HJ/CwWA=="
+secured: "EwiJCGpSRkvRBOd+3yxFT/RGaHKwtfU9PJsN3DSw358rO/it+JaGYVxvLBTDWerGZFLNV3ylVX+/B5kd9c8Csjhu2bIZAxaa6aHm47sEHQNwI2r6wXygdkCC/HwaSNXz9GwOP7X1vPX4l46P74y0icb8d6eDs1inqK2RC/m4kCuTKtDJuLv/jhOnDxM1E4nd6bzXGU0299RyWhvAj7wFLQtOahduAe3RSKv5CQq8STRjUIoDtWffJ0BdfjntKHOM9FpFhTRPJsws/txst2TgRfJQrM4x6aI9mwT1jN+QcElP0YHQgqG2o8fwR7Z0OYru;4KUJQDVDbGpAGXel+Dg5+g=="
 ---
 

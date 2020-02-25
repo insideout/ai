@@ -25,6 +25,6 @@ images:
     height: 697
     title: "At least they’ll have an off switch: Pentagon adopts ‘AI Ethical Principles’ for its killer robots"
 
-secured: "0sc/0adqQw6tEqXERwGJeZPM/Q/d57ps4zl1SH9KMiHcBWpq94Y1esPTlFpuhzk/CeBmzrbmoqFBM4DIVKZiG5URnpCLsgMPXw85Pl+ZGNUGF59hAnanmKLMAKQ/17jGEHj41BUGOifaVaXP3/73J51Wm3O7lFJQj8SssgU+C8Y7dpntqTwL3ZqXAULhpewdqsYsjrpkpTHg3ZdbIC2xacagYUnuNFgPtllavDFnGlFFaz5KkBRbnHXlqLflU+JNkM0yxPo5d2suvM4Ws99nmaqapYFa/lRZOgfVqpYSsyx3Sk7KEdM3HpIc2OwZNS34;V6XAt/3Zt8cWSYwZTLqQrQ=="
+secured: "rTupO1ystKVAKRQN+rVz+mPyJiSDP0d77L1++uxAmSWvPm08caDgunqbqUotsfQfOV1XXxsbKmXsTeXkQL7LofqlNRy3yY+FdqJRzGO6nkcwG6ylV5u9aZESEJ9u+V3R8D6SC6oh7KOoD0WsMEB5m5w/9C/8GmJOkPO7M8dTFynK1VE7kNmVo874PQqPYNotvnqr5d/4UpXWmKrTfFLfq1RVg8/4+YoyY2kf/Sq9E+jIzV/Hvm0DFtUcCTa2IiA1gdPnA95ZGij9hOdGVTZMArhuamt90rJIY17eF/VAIFQ7Ddchr2ZTzpnTDgTmk0C8snyCLNZ8UNXMesdjrX77Y4UOUVgo7xAnTtEjulSH/KULg1JVm7+PN6yTUOOzSaBAUvKU0YryJiZujL3nFnSe0KWIF8rpJFcgNgXykDCD8sYE7UIu0sAcIqHfz2a7E5nWEAKcfY9HD5fWTSh/bYAlv2hwznmh8rZQhgYRmS15m2U=;E8LYpWp+xly8yBap73kFqA=="
 ---
 

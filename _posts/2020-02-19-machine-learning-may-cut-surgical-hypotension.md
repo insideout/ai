@@ -23,17 +23,6 @@ images:
     height: 480
     title: "Machine Learning May Cut Surgical Hypotension"
 
-related:
-  - title: "Machine Vision Approaching Milestone"
-    excerpt: "and Zebra Technologies acquired Cortexica Vision Systems Ltd., a London-headquartered leader in business-to-business (B2B) AI-based computer vision solutions developer. At the same time, chipset vendors are launching new chipsets and software stacks to facilitate the implementation of deep learning-based machine vision. Xilinx, a Field ..."
-    publishedDateTime: 2020-02-18T12:26:00Z
-    webUrl: "https://www.industryweek.com/technology-and-iiot/article/21122799/machine-vision-approaching-milestone"
-    type: article
-    provider:
-      name: IndustryWeek
-      domain: industryweek.com
-    quality: 6
-
 secured: "SLGIum+PsYuYT8ULyfM4OX1o8uOBGl0cHmtqBGV2oSD+3pvCwO8UWCkZGdZpIfyAz7RBI8s+ngZiFvBFcgvdypN1rtPj00/MxGrnuv9MzN1ufUwfVb+ALnZD6SabEPiCxLIQ1aKG0X3L5Lv5AN0pb1NfAgLDmekIDeiMCiL8NFNYyGs/TTu9NlS4wzPA6tI8bsaJjNvL17qCzhYEYFU8KA5roww6UPOWgNHaGIxDTS0T57dzRcoIbo4ZwRcohf7Up0/TmXDsYbobaW02sQL2GoI7jLB24gBiMW8R2vCNxwtYxmby2eGxj3RmO/n3WrFKG028t7p6CKt3LUP63bt+ngbhqhtPxIoVfhQaPt5n/LdP7ldPpYO+kPNd6+W7yAK6+4eqf4gfykm8HloWdI3msK/Cs1kq9bEvxXKLpaDIZMAmWoe9vmvquZ0aGuFloKh0yJCRpb/hhti7m8/rRRyO/fQL8QonWRXLsIK6FHeGNGw=;j0/1cjIvf7mkIRQkG5i+wA=="
 ---
 

@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Pentagon adopts new ethical principles for using AI in war"
-excerpt: "The new principles call for people to \"exercise appropriate levels of judgment and care\" when deploying and using AI systems, such as those that scan aerial imagery to look for targets. They also say decisions made by automated systems should be “traceable\" and “governable,\" which means “there has to be a way to disengage or deactivate ..."
+excerpt: "While the Pentagon acknowledged that AI “raises new ethical ambiguities and risks,\" the new principles fall short of stronger restrictions favored by arms control advocates. “I worry that the principles are a bit of an ethics-washing project,” said Lucy Suchman, an anthropologist who studies the role of AI in warfare. “The word ..."
 publishedDateTime: 2020-02-24T21:54:00Z
 webUrl: "https://abcnews.go.com/Politics/wireStory/pentagon-adopts-ethical-principles-ai-war-69181756"
 ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pentagon-adopts-ethical-principles-ai-war-69181756"
@@ -131,6 +131,6 @@ related:
       domain: defense.gov
     quality: 34
 
-secured: "k+NczEGkD9So2hhaxb8ogDo4qM3mhtz23c5gEi2jz3Ymm0DUroxBgydmpeoqAHw2JvwKkoe+ZXw/71tojbdC7xPJlV3B5vfev1rIgIxwghigkd5RFVH+NzZeW9HT7DqOo+CAx9AkbxTGkaJgCcRG8YeNFTySpF45LpJqwmiJOld/WK28zah53mrVzb/7xyciVJWu2boYo8gwdG/672NsUzdthFJeXhtmqU30eFS6f+d+9HN9BDmSxACZpJwbW0F4Hn+c5fBwmHabbRoEEU9O5mGPbLviJOQO23UC+tGixIZeReIoqGqUaIxtOCevn4qPe+u4pl/OKZe2NByRcR0i7A73hFWgoUbsksUqbEuXb8Yy412IJFsgx8dSJL7PDAuA1KeMvGC9UmcyzvdWifyr3yJ/srITob8fTfL6c7nXXsCJz2m6cUdXUyCoDP3LI6OijbgaBXeQFx7+HoaM5waQDqifGS0jDbVmF1fAtXYu2BY=;Mn6zs1al2Qt91Qy4KIuMJA=="
+secured: "tvuh7sbixXsiu8MuMikWGlW/W0LKmE9IitQ1PejU05I8QL5eTOy0JiDOyE1XA6BYaHhV34tgko3MzbB0/plWqwOeKHWmJMkQXlR8bXV05AyQM74l/QhGAwJEGfq+zbTsF8DCqLchI3sDw+C3fZ86+iIT7sirzKryPNJ+QNQVOktWzvet7dUJzBttNzpfNQmEfoic94bcfdC9HhJXpQ/X9bUZhxn+WMCslmq6KlWxAVj8eDWOBzB/ZgIEeEQlyN7mNzsALui53tretMTDHJK1/alq35b7YXPpjNaH3+f2DpEyPiIzGs9dvP5IAPMPQp8r;Plg4ANdSDXCzF4YRBEQfYA=="
 ---
 

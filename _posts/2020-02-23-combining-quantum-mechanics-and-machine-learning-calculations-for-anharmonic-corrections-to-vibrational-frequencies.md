@@ -24,30 +24,41 @@ images:
     title: "Combining Quantum Mechanics and Machine-Learning Calculations for Anharmonic Corrections to Vibrational Frequencies"
 
 related:
-  - title: "The AI Eye: Cisco Announces IoT Portfolio Innovations Including Machine Learning and Wipro Digital Acquires CX Firm Rational Interaction"
-    excerpt: "Point Roberts, WA and Vancouver, BC - February 21, 2020 (Investorideas.com Newswire) Investorideas.com (www.investorideas.com), a global investor news source covering Artificial Intelligence (AI) brings you today's edition of The AI Eye - watching stock news,"
-    publishedDateTime: 2020-02-21T17:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/the-ai-eye-cisco-announces-iot-portfolio-innovations-including-machine-learning-and-wipro-digital-acquires-cx-firm-rational-interaction-2020-02-21"
+  - title: "Over View of Machine Learning and its Applications"
+    excerpt: "The Machine learning is a field of computer science evolved after studying the patterns and statistics of accumulative data, the data engineers / developers with help of specific algorithms for different data pattern sort out the features differences while as we already know before machine learning financial experts use statistical approaches ..."
+    publishedDateTime: 2020-02-24T23:35:00Z
+    webUrl: "https://medium.com/@sajjadhussain_11869/over-view-of-machine-learning-and-its-applications-bca25464669e"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
+      name: Medium
+      domain: medium.com
+    quality: 69
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://miro.medium.com/max/1200/1*hVCDF0_dOqDcwpXLGduZGg.jpeg"
         width: 1200
-        height: 630
-  - title: "Just AI, a Conversational AI Solutions Provider, Receives Investment from Fintech and Telecom Companies"
-    excerpt: "Just AI, a сonversational AI technologies developer and solutions provider, received from two strategic investors: MTS PJSC and Sovcombank PJSC​. The new investors' total share in the capital of Just AI was 22."
-    publishedDateTime: 2020-02-21T08:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/02/r15381930/just-ai-a-conversational-ai-solutions-provider-receives-investment-from-fintech-and-telecom-compan"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/15381930"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15381930"
+        height: 899
+  - title: "Turning Machine Learning into Business Applications"
+    excerpt: "Machine Learning is viewed as an essential enabler that will allow applications to act on the collection of new data sets to improve their predictive capabilities. This white paper shows how Talend and AWS are bridging the gap between data scientists and data engineers to operationalize ML."
+    publishedDateTime: 2020-02-24T22:09:00Z
+    webUrl: "https://www.computerworld.com/resources/199257/turning-machine-learning-into-business-applications"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 23
+      name: Computerworld
+      domain: computerworld.com
+    quality: 39
+    images:
+      - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
+        width: 300
+        height: 300
+  - title: "Cutting communications overhead for distributed learning apps"
+    excerpt: "As the military depends more on edge devices that provide data-driven insights and allow warfighters to better collaborate, machine-learning applications face challenges sharing their data in contested, congested and bandwidth-constrained environments. Now, scientists at the Army Research Lab have shown that distributed deep learning algorithms ..."
+    publishedDateTime: 2020-02-19T23:48:00Z
+    webUrl: "https://gcn.com/articles/2020/02/19/arl-distributed-machine-learning.aspx"
+    type: article
+    provider:
+      name: GCN
+      domain: gcn.com
+    quality: 4
 
 secured: "AMh20mKjfHUjewB5YdIm0N7w+wBQ4UBRlc17AyOKV8ygI9W2acjLz1TR0m/1nRHj4wmEnHnwEM7+OAWUyYvsETn05npHIUH4NZ8BqcO11sGdXbRTASrfbSJUXz5whlewwT/wTVDp+qLrt7vymtRpBDeHh3wcxdBL/GTD2euMqiMMDj99hAlD8exzER4qUiznDNj1q//411s0GoDdIRxLtMZz52RnTg3+Rh+nW6EEJeZbRJItkuk5rqdF2kBwGMIBbwehZhIXNzpDCuSDWJXqkmxh7j6Ewg8Y2y+OCWhNGfK2xBXbqqIP4ru041UjShlp;losf6FNsXxC7YbKlciCPWg=="
 ---

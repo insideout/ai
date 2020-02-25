@@ -53,7 +53,7 @@ related:
         width: 800
         height: 534
   - title: "Pentagon adopts new ethical principles for using AI in war"
-    excerpt: "The new principles call for people to \"exercise appropriate levels of judgment and care\" when deploying and using AI systems, such as those that scan aerial imagery to look for targets. They also say decisions made by automated systems should be “traceable\" and “governable,\" which means “there has to be a way to disengage or deactivate ..."
+    excerpt: "While the Pentagon acknowledged that AI “raises new ethical ambiguities and risks,\" the new principles fall short of stronger restrictions favored by arms control advocates. “I worry that the principles are a bit of an ethics-washing project,” said Lucy Suchman, an anthropologist who studies the role of AI in warfare. “The word ..."
     publishedDateTime: 2020-02-24T21:54:00Z
     webUrl: "https://abcnews.go.com/Politics/wireStory/pentagon-adopts-ethical-principles-ai-war-69181756"
     ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pentagon-adopts-ethical-principles-ai-war-69181756"
@@ -131,6 +131,6 @@ related:
       domain: defense.gov
     quality: 34
 
-secured: "ncQXiQqERTvnpEDlWahzClPHLet94LVtNt53Soe6DOzf3wo8mKQ2ii2QaAkPlpAJBYDCWOcwypSZTIIQQuF3R+JauRcUwMYszRj0+NsPGuZUkHhrluzRAY3w4PXtkSRAHO5l4g5MXLjJwEQPPgvc3AJFgoePwoiZYmJAsVGscnqOAlcjAkWX0MX9hhC8j32SOkStKtXodwBD48LjXakk5nmaqLifJ/mDjuYEw4PBpexK+HCFqRt2kIPPaV+ifv8GsBADvIviVoGWGfd2uldngHD/AzLPHpQL24rApilzl1A07SFEZWsPmtQ1I6X0G0/R;D/t/ScD+fn7oaWa3t3xKPg=="
+secured: "+QKlymtgqjgWNDoGUnzRuynlN8sy6XPraWB2TivlULzY2D1xtFoLPgIxo638vIjGh8EBJsoVbsPLbnL1dOi3c8c39zkMVIaOZT0iPpmauQToRxDWo09j5DhqGQSD81IRtOcp6RVhBbLBbUOWwEYJJ7dJA4h2UYnnEGfU47MyjNrIRC7qQe0a7TntN9nUSKqHhX7x+95EhaGh66H6XpexKaK+x89ISdI4I1N0B32HqUvWyjN3e5BnqCD4xhPOZDirN9e6ONneDYd/3NRVrByzWr1oC5eTjJkiAi/OahWwt5RCmfTJOCmxovRwVfafxlKzOX8X39cEPRxCRHgow/tkpypzPeyaHqBZenHXEESe9m7AZI7KOFtkEBIWZ7dJ1m4myCg8Gp7hjk4By3A9so4dttA4lFGt3TNHAt4mHph1Qp26ohUaqzsRL97M+f3SjslqdjsbhoLP/Feq5SCDtQk0gr6psSP7LsJLMH1eeEK4JAk=;yhFj0nxhgFJutSoXkPxtEA=="
 ---
 

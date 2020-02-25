@@ -84,6 +84,21 @@ related:
       - url: "https://scdn.slashgear.com/wp-content/uploads/2020/02/5Vector-2.jpg"
         width: 1680
         height: 1117
+  - title: "MIT Tech Lets Self-Driving Cars “See” Under Surface of Road"
+    excerpt: "MIT is working on self-driving technology that allows cars to “see” through the ground ... A team at MIT’s Computer Science and Artificial Intelligence Lab have come up with a new system they call “Localizing Ground Penetrating Radar” (LGPR) that can create a real-time map of the ground below the road’s surface."
+    publishedDateTime: 2020-02-25T00:33:00Z
+    webUrl: "https://futurism.com/mit-tech-self-driving-cars-see-under-surface-road"
+    ampWebUrl: "https://futurism.com/mit-tech-self-driving-cars-see-under-surface-road/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/mit-tech-self-driving-cars-see-under-surface-road/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 44
+    images:
+      - url: "https://wp-assets.futurism.com/2020/02/mit-tech-self-driving-cars-see-ten-feet-ground-600x315.jpg"
+        width: 600
+        height: 315
   - title: "Jaguar Land Rover latest to unveil a self-driving shuttle"
     excerpt: "Limited parking spots coupled with congestion will make owning and driving your own car a hassle. Automakers realize this and seem to have reached a consensus on the solution: self-driving shuttles that run around town offering rides. The British automaker's design is called the Project Vector, a self-driving, battery-electric shuttle that ..."
     publishedDateTime: 2020-02-20T18:00:00Z
