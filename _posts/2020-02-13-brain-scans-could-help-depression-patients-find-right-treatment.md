@@ -41,15 +41,6 @@ related:
       - url: "https://cdnph.upi.com/sv/ph/og/upi_com/1171581366434/2020/1/7986d4db507d8fe67a269e40fbed16ee/v1.5/AI-may-help-patients-determine-most-effective-antidepressant.jpg"
         width: 800
         height: 533
-  - title: "AI May Help Guide Patients to the Most Effective Antidepressant"
-    excerpt: "AI May Help Guide Patients to the Most Effective Antidepressant By Serena Gordon HealthDay Reporter MONDAY, Feb. 10, 2020 (HealthDay News) -- Choosing the right antidepressant for someone who is depressed can be hit or miss."
-    publishedDateTime: 2020-02-10T19:54:00Z
-    webUrl: "https://www.usnews.com/news/health-news/articles/2020-02-10/ai-may-help-guide-patients-to-the-most-effective-antidepressant"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 47
 
 secured: "+Bx1smMpTMjpmpoN6Yl4hTbcIB3McpZWPvLr0nOKDuOhebUB2fjMIYNMOce/80vgMESQo06rLyGFiP2Hci1UdPOQ9CXCJWZf1oHbV0LUwDVGJ70BKBiTYo3SoiX5UhwnDEx7FWHroZXzZS75+UAB1o4SvHJGxjAPQQdcUyXD+hdsM2kQcc9FAO7jp69N5lIe6jY166nwCkyfTiJVLvHR/VXqMgoDTxlW1YJLTgc2WvTSiwRFceC9H5gbikG9QqMC05Js7dYDWVlCvRX2rWhIW7Qr6rwKwPF7Y3uo3IrJvu3Z9abHH8aXh9/cdwXVLLNPxI5xnqwqledtEEel6R2N8OoOp3DB81G+f05+p9Tm63vLUCJjc/eBNwwQcmrM2x/A0jR/XiTtTVceNI2whqR3Ef4Drg5A6FIGRuZpqAJAnIaNdqvrRRg6oi5fGndRhVBHSyA/uPIFQetTBTe4/eqWgZfu3bxNc6FMyFXsZVx9TyU=;58L/HzbKxx1vRDui9vcYGg=="
 ---

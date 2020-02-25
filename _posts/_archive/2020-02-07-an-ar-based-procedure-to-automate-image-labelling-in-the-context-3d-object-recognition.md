@@ -38,6 +38,6 @@ related:
       domain: ulster.ac.uk
     quality: 19
 
-secured: "JEtRQT/Bml0dpMwR9wqdgMKwOQ/NJiNL/1boI3N71hx0I4keTc2aRGxIHRFdfgcOh15uOf1MazyBpmQ/ipSWeai/Q3WY3Dr9OD5OerGkbyaaslu8OD7jBB4PRHvlgtfOBArOpa3Q2vR7PcC/i+W3tOeD0Zu82U4gZTwMU9zNYfCDHBerVWqthQmhnHRw319RhBgY8evP1gR+wbt6MF44YEueA1++Xtz9vXK2MeiKgqpemYZNUJYsHbe9SOpELOQhoj8MZF0jrRj8wRNXQX5FpVQ76eYQ8mVG5hb6upy8o2wfQ8ijVBrsGYCj9TLJNVIK;xGzSuLFRrtb8UYOWqzEPog=="
+secured: "NKTI31wXW0xSOn+BxRkQB5gUU3I1sej/LoIYB8p2xNgfB6rtVgtvUjFTWSkl9gPwXq3DpCNTnNqBtLmPoD/+pUfc31ySCjM0uJoMAuwCbEUtaEjmbizCJgZ7miAuJPDLQkybC8Mx3KMZuAzCndis0Xrb8a80GogrLZM22y1N9n3EAH5v4HoHtC7MTyoMe+bDpSVEVxxoJ2HDijfoiRDF0aJPotrwqtqmFzJO+dTgpzStAqTtukRjmfGBgX2jFuIE5QYVlJ1imnY8JhJ/LLne0V9YHuuhZxrHqg6Xmt+LhGNtXEkScAylmuH1QQxMWVhz;w6bQLhV1okfVtZA+ihNN0Q=="
 ---
 

@@ -1,28 +1,48 @@
 ---
 category: news
 title: "Covariant and ABB Partner to Deploy Integrated AI Robotic Solutions"
-excerpt: "ZURICH, Feb. 25, 2020 /PRNewswire/ -- ABB, the world-leading supplier of industrial robots, and Silicon Valley AI start-up, Covariant, today announced a partnership to bring AI-enabled robotics solutions to market, starting with a fully autonomous warehouse order fulfilment solution. The partnership brings together the two companies with a ..."
+excerpt: "ZURICH, Feb. 25, 2020 /PRNewswire/ -- ABB, the world-leading supplier of industrial robots, and Silicon Valley AI start-up, Covariant, today announced a partnership to bring AI-enabled robotics solutions to market,"
 publishedDateTime: 2020-02-25T06:00:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/covariant-and-abb-partner-to-deploy-integrated-ai-robotic-solutions-1028934173"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/covariant-and-abb-partner-to-deploy-integrated-ai-robotic-solutions-1028934173"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/covariant-and-abb-partner-to-deploy-integrated-ai-robotic-solutions-1028934173"
+webUrl: "https://www.marketwatch.com/press-release/covariant-and-abb-partner-to-deploy-integrated-ai-robotic-solutions-2020-02-25?mod=mw_quote_news"
 type: article
-quality: 84
-heat: 84
-published: true
+quality: 67
+heat: -1
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: MarketWatch
+  domain: marketwatch.com
   images:
-    - url: "/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "/assets/images/organizations/marketwatch.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI
-  - AI in Robotics
 
-secured: "018Xpgdp6iahNKshbCGdr2qnNmnpi12DvtUBYEzmmBU7qLNy3dM6ViTqKry6PJHwJ0UX8w1FyMzRXUVmurUk2QZdM/s/krT3omVJJ1XDOqmzgJPUYGGHuZnPmX4xdnktSKkMxs4InQ3Dg+AoqvupfMKRwHtBbZ681MKTNzvVF2eswarrbmCUPFVxF4tHL1vJfNvugTwuUu3MMs5TuAqYUDdNEaM+G0toGbLyiY1FR4sdwt1jNSuFk0Q+oCB2MEzMI0XXL8M5vY3ZSdo0Y24s+vHRx1HOBNe/neIH1NXT6IGjLE38qdPW+a819Y2WgpFr;jWEWQV9wDmpBV1O+kc6xXQ=="
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    title: "Covariant and ABB Partner to Deploy Integrated AI Robotic Solutions"
+
+related:
+  - title: "How To Deploy Robotics Responsibly"
+    excerpt: "industrial and commercial robotics, artificial intelligence (AI) and the interconnectivity of software and hardware devices. Indeed, IDC predicts that by 2022, the global robotics market (i.e., robots,"
+    publishedDateTime: 2020-02-24T17:23:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/02/24/how-to-deploy-robotics-responsibly/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/02/24/how-to-deploy-robotics-responsibly/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/24/how-to-deploy-robotics-responsibly/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1011468914/960x0.jpg?fit=scale"
+        width: 711
+        height: 474
+
+secured: "0gOQtGV2NsjiHNrHAO6LpWWV7lOqyhlRzFXtxHDwnQvrta/X0MyfGjpZ6kGM946EmFWxiQAsfz4xc9q/qzfmhYhDbOkwvCbGq6VhUG0Cd9ND0Od8VGloq9qkqkg8Xqgfp5WlFKLOJcEHEyCnre4v/L8iCOO7hbGMzlsCECJGi6RVcWF0h0GO1Vo3WfeqNFLTO1nelyJuFrdzlYvrNSFWVvApeB4LBzfMBbdU3xo3OtLsf8A5y2tvrCP2WvQugRTCx6rCs4SV5aoxBrvlHoAL9TFiXTMzMiKzy3nj+Rt1DNQ7HJ7Ch2/SYS5jK4Mxs7L4;Pr19XmYmTKTD+9hDyK8rgw=="
 ---
 

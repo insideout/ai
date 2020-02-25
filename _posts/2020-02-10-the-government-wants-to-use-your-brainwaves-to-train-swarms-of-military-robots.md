@@ -8,8 +8,8 @@ ampWebUrl: "https://www.popularmechanics.com/technology/robots/amp30855506/darpa
 cdnAmpWebUrl: "https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/technology/robots/amp30855506/darpa-swarm-robots-video-game/"
 type: article
 quality: 70
-heat: -1
-published: false
+heat: 80
+published: true
 
 provider:
   name: Popular Mechanics
@@ -26,21 +26,6 @@ images:
     title: "The Government Wants to Use Your Brainwaves to Train Swarms of Military Robots"
 
 related:
-  - title: "US Army to use gamers’ brain waves to train military robot swarms"
-    excerpt: "The U.S. Defense Advanced Research Projects Agency, known as DARPA, awarded a team from the University of Buffalo's Artificial Intelligence Institute a $316,000 grant for the study. Although swarm robotics is inspired by many things, including ant colonies ..."
-    publishedDateTime: 2020-02-10T19:58:00Z
-    webUrl: "https://www.foxnews.com/tech/army-using-gamers-brain-waves-to-train-military-robots"
-    ampWebUrl: "https://www.foxnews.com/tech/army-using-gamers-brain-waves-to-train-military-robots.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/army-using-gamers-brain-waves-to-train-military-robots.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 104
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/02/640/320/creative-commons-robot-swarm.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
   - title: "DARPA’s Initiative to Train Military Robots Swarm Using Gamers’ Brain"
     excerpt: "At present, they’ve yet to start the data-gathering phase of the project ... Ultimately, the researchers hope to end up with an AI that can guide the actions of groups of 250 robots on the ground and in the air, giving the fleet the ability to autonomously navigate unpredictable environments. “Humans can come up with very unique strategies ..."
     publishedDateTime: 2020-02-13T18:09:00Z

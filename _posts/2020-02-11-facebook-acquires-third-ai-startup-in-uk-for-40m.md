@@ -26,21 +26,6 @@ images:
     title: "Facebook Acquires Third AI Startup In UK For $40M"
 
 related:
-  - title: "Facebook quietly acquired another UK AI startup and almost no one noticed"
-    excerpt: "Over the last few years, Facebook has been busy building out AI capabilities in areas like computer vision, natural language processing (NLP) and ‘deep learning,’ in part by acquiring promising startups in the space. Understandably, this has seen the U.S. social networking giant look to the U.K. for AI talent, including an acqui-hire of NLP ..."
-    publishedDateTime: 2020-02-10T19:10:00Z
-    webUrl: "https://techcrunch.com/2020/02/10/facebook-quietly-acquired-atlast-ml/"
-    ampWebUrl: "https://techcrunch.com/2020/02/10/facebook-quietly-acquired-atlast-ml/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/10/facebook-quietly-acquired-atlast-ml/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 90
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/02/halftone-maze.png?w=1024"
-        width: 1024
-        height: 544
   - title: "Facebook Acquires Computer Vision Startup Scape Technologies"
     excerpt: "Facebook quietly acquired London-based computer vision startup Scape Technologies, according to several regulatory filings with the U.K.’s Companies House. Scape said on its about page that it is building a cloud-based Vision Engine that allows camera devices to understand their environment, using computer vision. The company added ..."
     publishedDateTime: 2020-02-10T22:40:00Z
@@ -65,6 +50,19 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 34
+  - title: "This Week In AI: Facebook Acquires Scape Technologies, Square Acquires Dessa, Carbon Relay Raises $63M"
+    excerpt: "Last month, we released our quarterly AI in Numbers report. This quarter’s report highlights AI investment activity, partnerships, and M&A in 2019. You can check it out in CB Insights Stories format here. Want the full post? Become a CB Insights customer. If you’re already a customer, log in here."
+    publishedDateTime: 2020-02-14T18:37:00Z
+    webUrl: "https://www.cbinsights.com/research/this-week-in-artificial-intelligence-facebook-scape-uipath-sisense-carbon-relay/"
+    type: article
+    provider:
+      name: CB Insights
+      domain: cbinsights.com
+    quality: 23
+    images:
+      - url: "https://s3.amazonaws.com/cbi-research-portal-uploads/2020/02/14101729/SELSER-572x364.png"
+        width: 572
+        height: 364
 
 secured: "mK4BZ+REILN/YA+A2wVFC8AFyQv/VYOF4spjCX5vhfGmNxQbt/TqCtT81TZmp0PWIZZAk+ADtedCqIxbCti3v7yOmLsc0cUVgrVgxoqAFHGUqYGHhhYm/PxGTUvc9uQt7oN3twhDdceigppk8cWTK+0seW6NnVS3/1PAQyygBrNq5+Ue7EZGUskvpT8FLLuXYf8fXhAENGs3X4sgeSew607X/7ibdFvVh8+x8vJeL3hydHFflBDmw8t/16Nqyuz11V0k+7E3kNTlW3bq4Sus99EPhYCMVW/FkC/Ixi3IxFrKcx7FtcilD8dsCTarAaHE3tUHbzdHCZSgXBtJ3lVZphgzBHxBzqqLDsZ2Rf5jxfPI7tGN38UaihVP3iELlAuF4dxTXzrri4UdTm2/8jyfK0c01/IJZ2wAeixNbk9kUbmKcBSbfZeaYMYJSVkLK1nd0HzfONddYiU3vzTw0XMLkZgYMtsf/XGNMFzIdNtYd60=;UAYI1w17h2PPjIwBF3nLhw=="
 ---

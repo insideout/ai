@@ -1,21 +1,27 @@
 ---
 category: news
-title: "Watch: Edmonton police give update on facial recognition technology"
-excerpt: "Warren Driechel, superintendent of the Edmonton police informatics division, and Devin Laforce, superintendent of the Edmonton police investigative support, provided an update Wednesday on a project assessing and engaging in a facial recognition solution for the police service. The technology hasn’t been implemented yet as EPS is still ..."
-publishedDateTime: 2020-02-20T01:38:00Z
-webUrl: "https://edmontonjournal.com/news/local-news/watch-edmonton-police-update-on-facial-recognition-technology"
+title: "EU police departments preparing massive international facial recognition database"
+excerpt: "Internal documents leaked to The Intercept show that the European Union (EU) is creating the legislative framework for implementing an international facial recognition database that will likely be integrated with a similar system already in place in the US. The Intercept reported on Friday that an unnamed European official “who is concerned ..."
+publishedDateTime: 2020-02-25T09:26:00Z
+webUrl: "https://www.wsws.org/en/articles/2020/02/25/reco-f25.html"
 type: article
-quality: 19
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Edmonton Journal
-  domain: edmontonjournal.com
+  name: World Socialist Web Site
+  domain: wsws.org
 
 topics:
   - AI
   - Computer Vision
+
+images:
+  - url: "https://www.wsws.org/img/open-graph-icon.png"
+    width: 1500
+    height: 785
+    title: "EU police departments preparing massive international facial recognition database"
 
 related:
   - title: "Leaked Reports Show EU Police Are Planning a Pan-European Network of Facial Recognition Databases"
@@ -171,19 +177,6 @@ related:
       name: Edmonton Journal
       domain: edmontonjournal.com
     quality: 34
-  - title: "EU police departments preparing massive international facial recognition database"
-    excerpt: "Internal documents leaked to The Intercept show that the European Union (EU) is creating the legislative framework for implementing an international facial recognition database that will likely be integrated with a similar system already in place in the US. The Intercept reported on Friday that an unnamed European official “who is concerned ..."
-    publishedDateTime: 2020-02-25T09:26:00Z
-    webUrl: "https://www.wsws.org/en/articles/2020/02/25/reco-f25.html"
-    type: article
-    provider:
-      name: World Socialist Web Site
-      domain: wsws.org
-    quality: 34
-    images:
-      - url: "https://www.wsws.org/img/open-graph-icon.png"
-        width: 1500
-        height: 785
   - title: "Metropolitan Police deploys facial recognition in central London with two hours’ warning"
     excerpt: "Police have deployed controversial facial recognition technology in central London with just two hours' notice, sparking privacy concerns. The Metropolitan Police installed a live facial recognition (LFR) camera at Oxford Circus, a highly-trafficked area ..."
     publishedDateTime: 2020-02-20T13:59:00Z
@@ -210,7 +203,16 @@ related:
       - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
         width: 252
         height: 335
+  - title: "Watch: Edmonton police give update on facial recognition technology"
+    excerpt: "Warren Driechel, superintendent of the Edmonton police informatics division, and Devin Laforce, superintendent of the Edmonton police investigative support, provided an update Wednesday on a project assessing and engaging in a facial recognition solution for the police service. The technology hasn’t been implemented yet as EPS is still ..."
+    publishedDateTime: 2020-02-20T01:38:00Z
+    webUrl: "https://edmontonjournal.com/news/local-news/watch-edmonton-police-update-on-facial-recognition-technology"
+    type: article
+    provider:
+      name: Edmonton Journal
+      domain: edmontonjournal.com
+    quality: 19
 
-secured: "rkmGmoRQLrWGiq+mgs8CVMDFp+SCk+zk/R+TvFwfst3P98NgFeg0XBJmDKYcPMjVV9i3IGed+MbGUEJ4VIfoiBbQ4IDD6JU6iO2B+CRlf0lmy4rTv+L/QxWLgyTFcrz7JGXEis46oIMsLWoybqVpscjivtSXybi7/OX5wJzTo3GFi0iMmDM5H/RMV4RLua12ItZ/LJoBoBKFZYrEBuT+CVmnX4Giv0Ss96jx2zQSWDWtratG06ie2CMUas7K/vvmZFs897DC6hfT01Wjr6+3ZpPQxhjihzZjuZJ5UpLpL7+3id3MHx5unC8onxd4ddU7GgOLHj9QUzLFMn8f9Xg/fVaKCslAdXMLbs6Qlkv3XDQB9FFEWuhzfYeR6/gu2e+yGj7hTGppFFVzN6+GQr56fjDGI8H+6BbaqFv8LelYMKNHbw7g79rWJk/qjKBHyVZAZ1GJVSj3zSvIX7QlCtnR8ecaVwJ/pNbzVuLs3u6S15A=;t9v8rjPZkONnDfuNNOrWKg=="
+secured: "a3T34ptLxexrPL0xbee6LCyzKRJcHlFpMTmI9Z6Y8YMO/BFLb+l2AEV7HKRTw1ZHf7YfDzPmy3Nbbs6TvOhmBqAs0WSTn3RYLgKxD0zyLKz3r4TquNbWasPDcbfzO9LM89svriibjr1SEQ+MdjiL7y6e3YVmvX6EHko+d4h68HMiQnhb4u+/j3Tp5c3EtvOp2MouQun2FI6a9soxqwP4WuCOEQudkrEBrgTjXIemEN6SoafDk6irSFTNPcTrIzGC30YrMRsiWs3LxeP4r91b/SEjmbt1bygfEkpiCT5XNhU0oBAoMWv2SFW3UFR9LRt5;v6afK4wpdr3R1L4IFgDGXQ=="
 ---
 

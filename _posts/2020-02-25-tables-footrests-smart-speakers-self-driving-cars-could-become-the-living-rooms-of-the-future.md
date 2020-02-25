@@ -1,35 +1,46 @@
 ---
 category: news
-title: "Self-driving car companies complain California test data may mislead"
-excerpt: "Developers of self-driving cars are amping up criticism of a California reporting requirement on test data, saying the data could mislead, as the state prepares to release the latest results for 2019."
-publishedDateTime: 2020-02-21T17:53:00Z
-webUrl: "https://www.reuters.com/article/us-autos-self-driving-california/self-driving-car-companies-complain-california-test-data-may-mislead-idUSKBN20F2F7"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN20F2F7"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN20F2F7"
+title: "Tables, footrests, smart speakers: Self-driving cars could become the living rooms of the future"
+excerpt: "With self-driving vehicles on the horizon, automakers are rethinking what the future of car interiors will look like. And because these completely autonomous cars, called Level 5 vehicles, will free drivers from focusing on the highway, companies are now free to experiment. And that means premium cars could be loaded with tech that makes ..."
+publishedDateTime: 2020-02-25T12:35:00Z
+webUrl: "https://www.usatoday.com/story/money/cars/2020/02/25/smart-car-nissan-bmw-gm-future-cars-spacious-interiors/4658453002/"
+ampWebUrl: "https://amp.usatoday.com/amp/4658453002"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4658453002"
 type: article
-quality: 89
-heat: 129
-published: true
+quality: 31
+heat: -1
+published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: USA Today
+  domain: usatoday.com
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200221&t=2&i=1493407844&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG1K1LU"
-    width: 830
-    height: 545
-    title: "Self-driving car companies complain California test data may mislead"
+  - url: "https://www.gannett-cdn.com/presto/2020/02/05/USAT/09643d9a-d78b-46f0-8ac3-bfdd247cfc98-BMW1.jpg?auto=webp&crop=825,465,x0,y41&format=pjpg&width=1200"
+    width: 1200
+    height: 676
+    title: "Tables, footrests, smart speakers: Self-driving cars could become the living rooms of the future"
 
 related:
+  - title: "Self-driving car companies complain California test data may mislead"
+    excerpt: "Developers of self-driving cars are amping up criticism of a California reporting requirement on test data, saying the data could mislead, as the state prepares to release the latest results for 2019."
+    publishedDateTime: 2020-02-21T17:53:00Z
+    webUrl: "https://www.reuters.com/article/us-autos-self-driving-california/self-driving-car-companies-complain-california-test-data-may-mislead-idUSKBN20F2F7"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN20F2F7"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN20F2F7"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 89
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200221&t=2&i=1493407844&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG1K1LU"
+        width: 830
+        height: 545
   - title: "Cruise can now transport passengers in self-driving cars in CA"
     excerpt: "Cruise is now one of five self-driving companies allowed to participate in this program. The others are Zoox, Waymo, Pony.ai, Aurora and AutoX. This program is a bit different from the one run by the California Department of Motor Vehicles, which has granted 66 companies permits to test their respective vehicles in the state. Cruise originally ..."
     publishedDateTime: 2020-02-24T21:26:00Z
@@ -73,22 +84,7 @@ related:
       - url: "https://media.bizj.us/view/img/10839744/waymo-jaguar*600xx2000-1333-0-0.jpg"
         width: 600
         height: 399
-  - title: "Tables, footrests, smart speakers: Self-driving cars could become the living rooms of the future"
-    excerpt: "With self-driving vehicles on the horizon, automakers are rethinking what the future of car interiors will look like. And because these completely autonomous cars, called Level 5 vehicles, will free drivers from focusing on the highway, companies are now free to experiment. And that means premium cars could be loaded with tech that makes ..."
-    publishedDateTime: 2020-02-25T12:35:00Z
-    webUrl: "https://www.usatoday.com/story/money/cars/2020/02/25/smart-car-nissan-bmw-gm-future-cars-spacious-interiors/4658453002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4658453002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4658453002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 31
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/02/05/USAT/09643d9a-d78b-46f0-8ac3-bfdd247cfc98-BMW1.jpg?auto=webp&crop=825,465,x0,y41&format=pjpg&width=1200"
-        width: 1200
-        height: 676
 
-secured: "wXtE5DdY2ruH63WlAoBEL+NOv9vOXp/tpcAVkLS7eBuFD8yhKFLL6mRPP+yBprlG0nUJVdZstJ7bI6dPYwoGWwWtXgbQ/4bXWWxq+KuHBHzcoaILtWuOF4sij0vZnm1keNuXa9dgiOYBQJhzUgtYiRal5XBeU2ie3/4VzpztcKhv7d3eNhE8yIKGJQ0Z5lopsBqWLoMK6VO5KDoKCCtVigbKcwCYZk+LPJwqa1EzXFOfiRR+gDKCPPFJHVSUG9l477hqdUvmeZO2KRF1QMD2V4fRH2s+ZRqw1XlbaNpDcZGy4Nwm2fsKjAiS5dur++O981rrfvxT+mbDIIH2VhJ0GvoEuVss4gl9qW67Yid1xCk5GjiJvioFUDjHjEYSKI9jQwI5SE/IqU2Td6INDaFGH3YLhyTja9imxNwBUq7xVeAljRzc0D4os2L4g2myk9GZ6Csrb7C3bUac8ToT9byzxjJfUk9CKupcRoLYbKDso8Y=;OtoZNpUD5qpvEJwLzDE23g=="
+secured: "t7PoNfrCWlaYNQYZPjDhvXrkuzOTTFUugE3hloNTTEMW3/iUI9DPJ+9Pu3C2/p4ByT727AKuvVsGuM0JAwhTdRTDqoXZPN0E0S9jttMdo05UXy9z/ZGtWi41bDxFuelmEwVmwjm+ggTLChzWmujPObhaZe8kh3AD0kVluUTmokd1RuEFLf+RxfuwC/pGJ1RJRAsqxBVWHzvxquDZq9OZhVv+YdfLoKPja6UC4f/HAn9ASOou3g5TRBkIwscaLihIYiUkmGnJuCW4PUc7N9Zdp3j7a0rsUi8qTu3f3gBJ/aAG0JjxVzCiXwTwtPu/BJpz;3CgGlto4mNYE5c3eGubf2Q=="
 ---
 

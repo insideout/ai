@@ -69,6 +69,21 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/02/cruise-self-driving-california.jpg?w=1200&#038;strip=all"
         width: 1200
         height: 600
+  - title: "Tables, footrests, smart speakers: Self-driving cars could become the living rooms of the future"
+    excerpt: "With self-driving vehicles on the horizon, automakers are rethinking what the future of car interiors will look like. And because these completely autonomous cars, called Level 5 vehicles, will free drivers from focusing on the highway, companies are now free to experiment. And that means premium cars could be loaded with tech that makes ..."
+    publishedDateTime: 2020-02-25T12:35:00Z
+    webUrl: "https://www.usatoday.com/story/money/cars/2020/02/25/smart-car-nissan-bmw-gm-future-cars-spacious-interiors/4658453002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4658453002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4658453002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 31
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/02/05/USAT/09643d9a-d78b-46f0-8ac3-bfdd247cfc98-BMW1.jpg?auto=webp&crop=825,465,x0,y41&format=pjpg&width=1200"
+        width: 1200
+        height: 676
 
 secured: "p5fEcB5VD4WahdCPmoHM1WZnHRygNqxb1i0VjUxC42e8hDXvGfzl0TjNwC5AVlNSo4INa96+HYl/a8OvOzuVenXzS7K2q0bLnbrUFoSxzzULD8ayN80DwYbMLUtvdOF6iA8ouT+fjOrGmbCRg46A6dQWe7D2lEBTUEENYLTwPJMX9t8E1ZI/IvxJSqxSY+rECh30evbXo9L6IHOHv03pYHvA7eZjHUCTjpHijvnEYkZneZlC0KDTva5+FSWgYSS7vPMShst/+xanx16rC2aSg9kRyEPRVDxMXGX9TKKTc+cyYHIPanG9xQ0W4ntyYNPYSZzH9Ycn8MoJhds84Pxjj9y659JZtHLvrZgZbfq8JEM1/blc8B66IsjQKkFYqpMDED2O5ikYp4nvtmTBOPmmsXGeJbhC2B/VtOkHLTYfxWjpYSb9t3kxs4AygJD+LRqJX4H4S4GFQKGMaGz2Hatzdi7RPXaE9/n4WZ9kbAB4SyY=;WEDL3r8qq3K6Z865SHRxCQ=="
 ---

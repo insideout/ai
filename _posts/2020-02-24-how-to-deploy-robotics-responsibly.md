@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/02/24/how-to-dep
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/24/how-to-deploy-robotics-responsibly/amp/"
 type: article
 quality: 104
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -28,6 +28,21 @@ images:
     width: 711
     height: 474
     title: "How To Deploy Robotics Responsibly"
+
+related:
+  - title: "Covariant and ABB Partner to Deploy Integrated AI Robotic Solutions"
+    excerpt: "ZURICH, Feb. 25, 2020 /PRNewswire/ -- ABB, the world-leading supplier of industrial robots, and Silicon Valley AI start-up, Covariant, today announced a partnership to bring AI-enabled robotics solutions to market,"
+    publishedDateTime: 2020-02-25T06:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/covariant-and-abb-partner-to-deploy-integrated-ai-robotic-solutions-2020-02-25?mod=mw_quote_news"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
 
 secured: "KOmtwE+HqtrosF6bKfFLde0sdLlvSfCfqSEBZXUvoIRzmjaWJtUgmUc9YKQ8Zu1QLOUyfJdO0+S8Em+WpZEUHmFYnZfOBpvsQbonIjlLO33wV1ajp2l87sc0rHvTPvVdd1Fjgc3+EkxbhP2eoed2Aoppbu0H3nAkpaSks5jmRuYoD1EWzoVFCI51hRFYqEz9YcmoEsLK0YEkPDuW/BcwW+/fOt72dm9D5MPSx6eqAf4w0uKKXpQG7D9MJdl2u7hgHOO87DIf2V9jflmHBfyUg4GWbGUuu06QiBvTMLRv/VOvOL0kDnIpZZJC7y8Moa4YmBbOAkDiX4tfov6JKdfPKNqAQRSEPStKctRPJ9b1n7BavWzA2r1Bu2G8DZHhbuxwfFT8/VpEckcmVDLo+2RWsDyAmq/rGAojUZjCi/gwPEzo57fjcBx4/+lZeStokzhPZpT+tzoD/En46fuQyHSqTkmTzOTfthh6lqBjYEILAzc=;B5st6uswFs8dYJGcC7fgFA=="
 ---

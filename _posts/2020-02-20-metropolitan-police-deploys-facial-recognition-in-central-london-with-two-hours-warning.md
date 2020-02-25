@@ -177,6 +177,19 @@ related:
       name: Edmonton Journal
       domain: edmontonjournal.com
     quality: 34
+  - title: "EU police departments preparing massive international facial recognition database"
+    excerpt: "Internal documents leaked to The Intercept show that the European Union (EU) is creating the legislative framework for implementing an international facial recognition database that will likely be integrated with a similar system already in place in the US. The Intercept reported on Friday that an unnamed European official “who is concerned ..."
+    publishedDateTime: 2020-02-25T09:26:00Z
+    webUrl: "https://www.wsws.org/en/articles/2020/02/25/reco-f25.html"
+    type: article
+    provider:
+      name: World Socialist Web Site
+      domain: wsws.org
+    quality: 34
+    images:
+      - url: "https://www.wsws.org/img/open-graph-icon.png"
+        width: 1500
+        height: 785
   - title: "Announcement - Commissioners launch joint investigation into Clearview AI amid growing concerns over use of facial recognition technology"
     excerpt: "Media reports have stated that Clearview AI is using its technology to collect images and make facial recognition available to law enforcement for the purposes of identifying individuals. The company has also claimed to be providing its services to financial institutions. The four privacy regulators will examine whether the organization's ..."
     publishedDateTime: 2020-02-21T17:10:00Z

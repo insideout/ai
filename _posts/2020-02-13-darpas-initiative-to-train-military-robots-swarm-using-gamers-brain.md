@@ -24,21 +24,6 @@ images:
     title: "DARPA’s Initiative to Train Military Robots Swarm Using Gamers’ Brain"
 
 related:
-  - title: "US Army to use gamers’ brain waves to train military robot swarms"
-    excerpt: "The U.S. Defense Advanced Research Projects Agency, known as DARPA, awarded a team from the University of Buffalo's Artificial Intelligence Institute a $316,000 grant for the study. Although swarm robotics is inspired by many things, including ant colonies ..."
-    publishedDateTime: 2020-02-10T19:58:00Z
-    webUrl: "https://www.foxnews.com/tech/army-using-gamers-brain-waves-to-train-military-robots"
-    ampWebUrl: "https://www.foxnews.com/tech/army-using-gamers-brain-waves-to-train-military-robots.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/army-using-gamers-brain-waves-to-train-military-robots.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 104
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/02/640/320/creative-commons-robot-swarm.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
   - title: "The Government Wants to Use Your Brainwaves to Train Swarms of Military Robots"
     excerpt: "DARPA has given a $316,000 federal grant to the University at Buffalo Artificial Intelligence Institute to study gamers' brain waves and eye movements. The aim is to improve organization and strategy among autonomous air and ground robots. Why would the U.S. want to invest in robot swarms? Because bevies of bots are already being pursued ..."
     publishedDateTime: 2020-02-10T21:27:00Z

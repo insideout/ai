@@ -73,6 +73,21 @@ related:
       - url: "https://media.bizj.us/view/img/10839744/waymo-jaguar*600xx2000-1333-0-0.jpg"
         width: 600
         height: 399
+  - title: "Tables, footrests, smart speakers: Self-driving cars could become the living rooms of the future"
+    excerpt: "With self-driving vehicles on the horizon, automakers are rethinking what the future of car interiors will look like. And because these completely autonomous cars, called Level 5 vehicles, will free drivers from focusing on the highway, companies are now free to experiment. And that means premium cars could be loaded with tech that makes ..."
+    publishedDateTime: 2020-02-25T12:35:00Z
+    webUrl: "https://www.usatoday.com/story/money/cars/2020/02/25/smart-car-nissan-bmw-gm-future-cars-spacious-interiors/4658453002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4658453002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4658453002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 31
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/02/05/USAT/09643d9a-d78b-46f0-8ac3-bfdd247cfc98-BMW1.jpg?auto=webp&crop=825,465,x0,y41&format=pjpg&width=1200"
+        width: 1200
+        height: 676
 
 secured: "BD7WfmJYr4pkpnKIbHebWx6FEgSmhQPpQqDYMjoZax311HVw2463R1yQxEsxZLreMfqE+F97OnhdKz+xEAjb3o4V8sugVTLAy+N5qokLv5IpDVGa5J1fHeeOzFKq9eJ7w41vVruP3WHn9A1AvgVC1Rg9z+4ilMdCFrj7gLs5vUlpB1HzHozXaqakUSRNLVh0CulbXLicpxNmNDmRpQYp0ZG7Jx2ttBBLd53D2aAtPtYR6S/YOqZaa64N7tK/KPeQeDwjc8fYKLhJa4WriJph/9r2/EsAIHutKO13IyohKKyruJFiRfZGd7ZzZXobZI/ACYfxxVgla9sI2PcRZhBQBmo3p1qz30k60MEJzDfFgdVx42UH3T3cUrUBC+0xqxbzyOjgbOXTybFkdnE0XUJIunA8ygjc5H9psE/ZiA3HUVEzKW7LrjeZPQy7HIIi3XE+xdJqCCau+5v9gYYgJVDHJ7yk0S5ByeuH6iU1yEcIXMc=;6f6kGYBRWvlBsMFnvH674w=="
 ---
