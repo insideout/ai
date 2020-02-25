@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-05T07:55:00Z
 webUrl: "https://sonicstate.com/news/2020/02/05/patches-for-your-deepmind-12/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -32,8 +32,12 @@ related:
     provider:
       name: Sonic State
       domain: sonicstate.com
-    quality: 19
+    quality: 39
+    images:
+      - url: "https://s3.amazonaws.com/ww2.sonicftp.com/news/images/32473_386.jpg"
+        width: 720
+        height: 405
 
-secured: "/y5PZYXr7Nxjdgk1zO3FZY8scbP15gHoW0UcdLZ9D2WBtWTIAKRlOLUXNXjTkuZTpU65nPGmMMXARpPyJl7I+vDCsW2LJ+Bil4qtvl76bXzC0kZD4uQCE9bNmAo/76rIYUpnjYcvWXfqIJcHD/yD0+nqMreJghbTJHzYCDK8O0rs6IDbBrqERCFyVXuCZ5dP7V+9bcNyZJzKKJLt4POJdJ0xOa02zitZpnZHJoCaqz3Esd9n75pT/mVzIdBhtywVv2J/9dk0Cxo4H8HzYtjeWmV+UZtN/rWIEK4P/c6QYZyeAGfCL7rcdGXqTGPbXNZa;2vapOjViyl+/Bw0Eu1+62w=="
+secured: "FY/45rvtb3H531ki/cHlpvVVZc6lc18Ql4GAiYV4M6y0pxxkR2lpbUU6vxewBAO/W9zViAReEaw7LP4nVPVVEYOUxZwdpJk7fvbj9iPacf7bDG7d79GX99pD2druLwmtpojI8ydbPScsWlYgKq4XZrAt/HZZJq+MBq/clmuLXN1P8RYwuae+Ee/9RmXWEymOojygiML1dKUqrkCETnqJEefrzU7FIcjHGt1LOuI473FvGp+KocKFpnY/Sdo0FvpEQJMe+PP6w4RNhbUc62iZu7B+NsfKUD/9dZfK6PpnG2WK58QWxBDqFKH8ny+rs8Rx;EW4LKcxzukta1YilAUNAcA=="
 ---
 

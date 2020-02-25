@@ -24,32 +24,21 @@ images:
     title: "North America is the leading Machine Translation Market Globally Owing to the Abundant Demands from the IT Sector of the U.S"
 
 related:
-  - title: "The Role of Machine Learning in Marketing"
-    excerpt: "For example, Microsoft’s Azure ML Studio has a methodology to model customer churn. Image source: https://docs.microsoft.com/en-us/azure/machine-learning/studio/azure-ml-customer-churn-scenario In figure 1, it shows a risk model that shows you how actions affect risk and probability. Moving over, figure 2 shows an intervention model that ..."
-    publishedDateTime: 2020-02-10T18:43:00Z
-    webUrl: "https://medium.com/@bo.lau/the-role-of-machine-learning-in-marketing-60918b8f51e2"
+  - title: "FHWA Wants Machine Learning to Manage Transportation Network"
+    excerpt: "The report goes into great depth on the past, present and future of AI, and how emerging machine learning is expected to help create automated transportation systems. “Machine learning applications offer the potential to supplant human work in a variety of” transportation management systems, the report says, including data analysis and ..."
+    publishedDateTime: 2020-02-19T23:35:00Z
+    webUrl: "https://www.govtech.com/fs/infrastructure/FHWA-Wants-Machine-Learning-to-Manage-Transportation-Network.html"
+    ampWebUrl: "https://www.govtech.com/fs/infrastructure/FHWA-Wants-Machine-Learning-to-Manage-Transportation-Network.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/fs/infrastructure/FHWA-Wants-Machine-Learning-to-Manage-Transportation-Network.html?AMP"
     type: article
     provider:
-      name: Medium
-      domain: medium.com
-    quality: 71
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
     images:
-      - url: "https://miro.medium.com/max/1200/0*ogKgDXUqbtxLfG54.png"
-        width: 1200
-        height: 672
-  - title: "Influence marketing’s problems can be solved with a machine-learning solution"
-    excerpt: "But the rapid growth of this channel (in little over 10 years) has brought with it significant debate on its effectiveness and ethics. And those criticisms warrant the introduction of machine learning. Criticisms levelled at the industry and individual influencers have included: a lack of transparency of the effectiveness of influencers ..."
-    publishedDateTime: 2020-02-10T20:08:00Z
-    webUrl: "https://mumbrella.com.au/influence-marketings-problems-can-be-solved-with-a-machine-learning-solution-616382"
-    type: article
-    provider:
-      name: Mumbrella
-      domain: mumbrella.com.au
-    quality: 21
-    images:
-      - url: "https://mumbrella.com.au/wp-content/uploads/2019/05/iStock-917159056.jpg"
-        width: 1254
-        height: 836
+      - url: "https://media2.govtech.com/images/accn-fedpulse-social-sept-v4-600x335-01.png"
+        width: 601
+        height: 336
 
 secured: "5x5NrtibgvFUez5ue1qdOGnhAtVKRHOrh7xXkNqmG6Ae+7mqHYU0Hy+1Qb/IgaoG4WyI1ODU7oamkuPpk5EBa/UK56IM41IrEqqSoJR2J6HfcNAT60E0I70vTXrVkdiX8GCHmzMzlJ8/SIHfxN6CpY10yw+B0kY24CjfaFnONJU5vZXQjzLkWteaPBatBrPrqagKLrG0Lv/ddpZ0PTpNDJFtmYVfc0kMMdc1BJ5MgIGos+XlGMvX3eP43/3NKciU4jYUkPTdTnGGHLNVt/r84PjpbAUqdXCaQGz/9mCWh9LrLiu3IU2deNHGJ7vsC7O3;ybtPWacldCh4oTmMblNuww=="
 ---

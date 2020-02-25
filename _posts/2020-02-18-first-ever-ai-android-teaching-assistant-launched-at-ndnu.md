@@ -28,8 +28,8 @@ images:
 related:
   - title: "AI Android Teaching Assistant Gives Students Hands-on Robotics Experience"
     excerpt: "... presence of robots and artificial intelligence in our world,\" said Barry in an article about the project. \"One of the points that I'm bringing out in this class is that robots reflect their programming: If they're programmed with a life-affirming, ethical framework, they are more likely to act ethically and help humans to do the same.\""
-    publishedDateTime: 2020-02-24T21:17:00Z
-    webUrl: "https://campustechnology.com/articles/2020/02/24/ai-android-teaching-assistant-gives-students-hands-on-robotics-experience.aspx"
+    publishedDateTime: 2020-02-24T21:34:00Z
+    webUrl: "https://campustechnology.com/articles/2020/02/24/ai-android-teaching-assistant-gives-students-hands-on-robotics-experience.aspx?admgarea=news"
     type: article
     provider:
       name: Campus Technology

@@ -2,8 +2,8 @@
 category: news
 title: "AI Android Teaching Assistant Gives Students Hands-on Robotics Experience"
 excerpt: "... presence of robots and artificial intelligence in our world,\" said Barry in an article about the project. \"One of the points that I'm bringing out in this class is that robots reflect their programming: If they're programmed with a life-affirming, ethical framework, they are more likely to act ethically and help humans to do the same.\""
-publishedDateTime: 2020-02-24T21:17:00Z
-webUrl: "https://campustechnology.com/articles/2020/02/24/ai-android-teaching-assistant-gives-students-hands-on-robotics-experience.aspx"
+publishedDateTime: 2020-02-24T21:34:00Z
+webUrl: "https://campustechnology.com/articles/2020/02/24/ai-android-teaching-assistant-gives-students-hands-on-robotics-experience.aspx?admgarea=news"
 type: article
 quality: 68
 heat: 78
@@ -40,6 +40,6 @@ related:
         width: 900
         height: 675
 
-secured: "qQRnuw5sLOia1/oyz0GCTnDxAG/YHnt3BKUosjPtVjbE81zT9qfcItn2YvHkCcrSesmwHumLmesw/DpS3+BKLgH1d/R+QRvb9reF0JUmvbKZ0HNKYoAYQnSCGr51Uftbc8l6M8K1/VK9ulkX57+P09W0hgMJzwAnaLqABAglxfDDguz8QdPllPlOcnDq782++MOCUnwn0bXUnBaKmFmcRQxb7RcGPT6fpmwN8ePu8brXIM7HzljHGYQswihJ7AM1YP1gqAD88KR4I4IkGnO5U7z+w9iz0ULdl5mdWCDcWV6r4yYtAbySLfvej3XZjCBKA0lSqotLuQa1iUaFh3FcqFc+gPB9ducM+KjXzkOJUcAQd9N0kM+KnBDXZ0R4OT/JoyC5lMosI45CpCflklE5ZhD7PwbXKctWutL6Iiq8QWRcRrbvtPibJosyo/0lpyKTm4SucLGgP+Rr2Mw/NlNpADeozph5hoj34koz+dNTHxY=;qNNlk8wZT70y1iRosL6VmA=="
+secured: "PcCMdI5pW5P2w1menZqrrr7aSFF6XfUBl/THdW8hHa0EQnkvwhQ1cIKx/cObzTRpT0cibgzdsqIVI52zxAwv4A4tcw3r+iMGRDgUAUjorqpmuxDYH8rZGQdbBcntKBLgnit014Yr/BBaTDU1pqC3YlnkMLqx6bfJ06naeutO+5p9vE6Rqv+XQLkSLQrhhmIeGd4AR0gBf53r8qP/5TNFR8G9Fufj6OpaUEAlFAMLdibf5Wh7MZOeDIt9FuF2U+W04h1NlKzMmjARIDUv+V5uX1XwUBy2vijwQ+oasrK/dPR3/EC3uC+eK0pklwWfrDxc;AHtDlA0dahYwF12ajYd7mQ=="
 ---
 

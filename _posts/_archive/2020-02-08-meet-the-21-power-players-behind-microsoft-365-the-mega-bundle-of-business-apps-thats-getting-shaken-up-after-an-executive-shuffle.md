@@ -27,6 +27,6 @@ images:
     height: 600
     title: "Meet the 21 power players behind Microsoft 365, the mega-bundle of business apps that's getting shaken up after an executive shuffle"
 
-secured: "Mnl//JJ3Id38jxRSzRH80m4N44/dFU61X7KrAQXVCCHsELowNf9Gqb6BO8NKv1Tr5V4FyXEXuoeel0NNBGDTMpx5xlocJIaWIEAWnGXAOutbYWifGvqTexm4Yf1PDWD/1G4xiyG+PeM61ist6m4v6eT9BdDuiQzkbTdSv0IXju+S3FvPKUbHh1ck84pWXTg2L4S/HlZoRMpH701VCZHdK8hLj0aAHJISQ76Pg+iGH591kCIQa6og5vzRNhnnlbQxifDonpxFHTk+sH4PI0gjPKLu53bKUbfyTuxeJkchTMvpBldyIBpGQ/LglMHKX6Cp;JIksAtBxtMrQiuiM5qytgA=="
+secured: "QcOz6+CfHApWINvol7+2ihkg0waoLxRPnQrn0H57oGAL+Vie8+59i5bYo5BNiyww89ux2uT4N//gZa8sPjcyrh9YRM8gic+gx8uNecZNnREfrA8dkAg9eXmHsnDhCSS0pMeQne9qkDCLB1P0n51GsASxbkhf3EOGowwT/f6hEqax85p0iNcwJe5gQPv0NUNdR93gFWdJZHLA4pTjZpStg23lJ2+oi72ksLvs16JZ1vPtsjZtcJtsBUG0BTv1HiDfYfG1DN0dld2VckMs7XXsoWSrdx/NTjrqtSY2bFZHLnZ6JBtnEmlm11oJHeNrFGTV;r5SjMWiorofizhOAMTqz7g=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-10T20:08:00Z
 webUrl: "https://mumbrella.com.au/influence-marketings-problems-can-be-solved-with-a-machine-learning-solution-616382"
 type: article
 quality: 21
-heat: -1
+heat: 21
 published: false
 
 provider:
@@ -22,34 +22,6 @@ images:
     width: 1254
     height: 836
     title: "Influence marketing’s problems can be solved with a machine-learning solution"
-
-related:
-  - title: "The Role of Machine Learning in Marketing"
-    excerpt: "For example, Microsoft’s Azure ML Studio has a methodology to model customer churn. Image source: https://docs.microsoft.com/en-us/azure/machine-learning/studio/azure-ml-customer-churn-scenario In figure 1, it shows a risk model that shows you how actions affect risk and probability. Moving over, figure 2 shows an intervention model that ..."
-    publishedDateTime: 2020-02-10T18:43:00Z
-    webUrl: "https://medium.com/@bo.lau/the-role-of-machine-learning-in-marketing-60918b8f51e2"
-    type: article
-    provider:
-      name: Medium
-      domain: medium.com
-    quality: 71
-    images:
-      - url: "https://miro.medium.com/max/1200/0*ogKgDXUqbtxLfG54.png"
-        width: 1200
-        height: 672
-  - title: "North America is the leading Machine Translation Market Globally Owing to the Abundant Demands from the IT Sector of the U.S"
-    excerpt: "The increasing investments and developments in artificial intelligence and machine learning by technology giants will bolster the North America machine translation market. On the basis of technology, the SMT segment has shown a lucrative growth over the ..."
-    publishedDateTime: 2020-02-14T04:57:00Z
-    webUrl: "https://www.cmo.com.au/mediareleases/38383/north-america-is-the-leading-machine-translation/"
-    type: article
-    provider:
-      name: cmo.com.au
-      domain: cmo.com.au
-    quality: 0
-    images:
-      - url: "https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg"
-        width: 600
-        height: 246
 
 secured: "UU22UiM8Ppyjux43eMgg0o8S9k4h2Z5O8sS54HyrS09DWRZ2zQ+xhbdpbDF7jmNfJd7gc+zCRHfhOrSB3f+OORM+EfiGllz4tU+YTtcmpevU8c24xEx02cUeAc385ERH/w+48vvIHP5DtwPPTaLO9Xi6e9vjx4hY4cr/S2j9bGYA1ncOXpgLng4hW24CLSnoDc1D9hcpcfESE7PsDGoA3TIdLuYdZrKBfO+pz3+nJzoscCGSTRi4TtbHO86mQyG2itX+4QCGfua8tSR+LknOWJRXOzRKNVctEFRA/uzE6etsRsUiByqOF0vyAR0TNKqzTHmAX++hQFymKXnoQJW/fGDEG6KXqjZrFUPUbRNK0BLf32h72LZUXAIXilVCHDnqwQCiT+a5Cn8Ab+Mea8K5N0NG+Ugrw0WkcpIzOy117mTZKUEZXT08+1VD6NKn1jeJT6v3LMWD4VgP+VDY4+PGWzlJP5bxS6t/Jxzg/Hitm7g=;Wk2Zp3+0QC21vgC/BlB0iA=="
 ---

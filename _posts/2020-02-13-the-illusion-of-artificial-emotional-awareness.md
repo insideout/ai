@@ -8,7 +8,7 @@ ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-intelligence-report/20
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-intelligence-report/202002/the-illusion-artificial-emotional-awareness?amp"
 type: article
 quality: 122
-heat: 152
+heat: 142
 published: true
 
 provider:
@@ -19,19 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Deep Learning(Computer Vision): Object Detection & Infection Classification on Malaria Images using Mask-Region Based Convolutional Neural Network"
-    excerpt: "I am going use Keras, with a Tensorflow backend to create models for Object Detection. Deep Learning is a sub-field of machine learning concerned with algorithms inspired by the structure and function of the brain called artificial neural networks. Deep learning (also known as deep structured learning or differential programming) is part of a ..."
-    publishedDateTime: 2020-02-10T18:43:00Z
-    webUrl: "https://medium.com/analytics-vidhya/deep-learning-computer-vision-object-detection-infection-classification-on-malaria-images-3769b4f51de9"
-    type: article
-    provider:
-      name: Medium
-      domain: medium.com
-    quality: 67
-    images:
-      - url: "https://miro.medium.com/max/811/1*TOubTYal5304uIdNHhNrJg.png"
-        width: 811
-        height: 665
   - title: "Artificial Solutions and Blue Prism Partner to Add Conversational AI to Business Automations"
     excerpt: "About Artificial Solutions Artificial Solutions® is the leading specialist in enterprise-strength conversational AI, a form of Artificial Intelligence that allows people to communicate with applications, websites and devices in everyday, humanlike natural language via voice, text, touch or gesture input. Designed for the global enterprise ..."
     publishedDateTime: 2020-02-12T07:42:00Z

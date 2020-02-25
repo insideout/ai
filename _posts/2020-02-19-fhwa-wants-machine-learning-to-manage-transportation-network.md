@@ -8,7 +8,7 @@ ampWebUrl: "https://www.govtech.com/fs/infrastructure/FHWA-Wants-Machine-Learnin
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/fs/infrastructure/FHWA-Wants-Machine-Learning-to-Manage-Transportation-Network.html?AMP"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -24,6 +24,21 @@ images:
     width: 601
     height: 336
     title: "FHWA Wants Machine Learning to Manage Transportation Network"
+
+related:
+  - title: "North America is the leading Machine Translation Market Globally Owing to the Abundant Demands from the IT Sector of the U.S"
+    excerpt: "The increasing investments and developments in artificial intelligence and machine learning by technology giants will bolster the North America machine translation market. On the basis of technology, the SMT segment has shown a lucrative growth over the ..."
+    publishedDateTime: 2020-02-14T04:57:00Z
+    webUrl: "https://www.cmo.com.au/mediareleases/38383/north-america-is-the-leading-machine-translation/"
+    type: article
+    provider:
+      name: cmo.com.au
+      domain: cmo.com.au
+    quality: 0
+    images:
+      - url: "https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg"
+        width: 600
+        height: 246
 
 secured: "31OOiUa7bE0dfWvkjoiUyqirn1hVUUxAhxQQUzen9P3hx+r6n86zGQa6DzqhAP60jkD8BlQb5gNW71A9jsjwJ2fiPyAjZQd3FtlQ2IjXY61H1AbMByPa4uCDYVlEc4vVEfjWkheWguZQ7lo4nyfBd7zGgSJMQKWufxys/LAUXZu/yzr+CqikcXzJcQHMC/k/raWTvcu+VBvsYU+/AZdBQ5n0G/0dhyaqm9AxkPTMVdSGUdgcvB2LNxHM/U4cUDFXhZpwJM4H3YtkaOo9M93WfGxeYxzbELdZZINHlLnu0fxN5JgYnC5btH+o0TFRuJakrtL60yGCIz+8lr5jHLEhWJN5cFB+AmroNHGG79t6SS37bvNkMao/3AYMAtOTs45sjbvSVf1eknAqHUs/JVdS0iKD0rlf+zRv7YO98MaemZaE7o6nsXSPr+g/ERFq2Gqq8wUntuQVRFGqk+dEOFZTDg0t+jqGY22PpZZCTklRAMo=;RldwkuLUMEd45ggIihy3Lg=="
 ---

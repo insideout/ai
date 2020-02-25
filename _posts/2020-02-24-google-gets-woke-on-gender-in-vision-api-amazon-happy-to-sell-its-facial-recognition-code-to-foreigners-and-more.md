@@ -2,8 +2,8 @@
 category: news
 title: "Google gets woke on gender in Vision API, Amazon happy to sell its facial recognition code to foreigners, and more"
 excerpt: "To avoid such mistakes, Google’s Vision API will now just label someone as a person. The change only affects Google's Vision API, and doesn’t apply to its AutoML Vision service. AutoML Vision is more flexible, and users can train models on their own custom labels, so they can include gendered labels if they want. Deepfakes in India’s ..."
-publishedDateTime: 2020-02-24T17:52:00Z
-webUrl: "https://www.theregister.co.uk/2020/02/24/ai_roundup_210220/"
+publishedDateTime: 2020-02-24T17:19:00Z
+webUrl: "https://go.theregister.co.uk/feed/www.theregister.co.uk/2020/02/24/ai_roundup_210220/"
 ampWebUrl: "https://www.theregister.co.uk/AMP/2020/02/24/ai_roundup_210220/"
 cdnAmpWebUrl: "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/02/24/ai_roundup_210220/"
 type: article
@@ -25,6 +25,6 @@ images:
     height: 527
     title: "Google gets woke on gender in Vision API, Amazon happy to sell its facial recognition code to foreigners, and more"
 
-secured: "uoLZHubw/LTu6xKPW7IqYzAzNeBj1RMn3i2VLmeQrK5w25AI9QhxGK0OmoPMxePwp9PtXSJ9zUpGt5wghM05i1DivRAXm09DnExr56jnYJ+rligNoxAK3INFqPZedgQ6qEanbQg60A1jG7c4MMECqd3/2hBNnjD+XBpxQKuGgXtnSysOc1n+VTogF8Lr+E/Y/tLt5AmI+kD5ChGdLVZMJfqqSby1FOyLA2zvGbwcl4zqb/Mhj2+yEfMxTbobLHuDD3XtvVhWvRzfLEZHl+v/+zXTW2EGIKHgLektkurHD/VBPw1EkXfVsIl4TZTlcjZH;bMpVvg7Vq+WomIRDpCNKhA=="
+secured: "b3s0hr4PBDzLz5QSV8eQMtAQvA1MLpOSNhinVK/zXfKlxVPyCWwYwabsxEJ2SoihWOP9ww+tssLkDoqzwAlyeiQN7+dEKngJ34fVcuIigGeXccomj7wXxi4VMoM8znd4U/uUk91ZAuL4/irY0TRfTW9DuR0hYeF64e1AjTXhP7FptsirGHawsOOzpx6BTSi8jSUVexEZ2J/vhE4ARTckc0XusARl8RlF0Hz1Yh7XYILh5aua+6PBdqyBd793MVzzBK8wlGOVANLesSQTBFYHh9HZ3QOPdoglFFSLXaa6Y7mqdpxqpI4sL+RQgL5D/OgD;TMMpcf5xa+3VGTGj0LG2Qw=="
 ---
 

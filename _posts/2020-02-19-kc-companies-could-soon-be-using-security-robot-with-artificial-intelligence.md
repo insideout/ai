@@ -1,11 +1,11 @@
 ---
 category: news
 title: "KC companies could soon be using security robot with artificial intelligence"
-excerpt: "From Silicon Valley to Kansas and Missouri, local companies could soon be using a security robot with artificial intelligence to protect people and products."
-publishedDateTime: 2020-02-19T04:35:00Z
-webUrl: "https://www.kctv5.com/kc-companies-could-soon-be-using-security-robot-with-artificial/video_745fdfa2-8123-578b-8e5a-b92926bfd0ce.html"
-ampWebUrl: "https://www.kctv5.com/kc-companies-could-soon-be-using-security-robot-with-artificial/video_745fdfa2-8123-578b-8e5a-b92926bfd0ce.amp.html"
-cdnAmpWebUrl: "https://www-kctv5-com.cdn.ampproject.org/c/s/www.kctv5.com/kc-companies-could-soon-be-using-security-robot-with-artificial/video_745fdfa2-8123-578b-8e5a-b92926bfd0ce.amp.html"
+excerpt: "It's able to patrol businesses and a local company hopes businesses in Kansas and Missouri will start using it. Kenton Brothers Inc. is already ... “Simon,” and other Cobalt Robots are autonomous with artificial intelligence designed to detect safety hazards and intruders. “It combines human intellect with superhuman sensors ..."
+publishedDateTime: 2020-02-19T02:36:00Z
+webUrl: "https://www.kctv5.com/news/local_news/kc-companies-could-soon-be-using-security-robot-with-artificial/article_a85c11fe-52c0-11ea-bf6f-872f9cacdda8.html"
+ampWebUrl: "https://www.kctv5.com/news/local_news/kc-companies-could-soon-be-using-security-robot-with-artificial/article_a85c11fe-52c0-11ea-bf6f-872f9cacdda8.amp.html"
+cdnAmpWebUrl: "https://www-kctv5-com.cdn.ampproject.org/c/s/www.kctv5.com/news/local_news/kc-companies-could-soon-be-using-security-robot-with-artificial/article_a85c11fe-52c0-11ea-bf6f-872f9cacdda8.amp.html"
 type: article
 quality: 51
 heat: 61
@@ -30,6 +30,6 @@ related:
       domain: 13newsnow.com
     quality: 49
 
-secured: "vW+f194rI0KzQJARHBZ49xclZG4jYn/m1nRvPmFydybY93bPkQ1rFsPNpCcNmn1HgDG016+mNMeK5IILq5yj9FNSZzjOorsZKnw5/05L/Q3BOZLYqzzkdV0iHg9eL/F+9HvUN0H7hfUHfAqpL5mEM7rA3yFcKlf6Ff596d3kVTCcJYxydRue/BlopLMUkUKgsPn5LifGwGr0tGECsfo1sYaJCpXs+aRYUKm7xPsqwIfXj2FUEUnAS3KLFpuizUjmB9EhVTjdlAs1nxDE+S7Uy1MvQQKTy63UKIrRIqR4dV+y966pT09UvlmTTf1b1HaQl1ptqPvYfuau9s1rBllWXzPdEQp0cQI9fVfVbIyDdu0u5DubcRR6bRzvWZHgtL5hO6uBJ5JKNI5mu1iJBuOMbRtezRdFV2RrbAvj4u9saHxqfBetdfkupzZKctFpr4J0+h5i9QakGQFURljKRHxT2ybv8+FOLaXK5thGUjwgkX4=;lNqT6+UgGe3Pe44DuZAjvQ=="
+secured: "kVLyv8DnNNhaMHe87GQp7yP5E0K3tL3eK1nKh9J79cQEdQn+fjLw7r6EonvUUQeMsAQKeYENcQn6LX3+Csh/SrjVVFDuYTxuQQ8+5AxEATcc9MhPzMIPmYSkyjeVfwH9W81Fs8HSA6W460S88Yk8BxCFoDi+j4kzs1OZJdPzOvPjMCEwD2Sz9u0efVqsHoDGc0AjvgXYtXiqGsFgnUhIKTB5QjxTU8dOaaaArmViokkGsGLdCLwdY3gEOJOYfQawK0SEMpzUTvS26x7d8mxiU0zym27Dr6YxW73vwIUQKebK1j2X0k5YvAroafzRXhBM/DfyjZC1d1V2AU0q4pNOXwcMDSP05szhLPV652h1tCA/1PstWRpBmtKSZLScuB9H4486taNHASP6xTi3yxmkzzEErfk3R6bK5ZQPghr3HJP9ndQ7fPtMfup93Ph0kt01X/sq/iHTfL29XG+As+Y+pcIWi0fkSkOlXqPo58FDueo=;hWDFUJU4235e/7PydUSJmA=="
 ---
 

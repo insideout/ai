@@ -18,19 +18,21 @@ topics:
   - AI in Robotics
 
 related:
-  - title: "How Artificial Intelligence will Change the Retail Industry in 2020?"
-    excerpt: "Artificial intelligence is the hottest and most promising development in the tech landscape for years. According to the market, global Artificial Intelligence revenues increased from $ 643.7 million in 2016 to $ 36.8 billion in 2025. Almost all market segments, industries, and business domains are actively interested in AI and are looking to ..."
-    publishedDateTime: 2020-02-10T18:43:00Z
-    webUrl: "https://medium.com/@venkat34.k/how-artificial-intelligence-will-change-the-retail-industry-in-2020-592fc2037d74"
+  - title: "How AI is shaping the new life in life sciences and pharmaceutical industry"
+    excerpt: "The pharma and life sciences industry is faced with increasing regulatory oversight, decreasing R&D productivity, challenges to growth and profitability, and the impact of artificial intelligence (AI) in the value chain. The regulatory changes led by the far-reaching Patient Protection and Affordable Care Act (PPACA) in the US are forcing the ..."
+    publishedDateTime: 2020-02-24T09:20:00Z
+    webUrl: "https://yourstory.com/2020/02/ai-shaping-new-life-sciences-pharmaceutical-industry"
+    ampWebUrl: "https://yourstory.com/2020/02/ai-shaping-new-life-sciences-pharmaceutical-industry/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/02/ai-shaping-new-life-sciences-pharmaceutical-industry/amp"
     type: article
     provider:
-      name: Medium
-      domain: medium.com
-    quality: 82
+      name: Your Story
+      domain: yourstory.com
+    quality: 55
     images:
-      - url: "https://miro.medium.com/max/1200/1*KJGBPm15gz6RlWMu91EUWw.jpeg"
-        width: 1200
-        height: 800
+      - url: "https://images.yourstory.com/cs/2/f02aced0d86311e98e0865c1f0fe59a2/Future-of-work-AI-in-life-Science-1582471180105.png?fm=png&auto=format"
+        width: 800
+        height: 400
 
 secured: "mzQPN6Cl/JZYzsF9CSSMIwvZM53XaxQ50+sGXIGv2Vr2rl18BYH3xbVwBzzaFrBkZurxNZFMiI9oZaMO2NqoRJQq7Yg7531UBwc+yzfb0ipCmBSXLc8z1yBdgCx0RrJfC7suUevNly4TGsYLl/bK1izmgOY4s+9LXe8Okh5Of+Y0R/eh6FXW0dl3UrhE6xnaZ8gzLiq5azk9LRO/DDCygfwMUp2voUMI1+zkXjy8g1QOv0GAGRdxpsrp5Ric7zVvUuWpBDJVZqJ7lqmC5cNqxfJ0219rP+tGTP2LP80SKex3+PUCV+C3AZUX6NJ2ZWWq;ouezlOwQMb/YFi932CjR7g=="
 ---

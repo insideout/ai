@@ -22,6 +22,6 @@ images:
     height: 358
     title: "“Next generation of brick and mortar”: Sydney AI startup Tiliter Tech partners with Woolworths to test self-checkout app"
 
-secured: "HTLXRBUbr5gvTNckYNTSJPijHHwY+48E94UrBOsC/8wJ0RKCYhD8Pj3NYQGqv2orCNNTiH5d2id1AnUKIJwsIweZeGVRUeHaAK6ByHksUk5uWm4RoHDW9/Kp14gfoTaOyuBN/6l4RsI7hi5tdvGocINoQDnQsg75v/O5l6+slCFH1SXYHzpR1LXMcuZfgknAC/am/WxPxkNn230XJLoPVmKx/ih4AoWiAeocTvh4UukLD3E58Pa+fBxv8WxLJBl/vQoDwNrTjaEryRavb6ffuYq+DY6rfpF1DIyZg6/76m8eV6UbYScQgT1h+pWG1UNX;A0e3tGRp5YqSqo2TaRHTSQ=="
+secured: "yQoc9F0JGOIxhveawUZz0zAkeIrTrqag10lz6fobNnjA2ZNV8MJ0A4p0AJnOxYPwVnkvRsXj7hWN+awKe67w+7rQdfeTZPO08XqaRyFfPO9FHyql7oIz6IKDzB7wbkMLkS+zRjjmPa8h/BeW6VZY6LQfdncMg3h9OsHMJBRndtO3maw+w50wySvTeEL82F/ZqDsXyD5qZbl/S/UHj3trVcG0TPFHvA5nhQ8tzF7ROPp+VYJblh0PvltQa4fxhQLRY+T31/y/EzOq86/Ji3H3yMzZ3xpGhPa+EetORNmRW6j7g6TjHtlDNeI9g5hCBy9/2L6mwUuiJxaOqmTaLh5R/xaJ+LsDsfQFGGhomidHyCWUUNVclY3aLoeCrPonJzs10M+7uhl8IEco2fYm930oJky6tBd0XjWBG+iO924Zc5C83upjNJ2bgLPhKqOHMIImhNmVVI8lEojnt4AuDiKDx6/KrLrfD+c1rupHr0A/veQ=;fhHHcq1qumc32EGUfgoCow=="
 ---
 

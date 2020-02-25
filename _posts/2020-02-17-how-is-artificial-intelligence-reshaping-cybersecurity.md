@@ -40,19 +40,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/01/11-McAfee-interview.jpg?fit=2160%2C1078&strip=all"
         width: 2160
         height: 1078
-  - title: "What are the uses of AI in Cyberdefense? How Important is AI to the future of Cybersecurity"
-    excerpt: "Doing so manually is impossible, so we have AI! Artificially Intelligent Security Assistants IBM Watson maintains data security for its clients which includes global leaders in the banking and ..."
-    publishedDateTime: 2020-02-10T18:43:00Z
-    webUrl: "https://medium.com/@chrysaliss.transformation/what-are-the-uses-of-ai-in-cyberdefense-how-important-is-ai-to-the-future-of-cybersecurity-b7406de866a6"
-    type: article
-    provider:
-      name: Medium
-      domain: medium.com
-    quality: 59
-    images:
-      - url: "https://miro.medium.com/max/602/1*1AMOHanE0YZgGndHiA42Rg.png"
-        width: 602
-        height: 333
 
 secured: "eZuPD/HprlKNrvzGFEpxC4lDPBJuRiYKhdq538Bh4k4lUoMNy1IJPYCvHg7KPSbTNb0XP7PDBaBjXFeikWQhhh4sZ8AbXxRFumfss37Rn2zVDoNjApbkGk3tGYbWYx0vasq0qm1a0Bmh6K7X0n8pmWaThAs+Qw3H3LXj7WR9jJjQTH5Lb0BVsReI8Y6CsohoJ1OgksdkFM5PKCsMoosGYLsxX9SSg3KyPtaSSz/5U0ScTorOqBQRoTHi5E959lD9+62+uuZA9aZ/gUaf6JhswUdprCluczuuSBXYU/G/Xy/2wh0y2dfip5m36Z4SnQm7LA+Nxsko0y8/oGmoJUXYGzncgqHBIgSlBBtx9kBcPG1ocriFMHARue/3WS5ZOO4CRCueSlRkXGGl3DyiL/CbW9gpApZHdEJioxWWVUwA7dm1Ikfyc8sMVCLbV79ynuOIyArEOygCtKhihFxjjNAtcgEV7KP3yMYUd+EdxEU4VHo=;p/ZgDLKsZRFhGaOv9tozaA=="
 ---

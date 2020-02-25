@@ -2,255 +2,6 @@
   "page": 20,
   "value": [
     {
-      "path": "_posts/_archive/2020-01-28-realityengines-launches-its-autonomous-ai-service.md",
-      "title": "RealityEngines launches its autonomous AI service",
-      "excerpt": "RealityEngines.AI, an AI and machine learning startup founded by a number of former Google executives and engineers, is coming out of stealth today and announcing its first set of products. When the company first announced its $5.25 million seed round last year, CEO Bindu Reddy wasn’t quite ready to disclose RealityEngines’ mission beyond ...",
-      "heat": 127,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/01/28/realityengines-launches-its-autonomous-ai-service/",
-      "ampWebUrl": "https://techcrunch.com/2020/01/28/realityengines-launches-its-autonomous-ai-service/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/28/realityengines-launches-its-autonomous-ai-service/amp/",
-      "publishedDateTime": "2020-01-28T09:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/01/Model-Workflow.png?w=705",
-          "width": 705,
-          "height": 565,
-          "title": "RealityEngines launches its autonomous AI service",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-28-replace-punxsutawney-phil-with-robot-animal-rights-group-says.md",
-      "title": "Replace Punxsutawney Phil With Robot, Animal Rights Group Says",
-      "excerpt": "People for the Ethical Treatment of Animals are advocating a radical change in how Groundhog Day is celebrated.",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://patch.com/pennsylvania/pittsburgh/replace-punxsutawney-phil-robot-animal-rights-group-says",
-      "ampWebUrl": "https://patch.com/pennsylvania/pittsburgh/amp/28547641/replace-punxsutawney-phil-robot-animal-rights-group-says",
-      "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/pennsylvania/pittsburgh/amp/28547641/replace-punxsutawney-phil-robot-animal-rights-group-says",
-      "publishedDateTime": "2020-01-28T14:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Patch",
-        "domain": "patch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://patch.com/img/cdn20/users/22920172/20200128/033110/styles/patch_image/public/phil2-getty___28150658187.jpg?width=984",
-          "width": 897,
-          "height": 673,
-          "title": "Replace Punxsutawney Phil With Robot, Animal Rights Group Says",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-28-risksense-working-on-ai-to-predict-if-vulnerabilities-will-turn-into-ransomware.md",
-      "title": "RiskSense working on AI to predict if vulnerabilities will turn into ransomware",
-      "excerpt": "\"The way we look at it is as an expert system,\" says Mukkamala, using a traditional term from the AI literature for software programs that include a great deal of domain expertise. \"What are my signals?\" he asks, rhetorically. \"First, a strong signal would be end-point vendors detecting it and blocking it, a second is Microsoft paying attention ...",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/risksense-working-on-ai-to-predict-if-vulnerabilities-will-turn-into-ransomware/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/risksense-working-on-ai-to-predict-if-vulnerabilities-will-turn-into-ransomware/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/risksense-working-on-ai-to-predict-if-vulnerabilities-will-turn-into-ransomware/",
-      "publishedDateTime": "2020-01-28T14:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/01/28/9c16f4ed-c84d-4107-98b1-bd33cfbcd800/risksense-ransomware-dashboard-jan-2020.png",
-          "width": 2424,
-          "height": 1735,
-          "title": "RiskSense working on AI to predict if vulnerabilities will turn into ransomware",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-28-securitiai-scores-50m-series-b-to-modernize-data-governance.md",
-      "title": "Securiti.ai scores $50M Series B to modernize data governance",
-      "excerpt": "Securiti.ai, a San Jose startup, is working to bring a modern twist to data governance and security. Today the company announced a $50 million Series B led by General Catalyst with participation from Mayfield. The company, which only launched in 2018, reports it has already raised $81 million. What is attracting all of this investment in such a ...",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/01/28/securiti-ai-scores-50m-series-b-to-modernize-data-governance/",
-      "ampWebUrl": "https://techcrunch.com/2020/01/28/securiti-ai-scores-50m-series-b-to-modernize-data-governance/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/28/securiti-ai-scores-50m-series-b-to-modernize-data-governance/amp/",
-      "publishedDateTime": "2020-01-28T09:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/01/PrivacyOps-Center.jpg?w=680",
-          "width": 680,
-          "height": 564,
-          "title": "Securiti.ai scores $50M Series B to modernize data governance",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-28-servicenow-acquires-conversational-ai-startup-passage-ai.md",
-      "title": "ServiceNow acquires conversational AI startup Passage AI",
-      "excerpt": "ServiceNow announced this morning that it has acquired Passage AI, a startup that helps customers build chatbots, something that should come in handy as ServiceNow continues to modernize its digital service platform. The companies did not share terms of the deal. With Passage AI, ServiceNow gets a bushel of AI talent, which in itself has value ...",
-      "heat": 247,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/01/28/servicenow-acquires-conversational-ai-startup-passage-ai/",
-      "ampWebUrl": "https://techcrunch.com/2020/01/28/servicenow-acquires-conversational-ai-startup-passage-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/28/servicenow-acquires-conversational-ai-startup-passage-ai/amp/",
-      "publishedDateTime": "2020-01-28T06:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-1156805372.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": "ServiceNow acquires conversational AI startup Passage AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-28-servicenow-to-acquire-small-conversational-ai-startup-in-mountain-view.md",
-      "title": "ServiceNow to acquire small conversational AI startup in Mountain View",
-      "excerpt": "ServiceNow said the purchase would advance the Santa Clara software giant’s deep learning AI capabilities as it seeks to support all widely spoken languages across several products.",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bizjournals.com/sanjose/news/2020/01/28/servicenow-passage-ai-acquisition.html",
-      "ampWebUrl": "https://www.bizjournals.com/sanjose/news/2020/01/28/servicenow-passage-ai-acquisition.amp.html",
-      "cdnAmpWebUrl": "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2020/01/28/servicenow-passage-ai-acquisition.amp.html",
-      "publishedDateTime": "2020-01-28T10:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.bizj.us/view/img/10466072/servicenowhq*600xx1080-720-100-0.jpg",
-          "width": 600,
-          "height": 400,
-          "title": "ServiceNow to acquire small conversational AI startup in Mountain View",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-01-28-the-10-coolest-silliest-and-most-borderline-insulting-tv-pilots-of-2020.md",
       "title": "The 10 Coolest, Silliest, and Most Borderline Insulting TV Pilots of 2020",
       "excerpt": "There are plenty of theories about how her time with Hannibal impacted her, including one that insists she was being mind-controlled to become a government assassin ... better known as that show starring Karl Urban about robot cops that was pretty good except when it was awful. This could end up being something interesting, or it could turn ...",
@@ -2098,6 +1849,258 @@
       "topics": [
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-29-report-after-acquisition-apple-nixed-xnorais-work-on-pentagons-project-maven.md",
+      "title": "Report: After acquisition, Apple nixed Xnor.ai’s work on Pentagon’s Project Maven",
+      "excerpt": "The Information reports that Seattle-based Xnor.ai played a role in the Pentagon’s controversial Project Maven, but that Apple ended Xnor.ai’s involvement in the project after acquiring the startup. Love space and science? Sign up for our GeekWire Space & Science email newsletter for top headlines from Alan Boyle, GeekWire’s aerospace ...",
+      "heat": 222,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geekwire.com/2020/report-acquisition-apple-nixed-xnor-ais-involvement-pentagons-project-maven/",
+      "ampWebUrl": "https://www.geekwire.com/2020/report-acquisition-apple-nixed-xnor-ais-involvement-pentagons-project-maven/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/report-acquisition-apple-nixed-xnor-ais-involvement-pentagons-project-maven/amp/",
+      "publishedDateTime": "2020-01-29T15:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2017/02/team_picture-630x362.png",
+          "width": 630,
+          "height": 362,
+          "title": "Report: After acquisition, Apple nixed Xnor.ai’s work on Pentagon’s Project Maven",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-29-rich-countries-should-invest-in-latam-to-create-ai-talent.md",
+      "title": "Rich countries should invest in LatAm to create AI talent",
+      "excerpt": "Uruguay, the second best-prepared country on the Insead ranking, has launched its public consultation on AI in April 2019 and spent the whole year working on the plan, which is just about ready. The report also mentions Chile's plan to address the infrastructure, priority areas and ethics, standards and regulations around AI. On Brazil ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/rich-countries-should-invest-in-latam-to-create-ai-talent/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/rich-countries-should-invest-in-latam-to-create-ai-talent/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/rich-countries-should-invest-in-latam-to-create-ai-talent/",
+      "publishedDateTime": "2020-01-29T15:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2018/09/25/f2e8efdb-8c6c-4884-a8eb-4a1d5b6e2b3c/thumbnail/1200x675/7f2125eac9be0743c7a93613eb1919e4/istock-919118256.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Rich countries should invest in LatAm to create AI talent",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-29-robots-pose-biggest-risk-to-the-poorest-countries.md",
+      "title": "Robots Pose Biggest Risk to the Poorest Countries",
+      "excerpt": "At the end of the 20th century, globalization narrowed the gap between rich and poor nations. But history shows that isn’t always the case. In the years following the fall of the Berlin Wall in 1989,",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-01-29/robots-pose-biggest-risk-to-the-poorest-countries",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-01-29/robots-pose-biggest-risk-to-the-poorest-countries",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-01-29/robots-pose-biggest-risk-to-the-poorest-countries",
+      "publishedDateTime": "2020-01-28T21:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-29-smarter-delivery-hinges-on-smarter-robots.md",
+      "title": "Smarter Delivery Hinges on Smarter Robots",
+      "excerpt": "Companies and researchers are racing to develop artificial-intelligence systems that can enable warehouse robots to handle new and varied objects without the need for extensive additional training or human help.",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/smarter-delivery-hinges-on-smarter-robots-11580288408",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/smarter-delivery-hinges-on-smarter-robots-11580288408",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/smarter-delivery-hinges-on-smarter-robots-11580288408",
+      "publishedDateTime": "2020-01-29T01:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-148470/social",
+          "width": 1280,
+          "height": 640,
+          "title": "Smarter Delivery Hinges on Smarter Robots",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-29-this-tech-startup-used-ai-to-predict-coronavirus-outbreak-even-before-who.md",
+      "title": "This Tech Startup Used AI To Predict Coronavirus Outbreak Even Before WHO",
+      "excerpt": "The total number of confirmed coronavirus cases in China stands at over 5000. Given the gravity of the situation, computer programmers in a tech firm, BlueDot, are making use of AI and machine learning to detect the warning signs of Coronavirus, reports ET. SEE ALSO: Watch out for this extremely fake, weirdly racist viral post about coronavirus ...",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://in.mashable.com/science/10923/this-tech-startup-used-ai-to-predict-coronavirus-outbreak-even-before-who",
+      "ampWebUrl": "https://in.mashable.com/science/10923/this-tech-startup-used-ai-to-predict-coronavirus-outbreak-even-before-who?amp=1",
+      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/science/10923/this-tech-startup-used-ai-to-predict-coronavirus-outbreak-even-before-who?amp=1",
+      "publishedDateTime": "2020-01-29T00:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://sm.mashable.com/t/mashable_in/photo/default/united-states-confirms-first-case-of-the-coronavirus-spreadi_ksp4.620.jpg",
+          "width": 620,
+          "height": 348,
+          "title": "This Tech Startup Used AI To Predict Coronavirus Outbreak Even Before WHO",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-29-underwater-robot-autonomously-gathers-seabed-samples.md",
+      "title": "Underwater robot autonomously gathers seabed samples",
+      "excerpt": "That's why researchers have now enabled one to autonomously gather samples from the ocean floor. Led by associate scientist Rich Camilli, a team at Woods Hole Oceanographic Institution (WHOI) recently developed artificial intelligence-based automated planning software that's designed to work with ROVs. Last month, that technology was put to use ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://newatlas.com/marine/underwater-robot-autonomous-samples/",
+      "ampWebUrl": "https://newatlas.com/marine/underwater-robot-autonomous-samples/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/marine/underwater-robot-autonomous-samples/?amp=true",
+      "publishedDateTime": "2020-01-29T14:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/e96142e/2147483647/strip/true/crop/5995x4000+3+0/resize/1160x774!/quality/90/?url=https%3A%2F%2Fassets.newatlas.com%2F7b%2F17%2F8c16daaf43d4a75daf3621615d66%2Fdsc-0144.jpeg",
+          "width": 1160,
+          "height": 774,
+          "title": "Underwater robot autonomously gathers seabed samples",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

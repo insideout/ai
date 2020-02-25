@@ -2,258 +2,6 @@
   "page": 21,
   "value": [
     {
-      "path": "_posts/_archive/2020-01-29-report-after-acquisition-apple-nixed-xnorais-work-on-pentagons-project-maven.md",
-      "title": "Report: After acquisition, Apple nixed Xnor.ai’s work on Pentagon’s Project Maven",
-      "excerpt": "The Information reports that Seattle-based Xnor.ai played a role in the Pentagon’s controversial Project Maven, but that Apple ended Xnor.ai’s involvement in the project after acquiring the startup. Love space and science? Sign up for our GeekWire Space & Science email newsletter for top headlines from Alan Boyle, GeekWire’s aerospace ...",
-      "heat": 222,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/report-acquisition-apple-nixed-xnor-ais-involvement-pentagons-project-maven/",
-      "ampWebUrl": "https://www.geekwire.com/2020/report-acquisition-apple-nixed-xnor-ais-involvement-pentagons-project-maven/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/report-acquisition-apple-nixed-xnor-ais-involvement-pentagons-project-maven/amp/",
-      "publishedDateTime": "2020-01-29T15:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2017/02/team_picture-630x362.png",
-          "width": 630,
-          "height": 362,
-          "title": "Report: After acquisition, Apple nixed Xnor.ai’s work on Pentagon’s Project Maven",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-29-rich-countries-should-invest-in-latam-to-create-ai-talent.md",
-      "title": "Rich countries should invest in LatAm to create AI talent",
-      "excerpt": "Uruguay, the second best-prepared country on the Insead ranking, has launched its public consultation on AI in April 2019 and spent the whole year working on the plan, which is just about ready. The report also mentions Chile's plan to address the infrastructure, priority areas and ethics, standards and regulations around AI. On Brazil ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/rich-countries-should-invest-in-latam-to-create-ai-talent/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/rich-countries-should-invest-in-latam-to-create-ai-talent/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/rich-countries-should-invest-in-latam-to-create-ai-talent/",
-      "publishedDateTime": "2020-01-29T15:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2018/09/25/f2e8efdb-8c6c-4884-a8eb-4a1d5b6e2b3c/thumbnail/1200x675/7f2125eac9be0743c7a93613eb1919e4/istock-919118256.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Rich countries should invest in LatAm to create AI talent",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-29-robots-pose-biggest-risk-to-the-poorest-countries.md",
-      "title": "Robots Pose Biggest Risk to the Poorest Countries",
-      "excerpt": "At the end of the 20th century, globalization narrowed the gap between rich and poor nations. But history shows that isn’t always the case. In the years following the fall of the Berlin Wall in 1989,",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-01-29/robots-pose-biggest-risk-to-the-poorest-countries",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-01-29/robots-pose-biggest-risk-to-the-poorest-countries",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-01-29/robots-pose-biggest-risk-to-the-poorest-countries",
-      "publishedDateTime": "2020-01-28T21:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-29-smarter-delivery-hinges-on-smarter-robots.md",
-      "title": "Smarter Delivery Hinges on Smarter Robots",
-      "excerpt": "Companies and researchers are racing to develop artificial-intelligence systems that can enable warehouse robots to handle new and varied objects without the need for extensive additional training or human help.",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wsj.com/articles/smarter-delivery-hinges-on-smarter-robots-11580288408",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/smarter-delivery-hinges-on-smarter-robots-11580288408",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/smarter-delivery-hinges-on-smarter-robots-11580288408",
-      "publishedDateTime": "2020-01-29T01:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-148470/social",
-          "width": 1280,
-          "height": 640,
-          "title": "Smarter Delivery Hinges on Smarter Robots",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-29-this-tech-startup-used-ai-to-predict-coronavirus-outbreak-even-before-who.md",
-      "title": "This Tech Startup Used AI To Predict Coronavirus Outbreak Even Before WHO",
-      "excerpt": "The total number of confirmed coronavirus cases in China stands at over 5000. Given the gravity of the situation, computer programmers in a tech firm, BlueDot, are making use of AI and machine learning to detect the warning signs of Coronavirus, reports ET. SEE ALSO: Watch out for this extremely fake, weirdly racist viral post about coronavirus ...",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://in.mashable.com/science/10923/this-tech-startup-used-ai-to-predict-coronavirus-outbreak-even-before-who",
-      "ampWebUrl": "https://in.mashable.com/science/10923/this-tech-startup-used-ai-to-predict-coronavirus-outbreak-even-before-who?amp=1",
-      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/science/10923/this-tech-startup-used-ai-to-predict-coronavirus-outbreak-even-before-who?amp=1",
-      "publishedDateTime": "2020-01-29T00:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://sm.mashable.com/t/mashable_in/photo/default/united-states-confirms-first-case-of-the-coronavirus-spreadi_ksp4.620.jpg",
-          "width": 620,
-          "height": 348,
-          "title": "This Tech Startup Used AI To Predict Coronavirus Outbreak Even Before WHO",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-29-underwater-robot-autonomously-gathers-seabed-samples.md",
-      "title": "Underwater robot autonomously gathers seabed samples",
-      "excerpt": "That's why researchers have now enabled one to autonomously gather samples from the ocean floor. Led by associate scientist Rich Camilli, a team at Woods Hole Oceanographic Institution (WHOI) recently developed artificial intelligence-based automated planning software that's designed to work with ROVs. Last month, that technology was put to use ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://newatlas.com/marine/underwater-robot-autonomous-samples/",
-      "ampWebUrl": "https://newatlas.com/marine/underwater-robot-autonomous-samples/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/marine/underwater-robot-autonomous-samples/?amp=true",
-      "publishedDateTime": "2020-01-29T14:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/e96142e/2147483647/strip/true/crop/5995x4000+3+0/resize/1160x774!/quality/90/?url=https%3A%2F%2Fassets.newatlas.com%2F7b%2F17%2F8c16daaf43d4a75daf3621615d66%2Fdsc-0144.jpeg",
-          "width": 1160,
-          "height": 774,
-          "title": "Underwater robot autonomously gathers seabed samples",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-01-29-ups-teams-up-with-waymo-to-test-self-driving-delivery-vans.md",
       "title": "UPS teams up with Waymo to test self-driving delivery vans",
       "excerpt": "Washington, DC (CNN)Waymo is teaming up with UPS to test the use of its self-driving vans in transporting packages. Waymo, the self-driving arm of Google's (GOOG) parent company Alphabet, will use its autonomous Chrysler Pacifica minivans to bring packages from UPS stores in the Phoenix area to a UPS sorting facility in Tempe,",
@@ -2136,6 +1884,264 @@
       "topics": [
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-31-do-you-know-the-2-categories-of-fintech.md",
+      "title": "Do you know the 2 categories of fintech?",
+      "excerpt": "Click to share on Twitter (Opens in new window ... fintech categories was $12.9 billion over 513 deals according to CB Insights. That’s already past the $12.5 billion in funding from all ...",
+      "heat": 122,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.housingwire.com/articles/do-you-know-the-2-categories-of-fintech/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-31T11:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HousingWire",
+        "domain": "housingwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.housingwire.com/wp-content/uploads/2020/01/AdobeStock_289776048.jpeg",
+          "width": 1010,
+          "height": 371,
+          "title": "Do you know the 2 categories of fintech?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-31-forget-the-roi-with-artificial-intelligence-decision-making-will-never-be-the-same.md",
+      "title": "Forget The ROI: With Artificial Intelligence, Decision-Making Will Never Be The Same",
+      "excerpt": "Having the right mindset toward AI means looking beyond traditional, cold ROI measures, and looking at the ways AI will enrich and amplify decision-making.",
+      "heat": 80,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2020/01/30/forget-the-roi-with-artificial-intelligence-decision-making-will-never-be-the-same/",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2020/01/30/forget-the-roi-with-artificial-intelligence-decision-making-will-never-be-the-same/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2020/01/30/forget-the-roi-with-artificial-intelligence-decision-making-will-never-be-the-same/amp/",
+      "publishedDateTime": "2020-01-30T19:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e33857fe32a410007e7d6ff%2F0x0.jpg",
+          "width": 1200,
+          "height": 806,
+          "title": "Forget The ROI: With Artificial Intelligence, Decision-Making Will Never Be The Same",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-31-google-open-sources-lasertagger-an-ai-model-that-speeds-up-text-generation.md",
+      "title": "Google open-sources LaserTagger, an AI model that speeds up text generation",
+      "excerpt": "Sequence-to-sequence AI models, which were introduced by Google in 2014, aim to map fixed-length input (usually text) with a fixed-length output where the length of the input and output might differ. They’re used in text-generating tasks including summarization, grammatical error correction, and sentence fusion, and recent architectural ...",
+      "heat": 95,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/31/google-open-sources-lasertagger-an-ai-model-that-speeds-up-text-generation/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/31/google-open-sources-lasertagger-an-ai-model-that-speeds-up-text-generation/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/31/google-open-sources-lasertagger-an-ai-model-that-speeds-up-text-generation/amp/",
+      "publishedDateTime": "2020-01-31T12:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google open-sources LaserTagger, an AI model that speeds up text generation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-31-how-ai-in-healthcare-will-influence-the-path-to-value.md",
+      "title": "How AI In Healthcare Will Influence The Path To Value",
+      "excerpt": "From medical malpractice to single-payer healthcare, there is no shortage of topics to debate in healthcare. Though provision, funding and government involvement in our system continue to be central topics,",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/31/how-ai-in-healthcare-will-influence-the-path-to-value/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/31/how-ai-in-healthcare-will-influence-the-path-to-value/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/31/how-ai-in-healthcare-will-influence-the-path-to-value/amp/",
+      "publishedDateTime": "2020-01-31T05:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1147429610/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 474,
+          "title": "How AI In Healthcare Will Influence The Path To Value",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-31-how-artificial-intelligence-is-improving-the-pharma-supply-chain.md",
+      "title": "How Artificial Intelligence Is Improving The Pharma Supply Chain",
+      "excerpt": "When coupled with machine learning and predictive analytics, the AI transformation goes much deeper than smarter search functions.",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/31/how-artificial-intelligence-is-improving-the-pharma-supply-chain/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/31/how-artificial-intelligence-is-improving-the-pharma-supply-chain/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/31/how-artificial-intelligence-is-improving-the-pharma-supply-chain/amp/",
+      "publishedDateTime": "2020-01-31T05:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/807443170/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 474,
+          "title": "How Artificial Intelligence Is Improving The Pharma Supply Chain",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-31-ibm-is-replacing-ginni-rometty-after-8-years-of-rocky-results.md",
+      "title": "IBM Is Replacing Ginni Rometty After 8 Years of Rocky Results",
+      "excerpt": "Apart from company founder Thomas Watson, who retired at the sprightly age of 82 ... As much as I appreciated Rometty's ideas, I'm excited to see Arvind Krishna's artificial intelligence focus and Jim Whitehurst's open-source mentality steering IBM into the next decade.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/01/31/ibm-is-replacing-ginny-rometty-after-8-years-of-ro.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/01/31/ibm-is-replacing-ginny-rometty-after-8-years-of-ro.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/31/ibm-is-replacing-ginny-rometty-after-8-years-of-ro.aspx",
+      "publishedDateTime": "2020-01-31T06:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F555611%2Fibm-ceo-arvind-krishna.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 907,
+          "title": "IBM Is Replacing Ginni Rometty After 8 Years of Rocky Results",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI"
       ]
     }
   ],

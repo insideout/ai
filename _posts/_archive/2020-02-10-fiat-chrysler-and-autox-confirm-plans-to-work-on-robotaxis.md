@@ -2,7 +2,7 @@
 category: news
 title: "Fiat Chrysler and AutoX confirm plans to work on robotaxis"
 excerpt: "FCA will face plenty of competition in China, where self-driving car tests have been permitted on public roads since 2017. Alibaba, Baidu, Chinese ridesharing company Didi Chuxingare and Tencent are all working on autonomous vehicle platforms. Volvo and Ford are both involved with Baidu. Meanwhile, Volkswagen's autonomous driving subsidiary ..."
-publishedDateTime: 2020-02-10T18:22:00Z
+publishedDateTime: 2020-02-10T19:22:00Z
 webUrl: "https://www.engadget.com/2020/02/10/fiat-chrysler-autox-robotaxis-china/"
 ampWebUrl: "https://www.engadget.com/amp/2020/02/10/fiat-chrysler-autox-robotaxis-china/"
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/10/fiat-chrysler-autox-robotaxis-china/"
@@ -29,6 +29,6 @@ images:
     height: 350
     title: "Fiat Chrysler and AutoX confirm plans to work on robotaxis"
 
-secured: "qoDGAUCZh6bfCz8iCmzd0dEPstV3P8e/E6CH53Gu8RAGXyOa+LNH8d04mr23omCPr7PFFyn/EZpl2pC9nFFYr4PiSiba+uSPn6hyBYiBbT19uunG5j38fqSp4jxG2r1+rjQt8P5LaBePao4RBjfosNTESqMJpBvQyzdnynb0UfdRjV/6ZAgXsM5fdbnTIm1ajaLTSKQ8AauXk+6KJcC2YHpAb4dHxb97ebqTzgYGlkJyPO5DAgjVKrmAisFqASNxPub2Jet62zWyo1pY2zHSzpSqAiWlvqAPzshvanzcHRHxTszPzWWGj6A1jTF4jjdg63eSNHg13PfFVp5ZjSEAE5MvvSXPqxhOU/Qh9PH4trMwInP7uU83V9VAkNh6/fPXCR3cAWahKzdgdYh8SdplBoK2ouFX42s5ReOwLrCQuIgkvLb4ypEQGPC7Zh/VCCurJquewriCzcsUbxgHLJxA3/QUubj9kY6UjXOSSlMM/ag=;8AYuBYIquCcbUSmiC2gGWA=="
+secured: "cSODz5N3OdEQrOEjWAeFD2FbayrctDmeMw9BIpsIq5J+8AjAajrvTcG+ZnwIxLoJul5kThNNex2kL9MxIu+N8ae/GWJLLCjnZDFJxEixurLRQrOwbMHFKSLPSObRq91sfRBDM4ZJcmU6c+hYPob1I7X2V08i7Se0UaK2BLxH/uiClA5xIa2EZ6rH8clpFGikEY28InkcTsAA5vY/WQqKL7RYkGJu1qLoFovfcCwat6eS6gTA0JPDmZJoUQ2D7uJHbagw5G+M4+zmmWQS+mhx77cM50GhyMUHcETc9HesFah+NwhzLsaFAzv7KB2VfVSu;f2CEsz1lWwVMDbxnx7Avvg=="
 ---
 

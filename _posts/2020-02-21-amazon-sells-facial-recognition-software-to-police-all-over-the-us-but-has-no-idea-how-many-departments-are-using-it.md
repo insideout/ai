@@ -428,6 +428,19 @@ related:
       - url: "https://thenypost.files.wordpress.com/2020/02/chinese-city-rolls-out-facial-recognition-thermometers-on-buses.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+  - title: "Indian police use facial recognition app to reunite families with lost children"
+    excerpt: "Police in the southern state of Telangana developed the facial recognition tool as part of Operation Smile, a periodic drive to tackle child labour and missing children. They scanned through more than 3,000 records on the app and were able to reunite more than half the children with their families in January. \"The results are very encouraging ..."
+    publishedDateTime: 2020-02-14T10:20:00Z
+    webUrl: "https://news.trust.org/item/20200214094459-0zrgu/"
+    type: article
+    provider:
+      name: Thomson Reuters Foundation
+      domain: trust.org
+    quality: 35
+    images:
+      - url: "https://d2sh4fq2xsdeg9.cloudfront.net/contentAsset/image/427069ba-8376-4828-b590-7e9e2c558109/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100"
+        width: 1100
+        height: 828
   - title: "Because facial recognition makes students and faculty less safe, 40+ rights groups call on universities to ban technology"
     excerpt: "“Facial recognition technology isn’t safe,” reads the letter. “It’s biased and is more likely to misidentify students of color, which can result in traumatic interactions with law enforcement, loss of class time, disciplinary action, and potentially a criminal record… Facial recognition is invasive, enabling anyone with access to ..."
     publishedDateTime: 2020-02-13T19:29:00Z

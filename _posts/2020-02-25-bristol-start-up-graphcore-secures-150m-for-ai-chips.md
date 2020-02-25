@@ -8,8 +8,8 @@ ampWebUrl: "https://www.telegraph.co.uk/technology/2020/02/25/bristol-start-up-g
 cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/02/25/bristol-start-up-graphcore-secures-150m-ai-chips/amp/"
 type: article
 quality: 78
-heat: 78
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Daily Telegraph
@@ -27,6 +27,38 @@ images:
     height: 876
     title: "Bristol start-up Graphcore secures $150m for AI chips"
 
-secured: "97D2K3e6plJzk/xw/4i+/haGVzuDfIOxOyzMPDkmTcezpUeIVmjcqe3o9Q0iV867B918qolQWbzHxkkfgFfpvF2bZbP0yYYYCvUs6blprwjno7CMp1y9wEsQZpdu4sJ0LALdZm6SRfmapOHkZlt0Mamyx/awMIzwl9Ec1kSb11U8c0Ze2fS7HiC1nhoBklU8rXeDIixtPBBfgv48nkBp+t3rZHIJJauwTi731oehsbQF8ANGLffDjjwEczJPk8ejbZzfxOnkO0JIrosktZfATpzO1wNjqXIUTvwbCc/QN8mva+qfb62PCscBXE7cQodN;5JwnBdfkNYfmuKTq1fAnqg=="
+related:
+  - title: "Graphcore, the AI chipmaker, raises another $150M at a $1.95B valuation"
+    excerpt: "The UK has a strong history when it comes to chips and processors, but the global chip market has seen some ups and downs ... hardware and corresponding Poplar software — which is designed specifically for the kind of simultaneous, intensive calculations demanded of AI applications innovators create next generation machine intelligence ..."
+    publishedDateTime: 2020-02-25T11:37:00Z
+    webUrl: "https://techcrunch.com/2020/02/24/graphcore-the-ai-chipmaker-raises-another-150m-at-a-1-95b-valuation/"
+    ampWebUrl: "https://techcrunch.com/2020/02/24/graphcore-the-ai-chipmaker-raises-another-150m-at-a-1-95b-valuation/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/24/graphcore-the-ai-chipmaker-raises-another-150m-at-a-1-95b-valuation/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 106
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2018/12/Graphcore-server-chassis.jpg?w=1024"
+        width: 1024
+        height: 682
+  - title: "SentinelOne raises $200M at a $1.1B valuation to expand its AI-based endpoint security platform"
+    excerpt: "“The landscape is expanding and it is getting very hard to monitor not just what your network looks like but what your attackers are looking for.” This is where an AI-based solution like SentinelOne’s comes into play. The company has roots in the Israeli cyberintelligence community but is based out of Mountain View, and its platform is ..."
+    publishedDateTime: 2020-02-19T17:20:00Z
+    webUrl: "https://techcrunch.com/2020/02/19/sentinelone-raises-200m-at-a-1-1b-valuation-to-expand-its-ai-based-endpoint-security-platform/"
+    ampWebUrl: "https://techcrunch.com/2020/02/19/sentinelone-raises-200m-at-a-1-1b-valuation-to-expand-its-ai-based-endpoint-security-platform/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/19/sentinelone-raises-200m-at-a-1-1b-valuation-to-expand-its-ai-based-endpoint-security-platform/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 75
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2018/05/gettyimages-914788014.jpg?w=1024"
+        width: 1024
+        height: 544
+
+secured: "pvlY8+Qj2XFyJXLnX7IA6k/JCISlmI5YMG3qJ/7p/HDFnIurV4hgB9m++nXLS8VSo7TY29t9xcmdyfAgkL1lkEWKMWf85S1C7W5JlFbxmMJgcH6stiXV1TnjJqOZt4pgjc5DO4tij6EbR9Gu0NVUKXXJl07MtRMUSx5tbThNt42y73afO+HFp+1yZ6GpFsCv+OyiediDZwQdYc6rTlnqVGwFev0vsLIaAL5NosfpPqtSVv2L3/rWsKQbDmX0nASUCqggV3yDIdjxDGSARQDoYjncNfO0nRQIoSMT3YwbB1ohYK7o6LVUMpKMIq5n+5cLaDl4zzsoFiYWPwY08vUHrD6yiDD4MHjTGrqPI5UV0d7h7jr/EgppwZDKzpwmqXjZcVqakIJXrfUlf3o3biwu+CSEIyrhnhebhzt2fQp/fVcjIaKKehyABM+SmINvISS51OqsTolGY1k6xRcVv8FaWZ87olhUwBSeA1wsGzo+3Wg=;qhiXWNe1WuZqi8oGNG8biQ=="
 ---
 
