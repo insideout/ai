@@ -3,7 +3,7 @@ category: news
 title: "DataRobot Named a Visionary in the 2020 Gartner Magic Quadrant for Data Science and Machine Learning Platforms"
 excerpt: "DataRobot, the leader in enterprise AI, today announced that it was named a Visionary in Gartner’s 2020 Magic Quadrant for Data Science and Machine Learning Platforms for the second year in a row. The report recognized DataRobot for its completeness of vision and ability to execute. “Over the past year, we’ve been focused on expanding our ..."
 publishedDateTime: 2020-02-24T22:54:00Z
-webUrl: "https://apnews.com/457fb1cbb5e849138ce775c22609efdf"
+webUrl: "https://apnews.com/Business Wire/457fb1cbb5e849138ce775c22609efdf"
 type: article
 quality: 19
 heat: -1
@@ -101,6 +101,6 @@ related:
       domain: globenewswire.com
     quality: 0
 
-secured: "FuXn+IJlze45/p6MSy77L97A4GBaU1A5zN004QkEUZrZxuhPR9bD4cOcM0tEE0NizaE5Um08uHR9FLBpqDtY5kEFMHpT0EFlr0Mxil0KxN+KpC3hIVhBj5YZ6mwph2s28dAKegE3N9GgYwxq+nfKqxcSGXAlS2S7PKp6QKD/5P8WPCKh+oiiBa2uj7eZRfwSyHzb6gwH/nO5bh4oaS35JF8aKZn01o+6Q4WEuwAY+5/L75pKYccHqXX+Uj3zf86PsK84DmBf+uUB+h8UOOaWyyge/DKFsxLmbbmSm5VcgltPP7V5JWyRfeEkDIgPwZmL;1g06GTznmksDW3+S0DKdHg=="
+secured: "SfKXvi/dH6eT8FkwozGDluhIYM1GoeJBSQcfrFfE5uQmyVRgMayURRTlNQOYrqzhQOLmTQnNTa6igK5XwE1JiQDc3QE/iV/ykNKBgqXhz4VNkPUoUkoxcP1F22aGcvQh/WIJtauitgrU+r8I3t4Ac/Qj3yF9Jwj7QQtCVyMjXAAOZDAlFahxNBFwxZGfFEPZJKE9Bwic1zIsm4er/WMhv5U7Dm36hT1AP30qg6k94cyB/+lVux30OGRTnKKj5UgISuH7VWsdIg0vF/1XeUNNRcaI6bvHfBMDhm+hjUAcnCKcxkMIHhnZu8V+xKjbdm7R;VGtRYdSSgYrJtIStZxP01w=="
 ---
 

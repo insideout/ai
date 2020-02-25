@@ -47,6 +47,19 @@ related:
       - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/128215-0220_CloudContactCenter_480x610_new-ORG.png"
         width: 480
         height: 610
+  - title: "Obviously AI Rolls Out First Natural Language-Powered Machine Learning Platform for Predicting Outcomes from Any Data"
+    excerpt: "It’s amazing what marketers, salespeople and other non-technical business users can learn when they use our platform.” How it works To make predictions, Obviously AI uses state-of-the-art natural language processing to break apart a question, interpret it and find the right data. Then it runs hundreds of machine learning algorithms in ..."
+    publishedDateTime: 2020-02-24T23:14:00Z
+    webUrl: "https://apnews.com/ACCESSWIRE/119a9f1196c437937a0ae489b53dd2a0"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 16
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
 
 secured: "7r3Jks6TqQvIzxZvgUo4kA5mKYJ5zYXkDtK6FeDD8oLvJhd17VoLSkJDfty2Ex2YLFD94/pE1TDup0M1dLTYHIhLSU0mDmPCcWlwkS9ddJXHHOw2PTYZ6cON7bLZDZuNwCyI30oSoNO8i6fdTwUeJw9KPV5efXi9HyyBlGKKX7qnTP5l8Ju0H1FZJ9ZU9RSfe/SJ9fXauR73oLO/+xdMccalrbNkht/EeAZSHmgvSP+pRpK812lxFEsIWshy2Cyd4e0Fjqh+NmQSfwtby77rGee+Hu+O57L2vRmactaKWnA03qaJyFp+FymgKMyBKY0k;nrXdcowqGXGe88jtKyczhg=="
 ---

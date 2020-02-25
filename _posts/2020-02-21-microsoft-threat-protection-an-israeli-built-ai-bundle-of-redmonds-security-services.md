@@ -8,7 +8,7 @@ ampWebUrl: "https://www.csoonline.com/article/3528708/microsoft-threat-protectio
 cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3528708/microsoft-threat-protection-an-israeli-built-ai-bundle-of-redmonds-security-services.amp.html"
 type: article
 quality: 66
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -26,6 +26,19 @@ images:
     title: "Microsoft Threat Protection: an Israeli-built AI bundle of Redmond's security services"
 
 related:
+  - title: "ClearDATA Comply™ for Microsoft Azure Enhances Sophistication of PHI Protection"
+    excerpt: "in healthcare including Azure Kubernetes Service (AKS), Azure Machine Learning as well as PaaS based services like Azure SQL. ClearDATA is a Microsoft Gold Partner and has offered managed security, compliance and privacy solutions on Microsoft Azure since 2015. ClearDATA will further collaborate with Microsoft to support its sensitive data ..."
+    publishedDateTime: 2020-02-24T23:03:00Z
+    webUrl: "https://apnews.com/bedb826ee85241a5b89c8c4ddb88174e"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 50
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
   - title: "SecuriThings Announces Integration with Microsoft Azure Security Center for IoT to Protect Customers' IoT Devices Against Cyber-Attacks"
     excerpt: "/PRNewswire/ -- SecuriThings is the technology provider of Horizon, a software-only solution which detects and mitigates cyber-attacks exploiting the"
     publishedDateTime: 2020-02-20T17:30:00Z

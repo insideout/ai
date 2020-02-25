@@ -29,6 +29,6 @@ images:
     height: 475
     title: "A Look Back At Ten Years Of Microsoft Azure"
 
-secured: "hbTKko/9T4xVC+crpLODDEaORvQ1myu7mq8/XqQl1MBvJEpM3jfEF/InU6JWzGcJKcR1bex/p5hiESjKaHIdbPW/+VAXIJcIrxy/MbeaVwxKca0GGo5o3ZfbG6cqGQCZbKE86AlkmleP2q/f9nMiB15U7OOw9eWRu7t1DvZe1lxgcKRuO4m74cS9nZspg67smzhRU/SrRxeMaP7YrkmI86DBvkwZVwyOVq6V7Y7gj2pAGRFt1sY+cNPx2lFMCvi08twVoKBDiJdQD+aZqoeSlbEjV3FAdHM1RFMqoJ+mCPUzkgu2Cmeh3FWK826Em3Dz;/8l4Fx8deED7myUHhcilcg=="
+secured: "vcAD2/YistN5bMogqqDCqWNW4KFvtA87X/QD1uPR5V/G0p+v7sgzKvWHbQ3yJJsmYveF7Hd2hJ1tnNbvumjz50R+T6H7JuaXXBSHrmEkHDLeWK6V9lgSROvRQFnWqihlgDcrksdpEOJC+ecXszjMm0wDq9VuURs+gMf4TUpArLlH+djufPaN7LFk/ntHqWtCjeFb28/MtWdngxrd3kYyyBPW4AWHO9gEZYkJ60SgtF4v5WpR3eAQNrTMDPGwMwrESfMN/iKH+J3GM4dN30msKAPcMf8iA1aVSitZ2wYl27yWPx9vDUgnj1nAY0HeEaN5;LYCH2UJDddksDOGVCVD59A=="
 ---
 

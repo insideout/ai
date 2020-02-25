@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Growth Within Limits: US-Based Cloud Service Provider 1Q Earnings"
-excerpt: "Evaluating Amazon AWS, Microsoft Azure, Alphabet GCP, IBM Cloud and Oracle OCI earnings from an IaaS perspective to understand how these cloud giants are managing and growing their infrastructure."
-publishedDateTime: 2020-02-07T15:08:00Z
+excerpt: "Perhaps Microsoft can follow by doing the same ... former head of IBM’s Cloud and Cognitive Services business, to CEO as Ginni Rommetty retires. Mr. Krishna is credited with a leadership role ..."
+publishedDateTime: 2020-02-07T15:05:00Z
 webUrl: "https://www.forbes.com/sites/paulteich/2020/02/07/growth-within-limits-us-based-cloud-service-provider-1q-earnings/"
 ampWebUrl: "https://www.forbes.com/sites/paulteich/2020/02/07/growth-within-limits-us-based-cloud-service-provider-1q-earnings/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paulteich/2020/02/07/growth-within-limits-us-based-cloud-service-provider-1q-earnings/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -30,17 +30,6 @@ images:
     title: "Growth Within Limits: US-Based Cloud Service Provider 1Q Earnings"
 
 related:
-  - title: "Top Machine Learning Services in the Cloud"
-    excerpt: "GPU accelerated machine learning training on IBM Cloud supports the Keras, PyTorch, Tensorflow and Caffe frameworks. Value proposition for potential buyers: For organizations that have already bought into Microsoft Azure cloud, Azure Machine Learning is good fit, providing a cloud environment to train, deploy and manage machine learning models."
-    publishedDateTime: 2020-02-08T09:16:00Z
-    webUrl: "https://www.datamation.com/artificial-intelligence/top-machine-learning-services-in-the-cloud.html"
-    ampWebUrl: "https://www.datamation.com/amp/artificial-intelligence/top-machine-learning-services-in-the-cloud.html"
-    cdnAmpWebUrl: "https://www-datamation-com.cdn.ampproject.org/c/s/www.datamation.com/amp/artificial-intelligence/top-machine-learning-services-in-the-cloud.html"
-    type: article
-    provider:
-      name: Datamation
-      domain: datamation.com
-    quality: 45
   - title: "Second Spectrum Selects AWS as its Preferred Cloud, Machine Learning, Artificial Intelligence, and Media Services Provider"
     excerpt: "Today, Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced that Second Spectrum, the Official Optical Tracking and Analytics Provider of sports leagues such as the National Basketball Association (NBA) and the English Premier League, has chosen AWS as its preferred cloud, machine learning (ML), and artificial ..."
     publishedDateTime: 2020-02-14T14:00:00Z
@@ -51,6 +40,6 @@ related:
       domain: financialbuzz.com
     quality: 0
 
-secured: "CaljstwSgL90MovNxCudIK3CI8GkRlqNDqdZi9ejL6peRxG7chagvQi2yi37sHOSmgB1V+9uKzMbYRr4kLUQpxv44mLo3Yd6RlnW97EfsmS2uQhKesMnC1qAjAnxqarrF/9MB4Ela6jWtwAal4X4muc/KeqfPOJlGGZdPVy4xSQmUHHCTvHQirvGIBqEnxRQOqPSqV+7IHxbCJfE5UT65EiG+wYZA4q1/aZTP9Sj3rD4uciQmJVkkhhioh65dN5dVf0lABUTgXT+YZdVX+3JN+v1rhcNabX6yFh/GofSzzPh3aKkKdND98D5fg/qDlLs7C0nQYUxlwMconYetiQnWExzn2auhFqRTjTS8NxpWp8RbOBPJjfqb2L64XZ0WZIadOkGx0vvFGKzSoZ+5BWh8NjWY+R8hsFuT+dmidS79MAGeybHKYCI+AGqlh8RO62EKUwnU0FgtLKrRnOFbsZ3hw9s28pCgjsFzgLE7Hm3Ft8=;4WRrTUUdOkI3nVROO8uTFA=="
+secured: "clDc3eqM+6+ZlzOyM7Kz/LP76FnuC7mMjP8KZRw4ln9EuzgoVpvPHWrxyU6e6B/YISXrSF+nkJb+lyqI/Pjq7t3ZlJJJnofghVlEKQrs7p40ujIFkP/abYQW0cPFbtqjVRgTEMNqHkmu33nn5mEKSwagmnvzec84qwkyLqZT5NZ9SI5Wp9aqusM6t2Qno5Ie4gOfWTSAhrQFajuFkFWrp466EYTaHt4983z15VHI2ANmNDGanPkmNoySPUbKJ0t7NV8WTBx6KYIs6kpdgnw06LKtlv3TxnrbjMbbORMQrt+PxQjwQg9/qCOdTiOACtDZ;YnghnOgiNQnDLn1/2qeqmg=="
 ---
 

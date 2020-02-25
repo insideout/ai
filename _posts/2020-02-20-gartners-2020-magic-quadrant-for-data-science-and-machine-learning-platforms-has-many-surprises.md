@@ -87,7 +87,7 @@ related:
   - title: "DataRobot Named a Visionary in the 2020 Gartner Magic Quadrant for Data Science and Machine Learning Platforms"
     excerpt: "DataRobot, the leader in enterprise AI, today announced that it was named a Visionary in Gartner’s 2020 Magic Quadrant for Data Science and Machine Learning Platforms for the second year in a row. The report recognized DataRobot for its completeness of vision and ability to execute. “Over the past year, we’ve been focused on expanding our ..."
     publishedDateTime: 2020-02-24T22:54:00Z
-    webUrl: "https://apnews.com/457fb1cbb5e849138ce775c22609efdf"
+    webUrl: "https://apnews.com/Business Wire/457fb1cbb5e849138ce775c22609efdf"
     type: article
     provider:
       name: Associated Press

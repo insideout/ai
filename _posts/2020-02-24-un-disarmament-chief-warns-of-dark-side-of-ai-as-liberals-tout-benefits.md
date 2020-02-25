@@ -8,7 +8,7 @@ ampWebUrl: "https://nationalpost.com/pmn/news-pmn/canada-news-pmn/un-disarmament
 cdnAmpWebUrl: "https://nationalpost-com.cdn.ampproject.org/c/s/nationalpost.com/pmn/news-pmn/canada-news-pmn/un-disarmament-chief-warns-of-dark-side-of-ai-as-liberals-tout-benefits/amp"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -25,6 +25,19 @@ images:
     height: 750
     title: "UN disarmament chief warns of 'dark side' of AI, as Liberals tout benefits"
 
-secured: "+wDrLqwagRVx/YonZwkac1CRgFmSlSJz2YeeJdeEueKnoffW92loDkyv3WU93tzCG50GThczxatI4369gZ2BeYNV7asAsIRzi/RA7ERDHt6PGrhX7vxrgazyLOnlH7DD0v2X+EylDJKXcC2FABQXQjVkyzG0+pOhnyqIG2vc7tQbydwNYa8bcJulnPBHSbSiOy5QsNQCkBtYxIZ8yP2vYn7aEdYPye2scjU9bL+hU/VCmYysWVX9loTtq4I9tj+elYkoDo0zOxQndn1RBOa1kI30jb4JYk1Z2mlgO1+eD8lpz11vK31rVsgwmR/Qb79Q;v8V6ufhVVIjsz4IBCPNP7A=="
+related:
+  - title: "Benefits of AI touted by Liberals, despite UN warnings of its ‘dark side’"
+    excerpt: "“For artificial intelligence to really flourish and a have a positive impact on society, you need vast amounts of data as well,” said Bains. “As we move forward with that, hopefully we’ll ..."
+    publishedDateTime: 2020-02-24T22:33:00Z
+    webUrl: "https://globalnews.ca/news/6590510/united-nations-artificial-intelligence/"
+    ampWebUrl: "https://globalnews.ca/news/6590510/united-nations-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/6590510/united-nations-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: Global News
+      domain: globalnews.ca
+    quality: 40
+
+secured: "OtCVgx5GwXt3/jVEK/abYJMRVvvkSx3aJqSPrGxTwC5vqxun9ENZELiUdKJeXYLtt1iccGqEWAgn/YfSe4Vckxxb+xsEf9PJGPyWpWLvuCYz9NgZJZgBRYdqFyzuWRR/G9wMbJFJFqSBBtCuVgZI/PYyCpfKHJkGEA6hLMMiKRUJFPy31Hs7cO2kq4HPM3r1hp2oz9Z1kXnrpSukl7DFGPk9MSe3PuB6JGrNkUm/f6TVqngm8958hLVXQXEk2iFpM3vFtfSCbSn3lBJBrKugtwteD4xDcl2VXI4tTXniSOTxPCOPsbA1VfKa3+wOr+5QfmdDfLgl/zh0n1S8QMYuYzgyfaVQ32oh6Y6vIRcMzpeb9Isgn8i3ceQAaIqO/VvFte4Zl4VwOcNh9UiFF/umNomU3ebHHaZ7dbrtP4uF9IhPyydXvBeC82HxrLkNRGq5WGUjHvM3vz13mCPq63w3PuASL6ml2o2QfTqJ1LDU2G0=;KWCmvTI1mQcLcKIo/23DQg=="
 ---
 

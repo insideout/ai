@@ -26,6 +26,6 @@ images:
     height: 600
     title: "Intuit is reportedly about to buy Credit Karma for $7 billion, and a Wall Street analyst says it could give Intuit's AI a much-needed boost"
 
-secured: "cJCjpUyefEAQflLRqRNAZo78AuU5aiwRDndnujyd/7yEKkJBtali3e/qOFFbPZz2ct6crCiU2LpYVyd0GBreoDmNEdISOykbjK+ZAv5yFygk9hYjnMMJGT6EYIy7z8Zq2Bv8dQp6EoUk3Kk3MPCYbp9146a70fFDqepnjIHkCH3yybxJ0NMy+u4rrgtSiktMvkdHi/FH3qu+5w/qcH3hJ7uOMuG1J1tPmoaqcNfHJoD9QatzVrSE90wACLcHmcBYNfDaVWjAEpb/m3xk1tnXic+BLaBzEZTMnwbNM6NdSLq+B8gd3I7vTNs+ti1tmDEK;9/Ak9OSlaGxNuJ3FB7GbPA=="
+secured: "ccaQqLx5tgCy66qbBmQILftCRQBb4Prx/9Q3P5y0o6q8APiBocoHBmDhSqYMK2Qc+0zJR5xpvQU4tHysABApXc7qG2lHe+SCwhdrZsxmxmovpWZ03Fns1+kAL6rLf8JtJKn7ZoUXqJqPYWd2vFffRE1NuNzPXV/BSIbSbbSJyiweLzkKfWe0UJXLOXRgp9hBQEDwPPKW3aXlu6IUGH86O5XIgEXMdrQpQsl3Kf2Qr0PDokGtuTd2Iu+sUmorMxp4q6SMbczUOUMq7QCriuB83d27BpXN/dOBo/Woqj/aDq4EcpOT1z+/41LspaPcpF2Imd+0XGtlHHQBkkqWxnEH83ALLsxkSAlXhjnikNeSisxKsZCrZgTak2RUbFf+Yr9m0uFL+kgFSVHKZZ/D9ClPpMcXTIs6t0PULWckIfB2M97etJZFkhp6tN+It3cE7a6NGXMFqhJfcAJ286EO3bEqq6GyWonzZGSauVvjQK0Plk4=;zTkr42fH/Pb8T+Qum77zWA=="
 ---
 

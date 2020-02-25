@@ -1,14 +1,14 @@
 ---
 category: news
 title: "5 reasons to choose PyTorch for deep learning"
-excerpt: "But why should you choose to use PyTorch instead of other frameworks like MXNet, Chainer, or TensorFlow? Let’s look into five reasons that add up to a strong case for PyTorch. Before we get started, a plea to TensorFlow users who are already typing furious tweets and emails even before I begin: Yes, there are also plenty of reasons to choose ..."
+excerpt: "While the fast.ai course uses fast.ai’s own library that provides further abstractions on top of PyTorch (making it even easier to get to grips with deep learning), the course also delves deep into the fundamentals, building a PyTorch-like library from scratch, which will give you a thorough understanding of how the internals of PyTorch ..."
 publishedDateTime: 2020-02-24T16:02:00Z
 webUrl: "https://www.infoworld.com/article/3528780/5-reasons-to-choose-pytorch-for-deep-learning.html"
 ampWebUrl: "https://www.infoworld.com/article/3528780/5-reasons-to-choose-pytorch-for-deep-learning.amp.html"
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3528780/5-reasons-to-choose-pytorch-for-deep-learning.amp.html"
 type: article
-quality: 91
-heat: 91
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -21,7 +21,6 @@ provider:
 
 topics:
   - AI
-  - Google AI
   - Machine Learning
 
 images:
@@ -30,6 +29,6 @@ images:
     height: 800
     title: "5 reasons to choose PyTorch for deep learning"
 
-secured: "v7KEu7ZZkJYqHo+JjLMGCCrjatH6xOHOlTb3H8Z3HSiAeim35XaTh5RbJbHmzbTUMMoiXhNae/McVKAjfUQL75/5bhOTHFvY/CoDg+rXcKKJ870JQrFLsZxS6JlDi5TT9jhL+5aTLHVah7o7u8cPdVMXsszdSTcyxB7TyhZQzU/2v33fOPnlKILwJ8EObJ0K8MW3UM7Pn/CBGFMQnTFDGycO/7WRI/1TRT1X+QO2E3p5eqiWbmDwveQl5YMA0dcotcj9m+avMsojQQYy3YxUEqf+RL+D4/+W2942FyVLg1NFB9QuucBD77/srKpFctb6knTtAWNgqF1lmm4KQXtI4aie1/YqM95js9YclWZkPDF+jeis1Ws+dEShmkJ9HcgGciXUNxYgvZ7aqxO2hF3PxRvUuEtN3CLXqhNKTpxalBZHhX+gRB+hBYHbCR6I3BjoT0+M6cYKzr0wM+s1bkD40rl0okYiSMnfKCnYjTWLdGE=;/WJPCpwTGVUjfULj09zRcw=="
+secured: "jTGtmGaqoFe5zZp/idF0emdijR9RvfZx9LMWaX05fv6SUkwCyJjLQc7EtPmEtkZkXyDhbIM0/QO+v3zrPIIk+eU/3nSUrRZ9KgIYXIPiSW0TkZH7RBOFooA/R1NSxiO8FD3HeX00MAu6Ob52Y2+3bajzwnTmgOypLuL4JpfAtSF+inns2QJLPWvLhhKjdN2jpHNOhNqlRKdVrSEri2XuEcaiBlqW4CoPplzNsRhrfiDFiuLAV4RociCWzSVoChy+5+CVJQ8mmMqyxVSbPiMcE2bm8zOTP9AupVk3JD+e9fwJVk9FzkvpCK8jhks6sC09;rcFKkkH4soMxiodVBnWlrA=="
 ---
 

@@ -24,17 +24,19 @@ images:
     title: "Disappearing-People - Person removal from complex backgrounds over time."
 
 related:
-  - title: "Clever Browser Tool Erases People From Live Webcam Feeds In Real Time"
+  - title: "Clever Browser Tool Erases People From Live Webcam Feeds in Real Time"
     excerpt: "Mayes is a Google web engineer who developed his Disappearing-People tool using Javascript and TensorFlow, which is Google’s free, open source software library that allows the terrifying potential of artificial intelligence and deep learning to be applied to less terrifying applications. In this case, the neural network works to determine ..."
-    publishedDateTime: 2020-02-24T21:27:00Z
-    webUrl: "https://www.gizmodo.com.au/2020/02/clever-browser-tool-erases-people-from-live-webcam-feeds-in-real-time/"
+    publishedDateTime: 2020-02-24T23:08:00Z
+    webUrl: "https://gizmodo.com/clever-browser-tool-erases-people-from-live-webcam-feed-1841886899"
+    ampWebUrl: "https://gizmodo.com/clever-browser-tool-erases-people-from-live-webcam-feed-1841886899/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/clever-browser-tool-erases-people-from-live-webcam-feed-1841886899/amp"
     type: article
     provider:
-      name: Gizmodo Australia
-      domain: gizmodo.com.au
-    quality: 24
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 74
     images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_lfill,w_1200,h_628,q_90/rn8juxshvtinyw3oh5te.jpg"
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/s--kY9EtKmN--/c_scale,f_auto,fl_progressive,q_80,w_800/rn8juxshvtinyw3oh5te.jpg"
         width: 800
         height: 450
 

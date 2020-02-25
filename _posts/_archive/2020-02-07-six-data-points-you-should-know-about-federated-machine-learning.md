@@ -38,6 +38,6 @@ related:
       domain: itproportal.com
     quality: 20
 
-secured: "uNGJEKQaynICJHI9B6cmDOzBi4UNSzjQB/ZZGAJbMOzIwG08qaQEvUKytlUhGoA2bh4ggeXGycTw7UnKrx0WY5ksFhv0IDjYevPl2reyX+GfUeo4eFS28mqFG4DBvOc/Oc7MTgtB86lcCyAMqkXu/KKv1abs2mdkSn718smcoeHh+dVOu58jCUfxBxoXYVXOl4Duo1D72/vCgHHl3JEqL/olboR+91wJhnuYrE6BnMPTAK1lRpzfWf9Dltjb34wS90b3NC2ETQcaUgpJHPpdQ6KORhxU3qY+tYitey5uprJ81VntFbxuOYyqFtsj8+5o;knaB+97yS8iyqp2mB7TJoA=="
+secured: "S0R2x82Rr8wCUxEnWCqTLaJxUYYPO35J680PiyO4oWfjq/7bFUwUUiLjh4zZVKGbs2DueJ9E8fb+xU9xic8IQcJdMj+7pY0UVs8QPS2+XL0pu1h2rls42lIj7Cy+ZIl/lHyoQXGFeo3/1WlVlzWJ78ZaZ1ePo1BPOsOUqAm39Gs9WyZ8d6C/WSmesAEz33gkVIWYfsbwJCZjTmRW+FsuZ/bvxx9mQI1yeZo6mGb3Jrz80BpEnOmvElklUpS6wRzvqP9PArR73dZ3nFOoJvGutPsASrLD6FZ1IcbDwfRzfRhH/ahsrWp54xDowMulkKJx;688v0q6IDlvl9QeLKukRug=="
 ---
 

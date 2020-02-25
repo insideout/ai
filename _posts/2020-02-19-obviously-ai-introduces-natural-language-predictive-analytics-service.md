@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/obviously-ai-introduces-nat
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/obviously-ai-introduces-natural-language-predictive-analytics-service/"
 type: article
 quality: 91
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -44,6 +44,19 @@ related:
       - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/128215-0220_CloudContactCenter_480x610_new-ORG.png"
         width: 480
         height: 610
+  - title: "Obviously AI Rolls Out First Natural Language-Powered Machine Learning Platform for Predicting Outcomes from Any Data"
+    excerpt: "It’s amazing what marketers, salespeople and other non-technical business users can learn when they use our platform.” How it works To make predictions, Obviously AI uses state-of-the-art natural language processing to break apart a question, interpret it and find the right data. Then it runs hundreds of machine learning algorithms in ..."
+    publishedDateTime: 2020-02-24T23:14:00Z
+    webUrl: "https://apnews.com/ACCESSWIRE/119a9f1196c437937a0ae489b53dd2a0"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 16
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
   - title: "Obviously AI Rolls Out First Natural Language-Powered Machine Learning Platform for Predicting Outcomes from Any Data"
     excerpt: "No-Code Machine Learning Platform makes data science effortless by enabling anyone to run predictions and analytics using natural language questions BERKELEY, CA / ACCESSWIRE / February 19, 2020 / Data at organizations can be incredibly siloed, difficult to access, and overwhelming for thousands of business users across the globe. From finding ..."
     publishedDateTime: 2020-02-19T12:08:00Z

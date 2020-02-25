@@ -27,6 +27,6 @@ images:
     height: 800
     title: "Changemakers in AI report on AI ethics and societal impact"
 
-secured: "q8c7sqfOTeu4Yd08ohwPI3f0ajReDrrUjrdFDaILCXeQBK/1jhLR+kNAf9yyBTte6sZcqOEzWY/qM7uRdSOUaB2xSQ1WBb5RB3vcY/efI7Qz3jw18bv3++TmbyL7IQg/dr1ykYkgwQ2nISvwwSvBo8pDCoiNo4VvwIVwe7u73j8dG9OqgbAyEDac+Xag+VirqZ52LJyn78/G2PHYzsvwUNZeqoWUNaobjLzyH514XfhYtQw+9lGP/+9eXgH9mWloLiRWIP42CqJRy/eiJl3o7cmWtONjmDOe2XHMvckuI//Q8aV9OINBuTVeznRLFl2a;TGeQJlhudjEXU2YQJlkh7w=="
+secured: "XBYaevEnbue/e9mD9uVCTiEZp7sNEv7QvqliH+Bg+JU8M+jFwGjtmpHlffWerRwwHao0qe1w1nqUL+LEU65JhbQ/Is9wWSaeNedoSkjfPS6oWDQmbLA0gRvYr7H5AYbWTknXs6TR4u7ob5FYIgm3mB9wLwtusz596jbkk6lSqGlZBTnj0I/PvzX7MPniH+d0qcaQp4f/z2BMl3uvuvtsSbaK74BTt8+/OKmk9hCNtuKFkWapvCHFsvdKWpIvgXpqYzXdXYOcJkRVsQdMJUf+UPwVfgO4XaVq2JWwEU5V09IBL62Ges6rAbAyijuY5tc+;fWhveAb+nXg5A4mXCnS78w=="
 ---
 

@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Fortinet Introduces Self-Learning Artificial Intelligence Appliance for Sub-Second Threat Detection"
-excerpt: "FortiAI’s self-learning capabilities continue to get smarter once deployed in an organization’s network. FortiAI leverages Deep Learning known as Deep Neural Networks, which mimic neurons in the human brain, to make complex decisions based on its scientific analysis of threats specific to the organization where it is deployed. As FortiAI ..."
-publishedDateTime: 2020-02-24T20:09:00Z
-webUrl: "https://www.tmcnet.com/usubmit/-fortinet-introduces-self-learning-artificial-intelligence-appliance-sub-/2020/02/24/9102826.htm"
+excerpt: "FortiAI Leverages Deep Neural Networks to Automate Threat Detection and Remediation, Expanding Fortinet’s AI-driven Security Offerings"
+publishedDateTime: 2020-02-24T14:00:00Z
+webUrl: "https://www.globenewswire.com/news-release/2020/02/24/1989284/0/en/Fortinet-Introduces-Self-Learning-Artificial-Intelligence-Appliance-for-Sub-Second-Threat-Detection.html"
 type: article
-quality: 25
-heat: 25
+quality: 5
+heat: 5
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: GlobeNewswire
+  domain: globenewswire.com
 
 topics:
   - AI
   - Machine Learning
 
-images:
-  - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
-    width: 252
-    height: 335
-    title: "Fortinet Introduces Self-Learning Artificial Intelligence Appliance for Sub-Second Threat Detection"
-
-secured: "wFeFfKyuLUkRWenkTIAFnWhWfPEVLOH19xlMkd2GhTduHw8VMNO0QKIUIOd++R/YJbsG2qWKzVDMg8Tz1F3s+A5/QADY84KLUjcvOHWb/W0KhAn0idHJSxbQ1xVvBH9+kKmRku2LQaEOfXu9Xq4RAiPKhk2bREGqXOhfutoV8yKzDk9fHbNM9h5w8/1XIx67M2ZEgaOuyeDrABgFIMBqgBWSN0McCMBQ+M5t/8rPYJ9Eu+mK4hfSJpza2bVlLxot4jT0Wgztek32ClzabZ/bkwWZl/05tNQWA7MsyVdFefUBFe0yZCdCqaZDuioO3tD9;mofLiSzaskIEpbB0NpyZ5A=="
+secured: "XVhuZrx0JqmCURsCN3Q8uBSruQgu4KDMdUJFIKQwp08XRfWBfbTetpsQri8oI/0MZHpZTAwaY6cqJvUqEH4sz8FbanKsBsIuSiOH64yTKyjzQatuxkIllJixDZsEUezhY7L5eQ/NMBIJHvB2zVKgnUjQRgLw9V24xQDcCGDlIkga7dixVXuHi3SgjHI8cvAjhj8ztD+CD/IezIPjpDZmkPir/NNwl0rnBAP7Id9nbQNhe9gzAxzhL1ceLZkrU+wHX8MTKOWtY6IZP4RG6FvwhaK5We1KbF+6mjCBuuu3bIlUP4R8yBmxxgCGlwQZmKBc;qzhQErOYELNS0Gl09x60hQ=="
 ---
 

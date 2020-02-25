@@ -38,6 +38,19 @@ related:
       - url: "https://mms.businesswire.com/media/20200219005851/en/774458/23/Viz.ai_Logo_Blue_Horizontal.jpg"
         width: 1200
         height: 627
+  - title: "Viz.ai Adds Next Generation Functionality to Artificial Intelligence Stroke Platform"
+    excerpt: "Viz.ai, the leader in applied artificial intelligence in healthcare, today launched the next generation of its synchronized care platform for stroke. Viz.ai incorporates cutting edge artificial intelligence with HIPAA-compliant communication to allow stroke teams to quickly and efficiently triage patients to time-sensitive care with the aim of ..."
+    publishedDateTime: 2020-02-24T22:58:00Z
+    webUrl: "https://apnews.com/Business Wire/5ee81850c98c47a283cd1ff42d2654ef"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 47
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
   - title: "Signal AI Introduces the Next Generation of Artificial Intelligence With the Launch of AIQ"
     excerpt: "LONDON--(BUSINESS WIRE)--Today, Signal AI, one of the leading companies transforming how business leaders make sense of the world’s information, has announced the launch of AIQ, the next generation of AI technology powering their media monitoring and market intelligence platform. AIQ enhances the proprietary artificial intelligence ..."
     publishedDateTime: 2020-02-19T08:29:00Z

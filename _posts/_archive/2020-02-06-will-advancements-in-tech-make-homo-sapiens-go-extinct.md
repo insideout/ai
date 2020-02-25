@@ -29,6 +29,6 @@ images:
     height: 640
     title: "Will Advancements In Tech Make Homo Sapiens Go Extinct?"
 
-secured: "JEF83UhXobfXndoI8JOnAAtIbopbaBobEM6sEJLAUat0B7yXAYCVdanuN5kPC5ZA7CyaLMdTaXMpfMzlI3RXQEhKduD3ph1ypIBQ1B7dT9dSlVvxJZRUqa/x0A+GJDGEH2MFD69g5MqKp7tbmP2Qu6pnAPI/POyDW+DlDSVyFyxI476rZu9D9SpRIUfKewAD3+cO1posqU8AryjUECUWTYK0kWCATEpcNGpYYiszajxZ8q4DC3WP3/UsPUAj4jpE0J4c6ruxRzr23eQrRTifAonmMg/HBJl2e9sim0gQ8Q0ref0zcH7jazFECgNwW3pB;gWH5ruq0/RkkFw7mE3Pc2w=="
+secured: "Xk3QKLwkL5NEYuX3iiUpK0uXjSyZlMnNXsjfV5q3y6Os1a/QCcYai2/gsByXooajf+THN+b0tojnR92EGo8sJ/9ezgaxS8+vtjP75ZH2Slr3o9P2c5IHY2smFtFo4PQxchRG3XpTXUKuRgj+ifW55FLaRlhUrI7lA7L68kMVvijXJtJW58H4DxAFZ+L7YUSQ2MME/Rf5pIlb6AnVYV87MZJ3YLg4CA16zEaqD3yxtvP6za0Qw9i12M+LNDvMcF/PK98Bm/tiH1AD89je78lhb2UaEBcEgDBBdNp8WgyA+nYpdn0Oj5Gxm8+mo8p2WqcL;p+Cw9UYGoAAiDgfhcmc3bg=="
 ---
 
