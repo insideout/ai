@@ -250,15 +250,6 @@ related:
       name: MediaPost
       domain: mediapost.com
     quality: 19
-  - title: "Self-Driving Cars as Edge Computing Devices"
-    excerpt: "Matt Ranney explains the architecture of Uber ATG’s self-driving cars and takes a look at how the software is developed, tested, and deployed. Jade Abbott discusses machine learning and the unexpected details of putting models in production besides just the code, model and infrastructure: DataOps, robustness and uncertainty tests, model drift ..."
-    publishedDateTime: 2020-02-10T22:40:00Z
-    webUrl: "https://www.infoq.com/presentations/uber-atg/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 4
   - title: "Self-driving cars are being tested all over Houston"
     excerpt: "From West University to Texas Southern University, self-driving cars are all around Houston. But how soon will it be before there are no drivers in them?"
     publishedDateTime: 2020-02-11T01:00:00Z

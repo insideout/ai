@@ -2,6 +2,43 @@
   "page": 18,
   "value": [
     {
+      "path": "_posts/_archive/2020-01-24-how-artificial-intelligence-is-progressing-in-mental-healthcare.md",
+      "title": "How Artificial Intelligence is progressing in mental healthcare",
+      "excerpt": "Over the years, Artificial Intelligence (AI) tools have been used to fill gaps in mental health care: be it the diagnosis or detection of the early signs of mental health issues. Now, researchers ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.livemint.com/mint-lounge/features/how-artificial-intelligence-is-progressing-in-mental-healthcare-11579878039985.html",
+      "ampWebUrl": "https://www.livemint.com/mint-lounge/features/how-artificial-intelligence-is-progressing-in-mental-healthcare/amp-11579878039985.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/mint-lounge/features/how-artificial-intelligence-is-progressing-in-mental-healthcare/amp-11579878039985.html",
+      "publishedDateTime": "2020-01-24T07:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2020/01/24/600x338/Asset_1579878227723.jpg",
+          "width": 600,
+          "height": 337,
+          "title": "How Artificial Intelligence is progressing in mental healthcare",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-24-im-obsessed-with-the-circle-and-its-ridiculous-voice-assistant.md",
       "title": "I'm obsessed with 'The Circle' and its ridiculous voice assistant",
       "excerpt": "But it's tough to ignore all the low-budget technology knowing that it's possible to up to ante. Do I expect Netflix to come back in Season 2 with voice recognition? Absolutely not. However, I do hope they find ways to make it less obvious that there is a literal human sitting in some production room trying to transcribe all the messages as ...",
@@ -2135,50 +2172,6 @@
       "topics": [
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-27-software-developers-can-create-better-programs-with-ai.md",
-      "title": "Software developers can create better programs with AI",
-      "excerpt": "And despite the best efforts of programmers and other pros, finished applications can be hampered by bugs. One factor that can alleviate some of these obstacles is artificial intelligence (AI), according to a new report from Deloitte. SEE: Managing AI and ML in the enterprise 2019: Tech leaders expect more difficulty than previous IT projects ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/software-developers-can-create-better-programs-with-ai/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/software-developers-can-create-better-programs-with-ai/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/software-developers-can-create-better-programs-with-ai/",
-      "publishedDateTime": "2020-01-27T10:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2019/04/09/a33f1b50-d50c-49b6-982d-0a7075fb78e8/resize/1200x/cd334e92d3b4e6c98d332bc696ea00b2/istock-904420104-1.jpg",
-          "width": 1200,
-          "height": 771,
-          "title": "Software developers can create better programs with AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -20,11 +20,11 @@ topics:
   - AI in Autos
 
 images:
-  - url: "https://www.telegraph.co.uk/content/dam/technology/2019/03/08/graphcore-1_trans_NvBQzQNjv4BqnY32puTRmJBD0IQz1kt_ZVqZFC3fB4GuhEoILEGfoek.png"
-    width: 1402
-    height: 876
+  - url: "https://www.telegraph.co.uk/content/dam/insurance/2016/08/12/driver_worried_trans_NvBQzQNjv4BqFmZwAHfbzbyjsBBHX-5JhxNmQMFlhh5Vi0wobcrJe4w.jpg"
+    width: 640
+    height: 400
     title: "Bristol’s Graphcore taps investors for $75m to gain edge on AI chips"
 
-secured: "+a/A6HiwRjzZwL/epNgS7nwPUo8eOfThvco/LTlm/Z39ZDtCxtGKnuIr2oJscpOLbZe8PrzI5huC4JekCwqwl/S8gQyXO1qzYQTTc2uenGJT0tqKiYsCtuXKluRXH09HkP+h7z6GZfLYNeo4r5BMp3I/rllyS0tGMFu8OaEp0rU6YYnTEblfhee0+0dCDsVYQQnYeDIWY3bSyLBcmwdqx+DVWv9dcd1UiVAdCyI3D5J1IGVU5PxI0gQjL/wRbcoru9mcaZ5FhQD9LTXhktCCryji6Zny/WBPn7OtPtPlIV/pcFY9kCBypV2Of4ry6LAi;4DlnNAOmzFP24hO/o4ELVg=="
+secured: "5c/Ha1su7AG/We54IpJBMN9/V+KmOIbQhKTfR4oHaj2Vt84uI2pl8N4Xu+Dv6ScMiWKB5lwczvrsN5kRFFK+eqc1v/lx281UshyPEv0S+Kb74vnnCPyI0fFjdTfKky8g2agSAyxnmqiAnhtPw7K7ndg06vdci6wlEfB1AzgR4/mXH5AHQZy1idKjIxGJUqrGWVzyDiZHon5Yz8ahiY1MlcDKnJuH0NnN7IXem7OwJz11sFQTQXHZ0wocPxH0SazALpIzwqJve3Pk/0HK78iBnJ/No3VAuJsDk6B4BUuudTUB9CUObIFJO8zWOXhIdzzo;gysv5tDzRcmQ21JIAv63cw=="
 ---
 

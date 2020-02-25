@@ -37,6 +37,15 @@ related:
       - url: "https://mms.businesswire.com/media/20200218005827/en/371054/23/ResearchAndMarkets_800px.jpg"
         width: 1200
         height: 627
+  - title: "The Business Use of Artificial Intelligence Course (Dubai, United Arab Emirates - April 8-9, 2020) - ResearchAndMarkets.com"
+    excerpt: "Organizations today are applying artificial intelligence capabilities to a wide variety of uses especially in operations ... Jobs change dramatically, current skill become obsolete and displaced, there may exist resistance to change and unrealistic fear of robots taking over as well as other aspects of automation. This was true when automation ..."
+    publishedDateTime: 2020-02-25T13:41:00Z
+    webUrl: "https://www.oaoa.com/news/business/article_638f00ed-10ff-54bb-86d3-4566979ca02d.html"
+    type: article
+    provider:
+      name: Odessa American
+      domain: oaoa.com
+    quality: 8
 
 secured: "6MdwAQ8Vj40d3k3nZ0QObKc7nMuKDix+NiiE6bXj9uXp0oe/36wreKJeaB5GgX+WrmbdXqvs5SLsPk95wQFEFXaaQh2x/7CO/lQrjxnZ4uMoiA/rMW2fdVEyDvbIcpy/BbAnAIJU7+mWm2kMOrOc20gnjA3zf/RZ+CK4w7tNkSlW8rFcPHVtvwxSi/MBQLeqIakev4dPFkBI1En0l9D+VSYhpXIIAoI1BYnJJYgkM4V5DTO86/i3PodAbrMRAP/ZrZ9tXkSkjN4kXG7L9k4gf9/XIepEYZazWawbOZPU03CJlxEBiSPuXC0bPkSClG+8lhZ/yf67TWFxNVB//6BFPAhx3O73CSszHutz/zTY6rJrowLfU0w1cdts/zkYaI81/y+7l4r8O2foX7pKsXtKTnf+5xFNNv/8jjGdiLmkD7RfnX6pSlcbVEKM0JTPbE+imXWIWP5Tnc6aySg7+1G0irla6J/DdFfGHvUB9cKrmlQ=;zZtv3q3BIxtxndnwUsj0/g=="
 ---

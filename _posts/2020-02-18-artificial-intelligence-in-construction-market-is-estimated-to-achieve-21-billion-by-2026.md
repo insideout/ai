@@ -82,6 +82,19 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 49
+  - title: "Artificial Intelligence in Retail Market Is Set To Revolutionary Growth at a CAGR of 35.9% to Reach $15.3 billion by 2025 | Meticulous Research"
+    excerpt: "Meticulous Research – leading global market research company published a research report"
+    publishedDateTime: 2020-02-25T10:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-is-set-to-revolutionary-growth-at-a-cagr-of-359-to-reach-153-billion-by-2025-meticulous-research-2020-02-25?mod=mw_quote_news"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Automotive Artificial Intelligence Market is Expected to Grow at a CAGR of 41.0% to Reach $ 18.7 Billion by 2025 | Meticulous Research(R)"
     excerpt: "Meticulous Research® – leading global market research company researching on market titled “Automotive Artificial Intelligence Market by Offering (Hardware, Software), Technology (Machine Learning, Deep Learning,"
     publishedDateTime: 2020-02-19T14:47:00Z

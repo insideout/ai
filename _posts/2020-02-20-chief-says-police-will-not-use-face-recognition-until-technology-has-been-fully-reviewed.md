@@ -18,36 +18,36 @@ topics:
   - Computer Vision
 
 related:
-  - title: "Should Government Halt the Use of Facial-Recognition Technology?"
-    excerpt: "Critics say false positives are far higher for some groups of people than for others, but supporters of the technology says the actual numbers involved are tiny."
-    publishedDateTime: 2020-02-24T04:11:00Z
-    webUrl: "https://www.wsj.com/articles/should-government-halt-the-use-of-facial-recognition-technology-11582513260"
-    ampWebUrl: "https://www.wsj.com/amp/articles/should-government-halt-the-use-of-facial-recognition-technology-11582513260"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/should-government-halt-the-use-of-facial-recognition-technology-11582513260"
+  - title: "Met Police chief defends facial recognition from 'ill-informed' critics"
+    excerpt: "London's police chief has defended the use of facial recognition technology, labelling critics \"ill-informed\". Dame Cressida Dick said eight criminals had been caught using the controversial live facial recognition cameras. She said \"inaccurate\" critics should \"justify to the victims of those crimes why police should not be allowed to use tech..."
+    publishedDateTime: 2020-02-25T15:11:00Z
+    webUrl: "https://www.bbc.com/news/technology-51628833"
+    ampWebUrl: "https://www.bbc.com/news/amp/technology-51628833"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51628833"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 74
+      name: BBC
+      domain: bbc.com
+    quality: 89
     images:
-      - url: "https://images.wsj.net/im-156193/social"
-        width: 1280
-        height: 640
-  - title: "Facial Recognition Technology Is the New Rogues’ Gallery"
-    excerpt: "Fueled by explosive reporting, foreign totalitarian regimes, and a lifetime of dystopian sci-fi, the movement to ban the government’s use of face recognition technology is growing. As of now, seven cities across the country—San Francisco, Oakland, and Berkeley in California, and Brookline, Somerville, Northampton, and Cambridge in ..."
-    publishedDateTime: 2020-02-17T10:45:00Z
-    webUrl: "https://slate.com/technology/2020/02/rogues-gallery-facial-recognition-technology-history.html"
-    ampWebUrl: "https://slate.com/technology/2020/02/rogues-gallery-facial-recognition-technology-history.amp"
-    cdnAmpWebUrl: "https://slate-com.cdn.ampproject.org/c/s/slate.com/technology/2020/02/rogues-gallery-facial-recognition-technology-history.amp"
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/BA4C/production/_111029674_gettyimages-1134218905.jpg"
+        width: 1024
+        height: 576
+  - title: "Met Police's first facial recognition cameras spot NO offenders and are branded a failure"
+    excerpt: "New police face recognition cameras have been branded a failure after spotting no suspects in hours of surveillance. The UK’s biggest force was accused of wasting taxpayer cash after the devices failed to find a single match despite scanning 4,600 ..."
+    publishedDateTime: 2020-02-20T22:37:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-8026771/Met-Polices-facial-recognition-cameras-spot-NO-offenders-branded-failure.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-8026771/amp/Met-Polices-facial-recognition-cameras-spot-NO-offenders-branded-failure.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-8026771/amp/Met-Polices-facial-recognition-cameras-spot-NO-offenders-branded-failure.html"
     type: article
     provider:
-      name: Slate
-      domain: slate.com
-    quality: 59
+      name: Mail Online
+      domain: dailymail.co.uk
+    quality: 65
     images:
-      - url: "https://compote.slate.com/images/98a4ad17-4082-4a99-a71e-75514dd0625f.jpeg?width=780&height=520&rect=780x520&offset=0x0"
-        width: 780
-        height: 520
+      - url: "https://i.dailymail.co.uk/1s/2020/02/20/22/24998426-0-image-a-11_1582237916016.jpg"
+        width: 636
+        height: 382
   - title: "Met police chief: facial recognition technology critics are ill-informed"
     excerpt: "Cressida Dick defends tech after civil liberties groups raise fears over accuracy and privacy"
     publishedDateTime: 2020-02-24T15:43:00Z
@@ -78,28 +78,56 @@ related:
       - url: "https://www.belfasttelegraph.co.uk/news/uk/20e5a/38984986.ece/alternates/w700/bpanews_036c0fc6-e90b-4b02-8fd6-310400dc250d_1"
         width: 700
         height: 435
-  - title: "Washington State moves ahead on bill to regulate governments’ use of facial-recognition technology"
-    excerpt: "OLYMPIA, Wash. — Washington state senators Wednesday approved a bill that would begin regulating the use of facial-recognition programs by local and state governments. Sponsored by Democratic state Sen."
-    publishedDateTime: 2020-02-20T03:03:00Z
-    webUrl: "https://www.omaha.com/news/national/washington-state-moves-ahead-on-bill-to-regulate-governments-use/article_81a5a78c-4b22-548f-b17f-95e8e5e84552.html"
+  - title: "Police roll out controversial live facial recognition technology at Oxford Circus"
+    excerpt: "Scotland Yard has installed controversial facial recognition technology at Oxford Circus. The cameras were spotted mounted on vans in the area, one of the busiest in London, this morning. One dark blue van was captured in a picture posted by UK civil liberties group Big Brother Watch next to a sign reading: \"Police live facial recognition in use.\""
+    publishedDateTime: 2020-02-20T16:46:00Z
+    webUrl: "https://www.standard.co.uk/news/london/police-roll-out-controversial-live-facial-recognition-technology-at-oxford-circus-a4367416.html"
     type: article
     provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 10
+      name: London Evening Standard
+      domain: standard.co.uk
+    quality: 34
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/custom/image/9595a7a2-2379-11e7-b3c5-13eacc36a918.jpg"
-        width: 1200
-        height: 630
-  - title: "Washington Senate passes bill to regulate governments’ use of facial-recognition technology"
-    excerpt: "OLYMPIA — Washington state senators Wednesday approved a bill that would begin regulating the use of facial-recognition programs by local and state governments. Sponsored by Sen. Joe Nguyen, D-White Center, Senate Bill 6280 is one of a series of legislative proposals this year to counter technology that is evolving fast, regulated little and ..."
-    publishedDateTime: 2020-02-20T02:25:00Z
-    webUrl: "https://www.seattletimes.com/seattle-news/politics/washington-senate-passes-bill-to-regulate-governments-use-of-facial-recognition-technology/"
+      - url: "https://static.standard.co.uk/s3fs-public/thumbnails/image/2018/03/21/09/poetry-london-underground.jpg"
+        width: 1500
+        height: 1000
+  - title: "Let police use facial recognition to fight knife crime, urges Met chief Cressida Dick"
+    excerpt: "Britain’s most senior police officer has criticised people who complain about their privacy being invaded by facial recognition cameras yet bare all on social media. Dame Cressida Dick, commissioner of the Metropolitan Police, said that privacy concerns over the cameras were outweighed by the need to protect the public from “a knife through ..."
+    publishedDateTime: 2020-02-24T21:34:00Z
+    webUrl: "https://www.thetimes.co.uk/edition/news/let-police-use-facial-recognition-to-fight-knife-crime-urges-met-chief-cressida-dick-smxtxnl28"
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 0
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 32
+    images:
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fe59a050e-5724-11ea-ae40-36d0719ad0bc.jpg?crop=5568%2C3132%2C0%2C290&resize=685"
+        width: 685
+        height: 385
+  - title: "London's top cop dismisses 'highly inaccurate or ill informed' facial-recognition critics, possibly ironically"
+    excerpt: "Huawei claims its Google Play replacement is in 'top 3' app stores after Trump turns off tap to the Chocolate Factory The head of London’s Metropolitan Police, Cressida Dick, has angered critics of facial recognition technology by accusing them of being ..."
+    publishedDateTime: 2020-02-25T13:45:00Z
+    webUrl: "https://www.theregister.co.uk/2020/02/25/uk_facial_recognition/"
+    ampWebUrl: "https://www.theregister.co.uk/AMP/2020/02/25/uk_facial_recognition/"
+    cdnAmpWebUrl: "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/02/25/uk_facial_recognition/"
+    type: article
+    provider:
+      name: The Register
+      domain: theregister.co.uk
+    quality: 24
+    images:
+      - url: "https://regmedia.co.uk/2020/02/24/cressida-dick.jpg"
+        width: 1000
+        height: 500
+  - title: "Met police deploy facial recognition technology in central London"
+    excerpt: "Metropolitan Police have deployed facial recognition technology in central London with just two hours’ notice, alarming citizens. Just across from the Microsoft store on London’s Regent ..."
+    publishedDateTime: 2020-02-21T10:26:00Z
+    webUrl: "https://tribune.com.pk/story/2161493/8-london-police-deploy-facial-recognition-technology-oxford-circus/"
+    type: article
+    provider:
+      name: The Express Tribune
+      domain: tribune.com.pk
+    quality: 19
 
 secured: "WUVjlsqVE2XxpvO3Ol9Z8T1MIqX29Ogysi+6+9QRmM1SqoxyUns2aH+BXlrjJtURVGJREcWqCG0SSiEsYNc5Gy2qcrk2LkatZfsEZ0bUm+Je3NqL2PgPjwOqnlu4+Nb3xoDvAvWTMRnAGUh+Psda5FfaVwEJZlHG9cYiZziVd7EjU7SPY0tK2eqARqQJSaRJ9WVy9357rkBxP8SX6dPkM6SsVqShx9ZlOyy8ehEs2u0mQ2mdCmFRI6hqDOjBZq6awtILkHd/RYOF2xwwtFFzsYsWmTrWmELGVS4QX8j3ghQUaxei9p97TutPaSsqsupK;h8vFS886fVcdSf0c5liZmw=="
 ---

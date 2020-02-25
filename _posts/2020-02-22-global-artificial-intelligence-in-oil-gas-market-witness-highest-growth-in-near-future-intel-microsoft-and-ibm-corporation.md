@@ -21,6 +21,19 @@ topics:
   - AI
 
 related:
+  - title: "Global Machine Learning Market Trends And Forecast 2020-2029| Google Inc., Baidu Inc and Amazon Web Services Inc"
+    excerpt: "Feb 25, 2020 (WiredRelease via COMTEX) -- Global Machine Learning Market (Revenue and Volume), Type, Application, End-User, and Regional Analysis, Import-Export Analysis, Industry Analysis, Premium Insights, Intellectual Property Analysis, Market Attractiveness, Competitive Landscape, Traders/Distributors, Key Buyers, Forecasts 2020 – 2029 ..."
+    publishedDateTime: 2020-02-25T13:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-market-trends-and-forecast-2020-2029-google-inc-baidu-inc-and-amazon-web-services-inc-2020-02-25?mod=mw_quote_news"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Global Automatic Speech Recognition Software Market Innovations, And Top Companies - Forecast To 2029| Baidu, Google and Facebook"
     excerpt: "Global Automatic Speech Recognition Software Market (Revenue and Volume), Type, Application, End-User, and Regional Analysis, Import-Export Analysis, Industry Analysis, Premium Insights, Intellectual Property Analysis,"
     publishedDateTime: 2020-02-24T12:28:00Z
@@ -30,6 +43,19 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence In Energy Market Size, Trend, Competitive Growth Overview and Forecast to 2025"
+    excerpt: "The Global Artificial Intelligence In Energy Market 2019 research provides a basic overview of the industry including definitions, classifications, applications, and industry chain structure. The Global Artificial Intelligence In Energy market analysis is provided for the international markets including development trends,"
+    publishedDateTime: 2020-02-19T10:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-energy-market-size-trend-competitive-growth-overview-and-forecast-to-2025-2020-02-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -47,47 +73,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Emotion Analysis: New Applications for Speech and Voice Analytics"
-    excerpt: "“Keyword spotting and voice recognition are important tools, although they work with just one dimension of data,” explained Amir Liberman, CEO of voice analytics technology provider Nemesysco. “Emotion detection and analysis allow us, much like a microscope, to observe behaviors and understand layers of information that were never ..."
-    publishedDateTime: 2020-02-24T14:24:00Z
-    webUrl: "https://thefutureofthings.com/14067-emotion-analysis-new-applications-for-speech-and-voice-analytics/"
-    ampWebUrl: "https://thefutureofthings.com/14067-emotion-analysis-new-applications-for-speech-and-voice-analytics/amp/"
-    cdnAmpWebUrl: "https://thefutureofthings-com.cdn.ampproject.org/c/s/thefutureofthings.com/14067-emotion-analysis-new-applications-for-speech-and-voice-analytics/amp/"
+  - title: "Global Artificial Intelligence-based Cybersecurity Market Analysis, Trends, and Forecasts 2020-2025 - ResearchAndMarkets.com"
+    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Artificial Intelligence-based Cybersecurity - Market Analysis, Trends, and Forecasts\" report has been added to ResearchAndMarkets.com's offering. Artificial Intelligence-based Cybersecurity market worldwide is projected to ..."
+    publishedDateTime: 2020-02-21T11:11:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200221005189/en/Global-Artificial-Intelligence-based-Cybersecurity-Market-Analysis-Trends"
     type: article
     provider:
-      name: Cancer
-      domain: thefutureofthings.com
-    quality: 44
+      name: Business Wire
+      domain: businesswire.com
+    quality: 10
     images:
-      - url: "https://thefutureofthings.com/wp-content/uploads/2020/02/speech-icon-2797263_1280-1024x1024.png"
-        width: 1024
-        height: 1024
-  - title: "Image Recognition Software Market is Booming Worldwide with Qualcomm Technologies, Microsoft, IBM, Google"
-    excerpt: "This intelligence report provides a comprehensive analysis of the Global Image Recognition Software Market. This includes Investigation of past progress, ongoing market scenarios, and future prospects."
-    publishedDateTime: 2020-02-21T16:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/image-recognition-software-market-is-booming-worldwide-with-qualcomm-technologies-microsoft-ibm-google-2020-02-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://mms.businesswire.com/media/20200221005189/en/371054/23/ResearchAndMarkets_800px.jpg"
         width: 1200
-        height: 630
-  - title: "Global Cognitive Data Management Market Future Growth| AttivioInc, CognitiveScaleInc and Cognizant Technology Solutions Corporation"
-    excerpt: "Global Cognitive Data Management Market (Revenue and Volume), Type, Application, End-User, and Regional Analysis, Import-Export Analysis, Industry Analysis, Premium Insights, Intellectual Property Analysis,"
-    publishedDateTime: 2020-02-21T09:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-cognitive-data-management-market-future-growth-attivioinc-cognitivescaleinc-and-cognizant-technology-solutions-corporation-2020-02-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 24
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+        height: 627
 
 secured: "wekiLGBJB1mJVvE2/L+4QVGP9t6JPEczHtUgWUbL5G+Gkfe2j5FKeJQk90bfCz6dwS1Z4nC28J7cwZY5SYziLjh5Z6uaLYHuOijNoU6hiwVhXYbgC4ZGd1497KsuSQM3OFxXyfdNqOYs6V9+WJ2PVeYzUrqNWEeelznpmbqlKb6mgB/xkY8jrnpktxR+2EKAGFhkZ79MtZZInpmy9IdBw+IV40JkR8Rcbpy4nHtV1ADCF7w613sHDzeAT0ZjQK7khOkgLSORowrgEs8h9vCGYsGUCz2Szxw9ST+SUUTdvDV6kewCJxWjLdW3uGTrry6F;R0PNWa3pdYbpvEBtQdxgdA=="
 ---

@@ -1,43 +1,24 @@
 ---
 category: news
 title: "OpsRamp Introduces AI-Driven Suggestions for Greater Transparency and Faster Incident Remediation"
-excerpt: "The OpsRamp Winter 2020 Release also introduces 19 new cloud monitoring integrations for Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP), along with dynamic topology maps for Azure and GCP. Highlights of the Winter 2020 Release include: AIOps: OpsQ is OpsRamp's intelligent event management, alert correlation ..."
+excerpt: "SAN JOSE, Calif., Feb. 25, 2020 (GLOBE NEWSWIRE) -- OpsRamp, a modern SaaS platform for hybrid infrastructure discovery, monitoring, management, and automation, today announced OpsQ Recommend Mode, an industry-leading capability for first-response and incident remediation."
 publishedDateTime: 2020-02-25T08:00:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/opsramp-introduces-ai-driven-suggestions-for-greater-transparency-and-faster-incident-remediation-1028934454"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/OpsRamp-Introduces-AI-Driven-Suggestions-for-Greater-Transparency-and-Faster-Incident-Remediation-1028934454"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/OpsRamp-Introduces-AI-Driven-Suggestions-for-Greater-Transparency-and-Faster-Incident-Remediation-1028934454"
+webUrl: "https://www.benzinga.com/pressreleases/20/02/g15401245/opsramp-introduces-ai-driven-suggestions-for-greater-transparency-and-faster-incident-remediation"
+ampWebUrl: "https://amp.benzinga.com/amp/content/15401245"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15401245"
 type: article
-quality: 56
-heat: 66
+quality: 26
+heat: 26
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
   - Microsoft AI
 
-related:
-  - title: "CyberX Announces Integration with Microsoft Azure Security Center for IoT, Joins Microsoft Intelligent Security Association"
-    excerpt: "According to Michal Braverman-Blumenstyk, CTO and GM, Cloud and AI Security Division at Microsoft Corp.: “CyberX’s IoT security platform and integration with the Microsoft Azure Security Center for IoT enables customers to go further and faster with IoT innovations that drive new revenue streams and operational efficiencies — without comp ..."
-    publishedDateTime: 2020-02-20T18:16:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200220005507/en/CyberX-Announces-Integration-Microsoft-Azure-Security-Center"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 28
-    images:
-      - url: "https://mms.businesswire.com/media/20200220005507/en/774439/23/cyberx.jpg"
-        width: 1200
-        height: 627
-
-secured: "YiqlbiI44B5rstVC9zIlIHKW8vxmzwEjHJPzYs8V39jqxlpo0ei3WEqyGUuUhnRk3qUotsNnQIdjDHYoSgCONFvkRL+Z771aLHF7wghcPjYfP30oMvZwI6ecFbnGBK4W7tdx7Uz0saDjqUuaRillhLVy8BtFWU5AvNAQF6htg/+5ze11rfVhUClky4OM3RayZu1ZpZ6142MIsrzZyXyfuSq4+xf/XQlAWbkbQX2UJlRA1msnNZsg7TSHxtYB8Wyci4ibDJ9hUk3MkQUxB5PEyZtq4/j63Xg8GNUXSM2CEyAA72vOw405L4LQjmyb9l8A;l1xnnkgoZLwiG8rVATG82A=="
+secured: "0rEXKfT1ZjM6qsm16lAGlB/Cn/4XDYJ1U4W3obywv7vFxIfEs3TNdP0GBxsHa7gVsbMK4o148tEjzL+0FqZRq+dydna5Dx+aFVMW/cJ7MYRmye7dsRm7n/EAV0UB8kYJPE1OIwB58FabpZsCXXRyE3Z7UqgakJ7bu8Ni0JBpyiQrVCJuKr8djpibzY60hcsJ4nV63hMzSGoSTTkrT/1/ckCeF2byPVFbm3vRQDYN8Oz/ZG9azB3Cqo+p09emgryiAmxkg9AvbO6HifSXCAHbVUQIpFVcV45ybEJ1iS0J+GRLcbITQzcGvKRmrKt5KfBE;tSbXq73OyJ4IuNV/XfriJQ=="
 ---
 

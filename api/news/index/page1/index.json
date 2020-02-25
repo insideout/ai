@@ -492,6 +492,43 @@
       ]
     },
     {
+      "path": "_posts/2020-02-11-facebook-acquires-third-ai-startup-in-uk-for-40m.md",
+      "title": "Facebook Acquires Third AI Startup In UK For $40M",
+      "excerpt": "Facebook acquires a new AI startup in Deeptide Ltd. The deal went almost unnoticed save for the blog post of Deeptide's founder back in December There was no disclosed acquisition cost but sources speculates it to be $40 million Facebook's \"acquire and conquer\" strategy has landed it another startup to boost its AI game.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.ibtimes.com/facebook-acquires-third-ai-startup-uk-40m-2919901",
+      "ampWebUrl": "https://www.ibtimes.com/facebook-acquires-third-ai-startup-uk-40m-2919901?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/facebook-acquires-third-ai-startup-uk-40m-2919901?amp=1",
+      "publishedDateTime": "2020-02-11T03:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/01/28/facebook-reports-it-is-closer-to-setting-up.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": "Facebook Acquires Third AI Startup In UK For $40M",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_posts/2020-02-11-global-artificial-intelligence-ai-in-healthcare-market-hits-record-value-of-usd-178-billion-by-2025.md",
       "title": "Global Artificial Intelligence (AI) in Healthcare Market Hits Record Value of USD 17.8 Billion By 2025",
       "excerpt": "The \"Global Artificial Intelligence (AI) in Healthcare Market Is Anticipated To Reach Around USD 17.8 Billion By 2025\" Research Report provides the newest industry data and industry future trends, allowing you to identify the products and end users driving Revenue growth and profitability.",
@@ -1458,51 +1495,6 @@
       ]
     },
     {
-      "path": "_posts/2020-02-11-three-ways-ai-and-ml-are-making-a-difference-in-healthcare-behind-the-scenes.md",
-      "title": "Three Ways AI And ML Are Making A Difference In Healthcare Behind The Scenes",
-      "excerpt": "AI and ML are revolutionizing many healthcare processes that, although not medical in nature, directly affect provider efficiency and productivity — as well as the patient experience.",
-      "heat": 131,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/02/10/three-ways-ai-and-ml-are-making-a-difference-in-healthcare-behind-the-scenes/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/02/10/three-ways-ai-and-ml-are-making-a-difference-in-healthcare-behind-the-scenes/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2020/02/10/three-ways-ai-and-ml-are-making-a-difference-in-healthcare-behind-the-scenes/amp/",
-      "publishedDateTime": "2020-02-10T16:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1199231029/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 474,
-          "title": "Three Ways AI And ML Are Making A Difference In Healthcare Behind The Scenes",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_posts/2020-02-11-to-protect-people-we-need-a-different-type-of-machine-learning.md",
       "title": "To protect people, we need a different type of machine learning",
       "excerpt": "But these measures haven’t solved the biggest security problem — an organization’s own people. Traditional machine learning methods that are used to detect threats at the machine layer aren’t equipped to account for the complexities of human relationships and behaviors across businesses over time. There is no concept of “state ...",
@@ -2034,50 +2026,6 @@
       ]
     },
     {
-      "path": "_posts/2020-02-12-four-ways-quantum-computing-will-change-artificial-intelligence-forever.md",
-      "title": "Four Ways Quantum Computing Will Change Artificial Intelligence Forever",
-      "excerpt": "Quantum computing is poised to change artificial intelligence and machine learning — forever. (Credit: Pixabay) If science were a dating app, quantum physics and machine learning probably wouldn’t be a match. They’re from completely different fields and often require completely different backgrounds and skills. But, throw in a little ...",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/@hello_31383/four-ways-quantum-computing-will-change-artificial-intelligence-forever-35d6ce6d9d6e",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-12T15:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/960/1*5jkZgg4XxVwYTYPY3vs17w.jpeg",
-          "width": 960,
-          "height": 640,
-          "title": "Four Ways Quantum Computing Will Change Artificial Intelligence Forever",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-12-how-to-teach-artificial-intelligence.md",
       "title": "How To Teach Artificial Intelligence",
       "excerpt": "Every high school graduate should have an appreciation of how AI is reshaping the economy and the career landscape—and the option of educational pathways that lead to college and meaningful high wage work.",
@@ -2159,6 +2107,51 @@
       "topics": [
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-12-lyft-touts-benefits-of-self-driving-cars-but-warns-of-second-order-effects.md",
+      "title": "Lyft touts benefits of self-driving cars, but warns of ‘second order’ effects",
+      "excerpt": "Autonomous cars will prove critical to the future of cities, according to Raj Kapoor, Lyft’s chief strategy officer and head of business for self-driving. But he added that riders may need to adjust their expectations and warned of unintended “second order” effects of the burgeoning driverless car industry. Kapoor was speaking at the Move ...",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/12/lyft-touts-benefits-of-self-driving-cars-but-warns-of-second-order-effects/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/12/lyft-touts-benefits-of-self-driving-cars-but-warns-of-second-order-effects/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/12/lyft-touts-benefits-of-self-driving-cars-but-warns-of-second-order-effects/amp/",
+      "publishedDateTime": "2020-02-12T02:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/Raj.jpg?fit=2286%2C1247&strip=all",
+          "width": 2286,
+          "height": 1247,
+          "title": "Lyft touts benefits of self-driving cars, but warns of ‘second order’ effects",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
       ]
     }
   ],

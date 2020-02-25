@@ -2,6 +2,43 @@
   "page": 10,
   "value": [
     {
+      "path": "_posts/_archive/2020-01-08-ambarella-collaborates-with-aws-and-enables-ai-on-connected-cameras-using-amazon-sagemaker-neo.md",
+      "title": "Ambarella collaborates with AWS and enables AI on connected cameras using Amazon SageMaker Neo",
+      "excerpt": "Ambarella, Inc., an artificial intelligence (AI) vision silicon company, announced that Ambarella and Amazon Web Services, Inc. (AWS) customers can now use Amazon SageMaker Neo to train machine learning (ML) models once and run them on any device equipped ...",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.sourcesecurity.com/news/ambarella-collaborates-aws-enables-ai-connected-co-12953-ga-co-1537871022-ga-npr.1578467051.html?ref=nav",
+      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/ambarella-collaborates-aws-enables-ai-connected-co-12953-ga-co-1537871022-ga-npr.1578467051.html",
+      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/ambarella-collaborates-aws-enables-ai-connected-co-12953-ga-co-1537871022-ga-npr.1578467051.html",
+      "publishedDateTime": "2020-01-08T03:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SourceSecurity",
+        "domain": "sourcesecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://security-img.scdn6.secure.raxcdn.com/news/612/uk-counter-unmanned-aircraft-strategy-to-tackle-malicious-drones-use-920x533.jpg",
+          "width": 612,
+          "height": 355,
+          "title": "Ambarella collaborates with AWS and enables AI on connected cameras using Amazon SageMaker Neo",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-08-artificial-humans-named-neon-are-stars-of-ces.md",
       "title": "'Artificial humans' named Neon are stars of CES",
       "excerpt": "Neon, the super-realistic digitally simulated avatar, has taken CES by storm. Build upon the Core R3 neural network, the Neon avatars can provide incredibly lifelike renderings of people to be used as AI assistants,",
@@ -2116,51 +2153,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-12-how-the-police-use-facial-recognition-and-where-it-falls-short.md",
-      "title": "How the Police Use Facial Recognition, and Where It Falls Short",
-      "excerpt": "So investigators turned to one of the oldest and largest facial recognition systems in the country: a statewide program based in Pinellas County, Fla., that began almost 20 years ago, when law ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nytimes.com/2020/01/12/technology/facial-recognition-police.html",
-      "ampWebUrl": "https://www.nytimes.com/2020/01/12/technology/facial-recognition-police.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/01/12/technology/facial-recognition-police.amp.html",
-      "publishedDateTime": "2020-01-12T14:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/01/11/multimedia/11pinellas/00pinellas-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": "How the Police Use Facial Recognition, and Where It Falls Short",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

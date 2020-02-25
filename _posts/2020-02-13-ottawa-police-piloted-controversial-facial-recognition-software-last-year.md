@@ -99,28 +99,6 @@ related:
       - url: "https://regmedia.co.uk/2020/02/20/shutterstock_cops_met_london.jpg"
         width: 648
         height: 429
-  - title: "Police roll out controversial live facial recognition technology at Oxford Circus"
-    excerpt: "Scotland Yard has installed controversial facial recognition technology at Oxford Circus. The cameras were spotted mounted on vans in the area, one of the busiest in London, this morning. One dark blue van was captured in a picture posted by UK civil liberties group Big Brother Watch next to a sign reading: \"Police live facial recognition in use.\""
-    publishedDateTime: 2020-02-20T16:46:00Z
-    webUrl: "https://www.standard.co.uk/news/london/police-roll-out-controversial-live-facial-recognition-technology-at-oxford-circus-a4367416.html"
-    type: article
-    provider:
-      name: London Evening Standard
-      domain: standard.co.uk
-    quality: 34
-    images:
-      - url: "https://static.standard.co.uk/s3fs-public/thumbnails/image/2018/03/21/09/poetry-london-underground.jpg"
-        width: 1500
-        height: 1000
-  - title: "Met police deploy facial recognition technology in central London"
-    excerpt: "Metropolitan Police have deployed facial recognition technology in central London with just two hours’ notice, alarming citizens. Just across from the Microsoft store on London’s Regent ..."
-    publishedDateTime: 2020-02-21T10:26:00Z
-    webUrl: "https://tribune.com.pk/story/2161493/8-london-police-deploy-facial-recognition-technology-oxford-circus/"
-    type: article
-    provider:
-      name: The Express Tribune
-      domain: tribune.com.pk
-    quality: 19
 
 secured: "VHcOOIVhkgz7SpwC/cgYUmIxzi1q3fE3bmoaSkIrh569dzFlQvzUXtdAMWDsMnunNcpo+/GUkJH03mWpWAvO0QKQUY14biI6FcBY5oyn7HUBjBhR2HuILWXY/YaUNrIlhOdnLASuaE8kXL3ifzfzOEWJhUC1sp3IgAxWiSSbBp1iMdw2bsAqBEPoo9QhnSMVr9YSu9iJreeUSI9Yy2tmOogSbPZ1SrjEh+jNaJStgTNyNXYGwztgye3mWyyZzZLR933ol+1mgzh2Sd2p8RqNmEOFVh17uo6VbS5ZFQMyJiSVKGXFZwDaToW0hUpJOuCO;9u3VcdF/gm3FqRsTE8uTAw=="
 ---

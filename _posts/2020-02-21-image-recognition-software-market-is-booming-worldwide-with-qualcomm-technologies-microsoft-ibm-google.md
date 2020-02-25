@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-21T16:47:00Z
 webUrl: "https://www.marketwatch.com/press-release/image-recognition-software-market-is-booming-worldwide-with-qualcomm-technologies-microsoft-ibm-google-2020-02-21"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -28,69 +28,15 @@ images:
     title: "Image Recognition Software Market is Booming Worldwide with Qualcomm Technologies, Microsoft, IBM, Google"
 
 related:
-  - title: "Global Automatic Speech Recognition Software Market Innovations, And Top Companies - Forecast To 2029| Baidu, Google and Facebook"
-    excerpt: "Global Automatic Speech Recognition Software Market (Revenue and Volume), Type, Application, End-User, and Regional Analysis, Import-Export Analysis, Industry Analysis, Premium Insights, Intellectual Property Analysis,"
-    publishedDateTime: 2020-02-24T12:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-automatic-speech-recognition-software-market-innovations-and-top-companies---forecast-to-2029-baidu-google-and-facebook-2020-02-24"
+  - title: "AI Image Recognition Market May See Big Move | Major Giants Google, Amazon Web Services, Qualcomm"
+    excerpt: "Click to get Global AI Image Recognition Market Research Sample PDF Copy Here @: https://www.htfmarketreport.com/sample ... 317 1218 sales@htfmarketreport.com Connect with us atLinkedIn | Facebook | Twitter COMTEX_362172815/2605/2020-02-18T19:27:06"
+    publishedDateTime: 2020-02-19T00:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-image-recognition-market-may-see-big-move-major-giants-google-amazon-web-services-qualcomm-2020-02-18"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Global Automatic Speech Recognition Market Attractiveness, Competitive Landscape and Forecasts to 2025"
-    excerpt: "The report on Automatic Speech Recognition market refers to 2020 as the base year to procure information pertaining to historical data, and extends a holistic data compilation stretching until 2025 for future prospects."
-    publishedDateTime: 2020-02-21T09:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-automatic-speech-recognition-market-attractiveness-competitive-landscape-and-forecasts-to-2025-2020-02-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Emotion Analysis: New Applications for Speech and Voice Analytics"
-    excerpt: "“Keyword spotting and voice recognition are important tools, although they work with just one dimension of data,” explained Amir Liberman, CEO of voice analytics technology provider Nemesysco. “Emotion detection and analysis allow us, much like a microscope, to observe behaviors and understand layers of information that were never ..."
-    publishedDateTime: 2020-02-24T14:24:00Z
-    webUrl: "https://thefutureofthings.com/14067-emotion-analysis-new-applications-for-speech-and-voice-analytics/"
-    ampWebUrl: "https://thefutureofthings.com/14067-emotion-analysis-new-applications-for-speech-and-voice-analytics/amp/"
-    cdnAmpWebUrl: "https://thefutureofthings-com.cdn.ampproject.org/c/s/thefutureofthings.com/14067-emotion-analysis-new-applications-for-speech-and-voice-analytics/amp/"
-    type: article
-    provider:
-      name: Cancer
-      domain: thefutureofthings.com
-    quality: 44
-    images:
-      - url: "https://thefutureofthings.com/wp-content/uploads/2020/02/speech-icon-2797263_1280-1024x1024.png"
-        width: 1024
-        height: 1024
-  - title: "Global Cognitive Data Management Market Future Growth| AttivioInc, CognitiveScaleInc and Cognizant Technology Solutions Corporation"
-    excerpt: "Global Cognitive Data Management Market (Revenue and Volume), Type, Application, End-User, and Regional Analysis, Import-Export Analysis, Industry Analysis, Premium Insights, Intellectual Property Analysis,"
-    publishedDateTime: 2020-02-21T09:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-cognitive-data-management-market-future-growth-attivioinc-cognitivescaleinc-and-cognizant-technology-solutions-corporation-2020-02-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 24
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Global Artificial Intelligence in Oil & Gas Market Witness Highest Growth in near future| Intel, Microsoft and IBM Corporation"
-    excerpt: "Global Artificial Intelligence in Oil & Gas Market (Revenue and Volume), Type, Application, End-User, and Regional Analysis, Import-Export Analysis, Industry Analysis, Premium Insights, Intellectual Property Analysis,"
-    publishedDateTime: 2020-02-22T09:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-oil-gas-market-witness-highest-growth-in-near-future-intel-microsoft-and-ibm-corporation-2020-02-22?mod=mw_quote_news"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 19
+    quality: 36
 
 secured: "AhnIcBk17+OKUptKF/X1uh9pVcRINtVcK7XNpAMRBWa3TGzyu+G+9oLW4TrOdxA2S732rVpQ+YwBLSZsIc/iQ/TSIGCEH+1dg5JbZWyhairA7s+g2vyVXlV99BXy7AjCZwfqJ3+YD5gbsI7DlbqBdAqcSFSC3XDQVHezx096BLb63b9f4/lpxtGA2+1FagHH3iulkXaCP0kToVI/lIncy1WKlIkQFVDmtnZiDZ+TbJgFjfj3PFIDmpFRieFDRraNcookFrKJvuWU32FIxXUEn/79uEGTIh5oBvVWchupk/gnWhCIn1HQiXqgvu6pS93E;xU7GlJabhRmFWe/JzlN1PA=="
 ---

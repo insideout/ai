@@ -2,6 +2,43 @@
   "page": 14,
   "value": [
     {
+      "path": "_posts/_archive/2020-01-17-frost-sullivan-value-creation-from-artificial-intelligence-remains-a-priority.md",
+      "title": "Frost & Sullivan: Value creation from artificial intelligence remains a priority",
+      "excerpt": "According to Wong, there is already a pervasive adoption of artificial intelligence across industries such as manufacturing, healthcare, retail, and the public sector. Early success in those industries is likely to further influence the examination of new applications of the technology to enhance competitiveness in today’s digital age.",
+      "heat": 69,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techwireasia.com/2020/01/frost-sullivan-value-creation-from-artificial-intelligence-remains-a-priority/",
+      "ampWebUrl": "https://techwireasia.com/amp/2020/01/frost-sullivan-value-creation-from-artificial-intelligence-remains-a-priority/",
+      "cdnAmpWebUrl": "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2020/01/frost-sullivan-value-creation-from-artificial-intelligence-remains-a-priority/",
+      "publishedDateTime": "2020-01-17T07:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techwireasia.com",
+        "domain": "techwireasia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techwireasia.global.ssl.fastly.net/wp-content/uploads/2020/01/shutterstock_165333119.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": "Frost & Sullivan: Value creation from artificial intelligence remains a priority",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-17-gap-nixes-plan-to-spin-off-old-navy-amid-cost-complexity.md",
       "title": "Gap nixes plan to spin off Old Navy amid cost, complexity",
       "excerpt": "Also: Gap picks Microsoft Azure as preferred cloud vendor: Here's a look at the digital transformation ... Either way, Gap will have a laundry list of projects including: Data analytics and data science infrastructure. Machine learning efforts to improve marketing and supply chain. Customer targeting. Executing a mobile-first strategy.",
@@ -2100,51 +2137,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-20-darpa-backed-soft-robotics-raises-23-million-for-autonomous-grippers-and-sorters.md",
-      "title": "DARPA-backed Soft Robotics raises $23 million for autonomous grippers and sorters",
-      "excerpt": "As for the SuperPick, it’s a robot-agnostic solution comprising a vision system and AI engine that reports real-time metrics ... Sign up for Funding Weekly to start your week with VB's top funding stories.",
-      "heat": 124,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/20/darpa-backed-soft-robotics-raises-23-million-for-autonomous-grippers-and-sorters/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/20/darpa-backed-soft-robotics-raises-23-million-for-autonomous-grippers-and-sorters/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/20/darpa-backed-soft-robotics-raises-23-million-for-autonomous-grippers-and-sorters/amp/",
-      "publishedDateTime": "2020-01-20T10:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/SoftRobotics_Eggs-e1579543568131.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "DARPA-backed Soft Robotics raises $23 million for autonomous grippers and sorters",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

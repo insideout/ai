@@ -1,26 +1,26 @@
 ---
 category: news
 title: "EU proposes rules for artificial intelligence to limit risks"
-excerpt: "LONDON (AP) — The European Union unveiled proposalsWednesday to regulate artificial intelligence that call for strict rules and safeguards on ... German government ministers announced plans to require companies like Facebook and YouTube to report certain forms of hate speech to the police and to provide the users' IP addresses."
-publishedDateTime: 2020-02-19T11:37:00Z
-webUrl: "https://www.abc27.com/news/us-world/tech/eu-proposes-rules-for-artificial-intelligence-to-limit-risks/"
-ampWebUrl: "https://www.abc27.com/news/us-world/tech/eu-proposes-rules-for-artificial-intelligence-to-limit-risks/amp/"
-cdnAmpWebUrl: "https://www-abc27-com.cdn.ampproject.org/c/s/www.abc27.com/news/us-world/tech/eu-proposes-rules-for-artificial-intelligence-to-limit-risks/amp/"
+excerpt: "President of the European Commission Ursula von der Leyen looks at the invention ‘Do you Speak Robot?’ at the AI Xperience Center at the VUB (Vrije Universiteit Brussel) in Brussels, Tuesday, Feb. 18. 2020. (Stephanie Lecocq, Pool Photo via AP) LONDON (AP) — The European Union is unveiling proposals to regulate artificial intelligence ..."
+publishedDateTime: 2020-02-19T11:34:00Z
+webUrl: "https://www.wavy.com/news/technology/eu-proposes-rules-for-artificial-intelligence-to-limit-risks/"
+ampWebUrl: "https://www.wavy.com/news/technology/eu-proposes-rules-for-artificial-intelligence-to-limit-risks/amp/"
+cdnAmpWebUrl: "https://www-wavy-com.cdn.ampproject.org/c/s/www.wavy.com/news/technology/eu-proposes-rules-for-artificial-intelligence-to-limit-risks/amp/"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: abc27.com
-  domain: abc27.com
+  name: WAVY
+  domain: wavy.com
 
 topics:
   - AI
-  - Facebook AI
+  - AI in Robotics
 
 images:
-  - url: "https://www.abc27.com/wp-content/uploads/sites/55/2020/02/26a5d5519fb44b4cbb90a8135709a722.jpg?w=1280&h=720&crop=1"
+  - url: "https://www.wavy.com/wp-content/uploads/sites/3/2020/02/26a5d5519fb44b4cbb90a8135709a722.jpg?w=1280&h=720&crop=1"
     width: 1280
     height: 720
     title: "EU proposes rules for artificial intelligence to limit risks"
@@ -90,6 +90,6 @@ related:
       domain: kansascity.com
     quality: 39
 
-secured: "s5q3+vsitIn2GWdtBqXCRbvHaCaMKwZdCDr+VD0fYNsk42yaHFI6ji2dvjJ9iVWYD5b1+9L5Yv2xOGD0aTXQ9TgQKpgJz1fXfWf09+nTG8j0iSr5IARJRHvksyFC/C177Wtx5W/38oNaK9dt53f29r1UmpCJfWkxxLQJxjHAkCvUUhKs10rLEeftiIrRFkBPy10s+qW7riCuFfY+vLgb1TkhwAFfTnHdKaju2SKXGWTZYO+PvqgHHa6YxFvTxe0p1sGW5OHXOXYUxDrHal3IUOD5Bl1peI4L1AvT36iiqTFPEIgoHN7Y9rZU6DsCPk5y;HuX1Vy6N48Kd8YDEyjraBQ=="
+secured: "a3BknVemSmloo7lUk/aeERcN2GmM01okzmmKf8k6YtUB6txrAEkhIBBqhVnMxL7Y1/9sWGO0c1TkHxUfK6S4PacwZepYK3c6EzCoIHXYvfgApwaTiTM92KEID9LHH2VqEoArWCXv3R9uhRa6AqlNiMN/HS01ivZRj84LYBKTPGC4I/5khLunh/plpL6YgV8C7hwiG8hp+Nd09N7nnGw4eWJpoamLqAxBSLTPsTxa5R+FPFgoNClQ6Pw7xbxYlvwYtpd6OZb6v53H3XPOHvUgXMBa/zrcKHVL++W5TO2/M1bJ8xFy9bY5RvJ0/pZYhAqg;RYk6iTgZXTjHxFjVTOYM0g=="
 ---
 

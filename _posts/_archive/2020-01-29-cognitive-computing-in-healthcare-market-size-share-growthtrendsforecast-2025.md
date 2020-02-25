@@ -18,19 +18,6 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Image Recognition Market Insights By Size Growth, Industry Share, Leading Players and Regional Forecast by 2026"
-    excerpt: "The global image recognition market was worth USD 20.19 billion in 2018 and will exhibit a CAGR of 19.6% during the forecast period, till 2026 The global image recognition market size is projected to reach USD 81."
-    publishedDateTime: 2020-01-31T05:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-insights-by-size-growth-industry-share-leading-players-and-regional-forecast-by-2026-2020-01-31"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "Autonomous Vehicle Market 2020: Global Overview, Latest Technology, Market Size, Share, Demand, Major Players, Key Trends, and Forecast to 2026"
     excerpt: "Autonomous Vehicle Market by Level of Automation (Level 3, Level 4, and Level 5), Component (Hardware, Software, and Service) and Application (Civil, Robo Taxi, Self-driving Bus, Ride Share, Self-driving Truck,"
     publishedDateTime: 2020-02-05T03:05:00Z
@@ -45,6 +32,6 @@ related:
         width: 1200
         height: 630
 
-secured: "su9KbfI1qOygc8UjdkfiwS9Di+cMOZmBXg+wOchEF0Sw0322IYMzhJAJzkeFX/uDJHvNntidsmLg5V18q+iQYR251ws3KGriUy3KLf5w1FhY7hfgnnN6cL3UiW+uzKWNfo2l0Jj/jbwfjjepJOo8akdk4TIsJax+iMi1TGW/0A/LIKb10A0fFryCjvgt/JVctuvp/Vts4OMgcx1vYw2Bncae5PPNo5EOrz3vORYFug01PuONPy4NWz7c46IcuduDvKybm+OJCqpzuteuD30bb/zCmBcPCsMJshvZp632yJ88k/rZi1Z6cCcOIkMubqHM;5+xEmfWomHo/n+CJwbuiFQ=="
+secured: "eUdqQdBGRxP7gvN7TDIvPGZmiu/7zFid3exEt71smSZDYUx6a7sWzrSi0gbcPTEEaXagKt/6A/g0NCxL9S46u7Kqm9XDLUvcLA96CYRQN8PA8qZCsFKw3XXpGQL7Jh5KpmjsRpAS2YihDIW5FjkuHGo4tY3z2uEy91DZMLkX44RipDfDnLP3kPrGQ3kA/VXwA2xgSYm1PlEtNL+WdmTiV66eMeaEeHa5COmL8Oqf7ZlTkGHkjkzZ4kx3ogRL6AhlS0kyzjdVX7Vn/lHnpNbXQ7POYJeE142koGPdsklBmEOjJe7ex/PF2Ut8qINd9P/e;FSU0shs0m5ACDu9XXXHJMw=="
 ---
 

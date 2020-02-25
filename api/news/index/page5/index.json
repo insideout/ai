@@ -2,51 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_posts/2020-02-19-eu-introduces-ai-strategy-to-build-ecosystem-of-trust.md",
-      "title": "EU introduces AI strategy to build ‘ecosystem of trust’",
-      "excerpt": "In a series of announcements, EC leaders expressed a mix of optimism that AI could help tackle challenges such as climate change, mobility, and health care, along with determination not to let private tech companies dominate the data needed for development of these algorithms. “We want citizens to trust the new technology,” said Ursula von ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/19/eu-introduces-ai-strategy-to-build-ecosystem-of-trust/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/19/eu-introduces-ai-strategy-to-build-ecosystem-of-trust/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/19/eu-introduces-ai-strategy-to-build-ecosystem-of-trust/amp/",
-      "publishedDateTime": "2020-02-19T05:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/P042638-849713-e1582116360900.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "EU introduces AI strategy to build ‘ecosystem of trust’",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-19-eu-plans-european-rival-to-google-with-new-data-and-ai-proposals.md",
       "title": "EU Plans European Rival To Google With New Data And AI Proposals",
       "excerpt": "As outlined in two policy documents, the EC is planning to change EU law in order to foster the commercial gathering, sharing and processing of data, as well as the development of AI technology.",
@@ -1718,7 +1673,7 @@
       "path": "_posts/2020-02-20-cybermdx-announces-integration-with-microsoft-azure-security-center-for-iot.md",
       "title": "CyberMDX Announces Integration With Microsoft Azure Security Center for IoT",
       "excerpt": "/PRNewswire/ -- CyberMDX, a leading provider of medical cyber security solution, delivering asset visibility and threat prevention for medical devices",
-      "heat": 112,
+      "heat": 122,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.prnewswire.com/news-releases/cybermdx-announces-integration-with-microsoft-azure-security-center-for-iot-301008578.html",
@@ -2109,6 +2064,51 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-20-how-artificial-intelligence-can-help-pick-the-best-depression-treatments-for-you.md",
+      "title": "How Artificial Intelligence Can Help Pick the Best Depression Treatments for You",
+      "excerpt": "But promising new research published in February in Nature Biotechnology suggests that a simple brain test, paired with insights from artificial intelligence (AI), can predict whether an antidepressant will work on a given patient. Trivedi and a team of researchers took data from a previous study in which more than 200 people with depression ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://time.com/5786081/depression-medication-treatment-artificial-intelligence/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-20T05:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Time",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://api.time.com/wp-content/uploads/2020/02/your_brain_knows_the_meds_you_need.jpg",
+          "width": 2400,
+          "height": 1972,
+          "title": "How Artificial Intelligence Can Help Pick the Best Depression Treatments for You",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
       ]
     }
   ],

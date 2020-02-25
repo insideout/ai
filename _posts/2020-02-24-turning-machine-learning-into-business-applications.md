@@ -2,23 +2,27 @@
 category: news
 title: "Turning Machine Learning into Business Applications"
 excerpt: "Machine Learning is viewed as an essential enabler that will allow applications to act on the collection of new data sets to improve their predictive capabilities. This white paper shows how Talend and AWS are bridging the gap between data scientists and data engineers to operationalize ML."
-publishedDateTime: 2020-02-24T22:09:00Z
-webUrl: "https://www.computerworld.com/resources/199257/turning-machine-learning-into-business-applications"
+publishedDateTime: 2020-02-24T22:03:00Z
+webUrl: "https://www.infoworld.com/resources/199257/turning-machine-learning-into-business-applications"
 type: article
-quality: 39
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: Computerworld
-  domain: computerworld.com
+  name: InfoWorld
+  domain: infoworld.com
+  images:
+    - url: "/assets/images/organizations/infoworld.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
   - Machine Learning
 
 images:
-  - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
+  - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
     width: 300
     height: 300
     title: "Turning Machine Learning into Business Applications"
@@ -60,6 +64,6 @@ related:
         width: 323
         height: 208
 
-secured: "x5I+DYdby8rMsYHS1eZvcxydnqjZj2sE2Ihg8aGKIIy9UjuMjYxX+ZmmYpzMzwZ/oLzwlf7Ejl1uvPVCKfduFYA/xA1zC8G/rMD6nkVG30/1uzVbmIjQPH1MOhhGd0F93rNvRazqPb4W3vrEY3fumxWiUXEJMKlTW+qJ+Pe4LTO/zdUsqjtgUqHt6uRPRRwqBf/aJ2tKASnau9Y8XuV02XRRQrp8ikteTp2z6eDYKiy6vYT/TUVfhmuJlPbIgaOMxDEwzfpDoTfFKqMRou1j+P08TKUbNNeCyJRCJg6Od65X1k+9e1s4GOaF6jqjtJiE3PYF7Th3vXjHxFbN+a70VR88nND8p7k3fHDj1TmFbB/K5IWh8LnGNGI/HTQNPDk0HgDeMfKdZkyqdqfuuxKfz9p7kxylle0HjIYkEpUULjKVtyYJ7JZYvre1fHnFQek3U0S5rs0X3/B/nkVMjHl1iORpzqUwaiDQoUu/EYRg2SE=;47t2cNzbDHedUoHulMLGww=="
+secured: "LzjoFmNx27zYSjXgClCY7V3vWUYKzZdeqfbgQ0p24FKQLi3HhW40vAS6bFwvtDKCVh6oVHN/YuUxBydg4eoBmNX77SCZCNJWgKfVW2rLGjdncEl8QrWorojnA1diedtFxrACjgZmbgD9aq6LZSJjVYBj+BW2SjLGTGd27X9faqvN1KBDeQaYQQUrmUI5Og3tqSdhYyZpBg5A7EWLCQOo7Hs4Int88E3YO2vsuR4UouxL0YPDCjSxbZ7h2BOLeD1yzwHGsRd5KFjFmIQR9swFxVNBgq6MC0MB2a5lizbBnez4ouNCdrOX6wSS8nkMaHt1;3bF/i0tlfO5wz2ZC/gA3HQ=="
 ---
 

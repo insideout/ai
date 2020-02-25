@@ -2,88 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_posts/2020-02-22-linden-self-driving-shuttle-out-of-service-after-woman-said-she-was-thrown-from-seat.md",
-      "title": "Linden self-driving shuttle out of service after woman said she was thrown from seat",
-      "excerpt": "COLUMBUS (WCMH) — The Linden self-driving shuttle is out of operation after a person fell on that shuttle just yesterday. Since this shuttle has been put into action on Feb. 5, Smart Columbus has recorded around 50 people riding the shuttle around the Linden area and no problems. Both of the shuttles are sitting in a garage until shuttles ...",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nbc4i.com/news/local-news/linden-self-driving-shuttle-out-of-service-after-woman-said-she-was-thrown-from-seat/",
-      "ampWebUrl": "https://www.nbc4i.com/news/local-news/linden-self-driving-shuttle-out-of-service-after-woman-said-she-was-thrown-from-seat/amp/",
-      "cdnAmpWebUrl": "https://www-nbc4i-com.cdn.ampproject.org/c/s/www.nbc4i.com/news/local-news/linden-self-driving-shuttle-out-of-service-after-woman-said-she-was-thrown-from-seat/amp/",
-      "publishedDateTime": "2020-02-21T16:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC4i",
-        "domain": "nbc4i.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.nbc4i.com/wp-content/uploads/sites/18/2020/02/Shuttle.jpg?w=1280&h=720&crop=1",
-          "width": 1280,
-          "height": 720,
-          "title": "Linden self-driving shuttle out of service after woman said she was thrown from seat",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-22-machine-learning-chips-market-overview-technology-details-2020.md",
-      "title": "Machine Learning Chips Market Overview, Technology Details 2020",
-      "excerpt": "Latest Trends Report On Global Machine Learning Chips Market 2020 with Upcoming Industry Trends, Size, Share, Top Companies Profiles, Growth Report and Forecast By 2026. Machine Learning Chips Market is a valuable source of insightful data for business strategists.",
-      "heat": 144,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-chips-market-overview-technology-details-2020-2020-02-22",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-21T23:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Machine Learning Chips Market Overview, Technology Details 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_posts/2020-02-22-the-case-against-ai-ux-and-coding-bootcamps.md",
       "title": "The Case Against AI, UX, And Coding Bootcamps",
       "excerpt": "By the year 2028, the technology industry will predictably experience a 21% rise in demand for software engineering talent, compared to a 5% growth rate for all other occupations. Traditional universities,",
@@ -852,51 +770,6 @@
       ]
     },
     {
-      "path": "_posts/2020-02-24-global-automatic-speech-recognition-software-market-innovations-and-top-companies-forecast-to-2029-baidu-google-and-facebook.md",
-      "title": "Global Automatic Speech Recognition Software Market Innovations, And Top Companies - Forecast To 2029| Baidu, Google and Facebook",
-      "excerpt": "Global Automatic Speech Recognition Software Market (Revenue and Volume), Type, Application, End-User, and Regional Analysis, Import-Export Analysis, Industry Analysis, Premium Insights, Intellectual Property Analysis,",
-      "heat": 105,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/global-automatic-speech-recognition-software-market-innovations-and-top-companies---forecast-to-2029-baidu-google-and-facebook-2020-02-24",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-24T04:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Global Automatic Speech Recognition Software Market Innovations, And Top Companies - Forecast To 2029| Baidu, Google and Facebook",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_posts/2020-02-24-google-ai-chief-dean-sees-evolution-in-mlperf-benchmark-for-machine-learning.md",
       "title": "Google AI chief Dean sees evolution in MLPerf benchmark for machine learning",
       "excerpt": "If computer systems are to evolve to handle ever larger machine learning models, a standard way to compare the effectiveness of those systems is essential, according to Google head of AI, Jeff Dean. But that system of measurement itself must evolve over time, he said. \"I think the MLPerf benchmark suite is actually going to be very effective ...",
@@ -1074,6 +947,51 @@
       "topics": [
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-24-intel-debuts-5g-server-and-base-station-chips-plus-a-pc-network-card.md",
+      "title": "Intel debuts 5G server and base station chips, plus a PC network card",
+      "excerpt": "Today, the company announced three chips built for various types of 5G computers, plus a 5G-optimized network adapter for PCs. Up first is an updated second-generation Xeon Scalable processor, now at a top speed of 3.9GHz and bolstered by additional AI capabilities to aid with inference applications. The new chip promises up to 36% more ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/24/intel-debuts-5g-server-and-base-station-chips-plus-a-pc-network-card/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-24T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/intel5g.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Intel debuts 5G server and base station chips, plus a PC network card",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
       ]
     },
     {
@@ -1475,7 +1393,7 @@
       "path": "_posts/2020-02-24-should-government-halt-the-use-of-facial-recognition-technology.md",
       "title": "Should Government Halt the Use of Facial-Recognition Technology?",
       "excerpt": "Critics say false positives are far higher for some groups of people than for others, but supporters of the technology says the actual numbers involved are tiny.",
-      "heat": 134,
+      "heat": 104,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.wsj.com/articles/should-government-halt-the-use-of-facial-recognition-technology-11582513260",
@@ -1873,6 +1791,52 @@
       ]
     },
     {
+      "path": "_posts/2020-02-25-global-machine-learning-market-trends-and-forecast-2020-2029-google-inc-baidu-inc-and-amazon-web-services-inc.md",
+      "title": "Global Machine Learning Market Trends And Forecast 2020-2029| Google Inc., Baidu Inc and Amazon Web Services Inc",
+      "excerpt": "Feb 25, 2020 (WiredRelease via COMTEX) -- Global Machine Learning Market (Revenue and Volume), Type, Application, End-User, and Regional Analysis, Import-Export Analysis, Industry Analysis, Premium Insights, Intellectual Property Analysis, Market Attractiveness, Competitive Landscape, Traders/Distributors, Key Buyers, Forecasts 2020 – 2029 ...",
+      "heat": 115,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/global-machine-learning-market-trends-and-forecast-2020-2029-google-inc-baidu-inc-and-amazon-web-services-inc-2020-02-25?mod=mw_quote_news",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-25T05:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Global Machine Learning Market Trends And Forecast 2020-2029| Google Inc., Baidu Inc and Amazon Web Services Inc",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_posts/2020-02-25-graphcore-the-ai-chipmaker-raises-another-150m-at-a-195b-valuation.md",
       "title": "Graphcore, the AI chipmaker, raises another $150M at a $1.95B valuation",
       "excerpt": "The UK has a strong history when it comes to chips and processors, but the global chip market has seen some ups and downs ... hardware and corresponding Poplar software — which is designed specifically for the kind of simultaneous, intensive calculations demanded of AI applications innovators create next generation machine intelligence ...",
@@ -1916,6 +1880,96 @@
         "AI",
         "AI Hardware",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-25-its-time-to-take-self-driving-storage-out-for-a-spin.md",
+      "title": "It's Time To Take 'Self-Driving' Storage Out For A Spin",
+      "excerpt": "We have solidly embarked on the journey to the \"self-driving\" storage system: a fully autonomous system capable of adapting its behavior in response to changing workloads.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/25/its-time-to-take-self-driving-storage-out-for-a-spin/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/25/its-time-to-take-self-driving-storage-out-for-a-spin/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/25/its-time-to-take-self-driving-storage-out-for-a-spin/amp/",
+      "publishedDateTime": "2020-02-25T07:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F02%2Fa-26-2.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "It's Time To Take 'Self-Driving' Storage Out For A Spin",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-25-met-police-chief-defends-facial-recognition-from-ill-informed-critics.md",
+      "title": "Met Police chief defends facial recognition from 'ill-informed' critics",
+      "excerpt": "London's police chief has defended the use of facial recognition technology, labelling critics \"ill-informed\". Dame Cressida Dick said eight criminals had been caught using the controversial live facial recognition cameras. She said \"inaccurate\" critics should \"justify to the victims of those crimes why police should not be allowed to use tech...",
+      "heat": 169,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bbc.com/news/technology-51628833",
+      "ampWebUrl": "https://www.bbc.com/news/amp/technology-51628833",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51628833",
+      "publishedDateTime": "2020-02-25T07:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/BA4C/production/_111029674_gettyimages-1134218905.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": "Met Police chief defends facial recognition from 'ill-informed' critics",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
       ]
     },
     {
@@ -2088,42 +2142,6 @@
           "width": 1200,
           "height": 675,
           "title": "A list of artificial intelligence tools you can use today — for personal use (1/3)",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2017-07-27-kesha-discovers-how-to-learn-to-let-go-in-new-song-and-video.md",
-      "title": "Kesha Discovers How to “Learn to Let Go” in New Song and Video",
-      "excerpt": "According to an essay in The Huffington Post, pop singer Kesha, while writing “Learn to Let Go,” was also inspired by ... where she encounters signposts from her past—including a cleverly devised fake swimming pool—that parallel the funny, often ...",
-      "heat": 142,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.slantmagazine.com/music/kesha-discovers-how-to-learn-to-let-go-in-new-song-and-video/",
-      "ampWebUrl": "https://www.slantmagazine.com/music/kesha-discovers-how-to-learn-to-let-go-in-new-song-and-video/amp/",
-      "cdnAmpWebUrl": "https://www-slantmagazine-com.cdn.ampproject.org/c/s/www.slantmagazine.com/music/kesha-discovers-how-to-learn-to-let-go-in-new-song-and-video/amp/",
-      "publishedDateTime": "2017-07-27T06:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Slant Magazine",
-        "domain": "slantmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.slantmagazine.com/wp-content/uploads/2017/07/music_learntoletgo-600x600.jpg",
-          "width": 600,
-          "height": 600,
-          "title": "Kesha Discovers How to “Learn to Let Go” in New Song and Video",
           "attribution": null
         }
       ],

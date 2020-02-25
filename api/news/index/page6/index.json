@@ -2,51 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_posts/2020-02-20-how-artificial-intelligence-can-help-pick-the-best-depression-treatments-for-you.md",
-      "title": "How Artificial Intelligence Can Help Pick the Best Depression Treatments for You",
-      "excerpt": "But promising new research published in February in Nature Biotechnology suggests that a simple brain test, paired with insights from artificial intelligence (AI), can predict whether an antidepressant will work on a given patient. Trivedi and a team of researchers took data from a previous study in which more than 200 people with depression ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://time.com/5786081/depression-medication-treatment-artificial-intelligence/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-20T05:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Time",
-        "domain": "time.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/time.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://api.time.com/wp-content/uploads/2020/02/your_brain_knows_the_meds_you_need.jpg",
-          "width": 2400,
-          "height": 1972,
-          "title": "How Artificial Intelligence Can Help Pick the Best Depression Treatments for You",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_posts/2020-02-20-how-microsoft-365s-new-solution-uses-machine-learning-to-stop-data-leaks-and-insider-attacks.md",
       "title": "How Microsoft 365’s new solution uses machine learning to stop data leaks and insider attacks",
       "excerpt": "The post How Microsoft 365’s new solution uses machine learning to stop data leaks and insider attacks appeared first on The AI Blog.\n",
@@ -214,7 +169,7 @@
       "path": "_posts/2020-02-20-london-police-just-turned-on-facial-recognition-in-one-of-the-worlds-busiest-shopping-districts.md",
       "title": "London Police Just Turned On Facial Recognition In One Of The World’s Busiest Shopping Districts",
       "excerpt": "Just across from the Microsoft store on London’s Regent Street, and just outside the entrance to the Oxford Circus tube station, cameras atop dark blue police vans are watching passersby. London's Metropolitan Police says the rollout of the \"live\" facial recognition across the British capital would reduce serious crime,",
-      "heat": 146,
+      "heat": 126,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.forbes.com/sites/thomasbrewster/2020/02/20/london-police-just-turned-on-facial-recognition-in-one-of-the-worlds-busiest-shopping-districts",
@@ -298,43 +253,6 @@
       "topics": [
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-20-met-polices-first-facial-recognition-cameras-spot-no-offenders-and-are-branded-a-failure.md",
-      "title": "Met Police's first facial recognition cameras spot NO offenders and are branded a failure",
-      "excerpt": "New police face recognition cameras have been branded a failure after spotting no suspects in hours of surveillance. The UK’s biggest force was accused of wasting taxpayer cash after the devices failed to find a single match despite scanning 4,600 ...",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.dailymail.co.uk/news/article-8026771/Met-Polices-facial-recognition-cameras-spot-NO-offenders-branded-failure.html",
-      "ampWebUrl": "https://www.dailymail.co.uk/news/article-8026771/amp/Met-Polices-facial-recognition-cameras-spot-NO-offenders-branded-failure.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-8026771/amp/Met-Polices-facial-recognition-cameras-spot-NO-offenders-branded-failure.html",
-      "publishedDateTime": "2020-02-20T14:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mail Online",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2020/02/20/22/24998426-0-image-a-11_1582237916016.jpg",
-          "width": 636,
-          "height": 382,
-          "title": "Met Police's first facial recognition cameras spot NO offenders and are branded a failure",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     },
     {
@@ -1050,7 +968,7 @@
       "path": "_posts/2020-02-21-artificial-intelligence-ai-market-is-projected-to-reach-usd-1699-billion-in-2026.md",
       "title": "Artificial Intelligence (AI) Market is Projected to Reach USD 169.9 Billion in 2026",
       "excerpt": "The major factors propelling the growth of the Global Artificial Intelligence (AI) market include the rise in the adoption of cloud-based applications and services and the growth of big data across the globe.",
-      "heat": 184,
+      "heat": 194,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-is-projected-to-reach-usd-1699-billion-in-2026-2020-02-21",
@@ -2124,6 +2042,88 @@
       "topics": [
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-22-linden-self-driving-shuttle-out-of-service-after-woman-said-she-was-thrown-from-seat.md",
+      "title": "Linden self-driving shuttle out of service after woman said she was thrown from seat",
+      "excerpt": "COLUMBUS (WCMH) — The Linden self-driving shuttle is out of operation after a person fell on that shuttle just yesterday. Since this shuttle has been put into action on Feb. 5, Smart Columbus has recorded around 50 people riding the shuttle around the Linden area and no problems. Both of the shuttles are sitting in a garage until shuttles ...",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nbc4i.com/news/local-news/linden-self-driving-shuttle-out-of-service-after-woman-said-she-was-thrown-from-seat/",
+      "ampWebUrl": "https://www.nbc4i.com/news/local-news/linden-self-driving-shuttle-out-of-service-after-woman-said-she-was-thrown-from-seat/amp/",
+      "cdnAmpWebUrl": "https://www-nbc4i-com.cdn.ampproject.org/c/s/www.nbc4i.com/news/local-news/linden-self-driving-shuttle-out-of-service-after-woman-said-she-was-thrown-from-seat/amp/",
+      "publishedDateTime": "2020-02-21T16:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC4i",
+        "domain": "nbc4i.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.nbc4i.com/wp-content/uploads/sites/18/2020/02/Shuttle.jpg?w=1280&h=720&crop=1",
+          "width": 1280,
+          "height": 720,
+          "title": "Linden self-driving shuttle out of service after woman said she was thrown from seat",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-22-machine-learning-chips-market-overview-technology-details-2020.md",
+      "title": "Machine Learning Chips Market Overview, Technology Details 2020",
+      "excerpt": "Latest Trends Report On Global Machine Learning Chips Market 2020 with Upcoming Industry Trends, Size, Share, Top Companies Profiles, Growth Report and Forecast By 2026. Machine Learning Chips Market is a valuable source of insightful data for business strategists.",
+      "heat": 144,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-chips-market-overview-technology-details-2020-2020-02-22",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-21T23:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Machine Learning Chips Market Overview, Technology Details 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

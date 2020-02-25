@@ -99,28 +99,6 @@ related:
       - url: "https://regmedia.co.uk/2020/02/20/shutterstock_cops_met_london.jpg"
         width: 648
         height: 429
-  - title: "Police roll out controversial live facial recognition technology at Oxford Circus"
-    excerpt: "Scotland Yard has installed controversial facial recognition technology at Oxford Circus. The cameras were spotted mounted on vans in the area, one of the busiest in London, this morning. One dark blue van was captured in a picture posted by UK civil liberties group Big Brother Watch next to a sign reading: \"Police live facial recognition in use.\""
-    publishedDateTime: 2020-02-20T16:46:00Z
-    webUrl: "https://www.standard.co.uk/news/london/police-roll-out-controversial-live-facial-recognition-technology-at-oxford-circus-a4367416.html"
-    type: article
-    provider:
-      name: London Evening Standard
-      domain: standard.co.uk
-    quality: 34
-    images:
-      - url: "https://static.standard.co.uk/s3fs-public/thumbnails/image/2018/03/21/09/poetry-london-underground.jpg"
-        width: 1500
-        height: 1000
-  - title: "Met police deploy facial recognition technology in central London"
-    excerpt: "Metropolitan Police have deployed facial recognition technology in central London with just two hours’ notice, alarming citizens. Just across from the Microsoft store on London’s Regent ..."
-    publishedDateTime: 2020-02-21T10:26:00Z
-    webUrl: "https://tribune.com.pk/story/2161493/8-london-police-deploy-facial-recognition-technology-oxford-circus/"
-    type: article
-    provider:
-      name: The Express Tribune
-      domain: tribune.com.pk
-    quality: 19
 
 secured: "BIVERoC/hwNQMt0dRePm9QS0K132pnq9DsmQKz8LaEOB+lNaeiB+dOXaIZsx4lYsyusGFl9FgLplvu6gQk/qec5+ShKt9yl2EYfZFVRy6a2MSImqgrrOlhx5AcdXbPlcDVDjpmDS6VeFV+WfSl1UZsZJZeHRRuqcD88mf2pv66ZNjs9ZSeclw0U6VbZpRB9dFlfKNUF93r4JjuGYzCjpYQXe/lx9yOUyC65S2RFEFlb0ITNdWtgZ92d5/J7DhNDYMBtZXzftcWu2Gy1HZ6WTREvgjYd2L2L1aAmAf6C44uLK80OKWVtu6yaIqgB3/FqzJxeyCehCfk0SIbV+La6z7AZubppupF9vMFX4d6hp0rT2Qtl/GE8p0hhO3Ie0eo88L7tmFpW1TuSsg228PkmuKQJZOHBpc8mKdVsYWYoah58ngEiAMFS8kAGvk0D5/7uW5cvLIHnis6u2jRK+b5gfCCg1+SvCuP1BCOStub3a4+U=;YFf2rfMa40G6Qh6CmAVU0w=="
 ---

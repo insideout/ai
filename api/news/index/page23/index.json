@@ -2,6 +2,51 @@
   "page": 23,
   "value": [
     {
+      "path": "_posts/_archive/2020-02-03-identifying-worker-labeling-efficiency-using-amazon-sagemaker-ground-truth.md",
+      "title": "Identifying worker labeling efficiency using Amazon SageMaker Ground Truth",
+      "excerpt": "A critical success factor in machine learning (ML) is the cleanliness and accuracy of training datesets. Training with mislabeled or inaccurate data can lead to a poorly performing model. But how can you easily determine if the  labeling team is  accurately labeling data? \nOne way is to manually sift",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/identifying-worker-labeling-efficiency-using-amazon-sagemaker-ground-truth/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-03T13:14:21-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/01/29/labeling-efficiency-sagemaker-gt-2.gif",
+          "width": 500,
+          "height": 202,
+          "title": "Identifying worker labeling efficiency using Amazon SageMaker Ground Truth",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-02-03-intel-drops-ai-products-from-nervana-shifts-focus-to-habana.md",
       "title": "Intel drops AI products from Nervana, shifts focus to Habana",
       "excerpt": "Why it matters: The move comes amid continued competition from Nvidia and others and follows Intel's purchase in December of Habana Labs, another startup in the AI chip space. An Intel representative told Axios the company wants to focus on a single ...",
@@ -2070,51 +2115,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-02-05-best-speech-to-text-software-in-2020-free-paid-and-online-voice-recognition-apps-and-services.md",
-      "title": "Best speech to text software in 2020: Free, paid and online voice recognition apps and services",
-      "excerpt": "Here then are the best in speech-to-text recognition programs, which should be more than capable for most situations and circumstances. Should you be looking for a business-grade dictation ...",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techradar.com/news/best-speech-to-text-app",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-05T08:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/6s4wiJpNLiXjuTChGeH4X8-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": "Best speech to text software in 2020: Free, paid and online voice recognition apps and services",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

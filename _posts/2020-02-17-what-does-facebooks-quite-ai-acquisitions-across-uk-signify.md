@@ -24,6 +24,21 @@ images:
     title: "What Does Facebook’s Quite AI Acquisitions Across UK Signify?"
 
 related:
+  - title: "Facebook Acquires Third AI Startup In UK For $40M"
+    excerpt: "Facebook acquires a new AI startup in Deeptide Ltd. The deal went almost unnoticed save for the blog post of Deeptide's founder back in December There was no disclosed acquisition cost but sources speculates it to be $40 million Facebook's \"acquire and conquer\" strategy has landed it another startup to boost its AI game."
+    publishedDateTime: 2020-02-11T11:58:00Z
+    webUrl: "https://www.ibtimes.com/facebook-acquires-third-ai-startup-uk-40m-2919901"
+    ampWebUrl: "https://www.ibtimes.com/facebook-acquires-third-ai-startup-uk-40m-2919901?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/facebook-acquires-third-ai-startup-uk-40m-2919901?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 59
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/01/28/facebook-reports-it-is-closer-to-setting-up.jpg"
+        width: 1024
+        height: 682
   - title: "What Does Facebook’s Quiet AI Acquisitions Across UK Signify?"
     excerpt: "The same day, Atlas ML co-founder Robert Stojnic published a Medium post titled “Papers with Code is joining Facebook AI,” which went largely unnoticed outside of the machine learning research community. Terms of the deal — or even that the acquisition took place — weren’t announced by Facebook at the time, beyond Stojnic’s ..."
     publishedDateTime: 2020-02-17T14:58:00Z
@@ -37,19 +52,15 @@ related:
       - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/02/Savvycom-AI-Lab.jpg"
         width: 1920
         height: 1080
-  - title: "As FTC query looms, a look at big tech's largest AI acquisitions"
-    excerpt: "according to research from CB Insights. As AI startups are swallowed by industry establishments, concern is mounting over big tech's overall role in tech monopolization. Last week the Federal Trade Commission announced it's investigating unreported acquisitions made by big tech, specifically those of Alphabet, Amazon, Apple, Facebook and Microsoft."
-    publishedDateTime: 2020-02-18T16:57:00Z
-    webUrl: "https://www.ciodive.com/news/largest-ai-acquisitions-ftc-investigation-google-intel/572439/"
+  - title: "Facebook acquires UK machine learning AI start-up Deeptide"
+    excerpt: "A regulatory filing at Companies House shows that Facebook now controls 75 percent or more of shares in Deeptide, which controls Atlas ML, the company behind the 'Papers with Code' resource for machine learning. According to unnamed sources from London's ..."
+    publishedDateTime: 2020-02-11T10:11:00Z
+    webUrl: "https://www.telecompaper.com/news/facebook-acquires-uk-machine-learning-ai-start-up-deeptide--1326126"
     type: article
     provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 39
-    images:
-      - url: "https://www.ciodive.com/user_media/cache/1a/2f/1a2f3b9d3c2dbff4c3da29b3a80d11fd.jpg"
-        width: 770
-        height: 364
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 34
 
 secured: "isEsZCMelw/8KubU3baBH4un5FiobL0sobhGytqx4lMONbtxHGBreuSwHBdOY/+mmFdiPgGgK5hzB+3RJ0Sr9LJZNlY5u6muBelGbmpw8M0hie3nPgD2s5dk3uPez+EYTG0Dx2QcsDpsNctHOVhY8LkteNzZiF5c9aLWlJ1FCxQOBhpgiAhc7t3DAQvXSJbA0Qp+XKy/O4oq+H8H3m8J+AoAFfPJvOdT7xTtvJFgwMkfGyGqBRugrP+DMBHwe3NhdWO3N4xRcaOj7Z99Vt5TxCqa0dsJGbAJ0WpJy2GLWl1PDvacyWC5RyK3PZ9w+L5y6Smxq/AGxEc+TAZpWcovkUygRy0bGkSCczPEUnLUUXhjwhIxD1hKnT1m2TecVT1ATThvV4NhtGAVvlhAx47c1X87q51/DOZRLQDUJSyJbs8f1CX7bWHQUH50EGwqECmEUGziBtzalJercyHSmFr3rhyRRwzuE68iaA8Sx8EA0VM=;qDLc5vQgqWVC57j6MGkBeg=="
 ---
