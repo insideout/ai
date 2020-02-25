@@ -7,8 +7,8 @@ webUrl: "https://www.infoworld.com/article/3528780/5-reasons-to-choose-pytorch-f
 ampWebUrl: "https://www.infoworld.com/article/3528780/5-reasons-to-choose-pytorch-for-deep-learning.amp.html"
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3528780/5-reasons-to-choose-pytorch-for-deep-learning.amp.html"
 type: article
-quality: 91
-heat: 91
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -22,7 +22,6 @@ provider:
 topics:
   - AI
   - Machine Learning
-  - Google AI
 
 images:
   - url: "https://images.idgesg.net/images/article/2018/02/number-5-on-fire_top-five_five-tips-100750848-large.jpg"
@@ -30,6 +29,6 @@ images:
     height: 800
     title: "5 reasons to choose PyTorch for deep learning"
 
-secured: "sQ7gLjUjg+EUCuX7sosDrZ30SGXQRsY66ag5DPUOske41S3kVuHDanUpu8VZQOTv5nzA+EUgzMJQyoaSFAnQ4fhO5caadKPf0PYF515OuRv6VAPVVbkOBUOh+jZDRvn61xdK8wgCBMK5QapGUumKwWcMkumlvJfS4ge1d7oGhDN+ys5NzmJM0nlCf0wrD/atzIaopyEEJhgkLgsiqvx/iQuVNPeRWLBq+CW9/c7tsOJFjf9gjakWvwq3DNiFzM8LO7nLxs3HhQ+7En2dTYWxj9969fc12IKOPbVr5jzT6tCc1DxNveo1Ue7w9q7eyEfTeyql9eVMhgOW7Xpz5iS4IwlRXRVMbVGfO7C7nnxoLPGSnLwznwKNB5upcIG5I3oTxNSLZrOPoYK/qKU+n5o1WW66FRMjXyNN6Z8fhtLYsWRQAMNUmakBZUb8AW7SD4jnrh1OiX0AoUHLrPzHbY8r2+CSeygjcPxaLkd2qHoRH2U=;fEEo6+M+MvNj+DCUnhLRMA=="
+secured: "QihI2w3Z//zMckjrMdEmKRVnOoDXrgvWV2IdyAwKzggjM2oyPaI2FKFlE09SCDUqFJIw5CGAFKD8teFhkCh7eQVK2+aMnsgBt5EuyH/ZSK5eED6yWi+CFInLVwFOnNhI5TsQhdeh9vhIl13aflUvWKHFHR4yUaF37tRVQX5ql1qDw2DlQMYAFV7sXqjQtFWbsaxb8LEZ1adNv6ZXrc7o0A/Mx7qGua+UoS31u58TcipDCrQYmqG/+9lLfmMADZ/thFQ9Ro1AsPS3uCsZ8CKlWQNA9lEZQnoF8tEvXx+IAW2BomxLRS+BCJ2gBsvBag4v;mVkklaVcpytjsYnunVVWvw=="
 ---
 

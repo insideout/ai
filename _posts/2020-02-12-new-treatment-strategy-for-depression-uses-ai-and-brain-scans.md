@@ -41,19 +41,6 @@ related:
       - url: "https://www.news-medical.net/image.axd?picture=2020%2f2%2f223421_web_00c4750629854c469bd98996c081a559-620x480.jpg"
         width: 620
         height: 480
-  - title: "AI, brain scans may alter how doctors treat depression"
-    excerpt: "DALLAS - Feb. 10, 2020 - Artificial intelligence may soon play a critical role in choosing which depression therapy is best for patients. A national trial initiated by UT Southwestern in 2011 to better understand mood disorders has produced what scientists ..."
-    publishedDateTime: 2020-02-10T16:03:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-02/usmc-abs020420.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/223422_web.jpg"
-        width: 640
-        height: 360
 
 secured: "oa6jor1H3lJvt5yHnLxBJ/SW/uJYo3qRPbQTmfITQNCgLxnU9eEWycFiYAX3yy94/pGfEPPeI6MwlgCyqdgk8ewKKQ8YCIAkxoaU0qi0yzy2ujvZBYrhNJVaZrOAfJV1NkST2SBpJdDWZC7CZ1BnH2bCiuQfdHzyXpfRt8aIEP7XhGr0Hxeb5VTYGw85otAPmgVlg1JNt2h1Z4EcS9EGsn8pk54StnoZHrKk5aRnHEr79i4ULXRmc4P2976hPlimGK3VC/7BX6ssM5BjaucGtcw2JSFVpLAFghU+enXoxvj6EVyK0f/BSgk5ZbdRIOsC;RBXKtrN0LSq2dr+XLIjspw=="
 ---

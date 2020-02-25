@@ -30,19 +30,6 @@ related:
       - url: "https://www.khaleejtimes.com/assets/jpg/KT1585678.JPG"
         width: 725
         height: 725
-  - title: "Keysight to Highlight Solutions that Help Organizations Accelerate Defenses with Dynamic Network Intelligence at RSA 2020"
-    excerpt: "Keysight and its technology partners will share security expertise on topics such as breach and attack simulation, cloud security, encryption and TLS 1.3, network visibility and automation in the Keysight booth daily Keysight will hold a special panel session, \"Are Artificial Intelligence and Machine Learning Being Used Against You - And Is It ..."
-    publishedDateTime: 2020-02-10T16:05:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-keysight-highlight-solutions-that-help-organizations-accelerate-defenses-/2020/02/10/9094936.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
-    images:
-      - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
-        width: 252
-        height: 335
 
 secured: "vsWLi7mWIiyDx0So4uirNxk+4hAOC1u6YPMvxy/mEdWJ79CPWps/tt1CJVhyNUkU4C8CyboAziXmsIGuhAQl6YXd6dh+3oZOKpQ4k9XqmD9ufmiTJ2xlHspEl5duUT2UWUAXKmcYwiLWoA4Kmpo/VZ3TqdkLBkbOp6PJwXgwmmELbSAsq5b0AcZW9S5fY2enai53ovWMBwVHvffr5DsN+IeutpJa1jVVomlB88K5kJXksJA1SBS4RbpKvb3Al9if4bUpf2j0aCkFDCvisQczj859hnGf+JC5C9kFh0dgYOyQJGeMUaoEh+QEvxOlRl3Pn6kK7je4R4PzmSI8K45RH4np00YiHNR681hQJq6i63lc/JgaFrSAGVn8q4nikNJG/XJpI9xffsi43CdAXGTfDQjm/7TspH6US97nOWXlLfTE6slTLRtHBTCxd4PVIaM2QZ/N7iLkfEJyo8ZqEviiu2RFPS3jyIi4gRS+Oj44fJY=;iUiylnNzBlcv95QKalH3yg=="
 ---

@@ -1,12 +1,12 @@
 ---
 category: news
 title: "AI Android Teaching Assistant Gives Students Hands-on Robotics Experience"
-excerpt: "Students in an ethics course are the first to work with an artificial intelligence teaching assistant in California's Notre Dame de Namur University. Professor \"Maria Bot,\" as the android is called, serves as the TA for Professor William Barry's class on the \"Ethics of Emerging Technology.\" The AI bot was introduced in the spring 2020 semester."
-publishedDateTime: 2020-02-24T21:34:00Z
-webUrl: "https://campustechnology.com/articles/2020/02/24/ai-android-teaching-assistant-gives-students-hands-on-robotics-experience.aspx?admgarea=news"
+excerpt: "... presence of robots and artificial intelligence in our world,\" said Barry in an article about the project. \"One of the points that I'm bringing out in this class is that robots reflect their programming: If they're programmed with a life-affirming, ethical framework, they are more likely to act ethically and help humans to do the same.\""
+publishedDateTime: 2020-02-24T21:17:00Z
+webUrl: "https://campustechnology.com/articles/2020/02/24/ai-android-teaching-assistant-gives-students-hands-on-robotics-experience.aspx"
 type: article
-quality: 70
-heat: 80
+quality: 68
+heat: 78
 published: true
 
 provider:
@@ -15,7 +15,6 @@ provider:
 
 topics:
   - AI
-  - AI Ethics
   - AI in Robotics
 
 images:
@@ -41,6 +40,6 @@ related:
         width: 900
         height: 675
 
-secured: "uwEkh4MtcrZCNEByktUy+uANeebQlPZkkXau3hcXW8H+XMLV2eiuHIOWsmZgKqNuoUgiez55hx0Cz7vsj7AWrJ752eNl1J6xo07I+TDKfoGX7bHBpyDUmtkRjOcIOCXNJBI5FQH+lJOSbq62e37kO5qxlMTh4SONQQNpQBG3Fy4+HJEkxcSWdJ0jdmcHH1KAJMST7+ZEJPoUgDHRl9wPnrmshP0loxV7qn5W+gixbuN5Jumcrh/4iq/UC0I/fkxphT2FpsFKnLEu8F6kShGVqO8QvkWVWF/kz2D3hIDdiP0UOwptnZzkw7GqbHGVwvEGXj0bfiuHOlpdBGv4obV3uCtMaZrBXJegfRFvnrsnuhOBCAlml4YOr/v03fgHR88dVfXhUPLo4Rew/fW4ijYdwAE2dVU7haY8Raoj0lAoOePz6Z3VP+yWssaa4vabpU0Cx2Juz6uq3EjTSOqLO/nHnNIlU+nSiPtFpebVBafz6qs=;HxGfYIBmBNgeDbSkzDWQZg=="
+secured: "tP8xLMPUoLbJzunKie/nhsOkYICXZDhvJolYV91ZCwtS2cCGLpinJ6vqEmwjyHQUXdtBRNGT+tH3nZBkV221QZRZdKaONtLZIbsxXyZyUAzSY8Y7LuPwDUiy1tQ390jQp+wXYbKTfBq8gc6VAsbysYQSCfzQ7moV+4HqFNChdIpAw2saRlPHxrkIpDrJuM3W2nYIrh3ClJ024RYtuBNxkZImjM73CGYN/uyyke+B/rCzPe16p+yNuL2fYdFpwjaSKde3jA62iKFWNOUV7g0NaToWTs6Y5KwjmOau25Yb1nyZxeQKOCMgH6fTOZhFDd55;t7ee+mEiXskMKIm2CJkVUw=="
 ---
 

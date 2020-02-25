@@ -38,6 +38,6 @@ related:
       domain: itproportal.com
     quality: 20
 
-secured: "zKah4XcxFHcoI+32CJ6WHYiXgAaomu8Gj3mmjR4KpzF80TVHfnvwclxqp/jj7lHazyn4ww4hi5XogIBQ+XXitWHon2NhyG2EivwaT95oRDCMhnUMkXt4c2DiAwOQWg0bxzuhYLS/qf6QpP7FxzPX7l0qhu4V4M+F2CB3zRHcP5KvsZqrkRTvvPeKkUoY84Qjal1DMBVOGeY6GoQKagbUjQT4wb4zwWQp6OG0+XKfC6EgJ05yi/U4JI5TeWWiEv69eiG7ykGb7AuqceUUGf+fC5iLXT2rUzeWBMvf/rY+CkvKyKuXSWFDXWQZODp9i6+f;8l72kOlgkppTIP1+wqlx4Q=="
+secured: "7BLEbLwALrwvybWc8aovJ9TovyRbvqEgbLb2tcA/eotUFJ8Aa9SFeXOqj3uQkgzinCrIbDNvUL5ZmC0s3otwCi4/YrPZZ6jXgeufXa4y0Sq7SidNXG/gADeaoPYBFNZvxqG5Wux3qctI7Y5itg9ZdjURnK8HvDks49z1hWEV3YHTwfMZZtYT++MHtNC0GWa5YPgVwnO37yQW5NgyV4FcFN/H9AXSSr53Nb3tt+l70KpqNA4hkXlOIUI7llbs/gZDuZNse6hlsmsIVcoZ2ggBFh45tmqA/rxGo+noi9zinLmG0iFEpErbFxJYZJM5RuW9;M2xeyks0WFRY5chcHQMjRw=="
 ---
 

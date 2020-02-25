@@ -8,8 +8,8 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20200210/Depression-treatment-
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200210/Depression-treatment-using-AI-brain-scans.aspx"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: News Medical
@@ -41,19 +41,6 @@ related:
       - url: "https://www.medindia.net/images/common/news/950_400/ai-and-brain-scans.jpg"
         width: 950
         height: 400
-  - title: "AI, brain scans may alter how doctors treat depression"
-    excerpt: "DALLAS - Feb. 10, 2020 - Artificial intelligence may soon play a critical role in choosing which depression therapy is best for patients. A national trial initiated by UT Southwestern in 2011 to better understand mood disorders has produced what scientists ..."
-    publishedDateTime: 2020-02-10T16:03:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-02/usmc-abs020420.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/223422_web.jpg"
-        width: 640
-        height: 360
 
 secured: "smoO0TlIj4+tBF6xoiMmbummlwbypn7tj/9cPXd9DlnWHes9kP2xdi7WbabAag1jzgSKdKKiNAqn1LZufKfe0HbnfZo83HCtuv/Cm+8rqpR6kPr65Tv6QLWoXvO4MvGjEWj9VueewHcVYuMttVtsDHqt7mzejKKP0/D7tMcCsN/9/rxW8m8/lh3GvZiYpqOMlzyw+/ZHNitbnDUytPZH/ypnOUbyVN3MgLBHCI4Eexm+GYiZ2VIcBLZptovsC5NJ0fwaq07hRGCYLP7vswf1eBz5jqwc5FFAZCMxbkYH3UztYS40bYH++7VPrrKO2ooh;J0KJc6Igg3cpVnEutU7X0w=="
 ---

@@ -1,28 +1,24 @@
 ---
 category: news
-title: "Pentagon adopts new ethical principles for using AI in war"
-excerpt: "The Pentagon is adopting new ethical principles as it prepares to accelerate its use of artificial intelligence technology on the battlefield. The new principles call for people to \"exercise appropriate levels of judgment and care\" when deploying and using AI systems,"
-publishedDateTime: 2020-02-25T05:22:00Z
-webUrl: "https://www.sfgate.com/business/technology/article/Pentagon-adopts-new-ethical-principles-for-using-15080225.php"
-ampWebUrl: "https://www.sfgate.com/business/technology/amp/Pentagon-adopts-new-ethical-principles-for-using-15080225.php"
-cdnAmpWebUrl: "https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/business/technology/amp/Pentagon-adopts-new-ethical-principles-for-using-15080225.php"
+title: "Pentagon Adopts New Ethical Principles for Using AI in War"
+excerpt: "The Pentagon is adopting new ethical principles as it prepares to accelerate its use of artificial intelligence technology on the battlefield."
+publishedDateTime: 2020-02-25T01:36:00Z
+webUrl: "https://www.usnews.com/news/business/articles/2020-02-24/pentagon-adopts-new-ethical-principles-for-using-ai-in-war"
 type: article
-quality: 57
+quality: 47
 heat: -1
 published: false
 
 provider:
-  name: SFGate
-  domain: sfgate.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
-
-images:
-  - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-    width: 375
-    height: 211
-    title: "Pentagon adopts new ethical principles for using AI in war"
 
 related:
   - title: "Pentagon to Adopt Detailed Principles for Using AI"
@@ -206,6 +202,6 @@ related:
       domain: fedscoop.com
     quality: 17
 
-secured: "s1UvFAZODhOY/HqgGb9zDtu3zMQbk/K3/IE6OwyCKjhyQ3lawxfAUMgason1GFjaN0I2i1BPg7qy25aDCkT34U/OQ7phWJ5hANYkQMdfRjJXZ6FadlBojjSgvGA8Qkqm6kf47xi00/7yHvr83CXIRVbLcL37soaXFBZ4OnsWLn0gOFFVJeMwObU9IFimwU+5x+FNlNrjXXFLHMQyW4/maxAwibZNrJr1knbDpetTk7pyI1EbgmXRbPV8apxj4xgaV8WyyycKzFrc8sIlZITYJ1vxs3FtStv/zlGXTivUSy5hocNix41e5v/BYMNJpGxI;rZfBn5bWhPMZe08zjL1n9Q=="
+secured: "Dlry3XdN3lpS5qSAdbIo/LkobIQdWesuZK5J8h7m8Dlzt+wvmFPeoYixlbz095NMfdCGXr9k9RJSnkd48Y8yrcTNeAkeOkUs+iyZeeqAQl4/z9nn5odAF754HxGYxlkFVby9omrY5S0d9+5ER3coaJAYoRguDI4jR74l0OPlVRMQ2ZtroxB1lVPIvzf0IwNGOZel0ExSCtCZdX3Fqb+gHk1e1F6KsA10y+Ot7vTvwOKo13amgYB/CvlexieDF8OjbDvQsig2lobirLdPELrqJ6C4d3jbxw5C75zTvm2HfRbXstu4yoBNdUyP0bV5juBNrOLFyKfCTGm5dClfDkclQ9zaTYN+xAU349tk75YvX11ZED9TFeYCcPhrpbz6eq6kJqHbxYpF8sRBPMSccUBvhiIN60I47XAwXEIqCf+XMbJ+d0KIoHZCXZM7xH4ly+s2AJx8Ssu8hT2IeEqviVQbqnFwq68eOLmKMipcfkcYlok=;U1nyK8ipiBzJbpoXLVEXww=="
 ---
 

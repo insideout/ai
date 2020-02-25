@@ -2,8 +2,8 @@
 category: news
 title: "Google Award for next generation Deep Learning education"
 excerpt: "Distinguished Research Professor Mary-Anne Williams is the recipient of an inaugural Google TensorFlow Faculty Award to develop educational content with TensorFlow 2.0, Google's open-source deep learning platform. Director of The Magic Lab at UTS, this Award recognises Professor Williams's position as a senior leader in the Australian and ..."
-publishedDateTime: 2020-02-24T20:25:00Z
-webUrl: "https://www.eurekalert.org/pub_releases/2020-02/uots-gaf022320.php"
+publishedDateTime: 2020-02-25T08:13:00Z
+webUrl: "https://eurekalert.org/pub_releases/2020-02/uots-gaf022320.php"
 type: article
 quality: 41
 heat: -1
@@ -36,8 +36,8 @@ related:
     quality: 63
   - title: "Google Award for next generation Deep Learning education"
     excerpt: "Distinguished Research Professor Mary-Anne Williams is the recipient of an inaugural Google TensorFlow Faculty Award to develop educational content with TensorFlow 2.0, Google's open-source deep learning platform. Director of The Magic Lab at UTS, this Award recognises Professor Williams's position as a senior leader in the Australian and ..."
-    publishedDateTime: 2020-02-25T08:13:00Z
-    webUrl: "https://eurekalert.org/pub_releases/2020-02/uots-gaf022320.php"
+    publishedDateTime: 2020-02-24T20:25:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-02/uots-gaf022320.php"
     type: article
     provider:
       name: EurekAlert!
@@ -48,6 +48,6 @@ related:
         width: 720
         height: 380
 
-secured: "fGtkELwWJuXRHLssErHeEnXRnCIvtzuOd+ViYJl8kaXEJbw70/JVUkHxSvd1JanVVjTDma7xOABTWJOzFH3MgRWK3Wy2Qy5NkTumeknqYaa+jba4lWmQPXG3VVeC86gTPKhvjiUpbbWU+YRjJ3y0H2c5FjticksqA3hP8qwIbAdNbOL5oXX9VsVQx++IwziASfQvgx8tmaYzvSa8Nngo/8MSmslVLS/JnD8ZnIPtRlPbcpdQ24AkkUNa4TKFmQ9a/d9nSzMVT1Vw8IbL0uMykiqtgFjXjfoVh/JTSl5dkYWXjanFjugXAfwDp0zVbB5PGCFysc9qZ6QxYKtcAptHCRfMyVxcQhOaiOIpbVq8cnJXj4ysh5QWNg0ZcPxagLTB58gMWLCrBWt9cpzhLDnUneRHqKmvb1fsK4SDD6drDEmcnCH0JzwEf9W+V7bHXgsZ06EivQmUzAdG4K/vKwFPVrjVmCqorxElzY/reMORf3U=;SGT9dOl6KTnLASfgShIJiQ=="
+secured: "0YwkjgFIzAFrPS+8HicOhPzDTIzmIpi1uFDLJ8p4JcXJA6u0mwrP2MfiMkxuzA1UQ4cT3geDUGZWnAlkxsH27S8gKJS0Q1LC5qf90AFCZB6k9tkW+7IVJkTaqnYz26VwA9r6fLZzrAug/n1RV2/+RK6Asisr0Hd4R6IcGXA7QRkUDRr7FiP1BM78/uaT81WvbX6QU4ue+HUVpwYdsIJ10IcisqbzoUit9/bWwbzVQliglyto2XXDHU8uCrdRbRScM5/SmnPVl9OQKvmzKNK11Zo8d5dri/XjaRn7HA+42hc2kVplpNnKYIo1MZ9PjLiT;W5CuniZlLEb950iNDNWL0A=="
 ---
 

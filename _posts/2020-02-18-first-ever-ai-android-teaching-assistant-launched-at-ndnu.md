@@ -27,14 +27,14 @@ images:
 
 related:
   - title: "AI Android Teaching Assistant Gives Students Hands-on Robotics Experience"
-    excerpt: "Students in an ethics course are the first to work with an artificial intelligence teaching assistant in California's Notre Dame de Namur University. Professor \"Maria Bot,\" as the android is called, serves as the TA for Professor William Barry's class on the \"Ethics of Emerging Technology.\" The AI bot was introduced in the spring 2020 semester."
-    publishedDateTime: 2020-02-24T21:34:00Z
-    webUrl: "https://campustechnology.com/articles/2020/02/24/ai-android-teaching-assistant-gives-students-hands-on-robotics-experience.aspx?admgarea=news"
+    excerpt: "... presence of robots and artificial intelligence in our world,\" said Barry in an article about the project. \"One of the points that I'm bringing out in this class is that robots reflect their programming: If they're programmed with a life-affirming, ethical framework, they are more likely to act ethically and help humans to do the same.\""
+    publishedDateTime: 2020-02-24T21:17:00Z
+    webUrl: "https://campustechnology.com/articles/2020/02/24/ai-android-teaching-assistant-gives-students-hands-on-robotics-experience.aspx"
     type: article
     provider:
       name: Campus Technology
       domain: campustechnology.com
-    quality: 70
+    quality: 68
     images:
       - url: "https://campustechnology.com/-/media/EDU/CampusTechnology/2020-images/20200224MariaBotfigure1.jpg"
         width: 300

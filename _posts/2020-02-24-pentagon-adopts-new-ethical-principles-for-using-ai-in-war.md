@@ -69,21 +69,6 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/44c2b6e/2147483647/strip/true/crop/1762x1151+142+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F28%2F22%2F8178e5064f7c136ce007d7fc24b1%2Fla-1548770710-xhgwtmgm6p-snap-image"
         width: 320
         height: 209
-  - title: "Pentagon adopts new ethical principles for using AI in war"
-    excerpt: "The Pentagon is adopting new ethical principles as it prepares to accelerate its use of artificial intelligence technology on the battlefield. The new principles call for people to \"exercise appropriate levels of judgment and care\" when deploying and using AI systems,"
-    publishedDateTime: 2020-02-25T05:22:00Z
-    webUrl: "https://www.sfgate.com/business/technology/article/Pentagon-adopts-new-ethical-principles-for-using-15080225.php"
-    ampWebUrl: "https://www.sfgate.com/business/technology/amp/Pentagon-adopts-new-ethical-principles-for-using-15080225.php"
-    cdnAmpWebUrl: "https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/business/technology/amp/Pentagon-adopts-new-ethical-principles-for-using-15080225.php"
-    type: article
-    provider:
-      name: SFGate
-      domain: sfgate.com
-    quality: 57
-    images:
-      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-        width: 375
-        height: 211
   - title: "DoD Adopts AI Ethics Principles, But How Will They Be Enforced?"
     excerpt: "Jack Shanahan, told reporters this afternoon. “The real hard part of this is taking the AI delivery pipeline” – from the initial algorithms and data sets, field testing, and training human users, to holding commanders accountable for lethal errors – “and understanding where those ethics principles need to be applied.” “They’re ..."
     publishedDateTime: 2020-02-24T22:37:00Z
@@ -149,6 +134,15 @@ related:
       - url: "https://fcw.com/-/media/GIG/EDIT_SHARED/AI_Automation/AI.png"
         width: 620
         height: 300
+  - title: "Pentagon Adopts New Ethical Principles for Using AI in War"
+    excerpt: "The Pentagon is adopting new ethical principles as it prepares to accelerate its use of artificial intelligence technology on the battlefield."
+    publishedDateTime: 2020-02-25T01:36:00Z
+    webUrl: "https://www.usnews.com/news/business/articles/2020-02-24/pentagon-adopts-new-ethical-principles-for-using-ai-in-war"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 47
   - title: "The Pentagon now has 5 principles for artificial intelligence"
     excerpt: "“This runs in stark contrast to Russia and China, whose use of AI technology for military purposes raises serious concerns about human rights, ethics and international norms.” The five principles apply to both the combat and non-combat use of AI technologies, said Deasy. Sign up for the Early Bird Brief, the defense industry's most ..."
     publishedDateTime: 2020-02-24T23:20:00Z
@@ -207,6 +201,6 @@ related:
       domain: fedscoop.com
     quality: 17
 
-secured: "3K6qmDIfh2JjwgHv8+kmSvGNBybzb4b+aKMcV5j64G1rP0St8mh3WsdlTasMgx/Bgl9GTgV0vCD8iAnNOh2YBB9CEMshive/M5lGy7lgX4Dk388kpy038NVZoeKU4ycUwO9HKn+zztMIjGR6eA2F2s4NiaGbWAG9BFg4zzAf9ylKXUxbnVILOs/ZIvJUHZ94+/bwkZc/PEHs2O8nYvigtcTuR3RkM1dPiXyUDox5+N8xjoeB5DjSTK9zUiCAhcJ4Pbz4Yrxh7SfmtQ8dfPcWaSNI63ecsfCNY3XI+8TO3NlWIXKBExCAtZ3YoaK82JG7;pi5ukoaa5UXCoRz9oRA73g=="
+secured: "H2GdSQBbPUFNTFUoBzX9RUAcYO6MQBp18zolioSJgalku2Iam6SOhpRWSOcav5ndi+vJwWZq2Sd73gO+lf0OrLVJvxpx5mfFxWXsYTJYVdvI8LzJ+PPTk6vr6VZpnFIvDZjRPvKjIVaDuFx6gMlP30+dhS489yzP8i7BxH3/dNiS10UBDb77ZAva8J/heltYhfpuc67I+1616J/fdMHE6ip6mLBSuDBuwnY5Zxq0jo7dJHA2iWYhKjmPShFi30FD1NFOrO965BlPJla9lxWsPAi6mpEfRZ1tD3/cSziFclFtNsUyO+xA4PU4F39Jbsjuoj1BW64CreA/Fmp9Tf35/LQdUQ5HEnVm9S9qy0GNB7eY5Iip4wp8xRFjwR/G2azUPPIp6hTz6Sxsggl72mny0K8zfD4Cp9jUoMrC6QBKUEr/MhIwyCydhsnPz9l8mVJYmKuJK3PIlX2ABwJTE+p+ZyBCMC/wAsRMLF7QBGiX5Yk=;Z9cMEeARFiujHxrDXhsEBA=="
 ---
 
