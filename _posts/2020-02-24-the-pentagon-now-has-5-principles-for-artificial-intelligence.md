@@ -37,6 +37,19 @@ related:
       - url: "https://cdn.nextgov.com/media/img/upload/2020/02/19/NGdrone20200219/open-graph.jpg"
         width: 400
         height: 400
+  - title: "The Pentagon now has 5 principles for artificial intelligence"
+    excerpt: "“This runs in stark contrast to Russia and China, whose use of AI technology for military purposes raises serious concerns about human rights, ethics and international norms.” The five principles apply to both the combat and non-combat use of AI technologies, said Deasy. The principles follow recommendations made by the Defense Innovation ..."
+    publishedDateTime: 2020-02-25T05:46:00Z
+    webUrl: "https://www.airforcetimes.com/artificial-intelligence/2020/02/24/the-pentagon-now-has-5-principles-for-artificial-intelligence/"
+    type: article
+    provider:
+      name: Air Force Times
+      domain: airforcetimes.com
+    quality: 139
+    images:
+      - url: "https://www.armytimes.com/resizer/HCJVtE9JHfrGKeCjk9CJbXKJ5R8=/1200x630/filters:quality(100)/arc-anglerfish-arc2-prod-mco.s3.amazonaws.com/public/MAYIFX5RQ5BLHHABTTKYSBPTL4.jpg"
+        width: 1200
+        height: 630
   - title: "Pentagon unveils toothless ethical principles for using AI in war"
     excerpt: "... into AI and quantum R&D] The DoD also pledges to “take deliberate steps to minimize unintended bias in AI capabilities,” but provides no information on how this will be done. “I worry that the principles are a bit of an ethics-washing project,” Lucy Suchman, an anthropologist who studies the role of AI in warfare, told The ..."
     publishedDateTime: 2020-02-25T17:46:00Z
@@ -175,19 +188,6 @@ related:
       - url: "https://fcw.com/-/media/GIG/EDIT_SHARED/AI_Automation/AI.png"
         width: 620
         height: 300
-  - title: "The Pentagon now has 5 principles for artificial intelligence"
-    excerpt: "“This runs in stark contrast to Russia and China, whose use of AI technology for military purposes raises serious concerns about human rights, ethics and international norms.” The five principles apply to both the combat and non-combat use of AI technologies, said Deasy. The principles follow recommendations made by the Defense Innovation ..."
-    publishedDateTime: 2020-02-25T05:46:00Z
-    webUrl: "https://www.airforcetimes.com/artificial-intelligence/2020/02/24/the-pentagon-now-has-5-principles-for-artificial-intelligence/"
-    type: article
-    provider:
-      name: Air Force Times
-      domain: airforcetimes.com
-    quality: 39
-    images:
-      - url: "https://www.armytimes.com/resizer/HCJVtE9JHfrGKeCjk9CJbXKJ5R8=/1200x630/filters:quality(100)/arc-anglerfish-arc2-prod-mco.s3.amazonaws.com/public/MAYIFX5RQ5BLHHABTTKYSBPTL4.jpg"
-        width: 1200
-        height: 630
   - title: "DOD Adopts Ethical Principles for Artificial Intelligence"
     excerpt: "The adoption of AI ethical principles aligns with the DOD AI strategy objective directing the U.S. military lead in AI ethics and the lawful use of AI systems. \"The United States, together with our allies and partners, must accelerate the adoption of AI and lead in its national security applications to maintain our strategic position ..."
     publishedDateTime: 2020-02-24T22:03:00Z

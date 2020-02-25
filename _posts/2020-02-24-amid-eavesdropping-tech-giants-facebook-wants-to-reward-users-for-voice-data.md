@@ -350,19 +350,6 @@ related:
       - url: "https://images.livemint.com/img/2020/02/21/600x338/2019-12-02T174920Z_467783753_RC25ND9X2N0L_RTRMADP_3_EU-FACEBOOK_1575316477461_1582267603516.JPG"
         width: 600
         height: 337
-  - title: "Facebook to pay users to improve speech recognition technology"
-    excerpt: "Facebook has announced it will pay select users who agree to record their voice to improve its speech recognition technology. According to The Verge, the social networking giant he company will pay select users to record snippets of audio through a new programme called \"Pronunciations in its Viewpoints market research app. If you qualify to be ..."
-    publishedDateTime: 2020-02-21T16:02:00Z
-    webUrl: "https://www.khaleejtimes.com/technology/mobiles/facebook-to-pay-users-for-to-improve-service"
-    type: article
-    provider:
-      name: Khaleej Times
-      domain: khaleejtimes.com
-    quality: 39
-    images:
-      - url: "https://images.khaleejtimes.com/storyimage/KT/20200221/ARTICLE/200229877/AR/0/Facebook,-voice-recognition,-social-media.jpg&NCS_modified=20200221110340&exif=.jpg"
-        width: 1200
-        height: 800
   - title: "Facebook Will Pay You For Sharing Your Voice Recordings: Here's How You Can Earn"
     excerpt: "The program will be rolled out to select users with 75 or more Facebook friends Facebook has been repeatedly caught with its hand in the cookie jar when it comes to sharing user data. It was caught in August last year hiring third-party contractors for reviewing and transcribing user audio clips,"
     publishedDateTime: 2020-02-21T09:00:00Z
@@ -393,19 +380,6 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2020/02/21/16/21461494-0-image-a-11_1582301264268.jpg"
         width: 636
         height: 382
-  - title: "Facebook Offering $5 For User Voice Snippet To Improve Its Speech Recognition Technology"
-    excerpt: "Tech giants like Facebook, Google, Amazon and Apple had to suspend training their AI (Artificial Intelligence) software a while back for voice recognition ... they will first need to apply to get qualified by simply taking help from Facebook's Viewpoints market research app. Once a user is qualified, they will be asked to record the phrase ..."
-    publishedDateTime: 2020-02-22T12:54:00Z
-    webUrl: "https://www.republicworld.com/technology-news/apps/facebook-offering-350-for-voice-snippet.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 32
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/civx6ujxzrxga6yg_1582359929.jpeg?tr=f-jpeg"
-        width: 1242
-        height: 711
   - title: "Facebook Offers Some Users Money For Voice Recordings"
     excerpt: "The voice recordings will be used to improve speech recognition systems. The offer comes after Facebook was caught transcribing voice recordings for the shoes in the past without informing customers is doing so. Users of the Viewpoints app can look under the Pronunciations tab to see if they qualify to be part of the program. Those that do ..."
     publishedDateTime: 2020-02-21T16:30:00Z

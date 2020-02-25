@@ -2,6 +2,355 @@
   "page": 16,
   "value": [
     {
+      "path": "_posts/_archive/2020-01-21-ai-can-help-find-illegal-opioid-sellers-online-and-wildlife-traffickers-and-counterfeits.md",
+      "title": "AI can help find illegal opioid sellers online. And wildlife traffickers. And counterfeits.",
+      "excerpt": "Timothy Mackey/S-3 Research. Another challenge: People selling these substances online ... Meanwhile, Reddit, YouTube, Twitter, and Facebook all told Recode they’re now using automated or AI-based technology to flag or investigate content that violates their policies, including illegal opioid sales. Mackey said he’s only been in limited ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.vox.com/recode/2020/1/21/21060680/opioids-artificial-intelligence-illegal-online-pharmacies",
+      "ampWebUrl": "https://www.vox.com/platform/amp/recode/2020/1/21/21060680/opioids-artificial-intelligence-illegal-online-pharmacies",
+      "cdnAmpWebUrl": "https://www-vox-com.cdn.ampproject.org/c/s/www.vox.com/platform/amp/recode/2020/1/21/21060680/opioids-artificial-intelligence-illegal-online-pharmacies",
+      "publishedDateTime": "2020-01-21T05:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Vox",
+        "domain": "vox.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/vox.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/_TtMyoxXclrY57IOGfFbYqmuhNg=/1400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/19608727/Screen_Shot_2020_01_17_at_11.28.22_AM.png",
+          "width": 618,
+          "height": 302,
+          "title": "AI can help find illegal opioid sellers online. And wildlife traffickers. And counterfeits.",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-21-ai-privacy-startup-mine-raises-3-million-to-help-users-ask-companies-to-delete-their-data.md",
+      "title": "AI privacy startup Mine raises $3 million to help users ask companies to delete their data",
+      "excerpt": "AI privacy startup Mine is one of 160 firms joining Intel's accelerator program. The firm has raised $3 million to help users take back their data.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/ai-startup-mine-raises-3-million-help-users-take-intel-data-2020",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-21T01:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5aac3309cc502927008b48d0?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "AI privacy startup Mine raises $3 million to help users ask companies to delete their data",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-21-ai-the-topic-that-got-sidelined-in-the-british-election.md",
+      "title": "AI: the topic that got sidelined in the British election",
+      "excerpt": "... Generation Artificial Intelligence Plan”, revealing its ambition to create an AI industry worth 1 trillion RM by 2030. Perhaps the most comprehensive of all, the plan involves a suite of initiatives that span R&D, talent development, regulations, ethics and security. Closer to home, France announced its own AI plan in 2018. Designed to ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techradar.com/nz/news/ai-the-topic-that-got-sidelined-in-the-british-election",
+      "ampWebUrl": "https://www.techradar.com/nz/amp/news/ai-the-topic-that-got-sidelined-in-the-british-election",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/ai-the-topic-that-got-sidelined-in-the-british-election",
+      "publishedDateTime": "2020-01-21T02:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/XRZnyNZVHb27CjWT9rGzg7-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": "AI: the topic that got sidelined in the British election",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-21-artificial-intelligence-robots-market-2020-analysis-growth-vendors-shares-drivers-challenges-with-forecast-to-2025.md",
+      "title": "Artificial Intelligence Robots Market 2020 Analysis, Growth, Vendors, Shares, Drivers, Challenges with Forecast to 2025",
+      "excerpt": "New York, January 21, 2020: The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report include Soft Bank,",
+      "heat": 150,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-2020-analysis-growth-vendors-shares-drivers-challenges-with-forecast-to-2025-2020-01-21",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-20T22:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence Robots Market 2020 Analysis, Growth, Vendors, Shares, Drivers, Challenges with Forecast to 2025",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-21-berkshire-grey-raises-263-million-for-industrial-robots.md",
+      "title": "Berkshire Grey raises $263 million for industrial robots",
+      "excerpt": "The company, which combines AI and robotics to automate omnichannel fulfillment for retailers ... CEO Tom Wagner says the fresh capital will fuel the startup’s global expansion, acquisitions, and team growth. “With our intelligent robotic automation, our clients see faster and more efficient supply chain operations that enable them to ...",
+      "heat": 154,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/21/berkshire-grey-raises-263-million-for-industrial-robots/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/21/berkshire-grey-raises-263-million-for-industrial-robots/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/21/berkshire-grey-raises-263-million-for-industrial-robots/amp/",
+      "publishedDateTime": "2020-01-21T06:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/0-2-e1579616903362.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Berkshire Grey raises $263 million for industrial robots",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-21-berkshire-grey-raises-263m-to-fuel-global-expansion-of-logistics-robotics.md",
+      "title": "Berkshire Grey raises $263M to fuel global expansion of logistics robotics",
+      "excerpt": "With technologies such as artificial intelligence, computer vision, machine learning, advanced sensing, novel gripping, and robotics, the company said it can handle “the broadest assortment of products, packaging, and parcels – and all while continuously improving speed and performance through autonomous learning.” The company said its ...",
+      "heat": 117,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.therobotreport.com/berkshire-grey-raises-263m-to-fuel-global-expansion-of-logistics-robotics/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-21T07:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2020/01/berkshire-grey-boston-hat-funding-1024x636.jpg",
+          "width": 1024,
+          "height": 636,
+          "title": "Berkshire Grey raises $263M to fuel global expansion of logistics robotics",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-21-british-ai-startups-attracted-record-venture-capital-funding-in-2019.md",
+      "title": "British AI Startups Attracted Record Venture-Capital Funding in 2019",
+      "excerpt": "Venture-capital firms plowed record funds into U.K.-based artificial-intelligence startups last year, shaking off factors such as Brexit and European data-privacy regulations. U.K. artificial-intelligence startups received about $3.2 billion in venture-capital funding in 2019, an increase of 23% from $2.6 billion in 2018, according to a study ...",
+      "heat": 187,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/british-ai-startups-attracted-record-venture-capital-funding-in-2019-11579602600",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-21T03:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-145341/social",
+          "width": 1280,
+          "height": 640,
+          "title": "British AI Startups Attracted Record Venture-Capital Funding in 2019",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-21-do-you-want-ai-used-on-you-at-the-hospital.md",
+      "title": "Do You Want AI Used On You At The Hospital?",
+      "excerpt": "At its core, successful AI, whether traffic- or health-related, should function seamlessly so that the user isn't aware of how it's functioning in the first place.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/21/do-you-want-ai-used-on-you-at-the-hospital/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/21/do-you-want-ai-used-on-you-at-the-hospital/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/21/do-you-want-ai-used-on-you-at-the-hospital/amp/",
+      "publishedDateTime": "2020-01-21T05:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/958886670/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 474,
+          "title": "Do You Want AI Used On You At The Hospital?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-21-facebooks-ai-learns-the-relationships-between-physical-places-from-first-person-video-footage.md",
       "title": "Facebook’s AI learns the relationships between physical places from first-person video footage",
       "excerpt": "That’s why a team of researchers from the University of Texas and Facebook AI Research investigated in a paper Ego-Topo, a technique that decomposes a space captured in a video into a ...",
@@ -1780,363 +2129,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-22-github-now-uses-ai-to-recommend-open-issues-in-project-repositories.md",
-      "title": "GitHub now uses AI to recommend open issues in project repositories",
-      "excerpt": "The initial version, which launched in May 2019, surfaced recommendations based on labels applied to issues by project maintainers. But an updated release shipped last month incorporates an AI algorithm that Github says surfaces issues in about 70% of repositories recommended to users. Github says it’s the first deep-learning-enabled product ...",
-      "heat": 187,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/22/github-now-uses-ai-to-recommend-open-issues-in-project-repositories/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/22/github-now-uses-ai-to-recommend-open-issues-in-project-repositories/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/22/github-now-uses-ai-to-recommend-open-issues-in-project-repositories/amp/",
-      "publishedDateTime": "2020-01-22T11:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/github-1-e1579720491957.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "GitHub now uses AI to recommend open issues in project repositories",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-22-gm-cruise-unveils-self-driving-electric-car-for-ride-sharing.md",
-      "title": "GM Cruise unveils self-driving electric car for ride-sharing",
-      "excerpt": "Cruise, GM’s self-driving startup, has unveiled the Cruise Origin, a new autonomous electric vehicle that will power an all-electric completely autonomous ride-sharing service. The vehicle is a result of a partnership between GM’s startup and Honda. For a few years now, GM has connected self-driving and electrification together. At first ...",
-      "heat": 344,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://electrek.co/2020/01/21/gm-cruise-origin-self-driving-electric-car-ride-sharing/",
-      "ampWebUrl": "https://electrek.co/2020/01/21/gm-cruise-origin-self-driving-electric-car-ride-sharing/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/01/21/gm-cruise-origin-self-driving-electric-car-ride-sharing/amp/",
-      "publishedDateTime": "2020-01-21T18:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://electrek.co/wp-content/uploads/sites/3/2020/01/GM-Cruise-Origin-e1579656077851.jpg?quality=82&strip=all&w=1000",
-          "width": 1000,
-          "height": 470,
-          "title": "GM Cruise unveils self-driving electric car for ride-sharing",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-22-googles-collections-feature-now-pushes-people-to-save-recipes-products-using-ai.md",
-      "title": "Google’s Collections feature now pushes people to save recipes & products, using AI",
-      "excerpt": "Google is giving an AI upgrade to its Collections feature — basically, Google’s own take on Pinterest, but built into Google Search. Originally a name given to organizing images, the Collections feature that launched in 2018 let you save for later perusal any type of search result — images, bookmarks or map locations — into groups ...",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/01/22/googles-collections-feature-now-pushes-people-to-save-recipes-products-using-a-i/",
-      "ampWebUrl": "https://techcrunch.com/2020/01/22/googles-collections-feature-now-pushes-people-to-save-recipes-products-using-a-i/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/22/googles-collections-feature-now-pushes-people-to-save-recipes-products-using-a-i/amp/",
-      "publishedDateTime": "2020-01-22T15:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/01/Screen-Shot-2020-01-22-at-4.09.14-PM.png?w=1024",
-          "width": 1024,
-          "height": 984,
-          "title": "Google’s Collections feature now pushes people to save recipes & products, using AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-22-gtci-ai-offers-significant-opportunities-for-emerging-markets-but-skills-are-scarce.md",
-      "title": "GTCI: AI offers significant opportunities for emerging markets, but skills are scarce",
-      "excerpt": "Will the proliferation of AI and machine learning reinforce the worldwide digital divide? It’s one of the questions the Global Talent Competitiveness Index (GTCI) and Global Cities Talent Competitiveness Index (GCTCI) seek to answer by benchmarking the ability of countries and cities to compete for talent. An answer has historically proven ...",
-      "heat": 80,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/22/gtci-ai-offers-significant-opportunities-for-emerging-markets-but-skills-are-scarce/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/22/gtci-ai-offers-significant-opportunities-for-emerging-markets-but-skills-are-scarce/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/22/gtci-ai-offers-significant-opportunities-for-emerging-markets-but-skills-are-scarce/amp/",
-      "publishedDateTime": "2020-01-22T03:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/robot-on-computer.jpg?fit=1198%2C599&strip=all",
-          "width": 1198,
-          "height": 599,
-          "title": "GTCI: AI offers significant opportunities for emerging markets, but skills are scarce",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-22-how-ai-supports-and-accelerates-healthcare.md",
-      "title": "How AI Supports And Accelerates Healthcare",
-      "excerpt": "AI is currently most adept at helping to improve and accelerate workflows for researchers and healthcare professionals.",
-      "heat": 124,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/22/how-ai-supports-and-accelerates-healthcare/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/22/how-ai-supports-and-accelerates-healthcare/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/22/how-ai-supports-and-accelerates-healthcare/amp/",
-      "publishedDateTime": "2020-01-22T09:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x446/https://specials-images.forbesimg.com/dam/imageserve/1147479249/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 446,
-          "title": "How AI Supports And Accelerates Healthcare",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-22-how-bank-of-america-uses-ai-to-improve-customer-service-and-take-on-competitors.md",
-      "title": "How Bank of America uses AI to improve customer service and take on competitors",
-      "excerpt": "Indeed, most banks have a dedicated data science team and have had for some time, with AI and machine learning (ML) increasingly taking a supporting role ... Thanks to regulations such as the European Commission’s Markets in Financial Instruments Directive 2, this data is available to all of BoA’s competitors, and vice versa.",
-      "heat": 130,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/354510/how-bank-of-america-uses-ai-to-improve-customer",
-      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/354510/how-bank-of-america-uses-ai-to-improve-customer?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/354510/how-bank-of-america-uses-ai-to-improve-customer?amp",
-      "publishedDateTime": "2020-01-22T14:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/v1579733058/itpro/BoA_Erica_AI.png",
-          "width": 2173,
-          "height": 1082,
-          "title": "How Bank of America uses AI to improve customer service and take on competitors",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-22-how-machine-learning-is-helping-credit-karma-reintroduce-itself-to-users.md",
-      "title": "How machine learning is helping Credit Karma reintroduce itself to users",
-      "excerpt": "But it's only recently that the company is turning to machine learning to make sense of hundreds of billions of data points and deliver personalized insights and recommendations to individual members at scale. When it launched in 2008 at the height of the financial crisis, Credit Karma's primary service leveraged credit report data to help ...",
-      "heat": 73,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/how-machine-learning-is-helping-credit-karma-reintroduce-its-brand-to-users/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-machine-learning-is-helping-credit-karma-reintroduce-its-brand-to-users/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-machine-learning-is-helping-credit-karma-reintroduce-its-brand-to-users/",
-      "publishedDateTime": "2020-01-22T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2018/07/26/04dbf63a-2aa4-480b-ad61-5d857987ba31/thumbnail/1200x675/8929444376cb1c585bcdc20bc3026ca3/creditkarmathumbnail.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "How machine learning is helping Credit Karma reintroduce itself to users",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-22-how-machine-learning-uncovers-opportunities-for-business-optimization.md",
-      "title": "How Machine Learning Uncovers Opportunities For Business Optimization",
-      "excerpt": "With ever more data being generated across modern businesses, companies are looking for actionable intelligence to drive optimization, increase margins and avoid supply chain distributions. The sheer volume of data can make it difficult to see trends;",
-      "heat": 119,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/22/how-machine-learning-uncovers-opportunities-for-business-optimization/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/22/how-machine-learning-uncovers-opportunities-for-business-optimization/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/22/how-machine-learning-uncovers-opportunities-for-business-optimization/amp/",
-      "publishedDateTime": "2020-01-22T06:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x494/https://specials-images.forbesimg.com/dam/imageserve/1079012838/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 494,
-          "title": "How Machine Learning Uncovers Opportunities For Business Optimization",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

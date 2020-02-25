@@ -25,6 +25,6 @@ images:
     height: 440
     title: "Crash Team Racing Nitro-Fueled Review"
 
-secured: "XkIOCAePm8M/m8b0TYlt8vGTtlQXmQidBvGVJDcSswc3MK/1TLee6GhQDoX10++pOT7Ph/a0gq1TRtsPi3gIOTz06QgLVPoPb8PBtWWGI3wDuwKYW4RcQsNUR7gsmpkDX5lu7WU7yBvjwlhh8zf4VojsmTbac2w7WjAqhlm1h8jfrnbJCfGYEdAf7jqvroGcetNRw6bHL49vj7mLGml0q/sdlXttsrmgWajE6nJrGPSjd1Ys2k04vAEyl3MAhCge1jTPtyUjzQ6DXyJsPCRm1ARbMEIHHCbWfhFLSUNLbT6BqbKnEtgK6nJTCIi3xgvy;S/vuxknOLVViAWUwXstjdw=="
+secured: "y74ifybo1k02muYs0yU5T0SxWg8Al6t4wI/DLHCCbwWYZgfISVzW1w2X8vAc2pEyWVKJs5+xXy+T/dN+amoeUIsPm4a2GO9YlfJEPNpNQto9kS28eC0CQKq/H00LRwrRc95kt+DbdMD9f29IsxW11QEUxKGHo2PLFDlBRo3yjCWOXBx0NgaO/Lsu+jwsW6kefCooE3KbOhlBHc5g9OVJnPCZGxApRzdsDMt+A8e+BsZgb1if8cZsxhFvyRcMy8sCp3CyCfLB73jjXl3IxQcsdhyLRNIN/PJu0I5ojQm4lUey1sZSqgP4GNqXHwUKvAMz;c9xsEtEkSLZQO00Tvs8ycg=="
 ---
 

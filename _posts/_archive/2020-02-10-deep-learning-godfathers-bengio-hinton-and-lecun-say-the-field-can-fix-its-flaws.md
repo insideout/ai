@@ -29,6 +29,6 @@ images:
     height: 1082
     title: "Deep learning godfathers Bengio, Hinton, and LeCun say the field can fix its flaws"
 
-secured: "pa1a7p1IPxIuf4MWbcJxMOlvku00ArY2PuH2V7nGSDdTSWawZ064ZFs0UrsoNxw1chzZ03UagPBLOCeM8FC6uB752XM21/WgelH/LdgKVwR9/nsaNMvvNNqBK1D1MOEATNHIjJUP8BQFAnp6kzB5aaBalIEZR+Ls2/yZ+zPfupbRs/AY6yBTbUXVt/c1K4Vzg8hSnoZyHqi2yRv2vb8hw38JIeCRYMW5XwfFCKyO+OB3g0YqV9FlwCmG6dWIxNqH1q6+MeoamloBgXc5QEyCL4Qj6NurcbbIUtxIJO6huTROCGDnyf9MbwcM6ELY50ZO;v9gn9mluqHTQ7+krTkOvWw=="
+secured: "5bGK4cv1dcobyQixSSRyUM8WpebIOSqpjnXB7dWr2O07TDCc5hHpvcbkydDFHxa6myS+lpvbiL41Ti+hV3MIAQuDazRi5xJzDyxbubYxAoTugLBLcA6q3Ui2Pq3c16wCBFgmAzSJ4xekHtGkf5vfR//7fdj/1ZEnojBE5Qf0km1C1djOJumBvC0QqpqK8dCrkAowSK6hNq2rEA5p33/RizaaPWIv9dbjTbXVpdCiRaWZm5CKD7+dL9NTvTCFY9KtPe5g1YVjRk5hM6eXC0EHfZlh/YOhhYEzm8dwmH90vDVZ0SDfx3fXzcopk/Z+Zerp;F6YtmNUYHmjtQPofsWeW3A=="
 ---
 

@@ -177,6 +177,19 @@ related:
       - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/02/Top-AI-Ted-Talks-to-Watch-for-Acquiring-Better-Technology-Outlook.png"
         width: 1640
         height: 860
+  - title: "5 technologies predicted to change healthcare over next 10 years"
+    excerpt: "He published his predictions in a MarketWatch report. Here are the five biggest themes for healthcare IT: 1. Artificial intelligence in medicine. While Google and other technology companies will continue developing machine learning and AI tools to help clinicians diagnois patients more quickly, in the next decade, AI will also be used to help ..."
+    publishedDateTime: 2020-02-25T15:12:00Z
+    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/5-technologies-predicted-to-change-healthcare-over-next-10-years.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 39
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/6.jpg"
+        width: 400
+        height: 300
   - title: "AI in the Manufacturing Sector Market Analysis to 2025 | New Technologies Transforming the Global Industry"
     excerpt: "The hardware segment will continue dominating the AI in the manufacturing sector market on account of the increasing demand for AI processors across several industry verticals. Considering the AI processors,"
     publishedDateTime: 2020-02-18T10:28:00Z

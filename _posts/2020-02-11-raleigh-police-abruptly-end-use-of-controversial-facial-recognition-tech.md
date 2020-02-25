@@ -56,36 +56,19 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/98982b80-0f4c-4539-8307-e03345d59828/f123b10c-3acf-4f41-b7eb-0cf3424b4196/1280x720/match/image.jpg"
         width: 1280
         height: 720
-  - title: "Ottawa police piloted controversial facial recognition software last year"
-    excerpt: "Ottawa police quietly tested facial recognition software for three months last year, this newspaper has learned. The pilot, which ended in March of 2019, came before a public dialogue on the use of CCTV cameras in spaces like the ByWard Market after a string of fatal shootings in the tourist hub. Though Ottawa police at the time spoke of the ..."
-    publishedDateTime: 2020-02-13T23:12:00Z
-    webUrl: "https://ottawacitizen.com/news/local-news/ottawa-police-piloted-controversial-facial-recognition-software-last-year"
-    ampWebUrl: "https://ottawacitizen.com/news/local-news/ottawa-police-piloted-controversial-facial-recognition-software-last-year/amp"
-    cdnAmpWebUrl: "https://ottawacitizen-com.cdn.ampproject.org/c/s/ottawacitizen.com/news/local-news/ottawa-police-piloted-controversial-facial-recognition-software-last-year/amp"
+  - title: "Vuzix integrates TensorMark’s AI, computer vision tech for facial recognition in AR smart glasses"
+    excerpt: "The company has been actively working on building an interface tailored to the Vuzix Blade Smart Glasses so that it makes use of device characteristics, such as the color display and on-board camera, to embed facial and object recognition. The technology will allow customers to identify countless facial and object images located in a cloud ..."
+    publishedDateTime: 2020-02-18T17:33:00Z
+    webUrl: "https://www.biometricupdate.com/202002/vuzix-integrates-tensormarks-ai-computer-vision-tech-for-facial-recognition-in-ar-smart-glasses"
     type: article
     provider:
-      name: Ottawa Citizen
-      domain: ottawacitizen.com
-    quality: 58
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 56
     images:
-      - url: "https://postmediaottawacitizen2.files.wordpress.com/2020/01/0107_childporn-w.jpg"
-        width: 1000
-        height: 750
-  - title: "Met Police's controversial facial recognition cameras correctly identify just one in three women"
-    excerpt: "Controversial facial recognition cameras used by Britain's biggest police force correctly identify only a third of women, an official report admits. A review of the technology by Scotland Yard also reveals that two in three men are accurately identified, while black people are far more likely to be wrongly flagged up than white people."
-    publishedDateTime: 2020-02-15T22:02:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-8007907/Met-Polices-controversial-facial-recognition-cameras-correctly-identify-just-one-three-women.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-8007907/amp/Met-Polices-controversial-facial-recognition-cameras-correctly-identify-just-one-three-women.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-8007907/amp/Met-Polices-controversial-facial-recognition-cameras-correctly-identify-just-one-three-women.html"
-    type: article
-    provider:
-      name: Mail Online
-      domain: dailymail.co.uk
-    quality: 46
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/02/15/22/24785266-0-image-a-29_1581804047268.jpg"
-        width: 636
-        height: 382
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/03/15194350/artificial-intelligence.jpg"
+        width: 660
+        height: 300
   - title: "Met Police begins deploying live facial recognition cameras in Stratford"
     excerpt: "The Metropolitan Police has started deploying live facial recognition camera technology in Stratford today. According to the police, the technology will aid the fight against serious crime in London, while helping to find missing children and vulnerable people. \"The Met will deploy Live Facial Recognition on Tuesday 11 February at key locations ..."
     publishedDateTime: 2020-02-11T11:37:00Z

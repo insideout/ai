@@ -84,21 +84,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/02/cruise-self-driving-california.jpg?w=1200&#038;strip=all"
         width: 1200
         height: 600
-  - title: "Self-driving vehicle makers say California is looking at the wrong data to measure their progress"
-    excerpt: "#SelfDriving car makers say #California is looking at the wrong data when it comes to measuring their #tech progress. #autonomousvehicles"
-    publishedDateTime: 2020-02-24T12:15:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2020/02/24/california-self-driving-car-disengagement-report.html"
-    ampWebUrl: "https://www.bizjournals.com/sanjose/news/2020/02/24/california-self-driving-car-disengagement-report.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2020/02/24/california-self-driving-car-disengagement-report.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 31
-    images:
-      - url: "https://media.bizj.us/view/img/10839744/waymo-jaguar*600xx2000-1333-0-0.jpg"
-        width: 600
-        height: 399
 
 secured: "jyilDXhY3YfP3cUHrG74AkeB4T8VUCRNUBpKb+U5gYN5ocOgZid4XMirxYp1YennSMXQCAUDCmb5icmTf8QvaT1WAeYdiS1n5cqrJ9p26NAS6IHZ8M0xcwFVx721vjpaZ0vlu9w2x9+jQFLWbzPXy/cedvRrBEnca2oIKOWza0mYpB2kfUXOMQWB0T84OZDZCAUXmDlgUs6wIgduCRhwgDBjBPva31Hc3/nRjQREpKnufbKAtLiLLdmO7oULdmD+rTE2k4PASa3bof3CqBgJOwLxEUKKpjwtQBk8/sd0i9OVnjTKC1iUPiCSZ7S5N6eoAqqASwRzkuHwMedCHUeur6FnDuCRKc6dfWf/Rj+p9+ARN5H/6TdSn301NhohFL7TJ3TC6XB/IvSObk75pJQVORSgVadcDOtAO9ly5tHeJ7FNoGfV0/tFC6Ly0emqKuKGwRWr3UcMk5m5dObW6NtUqeOClc4TH1tKqBe0/I8DQYM=;GkVprsqDsSYl015HNgDteQ=="
 ---

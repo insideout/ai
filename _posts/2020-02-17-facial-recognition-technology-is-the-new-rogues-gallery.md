@@ -8,8 +8,8 @@ ampWebUrl: "https://slate.com/technology/2020/02/rogues-gallery-facial-recogniti
 cdnAmpWebUrl: "https://slate-com.cdn.ampproject.org/c/s/slate.com/technology/2020/02/rogues-gallery-facial-recognition-technology-history.amp"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: Slate
@@ -26,82 +26,32 @@ images:
     title: "Facial Recognition Technology Is the New Rogues’ Gallery"
 
 related:
-  - title: "Should Government Halt the Use of Facial-Recognition Technology?"
-    excerpt: "Critics say false positives are far higher for some groups of people than for others, but supporters of the technology says the actual numbers involved are tiny."
-    publishedDateTime: 2020-02-24T04:11:00Z
-    webUrl: "https://www.wsj.com/articles/should-government-halt-the-use-of-facial-recognition-technology-11582513260"
-    ampWebUrl: "https://www.wsj.com/amp/articles/should-government-halt-the-use-of-facial-recognition-technology-11582513260"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/should-government-halt-the-use-of-facial-recognition-technology-11582513260"
+  - title: "Facial recognition is easy to fool. This tech aims to fix that"
+    excerpt: "The technology that might become the future of facial recognition started with a bucket of household paint. Ingmar Bruder was researching organic photovoltaics—and how to make paint that could absorb sunlight and turn it into electricity—at German chemical giant BASF when he hit upon an unexpected discovery. By shining an infrared beam at ..."
+    publishedDateTime: 2020-02-19T18:05:00Z
+    webUrl: "https://www.fastcompany.com/90465614/facial-recognition-is-easy-to-fool-this-tech-aims-to-fix-that"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 74
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 54
     images:
-      - url: "https://images.wsj.net/im-156193/social"
+      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/02/p-1-trinamix.jpg"
         width: 1280
-        height: 640
-  - title: "Cressida Dick: Facial recognition critics should face up to victims of crime"
-    excerpt: "Privacy concerns over live facial recognition are ‘much smaller’ than the need to protect the public from ‘a knife through the chest’, Britain’s most senior police officer has said. Metropolitan Police Commissioner Dame Cressida Dick told a conference in Whitehall that critics of the use of such technology would need to justify to ..."
-    publishedDateTime: 2020-02-24T17:36:00Z
-    webUrl: "https://www.belfasttelegraph.co.uk/news/uk/cressida-dick-facial-recognition-critics-should-face-up-to-victims-of-crime-38984989.html"
-    ampWebUrl: "https://amp.belfasttelegraph.co.uk/news/uk/cressida-dick-facial-recognition-critics-should-face-up-to-victims-of-crime-38984989.html"
-    cdnAmpWebUrl: "https://amp-belfasttelegraph-co-uk.cdn.ampproject.org/c/s/amp.belfasttelegraph.co.uk/news/uk/cressida-dick-facial-recognition-critics-should-face-up-to-victims-of-crime-38984989.html"
+        height: 721
+  - title: "FlightHub and JustFly on Facial Recognition Technology, Travel and Privacy"
+    excerpt: "For years facial recognition technology only existed in science books, television and cinema. The idea was brilliant. However, real-world technology hadn’t yet caught up with the concept. That’s changed in recent years. Facial recognition software is no longer a vague notion. It’s reality. To experience it firsthand, look no further than ..."
+    publishedDateTime: 2020-02-11T14:11:00Z
+    webUrl: "https://cloudtweaks.com/2020/02/facial-recognition-technology-travel-privacy/"
     type: article
     provider:
-      name: Belfast Telegraph Digital
-      domain: belfasttelegraph.co.uk
-    quality: 56
+      name: Cloud
+      domain: cloudtweaks.com
+    quality: 37
     images:
-      - url: "https://www.belfasttelegraph.co.uk/news/uk/20e5a/38984986.ece/alternates/w700/bpanews_036c0fc6-e90b-4b02-8fd6-310400dc250d_1"
-        width: 700
-        height: 435
-  - title: "Portland considering strictest ban on facial recognition technology in the U.S."
-    excerpt: "“Please look at camera for entry.” Jacksons’ use of facial recognition technology could soon be outlawed in Portland. City officials are considering the strictest ban of the technology in the country, prohibiting its use not only by government agencies but also private businesses. Facial recognition technology typically uses a camera and ..."
-    publishedDateTime: 2020-02-21T15:20:00Z
-    webUrl: "https://www.oregonlive.com/portland/2020/02/portland-considering-strictest-ban-on-facial-recognition-technology-in-the-us.html"
-    ampWebUrl: "https://www.oregonlive.com/portland/2020/02/portland-considering-strictest-ban-on-facial-recognition-technology-in-the-us.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/portland/2020/02/portland-considering-strictest-ban-on-facial-recognition-technology-in-the-us.html?outputType=amp"
-    type: article
-    provider:
-      name: Oregonian
-      domain: oregonlive.com
-    quality: 55
-    images:
-      - url: "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/MUODS64EPVH7LB6P6GFG4M5MUM.JPG"
-        width: 4272
-        height: 2848
-  - title: "Moscow Enforces Coronavirus Quarantine with Facial Recognition Technology"
-    excerpt: "Moscow is harnessing the power of facial recognition technology to try to stop the spread of the coronavirus (COVID-19). The city's mayor said on Friday that the tech was being used in Russia's capital in an effort to dissuade people placed under ..."
-    publishedDateTime: 2020-02-25T17:41:00Z
-    webUrl: "https://www.infosecurity-magazine.com/news/moscow-enforces-coronavirus/"
-    type: article
-    provider:
-      name: Infosecurity-magazine.com
-      domain: infosecurity-magazine.com
-    quality: 18
-  - title: "Washington State moves ahead on bill to regulate governments’ use of facial-recognition technology"
-    excerpt: "OLYMPIA, Wash. — Washington state senators Wednesday approved a bill that would begin regulating the use of facial-recognition programs by local and state governments. Sponsored by Democratic state Sen."
-    publishedDateTime: 2020-02-20T03:03:00Z
-    webUrl: "https://www.omaha.com/news/national/washington-state-moves-ahead-on-bill-to-regulate-governments-use/article_81a5a78c-4b22-548f-b17f-95e8e5e84552.html"
-    type: article
-    provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 10
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/custom/image/9595a7a2-2379-11e7-b3c5-13eacc36a918.jpg"
-        width: 1200
-        height: 630
-  - title: "Washington Senate passes bill to regulate governments’ use of facial-recognition technology"
-    excerpt: "OLYMPIA — Washington state senators Wednesday approved a bill that would begin regulating the use of facial-recognition programs by local and state governments. Sponsored by Sen. Joe Nguyen, D-White Center, Senate Bill 6280 is one of a series of legislative proposals this year to counter technology that is evolving fast, regulated little and ..."
-    publishedDateTime: 2020-02-20T02:25:00Z
-    webUrl: "https://www.seattletimes.com/seattle-news/politics/washington-senate-passes-bill-to-regulate-governments-use-of-facial-recognition-technology/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 0
+      - url: "https://cloudtweaks.com/wp-content/uploads/2020/02/Kyle-Bernard-author1-compressor.png"
+        width: 500
+        height: 470
 
 secured: "dM2GlwsXHdGJwPTaCE8ZAqyoiWdBAqVp6LrCu8MrESnF8R7YAU1/o5yceu6vc9Km3C0isAuRJehq3XAWmyDb/DenhH12YwWBklJwa7Y7GZ8I3DKU1oBPuiuGsMeOnZ/3WjsyPqRuOPZGFzFH1/2wkfJqYjD60rWFGQOpwkCIuCZQSuK1SIlq1cvqS33t+jRZlsC0dIU6E2EyhUW4OHMDzg9MtbFfV/JgjbN5KC5YULJhdP/CZ4fEikvlP+QE4sRxUxLiAMOHqhh8DLYx3eF0DWxP7CWhBG6HeeVt92nVNKfSxrMGob2QxkzzuYr25dV4xgG7S2tVjRIklsdoVXKNNZirqeOn/rrYuTTciLy/IbKZg7aDOi+AA0lRP72mxpZesD6AXGeJIqJcB8zCb9FpBhmPvrHhoOmcFZTWzGDGAf3KvvmrxLZp9HhwjMW/ryIrlzmQXUuxMrieDb1X0umYb2DNLy/FSIujBlFphJfheKU=;hin9bt2gzubGKlhvkV4DQw=="
 ---

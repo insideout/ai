@@ -35,7 +35,7 @@ related:
     provider:
       name: recordonline.com
       domain: recordonline.com
-    quality: 59
+    quality: 159
     images:
       - url: "https://www.recordonline.com/apps/pbcsi.dll/bilde?Site=TH&Date=20200224&Category=NEWS&ArtNo=200229625&Ref=AR"
         width: 6000

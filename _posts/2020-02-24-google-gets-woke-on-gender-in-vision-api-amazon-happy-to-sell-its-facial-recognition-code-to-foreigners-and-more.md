@@ -25,6 +25,6 @@ images:
     height: 250
     title: "Google gets woke on gender in Vision API, Amazon happy to sell its facial recognition code to foreigners, and more"
 
-secured: "vXMb/jc3KnPUFYUzgGn47lEl0xyxmKMouunZsxeEmo3g8OP/W5dKw0TcTMLlwCtBIUkJBvk+XGEb68yS4eSOZlNlXDlb/MS532LQU6dpr8HtGEMUFep5V4WoJvs1hdkjamB11Gl9B/2/1BIHUK5lidADVoUD3/I7ZymSa82OBTsD06WJCIz4JYGuLy1eJ0hWw7QGRcU9wfGQCKHNMOb2/1HhXuVCnRXHYkA+WofYX9xHMLFuI4J40E3vqMI6Ezk/U0/exjQVjzDiXwLJcdkS3beGJSKpI92FQLp6600tpClLw3pXq8ibQNg1qSfiTQSR;nGWADw6YsWS3l3uausQiLQ=="
+secured: "4GNMJvV++D+tP+djqjEBU0Ey7k58/zUr3oiISQ7CTBzguA7xyGp9wFFsFuPcj+lq85eo/CbKf48QdNtpbXF5u1DbA0zSF3tXmDYg7Q8i8+dmOh8hH+3d5/r8JJMYRiudFzgbjRJiBUWTroJ4fpLizvJwTFQf5yUdvDSf3znphmjc47VQKaZ2ahZneqO8Db059MLCiTL/wF22QX1mhxF4IUhwvrxRnOMz2GV0NjVdOludvM7NV7oPUFAQf+g6uRfnc9vpUw1nT5mo7IHs5wf2XfOXc9iyeLd8hayk3J3mNswVypEW8qdqoMDumu/WXqSo+0L3vTxWl9zEl1IrKxrL/NLuPTjQ70mZ4d/0itjs/zA7t/ixC26AWshvtcHg4SHZNw4uEG7iHquGV82c+5D3yaviC+hfVFUBTqyPCY0+Dsby6Oik5p5/jT0PczUuX4ST4rorFcbbuHW/t7Fq1vicwDdHFTVMRqKg38DAWIr4Hfc=;sORfhit01Jwr5TvEys1waw=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-25T19:19:00Z
 webUrl: "https://www.hrdive.com/news/interest-in-machine-learning-and-ai-up-though-slowing-one-platform-report/572947/"
 type: article
 quality: 51
-heat: 61
+heat: -1
 published: false
 
 provider:
@@ -24,19 +24,76 @@ images:
     title: "Interest in machine learning and AI up, though slowing, one platform reports"
 
 related:
-  - title: "Si2 Launches Special Interest Group for AI and ML in Electronic Design Automation"
-    excerpt: "\"High manufacturing costs and the growing complexity of chip development are spurring disruptive technologies such as AI and ML,\" Clevenger explained. \"Si2 provides a unique opportunity for semiconductor companies, EDA suppliers and IP providers to voice their needs andfocus resources on common solutions, including leveraging university research.\""
-    publishedDateTime: 2020-02-25T17:41:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2020/02/25/9104148.htm"
+  - title: "Gmail Is Catching More Malicious Attachments With Deep Learning"
+    excerpt: "And it's working. At the RSA security conference in San Francisco on Tuesday, Google's security and anti-abuse research lead Elie Bursztein will present findings on how the new deep learning scanner for documents is faring against the 300 billion attachments it has to process each week. It's challenging to tell the difference between legitimate ..."
+    publishedDateTime: 2020-02-25T20:18:00Z
+    webUrl: "https://www.wired.com/story/gmail-catching-more-malicious-attachments-deep-learning/"
+    ampWebUrl: "https://www.wired.com/story/gmail-catching-more-malicious-attachments-deep-learning/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/gmail-catching-more-malicious-attachments-deep-learning/amp"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
+      name: Wired
+      domain: wired.com
+    quality: 104
     images:
-      - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
-        width: 252
-        height: 335
+      - url: "https://media.wired.com/photos/5e555fe0a4dea100087f9715/master/pass/Security_gmail-816901264.jpg"
+        width: 2300
+        height: 1533
+  - title: "Battery charging meets machine learning"
+    excerpt: "But perhaps that testing is not so extensive, thanks to a new system described in the journal Nature. The system uses a combination of machine learning and Bayesian inference to rapidly zero in on the optimal charging pattern for any battery, cutting the amount of testing needed down considerably. Fast charging is obviously useful for ..."
+    publishedDateTime: 2020-02-19T22:10:00Z
+    webUrl: "https://arstechnica.com/science/2020/02/using-machine-learning-to-figure-out-how-to-charge-your-gadgets-batteries/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 49
+  - title: "Turning Machine Learning into Business Applications"
+    excerpt: "Machine Learning is viewed as an essential enabler that will allow applications to act on the collection of new data sets to improve their predictive capabilities. This white paper shows how Talend and AWS are bridging the gap between data scientists and data engineers to operationalize ML."
+    publishedDateTime: 2020-02-24T21:58:00Z
+    webUrl: "https://www.networkworld.com/resources/199257/turning-machine-learning-into-business-applications"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 39
+    images:
+      - url: "https://idge.staticworld.net/nww/nww_logo_300x300.png"
+        width: 300
+        height: 300
+  - title: "Facebook Faculty Research Award recognizes machine learning advancements at MSU"
+    excerpt: "Zhang and Yan have been invited to the Facebook Research AI Systems Faculty Summit in Fall 2020. Read more on the research award winners and finalists honored by Facebook. Thinking beyond the box: MSU a leader in packaging scienceFeb 05, 2020When it comes to finding solutions for a better tomorrow, Spartans have. . . Does a growth mindset ..."
+    publishedDateTime: 2020-02-18T21:09:00Z
+    webUrl: "https://msutoday.msu.edu/news/2020/facebook-faculty-research-award-recognizes-machine-learning-advancements-at-msu/"
+    type: article
+    provider:
+      name: Michigan State University
+      domain: msu.edu
+    quality: 37
+    images:
+      - url: "https://msutoday.msu.edu/_/img/assets/2019/social-media-3.jpg"
+        width: 1024
+        height: 605
+  - title: "Stargazing with computers: What machine learning can teach us about the cosmos"
+    excerpt: "Astrophysicists supported by the DOE Office of Science are developing these guides in the form of computer models that rely on machine learning to examine the LSST data. Machine learning is a process where a computer program learns over time about the relationships in a set of data. Computer Programs that Learn Processing data quickly is a must ..."
+    publishedDateTime: 2020-02-20T15:28:00Z
+    webUrl: "https://phys.org/news/2020-02-stargazing-machine-cosmos.html"
+    ampWebUrl: "https://phys.org/news/2020-02-stargazing-machine-cosmos.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-02-stargazing-machine-cosmos.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 35
+  - title: "Work with data in Azure Machine Learning"
+    excerpt: "Learn how to work with datastores and datasets in Azure Machine Learning. In this module, you will learn how to: Create and use datastores in Azure Machine Learning. Create and use datasets in Azure Machine Learning."
+    publishedDateTime: 2020-02-20T22:57:00Z
+    webUrl: "https://docs.microsoft.com/en-us/learn/modules/work-with-data-in-aml/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 19
 
 secured: "jm+/2Hph5B08kZZhXEQHj4ZhhKc0Mxk8nBPFqGS4Aq4ZCL5LeP/52bP1dI7/nD9yuw6UkL5c51icVs1AX+S57TvwFnY9Tp3HoeMv1Wpxl8z/zpmoS6ajIEa3GBv8AelXkKhgFTTR4/8aioijNuBCwcTkFIRHAfMo03bLjPyPOJukSdVUlOyk5acsuwJq3v31WLUKqBvJO8qDP5lfX0iQcHyixAx4uqA+W42DLqRWeCZRaheQhabd/ro8kPSNlBJLpQiT2q5xwkvwsaOmDscsB/o6zWFUcIE+7FfqfJ5JUFpCERVTK1HBxVH708/dpYe+;SBikyo85M5D+FZ93l/3osw=="
 ---

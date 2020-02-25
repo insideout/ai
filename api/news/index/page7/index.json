@@ -2,6 +2,43 @@
   "page": 7,
   "value": [
     {
+      "path": "_posts/2020-02-23-mohamed-bin-zayed-international-robotics-challenge-kicks-off.md",
+      "title": "Mohamed bin Zayed International Robotics Challenge kicks-off",
+      "excerpt": "Khalifa University of Science and Technology, some 32 teams are competing to establish their artificial intelligence skills in the capture of drones ABU DHABI- The US$5 million biennial international robotics competition, the Mohamed bin Zayed International Robotics Challenge 2020, MBZIRC, opened today in the nation's capital, Abu Dhabi.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zawya.com/mena/en/life/story/Mohamed_bin_Zayed_International_Robotics_Challenge_kicksoff-WAM20200223131026553/",
+      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/WAM20200223131026553/",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/WAM20200223131026553/",
+      "publishedDateTime": "2020-02-23T05:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.zawya.com/resources/img/zawya-logo-en-social.png",
+          "width": 1200,
+          "height": 878,
+          "title": "Mohamed bin Zayed International Robotics Challenge kicks-off",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_posts/2020-02-23-this-ai-researcher-thinks-we-have-it-all-wrong.md",
       "title": "This AI Researcher Thinks We Have It All Wrong",
       "excerpt": "Are we too focused on data? Is what we call AI just statistics on large data sets? Is what we are doing with machine learning right now really AI?",
@@ -291,6 +328,43 @@
       ]
     },
     {
+      "path": "_posts/2020-02-24-china-delays-self-driving-car-deployment-goal-to-2025.md",
+      "title": "China delays self-driving car deployment goal to 2025",
+      "excerpt": "Why it matters: China backing off its ambitious plans underscores the challenging technological leap that self-driving technology has proven to be. Global auto tech giants have struggled to make autonomous cars safe for public use. The valuation of Google’s AV arm Waymo was slashed by 40% to $105 billion late last year, while General Motors ...",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://technode.com/2020/02/24/china-delays-self-driving-car-deployment-goal-to-2025/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-24T06:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechNode",
+        "domain": "technode.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://technode.com/wp-content/uploads/2019/01/bigstock-Smart-Car-Self-driving-Mode-V-260101189.jpg",
+          "width": 1775,
+          "height": 1080,
+          "title": "China delays self-driving car deployment goal to 2025",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_posts/2020-02-24-choosing-between-rule-based-bots-and-ai-bots.md",
       "title": "Choosing Between Rule-Based Bots And AI Bots",
       "excerpt": "Chatbot success stories are inspiring companies to adopt bots for customer service purposes. However, the main question to be considered before adopting bots is whether to go with rule-based bots or AI bots.",
@@ -544,10 +618,46 @@
       ]
     },
     {
+      "path": "_posts/2020-02-24-from-california-to-dc-these-are-the-proposals-for-reforming-law-firm-ownership.md",
+      "title": "From California to D.C., These Are the Proposals for Reforming Law Firm Ownership",
+      "excerpt": "On Twitter at @packeld A weekly ... This study demonstrates how to analyze, streamline, and extract meaningful value from your contract database, with specific examples around M&A deal points. Formulate a compelling business case to win support for adopting artificial intelligence (AI) powered contract analysis using data, benefits and pain ...",
+      "heat": 127,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.law.com/americanlawyer/2020/02/24/from-california-to-d-c-these-are-the-proposals-for-reforming-law-firm-ownership/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-24T14:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Law",
+        "domain": "law.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.law.com/contrib/content/uploads/sites/405/2019/11/Sacramento-State-Capitol-Article-201802222202.jpg",
+          "width": 620,
+          "height": 372,
+          "title": "From California to D.C., These Are the Proposals for Reforming Law Firm Ownership",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_posts/2020-02-24-global-automatic-speech-recognition-software-market-innovations-and-top-companies-forecast-to-2029-baidu-google-and-facebook.md",
       "title": "Global Automatic Speech Recognition Software Market Innovations, And Top Companies - Forecast To 2029| Baidu, Google and Facebook",
       "excerpt": "Global Automatic Speech Recognition Software Market (Revenue and Volume), Type, Application, End-User, and Regional Analysis, Import-Export Analysis, Industry Analysis, Premium Insights, Intellectual Property Analysis,",
-      "heat": 95,
+      "heat": 85,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.marketwatch.com/press-release/global-automatic-speech-recognition-software-market-innovations-and-top-companies---forecast-to-2029-baidu-google-and-facebook-2020-02-24",
@@ -632,6 +742,50 @@
         "AI",
         "Machine Learning",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-24-googles-ai-detects-adversarial-attacks-against-image-classifiers.md",
+      "title": "Google’s AI detects adversarial attacks against image classifiers",
+      "excerpt": "Defenses against adversarial attacks, which in the context of AI refer to techniques that fool models through malicious input, are increasingly being broken by “defense-aware” attacks. In fact, most state-of-the-art methods claiming to detect adversarial attacks have been counteracted shortly after their publication. To break the cycle ...",
+      "heat": 167,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/24/googles-ai-detects-adversarial-attacks-against-image-classifiers/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-24T08:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/4d7874af-b02e-40f1-8c6a-51d9d85f4d09-e1582563235661.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 774,
+          "title": "Google’s AI detects adversarial attacks against image classifiers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -847,6 +1001,43 @@
       "topics": [
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-24-met-police-chief-facial-recognition-technology-critics-are-ill-informed.md",
+      "title": "Met police chief: facial recognition technology critics are ill-informed",
+      "excerpt": "Cressida Dick defends tech after civil liberties groups raise fears over accuracy and privacy",
+      "heat": 488,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theguardian.com/technology/2020/feb/24/met-police-chief-cressida-dick-facial-recognition-technology-critics-ill-informed",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2020/feb/24/met-police-chief-cressida-dick-facial-recognition-technology-critics-ill-informed",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/feb/24/met-police-chief-cressida-dick-facial-recognition-technology-critics-ill-informed",
+      "publishedDateTime": "2020-02-24T07:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/6527a5db37946bab14375a67ded41e294359749b/109_407_2779_1667/master/2779.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8db0391fdb6cc0f6fc84eadbd17fff8d",
+          "width": 600,
+          "height": 360,
+          "title": "Met police chief: facial recognition technology critics are ill-informed",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
       ]
     },
     {
@@ -1151,7 +1342,7 @@
       "path": "_posts/2020-02-24-over-view-of-machine-learning-and-its-applications.md",
       "title": "Over View of Machine Learning and its Applications",
       "excerpt": "The Machine learning is a field of computer science evolved after studying the patterns and statistics of accumulative data, the data engineers / developers with help of specific algorithms for different data pattern sort out the features differences while as we already know before machine learning financial experts use statistical approaches ...",
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "type": "article",
       "webUrl": "https://medium.com/@sajjadhussain_11869/over-view-of-machine-learning-and-its-applications-bca25464669e",
@@ -1235,51 +1426,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-24-should-government-halt-the-use-of-facial-recognition-technology.md",
-      "title": "Should Government Halt the Use of Facial-Recognition Technology?",
-      "excerpt": "Critics say false positives are far higher for some groups of people than for others, but supporters of the technology says the actual numbers involved are tiny.",
-      "heat": 134,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wsj.com/articles/should-government-halt-the-use-of-facial-recognition-technology-11582513260",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/should-government-halt-the-use-of-facial-recognition-technology-11582513260",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/should-government-halt-the-use-of-facial-recognition-technology-11582513260",
-      "publishedDateTime": "2020-02-23T20:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-156193/social",
-          "width": 1280,
-          "height": 640,
-          "title": "Should Government Halt the Use of Facial-Recognition Technology?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     },
     {
@@ -1550,6 +1696,52 @@
       ]
     },
     {
+      "path": "_posts/2020-02-25-an-ai-to-make-practical-decisions-and-to-play-flappy-bird.md",
+      "title": "An AI to make practical decisions and to play Flappy Bird",
+      "excerpt": "The game of Go was famously solved by DeepMind's AlphaZero through a cutting-edge reinforcement learning approach. While Flappy Bird is nowhere near as complex as Go, it's a good starting place for any AI project in reinforcement learning. (Other companies, including IBM, have explored Flappy Bird as a testbed for AI.) The journalist didn't ...",
+      "heat": 101,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/an-ai-to-make-practical-decisions-and-to-play-flappy-bird/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/an-ai-to-make-practical-decisions-and-to-play-flappy-bird/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/an-ai-to-make-practical-decisions-and-to-play-flappy-bird/",
+      "publishedDateTime": "2020-02-25T12:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/02/25/de47ff6a-924b-4b1f-80d3-8478d306daf6/dp3q8848.jpg",
+          "width": 1280,
+          "height": 960,
+          "title": "An AI to make practical decisions and to play Flappy Bird",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_posts/2020-02-25-argo-ais-ceo-explains-why-its-fleet-of-self-driving-taxis-wont-be-all-electric-at-first.md",
       "title": "Argo AI’s CEO explains why its fleet of self-driving taxis won’t be all-electric (at first)",
       "excerpt": "One of the burning questions facing self-driving carmakers is whether it makes sense to go all-electric. Some companies, like GM-owned Cruise, are all in on battery-electric vehicles, seeing both self-driving and all-electric as the future. Others are keeping one foot in the present, like how Waymo is building a fleet that includes both all ...",
@@ -1636,6 +1828,43 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-25-artificial-intelligence-hub-planned-for-orange-county.md",
+      "title": "Artificial intelligence hub planned for Orange County",
+      "excerpt": "HIGHLAND FALLS – A local economic development agency has big ambitions to lure researchers and companies to the Village of Highland Falls to study artificial intelligence ... of tasks normally requiring human intelligence, including visual perception, speech recognition and decision-making. Robots, self-driving cars and missile systems ...",
+      "heat": 169,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.recordonline.com/news/20200224/artificial-intelligence-hub-planned-for-orange-county",
+      "ampWebUrl": "https://www.recordonline.com/news/20200224/artificial-intelligence-hub-planned-for-orange-county?template=ampart",
+      "cdnAmpWebUrl": "https://www-recordonline-com.cdn.ampproject.org/c/s/www.recordonline.com/news/20200224/artificial-intelligence-hub-planned-for-orange-county?template=ampart",
+      "publishedDateTime": "2020-02-24T16:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "recordonline.com",
+        "domain": "recordonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.recordonline.com/apps/pbcsi.dll/bilde?Site=TH&Date=20200224&Category=NEWS&ArtNo=200229625&Ref=AR",
+          "width": 6000,
+          "height": 4000,
+          "title": "Artificial intelligence hub planned for Orange County",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -1811,51 +2040,6 @@
       ]
     },
     {
-      "path": "_posts/2020-02-25-brazilian-police-introduces-live-facial-recognition-for-carnival.md",
-      "title": "Brazilian police introduces live facial recognition for Carnival",
-      "excerpt": "The use of facial recognition technology in Brazil has evolved and is now in place in the largest possible laboratory: the Carnival. Live facial recognition had been used in Brazil during Carnival at a much smaller scale last year. In 2020, it has been rolled out by police forces for the first time across six capitals across the country.",
-      "heat": 229,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/brazilian-police-introduces-live-facial-recognition-for-carnival/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/brazilian-police-introduces-live-facial-recognition-for-carnival/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/brazilian-police-introduces-live-facial-recognition-for-carnival/",
-      "publishedDateTime": "2020-02-25T07:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/02/25/223dd119-1c80-4896-8818-902097a30a04/thumbnail/1200x675/808da210432be716cc5b9d6bd6996ef8/qu.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Brazilian police introduces live facial recognition for Carnival",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_posts/2020-02-25-brief-abb-announces-partnership-with-ai-start-up.md",
       "title": "BRIEF-ABB Announces Partnership with AI Start-Up",
       "excerpt": "Our Standards:The Thomson Reuters Trust Principles.",
@@ -1943,231 +2127,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-25-competing-in-the-age-of-ai-is-simpler-than-you-think.md",
-      "title": "Competing In The Age Of AI Is Simpler Than You Think",
-      "excerpt": "Artificial Intelligence is already fundamentally changing business and operations models, argue two Harvard Business School professors in a recent book. They show that it is simpler to implement than many expect.",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/sophiamatveeva/2020/02/25/competing-in-the-age-of-ai-is-simpler-than-you-think/",
-      "ampWebUrl": "https://www.forbes.com/sites/sophiamatveeva/2020/02/25/competing-in-the-age-of-ai-is-simpler-than-you-think/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sophiamatveeva/2020/02/25/competing-in-the-age-of-ai-is-simpler-than-you-think/amp/",
-      "publishedDateTime": "2020-02-25T04:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e54c26476f73b0006dfd7ac%2F0x0.jpg",
-          "width": 1200,
-          "height": 729,
-          "title": "Competing In The Age Of AI Is Simpler Than You Think",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-25-deep-learning-market-size-sales-growth-drivers-opportunities-industry-trends-and-forecast-to-2026.md",
-      "title": "Deep Learning Market Size, Sales, Growth Drivers, Opportunities, Industry Trends and Forecast to 2026",
-      "excerpt": "Deep learning is a subfield of machine learning that consist of a series of computer instructions or algorithms that is inspired by the function and structure of the brain. Deep learning is widely known as artificial neural networks or deep neural networks.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-size-sales-growth-drivers-opportunities-industry-trends-and-forecast-to-2026-2020-02-25",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-25T03:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Deep Learning Market Size, Sales, Growth Drivers, Opportunities, Industry Trends and Forecast to 2026",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-25-defining-humanlike-intelligence-and-entrusting-it-with-our-lives-explained-by-an-ai-researcher.md",
-      "title": "Defining humanlike intelligence and entrusting it with our lives, explained by an AI researcher",
-      "excerpt": "Yesterday, Melanie Mitchell, the author of ‘Artificial Intelligence: A Guide for Thinking Humans’ and the Davis Professor ... Most fears around AI usually stem from Hollywood movies that make us believe that one day autonomous robots will kill all humans and make Earth their own, or these same robots will take away all human meaning as ...",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/02/25/defining-humanlike-intelligence-and-entrusting-it-with-our-lives-explained-by-an-ai-researcher/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/02/25/defining-humanlike-intelligence-and-entrusting-it-with-our-lives-explained-by-an-ai-researcher/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/25/defining-humanlike-intelligence-and-entrusting-it-with-our-lives-explained-by-an-ai-researcher/amp/",
-      "publishedDateTime": "2020-02-25T09:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-...-2-1-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Defining humanlike intelligence and entrusting it with our lives, explained by an AI researcher",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-25-facebook-threw-some-petty-cash-at-misinformation-research.md",
-      "title": "Facebook threw some petty cash at misinformation research",
-      "excerpt": "Any data collected by research teams must comply with Facebook’s (or other companies’) terms and policies ... such as staffing content moderation teams and designing AI to catch it before it spreads. But the company falls short when it comes to helping independent experts assess the issue. It’s not an easy task. Facebook must balance ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://qz.com/1807835/facebook-threw-some-petty-cash-at-misinformation-research/",
-      "ampWebUrl": "https://qz.com/1807835/facebook-threw-some-petty-cash-at-misinformation-research/amp/",
-      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/1807835/facebook-threw-some-petty-cash-at-misinformation-research/amp/",
-      "publishedDateTime": "2020-02-25T11:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Quartz",
-        "domain": "qz.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/qz.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cms.qz.com/wp-content/uploads/2020/02/AP_19296617736196-e1582599756258.jpg?quality=75&strip=all&w=1400",
-          "width": 1400,
-          "height": 869,
-          "title": "Facebook threw some petty cash at misinformation research",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-25-graphcore-the-ai-chipmaker-raises-another-150m-at-a-195b-valuation.md",
-      "title": "Graphcore, the AI chipmaker, raises another $150M at a $1.95B valuation",
-      "excerpt": "The UK has a strong history when it comes to chips and processors, but the global chip market has seen some ups and downs ... hardware and corresponding Poplar software — which is designed specifically for the kind of simultaneous, intensive calculations demanded of AI applications innovators create next generation machine intelligence ...",
-      "heat": 146,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/02/24/graphcore-the-ai-chipmaker-raises-another-150m-at-a-1-95b-valuation/",
-      "ampWebUrl": "https://techcrunch.com/2020/02/24/graphcore-the-ai-chipmaker-raises-another-150m-at-a-1-95b-valuation/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/24/graphcore-the-ai-chipmaker-raises-another-150m-at-a-1-95b-valuation/amp/",
-      "publishedDateTime": "2020-02-25T03:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2018/12/Graphcore-server-chassis.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": "Graphcore, the AI chipmaker, raises another $150M at a $1.95B valuation",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Microsoft AI"
       ]
     }
   ],

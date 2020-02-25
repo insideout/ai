@@ -5,9 +5,9 @@ excerpt: "Why it matters: China backing off its ambitious plans underscores the 
 publishedDateTime: 2020-02-24T14:16:00Z
 webUrl: "https://technode.com/2020/02/24/china-delays-self-driving-car-deployment-goal-to-2025/"
 type: article
-quality: 24
-heat: 24
-published: false
+quality: 124
+heat: 134
+published: true
 
 provider:
   name: TechNode
@@ -23,6 +23,19 @@ images:
     height: 1080
     title: "China delays self-driving car deployment goal to 2025"
 
-secured: "mxndns+0NxbozqtDmYHcDwiMuY/TBtDPt946VtTX1rNH3ZtdkJFTBu0I7iE0i64LP0XZSM8EvutiJePEcqyhMDmWJFFySGyqkibuvGZR1YqFH7kPjXX0osM82VpTC8VhKJziBsBpWn/5guZ+edEpxM7pnW3lq5H2fieCM2YNCFA962HMBVWFarxdBqfP6pU40qvsFw3AQN46AOYQ9lhqHokBOmN2PAjN79UZ9Rmy6kx//FnDm5LcQTjph6YexfgCCazVkT+L6ijl8rtxvIvMgwdg07Ys+oszJ/fdCKAxnSYBlDBOWJeYuPzJuVmFCs1PHxs8TZnwfuiqv+pnq33M/5T+vWHY98xDpj1NWufE+CmA5iVUhEzYLCoGbVmHeQaDuTuRIh0Ig6dZUxPiaV+beVsf2AzBkKrSGquXTZWZ3WSbr9z3Y4N5o6/yx8zG1c6+5iwk7cDWIubybbA2pnTKFMkIoNeHDL/Y7Jd5ta6HUs4=;tLku4QpboHSHgOOaWoQR4w=="
+related:
+  - title: "New algorithm to prevent self-driving cars from bumping into each other"
+    excerpt: "Researchers have developed a novel algorithm that may allow collision-free transportation in autonomous vehicles, an advance which they claim can help self-driving cars navigate each other without crashing, or causing traffic jams.The study, published in the journal IEEE Transactions on Robotics, tested the algorithm in a simulation of 1,024 ..."
+    publishedDateTime: 2020-02-25T17:56:00Z
+    webUrl: "https://www.financialexpress.com/auto/car-news/new-algorithm-to-prevent-self-driving-cars-from-bumping-into-each-other/1878897/"
+    ampWebUrl: "https://www.financialexpress.com/auto/car-news/new-algorithm-to-prevent-self-driving-cars-from-bumping-into-each-other/1878897/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/auto/car-news/new-algorithm-to-prevent-self-driving-cars-from-bumping-into-each-other/1878897/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 24
+
+secured: "3TF+twUUbDT0jLGq887sKUdCAtvT9U39llTAQ8QjhTyYtckWZNPYIZrdKsV4Hp2al+aaUDVpnISoF3lfi7pEMQas78TGHLco9Qt6fb3gQbBwmHtlWqx5FZXicYxLLfXSgQzjU5wJF14l2OG6safWmpJb4rYoTx9XDPsCM5u9diBqwCrsBqg1tRKzYe7n8g8C+0MXKdn9Hu+8fTJ7WYJwD824+MOfNUym29OkjVwmsW++IH2N1LYgGIXs766LjXpZcbcZ/JMZfX7tmCCGXLA0Do5Uko1jfUc7cYLrmBDQ42tkzvX4z+csbc59kgTMQnUYuX5YlSyoc79Z61lf+0k9oj4KLJvXT667AUj52Syzkmo3X7/9q+ZzV5OdKQdI4ohoWWIjkWSwyw/sLb86XaKjlXTcm5ChDoFLKut36taRn75IVoJY/hSKYBHTedg3e9l3bqeeHb4SY4cbFve36zBP6OaPYcAKS5rlXkx7JyO6AoXVum7s15Y6HUPZzarlspRj;NNTtisNQzGue9R47h/teLw=="
 ---
 

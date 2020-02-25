@@ -2,50 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_posts/2020-02-19-europe-unveils-its-big-ai-strategy-others-are-abusing-ai-that-mustnt-happen-here.md",
-      "title": "Europe unveils its big AI strategy: Others are abusing AI. That mustn't happen here",
-      "excerpt": "Behind that broad description, the new strategy's objectives are specific: establish rules on data and AI that are quintessentially European – regulation that \"puts people first\" and fosters \"trustworthy technology\". In a white paper on artificial intelligence released as part of the new strategy announcement, the European organisation ...",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/europe-unveils-its-big-ai-strategy-others-are-abusing-ai-that-mustnt-happen-here/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/europe-unveils-its-big-ai-strategy-others-are-abusing-ai-that-mustnt-happen-here/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/europe-unveils-its-big-ai-strategy-others-are-abusing-ai-that-mustnt-happen-here/",
-      "publishedDateTime": "2020-02-19T06:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/02/12/406da351-9402-440d-9f74-da3fa7b763f3/thumbnail/1200x675/cafc827b01356f8c2c0d097d94577582/13-samsung-galaxy-s20-ultra-zoom-1-1.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Europe unveils its big AI strategy: Others are abusing AI. That mustn't happen here",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-19-facebooks-ai-speeds-up-natural-language-processing-without-additional-training.md",
       "title": "Facebook’s AI speeds up natural language processing without additional training",
       "excerpt": "In a recent paper, researchers at Facebook AI Research assert that the first problem — the mapping problem — might be easier than the prediction problem, a hypothesis they build upon to augment language models with a “nearest neighbors” retrieval mechanism. They say it allows rare patterns to be memorized and that it achieves a state-of ...",
@@ -1555,7 +1511,7 @@
       "path": "_posts/2020-02-20-cybermdx-announces-integration-with-microsoft-azure-security-center-for-iot.md",
       "title": "CyberMDX Announces Integration With Microsoft Azure Security Center for IoT",
       "excerpt": "/PRNewswire/ -- CyberMDX, a leading provider of medical cyber security solution, delivering asset visibility and threat prevention for medical devices",
-      "heat": 122,
+      "heat": 112,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.prnewswire.com/news-releases/cybermdx-announces-integration-with-microsoft-azure-security-center-for-iot-301008578.html",
@@ -1637,7 +1593,7 @@
       "path": "_posts/2020-02-20-facebook-will-now-pay-you-for-your-voice-recordings.md",
       "title": "Facebook will now pay you for your voice recordings",
       "excerpt": "Facebook will offer to pay some users for voice recordings that will be used to help improve its speech recognition technology, the company announced Thursday. The move comes after Facebook — as well as Amazon, Apple, Google, and Microsoft — was caught listening to and transcribing voice recordings to improve speech recognition systems ...",
-      "heat": 404,
+      "heat": 384,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.theverge.com/2020/2/20/21145584/facebook-pay-record-voice-speech-recognition-viewpoints-proununciations-app",
@@ -2111,6 +2067,50 @@
         "AI",
         "AI Ethics",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-20-jpeg-committee-is-banking-on-ai-to-build-its-next-image-codec.md",
+      "title": "JPEG committee is banking on AI to build its next image codec",
+      "excerpt": "Joint Photographic Experts Group (JPEG), a committee that maintains various JPEG image-related standards, has started exploring a way to involve AI to build a new compression standard.",
+      "heat": 187,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/02/20/jpeg-committee-is-banking-on-ai-to-build-its-next-image-codec/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/02/20/jpeg-committee-is-banking-on-ai-to-build-its-next-image-codec/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/20/jpeg-committee-is-banking-on-ai-to-build-its-next-image-codec/amp/",
+      "publishedDateTime": "2020-02-20T03:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/MIT-Model.jpg",
+          "width": 739,
+          "height": 390,
+          "title": "JPEG committee is banking on AI to build its next image codec",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

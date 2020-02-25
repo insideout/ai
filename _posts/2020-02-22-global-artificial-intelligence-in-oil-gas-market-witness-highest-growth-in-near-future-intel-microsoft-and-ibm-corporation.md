@@ -60,19 +60,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Image Recognition Software Market is Booming Worldwide with Qualcomm Technologies, Microsoft, IBM, Google"
-    excerpt: "This intelligence report provides a comprehensive analysis of the Global Image Recognition Software Market. This includes Investigation of past progress, ongoing market scenarios, and future prospects."
-    publishedDateTime: 2020-02-21T16:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/image-recognition-software-market-is-booming-worldwide-with-qualcomm-technologies-microsoft-ibm-google-2020-02-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
 
 secured: "wekiLGBJB1mJVvE2/L+4QVGP9t6JPEczHtUgWUbL5G+Gkfe2j5FKeJQk90bfCz6dwS1Z4nC28J7cwZY5SYziLjh5Z6uaLYHuOijNoU6hiwVhXYbgC4ZGd1497KsuSQM3OFxXyfdNqOYs6V9+WJ2PVeYzUrqNWEeelznpmbqlKb6mgB/xkY8jrnpktxR+2EKAGFhkZ79MtZZInpmy9IdBw+IV40JkR8Rcbpy4nHtV1ADCF7w613sHDzeAT0ZjQK7khOkgLSORowrgEs8h9vCGYsGUCz2Szxw9ST+SUUTdvDV6kewCJxWjLdW3uGTrry6F;R0PNWa3pdYbpvEBtQdxgdA=="
 ---

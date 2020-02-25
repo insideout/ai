@@ -2,23 +2,23 @@
   "page": 6,
   "value": [
     {
-      "path": "_posts/2020-02-20-jpeg-committee-is-banking-on-ai-to-build-its-next-image-codec.md",
-      "title": "JPEG committee is banking on AI to build its next image codec",
-      "excerpt": "Joint Photographic Experts Group (JPEG), a committee that maintains various JPEG image-related standards, has started exploring a way to involve AI to build a new compression standard.",
-      "heat": 187,
+      "path": "_posts/2020-02-20-london-police-just-turned-on-facial-recognition-in-one-of-the-worlds-busiest-shopping-districts.md",
+      "title": "London Police Just Turned On Facial Recognition In One Of The World’s Busiest Shopping Districts",
+      "excerpt": "Just across from the Microsoft store on London’s Regent Street, and just outside the entrance to the Oxford Circus tube station, cameras atop dark blue police vans are watching passersby. London's Metropolitan Police says the rollout of the \"live\" facial recognition across the British capital would reduce serious crime,",
+      "heat": 116,
       "tags": null,
       "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/02/20/jpeg-committee-is-banking-on-ai-to-build-its-next-image-codec/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/02/20/jpeg-committee-is-banking-on-ai-to-build-its-next-image-codec/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/20/jpeg-committee-is-banking-on-ai-to-build-its-next-image-codec/amp/",
-      "publishedDateTime": "2020-02-20T03:16:00-08:00",
+      "webUrl": "https://www.forbes.com/sites/thomasbrewster/2020/02/20/london-police-just-turned-on-facial-recognition-in-one-of-the-worlds-busiest-shopping-districts",
+      "ampWebUrl": "https://www.forbes.com/sites/thomasbrewster/2020/02/20/london-police-just-turned-on-facial-recognition-in-one-of-the-worlds-busiest-shopping-districts/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/thomasbrewster/2020/02/20/london-police-just-turned-on-facial-recognition-in-one-of-the-worlds-busiest-shopping-districts/amp/",
+      "publishedDateTime": "2020-02-20T06:49:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
+        "name": "Forbes",
+        "domain": "forbes.com",
         "images": [
           {
-            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -30,10 +30,10 @@
       },
       "images": [
         {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/MIT-Model.jpg",
-          "width": 739,
-          "height": 390,
-          "title": "JPEG committee is banking on AI to build its next image codec",
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e4e88d0765d4500072cc76a%2F0x0.jpg",
+          "width": 1200,
+          "height": 794,
+          "title": "London Police Just Turned On Facial Recognition In One Of The World’s Busiest Shopping Districts",
           "attribution": null
         }
       ],
@@ -42,7 +42,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "Computer Vision"
       ]
     },
     {
@@ -1065,10 +1066,54 @@
       ]
     },
     {
+      "path": "_posts/2020-02-21-elon-musk-jeff-bezos-and-star-trek-collide-in-uncanny-deepfake.md",
+      "title": "Elon Musk, Jeff Bezos and Star Trek collide in uncanny deepfake",
+      "excerpt": "Bezos transforms into an alien and Musk becomes the captain of the USS Enterprise. SpaceX founder Elon Musk dreams of space exploration. Blue Origin and Amazon founder Jeff Bezos also looks to the stars.",
+      "heat": 192,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/elon-musk-jeff-bezos-and-star-trek-collide-in-uncanny-deepfake/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/elon-musk-jeff-bezos-and-star-trek-collide-in-uncanny-deepfake/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/elon-musk-jeff-bezos-and-star-trek-collide-in-uncanny-deepfake/",
+      "publishedDateTime": "2020-02-21T08:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet1.cbsistatic.com/img/UGxT2J0zrqUEaSCEsQzH8HMP5qo=/756x567/2020/02/21/275d7032-eb36-48ba-8dab-5617a111c864/muskstartrek.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "Elon Musk, Jeff Bezos and Star Trek collide in uncanny deepfake",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_posts/2020-02-21-facial-recognition-company-clearview-ai-probed-by-canada-privacy-agencies.md",
       "title": "Facial recognition company Clearview AI probed by Canada privacy agencies",
       "excerpt": "Canadian privacy authorities have launched an investigation into New York-based Clearview AI to determine whether the firm’s use of facial recognition technology complies with the country’s privacy laws,",
-      "heat": 183,
+      "heat": 153,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.reuters.com/article/us-clearview-ai-canada-idUSKBN20F2I3",
@@ -1372,7 +1417,7 @@
       "path": "_posts/2020-02-21-leaked-reports-show-eu-police-are-planning-a-pan-european-network-of-facial-recognition-databases.md",
       "title": "Leaked Reports Show EU Police Are Planning a Pan-European Network of Facial Recognition Databases",
       "excerpt": "the EU could soon be creating a network of national police facial recognition databases. A report drawn up by the national police forces of 10 EU member states, led by Austria, calls for the introduction of EU legislation to introduce and interconnect such databases in every member state. The report, which The Intercept obtained from a European ...",
-      "heat": 286,
+      "heat": 176,
       "tags": null,
       "type": "article",
       "webUrl": "https://theintercept.com/2020/02/21/eu-facial-recognition-database/",
@@ -1535,7 +1580,7 @@
       "path": "_posts/2020-02-21-self-driving-car-companies-complain-california-test-data-may-mislead.md",
       "title": "Self-driving car companies complain California test data may mislead",
       "excerpt": "Developers of self-driving cars are amping up criticism of a California reporting requirement on test data, saying the data could mislead, as the state prepares to release the latest results for 2019.",
-      "heat": 139,
+      "heat": 129,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.reuters.com/article/us-autos-self-driving-california/self-driving-car-companies-complain-california-test-data-may-mislead-idUSKBN20F2F7",
@@ -1883,7 +1928,7 @@
       "path": "_posts/2020-02-22-linden-self-driving-shuttle-out-of-service-after-woman-said-she-was-thrown-from-seat.md",
       "title": "Linden self-driving shuttle out of service after woman said she was thrown from seat",
       "excerpt": "COLUMBUS (WCMH) — The Linden self-driving shuttle is out of operation after a person fell on that shuttle just yesterday. Since this shuttle has been put into action on Feb. 5, Smart Columbus has recorded around 50 people riding the shuttle around the Linden area and no problems. Both of the shuttles are sitting in a garage until shuttles ...",
-      "heat": 72,
+      "heat": 82,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.nbc4i.com/news/local-news/linden-self-driving-shuttle-out-of-service-after-woman-said-she-was-thrown-from-seat/",
@@ -2095,43 +2140,6 @@
         "AI",
         "Natural Language Processing",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-23-mohamed-bin-zayed-international-robotics-challenge-kicks-off.md",
-      "title": "Mohamed bin Zayed International Robotics Challenge kicks-off",
-      "excerpt": "Khalifa University of Science and Technology, some 32 teams are competing to establish their artificial intelligence skills in the capture of drones ABU DHABI- The US$5 million biennial international robotics competition, the Mohamed bin Zayed International Robotics Challenge 2020, MBZIRC, opened today in the nation's capital, Abu Dhabi.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zawya.com/mena/en/life/story/Mohamed_bin_Zayed_International_Robotics_Challenge_kicksoff-WAM20200223131026553/",
-      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/WAM20200223131026553/",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/WAM20200223131026553/",
-      "publishedDateTime": "2020-02-23T05:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.zawya.com/resources/img/zawya-logo-en-social.png",
-          "width": 1200,
-          "height": 878,
-          "title": "Mohamed bin Zayed International Robotics Challenge kicks-off",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

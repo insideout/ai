@@ -35,21 +35,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 84
-  - title: "Education Robot Maker Roybi Boosts Kids Speech Recognition Technology With Acquisition"
-    excerpt: "“It’s not something you can build quickly,” says Sarraf. “It requires a lot of data and a lot of time.” Purchasing KidSense made sense because most commercial speech recognition tools are built based on data from adults speaking, she adds. Plus, the technology can work offline, meaning that children can still interact with Roybi on ..."
-    publishedDateTime: 2020-02-25T18:06:00Z
-    webUrl: "https://www.edsurge.com/news/2020-02-25-education-robot-maker-roybi-boosts-kids-speech-recognition-technology-with-acquisition"
-    ampWebUrl: "https://www.edsurge.com/amp/news/2020-02-25-education-robot-maker-roybi-boosts-kids-speech-recognition-technology-with-acquisition"
-    cdnAmpWebUrl: "https://www-edsurge-com.cdn.ampproject.org/c/s/www.edsurge.com/amp/news/2020-02-25-education-robot-maker-roybi-boosts-kids-speech-recognition-technology-with-acquisition"
-    type: article
-    provider:
-      name: EdSurge
-      domain: edsurge.com
-    quality: 68
-    images:
-      - url: "https://edsurge.imgix.net/uploads/post/image/13132/DSC4766-1582597428.jpg?auto=compress%2Cformat&w=640&h=260&fit=crop"
-        width: 640
-        height: 260
   - title: "Local AI firm builds speech recognition for Kinyarwanda"
     excerpt: "Digital Umuganda, a fully Rwandan artificial intelligence (AI) firm, is building an automatic speech and voice recognition infrastructure for Kinyarwanda in partnership with Rwanda Utility and Regulatory Authority (RURA). The technology is part of RURA’s joint initiative dubbed KinyaTech with a non-profit behind Firefox web-browser ..."
     publishedDateTime: 2020-02-25T13:42:00Z

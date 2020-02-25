@@ -5,7 +5,7 @@ excerpt: "“This runs in stark contrast to Russia and China, whose use of AI te
 publishedDateTime: 2020-02-25T05:46:00Z
 webUrl: "https://www.airforcetimes.com/artificial-intelligence/2020/02/24/the-pentagon-now-has-5-principles-for-artificial-intelligence/"
 type: article
-quality: 39
+quality: 139
 heat: -1
 published: false
 
@@ -220,6 +220,6 @@ related:
       domain: fedscoop.com
     quality: 17
 
-secured: "GdPcjPKtkVBnW41Oqk5b4NfMh1mmWX9su6q9cy/Oggvdx4Dq9dRrrcX1dDDR5/1c/YYR+wu3578Cr4XYPRm3UKmC+QTCqSo5mMlDH0BxOutIZmTReXnSdggWybUKVMVaY0cVmP96hct8OEHKsLPrLgcEhaceBtize0jBeCpgX8nqLtiitUFfG6aiMndJpHLB6Fxwe0e9cbJmzCxcSMXtv6g/M4Y6vb9rv/csljEDKIhlvqlFCSRkt9d62BRtqFTgsl/6e24Z7fAtJELr5bjNbeTDFTWR/lD0WiMFUJZ5EceYtgD9gSFt/+3rSA4o0DF6qtpSEvQrU6fENbdhnjMhSHDuuN7oOWOwNiIH2sytyRA8Z02TD10V8LXK72T/Q6fRnP88OZfi5vjYxXH6vfrsfbx/5nWjuQ277A2VlHK4eVePPN+R6g+VSjLV8ivkfxV9FUwRM9u5xv005M8MU0whe/X8Lvh308iQ1KalqIx2FdQ=;HfcY2+wv0hBModkT2iMyfA=="
+secured: "OcIafJ+GElk3QlhUKG+X/IZraDvzTk3wD0jKEQtdbrMbjlH8XyN1+EM5ysb2RTwRCjE8+XztlIM/5oXA6JdgJVO72Z1vQ6gorx2oMRgM32uMkOsn1g5jx5/+/iD5n2CZ5qzNVV+4A+OHP+hl36rImYxIVGVazQ/mofPGypzGGhU69ViKtlgmg4SvHGrVXdaUpLQFqtjJCNJHde9MDHneA/298HCS9SleLRgXu7fBBe7jfdgY3aJ0rXSWJvsaDsEMiJJ1YMxlf4ATB3E93sqMqDEwedCkKO7phtt558yyP48c1x73RBu0HcIfDgiQ5KdrDC2t4hg1abW88YJccCnnz5gymsw4DZ7UVN3FxO/427KHt30jUhJBHHm4plY3RzxuCoMLU8RMPCPXiRxKvntNWKVl2OHuiPVROhEXub4pifccT/veWP1DQkAqXVifmqbvXPDhX/ry/3Km069YU1d2DUQekko0Qlae1ZHHhd8hs799blJoV8jylYt417/bY6ij;Out0Zc0ox8S9saO3GFyDZA=="
 ---
 

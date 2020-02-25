@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-10T00:00:00Z
 webUrl: "https://www.design-reuse.com/articles/41154/traffic-sign-recognition-tsr-system.html"
 type: article
 quality: 2
-heat: -1
+heat: 2
 published: false
 
 provider:
@@ -17,21 +17,6 @@ topics:
   - AI
   - Computer Vision
 
-related:
-  - title: "FlightHub and JustFly on Facial Recognition Technology, Travel and Privacy"
-    excerpt: "For years facial recognition technology only existed in science books, television and cinema. The idea was brilliant. However, real-world technology hadn’t yet caught up with the concept. That’s changed in recent years. Facial recognition software is no longer a vague notion. It’s reality. To experience it firsthand, look no further than ..."
-    publishedDateTime: 2020-02-11T14:11:00Z
-    webUrl: "https://cloudtweaks.com/2020/02/facial-recognition-technology-travel-privacy/"
-    type: article
-    provider:
-      name: Cloud
-      domain: cloudtweaks.com
-    quality: 37
-    images:
-      - url: "https://cloudtweaks.com/wp-content/uploads/2020/02/Kyle-Bernard-author1-compressor.png"
-        width: 500
-        height: 470
-
-secured: "9cpJ8YQZsBiDAThedx3bJYOg58Gl33YdgXwQTtXHz/+XtVFmrvBnWAofiPxO7lETpI++ZTBOJbaPu/KAR531pRA6X40gQEyNa8ACZD3QH/P8mzzB0jcPgfcNKSxEi7MQNraNpQyhb7bkgIGGh8iLd+INX3px8oYQ7mqzQGiNgEbO6M11A5OgXzdQEsJl0nEApeLH5rhhx9drNFi5enILmTnD4rj+oia13NPljsevPUmZ01X3jQuiMvCvQNAlMDRElG69NFMqROcEPtGgOuoe7/JA8RqyGu2qDaiWYWkDShNw6oq1eH01Zbx8ZEkvrOnU;bCgldl+P9qzPWXXzJUF/hA=="
+secured: "nNZr9NiFdR9+4Fq2ZJiVgw+Jbeqi1wzCGwXPEQjzPOiucr3/KkguVixZUZBZzN3VSpHnAeL77V6hRDcbWImFnETRenZniHcnpH7b3G7CXJtp+ZUcbmxJYpwH+2++Fr2lzzgB+gOCgB6KlgyHzT6zQx0ieyV+lSH50thW55IPhYfvD79yRu7afn/VVILxF2ko1NiEVvsy/tPtB30eFy+2vW7sy+wi0tbReuCXZvyvTGcDlRJ37BBD4GWxv9OxPp/B6wqU/tm4Dft0Dgky9cAU+tmgB9kE1fxlCpR+sZPHtDZIMIHO/IEYx7tGfOHbC0D3;bYyBkZhSPg8BH5MhkLc1tg=="
 ---
 

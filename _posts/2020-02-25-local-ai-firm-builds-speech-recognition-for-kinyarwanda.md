@@ -35,21 +35,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 84
-  - title: "Education Robot Maker Roybi Boosts Kids Speech Recognition Technology With Acquisition"
-    excerpt: "“It’s not something you can build quickly,” says Sarraf. “It requires a lot of data and a lot of time.” Purchasing KidSense made sense because most commercial speech recognition tools are built based on data from adults speaking, she adds. Plus, the technology can work offline, meaning that children can still interact with Roybi on ..."
-    publishedDateTime: 2020-02-25T18:06:00Z
-    webUrl: "https://www.edsurge.com/news/2020-02-25-education-robot-maker-roybi-boosts-kids-speech-recognition-technology-with-acquisition"
-    ampWebUrl: "https://www.edsurge.com/amp/news/2020-02-25-education-robot-maker-roybi-boosts-kids-speech-recognition-technology-with-acquisition"
-    cdnAmpWebUrl: "https://www-edsurge-com.cdn.ampproject.org/c/s/www.edsurge.com/amp/news/2020-02-25-education-robot-maker-roybi-boosts-kids-speech-recognition-technology-with-acquisition"
-    type: article
-    provider:
-      name: EdSurge
-      domain: edsurge.com
-    quality: 68
-    images:
-      - url: "https://edsurge.imgix.net/uploads/post/image/13132/DSC4766-1582597428.jpg?auto=compress%2Cformat&w=640&h=260&fit=crop"
-        width: 640
-        height: 260
   - title: "Roybi Acquires Kid-Focused AI Speech Recognition Platform KidSense.AI"
     excerpt: "The former stands out as an AI speech recognition platform designed specifically to recognize the voices of children. Details of the deal were not disclosed. “Fusing the KidSense.AI technology with Roybi Robot allows us to offer the most powerful AI engine in language learning in the world,” said founder and CEO Elnaz Sarraf, in a statement."
     publishedDateTime: 2020-02-25T18:25:00Z

@@ -1,24 +1,56 @@
 ---
 category: news
 title: "OpsRamp Introduces AI-Driven Suggestions for Greater Transparency and Faster Incident Remediation"
-excerpt: "SAN JOSE, Calif., Feb. 25, 2020 (GLOBE NEWSWIRE) -- OpsRamp, a modern SaaS platform for hybrid infrastructure discovery, monitoring, management, and automation, today announced OpsQ Recommend Mode, an industry-leading capability for first-response and incident remediation."
+excerpt: "The OpsRamp Winter 2020 Release also introduces 19 new cloud monitoring integrations for Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP), along with dynamic topology maps for Azure and GCP. Highlights of the Winter 2020 Release include: AIOps: OpsQ is OpsRamp's intelligent event management, alert correlation ..."
 publishedDateTime: 2020-02-25T08:00:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/02/g15401245/opsramp-introduces-ai-driven-suggestions-for-greater-transparency-and-faster-incident-remediation"
-ampWebUrl: "https://amp.benzinga.com/amp/content/15401245"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15401245"
+webUrl: "https://markets.businessinsider.com/news/stocks/opsramp-introduces-ai-driven-suggestions-for-greater-transparency-and-faster-incident-remediation-1028934454"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/OpsRamp-Introduces-AI-Driven-Suggestions-for-Greater-Transparency-and-Faster-Incident-Remediation-1028934454"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/OpsRamp-Introduces-AI-Driven-Suggestions-for-Greater-Transparency-and-Faster-Incident-Remediation-1028934454"
 type: article
-quality: 26
-heat: 26
-published: false
+quality: 56
+heat: 76
+published: true
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
   - Microsoft AI
 
-secured: "jQ/9n8/0BqjOdGq9I/RaVOFICmx31cvgvg/tBxGDwXV3ohRNIqNFN9wYxW3fwBJlevhqYXefOwXYuDljUx+g0qm13ge2IhnKgT/2Nzb87tpfnrAwU/LWh3Pv9W57dZmRJm2Rf6htDdFA8UcKC1Mofp1GZKiMxeztwa5wIWfJlL7MPRGLI9sEXrrUf96boTAwatH+ogXGnkbcGDYDmn4ieQUZstC/sczlpuNUfsNWbvztIejd6zcfokQ7sqI4t2ij1I9dq01pgD3Ho1wZpax5TGTGVRYA+1YexJ5Ni4dipMmwMAaAb55TnLOu7inQKcJn;nRQWuwF1+WYYdPW/HCLYyw=="
+related:
+  - title: "Agiloft introduces AI Engine for advanced contract automation on no-code platform"
+    excerpt: "Prebuilt machine learning models also enable users to implement their own custom AI tools with existing data. Additionally, the open AI Engine features an integration template to bring in machine learning models from Amazon SageMaker and Google TensorFlow to build entirely custom AI tools on Agiloft’s no-code platform. Advanced translations ..."
+    publishedDateTime: 2020-02-25T19:35:00Z
+    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=139412"
+    type: article
+    provider:
+      name: KMWorld Magazine
+      domain: kmworld.com
+    quality: 36
+    images:
+      - url: "https://www.kmworld.com/images/subscribe_magazines_km.png"
+        width: 772
+        height: 594
+  - title: "CyberX Announces Integration with Microsoft Azure Security Center for IoT, Joins Microsoft Intelligent Security Association"
+    excerpt: "According to Michal Braverman-Blumenstyk, CTO and GM, Cloud and AI Security Division at Microsoft Corp.: “CyberX’s IoT security platform and integration with the Microsoft Azure Security Center for IoT enables customers to go further and faster with IoT innovations that drive new revenue streams and operational efficiencies — without comp ..."
+    publishedDateTime: 2020-02-20T18:16:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200220005507/en/CyberX-Announces-Integration-Microsoft-Azure-Security-Center"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 28
+    images:
+      - url: "https://mms.businesswire.com/media/20200220005507/en/774439/23/cyberx.jpg"
+        width: 1200
+        height: 627
+
+secured: "ZOBT0B9hpn3UVqz8n0l/s+LhyNM1tdrGpeRezeZDEjI7alUYoPrNlPs7k1If//Q0/5cvg5H/DNvlsw1ynlsX4TDJ/I0nd5X/QWbOXjBLw/5nkqXtzoAKIfSq0nU2D6Shdm3opXyvZ0e7sfk0EyKbwYFaP59th3Cf1SWmYsLQT0GmbcsV17z4ls4PhiuqAqOjxOcdNH+WfiPSUXB0BVeocg1UUqApn0UNGOjCbu8bux+3gYS48zrWFKb7NDQNuekbYjM7t90IhNrL5eYHmD+2vi78QGp0bPrPOps1BB/Hq+4wCeD1mgmGAXztIzf2hWDe;wf3yWWnSueFRuKvm0QRidw=="
 ---
 

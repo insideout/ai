@@ -31,19 +31,6 @@ related:
       - url: "https://miro.medium.com/max/1200/1*hVCDF0_dOqDcwpXLGduZGg.jpeg"
         width: 1200
         height: 899
-  - title: "Turning Machine Learning into Business Applications"
-    excerpt: "Machine Learning is viewed as an essential enabler that will allow applications to act on the collection of new data sets to improve their predictive capabilities. This white paper shows how Talend and AWS are bridging the gap between data scientists and data engineers to operationalize ML."
-    publishedDateTime: 2020-02-24T22:09:00Z
-    webUrl: "https://www.computerworld.com/resources/199257/turning-machine-learning-into-business-applications"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 39
-    images:
-      - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
-        width: 300
-        height: 300
   - title: "Combining Quantum Mechanics and Machine-Learning Calculations for Anharmonic Corrections to Vibrational Frequencies"
     excerpt: "Center for Nonlinear Phenomena and Complex Systems, Code Postal 231, Université Libre de Bruxelles, Boulevard du Triomphe, 1050 Brussels, Belgium Article Views are the COUNTER-compliant sum of full text article downloads since November 2008 (both PDF and HTML) across all institutions and individuals. These metrics are regularly updated to ..."
     publishedDateTime: 2020-02-23T20:02:00Z

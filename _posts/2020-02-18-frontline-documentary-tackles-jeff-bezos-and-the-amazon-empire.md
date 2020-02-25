@@ -8,8 +8,8 @@ ampWebUrl: "https://www.engadget.com/amp/2020/02/18/amazon-jeff-bezos-pbs-frontl
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/18/amazon-jeff-bezos-pbs-frontline-documentary/"
 type: article
 quality: 74
-heat: 84
-published: true
+heat: -1
+published: false
 
 provider:
   name: Engadget
@@ -30,19 +30,36 @@ images:
     title: "‘Frontline’ documentary tackles Jeff Bezos and the ‘Amazon Empire’"
 
 related:
-  - title: "Amazon, AWS In ‘Frontline’ Crosshairs With New PBS Documentary"
-    excerpt: "and law enforcement’s use of Amazon Rekognition facial-recognition technology. It also explores allegations of worker exploitation at Amazon fulfillment centers and product safety problems. Amazon, which gave “Frontline” access to AWS CEO Andy Jassy and five other top Amazon executives, declined comment when reached by CRN. AWS has ..."
-    publishedDateTime: 2020-02-13T16:44:00Z
-    webUrl: "https://www.crn.com/news/cloud/amazon-aws-in-frontline-crosshairs-with-new-pbs-documentary"
+  - title: "Elon Musk, Jeff Bezos and Star Trek collide in uncanny deepfake"
+    excerpt: "Bezos transforms into an alien and Musk becomes the captain of the USS Enterprise. SpaceX founder Elon Musk dreams of space exploration. Blue Origin and Amazon founder Jeff Bezos also looks to the stars."
+    publishedDateTime: 2020-02-21T16:08:00Z
+    webUrl: "https://www.cnet.com/news/elon-musk-jeff-bezos-and-star-trek-collide-in-uncanny-deepfake/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/elon-musk-jeff-bezos-and-star-trek-collide-in-uncanny-deepfake/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/elon-musk-jeff-bezos-and-star-trek-collide-in-uncanny-deepfake/"
     type: article
     provider:
-      name: CRN
-      domain: crn.com
-    quality: 54
+      name: CNET
+      domain: cnet.com
+    quality: 172
     images:
-      - url: "https://www.crn.com/resources/025a-0eb12d808102-a3154313a208-1000/aws-booth.jpg"
-        width: 610
-        height: 457
+      - url: "https://cnet1.cbsistatic.com/img/UGxT2J0zrqUEaSCEsQzH8HMP5qo=/756x567/2020/02/21/275d7032-eb36-48ba-8dab-5617a111c864/muskstartrek.jpg"
+        width: 756
+        height: 567
+  - title: "This disturbingly realistic deepfake puts Jeff Bezos and Elon Musk in a Star Trek episode"
+    excerpt: "A new deepfake puts Amazon CEO Jeff Bezos and Tesla CEO Elon Musk in the pilot episode of the original Star Trek, “The Cage” — and I kind of love it. In this particular AI-powered face swap, Bezos plays a Talosian alien with a huge bald head, while Musk plays Captain Christopher Pike (who is the captain of the USS Enterprise before James T."
+    publishedDateTime: 2020-02-20T20:35:00Z
+    webUrl: "https://www.theverge.com/tldr/2020/2/20/21145826/deepfake-jeff-bezos-elon-musk-alien-star-trek-the-cage-amazon-tesla"
+    ampWebUrl: "https://www.theverge.com/platform/amp/tldr/2020/2/20/21145826/deepfake-jeff-bezos-elon-musk-alien-star-trek-the-cage-amazon-tesla"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/tldr/2020/2/20/21145826/deepfake-jeff-bezos-elon-musk-alien-star-trek-the-cage-amazon-tesla"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 163
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/lczaz1KAcYJicQ9ZO_-vif-J9RU=/0x0:480x282/1400x933/filters:focal(202x103:278x179):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66345404/Feb_20_2020_10_54_02.0.gif"
+        width: 480
+        height: 282
 
 secured: "7oy6cmFJevi9gEjbeOGAvXJoM3Q/hAX7nSzlwsv7ZUDNyU+Kf9nibol23xnsVs4v/Ps+1fiZT8ME/nH+5An40sZvDQ8WfCCINz8lDBE4RACsC9SFs5jpw3ZTArz0b3vnAivOUURDa6aYF7SnirRG6zlDFbQF/yZyActrpTxQYHveL3nQicApYITkorODQnVDs+oLB/EH7rL8CweZZiCJ5A3BVBHYC/KRaj0kAURgGS8zk2EaKRUMcwD9SvXYZ2hKwikQOMLUfTVGloVQ0X90GgYBFPoDjuH7UFfI5f0vq8A+KhzQ/dkGMuW0sIQKUkBWA0cnWv1pf1J9Qw9STnNQZxN+3Af/VWSLGw2TZZbkMX4HNLx/gYobFRscq5cmBvKRDJ15Unr6bCCR24hK+OxvX+yB5HtncD/VwKmiWF4GvBjZZRQhryFCUT09LreNEjLRFDXiBYg4S/7/ARnkQPbXWBZ94flRYaY30LXsqDAkTSo=;9kAGIDvLvFoUbw54x7cOTw=="
 ---

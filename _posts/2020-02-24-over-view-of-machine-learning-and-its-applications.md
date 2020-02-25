@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-24T23:35:00Z
 webUrl: "https://medium.com/@sajjadhussain_11869/over-view-of-machine-learning-and-its-applications-bca25464669e"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -28,19 +28,6 @@ images:
     title: "Over View of Machine Learning and its Applications"
 
 related:
-  - title: "Turning Machine Learning into Business Applications"
-    excerpt: "Machine Learning is viewed as an essential enabler that will allow applications to act on the collection of new data sets to improve their predictive capabilities. This white paper shows how Talend and AWS are bridging the gap between data scientists and data engineers to operationalize ML."
-    publishedDateTime: 2020-02-24T22:09:00Z
-    webUrl: "https://www.computerworld.com/resources/199257/turning-machine-learning-into-business-applications"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 39
-    images:
-      - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
-        width: 300
-        height: 300
   - title: "Cutting communications overhead for distributed learning apps"
     excerpt: "As the military depends more on edge devices that provide data-driven insights and allow warfighters to better collaborate, machine-learning applications face challenges sharing their data in contested, congested and bandwidth-constrained environments. Now, scientists at the Army Research Lab have shown that distributed deep learning algorithms ..."
     publishedDateTime: 2020-02-19T23:48:00Z

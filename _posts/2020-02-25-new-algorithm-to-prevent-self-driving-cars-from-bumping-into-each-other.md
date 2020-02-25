@@ -20,21 +20,19 @@ topics:
   - AI in Autos
 
 related:
-  - title: "New algorithm for self-driving vehicles has a bold ‘collision-free guarantee’"
-    excerpt: "Researchers have developed an algorithm that could stop self-driving vehicles from getting in crashes and traffic jams. The team from Northwestern University (NU) claims their invention is “the first decentralized algorithm with a collision-free, deadlock-free guarantee.” The algorithm divides the ground beneath the machines into a grid."
-    publishedDateTime: 2020-02-25T18:54:00Z
-    webUrl: "https://thenextweb.com/neural/2020/02/25/this-algorithm-for-self-driving-vehicles-comes-with-collision-free-guarantee/"
-    ampWebUrl: "https://thenextweb.com/neural/2020/02/25/this-algorithm-for-self-driving-vehicles-comes-with-collision-free-guarantee/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/25/this-algorithm-for-self-driving-vehicles-comes-with-collision-free-guarantee/amp/"
+  - title: "China delays self-driving car deployment goal to 2025"
+    excerpt: "Why it matters: China backing off its ambitious plans underscores the challenging technological leap that self-driving technology has proven to be. Global auto tech giants have struggled to make autonomous cars safe for public use. The valuation of Google’s AV arm Waymo was slashed by 40% to $105 billion late last year, while General Motors ..."
+    publishedDateTime: 2020-02-24T14:16:00Z
+    webUrl: "https://technode.com/2020/02/24/china-delays-self-driving-car-deployment-goal-to-2025/"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 71
+      name: TechNode
+      domain: technode.com
+    quality: 124
     images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/Untitled-design-33-1-796x417.png"
-        width: 796
-        height: 417
+      - url: "https://technode.com/wp-content/uploads/2019/01/bigstock-Smart-Car-Self-driving-Mode-V-260101189.jpg"
+        width: 1775
+        height: 1080
 
 secured: "RV5avlg6qdvyzy1Dg11AuWxE1wtp1zM9tM+krVx0TixNXSANWCdUmyjGNJYdoM31vUTEvtOURG5j3AbUdTn0Y7UTyzja3/1ap4wT3yQgSwXSy7XZik28y+NfIWqAuktC2DnHYZaT0u61flErih3Yt0XMwyf9CJh7UcrB6A7+88f2EAPrZ2mDIvZ35o3aEnI2Jz5NAtkccKWfitLk5ZDhkvuHg7+YlkIBXRRCv/a9OROy58DtlAXiHwMqUGg9uX7eUuVjLYfHJlX790qa7ZBYWSTBn3NU5fCT68vcCY3yxMbW6pRL0OR2nphMJoCdmvOz;EV/hdU/xr8bX9XYM8BjTFA=="
 ---

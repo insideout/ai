@@ -54,6 +54,19 @@ related:
       - url: "https://www.dispatch.com/apps/pbcsi.dll/bilde?Site=OH&Date=20200224&Category=NEWS&ArtNo=200229208&Ref=AR"
         width: 2000
         height: 1326
+  - title: "Columbus self-driving shuttle pilot program halted after 3 weeks following sudden stop"
+    excerpt: "A passenger falling aboard a self-driving shuttle as part of a pilot program in Columbus has put the project on hold less than three weeks after it began. The daily shuttle service in the Linden neighborhood in Columbus, Ohio, was halted after one of the pilot's vehicles made a sudden stop around noon Thursday, Feb. 20. One passenger fell from ..."
+    publishedDateTime: 2020-02-25T20:00:00Z
+    webUrl: "https://www.autonews.com/mobility-report/columbus-self-driving-shuttle-pilot-program-halted-after-3-weeks-following-sudden"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 16
+    images:
+      - url: "https://www.autonews.com/s3/files/styles/width_792/public/SMART-Columbus-MAIN_i.jpg"
+        width: 792
+        height: 416
 
 secured: "ZMQm45b0qv0AeAa/kGlqy95Ko467Y/nMjDDoyXFNKe3Hv32R6lyOjKkTnjjrFNmD8RKMX22g/ISGEovgTwns8ajdhQbAqZYaygK7lzi2zhz88/uJmI0vEXenNgiAvJbgVfE9dErhf4e+T6TIn4j5yrZSXp8ohxIi2V+26qwNp5Y1b7JVgCSL+NVHlMg3tw17MUnbgcbOqZMAZmsTg2VAliglgzqzjMq8iejt3ZTNnYRhAvo/GvEXyublmYzGApXVfh8ZJMAtz2cGj+9DsN3tBm1LC7XqiO9ZEs0kfhvZqHy2PwyhkedJJfSFMh76dmygu/z2zhMiMTq9IeZBprI/XBHI5pDIc/Dt5HvDpB0/UWUG9lNKyOMaOOQCEu2FtlAvTZscb/UJaIwtjat/2TyuVwy7YrzNBbYf9a11SdTaqtb6mv0s7+CZcsWHIFz9E2N5pSCSOGJfhm42IB/1dSaIpQjvNc2EYUtznA88bEVuH2Y=;XigTI9RH5jViy8eQ6nljEg=="
 ---

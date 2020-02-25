@@ -8,7 +8,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN20F2F7"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN20F2F7"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -73,21 +73,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/02/cruise-self-driving-california.jpg?w=1200&#038;strip=all"
         width: 1200
         height: 600
-  - title: "Self-driving vehicle makers say California is looking at the wrong data to measure their progress"
-    excerpt: "#SelfDriving car makers say #California is looking at the wrong data when it comes to measuring their #tech progress. #autonomousvehicles"
-    publishedDateTime: 2020-02-24T12:15:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2020/02/24/california-self-driving-car-disengagement-report.html"
-    ampWebUrl: "https://www.bizjournals.com/sanjose/news/2020/02/24/california-self-driving-car-disengagement-report.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2020/02/24/california-self-driving-car-disengagement-report.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 31
-    images:
-      - url: "https://media.bizj.us/view/img/10839744/waymo-jaguar*600xx2000-1333-0-0.jpg"
-        width: 600
-        height: 399
   - title: "Tables, footrests, smart speakers: Self-driving cars could become the living rooms of the future"
     excerpt: "With self-driving vehicles on the horizon, automakers are rethinking what the future of car interiors will look like. And because these completely autonomous cars, called Level 5 vehicles, will free drivers from focusing on the highway, companies are now free to experiment. And that means premium cars could be loaded with tech that makes ..."
     publishedDateTime: 2020-02-25T12:35:00Z

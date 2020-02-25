@@ -39,96 +39,6 @@ related:
       - url: "https://theintercept.com/wp-uploads/sites/1/2020/02/YotamHadar_TheIntercept_EUv4-still-1582297909.jpg"
         width: 2000
         height: 1000
-  - title: "Facial recognition critics are 'ill-informed' says police chief"
-    excerpt: "In the age of Twitter, Instagram or Facebook, concerns about police use of live facial recognition systems are overblown, especially if those systems will save us from being attacked in the street. That's the sentiment of Metropolitan Police Commissioner Cressida Dick, who in a speech this week made the case for the use of technology as a ..."
-    publishedDateTime: 2020-02-25T17:51:00Z
-    webUrl: "https://www.zdnet.com/article/facial-recognition-critics-are-ill-informed-says-police-chief/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/facial-recognition-critics-are-ill-informed-says-police-chief/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facial-recognition-critics-are-ill-informed-says-police-chief/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 89
-    images:
-      - url: "https://zdnet1.cbsistatic.com/hub/i/r/2019/11/11/d3af5161-14a8-4356-9feb-76346a4bd0cb/thumbnail/1200x675/2ffaf51a1bdfb4c8c3d70bdb244477cb/facial-recognition-could-be-most-invasiv-5dc16b0da99ca30001278b78-1-nov-11-2019-15-39-03-poster.jpg"
-        width: 1200
-        height: 675
-  - title: "Police board knew about facial recognition pilot, acting chair says"
-    excerpt: "Questions about the Ottawa police pilot of facial recognition software continued to swirl Monday as two police board members questioned the force on what its plans were for the controversial technology amid the revelation that the board knew about the pilot. Indeed, acting chair Sandy Smallwood said that the board was informed of the pilot at ..."
-    publishedDateTime: 2020-02-25T03:00:00Z
-    webUrl: "https://ottawacitizen.com/news/local-news/police-board-knew-about-facial-recognition-pilot-acting-chair-says"
-    ampWebUrl: "https://ottawacitizen.com/news/local-news/police-board-knew-about-facial-recognition-pilot-acting-chair-says/amp"
-    cdnAmpWebUrl: "https://ottawacitizen-com.cdn.ampproject.org/c/s/ottawacitizen.com/news/local-news/police-board-knew-about-facial-recognition-pilot-acting-chair-says/amp"
-    type: article
-    provider:
-      name: Ottawa Citizen
-      domain: ottawacitizen.com
-    quality: 74
-    images:
-      - url: "https://postmediaottawacitizen2.files.wordpress.com/2020/01/76459938-13306503-w-1.jpg"
-        width: 1000
-        height: 750
-  - title: "Police board knew about facial recognition pilot project, acting chair says"
-    excerpt: "Questions about the Ottawa police pilot of facial recognition software continued to swirl Monday as two police board members questioned the force on what its plans were for the controversial technology amid the revelation that the board knew about the pilot. Indeed, acting chair Sandy Smallwood said that the board was informed of the pilot at ..."
-    publishedDateTime: 2020-02-25T18:32:00Z
-    webUrl: "https://ottawacitizen.com/news/local-news/police-board-knew-about-facial-recognition-pilot-acting-chair-says"
-    ampWebUrl: "https://ottawacitizen.com/news/local-news/police-board-knew-about-facial-recognition-pilot-acting-chair-says/amp"
-    cdnAmpWebUrl: "https://ottawacitizen-com.cdn.ampproject.org/c/s/ottawacitizen.com/news/local-news/police-board-knew-about-facial-recognition-pilot-acting-chair-says/amp"
-    type: article
-    provider:
-      name: Ottawa Citizen
-      domain: ottawacitizen.com
-    quality: 72
-    images:
-      - url: "https://postmediaottawacitizen2.files.wordpress.com/2020/01/76459938-13306503-w-1.jpg"
-        width: 1000
-        height: 750
-  - title: "Police chiefs say facial recognition needs more review — but cops should be able to use AI"
-    excerpt: "The chiefs of two Greater Toronto Area police forces now slamming the brakes on the use of a contentious facial recognition tool admit the app should have undergone greater scrutiny before it was tested by their investigators. Clearview AI, a U.S.-based app providing an artificial intelligence-powered tool to law enforcement agencies ..."
-    publishedDateTime: 2020-02-22T18:47:00Z
-    webUrl: "https://www.thestar.com/news/gta/2020/02/22/police-chiefs-say-facial-recognition-needs-more-review-but-cops-should-be-able-to-use-ai.html"
-    ampWebUrl: "https://www.thestar.com/amp/news/gta/2020/02/22/police-chiefs-say-facial-recognition-needs-more-review-but-cops-should-be-able-to-use-ai.html"
-    cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/news/gta/2020/02/22/police-chiefs-say-facial-recognition-needs-more-review-but-cops-should-be-able-to-use-ai.html"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com
-    quality: 64
-    images:
-      - url: "https://images.thestar.com/qwkecqtwTW63-JSZV4bdnJsqCl4=/1200x800/smart/filters:cb(1582396914056)/https://www.thestar.com/content/dam/thestar/news/gta/2020/02/22/police-chiefs-say-facial-recognition-needs-more-review-but-cops-should-be-able-to-use-ai/afwpeelchief01.jpg"
-        width: 1200
-        height: 800
-  - title: "Live facial recognition technology used by police at Oxford Circus"
-    excerpt: "Live facial recognition technology has been deployed near Oxford Circus in London after an operational roll-out was announced last month. The van-mounted cameras were spotted at the busy location, which is popular with tourists, on Thursday morning. Image: The Met Police tweeted this to let people know It is believed to be the second time the ..."
-    publishedDateTime: 2020-02-20T15:35:00Z
-    webUrl: "https://news.sky.com/story/live-facial-recognition-technology-used-by-police-at-oxford-circus-11938683"
-    ampWebUrl: "https://news.sky.com/story/amp/live-facial-recognition-technology-used-by-police-at-oxford-circus-11938683"
-    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/live-facial-recognition-technology-used-by-police-at-oxford-circus-11938683"
-    type: article
-    provider:
-      name: Sky
-      domain: sky.com
-    quality: 59
-    images:
-      - url: "https://e3.365dm.com/20/02/1600x900/skynews-oxford-street-shoppers_4925640.jpg?20200220143955"
-        width: 1600
-        height: 900
-  - title: "Facial recognition software used by Waterloo Regional Police Service in past"
-    excerpt: "The Waterloo Regional Police Service says it used facial recognition technology 'on a very limited basis' in 2019, but Chief Bryan Larkin says it won't be used going forward until more is known about how it works and there's a policy in place for its use."
-    publishedDateTime: 2020-02-20T12:30:00Z
-    webUrl: "https://www.cbc.ca/news/canada/kitchener-waterloo/clearview-ai-facial-recognition-waterloo-regional-police-1.5468839"
-    ampWebUrl: "https://www.cbc.ca/amp/1.5468839"
-    cdnAmpWebUrl: "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.5468839"
-    type: article
-    provider:
-      name: CBC.ca
-      domain: www.cbc.ca
-    quality: 56
-    images:
-      - url: "https://i.cbc.ca/1.5403918.1581719698!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/china-security.JPG"
-        width: 620
-        height: 349
   - title: "Editorial: Facial recognition software takes personal invasion into a new dimension"
     excerpt: "Law enforcers around the world are celebrating the rapidly expanding potential of facial recognition software to help them catch criminals faster and solve long-dormant cases. Such capabilities in the right hands could reap enormous public safety dividends. But in the wrong hands, an entirely new dimension in crime, extortion and mayhem could ..."
     publishedDateTime: 2020-02-18T23:02:00Z
@@ -144,19 +54,6 @@ related:
       - url: "https://www.dailycamera.com/wp-content/uploads/2019/04/DC-backupimage-1000x563.jpg"
         width: 1000
         height: 563
-  - title: "GTA police chiefs say facial recognition needs more review — but cops should be able to use AI"
-    excerpt: "The chiefs of two Greater Toronto Area police forces now slamming the brakes on the use of a contentious facial recognition tool admit the app should have undergone greater scrutiny before it was tested by their investigators. Clearview AI, a U.S.-based app providing an artificial intelligence-powered tool to law enforcement agencies ..."
-    publishedDateTime: 2020-02-23T19:13:00Z
-    webUrl: "https://www.thespec.com/news-story/9862787-gta-police-chiefs-say-facial-recognition-needs-more-review-but-cops-should-be-able-to-use-ai/"
-    type: article
-    provider:
-      name: The Hamilton Spectator
-      domain: thespec.com
-    quality: 42
-    images:
-      - url: "https://dynamicmedia.zuza.com/zz/m/original_/2/5/25c13924-d942-4127-ab5c-876b462a3e14/B881053350Z.1_20200223131813_000_GI7SUH6U.4-0_Super_Portrait.jpg"
-        width: 625
-        height: 417
   - title: "Facial Recognition: Beware the ‘Long Arm of the Algorithm’"
     excerpt: "Facial recognition is unlikely to provide sufficient evidence to determine a guilty suspect in court without the intervention of human judgment, say two researchers from the United Kingdom. In a case study analyzing the South Wales Police Department’s automated facial recognition (AFR) pilot program called “AFR Locate,” found serious ..."
     publishedDateTime: 2020-02-18T13:05:00Z
@@ -185,41 +82,6 @@ related:
       - url: "https://cdni.rt.com/files/2020.02/xxl/5e5086f785f54034da19d85a.JPG"
         width: 1240
         height: 697
-  - title: "Edmonton police unveil details on use of facial recognition technology"
-    excerpt: "City police revealed details on Wednesday for plans to implement facial recognition technology to match suspects from crime scenes with known offenders. Internal discussions began a couple of years ago to use the technology and have ramped up in the last couple of months, said Warren Driechel, superintendent of the Edmonton police informatics ..."
-    publishedDateTime: 2020-02-20T01:16:00Z
-    webUrl: "https://edmontonjournal.com/news/local-news/edmonton-police-unveil-details-on-use-of-facial-recognition-technology"
-    type: article
-    provider:
-      name: Edmonton Journal
-      domain: edmontonjournal.com
-    quality: 34
-  - title: "EU police departments preparing massive international facial recognition database"
-    excerpt: "Internal documents leaked to The Intercept show that the European Union (EU) is creating the legislative framework for implementing an international facial recognition database that will likely be integrated with a similar system already in place in the US. The Intercept reported on Friday that an unnamed European official “who is concerned ..."
-    publishedDateTime: 2020-02-25T09:26:00Z
-    webUrl: "https://www.wsws.org/en/articles/2020/02/25/reco-f25.html"
-    type: article
-    provider:
-      name: World Socialist Web Site
-      domain: wsws.org
-    quality: 34
-    images:
-      - url: "https://www.wsws.org/img/open-graph-icon.png"
-        width: 1500
-        height: 785
-  - title: "Metropolitan Police deploys facial recognition in central London with two hours’ warning"
-    excerpt: "Police have deployed controversial facial recognition technology in central London with just two hours' notice, sparking privacy concerns. The Metropolitan Police installed a live facial recognition (LFR) camera at Oxford Circus, a highly-trafficked area ..."
-    publishedDateTime: 2020-02-20T13:59:00Z
-    webUrl: "https://www.independent.co.uk/news/uk/crime/met-police-facial-recognition-technology-city-westminster-a9346831.html"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 30
-    images:
-      - url: "https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/07/09/13/facialrecognition-ban.jpg"
-        width: 1998
-        height: 1499
   - title: "Announcement - Commissioners launch joint investigation into Clearview AI amid growing concerns over use of facial recognition technology"
     excerpt: "Media reports have stated that Clearview AI is using its technology to collect images and make facial recognition available to law enforcement for the purposes of identifying individuals. The company has also claimed to be providing its services to financial institutions. The four privacy regulators will examine whether the organization's ..."
     publishedDateTime: 2020-02-21T17:10:00Z
@@ -233,15 +95,6 @@ related:
       - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
         width: 252
         height: 335
-  - title: "Watch: Edmonton police give update on facial recognition technology"
-    excerpt: "Warren Driechel, superintendent of the Edmonton police informatics division, and Devin Laforce, superintendent of the Edmonton police investigative support, provided an update Wednesday on a project assessing and engaging in a facial recognition solution for the police service. The technology hasn’t been implemented yet as EPS is still ..."
-    publishedDateTime: 2020-02-20T01:38:00Z
-    webUrl: "https://edmontonjournal.com/news/local-news/watch-edmonton-police-update-on-facial-recognition-technology"
-    type: article
-    provider:
-      name: Edmonton Journal
-      domain: edmontonjournal.com
-    quality: 19
 
 secured: "OWtQup8hYeZWbWFedvl535ThTAC0LoJL91Kv+IemF91alSHd2p5oMQZVjLiR+zLaLz5imC5EsQUPGJDv0cUXLhPeWYgNOpz/PN+373BS1rAzUCenteiI1A0CqgP2sg5xSCK3l/aj5va6qar0xIn1P0+ymlT8OxmBkgaoVDcAHkQ0sD0ao4ME61ZJlZFght+1a2Wg0VET6hCAxKWsBLLfqtrWZnWd+E8PSmTG9/51PIo7cMIILY60gATEZlbdLndfE2rtq51Hrkt+2xeUYa3vrV4VLmKqwd0r7bUL0JXBiAGMhMGVkyYaAklWUogFW1m2;UpGdE3qbqTsWnG3aL3aBRg=="
 ---

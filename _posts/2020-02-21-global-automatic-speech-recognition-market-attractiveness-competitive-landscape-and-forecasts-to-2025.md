@@ -54,19 +54,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Image Recognition Software Market is Booming Worldwide with Qualcomm Technologies, Microsoft, IBM, Google"
-    excerpt: "This intelligence report provides a comprehensive analysis of the Global Image Recognition Software Market. This includes Investigation of past progress, ongoing market scenarios, and future prospects."
-    publishedDateTime: 2020-02-21T16:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/image-recognition-software-market-is-booming-worldwide-with-qualcomm-technologies-microsoft-ibm-google-2020-02-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "Global Artificial Intelligence in Oil & Gas Market Witness Highest Growth in near future| Intel, Microsoft and IBM Corporation"
     excerpt: "Global Artificial Intelligence in Oil & Gas Market (Revenue and Volume), Type, Application, End-User, and Regional Analysis, Import-Export Analysis, Industry Analysis, Premium Insights, Intellectual Property Analysis,"
     publishedDateTime: 2020-02-22T09:16:00Z

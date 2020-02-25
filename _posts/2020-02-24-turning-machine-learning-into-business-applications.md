@@ -2,64 +2,99 @@
 category: news
 title: "Turning Machine Learning into Business Applications"
 excerpt: "Machine Learning is viewed as an essential enabler that will allow applications to act on the collection of new data sets to improve their predictive capabilities. This white paper shows how Talend and AWS are bridging the gap between data scientists and data engineers to operationalize ML."
-publishedDateTime: 2020-02-24T22:09:00Z
-webUrl: "https://www.computerworld.com/resources/199257/turning-machine-learning-into-business-applications"
+publishedDateTime: 2020-02-24T21:58:00Z
+webUrl: "https://www.networkworld.com/resources/199257/turning-machine-learning-into-business-applications"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Computerworld
-  domain: computerworld.com
+  name: Network World
+  domain: networkworld.com
 
 topics:
   - AI
   - Machine Learning
 
 images:
-  - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
+  - url: "https://idge.staticworld.net/nww/nww_logo_300x300.png"
     width: 300
     height: 300
     title: "Turning Machine Learning into Business Applications"
 
 related:
-  - title: "Over View of Machine Learning and its Applications"
-    excerpt: "The Machine learning is a field of computer science evolved after studying the patterns and statistics of accumulative data, the data engineers / developers with help of specific algorithms for different data pattern sort out the features differences while as we already know before machine learning financial experts use statistical approaches ..."
-    publishedDateTime: 2020-02-24T23:35:00Z
-    webUrl: "https://medium.com/@sajjadhussain_11869/over-view-of-machine-learning-and-its-applications-bca25464669e"
+  - title: "Gmail Is Catching More Malicious Attachments With Deep Learning"
+    excerpt: "And it's working. At the RSA security conference in San Francisco on Tuesday, Google's security and anti-abuse research lead Elie Bursztein will present findings on how the new deep learning scanner for documents is faring against the 300 billion attachments it has to process each week. It's challenging to tell the difference between legitimate ..."
+    publishedDateTime: 2020-02-25T20:18:00Z
+    webUrl: "https://www.wired.com/story/gmail-catching-more-malicious-attachments-deep-learning/"
+    ampWebUrl: "https://www.wired.com/story/gmail-catching-more-malicious-attachments-deep-learning/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/gmail-catching-more-malicious-attachments-deep-learning/amp"
     type: article
     provider:
-      name: Medium
-      domain: medium.com
-    quality: 69
+      name: Wired
+      domain: wired.com
+    quality: 104
     images:
-      - url: "https://miro.medium.com/max/1200/1*hVCDF0_dOqDcwpXLGduZGg.jpeg"
-        width: 1200
-        height: 899
-  - title: "Cutting communications overhead for distributed learning apps"
-    excerpt: "As the military depends more on edge devices that provide data-driven insights and allow warfighters to better collaborate, machine-learning applications face challenges sharing their data in contested, congested and bandwidth-constrained environments. Now, scientists at the Army Research Lab have shown that distributed deep learning algorithms ..."
-    publishedDateTime: 2020-02-19T23:48:00Z
-    webUrl: "https://gcn.com/articles/2020/02/19/arl-distributed-machine-learning.aspx"
+      - url: "https://media.wired.com/photos/5e555fe0a4dea100087f9715/master/pass/Security_gmail-816901264.jpg"
+        width: 2300
+        height: 1533
+  - title: "Interest in machine learning and AI up, though slowing, one platform reports"
+    excerpt: "As technologies such as AI and machine learning revolutionize the workplace, learning and development is coming to the forefront of talent management. Preparing workers for AI and automation will lead learning trends in 2020, according to a November 2019 Udemy report. While many workplaces will train employees to sharpen their tech skills ..."
+    publishedDateTime: 2020-02-25T19:19:00Z
+    webUrl: "https://www.hrdive.com/news/interest-in-machine-learning-and-ai-up-though-slowing-one-platform-report/572947/"
     type: article
     provider:
-      name: GCN
-      domain: gcn.com
-    quality: 4
-  - title: "Combining Quantum Mechanics and Machine-Learning Calculations for Anharmonic Corrections to Vibrational Frequencies"
-    excerpt: "Center for Nonlinear Phenomena and Complex Systems, Code Postal 231, Université Libre de Bruxelles, Boulevard du Triomphe, 1050 Brussels, Belgium Article Views are the COUNTER-compliant sum of full text article downloads since November 2008 (both PDF and HTML) across all institutions and individuals. These metrics are regularly updated to ..."
-    publishedDateTime: 2020-02-23T20:02:00Z
-    webUrl: "https://pubs.acs.org/doi/full/10.1021/acs.jctc.9b00964"
-    type: article
-    provider:
-      name: C&EN
-      domain: acs.org
-    quality: 2
+      name: HR Dive
+      domain: hrdive.com
+    quality: 51
     images:
-      - url: "https://pubs.acs.org/pb-assets/images/footer_logos/logo-cope-1525375622977.png"
-        width: 323
-        height: 208
+      - url: "https://www.hrdive.com/user_media/cache/09/f5/09f5593d4530a4cd4c8a877f68d66913.jpg"
+        width: 770
+        height: 364
+  - title: "Battery charging meets machine learning"
+    excerpt: "But perhaps that testing is not so extensive, thanks to a new system described in the journal Nature. The system uses a combination of machine learning and Bayesian inference to rapidly zero in on the optimal charging pattern for any battery, cutting the amount of testing needed down considerably. Fast charging is obviously useful for ..."
+    publishedDateTime: 2020-02-19T22:10:00Z
+    webUrl: "https://arstechnica.com/science/2020/02/using-machine-learning-to-figure-out-how-to-charge-your-gadgets-batteries/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 49
+  - title: "Facebook Faculty Research Award recognizes machine learning advancements at MSU"
+    excerpt: "Zhang and Yan have been invited to the Facebook Research AI Systems Faculty Summit in Fall 2020. Read more on the research award winners and finalists honored by Facebook. Thinking beyond the box: MSU a leader in packaging scienceFeb 05, 2020When it comes to finding solutions for a better tomorrow, Spartans have. . . Does a growth mindset ..."
+    publishedDateTime: 2020-02-18T21:09:00Z
+    webUrl: "https://msutoday.msu.edu/news/2020/facebook-faculty-research-award-recognizes-machine-learning-advancements-at-msu/"
+    type: article
+    provider:
+      name: Michigan State University
+      domain: msu.edu
+    quality: 37
+    images:
+      - url: "https://msutoday.msu.edu/_/img/assets/2019/social-media-3.jpg"
+        width: 1024
+        height: 605
+  - title: "Stargazing with computers: What machine learning can teach us about the cosmos"
+    excerpt: "Astrophysicists supported by the DOE Office of Science are developing these guides in the form of computer models that rely on machine learning to examine the LSST data. Machine learning is a process where a computer program learns over time about the relationships in a set of data. Computer Programs that Learn Processing data quickly is a must ..."
+    publishedDateTime: 2020-02-20T15:28:00Z
+    webUrl: "https://phys.org/news/2020-02-stargazing-machine-cosmos.html"
+    ampWebUrl: "https://phys.org/news/2020-02-stargazing-machine-cosmos.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-02-stargazing-machine-cosmos.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 35
+  - title: "Work with data in Azure Machine Learning"
+    excerpt: "Learn how to work with datastores and datasets in Azure Machine Learning. In this module, you will learn how to: Create and use datastores in Azure Machine Learning. Create and use datasets in Azure Machine Learning."
+    publishedDateTime: 2020-02-20T22:57:00Z
+    webUrl: "https://docs.microsoft.com/en-us/learn/modules/work-with-data-in-aml/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 19
 
-secured: "uHvMzOhxAg9ulVlcgAUn+cTGlk2oqXY0j/4+1lEu5mTwECIOQS+3XvNK8MLHl192VWy86aydJ7RV2viUOAitjcuAnuaSXVOYZLY1AgkbiVgmsB/cfBApMFpNLjpB3n0KgXXDlApqUnEMmQLObSpxN3LpKSi9En/XobEi9v2Oo5L+jIDB1nfj/B0D57e0Bp8HGPJ1RArbQHq8fQOGwOzxrOJbqzBVvxieSzhZ38hPLtY/siQxxcbwxAw2a6EKlp8mazlU2TauMhZsM8oURqoM54fimYtL2W8Cimo9IrNa/ik9OiP3oy9FTnfrwyEo1jx6;hv32BcxLro7mGk8zRZjpiA=="
+secured: "98DtWVnReowif3IRfdyIUT8lDUj7gVvWPfpiABoMSSx3WyMWAB7V0MqbUeI+iLLNYBo6WsczwtZUDxo0QJaIBjW/990UUgUVCUnPaMlMdTyJ36+ZMbMOq4jCuqd0/dWYfmup/6gyQMPyVoeQPKPsXT+ZZjU0+M+A51s8yBddgUOo5wEFYNJGcrps3S78LuxgdFB2NeQ9ciVWt8t3CRb1HguxwTDcVHamyj7yY5pxYqlyX1vz2rnl7fnt3TeW+NjXfVz+SdBErJr1ocJLfrB3/3zw+t1fmY+59xZCI1982YmQDZl1Y2fKHThaQHd/JmmB;WJ1h1iKzACrWKO5i9EAe/Q=="
 ---
 

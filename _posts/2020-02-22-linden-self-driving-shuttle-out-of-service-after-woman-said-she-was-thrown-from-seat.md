@@ -8,7 +8,7 @@ ampWebUrl: "https://www.nbc4i.com/news/local-news/linden-self-driving-shuttle-ou
 cdnAmpWebUrl: "https://www-nbc4i-com.cdn.ampproject.org/c/s/www.nbc4i.com/news/local-news/linden-self-driving-shuttle-out-of-service-after-woman-said-she-was-thrown-from-seat/amp/"
 type: article
 quality: 52
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -54,6 +54,19 @@ related:
       - url: "https://www.autonews.com/s3/files/styles/800x600/public/40MOYEBEEP-MAIN_i.jpg"
         width: 800
         height: 600
+  - title: "Columbus self-driving shuttle pilot program halted after 3 weeks following sudden stop"
+    excerpt: "A passenger falling aboard a self-driving shuttle as part of a pilot program in Columbus has put the project on hold less than three weeks after it began. The daily shuttle service in the Linden neighborhood in Columbus, Ohio, was halted after one of the pilot's vehicles made a sudden stop around noon Thursday, Feb. 20. One passenger fell from ..."
+    publishedDateTime: 2020-02-25T20:00:00Z
+    webUrl: "https://www.autonews.com/mobility-report/columbus-self-driving-shuttle-pilot-program-halted-after-3-weeks-following-sudden"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 16
+    images:
+      - url: "https://www.autonews.com/s3/files/styles/width_792/public/SMART-Columbus-MAIN_i.jpg"
+        width: 792
+        height: 416
 
 secured: "mQ0J94DpxU1s3yvnp3+jzW6MGkOCTwS9BOalqdxkspXPGXWus3VcYrlCZu8aB8yzNWXPM+0taXYeFlHMNOVHjlOscoPmmAkmO/7VDaRN48zpkr6q3Wam62fGOy4fq8wzGkKgICcnCjePdpal/qVVl2USry6g9Vy8JqG9lR+tKLXMRP05vscN8I0kVny3vvoe9RMpFJzVOO0i0VpFVVRbNL94QaxZmKMgMBnPaFCdJHqpMDXJXiEMCC/KjmOCVpodrGNkOGY0UnUgvZ3EuaaFEpxpV6bFlkhr9iP1dSvLuXClN7CNQLBe4iS64rzJzVkd+vWdkEDLefZrvuVeoblrIb8ylfeCxtlD52huipSrYGdlfNtcQtlfFQoRARUkpprWVH7V89Ir7qTQawzPNKwZCop73CHT5Rae0b2Y/h4sm/bX2vXJpAJE9p72WLh2gFwdyI/IqqfY25M2h2yjWEnAO4QYjYCaU2OT0hBeg/uV9sc=;moD3GGdPOKiwwd6oGdlZZw=="
 ---

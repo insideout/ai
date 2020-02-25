@@ -7,9 +7,9 @@ webUrl: "https://www.recordonline.com/news/20200224/artificial-intelligence-hub-
 ampWebUrl: "https://www.recordonline.com/news/20200224/artificial-intelligence-hub-planned-for-orange-county?template=ampart"
 cdnAmpWebUrl: "https://www-recordonline-com.cdn.ampproject.org/c/s/www.recordonline.com/news/20200224/artificial-intelligence-hub-planned-for-orange-county?template=ampart"
 type: article
-quality: 59
-heat: 69
-published: false
+quality: 159
+heat: 169
+published: true
 
 provider:
   name: recordonline.com
@@ -42,6 +42,6 @@ related:
         width: 1200
         height: 678
 
-secured: "VemmATdR0e6Zf06b4JRV/vv84XAOJrUs7+9e6iLZK+bWV5J2iISdOo4/S6Jbz3OWdXwMN9wbrd/uWxkEfXlfGG/52YFkdrgitQEZCWHHEzPbobZBhua/kHkQmgsAPAIDThCsvaWbgvMbhyb8HjM89ti/7g2U2kYwc9smhwX//qCeBL3YO4fxPFWdRih17rxMfGBV91PBb4QqODhxfcpgTgfPlx6BhU/ryq+BJ+j93/m44xvZ9XCy+6qrqc38pxRIRQ8l4dkp9qDn5KV4I3p52Q3MCM7rCQJIT76vvpHw0TqpGfOUM1TBEk2sq640yI6D1PTmpJD/JzvBt1ZmNUsJ/SV6f4tM+S1EFhCm+vNpVYftRvD+RlN31RaciQIj6OYSXW7Z5y7z+hCSnL0kjxLlSOdOpcPNfDBhBrV1SdP9JJ6+AqNo+m2VAxDfqj1p7UIu8WAk126nRnTRgn1GrwIEtbrABTRbFnZdS6hRrxcGEns=;hawR1/ZEY9QrnSMX3SL/OQ=="
+secured: "eRAWTWbWyCPTu5cWK5iguSZJDGI71f63caAig+ZhFdAakH4BUdLDrHOjMi1aiYhpIEvVtQjxW97uAw6uvbjbEbHolZb7vu6y14Om/0KdZquIqeklCqK2j204QgV2hGVvWxm1sTItnSFK+KzlOktGGiZLMOr5cGldhjY2WvNi3nycWBlYbkOnMbLXFM4N09Mc2VY5svOPB+rnStZtUKnwLfPPWRKiaQCNIcvPJkhzZ26ot3ocMfwUq3QKVAGyWZh4j0qOkjiyjZO12C8FaVnDdmi5k0TrPOUCGk6atStNLwKtCTfVbHuKzIhJiGyKyqDaN4f8aK75fPlR+bBcK4PWAKKbe2otupGcKvqT7INHHY5hWWZtq+Nj6iMwahDekhX7/pJmVBZGJAq3SQBiLju7s2NZYJMY/80xBrWyIKwfKWyhXyQGGdHWBgYVYGHavapGnyBd2dOf3g1DSmYx8PKOwxg5DwHj3Lvl4O+qwc+eF7IIkKsaPaGNp7No0T9DTfG8;mwhOWQgIH+t8Rl+dJIQ1hQ=="
 ---
 

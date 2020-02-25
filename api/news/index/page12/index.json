@@ -2,6 +2,332 @@
   "page": 12,
   "value": [
     {
+      "path": "_posts/_archive/2020-01-14-advocates-ask-colleges-to-avoid-facial-recognition-as-surveillance-grows.md",
+      "title": "Advocates ask colleges to avoid facial recognition as surveillance grows",
+      "excerpt": "To that end, digital rights advocacy group Fight for the Future today launched a campaign to get facial recognition off of college campuses. The campaign is partnering with student advocacy groups at The George Washington University in Washington, DC, and DePaul University in Chicago. \"Facial-recognition surveillance spreading to college ...",
+      "heat": 338,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://arstechnica.com/tech-policy/2020/01/advocates-ask-colleges-to-avoid-facial-recognition-as-surveillance-grows/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-14T13:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2020/01/GettyImages-1167712182-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": "Advocates ask colleges to avoid facial recognition as surveillance grows",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-14-ai-or-bs-distinguishing-artificial-intelligence-from-trade-show-hype.md",
+      "title": "AI or BS: Distinguishing artificial intelligence from trade show hype",
+      "excerpt": "AI wasn’t always poorly represented, though: There were some legitimate and legitimately exciting examples of artificial intelligence at CES ... lines dividing engineers from marketers obviously vary from company to company. Generally, self-driving car and taxi companies describe their vehicles’ capabilities using the Society of Automotive ...",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/14/ai-or-bs-distinguishing-artificial-intelligence-from-trade-show-hype/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/14/ai-or-bs-distinguishing-artificial-intelligence-from-trade-show-hype/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/14/ai-or-bs-distinguishing-artificial-intelligence-from-trade-show-hype/amp/",
+      "publishedDateTime": "2020-01-14T13:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/IMG_9100-e1579014434237.jpeg?fit=2000%2C1000&strip=all",
+          "width": 2000,
+          "height": 1000,
+          "title": "AI or BS: Distinguishing artificial intelligence from trade show hype",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-14-ai-replaces-prick-test-to-detect-blood-sugar-levels.md",
+      "title": "AI replaces prick test to detect blood sugar levels",
+      "excerpt": "The novel artificial intelligence system works as well as CGMs ... the device using cohort data would not provide the same results. Hence, personalized therapy based on the system can be more effective than therapies used today. The new approach was ...",
+      "heat": 129,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.news-medical.net/news/20200114/AI-replaces-prick-test-to-detect-blood-sugar-levels.aspx",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20200114/AI-replaces-prick-test-to-detect-blood-sugar-levels.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200114/AI-replaces-prick-test-to-detect-blood-sugar-levels.aspx",
+      "publishedDateTime": "2020-01-14T13:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.news-medical.net/image.axd?picture=2020%2f1%2fleandro_ecg_63c541f952b746b48ff02d36b07911ca-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": "AI replaces prick test to detect blood sugar levels",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-14-amazon-cloud-clientele-strengthens-as-bundesliga-selects-aws-nasdaq.md",
+      "title": "Amazon Cloud Clientele Strengthens as Bundesliga Selects AWS | Nasdaq",
+      "excerpt": "Amazon AMZN is focused on strengthening clientele of its cloud computing arm, Amazon Web Services (AWS), to expand presence in the cloud industry.Bundesliga, the professional association football ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nasdaq.com/articles/amazon-cloud-clientele-strengthens-as-bundesliga-selects-aws-2020-01-14",
+      "ampWebUrl": "https://www.nasdaq.com/articles/amazon-cloud-clientele-strengthens-as-bundesliga-selects-aws-2020-01-14?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-cloud-clientele-strengthens-as-bundesliga-selects-aws-2020-01-14?amp",
+      "publishedDateTime": "2020-01-14T01:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg",
+          "width": 1024,
+          "height": 512,
+          "title": "Amazon Cloud Clientele Strengthens as Bundesliga Selects AWS | Nasdaq",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-14-an-emotionally-intelligent-ai-could-support-astronauts-on-a-trip-to-mars.md",
+      "title": "An emotionally intelligent AI could support astronauts on a trip to Mars",
+      "excerpt": "Astronauts also have to deal with the unique physical strains of space travel—including ... stunted by a lack of emotional intelligence, says Tom Soderstrom, CTO at NASA’s Jet Propulsion Laboratory. That’s why JPL is now working with Australian tech firm Akin to develop an AI that could one day provide emotional support for astronauts ...",
+      "heat": 166,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.technologyreview.com/s/615044/an-emotionally-intelligent-ai-could-support-astronauts-on-a-trip-to-mars/",
+      "ampWebUrl": "https://www.technologyreview.com/s/615044/an-emotionally-intelligent-ai-could-support-astronauts-on-a-trip-to-mars/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/s/615044/an-emotionally-intelligent-ai-could-support-astronauts-on-a-trip-to-mars/amp/",
+      "publishedDateTime": "2020-01-14T09:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.technologyreview.com/i/images/gettyimages-1168361504-web.jpg?sw=600&cx=0&cy=0&cw=3000&ch=1688",
+          "width": 600,
+          "height": 337,
+          "title": "An emotionally intelligent AI could support astronauts on a trip to Mars",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-14-brave-new-world-of-retail-walmarts-robots-are-just-the-beginning.md",
+      "title": "Brave New World Of Retail: Walmart’s Robots Are Just The Beginning",
+      "excerpt": "The retail industry has decided that robots and other automated inventory systems are better than humans for certain tasks.",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/joanverdon/2020/01/14/brave-new-world-of-retail-walmarts-robots-are-just-the-beginning/",
+      "ampWebUrl": "https://www.forbes.com/sites/joanverdon/2020/01/14/brave-new-world-of-retail-walmarts-robots-are-just-the-beginning/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joanverdon/2020/01/14/brave-new-world-of-retail-walmarts-robots-are-just-the-beginning/amp/",
+      "publishedDateTime": "2020-01-14T04:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e1d4c40a854780006e876f0%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4032%26cropY1%3D202%26cropY2%3D2890",
+          "width": 1200,
+          "height": 800,
+          "title": "Brave New World Of Retail: Walmart’s Robots Are Just The Beginning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-14-bundesliga-brings-on-aws-to-revolutionise-football-viewing-experience.md",
+      "title": "Bundesliga brings on AWS to ‘revolutionise’ football viewing experience",
+      "excerpt": "Under the terms of its deal with AWS, the Bundesliga will make use during the 2019-20 season and beyond of artificial intelligence (AI), machine learning (ML), analytics, compute, database, and storage services to deliver real-time statistics to predict future plays and game outcomes, and recommend personalised match footage across mobile ...",
+      "heat": 69,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.rapidtvnews.com/2020011457936/bundesliga-brings-on-aws-to-revolutionise-football-viewing-experience.html",
+      "ampWebUrl": "https://www.rapidtvnews.com/2020011457936/bundesliga-brings-on-aws-to-revolutionise-football-viewing-experience.amp.html",
+      "cdnAmpWebUrl": "https://www-rapidtvnews-com.cdn.ampproject.org/c/s/www.rapidtvnews.com/2020011457936/bundesliga-brings-on-aws-to-revolutionise-football-viewing-experience.amp.html",
+      "publishedDateTime": "2020-01-13T23:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Rapid TV",
+        "domain": "rapidtvnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.rapidtvnews.com/images/2020/Jan_2020/bundesliga_AWS_14Jan2020.jpg",
+          "width": 788,
+          "height": 337,
+          "title": "Bundesliga brings on AWS to ‘revolutionise’ football viewing experience",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-14-ces-2020-older-adults-embrace-ai-with-transparency.md",
+      "title": "CES 2020: Older adults embrace AI with transparency",
+      "excerpt": "Tonya Hall talks with Kari Olson, chief innovation and technology officer at Front Porch, about how older adults are beginning to understand and embrace AI.",
+      "heat": 67,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/video/ces-2020-older-adults-embrace-ai-with-transparency/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-14T06:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/01/14/8d8ebb00-3f91-4110-adc1-769ce1d616d0/thumbnail/770x578/8cdde30d9fe62b9ee966452220fe3f7f/thumb.jpg",
+          "width": 770,
+          "height": 578,
+          "title": "CES 2020: Older adults embrace AI with transparency",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-14-coral-is-googles-quiet-initiative-to-enable-ai-without-the-cloud.md",
       "title": "Coral is Google’s quiet initiative to enable AI without the cloud",
       "excerpt": "Market analysts predict that more than 750 million edge AI chips and computers will be sold in 2020, rising to 1.5 billion by 2024. And while most of these will be installed in consumer devices like phones, a great deal are destined for enterprise customers in industries like automotive and health care. To meet customers’ needs Coral offers ...",
@@ -1799,360 +2125,6 @@
         "AI Hardware",
         "Machine Learning",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-15-why-creating-an-av-business-is-10000-times-harder-than-building-self-driving-tech.md",
-      "title": "Why Creating An AV Business Is 10,000 Times Harder Than Building Self-Driving Tech",
-      "excerpt": "For autonomous service providers or a service provider that owns its conventional vehicles, every mile and minute incurs a cost.",
-      "heat": 78,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/15/why-creating-an-av-business-is-10000-times-harder-than-building-self-driving-tech/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/15/why-creating-an-av-business-is-10000-times-harder-than-building-self-driving-tech/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/15/why-creating-an-av-business-is-10000-times-harder-than-building-self-driving-tech/amp/",
-      "publishedDateTime": "2020-01-15T12:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F01%2Fa-21-2.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "Why Creating An AV Business Is 10,000 Times Harder Than Building Self-Driving Tech",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-15-will-qualcomm-overtake-nvidia-in-driverless-cars.md",
-      "title": "Will Qualcomm Overtake NVIDIA in Driverless Cars?",
-      "excerpt": "Today, a growing list of companies -- including Ford, Toyota, Daimer's Mercedes-Benz, and Baidu-- have partnered with NVIDIA across various self-driving projects. NVIDIA's automotive revenue accounted for 5% of its top line last quarter. Qualcomm launched its first line of Snapdragon Automotive chipsets in early 2016. It tried to buy NXP ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/01/15/will-qualcomm-overtake-nvidia-in-driverless-cars.aspx",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/01/15/will-qualcomm-overtake-nvidia-in-driverless-cars.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/15/will-qualcomm-overtake-nvidia-in-driverless-cars.aspx",
-      "publishedDateTime": "2020-01-15T08:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F553428%2Fimage-6-a-woman-sits-in-a-driverless-car.jpg&w=700&op=resize",
-          "width": 700,
-          "height": 466,
-          "title": "Will Qualcomm Overtake NVIDIA in Driverless Cars?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-15-zinier-raises-90-million-to-embed-field-service-work-with-ai-and-machine-learning.md",
-      "title": "Zinier raises $90 million to embed field service work with AI and machine learning",
-      "excerpt": "Zinier’s eponymous suite delivers insights, general recommendations, and specific tasks by running operations metrics through proprietary AI and machine learning algorithms. As for ISAC, it triggers preventative actions based on equipment health while anticipating stock transfers, and it scans technicians’ calendars to help define ongoing ...",
-      "heat": 128,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/15/zinier-raises-90-million-to-embed-field-service-work-with-ai-and-machine-learning/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/15/zinier-raises-90-million-to-embed-field-service-work-with-ai-and-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/15/zinier-raises-90-million-to-embed-field-service-work-with-ai-and-machine-learning/amp/",
-      "publishedDateTime": "2020-01-15T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/Mockup-1-e1578777547819.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Zinier raises $90 million to embed field service work with AI and machine learning",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-16-2020-trending-deep-learning-ai-market-to-give-boost-to-retail-healthcare-automotive-bsfi-and-telecom-industries.md",
-      "title": "2020 Trending: Deep Learning AI Market to give boost to retail, healthcare, automotive, BSFI and telecom Industries",
-      "excerpt": "The Deep Learning AI marketis poised to grow at an excess of 30% CAGR during the forecast period from 2019-2023.In terms of investments in the field of artificial intelligence & deep learning, the U.S.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/2020-trending-deep-learning-ai-market-to-give-boost-to-retail-healthcare-automotive-bsfi-and-telecom-industries-2020-01-16",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-15T20:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "2020 Trending: Deep Learning AI Market to give boost to retail, healthcare, automotive, BSFI and telecom Industries",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-16-5-technology-trends-for-the-roaring-20s-part-2-ai-knowledge-graphs-infinity-and-beyond.md",
-      "title": "5 technology trends for the roaring 20s, part 2: AI, Knowledge Graphs, infinity and beyond",
-      "excerpt": "GraphCore, which became the first AI chip unicorn in late 2018, has recently announced its chips are now used in Microsoft Azure Cloud. Far from over, the AI chip race is only just beginning. Up until the beginning of the 2010s, the world was mostly running on relational databases and spreadsheets. To a large extent, it still does. But if the ...",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/5-technology-trends-for-the-roaring-20s-part-2-ai-knowledge-graphs-infinity-and-beyond/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/5-technology-trends-for-the-roaring-20s-part-2-ai-knowledge-graphs-infinity-and-beyond/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/5-technology-trends-for-the-roaring-20s-part-2-ai-knowledge-graphs-infinity-and-beyond/",
-      "publishedDateTime": "2020-01-16T07:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2016/09/14/9cc18f42-baa4-4abc-bd77-00a03b8e1d7e/10-google-knowledge-graph.jpg",
-          "width": 770,
-          "height": 560,
-          "title": "5 technology trends for the roaring 20s, part 2: AI, Knowledge Graphs, infinity and beyond",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "AI Hardware",
-        "AI Ethics",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-16-a-look-inside-augmented-analytics-and-its-business-value-in-2020.md",
-      "title": "A Look Inside Augmented Analytics And Its Business Value In 2020",
-      "excerpt": "Here's what you need to know about augmented analytics -- and how to deploy the technology to support your business development goals.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/01/16/a-look-inside-augmented-analytics-and-its-business-value-in-2020/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/01/16/a-look-inside-augmented-analytics-and-its-business-value-in-2020/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/01/16/a-look-inside-augmented-analytics-and-its-business-value-in-2020/amp/",
-      "publishedDateTime": "2020-01-16T07:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x395/https://blogs-images.forbes.com/forbesbusinessdevelopmentcouncil/files/2020/01/a.jpg?width=960",
-          "width": 711,
-          "height": 395,
-          "title": "A Look Inside Augmented Analytics And Its Business Value In 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-16-ai-and-robots-could-be-the-future-of-agriculture-strictly-robots.md",
-      "title": "AI and robots could be the future of agriculture — Strictly Robots",
-      "excerpt": "Mashable is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content for its dedicated and influential audience around the globe. ©2020 Mashable, Inc. All Rights Reserved. Mashable, MashBash and Mashable House are among ...",
-      "heat": 117,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://mashable.com/video/farmwise-ai-robots-farming/",
-      "ampWebUrl": "https://mashable.com/video/farmwise-ai-robots-farming.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/farmwise-ai-robots-farming.amp",
-      "publishedDateTime": "2020-01-16T13:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F01%252F16%252Ffb%252F4ce1af61f56d418791bd1943a0e241bf.d3358.png%252F1200x630.png?signature=2_OfVvw_btp4UlWKx25cVJvrcxI=",
-          "width": 1200,
-          "height": 630,
-          "title": "AI and robots could be the future of agriculture — Strictly Robots",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-16-ai-for-good-starts-with-collaboration.md",
-      "title": "AI For Good Starts With Collaboration",
-      "excerpt": "In the age of innovation, we are focused on technologies such as artificial intelligence, virtual reality, augmented reality, and more. Often the application of these technologies comes as an afterthought once the technology has been developed.",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/01/16/ai-for-good-starts-with-collaboration/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/01/16/ai-for-good-starts-with-collaboration/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/01/16/ai-for-good-starts-with-collaboration/amp/",
-      "publishedDateTime": "2020-01-16T02:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/500x279/https://specials-images.forbesimg.com/imageserve/5e202a29735f8c000799f8da/960x0.jpg?fit=scale",
-          "width": 500,
-          "height": 279,
-          "title": "AI For Good Starts With Collaboration",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -19,32 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Syncsort Partners with Databricks to Make Mainframe Data Accessible for Cloud Analytics, Artificial Intelligence and Machine Learning"
-    excerpt: "Enterprises can now leverage Syncsort Connect products to access, transform and deliver mainframe data to Delta Lake for advanced analytics, artificial intelligence (AI) and machine learning projects. Organizations rely on Databricks to process massive amounts of data in the cloud and power AI, machine learning and business insights."
-    publishedDateTime: 2020-02-24T19:48:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-syncsort-partners-with-databricks-make-mainframe-data-accessible-/2020/02/24/9102924.htm"
+  - title: "An AI to make practical decisions and to play Flappy Bird"
+    excerpt: "The game of Go was famously solved by DeepMind's AlphaZero through a cutting-edge reinforcement learning approach. While Flappy Bird is nowhere near as complex as Go, it's a good starting place for any AI project in reinforcement learning. (Other companies, including IBM, have explored Flappy Bird as a testbed for AI.) The journalist didn't ..."
+    publishedDateTime: 2020-02-25T20:04:00Z
+    webUrl: "https://www.zdnet.com/article/an-ai-to-make-practical-decisions-and-to-play-flappy-bird/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/an-ai-to-make-practical-decisions-and-to-play-flappy-bird/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/an-ai-to-make-practical-decisions-and-to-play-flappy-bird/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 38
+      name: ZDNet
+      domain: zdnet.com
+    quality: 91
     images:
-      - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
-        width: 252
-        height: 335
-  - title: "Databricks Simplifies the Path to Building Lakehouses for Business Intelligence and Machine Learning"
-    excerpt: "Azure Databricks customers already benefit from native integration with Azure Data Factory to ingest data from many sources. “Databricks powers our machine learning and business intelligence across multiple business functions, from car inventory management, to price prediction and technical operations, by using hundreds of terabytes of data ..."
-    publishedDateTime: 2020-02-24T20:50:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200224005279/en/Databricks-Simplifies-Path-Building-Lakehouses-Business-Intelligence"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 26
-    images:
-      - url: "https://mms.businesswire.com/media/20200224005279/en/722802/23/Databricks_Logo.jpg"
-        width: 1200
-        height: 627
+      - url: "https://zdnet1.cbsistatic.com/hub/i/2020/02/25/de47ff6a-924b-4b1f-80d3-8478d306daf6/dp3q8848.jpg"
+        width: 1280
+        height: 960
 
 secured: "RVvJweKXoCLDS/AH931PIdK/ZIixXAJsQvFmG9idAv/c1GPXYLeq2733Nax+xl37+2wHEjuyTjyZCTihqM9xZowlDckZDqd0bIc1ZIrZ7z3g979Km5YzGP7wdoTSqh10ef11SaSAbb7Wi88eU5jid8OGR3Lbq93RzM8cG06XedHAQjAUsHtUZOZwF/XH1/2b4U+D5M5zEc2CtOTk7ifRs+F31sRM21WMXyJb9yzXUQ9sNGWOH2Nvefi9lI6tz7XQFDzKVyywZqrAx6Z7WhJwwfXGSiruLjIutdDp6FAf+wK7WQITyR4bgsR7l/CI0nqUb4B4hnD8vTATefhTC5aqiNg/RL4NTdqiZk7sb/QMgh4U7k3DDNW7clHJsfMOZAqwbJynCjkI4tB2G5z3dBHfoAdKaB+7BDCWCV4fpHIReYOYGe5PTVXNDcDxdF+PhCVHh+5jtQlpMJn5OXwHpYXXDJShzKMbnj43lhgDgeHcGX8=;OL6gH/zyTfM8oK5OiRKWgg=="
 ---
