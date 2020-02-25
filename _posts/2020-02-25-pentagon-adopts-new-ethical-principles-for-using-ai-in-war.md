@@ -1,25 +1,27 @@
 ---
 category: news
-title: "Pentagon Adopts New Ethical Principles for Using AI in War"
-excerpt: "The Pentagon is adopting new ethical principles as it prepares to accelerate its use of artificial intelligence technology on the battlefield."
-publishedDateTime: 2020-02-25T01:36:00Z
-webUrl: "https://www.usnews.com/news/business/articles/2020-02-24/pentagon-adopts-new-ethical-principles-for-using-ai-in-war"
+title: "Pentagon adopts new ethical principles for using AI in war"
+excerpt: "The Pentagon is adopting new ethical principles as it prepares to accelerate its use of artificial intelligence technology on the battlefield. The new principles call for people to \"exercise appropriate levels of judgment and care\" when deploying and using AI systems,"
+publishedDateTime: 2020-02-25T18:40:00Z
+webUrl: "https://www.chron.com/business/technology/article/Pentagon-adopts-new-ethical-principles-for-using-15080225.php"
 type: article
-quality: 64
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - AI
   - AI Ethics
+
+images:
+  - url: "https://s.hdnux.com/photos/01/10/62/42/19081406/11/rawImage.jpg"
+    width: 2048
+    height: 1365
+    title: "Pentagon adopts new ethical principles for using AI in war"
 
 related:
   - title: "Pentagon to Adopt Detailed Principles for Using AI"
@@ -160,19 +162,6 @@ related:
       - url: "https://fcw.com/-/media/GIG/EDIT_SHARED/AI_Automation/AI.png"
         width: 620
         height: 300
-  - title: "The Pentagon promises to use artificial intelligence for good, not evil"
-    excerpt: "Defense Secretary Mark Esper has signed off on guidelines for the military's use of artificial intelligence. The military has its eye on artificial ... as well as some cyber defense technology and solutions to make military health care more efficient. The U.S. defense community is starting to understand that AI will significantly transform ..."
-    publishedDateTime: 2020-02-25T17:57:00Z
-    webUrl: "https://www.navytimes.com/news/your-military/2020/02/25/the-pentagon-promises-to-use-artificial-intelligence-for-good-not-evil/"
-    type: article
-    provider:
-      name: Navy Times
-      domain: navytimes.com
-    quality: 41
-    images:
-      - url: "https://www.armytimes.com/resizer/fEItOgijCtOgwVXugNd1NEv5NVA=/1200x630/filters:quality(100)/arc-anglerfish-arc2-prod-mco.s3.amazonaws.com/public/TIQ4YOM3BJHL3KLKJ42TYPUJVI.jpg"
-        width: 1200
-        height: 630
   - title: "The Pentagon now has 5 principles for artificial intelligence"
     excerpt: "“This runs in stark contrast to Russia and China, whose use of AI technology for military purposes raises serious concerns about human rights, ethics and international norms.” The five principles apply to both the combat and non-combat use of AI technologies, said Deasy. Sign up for the Early Bird Brief, the defense industry's most ..."
     publishedDateTime: 2020-02-24T23:20:00Z
@@ -231,6 +220,6 @@ related:
       domain: fedscoop.com
     quality: 17
 
-secured: "HPlFWG14B1rjqE3AEEz+UKll+CsdRssD9EH4tuzydhIZmVETgWH/Yay0T+tW3OfXSy3sR5SIelZwWUEeqk9XEzNMkQuqkOevqMq+3OszEbeR/r2lG+lNMydztDG5AKJQRj7mknqZOESlmFTbTRRVlWrIJCrwGL2Q8IPzWZxKq5rNeyf5BGq0hpAJVvvT9fkvSXldegfIbsciUydtpL2gGLX5yVJk51BHd8bEKnzi0ZQTlW5UTT7gsHHGMpI0HBImoy8E+WbbwCdBal1GxEynaGd27hSSZI2I42THnbVGBtyoLWlzD57FxpOQpKFaUJqxhQTNhRoGkEqrdUh8VGUrYH6BPZZdll2TnRuWCHWysUfaStnHeQP+jxu4jVW1VQ3I4ue6W4dPKu3x8e/9sMIyw4BLRxCyXRNSIPQj89XL6DLzRgoNjoUzl0P8m3J5w1YE1L0vPSyIGeoAqT/si2g/O7Hpardp9SRo0CJnjnvKLAQ=;Qx1I3gX8eHT8wxzPjwpAyg=="
+secured: "0MyiuiKnV6KL5UHcTzibd1SMzEO3EtirAcjv8EymuCFqui/7XYn1YY7NxWl69xjg7QP3yBOZy/yjtJDOyHN72nA9mhvqrIjTzaHQu7oM4x78y+YvyBjqYLDVmL8P8nImhS+rGGIXcQ23Dd/zhK8uR01R2neG+4mW0V6/l/hlihxcEjuCdb6modHANQhpiV3QfR7q5FwaIbXaGRtt9+CTAZH14+bN/sAqOauma5SD5UcPPsgxf5dbvNSebvlVusD6C4abfeEcyQCSyqxdt7dmZ/qN0XUqwitARQgsEMf5SFsAUXJRiqKzwwcLprWXk763qGwwcsskGPW3wh6LFBzLZpONPSCOXXrBwkNGnv6Cpl4YMwyxacRamcldL5zq6fMQO8Jo0FI+EDc/M1f4+hGg6c691pqZRUNcxhZ1hPojuxQ31mn1x/O4FcyqIjT96pkBn7uANRo0UHghln4tvGyDwgGcXCGkPIdsxTtXW5LaD6I=;ThYj/udZnKnN47goH/3PXA=="
 ---
 

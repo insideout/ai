@@ -26,61 +26,34 @@ images:
     title: "Google Photos allegedly violated Illinois’ facial recognition laws, according to suit filed after Facebook settles class-action over same law"
 
 related:
-  - title: "The ACLU Slammed A Facial Recognition Company That Scrapes Photos From Instagram And Facebook"
-    excerpt: "By Caroline Haskins and Ryan Mac and Logan McDonald Posted on February 10, 2020, at 11:20 a.m. ET Clearview AI's website previously touted that its technology had been verified using \"the ACLU's facial recognition accuracy methodology.\" The ACLU pushed back on that claim and asked Clearview to remove it last month. Clearview AI, the facial ..."
-    publishedDateTime: 2020-02-11T02:44:00Z
-    webUrl: "https://www.buzzfeednews.com/article/carolinehaskins1/clearview-ai-facial-recognition-accurate-aclu-absurd"
-    ampWebUrl: "https://www.buzzfeednews.com/amphtml/carolinehaskins1/clearview-ai-facial-recognition-accurate-aclu-absurd"
-    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/carolinehaskins1/clearview-ai-facial-recognition-accurate-aclu-absurd"
+  - title: "Class action suit against Clearview AI cites Illinois law that cost Facebook $550M"
+    excerpt: "Just two weeks ago Facebook settled a lawsuit alleging violations of privacy laws in Illinois for the considerable sum of $550 million. Now controversial startup Clearview AI, which has gleefully admitted to scraping and analyzing the data of millions, is the target of a new lawsuit citing similar violations. Clearview made waves earlier this ..."
+    publishedDateTime: 2020-02-14T20:42:00Z
+    webUrl: "https://techcrunch.com/2020/02/14/class-action-suit-against-clearview-ai-cites-illinois-law-that-cost-facebook-550m/"
+    ampWebUrl: "https://techcrunch.com/2020/02/14/class-action-suit-against-clearview-ai-cites-illinois-law-that-cost-facebook-550m/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/14/class-action-suit-against-clearview-ai-cites-illinois-law-that-cost-facebook-550m/amp/"
     type: article
     provider:
-      name: BuzzFeed News
-      domain: buzzfeednews.com
-    quality: 180
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 81
     images:
-      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2020-02/10/16/asset/da869febf445/sub-buzz-274-1581350749-7.jpg?output-quality=auto&output-format=auto&downsize=640:*"
-        width: 640
-        height: 440
-  - title: "ACLU Blasts Clearview's Facial Recognition Accuracy Claims"
-    excerpt: "Clearview apparently has been telling law enforcement agencies that its technology underwent accuracy testing modeled on the ACLU's 2018 test of Amazon's Rekognition facial recognition tool. For that test, the ACLU simulated the way law enforcement used Rekognition in the field, matching photos of all 535 members of the United States Congress ..."
-    publishedDateTime: 2020-02-14T12:00:00Z
-    webUrl: "https://www.technewsworld.com/story/86512.html"
+      - url: "https://techcrunch.com/wp-content/uploads/2019/06/getty-facial-face-recognition.jpg?w=1024"
+        width: 1024
+        height: 684
+  - title: "A|I: The AI Times – Facebook’s quiet AI acquisitions"
+    excerpt: "Just two weeks ago Facebook settled a lawsuit alleging violations of privacy ... The budget for fiscal year 2021 (which begins in October) would ramp up spending for AI research at DARPA (the Pentagon’s research arm) and the National Science Foundation ..."
+    publishedDateTime: 2020-02-20T12:24:00Z
+    webUrl: "https://betakit.com/ai-the-ai-times-facebooks-quiet-ai-acquisitions/"
     type: article
     provider:
-      name: TechNewsWorld
-      domain: technewsworld.com
-    quality: 39
+      name: BetaKit
+      domain: betakit.com
+    quality: 41
     images:
-      - url: "https://www.technewsworld.com/article_images/story_graphics_xlarge/xl-2019-facial-recognition-1.jpg"
-        width: 620
-        height: 350
-  - title: "London police officially deploy facial recognition cameras"
-    excerpt: "LONDON — London police started using facial recognition cameras on Tuesday to automatically scan for wanted people, as authorities adopt the technology that has raised concerns about increased surveillance and erosion of privacy. Surveillance cameras mounted on a blue police van monitored people coming out of a shopping center in Stratford ..."
-    publishedDateTime: 2020-02-11T07:40:00Z
-    webUrl: "https://nypost.com/2020/02/11/london-police-officially-deploy-facial-recognition-cameras/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 19
-  - title: "Google Tells Clearview To Stop Scraping Photos For Facial Recognition Database"
-    excerpt: "Google and its video service YouTube have joined Twitter in demanding that facial recognition startup Clearview AI stop scraping photos from their services. “YouTube’s terms of service explicitly forbid collecting data that can be used to identify a person,” a spokesperson told CBS, which first reported the company's move. The tech ..."
-    publishedDateTime: 2020-02-17T23:20:00Z
-    webUrl: "https://www.mediapost.com/publications/article/346692/google-tells-clearview-to-stop-scraping-photos-for.html?edition="
-    type: article
-    provider:
-      name: MediaPost
-      domain: mediapost.com
-    quality: 15
-  - title: "Controversial facial recognition app reveals it can access photos that are no longer online"
-    excerpt: "A facial recognition company has amassed a three-billion-strong database of social media photographs including pictures which are private or have been deleted. Clearview AI, which identifies people by cross-referencing their mugshot with its mammoth image archive, has sent chills up the backs of privacy campaigners since it began selling its ..."
-    publishedDateTime: 2020-02-11T16:57:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-7991767/Controversial-facial-recognition-app-reveals-access-photos-no-longer-online.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 9
+      - url: "https://cdn.betakit.com/wp-content/uploads/2020/02/cf9be0bd-8c5e-4a3b-acdc-6d6628d1fd84.png"
+        width: 1023
+        height: 504
 
 secured: "hPdNWkpSLUilttXjvads6ANSMwUpVpE7OPp2+ki7EG3ObgOK+mMw/mTr1NhMkbpH1MMSWalH+3k0vo1C3dNj1FPRoG2WzbIyZEa7FgTxxwl5XerKB4FyVLE6HNZRpwxNLtZQNXiTpLDDFyX78DPRLNygPNwXiYbeB1JNallHklX7/WNBKhjSi6eAJfgBMuLfxGVJh5S/gkhX8uxDA3I/FiMMKOi54DoNDwAdqZ/JCTOeZBqZhGpJpNhh5uc4V9vcccuw6b+xpNPiTjXtVBKOpMV8QeDvz4n7PlmS6Oxjs/roGQbuhLQ+tPJfGwvDSXO8iRrUG7t/NDV5SFI25JQpt7TFVbgk12oYk74YdY5/tuFZDVm/K9zaS3pEZBJ0g+vxlw8ftbLrQClpkstmSa5Ury5x2gpfGKwbzwLX1Zf7hVCXsT/0lyjX8s/Swf3NkTSQUA74sCfoTunJic0ZPrW17uTNyY1yTWAdZPXOh3CdhHs=;+NsIwW8EVFt5BqqUYqOrHQ=="
 ---

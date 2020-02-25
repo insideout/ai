@@ -56,21 +56,6 @@ related:
       - url: "https://cms.qz.com/wp-content/uploads/2020/02/RTS32KQS-1-e1582225812882.jpg?quality=75&strip=all&w=1400"
         width: 1400
         height: 788
-  - title: "LG CNS deploys AI facial recognition gate service"
-    excerpt: "LG CNS has deployed a facial recognition gate control service that runs on artificial intelligence (AI) software at its headquarters in Seoul, the company has announced. The solution, made in collaboration with Chinese AI firm SenseTime, uses a designated reader that can identify a face, authenticate an employee, and open the gate ..."
-    publishedDateTime: 2020-02-11T02:47:00Z
-    webUrl: "https://www.zdnet.com/article/lg-cns-deploys-ai-facial-recognition-gate-service/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/lg-cns-deploys-ai-facial-recognition-gate-service/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/lg-cns-deploys-ai-facial-recognition-gate-service/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 104
-    images:
-      - url: "https://zdnet3.cbsistatic.com/hub/i/2020/02/11/a4f44ba3-79b4-4f42-b5a9-ba5aa4375bd6/lg-cns-3-lg-cns.jpg"
-        width: 2400
-        height: 1600
   - title: "Canadian authorities launch investigation into Clearview facial recognition app"
     excerpt: "The commissioners have agreed to work together “to develop guidance for organizations — including law enforcement — on the use of biometric technology, including facial recognition.” The founder of Clearview, Hoan Ton-That, said that the first amendment gives his company the right to collect photos from public webpages and use them in ..."
     publishedDateTime: 2020-02-22T18:00:00Z

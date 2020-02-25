@@ -24,21 +24,6 @@ images:
     height: 350
     title: "Coronavirus update: Artificial Intelligence warned of the killer epidemic week before WHO"
 
-related:
-  - title: "“Faster and better”: How this AI startup raised the alarm for coronavirus a week before the World Health Organisation"
-    excerpt: "Canadian artificial intelligence startup BlueDot has been ahead of global health organisations for tracking the spread of coronavirus, first raising the alarm on New Year’s Eve, a week before the World Health Organisation and the US Centre for Disease Control. According to media reports, BlueDot founder and chief executive Kamran Khan says ..."
-    publishedDateTime: 2020-02-11T00:23:00Z
-    webUrl: "https://www.smartcompany.com.au/startupsmart/startupsmart-technology/bluedot-coronavirus/"
-    type: article
-    provider:
-      name: SmartCompany
-      domain: smartcompany.com.au
-    quality: 14
-    images:
-      - url: "https://www.smartcompany.com.au/content/uploads/2020/01/wuhan-china.jpg"
-        width: 681
-        height: 333
-
 secured: "Qu8vGz/9q1XFA7n3XzHP/MnY2ibGh/Y2PseEvZl/nIXnxMUVd49xGkIRmsB8QUUIj6TpewdfvINA1py00NfCRlJFjLReKddz6/xvqP20mU42XhJ8olQzWIZy35rz5MJnuwylwmcziKNk5wAK3DqwU120QaWjMf66qM9MJoJ77IM37Xn2cBrYuuY/BbQ9EysVgbVySHy9OmsDEu35Z46SqfHdz6SIFDIxCGietU6S8cvl+G2XQkH2657jt2Cn6HXiw11OVnox4fk4RY0IhHlMIlgQLSvgjCsl9PKFy1BFWtQm9AJTEqJaypCsRMrP87R8;Z2YnvSvnziOCXdSKvK79dQ=="
 ---
 

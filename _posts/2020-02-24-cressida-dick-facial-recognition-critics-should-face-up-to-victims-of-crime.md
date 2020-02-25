@@ -26,123 +26,82 @@ images:
     title: "Cressida Dick: Facial recognition critics should face up to victims of crime"
 
 related:
-  - title: "Met Police chief defends facial recognition from 'ill-informed' critics"
-    excerpt: "London's police chief has defended the use of facial recognition technology, labelling critics \"ill-informed\". Dame Cressida Dick said eight criminals had been caught using the controversial live facial recognition cameras. She said \"inaccurate\" critics should \"justify to the victims of those crimes why police should not be allowed to use tech..."
-    publishedDateTime: 2020-02-25T15:11:00Z
-    webUrl: "https://www.bbc.com/news/technology-51628833"
-    ampWebUrl: "https://www.bbc.com/news/amp/technology-51628833"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51628833"
+  - title: "Should Government Halt the Use of Facial-Recognition Technology?"
+    excerpt: "Critics say false positives are far higher for some groups of people than for others, but supporters of the technology says the actual numbers involved are tiny."
+    publishedDateTime: 2020-02-24T04:11:00Z
+    webUrl: "https://www.wsj.com/articles/should-government-halt-the-use-of-facial-recognition-technology-11582513260"
+    ampWebUrl: "https://www.wsj.com/amp/articles/should-government-halt-the-use-of-facial-recognition-technology-11582513260"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/should-government-halt-the-use-of-facial-recognition-technology-11582513260"
     type: article
     provider:
-      name: BBC
-      domain: bbc.com
-    quality: 89
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 74
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/BA4C/production/_111029674_gettyimages-1134218905.jpg"
-        width: 1024
-        height: 576
-  - title: "Met Police's first facial recognition cameras spot NO offenders and are branded a failure"
-    excerpt: "New police face recognition cameras have been branded a failure after spotting no suspects in hours of surveillance. The UK’s biggest force was accused of wasting taxpayer cash after the devices failed to find a single match despite scanning 4,600 ..."
-    publishedDateTime: 2020-02-20T22:37:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-8026771/Met-Polices-facial-recognition-cameras-spot-NO-offenders-branded-failure.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-8026771/amp/Met-Polices-facial-recognition-cameras-spot-NO-offenders-branded-failure.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-8026771/amp/Met-Polices-facial-recognition-cameras-spot-NO-offenders-branded-failure.html"
+      - url: "https://images.wsj.net/im-156193/social"
+        width: 1280
+        height: 640
+  - title: "Facial Recognition Technology Is the New Rogues’ Gallery"
+    excerpt: "Fueled by explosive reporting, foreign totalitarian regimes, and a lifetime of dystopian sci-fi, the movement to ban the government’s use of face recognition technology is growing. As of now, seven cities across the country—San Francisco, Oakland, and Berkeley in California, and Brookline, Somerville, Northampton, and Cambridge in ..."
+    publishedDateTime: 2020-02-17T10:45:00Z
+    webUrl: "https://slate.com/technology/2020/02/rogues-gallery-facial-recognition-technology-history.html"
+    ampWebUrl: "https://slate.com/technology/2020/02/rogues-gallery-facial-recognition-technology-history.amp"
+    cdnAmpWebUrl: "https://slate-com.cdn.ampproject.org/c/s/slate.com/technology/2020/02/rogues-gallery-facial-recognition-technology-history.amp"
     type: article
     provider:
-      name: Mail Online
-      domain: dailymail.co.uk
-    quality: 65
+      name: Slate
+      domain: slate.com
+    quality: 59
     images:
-      - url: "https://i.dailymail.co.uk/1s/2020/02/20/22/24998426-0-image-a-11_1582237916016.jpg"
-        width: 636
-        height: 382
-  - title: "Met police chief: facial recognition technology critics are ill-informed"
-    excerpt: "Cressida Dick defends tech after civil liberties groups raise fears over accuracy and privacy"
-    publishedDateTime: 2020-02-24T15:43:00Z
-    webUrl: "https://www.theguardian.com/technology/2020/feb/24/met-police-chief-cressida-dick-facial-recognition-technology-critics-ill-informed"
-    ampWebUrl: "https://amp.theguardian.com/technology/2020/feb/24/met-police-chief-cressida-dick-facial-recognition-technology-critics-ill-informed"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/feb/24/met-police-chief-cressida-dick-facial-recognition-technology-critics-ill-informed"
+      - url: "https://compote.slate.com/images/98a4ad17-4082-4a99-a71e-75514dd0625f.jpeg?width=780&height=520&rect=780x520&offset=0x0"
+        width: 780
+        height: 520
+  - title: "Portland considering strictest ban on facial recognition technology in the U.S."
+    excerpt: "“Please look at camera for entry.” Jacksons’ use of facial recognition technology could soon be outlawed in Portland. City officials are considering the strictest ban of the technology in the country, prohibiting its use not only by government agencies but also private businesses. Facial recognition technology typically uses a camera and ..."
+    publishedDateTime: 2020-02-21T15:20:00Z
+    webUrl: "https://www.oregonlive.com/portland/2020/02/portland-considering-strictest-ban-on-facial-recognition-technology-in-the-us.html"
+    ampWebUrl: "https://www.oregonlive.com/portland/2020/02/portland-considering-strictest-ban-on-facial-recognition-technology-in-the-us.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/portland/2020/02/portland-considering-strictest-ban-on-facial-recognition-technology-in-the-us.html?outputType=amp"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 58
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 55
     images:
-      - url: "https://i.guim.co.uk/img/media/6527a5db37946bab14375a67ded41e294359749b/109_407_2779_1667/master/2779.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8db0391fdb6cc0f6fc84eadbd17fff8d"
-        width: 600
-        height: 360
-  - title: "Police roll out controversial live facial recognition technology at Oxford Circus"
-    excerpt: "Scotland Yard has installed controversial facial recognition technology at Oxford Circus. The cameras were spotted mounted on vans in the area, one of the busiest in London, this morning. One dark blue van was captured in a picture posted by UK civil liberties group Big Brother Watch next to a sign reading: \"Police live facial recognition in use.\""
-    publishedDateTime: 2020-02-20T16:46:00Z
-    webUrl: "https://www.standard.co.uk/news/london/police-roll-out-controversial-live-facial-recognition-technology-at-oxford-circus-a4367416.html"
+      - url: "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/MUODS64EPVH7LB6P6GFG4M5MUM.JPG"
+        width: 4272
+        height: 2848
+  - title: "Moscow Enforces Coronavirus Quarantine with Facial Recognition Technology"
+    excerpt: "Moscow is harnessing the power of facial recognition technology to try to stop the spread of the coronavirus (COVID-19). The city's mayor said on Friday that the tech was being used in Russia's capital in an effort to dissuade people placed under ..."
+    publishedDateTime: 2020-02-25T17:41:00Z
+    webUrl: "https://www.infosecurity-magazine.com/news/moscow-enforces-coronavirus/"
     type: article
     provider:
-      name: London Evening Standard
-      domain: standard.co.uk
-    quality: 34
-    images:
-      - url: "https://static.standard.co.uk/s3fs-public/thumbnails/image/2018/03/21/09/poetry-london-underground.jpg"
-        width: 1500
-        height: 1000
-  - title: "Facial Recognition Less Scary than 'a Knife in the Chest,' says Met Police Chief"
-    excerpt: "Metropolitan Police Commissioner Cressida Dick has had it, officially, with people criticising the police's facial recognition tech. The Met has been aiming its Live Facial Recognition (LFR) camera at the public in central London recently, including in Oxford Circus with just two hours' notice. Unsurprisingly, lots of people were unhappy about ..."
-    publishedDateTime: 2020-02-25T17:07:00Z
-    webUrl: "https://www.gizmodo.co.uk/2020/02/facial-recognition-less-scary-than-a-knife-in-the-chest-says-met-police-chief/"
+      name: Infosecurity-magazine.com
+      domain: infosecurity-magazine.com
+    quality: 18
+  - title: "Washington State moves ahead on bill to regulate governments’ use of facial-recognition technology"
+    excerpt: "OLYMPIA, Wash. — Washington state senators Wednesday approved a bill that would begin regulating the use of facial-recognition programs by local and state governments. Sponsored by Democratic state Sen."
+    publishedDateTime: 2020-02-20T03:03:00Z
+    webUrl: "https://www.omaha.com/news/national/washington-state-moves-ahead-on-bill-to-regulate-governments-use/article_81a5a78c-4b22-548f-b17f-95e8e5e84552.html"
     type: article
     provider:
-      name: Gizmodo UK
-      domain: gizmodo.co.uk
-    quality: 34
-    images:
-      - url: "https://media.gizmodo.co.uk/wp-content/uploads/2020/02/bbw2.jpg"
-        width: 2551
-        height: 1435
-  - title: "Let police use facial recognition to fight knife crime, urges Met chief Cressida Dick"
-    excerpt: "Britain’s most senior police officer has criticised people who complain about their privacy being invaded by facial recognition cameras yet bare all on social media. Dame Cressida Dick, commissioner of the Metropolitan Police, said that privacy concerns over the cameras were outweighed by the need to protect the public from “a knife through ..."
-    publishedDateTime: 2020-02-24T21:34:00Z
-    webUrl: "https://www.thetimes.co.uk/edition/news/let-police-use-facial-recognition-to-fight-knife-crime-urges-met-chief-cressida-dick-smxtxnl28"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 32
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fe59a050e-5724-11ea-ae40-36d0719ad0bc.jpg?crop=5568%2C3132%2C0%2C290&resize=685"
-        width: 685
-        height: 385
-  - title: "London's top cop dismisses 'highly inaccurate or ill informed' facial-recognition critics, possibly ironically"
-    excerpt: "Huawei claims its Google Play replacement is in 'top 3' app stores after Trump turns off tap to the Chocolate Factory The head of London’s Metropolitan Police, Cressida Dick, has angered critics of facial recognition technology by accusing them of being ..."
-    publishedDateTime: 2020-02-25T13:45:00Z
-    webUrl: "https://www.theregister.co.uk/2020/02/25/uk_facial_recognition/"
-    ampWebUrl: "https://www.theregister.co.uk/AMP/2020/02/25/uk_facial_recognition/"
-    cdnAmpWebUrl: "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/02/25/uk_facial_recognition/"
-    type: article
-    provider:
-      name: The Register
-      domain: theregister.co.uk
-    quality: 24
-    images:
-      - url: "https://regmedia.co.uk/2020/02/24/cressida-dick.jpg"
-        width: 1000
-        height: 500
-  - title: "Met police deploy facial recognition technology in central London"
-    excerpt: "Metropolitan Police have deployed facial recognition technology in central London with just two hours’ notice, alarming citizens. Just across from the Microsoft store on London’s Regent ..."
-    publishedDateTime: 2020-02-21T10:26:00Z
-    webUrl: "https://tribune.com.pk/story/2161493/8-london-police-deploy-facial-recognition-technology-oxford-circus/"
-    type: article
-    provider:
-      name: The Express Tribune
-      domain: tribune.com.pk
-    quality: 19
-  - title: "Chief says police will not use face recognition until technology has been fully reviewed"
-    excerpt: "WATERLOO REGION — Controversial facial recognition technology is not being used by local police and won't be until it is fully reviewed, said the police chief. Waterloo Regional Police Chief Bryan Larkin said he will be issuing an internal memo telling all officers that they are not to use face recognition apps in their investigations."
-    publishedDateTime: 2020-02-20T04:31:00Z
-    webUrl: "https://www.therecord.com/news-story/9859221-chief-says-police-will-not-use-face-recognition-until-technology-has-been-fully-reviewed/"
-    type: article
-    provider:
-      name: Waterloo Region Record
-      domain: therecord.com
+      name: Omaha.com
+      domain: omaha.com
     quality: 10
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/custom/image/9595a7a2-2379-11e7-b3c5-13eacc36a918.jpg"
+        width: 1200
+        height: 630
+  - title: "Washington Senate passes bill to regulate governments’ use of facial-recognition technology"
+    excerpt: "OLYMPIA — Washington state senators Wednesday approved a bill that would begin regulating the use of facial-recognition programs by local and state governments. Sponsored by Sen. Joe Nguyen, D-White Center, Senate Bill 6280 is one of a series of legislative proposals this year to counter technology that is evolving fast, regulated little and ..."
+    publishedDateTime: 2020-02-20T02:25:00Z
+    webUrl: "https://www.seattletimes.com/seattle-news/politics/washington-senate-passes-bill-to-regulate-governments-use-of-facial-recognition-technology/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 0
 
 secured: "rr8VkuhHche9iKSgP4njuvIoKYxVOLN1rlDKeD8R2UVWy8EjC81Sjw62t5Yj1ImKvO1IK8KFPKAGiMO2FzwtbtBVFrR4eJdwYyAYSQy0GNLyX44zT//xTpP0UKQv5OqemKvBirB9LQzpshzG6ExQRG8rEAiktZzebRPow31+Q4JUCeZFnqd+sZ/YJy/gcQF/6+ZdYMqivXfbHbQiNNDvLIKniOlcBkiasUfoGM1cqGZ0IrnC0rL1dLeHz6KzFs13EyJtlAUi33wGEYplTojEkjJMoEuh/ewe1HemlOlIhaOQhaszGKoKOh0ioV5kgLTVqJVJcV0rDpFbzDuCzdmbgPHNSn6ythNCAThp397ERDeF2lD+5DnupAPp/Kvlh8MHeJZRxdBOYv8ushJoJCO89jYQSXUAc7zsMKu1MZul57MTS19w4D1yfYa4pwvgetl6GbMM4d47JgIHoKaXYkrjqIUuntJJpiwAO+J9rsHHzoI=;RjhnrPRigckRPELtPmOj6w=="
 ---

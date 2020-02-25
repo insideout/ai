@@ -358,6 +358,19 @@ related:
       - url: "https://www.brookings.edu/wp-content/uploads/2020/02/Police_surveillance_camera.jpg"
         width: 2400
         height: 1376
+  - title: "ACLU Blasts Clearview's Facial Recognition Accuracy Claims"
+    excerpt: "Clearview apparently has been telling law enforcement agencies that its technology underwent accuracy testing modeled on the ACLU's 2018 test of Amazon's Rekognition facial recognition tool. For that test, the ACLU simulated the way law enforcement used Rekognition in the field, matching photos of all 535 members of the United States Congress ..."
+    publishedDateTime: 2020-02-14T12:00:00Z
+    webUrl: "https://www.technewsworld.com/story/86512.html"
+    type: article
+    provider:
+      name: TechNewsWorld
+      domain: technewsworld.com
+    quality: 39
+    images:
+      - url: "https://www.technewsworld.com/article_images/story_graphics_xlarge/xl-2019-facial-recognition-1.jpg"
+        width: 620
+        height: 350
   - title: "Panel: Add new license photos to facial recognition database"
     excerpt: "COLUMBUS, Ohio (AP) — Additional and better quality driver’s license photos would be added to Ohio’s facial recognition database under a task force recommendation released Thursday. The database, used by law enforcement officers to identify both crime suspects and crime victims, currently includes driver’s license photos taken in 2011 ..."
     publishedDateTime: 2020-02-20T18:47:00Z

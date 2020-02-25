@@ -63,6 +63,19 @@ related:
       - url: "https://www.microsoft.com/security/blog/wp-content/uploads/2020/02/Azure-Sphere-card.jpg"
         width: 440
         height: 268
+  - title: "Azure Sphere is Now Generally Available"
+    excerpt: "“Azure Sphere isn’t a big story just because Microsoft intends to play a role in ambient computing,” I wrote at that time. “Of course it does. It’s a big deal because Microsoft, very explicitly, intends to play a major role at every level of the stack imaginable. It’s not just providing AI-based cloud services and an Internet of ..."
+    publishedDateTime: 2020-02-25T16:52:00Z
+    webUrl: "https://www.thurrott.com/smart-home/230680/azure-sphere-is-now-generally-available"
+    type: article
+    provider:
+      name: Thurrott
+      domain: thurrott.com
+    quality: 54
+    images:
+      - url: "https://www.thurrott.com/wp-content/uploads/sites/2/2020/02/azure-sphere-diagram.jpg"
+        width: 1066
+        height: 600
 
 secured: "T9J1THe/S7kyrqwCiOrra7k6kiM8KtBjf4syPfxPht/EX1gYQZDyL0CmDUU8FAVAs9ojv6ReyT4r6o90Inzo/xUa5x2013zQPnYpguzbha1QgeyOQN2cUyMW+cFsNVWHVbDRURZk9Lb2JMD6BQ8sezhZHoggte+04TAq4d1EZ+jNIcA+PAQnI8vlTzyL6iefU5A4eGyv4q+YnNSc4hlQYiXDekw6iNh6Wewd77CHywPx7zJu9QszajAhp4ccwIRShclNhojSvLdTpokuZfvfrZMYEuhJuDwbuFze9jg/FPPfMp81SB40cChVsXlx1OZr;AMaxbTN6yO67FaocXMnJFg=="
 ---

@@ -56,21 +56,6 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/e2sevaTPzwSLrrkLMMC8ntmIiWI=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66310283/vpavic_191202_3827_0025.0.jpg"
         width: 1400
         height: 933
-  - title: "Ford is giving Google and Uber veterans $1 billion to build a self-driving car brain"
-    excerpt: "Ford announced plans today to invest $1 billion over the course of five years into a new, previously unheard of artificial intelligence ... Alphabet Inc.'s new Waymo division is ramping up ..."
-    publishedDateTime: 2020-02-11T00:57:00Z
-    webUrl: "https://www.cnbc.com/2017/02/10/ford-is-giving-google-and-uber-veterans-1-billion-to-build-a-self-driving-car-brain.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2017/02/10/ford-is-giving-google-and-uber-veterans-1-billion-to-build-a-self-driving-car-brain.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2017/02/10/ford-is-giving-google-and-uber-veterans-1-billion-to-build-a-self-driving-car-brain.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 82
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/104275514-argo-photo-22.jpg?v=1529474180"
-        width: 3600
-        height: 2400
   - title: "A former Waymo driver has been accused of intentionally causing a collision with one of the company's self-driving vans"
     excerpt: "An ex-Waymo driver was arrested in Arizona on Wednesday after police said he intentionally caused a crash with one of the company's self-driving minivans last month. Tempe police said Raymond Tang, 31, \"targeted\" two Waymo vans, recklessly driving his Mazda around them before braking abruptly in front of one, causing it to rear-end his vehicle."
     publishedDateTime: 2020-02-13T00:00:00Z
@@ -252,24 +237,6 @@ related:
       name: MediaPost
       domain: mediapost.com
     quality: 19
-  - title: "Self-driving cars are being tested all over Houston"
-    excerpt: "From West University to Texas Southern University, self-driving cars are all around Houston. But how soon will it be before there are no drivers in them?"
-    publishedDateTime: 2020-02-11T01:00:00Z
-    webUrl: "https://www.khou.com/video/news/local/self-driving-cars-are-being-tested-all-over-houston/285-b2c221a2-a6c4-40b3-be2c-bd3074396bc8"
-    type: article
-    provider:
-      name: KHOU 11
-      domain: khou.com
-    quality: 4
-  - title: "Self-driving cars being tested all across Houston"
-    excerpt: "Several self-driving cars are being tested right here in Houston. Kroger, Dominos, even METRO are testing the technology. For now, the automated vehicles have a person on board. Cars that can operate without a driver are rolling around West University and Texas Southern University. The shuttle, funded by METRO, maneuvers through traffic on a ..."
-    publishedDateTime: 2020-02-11T01:04:00Z
-    webUrl: "https://www.khou.com/article/news/local/self-driving-cars-are-all-over-houston/285-b29c5839-ffd0-4355-88bf-61568031a13f"
-    type: article
-    provider:
-      name: KHOU 11
-      domain: khou.com
-    quality: 4
   - title: "Will Self-Driving Cars Increase Or Decrease Drunk Driving?"
     excerpt: "Sobriety checkpoints are also useful, though they aren't as effective as they should be. Some industry experts have started to explore the idea of self-driving cars as a solution to drunk driving. Will these autonomous vehicles be the solution we're looking for? Will Autonomous Vehicles Help? Will self-driving cars reduce the number of drunk ..."
     publishedDateTime: 2020-02-11T19:56:00Z

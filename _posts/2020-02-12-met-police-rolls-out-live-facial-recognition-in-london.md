@@ -82,6 +82,15 @@ related:
       - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/02/17/0cb516d6-5114-11ea-8948-c9a8d8f9b667_image_hires_073744.jpg?itok=8I6egWZ4&v=1581896270"
         width: 1200
         height: 630
+  - title: "Google Tells Clearview To Stop Scraping Photos For Facial Recognition Database"
+    excerpt: "Google and its video service YouTube have joined Twitter in demanding that facial recognition startup Clearview AI stop scraping photos from their services. “YouTube’s terms of service explicitly forbid collecting data that can be used to identify a person,” a spokesperson told CBS, which first reported the company's move. The tech ..."
+    publishedDateTime: 2020-02-17T23:20:00Z
+    webUrl: "https://www.mediapost.com/publications/article/346692/google-tells-clearview-to-stop-scraping-photos-for.html?edition="
+    type: article
+    provider:
+      name: MediaPost
+      domain: mediapost.com
+    quality: 15
 
 secured: "qQpojekWjiIlfDc4ps1IXADQMw3jak9SJhHaoNiJjBG03zpwB4F2BQW2wW3zAduUCakMsS8DihLcEscwrxw1AbfKcLwZyqcxphMeNrF+Ovu4ehlecQ2kCrOHhvCWqZlTkH+nFIcVpAHus/PlRV858RHpf6+nNNYl2iCOFUh0lBjPwQ0tEG80WchuLtCw2Bf7XRTwyLcLifIHYQYopFuQe8luXBGjEmnXHZ7RN4gUV8ko5ofD49MLbAbbg7zmJqZniqggGtOanuAf14B5E2zWxPwey9q43KTWmT8NJ/6NQ/SuBQpakbnlEca/EN7D/uk1GBhkLIKvKI1hdXQHAGxQN2wzt/O4ohPnpmfGk3xcOGrfy2FhpcWJLw0VvOeTiNimDHJ9w5Sw3MkN4bs6eiYrqSEGFnhw79ugyvZUMNMHdc84ikfxNjttxQHS+ACQnk9/FRE+qkbHvk+4gOJZZUY2HEQJSV0vesrDhC4+kL9EQB8=;qTLCWRELhN4CUAc8+hf23Q=="
 ---

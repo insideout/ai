@@ -1,22 +1,24 @@
 ---
 category: news
 title: "MITA Participates in FDA Workshop to Discuss Growing Impact of Artificial Intelligence in Medical Imaging"
-excerpt: "AI/DH Regulatory Intelligence, Philips Ultrasound; Mike Washburn, Chief Engineer, GE Healthcare – Ultrasound; Rob Trahms, Artificial Intelligence Leader, Philips Healthcare; Scott Paulson, Sr. Director of Regulatory Affairs and Quality Systems; Compliance Officer, FUJIFILM SonoSite; Tony Roder, Regulatory Affairs Executive, GE Healthcare ..."
-publishedDateTime: 2020-02-25T15:44:00Z
-webUrl: "https://www.pr.com/press-release/806530"
+excerpt: "MITA is participating today in the Food and Drug Administration (FDA) public workshop, \"Evolving Role of"
+publishedDateTime: 2020-02-25T13:00:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/02/r15403201/mita-participates-in-fda-workshop-to-discuss-growing-impact-of-artificial-intelligence-in-medical-"
+ampWebUrl: "https://amp.benzinga.com/amp/content/15403201"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15403201"
 type: article
-quality: 2
-heat: 2
+quality: 22
+heat: 22
 published: false
 
 provider:
-  name: PR
-  domain: pr.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
   - AI in Healthcare
 
-secured: "0uC85an+nVzyvGu9yxZa6JdSTpTH8WKSWcKLgl7Zz5roJ22zFY4QsnMLClxfqwH8e669pIRhUacqd4aDKbZFhdYsyMmCcQYgjY5zol40KuALS2g/s3B6zFJVbNSpo5/BiLyGaLyZucpInVLybKd72cDGSvZtykwXIqAkuanTjR9sdFBW0aQRZTtYsNwyVEgBgz3wAdTsuKVq08m7exDj+cQKn8HcuymFng5ekWU0M6rcIWIgMmOPHL34x/nCAKCgqhBbeqC9MFbvuQs2TEjbWCAHcucp2Nte/hUL19gCwgGUVsGFif/ow0HZoQPJygrv;EYNarP+YkWlnjhliZlkMpg=="
+secured: "ZjRzPODpKrIIorgQdFyaiqlMrQxG4Xcu/2GYZ9Yq2HyvnNiSL/Zfvo2ljUEgGmzgbm2PcP8EMI6c8T3HcYiDDCe0+vQQt2IyciII3mTZbOKn+90T5j7wt80+eYFLMBAMZZuXjCBjOpgC66QxokhF4PDKcx16gWWh9UDjCxrxld2lqW3P/XMuQDMjX0G5u6/cSqtlT9e23cWgby5cwmvx2b1H1TIHN+FYHeo9KKZNYkIVg1rxpmRy+oC9Vcjfs3Sd15i/wbqId+yX6Qxjt9Y1Q6K1UQM/EefyRYu4fKbMqWplLaOXoJigqAEbT3ip6opQ;XCXFmoN+1QEvr7KM4EwgiA=="
 ---
 

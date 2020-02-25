@@ -27,17 +27,21 @@ images:
     title: "How Artificial Intelligence and Automation may reshape supply chain roles as we know them?"
 
 related:
-  - title: "How AI Is Supercharging RPA (Robotic Process Automation)"
-    excerpt: "Robotic Process Automation (RPA), which allows for the automation of the tasks of workers, has been one of the hottest categories in tech. The reason is actually simple: the ROI (Return on Investment) has generally been fairly high."
-    publishedDateTime: 2020-02-21T20:19:00Z
-    webUrl: "https://www.forbes.com/sites/tomtaulli/2020/02/21/how-ai-is-supercharging-rpa-robotic-process-automation/"
-    ampWebUrl: "https://www.forbes.com/sites/tomtaulli/2020/02/21/how-ai-is-supercharging-rpa-robotic-process-automation/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/02/21/how-ai-is-supercharging-rpa-robotic-process-automation/amp/"
+  - title: "IBM Watson: how AI is transforming the supply chain"
+    excerpt: "New technology such as AI, Big Data and machine learning is making life easier for industry executives as an ever-increasing number of companies begin to digitise their offerings. In order to stay ahead in a dynamic and continuously evolving industry, businesses must trial technology to increase efficiency. The technology giants, IBM Watson ..."
+    publishedDateTime: 2020-02-25T18:15:00Z
+    webUrl: "https://www.supplychaindigital.com/technology/ibm-watson-how-ai-transforming-supply-chain"
+    ampWebUrl: "https://www.supplychaindigital.com/technology/ibm-watson-how-ai-transforming-supply-chain?amp"
+    cdnAmpWebUrl: "https://www-supplychaindigital-com.cdn.ampproject.org/c/s/www.supplychaindigital.com/technology/ibm-watson-how-ai-transforming-supply-chain?amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
+      name: Supply Chain Digital
+      domain: supplychaindigital.com
+    quality: 74
+    images:
+      - url: "http://www.supplychaindigital.com/sites/default/files/styles/og_image/public/topic/image/GettyImages-1097225424_0.jpg?itok=C9V8WymX"
+        width: 1200
+        height: 627
 
 secured: "ptYHS8Bgsbde4HD8tGIh4pqcfEhrmRM3P4sZ28Kw/Yns/ljXnRpe3EoMDZ7SUvS/wxMJsLbMPxsutfUU3uE34HBVDxPRKytMiJ321Fpjt9O9pZ+KWNjpsibK0YHxYlYtsilzj2uOdd2e5sXDj2UY4Dw8jjngDoqQpppUanN57Ourwp2A9iRAHrRvDqRTXFaDzyhu8hjyH/s+82MCouXRBC+vvuHuG8opt3Rd9cFWQGN1UAFMIJIfjZHpE7S52wbZclJ5RAmmNcsfwKoCKfn21Vj7TjcT9P6JAjeLOBM9WdPJXOpDKDbG7DqH9ncaVylf;fA9TnS563LjjmmSgzmdsIw=="
 ---

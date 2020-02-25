@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-11T10:47:00Z
 webUrl: "https://www.marketwatch.com/press-release/market-updates-for-2020-ml-ai-industry-will-poised-for-strong-global-growth-2020-02-11"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -41,15 +41,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Artificial Intelligence in Manufacturing Market Global Trends, Market Share, Industry Size, Opportunities, Analysis and Forecast To 2025"
-    excerpt: "name=1148471 Major Vendors profiled in the Artificial Intelligence in Manufacturing Market include are NVIDIA Corporation (US), IBM Corporation (US), Alphabet Inc. (Google) (US), Microsoft Corporation (US), Intel Corporation (US), AWS (US), Sight Machine (US),Siemens AG (Germany), and General Electric Company (US). Increasing need for hardware ..."
-    publishedDateTime: 2020-02-11T02:58:00Z
-    webUrl: "https://www.openpr.com/news/1926336/artificial-intelligence-in-manufacturing-market-global"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
 
 secured: "/uJCWeFQxHq5XNQTeui3OpevS9ZukkS0GFNTHsAmkVvdkG1b6cjpNkBcqw3KC08+G3EA2ZKsKd8GFvK/l+UnVy4H/B+d09hhuwep/Ww8jjtZvUXiXCqQ84teLyKeYy5LC2EA/3pZD8YjOlZJg7pOTGgCnuPWDING6h0st2zoDnWb1WuHQJhgReCueGKOqmhBh7BN0oM5JbHzoCZJw2fyiGVGYLT8NobM3fhZWA0TG8VL0Ievxn0UaNKzMpyRAQk0JNZH5SKfsosYet84O+gYUq4U8Ozq1NOQ0nHzHWfW543dwilq87yptI4gaoS8z4x0;5fCNmfjFoRxKyRuuw+JOEg=="
 ---

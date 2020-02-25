@@ -59,6 +59,21 @@ related:
       - url: "https://www.telegraph.co.uk/content/dam/technology/2019/03/08/graphcore-1_trans_NvBQzQNjv4BqnY32puTRmJBD0IQz1kt_ZVqZFC3fB4GuhEoILEGfoek.png"
         width: 1402
         height: 876
+  - title: "AI chipmaker Graphcore nears $2bn valuation after fresh funding round"
+    excerpt: "It is now valued at $1.95bn. The Bristol-based startup is best known for its Intelligence Processor Unit, which is designed for use in AI software. In November Graphcore signed a deal with Microsoft for the use of its chips in the tech giant’s cloud computing business. It has also secured a partnership with Dell. Graphcore chief executive ..."
+    publishedDateTime: 2020-02-25T15:36:00Z
+    webUrl: "https://www.cityam.com/ai-chipmaker-graphcore-nears-2bn-valuation-after-fresh-funding-round/"
+    ampWebUrl: "https://www.cityam.com/ai-chipmaker-graphcore-nears-2bn-valuation-after-fresh-funding-round/amp/"
+    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/ai-chipmaker-graphcore-nears-2bn-valuation-after-fresh-funding-round/amp/"
+    type: article
+    provider:
+      name: City A.M.
+      domain: cityam.com
+    quality: 74
+    images:
+      - url: "https://www.cityam.com/wp-content/uploads/2019/05/microchipgetty-57ed71e8f06ff-57ed71e90b437.jpg"
+        width: 839
+        height: 523
   - title: "UK-based AI chip maker Graphcore raises extra USD 150 million"
     excerpt: "UK-based AI chip maker Graphcore has secured new capital of USD 150 million to support continued R&D and global expansion. The private placement was supported by leading financial asset managers, investment trusts and growth equity funds. New investors include M&G Investments, Mayfair Equity Partners and Baillie Gifford. Graphcore closed a USD ..."
     publishedDateTime: 2020-02-25T13:24:00Z

@@ -43,6 +43,21 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/711x532/https://specials-images.forbesimg.com/dam/imageserve/954077270/960x0.jpg?fit=scale"
         width: 711
         height: 532
+  - title: "Explore the Uses of Artificial Intelligence in Science March 18"
+    excerpt: "One of your neighbors posted in Schools. Click through to read what they have to say. (The views expressed in this post are the author’s own.)"
+    publishedDateTime: 2020-02-25T16:33:00Z
+    webUrl: "https://patch.com/illinois/glenellyn/explore-uses-artificial-intelligence-science-march-18"
+    ampWebUrl: "https://patch.com/illinois/glenellyn/amp/28600122/explore-uses-artificial-intelligence-science-march-18"
+    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/illinois/glenellyn/amp/28600122/explore-uses-artificial-intelligence-science-march-18"
+    type: article
+    provider:
+      name: Patch
+      domain: patch.com
+    quality: 57
+    images:
+      - url: "https://patch.com/img/cdn20/users/91525/20200225/113317/styles/patch_image/public/prasannabalaprakash-web___25113249095.jpg?width=984"
+        width: 800
+        height: 600
   - title: "7 Popular Data Science Presentations On SlideShare"
     excerpt: "Moving Machine Learning Models To Production With Tensorflow Extended Moving Your Machine Learning Models to Production with TensorFlow Extended from Jonathan Mugan In Moving Machine Learning To Production With Tensorflow Extended, one can learn how to move their ML models to production with TensorFlow Extended (TFX) — an end-to-end platform ..."
     publishedDateTime: 2020-02-14T04:36:00Z

@@ -63,6 +63,21 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2018/05/gettyimages-914788014.jpg?w=1024"
         width: 1024
         height: 544
+  - title: "AI chipmaker Graphcore nears $2bn valuation after fresh funding round"
+    excerpt: "It is now valued at $1.95bn. The Bristol-based startup is best known for its Intelligence Processor Unit, which is designed for use in AI software. In November Graphcore signed a deal with Microsoft for the use of its chips in the tech giant’s cloud computing business. It has also secured a partnership with Dell. Graphcore chief executive ..."
+    publishedDateTime: 2020-02-25T15:36:00Z
+    webUrl: "https://www.cityam.com/ai-chipmaker-graphcore-nears-2bn-valuation-after-fresh-funding-round/"
+    ampWebUrl: "https://www.cityam.com/ai-chipmaker-graphcore-nears-2bn-valuation-after-fresh-funding-round/amp/"
+    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/ai-chipmaker-graphcore-nears-2bn-valuation-after-fresh-funding-round/amp/"
+    type: article
+    provider:
+      name: City A.M.
+      domain: cityam.com
+    quality: 74
+    images:
+      - url: "https://www.cityam.com/wp-content/uploads/2019/05/microchipgetty-57ed71e8f06ff-57ed71e90b437.jpg"
+        width: 839
+        height: 523
 
 secured: "gk9rG2dBedLkolZw2agPVNdmU7GY77RANopwvXjIqJTe6IsivwpwSCvAeENsidfTRqLJWqKirwl/pVl+7drSKBcF6qzGs7ACnNwa4MTK7d7Giatu7KEX2IscCbQExA5+ow566mB6O+TKsx4VbgLnAEowGR24xmYthA80Mjc7+OfhcBSDgRWVFTRlBtwovwf/lhxkFrgdejfVjU2H1nkkTBxmtlpNcdZurJWDKps3Jq+e1iI0EI/ODi1z8Pob++Jy+f49viaLVH+lFk0UYK3J8g6R/YSraFAN97tN9GyNxZBgFDuK3kKWJemdsxGJMWJh;sjaQssycm+Tw9noHz0wXww=="
 ---

@@ -72,15 +72,6 @@ related:
       - url: "https://mms.businesswire.com/media/20200220005270/en/774567/23/Viz.ai_Logo_Blue_Horizontal.jpg"
         width: 1200
         height: 627
-  - title: "Utilizing Artificial Intelligence to Synchronize Stroke Care Impacts Workflow and Hospitalization"
-    excerpt: "SAN FRANCISCO & TEL AVIV, Israel--(BUSINESS WIRE)--Viz.ai, Inc. the leading applied artificial intelligence healthcare company, is excited to highlight real-world data from Dr. Ameer Hassan’s presentation “Early Experience Utilizing Artificial Intelligence Shows Significant Reduction in Transfer Times and Length of Stay in a Hub and Spoke ..."
-    publishedDateTime: 2020-02-20T14:28:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200220005279/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 6
 
 secured: "gzxB4miW3eVziSlZhGy7EWzE2vbQWot+fWNqJiRH8sTa0wSvrBYz7jPgZFF4KT7cd2dZDtB2BVVzQh1ih8E3ABFmtpsEGY4fE4j6hhQ68gHZGGh1k/5D4E3AUIJxQwSXCeksNybJdHwaKN9u0zTm/oO8j6LfU7ODbFxqJKFMPSYLfMY4dDl+/8tEPd2YbiIbkbGlpiVVjiHG6h6g+a0AHsdykWw/DuC8lKBY40svQXsV7Y4ms/O/db12Q6iE3/tekVVu7pLlTZA+Jn+Up6HTlhSrvkhApIasoyYm8XJo6GeajMMS3BaEVLilhRWTql0Y;zYqDjuUdxTPYvNvuFec/uw=="
 ---

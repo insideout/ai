@@ -58,6 +58,21 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/01/Cruise-car-in-Hayes-Valley-San-Francisco.jpg?w=1024"
         width: 1024
         height: 576
+  - title: "Chinese company gives California workers free rides in self-driving robotaxis"
+    excerpt: "The same city that converted a used Tesla Model S into a police car is shuttling its city employees to work in self-driving cars. China-based Pony.ai launched a self-driving car pilot program in Fremont, California, on Tuesday. If that city sounds familiar, it's where Tesla built its very first factory. One of Fremont's police cars is actually ..."
+    publishedDateTime: 2020-02-25T18:47:00Z
+    webUrl: "https://mashable.com/article/pony-ai-self-driving-cars-fremont/"
+    ampWebUrl: "https://mashable.com/article/pony-ai-self-driving-cars-fremont.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/pony-ai-self-driving-cars-fremont.amp"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 71
+    images:
+      - url: "https://mondrian.mashable.com/2020%252F02%252F25%252F4f%252Fd75c9f984aa5402cb06f23fc61998c2f.8706a.jpg%252F1200x630.jpg?signature=7bMCxIclQRz1wENwmSpitIM5yKQ="
+        width: 1200
+        height: 630
   - title: "Self-driving vehicle makers say California is looking at the wrong data to measure their progress"
     excerpt: "#SelfDriving car makers say #California is looking at the wrong data when it comes to measuring their #tech progress. #autonomousvehicles"
     publishedDateTime: 2020-02-24T12:15:00Z

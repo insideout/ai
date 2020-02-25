@@ -97,15 +97,6 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/44c2b6e/2147483647/strip/true/crop/1762x1151+142+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F28%2F22%2F8178e5064f7c136ce007d7fc24b1%2Fla-1548770710-xhgwtmgm6p-snap-image"
         width: 320
         height: 209
-  - title: "Pentagon Adopts New Ethical Principles for Using AI in War"
-    excerpt: "The Pentagon is adopting new ethical principles as it prepares to accelerate its use of artificial intelligence technology on the battlefield."
-    publishedDateTime: 2020-02-25T01:36:00Z
-    webUrl: "https://www.usnews.com/news/business/articles/2020-02-24/pentagon-adopts-new-ethical-principles-for-using-ai-in-war"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 64
   - title: "DoD Adopts AI Ethics Principles, But How Will They Be Enforced?"
     excerpt: "Jack Shanahan, told reporters this afternoon. “The real hard part of this is taking the AI delivery pipeline” – from the initial algorithms and data sets, field testing, and training human users, to holding commanders accountable for lethal errors – “and understanding where those ethics principles need to be applied.” “They’re ..."
     publishedDateTime: 2020-02-24T22:37:00Z
@@ -119,6 +110,19 @@ related:
       - url: "https://sites.breakingmedia.com/uploads/sites/3/2020/02/Screen-Shot-2020-02-24-at-5.11.58-PM.png"
         width: 597
         height: 328
+  - title: "Pentagon adopts new ethical principles for using AI in war"
+    excerpt: "The Pentagon is adopting new ethical principles as it prepares to accelerate its use of artificial intelligence technology on the battlefield. The new principles call for people to \"exercise appropriate levels of judgment and care\" when deploying and using AI systems,"
+    publishedDateTime: 2020-02-25T18:40:00Z
+    webUrl: "https://www.chron.com/business/technology/article/Pentagon-adopts-new-ethical-principles-for-using-15080225.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 54
+    images:
+      - url: "https://s.hdnux.com/photos/01/10/62/42/19081406/11/rawImage.jpg"
+        width: 2048
+        height: 1365
   - title: "DoD adopts new ethical principles for the use of artificial intelligence"
     excerpt: "WASHINGTON — The Department of Defense will follow a new set of ethical principles for the use of artificial intelligence, officials announced Feb. 24. The rollout of a code of conduct for the use of AI technology follows a 15-month study led by the Defense Innovation Board, a panel of outside advisers led by Eric Schmidt, former executive ..."
     publishedDateTime: 2020-02-24T23:34:00Z
@@ -171,19 +175,6 @@ related:
       - url: "https://fcw.com/-/media/GIG/EDIT_SHARED/AI_Automation/AI.png"
         width: 620
         height: 300
-  - title: "The Pentagon promises to use artificial intelligence for good, not evil"
-    excerpt: "Defense Secretary Mark Esper has signed off on guidelines for the military's use of artificial intelligence. The military has its eye on artificial ... as well as some cyber defense technology and solutions to make military health care more efficient. The U.S. defense community is starting to understand that AI will significantly transform ..."
-    publishedDateTime: 2020-02-25T17:57:00Z
-    webUrl: "https://www.navytimes.com/news/your-military/2020/02/25/the-pentagon-promises-to-use-artificial-intelligence-for-good-not-evil/"
-    type: article
-    provider:
-      name: Navy Times
-      domain: navytimes.com
-    quality: 41
-    images:
-      - url: "https://www.armytimes.com/resizer/fEItOgijCtOgwVXugNd1NEv5NVA=/1200x630/filters:quality(100)/arc-anglerfish-arc2-prod-mco.s3.amazonaws.com/public/TIQ4YOM3BJHL3KLKJ42TYPUJVI.jpg"
-        width: 1200
-        height: 630
   - title: "The Pentagon now has 5 principles for artificial intelligence"
     excerpt: "“This runs in stark contrast to Russia and China, whose use of AI technology for military purposes raises serious concerns about human rights, ethics and international norms.” The five principles apply to both the combat and non-combat use of AI technologies, said Deasy. Sign up for the Early Bird Brief, the defense industry's most ..."
     publishedDateTime: 2020-02-24T23:20:00Z

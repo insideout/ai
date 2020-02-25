@@ -1,27 +1,33 @@
 ---
 category: news
-title: "Clever Browser Tool Erases People From Live Webcam Feeds In Real Time"
+title: "Clever Browser Tool Erases People From Live Webcam Feeds in Real Time"
 excerpt: "Mayes is a Google web engineer who developed his Disappearing-People tool using Javascript and TensorFlow, which is Google’s free, open source software library that allows the terrifying potential of artificial intelligence and deep learning to be applied to less terrifying applications. In this case, the neural network works to determine ..."
-publishedDateTime: 2020-02-24T21:27:00Z
-webUrl: "https://www.gizmodo.com.au/2020/02/clever-browser-tool-erases-people-from-live-webcam-feeds-in-real-time/"
+publishedDateTime: 2020-02-24T23:08:00Z
+webUrl: "https://gizmodo.com/clever-browser-tool-erases-people-from-live-webcam-feed-1841886899"
+ampWebUrl: "https://gizmodo.com/clever-browser-tool-erases-people-from-live-webcam-feed-1841886899/amp"
+cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/clever-browser-tool-erases-people-from-live-webcam-feed-1841886899/amp"
 type: article
-quality: 24
-heat: 24
-published: false
+quality: 74
+heat: 84
+published: true
 
 provider:
-  name: Gizmodo Australia
-  domain: gizmodo.com.au
+  name: Gizmodo
+  domain: gizmodo.com
+  images:
+    - url: "/assets/images/organizations/gizmodo.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
   - Google AI
 
 images:
-  - url: "https://i.kinja-img.com/gawker-media/image/upload/c_lfill,w_1200,h_628,q_90/rn8juxshvtinyw3oh5te.jpg"
+  - url: "https://i.kinja-img.com/gawker-media/image/upload/s--kY9EtKmN--/c_scale,f_auto,fl_progressive,q_80,w_800/rn8juxshvtinyw3oh5te.jpg"
     width: 800
     height: 450
-    title: "Clever Browser Tool Erases People From Live Webcam Feeds In Real Time"
+    title: "Clever Browser Tool Erases People From Live Webcam Feeds in Real Time"
 
 related:
   - title: "Disappearing-People - Person removal from complex backgrounds over time."
@@ -38,6 +44,6 @@ related:
         width: 400
         height: 400
 
-secured: "Zx5G6zTdvrr4VLr+Q7zPDl3Wpck/QzU7lztV00KYeIA7I5VLn9uI2u6twirbB9CC+D3vHni1DVNL5d2wpDMbeCkf5j2U46gTtJMOrb7gFwbOOfaiWjIGpddr7NaFpicSvq3r7ffcGBP5LWN1++V96YDJWAQ1c9Jfu8/qLQz4oEKVML/BQVA7eQS6IPLKh2K0bom5EOxuJszEMK0AEvSw78r4zgN4lQ7EUHImOdXAx77I31ojsvPFt+jhXFrhL5tcTfLu5Ltw5WBn2LqyeSu2/VTDHIgmcw5ALyLXCBpxb53YObJzJwgLtAzG8p0TEMek;8Q3Jl/blildnmKUZBxR27Q=="
+secured: "ez5Q/XOESgBoNo9BqurkYfo4i8hlzJxg5z6ZniVZofsKsYKqndSTM0PRw0h5KDcyGm3oNKg2eBfwk6rpcKtHicgKGBPSHR7GhU6z7pEqGxNMrC/Ruld/45Kla/iclxrY4+/0e9AcsR4EFZItW970B4VuB7yctS4YbksCwA1JpO0/Rl6xDYuBvBd/B32ETYkBMJ3vxuXjScqympC8mq/QOyEc7tZudzXhgnNXpSQJUNY4MTnO7O9XRlFOw8yCx8260jZOZWLBx1+/P2jF50HFnXvOO8TsHnjnI8OWOEJLUzk6dl/SVHwO4GjOXOQGGEA37JfOcJOqfPmJ6gO6QjcbwFFg751HdUjHiPxjJJ+fDcGD2dsj8aOArheecvJoT1zfrP/Llvt08MIcTDeyHk3//PUyG0wE/ZfWt1JtVeyRg2/YnVFSlZv5s+vW4HB1GMpPECEkjqfJOBc5t7GftnYeiIqV18SGufGXvmCliGZmpvg=;cSiEw9o1corXVSWB1PhEfA=="
 ---
 

@@ -25,6 +25,6 @@ images:
     height: 450
     title: "Xiaomi Youpin launched the Elite Keyboard and Mouse, with Voice Input support"
 
-secured: "4xhCqje0Jjs0Rscn6j5m+ykSWN1UfyBQGD6hGgwQDX68IcU48z74LAqbkLOeUrEgmm6tHoFOFqKr7aINLmjAHorIYXPNZfr1dZc1Zh4ZRHaQgYvBO0qq1uvXrMtSyXnccadbxJto1XNFgFO/usUiLQ/bk/dlIH8EMIJvthXfnt3KBxpohY1uSlelTvSMoH8R6iR6ilgrGifk2fU9gGvbBJYpZ0dWtGrDEi4pT/OgzV09PRZ4m7gPwb8/2HiIwtri3bzsHssOTIOEoqhdUfFTtcD/Axpvkr2fmcPwMLHeJVAA2vyyMn/W/h89W1/IbhBw;CZVczlyTjU+xBSDFHocg0Q=="
+secured: "L2E/HYHcei3Cp/ba3LDAKXVz7BObVSC0WX6SnJEff6+JL/53RGLgMtAs8JOvOtcE+1D9iXKXnw6HReQyEtnPj7/4K/AtaAZL2BH1hcPLVHlshUj++boVrmXZIcX1uOG+bxoPvp5swOKYKkfwzruFZTN55CxzBWZZi1PSpGCJSyESQz3DokScG1LywwgDW5G8DEM6qjwVUrb0ni4LFt/jQ6zoZbAts7ZMEYxBFy5odidVthfyGqZtveYttP7/QQCpKGMFjTtROQwuIeeQkVz7V4IsZXeFtfzWgz7eaS8D5Dpz2K0UYzlZKKF3nf1SivtDGoKfY1X2Rdcq4us9KnUPIuHszP+WCVxJ9sK7NqYSw7i0VOCXP+q6gw8gPUTaNgzu58ULUqUauI6wHbqHCvrs4GKDE26mXkGgZqe9ws+DpL1q6r/cs6MyAHRoR3/fQ/drEIp1/iyJMkpD17V9ozUvZ+TC42XSpr0wCm/QY1wtuk4=;NeY6t9kzvl1QR3oNHKFmbA=="
 ---
 

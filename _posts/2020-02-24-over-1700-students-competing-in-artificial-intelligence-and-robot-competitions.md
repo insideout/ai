@@ -27,20 +27,20 @@ images:
 
 related:
   - title: "Over 1,700 students competing in artificial intelligence and robot competitions"
-    excerpt: "H.H. Sheikh Khalid bin Mohamed bin Zayed Al Nahyan, Chairman of Abu Dhabi Executive Office, opened the activities of the 6th national championship of the series of artificial intelligence, AI, and robot competitions 2020, organised by the Ministry of Education at the Abu Dhabi National Exhibition Centre, ADNEC. Held under the patronage of H.H ..."
-    publishedDateTime: 2020-02-25T13:28:00Z
-    webUrl: "https://www.emirates247.com/news/emirates/over-1-700-students-competing-in-artificial-intelligence-and-robot-competitions-2020-02-25-1.692744"
-    ampWebUrl: "https://www.emirates247.com/news/emirates/over-1-700-students-competing-in-artificial-intelligence-and-robot-competitions-2020-02-25-1.692744?ot=ot.AMPPageLayout"
-    cdnAmpWebUrl: "https://www-emirates247-com.cdn.ampproject.org/c/s/www.emirates247.com/news/emirates/over-1-700-students-competing-in-artificial-intelligence-and-robot-competitions-2020-02-25-1.692744?ot=ot.AMPPageLayout"
+    excerpt: "ABU DHABI - H.H. Sheikh Khalid bin Mohamed bin Zayed Al Nahyan, Chairman of Abu Dhabi Executive Office, opened the activities of the 6th national championship of the series of artificial intelligence, AI, and robot competitions 2020, organised by the Ministry of Education at the Abu Dhabi National Exhibition Centre, ADNEC. Held under the ..."
+    publishedDateTime: 2020-02-25T18:22:00Z
+    webUrl: "https://www.zawya.com/uae/en/life/story/Over_1700_students_competing_in_artificial_intelligence_and_robot_competitions-WAM20200224193158932/"
+    ampWebUrl: "https://www.zawya.com/uae/en/story/amp/WAM20200224193158932/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/WAM20200224193158932/"
     type: article
     provider:
-      name: Emirates247
-      domain: emirates247.com
+      name: Zawya
+      domain: zawya.com
     quality: 70
     images:
-      - url: "https://www.emirates247.com/polopoly_fs/1.692745.1582613803!/image/image.gif"
+      - url: "https://www.zawya.com/resources/img/zawya-logo-en-social.png"
         width: 1200
-        height: 800
+        height: 878
   - title: "Artificial Intelligence Technology and Competition with China"
     excerpt: "U.S. Chief Technology Officer Michael Kratsios talks about artificial intelligence technology and tackling Chinese competition."
     publishedDateTime: 2020-02-20T19:16:00Z

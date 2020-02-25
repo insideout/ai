@@ -24,6 +24,19 @@ images:
     title: "PlateSmart ALPR and Vehicle Recognition Solutions Drive ROI for Retailers by Preventing Theft"
 
 related:
+  - title: "Pindrop upgrades biometric voice recognition solution Deep Voice 3"
+    excerpt: "Pindrop is launching an upgraded version of its biometric voice recognition technology Deep Voice 3, which leverages machine learning and deep neural networks to authenticate end-users calling into contact centers and deliver a seamless, secure customer experience, the company announced at this year’s RSA Conference. Pindrop claims its ..."
+    publishedDateTime: 2020-02-25T17:57:00Z
+    webUrl: "https://www.biometricupdate.com/202002/pindrop-upgrades-biometric-voice-recognition-solution-deep-voice-3"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 24
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/01/09162655/voice-biometrics-large1.jpg"
+        width: 1600
+        height: 700
   - title: "New Lattice mVision Solutions Stack Accelerates Low Power Embedded Vision Development"
     excerpt: "The Edge AI and Vision Alliance is committed to fostering the adoption of embedded vision in new products. Jeff Bier, the Alliance’s founder, said, “Manufacturing inspection was one of the first markets to widely adopt computer vision. Today, embedded vision is expanding into a wide range of industrial applications, such as automated ..."
     publishedDateTime: 2020-02-24T23:15:00Z

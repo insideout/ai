@@ -24,17 +24,6 @@ images:
     title: "Deep Learning for Predicting Severe Weather"
 
 related:
-  - title: "Predicting chaos using aerosols and AI"
-    excerpt: "This kind of AI is first fed information about a real-world process, then, based on that data, it creates a simulation of that process. Motivated by game theory, a generative adversarial network receives both the ground truth (real) and randomly generated data (fake) and tries to determine which is real and which is fake. This process repeats ..."
-    publishedDateTime: 2020-02-10T13:54:00Z
-    webUrl: "https://phys.org/news/2020-02-chaos-aerosols-andai.html"
-    ampWebUrl: "https://phys.org/news/2020-02-chaos-aerosols-andai.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-02-chaos-aerosols-andai.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 37
   - title: "Machine Learning Algorithms for Predicting the Recurrence of Stage IV Colorectal Cancer After Tumor Resection"
     excerpt: "The aim of this study is to explore the feasibility of using machine learning (ML) technology to predict postoperative recurrence risk among stage IV colorectal cancer patients. Four basic ML algorithms were used for prediction—logistic regression, decision tree, GradientBoosting and lightGBM. The research samples were randomly divided into a ..."
     publishedDateTime: 2020-02-13T10:10:00Z
@@ -49,6 +38,6 @@ related:
         width: 640
         height: 685
 
-secured: "rPpdf4VLaXpgE0rtX4mNxRyuPd0819g/msYJYgvqiI0yLQFIMoot8ya2q6Cv9xp7KnwnddT8dhFbkN9dp1eeijnUdz3Dm/mHcCbKYUF0ONKG4nkglO2AtrATtuqKE0MXFdfHmrFHwaNM1qSPufCXt0v3cBK54yUa3qGUHBLSqjUHSkSQjvJ2fqPfl/dpEZ98haB6soj0qF9f7/giEDccQmcztMNBNT/UWODLgeDgcWmZchuwGixExm7UE8IvEh891R85ejTsruCxw2PT0CF3mtaNOIQe3YxlYgYyGmK15RMGUpXeQJuuLxxyyBTfbIYL;WG1s/7YyyV4nuRDOHH8lJQ=="
+secured: "OHJVFUH8S10k5VHssxh9ExL+EJhdNfqPo+xDCglraCEFV4umRmN++9DjSP+iXQssBhXGcBKBCcpUYtTj3HtrNwfWsF+krJZoL7qXvntr/NGtE2ohMmT6DbFi7HvCMNO9PTNOljBlXWUuKqXOJ0Crlhvc4jR6QOd7NRnrH3MwW2t9OyEKYmMCnxLnR3Eq6W94eFzlgdxMutX5o95jaqo07EyhdVJWX3V3dyIZBgmp/EGVhwN4ZJNcZXuE/A5z3Y6RDcDX+crkBkUyZanyi3yIwslAkhhExkThWaONB4btN2SfWpMhWfwiSyD2CExvyNz/;qiTFitqsSrueOe2sjqQ3ZA=="
 ---
 

@@ -27,6 +27,6 @@ images:
     height: 630
     title: "Medical Bionic Implants And Exoskeletons Market is expected to expand at a CAGR of 7.5% during 2017-2027"
 
-secured: "iirgoD7dZJmbzyP+Yo8ujCxwJu7FIugVXhRjHsV+Rgz7GH28HgrvC1dWDQLY0/81Mc8XIoLqFdNBbApjwSWO7JYm8i9/E3rwy0XiK9DaKzJiMn1Q7b7rXiu4TT1G/Po9x9NzB02vWghDYnYAMQ0HDhu1TAuah25jYMFW16yBjw/f9EU9O2wCyBdKyS5ymgAX02TWrnIsT8NweDzh2IWKdjWGwY8+/myI7acfHZLAUCVKHBE9hVcqO0MIVIPmFR7w23ljmGeFMY0mzaPE6z8UKUhdIBfV2/YFj4yQB5n1Av4AyrZiesInT9LhjnzoMEn3;UyQ10feIdrAr3EN8kDrVCg=="
+secured: "VJSyQYKTRBGPtJTAgFM67TzD5P4BD7jVTSQmENgD4Q3f4aBhtOCxuSSuGw3hSF+y4qtAouaCXxm8Ud4QnoY5kZUx6v5emcgvvl9Qhhn9R5BtghcilOjMf5aH5Y/+oCIIcrggIqdMqZT7vlkBWrdoOZvsOv67HX7n4/Yf0BjkeapsGXlNKcOjnMxVIxNb2MQAYNhN+daGIAF7NLLFZT3Zaq6b7fUg3tQS834/9UhVt5B8I2AvgiXp7mldF3rRAQliMxMIlHtPAAtNh/iEPwWlsWl9N4AO3Yqnn44SzHbe8MMqxT9COjRO26W6FwnJo73R;mYzRR+DLI3B8x1TS2YRNFg=="
 ---
 

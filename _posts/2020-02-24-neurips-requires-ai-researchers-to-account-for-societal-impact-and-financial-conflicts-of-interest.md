@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-24T18:35:00Z
 webUrl: "https://venturebeat.com/2020/02/24/neurips-requires-ai-researchers-to-account-for-societal-impact-and-financial-conflicts-of-interest/"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -27,6 +27,21 @@ images:
     width: 1200
     height: 600
     title: "NeurIPS requires AI researchers to account for societal impact and financial conflicts of interest"
+
+related:
+  - title: "YOLO Creator Quits AI Research Citing Ethical Concerns"
+    excerpt: "The ethics of AI usage, the rationale behind research and its explainability have ... which is a part satire part research ode that reeks of his distaste for potential misuse of research, Redmon took jabs at Google and Facebook and even the organisation that funds his research. On a more serious note, he also insisted on the responsibility ..."
+    publishedDateTime: 2020-02-25T18:16:00Z
+    webUrl: "https://analyticsindiamag.com/yolo-creator-joe-redmon-computer-vision-research-etical-concern/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/02/jrethics.jpg"
+        width: 627
+        height: 469
 
 secured: "cZKA5n7+ED1HSwnCh5JiynkbwN2Z6/elfH2drGczdrNdRvZil6BFUPuDq38iMo+iPmi+K0NiMaH2Z4WOWX0TQrMjhTcoIAxIbm0UFxHMb8NXzjgRj62yiQDOe6kEXISrCA3/AA2PKjhzB2xfwaOCgbPfa8W6uDgd4opiUe/WkDK3ex2/KKNRw7FjAqn8zqIXrn4VgsSkel2b1O6CFoMJA7iORbZpa6N3NRU5wOgA6JBkIcRP4+FdQpq3cu2DKzl+4norT/KSHlSYwQpMu5VJPeZbtuYOwRbwp4I0HToYq2UcDv2NJ8ZAPU1bPxFAhmVoQtpzsgooQAx97/wAs2y1Zbv50g4qZWQwd5qnmpKtBDaOjDN7i1v/W1ZlSFD7IqibJ4ThGDfjO4cfDVHi+YEOzDqHBr2ZGkZiqlyG1ltQNJIOJg/GFRfTrmpjORBh+bBpdFcg7QnZZOVzG8DnUSMHeQM+nAenN42M0dpGtrd/jn8=;BrBS5u8PQH3Gx1wNOWrXDw=="
 ---

@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/02/25/ripcord-raises-45-million-to-digi
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/25/ripcord-raises-45-million-to-digitize-paper-records-with-robotics-and-ai/amp/"
 type: article
 quality: 118
-heat: 148
+heat: 168
 published: true
 
 provider:
@@ -30,6 +30,21 @@ images:
     title: "Ripcord raises $45 million to digitize paper records with robotics and AI"
 
 related:
+  - title: "FogHorn raises $25 million to support edge AI app development"
+    excerpt: "According to Deloitte, more than 750 million edge AI chips will be sold by year-end (up from a predicted 300 million in 2017), representing $2.6 billion in revenue. And by 2024, the number of chips sold could reach 1.5 billion in total. Sunnyvale, California-based FogHorn hopes to lead the charge. The company, which was cofounded by Abhi Sharma ..."
+    publishedDateTime: 2020-02-25T16:37:00Z
+    webUrl: "https://venturebeat.com/2020/02/25/foghorn-raises-25-million-to-support-edge-ai-app-development/"
+    ampWebUrl: "https://venturebeat.com/2020/02/25/foghorn-raises-25-million-to-support-edge-ai-app-development/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/25/foghorn-raises-25-million-to-support-edge-ai-app-development/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/02/f4c4e7ef-f32a-43c8-81f8-ccd46a578b31-e1582607532413.png?fit=1200%2C600&strip=all"
+        width: 1200
+        height: 600
   - title: "L1ght raises $15 million for AI that protects children from online toxicity"
     excerpt: "L1ght, a fledgling AI startup that wants to help technology companies combat online toxicity, bullying, and abuse, has raised $15 million in a seed round of funding from Mangrove Capital Partners, Tribeca Venture Partners, and Western Technology Investment. The company’s substantial seed funding comes as tech companies are struggling to ..."
     publishedDateTime: 2020-02-25T12:02:00Z
@@ -73,6 +88,19 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/02/5bee2917-7134-4dc7-adae-38b0b9013ac7-e1582259412500.png?w=1200&#038;strip=all"
         width: 1200
         height: 600
+  - title: "ABB and Covariant partner to deploy integrated AI robotic solutions"
+    excerpt: "ABB, one of the world’s leading supplier of industrial robots, and Silicon Valley AI start-up, Covariant, have formed a partnership to bring AI-enabled robotics solutions to market, starting with a fully autonomous warehouse order fulfilment solution. ABB says the partnership brings together two companies with a shared vision for robotics ..."
+    publishedDateTime: 2020-02-25T16:50:00Z
+    webUrl: "https://roboticsandautomationnews.com/2020/02/25/abb-and-covariant-partner-to-deploy-integrated-ai-robotic-solutions/30450/"
+    type: article
+    provider:
+      name: Robotics & Automation News
+      domain: roboticsandautomationnews.com
+    quality: 54
+    images:
+      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2020/02/abb-2020_02_19_8199-copy.jpg"
+        width: 750
+        height: 1125
 
 secured: "ADFmx40IRq7nceZf6Z15SW2Ilf4kZDaixMyt2fCc4z0/v/APC1kJPBRzgEpzm966852QLB9z8mIXcIozjHoQSVYV+bPPcxTQ2eo4k9adnR0Pguk+YG8J5n0FooVjodWczZHT5BdGwc6MA0FtylyhkXL/FxwCaAnlfeuxRR17YVHH2VM+BXTT/kb2pPGh8YLT9+JgEkfcW4vbAXG9/nYLhDeSgLQY6/kPwsSDnFuraut+JLoNiVUYr+lKUCe6jhV5txoxqEb6KstIvULyvuzzVMiuX1GA64kanM+f+mD6IngiSD47yBM2TPlYahTqh+Ir;2RRd4pT+VM0U/UfVcUZQLg=="
 ---

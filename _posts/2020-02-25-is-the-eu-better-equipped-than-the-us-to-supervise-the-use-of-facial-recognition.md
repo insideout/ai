@@ -349,6 +349,19 @@ related:
       - url: "https://www.brookings.edu/wp-content/uploads/2020/02/Police_surveillance_camera.jpg"
         width: 2400
         height: 1376
+  - title: "ACLU Blasts Clearview's Facial Recognition Accuracy Claims"
+    excerpt: "Clearview apparently has been telling law enforcement agencies that its technology underwent accuracy testing modeled on the ACLU's 2018 test of Amazon's Rekognition facial recognition tool. For that test, the ACLU simulated the way law enforcement used Rekognition in the field, matching photos of all 535 members of the United States Congress ..."
+    publishedDateTime: 2020-02-14T12:00:00Z
+    webUrl: "https://www.technewsworld.com/story/86512.html"
+    type: article
+    provider:
+      name: TechNewsWorld
+      domain: technewsworld.com
+    quality: 39
+    images:
+      - url: "https://www.technewsworld.com/article_images/story_graphics_xlarge/xl-2019-facial-recognition-1.jpg"
+        width: 620
+        height: 350
   - title: "Controversy over India's use of facial recognition technology"
     excerpt: "a hoodie or a scarf to reduce the risk of police facial recognition software identifying her. Protesters in India are increasingly concerned about the use of facial recognition technology during protests against a controversial new citizenship law. Credit:AP Police in the Indian capital and the northern state of Uttar Pradesh – both hotbeds ..."
     publishedDateTime: 2020-02-17T13:19:00Z
@@ -489,6 +502,6 @@ related:
       domain: hindustantimes.com
     quality: 2
 
-secured: "PVVpFoy2KUaVgZibSTuPbuV8L/U9BrDugC5QtXF1qa2CG4Kmwxp3KNXBkAcw5tH1tQajuzGJwdXWCDQ4nBrV9PRNADP8vFgLXOZfx2yv4EnxZcindKK9jv2wNk4GDwZBJXHmlaJlROz62o8ceg4EL+t2Z87FiF5glyiZMpgVEbcZ/A4QsZNQLAjgCe4pWkSxsK9hi/IPYeWELdfG21qcv3cPFkWyZjGsj5+rFoAWXMTt+dpTuiRWMXaoxzJXT85OGHiVYUly36lqbtOmzX3Q6ykCrb5tl8s+pDg4WGYxGudeGNUT8RxfNOALka063XSl;16LUKTtzRrOa/YxxsUwHPg=="
+secured: "NDiDuALfT+HBubg4DEmvxKco4l5cGnNICq6HYxXFI27OtEpiKV/a2c5DfkR0YuB561A8YnZ0LT0ExwHufY2GBr+f3ScIBHh5y2J4dtJ9qrgw1RcT67ykyues9M9mkpz+/cBHHNM68Xz48JuHEwskv6SUBu3dq0qiYYOHKlb5CxOTeziCcnSX6Uv40H/viyBzbQCknoQDCQJ1ahC09mghfqeTsJtnNZ6kn/3SsAgRYdJQNQWVe5M44aYUq7SBD874cG5Er4Q18EBDoNipojz31oSVddlw1joW7EvRT0y+rCNI71maPWp4iRe8KQUmKRR4yY0rOsSwk121iPZ+KIStYhPpvPxtSGZ3822NTGws8s2cbM5agmoZS6TGmQvxUgnutHnWEGehf1Zo4PrS+Cy/3J19J8IHTtMnxDnZQGFv5qaW+a3cKGFzDH5LTv/sYIqNDQDrFLMkdjltWyrk0iiuo5J0lXVHjR7jqRI8ek6Psxk=;LcLY/9ScL/+xrQAyJXWKhg=="
 ---
 

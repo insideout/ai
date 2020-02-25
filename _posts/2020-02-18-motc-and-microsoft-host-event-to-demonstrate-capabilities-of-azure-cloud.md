@@ -41,17 +41,6 @@ related:
       - url: "https://thepeninsulaqatar.com/uploads/2020/02/18/post_main_cover/46fd2d3449a2330392fe130d6ed07e07d69d5f84.jpg"
         width: 532
         height: 355
-  - title: "Satya Nadella talks cloud, AI, data, and cyber security at Future Decoded event"
-    excerpt: "Nadella urged the companies to build their own tech capabilities which could be the most defining thing in the next decade."
-    publishedDateTime: 2020-02-24T07:40:00Z
-    webUrl: "https://www.hindustantimes.com/tech/satya-nadella-talks-cloud-ai-data-and-cyber-security-at-future-decoded-event/story-xTOoVJc2x1vcddbwHYSIlL.html"
-    ampWebUrl: "https://m.hindustantimes.com/tech/satya-nadella-talks-cloud-ai-data-and-cyber-security-at-future-decoded-event/story-xTOoVJc2x1vcddbwHYSIlL_amp.html"
-    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/satya-nadella-talks-cloud-ai-data-and-cyber-security-at-future-decoded-event/story-xTOoVJc2x1vcddbwHYSIlL_amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 35
 
 secured: "u22+XgShrFpiiEHDbPJQZDc4bpqlmyKWmXe856clauH0MseHcWk3Az3xgoqfQfqZBB2cI1gXSZ/AR39HBqLAcmyimveQFd7hl7JO+wjgZwN2hEEeq8zOyPDMPF2fhhleUWKsI8RVHlVSQigaRH3mtGP83p1Ap33QfvXBnId7EfaIOY+35T0tW7XTu3zstaIC0ueNVfLg9QL6g7hyv2cxt9LOBZqnJvkVDsNxoALFcwF/GlgN1VmJVUKADW+TnkbJR6rIZL8kx8RTNVNSqkGod7iOoOi7TiRPAfUpYVtPCIEcdYx+gcjXsLC04FLuIFyuy/+fLnC0ZUDZN3GqHbKHxkMRGY2mau/vjTy1nJd+Ffb+z7831/0cBxQZHegvGshG5i7JutIaw5ojmVm1kxeI6MQ17Qep2vnTHHpr4CgPoJkP0P4hFZuir16GoEWCgDSbUgPkiI1HlQcB1CuCtS+00JtVaaT9GVfjMqEUXZhsSp4=;+ABf4YglJT+cdyPPgeJvUQ=="
 ---

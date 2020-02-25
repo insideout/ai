@@ -54,6 +54,19 @@ related:
       - url: "https://www.microsoft.com/security/blog/wp-content/uploads/2020/02/Azure-Sphere-card.jpg"
         width: 440
         height: 268
+  - title: "Azure Sphere is Now Generally Available"
+    excerpt: "“Azure Sphere isn’t a big story just because Microsoft intends to play a role in ambient computing,” I wrote at that time. “Of course it does. It’s a big deal because Microsoft, very explicitly, intends to play a major role at every level of the stack imaginable. It’s not just providing AI-based cloud services and an Internet of ..."
+    publishedDateTime: 2020-02-25T16:52:00Z
+    webUrl: "https://www.thurrott.com/smart-home/230680/azure-sphere-is-now-generally-available"
+    type: article
+    provider:
+      name: Thurrott
+      domain: thurrott.com
+    quality: 54
+    images:
+      - url: "https://www.thurrott.com/wp-content/uploads/sites/2/2020/02/azure-sphere-diagram.jpg"
+        width: 1066
+        height: 600
   - title: "Microsoft Announces General Availability of Threat Protection, Insider Risk Management"
     excerpt: "It started with an internal demand at Microsoft to use machine learning to detect threats based on user behavior ... and other partners to enable easier data collection. A new connector for Azure Security Center for IoT lets admins onboard data workloads from the Internet of Things into Azure Sentinel from deployments managed in the IoT ..."
     publishedDateTime: 2020-02-20T20:37:00Z
