@@ -7,8 +7,8 @@ webUrl: "https://www.zdnet.com/article/google-ai-chief-dean-sees-evolution-in-ml
 ampWebUrl: "https://www.zdnet.com/google-amp/article/google-ai-chief-dean-sees-evolution-in-mlperf-benchmark-for-ai/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-ai-chief-dean-sees-evolution-in-mlperf-benchmark-for-ai/"
 type: article
-quality: 116
-heat: 116
+quality: 118
+heat: 118
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - AI Hardware
 
 images:
   - url: "https://zdnet2.cbsistatic.com/hub/i/2020/02/24/47c5d178-a38a-4ccc-8b13-5f32e97779b7/mlperf-benchmarks-for-various-networks.png"

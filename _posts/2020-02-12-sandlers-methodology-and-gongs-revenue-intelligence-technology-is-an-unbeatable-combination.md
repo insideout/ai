@@ -49,19 +49,6 @@ related:
       - url: "https://www.financemagnates.com/wp-content/uploads/2019/01/Fotolia_158317030_Subscription_Monthly_M.jpg"
         width: 880
         height: 400
-  - title: "Artificial Intelligence Technology and Competition with China"
-    excerpt: "U.S. Chief Technology Officer Michael Kratsios talks about artificial intelligence technology and tackling Chinese competition."
-    publishedDateTime: 2020-02-20T19:16:00Z
-    webUrl: "https://www.c-span.org/video/?469498-1/artificial-intelligence-technology-competition-china"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 37
-    images:
-      - url: "https://images.c-span.org/Files/90d/1582138795.jpg/Thumbs/height.630.no_border.width.1200.jpg"
-        width: 1200
-        height: 630
   - title: "DGAP-News: NORTHERN DATA AND CANAAN INC ANNOUNCE COOPERATION ON BLOCKCHAIN-TECHNOLOGY AND AI"
     excerpt: "Combining Canaan's excellence in the fields of AI Chip development and ASIC hardware with Northern Data's proven track record at delivering A class Datacenter and Blockchain infrastructure at scale will provide both companies with a solid bedrock to build and expand in this tremendously exciting technology space and catapult both companies ..."
     publishedDateTime: 2020-02-19T06:30:00Z

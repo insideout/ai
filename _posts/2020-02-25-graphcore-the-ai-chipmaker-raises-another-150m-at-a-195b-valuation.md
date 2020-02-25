@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/02/24/graphcore-the-ai-chipmaker-raises-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/24/graphcore-the-ai-chipmaker-raises-another-150m-at-a-1-95b-valuation/amp/"
 type: article
 quality: 106
-heat: 126
+heat: 136
 published: true
 
 provider:
@@ -61,7 +61,16 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2018/05/gettyimages-914788014.jpg?w=1024"
         width: 1024
         height: 544
+  - title: "UK-based AI chip maker Graphcore raises extra USD 150 million"
+    excerpt: "UK-based AI chip maker Graphcore has secured new capital of USD 150 million to support continued R&D and global expansion. The private placement was supported by leading financial asset managers, investment trusts and growth equity funds. New investors include M&G Investments, Mayfair Equity Partners and Baillie Gifford. Graphcore closed a USD ..."
+    publishedDateTime: 2020-02-25T13:24:00Z
+    webUrl: "https://www.telecompaper.com/news/uk-basec-ai-chip-maker-graphcore-raises-extra-usd-150-million--1327924"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 34
 
-secured: "ry7E6iOESfrEYac19TK2X8axDPeYf+LuTB7HNyfqTFewsUDhtFyxiWUM/XLRRh8VrJENZk20EpBUbaucJ21d0fjnCeLNh+s0X7lZXM2JIQN+wtMqY4TV5eubM3e1SBp8z+Q5Vu0t3F4BFNmAJBt7ILzsosBIA4oF4sNbZBl/CyHSKZtg/61mza/SCByIdO5qJpBecSkn+7EoeBatSxsxc/MH4+Cf8336p4PhmRWSOwstEHoC8k9RpA7hINW/njM7G/IYkQpFSTpm3wXy7B2+cmFbKehGsrbYHJHTeJNW7nmIZi8vVaxCjIYz5zhf3jWY;nh6pOU72354K9y8T8CdiOg=="
+secured: "17wj/g6OCXZhVc/cK83odYWZA5NGtCOtW9Kwyb8GLan8NZ/7jj+nb8pJxTPyihsU/6VPxsh+4x7G3w/SiBVFPzkoObpdgOGaU75Zg5gyEzPMuTVFvbRngM5Jvq/0MTHVPyVggjnR4iHuH9IXjm8Vj08kFbv8Y5bMOOPNxYtgY+GmgVSzhOFreVT4m51FNcagPeo5YDeG0tV4ucPYx0Fg6SV+ntyBMgqFzmmMYwHK7TV3ygAsmcucCS/cwfZKJFLA2qkXm9zXkVUhsA+gqbZJHIxlQueQsr2esVftwG63Gq9N3IIca0rGCtoCjs1WV2kVSbAuVWVpLN63Dz/23YToMkTMYecVdvW62FiEGTl5i+LwBNMk642UPl3SBM5DxCljJerG/RNYNFEH6HtXVHhEG7MUtP6MmvbBfPo+SRTYjmtXKCX7nJulerFEByc15arxpxSDLJrDTF2f8AEumQ3C1HEMUg6V3/ZDHLwiAhqSNIQ=;kp8rhi1W3PZTgkNR7qr20g=="
 ---
 

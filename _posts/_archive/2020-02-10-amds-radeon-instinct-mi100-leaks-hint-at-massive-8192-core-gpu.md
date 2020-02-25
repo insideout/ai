@@ -23,6 +23,6 @@ images:
     height: 543
     title: "AMD’s Radeon Instinct MI100 Leaks, Hint at Massive, 8192-core GPU"
 
-secured: "rDg96uWg2vFGG32edTXKn0m7VJlQwcoAJRygqB+039yUtaS8o6B111DrFeeiXgKkhR2Zofh2H8VIBQ/6okOy0rmfh4Zl1JgdUEb6f0my0x5xcuA9yhA/pGexEh2Oo0ZLXMc0HXru9nsDSzEQj1++mhlJEkqYRThK2QUUDrSribdul21Sv4oeC/2XMuOj9rCEmT/izgAYs/pZ6WGIn5h4amYqav2VXsJ5YFDG9AAv4+TxuphwsjE3NBLCtZJnjCQ7nyHLBGg77xfqhtrj+91kNKqbyA+41pkRq21Lq7+3ZpSAhIFie4E1wUId316ihz6v;R6OiwiRYZ4GpksRN0GypGw=="
+secured: "BGZFmlGjRQ6uKu8EuelZ76xT1zr87CCDlLmsue5efLaNPXeJgkQhrNuzV8rKqXW4UgE5H0NtjnJICMgPvmpZd6TFEWue88UUmDNafhreIFgA6K+1U9Xo9sTZQBu8V1U9tnd0XBV9X9G9igwyWLpUpLmeV002oF6jGIKOgOqHieRWsw6RVbAh0EUHaigojsF6IHt1VTUYDED7XVMlvxrBrYfAWizR/p4WHPdKwJy9qf79ZK9+ctGPfnfBmMJWquWdoD+oAnRxVsfvNA65w3z+4XA7OGeT5LTTOLhxBXd+erAvnBVOtsbVv6MU4xNW5x23;jJ5VVVdc7uBjWUl+lhsxpw=="
 ---
 

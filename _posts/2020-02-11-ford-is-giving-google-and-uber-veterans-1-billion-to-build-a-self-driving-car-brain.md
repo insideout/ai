@@ -60,21 +60,6 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/e2sevaTPzwSLrrkLMMC8ntmIiWI=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66310283/vpavic_191202_3827_0025.0.jpg"
         width: 1400
         height: 933
-  - title: "China is betting on slow but steady to win the self-driving car race"
-    excerpt: "Just don’t expect that revolution to come quickly. In the United States, individual states are taking the lead in deciding how self-driving cars will be rolled out in their communities ..."
-    publishedDateTime: 2020-02-10T20:43:00Z
-    webUrl: "https://qz.com/1682184/china-is-betting-on-slow-but-steady-to-win-the-self-driving-car-race/"
-    ampWebUrl: "https://qz.com/1682184/china-is-betting-on-slow-but-steady-to-win-the-self-driving-car-race/amp/"
-    cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/1682184/china-is-betting-on-slow-but-steady-to-win-the-self-driving-car-race/amp/"
-    type: article
-    provider:
-      name: Quartz
-      domain: qz.com
-    quality: 74
-    images:
-      - url: "https://cms.qz.com/wp-content/uploads/2019/08/WeRide-2019-e1565581419367.jpg?quality=75&strip=all&w=1400"
-        width: 1400
-        height: 788
   - title: "A former Waymo driver has been accused of intentionally causing a collision with one of the company's self-driving vans"
     excerpt: "An ex-Waymo driver was arrested in Arizona on Wednesday after police said he intentionally caused a crash with one of the company's self-driving minivans last month. Tempe police said Raymond Tang, 31, \"targeted\" two Waymo vans, recklessly driving his Mazda around them before braking abruptly in front of one, causing it to rear-end his vehicle."
     publishedDateTime: 2020-02-13T00:00:00Z

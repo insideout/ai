@@ -69,6 +69,21 @@ related:
       - url: "https://images.yourstory.com/cs/2/f02aced0d86311e98e0865c1f0fe59a2/Future-of-work-Insurance-1581958631691.png?fm=png&auto=format"
         width: 800
         height: 400
+  - title: "Caratlane ties up with AI startup wesense.ai to improve customer experience"
+    excerpt: "Omnichannel jeweller CaratLane has tied up with AI startup, wesense.ai, to enhance the customer experience at its retail stores. Caratlane will use wesense.ai’s proprietary AI-powered video analytics product, which will help it in planning effective marketing campaigns and improving sales conversion. Sankara Srinivasan – Founder ..."
+    publishedDateTime: 2020-02-25T11:11:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/caratlane-ties-up-with-ai-startup-wesenseai-to-improve-customer-experience/article30911447.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/caratlane-ties-up-with-ai-startup-wesenseai-to-improve-customer-experience/article30911447.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/caratlane-ties-up-with-ai-startup-wesenseai-to-improve-customer-experience/article30911447.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 55
+    images:
+      - url: "https://www.thehindubusinessline.com/static/theme/default/base/img/og-image.jpg"
+        width: 300
+        height: 300
 
 secured: "T3P4jLsEoxzR9Fkd4njrTFP8rb5SZl3OhQJJ80VHkcCyqViQaJWn00wGAaw9Xf23mrKHZ0nMxsLPJU8msJeI0RPraAQlg61yXyRs0rqu4iFrZoPI9793GozCx8t/JFgz/MXpPNSHmZUJY22sTPaINTeaOBMDuKOzkz2g/sUQevmYMf6V/p+Vkv9owmSdnKRJWZ2Pi7qo78KalRn3lH+sR9bxnNJr/W3uZKbyyHvW9KcH8fBxvpFoE0R7mwp8XRfm/xH03URQNs5N98pT2vgqzEmCbHb60bJXEqjYJKk4Wuf0jAUq7o3ODxFMinX/lA4D;/StiBhZ+BwfgnvK8NqIsUQ=="
 ---

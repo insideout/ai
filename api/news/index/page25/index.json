@@ -2,133 +2,6 @@
   "page": 25,
   "value": [
     {
-      "path": "_posts/_archive/2020-02-06-natural-language-processing-market-global-outlook-2019-2025-apple-dolbey-systems-google-microsof.md",
-      "title": "Natural Language Processing Market Global Outlook 2019-2025: Apple, Dolbey Systems, Google, Microsof",
-      "excerpt": "The Global Natural Language Processing Market Report provides a complete analysis of the market. The Report focuses on manufacturers, suppliers, segmentation according to the application, major players,",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-global-outlook-2019-2025-apple-dolbey-systems-google-microsof-2020-02-06",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-05T23:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Natural Language Processing Market Global Outlook 2019-2025: Apple, Dolbey Systems, Google, Microsof",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-02-06-new-blood-sampling-robot-performs-as-well-or-better-than-people.md",
-      "title": "New blood-sampling robot performs as well or better than people",
-      "excerpt": "Next steps include refining the device to improve success rates in patients with difficult veins to access. Data from this study will be used to enhance artificial intelligence in the robot to improve its performance.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.news-medical.net/news/20200206/New-blood-sampling-robot-performs-as-well-or-better-than-people.aspx",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20200206/New-blood-sampling-robot-performs-as-well-or-better-than-people.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200206/New-blood-sampling-robot-performs-as-well-or-better-than-people.aspx",
-      "publishedDateTime": "2020-02-06T12:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.news-medical.net/image.axd?picture=2017%2f1%2fHEALTHCARE_shutterstock_493063267_99928a5e003043f896998f01b025b9f6-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": "New blood-sampling robot performs as well or better than people",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-02-06-nuro-claims-a-self-driving-first-us-approval-to-deploy-toaster-styled-delivery-bots.md",
-      "title": "Nuro Claims A Self-Driving First: U.S. Approval To Deploy Toaster-Styled Delivery Bots",
-      "excerpt": "The tech startup created by two former Google engineers will deploy battery-powered R2 driverless delivery vehicles on public streets–little vans without steering wheels, pedals or side-mirrors",
-      "heat": 121,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/alanohnsman/2020/02/06/nuro-claims-a-self-driving-first-us-approval-to-deploy-toaster-styled-delivery-bots/",
-      "ampWebUrl": "https://www.forbes.com/sites/alanohnsman/2020/02/06/nuro-claims-a-self-driving-first-us-approval-to-deploy-toaster-styled-delivery-bots/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2020/02/06/nuro-claims-a-self-driving-first-us-approval-to-deploy-toaster-styled-delivery-bots/amp/",
-      "publishedDateTime": "2020-02-06T12:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e3c413ba854780006b0a8ad%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Nuro Claims A Self-Driving First: U.S. Approval To Deploy Toaster-Styled Delivery Bots",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-02-06-nuro-self-driving-car-gets-us-dots-blessing.md",
       "title": "Nuro self-driving car gets US DOT's blessing",
       "excerpt": "California-based Nuro has made history. Perhaps not the biggest splash, but in one small step for self-driving cars, Nuro's driverless R2 has received the first approved exemption from the US Department of Transportation. The exemption allows Nuro to operate its latest R2 self-driving car on public roads despite it having no human-driver controls.",
@@ -2149,6 +2022,142 @@
       "topics": [
         "AI",
         "IBM AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-02-08-cadillac-brings-self-driving-smarts-to-the-new-escalade.md",
+      "title": "Cadillac Brings Self-Driving Smarts to the New Escalade",
+      "excerpt": "He is a member of the Academy of Motion Pictures Arts and Sciences. TopicsCadillac Self-Driving Cars SUVs WIRED is where tomorrow is realized. It is the essential source of information and ideas that make sense of a world in constant transformation. The WIRED conversation illuminates how technology is changing every aspect of our lives—from ...",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/2021-escalade-super-cruise-self-driving/",
+      "ampWebUrl": "https://www.wired.com/story/2021-escalade-super-cruise-self-driving/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/2021-escalade-super-cruise-self-driving/amp",
+      "publishedDateTime": "2020-02-07T23:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5e3c9fc2184f8b00092042da/master/pass/Transpo-2021-Cadillac-Escalade-053.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "Cadillac Brings Self-Driving Smarts to the New Escalade",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-02-08-computer-vision-in-healthcare-market-to-enjoy-explosive-growth-xilinx-ibm-google.md",
+      "title": "Computer Vision in Healthcare Market to enjoy 'explosive growth' | Xilinx, IBM, Google",
+      "excerpt": "An extensive elaboration of the Global Computer Vision in Healthcare market strategy of the industry players in the precision of import/export consumption, supply and demand. The study starts with an introduction about the company/manufacturers profiling stating strategic concept behind business using methods to assess and analyze market.",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-to-enjoy-explosive-growth-xilinx-ibm-google-2020-02-08",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-07T23:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Computer Vision in Healthcare Market to enjoy 'explosive growth' | Xilinx, IBM, Google",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-02-08-data-science-and-machine-learning-service-market-status-and-business-outlook-2020-2026.md",
+      "title": "Data Science And Machine Learning Service Market Status and Business Outlook 2020-2026",
+      "excerpt": "Market Insight Reports has added the report titled global Data Science And Machine Learning Service Market to its ever-growing repository to enable an effective business outlook. The report comprises an in-depth study of varying features characteristic of industries,",
+      "heat": 93,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/data-science-and-machine-learning-service-market-status-and-business-outlook-2020-2026-2020-02-08",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-07T22:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Data Science And Machine Learning Service Market Status and Business Outlook 2020-2026",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance",
+        "Machine Learning"
       ]
     }
   ],

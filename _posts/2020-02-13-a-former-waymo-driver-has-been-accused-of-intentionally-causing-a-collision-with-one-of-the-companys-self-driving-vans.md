@@ -75,21 +75,6 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/104275514-argo-photo-22.jpg?v=1529474180"
         width: 3600
         height: 2400
-  - title: "China is betting on slow but steady to win the self-driving car race"
-    excerpt: "Just don’t expect that revolution to come quickly. In the United States, individual states are taking the lead in deciding how self-driving cars will be rolled out in their communities ..."
-    publishedDateTime: 2020-02-10T20:43:00Z
-    webUrl: "https://qz.com/1682184/china-is-betting-on-slow-but-steady-to-win-the-self-driving-car-race/"
-    ampWebUrl: "https://qz.com/1682184/china-is-betting-on-slow-but-steady-to-win-the-self-driving-car-race/amp/"
-    cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/1682184/china-is-betting-on-slow-but-steady-to-win-the-self-driving-car-race/amp/"
-    type: article
-    provider:
-      name: Quartz
-      domain: qz.com
-    quality: 74
-    images:
-      - url: "https://cms.qz.com/wp-content/uploads/2019/08/WeRide-2019-e1565581419367.jpg?quality=75&strip=all&w=1400"
-        width: 1400
-        height: 788
   - title: "Ex-Waymo driver accused of deliberately causing crash"
     excerpt: "Waymo officials said Tang “engaged in similar conduct ... days before the bloc is expected to release new proposals on regulating artificial intelligence. The billionaire social network founder is the latest U.S. tech executive to make the trip to ..."
     publishedDateTime: 2020-02-13T21:33:00Z

@@ -8,7 +8,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/northern-data-and-canaa
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/northern-data-and-canaan-inc-announce-cooperation-on-blockchain-technology-and-ai-1028917334"
 type: article
 quality: 64
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -39,19 +39,6 @@ related:
       - url: "https://www.financemagnates.com/wp-content/uploads/2019/01/Fotolia_158317030_Subscription_Monthly_M.jpg"
         width: 880
         height: 400
-  - title: "Artificial Intelligence Technology and Competition with China"
-    excerpt: "U.S. Chief Technology Officer Michael Kratsios talks about artificial intelligence technology and tackling Chinese competition."
-    publishedDateTime: 2020-02-20T19:16:00Z
-    webUrl: "https://www.c-span.org/video/?469498-1/artificial-intelligence-technology-competition-china"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 37
-    images:
-      - url: "https://images.c-span.org/Files/90d/1582138795.jpg/Thumbs/height.630.no_border.width.1200.jpg"
-        width: 1200
-        height: 630
   - title: "Sandler's Methodology and Gong's Revenue Intelligence Technology is an Unbeatable Combination"
     excerpt: "/PRNewswire/ -- Artificial intelligence is here to stay. The global leader in the training industry, Sandler (www.sandler.com), has partnered with"
     publishedDateTime: 2020-02-12T14:32:00Z

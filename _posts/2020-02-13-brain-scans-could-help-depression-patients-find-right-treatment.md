@@ -26,21 +26,36 @@ images:
     title: "Brain Scans Could Help Depression Patients Find Right Treatment"
 
 related:
-  - title: "AI may help patients determine most effective antidepressant"
-    excerpt: "Researchers input information from electrical signals in the brain into a computer program that learns as it goes. Based on brain activity, the AI technology helped predict whether or not an antidepressant will help treat a particular person's depression. So far, the new technology has only been tested on one type of antidepressant ..."
-    publishedDateTime: 2020-02-10T20:54:00Z
-    webUrl: "https://www.upi.com/Health_News/2020/02/10/AI-may-help-patients-determine-most-effective-antidepressant/1171581366434/"
-    ampWebUrl: "https://www.upi.com/amp/Health_News/2020/02/10/AI-may-help-patients-determine-most-effective-antidepressant/1171581366434/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Health_News/2020/02/10/AI-may-help-patients-determine-most-effective-antidepressant/1171581366434/"
+  - title: "Depression treatment using AI, brain scans"
+    excerpt: "Artificial intelligence (AI) may be a useful and even essential tool in selecting the best ... patterns of brain activity were actually linked to the kind of brain activity impairment that improves with antidepressant therapy. This data came from the EMBARC trial for patients with major depression. The trial lasted 16 weeks at four different ..."
+    publishedDateTime: 2020-02-11T01:08:00Z
+    webUrl: "https://www.news-medical.net/news/20200210/Depression-treatment-using-AI-brain-scans.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20200210/Depression-treatment-using-AI-brain-scans.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200210/Depression-treatment-using-AI-brain-scans.aspx"
     type: article
     provider:
-      name: UPI.com
-      domain: upi.com
+      name: News Medical
+      domain: news-medical.net
     quality: 59
     images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi_com/1171581366434/2020/1/7986d4db507d8fe67a269e40fbed16ee/v1.5/AI-may-help-patients-determine-most-effective-antidepressant.jpg"
-        width: 800
-        height: 533
+      - url: "https://www.news-medical.net/image.axd?picture=2020%2f2%2f223421_web_00c4750629854c469bd98996c081a559-620x480.jpg"
+        width: 620
+        height: 480
+  - title: "New Treatment Strategy for Depression Uses AI and Brain Scans"
+    excerpt: "Artificial Intelligence (AI) and brain scanning can predict which ... understand the underpinnings of depression and ensure patients are prescribed an effective therapy.\" The research team is planning to integrate the AI technology interface with EEG ..."
+    publishedDateTime: 2020-02-12T12:23:00Z
+    webUrl: "https://www.medindia.net/news/healthinfocus/new-treatment-strategy-for-depression-uses-ai-and-brain-scans-193123-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/healthinfocus/new-treatment-strategy-for-depression-uses-ai-and-brain-scans-193123-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/healthinfocus/new-treatment-strategy-for-depression-uses-ai-and-brain-scans-193123-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 59
+    images:
+      - url: "https://www.medindia.net/images/common/news/950_400/ai-and-brain-scans.jpg"
+        width: 950
+        height: 400
 
 secured: "+Bx1smMpTMjpmpoN6Yl4hTbcIB3McpZWPvLr0nOKDuOhebUB2fjMIYNMOce/80vgMESQo06rLyGFiP2Hci1UdPOQ9CXCJWZf1oHbV0LUwDVGJ70BKBiTYo3SoiX5UhwnDEx7FWHroZXzZS75+UAB1o4SvHJGxjAPQQdcUyXD+hdsM2kQcc9FAO7jp69N5lIe6jY166nwCkyfTiJVLvHR/VXqMgoDTxlW1YJLTgc2WvTSiwRFceC9H5gbikG9QqMC05Js7dYDWVlCvRX2rWhIW7Qr6rwKwPF7Y3uo3IrJvu3Z9abHH8aXh9/cdwXVLLNPxI5xnqwqledtEEel6R2N8OoOp3DB81G+f05+p9Tm63vLUCJjc/eBNwwQcmrM2x/A0jR/XiTtTVceNI2whqR3Ef4Drg5A6FIGRuZpqAJAnIaNdqvrRRg6oi5fGndRhVBHSyA/uPIFQetTBTe4/eqWgZfu3bxNc6FMyFXsZVx9TyU=;58L/HzbKxx1vRDui9vcYGg=="
 ---

@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Oracle Announces Oracle Cloud Data Science Platform"
-excerpt: "Oracle Cloud Infrastructure Data Science automatically selects the most optimal training datasets through AutoML algorithm selection and tuning, model evaluation and model explanation. Today, organizations realize only a fraction of the enormous transformational potential of data because data science teams don’t have easy access to the right ..."
-publishedDateTime: 2020-02-12T13:20:00Z
-webUrl: "https://www.oracle.com/corporate/pressrelease/oracle-cloud-data-science-platform-021220.html"
+excerpt: "/PRNewswire/ -- Oracle today announced the availability of the Oracle Cloud Data Science Platform. At the core is Oracle Cloud Infrastructure Data"
+publishedDateTime: 2020-02-12T13:00:00Z
+webUrl: "https://www.prnewswire.com/news-releases/oracle-announces-oracle-cloud-data-science-platform-301003588.html"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Oracle
-  domain: oracle.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
   - Machine Learning
 
 images:
-  - url: "http://www.oracle.com/us/oracle-social-share-fb-480-2516041.jpg"
-    width: 480
-    height: 480
+  - url: "https://mma.prnewswire.com/media/467598/Oracle_Logo.jpg?p=facebook"
+    width: 2700
+    height: 1414
     title: "Oracle Announces Oracle Cloud Data Science Platform"
 
 related:
@@ -73,6 +73,6 @@ related:
       domain: tmcnet.com
     quality: 1
 
-secured: "ImI0be/hV8Vpbeq50G1r8v3p2uzC+5zN2mnuRdzef47tmG+ARgEWi0g+O8M2ZYa5dfp6jLRnLCbGq2F5H144IDT0Fo8FtbToo7E6p8l1aUT5q3QxqROJ1k2lGRI2jsu0lzzO+SaawyqYWjUJM6fVJWuvA6Iy+MgOWmcIZraNI7426ylxu4sAwfNGtHbhnmUi/ZWWFRB4IIdhpP/iTsYRbZvZHdWf2YVRELnaLRxPksOgCqFGWl8RlD6c0ZZv14MiRnl5XdO/8llNXZFZnWECMHxPzL6wWeKQCEi4/y/DphOSW3v10rVGmlIuMKYxTrQ1;LkOeqAYSD6qXaE0PVaKYzg=="
+secured: "3cq6j2tUBywx/ZK5ORaOSQYIo9kz2howhq9yRNM4fPYzFvMpESvDMvoDdSibxVyoFsHL/4GYRPuMGgNN1Bj8GSQQQpeIGZHNkWaFe8JKc2kBFmf8UsvxBrbvsObmBdima7QWizzrts6y5UQGoDYCCdI7VsrqdOwVygAs7rizG/F3FPi5cl6md11PdTOuvqGEbj/ufUTx03vOk0/KCqBGzN32/oypOW1A+KEbImPldMtVdD8D+bC4z+kFuQx+padK7G3ymV3gh8YGetyJjTpok4yYNj9YsTBsYi8pUAclbFnrTJsTV4GqCcV/cEtvOEBa;zt8/UFoxO9ChLh5R+0NV6g=="
 ---
 

@@ -66,6 +66,21 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 66
+  - title: "Caratlane ties up with AI startup wesense.ai to improve customer experience"
+    excerpt: "Omnichannel jeweller CaratLane has tied up with AI startup, wesense.ai, to enhance the customer experience at its retail stores. Caratlane will use wesense.ai’s proprietary AI-powered video analytics product, which will help it in planning effective marketing campaigns and improving sales conversion. Sankara Srinivasan – Founder ..."
+    publishedDateTime: 2020-02-25T11:11:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/caratlane-ties-up-with-ai-startup-wesenseai-to-improve-customer-experience/article30911447.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/caratlane-ties-up-with-ai-startup-wesenseai-to-improve-customer-experience/article30911447.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/caratlane-ties-up-with-ai-startup-wesenseai-to-improve-customer-experience/article30911447.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 55
+    images:
+      - url: "https://www.thehindubusinessline.com/static/theme/default/base/img/og-image.jpg"
+        width: 300
+        height: 300
 
 secured: "6gClorQSktq6iRVndYosqBeav1I+7pAhn0ag7L5Jeye4UGxMlvFJeBEdxuY9S86NZG9/FxZXY5xD1AZMn15mclPVV8Sh5mESw/U+FM4DGgArEfP2Tm0ZcpMkGdFHRtTdCCkKthnXjMCdg2qIeY6oo6nas0/N4txerdwzki3oHV5biy/IuaesMc44wrjhkYbw36Rgxy6NJ/W+PUaPHmK7MqXTx48ZgqPKyy2Q/0rq/Dfa+EY975xHdKnO4Epu4Flsj9jGH/sWx5ekzdO0Frgf9XfNhQaFVvEnblNTcNsja/LNLLGnGdCPqCHfn7jd8MtL;4X+2LURBEaIw2wyWuDPrWA=="
 ---

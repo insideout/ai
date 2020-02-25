@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2020/02/10/three-w
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2020/02/10/three-ways-ai-and-ml-are-making-a-difference-in-healthcare-behind-the-scenes/amp/"
 type: article
 quality: 101
-heat: 141
+heat: 131
 published: true
 
 provider:
@@ -73,19 +73,6 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C4D12AQE4n5iQNbuFHA/article-cover_image-shrink_720_1280/0?e=1587600000&v=beta&t=wcizOYOgfHFN8sdPEi5AGZRImgPTyUbslbQ7-IrlUUY"
         width: 959
         height: 720
-  - title: "Outlook Of Healthcare Technology"
-    excerpt: "As healthcare becomes increasingly complex ... These electronic records create opportunities to track and improve patient care and to find new, more efficient treatment methods by incorporating artificial intelligence technologies. From a management perspective, digitizing and managing this data in a manner that protects privacy and makes ..."
-    publishedDateTime: 2020-02-10T20:19:00Z
-    webUrl: "https://www.healthitoutcomes.com/doc/outlook-of-healthcare-technology-0001"
-    type: article
-    provider:
-      name: HealthITOUTCOMES
-      domain: healthitoutcomes.com
-    quality: 39
-    images:
-      - url: "https://vertassets.blob.core.windows.net/image/b6566dd4/b6566dd4-46d8-4fce-99ce-702b4c6c708b/375_250-crystal_ball_future_istock_518433454.png"
-        width: 375
-        height: 250
 
 secured: "pmROLGfEnxqFyL9juLNeoKUSLtGtMOKeJ2qkRE1PXTkE53koooghOLWig/eaEB7xcGwQMbyd/ZqBMamc5NvL+amWyKbfHGmsuDypJY/v+rHH3qkFsassWWhz1/1pws/29sB6TYev+aJD5bFtjAxRAWre28UuSu5Q4fYZ+8o+UaWTpnZEPVtDGo/qwjVQTGhZXqaHbtYTsfiYAIJgj/uQ3j6ub+FDl7JwmXOuoNuUh5nMTgXRgDYwAX2vCCPEe++7K2vKDWV+G4j52lLEaZnvwjaEJeZ9nnhd04oNDuvg7Bhdg3cNsR5TmMRx9o/RdKJ7xzO7QrgsDTU8KBPdI7VH52CAlxqMzSSW5AHZRH8/QM7aFVTn/2+njQQyqZ0SoUUOD0NtoC7AYu55GWoFQp3sMpsIeWQsyeEroKlkth5l+6gnrt/RufZDjnxU0r8bT39f9uyYymvm0jXuIbySwzUSl4XW6gVgnwAOpfmN6XNTEPA=;QYNSwtQ1Ge9BP5AFbdWnKg=="
 ---

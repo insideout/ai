@@ -2,176 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_posts/2020-02-22-artificial-intelligence-set-to-jazz-up-software-development-and-deployment.md",
-      "title": "Artificial intelligence set to jazz up software development and deployment",
-      "excerpt": "Artificial intelligence and machine learning has the potential to boost many, many areas of the enterprise. As explored in my recent post, it is capable of accelerating and adding intelligence to supply chain management, human resources, sales, marketing and finance. Oh, and one more area, by the way -- IT management. The inevitable impact of ...",
-      "heat": 95,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/how-artificial-intelligence-will-jazz-up-software-development-and-deployment/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-artificial-intelligence-will-jazz-up-software-development-and-deployment/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-artificial-intelligence-will-jazz-up-software-development-and-deployment/",
-      "publishedDateTime": "2020-02-22T07:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/01/31/feb50686-cae2-407b-a9cc-d43f81bfe48b/thumbnail/1200x675/a4bdd67a9d47da93ecd63a666ea9a9a4/phone-mask.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Artificial intelligence set to jazz up software development and deployment",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-22-goodwill-launches-new-initiative-to-train-employees-in-artificial-intelligence.md",
-      "title": "Goodwill launches new initiative to train employees in artificial intelligence",
-      "excerpt": "Goodwill of Western Missouri and Eastern Kansas announced \"The Artemis Initiative.\" The new initiative is meant to train employees on how to use robots, artificial intelligence and other cutting-edge technology. David Starr from the local startup Tesseract Ventures says in the next five years, millions of workers will either need to upgrade ...",
-      "heat": 70,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://fox4kc.com/news/goodwill-launches-new-initiative-to-train-employees-in-artificial-intelligence/",
-      "ampWebUrl": "https://fox4kc.com/news/goodwill-launches-new-initiative-to-train-employees-in-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://fox4kc-com.cdn.ampproject.org/c/s/fox4kc.com/news/goodwill-launches-new-initiative-to-train-employees-in-artificial-intelligence/amp/",
-      "publishedDateTime": "2020-02-21T17:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FOX4 Kansas City",
-        "domain": "fox4kc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://fox4kc.com/wp-content/uploads/sites/16/2020/02/Robot.jpeg?w=1280&h=720&crop=1",
-          "width": 1280,
-          "height": 720,
-          "title": "Goodwill launches new initiative to train employees in artificial intelligence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-22-hbo-hbo-max-are-heading-to-youtube-tv.md",
-      "title": "HBO, HBO Max Are Heading To YouTube TV",
-      "excerpt": "Google's live TV streaming platform will soon let users sign up for HBO, Cinemax, and HBO Max. WarnerMedia announced a distribution agreement that'll enhance YouTube TV with linear and on-demand content from the premium services.",
-      "heat": 172,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.pcmag.com/news/hbo-hbo-max-are-heading-to-youtube-tv",
-      "ampWebUrl": "https://www.pcmag.com/news/hbo-hbo-max-are-heading-to-youtube-tv?amp=true",
-      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/hbo-hbo-max-are-heading-to-youtube-tv?amp=true",
-      "publishedDateTime": "2020-02-22T10:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/03tOrEwaESGaiyYPQwFtpM1-1.fit_lim.size_1200x630.v_1582386528.png",
-          "width": 1120,
-          "height": 630,
-          "title": "HBO, HBO Max Are Heading To YouTube TV",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-22-heres-why-the-ai-at-the-wheel-of-a-self-driving-car-might-be-male-female-gender-fluid-or-gender-neutral.md",
-      "title": "Here’s Why The AI At The Wheel Of A Self-Driving Car Might Be Male, Female, Gender-Fluid, Or Gender-Neutral",
-      "excerpt": "Do you think that men are better drivers than women, or do you believe that women are better drivers than men? Seems like most of us have an opinion on the matter, one way or another. In a stereotypical manner,",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/02/22/heres-why-the-ai-at-the-wheel-of-a-self-driving-car-might-be-male-female-gender-fluid-or-gender-neutral/",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/02/22/heres-why-the-ai-at-the-wheel-of-a-self-driving-car-might-be-male-female-gender-fluid-or-gender-neutral/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/02/22/heres-why-the-ai-at-the-wheel-of-a-self-driving-car-might-be-male-female-gender-fluid-or-gender-neutral/amp/",
-      "publishedDateTime": "2020-02-22T07:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1042124056%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5472%26cropY1%3D277%26cropY2%3D3355",
-          "width": 1200,
-          "height": 675,
-          "title": "Here’s Why The AI At The Wheel Of A Self-Driving Car Might Be Male, Female, Gender-Fluid, Or Gender-Neutral",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_posts/2020-02-22-linden-self-driving-shuttle-out-of-service-after-woman-said-she-was-thrown-from-seat.md",
       "title": "Linden self-driving shuttle out of service after woman said she was thrown from seat",
       "excerpt": "COLUMBUS (WCMH) — The Linden self-driving shuttle is out of operation after a person fell on that shuttle just yesterday. Since this shuttle has been put into action on Feb. 5, Smart Columbus has recorded around 50 people riding the shuttle around the Linden area and no problems. Both of the shuttles are sitting in a garage until shuttles ...",
@@ -1115,7 +945,7 @@
       "path": "_posts/2020-02-24-google-ai-chief-dean-sees-evolution-in-mlperf-benchmark-for-machine-learning.md",
       "title": "Google AI chief Dean sees evolution in MLPerf benchmark for machine learning",
       "excerpt": "If computer systems are to evolve to handle ever larger machine learning models, a standard way to compare the effectiveness of those systems is essential, according to Google head of AI, Jeff Dean. But that system of measurement itself must evolve over time, he said. \"I think the MLPerf benchmark suite is actually going to be very effective ...",
-      "heat": 116,
+      "heat": 118,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.zdnet.com/article/google-ai-chief-dean-sees-evolution-in-mlperf-benchmark-for-ai/",
@@ -1153,14 +983,15 @@
       ],
       "topics": [
         "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "AI Hardware"
       ]
     },
     {
       "path": "_posts/2020-02-24-how-to-deploy-robotics-responsibly.md",
       "title": "How To Deploy Robotics Responsibly",
       "excerpt": "industrial and commercial robotics, artificial intelligence (AI) and the interconnectivity of software and hardware devices. Indeed, IDC predicts that by 2022, the global robotics market (i.e., robots,",
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/24/how-to-deploy-robotics-responsibly/",
@@ -1205,7 +1036,7 @@
       "path": "_posts/2020-02-24-how-to-enhance-the-customer-experience-using-ai-and-voice-biometrics.md",
       "title": "How To Enhance The Customer Experience Using AI And Voice Biometrics",
       "excerpt": "Due to pressures regarding data privacy, companies are often forced to set up stringent security processes that compromise the customer experience.",
-      "heat": 117,
+      "heat": 127,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/02/24/how-to-enhance-the-customer-experience-using-ai-and-voice-biometrics/",
@@ -2090,7 +1921,7 @@
       "path": "_posts/2020-02-25-graphcore-the-ai-chipmaker-raises-another-150m-at-a-195b-valuation.md",
       "title": "Graphcore, the AI chipmaker, raises another $150M at a $1.95B valuation",
       "excerpt": "The UK has a strong history when it comes to chips and processors, but the global chip market has seen some ups and downs ... hardware and corresponding Poplar software — which is designed specifically for the kind of simultaneous, intensive calculations demanded of AI applications innovators create next generation machine intelligence ...",
-      "heat": 126,
+      "heat": 136,
       "tags": null,
       "type": "article",
       "webUrl": "https://techcrunch.com/2020/02/24/graphcore-the-ai-chipmaker-raises-another-150m-at-a-1-95b-valuation/",
@@ -2133,6 +1964,43 @@
       ]
     },
     {
+      "path": "_posts/2020-02-25-over-1700-students-competing-in-artificial-intelligence-and-robot-competitions.md",
+      "title": "Over 1,700 students competing in artificial intelligence and robot competitions",
+      "excerpt": "H.H. Sheikh Khalid bin Mohamed bin Zayed Al Nahyan, Chairman of Abu Dhabi Executive Office, opened the activities of the 6th national championship of the series of artificial intelligence, AI, and robot competitions 2020, organised by the Ministry of Education at the Abu Dhabi National Exhibition Centre, ADNEC. Held under the patronage of H.H ...",
+      "heat": 80,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.emirates247.com/news/emirates/over-1-700-students-competing-in-artificial-intelligence-and-robot-competitions-2020-02-25-1.692744",
+      "ampWebUrl": "https://www.emirates247.com/news/emirates/over-1-700-students-competing-in-artificial-intelligence-and-robot-competitions-2020-02-25-1.692744?ot=ot.AMPPageLayout",
+      "cdnAmpWebUrl": "https://www-emirates247-com.cdn.ampproject.org/c/s/www.emirates247.com/news/emirates/over-1-700-students-competing-in-artificial-intelligence-and-robot-competitions-2020-02-25-1.692744?ot=ot.AMPPageLayout",
+      "publishedDateTime": "2020-02-25T05:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Emirates247",
+        "domain": "emirates247.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.emirates247.com/polopoly_fs/1.692745.1582613803!/image/image.gif",
+          "width": 1200,
+          "height": 800,
+          "title": "Over 1,700 students competing in artificial intelligence and robot competitions",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_posts/_archive/2013-07-04-from-chess-to-ping-pong-how-pegasystems-is-capturing-the-fortune-500.md",
       "title": "From chess to ping pong: How Pegasystems is capturing the Fortune 500",
       "excerpt": "And Cisco is using the technology to centralise its business processes in a company-wide rules engine that will help it respond ... and refine and develop them until they meet the needs of the ...",
@@ -2157,6 +2025,114 @@
           "width": 580,
           "height": 387,
           "title": "From chess to ping pong: How Pegasystems is capturing the Fortune 500",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2015-02-17-meet-the-new-face-detection-algorithm-that-will-change-image-search.md",
+      "title": "Meet the new face-detection algorithm that will change image search",
+      "excerpt": "Current facial-recognition technology is based primarily on the work of Paul Viola and Michael Jones, who achieved a major breakthrough in 2001 when they developed an algorithm that could detect ...",
+      "heat": 142,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.dailydot.com/debug/face-detection-algorithm-image-search/",
+      "ampWebUrl": "https://www.dailydot.com/debug/face-detection-algorithm-image-search/?amp",
+      "cdnAmpWebUrl": "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/face-detection-algorithm-image-search/?amp",
+      "publishedDateTime": "2015-02-17T06:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Dot",
+        "domain": "dailydot.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.dailydot.com/wp-content/uploads/7da/6e/fc3aa93d4cf68ff5406f291efcd81b08-1022x512.jpg",
+          "width": 1022,
+          "height": 512,
+          "title": "Meet the new face-detection algorithm that will change image search",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2016-02-23-trolls-vs-pirates-halostryker-oral-arguments.md",
+      "title": "Trolls vs Pirates: Halo/Stryker Oral Arguments",
+      "excerpt": "Wall’s approach was to highlight the general nature of the the statute ... MR. WALL: [W]e and the PTO and many of Respondents’ amici recognize, the system as it currently stands is out of balance. And we have tried, and I believe we have succeeded ...",
+      "heat": 102,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://patentlyo.com/patent/2016/02/pirates-halostryker-arguments.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2016-02-23T08:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Patently-O",
+        "domain": "patentlyo.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2017-05-01-a-list-of-artificial-intelligence-tools-you-can-use-today-for-personal-use-13.md",
+      "title": "A list of artificial intelligence tools you can use today — for personal use (1/3)",
+      "excerpt": "Artificial Intelligence and the fourth industrial revolution has made some considerable progress over the last couple of years. Most of this current progress that is usable has been developed for ...",
+      "heat": 161,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/@Liamiscool/a-list-of-artificial-intelligence-tools-you-can-use-today-for-personal-use-1-3-7f1b60b6c94f",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2017-04-30T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/freeze/max/1200/1*KdbQDJccO7aoNIvDrjUhzA.gif",
+          "width": 1200,
+          "height": 675,
+          "title": "A list of artificial intelligence tools you can use today — for personal use (1/3)",
           "attribution": null
         }
       ],

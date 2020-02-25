@@ -69,19 +69,6 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C4D12AQE4n5iQNbuFHA/article-cover_image-shrink_720_1280/0?e=1587600000&v=beta&t=wcizOYOgfHFN8sdPEi5AGZRImgPTyUbslbQ7-IrlUUY"
         width: 959
         height: 720
-  - title: "Outlook Of Healthcare Technology"
-    excerpt: "As healthcare becomes increasingly complex ... These electronic records create opportunities to track and improve patient care and to find new, more efficient treatment methods by incorporating artificial intelligence technologies. From a management perspective, digitizing and managing this data in a manner that protects privacy and makes ..."
-    publishedDateTime: 2020-02-10T20:19:00Z
-    webUrl: "https://www.healthitoutcomes.com/doc/outlook-of-healthcare-technology-0001"
-    type: article
-    provider:
-      name: HealthITOUTCOMES
-      domain: healthitoutcomes.com
-    quality: 39
-    images:
-      - url: "https://vertassets.blob.core.windows.net/image/b6566dd4/b6566dd4-46d8-4fce-99ce-702b4c6c708b/375_250-crystal_ball_future_istock_518433454.png"
-        width: 375
-        height: 250
 
 secured: "jShmyj7fQk3RbsDHZ0ZBGLSLjGGxjtr9xuPXKn47ua8f+ipkAslAQJe467Kk16/U2zMo4El+Et7pfueiipzmmd2UumE4QEASi2RmkLbNJNb29+T9aV1Xarho8h4hg2lOyUIS6U08Ad0UmN4YD7KsfuWgeXG5dnVJb5zSGc12n0mMlGF9AdlkDfPx7HRwllhimOsEMBfGMmINdSR6a9tW64+jnXBs1+eeMofqzRo/mVXMqnvPJ/cbpII1m/XwKzhP7UsP73d9iH5h5gKkPXn/5NM62ZWBgpxoAIiDQkxkMNVU9v6XFX8XXlffhTJ0t+JwD6F/zxBmtMm1GsugATi1WAaHYqpLbIAvYQKGWhh+nzs7dHja4bzkdob4vTBlysOvQmTXI9oMuokvGdl0E2NmAhQvtVnjih+NVzEnLsqdJiSI4jgo0lpEbnXkNmtwp/MUl7Swo9e6WyhSCK2cdYiVW2j3uC5qKOnPiPtrL3Pv2C4=;+FaIgXKfOqpW5inBWUormw=="
 ---

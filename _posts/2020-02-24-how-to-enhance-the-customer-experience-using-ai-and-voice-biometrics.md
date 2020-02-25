@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2020/02/24/how-to
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/02/24/how-to-enhance-the-customer-experience-using-ai-and-voice-biometrics/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -70,6 +70,21 @@ related:
       - url: "https://images.yourstory.com/cs/2/f02aced0d86311e98e0865c1f0fe59a2/Future-of-work-Insurance-1581958631691.png?fm=png&auto=format"
         width: 800
         height: 400
+  - title: "Caratlane ties up with AI startup wesense.ai to improve customer experience"
+    excerpt: "Omnichannel jeweller CaratLane has tied up with AI startup, wesense.ai, to enhance the customer experience at its retail stores. Caratlane will use wesense.ai’s proprietary AI-powered video analytics product, which will help it in planning effective marketing campaigns and improving sales conversion. Sankara Srinivasan – Founder ..."
+    publishedDateTime: 2020-02-25T11:11:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/caratlane-ties-up-with-ai-startup-wesenseai-to-improve-customer-experience/article30911447.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/caratlane-ties-up-with-ai-startup-wesenseai-to-improve-customer-experience/article30911447.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/caratlane-ties-up-with-ai-startup-wesenseai-to-improve-customer-experience/article30911447.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 55
+    images:
+      - url: "https://www.thehindubusinessline.com/static/theme/default/base/img/og-image.jpg"
+        width: 300
+        height: 300
 
 secured: "E4A6KCEw28y3hHDkvhpoMgSi65x7aUkUVbLSNI4git/oBjkBn+Zd5py0qTzQq4L4lybORfl94dBE4iHRubdjwbyr9ZA8iu/fnKSzWKjmWMiOt8RmasbNzJuYU20A49JdGa07rmhCIZOsC7sOutL9pBZ+AwQQQcYx46OIqcSoXhCZHAgU3talme41vWysOblGyfYjqqygli1sSlRchWEoI36Be8Ng80BQt/Uj38k0Z9BZBclNbcZeDc+/Y/yNgKiDWSck9wwKOA5JrdJKaJsSXLFKIeZwJLq/TpwNBQUIqg81Yut2vSeZbvCDV/zn5V5q;Mvss8EjyR24Yx3kQcz4VEQ=="
 ---

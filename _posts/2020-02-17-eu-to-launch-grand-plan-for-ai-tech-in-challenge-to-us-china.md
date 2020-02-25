@@ -47,6 +47,21 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 67
+  - title: "EU proposes rules for artificial intelligence to limit risks"
+    excerpt: "LONDON (AP) — The European Union unveiled proposalsWednesday to regulate artificial intelligence that call for strict rules and safeguards on ... German government ministers announced plans to require companies like Facebook and YouTube to report certain forms of hate speech to the police and to provide the users' IP addresses."
+    publishedDateTime: 2020-02-19T11:37:00Z
+    webUrl: "https://www.abc27.com/news/us-world/tech/eu-proposes-rules-for-artificial-intelligence-to-limit-risks/"
+    ampWebUrl: "https://www.abc27.com/news/us-world/tech/eu-proposes-rules-for-artificial-intelligence-to-limit-risks/amp/"
+    cdnAmpWebUrl: "https://www-abc27-com.cdn.ampproject.org/c/s/www.abc27.com/news/us-world/tech/eu-proposes-rules-for-artificial-intelligence-to-limit-risks/amp/"
+    type: article
+    provider:
+      name: abc27.com
+      domain: abc27.com
+    quality: 59
+    images:
+      - url: "https://www.abc27.com/wp-content/uploads/sites/55/2020/02/26a5d5519fb44b4cbb90a8135709a722.jpg?w=1280&h=720&crop=1"
+        width: 1280
+        height: 720
   - title: "US pushes light regulations for AI, in contrast to Europe"
     excerpt: "The guidelines encourage driverless-car manufacturers to submit safety self ... But they do aim to deliver on von der Leyen’s promise to initiate legislation on artificial intelligence within her first 100 days in office, a pledge she made last summer ..."
     publishedDateTime: 2020-02-20T02:22:00Z
