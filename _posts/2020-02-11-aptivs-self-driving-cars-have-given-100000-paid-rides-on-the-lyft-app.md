@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/02/11/aptivs-self-driving-cars-have-give
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/11/aptivs-self-driving-cars-have-given-100000-paid-rides-on-the-lyft-app/amp/"
 type: article
 quality: 189
-heat: 269
+heat: 259
 published: true
 
 provider:
@@ -125,19 +125,6 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 34
-  - title: "Uber Gets OK To Test Self-Driving Cars In California"
-    excerpt: "The state of California has granted Uber a permit to test its self-driving vehicles on public roads. The Department of Motor Vehicles gave the approval to the Uber Advanced Technologies Group to test autonomous vehicles as long as a driver is in the vehicle. Uber is the latest company to be added to the entities with autonomous vehicle testing ..."
-    publishedDateTime: 2020-02-10T13:35:00Z
-    webUrl: "https://www.mediapost.com/publications/article/346759/uber-gets-ok-to-test-self-driving-cars-in-californ.html?edition=117136"
-    type: article
-    provider:
-      name: MediaPost
-      domain: mediapost.com
-    quality: 24
-    images:
-      - url: "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2018/12/19/uberselfdrivingcar-600_tmkffdC.jpg"
-        width: 600
-        height: 375
 
 secured: "D4ImNfOHlugM60aBVJTlUkwLbi9cSK5EQlD5DWIgtatEutu6mxgBWuyvH9vzu9v0jVC53Y0LDm4EO/6+D22r82tXbHee5gf7Pvp9yGcu0ZaXIa5wJwiHX0q7MyAVeQMesyCzTCToghaY+ajBQHasI1J26iTh/pR9NRmbCoWiJcb5ajTdf4zefqsPcfIOSYfdrvglcwGVZtWJZJVHkNbC0uJJAZKXWY9ka0fYgmJoLCUVVhxSS+dP6yF6nGtHvJ+e3N0Lq7fouvQwk/GZg6d12RLdTXjpuneXRUp/MsF8Pg8wMGQamp+Tup6aYcL5f1Ub2e2F7BcAdd9l4jnS3gDlUPJvtiQgoZjUDEWK4bJIjDs9Y2k7HqrHcjHPUbMMESprxysCRH+7MvXjphQ1Hmj2fqtT4Mtx0qcQKuFAnBjDR4KWO2LqGTqgscPgokYLev0P5Bu4Vn9suXlMFE8MmK9jSMz71roxFial/AW+piXSV3tj+8FFPvDs3GiLGVYpKftI;qi2w9jItH7iwQCNZ0MJFfQ=="
 ---

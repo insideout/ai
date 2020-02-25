@@ -2,140 +2,6 @@
   "page": 20,
   "value": [
     {
-      "path": "_posts/_archive/2020-01-28-facial-recognition-startup-clearview-ai-is-struggling-to-address-complaints-as-its-legal-issues-mount.md",
-      "title": "Facial Recognition Startup Clearview AI Is Struggling To Address Complaints As Its Legal Issues Mount",
-      "excerpt": "One of Clearview AI's investors defended the company, “We do not have to be hidden to be free.” By Ryan Mac and Caroline Haskins and Logan McDonald Posted on January 28, 2020, at 3:34 p.m. ET A screenshot of Clearview's search results. Clearview AI, the facial recognition company that claims to have amassed a database of more than 3 billion ...",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.buzzfeednews.com/article/ryanmac/clearview-ai-cops-run-wild-facial-recognition-lawsuits",
-      "ampWebUrl": "https://www.buzzfeednews.com/amphtml/ryanmac/clearview-ai-cops-run-wild-facial-recognition-lawsuits",
-      "cdnAmpWebUrl": "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/ryanmac/clearview-ai-cops-run-wild-facial-recognition-lawsuits",
-      "publishedDateTime": "2020-01-28T12:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BuzzFeed News",
-        "domain": "buzzfeednews.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/buzzfeednews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-01/27/16/campaign_images/5ec0c13d1ba4/20-cashmere-things-so-soft-you-might-want-to-splu-2-326-1580142937-2_dblbig.jpg",
-          "width": 625,
-          "height": 415,
-          "title": "Facial Recognition Startup Clearview AI Is Struggling To Address Complaints As Its Legal Issues Mount",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-28-five-reasons-you-really-dont-want-to-miss-techcrunchs-ai-and-robotics-show-on-march-3.md",
-      "title": "Five reasons you (really) don’t want to miss TechCrunch’s AI and Robotics show on March 3",
-      "excerpt": "TechCrunch’s fourth Robotics and AI show is coming up on March 3 at UC Berkeley’s Zellerbach Hall. If past experience is any guide, the show is sure to draw a big crowd (cheap student rates here!) but there’s still time to grab a pass. If you’re wondering why you want to take a day out to catch a full day of interviews and audience Q&A ...",
-      "heat": 78,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/01/28/five-reasons-you-really-dont-want-to-miss-techcrunchs-ai-and-robotics-show-on-march-3/",
-      "ampWebUrl": "https://techcrunch.com/2020/01/28/five-reasons-you-really-dont-want-to-miss-techcrunchs-ai-and-robotics-show-on-march-3/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/28/five-reasons-you-really-dont-want-to-miss-techcrunchs-ai-and-robotics-show-on-march-3/amp/",
-      "publishedDateTime": "2020-01-28T13:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/01/5.png?w=1024",
-          "width": 1024,
-          "height": 562,
-          "title": "Five reasons you (really) don’t want to miss TechCrunch’s AI and Robotics show on March 3",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-28-general-motors-to-build-cruise-origin-electric-self-driving-shuttle-electric-trucks-in-detroit.md",
-      "title": "General Motors to build Cruise Origin electric self-driving shuttle, electric trucks in Detroit",
-      "excerpt": "The facility has been earmarked to build several all-electric models, starting with a pickup in late 2021. The plant was previously the home of the discontinued Chevrolet Volt plug-in hybrid and currently produces the Cadillac CT6 and Chevrolet Impala, which will bill both end production in February. Batteries for all of the vehicles will be ...",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.foxnews.com/auto/general-motors-cruise-origin-driving-shuttle-detroit",
-      "ampWebUrl": "https://www.foxnews.com/auto/general-motors-cruise-origin-driving-shuttle-detroit.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/general-motors-cruise-origin-driving-shuttle-detroit.amp",
-      "publishedDateTime": "2020-01-28T09:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/640/320/origin-3.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": "General Motors to build Cruise Origin electric self-driving shuttle, electric trucks in Detroit",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-01-28-google-brings-cross-platform-ai-pipeline-framework-mediapipe-to-the-web.md",
       "title": "Google brings cross-platform AI pipeline framework MediaPipe to the web",
       "excerpt": "TensorFlow Lite inference isn’t supported, and the graph’s computations must be run on a single processor thread. A lack of compute shaders — routines compiled for high-throughput ...",
@@ -1530,6 +1396,43 @@
       ]
     },
     {
+      "path": "_posts/_archive/2020-01-29-amazon-made-rekognition-software-now-able-to-detect-fear.md",
+      "title": "Amazon-made Rekognition software now able to detect fear",
+      "excerpt": "Mashable is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://mashable.com/video/amazon-rekognition-adds-fear/",
+      "ampWebUrl": "https://mashable.com/video/amazon-rekognition-adds-fear.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/amazon-rekognition-adds-fear.amp",
+      "publishedDateTime": "2020-01-29T11:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2019%252F08%252F14%252F5c%252Fd535431604e94fd58731c9b7cc541e31.7b409.jpg%252F1200x630.jpg?signature=ztgM6q23TnHX2BdaPVHRlIEaQwU=",
+          "width": 1200,
+          "height": 630,
+          "title": "Amazon-made Rekognition software now able to detect fear",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-29-apple-researchers-train-ai-drivers-to-merge-lanes-in-a-simulated-environment.md",
       "title": "Apple researchers train AI drivers to merge lanes in a simulated environment",
       "excerpt": "Apple has yet to openly discuss its self-driving vehicle research, but it’s a poorly-kept industry secret. Around 5,000 employees — including a portion of those previously employed by Drive.ai, an autonomous car startup Apple acquired last year — are said to be involved with code-name Project Titan, a joint effort with Volkswagen to ...",
@@ -1962,6 +1865,51 @@
       ]
     },
     {
+      "path": "_posts/_archive/2020-01-29-getting-started-with-aws-deepracer-2020-edition.md",
+      "title": "Getting Started with AWS Deepracer (2020 edition)",
+      "excerpt": "Since the last time, I wrote a blog on how to win at Deepracer? a LOT has changed on the Deepracer Console. You could read that to know the very basics of Deepracer and Reinforcement Learning.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/vaibhav-malpanis-blog/getting-started-with-deepracer-2020-edition-a7896dd07c48",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-29T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/800/0*70d1mypOZTlJ0xsF.jpg",
+          "width": 800,
+          "height": 450,
+          "title": "Getting Started with AWS Deepracer (2020 edition)",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-29-google-looks-ahead-to-the-next-decade-of-ai-research.md",
       "title": "Google looks ahead to the next decade of AI research",
       "excerpt": "Google's already making strides on this front, with on-device translation services offered in 59 different languages. While Google and the industry at large have made significant strides in AI in the past few years, public awareness of the technology's potential drawbacks -- and corresponding regulation -- is only now beginning to catch up ...",
@@ -2130,6 +2078,51 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-29-here-are-the-7-biggest-fintech-trends-to-watch-in-2020-according-to-a-centana-growth-partners-exec.md",
+      "title": "Here are the 7 biggest fintech trends to watch in 2020, according to a Centana Growth Partners exec",
+      "excerpt": "Alfieri, one of Business Insider's 2019 Rising Stars of Wall Street, lays out the biggest themes to watch for fintech in 2020.",
+      "heat": 70,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/centana-growth-partners-exec-gives-outlook-for-fintech-2020-1",
+      "ampWebUrl": "https://www.businessinsider.com/centana-growth-partners-exec-gives-outlook-for-fintech-2020-1?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/centana-growth-partners-exec-gives-outlook-for-fintech-2020-1?amp",
+      "publishedDateTime": "2020-01-29T11:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5de57a1efd9db2771d15a925?width=750&format=jpeg&auto=webp",
+          "width": 750,
+          "height": 563,
+          "title": "Here are the 7 biggest fintech trends to watch in 2020, according to a Centana Growth Partners exec",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
       ]
     }
   ],

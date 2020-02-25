@@ -2,179 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_posts/2020-02-11-machine-learning-artificial-intelligence-market-may-set-new-growth-amazon-google-facebook.md",
-      "title": "Machine Learning Artificial intelligence Market May Set New Growth| Amazon, Google, Facebook",
-      "excerpt": "Some are the key & emerging players that are part of coverage and have being profiled are AIBrain, Amazon, Anki, CloudMinds, Deepmind, Google, Facebook, IBM, Iris AI, Apple, Luminoso & Qualcomm. Know how you are perceived in comparison to your competitors like AIBrain, Amazon, Anki, CloudMinds, Deepmind, Google, Facebook, IBM, Iris AI ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-artificial-intelligence-market-may-set-new-growth-amazon-google-facebook-2020-02-11",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-11T04:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Machine Learning Artificial intelligence Market May Set New Growth| Amazon, Google, Facebook",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI",
-        "Machine Learning",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-11-market-updates-for-2020-ml-ai-industry-will-poised-for-strong-global-growth.md",
-      "title": "Market Updates for 2020 ML AI Industry will Poised for strong Global Growth",
-      "excerpt": "The Global ML AI Market report provides information by Top Players, Geography, End users, Applications, Competitor analysis, Sales, Revenue, Price, Gross Margin, Market Share, Import-Export, Trends, and Forecast.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/market-updates-for-2020-ml-ai-industry-will-poised-for-strong-global-growth-2020-02-11",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-11T02:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Market Updates for 2020 ML AI Industry will Poised for strong Global Growth",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-11-mcafee-cto-how-ai-is-changing-both-cybersecurity-and-cyberattacks.md",
-      "title": "McAfee CTO: How AI is changing both cybersecurity and cyberattacks",
-      "excerpt": "McAfee, one of the big players in the industry, is adding AI capabilities to its own suite of tools that protect users from increasingly automated attacks. A whole wave of startups — like Israel ...",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/11/mcafee-cto-how-ai-is-changing-both-cybersecurity-and-cyberattacks/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/11/mcafee-cto-how-ai-is-changing-both-cybersecurity-and-cyberattacks/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/11/mcafee-cto-how-ai-is-changing-both-cybersecurity-and-cyberattacks/amp/",
-      "publishedDateTime": "2020-02-11T09:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/11-McAfee-interview.jpg?fit=2160%2C1078&strip=all",
-          "width": 2160,
-          "height": 1078,
-          "title": "McAfee CTO: How AI is changing both cybersecurity and cyberattacks",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-11-meet-ella-new-zealand-police-unveil-first-artificial-intelligence-officer.md",
-      "title": "Meet Ella: New Zealand Police unveil first artificial intelligence officer",
-      "excerpt": "The police have unveiled their first AI officer, with hopes she'll soon be smiling and blinking out of screens in stations all around New Zealand. Ella, the Māori artificial intelligence cop at the centre of the police's new digital services, was revealed at the police national headquarters in Wellington this morning. Ella, which stands for ...",
-      "heat": 135,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=12307902",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-11T13:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New Zealand Herald",
-        "domain": "nzherald.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.nzherald.co.nz/resizer/E5V-a96jpTiF5t4mMHUgW5umkyU=/1200x0/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/UYPVACGFG5ANNLPOYQ6G2IUFKM.jpg",
-          "width": 1200,
-          "height": 752,
-          "title": "Meet Ella: New Zealand Police unveil first artificial intelligence officer",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-11-microsoft-builds-the-worlds-largest-transformer-based-language-generation-model.md",
       "title": "Microsoft builds the world's largest transformer-based language generation model",
       "excerpt": "that outperforms the state of the art models available today on many downstream natural language processing (NLP) applications. To train the model, researchers at Microsoft trained their model on an NVIDIA DGX-2 system housing multiple NVIDIA V100 GPUs that were interconnected with InfiniBand. The type of training data used was similar to the ...",
@@ -2162,6 +1989,187 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-13-facial-recognition-could-be-temporarily-banned-for-law-enforcement-use.md",
+      "title": "Facial recognition could be temporarily banned for law enforcement use",
+      "excerpt": "Senators have introduced a bill that would prohibit the technology for police use until guidelines and limitations are set. Law enforcement agencies could be temporarily banned from using facial recognition after Sens.",
+      "heat": 689,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/facial-recognition-could-be-temporarily-banned-for-law-enforcement-use/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/facial-recognition-could-be-temporarily-banned-for-law-enforcement-use/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facial-recognition-could-be-temporarily-banned-for-law-enforcement-use/",
+      "publishedDateTime": "2020-02-12T19:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet4.cbsistatic.com/img/JsUigaPqhHEO0XUYO41ZqO-Z-vo=/756x567/2020/01/18/2bde6ea9-4f91-4473-a8fb-1418d9ac5c7d/facial-recognition-james-martin-promo-1.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "Facial recognition could be temporarily banned for law enforcement use",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-13-fiddler-labs-sri-and-berkeley-experts-open-up-the-black-box-of-machine-learning-at-tc-sessions-roboticsai.md",
+      "title": "Fiddler Labs, SRI and Berkeley experts open up the black box of machine learning at TC Sessions: Robotics+AI",
+      "excerpt": "As AI permeates the home, work, and public life, it’s increasingly important to be able to understand why and how it makes its decisions. Explainable AI isn’t just a matter of hitting a switch, though; Experts from UC Berkeley, SRI, and Fiddler Labs will discuss how we should go about it on stage at TC Sessions: Robotics+AI on March 3. What ...",
+      "heat": 117,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/02/12/fiddler-labs-sri-and-berkeley-experts-open-up-the-black-box-of-machine-learning-at-tc-sessions-roboticsai/",
+      "ampWebUrl": "https://techcrunch.com/2020/02/12/fiddler-labs-sri-and-berkeley-experts-open-up-the-black-box-of-machine-learning-at-tc-sessions-roboticsai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/12/fiddler-labs-sri-and-berkeley-experts-open-up-the-black-box-of-machine-learning-at-tc-sessions-roboticsai/amp/",
+      "publishedDateTime": "2020-02-12T20:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/02/fiddler_images.png?w=1024",
+          "width": 1024,
+          "height": 558,
+          "title": "Fiddler Labs, SRI and Berkeley experts open up the black box of machine learning at TC Sessions: Robotics+AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-13-googles-autoflip-uses-ai-to-crop-videos-for-you.md",
+      "title": "Google’s AutoFlip uses AI to crop videos for you",
+      "excerpt": "By contrast, AutoFlip is completely automatic thanks to AI object detection and tracking technologies that intelligently understand video content. The system detects changes in the composition that signify scene changes in order to isolate scenes for processing. And within each shot, it uses video analysis to identify salient content before ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/13/googles-autoflip-automatically-crops-videos-using-ai/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/13/googles-autoflip-automatically-crops-videos-using-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/13/googles-autoflip-automatically-crops-videos-using-ai/amp/",
+      "publishedDateTime": "2020-02-13T12:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google’s AutoFlip uses AI to crop videos for you",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-13-how-is-your-company-managing-its-ai-and-ml-initiatives.md",
+      "title": "How is your company managing its AI and ML initiatives?",
+      "excerpt": "SEE: Managing AI and ML in the enterprise 2019: Tech leaders expect more difficulty than previous ... Top cloud providers in 2020: AWS, Microsoft Azure, and Google Cloud, hybrid, SaaS players",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/how-is-your-company-managing-its-ai-and-ml-initiatives/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-is-your-company-managing-its-ai-and-ml-initiatives/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-is-your-company-managing-its-ai-and-ml-initiatives/",
+      "publishedDateTime": "2020-02-13T08:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/02/13/f81f1846-84ce-494a-9a0e-c7159a67b93d/resize/1200x/d0bec0400c685055c101739b762f68cb/ai-ml-1.jpg",
+          "width": 1200,
+          "height": 887,
+          "title": "How is your company managing its AI and ML initiatives?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
       ]
     }
   ],

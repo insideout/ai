@@ -24,32 +24,19 @@ images:
     title: "DeepMind, artificial intelligence and the future of the NHS"
 
 related:
-  - title: "The Future of Deep Learning Is Unsupervised, AI Pioneers Say"
-    excerpt: "Machines can do well at recognizing images and understanding language—when humans are involved with training. But for AI to reach new heights, the technology must figure out how to learn on its own, according to three AI pioneers."
-    publishedDateTime: 2020-02-10T12:16:00Z
-    webUrl: "https://www.wsj.com/articles/the-future-of-deep-learning-is-unsupervised-ai-pioneers-say-11581330600"
+  - title: "Does Picard Foretell the Future of Artificial Intelligence?"
+    excerpt: "With the launch of Picard, what better time could there be to investigate the realities of artificial intelligence and fully sentient life? If you talk with Star Trek fans, they’ll tell you both Data and Spock shared a similar trait. They ironically displayed more human features than many other characters. Writers and directors accomplished ..."
+    publishedDateTime: 2020-02-10T18:43:00Z
+    webUrl: "https://medium.com/the-cosmic-companion/does-picard-foretell-the-future-of-artificial-intelligence-939eb96f914"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 84
+      name: Medium
+      domain: medium.com
+    quality: 67
     images:
-      - url: "https://images.wsj.net/im-152543/social"
-        width: 1280
-        height: 640
-  - title: "Prudential offers machine learning training for all 1,200 employees"
-    excerpt: "More than 170 staff have signed up for the free course in machine learning since it launched on Feb 1, said Prudential yesterday. Machine learning is a branch of artificial intelligence (AI) that focuses on developing computer programmes that can learn from new data so as to perform tasks without needing explicit instructions from humans."
-    publishedDateTime: 2020-02-10T21:08:00Z
-    webUrl: "https://www.straitstimes.com/business/companies-markets/prudential-offers-machine-learning-training-for-all-1200-employees"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 56
-    images:
-      - url: "https://www.straitstimes.com/sites/all/themes/custom/bootdemo/images/facebook_default_pic.jpg"
-        width: 1200
-        height: 799
+      - url: "https://miro.medium.com/max/1000/1*ljF7aZb_J9On0u0fv7XccA.jpeg"
+        width: 1000
+        height: 437
 
 secured: "Y7xZlsd0SlmIAqaGUBWRkiCvaEESytcTjkU97iefsotErjGnRDNwbhfTiwW2AxNtuaX0awlId1guKHm7UHRelBB37HkybYbAtNp3eYnVKhoDiIDT1yCXnoteVnt9jJuQtMfE2T/MQg27ST8vP77mwo7YO+uV6gk2IoxfYDxyLyodAHJuOLZF0lw5s3TK121vyvPVF3TWRa7EeqNqtBnaRipmNQml7oDDs+7O25c/LJ8bSjePqR9z5GlXoYDCQ8BgxeTwMUTEaABGUJAm5UrIGMW3kFf25AIawRRS5xMDNgD2YjgBearGLy1lpIukY6Zd;iews/r1i8cezX7MTtpCR8w=="
 ---

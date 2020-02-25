@@ -1,11 +1,11 @@
 ---
 category: news
 title: "AMD’s new Arcturus GPU could be super-efficient – but probably won’t trouble Nvidia"
-excerpt: "... reckons it can win the high-end GPU battle – and dethrone Nvidia These are all the best graphics cards of 2020 Remember this is a GPU aimed at data center and heavyweight compute usage – the likes of AI applications – but seemingly we’re looking at something of a beast of a card with a 1,090MHz base clock and 1,333MHz boost, with ..."
+excerpt: "Big Navi GPU could be 30% faster than RTX 2080 Ti AMD reckons it can ... this is a GPU aimed at data center and heavyweight compute usage – the likes of AI applications – but seemingly we’re looking at something of a beast of a card with a 1,090MHz ..."
 publishedDateTime: 2020-02-11T11:49:00Z
-webUrl: "https://www.techradar.com/sg/news/amds-new-arcturus-gpu-could-be-super-efficient-but-probably-wont-trouble-nvidia"
-ampWebUrl: "https://www.techradar.com/sg/amp/news/amds-new-arcturus-gpu-could-be-super-efficient-but-probably-wont-trouble-nvidia"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/amds-new-arcturus-gpu-could-be-super-efficient-but-probably-wont-trouble-nvidia"
+webUrl: "https://www.techradar.com/in/news/amds-new-arcturus-gpu-could-be-super-efficient-but-probably-wont-trouble-nvidia"
+ampWebUrl: "https://www.techradar.com/in/amp/news/amds-new-arcturus-gpu-could-be-super-efficient-but-probably-wont-trouble-nvidia"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/amds-new-arcturus-gpu-could-be-super-efficient-but-probably-wont-trouble-nvidia"
 type: article
 quality: 83
 heat: 83
@@ -29,6 +29,6 @@ images:
     height: 675
     title: "AMD’s new Arcturus GPU could be super-efficient – but probably won’t trouble Nvidia"
 
-secured: "EmUcHjaimm9Pilr7JPE6//4k2DxGotkTJrhrubpAlepGvjEUNqBiK9cdCXIuFdOJ/Pv65K1ETwlFFbriSuZtBrD0yszpyX/WOYpgSlmYKuburtsYZ+oIjpzNILtYyEXGK1Ogu3JKBcxJYuL9i3JnH5P0z1hfiye86Qy3FDTiVi9haM2G54LXuR1CWW9bkHF6x0zX/5Tk3LfyOqPY4G+3MD8yBoq5E0/ougIdAe5Mw6IPyuOyUBXkLs2Ql7IHKNhIbfNpJ8J3zD/tClZY1L+A77PXH6FerSA8iRR6l7/7YeQb530zX9d8MGXdZvAomSEROktJdqnrCCRLPM4gVWW7l6fuqaFI/oZFSoEK5wD/hq7HxqMPcqpp1lpDl5QScPo8+J8sKRgh4BkqBqvRnU4e1yMaVF7QD1lC3zgn3Wu/E8YJPfpHbdQN309VQtR8AMqgY8rXbduszj5scpeRZV55V5RwodK+Yjv+Foe04oRYohg=;Y7JfGsex5kV0xXuC7K8ScQ=="
+secured: "9FHH05c9uZZ6fb2qBHHtf6oIkpOx5CFzRJIpltJn9w1SBAJBYSFOqy64K9vw8hhRqLDXNiNF2qBnj8Byp7BIwxVZMKppJfOYseIw18ACvYjgPgtLVwbQ6BAnLG1yKnxDHX0mqiIh2FMXWdo8AZnwjR44PXTk4qevfPP5OdD5V3NTctNqPlrbZa1v1IummLlrRq4BkYISyfKkWGleM3IJLaoOdW9DxBrcKlHJb/R6rylcB/9nHYwrWY8svp9BRbvkNMiA5/fmcs/hBom4A8TNw4ifOVWlhWEOP6XD5X2ZcQhK/ZuMNb5lenJgIfaUtzPb;sKDSWCLiAvjPcnOv+GSzbg=="
 ---
 

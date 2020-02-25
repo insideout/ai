@@ -5,9 +5,9 @@ excerpt: "This post provides 6 sample codes showing how Azure Microsoft Cognitiv
 publishedDateTime: 2020-01-25T12:40:00Z
 webUrl: "https://medium.com/@caiomsouza/sentiment-analysis-and-text-mining-using-azure-cognitive-services-6185a1d0f0b7"
 type: article
-quality: 64
-heat: 64
-published: false
+quality: 84
+heat: 84
+published: true
 
 provider:
   name: Medium
@@ -21,6 +21,12 @@ topics:
   - AI
   - Microsoft AI
 
-secured: "w8dzGS/Iipt6ZVtgeqCfaUtJx8tEVG95qx7b/rcvccaS8+S0b6MeopOgn//nSiZRkXYYYGfkVDELqNkTp8IMdOaFDjFBLpF6Vnc+ZAy10INpS045DoxX/eAvVKaqGwOSSxfA+/ZqFH1cWrUNG8IVheY0NTndxu3lpNv5KE60S437xtUAqxEfK6sib0ZvD8ho56/BdgcKQpYjzmKiiRAkXgJwBkZ/GlT20kFNBnfp72jXJhKvH5U3m8w2CddEKf+Ey6xzBPYKoqMJO52/ZI0nZTVj7SqxJO9V55tyij6rWO1soRZZx/WfE56CXUCcMmGD;fDywRNeS6sp93FqaP44snw=="
+images:
+  - url: "https://miro.medium.com/max/1200/1*eIuRRxcgZxzCMZvc4HLiiA.png"
+    width: 1200
+    height: 600
+    title: "Sentiment analysis and text mining using Azure Cognitive Services"
+
+secured: "AAJfO2M2iS3YxkzmPHXbsP0+VXuL3KBqqfLJhq4DmMzL8KGWqXElW1IBLmd+5YN7cSRYCtBe1WHiDmHnzZjVxQm/yHh05GvvAQQiwva3tUW+G58cc40Oh41ux//j30A/ejlLcRVqlQx6EswjypnvbXfINHUgau+dLGi9RRK4HHjO0j/O88DW3m0KFswHcEtyuFs0wQVwbXrpHcp/E9CMAIwHfrYeU/XpkbHhUg1bGIXRkFGKE85XBhgeJXznUqe0vC5bUnGbBo3w1Ew8cn/XufJXs/3L3mqRcqJ8R76JNRm1yz6ELPN4TmQZdZJVn3Pf;VABeJB2brzM0AYCqo8Y02A=="
 ---
 

@@ -1,29 +1,21 @@
 ---
 category: news
-title: "ARM shows off new Edge AI chip designs for cloud-less processing on IoT devices"
-excerpt: "Chipmaker ARM has announced two new chip designs for AI processing, focused particularly on the internet of things (IoT) devices. The new designs- the ARM Cortex-M55 and Ethos-U55 are based on Edge AI technology, which basically means processing on a device without a cloud connection, The Verge reports. The ARM Cortex-M55 promises up to 15x ..."
-publishedDateTime: 2020-02-11T10:26:00Z
-webUrl: "https://timesofindia.indiatimes.com/videos/tech/arm-shows-off-new-edge-ai-chip-designs-for-cloud-less-processing-on-iot-devices/videoshow/74081733.cms"
-ampWebUrl: "https://m.timesofindia.com/videos/tech/arm-shows-off-new-edge-ai-chip-designs-for-cloud-less-processing-on-iot-devices/amp_videoshow/74081733.cms"
-cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/videos/tech/arm-shows-off-new-edge-ai-chip-designs-for-cloud-less-processing-on-iot-devices/amp_videoshow/74081733.cms"
+title: "Arm unveils AI chip for small devices"
+excerpt: "The chips require little electricity or internet connections and aim to bring AI functions to small devices like sensors that detect human speech. Arm sees Cortex M55 fitting into markets like health care, where data needs to be stored locally. Chips with the tech will hit the market next year."
+publishedDateTime: 2020-02-10T14:53:00Z
+webUrl: "https://seekingalpha.com/news/3540046-arm-unveils-ai-chip-for-small-devices"
 type: article
-quality: 70
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: India Times
-  domain: indiatimes.com
+  name: Seeking Alpha
+  domain: seekingalpha.com
 
 topics:
   - AI
   - AI Hardware
-
-images:
-  - url: "https://static.toiimg.com/photo/msid-74081733/videos/tech/arm-shows-off-new-edge-ai-chip-designs-for-cloud-less-processing-on-iot-devices.jpg"
-    width: 1600
-    height: 900
-    title: "ARM shows off new Edge AI chip designs for cloud-less processing on IoT devices"
 
 related:
   - title: "XMOS unveils Xcore.ai, a powerful chip designed for AI processing at the edge"
@@ -41,6 +33,21 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/07/blockchain_database-e1573158651295.jpg?fit=1200%2C600&strip=all"
         width: 1200
         height: 600
+  - title: "ARM shows off new Edge AI chip designs for cloud-less processing on IoT devices"
+    excerpt: "Chipmaker ARM has announced two new chip designs for AI processing, focused particularly on the internet of things (IoT) devices. The new designs- the ARM Cortex-M55 and Ethos-U55 are based on Edge AI technology, which basically means processing on a device without a cloud connection, The Verge reports. The ARM Cortex-M55 promises up to 15x ..."
+    publishedDateTime: 2020-02-11T10:26:00Z
+    webUrl: "https://timesofindia.indiatimes.com/videos/tech/arm-shows-off-new-edge-ai-chip-designs-for-cloud-less-processing-on-iot-devices/videoshow/74081733.cms"
+    ampWebUrl: "https://m.timesofindia.com/videos/tech/arm-shows-off-new-edge-ai-chip-designs-for-cloud-less-processing-on-iot-devices/amp_videoshow/74081733.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/videos/tech/arm-shows-off-new-edge-ai-chip-designs-for-cloud-less-processing-on-iot-devices/amp_videoshow/74081733.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 70
+    images:
+      - url: "https://static.toiimg.com/photo/msid-74081733/videos/tech/arm-shows-off-new-edge-ai-chip-designs-for-cloud-less-processing-on-iot-devices.jpg"
+        width: 1600
+        height: 900
   - title: "ARM shows off new Edge AI chip designs for cloud-less processing on IoT devices"
     excerpt: "The new designs are based on Edge AI technology, which basically means processing on a device without a cloud connection Chipmaker ARM has announced two new chip designs for AI processing, focused particularly on the internet of things (IoT) devices. The new designs- the ARM Cortex-M55 and Ethos-U55 are based on Edge AI technology, which ..."
     publishedDateTime: 2020-02-13T03:13:00Z
@@ -69,15 +76,6 @@ related:
       - url: "https://aniportalimages.s3.amazonaws.com/media/details/technology-chips-micro-computer-embed-steel-royalty-free-thumbnail_1.jpg"
         width: 600
         height: 450
-  - title: "Arm unveils AI chip for small devices"
-    excerpt: "The chips require little electricity or internet connections and aim to bring AI functions to small devices like sensors that detect human speech. Arm sees Cortex M55 fitting into markets like health care, where data needs to be stored locally. Chips with the tech will hit the market next year."
-    publishedDateTime: 2020-02-10T14:53:00Z
-    webUrl: "https://seekingalpha.com/news/3540046-arm-unveils-ai-chip-for-small-devices"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 34
   - title: "Intel Angling for Piece of Self-Driving Market with New Processors"
     excerpt: "Intel Corp., trying to convert its dominance of computers into a stake in the growing market for chips used in cars, is offering automakers new products aimed at making its technology crucial to the effort to develop self-driving vehicles. ‘Intel Go’ will feature processors ranging from its smallest Atom chips all the way up to its most ..."
     publishedDateTime: 2020-02-12T20:51:00Z
@@ -88,6 +86,6 @@ related:
       domain: industryweek.com
     quality: 4
 
-secured: "2VxRgL8amvDC9SbzXS2E5eJXHbAzSSGJUwA+WVA5QtFTpQ01swMaaoSHinZxJCR5ruiCbSeq2OXf6TfXr/ncfquxSotXKsMLtmEX/WN43hI5h6yG26EEZCy264zvBr39A5fjbMjl9AcFP5TTiYnI+5qNcE6Q5OTcVJ04TcxkEGNPQ8TKqdjZR9A259MhbGWtldrr+Pg4fGP7lnGKGRLt/6kBbrraUlqY0uLapvniw9jWLXbrc2KVfeSYOdrnTauTmWYEHPDNbQk3RHLRN3c2EITapohaiPo8K6miAMr/MfzBvhqRf0xHmyTxL0QjnnkOwBhPGKcNHideNYrinAhZCeLbN6cSeXcrvBSC5UVCfFFGnWplzPqNQW+WDT4ge8wNT+gF9bmHyEzdwYeT5tUkB0qV7CAQmyjL/QFkdfm8C9VW9qbamM+3qBWA+SOK9WXI9iHD1zWSn+v8CiHjf/G6VKDR1nw/4E9XL0YXDeyeKZ4=;i+IgEeCqjt5khsttx/hzGQ=="
+secured: "2ECyH7A7a+TsuZuFZfdlfEc/P3DLYufoASVUMqsF/TLQXiCq3WBBk87hWkvGBUhV60gxOYWTTMAkzZl9V+em9RQ2NXkV4PSpqBj1lJ+rjbzO2ynt/5PPYlx4lwVArxv2nbF9voCa5rEOP4KETL6+5qQvC5AV6S/11sZLhr7FmGdZcD9PSMk+I6FmPSBmjyNvaOJealKuNEzcn/DOj6yAYUZuSBqGpiWoXA2A21axlHoKC4l3XBGcMVg9vN4LYlqWoUlJKeqbbguamgU7Tnx1ZBiy6uwA0ySSYkijpod0gukJAExLzM7lo5pl1Dh9ny09;lBi4IWR3HfzrOyVEDftMJA=="
 ---
 

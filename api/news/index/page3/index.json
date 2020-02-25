@@ -2,187 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_posts/2020-02-13-facial-recognition-could-be-temporarily-banned-for-law-enforcement-use.md",
-      "title": "Facial recognition could be temporarily banned for law enforcement use",
-      "excerpt": "Senators have introduced a bill that would prohibit the technology for police use until guidelines and limitations are set. Law enforcement agencies could be temporarily banned from using facial recognition after Sens.",
-      "heat": 689,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/news/facial-recognition-could-be-temporarily-banned-for-law-enforcement-use/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/facial-recognition-could-be-temporarily-banned-for-law-enforcement-use/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facial-recognition-could-be-temporarily-banned-for-law-enforcement-use/",
-      "publishedDateTime": "2020-02-12T19:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet4.cbsistatic.com/img/JsUigaPqhHEO0XUYO41ZqO-Z-vo=/756x567/2020/01/18/2bde6ea9-4f91-4473-a8fb-1418d9ac5c7d/facial-recognition-james-martin-promo-1.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "Facial recognition could be temporarily banned for law enforcement use",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-13-fiddler-labs-sri-and-berkeley-experts-open-up-the-black-box-of-machine-learning-at-tc-sessions-roboticsai.md",
-      "title": "Fiddler Labs, SRI and Berkeley experts open up the black box of machine learning at TC Sessions: Robotics+AI",
-      "excerpt": "As AI permeates the home, work, and public life, it’s increasingly important to be able to understand why and how it makes its decisions. Explainable AI isn’t just a matter of hitting a switch, though; Experts from UC Berkeley, SRI, and Fiddler Labs will discuss how we should go about it on stage at TC Sessions: Robotics+AI on March 3. What ...",
-      "heat": 117,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/02/12/fiddler-labs-sri-and-berkeley-experts-open-up-the-black-box-of-machine-learning-at-tc-sessions-roboticsai/",
-      "ampWebUrl": "https://techcrunch.com/2020/02/12/fiddler-labs-sri-and-berkeley-experts-open-up-the-black-box-of-machine-learning-at-tc-sessions-roboticsai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/12/fiddler-labs-sri-and-berkeley-experts-open-up-the-black-box-of-machine-learning-at-tc-sessions-roboticsai/amp/",
-      "publishedDateTime": "2020-02-12T20:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/02/fiddler_images.png?w=1024",
-          "width": 1024,
-          "height": 558,
-          "title": "Fiddler Labs, SRI and Berkeley experts open up the black box of machine learning at TC Sessions: Robotics+AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-13-googles-autoflip-uses-ai-to-crop-videos-for-you.md",
-      "title": "Google’s AutoFlip uses AI to crop videos for you",
-      "excerpt": "By contrast, AutoFlip is completely automatic thanks to AI object detection and tracking technologies that intelligently understand video content. The system detects changes in the composition that signify scene changes in order to isolate scenes for processing. And within each shot, it uses video analysis to identify salient content before ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/13/googles-autoflip-automatically-crops-videos-using-ai/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/13/googles-autoflip-automatically-crops-videos-using-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/13/googles-autoflip-automatically-crops-videos-using-ai/amp/",
-      "publishedDateTime": "2020-02-13T12:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Google’s AutoFlip uses AI to crop videos for you",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-13-how-is-your-company-managing-its-ai-and-ml-initiatives.md",
-      "title": "How is your company managing its AI and ML initiatives?",
-      "excerpt": "SEE: Managing AI and ML in the enterprise 2019: Tech leaders expect more difficulty than previous ... Top cloud providers in 2020: AWS, Microsoft Azure, and Google Cloud, hybrid, SaaS players",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/how-is-your-company-managing-its-ai-and-ml-initiatives/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-is-your-company-managing-its-ai-and-ml-initiatives/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-is-your-company-managing-its-ai-and-ml-initiatives/",
-      "publishedDateTime": "2020-02-13T08:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/02/13/f81f1846-84ce-494a-9a0e-c7159a67b93d/resize/1200x/d0bec0400c685055c101739b762f68cb/ai-ml-1.jpg",
-          "width": 1200,
-          "height": 887,
-          "title": "How is your company managing its AI and ML initiatives?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-13-humanlike-ai-gimmick-or-glimpse-of-the-future.md",
       "title": "Humanlike AI: Gimmick Or Glimpse Of The Future?",
       "excerpt": "The future is likely to include AI assistants who not only look like us, but also sound like us and interact with us in very human ways.",
@@ -529,7 +348,7 @@
       "path": "_posts/2020-02-13-the-illusion-of-artificial-emotional-awareness.md",
       "title": "The Illusion of Artificial Emotional Awareness",
       "excerpt": "Welcome to the world of affective computing, also known as emotion AI. A relatively new branch of computer science ... Since writing Heart of the Machine: Our Future in a World of Artificial Emotional Intelligence, I’ve routinely had to explain that none of this technology is giving computers the ability to experience or understand emotions ...",
-      "heat": 162,
+      "heat": 152,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.psychologytoday.com/intl/blog/the-intelligence-report/202002/the-illusion-artificial-emotional-awareness",
@@ -763,7 +582,7 @@
       "path": "_posts/2020-02-13-xmos-unveils-xcoreai-a-powerful-chip-designed-for-ai-processing-at-the-edge.md",
       "title": "XMOS unveils Xcore.ai, a powerful chip designed for AI processing at the edge",
       "excerpt": "With seed funding from the University of Bristol enterprise fund and the Wyvern seed fund as well as Amadeus Capital Partners, DJF Espirit, and Foundation Capital, the startup set about developing processor technology ... spinning off its Graphcore division focused on server-side AI. The following three years culminated in the release of ...",
-      "heat": 125,
+      "heat": 155,
       "tags": null,
       "type": "article",
       "webUrl": "https://venturebeat.com/2020/02/12/xmos-unveils-xcore-ai-a-powerful-chip-designed-for-ai-processing-at-the-edge/",
@@ -846,7 +665,7 @@
       "path": "_posts/2020-02-14-ai-helps-diagnose-coronavirus.md",
       "title": "AI Helps Diagnose Coronavirus",
       "excerpt": "Medical workers on the front lines of the coronavirus outbreak are under pressure to quickly diagnose people who are infected. Experts say medical-imaging equipment embedded with artificial intelligence is starting to aid them in their work.",
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.wsj.com/articles/ai-helps-diagnose-coronavirus-11581676202",
@@ -2123,6 +1942,154 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-16-linking-sense-of-touch-to-facial-movement-inches-robots-toward-feeling-pain.md",
+      "title": "Linking sense of touch to facial movement inches robots toward ‘feeling’ pain",
+      "excerpt": "Such touchy-feely robots are still far off, but advances in robotic touch-sensing are bringing that possibility closer to reality. Sensors embedded in soft, artificial skin that can detect both a gentle touch and a painful thump have been hooked up to a robot that can then signal emotions, Minoru Asada reported February 15 at the annual meeting ...",
+      "heat": 101,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.sciencenews.org/article/robots-feel-pain-artificial-intelligence",
+      "ampWebUrl": "https://www.sciencenews.org/article/robots-feel-pain-artificial-intelligence/amp",
+      "cdnAmpWebUrl": "https://www-sciencenews-org.cdn.ampproject.org/c/s/www.sciencenews.org/article/robots-feel-pain-artificial-intelligence/amp",
+      "publishedDateTime": "2020-02-16T14:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science News",
+        "domain": "sciencenews.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.sciencenews.org/wp-content/uploads/2020/02/021420_ls_robot_feat.jpg",
+          "width": 1030,
+          "height": 580,
+          "title": "Linking sense of touch to facial movement inches robots toward ‘feeling’ pain",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-16-researchers-describe-a-brainy-approach-to-leverage-noise-for-better-neural-networks.md",
+      "title": "Researchers Describe a Brainy Approach to Leverage Noise For Better Neural Networks",
+      "excerpt": "Those who design deep neural networks for artificial intelligence often find inspiration in the human brain. One of the brain’s more important characteristics is that it is a “noisy” system: not every neuron contains perfect information that gets carried across a synapse with perfect clarity. Sometimes partial or conflicting information ...",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.noozhawk.com/article/researchers_describe_a_brainy_approach_to_leverage_noise_for_better_neural",
+      "ampWebUrl": "https://www.noozhawk.com/amp/researchers_describe_a_brainy_approach_to_leverage_noise_for_better_neural",
+      "cdnAmpWebUrl": "https://www-noozhawk-com.cdn.ampproject.org/c/s/www.noozhawk.com/amp/researchers_describe_a_brainy_approach_to_leverage_noise_for_better_neural",
+      "publishedDateTime": "2020-02-16T10:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Noozhawk",
+        "domain": "noozhawk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.noozhawk.com/images/made/images/uploads/021520-seaurchins-630_426_320_s.jpg",
+          "width": 426,
+          "height": 320,
+          "title": "Researchers Describe a Brainy Approach to Leverage Noise For Better Neural Networks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-16-these-custom-masks-may-not-beat-face-id-but-they-could-do-some-good.md",
+      "title": "These custom masks may not beat Face ID, but they could do some good",
+      "excerpt": "Baskin's viral tweet links to what appears to be a half-serious website that claims these masks can \"work with facial recognition software.\" That's not proven, though; Baskin even admitted on Twitter that she's testing the facial recognition claim. But the site also notes that these $40 masks \"are still in development.\" You might've heard ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://mashable.com/article/face-id-respirator-masks-resting-risk-face/",
+      "ampWebUrl": "https://mashable.com/article/face-id-respirator-masks-resting-risk-face.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/face-id-respirator-masks-resting-risk-face.amp",
+      "publishedDateTime": "2020-02-16T15:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F02%252F16%252F6d%252F2ecec0d02057407d895f43033b507547.b8a0a.jpg%252F1200x630.jpg?signature=v7L41m66b07-2EZTH4i5SqFM4xI=",
+          "width": 1200,
+          "height": 630,
+          "title": "These custom masks may not beat Face ID, but they could do some good",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-16-using-artificial-intelligence-to-create-killer-robots.md",
+      "title": "Using Artificial Intelligence to Create Killer Robots",
+      "excerpt": "We also meet Nobel Peace Prize winner Jody Williams, renowned physicist Max Tegmark, and others who grapple with the specter of artificial intelligence, killer robots, and a technological precedent forged in the atomic age. It’s a story about the evolving relationship between humans and robots, and what AI in machines bodes for the future of ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://24hourhiphop.com/hip-hop-videos/shows/viceland/new-and-popular-on-vice/using-artificial-intelligence-to-create-killer-robots/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-16T09:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "24hourhiphop.com",
+        "domain": "24hourhiphop.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://24hourhiphop.com/wp-content/uploads/2020/02/maxresdefault-312-1024x576.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": "Using Artificial Intelligence to Create Killer Robots",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

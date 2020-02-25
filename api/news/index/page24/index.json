@@ -2,6 +2,88 @@
   "page": 24,
   "value": [
     {
+      "path": "_posts/_archive/2020-02-04-facial-recognition-system-market-positive-long-term-growth-outlook-2019-2027.md",
+      "title": "Facial Recognition System Market Positive Long-term Growth Outlook 2019-2027",
+      "excerpt": "Facial recognition system is a combination of hardware and software, which identifies and verifies a person by comparing and analyzing the facial patterns of a person using deep learning. Moreover, facial recognition system is mainly used in security purposes,",
+      "heat": 136,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-system-market-positive-long-term-growth-outlook-2019-2027-2020-02-04",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-04T10:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Facial Recognition System Market Positive Long-term Growth Outlook 2019-2027",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-02-04-governments-ai-adviser-calls-for-crackdown-on-social-media-targeting.md",
+      "title": "Government’s AI adviser calls for crackdown on social media targeting",
+      "excerpt": "the government’s artificial intelligence (AI) adviser has warned. A report published today by the Centre for Data Ethics and Innovation (CDEI) called for tighter regulation of online targeting systems, which use personal information about users to decide which posts, videos and adverts to show them. An analysis of public attitudes towards ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cityam.com/governments-ai-adviser-calls-for-crackdown-on-social-media-targeting/",
+      "ampWebUrl": "https://www.cityam.com/governments-ai-adviser-calls-for-crackdown-on-social-media-targeting/amp/",
+      "cdnAmpWebUrl": "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/governments-ai-adviser-calls-for-crackdown-on-social-media-targeting/amp/",
+      "publishedDateTime": "2020-02-04T04:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "City A.M.",
+        "domain": "cityam.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.cityam.com/wp-content/uploads/2020/02/1172808215.jpg",
+          "width": 1024,
+          "height": 659,
+          "title": "Government’s AI adviser calls for crackdown on social media targeting",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-02-04-instagram-reportedly-generated-20-billion-in-ad-revenue-in-2019-even-more-than-youtube.md",
       "title": "Instagram reportedly generated $20 billion in ad revenue in 2019 — even more than YouTube",
       "excerpt": "We finally know just how crucial Instagram is to the future of Facebook's business.",
@@ -2010,96 +2092,6 @@
           "width": 1200,
           "height": 600,
           "title": "Amazon researchers distill knowledge from a large AI model to a simplified version",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-02-06-artificial-intelligence-ai-in-social-media-market-briefing-technology-advancement-and-future-scope-till-2025.md",
-      "title": "Artificial Intelligence (AI) in Social Media Market Briefing, Technology Advancement and Future Scope Till 2025",
-      "excerpt": "The AI Market in Social Media valued at USD 815.33 million in 2019 and is expected to reach USD 3,714.89 million by 2025, recording a CAGR of 28.77%, during the forecast period of 2020-2025. Social media has become one of the primary sources of customer intelligence data.",
-      "heat": 106,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-social-media-market-briefing-technology-advancement-and-future-scope-till-2025-2020-02-06",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-06T01:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence (AI) in Social Media Market Briefing, Technology Advancement and Future Scope Till 2025",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-02-06-artificial-intelligence-tool-created-to-predict-the-structure-of-the-universe-and-unlock-the-mysteries-of-dark-energy.md",
-      "title": "Artificial Intelligence Tool Created to Predict the Structure of the Universe and Unlock the Mysteries of Dark Energy",
-      "excerpt": "The AI tool could play a role in studying the nature of dark energy and dark matter, which seems to make up a large amount of the universe but remains an enigma, researchers said.",
-      "heat": 164,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.newsweek.com/artificial-intelligence-dark-emulator-universe-structure-dark-energy-dark-matter-research-1486033",
-      "ampWebUrl": "https://www.newsweek.com/artificial-intelligence-dark-emulator-universe-structure-dark-energy-dark-matter-research-1486033?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/artificial-intelligence-dark-emulator-universe-structure-dark-energy-dark-matter-research-1486033?amp=1",
-      "publishedDateTime": "2020-02-06T03:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1565487/milky-ways-galactic-centre.jpg",
-          "width": 2500,
-          "height": 1679,
-          "title": "Artificial Intelligence Tool Created to Predict the Structure of the Universe and Unlock the Mysteries of Dark Energy",
           "attribution": null
         }
       ],

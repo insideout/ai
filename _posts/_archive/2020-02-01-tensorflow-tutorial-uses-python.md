@@ -5,8 +5,8 @@ excerpt: "There’s been a lot of renewed interest in the topic recently because
 publishedDateTime: 2020-02-01T00:00:00Z
 webUrl: "https://hackaday.com/2017/11/25/tensorflow-tutorial-uses-python/"
 type: article
-quality: 19
-heat: 19
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -17,6 +17,12 @@ topics:
   - AI
   - Google AI
 
-secured: "nR4m04SaHG+8CKIXzHjaeP1/rxOI7puonnkZBYXeAAJdoemDno4iqqyCDmP6W8MEKMOtlEI/EyeKo7tLp/orJD8AXIU8rXGt1xstDhymfIf1x4IMmhzm/T0XKSZFAEpAZYIdwjLH30x/wMzpP918r/IVis2SyoEehIevBUZ6dg/NqpT6pAG6cDt0GIqmNfcWM3FaEopRkaqA95z3axsAAiaN/l+pfyklpAeCU0Pe93ORNyYKnLbLdoBEZb2c+Se5cIXyOI/1rWcVlQkgT3bz15JJ/LJ3vIMUTZ0elGw8JuG2JIEtaOmkFDoK1tJgcQkU;DHDSP0rctsLQykVh+RMpcQ=="
+images:
+  - url: "https://hackaday.com/wp-content/uploads/2020/02/amp-android-electic-electricite-2829152-thumb.jpg?w=600&#038;h=600"
+    width: 600
+    height: 600
+    title: "Tensorflow Tutorial Uses Python"
+
+secured: "MKLPgj6e/Fy4L9skBsXwsDGr4Wt4aQlAqFCW+7YAcyN3Vawv0p3JWcFs0wzjjAlz6J2xq+/g9y9fbDJt1UBGMWsh4vqnmaljY/frI2OzpYCmShdLMGtQMFVzZDFM6+6VbnLwxL73JFf3DgW5ZN0Pzy+TXk4gS5/NpxS/oeSlHlI0rhet8oDRQi3+3sDqq51yB+XWvgERUDylPMmaxCsI9I/087ANTOqu4qVTZ6EDnkW/kA5v1TXYkuxa+x9Lbz1SbSh8QYh7SRq/TvH59jitwwsk4ZDUF83J46iS65mYCTDDeQfIjVSndSzaHI6mYdd+;wRG73nc/G3wgfyBABHeVJQ=="
 ---
 

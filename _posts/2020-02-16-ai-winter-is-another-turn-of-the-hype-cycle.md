@@ -42,7 +42,11 @@ related:
     provider:
       name: Gulf Business
       domain: gulfbusiness.com
-    quality: 34
+    quality: 54
+    images:
+      - url: "https://gulfbusiness.com/wp-content/uploads/2018/09/GettyImages-836405266.jpg"
+        width: 800
+        height: 482
 
 secured: "8CWSBEyL7nZq5GOSKIkzrpkDEApYeGrwv9mY5o61MAIgWJ3foleo2GJNoHbaV6249sSVjCvZjvKh+/OGK+ls6k4rHcH800Nfn+TYxmTQpfJwKi13gx/N+Npz39J95mbAjS7cspr4htXfSUy/PRyokIyBTM26CsvKA/e3bjTOZp7LzylX5QCOmIHm6PGAV/j0TWQgNitLlDXX5otX8YDZNoi+wYpNyksrvEaUWLHAvZbjFODuA6GDHZIt0f9KbBdoVawNkpn0yCHYdIQWCiVybcNKhmU5lAUsQUWteWj9VoPYn6T8r3qCzpI2fds41uYX;R8R0mBengAdRoKghWOt5qQ=="
 ---

@@ -2,140 +2,6 @@
   "page": 19,
   "value": [
     {
-      "path": "_posts/_archive/2020-01-27-4-days-left-to-save-150-on-tickets-to-tc-sessions-robotics-ai-2020.md",
-      "title": "4 days left to save $150 on tickets to TC Sessions: Robotics + AI 2020",
-      "excerpt": "There’s plenty more waiting for you, including the finalists of our first Pitch Night. This group of intrepid robotics and AI startup founders made the cut (10 teams will pitch the night before the conference at a private event). The finalists will pitch again at the conference from the Main Stage. Think your startup has what it takes to ...",
-      "heat": 171,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/01/27/4-days-left-to-save-150-on-tickets-to-tc-sessions-robotics-ai-2020/",
-      "ampWebUrl": "https://techcrunch.com/2020/01/27/4-days-left-to-save-150-on-tickets-to-tc-sessions-robotics-ai-2020/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/27/4-days-left-to-save-150-on-tickets-to-tc-sessions-robotics-ai-2020/amp/",
-      "publishedDateTime": "2020-01-27T07:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/01/robotics_countdown_4.png?w=1024",
-          "width": 1024,
-          "height": 562,
-          "title": "4 days left to save $150 on tickets to TC Sessions: Robotics + AI 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-27-8-misleading-ai-myths-and-the-realities-behind-them.md",
-      "title": "8 misleading AI myths — and the realities behind them",
-      "excerpt": "The fact is, much of the fear around AI comes from overactive imaginations that machines will mimic our own bad behavior. Skynet aside, there are some rational questions and answers to be had. So let’s break down the myths and realities around AI and all of its offshoots, like machine learning and deep learning. This is the single greatest ...",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.infoworld.com/article/3514577/8-misleading-ai-myths-and-the-realities-behind-them.html",
-      "ampWebUrl": "https://www.infoworld.com/article/3514577/8-misleading-ai-myths-and-the-realities-behind-them.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3514577/8-misleading-ai-myths-and-the-realities-behind-them.amp.html",
-      "publishedDateTime": "2020-01-27T03:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/01/ifw_hal9000_red_optical_sensor_lens_eye_by_cryteria_cc_by_3-0_fractal_background_by_garik_barseghyan_aka_insspirito_cc0_via_pixabay-100827763-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "8 misleading AI myths — and the realities behind them",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-27-ai-accurately-predicts-billie-eilish-bad-guy-grammy-win.md",
-      "title": "AI accurately predicts Billie Eilish 'bad guy' Grammy win",
-      "excerpt": "Lil Nas X was nominated six times and walked away with two wins, according to CBS. Taylor Larkin, a data scientist with the company, used the DataRobot enterprise AI platform to predict the winners for song and record of the year. DataRobot leverages machine-learning models to learn from the past to predict the future. \"For Grammy ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/ai-accurately-predicts-billie-eilish-bad-guy-grammy-win/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-accurately-predicts-billie-eilish-bad-guy-grammy-win/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-accurately-predicts-billie-eilish-bad-guy-grammy-win/",
-      "publishedDateTime": "2020-01-27T11:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/01/27/35f461af-b2cc-4f4f-8dee-22ac1ed6bb35/resize/1200x/24932119221d74ceb8807e3600f33dc0/billie-eilish-and-finneas-oconnell.jpg",
-          "width": 1200,
-          "height": 729,
-          "title": "AI accurately predicts Billie Eilish 'bad guy' Grammy win",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-01-27-ai-can-help-cancer-patients-start-radiation-therapy-sooner.md",
       "title": "AI can help cancer patients start radiation therapy sooner",
       "excerpt": "Artificial intelligence can help cancer patients start their radiation therapy sooner - and thereby decrease the odds of the cancer spreading - by instantly translating complex clinical data into ...",
@@ -1241,12 +1107,12 @@
       "path": "_posts/_archive/2020-01-27-the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it.md",
       "title": "The US Army uses facial recognition to train AI. Now, it needs to protect it",
       "excerpt": "Facial and object recognition technologies are used by the US Army to train artificial intelligence (AI) systems used in unmanned aerial vehicles (UAVs), surveillance systems, and more.",
-      "heat": 71,
+      "heat": 111,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.zdnet.com/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/",
       "publishedDateTime": "2020-01-27T03:21:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -1264,7 +1130,15 @@
         "publishers": null,
         "authors": null
       },
-      "images": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2019/12/16/35ee7b2b-7adc-4a8f-9a42-034997586ff6/thumbnail/1200x675/29e6b7ba24c8774ada650245cc7c7ba7/san-diego-to-suspend-facial-recognition-5df3b0c7aaacb30001a11066-1-dec-16-2019-22-49-36-poster.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "The US Army uses facial recognition to train AI. Now, it needs to protect it",
+          "attribution": null
+        }
+      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -2155,6 +2029,140 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-28-facial-recognition-startup-clearview-ai-is-struggling-to-address-complaints-as-its-legal-issues-mount.md",
+      "title": "Facial Recognition Startup Clearview AI Is Struggling To Address Complaints As Its Legal Issues Mount",
+      "excerpt": "One of Clearview AI's investors defended the company, “We do not have to be hidden to be free.” By Ryan Mac and Caroline Haskins and Logan McDonald Posted on January 28, 2020, at 3:34 p.m. ET A screenshot of Clearview's search results. Clearview AI, the facial recognition company that claims to have amassed a database of more than 3 billion ...",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.buzzfeednews.com/article/ryanmac/clearview-ai-cops-run-wild-facial-recognition-lawsuits",
+      "ampWebUrl": "https://www.buzzfeednews.com/amphtml/ryanmac/clearview-ai-cops-run-wild-facial-recognition-lawsuits",
+      "cdnAmpWebUrl": "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/ryanmac/clearview-ai-cops-run-wild-facial-recognition-lawsuits",
+      "publishedDateTime": "2020-01-28T12:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BuzzFeed News",
+        "domain": "buzzfeednews.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/buzzfeednews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-01/27/16/campaign_images/5ec0c13d1ba4/20-cashmere-things-so-soft-you-might-want-to-splu-2-326-1580142937-2_dblbig.jpg",
+          "width": 625,
+          "height": 415,
+          "title": "Facial Recognition Startup Clearview AI Is Struggling To Address Complaints As Its Legal Issues Mount",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-28-five-reasons-you-really-dont-want-to-miss-techcrunchs-ai-and-robotics-show-on-march-3.md",
+      "title": "Five reasons you (really) don’t want to miss TechCrunch’s AI and Robotics show on March 3",
+      "excerpt": "TechCrunch’s fourth Robotics and AI show is coming up on March 3 at UC Berkeley’s Zellerbach Hall. If past experience is any guide, the show is sure to draw a big crowd (cheap student rates here!) but there’s still time to grab a pass. If you’re wondering why you want to take a day out to catch a full day of interviews and audience Q&A ...",
+      "heat": 78,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/01/28/five-reasons-you-really-dont-want-to-miss-techcrunchs-ai-and-robotics-show-on-march-3/",
+      "ampWebUrl": "https://techcrunch.com/2020/01/28/five-reasons-you-really-dont-want-to-miss-techcrunchs-ai-and-robotics-show-on-march-3/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/28/five-reasons-you-really-dont-want-to-miss-techcrunchs-ai-and-robotics-show-on-march-3/amp/",
+      "publishedDateTime": "2020-01-28T13:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/01/5.png?w=1024",
+          "width": 1024,
+          "height": 562,
+          "title": "Five reasons you (really) don’t want to miss TechCrunch’s AI and Robotics show on March 3",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-28-general-motors-to-build-cruise-origin-electric-self-driving-shuttle-electric-trucks-in-detroit.md",
+      "title": "General Motors to build Cruise Origin electric self-driving shuttle, electric trucks in Detroit",
+      "excerpt": "The facility has been earmarked to build several all-electric models, starting with a pickup in late 2021. The plant was previously the home of the discontinued Chevrolet Volt plug-in hybrid and currently produces the Cadillac CT6 and Chevrolet Impala, which will bill both end production in February. Batteries for all of the vehicles will be ...",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.foxnews.com/auto/general-motors-cruise-origin-driving-shuttle-detroit",
+      "ampWebUrl": "https://www.foxnews.com/auto/general-motors-cruise-origin-driving-shuttle-detroit.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/general-motors-cruise-origin-driving-shuttle-detroit.amp",
+      "publishedDateTime": "2020-01-28T09:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/640/320/origin-3.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": "General Motors to build Cruise Origin electric self-driving shuttle, electric trucks in Detroit",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
       ]
     }
   ],

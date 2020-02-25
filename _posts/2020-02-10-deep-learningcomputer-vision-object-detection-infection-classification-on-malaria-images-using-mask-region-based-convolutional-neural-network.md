@@ -42,21 +42,6 @@ related:
       name: Psychology Today
       domain: psychologytoday.com
     quality: 122
-  - title: "How The Expansion Of Artificial Neural Networks Can Drive Your Business"
-    excerpt: "ANN is basically the framework for letting many different machine learning algorithms work together to process very complex operations."
-    publishedDateTime: 2020-02-10T13:05:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2020/02/10/how-the-expansion-of-artificial-neural-networks-can-drive-your-business/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2020/02/10/how-the-expansion-of-artificial-neural-networks-can-drive-your-business/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/02/10/how-the-expansion-of-artificial-neural-networks-can-drive-your-business/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1152157066/960x0.jpg?fit=scale"
-        width: 711
-        height: 474
   - title: "Artificial Solutions and Blue Prism Partner to Add Conversational AI to Business Automations"
     excerpt: "About Artificial Solutions Artificial Solutions® is the leading specialist in enterprise-strength conversational AI, a form of Artificial Intelligence that allows people to communicate with applications, websites and devices in everyday, humanlike natural language via voice, text, touch or gesture input. Designed for the global enterprise ..."
     publishedDateTime: 2020-02-12T07:42:00Z

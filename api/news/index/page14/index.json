@@ -2,175 +2,6 @@
   "page": 14,
   "value": [
     {
-      "path": "_posts/_archive/2020-01-16-senate-bill-aims-to-funnel-billions-more-to-ai-quantum-rd-efforts.md",
-      "title": "Senate Bill Aims to Funnel Billions More to AI, Quantum R&D Efforts",
-      "excerpt": "A bill introduced in the Senate this week aims to steer tens of billions of new funding toward civilian Federal government research and development efforts involving “industries of the future” including artificial intelligence (AI) and quantum information science ... of those Federal investments in R&D “with complimentary investments ...",
-      "heat": 137,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.meritalk.com/articles/senate-bill-aims-to-funnel-billions-more-to-ai-quantum-rd-efforts/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-16T06:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MeriTalk",
-        "domain": "meritalk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.meritalk.com/wp-content/uploads/2019/01/shutterstock_1186368289-min.jpg",
-          "width": 800,
-          "height": 450,
-          "title": "Senate Bill Aims to Funnel Billions More to AI, Quantum R&D Efforts",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-16-the-10-most-important-skills-youll-need-to-nail-a-high-paying-job-in-2020.md",
-      "title": "The 10 most important skills you'll need to nail a high-paying job in 2020",
-      "excerpt": "New skills like learning blockchain, the technology that enables cryptocurrency, and affiliate marketing, made the list for the first time.",
-      "heat": 67,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/the-most-in-demand-job-skills-linkedin-hiring",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-16T05:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5e1f41edf4423136864a9684?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "The 10 most important skills you'll need to nail a high-paying job in 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-16-the-dark-side-of-deepfake-artificial-intelligence-and-virtual-influencers.md",
-      "title": "The Dark Side Of Deepfake Artificial Intelligence And Virtual Influencers",
-      "excerpt": "These technologies touch on a variety of legal and ethical concerns that the business community should take notice of.",
-      "heat": 96,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/01/16/the-dark-side-of-deepfake-artificial-intelligence-and-virtual-influencers/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/01/16/the-dark-side-of-deepfake-artificial-intelligence-and-virtual-influencers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/01/16/the-dark-side-of-deepfake-artificial-intelligence-and-virtual-influencers/amp/",
-      "publishedDateTime": "2020-01-16T07:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x474/https://blogs-images.forbes.com/forbesbusinesscouncil/files/2020/01/erik-lucatero-VcOwZMahmCQ-unsplash-1200x800.jpg?width=960",
-          "width": 711,
-          "height": 474,
-          "title": "The Dark Side Of Deepfake Artificial Intelligence And Virtual Influencers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-16-the-defining-moments-of-ibm-watson-last-decade.md",
-      "title": "The defining moments of IBM Watson last decade",
-      "excerpt": "Unveiled to the world just under a decade ago, today, IBM Watson is being used by millions of people in thousands of different ways to unlock the value of data in new and profound ways. Across countless industries, Watson is helping businesses around the world harness their data, increase productivity,",
-      "heat": 117,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.ibm.com/blogs/watson/2020/01/the-defining-moments-of-ibm-watson-last-decade/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-16T11:18:53-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/01/Year-In-Review_Image-Header_1.16.2020-990x498.jpg",
-          "width": 990,
-          "height": 498,
-          "title": "The defining moments of IBM Watson last decade",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-01-16-the-next-iphone-will-have-an-advanced-camera-that-can-scan-3-d-objects-barclays-says.md",
       "title": "The next iPhone will have an advanced camera that can scan 3-D objects, Barclays says",
       "excerpt": "Barclays semiconductor analysts on Thursday said Apple's 2020 iPhones will have a refreshed version of Face ID and new time of flight camera sensors. The sensors could be used to improve portrait pictures and augmented reality apps.",
@@ -2146,6 +1977,186 @@
       "topics": [
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-18-apples-latest-ai-acquisition-is-a-glimpse-into-future-devices.md",
+      "title": "Apple’s Latest AI Acquisition Is A Glimpse Into Future Devices",
+      "excerpt": "Apple's latest startup purchase is one of many, but it also gives us a glimpse into the company’s thinking when it comes to future devices.",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/jaymcgregor/2020/01/18/apples-latest-ai-acquisition-is-a-glimpse-into-future-devices/",
+      "ampWebUrl": "https://www.forbes.com/sites/jaymcgregor/2020/01/18/apples-latest-ai-acquisition-is-a-glimpse-into-future-devices/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jaymcgregor/2020/01/18/apples-latest-ai-acquisition-is-a-glimpse-into-future-devices/amp/",
+      "publishedDateTime": "2020-01-18T08:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F916301868%2F0x0.jpg",
+          "width": 1200,
+          "height": 802,
+          "title": "Apple’s Latest AI Acquisition Is A Glimpse Into Future Devices",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-18-artificial-intelligence-cant-get-here-soon-enough-executives-say.md",
+      "title": "Artificial Intelligence Can’t Get Here Soon Enough, Executives Say",
+      "excerpt": "Seven in ten executives across a range of industries wish their organizations would get more aggressive in adopting AI technology",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2020/01/17/artificial-intelligence-cant-get-here-soon-enough-executives-say/",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2020/01/17/artificial-intelligence-cant-get-here-soon-enough-executives-say/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2020/01/17/artificial-intelligence-cant-get-here-soon-enough-executives-say/amp/",
+      "publishedDateTime": "2020-01-17T21:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e212af6980ca10006aa9f5b%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Artificial Intelligence Can’t Get Here Soon Enough, Executives Say",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-18-deep-tech-vcs-on-what-they-view-as-some-of-the-most-impactful-young-startups-right-now.md",
+      "title": "Deep tech VCs on what they view as some of the most impactful young startups right now",
+      "excerpt": "The reason: they both invest in so-called deep tech, and they meet routinely with startups whose central focus is ... Siraj Khaliq is a partner at the global venture firm Atomico, where he tries to find world-changing startups that are enabled by machine learning, AI, and computer vision. He has strong experience in the area, having cofounded ...",
+      "heat": 66,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/01/17/deep-tech-vcs-on-what-they-view-as-some-of-the-most-impactful-young-startups-right-now/",
+      "ampWebUrl": "https://techcrunch.com/2020/01/17/deep-tech-vcs-on-what-they-view-as-some-of-the-most-impactful-young-startups-right-now/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/17/deep-tech-vcs-on-what-they-view-as-some-of-the-most-impactful-young-startups-right-now/amp/",
+      "publishedDateTime": "2020-01-17T22:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2018/07/space.jpg?w=1024",
+          "width": 1024,
+          "height": 649,
+          "title": "Deep tech VCs on what they view as some of the most impactful young startups right now",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-18-geekwire-podcast-apple-acquires-xnorai-microsofts-bold-climate-plan-seattle-startup-trivia.md",
+      "title": "GeekWire Podcast: Apple acquires Xnor.ai; Microsoft’s bold climate plan; Seattle startup trivia",
+      "excerpt": "This week on the GeekWire Podcast: Apple doubled down on artificial intelligence and boosted its presence in Seattle with the acquisition of Xnor.ai, an Allen Institute for Artificial Intelligence ... but it’s also an example of an ambitious startup selling to a tech giant before it has the chance to become one itself. So how should we ...",
+      "heat": 85,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geekwire.com/2020/geekwire-podcast-apple-acquires-xnor-ai-microsofts-bold-climate-plan-seattle-startup-trivia/",
+      "ampWebUrl": "https://www.geekwire.com/2020/geekwire-podcast-apple-acquires-xnor-ai-microsofts-bold-climate-plan-seattle-startup-trivia/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/geekwire-podcast-apple-acquires-xnor-ai-microsofts-bold-climate-plan-seattle-startup-trivia/amp/",
+      "publishedDateTime": "2020-01-18T10:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2019/11/geekwirelogo121518-1260x1260.png",
+          "width": 1260,
+          "height": 1260,
+          "title": "GeekWire Podcast: Apple acquires Xnor.ai; Microsoft’s bold climate plan; Seattle startup trivia",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

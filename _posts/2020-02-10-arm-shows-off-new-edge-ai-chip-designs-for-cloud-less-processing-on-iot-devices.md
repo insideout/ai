@@ -24,35 +24,20 @@ images:
     title: "ARM shows off new Edge AI chip designs for cloud-less processing on IoT devices"
 
 related:
-  - title: "ARM’s new edge AI chips promise IoT devices that won’t need the cloud"
-    excerpt: "Edge AI is one of the biggest trends in chip technology. These are chips that run AI processing on the edge — or, in other words, on a device without a cloud connection. Apple recently bought a company that specializes in it, Google’s Coral initiative is meant to make it easier, and chipmaker ARM has already been working on it for years."
-    publishedDateTime: 2020-02-10T14:00:00Z
-    webUrl: "https://www.theverge.com/2020/2/10/21130800/arm-new-edge-ai-chips-processing-npu-cortex-m55-u55-iot"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2020/2/10/21130800/arm-new-edge-ai-chips-processing-npu-cortex-m55-u55-iot"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/10/21130800/arm-new-edge-ai-chips-processing-npu-cortex-m55-u55-iot"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 204
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/-rDHx30xs1UWS9j8noL2vBx-200=/0x0:814x458/1400x933/filters:focal(342x164:472x294):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66283236/InfographicPreview.0.0.jpg"
-        width: 814
-        height: 458
-  - title: "Arm unveils 2 new AI edge computing chips"
-    excerpt: "It today announced two new AI-capable processors — the Arm Cortex-M55 and Ethos-U55, a neural processing unit (NPU) — designed for internet of things (IoT) endpoint devices, alongside supporting software libraries, toolchains, and models. The company claims that the two chips, which are expected to arrive in market in early 2021 ..."
-    publishedDateTime: 2020-02-10T14:00:00Z
-    webUrl: "https://venturebeat.com/2020/02/10/arm-unveils-2-new-ai-edge-computing-chips/"
-    ampWebUrl: "https://venturebeat.com/2020/02/10/arm-unveils-2-new-ai-edge-computing-chips/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/10/arm-unveils-2-new-ai-edge-computing-chips/amp/"
+  - title: "XMOS unveils Xcore.ai, a powerful chip designed for AI processing at the edge"
+    excerpt: "With seed funding from the University of Bristol enterprise fund and the Wyvern seed fund as well as Amadeus Capital Partners, DJF Espirit, and Foundation Capital, the startup set about developing processor technology ... spinning off its Graphcore division focused on server-side AI. The following three years culminated in the release of ..."
+    publishedDateTime: 2020-02-13T04:54:00Z
+    webUrl: "https://venturebeat.com/2020/02/12/xmos-unveils-xcore-ai-a-powerful-chip-designed-for-ai-processing-at-the-edge/"
+    ampWebUrl: "https://venturebeat.com/2020/02/12/xmos-unveils-xcore-ai-a-powerful-chip-designed-for-ai-processing-at-the-edge/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/12/xmos-unveils-xcore-ai-a-powerful-chip-designed-for-ai-processing-at-the-edge/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 106
+    quality: 105
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/10/segars-2-e1580937121468.jpg?fit=1203%2C600&strip=all"
-        width: 1203
+      - url: "https://venturebeat.com/wp-content/uploads/2019/07/blockchain_database-e1573158651295.jpg?fit=1200%2C600&strip=all"
+        width: 1200
         height: 600
   - title: "ARM shows off new Edge AI chip designs for cloud-less processing on IoT devices"
     excerpt: "Chipmaker ARM has announced two new chip designs for AI processing, focused particularly on the internet of things (IoT) devices. The new designs- the ARM Cortex-M55 and Ethos-U55 are based on Edge AI technology, which basically means processing on a device without a cloud connection, The Verge reports. The ARM Cortex-M55 promises up to 15x ..."
@@ -84,60 +69,24 @@ related:
       - url: "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-c6vcqtlfu5qn38at3rp993fd81-20200213084133.Medi.jpeg"
         width: 800
         height: 448
-  - title: "Arm launches new AI chip for small devices and sensors"
-    excerpt: "Chips with this technology are scheduled to hit the market in 2021 and have been designed to carry out the advanced mathematics needed by artificial intelligence (AI) software in order to detect vibrations or pick out spoken keywords from a user."
-    publishedDateTime: 2020-02-10T17:15:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2020/02/arm-launches-new-ai-chip-for-small-devices-and-sensors/"
+  - title: "Arm unveils AI chip for small devices"
+    excerpt: "The chips require little electricity or internet connections and aim to bring AI functions to small devices like sensors that detect human speech. Arm sees Cortex M55 fitting into markets like health care, where data needs to be stored locally. Chips with the tech will hit the market next year."
+    publishedDateTime: 2020-02-10T14:53:00Z
+    webUrl: "https://seekingalpha.com/news/3540046-arm-unveils-ai-chip-for-small-devices"
     type: article
     provider:
-      name: IET
-      domain: theiet.org
-    quality: 54
-    images:
-      - url: "https://eandt.theiet.org/media/10578/arm-ai-chip-business.jpg?crop=0,0.385,0.0000000000000015158245029549,0.12281250000000059&cropmode=percentage&width=1200&height=450&rnd=132258279820000000"
-        width: 1200
-        height: 450
-  - title: "Arm Ltd to launch new AI chip for small devices"
-    excerpt: "Chips with the technology will hit the market in 2021 and aim to carry out the special kinds of math needed by artificial intelligence (AI) software that can detect vibrations or pick out spoken keywords from a user. The chips are designed to function with very low amounts of electricity. That allows devices such as sensors to last for years at ..."
-    publishedDateTime: 2020-02-10T20:16:00Z
-    webUrl: "https://www.itnews.com.au/news/arm-ltd-to-launch-new-ai-chip-for-small-devices-537779"
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 34
+  - title: "Intel Angling for Piece of Self-Driving Market with New Processors"
+    excerpt: "Intel Corp., trying to convert its dominance of computers into a stake in the growing market for chips used in cars, is offering automakers new products aimed at making its technology crucial to the effort to develop self-driving vehicles. ‘Intel Go’ will feature processors ranging from its smallest Atom chips all the way up to its most ..."
+    publishedDateTime: 2020-02-12T20:51:00Z
+    webUrl: "https://www.industryweek.com/technology-and-iiot/emerging-technologies/article/21998371/intel-angling-for-piece-of-selfdriving-market-with-new-processors"
     type: article
     provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 54
-    images:
-      - url: "https://i.nextmedia.com.au/News/ARM_ltd.PNG"
-        width: 955
-        height: 489
-  - title: "Arm’s new Cortex and Ethos chips promise up to 480x faster AI for IoT devices"
-    excerpt: "The microcontroller, the Cortex-M55, joins the company’s ubiquitous Cortex-M family of processor designs. Arm said the chip will provide more AI performance than any other product in the series. Cambridge, U.K.-based Arm doesn’t make any chips itself but rather sells blueprints under license to semiconductor manufacturers. The Cortex-M ..."
-    publishedDateTime: 2020-02-10T14:21:00Z
-    webUrl: "https://siliconangle.com/2020/02/10/arms-new-cortex-m55-ethos-u55-chips-promise-x480-faster-ai-iot-devices/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 51
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/02/arm.png"
-        width: 718
-        height: 400
-  - title: "Edgy: Arm's new AI processor can be strapped to Cortex-M CPUs for a boost to IoT workloads"
-    excerpt: "The initial deep-learning system can be written in any framework as long as it can be converted to run on TensorFlow Lite or PyTorch Mobile for the microNPU. These are both popular languages to process machine-learning workloads on edge devices, something Arm calls \"endpoint AI\", such as microcontrollers, cameras or sensors. \"Enabling AI ..."
-    publishedDateTime: 2020-02-10T14:10:00Z
-    webUrl: "https://www.theregister.co.uk/2020/02/10/arm_cortex_m_ai_accelerator/"
-    ampWebUrl: "https://www.theregister.co.uk/AMP/2020/02/10/arm_cortex_m_ai_accelerator/"
-    cdnAmpWebUrl: "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/02/10/arm_cortex_m_ai_accelerator/"
-    type: article
-    provider:
-      name: The Register
-      domain: theregister.co.uk
-    quality: 49
-    images:
-      - url: "https://regmedia.co.uk/2019/08/19/chip_shutterstock.jpg"
-        width: 648
-        height: 365
+      name: IndustryWeek
+      domain: industryweek.com
+    quality: 4
 
 secured: "05UfYUjjSCVHpqJnDBhXYc6N3i970OplwtP0Fn2oXsMzE3N+Q8tO2q7uYn6KiHfwmf7N9DTZlwG2dzDqqE3f4i1N7S/Xlb9jmcPgDCkjg+5rkfwRHHK4uFDSuag0EKfjktYp0UJH5FhD72BOPX1hR8pdhriC15XQx9SK3Fbz56l8O0TQ4Vhbu7y4D7pvOT3zm1BjzJUJ5SbOAkm+b+/6hXvmCJP7/ZjQfwQEq3P7qomk0Js20A37bRH5GQbTQoBjh5GzvDJuYVYnpdKsAVrmBZOOMM5vMAg3MCCoK7ok+hsKj4RZTVBVy4D1ItD6Nzbo;J8YsdOk0Y6tQ+X/W2N9guQ=="
 ---

@@ -2,6 +2,189 @@
   "page": 26,
   "value": [
     {
+      "path": "_posts/_archive/2020-02-07-geek-of-the-week-trupanions-david-jaw-uses-machine-learning-to-help-facilitate-better-pet-care.md",
+      "title": "Geek of the Week: Trupanion’s David Jaw uses machine learning to help facilitate better pet care",
+      "excerpt": "As the leader of the data science department at Trupanion in Seattle, David Jaw’s projects are actually around pets. Jaw, GeekWire’s latest Geek of the Week, uses artificial intelligence and machine learning to help automate medical insurance claims for pets, streamlining the process and removing the worry about what’s covered and what ...",
+      "heat": 78,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geekwire.com/2020/david-jaw-2/",
+      "ampWebUrl": "https://www.geekwire.com/2020/david-jaw-2/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/david-jaw-2/amp/",
+      "publishedDateTime": "2020-02-07T14:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/02/hank_home_011-630x511.jpg",
+          "width": 630,
+          "height": 511,
+          "title": "Geek of the Week: Trupanion’s David Jaw uses machine learning to help facilitate better pet care",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-02-07-growth-within-limits-us-based-cloud-service-provider-1q-earnings.md",
+      "title": "Growth Within Limits: US-Based Cloud Service Provider 1Q Earnings",
+      "excerpt": "Perhaps Microsoft can follow by doing the same ... former head of IBM’s Cloud and Cognitive Services business, to CEO as Ginni Rommetty retires. Mr. Krishna is credited with a leadership role ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/paulteich/2020/02/07/growth-within-limits-us-based-cloud-service-provider-1q-earnings/",
+      "ampWebUrl": "https://www.forbes.com/sites/paulteich/2020/02/07/growth-within-limits-us-based-cloud-service-provider-1q-earnings/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paulteich/2020/02/07/growth-within-limits-us-based-cloud-service-provider-1q-earnings/amp/",
+      "publishedDateTime": "2020-02-07T07:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e3d7b0d3738f500063f272c%2F0x0.jpg%3FcropX1%3D6%26cropX2%3D1142%26cropY1%3D0%26cropY2%3D640",
+          "width": 1137,
+          "height": 640,
+          "title": "Growth Within Limits: US-Based Cloud Service Provider 1Q Earnings",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-02-07-how-to-learn-pytorch-a-resources-guide-for-developers.md",
+      "title": "How to learn PyTorch: A resources guide for developers",
+      "excerpt": "Developed by Facebook, PyTorch is similar to Google's TensorFlow in that it runs on tensors, but instead of using static computation graphs like TensorFlow, it utilizes dynamic computation graphs. If you are interested in learning PyTorch, the following list of resources can help you get started. SEE: Hiring kit: Python developer ...",
+      "heat": 78,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/how-to-learn-pytorch-a-resources-guide-for-developers/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-to-learn-pytorch-a-resources-guide-for-developers/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-to-learn-pytorch-a-resources-guide-for-developers/",
+      "publishedDateTime": "2020-02-07T11:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/02/05/82457267-972f-48c8-ad24-3542a0ef2f87/resize/1200x/bbccae6b5e2cb340e005046ffae1dcf0/istock-1169711450.jpg",
+          "width": 1200,
+          "height": 718,
+          "title": "How to learn PyTorch: A resources guide for developers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI",
+        "Microsoft AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-02-07-machine-learning-infrastructure-terraforming-sagemaker-part-1.md",
+      "title": "Machine Learning Infrastructure ~Terraforming SageMaker Part 1~",
+      "excerpt": "The MLOps cover these areas mainly: Amazon SageMaker is AWS based machine learning platform that enables developers to build machine learning models, train data, deploy an inference point on the ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/@yuyasugano/machine-learning-infrastructure-terraforming-sagemaker-part-1-e5e22e368248",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-07T14:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/765/1*ZdKHNcpoyZaePOlGoy4Qlg.png",
+          "width": 765,
+          "height": 436,
+          "title": "Machine Learning Infrastructure ~Terraforming SageMaker Part 1~",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-02-07-natural-language-processing-market-2020-precise-outlook-apple-dolbey-systems-google-microsof-verint.md",
       "title": "Natural Language Processing Market 2020 Precise Outlook - Apple, Dolbey Systems, Google, Microsof, Verint",
       "excerpt": "The Natural Language Processing Market report is a compilation of first-hand information, qualitative and quantitative assessment by industry analysts, inputs from industry experts and industry participants across the value chain.",
@@ -170,6 +353,51 @@
       "topics": [
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-02-07-tensorflow-21-running-on-gpu-ubuntu-1804.md",
+      "title": "Tensorflow 2.1 running on GPU-Ubuntu 18.04",
+      "excerpt": "Tensorflow is an open-source framework for running machine learning algorithms. It is a framework to bring the ideas of machine learning to a working model. Recently I did a Specialization course ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/@shravan007.c/tensorflow-2-1-running-on-gpu-ubuntu-18-04-76b0c8b0a25d",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-07T11:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*YGNSNxvpUFcztQzavQ7lBA.png",
+          "width": 1200,
+          "height": 672,
+          "title": "Tensorflow 2.1 running on GPU-Ubuntu 18.04",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
       ]
     },
     {
@@ -1354,7 +1582,7 @@
       "path": "_posts/_archive/2020-02-09-this-paralyzed-man-can-feel-his-fingers-again-thanks-to-a-mind-controlled-robotic-arm.md",
       "title": "This paralyzed man can feel his fingers again thanks to a mind-controlled robotic arm",
       "excerpt": "Mashable is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content ...",
-      "heat": 77,
+      "heat": 97,
       "tags": null,
       "type": "article",
       "webUrl": "https://mashable.com/2016/10/14/paralyzed-man-feels-fingers-again/",
@@ -1369,7 +1597,15 @@
         "publishers": null,
         "authors": null
       },
-      "images": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2016%252F10%252F14%252Fb6%252FAP_16287736330662.d3659.jpg%252F1200x630.jpg?signature=NIqfeD79B--WSLa-nz-r7U5cHZ0=",
+          "width": 1200,
+          "height": 630,
+          "title": "This paralyzed man can feel his fingers again thanks to a mind-controlled robotic arm",
+          "attribution": null
+        }
+      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -1546,6 +1782,43 @@
           "width": 1024,
           "height": 682,
           "title": "Arm focuses on AI with its new Cortex-M CPU and Ethos-U NPU",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-02-10-arms-new-cortex-and-ethos-chips-promise-up-to-480x-faster-ai-for-iot-devices.md",
+      "title": "Arm’s new Cortex and Ethos chips promise up to 480x faster AI for IoT devices",
+      "excerpt": "The microcontroller, the Cortex-M55, joins the company’s ubiquitous Cortex-M family of processor designs. Arm said the chip will provide more AI performance than any other product in the series. Cambridge, U.K.-based Arm doesn’t make any chips itself but rather sells blueprints under license to semiconductor manufacturers. The Cortex-M ...",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://siliconangle.com/2020/02/10/arms-new-cortex-m55-ethos-u55-chips-promise-x480-faster-ai-iot-devices/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T06:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/02/arm.png",
+          "width": 718,
+          "height": 400,
+          "title": "Arm’s new Cortex and Ethos chips promise up to 480x faster AI for IoT devices",
           "attribution": null
         }
       ],
@@ -1739,6 +2012,43 @@
       ]
     },
     {
+      "path": "_posts/_archive/2020-02-10-facial-recognition-the-next-step-in-fight-against-rabies.md",
+      "title": "Facial recognition: the next step in fight against rabies",
+      "excerpt": "The research team, based out of Washington State University’s Paul G. Allen School for Global Animal Health, is working with PiP My Pet, a company that developed a mobile application that uses facial recognition to reunite lost pets with their owners. The only twist; rather than locate the lost, the company designed a new app to track which ...",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://scienceblog.com/514102/facial-recognition-the-next-step-in-fight-against-rabies/",
+      "ampWebUrl": "https://scienceblog.com/514102/facial-recognition-the-next-step-in-fight-against-rabies/amp/",
+      "cdnAmpWebUrl": "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/514102/facial-recognition-the-next-step-in-fight-against-rabies/amp/",
+      "publishedDateTime": "2020-02-10T06:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ScienceBlog",
+        "domain": "scienceblog.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://scienceblog.com/wp-content/uploads/2020/02/Facial-recognition-the-next-step-in-fight-against-rabies.jpg",
+          "width": 792,
+          "height": 528,
+          "title": "Facial recognition: the next step in fight against rabies",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-02-10-fifas-plans-to-improve-var-offside-calls-with-artificial-intelligence.md",
       "title": "FIFA’s Plans To Improve VAR Offside Calls With Artificial Intelligence",
       "excerpt": "FIFA has begun the early stages of testing for a new semi-automated offside system that combines AI with limb tracking technology. I spoke to FIFA's head of technology and innovation to find out how it works and when fans might first get to see it in action.",
@@ -1854,312 +2164,7 @@
       "topics": [
         "AI"
       ]
-    },
-    {
-      "path": "_posts/_archive/2020-02-10-notes-from-a-former-guitar-zero.md",
-      "title": "Notes From A Former 'Guitar Zero'",
-      "excerpt": "NYU psychology professor Gary Marcus took up guitar at ... and she was brilliant. And a lot of it was just about absolutely perfect technique. You know, every finger movement was just right.",
-      "heat": 122,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.npr.org/2012/02/10/146697656/notes-from-a-former-guitar-zero",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-10T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NPR",
-        "domain": "npr.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400",
-          "width": 1400,
-          "height": 787,
-          "title": "Notes From A Former 'Guitar Zero'",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-02-10-robots-arent-taking-over-and-other-lessons-learned-from-2-decades-in-the-logistics-tech-industry.md",
-      "title": "Robots aren’t taking over, and other lessons learned from 2 decades in the logistics tech industry",
-      "excerpt": "Editor’s note: The following is a guest post written by David Glick, CTO at Flexe, a Seattle logistics startup. I’ve spent a lot of time in warehouses ... You may have seen videos of robots zipping around the warehouse and heard the rumors of AI and automation replacing jobs. I don’t agree. Logistics is a $1.6 trillion industry; a ...",
-      "heat": 75,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/lessons-logistics-tech-veteran-robots-arent-taking-put-engineers-close-customer/",
-      "ampWebUrl": "https://www.geekwire.com/2020/lessons-logistics-tech-veteran-robots-arent-taking-put-engineers-close-customer/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/lessons-logistics-tech-veteran-robots-arent-taking-put-engineers-close-customer/amp/",
-      "publishedDateTime": "2020-02-09T18:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/02/Glick-Guest-Post-Pic-630x387.png",
-          "width": 630,
-          "height": 387,
-          "title": "Robots aren’t taking over, and other lessons learned from 2 decades in the logistics tech industry",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-02-10-the-future-of-deep-learning-is-unsupervised-ai-pioneers-say.md",
-      "title": "The Future of Deep Learning Is Unsupervised, AI Pioneers Say",
-      "excerpt": "Machines can do well at recognizing images and understanding language—when humans are involved with training. But for AI to reach new heights, the technology must figure out how to learn on its own, according to three AI pioneers.",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wsj.com/articles/the-future-of-deep-learning-is-unsupervised-ai-pioneers-say-11581330600",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-10T04:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-152543/social",
-          "width": 1280,
-          "height": 640,
-          "title": "The Future of Deep Learning Is Unsupervised, AI Pioneers Say",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-02-10-this-ai-model-improves-and-colorizes-old-videos-and-the-results-are-stunning.md",
-      "title": "This AI model improves and colorizes old videos and the results are stunning",
-      "excerpt": "While this was a great short watch, it made me wonder about using AI to restore and enhance old videos ... weekend that aims to improve and colorize these videos. The model uses Temporal Neural ...",
-      "heat": 184,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/02/10/this-ai-model-improves-and-colorizes-old-videos-and-the-results-are-stunning/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/02/10/this-ai-model-improves-and-colorizes-old-videos-and-the-results-are-stunning/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/10/this-ai-model-improves-and-colorizes-old-videos-and-the-results-are-stunning/amp/",
-      "publishedDateTime": "2020-02-10T03:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/AI-video-restoration.png",
-          "width": 736,
-          "height": 390,
-          "title": "This AI model improves and colorizes old videos and the results are stunning",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-02-10-tyson-takes-computer-vision-to-the-chicken-plant.md",
-      "title": "Tyson Takes Computer Vision to the Chicken Plant",
-      "excerpt": "The meat processor plans to expand the use of computer vision to track how much chicken moves through its plants, part of an effort to invest more in automation and artificial intelligence to cut costs and reduce waste.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wsj.com/articles/tyson-takes-computer-vision-to-the-chicken-plant-11581330602",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/tyson-takes-computer-vision-to-the-chicken-plant-11581330602",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tyson-takes-computer-vision-to-the-chicken-plant-11581330602",
-      "publishedDateTime": "2020-02-10T02:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-152065/social",
-          "width": 1280,
-          "height": 640,
-          "title": "Tyson Takes Computer Vision to the Chicken Plant",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-02-10-vehicle-speech-recognition-system-market-latest-review-know-more-about-industry-gainers.md",
-      "title": "Vehicle Speech Recognition System Market Latest Review: Know More about Industry Gainers",
-      "excerpt": "This intelligence report provides a comprehensive analysis of the \"Global Vehicle Speech Recognition System Market. This includes Investigation of past progress, ongoing market scenarios, and future prospects.",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/vehicle-speech-recognition-system-market-latest-review-know-more-about-industry-gainers-2020-02-10",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-10T01:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Vehicle Speech Recognition System Market Latest Review: Know More about Industry Gainers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-02-10-windows-10x-could-go-big-on-voice-controls.md",
-      "title": "Windows 10X could go big on voice controls",
-      "excerpt": "It also mentions “leveraging cognitive services” for voice commands and control, so that would seemingly refer to machine learning and bringing AI chops into the mix. In the past, Microsoft ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techradar.com/news/windows-10x-could-go-big-on-voice-controls",
-      "ampWebUrl": "https://www.techradar.com/amp/news/windows-10x-could-go-big-on-voice-controls",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/windows-10x-could-go-big-on-voice-controls",
-      "publishedDateTime": "2020-02-10T01:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/dPPcKLBbSRFPYdykwgjfrK-1200-80.jpg",
-          "width": 1124,
-          "height": 636,
-          "title": "Windows 10X could go big on voice controls",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
     }
   ],
-  "nextPage": null
+  "nextPage": 27
 }

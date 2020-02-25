@@ -47,19 +47,6 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 67
-  - title: "Drug makers are using AI to help find an answer to the coronavirus"
-    excerpt: "Companies that use artificial intelligence to suss out molecules for potential drugs are among those looking for an answer to the coronavirus. On Tuesday, Benevolent AI published a letter in The Lancet, explaining how it found a drug that could be repurposed to fight the coronavirus using artificial intelligence. The most promising choice is a ..."
-    publishedDateTime: 2020-02-10T13:00:00Z
-    webUrl: "https://www.fastcompany.com/90461383/drug-makers-are-using-ai-to-help-find-an-answer-to-the-coronavirus?partner=feedburner"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 37
-    images:
-      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/02/p-1-drug-makers-are-using-ai-to-help-find-an-answer-to-the-coronavirus-copy.jpg"
-        width: 1280
-        height: 720
 
 secured: "phYpxaIkMXcHYh8de5TuriCiqwnf8BIrcz3cKlxHu1G0r2RfQeYhOcYC/s4Da+7XzycwosT/ZTIJsMIwgrJl8yBnCTyEwHNz7412EgFIw6m958CHOFJ9eh0gfjTo4fdgy+Kh2HIDis9vi0d/qRGROrgh458iK41HkYVROcORiuHRVi2uUPaxz3zGB4t+JjI7xzfDC62UezaXoRNL13gds1mtRoIyA+Or/rLJGDVSvpWECe7BFLmTLqfmabrUb4K0mqB6NWO3cUIdbqcGpyuqd2co9PcunNQ4qBBI1hZElI4K/QyAqlWelGZaD3FyJ/dH8jDdxvoEv3rbKq5acXV5ulp8QZygK2AtAn8Ju/4VZ8aSC25lLWtGTnqGCN8KJc6TV1OnzsgeF9YEvT8zyBPbtKHfUjBy7l9cMyH60xh7Z+/hlI+1omysWzcrffRYmrqDmM2GKA5+I6tGb1wWFiAyFYzUaVqFYHLVB+wO7tnIOp0=;GuP62j+oDz4ELwvGCG53hg=="
 ---

@@ -123,19 +123,6 @@ related:
       - url: "https://www.telegraph.co.uk/content/dam/cars/2020/02/17/TELEMMGLPICT000059012609_trans_NvBQzQNjv4Bq3zRqJvTEgWWOoA_OyO2TYjp1J53GedFpkBVyM6aWTKE.jpeg"
         width: 2380
         height: 1488
-  - title: "Uber Gets OK To Test Self-Driving Cars In California"
-    excerpt: "The state of California has granted Uber a permit to test its self-driving vehicles on public roads. The Department of Motor Vehicles gave the approval to the Uber Advanced Technologies Group to test autonomous vehicles as long as a driver is in the vehicle. Uber is the latest company to be added to the entities with autonomous vehicle testing ..."
-    publishedDateTime: 2020-02-10T13:35:00Z
-    webUrl: "https://www.mediapost.com/publications/article/346759/uber-gets-ok-to-test-self-driving-cars-in-californ.html?edition=117136"
-    type: article
-    provider:
-      name: MediaPost
-      domain: mediapost.com
-    quality: 24
-    images:
-      - url: "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2018/12/19/uberselfdrivingcar-600_tmkffdC.jpg"
-        width: 600
-        height: 375
 
 secured: "m5uiXEc0+19UVfJWHrtbxg6c05VtZWYqGAshgPyMNy9ve73trNSTvB2e2+yijoRddnARtQvM/aWW/873gbfgV7lRmKQ8H0TuJ03Ac05l/Rn3D/Oy13dlcB2Rs/5s2HNgepXMCCP+UPNeefyjm8UteNYwqojdFY74CCJ0p4JZ+f+bir1zU7Qh4N28eGyhsPTcV5I/DHEFl8laTDbn3gCrYK8a+Iz0GM8Z/kGFYTPHzpxFcUEtcjvajCMNCa3yJ/VEg7elLiyYxycxZ2Q+INfeOYtTuOZUNn0aVFjsjlt4toIBKW3XkY5+0UhoAZVdYnX+p+naeJkG5FsO/ybqYgLUVaq3fzyhYVPYZbybGHZOXmHcBZ638ZjAUIxULA/C+mOIMZTB9+qBuoyVnosJHyzEM/VxfjJO8XT4TOTP0a0OtkSoY27+fQoDOpvw1ZpyITlNosC7FDf8KMlqzIMNWm7jA02GwpgJfrTP+6iS+s5Jmy8=;rCQMEUJiZ2Ku0Z2qmhgp7g=="
 ---

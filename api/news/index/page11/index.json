@@ -2,185 +2,6 @@
   "page": 11,
   "value": [
     {
-      "path": "_posts/_archive/2020-01-09-what-its-like-to-ride-in-a-self-driving-lyft.md",
-      "title": "What it’s like to ride in a self-driving Lyft",
-      "excerpt": "At CES, the consumer electronics trade show in Las Vegas this week, I hit the jackpot: getting picked up in a self-driving Lyft. A few days ago, when I arrived in the city and opened the Lyft app ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://qz.com/1781876/ces-2020-what-its-like-to-ride-in-a-self-driving-lyft/",
-      "ampWebUrl": "https://qz.com/1781876/ces-2020-what-its-like-to-ride-in-a-self-driving-lyft/amp/",
-      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/1781876/ces-2020-what-its-like-to-ride-in-a-self-driving-lyft/amp/",
-      "publishedDateTime": "2020-01-09T06:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Quartz",
-        "domain": "qz.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/qz.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cms.qz.com/wp-content/uploads/2020/01/Lyft-self-driving-rear-e1578551520317.jpeg?quality=75&strip=all&w=1400",
-          "width": 1400,
-          "height": 788,
-          "title": "What it’s like to ride in a self-driving Lyft",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-10-amazon-aims-to-democratize-deep-learning-with-new-library-autogluon.md",
-      "title": "Amazon aims to democratize deep learning with new library AutoGluon",
-      "excerpt": "“We developed AutoGluon to truly democratize machine learning, and make the power of deep learning available to all developers,” said Jonas Mueller, AWS applied scientist. According to ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://sdtimes.com/ai/amazon-aims-to-democratize-deep-learning-with-new-library-autogluon/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-10T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2020/01/download-1.png",
-          "width": 1440,
-          "height": 810,
-          "title": "Amazon aims to democratize deep learning with new library AutoGluon",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-10-an-ex-cio-of-goldman-sachs-is-helping-a-startup-use-ai-to-battle-cancer.md",
-      "title": "An Ex-CIO Of Goldman Sachs Is Helping A Startup Use AI To Battle Cancer",
-      "excerpt": "Marty Chavez, who left Goldman last year, just joined the board of Paige, a New York City startup that’s raised around $70 million to better diagnose and treat cancer patients.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/martingiles/2020/01/10/goldman-sachs-ex-cio-helping-ai-startup-paige-battle-cancer/",
-      "ampWebUrl": "https://www.forbes.com/sites/martingiles/2020/01/10/goldman-sachs-ex-cio-helping-ai-startup-paige-battle-cancer/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martingiles/2020/01/10/goldman-sachs-ex-cio-helping-ai-startup-paige-battle-cancer/amp/",
-      "publishedDateTime": "2020-01-10T13:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e18eb77735f8c0007999891%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "An Ex-CIO Of Goldman Sachs Is Helping A Startup Use AI To Battle Cancer",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-10-artificial-intelligence-makes-bad-medicine-even-worse.md",
-      "title": "Artificial Intelligence Makes Bad Medicine Even Worse",
-      "excerpt": "Google researchers made headlines early this month for a study that claimed their artificial intelligence system could outperform human experts at finding breast cancers on mammograms. It sounded like a big win, and yet another example of how AI will soon transform health care: More cancers found! Fewer false positives! A better, cheaper way to ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/artificial-intelligence-makes-bad-medicine-even-worse/",
-      "ampWebUrl": "https://www.wired.com/story/artificial-intelligence-makes-bad-medicine-even-worse/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artificial-intelligence-makes-bad-medicine-even-worse/amp",
-      "publishedDateTime": "2020-01-10T03:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg",
-          "width": 800,
-          "height": 450,
-          "title": "Artificial Intelligence Makes Bad Medicine Even Worse",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-01-10-export-controls-threaten-the-future-of-ai-outposts-in-china.md",
       "title": "Export Controls Threaten the Future of AI Outposts in China",
       "excerpt": "Other US tech companies, like Facebook, are effectively blocked ... University who writes a newsletter on Chinese AI. “Google, Microsoft Research Asia, and other multinationals with R&D labs ...",
@@ -2159,6 +1980,161 @@
       "topics": [
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-14-amazon-cloud-clientele-strengthens-as-bundesliga-selects-aws-nasdaq.md",
+      "title": "Amazon Cloud Clientele Strengthens as Bundesliga Selects AWS | Nasdaq",
+      "excerpt": "Amazon AMZN is focused on strengthening clientele of its cloud computing arm, Amazon Web Services (AWS), to expand presence in the cloud industry.Bundesliga, the professional association football ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nasdaq.com/articles/amazon-cloud-clientele-strengthens-as-bundesliga-selects-aws-2020-01-14",
+      "ampWebUrl": "https://www.nasdaq.com/articles/amazon-cloud-clientele-strengthens-as-bundesliga-selects-aws-2020-01-14?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-cloud-clientele-strengthens-as-bundesliga-selects-aws-2020-01-14?amp",
+      "publishedDateTime": "2020-01-14T01:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg",
+          "width": 1024,
+          "height": 512,
+          "title": "Amazon Cloud Clientele Strengthens as Bundesliga Selects AWS | Nasdaq",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-14-an-emotionally-intelligent-ai-could-support-astronauts-on-a-trip-to-mars.md",
+      "title": "An emotionally intelligent AI could support astronauts on a trip to Mars",
+      "excerpt": "Astronauts also have to deal with the unique physical strains of space travel—including ... stunted by a lack of emotional intelligence, says Tom Soderstrom, CTO at NASA’s Jet Propulsion Laboratory. That’s why JPL is now working with Australian tech firm Akin to develop an AI that could one day provide emotional support for astronauts ...",
+      "heat": 166,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.technologyreview.com/s/615044/an-emotionally-intelligent-ai-could-support-astronauts-on-a-trip-to-mars/",
+      "ampWebUrl": "https://www.technologyreview.com/s/615044/an-emotionally-intelligent-ai-could-support-astronauts-on-a-trip-to-mars/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/s/615044/an-emotionally-intelligent-ai-could-support-astronauts-on-a-trip-to-mars/amp/",
+      "publishedDateTime": "2020-01-14T09:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.technologyreview.com/i/images/gettyimages-1168361504-web.jpg?sw=600&cx=0&cy=0&cw=3000&ch=1688",
+          "width": 600,
+          "height": 337,
+          "title": "An emotionally intelligent AI could support astronauts on a trip to Mars",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-14-brave-new-world-of-retail-walmarts-robots-are-just-the-beginning.md",
+      "title": "Brave New World Of Retail: Walmart’s Robots Are Just The Beginning",
+      "excerpt": "The retail industry has decided that robots and other automated inventory systems are better than humans for certain tasks.",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/joanverdon/2020/01/14/brave-new-world-of-retail-walmarts-robots-are-just-the-beginning/",
+      "ampWebUrl": "https://www.forbes.com/sites/joanverdon/2020/01/14/brave-new-world-of-retail-walmarts-robots-are-just-the-beginning/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joanverdon/2020/01/14/brave-new-world-of-retail-walmarts-robots-are-just-the-beginning/amp/",
+      "publishedDateTime": "2020-01-14T04:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e1d4c40a854780006e876f0%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4032%26cropY1%3D202%26cropY2%3D2890",
+          "width": 1200,
+          "height": 800,
+          "title": "Brave New World Of Retail: Walmart’s Robots Are Just The Beginning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-14-bundesliga-brings-on-aws-to-revolutionise-football-viewing-experience.md",
+      "title": "Bundesliga brings on AWS to ‘revolutionise’ football viewing experience",
+      "excerpt": "Under the terms of its deal with AWS, the Bundesliga will make use during the 2019-20 season and beyond of artificial intelligence (AI), machine learning (ML), analytics, compute, database, and storage services to deliver real-time statistics to predict future plays and game outcomes, and recommend personalised match footage across mobile ...",
+      "heat": 69,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.rapidtvnews.com/2020011457936/bundesliga-brings-on-aws-to-revolutionise-football-viewing-experience.html",
+      "ampWebUrl": "https://www.rapidtvnews.com/2020011457936/bundesliga-brings-on-aws-to-revolutionise-football-viewing-experience.amp.html",
+      "cdnAmpWebUrl": "https://www-rapidtvnews-com.cdn.ampproject.org/c/s/www.rapidtvnews.com/2020011457936/bundesliga-brings-on-aws-to-revolutionise-football-viewing-experience.amp.html",
+      "publishedDateTime": "2020-01-13T23:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Rapid TV",
+        "domain": "rapidtvnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.rapidtvnews.com/images/2020/Jan_2020/bundesliga_AWS_14Jan2020.jpg",
+          "width": 788,
+          "height": 337,
+          "title": "Bundesliga brings on AWS to ‘revolutionise’ football viewing experience",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
       ]
     }
   ],

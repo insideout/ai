@@ -2,38 +2,66 @@
   "page": 27,
   "value": [
     {
-      "path": "_posts/_archive/2020-02-10-deep-learning-has-limits-but-its-commercial-impact-has-just-begun.md",
-      "title": "Deep Learning Has Limits. But Its Commercial Impact Has Just Begun.",
-      "excerpt": "There has been increased hand-wringing across the AI community in recent months about the limitations of deep learning. Even deep learning's staunchest defenders, Bengio included, are beginning to ...",
-      "heat": 89,
+      "path": "_posts/_archive/2020-02-10-notes-from-a-former-guitar-zero.md",
+      "title": "Notes From A Former 'Guitar Zero'",
+      "excerpt": "NYU psychology professor Gary Marcus took up guitar at ... and she was brilliant. And a lot of it was just about absolutely perfect technique. You know, every finger movement was just right.",
+      "heat": 122,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.forbes.com/sites/robtoews/2020/02/09/deep-learning-has-limits-but-its-commercial-impact-has-just-begun/",
-      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2020/02/09/deep-learning-has-limits-but-its-commercial-impact-has-just-begun/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2020/02/09/deep-learning-has-limits-but-its-commercial-impact-has-just-begun/amp/",
-      "publishedDateTime": "2020-02-09T17:41:00-08:00",
+      "webUrl": "https://www.npr.org/2012/02/10/146697656/notes-from-a-former-guitar-zero",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T05:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
+        "name": "NPR",
+        "domain": "npr.org",
+        "images": null,
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e40aef58b6cf300071e457e%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Deep Learning Has Limits. But Its Commercial Impact Has Just Begun.",
+          "url": "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400",
+          "width": 1400,
+          "height": 787,
+          "title": "Notes From A Former 'Guitar Zero'",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-02-10-protecting-privacy-in-an-ai-driven-world.md",
+      "title": "Protecting privacy in an AI-driven world",
+      "excerpt": "This report from The Brookings Institution’s Artificial Intelligence and Emerging Technology (AIET ... The Brookings Institution is a nonprofit organization devoted to independent research and policy solutions. Its mission is to conduct high-quality, independent research and, based on that research, to provide innovative, practical ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.brookings.edu/research/protecting-privacy-in-an-ai-driven-world/",
+      "ampWebUrl": "https://www.brookings.edu/research/protecting-privacy-in-an-ai-driven-world/amp/",
+      "cdnAmpWebUrl": "https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/research/protecting-privacy-in-an-ai-driven-world/amp/",
+      "publishedDateTime": "2020-02-10T06:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Brookings Institution",
+        "domain": "brookings.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.brookings.edu/wp-content/uploads/2017/04/es_20170425_fintechapps.jpg",
+          "width": 4566,
+          "height": 3024,
+          "title": "Protecting privacy in an AI-driven world",
           "attribution": null
         }
       ],
@@ -43,20 +71,20 @@
       ],
       "topics": [
         "AI",
-        "Machine Learning"
+        "Facebook AI"
       ]
     },
     {
-      "path": "_posts/_archive/2020-02-10-fifas-plans-to-improve-var-offside-calls-with-artificial-intelligence.md",
-      "title": "FIFA’s Plans To Improve VAR Offside Calls With Artificial Intelligence",
-      "excerpt": "FIFA has begun the early stages of testing for a new semi-automated offside system that combines AI with limb tracking technology. I spoke to FIFA's head of technology and innovation to find out how it works and when fans might first get to see it in action.",
-      "heat": 87,
+      "path": "_posts/_archive/2020-02-10-quo-a-stanford-consumer-fintech-startup-leverages-ai-to-provide-financial-security.md",
+      "title": "Quo, A Stanford Consumer Fintech Startup, Leverages AI To Provide Financial Security",
+      "excerpt": "In the midst of an unprecedented stock market rally and record-low unemployment, many Americans still struggle to meet their financial needs. Neel Yerneni and Tucker Haas have created Quo to provide Americans with the financial security they need in today's economy.",
+      "heat": 102,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.forbes.com/sites/steveprice/2020/02/10/fifas-plans-to-improve-var-offside-calls-with-artificial-intelligence/",
-      "ampWebUrl": "https://www.forbes.com/sites/steveprice/2020/02/10/fifas-plans-to-improve-var-offside-calls-with-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/steveprice/2020/02/10/fifas-plans-to-improve-var-offside-calls-with-artificial-intelligence/amp/",
-      "publishedDateTime": "2020-02-10T03:54:00-08:00",
+      "webUrl": "https://www.forbes.com/sites/frederickdaso/2020/02/10/quo-a-stanford-consumer-fintech-startup-leverages-ai-to-provide-financial-security/",
+      "ampWebUrl": "https://www.forbes.com/sites/frederickdaso/2020/02/10/quo-a-stanford-consumer-fintech-startup-leverages-ai-to-provide-financial-security/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/frederickdaso/2020/02/10/quo-a-stanford-consumer-fintech-startup-leverages-ai-to-provide-financial-security/amp/",
+      "publishedDateTime": "2020-02-10T06:21:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -75,10 +103,10 @@
       },
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1190727598%2F0x0.jpg",
-          "width": 1200,
-          "height": 814,
-          "title": "FIFA’s Plans To Improve VAR Offside Calls With Artificial Intelligence",
+          "url": "https://thumbor.forbes.com/thumbor/711x533/https://specials-images.forbesimg.com/imageserve/5e3f539b8b6cf300071e3b09/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 533,
+          "title": "Quo, A Stanford Consumer Fintech Startup, Leverages AI To Provide Financial Security",
           "attribution": null
         }
       ],
@@ -87,35 +115,8 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-02-10-hello-new-member-here.md",
-      "title": "Hello, new member here",
-      "excerpt": "Hi, I had joined many years ago on another account but just got back on the site so made a new one. I’m on iPad and was wondering how we create a album or change themes, colors on our profile? I can’t seem to find out how. I just have a plain white ...",
-      "heat": 102,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.christianforums.com/threads/hello-new-member-here.8148658/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-09T17:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Christian Forums",
-        "domain": "christianforums.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
+        "AI",
+        "AI in Finance"
       ]
     },
     {
@@ -161,6 +162,96 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-02-10-softbank-owned-arm-to-launch-new-ai-chip-for-small-devices.md",
+      "title": "SoftBank-owned Arm to launch new AI chip for small devices",
+      "excerpt": "Arm Ltd, a semiconductor technology firm owned by SoftBank Group, unveiled a chip technology aimed at putting artificial intelligence functions on tiny devices such as sensors designed to detect patterns in human speech or other streams of data.",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-arm-tech-idUSKBN2041MK",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2041MK",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2041MK",
+      "publishedDateTime": "2020-02-10T06:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200210&t=2&i=1488376532&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG1911W",
+          "width": 785,
+          "height": 545,
+          "title": "SoftBank-owned Arm to launch new AI chip for small devices",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-02-10-the-future-of-deep-learning-is-unsupervised-ai-pioneers-say.md",
+      "title": "The Future of Deep Learning Is Unsupervised, AI Pioneers Say",
+      "excerpt": "Machines can do well at recognizing images and understanding language—when humans are involved with training. But for AI to reach new heights, the technology must figure out how to learn on its own, according to three AI pioneers.",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/the-future-of-deep-learning-is-unsupervised-ai-pioneers-say-11581330600",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T04:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-152543/social",
+          "width": 1280,
+          "height": 640,
+          "title": "The Future of Deep Learning Is Unsupervised, AI Pioneers Say",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -250,6 +341,51 @@
       "topics": [
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-02-10-uk-public-sector-failing-to-be-open-about-its-use-of-ai-review-finds.md",
+      "title": "UK public sector failing to be open about its use of AI, review finds",
+      "excerpt": "He has also personally championed a chatbot startup, Babylon Health, that’s using AI for healthcare triage — and which is now selling a service in to the NHS. Policing is another area where AI is being accelerated into UK public service delivery, with a number of police forces trialing facial recognition technology — and London’s Met ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/02/10/uk-public-sector-failing-to-be-open-about-its-use-of-ai-review-finds/",
+      "ampWebUrl": "https://techcrunch.com/2020/02/10/uk-public-sector-failing-to-be-open-about-its-use-of-ai-review-finds/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/10/uk-public-sector-failing-to-be-open-about-its-use-of-ai-review-finds/amp/",
+      "publishedDateTime": "2020-02-10T06:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-1074644658-2.jpg?w=1024",
+          "width": 1024,
+          "height": 662,
+          "title": "UK public sector failing to be open about its use of AI, review finds",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
       ]
     },
     {

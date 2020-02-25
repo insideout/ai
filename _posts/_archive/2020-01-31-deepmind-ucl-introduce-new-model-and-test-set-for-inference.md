@@ -5,8 +5,8 @@ excerpt: "Now, DeepMind and University College London (UCL) have introduced a ne
 publishedDateTime: 2020-01-31T21:44:00Z
 webUrl: "https://medium.com/syncedreview/deepmind-ucl-introduce-new-model-and-test-set-for-inference-582d9446e66e"
 type: article
-quality: 49
-heat: 49
+quality: 69
+heat: 69
 published: false
 
 provider:
@@ -21,6 +21,12 @@ topics:
   - AI
   - Google AI
 
-secured: "Vh087ec7dazqkndJwbvLWXiVQdkJRIMH4JkC7YT849EvGMDOFCLsRS3oSQMALaF51f1X+n9uTcinpSgD8lcVz3tP34qebIvROfbh4FIfN2Tfh+jLox6iQ0AA7MeOMyAMpnOhH5KXVnhexFnUg67dBdrjFVKdxEQkU6H2cuGdvlJbv6G86pS2kTs93dn3WqAmSgSqP1g4CtiBb8ilKrEJhVyibJ6VitY99CJQC2r3OdxSWJ+vC6zzjJqXtRGqpfiNayNPqYlcXGBMhGzj9VepG23iuT+6m0BTc0hur0B+fpkpUZoCKm4hkDm4Z9Wj2lLi;GFJODyj+1TyOAjAU2rsGMg=="
+images:
+  - url: "https://miro.medium.com/max/1200/1*RQ_r7v_hTxTY6aBdSsezqQ.png"
+    width: 1200
+    height: 620
+    title: "DeepMind & UCL Introduce New Model and Test Set for Inference"
+
+secured: "w9F0mf/HHbkfoNfJ4xkcPQAgmkKCtdLUWwUkQCuzmdSI9aWs0K8wg1JSifqnBEoH2bAvPYXh2j+DUfIZLw1bcOWIo9DvB7rFLKFWyqcAvetyD+eeif//rJYNpSv/xtRpRq5z6P890jz1neoISHRNkiojFFsyNgMFcwMFIgqNRQC2ve7ET7471x3gLyz7uUm2KYDGMYn1ame2djALkVS5nNdRsh4HiwrECizklzc/CYMFc/pqc8jY3XGvFnhL30tHaagDmuN6/FxjOII06s6rbrWNbdH5tKCFHVwR8bpt+BP1HLacOeoO429ZhjCKxZNK;EqAGpvgxJxckAuYZpLYnCQ=="
 ---
 

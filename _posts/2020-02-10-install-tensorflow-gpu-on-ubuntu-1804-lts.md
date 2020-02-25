@@ -30,7 +30,11 @@ related:
     provider:
       name: Medium
       domain: medium.com
-    quality: 49
+    quality: 69
+    images:
+      - url: "https://miro.medium.com/max/1200/1*YGNSNxvpUFcztQzavQ7lBA.png"
+        width: 1200
+        height: 672
 
 secured: "pBMGoJSHBZTWVMPV/w1PG/pcR6mfxfXxg3M6B6dtWvxDhbnjWf3qY1BkDn+CG+YWRlcotdr3Jx02rZH7iN0noJAvp4fdPz/3sF3aXtEhruWNGrLaNkQJqC4Wy9ErMJldS/IWg7D18ythdOV/dofruHCKcxkYXuxX0H8kO9rv5xGkKlvgtPfD6miq6vXf1Xb838fr3rQ6Mor4NccZgH8l0IKANlLv293L+iQltC41Nc4hUdLR8ODIv7NnyLIia44SCwbxveZ14X077bTkgipsicdDS7gdADNDLiXGIyjXVZSPeMdpEdEwQfLjbdtkinqJ;GKdNsGQ22uieV9Xpr5adow=="
 ---

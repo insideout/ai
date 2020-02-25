@@ -4,10 +4,12 @@ title: "Free AI developer app: IBM's new tool can label objects in videos for yo
 excerpt: "IBM estimates it takes 200 to 500 samples of hand-labeled images for an AI object-recognition model to detect a specific object. SEE: How to implement AI and machine learning (ZDNet special report ..."
 publishedDateTime: 2020-01-30T15:36:00Z
 webUrl: "https://www.zdnet.com/article/free-ai-developer-app-ibms-new-tool-can-label-objects-in-videos-for-you/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/free-ai-developer-app-ibms-new-tool-can-label-objects-in-videos-for-you/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/free-ai-developer-app-ibms-new-tool-can-label-objects-in-videos-for-you/"
 type: article
-quality: 48
-heat: 48
-published: false
+quality: 88
+heat: 88
+published: true
 
 provider:
   name: ZDNet
@@ -21,6 +23,12 @@ topics:
   - AI
   - Computer Vision
 
-secured: "9Njz/++uNBT7dl/eharzV5y4+alMFqGjbUul1TJCFH0pY8dKiwXMbK8VDu1CaK+IAJUHu3U7oMYFpIScOF+iNkYLCKHtHjomU6azWJ5vS2WnOQRDZ3mSO53zHkZdSknrqUkkL3JdBbxZ4cSzU5fSorqOdenLtICl//7jTO8OjmfF/PpkObkvLct2/YyzAFoORf1VezT5jcdEQfJdFqJtAN8wvTCwns6I/ojnYq0gKESM+yLTiWVWMeYLHDPD0xAvdKjy9+EE045O1qrt/Rec/itDi7esbLf0UmKEV0zOsD5P8wWDR/d5LrQ+KRZbOia/;iRDQfVrn+ui9NtlCFhXTig=="
+images:
+  - url: "https://zdnet2.cbsistatic.com/hub/i/r/2019/05/15/0f3f7afe-160c-451d-babe-17ed14a1c12a/thumbnail/1200x675/b87d99aee9c8455f3ae1be92387d7290/cloud-computing-and-ai-can-ibm-finally-c-5cd59307fe727300c4b89bff-1-may-15-2019-11-42-48-poster.jpg"
+    width: 1200
+    height: 675
+    title: "Free AI developer app: IBM's new tool can label objects in videos for you"
+
+secured: "joFxaY3ryBbDJ0EsI11NXqoURKqRCwExEeNz7lxJ0/au8AlrNi0JeTcK0zncjwxLhguS7DlPWj/y98ZStkZvU2RlmuvN6bAeALmwo81cJZRPYN+Qi14u3xCtTJ11R23M9kCm7psMuxhYsZXf1X/FfaaOBJVRD6b+Wdin0pGZs6iaTUUSM0n2raFO4tgEe0hTxqhC6CPBkXyYa7zNKkt0x0oADT6vfFB7BCJzX6UP6mSoz6GiMC6r560Ddko9cFbTXx/LJ5/JhvHLSxgn9tQUvmtlPXYk2SjmghLhr5G87r5waMthfDI0zNnGd0iES9lC;inTHbwXkT3ZphvsMZfw/zw=="
 ---
 

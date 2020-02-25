@@ -121,19 +121,6 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 34
-  - title: "Uber Gets OK To Test Self-Driving Cars In California"
-    excerpt: "The state of California has granted Uber a permit to test its self-driving vehicles on public roads. The Department of Motor Vehicles gave the approval to the Uber Advanced Technologies Group to test autonomous vehicles as long as a driver is in the vehicle. Uber is the latest company to be added to the entities with autonomous vehicle testing ..."
-    publishedDateTime: 2020-02-10T13:35:00Z
-    webUrl: "https://www.mediapost.com/publications/article/346759/uber-gets-ok-to-test-self-driving-cars-in-californ.html?edition=117136"
-    type: article
-    provider:
-      name: MediaPost
-      domain: mediapost.com
-    quality: 24
-    images:
-      - url: "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2018/12/19/uberselfdrivingcar-600_tmkffdC.jpg"
-        width: 600
-        height: 375
 
 secured: "6WtmbQHbXT6a+/chLq4WVWcd0Zt3V/79Oyc96LP37xnnWVx31Da+ROkJ30WMvT3U23IOkwpgFbWhqgewH+du8zp3FgRHGqCtZd9OcQ0Be7c1VCwYp1TvCMM6goAPwphG1hWY3GuCPTntBo1inmRaSi5MOgx2mY/Qo+keQLV0pkAl03RJ79/jrNYJPAJceyf56QhCyuCi2OMdCATPYk+qc5CAWpWp8333zPZL/iCqk70ftKFJyYiIsJBxBqEtI1Uo6H6fIEKqNWxkXQlZyvFCd0E975F9jF8zGc4Zj/qUWsqJuTSYf8EdnDNZe5LrgKmvsBAWfIJZeGFMkRYIzlWph3rjIkhZSO3LEW3vfc9hGp3hZTlP4tD8Ctmj7m8VbxAl2Ow/kv5dzA/YX2IOhktY+N9DCj0Upgz6b/4J6KaD+sE2cpJs9VwggWJTg0Iaxa19tKt/YKmO32f5yBzHofDYHOmzf1r/opck3TPrioOkzig=;YAAZobiD3ThiWrtrak0O2w=="
 ---
