@@ -43,6 +43,19 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e3074548b6cf300071d30e2%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D960%26cropY1%3D48%26cropY2%3D588"
         width: 960
         height: 541
+  - title: "Transformation of face recognition technology and representation for faces nets grant for computer science and engineering professor"
+    excerpt: "She will use her computer science and engineering skills to apply machine learning, computer vision and natural language processing to her work, which is funded by a grant from the National Science Foundation. Her overall research goal is to develop software that will help visually impaired individuals, along with those on the autism spectrum ..."
+    publishedDateTime: 2020-02-13T15:06:00Z
+    webUrl: "https://www.unr.edu/nevada-today/news/2020/emily-hand-research"
+    type: article
+    provider:
+      name: unr.edu
+      domain: unr.edu
+    quality: 10
+    images:
+      - url: "https://www.unr.edu//main/images/news/2020/Feb/MPLGroup.jpg"
+        width: 900
+        height: 678
 
 secured: "gEWQMn6rQD93QfuaaGgWnK2yTGrAEf0WBwuB1K9tsftgj2iUbT3yGbpCKCzt6gutWEohSoDyNjpcfJsNBPf3LE+Y7WuIz7uckhooFTyYeCaDrwLs7nJ08LmVxssAoLgrPuDSxd1ZKxts9qHOzwSDp5emKz2nKNhAAeCD++kSIVvaylWYOzzEhPOroYdOjbo8AbNdNic/ZIzHiPe1gIShfKW40knTdFpaTv59KlADY4/QioiWEbFoj74nEMr9a6peGNR3zLnCeSL8kdEjzEWdBmrSL2D5k9n3qtBHchedliKV8BR993hZ6lrLY/8MdosS;578nP+iN/VviPeo5Dop46A=="
 ---

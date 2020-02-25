@@ -170,19 +170,6 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 31
-  - title: "How Increasing Power and Advanced Cooling Techniques Are Converging for AI, Supercomputing and Cloud Data Centers"
-    excerpt: "This is driving innovation from companies like Cerebras, whose recently announced Wafer Scale Engine (WSE) is widely regarded as the most powerful processor in AI today. Comprised of 84 processing cells that span an entire wafer and yet function as a single chip, the WSE dramatically reduces the latency associated with a traditional singulated ..."
-    publishedDateTime: 2020-02-10T21:44:00Z
-    webUrl: "https://www.embedded-computing.com/guest-blogs/how-increasing-power-and-advanced-cooling-techniques-are-converging-for-ai-supercomputing-and-cloud-datacenters"
-    type: article
-    provider:
-      name: Embedded Computing Design
-      domain: embedded-computing.com
-    quality: 18
-    images:
-      - url: "http://share.opsy.st/5e41cd6c4aabb-cranium-2099120_1280.png"
-        width: 1160
-        height: 1280
   - title: "Using Transfer Learning to Overcome the Barriers Facing Machine Learning in Materials Science"
     excerpt: "Machine learning’s ability to perform intellectually demanding tasks across various fields, materials science included, has caused it to receive considerable attention. Many believe that it could be used to unlock major time and cost savings in the development of new materials. The growing demand for the use of machine learning to derive fast ..."
     publishedDateTime: 2020-02-16T00:03:00Z

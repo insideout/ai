@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-10T22:10:00Z
 webUrl: "https://www.bandt.com.au/adobe-launches-experience-platform-in-australia-and-new-zealand/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -24,28 +24,6 @@ images:
     title: "Adobe Launches Experience Platform In Australia And New Zealand"
 
 related:
-  - title: "Adobe launches Experience Platform out of Azure in Australia"
-    excerpt: "According to Adobe, the Microsoft Azure local data centre will enable Australia and New Zealand businesses to ... See also: Adobe's Experience Cloud now incorporates AI and machine learning (TechRepublic) Adobe has touted the new data centre as \"simplifying data governance\", by not only bringing data together from siloed applications ..."
-    publishedDateTime: 2020-02-10T22:00:00Z
-    webUrl: "https://www.zdnet.com/article/adobe-launches-experience-platform-out-of-azure-in-australia/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/adobe-launches-experience-platform-out-of-azure-in-australia/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/adobe-launches-experience-platform-out-of-azure-in-australia/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 69
-  - title: "Adobe launches macOS Voice Control in Adobe XD"
-    excerpt: "The feature uses on-device Siri speech recognition technology, which according to Apple, ensures personal data is kept private. Now, with Adobe XD's enhanced labeling, users of Apple's Voice Control feature will be able to use their voice to launch the platform, access all of its core design features, create prototype interactions in ..."
-    publishedDateTime: 2020-02-11T14:00:00Z
-    webUrl: "https://www.zdnet.com/article/adobe-launches-macos-voice-control-in-adobe-xd/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/adobe-launches-macos-voice-control-in-adobe-xd/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/adobe-launches-macos-voice-control-in-adobe-xd/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 54
   - title: "Adobe pushes growth in ANZ market with launch of Adobe Experience Platform"
     excerpt: "“The Microsoft Azure Australia data centre will enable Australia and New Zealand businesses to ... Do you want to leverage data governance as an enabler?Are you working at driving AI/ML implementation? Want to stay abreast of data privacy and AI ethics requirements? Are you working hard to push predictive analytics to the limits?"
     publishedDateTime: 2020-02-11T02:00:00Z

@@ -25,21 +25,34 @@ images:
     title: "Transformation of face recognition technology and representation for faces nets grant for computer science and engineering professor"
 
 related:
-  - title: "Trump Administration slashes basic science research while boosting space, AI and quantum tech funding"
-    excerpt: "Artificial intelligence allocations across the National Science Foundation, the Department of Energy’s Office of science, and the Defense Advanced Research Projects Agency and the Department of Defense’s Joint AI Center will reach a combined $1.724 billion — with portions of an additional $150 million allocation for the Department of ..."
-    publishedDateTime: 2020-02-10T21:19:00Z
-    webUrl: "https://techcrunch.com/2020/02/10/trump-administration-slashes-basic-science-research-while-boosting-space-ai-and-quantum-tech-funding/"
-    ampWebUrl: "https://techcrunch.com/2020/02/10/trump-administration-slashes-basic-science-research-while-boosting-space-ai-and-quantum-tech-funding/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/10/trump-administration-slashes-basic-science-research-while-boosting-space-ai-and-quantum-tech-funding/amp/"
+  - title: "The Self Driving And Sharing Economy: How Regulation May Drive The Transportation Revolution In 2020 And Beyond"
+    excerpt: "Everyone recognizes that these technologies will mold the future, but this final piece—how regulators will interact with these developing technologies—is the critical factor that has the potential to shape the race to market."
+    publishedDateTime: 2020-02-13T01:21:00Z
+    webUrl: "https://www.forbes.com/sites/paulrosen/2020/02/12/the-self-driving-and-sharing-economy-how-regulation-may-drive-the-transportation-revolution-in-2020-and-beyond/"
+    ampWebUrl: "https://www.forbes.com/sites/paulrosen/2020/02/12/the-self-driving-and-sharing-economy-how-regulation-may-drive-the-transportation-revolution-in-2020-and-beyond/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paulrosen/2020/02/12/the-self-driving-and-sharing-economy-how-regulation-may-drive-the-transportation-revolution-in-2020-and-beyond/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 72
+      name: Forbes
+      domain: forbes.com
+    quality: 69
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/02/GettyImages-1074739622.jpg?w=1024"
-        width: 1024
-        height: 652
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e3074548b6cf300071d30e2%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D960%26cropY1%3D48%26cropY2%3D588"
+        width: 960
+        height: 541
+  - title: "Global Emotion Detection And Recognition (EDR) Market 2020 Growth Analysis, Key Insights, Future Development and Statistical Forecast 2025"
+    excerpt: "Scope of the Report Emotion Detection and Recognition (EDR) is typically identifying human emotion from facial expression or verbal expression. Now, with the help of AI, NLP and ML, the machine is made to understand human emotion through various software and act according to it."
+    publishedDateTime: 2020-02-19T11:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-emotion-detection-and-recognition-edr-market-2020-growth-analysis-key-insights-future-development-and-statistical-forecast-2025-2020-02-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 20
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
 
 secured: "CvKy2hoC4EAy6iR4imEJnmxERA7++o2U7WspSs2CaF64KQaaumzMe9x51XfaiT47NdCHdgz18KRE3gFSRKrBDEvKo79aM4OIJgD3P59jjZyN1YkDR8QTF4Z/25Dbj7zJjkpKqpg0pz8UXUmFbBBOABw/zsKSQbst+y0c0ds/vEded1/IZTZoeoq9FPY2t1Iwdh+gV7A/aAylwDgRg3b/wH71a8ksp90ngeI77BvXXWPE1lulS5qwIH8ESOF1/r6TLbWi1HOvYIjgXhMl4B0tm4YVR5xntDmdMuVfvvNTWCjTErFXkIVlVnrUH7ACQUQ6BWyXqJpjZNyqYnBLRTmmliQuvBesDR1EaVfZQwhaISFm9C5Su5BwGUSflmzWVUA4tE4mG2CRwLQfoVd1jv4c5C9+xGL/rA7ZJBodDZO7/9EPSJGfwVfTaCpVVo4lyG0TwksCnDDwpEeqaYYwOcY+8fwmrtGeU0mfoidnrUyIOoM=;GMaTUS4s+t0/f30x6y1Lsw=="
 ---

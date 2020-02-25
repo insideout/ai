@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Six Data Points You Should Know about Federated Machine Learning"
-excerpt: "and machine learning (ML) in big data projects and state-of-the-art data science models to obtain business objectives and efficiencies in use cases for financial services, health care, government and other sectors. The health care industry, for one example ..."
+excerpt: "Download the authoritative guide: Leading Big Data Vendors: Solutions to Power Your Business IT decision-makers are using artificial intelligence (AI) and machine learning (ML) in big data projects and state-of-the-art data science models to obtain business objectives and efficiencies in use cases for financial services, health care ..."
 publishedDateTime: 2020-02-07T00:00:00Z
 webUrl: "https://www.eweek.com/big-data-and-analytics/six-data-points-you-should-know-about-federated-machine-learning"
 type: article
@@ -38,6 +38,6 @@ related:
       domain: itproportal.com
     quality: 20
 
-secured: "Do8kOcom+cXibfIJUifdqtXFQhNqA89aw3iYAwWq/jzdgVUP2tF2OfGINgc7jwhxesqjPg/CvOYH4Rc8bfNOR7LiIPWBxkCW94vYaZttY+Sihnu6PSHCzjbCBtvNZGMx/ZsL8ss1VJ0zPjDM23fkE8KyTrwAY3laiDdEjPV5UGQeZ3mUdxRPRkCh7jWmL26JHrCITY+cRT9xwt/zwHPi4q0LPIECgakuf3ekuAvOR/cAsbOy4+cZssmHaIauk1CfUKZl2l/aRlG+9ZjQarpOzP+w5c2HHx6jmWOmuggj5klAHMF3hRoKi3pGM8Jijlh4;oouzflWn/Ot0GmMQluKt9A=="
+secured: "fv11NJSorOMxz64Hl3brUN6tt7DPSHNm9kaAIUqJEDjR9ExjgmIiU+nhU20ZyIDqYUdGPaCk1cYCwJlW7HM6NK8MD+10zng812BOl+ZEK1Iwqe7v5RTKu4cmdBPyHv7uARHwFgahZcEomtNrhW/2/W6Lr899ylIQREtzg7zf2GCd517ZI7DgtwfGw2en9w4VY6nG7q48KU6dzJf2XnEriBtc9k8DZuU6IW8wq8gsml3P9NVOkAB4erqnWt1CI/mmY0KA3ekSSFb1uiNCZtRQXx8MKAeBKDKdN6t3mplwYjiXROLJLRl9GlU4HPPrdAnY;chRulNJDelO6XEuJYYD4yQ=="
 ---
 

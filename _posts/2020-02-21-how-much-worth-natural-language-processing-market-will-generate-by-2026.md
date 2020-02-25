@@ -31,7 +31,7 @@ related:
   - title: "Natural Language Processing Market Key Drivers, Industry Share and Future Growth Demand Analysis by 2026"
     excerpt: "Top Players in Natural Language Processing Market are 3M Company, Adobe Systems Inc., Amazon Web Services Inc., Apple Inc., Google (Alphabet Inc.), Hewlett-Packard Enterprise Company, Intel Corporation,"
     publishedDateTime: 2020-02-25T11:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-key-drivers-industry-share-and-future-growth-demand-analysis-by-2026-2020-02-20?mod=mw_quote_news"
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-key-drivers-industry-share-and-future-growth-demand-analysis-by-2026-2020-02-20"
     type: article
     provider:
       name: MarketWatch

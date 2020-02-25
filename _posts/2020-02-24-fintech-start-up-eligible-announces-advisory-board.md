@@ -26,8 +26,8 @@ images:
 related:
   - title: "BRIEF-ABB Announces Partnership with AI Start-Up"
     excerpt: "Our Standards:The Thomson Reuters Trust Principles."
-    publishedDateTime: 2020-02-25T12:01:00Z
-    webUrl: "https://www.reuters.com/article/brief-abb-announces-partnership-with-ai/brief-abb-announces-partnership-with-ai-start-up-idUSFWN2AO19Q"
+    publishedDateTime: 2020-02-25T11:08:00Z
+    webUrl: "https://www.reuters.com/article/brief-abb-announces-partnership-with-ai-idUSFWN2AO19Q"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSFWN2AO19Q"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSFWN2AO19Q"
     type: article

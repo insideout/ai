@@ -23,17 +23,6 @@ images:
     height: 603
     title: "Some of the Best Self-Driving Safety Tech Is in… a Subaru?"
 
-related:
-  - title: "The Man Behind the 1990s' Hottest Supercar Is Coming Out with a Self-Driving Pod"
-    excerpt: "The Motiv is similarly quite small, very lightweight, and runs on electric power. It has an aluminum suspension, ultra-lightweight high-strength extruded aluminum in the chassis, and composite body panels and doors that hold its weight below 992 pounds (sans batteries, at least). Measuring just 100 inches long and 52 inches wide, the compact ..."
-    publishedDateTime: 2020-02-10T21:54:00Z
-    webUrl: "https://www.motortrend.com/news/motiv-mclaren-f1-designer-autonomous-pod/"
-    type: article
-    provider:
-      name: Motor Trend
-      domain: motortrend.com
-    quality: 0
-
 secured: "fTjXUh4Ts0paH1NELloHkbjqgbHXpPXQl4/fVmsDpSxK44X4S03vJJoke8a4s0SewIHO4V6daYxnckzW9gLgDVpW4pbmjx4me4qxmJb5O3OYII4UUYlbMTM8apqa6IeJcShhVmtuGE++Km9uLcBJRu4/Jdr0eVwxpzoXpQyeyJynMl0gySWZKGNJ0UxtLQoBrJ2B3LZafv6D/tP1At4kU0x8mKiq1xJWamewTsmASki5ilcflFxd20hchyRebj0GLJCEguESYYi8JLQN/lv8eqPlCqycNo1+pl1la+WqGysGSbqizMB99F7sG9qBQ6Z7gm051hayLbkUq1cZbRw4MI0+rri3dI0V8OIRqV1o/bUv75AhVtEkKulXrLmlrNbJ6X3Gf4HKtE/h5ZE4Rd6F1QoHRADPpgL7Jw32wDP1Cag4vJdqyhcvXM9ij+lVO7bTki6cZR/m5/V6UgUw1QcAZPWKvGHWU790xByY+fjbmX4=;lwMTRH5JwGv6ZgnMARjuHg=="
 ---
 

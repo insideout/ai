@@ -2,8 +2,8 @@
 category: news
 title: "BRIEF-ABB Announces Partnership with AI Start-Up"
 excerpt: "Our Standards:The Thomson Reuters Trust Principles."
-publishedDateTime: 2020-02-25T12:01:00Z
-webUrl: "https://www.reuters.com/article/brief-abb-announces-partnership-with-ai/brief-abb-announces-partnership-with-ai-start-up-idUSFWN2AO19Q"
+publishedDateTime: 2020-02-25T11:08:00Z
+webUrl: "https://www.reuters.com/article/brief-abb-announces-partnership-with-ai-idUSFWN2AO19Q"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSFWN2AO19Q"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSFWN2AO19Q"
 type: article
@@ -44,6 +44,6 @@ related:
         width: 3490
         height: 2028
 
-secured: "YmQ8/Guy4Y7mxbX7PHJL6uP/YHWcAHeuAQX0z+h9fpcJeNzLUwqemmQmA8XT5uvC+1uXAf2HYa+wKoYhiP/PkRvWfZlrPow7VpfiYq0OCyCF86DbzuNuCaVnDid9lXaUb0Z3hGraRi87hQrqcmr7EZDDxT3uTRcowVvQF2rn5iJszpV+El78y3nRzh2O5pI9D3qybLUjUyAKN1IseDFY7fwzz3N7N9xkOb4hw4E70SPVWrI3dfFMom1Z9VRSRuIoTQMnddI4w6mwSkolQEe5N5wYp5pFPV6S+mBxgGDfzQ1m7BZKUj8ABIuAfFJIrDO0;cSKtJNaltoo5Ua3ye8XEEA=="
+secured: "RvGqqBNV9uq8Fb1V+p3VgUhaXz4oKsvZf8OXjNEAqWtot90UV494HSc2e80oBElgymbsVDczjxA4C90QeWv3Q0egeXGBe6vhgCzrlAUfjiR3FsI7gBU6tWKx/7GirWHKTU6NaioM7QlUgpPPSC7S/mxy8ivxyPIjCwfoJV9H0p2IlYfLRn+7+SuOcHFAGiUFP7i0cU+w0M9xVjHTkW+ubvEv3o9tqPJGpCrcRs/WVnL72qKOkMEVzwPlHgw6VdFaRASclcXcmpszGfGjxfYW3mV1jAzsxV2eXJl9TFjGjXCV6ip0WDpTz6I9RT/kvdjn;BzVuIIpDWLRuz14DkqxYVg=="
 ---
 
