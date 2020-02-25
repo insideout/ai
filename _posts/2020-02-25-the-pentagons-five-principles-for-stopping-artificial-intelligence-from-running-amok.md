@@ -1,27 +1,27 @@
 ---
 category: news
-title: "The Pentagon now has 5 principles for artificial intelligence"
-excerpt: "“This runs in stark contrast to Russia and China, whose use of AI technology for military purposes raises serious concerns about human rights, ethics and international norms.” The five principles apply to both the combat and non-combat use of AI technologies, said Deasy. Sign up for the Early Bird Brief, the defense industry's most ..."
-publishedDateTime: 2020-02-24T23:20:00Z
-webUrl: "https://www.defensenews.com/artificial-intelligence/2020/02/24/the-pentagon-now-has-5-principles-for-artificial-intelligence/"
+title: "The Pentagon’s five principles for stopping artificial intelligence from running amok"
+excerpt: "The real hard part for this is taking the AI delivery pipeline and understanding where those ethics principles need to be applied,” says Shanahan. For instance, he says the military and developers must consider the source and quality of data used to develop AI. “Is the data representative of a very small sample size, as opposed to a very ..."
+publishedDateTime: 2020-02-25T02:00:00Z
+webUrl: "https://www.flightglobal.com/defence/the-pentagons-five-principles-for-stopping-artificial-intelligence-from-running-amok/136894.article"
 type: article
-quality: 39
+quality: 32
 heat: -1
 published: false
 
 provider:
-  name: Defense News
-  domain: defensenews.com
+  name: Flightglobal
+  domain: flightglobal.com
 
 topics:
   - AI
   - AI Ethics
 
 images:
-  - url: "https://www.armytimes.com/resizer/HCJVtE9JHfrGKeCjk9CJbXKJ5R8=/1200x630/filters:quality(100)/arc-anglerfish-arc2-prod-mco.s3.amazonaws.com/public/MAYIFX5RQ5BLHHABTTKYSBPTL4.jpg"
-    width: 1200
-    height: 630
-    title: "The Pentagon now has 5 principles for artificial intelligence"
+  - url: "https://d3lcr32v2pp4l1.cloudfront.net/Pictures/2000x2000fit/7/8/9/67789_mq9reaperfliesatrainingmissionoverthenevadatestandtrainingrangecreditusaf2_171066.jpg"
+    width: 2000
+    height: 1335
+    title: "The Pentagon’s five principles for stopping artificial intelligence from running amok"
 
 related:
   - title: "Pentagon to Adopt Detailed Principles for Using AI"
@@ -143,6 +143,19 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 47
+  - title: "The Pentagon now has 5 principles for artificial intelligence"
+    excerpt: "“This runs in stark contrast to Russia and China, whose use of AI technology for military purposes raises serious concerns about human rights, ethics and international norms.” The five principles apply to both the combat and non-combat use of AI technologies, said Deasy. Sign up for the Early Bird Brief, the defense industry's most ..."
+    publishedDateTime: 2020-02-24T23:20:00Z
+    webUrl: "https://www.defensenews.com/artificial-intelligence/2020/02/24/the-pentagon-now-has-5-principles-for-artificial-intelligence/"
+    type: article
+    provider:
+      name: Defense News
+      domain: defensenews.com
+    quality: 39
+    images:
+      - url: "https://www.armytimes.com/resizer/HCJVtE9JHfrGKeCjk9CJbXKJ5R8=/1200x630/filters:quality(100)/arc-anglerfish-arc2-prod-mco.s3.amazonaws.com/public/MAYIFX5RQ5BLHHABTTKYSBPTL4.jpg"
+        width: 1200
+        height: 630
   - title: "DOD Adopts Ethical Principles for Artificial Intelligence"
     excerpt: "The adoption of AI ethical principles aligns with the DOD AI strategy objective directing the U.S. military lead in AI ethics and the lawful use of AI systems. \"The United States, together with our allies and partners, must accelerate the adoption of AI and lead in its national security applications to maintain our strategic position ..."
     publishedDateTime: 2020-02-24T22:03:00Z
@@ -152,20 +165,7 @@ related:
       name: US Department of Defense
       domain: defense.gov
     quality: 34
-  - title: "The Pentagon’s five principles for stopping artificial intelligence from running amok"
-    excerpt: "The real hard part for this is taking the AI delivery pipeline and understanding where those ethics principles need to be applied,” says Shanahan. For instance, he says the military and developers must consider the source and quality of data used to develop AI. “Is the data representative of a very small sample size, as opposed to a very ..."
-    publishedDateTime: 2020-02-25T02:00:00Z
-    webUrl: "https://www.flightglobal.com/defence/the-pentagons-five-principles-for-stopping-artificial-intelligence-from-running-amok/136894.article"
-    type: article
-    provider:
-      name: Flightglobal
-      domain: flightglobal.com
-    quality: 32
-    images:
-      - url: "https://d3lcr32v2pp4l1.cloudfront.net/Pictures/2000x2000fit/7/8/9/67789_mq9reaperfliesatrainingmissionoverthenevadatestandtrainingrangecreditusaf2_171066.jpg"
-        width: 2000
-        height: 1335
 
-secured: "KDUOKv6SCZ1i3pBLNGMINoU6GTO1gD3BVJoV6ciUv2l5WdcbI7SylsUiaunxd62QlfWtOoCGGwoD9JWDMbO3I9QVV0ExvoDUO+nZMYyFd12/3DHod97h7YS1bCqe5IEapeOQbtO67qmE+2+DqifFm4RoeYMy3ry1k4XOWplz5zp4rVfuVLa5Q3uPT37d6gPv3mCgNl3z/5ymKS9yJ+VxdRY62iEKdIBe3BvW78gGx4SrzImZXyqHI5tH9jPktOz2+GemS3VuinF/NqlqxYKf5FFLpQxMZ0QHAie1Ymd5RMf4AKSPz4/29flNamgDAvaB0gS54YjnRdo6cRnNotIyWYWTBPNfHenw94fpQ0YDvyipDvqKtrUGSPkX/ikfx+MxTU37QtqM+w+s1BcxYMv1cfvwiX/ShbaWCKNnTHVjvjTA8tGL04f8FaIucAr9RQguuSD4IL+rj3z6DbfMAHF6yxu5MjlvDiMiJ5uLqbx+Sbk=;zO7484m5CrfW+Ml72s/TKg=="
+secured: "HRpH/fWy8tQsSm5rr7iA2UcKFrpMHXl7YTdBfggZepWBNY4MSbW14jgdZ1OjkC3RMfGp6+H7ESi/yfH4gBDhUJvl/I3QKOPEO5f7tFbNZC33FxUEfu5yb7qroK7IF2F0VOVD4Q5Q489cttwZSTE8E8UWVZsszR7AOtyqXGDbI2Yv+7+pM8ha4laK6IRu3A3wLEOs1XmZWXKNuxdINPkHrLoWmY0HlfCnqtrH9z8JWNfRu5CPby8AQQNMUu3TQ+8JUY6ZYz7LDaMxzGSJm6e+lf5uGacDc3JkTIQtUE5u1R+LwJPpwzKMYBn/85iKtoG1;C9jSr23imUZDlr+v7U5mbQ=="
 ---
 

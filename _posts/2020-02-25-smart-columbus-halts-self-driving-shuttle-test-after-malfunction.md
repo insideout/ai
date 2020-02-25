@@ -3,7 +3,7 @@ category: news
 title: "Smart Columbus halts self-driving shuttle test after malfunction"
 excerpt: "Smart Columbus has put the brakes on its two self-driving shuttles in Linden after one unexpectedly stopped in the middle of a route and a woman slipped from her seat on to the floor. The shuttle had just left the Douglas Community Recreation Center on Windsor Avenue when it stopped on the street around noon Thursday, Smart Columbus spokeswoman ..."
 publishedDateTime: 2020-02-25T01:22:00Z
-webUrl: "https://www.dispatch.com/news/20200224/smart-columbus-halts-self-driving-shuttle-test-after-unplanned-stop?rssfeed=true"
+webUrl: "https://www.dispatch.com/news/20200224/smart-columbus-halts-self-driving-shuttle-test-after-unplanned-stop"
 ampWebUrl: "https://www.dispatch.com/news/20200224/smart-columbus-halts-self-driving-shuttle-test-after-unplanned-stop?template=ampart"
 cdnAmpWebUrl: "https://www-dispatch-com.cdn.ampproject.org/c/s/www.dispatch.com/news/20200224/smart-columbus-halts-self-driving-shuttle-test-after-unplanned-stop?template=ampart"
 type: article
@@ -55,6 +55,6 @@ related:
         width: 800
         height: 600
 
-secured: "wV7z8jRcwkPSmnwZs6wKJ5EdIFafHlUeowoLZ2dvcc4iCiNjeplv1lu2Tpvd/sX3cr9marCPJ6YfBlZ1nzZ/HpQnMlMPi6tzbk5thRi1OrFXxPQz9JXqNeqadiyIM+uvPIp07ppVKtCStNS3xw39mbzVl8+Ds0zmTNjTeulVneRmJ/aBum5WWySUnqQHseMyaHlMbV2zAxmbSkOHGPYv4I7/WIyXaYutnZFuJzBuOzkn+PH/9i/0AJQQH2VyCB/19zWLtpufzgLIkeh1yQmg16QTZ1rjzX6neE4R7rr706ZHOOC+HoQQTuM+BKSUm5Ut;7jBs2WlmIpvU0CO/z3w42Q=="
+secured: "FsNmcEdP2rArUBvnhxFjqewpoV1bOgCJznolMqCdDd3RjDu78aivZkiv1bZoM1wzPWn+KY2Sl48OiS+yqzXdtJZFVeHjygAVrEhUYRAyL1tTQ3JUqHC9/x6KKQeZ12JOImtSp6AX1wk80SIIpseSE19DaW6+1zFXn/VxeVqDzQHH4Q/RKeyBEjGNLIIvu6gy8Eqlchd+yaJgWUMBmftzrFQSBjvlpfAJ8ksyHpMPJqyuszLuDuDjlJNn+Y+Yd+pXu1FDkS2moC0DkFc2e2+oULiFOYWcYs3eX5/J7V+y7KeE/gmeUlEAlEhGNEKtKnF4;8wKUW3AErktryMUhAnaOmQ=="
 ---
 

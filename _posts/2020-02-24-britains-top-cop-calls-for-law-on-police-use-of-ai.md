@@ -1,32 +1,24 @@
 ---
 category: news
-title: "Britain's top cop calls for law on police use of AI"
-excerpt: "Britain’s most senior police officer on Monday called on the government to create a legal framework for police use of new technologies such as artificial intelligence. Speaking about live facial recognition,"
-publishedDateTime: 2020-02-24T18:18:00Z
-webUrl: "https://www.reuters.com/article/us-britain-security-cameras-idUSKCN20I1GU"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN20I1GU"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN20I1GU"
+title: "Britain's Top Cop Calls for Law on Police Use of AI"
+excerpt: "LONDON (Reuters) - Britain's most senior police officer on Monday called on the government to create a legal framework for police use of new technologies such as artificial intelligence. Speaking about live facial recognition,"
+publishedDateTime: 2020-02-24T19:23:00Z
+webUrl: "https://www.usnews.com/news/technology/articles/2020-02-24/britains-top-cop-calls-for-law-on-police-use-of-ai"
 type: article
-quality: 87
-heat: 97
-published: true
+quality: 47
+heat: -1
+published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI
-
-images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200224&t=2&i=1494560510&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG1N17J"
-    width: 870
-    height: 545
-    title: "Britain's top cop calls for law on police use of AI"
 
 related:
   - title: "Britain's Top Cop Calls for Law on Police Use of Artificial Intelligence"
@@ -45,6 +37,6 @@ related:
         width: 4558
         height: 2954
 
-secured: "0tVgSgMThMBxRa6rAF6fiS2soma1UlaIR2/0VB5Io+GMEVUGa6ltSSAiHXdYZPodLhb5pr5iJyJ8t7A4nkMDOtbKIAuzvKsAGEFUqJSmxx+FIa7tzJloQSd9/g8nD4aiCUYP4JS7ln7Z1erMYCZy/cmyLw/N5S0UoY0JJnRivoIA2QfC0wAY8Y04qGRXsad9N0WNH45+CixPzXlyjewMzy3jyzDew7XNstz02C67N3NTn9F67n6XSoqF4RPhXU/rlzyyaB/q7qZNkQGxZHmWI99LPCuiZN8vDAaDPu5Q5moFSPO/byGp85lVJg3OXGHHuszgvnYS+nVdaoPFDGuiFqi+Lqv5Bhjfl9qB80VqxyLQnPNUmlcEY+kBUlpVT2a0PB8LGhwgIe2UFw7H7tFwN2Dyrb2jpXXBKMB3ITaSkOurMaLjoh4lGLDNYT0KZ2s/MPP0tSE2dZ7HdE+a8cLfJZ+JnaLc0zZs/8D/Vg7mfFA=;okR15QpyeGch9xa9KQztwA=="
+secured: "AHxVjfksCMS07YRPq8/sLmRutJinygeuGpL/zVMhlAc5fw7Yr38ZB9oCFGmjyin0ekeXLLbJ7r/iKq/YoCl4XMOWIHhTlhsK7dyUaTkACz4YKC8ZbmSNHsFdeiTariuhTQ7V/5A0sjt6p6mfp2dSe93UrAZLx+C8e+vKuX6hppNA/kijy4Bwd+EkcMEguN0A7Dq2DxjN7bT1hkOfCgZwUVOe1oTYmOOHT9AJy87aNlwqWZW7Qphx2Xm8n5+BMqE61ODuJMYURo16cKGxDkMq1gYM+priannLxe54FAV0tnLjZxQkCe0146wG9MQmyUiagvM7ZCS2IapZ1T+3s+hXcMq9cHQJvioIGcQMUmCPLIK++sMLfqkOS9wRSwKNYSsou1oGSIvT9YTKLueBcRYH90TyFxe5IYUj3yOMyg0gbQHGwy8SwfJ4f4RDXqlmdvdJk4Be7nN4zaCYAjG6eFEeZJroh2mqVK1nh3jtsRfJkbc=;wgQvG8Zi6BYnkh6noUyouQ=="
 ---
 

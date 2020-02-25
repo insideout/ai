@@ -39,6 +39,19 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/711x532/https://specials-images.forbesimg.com/dam/imageserve/954077270/960x0.jpg?fit=scale"
         width: 711
         height: 532
+  - title: "7 Top Data Science Trends in 2020 to Be Excited About"
+    excerpt: "I myself use both R and Python on a regular basis for all my data science endeavors. Quid futurum sit! In January and again in April of 2019 I wrote articles touching on the upswing of interest in automated machine learning (AutoML) tools. At the time, I reported on 23 vendors offering such products. I kept adding to the list throughout 2019 ..."
+    publishedDateTime: 2020-02-24T23:29:00Z
+    webUrl: "https://medium.com/@ODSC/7-top-data-science-trends-in-2020-to-be-excited-about-cde84c9d0710"
+    type: article
+    provider:
+      name: Medium
+      domain: medium.com
+    quality: 54
+    images:
+      - url: "https://miro.medium.com/max/640/0*d1bwU1gc_zUElZ8l.jpg"
+        width: 640
+        height: 300
   - title: "The present and future of science intersect in Seattle"
     excerpt: "He went on to talk about how artificial intelligence and gene therapy can also give us key insights into new diseases. The Fred Hutch News Service team also took advantage of the meeting being nearby and attended. Here are their observations and insights from AAAS. During the AAAS conference, infectious disease experts signaled their ..."
     publishedDateTime: 2020-02-19T21:45:00Z

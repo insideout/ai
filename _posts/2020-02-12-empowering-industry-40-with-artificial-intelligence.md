@@ -20,6 +20,21 @@ topics:
   - AI in Healthcare
   - AI in Robotics
 
+related:
+  - title: "Global Deep Learning Industry"
+    excerpt: "Table 102: Rest of World Deep Learning Market Share Analysis by ReportLinker is an award-winning market research solution. Reportlinker finds and organizes the latest industry data so you get all ..."
+    publishedDateTime: 2020-02-07T15:05:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/global-deep-learning-industry-301000864.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 39
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+
 secured: "bYE26wWETXI8JgT3CHX3pHhdOjdj77yURhY3d4ibTZeszRLVZUGY1uwhfPxTN46H2st1W3eTFDmixhfW2i5gDG+OsrFfzqKN2WcNuI9psOaW4fzt0Ehc7ILEuD5FqgwoQdimctiKFdNafLXqIWyn24MPFHRh4EBX+vCOulieEI7DZCdrnT/t/zpxRqHxIsrOizZTsLRxwRQg5KbRPY9LveklIC6Np9fODH//EF43F7UloG4B/F4Zry8a61UZcLs+rg/PlL6S1qxyxFokxDOTgsQYdlEpRa4+CWv9TWhW16XX7YrmPa2GJEYH4FxEEEI29twAnzFuiQrFD/FOtcnbxk7GZ1xCCGFGfMBzWeZKKOOQP4e/zTcc/KuCFdp8rnh15GWQ4d8Gg1nqSzlHDekRykeD7yj6QgUVNzL04apF3ryhv8PfLN/cIpZFdr2fV2gk/cu1wUH58i5xe/Ou7SJ7wKUIYJiChn64a1PgoeD3Ds0=;qcSfhqwQR/sXbaz44vcB2Q=="
 ---
 

@@ -33,6 +33,15 @@ related:
       - url: "https://www.abnewswire.com/uploads/1581944541.jpeg"
         width: 747
         height: 419
+  - title: "2020's Trend: Speech Recognition- Latest Innovations and Market Scope 2019-2026"
+    excerpt: "Speech Recognition: How it Works? Speech recognition is a technology used in various devices such as smartphones which enables system to identify the sound of spoken words and convert them into machine readable form. It uses linguistic units for speech and audio signals. These signals are measured by word error rate (WER) that helps to identify ..."
+    publishedDateTime: 2020-02-11T08:37:00Z
+    webUrl: "https://www.openpr.com/news/1926902/2020-s-trend-speech-recognition-latest-innovations"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 15
 
 secured: "yq0Z9qe8nqauXKvyzl/01DdkYhpBBcTA9z+hPcjUPpUK5tWuoyTWUaQQ/TdkFDAA1jfVrICtsxuJUBpc3eFylY5L3o2S+4CrF/qNsBLkH1HDmrDJkhqst5Pzv0dZ5TknshfMjgAug2v3FM/3N5prjdSfAXi3A7FYfQpLwUFgDgCVeR8av8aioPh4HX9WPyz8wTQdt6xBjhCu/CDMMCX/PJpl6VV0h13DOx27GpPYuWl1pwQ9t3xoTKsmRlhMh+/Vtfkx7KfVhEBTzuOBPP9Z1d94GQ3EzjS1l+JqRsvCkCT25eWmZ9OJsgaK3fK2F0ZL8AQUMxNujhK0WGTyUNZrV9OX/xhyvrzTNWuVBHmkTNZE4hdCMUJtSwXP7Xi2pi8ThGf3ortondRf9Jj9KSsSLD/rHiVwbuYs8SB/x0agi3QUQ+/hSDIdGg7ddEyTceaYwnblQm8ammfmGgqJaJntOx2OafJIFvS0r66DyYg78S4=;7C6W8WgNO/MIXMKgJvHWMA=="
 ---

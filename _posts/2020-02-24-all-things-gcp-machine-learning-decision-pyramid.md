@@ -5,9 +5,9 @@ excerpt: "Many users want Machine Learning in their products and cloud providers
 publishedDateTime: 2020-02-24T23:35:00Z
 webUrl: "https://medium.com/analytics-vidhya/all-things-gcp-machine-learning-decision-pyramid-82260c798a88"
 type: article
-quality: 54
-heat: 64
-published: false
+quality: 71
+heat: 81
+published: true
 
 provider:
   name: Medium
@@ -20,6 +20,7 @@ provider:
 topics:
   - AI
   - Microsoft AI
+  - Machine Learning
 
 images:
   - url: "https://miro.medium.com/max/1200/1*Jj3jiMWxYJOMJIcMQj34bw.jpeg"
@@ -38,6 +39,6 @@ related:
       domain: industryweek.com
     quality: 6
 
-secured: "sUAcpeVXoQ+o5UjWk1E14oL7EMn0wR/DPKYjCp6yoN33qnBbCVojFvwPFUc7IGyC98Q8d4yxXgv+cayaMlR99O7/0hp8u1bW4AiB64ZU6TkvckDP/xE62Qsev8/5l5LtIg/DmBUeQ2npiyYQtc8unI9ClSiAxDxjF8UdDCuteKPSPdCI7GA7qa4P+DyVGZ/SdAxPx1qF8SN5drFMMu35OPDf/ZL+grm7qwadupubdvf/uw4+IwwDSjBAMFWD+wi6WdNeJjfHMQ5Ue7zk63NHab2BErAPCFb4Y155qZEM0J3/TnHjIrOiA1IxS0TjFS6F;HUXuuBOEwmcxReUILfjcsw=="
+secured: "9++tKlP6r4M8KgHLfdN8+LeCWZlUQeXbrZ+4QJKlb90Ad962q6OmpHJGWEC4daEsPAVcEyGh2PahMA/YJMz4RtvHLf4eYuJQkKSiW/CpwJfWucP1QRbTMfV+mcsxK47uzVEnbE0OyB7IPV02hJtfsbrMSbsFz7Pb8qsODR3toKHac2NehN+8uAANgWcVVnc7ur+pTwc03nP/1i1+u7/O59ppauvX8hmfUzHPaqo6QiQqM4UBGtILGxX5Yjao4P3+rieTqGZDE9HJ9wv7wBNvei7V/8pLvpZJR+ne5Em1ZIF1IOyIfzLn3nHQO9puWchZ;nIBa4AzyR4YEN6LLsGX50A=="
 ---
 

@@ -27,6 +27,15 @@ images:
     title: "Emotion Detection And Recognition Market Perceives A Fabulous Growth Prospects; Unleashed Market Insights Till 2023"
 
 related:
+  - title: "2020's Trend: Speech Recognition- Latest Innovations and Market Scope 2019-2026"
+    excerpt: "Speech Recognition: How it Works? Speech recognition is a technology used in various devices such as smartphones which enables system to identify the sound of spoken words and convert them into machine readable form. It uses linguistic units for speech and audio signals. These signals are measured by word error rate (WER) that helps to identify ..."
+    publishedDateTime: 2020-02-11T08:37:00Z
+    webUrl: "https://www.openpr.com/news/1926902/2020-s-trend-speech-recognition-latest-innovations"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 15
   - title: "Consumer biometrics, speech recognition, 3D sensors and digital ID markets all to grow by at least 17 percent CAGR"
     excerpt: "Voice and speech recognition will be a $26.8 billion market by 2025, growing from 2019 at a CAGR of 17.2 percent, according to a report from Meticulous Research. Speech recognition is expected to be the larger segment, but the whole market will be driven by growing technology acceptance, consumer demand for smart devices, increased focus on ..."
     publishedDateTime: 2020-02-14T21:25:00Z

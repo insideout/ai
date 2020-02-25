@@ -7,8 +7,8 @@ webUrl: "https://www.deccanchronicle.com/technology/in-other-news/250120/udacity
 ampWebUrl: "https://www.deccanchronicle.com/amp/technology/in-other-news/250120/udacity-launches-new-intro-to-machine-learning-with-tensorflow-nanodeg.html"
 cdnAmpWebUrl: "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/technology/in-other-news/250120/udacity-launches-new-intro-to-machine-learning-with-tensorflow-nanodeg.html"
 type: article
-quality: 54
-heat: 54
+quality: 34
+heat: 34
 published: false
 
 provider:
@@ -19,12 +19,6 @@ topics:
   - AI
   - Google AI
 
-images:
-  - url: "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-uite3ht17d3qokiucq4k6ha7u0-20200125095642.Medi.jpeg"
-    width: 800
-    height: 448
-    title: "Udacity launches new Intro to Machine Learning with TensorFlow Nanodegree program"
-
-secured: "gxckhyB6Zx1Y/nlVPDPcGV+SXqCRE2vNaKQAHwag0qagSyu6MWs4Bj025MJp186sNZg4KyfhNh9ELwUarBFzsbO6kDErgSztbLxqBZeg3nmYJPvsw+nLbHvbNKuUNx4ABPF5sxkHvr5Q4zshjBtkfEqw6VY9ENE9G3rfjgFdfBoQxRBJwshAKZCgJX4yyAWBXKe9eycR6RTUJOGIQr80FvBGNEymPcM/vafsuJQn6qE33owRpB6JscCNPg5fvtsKP5OWABgEEc0NeNLblr76OYFMLbVKiF6jaB5a/OBSSvQBcuee1fRbsjqx7B8tIfNO;6ogV6WucvqcFWPLpk94aNQ=="
+secured: "dGfDoc+R/zVAlmVj+ByseDnc+p/HDc1Tf2e/oiXnC2qeSwQwrTixianwI0/uUNMR1gUMVAPbp7348Shuhsqt89ViuHEurBojAZJNcIfTc9PdJ6pEYxWOjGHyJxmKMXVK4sfO6F+AyvE1YO85Pyu7BnF6mkt/XS4583rYOwrDMaYC8NAnX37gUOscp/qPj3nMMUCNl7RFh7Os3FW+7byd+zjn28Y6Asa388UB1c7SZd2g8bOEjZYtNk8zGA5WcbsddO2YJYAE5kHx4caKUN9p1Nh0snJGL6Bift9IPFpxEAmXxxX/QDr+YYPD3EgoCUjj;bQ08E8OxJEG6jVuI1h1JyQ=="
 ---
 

@@ -52,21 +52,21 @@ related:
       - url: "https://cdnph.upi.com/sv/ph/og/upi/3091582573432/2020/1/9824e619619d8a01a1f10fbe03097da5/v1.5/Pentagon-adopts-ethics-for-artificial-intelligence-use.jpg"
         width: 800
         height: 534
-  - title: "Pentagon adopts new ethical principles for using AI in war"
+  - title: "Pentagon Adopts New Ethical Principles for Using AI in War"
     excerpt: "While the Pentagon acknowledged that AI “raises new ethical ambiguities and risks,\" the new principles fall short of stronger restrictions favored by arms control advocates. “I worry that the principles are a bit of an ethics-washing project,” said Lucy Suchman, an anthropologist who studies the role of AI in warfare. “The word ..."
-    publishedDateTime: 2020-02-24T21:54:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/pentagon-adopts-ethical-principles-ai-war-69181756"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pentagon-adopts-ethical-principles-ai-war-69181756"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pentagon-adopts-ethical-principles-ai-war-69181756"
+    publishedDateTime: 2020-02-24T23:28:00Z
+    webUrl: "https://www.nbcnewyork.com/news/national-international/pentagon-adopts-new-ethical-principles-for-using-ai-in-war/2300430/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/pentagon-adopts-new-ethical-principles-for-using-ai-in-war/2300430/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/pentagon-adopts-new-ethical-principles-for-using-ai-in-war/2300430/?amp"
     type: article
     provider:
-      name: ABC
-      domain: go.com
+      name: NBC New York
+      domain: nbcnewyork.com
     quality: 74
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_5a2ee9d1ab2546ab8f055f25d1597576_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://media.nbcnewyork.com/2019/09/1055516816-Pentagon.jpg?resize=1200%2C675"
+        width: 1200
+        height: 675
   - title: "U.S. military adopts new ethics principles for using AI in war"
     excerpt: "The U.S. military is adopting new ethics principles as it prepares to accelerate its use of artificial intelligence technology on the battlefield. The Defense Department’s new principles call for people to “exercise appropriate levels of judgment and care” when deploying and using AI systems, such as systems that scan aerial imagery to ..."
     publishedDateTime: 2020-02-24T23:09:00Z
@@ -121,6 +121,15 @@ related:
       - url: "https://media.13newsnow.com/assets/WVEC/images/58a3c937-e9af-42da-a5b4-b33c6745f1e8/58a3c937-e9af-42da-a5b4-b33c6745f1e8_1140x641.jpg"
         width: 1140
         height: 641
+  - title: "Pentagon Adopts New Ethical Principles for Using AI in War"
+    excerpt: "The Pentagon is adopting new ethical principles as it prepares to accelerate its use of artificial intelligence technology on the battlefield."
+    publishedDateTime: 2020-02-25T01:36:00Z
+    webUrl: "https://www.usnews.com/news/business/articles/2020-02-24/pentagon-adopts-new-ethical-principles-for-using-ai-in-war"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 47
   - title: "The Pentagon now has 5 principles for artificial intelligence"
     excerpt: "“This runs in stark contrast to Russia and China, whose use of AI technology for military purposes raises serious concerns about human rights, ethics and international norms.” The five principles apply to both the combat and non-combat use of AI technologies, said Deasy. Sign up for the Early Bird Brief, the defense industry's most ..."
     publishedDateTime: 2020-02-24T23:20:00Z
@@ -143,6 +152,19 @@ related:
       name: US Department of Defense
       domain: defense.gov
     quality: 34
+  - title: "The Pentagon’s five principles for stopping artificial intelligence from running amok"
+    excerpt: "The real hard part for this is taking the AI delivery pipeline and understanding where those ethics principles need to be applied,” says Shanahan. For instance, he says the military and developers must consider the source and quality of data used to develop AI. “Is the data representative of a very small sample size, as opposed to a very ..."
+    publishedDateTime: 2020-02-25T02:00:00Z
+    webUrl: "https://www.flightglobal.com/defence/the-pentagons-five-principles-for-stopping-artificial-intelligence-from-running-amok/136894.article"
+    type: article
+    provider:
+      name: Flightglobal
+      domain: flightglobal.com
+    quality: 32
+    images:
+      - url: "https://d3lcr32v2pp4l1.cloudfront.net/Pictures/2000x2000fit/7/8/9/67789_mq9reaperfliesatrainingmissionoverthenevadatestandtrainingrangecreditusaf2_171066.jpg"
+        width: 2000
+        height: 1335
 
 secured: "+QKlymtgqjgWNDoGUnzRuynlN8sy6XPraWB2TivlULzY2D1xtFoLPgIxo638vIjGh8EBJsoVbsPLbnL1dOi3c8c39zkMVIaOZT0iPpmauQToRxDWo09j5DhqGQSD81IRtOcp6RVhBbLBbUOWwEYJJ7dJA4h2UYnnEGfU47MyjNrIRC7qQe0a7TntN9nUSKqHhX7x+95EhaGh66H6XpexKaK+x89ISdI4I1N0B32HqUvWyjN3e5BnqCD4xhPOZDirN9e6ONneDYd/3NRVrByzWr1oC5eTjJkiAi/OahWwt5RCmfTJOCmxovRwVfafxlKzOX8X39cEPRxCRHgow/tkpypzPeyaHqBZenHXEESe9m7AZI7KOFtkEBIWZ7dJ1m4myCg8Gp7hjk4By3A9so4dttA4lFGt3TNHAt4mHph1Qp26ohUaqzsRL97M+f3SjslqdjsbhoLP/Feq5SCDtQk0gr6psSP7LsJLMH1eeEK4JAk=;yhFj0nxhgFJutSoXkPxtEA=="
 ---

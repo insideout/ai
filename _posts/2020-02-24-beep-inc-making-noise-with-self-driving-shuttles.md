@@ -42,7 +42,7 @@ related:
   - title: "Smart Columbus halts self-driving shuttle test after malfunction"
     excerpt: "Smart Columbus has put the brakes on its two self-driving shuttles in Linden after one unexpectedly stopped in the middle of a route and a woman slipped from her seat on to the floor. The shuttle had just left the Douglas Community Recreation Center on Windsor Avenue when it stopped on the street around noon Thursday, Smart Columbus spokeswoman ..."
     publishedDateTime: 2020-02-25T01:22:00Z
-    webUrl: "https://www.dispatch.com/news/20200224/smart-columbus-halts-self-driving-shuttle-test-after-unplanned-stop?rssfeed=true"
+    webUrl: "https://www.dispatch.com/news/20200224/smart-columbus-halts-self-driving-shuttle-test-after-unplanned-stop"
     ampWebUrl: "https://www.dispatch.com/news/20200224/smart-columbus-halts-self-driving-shuttle-test-after-unplanned-stop?template=ampart"
     cdnAmpWebUrl: "https://www-dispatch-com.cdn.ampproject.org/c/s/www.dispatch.com/news/20200224/smart-columbus-halts-self-driving-shuttle-test-after-unplanned-stop?template=ampart"
     type: article

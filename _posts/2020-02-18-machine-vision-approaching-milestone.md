@@ -27,7 +27,7 @@ related:
     provider:
       name: Medium
       domain: medium.com
-    quality: 54
+    quality: 71
     images:
       - url: "https://miro.medium.com/max/1200/1*Jj3jiMWxYJOMJIcMQj34bw.jpeg"
         width: 1200

@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Pentagon adopts new ethical principles for using AI in war"
+title: "Pentagon Adopts New Ethical Principles for Using AI in War"
 excerpt: "While the Pentagon acknowledged that AI “raises new ethical ambiguities and risks,\" the new principles fall short of stronger restrictions favored by arms control advocates. “I worry that the principles are a bit of an ethics-washing project,” said Lucy Suchman, an anthropologist who studies the role of AI in warfare. “The word ..."
-publishedDateTime: 2020-02-24T21:54:00Z
-webUrl: "https://abcnews.go.com/Politics/wireStory/pentagon-adopts-ethical-principles-ai-war-69181756"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pentagon-adopts-ethical-principles-ai-war-69181756"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pentagon-adopts-ethical-principles-ai-war-69181756"
+publishedDateTime: 2020-02-24T23:28:00Z
+webUrl: "https://www.nbcnewyork.com/news/national-international/pentagon-adopts-new-ethical-principles-for-using-ai-in-war/2300430/"
+ampWebUrl: "https://www.nbcnewyork.com/news/national-international/pentagon-adopts-new-ethical-principles-for-using-ai-in-war/2300430/?amp"
+cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/pentagon-adopts-new-ethical-principles-for-using-ai-in-war/2300430/?amp"
 type: article
 quality: 74
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: go.com
+  name: NBC New York
+  domain: nbcnewyork.com
 
 topics:
   - AI
   - AI Ethics
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_5a2ee9d1ab2546ab8f055f25d1597576_16x9_992.jpg"
-    width: 992
-    height: 558
-    title: "Pentagon adopts new ethical principles for using AI in war"
+  - url: "https://media.nbcnewyork.com/2019/09/1055516816-Pentagon.jpg?resize=1200%2C675"
+    width: 1200
+    height: 675
+    title: "Pentagon Adopts New Ethical Principles for Using AI in War"
 
 related:
   - title: "Pentagon to Adopt Detailed Principles for Using AI"
@@ -121,6 +121,15 @@ related:
       - url: "https://media.13newsnow.com/assets/WVEC/images/58a3c937-e9af-42da-a5b4-b33c6745f1e8/58a3c937-e9af-42da-a5b4-b33c6745f1e8_1140x641.jpg"
         width: 1140
         height: 641
+  - title: "Pentagon Adopts New Ethical Principles for Using AI in War"
+    excerpt: "The Pentagon is adopting new ethical principles as it prepares to accelerate its use of artificial intelligence technology on the battlefield."
+    publishedDateTime: 2020-02-25T01:36:00Z
+    webUrl: "https://www.usnews.com/news/business/articles/2020-02-24/pentagon-adopts-new-ethical-principles-for-using-ai-in-war"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 47
   - title: "The Pentagon now has 5 principles for artificial intelligence"
     excerpt: "“This runs in stark contrast to Russia and China, whose use of AI technology for military purposes raises serious concerns about human rights, ethics and international norms.” The five principles apply to both the combat and non-combat use of AI technologies, said Deasy. Sign up for the Early Bird Brief, the defense industry's most ..."
     publishedDateTime: 2020-02-24T23:20:00Z
@@ -143,7 +152,20 @@ related:
       name: US Department of Defense
       domain: defense.gov
     quality: 34
+  - title: "The Pentagon’s five principles for stopping artificial intelligence from running amok"
+    excerpt: "The real hard part for this is taking the AI delivery pipeline and understanding where those ethics principles need to be applied,” says Shanahan. For instance, he says the military and developers must consider the source and quality of data used to develop AI. “Is the data representative of a very small sample size, as opposed to a very ..."
+    publishedDateTime: 2020-02-25T02:00:00Z
+    webUrl: "https://www.flightglobal.com/defence/the-pentagons-five-principles-for-stopping-artificial-intelligence-from-running-amok/136894.article"
+    type: article
+    provider:
+      name: Flightglobal
+      domain: flightglobal.com
+    quality: 32
+    images:
+      - url: "https://d3lcr32v2pp4l1.cloudfront.net/Pictures/2000x2000fit/7/8/9/67789_mq9reaperfliesatrainingmissionoverthenevadatestandtrainingrangecreditusaf2_171066.jpg"
+        width: 2000
+        height: 1335
 
-secured: "r4bvdOEhCKNvt8OcXNLttk9yxvOPtm6VM6RMEonJUOXRTMshWEh+FsSWwTua4haq+4R04kE7tv9ZDkMI2whylbjsfCqCQF/mK1ZBjDtYai9ZhZ0xpEQMXmxkutlz/pzOO7IiU/Xwxt2RKu4VQHl/xmddT8RBAEbCrNmd8kDGvgz9I0hOLX7ciglmAQrbb4jVlcYmtr8KBqe5yHEDw3zIoIlgI8hH5yB/EjrW1QzsI42+UyxisaR6Eoa1SurDxdzciyI2L4FRg36wZucWYvustzB8ag0YeYGz7IEcb3t03HQ/CQLWLZzPWkg9vp756NSH;itq95lsJObkhmjBhWAqVUA=="
+secured: "5ppcVTEXoOBwo46We78xLykjNY7PNYPyf82kw+vRPkLoikQSyZ22LbrV4jMjarA21bUQM5tjLKqHllUUY57TyXV8RriEFLsni9beFg7L26R6tnwoX9eifFLRzhuyFyJvMCuthqMh/YAZLXuyjfvJasPiQxMKy2Fjsqti+M9tVm9pBEYxO4yZtfXkumJTVTXk7gS6KWJk87nOqK1UxnMlO2w1dhKxsMHBBwdvuZBsCNxjXXnzCeXUvHeHFN/hnLXDk5z3lscPphBlX4GeDTIHxIu40OFuEUQrCiPGAqOrp0kghoFKiG6TI0f2PsRa1/XN;1haKwqp03slXuEJhuvCN6A=="
 ---
 

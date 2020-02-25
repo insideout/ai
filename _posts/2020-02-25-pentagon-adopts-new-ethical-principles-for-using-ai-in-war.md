@@ -1,27 +1,24 @@
 ---
 category: news
-title: "The Pentagon now has 5 principles for artificial intelligence"
-excerpt: "“This runs in stark contrast to Russia and China, whose use of AI technology for military purposes raises serious concerns about human rights, ethics and international norms.” The five principles apply to both the combat and non-combat use of AI technologies, said Deasy. Sign up for the Early Bird Brief, the defense industry's most ..."
-publishedDateTime: 2020-02-24T23:20:00Z
-webUrl: "https://www.defensenews.com/artificial-intelligence/2020/02/24/the-pentagon-now-has-5-principles-for-artificial-intelligence/"
+title: "Pentagon Adopts New Ethical Principles for Using AI in War"
+excerpt: "The Pentagon is adopting new ethical principles as it prepares to accelerate its use of artificial intelligence technology on the battlefield."
+publishedDateTime: 2020-02-25T01:36:00Z
+webUrl: "https://www.usnews.com/news/business/articles/2020-02-24/pentagon-adopts-new-ethical-principles-for-using-ai-in-war"
 type: article
-quality: 39
+quality: 47
 heat: -1
 published: false
 
 provider:
-  name: Defense News
-  domain: defensenews.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
-  - AI Ethics
-
-images:
-  - url: "https://www.armytimes.com/resizer/HCJVtE9JHfrGKeCjk9CJbXKJ5R8=/1200x630/filters:quality(100)/arc-anglerfish-arc2-prod-mco.s3.amazonaws.com/public/MAYIFX5RQ5BLHHABTTKYSBPTL4.jpg"
-    width: 1200
-    height: 630
-    title: "The Pentagon now has 5 principles for artificial intelligence"
 
 related:
   - title: "Pentagon to Adopt Detailed Principles for Using AI"
@@ -134,15 +131,19 @@ related:
       - url: "https://media.13newsnow.com/assets/WVEC/images/58a3c937-e9af-42da-a5b4-b33c6745f1e8/58a3c937-e9af-42da-a5b4-b33c6745f1e8_1140x641.jpg"
         width: 1140
         height: 641
-  - title: "Pentagon Adopts New Ethical Principles for Using AI in War"
-    excerpt: "The Pentagon is adopting new ethical principles as it prepares to accelerate its use of artificial intelligence technology on the battlefield."
-    publishedDateTime: 2020-02-25T01:36:00Z
-    webUrl: "https://www.usnews.com/news/business/articles/2020-02-24/pentagon-adopts-new-ethical-principles-for-using-ai-in-war"
+  - title: "The Pentagon now has 5 principles for artificial intelligence"
+    excerpt: "“This runs in stark contrast to Russia and China, whose use of AI technology for military purposes raises serious concerns about human rights, ethics and international norms.” The five principles apply to both the combat and non-combat use of AI technologies, said Deasy. Sign up for the Early Bird Brief, the defense industry's most ..."
+    publishedDateTime: 2020-02-24T23:20:00Z
+    webUrl: "https://www.defensenews.com/artificial-intelligence/2020/02/24/the-pentagon-now-has-5-principles-for-artificial-intelligence/"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 47
+      name: Defense News
+      domain: defensenews.com
+    quality: 39
+    images:
+      - url: "https://www.armytimes.com/resizer/HCJVtE9JHfrGKeCjk9CJbXKJ5R8=/1200x630/filters:quality(100)/arc-anglerfish-arc2-prod-mco.s3.amazonaws.com/public/MAYIFX5RQ5BLHHABTTKYSBPTL4.jpg"
+        width: 1200
+        height: 630
   - title: "DOD Adopts Ethical Principles for Artificial Intelligence"
     excerpt: "The adoption of AI ethical principles aligns with the DOD AI strategy objective directing the U.S. military lead in AI ethics and the lawful use of AI systems. \"The United States, together with our allies and partners, must accelerate the adoption of AI and lead in its national security applications to maintain our strategic position ..."
     publishedDateTime: 2020-02-24T22:03:00Z
@@ -166,6 +167,6 @@ related:
         width: 2000
         height: 1335
 
-secured: "KDUOKv6SCZ1i3pBLNGMINoU6GTO1gD3BVJoV6ciUv2l5WdcbI7SylsUiaunxd62QlfWtOoCGGwoD9JWDMbO3I9QVV0ExvoDUO+nZMYyFd12/3DHod97h7YS1bCqe5IEapeOQbtO67qmE+2+DqifFm4RoeYMy3ry1k4XOWplz5zp4rVfuVLa5Q3uPT37d6gPv3mCgNl3z/5ymKS9yJ+VxdRY62iEKdIBe3BvW78gGx4SrzImZXyqHI5tH9jPktOz2+GemS3VuinF/NqlqxYKf5FFLpQxMZ0QHAie1Ymd5RMf4AKSPz4/29flNamgDAvaB0gS54YjnRdo6cRnNotIyWYWTBPNfHenw94fpQ0YDvyipDvqKtrUGSPkX/ikfx+MxTU37QtqM+w+s1BcxYMv1cfvwiX/ShbaWCKNnTHVjvjTA8tGL04f8FaIucAr9RQguuSD4IL+rj3z6DbfMAHF6yxu5MjlvDiMiJ5uLqbx+Sbk=;zO7484m5CrfW+Ml72s/TKg=="
+secured: "c7a/I7Q7ILrRPpPIQ0WO97yK2WlbGFboYug5B5MXUue65f3zPfITvZYU07kKPE6SQHyjypTHV5Yd4c4aDTLKYPTWr1zQNETqsUtUwyMIUICH9Jp9AZGxGLmQpjYJWCdD7SFVNW4fCFYJCz4e3EnNo2ktimu/jJ5JVDX55HyrwWafjFqlrQ7vd4vvH5+QMC4HUMqXHn8NezgNe4dWctW5c+fAX6SE4d3I88YMsa7uAymupO6OHgxSZPzjlOptVIarTSolq7qiVdFjScL4qfK7p1wpXg4pWqSYTP3e0Jl8UMI7s8hqjpPT5m35qYLpcYgRk0IKQb0zyKrMdSF96IDFWf4No9pzq5WC98UHeEayqckt6PbUtDe8jbh+LBgQpmLBER1yUg9/eShRzWpy1LNU0voG1yhcpGu7CH1xR9d5hq9t5ZAFprKqvuq9XbPmnnadWQEhJhm5NWxYine4I2Dffy8ZTvc5DUPXJ8DaZdEvT98=;5nkxHLBlU8PgnmX0+1FCFg=="
 ---
 

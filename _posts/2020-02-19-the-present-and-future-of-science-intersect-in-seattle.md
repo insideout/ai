@@ -39,6 +39,19 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/711x532/https://specials-images.forbesimg.com/dam/imageserve/954077270/960x0.jpg?fit=scale"
         width: 711
         height: 532
+  - title: "7 Top Data Science Trends in 2020 to Be Excited About"
+    excerpt: "I myself use both R and Python on a regular basis for all my data science endeavors. Quid futurum sit! In January and again in April of 2019 I wrote articles touching on the upswing of interest in automated machine learning (AutoML) tools. At the time, I reported on 23 vendors offering such products. I kept adding to the list throughout 2019 ..."
+    publishedDateTime: 2020-02-24T23:29:00Z
+    webUrl: "https://medium.com/@ODSC/7-top-data-science-trends-in-2020-to-be-excited-about-cde84c9d0710"
+    type: article
+    provider:
+      name: Medium
+      domain: medium.com
+    quality: 54
+    images:
+      - url: "https://miro.medium.com/max/640/0*d1bwU1gc_zUElZ8l.jpg"
+        width: 640
+        height: 300
   - title: "7 Popular Data Science Presentations On SlideShare"
     excerpt: "Moving Machine Learning Models To Production With Tensorflow Extended Moving Your Machine Learning Models to Production with TensorFlow Extended from Jonathan Mugan In Moving Machine Learning To Production With Tensorflow Extended, one can learn how to move their ML models to production with TensorFlow Extended (TFX) — an end-to-end platform ..."
     publishedDateTime: 2020-02-14T04:36:00Z
