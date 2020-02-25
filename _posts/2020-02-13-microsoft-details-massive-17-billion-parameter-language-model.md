@@ -39,19 +39,6 @@ related:
       - url: "https://mspoweruser.com/wp-content/uploads/2020/02/Microsoft-Deepspeed-deeplearning.jpg"
         width: 1305
         height: 717
-  - title: "Turing-NLG: A 17-billion-parameter language model by Microsoft"
-    excerpt: "have improved the state of the art on nearly every downstream natural language processing (NLP) task, including question answering, conversational agents, and document understanding among others. We are releasing a private demo of T-NLG, including its freeform generation, question answering, and summarization capabilities, to a small set of ..."
-    publishedDateTime: 2020-02-10T17:43:00Z
-    webUrl: "https://www.microsoft.com/en-us/research/blog/turing-nlg-a-17-billion-parameter-language-model-by-microsoft/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 24
-    images:
-      - url: "https://www.microsoft.com/en-us/research/uploads/prod/2020/02/TurningNGL_Model__1400x788-5e418cff76a2a.png"
-        width: 1400
-        height: 788
 
 secured: "VkY7QnOTDi+TTczbCzSURZBt+cAFmLmVOlq9307D1aJH+rbuvF2uvNQCru2MRlRD9v5kf1SYWM8qKNqP3dqWYJ+tTOhnfeOovLMa10WEPnp1s+JnggLP1gLwhnRz8/4TrQUMPmlNyEJwVrkU8AjC562TbeM91Gkv2hwwfCKD8fvtp9S/Rj4/ceJld15o1yeAsmDs+tcVB4616+p7y3oBMLHwlAyEjdBFQSh5EOz/3/i0h+dwqI7sZ6S/N8nmFmFb66Dg31tkPwBUizVfFLCm84pHzA5QvdRqucn1jcPbSdWOXehwvxTmAhlc5u16J5t7UFJmK3JCATTG0UAbJCUUzgRiBWulc7oo1TlbW7IJUIvT/20SjWjQqZzc90+MO9qAfSkayarU9HxmasqPM0DutkCyd5CVdZC9Gn7X4ByXHFSCkwWEd5DV661fEF7KanaAAO6QjbqLIBvHJCazsyD/R0qFgGlDm/YBIARHBOl09Ek=;WTQQoFbo1DRI2ARM64pj8g=="
 ---

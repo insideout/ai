@@ -2,347 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_posts/2020-02-21-edmodo-partners-with-ibm-watson-education-to-close-learning-gaps-using-ai.md",
-      "title": "Edmodo Partners with IBM Watson Education to Close Learning Gaps using AI",
-      "excerpt": "Before it's here, it's on the Bloomberg Terminal.",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bloomberg.com/press-releases/2018-07-16/edmodo-partners-with-ibm-watson-education-to-close-learning-gaps-using-ai",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-21T10:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-21-facial-recognition-company-clearview-ai-probed-by-canada-privacy-agencies.md",
-      "title": "Facial recognition company Clearview AI probed by Canada privacy agencies",
-      "excerpt": "Canadian privacy authorities have launched an investigation into New York-based Clearview AI to determine whether the firm’s use of facial recognition technology complies with the country’s privacy laws,",
-      "heat": 183,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.reuters.com/article/us-clearview-ai-canada-idUSKBN20F2I3",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN20F2I3",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN20F2I3",
-      "publishedDateTime": "2020-02-21T10:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Facial recognition company Clearview AI probed by Canada privacy agencies",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-21-google-launches-tensorflow-library-for-optimizing-fairness-constraints.md",
-      "title": "Google launches TensorFlow library for optimizing fairness constraints",
-      "excerpt": "Google AI today released TensorFlow Constrained Optimization (TFCO), a supervised machine learning library built for training machine learning models on multiple metrics, and “optimizing inequality-constrained problems.” The library is designed to help address issues like fairness constraints and predictive parity and help machine learning ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/21/google-launches-tensorflow-library-for-optimizing-fairness-constraints/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-21T14:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/06/tensorflow.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Google launches TensorFlow library for optimizing fairness constraints",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-21-how-ai-is-supercharging-rpa-robotic-process-automation.md",
-      "title": "How AI Is Supercharging RPA (Robotic Process Automation)",
-      "excerpt": "Robotic Process Automation (RPA), which allows for the automation of the tasks of workers, has been one of the hottest categories in tech. The reason is actually simple: the ROI (Return on Investment) has generally been fairly high.",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/tomtaulli/2020/02/21/how-ai-is-supercharging-rpa-robotic-process-automation/",
-      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2020/02/21/how-ai-is-supercharging-rpa-robotic-process-automation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/02/21/how-ai-is-supercharging-rpa-robotic-process-automation/amp/",
-      "publishedDateTime": "2020-02-21T12:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-21-how-israel-became-a-technology-startup-nation.md",
-      "title": "How Israel Became A Technology Startup Nation",
-      "excerpt": "Why should Israel have shown its mettle in the tech market? What drove this region to become a software-centric startup nation of young companies vying for a place on the global tech map?",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/02/21/how-israel-became-a-technology-startup-nation/",
-      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/02/21/how-israel-became-a-technology-startup-nation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2020/02/21/how-israel-became-a-technology-startup-nation/amp/",
-      "publishedDateTime": "2020-02-21T01:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e4f93217a0098000733e260%2F0x0.jpg",
-          "width": 640,
-          "height": 380,
-          "title": "How Israel Became A Technology Startup Nation",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-21-how-machine-learning-can-help-stamp-out-hiring-bias.md",
-      "title": "How Machine Learning Can Help Stamp Out Hiring Bias",
-      "excerpt": "But how do we check our unconscious biases when, by definition, we don't know what they are? A Seattle-based startup called Textio says it’s using machine learning to help eliminate those biases in real time, by literally changing the writing of hiring managers who are composing the job postings. This week on Gadget Lab, WIRED senior writer ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/gadget-lab-podcast-443/",
-      "ampWebUrl": "https://www.wired.com/story/gadget-lab-podcast-443/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/gadget-lab-podcast-443/amp",
-      "publishedDateTime": "2020-02-21T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5e4f21a5efbb670008f8c3aa/master/pass/GettyImages-1139487339.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": "How Machine Learning Can Help Stamp Out Hiring Bias",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-21-how-much-worth-natural-language-processing-market-will-generate-by-2026.md",
-      "title": "How much Worth Natural Language Processing Market will Generate by 2026?",
-      "excerpt": "Feb 21, 2020 (The Expresswire) -- Top Players in Natural Language Processing Market are 3M Company, Adobe Systems Inc., Amazon Web Services Inc., Apple Inc., Google (Alphabet Inc.), Hewlett-Packard Enterprise Company, Intel Corporation, International Business Machine (IBM) Corporation , Microsoft Corporation, SAS Institute Inc The overall ...",
-      "heat": 78,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/how-much-worth-natural-language-processing-market-will-generate-by-2026-2020-02-21",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-21T00:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "How much Worth Natural Language Processing Market will Generate by 2026?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-21-how-will-artificial-intelligence-change-the-commercial-real-estate-industry.md",
-      "title": "How Will Artificial Intelligence Change The Commercial Real Estate Industry?",
-      "excerpt": "Since the start of the industrial revolution, the world has seen skills shift in a way that has resulted in ever-changing jobs and newer skills required to keep pace with emerging technologies. According to McKinsey,",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbesrealestatecouncil/2020/02/21/how-will-artificial-intelligence-change-the-commercial-real-estate-industry/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesrealestatecouncil/2020/02/21/how-will-artificial-intelligence-change-the-commercial-real-estate-industry/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesrealestatecouncil/2020/02/21/how-will-artificial-intelligence-change-the-commercial-real-estate-industry/amp/",
-      "publishedDateTime": "2020-02-21T05:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1160370731/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 474,
-          "title": "How Will Artificial Intelligence Change The Commercial Real Estate Industry?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-21-leaked-reports-show-eu-police-are-planning-a-pan-european-network-of-facial-recognition-databases.md",
       "title": "Leaked Reports Show EU Police Are Planning a Pan-European Network of Facial Recognition Databases",
       "excerpt": "the EU could soon be creating a network of national police facial recognition databases. A report drawn up by the national police forces of 10 EU member states, led by Austria, calls for the introduction of EU legislation to introduce and interconnect such databases in every member state. The report, which The Intercept obtained from a European ...",
@@ -1194,6 +853,51 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-24-5-reasons-to-choose-pytorch-for-deep-learning.md",
+      "title": "5 reasons to choose PyTorch for deep learning",
+      "excerpt": "While the fast.ai course uses fast.ai’s own library that provides further abstractions on top of PyTorch (making it even easier to get to grips with deep learning), the course also delves deep into the fundamentals, building a PyTorch-like library from scratch, which will give you a thorough understanding of how the internals of PyTorch ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.infoworld.com/article/3528780/5-reasons-to-choose-pytorch-for-deep-learning.html",
+      "ampWebUrl": "https://www.infoworld.com/article/3528780/5-reasons-to-choose-pytorch-for-deep-learning.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3528780/5-reasons-to-choose-pytorch-for-deep-learning.amp.html",
+      "publishedDateTime": "2020-02-24T08:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/02/number-5-on-fire_top-five_five-tips-100750848-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "5 reasons to choose PyTorch for deep learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -2131,6 +1835,319 @@
           "width": 600,
           "height": 399,
           "title": "New York artificial intelligence company Behavox raises $100 million",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-24-nvidia-gtc-20-could-be-massive.md",
+      "title": "NVIDIA GTC ’20 Could Be Massive",
+      "excerpt": "As we approach NVIDIA’s annual GPU Technology Conference, everyone is anxious to see what CEO Jensen Huang has up his trademark black leather sleeves. I have no idea, but as usual, I have an opinion.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/02/24/nvidia-gtc-20-could-be-massive/",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/02/24/nvidia-gtc-20-could-be-massive/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/02/24/nvidia-gtc-20-could-be-massive/amp/",
+      "publishedDateTime": "2020-02-24T13:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e5412ef7a00980007341821%2F0x0.jpg",
+          "width": 899,
+          "height": 600,
+          "title": "NVIDIA GTC ’20 Could Be Massive",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-24-oracle-cloud-infrastructure-finally-gets-data-science-and-ml-services.md",
+      "title": "Oracle Cloud Infrastructure Finally Gets Data Science And ML Services",
+      "excerpt": "Even though Oracle is late to the ML PaaS party, it has unique capabilities in the form of AutoML integration with the data warehouse, model explainability, and comprehensive model management.",
+      "heat": 90,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/janakirammsv/2020/02/24/oracle-cloud-infrastructure-finally-gets-data-science-and-ml-services/",
+      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2020/02/24/oracle-cloud-infrastructure-finally-gets-data-science-and-ml-services/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/02/24/oracle-cloud-infrastructure-finally-gets-data-science-and-ml-services/amp/",
+      "publishedDateTime": "2020-02-24T01:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e53690dd378190007f41e90%2F0x0.jpg",
+          "width": 682,
+          "height": 365,
+          "title": "Oracle Cloud Infrastructure Finally Gets Data Science And ML Services",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-24-over-view-of-machine-learning-and-its-applications.md",
+      "title": "Over View of Machine Learning and its Applications",
+      "excerpt": "The Machine learning is a field of computer science evolved after studying the patterns and statistics of accumulative data, the data engineers / developers with help of specific algorithms for different data pattern sort out the features differences while as we already know before machine learning financial experts use statistical approaches ...",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/@sajjadhussain_11869/over-view-of-machine-learning-and-its-applications-bca25464669e",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-24T15:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*hVCDF0_dOqDcwpXLGduZGg.jpeg",
+          "width": 1200,
+          "height": 899,
+          "title": "Over View of Machine Learning and its Applications",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-24-robot-suitcase-uses-ai-to-help-visually-impaired-travelers.md",
+      "title": "Robot suitcase uses AI to help visually impaired travelers",
+      "excerpt": "IBM Japan and partners are developing a new suitcase-shaped robot that could help the visually impaired while they travel. The navigation robot will use artificial intelligence to help people travel more independently, whether that's around town or around the world. A consortium of five companies -- including IBM Japan, Shimizu and Mitsubishi ...",
+      "heat": 114,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/robot-suitcase-uses-ai-to-help-visually-impaired-travelers/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/robot-suitcase-uses-ai-to-help-visually-impaired-travelers/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/robot-suitcase-uses-ai-to-help-visually-impaired-travelers/",
+      "publishedDateTime": "2020-02-24T14:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet1.cbsistatic.com/img/1Fs9ohsEFGnis2AFh72zTVapQEk=/756x567/2020/02/24/6a28062c-1189-4044-8851-67cced21a744/gettyimages-sb10062851ai-001.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "Robot suitcase uses AI to help visually impaired travelers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-24-should-government-halt-the-use-of-facial-recognition-technology.md",
+      "title": "Should Government Halt the Use of Facial-Recognition Technology?",
+      "excerpt": "Critics say false positives are far higher for some groups of people than for others, but supporters of the technology says the actual numbers involved are tiny.",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/should-government-halt-the-use-of-facial-recognition-technology-11582513260",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/should-government-halt-the-use-of-facial-recognition-technology-11582513260",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/should-government-halt-the-use-of-facial-recognition-technology-11582513260",
+      "publishedDateTime": "2020-02-23T20:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-156193/social",
+          "width": 1280,
+          "height": 640,
+          "title": "Should Government Halt the Use of Facial-Recognition Technology?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-24-softbank-leads-265-million-investments-in-two-us-based-start-ups.md",
+      "title": "SoftBank leads $265 million investments in two U.S.-based start-ups",
+      "excerpt": "SoftBank on Monday led a new funding round of $165 million in California-based Karius and invested $100 million in New York-headquartered AI company Behavox, as the technology giant builds a portfolio under its second Vision Fund.",
+      "heat": 112,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-karius-funding-idUSKCN20I155",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN20I155",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN20I155",
+      "publishedDateTime": "2020-02-24T12:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200224&t=2&i=1494517480&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG1N0Y9",
+          "width": 785,
+          "height": 545,
+          "title": "SoftBank leads $265 million investments in two U.S.-based start-ups",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-24-the-future-of-customer-service-isnt-as-simple-as-ai-or-human.md",
+      "title": "The Future Of Customer Service Isn't As Simple As AI Or Human",
+      "excerpt": "Business leaders who wish to bring AI-human collaboration to life in their customer service organizations need only ask themselves a few key questions to get started.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/24/the-future-of-customer-service-isnt-as-simple-as-ai-or-human/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/24/the-future-of-customer-service-isnt-as-simple-as-ai-or-human/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/24/the-future-of-customer-service-isnt-as-simple-as-ai-or-human/amp/",
+      "publishedDateTime": "2020-02-24T09:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x493/https://specials-images.forbesimg.com/dam/imageserve/545163603/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 493,
+          "title": "The Future Of Customer Service Isn't As Simple As AI Or Human",
           "attribution": null
         }
       ],

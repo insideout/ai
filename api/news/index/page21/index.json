@@ -2,212 +2,6 @@
   "page": 21,
   "value": [
     {
-      "path": "_posts/_archive/2020-01-29-microsoft-q2-2020-earnings-369-billion-in-revenue-driven-by-big-azure-surface-growth.md",
-      "title": "Microsoft Q2 2020 earnings: $36.9 billion in revenue driven by big Azure, Surface growth",
-      "excerpt": "It doesn't appear the Surface Pro X is one of the currently supported devices for Microsoft's Surface Dock update tool. Microsoft today announced a new addition to its AI for Good program. Called AI for Health, the initiative will see Microsoft invest $40 million over the next five years to improve health outcomes for people around the world.",
-      "heat": 75,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.windowscentral.com/microsoft-q2-earnings",
-      "ampWebUrl": "https://www.windowscentral.com/microsoft-q2-earnings?amp",
-      "cdnAmpWebUrl": "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-q2-earnings?amp",
-      "publishedDateTime": "2020-01-29T12:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows Central",
-        "domain": "windowscentral.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2019/11/microsoft-logo-ignite-2019.jpg?itok=T29z3T0D",
-          "width": 800,
-          "height": 600,
-          "title": "Microsoft Q2 2020 earnings: $36.9 billion in revenue driven by big Azure, Surface growth",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-29-microsoft-takes-the-wraps-off-40-million-five-year-ai-for-health-initiative.md",
-      "title": "Microsoft takes the wraps off $40 million, five-year 'AI for Health' initiative",
-      "excerpt": "Microsoft has added a new program to its \"AI for Good\" line-up. Its new \"AI for Health\" initiative joins its existing AI for Earth; AI for Accessibility; AI for Humanitarian Action; and AI for Cultural Heritage projects. Microsoft is funding the AI for Health project at $40 million over four years. Through its AI for Good projects, Microsoft is ...",
-      "heat": 253,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/microsoft-takes-the-wraps-off-40-million-five-year-ai-for-health-initiative/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-takes-the-wraps-off-40-million-five-year-ai-for-health-initiative/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-takes-the-wraps-off-40-million-five-year-ai-for-health-initiative/",
-      "publishedDateTime": "2020-01-29T10:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/01/29/55c18e04-6bb4-4573-afbf-7c7705ad4274/microsoftaiforhealth.jpg",
-          "width": 807,
-          "height": 559,
-          "title": "Microsoft takes the wraps off $40 million, five-year 'AI for Health' initiative",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-29-nest-is-testing-detecting-hvac-problems-with-ai.md",
-      "title": "Nest is testing detecting HVAC problems with AI",
-      "excerpt": "Google today announced that it’s testing AI algorithms tailored to identify “unusual patterns” related to HVAC systems controlled by Nest, which can alert users to issues and put them in touch with a maintenance professional. Based on information like the thermostat’s historical data and current weather, Nest will learn to spot patterns ...",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/29/nest-is-testing-detecting-hvac-problems-with-ai/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/29/nest-is-testing-detecting-hvac-problems-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/29/nest-is-testing-detecting-hvac-problems-with-ai/amp/",
-      "publishedDateTime": "2020-01-29T10:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2015/01/nest-thermostat-google-smart-home.jpg?fit=1280%2C600&strip=all",
-          "width": 1280,
-          "height": 600,
-          "title": "Nest is testing detecting HVAC problems with AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-29-no-more-punxsutawney-phil-its-long-overdue-for-an-ai-groundhog-instead-peta-says.md",
-      "title": "No more Punxsutawney Phil? It’s ‘long overdue’ for an AI groundhog instead, PETA says.",
-      "excerpt": "It would renew interest in the event and allow the groundhog to dig, burrow, and forage in peace. “By creating an AI Phil, you could keep Punxsutawney at the center of Groundhog Day but in a much more progressive way,” she wrote. “Talk about taking your town’s annual tradition in a fresh and innovative direction!” While at least nine ...",
-      "heat": 299,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.washingtonpost.com/nation/2020/01/29/groundhog-peta-punxsutawney/",
-      "ampWebUrl": "https://www.washingtonpost.com/nation/2020/01/29/groundhog-peta-punxsutawney/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/01/29/groundhog-peta-punxsutawney/?outputType=amp",
-      "publishedDateTime": "2020-01-29T04:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/fCupxiPYqehvR516DtsYilH20Bw=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RRMLF7NBVNCNTO73DKPS6FKAFI.jpg",
-          "width": 1440,
-          "height": 1102,
-          "title": "No more Punxsutawney Phil? It’s ‘long overdue’ for an AI groundhog instead, PETA says.",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-29-object-recognition-is-the-answer-heres-why.md",
-      "title": "Object Recognition Is The Answer, Here’s Why",
-      "excerpt": "More specifically, the convergence of Object Recognition, Machine Vision, and Neural Networks enables machines to see and understand what it is they are seeing. For sure, there are specific use ...",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/hodfleishman/2020/01/29/object-recognition-is-the-answer-heres-why/",
-      "ampWebUrl": "https://www.forbes.com/sites/hodfleishman/2020/01/29/object-recognition-is-the-answer-heres-why/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hodfleishman/2020/01/29/object-recognition-is-the-answer-heres-why/amp/",
-      "publishedDateTime": "2020-01-29T11:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F483146942%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Object Recognition Is The Answer, Here’s Why",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-01-29-report-after-acquisition-apple-nixed-xnorais-work-on-pentagons-project-maven.md",
       "title": "Report: After acquisition, Apple nixed Xnor.ai’s work on Pentagon’s Project Maven",
       "excerpt": "The Information reports that Seattle-based Xnor.ai played a role in the Pentagon’s controversial Project Maven, but that Apple ended Xnor.ai’s involvement in the project after acquiring the startup. Love space and science? Sign up for our GeekWire Space & Science email newsletter for top headlines from Alan Boyle, GeekWire’s aerospace ...",
@@ -2125,6 +1919,223 @@
       "topics": [
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-31-ai-from-experimentation-to-adoption.md",
+      "title": "AI: from experimentation to adoption",
+      "excerpt": "has adopted IBM Watson and IBM Cloud to develop Ava, a new AI virtual Help-to-Buy mortgage adviser. Ava helps first time home buyers onto the property ladder by offering round the clock support ...",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techradar.com/news/ai-from-experimentation-to-adoption",
+      "ampWebUrl": "https://www.techradar.com/amp/news/ai-from-experimentation-to-adoption",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/ai-from-experimentation-to-adoption",
+      "publishedDateTime": "2020-01-31T03:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/Wcc69A4Ts8bhSbGgJeGkoZ-1200-80.jpg",
+          "width": 970,
+          "height": 646,
+          "title": "AI: from experimentation to adoption",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-31-artificial-intelligence-robots-market-2020-growth-share-trends-forecast-to-2025mre-analysis.md",
+      "title": "Artificial Intelligence Robots Market 2020 Growth, Share, Trends & Forecast to 2025|MRE Analysis",
+      "excerpt": "New York, January 31, 2020: The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report include Soft Bank,",
+      "heat": 403,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-2020-growth-share-trends-forecast-to-2025mre-analysis-2020-01-31",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-30T22:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence Robots Market 2020 Growth, Share, Trends & Forecast to 2025|MRE Analysis",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-31-bbc-develops-technology-that-could-let-people-feel-the-weather.md",
+      "title": "BBC develops technology that could let people 'feel' the weather",
+      "excerpt": "Technology has been developed that could allow people to 'feel the weather ... could be delivered through existing devices, such as remote controls and phones, as well as new ones.",
+      "heat": 142,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.dailymail.co.uk/news/article-7953833/BBC-develops-technology-let-people-feel-weather.html",
+      "ampWebUrl": "https://www.dailymail.co.uk/news/article-7953833/amp/BBC-develops-technology-let-people-feel-weather.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-7953833/amp/BBC-develops-technology-let-people-feel-weather.html",
+      "publishedDateTime": "2020-01-31T14:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2020/01/31/22/24149812-0-image-a-27_1580509388294.jpg",
+          "width": 636,
+          "height": 382,
+          "title": "BBC develops technology that could let people 'feel' the weather",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-31-can-we-keep-facial-recognition-from-enabling-a-surveillance-state.md",
+      "title": "Can we keep facial recognition from enabling a surveillance state?",
+      "excerpt": "Researchers have been pursuing facial recognition technologies since the 1960s but its only been in the last few years that these systems have become so alarmingly capable. Neural networks able to match faces across thousands of features with better than 98 percent accuracy as well as an explosion of available training data sets have fueled the ...",
+      "heat": 179,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/2020/01/31/can-we-keep-facial-recognition-from-enabling-a-surveillance-stat/",
+      "ampWebUrl": "https://www.engadget.com/amp/2020/01/31/can-we-keep-facial-recognition-from-enabling-a-surveillance-stat/",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/31/can-we-keep-facial-recognition-from-enabling-a-surveillance-stat/",
+      "publishedDateTime": "2020-01-31T08:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://img.vidible.tv/prod/2020-01/31/5e33a59c7a51ca78cb66fec7/5e33b0dc093398265b55af20_o_U_v1.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Can we keep facial recognition from enabling a surveillance state?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-31-chicago-police-facial-recognition-adds-jet-fuel-for-criminal-investigations.md",
+      "title": "Chicago police: Facial recognition adds “jet fuel” for criminal investigations",
+      "excerpt": "If you accessed the internet in last week or so, chances are you came across the name ClearView AI — a terrifying facial recognition software that has over three billion images in the database; far more than what FBI has. The New York Times wrote a lengthy report on how the software scraped images from all over the internet to increase its ...",
+      "heat": 95,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/artificial-intelligence/2020/01/31/facial-recognition-adds-jet-fuel-for-criminal-investigations-chicago-police/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-31T12:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/01/Facial-recognition-796x420.jpg",
+          "width": 796,
+          "height": 420,
+          "title": "Chicago police: Facial recognition adds “jet fuel” for criminal investigations",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
       ]
     }
   ],

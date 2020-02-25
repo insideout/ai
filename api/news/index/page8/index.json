@@ -2,319 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_posts/2020-02-24-nvidia-gtc-20-could-be-massive.md",
-      "title": "NVIDIA GTC ’20 Could Be Massive",
-      "excerpt": "As we approach NVIDIA’s annual GPU Technology Conference, everyone is anxious to see what CEO Jensen Huang has up his trademark black leather sleeves. I have no idea, but as usual, I have an opinion.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/02/24/nvidia-gtc-20-could-be-massive/",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/02/24/nvidia-gtc-20-could-be-massive/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/02/24/nvidia-gtc-20-could-be-massive/amp/",
-      "publishedDateTime": "2020-02-24T13:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e5412ef7a00980007341821%2F0x0.jpg",
-          "width": 899,
-          "height": 600,
-          "title": "NVIDIA GTC ’20 Could Be Massive",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-24-oracle-cloud-infrastructure-finally-gets-data-science-and-ml-services.md",
-      "title": "Oracle Cloud Infrastructure Finally Gets Data Science And ML Services",
-      "excerpt": "Even though Oracle is late to the ML PaaS party, it has unique capabilities in the form of AutoML integration with the data warehouse, model explainability, and comprehensive model management.",
-      "heat": 90,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2020/02/24/oracle-cloud-infrastructure-finally-gets-data-science-and-ml-services/",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2020/02/24/oracle-cloud-infrastructure-finally-gets-data-science-and-ml-services/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/02/24/oracle-cloud-infrastructure-finally-gets-data-science-and-ml-services/amp/",
-      "publishedDateTime": "2020-02-24T01:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e53690dd378190007f41e90%2F0x0.jpg",
-          "width": 682,
-          "height": 365,
-          "title": "Oracle Cloud Infrastructure Finally Gets Data Science And ML Services",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-24-over-view-of-machine-learning-and-its-applications.md",
-      "title": "Over View of Machine Learning and its Applications",
-      "excerpt": "The Machine learning is a field of computer science evolved after studying the patterns and statistics of accumulative data, the data engineers / developers with help of specific algorithms for different data pattern sort out the features differences while as we already know before machine learning financial experts use statistical approaches ...",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/@sajjadhussain_11869/over-view-of-machine-learning-and-its-applications-bca25464669e",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-24T15:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/1*hVCDF0_dOqDcwpXLGduZGg.jpeg",
-          "width": 1200,
-          "height": 899,
-          "title": "Over View of Machine Learning and its Applications",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-24-robot-suitcase-uses-ai-to-help-visually-impaired-travelers.md",
-      "title": "Robot suitcase uses AI to help visually impaired travelers",
-      "excerpt": "IBM Japan and partners are developing a new suitcase-shaped robot that could help the visually impaired while they travel. The navigation robot will use artificial intelligence to help people travel more independently, whether that's around town or around the world. A consortium of five companies -- including IBM Japan, Shimizu and Mitsubishi ...",
-      "heat": 114,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/news/robot-suitcase-uses-ai-to-help-visually-impaired-travelers/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/robot-suitcase-uses-ai-to-help-visually-impaired-travelers/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/robot-suitcase-uses-ai-to-help-visually-impaired-travelers/",
-      "publishedDateTime": "2020-02-24T14:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet1.cbsistatic.com/img/1Fs9ohsEFGnis2AFh72zTVapQEk=/756x567/2020/02/24/6a28062c-1189-4044-8851-67cced21a744/gettyimages-sb10062851ai-001.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "Robot suitcase uses AI to help visually impaired travelers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-24-should-government-halt-the-use-of-facial-recognition-technology.md",
-      "title": "Should Government Halt the Use of Facial-Recognition Technology?",
-      "excerpt": "Critics say false positives are far higher for some groups of people than for others, but supporters of the technology says the actual numbers involved are tiny.",
-      "heat": 134,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wsj.com/articles/should-government-halt-the-use-of-facial-recognition-technology-11582513260",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/should-government-halt-the-use-of-facial-recognition-technology-11582513260",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/should-government-halt-the-use-of-facial-recognition-technology-11582513260",
-      "publishedDateTime": "2020-02-23T20:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-156193/social",
-          "width": 1280,
-          "height": 640,
-          "title": "Should Government Halt the Use of Facial-Recognition Technology?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-24-softbank-leads-265-million-investments-in-two-us-based-start-ups.md",
-      "title": "SoftBank leads $265 million investments in two U.S.-based start-ups",
-      "excerpt": "SoftBank on Monday led a new funding round of $165 million in California-based Karius and invested $100 million in New York-headquartered AI company Behavox, as the technology giant builds a portfolio under its second Vision Fund.",
-      "heat": 112,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.reuters.com/article/us-karius-funding-idUSKCN20I155",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN20I155",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN20I155",
-      "publishedDateTime": "2020-02-24T12:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200224&t=2&i=1494517480&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG1N0Y9",
-          "width": 785,
-          "height": 545,
-          "title": "SoftBank leads $265 million investments in two U.S.-based start-ups",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-24-the-future-of-customer-service-isnt-as-simple-as-ai-or-human.md",
-      "title": "The Future Of Customer Service Isn't As Simple As AI Or Human",
-      "excerpt": "Business leaders who wish to bring AI-human collaboration to life in their customer service organizations need only ask themselves a few key questions to get started.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/24/the-future-of-customer-service-isnt-as-simple-as-ai-or-human/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/24/the-future-of-customer-service-isnt-as-simple-as-ai-or-human/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/24/the-future-of-customer-service-isnt-as-simple-as-ai-or-human/amp/",
-      "publishedDateTime": "2020-02-24T09:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x493/https://specials-images.forbesimg.com/dam/imageserve/545163603/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 493,
-          "title": "The Future Of Customer Service Isn't As Simple As AI Or Human",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-24-this-robot-wants-to-help-stressed-out-teens.md",
       "title": "This Robot Wants to Help Stressed-Out Teens",
       "excerpt": "For instance, teens quickly told us that elaborate, AI humanoids were NOT the type of robot they wanted to interact ... We’ve also noticed that by inviting the teen to talk to the robot, teens in the environment seem to instinctively start talking to one another about their stress and experiences. I am gently calling this an \"invitation ...",
@@ -491,6 +178,82 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-25-bristol-start-up-graphcore-secures-150m-for-ai-chips.md",
+      "title": "Bristol start-up Graphcore secures $150m for AI chips",
+      "excerpt": "Graphcore has developed an intelligence processing unit, a microchip designed for artificial intelligence software. The start-up’s chips are designed for unpredictable decision making tasks, such as providing the brains to power driverless cars. The funding gives Graphcore $300m in cash reserves to expand its products. Chips designed by ...",
+      "heat": 78,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.telegraph.co.uk/technology/2020/02/25/bristol-start-up-graphcore-secures-150m-ai-chips/",
+      "ampWebUrl": "https://www.telegraph.co.uk/technology/2020/02/25/bristol-start-up-graphcore-secures-150m-ai-chips/amp/",
+      "cdnAmpWebUrl": "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/02/25/bristol-start-up-graphcore-secures-150m-ai-chips/amp/",
+      "publishedDateTime": "2020-02-24T22:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Telegraph",
+        "domain": "telegraph.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.telegraph.co.uk/content/dam/technology/2019/03/08/graphcore-1_trans_NvBQzQNjv4BqnY32puTRmJBD0IQz1kt_ZVqZFC3fB4GuhEoILEGfoek.png",
+          "width": 1402,
+          "height": 876,
+          "title": "Bristol start-up Graphcore secures $150m for AI chips",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "Microsoft AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-25-covariant-and-abb-partner-to-deploy-integrated-ai-robotic-solutions.md",
+      "title": "Covariant and ABB Partner to Deploy Integrated AI Robotic Solutions",
+      "excerpt": "ZURICH, Feb. 25, 2020 /PRNewswire/ -- ABB, the world-leading supplier of industrial robots, and Silicon Valley AI start-up, Covariant, today announced a partnership to bring AI-enabled robotics solutions to market, starting with a fully autonomous warehouse order fulfilment solution. The partnership brings together the two companies with a ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/covariant-and-abb-partner-to-deploy-integrated-ai-robotic-solutions-1028934173",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/covariant-and-abb-partner-to-deploy-integrated-ai-robotic-solutions-1028934173",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/covariant-and-abb-partner-to-deploy-integrated-ai-robotic-solutions-1028934173",
+      "publishedDateTime": "2020-02-24T22:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -2114,6 +1877,199 @@
       "topics": [
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2019-12-30-a-reality-check-on-artificial-intelligence-are-health-care-claims-overblown.md",
+      "title": "A Reality Check On Artificial Intelligence: Are Health Care Claims Overblown?",
+      "excerpt": "That reality check could come in the form of disappointing results when AI products are ushered into the real world. Even Topol, the author of “Deep Medicine: How Artificial Intelligence Can Make Healthcare Human Again,” acknowledges that many AI products are little more than hot air. “It’s a mixed bag,” he said. Experts such as Dr ...",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://khn.org/news/a-reality-check-on-artificial-intelligence-are-health-care-claims-overblown/",
+      "ampWebUrl": "https://khn.org/news/a-reality-check-on-artificial-intelligence-are-health-care-claims-overblown/amp/",
+      "cdnAmpWebUrl": "https://khn-org.cdn.ampproject.org/c/s/khn.org/news/a-reality-check-on-artificial-intelligence-are-health-care-claims-overblown/amp/",
+      "publishedDateTime": "2019-12-30T11:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Kaiser Health News",
+        "domain": "khn.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://khn.org/wp-content/uploads/sites/2/2019/12/AI_illustration_02.jpg",
+          "width": 1350,
+          "height": 900,
+          "title": "A Reality Check On Artificial Intelligence: Are Health Care Claims Overblown?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2019-12-30-ai-in-2020-how-use-cases-will-drive-artificial-intelligence-deployments.md",
+      "title": "AI in 2020: How use cases will drive artificial intelligence deployments",
+      "excerpt": "Learn why predictions about artificial intelligence trends include ... cost savings across the automotive OEM supply chain, and self-driving technology is projected to be a $556 billion market ...",
+      "heat": 63,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/ai-in-2020-how-use-cases-will-drive-artificial-intelligence-deployments/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-12-30T07:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2019-12-30-baidu-beats-microsoft-and-google-in-natural-language-processing-competition.md",
+      "title": "Baidu beats Microsoft and Google in natural language processing competition",
+      "excerpt": "Organizations developing natural language processing models can evaluate their models using this benchmark. Until recently, Microsoft’s MT-DNN-SMART model was at the top of GLUE leaderboard followed by Google’s T3. Now, China’s Baidu has beaten both Microsoft and Google with its ERNIE (Enhanced Representation through kNowledge IntEgration ...",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://mspoweruser.com/baidu-beats-microsoft-and-google-in-natural-language-processing-competition/",
+      "ampWebUrl": "https://mspoweruser.com/baidu-beats-microsoft-and-google-in-natural-language-processing-competition/amp/",
+      "cdnAmpWebUrl": "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/baidu-beats-microsoft-and-google-in-natural-language-processing-competition/amp/",
+      "publishedDateTime": "2019-12-30T09:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MSPoweruser",
+        "domain": "mspoweruser.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mspoweruser.com/wp-content/uploads/2019/08/microsoft-logo-block.jpg",
+          "width": 2400,
+          "height": 1231,
+          "title": "Baidu beats Microsoft and Google in natural language processing competition",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2019-12-30-nine-ai-marketing-trends-set-to-explode-in-2020.md",
+      "title": "Nine AI Marketing Trends Set To Explode In 2020",
+      "excerpt": "Share to facebook Share to twitter Share to linkedin Using artificial intelligence in marketing ... According to our recent research, 65% of consumers expect that within five years marketing ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2019/12/30/nine-ai-marketing-trends-set-to-explode-in-2020/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2019/12/30/nine-ai-marketing-trends-set-to-explode-in-2020/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2019/12/30/nine-ai-marketing-trends-set-to-explode-in-2020/amp/",
+      "publishedDateTime": "2019-12-30T04:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbesagencycouncil%2Ffiles%2F2019%2F12%2FNine_AI_Marketing_Trends_Set_To_Explode_In_2020-1200x580.png",
+          "width": 1200,
+          "height": 580,
+          "title": "Nine AI Marketing Trends Set To Explode In 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2019-12-30-the-therapy-apps-trying-to-help-you-deal-while-youre-on-the-nhs-waiting-list.md",
+      "title": "The Therapy Apps Trying To Help You Deal While You’re On The NHS Waiting List",
+      "excerpt": "Mental health problems are on the rise, with some people in the UK having to wait for up to two years to receive therapeutic treatment. With many being forced to take matters into their own hands, therapy apps could help provide those in need with a cheap ...",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.refinery29.com/amp/en-gb/mental-health-artificial-intelligence",
+      "ampWebUrl": "https://www.refinery29.com/amp/en-gb/mental-health-artificial-intelligence",
+      "cdnAmpWebUrl": "https://www-refinery29-com.cdn.ampproject.org/c/s/www.refinery29.com/amp/en-gb/mental-health-artificial-intelligence",
+      "publishedDateTime": "2019-12-29T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Refinery29",
+        "domain": "refinery29.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s3.r29static.com/bin/entry/696/0,1727,3544,1861/x,80/1868918/image.jpg",
+          "width": 3544,
+          "height": 1861,
+          "title": "The Therapy Apps Trying To Help You Deal While You’re On The NHS Waiting List",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
       ]
     }
   ],

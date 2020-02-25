@@ -8,8 +8,8 @@ ampWebUrl: "https://mspoweruser.com/meet-microsoft-deepspeed-a-new-deep-learning
 cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/meet-microsoft-deepspeed-a-new-deep-learning-library-that-can-train-massive-100-billion-parameter-models/amp/"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: MSPoweruser
@@ -39,19 +39,6 @@ related:
       - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/02/T-NLG.png"
         width: 800
         height: 546
-  - title: "Turing-NLG: A 17-billion-parameter language model by Microsoft"
-    excerpt: "have improved the state of the art on nearly every downstream natural language processing (NLP) task, including question answering, conversational agents, and document understanding among others. We are releasing a private demo of T-NLG, including its freeform generation, question answering, and summarization capabilities, to a small set of ..."
-    publishedDateTime: 2020-02-10T17:43:00Z
-    webUrl: "https://www.microsoft.com/en-us/research/blog/turing-nlg-a-17-billion-parameter-language-model-by-microsoft/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 24
-    images:
-      - url: "https://www.microsoft.com/en-us/research/uploads/prod/2020/02/TurningNGL_Model__1400x788-5e418cff76a2a.png"
-        width: 1400
-        height: 788
 
 secured: "xPY9COTLfo+h55OA1b/TtDUqVZelAKkUvymme+oBm/bnJvDIitXYWgte6+u27PuHhP9aw9eJMrdVXJECpCvUM8Eihwi8QdSZ7r20a3jXH7sp/qM9tDTdmhByxNynHTiZBO1ahYICEE7PxO7mEgVD1K156bgdiHPT5DHdzLEe7+7ciG2hLS4EVY3gTRlGQKZQCiU9Wjv74VHj9gbanMpx87Ghcb+cfiqkth4ntrWEK6+SMjUg4CBlgLYYHIUsmjLrA7Afi6mgf73lJf+W5jGxZxCZMIePmAmQpsGf+Sc2ZaakOh3GMfHRlreJpP1/fUvKnMqaxop+hA2jgRwP0uyUEHdoYDCJB2PSw9OOZ7S25E++xrdKQMDzoPVFEgrhxfji9hfWWL1srrHAkyjrs0JgU5uPoWhiprffdjC4KV22LNdYTb+G6634VqUbwqReSfh5WDlTfUSr8A/zlyDC3jEtdqPIdYbAs4WTwKzmRQlXEMA=;WHNhtjpqGi79u5gr18qtYA=="
 ---

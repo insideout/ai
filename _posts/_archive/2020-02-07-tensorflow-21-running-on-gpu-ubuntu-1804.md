@@ -38,6 +38,6 @@ related:
       domain: medium.com
     quality: 49
 
-secured: "wxUfF3W6Ox2HzYBYVDMILZJrt/5kcZsZ2E3JB+7xQnMbdwK+Gzk4lDz3oqaVfy2Yn2qXVFjKAL8JP1BjpbjnyKTGOPlfqOylcRNRM4cAteWJHUp2fZXDcR6nUOhyQDfOdild5vzxOkXO7d3O/G3U1rpwHfLsVFoqrtBeV0DOAJgkk5H+ZGTrLVLu82YSukt6mReyfsd3Kr0T4x9J8Ss8xn1kFCR+9JCd3xh+htkFqVvCj8Urivl9it6BLi+JpVT4IJmuZsUHw6tGlsPqk+OBRxklGuhtf+55oqw9tvxdJ9hryRGXzhBVEhh+8bjQ8quR;eVI6m+gCVVmiQsZX0vqxew=="
+secured: "KBzIqNZt9U6T02zvOtflxf20R5FeSBtNDIIrrmco9acPIwTahMVbSB+xHTtEStNZKIokHDHYat5CIuKU1HyIGHnHEhICEWgkq3xZ9BtluhJlN7NHro8GzR4T6bzLXWnPuCNjbhUGj0vQ/0f4CrlCqtHLYXKZgDJn/sJymv1cfeP6XE773XZyNyvQ29kx8ABH0fwqaWjL8aZZV+ex7jDGyDrJDzrLh+UKSGPtNcReK18pmsfTb/BAmPMSNouaCkENQWpO30ZEmd8AOccc3P7UXCJ2g9RnYEkk+DOOKpqsqB8ahMVl+VN6qb/sBKSeDTjv;t8Keo2qtRnAHLaMPSxHYcw=="
 ---
 

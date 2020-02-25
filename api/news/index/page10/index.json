@@ -2,223 +2,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_posts/_archive/2020-01-07-amazon-doubles-down-on-ring-partnerships-with-law-enforcement.md",
-      "title": "Amazon Doubles Down on Ring Partnerships With Law Enforcement",
-      "excerpt": "In other cases, municipalities may be utilizing other technology—such as Amazon’s Rekognition product—to extract data even if the security cameras themselves aren’t the most sophisticated. When asked whether Amazon had considered applying facial recognition software technology to Ring cameras, Limp pointed out that Amazon hasn’t ...",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/ces-2020-amazon-defends-ring-police-partnerships/",
-      "ampWebUrl": "https://www.wired.com/story/ces-2020-amazon-defends-ring-police-partnerships/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ces-2020-amazon-defends-ring-police-partnerships/amp",
-      "publishedDateTime": "2020-01-07T12:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5e151678fa6692000820d0e8/master/pass/Biz_Ring-1174747225.jpg",
-          "width": 2300,
-          "height": 1533,
-          "title": "Amazon Doubles Down on Ring Partnerships With Law Enforcement",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-07-ces-2020-intel-previews-tiger-lake-mobile-processors-and-discrete-gpu.md",
-      "title": "CES 2020: Intel previews Tiger Lake mobile processors and discrete GPU",
-      "excerpt": "AI accelerators, and discrete-level integrated graphics based on the new Intel Xe graphics architecture,\" the company said. The first Tiger Lake systems are expected to ship later this year. Intel also offered a preview of the first Xe-based discrete GPU ...",
-      "heat": 129,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/ces-2020-intel-previews-tiger-lake-mobile-processors-and-discrete-gpu/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ces-2020-intel-previews-tiger-lake-mobile-processors-and-discrete-gpu/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ces-2020-intel-previews-tiger-lake-mobile-processors-and-discrete-gpu/",
-      "publishedDateTime": "2020-01-06T19:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/01/07/97b8676c-9886-4528-b8e9-30514da51ca5/intel-tiger-lake-4.jpg",
-          "width": 627,
-          "height": 432,
-          "title": "CES 2020: Intel previews Tiger Lake mobile processors and discrete GPU",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-07-deep-learning-vs-machine-learning-understand-the-differences.md",
-      "title": "Deep learning vs. machine learning: Understand the differences",
-      "excerpt": "A classification problem is a supervised learning problem that asks for a choice between two or more classes, usually providing probabilities for each class. Leaving out neural networks and deep ...",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.infoworld.com/article/3512245/deep-learning-vs-machine-learning-understand-the-differences.html",
-      "ampWebUrl": "https://www.infoworld.com/article/3512245/deep-learning-vs-machine-learning-understand-the-differences.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3512245/deep-learning-vs-machine-learning-understand-the-differences.amp.html",
-      "publishedDateTime": "2020-01-07T10:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/01/succession_brain-sharing_intellectual-knowledge_sharing-100746954-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Deep learning vs. machine learning: Understand the differences",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-07-demystifying-debit-4-trends-in-consumer-fintech.md",
-      "title": "Demystifying Debit: 4 Trends in Consumer Fintech",
-      "excerpt": "F intech is turning traditional banking on its head. The global fintech market value projects to surpass $300 billion by the end of 2022. In December, major consumer fintech company Bill.com surged a whopping 60% on the day of its IPO.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nasdaq.com/articles/demystifying-debit%3A-4-trends-in-consumer-fintech-2020-01-07",
-      "ampWebUrl": "https://www.nasdaq.com/articles/demystifying-debit%3A-4-trends-in-consumer-fintech-2020-01-07?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/demystifying-debit%3A-4-trends-in-consumer-fintech-2020-01-07?amp",
-      "publishedDateTime": "2020-01-07T07:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg",
-          "width": 1024,
-          "height": 512,
-          "title": "Demystifying Debit: 4 Trends in Consumer Fintech",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-07-facebook-bans-deceptive-deepfakes-and-some-misleadingly-modified-media.md",
-      "title": "Facebook bans deceptive deepfakes and some misleadingly modified media",
-      "excerpt": "Hence the new policy bans deepfake content that involves the use of AI technologies ... to produce more research and open source tools to detect deepfakes”. While says Facebook has been working ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/01/07/facebook-bans-deceptive-deepfakes-and-some-misleadingly-modified-media/",
-      "ampWebUrl": "https://techcrunch.com/2020/01/07/facebook-bans-deceptive-deepfakes-and-some-misleadingly-modified-media/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/07/facebook-bans-deceptive-deepfakes-and-some-misleadingly-modified-media/amp/",
-      "publishedDateTime": "2020-01-07T03:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/09/gettyimages-487867268.jpg?w=1024",
-          "width": 1024,
-          "height": 663,
-          "title": "Facebook bans deceptive deepfakes and some misleadingly modified media",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-01-07-ibms-watson-uses-ai-to-optimize-commercial-creative.md",
       "title": "IBM’s Watson Uses AI to Optimize Commercial Creative",
       "excerpt": "IBM launched a new product, Advertising Accelerator with Watson, which uses artificial intelligence to predict which creative elements will result in the highest engagement and conversion for a targeted audience. IBM said the product, introduced at CES In ...",
@@ -2144,6 +1927,223 @@
       "topics": [
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-10-the-best-computer-reading-glasses-to-help-reduce-eye-strain.md",
+      "title": "The best computer reading glasses to help reduce eye strain",
+      "excerpt": "These Truvision Readers may not be prescription, but their anti-reflective coating and blue-tinted lenses will help you filter out blue light and avoid computer vision syndrome without having to ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.digitaltrends.com/health-fitness/computer-reading-glasses/",
+      "ampWebUrl": "https://www.digitaltrends.com/health-fitness/computer-reading-glasses/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/health-fitness/computer-reading-glasses/?amp",
+      "publishedDateTime": "2020-01-09T23:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://icdn2.digitaltrends.com/image/digitaltrends/computer-glasses-2-1200x630-c-ar1.91.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": "The best computer reading glasses to help reduce eye strain",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-10-the-top-3-tech-stocks-to-watch-in-2020.md",
+      "title": "The Top 3 Tech Stocks to Watch in 2020",
+      "excerpt": "From Google to Apple, every big-name tech company is putting forth resources to make its next breakthrough. We hear about a lot of products on the news, such as self-driving cars and robot nannies, but where exactly should we be putting our money?",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/the-top-3-tech-stocks-to-watch-in-2020-2020-01-10",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-10T05:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "The Top 3 Tech Stocks to Watch in 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-10-ubtechs-updated-walker-robot-does-yoga-and-pours-drinks.md",
+      "title": "Ubtech's updated Walker robot does 'yoga' and pours drinks",
+      "excerpt": "Walker's updated software is the result of continued AI training on its original hardware -- including the same optical sensors ... If you haven't already, it's about time you start saving up for your robot pal. Follow all the latest news from CES 2020 here!",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/2020/01/10/ubtech-walker-robot-yoga-pouring-drinks/",
+      "ampWebUrl": "https://www.engadget.com/amp/2020/01/10/ubtech-walker-robot-yoga-pouring-drinks/",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/10/ubtech-walker-robot-yoga-pouring-drinks/",
+      "publishedDateTime": "2020-01-10T10:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://img.vidible.tv/prod/2020-01/10/5e161c85791cad4774d68586/5e18b3342e50cc3257502b58_o_U_v1.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Ubtech's updated Walker robot does 'yoga' and pours drinks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-11-china-tests-worlds-first-high-speed-driverless-bullet-train-at-a-speed-of-350-km-successfully.md",
+      "title": "China tests world’s first high-speed driverless bullet train at a speed of 350 km successfully",
+      "excerpt": "It has all the features connected to artificial intelligence with 5G signal, wireless charging and smart lighting. The Beijing to Zhangjiakou high-speed driverless train test was successful, 56496 crore rupees have been spent on it. The passengers will get ...",
+      "heat": 62,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.metrorailnews.in/china-tests-worlds-first-high-speed-driverless-bullet-train-at-a-speed-of-350-km-successfully/",
+      "ampWebUrl": "https://www.metrorailnews.in/china-tests-worlds-first-high-speed-driverless-bullet-train-at-a-speed-of-350-km-successfully/?amp",
+      "cdnAmpWebUrl": "https://www-metrorailnews-in.cdn.ampproject.org/c/s/www.metrorailnews.in/china-tests-worlds-first-high-speed-driverless-bullet-train-at-a-speed-of-350-km-successfully/?amp",
+      "publishedDateTime": "2020-01-11T02:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Metro rail News",
+        "domain": "metrorailnews.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.metrorailnews.in/wp-content/uploads/2020/01/5492.jpg",
+          "width": 1920,
+          "height": 1152,
+          "title": "China tests world’s first high-speed driverless bullet train at a speed of 350 km successfully",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-11-how-watson-ai-allows-ibms-advertising-accelerator-to-do-three-key-things.md",
+      "title": "How Watson AI allows IBM's Advertising Accelerator to do three key things",
+      "excerpt": "TechRepublic's Teena Maddox talked to Dave Neway, head of marketing at IBM Watson Advertising, at CES 2020 about how Watson can take advertising to the next level with artificial intelligence (AI). The following is an edited transcript of their conversation. Dave Neway: We had a major product announcement this week. On Tuesday, I'm very proud ...",
+      "heat": 113,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/how-watson-ai-allows-ibms-advertising-accelerator-to-do-three-key-things/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-watson-ai-allows-ibms-advertising-accelerator-to-do-three-key-things/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-watson-ai-allows-ibms-advertising-accelerator-to-do-three-key-things/",
+      "publishedDateTime": "2020-01-11T09:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/01/10/b282fdc1-3853-444c-9942-fc7594b8e3a4/resize/1200x/5c975a45581745a7fdeb8be198c4c7db/20200110-ibm-dave-teena.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "How Watson AI allows IBM's Advertising Accelerator to do three key things",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI"
       ]
     }
   ],

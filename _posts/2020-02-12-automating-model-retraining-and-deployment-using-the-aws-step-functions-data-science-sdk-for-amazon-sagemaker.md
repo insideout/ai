@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-12T18:22:09Z
 webUrl: "https://aws.amazon.com/blogs/machine-learning/automating-model-retraining-and-deployment-using-the-aws-step-functions-data-science-sdk-for-amazon-sagemaker/"
 type: article
 quality: 100
-heat: 240
+heat: 250
 published: true
 
 provider:
@@ -115,6 +115,15 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 65
+  - title: "Deploying Machine Learning Models with mlflow and Amazon SageMaker"
+    excerpt: "Then, I deploy the model locally, and predict test data. Next, I create a Docker container, push it to Amazon ECR, and use it to deploy my model on Amazon SageMaker."
+    publishedDateTime: 2020-02-14T12:44:00Z
+    webUrl: "https://medium.com/@julsimon/deploying-machine-learning-models-with-mlflow-and-amazon-sagemaker-dac2b8244224"
+    type: article
+    provider:
+      name: Medium
+      domain: medium.com
+    quality: 49
   - title: "Incorrect Pronunciation Detection in eLearning using Deep Learning"
     excerpt: "At a high level, the idea is to monitor pronunciation of end-user, perform an analysis on it and feed the analysis back to them so that they can work on it to improve and also record it for deep learning. This can be achieved with an add-on or separate system that enables students/user to improve their pronunciation skills, not limited to ..."
     publishedDateTime: 2020-02-13T19:57:00Z

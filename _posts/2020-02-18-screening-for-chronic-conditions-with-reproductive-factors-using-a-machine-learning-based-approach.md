@@ -63,19 +63,6 @@ related:
       - url: "https://avatars3.githubusercontent.com/u/16797137?s=400&v=4"
         width: 400
         height: 400
-  - title: "Farnell Showcasing Next-Generation Technologies in AI and Machine Learning, Connectivity, Sensing and Power at Embedded World"
-    excerpt: "Taking centre stage at the exhibition will be Farnell's investment in next-generation technologies for Artificial Intelligence (AI) and machine learning ... Sensing and Power Management -The Avnet Azure Sphere Starter Kit with Microsoft Azure hardware security and cloud solution for IoT applications. -STMicroelectronics' new multi-sensor ..."
-    publishedDateTime: 2020-02-10T17:40:00Z
-    webUrl: "https://www.embedded-computing.com/news-releases/farnell-showcasing-next-generation-technologies-in-ai-and-machine-learning-connectivity-sensing-and-power-at-embedded-world"
-    type: article
-    provider:
-      name: Embedded Computing Design
-      domain: embedded-computing.com
-    quality: 29
-    images:
-      - url: "https://s3.amazonaws.com/files.formstack.com/uploads/3411018/76219803/576485291/76219803_800_2049611-embedded-world-eu-q2-fy20-gigaframe.png"
-        width: 380
-        height: 500
   - title: "Codeword Selection for Concurrent Transmissions in UAV Networks: A Machine Learning Approach"
     excerpt: "Fortunately, machine learning (ML) is suitable for decreasing complexity in codeword selection, because ML could extract features from the data samples acquired in real environments. In this paper, we propose an ML approach to achieve an efficient and low complexity codeword selection for UAV networks. Specifically, we first derive the ..."
     publishedDateTime: 2020-02-14T03:17:00Z

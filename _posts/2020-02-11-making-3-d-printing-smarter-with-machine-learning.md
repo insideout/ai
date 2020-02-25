@@ -50,19 +50,6 @@ related:
       - url: "https://avatars3.githubusercontent.com/u/16797137?s=400&v=4"
         width: 400
         height: 400
-  - title: "Farnell Showcasing Next-Generation Technologies in AI and Machine Learning, Connectivity, Sensing and Power at Embedded World"
-    excerpt: "Taking centre stage at the exhibition will be Farnell's investment in next-generation technologies for Artificial Intelligence (AI) and machine learning ... Sensing and Power Management -The Avnet Azure Sphere Starter Kit with Microsoft Azure hardware security and cloud solution for IoT applications. -STMicroelectronics' new multi-sensor ..."
-    publishedDateTime: 2020-02-10T17:40:00Z
-    webUrl: "https://www.embedded-computing.com/news-releases/farnell-showcasing-next-generation-technologies-in-ai-and-machine-learning-connectivity-sensing-and-power-at-embedded-world"
-    type: article
-    provider:
-      name: Embedded Computing Design
-      domain: embedded-computing.com
-    quality: 29
-    images:
-      - url: "https://s3.amazonaws.com/files.formstack.com/uploads/3411018/76219803/576485291/76219803_800_2049611-embedded-world-eu-q2-fy20-gigaframe.png"
-        width: 380
-        height: 500
   - title: "Screening for chronic conditions with reproductive factors using a machine learning based approach"
     excerpt: "Therefore, in order to investigate their association, we applied a machine learning based dimensionality reduction technique, autoencoder, to generalize one single marker to represent chronic conditions. A cross-sectional study was conducted in the Gansu Province of China. Random stratified sampling was adopted to include participants who were ..."
     publishedDateTime: 2020-02-18T10:26:00Z

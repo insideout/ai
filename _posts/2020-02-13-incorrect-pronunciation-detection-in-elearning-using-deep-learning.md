@@ -124,6 +124,15 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 65
+  - title: "Deploying Machine Learning Models with mlflow and Amazon SageMaker"
+    excerpt: "Then, I deploy the model locally, and predict test data. Next, I create a Docker container, push it to Amazon ECR, and use it to deploy my model on Amazon SageMaker."
+    publishedDateTime: 2020-02-14T12:44:00Z
+    webUrl: "https://medium.com/@julsimon/deploying-machine-learning-models-with-mlflow-and-amazon-sagemaker-dac2b8244224"
+    type: article
+    provider:
+      name: Medium
+      domain: medium.com
+    quality: 49
   - title: "An ultra-compact particle size analyser using a CMOS image sensor and machine learning"
     excerpt: "In this paper, we introduce the concept of a new particle size analyser in a collimated beam configuration using a consumer electronic camera and machine learning. The key novelty is a small form factor angular spatial filter that allows for the collection of light scattered by the particles up to predefined discrete angles. The filter is ..."
     publishedDateTime: 2020-02-12T12:55:00Z
