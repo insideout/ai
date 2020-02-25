@@ -38,6 +38,6 @@ related:
       domain: medium.com
     quality: 49
 
-secured: "S8a/WLUmeKIFJGc4o/9sNxRYuaf//iODx9uVnWeYgv78x+NPxuCkHJOi9mg5tSC0NICe+LzXLvBiokXPMuL6B9gd2qvK3Mzo83vsInSkt1oLOw7u+ymOgfqxW1jJesYxz7nsaNFX0GbxN4Mi2a8cO+Lva3qu863kb35FmkCX8deJp5CISaWC0Nly1I6K2+in7JYqmPqgOr5CPwgsVMnEVloOToRUubRLi5lzgdjouAPLC67baabGoP9mf2p55zDVI/yO3GktCNx+dO7edY52gyQE5RbxrWmfFxOnn8OQSlNKL4iKrbK1DVz5dW6eBzVg;kVzwX2UYNlOJGHU1J4lNXg=="
+secured: "wxUfF3W6Ox2HzYBYVDMILZJrt/5kcZsZ2E3JB+7xQnMbdwK+Gzk4lDz3oqaVfy2Yn2qXVFjKAL8JP1BjpbjnyKTGOPlfqOylcRNRM4cAteWJHUp2fZXDcR6nUOhyQDfOdild5vzxOkXO7d3O/G3U1rpwHfLsVFoqrtBeV0DOAJgkk5H+ZGTrLVLu82YSukt6mReyfsd3Kr0T4x9J8Ss8xn1kFCR+9JCd3xh+htkFqVvCj8Urivl9it6BLi+JpVT4IJmuZsUHw6tGlsPqk+OBRxklGuhtf+55oqw9tvxdJ9hryRGXzhBVEhh+8bjQ8quR;eVI6m+gCVVmiQsZX0vqxew=="
 ---
 

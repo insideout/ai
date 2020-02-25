@@ -2,134 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_posts/2020-02-13-reviewing-ai-powered-contract-management-software-evisort.md",
-      "title": "Reviewing AI Powered Contract Management Software Evisort",
-      "excerpt": "This flexibility means the company has the potential to work with businesses outside of the legal industry which is new for an AI document review organization. Evisort can deal with contracts across multiple languages better than its competition by using machine learning support translation services. Machine learning allows the software to ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techworm.net/2020/02/review-ai-powered-contract-management-software-evisort.html",
-      "ampWebUrl": "https://www.techworm.net/2020/02/review-ai-powered-contract-management-software-evisort.html/amp",
-      "cdnAmpWebUrl": "https://www-techworm-net.cdn.ampproject.org/c/s/www.techworm.net/2020/02/review-ai-powered-contract-management-software-evisort.html/amp",
-      "publishedDateTime": "2020-02-12T19:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techworm.net",
-        "domain": "techworm.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.techworm.net/wp-content/uploads/2020/02/evisort.png",
-          "width": 1200,
-          "height": 675,
-          "title": "Reviewing AI Powered Contract Management Software Evisort",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-13-shell-aims-to-enroll-thousands-in-online-artificial-intelligence-training.md",
-      "title": "Shell Aims to Enroll Thousands in Online Artificial-Intelligence Training",
-      "excerpt": "The oil company is expanding an online program that teaches its employees artificial-intelligence skills, part of an effort to cut costs, improve business processes and generate revenue.",
-      "heat": 208,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wsj.com/articles/shell-enrolls-thousands-in-online-artificial-intelligence-training-11581622566",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/shell-enrolls-thousands-in-online-artificial-intelligence-training-11581622566",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/shell-enrolls-thousands-in-online-artificial-intelligence-training-11581622566",
-      "publishedDateTime": "2020-02-13T13:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-154203/social",
-          "width": 1280,
-          "height": 640,
-          "title": "Shell Aims to Enroll Thousands in Online Artificial-Intelligence Training",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-13-sony-envisions-an-ai-fueled-world-from-kitchen-bots-to-games.md",
-      "title": "Sony Envisions an AI-Fueled World, From Kitchen Bots to Games",
-      "excerpt": "“I told him it started five minutes ago!” he says with a laugh. Such was the state of AI and robotics at the time. It took a machine minutes to interpret its situation and work out what to do next. But much has changed, with AI increasingly helping machines, from self-driving cars to surveillance cameras, perceive and behave in clever way",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/sony-envisions-ai-fueled-world-kitchen-bots-games/",
-      "ampWebUrl": "https://www.wired.com/story/sony-envisions-ai-fueled-world-kitchen-bots-games/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/sony-envisions-ai-fueled-world-kitchen-bots-games/amp",
-      "publishedDateTime": "2020-02-13T07:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5e44656433fa920008cbf86d/master/pass/Biz-sonydogs-1145503656.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": "Sony Envisions an AI-Fueled World, From Kitchen Bots to Games",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_posts/2020-02-13-stuart-russell-will-we-choose-the-right-objective-for-ai-before-it-destroys-us-all.md",
       "title": "Stuart Russell: Will we choose the right objective for AI before it destroys us all?",
       "excerpt": "Also: AI on steroids: Much bigger neural nets to come with new hardware ... \"I have a heard time believing that my laptop has subjective experience,\" he said, even though it gets more intelligent all the time with faster chips and better software. Still, one has to \"concede it's possible that suitably programmed computers could have ...",
@@ -2084,6 +1956,124 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-17-artificial-intelligence-training-for-technical-students-in-odisha-soon.md",
+      "title": "Artificial Intelligence training for technical students in Odisha soon",
+      "excerpt": "BHUBANESWAR: Technical students in Odisha will soon have the opportunity to get training on Artificial Intelligence (AI) to develop smart machines. Skill Development and Technical Education Minister Premananda Nayak said a Centre of Excellence has been set up by Tech Mahindra and Biju Patnaik University of Technology (BPUT) at the College of ...",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.newindianexpress.com/states/odisha/2020/feb/17/artificial-intelligence-training-for-technical-students-in-odisha-soon-2104479.html",
+      "ampWebUrl": "https://www.newindianexpress.com/states/odisha/2020/feb/17/artificial-intelligence-training-for-technical-students-in-odisha-soon-2104479.amp",
+      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/odisha/2020/feb/17/artificial-intelligence-training-for-technical-students-in-odisha-soon-2104479.amp",
+      "publishedDateTime": "2020-02-16T19:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New Indian Express",
+        "domain": "newindianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/2/17/w600X390/AFSDFGH.jpg",
+          "width": 600,
+          "height": 390,
+          "title": "Artificial Intelligence training for technical students in Odisha soon",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-17-automated-facial-recognition-breaches-gdpr-says-eu-digital-chief.md",
+      "title": "Automated facial recognition breaches GDPR, says EU digital chief",
+      "excerpt": "The EU’s digital and competition chief has said that automated facial recognition breaches GDPR, as the technology fails to meet the regulation’s requirement for consent. Margrethe Vestager, the European Commission’s executive vice president for digital affairs, told reporters that “as it stands right now, GDPR would say ‘don’t ...",
+      "heat": 479,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/02/17/automated-facial-recognition-breaches-gdpr-says-eu-digital-chief/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/02/17/automated-facial-recognition-breaches-gdpr-says-eu-digital-chief/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/17/automated-facial-recognition-breaches-gdpr-says-eu-digital-chief/amp/",
+      "publishedDateTime": "2020-02-17T04:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/Untitled-design-14-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "Automated facial recognition breaches GDPR, says EU digital chief",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-17-aws-assists-premier-league-analytics.md",
+      "title": "AWS assists Premier League analytics",
+      "excerpt": "The Premier League has chosen Amazon Web Services (AWS) as its preferred Cloud, machine learning (ML) and artificial intelligence (AI) provider. The league’s analytics company Second Spectrum uses AWS to help deliver analytics, visualisations and searchable video clips during games. Second Spectrum applies ML and computer vision techniques to ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.tvbeurope.com/technology/aws-assists-premier-league-analytics",
+      "ampWebUrl": "https://www.tvbeurope.com/technology/aws-assists-premier-league-analytics?amp",
+      "cdnAmpWebUrl": "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/technology/aws-assists-premier-league-analytics?amp",
+      "publishedDateTime": "2020-02-17T02:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "tvbeurope.com",
+        "domain": "tvbeurope.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.tvbeurope.com/wp-content/uploads/2019/05/premier-league.jpg",
+          "width": 590,
+          "height": 350,
+          "title": "AWS assists Premier League analytics",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
       ]
     }
   ],

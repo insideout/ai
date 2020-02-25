@@ -27,6 +27,6 @@ images:
     height: 630
     title: "Cognitive Services Market Rise at 23.1% CAGR to 2025 | IBM, SAS, AWS, Microsoft, Qualcomm Technologies, Google, TCS"
 
-secured: "3k7Ap1wW8zWDWPuowxrB3X3mO/bRRSKcpwulNS4RXZCxPEZ0h1uXFDtmI9O/w6ZuTzhX/+Eoab8FDz8CNTz3kzhrpa5Nj3Vc6ltSi7cpUsiK2uutzh+VjUyiagl06JX7FpLxo+yQX4/Q5LP6c3ZQeBxsgG7D3g3SkQFnCTdGjux80ZOEB93aNjonGT3MhfOQMF9ZJr8oNrxylWxf7D8ATZv4VVoaZbRvfW5+6bhNaeDIC+f5UjUGbAGqbwRnPmb4QP9ZuJe3jR1J3SRWOcscR1X4L6T6TXwxz24LLIM4bS810cZfAQsv3SorzM4N5+pD;7hQic8BnKGPkiNryIxU4eA=="
+secured: "AIidBO8rRuMtWTfBPep3OzngfwKk5XjDKfCwxI9N98PHsLC6JPc2pEXXyDhxbpwdjcXCP6wmAXeExmX2nVXY6+hwHgq1A3fjgRS5YSvfdE0kkxOIbCz26knpsSQNjQ1CSzmuaA9ptxG9i7yTDsCSSTAnfpt+tFswYwxGRnWXU1kprKCUBq4MjTRwMePlcSPGaM/sVbzW+q++hH5mSdn0Pv7iA4L3/E+7m/EJRsE4/l11vvXsThE0mFqywnA7Myr4UKGXVJgwXyqXdGmHKZhxoTM7Tjlo+Q2S1OIWzb+U80iU/jPNmxy67sk/hGItICg9;lwwXBGkV/cn4lbdjFDJOAA=="
 ---
 

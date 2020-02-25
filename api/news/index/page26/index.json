@@ -2,177 +2,6 @@
   "page": 26,
   "value": [
     {
-      "path": "_posts/_archive/2020-02-07-natural-language-processing-market-2020-precise-outlook-apple-dolbey-systems-google-microsof-verint.md",
-      "title": "Natural Language Processing Market 2020 Precise Outlook - Apple, Dolbey Systems, Google, Microsof, Verint",
-      "excerpt": "The Natural Language Processing Market report is a compilation of first-hand information, qualitative and quantitative assessment by industry analysts, inputs from industry experts and industry participants across the value chain.",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-2020-precise-outlook---apple-dolbey-systems-google-microsof-verint-2020-02-07",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-07T01:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Natural Language Processing Market 2020 Precise Outlook - Apple, Dolbey Systems, Google, Microsof, Verint",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-02-07-nuros-r2-vehicle-has-been-granted-the-nhtsas-first-regulatory-exemption-for-a-custom-self-driving-car.md",
-      "title": "Nuro's R2 vehicle has been granted the NHTSA's first regulatory exemption for a custom self-driving car",
-      "excerpt": "Self-driving cars: Nuro is a well-known entity in the autonomous vehicle industry. It's partnered up with companies like Kroger and Dominos in the past to offer driverless food and grocery delivery services via its \"R1\" generation of vehicles. Now ...",
-      "heat": 88,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techspot.com/news/83926-nuro-has-granted-nhtsa-first-regulatory-exemption-custom.html",
-      "ampWebUrl": "https://www.techspot.com/amp/news/83926-nuro-has-granted-nhtsa-first-regulatory-exemption-custom.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83926-nuro-has-granted-nhtsa-first-regulatory-exemption-custom.html",
-      "publishedDateTime": "2020-02-07T14:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/ts3_thumbs/2020/02/2020-02-07-ts3_thumbs-3a9.jpg",
-          "width": 800,
-          "height": 560,
-          "title": "Nuro's R2 vehicle has been granted the NHTSA's first regulatory exemption for a custom self-driving car",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-02-07-smart-cities-how-artificial-intelligence-could-change-london.md",
-      "title": "Smart cities: How artificial intelligence could change London",
-      "excerpt": "Computers are scanning London's roads, with a 98% accuracy rate in identifying vehicles and people. And they are are learning all the time. The new system can run 24/7 and is part of the \"smart city\" revolution. Using data from the scanners, planners can change streets and target investment.",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bbc.com/news/av/uk-england-london-51415491/smart-cities-how-artificial-intelligence-could-change-london",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-07T15:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/F0A1/production/_110810616_p082lg33.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": "Smart cities: How artificial intelligence could change London",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-02-07-software-that-swaps-out-words-can-now-fool-the-ai-behind-alexa-and-siri.md",
-      "title": "Software that swaps out words can now fool the AI behind Alexa and Siri",
-      "excerpt": "But the tweaks made an AI interpret the sentences completely differently. Why it matters: We have seen many examples of such adversarial attacks, most often with image recognition systems, where tiny alterations to the input can flummox an AI and make it misclassify what it sees. TextFooler shows that this style of attack also breaks NLP ...",
-      "heat": 139,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.technologyreview.com/f/615158/software-that-swaps-out-words-can-now-fool-the-ai-behind-alexa-and-siri/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-07T09:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.technologyreview.com/i/images/40507772191411d162do.jpg?sw=1200&cx=478&cy=0&cw=2350&ch=1322",
-          "width": 1200,
-          "height": 675,
-          "title": "Software that swaps out words can now fool the AI behind Alexa and Siri",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-02-07-tensorflow-21-running-on-gpu-ubuntu-1804.md",
       "title": "Tensorflow 2.1 running on GPU-Ubuntu 18.04",
       "excerpt": "Tensorflow is an open-source framework for running machine learning algorithms. It is a framework to bring the ideas of machine learning to a working model. Recently I did a Specialization course ...",
@@ -1874,6 +1703,51 @@
       ]
     },
     {
+      "path": "_posts/_archive/2020-02-10-deepmind-trains-robots-to-insert-usb-keys-and-stack-colored-blocks.md",
+      "title": "DeepMind trains robots to insert USB keys and stack colored blocks",
+      "excerpt": "Robots perform better at a range of tasks when they draw on a growing body of experience. That’s the assertion of a team of researchers hailing from DeepMind, who in a preprint paper propose a technique called reward sketching. They claim it’s an effective way of eliciting human preferences to learn a reward function — a function ...",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/10/deepmind-trains-robots-to-insert-usb-keys-and-stack-colored-blocks/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/10/deepmind-trains-robots-to-insert-usb-keys-and-stack-colored-blocks/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/10/deepmind-trains-robots-to-insert-usb-keys-and-stack-colored-blocks/amp/",
+      "publishedDateTime": "2020-02-10T09:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/dims-e1575998404106.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "DeepMind trains robots to insert USB keys and stack colored blocks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-02-10-facial-recognition-the-next-step-in-fight-against-rabies.md",
       "title": "Facial recognition: the next step in fight against rabies",
       "excerpt": "The research team, based out of Washington State University’s Paul G. Allen School for Global Animal Health, is working with PiP My Pet, a company that developed a mobile application that uses facial recognition to reunite lost pets with their owners. The only twist; rather than locate the lost, the company designed a new app to track which ...",
@@ -1952,6 +1826,51 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-02-10-flagging-suspicious-healthcare-claims-with-amazon-sagemaker.md",
+      "title": "Flagging suspicious healthcare claims with Amazon SageMaker",
+      "excerpt": "The National Health Care Anti-Fraud Association (NHCAA) estimates that healthcare fraud costs the nation approximately $68 billion annually—3% of the nation’s $2.26 trillion in healthcare spending. This is a conservative estimate; other estimates range as high as 10% of annual healthcare expenditure,",
+      "heat": 124,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/flagging-suspicious-healthcare-claims-with-amazon-sagemaker/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T09:12:07-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/12/16/healthcare-fraud-detection-8.gif",
+          "width": 897,
+          "height": 514,
+          "title": "Flagging suspicious healthcare claims with Amazon SageMaker",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
       ]
     },
     {
@@ -2160,6 +2079,79 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-02-10-notes-from-a-former-guitar-zero.md",
+      "title": "Notes From A Former 'Guitar Zero'",
+      "excerpt": "NYU psychology professor Gary Marcus took up guitar at ... and she was brilliant. And a lot of it was just about absolutely perfect technique. You know, every finger movement was just right.",
+      "heat": 122,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.npr.org/2012/02/10/146697656/notes-from-a-former-guitar-zero",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NPR",
+        "domain": "npr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400",
+          "width": 1400,
+          "height": 787,
+          "title": "Notes From A Former 'Guitar Zero'",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-02-10-protecting-privacy-in-an-ai-driven-world.md",
+      "title": "Protecting privacy in an AI-driven world",
+      "excerpt": "This report from The Brookings Institution’s Artificial Intelligence and Emerging Technology (AIET ... The Brookings Institution is a nonprofit organization devoted to independent research and policy solutions. Its mission is to conduct high-quality, independent research and, based on that research, to provide innovative, practical ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.brookings.edu/research/protecting-privacy-in-an-ai-driven-world/",
+      "ampWebUrl": "https://www.brookings.edu/research/protecting-privacy-in-an-ai-driven-world/amp/",
+      "cdnAmpWebUrl": "https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/research/protecting-privacy-in-an-ai-driven-world/amp/",
+      "publishedDateTime": "2020-02-10T06:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Brookings Institution",
+        "domain": "brookings.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.brookings.edu/wp-content/uploads/2017/04/es_20170425_fintechapps.jpg",
+          "width": 4566,
+          "height": 3024,
+          "title": "Protecting privacy in an AI-driven world",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
       ]
     }
   ],

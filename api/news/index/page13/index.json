@@ -2,178 +2,6 @@
   "page": 13,
   "value": [
     {
-      "path": "_posts/_archive/2020-01-16-alphabets-google-boosts-cloud-offerings-with-appsheet-buyout.md",
-      "title": "Alphabet's Google Boosts Cloud Offerings With AppSheet Buyout",
-      "excerpt": "Alphabet ’s GOOGL division Google is on a buying spree. The company recently acquired a Seattle-based, no-code application development platform, AppSheet. The terms of the deal have not yet been disclosed.",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nasdaq.com/articles/alphabets-google-boosts-cloud-offerings-with-appsheet-buyout-2020-01-16",
-      "ampWebUrl": "https://www.nasdaq.com/articles/alphabets-google-boosts-cloud-offerings-with-appsheet-buyout-2020-01-16?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/alphabets-google-boosts-cloud-offerings-with-appsheet-buyout-2020-01-16?amp",
-      "publishedDateTime": "2020-01-16T05:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg",
-          "width": 1024,
-          "height": 512,
-          "title": "Alphabet's Google Boosts Cloud Offerings With AppSheet Buyout",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-16-amazon-details-the-ai-behind-alexas-whisper-mode.md",
-      "title": "Amazon details the AI behind Alexa’s Whisper Mode",
-      "excerpt": "In October 2018, months after a brief reveal, Amazon brought Whisper Mode to select third- and first-party Alexa devices. It expanded the feature to all locales in November 2019, such that all smart and smart home appliances powered by Alexa — the company’s virtual assistant — now respond to whispered speech by whispering back. Amazon was ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/16/amazon-details-the-ai-behind-alexas-whisper-mode/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/16/amazon-details-the-ai-behind-alexas-whisper-mode/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/16/amazon-details-the-ai-behind-alexas-whisper-mode/amp/",
-      "publishedDateTime": "2020-01-16T10:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/09/amazon-echo-dot-2019-e1571958500413.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Amazon details the AI behind Alexa’s Whisper Mode",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-16-announcing-the-agenda-for-robotics-ai-march-3-at-uc-berkeley.md",
-      "title": "Announcing the agenda for Robotics + AI — March 3 at UC Berkeley",
-      "excerpt": "We’re bringing TC Sessions: Robotics + AI back to UC Berkeley on March 3, and we’re excited to announce our jam ... Student tickets are just $50 and can be purchased here. Got a startup? Book a startup exhibitor package today and demo your company in front of 1,000+ attendees. Each table comes with four attendee tickets, so you can divide ...",
-      "heat": 229,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/01/14/announcing-the-agenda-for-robotics-ai-march-3-at-ucberkeley/",
-      "ampWebUrl": "https://techcrunch.com/2020/01/14/announcing-the-agenda-for-robotics-ai-march-3-at-ucberkeley/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/14/announcing-the-agenda-for-robotics-ai-march-3-at-ucberkeley/amp/",
-      "publishedDateTime": "2020-01-15T16:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/01/header_agenda.png?w=1024",
-          "width": 1024,
-          "height": 558,
-          "title": "Announcing the agenda for Robotics + AI — March 3 at UC Berkeley",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-16-aoc-is-sounding-the-alarm-about-the-rise-of-facial-recognition-this-is-some-real-life-black-mirror-stuff.md",
-      "title": "AOC is sounding the alarm about the rise of facial recognition: 'This is some real-life \"Black Mirror\" stuff'",
-      "excerpt": "When facial recognition is implemented, the software makes it easy for corporations or governments to identify people and track their movements.",
-      "heat": 80,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/aoc-facial-recognition-similar-to-black-mirror-stuff-2020-1/",
-      "ampWebUrl": "https://amp.businessinsider.com/aoc-facial-recognition-similar-to-black-mirror-stuff-2020-1",
-      "cdnAmpWebUrl": "https://amp-businessinsider-com.cdn.ampproject.org/c/s/amp.businessinsider.com/aoc-facial-recognition-similar-to-black-mirror-stuff-2020-1",
-      "publishedDateTime": "2020-01-15T17:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://amp.businessinsider.com/images/5e1f847fb6d52d23c07e6a04-750-563.jpg",
-          "width": 750,
-          "height": 563,
-          "title": "AOC is sounding the alarm about the rise of facial recognition: 'This is some real-life \"Black Mirror\" stuff'",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-01-16-apple-acquires-artificial-intelligence-company-xnoraiheres-what-that-company-is.md",
       "title": "Apple Acquires Artificial Intelligence Company Xnor.ai—Here's What That Company Is",
       "excerpt": "Apple (APPL) has reportedly acquired a company called Xnor.ai. The little-known, and difficult to pronounce, company is a Seattle-based artificial intelligence start-up. It was founded in 2016 by researchers at the Allen Institute for Artificial Intelligence. Xnor.ai’s mission is to enable AI algorithms to run on small devices—such as ...",
@@ -2154,6 +1982,186 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-16-what-is-machine-learning-why-its-matters-and-how-does-it-works.md",
+      "title": "What is Machine Learning? Why its Matters and how does it works?",
+      "excerpt": "Machine learning is an application of artificial intelligence (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed. Machine learning focuses on the development of computer programs that can access data and use it learn for themselves. The process of learning begins with ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/swlh/what-is-machine-learning-why-its-matters-and-how-does-it-works-846055a676d4",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-15T16:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*YaCKYPDAZ31OA5OgTT3tjA.jpeg",
+          "width": 600,
+          "height": 256,
+          "title": "What is Machine Learning? Why its Matters and how does it works?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-17-ab-inbev-taps-machine-learning-to-root-out-corruption.md",
+      "title": "AB InBev Taps Machine Learning to Root Out Corruption",
+      "excerpt": "The company that stands out for taking a data-driven approach to preventing bribery and corruption isn’t part of the tech sector. In fact, its product predates the wheel.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/ab-inbev-taps-machine-learning-to-root-out-corruption-11579257001",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/ab-inbev-taps-machine-learning-to-root-out-corruption-11579257001",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ab-inbev-taps-machine-learning-to-root-out-corruption-11579257001",
+      "publishedDateTime": "2020-01-17T07:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-144949/social",
+          "width": 1280,
+          "height": 640,
+          "title": "AB InBev Taps Machine Learning to Root Out Corruption",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-17-ai-in-medical-imaging-market-enhancement-latest-trends-growth-and-opportunity-during-2019-to-2025.md",
+      "title": "AI In Medical Imaging Market Enhancement, Latest Trends, Growth and Opportunity during 2019 to 2025",
+      "excerpt": "The AI In Medical Imaging Market recently Published Global Market research study with more than 100 industry informative desk and Figures spread through Pages and easy to understand detailed TOC on \"AI In Medical Imaging Market\".",
+      "heat": 95,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-medical-imaging-market-enhancement-latest-trends-growth-and-opportunity-during-2019-to-2025-2020-01-17",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-17T09:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "AI In Medical Imaging Market Enhancement, Latest Trends, Growth and Opportunity during 2019 to 2025",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-17-ai-weekly-meta-analysis-shows-ai-ethics-principles-emphasize-human-rights.md",
+      "title": "AI Weekly: Meta analysis shows AI ethics principles emphasize human rights",
+      "excerpt": "One of the trends that came into sharp focus in 2019 was, ironically, a woeful lack of clarity around AI ethics. The AI field at large was paying attention to ethics, creating and applying frameworks for AI research, development, policy, and law, but there was no unified approach. The committees and groups, from every sort of organization ...",
+      "heat": 112,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/17/ai-weekly-meta-analysis-shows-ai-ethics-principles-emphasize-human-rights/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/17/ai-weekly-meta-analysis-shows-ai-ethics-principles-emphasize-human-rights/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/17/ai-weekly-meta-analysis-shows-ai-ethics-principles-emphasize-human-rights/amp/",
+      "publishedDateTime": "2020-01-17T12:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/ai-principles-meta-analysis.png?fit=1200%2C594&strip=all",
+          "width": 1200,
+          "height": 594,
+          "title": "AI Weekly: Meta analysis shows AI ethics principles emphasize human rights",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
       ]
     }
   ],

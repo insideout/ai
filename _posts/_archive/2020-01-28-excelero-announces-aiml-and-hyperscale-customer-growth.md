@@ -23,6 +23,6 @@ images:
     height: 440
     title: "Excelero Announces AI/ML and Hyperscale Customer Growth"
 
-secured: "g7XqBlAiHH446Ps/rzVREU6NSs20+WRPBreaVLKkj3J5+OgY7QgEO1PRToTvKhhFesTVvtMas98xZ003qgs+yhImAPBhYq6paW5sR3OJ3Aum/QDb1eQEkliXQk19i06DIsod6T9/KQqsk/5kzN9YIffB/OUvSx3F5rtG2LeecnnAPdjyI5k1nrrorZG/XqxI5AwPlkFw3xG9sGhS9sgDAjC9AlJ+eGjU0v/jLvNP2QtHmh7YI6Ug1/TQZCXibl8J83FiyjahO4lTj8UHl33yQ/VXuqrsW8rhS9P02KVqjSykKOgi/7hiFBOQQoYjzVk6;AM5Wg8fp3pywLMOWz4JDVA=="
+secured: "wd/SgHaep/QARjq0Qnn9sJfYdjxKHazqo0DSTf7EBk4kzGpZliZhhOcEJ3EJflk0ZKd1PBIKAcbeLVgF8D/bndHiEOqjmbAr1DmxBW4NWkpDtHqxzVROBSvH0apA5QVzOg7WKLMd8ia0vmv2iFJi96Nqcw/ZUzmtmelzg1lisZKvQxBz/IYNFEe4D0aOiGK5qD0DkClG1p+DOagOn+1LTLCSvsyOmWnjxVQC5enGX6Xt1S/dA5x24tczoqv29/IhmrhX0/N81+0pmixZNrWLYVnvbNUDUlPXsiGB9UI6JFMC2wwhSaeABrv2lIn6PMjl;bw5igmN+s3anxeYq5XyYlA=="
 ---
 

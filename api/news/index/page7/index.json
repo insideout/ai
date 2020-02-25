@@ -2,141 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_posts/2020-02-21-breakingviews-bank-of-englands-ai-approach-will-toughen-up.md",
-      "title": "Breakingviews - Bank of England’s AI approach will toughen up",
-      "excerpt": "The Bank of England last year picked artificial-intelligence pioneer Alan Turing as the face of its new 50-pound note. It’s an apt choice given the central bank will quickly have to figure out how to ensure that the spread of smart robots throughout finance is a force for good rather than a destabilising influence.",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.reuters.com/article/us-artificial-intelligence-boe-breakingv-idUSKBN20F1IG",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN20F1IG",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN20F1IG",
-      "publishedDateTime": "2020-02-21T03:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200221&t=2&i=1493276874&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG1K0ZD",
-          "width": 821,
-          "height": 545,
-          "title": "Breakingviews - Bank of England’s AI approach will toughen up",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-21-can-ai-better-match-luxury-real-estate-agents-with-well-heeled-buyers.md",
-      "title": "Can AI Better Match Luxury Real Estate Agents With Well-Heeled Buyers?",
-      "excerpt": "Nascent technologies and AI can assist high-end real estate agent reach more buyers and better communicate with them, but old-fashioned personal networking is still crucial in a sector driven by customization and individual attention.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/dimawilliams/2020/02/21/can-ai-better-match-luxury-real-estate-agents-with-high-heeled-buyers/",
-      "ampWebUrl": "https://www.forbes.com/sites/dimawilliams/2020/02/21/can-ai-better-match-luxury-real-estate-agents-with-high-heeled-buyers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/dimawilliams/2020/02/21/can-ai-better-match-luxury-real-estate-agents-with-high-heeled-buyers/amp/",
-      "publishedDateTime": "2020-02-21T09:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1071612584%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Can AI Better Match Luxury Real Estate Agents With Well-Heeled Buyers?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-21-defeated-chess-champ-garry-kasparov-has-made-peace-with-ai.md",
-      "title": "Defeated Chess Champ Garry Kasparov Has Made Peace With AI",
-      "excerpt": "Most remarkably, AlphaZero uncovered new approaches to the game that dazzled chess experts. Last week, Kasparov returned to the scene of his famous Deep Blue defeat—the ballroom of a New York hotel—for a debate with AI experts organized by the Association for the Advancement of Artificial Intelligence. He met with WIRED senior writer Will ...",
-      "heat": 101,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/defeated-chess-champ-garry-kasparov-made-peace-ai/",
-      "ampWebUrl": "https://www.wired.com/story/defeated-chess-champ-garry-kasparov-made-peace-ai/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/defeated-chess-champ-garry-kasparov-made-peace-ai/amp",
-      "publishedDateTime": "2020-02-21T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5e4c10d419656c0009fbe489/master/pass/Biz-kasparov-511682700.jpg",
-          "width": 2400,
-          "height": 1663,
-          "title": "Defeated Chess Champ Garry Kasparov Has Made Peace With AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "Google AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-21-edmodo-partners-with-ibm-watson-education-to-close-learning-gaps-using-ai.md",
       "title": "Edmodo Partners with IBM Watson Education to Close Learning Gaps using AI",
       "excerpt": "Before it's here, it's on the Bloomberg Terminal.",
@@ -1332,51 +1197,6 @@
       ]
     },
     {
-      "path": "_posts/2020-02-24-5-reasons-to-choose-pytorch-for-deep-learning.md",
-      "title": "5 reasons to choose PyTorch for deep learning",
-      "excerpt": "While the fast.ai course uses fast.ai’s own library that provides further abstractions on top of PyTorch (making it even easier to get to grips with deep learning), the course also delves deep into the fundamentals, building a PyTorch-like library from scratch, which will give you a thorough understanding of how the internals of PyTorch ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.infoworld.com/article/3528780/5-reasons-to-choose-pytorch-for-deep-learning.html",
-      "ampWebUrl": "https://www.infoworld.com/article/3528780/5-reasons-to-choose-pytorch-for-deep-learning.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3528780/5-reasons-to-choose-pytorch-for-deep-learning.amp.html",
-      "publishedDateTime": "2020-02-24T08:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/02/number-5-on-fire_top-five_five-tips-100750848-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "5 reasons to choose PyTorch for deep learning",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_posts/2020-02-24-ai-android-teaching-assistant-gives-students-hands-on-robotics-experience.md",
       "title": "AI Android Teaching Assistant Gives Students Hands-on Robotics Experience",
       "excerpt": "... presence of robots and artificial intelligence in our world,\" said Barry in an article about the project. \"One of the points that I'm bringing out in this class is that robots reflect their programming: If they're programmed with a life-affirming, ethical framework, they are more likely to act ethically and help humans to do the same.\"",
@@ -2140,6 +1960,177 @@
           "width": 1200,
           "height": 600,
           "title": "Karius raises $165 million to identify infectious diseases with AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-24-microsoft-azure-sphere-launches-in-general-availability.md",
+      "title": "Microsoft Azure Sphere launches in general availability",
+      "excerpt": "As for brownfield, it calls for an Azure Sphere “guardian” device — the bulk of which are produced by Avnet and AI-Link — to connect existing hardware to the internet. Azure Sphere hardware is available in several configurations, including Wi-Fi modules, development kits and dev boards (from partners like Seeed Studios and USI), and the ...",
+      "heat": 131,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/24/microsoft-azure-sphere-launches-in-general-availability/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-24T01:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/12/microsoft-azure-new-logo-2017-e1572843284943.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Microsoft Azure Sphere launches in general availability",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-24-mit-csails-radars-map-hidden-features-to-help-driverless-cars-navigate-snowy-terrain.md",
+      "title": "MIT CSAIL’s radars map hidden features to help driverless cars navigate snowy terrain",
+      "excerpt": "Plus, bad weather has a tendency to obscure road signage and structures that normally serve as navigational landmarks. Fortunately, researchers at MIT’s Computer Science and Artificial Intelligence Laboratory and Lincoln Laboratory are on the case. In a paper that will be published in the journal IEEE Robotics and Automation Letters later ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/23/mit-csails-ground-penetrating-radars-map-underground-features-to-help-driverless-cars-navigate-snowy-terrain/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-23T21:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/1MIT-CSAILs-car-in-the-snow-from-the-back-credit-MIT-CSAIL-e1582233935856.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "MIT CSAIL’s radars map hidden features to help driverless cars navigate snowy terrain",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-24-mlops-the-machine-learning-assembly-line.md",
+      "title": "MLOps: The Machine Learning Assembly Line",
+      "excerpt": "There’s another practice that’s following a similar trajectory in data science today: MLOps. A portmanteau of two abbreviations (‘ML’ for ‘machine learning’ and ‘Ops’ for ‘operations’), the concept is akin to DevOps, i.e., a pipeline from developer to product. As with assembly lines, the goal of MLOps isn’t making ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/acerta/mlops-the-machine-learning-assembly-line-d78fa080f9f0",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-24T15:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*BsEr0YI152lB6cFjEhVEfQ.jpeg",
+          "width": 1200,
+          "height": 750,
+          "title": "MLOps: The Machine Learning Assembly Line",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-24-new-york-artificial-intelligence-company-behavox-raises-100-million.md",
+      "title": "New York artificial intelligence company Behavox raises $100 million",
+      "excerpt": "Behavox, a New York-based artificial intelligence company, said Monday it has raised $100 million. The funding came from SoftBank Vision Fund 2, according to Behavox, which describes itself as \"the world’s only end-to-end data operating platform.",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bizjournals.com/newyork/news/2020/02/24/behavox-raises-100-million.html",
+      "ampWebUrl": "https://www.bizjournals.com/newyork/news/2020/02/24/behavox-raises-100-million.amp.html",
+      "cdnAmpWebUrl": "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/newyork/news/2020/02/24/behavox-raises-100-million.amp.html",
+      "publishedDateTime": "2020-02-24T07:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.bizj.us/view/img/11611878/behavox-ceo*600xx1829-1219-164-0.jpg",
+          "width": 600,
+          "height": 399,
+          "title": "New York artificial intelligence company Behavox raises $100 million",
           "attribution": null
         }
       ],

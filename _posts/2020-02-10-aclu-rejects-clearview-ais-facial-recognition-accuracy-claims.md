@@ -45,21 +45,6 @@ related:
       - url: "https://img.buzzfeed.com/buzzfeed-static/static/2020-02/10/16/asset/da869febf445/sub-buzz-274-1581350749-7.jpg?output-quality=auto&output-format=auto&downsize=640:*"
         width: 640
         height: 440
-  - title: "ACLU Said Clearview AI’s Facial Recognition Accuracy Study Is “Absurd”"
-    excerpt: "By Caroline Haskins and Ryan Mac and Logan McDonald Posted on February 10, 2020, at 11:20 a.m. ET Clearview AI's website previously touted that its technology had been verified using \"the ACLU's facial recognition accuracy methodology.\" The ACLU pushed back on that claim and forced Clearview to remove it last month. Clearview AI, the facial ..."
-    publishedDateTime: 2020-02-10T16:25:00Z
-    webUrl: "https://www.buzzfeednews.com/article/carolinehaskins1/clearview-ai-facial-recognition-accurate-aclu-absurd"
-    ampWebUrl: "https://www.buzzfeednews.com/amphtml/carolinehaskins1/clearview-ai-facial-recognition-accurate-aclu-absurd"
-    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/carolinehaskins1/clearview-ai-facial-recognition-accurate-aclu-absurd"
-    type: article
-    provider:
-      name: BuzzFeed News
-      domain: buzzfeednews.com
-    quality: 106
-    images:
-      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2020-02/10/16/asset/da869febf445/sub-buzz-274-1581350749-7.jpg?output-quality=auto&output-format=auto&downsize=640:*"
-        width: 640
-        height: 440
   - title: "ACLU Blasts Clearview's Facial Recognition Accuracy Claims"
     excerpt: "Clearview apparently has been telling law enforcement agencies that its technology underwent accuracy testing modeled on the ACLU's 2018 test of Amazon's Rekognition facial recognition tool. For that test, the ACLU simulated the way law enforcement used Rekognition in the field, matching photos of all 535 members of the United States Congress ..."
     publishedDateTime: 2020-02-14T12:00:00Z

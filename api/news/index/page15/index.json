@@ -2,184 +2,6 @@
   "page": 15,
   "value": [
     {
-      "path": "_posts/_archive/2020-01-18-the-3-best-artificial-intelligence-stocks-to-buy-now-for-your-portfolio.md",
-      "title": "The 3 Best Artificial Intelligence Stocks to Buy Now for Your Portfolio",
-      "excerpt": "Artificial intelligence (AI) is probably today's hottest tech growth trend. Spending on AI systems will soar from $37.5 billion in 2019 to $97.9 billion in 2023 -- that's a 28.4% compound annual growth rate -- according to estimates by research firm IDC. And that's a conservative projection. So it makes great sense for investors to want some ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/01/18/the-3-best-artificial-intelligence-stocks-to-buy-f.aspx?source=eptcnnlnk0000002",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/01/18/the-3-best-artificial-intelligence-stocks-to-buy-f.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/18/the-3-best-artificial-intelligence-stocks-to-buy-f.aspx",
-      "publishedDateTime": "2020-01-18T14:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F553710%2Fbest-ai-stocks-best-artificial-intelligence-stocks-2020-nvda-stock-nvidia-stock-mu-stock-micron-stock-crm-stock-salesforce-stock.jpg&w=700&op=resize",
-          "width": 700,
-          "height": 466,
-          "title": "The 3 Best Artificial Intelligence Stocks to Buy Now for Your Portfolio",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-18-the-secretive-company-that-might-end-privacy-as-we-know-it.md",
-      "title": "The Secretive Company That Might End Privacy as We Know It",
-      "excerpt": "His tiny company, Clearview AI, devised a groundbreaking facial recognition app. You take a picture of a person, upload it and get to see public photos of that person, along with links to where ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html",
-      "ampWebUrl": "https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.amp.html",
-      "publishedDateTime": "2020-01-18T11:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/01/26/business/19clearview/19clearview-facebookJumbo-v4.png",
-          "width": 1050,
-          "height": 549,
-          "title": "The Secretive Company That Might End Privacy as We Know It",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-19-2020-the-year-of-artificial-intelligence-for-your-business.md",
-      "title": "2020: The Year Of Artificial Intelligence For Your Business",
-      "excerpt": "Close to 40% of businesses use artificial intelligence (AI). This number was estimated at 5% to 10%, but a survey by IBM showed that we grossly underestimated the scale of AI’s existence. Most importantly, this number is set to grow to 80% to 90% over the next 18-24 months. Furthermore, AI specialists are the number one job role for 2020.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.entrepreneur.com/article/345112",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/345112",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/345112",
-      "publishedDateTime": "2020-01-18T19:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/20190109070104-shutterstock-529299211.jpeg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": "2020: The Year Of Artificial Intelligence For Your Business",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-19-artificial-intelligence-to-drive-china-vc-investments-in-2017-kpmg.md",
-      "title": "Artificial intelligence to drive China VC investments in 2017: KPMG",
-      "excerpt": "and monetize it,\" a KPMG China partner, Lyndon Fung, told CNBC's \"Street Signs\" on Thursday. He cited self-driving cars as an example of artificial intelligence technology that is poised to ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2017/01/18/artificial-intelligence-to-drive-china-vc-investments-in-2017-kpmg.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2017/01/18/artificial-intelligence-to-drive-china-vc-investments-in-2017-kpmg.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2017/01/18/artificial-intelligence-to-drive-china-vc-investments-in-2017-kpmg.html",
-      "publishedDateTime": "2020-01-18T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/104227109-GettyImages-596727272.jpg?v=1529473923",
-          "width": 1024,
-          "height": 666,
-          "title": "Artificial intelligence to drive China VC investments in 2017: KPMG",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-01-19-dive-into-ai-and-machine-learning-with-this-40-training.md",
       "title": "Dive into AI and machine learning with this $40 training",
       "excerpt": "With four courses and over 280 lessons, this bundle will introduce you to the exciting and lucrative world of machine learning and AI The interconnected worlds of machine learning and AI can be found at the heart of some of today's most exciting and important technologies—from quantum computing and Google algorithms to medical innovations and ...",
@@ -2158,6 +1980,178 @@
       "topics": [
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-21-google-temporary-ban-on-facial-recognition-tech-might-be-necessary.md",
+      "title": "Google: Temporary Ban on Facial-Recognition Tech Might Be Necessary",
+      "excerpt": "Google's CEO made the comments as the European Commission is considering a moratorium on using facial-recognition technologies in public spaces. The proposed ban would last for three to five years so regulators can assess the risks of the technology.",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.pcmag.com/news/google-temporary-ban-on-facial-recognition-tech-might-be-necessary",
+      "ampWebUrl": "https://www.pcmag.com/news/google-temporary-ban-on-facial-recognition-tech-might-be-necessary?amp=true",
+      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/google-temporary-ban-on-facial-recognition-tech-might-be-necessary?amp=true",
+      "publishedDateTime": "2020-01-21T14:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.pcmag.com/images/pcmag-social-share.jpg",
+          "width": 997,
+          "height": 1201,
+          "title": "Google: Temporary Ban on Facial-Recognition Tech Might Be Necessary",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-21-ibm-spearheading-ai-regulation-and-ethics-debate-at-davos.md",
+      "title": "IBM spearheading AI regulation and ethics debate at Davos",
+      "excerpt": "IBM also suggests that companies appoint chief AI ethics officials, carry out assessments to determine how much harm an AI system may pose, and maintain documentation about data when “making determinations or recommendations with potentially significant implications for individuals” so that the decisions can be explained. Spearheading the ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businesslive.co.za/bd/world/2020-01-21-ibm-spearheading-ai-regulation-and-ethics-debate-at-davos/",
+      "ampWebUrl": "https://www.businesslive.co.za/amp/bd/world/2020-01-21-ibm-spearheading-ai-regulation-and-ethics-debate-at-davos/",
+      "cdnAmpWebUrl": "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/world/2020-01-21-ibm-spearheading-ai-regulation-and-ethics-debate-at-davos/",
+      "publishedDateTime": "2020-01-21T05:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "businesslive.co.za",
+        "domain": "businesslive.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/jDCyDuJDTIlYc8w2p3497rWrABJ42N0xyjTuW-w7wX4jzNQfMRfjVN0NoRucfSfjCoGVTzbEz6NzKPJvz5nUjCCQivQq8oCT=s1000",
+          "width": 1000,
+          "height": 666,
+          "title": "IBM spearheading AI regulation and ethics debate at Davos",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-21-ibm-unveils-policy-lab-advocates-precision-regulation-of-ai.md",
+      "title": "IBM unveils Policy Lab, advocates ‘precision regulation’ of AI",
+      "excerpt": "IBM advocates for the appointment of AI ethics officials to guarantee compliance with providers’ and owners’ expectations. They’d be accountable for internal guidance and compliance mechanisms like AI ethics boards, which would oversee risk assessments and harm mitigation strategies, and for improving public acceptance and trust of ...",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/21/ibm-unveils-policy-lab-advocates-precision-regulation-of-ai/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/21/ibm-unveils-policy-lab-advocates-precision-regulation-of-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/21/ibm-unveils-policy-lab-advocates-precision-regulation-of-ai/amp/",
+      "publishedDateTime": "2020-01-21T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/ibm-keyboard-logo.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "IBM unveils Policy Lab, advocates ‘precision regulation’ of AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-21-ibms-biology-inspired-ai-generates-better-hash-codes-than-classical-approaches.md",
+      "title": "IBM’s biology-inspired AI generates better hash codes than classical approaches",
+      "excerpt": "To overcome this limitation, researchers at Princeton, the University of San Diego, IBM Research, and the MIT-IBM Watson AI Lab developed BioHash, which applies “local” and “biologically plausible” synaptic plasticity rules to produce hash codes. They say that it outperforms previously published benchmarks for various hashing methods ...",
+      "heat": 95,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/21/ibms-biologically-inspired-ai-generates-hash-codes-faster-than-classical-approaches/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/21/ibms-biologically-inspired-ai-generates-hash-codes-faster-than-classical-approaches/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/21/ibms-biologically-inspired-ai-generates-hash-codes-faster-than-classical-approaches/amp/",
+      "publishedDateTime": "2020-01-21T11:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/87c3b4c5-3db3-461e-b3f9-266dfa23d445-1-e1579635316665.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "IBM’s biology-inspired AI generates better hash codes than classical approaches",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI"
       ]
     }
   ],

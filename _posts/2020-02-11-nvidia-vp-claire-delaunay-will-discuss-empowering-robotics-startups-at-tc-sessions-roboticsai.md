@@ -37,21 +37,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/02/claire_speaker_header.png?w=1024"
         width: 1024
         height: 558
-  - title: "Students: Score $50 tickets to TC Sessions: Robotics + AI 2020"
-    excerpt: "Are you a student enthralled by robots and the AI that powers them? Do you live within striking distance of UC Berkeley? Ready to learn from the greatest minds and makers in the field? Then we want you at TC Sessions: Robotics + AI 2020 on March 3 at UC Berkeley’s Zellerbach Hall. We’re investing in the next generation of makers by making ..."
-    publishedDateTime: 2020-02-10T16:52:00Z
-    webUrl: "https://techcrunch.com/2020/02/10/students-score-50-tickets-to-tc-sessions-robotics-ai-2020/"
-    ampWebUrl: "https://techcrunch.com/2020/02/10/students-score-50-tickets-to-tc-sessions-robotics-ai-2020/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/10/students-score-50-tickets-to-tc-sessions-robotics-ai-2020/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/02/robotics_header_2000x1099-1.png?w=1024"
-        width: 1024
-        height: 562
 
 secured: "9Kq3d+17L+RnZi9geP8v1kwG0tISAySYFHypiIHLikWWbYM90ZcNAywom2tWvZvCAds8RqZ/c0hQatLzdLAiYdWV9h3oQwIyitZIY86GWXWW0A7+tIiLQFIwLKT37/LJyjR6e4d2RkyE9sCKmeyJGtaoTq8TzzosOBN81mRw5qlVMsa+eD1wi/eZZ2BBfzlT9qI3yvhjU+db2BUwk4tIJ8gTVDHP4p0mmgsGKpIf8f3r/MQY9wuHF9tkipMTw3EFzVe1KNiL/csLQkgZEOh9qLfmC8/hDtiID6LsvoxWTyuhIoShb1oaMdr3AZUJ6M6ZIdGhxum4LSIJ49K1YgoaO7olkPbwRiAbO8FiHtUeeYsQ1p2my6nJWSVQyOazyfu8gPyWleTiz3Rl8iZWMBG9g/Z8TWVmfkxzaKIxwxCrxthTSA/02WQCo6ArrB8puNR9ZYn0Frq+XsnLMksWzKKfDd8prgNgyZFiN1pyioMJP3s=;JTvrkSLwGySVQwC9VzieHQ=="
 ---

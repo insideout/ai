@@ -17,6 +17,6 @@ topics:
   - AI
   - AI in Finance
 
-secured: "K9KcJjFUqWxwJW+iSUYhGL3g48dN5Hz//zibtQbe2ftSkccUTMMXxVhkkI2pHw/W6z7i1kncvic0FI+NjQsH0WJlHbZGEnFohlylgkgWFFiuAaEF6Wi890GXoKLQ6hmth5RZKgz6wDc/c3nm6TK2x9+agQ4vLWcRbxUFybrHovQQII11Ym3+Yq6ZbUPaS0sbpnlSMumLGcbj33AlTeqa5vI+E0gzVjELK3sEpPdkK2raq8xxvqu6isImwYdt2xh1/tjLhP16IXdf6JT2g/oWjZ/GPAs0LBsytoDoViBLHgbGaHVgFwmF2L+Kicl/0Nqh;Dz/0RQJ1qsEnfAq6iT6XOQ=="
+secured: "/ryYWEEWj7R7vV0N9mnUUpHQqtkvCtoNhrnJu3cRlJ0yzUIV0MJ4h5S1VM6I2vVLrfvoCgfkRWiuPNGJ26GZqt5vXiK507nrvAXJ6otVVLg4OSPgNa7sNiLG6hmL+35cyzsATLTrhQ5ppwliyxTPLy4oxKnXauRtPBoONuJrhpbwUbwfvBVd9dbcL6I+rrAJgSDx6hb0qklVkisanzgMo0pj6DSOFNlzAoyeDDCzQb8xlTPXctu7rlzAUErnAklG3/vRoFpgVU822eMuI87kE+zFb+s7T8ivuvl+VYE4k/ifCICFRRYc1CP6iINrk1rF;U8wTvvbkAjd+UrUkxCoqyw=="
 ---
 

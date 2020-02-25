@@ -8,7 +8,7 @@ ampWebUrl: "https://www.buzzfeednews.com/amphtml/carolinehaskins1/clearview-ai-f
 cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/carolinehaskins1/clearview-ai-facial-recognition-accurate-aclu-absurd"
 type: article
 quality: 180
-heat: 250
+heat: 240
 published: true
 
 provider:
@@ -31,21 +31,6 @@ images:
     title: "The ACLU Slammed A Facial Recognition Company That Scrapes Photos From Instagram And Facebook"
 
 related:
-  - title: "ACLU Said Clearview AI’s Facial Recognition Accuracy Study Is “Absurd”"
-    excerpt: "By Caroline Haskins and Ryan Mac and Logan McDonald Posted on February 10, 2020, at 11:20 a.m. ET Clearview AI's website previously touted that its technology had been verified using \"the ACLU's facial recognition accuracy methodology.\" The ACLU pushed back on that claim and forced Clearview to remove it last month. Clearview AI, the facial ..."
-    publishedDateTime: 2020-02-10T16:25:00Z
-    webUrl: "https://www.buzzfeednews.com/article/carolinehaskins1/clearview-ai-facial-recognition-accurate-aclu-absurd"
-    ampWebUrl: "https://www.buzzfeednews.com/amphtml/carolinehaskins1/clearview-ai-facial-recognition-accurate-aclu-absurd"
-    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/carolinehaskins1/clearview-ai-facial-recognition-accurate-aclu-absurd"
-    type: article
-    provider:
-      name: BuzzFeed News
-      domain: buzzfeednews.com
-    quality: 106
-    images:
-      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2020-02/10/16/asset/da869febf445/sub-buzz-274-1581350749-7.jpg?output-quality=auto&output-format=auto&downsize=640:*"
-        width: 640
-        height: 440
   - title: "ACLU rejects Clearview AI's facial recognition accuracy claims"
     excerpt: "It accuses Clearview of faking endorsements to boost inaccurate tech. Clearview AI's facial recognition isn't just raising privacy issues-- there are also concerns over its accuracy claims. The ACLU has rejected Clearview's assertion that its technology is \"100% accurate\" based on the civil liberty group's methodology for testing Amazon's ..."
     publishedDateTime: 2020-02-10T18:45:00Z
