@@ -1,29 +1,20 @@
 ---
 category: news
-title: "Pentagon adopts ethics for artificial intelligence use"
-excerpt: "The Defense Department has announced adoption of ethical principles for use of artificial intelligence following 15 months of consultation with AI experts in industry, government, academia and the American public."
-publishedDateTime: 2020-02-24T22:28:00Z
-webUrl: "https://www.upi.com/Defense-News/2020/02/24/Pentagon-adopts-ethics-for-artificial-intelligence-use/3091582573432/"
-ampWebUrl: "https://www.upi.com/amp/Defense-News/2020/02/24/Pentagon-adopts-ethics-for-artificial-intelligence-use/3091582573432/"
-cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Defense-News/2020/02/24/Pentagon-adopts-ethics-for-artificial-intelligence-use/3091582573432/"
+title: "Pentagon adopts ethical principles for artificial intelligence"
+excerpt: "The Department of Defense has officially adopted principles for the ethical use of artificial intelligence with a focus on ensuring the military can retain full control and understanding over how machines make decisions, it announced Monday. “We believe the nation that successfully implements AI principles will lead in AI for many years ..."
+publishedDateTime: 2020-02-24T22:40:00Z
+webUrl: "https://www.fedscoop.com/dod-ai-ethics-principles/"
 type: article
-quality: 74
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: UPI.com
-  domain: upi.com
+  name: FedScoop
+  domain: fedscoop.com
 
 topics:
   - AI
-  - AI Ethics
-
-images:
-  - url: "https://cdnph.upi.com/sv/ph/og/upi/3091582573432/2020/1/9824e619619d8a01a1f10fbe03097da5/v1.5/Pentagon-adopts-ethics-for-artificial-intelligence-use.jpg"
-    width: 800
-    height: 534
-    title: "Pentagon adopts ethics for artificial intelligence use"
 
 related:
   - title: "Pentagon to Adopt Detailed Principles for Using AI"
@@ -39,6 +30,21 @@ related:
       - url: "https://cdn.nextgov.com/media/img/upload/2020/02/19/NGdrone20200219/open-graph.jpg"
         width: 400
         height: 400
+  - title: "Pentagon adopts ethics for artificial intelligence use"
+    excerpt: "The Defense Department has announced adoption of ethical principles for use of artificial intelligence following 15 months of consultation with AI experts in industry, government, academia and the American public."
+    publishedDateTime: 2020-02-24T22:28:00Z
+    webUrl: "https://www.upi.com/Defense-News/2020/02/24/Pentagon-adopts-ethics-for-artificial-intelligence-use/3091582573432/"
+    ampWebUrl: "https://www.upi.com/amp/Defense-News/2020/02/24/Pentagon-adopts-ethics-for-artificial-intelligence-use/3091582573432/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Defense-News/2020/02/24/Pentagon-adopts-ethics-for-artificial-intelligence-use/3091582573432/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 74
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/3091582573432/2020/1/9824e619619d8a01a1f10fbe03097da5/v1.5/Pentagon-adopts-ethics-for-artificial-intelligence-use.jpg"
+        width: 800
+        height: 534
   - title: "Pentagon adopts new ethical principles for using AI in war"
     excerpt: "While the Pentagon acknowledged that AI “raises new ethical ambiguities and risks,\" the new principles fall short of stronger restrictions favored by arms control advocates. “I worry that the principles are a bit of an ethics-washing project,” said Lucy Suchman, an anthropologist who studies the role of AI in warfare. “The word ..."
     publishedDateTime: 2020-02-24T21:54:00Z
@@ -165,16 +171,7 @@ related:
       - url: "https://d3lcr32v2pp4l1.cloudfront.net/Pictures/2000x2000fit/7/8/9/67789_mq9reaperfliesatrainingmissionoverthenevadatestandtrainingrangecreditusaf2_171066.jpg"
         width: 2000
         height: 1335
-  - title: "Pentagon adopts ethical principles for artificial intelligence"
-    excerpt: "The Department of Defense has officially adopted principles for the ethical use of artificial intelligence with a focus on ensuring the military can retain full control and understanding over how machines make decisions, it announced Monday. “We believe the nation that successfully implements AI principles will lead in AI for many years ..."
-    publishedDateTime: 2020-02-24T22:40:00Z
-    webUrl: "https://www.fedscoop.com/dod-ai-ethics-principles/"
-    type: article
-    provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 17
 
-secured: "iuxyZ/Q6teQyGAb7dwJYvUWadI6tl04k0qgxoY71YKv+CuQj8TQ5HHNp39yIw8Euu7lpQPBS1iVApJXSY6oh4AMwwMApX7Bu9D39CccRb+X8jw/g4tL7FNy1igl3lqpGGpO1wNIWI5wSPwBu97w4gPjDG8vYKvOUyBnwXNhPgPlPhBSSFgcdOKFz/QQZJdwWC5gwSsMwKiK+thj1bgFbYtKmJkKcWlBe0Ne/oEN2qSEtptbgrllQAj5jBGjp6+Y7DuGITTOGZw3CKmBfvrpwcCodM4E7XmobrhGJCgcLLYvwMwvml234on1ZSN93JwTEWxP/MOgpCnD/EyWOMrHjg0TEORyzkK4DyC2pou8sfDZ7xw1hyyaqge16M0UqYpfh8eqnzJ8YPTFa2WrtGgBKEMBoFWGzNmlYWIfj02dcfzjA6mKzzseATm9u2jxvCHCOdrAsMaRZE4zOBOvSzEMGFsKc6XaCF8E4DgAADqav50w=;/Fwz+UHvzYH8yw3YdJmSOw=="
+secured: "VoNxK08QAyGhQW30OUzj7Kpxp5xizbk29OEn7DbwiF6bTLG4Wt31jYHETToU2igKDGEr3AlNvmqwRd0I7IpWlAfUPKkFLRA4RHykM6zVDmlI0KnTVNvUZFd9FO0t7IYWGEumOit7HWbaCzAWkdNxoDnlUm1C0g1EWNLCodLddZ4O5AHw6fNNzLB3uAPOAPBzB63OrNaeZKpXsRDdUK+8jFUcLvPSMnztXv1GC7ZHg1oDZbDRzFDXEl9LtR1vE+SXNPrh7UuuocnQGioWpwZCu+qZKC3uUTTlecqFyT+ewXqNB3AxgfecsXhSIo/OaL3ycfdfPKhjQrpRZflK/HQ39xmsRvRhL9c9FCYqVtUqkc2tbNYcwypV+l6e4Or+tR3vwV0aShf1QK4H2fBrHBlGnCD3NWJr0hb4wHJjeJ5Iq62BQDC0nWt/kGUsahbIyRQ7Zp5SaMA6/UBFavkVlUCs8cFqfRK4g7UrZfVOrLW5Wsg=;7alwPoSCMf6BLWLmKJq2ow=="
 ---
 

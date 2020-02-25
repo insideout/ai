@@ -38,7 +38,7 @@ related:
   - title: "Databricks Simplifies the Path to Building Lakehouses for Business Intelligence and Machine Learning"
     excerpt: "Azure Databricks customers already benefit from native integration with Azure Data Factory to ingest data from many sources. “Databricks powers our machine learning and business intelligence across multiple business functions, from car inventory management, to price prediction and technical operations, by using hundreds of terabytes of data ..."
     publishedDateTime: 2020-02-24T20:50:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200224005279/en/"
+    webUrl: "https://www.businesswire.com/news/home/20200224005279/en/Databricks-Simplifies-Path-Building-Lakehouses-Business-Intelligence"
     type: article
     provider:
       name: Business Wire
@@ -49,6 +49,6 @@ related:
         width: 1200
         height: 627
 
-secured: "UCzsu0VaYJe2QrEz9n8JCSmjOvGx4eqPYWg342zIizkjzyVkhbmpL7LgQkf7DmlFx7wbCkgzmjbXAZqnYwaynX5HWJ9ZuQmlH/fZbLVsPv3TsxWdU3fi3Sf6SUCyNAjWOhGvCoWQO5hC02UJ3YSCskzCm/0h/QD43wbTxDX39cNxyUqh1k5NYf6Sg5zbgovgowfSX0zRX1NS9G8bI9v+++YbjIWRXRrWw5kX1L6dGBc2WcRWX+5X7XcdlTumpNzWca3kybwGOadUiyd2dEVf4Bp2+qHCeAMp3V1b5bvZ1A+JtI/ecIqPmy/8kGnq0gce;MvCpsrhtJBroPIi5XuCB1A=="
+secured: "nDfqorTZF0MHmRDzWfwTV4teJ0xUe8FyL4s0b4FEdGrpqFoN2nbXzxyvuzUw+hLsjAvsn4XA001JTPK9PVlxjsdxZFigFuy++pryAf6kgN7GJmwifPXrY+sRte3uwRqwr/ymlvixAicffqvgyRPrWYHSSy+QZrtVenZZwX4j7WfqtuY/iL/22umdovY0bxohIAj4hPADu/edcKptJQUdmi9crZQdzXKkgB3cLFGlveJ30GPFPp7CoIAvXOE1jxxcAdW7HDStp05iJlSrNsX8M99c+8bB8e4xKy/obqGMnWVYRVcFD2gEgVAppA+tTlE0;7GV0PoL1nccQjsyfKgcKQA=="
 ---
 

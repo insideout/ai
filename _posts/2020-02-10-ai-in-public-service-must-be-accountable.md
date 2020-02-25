@@ -8,7 +8,7 @@ ampWebUrl: "https://www.computerweekly.com/news/252478163/AI-in-public-service-m
 cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252478163/AI-in-public-service-must-be-accountable?amp=1"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 1200
     height: 400
     title: "AI in public service must be accountable"
-
-related:
-  - title: "Artificial Intelligence and Public Standards: Committee publishes report"
-    excerpt: "The work of the Office for AI, the Alan Turing Institute, the Centre for Data Ethics and Innovation (CDEI), and the Information Commissioner’s Office (ICO) are all commendable. But on transparency and data bias in particular, there is an urgent need for practical guidance and enforceable regulation. “We conclude that the UK does not need a ..."
-    publishedDateTime: 2020-02-10T10:46:00Z
-    webUrl: "https://www.gov.uk/government/news/artificial-intelligence-and-public-standards-committee-publishes-report"
-    type: article
-    provider:
-      name: gov.uk
-      domain: www.gov.uk
-    quality: 18
 
 secured: "b2OBywqjR/u8Aleii/NidffEUV6pJX1mHJ0/P49exox8SLLvaoazjL5d0lN5oDxbOO4WbuodlCqkYjHGWNuFxWNiYL5C/5nmbFywX7Y0d34B5Pa4ia+e+ohWuYSIKDH9m7VL9lAdzXeT68o8xB/uMxPgpRh5TfZeqs7YTeI2Jl9lDgMjXiQ8U8WDPpgY8z2kw6L52HyHfpAan8Tx+1Tc1zix9Vi76fK1QITJS9xHFSFgCn+q7wRE/SENC/JAask04FGHNU0+KzaVu8jQyKt4gCeigPC+z0HEcSDkYN9UiGOoYiL7zk/rP53C9ZGJPINm3YTDj0fZeytrHn6hIWwAtiopWZ9THUzusQuRMzH/CYamDZR239xa7v978pLhmAGE4W/vnzK6Br49yiMUmDbaDrr0Kc8melbmP15+7olbIjXDpf+0kWDICS8ZFRJhXyvZ20iBff+AJhai6AWQE2HA+S9TimKZ0JpauTKRLfvyXVE=;ji5Pu6MF+NHaJGJakU6qtg=="
 ---

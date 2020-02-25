@@ -52,21 +52,21 @@ related:
       - url: "https://cdnph.upi.com/sv/ph/og/upi/3091582573432/2020/1/9824e619619d8a01a1f10fbe03097da5/v1.5/Pentagon-adopts-ethics-for-artificial-intelligence-use.jpg"
         width: 800
         height: 534
-  - title: "Pentagon Adopts New Ethical Principles for Using AI in War"
+  - title: "Pentagon adopts new ethical principles for using AI in war"
     excerpt: "While the Pentagon acknowledged that AI “raises new ethical ambiguities and risks,\" the new principles fall short of stronger restrictions favored by arms control advocates. “I worry that the principles are a bit of an ethics-washing project,” said Lucy Suchman, an anthropologist who studies the role of AI in warfare. “The word ..."
-    publishedDateTime: 2020-02-24T23:28:00Z
-    webUrl: "https://www.nbcnewyork.com/news/national-international/pentagon-adopts-new-ethical-principles-for-using-ai-in-war/2300430/"
-    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/pentagon-adopts-new-ethical-principles-for-using-ai-in-war/2300430/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/pentagon-adopts-new-ethical-principles-for-using-ai-in-war/2300430/?amp"
+    publishedDateTime: 2020-02-24T21:54:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/pentagon-adopts-ethical-principles-ai-war-69181756"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pentagon-adopts-ethical-principles-ai-war-69181756"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pentagon-adopts-ethical-principles-ai-war-69181756"
     type: article
     provider:
-      name: NBC New York
-      domain: nbcnewyork.com
+      name: ABC
+      domain: go.com
     quality: 74
     images:
-      - url: "https://media.nbcnewyork.com/2019/09/1055516816-Pentagon.jpg?resize=1200%2C675"
-        width: 1200
-        height: 675
+      - url: "https://s.abcnews.com/images/Politics/WireAP_5a2ee9d1ab2546ab8f055f25d1597576_16x9_992.jpg"
+        width: 992
+        height: 558
   - title: "U.S. military adopts new ethics principles for using AI in war"
     excerpt: "The U.S. military is adopting new ethics principles as it prepares to accelerate its use of artificial intelligence technology on the battlefield. The Defense Department’s new principles call for people to “exercise appropriate levels of judgment and care” when deploying and using AI systems, such as systems that scan aerial imagery to ..."
     publishedDateTime: 2020-02-24T23:09:00Z
@@ -165,6 +165,15 @@ related:
       - url: "https://d3lcr32v2pp4l1.cloudfront.net/Pictures/2000x2000fit/7/8/9/67789_mq9reaperfliesatrainingmissionoverthenevadatestandtrainingrangecreditusaf2_171066.jpg"
         width: 2000
         height: 1335
+  - title: "Pentagon adopts ethical principles for artificial intelligence"
+    excerpt: "The Department of Defense has officially adopted principles for the ethical use of artificial intelligence with a focus on ensuring the military can retain full control and understanding over how machines make decisions, it announced Monday. “We believe the nation that successfully implements AI principles will lead in AI for many years ..."
+    publishedDateTime: 2020-02-24T22:40:00Z
+    webUrl: "https://www.fedscoop.com/dod-ai-ethics-principles/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 17
 
 secured: "Srcz+cCYWkW5gSqTkwUP5DR8mJA8ZXZmoQBzzv/Eo55VQ36sN+S3hZAOL/J3BrULdTo78h32u8oJaxZlm7n2J6S3M4WpBp1Cp+yrjFPhhGX19Bq9F65YkRgl1xgVVUw6fovDfUv4P0zsuKJNREURg9nERHMRVufE3SUUkcNt/Gjh0ijaazYEZzNEgi7AWfJzgXZpurY/onETpdbQETN+n/CfWJYuEPRtwks275koQ4uqRSoH3jQJBJuw0Aj4v1NcM6V3f7EDQwdPvEjvE3GMW6L+2hv219fpA6hA6oAhKb9Q4gmEDwfDiU2AEn+ECvOkbeFnfT+sW4CirGebE19lpbCeqllVhE1jD7pXg4l4jwxFTq2+jG8HsxPq8GCyzswEGKo0XhmBNaVTOZZ2nVN3m+aX9JgYWxTYYO3Rtq67DGhNKU5C67tc2aXjS3TYa5ZYPDCb9XTbKv+lPXs7yroZPI/v1n5MvD9+je2I3mwIcIM=;QwW8sx6724eCnkIvrIQf+g=="
 ---

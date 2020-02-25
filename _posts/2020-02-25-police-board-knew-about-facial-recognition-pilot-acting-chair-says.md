@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Metropolitan Police deploys facial recognition in central London with two hours’ warning"
-excerpt: "Police have deployed controversial facial recognition technology in central London with just two hours' notice, sparking privacy concerns. The Metropolitan Police installed a live facial recognition (LFR) camera at Oxford Circus, a highly-trafficked area ..."
-publishedDateTime: 2020-02-20T13:59:00Z
-webUrl: "https://www.independent.co.uk/news/uk/crime/met-police-facial-recognition-technology-city-westminster-a9346831.html"
+title: "Police board knew about facial recognition pilot, acting chair says"
+excerpt: "Questions about the Ottawa police pilot of facial recognition software continued to swirl Monday as two police board members questioned the force on what its plans were for the controversial technology amid the revelation that the board knew about the pilot. Indeed, acting chair Sandy Smallwood said that the board was informed of the pilot at ..."
+publishedDateTime: 2020-02-25T03:00:00Z
+webUrl: "https://ottawacitizen.com/news/local-news/police-board-knew-about-facial-recognition-pilot-acting-chair-says"
+ampWebUrl: "https://ottawacitizen.com/news/local-news/police-board-knew-about-facial-recognition-pilot-acting-chair-says/amp"
+cdnAmpWebUrl: "https://ottawacitizen-com.cdn.ampproject.org/c/s/ottawacitizen.com/news/local-news/police-board-knew-about-facial-recognition-pilot-acting-chair-says/amp"
 type: article
-quality: 30
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: The Independent
-  domain: independent.co.uk
+  name: Ottawa Citizen
+  domain: ottawacitizen.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: "https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/07/09/13/facialrecognition-ban.jpg"
-    width: 1998
-    height: 1499
-    title: "Metropolitan Police deploys facial recognition in central London with two hours’ warning"
+  - url: "https://postmediaottawacitizen2.files.wordpress.com/2020/01/76459938-13306503-w-1.jpg"
+    width: 1000
+    height: 750
+    title: "Police board knew about facial recognition pilot, acting chair says"
 
 related:
   - title: "Leaked Reports Show EU Police Are Planning a Pan-European Network of Facial Recognition Databases"
@@ -37,21 +39,6 @@ related:
       - url: "https://theintercept.com/wp-uploads/sites/1/2020/02/YotamHadar_TheIntercept_EUv4-still-1582297909.jpg"
         width: 2000
         height: 1000
-  - title: "Police board knew about facial recognition pilot, acting chair says"
-    excerpt: "Questions about the Ottawa police pilot of facial recognition software continued to swirl Monday as two police board members questioned the force on what its plans were for the controversial technology amid the revelation that the board knew about the pilot. Indeed, acting chair Sandy Smallwood said that the board was informed of the pilot at ..."
-    publishedDateTime: 2020-02-25T03:00:00Z
-    webUrl: "https://ottawacitizen.com/news/local-news/police-board-knew-about-facial-recognition-pilot-acting-chair-says"
-    ampWebUrl: "https://ottawacitizen.com/news/local-news/police-board-knew-about-facial-recognition-pilot-acting-chair-says/amp"
-    cdnAmpWebUrl: "https://ottawacitizen-com.cdn.ampproject.org/c/s/ottawacitizen.com/news/local-news/police-board-knew-about-facial-recognition-pilot-acting-chair-says/amp"
-    type: article
-    provider:
-      name: Ottawa Citizen
-      domain: ottawacitizen.com
-    quality: 74
-    images:
-      - url: "https://postmediaottawacitizen2.files.wordpress.com/2020/01/76459938-13306503-w-1.jpg"
-        width: 1000
-        height: 750
   - title: "Police chiefs say facial recognition needs more review — but cops should be able to use AI"
     excerpt: "The chiefs of two Greater Toronto Area police forces now slamming the brakes on the use of a contentious facial recognition tool admit the app should have undergone greater scrutiny before it was tested by their investigators. Clearview AI, a U.S.-based app providing an artificial intelligence-powered tool to law enforcement agencies ..."
     publishedDateTime: 2020-02-22T18:47:00Z
@@ -177,6 +164,19 @@ related:
       name: Edmonton Journal
       domain: edmontonjournal.com
     quality: 34
+  - title: "Metropolitan Police deploys facial recognition in central London with two hours’ warning"
+    excerpt: "Police have deployed controversial facial recognition technology in central London with just two hours' notice, sparking privacy concerns. The Metropolitan Police installed a live facial recognition (LFR) camera at Oxford Circus, a highly-trafficked area ..."
+    publishedDateTime: 2020-02-20T13:59:00Z
+    webUrl: "https://www.independent.co.uk/news/uk/crime/met-police-facial-recognition-technology-city-westminster-a9346831.html"
+    type: article
+    provider:
+      name: The Independent
+      domain: independent.co.uk
+    quality: 30
+    images:
+      - url: "https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/07/09/13/facialrecognition-ban.jpg"
+        width: 1998
+        height: 1499
   - title: "Announcement - Commissioners launch joint investigation into Clearview AI amid growing concerns over use of facial recognition technology"
     excerpt: "Media reports have stated that Clearview AI is using its technology to collect images and make facial recognition available to law enforcement for the purposes of identifying individuals. The company has also claimed to be providing its services to financial institutions. The four privacy regulators will examine whether the organization's ..."
     publishedDateTime: 2020-02-21T17:10:00Z
@@ -200,6 +200,6 @@ related:
       domain: edmontonjournal.com
     quality: 19
 
-secured: "Ka16DHlj/9f8T49CBVr7Wv6R4iRhbYhFSar3WNYnHIYuBwkWRzbO9DgyIgKXEBUbJjtBXh0eUNoW4nuY5S2b4Gmx111JXQPfYw4ddKnbGp6Mzd6wGrUgOjTBGVOv/Oc+f0G6KLsXovSqaTdl77ZCXG0BSVVgQlZ954FzA08mBn5eC1TmwxjSl/M5t2pOzTfcRohFvQptdrqqTY+2VUVwKnCqbgMCcErpY/Yd+lBFDX7TjYw+1zuT3pG0eNhohA3692X1cMB1tKG6dweiDZqLYltWPMn1rvvUg4W2qXtn460OxCCHSLNCSLYB7x7FrdDu;gWnHDT5gLPZGDHFbXdzCLQ=="
+secured: "UyEMFKq1u59uQWaKRCb4vs+LopWwXzBfabfZ/ojvn62rwKh1ijMI8dC1WWy+tv+S8SBqPqWUkQhK7Hn7HnO9ggJSJt34Y800a6IHmb66OlHfbYauLy5MjYwItreGCT6gwQREIyUKdAc+DtsFqVT2xHykmroJqM76ldIyvloAXw1mC5xxRzhiFbcynS7XMo43ytYZOsa+CbP7zoQo/1p0sbcFLXVRXN0LRDH9mAg8k3wNLT9U4faDBN5Amu4NQW56jmwlBbidULc4HPVDDmtvesNDaaRIVuQSEDx2tuyx9VNAZTsTvx4RSoHtKutpH2gW;7g+vz9BGWGuHKUxufJccHA=="
 ---
 

@@ -2,78 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_posts/2020-02-20-retail-optimization-startup-teikametrics-raises-15m-as-it-expands-beyond-amazon-and-beyond-ads.md",
-      "title": "Retail optimization startup Teikametrics raises $15M as it expands beyond Amazon and beyond ads",
-      "excerpt": "Teikametrics, a startup that helps retailers optimize their online ad spending ... Looking at the broader retail and advertising landscape, McLean-Foreman acknowledged, “AI is almost a buzzword,” but he argued, “We are actually AI-first. The product itself is automation, it is intelligent decision-making.” He added, “Advertising ...",
-      "heat": 75,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/02/19/teikametrics-funding/",
-      "ampWebUrl": "https://techcrunch.com/2020/02/19/teikametrics-funding/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/19/teikametrics-funding/amp/",
-      "publishedDateTime": "2020-02-19T19:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/02/unnamed.jpg?w=1024",
-          "width": 1024,
-          "height": 512,
-          "title": "Retail optimization startup Teikametrics raises $15M as it expands beyond Amazon and beyond ads",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-20-seven-takeaways-from-the-westworld-season-3-trailer.md",
-      "title": "Seven Takeaways From the ‘Westworld’ Season 3 Trailer",
-      "excerpt": "We’ve come a long way from all that natural splendor. HBO released the official Westworld Season 3 trailer on Thursday, and it looks like showrunners Jonathan Nolan and Lisa Joy are making good on the “radical shift” they promised back in August 2018. Our central characters have gone from the confines of the Westworld park to the human wo ...",
-      "heat": 157,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theringer.com/tv/2020/2/20/21146044/westworld-season-3-trailer",
-      "ampWebUrl": "https://www.theringer.com/platform/amp/tv/2020/2/20/21146044/westworld-season-3-trailer",
-      "cdnAmpWebUrl": "https://www-theringer-com.cdn.ampproject.org/c/s/www.theringer.com/platform/amp/tv/2020/2/20/21146044/westworld-season-3-trailer",
-      "publishedDateTime": "2020-02-20T13:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Ringer",
-        "domain": "theringer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-20-she-broke-the-glass-ceiling-to-establish-her-coliving-start-up.md",
       "title": "She Broke the Glass Ceiling To Establish Her Coliving Start-up",
       "excerpt": "Prior to this, the trio had founded Augbrain which uses artificial intelligence (AI) in education. However, the product was too complicated for ... Zolostays has raised $37 million in total till date. Choudhry revealed that the start-up is in advanced talks with new investors to raise up to $100 million for Series C round through a mix of ...",
@@ -1111,7 +1039,7 @@
       "path": "_posts/2020-02-21-leaked-reports-show-eu-police-are-planning-a-pan-european-network-of-facial-recognition-databases.md",
       "title": "Leaked Reports Show EU Police Are Planning a Pan-European Network of Facial Recognition Databases",
       "excerpt": "the EU could soon be creating a network of national police facial recognition databases. A report drawn up by the national police forces of 10 EU member states, led by Austria, calls for the introduction of EU legislation to introduce and interconnect such databases in every member state. The report, which The Intercept obtained from a European ...",
-      "heat": 246,
+      "heat": 256,
       "tags": null,
       "type": "article",
       "webUrl": "https://theintercept.com/2020/02/21/eu-facial-recognition-database/",
@@ -2133,6 +2061,87 @@
         "AI",
         "Microsoft AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-24-applications-of-photodetectors-in-robotics.md",
+      "title": "Applications of Photodetectors in Robotics",
+      "excerpt": "For now, security robots aren’t able to adequately replace a human security guard ... In 2017, the US Department of Defense launched Project Maven, an initiative to leverage artificial intelligence to classify and analyze massive amounts of surveillance video. The project has been working on AI software that can flag people, vehicles ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.azorobotics.com/Article.aspx?ArticleID=345",
+      "ampWebUrl": "https://www.azorobotics.com/amp/article.aspx?ArticleID=345",
+      "cdnAmpWebUrl": "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/article.aspx?ArticleID=345",
+      "publishedDateTime": "2020-02-24T07:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Azorobotics",
+        "domain": "azorobotics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.azorobotics.com/images/Article_Images/ImageForArticle_345_15825385749239338.png",
+          "width": 950,
+          "height": 713,
+          "title": "Applications of Photodetectors in Robotics",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-24-britains-top-cop-calls-for-law-on-police-use-of-ai.md",
+      "title": "Britain's top cop calls for law on police use of AI",
+      "excerpt": "Britain’s most senior police officer on Monday called on the government to create a legal framework for police use of new technologies such as artificial intelligence. Speaking about live facial recognition,",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-britain-security-cameras-idUSKCN20I1GU",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN20I1GU",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN20I1GU",
+      "publishedDateTime": "2020-02-24T10:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200224&t=2&i=1494560510&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG1N17J",
+          "width": 870,
+          "height": 545,
+          "title": "Britain's top cop calls for law on police use of AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

@@ -1,21 +1,21 @@
 ---
 category: news
 title: "Moscow deploys facial recognition technology for coronavirus quarantine"
-excerpt: "Moscow is using facial recognition technology to ensure people ordered to remain at home or at their hotels under coronavirus quarantine do so, the mayor of the Russian capital said on Friday. Russia has temporarily barred Chinese nationals from entering the country to curb the spread of the virus,"
-publishedDateTime: 2020-02-21T17:31:00Z
-webUrl: "https://www.reuters.com/article/us-china-health-moscow-technology-idUSKBN20F1RZ"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN20F1RZ"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN20F1RZ"
+excerpt: "Moscow is using facial recognition technology to ensure people ordered to remain at home or at their hotels under coronavirus quarantine do so."
+publishedDateTime: 2020-02-21T19:06:00Z
+webUrl: "https://www.cnbc.com/2020/02/21/moscow-deploys-facial-recognition-technology-for-coronavirus-quarantine.html"
+ampWebUrl: "https://www.cnbc.com/amp/2020/02/21/moscow-deploys-facial-recognition-technology-for-coronavirus-quarantine.html"
+cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/02/21/moscow-deploys-facial-recognition-technology-for-coronavirus-quarantine.html"
 type: article
 quality: 89
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: CNBC
+  domain: cnbc.com
   images:
-    - url: "/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "/assets/images/organizations/cnbc.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -24,9 +24,9 @@ topics:
   - Computer Vision
 
 images:
-  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200221&t=2&i=1493306581&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG1K17S"
-    width: 818
-    height: 545
+  - url: "https://image.cnbcfm.com/api/v1/image/100978289-135627372r.jpg?v=1582293185"
+    width: 2000
+    height: 1325
     title: "Moscow deploys facial recognition technology for coronavirus quarantine"
 
 related:
@@ -210,6 +210,6 @@ related:
       domain: theglobeandmail.com
     quality: 8
 
-secured: "NivF/QWEGaviDzNdMxrRbIWOWGeecuQhbzE1a1zzYbSLMh2Pau/zs9DbX1Byg7Yt+R5wRZ5EFKiH2lwFcRTgCAK0Q2a1+n++yUgu0EVFQgh/2o5vcKHZS58/Y1PbyzSrd87IySicLRMB8ghnXnmOxVNnyjTMGMMDIhGhrxdPYvx3TT6QaiAfTaxDEejzPVGxQNcmLXEpeAw+TJBhsmNVtgPZe8MnIoYPTWZBWuAx261sAxD5B5/52GtTxFaxM3NOt4c7JuZqNZpsDsNGoyK3HBntzEA+zKxacZ1CO8slNUxLYAR3XyjAt7UjCB+/ndFug8zCHypiFyVodwyglYn8UUvjFrTCrSUICfpIV9B8N1OB/JNhPbbv9GeG/6NeBiPXqeuW6HiBFoALXcrLbdyFUuewFnC2e2SKINOd7ri+A+VBStgLKnVysRHHAOQw5MJmx6YpkKe8htJNswgKjiWgvfl13DVGJHe5dKj8TpDdPlE=;eXuBbY9kxCbY3oe26tjRVw=="
+secured: "6yyj1XEDYnu+Mm1/4tP882Nii3Lhm4YaFP2PNaWt59Dc0ag6KqWL/NYQ+3nFcyKS6X/+uLl/3kxI6GlOi/eEq4uqCjR9YE4e6p2xavYPnsBvw/pTtR47txevA2wu/DipWSiWGRhHzihAEe0IFpCsSZtXZz9BorYTTUr4RoxS3IIOdDLl8yX6ae1D0tncxmrFrcLNK+8J/WSmM1yNDt/FQVKEYxdtuPTbiKoRrN5I6dYYfxy8L0nNmxmNWCiYuHGxBVfr/ppOo/xwX3KJ/6LN0YNHl+PEQ596c4ErTpbzaPnN7EvxIU+AllnRPy3S0TMI;1cvzV+rfoEY2WPrlOewCjA=="
 ---
 

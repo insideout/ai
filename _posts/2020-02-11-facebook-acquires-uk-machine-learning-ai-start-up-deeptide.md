@@ -33,21 +33,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/02/halftone-maze.png?w=1024"
         width: 1024
         height: 544
-  - title: "Facebook has acquired Scape Technologies, the London-based computer vision startup"
-    excerpt: "Scape Technologies, the London-based computer vision startup working on location accuracy beyond the capabilities of GPS, has been acquired by Facebook, according to a regulatory filing. Full terms of the deal remain as yet unknown, although a Companies House update reveals that Facebook Inc. now has majority control of the company (more than 75%)."
-    publishedDateTime: 2020-02-10T10:38:00Z
-    webUrl: "https://techcrunch.com/2020/02/08/scapebook/"
-    ampWebUrl: "https://techcrunch.com/2020/02/08/scapebook/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/08/scapebook/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 83
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/02/localization.png?w=1024"
-        width: 1024
-        height: 767
   - title: "Facebook Acquires Computer Vision Startup Scape Technologies"
     excerpt: "Facebook quietly acquired London-based computer vision startup Scape Technologies, according to several regulatory filings with the U.K.’s Companies House. Scape said on its about page that it is building a cloud-based Vision Engine that allows camera devices to understand their environment, using computer vision. The company added ..."
     publishedDateTime: 2020-02-10T22:40:00Z

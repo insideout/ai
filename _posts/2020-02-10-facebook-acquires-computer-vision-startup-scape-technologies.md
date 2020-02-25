@@ -41,21 +41,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/02/halftone-maze.png?w=1024"
         width: 1024
         height: 544
-  - title: "Facebook has acquired Scape Technologies, the London-based computer vision startup"
-    excerpt: "Scape Technologies, the London-based computer vision startup working on location accuracy beyond the capabilities of GPS, has been acquired by Facebook, according to a regulatory filing. Full terms of the deal remain as yet unknown, although a Companies House update reveals that Facebook Inc. now has majority control of the company (more than 75%)."
-    publishedDateTime: 2020-02-10T10:38:00Z
-    webUrl: "https://techcrunch.com/2020/02/08/scapebook/"
-    ampWebUrl: "https://techcrunch.com/2020/02/08/scapebook/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/08/scapebook/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 83
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/02/localization.png?w=1024"
-        width: 1024
-        height: 767
   - title: "Facebook Acquires Third AI Startup In UK For $40M"
     excerpt: "Facebook acquires a new AI startup in Deeptide Ltd. The deal went almost unnoticed save for the blog post of Deeptide's founder back in December There was no disclosed acquisition cost but sources speculates it to be $40 million Facebook's \"acquire and conquer\" strategy has landed it another startup to boost its AI game."
     publishedDateTime: 2020-02-11T11:58:00Z
