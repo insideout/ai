@@ -40,17 +40,6 @@ related:
       - url: "https://cdn.technologyreview.com/i/images/david-everett-strickler-igcbfrmd11i-unsplash.jpg?sw=1200&cx=0&cy=0&cw=3000&ch=1688"
         width: 1200
         height: 675
-  - title: "White House earmarks new money for AI and quantum computing"
-    excerpt: "The funding, part of the Trump administration’s $4.8 trillion budget proposal, would direct more money for AI research to the Defense Department and the National Science Foundation. The administration also wants to spend $25 million on what it calls a national “quantum internet,” a network of machines designed to make it much harder to ..."
-    publishedDateTime: 2020-02-10T23:56:00Z
-    webUrl: "https://www.seattletimes.com/business/technology/white-house-earmarks-new-money-for-ai-and-quantum-computing/"
-    ampWebUrl: "https://www.seattletimes.com/business/technology/white-house-earmarks-new-money-for-ai-and-quantum-computing/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/white-house-earmarks-new-money-for-ai-and-quantum-computing/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 37
   - title: "Trump splashes out on $4.8 trillion artificial intelligence plan"
     excerpt: "For several years, technologists have urged the Trump administration to back research on artificial intelligence -- which could affect things as diverse as weapons and transportation -- and ..."
     publishedDateTime: 2020-02-11T22:54:00Z

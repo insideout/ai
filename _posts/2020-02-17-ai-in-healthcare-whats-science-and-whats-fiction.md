@@ -30,51 +30,93 @@ images:
     title: "AI in healthcare: What's science and what's fiction"
 
 related:
-  - title: "Three Ways AI And ML Are Making A Difference In Healthcare Behind The Scenes"
-    excerpt: "AI and ML are revolutionizing many healthcare processes that, although not medical in nature, directly affect provider efficiency and productivity — as well as the patient experience."
-    publishedDateTime: 2020-02-11T00:02:00Z
-    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2020/02/10/three-ways-ai-and-ml-are-making-a-difference-in-healthcare-behind-the-scenes/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2020/02/10/three-ways-ai-and-ml-are-making-a-difference-in-healthcare-behind-the-scenes/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2020/02/10/three-ways-ai-and-ml-are-making-a-difference-in-healthcare-behind-the-scenes/amp/"
+  - title: "AI Improves Healthcare? 91% Of Healthcare Executives Say It Does"
+    excerpt: "... Taiwanese civic participation and more general investigations into how fake news stories travel across Facebook’s platform [WSJ] Funding for AI startups globally rose to a record $27 billion in 2019, a significant increase over the amounts raised ..."
+    publishedDateTime: 2020-02-21T17:58:00Z
+    webUrl: "https://www.forbes.com/sites/gilpress/2020/02/21/ai-improves-healthcare-91-of-healthcare-executives-say-it-does/"
+    ampWebUrl: "https://www.forbes.com/sites/gilpress/2020/02/21/ai-improves-healthcare-91-of-healthcare-executives-say-it-does/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2020/02/21/ai-improves-healthcare-91-of-healthcare-executives-say-it-does/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 101
+    quality: 91
     images:
-      - url: "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1199231029/960x0.jpg?fit=scale"
-        width: 711
-        height: 474
-  - title: "Healthcare Algorithms Are Biased, and the Results Can Be Deadly"
-    excerpt: "And the Alliance for Artificial Intelligence in Healthcare, a nonprofit organization founded in December 2018, brings together developers, device manufacturers, researchers, and other professionals to advance the safe and fair use of AI in medicine. Some organizations have started baking inclusivity and fairness into the data-gathering process ..."
-    publishedDateTime: 2020-02-12T21:44:00Z
-    webUrl: "https://uk.pcmag.com/news-analysis/124621/healthcare-algorithms-are-biased-and-the-results-can-be-deadly"
-    ampWebUrl: "https://uk.pcmag.com/news-analysis/124621/healthcare-algorithms-are-biased-and-the-results-can-be-deadly?amp=1"
-    cdnAmpWebUrl: "https://uk-pcmag-com.cdn.ampproject.org/c/s/uk.pcmag.com/news-analysis/124621/healthcare-algorithms-are-biased-and-the-results-can-be-deadly?amp=1"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 89
-    images:
-      - url: "https://sm.pcmag.com/t/pcmag_uk/news/h/healthcare/healthcare-algorithms-are-biased-and-the-results-can-be-dead_3kzk.620.jpg"
-        width: 620
-        height: 348
-  - title: "How Artificial Intelligence and Deep Learning Are Transforming Healthcare"
-    excerpt: "It’s treatable while infants weigh less than two pounds, but doctors often struggle to detect the condition in time, says Santosh Rao, head of the artificial intelligence ... and DL-based diagnostics could provide a powerful augmentation, Rao says. “Our healthcare customers are starting to see the ability to spot cancer in earlier stages ..."
-    publishedDateTime: 2020-02-17T18:10:00Z
-    webUrl: "https://healthtechmagazine.net/article/2020/02/how-artificial-intelligence-and-deep-learning-are-transforming-healthcare"
-    ampWebUrl: "https://healthtechmagazine.net/article/2020/02/how-artificial-intelligence-and-deep-learning-are-transforming-healthcare?amp"
-    cdnAmpWebUrl: "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2020/02/how-artificial-intelligence-and-deep-learning-are-transforming-healthcare?amp"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e50147b7a0098000733e9a9%2F0x0.jpg"
+        width: 1200
+        height: 800
+  - title: "What to Expect from 5G in Healthcare"
+    excerpt: "Although still in its infancy, this powerful network has big potential for healthcare. Among the possibilities: transmitting large medical images, facilitating telehealth initiatives and supporting remote patient monitoring tools — as well as enabling more complex uses of artificial intelligence and augmented and virtual reality."
+    publishedDateTime: 2020-02-18T22:22:00Z
+    webUrl: "https://healthtechmagazine.net/article/2020/02/what-expect-5g-healthcare"
+    ampWebUrl: "https://healthtechmagazine.net/article/2020/02/what-expect-5g-healthcare?amp"
+    cdnAmpWebUrl: "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2020/02/what-expect-5g-healthcare?amp"
     type: article
     provider:
       name: HealthTech
       domain: healthtechmagazine.net
-    quality: 73
+    quality: 59
     images:
-      - url: "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202002/20200217_HT_Web_Partner-Content_NetApp.jpg?itok=U84MmvD3"
+      - url: "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202002/20200218_HT_Web_MonITor_5G-in-Healthcare.jpg?itok=vkBOUNjS"
         width: 1440
         height: 500
+  - title: "The Potential of AI in the Healthcare Supply Chain"
+    excerpt: "There’s no shortage of enthusiasm — or predictions — about the potential use of artificial intelligence (AI ... that 2020 is the year executives will focus on how to drive and measure the value of their investments in AI. Healthcare is no exception. A recent survey of healthcare executives conducted by Optum found that not only is ..."
+    publishedDateTime: 2020-02-24T15:53:00Z
+    webUrl: "https://www.supplychainbrain.com/blogs/1-think-tank/post/30899-realizing-the-potential-of-ai-in-the-healthcare-supply-chain"
+    type: article
+    provider:
+      name: Supply Chain
+      domain: supplychainbrain.com
+    quality: 54
+    images:
+      - url: "https://www.supplychainbrain.com/ext/resources/0-images/article-images/2020/0224_PotentialofAIinHealthcare.jpg?height=635&t=1582520107&width=1200"
+        width: 847
+        height: 635
+  - title: "VA Embraces Artificial Intelligence To Improve Veterans’ Health Care"
+    excerpt: "He said the VA has a \"unique opportunity to help veterans\" with artificial intelligence. As the largest integrated health care system in the country, the VA has vast amounts of patient data, which is helpful when training AI software to recognize patterns and trends. Alterovitz said the health system generates about a billion medical images a year."
+    publishedDateTime: 2020-02-19T10:26:00Z
+    webUrl: "https://www.cpr.org/2020/02/19/va-embraces-artificial-intelligence-to-improve-veterans-health-care/"
+    type: article
+    provider:
+      name: Colorado Public Radio
+      domain: cpr.org
+    quality: 39
+    images:
+      - url: "https://i2.wp.com/wp-cpr.s3.amazonaws.com/uploads/2020/02/tampa_docs_1-scaled.jpg?resize=1200,600"
+        width: 1200
+        height: 600
+  - title: "GE Healthcare launches cyberdefense product"
+    excerpt: "As connected devices proliferate, GE Healthcare is banking that hospitals, health systems and other providers will seek the company’s help in shoring up their defenses against cyber threats. The company on Thursday unveiled a cybersecurity product that scans for cyber risks and recommends responses using a mix of artificial intelligence and ..."
+    publishedDateTime: 2020-02-20T18:37:00Z
+    webUrl: "https://medcitynews.com/2020/02/ge-healthcare-launches-cyberdefense-product/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 39
+    images:
+      - url: "https://medcitynews.com/uploads/2017/08/GettyImages-578833436.jpg"
+        width: 724
+        height: 483
+  - title: "53% of Execs Say Healthcare Leads Artificial Intelligence Adoption"
+    excerpt: "February 18, 2020 - Fifty-three percent of healthcare executives say that the healthcare industry is ahead of most other industries in artificial intelligence adoption, according to a survey from KPMG. However, 37 percent of respondents believe that the pace at which they’re implementing artificial intelligence is too slow, mainly because of ..."
+    publishedDateTime: 2020-02-18T14:51:00Z
+    webUrl: "https://healthitanalytics.com/news/53-of-execs-say-healthcare-leads-artificial-intelligence-adoption"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 34
+  - title: "Artificial intelligence and healthcare professional education: superhuman resources for health?"
+    excerpt: "So it is no surprise that artificial intelligence has also been suggested as a solution to problems in healthcare and healthcare professional education.3 It has even been suggested as a means by which healthcare professional education might be unnecessary. After all, if you have intelligent machines that can do the job of human beings ..."
+    publishedDateTime: 2020-02-22T13:09:00Z
+    webUrl: "https://pmj.bmj.com/content/96/1133/121"
+    type: article
+    provider:
+      name: BMJ
+      domain: bmj.com
+    quality: 22
 
 secured: "CrVVjaJx9ykmxc6+XO9fQ8LuVCar2h9hlI4XbsotUE66ODoVQkoflggxydQQh5ocwtqVKqSjTwERSzWc5i0PSFDdjAixjKlaFmYTqu9eGTqQou5lnj3VNatJvVLMseGDmBHc4ouN9NEC7DSRvjYQRzoZqp7EJCdQ3LDP5utJO+il1yR482hKnMJ88IcyDgNjAMBjJXTHmq4JA8lp8mTPQE4Lat3RNyVkW2shG0kDOmTRfBdstftMzPMPBGTbDa6ZCib9HsD6UnR9UK0x2obpUmmO+q4a2Nicl6IBEWOlifznpsUBaZqZd7nuRgZIP9cN;WeeIe5Qa+RB9KzyzGJUu/w=="
 ---

@@ -3,7 +3,7 @@ category: news
 title: "Conversational AI Market is Gaining an Upward Trend Due to Rising Adoption of Virtual Assistants"
 excerpt: "Market Highlights Conversations artificial intelligence is a nascent technology and has already gained traction of"
 publishedDateTime: 2020-02-25T09:42:00Z
-webUrl: "https://www.marketwatch.com/press-release/conversational-ai-market-is-gaining-an-upward-trend-due-to-rising-adoption-of-virtual-assistants-2020-02-25?mod=mw_quote_news"
+webUrl: "https://www.marketwatch.com/press-release/conversational-ai-market-is-gaining-an-upward-trend-due-to-rising-adoption-of-virtual-assistants-2020-02-25"
 type: article
 quality: 56
 heat: 66
@@ -40,6 +40,6 @@ related:
       domain: benzinga.com
     quality: 24
 
-secured: "4hPxVsNU2A7Uekg59pBm4aH5IlQVW+tJIOP+S4E1ebDABPzOlLA9Q6OnDmGPZBB9DKeSu/zzFo30hHHAQWejx8MmfJwfRhE7VsaL86XSS56grQVsK667JEIZHa3clZT2oRhwMIhGjBgNFY8qW3KHmB4RTPrTn8OgaBLiWLc87v/WO2QsVVi7gIptGjBemSJV/Gx1T78LpqEW+QfvJ1yP8V37NkIQw9taRuu4R3fprdMHnEVyyYqmOlu4zYsyQ5xGdqWXAQdlvyq41rH3B/IDg1j7cqH/PKQtj6QI8Np/lWzQLxGOf7cOW4SwWHfKd5mi;0gkTSB4mdqrk8ktWkUkY9A=="
+secured: "4ssxNQZrWzx/+XnKEo5GQ4Hk8OjchPFtGw1xgT1RYPaWFhelSjnHJ5+5BAFNhj49ALcP5cX20rvYCS4cS3fDarWnkTYb03y+i8Btt2YExZf85PxKGRCiwoeGxpG3/Gj1ZGxIvSnoHBCtQOP2OuZkAQVs9NT4GRflWjIhTCN0qr0dBffx8EIuLqdUfMYVRE0Qc18XgFiuGTEpasAT+PBiQYZJyTrscT8CW7VLfluSJ2MiU3vXT6Bd3ObOL5GBIAi+scr72Or0JNdIfMoxpxaLi5ygKfd8xUDUuZKAjsdaYJIzpSlfIcxy6mZtSBXCgqth;C9NSwXOoWYIInPXq7RoVWg=="
 ---
 

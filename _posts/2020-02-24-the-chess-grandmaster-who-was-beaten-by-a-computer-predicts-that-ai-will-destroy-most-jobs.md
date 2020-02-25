@@ -29,6 +29,21 @@ images:
     title: "The chess grandmaster who was beaten by a computer predicts that AI will 'destroy' most jobs"
 
 related:
+  - title: "Chess grandmaster Gary Kasparov predicts AI will disrupt 96% of all jobs"
+    excerpt: "After Kasparov‘s loss, the experts didn’t miss a beat. They said Chess was too easy and postulated that machines would never beat us at Go. Champion Lee Sedol’s loss against DeepMind’s AlphaGo proved them wrong there. Apparently the only thing more powerful than human hubris is our ability to iterate new technologies. At least ..."
+    publishedDateTime: 2020-02-25T15:08:00Z
+    webUrl: "https://thenextweb.com/neural/2020/02/24/chess-grandmaster-gary-kasparov-predicts-ai-will-disrupt-96-percent-of-all-jobs/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/02/24/chess-grandmaster-gary-kasparov-predicts-ai-will-disrupt-96-percent-of-all-jobs/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/24/chess-grandmaster-gary-kasparov-predicts-ai-will-disrupt-96-percent-of-all-jobs/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 88
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/chesspieces-796x405.jpg"
+        width: 796
+        height: 405
   - title: "Chess grandmaster Gary Kasparov predicts AI will disrupt 96 percent of all jobs"
     excerpt: "After Kasparov‘s loss, the experts didn’t miss a beat. They said Chess was too easy and postulated that machines would never beat us at Go. Champion Lee Sedol’s loss against DeepMind’s AlphaGo proved them wrong there. Apparently the only thing more powerful than human hubris is our ability to iterate new technologies. At least ..."
     publishedDateTime: 2020-02-24T22:42:00Z

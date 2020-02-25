@@ -8,7 +8,7 @@ ampWebUrl: "https://www.bbc.com/news/amp/technology-51628833"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51628833"
 type: article
 quality: 89
-heat: 169
+heat: 179
 published: true
 
 provider:
@@ -88,6 +88,19 @@ related:
       - url: "https://static.standard.co.uk/s3fs-public/thumbnails/image/2018/03/21/09/poetry-london-underground.jpg"
         width: 1500
         height: 1000
+  - title: "Facial Recognition Less Scary than 'a Knife in the Chest,' says Met Police Chief"
+    excerpt: "Metropolitan Police Commissioner Cressida Dick has had it, officially, with people criticising the police's facial recognition tech. The Met has been aiming its Live Facial Recognition (LFR) camera at the public in central London recently, including in Oxford Circus with just two hours' notice. Unsurprisingly, lots of people were unhappy about ..."
+    publishedDateTime: 2020-02-25T17:07:00Z
+    webUrl: "https://www.gizmodo.co.uk/2020/02/facial-recognition-less-scary-than-a-knife-in-the-chest-says-met-police-chief/"
+    type: article
+    provider:
+      name: Gizmodo UK
+      domain: gizmodo.co.uk
+    quality: 34
+    images:
+      - url: "https://media.gizmodo.co.uk/wp-content/uploads/2020/02/bbw2.jpg"
+        width: 2551
+        height: 1435
   - title: "Let police use facial recognition to fight knife crime, urges Met chief Cressida Dick"
     excerpt: "Britain’s most senior police officer has criticised people who complain about their privacy being invaded by facial recognition cameras yet bare all on social media. Dame Cressida Dick, commissioner of the Metropolitan Police, said that privacy concerns over the cameras were outweighed by the need to protect the public from “a knife through ..."
     publishedDateTime: 2020-02-24T21:34:00Z
@@ -135,6 +148,6 @@ related:
       domain: therecord.com
     quality: 10
 
-secured: "XeSqSgLyl7KEj/DUFueSNngSs7+iJBE3PFEYceKTOlYDgsycGYJnvitA6zDmWVLGHMK3Sk2qvofD+GaWzz/CCaoB6Xjl8i1s/wRfZ164bpKRcYH+FpWIN9fz6TEXylrFPsVylW2B7G+G4DaFgcGQIuJIatTbpHTYoICMgmW+o1r+y28xVvFV/HTrmXXJzMdtKJYt4BaF4e4mIkXXqFKGW98NvX5Z7eAXqBHRv22a/ueoAqxXb2kSROrytGerbfT4c6SSh23hff6VHJ3Trm9aPq+GkaWDHwRXip7h7rXZdg1KG0CGywyweQq1no0QSVeO;ROKuoIWKagICt/U6hK03pg=="
+secured: "k7bp9Jw/CZnuyRiwHqkEoz9M46rTQCX9y+U0fJT2sxnBts0w9QhKZ3z4vTIcoihcqRe9PHVRsZhNyo62GLDTdmnt5DmYVKMtodEPerw/PkwRFqTkGsWWaj9u00QWKPSOW5LwZdFQZUrlt2bV385lbm9/dEAyJ8qtckQApcQneLviz98Gtt4uoa0W63HO7VEzmch75DOFQVdNnktaZqoIEu6HINN8unxzZJIpGxE6M8SeTkraLUwgSmuJspZJKBuN/92vFKa6SXDKv874W1+nZ3ulXcU1w5OTny1aWdYv0jnj824otp9oKie2OPC3mltxtDLlNsopPFcZSCXo9BHAa0XtE7sFBK7nEz/7AoKB5LcGw1dxFZg8gxTM7yTfVFMh1cI5JSOc1ttmMiIz+947Pyw5XEetWzpNDpE+XeYct2+iIchOnMoCv+qdR8x50rAa7rLf1/niRvI7lpnZb3lhPPQsdvnboFTI365I3x7fGUg=;VuiOnMHzl5TVmSQ4LRNIjA=="
 ---
 

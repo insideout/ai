@@ -271,6 +271,21 @@ related:
       - url: "https://images.wsj.net/im-156180/social"
         width: 1280
         height: 640
+  - title: "Is the EU better equipped than the US to supervise the use of facial recognition?"
+    excerpt: "This slightly dystopian facial recognition app allows users to upload a photo and compare it with the app’s large database, which results in finding all the images in which the same person appears, and a list of websites on which the matching images were found. An investigation led by the New York Times revealed that Clearview AI was sold to ..."
+    publishedDateTime: 2020-02-25T17:36:00Z
+    webUrl: "https://www.computerweekly.com/opinion/Is-the-EU-better-equipped-than-the-US-to-supervise-the-use-of-facial-recognition"
+    ampWebUrl: "https://www.computerweekly.com/opinion/Is-the-EU-better-equipped-than-the-US-to-supervise-the-use-of-facial-recognition?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/opinion/Is-the-EU-better-equipped-than-the-US-to-supervise-the-use-of-facial-recognition?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 54
+    images:
+      - url: "https://cdn.ttgtmedia.com/visuals/German/article/facial-recognition-ID-2-adobe.jpg"
+        width: 1200
+        height: 400
   - title: "UCLA Abandons Plans to Use Facial Recognition After Backlash"
     excerpt: "In an attempt to highlight the risks of using facial recognition on UCLA's campus, Fight for the Future used Amazon's facial recognition software, Rekognition, to scan public photos of UCLA's athletes and faculty, then compare the photos to a mugshot database. Over 400 photos were scanned, 58 of which were false positives for mugshot images ..."
     publishedDateTime: 2020-02-20T02:08:00Z

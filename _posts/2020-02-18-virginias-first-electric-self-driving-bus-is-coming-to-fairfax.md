@@ -26,36 +26,21 @@ images:
     title: "Virginia's first electric, self-driving bus is coming to Fairfax"
 
 related:
-  - title: "Hypodermic Needles Left In Self-Driving Cars Is An Ominous Harbinger Of What’s To Come"
-    excerpt: "Reckless passengers are leaving hypodermic needles in self-driving cars, it's a problem that's going to get worse."
-    publishedDateTime: 2020-02-14T14:04:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/02/12/hypodermic-needles-leftover-in-ai-self-driving-cars-by-despicable-passengers-is-an-ominous-harbinger-of-whats-yet-to-come/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/02/12/hypodermic-needles-leftover-in-ai-self-driving-cars-by-despicable-passengers-is-an-ominous-harbinger-of-whats-yet-to-come/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/02/12/hypodermic-needles-leftover-in-ai-self-driving-cars-by-despicable-passengers-is-an-ominous-harbinger-of-whats-yet-to-come/amp/"
+  - title: "Argo AI’s CEO explains why its fleet of self-driving taxis won’t be all-electric (at first)"
+    excerpt: "One of the burning questions facing self-driving carmakers is whether it makes sense to go all-electric. Some companies, like GM-owned Cruise, are all in on battery-electric vehicles, seeing both self-driving and all-electric as the future. Others are keeping one foot in the present, like how Waymo is building a fleet that includes both all ..."
+    publishedDateTime: 2020-02-25T16:55:00Z
+    webUrl: "https://www.theverge.com/2020/2/25/21147747/argo-ai-ceo-bryan-salesky-self-dring-cars-ev-vergecast-interview"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/2/25/21147747/argo-ai-ceo-bryan-salesky-self-dring-cars-ev-vergecast-interview"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/25/21147747/argo-ai-ceo-bryan-salesky-self-dring-cars-ev-vergecast-interview"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 66
+      name: The Verge
+      domain: theverge.com
+    quality: 79
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F664664484%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D7000%26cropY1%3D166%26cropY2%3D4831"
-        width: 1200
-        height: 800
-  - title: "Hypodermic Needles Leftover In AI Self-Driving Cars By Despicable Passengers Is An Ominous Harbinger Of What’s Yet To Come"
-    excerpt: "Reckless passengers are leaving hypodermic needles in self-driving cars, it's a problem that's going to get worse."
-    publishedDateTime: 2020-02-12T16:08:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/02/12/hypodermic-needles-leftover-in-ai-self-driving-cars-by-despicable-passengers-is-an-ominous-harbinger-of-whats-yet-to-come/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/02/12/hypodermic-needles-leftover-in-ai-self-driving-cars-by-despicable-passengers-is-an-ominous-harbinger-of-whats-yet-to-come/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/02/12/hypodermic-needles-leftover-in-ai-self-driving-cars-by-despicable-passengers-is-an-ominous-harbinger-of-whats-yet-to-come/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 63
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F664664484%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D7000%26cropY1%3D166%26cropY2%3D4831"
-        width: 1200
-        height: 800
+      - url: "https://cdn.vox-cdn.com/thumbor/tO1S8XmDnOkpDrYgzJ6CoQj1k8U=/0x0:4000x2523/1400x933/filters:focal(1680x942:2320x1582):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66371456/1155294584.jpg.0.jpg"
+        width: 1400
+        height: 933
 
 secured: "/7DLsFx31sJt8oGYQZIv84P2WDBcHZEARNhWeW+bISnhZ6v+QXZ/teEIuf8RDDhwXb4C7vvLh9ezc5uJbYy83RC5pywg+5nUnzdO3Rpd3ERNf0mideX3GFgCMqcROBMJ3gWiI3UlIqza942BPWbWw/SB8UsfdmpwjzMoaakQFIiC9cNLlzo3sWYP1I6VT1eD9graLKdInG3TaoI24eu3oXJ4CIGXbs+zmLVgvcVt7yp9w4KqrRCuizhw4uxEs17klc85JlCTfCscy9lDc/NzyyBuRcBXgSh1jtuT4bHCUbWfM1JbgOEpwdgw8+Zu7QFfr4oWIr0r3LE91qqb4BdfYbEAq3kXiTq5WFhw/GHEFTu9E7y9TPm6tC7ZpAnG1QjlE36YOE965ymYSkkdfnNeaG3YXV/uUMuaTpf/Vxo50+NgOEuIU6Xn4JOCD4dlhdERWl+dA13SJ6tN8562EAqvNVmGFy0mTAgmnJPyhJuNpKA=;kmsDIMXxAlTIMMlx2oZ86g=="
 ---

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/obviously-ai-introduces-nat
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/obviously-ai-introduces-natural-language-predictive-analytics-service/"
 type: article
 quality: 91
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -31,6 +31,21 @@ images:
     title: "Obviously AI introduces natural language predictive analytics service"
 
 related:
+  - title: "Obviously AI launches natural language ML platform"
+    excerpt: "The company says that to make predictions, it uses natural language processing to break apart a question, interpret it and find the right data. It then runs hundreds of machine learning algorithms in parallel and evaluates each one for accuracy to find the right algorithm for the dataset. It identifies top attributes that impact the outcome ..."
+    publishedDateTime: 2020-02-25T16:14:00Z
+    webUrl: "https://www.research-live.com/article/news/obviously_ai_launches_natural_language_ml_platform/id/5065662"
+    ampWebUrl: "https://www.research-live.com/amp-page.html?id=5065662&name=obviously-ai-launches-natural-language-ml-platform"
+    cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5065662&name=obviously-ai-launches-natural-language-ml-platform"
+    type: article
+    provider:
+      name: research
+      domain: research-live.com
+    quality: 59
+    images:
+      - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
+        width: 1000
+        height: 581
   - title: "Obviously AI Rolls Out Natural Language Platform for Predicting Customer Outcomes"
     excerpt: "To make predictions, Obviously AI uses natural language processing to break apart a question, interpret it, and find the right data. Then it runs hundreds of machine learning algorithms in parallel and evaluates each one for accuracy to find the right ..."
     publishedDateTime: 2020-02-19T15:49:00Z

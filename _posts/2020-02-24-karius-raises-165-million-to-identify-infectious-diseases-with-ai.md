@@ -6,8 +6,8 @@ publishedDateTime: 2020-02-24T13:56:00Z
 webUrl: "https://venturebeat.com/2020/02/24/karius-raises-165-million-to-identify-infectious-diseases-with-ai/"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -27,19 +27,51 @@ images:
     title: "Karius raises $165 million to identify infectious diseases with AI"
 
 related:
-  - title: "AI-powered blood testing startup Karius raises $165M"
-    excerpt: "Karius, a startup developing liquid biopsy tests for infectious diseases, tested in ongoing clinical trials with St. Jude Children's Research Hospital, Duke Clinical Research Institute and more, closed a $165 million Series B funding on Feb. 24. The new ..."
-    publishedDateTime: 2020-02-24T22:26:00Z
-    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/ai-powered-blood-testing-startup-karius-raises-165m.html"
+  - title: "Ripcord raises $45 million to digitize paper records with robotics and AI"
+    excerpt: "In search of a solution five years ago, three entrepreneurs — NASA veteran Kim Lembo, former Apple senior engineering scientist Alex Fielding, and Kevin Hall — cofounded Ripcord, a startup developing a portfolio of robots that can digitize paper records. Fresh off a series B funding round, the Hayward, California-based company today ..."
+    publishedDateTime: 2020-02-25T16:37:00Z
+    webUrl: "https://venturebeat.com/2020/02/25/ripcord-raises-45-million-to-digitize-paper-records-with-robotics-and-ai/"
+    ampWebUrl: "https://venturebeat.com/2020/02/25/ripcord-raises-45-million-to-digitize-paper-records-with-robotics-and-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/25/ripcord-raises-45-million-to-digitize-paper-records-with-robotics-and-ai/amp/"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 37
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 118
     images:
-      - url: "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/2.jpg"
-        width: 400
-        height: 300
+      - url: "https://venturebeat.com/wp-content/uploads/2017/03/ripcord-free-your-records-e1582319474923.jpg?fit=1199%2C599&strip=all"
+        width: 1199
+        height: 599
+  - title: "L1ght raises $15 million for AI that protects children from online toxicity"
+    excerpt: "L1ght, a fledgling AI startup that wants to help technology companies combat online toxicity, bullying, and abuse, has raised $15 million in a seed round of funding from Mangrove Capital Partners, Tribeca Venture Partners, and Western Technology Investment. The company’s substantial seed funding comes as tech companies are struggling to ..."
+    publishedDateTime: 2020-02-25T12:02:00Z
+    webUrl: "https://venturebeat.com/2020/02/25/l1ght-raises-15-million-for-ai-that-protects-children-from-online-toxicity/"
+    ampWebUrl: "https://venturebeat.com/2020/02/25/l1ght-raises-15-million-for-ai-that-protects-children-from-online-toxicity/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/25/l1ght-raises-15-million-for-ai-that-protects-children-from-online-toxicity/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/02/GettyImages-940967998.jpg?fit=1590%2C893&strip=all"
+        width: 1590
+        height: 893
+  - title: "Revl raises $5.2 million to stitch together videos with AI"
+    excerpt: "Plus, users can remotely control the camera from up to 155 feet away using the app. Above: The Revl app. Revl isn’t the only startup applying AI and machine learning to video creation. Tel Aviv- and New York-based startup Wibbitz automatically converts news articles into short-form video, while Wochit analyzes text for keywords to piece ..."
+    publishedDateTime: 2020-02-25T16:31:00Z
+    webUrl: "https://venturebeat.com/2020/02/25/revl-raises-5-2-million-to-stitch-together-videos-with-ai/"
+    ampWebUrl: "https://venturebeat.com/2020/02/25/revl-raises-5-2-million-to-stitch-together-videos-with-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/25/revl-raises-5-2-million-to-stitch-together-videos-with-ai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/02/maxresdefault-4-e1582140205297.jpg?fit=800%2C400&strip=all"
+        width: 800
+        height: 400
 
 secured: "KOrXYACvb7cUw7/SSklEqcIBLrQx/EdIeVb8GZ5ytkvm+TlMnZghFADq800kciK+HJAoquplxGn38ZeJSM8QbiNjkkqEtUr01xl75p275YOSri4j6Ql8chkE3i2Sn5Sq8XY9IwuUJ68D9qgAP+UE5McETxx40ll0aY8hC1QxqK12BI0DPteXoYeIDAiB9qaskc/Bnoew1e1bO6NNN0ykALRJUVG/pYNOk9pmsOIfAP/SkUep7uO9rR2/Wi3wHccV3EG3sSklrGjX3PwG7yW209hOnjmav2q9kmZh00Ed4p19+w5X17PxDq1vKdlneStzBzJ3I+Kbr38K54sYsaiEPsfB+3k5GVrLjGjizGW4KO09NTx2iCwCe2AT2yKia7VVxneqpVEF9Ez52vSVykeDKfBN75t5zCsP9cg3VLl/fP9gvQLbh/IoPW1BuvUEHNe3xh03IgTdd8KoNxPkImxvZE0d1alIExrUUWmlK6RANpI=;EDeAW+7UJ3kfVYxj/NKnSw=="
 ---

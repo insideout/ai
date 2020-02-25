@@ -23,7 +23,7 @@ related:
   - title: "Conversational AI Market is Gaining an Upward Trend Due to Rising Adoption of Virtual Assistants"
     excerpt: "Market Highlights Conversations artificial intelligence is a nascent technology and has already gained traction of"
     publishedDateTime: 2020-02-25T09:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/conversational-ai-market-is-gaining-an-upward-trend-due-to-rising-adoption-of-virtual-assistants-2020-02-25?mod=mw_quote_news"
+    webUrl: "https://www.marketwatch.com/press-release/conversational-ai-market-is-gaining-an-upward-trend-due-to-rising-adoption-of-virtual-assistants-2020-02-25"
     type: article
     provider:
       name: MarketWatch

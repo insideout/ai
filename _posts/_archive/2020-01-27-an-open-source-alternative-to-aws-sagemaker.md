@@ -5,8 +5,8 @@ excerpt: "But when it comes to putting those algorithms into production for infe
 publishedDateTime: 2020-01-27T20:44:00Z
 webUrl: "https://www.datanami.com/2020/01/27/an-open-source-alternative-to-aws-sagemaker/"
 type: article
-quality: 56
-heat: 56
+quality: 54
+heat: 54
 published: false
 
 provider:
@@ -16,7 +16,6 @@ provider:
 topics:
   - AI
   - AWS AI
-  - Google AI
 
 images:
   - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/chip_shutterstock_Robert-Lucian-Crusitu.jpg"
@@ -24,6 +23,6 @@ images:
     height: 771
     title: "An Open Source Alternative to AWS SageMaker"
 
-secured: "6owl4CK+0k74MaPCZcLUSIgvwPoVcK+rqqIlXOMg6i8L/XjRbEFlhljes3NSqByF+nItHzIEr6008wkGidoXD+KK3IQDyS8omXEtbAVwbThtWbQ1rDwRAITuq9zeZeyUyCuhBowB6EGtijcFb2O0Bg68owS6zF+KS/3DWrek9Dr/oVQzV5+agBrWcl2nMFFaHdfAZeBcj1M4cnDHsq4LZeasacpEV2S1CqKPpq2rY4a7+fzRy+WM9FpUW3iIOE4EA0duyP93RDB0FRHIJ49WDEDFzgApkj4BHn4lDGHmpgcBK/BqLoZj2i/RBXRNhqZO;gae5bdzpbjr+46HV9sxCXQ=="
+secured: "DZfQP2W6ZRD2GjQ5hWn85VpxdD8OOJdAd5eUYeMAFScBuw61aM9cCzRITW4kY0ZzzOG6pqdI3LVG3bnG5tdBWLq3x4QYqxKH6M/GDlJ3j0Z7xy8pjdVPONzuzLVxL5C/bcxxT0tgnafJfX2OpWUsaZr65D04lL8cDn+G8hrL0Gbm46+8AIBt99nOsWzGovkxyJwUSEoW4YyxlGowjkETaVBUP/+XJ6GWob6n2pODZSJs3ySGX7sdRH0HvqwTQevhiPY3rCbecNnOxa0YAtkr7+d0LzxVFW1laHGdxp5te4OGUv+XtYgJEbniXQ6I72nn;mp2N98GtdmBUDqmIORVVUA=="
 ---
 

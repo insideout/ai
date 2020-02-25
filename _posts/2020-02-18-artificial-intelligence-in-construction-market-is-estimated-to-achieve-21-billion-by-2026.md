@@ -85,7 +85,7 @@ related:
   - title: "Artificial Intelligence in Retail Market Is Set To Revolutionary Growth at a CAGR of 35.9% to Reach $15.3 billion by 2025 | Meticulous Research"
     excerpt: "Meticulous Research – leading global market research company published a research report"
     publishedDateTime: 2020-02-25T10:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-is-set-to-revolutionary-growth-at-a-cagr-of-359-to-reach-153-billion-by-2025-meticulous-research-2020-02-25?mod=mw_quote_news"
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-is-set-to-revolutionary-growth-at-a-cagr-of-359-to-reach-153-billion-by-2025-meticulous-research-2020-02-25"
     type: article
     provider:
       name: MarketWatch

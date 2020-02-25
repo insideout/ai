@@ -99,6 +99,19 @@ related:
       - url: "https://static.standard.co.uk/s3fs-public/thumbnails/image/2018/03/21/09/poetry-london-underground.jpg"
         width: 1500
         height: 1000
+  - title: "Facial Recognition Less Scary than 'a Knife in the Chest,' says Met Police Chief"
+    excerpt: "Metropolitan Police Commissioner Cressida Dick has had it, officially, with people criticising the police's facial recognition tech. The Met has been aiming its Live Facial Recognition (LFR) camera at the public in central London recently, including in Oxford Circus with just two hours' notice. Unsurprisingly, lots of people were unhappy about ..."
+    publishedDateTime: 2020-02-25T17:07:00Z
+    webUrl: "https://www.gizmodo.co.uk/2020/02/facial-recognition-less-scary-than-a-knife-in-the-chest-says-met-police-chief/"
+    type: article
+    provider:
+      name: Gizmodo UK
+      domain: gizmodo.co.uk
+    quality: 34
+    images:
+      - url: "https://media.gizmodo.co.uk/wp-content/uploads/2020/02/bbw2.jpg"
+        width: 2551
+        height: 1435
   - title: "Let police use facial recognition to fight knife crime, urges Met chief Cressida Dick"
     excerpt: "Britain’s most senior police officer has criticised people who complain about their privacy being invaded by facial recognition cameras yet bare all on social media. Dame Cressida Dick, commissioner of the Metropolitan Police, said that privacy concerns over the cameras were outweighed by the need to protect the public from “a knife through ..."
     publishedDateTime: 2020-02-24T21:34:00Z

@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Free AI developer app: IBM's new tool can label objects in videos for you"
-excerpt: "IBM has released a new free tool designed to help developers cut the chore of labeling images in video when training AI object-detection models. The new auto-labeling tool is part of IBM's push to ..."
+excerpt: "IBM estimates it takes 200 to 500 samples of hand-labeled images for an AI object-recognition model to detect a specific object. SEE: How to implement AI and machine learning (ZDNet special report ..."
 publishedDateTime: 2020-01-30T15:36:00Z
 webUrl: "https://www.zdnet.com/article/free-ai-developer-app-ibms-new-tool-can-label-objects-in-videos-for-you/"
 ampWebUrl: "https://www.zdnet.com/google-amp/article/free-ai-developer-app-ibms-new-tool-can-label-objects-in-videos-for-you/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/free-ai-developer-app-ibms-new-tool-can-label-objects-in-videos-for-you/"
 type: article
-quality: 88
-heat: 88
+quality: 90
+heat: 90
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - Computer Vision
   - Google AI
 
 images:
@@ -29,6 +30,6 @@ images:
     height: 675
     title: "Free AI developer app: IBM's new tool can label objects in videos for you"
 
-secured: "0P0MItjLMiWRj3dKtpleqZcRY/1S1S0GWcyjbUdEK6X/9G8ra2kxMpT/BomXe7G+C2UDep8ulEHDzUVKA7mCf0yvP+djtelA8aFRiw/5XgakBPiH78tILMag0bqBtViTG9N0G2KvNQTeGRdi01W++08ng1DZC4GwzC194klAjgLf+4HDCRLUGQeLH4Tr4VQJyeyTpzTsXjybLJr0TxwhVPaQwtqWZNPrZ0sT3wVGy+l26+y5IJzsRJfjIVmhSsrQl9PvBBeRY9klGfyX7R7MJLwirEGx1CxFC+Z8cUSUHEwyJLvugLc4fbb29F+uGmLO;yPas/7duGUcXtzsaEXM07g=="
+secured: "k4BKYzvKeCxrSHnLs51o1KqAqFIozGwIYwy1irY/XOfaOY8qmBIPrrMutyFm/vgOu2FDB/N87lpQMSUjQb7xCian4AvenRu0112keduLLmpsWqyTsxT9kLmhdnfBWSBr/y90jlU7FQjpkyA6zK0h66n0/OBl74T9hINnI5d9QJ2sA/PlmpWqftr073QwGmUdnmEmY0IzsgJyMgqfEzhIBLF0c/g/FQ1wtU8lVADCF+a/kPxipRt/kNVSvB04oTGto6sxCcsetB3ieSFcYBZTJY+KHuRo6SSFazTfCpvv04WdtKwXubWIVqRb4LQ3ZJRe;m3HcFgnWJ9+hoRmlfc+yTw=="
 ---
 

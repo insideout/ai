@@ -8,8 +8,8 @@ ampWebUrl: "https://yourstory.com/2020/02/ai-shaping-new-life-sciences-pharmaceu
 cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/02/ai-shaping-new-life-sciences-pharmaceutical-industry/amp"
 type: article
 quality: 55
-heat: 65
-published: false
+heat: 75
+published: true
 
 provider:
   name: Your Story
@@ -25,6 +25,19 @@ images:
     title: "How AI is shaping the new life in life sciences and pharmaceutical industry"
 
 related:
+  - title: "Spherix Attends Artificial Intelligence and Machine Learning Pharmaceutical Development Conference"
+    excerpt: "The AI-ML in Drug Development Summit is the only conference to bring together industry leaders, technology experts and academics focused on augmenting the R&D processes through the use of Artificial Intelligence and Machine Learning. The event, scheduled for February 24-26, 2020 at the DoubleTree by Hilton Hotel San Diego - Mission Valley ..."
+    publishedDateTime: 2020-02-25T17:14:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/spherix-attends-artificial-intelligence-and-machine-learning-pharmaceutical-development-conference-301010702.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 40
+    images:
+      - url: "https://mma.prnewswire.com/media/159881/spherix_incorporated_logo.jpg?p=facebook"
+        width: 1397
+        height: 733
   - title: "How artificial intelligence may aid the poultry industry"
     excerpt: "Robots offer not only higher productivity and profits, but their presence can also contribute to improved health and welfare. robot-avcola-Octopus-granja-2 The most visible signs of employment of artificial intelligence on farm is in the form of robots that not only improve efficiency but benefit bird welfare. Octopus Robots Some robots ..."
     publishedDateTime: 2020-02-17T18:22:00Z

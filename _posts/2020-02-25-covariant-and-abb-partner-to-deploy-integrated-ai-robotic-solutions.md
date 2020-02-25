@@ -3,27 +3,26 @@ category: news
 title: "Covariant and ABB Partner to Deploy Integrated AI Robotic Solutions"
 excerpt: "ZURICH, Feb. 25, 2020 /PRNewswire/ -- ABB, the world-leading supplier of industrial robots, and Silicon Valley AI start-up, Covariant, today announced a partnership to bring AI-enabled robotics solutions to market,"
 publishedDateTime: 2020-02-25T06:00:00Z
-webUrl: "https://www.marketwatch.com/press-release/covariant-and-abb-partner-to-deploy-integrated-ai-robotic-solutions-2020-02-25"
+webUrl: "https://www.benzinga.com/pressreleases/20/02/n15400982/covariant-and-abb-partner-to-deploy-integrated-ai-robotic-solutions"
+ampWebUrl: "https://amp.benzinga.com/amp/content/15400982"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15400982"
 type: article
-quality: 67
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://mma.prnewswire.com/media/1094804/Covariant_Brain_ABB_robot.jpg"
+    width: 400
+    height: 287
     title: "Covariant and ABB Partner to Deploy Integrated AI Robotic Solutions"
 
 related:
@@ -43,6 +42,6 @@ related:
         width: 711
         height: 474
 
-secured: "K4QAyaeK7/i5deNv34F4N/T2GOTEW4jlRdzYavx7ur2Rmhgm+A8fNEWhs1RiVRtXQT/1CgQlK13RJks0aT8IB54m4bDJL657wc6GMdIT32mirQ4UvdnSpM7CbJ4uxDoMsADwCvp+utQKExicX29DCiXzOEGhYSEvcdtlHnlBIpcOjiezBLddcxEC0KbkZWLhTDlb0vG9+RzvewCma4Niw0h8kzSYgM51FHxeEDWE/27+1cgkX+SkJWAOsK/z1yZlmCJ3ZOQK3Ef6Rqg7/hGf2TQeTmHEnLFeF2FmU1FDVIGHgrTGr8y8+lyhgsEnNjZX;hDixEvubKdyyltBmAay5xQ=="
+secured: "dAAdK8oTiQRcbMQAjDBEa/f2XGMKNr9KuVy/TM6pirP/Aat19DvzHXAE7bwyeWTScpzy4gsnimQPt0ncVHqCpbo4SsodVC5hQXe8HEgQJQ0gBDh59q8Ala+MZP9+RrhMzS7LK83MmrOzC/tLBNHDHesy03mRciAeBKvxxqKghipZKBAmkWBgcxBhUKGGSFJP8wqfR/bIBrkrL3pIMrAhPKEJS93m2ztWH0VnHRzFsHQWJn4liIVANbUJKH8OsUyDOuylw/0KfAWqLz8iMxZgLNa+e0/Ot5RycBFuORpk7dITzFxeG9mN54LEIqcONI8A;UmBZjxq1B0zfQYAmNm7ZfQ=="
 ---
 

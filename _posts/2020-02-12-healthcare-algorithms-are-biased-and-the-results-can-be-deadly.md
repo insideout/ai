@@ -8,8 +8,8 @@ ampWebUrl: "https://uk.pcmag.com/news-analysis/124621/healthcare-algorithms-are-
 cdnAmpWebUrl: "https://uk-pcmag-com.cdn.ampproject.org/c/s/uk.pcmag.com/news-analysis/124621/healthcare-algorithms-are-biased-and-the-results-can-be-deadly?amp=1"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: PC Magazine
@@ -28,51 +28,6 @@ images:
     width: 620
     height: 348
     title: "Healthcare Algorithms Are Biased, and the Results Can Be Deadly"
-
-related:
-  - title: "Three Ways AI And ML Are Making A Difference In Healthcare Behind The Scenes"
-    excerpt: "AI and ML are revolutionizing many healthcare processes that, although not medical in nature, directly affect provider efficiency and productivity — as well as the patient experience."
-    publishedDateTime: 2020-02-11T00:02:00Z
-    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2020/02/10/three-ways-ai-and-ml-are-making-a-difference-in-healthcare-behind-the-scenes/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2020/02/10/three-ways-ai-and-ml-are-making-a-difference-in-healthcare-behind-the-scenes/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2020/02/10/three-ways-ai-and-ml-are-making-a-difference-in-healthcare-behind-the-scenes/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 101
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1199231029/960x0.jpg?fit=scale"
-        width: 711
-        height: 474
-  - title: "How Artificial Intelligence and Deep Learning Are Transforming Healthcare"
-    excerpt: "It’s treatable while infants weigh less than two pounds, but doctors often struggle to detect the condition in time, says Santosh Rao, head of the artificial intelligence ... and DL-based diagnostics could provide a powerful augmentation, Rao says. “Our healthcare customers are starting to see the ability to spot cancer in earlier stages ..."
-    publishedDateTime: 2020-02-17T18:10:00Z
-    webUrl: "https://healthtechmagazine.net/article/2020/02/how-artificial-intelligence-and-deep-learning-are-transforming-healthcare"
-    ampWebUrl: "https://healthtechmagazine.net/article/2020/02/how-artificial-intelligence-and-deep-learning-are-transforming-healthcare?amp"
-    cdnAmpWebUrl: "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2020/02/how-artificial-intelligence-and-deep-learning-are-transforming-healthcare?amp"
-    type: article
-    provider:
-      name: HealthTech
-      domain: healthtechmagazine.net
-    quality: 73
-    images:
-      - url: "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202002/20200217_HT_Web_Partner-Content_NetApp.jpg?itok=U84MmvD3"
-        width: 1440
-        height: 500
-  - title: "AI in healthcare: What's science and what's fiction"
-    excerpt: "Artificial intelligence has fueled our imagination ever since the term was first ... Combining all these elements reliably and for the benefit of patients isn’t a job for one company alone: In healthcare, we’re dealing with the life and hopes of patients and their families. Algorithms can’t do the job without the extensive expertise ..."
-    publishedDateTime: 2020-02-17T17:49:00Z
-    webUrl: "https://www.linkedin.com/pulse/ai-healthcare-whats-science-fiction-bernd-montag"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 58
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQE4n5iQNbuFHA/article-cover_image-shrink_720_1280/0?e=1587600000&v=beta&t=wcizOYOgfHFN8sdPEi5AGZRImgPTyUbslbQ7-IrlUUY"
-        width: 959
-        height: 720
 
 secured: "nxvRvTg7inzeTkC9M2Hw543J0VlpiI2mUb4tODe2pwR8vYU6K9WRkRHlb80iNKtlxooe0wZxRFhRlmsix/JsDyuU356o8YJmTXM9Ys6YkNJwPKr6j73H/WtunfQFC//KYy/HacsS0wSkwe1QxbOSlpgNMTV4EspDYM1CHYk7QBPVXPj3y4APiQZQ2iKPHbvKyb9NTWZ+cMiiK4oE/gY5UApolG4EXrY4YHsYAE7EPV4sTcrojLSuoFfqlA8oyqmS3KZxr/j+V/buqk0HxnIP7Qc5Q4KStvUAThavMXRkEK2Uy2NcJJbBLCn4KW8J6r84;0yNN/wCveOE6bb51FlBLjA=="
 ---

@@ -27,17 +27,6 @@ images:
     height: 630
     title: "Autonomous Vehicle Market 2020: Global Overview, Latest Technology, Market Size, Share, Demand, Major Players, Key Trends, and Forecast to 2026"
 
-related:
-  - title: "Cognitive computing in Healthcare Market Size, Share, Growth,Trends,Forecast 2025"
-    excerpt: "The wide popularity of IBM Watson and Cognitive Services by Microsoft among healthcare providers is accentuating the growth of the market. Leveraging the potential of self-learning systems to look ..."
-    publishedDateTime: 2020-01-29T12:11:00Z
-    webUrl: "https://www.openpr.com/news/1912885/cognitive-computing-in-healthcare-market-size-share"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
-
-secured: "tQGaXSfLmh5dW2jli+WuxME2icFOnGZqeiP9/4VJwC6xSPZ7E30FHjY4DsvqT4WvBu9AwUYGgF+o36ojWfqeU53eEbu8IyzIUP7JegH+uJpOz4joRicxERveYIn98sGKwngxcHnoCMvLt6yV0uzWUJMokRErmRjFFbPCA6zJUzSh5GiBr6hBV4tlEf8iPlAOdYJFpwCfRNbQvbiB0stSo0zSy+SE/vY9k1KRKocO1LDOWVtlkS6KZRpMqfu6eKbFBxsUPusYo4+PeyNC4xGesPDqlAX8fSGy+OJQdLQLhCtvkanY7NyRGYZaTc2zYsY5;REGUt7tVfvKdfmkg1uGuhg=="
+secured: "73lxLUN8i11D9VV/4ux5sxhu77CHziO1lHR9PAM2T29qurnqmlZXfK8LRYRTBi9ZOVEOJpjnGDxlWueivHLLavB7eAHBhQAd7IAtJQ9VMBb+Bk1AAZrewFVYj+UIgYNhTANTotRuzx49uiuG+5mpfDtS2bR2t3qvuT0hArUIaIYT5f0DJQd/BxIcx0/9lmNpIzt4EccL1Y0f4NB8Tez9TqAov34pZ+ted7ElbAntnWQKSGQTRg12BkHvDcxLX/tJ2gknZpEvnEnIwMylHDj1YLHHEnggjZB4Ndx924NB0OsvPFzYIToY5kHT9idW2x38;0O564QhmeROBmOBeO0vFdA=="
 ---
 

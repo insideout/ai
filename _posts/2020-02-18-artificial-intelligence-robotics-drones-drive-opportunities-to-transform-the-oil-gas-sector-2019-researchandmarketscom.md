@@ -39,13 +39,17 @@ related:
         height: 627
   - title: "The Business Use of Artificial Intelligence Course (Dubai, United Arab Emirates - April 8-9, 2020) - ResearchAndMarkets.com"
     excerpt: "Organizations today are applying artificial intelligence capabilities to a wide variety of uses especially in operations ... Jobs change dramatically, current skill become obsolete and displaced, there may exist resistance to change and unrealistic fear of robots taking over as well as other aspects of automation. This was true when automation ..."
-    publishedDateTime: 2020-02-25T13:41:00Z
-    webUrl: "https://www.oaoa.com/news/business/article_638f00ed-10ff-54bb-86d3-4566979ca02d.html"
+    publishedDateTime: 2020-02-25T10:59:00Z
+    webUrl: "https://www.pressofatlanticcity.com/business/the-business-use-of-artificial-intelligence-course-dubai-united-arab/article_38b8b781-e406-5371-b280-77f275f26cd8.html"
     type: article
     provider:
-      name: Odessa American
-      domain: oaoa.com
-    quality: 8
+      name: The Press of Atlantic City
+      domain: pressofatlanticcity.com
+    quality: 28
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/pressofatlanticcity.com/content/tncms/custom/image/bae1e730-3e34-11e6-9bc5-8f83ee7a0e54.jpg"
+        width: 1200
+        height: 630
 
 secured: "sRmMALCPCagd+HmE78JNwVUmBQ0QIEJAMurYd08zNZrnoP80vtHNnJsM6quYtQES5TnGNhw91AJXdXYiNNaKxJY4Z0hbSG2g1nihbABuL9ixTeBECl/wUeJSoSwJfAyQxi12jdA6WCIvNRojrbIxPvqxLw6lBFmsxZ5QkgCUfhgKAB6x7OozbBsknUeQdS94YrLMXFNxnKxbgR0JjO7yiwVOkkIDkFvHbbOCrreVGdScgmidWirDrPCglajmFpiIqzlpOCwnxpjlYvHPNj53/OM50/dgoafDtgYIufLn8AfHB9cRhCJnaRtO7GyPCEU1l97lnubIuV86f3prFJWQ49d0pSg2BH4X121XAn9YiAKWQMTisyIgT9KJeiFprqiJ+msYEmXGNno3Q08UqT2hElcn2eL2B683EExNO3d6acfS9axdhZcGnh2YLvQ42oDB3vxmP9/2wgUElV9LclIUPM8dRNbPi8kLb6ElZIidy7o=;4LrGNdYW3K55aUxsp8CdCQ=="
 ---

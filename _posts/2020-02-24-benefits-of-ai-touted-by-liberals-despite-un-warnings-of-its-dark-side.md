@@ -21,6 +21,19 @@ topics:
   - AI Hardware
 
 related:
+  - title: "U.N. disarmament chief warns of AI’s ‘dark side’, Liberals tout benefits"
+    excerpt: "OTTAWA — The United Nations’ top disarmament official says governments need to pay more attention to the “dark side” of artificial intelligence, including the implications of ... with Britain to develop AI projects that could lead to breakthroughs in driverless vehicles and health care for seniors. The government has made AI a pillar ..."
+    publishedDateTime: 2020-02-25T16:47:00Z
+    webUrl: "https://www.canadianmanufacturing.com/technology/u-n-disarmament-chief-warns-of-ais-dark-side-liberals-tout-benefits-247578/"
+    type: article
+    provider:
+      name: Canadian Manufacturing
+      domain: canadianmanufacturing.com
+    quality: 38
+    images:
+      - url: "https://www.plant.ca/wp-content/uploads/2017/10/ArtificialintelligenceAIFotolia162553029-1024x629.jpg"
+        width: 1024
+        height: 629
   - title: "UN disarmament chief warns of 'dark side' of AI, as Liberals tout benefits"
     excerpt: "OTTAWA — The United Nations' top disarmament official says governments need to pay more attention to the \"dark side\" of artificial intelligence, including the implications of so ... Britain on Monday to develop AI projects that could lead to breakthroughs in driverless vehicles and health care for seniors. The government has made AI a pillar ..."
     publishedDateTime: 2020-02-24T20:52:00Z

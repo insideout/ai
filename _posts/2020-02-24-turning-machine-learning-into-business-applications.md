@@ -2,27 +2,23 @@
 category: news
 title: "Turning Machine Learning into Business Applications"
 excerpt: "Machine Learning is viewed as an essential enabler that will allow applications to act on the collection of new data sets to improve their predictive capabilities. This white paper shows how Talend and AWS are bridging the gap between data scientists and data engineers to operationalize ML."
-publishedDateTime: 2020-02-24T22:03:00Z
-webUrl: "https://www.infoworld.com/resources/199257/turning-machine-learning-into-business-applications"
+publishedDateTime: 2020-02-24T22:09:00Z
+webUrl: "https://www.computerworld.com/resources/199257/turning-machine-learning-into-business-applications"
 type: article
-quality: 69
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: InfoWorld
-  domain: infoworld.com
-  images:
-    - url: "/assets/images/organizations/infoworld.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Computerworld
+  domain: computerworld.com
 
 topics:
   - AI
   - Machine Learning
 
 images:
-  - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
+  - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
     width: 300
     height: 300
     title: "Turning Machine Learning into Business Applications"
@@ -64,6 +60,6 @@ related:
         width: 323
         height: 208
 
-secured: "LzjoFmNx27zYSjXgClCY7V3vWUYKzZdeqfbgQ0p24FKQLi3HhW40vAS6bFwvtDKCVh6oVHN/YuUxBydg4eoBmNX77SCZCNJWgKfVW2rLGjdncEl8QrWorojnA1diedtFxrACjgZmbgD9aq6LZSJjVYBj+BW2SjLGTGd27X9faqvN1KBDeQaYQQUrmUI5Og3tqSdhYyZpBg5A7EWLCQOo7Hs4Int88E3YO2vsuR4UouxL0YPDCjSxbZ7h2BOLeD1yzwHGsRd5KFjFmIQR9swFxVNBgq6MC0MB2a5lizbBnez4ouNCdrOX6wSS8nkMaHt1;3bF/i0tlfO5wz2ZC/gA3HQ=="
+secured: "4948OOAng1FlmZ6bK+g/h6kHTwNKh7/RF9T7iCLOpSON0ZOvHQ2b8w9g1AbEp70CnVHEBxhWQyIzJSMvfAIbmn7gltPaFy7bHa6JmYiFNc7T2B5lj4UyikncrD0Dc7pKMku8Tacx8sI5cxJsATvOXSxx1h8JbpqQW77z9HwrkSDVgYrBLIA+FhrAFKaeitwQiA7uEbYAqcXAKP2YkN/wPYvkRE8NmGxdn5iESDsnoilLJpW+NLro3ST2xxbYg3F/Rv6qZ5OVPtSVVMiGcA+Ok9zkLYTZ86o73Vcnaqsij5Ymn3En0lf74hKC71GjcPJ0;4sr51/U5cDHVjShdiCy4Yw=="
 ---
 

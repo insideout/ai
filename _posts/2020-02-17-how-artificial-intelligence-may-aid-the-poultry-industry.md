@@ -33,6 +33,19 @@ related:
       - url: "https://images.yourstory.com/cs/2/f02aced0d86311e98e0865c1f0fe59a2/Future-of-work-AI-in-life-Science-1582471180105.png?fm=png&auto=format"
         width: 800
         height: 400
+  - title: "Spherix Attends Artificial Intelligence and Machine Learning Pharmaceutical Development Conference"
+    excerpt: "The AI-ML in Drug Development Summit is the only conference to bring together industry leaders, technology experts and academics focused on augmenting the R&D processes through the use of Artificial Intelligence and Machine Learning. The event, scheduled for February 24-26, 2020 at the DoubleTree by Hilton Hotel San Diego - Mission Valley ..."
+    publishedDateTime: 2020-02-25T17:14:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/spherix-attends-artificial-intelligence-and-machine-learning-pharmaceutical-development-conference-301010702.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 40
+    images:
+      - url: "https://mma.prnewswire.com/media/159881/spherix_incorporated_logo.jpg?p=facebook"
+        width: 1397
+        height: 733
 
 secured: "mzQPN6Cl/JZYzsF9CSSMIwvZM53XaxQ50+sGXIGv2Vr2rl18BYH3xbVwBzzaFrBkZurxNZFMiI9oZaMO2NqoRJQq7Yg7531UBwc+yzfb0ipCmBSXLc8z1yBdgCx0RrJfC7suUevNly4TGsYLl/bK1izmgOY4s+9LXe8Okh5Of+Y0R/eh6FXW0dl3UrhE6xnaZ8gzLiq5azk9LRO/DDCygfwMUp2voUMI1+zkXjy8g1QOv0GAGRdxpsrp5Ric7zVvUuWpBDJVZqJ7lqmC5cNqxfJ0219rP+tGTP2LP80SKex3+PUCV+C3AZUX6NJ2ZWWq;ouezlOwQMb/YFi932CjR7g=="
 ---

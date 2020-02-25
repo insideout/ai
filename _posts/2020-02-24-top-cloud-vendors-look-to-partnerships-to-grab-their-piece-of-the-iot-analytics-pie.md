@@ -25,18 +25,18 @@ images:
 
 related:
   - title: "Top cloud Vendors Look to Partnerships to Grab Their Piece of the IoT Analytics Pie"
-    excerpt: "Analytics services across cloud vendors, on the other hand, are less differentiated, as reflected in pre-built templates such as AWS Sagemaker and Microsoft Azure Notebooks which leverage the open source Jupyter project. Considering that many cloud vendors ..."
-    publishedDateTime: 2020-02-19T00:00:00Z
-    webUrl: "https://www.abiresearch.com/press/top-cloud-vendors-look-partnerships-grab-their-piece-iot-analytics-pie/"
+    excerpt: "Analytics services across cloud vendors, on the other hand, are less differentiated, as reflected in pre-built templates such as AWS Sagemaker and Microsoft Azure Notebooks which leverage the open ..."
+    publishedDateTime: 2020-02-19T10:00:00Z
+    webUrl: "https://www.finanzen.net/nachricht/aktien/top-cloud-vendors-look-to-partnerships-to-grab-their-piece-of-the-iot-analytics-pie-8529788"
     type: article
     provider:
-      name: ABI Research
-      domain: abiresearch.com
+      name: Finanzen
+      domain: finanzen.net
     quality: 18
     images:
-      - url: "https://cdn.abiresearch.com/media/social_images/AN-5268.png"
-        width: 501
-        height: 399
+      - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
+        width: 600
+        height: 315
 
 secured: "qPohg7T48UJfqEEQmIZDvqjrsmBZ/5xdlo9Ml+j/JJeSS8KSGowlD7AE/Jo7swIsYbZfNLt73yK8GLm4Zp5mFX/9y8GeREc3MASOAVqAeLIfrWrKEmFmb2+l6J5NNTINHxM4vrwUlAzjvEC4QR25jpv8wFZkPw9uc2ipRl7ltbwf4dRzE4W51zBnizCP/ed+HnuBYoqWWlDEOYI++FHCK7sqK9/Jco3Y5nv8ST4dzmYlxHcgZrDsJnS2lxRk+vtTY728Wc16lLUKO7ATPnRgb67lCNuZy9aUIRup8QbEgpRrJCCUSklfcdsGfz4BRphsUcTZmMBxc9G5LYdTHdasnTBsthwXETp3bxiGYfEsXaGsRuZyeuflnurRrSuslP3LTPvxw9hAq+zTaXIpUrTp0q7o2g6/jVvL1AjEy6dlOgVRLKF3EidnkxPzhRKgpW4KqK/4yl7KiQetHqdB/g4+GNU4THQ7hCdKUJScpp2v1GU=;529rBLM4/j+T84QB58eNHQ=="
 ---

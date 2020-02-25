@@ -141,6 +141,19 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 45
+  - title: "Data Science and Machine Learning Service Market 2020-2024 : Global Growth Drivers, Opportunities, Trends, And Forecasts"
+    excerpt: "nbsp; Data Science and Machine Learning Service Market 2020 Description: - It analyses the market situation"
+    publishedDateTime: 2020-02-25T09:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/data-science-and-machine-learning-service-market-2020-2024-global-growth-drivers-opportunities-trends-and-forecasts-2020-02-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Global Professional Cloud Services Market 2020 Present Trends, Business Growth Analysis & Forecast Outlook to 2025"
     excerpt: "The Global Professional Cloud Services Market was valued at USD 21.51billion in 2019 and is expected to reach a value of USD 57.54 billion by 2025, at a CAGR of 17.76 %, during the forecast period, 2020 - 2025."
     publishedDateTime: 2020-02-19T10:31:00Z
@@ -207,6 +220,19 @@ related:
       name: PR
       domain: pr.com
     quality: 0
+  - title: "Global Enterprise Artificial Intelligence Market Expected to Grow with a CAGR of 35.4% Over the Forecast Period, 2019-2026 - ResearchAndMarkets.com"
+    excerpt: "The \"Enterprise Artificial Intelligence Market: Global Opportunity Analysis And Industry Forecast, 2019-2026\" report has been added to ResearchAndMarkets.com's offering. According to this report, the global enterprise artificial intelligence market was valued at $4.68 billion in 2018, and is projected to reach $53.06 billion by 2026 ..."
+    publishedDateTime: 2020-02-25T14:12:00Z
+    webUrl: "https://www.pressofatlanticcity.com/business/global-enterprise-artificial-intelligence-market-expected-to-grow-with-a/article_2156e82c-3056-57e4-bc00-ce8f14284744.html"
+    type: article
+    provider:
+      name: The Press of Atlantic City
+      domain: pressofatlanticcity.com
+    quality: 0
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/pressofatlanticcity.com/content/tncms/custom/image/bae1e730-3e34-11e6-9bc5-8f83ee7a0e54.jpg"
+        width: 1200
+        height: 630
 
 secured: "i37C2BqUJA5q9Cy8wPV8fM3nEHoDJjYqAUS9bphdk6YHzLKWa9gLVMWxNw20+Kzu8l34RMU1Loi5BN6QE0Jm49XbyShpPvJRDckHZ0dRHgtIlXoItdj6QeQudmN7V3MdTO7DastUUWhr9easuY93GaracCpPYVmHFu6ePeDmE+e6Bkue36tnJxjsDF6+aRHlKxhRoXES1Jjn4iLcvEyOkVp44tqs15LoxEq1nbj1k/H453XI+QqN2OW4lt+9u4z2mpK6fg9dlwGUU1jPSa0hzGzNkfe5WSpFWFJoYHy+3wGC6MQlm9o215+FimXb2lo6;sTCL8ri51duZpwa9zFJuHw=="
 ---

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/guid/9588DA02-525D-11EA-B5C7-5
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/guid/9588DA02-525D-11EA-B5C7-52AF3B60D99D"
 type: article
 quality: 99
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -63,6 +63,21 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1071760110%2F0x0.jpg"
         width: 1200
         height: 800
+  - title: "How Artificial Intelligence and Deep Learning Are Transforming Healthcare"
+    excerpt: "It’s treatable while infants weigh less than two pounds, but doctors often struggle to detect the condition in time, says Santosh Rao, head of the artificial intelligence ... and DL-based diagnostics could provide a powerful augmentation, Rao says. “Our healthcare customers are starting to see the ability to spot cancer in earlier stages ..."
+    publishedDateTime: 2020-02-17T18:10:00Z
+    webUrl: "https://healthtechmagazine.net/article/2020/02/how-artificial-intelligence-and-deep-learning-are-transforming-healthcare"
+    ampWebUrl: "https://healthtechmagazine.net/article/2020/02/how-artificial-intelligence-and-deep-learning-are-transforming-healthcare?amp"
+    cdnAmpWebUrl: "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2020/02/how-artificial-intelligence-and-deep-learning-are-transforming-healthcare?amp"
+    type: article
+    provider:
+      name: HealthTech
+      domain: healthtechmagazine.net
+    quality: 73
+    images:
+      - url: "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202002/20200217_HT_Web_Partner-Content_NetApp.jpg?itok=U84MmvD3"
+        width: 1440
+        height: 500
   - title: "Would you tell secrets to Alexa or Siri? How AI therapists could save you time and money on mental health care"
     excerpt: "People reveal more personal and intimate details to human-like apps and bots that can ‘sense’ emotions and concerns."
     publishedDateTime: 2020-02-19T17:27:00Z

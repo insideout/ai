@@ -86,51 +86,6 @@ related:
       - url: "https://static.techspot.com/images2/news/ts3_thumbs/2020/02/2020-02-21-ts3_thumbs-1fe.jpg"
         width: 800
         height: 560
-  - title: "Facebook users to get paid for voice recordings; company wants to improve speech recognition"
-    excerpt: "In an attempt to improve its voice recognition technology, social media giant Facebook could pay users who agree to record their voice. The move comes after reports suggested that the company — along with Apple, Google, Microsoft, and Amazon — was caught listening to and transcribing voice recordings to improve its speech recognition ..."
-    publishedDateTime: 2020-02-21T13:38:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/facebook-users-to-get-paid-for-voice-recordings-company-wants-to-improve-speech-recognition-4965781.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/technology/facebook-users-to-get-paid-for-voice-recordings-company-wants-to-improve-speech-recognition-4965781.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/facebook-users-to-get-paid-for-voice-recordings-company-wants-to-improve-speech-recognition-4965781.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 63
-    images:
-      - url: "https://static-news.moneycontrol.com/static-mcnews/2018/08/Uttar-Pradesh-Chief-Minister-Yogi-Adityanath-378x213.jpg"
-        width: 378
-        height: 213
-  - title: "Facebook will pay users to improve its speech recognition"
-    excerpt: "Last year, Facebook abandoned its practice of listening to Messenger audio chats in order to improve its AI speech recognition. Now ... The Verge reports that selected users will be asked to record short phrases via its Viewpoints market research app. If you qualify, you’ll have all the fun of saying “Hey Portal” and then the name ..."
-    publishedDateTime: 2020-02-21T09:07:00Z
-    webUrl: "https://www.trustedreviews.com/news/facebook-will-pay-users-to-improve-its-speech-recognition-3987512"
-    ampWebUrl: "https://www.trustedreviews.com/news/facebook-will-pay-users-to-improve-its-speech-recognition-3987512/amp"
-    cdnAmpWebUrl: "https://www-trustedreviews-com.cdn.ampproject.org/c/s/www.trustedreviews.com/news/facebook-will-pay-users-to-improve-its-speech-recognition-3987512/amp"
-    type: article
-    provider:
-      name: Trusted Reviews
-      domain: trustedreviews.com
-    quality: 61
-    images:
-      - url: "https://ksassets.timeincuk.net/wp/uploads/sites/54/2017/11/Facebook-Logo-1024x609.jpg"
-        width: 1024
-        height: 609
-  - title: "Facebook to pay users for recording to improve speech recognition"
-    excerpt: "Facebook has announced it will pay select users who agree to record their voice to improve its speech recognition technology. The social networking giant will pay select users to record snippets of audio through a new programme called “Pronunciations” in its Viewpoints market research app, according to The Verge. If you qualify to be part ..."
-    publishedDateTime: 2020-02-21T06:23:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/fb-to-pay-users-for-recording-to-improve-speech-recognition/article30878453.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/fb-to-pay-users-for-recording-to-improve-speech-recognition/article30878453.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/fb-to-pay-users-for-recording-to-improve-speech-recognition/article30878453.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 59
-    images:
-      - url: "https://www.thehindu.com/sci-tech/technology/uzp6oh/article30823445.ece/ALTERNATES/LANDSCAPE_615/FACEBOOK-PAID-POLITICAL-MEMES"
-        width: 615
-        height: 384
   - title: "Facebook will pay you for your voice recordings, but it’s not worth it"
     excerpt: "Last year, Facebook said it would stop listening to voice notes in messenger to improve its speech recognition technology. Now, the company is starting a new program where it will explicitly ask you to submit your recordings, and earn money in return. According to a report from The Verge, the social network is commencing this project ..."
     publishedDateTime: 2020-02-21T09:13:00Z
@@ -170,15 +125,6 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 52
-  - title: "Facebook will pay for user recordings to improve speech recognition"
-    excerpt: "Facebook may have stopped listening to and transcribing Messenger voice chats, but it still needs voice recordings to improve its speech recognition technology. So the company is going to pay select users to record snippets of audio through a new program called \"Pronunciations,\" The Verge reports. In exchange, users can earn up to $5."
-    publishedDateTime: 2020-02-21T00:28:00Z
-    webUrl: "https://www.engadget.com/2020/02/20/facebook-voice-recordings-viewpoints-app/"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 51
   - title: "Facebook Will Now Pay You for Voice Recordings (Instead of Spying)"
     excerpt: "Facebook will now offer to pay some of its users for providing voice recordings that the social media giant will use to improve its speech recognition systems. The company announced the new initiative, dubbed Pronunciations, on Thursday. And, while Facebook didn’t mention it, the program seems like a way forward after Facebook was caught ..."
     publishedDateTime: 2020-02-20T21:55:00Z
@@ -359,6 +305,21 @@ related:
       - url: "https://www.wate.com/wp-content/uploads/sites/42/2019/10/ece6458a844845c78b688fb4883b9fcb.jpg?w=1280&h=720&crop=1"
         width: 1280
         height: 720
+  - title: "Facebook will pay you up to $5 to record your voice"
+    excerpt: "Facebook will pay you for your voice, but don't expect to get wealthy. The company is paying selected people to record phrases to improve its voice recognition tools. It's asking them record the phrase, \"Hey Portal, call...\" which is its camera-equipped home device, followed by saying the first name of a Facebook friend twice for 10 times."
+    publishedDateTime: 2020-02-25T15:24:00Z
+    webUrl: "https://www.kdrv.com/content/news/568170352.html"
+    ampWebUrl: "http://www.kdrv.com/templates/AMP?contentID=568170352"
+    cdnAmpWebUrl: "https://www-kdrv-com.cdn.ampproject.org/c/www.kdrv.com/templates/AMP?contentID=568170352"
+    type: article
+    provider:
+      name: KDRV
+      domain: kdrv.com
+    quality: 44
+    images:
+      - url: "http://media.heartlandtv.com/designimages/NW12_DigitalThumbnail.jpg"
+        width: 640
+        height: 380
   - title: "Hashtag Trending- Facebook pays for your data; AI finds new antibiotic; Instagram Music comes to Canada"
     excerpt: "MIT discovered a new potent antibiotic compound using AI, and Instagram Music has finally come to Canada. Thank you for tuning into Hashtag Trending, it’s Monday, February 24th, and I’m your host, Tom Li. Trending on Google, Facebook will now pay money to improve its voice recognition data. Through Viewpoints, Facebook’s research app ..."
     publishedDateTime: 2020-02-24T14:56:00Z
@@ -417,19 +378,6 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/03/18/facebook-logos_0.jpg"
         width: 1024
         height: 683
-  - title: "Facebook pays users for their voice recordings to improve speech recognition tech"
-    excerpt: "After it was caught in the act of secretly transcribing voice recordings without user consent, Facebook is officially upgrading its speech recognition technology and will start paying users for their voice recordings, writes the Verge. The social network announced it was starting a program called “Pronunciations” within Viewpoints ..."
-    publishedDateTime: 2020-02-24T21:53:00Z
-    webUrl: "https://www.biometricupdate.com/202002/facebook-pays-users-for-their-voice-recordings-to-improve-speech-recognition-tech"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 34
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/01/09162857/voice-biometrics-large2.jpg"
-        width: 900
-        height: 499
   - title: "Facebook will pay for users' voice recordings after it was caught listening to Messenger chats"
     excerpt: "In a program called 'Pronunciations', participants will be payed a small sum, only up to $5, to use the company's market research app Viewpoints for recording various words and phrases that the company will then leverage to train its speech recognition AI. That voice data will be used to improve products like Portal, which is Facebook's smart ..."
     publishedDateTime: 2020-02-21T16:31:00Z
@@ -458,17 +406,6 @@ related:
       - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/civx6ujxzrxga6yg_1582359929.jpeg?tr=f-jpeg"
         width: 1242
         height: 711
-  - title: "Facebook to pay users for recording their voice to improve its speech recognition tech"
-    excerpt: "Facebook has announced it will pay select users who agree to record their voice to improve its speech recognition technology. According to The Verge, the social networking giant he company will pay select users to record snippets of audio through a new programme called “Pronunciations in its Viewpoints market research app."
-    publishedDateTime: 2020-02-21T10:28:00Z
-    webUrl: "https://www.hindustantimes.com/tech/facebook-to-pay-users-for-recording-their-voice-to-improve-its-speech-recognition-tech/story-IwjGQJS1AoyzPfgGlZykRN.html"
-    ampWebUrl: "https://m.hindustantimes.com/tech/facebook-to-pay-users-for-recording-their-voice-to-improve-its-speech-recognition-tech/story-IwjGQJS1AoyzPfgGlZykRN_amp.html"
-    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/facebook-to-pay-users-for-recording-their-voice-to-improve-its-speech-recognition-tech/story-IwjGQJS1AoyzPfgGlZykRN_amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 31
   - title: "Facebook Offers Some Users Money For Voice Recordings"
     excerpt: "The voice recordings will be used to improve speech recognition systems. The offer comes after Facebook was caught transcribing voice recordings for the shoes in the past without informing customers is doing so. Users of the Viewpoints app can look under the Pronunciations tab to see if they qualify to be part of the program. Those that do ..."
     publishedDateTime: 2020-02-21T16:30:00Z
@@ -532,15 +469,6 @@ related:
       name: Kim Komando
       domain: komando.com
     quality: 20
-  - title: "FB to pay users for recording to improve speech recognition"
-    excerpt: "... has announced it will pay select users who agree to record their voice to improve its speech recognition technology. According to The Verge, the social networking giant he company will pay ..."
-    publishedDateTime: 2020-02-21T12:12:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20200221/3508472.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 19
   - title: "Facebook is paying $5 to users! Check who all qualify to participate in its voice recognition programme"
     excerpt: "Social media giant Facebook is offering USD 5 to some select users in a bid to improve its voice recognition technology. According to The Verge, Facebook will record the voice of some users through a new programme called “Pronounciations” in its Viewpoints market research app. The move comes after Google, Apple, Amazon and Microsoft had ..."
     publishedDateTime: 2020-02-22T10:37:00Z

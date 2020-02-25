@@ -38,6 +38,6 @@ related:
       domain: itproportal.com
     quality: 20
 
-secured: "t+i/qfyxHV8gvfmaD6/Wq8n1deCYl/c7QOQ2R6/Riow75mb1DP5dFa+OWXEsgSsbZ4D6E5lAAwcYU1j86qlX+RpFnvb8eor6sxTH3uNVFacqqTO6v31V9SKVBSwr/0PG36n0vevXbuCWowNUfwnv/4urE9UjKED64awVIYBf11weJ4GFvVDOwPoRfJkUqw3AB3lYgtp2Tox8xdBHiCsFrwDaDmqR+0gvY2w3niRPpXJd7TQyM/KPpvUaWFtbe8mK5ylsbq2VRimVL00icjVikis7ER0knnyiEpvFDikR7isiT8b5EWxDkh6IhsRxdKUS;Rph8hxr4L3M6jVQHMouvBw=="
+secured: "CQY+XTHZyKDnH6SfwQDbidrMjKs5AnB15fOrYGntCPz2KmgnANPegOBmdlezhVIRIZGRQhhJiSJTI6vaac65W8UOWWUfK0vRX2qBwfPnebMpM4b4Ajl5XrI3JcLWeQk806b5phw5zgNmljydKZzEGZXBvUurLVWAbChOA7Qv0h+clrzKGR1j+W9K68hP2vMD87WzgWXvgw2Gp/HNVSLy9H/ln5Y4pTT/8atd5mc2utlgoOuu31H85INX/MLT/cdumFHMWTbjPMji7T7VAqoV86qeEWgz+xT9tl5PeiKTyIh706SIJtajgD3WAiGocv60;hnbH/vE3JR0EHVS62IJs3g=="
 ---
 

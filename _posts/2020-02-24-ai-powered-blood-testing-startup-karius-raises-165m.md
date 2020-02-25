@@ -23,19 +23,19 @@ images:
     title: "AI-powered blood testing startup Karius raises $165M"
 
 related:
-  - title: "Karius raises $165 million to identify infectious diseases with AI"
-    excerpt: "Approximately 9% of the U.S. population has been diagnosed with an infectious disease. Worldwide, these diseases are the second-leading cause of death after heart disease, and they’re responsible for more deaths annually than cancer. Mickey Kertesz and Tim Blauwkamp — who worked together at Moleculo, a startup spun out of Stanford that ..."
-    publishedDateTime: 2020-02-24T13:56:00Z
-    webUrl: "https://venturebeat.com/2020/02/24/karius-raises-165-million-to-identify-infectious-diseases-with-ai/"
+  - title: "Life sciences startup Karius plans to pursue commercial adoption of its liquid biopsy tests"
+    excerpt: "For context, the life sciences startup leverages AI to detect infectious diseases in patients' blood samples. Business Insider Intelligence Karius has demonstrated the efficacy of its liquid biopsy initiatives in the past — and the new funding haul could help it further validate its tech to land in the good graces of health systems pursuing ..."
+    publishedDateTime: 2020-02-25T17:31:00Z
+    webUrl: "https://www.businessinsider.com/karius-explores-new-tech-applications-after-massive-funding-round-2020-2"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 42
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/02/5bee2917-7134-4dc7-adae-38b0b9013ac7-e1582259412500.png?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
+      - url: "https://i.insider.com/5e553d55fee23d7549735e03?width=1200&format=jpeg"
+        width: 550
+        height: 275
 
 secured: "Ax0WRDNpxeNiQW/4FdC/3hB1nJkEsZz8tEs7wpo9wXvHYT5tc+4tniUdulgvq1DCNSd24enB2cILgZWfncKD7f1oiVPQSMB6FrxsO3cgXdqBMTa5j6PsVHJbRHt7p1Q6rM9V/DITPxUyw17w7V00PTTVLUbk+9qwZSP+qMgf4CNVbHt753kvkg8FC43bWsskkP0eblmJUIoCTW+giAYmj4uWEmjMyotJN0ZQZFoYMJcnIs8msQpclIEtkqZK5QyIvkyeMr/mjEDGYqWIqPLUSawwH8UxOv08s3h1+bI1CYl6WvAOjwDx2rqjhIbkfnFJ;lx2h1dPdiS1RBJij4FIHMw=="
 ---

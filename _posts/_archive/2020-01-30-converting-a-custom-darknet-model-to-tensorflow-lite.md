@@ -27,6 +27,6 @@ images:
     height: 400
     title: "Converting a custom Darknet model to TensorFlow Lite"
 
-secured: "2fcH0FdBhFk9UQvBAdyhYRLVeZWaTMiBbCAn6UKkQg3YZIIKH/dTleg/cRr+LNNXDBzp1OKGq4mlOZwpEYFOXMP7HuJvb/6nHY5Tv9qFZVk+et7PKzshpNJ+2+9VwhgYaPXupENspcxGUtKwOSSftDQ5cBOzPHjQD42VlzTXvttvugY3cUeocxEzcT1XqjOao+XhvarNByYCtleFKQB917Us0/0Gru3nERl9jL8KMqZs84l97jkz352g9eNV0XeoPjzxP8x8+zEeycGRqYSFQjpgibn6DASYFF3qf2U/hK4Eralu22BgVtmRdAIPKNuc;PUmd5maQiYN7qxzQBfK7mA=="
+secured: "ToXE0IAABw3MDVHAubTzBZvjmx5T2x4X9mI3+2F9A8qA+Oi4tLoITa/SP27WMQtYYrhIA6pztTYcQAxwfRljAJSdFfMrdfNkAdxAF8UU6yEPJsaQyO/qJ88EXZ7Ay/2XkFdc3zsySJoTSCpqKGiq+g9sgQ4613gZZ03v7GU/5hlHECOqkFSUv0kBHu5l62JU6dWM/h73ypWIapz9HR8IoBp9mgviPTU09Blbzsxxa5g9qWLtWL7qPyTIo3HLRkR3GO7OGJ4njaKRIwzoZgl/dZd13oi8SatJ2E3GNlmG+8yfGKoSCR8dVytpYTc/eRkk;udCewEPQU5UwE/AvcRst4w=="
 ---
 

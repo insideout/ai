@@ -256,6 +256,21 @@ related:
       - url: "https://images.wsj.net/im-156180/social"
         width: 1280
         height: 640
+  - title: "Is the EU better equipped than the US to supervise the use of facial recognition?"
+    excerpt: "This slightly dystopian facial recognition app allows users to upload a photo and compare it with the app’s large database, which results in finding all the images in which the same person appears, and a list of websites on which the matching images were found. An investigation led by the New York Times revealed that Clearview AI was sold to ..."
+    publishedDateTime: 2020-02-25T17:36:00Z
+    webUrl: "https://www.computerweekly.com/opinion/Is-the-EU-better-equipped-than-the-US-to-supervise-the-use-of-facial-recognition"
+    ampWebUrl: "https://www.computerweekly.com/opinion/Is-the-EU-better-equipped-than-the-US-to-supervise-the-use-of-facial-recognition?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/opinion/Is-the-EU-better-equipped-than-the-US-to-supervise-the-use-of-facial-recognition?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 54
+    images:
+      - url: "https://cdn.ttgtmedia.com/visuals/German/article/facial-recognition-ID-2-adobe.jpg"
+        width: 1200
+        height: 400
   - title: "Calgary police says it won't use social media in its facial recognition technology"
     excerpt: "A Calgary police officer says using open-sourced data such as social media with facial recognition technology is “fraught with danger.” The comments were made in reference to controversy surrounding the use by Canadian police forces of an American company’s facial recognition software that created a massive database of open-sourced images ..."
     publishedDateTime: 2020-02-24T19:46:00Z

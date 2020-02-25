@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Top cloud Vendors Look to Partnerships to Grab Their Piece of the IoT Analytics Pie"
-excerpt: "Analytics services across cloud vendors, on the other hand, are less differentiated, as reflected in pre-built templates such as AWS Sagemaker and Microsoft Azure Notebooks which leverage the open source Jupyter project. Considering that many cloud vendors ..."
-publishedDateTime: 2020-02-19T00:00:00Z
-webUrl: "https://www.abiresearch.com/press/top-cloud-vendors-look-partnerships-grab-their-piece-iot-analytics-pie/"
+excerpt: "Analytics services across cloud vendors, on the other hand, are less differentiated, as reflected in pre-built templates such as AWS Sagemaker and Microsoft Azure Notebooks which leverage the open ..."
+publishedDateTime: 2020-02-19T10:00:00Z
+webUrl: "https://www.finanzen.net/nachricht/aktien/top-cloud-vendors-look-to-partnerships-to-grab-their-piece-of-the-iot-analytics-pie-8529788"
 type: article
 quality: 18
 heat: 18
 published: false
 
 provider:
-  name: ABI Research
-  domain: abiresearch.com
+  name: Finanzen
+  domain: finanzen.net
 
 topics:
   - AI
   - AWS AI
 
 images:
-  - url: "https://cdn.abiresearch.com/media/social_images/AN-5268.png"
-    width: 501
-    height: 399
+  - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
+    width: 600
+    height: 315
     title: "Top cloud Vendors Look to Partnerships to Grab Their Piece of the IoT Analytics Pie"
 
 related:
@@ -38,6 +38,6 @@ related:
         width: 400
         height: 400
 
-secured: "5UT0MklyRHpz09dWOjwAkbyBf8ju3lSNvNdvy9STGWscuOiWvpNOd5EVpk6ndDU85EAOs7vP7OYfnLT1oGZOvyoFSysdyo36m5hy9xB1ufMqLCxX5o2bwRF4VWEazP5y2r4PWPZECG+ExfDGHABFxF4IPU+651pSfvgf/mkcD37jHHqcnOvyvX8gNpaCgPdqClCse1CGTTH+DHq5ayxTMTqlGcvdoftQ12ISfFr64mjOulBFyEtcIMTXJbENLmS1hORpmzwro/V284ecjAnuskm44GcoZQgcjdZ9+ZvTlySNsFE+v/M/SbfdG284X9ds;rFps8mpWXKR+TaVA++QiiA=="
+secured: "G1CmUPIf572dY0R95IkMR0+HJQ4nlwgEL/sB50neudi5zXm9rAcsT0gLmSe+9QmaLfn8d5gLPkrK5evQf2l3Qd6R3fECCz414n8ypP7ZB1ZCazChThMap91tYg2eFUi/Rhu3136J5dEE/CQul+Lm0oSVr1prSjyHm17HpIwpkh3pf+52WYN3k7dgrzcdFVld5KDaMc996CzX9M17Iwjaz/JUfdqqUc3gigAFwfvpszoDtfOdijPY3o8PKnvbr+Lh6MtFPMs8VRQeuNuhN1kAH94eX3WNi8B4vHC38gJyNpJqdMedI84hfL48C/+Wbuf3;wec0ItKg0CZfgXyocGitnw=="
 ---
 

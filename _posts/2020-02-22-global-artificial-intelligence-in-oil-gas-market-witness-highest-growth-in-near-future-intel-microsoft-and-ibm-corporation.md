@@ -21,19 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Global Machine Learning Market Trends And Forecast 2020-2029| Google Inc., Baidu Inc and Amazon Web Services Inc"
-    excerpt: "Feb 25, 2020 (WiredRelease via COMTEX) -- Global Machine Learning Market (Revenue and Volume), Type, Application, End-User, and Regional Analysis, Import-Export Analysis, Industry Analysis, Premium Insights, Intellectual Property Analysis, Market Attractiveness, Competitive Landscape, Traders/Distributors, Key Buyers, Forecasts 2020 – 2029 ..."
-    publishedDateTime: 2020-02-25T13:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-market-trends-and-forecast-2020-2029-google-inc-baidu-inc-and-amazon-web-services-inc-2020-02-25?mod=mw_quote_news"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "Global Automatic Speech Recognition Software Market Innovations, And Top Companies - Forecast To 2029| Baidu, Google and Facebook"
     excerpt: "Global Automatic Speech Recognition Software Market (Revenue and Volume), Type, Application, End-User, and Regional Analysis, Import-Export Analysis, Industry Analysis, Premium Insights, Intellectual Property Analysis,"
     publishedDateTime: 2020-02-24T12:28:00Z
@@ -43,19 +30,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence In Energy Market Size, Trend, Competitive Growth Overview and Forecast to 2025"
-    excerpt: "The Global Artificial Intelligence In Energy Market 2019 research provides a basic overview of the industry including definitions, classifications, applications, and industry chain structure. The Global Artificial Intelligence In Energy market analysis is provided for the international markets including development trends,"
-    publishedDateTime: 2020-02-19T10:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-energy-market-size-trend-competitive-growth-overview-and-forecast-to-2025-2020-02-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -73,19 +47,32 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Global Artificial Intelligence-based Cybersecurity Market Analysis, Trends, and Forecasts 2020-2025 - ResearchAndMarkets.com"
-    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Artificial Intelligence-based Cybersecurity - Market Analysis, Trends, and Forecasts\" report has been added to ResearchAndMarkets.com's offering. Artificial Intelligence-based Cybersecurity market worldwide is projected to ..."
-    publishedDateTime: 2020-02-21T11:11:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200221005189/en/Global-Artificial-Intelligence-based-Cybersecurity-Market-Analysis-Trends"
+  - title: "Automotive Recognition System Market Share Industry Size Growth Forecast 2019-2024"
+    excerpt: "By Product: Hand/Leg/Finger Print Recognition, Face Recognition, Vision/Eye Recognition. By Application: Multimedia, Lightings, Others. The study clearly reveals that the \"Automotive Recognition System .\" industry has attained remarkable growth since 2019-2024. This research report is prepared based on an in-depth analysis of the market by experts."
+    publishedDateTime: 2020-02-25T16:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-recognition-system-market-share-industry-size-growth-forecast-2019-2024-2020-02-25"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 10
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
     images:
-      - url: "https://mms.businesswire.com/media/20200221005189/en/371054/23/ResearchAndMarkets_800px.jpg"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 627
+        height: 630
+  - title: "Image Recognition Software Market is Booming Worldwide with Qualcomm Technologies, Microsoft, IBM, Google"
+    excerpt: "This intelligence report provides a comprehensive analysis of the Global Image Recognition Software Market. This includes Investigation of past progress, ongoing market scenarios, and future prospects."
+    publishedDateTime: 2020-02-21T16:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/image-recognition-software-market-is-booming-worldwide-with-qualcomm-technologies-microsoft-ibm-google-2020-02-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
 
 secured: "wekiLGBJB1mJVvE2/L+4QVGP9t6JPEczHtUgWUbL5G+Gkfe2j5FKeJQk90bfCz6dwS1Z4nC28J7cwZY5SYziLjh5Z6uaLYHuOijNoU6hiwVhXYbgC4ZGd1497KsuSQM3OFxXyfdNqOYs6V9+WJ2PVeYzUrqNWEeelznpmbqlKb6mgB/xkY8jrnpktxR+2EKAGFhkZ79MtZZInpmy9IdBw+IV40JkR8Rcbpy4nHtV1ADCF7w613sHDzeAT0ZjQK7khOkgLSORowrgEs8h9vCGYsGUCz2Szxw9ST+SUUTdvDV6kewCJxWjLdW3uGTrry6F;R0PNWa3pdYbpvEBtQdxgdA=="
 ---

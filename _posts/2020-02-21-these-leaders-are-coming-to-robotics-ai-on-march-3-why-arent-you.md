@@ -45,6 +45,21 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/02/robot_header_final.png?w=1024"
         width: 1024
         height: 562
+  - title: "Announcing the TC Pitch Night: Robotics + AI startups"
+    excerpt: "The night before the Robotics + AI event at UC Berkeley, TechCrunch is hosting a private Pitch Night, featuring innovative startups in robotics and artificial intelligence. After reviewing hundreds of applications, TechCrunch selected the early-stage startups below to pitch in front of industry executives, TC writers and our expert panel of ..."
+    publishedDateTime: 2020-02-25T17:44:00Z
+    webUrl: "https://techcrunch.com/2020/02/25/announcing-the-tc-pitch-night-robotics-ai-startups/"
+    ampWebUrl: "https://techcrunch.com/2020/02/25/announcing-the-tc-pitch-night-robotics-ai-startups/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/25/announcing-the-tc-pitch-night-robotics-ai-startups/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 119
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2019/09/tc_sessions_roboticsai_2020_466x269-2.png?w=1024"
+        width: 1024
+        height: 590
   - title: "A team of Imagineers will discuss Disney’s tech breakthroughs at TC Sessions: Robotics + AI, March 3 at UC Berkeley"
     excerpt: "With TC Sessions: Robotics + AI 2020 a little over a week away, you likely thought we were finished with our big announcements. Understandably. We have top executives from Amazon and Toyota Research, and some of the hottest startups and biggest VCs. But there’s still some excitement left to announce. On March 3, Disney will be returning to ..."
     publishedDateTime: 2020-02-24T21:12:00Z

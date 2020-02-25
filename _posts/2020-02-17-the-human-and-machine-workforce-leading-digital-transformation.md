@@ -60,6 +60,21 @@ related:
       - url: "https://s.marketwatch.com/public/resources/images/MW-HZ996_0220_b_ZH_20200210144803.jpg"
         width: 890
         height: 501
+  - title: "How Artificial Intelligence and Deep Learning Are Transforming Healthcare"
+    excerpt: "It’s treatable while infants weigh less than two pounds, but doctors often struggle to detect the condition in time, says Santosh Rao, head of the artificial intelligence ... and DL-based diagnostics could provide a powerful augmentation, Rao says. “Our healthcare customers are starting to see the ability to spot cancer in earlier stages ..."
+    publishedDateTime: 2020-02-17T18:10:00Z
+    webUrl: "https://healthtechmagazine.net/article/2020/02/how-artificial-intelligence-and-deep-learning-are-transforming-healthcare"
+    ampWebUrl: "https://healthtechmagazine.net/article/2020/02/how-artificial-intelligence-and-deep-learning-are-transforming-healthcare?amp"
+    cdnAmpWebUrl: "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2020/02/how-artificial-intelligence-and-deep-learning-are-transforming-healthcare?amp"
+    type: article
+    provider:
+      name: HealthTech
+      domain: healthtechmagazine.net
+    quality: 73
+    images:
+      - url: "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202002/20200217_HT_Web_Partner-Content_NetApp.jpg?itok=U84MmvD3"
+        width: 1440
+        height: 500
   - title: "Would you tell secrets to Alexa or Siri? How AI therapists could save you time and money on mental health care"
     excerpt: "People reveal more personal and intimate details to human-like apps and bots that can ‘sense’ emotions and concerns."
     publishedDateTime: 2020-02-19T17:27:00Z

@@ -2,20 +2,26 @@
 category: news
 title: "The Business Use of Artificial Intelligence Course (Dubai, United Arab Emirates - April 8-9, 2020) - ResearchAndMarkets.com"
 excerpt: "Organizations today are applying artificial intelligence capabilities to a wide variety of uses especially in operations ... Jobs change dramatically, current skill become obsolete and displaced, there may exist resistance to change and unrealistic fear of robots taking over as well as other aspects of automation. This was true when automation ..."
-publishedDateTime: 2020-02-25T13:41:00Z
-webUrl: "https://www.oaoa.com/news/business/article_638f00ed-10ff-54bb-86d3-4566979ca02d.html"
+publishedDateTime: 2020-02-25T10:59:00Z
+webUrl: "https://www.pressofatlanticcity.com/business/the-business-use-of-artificial-intelligence-course-dubai-united-arab/article_38b8b781-e406-5371-b280-77f275f26cd8.html"
 type: article
-quality: 8
+quality: 28
 heat: -1
 published: false
 
 provider:
-  name: Odessa American
-  domain: oaoa.com
+  name: The Press of Atlantic City
+  domain: pressofatlanticcity.com
 
 topics:
   - AI
   - AI in Robotics
+
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/pressofatlanticcity.com/content/tncms/custom/image/bae1e730-3e34-11e6-9bc5-8f83ee7a0e54.jpg"
+    width: 1200
+    height: 630
+    title: "The Business Use of Artificial Intelligence Course (Dubai, United Arab Emirates - April 8-9, 2020) - ResearchAndMarkets.com"
 
 related:
   - title: "Artificial Intelligence, Robotics, Drones Drive Opportunities to Transform the Oil & Gas Sector - 2019 - ResearchAndMarkets.com"
@@ -45,6 +51,6 @@ related:
         width: 1200
         height: 627
 
-secured: "/30nptDgTP7a6FJeWSbmQBXnkvBa+eG07ZAAWUVTHcWSvpbAEg7Fa8rZQyGNi2pTatTVUPcJmy2KNtyxf0juDXvAvksnkdK+u+TBG3P8B47GcR/Fkx5ysDDGEx3a/ujIiRg0VOtTqe7gbDg6xeNXa9wPDaHiv1xV0243Ou2EWKfom/GIIAdKFEpnLXMDgTh2MUD9m7FxgyOUlTE9ejIQ5iJaf0HsWlGP+SxSDjtpK76alIQQZAvuKbl99aH99QMtBgnc3KQIU/XyOTgkI7VO+sqSqlDwTSkOPXkk4KSKOKwzhP+FKyJAYXx0cuuJ9bLb;jkFOkXQBBsYY1P1fiqKYMQ=="
+secured: "X48N8CSs+PZ9QzxktZM71tniT2TjXFdKo93Ng6rzM1ZPeIRcm86/o/79nAGWmg/5yFXEX/eeaIRRXbAuAF1+CyYdWEAUjPqkv872YArjNwgwbgZxON4Bt99CV7fswFMcjYqkKQTonVDZn+rnBntKTTG8DMFrn0aOQ9U6mbYq487/OjdaP6d9F5B+tGu+xuKvp3yajuOrLlwKY6jJzBB3k8L+q3QsXEsSa7F16PLigQnymfiNzFtXqbkcawUtqPQwtdpnQqZUkLVm85mTJgHDzm2a7xG3whBhDocc9DOoO/FEJzMu2feNUxhcZ4xrYzq+;yqO3605qvKDWNuKN2MRfwQ=="
 ---
 

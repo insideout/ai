@@ -28,67 +28,32 @@ images:
     title: "Artificial Intelligence In Energy Market Size, Trend, Competitive Growth Overview and Forecast to 2025"
 
 related:
-  - title: "Global Machine Learning Market Trends And Forecast 2020-2029| Google Inc., Baidu Inc and Amazon Web Services Inc"
-    excerpt: "Feb 25, 2020 (WiredRelease via COMTEX) -- Global Machine Learning Market (Revenue and Volume), Type, Application, End-User, and Regional Analysis, Import-Export Analysis, Industry Analysis, Premium Insights, Intellectual Property Analysis, Market Attractiveness, Competitive Landscape, Traders/Distributors, Key Buyers, Forecasts 2020 – 2029 ..."
-    publishedDateTime: 2020-02-25T13:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-market-trends-and-forecast-2020-2029-google-inc-baidu-inc-and-amazon-web-services-inc-2020-02-25?mod=mw_quote_news"
+  - title: "Natural Language Processing Market: Key and Forecast Predictions Presented Until 2029"
+    excerpt: "The increasing use of Natural Language Processing in healthcare and call centers, rising demand for advanced text analytics are some major factor drives the target market growth. Additionally, growing uses of smart device,"
+    publishedDateTime: 2020-02-14T05:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-key-and-forecast-predictions-presented-until-2029-2020-02-14"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 65
+    quality: 62
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Global Automatic Speech Recognition Software Market Innovations, And Top Companies - Forecast To 2029| Baidu, Google and Facebook"
-    excerpt: "Global Automatic Speech Recognition Software Market (Revenue and Volume), Type, Application, End-User, and Regional Analysis, Import-Export Analysis, Industry Analysis, Premium Insights, Intellectual Property Analysis,"
-    publishedDateTime: 2020-02-24T12:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-automatic-speech-recognition-software-market-innovations-and-top-companies---forecast-to-2029-baidu-google-and-facebook-2020-02-24"
+  - title: "Natural Language Processing (NLP) Market: Future Forecast Indicates Impressive Growth Rate until 2027"
+    excerpt: "ARC added latest research on \"Natural Language Processing (NLP) Market Forecast to 2027\" to its huge collection of research reports database. Natural Language Processing (NLP) market on in-depth analysis market analysis size,"
+    publishedDateTime: 2020-02-14T10:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-future-forecast-indicates-impressive-growth-rate-until-2027-2020-02-14"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 55
+    quality: 54
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Global Automatic Speech Recognition Market Attractiveness, Competitive Landscape and Forecasts to 2025"
-    excerpt: "The report on Automatic Speech Recognition market refers to 2020 as the base year to procure information pertaining to historical data, and extends a holistic data compilation stretching until 2025 for future prospects."
-    publishedDateTime: 2020-02-21T09:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-automatic-speech-recognition-market-attractiveness-competitive-landscape-and-forecasts-to-2025-2020-02-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Global Artificial Intelligence in Oil & Gas Market Witness Highest Growth in near future| Intel, Microsoft and IBM Corporation"
-    excerpt: "Global Artificial Intelligence in Oil & Gas Market (Revenue and Volume), Type, Application, End-User, and Regional Analysis, Import-Export Analysis, Industry Analysis, Premium Insights, Intellectual Property Analysis,"
-    publishedDateTime: 2020-02-22T09:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-oil-gas-market-witness-highest-growth-in-near-future-intel-microsoft-and-ibm-corporation-2020-02-22?mod=mw_quote_news"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 19
-  - title: "Global Artificial Intelligence-based Cybersecurity Market Analysis, Trends, and Forecasts 2020-2025 - ResearchAndMarkets.com"
-    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Artificial Intelligence-based Cybersecurity - Market Analysis, Trends, and Forecasts\" report has been added to ResearchAndMarkets.com's offering. Artificial Intelligence-based Cybersecurity market worldwide is projected to ..."
-    publishedDateTime: 2020-02-21T11:11:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200221005189/en/Global-Artificial-Intelligence-based-Cybersecurity-Market-Analysis-Trends"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 10
-    images:
-      - url: "https://mms.businesswire.com/media/20200221005189/en/371054/23/ResearchAndMarkets_800px.jpg"
-        width: 1200
-        height: 627
 
 secured: "h3prGAO+gNC+/KraXniPNgpDjf7BO1WA/SpuNFj/drVTDa0zIVSLSz1bh4x37Xv093RA9ggTDhwTb31rvNegg6PyVbylkchXh6xzf6trHJ5mwwjoBnEux2UiMbBuo0c0FasP+LWxO/NJTUitNo8Fehvb3EiaLy/DnTDXtVa2Th10pQUxzUoawwsBOeRsYz1KibiSeJjbUiaOz+T4B+gjNegR46XzccFX5ihM41AlVMgw77Fw1dxl69OjHY4wLAxBEjrYLNXvDo0hOX9jR4/MDgpzwFGxiQ0VBcvKmbKA767oUlUBQ7VnSeedbDeBVotm;kWGHWUJm/iAsGNynHfjcDQ=="
 ---

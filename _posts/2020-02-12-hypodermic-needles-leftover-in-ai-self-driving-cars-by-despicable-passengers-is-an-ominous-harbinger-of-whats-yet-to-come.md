@@ -45,21 +45,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F664664484%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D7000%26cropY1%3D166%26cropY2%3D4831"
         width: 1200
         height: 800
-  - title: "Virginia's first electric, self-driving bus is coming to Fairfax"
-    excerpt: "FAIRFAX, Va. — Cars are one of the biggest sources of carbon emissions today. If more people use public transportation, these emissions will be reduced drastically. In a partnership with Dominion Energy, Fairfax County is slated to get the first electric, autonomous shuttle bus in Virginia. This method of transportation, called Relay, will ..."
-    publishedDateTime: 2020-02-18T22:37:00Z
-    webUrl: "https://www.wusa9.com/article/entertainment/television/programs/great-day-washington/virginias-first-electric-self-driving-bus-is-coming-to-fairfax/65-5208efe3-ae61-4f6a-adf1-b4517da774ff"
-    ampWebUrl: "https://www.wusa9.com/amp/article/entertainment/television/programs/great-day-washington/virginias-first-electric-self-driving-bus-is-coming-to-fairfax/65-5208efe3-ae61-4f6a-adf1-b4517da774ff"
-    cdnAmpWebUrl: "https://www-wusa9-com.cdn.ampproject.org/c/s/www.wusa9.com/amp/article/entertainment/television/programs/great-day-washington/virginias-first-electric-self-driving-bus-is-coming-to-fairfax/65-5208efe3-ae61-4f6a-adf1-b4517da774ff"
-    type: article
-    provider:
-      name: WUSA9
-      domain: wusa9.com
-    quality: 59
-    images:
-      - url: "https://media.wusa9.com/assets/WUSA/images/459402d0-fcad-4cae-b224-c7fc7973a985/459402d0-fcad-4cae-b224-c7fc7973a985_360x203.jpg"
-        width: 361
-        height: 203
 
 secured: "TG1aStCdYZMiNfSgQ/EkA4z9N/YyjSOL3TBd3SEovyZyLB01HGbhjJlPp9H0+YgfiLPWf2esoyLHJKRba/JY1etUMDEcnoPs5diFVDq09+0gH0PaDg9oHRgfT5aIVWDPLGwMGlzKSf7LWt4AWKkn026IsLcIpyvr2S0AxIBCWseyigTAiJKSf0RaDgcDO1PExfU4BxIrhL65pEKmQvbcyvYjTIZsLxF0JGmenaQJbkzveYsQlYbmdBjNdOixt7u/Vk48eydqlycxuq8YcnC/aGQ6IHUDQ0YAGtThf7W/I6WXt1YU7OChw6JRl2UcKUTLBsax+dyvirDFsB2hwiyxGfP9mCMJ45GMMPvg7ilVgEPu1LD/fRB2Dt7EJ0fASBv3XjBuH0rUEomB1zMZZ+0+SffM+Kw7g4soaKG2fOEOpnqEgGW+7IxSSX7xaiZuC5l7oh2DBvT2SVgO0MibXqxTsQDv78vYCs0AKXsYbtB8PTQ=;KJSbU0ngANsycEpRYEY2Mg=="
 ---

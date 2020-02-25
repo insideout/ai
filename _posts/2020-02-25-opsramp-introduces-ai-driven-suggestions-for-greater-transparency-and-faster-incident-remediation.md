@@ -1,24 +1,28 @@
 ---
 category: news
 title: "OpsRamp Introduces AI-Driven Suggestions for Greater Transparency and Faster Incident Remediation"
-excerpt: "SAN JOSE, Calif., Feb. 25, 2020 (GLOBE NEWSWIRE) -- OpsRamp, a modern SaaS platform for hybrid infrastructure discovery, monitoring, management, and automation, today announced OpsQ Recommend Mode, an industry-leading capability for first-response and incident remediation."
-publishedDateTime: 2020-02-25T08:00:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/02/g15401245/opsramp-introduces-ai-driven-suggestions-for-greater-transparency-and-faster-incident-remediation"
-ampWebUrl: "https://amp.benzinga.com/amp/content/15401245"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15401245"
+excerpt: "In addition to AWS cloud topology maps, OpsRamp now offers automated topology discovery and mapping for Azure and GCP. IT teams can apply cloud topology maps to analyze the impact of changes in their multi-cloud environments. Cloud topology is also applied in OpsQ’s event correlation engine to increase the accuracy of machine learning models."
+publishedDateTime: 2020-02-25T15:48:00Z
+webUrl: "https://www.tmcnet.com/usubmit/-opsramp-introduces-ai-driven-suggestions-greater-transparency-faster-/2020/02/25/9103398.htm"
 type: article
 quality: 26
 heat: 26
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
   - Microsoft AI
 
-secured: "0rEXKfT1ZjM6qsm16lAGlB/Cn/4XDYJ1U4W3obywv7vFxIfEs3TNdP0GBxsHa7gVsbMK4o148tEjzL+0FqZRq+dydna5Dx+aFVMW/cJ7MYRmye7dsRm7n/EAV0UB8kYJPE1OIwB58FabpZsCXXRyE3Z7UqgakJ7bu8Ni0JBpyiQrVCJuKr8djpibzY60hcsJ4nV63hMzSGoSTTkrT/1/ckCeF2byPVFbm3vRQDYN8Oz/ZG9azB3Cqo+p09emgryiAmxkg9AvbO6HifSXCAHbVUQIpFVcV45ybEJ1iS0J+GRLcbITQzcGvKRmrKt5KfBE;tSbXq73OyJ4IuNV/XfriJQ=="
+images:
+  - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
+    width: 252
+    height: 335
+    title: "OpsRamp Introduces AI-Driven Suggestions for Greater Transparency and Faster Incident Remediation"
+
+secured: "/PcvGX80Y0/bWAkm+rm6pRABPyoqmk/6U4aY0qmaoO565R+6rR4lV1ng5Cn25Ef8iUjFualjHml3ofBrERw3WnrrG2mCoTwRyWryLLKhDxwWNdtXTzAiqZHibfR6yOz+Le3MvcIN3nxpoc1eaZCfvwtSdi/kf11g+kuAV/WqTHBs364siKz4RQ2nx8Qjj2v6qSwOzKdzEBXc5L/HkIchrCuTBVsBMUqezhY+YoMkZoI+Kl8fWzV0zDkVaAJ8DtNiS52LHe7N/J4APIi+kK520BwUBCfz3Lt3ON9v3MQVcbEw8d0rQFblNVF5RKzOAk0m;VD9jqUTDXMYu8pw4duuUtQ=="
 ---
 

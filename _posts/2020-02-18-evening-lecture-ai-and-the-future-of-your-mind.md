@@ -23,15 +23,43 @@ images:
     title: "Evening lecture: AI and the future of your mind"
 
 related:
-  - title: "AI, the Transcription Economy, and the Future of Work"
-    excerpt: "Since Rev charged customers a flat rate of $1 per audio minute—less than half what transcription firms historically charged—Gabriel's pay sank even further. On top of it all, AI started nipping away at the industry, with machines now able to rapidly transcribe some audio as well as humans do. Today Gabriel clears $12 an hour—if he's lucky."
-    publishedDateTime: 2020-02-18T11:00:00Z
-    webUrl: "https://www.wired.com/story/ai-transcription-economy-future-of-work/"
+  - title: "The future of AI journalism is less hyperbole and smarter readers"
+    excerpt: "In it, he discusses the 2017 hype-explosion surrounding Facebook’s AI research lab developing a pair of chat bots that created a short-hand language for negotiating. In reality, the chat bots’ behavior was remarkable but not entirely unexpected. Unfortunately the media at-large covered the interesting event as though SKYNET from the ..."
+    publishedDateTime: 2020-02-25T17:40:00Z
+    webUrl: "https://thenextweb.com/neural/2020/02/25/the-future-of-ai-journalism-is-less-hyperbole-and-smarter-readers/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/02/25/the-future-of-ai-journalism-is-less-hyperbole-and-smarter-readers/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/25/the-future-of-ai-journalism-is-less-hyperbole-and-smarter-readers/amp/"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 47
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 89
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2017/05/3061093760_b92f06b7ba_o-796x531.jpg"
+        width: 796
+        height: 531
+  - title: "Artificial Intelligence and Modern Journalism"
+    excerpt: "By searching through data in real-time and extracting information based on requested categories, such as events, people, location and dates, “Editor” can make information more accessible, simplifying the research process and providing ... In 2016, The Guardian implemented an AI solution using Facebook’s product which allows users to ..."
+    publishedDateTime: 2020-02-21T20:47:00Z
+    webUrl: "https://dailytimes.com.pk/562326/artificial-intelligence-and-modern-journalism/"
+    ampWebUrl: "https://dailytimes.com.pk/562326/artificial-intelligence-and-modern-journalism/amp/"
+    cdnAmpWebUrl: "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/562326/artificial-intelligence-and-modern-journalism/amp/"
+    type: article
+    provider:
+      name: Daily Times
+      domain: dailytimes.com.pk
+    quality: 41
+  - title: "The Future Scope and Career of Artificial Intelligence"
+    excerpt: "Human-made intelligence will likewise altogether diminish the likelihood of human mistake ... Individuals will have more opportunity to learn, test and investigate. 3. Health care and Medicine Health care administrations will be better at diagnostics because an AI wearable can screen clients every minute of every day. Human-made reasoning ..."
+    publishedDateTime: 2020-02-25T07:16:00Z
+    webUrl: "https://yourstory.com/mystory/future-scope-career-artificial-intelligence"
+    ampWebUrl: "https://yourstory.com/mystory/future-scope-career-artificial-intelligence/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/mystory/future-scope-career-artificial-intelligence/amp"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 41
 
 secured: "NrzrgKxYzHZSuKu+QeI3qIwv+nQD2gQ/hhpcZPElFEIifFRlrF5UcBSABcanUpYrreqFsLB0BJ4KUKENtdBXr5zpF7OCSvD0vI8AjGOUjXFoXL7q1cYwHxoyi5AV9xJrxaNSK2+6YUjibjVx/iGW5dOmbWbiDCVejDVHzsq2fsifwWWSvAcSmXJsv31J/kB0Ykao9pBcAkq6x00WV1v7k3IqT15XaKZfv5bL6SCPy5qiPBEMktD1aqmucyfMbu2jnSFnU788Vtu57i1+k91wfpqhM6RPFrMkA9BCkSLwVbbu9F8wRQpgwSOO+5hUXzyIOfZeuuVz1fJIs+To3N+Mg1MMsyN69qNUwver2BYy2QLjoWGyGQr24YXwp7EnUUWGGcEb5vzLha5E/LREJDUwkcEJ+ffKaPF7JQID6hhfzmM9cQzARAB+hDSomKkUNWBpyeG+X7VB/tDagWWTzZJ5I4kAyEg90ModNC4IfWrs3yc=;BRsALZElMsnnH37EpWDJ0g=="
 ---

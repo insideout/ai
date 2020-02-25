@@ -54,6 +54,19 @@ related:
       - url: "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202002/20200218_HT_Web_MonITor_5G-in-Healthcare.jpg?itok=vkBOUNjS"
         width: 1440
         height: 500
+  - title: "AI in healthcare: What's science and what's fiction"
+    excerpt: "Artificial intelligence has fueled our imagination ever since the term was first ... Combining all these elements reliably and for the benefit of patients isn’t a job for one company alone: In healthcare, we’re dealing with the life and hopes of patients and their families. Algorithms can’t do the job without the extensive expertise ..."
+    publishedDateTime: 2020-02-17T17:49:00Z
+    webUrl: "https://www.linkedin.com/pulse/ai-healthcare-whats-science-fiction-bernd-montag"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 58
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQE4n5iQNbuFHA/article-cover_image-shrink_720_1280/0?e=1587600000&v=beta&t=wcizOYOgfHFN8sdPEi5AGZRImgPTyUbslbQ7-IrlUUY"
+        width: 959
+        height: 720
   - title: "The Potential of AI in the Healthcare Supply Chain"
     excerpt: "There’s no shortage of enthusiasm — or predictions — about the potential use of artificial intelligence (AI ... that 2020 is the year executives will focus on how to drive and measure the value of their investments in AI. Healthcare is no exception. A recent survey of healthcare executives conducted by Optum found that not only is ..."
     publishedDateTime: 2020-02-24T15:53:00Z

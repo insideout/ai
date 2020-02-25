@@ -131,6 +131,19 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 45
+  - title: "Data Science and Machine Learning Service Market 2020-2024 : Global Growth Drivers, Opportunities, Trends, And Forecasts"
+    excerpt: "nbsp; Data Science and Machine Learning Service Market 2020 Description: - It analyses the market situation"
+    publishedDateTime: 2020-02-25T09:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/data-science-and-machine-learning-service-market-2020-2024-global-growth-drivers-opportunities-trends-and-forecasts-2020-02-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Europe 3D Sensor Market Size 2020, Regional Analysis, Key Players, Growth Drivers and Industry Challenges 2025"
     excerpt: "D sensor market is growing due to its application in various end user industries such as consumer electronics, automobile, healthcare and others. Global 3D Sensor Market is valued at USD 1537.61 Million in 2018 and expected to reach USD 7221."
     publishedDateTime: 2020-02-24T09:52:00Z
@@ -210,6 +223,19 @@ related:
       name: PR
       domain: pr.com
     quality: 0
+  - title: "Global Enterprise Artificial Intelligence Market Expected to Grow with a CAGR of 35.4% Over the Forecast Period, 2019-2026 - ResearchAndMarkets.com"
+    excerpt: "The \"Enterprise Artificial Intelligence Market: Global Opportunity Analysis And Industry Forecast, 2019-2026\" report has been added to ResearchAndMarkets.com's offering. According to this report, the global enterprise artificial intelligence market was valued at $4.68 billion in 2018, and is projected to reach $53.06 billion by 2026 ..."
+    publishedDateTime: 2020-02-25T14:12:00Z
+    webUrl: "https://www.pressofatlanticcity.com/business/global-enterprise-artificial-intelligence-market-expected-to-grow-with-a/article_2156e82c-3056-57e4-bc00-ce8f14284744.html"
+    type: article
+    provider:
+      name: The Press of Atlantic City
+      domain: pressofatlanticcity.com
+    quality: 0
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/pressofatlanticcity.com/content/tncms/custom/image/bae1e730-3e34-11e6-9bc5-8f83ee7a0e54.jpg"
+        width: 1200
+        height: 630
 
 secured: "yYNZiAbhqEvIazcBz4yVEoDm5GNkMHwBLNuq1Vvfzof15EJ/wjVrt5N5TCg3gmE3RzOiuwjhikwFcYp9dd9vD3GnmQOpHi62+yQ50bkujMcFv3YvX14MUxUJM/8GH/7MJ5A2VEAd5knjo2T4am0a9Sj1svOZkoxPEXhEcMbGBSRzEjM966VnxmeZeGG02D4L0QWVdHPpNVEYs+iJJIUD1foYZCE19yv7P8jd9qmoxEGaMzDFfCeMXZpXXxae/aXwFWDxhZBVfUq+j5C6DnrdeKqFXNI3/q9L/nVEGPHKXhM+PxvJG0pL67kDKRDtr85j;804CPT+/NkSVlBZyS/B1nQ=="
 ---

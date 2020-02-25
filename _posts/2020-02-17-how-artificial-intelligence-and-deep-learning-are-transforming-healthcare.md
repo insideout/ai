@@ -26,49 +26,81 @@ images:
     title: "How Artificial Intelligence and Deep Learning Are Transforming Healthcare"
 
 related:
-  - title: "Three Ways AI And ML Are Making A Difference In Healthcare Behind The Scenes"
-    excerpt: "AI and ML are revolutionizing many healthcare processes that, although not medical in nature, directly affect provider efficiency and productivity — as well as the patient experience."
-    publishedDateTime: 2020-02-11T00:02:00Z
-    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2020/02/10/three-ways-ai-and-ml-are-making-a-difference-in-healthcare-behind-the-scenes/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2020/02/10/three-ways-ai-and-ml-are-making-a-difference-in-healthcare-behind-the-scenes/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2020/02/10/three-ways-ai-and-ml-are-making-a-difference-in-healthcare-behind-the-scenes/amp/"
+  - title: "How AI ‘therapists’ and machine learning could be the answer to affordable mental health care"
+    excerpt: "People reveal more personal and intimate details to human-like apps and bots that can ‘sense’ emotions and concerns."
+    publishedDateTime: 2020-02-18T20:36:00Z
+    webUrl: "https://www.marketwatch.com/story/how-ai-therapists-could-shrink-the-cost-of-mental-health-2020-02-18"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/guid/9588DA02-525D-11EA-B5C7-52AF3B60D99D"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/guid/9588DA02-525D-11EA-B5C7-52AF3B60D99D"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 99
+    images:
+      - url: "https://s.marketwatch.com/public/resources/images/MW-HZ996_0220_b_ZH_20200210144803.jpg"
+        width: 890
+        height: 501
+  - title: "How AI ‘therapists’ could shrink the cost of mental health"
+    excerpt: "Moreover, for therapy-resistant people, virtual therapists present a unique solution ... David Luxton, a clinical psychologist and an authority on the ethics of artificial intelligence in behavioral- and mental-health care, is concerned about these questions and more. “Who is controlling the technology?” he says. “I would be reluctant ..."
+    publishedDateTime: 2020-02-18T17:07:00Z
+    webUrl: "https://www.marketwatch.com/story/how-ai-therapists-could-shrink-the-cost-of-mental-health-2020-02-18?siteid=bigcharts&dist=bigcharts"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/guid/9588DA02-525D-11EA-B5C7-52AF3B60D99D"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/guid/9588DA02-525D-11EA-B5C7-52AF3B60D99D"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 91
+    images:
+      - url: "https://s.marketwatch.com/public/resources/images/MW-HZ996_0220_b_ZH_20200210144803.jpg"
+        width: 890
+        height: 501
+  - title: "The Human And Machine Workforce Leading Digital Transformation"
+    excerpt: "Human and Machine partnerships will be about augmenting human potential to make people more productive and customer experiences better. A look at how augmenting humans will drive the next wave of digital transformation."
+    publishedDateTime: 2020-02-17T16:19:00Z
+    webUrl: "https://www.forbes.com/sites/danielnewman/2020/02/17/the-human-and-machine-workforce-leading-digital-transformation/"
+    ampWebUrl: "https://www.forbes.com/sites/danielnewman/2020/02/17/the-human-and-machine-workforce-leading-digital-transformation/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2020/02/17/the-human-and-machine-workforce-leading-digital-transformation/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 101
+    quality: 74
     images:
-      - url: "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1199231029/960x0.jpg?fit=scale"
-        width: 711
-        height: 474
-  - title: "Healthcare Algorithms Are Biased, and the Results Can Be Deadly"
-    excerpt: "And the Alliance for Artificial Intelligence in Healthcare, a nonprofit organization founded in December 2018, brings together developers, device manufacturers, researchers, and other professionals to advance the safe and fair use of AI in medicine. Some organizations have started baking inclusivity and fairness into the data-gathering process ..."
-    publishedDateTime: 2020-02-12T21:44:00Z
-    webUrl: "https://uk.pcmag.com/news-analysis/124621/healthcare-algorithms-are-biased-and-the-results-can-be-deadly"
-    ampWebUrl: "https://uk.pcmag.com/news-analysis/124621/healthcare-algorithms-are-biased-and-the-results-can-be-deadly?amp=1"
-    cdnAmpWebUrl: "https://uk-pcmag-com.cdn.ampproject.org/c/s/uk.pcmag.com/news-analysis/124621/healthcare-algorithms-are-biased-and-the-results-can-be-deadly?amp=1"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1071760110%2F0x0.jpg"
+        width: 1200
+        height: 800
+  - title: "Would you tell secrets to Alexa or Siri? How AI therapists could save you time and money on mental health care"
+    excerpt: "People reveal more personal and intimate details to human-like apps and bots that can ‘sense’ emotions and concerns."
+    publishedDateTime: 2020-02-19T17:27:00Z
+    webUrl: "https://www.marketwatch.com/story/how-ai-therapists-could-shrink-the-cost-of-mental-health-2020-02-18"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/guid/9588DA02-525D-11EA-B5C7-52AF3B60D99D"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/guid/9588DA02-525D-11EA-B5C7-52AF3B60D99D"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 89
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 71
     images:
-      - url: "https://sm.pcmag.com/t/pcmag_uk/news/h/healthcare/healthcare-algorithms-are-biased-and-the-results-can-be-dead_3kzk.620.jpg"
-        width: 620
-        height: 348
-  - title: "AI in healthcare: What's science and what's fiction"
-    excerpt: "Artificial intelligence has fueled our imagination ever since the term was first ... Combining all these elements reliably and for the benefit of patients isn’t a job for one company alone: In healthcare, we’re dealing with the life and hopes of patients and their families. Algorithms can’t do the job without the extensive expertise ..."
-    publishedDateTime: 2020-02-17T17:49:00Z
-    webUrl: "https://www.linkedin.com/pulse/ai-healthcare-whats-science-fiction-bernd-montag"
+      - url: "https://s.marketwatch.com/public/resources/images/MW-IA504_depres_MG_20200219114711.jpg"
+        width: 569
+        height: 398
+  - title: "Would you tell your innermost secrets to Alexa? How AI therapists could save you time and money on mental health care"
+    excerpt: "People reveal more personal and intimate details to human-like apps and bots that can ‘sense’ emotions and concerns."
+    publishedDateTime: 2020-02-20T16:34:00Z
+    webUrl: "https://www.marketwatch.com/story/how-ai-therapists-could-shrink-the-cost-of-mental-health-2020-02-18"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/guid/9588DA02-525D-11EA-B5C7-52AF3B60D99D"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/guid/9588DA02-525D-11EA-B5C7-52AF3B60D99D"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 58
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 68
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQE4n5iQNbuFHA/article-cover_image-shrink_720_1280/0?e=1587600000&v=beta&t=wcizOYOgfHFN8sdPEi5AGZRImgPTyUbslbQ7-IrlUUY"
-        width: 959
-        height: 720
+      - url: "https://s.marketwatch.com/public/resources/images/MW-IA504_depres_MG_20200219114711.jpg"
+        width: 569
+        height: 398
 
 secured: "jShmyj7fQk3RbsDHZ0ZBGLSLjGGxjtr9xuPXKn47ua8f+ipkAslAQJe467Kk16/U2zMo4El+Et7pfueiipzmmd2UumE4QEASi2RmkLbNJNb29+T9aV1Xarho8h4hg2lOyUIS6U08Ad0UmN4YD7KsfuWgeXG5dnVJb5zSGc12n0mMlGF9AdlkDfPx7HRwllhimOsEMBfGMmINdSR6a9tW64+jnXBs1+eeMofqzRo/mVXMqnvPJ/cbpII1m/XwKzhP7UsP73d9iH5h5gKkPXn/5NM62ZWBgpxoAIiDQkxkMNVU9v6XFX8XXlffhTJ0t+JwD6F/zxBmtMm1GsugATi1WAaHYqpLbIAvYQKGWhh+nzs7dHja4bzkdob4vTBlysOvQmTXI9oMuokvGdl0E2NmAhQvtVnjih+NVzEnLsqdJiSI4jgo0lpEbnXkNmtwp/MUl7Swo9e6WyhSCK2cdYiVW2j3uC5qKOnPiPtrL3Pv2C4=;+FaIgXKfOqpW5inBWUormw=="
 ---

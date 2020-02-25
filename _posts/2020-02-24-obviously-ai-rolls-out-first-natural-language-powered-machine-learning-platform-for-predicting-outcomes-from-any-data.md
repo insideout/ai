@@ -39,6 +39,21 @@ related:
       - url: "https://zdnet3.cbsistatic.com/hub/i/r/2020/02/19/3b6d1b1b-288c-4f2d-9b9d-76593f46fba9/thumbnail/1200x675/aeb3ea6808e22b96d2de0a08c7e48caa/sennheiser-hd-450bt-header.jpg"
         width: 1200
         height: 675
+  - title: "Obviously AI launches natural language ML platform"
+    excerpt: "The company says that to make predictions, it uses natural language processing to break apart a question, interpret it and find the right data. It then runs hundreds of machine learning algorithms in parallel and evaluates each one for accuracy to find the right algorithm for the dataset. It identifies top attributes that impact the outcome ..."
+    publishedDateTime: 2020-02-25T16:14:00Z
+    webUrl: "https://www.research-live.com/article/news/obviously_ai_launches_natural_language_ml_platform/id/5065662"
+    ampWebUrl: "https://www.research-live.com/amp-page.html?id=5065662&name=obviously-ai-launches-natural-language-ml-platform"
+    cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5065662&name=obviously-ai-launches-natural-language-ml-platform"
+    type: article
+    provider:
+      name: research
+      domain: research-live.com
+    quality: 59
+    images:
+      - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
+        width: 1000
+        height: 581
   - title: "Obviously AI Rolls Out Natural Language Platform for Predicting Customer Outcomes"
     excerpt: "To make predictions, Obviously AI uses natural language processing to break apart a question, interpret it, and find the right data. Then it runs hundreds of machine learning algorithms in parallel and evaluates each one for accuracy to find the right ..."
     publishedDateTime: 2020-02-19T15:49:00Z
