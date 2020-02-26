@@ -8,7 +8,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN20J2N6"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN20J2N6"
 type: article
 quality: 74
-heat: 185
+heat: 195
 published: true
 
 provider:
@@ -145,6 +145,19 @@ related:
       name: Leader-Post
       domain: leaderpost.com
     quality: 19
+  - title: "U.S. regulators order self-driving bus operator EasyMile to stop carrying passengers"
+    excerpt: "The company also pointed out that while the NHTSA has ordered EasyMile to stop carrying passengers, its vehicles are still allowed on U.S. roads. The company said this was “a clear indication [the NHTSA] considers them safe for other road users.” EasyMile first announced its self-driving buses were coming to America all the way back in 2015."
+    publishedDateTime: 2020-02-26T12:26:00Z
+    webUrl: "https://www.fastcompany.com/90468423/u-s-regulators-order-self-driving-bus-operator-easymile-to-stop-carrying-passengers?partner=feedburner"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 17
+    images:
+      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/02/p-1-u-s-regulators-order-self-driving-bus-operator-easymile-to-stop-carrying-passengers.jpg"
+        width: 1280
+        height: 720
   - title: "Columbus halts self-driving shuttle pilot program following sudden stop; NHTSA steps in"
     excerpt: "A passenger falling aboard a self-driving shuttle as part of a pilot program in Columbus has put the project on hold less than three weeks after it began. The daily shuttle service in the Linden neighborhood in Columbus, Ohio, was halted after one of the pilot's vehicles made a sudden stop around noon Thursday, Feb. 20. One passenger fell from ..."
     publishedDateTime: 2020-02-25T20:00:00Z
@@ -172,6 +185,6 @@ related:
         width: 792
         height: 416
 
-secured: "ru4j7U6DkX1MS+Q2wbq5Au8wjMBzhPIdfQbLvrirllmJaQaA1AsT1iuTeSPOJMo9bgpyqnZjlKmo4BJQH4UCTfoImcU6ljGwkPUXymAVCmcg2vuv0GY8ND4Spqy1Md5gm2ZJ9gtczbHLMEpCWf363v/ku6SzNkbixCRDzD1ELZKXPujNMb6V6dei5pqiyQns1E6uwv6rs9tBhNaD4rjh85IJpwQWT6i9wCZ/UkFb3/0UUythOY4ibR2MbNElVYDTNho3zg+xtWP8vO6rFXazRtcJGL2AfiiWwpvblJ6Lvz3eNXy+VTx8P62mjIs+M+XLNCyM3sLyG2ntAb8Yjy/lBC4S7fwEPSKsJZZSsOJri+JUXlErXvo2fHeGDruZCLYhctp2gbYdS0cqXaDuoVODV+WqR3ukTuDN2adFYeDs6fNIyj5aBX6fGzuABKlbY6jMKY4II2qLhxDQYVUquL4a6ygsvuaGbouNg0rk10vYLyo=;G//gLSRR0XyE0AGy3+izIg=="
+secured: "Gzv9N1avqreoHJunNWPQ1+rWFipTS96Rz9uVzDVCUxgt4QG4zqfLbk/W9CC+Cxp4ebRKO1II0yfG+9HQjC6ocVYvSgGZcs5Gktg/hLee3CKcLiT44BSWjORBz3wZ1qmyl5f6R0DyqvoPPDgEijAx1PMaYoy9R6TFWJrqGDXUyWzvnVGL+1ve+Iy8v22M6N82BYPL4c68jOCk2YAzFWJjdavN3Mi6K+7Ke1sS231mDEltkx7UK2enX0JrhcSy9PRP0Z2NGYLFDJup1h4xenOtPIK9DSCf7A5u1996tMpGqwxDMjH1RGO4i7DyLfbO6dtj/6yQZ4/BLSCl035LmqzkePDu+5M9DDJ/IHansOX8Y3bvp5TnckVDDtccd8RbRd63xZVVTaXUjigrgQhd+flFm/V1tQBG5Z+0SIZUJ+GRUYbwi0kwzGCCtY1SQqZNHVrHlpimWBl5La7AAEUi9JG3IHNTWhSpQqaSWN6gbc0A0xk=;QCZ8L0qxVfY/qyzeGui52w=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-21T18:00:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-is-projected-to-reach-usd-1699-billion-in-2026-2020-02-21"
 type: article
 quality: 84
-heat: 204
+heat: 214
 published: true
 
 provider:
@@ -53,6 +53,19 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence Market Size Is Expected To Reach USD 390.9 Billion By 2025 : Grand View Research Inc."
+    excerpt: "The global artificial intelligence market size is expected to reach USD 390.9 billion by 2025, according to a new report by Grand View Research, Inc. The market is anticipated to expand at a CAGR of 46."
+    publishedDateTime: 2020-02-26T12:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-is-expected-to-reach-usd-3909-billion-by-2025-grand-view-research-inc-2020-02-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

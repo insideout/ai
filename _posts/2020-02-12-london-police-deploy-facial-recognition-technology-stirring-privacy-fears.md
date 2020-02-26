@@ -78,15 +78,6 @@ related:
       - url: "https://www.gamepur.com/wp-content/uploads/2020/02/Pokemon-HOME-mystery-gifts.jpg"
         width: 1200
         height: 675
-  - title: "Met police deploy live facial recognition technology"
-    excerpt: "Cameras used at east London shopping centre despite experts warning against them"
-    publishedDateTime: 2020-02-11T19:20:00Z
-    webUrl: "https://www.theguardian.com/uk-news/2020/feb/11/met-police-deploy-live-facial-recognition-technology"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 19
   - title: "Public Perception of Facial Recognition Technologies - a four countries study"
     excerpt: "Facial recognition technology (FRT) – which seeks to match people from a digital image or video with various identifying attributes – is increasingly commonplace in everyday life. The wide and quickly spreading application of the technology has become the subject of increased debate. On the one hand, #FRT is seen as a potentially powerful ..."
     publishedDateTime: 2020-02-12T19:35:00Z

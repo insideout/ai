@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-20T19:00:00Z
 webUrl: "https://www.prnewswire.com/news-releases/cybermdx-announces-integration-with-microsoft-azure-security-center-for-iot-301008578.html"
 type: article
 quality: 52
-heat: 112
+heat: 102
 published: true
 
 provider:
@@ -81,15 +81,6 @@ related:
       name: The Financial Express
       domain: financialexpress.com
     quality: 34
-  - title: "The new collaboration is designed to enhance the cybersecurity capabilities of Azure Security Center for IoT customers."
-    excerpt: "Azure Security Center for IoT extends customers' existing ... with dual detection capabilities of both Microsoft Threat Intelligence and Firedome's machine learning, cloud-based AI engine. The combined solution provides dynamic, end-to-end cybersecurity ..."
-    publishedDateTime: 2020-02-22T01:31:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/firedome-announces-integration-with-microsoft-azure-security-center-for-iot/article_9fd4db82-0673-50af-bd2b-78c981cc8039.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 0
 
 secured: "O9rWmRDfljc/nj9RZn1vUTL1GvgIjTVlY1XbTYqxLsodFsWY5p+RUiB1i2Kpj/IMS/f8jasogfiL8YXY0zfnoAISU0zdGvN1/8x8EUnzZwcFYFmC85fnbjNZ3aSTiEkACzWkg8kA2E3RuO2/n2TyFc3G+C1FXQE0bHcNP/+bR/sovD6AV+1So8PJldJhLSJq6X/oM56vVjgkFiGKR3naFzgzNea/lBogGYHndqWlAAQ/dczeaEF4cvy7nOZInVN+o9LbrWcV/QZT5VmFWlHVZYgOTmtPHdvAAZDek04ed5AvKhlCBgf4s91ICwUxBMd7;ZcuvUs6eHxIcMNA/w4YwpQ=="
 ---

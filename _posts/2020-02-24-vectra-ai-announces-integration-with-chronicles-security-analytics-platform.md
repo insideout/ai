@@ -80,15 +80,6 @@ related:
       name: The Financial Express
       domain: financialexpress.com
     quality: 34
-  - title: "The new collaboration is designed to enhance the cybersecurity capabilities of Azure Security Center for IoT customers."
-    excerpt: "Azure Security Center for IoT extends customers' existing ... with dual detection capabilities of both Microsoft Threat Intelligence and Firedome's machine learning, cloud-based AI engine. The combined solution provides dynamic, end-to-end cybersecurity ..."
-    publishedDateTime: 2020-02-22T01:31:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/firedome-announces-integration-with-microsoft-azure-security-center-for-iot/article_9fd4db82-0673-50af-bd2b-78c981cc8039.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 0
 
 secured: "vZrlX1E/eqgT9EQjkSAA1LURj2J1Dpfk1j9KBhTyuB9t/DyivwETvrBSjMWiwZIsX1x+BFVGSSu4REBhSgaagyth6FeS6TuVCMHlE1wB9eq1hrNXno6yvdhnj7IYM9wUrWZN9sduogo/OvAlAOO0UsLvyH869bmIFGAOjedqC2puR4uTyS7BEMnSQgiFOJLjLEtHF2MLZTJmGj/P4TOJwn6VXc8kldwk8KpKP2zrcpLRNh5zmW+HH3n6Z5SweNslBXZuUJ2hY3QMXg4zqz69Mn5zAQR7OZ2xni6s6eRMq4ALbUh/zOo89ZC7VDWk4G2c;n1gJCvldWE/dLqraSE9jyw=="
 ---

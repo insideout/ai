@@ -71,15 +71,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/98982b80-0f4c-4539-8307-e03345d59828/f123b10c-3acf-4f41-b7eb-0cf3424b4196/1280x720/match/image.jpg"
         width: 1280
         height: 720
-  - title: "Met police deploy live facial recognition technology"
-    excerpt: "Cameras used at east London shopping centre despite experts warning against them"
-    publishedDateTime: 2020-02-11T19:20:00Z
-    webUrl: "https://www.theguardian.com/uk-news/2020/feb/11/met-police-deploy-live-facial-recognition-technology"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 19
   - title: "London police deploy facial recognition technology, stirring privacy fears"
     excerpt: "LONDON — London police started using facial recognition cameras on Tuesday to automatically scan for wanted people, as authorities adopt the technology that has raised concerns about increased surveillance and erosion of privacy. Surveillance cameras mounted on a blue police van monitored people coming out of a shopping center in east London."
     publishedDateTime: 2020-02-12T01:13:00Z

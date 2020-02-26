@@ -235,15 +235,6 @@ related:
       name: MediaPost
       domain: mediapost.com
     quality: 19
-  - title: "Will Self-Driving Cars Increase Or Decrease Drunk Driving?"
-    excerpt: "Sobriety checkpoints are also useful, though they aren't as effective as they should be. Some industry experts have started to explore the idea of self-driving cars as a solution to drunk driving. Will these autonomous vehicles be the solution we're looking for? Will Autonomous Vehicles Help? Will self-driving cars reduce the number of drunk ..."
-    publishedDateTime: 2020-02-11T19:56:00Z
-    webUrl: "https://www.i4u.com/2020/02/133109/will-self-driving-cars-increase-or-decrease-drunk-driving"
-    type: article
-    provider:
-      name: i4u.com
-      domain: i4u.com
-    quality: 4
   - title: "Former Self-Driving Car Operator Engineers Crash in Tempe, Cops Say"
     excerpt: "He was allegedly successful, and a self-driving vehicle slammed into his Mazda sedan around 10:30 p.m. January 30, as a local ABC affiliate previously reported. The Waymo vehicle’s autonomous driving was not engaged at the time of the crash, according to Tempe police, and the driver was the only one inside the vehicle. “His initial ..."
     publishedDateTime: 2020-02-14T01:38:00Z

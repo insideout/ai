@@ -244,15 +244,6 @@ related:
       name: MediaPost
       domain: mediapost.com
     quality: 19
-  - title: "Will Self-Driving Cars Increase Or Decrease Drunk Driving?"
-    excerpt: "Sobriety checkpoints are also useful, though they aren't as effective as they should be. Some industry experts have started to explore the idea of self-driving cars as a solution to drunk driving. Will these autonomous vehicles be the solution we're looking for? Will Autonomous Vehicles Help? Will self-driving cars reduce the number of drunk ..."
-    publishedDateTime: 2020-02-11T19:56:00Z
-    webUrl: "https://www.i4u.com/2020/02/133109/will-self-driving-cars-increase-or-decrease-drunk-driving"
-    type: article
-    provider:
-      name: i4u.com
-      domain: i4u.com
-    quality: 4
   - title: "Insight: How to make an ethical self-driving car"
     excerpt: "Not too long ago, tech enthusiasts were telling us that by 2020, we’d see self-driving cars hit the mainstream, with some 10 million on the roads. That turned out to be a wild overestimation. The actual number of vehicles in testing is thousands of times smaller, and they’re still driving mostly in controlled conditions. Companies have also ..."
     publishedDateTime: 2020-02-16T09:31:00Z

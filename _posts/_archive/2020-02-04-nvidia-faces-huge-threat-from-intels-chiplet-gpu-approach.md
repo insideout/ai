@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Nvidia Faces Huge Threat From Intel's Chiplet GPU Approach"
-excerpt: "If Intel can deliver a 7nm discrete gaming GPU in 2022 (codenamed Jupiter Sound, according to an old rumor), though, then it may have a very good chance of competing the full generation toe-to-toe against Nvidia’s 5nm lineup. In a recent article, I described AI in the data center as one of Intel’s main growth drivers this decade."
+excerpt: "Related to AI, I view inference as the more important ... Intel, historically a CPU company, is going to launch a (data center) GPU as its first 7nm product, with a total die size (and ..."
 publishedDateTime: 2020-02-04T13:29:00Z
 webUrl: "https://seekingalpha.com/article/4321159-nvidia-faces-huge-threat-from-intels-chiplet-gpu-approach"
 type: article
@@ -17,6 +17,6 @@ topics:
   - AI
   - AI Hardware
 
-secured: "akp7dy3FNMbbK6q8beXYVJOArvRuyW/94Ia6+tlORcbGxr8vN00iBYsQyfgrKLMc8/BBcmaKypf5zB3q4nIoygUU+Z1U5wMcgvXP1a7Ktm1h5miketLDO22MF33ZJeCTkxOUun8wjQP1N7syxcgIB341ywKTgDKklVZXfQF5beyf571SHkkVxvDNkYH23tQ6OeEGnNgReZXywLqKvZ5EWvztyxYjiUUBoycfrfHJDGRvysCst8k9wLjQy8f6vVPb5BV0vhjUqpvYuFphjAH1egLb6hbImRKILErakEfnzwI7m+GfClr0ISDjr7ZP519GgTyEhvIV9hTcbaoomlRmtPZuELuLUpGaHjPZiJJ+faPLsCXlBq6Ccq//xThgkLFsUolByYyexwISh1JXj17MZ2n8Aa9NoBbg9a9bLylYBJMVzCCRjTcUfC3E96R+QUpTIQ16tJnlfsAab9AqYIrDkljCkAlbSd4Q5bLPnTuBzXc=;MxXAsyXNJ9f/lFvoIG1CIw=="
+secured: "bVWKMgZlhkhW1afvsS2WiZfHXTvagiIpeE3S6NFxkUSu72Q/FgVk2IabMMZr25FrBdBW8BNR7A4khOLNhpzhcHvIAPi+FqxciGrP3284l++3wUYj9fFSpHnccGRthbt/+qZpE82vgE1UgPIVNkZyS/IXBmdusVeVkRZXjGGHzN+DE0KzQC5Wp13Ln1rlrw3KU4cXpCp8/9/mspBcBnnhkANztMSPx93pWHmsvbp392hgpfSfHa0iyWuAaHaBxAuqR15TPGAHYmrZzUc4il58Q/0LnGYFbsAteMhBrLMR0ktwLkKy4vNqMPA8SfbaOACthjuOk9f82bFyIGPWurPb5SYL+Ret/pEQjo3HkGq+a9+a/saAp4gClTVa1/HQICaKoY6DhUAiniP8oAEhs9pR3h/tYYf0+o0SrO7PVW65vrfeufRV+xYa+VRbxKedqYFyToaHNuv6OlJ17hO8LjKFLWARyVLy7+KR/0J/3m2guzI=;aoykEvI8HtBeHWJZSN192A=="
 ---
 

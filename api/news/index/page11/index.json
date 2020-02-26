@@ -2,6 +2,186 @@
   "page": 11,
   "value": [
     {
+      "path": "_posts/_archive/2020-01-10-robotaxis-will-be-available-as-soon-as-2022-self-driving-tech-supplier-mobileye-ceo-says.md",
+      "title": "Robotaxis will be available as soon as 2022, self-driving tech supplier Mobileye CEO says",
+      "excerpt": "We are targeting early 2022,\" Mobileye CEO Amnon Shashua told CNBC. Self-driving cars will start with fleet operators before general use due to regulatory and cost constraints \"that you cannot put ...",
+      "heat": 80,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/01/10/self-driving-tech-developer-mobileye-ceo-robotaxis-will-come-in-2022.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/01/10/self-driving-tech-developer-mobileye-ceo-robotaxis-will-come-in-2022.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/10/self-driving-tech-developer-mobileye-ceo-robotaxis-will-come-in-2022.html",
+      "publishedDateTime": "2020-01-10T15:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106331425-1578694177734shashua_amnon_mm_20200110_img_1027.jpg?v=1578694283",
+          "width": 5795,
+          "height": 3863,
+          "title": "Robotaxis will be available as soon as 2022, self-driving tech supplier Mobileye CEO says",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-10-samsungs-neon-ai-has-an-ethics-problem-and-its-as-old-as-sci-fi-canon.md",
+      "title": "Samsung's Neon AI has an ethics problem, and it's as old as sci-fi canon",
+      "excerpt": "it's hard to discern whether a sincere conversation on AI ethics is being had at all by the heads of the world's biggest tech companies, or if those conversations are solely relegated to the ...",
+      "heat": 103,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/samsungs-neon-ai-has-an-ethics-problem-and-its-as-old-as-sci-fi-canon/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/samsungs-neon-ai-has-an-ethics-problem-and-its-as-old-as-sci-fi-canon/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/samsungs-neon-ai-has-an-ethics-problem-and-its-as-old-as-sci-fi-canon/",
+      "publishedDateTime": "2020-01-10T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet3.cbsistatic.com/img/jY1NA7fgUSXw2YCWellHwymQwys=/756x567/2020/01/06/da4e3477-788c-4267-8588-df6272e31bd1/neon-tweet.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "Samsung's Neon AI has an ethics problem, and it's as old as sci-fi canon",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-10-self-driving-car-market-revenue-of-usd-17315-bn-by-2023.md",
+      "title": "Self-driving car market revenue of USD 173.15 Bn by 2023",
+      "excerpt": "The global self-driving car market is expected to expand at a CAGR of 36.2%, leading to global revenue of USD 173.15 Bn by 2023. A self-driving car, also known as an autonomous car or driverless car,",
+      "heat": 64,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/self-driving-car-market-revenue-of-usd-17315-bn-by-2023-2020-01-10",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-09T22:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Self-driving car market revenue of USD 173.15 Bn by 2023",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-10-the-best-computer-reading-glasses-to-help-reduce-eye-strain.md",
+      "title": "The best computer reading glasses to help reduce eye strain",
+      "excerpt": "These Truvision Readers may not be prescription, but their anti-reflective coating and blue-tinted lenses will help you filter out blue light and avoid computer vision syndrome without having to ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.digitaltrends.com/health-fitness/computer-reading-glasses/",
+      "ampWebUrl": "https://www.digitaltrends.com/health-fitness/computer-reading-glasses/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/health-fitness/computer-reading-glasses/?amp",
+      "publishedDateTime": "2020-01-09T23:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://icdn2.digitaltrends.com/image/digitaltrends/computer-glasses-2-1200x630-c-ar1.91.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": "The best computer reading glasses to help reduce eye strain",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-10-the-top-3-tech-stocks-to-watch-in-2020.md",
       "title": "The Top 3 Tech Stocks to Watch in 2020",
       "excerpt": "From Google to Apple, every big-name tech company is putting forth resources to make its next breakthrough. We hear about a lot of products on the news, such as self-driving cars and robot nannies, but where exactly should we be putting our money?",
@@ -1963,177 +2143,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-14-germanys-bundesliga-to-use-amazon-web-services-artificial-intelligence.md",
-      "title": "Germany's Bundesliga To Use Amazon Web Services' Artificial Intelligence",
-      "excerpt": "In addition, the league will build a cloud-based media archive by using other AWS ML services such as Amazon Rekognition. The media archive will automatically tag specific frames from over 150,000 ...",
-      "heat": 103,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nasdaq.com/articles/germanys-bundesliga-to-use-amazon-web-services-artificial-intelligence-2020-01-14",
-      "ampWebUrl": "https://www.nasdaq.com/articles/germanys-bundesliga-to-use-amazon-web-services-artificial-intelligence-2020-01-14?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/germanys-bundesliga-to-use-amazon-web-services-artificial-intelligence-2020-01-14?amp",
-      "publishedDateTime": "2020-01-14T06:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg",
-          "width": 1024,
-          "height": 512,
-          "title": "Germany's Bundesliga To Use Amazon Web Services' Artificial Intelligence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-14-google-says-new-ai-models-allow-for-nearly-instantaneous-weather-forecasts.md",
-      "title": "Google says new AI models allow for ‘nearly instantaneous’ weather forecasts",
-      "excerpt": "Google is the latest firm to get involved, and in a blog post this week shared new research that it says enables “nearly instantaneous” weather ... The company’s researchers trained their AI model on historical radar data collected between 2017 and 2019 in the contiguous US by the National Oceanic and Atmospheric Administration (NOAA).",
-      "heat": 186,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theverge.com/2020/1/14/21065095/google-ai-weather-forecast-predictions-rainfall-research",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/1/14/21065095/google-ai-weather-forecast-predictions-rainfall-research",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/14/21065095/google-ai-weather-forecast-predictions-rainfall-research",
-      "publishedDateTime": "2020-01-14T03:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/kZDgOL323H6bmnb5b22dfqgR09s=/0x0:5630x3753/1400x933/filters:focal(2365x1427:3265x2327):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66097507/1185354768.jpg.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": "Google says new AI models allow for ‘nearly instantaneous’ weather forecasts",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-14-keyme-plans-to-use-new-35-million-funding-round-to-build-10000-retail-locations.md",
-      "title": "KeyMe Plans To Use New $35 Million Funding Round To Build 10,000+ Retail Locations",
-      "excerpt": "KeyMe boasts 3,000+ kiosks in retailers like Ikea, Rite Aid and Kroger. With the announcement of a new $35 million funding round led by Brentwood Associates, CEO Greg Marsh has ambitions to go even bigger.",
-      "heat": 181,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/marleycoyne/2020/01/14/keyme-plans-to-use-new-35-million-funding-round-to-build-10000-retail-locations/",
-      "ampWebUrl": "https://www.forbes.com/sites/marleycoyne/2020/01/14/keyme-plans-to-use-new-35-million-funding-round-to-build-10000-retail-locations/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marleycoyne/2020/01/14/keyme-plans-to-use-new-35-million-funding-round-to-build-10000-retail-locations/amp/",
-      "publishedDateTime": "2020-01-14T06:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e1cff34da6d38000629847c%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "KeyMe Plans To Use New $35 Million Funding Round To Build 10,000+ Retail Locations",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-14-lg-hones-focus-on-ai-car-platforms-with-cerence-and-luxoft.md",
-      "title": "LG hones focus on AI car platforms with Cerence and Luxoft",
-      "excerpt": "The South Korean electronics maker has also extended its partnership with Microsoft as part of plans to move further into the commercial space. LG said it will leverage Microsoft Azure and AI services to enhance its management systems to enable its Building Energy Control (BECON) system to manage and control heating, ventilation, and air ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/lg-hones-focus-on-ai-car-platforms-with-cerence-and-luxoft/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/lg-hones-focus-on-ai-car-platforms-with-cerence-and-luxoft/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/lg-hones-focus-on-ai-car-platforms-with-cerence-and-luxoft/",
-      "publishedDateTime": "2020-01-13T18:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/01/14/fa1a0cb0-0104-41aa-b836-0541476b2854/lg-cerence-partnership.jpg",
-          "width": 3000,
-          "height": 1997,
-          "title": "LG hones focus on AI car platforms with Cerence and Luxoft",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

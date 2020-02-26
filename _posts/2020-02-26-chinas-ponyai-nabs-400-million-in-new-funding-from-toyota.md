@@ -33,7 +33,7 @@ related:
     provider:
       name: The Verge
       domain: theverge.com
-    quality: 89
+    quality: 91
     images:
       - url: "https://cdn.vox-cdn.com/thumbor/fsANPi0bG8QdF_khCWvMci5SLag=/0x0:2720x1322/1400x933/filters:focal(1143x444:1577x878):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66375289/Photo1.0.png"
         width: 1400
@@ -120,6 +120,19 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fs3-ap-northeast-1.amazonaws.com%2Fpsh-ex-ftnikkei-3937bb4%2Fimages%2F9%2F4%2F3%2F7%2F22297349-2-eng-GB%2FCropped-156682855220190826N%20Pony%20ai%20autonomous%20car_Data.jpg?source=nar-cms&width=1024&height=512&fit=cover&gravity=faces"
         width: 1024
         height: 512
+  - title: "Toyota invests $400 million in Chinese AV startup Pony.ai"
+    excerpt: "The investment extends the companies’ partnership formed last year and pushes Pony.ai’s valuation to more than $3 billion, the startup said in a statement. The pact enables a “deeper integration” of Pony.ai’s technology with Toyota’s vehicles. “It will enable us to make the commercialization of autonomous-driving vehicles faster ..."
+    publishedDateTime: 2020-02-26T12:04:00Z
+    webUrl: "https://www.autonews.com/mobility-report/toyota-invests-400-million-chinese-av-startup-ponyai"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 37
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/RTX6PEQM.jpg"
+        width: 800
+        height: 600
   - title: "Toyota invests $400 million in Pony.ai to deepen driverless pact"
     excerpt: "The investment extends the companies’ partnership formed last year and pushes Pony.ai’s valuation to more than $3 billion, the startup said in a statement. The pact enables a “deeper integration” of Pony.ai’s technology with Toyota’s vehicles. “It will enable us to make the commercialization of autonomous-driving vehicles faster ..."
     publishedDateTime: 2020-02-26T11:16:00Z

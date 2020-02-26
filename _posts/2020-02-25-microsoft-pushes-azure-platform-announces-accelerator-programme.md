@@ -79,15 +79,6 @@ related:
       - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
         width: 252
         height: 335
-  - title: "The new collaboration is designed to enhance the cybersecurity capabilities of Azure Security Center for IoT customers."
-    excerpt: "Azure Security Center for IoT extends customers' existing ... with dual detection capabilities of both Microsoft Threat Intelligence and Firedome's machine learning, cloud-based AI engine. The combined solution provides dynamic, end-to-end cybersecurity ..."
-    publishedDateTime: 2020-02-22T01:31:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/firedome-announces-integration-with-microsoft-azure-security-center-for-iot/article_9fd4db82-0673-50af-bd2b-78c981cc8039.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 0
 
 secured: "K+PsEGX9mSZXn5vpPYRz7uVaLkvns7OF6lqr0NYgHEAw0VXrZ31EATGxEuwFgHD+zWlMM25pUZASif9uum7WU6HaEeGU1wmbURpSLu2xH3Vs1HRAA15CNht4GLE2qY6AKBdQPK2Djd6evj5B4erUfKs96bRs/rxZQvlJc8ybmpmdLaSLgh7uyDCMkn/eBGOPD1P4xVD02GVnjz6AxDOsmooO4M4tA9EFuE2nHITrUqqn0ToGIhG44ObYzMU0u79rArXu7/MfhyDrLxYSyjLtBKEoMK9ZX7VNhcExPkois3zoBN2VglhZVyG8tBfRLZTvKwriIZS14GBqk5WIdd4cAYhzYxtZXvW5zW5bt7maeAOoa1ls/1KWpMq3G5KtllIROkWMJSqYrqwoifH2IXT6CRiORV4Sj4l23qwcFPeoFHHiVlT2+r3uiLvsPx7wXASxNUOioIc5badgO5Dl00sqhPMsUXtGS/KwfShc+VXP3DU=;RpC4o/C1JwMHmqdqkXagAQ=="
 ---

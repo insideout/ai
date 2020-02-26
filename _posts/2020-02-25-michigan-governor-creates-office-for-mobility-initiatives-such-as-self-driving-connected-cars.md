@@ -25,6 +25,6 @@ images:
     height: 720
     title: "Michigan governor creates office for mobility initiatives such as self-driving, connected cars"
 
-secured: "9xREpjVT3Q1o0QSavXSFHTbmWLgpABuvvuwdSiZEF7kzGum/2ZlGkTy9C4hWOc7FvjDVJMJIUlpv64bDCUhwi5uhn411u/QiBrkR/VQtbQy/xEqycZwo9XY3lp84W9SDTjL/F7PYsc0sTeD+uAyZ/SF23op7u9ZqvjbIh1JUMKIiv8IfQ+NEVJP+K/px1ilkiSb/3jT1VWA1LRK1W6RjNPrlmFiohBXIkHzOlh9cETgO5eXqiCecxZls1BMaipnJqt+Z3VSLKc4B/iMYfsART+rtn+0xlljZF/oawm8TSmQruaFArl4EWDmihd448HW4;pYJnhc3znRBtm3/AktRScQ=="
+secured: "Yim/i1NxgHNowxzThskDOdJ30/w+RoKVe0v/daKcbFIjEGmVTksOERnGo9blkdYdou3Al+eo6A9ZjL2AAGXCqBWKrUbwbFlNAiPjd+HdoKsQ4TTDgPmXS+2sphpW1zywb5XuTCO1cYiCUuk8WRHEx95Y2fMJyhgwD6gQeZTVvgUlrB+DYsxTuAszq2qMqTjWlWqh3gwqw9b3FcS/kNPnY9JeILRQSGopOFKlckLay8OpzTEgAhZpWjrd8jfisdfTexi+KMIkHWm7kt13ukLplVkZE8/4OkIeYoUObO/n+Amdi/Ciz6j2Xoo2xmXknKVuL+D+m9neYc2qJtxZmoOmgjwwoxABpqXvKCdXQ4WAJq97fktD0LXXnbQ0/eC8sDRf+rk+qCK5ttj9WT8M5MyIYqhBUIdK2CU0dQZmdnLLs0MBthNu2ZRvSnWrc4m9QAVhCy7GKaMBB5M63ZuVyB1NzbYkGU37nDTPS0cjncLlQbU=;kXiroBmN9oibmcm2Q8zE2Q=="
 ---
 

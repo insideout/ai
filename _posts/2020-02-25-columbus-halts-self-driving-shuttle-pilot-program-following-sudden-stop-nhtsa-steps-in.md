@@ -154,6 +154,19 @@ related:
       name: Leader-Post
       domain: leaderpost.com
     quality: 19
+  - title: "U.S. regulators order self-driving bus operator EasyMile to stop carrying passengers"
+    excerpt: "The company also pointed out that while the NHTSA has ordered EasyMile to stop carrying passengers, its vehicles are still allowed on U.S. roads. The company said this was “a clear indication [the NHTSA] considers them safe for other road users.” EasyMile first announced its self-driving buses were coming to America all the way back in 2015."
+    publishedDateTime: 2020-02-26T12:26:00Z
+    webUrl: "https://www.fastcompany.com/90468423/u-s-regulators-order-self-driving-bus-operator-easymile-to-stop-carrying-passengers?partner=feedburner"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 17
+    images:
+      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/02/p-1-u-s-regulators-order-self-driving-bus-operator-easymile-to-stop-carrying-passengers.jpg"
+        width: 1280
+        height: 720
   - title: "Columbus self-driving shuttle pilot program halted after 3 weeks following sudden stop"
     excerpt: "A passenger falling aboard a self-driving shuttle as part of a pilot program in Columbus has put the project on hold less than three weeks after it began. The daily shuttle service in the Linden neighborhood in Columbus, Ohio, was halted after one of the pilot's vehicles made a sudden stop around noon Thursday, Feb. 20. One passenger fell from ..."
     publishedDateTime: 2020-02-25T20:00:00Z

@@ -57,6 +57,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Artificial Intelligence Market Size Is Expected To Reach USD 390.9 Billion By 2025 : Grand View Research Inc."
+    excerpt: "The global artificial intelligence market size is expected to reach USD 390.9 billion by 2025, according to a new report by Grand View Research, Inc. The market is anticipated to expand at a CAGR of 46."
+    publishedDateTime: 2020-02-26T12:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-is-expected-to-reach-usd-3909-billion-by-2025-grand-view-research-inc-2020-02-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Image Recognition Market Size is Expected to Exhibit USD 81.88 billion by 2026"
     excerpt: "The global image recognition market was worth USD 20.19 billion in 2018 and will exhibit a CAGR of 19.6% during the forecast period, till 2026 The global image recognition market size is projected to reach USD 81."
     publishedDateTime: 2020-02-24T12:07:00Z

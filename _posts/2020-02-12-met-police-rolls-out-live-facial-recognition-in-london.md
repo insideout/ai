@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.ft.com/content/db8bfc3c-4cf4-11ea-95a0-43d18ec715f5"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/db8bfc3c-4cf4-11ea-95a0-43d18ec715f5"
 type: article
 quality: 59
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -71,15 +71,6 @@ related:
       - url: "https://www.gamepur.com/wp-content/uploads/2020/02/Pokemon-HOME-mystery-gifts.jpg"
         width: 1200
         height: 675
-  - title: "Met police deploy live facial recognition technology"
-    excerpt: "Cameras used at east London shopping centre despite experts warning against them"
-    publishedDateTime: 2020-02-11T19:20:00Z
-    webUrl: "https://www.theguardian.com/uk-news/2020/feb/11/met-police-deploy-live-facial-recognition-technology"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 19
   - title: "London police deploy facial recognition technology, stirring privacy fears"
     excerpt: "LONDON — London police started using facial recognition cameras on Tuesday to automatically scan for wanted people, as authorities adopt the technology that has raised concerns about increased surveillance and erosion of privacy. Surveillance cameras mounted on a blue police van monitored people coming out of a shopping center in east London."
     publishedDateTime: 2020-02-12T01:13:00Z

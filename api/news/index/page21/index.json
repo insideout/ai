@@ -2,6 +2,153 @@
   "page": 21,
   "value": [
     {
+      "path": "_posts/_archive/2020-01-29-machine-learning-as-a-service-market-analysis-report-2019-2027-growing-cagr-354.md",
+      "title": "Machine Learning As A Service Market Analysis (Report 2019-2027): Growing CAGR 35.4%",
+      "excerpt": "The overall machine learning as a service market worldwide was valued at US$ 1,117.9 Mn in 2018 and is set to grow with a CAGR of 35.4% during the forecast period. Rapid technological advancements and the growing adoption of cloud-based technologies worldwide are primarily driven by the Machine Learning As A Service market.",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-analysis-report-2019-2027-growing-cagr-354-2020-01-29",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-29T07:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Machine Learning As A Service Market Analysis (Report 2019-2027): Growing CAGR 35.4%",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-29-maine-to-build-institute-to-teach-tech-skills-machine-learning.md",
+      "title": "Maine to Build Institute to Teach Tech Skills, Machine Learning",
+      "excerpt": "We really see that [as] a great opportunity.” (TNS) — Wex uses machine learning and artificial intelligence in its day-to-day operations. At its call centers, the payment processing firm uses speech recognition technology to route calls. When monitoring accounts for fraud risk, the company uses sophisticated data analysis built by algorithm.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.governing.com/next/Maine-to-Build-Institute-to-Teach-Tech-Skills-Machine-Learning.html",
+      "ampWebUrl": "https://www.governing.com/next/Maine-to-Build-Institute-to-Teach-Tech-Skills-Machine-Learning.html?AMP",
+      "cdnAmpWebUrl": "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/next/Maine-to-Build-Institute-to-Teach-Tech-Skills-Machine-Learning.html?AMP",
+      "publishedDateTime": "2020-01-28T16:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Governing",
+        "domain": "governing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media2.govtech.com/images/Cuyahoga+County+OZ.JPG",
+          "width": 2048,
+          "height": 1582,
+          "title": "Maine to Build Institute to Teach Tech Skills, Machine Learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-29-man-in-wheelchair-dumped-onto-ground-in-dispute-over-parking-space-at-pleasant-hill-target-store.md",
+      "title": "Man In Wheelchair Dumped Onto Ground In Dispute Over Parking Space At Pleasant Hill Target Store",
+      "excerpt": "Detectives were given a partial license plate number for Tiger’s vehicle, and later identified ... injury were filed and an arrest warrant was issued. Two days later, Tiger was arrested in ...",
+      "heat": 124,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://sanfrancisco.cbslocal.com/2020/01/29/wheelchair-assault-dispute-parking-space-pleasant-hill-target/",
+      "ampWebUrl": "https://sanfrancisco.cbslocal.com/2020/01/29/wheelchair-assault-dispute-parking-space-pleasant-hill-target/amp/",
+      "cdnAmpWebUrl": "https://sanfrancisco-cbslocal-com.cdn.ampproject.org/c/s/sanfrancisco.cbslocal.com/2020/01/29/wheelchair-assault-dispute-parking-space-pleasant-hill-target/amp/",
+      "publishedDateTime": "2020-01-29T11:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS Local",
+        "domain": "cbslocal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-29-microsoft-q2-2020-earnings-369-billion-in-revenue-driven-by-big-azure-surface-growth.md",
+      "title": "Microsoft Q2 2020 earnings: $36.9 billion in revenue driven by big Azure, Surface growth",
+      "excerpt": "It doesn't appear the Surface Pro X is one of the currently supported devices for Microsoft's Surface Dock update tool. Microsoft today announced a new addition to its AI for Good program. Called AI for Health, the initiative will see Microsoft invest $40 million over the next five years to improve health outcomes for people around the world.",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.windowscentral.com/microsoft-q2-earnings",
+      "ampWebUrl": "https://www.windowscentral.com/microsoft-q2-earnings?amp",
+      "cdnAmpWebUrl": "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-q2-earnings?amp",
+      "publishedDateTime": "2020-01-29T12:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows Central",
+        "domain": "windowscentral.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2019/11/microsoft-logo-ignite-2019.jpg?itok=T29z3T0D",
+          "width": 800,
+          "height": 600,
+          "title": "Microsoft Q2 2020 earnings: $36.9 billion in revenue driven by big Azure, Surface growth",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-29-microsoft-takes-the-wraps-off-40-million-five-year-ai-for-health-initiative.md",
       "title": "Microsoft takes the wraps off $40 million, five-year 'AI for Health' initiative",
       "excerpt": "Microsoft has added a new program to its \"AI for Good\" line-up. Its new \"AI for Health\" initiative joins its existing AI for Earth; AI for Accessibility; AI for Humanitarian Action; and AI for Cultural Heritage projects. Microsoft is funding the AI for Health project at $40 million over four years. Through its AI for Good projects, Microsoft is ...",
@@ -1251,8 +1398,8 @@
     {
       "path": "_posts/_archive/2020-01-30-free-ai-developer-app-ibms-new-tool-can-label-objects-in-videos-for-you.md",
       "title": "Free AI developer app: IBM's new tool can label objects in videos for you",
-      "excerpt": "IBM has released a new free tool designed to help developers cut the chore of labeling images in video when training AI object-detection models. The new auto-labeling tool is part of IBM's push to ...",
-      "heat": 90,
+      "excerpt": "IBM estimates it takes 200 to 500 samples of hand-labeled images for an AI object-recognition model to detect a specific object. SEE: How to implement AI and machine learning (ZDNet special report ...",
+      "heat": 88,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.zdnet.com/article/free-ai-developer-app-ibms-new-tool-can-label-objects-in-videos-for-you/",
@@ -1290,7 +1437,6 @@
       ],
       "topics": [
         "AI",
-        "Google AI",
         "Computer Vision"
       ]
     },
@@ -1962,178 +2108,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-30-ups-buying-10000-electric-delivery-vans-will-test-waymo-self-driving-vehicles-next-month.md",
-      "title": "UPS buying 10,000 electric delivery vans, will test Waymo self-driving vehicles next month",
-      "excerpt": "LOS ANGELES (Reuters) - United Parcel Service Inc on Wednesday expanded its efforts to cut emissions and delivery costs with separate deals to order 10,000 electric delivery trucks from UK-based Arrival Ltd and test Waymo self-driving vehicles to carry packages. The UPS/Arrival partnership includes a minority investment from the world’s ...",
-      "heat": 169,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://uk.reuters.com/article/us-ups-investment/ups-buying-10000-electric-delivery-vans-will-test-waymo-self-driving-vehicles-next-month-idUKKBN1ZS2ZC",
-      "ampWebUrl": "https://uk.mobile.reuters.com/article/amp/idUKKBN1ZS2ZC",
-      "cdnAmpWebUrl": "https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKKBN1ZS2ZC",
-      "publishedDateTime": "2020-01-30T09:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200129&t=2&i=1483128662&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG0S1ZS",
-          "width": 817,
-          "height": 545,
-          "title": "UPS buying 10,000 electric delivery vans, will test Waymo self-driving vehicles next month",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-30-ups-teams-up-with-self-driving-company-waymo-for-package-delivery.md",
-      "title": "UPS Teams Up With Self-driving Company Waymo For Package Delivery",
-      "excerpt": "(RTTNews) - UPS (UPS) said that it has partnered with Waymo, the self-driving arm of Google's parent company Alphabet, to pilot autonomous vehicle package pickup in the Metro Phoenix area. Starting in the coming weeks,",
-      "heat": 199,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nasdaq.com/articles/ups-teams-up-with-self-driving-company-waymo-for-package-delivery-2020-01-29",
-      "ampWebUrl": "https://www.nasdaq.com/articles/ups-teams-up-with-self-driving-company-waymo-for-package-delivery-2020-01-29?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ups-teams-up-with-self-driving-company-waymo-for-package-delivery-2020-01-29?amp",
-      "publishedDateTime": "2020-01-29T19:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg",
-          "width": 1024,
-          "height": 512,
-          "title": "UPS Teams Up With Self-driving Company Waymo For Package Delivery",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-30-waymos-head-of-design-explains-the-challenges-of-creating-an-autonomous-robot-driver.md",
-      "title": "Waymo's head of design explains the challenges of creating an autonomous robot 'driver'",
-      "excerpt": "YooJung Ahn oversees the design of the Waymo \"driver,\" a complicated combination of hardware, software, and user experiences.",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/waymo-design-chief-explains-the-challenges-of-creating-robot-driver-2020-1",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-30T12:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5e33160962fa815b67628224?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "Waymo's head of design explains the challenges of creating an autonomous robot 'driver'",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-31-ai-from-experimentation-to-adoption.md",
-      "title": "AI: from experimentation to adoption",
-      "excerpt": "has adopted IBM Watson and IBM Cloud to develop Ava, a new AI virtual Help-to-Buy mortgage adviser. Ava helps first time home buyers onto the property ladder by offering round the clock support ...",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techradar.com/news/ai-from-experimentation-to-adoption",
-      "ampWebUrl": "https://www.techradar.com/amp/news/ai-from-experimentation-to-adoption",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/ai-from-experimentation-to-adoption",
-      "publishedDateTime": "2020-01-31T03:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/Wcc69A4Ts8bhSbGgJeGkoZ-1200-80.jpg",
-          "width": 970,
-          "height": 646,
-          "title": "AI: from experimentation to adoption",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI"
       ]
     }
   ],
