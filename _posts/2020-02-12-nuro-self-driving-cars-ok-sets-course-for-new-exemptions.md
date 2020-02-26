@@ -93,15 +93,6 @@ related:
       - url: "https://media2.govtech.com/images/shutterstock_1019141671.jpg"
         width: 950
         height: 629
-  - title: "Can self-driving cars handle Canadian winters?"
-    excerpt: "University of Toronto professor Steven Waslander talks about a new study, which will be used to determine whether self-driving cars can handle the snow and ice from harsh Canadian winters. <iframe src=\"https://globalnews.ca/video/embed/6535979/\" width=\"670\" height=\"372\" frameborder=\"0\" allowfullscreen scrolling=\"no\"></iframe> <style>.gn-embed ..."
-    publishedDateTime: 2020-02-11T16:22:00Z
-    webUrl: "https://globalnews.ca/video/6535979/can-self-driving-cars-handle-canadian-winters"
-    type: article
-    provider:
-      name: Global News
-      domain: globalnews.ca
-    quality: 4
 
 secured: "auYm96fWdLbcSLDT+7yYuAS0QAoACXTYeUwdsfHKgqx80ywa16/7x12XFOyiYhKnfGdmZvxT9MjrViSJkwkRzQb17LJNtUMhOYsspiJRucT33FsgYLj43c4oqi4v29ys81a1HQmbJzlE1H68EWMkISM49IHnZuoFZLnFveUZcIYFvDYSJ4VG5h901rIfb58EZrC8WQsokORPxNQwn32SPCBQ5LqrvFKGZHbr5KGreyl2eH+Jqz62o4C2MjcpS5WIteWRQjAF84mQ+gCQ+IWmjbFQhHXekxBl0Nw2WLQEaBkoZ5pGSrbAvOo5W6RUQ1tM;u4JdjMG6vVGdcSglSHI4Cg=="
 ---

@@ -110,19 +110,6 @@ related:
       - url: "https://images.livemint.com/img/2020/02/24/600x338/jobs_1582532250210.JPG"
         width: 600
         height: 338
-  - title: "How Artificial Intelligence Is Transforming Businesses"
-    excerpt: "Essentially, AI is a term that is used to describe computer software that simulates human-like/human intelligence processes ... Deep learning relies on artificial neural networks to learn from data. It can be used to help with various different functions, including fraud detection and self-driving cars. In self-driving cars, deep learning ..."
-    publishedDateTime: 2020-02-11T17:21:00Z
-    webUrl: "https://www.propertywire.com/how-artificial-intelligence-is-transforming-businesses"
-    type: article
-    provider:
-      name: PropertyWire
-      domain: propertywire.com
-    quality: 39
-    images:
-      - url: "https://www.propertywire.com/wp-content/uploads/2020/02/shutterstock_1384554629.jpg"
-        width: 900
-        height: 500
   - title: "How Niramai is using artificial intelligence to change the face of breast cancer detection"
     excerpt: "Manjunath was working with a research group to create artificial intelligence (AI)-based solutions ranging from transportation to healthcare for customers. The group also had budget for innovation from emerging markets. A part of this research meant working with doctors and hospitals. It was during this time in her career that she would ..."
     publishedDateTime: 2020-02-16T09:38:00Z

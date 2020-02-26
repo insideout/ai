@@ -69,6 +69,15 @@ related:
       name: MSPoweruser
       domain: mspoweruser.com
     quality: 4
+  - title: "Qualcomm accelerates XR headset development with new Snapdragon XR2 5G reference design"
+    excerpt: "Powered by the Snapdragon XR2 Platform, the reference design has 2x the CPU and GPU performance, 4x more video bandwidth, 6x higher resolution and 11x AI improvement compared to the company's current widely adopted XR platform. The reference design supports up to seven cameras. It features two internal cameras, one for each eye to support eye ..."
+    publishedDateTime: 2020-02-26T10:22:00Z
+    webUrl: "https://www.telecompaper.com/news/qualcomm-accelerates-xr-headset-development-with-new-qualcomm-snapdragon-xr2-5g-reference-design--1328112"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 0
 
 secured: "RunjqQ+PywDvj/0UeBI4ikXstXO7r7HfMtNm4jp34dWPzOLyOID3B0SD1j5h6BBy2iFJnJyuk5FmpTaQg0MJqfTKBNvLYr4rtF4MlcDZoXI58ob0Q+8KNHJ9xZ1mdZotCy0RFfHCegKWketOnbhK0XIeV4OsG4ESyydZ1Wu3FDgzRbcY3fB9RQFm+aW9iD0PfdzLFF3/YReHMM4d40qMb7+0aFnFqKEWrGUayUCffxhU1cb4gF2TcFEHXJ7bAS6TYsZD1Kz50cBm13viYKzN6rzheVDuSJJZWJ4cSBNN4wKsZ2QagQ8t/jcu+cGSjUTbjOA6XhNbWH3ETnVyMh9Zb7HKklPzaB8rvBreeDr8F/i1GDkYnj6OkZN5HTdMjfX7tlK1huup1lE+SFRYrGMZ55LD/UFFdDLIAmlETaJpj4yFtxeNkr9zttOhogMSLnRHlbU5Hu+ZToG261OqqFIB9q69D4EKlytJFegLW9HCiKI=;ojZvMlk2PzEpkiUgC5aKVA=="
 ---

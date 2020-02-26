@@ -5,8 +5,8 @@ excerpt: "Additional future direction of the study would be investigating diagno
 publishedDateTime: 2020-01-29T10:09:00Z
 webUrl: "https://www.nature.com/articles/s41598-019-57261-6"
 type: article
-quality: 4
-heat: 4
+quality: 24
+heat: 24
 published: false
 
 provider:
@@ -17,6 +17,12 @@ topics:
   - AI
   - Computer Vision
 
-secured: "FjuHacpcIkYgNS+vCk0GUGkooo8iNIDeM4/s7gZ+yllKbTzvcb5bTMSpQMccNXl3jS07d3b9xq/socpOy4dsAAaCpuBeCU1L4hY51vLqekHYjhICox5fa1KrwpI0ow+7RXBh55lIQ5QA7OiqtzTJAUuXmnazhpbQMTnxuexJ0VFzOjYLl+QLqymg7HzEPh5R8MYsy3vSqsxH8S8a/4HKsNxRD/fRD+Lx9w5o1yPnpuYoGzbfPMEIFDn1GBA1yo88/QRH8XpHGkEyluAKYGIjBoayhlv8ZGTz6ugzxqeBqTCv2s7hCfPOPKjFXqw4FAn8;EdJKxfots41pArD90T/kDQ=="
+images:
+  - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-019-57261-6/MediaObjects/41598_2019_57261_Fig1_HTML.png"
+    width: 685
+    height: 419
+    title: "Scale and translation-invariance for novel objects in human vision"
+
+secured: "9WBJgd+g7fPy+3iQRTE6lDU87y7ylUKP6u1UyyeyBP8ecnoY5tiurRs5OpLKYN6xotAb1rAJbvZDMm7VZsu+iSF1etQL0ep9mHkWMbpcQugJnX4vLAcDqYpkiq5D9bD/meLX+wSZIjLgxJYnS0Yq16K9xuYiBOerBr/8uQATBznqAgwUcOeDaijrSI9WVFXNp2bZhZ/7Vmd+pL924pLYAJtJqhAIUTXSGqFG3kBhxa9VFCpAFVxpQtq4CSESIIEhwMoQ8uwphQQ0LPMeRHRQbV9F7KJcFxukYoMBhG682xxjG4FFLUjOYSZOoB6desUP;6RDW7CMWnNfRMRF+Ok14KQ=="
 ---
 

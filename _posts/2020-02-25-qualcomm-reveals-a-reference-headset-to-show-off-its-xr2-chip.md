@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/2020/02/25/qualcomm-reference-headset-x
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/25/qualcomm-reference-headset-xr2-chip-platform/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -69,6 +69,15 @@ related:
       name: MSPoweruser
       domain: mspoweruser.com
     quality: 4
+  - title: "Qualcomm accelerates XR headset development with new Snapdragon XR2 5G reference design"
+    excerpt: "Powered by the Snapdragon XR2 Platform, the reference design has 2x the CPU and GPU performance, 4x more video bandwidth, 6x higher resolution and 11x AI improvement compared to the company's current widely adopted XR platform. The reference design supports up to seven cameras. It features two internal cameras, one for each eye to support eye ..."
+    publishedDateTime: 2020-02-26T10:22:00Z
+    webUrl: "https://www.telecompaper.com/news/qualcomm-accelerates-xr-headset-development-with-new-qualcomm-snapdragon-xr2-5g-reference-design--1328112"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 0
 
 secured: "WXB/a1Od3LTWSjtFqQ9vs1X7aW7Bx/FdNxWNykv1EvkP9r0HKoS99xrzFE4imxHRW46zBmtxdeyvto8mr3LDU3n2iNR9K4E4ZuM1aKazoHwOkR0kcpRF7bRQwtAUvWKvfBixhsXoK6BP1zuBzZXwkS64nrT+3nNJD0DfU6svaqv/yVbCZa1fKsys6jG4yViPD5usPkvepjMVUXUl3rTWuZ9pts9PisZ0vSe3vYB7zBkbGq+rHqmPtfpkj5AkTYk08EdMyY/GvSu6AZhCOh3hSPkEEKz0akSC5E7wmus634S0CnvFmbOVIh9yOwYYIJMMQwkFFygqkCiO0RxJ4nTvCcouoXZzxp0xYpZA0rWaFAQKM0hIZHrKvSkjutAnzbFEJRQj0OgGCNo1DVM56VcY82FAQ1oXxjBsZAHcgRZ49qREnUYDByll6FHX9u3ZaRt8PP2kYaezhWmxiA0C7YRmN7BvjL/pnasxgOw4u9AbWDs=;2k46E8zxN09RtNx0Zmu+kQ=="
 ---

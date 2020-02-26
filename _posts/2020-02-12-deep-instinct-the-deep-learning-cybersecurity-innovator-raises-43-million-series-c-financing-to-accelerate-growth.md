@@ -63,15 +63,6 @@ related:
       - url: "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png"
         width: 1200
         height: 630
-  - title: "AI can be an ally in cybersecurity"
-    excerpt: "Fears surrounding AI and cybersecurity reflect very real risks. AI-powered malware isn’t a threat we need to worry about right now, but attackers have become adept at manipulating AI systems to their own advantage, essentially turning them against users. Widespread manipulation of the algorithms used on social media is already causing ..."
-    publishedDateTime: 2020-02-11T17:08:00Z
-    webUrl: "https://venturebeat.com/2020/02/11/ai-can-be-an-ally-in-cybersecurity/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
   - title: "Cybersecurity startup Deep Instinct raises $43M in new round"
     excerpt: "It brings Deep Instinct’s total amount raised to $100 million. Deep Instinct has developed a patented threat detection platform that uses deep learning techniques to protect against sophisticated and previously unknown threats. The platform is built on a deep neural network that learns to predict and prevent all types of security threats ..."
     publishedDateTime: 2020-02-12T13:12:00Z

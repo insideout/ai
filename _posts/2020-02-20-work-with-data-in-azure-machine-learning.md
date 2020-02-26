@@ -37,6 +37,21 @@ related:
       - url: "https://media.wired.com/photos/5e555fe0a4dea100087f9715/master/pass/Security_gmail-816901264.jpg"
         width: 2300
         height: 1533
+  - title: "Gmail's malware scanner adds deep learning to block malicious Office documents"
+    excerpt: "Google has announced that it recently added deep learning capabilities to its malware scanner for Gmail as part of an effort to detect and block malicious attachments. The new technology will be demonstrated at the RSA 2020 event in San Francisco, California. The search giant's existing document scanner handles more than 300 billion attachments ..."
+    publishedDateTime: 2020-02-26T10:34:00Z
+    webUrl: "https://www.neowin.net/news/gmails-malware-scanner-adds-deep-learning-to-block-malicious-office-documents"
+    ampWebUrl: "https://www.neowin.net/amp/gmails-malware-scanner-adds-deep-learning-to-block-malicious-office-documents/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/gmails-malware-scanner-adds-deep-learning-to-block-malicious-office-documents/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 100
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2018/09/1537445600_gmail_story.jpg"
+        width: 760
+        height: 428
   - title: "Gmail adopts deep learning to scan and block malicious attachments"
     excerpt: "It’s cases like that when AI and machine learning are more suited since they can analyze and learn faster than humans, especially when large volumes of data are involved. The company deployed a new deep learning document scanner at the end of 2019 and it is reporting a marked but not exactly a staggering increase in detection rate ..."
     publishedDateTime: 2020-02-26T04:26:00Z

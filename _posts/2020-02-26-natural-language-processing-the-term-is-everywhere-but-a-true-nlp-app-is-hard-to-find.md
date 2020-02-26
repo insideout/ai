@@ -25,6 +25,6 @@ images:
     height: 846
     title: "Natural Language Processing - the term is everywhere, but a true NLP app is hard to find"
 
-secured: "cWEQBMA/pEKnA+b98uuFkBUKnbjRQ2rVcuEHGC236Gdqm399liegf9xP2JJAUEhgTfJjcnKdayoQHuuFko/zdN/OBWgr8SULRiwfP0tfUjy11KIXtwlcJSZR0pmH2PvTHE+8uL6spMpntzZgoi01iKMInJY5g9Mh9jZSxLVgwLZiCn5WQxOp8vkFnfYTB1FWsQwBYnACqGB5QUMiwrzBePGiQ3bCbIheTWcf8wxHq3UTZxug861iM5ee6IWc8bQBM2kKgizzScq8bp3ulAW383EByLOCwrDjY29CSbZfHv+62/XVioNEbjeJ2CP7nEQy;tXn+f+OHhfVQpSgblw2h4Q=="
+secured: "ccfOm3E7xn4yzbXwCEztxQABioUszYYFKlV/BE+yE5yNArkO1QcxpHRwhzrjk/J4oPBeqZ60+vmhtfYdlSKFyL/X0sMw7IItXsassmNBpI/zV+aotGdp9MBqdcRh33fnORAZa5B/h+kB90dRshLYOG/femrsT4QdiLgVtX40AhLUfgxRLbycbdBE5EgtxMD1kWXVBTJK3QetD5W+H9aK7jAVZU9AXjBbMtOW5cRysHxVaJnXB5JSreD77qCGE1oF4WazvZiQrJMRNQiDCdFll1S8vyqF2AUslvdCkiCHlABFjXRZs2bbCrg57D44K6v5dhXkAJPbWjhcKIqXj+sQ/+d+zOW531DRHdN/KM0exEvDK4IfA7yxmkL0dlp/WXRBCfkLmaJw7Z7OWIySL1fWQ6Te07KIlQhxCHqqc2yxicVRCu0Ka8vYZr0dnpR36fja6fnPfPq2VvM49UVlBz0S57tobrmuBhO/MBpa3bBWvGQ=;0UsJP6cHNRaqMbTMWSNLTQ=="
 ---
 

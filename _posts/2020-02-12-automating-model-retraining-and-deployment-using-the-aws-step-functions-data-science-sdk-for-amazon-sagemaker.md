@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-12T18:22:09Z
 webUrl: "https://aws.amazon.com/blogs/machine-learning/automating-model-retraining-and-deployment-using-the-aws-step-functions-data-science-sdk-for-amazon-sagemaker/"
 type: article
 quality: 100
-heat: 230
+heat: 220
 published: true
 
 provider:
@@ -28,19 +28,6 @@ images:
     title: "Automating model retraining and deployment using the AWS Step Functions Data Science SDK for Amazon SageMaker"
 
 related:
-  - title: "Lowering total cost of ownership for machine learning and increasing productivity with Amazon SageMaker"
-    excerpt: "You have many choices for building, training, and deploying machine learning (ML) models. Weighing the financial considerations of different cloud solutions requires detailed analysis. You must consider the infrastructure, operational, and security costs for each step of the ML workflow, as well as the"
-    publishedDateTime: 2020-02-11T17:01:24Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/lowering-total-cost-of-ownership-for-machine-learning-and-increasing-productivity-with-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 73
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png"
-        width: 1260
-        height: 630
   - title: "Deep Learning Forecasting Model for Dengue Cases in Singapore"
     excerpt: "Feature extraction is crucial to the success of neural network learning. However ... our approach worked better than those without a deep understanding about the nature of the dengue issues ..."
     publishedDateTime: 2020-02-12T23:15:00Z

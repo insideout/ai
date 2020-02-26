@@ -1,17 +1,19 @@
 ---
 category: news
 title: "AI in Education Market is Poised to Post $25.7 Billion Revenue by 2030: P&S Intelligence"
-excerpt: "AI in Education Market Research Report: By Component (Solution, Service), Deployment (Cloud, On-Premises), Technology (Natural Language Processing,"
+excerpt: "AI in Education Market Research Report: By Component (Solution, Service), Deployment (Cloud, On-Premises), Technology (Natural Language Processing, Machine Learning),"
 publishedDateTime: 2020-02-26T05:30:00Z
-webUrl: "https://www.globenewswire.com/news-release/2020/02/26/1990599/0/en/AI-in-Education-Market-is-Poised-to-Post-25-7-Billion-Revenue-by-2030-P-S-Intelligence.html"
+webUrl: "https://www.benzinga.com/pressreleases/20/02/g15413859/ai-in-education-market-is-poised-to-post-25-7-billion-revenue-by-2030-p-s-intelligence"
+ampWebUrl: "https://amp.benzinga.com/amp/content/15413859"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15413859"
 type: article
-quality: 10
+quality: 30
 heat: -1
 published: false
 
 provider:
-  name: GlobeNewswire
-  domain: globenewswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
@@ -155,6 +157,6 @@ related:
       domain: globenewswire.com
     quality: 0
 
-secured: "/7gOn0lIaGt8Xn1KBstPgICfeCuJWp0he+rb8y/vuFfR0Ljl1x9q459XRooyou7Lw5Pn4L23ES7p+5x3OBYvs0c8pUvwEb5JME4xyjp76ZZqC5OsmfJyteLaVrlJVs9b+2FHfTo2/iDo/BCwlFQrCaTaKnVU5KS0BRp6mXsKOFzQABu07gLLcZuN+xF19r6ezyzoHenJAMBdoOfD3oZeMFUtB2S5oavpoHlh4P9I8DRAavGMaLUl8Ja05Q11TKtPuZ+jVBkR3Jqfwrl/lO0rSE7adH0Q9b+ChMVvrZ8O318mibj6Y3MGh5yD/ZMCZzvH;0DlHBTG5QI1ps0SGV8Oq2w=="
+secured: "eLSregvdOxz8phAlqyjfCc3z4XHO1SWJ8uyEktwqwx1IYmGmbUNFb02x+KNBaRmqk1QUtAisI0B8MEqJJ8ZPI7hvfaZ5Zam3tQYVx3j2mONO0H0cvMCep30saAK9/xmhqX+aBVNfOPQmcmRp+tjXQbQVBCYNcHAUAyUO77WjdRY+qBP3QimkRH6rZLIzQkqH332YKb2GRy4DRKFsjjnambniryTMtjqzJW+L6s6XEF6ImT5ogQvhh/C7BLFV9oJ/IAaDbnOnVdF8cBA1UHrkHQ1sSf/g9BT7XvH32lSf2L4TwEm7auBUWklRv/2dJlat;Tv1kFDmIQAhpOlC9BZ0kYg=="
 ---
 

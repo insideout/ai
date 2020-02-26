@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-24T14:00:00Z
 webUrl: "https://venturebeat.com/2020/02/24/intel-debuts-5g-server-and-base-station-chips-plus-a-pc-network-card/"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -41,6 +41,19 @@ related:
       - url: "https://www.fudzilla.com/media/k2/items/cache/f8d1d191e7f24a1bc5c245f2e454cef8_L.jpg"
         width: 620
         height: 426
+  - title: "Optimization of culture conditions for differentiation of melon based on artificial neural network and genetic algorithm"
+    excerpt: "Artificial neural network is an efficient and accurate fitting method. It has the function of self-learning, which is particularly important for prediction, and it could take advantage of the computer’s high-speed computing capabilities and find the optimal solution quickly. In this paper, four culture conditions: agar concentration ..."
+    publishedDateTime: 2020-02-26T10:21:00Z
+    webUrl: "https://www.nature.com/articles/s41598-020-60278-x"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 14
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-60278-x/MediaObjects/41598_2020_60278_Fig1_HTML.png"
+        width: 685
+        height: 476
 
 secured: "VnkCxTQuUiJ2nD1ZNLmz+rT/dlYNkWIwFu7Pbz86M9PIF/7jlfwPusp+NcaajW62IBXfRb7m8PMkrNrdRKOt++9ZvuABzvtVCW26AuV3cxbuwMQS8NPcTR/a+m2ynTQxTXDWq6GBGDXRDBJqNU4V+1eVsIPWbdMAacT8rJyh9c0a+h/+lTAka2q/puKYb0Qny8N0WUZyS58X7QHvwpb1RMJGuChWHAN6ye3dLfc3zojrmVW2uF07JUKu+fG6cayokGsCLXIpKc532s0pepjuZ+QFjJLE9xGEz9DAaHbs8uuOVBuBY+6oCAH/ZVrVkbB/wMYQH0QOMatK1UjeXitlM/HOmg6E+csssh8p/TT0gAAjfVDgAXMf6ST3Aw7WelnXW+XNtWahLz/4ZHATauqggsgVFAoWrdQzhyGo+Qbts5XNXpp4UEirNPCXF6NKyXoFN/lFJ/d7b1A0JsxhCuvQaPWvbRmYzER7cGoaLEgXv94=;Q/IhutCELuL9EkoOFQpBDQ=="
 ---

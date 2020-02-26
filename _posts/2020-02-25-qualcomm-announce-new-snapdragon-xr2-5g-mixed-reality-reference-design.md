@@ -63,6 +63,15 @@ related:
       - url: "https://images.hothardware.com/contentimages/newsitem/50858/content/snapdragon_xr2_5g_3.jpg"
         width: 708
         height: 473
+  - title: "Qualcomm accelerates XR headset development with new Snapdragon XR2 5G reference design"
+    excerpt: "Powered by the Snapdragon XR2 Platform, the reference design has 2x the CPU and GPU performance, 4x more video bandwidth, 6x higher resolution and 11x AI improvement compared to the company's current widely adopted XR platform. The reference design supports up to seven cameras. It features two internal cameras, one for each eye to support eye ..."
+    publishedDateTime: 2020-02-26T10:22:00Z
+    webUrl: "https://www.telecompaper.com/news/qualcomm-accelerates-xr-headset-development-with-new-qualcomm-snapdragon-xr2-5g-reference-design--1328112"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 0
 
 secured: "/vCmtRZF8znabp0LWt8DgW/h0ssx9bFK1/E7akvX4ofiYxYifXtEBLqDxsY7x8WUPV76y7x2I/Il/J2KU0tNXuJYB/gOLFbNuZKLzu9r+R4ZUh+zKzbiyMDI9fGInUYSDnNL/Lw/yC8zIB1YqddvYYa0NM9HH1fzfNF1Bh6FWCvucie8BNKvhE+40BCX1ouK72QAYOt2JtZblxafxv6DuRGwlLRiqCnoggpES/Y0ueZ9c1I5QJdkLKoyr0jJFngJWI09OlVUUSjumx7+PDmU55r7T5eIuBhtvFCDxd2DeJcAyQ+FDRhm9IV9yaP2cg+904+4EiDnwsu5Be3Ezp362qjuQB0dNpyABZP7TMSyBmto6xNHVpnJwL2qulkcE3WPn4YEVXru3APtq/xMn6EoTKsly3mx1XEQ+7WLx+hgD7kAUS9W1hha44SE5WQOQeRT8dfQj+KE3qLi9hptmhsVwkZBAwR46pzf4PxCLnKik9g=;YXjoy/G37KW2Q2jcbVJgYw=="
 ---

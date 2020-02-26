@@ -95,15 +95,6 @@ related:
       name: Law360
       domain: law360.com
     quality: 24
-  - title: "Can self-driving cars handle Canadian winters?"
-    excerpt: "University of Toronto professor Steven Waslander talks about a new study, which will be used to determine whether self-driving cars can handle the snow and ice from harsh Canadian winters. <iframe src=\"https://globalnews.ca/video/embed/6535979/\" width=\"670\" height=\"372\" frameborder=\"0\" allowfullscreen scrolling=\"no\"></iframe> <style>.gn-embed ..."
-    publishedDateTime: 2020-02-11T16:22:00Z
-    webUrl: "https://globalnews.ca/video/6535979/can-self-driving-cars-handle-canadian-winters"
-    type: article
-    provider:
-      name: Global News
-      domain: globalnews.ca
-    quality: 4
 
 secured: "Z9O4PKTeujKC/8pgYDq7TAbfSON9r4cKFks4sUwhJmh1KI1I6oOPuVNU2aSiNkemiAv5uWqF4E332xvoCHuzhoefxq//hnVM6qiRb8+EaebjTQsTJfKeHAh+Xl9mqXaeAulXFX0QOjlARO4cFkwLogM66wsqG67mQLNEPwPnsgLXiwQRsIgevd0ontTJlnQeexNtcPFTfTJ2SkGxYvG+8AHXxm0Ujcw1KdKEHZT99EElHMR9iR5GcJNlLnNvbAUwhdMzAKgYVEuCfKh6Y0qSiARN4O9rcVtnZU90PBUkJPHwrS5GlwGIHZAiQpYxrlfld0v2pm2J3fjKzLWjHAhoJk8EZsfxWQ6KeU2tuTRPDQv6/a1H0u2KuqEottLTy1Rlbq2JJFCX30g8S+TmWk9iyY6tMQsqATM1JUsgvFaqwZbS3RhwPy0/M5uYFlm5uC+5ddZaluQSWzxWHCB0BisG+VBYulK+7cJv5oGdZ8yijYc=;EaQLraLt9ZZrueVpoMZWeA=="
 ---

@@ -25,21 +25,19 @@ images:
     title: "How Is Artificial Intelligence Reshaping Cybersecurity?"
 
 related:
-  - title: "McAfee CTO: How AI is changing both cybersecurity and cyberattacks"
-    excerpt: "McAfee, one of the big players in the industry, is adding AI capabilities to its own suite of tools that protect users from increasingly automated attacks. A whole wave of startups — like Israel ..."
-    publishedDateTime: 2020-02-11T17:04:00Z
-    webUrl: "https://venturebeat.com/2020/02/11/mcafee-cto-how-ai-is-changing-both-cybersecurity-and-cyberattacks/"
-    ampWebUrl: "https://venturebeat.com/2020/02/11/mcafee-cto-how-ai-is-changing-both-cybersecurity-and-cyberattacks/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/11/mcafee-cto-how-ai-is-changing-both-cybersecurity-and-cyberattacks/amp/"
+  - title: "VB Special Issue: AI and Security"
+    excerpt: "Both AI and cybersecurity are nearly omnipresent in our daily lives, and the intersection of the two is of increasing importance as our world becomes more connected, more “intelligent,” and more reliant on online or automated systems. AI technology can impact existing problems in cybersecurity, national security, physical safety ..."
+    publishedDateTime: 2020-02-11T18:06:00Z
+    webUrl: "https://venturebeat.com/vb-special-issue-ai-and-security/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 89
+    quality: 67
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/01/11-McAfee-interview.jpg?fit=2160%2C1078&strip=all"
-        width: 2160
-        height: 1078
+      - url: "https://venturebeat.com/wp-content/uploads/2020/02/ai-and-security-header-2x1-1.png?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
 
 secured: "eZuPD/HprlKNrvzGFEpxC4lDPBJuRiYKhdq538Bh4k4lUoMNy1IJPYCvHg7KPSbTNb0XP7PDBaBjXFeikWQhhh4sZ8AbXxRFumfss37Rn2zVDoNjApbkGk3tGYbWYx0vasq0qm1a0Bmh6K7X0n8pmWaThAs+Qw3H3LXj7WR9jJjQTH5Lb0BVsReI8Y6CsohoJ1OgksdkFM5PKCsMoosGYLsxX9SSg3KyPtaSSz/5U0ScTorOqBQRoTHi5E959lD9+62+uuZA9aZ/gUaf6JhswUdprCluczuuSBXYU/G/Xy/2wh0y2dfip5m36Z4SnQm7LA+Nxsko0y8/oGmoJUXYGzncgqHBIgSlBBtx9kBcPG1ocriFMHARue/3WS5ZOO4CRCueSlRkXGGl3DyiL/CbW9gpApZHdEJioxWWVUwA7dm1Ikfyc8sMVCLbV79ynuOIyArEOygCtKhihFxjjNAtcgEV7KP3yMYUd+EdxEU4VHo=;p/ZgDLKsZRFhGaOv9tozaA=="
 ---

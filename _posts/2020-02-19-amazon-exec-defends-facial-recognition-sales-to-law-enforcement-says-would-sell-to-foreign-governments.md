@@ -454,15 +454,6 @@ related:
       - url: "https://inews.co.uk/images-i.jpimedia.uk/imagefetch/https://inews.co.uk/wp-content/uploads/2020/02/Thumbnail-maker-91.jpg"
         width: 1200
         height: 630
-  - title: "Artificial Intelligence and Facial Recognition Could Change How Vegas Casinos Work"
-    excerpt: "The applications of AI into casinos and poker online could be massive. However, most industry experts agree that there is more value in incorporating facial recognition into the overall customer experience. For example, a facial recognition system can easily identify customers as they come in. Facial recognition tech installed on slot machines ..."
-    publishedDateTime: 2020-02-11T16:13:00Z
-    webUrl: "https://www.tmcnet.com/topics/articles/2020/02/11/444432-artificial-intelligence-facial-recognition-could-change-how-vegas.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 28
   - title: "Civil liberties group warns about face recognition system considered by Florida law enforcement departments"
     excerpt: "Civil liberties advocates are warning about powerful face recognition software that could be coming to a police department near you. The Tampa Bay Times is reporting that about a dozen law enforcement agencies in Florida have tested or purchased a facial recognition system from a company called Clearview AI. WMNF interviewed Nate Freed Wessler ..."
     publishedDateTime: 2020-02-14T22:14:00Z

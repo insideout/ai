@@ -95,6 +95,15 @@ related:
       - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
         width: 252
         height: 335
+  - title: "Google Tells Clearview To Stop Scraping Photos For Facial Recognition Database"
+    excerpt: "Google and its video service YouTube have joined Twitter in demanding that facial recognition startup Clearview AI stop scraping photos from their services. “YouTube’s terms of service explicitly forbid collecting data that can be used to identify a person,” a spokesperson told CBS, which first reported the company's move. The tech ..."
+    publishedDateTime: 2020-02-17T23:20:00Z
+    webUrl: "https://www.mediapost.com/publications/article/346692/google-tells-clearview-to-stop-scraping-photos-for.html?edition="
+    type: article
+    provider:
+      name: MediaPost
+      domain: mediapost.com
+    quality: 15
 
 secured: "OWtQup8hYeZWbWFedvl535ThTAC0LoJL91Kv+IemF91alSHd2p5oMQZVjLiR+zLaLz5imC5EsQUPGJDv0cUXLhPeWYgNOpz/PN+373BS1rAzUCenteiI1A0CqgP2sg5xSCK3l/aj5va6qar0xIn1P0+ymlT8OxmBkgaoVDcAHkQ0sD0ao4ME61ZJlZFght+1a2Wg0VET6hCAxKWsBLLfqtrWZnWd+E8PSmTG9/51PIo7cMIILY60gATEZlbdLndfE2rtq51Hrkt+2xeUYa3vrV4VLmKqwd0r7bUL0JXBiAGMhMGVkyYaAklWUogFW1m2;UpGdE3qbqTsWnG3aL3aBRg=="
 ---

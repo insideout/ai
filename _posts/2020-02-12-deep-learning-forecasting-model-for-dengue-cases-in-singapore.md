@@ -41,19 +41,6 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/01/31/automating-model-retraining-3.gif"
         width: 800
         height: 397
-  - title: "Lowering total cost of ownership for machine learning and increasing productivity with Amazon SageMaker"
-    excerpt: "You have many choices for building, training, and deploying machine learning (ML) models. Weighing the financial considerations of different cloud solutions requires detailed analysis. You must consider the infrastructure, operational, and security costs for each step of the ML workflow, as well as the"
-    publishedDateTime: 2020-02-11T17:01:24Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/lowering-total-cost-of-ownership-for-machine-learning-and-increasing-productivity-with-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 73
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png"
-        width: 1260
-        height: 630
   - title: "Run RAPIDS experiments at scale using Amazon SageMaker"
     excerpt: "In this post, I’ll walk through an end-to-end code example of how you can run scale-out RAPIDS using Amazon SageMaker"
     publishedDateTime: 2020-02-12T20:44:00Z

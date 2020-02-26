@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-12T10:00:00Z
 webUrl: "https://www.globenewswire.com/news-release/2020/02/12/1983636/0/en/Aiera-Raises-7M-to-Further-Event-Intelligence-and-Insights-Platform.html"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -16,30 +16,6 @@ provider:
 topics:
   - AI
   - Natural Language Processing
-
-related:
-  - title: "Sixgill raises $15M to expand its dark web intelligence platform"
-    excerpt: "For enterprises and agencies that don’t have their own staff to run the service, Sixgills also offers access to its internal analysts. “Sixgill uses advanced automation and artificial intelligence technologies to provide accurate, contextual intelligence to customers. The solution integrates seamlessly into the platforms that security teams ..."
-    publishedDateTime: 2020-02-11T16:12:00Z
-    webUrl: "https://techcrunch.com/2020/02/11/sixgill-raises-15m-to-expand-its-dark-web-intelligence-platform/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 47
-  - title: "ASG Technologies Partners with 4th-IR to Enrich ASG Data Intelligence with AI Models and Data Expertise"
-    excerpt: "ASG and 4th-IR have also combined the power of an automated lineage process with the analytical capabilities of artificial intelligence in the Virtual Compliance Officer (VCO). The VCO helps companies enhance compliance and performance in their audits with an efficient and scalable workforce. \"4th-IR provides Applied Intelligence to enhance the ..."
-    publishedDateTime: 2020-02-18T13:39:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-asg-technologies-partners-with-4th-ir-enrich-asg-/2020/02/18/9099404.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 21
-    images:
-      - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
-        width: 252
-        height: 335
 
 secured: "6cTVWtsesi9ydYjr7E1sa/nJilB7BRZIOqJ9j1hvAk269FmYX78nqwpxZFibBhtR/hxn/dU3ZKNUb6SWtFWeESdNRvdUsC//v4w8D73p7MEXOMFfcr5IGdBlIy4hWDbUNQFi8pZYwygphYbAZaCsgPbUS8JZ2rUhM2VpyU/fiAFYAQkArBpwai/eUDZ0flrnP8tpQ4JOjbQFGkjD0/JeYR+RkNeeP8O4T35xnvFb1askrBOyRHeePY4ZZujQ8BU/VDzO8Ub6Z1KgP93aaMrCUCiOhPSnte2uxgi8PX03oAghx8nckeJ7EhSq1D52vFoLF7h5AECU0Pq3JB3SPp0gp9auymZz/Gv8bWmIIketuevcMYRNZlMoFjjBmkEIHpPZUptUtI9lJe/2o64qskvXlJMykpcnsfsCeiuARDktRmWl289v1OzKjgAYFAIK1SLJ600CH9kZUh3het2ku0oV9El5anmQXIOBYLZ2Y67ZcVU=;Q0gxkjgohrgnf8b52TGDuw=="
 ---

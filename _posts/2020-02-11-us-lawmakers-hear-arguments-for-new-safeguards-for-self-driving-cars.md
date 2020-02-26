@@ -8,7 +8,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/u.s.-lawmakers-hear-arguments-for-ne
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/u.s.-lawmakers-hear-arguments-for-new-safeguards-for-self-driving-cars-2020-02-11?amp"
 type: article
 quality: 74
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -95,15 +95,6 @@ related:
       name: Law360
       domain: law360.com
     quality: 24
-  - title: "Can self-driving cars handle Canadian winters?"
-    excerpt: "University of Toronto professor Steven Waslander talks about a new study, which will be used to determine whether self-driving cars can handle the snow and ice from harsh Canadian winters. <iframe src=\"https://globalnews.ca/video/embed/6535979/\" width=\"670\" height=\"372\" frameborder=\"0\" allowfullscreen scrolling=\"no\"></iframe> <style>.gn-embed ..."
-    publishedDateTime: 2020-02-11T16:22:00Z
-    webUrl: "https://globalnews.ca/video/6535979/can-self-driving-cars-handle-canadian-winters"
-    type: article
-    provider:
-      name: Global News
-      domain: globalnews.ca
-    quality: 4
 
 secured: "m26YErCstRArgKjX6kVm5Nx5aOUro7jjHD/beJm2LWpNhe8JEwGnAF74YIG3s0jovkynixaLBTTC93NDYPs97EA1UMTfuaGXCnmf9PTpPu5tTugI9RUif1uMEntpNzA2iz4G3lx9ZJzK0c/7rzwKQQNXoyDUw9VHjkEKO4V6KkXwovMmPIplUAV53zUC4MHaXWbB9bGsGc8eT1eCd4bT1ztqgIIJtz2NKoOrpBecLpJRWcO4n9H+8kxSofRqgoPxD/qKNjjRw0evxbBvOf2FYFztGLsVuhDdGBBlDtFXry/+ZUpfU4S8URR7NOcaFbVwAMgMdZyA/2pjNWFJ2B8cvjgp7k/ujqn67bpMWgUY55yY9sFO15qhu+rKD5AD1fp8Eb0tX7SeGMGDjvcYHRDnFoNpVP3JS7XhsSH0gxdNE28GyUGhQM8FBA3C0hmqP+4alBMONeaf6mfhZ11IOakp9vgUtRmon2gv9aDEUhasf28=;9pEC99oKpVzAjv2JGaBaww=="
 ---

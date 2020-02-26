@@ -100,6 +100,21 @@ related:
       - url: "https://i.guim.co.uk/img/media/5ad9424c30e580fdc638c52ef7cd200e61ad6e07/363_670_3568_2141/master/3568.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0b80c4e4b7fb6e665ef4567b4a989f87"
         width: 600
         height: 360
+  - title: "MIT discovers a powerful antibiotic using machine learning"
+    excerpt: "Massachusetts Institute of Technology (MIT) researchers have discovered a powerful antibiotic compound using their machine-learning algorithm to counter many of the world’s deadliest bacteria, including some strains that are immune to all known antibiotics. It prevented infections in two different mouse models, according to MIT official release."
+    publishedDateTime: 2020-02-26T10:45:00Z
+    webUrl: "https://www.thehindubusinessline.com/news/science/mit-discovers-a-powerful-antibiotic-using-machine-learning/article30921742.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/news/science/mit-discovers-a-powerful-antibiotic-using-machine-learning/article30921742.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/science/mit-discovers-a-powerful-antibiotic-using-machine-learning/article30921742.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 59
+    images:
+      - url: "https://www.thehindubusinessline.com/static/theme/default/base/img/og-image.jpg"
+        width: 300
+        height: 300
   - title: "AI May Help Speed Up Drug Discovery, Fight Antibiotic Resistant Bacteria"
     excerpt: "The compound, Halicin, works by killing bacteria's ability to maintain the electrochemical gradient necessary to produce energy-storing molecules."
     publishedDateTime: 2020-02-24T12:38:00Z

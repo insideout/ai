@@ -69,15 +69,6 @@ related:
       - url: "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png"
         width: 1200
         height: 630
-  - title: "AI can be an ally in cybersecurity"
-    excerpt: "Fears surrounding AI and cybersecurity reflect very real risks. AI-powered malware isn’t a threat we need to worry about right now, but attackers have become adept at manipulating AI systems to their own advantage, essentially turning them against users. Widespread manipulation of the algorithms used on social media is already causing ..."
-    publishedDateTime: 2020-02-11T17:08:00Z
-    webUrl: "https://venturebeat.com/2020/02/11/ai-can-be-an-ally-in-cybersecurity/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
   - title: "Deep Instinct, The Deep Learning Cybersecurity Innovator, Raises $43 Million Series C Financing To Accelerate Growth"
     excerpt: "NEW YORK--(BUSINESS WIRE)--Deep Instinct, the first and only cybersecurity company to successfully apply end-to-end deep learning to predict, identify, and prevent cyberattacks, announced its $43 million Series C funding. The round was led by Millennium New Horizons, with participation from Unbound, the London-based investment firm founded by ..."
     publishedDateTime: 2020-02-12T13:36:00Z

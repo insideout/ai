@@ -18,77 +18,90 @@ topics:
   - Computer Vision
 
 related:
-  - title: "Army looks to block data ‘poisoning’ in facial recognition, AI"
-    excerpt: "The Army has many data problems. But when it comes to the data that underlies facial recognition, one sticks out: Enemies want to poison the well. Adversaries are becoming more sophisticated at providing “poisoned,” or subtly altered, data that will mistrain artificial intelligence and machine learning algorithms. To try and safeguard ..."
-    publishedDateTime: 2020-02-11T17:17:00Z
-    webUrl: "https://www.fedscoop.com/army-looks-block-data-poisoning-facial-recognition/"
+  - title: "Leaked Reports Show EU Police Are Planning a Pan-European Network of Facial Recognition Databases"
+    excerpt: "the EU could soon be creating a network of national police facial recognition databases. A report drawn up by the national police forces of 10 EU member states, led by Austria, calls for the introduction of EU legislation to introduce and interconnect such databases in every member state. The report, which The Intercept obtained from a European ..."
+    publishedDateTime: 2020-02-21T17:08:00Z
+    webUrl: "https://theintercept.com/2020/02/21/eu-facial-recognition-database/"
     type: article
     provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 154
+      name: The Intercept
+      domain: theintercept.com
+    quality: 126
     images:
-      - url: "https://www.fedscoop.com/wp-content/uploads/2020/02/GettyImages-1167845607.jpg"
-        width: 2309
-        height: 1299
-  - title: "Met Police rolls out live facial recognition in London"
-    excerpt: "This is the Met Police’s first live deployment of facial recognition technology in London, following 10 trials around the city since 2016 and months of public debate about the use of the controversial biometric software on the public. The rollout comes in the wake of similar deployments in countries including China, Brazil, India and Wales."
-    publishedDateTime: 2020-02-12T04:00:00Z
-    webUrl: "https://www.ft.com/content/db8bfc3c-4cf4-11ea-95a0-43d18ec715f5"
-    ampWebUrl: "https://amp.ft.com/content/db8bfc3c-4cf4-11ea-95a0-43d18ec715f5"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/db8bfc3c-4cf4-11ea-95a0-43d18ec715f5"
+      - url: "https://theintercept.com/wp-uploads/sites/1/2020/02/YotamHadar_TheIntercept_EUv4-still-1582297909.jpg"
+        width: 2000
+        height: 1000
+  - title: "Editorial: Facial recognition software takes personal invasion into a new dimension"
+    excerpt: "Law enforcers around the world are celebrating the rapidly expanding potential of facial recognition software to help them catch criminals faster and solve long-dormant cases. Such capabilities in the right hands could reap enormous public safety dividends. But in the wrong hands, an entirely new dimension in crime, extortion and mayhem could ..."
+    publishedDateTime: 2020-02-18T23:02:00Z
+    webUrl: "https://www.dailycamera.com/2020/02/18/editorial-facial-recognition-software-takes-personal-invasion-into-a-new-dimension/"
+    ampWebUrl: "https://www.dailycamera.com/2020/02/18/editorial-facial-recognition-software-takes-personal-invasion-into-a-new-dimension/amp/"
+    cdnAmpWebUrl: "https://www-dailycamera-com.cdn.ampproject.org/c/s/www.dailycamera.com/2020/02/18/editorial-facial-recognition-software-takes-personal-invasion-into-a-new-dimension/amp/"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 59
+      name: Daily Camera
+      domain: dailycamera.com
+    quality: 53
     images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F104630ce-4cea-11ea-95a0-43d18ec715f5?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
-  - title: "CEO Glaser invests $10M in RealNetworks, bullish on facial recognition software, gaming"
-    excerpt: "RealNetworks Inc. CEO Rob Glaser is so bullish on the company’s facial recognition software and its gaming pipeline that he pledged this week to invest nearly $10 million of his personal funds into the company."
-    publishedDateTime: 2020-02-12T18:37:00Z
-    webUrl: "https://www.bizjournals.com/seattle/news/2020/02/12/glaser-invests-10m-in-realnetworks-bullish-on.html"
-    ampWebUrl: "https://www.bizjournals.com/seattle/news/2020/02/12/glaser-invests-10m-in-realnetworks-bullish-on.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/seattle/news/2020/02/12/glaser-invests-10m-in-realnetworks-bullish-on.amp.html"
+      - url: "https://www.dailycamera.com/wp-content/uploads/2019/04/DC-backupimage-1000x563.jpg"
+        width: 1000
+        height: 563
+  - title: "Canadian privacy officials will investigate controversial facial recognition tool used by Toronto police"
+    excerpt: "TORONTO -- The federal privacy watchdog and three provincial ombudsmen have announced an investigation into the controversial facial recognition software used by several police services, including Toronto. “The investigation was initiated in the wake of numerous media reports that have raised questions and concerns about whether the company ..."
+    publishedDateTime: 2020-02-21T18:56:00Z
+    webUrl: "https://toronto.ctvnews.ca/canadian-privacy-officials-will-investigate-controversial-facial-recognition-tool-used-by-toronto-police-1.4822198"
+    ampWebUrl: "https://beta.ctvnews.ca/local/toronto/2020/2/21/1_4822198.html"
+    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/toronto/2020/2/21/1_4822198.html"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 51
+      name: CTV News
+      domain: ctvnews.ca
+    quality: 42
     images:
-      - url: "https://media.bizj.us/view/img/11480968/rob-glaser-ceo-realnetworks-01*600xx4965-3310-9-0.jpg"
-        width: 600
-        height: 400
-  - title: "Facial recognition has been championed for keeping data safe - but some targeting practices are making customers uneasy"
-    excerpt: "eMarketer shares key 2020 insights on which uses of facial recognition technology will be the best received by audiences and how advertisers can adjust their strategies accordingly."
-    publishedDateTime: 2020-02-11T22:23:00Z
-    webUrl: "https://www.businessinsider.com/facial-recognition-privacy-safety-trends"
+      - url: "https://beta.ctvnews.ca/local/toronto/2020/2/21/1_4822198/_jcr_content/root/responsivegrid/image.coreimg.jpg"
+        width: 1280
+        height: 901
+  - title: "Facial Recognition: Beware the ‘Long Arm of the Algorithm’"
+    excerpt: "Facial recognition is unlikely to provide sufficient evidence to determine a guilty suspect in court without the intervention of human judgment, say two researchers from the United Kingdom. In a case study analyzing the South Wales Police Department’s automated facial recognition (AFR) pilot program called “AFR Locate,” found serious ..."
+    publishedDateTime: 2020-02-18T13:05:00Z
+    webUrl: "https://thecrimereport.org/2020/02/18/facial-recognition-beware-the-long-arm-of-the-algorithm/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 45
+      name: thecrimereport.org
+      domain: thecrimereport.org
+    quality: 39
     images:
-      - url: "https://i.insider.com/5806c115c52402c3008b54aa?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-  - title: "‘What I saw in Hong Kong was truly scary’: EU to urge caution on use of facial recognition amid fears of Big Brother-style society"
-    excerpt: "Amid fears of a Big Brother-style society ruled by machines, the EU will urge authorities and companies to think hard before rolling out facial recognition technology. But the bloc, which will make a much-anticipated announcement this week on the role of artificial intelligence (AI), will stop short of imposing an outright ban, a top official said."
-    publishedDateTime: 2020-02-16T23:43:00Z
-    webUrl: "https://www.scmp.com/news/world/europe/article/3050895/what-i-saw-hong-kong-was-truly-scary-eu-urge-caution-use-facial"
-    ampWebUrl: "https://amp.scmp.com/news/world/europe/article/3050895/what-i-saw-hong-kong-was-truly-scary-eu-urge-caution-use-facial"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/world/europe/article/3050895/what-i-saw-hong-kong-was-truly-scary-eu-urge-caution-use-facial"
+      - url: "https://thecrimereport.org/wp-content/uploads/2020/02/photo-by-Endstation-Jetzt.jpg"
+        width: 800
+        height: 549
+  - title: "EU poised to create massive transatlantic facial-recognition database, link with US"
+    excerpt: "The EU is laying the groundwork for a massive international facial recognition database that may someday hook into the one maintained by the US, according to leaked internal documents. National police forces of 10 EU member states are calling for a legal framework to create a massive system of interlinked facial recognition databases “as ..."
+    publishedDateTime: 2020-02-22T02:24:00Z
+    webUrl: "https://www.rt.com/news/481441-eu-facial-recognition-database-surveillance/"
+    ampWebUrl: "https://www.rt.com/news/481441-eu-facial-recognition-database-surveillance/amp/"
+    cdnAmpWebUrl: "https://www-rt-com.cdn.ampproject.org/c/s/www.rt.com/news/481441-eu-facial-recognition-database-surveillance/amp/"
     type: article
     provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 29
+      name: RT
+      domain: rt.com
+    quality: 38
     images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/02/17/0cb516d6-5114-11ea-8948-c9a8d8f9b667_image_hires_073744.jpg?itok=8I6egWZ4&v=1581896270"
-        width: 1200
-        height: 630
+      - url: "https://cdni.rt.com/files/2020.02/xxl/5e5086f785f54034da19d85a.JPG"
+        width: 1240
+        height: 697
+  - title: "Announcement - Commissioners launch joint investigation into Clearview AI amid growing concerns over use of facial recognition technology"
+    excerpt: "Media reports have stated that Clearview AI is using its technology to collect images and make facial recognition available to law enforcement for the purposes of identifying individuals. The company has also claimed to be providing its services to financial institutions. The four privacy regulators will examine whether the organization's ..."
+    publishedDateTime: 2020-02-21T17:10:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-announcement-commissioners-launch-joint-investigation-into-clearview-ai-/2020/02/21/9102220.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 21
+    images:
+      - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
+        width: 252
+        height: 335
 
 secured: "6WAqoyg+z4dq/OrOhQmQszrQ5rlRn5G8lX3nLtwI9JMlYKnk3XKd8Hm3kLrnvjThKWfodSQkMZUbCJ7oeYaqZljwCb7nfZAgmkstmEEmrke5F7XZ6fbRgpDVtOHki25erC2UkLRbc5ctuk4eXKWDDMpFUWTiqlwrGddkQhoAhPSQsN6yGWIlFIXBrwHQnPIQK8YlGOFRrhTVNn036NHe7m5m8DasnoiQJNTsZqCYk4K+ZMd9HiJBzQ2TosrM5CvsxZ2G9DGGURxlHxeWPhtJO03Rg/V5xeYbbsuqy8JvShMZg9AkZtxrBzjO4H41uUOk;wl016MVDoVVMBkVvZKg8dg=="
 ---

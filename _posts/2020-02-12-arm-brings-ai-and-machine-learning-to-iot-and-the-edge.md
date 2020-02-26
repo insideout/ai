@@ -50,15 +50,6 @@ related:
       - url: "https://247wallst.files.wordpress.com/2020/01/imageforentry19-gsk.jpg?w=1200"
         width: 1200
         height: 675
-  - title: "Arm brings AI and machine learning to IoT and the edge"
-    excerpt: "However, because a great deal of ML and AI-based algorithm work is being created in frameworks, such as TensorFlow, the company is also bringing support for its new IP designs into TensorFlow Lite Micro, which is optimized for the types of smaller devices for which these new chips are intended. In addition to software, there are several ..."
-    publishedDateTime: 2020-02-11T16:10:00Z
-    webUrl: "https://www.techspot.com/news/83965-arm-brings-ai-machine-learning-iot-edge.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 68
   - title: "Can machine learning and artificial intelligence save lives?"
     excerpt: "As we move forward with the technology like artificial intelligence and machine learning, we can only access its true power for good through the skills of talented programmers, working in cooperation with medical professionals."
     publishedDateTime: 2020-02-17T23:20:00Z

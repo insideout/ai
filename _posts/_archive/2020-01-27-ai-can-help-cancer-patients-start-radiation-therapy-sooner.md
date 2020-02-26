@@ -30,12 +30,14 @@ related:
     excerpt: "Artificial intelligence can help cancer patients start their radiation therapy sooner—and thereby decrease the odds of the cancer spreading—by instantly translating complex clinical data into ..."
     publishedDateTime: 2020-01-28T07:25:00Z
     webUrl: "https://medicalxpress.com/news/2020-01-ai-jump-start-therapy-cancer-patients.html"
+    ampWebUrl: "https://medicalxpress.com/news/2020-01-ai-jump-start-therapy-cancer-patients.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-01-ai-jump-start-therapy-cancer-patients.amp"
     type: article
     provider:
       name: Medical Xpress
       domain: medicalxpress.com
-    quality: 34
+    quality: 54
 
-secured: "AB/HgrbXMPi/0Ur5R04pcAZ7qpeyAkoMbKxaZhBy2BIpsQ2fS6umi/g1mJK1AgQ9+5u03eq6CTWqqa56Pkk7zYmWHo/JhoHsOqj0ElSUHazK20u60WmqLRi8ZqqVxDwfzUkilclIni7v8YFBQv362JZNWwN/XQIOUjDZQF4CcLwKMuwfx+gK6pg6jnQohGIusYF67ckPmvayIijLh8BxLVt4V4GwzIg3nloZcvUwTmp0/W/SkxIfxMBhA3CpMjp9KM1tXcxO+Z3WdyB774AorEKYc1zSmdTf32F5VAi7moX+zDUNK5iIgcqgYTflvsI2;Wvywc2sj1lZKnxFPinQBLQ=="
+secured: "fgg9YXnU2p6aJjELFv9x9NT4UnA7luUGsdXaupXBWu5/drDtGhu3QR5isaJOFAlWXaVB1gRzsW24CqqpLZF32Dn8x/tAe/fcMNgZuqBTCvx4IQXI24aWdNMN6WBAcUzniZX/SiPgHV6jj+Wd793sTIvVBAqr2OHS34bNqA3v3js7+BcmCgjqZwB/KRAADnqVw9YM5lYdq11pd1mBgk84L8zVeIW94tZm7VWLUYX6rh8eiGxt7xmbmcqlY1sDxBHecqDaEq+/Az2Q+d8T6+a64tkUOoLMfYkm7t/vJ3XWNz7oNQPzZHuESE9t3HZzqSKe;/J/DzDnbLaJtbrP7fSofRg=="
 ---
 

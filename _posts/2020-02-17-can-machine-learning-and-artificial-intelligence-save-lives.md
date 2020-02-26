@@ -49,15 +49,6 @@ related:
       - url: "https://247wallst.files.wordpress.com/2020/01/imageforentry19-gsk.jpg?w=1200"
         width: 1200
         height: 675
-  - title: "Arm brings AI and machine learning to IoT and the edge"
-    excerpt: "However, because a great deal of ML and AI-based algorithm work is being created in frameworks, such as TensorFlow, the company is also bringing support for its new IP designs into TensorFlow Lite Micro, which is optimized for the types of smaller devices for which these new chips are intended. In addition to software, there are several ..."
-    publishedDateTime: 2020-02-11T16:10:00Z
-    webUrl: "https://www.techspot.com/news/83965-arm-brings-ai-machine-learning-iot-edge.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 68
   - title: "Arm Brings AI And Machine Learning To IoT And The Edge"
     excerpt: "However, because a great deal of ML and AI-based algorithm work is being created in frameworks, such as TensorFlow, the company is also bringing support for its new IP designs into TensorFlow Lite Micro, which is optimized for the types of smaller devices for which these new chips are intended. In addition to software, there are several ..."
     publishedDateTime: 2020-02-12T14:19:00Z

@@ -5,8 +5,8 @@ excerpt: "TensorFlow Lite is a set of tools to help developers run TensorFlow mo
 publishedDateTime: 2020-02-07T20:07:00Z
 webUrl: "https://medium.com/analytics-vidhya/tensorflow-lite-on-android-4ba47742a67f"
 type: article
-quality: 49
-heat: -1
+quality: 69
+heat: 69
 published: false
 
 provider:
@@ -21,21 +21,12 @@ topics:
   - AI
   - Google AI
 
-related:
-  - title: "Tensorflow 2.1 running on GPU-Ubuntu 18.04"
-    excerpt: "Tensorflow is an open-source framework for running machine learning algorithms. It is a framework to bring the ideas of machine learning to a working model. Recently I did a Specialization course ..."
-    publishedDateTime: 2020-02-07T19:54:00Z
-    webUrl: "https://medium.com/@shravan007.c/tensorflow-2-1-running-on-gpu-ubuntu-18-04-76b0c8b0a25d"
-    type: article
-    provider:
-      name: Medium
-      domain: medium.com
-    quality: 69
-    images:
-      - url: "https://miro.medium.com/max/1200/1*YGNSNxvpUFcztQzavQ7lBA.png"
-        width: 1200
-        height: 672
+images:
+  - url: "https://miro.medium.com/max/384/1*ULJO3_AH-tomcl-NoOCtlw.jpeg"
+    width: 384
+    height: 512
+    title: "TensorFlow Lite on Android"
 
-secured: "ht9Ezb8VYdARow/4L+FKS/sphCic1eIwhrlLLkO3vgmVEwYh4VwUgq3xhWeubWelVkl+WGxbIq62ZPlInyE28eneUJKa/gD7DPOTmk376wqXDJ1KC5FSfGXZgOZDeIB8irHx9oKdVA5j2+KrP+Iy2vsbMZDUZX48JokTyc+3qjo8jT6izXonaN3LzORjNC6QFjati9QPw6/3huVirYmLMY8KasVJNYn/LLzgraSRN9ppuhs5z0Zw/69n+88GaqI9bdQSeuIzQO4UNhwBal6DRi+2B3pypa7OJQEURHmsIROQQradTQn+bL5a+T+fLfcD;nf0M5wCnC86S/8NhP46/+A=="
+secured: "UrnKedPSzP1kLzWz8M4MUxjxtRuUNmxgrldLd6mTC3LhR3XsDOKSdEM2wBcLa86AA9m2UOv35fE6ByW+2osUSPKYRgFjG8VNze1SXE9khJDeoplLm01xOJXHSGi/kJKNm/mGEHUFXH8Gd8U+oz0klgDj/pplXAxJR16/wAoCmqgQa9vXJGRxUjkajc3J0nCm1CRX86nc/stNRx7XZVEhnNHrZ7Tg6YtEITvtAACFKpgqDznJj4e9lKTxRF3fd8ZFDk0tVW8pXDN0gZWkppijnaaUhbmgM4rv0gH1PVLX50Lp0A7w5HK71d18hOlDpozd;p5GY1/3pGjBtZ87Oc+Tiag=="
 ---
 

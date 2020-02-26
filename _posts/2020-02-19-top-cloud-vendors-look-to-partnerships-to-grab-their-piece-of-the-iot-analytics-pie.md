@@ -2,20 +2,26 @@
 category: news
 title: "Top cloud Vendors Look to Partnerships to Grab Their Piece of the IoT Analytics Pie"
 excerpt: "Analytics services across cloud vendors, on the other hand, are less differentiated, as reflected in pre-built templates such as AWS Sagemaker and Microsoft Azure Notebooks which leverage the open ..."
-publishedDateTime: 2020-02-19T09:19:00Z
-webUrl: "https://www.wallstreet-online.de/nachricht/12184285-top-cloud-vendors-look-to-partnerships-to-grab-their-piece-of-the-iot-analytics-pie"
+publishedDateTime: 2020-02-19T10:00:00Z
+webUrl: "https://www.finanzen.net/nachricht/aktien/top-cloud-vendors-look-to-partnerships-to-grab-their-piece-of-the-iot-analytics-pie-8529788"
 type: article
-quality: 0
-heat: -1
+quality: 18
+heat: 18
 published: false
 
 provider:
-  name: wallstreet online
-  domain: wallstreet-online.de
+  name: Finanzen
+  domain: finanzen.net
 
 topics:
   - AI
   - AWS AI
+
+images:
+  - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
+    width: 600
+    height: 315
+    title: "Top cloud Vendors Look to Partnerships to Grab Their Piece of the IoT Analytics Pie"
 
 related:
   - title: "Top cloud Vendors Look to Partnerships to Grab Their Piece of the IoT Analytics Pie"
@@ -32,6 +38,6 @@ related:
         width: 400
         height: 400
 
-secured: "mDHWR3DTDmGAJM443t44Q9MV8NZHxtWNrnPm3KHG/ND4N8NO4emWSUK1luTdiKczHfMVc1/gABFZgO/Fnei3K6EuguTQN4ofcsBfl+Ai2+oHLdeJq3ESXZzZ0dKHOpchM/jfOFkQ4eXB8PWk3wDHFIU72L84/zDAaRa+Nm4PI+FiBViM7dq9E5k48cuHkTzdSSK2iW5zaxg/SuHgC8d4uDWP906LATW0n8JQlxVRn7f6vViqOK7ijjIyXsd+wJcyIn1koQbkKZ4faHI+b9gRs4Yjf4vcewPXDsVmvuvHk2ZNXT4r1/M5kEhxq+updYwe;VV32j+JKxkP+LwUGlaDS/w=="
+secured: "mDNXchKkVCgqSdbtLAsJ+5XFth7+qV7PjE87aIopl9F6V7CLktLodCaXax29gkpzahb/dbis9x7Qe+oXuNvQ0BJdGItRwpZJUWwpe9X/ytFmvNFF4LSgro9pjrKx6pm2eJgSmjlipOAafkpwmwB7bvjS7STAq03yeX1rT6Jc3amAXRUOFoEULxn13L4musLFICYmNj9D2pxD1WpWvFUXs6PKaAseaBq+CfnBJHF6mviQ8YWYwZRcK9U7bYTx/o1OFmDwXpkC732vdP8zYVoNuijVAOaEKsFyepLbzbEtwqUsmjS4CLihk6I57Two4Mgv;GH5yW9xhn1RpFP/INsednQ=="
 ---
 

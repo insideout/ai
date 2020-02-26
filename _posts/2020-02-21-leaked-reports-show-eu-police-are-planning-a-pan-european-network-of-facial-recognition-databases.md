@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-21T17:08:00Z
 webUrl: "https://theintercept.com/2020/02/21/eu-facial-recognition-database/"
 type: article
 quality: 126
-heat: 176
+heat: 186
 published: true
 
 provider:
@@ -95,6 +95,15 @@ related:
       - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
         width: 252
         height: 335
+  - title: "Google Tells Clearview To Stop Scraping Photos For Facial Recognition Database"
+    excerpt: "Google and its video service YouTube have joined Twitter in demanding that facial recognition startup Clearview AI stop scraping photos from their services. “YouTube’s terms of service explicitly forbid collecting data that can be used to identify a person,” a spokesperson told CBS, which first reported the company's move. The tech ..."
+    publishedDateTime: 2020-02-17T23:20:00Z
+    webUrl: "https://www.mediapost.com/publications/article/346692/google-tells-clearview-to-stop-scraping-photos-for.html?edition="
+    type: article
+    provider:
+      name: MediaPost
+      domain: mediapost.com
+    quality: 15
 
 secured: "U8LLwHo7UeVieF2Yk1JDifcWIv/OyaHIhvHyD9SSmhiIo+ChFJn7DRiUsZgdOsiCA3HyFWgpXvQDEv4GfwFM41b0EBQwoYs/nOajMQ2FmfneIs4oUweJXAa2eXIm1S6+HB1F7zmLbnJwP5YpeF/tCnPCQobaEh3I+P44qk7GM1Qgmf5/ICAfBgSNQi2rTyIN/2CNIxs1x7WlFIwt8yYYWS5touaJ4q5aYp4B2bF9+Un3DmSumzvoSCFqQfw6pShMcxQccwUhyCGXn7jgo/v/4Rzx2cbrqSItk2cY+rLKcUPH5jcF9zYYRgzzCcybd0beFpgaKvCWHIWMpe10hULCOuYqUAnhiQE/GdU5hry8Ac9YG7d/C7NBptYCWYO5E8NpujLXkrh72Mtk7YRP9DkQN1gfwooXZ7E6OoQ9kaYLrdUssEYl0+G/7tOKKnnkV+2Y79JNmWCph/dpvjIMsgEzNY0r1bwZ1ZU/setght0KFRL5qAKKXAHnjqpKw7kroq9v;nAZeVyUK0RTUbSZzRrQmcA=="
 ---
