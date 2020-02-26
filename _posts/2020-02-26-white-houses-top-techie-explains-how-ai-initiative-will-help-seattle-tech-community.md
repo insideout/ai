@@ -29,6 +29,6 @@ images:
     height: 437
     title: "White House’s top techie explains how AI initiative will help Seattle tech community"
 
-secured: "KVz/IndS2SODtFMAxkIFW6Y5dGuuZg6VFZyICz5m/+so7YXwf+pEuTohhCb6klP39zrJRBNm/xMCm1Zah20JCsc5o6MIW/xwbDEDwpqkHlkyLS9Pi/KzseZiIzUmvGCFiRy9rQJFDI+zdjRt9EfM4Z7i3GV0ei6zND9+IdOYkuMwY48rWtWOtNoj9vzymPUFx25HFRXt/r3L9wil6T+jKmNoh24PYK2WapX22144LgF1iFgWnJm154JKU2vwmNOcl60ZSSPt67jDJ+JHJGfYumTXXdjXC2IEIzl0110nSbpsdZrxonVRBBD9KeSkcE7u;gjcRGR3m8W9MN1ak9ZW1KA=="
+secured: "JagyKmW7RgA54z56IzOUYf9PdW0LAD5m52Y3nAbKi0djc+UMSWZGAHongvWPQr5GZlW1oEMD1OMYlflfaZ1+ovllKYmTfz1/zm6Olk7gE32eKKNxOsUO6xsVeEhEldxg/G9BCH7Fxg97QOYPmCPY7Ldj1uPKTfu0tmD3hCj1+qJ2SkZGPwAn7e6pGpgY8bxvdWSLwbYDdGcb1x/RD5aPrO5DQovqXrySjN6Ue/x8vMYwK5Q7Sw/eIfgCNggOdf57FinSddro/3U0kiB9QIzTsCgmfG/rSZj1o3p1G/p8WEgbgNqdP4ZHpWaq4w0ny3oFpZm/OqibKJ9vfA+LMqHol/9gXXQ5Yvpst349raUnzTtuBW8ce2vIsdGbaA7bYyvl7K7+7YocBJJ1RwRg2xhuA2P+vPXHboPasDBmH6+hPFhE66yN8KgbMMrkcFULJS5ipBvi5ycy+Ex1auokSL2XGKYw3Gmj1tBwQFyPqJ5BuYw=;sbp4no14oW+PSDjXXxhTrA=="
 ---
 

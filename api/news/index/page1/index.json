@@ -645,6 +645,43 @@
       ]
     },
     {
+      "path": "_posts/2020-02-12-raleigh-police-stop-using-controversial-facial-recognition-technology.md",
+      "title": "Raleigh police stop using controversial facial recognition technology",
+      "excerpt": "Raleigh police have stopped using a facial recognition app to identify potential criminals through the Internet, cutting ties with a company that has drawn widespread privacy concerns. In August, the department paid $2,500 to Clearview AI for one year’s access to its app, which collects pictures from Facebook, YouTube and other public sites ...",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.newsobserver.com/news/local/crime/article240221072.html",
+      "ampWebUrl": "https://amp.newsobserver.com/news/local/crime/article240221072.html",
+      "cdnAmpWebUrl": "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/local/crime/article240221072.html",
+      "publishedDateTime": "2020-02-12T09:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Raleigh News & Observer",
+        "domain": "newsobserver.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/98982b80-0f4c-4539-8307-e03345d59828/f123b10c-3acf-4f41-b7eb-0cf3424b4196/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Raleigh police stop using controversial facial recognition technology",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_posts/2020-02-12-robotics-companies-providing-technology-to-fight-coronavirus-in-china.md",
       "title": "Robotics companies providing technology to fight coronavirus in China",
       "excerpt": "She added that, as a result of the success of robots in helping against the coronavirus, China is likely to use more artificial intelligence and robotics in medical care. “It is set to be more common in the future,” she said. Coronavirus has spread across China and beyond, having started in Wuhan province, geographically central in the country.",
@@ -1119,6 +1156,50 @@
       ]
     },
     {
+      "path": "_posts/2020-02-13-andrew-yang-brought-ai-into-american-politics-and-it-isnt-going-away.md",
+      "title": "Andrew Yang brought AI into American politics, and it isn’t going away",
+      "excerpt": "Andrew Yang ended his campaign Tuesday after a tepid showing in New Hampshire, bringing to an end what can be characterized as the only AI-first presidential campaign in U.S. history. Some will argue Yang’s campaign simply rose to prominence because of his support of a $1,000 universal basic income, but he outlasted and outperformed most of ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/13/andrew-yang-brought-ai-into-american-politics-and-it-isnt-going-away/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/13/andrew-yang-brought-ai-into-american-politics-and-it-isnt-going-away/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/13/andrew-yang-brought-ai-into-american-politics-and-it-isnt-going-away/amp/",
+      "publishedDateTime": "2020-02-13T09:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/andrew-yang.jpg?fit=1800%2C989&strip=all",
+          "width": 1800,
+          "height": 989,
+          "title": "Andrew Yang brought AI into American politics, and it isn’t going away",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_posts/2020-02-13-apple-seeks-to-patent-machine-learning-correction-of-gps-estimates.md",
       "title": "Apple seeks to patent machine learning correction of GPS estimates",
       "excerpt": "But Apple thinks it can improve location accuracy by applying machine learning to Kalman estimation filters, a just-published patent application reveals. The basic concept is that while navigation systems generally rely on live location-determining pings from multiple satellites — a process that can take precious time, during which the ...",
@@ -1293,7 +1374,7 @@
       "path": "_posts/2020-02-13-facial-recognition-could-be-temporarily-banned-for-law-enforcement-use.md",
       "title": "Facial recognition could be temporarily banned for law enforcement use",
       "excerpt": "Senators have introduced a bill that would prohibit the technology for police use until guidelines and limitations are set. Law enforcement agencies could be temporarily banned from using facial recognition after Sens.",
-      "heat": 549,
+      "heat": 539,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.cnet.com/news/facial-recognition-could-be-temporarily-banned-for-law-enforcement-use/",
@@ -1881,7 +1962,7 @@
       "path": "_posts/2020-02-13-the-self-driving-and-sharing-economy-how-regulation-may-drive-the-transportation-revolution-in-2020-and-beyond.md",
       "title": "The Self Driving And Sharing Economy: How Regulation May Drive The Transportation Revolution In 2020 And Beyond",
       "excerpt": "Everyone recognizes that these technologies will mold the future, but this final piece—how regulators will interact with these developing technologies—is the critical factor that has the potential to shape the race to market.",
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.forbes.com/sites/paulrosen/2020/02/12/the-self-driving-and-sharing-economy-how-regulation-may-drive-the-transportation-revolution-in-2020-and-beyond/",
@@ -2039,89 +2120,6 @@
           "attribution": null
         }
       ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-13-xmos-unveils-xcoreai-a-powerful-chip-designed-for-ai-processing-at-the-edge.md",
-      "title": "XMOS unveils Xcore.ai, a powerful chip designed for AI processing at the edge",
-      "excerpt": "With seed funding from the University of Bristol enterprise fund and the Wyvern seed fund as well as Amadeus Capital Partners, DJF Espirit, and Foundation Capital, the startup set about developing processor technology ... spinning off its Graphcore division focused on server-side AI. The following three years culminated in the release of ...",
-      "heat": 125,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/12/xmos-unveils-xcore-ai-a-powerful-chip-designed-for-ai-processing-at-the-edge/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/12/xmos-unveils-xcore-ai-a-powerful-chip-designed-for-ai-processing-at-the-edge/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/12/xmos-unveils-xcore-ai-a-powerful-chip-designed-for-ai-processing-at-the-edge/amp/",
-      "publishedDateTime": "2020-02-12T20:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/07/blockchain_database-e1573158651295.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "XMOS unveils Xcore.ai, a powerful chip designed for AI processing at the edge",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI Hardware",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-14-ai-algorithms-intended-to-detect-welfare-fraud-often-punish-the-poor.md",
-      "title": "AI Algorithms Intended to Detect Welfare Fraud Often Punish the Poor",
-      "excerpt": "Automated algorithms – not humans – are increasingly making decisions about who’s eligible for welfare benefits.",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.usnews.com/news/best-states/articles/2020-02-14/ai-algorithms-intended-to-detect-welfare-fraud-often-punish-the-poor-instead",
-      "ampWebUrl": "https://www.usnews.com/news/best-states/articles/2020-02-14/ai-algorithms-intended-to-detect-welfare-fraud-often-punish-the-poor-instead?context=amp",
-      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/articles/2020-02-14/ai-algorithms-intended-to-detect-welfare-fraud-often-punish-the-poor-instead?context=amp",
-      "publishedDateTime": "2020-02-14T09:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"

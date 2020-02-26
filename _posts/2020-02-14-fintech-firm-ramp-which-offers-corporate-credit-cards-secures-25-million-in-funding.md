@@ -26,36 +26,19 @@ images:
     title: "Fintech Firm Ramp, which Offers Corporate Credit Cards, Secures $25 Million in Funding"
 
 related:
-  - title: "Fintech Startup Tribal Credit Secures US$5.5 Million In Funding Round"
-    excerpt: "The founding team consists of serial entrepreneurs, data scientists, and fintech execs who have had experiences in banking, risk and compliance, regulations, and scaling in emerging markets. Shady points out that the startup’s main advantage in the market is its proprietary AI algorithm, which they originally conceived based off their researc ..."
-    publishedDateTime: 2020-02-12T03:30:00Z
-    webUrl: "https://www.entrepreneur.com/article/346215"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/346215"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/346215"
+  - title: "Fintech startup Ramp aims to disrupt the corporate credit market"
+    excerpt: "Ramp investors include veteran fintech investor Keith Rabois of Founders Fund ... the first business hires from Plaid and Atrium, and engineers from Facebook AI Research, Google Research, Capital One, Goldman Sachs, Apple, and Lyft. \"Most companies in Silicon Valley are quite wasteful with their spending, however, without access to the ..."
+    publishedDateTime: 2020-02-13T11:23:00Z
+    webUrl: "https://www.finextra.com/newsarticle/35282/fintech-startup-ramp-aims-to-disrupt-the-corporate-credit-market?member=92212"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 74
+      name: Finextra
+      domain: finextra.com
+    quality: 39
     images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/20200211171501-Tribal-DarkCardMock-Simple.png?width=600&crop=16:9"
-        width: 600
-        height: 338
-  - title: "North Texas startup grabs $1 million in funding as it focuses on AI tools for health care"
-    excerpt: "DocSynk is kicking off the year with new bridge funding. The North Texas startup focused on health care received the package from private equity firm Colosseum Group in Chicago, according to a news release."
-    publishedDateTime: 2020-02-12T19:54:00Z
-    webUrl: "https://www.bizjournals.com/dallas/news/2020/02/12/docsynk.html"
-    ampWebUrl: "https://www.bizjournals.com/dallas/news/2020/02/12/docsynk.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/dallas/news/2020/02/12/docsynk.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 50
-    images:
-      - url: "https://media.bizj.us/view/img/725821/fundingstartupistockphoto*600xx3454-2303-0-182.jpg"
-        width: 600
-        height: 400
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/money2.jpg"
+        width: 480
+        height: 270
 
 secured: "A5eaEBDVi+wdvvfU0viXzbFWxZisj+QFgdhQkf5Z//AMh7rblJ+1x03nSxJhqcoW+HzEgJ+mkI/IqB/GBvUCov5rvS7SoKE79PDI4Kg7YsZVjA0AwucdtNyV1TYB2IiW+q629sVagDQy1J+2NTziGGGrB7AR/NRFI5nENADS1Kq9uesTZO+ekY2L7FPJ66vSNsxCPLOtHbX9R1JYvwr2FuqkUTMumCH54lu/W1f0tGfbLQef6rv8+dyhVZvf3YJG+eD7yKdNeArfIu6eKaOGiAD47PnTSJo2RWG2PxUz1EAw+okaq3Cf5S3D3xjVJZUYnnmhJXvTYGzQaq8GZ67mlXCQ9en3iEnhHACImiFGXITjvHc1NORL3gDj5Lp0837YI5L6r5xgbATyVZrr7C0dphPsomGROGZIzwE/SS4dOoyef9gPKYdabZs0+EviLcWgkdwVsqFWg/L+G1m92GdfEfKoIv7mh/N58rA17FxOlFM=;OFaKNLmg0JBpNcyd+ce8rQ=="
 ---

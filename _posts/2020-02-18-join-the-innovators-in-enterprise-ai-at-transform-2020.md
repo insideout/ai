@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/02/18/join-the-innovators-in-enterprise
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/18/join-the-innovators-in-enterprise-ai-at-transform-2020/amp/"
 type: article
 quality: 91
-heat: 131
+heat: 121
 published: true
 
 provider:
@@ -31,19 +31,6 @@ images:
     title: "Join the innovators in enterprise AI at Transform 2020"
 
 related:
-  - title: "An Enterprise Formula for AI Success"
-    excerpt: "One of the great things about the current wave of AI innovation is the large number of open source tools, technologies, and frameworks. From TensorFlow to Python, Kafka to PyTorch, the we’re in the midst of an explosion in diversity of data science and big data toolchains. However, when it comes to putting these toolchains together and ..."
-    publishedDateTime: 2020-02-12T03:41:00Z
-    webUrl: "https://www.datanami.com/2020/02/11/an-enterprise-formula-for-ai-success/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 39
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/02/robot_ai_shutterstock_Phonlamai-Photo.jpg"
-        width: 1000
-        height: 667
   - title: "Podcast: Preparing for HPC & AI Convergence in the Enterprise"
     excerpt: "In this Intel Chip Chat podcast, Dr. Rene Meyer from Amax describes how enterprises are preparing for emerging workloads being fueled by the convergence of AI & HPC. In this interview, Dr. Meyer discusses AMAX’s focus on appliances for storage, cloud, and hyper-scale integration. Dr. Meyer goes into more depth about why training in AI is now ..."
     publishedDateTime: 2020-02-20T15:54:00Z

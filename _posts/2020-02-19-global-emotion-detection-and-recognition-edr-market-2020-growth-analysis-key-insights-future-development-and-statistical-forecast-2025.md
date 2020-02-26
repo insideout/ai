@@ -43,6 +43,19 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e3074548b6cf300071d30e2%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D960%26cropY1%3D48%26cropY2%3D588"
         width: 960
         height: 541
+  - title: "House Hearing Revives Push for Self-Driving-Car Legislation"
+    excerpt: "House lawmakers held a hearing in an effort to revive legislation that would create clear federal safety guidelines and standards for autonomous vehicles and help companies bring the technology to market."
+    publishedDateTime: 2020-02-12T14:21:00Z
+    webUrl: "https://www.wsj.com/articles/house-hearing-revives-push-for-self-driving-car-legislation-11581503402"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 54
+    images:
+      - url: "https://images.wsj.net/im-153483/social"
+        width: 1280
+        height: 640
   - title: "Transformation of face recognition technology and representation for faces nets grant for computer science and engineering professor"
     excerpt: "She will use her computer science and engineering skills to apply machine learning, computer vision and natural language processing to her work, which is funded by a grant from the National Science Foundation. Her overall research goal is to develop software that will help visually impaired individuals, along with those on the autism spectrum ..."
     publishedDateTime: 2020-02-13T15:06:00Z

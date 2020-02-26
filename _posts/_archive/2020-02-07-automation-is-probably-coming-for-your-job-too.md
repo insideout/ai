@@ -36,6 +36,6 @@ related:
       domain: fastcompany.com
     quality: 19
 
-secured: "LUPNdR57R5WETIooROGHAqziZJAhEIwZRto+c4UxfakmX/QPyJGSskUaZZB5U0Q8yroV5iEyowY71mM0sAPE/blhWsdn+0J9QSS4ETZbLsXMwSqFOXClJ3Uet0JjLaVWmzkuDGOqgZXy8eqEhA+LxmZmAR/Fb1xc7P7arQmIE1OVDq+FqbkR66c2Ow+92rwP+RfIjY925Ujfccqj59Yvh/gAXpX3pwEYw5Ar44X/cIYDYCIkw+U20Fms8OgsEFiP7lvBSv9j12PT2Vi9kIH3AlYHQhEmooG/i6aL1HxmV3Ot07tSsrYQS/Lr21V70Lkb;7Ui1t+ADRXkRYGUra3GEtw=="
+secured: "tYkZrMd1yTXcDPIKO/6jkNwoPZKuAtMSCexbVqEQ7QHuRx9ln3aghZiQcWBtvWTau/80rqioguhsYfeiNmHZP7BGP2cJd70zWTiKthwciN9Nq/uPoZcO4v/H2g4DYKSvNNsfp+vXd0ik9GDOTMLVrIbigTao1BjLgd2W2X/2SUowxtds8SVEJoJHt5gDH+vPGp+2IXvVM0b+3huk+/cUzTVkY0DJD+bS8uc5yBF4mBYLOHWmLRGTZSAw5nyHbJOnDmmTBnZCHYha4JuIeDt1VBVebLaJEZI7b6hZGf8Ejeb97MpQJAhc/aisMwk/IoWm;wDVa06auAnr9AxnAch9pYQ=="
 ---
 

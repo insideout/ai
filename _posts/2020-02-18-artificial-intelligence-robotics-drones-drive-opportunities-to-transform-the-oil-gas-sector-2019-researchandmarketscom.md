@@ -3,21 +3,25 @@ category: news
 title: "Artificial Intelligence, Robotics, Drones Drive Opportunities to Transform the Oil & Gas Sector - 2019 - ResearchAndMarkets.com"
 excerpt: "Technology convergence in oil and gas sector has witnessed adoption of several technologies such as artificial intelligence (AI), robotic process automation, Big Data analytics, advanced sensor technologies, autonomous robots and drones, which can enable effective inspection of oil rig sites, corrosion and leaks monitoring, enable predictive ..."
 publishedDateTime: 2020-02-18T16:35:00Z
-webUrl: "https://oklahoman.com/article/feed/10018040/artificial-intelligence-robotics-drones-drive-opportunities-to-transform-the-oil-gas-sector-2019-researchandmarketscom"
-ampWebUrl: "https://oklahoman.com/article/feed/10018040/artificial-intelligence-robotics-drones-drive-opportunities-to-transform-the-oil-gas-sector-2019-researchandmarketscom/amp"
-cdnAmpWebUrl: "https://oklahoman-com.cdn.ampproject.org/c/s/oklahoman.com/article/feed/10018040/artificial-intelligence-robotics-drones-drive-opportunities-to-transform-the-oil-gas-sector-2019-researchandmarketscom/amp"
+webUrl: "https://www.businesswire.com/news/home/20200218005827/en/Artificial-Intelligence-Robotics-Drones-Drive-Opportunities-Transform"
 type: article
 quality: 41
 heat: 41
 published: false
 
 provider:
-  name: The Oklahoman
-  domain: oklahoman.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI
   - AI in Robotics
+
+images:
+  - url: "https://mms.businesswire.com/media/20200218005827/en/371054/23/ResearchAndMarkets_800px.jpg"
+    width: 1200
+    height: 627
+    title: "Artificial Intelligence, Robotics, Drones Drive Opportunities to Transform the Oil & Gas Sector - 2019 - ResearchAndMarkets.com"
 
 related:
   - title: "Global Forecast for Artificial Intelligence (AI) Robots (2021 to 2026) - High Tech & Emerging Markets Report - ResearchAndMarkets.com"
@@ -47,6 +51,6 @@ related:
         width: 1200
         height: 630
 
-secured: "x6WQmZ0NUwyVIbNYQ6F4NQeuvsNs+LnMBcFFDfsouVuPysX/trnHkMv4raLj/rmfie0rtlmDYvIjzP3GzPeaSewyqR05nMJ9cdCfDUGGBuVd7UHDB9wwwQAfAwI6SwAb59sSsDyk++uL2scNVI/VwCsN1NjYpYY0bymZMe7S5LOdEfKiG1Pk+ALNXiVw9pumyX1bvGKG52r2Gw/apEtqNFcFGUHpriA0D0ZDvrn31YNIzoSiaiN/XsbpRkri0V1dNnWjsSaVlO/u+N2QQm4Gm9iIXpL5/NiQbSVbFyUAjyTT3Xkwz3funviCg2m22akq;JGPrEOyIl29i4/jfZjYXrQ=="
+secured: "tN28XFnAlG3NzmJNuek65PdxXWPdYv4Gcu/OEXaMVy2tIOza1KahR2UOvgwCDmBGmng6ZIDr426tCoZjdfqrq5cZZWRgd3e3y0WFsaexAijQytvoEcoH7v96TI+SW20xUrXRQNHG3D0uGaezaboPpLywF2UadGdWcmEC4rq/aWCYlM8BkcmP5a1aoZGCITOzRtTg61jdrnDQVLH+6G8XY9Chjme9XFC9zjCOIR0FX8PmWN8LHFoXFTWXx7KHkPVS+m8YuaJDBi9BfWggIL4HzjbKtUGFgKhD9isgA5PBNPA9TUoo5+xIQDRMqFkgkqfj;6JYVtqCxwhw3a58GbFj3vA=="
 ---
 

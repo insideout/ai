@@ -3,7 +3,7 @@ category: news
 title: "PlateSmart ALPR and Vehicle Recognition Solutions Drive ROI for Retailers by Preventing Theft"
 excerpt: "The software offers true object recognition instead of simple optical character recognition (OCR), which allows it to read the plate as well as the state jurisdiction and vehicle make. PlateSmart has earned multiple industry awards for excellence in security technology. FORWARD LOOKING STATEMENTS: This press release may contain forward-looking ..."
 publishedDateTime: 2020-02-21T21:36:00Z
-webUrl: "https://www.newswiretoday.com/news/172420/PlateSmart-ALPR-and-Vehicle-Recognition-Solutions-Drive-ROI-for-Retailers-by-Preventing-Theft/"
+webUrl: "https://www.newswiretoday.com/news/172420/"
 type: article
 quality: 8
 heat: -1
@@ -58,6 +58,6 @@ related:
         width: 1200
         height: 627
 
-secured: "cXOo1lLNRPBQ6oS/N0vnHJX1VxlzOnBp9E72QDxmPaAVrATq3DdDMTEzybMuTlfVMue89nGAxCgoAAJe+fGAMhNfinoJjsr/c25XCmsE88GEcQCz0qBE4Wc9n24nRbTF5DD4q04DL8YrJfTiIIEs9yj7DWYLgIA3DdT5W38x6pw33yJWdRJzJFgaLR2wTW8et2ifY/cititir5Nqap2s7n1aM/4xBAKLdEwZEuj3zKwCfDy1/GI5gkcz7Nsow/04u1+2yA3/MMUiWcZooHsGVnVs8lMPSsiZFH4GBDp3zYef1Ai7eyiBxFs2HLcS815EutoCVcxp7WMn8t4nARGwmEpflFjcGpZubCktnSooz3gdtsRmFULc3zvFCgwByBEJHabg4LeUl1olo027s+NDgyj8AvSaxVWqEbK1PhnfnkENN+7lmaN1nWsCB19FaNJRdrjL/kQgFSX3RFAhogU5zsimYJVsfhGL7od9XcDLxfo=;N56oCd0HqwcyQ0WerKwj5Q=="
+secured: "MxdEDvSjlnBD1utQM133dlG+2eCelYkGzoLhgPsrjZ3OPlVX7AwE7Hr9PTIDoennSjW2g5eZuIGVg9aiMXJVUgmOiEdDhKOsddozlfVo1eI4M2hp0xPXSV0PpoCYbwB/fHUpqSkdJ8qQWbYgaY34L4gQhKMSPELbflFzvzFubr3jc/hi/oU0dV77Lttpz1yfL4/XFEsFKo4HiXtOQqTxcuRhYDNFo4f66FQLXSQBgUD8t3b4Ixgs0N3sJ1qbJHba2ocNpjmcWMWfVHLoLuGOhdqT97063G50ng+GYgoyhTbXf1n84OAQZud5MjqyDS0bW0liDHOfDHX7xfoMKVA3ohQaYcFYThPEQehB5r8JkUaq1D5dc2tUtoLH7MrFokChJjhZLReZIlSCECL5OIslLUOhfWJ0WPH36JVwmwrwqN5/dFGzY89Txg+HzSO+SsKmIZhs/y6J2cLRJz0OZjoS/HtCNHk+WmgWE2cvkOJiFYg=;iZx4Sn/aG0p6NIvCKSKA/Q=="
 ---
 

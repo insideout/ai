@@ -8,8 +8,8 @@ ampWebUrl: "https://amp.newsobserver.com/news/local/crime/article240221072.html"
 cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/local/crime/article240221072.html"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 109
+published: true
 
 provider:
   name: Raleigh News & Observer
@@ -26,51 +26,60 @@ images:
     title: "Raleigh police stop using controversial facial recognition technology"
 
 related:
-  - title: "Met Police rolls out live facial recognition in London"
-    excerpt: "This is the Met Police’s first live deployment of facial recognition technology in London, following 10 trials around the city since 2016 and months of public debate about the use of the controversial biometric software on the public. The rollout comes in the wake of similar deployments in countries including China, Brazil, India and Wales."
-    publishedDateTime: 2020-02-12T04:00:00Z
-    webUrl: "https://www.ft.com/content/db8bfc3c-4cf4-11ea-95a0-43d18ec715f5"
-    ampWebUrl: "https://amp.ft.com/content/db8bfc3c-4cf4-11ea-95a0-43d18ec715f5"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/db8bfc3c-4cf4-11ea-95a0-43d18ec715f5"
+  - title: "Facial Recognition Technology Is the New Rogues’ Gallery"
+    excerpt: "Fueled by explosive reporting, foreign totalitarian regimes, and a lifetime of dystopian sci-fi, the movement to ban the government’s use of face recognition technology is growing. As of now, seven cities across the country—San Francisco, Oakland, and Berkeley in California, and Brookline, Somerville, Northampton, and Cambridge in ..."
+    publishedDateTime: 2020-02-17T10:45:00Z
+    webUrl: "https://slate.com/technology/2020/02/rogues-gallery-facial-recognition-technology-history.html"
+    ampWebUrl: "https://slate.com/technology/2020/02/rogues-gallery-facial-recognition-technology-history.amp"
+    cdnAmpWebUrl: "https://slate-com.cdn.ampproject.org/c/s/slate.com/technology/2020/02/rogues-gallery-facial-recognition-technology-history.amp"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
+      name: Slate
+      domain: slate.com
     quality: 59
     images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F104630ce-4cea-11ea-95a0-43d18ec715f5?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
-  - title: "Met Police try to calm tensions as live facial recognition hits London"
-    excerpt: "This is the Met Police’s first live deployment of facial recognition technology in London, following 10 trials around the city since 2016 and months of public debate about the use of the controversial biometric software on the public. The rollout comes in the wake of similar deployments in countries including China, Brazil, India and Wales."
-    publishedDateTime: 2020-02-12T04:00:00Z
-    webUrl: "https://www.ft.com/content/db8bfc3c-4cf4-11ea-95a0-43d18ec715f5"
-    ampWebUrl: "https://amp.ft.com/content/db8bfc3c-4cf4-11ea-95a0-43d18ec715f5"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/db8bfc3c-4cf4-11ea-95a0-43d18ec715f5"
+      - url: "https://compote.slate.com/images/98a4ad17-4082-4a99-a71e-75514dd0625f.jpeg?width=780&height=520&rect=780x520&offset=0x0"
+        width: 780
+        height: 520
+  - title: "Vuzix integrates TensorMark’s AI, computer vision tech for facial recognition in AR smart glasses"
+    excerpt: "The company has been actively working on building an interface tailored to the Vuzix Blade Smart Glasses so that it makes use of device characteristics, such as the color display and on-board camera, to embed facial and object recognition. The technology will allow customers to identify countless facial and object images located in a cloud ..."
+    publishedDateTime: 2020-02-18T17:33:00Z
+    webUrl: "https://www.biometricupdate.com/202002/vuzix-integrates-tensormarks-ai-computer-vision-tech-for-facial-recognition-in-ar-smart-glasses"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 59
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 56
     images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F104630ce-4cea-11ea-95a0-43d18ec715f5?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
-  - title: "How to use voice recognition in Pokémon HOME"
-    excerpt: "Because you can use it from a mobile device, you can use it with voice recognition. You can’t use everything with voice recognition, though. Only a handful of features register with it, and you should know what they are because they will have a microphone next to them in your mobile application. For example, when you go into your Pokémon box ..."
-    publishedDateTime: 2020-02-12T10:16:00Z
-    webUrl: "https://www.gamepur.com/guides/how-to-use-voice-recognition-in-pokemon-home"
-    ampWebUrl: "https://www.gamepur.com/guides/how-to-use-voice-recognition-in-pokemon-home/amp"
-    cdnAmpWebUrl: "https://www-gamepur-com.cdn.ampproject.org/c/s/www.gamepur.com/guides/how-to-use-voice-recognition-in-pokemon-home/amp"
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/03/15194350/artificial-intelligence.jpg"
+        width: 660
+        height: 300
+  - title: "YouTube: Face recognition firm must stop harvesting videos"
+    excerpt: "NEW YORK (AP) — YouTube is demanding that a facial recognition company stop harvesting its videos to identify the people in them, which the startup does as part of its work with police. The Google-owned video service said Wednesday that it has sent a cease-and-desist letter to New York-based Clearview AI. The small firm has drawn scrutiny ..."
+    publishedDateTime: 2020-02-13T09:04:00Z
+    webUrl: "https://www.wfmz.com/news/ap/ap-business/youtube-face-recognition-firm-must-stop-harvesting-videos/article_c9053bb8-0ee0-5e47-bccd-8bf8476a3577.html"
     type: article
     provider:
-      name: Gaming Polls
-      domain: gamepur.com
-    quality: 44
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 39
     images:
-      - url: "https://www.gamepur.com/wp-content/uploads/2020/02/Pokemon-HOME-mystery-gifts.jpg"
-        width: 1200
-        height: 675
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/64/d643b24e-a3f6-58c0-88df-043fda40f92c/5e3b1bba3522b.image.jpg?resize=945%2C630"
+        width: 945
+        height: 630
+  - title: "Advancing facial technology to fight identity fraud through liveness detection"
+    excerpt: "AI-backed liveness detection As it sounds, liveness detection determines whether the face presented to a facial recognition system is that of a live person, a 3D mask photo, or a cut-out photo. Based on the presentation attack algorithm (PAD), liveness detection helps in preventing any spoof attacks by the criminals. Facial liveness check is a ..."
+    publishedDateTime: 2020-02-17T18:41:00Z
+    webUrl: "https://www.biometricupdate.com/202002/advancing-facial-technology-to-fight-identity-fraud-through-liveness-detection"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 20
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/05/15123931/face-biometrics.jpg"
+        width: 1050
+        height: 591
   - title: "Public Perception of Facial Recognition Technologies - a four countries study"
     excerpt: "Facial recognition technology (FRT) – which seeks to match people from a digital image or video with various identifying attributes – is increasingly commonplace in everyday life. The wide and quickly spreading application of the technology has become the subject of increased debate. On the one hand, #FRT is seen as a potentially powerful ..."
     publishedDateTime: 2020-02-12T19:35:00Z

@@ -2,6 +2,174 @@
   "page": 24,
   "value": [
     {
+      "path": "_posts/_archive/2020-02-04-benchsci-raises-22-million-for-ai-powered-drug-discovery-tools.md",
+      "title": "BenchSci raises $22 million for AI-powered drug discovery tools",
+      "excerpt": "Assessing the health of pharmaceutical R&D by unearthing hidden patterns in procurement data is a task made simpler by AI. At least, that’s the pitch given by David Qixiang Chen, Elvis Wianda, Liran Belenzon, and Tom Leung, who cofounded BenchSci in 2015. The Toronto, Canada-based biotech company taps AI to run experiments that accelerate ...",
+      "heat": 197,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/04/benchsci-raises-22-million-for-ai-powered-drug-discovery-tools/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/04/benchsci-raises-22-million-for-ai-powered-drug-discovery-tools/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/04/benchsci-raises-22-million-for-ai-powered-drug-discovery-tools/amp/",
+      "publishedDateTime": "2020-02-04T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/05/products-screenshot-min-e1580583276382.png?fit=1258%2C600&strip=all",
+          "width": 1258,
+          "height": 600,
+          "title": "BenchSci raises $22 million for AI-powered drug discovery tools",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-02-04-blackpool-pothole-fixing-artificial-intelligence-saves-1m.md",
+      "title": "Blackpool pothole-fixing artificial intelligence 'saves £1m'",
+      "excerpt": "An innovative pilot scheme using artificial intelligence to assess potholes has saved more than £1m of taxpayers' cash, a council has said. Blackpool Council said it was the first local authority to use AI technology to detect damage to roads. It uses satellite images to inspect roads in seconds rather than sending engineers, and was trialled ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bbc.com/news/uk-england-lancashire-51356855",
+      "ampWebUrl": "https://www.bbc.com/news/amp/uk-england-lancashire-51356855",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/uk-england-lancashire-51356855",
+      "publishedDateTime": "2020-02-03T16:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/2BF7/production/_110755211_pothole.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": "Blackpool pothole-fixing artificial intelligence 'saves £1m'",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-02-04-camcon-explores-diesel-and-ai-calibration-for-its-digital-valve-train.md",
+      "title": "Camcon explores diesel and AI calibration for its digital valve train",
+      "excerpt": "The company is working in three directions to push things forward: it's building plug and play valve train kits for a range of common single-cylinder research engines, it's opening up to the heavy-duty diesel (HDD) market, and it's assembling a machine learning team to start applying artificial intelligence to the complex task of calibrating ...",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://newatlas.com/automotive/camcon-digital-valve-diesel-ai/",
+      "ampWebUrl": "https://newatlas.com/automotive/camcon-digital-valve-diesel-ai/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/camcon-digital-valve-diesel-ai/?amp=true",
+      "publishedDateTime": "2020-02-03T20:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/257812a/2147483647/strip/true/crop/1619x1080+0+0/resize/1160x774!/quality/90/?url=https%3A%2F%2Fassets.newatlas.com%2Farchive%2Fcamcon-digital-iva-valve-system-4.jpg",
+          "width": 1160,
+          "height": 774,
+          "title": "Camcon explores diesel and AI calibration for its digital valve train",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-02-04-dont-care-if-you-even-graduated-says-elon-musk-as-he-announces-ai-party-at-his-place.md",
+      "title": "Don't care if you even graduated, says Elon Musk as he announces AI party at his place",
+      "excerpt": "Tesla CEO Elon Musk recently invited coders and engineers over Twitter to attend an AI party ... \"reports directly\" to him daily. Tagging Lex Fridman, a known host of the Artificial Intelligence ...",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.livemint.com/technology/tech-news/don-t-care-if-you-even-graduated-says-musk-as-he-announces-ai-party-at-his-home-11580786460077.html",
+      "ampWebUrl": "https://www.livemint.com/technology/tech-news/don-t-care-if-you-even-graduated-says-musk-as-he-announces-ai-party-at-his-home/amp-11580786460077.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/don-t-care-if-you-even-graduated-says-musk-as-he-announces-ai-party-at-his-home/amp-11580786460077.html",
+      "publishedDateTime": "2020-02-03T20:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2020/02/04/600x338/682a7284-3d11-11ea-8ee2-8148f8ffa5ba_1580722387199_1580788559081.jpg",
+          "width": 600,
+          "height": 338,
+          "title": "Don't care if you even graduated, says Elon Musk as he announces AI party at his place",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-02-04-epic-asks-federal-trade-commission-to-regulate-use-of-artificial-intelligence-in-pre-employment-screenings.md",
       "title": "EPIC Asks Federal Trade Commission To Regulate Use Of Artificial Intelligence In Pre-Employment Screenings",
       "excerpt": "has charged that HireVue, a leading provider of artificial intelligence-based pre-employment screenings, is flouting national and international standards of transparency, fairness and accountability.",
@@ -1932,176 +2100,6 @@
           "width": 640,
           "height": 426,
           "title": "What Role Will (Or Does) Artificial Intelligence Play In Your Life?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-02-05-youtuber-uses-neural-networks-to-upscale-1896-short-film-to-4k-60-fps.md",
-      "title": "YouTuber uses neural networks to upscale 1896 short film to 4K 60 fps",
-      "excerpt": "Today, many companies use something called neural ... experiment of turning the famous Lumière Brothers' 1896 short clip \"Arrival of a Train at La Ciotat\" into a 4K, 60 fps video that looks ...",
-      "heat": 172,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techspot.com/news/83867-youtuber-uses-neural-networks-upscale-1896-short-film.html",
-      "ampWebUrl": "https://www.techspot.com/amp/news/83867-youtuber-uses-neural-networks-upscale-1896-short-film.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83867-youtuber-uses-neural-networks-upscale-1896-short-film.html",
-      "publishedDateTime": "2020-02-05T02:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/ts3_thumbs/2019/07/2019-07-16-ts3_thumbs-789.jpg",
-          "width": 800,
-          "height": 560,
-          "title": "YouTuber uses neural networks to upscale 1896 short film to 4K 60 fps",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-02-06-activists-launch-new-effort-to-kick-facial-recognition-out-of-schools.md",
-      "title": "Activists launch new effort to kick facial recognition out of schools",
-      "excerpt": "A digital and civil rights group is asking for people to sign a petition telling Congress to pass a law that bars the use of facial recognition technology in public schools. Demand Progress launched the petition earlier this week. In it, people have the option to tell Congress to “pass legislation to ban facial recognition technology in ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.dailydot.com/layer8/facial-recognition-schools-petition/",
-      "ampWebUrl": "https://www.dailydot.com/layer8/facial-recognition-schools-petition/?amp",
-      "cdnAmpWebUrl": "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/layer8/facial-recognition-schools-petition/?amp",
-      "publishedDateTime": "2020-02-06T12:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Dot",
-        "domain": "dailydot.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.dailydot.com/wp-content/uploads/2020/02/Facial-Recognition-Schools-1024x512.jpg",
-          "width": 1024,
-          "height": 512,
-          "title": "Activists launch new effort to kick facial recognition out of schools",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-02-06-ai-5g-and-medical-iot-can-help-deliver-the-promise-of-precision-medicine.md",
-      "title": "AI, 5G, and medical IoT can help deliver the promise of precision medicine",
-      "excerpt": "Once that was figured out, doctors quickly brought him back around, and he was fine. But what if, through groundbreaking mixtures of compute, database, and AI technologies, a quick round of analyses on his blood and genome could have revealed his potential for such a reaction before it became a critical issue? What if it were possible to devise ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/06/ai-5g-and-medical-iot-can-help-deliver-the-promise-of-precision-medicine/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/06/ai-5g-and-medical-iot-can-help-deliver-the-promise-of-precision-medicine/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/06/ai-5g-and-medical-iot-can-help-deliver-the-promise-of-precision-medicine/amp/",
-      "publishedDateTime": "2020-02-06T13:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/GettyImages-1151630032-e1580953445456.jpg?fit=1829%2C917&strip=all",
-          "width": 1829,
-          "height": 917,
-          "title": "AI, 5G, and medical IoT can help deliver the promise of precision medicine",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-02-06-ai-artificial-intelligence-speaker-market-technology-advancement-and-latest-study-report-2020.md",
-      "title": "AI (ARTIFICIAL INTELLIGENCE) SPEAKER Market Technology Advancement and Latest Study Report 2020",
-      "excerpt": "The Global AI (ARTIFICIAL INTELLIGENCE) SPEAKER Market research provides a basic overview of the industry including definitions, classifications, applications and industry chain structure. The market report also calculate the market size,",
-      "heat": 150,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/ai-artificial-intelligence-speaker-market-technology-advancement-and-latest-study-report-2020-2020-02-06",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-05T22:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "AI (ARTIFICIAL INTELLIGENCE) SPEAKER Market Technology Advancement and Latest Study Report 2020",
           "attribution": null
         }
       ],

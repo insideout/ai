@@ -8,7 +8,7 @@ ampWebUrl: "https://www.gamepur.com/guides/how-to-use-voice-recognition-in-pokem
 cdnAmpWebUrl: "https://www-gamepur-com.cdn.ampproject.org/c/s/www.gamepur.com/guides/how-to-use-voice-recognition-in-pokemon-home/amp"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -26,60 +26,21 @@ images:
     title: "How to use voice recognition in Pokémon HOME"
 
 related:
-  - title: "Met Police rolls out live facial recognition in London"
-    excerpt: "This is the Met Police’s first live deployment of facial recognition technology in London, following 10 trials around the city since 2016 and months of public debate about the use of the controversial biometric software on the public. The rollout comes in the wake of similar deployments in countries including China, Brazil, India and Wales."
-    publishedDateTime: 2020-02-12T04:00:00Z
-    webUrl: "https://www.ft.com/content/db8bfc3c-4cf4-11ea-95a0-43d18ec715f5"
-    ampWebUrl: "https://amp.ft.com/content/db8bfc3c-4cf4-11ea-95a0-43d18ec715f5"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/db8bfc3c-4cf4-11ea-95a0-43d18ec715f5"
+  - title: "‘What I saw in Hong Kong was truly scary’: EU to urge caution on use of facial recognition amid fears of Big Brother-style society"
+    excerpt: "Amid fears of a Big Brother-style society ruled by machines, the EU will urge authorities and companies to think hard before rolling out facial recognition technology. But the bloc, which will make a much-anticipated announcement this week on the role of artificial intelligence (AI), will stop short of imposing an outright ban, a top official said."
+    publishedDateTime: 2020-02-16T23:43:00Z
+    webUrl: "https://www.scmp.com/news/world/europe/article/3050895/what-i-saw-hong-kong-was-truly-scary-eu-urge-caution-use-facial"
+    ampWebUrl: "https://amp.scmp.com/news/world/europe/article/3050895/what-i-saw-hong-kong-was-truly-scary-eu-urge-caution-use-facial"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/world/europe/article/3050895/what-i-saw-hong-kong-was-truly-scary-eu-urge-caution-use-facial"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 59
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 29
     images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F104630ce-4cea-11ea-95a0-43d18ec715f5?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
-  - title: "Met Police try to calm tensions as live facial recognition hits London"
-    excerpt: "This is the Met Police’s first live deployment of facial recognition technology in London, following 10 trials around the city since 2016 and months of public debate about the use of the controversial biometric software on the public. The rollout comes in the wake of similar deployments in countries including China, Brazil, India and Wales."
-    publishedDateTime: 2020-02-12T04:00:00Z
-    webUrl: "https://www.ft.com/content/db8bfc3c-4cf4-11ea-95a0-43d18ec715f5"
-    ampWebUrl: "https://amp.ft.com/content/db8bfc3c-4cf4-11ea-95a0-43d18ec715f5"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/db8bfc3c-4cf4-11ea-95a0-43d18ec715f5"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 59
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F104630ce-4cea-11ea-95a0-43d18ec715f5?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
-  - title: "Raleigh police stop using controversial facial recognition technology"
-    excerpt: "Raleigh police have stopped using a facial recognition app to identify potential criminals through the Internet, cutting ties with a company that has drawn widespread privacy concerns. In August, the department paid $2,500 to Clearview AI for one year’s access to its app, which collects pictures from Facebook, YouTube and other public sites ..."
-    publishedDateTime: 2020-02-12T17:54:00Z
-    webUrl: "https://www.newsobserver.com/news/local/crime/article240221072.html"
-    ampWebUrl: "https://amp.newsobserver.com/news/local/crime/article240221072.html"
-    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/local/crime/article240221072.html"
-    type: article
-    provider:
-      name: Raleigh News & Observer
-      domain: newsobserver.com
-    quality: 59
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/98982b80-0f4c-4539-8307-e03345d59828/f123b10c-3acf-4f41-b7eb-0cf3424b4196/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-  - title: "Public Perception of Facial Recognition Technologies - a four countries study"
-    excerpt: "Facial recognition technology (FRT) – which seeks to match people from a digital image or video with various identifying attributes – is increasingly commonplace in everyday life. The wide and quickly spreading application of the technology has become the subject of increased debate. On the one hand, #FRT is seen as a potentially powerful ..."
-    publishedDateTime: 2020-02-12T19:35:00Z
-    webUrl: "https://www.linkedin.com/pulse/public-perception-facial-recognition-technologies-four-meckel"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 16
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/02/17/0cb516d6-5114-11ea-8948-c9a8d8f9b667_image_hires_073744.jpg?itok=8I6egWZ4&v=1581896270"
+        width: 1200
+        height: 630
 
 secured: "6R/GHmPNn/3PfmJhVWdo9Ej7qwr/mXB1WopSlZ/K+/PO3jWOHrpHlJdTrcoHp5nFlyeinIAqDkThyRzCjh+4SoY8WNNAAjzXRyllPRlYpDgnm9y5RUHCAPjE/VxybHspbc22qqBWFVY7GcUsgTM52o/of9PcEOrDNsRLKBFnyeOSgLuNqi8jnENH6BQ5Mzdr43oDvB+I2JpR/7iV2jApv/MKTuBh1tlfYhaOZ4TvCblpVvuhuAEAk3wqD4lplJkAjMu/P4F8h9A1nvMm60Uv+e0/rvg0NQzN6wG0GAWERFgeBb2EIr0zZrs/6pOt1acovYSqduq3G1g8QFcDyXORwLP3/PKu4NM3OnZgYxnyrPD83zbmXhelzHcL7JaF6Wcbu3Gdmj70WiNIanWdNUN1w0y2Bq6ZzIhaJVCfIRGGvPeqEqWs7ySLi0Z95da1AHxxRL5cPvZySefD1phmTFzJRZYPVYqq0C8KWFDe5vNGcKc=;iPVGJzchuW8hIdYAM/YjvQ=="
 ---

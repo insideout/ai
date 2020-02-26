@@ -2,6 +2,176 @@
   "page": 23,
   "value": [
     {
+      "path": "_posts/_archive/2020-02-01-how-aws-is-making-the-six-nations-2020-the-most-immersive-yet.md",
+      "title": "How AWS is making the Six Nations 2020 the most immersive yet",
+      "excerpt": "AWS tools including Elastic MapReduce and SageMaker are then used to harness machine learning and analytics to get detailed insight into that data, creating analytics that can then be shared in real time for live broadcast to viewers in over 170 countries to enjoy. For example, to power the new Kick Predictor statistics tool, the AWS Machine ...",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techradar.com/sg/news/aws-is-making-the-six-nations-2020-the-most-immersive-yet",
+      "ampWebUrl": "https://www.techradar.com/sg/amp/news/aws-is-making-the-six-nations-2020-the-most-immersive-yet",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/aws-is-making-the-six-nations-2020-the-most-immersive-yet",
+      "publishedDateTime": "2020-02-01T00:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/BXJa3tZu4oKtEXuFash5oE-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": "How AWS is making the Six Nations 2020 the most immersive yet",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-02-01-hyper-intelligent-ai-hive-mind-claims-to-predict-super-bowl-winner.md",
+      "title": "Hyper-Intelligent AI Hive Mind Claims to Predict Super Bowl Winner",
+      "excerpt": "But if you’re looking for a really educated guess on the game’s outcome, you’ll want to ask Stanford computer scientist Louis Rosenberg, the founder of Unanimous A.I., a startup that combines the opinions of a lot of humans with artificial intelligence to make remarkably accurate predictions. In nature, many species exhibit something ...",
+      "heat": 157,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://futurism.com/the-byte/hyper-intelligent-ai-hive-mind-claims-predicts-super-bowl-winner",
+      "ampWebUrl": "https://futurism.com/hyper-intelligent-ai-hive-mind-claims-predicts-super-bowl-winner/amp",
+      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/hyper-intelligent-ai-hive-mind-claims-predicts-super-bowl-winner/amp",
+      "publishedDateTime": "2020-02-01T03:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurism",
+        "domain": "futurism.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://wp-assets.futurism.com/2020/01/hyper-intelligent-hive-mind-predicts-super-bowl-liv-winner-600x315.jpg",
+          "width": 600,
+          "height": 315,
+          "title": "Hyper-Intelligent AI Hive Mind Claims to Predict Super Bowl Winner",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-02-01-indias-plans-for-data-centre-parks-may-finally-force-facebook-and-twitter-to-localise.md",
+      "title": "India’s plans for data centre parks may finally force Facebook and Twitter to localise",
+      "excerpt": "The proposed policy directly takes on a highly-debated clause in India’s personal data protection bill, which suggests that data collected by foreign companies such as Facebook, TikTok ... for tech advancements by setting up a national portal for artificial intelligence (AI) research and development. “We appreciate the government’s ...",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://qz.com/india/1795276/nirmala-sitharaman-proposed-data-centre-parks-in-union-budget/",
+      "ampWebUrl": "https://qz.com/india/1795276/nirmala-sitharaman-proposed-data-centre-parks-in-union-budget/amp/",
+      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/india/1795276/nirmala-sitharaman-proposed-data-centre-parks-in-union-budget/amp/",
+      "publishedDateTime": "2020-02-01T02:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quartz",
+        "domain": "qz.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/qz.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cms.qz.com/wp-content/uploads/2020/02/AP_20032244386981-e1580546856302.jpg?quality=75&strip=all&w=1400",
+          "width": 1400,
+          "height": 787,
+          "title": "India’s plans for data centre parks may finally force Facebook and Twitter to localise",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-02-01-what-if-ai-could-anticipate-our-wants-and-needs.md",
+      "title": "What If AI Could Anticipate Our Wants and Needs?",
+      "excerpt": "The lines of code that animate these machines will inevitably lack nuance, forget to spell out caveats, and end up giving AI systems goals and incentives that don’t align with our true preferences. A now-classic thought experiment illustrating this problem was posed by the Oxford philosopher Nick Bostrom in 2003. Bostrom imagined a ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theatlantic.com/technology/archive/2020/02/real-danger-artificial-intelligence/605914/",
+      "ampWebUrl": "https://amp.theatlantic.com/amp/article/605914/",
+      "cdnAmpWebUrl": "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/605914/",
+      "publishedDateTime": "2020-02-01T05:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Atlantic",
+        "domain": "theatlantic.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/theatlantic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.theatlantic.com/assets/media/img/mt/2020/01/AI_Genie_3K_Lede/lead.jpg?mod=1580505331",
+          "width": 570,
+          "height": 321,
+          "title": "What If AI Could Anticipate Our Wants and Needs?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-02-01-why-were-failing-to-regulate-the-most-powerful-tech-weve-ever-faced.md",
       "title": "Why we’re failing to regulate the most powerful tech we’ve ever faced",
       "excerpt": "It’s clear the AI revolution will impact society drastically, both for good and bad. Recently, using natural-language processing and machine-learning techniques, Canadian company BluDot sifted through global news reports, airline data, and reports of animal disease outbreaks to issue an alert about the current Coronavirus outbreak ...",
@@ -1958,174 +2128,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-02-04-benchsci-raises-22-million-for-ai-powered-drug-discovery-tools.md",
-      "title": "BenchSci raises $22 million for AI-powered drug discovery tools",
-      "excerpt": "Assessing the health of pharmaceutical R&D by unearthing hidden patterns in procurement data is a task made simpler by AI. At least, that’s the pitch given by David Qixiang Chen, Elvis Wianda, Liran Belenzon, and Tom Leung, who cofounded BenchSci in 2015. The Toronto, Canada-based biotech company taps AI to run experiments that accelerate ...",
-      "heat": 197,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/04/benchsci-raises-22-million-for-ai-powered-drug-discovery-tools/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/04/benchsci-raises-22-million-for-ai-powered-drug-discovery-tools/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/04/benchsci-raises-22-million-for-ai-powered-drug-discovery-tools/amp/",
-      "publishedDateTime": "2020-02-04T02:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/05/products-screenshot-min-e1580583276382.png?fit=1258%2C600&strip=all",
-          "width": 1258,
-          "height": 600,
-          "title": "BenchSci raises $22 million for AI-powered drug discovery tools",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-02-04-blackpool-pothole-fixing-artificial-intelligence-saves-1m.md",
-      "title": "Blackpool pothole-fixing artificial intelligence 'saves £1m'",
-      "excerpt": "An innovative pilot scheme using artificial intelligence to assess potholes has saved more than £1m of taxpayers' cash, a council has said. Blackpool Council said it was the first local authority to use AI technology to detect damage to roads. It uses satellite images to inspect roads in seconds rather than sending engineers, and was trialled ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bbc.com/news/uk-england-lancashire-51356855",
-      "ampWebUrl": "https://www.bbc.com/news/amp/uk-england-lancashire-51356855",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/uk-england-lancashire-51356855",
-      "publishedDateTime": "2020-02-03T16:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/2BF7/production/_110755211_pothole.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": "Blackpool pothole-fixing artificial intelligence 'saves £1m'",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-02-04-camcon-explores-diesel-and-ai-calibration-for-its-digital-valve-train.md",
-      "title": "Camcon explores diesel and AI calibration for its digital valve train",
-      "excerpt": "The company is working in three directions to push things forward: it's building plug and play valve train kits for a range of common single-cylinder research engines, it's opening up to the heavy-duty diesel (HDD) market, and it's assembling a machine learning team to start applying artificial intelligence to the complex task of calibrating ...",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://newatlas.com/automotive/camcon-digital-valve-diesel-ai/",
-      "ampWebUrl": "https://newatlas.com/automotive/camcon-digital-valve-diesel-ai/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/camcon-digital-valve-diesel-ai/?amp=true",
-      "publishedDateTime": "2020-02-03T20:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/257812a/2147483647/strip/true/crop/1619x1080+0+0/resize/1160x774!/quality/90/?url=https%3A%2F%2Fassets.newatlas.com%2Farchive%2Fcamcon-digital-iva-valve-system-4.jpg",
-          "width": 1160,
-          "height": 774,
-          "title": "Camcon explores diesel and AI calibration for its digital valve train",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-02-04-dont-care-if-you-even-graduated-says-elon-musk-as-he-announces-ai-party-at-his-place.md",
-      "title": "Don't care if you even graduated, says Elon Musk as he announces AI party at his place",
-      "excerpt": "Tesla CEO Elon Musk recently invited coders and engineers over Twitter to attend an AI party ... \"reports directly\" to him daily. Tagging Lex Fridman, a known host of the Artificial Intelligence ...",
-      "heat": 149,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.livemint.com/technology/tech-news/don-t-care-if-you-even-graduated-says-musk-as-he-announces-ai-party-at-his-home-11580786460077.html",
-      "ampWebUrl": "https://www.livemint.com/technology/tech-news/don-t-care-if-you-even-graduated-says-musk-as-he-announces-ai-party-at-his-home/amp-11580786460077.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/don-t-care-if-you-even-graduated-says-musk-as-he-announces-ai-party-at-his-home/amp-11580786460077.html",
-      "publishedDateTime": "2020-02-03T20:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2020/02/04/600x338/682a7284-3d11-11ea-8ee2-8148f8ffa5ba_1580722387199_1580788559081.jpg",
-          "width": 600,
-          "height": 338,
-          "title": "Don't care if you even graduated, says Elon Musk as he announces AI party at his place",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

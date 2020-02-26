@@ -67,6 +67,28 @@ related:
       - url: "https://sites.breakingmedia.com/uploads/sites/3/2020/02/Screen-Shot-2020-02-24-at-5.11.58-PM.png"
         width: 597
         height: 328
+  - title: "Pentagon outlines AI ethics principles"
+    excerpt: "\"I'm not suggesting enforcement at the beginning of it,\" he said. \"These are early conversations to be had with our industry partners to say now that we've established these principles for AI ethics, could you develop the capabilities that address each of the five at some point along the way through [research, development, testing and evaluation].\""
+    publishedDateTime: 2020-02-26T20:32:00Z
+    webUrl: "https://gcn.com/articles/2020/02/26/dod-ai-ethics.aspx"
+    type: article
+    provider:
+      name: GCN
+      domain: gcn.com
+    quality: 54
+    images:
+      - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/AI_Automation/AIengineers.png"
+        width: 760
+        height: 368
+  - title: "US DoD Adopts Ethical AI Principles"
+    excerpt: "... Department of Defense announced yesterday that it has adopted a series of ethical principles regarding the use of artificial intelligence (AI). Designed to build on the US military’s existing ethics framework, which is based on the US Constitution, Title 10 of the US Code, Law of War, existing international treaties, and longstanding ..."
+    publishedDateTime: 2020-02-26T18:49:00Z
+    webUrl: "https://www.infosecurity-magazine.com/news/us-dod-adopts-ethical-ai-principles/"
+    type: article
+    provider:
+      name: Infosecurity-magazine.com
+      domain: infosecurity-magazine.com
+    quality: 34
 
 secured: "AnLdTcOYZEgFNByF+y5RKaiSyzNmsoTWp1YaSkGevA4CuMZjBTLtnxQ7P1vqNlwc+51FI1MW73mQjgNGHYOBS6/cbx5xF6sETSqR/9B0alW2IkroV1W9OeMKOck7JoI46LHvK7wmFBEaScBWivG3XEs2ImDgySv8s4q5q2BUiLMnfUFalWZguTWUp+8kLb1BW9S0ZR8h3QaKwARtyN4Xw+XmhLxNRk4uVgFZtqRhtLbIDCS3w5lgwuxmaemBHXDjYKfc4aCcU6lTYmjnRJvGTAR5UnDRyqxnSM5v3qPUsSkUPdIaPTJTX9ZuYDAh82SQBvRnY7kyT+J3zJ4h9U+WvCo6XxEoH/+5bLU5zDhOCA/L+i4XweJwtABhG2hMWf63dsuvZKqC6vBP4rqE/cKxYmeTqUPDO/mX6Wf0ZBNLpM8cqIpYk5ohNdvx6f55p/owtL0J3V4IFJ9TM+8BO/eZ5fG+nIo6gpduKRiKWdEe2po=;3EbuSfBHg1r28F3AkxmPNw=="
 ---

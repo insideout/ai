@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Live Demonstration of Radian Zoned Flash SSDs with IBM Research's Storage Stack"
-excerpt: "CALABASAS, Calif., Feb. 20, 2020 /PRNewswire/ -- Next week at the USENIX File and Storage Technology (FAST) Conference in Santa Clara, Ca., Radian Memory Systems®, Inc. will provide a live demonstration of IBM®'s software defined log-structured array storage management stack [1] utilizing Zoned Flash SSDs for the first time."
-publishedDateTime: 2020-02-20T13:00:00Z
-webUrl: "https://www.prnewswire.com/news-releases/live-demonstration-of-radian-zoned-flash-ssds-with-ibm-researchs-storage-stack-301008221.html"
+excerpt: "We play the long game, investing now in tomorrow's breakthroughs. Watson, the world's first cognitive system, is the fruit of over 50 years of IBM research in artificial intelligence. Today, it forms a core part of IBM's business. Our scientists are charting the future of artificial intelligence, breakthroughs like quantum computing ..."
+publishedDateTime: 2020-02-20T14:26:00Z
+webUrl: "https://www.tmcnet.com/usubmit/-live-demonstration-radian-zoned-flash-ssds-with-ibm-/2020/02/20/9101317.htm"
 type: article
 quality: 20
 heat: 20
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
   - IBM AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1092991/Radian_IBM_SALSA_Infographic.jpg?p=facebook"
-    width: 1400
-    height: 733
+  - url: "https://mma.prnewswire.com/media/1092991/Radian_IBM_SALSA_Infographic.jpg"
+    width: 400
+    height: 303
     title: "Live Demonstration of Radian Zoned Flash SSDs with IBM Research's Storage Stack"
 
-secured: "SGo5clLVHnEQcJWyeYzFhVbw9cPypVOBTKAxkW+by0ARSNdC+UtDNEpHGV6fe06BjSpTZFljxR5qU1B+/o13vuW65gtotlpSnts9oZrLYf5C579S2DJPBQx7IGxlrVQCrvtzRD6BC9T6Bx6pZQh8Drvg6wFz3WY+WQGHjW7P8Njx6W50MUi2TmrUMDCIEBLHbjcOnSfPk3b9X1WWkgMVKGREdi3HsXxgu7ks4zhmefk+pv+hZC8wm6U7KNaETxttfbbOsOS8HAUXnMW0/hTo94Vu4O71zdYox7y093T9IZS66i7HBVhrLHCJP/IyilYV6ChKLkUFuCQEbZb/wAiQaYww9RmSyDN+FLFWtZJxFRtm+UXLk51dKQmKEJDOktXOSN4Mz3l5KC9nf1obNYor9QNOb7dvYBoAK6AvqlCM8dcEc+In9bVj6lnpxF/FI/pZ64mqifkvK3KSoK9ojd4CViLTqQZIuKD0KmYWDAyfSp8=;uz6QoJ5/H4uMVxmhN6FTZg=="
+secured: "58rOH4Exr9oomKCyx0mytOcq+qZIm/ZlTsXeLAt/nMo8Z83OPSuMGekW3aT2/521YqbGw9qik7wszz3adwC4SSHhqhrKJyZv+KYs6jBvs9o21hYRKbox+YSMr+q2UIK9SS+OGtxyW3eelzr5iBoylHmBMYfYqEaMIQlWP76H6fvJ9AKealwLmhs0jfCjxaQMAswHlBWqsP9MMaBzCV4H2JncqFYvDij0KXrIsr5cR0E6tN/6fqWabxg317gru2RGMQuntvgk4iu701s7a+yIHvlKP0OtqV77TbCNjlayvtSzP9gMoUmMozqnjVKIaKNa;jO3QBK2QXJPQWXumAtXcIA=="
 ---
 

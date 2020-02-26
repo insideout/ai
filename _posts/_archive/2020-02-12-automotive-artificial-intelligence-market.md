@@ -28,6 +28,6 @@ related:
       domain: openpr.com
     quality: 19
 
-secured: "OEkxuc44mvrJN0R+ifNxoHYDP4rkMQH7DEUAh9xejuhbam4lF49eroIxlvE9osoHuN0zEvRo2e5anHy1V+7hwjJf3vLxKJwQVdQbjqHa/7LxJyMO38xbQJLqOGU61uQ6hmE6Q8LzaUdE/AmSzrFTlTojs/S19CQn1UUXUAFFSDLWqHc+9nS6yUnlqb4epfyoGIfGlt15FEAV274iR85E6tCJ/zRkIPrYbXw/szwoFYWtROy2KWa9d1sGgzlO8y2Rjok3I9bx/s7MrZmw8KsWPnXxNHPuZcSHHap+2vIY/CIfXgFSKFdxXomH0a5lrJ64;ULh59OBw0bk86vgVlLJm+Q=="
+secured: "rfSLlL9PxLJw9T2Nzq5o4Pq0HBJj1AWK4YFtrRFk49WK7avz88ITc5YegclPrQpICFRUcc4oRxx0yiqh3sy9xJNc/SP7U36Zrt6CKnyYTT52BJkWaeqn1Cd/p1PoZtkowHeJeIz0t8mYDrISaZDZqNeujfoWUIlDDtjqZFpdDitWlkACj+etw3ZRPCDpcDt5qBIXiM7OlbEg+xBB81itJ6C7OskWxDU63wMRbTB5Z19NtRoyydXzhLwRy5YT8sEBiRzmuh1tSzfw6QpfV6BP6CxFNvyZIptz3x1Stupbo/XZzB6HBU/Obs64D/84Nagq;h8DrTZUixnJ/6aO3OJyQQw=="
 ---
 

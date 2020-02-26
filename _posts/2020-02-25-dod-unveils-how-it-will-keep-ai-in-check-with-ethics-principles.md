@@ -8,7 +8,7 @@ ampWebUrl: "https://federalnewsnetwork.com/defense-main/2020/02/dod-unveils-how-
 cdnAmpWebUrl: "https://federalnewsnetwork-com.cdn.ampproject.org/c/s/federalnewsnetwork.com/defense-main/2020/02/dod-unveils-how-it-will-keep-ai-in-check-with-ethics-principles/amp/"
 type: article
 quality: 157
-heat: 187
+heat: 207
 published: true
 
 provider:
@@ -66,7 +66,29 @@ related:
       - url: "https://media.defense.gov/2020/Feb/25/2002254869/1280/1280/0/200205-M-VG714-0024M.JPG"
         width: 1280
         height: 854
+  - title: "Pentagon outlines AI ethics principles"
+    excerpt: "\"I'm not suggesting enforcement at the beginning of it,\" he said. \"These are early conversations to be had with our industry partners to say now that we've established these principles for AI ethics, could you develop the capabilities that address each of the five at some point along the way through [research, development, testing and evaluation].\""
+    publishedDateTime: 2020-02-26T20:32:00Z
+    webUrl: "https://gcn.com/articles/2020/02/26/dod-ai-ethics.aspx"
+    type: article
+    provider:
+      name: GCN
+      domain: gcn.com
+    quality: 54
+    images:
+      - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/AI_Automation/AIengineers.png"
+        width: 760
+        height: 368
+  - title: "US DoD Adopts Ethical AI Principles"
+    excerpt: "... Department of Defense announced yesterday that it has adopted a series of ethical principles regarding the use of artificial intelligence (AI). Designed to build on the US military’s existing ethics framework, which is based on the US Constitution, Title 10 of the US Code, Law of War, existing international treaties, and longstanding ..."
+    publishedDateTime: 2020-02-26T18:49:00Z
+    webUrl: "https://www.infosecurity-magazine.com/news/us-dod-adopts-ethical-ai-principles/"
+    type: article
+    provider:
+      name: Infosecurity-magazine.com
+      domain: infosecurity-magazine.com
+    quality: 34
 
-secured: "eOJpR+tvtTyQiyCntnl8IRsFCUNrCOkwS0a6SdK8EQeV982wuSSQoUSoEzFEKBjCH5fLYppgW4MQyFbDYJHsJ4I60vy/HKqFtI4fhCJa4PKEEAOZ8zt9KiB0Mk73JVqDtqI2bvYYtpXM2vhciKXeoIfjtQ+Pf4ZHp9g+5KXxrBV5ueS+/hUaBedxQ3qwOpo5ivNypMFuw/RwiTaSIVlfFVeNEN937qM7hYJBLaLZQK3/zNVsoUiR9Yorif8RMJPuSFrLefdyuAZjvghH09sKtrLQ3CF52nmb2fA4zsDONOs9DnKXGJVqGXbnQTsmyo+LpxmvkzBaNAJPQ6nmUSpMQA==;2mKwKwmWVlGTGQ090O81rg=="
+secured: "ZzEB63QeCe0JsnAxMhxiWbeyql0i/dOaPqEWiAi7nuXT8HMWupLufX3dPeQ4/7BC176gKBxmWb+saearzby7RYuk7tjMc4M5BZA/9jYLOntNG8pRV3mNq663mjiT1UsPJneSerzSHTijZS58l0+amkUd7lodKHN51fAP3TVgqBepvLyo5ChEz3P4PJJwgI9J8d1pZA8m/l9XeW6zX0iAmUeQvOA5I6UUbdrsT5GMrL7eQXcZpv519XAOp8Oj+NN6xcCMn/sVYh1GK3jEw8A/2hHNUTjS3sZ1xW6Emf5APZKT8w1JsVvOqqsGXw1yWeTaYZ51t7EQ5RNCCaH8Cm6QD1FfgcATDRuqasgyRCRtURusU/ZBeljvEB3G4qT/DuMCjj1BtV3tWltdEvN4Nm9LHC9jxns9r3/aGAv2HQXozCkzihuESMAAaWKFcWITwBwHSEtYa8N+Qr/r8p3e3RQFozNIyIGaFJviOhInJusY3SGU2HumIQNQWTQST4zalHmL;mncUEIpFTpwXx+PiRsmZVQ=="
 ---
 

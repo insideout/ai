@@ -2,6 +2,88 @@
   "page": 6,
   "value": [
     {
+      "path": "_posts/2020-02-21-leaked-reports-show-eu-police-are-planning-a-pan-european-network-of-facial-recognition-databases.md",
+      "title": "Leaked Reports Show EU Police Are Planning a Pan-European Network of Facial Recognition Databases",
+      "excerpt": "the EU could soon be creating a network of national police facial recognition databases. A report drawn up by the national police forces of 10 EU member states, led by Austria, calls for the introduction of EU legislation to introduce and interconnect such databases in every member state. The report, which The Intercept obtained from a European ...",
+      "heat": 186,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://theintercept.com/2020/02/21/eu-facial-recognition-database/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-21T09:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Intercept",
+        "domain": "theintercept.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://theintercept.com/wp-uploads/sites/1/2020/02/YotamHadar_TheIntercept_EUv4-still-1582297909.jpg",
+          "width": 2000,
+          "height": 1000,
+          "title": "Leaked Reports Show EU Police Are Planning a Pan-European Network of Facial Recognition Databases",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-21-microsoft-launches-entrepreneurship-program-targeted-at-social-entrepreneurs.md",
+      "title": "Microsoft launches entrepreneurship program targeted at social entrepreneurs",
+      "excerpt": "Under the program, which will be available in 140 countries, qualifying social enterprises will receive access to free Microsoft cloud technologies, including up to $120,000 in Azure credits, along with technical ... and Zindi's web platform has been created to host machine learning and AI competitions online in Africa.",
+      "heat": 106,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/microsoft-launches-entrepreneurship-program-targeted-at-social-entrepreneurs/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-launches-entrepreneurship-program-targeted-at-social-entrepreneurs/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-launches-entrepreneurship-program-targeted-at-social-entrepreneurs/",
+      "publishedDateTime": "2020-02-21T00:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2018/01/14/0b007dc5-ca44-4699-930c-7831748aa020/thumbnail/1200x675/747f01070b6fac97c0eed9500191a237/samsung-logo-ces.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Microsoft launches entrepreneurship program targeted at social entrepreneurs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_posts/2020-02-21-microsoft-threat-protection-an-israeli-built-ai-bundle-of-redmonds-security-services.md",
       "title": "Microsoft Threat Protection: an Israeli-built AI bundle of Redmond's security services",
       "excerpt": "Microsoft Threat Protection literally consists of four existing services including Microsoft Defender Advanced Threat Protection (ATP), its Windows antivirus — which these days Mac and Linux too — Office ATP, Azure ATP, and its cloud app security suite. But while Microsoft Threat Protection is a combination of those existing services ...",
@@ -2037,95 +2119,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-24-robot-suitcase-uses-ai-to-help-visually-impaired-travelers.md",
-      "title": "Robot suitcase uses AI to help visually impaired travelers",
-      "excerpt": "IBM Japan and partners are developing a new suitcase-shaped robot that could help the visually impaired while they travel. The navigation robot will use artificial intelligence to help people travel more independently, whether that's around town or around the world. A consortium of five companies -- including IBM Japan, Shimizu and Mitsubishi ...",
-      "heat": 114,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/news/robot-suitcase-uses-ai-to-help-visually-impaired-travelers/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/robot-suitcase-uses-ai-to-help-visually-impaired-travelers/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/robot-suitcase-uses-ai-to-help-visually-impaired-travelers/",
-      "publishedDateTime": "2020-02-24T14:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet1.cbsistatic.com/img/1Fs9ohsEFGnis2AFh72zTVapQEk=/756x567/2020/02/24/6a28062c-1189-4044-8851-67cced21a744/gettyimages-sb10062851ai-001.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "Robot suitcase uses AI to help visually impaired travelers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-24-softbank-leads-265-million-investments-in-two-us-based-start-ups.md",
-      "title": "SoftBank leads $265 million investments in two U.S.-based start-ups",
-      "excerpt": "SoftBank on Monday led a new funding round of $165 million in California-based Karius and invested $100 million in New York-headquartered AI company Behavox, as the technology giant builds a portfolio under its second Vision Fund.",
-      "heat": 112,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.reuters.com/article/us-karius-funding-idUSKCN20I155",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN20I155",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN20I155",
-      "publishedDateTime": "2020-02-24T12:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200224&t=2&i=1494517480&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG1N0Y9",
-          "width": 785,
-          "height": 545,
-          "title": "SoftBank leads $265 million investments in two U.S.-based start-ups",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

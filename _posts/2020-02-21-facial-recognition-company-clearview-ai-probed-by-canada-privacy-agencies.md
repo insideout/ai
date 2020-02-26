@@ -8,7 +8,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN20F2I3"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN20F2I3"
 type: article
 quality: 103
-heat: 173
+heat: 183
 published: true
 
 provider:
@@ -56,6 +56,21 @@ related:
     quality: 83
     images:
       - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
+        width: 1200
+        height: 630
+  - title: "Clearview AI, controversial facial-recognition company focused on cybersecurity, gets hacked"
+    excerpt: "Clearview AI, the creepy facial-recognition company that scrapes your photos from social media, has been hacked. According to a report by The Daily Beast, hackers accessed data including \"its entire list of customers, the number of searches those customers have made and how many accounts each customer had set up.\" Yes, a company primarily ..."
+    publishedDateTime: 2020-02-26T18:41:00Z
+    webUrl: "https://mashable.com/article/clearview-ai-client-list-hacked/"
+    ampWebUrl: "https://mashable.com/article/clearview-ai-client-list-hacked.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/clearview-ai-client-list-hacked.amp"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 78
+    images:
+      - url: "https://mondrian.mashable.com/2020%252F02%252F26%252Ff8%252Fb7ae576e678b4164821136834cb6b965.a9d7d.jpg%252F1200x630.jpg?signature=1ED1HL_mJDPNyNyJgXoYnP97tW0="
         width: 1200
         height: 630
   - title: "Facial recognition app used by more than 600 law enforcement agencies suffers significant data breach"

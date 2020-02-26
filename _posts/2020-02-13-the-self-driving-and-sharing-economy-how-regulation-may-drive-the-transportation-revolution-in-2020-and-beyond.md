@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/paulrosen/2020/02/12/the-self-driving-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paulrosen/2020/02/12/the-self-driving-and-sharing-economy-how-regulation-may-drive-the-transportation-revolution-in-2020-and-beyond/amp/"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -30,6 +30,19 @@ images:
     title: "The Self Driving And Sharing Economy: How Regulation May Drive The Transportation Revolution In 2020 And Beyond"
 
 related:
+  - title: "House Hearing Revives Push for Self-Driving-Car Legislation"
+    excerpt: "House lawmakers held a hearing in an effort to revive legislation that would create clear federal safety guidelines and standards for autonomous vehicles and help companies bring the technology to market."
+    publishedDateTime: 2020-02-12T14:21:00Z
+    webUrl: "https://www.wsj.com/articles/house-hearing-revives-push-for-self-driving-car-legislation-11581503402"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 54
+    images:
+      - url: "https://images.wsj.net/im-153483/social"
+        width: 1280
+        height: 640
   - title: "Global Emotion Detection And Recognition (EDR) Market 2020 Growth Analysis, Key Insights, Future Development and Statistical Forecast 2025"
     excerpt: "Scope of the Report Emotion Detection and Recognition (EDR) is typically identifying human emotion from facial expression or verbal expression. Now, with the help of AI, NLP and ML, the machine is made to understand human emotion through various software and act according to it."
     publishedDateTime: 2020-02-19T11:19:00Z

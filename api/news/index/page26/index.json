@@ -2,6 +2,177 @@
   "page": 26,
   "value": [
     {
+      "path": "_posts/_archive/2020-02-07-daily-news-of-artificial-intelligence.md",
+      "title": "DAILY NEWS OF ARTIFICIAL INTELLIGENCE",
+      "excerpt": "The robots have recently entered pole-dancers ... costs and fraudulent orders PWC Tech World reports that most e-commerce platforms are focused on sectors such as communication commerce, artificial intelligence (AI), virtual reality (VR) / augmented reality (AR) and analytics technologies New Delhi: Global auditing and consulting firm PWC ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/series/daily-news-of-artificial-intelligence-66b0dd171af1",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-07T11:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/2400/1*nUI0tQinevzbwiWcodKGCg.jpeg",
+          "width": 639,
+          "height": 429,
+          "title": "DAILY NEWS OF ARTIFICIAL INTELLIGENCE",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-02-07-dynatrace-tunes-davis-ai-brain-for-business-savvy-kpi-analysis.md",
+      "title": "Dynatrace Tunes ‘Davis’ AI Brain For Business-Savvy KPI Analysis",
+      "excerpt": "The smarter business operation with cloud, data observability, software intelligence and AI is a real thing, but we humans are going to have to go back to the drawing board and learn a few new tricks too.",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/02/06/dynatrace-tunes-davis-ai-brain-for-business-savvy-kpi-analysis/",
+      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/02/06/dynatrace-tunes-davis-ai-brain-for-business-savvy-kpi-analysis/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2020/02/06/dynatrace-tunes-davis-ai-brain-for-business-savvy-kpi-analysis/amp/",
+      "publishedDateTime": "2020-02-06T19:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e399bb98b6cf300071dd7b4%2F0x0.jpg",
+          "width": 640,
+          "height": 362,
+          "title": "Dynatrace Tunes ‘Davis’ AI Brain For Business-Savvy KPI Analysis",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-02-07-et-prime-introduces-market-first-subscribe-with-google-partnership.md",
+      "title": "ET Prime introduces market-first ‘subscribe with Google’ partnership",
+      "excerpt": "NEW DELHI: The Economic Times’ subscription-based premium ... the ability to seamlessly pay for subscriptions or read premium articles across a dedicated mobile app, web browser or search results. ET Prime has now become India’s first premium business news publisher to offer the ‘Subscribe with Google’ option that allows users to ...",
+      "heat": 142,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://timesofindia.indiatimes.com/business/india-business/et-prime-introduces-market-first-subscribe-with-google-partnership/articleshow/74013039.cms",
+      "ampWebUrl": "https://m.timesofindia.com/business/india-business/et-prime-introduces-market-first-subscribe-with-google-partnership/amp_articleshow/74013039.cms",
+      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/business/india-business/et-prime-introduces-market-first-subscribe-with-google-partnership/amp_articleshow/74013039.cms",
+      "publishedDateTime": "2020-02-07T09:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "ET Prime introduces market-first ‘subscribe with Google’ partnership",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-02-07-exclusive-reuters-uses-ai-to-prototype-first-ever-automated-video-reports.md",
+      "title": "Exclusive: Reuters Uses AI To Prototype First Ever Automated Video Reports",
+      "excerpt": "Developed in collaboration with London-based AI startup Synthesia, the new system harnesses AI in order to synthesize pre-recorded footage of a news presenter into entirely new reports.",
+      "heat": 185,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/simonchandler/2020/02/07/reuters-uses-ai-to-prototype-first-ever-automated-video-reports/",
+      "ampWebUrl": "https://www.forbes.com/sites/simonchandler/2020/02/07/reuters-uses-ai-to-prototype-first-ever-automated-video-reports/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/simonchandler/2020/02/07/reuters-uses-ai-to-prototype-first-ever-automated-video-reports/amp/",
+      "publishedDateTime": "2020-02-07T05:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e3d307e8b6cf300071e2376%2F0x0.jpg%3FcropX1%3D1%26cropX2%3D1760%26cropY1%3D0%26cropY2%3D990",
+          "width": 1200,
+          "height": 675,
+          "title": "Exclusive: Reuters Uses AI To Prototype First Ever Automated Video Reports",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-02-07-facial-recognition-market-present-scenario-and-growth-analysis-till-2026.md",
       "title": "Facial Recognition Market Present Scenario and Growth Analysis till 2026",
       "excerpt": "QY Market Research Store has added the report titled Global Facial Recognition Market to its ever-growing repository to enable an effective business outlook. The report comprises an in-depth study of varying features characteristic of industries,",
@@ -1973,174 +2144,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-02-10-ai-app-helps-tailor-mental-health-treatment.md",
-      "title": "AI app helps tailor mental health treatment",
-      "excerpt": "“We don’t want doctors or patients to pay for it, this should be something that’s available to pay for at a network level.” One of the main concerns with any artificial intelligence project is what ethics are guiding it. Aifred’s ethics page says that it was determined by a jurist, ethicists, physicians, a machine learning developer ...",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://leaderpost.com/science/ai-app-helps-tailor-mental-health-treatment/wcm/a676da4d-b77d-42ac-8153-98dab96c5a61",
-      "ampWebUrl": "https://leaderpost.com/science/ai-app-helps-tailor-mental-health-treatment/wcm/a676da4d-b77d-42ac-8153-98dab96c5a61/amp",
-      "cdnAmpWebUrl": "https://leaderpost-com.cdn.ampproject.org/c/s/leaderpost.com/science/ai-app-helps-tailor-mental-health-treatment/wcm/a676da4d-b77d-42ac-8153-98dab96c5a61/amp",
-      "publishedDateTime": "2020-02-10T13:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Leader-Post",
-        "domain": "leaderpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.healthing.ca/wp-content/uploads/2020/02/Marina-portrait-full-size1-scaled-2560.jpeg",
-          "width": 1707,
-          "height": 2560,
-          "title": "AI app helps tailor mental health treatment",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-02-10-ai-on-steroids-much-bigger-neural-nets-to-come-with-new-hardware-say-bengio-hinton-and-lecun.md",
-      "title": "AI on steroids: Much bigger neural nets to come with new hardware, say Bengio, Hinton, and LeCun",
-      "excerpt": "Hinton joined his compatriots, Yann LeCun of Facebook and Yoshua Bengio of Canada's MILA institute, fellow deep learning pioneers, in an upstairs meeting room of the Hilton Hotel on the sidelines of the 34th annual conference on AI by the Association for the Advancement of Artificial Intelligence. They spoke for 45 minutes to a small group of ...",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/ai-on-steroids-much-bigger-neural-nets-to-come-with-new-hardware-say-bengio-hinton-lecun/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-on-steroids-much-bigger-neural-nets-to-come-with-new-hardware-say-bengio-hinton-lecun/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-on-steroids-much-bigger-neural-nets-to-come-with-new-hardware-say-bengio-hinton-lecun/",
-      "publishedDateTime": "2020-02-10T12:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/02/10/79d4074f-3054-45ef-97ca-091d778943cd/hinton-bengio-lecun-press-briefing-feb-10th-2020.jpg",
-          "width": 7331,
-          "height": 4887,
-          "title": "AI on steroids: Much bigger neural nets to come with new hardware, say Bengio, Hinton, and LeCun",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Facebook AI",
-        "AI Hardware",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-02-10-arm-focuses-on-ai-with-its-new-cortex-m-cpu-and-ethos-u-npu.md",
-      "title": "Arm focuses on AI with its new Cortex-M CPU and Ethos-U NPU",
-      "excerpt": "“But the next thing or the next step is even more exciting to me: to get AI everywhere. And here we are talking about bringing the benefits of AI down to the IoT endpoints, including microcontrollers and therefore to a much larger scale of users and applications — literally billions more.” That’s very much what this combination of ...",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/02/10/arm-focuses-on-ai-with-its-new-cortex-m-cpu-and-ethos-u-npu/",
-      "ampWebUrl": "https://techcrunch.com/2020/02/10/arm-focuses-on-ai-with-its-new-cortex-m-cpu-and-ethos-u-npu/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/10/arm-focuses-on-ai-with-its-new-cortex-m-cpu-and-ethos-u-npu/amp/",
-      "publishedDateTime": "2020-02-10T06:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/07/GettyImages-1146397412.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": "Arm focuses on AI with its new Cortex-M CPU and Ethos-U NPU",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-02-10-arms-new-cortex-and-ethos-chips-promise-up-to-480x-faster-ai-for-iot-devices.md",
-      "title": "Arm’s new Cortex and Ethos chips promise up to 480x faster AI for IoT devices",
-      "excerpt": "The microcontroller, the Cortex-M55, joins the company’s ubiquitous Cortex-M family of processor designs. Arm said the chip will provide more AI performance than any other product in the series. Cambridge, U.K.-based Arm doesn’t make any chips itself but rather sells blueprints under license to semiconductor manufacturers. The Cortex-M ...",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://siliconangle.com/2020/02/10/arms-new-cortex-m55-ethos-u55-chips-promise-x480-faster-ai-iot-devices/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-10T06:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/02/arm.png",
-          "width": 718,
-          "height": 400,
-          "title": "Arm’s new Cortex and Ethos chips promise up to 480x faster AI for IoT devices",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

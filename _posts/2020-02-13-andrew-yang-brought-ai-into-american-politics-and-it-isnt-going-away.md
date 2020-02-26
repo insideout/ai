@@ -8,8 +8,8 @@ ampWebUrl: "https://venturebeat.com/2020/02/13/andrew-yang-brought-ai-into-ameri
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/13/andrew-yang-brought-ai-into-american-politics-and-it-isnt-going-away/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 87
+published: true
 
 provider:
   name: VentureBeat
@@ -27,23 +27,6 @@ images:
     width: 1800
     height: 989
     title: "Andrew Yang brought AI into American politics, and it isn’t going away"
-
-related:
-  - title: "Andrew Yang, an AI-first candidate, drops out of presidential race"
-    excerpt: "(Reuters) — Andrew Yang, an entrepreneur whose unlikely White House bid evolved into a serious campaign thanks to grassroots enthusiasm, pulled out of the Democratic presidential race on Tuesday after New Hampshire delivered him a second straight poor showing. Yang, 45, who ran for president despite having no political background, surprised ..."
-    publishedDateTime: 2020-02-12T03:53:00Z
-    webUrl: "https://venturebeat.com/2020/02/11/andrew-yang-an-ai-first-candidate-drops-out-of-presidential-race/"
-    ampWebUrl: "https://venturebeat.com/2020/02/11/andrew-yang-an-ai-first-candidate-drops-out-of-presidential-race/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/11/andrew-yang-an-ai-first-candidate-drops-out-of-presidential-race/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/02/andrew-yang-1.jpg?fit=5048%2C2524&strip=all"
-        width: 5048
-        height: 2524
 
 secured: "Cyu8nBTdUfgSa5moI0TeC+bkO34VkQtyqlAylkk8MXKZSctMyabfX1CJ4t71SrynrZ47nklcjZy7w+323e8DWM4kGI7fZO9fNqnTLHxqOhdkcLY1rhLpFhARDx0SqGeij8/vSaJBaHeK7CWnE49EYJ8TG/Ef53Xt3GAEmR5+4/mbudLlZHEpJOj3o9pfjDGy3hrhdR4c/D/BQ8YW5uGeCrkksOD4skcibVaeCopavxnvdQghWaljLPG+rnJdYsq9aG1BBt8NBqonABm6fZ+zMVnRas5VMrQmhn4S5FMHgJZRZ1GAbhY/oPTsIyAoWMSucqfRqhYEPk1ZtaeiX74s1uN7kAoc1jyg9ImKhBSTMJhwvYiEQZpWYC1IODxy7Qf3er6l04yRlu/vpuelKFir/EFCcw6LRT5W8CTNkJrqD+jGA3xDn7ZUWJUEPzHavzYGzoHRHQbeqiHEHawjUtQOCluDbWL9RiQjBsL+Nc+OTa8=;AYgbT/Xc78fWlEYqMKPlvQ=="
 ---

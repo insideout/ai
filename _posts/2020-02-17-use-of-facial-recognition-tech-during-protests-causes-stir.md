@@ -319,19 +319,6 @@ related:
       - url: "https://arizent.brightspotcdn.com/dims4/default/f0c6b49/2147483647/strip/true/crop/4800x2520+0+90/resize/1200x630!/quality/90/?url=https%3A%2F%2Farizent.brightspotcdn.com%2F3a%2Ff4%2F88f2092e4460b86bc36e7e95911e%2Fab-021820-facial-1.png"
         width: 1200
         height: 630
-  - title: "Basic rules required for facial recognition usage: Statesman contributor"
-    excerpt: "In his article, the author says that the use of facial recognition technology, in its present form, is not in conformity with the right of privacy. KK Paul NEW DELHI (THE STATESMAN/ASIA NEWS NETWORK) - In spite of several advantages of the latest technology of facial recognition, doubts continue to prevail in view of its very thin legal base."
-    publishedDateTime: 2020-02-12T03:46:00Z
-    webUrl: "https://www.straitstimes.com/asia/basic-rules-required-for-facial-recognition-usage-statesman-contributor"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 38
-    images:
-      - url: "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2020/02/12/rk_facialrecognition_120220.jpg?itok=HoPHK8e9"
-        width: 763
-        height: 509
   - title: "Senators Call for a Moratorium on Government’s Use of Facial Recognition"
     excerpt: "Two Democratic senators want to stop the federal government from using facial recognition technology until Congress passes legislation to properly regulate it—and they’ve produced their own legislation to do exactly that. Sens. Cory Booker, D-N.J., and Jeff Merkley, D-Ore., introduced the Ethical Use of Facial Recognition Act Wednesday ..."
     publishedDateTime: 2020-02-14T16:13:00Z

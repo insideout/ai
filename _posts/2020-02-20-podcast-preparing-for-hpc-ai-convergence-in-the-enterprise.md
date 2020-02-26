@@ -39,19 +39,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/02/4TPO2827.jpg?fit=6655%2C3329&strip=all"
         width: 6655
         height: 3329
-  - title: "An Enterprise Formula for AI Success"
-    excerpt: "One of the great things about the current wave of AI innovation is the large number of open source tools, technologies, and frameworks. From TensorFlow to Python, Kafka to PyTorch, the we’re in the midst of an explosion in diversity of data science and big data toolchains. However, when it comes to putting these toolchains together and ..."
-    publishedDateTime: 2020-02-12T03:41:00Z
-    webUrl: "https://www.datanami.com/2020/02/11/an-enterprise-formula-for-ai-success/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 39
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/02/robot_ai_shutterstock_Phonlamai-Photo.jpg"
-        width: 1000
-        height: 667
   - title: "Role Played by Artificial Intelligence and RPA in transformation in the business world"
     excerpt: "The age of transformation will witness the emergence of varied possibilities and use-cases with the intermingling of new age technologies like Artificial Intelligence, IoT, automation and analytics. For example, smart cities, self-driving cars, healthcare, manufacturing and retail (automation, preventive maintenance, predictive analytics ..."
     publishedDateTime: 2020-02-20T10:34:00Z

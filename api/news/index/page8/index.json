@@ -2,6 +2,140 @@
   "page": 8,
   "value": [
     {
+      "path": "_posts/2020-02-26-ai-growth-spurts-hardware-is-cool-again-part-1-of-3.md",
+      "title": "AI Growth Spurts — Hardware is cool again (Part 1 of 3)",
+      "excerpt": "the visionaries are making the frameworks accessible to every company in the world with scalable Enterprise grade ML platforms such as Amazon SageMaker, Google AI platform, etc. Below is an image ...",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/@saarthi/ai-growth-spurts-hardware-is-cool-again-part-1-of-3-df4c31b995a2",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-26T11:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/395/0*BBtx9QcpsGVIgtSq",
+          "width": 395,
+          "height": 271,
+          "title": "AI Growth Spurts — Hardware is cool again (Part 1 of 3)",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-26-ai-needs-to-be-controlled-but-lazy-humans-may-not-be-up-to-the-job.md",
+      "title": "AI needs to be controlled. But lazy humans may not be up to the job",
+      "excerpt": "Artificial intelligence, for all its benefits, needs human oversight. Government reports, and experts all over the world have stressed the importance of keeping a human decision-maker in the loop when using AI. \"Human agency and oversight\" is the first key requirement laid out in the EU Commission's white paper on the regulation of AI ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/ai-needs-to-be-controlled-but-lazy-humans-may-not-be-up-to-the-job/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-needs-to-be-controlled-but-lazy-humans-may-not-be-up-to-the-job/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-needs-to-be-controlled-but-lazy-humans-may-not-be-up-to-the-job/",
+      "publishedDateTime": "2020-02-26T08:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/02/20/6ec3400c-4d6f-4edc-bbae-714003910df4/thumbnail/1200x675/633a5f0e0a9995b7384bbd620431291c/ai-strategy-how-the-eu-hopes-to-put-peop-5e4e5afadb1d010001ac32fe-1-feb-20-2020-12-22-36-poster.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "AI needs to be controlled. But lazy humans may not be up to the job",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-26-artificial-intelligence-uncovers-outrageous-employee-expense-reports.md",
+      "title": "Artificial intelligence uncovers outrageous employee expense reports",
+      "excerpt": "SEE: Cheat sheet: Artificial intelligence (free PDF) (TechRepublic) \"Nothing shocks me. It's just how much is going through—that's what surprises me—how far people can take it,\" said Anant Kale, CEO of AppZen. Companies spend an average of $4,134 on a so-called high-risk expense report, which includes out-of-policy items or merchants ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/artificial-intelligence-uncovers-outrageous-employee-expense-reports/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/artificial-intelligence-uncovers-outrageous-employee-expense-reports/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/artificial-intelligence-uncovers-outrageous-employee-expense-reports/",
+      "publishedDateTime": "2020-02-26T08:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/01/21/8b97c7d2-1021-47d9-8344-ef569f6dac5e/resize/1200x/3468efd8c5c2522af698896bc047ed3e/screen-shot-2020-01-21-at-1-18-19-pm.png",
+          "width": 1200,
+          "height": 907,
+          "title": "Artificial intelligence uncovers outrageous employee expense reports",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_posts/2020-02-26-better-buy-ibm-vs-google.md",
       "title": "Better Buy: IBM vs. Google",
       "excerpt": "The cloud and cognitive software unit houses various cloud ... which competes against larger platforms like Amazon (NASDAQ:AMZN) Web Services (AWS), Microsoft's (NASDAQ:MSFT) Azure, and Google Cloud. Its global business services unit offers IT and ...",
@@ -44,6 +178,50 @@
       "topics": [
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-26-cartesiam-helps-developers-bring-ai-to-microcontrollers.md",
+      "title": "Cartesiam helps developers bring AI to microcontrollers",
+      "excerpt": "The new NanoEdge AI Studio is the first IDE specifically designed for enabling machine learning and inferencing on Arm Cortex-M microcontrollers, which power billions of devices already. As Cartesiam GM Marc Dupaquier, who co-founded the company in 2016, told me, the company works very closely with Arm, given that both have a vested interest in ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/02/26/cartesiam-helps-developers-bring-ai-to-microcontrollers/",
+      "ampWebUrl": "https://techcrunch.com/2020/02/26/cartesiam-helps-developers-bring-ai-to-microcontrollers/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/26/cartesiam-helps-developers-bring-ai-to-microcontrollers/amp/",
+      "publishedDateTime": "2020-02-26T12:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-129905792.jpg?w=1024",
+          "width": 1024,
+          "height": 681,
+          "title": "Cartesiam helps developers bring AI to microcontrollers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -619,7 +797,7 @@
       "path": "_posts/2020-02-26-people-prefer-robots-to-explain-themselves-and-a-brief-summary-doesnt-cut-it.md",
       "title": "People Prefer Robots to Explain Themselves – and a Brief Summary Doesn't Cut It",
       "excerpt": "Artificial intelligence is entering our lives in many ways – on our smartphones ... how artificial agents can be made more transparent and trustworthy to their human users. Trustworthiness is essential if robots and people are to work together. XAI seeks to develop AI systems that human beings find trustworthy – while also performing ...",
-      "heat": 70,
+      "heat": 80,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.govtech.com/products/People-Prefer-Robots-to-Explain-Themselves--and-a-Brief-Summary-Doesnt-Cut-It.html",
@@ -1930,177 +2108,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2019-12-22-real-life-automl-problem-with-multiple-tools-and-libraries-a-comparative-approach.md",
-      "title": "Real Life AutoML Problem with Multiple Tools and Libraries, a Comparative Approach",
-      "excerpt": "This article, introduces to the multiple AutoML tools for a real life problem. Different than the other articles about AutoML, we will use multiple AutoML tool for the same project or multiple ...",
-      "heat": 63,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/@sadievrenseker/real-life-automl-problem-with-multiple-tools-and-libraries-a-comparative-approach-96edcdc70932",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-12-21T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/1*B7sxpiEDrzG1YH09fMeH_w.png",
-          "width": 1200,
-          "height": 634,
-          "title": "Real Life AutoML Problem with Multiple Tools and Libraries, a Comparative Approach",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2019-12-22-top-25-ai-startups-who-raised-the-most-money-in-2019.md",
-      "title": "Top 25 AI Startups Who Raised The Most Money In 2019",
-      "excerpt": "Its Cognito platform accelerates threat detection and investigation using artificial intelligence to collect ... and robotics teams at companies like Waymo, OpenAI, Lyft, Zoox, Pinterest, and Airbnb focus on building differentiated models vs.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2019/12/22/top-25-ai-startups-who-raised-the-most-money-in-2019/",
-      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2019/12/22/top-25-ai-startups-who-raised-the-most-money-in-2019/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2019/12/22/top-25-ai-startups-who-raised-the-most-money-in-2019/amp/",
-      "publishedDateTime": "2019-12-22T13:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5dff94624e2917000783b233%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Top 25 AI Startups Who Raised The Most Money In 2019",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2019-12-23-artificial-intelligence-that-tracks-down-leukemia-discovered.md",
-      "title": "Artificial Intelligence That Tracks Down Leukemia Discovered",
-      "excerpt": "Artificial intelligence is a much-discussed topic in ... Possibly, the diagnosis would then happen earlier than it does now and therapy could start earlier.\"",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.medindia.net/news/artificial-intelligence-that-tracks-down-leukemia-discovered-192212-1.htm",
-      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-that-tracks-down-leukemia-discovered-192212-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-that-tracks-down-leukemia-discovered-192212-1.htm",
-      "publishedDateTime": "2019-12-23T10:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.medindia.net/amp-images/health-images/chemotherapy-associated-neurocognitive-in-leukemia-patients.jpg",
-          "width": 1200,
-          "height": 1000,
-          "title": "Artificial Intelligence That Tracks Down Leukemia Discovered",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2019-12-24-artificial-intelligence-ai-robots-market-statistical-analysis-2020cagr-growth-of-2020-and-forecast-to-2023.md",
-      "title": "Artificial Intelligence (AI) Robots market statistical analysis 2020|CAGR growth of 2020 and forecast to 2023",
-      "excerpt": "Dec 24, 2019 (The Expresswire) -- Artificial Intelligence (AI) Robots Market 2019 report focuses on the budding trends of market, market share, its segmentation, regional outlook and have explored different segments of the market. The Artificial ...",
-      "heat": 63,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-statistical-analysis-2020cagr-growth-of-2020-and-forecast-to-2023-2019-12-24",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-12-24T01:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence (AI) Robots market statistical analysis 2020|CAGR growth of 2020 and forecast to 2023",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

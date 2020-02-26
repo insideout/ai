@@ -71,6 +71,28 @@ related:
       - url: "https://media.defense.gov/2020/Feb/25/2002254869/1280/1280/0/200205-M-VG714-0024M.JPG"
         width: 1280
         height: 854
+  - title: "Pentagon outlines AI ethics principles"
+    excerpt: "\"I'm not suggesting enforcement at the beginning of it,\" he said. \"These are early conversations to be had with our industry partners to say now that we've established these principles for AI ethics, could you develop the capabilities that address each of the five at some point along the way through [research, development, testing and evaluation].\""
+    publishedDateTime: 2020-02-26T20:32:00Z
+    webUrl: "https://gcn.com/articles/2020/02/26/dod-ai-ethics.aspx"
+    type: article
+    provider:
+      name: GCN
+      domain: gcn.com
+    quality: 54
+    images:
+      - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/AI_Automation/AIengineers.png"
+        width: 760
+        height: 368
+  - title: "US DoD Adopts Ethical AI Principles"
+    excerpt: "... Department of Defense announced yesterday that it has adopted a series of ethical principles regarding the use of artificial intelligence (AI). Designed to build on the US military’s existing ethics framework, which is based on the US Constitution, Title 10 of the US Code, Law of War, existing international treaties, and longstanding ..."
+    publishedDateTime: 2020-02-26T18:49:00Z
+    webUrl: "https://www.infosecurity-magazine.com/news/us-dod-adopts-ethical-ai-principles/"
+    type: article
+    provider:
+      name: Infosecurity-magazine.com
+      domain: infosecurity-magazine.com
+    quality: 34
 
 secured: "G7+MAmYw+qWIuFEZugyuYeocJZSMn5A0XaNZMwUWzH6L8mO521tadGpsIulR169bE9mCVb1tyWIGWh8z+P3jCsT/Av8QInpl5JS2ttNY3bc9ds4fFSlWHeihzSqHzjUbfEtHxxd1ocj9EIs7jRoCW3IajpU/WwciVeabc1ok2Z7f+1PQRpGOVkzSnRIPXlgpKgOLefD+PGqTIje487fAFF7gg/EnmQ3zpNapGF9qLAUtcA/tT4P+NshTFmxBXKobuAGSHT0KctCYRRVYBE/qcCoKrsgea8kAxa/4QN4ISMBJ/k6Tk+gt1J58C9F51gq9;c37s/gFBQMLzyzD/uXkZAg=="
 ---

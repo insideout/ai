@@ -2,6 +2,95 @@
   "page": 7,
   "value": [
     {
+      "path": "_posts/2020-02-24-robot-suitcase-uses-ai-to-help-visually-impaired-travelers.md",
+      "title": "Robot suitcase uses AI to help visually impaired travelers",
+      "excerpt": "IBM Japan and partners are developing a new suitcase-shaped robot that could help the visually impaired while they travel. The navigation robot will use artificial intelligence to help people travel more independently, whether that's around town or around the world. A consortium of five companies -- including IBM Japan, Shimizu and Mitsubishi ...",
+      "heat": 114,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/robot-suitcase-uses-ai-to-help-visually-impaired-travelers/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/robot-suitcase-uses-ai-to-help-visually-impaired-travelers/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/robot-suitcase-uses-ai-to-help-visually-impaired-travelers/",
+      "publishedDateTime": "2020-02-24T14:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet1.cbsistatic.com/img/1Fs9ohsEFGnis2AFh72zTVapQEk=/756x567/2020/02/24/6a28062c-1189-4044-8851-67cced21a744/gettyimages-sb10062851ai-001.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "Robot suitcase uses AI to help visually impaired travelers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-24-softbank-leads-265-million-investments-in-two-us-based-start-ups.md",
+      "title": "SoftBank leads $265 million investments in two U.S.-based start-ups",
+      "excerpt": "SoftBank on Monday led a new funding round of $165 million in California-based Karius and invested $100 million in New York-headquartered AI company Behavox, as the technology giant builds a portfolio under its second Vision Fund.",
+      "heat": 112,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-karius-funding-idUSKCN20I155",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN20I155",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN20I155",
+      "publishedDateTime": "2020-02-24T12:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200224&t=2&i=1494517480&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG1N0Y9",
+          "width": 785,
+          "height": 545,
+          "title": "SoftBank leads $265 million investments in two U.S.-based start-ups",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_posts/2020-02-24-the-future-of-customer-service-isnt-as-simple-as-ai-or-human.md",
       "title": "The Future Of Customer Service Isn't As Simple As AI Or Human",
       "excerpt": "Business leaders who wish to bring AI-human collaboration to life in their customer service organizations need only ask themselves a few key questions to get started.",
@@ -921,7 +1010,7 @@
       "path": "_posts/2020-02-25-dod-unveils-how-it-will-keep-ai-in-check-with-ethics-principles.md",
       "title": "DoD unveils how it will keep AI in check with ethics principles",
       "excerpt": "The principles are as follows: Insight by Mapbox: Federal practitioners ... Deasy said. The ethics will also hold people in the AI pipeline accountable. For example, if a developer does not use data that is equitable, then DoD knows where something went ...",
-      "heat": 187,
+      "heat": 207,
       "tags": null,
       "type": "article",
       "webUrl": "https://federalnewsnetwork.com/defense-main/2020/02/dod-unveils-how-it-will-keep-ai-in-check-with-ethics-principles/",
@@ -1508,6 +1597,43 @@
       ]
     },
     {
+      "path": "_posts/2020-02-25-opsramp-introduces-ai-driven-suggestions-for-greater-transparency-and-faster-incident-remediation.md",
+      "title": "OpsRamp Introduces AI-Driven Suggestions for Greater Transparency and Faster Incident Remediation",
+      "excerpt": "The OpsRamp Winter 2020 Release also introduces 19 new cloud monitoring integrations for Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP), along with dynamic topology maps for Azure and GCP. Highlights of the Winter 2020 Release include: AIOps: OpsQ is OpsRamp's intelligent event management, alert correlation ...",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/opsramp-introduces-ai-driven-suggestions-for-greater-transparency-and-faster-incident-remediation-1028934454",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/OpsRamp-Introduces-AI-Driven-Suggestions-for-Greater-Transparency-and-Faster-Incident-Remediation-1028934454",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/OpsRamp-Introduces-AI-Driven-Suggestions-for-Greater-Transparency-and-Faster-Incident-Remediation-1028934454",
+      "publishedDateTime": "2020-02-25T00:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_posts/2020-02-25-qualcomm-reveals-a-reference-headset-to-show-off-its-xr2-chip.md",
       "title": "Qualcomm reveals a reference headset to show off its XR2 chip",
       "excerpt": "As well as 5G, 8K and double the CPU and GPU performance of Qualcomm's previous XR platform, the XR2 headset features four times the video bandwidth, six times higher resolution and eleven times the AI improvements. The design supports up to seven cameras, and includes an IR emitter for hand and head tracking, as well as electromagnetic ...",
@@ -1685,43 +1811,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-25-springfield-city-council-passes-facial-recognition-moratorium.md",
-      "title": "Springfield City Council passes facial recognition moratorium",
-      "excerpt": "The Springfield City Council on Monday passed a moratorium on the local government’s use of facial recognition technology, a controversial piece of software many view as inaccurate and invasive. The measure, introduced to the legislative body by Springfield City Councilor Orlando Ramos in January, will now go to the office of Mayor Domenic ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.masslive.com/springfield/2020/02/springfield-city-council-passes-facial-recognition-moratorium.html",
-      "ampWebUrl": "https://www.masslive.com/springfield/2020/02/springfield-city-council-passes-facial-recognition-moratorium.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/springfield/2020/02/springfield-city-council-passes-facial-recognition-moratorium.html?outputType=amp",
-      "publishedDateTime": "2020-02-25T07:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MassLive",
-        "domain": "masslive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/JVIE67LBINDLDJGZ24BBA3MN3A.jpeg",
-          "width": 4928,
-          "height": 3264,
-          "title": "Springfield City Council passes facial recognition moratorium",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     },
     {
@@ -2054,94 +2143,6 @@
           "width": 1200,
           "height": 630,
           "title": "AI computing startup SambaNova raises $250 mln in BlackRock-led funding",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-26-ai-needs-to-be-controlled-but-lazy-humans-may-not-be-up-to-the-job.md",
-      "title": "AI needs to be controlled. But lazy humans may not be up to the job",
-      "excerpt": "Artificial intelligence, for all its benefits, needs human oversight. Government reports, and experts all over the world have stressed the importance of keeping a human decision-maker in the loop when using AI. \"Human agency and oversight\" is the first key requirement laid out in the EU Commission's white paper on the regulation of AI ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/ai-needs-to-be-controlled-but-lazy-humans-may-not-be-up-to-the-job/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-needs-to-be-controlled-but-lazy-humans-may-not-be-up-to-the-job/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-needs-to-be-controlled-but-lazy-humans-may-not-be-up-to-the-job/",
-      "publishedDateTime": "2020-02-26T08:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/02/20/6ec3400c-4d6f-4edc-bbae-714003910df4/thumbnail/1200x675/633a5f0e0a9995b7384bbd620431291c/ai-strategy-how-the-eu-hopes-to-put-peop-5e4e5afadb1d010001ac32fe-1-feb-20-2020-12-22-36-poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "AI needs to be controlled. But lazy humans may not be up to the job",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-26-artificial-intelligence-uncovers-outrageous-employee-expense-reports.md",
-      "title": "Artificial intelligence uncovers outrageous employee expense reports",
-      "excerpt": "SEE: Cheat sheet: Artificial intelligence (free PDF) (TechRepublic) \"Nothing shocks me. It's just how much is going through—that's what surprises me—how far people can take it,\" said Anant Kale, CEO of AppZen. Companies spend an average of $4,134 on a so-called high-risk expense report, which includes out-of-policy items or merchants ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/artificial-intelligence-uncovers-outrageous-employee-expense-reports/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/artificial-intelligence-uncovers-outrageous-employee-expense-reports/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/artificial-intelligence-uncovers-outrageous-employee-expense-reports/",
-      "publishedDateTime": "2020-02-26T08:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/01/21/8b97c7d2-1021-47d9-8344-ef569f6dac5e/resize/1200x/3468efd8c5c2522af698896bc047ed3e/screen-shot-2020-01-21-at-1-18-19-pm.png",
-          "width": 1200,
-          "height": 907,
-          "title": "Artificial intelligence uncovers outrageous employee expense reports",
           "attribution": null
         }
       ],
