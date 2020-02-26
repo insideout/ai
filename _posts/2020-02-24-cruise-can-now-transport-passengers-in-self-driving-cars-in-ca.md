@@ -45,6 +45,21 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200221&t=2&i=1493407844&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG1K1LU"
         width: 830
         height: 545
+  - title: "Everyone hates California’s self-driving car reports"
+    excerpt: "Every year, companies that operate self-driving cars in California are required to submit data to the state’s Department of Motor Vehicles listing the number of miles driven and the frequency at which human safety drivers were forced to take control of their autonomous vehicles (also known as a “disengagement”). And every year ..."
+    publishedDateTime: 2020-02-26T20:06:00Z
+    webUrl: "https://www.theverge.com/2020/2/26/21142685/california-dmv-self-driving-car-disengagement-report-data"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/2/26/21142685/california-dmv-self-driving-car-disengagement-report-data"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/26/21142685/california-dmv-self-driving-car-disengagement-report-data"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 74
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/N114D1pvlDMlryzdxV1x335WW7g=/0x0:5196x3464/1400x933/filters:focal(2183x1317:3013x2147):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66379893/1179635788.jpg.0.jpg"
+        width: 1400
+        height: 933
   - title: "Chinese company gives California workers free rides in self-driving robotaxis"
     excerpt: "The same city that converted a used Tesla Model S into a police car is shuttling its city employees to work in self-driving cars. China-based Pony.ai launched a self-driving car pilot program in Fremont, California, on Tuesday. If that city sounds familiar, it's where Tesla built its very first factory. One of Fremont's police cars is actually ..."
     publishedDateTime: 2020-02-25T18:47:00Z

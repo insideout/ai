@@ -33,6 +33,32 @@ related:
       - url: "https://cnet1.cbsistatic.com/img/1aArGlj1eo8hNeyu6s8obQPylfI=/756x567/2019/03/18/cca1be95-0ac4-4c06-b742-a22684c09044/facial-recognition-101-promo.jpg"
         width: 756
         height: 567
+  - title: "Clearview AI’s law enforcement client data stolen in massive breach"
+    excerpt: "“Security is Clearview’s top priority.” Tor Eklund, attorney for Clearview AI. Clearview AI, the dubious startup that’s cozied up to the US law enforcement community with its facial recognition software, has managed to crap the metaphorical bed by allowing an intruder to exploit a security flaw and make off with its entire client lis"
+    publishedDateTime: 2020-02-26T21:38:00Z
+    webUrl: "https://thenextweb.com/neural/2020/02/26/clearview-ais-law-enforcement-client-data-stolen-in-massive-breach/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/02/26/clearview-ais-law-enforcement-client-data-stolen-in-massive-breach/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/26/clearview-ais-law-enforcement-client-data-stolen-in-massive-breach/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 87
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2016/12/police-lights-sirens-796x398.png"
+        width: 796
+        height: 398
+  - title: "Clearview AI’s client list was stolen. Could its massive face database be next?"
+    excerpt: "The controversial artificial intelligence company Clearview AI has experienced a breach that saw the theft of its entire customer list, which is made up of various law enforcement agencies. An intruder was able to gain “unauthorized access” to Clearview’s full customer list, the Daily Beast first reported on Wednesday. Clearview AI says ..."
+    publishedDateTime: 2020-02-26T19:56:00Z
+    webUrl: "https://www.digitaltrends.com/news/clearview-ai-customer-list-stolen/"
+    ampWebUrl: "https://www.digitaltrends.com/news/clearview-ai-customer-list-stolen/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/clearview-ai-customer-list-stolen/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 65
   - title: "Clearview AI client list reportedly stolen"
     excerpt: "A list of clients who had contracts with Clearview AI, the startup that has partnered with law enforcement to use facial recognition technology on a massive database of photos, was stolen, according to a new report. The Daily Beast first reported that the ..."
     publishedDateTime: 2020-02-26T18:55:00Z
@@ -85,6 +111,17 @@ related:
       - url: "https://s3.us-east-1.wasabisys.com/krdo.com/2020/02/hypatia-h_7bcd07f11e499aa0084d01d1bfac11d3-h_020a8d6767b16343cdb62a8c8289dbbe_preview.jpg"
         width: 499
         height: 281
+  - title: "'Dystopian future': Entire client list stolen from facial-recognition startup Clearview AI"
+    excerpt: "Clearview AI, a facial-recognition startup that has faced scrutiny from privacy advocates, notified customers on Wednesday that an intruder “gained unauthorized access” to its list of customers and private data associated with the number of accounts set up by users and searches within the Clearview database. The company told users the ..."
+    publishedDateTime: 2020-02-26T20:17:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/dystopian-future-entire-client-list-stolen-from-facial-recognition-startup-clearview-ai"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/dystopian-future-entire-client-list-stolen-from-facial-recognition-startup-clearview-ai?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/dystopian-future-entire-client-list-stolen-from-facial-recognition-startup-clearview-ai?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 29
 
 secured: "MlUzYjT2oRv3TrrdWaRqicE9LjcGs2iBd3ToW/XsiM5wRvMwrTBSsCfz3VBATl+PfgyCe/jJZv6avMgvCieH9OB8h6PaEy7cA1YaqJ1B0PAdMUyYx0EsW4AbPOIgI3/07Y/16s5ESo3Hn+M2/bwoLD2f16OeiSOecfLaljtNDsB2Ra+v+s30ejau/MG5IuOweEaqmEJvR0Da7ElQwFDKgP6IkuOi/ACI691P6bP608VIkdRIrs5pdtqN46Woj2Bccfx7ZIv5UawvvkdDIq1EoISvt3nLu37ETB3BqAB1Jr1u9U1IHz2OOq5T6mn47c0vHnThD80SnUH9Htj7QXZ+AMdA/TJgCo3wnJWDRMZ+zHXOB9QMT2Ua5KjkceaBAzw8XRncDEvdGS4l8XmsCkBDGGixsy2QVGIroEsGtaJokKK8JawkhR0wA49hS/9p9NcWb4s5CQU/f7G0IYPd/5i7rIvvvrEGoIUOJr+d1z+1Gk0=;GGtp+k+Fp1iLERylreHvWg=="
 ---

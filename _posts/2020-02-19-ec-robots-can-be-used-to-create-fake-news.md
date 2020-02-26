@@ -37,17 +37,6 @@ related:
       - url: "https://24hourhiphop.com/wp-content/uploads/2020/02/maxresdefault-312-1024x576.jpg"
         width: 1024
         height: 576
-  - title: "‘Nobody knows exactly’: China might lead the race to produce killer robots, NATO commander says"
-    excerpt: "“Essentially you have two sides that are worried about the other gaining an advantage,” Peter Singer, an expert in what he calls “the Robotics Revolution,” said in September. “That then has the ironic result of them both plowing resources into it, competing against each other, and becoming less secure.” The artificial intelligence ..."
-    publishedDateTime: 2020-02-12T05:07:00Z
-    webUrl: "https://www.washingtonexaminer.com/policy/defense-national-security/nobody-knows-exactly-china-might-lead-the-race-to-produce-killer-robots-nato-commander-says"
-    ampWebUrl: "https://www.washingtonexaminer.com/policy/defense-national-security/nobody-knows-exactly-china-might-lead-the-race-to-produce-killer-robots-nato-commander-says?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/policy/defense-national-security/nobody-knows-exactly-china-might-lead-the-race-to-produce-killer-robots-nato-commander-says?_amp=true"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 27
 
 secured: "hd03dvtqv+zs18bY4qAryX7MlZTztXUvIK1vO4xnyhvseZrNgIKH/QYB5u4sPxlzS7RlI/UDSqVw8K5dOEb96xHtRDoDqL8jxN5I9bgx2dzK5y+tQvRwHgZ3tQJwqy06J9omvw0Kx2fTkpB8+cxfkf4exTZ7r7I6f0gyKnOlMUoshlM3q8P03ziYPv3+1/wj6sIaK3PThM2CjKQ0XfGaU21K8QG6im1tsV/IuDGZbP5a3lMIiC9qbsLW+Hm8ExPptQ/l4DlB3wcpsWTduKdp0TRW1xC/f04vGCY3zyqs1KwnMcnICgs0Yx8SEU00kqu4;un7PNOWWf0L0I7dY5zzC6w=="
 ---

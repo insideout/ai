@@ -56,6 +56,21 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/01/Cruise-car-in-Hayes-Valley-San-Francisco.jpg?w=1024"
         width: 1024
         height: 576
+  - title: "Everyone hates California’s self-driving car reports"
+    excerpt: "Every year, companies that operate self-driving cars in California are required to submit data to the state’s Department of Motor Vehicles listing the number of miles driven and the frequency at which human safety drivers were forced to take control of their autonomous vehicles (also known as a “disengagement”). And every year ..."
+    publishedDateTime: 2020-02-26T20:06:00Z
+    webUrl: "https://www.theverge.com/2020/2/26/21142685/california-dmv-self-driving-car-disengagement-report-data"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/2/26/21142685/california-dmv-self-driving-car-disengagement-report-data"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/26/21142685/california-dmv-self-driving-car-disengagement-report-data"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 74
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/N114D1pvlDMlryzdxV1x335WW7g=/0x0:5196x3464/1400x933/filters:focal(2183x1317:3013x2147):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66379893/1179635788.jpg.0.jpg"
+        width: 1400
+        height: 933
   - title: "Self-driving car companies complain California test data may mislead"
     excerpt: "(Reuters) — Developers of self-driving cars are amping up criticism of a California reporting requirement on test data, saying the data could mislead, as the state prepares to release the latest results for 2019. Companies such as General Motors’ Cruise and startup Aurora have said the metric, called disengagements, is not an accurate or ..."
     publishedDateTime: 2020-02-22T19:56:00Z

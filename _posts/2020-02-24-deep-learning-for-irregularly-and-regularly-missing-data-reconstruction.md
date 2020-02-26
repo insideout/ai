@@ -23,6 +23,21 @@ images:
     height: 685
     title: "Deep learning for irregularly and regularly missing data reconstruction"
 
+related:
+  - title: "Learning to learn from data: Using deep adversarial learning to construct optimal statistical procedures"
+    excerpt: "We use tools from deep learning to develop a new approach, adversarial Monte Carlo meta-learning, for constructing optimal statistical procedures. Statistical problems are framed as two-player games in which Nature adversarially selects a distribution that makes it difficult for a statistician to answer the scientific question using data drawn ..."
+    publishedDateTime: 2020-02-26T21:03:00Z
+    webUrl: "https://advances.sciencemag.org/content/6/9/eaaw2140.abstract"
+    type: article
+    provider:
+      name: Science | AAAS
+      domain: sciencemag.org
+    quality: 7
+    images:
+      - url: "https://advances.sciencemag.org/content/6/9/F1.medium.gif"
+        width: 347
+        height: 440
+
 secured: "qNruI9JBzSQCnMuMwGjAGrl9NkVF9K3O09zZaravoqznnOzImZIfnEJbk35eI9HXCFbgXtMGpVjL5oe+gRhpLGybrKHXMSUwzUWXcozSnjrHwtltSWnwhLX2G3YoFDmipyICXfdtMXq4xgX2M2rqg975JrNu1UIi+IvoqCWNutjZbA/HIAYr1/nVaXZ1T5yeedu/YgqO0uT+Ei8X9kZe5tfpely0kdkIjzkVvM/zZGRHJxJBHMgAa44YrxgEhLuXy9llEJFEtuuGSFXSe89UUj1h9KVxo/IgF+qaIsRzPs40Dags+5EgB6jIrr9RjLlx/+pAYhNJQd35OsjfSIcN6PV2hLAZ+ybG2Maaz3NY7ijxCVyjXq2Hgw7v87+a8R1cq6r0cpV7Kk2NqCuPvchENapd0sV9ZqDlDzeWbeFEy/EFiHDNpSAFmA7/rWVPl2Qk+PkKF2vGI3/X3rs3CuD72/8N+jUfd2NTwU7/UerOVWo=;ZUlmfnrKZWGZoqjVLHLy5g=="
 ---
 

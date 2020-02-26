@@ -23,6 +23,21 @@ images:
     height: 405
     title: "Easy Juno 106 Sounds From Your DeepMind"
 
-secured: "i9Q22C9ZXxCPL9ZwJ4uNfOlcxueBAvjjfpTq783ZCCehujlK8H8zq7RhpBVRcsOGxnilvDgOPdPUjp6I4KslyBjZwEA51hEoVjbPt7PhpRaVVPIaiWb2NQ/+jvNhV9oD+0lsWOXDt0xJgdXVlSP+KxNXHNSAGpXo/XiOviwK24p3sI4eni/v91HBDqcgjLEW1DuyNp2TXXlofmBmhx/BAnqdl6g3MQeEndjKh1lGY/LGncBlgq0pVCZ4Z2+YjGXlikhvQfmU2E7rWikdxpF/qntF4vZProvIbskDWxK8VruIpArQm4mX04B52Kg5EBZ7;Ry8/K3XTWhlrjhZ5ZyCbkg=="
+related:
+  - title: "Patches For Your DeepMind 12"
+    excerpt: "GEOSynths has released Deeper Vol 3, their 3rd and final bank of patches for the Behringer DeepMind 12. Spokesperson Jamie, told us, “There's 128 Patches in Deeper Vol 3 and It's full of Pads, Motion sounds, String Synths, huge Bass, cutting Leads ..."
+    publishedDateTime: 2020-02-05T07:55:00Z
+    webUrl: "https://sonicstate.com/news/2020/02/05/patches-for-your-deepmind-12/"
+    type: article
+    provider:
+      name: Sonic State
+      domain: sonicstate.com
+    quality: 39
+    images:
+      - url: "https://s3.amazonaws.com/ww2.sonicftp.com/news/images/32517_197.jpg"
+        width: 720
+        height: 405
+
+secured: "3WseKRoLjveBiKrNn8Dll2fiuHDwa3qQfogULRCYEa5ua6nK8ZhEPcexA8uVzZX4Au3ijP3xsQt4x3AaSwBG1OEQlWgzzFDWCkAH8n1Az0nuQJ+hPqvBanXD4+FBEYqwlrMw2uqqIApvqHi7z6B0l2y2wU4la2t2ZJq4P2teo0gaG7uGgRwCJdfbkpR2bbfYHfOuzD4e1VEjR/zrH6s3lThTY3Hl6FJkAPHN14cAywXtIYisxvzOw6VazrfVwGNeS15j598S/NFcW98sQL+l2Xvp2j6yWFD88pZL+l7ixssdAn1/Uswos6JmcUXsu6YH;xIANXxptQsi4To+zk7NVtw=="
 ---
 

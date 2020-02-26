@@ -25,6 +25,21 @@ images:
     height: 250
     title: "Google gets woke on gender in Vision API, Amazon happy to sell its facial recognition code to foreigners, and more"
 
+related:
+  - title: "Facial recognition researchers look for a culprit in gender inequality, come up empty"
+    excerpt: "Specifically, they suggest examining face morphology, which refers to the bone structure inherited from parents. Physiological differences are suspected by some researchers of making it difficult to produce voice recognition technology which matches women’s voices as accurately as men’s."
+    publishedDateTime: 2020-02-26T21:36:00Z
+    webUrl: "https://www.biometricupdate.com/202002/facial-recognition-researchers-look-for-a-culprit-in-gender-inequality-come-up-empty"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 17
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
+        width: 640
+        height: 260
+
 secured: "4GNMJvV++D+tP+djqjEBU0Ey7k58/zUr3oiISQ7CTBzguA7xyGp9wFFsFuPcj+lq85eo/CbKf48QdNtpbXF5u1DbA0zSF3tXmDYg7Q8i8+dmOh8hH+3d5/r8JJMYRiudFzgbjRJiBUWTroJ4fpLizvJwTFQf5yUdvDSf3znphmjc47VQKaZ2ahZneqO8Db059MLCiTL/wF22QX1mhxF4IUhwvrxRnOMz2GV0NjVdOludvM7NV7oPUFAQf+g6uRfnc9vpUw1nT5mo7IHs5wf2XfOXc9iyeLd8hayk3J3mNswVypEW8qdqoMDumu/WXqSo+0L3vTxWl9zEl1IrKxrL/NLuPTjQ70mZ4d/0itjs/zA7t/ixC26AWshvtcHg4SHZNw4uEG7iHquGV82c+5D3yaviC+hfVFUBTqyPCY0+Dsby6Oik5p5/jT0PczUuX4ST4rorFcbbuHW/t7Fq1vicwDdHFTVMRqKg38DAWIr4Hfc=;sORfhit01Jwr5TvEys1waw=="
 ---
 

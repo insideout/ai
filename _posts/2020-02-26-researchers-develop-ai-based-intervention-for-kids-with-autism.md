@@ -37,7 +37,20 @@ related:
       - url: "https://www.utoronto.ca/sites/default/files/microbots.jpg?163031"
         width: 1140
         height: 760
+  - title: "University researchers win Canada-UK funding to develop AI-powered microrobots to capture brain"
+    excerpt: "Researchers at the University of Toronto’s Donnelly Centre for Cellular and Biomolecular Research have received a funding boost to help realize their vision of using tiny robots controlled by artificial intelligence to one day find and capture rare stem cells from brain tissue for therapy. Working with Mike Shaw, a machine learning expert at ..."
+    publishedDateTime: 2020-02-26T19:30:00Z
+    webUrl: "https://www.miragenews.com/university-researchers-win-canada-uk-funding-to-develop-ai-powered-microrobots-to-capture-brain/"
+    type: article
+    provider:
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 27
+    images:
+      - url: "https://www.utoronto.ca/sites/default/files/microbots.jpg"
+        width: 1140
+        height: 760
 
-secured: "//rCf64IwYRMvUm9SHbDcxvfvqhFmxd4fSNFnHC6BuHeFFaKQ5tctiinXA3BRSnlp6SJ/wMHqVywIqRv8ENDcYqkWwBd4Yo47kgGlOBd9Xqa1d0svRsQhlTXHyJ2Kvp9uZlJ2pu7PklRIEmP6XWWo04ub0Cbqfkl7ISlXo7OCKgLkmKRUBWzn1BjztZT2Fh7/H2GDZsiLvb4lTITFZMYsLRjVIobp+ResZSHeFsXPnvfndKfoNf5ctzDidDCDvU+AdiEMLSIQStOHAOHn6DbcetL6IN0Om2uawDLYuzjtPxLX2kgANZG6sSlPGXej+sd;UwEKK8Iyq/jc6M0YV2vwIQ=="
+secured: "mrcUel/TM+AwfausAWGgsVUhs/2vLA1CZEerpa0UFnZpFHy1lgGJn01HoTIZYtwVQMo4BylqLtE7xOPO6LkuBhrjEkDmbI5NC5lbN7kjiu6wr0GuvEE5LMLsmz3WB6UK5+TlmxbqbTvRpF22vu5OWRNSdKJs5OQFNqGxb25PzwO82MuomAq3MGtf/MiG9EVWT3QDZtjHZlnDo+Lk/Yf0M3nzOIJyk2buQSGXe/sd5iBJTKxUj1o35mEbs17JN2goS+HX4JfsXU0WdasuFKgusrw9koBoVpAYrvJvC6kw8PLewrp44FRUOCOEiwc4hH9UCQOC6yImqrcSPXEAFgR6e6dUgsri+KyYfu7a2+AJY1NXGgmI6a+clojVQ7JaFYcz7WFXaEhPx5kJ0tjj/vCjbfajOEh8ClR938UHpuivCoyqStDTs9Cf/eCso4RWxk2A9l8z3mKuUYlTukXQ2yEeg6DvF6/gN+cbJ+SXMP5CO9o=;Z9n6Ku0IPSGR+6uu4Eapdg=="
 ---
 

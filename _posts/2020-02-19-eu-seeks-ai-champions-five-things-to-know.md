@@ -1,28 +1,24 @@
 ---
 category: news
 title: "EU seeks AI champions: Five things to know"
-excerpt: "\"What we will say in the paper in a very lawyered up language is ... Instead, the EU's AI strategy will look at activities case-by-case, with basic uses such as translation or maps left largely alone, but medical technology kept on a tighter leash."
-publishedDateTime: 2020-02-19T11:04:00Z
-webUrl: "https://www.thestar.com.my/tech/tech-news/2020/02/19/eu-seeks-ai-champions-five-things-to-know"
+excerpt: "“What we will say in the paper in a very lawyered up language is, let’s pause and figure out if there ... blanket rules for entire industries and stifle innovation. Instead, the EU’s AI strategy will look at activities case-by-case, with basic uses such as translation or maps left largely alone, but medical technology kept on a tighter ..."
+publishedDateTime: 2020-02-19T05:31:00Z
+webUrl: "https://tribune.com.pk/story/2159829/8-eu-seeks-ai-champions-five-things-know/"
+ampWebUrl: "https://tribune.com.pk/story/2159829/8-eu-seeks-ai-champions-five-things-know/"
+cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2159829/8-eu-seeks-ai-champions-five-things-know/"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: The Star
-  domain: thestar.com.my
+  name: The Express Tribune
+  domain: tribune.com.pk
 
 topics:
   - AI
   - Natural Language Processing
 
-images:
-  - url: "https://apicms.thestar.com.my/uploads/images/2020/02/19/567506.jpg"
-    width: 1240
-    height: 805
-    title: "EU seeks AI champions: Five things to know"
-
-secured: "c1+bN7Ui/qZJ8xjb4co5DSKYWzKnihvW6j83ACgbsCL5ODRgsj/OLnUK8lyeuRdAXI7Xg8iowE5bqjRjSsisBKbajZh2DAwxrL7FB9LWRV8XDi2BGfmPpowHtUN8JHTHQtTW2r/Yac44Y2x8wjrPBqy295j6w15r1l/Gdha6lIj0OY0tStseItYkLD2N3itaYQgqDiSLR75fCBV42ibjz9mBHLMT4ub/4iaiAHCh8IpshtZUz/yGL6ckg7+PLtpB3RqJDGHJXeJm3zOvVTukvQkn1LS4gpw6mbUh9fxU4g+XW5RIQAegAYmhfz6bt2GVO3y3Qy5eVzC8wWMkQJHyMzk3kOrA6Wv4Hk56fTKZaof1GgPBdzi02YA3zgi6qHZn1tzokOep+Vf8QUjJmCJbViNHkfe6QkYctvEmfQMQqIaSmbJmf7hrq6jXUNJFb4zm7cUA0agsmSGvuOl66tIKQTYmqS++XmGEK915nD11Z8I=;VuYOT/LJRhSkaLJaE6mzdA=="
+secured: "HrDoe9DhGJvmRmjUDLwM4clW5/EXsK8pKoN1/hjtYi8oKuDrh3+fvpaf5LN/+qH32HW8aWQHv/5JwRNSOKAIm5t5Qj9XkokEPkGI58nkECgUr4J/46ouggroxwh2RuztDwnaMcktfdb3G2rHhRPGn5QgAZm9m/8Aq4/2cWa1cj2wC9+Ec74mM+uBqkF2Fr1oVQza3wfAwKZY71dg+aob/LA2b/tj1dvmVUAkYv9qOrTPpKx66KdrE9bDPjxLwZh5w3bEDk4eoe55FNaUdq6yxSBccw8GxtCMnC29XTsYrSFtcChhqWyUv/liTYOBpZ6FRy/emMY6/ME3ilB50nSCnnhblXBsXmhtSIb0YQVxdeqLoEtBd/cFVWAspylp+f2voyEBpyF410JtbTV67pUsvlVRjE5JJKIe57cccoUNnNu6nQP1WtExY1TAlViVO5TnxAg60X4Y8Y81QEbVMfjlxNafuhfjNOpl2COJgQJfqy8=;vRnCd1444tEFNwckK+suQw=="
 ---
 

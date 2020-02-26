@@ -5,8 +5,8 @@ excerpt: "The industrial division of Clearpath Robotics, Otto Motors produces se
 publishedDateTime: 2020-02-26T14:13:00Z
 webUrl: "https://betakit.com/ai-the-ai-times-the-secret-messy-story-behind-openai/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI
   - AI in Robotics
+  - AI in Finance
 
 images:
   - url: "https://cdn.betakit.com/wp-content/uploads/2020/02/open-ai-topper.3-1024x575.jpg"
