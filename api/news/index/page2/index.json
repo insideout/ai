@@ -2,96 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_posts/2020-02-13-the-self-driving-and-sharing-economy-how-regulation-may-drive-the-transportation-revolution-in-2020-and-beyond.md",
-      "title": "The Self Driving And Sharing Economy: How Regulation May Drive The Transportation Revolution In 2020 And Beyond",
-      "excerpt": "Everyone recognizes that these technologies will mold the future, but this final piece—how regulators will interact with these developing technologies—is the critical factor that has the potential to shape the race to market.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/paulrosen/2020/02/12/the-self-driving-and-sharing-economy-how-regulation-may-drive-the-transportation-revolution-in-2020-and-beyond/",
-      "ampWebUrl": "https://www.forbes.com/sites/paulrosen/2020/02/12/the-self-driving-and-sharing-economy-how-regulation-may-drive-the-transportation-revolution-in-2020-and-beyond/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paulrosen/2020/02/12/the-self-driving-and-sharing-economy-how-regulation-may-drive-the-transportation-revolution-in-2020-and-beyond/amp/",
-      "publishedDateTime": "2020-02-12T17:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e3074548b6cf300071d30e2%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D960%26cropY1%3D48%26cropY2%3D588",
-          "width": 960,
-          "height": 541,
-          "title": "The Self Driving And Sharing Economy: How Regulation May Drive The Transportation Revolution In 2020 And Beyond",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-13-this-ai-can-perfectly-dub-videos-in-indic-languages-and-correct-lip-syncing.md",
-      "title": "This AI can perfectly dub videos in Indic languages — and correct lip syncing",
-      "excerpt": "India have developed a new AI model that translates and lip-syncs a video from one language to another with great accuracy. The team said we already have the technology to get translated textual or speech output from a video. However, visual translation — such as the movement of lips — is lost during dubbing. To solve that, Indian ...",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/02/13/this-ai-can-perfectly-dub-videos-in-indic-languages-and-correct-lip-syncing/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/02/13/this-ai-can-perfectly-dub-videos-in-indic-languages-and-correct-lip-syncing/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/13/this-ai-can-perfectly-dub-videos-in-indic-languages-and-correct-lip-syncing/amp/",
-      "publishedDateTime": "2020-02-13T04:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/Face-to-face-title.png",
-          "width": 600,
-          "height": 315,
-          "title": "This AI can perfectly dub videos in Indic languages — and correct lip syncing",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_posts/2020-02-13-this-emoji-could-mean-your-suicide-risk-is-high-according-to-ai.md",
       "title": "This emoji could mean your suicide risk is high, according to AI",
       "excerpt": "Compared to the general population, Crisis Text Line users skew young, low-income, and high-risk, but the AI-generated insights are promising. Lindsey C. McKernan, an assistant professor in the department of psychiatry and behavioral sciences at Vanderbilt University Medical Center who has written about using artificial intelligence in ...",
@@ -473,7 +383,7 @@
       "path": "_posts/2020-02-14-ex-waymo-driver-accused-of-causing-self-driving-van-to-crash.md",
       "title": "Ex-Waymo driver accused of causing self-driving van to crash",
       "excerpt": "PHOENIX — Ex-Waymo driver accused of causing self-driving van to crash Tempe police said Raymond Tang, 31, was booked into jail Wednesday night and is facing felony charges of aggravated assault and criminal damage,",
-      "heat": 269,
+      "heat": 259,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.marketwatch.com/story/ex-waymo-driver-accused-of-causing-self-driving-van-to-crash-2020-02-13",
@@ -1978,7 +1888,7 @@
       "path": "_posts/2020-02-17-automated-facial-recognition-breaches-gdpr-says-eu-digital-chief.md",
       "title": "Automated facial recognition breaches GDPR, says EU digital chief",
       "excerpt": "The EU’s digital and competition chief has said that automated facial recognition breaches GDPR, as the technology fails to meet the regulation’s requirement for consent. Margrethe Vestager, the European Commission’s executive vice president for digital affairs, told reporters that “as it stands right now, GDPR would say ‘don’t ...",
-      "heat": 459,
+      "heat": 449,
       "tags": null,
       "type": "article",
       "webUrl": "https://thenextweb.com/neural/2020/02/17/automated-facial-recognition-breaches-gdpr-says-eu-digital-chief/",
@@ -2099,6 +2009,87 @@
       "topics": [
         "AI",
         "Facebook AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-17-chicago-kids-company-presents-goldilocks-the-three-bears.md",
+      "title": "Chicago Kids Company Presents Goldilocks & The Three Bears",
+      "excerpt": "When Goldilocks and her dog, Bailey, venture into the woods to find a friend for her mom, she stumbles upon a cute house with three bowls of porridge, three chairs and three beds, but no one is home. Will Goldi be able to make it back to her mom before she ...",
+      "heat": 122,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.chicagoparent.com/events/chicago-kids-company-presents-goldilocks-three-bears/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-17T02:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Parent",
+        "domain": "chicagoparent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.chicagoparent.com/downloads/22705/download/calendar%20-%20performances%20Chicago%20Kids%20Company%27s%20GOLDILOCKS%20AND%20THE%20THREE%20BEARS.jpeg?cb=80b27000e1de900824773ebcd4ca2a81&w=1200",
+          "width": 1200,
+          "height": 1600,
+          "title": "Chicago Kids Company Presents Goldilocks & The Three Bears",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-17-costa-group-turns-to-ai-maths-robot-to-improve-berry-yield-predictions.md",
+      "title": "Costa Group turns to AI 'maths robot' to improve berry yield predictions",
+      "excerpt": "Costa Group, one of Australia's largest horticulturist companies, has begun rolling out an artificial intelligence (AI) system to help the company better understand and manage the quantity and quality of its berry crops. The Sensing+ system, developed by Sydney-based company, The Yield, has been designed to measure 14 variables of a typical ...",
+      "heat": 103,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/costa-group-turns-to-ai-maths-robot-to-improve-berry-yield-predictions/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/costa-group-turns-to-ai-maths-robot-to-improve-berry-yield-predictions/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/costa-group-turns-to-ai-maths-robot-to-improve-berry-yield-predictions/",
+      "publishedDateTime": "2020-02-16T20:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/02/17/78ce6dfc-31b4-4817-ae47-d1b21601de2e/ty-node-in-costa-polytunnel-1.png",
+          "width": 1156,
+          "height": 867,
+          "title": "Costa Group turns to AI 'maths robot' to improve berry yield predictions",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

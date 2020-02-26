@@ -60,6 +60,21 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/lczaz1KAcYJicQ9ZO_-vif-J9RU=/0x0:480x282/1400x933/filters:focal(202x103:278x179):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66345404/Feb_20_2020_10_54_02.0.gif"
         width: 480
         height: 282
+  - title: "An impressive deepfake video of Jeff Bezos and Elon Musk in 'Star Trek' shows how far the technology has come"
+    excerpt: "The deepfake shows Amazon CEO Jeff Bezos as a convincing bulbous-headed Talosian."
+    publishedDateTime: 2020-02-21T10:55:00Z
+    webUrl: "https://www.businessinsider.com/deepfake-video-jeff-bezos-elon-musk-star-trek-2020-2"
+    ampWebUrl: "https://www.businessinsider.com/deepfake-video-jeff-bezos-elon-musk-star-trek-2020-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/deepfake-video-jeff-bezos-elon-musk-star-trek-2020-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 153
+    images:
+      - url: "https://i.insider.com/5e4fa7ddfee23d08e859cfb3?width=1200&format=jpeg"
+        width: 1200
+        height: 600
 
 secured: "7oy6cmFJevi9gEjbeOGAvXJoM3Q/hAX7nSzlwsv7ZUDNyU+Kf9nibol23xnsVs4v/Ps+1fiZT8ME/nH+5An40sZvDQ8WfCCINz8lDBE4RACsC9SFs5jpw3ZTArz0b3vnAivOUURDa6aYF7SnirRG6zlDFbQF/yZyActrpTxQYHveL3nQicApYITkorODQnVDs+oLB/EH7rL8CweZZiCJ5A3BVBHYC/KRaj0kAURgGS8zk2EaKRUMcwD9SvXYZ2hKwikQOMLUfTVGloVQ0X90GgYBFPoDjuH7UFfI5f0vq8A+KhzQ/dkGMuW0sIQKUkBWA0cnWv1pf1J9Qw9STnNQZxN+3Af/VWSLGw2TZZbkMX4HNLx/gYobFRscq5cmBvKRDJ15Unr6bCCR24hK+OxvX+yB5HtncD/VwKmiWF4GvBjZZRQhryFCUT09LreNEjLRFDXiBYg4S/7/ARnkQPbXWBZ94flRYaY30LXsqDAkTSo=;9kAGIDvLvFoUbw54x7cOTw=="
 ---

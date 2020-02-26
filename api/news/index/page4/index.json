@@ -2,96 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_posts/2020-02-18-weve-just-seen-the-first-use-of-deepfakes-in-an-indian-election-campaign.md",
-      "title": "We've Just Seen the First Use of Deepfakes in an Indian Election Campaign",
-      "excerpt": "Political Deepfakes: Genie out of the bottle Ever since deepfakes blew up in 2017, the technology has been used extensively to create fake porn videos using existing celebrity video footage and AI algorithms ... assuming the translation is easily available in the right written language?” he asks. “But if it’s used deceptively, that ...",
-      "heat": 98,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.vice.com/en_in/article/jgedjb/the-first-use-of-deepfakes-in-indian-election-by-bjp",
-      "ampWebUrl": "https://www.vice.com/amp/en_in/article/jgedjb/the-first-use-of-deepfakes-in-indian-election-by-bjp",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_in/article/jgedjb/the-first-use-of-deepfakes-in-indian-election-by-bjp",
-      "publishedDateTime": "2020-02-18T04:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://video-images.vice.com/test-uploads/articles/5e4bcd6e78a517009d5aec59/lede/1582027600116-Fake-Editing.png?crop=1xw%3A1xh%3Bcenter%2Ccenter&resize=2000%3A*",
-          "width": 2000,
-          "height": 1125,
-          "title": "We've Just Seen the First Use of Deepfakes in an Indian Election Campaign",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-18-why-your-new-work-colleague-could-be-a-robot.md",
-      "title": "Why your new work colleague could be a robot",
-      "excerpt": "A whirring and whizzing noise greets you as you enter the offices of Automata, a start-up robotics company based in London ... Yet now, developments in artificial intelligence, alongside improved vision technology and better devices for gripping, are ...",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bbc.com/news/business-51442445",
-      "ampWebUrl": "https://www.bbc.com/news/amp/business-51442445",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/business-51442445",
-      "publishedDateTime": "2020-02-17T16:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/2066/production/_110849280_robots.boxes.g.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": "Why your new work colleague could be a robot",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_posts/2020-02-18-winners-of-aws-machine-learning-research-awards-announced.md",
       "title": "Winners of AWS Machine Learning Research Awards announced",
       "excerpt": "The AWS Machine Learning Research Awards (MLRA) provides unrestricted cash funds and AWS Promotional Credits to academics to advance the frontiers of machine learning (ML) and its applications. MLRA is pleased to announce winners for its 2019 Q2/Q3 call-for-proposal cycles: \n \n Mohit Bansal, University",
@@ -1499,7 +1409,7 @@
       "path": "_posts/2020-02-19-pentagon-to-adopt-detailed-principles-for-using-ai.md",
       "title": "Pentagon to Adopt Detailed Principles for Using AI",
       "excerpt": "However, he said, \"Taking AI ethics seriously could increase the chances that some skeptics in the broader AI community are willing to work with DoD while also potentially improving the reliability and effectiveness of military uses of algorithms.\"",
-      "heat": 299,
+      "heat": 269,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.nextgov.com/emerging-tech/2020/02/pentagon-adopt-detailed-principles-using-ai/163191/",
@@ -2116,6 +2026,96 @@
       "topics": [
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-20-5-clever-google-maps-tricks-to-see-more-than-just-whats-on-the-map.md",
+      "title": "5 clever Google Maps tricks to see more than just what's on the map",
+      "excerpt": "Google Maps crowdsources more than just traffic data -- get real-time information on your destination, including wait times, operating hours and more. I open the Google Maps app on my phone practically every day,",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/how-to/5-clever-google-maps-tricks-to-see-more-than-just-whats-on-the-map/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/5-clever-google-maps-tricks-to-see-more-than-just-whats-on-the-map/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/5-clever-google-maps-tricks-to-see-more-than-just-whats-on-the-map/",
+      "publishedDateTime": "2020-02-20T05:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet4.cbsistatic.com/img/pifVUy5Lk2fZIkaFloP9-u8fG4I=/756x567/2019/12/04/6a025761-b652-4ce9-a80c-65319a3f1ca6/google-maps-logo-phone-3831.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "5 clever Google Maps tricks to see more than just what's on the map",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-20-aera-launches-cognitive-business-brain-operating-system.md",
+      "title": "Aera Launches Cognitive ‘Business Brain’ Operating System",
+      "excerpt": "The software industry is pushing to extend the definition of the operating system that started with software built for mainframes in the 1950s and then into the PC revolution in the 1980s - it now explains the use of AI-driven business operational software.",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/02/20/aera-launches-cognitive-business-brain-operating-system/",
+      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/02/20/aera-launches-cognitive-business-brain-operating-system/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2020/02/20/aera-launches-cognitive-business-brain-operating-system/amp/",
+      "publishedDateTime": "2020-02-20T06:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e4e8413d378190007f3e652%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D960%26cropY1%3D12%26cropY2%3D552",
+          "width": 960,
+          "height": 541,
+          "title": "Aera Launches Cognitive ‘Business Brain’ Operating System",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
       ]
     }
   ],

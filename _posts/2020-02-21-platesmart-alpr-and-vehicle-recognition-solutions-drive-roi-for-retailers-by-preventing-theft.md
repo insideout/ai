@@ -1,9 +1,9 @@
 ---
 category: news
 title: "PlateSmart ALPR and Vehicle Recognition Solutions Drive ROI for Retailers by Preventing Theft"
-excerpt: "The software offers true object recognition instead of simple optical character recognition (OCR), which allows it to read the plate as well as the state jurisdiction and vehicle make. PlateSmart has earned multiple industry awards for excellence in security technology. FORWARD LOOKING STATEMENTS: This press release may contain forward-looking ..."
+excerpt: "The software offers true object recognition instead of simple optical character recognition (OCR), which allows it to read the plate as well as the state jurisdiction and vehicle make. PlateSmart has earned multiple industry awards for excellence in ..."
 publishedDateTime: 2020-02-21T21:36:00Z
-webUrl: "https://www.newswiretoday.com/news/172420/PlateSmart-ALPR-and-Vehicle-Recognition-Solutions-Drive-ROI-for-Retailers-by-Preventing-Theft/"
+webUrl: "https://www.newswiretoday.com/news/172420/"
 type: article
 quality: 8
 heat: -1
@@ -58,6 +58,6 @@ related:
         width: 1200
         height: 627
 
-secured: "zXHnD4QWuUOKGEOMv++YV6Fpp/q9S+3ozA9V1lBdUBfF8ImDTyDIp3NsB5D2TyaTTaXtME3K1CiTvl6r/e3GUnm+N8fqo5nfHgSeEaewx5CoOFrDS5F3pwzzUw/uUr/oJL+zzPlhD1O9NFC9AVxAK+dQG4H1BDiFUoGUYUaFYc9Nc2ApsuivjN/kbl+Ha3bcMRwe0khpafFqZAobx1Kup/+zOsIGZvyaP+vCitYkOdUhdfHjbbOypNiv2aX/hlCGf/0ID/oTiRRpT1rKUvfABgTphDOzJMyiOY5SR+9A4ikwgPZerF9vE723PO7LbpWNav+/VLruUl5KA0hn/scYPSiMjWrxtZDdDNqvJ8BN4clJDPgKPKyepTUVA5ZvXZYF5O86+VZIp35KMJaTd1+PmzI8s0UGofecrmvHLQYs9y/BJXvuysZRxNYga65RFdSBBhth+aohC2SXVxWlvKlqtaF6d40FZWKjuijEVhd9B2I=;e7JZBXZwJ5XDAoK91xKo/A=="
+secured: "MJ2zAoKFH3BEd0crxOWfk8vAI592fvvDSmLAT3ppgl454VB/SeD554yUsyP4uZ5Pn9Eb+KZBYrkWAKDxHjlLx7BElaOfkFVJ+oytkVhlMTRRq6byvu02hd/hN43880ypp77DPNuO5CNdM9FYdvUs4c/rH7f3pJc6gb90x19bD042yawgs3dtKyx4LJgzCykAPTw+Nngpk1bD4Fv6vhS+FikgejAAZta4p4PfUhxgjIFzwUlwsJggfwfHXxK3Aq20d7rZY3+7cooLH7KSTb6jTyUFmH07u7J76zjEO78/aojZv7QKWaV+xbcGA3u1wfeOK3/UrzGMGe8XyhhAQ9DrvluymDmN5fD/hIsFw5fg0lNa4j846RudmHc0MLg7Kegx+WkiT5njVOEA5be+cSaomr3yb2isJpQMo90DgwCVJh1tHdWFNl2IiJAH6qf12+RhFW7Du7TwKE9+supRclZgNBpVI/8FqTMUlYH7ugwJ76U=;euyIlUbeDc3d00ENIxhpmw=="
 ---
 

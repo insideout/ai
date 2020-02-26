@@ -204,21 +204,6 @@ related:
       - url: "https://i1.wp.com/www.mercurynews.com/wp-content/uploads/2020/02/Self-Driving_Vehicle-Collision_Arrest_65344.jpg?fit=620%2C9999px&ssl=1"
         width: 620
         height: 301
-  - title: "House lawmakers close to draft bill on self-driving cars"
-    excerpt: "House lawmakers on Tuesday touted progress toward bipartisan legislation on self-driving cars, with plans to release draft language soon."
-    publishedDateTime: 2020-02-11T21:46:00Z
-    webUrl: "https://thehill.com/policy/technology/482628-house-lawmakers-close-to-draft-bill-on-self-driving-cars"
-    ampWebUrl: "https://thehill.com/policy/technology/482628-house-lawmakers-close-to-draft-bill-on-self-driving-cars?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/482628-house-lawmakers-close-to-draft-bill-on-self-driving-cars?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 44
-    images:
-      - url: "https://thehill.com/sites/default/files/uber_self-driving_car_04032018_1.jpg"
-        width: 980
-        height: 551
   - title: "Former Waymo Operator Tricks Self-Driving Car Into Crashing, Cops Say"
     excerpt: "He was allegedly successful, and a self-driving vehicle slammed into his Mazda sedan around 10:30 p.m. January 30, as a local ABC affiliate previously reported. The Waymo vehicle’s autonomous driving was not engaged at the time of the crash, according to Tempe police, and the driver was the only one inside the vehicle. “His initial ..."
     publishedDateTime: 2020-02-13T22:40:00Z

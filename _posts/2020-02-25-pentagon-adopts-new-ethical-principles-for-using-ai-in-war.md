@@ -49,21 +49,6 @@ related:
       - url: "https://www.armytimes.com/resizer/HCJVtE9JHfrGKeCjk9CJbXKJ5R8=/1200x630/filters:quality(100)/arc-anglerfish-arc2-prod-mco.s3.amazonaws.com/public/MAYIFX5RQ5BLHHABTTKYSBPTL4.jpg"
         width: 1200
         height: 630
-  - title: "Pentagon unveils toothless ethical principles for using AI in war"
-    excerpt: "... into AI and quantum R&D] The DoD also pledges to “take deliberate steps to minimize unintended bias in AI capabilities,” but provides no information on how this will be done. “I worry that the principles are a bit of an ethics-washing project,” Lucy Suchman, an anthropologist who studies the role of AI in warfare, told The ..."
-    publishedDateTime: 2020-02-25T17:46:00Z
-    webUrl: "https://thenextweb.com/neural/2020/02/25/pentagon-unveils-toothless-ethical-principles-for-using-ai-in-war/"
-    ampWebUrl: "https://thenextweb.com/neural/2020/02/25/pentagon-unveils-toothless-ethical-principles-for-using-ai-in-war/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/25/pentagon-unveils-toothless-ethical-principles-for-using-ai-in-war/amp/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 104
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/Untitled-design-32-796x417.png"
-        width: 796
-        height: 417
   - title: "Pentagon adopts ethics for artificial intelligence use"
     excerpt: "The Defense Department has announced adoption of ethical principles for use of artificial intelligence following 15 months of consultation with AI experts in industry, government, academia and the American public."
     publishedDateTime: 2020-02-24T22:28:00Z
@@ -109,32 +94,6 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/44c2b6e/2147483647/strip/true/crop/1762x1151+142+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F28%2F22%2F8178e5064f7c136ce007d7fc24b1%2Fla-1548770710-xhgwtmgm6p-snap-image"
         width: 320
         height: 209
-  - title: "DoD Adopts AI Ethics Principles, But How Will They Be Enforced?"
-    excerpt: "Jack Shanahan, told reporters this afternoon. “The real hard part of this is taking the AI delivery pipeline” – from the initial algorithms and data sets, field testing, and training human users, to holding commanders accountable for lethal errors – “and understanding where those ethics principles need to be applied.” “They’re ..."
-    publishedDateTime: 2020-02-24T22:37:00Z
-    webUrl: "https://breakingdefense.com/2020/02/dod-adopts-ai-ethics-principles-but-how-will-they-be-enforced/"
-    type: article
-    provider:
-      name: Breaking Defense
-      domain: breakingdefense.com
-    quality: 54
-    images:
-      - url: "https://sites.breakingmedia.com/uploads/sites/3/2020/02/Screen-Shot-2020-02-24-at-5.11.58-PM.png"
-        width: 597
-        height: 328
-  - title: "DOD Adopts 5 Principles of Artificial Intelligence Ethics"
-    excerpt: "Artificial intelligence is the department's top technology modernization priority, DOD Chief Information Officer Dana Deasy said yesterday. The new principles lay the foundation for the ethical design, development, deployment and use of AI by DOD he said. \"These principles build upon the department's long history of ethical adoption of new ..."
-    publishedDateTime: 2020-02-25T00:00:00Z
-    webUrl: "https://www.defense.gov/Explore/News/Article/Article/2094085/dod-adopts-5-principles-of-artificial-intelligence-ethics/"
-    type: article
-    provider:
-      name: US Department of Defense
-      domain: defense.gov
-    quality: 54
-    images:
-      - url: "https://media.defense.gov/2020/Feb/25/2002254869/1280/1280/0/200205-M-VG714-0024M.JPG"
-        width: 1280
-        height: 854
   - title: "DoD adopts new ethical principles for the use of artificial intelligence"
     excerpt: "WASHINGTON — The Department of Defense will follow a new set of ethical principles for the use of artificial intelligence, officials announced Feb. 24. The rollout of a code of conduct for the use of AI technology follows a 15-month study led by the Defense Innovation Board, a panel of outside advisers led by Eric Schmidt, former executive ..."
     publishedDateTime: 2020-02-24T23:34:00Z
@@ -232,6 +191,6 @@ related:
       domain: fedscoop.com
     quality: 17
 
-secured: "1CwtjxzKl1/sqHgrXVl2+gchTW6MLi8Qo4CGNUuDekzL9Q/odUkLNbBqxKdIELBELRQPhezMzslJelXJEIWDJmlQhmj1grOW2sIOlXkd3iMYZdgca2Qf/IXWsuUR/PMhcUSyAfsdqKlQRkTVtQZTFX4BGfmZeT+oePEMUMJSuwDtD3eNHV3e0P2HR414NZjqWXYmD9cwaaTye93jYk+uEbSWgthlGZr2fc1Z2m2i9KvaT5XHImHhjxA7SxA7NfgZ8/chbiyyZC9EkcpXFCv/Ay6PbDw1JNWlvy7sFBrYARhJj4icKXs8OkJINTuQTusf;6xBSA1eGsnm27tSAt71Fgg=="
+secured: "MuEQdggigRqvZY3u1NwQ0oKDBteN/vXDsBx5eH07BQ8zCweWqCpLFeV+ssRdwcwbWzFRLPmW8XHZ3bb2AG6Wn5ROHj9yjgeJemknLX0L+bMnwxUHCjrSmK8/uPMaudwEIYjFM4lM49IBDqicUbflxRqrlXPe1MyaedTAIygH3hrUqHvIo961F8Uei/5srB5mMWTY1k7MHwjHiwAu7OsqCMAk+CXqdx+FfBb3QDl1+16n9KxwyF1ntoLUcp7yD8/w1JEJPnZXiyWaZCWWfME2mVHH/clOppBI3AoMRsJCqF9prSjBz2MxKwnd2VjIj0c6;Zjf71frPCEvkcLUYzYgl1Q=="
 ---
 

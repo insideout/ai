@@ -44,6 +44,21 @@ related:
       - url: "https://cnet1.cbsistatic.com/img/UGxT2J0zrqUEaSCEsQzH8HMP5qo=/756x567/2020/02/21/275d7032-eb36-48ba-8dab-5617a111c864/muskstartrek.jpg"
         width: 756
         height: 567
+  - title: "An impressive deepfake video of Jeff Bezos and Elon Musk in 'Star Trek' shows how far the technology has come"
+    excerpt: "The deepfake shows Amazon CEO Jeff Bezos as a convincing bulbous-headed Talosian."
+    publishedDateTime: 2020-02-21T10:55:00Z
+    webUrl: "https://www.businessinsider.com/deepfake-video-jeff-bezos-elon-musk-star-trek-2020-2"
+    ampWebUrl: "https://www.businessinsider.com/deepfake-video-jeff-bezos-elon-musk-star-trek-2020-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/deepfake-video-jeff-bezos-elon-musk-star-trek-2020-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 153
+    images:
+      - url: "https://i.insider.com/5e4fa7ddfee23d08e859cfb3?width=1200&format=jpeg"
+        width: 1200
+        height: 600
   - title: "‘Frontline’ documentary tackles Jeff Bezos and the ‘Amazon Empire’"
     excerpt: "Complaints about Amazon becoming a monopoly (and resulting scrutiny from antitrust officials) take up a chunk of the runtime, as do troubling privacy issues with the likes of Alexa, Ring and Rekognition. The film covers issues spanning Amazon's entire history, including prominent incidents from the last couple of months. For one thing ..."
     publishedDateTime: 2020-02-18T18:09:00Z
@@ -60,6 +75,6 @@ related:
         width: 600
         height: 350
 
-secured: "Gz9X1jwue3dYYqi2RwghRX/m0s8vj7iLM2R+D3X/bmKw9XD6ic4W0sSK6rftGqfJ1U2cd+hpLBXuYNtQ4kwxuvUi67rDKuTiKFHegR1nqsqI5EpF+WhHfCrpY/kJ8mJp1WvlrKSMhjJZu7/Af1MOJk9Ky8HIU6qB+X6/U3LDOcJU0HRGT5Ofj/sORxoBTw4AJ1tMjbNBeaK0Jr6nDB6f3HaJj/Aa4nHQKMCQVqs9dH/En9V+ely/F6Slxeis4Al8vHRo1CSlVQheJegW2+P5x/KcF04hFNK5x0s9Sx0E27ZCumkoGy6dVXpbYFjBUUn1YQc4mo6sWabuib6kW3MP5Q==;/MnjYUJkHlDJ2hfwJGM9bg=="
+secured: "y1t1QMDIcR5mf7SVfZwLCD8ry4b1RIRqWDOErEDRkCOf2ikj55w2mvfJ8iBFkiNbu33mQ0IJvMlSk24sA50sbGdYmDFTT1YEVnfQR6I23TokyqQaq4RjLyW6A+JTk402hUF8uUqonH3CrSKcPCkhyA5CFYj4mQRRFhO8BWZdBykpNlWsob9A+L34xMPCTiOYdsrVlu1Xv9qzkYO6iu7JhMtcpsF4D4y3TY5anMZSn12XmWM9nnY3+VFwQmVVd97SjE4TKat48gJzK1a4myUFOAhIKJsKHEoUmUduIyL4MvAhVFUBLa3OgpW5htca1skoVzFwsKvt2UGJqmS2/5718MXLie/374e1HBYJawQlPspzyc6DLzQfJUu3+rQpI3+biymmkFfuTh+O93Nn37zIpjdIEoFtZLFhFM4C7V9Tyao/czToZCmwKFQcefEl7TxffUn1yVj7/K52LnnOZvpoZp/vLHoVK80XCYCheAkwsJ6CiLz7Z8Vo3IjheMNNGMRc;BeEqFRUpprlhNhRGp07v0Q=="
 ---
 

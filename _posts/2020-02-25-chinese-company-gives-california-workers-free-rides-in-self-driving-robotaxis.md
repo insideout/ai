@@ -99,6 +99,19 @@ related:
       - url: "https://cdn2.newsok.biz/cache/1280x720_blur-7ec8ba67c9327358720e4397264a2fc9.jpg"
         width: 1280
         height: 720
+  - title: "The CEO of the Amazon-backed self-driving car startup Aurora explains why testing its tech on a computer is better than testing it in the real world"
+    excerpt: "Aurora is developing software and hardware for autonomous vehicles with the goal of acting as a supplier to other companies."
+    publishedDateTime: 2020-02-26T14:10:00Z
+    webUrl: "https://www.businessinsider.com/aurora-ceo-virtual-tests-better-than-real-world-tests-2020-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 30
+    images:
+      - url: "https://i.insider.com/5e5562f0fee23d2803396836?width=1200&format=jpeg"
+        width: 1200
+        height: 600
 
 secured: "7w/u3nN3qk4iFtqh0ryJrUwFmjyIehjdiw69jmH2lGJ+V3s+vkd7158dd2ckOHCYmtbxssxEq4B78LbbWYdzPdQPP6uUOSdOYZKrstvHY65I5m0WJoPbN/g0S8FnduqVqodwZu1SbuuLD3TuI0AMOU9lwUAEcUni7l28epKlHaCnKZLs3soQAXF11lFi3RETCkTYIgBk964LjnIjTx7AlNOgWECDGlM4cE/AAFGj6Y+IzUOMeUK1dTesluPoGmvDXCKQPvTyKvvesz2s1o6xF3/a8D/zwd191v0pE6f3Yw1ITYO1ba407x8+6S1uEj8c;toz9U2X0+XQQo9SzOyg+sQ=="
 ---

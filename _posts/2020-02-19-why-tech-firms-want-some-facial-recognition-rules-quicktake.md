@@ -122,21 +122,6 @@ related:
       name: Quartz
       domain: qz.com
     quality: 64
-  - title: "Police Facial Recognition Tech Snags Pics from Social Sites"
-    excerpt: "Clearview AI stands apart from other facial recognition companies because it pulls photos from commercial sites, like Facebook and Twitter, for its image database. Some are concerned by the company’s access. (TNS) — Surveillance footage showed a man suspected of fleeing officers during a traffic stop. Still, after several days, Pinellas ..."
-    publishedDateTime: 2020-02-11T21:55:00Z
-    webUrl: "https://www.governing.com/security/Police-Facial-Recognition-Tech-Snags-Pics-from-Social-Sites.html"
-    ampWebUrl: "https://www.governing.com/security/Police-Facial-Recognition-Tech-Snags-Pics-from-Social-Sites.html?AMP"
-    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/Police-Facial-Recognition-Tech-Snags-Pics-from-Social-Sites.html?AMP"
-    type: article
-    provider:
-      name: Governing
-      domain: governing.com
-    quality: 59
-    images:
-      - url: "https://media2.govtech.com/images/shutterstock_590075333.jpg"
-        width: 940
-        height: 627
   - title: "Privacy Groups Face Down Facial Recognition on Campus"
     excerpt: "Privacy and civil rights groups are ramping up their campaign to get facial recognition technology off of college campuses. They are circulating a letter to aimed at college administrators seeking signatures of support. Many of the groups are the same ones that were successful in spotlighting the use of the technology at concerts."
     publishedDateTime: 2020-02-13T13:13:00Z

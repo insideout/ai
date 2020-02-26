@@ -125,21 +125,6 @@ related:
       name: Quartz
       domain: qz.com
     quality: 64
-  - title: "Police Facial Recognition Tech Snags Pics from Social Sites"
-    excerpt: "Clearview AI stands apart from other facial recognition companies because it pulls photos from commercial sites, like Facebook and Twitter, for its image database. Some are concerned by the company’s access. (TNS) — Surveillance footage showed a man suspected of fleeing officers during a traffic stop. Still, after several days, Pinellas ..."
-    publishedDateTime: 2020-02-11T21:55:00Z
-    webUrl: "https://www.governing.com/security/Police-Facial-Recognition-Tech-Snags-Pics-from-Social-Sites.html"
-    ampWebUrl: "https://www.governing.com/security/Police-Facial-Recognition-Tech-Snags-Pics-from-Social-Sites.html?AMP"
-    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/Police-Facial-Recognition-Tech-Snags-Pics-from-Social-Sites.html?AMP"
-    type: article
-    provider:
-      name: Governing
-      domain: governing.com
-    quality: 59
-    images:
-      - url: "https://media2.govtech.com/images/shutterstock_590075333.jpg"
-        width: 940
-        height: 627
   - title: "Is Fashion Ahead of Facial Recognition?"
     excerpt: "MY FIRST FACIAL-RECOGNITION MOMENT—my instant of facial-recognition recognition, you might say—happened when I arrived late on a flight from Europe and carried myself to the Global Entry kiosks. For years the Global Entry process, an accelerated automatic immigration check for prescreened travelers, began with a passport and fingerprint scan."
     publishedDateTime: 2020-02-17T15:26:00Z

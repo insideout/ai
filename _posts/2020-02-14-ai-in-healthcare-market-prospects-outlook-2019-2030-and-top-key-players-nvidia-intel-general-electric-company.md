@@ -1,21 +1,27 @@
 ---
 category: news
 title: "AI in Healthcare Market Prospects Outlook 2019-2030 and Top Key Players - NVIDIA, Intel, GENERAL ELECTRIC COMPANY"
-excerpt: "Companies such as IBM have played a big role in pushing AI into healthcare. The company is using its Watson platform technology in the field of cancer research, insurance claims and clinical support tools to enhance AI needs. For instance, Alder Hey Children’s Hospital uses chatboats to access validated information from patients related to a ..."
+excerpt: "Companies such as IBM have played a big role in pushing AI into healthcare. The company is using its Watson platform technology in the field of cancer research, insurance claims and clinical support tools to enhance AI needs. For instance, Alder Hey ..."
 publishedDateTime: 2020-02-14T11:43:00Z
-webUrl: "https://www.reseller.co.nz/mediareleases/38408/ai-in-healthcare-market-prospects-outlook-2019/"
+webUrl: "https://www.cmo.com.au/mediareleases/38408/ai-in-healthcare-market-prospects-outlook-2019/"
 type: article
-quality: 0
+quality: 18
 heat: -1
 published: false
 
 provider:
-  name: Reseller News
-  domain: reseller.co.nz
+  name: cmo.com.au
+  domain: cmo.com.au
 
 topics:
   - AI
   - IBM AI
+
+images:
+  - url: "https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg"
+    width: 600
+    height: 246
+    title: "AI in Healthcare Market Prospects Outlook 2019-2030 and Top Key Players - NVIDIA, Intel, GENERAL ELECTRIC COMPANY"
 
 related:
   - title: "Natural Language Processing (NLP) Market Size, Share and Top Key Players During 2019-2027"
@@ -37,6 +43,6 @@ related:
       domain: openpr.com
     quality: 19
 
-secured: "tiPzx4mU5vxhCQPMtDgyAgGZXtcHELsRk1CeYanLE5k7hhlMYBtYTJEL2sb4JPnpUz+mov0H5jtlWU4HHbHahHLlk4wfsX3DXjzYmcVfno7BE9RPDj2TqoESnmxD+Zex0bOFzt4aniCep4ocVyoUQRlZSuPnvnMgB4WVMgcvGfD5tVcibBn+/Pm992X7BAf+9eYKhgq8vEDI86/chwsqQamHfOOebOJ+t2DfqmmgmjmqE4JreGPv4SLoZRd3fx2zUshvETqil6BwYkSvnCJqH0/3ZPvzDZ8S6e0A4rKsF1TeLfhXKxwkx5glIM1c6ZwU;r1Siv99zOBOodKHttgiIMw=="
+secured: "UAB/lLT12DeWITJ3GJXsdSfDmKqwKEVOLWPSQcsZf7A0t4Ejyoiscx9Ar28ZwTDeP/i4qsl+H5GrM/QmQberXJWd3dT7oXtwGtPdkGWnrzpQIy7Nzk3eld1HrItuuNFQyqFdKgVvb1MQlfmdzTmsx4atULQU+6VhUl9g5t80jazW1l/31oVDiEiFITOBg8K7jzhndQzJPirvJxQdhJuQtiyWIGUAM9xYBedfTZp3sC5/3FY8Fui12XFDz/t1yh3s42xKci1DKAO7Gl1rmUL1prE1+wsk7IR01YEPvOnyVixBl8tAaCJq76NaTbd7nQwY;Y+3sNUqIZnQ+384bj18jnA=="
 ---
 

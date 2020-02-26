@@ -191,21 +191,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/02/13/PPHX/20a18807-923a-49da-b9dc-7404b2750590-Raymond_Tang_mugshot.jpg?auto=webp&crop=479,269,x1,y167&format=pjpg&width=1200"
         width: 1200
         height: 674
-  - title: "House lawmakers close to draft bill on self-driving cars"
-    excerpt: "House lawmakers on Tuesday touted progress toward bipartisan legislation on self-driving cars, with plans to release draft language soon."
-    publishedDateTime: 2020-02-11T21:46:00Z
-    webUrl: "https://thehill.com/policy/technology/482628-house-lawmakers-close-to-draft-bill-on-self-driving-cars"
-    ampWebUrl: "https://thehill.com/policy/technology/482628-house-lawmakers-close-to-draft-bill-on-self-driving-cars?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/482628-house-lawmakers-close-to-draft-bill-on-self-driving-cars?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 44
-    images:
-      - url: "https://thehill.com/sites/default/files/uber_self-driving_car_04032018_1.jpg"
-        width: 980
-        height: 551
   - title: "Federal Policymakers to Draft Self-Driving Vehicles Bill"
     excerpt: "WASHINGTON — Policymakers in the U.S. House of Representatives are aiming to draft a bipartisan measure that would guarantee the deployment of life-saving technologies in self-driving vehicles, the chairman of a key committee said Feb. 11. “We can ..."
     publishedDateTime: 2020-02-11T22:37:00Z

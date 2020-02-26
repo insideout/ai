@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Robots and artificial intelligence can benefit workers instead of hurting them if we address inequality today [Opinion]"
-excerpt: "While many are quick to blame advancing technology such as artificial intelligence, the real problem is how that technology is deployed ... has been using the suburbs of Houston to test its autonomous grocery delivery service. In this age of driverless cars, we’re spending less time celebrating the freedom technology brings and more time ..."
+excerpt: "While many are quick to blame advancing technology such as artificial intelligence, the real problem is how that ... to test its autonomous grocery delivery service. In this age of driverless cars, we’re spending less time celebrating the freedom ..."
 publishedDateTime: 2020-02-11T21:06:00Z
 webUrl: "https://www.houstonchronicle.com/opinion/outlook/article/Robots-and-artificial-intelligence-can-benefit-15047970.php"
 ampWebUrl: "https://www.houstonchronicle.com/opinion/outlook/amp/Robots-and-artificial-intelligence-can-benefit-15047970.php"
@@ -25,6 +25,6 @@ images:
     height: 249
     title: "Robots and artificial intelligence can benefit workers instead of hurting them if we address inequality today [Opinion]"
 
-secured: "U+kZjOxyCQy7XI7iFEzhsf7E+sSAKBMUyfAdp1t1LnyyDIE0JyQ5QC3+LDLXoOF4i/Y4yec2Dy9Y2XK9Y5Aq+XX9aM4cO+qz+WpLyBChw+raXdWDhTMuIfvOcSkfaaAUusZkiVVh26xP80JFCjeYdvuShPEEZLvHejT+jDT9+5hYmA9mRNxwD5rp3A4W5eJUVJrs4ouAF9U+n6Khdb7GOCfGfrKshmdBE4skj5Uufnr/Xo8L/G61qkBSo/rdCtlc1jWSVYF1l36z/NZynT85RVlajV0xq39T1ECswaeX2o646qZD5aSqMxOP/YZLHOBH;mzkEPR+SQDv5v7ZmDwm5YA=="
+secured: "V913DFPU9rbPvQBTmeQzUjVOQ90YeMcYm1tVcLjKiwjQeAxh08VGL/6ZzHvIK6U2F/V4o/4nm32OYlwANGHmZVY5haQVVKazeOl+QZRt+MikIaBTduqy0WFyzDXUAQxR2AAmrhBX3dXSFjJOAGbnfWMYFZnQAhJ8AKxeBvuiFpRzcrykKN4XgtCdA/TVe8gItS8M4bvFD8/ia1R18QSsbh+j/ri3wg6V2KRutAoJxWRxeQddXxyM8IvFXwVbHc75aDCF6c5yws+YC7vxx4ps7EaHKBmBgtQVp5r7o1RKzJ+3r7eU2fCu2T27kVuViaLR;mot8DlgFxmRLM6wqHyx1mQ=="
 ---
 
