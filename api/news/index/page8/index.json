@@ -2,133 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_posts/2020-02-25-the-future-of-ai-journalism-is-less-hyperbole-and-smarter-readers.md",
-      "title": "The future of AI journalism is less hyperbole and smarter readers",
-      "excerpt": "In it, he discusses the 2017 hype-explosion surrounding Facebook’s AI research lab developing a pair of chat bots that created a short-hand language for negotiating. In reality, the chat bots’ behavior was remarkable but not entirely unexpected. Unfortunately the media at-large covered the interesting event as though SKYNET from the ...",
-      "heat": 119,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/02/25/the-future-of-ai-journalism-is-less-hyperbole-and-smarter-readers/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/02/25/the-future-of-ai-journalism-is-less-hyperbole-and-smarter-readers/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/25/the-future-of-ai-journalism-is-less-hyperbole-and-smarter-readers/amp/",
-      "publishedDateTime": "2020-02-25T09:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2017/05/3061093760_b92f06b7ba_o-796x531.jpg",
-          "width": 796,
-          "height": 531,
-          "title": "The future of AI journalism is less hyperbole and smarter readers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-25-these-are-the-pentagons-new-ethics-principles-for-ai-in-warfare.md",
-      "title": "These Are the Pentagon’s New Ethics “Principles” for AI in Warfare",
-      "excerpt": "On Monday, the Pentagon announced the official adoption of a series of new principles for ethical use of artificial intelligence in warfare, the Associated Press reports. The principles were formed out of a commission with the (darkly Newspeak-y) name the Defense Innovation Board, which released its recommendations (title: “AI Principles ...",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://futurism.com/the-byte/pentagon-ai-ethics-dod-warfare",
-      "ampWebUrl": "https://futurism.com/pentagon-ai-ethics-dod-warfare/amp",
-      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/pentagon-ai-ethics-dod-warfare/amp",
-      "publishedDateTime": "2020-02-25T13:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Futurism",
-        "domain": "futurism.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://wp-assets.futurism.com/2020/02/pentagon-new-ethics-principles-ai-warfare-600x315.jpg",
-          "width": 600,
-          "height": 315,
-          "title": "These Are the Pentagon’s New Ethics “Principles” for AI in Warfare",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-25-tnw-announces-neural-a-blog-for-human-centric-ai-news-and-analysis.md",
-      "title": "TNW announces Neural: A blog for human-centric AI news and analysis",
-      "excerpt": "Let’s build this Neural network together. We’ll have more exciting news to share about Neural in the coming days and weeks. In the meantime, check out our cool new Neural site here. Fun facts: the Neural font was developed with the help of an artificial neural network and the color scheme was chosen because it’s just awesome.",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/02/25/tnw-announces-neural-a-blog-for-human-centric-ai-news-and-analysis/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/02/25/tnw-announces-neural-a-blog-for-human-centric-ai-news-and-analysis/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/25/tnw-announces-neural-a-blog-for-human-centric-ai-news-and-analysis/amp/",
-      "publishedDateTime": "2020-02-25T09:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2017/07/robots-796x433.jpg",
-          "width": 796,
-          "height": 433,
-          "title": "TNW announces Neural: A blog for human-centric AI news and analysis",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_posts/2020-02-25-using-machine-learning-approach-to-unravel-how-the-brain-processes-stores-visual-information.md",
       "title": "Using machine learning approach to unravel how the brain processes, stores visual information",
       "excerpt": "Using a machine learning approach, they applied a novel tensor algorithm to decompose faces into a set of components or images called tensorfaces as well as their associated weights, and represented faces by linear combinations of those components. In this way, they build a mathematical model describing the work of the neurons involved in face ...",
@@ -343,6 +216,43 @@
       ]
     },
     {
+      "path": "_posts/2020-02-26-government-to-hold-global-summit-on-ai-in-april.md",
+      "title": "Government to hold global summit on AI in April",
+      "excerpt": "NEW DELHI: The government will hold a global summit on artificial intelligence on 11-12 April to exchange ideas with the industry ... The summit will see participation from major tech companies including Intel, Microsoft and AWS in addition to researchers and scientists from Carnegie Mellon University, Stanford University and Indian Institute ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.livemint.com/industry/infotech/government-to-hold-global-summit-on-ai-in-april-11582710062443.html",
+      "ampWebUrl": "https://www.livemint.com/industry/infotech/government-to-hold-global-summit-on-ai-in-april/amp-11582710062443.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/industry/infotech/government-to-hold-global-summit-on-ai-in-april/amp-11582710062443.html",
+      "publishedDateTime": "2020-02-26T02:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2020/02/26/600x338/AI-kkGH--621x414@LiveMint_1582711656144.jpg",
+          "width": 600,
+          "height": 337,
+          "title": "Government to hold global summit on AI in April",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_posts/2020-02-26-linksquares-raises-145-million-to-expedite-contract-management-with-ai.md",
       "title": "LinkSquares raises $14.5 million to expedite contract management with AI",
       "excerpt": "LinkSquares’ platform, which is web-based and hosted on Amazon Web Services, can perform full-text searches for keywords, phrases, and contract terms across documents in “seconds” using AI. It taps multi-query and filtering to extract key bits of data from contracts, including parties, effective and termination dates, payment terms ...",
@@ -522,10 +432,47 @@
       ]
     },
     {
+      "path": "_posts/2020-02-26-robotic-piece-picking-gets-more-flexible-with-ai-enabled-adaptive-tooling.md",
+      "title": "Robotic piece picking gets more flexible with AI-enabled adaptive tooling",
+      "excerpt": "Allston, Mass.-based XYZ’s piece picking system uses machine vision, but it does not rely exclusively on artificial intelligence models. A combination of mechanical and machine learning approaches is necessary, said Peter Yu, chief technology officer at the startup. “With both [approaches] and our tool changer, a robot can pick nearly ...",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.therobotreport.com/robotic-piece-picking-more-flexible-ai-enabled-adaptive-tooling/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-26T05:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2020/02/tool-changer-swaping_3MB-1024x705.jpg",
+          "width": 1024,
+          "height": 705,
+          "title": "Robotic piece picking gets more flexible with AI-enabled adaptive tooling",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_posts/2020-02-26-toyota-steers-400-million-to-self-driving-startup-ponyai.md",
       "title": "Toyota steers $400 million to self-driving startup Pony.ai",
       "excerpt": "With this new investment, their relationship will become even closer, with the automaker and the startup “co-developing” mobility products like “mobility services.” Pony.ai has been testing robot taxis in Beijing and Guangzhou since late 2018 as well as in Fremont and Irvine, California. The startup claims to be the first company to ...",
-      "heat": 231,
+      "heat": 241,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.theverge.com/2020/2/25/21152817/toyota-pony-ai-self-driving-car-investment-valuation-china-silicon-valley",
@@ -2088,6 +2035,51 @@
           "width": 1000,
           "height": 500,
           "title": "Tesla patents data pipeline and deep learning system for autonomous driving",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2019-12-28-whats-in-a-name-the-deep-learning-debate.md",
+      "title": "What’s in a name? The ‘deep learning’ debate",
+      "excerpt": "The history of the term deep learning shows that the use of it has been opportunistic at times but has had little to do in the way of advancing the science of artificial intelligence. Hence ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/whats-in-a-name-the-deep-learning-debate/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/whats-in-a-name-the-deep-learning-debate/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/whats-in-a-name-the-deep-learning-debate/",
+      "publishedDateTime": "2019-12-28T10:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2019/12/28/50dde239-b04b-4b84-91b3-b811dff91a53/bengio-and-marcus.png",
+          "width": 1177,
+          "height": 621,
+          "title": "What’s in a name? The ‘deep learning’ debate",
           "attribution": null
         }
       ],

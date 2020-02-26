@@ -8,7 +8,7 @@ ampWebUrl: "https://www.insidehook.com/daily_brief/tech/are-robots-better-invest
 cdnAmpWebUrl: "https://www-insidehook-com.cdn.ampproject.org/c/s/www.insidehook.com/daily_brief/tech/are-robots-better-investors-than-humans/amp"
 type: article
 quality: 159
-heat: 179
+heat: 169
 published: true
 
 provider:
@@ -41,21 +41,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e4a3210a854780006b18efa%2F0x0.jpg"
         width: 1200
         height: 675
-  - title: "Robot-analysts make BETTER stock recommendations than human investors, study finds"
-    excerpt: "Robots are said to take over some 200,000 jobs on Wall Street over the next decade ... Robo-Analyst firms generally advertise sophisticated technologies such as 'Natural Language Processing,' 'Machine Learning,' and 'Artificial Intelligence' on their corporate websites and produce reports that rely more on technical analysis than on subjective ..."
-    publishedDateTime: 2020-02-11T20:47:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-7992809/Robot-analysts-make-BETTER-stock-recommendations-human-investors-study-finds.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-7992809/amp/Robot-analysts-make-BETTER-stock-recommendations-human-investors-study-finds.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-7992809/amp/Robot-analysts-make-BETTER-stock-recommendations-human-investors-study-finds.html"
-    type: article
-    provider:
-      name: Mail Online
-      domain: dailymail.co.uk
-    quality: 53
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/02/11/20/24618678-0-image-a-8_1581453934827.jpg"
-        width: 636
-        height: 382
 
 secured: "/h/M0UPMsrvEjpm+c2ohixqZR/pvLOFgokUnrYlOZxMCKbRCSuIfyvnIYKgnBHq7eu1eN6vwStNP/whD2rmiY0uwvWBtY6wvdRaqV+o3oleIGD0ehn1cF4R1QdcUnEgNiGKbXEcX0N5vNcdOZgwT3dWLc/eJolCjbSlKe690YzZMapm0I5ry/OBevOWNQGaWU5oJ0/7RSVvcP3Q6Gy8wkvOqdSHrbXdnVEzyKdRmZ2GkAeElgQCuYxFWxMo4SZHTCXCzmzffXsO3U4qxL0Lx/3NcxuXqPJ9DJaq3NMw+4VBNrEr3o9pMfdG2aXEXOs0iSEqqlf2X7jKZqxE841mcue2Cr6/Q/UGz1eysnWKrowPZRfIdiFOXU3oh7+pm7lNtxAz937DJqmv+hWhokyBZnkS2lPiWqHfKDYcxZ5ZgUnV+QfmwoPzNzT5ubH3lsJHApb22jfw5qyMMJYIDmEA2UaEO+ht89hAk314r3c9Ec0HvmAqKIRalb+nQO+NiyOp/;z/HKcyCP+p1v72TSDQL1ZQ=="
 ---

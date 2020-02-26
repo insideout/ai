@@ -35,6 +35,19 @@ related:
       name: Phys.org
       domain: phys.org
     quality: 39
+  - title: "Brazil: Computer vision boosts pest control efficacy"
+    excerpt: "One of the strategies used for biological control of the South American fruit fly (Anastrepha fraterculus) is sterilization of males by X-ray or gamma-ray irradiation. This procedure is to bring about a decrease in the wild population of these insects. A. fraterculus is a major crop pest in the South Region of Brazil, mainly affecting apple and ..."
+    publishedDateTime: 2020-02-26T13:10:00Z
+    webUrl: "https://www.freshplaza.com/article/9193419/brazil-computer-vision-boosts-pest-control-efficacy/"
+    type: article
+    provider:
+      name: FreshPlaza
+      domain: freshplaza.com
+    quality: 39
+    images:
+      - url: "https://www.freshplaza.com/remote.axd?https://agfstorage.blob.core.windows.net/misc/FP_com/2020/02/26/AafPup35.jpg?preset=OgImage"
+        width: 1200
+        height: 630
 
 secured: "85IwgQ8yS+/eHzk3lNch8EkXSJSqRCx96bGEJkVxsndO/nnOwg5OX4cT3x75dGEk4l7BSsIhtUzKbreffT6MZnlV7aL+dvaRHYetnwS1pCvLLhmuTRpghXgqMwH9XEBzlaHvvBmI9aL+P0nimOFsDbOo07CU+yr6KgEZQ1bz1hgzzdpXgV0tRCPGHEHQF+DnqnDDWvpBlvgYkC/QIVxp8NI+iMtVr87l9RMHvOEmWPDYfHbz1MHHSSU3bTZsBPIGwD96Lb1sIOseZ3pGzPph8EHpgR6BLtLeOhID0O1BlDrAgh6HWVSB7P2w7gKPTYDZvAMulLqeyztrlhoDb6tp6zrURdlqX/2S3whKjfKXi2ar6Z0KrmefwHb+pvUQ/66QVCufvb3LvYB7wGqXCCepiVai0wVay4tE1PZolXO1EmdxbuwjmWobDSnyw3c6gQFKNxFlta1ZsF6o3qv4wrRaaicEURaRoRApFlYJcUm4sz8=;kOjqx5KUtZaZ0TqmmS3m3Q=="
 ---

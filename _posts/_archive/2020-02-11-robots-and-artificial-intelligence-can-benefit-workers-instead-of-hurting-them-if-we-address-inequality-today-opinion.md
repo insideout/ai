@@ -7,8 +7,8 @@ webUrl: "https://www.houstonchronicle.com/opinion/outlook/article/Robots-and-art
 ampWebUrl: "https://www.houstonchronicle.com/opinion/outlook/amp/Robots-and-artificial-intelligence-can-benefit-15047970.php"
 cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/opinion/outlook/amp/Robots-and-artificial-intelligence-can-benefit-15047970.php"
 type: article
-quality: 52
-heat: 52
+quality: 35
+heat: 35
 published: false
 
 provider:
@@ -18,7 +18,6 @@ provider:
 topics:
   - AI
   - AI in Autos
-  - AI in Robotics
 
 images:
   - url: "https://s.hdnux.com/photos/01/10/42/52/19016327/4/375x250.jpg"
@@ -26,6 +25,6 @@ images:
     height: 249
     title: "Robots and artificial intelligence can benefit workers instead of hurting them if we address inequality today [Opinion]"
 
-secured: "pqOegRi8VbNbdSbX35o9EzcQF8LWUmu+R1pTIR6PgrJj5/ecw4lN6TF+T3RQUVuu8MAh9DfnHDPf08/AcOHkPe9F9L7Sy99pDXBiEtWEbiVkKvb6xngfnHb2H2/0nP4m56hzWlUXlXerOPNjV7hFd7Y7L8OJvABAbfhNfKHSiA+2hShYALEIk2cYxXAO/pWwbnw/ywdf8IOB2onp4ZGO+9kCX3KHgpTuVmwlJkU8BzNxd0guQqiKNsFl0uk3rG61kbzfw9rXaVKMdxrC0WQlQ9/zICMjXUpbJVCi7Vf8CRMwqgMciPIy6ICivUErLyOJzsixywq4iZ3F12klESfT7XVbzBSFTRqGb60AsgxdLwdBORnLL67fxnJCmXh8HUa3K0YSUEceP4woKYU8+T2pXtimO68qVxqGcc0UemKEjD3wPY6KTC8pRDSn8z7xNVFJJvZz2Gh2x7JsJgBR5Fuv/QR6zyNntZKY1NjRPdQoL6c=;3cJnGvRFOnQFMDsMogqKAg=="
+secured: "U+kZjOxyCQy7XI7iFEzhsf7E+sSAKBMUyfAdp1t1LnyyDIE0JyQ5QC3+LDLXoOF4i/Y4yec2Dy9Y2XK9Y5Aq+XX9aM4cO+qz+WpLyBChw+raXdWDhTMuIfvOcSkfaaAUusZkiVVh26xP80JFCjeYdvuShPEEZLvHejT+jDT9+5hYmA9mRNxwD5rp3A4W5eJUVJrs4ouAF9U+n6Khdb7GOCfGfrKshmdBE4skj5Uufnr/Xo8L/G61qkBSo/rdCtlc1jWSVYF1l36z/NZynT85RVlajV0xq39T1ECswaeX2o646qZD5aSqMxOP/YZLHOBH;mzkEPR+SQDv5v7ZmDwm5YA=="
 ---
 

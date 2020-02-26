@@ -5,7 +5,7 @@ excerpt: "The global artificial intelligence market size is expected to reach 
 publishedDateTime: 2020-02-26T12:09:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-is-expected-to-reach-usd-3909-billion-by-2025-grand-view-research-inc-2020-02-26"
 type: article
-quality: 52
+quality: 54
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ topics:
   - AI
   - AI in Autos
   - AI in Healthcare
+  - AI in Robotics
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

@@ -159,21 +159,6 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 69
-  - title: "Concerns Surround Facial Recognition App in Florida"
-    excerpt: "Even a flier of the suspect’s photos sent to other law enforcement agencies turned up nothing. Tampa police, meanwhile, were testing a powerful facial recognition technology that scanned for matches from billions of public images. Pinellas asked for help and an analyst quickly got a match. Hours later, investigators arrested the suspect."
-    publishedDateTime: 2020-02-11T20:41:00Z
-    webUrl: "https://www.govtech.com/news/Concerns-Surround-Facial-Recognition-App-in-Florida.html"
-    ampWebUrl: "https://www.govtech.com/news/Concerns-Surround-Facial-Recognition-App-in-Florida.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/news/Concerns-Surround-Facial-Recognition-App-in-Florida.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://media2.govtech.com/images/shutterstock_1236897664.jpg"
-        width: 1119
-        height: 630
   - title: "Booker, Merkley propose federal facial recognition moratorium"
     excerpt: "Two Democratic senators on Wednesday introduced a bill that would place a moratorium on federal government use of facial recognition technology until Congress passes legislation regulating it."
     publishedDateTime: 2020-02-12T20:48:00Z

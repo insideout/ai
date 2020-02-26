@@ -221,6 +221,21 @@ related:
       - url: "https://e3.365dm.com/20/02/1600x900/skynews-oxford-street-shoppers_4925640.jpg?20200220143955"
         width: 1600
         height: 900
+  - title: "Met Police Chief: ‘Our facial recognition tech is not biased’"
+    excerpt: "Metropolitan Police Commissioner Dame Cressida Dick gives a firm rebuttal to the critics of facial recognition technology. The use of Live Facial Recognition technology across police forces has been a highly contentious issue and has been criticised by both civil liberty groups, as well as MPs. Police Scotland recently went as far to say that ..."
+    publishedDateTime: 2020-02-26T13:17:00Z
+    webUrl: "https://diginomica.com/met-police-chief-our-facial-recognition-tech-not-biased"
+    ampWebUrl: "https://diginomica.com/met-police-chief-our-facial-recognition-tech-not-biased?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/met-police-chief-our-facial-recognition-tech-not-biased?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 59
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2020-02/6DF1B4AD-D5A4-4EE5-AA27-C5C738AE65F3.jpeg"
+        width: 640
+        height: 493
   - title: "Cressida Dick: Facial recognition critics should face up to victims of crime"
     excerpt: "Privacy concerns over live facial recognition are ‘much smaller’ than the need to protect the public from ‘a knife through the chest’, Britain’s most senior police officer has said. Metropolitan Police Commissioner Dame Cressida Dick told a conference in Whitehall that critics of the use of such technology would need to justify to ..."
     publishedDateTime: 2020-02-24T17:36:00Z

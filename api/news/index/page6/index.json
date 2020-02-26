@@ -2,132 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_posts/2020-02-21-facial-recognition-company-clearview-ai-probed-by-canada-privacy-agencies.md",
-      "title": "Facial recognition company Clearview AI probed by Canada privacy agencies",
-      "excerpt": "Canadian privacy authorities have launched an investigation into New York-based Clearview AI to determine whether the firm’s use of facial recognition technology complies with the country’s privacy laws,",
-      "heat": 153,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.reuters.com/article/us-clearview-ai-canada-idUSKBN20F2I3",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN20F2I3",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN20F2I3",
-      "publishedDateTime": "2020-02-21T10:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Facial recognition company Clearview AI probed by Canada privacy agencies",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-21-google-launches-tensorflow-library-for-optimizing-fairness-constraints.md",
-      "title": "Google launches TensorFlow library for optimizing fairness constraints",
-      "excerpt": "Google AI today released TensorFlow Constrained Optimization (TFCO), a supervised machine learning library built for training machine learning models on multiple metrics, and “optimizing inequality-constrained problems.” The library is designed to help address issues like fairness constraints and predictive parity and help machine learning ...",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/21/google-launches-tensorflow-library-for-optimizing-fairness-constraints/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-21T14:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/06/tensorflow.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Google launches TensorFlow library for optimizing fairness constraints",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-21-how-ai-is-supercharging-rpa-robotic-process-automation.md",
-      "title": "How AI Is Supercharging RPA (Robotic Process Automation)",
-      "excerpt": "Robotic Process Automation (RPA), which allows for the automation of the tasks of workers, has been one of the hottest categories in tech. The reason is actually simple: the ROI (Return on Investment) has generally been fairly high.",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/tomtaulli/2020/02/21/how-ai-is-supercharging-rpa-robotic-process-automation/",
-      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2020/02/21/how-ai-is-supercharging-rpa-robotic-process-automation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/02/21/how-ai-is-supercharging-rpa-robotic-process-automation/amp/",
-      "publishedDateTime": "2020-02-21T12:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-21-how-israel-became-a-technology-startup-nation.md",
       "title": "How Israel Became A Technology Startup Nation",
       "excerpt": "Why should Israel have shown its mettle in the tech market? What drove this region to become a software-centric startup nation of young companies vying for a place on the global tech map?",
@@ -2048,7 +1922,7 @@
       "path": "_posts/2020-02-24-met-police-chief-facial-recognition-technology-critics-are-ill-informed.md",
       "title": "Met police chief: facial recognition technology critics are ill-informed",
       "excerpt": "Cressida Dick defends tech after civil liberties groups raise fears over accuracy and privacy",
-      "heat": 498,
+      "heat": 508,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.theguardian.com/technology/2020/feb/24/met-police-chief-cressida-dick-facial-recognition-technology-critics-ill-informed",
@@ -2124,6 +1998,132 @@
       "topics": [
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-24-mit-csails-radars-map-hidden-features-to-help-driverless-cars-navigate-snowy-terrain.md",
+      "title": "MIT CSAIL’s radars map hidden features to help driverless cars navigate snowy terrain",
+      "excerpt": "Plus, bad weather has a tendency to obscure road signage and structures that normally serve as navigational landmarks. Fortunately, researchers at MIT’s Computer Science and Artificial Intelligence Laboratory and Lincoln Laboratory are on the case. In a paper that will be published in the journal IEEE Robotics and Automation Letters later ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/23/mit-csails-ground-penetrating-radars-map-underground-features-to-help-driverless-cars-navigate-snowy-terrain/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-23T21:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/1MIT-CSAILs-car-in-the-snow-from-the-back-credit-MIT-CSAIL-e1582233935856.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "MIT CSAIL’s radars map hidden features to help driverless cars navigate snowy terrain",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-24-mlops-the-machine-learning-assembly-line.md",
+      "title": "MLOps: The Machine Learning Assembly Line",
+      "excerpt": "There’s another practice that’s following a similar trajectory in data science today: MLOps. A portmanteau of two abbreviations (‘ML’ for ‘machine learning’ and ‘Ops’ for ‘operations’), the concept is akin to DevOps, i.e., a pipeline from developer to product. As with assembly lines, the goal of MLOps isn’t making ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/acerta/mlops-the-machine-learning-assembly-line-d78fa080f9f0",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-24T15:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*BsEr0YI152lB6cFjEhVEfQ.jpeg",
+          "width": 1200,
+          "height": 750,
+          "title": "MLOps: The Machine Learning Assembly Line",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-24-new-york-artificial-intelligence-company-behavox-raises-100-million.md",
+      "title": "New York artificial intelligence company Behavox raises $100 million",
+      "excerpt": "Behavox, a New York-based artificial intelligence company, said Monday it has raised $100 million. The funding came from SoftBank Vision Fund 2, according to Behavox, which describes itself as \"the world’s only end-to-end data operating platform.",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bizjournals.com/newyork/news/2020/02/24/behavox-raises-100-million.html",
+      "ampWebUrl": "https://www.bizjournals.com/newyork/news/2020/02/24/behavox-raises-100-million.amp.html",
+      "cdnAmpWebUrl": "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/newyork/news/2020/02/24/behavox-raises-100-million.amp.html",
+      "publishedDateTime": "2020-02-24T07:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.bizj.us/view/img/11611878/behavox-ceo*600xx1829-1219-164-0.jpg",
+          "width": 600,
+          "height": 399,
+          "title": "New York artificial intelligence company Behavox raises $100 million",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

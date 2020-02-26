@@ -36,6 +36,21 @@ related:
       - url: "https://images.livemint.com/img/2020/02/26/600x338/AI-kkGH--621x414@LiveMint_1582711656144.jpg"
         width: 600
         height: 337
+  - title: "Govt to host AI Summit 'RAISE' in April"
+    excerpt: "New Delhi, Feb 26 () The government will host RAISE 2020 - an event focussed on artificial intelligence - on April 11-12 in the ... companies including Intel, AWS, KPMG, IBM, Oracle as well as AI startups participated in the consultation."
+    publishedDateTime: 2020-02-26T13:57:00Z
+    webUrl: "https://www.businessinsider.in/business/news/govt-to-host-ai-summit-raise-in-april/articleshow/74321740.cms"
+    ampWebUrl: "https://www.businessinsider.in/business/news/govt-to-host-ai-summit-raise-in-april/amp_articleshow/74321740.cms"
+    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/business/news/govt-to-host-ai-summit-raise-in-april/amp_articleshow/74321740.cms"
+    type: article
+    provider:
+      name: Business Insider India
+      domain: businessinsider.in
+    quality: 59
+    images:
+      - url: "https://www.businessinsider.in/thumb/72107402.cms?height=275&width=412"
+        width: 412
+        height: 275
 
 secured: "rkoTiVigsgJljqVsZ0BWEf67K+fMx66ZzmEMW+zDfTw342uv6xKzbUHaZzMOX5TUeHXyvoV4cLRZ+5rFvgiZNlAvEaCOgnPQa+nvMTZ31HtdpjInP6l9BnH7Dr6EgYBDJ4rnDLZAs+xdmbcaZwUoVth46bDe8I5TYxdCnFsdFjH/UFd3/VlJSKeOfih4PF5HIIa5bi64i5IVdqv8YVT+3NSfFRi0ErVHRSmyDvGdGusiyop42PMjQhMqDP62mpQBhee1/5UIPpj9+3edvmu9ALto+zDgKxk4IaTvJh85l0Qw2L/hUWIkV+zlsrq9Irj4;VhYVI2Zpqz3Q+kQse6WHGg=="
 ---

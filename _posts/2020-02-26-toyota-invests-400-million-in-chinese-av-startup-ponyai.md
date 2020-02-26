@@ -83,6 +83,21 @@ related:
       - url: "https://lh3.googleusercontent.com/13GWnngoYc-Xmgsjhtl6TvTc1JYzpMif7RmX37GXLqt2mx8TSYHorKd7o7W86h46U6HXksGSl0aZ12BBQFrJ330=s1000"
         width: 1000
         height: 667
+  - title: "Toyota Invests $400M In Autonomous Driving Startup Pony.ai"
+    excerpt: "Toyota invest $400 million in a Series B to startup Pony.ai Pony.ai and Toyota have already explored a partnership since last year to further autonomous driving into other services Pony.ai's technology aims to achieve Level 4 or high driving automation, which means that little human intervention is required Toyota invested $400 million to ..."
+    publishedDateTime: 2020-02-26T13:47:00Z
+    webUrl: "https://www.ibtimes.com/toyota-invests-400m-autonomous-driving-startup-ponyai-2929446"
+    ampWebUrl: "https://www.ibtimes.com/toyota-invests-400m-autonomous-driving-startup-ponyai-2929446?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/toyota-invests-400m-autonomous-driving-startup-ponyai-2929446?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 57
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/01/15/toyotas-investment-in-joby-is-its-latest-venture.jpg"
+        width: 1024
+        height: 682
   - title: "Toyota leads latest round of funding for autonomous driving startup Pony.ai"
     excerpt: "The autonomous driving firm Pony.ai pulled in a large amount of cash in its latest funding round, helped by Toyota. Continue Reading Below The company raised $462 million, with Toyota investing around $400 million, according to Reuters. GET FOX BUSINESS ON THE GO BY CLICKING HERE The latest round values the three-year-old Silicon Valley-based ..."
     publishedDateTime: 2020-02-26T06:02:00Z
@@ -206,6 +221,6 @@ related:
       domain: moneycontrol.com
     quality: 14
 
-secured: "8DkCr8prLyZpIgCv1OhS5JxSyIjUYBT8ao2MgTWHJUV3xOaI17iOrfBAZ1uk3lwWtAE/ZptbHZSmbTTV3vLbQnNvaFpM9sBsdWCFyW3hEn3IiObW9ctmv0JqhXw+hbeVxWb6voWiRpUW9LNC2C3dc2J//zrm9fp41/RViYkLb3PVbEoBaeDfu+XwV5w+NWuvc1JURiWkpZWgvvGRVQwIJkcnlnDPJEq8WpwuGf09W8sFo9Z2xqnJIPBZhUrh4ICiWoB6i7udEbIDujKxF+nQ/IjDGjJSJO9jpJp5h0U17tGfw2kyZEf45ofLoJSaNXU3;xS35jiChRfK29t8ZCVO+jA=="
+secured: "ol1gqhbVLYeuEeL3ckiXVwLu+33m4S7J1+BBMjdK3QjnJcefbGDPGsbW2oCvZjgGd9ZONxpCiH0OYou5iRDuHxv0VAXwxQre5jYTkXzgCCzrXxonbte8y7g9x3zd/VNXghlXvMdgdBpeA0+GT8dQ5uDsVu0Ea3YIqEj+uRhS34qnafEPNBAcuSji2bw2sO0ctnfVF3xE/akGN5d+ghzXPENWqVAYjqeFLb/1Cu7MZWKSCJlpfee+9CoUZQ+gBwk54qYeLmirG3D4X6hLK8TuD55DkRW8Ir06RJDPg1eAcYPIFQRa76Bi5TCGBDcK8E3WyAbwcEkItTAI7ijaMtknNWB02xdrwHG7eyeekAgSIve05VHkde6Gn1rdjaVceZyMk5tjhJLTYqSmBGKOyTwQp5oyhFovSy5g0rF0vtouYSWkR0YJXTQUUaPQdNT7apP+tI+5YStsg6xS+qh5yrxoCzH1gDQwfQDKtxCfxPQOPcw=;SLnEUuyQyqrc/0r9pfckQA=="
 ---
 

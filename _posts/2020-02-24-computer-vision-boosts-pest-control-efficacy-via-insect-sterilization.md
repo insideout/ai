@@ -20,6 +20,19 @@ topics:
   - Computer Vision
 
 related:
+  - title: "Brazil: Computer vision boosts pest control efficacy"
+    excerpt: "One of the strategies used for biological control of the South American fruit fly (Anastrepha fraterculus) is sterilization of males by X-ray or gamma-ray irradiation. This procedure is to bring about a decrease in the wild population of these insects. A. fraterculus is a major crop pest in the South Region of Brazil, mainly affecting apple and ..."
+    publishedDateTime: 2020-02-26T13:10:00Z
+    webUrl: "https://www.freshplaza.com/article/9193419/brazil-computer-vision-boosts-pest-control-efficacy/"
+    type: article
+    provider:
+      name: FreshPlaza
+      domain: freshplaza.com
+    quality: 39
+    images:
+      - url: "https://www.freshplaza.com/remote.axd?https://agfstorage.blob.core.windows.net/misc/FP_com/2020/02/26/AafPup35.jpg?preset=OgImage"
+        width: 1200
+        height: 630
   - title: "Computer vision is used for boosting pest control efficacy via sterile insect technique"
     excerpt: "fraterculus pupae. In addition to providing a complete analysis of various physical and biochemical properties of the pupae, the device also functions as a computer vision system, a type of artificial intelligence that extracts data from images by simulating human vision. \"It generates data and graphics that help monitor pupa quality over time ..."
     publishedDateTime: 2020-02-21T19:49:00Z

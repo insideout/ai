@@ -85,6 +85,21 @@ related:
       - url: "https://lh3.googleusercontent.com/13GWnngoYc-Xmgsjhtl6TvTc1JYzpMif7RmX37GXLqt2mx8TSYHorKd7o7W86h46U6HXksGSl0aZ12BBQFrJ330=s1000"
         width: 1000
         height: 667
+  - title: "Toyota Invests $400M In Autonomous Driving Startup Pony.ai"
+    excerpt: "Toyota invest $400 million in a Series B to startup Pony.ai Pony.ai and Toyota have already explored a partnership since last year to further autonomous driving into other services Pony.ai's technology aims to achieve Level 4 or high driving automation, which means that little human intervention is required Toyota invested $400 million to ..."
+    publishedDateTime: 2020-02-26T13:47:00Z
+    webUrl: "https://www.ibtimes.com/toyota-invests-400m-autonomous-driving-startup-ponyai-2929446"
+    ampWebUrl: "https://www.ibtimes.com/toyota-invests-400m-autonomous-driving-startup-ponyai-2929446?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/toyota-invests-400m-autonomous-driving-startup-ponyai-2929446?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 57
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/01/15/toyotas-investment-in-joby-is-its-latest-venture.jpg"
+        width: 1024
+        height: 682
   - title: "Autonomous Driving Startup Pony.ai Raises $462 Million in Toyota-Led Funding"
     excerpt: "Autonomous Driving Startup Pony.ai Raises $462 Million in Toyota-Led Funding HONG KONG/BEIJING (Reuters) - Autonomous driving firm Pony.ai said on Wednesday it has raised $462 million in its latest funding round,"
     publishedDateTime: 2020-02-26T04:47:00Z

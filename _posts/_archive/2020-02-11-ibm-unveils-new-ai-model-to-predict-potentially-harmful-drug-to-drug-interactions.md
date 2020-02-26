@@ -1,8 +1,8 @@
 ---
 category: news
 title: "IBM unveils new AI model to predict potentially harmful drug-to-drug interactions"
-excerpt: "The work is being highlighted at this week's AAAI-20 Conference in New York City. IBM this week unveiled new research on how an artificial intelligence (AI) model can help better predict drug-to-drug interactions (DDIs). Researchers from the MIT-IBM Watson AI Lab, Harvard School of Public Health, Georgia Institute of Technology, and IQVIA have ..."
-publishedDateTime: 2020-02-11T19:14:00Z
+excerpt: "The work is being highlighted at this week's AAAI-20 Conference in New York City. IBM this week unveiled new research on how an artificial intelligence (AI) model can help better predict drug-to ..."
+publishedDateTime: 2020-02-11T21:21:00Z
 webUrl: "https://www.techrepublic.com/article/ibm-unveils-new-ai-model-to-predict-potentially-harmful-drug-to-drug-interactions/"
 ampWebUrl: "https://www.techrepublic.com/google-amp/article/ibm-unveils-new-ai-model-to-predict-potentially-harmful-drug-to-drug-interactions/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibm-unveils-new-ai-model-to-predict-potentially-harmful-drug-to-drug-interactions/"
@@ -46,6 +46,6 @@ related:
         width: 1200
         height: 900
 
-secured: "AA+ctK/vJbfJA3D+8FAXeZhNjZRcDUJiWJjkrUonLZ0Vsd0pJwITJUEA95rUf3BsfyMxHLFrKd7UxhGbYyA1dq0GC3zcV+L0Rh8gMqqqxY0fZDBXACFlW7eKl+/SrPGsst4BCixVcaODH+ileHHbi9GX12K87ee163nBB/6uln2vVqH8KXzVz1AONkAJGqJ8Io35dUZirgaR+16+Ei96Gbs7s+1H4TZViSGdqFE9qSJyUiUI92rw3iOxLgv2WSE7QS6cXm7U5gLh3PwJdvQVuxjbQvewMTraMbU5teAn2TxN6x330Qw3kWoHf+SlDuNFcGOBE6YBgmf99Dx6g+0pfjlvNWyL7jhTPB8fcpNm68NsZ7UkXne4qBkCCY3O/dUUDcimSqwJYgq0x2MgHD+7Eh5LQ28cVPvxqzq6VPR3Y4aUKPR++PGjt3ncajjfpx9D4D8BEcNALouJJOzt4xMeZgoD0vgODs70O+tgUomd4/s=;ia4AI2OrdQKUPkyCxWGwNA=="
+secured: "+CB96YxxU4WeEBHFgbz6xaI7Axoydp4G7mcsn068Pdpewmn5sH0+snq0xLd240SOBuLU3GL7ghZvogQzGa5OL97cEI8JmIN+NjK1gN/KPl5QWyD8rCvgHef1PqerfAxwFX4OLv+CsceQ1pCbT/6ispn0jqfArAZT0j6mQhy+3iHCOmFy7lJNCY5JHW7EOihnOesUxAx7JDS+UDDBHsWXytlM1PBgfk9ZYABTxvYFuStb1f4bxJjcWBWywkYrO9J2tFRLJtzgHNnAzXmLdDU8IfXfx6xXST5FwmuPSgSOo7JX3NtlTC5zjSoHHR4kogdS;Jomsr8Yk/nO/wyb7sOsyKg=="
 ---
 

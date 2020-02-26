@@ -45,21 +45,6 @@ related:
       - url: "https://www.insidehook.com/wp-content/uploads/2020/02/Sophia_at_the_AI_for_Good_Global_Summit_2018_27254369807.jpg?fit=1280%2C853"
         width: 1280
         height: 853
-  - title: "Robot-analysts make BETTER stock recommendations than human investors, study finds"
-    excerpt: "Robots are said to take over some 200,000 jobs on Wall Street over the next decade ... Robo-Analyst firms generally advertise sophisticated technologies such as 'Natural Language Processing,' 'Machine Learning,' and 'Artificial Intelligence' on their corporate websites and produce reports that rely more on technical analysis than on subjective ..."
-    publishedDateTime: 2020-02-11T20:47:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-7992809/Robot-analysts-make-BETTER-stock-recommendations-human-investors-study-finds.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-7992809/amp/Robot-analysts-make-BETTER-stock-recommendations-human-investors-study-finds.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-7992809/amp/Robot-analysts-make-BETTER-stock-recommendations-human-investors-study-finds.html"
-    type: article
-    provider:
-      name: Mail Online
-      domain: dailymail.co.uk
-    quality: 53
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/02/11/20/24618678-0-image-a-8_1581453934827.jpg"
-        width: 636
-        height: 382
 
 secured: "7pL2bxlEqf0jUniUFte5JKVKLNPKHIEHiOwDBmm64CGAjqCU1b+J8VX29pSRA25VBmUpzWcYdnFyqSF2HW+d+3O+EfC12xiZMg1KziTSNuL6svVF/XUdf+G6uNnbwqVlYEhGzFm848yxeRx1aMkkCM7sqCSEUyJ5aGG0M5HE59e2WMPsMl83oMQmw6OjvLDcaVK/5GkZdI6W/0Io4nJ9uiyLctjcr/ILl2/YPYAbpxJGWNIMI1++kLV6JeQM8N0pWfk2Rk3puFEjHbMgGXT/Ob+r0IuumKE3goCVZPX5d0z+aputxStFGeXBi3DBBC2RBL/lyZsU+M2NJWnA699l9S6XkUZ9dh4r0dBSA/fAdfGfltv4A6nHUz+vZCtyw+nYLfuAOMX3SiVihFt8mHMCp2CFngHV1lVAG3HUIIHUUa2bnRvvZEacqxxO4W5vCRdRFzNgEppqUD+i+/hWJ0sz+nwYKd/Ax3RHbxi8Ol8iciI=;gysesSDmxP5zivOeb0K6MQ=="
 ---
