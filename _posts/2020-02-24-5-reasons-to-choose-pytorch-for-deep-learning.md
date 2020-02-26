@@ -1,23 +1,19 @@
 ---
 category: news
 title: "5 reasons to choose PyTorch for deep learning"
-excerpt: "While the fast.ai course uses fast.ai’s own library that provides further abstractions on top of PyTorch (making it even easier to get to grips with deep learning), the course also delves deep into the fundamentals, building a PyTorch-like library from scratch, which will give you a thorough understanding of how the internals of PyTorch ..."
-publishedDateTime: 2020-02-24T16:02:00Z
-webUrl: "https://www.infoworld.com/article/3528780/5-reasons-to-choose-pytorch-for-deep-learning.html"
-ampWebUrl: "https://www.infoworld.com/article/3528780/5-reasons-to-choose-pytorch-for-deep-learning.amp.html"
-cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3528780/5-reasons-to-choose-pytorch-for-deep-learning.amp.html"
+excerpt: "This all adds up to a very friendly welcome to those coming into deep learning from other data science frameworks such as Pandas or Scikit-learn. PyTorch also has the plus of a stable API that has only had one major change from the early releases to version 1.3 (that being the change of Variables to Tensors). While this is undoubtedly due to ..."
+publishedDateTime: 2020-02-24T16:14:00Z
+webUrl: "https://www.itworld.com/article/3528780/5-reasons-to-choose-pytorch-for-deep-learning.html"
+ampWebUrl: "https://www.itworld.com/article/3528780/5-reasons-to-choose-pytorch-for-deep-learning.amp.html"
+cdnAmpWebUrl: "https://www-itworld-com.cdn.ampproject.org/c/s/www.itworld.com/article/3528780/5-reasons-to-choose-pytorch-for-deep-learning.amp.html"
 type: article
-quality: 89
-heat: 89
-published: true
+quality: 59
+heat: 59
+published: false
 
 provider:
-  name: InfoWorld
-  domain: infoworld.com
-  images:
-    - url: "/assets/images/organizations/infoworld.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: ITworld
+  domain: itworld.com
 
 topics:
   - AI
@@ -29,6 +25,6 @@ images:
     height: 800
     title: "5 reasons to choose PyTorch for deep learning"
 
-secured: "otbkLieW7zJdrh4GeUVaDB50RvV1Ad3SrLvm0b3rarQnjh3IfkbrDoXQeQtREQ5tLElwsq6O8gFV6NKGMc4iFVMpum/GlAPJH8PHhryupjgtoDe9sIOk/f5DTgRcF8nbZMtmW8XFTfLFJeP7h4ez23I59bHk073fv0e7xLx4yd0F1Uu6mkbQ63MWgDOnYilkrV+9yBiFi288BdHHzIkaYyfHyrOWp2caqMUeIWNEr8KpLhde7dPPyX/cTEqVWi0sS3MDgJbdDsbU8Y2iTt5dr2N212cxpGAK4QuhNJWLmQkwB+jEUIW2XjAOdFMbu8M8;iwXVO5YOKp8joa1fiG940g=="
+secured: "6fy2zzQ02eQnWw146RewcXDl46+YooUwVxYf9HjwGE8/P71gHA1h2JqEwCAAukxDngXGmIljgwGPJDj72yVY9jWHKf4wVb9DOVHIt4rk6dgoxfIvBnTOloPIeLKBGS+l4ALwjTEK6kGuybZOavGLBa9960IujJ/5uTg4utKWMyCAK8BwT+YSbm7172H7MS3cFw01Det2xhh1WaKwOUyf2Yqt2v+F4j16knHvbRVVBuuwaKsP/GgUsY0PQ52I9HBxxak++w00wLk5o2hwUisJgaZ99l9AKSZhkNX/61iIJJjo/jxTW9RHwjEVuQjYAiGX;NfXauDKmfe4064GtX0EW+w=="
 ---
 

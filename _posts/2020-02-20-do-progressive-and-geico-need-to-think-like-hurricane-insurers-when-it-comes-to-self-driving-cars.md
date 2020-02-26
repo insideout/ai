@@ -31,18 +31,18 @@ images:
 
 related:
   - title: "Top U.S. Insurers and Automakers using Artificial Intelligence-Based Services from Agero to Improve Driver Assistance"
-    excerpt: "MEDFORD, Mass., Feb. 26, 2020 (GLOBE NEWSWIRE) -- Agero, a market leader in software-enabled driver assistance services for automotive manufacturers and insurance providers in North America, today announced that its advanced artificial intelligence (AI) services are now in use by eleven clients, including four of the top six insurance providers ..."
-    publishedDateTime: 2020-02-26T14:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-top-us-insurers-automakers-using-artificial-intelligence-based-/2020/02/26/9104892.htm"
+    excerpt: "MEDFORD, Mass., Feb. 26, 2020 (GLOBE NEWSWIRE) — Agero, a market leader in software-enabled driver assistance services for automotive manufacturers and insurance providers in North America, today announced that its advanced artificial intelligence (AI) services are now in use by eleven clients, including four of the top six insurance ..."
+    publishedDateTime: 2020-02-26T15:37:00Z
+    webUrl: "https://virtual-strategy.com/2020/02/26/top-u-s-insurers-and-automakers-using-artificial-intelligence-based-services-from-agero-to-improve-driver-assistance/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Virtual-Strategy
+      domain: virtual-strategy.com
     quality: 14
     images:
-      - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
-        width: 252
-        height: 335
+      - url: "https://virtual-strategy.com/wp-content/plugins/all-in-one-seo-pack/images/default-user-image.png"
+        width: 512
+        height: 512
 
 secured: "O7xCHQGtXtW+N+B6HcJz8/FdD9cVHRdwAHU7Zj8unne8IHr82U+BT0PEWclVDNwMg7I67Mks+uUsfTg8l21goqiqtyVtugUT6y0IXeZAjwGBbjvf+Swm8/CbjlWEjXddR/7YVYE+O3/CDhjfbGulVTvXSqhRI3RNEj157YiT2ZrF1KYXVD+4k+DPL5QxLZcSy6SNEkWv+Gb3xRiX99GryhjjqQH9X/jp4gYMKb+RUU6XB6wPjdagGcOXcJJmlf8S8GbvoGq7UvL33TInVWCYcZWEV1HsiW9S6eoK2qdkKKOBEGwdwzNhK+cpvSFibPgHAvnQBvZHpvShZmtyjjlm7VlgFxyHYrcw2hUR+AEoLf7NoWh7KdJ2xLJm12i1NiL/U4a5+N3C//EG7WPqJb9axxC5VSQdVmqEexvCaS5GIXmAbFfR4zRA+5UAq1bNLPA84Fz/ZAiGOmHKaKMMI4pJk6sA38BvHFvKZKrvQ+w1SKs=;INXIBQaHxY3Uk71EYD8o+Q=="
 ---

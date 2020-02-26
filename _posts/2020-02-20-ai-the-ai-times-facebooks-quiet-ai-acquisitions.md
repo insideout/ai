@@ -40,21 +40,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2019/06/getty-facial-face-recognition.jpg?w=1024"
         width: 1024
         height: 684
-  - title: "Google Photos allegedly violated Illinois’ facial recognition laws, according to suit filed after Facebook settles class-action over same law"
-    excerpt: "The suit was filed about a week after Facebook agreed to pay $550 million to Illinois users to settle allegations that its facial tagging feature violated the same state law protecting biometric information, which can include data from facial, fingerprint and iris scans. Illinois has one of the strictest biometric privacy laws in the nation."
-    publishedDateTime: 2020-02-11T23:07:00Z
-    webUrl: "https://www.chicagotribune.com/business/ct-biz-google-facial-recognition-lawsuit-20200211-3pzwk7qwznhfvgdv5lk2bdyqu4-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/business/ct-biz-google-facial-recognition-lawsuit-20200211-3pzwk7qwznhfvgdv5lk2bdyqu4-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/business/ct-biz-google-facial-recognition-lawsuit-20200211-3pzwk7qwznhfvgdv5lk2bdyqu4-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 24
-    images:
-      - url: "https://www.chicagotribune.com/resizer/R_JTtoqdaQpQCFtG9OHt_xZ_9lY=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/C3DCANJPP5EF3BJLLF7AUJDL3U.jpg"
-        width: 1200
-        height: 720
 
 secured: "J3Ucx3SphqgWFndfFNcIDEhV3W2WBoko/2Q458f//7Rr9w5atu0MXNF9A6vNPTQYWn0VUH01HUiB4oqrSdHCJo5rKYMH4Rwv2LeNngg0QpIn3SDiS7MX4sAi1q6r/11y2kRvC8rOPscvgDlmKVbzOEB5xQ4j3uOvJqEmA5gkLgeo/yv3qQM/1bKxejh1Ot/fEws7Abo5p53TDd9vEq5Jx1X4Kspr6F2x3Z1k99A0FE+PGsGHkN/yM/bKDWs0w+aJe6xWkhF5lCPS4UFr6Ta7RBFR/AWVDJqHQCA2j+grJ4qv+imTZdBJAKvKpS/jIewqvYahVXN0V6WtITnXzsk4NHS0t/L7vjiVqvpP1xeWGIJYhVaaSlZWMgX6/9B+bsLEa+hP8Y/yHS2ESbvyL7XQHlupN1Yk7agPQ6qNf5VXcpNqc3hue0WuUWxIeOcn/C6QK1fphyYCuiqPBvBsSmkaIvs71iRq3rFTtew79UaJvY8=;5+6RFSV+//J6Utut2zJolQ=="
 ---

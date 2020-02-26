@@ -42,19 +42,6 @@ related:
       - url: "http://www.supplychaindigital.com/sites/default/files/styles/og_image/public/topic/image/GettyImages-1097225424_0.jpg?itok=C9V8WymX"
         width: 1200
         height: 627
-  - title: "How AI and Machine Learning is Transforming the Organic Farming Industry | Quantzig’s Recent Article Offers Detailed Insights"
-    excerpt: "This article also sheds light on the importance of analytics and machine learning in driving improvements within the organic farming industry. The growing use of commercial farming methodologies has caused a major tradeoff in the quality of the food being produced. Large scale farming practices combined with unstructured supply chain networks ..."
-    publishedDateTime: 2020-02-26T14:09:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200226005535/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 27
-    images:
-      - url: "https://mms.businesswire.com/media/20200226005535/en/570204/23/Quantzig_Logo.jpg"
-        width: 1200
-        height: 627
 
 secured: "ptYHS8Bgsbde4HD8tGIh4pqcfEhrmRM3P4sZ28Kw/Yns/ljXnRpe3EoMDZ7SUvS/wxMJsLbMPxsutfUU3uE34HBVDxPRKytMiJ321Fpjt9O9pZ+KWNjpsibK0YHxYlYtsilzj2uOdd2e5sXDj2UY4Dw8jjngDoqQpppUanN57Ourwp2A9iRAHrRvDqRTXFaDzyhu8hjyH/s+82MCouXRBC+vvuHuG8opt3Rd9cFWQGN1UAFMIJIfjZHpE7S52wbZclJ5RAmmNcsfwKoCKfn21Vj7TjcT9P6JAjeLOBM9WdPJXOpDKDbG7DqH9ncaVylf;fA9TnS563LjjmmSgzmdsIw=="
 ---

@@ -8,7 +8,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN20J2N6"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN20J2N6"
 type: article
 quality: 74
-heat: 195
+heat: 205
 published: true
 
 provider:
@@ -30,6 +30,21 @@ images:
     title: "U.S. agency suspends self-driving shuttle EasyMile in 10 U.S. states"
 
 related:
+  - title: "Regulators suspend EasyMile’s self-driving shuttle trial after minor accident"
+    excerpt: "When it comes to accidents involving self-driving vehicles, the rules seem to be fuzzy, and recent actions by U.S. regulators aren’t likely to clarify things. Case in point: On Tuesday, an autonomous shuttle built by France’s EasyMile and being tested in Columbus, Ohio, activated its emergency breaking system, causing a passenger to slide ..."
+    publishedDateTime: 2020-02-26T15:30:00Z
+    webUrl: "https://venturebeat.com/2020/02/26/regulators-suspend-easymiles-self-driving-shuttle-trial-after-minor-accident/"
+    ampWebUrl: "https://venturebeat.com/2020/02/26/regulators-suspend-easymiles-self-driving-shuttle-trial-after-minor-accident/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/26/regulators-suspend-easymiles-self-driving-shuttle-trial-after-minor-accident/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 71
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/02/3-EZ10-e1582721124443.jpg?fit=1200%2C600&strip=all"
+        width: 1200
+        height: 600
   - title: "U.S. Agency Suspends Self-Driving Shuttle EasyMile in 10 U.S. States"
     excerpt: "U.S. auto safety regulators said on Tuesday they had ordered a suspension of passenger operations for 16 autonomous shuttles operated by French-based EasyMile after a passenger was injured in an unexplained braking incident."
     publishedDateTime: 2020-02-25T16:41:00Z
@@ -185,6 +200,6 @@ related:
         width: 792
         height: 416
 
-secured: "7fQPoEZfl6WUuGbRPpy2+HIhR3YdNe9N5Vg/J2JoG7elsJ4DBNPTg2qBF9v0BwlngszFXghEumudjFxDoXjOSopvx9EdXdaAIOlIjgokCTnCJ3THyybqdsazUDNxHqnrhtjnulR1cMGZQDLOPAuSyEn2hyC0I1/6gSHpaxe0gLDANJ9fbL2foXPgs5CYiarDtAj0qE5OXop7GwFvgYPFCYJiLIOCS+2JcOFABJi2TaMYXdHGY8lVOIMnvPUaMgBFujxwM5OSmQWo/IoI+3QPybxpSvUcqxjAfSQ2KKItz4LNEfP5R5N9HCRDT0LK2s+yIjVPG2wC+0ckOUj0ghCuktU+0AdWV4MBz9dVML4GaT7iJZNPJV+H3xwaC0NDa8wWvuqN3yY5fa7h1YP3eMyR2qtTcHUI1MGjOXPkhhOXoApJQmC+SsfXCbE1gvprgjsh4oVI0zMcBdBi8AGka+YH7j1mn67DaCFP9qs3RAMyzTw=;PgkhYRZhSSiyPAGbBatlyQ=="
+secured: "e6oNnh7rdB6EvcuKHw4BLgZE+oHPsly+PVWoNuwepJbnEKl6+Bl+uGXF0J1PR2C++JhzDbxRnVCxWRELxtDmLwO3O1Uopt/JQTbnpPxISwmzYrh170ANVSFFEcrmavQWNTQkBKefTh/shcmn8LZvmwpXqLfWRboXHw87/AHb5OzQja1SMa/fn9cZLmp2OC8DzvqeQxpafouHsO547wwm2yJSElwo95cpNmRlAEOrpy64yAFD9uEleDAASEuYpjKKH3YaSGsJIfWVYsOMOkKBE4ouV40NAySPS02CN51YV9T7mBDo6dAyJwVnY+wcDnfy5HlozbhdRXlP4ZgExJwh7uIeIgCbRQkwBU5DEETquwjka7pRxfdv5EzSxvcpmLkYdbifaUJLfgt941DKRFAXLnmNjbGb5Vmdrop3Ya/eTifd06UyN+YRvRKZ2A2Cx0ElK4+pNs9N6Agq6ktOZpfqAWlk4mNUwkKYGRhr/fzFcEE=;agKDj0f+YYLAuM1pJQphHQ=="
 ---
 

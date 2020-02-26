@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/02/14/class-action-suit-against-clearvie
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/14/class-action-suit-against-clearview-ai-cites-illinois-law-that-cost-facebook-550m/amp/"
 type: article
 quality: 81
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -42,21 +42,6 @@ related:
       - url: "https://cdn.betakit.com/wp-content/uploads/2020/02/cf9be0bd-8c5e-4a3b-acdc-6d6628d1fd84.png"
         width: 1023
         height: 504
-  - title: "Google Photos allegedly violated Illinois’ facial recognition laws, according to suit filed after Facebook settles class-action over same law"
-    excerpt: "The suit was filed about a week after Facebook agreed to pay $550 million to Illinois users to settle allegations that its facial tagging feature violated the same state law protecting biometric information, which can include data from facial, fingerprint and iris scans. Illinois has one of the strictest biometric privacy laws in the nation."
-    publishedDateTime: 2020-02-11T23:07:00Z
-    webUrl: "https://www.chicagotribune.com/business/ct-biz-google-facial-recognition-lawsuit-20200211-3pzwk7qwznhfvgdv5lk2bdyqu4-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/business/ct-biz-google-facial-recognition-lawsuit-20200211-3pzwk7qwznhfvgdv5lk2bdyqu4-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/business/ct-biz-google-facial-recognition-lawsuit-20200211-3pzwk7qwznhfvgdv5lk2bdyqu4-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 24
-    images:
-      - url: "https://www.chicagotribune.com/resizer/R_JTtoqdaQpQCFtG9OHt_xZ_9lY=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/C3DCANJPP5EF3BJLLF7AUJDL3U.jpg"
-        width: 1200
-        height: 720
 
 secured: "u0LWKNReZTxF1HN87HdsNOP93ThNHk1/zpCvsLz4z1RPiny3El9qlbByOxDd8d3U+DzlvFklXQVa1TVAwAk6Uh0pKJFE4TQNfAC3gtIqb2MDlBrqPPkhgBeWAkWDQrjLF0ImzMW60wcxdVRBl/YHyKyzu511oIeORVRpHskh3l+V7/uIONKlX1Ahl3DQpYvRiB1ji/gdQdMy7FF/edP/JIEj5VeqPDRPMeOLgA3RRx1/J082nXkpVsm94xMqBFM3pc7AfG0xjlbh0JeX7cEB9DDEGW7F1vgLyO8YvY5u/gjGgsdXGzU0Jj9TzJuBtcn+GX7auUZPG/8qCBDo+TH92+3rSiS1825s2A6zKttfaAN230/HobjQxAkbRaBU3xrx/BgynaXimnHPecp5WiGKgipfN9kAOWOTXGwXvFYU4Kdw1N/YdXHknjtT8paWybHXbrL/GKNPvEOBF0p4NwkICODZ6Jo2JL/yNEejtnPzp5o=;IczBcjrfbE6iJs9tudhQpQ=="
 ---

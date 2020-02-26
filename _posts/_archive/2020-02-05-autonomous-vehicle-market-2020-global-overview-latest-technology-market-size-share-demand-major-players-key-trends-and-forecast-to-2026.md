@@ -27,6 +27,6 @@ images:
     height: 630
     title: "Autonomous Vehicle Market 2020: Global Overview, Latest Technology, Market Size, Share, Demand, Major Players, Key Trends, and Forecast to 2026"
 
-secured: "+KfCtj6vuLhy+x6HqE1FGI2qWtKND6zVzkPI/WToOpTexJ8/Nb2v5rRGW2SckUTbYQ/+FLTbmHPNBIrSJycYhzx7kNI8/yiCG0BoFoiOTVAbV2S4ua3ztCRPocrbcneYIEQnKxyPjlgC0VdbMAlP0g+NvBgaeyynnR51SgSFsDjCSw1VkoJ+VJitRn2P5Jlx1GetB9m3P18/hm4R4hmAS0nn0CN+fGl9mlqHJI9DKXZyISfUbrOi/NpVcSmpjl9Tof7+q+9DkLmDEZeYB6QpiK0wor90/X3YFJRLY3e0it9M/WOQ3jEQxUBpm/Z+YBzS;zk3MztQoMUPq23Bj+FgMxQ=="
+secured: "DdGWaldi+nbWaHj9DkdOcLsVwiEvRkuLy+LI60CAN/HtR8a3aNBTKjloLHRGzEUEqGqZilSf4N+i9L6zXLS3S7P73u43HBoTTmh4p6zTw4FOk/hzEPa5HZiyilL7VsEcSRXL8+Rj4labBHTPSj/D8HLL/dx8Lh2L2Vx4bXmHWD8fndAcBlCFmU89F/BZuvR1pVUIXHjONpwWIpq2SyWdl+Er4HvcjyZ70cdmDomfKUxg6RSYL5aPOdadumMeafL8OrVqjSXZyRWQt3CWnAsIMAQm0xzWirncx+cjqSzXJGM/WHUwcavoQ7wckDvxanXZ;2Ayuck75TNlDWQOVVfzOFA=="
 ---
 

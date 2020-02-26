@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-12T22:58:00Z
 webUrl: "https://medium.com/@martino.sorbaro/deep-learning-with-spiking-networks-optimising-energy-consumption-50588b4435fd"
 type: article
 quality: 69
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -28,19 +28,6 @@ images:
     title: "Deep Learning with Spiking Networks: Optimising Energy Consumption"
 
 related:
-  - title: "Making 3-D printing smarter with machine learning"
-    excerpt: "They must be discarded, presenting a significant environmental and financial cost to industry. A team of researchers from USC Viterbi School of Engineering is tackling this problem, with a new set of machine learning algorithms and a software tool called PrintFixer, to improve 3-D printing accuracy by 50 percent or more, making the process ..."
-    publishedDateTime: 2020-02-11T22:56:00Z
-    webUrl: "https://eurekalert.org/pub_releases/2020-02/uosc-m3p021120.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/223987_web.jpg"
-        width: 720
-        height: 360
   - title: "Malware Classification and Labelling using Deep Neural Networks"
     excerpt: "This paper utilizes deep learning to classify the families of malware for Portable Executable 32 (PE32). More on paper.docx Most samples are collected from various github repositories where the malware has been classified already. Thanks to VirusSign and VirusShare for providing access to huge range of malware collection. Most of the malware ..."
     publishedDateTime: 2020-02-13T14:59:00Z

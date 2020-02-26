@@ -2,22 +2,18 @@
 category: news
 title: "Met Police chief defends facial recognition from 'ill-informed' critics"
 excerpt: "London's police chief has defended the use of facial recognition technology, labelling critics \"ill-informed\". Dame Cressida Dick said eight criminals had been caught using the controversial live facial recognition cameras. She said \"inaccurate\" critics should \"justify to the victims of those crimes why police should not be allowed to use tech..."
-publishedDateTime: 2020-02-25T15:55:00Z
-webUrl: "https://www.bbc.com/news/technology-51628833"
-ampWebUrl: "https://www.bbc.com/news/amp/technology-51628833"
-cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51628833"
+publishedDateTime: 2020-02-25T16:01:00Z
+webUrl: "https://www.bbc.co.uk/news/technology-51628833"
+ampWebUrl: "https://www.bbc.co.uk/news/amp/technology-51628833"
+cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-51628833"
 type: article
-quality: 89
+quality: 59
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - AI
@@ -496,6 +492,6 @@ related:
       domain: seattletimes.com
     quality: 0
 
-secured: "BWPEbVoepTQXvOUkg5ngeiTj/+SNtGFD2JbsnYp0nqsj2cVFNAi3E5CiyxXASYJq2DoUVeTqJCfwe6zKoJwpRzAhIJqHP76MOaJ3IcJCXwmrMY6X2V2EoB4IWjvOBzNFPaPRe1kgDFKdafMk6/D6L6DfVgjHnMpmNi7m9+6E4YK1ThFM2CTp3oIMEXRB5SOHPSPPYyIXepRjl6bpXcs/FYNAdomw1Nr8LdvaqFlLu4KASNXcS7bj+Y2+L8qmVntiGWWrv2BKizKjTGcy/LSll68xJOwOnNVLz/Xo35kFJE/mXHw0YSfXm6VhLUZgyh5rALq+KW5D0D3FM/FBRYVBB7rGYJUb4Xz4GIY8wDqb+VEYypKGvyFLukWJ0KgkcDYUSsDepjWuLHmKuj4CkCcPM9j+IM0Nrvfs1goSXOBcpmKUMGiO1PXvxv8vCivybZafKu/ijmoYIr8EV57EJrXC9CcIhVyxJjklWzIjIXxLaMQ=;WT+VsCX7VuFRN2Bq0hXP9A=="
+secured: "Y1h3IVKBvZqazAkzf3evIPfcCKsPZ9hhOKhlwBdh6QnJhGi7UP5nAURRQzy92kdFKJJg5ciU8g9lKK7tqsl7mHIlQLEFIaKPdj6euY1qBnAuycWOvfiUh5qY4dFtNWQq9584m7iImqxrndm/8SU2BTX9gDo7mozqqHXbmFPHQ4PKmH6Wc09qtLiy4rfkD01HUGLAHJyooHSKmHHt6bYDqH/03y1OI39J5Qdshj1KVxak1r6wjYegBJsf3Y3FLivZJoO/wCoS2cdn/XgP3WkoUpSBC/wrUDdj4hGfDP6UEJzmo6wid7NBwtiQ1aMhqMs5;XyXW0XaiYp8qWkZcM/cNBA=="
 ---
 

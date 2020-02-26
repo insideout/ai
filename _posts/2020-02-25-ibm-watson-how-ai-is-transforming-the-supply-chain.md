@@ -8,7 +8,7 @@ ampWebUrl: "https://www.supplychaindigital.com/technology/ibm-watson-how-ai-tran
 cdnAmpWebUrl: "https://www-supplychaindigital-com.cdn.ampproject.org/c/s/www.supplychaindigital.com/technology/ibm-watson-how-ai-transforming-supply-chain?amp"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -41,19 +41,6 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/qfATwf5qVcGjMLuAaDkwx6-1200-80.jpg"
         width: 1000
         height: 666
-  - title: "How AI and Machine Learning is Transforming the Organic Farming Industry | Quantzig’s Recent Article Offers Detailed Insights"
-    excerpt: "This article also sheds light on the importance of analytics and machine learning in driving improvements within the organic farming industry. The growing use of commercial farming methodologies has caused a major tradeoff in the quality of the food being produced. Large scale farming practices combined with unstructured supply chain networks ..."
-    publishedDateTime: 2020-02-26T14:09:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200226005535/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 27
-    images:
-      - url: "https://mms.businesswire.com/media/20200226005535/en/570204/23/Quantzig_Logo.jpg"
-        width: 1200
-        height: 627
 
 secured: "6yqkhJIsHeo/R42PENfV5qJEv/DTNCiKEhzgXli3tCOlZs3Y518M6zGmjH4QXNuFFUVwPbv9rABB00ld126X4yepcD34/Nz3Z5ATX5b4AlNUviV5EL00WRRzkVmcL4z8SnPGdV6gb7Nv4zNu8xQkrMpBV7hhdD4FPIyiP8C0UA4VK85AVG9zDIFZqXqhuptOEJHWBVpvRY3MBQxQPNIShaemMBVeaj1E0AvVsL5mLA4C4ykm19Sq4fRzj9qc3dbr1taFoX/g2YYax3ctU0NyvTF8QOYczSITSEK83sRoTH6HlhQzsw7g51+DXqv081zH;BpJAhPHTA0Ki1aPN4JxyEw=="
 ---

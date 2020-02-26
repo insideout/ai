@@ -70,6 +70,34 @@ related:
       - url: "https://www.nasdaq.com/sites/acquia.prod/files/2019-11-18T043046Z_1533163308_RC2W8D9ZM05M_RTRMADP_2_CHINA-AUTOS.JPG"
         width: 640
         height: 427
+  - title: "Self-driving startup halts passenger rides following minor injury"
+    excerpt: "Following a minor incident, the National Highway Traffic Safety Administration has told France-based self-driving technology startup EasyMile to cease passenger rides. The company made the temporary suspension public in a Tuesday announcement, saying a passenger \"slipped from their seat in a minor incident.\" According to the company ..."
+    publishedDateTime: 2020-02-26T15:56:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/self-driving-startup-easy-mile-injury/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/self-driving-startup-easy-mile-injury/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-startup-easy-mile-injury/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 74
+    images:
+      - url: "https://cnet3.cbsistatic.com/img/BkwJYnDsYT-Cd7a4Q2rA1f1UMEE=/2020/02/26/203c4f29-6be5-4942-a837-4418a409ef7a/ogi-em.jpg"
+        width: 1200
+        height: 630
+  - title: "Chinese Self-Driving Firm Pony.ai Secures $400M From Toyota"
+    excerpt: "Chinese self-driving vehicle startup Pony.ai has raised US$400 million in a new funding round from Toyota Motor Corporation. The financing values Pony.ai at over US$3 billion and is one of the biggest investments secured by Chinese artificial intelligence companies during the past year as big-ticket funding deals dried up."
+    publishedDateTime: 2020-02-26T14:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/chinese-self-driving-firm-ponyai-secures-400m-from-toyota-2020-02-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Toyota Invests $400M In Autonomous Driving Startup Pony.ai"
     excerpt: "Toyota invest $400 million in a Series B to startup Pony.ai Pony.ai and Toyota have already explored a partnership since last year to further autonomous driving into other services Pony.ai's technology aims to achieve Level 4 or high driving automation, which means that little human intervention is required Toyota invested $400 million to ..."
     publishedDateTime: 2020-02-26T13:47:00Z
@@ -100,6 +128,15 @@ related:
       - url: "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2020/02/Pony.ai3_.jpg"
         width: 382
         height: 240
+  - title: "Self-driving startup Pony.ai snaps up $462m from Toyota, others"
+    excerpt: "Pony.ai, a Chinese autonomous driving company, announced that it has raised US$462 million from Toyota Motor Corporation and other investors to deepen and expand their collaboration in mobility services. The new funding round brings Pony.ai’s valuation to over US$3 billion, according to a statement. The investment comes as an extension of a ..."
+    publishedDateTime: 2020-02-26T15:09:00Z
+    webUrl: "https://www.techinasia.com/ponyai-snaps-400m-toyota"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 47
   - title: "Autonomous Driving Startup Pony.ai Raises $462 Million in Toyota-Led Funding"
     excerpt: "Autonomous Driving Startup Pony.ai Raises $462 Million in Toyota-Led Funding HONG KONG/BEIJING (Reuters) - Autonomous driving firm Pony.ai said on Wednesday it has raised $462 million in its latest funding round,"
     publishedDateTime: 2020-02-26T04:47:00Z

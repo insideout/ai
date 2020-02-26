@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Top U.S. Insurers and Automakers using Artificial Intelligence-Based Services from Agero to Improve Driver Assistance"
-excerpt: "MEDFORD, Mass., Feb. 26, 2020 (GLOBE NEWSWIRE) -- Agero, a market leader in software-enabled driver assistance services for automotive manufacturers and insurance providers in North America, today announced that its advanced artificial intelligence (AI) services are now in use by eleven clients, including four of the top six insurance providers ..."
-publishedDateTime: 2020-02-26T14:06:00Z
-webUrl: "https://www.tmcnet.com/usubmit/-top-us-insurers-automakers-using-artificial-intelligence-based-/2020/02/26/9104892.htm"
+excerpt: "MEDFORD, Mass., Feb. 26, 2020 (GLOBE NEWSWIRE) — Agero, a market leader in software-enabled driver assistance services for automotive manufacturers and insurance providers in North America, today announced that its advanced artificial intelligence (AI) services are now in use by eleven clients, including four of the top six insurance ..."
+publishedDateTime: 2020-02-26T15:37:00Z
+webUrl: "https://virtual-strategy.com/2020/02/26/top-u-s-insurers-and-automakers-using-artificial-intelligence-based-services-from-agero-to-improve-driver-assistance/"
 type: article
 quality: 14
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Virtual-Strategy
+  domain: virtual-strategy.com
 
 topics:
   - AI
 
 images:
-  - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
-    width: 252
-    height: 335
+  - url: "https://virtual-strategy.com/wp-content/plugins/all-in-one-seo-pack/images/default-user-image.png"
+    width: 512
+    height: 512
     title: "Top U.S. Insurers and Automakers using Artificial Intelligence-Based Services from Agero to Improve Driver Assistance"
 
 related:
@@ -39,6 +39,6 @@ related:
         width: 1200
         height: 675
 
-secured: "seG4ACJUcFG9yDGPYcZbGDMqm73V9PFePcLDujc3QnMOBkxvzfGn4JRBZz+4vfKiDpJcTSVYLfHUYS4gyXVJgpMP45WooUQ57C76VPH2pZWZV1hR6uKXNU1q+qzZDg/Zadmca7m7VFm3B0XZtBkVGzeptxuDPM1fL0u2r0BRY6hCAZNNK11ruI4nWw1tz7PjVV4XyFaEwkxJ2YS0QKxrrk3BXY7e/MwBFPfLedWYZDb81pZ/ZeiyYsnpDa8LlIQvcbpsJ2Gvbv0lXxxWHwRBSqLr4+lRpxKI7yYli3SO4u2GhKPXc1OXjCiBribKgCOW;m78RiFYQJuZeyH5Pk6vsmw=="
+secured: "s9yJyvj5wZeHbYTH4nMBHC5muqppgn6pLViNYoSpOiIT+fjkwfsJY3IZLwi0sHrkifaYcDdoM7g+CZkX2Gli50clAbg+Hb3Yt5PTQ4hBHMxzZBT0zVkb/a8RhYu96Dhr8wu+8hWT5cXGrxuFydVM8e2qWjJLnjSesKnDExBrI1z5ol8SDitt8iDw3ANk6/3W91E0O0rAtYNeUY0MXEYMZ55lWXRvToKuzvLMPIE2AJjbh8hc8WcoBVWqRLYf6SAA7zm5ESQLgdbiOKVEBxo2MiKJBpY1/LVhGc7yzhB8WcwnjJQveU6LU7tmTwyP/3rh;U4TnP7cnlk2IL+NP/KCfrQ=="
 ---
 

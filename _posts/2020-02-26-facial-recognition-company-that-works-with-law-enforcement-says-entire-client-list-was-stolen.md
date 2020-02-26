@@ -2,8 +2,8 @@
 category: news
 title: "Facial-Recognition Company That Works With Law Enforcement Says Entire Client List Was Stolen"
 excerpt: "Political Reporter A facial-recognition company that contracts with powerful law-enforcement agencies just reported that an intruder stole its entire client list, according to a notification the company sent to its customers. In the notification, which The Daily Beast reviewed, the startup Clearview AI disclosed to its customers that an ..."
-publishedDateTime: 2020-02-26T14:57:00Z
-webUrl: "https://www.thedailybeast.com/clearview-ai-facial-recognition-company-that-works-with-law-enforcement-says-entire-client-list-was-stolen?source=articles&via=rss"
+publishedDateTime: 2020-02-26T14:59:00Z
+webUrl: "https://www.thedailybeast.com/clearview-ai-facial-recognition-company-that-works-with-law-enforcement-says-entire-client-list-was-stolen"
 type: article
 quality: 0
 heat: 0
@@ -17,6 +17,6 @@ topics:
   - AI
   - Computer Vision
 
-secured: "pKZqPZxWAYKtgCnGujAbX18fsukMUxH/eK9Nm4/QvwM66CVagbNoSrPTmKeJtvR6hS2/1O9Oe5aWy2KOC5bqfZHdkZbZXiVlIPb5CZxOddGY/SM+Y9x/+sHCiUAoloNbQ6+dppdF0GeBRaqF+OS9/m6+V7ioJJFqYmZ/f2VoTgZCDA5I8RRX06YeUQCw3TeOZ4xLDVOKEkkMWfWkFVK2w8m4lJWIzEjAeiFtuWkZpuG4EtCRVKY1VBwa9b5PWLuA0FEe7UTRiCO1E66QyUBy48+yeXbIA+YmfHWaJyndPimTVNOu6YIWNjVc16wbeKEZ89l7Pm4kDQ09+AEoaqDprobi3NI2ZgHkE+rE1wU4dSnJqFIxuU7Pu5xKVjMvg8a31MbDpLtIF+klZprgDDFjuPB4Xg9GZP+C10F1SN9UeC2X63+WGlP+vrpm/TvHcVXiTfYgiH4u0EzMTcz6n27vz31eaQ2KHA3hoTdwarxOjQs=;EbWXuijuCL2E4zBf1ZpvkQ=="
+secured: "MlUzYjT2oRv3TrrdWaRqicE9LjcGs2iBd3ToW/XsiM5wRvMwrTBSsCfz3VBATl+PfgyCe/jJZv6avMgvCieH9OB8h6PaEy7cA1YaqJ1B0PAdMUyYx0EsW4AbPOIgI3/07Y/16s5ESo3Hn+M2/bwoLD2f16OeiSOecfLaljtNDsB2Ra+v+s30ejau/MG5IuOweEaqmEJvR0Da7ElQwFDKgP6IkuOi/ACI691P6bP608VIkdRIrs5pdtqN46Woj2Bccfx7ZIv5UawvvkdDIq1EoISvt3nLu37ETB3BqAB1Jr1u9U1IHz2OOq5T6mn47c0vHnThD80SnUH9Htj7QXZ+AMdA/TJgCo3wnJWDRMZ+zHXOB9QMT2Ua5KjkceaBAzw8XRncDEvdGS4l8XmsCkBDGGixsy2QVGIroEsGtaJokKK8JawkhR0wA49hS/9p9NcWb4s5CQU/f7G0IYPd/5i7rIvvvrEGoIUOJr+d1z+1Gk0=;GGtp+k+Fp1iLERylreHvWg=="
 ---
 

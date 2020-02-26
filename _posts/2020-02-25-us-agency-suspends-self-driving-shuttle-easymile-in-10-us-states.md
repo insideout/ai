@@ -43,6 +43,21 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200225&t=2&i=1495203233&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG1O1NE"
         width: 817
         height: 545
+  - title: "Regulators suspend EasyMile’s self-driving shuttle trial after minor accident"
+    excerpt: "When it comes to accidents involving self-driving vehicles, the rules seem to be fuzzy, and recent actions by U.S. regulators aren’t likely to clarify things. Case in point: On Tuesday, an autonomous shuttle built by France’s EasyMile and being tested in Columbus, Ohio, activated its emergency breaking system, causing a passenger to slide ..."
+    publishedDateTime: 2020-02-26T15:30:00Z
+    webUrl: "https://venturebeat.com/2020/02/26/regulators-suspend-easymiles-self-driving-shuttle-trial-after-minor-accident/"
+    ampWebUrl: "https://venturebeat.com/2020/02/26/regulators-suspend-easymiles-self-driving-shuttle-trial-after-minor-accident/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/26/regulators-suspend-easymiles-self-driving-shuttle-trial-after-minor-accident/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 71
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/02/3-EZ10-e1582721124443.jpg?fit=1200%2C600&strip=all"
+        width: 1200
+        height: 600
   - title: "Self-driving shuttle services halted after sudden stop causes injury"
     excerpt: "Sixteen self-driving shuttles operated by French firm EasyMile in 10 U.S. states have been ordered to temporarily halt their passenger services after one of them suddenly and unexpectedly activated its brakes, resulting in injuries to one of the riders. As a precautionary measure, the National Highway Traffic Safety Administration (NHTSA ..."
     publishedDateTime: 2020-02-26T06:45:00Z

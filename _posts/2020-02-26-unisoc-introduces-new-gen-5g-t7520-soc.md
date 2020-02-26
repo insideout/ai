@@ -25,6 +25,17 @@ images:
     height: 425
     title: "UNISOC introduces new-gen 5G T7520 SoC"
 
+related:
+  - title: "UNISOC Launches New-Gen 5G SoC T7520"
+    excerpt: "Using cutting-edge process technology, T7520 enables an optimized 5G experience with substantially enhanced AI computing and multimedia imaging processing capabilities ... T7520 has four Arm Cortex-A76 cores and four Arm Cortex-A55 cores with an Arm Mali-G57 based GPU, providing an incredible streaming and gaming experience at 5G speeds."
+    publishedDateTime: 2020-02-26T15:02:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/unisoc-launches-new-gen-5g-soc-t7520-1028941941"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
+
 secured: "tpKUGhovWcQW8rBOGVKHj62vOztJqV/XBb6wSfiyO8+x2ubuNDJtfm4G3bVEVBZfyND/YvDMfWAkMeaajOxQwMBoZrAhH7PG6Ap+02IN2l+Kd6olqzvAm+0pxI7FLEKS41kA46Y980qDZHskOFf5RNH69nq4X23pwLn7Dy2mo3ZSmj6wOQ29ihMuRD0/Ssd/3vWta0lMKZj087NMTIdXBBdWoA3xCQzcDyKcijpKTXxPOGR2wY/FnZPOaYbMYxWOtnkKRpxE+ll6Cq/eR5k0vfXEwE5AMSZPor2w1gRKT2HLI3wCiVAKbmo/VnqZahTm;phBdWMTqVc3pNxuXXiKr9A=="
 ---
 
