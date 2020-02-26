@@ -115,6 +115,19 @@ related:
       - url: "https://www.autonews.com/s3/files/styles/800x600/public/40MOYEBEEP-MAIN_i.jpg"
         width: 800
         height: 600
+  - title: "US agency slams brakes on self-driving EasyMile shuttles after passenger injury"
+    excerpt: "EasyMile said the deployment in Columbus that started earlier this month was the first public self-driving shuttle in a residential area. Two EasyMile shuttles had been servicing a 2.9-mile (4.7 km) route at speeds of up to 25 miles per hour (40 kph), the company said. EasyMile said a human operator rides aboard each vehicle with access to ..."
+    publishedDateTime: 2020-02-26T03:35:00Z
+    webUrl: "https://www.channelnewsasia.com/news/business/us-agency-slams-brakes-on-self-driving-easymile-shuttles-after-passenger-injury-12471398"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 20
+    images:
+      - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/12471394/16x9/991/557/ffaf1e1a6d22eacd05e843a6ce5201d7/Al/file-photo--an-easymile-ez10-shared-autonomous-vehicle-is-seen-during-a-deployment-demonstration-at-bishop-ranch-1.jpg"
+        width: 991
+        height: 557
   - title: "Columbus halts self-driving shuttle pilot program following sudden stop; NHTSA steps in"
     excerpt: "A passenger falling aboard a self-driving shuttle as part of a pilot program in Columbus has put the project on hold less than three weeks after it began. The daily shuttle service in the Linden neighborhood in Columbus, Ohio, was halted after one of the pilot's vehicles made a sudden stop around noon Thursday, Feb. 20. One passenger fell from ..."
     publishedDateTime: 2020-02-25T20:00:00Z

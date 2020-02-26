@@ -1,27 +1,27 @@
 ---
 category: news
 title: "ROYBI Acquires KidSense.AI, The Leading Speech Recognition AI Platform"
-excerpt: "ROYBI Becomes The Global Leader In Multi-Language Compliant Cloud-Based and Offline Real-Time Speech Recognition For Children MOUNTAIN VIEW, Calif.–(BUSINESS WIRE)–February 25, 2020– ROYBI ..."
-publishedDateTime: 2020-02-25T15:26:00Z
-webUrl: "https://venturebeat.com/2020/02/25/roybi-acquires-kidsense-ai-the-leading-speech-recognition-ai-platform/"
-ampWebUrl: "https://venturebeat.com/2020/02/25/roybi-acquires-kidsense-ai-the-leading-speech-recognition-ai-platform/amp/"
-cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/25/roybi-acquires-kidsense-ai-the-leading-speech-recognition-ai-platform/amp/"
+excerpt: "ROYBI INC, the creator of the Roybi Robot-the world's first AI-powered smart toy that teaches languages and basic STEM skills-has acquired KidSense.AI, the revolutionary technology in children's embedded automatic speech recognition (ASR) and Edge-AI. KidSense.AI, which initially debuted in 2018 at TechCrunch Disrupt, utilizes the fundametals ..."
+publishedDateTime: 2020-02-25T17:29:00Z
+webUrl: "https://www.tmcnet.com/usubmit/-roybi-acquires-kidsenseai-leading-speech-recognition-ai-platform-/2020/02/25/9103933.htm"
 type: article
-quality: 84
-heat: 104
-published: true
+quality: 54
+heat: -1
+published: false
 
 provider:
-  name: VentureBeat
-  domain: venturebeat.com
-  images:
-    - url: "/assets/images/organizations/venturebeat.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
   - Natural Language Processing
+
+images:
+  - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
+    width: 252
+    height: 335
+    title: "ROYBI Acquires KidSense.AI, The Leading Speech Recognition AI Platform"
 
 related:
   - title: "Local AI firm builds speech recognition for Kinyarwanda"
@@ -51,6 +51,6 @@ related:
         width: 1280
         height: 853
 
-secured: "k8I73wgcr6MFM0ayjXfOD1suoSYIQP2sS6bPjTrV9ZSW/LPMp3g/COsuwsIAucqAfHVZtKg69sjyHibFM2c6Mj6CQCa36kRS6icZWZeMfYKsVjBPdq/KFil2taNobcRxcDiYwhV4rLGlN1izEOxwfrrlCPhW6Zuks0CX0zSr3yCiCW0ZYFaPTET+TBZIETJ7oqTuF1fxqswivJHRcvIkBejmcPhT3DY4JJC8k/rgROCTYqTlHS3tFlvqpaReRWV/DqB9bA/qebhTlWfC5I5OOWPDpCgTTsYj06GQFy3+pj66sRwG52bwXx9drWyI+k+3;ty1WPk6RhbHaApq6EceKUA=="
+secured: "Ze1oYHQ40dij7mWSd6TeuNlf8ivIytkRdm0GX8kmbudh4SYS72IoGFDp9qkvh1tiyBhRZx9nymMUWNz0XHGHtCSsZIVApgrLQ01xhgCDwawZtxvNhuZK+2g18RQRtxuwBhxf1WSYaTbyqjdxvIcn2SuwPzb9Gj28PE/lWgHG+lIhD51JvUuDFvWxHdHBIPETRyA7wvvmVg4F9I0sABRyzvtqptA+4MzICpYDAT2+bFrqriQog52IHNoHixQI8Tu60BFlfEA5LWYVuWPrszXYzdFkFXzr9ICKKURuHeGdnLSE1EnJyZhxEnqZYz0Qn7bk;C6wXRR1SWjsl1Kxzenh/AA=="
 ---
 

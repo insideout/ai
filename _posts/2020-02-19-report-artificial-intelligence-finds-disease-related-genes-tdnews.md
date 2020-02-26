@@ -8,7 +8,7 @@ ampWebUrl: "https://www.tunisiesoir.com/science/report-artificial-intelligence-f
 cdnAmpWebUrl: "https://www-tunisiesoir-com.cdn.ampproject.org/c/s/www.tunisiesoir.com/science/report-artificial-intelligence-finds-disease-related-genes-tdnews-19906-2020/amp/"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -61,6 +61,19 @@ related:
       - url: "https://www.eurekalert.org/multimedia/pub/web/224234_web.jpg"
         width: 1440
         height: 959
+  - title: "Artificial Intelligence Used to Find Disease-related Genes"
+    excerpt: "The platform does this on the basis of common friends. In this fashion, scientists attempted to build maps of biological networks based on how the different proteins and genes interact with each other. The researchers used artificial neural network. These artificial networks are trained by experimental data, which means, in a network ..."
+    publishedDateTime: 2020-02-26T02:55:00Z
+    webUrl: "https://www.newsclick.in/Artificial-intelligence-used-find-disease-related-genes"
+    type: article
+    provider:
+      name: Newsclick
+      domain: newsclick.in
+    quality: 39
+    images:
+      - url: "https://www.newsclick.in/sites/default/files/2020-02/genes3_0.png"
+        width: 728
+        height: 350
 
 secured: "5lzAw8V330JpTZ6WLViPPO04fsa+iUiiCDXXBiC/vfLltYBf2+tE9s5upzxFjphJqjAjDwcuX36TPCx54oZoV53f3KYBSXYPIHvl6RdzDtVzeyPTJQ6Ip8pUTPmDwcW4K1P9r3QYWjHhEYHFW55Cel68fB4Ns7dsQcpbbMJ9lBwa1454epnKC0ErZyb9zpvNDYRjoSfCIbyii0JWkI34+45gJz12F0vEFoqhrqJdWPzuMr+81olzYNw8tFcImGeuL/2stUPC9gpojXark0YwC6+ArQ4YU48JfSCH8prCZNXz2kBjhgjifSpSmxVqDhwlHGb1w3Rept39DIRcv5cSyYuHEpqAgSFCNw6Z/3gA96UXYSKmcKgljO946a12sHASgjtHxS9ER9rY4cPy2jZiIIW8t+b4vAB5kM+Hb75wUtOPR47dfjoTXaosp1BupKXxEq9j7qXEBB2ThAoapj5NHe3TQO0tESJlh6CnPTQb+7s=;BKQA87e4w9WkGsla8WbtkQ=="
 ---

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2020/02/20/gartners-2020-m
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/02/20/gartners-2020-magic-quadrant-for-data-science-and-machine-learning-platforms-has-many-surprises/amp/"
 type: article
 quality: 80
-heat: 140
+heat: 150
 published: true
 
 provider:
@@ -32,6 +32,17 @@ images:
     title: "Gartner’s 2020 Magic Quadrant For Data Science And Machine Learning Platforms Has Many Surprises"
 
 related:
+  - title: "Databricks named a Gartner Magic Quadrant Leader in Data Science and Machine Learning Platforms"
+    excerpt: "Gartner has just released the 2020 Magic Quadrant for Data Science and Machine Learning Platforms and Databricks was named a Leader. This is the third year in a row that Gartner has recognized Databricks in this Magic Quadrant. Gartner evaluated 17 vendors on ability to execute and completeness of vision. Download your copy of this ..."
+    publishedDateTime: 2020-02-26T02:13:00Z
+    webUrl: "https://www.techrepublic.com/resource-library/whitepapers/databricks-named-a-gartner-magic-quadrant-leader-in-data-science-and-machine-learning-platforms/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/resource-library/whitepapers/databricks-named-a-gartner-magic-quadrant-leader-in-data-science-and-machine-learning-platforms/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/resource-library/whitepapers/databricks-named-a-gartner-magic-quadrant-leader-in-data-science-and-machine-learning-platforms/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 57
   - title: "2020 Gartner Magic Quadrant for Data Science and Machine Learning Platforms"
     excerpt: "Databricks is proud to announce that Gartner has named us a Leader in its 2020 Magic Quadrant for Data Science and Machine Learning Platforms. This is the third year in a row that Gartner has recognized Databricks in this Magic Quadrant. Gartner evaluated 17 vendors on the ability to execute and completeness of vision. Download your copy of ..."
     publishedDateTime: 2020-02-19T19:41:00Z

@@ -2,42 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_posts/2020-02-11-3-big-trends-about-the-future-of-work-every-leader-should-know-about.md",
-      "title": "3 Big Trends About the Future of Work Every Leader Should Know About",
-      "excerpt": "For 2020, she has identified three issues that \"require immediate and intentional action\" if organizations want to thrive in the future of work. 1. Overlooked talent in people with disabilities and older workers. \"The United States has a jobs surplus of more than one million open positions, and there are record-high labor shortages across 12 of ...",
-      "heat": 122,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.inc.com/marcel-schwantes/3-big-trends-about-future-of-work-every-leader-should-know-about.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-11T02:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inc",
-        "domain": "inc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.incimages.com/uploaded_files/image/970x450/getty_867341882_412451.jpg",
-          "width": 970,
-          "height": 450,
-          "title": "3 Big Trends About the Future of Work Every Leader Should Know About",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-11-ai-and-automation-together-forever.md",
       "title": "AI And Automation: Together Forever?",
       "excerpt": "AI and automation are particularly intertwined in robotics, supplying workforce-enhancing solutions that not only complete repetitive tasks but also support and improve decision-making processes.",
@@ -123,133 +87,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-11-amds-new-arcturus-gpu-could-be-super-efficient-but-probably-wont-trouble-nvidia.md",
-      "title": "AMD’s new Arcturus GPU could be super-efficient – but probably won’t trouble Nvidia",
-      "excerpt": "... reckons it can win the high-end GPU battle – and dethrone Nvidia These are all the best graphics cards of 2020 Remember this is a GPU aimed at data center and heavyweight compute usage – the likes of AI applications – but seemingly we’re looking at something of a beast of a card with a 1,090MHz base clock and 1,333MHz boost, with ...",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techradar.com/in/news/amds-new-arcturus-gpu-could-be-super-efficient-but-probably-wont-trouble-nvidia",
-      "ampWebUrl": "https://www.techradar.com/in/amp/news/amds-new-arcturus-gpu-could-be-super-efficient-but-probably-wont-trouble-nvidia",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/amds-new-arcturus-gpu-could-be-super-efficient-but-probably-wont-trouble-nvidia",
-      "publishedDateTime": "2020-02-11T03:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/WbcyGEkXqJLgzVDDVsHBc7-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "AMD’s new Arcturus GPU could be super-efficient – but probably won’t trouble Nvidia",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-11-aptivs-self-driving-cars-have-given-100000-paid-rides-on-the-lyft-app.md",
-      "title": "Aptiv’s self-driving cars have given 100,000 paid rides on the Lyft app",
-      "excerpt": "What started out as a temporary pilot project to test a robotaxi service in Las Vegas has turned into a multi-year partnership between self-driving software company Aptiv and Lyft and a new milestone that suggests the operation is ramping up. The companies announced Tuesday that they’ve given 100,000 paid rides in Aptiv’s self-driving ...",
-      "heat": 259,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/02/11/aptivs-self-driving-cars-have-given-100000-paid-rides-on-the-lyft-app/",
-      "ampWebUrl": "https://techcrunch.com/2020/02/11/aptivs-self-driving-cars-have-given-100000-paid-rides-on-the-lyft-app/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/11/aptivs-self-driving-cars-have-given-100000-paid-rides-on-the-lyft-app/amp/",
-      "publishedDateTime": "2020-02-11T03:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/02/aptiv-self-driving-car-technical-center.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": "Aptiv’s self-driving cars have given 100,000 paid rides on the Lyft app",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-11-arm-targets-iot-with-new-machine-learning-ip-processors.md",
-      "title": "Arm targets IoT with new Machine Learning IP, processors",
-      "excerpt": "The company added new machine learning (ML) IP, a new Cortex processor and neural processing unit (NPU) to its AI platform. In a statement, Arm said the combination of its latest IP with a related set of tools would provide hardware and software developers with more options for innovation when delivering on-device ML, while lowering overall ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.mobileworldlive.com/featured-content/devices-home-banner/arm-targets-iot-with-new-machine-learning-ip-processors/",
-      "ampWebUrl": "https://www.mobileworldlive.com/featured-content/devices-home-banner/arm-targets-iot-with-new-machine-learning-ip-processors/amp/",
-      "cdnAmpWebUrl": "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/devices-home-banner/arm-targets-iot-with-new-machine-learning-ip-processors/amp/",
-      "publishedDateTime": "2020-02-11T02:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mobile World Live",
-        "domain": "mobileworldlive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i0.wp.com/www.mobileworldlive.com/wp-content/uploads/2020/01/London-IoT.png?fit=650%2C400&ssl=1",
-          "width": 650,
-          "height": 400,
-          "title": "Arm targets IoT with new Machine Learning IP, processors",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     },
     {
@@ -410,43 +247,6 @@
       ]
     },
     {
-      "path": "_posts/2020-02-11-facebook-acquires-third-ai-startup-in-uk-for-40m.md",
-      "title": "Facebook Acquires Third AI Startup In UK For $40M",
-      "excerpt": "Facebook acquires a new AI startup in Deeptide Ltd. The deal went almost unnoticed save for the blog post of Deeptide's founder back in December There was no disclosed acquisition cost but sources speculates it to be $40 million Facebook's \"acquire and conquer\" strategy has landed it another startup to boost its AI game.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.ibtimes.com/facebook-acquires-third-ai-startup-uk-40m-2919901",
-      "ampWebUrl": "https://www.ibtimes.com/facebook-acquires-third-ai-startup-uk-40m-2919901?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/facebook-acquires-third-ai-startup-uk-40m-2919901?amp=1",
-      "publishedDateTime": "2020-02-11T03:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/01/28/facebook-reports-it-is-closer-to-setting-up.jpg",
-          "width": 1024,
-          "height": 682,
-          "title": "Facebook Acquires Third AI Startup In UK For $40M",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-11-ibm-unveils-new-ai-model-to-predict-potentially-harmful-drug-to-drug-interactions.md",
       "title": "IBM unveils new AI model to predict potentially harmful drug-to-drug interactions",
       "excerpt": "The work is being highlighted at this week's AAAI-20 Conference in New York City. IBM this week unveiled new research on how an artificial intelligence (AI) model can help better predict drug-to-drug interactions (DDIs). Researchers from the MIT-IBM Watson AI Lab, Harvard School of Public Health, Georgia Institute of Technology, and IQVIA have ...",
@@ -583,51 +383,6 @@
       ]
     },
     {
-      "path": "_posts/2020-02-11-market-updates-for-2020-ml-ai-industry-will-poised-for-strong-global-growth.md",
-      "title": "Market Updates for 2020 ML AI Industry will Poised for strong Global Growth",
-      "excerpt": "The Global ML AI Market report provides information by Top Players, Geography, End users, Applications, Competitor analysis, Sales, Revenue, Price, Gross Margin, Market Share, Import-Export, Trends, and Forecast.",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/market-updates-for-2020-ml-ai-industry-will-poised-for-strong-global-growth-2020-02-11",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-11T02:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Market Updates for 2020 ML AI Industry will Poised for strong Global Growth",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-11-mcafee-cto-how-ai-is-changing-both-cybersecurity-and-cyberattacks.md",
       "title": "McAfee CTO: How AI is changing both cybersecurity and cyberattacks",
       "excerpt": "McAfee, one of the big players in the industry, is adding AI capabilities to its own suite of tools that protect users from increasingly automated attacks. A whole wave of startups — like Israel ...",
@@ -754,51 +509,6 @@
       ]
     },
     {
-      "path": "_posts/2020-02-11-microsoft-sees-room-for-growth-opportunities-for-all-cloud-providers-in-uae.md",
-      "title": "Microsoft sees room for growth opportunities for all cloud providers in UAE",
-      "excerpt": "Migrate is moving applications to Azure, he said, while innovate is all about advanced workloads such as blockchain, AI, IoT and cloud-born workloads. There is a big skills gap in the industry due to the emerging technologies such as AI, blockchain, big data but Ozyucel believes that holding a two-day workshop will bridge the skills gap.",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techradar.com/news/microsoft-sees-room-for-growth-opportunities-for-all-cloud-providers-in-uae",
-      "ampWebUrl": "https://www.techradar.com/amp/news/microsoft-sees-room-for-growth-opportunities-for-all-cloud-providers-in-uae",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-sees-room-for-growth-opportunities-for-all-cloud-providers-in-uae",
-      "publishedDateTime": "2020-02-11T03:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/rmPaHMzsrrTyXPeTskDQRN-1200-80.jpg",
-          "width": 1058,
-          "height": 596,
-          "title": "Microsoft sees room for growth opportunities for all cloud providers in UAE",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-11-microsofts-ai-automatically-comments-on-video-clips.md",
       "title": "Microsoft’s AI automatically comments on video clips",
       "excerpt": "Generating live video captions with AI could bolster engagement on social media, or serve as a benchmark for the task of translating video to text. Preliminary work to this end has employed encoder-decoder models to generate comments, but they haven’t modeled the interaction between videos and comments explicitly, so they’ve tended to ...",
@@ -840,51 +550,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-11-mps-claim-ai-doesnt-need-a-new-regulator.md",
-      "title": "MPs claim AI 'doesn't need' a new regulator",
-      "excerpt": "There was more optimism for the work of the Office for AI, the Alan Turing Institute, the Centre for Data Ethics and Innovation (CDEI), and the Information Commissioner's Office (ICO) which he said were all \"commendable\". But on transparency and data bias, he called for practical guidance and enforceable regulation. \"We conclude that the UK ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/354744/mps-claim-ai-doesnt-need-a-new-regulator",
-      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/354744/mps-claim-ai-doesnt-need-a-new-regulator?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/354744/mps-claim-ai-doesnt-need-a-new-regulator?amp",
-      "publishedDateTime": "2020-02-11T02:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/v1581416015/itpro/2020/AiPublicSector.jpg",
-          "width": 1000,
-          "height": 528,
-          "title": "MPs claim AI 'doesn't need' a new regulator",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     },
     {
@@ -1938,7 +1603,7 @@
       "path": "_posts/2020-02-12-met-police-try-to-calm-tensions-as-live-facial-recognition-hits-london.md",
       "title": "Met Police try to calm tensions as live facial recognition hits London",
       "excerpt": "This is the Met Police’s first live deployment of facial recognition technology in London, following 10 trials around the city since 2016 and months of public debate about the use of the controversial biometric software on the public. The rollout comes in the wake of similar deployments in countries including China, Brazil, India and Wales.",
-      "heat": 159,
+      "heat": 149,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.ft.com/content/db8bfc3c-4cf4-11ea-95a0-43d18ec715f5",
@@ -2122,6 +1787,362 @@
           "width": 1200,
           "height": 800,
           "title": "The Future Of Blockchain: Fintech 50 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-12-this-eye-tracking-system-uses-ai-to-diagnose-multiple-sclerosis.md",
+      "title": "This eye-tracking system uses AI to diagnose multiple sclerosis",
+      "excerpt": "Now, C. Light Technologies, a neurotech and AI company that grew out of the Berkeley Skydeck accelerator, wants to help doctors diagnose neurological conditions with more speed and precision. The company has developed an eye-tracking technology paired with machine learning that can be used to diagnose multiple sclerosis (MS). Patients simply ...",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/2020/02/12/eye-tracking-ai-spots-mulitple-sclerosis/",
+      "ampWebUrl": "https://www.engadget.com/amp/2020/02/12/eye-tracking-ai-spots-mulitple-sclerosis/",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/12/eye-tracking-ai-spots-mulitple-sclerosis/",
+      "publishedDateTime": "2020-02-12T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D4752%252C2969%252C478%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C999%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-02%252F2bf14030-49c4-11ea-bd12-51dd6eb02117%26client%3Da1acac3e1b3290917d92%26signature%3Dc06466b4199d3f7b3a513f29e3fcc3a88a4b1399&client=amp-blogside-v2&signature=6405a5ad9aa4e773b6077a09463989cd83fdcb9b",
+          "width": 600,
+          "height": 350,
+          "title": "This eye-tracking system uses AI to diagnose multiple sclerosis",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-12-this-startup-is-building-infrastructure-for-the-first-factory-in-space.md",
+      "title": "This Startup Is Building Infrastructure For The First Factory In Space",
+      "excerpt": "In the quest to build bigger things in space, one Colorado-based company is readying for an epic construction demonstration mission. Blue Canyon Technologies will provide the spacecraft vehicle infrastructure supporting a “factory” that will 3D-print solar arrays in space.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/elizabethhowell1/2020/02/12/employee-owned-space-company-assists-with-assembling-stuff-in-orbit/",
+      "ampWebUrl": "https://www.forbes.com/sites/elizabethhowell1/2020/02/12/employee-owned-space-company-assists-with-assembling-stuff-in-orbit/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/elizabethhowell1/2020/02/12/employee-owned-space-company-assists-with-assembling-stuff-in-orbit/amp/",
+      "publishedDateTime": "2020-02-12T08:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e43fce9f133f400076c4041%2F0x0.jpg",
+          "width": 1200,
+          "height": 778,
+          "title": "This Startup Is Building Infrastructure For The First Factory In Space",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-12-uk-vc-firm-focused-on-artificial-intelligence-expands-to-southeast-asia.md",
+      "title": "U.K. VC Firm Focused on Artificial Intelligence Expands to Southeast Asia",
+      "excerpt": "Skymind Global Ventures, a venture capital firm that invests in artificial intelligence companies, on Wednesday launched an $800 million fund and said it would expand to Southeast Asia region. A significant portion of the $800 million fund will be used to invest in Southeast Asian AI companies, the company said in a statement to the press.",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.entrepreneur.com/article/346265",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/346265",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/346265",
+      "publishedDateTime": "2020-02-12T04:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/20170107081833-shutterstock-539711077.jpeg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": "U.K. VC Firm Focused on Artificial Intelligence Expands to Southeast Asia",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-12-why-clearview-ai-is-a-threat-to-us-all.md",
+      "title": "Why Clearview AI is a threat to us all",
+      "excerpt": "The surveillance system offers police unprecedented surveillance power. When London's Metropolitan Police Department announced its decision to adopt the controversial and intrusive ClearView AI surveillance system at the end of January, a global cacophony of protest erupted. Concerns, fear and trepidation surrounding facial recognition ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/2020/02/12/clearview-ai-police-surveillance-explained/",
+      "ampWebUrl": "https://www.engadget.com/amp/2020/02/12/clearview-ai-police-surveillance-explained/",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/12/clearview-ai-police-surveillance-explained/",
+      "publishedDateTime": "2020-02-12T07:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D4860%252C3281%252C0%252C496%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1080%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-02%252Fe54aedf0-4c27-11ea-a9fe-866995234731%26client%3Da1acac3e1b3290917d92%26signature%3D391ffea25021c6719cf6fee9e9c0546ae4d25dff&client=amp-blogside-v2&signature=8eb6abcd4b8196a3f78f1a49f795c0cd964de258",
+          "width": 600,
+          "height": 350,
+          "title": "Why Clearview AI is a threat to us all",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-13-92-of-tech-insiders-have-a-strong-appetite-for-ai.md",
+      "title": "92% of tech insiders have a strong appetite for AI",
+      "excerpt": "are in favor of some level of government involvement in AI. Many organizations are poised for that push. Ethics are an issue that can't be ignored, either, and 88% of the tech insiders say companies need to implement an AI ethics policy to help govern AI work. There are some barriers to furthering the adoption of AI, but business insiders vow ...",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/92-of-tech-insiders-have-a-strong-appetite-for-ai/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/92-of-tech-insiders-have-a-strong-appetite-for-ai/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/92-of-tech-insiders-have-a-strong-appetite-for-ai/",
+      "publishedDateTime": "2020-02-13T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/02/12/e489d2ed-5267-48e2-9d94-fdc40d8903b5/resize/1200x/0d790acc1783bdab873249f6ba95689f/ai-guy-holding-tablet.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "92% of tech insiders have a strong appetite for AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-13-ai-in-telecommunication-market-outlook-big-expectations-to-watch-for.md",
+      "title": "AI in Telecommunication Market Outlook: Big Expectations to Watch For",
+      "excerpt": "The Latest research study released by HTF MI \"Global AI in Telecommunication Market\" with 100+ pages of analysis on business Strategy taken up by key and emerging industry players and delivers know how of the current market development,",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-telecommunication-market-outlook-big-expectations-to-watch-for-2020-02-13",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-13T07:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "AI in Telecommunication Market Outlook: Big Expectations to Watch For",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-13-ai-makes-it-easy-for-hr-to-identify-at-risk-employees.md",
+      "title": "AI makes it easy for HR to identify at-risk employees",
+      "excerpt": "Steve Beauchamp, CEO of Paylocity, sits down with Tonya Hall to learn more about how AI is making it easier for HR staff to identify at-risk employees in order to improve employee engagement.",
+      "heat": 167,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/video/ai-makes-it-easy-for-hr-to-identify-at-risk-employees/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-13T06:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/02/13/4e4cd8eb-2afd-473d-975b-c13946cf39b2/thumbnail/770x578/094ffc6030460ffa872f164fae6023d2/thumb.jpg",
+          "width": 770,
+          "height": 578,
+          "title": "AI makes it easy for HR to identify at-risk employees",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-13-ai-tool-can-now-update-outdated-wikipedia-content.md",
+      "title": "AI tool can now update outdated Wikipedia content",
+      "excerpt": "Researchers at MIT have developed a system that can automatically update outdated and factually inconsistent data in Wikipedia articles. The automated tool ... structured sentences and relevant Wikipedia sentences, to train the AI system. As a result, it is now able to identify the redundant information then rewrite it without much human ...",
+      "heat": 197,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techradar.com/in/news/ai-tool-can-now-update-outdated-wikipedia-content",
+      "ampWebUrl": "https://www.techradar.com/in/amp/news/ai-tool-can-now-update-outdated-wikipedia-content",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/ai-tool-can-now-update-outdated-wikipedia-content",
+      "publishedDateTime": "2020-02-13T06:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/wfYVuuRm4LZTk8h6thKDYN-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": "AI tool can now update outdated Wikipedia content",
           "attribution": null
         }
       ],

@@ -7,7 +7,7 @@ webUrl: "https://www.marketwatch.com/story/the-top-5-technologies-that-will-chan
 ampWebUrl: "https://www.marketwatch.com/amp/story/guid/626A6AC2-5713-11EA-BF64-5AC3A6D77C0D"
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/guid/626A6AC2-5713-11EA-BF64-5AC3A6D77C0D"
 type: article
-quality: 73
+quality: 75
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - Google AI
 
 images:
   - url: "https://s.marketwatch.com/public/resources/images/MW-IA016_0220_b_ZH_20200210155254.jpg"
@@ -217,6 +218,6 @@ related:
       domain: marketwatch.com
     quality: 29
 
-secured: "3gvK9RW7LZDEkrwkaC02s3UXv9QdGAmAXmgWDnEv0xYeMRmIT4jbMsLN6eqjE1dFEr1IOnT09jR8Vx2XqM873QArEAswH1HiS+oswrBs5tugQJGm/ec4EI2RbDqiYvCDPixCWPGB2qUI1a+rus7OIAw+0HSsr4V2hxpoGZVLkDhKqymGUzjMedahmOFR9901B/COWIrPrkz1sB3zRrvbb1VW7aau3OjcaknmlluKBGF1jYV3+PXBVxi/ACEvR7ZFmbLhnGmFaOHNfxywXpwjCFmC+pL5UFnwHNbb+Rl6wY4Fz0bwXHI2fFS063Qn8sLw;VhcnvoX35H4e1aAMAr9bQg=="
+secured: "7Pxc5yqlFno1Z/LjOP97u1GNHC/KuESGYcikCU9N03BMvpajRgyvtz6994Qj0tgRMz+3fqupKLTUTaLq4Ii4sHRIGjqlDXLKRAK+/2INLzLAahQpWBwCvMxEbjtOTA+WVQ3XqxWTNrxk1gSVcx0zsmy30c3Ff2u3TLLBuskpEz4HGKZwnq3tOhu1LuLc4eGbFFUFe8jVlU++36G8TbLsvdXBT3FVWSLmaVjxae/OU4SGG3gxqTZApRy4YDs/17wJlMeFqvXspSe14kpVuNqLGCiEpzZBt470TompeOq1sQX6h9TMPSe5Q1QsHPMBxsvMSrGRyogw6S7ieW27ItebWw6MCT3S/84DhSk6sWoBEjYeeP5g/wUM296QBAPyEGTmpuHPQQNE3R5BIyr8y+SV24ec85H1LMlwZolAfZNrFfBWUOfhIk7o6yIuzu0U9oZtAeJQuyHLqqOCXUb3xVaJ4w8K2g2XUykij7E/92xZNAE=;wieG3/Tv1QJvbAzv71BhyQ=="
 ---
 

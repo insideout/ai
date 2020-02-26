@@ -440,9 +440,9 @@ related:
       domain: law360.com
     quality: 39
   - title: "Port must operate facial recognition to control it"
-    excerpt: "Facial recognition technology is starting to appear in public places. Seattle's Port Commission is working on a policy to make sure it is used ethically. Now it is learning just how hard that will be. Help guide our reporting by submitting a topic, question, or one of your stories to our team. When is Seattle going to get an earthquake warning ..."
-    publishedDateTime: 2020-02-26T01:04:00Z
-    webUrl: "https://www.kuow.org/stories/port"
+    excerpt: "Facial recognition technology is starting to appear in public places. Seattle's Port Commission is working on a policy to make sure it is used ethically. Now it is learning just how hard that will be."
+    publishedDateTime: 2020-02-26T01:34:00Z
+    webUrl: "https://kuow.org/stories/port"
     type: article
     provider:
       name: KUOW

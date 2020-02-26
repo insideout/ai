@@ -8,7 +8,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN20J2N6"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN20J2N6"
 type: article
 quality: 74
-heat: 164
+heat: 175
 published: true
 
 provider:
@@ -110,6 +110,19 @@ related:
       - url: "https://www.autonews.com/s3/files/styles/800x600/public/40MOYEBEEP-MAIN_i.jpg"
         width: 800
         height: 600
+  - title: "US agency slams brakes on self-driving EasyMile shuttles after passenger injury"
+    excerpt: "EasyMile said the deployment in Columbus that started earlier this month was the first public self-driving shuttle in a residential area. Two EasyMile shuttles had been servicing a 2.9-mile (4.7 km) route at speeds of up to 25 miles per hour (40 kph), the company said. EasyMile said a human operator rides aboard each vehicle with access to ..."
+    publishedDateTime: 2020-02-26T03:35:00Z
+    webUrl: "https://www.channelnewsasia.com/news/business/us-agency-slams-brakes-on-self-driving-easymile-shuttles-after-passenger-injury-12471398"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 20
+    images:
+      - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/12471394/16x9/991/557/ffaf1e1a6d22eacd05e843a6ce5201d7/Al/file-photo--an-easymile-ez10-shared-autonomous-vehicle-is-seen-during-a-deployment-demonstration-at-bishop-ranch-1.jpg"
+        width: 991
+        height: 557
   - title: "U.S. agency slams brakes on self-driving EasyMile shuttles after passenger injury"
     excerpt: "EasyMile did not immediately comment. This month, the city of Columbus, Ohio, announced what EasyMile called the deployment of the first public self-driving shuttle in a residential area. Two EasyMile shuttles had been servicing a 2.9-mile (4.7 km )route at speeds of up to 25 miles (40 km) per hour, the company said. EasyMile said a human ..."
     publishedDateTime: 2020-02-25T23:20:00Z
@@ -148,6 +161,6 @@ related:
         width: 792
         height: 416
 
-secured: "G07c0rqv6Gb6FR1ZkaeqNS871XZheND6mWWypVKeXicW8OLLERb0ClMgFQz4+V46x8I5hOzjPnjBW3KGL8U8Ihi3xsaE1+UuYVJRpSd5pggjxQhLP/jI3SsBoJqZH9NJXMSA8qbm1+2R/Z5fvtjchhVlWzsoBU5WETF3QT1m0yYY8tmySfADgdbyFV5T0RfliqoEvjZO/kmKm7scb4BEdxTGRMsOE/uKlRzIy4FLrsYIGdrDe2KIlF6Nx34wVIyts4+WHV+vhn+IuXbPa7nujYrHBhDmSy1MkYgKiaQt/H3LuTnFr4j5SsfT97YTooqI;pnQOTwqtXKnzH8e44hWrTw=="
+secured: "t4y32RfknSvPYJkwlQl0eBQNF9mhfH+Xh5zWz44IZYERsEjZJB0paxgK8AbvklXqf2c9W8mukwk9C+h437xx1mkp+MYAK/GNNrSO+al3VCzx7EjIOX5NE8WNysdzdS5yaypgwHYIIWxBb8H0cFQGo7DJjscDZyhpO/smeNDrMJ/dj8NWqNCanBEv1HE7CV0boNRvlSGORL+844aUic7/jEs2jkThp6yU0cNtKQkFxWqnDfzbTiHSJ/osBmCcCUPrLwILKaFOzyQ3K5U4DzpqHLNADb9Ozt46Jqpe5Dz4rNMMh7JB8+m5kKb583NHouhoSjrsWwEDr8sB+6kkGfCWNGSM3F/VvcLtHD7YU2EfrDK4dA7uYV3EHp+vm2irbyvIEK+W0JXlwh7rrIc5Ztse0kdcUJOoaNIJJn1wKhoCgTlEPqK2xaH9+5MZqhZTyevY28/YmQSFpchF1ecIKBQi9GfMw9cBBPYcM2pPu/V/VXs=;qunDEo+l9VhVvY8uDBaIng=="
 ---
 

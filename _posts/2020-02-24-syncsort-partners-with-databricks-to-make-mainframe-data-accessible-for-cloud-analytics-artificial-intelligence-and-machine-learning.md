@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Syncsort Partners with Databricks to Make Mainframe Data Accessible for Cloud Analytics, Artificial Intelligence and Machine Learning"
-excerpt: "Enterprises can now leverage Syncsort Connect products to access, transform and deliver mainframe data to Delta Lake for advanced analytics, artificial intelligence (AI) and machine learning projects. Organizations rely on Databricks to process massive amounts of data in the cloud and power AI, machine learning and business insights."
-publishedDateTime: 2020-02-24T19:48:00Z
-webUrl: "https://www.tmcnet.com/usubmit/-syncsort-partners-with-databricks-make-mainframe-data-accessible-/2020/02/24/9102924.htm"
+excerpt: "Enterprises can now leverage Syncsort Connect products to access, transform and deliver mainframe data to Delta Lake for advanced analytics, artificial intelligence (AI) and machine learning projects ... connecting together different services to process new data and maintaining the connectivity with evolving data APIs across hundreds of ..."
+publishedDateTime: 2020-02-24T14:15:00Z
+webUrl: "https://www.financialbuzz.com/syncsort-partners-with-databricks-to-make-mainframe-data-accessible-for-cloud-analytics-artificial-intelligence-and-machine-learning/"
 type: article
-quality: 38
-heat: 38
+quality: 3
+heat: 3
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Financial Buzz
+  domain: financialbuzz.com
 
 topics:
   - AI
-  - Machine Learning
+  - AI in Finance
 
-images:
-  - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
-    width: 252
-    height: 335
-    title: "Syncsort Partners with Databricks to Make Mainframe Data Accessible for Cloud Analytics, Artificial Intelligence and Machine Learning"
-
-secured: "nxzVs/3Uumg7CcDSCJ2JSvHqfr37ZJx36piv/yPTGKUwsDT+GwR57WDLtVHGrKhFwlVgBSzHs7fg+j9C9OMXnWv3/B/N+dcqux1m0Az2MDrfh4IC6nhDD6UffdFp839LvDOFhuAoqyeHLh+SFD9zx27FD6PbK7IIat0VztXBjOnN7osYrgMkq5IUKeeOSF+WUaB5ilGM8zebaky2Ky5kvIX9aGEB9Mc9X70ZpaWilmHx5XM2m4A1qUQc7+t6FyBEhtIoexjk5eqEIs33PkvQSWeCE2Z22N3/KDxYMLXpyK8dHQgkdzS/Iur83GPMB93s;dDb9jv5Dxa5l4S65JfDpjA=="
+secured: "5LdFRP9oXkWuMPGX2E0IgPIp8652WhpD0xuw25XfNoa+qe8GXFesoAjdkewvLzmez3GBnGLlBjdlJsL7mztugE4KAC/yeM//itur0bsUYbo1PjEr8VouWWdyUjN1BOaGQcT5VlgTB8lUB08BymeO5rlFwm63NHhjhQELsAbhfAuP8A57C73Wiwy3x3Voad7JnY5GqzXa94E9BqitEDirs8J8ZE1M6S0l4wHH30f5EFh8VBMTAWgcJdEXuZYZjtctMwZpU84qAdqBkb1z0Ijkvph+anSkk3KlHb+eAZibnruOxif3ZNuYbElmtIsgZGvk;Zjzx91zZ0BxePM2mvNaCHA=="
 ---
 

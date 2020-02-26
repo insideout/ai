@@ -2,364 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_posts/2020-02-18-altruistic-hopes-for-ai-self-driving-car-firms-to-share-their-proprietary-tech-is-a-starry-eyed-dream.md",
-      "title": "Altruistic Hopes For AI Self-Driving Car Firms To Share Their Proprietary Tech Is A Starry-Eyed Dream",
-      "excerpt": "Can’t we all work together? This question is often brought up at conferences on AI self-driving cars. Why so? Well, it is noteworthy to realize that there are currently about 40,000 deaths each year in the United States due to car accidents and about 2.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/02/18/altruistic-hopes-for-ai-self-driving-car-firms-to-share-their-proprietary-tech-is-a-starry-eyed-dream/",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/02/18/altruistic-hopes-for-ai-self-driving-car-firms-to-share-their-proprietary-tech-is-a-starry-eyed-dream/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/02/18/altruistic-hopes-for-ai-self-driving-car-firms-to-share-their-proprietary-tech-is-a-starry-eyed-dream/amp/",
-      "publishedDateTime": "2020-02-18T05:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e41afbef133f400076c1a47%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6720%26cropY1%3D341%26cropY2%3D4121",
-          "width": 1200,
-          "height": 675,
-          "title": "Altruistic Hopes For AI Self-Driving Car Firms To Share Their Proprietary Tech Is A Starry-Eyed Dream",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-18-artificial-intelligence-ai-and-the-law-helping-lawyers-while-avoiding-biased-algorithms.md",
-      "title": "Artificial Intelligence (AI) And The Law: Helping Lawyers While Avoiding Biased Algorithms",
-      "excerpt": "Law is an avenue in which to test the integration between AI and people. Automation won’t be replacing the lawyer any time soon, but as AI evolves it will be able to increasingly assist the people in the industry,",
-      "heat": 102,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/davidteich/2020/02/18/artificial-intelligence-ai-and-the-law-helping-lawyers-while-avoiding-biased-algorithms/",
-      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2020/02/18/artificial-intelligence-ai-and-the-law-helping-lawyers-while-avoiding-biased-algorithms/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/02/18/artificial-intelligence-ai-and-the-law-helping-lawyers-while-avoiding-biased-algorithms/amp/",
-      "publishedDateTime": "2020-02-18T08:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e4c0c7b99d449000735353c%2F0x0.jpg",
-          "width": 876,
-          "height": 548,
-          "title": "Artificial Intelligence (AI) And The Law: Helping Lawyers While Avoiding Biased Algorithms",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-18-can-ai-and-rpa-transform-legacy-systems.md",
-      "title": "Can AI And RPA Transform Legacy Systems?",
-      "excerpt": "AI and RPA are often mentioned in the same sentence as ML and IoT; they are touted as magical solutions that will transform the way we live and work. For companies with massive legacy tech platforms,",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/02/18/can-ai-and-rpa-transform-legacy-systems/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/02/18/can-ai-and-rpa-transform-legacy-systems/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/02/18/can-ai-and-rpa-transform-legacy-systems/amp/",
-      "publishedDateTime": "2020-02-18T04:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x399/https://specials-images.forbesimg.com/dam/imageserve/1187105635/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 399,
-          "title": "Can AI And RPA Transform Legacy Systems?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-18-chinas-facial-recognition-giant-says-it-can-crack-masked-faces-during-the-coronavirus.md",
-      "title": "China’s facial-recognition giant says it can crack masked faces during the coronavirus",
-      "excerpt": "China’s SenseTime, the world’s most valuable AI startup, said earlier this month (link in Chinese) that it was rolling out a facial-recognition products that incorporates thermal imaging cameras to help spot people with elevated temperatures at building entrances and airport checkpoints, and send pop-up alerts to users of the software.",
-      "heat": 296,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://qz.com/1803737/chinas-facial-recognition-tech-can-crack-masked-faces-amid-coronavirus/",
-      "ampWebUrl": "https://qz.com/1803737/chinas-facial-recognition-tech-can-crack-masked-faces-amid-coronavirus/amp/",
-      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/1803737/chinas-facial-recognition-tech-can-crack-masked-faces-amid-coronavirus/amp/",
-      "publishedDateTime": "2020-02-18T01:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Quartz",
-        "domain": "qz.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/qz.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cms.qz.com/wp-content/uploads/2020/02/1581746326404096.png?w=1400&strip=all&quality=75",
-          "width": 875,
-          "height": 492,
-          "title": "China’s facial-recognition giant says it can crack masked faces during the coronavirus",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-18-cloud-computing-robotics-bonds-etf-industry-leaders-talk-2020s-top-themes.md",
-      "title": "Cloud computing, robotics, bonds: ETF industry leaders talk 2020's top themes",
-      "excerpt": "Inflows into exchange-traded funds are picking up steam in 2020, driven by investor interest in cloud computing, robotics and a host of other themes, industry leaders say.",
-      "heat": 101,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2020/02/18/cloud-computing-robotics-bonds-etf-leaders-talk-2020-themes.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/02/18/cloud-computing-robotics-bonds-etf-leaders-talk-2020-themes.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/02/18/cloud-computing-robotics-bonds-etf-leaders-talk-2020-themes.html",
-      "publishedDateTime": "2020-02-18T12:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/104933877-RTX46XGD-nvidia.jpg?v=1574694026",
-          "width": 2000,
-          "height": 1333,
-          "title": "Cloud computing, robotics, bonds: ETF industry leaders talk 2020's top themes",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-18-document-understanding-ai-google-cloud-explained.md",
-      "title": "Document Understanding AI — Google Cloud Explained",
-      "excerpt": "Hey, folks How are you doing. Today I am going to discuss Document Understanding AI using Google cloud in simple steps. I know I know you say there is a lot of complexity!!!. Don’t worry folks ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/datadriveninvestor/document-understanding-ai-google-cloud-explained-193ae84cda75",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-18T14:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/688/1*JQnPt8Ct4mzzzyEFVKW7zg.png",
-          "width": 688,
-          "height": 273,
-          "title": "Document Understanding AI — Google Cloud Explained",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-18-elon-musk-everyone-developing-ai-must-be-regulated-even-tesla.md",
-      "title": "Elon Musk: Everyone developing AI must be regulated — even Tesla",
-      "excerpt": "Elon Musk wants every organization developing advanced AI to be regulated ... and collaboration.” Judging by his reply to Hao on Twitter, Musk shares the sentiment. OpenAI was founded in 2015 as a non-profit, but last year announced that it was restructuring “as a hybrid of a for-profit and nonprofit—which we are calling ...",
-      "heat": 257,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/02/18/elon-musk-everyone-developing-ai-must-be-regulated-even-tesla/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-18T05:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2020%2F02%2FUntitled-design-18.png&signature=ccc63db991ed8ae7a56e57ddcdb0a17c",
-          "width": 1200,
-          "height": 600,
-          "title": "Elon Musk: Everyone developing AI must be regulated — even Tesla",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-18-enveil-raises-10-million-for-enterprise-scale-homomorphic-encryption.md",
-      "title": "Enveil raises $10 million for enterprise-scale homomorphic encryption",
-      "excerpt": "Moreover, libraries like PySyft and tf-encrypted — which are built on Facebook’s PyTorch machine learning framework and TensorFlow, respectively — have made great strides in recent months. So, too, have abstraction layers like HE-Transformer, a backend for nGraph (Intel’s neural network compiler) that delivers leading performance on ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/18/enveil-raises-10-million-for-enterprise-scale-homomorphic-encryption/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/18/enveil-raises-10-million-for-enterprise-scale-homomorphic-encryption/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/18/enveil-raises-10-million-for-enterprise-scale-homomorphic-encryption/amp/",
-      "publishedDateTime": "2020-02-18T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/GettyImages-1079012962-e1574180775599.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Enveil raises $10 million for enterprise-scale homomorphic encryption",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-18-esg-dell-emc-ready-solutions-for-ai-deep-learning-with-intel.md",
       "title": "ESG: Dell EMC Ready Solutions for AI: Deep Learning with Intel",
       "excerpt": "Organizations looking to leverage the power of AI face significant challenges, but what are the drivers behind these challenges? Document retention policy Hiring Kit: .Net developer Top cloud providers in 2020: AWS, Microsoft Azure, and Google Cloud ...",
@@ -2154,6 +1796,343 @@
         "Facebook AI",
         "Natural Language Processing",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-19-global-artificial-intelligence-in-retail-market-2020-challenges-and-development-opportunities-till-2025.md",
+      "title": "Global Artificial Intelligence in Retail Market 2020 Challenges and Development Opportunities till 2025",
+      "excerpt": "The Global Artificial Intelligence in Retail Market was valued at USD 1.80 billion in 2019 and is expected to reach USD 10.90 billion by 2025, at a CAGR of 35% over the forecast period 2020 - 2025. AI will drive faster business decisions in marketing,",
+      "heat": 248,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-retail-market-2020-challenges-and-development-opportunities-till-2025-2020-02-19",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-19T01:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Global Artificial Intelligence in Retail Market 2020 Challenges and Development Opportunities till 2025",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-19-google-used-ai-and-human-moderation-to-take-down-over-75-million-google-maps-reviews.md",
+      "title": "Google used AI and human moderation to take down over 75 million Google Maps reviews",
+      "excerpt": "But user contributions are intrinsically fraught. That’s why increasingly, Google is using AI and machine learning to spot malicious contributions at submission time, ensuring they don’t reach the over 1 billion users who regularly use Maps. In a blog post, Google said that it uses automated detection systems, including machine learning ...",
+      "heat": 90,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/19/google-used-ai-and-human-moderation-to-take-down-more-than-75-million-policy-violating-google-maps-reviews/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/19/google-used-ai-and-human-moderation-to-take-down-more-than-75-million-policy-violating-google-maps-reviews/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/19/google-used-ai-and-human-moderation-to-take-down-more-than-75-million-policy-violating-google-maps-reviews/amp/",
+      "publishedDateTime": "2020-02-19T09:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/1.-Intro-Image-e1580880177276.png?fit=1198%2C601&strip=all",
+          "width": 1198,
+          "height": 601,
+          "title": "Google used AI and human moderation to take down over 75 million Google Maps reviews",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-19-googles-ai-chief-explains-machine-learning-for-chip-design.md",
+      "title": "Google’s AI chief explains machine learning for chip design",
+      "excerpt": "Jeff Dean, head of Google’s AI research, explained to ZDNet how machine learning algorithms can be used to come up with better designs for computer chips. Google is starting to use the technology internally to better design its own parts. Read more: https://zd.net/38HobeV",
+      "heat": 111,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/video/googles-ai-chief-explains-machine-learning-for-chip-design/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-19T13:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/02/19/c094ad77-8b65-46bb-a116-452e865b15cb/thumbnail/770x578/7ff49d5646bbec8959dfe7485c3fa7e7/thumb.jpg",
+          "width": 770,
+          "height": 578,
+          "title": "Google’s AI chief explains machine learning for chip design",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-19-grok-combines-machine-learning-and-the-human-brain-to-build-smarter-aiops.md",
+      "title": "Grok combines Machine Learning and the Human Brain to build smarter AIOps",
+      "excerpt": "A few weeks ago I wrote a piece here about Moogsoft which has been making waves in the service assurance space by applying artificial intelligence and machine learning to the arcane task of keeping on keeping critical IT up and running and lessening the business impact of service interruptions. It’s a hot area for startups and I’ve since ...",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://diginomica.com/grok-combines-machine-learning-and-human-brain-build-smarter-aiops",
+      "ampWebUrl": "https://diginomica.com/grok-combines-machine-learning-and-human-brain-build-smarter-aiops?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/grok-combines-machine-learning-and-human-brain-build-smarter-aiops?amp",
+      "publishedDateTime": "2020-02-19T07:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2020-01/shutterstock-%20Antonov-Serg-1576515697.jpg",
+          "width": 3000,
+          "height": 2000,
+          "title": "Grok combines Machine Learning and the Human Brain to build smarter AIOps",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-19-high-risk-artificial-intelligence-to-be-certified-tested-and-controlled-commission-says.md",
+      "title": "High-risk Artificial Intelligence to be ‘certified, tested and controlled,’ Commission says",
+      "excerpt": "Commission President Ursula von der Leyen praised Europe’s efforts in the field of Artificial Intelligence thus far, saying that such technologies can be of vital use in a number of sectors including in healthcare, agriculture and energy, and can also ...",
+      "heat": 129,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.euractiv.com/section/digital/news/high-risk-artificial-intelligence-to-be-certified-tested-and-controlled-commission-says/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-19T06:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EURACTIV",
+        "domain": "euractiv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.euractiv.com/wp-content/uploads/sites/2/2020/02/w_55884866-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": "High-risk Artificial Intelligence to be ‘certified, tested and controlled,’ Commission says",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-19-in-praise-of-boring-ai-aka-machine-learning.md",
+      "title": "In Praise Of Boring AI (A.K.A. Machine Learning)",
+      "excerpt": "Whether or not machine learning is paving the way for a sci-fi movie type of AI in the distant future is a pointless question.",
+      "heat": 106,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/19/in-praise-of-boring-ai-a-k-a-machine-learning/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/19/in-praise-of-boring-ai-a-k-a-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/19/in-praise-of-boring-ai-a-k-a-machine-learning/amp/",
+      "publishedDateTime": "2020-02-19T05:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x454/https://specials-images.forbesimg.com/dam/imageserve/1158524088/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 454,
+          "title": "In Praise Of Boring AI (A.K.A. Machine Learning)",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-19-is-artificial-intelligence-a-myth.md",
+      "title": "Is Artificial Intelligence A Myth?",
+      "excerpt": "Here is something we all love: tech buzz words and the grand promise of new technologies. You know its right, because me, you and the person pitching the sales deck, we use them all the time. \"The Internet Of Things will connect everything,",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/hodfleishman/2020/02/19/is-artificial-intelligence-a-myth/",
+      "ampWebUrl": "https://www.forbes.com/sites/hodfleishman/2020/02/19/is-artificial-intelligence-a-myth/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hodfleishman/2020/02/19/is-artificial-intelligence-a-myth/amp/",
+      "publishedDateTime": "2020-02-19T14:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1183695647%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4714%26cropY1%3D144%26cropY2%3D2796",
+          "width": 1199,
+          "height": 675,
+          "title": "Is Artificial Intelligence A Myth?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-19-ishares-robotics-and-artificial-intelligence-etf-nysearcairbo-stock-price-down-01.md",
+      "title": "iShares Robotics and Artificial Intelligence ETF (NYSEARCA:IRBO) Stock Price Down 0.1%",
+      "excerpt": "Shares of iShares Robotics and Artificial Intelligence ETF (NYSEARCA:IRBO) traded down 0.1% during trading on Monday . The company traded as low as $28.74 and last traded at $28.80, 26,336 shares changed hands during mid-day trading. A decline of 33% from the average session volume of 39,142 shares. The stock had previously closed at $28.84.",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.modernreaders.com/news/2020/02/19/ishares-robotics-and-artificial-intelligence-etf-nysearcairbo-stock-price-down-0-1.html",
+      "ampWebUrl": "https://www.modernreaders.com/news/2020/02/19/ishares-robotics-and-artificial-intelligence-etf-nysearcairbo-stock-price-down-0-1.html/amp",
+      "cdnAmpWebUrl": "https://www-modernreaders-com.cdn.ampproject.org/c/s/www.modernreaders.com/news/2020/02/19/ishares-robotics-and-artificial-intelligence-etf-nysearcairbo-stock-price-down-0-1.html/amp",
+      "publishedDateTime": "2020-02-19T01:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "modernreaders.com",
+        "domain": "modernreaders.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
+          "width": 450,
+          "height": 323,
+          "title": "iShares Robotics and Artificial Intelligence ETF (NYSEARCA:IRBO) Stock Price Down 0.1%",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

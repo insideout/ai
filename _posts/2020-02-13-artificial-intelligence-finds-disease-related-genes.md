@@ -61,6 +61,19 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 47
+  - title: "Artificial Intelligence Used to Find Disease-related Genes"
+    excerpt: "The platform does this on the basis of common friends. In this fashion, scientists attempted to build maps of biological networks based on how the different proteins and genes interact with each other. The researchers used artificial neural network. These artificial networks are trained by experimental data, which means, in a network ..."
+    publishedDateTime: 2020-02-26T02:55:00Z
+    webUrl: "https://www.newsclick.in/Artificial-intelligence-used-find-disease-related-genes"
+    type: article
+    provider:
+      name: Newsclick
+      domain: newsclick.in
+    quality: 39
+    images:
+      - url: "https://www.newsclick.in/sites/default/files/2020-02/genes3_0.png"
+        width: 728
+        height: 350
 
 secured: "68e7C2PlS4lOST+OcqJX48moMKVn2JaASWIO1fYjZ1kZHx/BhlEPC7HYGP08kpAQ8YefenHib/f/oXHXUlpIFFUR0rYcouf7baypVriOf4pZi6+a7X5BltNDsRW6W0MllBwLrdeVPd8sfnYlnnt28ZSek+7QiMhlT7BKWnpdsuYOEcPU3J6voCKTRqsfCyXlTjRAFV0nZrR8wxFoUIZEEMTjWmfRAKk1WJRCYrcuLdnV76FyjMeXYVWbPahdsL4RtD2IbSL3PEdgy10o7z5M/AgrCTrNe8Yn3gEdWz61eUUjCeAdL1dhxXglB/BN3mYjPNUj0gDvjjMC+tyA/K/zCsfPUsri6qcHqx5oceBUKoFPkFOXTPeQrhVoulNhCqcojNGC0qW38VNsy3qbXW803X8PpwmNLfzZY+THxTsV4sglu5CV6GZuonUNaAsTOFlMjaHnh2BvcG+awXOl1Beo+jCsS7S7qj4zEFzSFcGp0Z4=;7JlF8TPf4+NP7v5TY7yldA=="
 ---

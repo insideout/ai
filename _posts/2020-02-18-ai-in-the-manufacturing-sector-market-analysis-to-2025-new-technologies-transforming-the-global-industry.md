@@ -76,7 +76,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 73
+    quality: 75
     images:
       - url: "https://s.marketwatch.com/public/resources/images/MW-IA016_0220_b_ZH_20200210155254.jpg"
         width: 890

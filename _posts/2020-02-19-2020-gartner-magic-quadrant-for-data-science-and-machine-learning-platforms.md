@@ -39,6 +39,17 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e4e13147a0098000733c741%2F0x0.jpg"
         width: 1000
         height: 675
+  - title: "Databricks named a Gartner Magic Quadrant Leader in Data Science and Machine Learning Platforms"
+    excerpt: "Gartner has just released the 2020 Magic Quadrant for Data Science and Machine Learning Platforms and Databricks was named a Leader. This is the third year in a row that Gartner has recognized Databricks in this Magic Quadrant. Gartner evaluated 17 vendors on ability to execute and completeness of vision. Download your copy of this ..."
+    publishedDateTime: 2020-02-26T02:13:00Z
+    webUrl: "https://www.techrepublic.com/resource-library/whitepapers/databricks-named-a-gartner-magic-quadrant-leader-in-data-science-and-machine-learning-platforms/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/resource-library/whitepapers/databricks-named-a-gartner-magic-quadrant-leader-in-data-science-and-machine-learning-platforms/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/resource-library/whitepapers/databricks-named-a-gartner-magic-quadrant-leader-in-data-science-and-machine-learning-platforms/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 57
   - title: "Databricks Named a Leader in Gartner Magic Quadrant for Data Science and Machine Learning Platforms"
     excerpt: "SAN FRANCISCO--(BUSINESS WIRE)--Databricks, the leader in unified data analytics, has been named by Gartner as a Leader in the 2020 Magic Quadrant for Data Science and Machine Learning Platforms. The complete report was published on February 11, 2020, and is available at: http://databricks.com/p/whitepaper/gartner-magic-quadrant-2020-data ..."
     publishedDateTime: 2020-02-17T18:24:00Z

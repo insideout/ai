@@ -1,8 +1,8 @@
 ---
 category: news
 title: "Scale and translation-invariance for novel objects in human vision"
-excerpt: "Here we report tolerance to scale and position changes in one-shot learning by measuring recognition accuracy of Korean letters presented in a flash to non-Korean subjects who had no previous experience with Korean letters. We found that humans have significant scale-invariance after only a single exposure to a novel object. The range of ..."
-publishedDateTime: 2020-01-29T10:12:00Z
+excerpt: "Additional future direction of the study would be investigating diagnostic critical spatial frequency in ENNs for object recognition. It was previously observed that critical bands of spatial ..."
+publishedDateTime: 2020-01-29T10:09:00Z
 webUrl: "https://www.nature.com/articles/s41598-019-57261-6"
 type: article
 quality: 24
@@ -23,6 +23,6 @@ images:
     height: 419
     title: "Scale and translation-invariance for novel objects in human vision"
 
-secured: "2Y8i2vB9lFRsIV1Fead0z/NoHCYbXOkybwjwQ3NaZGKTrqXwTH0WtTT9RvpXW9FSH10Zr7f/+KTuqp9gYI52kRHmubRpiCWJzKJA1rH8+Mgy8fthxv+ng0nKXA0lG0iN9+dhFWHXPuDTPBjdyX/RSg6Bkx4S2oaHzkK5SYkWX+AzEsPOp6fgnfY80XozBVkoyKASF53vy3IpjEnFfOZFTmQzBRKppp2s09ChMeLBziNH7kCXXW4mJo8227iNuz6tJciw9jYAvA6fjD5xKP3/wFPPg/mV3S/SMFMqodkgU27Uq3ajKTpRKw08P2qVgmGIHzOBiZ0bs5gDMsXUIdSUpIGWU6vg+STu4lSO4M4am5g02ymfYg7ktxGYkTTMppf5rMs+CIswZsmOcaZ9+8AefDmAhrnNosmQBDju9BPsSGKFsR36Y4n1H29J38BJyQ3gYzPwMZKZOvsAtrsYjayVZRnnTIVcOQ9ZM9Ih7CZyGXU=;3LlOqiNo7XyGpeL9Nsb63Q=="
+secured: "uHXEzP5y1VLdWE/9ihMOBhZ0jMsRMUFlhQh4yGatnd8k9aTI+zC4VW/v2vDmrx6HzBsXmkDyLiw0TWXoPz/CxnJNiIFfq3VpzqF8BuitDZf66os/hZSR5fIPdcZ7a8Pmqe0ukKgiN0nGNxklDAsRKLlXaGMvpRvE3fovymOVPISoUWvdG+9C3Fl8O/HLXsmMmTNJe7Z89f8QKzxDul1g+s8Vq4pYnOlF/2IHsb0OrwR+y+Ro6qIMXdp7eN2vCQjkwx4mkJQfZ+uOPuaf2V4UXvF/SBiSyzVLoP9XrLbidy0MEtb2pgQTRXcvHZJjRd22;FX3EziDhFWvh+2sZ3hwQiQ=="
 ---
 

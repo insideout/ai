@@ -62,6 +62,19 @@ related:
       - url: "https://www.eurekalert.org/multimedia/pub/web/224234_web.jpg"
         width: 1440
         height: 959
+  - title: "Artificial Intelligence Used to Find Disease-related Genes"
+    excerpt: "The platform does this on the basis of common friends. In this fashion, scientists attempted to build maps of biological networks based on how the different proteins and genes interact with each other. The researchers used artificial neural network. These artificial networks are trained by experimental data, which means, in a network ..."
+    publishedDateTime: 2020-02-26T02:55:00Z
+    webUrl: "https://www.newsclick.in/Artificial-intelligence-used-find-disease-related-genes"
+    type: article
+    provider:
+      name: Newsclick
+      domain: newsclick.in
+    quality: 39
+    images:
+      - url: "https://www.newsclick.in/sites/default/files/2020-02/genes3_0.png"
+        width: 728
+        height: 350
 
 secured: "XHLsmZWs3Z0TN7cwMK4d6XRGykMLAWflfhs5Oow+qBubELf71Y+ylkwwh5tZJme1zMbPb0Pimel1/xXiUX+Er0bifL8tjRWsa19u/6U6BbTb5hpIf8iheurYDyAedKr+ptlXfXCFfhgAf5/EEnofmG5R9oFEQ437A207osq1TL48p3VAdfQ8G4hGKsc1HQB49IVG4mVSt80Vu/G5baXmV6QeovCA1F6aRtOiuNJkFU2dPOpehrhvvJNQp2AAjRjDtdSIBgB5cQIU06Y16Rnu8qt1YMEe9SrVjEEwxG2xgbhOovEe8XZbjxaBNa5bl+8u;tACLLAQAb6jE7Cj8qJob+w=="
 ---

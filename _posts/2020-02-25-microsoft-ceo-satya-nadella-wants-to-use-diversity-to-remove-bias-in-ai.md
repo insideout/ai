@@ -8,7 +8,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/02/25/microsoft-nadella-india-202
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/25/microsoft-nadella-india-2020/amp/"
 type: article
 quality: 106
-heat: 126
+heat: 127
 published: true
 
 provider:
@@ -54,6 +54,6 @@ related:
       domain: financialexpress.com
     quality: 25
 
-secured: "jIKYfz0I4vlCTef2v68iliiIixGf8kZ7w+ybpmlCPO/jGgfjZ847n0mqL8jbGqUsRVwWjrxTq4OgVBqlRzuwK1p0lKdopKt+mzREf1um2wq3UAq4/xyM1emHqbfFtKrTNkGb3Ctnkh3eyjhkUI4XgHMBkT9dVU3JNcvvap6Q35PASFE62au3KGXlnJycLxmsH+ygNOG+mtUsj/JGBTfIfhFVrsxEedC3Xdqj837NTUhJu2d8diDccpnLe/LkJoGc+jXoMxwfytk5urC8Ou4/PX5l0vRn8cP+svVrBjmHe8T+/vrGRAQ9ybMlZ4cKqA3VtAzbL/BS14W8E1GXnM8UJDzrB76GysSjtBUfdCf05NilP88Mkqlx/WtJvM1ngKDtMDAgs2BdxQL+TCA7Q67nBH/CdPRhd1VB6jY5yVOvS7aNif0UG9zaDc6Yz+LLHm9nsei5Xwu7eh3QoYl+wse8ZuYYABWeusBJsS16Bj5JyXI=;JPVMzkV2IZelQEHvIhVx7Q=="
+secured: "SRvDTkUkANfORW79JxikfMob6uxHF1wCn9klWtxXwRuOayJ/QoR49Z4+YwZA8gH3T2dAU3HowXHWT0sIQkDYcK43Eqmtkt+qIPCDck0sBgQWebYr5m2mzNjAOEwECKXElOev4i+cENvHGyvfuQn6Ohtxzf+ptMr7ddCzkUOw+UvMsgpKxOjTRGWyIIPGyJHjfdXqwm/B3nsEt8w1rZY0wyoYNRR8btaM7YTQIXBAyGWaNdtD+2xOc9cbGaw8iailxlFbb1RE6Fca2hUd5Cn8RQRHfHEXbY2O2QsGq+yAPmUPakpYcULN3bh1ewScML3pb10nU9zX40zInpC2h68zc4rL/2HrqhPnHxc2KQH1GbY6Sw+APYD1FLTM/9OxWW6npmNvNU6hT8Htt3tjJ8qRCO6EAOiD3CFYzNGzKaIYZq0JogEXahSrWoNHx9gl7EkY7wK/5qHdwCtwRy6Fut23A6ovX2/wFVApnagauOlFKQs=;HIlJmjWf9MdKkzbAAy2Tog=="
 ---
 

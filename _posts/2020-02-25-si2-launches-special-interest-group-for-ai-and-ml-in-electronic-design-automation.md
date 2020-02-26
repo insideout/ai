@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-25T20:31:00Z
 webUrl: "https://www.businesswire.com/news/home/20200225005182/en/Si2-Launches-Special-Interest-Group-AI-ML"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -24,15 +24,15 @@ images:
     title: "Si2 Launches Special Interest Group for AI and ML in Electronic Design Automation"
 
 related:
-  - title: "RPA and AI in Banking"
-    excerpt: "Some of the key players operating in this market include: Cognizant, Capgemini, Accenture, Fintech Singapore, The Lab Consulting, UiPath, iRobot, Robogals The report provides a basic overview of the industry including definitions and classifications. The RPA and AI in Banking Market analysis is provided for the international markets including ..."
-    publishedDateTime: 2020-02-25T14:55:00Z
-    webUrl: "https://www.openpr.com/news/1944313/attractive-market-opportunities-in-the-rpa-and-ai-in-banking"
+  - title: "Singularity.ai Launches Practical Artificial Intelligence Solutions for Resource-Constrained Physicians"
+    excerpt: "Singularity.ai addresses the needs of higher efficiency and improved cost-effectiveness by introducing innovative technologies compatible with the physician’s workflow, keeping them at the center of healthcare. Based in Silicon ... companies trying to apply new technologies, such as artificial intelligence, to solve human health problems ..."
+    publishedDateTime: 2020-02-25T17:55:00Z
+    webUrl: "https://www.oaoa.com/news/business/article_4e903215-68ea-5e5c-91bf-86159a0801c6.html"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 34
+      name: Odessa American
+      domain: oaoa.com
+    quality: 18
 
 secured: "ARx2chx8iNDFodVdGPXRbwyKoUiEpuqCy54XzLxMoRHvVj2NvdAPTyXkZ+/wZrx0luIx5qywlM7jGP5AxVSFcu/NP1lZAb8n6poCaIgxvbcg3z93QHb97HGj67uugsnZl7Ikznssh0iFiEpekttgeoe1JLTOqatTq4A5XNeeXc/WAmdqYkVVP4CCUU5Fox3eKh6TWeibmVcEer5MGNvkIIVNKcrYj3oLJpESJyWrQHt97Gg4tXs9c0+ejqzslLGfsReYgR1R6YC9TQELk2mF+yN6guDr3xcF3AmFPw2qrw9qIxOwppK35JjQjFOiaCH/;tEReXMYMPGGW/DdKwOa16w=="
 ---

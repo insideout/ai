@@ -139,15 +139,6 @@ related:
       name: Portland Press Herald
       domain: pressherald.com
     quality: 17
-  - title: "Facial recognition technology is 'unfit' for use by Police Scotland, MSPs say"
-    excerpt: "Police identified \"live\" facial recognition technology in its plans for 2026. The force already uses retrospective technology to search and match. MSPs on Holyrood’s policing committee raised concerns over human rights and called for Scottish Government ..."
-    publishedDateTime: 2020-02-11T09:23:00Z
-    webUrl: "https://www.dailyrecord.co.uk/news/politics/facial-recognition-technology-unfit-use-21469810"
-    type: article
-    provider:
-      name: dailyrecord
-      domain: dailyrecord.co.uk
-    quality: 16
 
 secured: "4TqDDOWjdc2agbic6iW0PVhI1QdZ5Oi3QvEO4osq2CzE0ncpczMVvtvhBS+mVLNQKfqMF+IrNtZNZhHUI8kllqht4HM06o2llDLUNOJFJWBA1Vu541BgMON83vfwt6VIsy0KJOXbnnv3ZAZ66EjZDwvDK60W3dyWmyaV8x3J3QWSCPc5NOckJ85uL031qsvBHpXwh4XAIuJ+cq3AeoQCKxk8JEaGv5oFXFjyCC9LjgbgpY7Ye+t+YYhIE2tjWS2prmDsN59b8honcvsrmrTyq3wdn9oDW6Exu6EQU6bO0Cu2mjbNKoppwFm3M0v7Dyof;nyf9h+feAqcW//zQsHtU0g=="
 ---

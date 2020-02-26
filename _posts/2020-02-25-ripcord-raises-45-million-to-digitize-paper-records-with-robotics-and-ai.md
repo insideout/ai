@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/02/25/ripcord-raises-45-million-to-digi
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/25/ripcord-raises-45-million-to-digitize-paper-records-with-robotics-and-ai/amp/"
 type: article
 quality: 118
-heat: 188
+heat: 208
 published: true
 
 provider:
@@ -40,7 +40,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 89
+    quality: 91
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2020/02/f4c4e7ef-f32a-43c8-81f8-ccd46a578b31-e1582607532413.png?fit=1200%2C600&strip=all"
         width: 1200
@@ -90,6 +90,36 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/02/maxresdefault-4-e1582140205297.jpg?fit=800%2C400&strip=all"
         width: 800
         height: 400
+  - title: "Autonomous driving startup Pony.ai raises $462 million in Toyota-led funding"
+    excerpt: "The Silicon Valley-based startup Pony.ai - co-founded by CEO James Peng, a former executive at China’s Baidu, and chief technology officer Lou Tiancheng ... has been lagging rivals in bringing self-driving cars to market. It has taken a long view towards the technology, saying it will take decades for cars to drive themselves on roads."
+    publishedDateTime: 2020-02-26T03:57:00Z
+    webUrl: "https://uk.reuters.com/article/uk-toyota-pony-ai-autonomous/autonomous-driving-startup-pony-ai-raises-462-million-in-toyota-led-funding-idUKKCN20K0CT"
+    ampWebUrl: "https://uk.mobile.reuters.com/article/amp/idUKKCN20K0CT"
+    cdnAmpWebUrl: "https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKKCN20K0CT"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 86
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200226&t=2&i=1495295329&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG1P0A3"
+        width: 817
+        height: 545
+  - title: "Driverless car startup Pony.ai raises $462 million at a $3 billion valuation"
+    excerpt: "In a sign that investors’ enthusiasm for driverless cars hasn’t dampened yet, Pony.ai today secured a whopping $462 million in fresh funding, $400 million of which came from Toyota. The capital infusion brings the Guangzhou- and Fremont, California-based startup’s total raised to about $800 million at a valuation north of $3 billion (up ..."
+    publishedDateTime: 2020-02-26T03:00:00Z
+    webUrl: "https://venturebeat.com/2020/02/25/driverless-car-startup-pony-ai-raises-462-million-at-a-3-billion-valuation/"
+    ampWebUrl: "https://venturebeat.com/2020/02/25/driverless-car-startup-pony-ai-raises-462-million-at-a-3-billion-valuation/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/25/driverless-car-startup-pony-ai-raises-462-million-at-a-3-billion-valuation/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 84
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/08/ad1de834-abf3-471e-b4cc-3408c731b4f4-e1566788588385.png?fit=1200%2C600&strip=all"
+        width: 1200
+        height: 600
   - title: "Exclusive: Autonomous driving startup Pony.ai raises $500 million in Toyota-led funding- sources"
     excerpt: "The Silicon Valley-based startup Pony.ai - co-founded by CEO James Peng, a former executive at China’s Baidu (BIDU.O), and chief technology officer Lou Tiancheng, a former Google (GOOGL.O) and Baidu engineer - is already testing autonomous vehicles in California, Beijing and Guangzhou. The firm is focusing on achieving “Level 4”, or fully ..."
     publishedDateTime: 2020-02-26T01:08:00Z

@@ -126,15 +126,6 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 19
-  - title: "Facial recognition technology is 'unfit' for use by Police Scotland, MSPs say"
-    excerpt: "Police identified \"live\" facial recognition technology in its plans for 2026. The force already uses retrospective technology to search and match. MSPs on Holyrood’s policing committee raised concerns over human rights and called for Scottish Government ..."
-    publishedDateTime: 2020-02-11T09:23:00Z
-    webUrl: "https://www.dailyrecord.co.uk/news/politics/facial-recognition-technology-unfit-use-21469810"
-    type: article
-    provider:
-      name: dailyrecord
-      domain: dailyrecord.co.uk
-    quality: 16
   - title: "Public Perception of Facial Recognition Technologies - a four countries study"
     excerpt: "Facial recognition technology (FRT) – which seeks to match people from a digital image or video with various identifying attributes – is increasingly commonplace in everyday life. The wide and quickly spreading application of the technology has become the subject of increased debate. On the one hand, #FRT is seen as a potentially powerful ..."
     publishedDateTime: 2020-02-12T19:35:00Z

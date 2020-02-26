@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Port must operate facial recognition to control it"
-excerpt: "Facial recognition technology is starting to appear in public places. Seattle's Port Commission is working on a policy to make sure it is used ethically. Now it is learning just how hard that will be. Help guide our reporting by submitting a topic, question, or one of your stories to our team. When is Seattle going to get an earthquake warning ..."
-publishedDateTime: 2020-02-26T01:04:00Z
-webUrl: "https://www.kuow.org/stories/port"
+excerpt: "Facial recognition technology is starting to appear in public places. Seattle's Port Commission is working on a policy to make sure it is used ethically. Now it is learning just how hard that will be."
+publishedDateTime: 2020-02-26T01:34:00Z
+webUrl: "https://kuow.org/stories/port"
 type: article
 quality: 39
 heat: -1
@@ -515,6 +515,6 @@ related:
       domain: hindustantimes.com
     quality: 2
 
-secured: "mj5rkJztDYQWZD3tHOc5BC0sfSd8f43T8gMv44RB7EHIvsOIImnEqC6JNGzxWcPxEoWOUq/WLcdSEiwuH2UjvHnq4Fy1TkVeAk1Peq6Qs4h73cIEeleQ/QmegspglEohxFQSbSAY1K5t4M/iNduo40mAdVda+ZYaOts4n9dfFFKJgsOVxkdejgB5dvVlim1TqyBKWbeIZll5ARyJVfwRzItemu74D2sZ5JaDn2ebxUa7ap+3jAc2nhxd6iwQhCJamhIcJAszsQaOKZSHVvHWQLNyIGNZQkXpfArhFOBAgGgbz1Ez1PnBRRbOYnCsSFO+;VUP2ORG87ZU6bY2GK0AeyA=="
+secured: "NItU2L5JCeFLmwq7G6AGSIsWB94bZL6vZCTlcAq9HLq6WTg3xbDFEwfkMCn6XQBzmbLJDOREpl9/RjyZ/sOxEqbDFKGtHw/+8t6wFOuUh/6vEww1Bl+PfYsHJ4iu22gAJRPeqJte8LDYJlto7Q8T4OOpk84QH6zmZBlzKMbZspL7EDoPeSuz54Vk/40BKHHJcyxjQESJcKRdfBMlkPckTGFZY6WkUIV5DoQcgGmdETMEhWE7vmbw6yx/WpJ6Bvfcz4Zv8hkcUq2zv1qjccwAw9vXfQgw8vrdkUNGEwpI3bpZVW71j0piJMPwmMpnPf8y;xt63E78x/L0NYROkMAeahQ=="
 ---
 

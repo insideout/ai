@@ -37,6 +37,32 @@ related:
       - url: "https://images.techhive.com/images/article/2014/05/pile-of-paperwork-against-a-textured-green-cubicle-wall-92679985-100265487-large3x2.jpg"
         width: 1200
         height: 800
+  - title: "Azure adds Form Recognizer to Cognitive Services"
+    excerpt: "Microsoft’s Cognitive Services, powered by machine learning, are an easy way to add artificial intelligence to your apps ... What matters here is the transition between preview and general availability, as Azure and Microsoft Research work together to take what was pure research and turn it into tools you can include in your applications."
+    publishedDateTime: 2020-02-26T02:44:00Z
+    webUrl: "https://www.infoworld.com/article/3528784/azure-adds-form-recognizer-to-cognitive-services.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 84
+    images:
+      - url: "https://images.idgesg.net/images/article/2019/11/ai_artificial_intelligence_technology_abstract_layered_background_by_4x-image_gettyimages_1097235688-100817777-large.3x2.jpg"
+        width: 1200
+        height: 800
+  - title: "Use Azure Cognitive Services to automate forms processing"
+    excerpt: "Form Recognizer brings unsupervised machine learning to paper document processing ... What matters here is the transition between preview and general availability, as Azure and Microsoft Research work together to take what was pure research and turn it into tools you can include in your applications. Microsoft has been able to containerize ..."
+    publishedDateTime: 2020-02-26T03:50:00Z
+    webUrl: "https://www.infoworld.com/article/3528784/use-azure-cognitive-services-to-automate-forms-processing.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 84
+    images:
+      - url: "https://images.idgesg.net/images/article/2019/11/ai_artificial_intelligence_technology_abstract_layered_background_by_4x-image_gettyimages_1097235688-100817777-large.3x2.jpg"
+        width: 1200
+        height: 800
   - title: "Facebook users to get paid for voice recordings; company wants to improve speech recognition"
     excerpt: "In an attempt to improve its voice recognition technology, social media giant Facebook could pay users who agree to record their voice. The move comes after reports suggested that the company — along with Apple, Google, Microsoft, and Amazon — was caught listening to and transcribing voice recordings to improve its speech recognition ..."
     publishedDateTime: 2020-02-21T13:38:00Z

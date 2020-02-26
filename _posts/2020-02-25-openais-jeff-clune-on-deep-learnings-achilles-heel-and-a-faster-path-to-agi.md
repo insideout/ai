@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/02/25/openais-jeff-clune-on-deep-learni
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/25/openais-jeff-clune-on-deep-learnings-achilles-heel-and-a-faster-path-to-agi/amp/"
 type: article
 quality: 100
-heat: 100
+heat: 110
 published: true
 
 provider:
@@ -28,6 +28,21 @@ images:
     width: 1800
     height: 900
     title: "OpenAI’s Jeff Clune on deep learning’s Achilles’ heel and a faster path to AGI"
+
+related:
+  - title: "Machine Learning on the Edge, Hold the Code"
+    excerpt: "One company that’s attacking the problem in a broad way is Qeexo, which sells an AutoML platform for building and deploying ML applications to microcontrollers without writing a line of code. Qeexo emerged from Carnegie Mellon University in 2012, just at the dawn of the big data age. According to Sang Won Lee, the company’s co-founder and ..."
+    publishedDateTime: 2020-02-26T00:44:00Z
+    webUrl: "https://www.datanami.com/2020/02/25/machine-learning-on-the-edge-hold-the-code/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 39
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/02/microcontroller_shutterstock_Dmitriy-Rybin.jpg"
+        width: 1000
+        height: 531
 
 secured: "Kw53tpaIyBJBfBCOcsZpY/rL3vVguzomSzU/6zfJTWmtkfLW/gdZe0rukt2lV5GwckJCdwZGRtqrfF4NO8e/JbRlgv3XaKOzRkNGBaHPaFkZEwHCGoohfpGEYrJUj0lFM+ghCipSH2V8KBSnsli4hMhs0Qy3nvEf8gOLtSA0iXcMWs8rTklQXSfE7op870fOHs6WqXP40FTcvS8xlpkY5RiA1V1uJPxA+KwBVFOFuirr0R1pXFk3gJm0j3mqFHTWJgYLozd7Uab3NNbt9suLqllenV7n64znxuuAaJawG5r774AvOx7gNR1UC6T7TLKuusVVy99wIJISkFwBg+vgcja4svKpbU/qKbiDyoa7CI5SLr2g6eWz4DUF3b6MFAtKvbsPWdOlDoazlFJ76KRnunSlvTn8RsxM14Ly0Vr0vdVwn7wwziM0CjLokuJqywnp1TXpmyehVjEU2ru08EFqTDQhWwKYhv7Q3vJMyumNEN8=;33J2jgnhSwuZIZOGvLb98Q=="
 ---

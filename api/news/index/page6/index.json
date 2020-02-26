@@ -2,339 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_posts/2020-02-20-mass-adoption-of-ai-in-financial-services-expected-within-two-years.md",
-      "title": "Mass Adoption Of AI In Financial Services Expected Within Two Years",
-      "excerpt": "A significant number of financial industry executives from 151 financial institutions in 33 countries recently reported that within the next two years they expect to become mass adopters of AI and expect AI to become an essential business driver across the financial industry.",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/20/mass-adoption-of-ai-in-financial-services-expected-within-two-years/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/20/mass-adoption-of-ai-in-financial-services-expected-within-two-years/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/02/20/mass-adoption-of-ai-in-financial-services-expected-within-two-years/amp/",
-      "publishedDateTime": "2020-02-20T11:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e4edaa7de40290007718aea%2F0x0.jpg",
-          "width": 1200,
-          "height": 582,
-          "title": "Mass Adoption Of AI In Financial Services Expected Within Two Years",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-20-only-a-better-understanding-of-ai-can-help-end-our-fear-of-robots.md",
-      "title": "Only a better understanding of AI can help end our fear of robots",
-      "excerpt": "AI is upending companies, industries, and humanity. There has been an ongoing polarising discussion among experts in both the academic and industrial circles when it comes to artificial intelligence (AI), and the impact of its adoption on our continued existence. One side envisions multiple benefits over its widespread adoption; while the other ...",
-      "heat": 106,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://qz.com/india/1805292/only-a-better-understanding-of-ai-can-help-end-our-fear-of-robots/",
-      "ampWebUrl": "https://qz.com/india/1805292/only-a-better-understanding-of-ai-can-help-end-our-fear-of-robots/amp/",
-      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/india/1805292/only-a-better-understanding-of-ai-can-help-end-our-fear-of-robots/amp/",
-      "publishedDateTime": "2020-02-20T01:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Quartz",
-        "domain": "qz.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/qz.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cms.qz.com/wp-content/uploads/2020/02/RTX265HX-e1582179189744.jpg?quality=75&strip=all&w=1400",
-          "width": 1400,
-          "height": 789,
-          "title": "Only a better understanding of AI can help end our fear of robots",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-20-openai-text-generator-gpt-2-creates-video-game-walkthrough-for-most-tedious-game-in-history.md",
-      "title": "OpenAI Text Generator GPT-2 Creates Video Game Walkthrough for 'Most Tedious Game in History'",
-      "excerpt": "An advanced language model may one day be used in game design, experiments with 'Overwatch,' 'Dota 2' and 'Final Fantasy VII' demonstrate.",
-      "heat": 78,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.newsweek.com/openai-text-generator-gpt-2-video-game-walkthrough-most-tedious-1488334",
-      "ampWebUrl": "https://www.newsweek.com/openai-text-generator-gpt-2-video-game-walkthrough-most-tedious-1488334?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/openai-text-generator-gpt-2-video-game-walkthrough-most-tedious-1488334?amp=1",
-      "publishedDateTime": "2020-02-20T13:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1568474/goldeneye-n64-artificial-intelligence.jpg",
-          "width": 2500,
-          "height": 1406,
-          "title": "OpenAI Text Generator GPT-2 Creates Video Game Walkthrough for 'Most Tedious Game in History'",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-20-predictions-2020-what-to-expect-in-ai-ml-rpa-sectors.md",
-      "title": "Predictions 2020: What to Expect in AI, ML, RPA Sectors",
-      "excerpt": "Here is another in a list of articles eWEEK is now publishing about predictions for 2020 (and sometimes beyond!). AI adoption in non-consumer internet industries is still in an early stage, and many projects are stuck in pilot purgatory because of challenges ranging from a lack of data to knowing how to manage complex machine learning workflows.",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.eweek.com/big-data-and-analytics/predictions-2020-what-to-expect-in-ai-ml-rpa-sectors",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-20T14:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.eweek.com/imagesvr_ez/b2bezp/2020/01/1088x725_-_243826254---Data-Analytics-Trends-for-2020.jpg?alias=social_image",
-          "width": 560,
-          "height": 300,
-          "title": "Predictions 2020: What to Expect in AI, ML, RPA Sectors",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-20-retail-optimization-startup-teikametrics-raises-15m-as-it-expands-beyond-amazon-and-beyond-ads.md",
-      "title": "Retail optimization startup Teikametrics raises $15M as it expands beyond Amazon and beyond ads",
-      "excerpt": "Teikametrics, a startup that helps retailers optimize their online ad spending ... Looking at the broader retail and advertising landscape, McLean-Foreman acknowledged, “AI is almost a buzzword,” but he argued, “We are actually AI-first. The product itself is automation, it is intelligent decision-making.” He added, “Advertising ...",
-      "heat": 75,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/02/19/teikametrics-funding/",
-      "ampWebUrl": "https://techcrunch.com/2020/02/19/teikametrics-funding/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/19/teikametrics-funding/amp/",
-      "publishedDateTime": "2020-02-19T19:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/02/unnamed.jpg?w=1024",
-          "width": 1024,
-          "height": 512,
-          "title": "Retail optimization startup Teikametrics raises $15M as it expands beyond Amazon and beyond ads",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-20-seven-takeaways-from-the-westworld-season-3-trailer.md",
-      "title": "Seven Takeaways From the ‘Westworld’ Season 3 Trailer",
-      "excerpt": "We’ve come a long way from all that natural splendor. HBO released the official Westworld Season 3 trailer on Thursday, and it looks like showrunners Jonathan Nolan and Lisa Joy are making good on the “radical shift” they promised back in August 2018. Our central characters have gone from the confines of the Westworld park to the human wo ...",
-      "heat": 157,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theringer.com/tv/2020/2/20/21146044/westworld-season-3-trailer",
-      "ampWebUrl": "https://www.theringer.com/platform/amp/tv/2020/2/20/21146044/westworld-season-3-trailer",
-      "cdnAmpWebUrl": "https://www-theringer-com.cdn.ampproject.org/c/s/www.theringer.com/platform/amp/tv/2020/2/20/21146044/westworld-season-3-trailer",
-      "publishedDateTime": "2020-02-20T13:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Ringer",
-        "domain": "theringer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-20-she-broke-the-glass-ceiling-to-establish-her-coliving-start-up.md",
-      "title": "She Broke the Glass Ceiling To Establish Her Coliving Start-up",
-      "excerpt": "Prior to this, the trio had founded Augbrain which uses artificial intelligence (AI) in education. However, the product was too complicated for ... Zolostays has raised $37 million in total till date. Choudhry revealed that the start-up is in advanced talks with new investors to raise up to $100 million for Series C round through a mix of ...",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.entrepreneur.com/article/346594",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/346594",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/346594",
-      "publishedDateTime": "2020-02-20T03:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/20200220095801-Snehaedited.jpeg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": "She Broke the Glass Ceiling To Establish Her Coliving Start-up",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-20-study-uses-machine-learning-to-identify-personalized-brain-networks-in-kids.md",
-      "title": "Study uses machine learning to identify personalized brain networks in kids",
-      "excerpt": "Machine learning is helping Penn Medicine researchers identify the size and shape of brain networks in individual children, which may be useful for understanding psychiatric disorders. In a new study published today in the journal Neuron, a multidisciplinary team showed how brain networks unique to each child can predict cognition. The study ...",
-      "heat": 92,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.news-medical.net/news/20200219/Study-uses-machine-learning-to-identify-personalized-brain-networks-in-kids.aspx",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20200219/Study-uses-machine-learning-to-identify-personalized-brain-networks-in-kids.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200219/Study-uses-machine-learning-to-identify-personalized-brain-networks-in-kids.aspx",
-      "publishedDateTime": "2020-02-19T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.news-medical.net/image.axd?picture=2016%2f3%2fChildren_playing_sunset_-_Zurijeta_8c5bdac77e44431bb1bfec67b9c87208-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": "Study uses machine learning to identify personalized brain networks in kids",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_posts/2020-02-20-the-ai-eye-let-the-chips-fall-where-they-may-the-burgeoning-market-for-artificial-intelligence-chips.md",
       "title": "The AI Eye: Let the Chips Fall Where They May - The Burgeoning Market for Artificial Intelligence Chips",
       "excerpt": "Point Roberts, WA and Vancouver, BC - February 20, 2020 (Investorideas.com Newswire) Investorideas.com (www.investorideas.com), a global investor news source covering Artificial Intelligence (AI) brings you today's edition of The AI Eye,",
@@ -619,6 +286,52 @@
         "AI",
         "Facebook AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-21-ai-in-logistics-and-supply-chain-with-detailed-overview-and-opportunity-assessment.md",
+      "title": "AI in Logistics and Supply Chain With Detailed Overview and Opportunity Assessment",
+      "excerpt": "The on-going evolution of technologies like artificial intelligence (AI) and machine learning (ML) brings in disruption and innovation in the AI Logistics and Supply Chain Ecosystem. AI is transforming global logistics and supply chain management.",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-logistics-and-supply-chain-with-detailed-overview-and-opportunity-assessment-2020-02-21",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-21T03:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "AI in Logistics and Supply Chain With Detailed Overview and Opportunity Assessment",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI in Robotics"
       ]
     },
     {
@@ -2139,6 +1852,288 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-23-this-technique-uses-ai-to-fool-other-ais.md",
+      "title": "This Technique Uses AI to Fool Other AIs",
+      "excerpt": "Research shows how AI programs that parse and analyze text can be confused and deceived by carefully crafted phrases. A sentence that seems straightforward to you or me may have a strange ability to deceive an AI algorithm. Jin and colleagues devised an algorithm called TextFooler capable of deceiving an AI system without changing the meaning ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/technique-uses-ai-fool-other-ais/",
+      "ampWebUrl": "https://www.wired.com/story/technique-uses-ai-fool-other-ais/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/technique-uses-ai-fool-other-ais/amp",
+      "publishedDateTime": "2020-02-23T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5e509f9235982c0009f6eb56/master/pass/5e509f7e6b2364000910b4d9_business-deceptive_ai_text-1140942135_autoxauto_00001.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": "This Technique Uses AI to Fool Other AIs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-24-ai-android-teaching-assistant-gives-students-hands-on-robotics-experience.md",
+      "title": "AI Android Teaching Assistant Gives Students Hands-on Robotics Experience",
+      "excerpt": "... presence of robots and artificial intelligence in our world,\" said Barry in an article about the project. \"One of the points that I'm bringing out in this class is that robots reflect their programming: If they're programmed with a life-affirming, ethical framework, they are more likely to act ethically and help humans to do the same.\"",
+      "heat": 78,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://campustechnology.com/articles/2020/02/24/ai-android-teaching-assistant-gives-students-hands-on-robotics-experience.aspx?admgarea=news",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-24T13:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Campus Technology",
+        "domain": "campustechnology.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://campustechnology.com/-/media/EDU/CampusTechnology/2020-images/20200224MariaBotfigure1.jpg",
+          "width": 300,
+          "height": 243,
+          "title": "AI Android Teaching Assistant Gives Students Hands-on Robotics Experience",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-24-ai-in-marketing-is-only-as-good-as-the-human-behind-it.md",
+      "title": "AI In Marketing Is Only As Good As The Human Behind It",
+      "excerpt": "While AI might change some day-to-day tasks for marketers, we believe that it will actually improve their jobs, not take them over.",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/24/ai-in-marketing-is-only-as-good-as-the-human-behind-it/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/24/ai-in-marketing-is-only-as-good-as-the-human-behind-it/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/24/ai-in-marketing-is-only-as-good-as-the-human-behind-it/amp/",
+      "publishedDateTime": "2020-02-24T09:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x494/https://specials-images.forbesimg.com/dam/imageserve/1079012838/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 494,
+          "title": "AI In Marketing Is Only As Good As The Human Behind It",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-24-all-things-gcp-machine-learning-decision-pyramid.md",
+      "title": "All things GCP: Machine Learning Decision pyramid",
+      "excerpt": "Many users want Machine Learning in their products and cloud providers like GCP, AWS Azure, etc knows about this. Because of this demand, as per the user's needs and expertise they can provide machine learning tools out of the box and users can work on complex Machine Learning tasks by a few lines of code or no code at all! Understanding of ...",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/analytics-vidhya/all-things-gcp-machine-learning-decision-pyramid-82260c798a88",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-24T15:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*Jj3jiMWxYJOMJIcMQj34bw.jpeg",
+          "width": 1200,
+          "height": 675,
+          "title": "All things GCP: Machine Learning Decision pyramid",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-24-applications-of-photodetectors-in-robotics.md",
+      "title": "Applications of Photodetectors in Robotics",
+      "excerpt": "For now, security robots aren’t able to adequately replace a human security guard ... In 2017, the US Department of Defense launched Project Maven, an initiative to leverage artificial intelligence to classify and analyze massive amounts of surveillance video. The project has been working on AI software that can flag people, vehicles ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.azorobotics.com/Article.aspx?ArticleID=345",
+      "ampWebUrl": "https://www.azorobotics.com/amp/article.aspx?ArticleID=345",
+      "cdnAmpWebUrl": "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/article.aspx?ArticleID=345",
+      "publishedDateTime": "2020-02-24T07:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Azorobotics",
+        "domain": "azorobotics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.azorobotics.com/images/Article_Images/ImageForArticle_345_15825385749239338.png",
+          "width": 950,
+          "height": 713,
+          "title": "Applications of Photodetectors in Robotics",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-24-britains-top-cop-calls-for-law-on-police-use-of-artificial-intelligence.md",
+      "title": "Britain's Top Cop Calls for Law on Police Use of Artificial Intelligence",
+      "excerpt": "framework for police use of new technologies such as artificial intelligence. Speaking about live facial recognition, which police in London started using in January, London police chief Cressida Dick said that she welcomed the government's 2019 manifesto pledge to create a legal framework for the police use of new technology like AI ...",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.voanews.com/europe/britains-top-cop-calls-law-police-use-artificial-intelligence",
+      "ampWebUrl": "https://www.voanews.com/europe/britains-top-cop-calls-law-police-use-artificial-intelligence?amp",
+      "cdnAmpWebUrl": "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/europe/britains-top-cop-calls-law-police-use-artificial-intelligence?amp",
+      "publishedDateTime": "2020-02-24T10:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Voice of America",
+        "domain": "voanews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.voltron.voanews.com/Drupal/01live-166/ap-images/2020/02/043aafaf1ac3ed4081332aade01c6f7d.jpg",
+          "width": 4558,
+          "height": 2954,
+          "title": "Britain's Top Cop Calls for Law on Police Use of Artificial Intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-24-china-delays-self-driving-car-deployment-goal-to-2025.md",
+      "title": "China delays self-driving car deployment goal to 2025",
+      "excerpt": "Why it matters: China backing off its ambitious plans underscores the challenging technological leap that self-driving technology has proven to be. Global auto tech giants have struggled to make autonomous cars safe for public use. The valuation of Google’s AV arm Waymo was slashed by 40% to $105 billion late last year, while General Motors ...",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://technode.com/2020/02/24/china-delays-self-driving-car-deployment-goal-to-2025/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-24T06:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechNode",
+        "domain": "technode.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://technode.com/wp-content/uploads/2019/01/bigstock-Smart-Car-Self-driving-Mode-V-260101189.jpg",
+          "width": 1775,
+          "height": 1080,
+          "title": "China delays self-driving car deployment goal to 2025",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
       ]
     }
   ],

@@ -110,6 +110,19 @@ related:
       - url: "https://www.autonews.com/s3/files/styles/800x600/public/40MOYEBEEP-MAIN_i.jpg"
         width: 800
         height: 600
+  - title: "US agency slams brakes on self-driving EasyMile shuttles after passenger injury"
+    excerpt: "EasyMile said the deployment in Columbus that started earlier this month was the first public self-driving shuttle in a residential area. Two EasyMile shuttles had been servicing a 2.9-mile (4.7 km) route at speeds of up to 25 miles per hour (40 kph), the company said. EasyMile said a human operator rides aboard each vehicle with access to ..."
+    publishedDateTime: 2020-02-26T03:35:00Z
+    webUrl: "https://www.channelnewsasia.com/news/business/us-agency-slams-brakes-on-self-driving-easymile-shuttles-after-passenger-injury-12471398"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 20
+    images:
+      - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/12471394/16x9/991/557/ffaf1e1a6d22eacd05e843a6ce5201d7/Al/file-photo--an-easymile-ez10-shared-autonomous-vehicle-is-seen-during-a-deployment-demonstration-at-bishop-ranch-1.jpg"
+        width: 991
+        height: 557
   - title: "U.S. agency slams brakes on self-driving EasyMile shuttles after passenger injury"
     excerpt: "EasyMile did not immediately comment. This month, the city of Columbus, Ohio, announced what EasyMile called the deployment of the first public self-driving shuttle in a residential area. Two EasyMile shuttles had been servicing a 2.9-mile (4.7 km )route at speeds of up to 25 miles (40 km) per hour, the company said. EasyMile said a human ..."
     publishedDateTime: 2020-02-25T23:20:00Z

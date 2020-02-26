@@ -2,362 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_posts/2020-02-12-this-eye-tracking-system-uses-ai-to-diagnose-multiple-sclerosis.md",
-      "title": "This eye-tracking system uses AI to diagnose multiple sclerosis",
-      "excerpt": "Now, C. Light Technologies, a neurotech and AI company that grew out of the Berkeley Skydeck accelerator, wants to help doctors diagnose neurological conditions with more speed and precision. The company has developed an eye-tracking technology paired with machine learning that can be used to diagnose multiple sclerosis (MS). Patients simply ...",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/2020/02/12/eye-tracking-ai-spots-mulitple-sclerosis/",
-      "ampWebUrl": "https://www.engadget.com/amp/2020/02/12/eye-tracking-ai-spots-mulitple-sclerosis/",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/12/eye-tracking-ai-spots-mulitple-sclerosis/",
-      "publishedDateTime": "2020-02-12T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D4752%252C2969%252C478%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C999%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-02%252F2bf14030-49c4-11ea-bd12-51dd6eb02117%26client%3Da1acac3e1b3290917d92%26signature%3Dc06466b4199d3f7b3a513f29e3fcc3a88a4b1399&client=amp-blogside-v2&signature=6405a5ad9aa4e773b6077a09463989cd83fdcb9b",
-          "width": 600,
-          "height": 350,
-          "title": "This eye-tracking system uses AI to diagnose multiple sclerosis",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-12-this-startup-is-building-infrastructure-for-the-first-factory-in-space.md",
-      "title": "This Startup Is Building Infrastructure For The First Factory In Space",
-      "excerpt": "In the quest to build bigger things in space, one Colorado-based company is readying for an epic construction demonstration mission. Blue Canyon Technologies will provide the spacecraft vehicle infrastructure supporting a “factory” that will 3D-print solar arrays in space.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/elizabethhowell1/2020/02/12/employee-owned-space-company-assists-with-assembling-stuff-in-orbit/",
-      "ampWebUrl": "https://www.forbes.com/sites/elizabethhowell1/2020/02/12/employee-owned-space-company-assists-with-assembling-stuff-in-orbit/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/elizabethhowell1/2020/02/12/employee-owned-space-company-assists-with-assembling-stuff-in-orbit/amp/",
-      "publishedDateTime": "2020-02-12T08:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e43fce9f133f400076c4041%2F0x0.jpg",
-          "width": 1200,
-          "height": 778,
-          "title": "This Startup Is Building Infrastructure For The First Factory In Space",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-12-uk-vc-firm-focused-on-artificial-intelligence-expands-to-southeast-asia.md",
-      "title": "U.K. VC Firm Focused on Artificial Intelligence Expands to Southeast Asia",
-      "excerpt": "Skymind Global Ventures, a venture capital firm that invests in artificial intelligence companies, on Wednesday launched an $800 million fund and said it would expand to Southeast Asia region. A significant portion of the $800 million fund will be used to invest in Southeast Asian AI companies, the company said in a statement to the press.",
-      "heat": 88,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.entrepreneur.com/article/346265",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/346265",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/346265",
-      "publishedDateTime": "2020-02-12T04:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/20170107081833-shutterstock-539711077.jpeg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": "U.K. VC Firm Focused on Artificial Intelligence Expands to Southeast Asia",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-12-why-clearview-ai-is-a-threat-to-us-all.md",
-      "title": "Why Clearview AI is a threat to us all",
-      "excerpt": "The surveillance system offers police unprecedented surveillance power. When London's Metropolitan Police Department announced its decision to adopt the controversial and intrusive ClearView AI surveillance system at the end of January, a global cacophony of protest erupted. Concerns, fear and trepidation surrounding facial recognition ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/2020/02/12/clearview-ai-police-surveillance-explained/",
-      "ampWebUrl": "https://www.engadget.com/amp/2020/02/12/clearview-ai-police-surveillance-explained/",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/12/clearview-ai-police-surveillance-explained/",
-      "publishedDateTime": "2020-02-12T07:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D4860%252C3281%252C0%252C496%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1080%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-02%252Fe54aedf0-4c27-11ea-a9fe-866995234731%26client%3Da1acac3e1b3290917d92%26signature%3D391ffea25021c6719cf6fee9e9c0546ae4d25dff&client=amp-blogside-v2&signature=8eb6abcd4b8196a3f78f1a49f795c0cd964de258",
-          "width": 600,
-          "height": 350,
-          "title": "Why Clearview AI is a threat to us all",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-13-92-of-tech-insiders-have-a-strong-appetite-for-ai.md",
-      "title": "92% of tech insiders have a strong appetite for AI",
-      "excerpt": "are in favor of some level of government involvement in AI. Many organizations are poised for that push. Ethics are an issue that can't be ignored, either, and 88% of the tech insiders say companies need to implement an AI ethics policy to help govern AI work. There are some barriers to furthering the adoption of AI, but business insiders vow ...",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/92-of-tech-insiders-have-a-strong-appetite-for-ai/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/92-of-tech-insiders-have-a-strong-appetite-for-ai/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/92-of-tech-insiders-have-a-strong-appetite-for-ai/",
-      "publishedDateTime": "2020-02-13T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/02/12/e489d2ed-5267-48e2-9d94-fdc40d8903b5/resize/1200x/0d790acc1783bdab873249f6ba95689f/ai-guy-holding-tablet.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "92% of tech insiders have a strong appetite for AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-13-ai-in-telecommunication-market-outlook-big-expectations-to-watch-for.md",
-      "title": "AI in Telecommunication Market Outlook: Big Expectations to Watch For",
-      "excerpt": "The Latest research study released by HTF MI \"Global AI in Telecommunication Market\" with 100+ pages of analysis on business Strategy taken up by key and emerging industry players and delivers know how of the current market development,",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-telecommunication-market-outlook-big-expectations-to-watch-for-2020-02-13",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-13T07:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "AI in Telecommunication Market Outlook: Big Expectations to Watch For",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-13-ai-makes-it-easy-for-hr-to-identify-at-risk-employees.md",
-      "title": "AI makes it easy for HR to identify at-risk employees",
-      "excerpt": "Steve Beauchamp, CEO of Paylocity, sits down with Tonya Hall to learn more about how AI is making it easier for HR staff to identify at-risk employees in order to improve employee engagement.",
-      "heat": 167,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/video/ai-makes-it-easy-for-hr-to-identify-at-risk-employees/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-13T06:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/02/13/4e4cd8eb-2afd-473d-975b-c13946cf39b2/thumbnail/770x578/094ffc6030460ffa872f164fae6023d2/thumb.jpg",
-          "width": 770,
-          "height": 578,
-          "title": "AI makes it easy for HR to identify at-risk employees",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-13-ai-tool-can-now-update-outdated-wikipedia-content.md",
-      "title": "AI tool can now update outdated Wikipedia content",
-      "excerpt": "Researchers at MIT have developed a system that can automatically update outdated and factually inconsistent data in Wikipedia articles. The automated tool ... structured sentences and relevant Wikipedia sentences, to train the AI system. As a result, it is now able to identify the redundant information then rewrite it without much human ...",
-      "heat": 197,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techradar.com/in/news/ai-tool-can-now-update-outdated-wikipedia-content",
-      "ampWebUrl": "https://www.techradar.com/in/amp/news/ai-tool-can-now-update-outdated-wikipedia-content",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/ai-tool-can-now-update-outdated-wikipedia-content",
-      "publishedDateTime": "2020-02-13T06:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/wfYVuuRm4LZTk8h6thKDYN-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": "AI tool can now update outdated Wikipedia content",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-13-ais-healthcare-promise-will-serve-patients-and-more.md",
       "title": "AI’s Healthcare Promise Will Serve Patients — and More",
       "excerpt": "The question: “As healthcare organizations invest in artificial intelligence technologies, in what areas can they reap the most immediate benefits?” Scott Nelson, Founder, CEO, CTO, Reuleaux Technology, agrees. “Without question, the most immediate AND impactful application of AI in healthcare will be patient engagement/behavior during ...",
@@ -1885,7 +1529,7 @@
       "path": "_posts/2020-02-14-microsofts-ai-improves-text-summarization-performance-by-paying-closer-attention-to-the-beginning.md",
       "title": "Microsoft’s AI improves text summarization performance by paying closer attention to the beginning",
       "excerpt": "That’s why researchers from Pittsburgh and Microsoft Researcher’s Future Social Experiences (FUSE) lab, which focuses on real-time and media-rich experiences, developed an AI system that pays close attention to the beginning of documents it’s summarizing. They say that this improved its experimental performance particularly in the case of ...",
-      "heat": 83,
+      "heat": 73,
       "tags": null,
       "type": "article",
       "webUrl": "https://venturebeat.com/2020/02/14/microsofts-ai-improves-text-summarization-performance-by-paying-closer-attention-to-the-beginning/",
@@ -2140,6 +1784,354 @@
       "topics": [
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-14-nvidias-earnings-crush-expectations-and-outlook-shines-stock-pops.md",
+      "title": "NVIDIA's Earnings Crush Expectations and Outlook Shines; Stock Pops",
+      "excerpt": "On the earnings call, CEO Jensen Huang attributed the data center's amazing performance to the rapid adoption of AI for an increasing number of applications, calling out natural language processing and internet recommender systems several times. NVIDIA said in its earnings release that it's still in discussions with China's regulatory agency ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/02/13/nvidias-earnings-crush-expectations-and-outlook-sh.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/02/13/nvidias-earnings-crush-expectations-and-outlook-sh.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/02/13/nvidias-earnings-crush-expectations-and-outlook-sh.aspx",
+      "publishedDateTime": "2020-02-13T18:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F558039%2Fnvda-stock-nvda-earnings-nvidia-stock-earnings-ai-artificial-intelligence.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 795,
+          "title": "NVIDIA's Earnings Crush Expectations and Outlook Shines; Stock Pops",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-14-playsight-trained-ai-on-thousands-of-hours-of-videos-to-understand-sports.md",
+      "title": "PlaySight trained AI on thousands of hours of videos to understand sports",
+      "excerpt": "At the 2020 OurCrowd Global Investor summit in Jerusalem this week, VentureBeat caught up with founder and CEO Chen Shachar to get the skinny on PlaySight’s technology — specifically its use of AI and machine learning. PlaySight works with customers to build what it calls SmartCourts, connected systems consisting of cameras installed around ...",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/14/playsight-ai-machine-learning-sports-analytics/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/14/playsight-ai-machine-learning-sports-analytics/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/14/playsight-ai-machine-learning-sports-analytics/amp/",
+      "publishedDateTime": "2020-02-14T08:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/58a0f21e-eead-4670-9c99-097e67da5890-e1581659979759.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "PlaySight trained AI on thousands of hours of videos to understand sports",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-14-show-me-the-money-how-ai-and-tech-can-solve-procurement-spend-challenges.md",
+      "title": "Show Me The Money: How AI And Tech Can Solve Procurement Spend Challenges",
+      "excerpt": "Fund innovation. Fund future growth. Increase savings. One of these things is not like the other, but AI can help procurement and supply chain leaders tackle their biggest spend challenges.",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/sap/2020/02/14/ai-in-procurement/",
+      "ampWebUrl": "https://www.forbes.com/sites/sap/2020/02/14/ai-in-procurement/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2020/02/14/ai-in-procurement/amp/",
+      "publishedDateTime": "2020-02-14T08:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F170550550%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3336%26cropY1%3D175%26cropY2%3D2051",
+          "width": 1200,
+          "height": 675,
+          "title": "Show Me The Money: How AI And Tech Can Solve Procurement Spend Challenges",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-14-simplify-machine-learning-inference-on-kubernetes-with-amazon-sagemaker-operators.md",
+      "title": "Simplify Machine Learning Inference on Kubernetes with Amazon SageMaker Operators",
+      "excerpt": "Amazon SageMaker Operators for Kubernetes allows you to augment your existing Kubernetes cluster with SageMaker hosted endpoints. \nMachine learning inferencing requires investment to create a reliable and efficient service. For an XGBoost model, developers have to create an application, such as through",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/simplify-machine-learning-inference-on-kubernetes-with-amazon-sagemaker-operators/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-14T12:18:36-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/12/02/EKxHDbaWkAEIegr.png",
+          "width": 800,
+          "height": 400,
+          "title": "Simplify Machine Learning Inference on Kubernetes with Amazon SageMaker Operators",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-14-the-ai-pivot-how-the-push-to-adopt-the-advanced-tech-is-rippling-through-corporate-america.md",
+      "title": "THE AI PIVOT: How the push to adopt the advanced tech is rippling through corporate America",
+      "excerpt": "IBM is using its AI star Watson to pinpoint salaries and coach employees. Here are 9 robot tools that could one day find their way to your office. The biggest AI opportunities in the workplace ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/artificial-intelligence-how-the-tech-is-rippling-through-companies",
+      "ampWebUrl": "https://www.businessinsider.com/artificial-intelligence-how-the-tech-is-rippling-through-companies?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/artificial-intelligence-how-the-tech-is-rippling-through-companies?amp",
+      "publishedDateTime": "2020-02-14T05:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5db72f2fdee01921b60cfabb?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "THE AI PIVOT: How the push to adopt the advanced tech is rippling through corporate America",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-14-travis-bott-makes-travis-scott-like-music-lyrics-with-ai.md",
+      "title": "Travis Bott makes Travis Scott-like music, lyrics with AI",
+      "excerpt": "Why we care: The robots are coming for your playlists again, and they’re mimicking your favorite artists in music videos too. Take Travis Bott. Yes, Travis Bott. He’s an AI musician inspired by Travis Scott, the rapper, producer, and songwriter responsible for “Sicko Mode” and more. Travis Bott has a new song⁠⁠ and accompanying ...",
+      "heat": 147,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fastcompany.com/90464062/meet-travis-bott-the-travis-scott-twin-whose-music-and-lyrics-were-created-with-ai?partner=feedburner",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-14T08:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fast Company",
+        "domain": "fastcompany.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/02/p-1-travis-scottand8217s-ai-and8216bot-twin.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Travis Bott makes Travis Scott-like music, lyrics with AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-14-use-ai-ethically-to-build-relationships-not-data-warehouses.md",
+      "title": "Use AI Ethically To Build Relationships, Not Data Warehouses",
+      "excerpt": "Capitalist societies risk the commoditization of personal data at the expense of the individual. But greater, more long-term and beneficial economic success can be created by looking beyond the blinders of shareholder profit.",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/14/use-ai-ethically-to-build-relationships-not-data-warehouses/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/14/use-ai-ethically-to-build-relationships-not-data-warehouses/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/02/14/use-ai-ethically-to-build-relationships-not-data-warehouses/amp/",
+      "publishedDateTime": "2020-02-13T21:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e461695f133f4000628c188%2F0x0.jpg",
+          "width": 1200,
+          "height": 1058,
+          "title": "Use AI Ethically To Build Relationships, Not Data Warehouses",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-14-yandex-claims-2-million-self-driving-car-miles-double-in-4-months.md",
+      "title": "Yandex claims 2 million self-driving car miles, double in 4 months",
+      "excerpt": "The Russian tech titan revealed the latest milestone in its Q4 2019 financials earlier today. Yandex’s on-demand transport subsidiary Yandex.Taxi unveiled its self-driving car program back in May, 2017, and shortly after it began piloting the vehicles on Moscow’s roads. In the intervening years, the company has expanded its fleet across ...",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/14/yandex-claims-2-million-self-driving-car-miles-double-in-4-months/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/14/yandex-claims-2-million-self-driving-car-miles-double-in-4-months/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/14/yandex-claims-2-million-self-driving-car-miles-double-in-4-months/amp/",
+      "publishedDateTime": "2020-02-14T05:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/07/Yandex_self-driving_Hyundai_Sonata_6.jpg?fit=1920%2C1280&strip=all",
+          "width": 1920,
+          "height": 1280,
+          "title": "Yandex claims 2 million self-driving car miles, double in 4 months",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
       ]
     }
   ],

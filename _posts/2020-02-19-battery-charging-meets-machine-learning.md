@@ -52,15 +52,15 @@ related:
         height: 364
   - title: "Turning Machine Learning into Business Applications"
     excerpt: "Machine Learning is viewed as an essential enabler that will allow applications to act on the collection of new data sets to improve their predictive capabilities. This white paper shows how Talend and AWS are bridging the gap between data scientists and data engineers to operationalize ML."
-    publishedDateTime: 2020-02-24T22:09:00Z
-    webUrl: "https://www.computerworld.com/resources/199257/turning-machine-learning-into-business-applications"
+    publishedDateTime: 2020-02-24T21:58:00Z
+    webUrl: "https://www.networkworld.com/resources/199257/turning-machine-learning-into-business-applications"
     type: article
     provider:
-      name: Computerworld
-      domain: computerworld.com
+      name: Network World
+      domain: networkworld.com
     quality: 39
     images:
-      - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
+      - url: "https://idge.staticworld.net/nww/nww_logo_300x300.png"
         width: 300
         height: 300
   - title: "Facebook Faculty Research Award recognizes machine learning advancements at MSU"

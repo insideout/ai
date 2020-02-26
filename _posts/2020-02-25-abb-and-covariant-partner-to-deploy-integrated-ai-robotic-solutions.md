@@ -49,7 +49,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 89
+    quality: 91
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2020/02/f4c4e7ef-f32a-43c8-81f8-ccd46a578b31-e1582607532413.png?fit=1200%2C600&strip=all"
         width: 1200
@@ -99,6 +99,36 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/02/maxresdefault-4-e1582140205297.jpg?fit=800%2C400&strip=all"
         width: 800
         height: 400
+  - title: "Autonomous driving startup Pony.ai raises $462 million in Toyota-led funding"
+    excerpt: "The Silicon Valley-based startup Pony.ai - co-founded by CEO James Peng, a former executive at China’s Baidu, and chief technology officer Lou Tiancheng ... has been lagging rivals in bringing self-driving cars to market. It has taken a long view towards the technology, saying it will take decades for cars to drive themselves on roads."
+    publishedDateTime: 2020-02-26T03:57:00Z
+    webUrl: "https://uk.reuters.com/article/uk-toyota-pony-ai-autonomous/autonomous-driving-startup-pony-ai-raises-462-million-in-toyota-led-funding-idUKKCN20K0CT"
+    ampWebUrl: "https://uk.mobile.reuters.com/article/amp/idUKKCN20K0CT"
+    cdnAmpWebUrl: "https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKKCN20K0CT"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 86
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200226&t=2&i=1495295329&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG1P0A3"
+        width: 817
+        height: 545
+  - title: "Driverless car startup Pony.ai raises $462 million at a $3 billion valuation"
+    excerpt: "In a sign that investors’ enthusiasm for driverless cars hasn’t dampened yet, Pony.ai today secured a whopping $462 million in fresh funding, $400 million of which came from Toyota. The capital infusion brings the Guangzhou- and Fremont, California-based startup’s total raised to about $800 million at a valuation north of $3 billion (up ..."
+    publishedDateTime: 2020-02-26T03:00:00Z
+    webUrl: "https://venturebeat.com/2020/02/25/driverless-car-startup-pony-ai-raises-462-million-at-a-3-billion-valuation/"
+    ampWebUrl: "https://venturebeat.com/2020/02/25/driverless-car-startup-pony-ai-raises-462-million-at-a-3-billion-valuation/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/25/driverless-car-startup-pony-ai-raises-462-million-at-a-3-billion-valuation/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 84
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/08/ad1de834-abf3-471e-b4cc-3408c731b4f4-e1566788588385.png?fit=1200%2C600&strip=all"
+        width: 1200
+        height: 600
   - title: "Exclusive: Autonomous driving startup Pony.ai raises $500 million in Toyota-led funding- sources"
     excerpt: "The Silicon Valley-based startup Pony.ai - co-founded by CEO James Peng, a former executive at China’s Baidu (BIDU.O), and chief technology officer Lou Tiancheng, a former Google (GOOGL.O) and Baidu engineer - is already testing autonomous vehicles in California, Beijing and Guangzhou. The firm is focusing on achieving “Level 4”, or fully ..."
     publishedDateTime: 2020-02-26T01:08:00Z
@@ -128,6 +158,6 @@ related:
         width: 1200
         height: 600
 
-secured: "PzdCGlohN4hk+2DHWa5K8mVsBlBMeDIcn33xOnovbqaJYTMXSFVfNoG/n1BQKx9fAgapWImHt9eEAxJl1h9x0i+Nc5pqQlo3ATm/AgnX1nLMSGBoKP16L5cH9jDnxzRI0RsKHHzjJKZG3nVrHk1Wn/6/0qpQ3A8y3/jptg5Ap5vsuYcnhJzj05bRWWQTTtO2dmW84sZVF7vVrWUpNQztG+Q8QnMaw0HWpIF6r8n7HqqGIf6dkljSSCd2ELNzNapfWJ3jMCpFCbqobZhvX7mXqHhc9HS6XKr0jrKtkhXdJR+Doa6baNy5ii9yjsY2/oA/;qxlzOg4NJUTO3wl+eM5Glw=="
+secured: "Ww88zBaYjlVKtoUGI3CfGrqQ6VMn/r1Kl4bAvA15QQ1JRclIsIozht2WPBsUDRB238dtHH6Xs/U5WqCxltOFNTj8l5ZwTxA2wwPj5M2tLoWyWESNSIom1eEgxAKE1Ah8M1WUcDkO8lR1CUzNMfZaVM0ovQ1lCcFtwhW9qDPaKIyU9kSVJxu4YcPFbsesH6tbmn4Q+M9IfJDKIDFPlaNcA8emWhBdu9rIMYE8iyAKnk83T0yw2pikOyvy7rVjYyeU7G1FRRcNVH2DLdbdjlekiwlq3yn14BOdGqJslGkZe4iM3kdIZW6sIuImPoosziIcWGLU2H6cXlZ84JTVvkRJIJf2KBeNN3oK+ZBXjynkMArWSjp9ahKGHx+ZcIzxUfJeEz8gRTuIC7dOMty1HA/7XlrCp5PXbBUgwwPsWazcc/C2yxKUO388XTJyxvsowDnWXZDdD4Rrw/ImPDSbGa/VBZmLGvrsspHI3kg/nXu1ryU=;ShqJ+zR8esVjxAi/66D7Fg=="
 ---
 

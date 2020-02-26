@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-26T00:01:00Z
 webUrl: "https://virtual-strategy.com/2020/02/25/deltec-bank-bahamas-explains-how-fintech-creates-sweeping-changes-for-the-financial-services-industry/"
 type: article
 quality: 38
-heat: 38
+heat: -1
 published: false
 
 provider:
@@ -24,31 +24,40 @@ images:
     title: "Deltec Bank, Bahamas explains how Fintech Creates Sweeping Changes for the Financial Services Industry"
 
 related:
-  - title: "5 Ways Financial Services Can Use Messaging to Create a Better Experience"
-    excerpt: "Zendesk provides a customer service platform designed to bring organizations and their ... 70% of all customer interactions will involve emerging tools like chatbots, machine learning, and mobile messaging, up from 15% in 2018.” 1 While the financial industry has previously been a slower contestant in the digital transformation race, fintech ..."
-    publishedDateTime: 2020-02-19T19:22:00Z
-    webUrl: "https://www.business2community.com/brandviews/zendesk/5-ways-financial-services-can-use-messaging-to-create-a-better-experience-02286280"
-    ampWebUrl: "https://www.business2community.com/brandviews/zendesk/5-ways-financial-services-can-use-messaging-to-create-a-better-experience-02286280/amp"
-    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/brandviews/zendesk/5-ways-financial-services-can-use-messaging-to-create-a-better-experience-02286280/amp"
+  - title: "Deltec Bank, Bahamas says Deep Learning and Artificial Intelligence in Changing Data Analysis Field"
+    excerpt: "This platform makes it easier to input multivariate calculus, linear algebra, and statistics probability in useful ways. The algorithms used for deep learning and artificial intelligence use neural networks to discover the associations between the input and output layers. Between the data and the predictable solution sits a hidden layer (or ..."
+    publishedDateTime: 2020-02-25T00:00:00Z
+    webUrl: "https://virtual-strategy.com/2020/02/25/deltec-bank-bahamas-says-deep-learning-and-artificial-intelligence-in-changing-data-analysis-field/"
     type: article
     provider:
-      name: Business 2 Community
-      domain: business2community.com
-    quality: 23
-  - title: "Breach Clarity Launches Premium to Give Financial Services Firms Customer-Level Breach Risk Intelligence"
-    excerpt: "Fraud prevention and detection technology firm Breach Clarity, which analyzes and scores every publicly reported U.S. data breach based on more than 1,000 factors, has developed a new machine learning platform for financial service providers to enable highly targeted protections for customers. Underpinned by a proprietary algorithm, the ..."
-    publishedDateTime: 2020-02-19T15:28:00Z
-    webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=139320"
-    type: article
-    provider:
-      name: Destination CRM
-      domain: destinationcrm.com
-    quality: 7
+      name: Virtual-Strategy
+      domain: virtual-strategy.com
+    quality: 42
     images:
-      - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/128215-0220_CloudContactCenter_480x610_new-ORG.png"
-        width: 480
-        height: 610
+      - url: "https://virtual-strategy.com/wp-content/plugins/all-in-one-seo-pack/images/default-user-image.png"
+        width: 512
+        height: 512
+  - title: "Deltec Bank, Bahamas says Deep Learning and Artificial Intelligence in Changing Data Analysis Field"
+    excerpt: "“Deltec Bank” Deltec Bank, Bahamas says Deep Learning and Artificial Intelligence in Changing Data Analysis Field Deep learning can feel more like a buzzword"
+    publishedDateTime: 2020-02-26T03:35:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/02/ab15413678/deltec-bank-bahamas-says-deep-learning-and-artificial-intelligence-in-changing-data-analysis-fiel"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/15413678"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15413678"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 40
+  - title: "RPA and AI in Banking"
+    excerpt: "Some of the key players operating in this market include: Cognizant, Capgemini, Accenture, Fintech Singapore, The Lab Consulting, UiPath, iRobot, Robogals The report provides a basic overview of the industry including definitions and classifications. The RPA and AI in Banking Market analysis is provided for the international markets including ..."
+    publishedDateTime: 2020-02-25T14:55:00Z
+    webUrl: "https://www.openpr.com/news/1944313/attractive-market-opportunities-in-the-rpa-and-ai-in-banking"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 34
 
-secured: "X4VFigOrJ5OKdB8Lzu380Hw/IntiDlMcUrbhzD0I6I27/DxBlM1tWzAKXhdXd/fzLfZasn6G8KgvaoqXoUa6vcBipiZvXNtjYR9IXDY+bmPHOw5IBFOgQ5+lJspfCCDaJpkLuUVpwOvgkbCmXowDhv9SxFIGRFbHqbKZmj4bSwJ2j18xrwBJME7sb8fRC/uWfbDPF63mr2Ed2HmxbGTfnY5Oqtw1HIUKbs+s9AvjMjBpOTZ4q8kMzzgT/d3Klng1o1P4BX7BA4ln7vdYRyu4Qp6wwRz/u6K+eBnEVOgsmXV1bQ4XIvhTPTs6358Il7cM;Q+8DW/QjVRvjam0hQ9Z6Zw=="
+secured: "OI0+q9GkaZEWpAodpBpB7eVnMcsCVKOdx+kZ/zapno3iVLy4YknvvdDF7nH5GkKBxHdjiT1XOI0BB5KBrbKJeb7aOQnOe3LgH2YtdO4dlofy7s6965Hr4aFF0qpe2YkxaPxb7niM2WEAkXfSXgfYgc2uecVQ+dkkUqOYw1REIO4/WkR+YJjJ4NmrceiuID9ZqfQqGD2aFzV2gKKfLX4+eqEWRz4TtMrWHXzSTv+VHoDWnS6U7+LJz+bRdghP0gMMqATSL61CZKEFmPeJD3J+7mfoHU0pMT3RsXnpCdcicr4H234fzsAwdBQszwJdWwJ8sCjPtOxzB8Tt8SZP7/oy37S8/K7KE9s00sf6e02YvtQnJ17AHG50e0jFLuqgFH/2X7N6EJqWSzHSv8DjgZxVMc26f4jnu1EnkLfJpK1Bu245kUFfdEF6DZpzDpFA7JSvy829LTKHNvIx8WZ428thVFMcSoddUQTkyK7xdtDE23c=;R6TLtm2NWZym6mqsb01Uvw=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-07T00:00:00Z
 webUrl: "https://www.eweek.com/big-data-and-analytics/six-data-points-you-should-know-about-federated-machine-learning"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -27,17 +27,6 @@ images:
     height: 300
     title: "Six Data Points You Should Know about Federated Machine Learning"
 
-related:
-  - title: "Federated machine learning: The road to decentralised data collaboration"
-    excerpt: "Big data projects and state-of-the-art data science models are using artificial intelligence (AI) and machine learning (ML) to drive innovation across financial services, healthcare, government and other sectors. Take the healthcare industry for example, which is expected to spend roughly $23 billion globally on big data analytics by 2023 ..."
-    publishedDateTime: 2020-02-11T09:30:00Z
-    webUrl: "https://www.itproportal.com/features/federated-machine-learning-the-road-to-decentralised-data-collaboration/"
-    type: article
-    provider:
-      name: IT Pro Portal
-      domain: itproportal.com
-    quality: 20
-
-secured: "Iy7uRMWWbmRNuijkx2V2GDyd+/PJ5ITQYn7JV9uBqU7MIIJzLtiqih5Vh8E+pC/HuV9zliV12kn9HwsSeMsITvYx8DZelPqshcryjRjZiCkPF0g7fMM6Q2pL3TXfGKugnKmwt2NdpVA/gElh4bm9RWmlJQjHcD676frrEbl63MT8J0zPQhRTp4QfyNgibrgEZ2Jqayx5s2jfQMxBVDKmTSDtjjl5BWAqIZ65+ixxMbQHgKOYrQfzOqWwtWjnzN/CAgidHO+Zz8Ejxfxk4PpgiHxhlNenRGIcEthuvI2d7gIgvp30dBq4vbvMP8BERfzS;HMZUrFqThG2iVXnK5W7x+w=="
+secured: "qtKDqkBGcfhR+juTGvnRS1mOiUR9YkjDX2ysnEyOcayWJw/Tg7zl2Im8hiA2NV+D7GZAD2KRZV2TTS8ryAg7pDQgQ032y9Q8VwRKaX78pHflXmhqXXOtMDBqXFY89kApexXQSy1leGQxUKYCnAqMLHcO0JZqQjIChh2ZUl7CZ6nWK2HXsWGwXWXhDuIoM1ExSz1zwuSGS1Uu9nn/4fz+1pg2Xhu7qZnMR79MfzL5SG3fM8xtTCJgaigXrcTctzDCZDv9Zzz8hO4xtqT24ARVxXTpU0mPpCt8reO8pU5JGFFrIt3O3EWyn6o2QkXujpXO;+DrLgCMdKE/01BoyOt9u0Q=="
 ---
 
