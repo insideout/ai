@@ -1,0 +1,129 @@
+---
+category: news
+title: "Clearview AI, the controversial facial-recognition company partnering with police, says its entire customer list was stolen in a breach"
+excerpt: "Clearview markets its services to law-enforcement agencies and has previously avoided disclosing the identities of its clients."
+publishedDateTime: 2020-02-26T18:41:00Z
+webUrl: "https://www.businessinsider.com/clearview-ai-list-customers-stolen-breach-2020-2"
+ampWebUrl: "https://www.businessinsider.com/clearview-ai-list-customers-stolen-breach-2020-2?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/clearview-ai-list-customers-stolen-breach-2020-2?amp"
+type: article
+quality: 57
+heat: -1
+published: false
+
+provider:
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+  - Computer Vision
+
+images:
+  - url: "https://i.insider.com/5d8764c92e22af0119409b92?width=1200&format=jpeg"
+    width: 1200
+    height: 600
+    title: "Clearview AI, the controversial facial-recognition company partnering with police, says its entire customer list was stolen in a breach"
+
+related:
+  - title: "Facial recognition company Clearview AI probed by Canada privacy agencies"
+    excerpt: "Canadian privacy authorities have launched an investigation into New York-based Clearview AI to determine whether the firm’s use of facial recognition technology complies with the country’s privacy laws,"
+    publishedDateTime: 2020-02-21T18:32:00Z
+    webUrl: "https://www.reuters.com/article/us-clearview-ai-canada-idUSKBN20F2I3"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN20F2I3"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN20F2I3"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 103
+    images:
+      - url: "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png"
+        width: 1200
+        height: 630
+  - title: "Canadian Privacy Commissioners to Investigate Creepy Facial Recognition Firm Clearview AI"
+    excerpt: "Canadian authorities are investigating shady face recognition company Clearview AI on the grounds that its scraping of billions of photos from the web might violate privacy laws, Reuters reported on Friday. According to Reuters, privacy commissioners from the Canadian federal government and of the provinces of British Columbia, Alberta ..."
+    publishedDateTime: 2020-02-21T23:37:00Z
+    webUrl: "https://gizmodo.com/canadian-privacy-commissioners-to-investigate-creepy-fa-1841841033"
+    ampWebUrl: "https://gizmodo.com/canadian-privacy-commissioners-to-investigate-creepy-fa-1841841033/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/canadian-privacy-commissioners-to-investigate-creepy-fa-1841841033/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 95
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/s--k8Q9PwVM--/c_scale,f_auto,fl_progressive,q_80,w_800/thuqbup5w7zmofhx9lam.png"
+        width: 800
+        height: 450
+  - title: "Facial Recognition Company Clearview AI Probed by Canada Privacy Agencies"
+    excerpt: "Canadian privacy authorities have launched an investigation into New York-based Clearview AI to determine whether the firm's use of facial recognition technology complies with the country's privacy laws,"
+    publishedDateTime: 2020-02-22T09:32:00Z
+    webUrl: "https://www.nytimes.com/reuters/2020/02/22/technology/22reuters-clearview-ai-canada.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 83
+    images:
+      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
+        width: 1200
+        height: 630
+  - title: "Facial recognition app used by more than 600 law enforcement agencies suffers significant data breach"
+    excerpt: "A new facial recognition company, which claims to be used by over 600 law enforcement agencies, has suffered a data breach, according to the company. Clearview AI confirmed with Fox News that its entire client list was stolen in the breach. According to the company, someone gained access to a list of all of Clearview’s customers, the number ..."
+    publishedDateTime: 2020-02-26T18:05:00Z
+    webUrl: "https://www.foxnews.com/us/facial-recognition-app-used-by-more-than-600-law-enforcement-agencies-suffers-significant-data-breach"
+    ampWebUrl: "https://www.foxnews.com/us/facial-recognition-app-used-by-more-than-600-law-enforcement-agencies-suffers-significant-data-breach.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/facial-recognition-app-used-by-more-than-600-law-enforcement-agencies-suffers-significant-data-breach.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 74
+    images:
+      - url: "https://media.foxbusiness.com/BrightCove/854081161001/202002/1214/854081161001_6132703327001_6132714474001-vs.jpg"
+        width: 1280
+        height: 720
+  - title: "Clearview AI's founder defends controversial facial recognition app"
+    excerpt: "Hoan Ton-That's app, Clearview AI, has triggered fears about facial recognition — and the dystopian future it could foreshadow. CNN Business' Donie O'Sullivan sits down with the CEO to talk about questions of legality, privacy, and bias in the era of facial recognition."
+    publishedDateTime: 2020-02-18T14:19:00Z
+    webUrl: "https://www.djournal.com/news/national/clearview-ai-s-founder-defends-controversial-facial-recognition-app/video_9e9cbbbc-111e-5904-b1c9-c12426069aab.html"
+    type: article
+    provider:
+      name: Daily Journal
+      domain: djournal.com
+    quality: 54
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/9/e9/9e9cbbbc-111e-5904-b1c9-c12426069aab/5e41f2280d4e7.image.jpg?resize=576%2C324"
+        width: 576
+        height: 324
+  - title: "Clearview AI CEO Defends Facial Recognition Software"
+    excerpt: "Clearview AI is an astonishing piece of technology—a groundbreaking facial recognition app that collects billions of images from social media and all across the internet. Law enforcement agencies around the world are becoming enthusiastic clients, using the app to identify suspects. Hari speaks to the company’s co-founder and CEO ..."
+    publishedDateTime: 2020-02-20T05:31:00Z
+    webUrl: "https://www.pbs.org/wnet/amanpour-and-company/video/clearview-ai-ceo-defends-facial-recognition-software/"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 54
+    images:
+      - url: "https://www.pbs.org/wnet/amanpour-and-company/files/2020/02/4gPfMc5-asset-mezzanine-16x9-BKkp7dE.jpg"
+        width: 1920
+        height: 1080
+  - title: "Canada Privacy Watchdog Probes Facial Recognition Startup"
+    excerpt: "The images -- grabbed from popular social media platforms including Facebook, Instagram, Twitter and YouTube as well as millions of other websites -- are used in its facial recognition software. Clearview AI's founder Hoan Ton-That has said the technology has been made available to more than 600 law enforcement agencies in Canada and the United ..."
+    publishedDateTime: 2020-02-21T20:27:00Z
+    webUrl: "https://www.ibtimes.com/canada-privacy-watchdog-probes-facial-recognition-startup-2926715"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 19
+
+secured: "JOaS86FvRrW+m5mhRgYbOwbHZgDIt0j45nfj1ox3J63MNzXZE/SJx3fgLZZJJfepqzfpm59Pqs3zIA+9V5aG3eKpIZpheGE1frm5bZk6yhh6FNBuJmMc0qxRnzE+FaJhbYi5BRz/2Bvfq5E75kZZJszQy4u4VJe1IT3I9i7hxL5FOp4N1cmqv5bU8kAbleV80/BOmrbMd7PSVRarT+Hw7WW4pRmMtSec+YBEkR/NITO/+QkEpPFROyYtVQ3ro3gYnWS135kOIZiTjd1wIPHh4Rwp3bQUbp9djQte1cW0HfuCkbyO8lPXcx8hOpn+ZReLEY0l8viNDRqtB4c0Hqbt04WMdfVsFGcQzRU2HRdf8Vm/JDvTtSAwXEPAmhO26ypzDlWQakzy4FxCG68iZxnHtIqpr0uNuXGgY5zpXsEEa2z9JguG6HeT22DrXIWqxV1Yhw2KFJdza3s2oDWtctIPwpIvaPVO6/MD1cYZUcPgpVg=;lq06DOvZ6B/rrQsvOYu16Q=="
+---
+

@@ -24,6 +24,19 @@ images:
     title: "SolidRun, Gyrfalcon Develop First Edge Optimized AI Inference Server That Bests GPU Performance"
 
 related:
+  - title: "SolidRun and Gyrfalcon Develop First Edge Optimized AI Inference Server That Bests GPU Performance at a Fraction of the Cost and Power"
+    excerpt: "/PRNewswire/ -- SolidRun, a leading developer and manufacturer of high-performance edge computing solutions, and ASIC solutions provider Gyrfalcon"
+    publishedDateTime: 2020-02-26T18:38:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/solidrun-and-gyrfalcon-develop-first-edge-optimized-ai-inference-server-that-bests-gpu-performance-at-a-fraction-of-the-cost-and-power-301009495.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 22
+    images:
+      - url: "https://mma.prnewswire.com/media/826408/SolidRun_Logo.jpg?p=facebook"
+        width: 2697
+        height: 1414
   - title: "SolidRun and Gyrfalcon Develop Edge Optimized AI Inference Server"
     excerpt: "Highly scalable and modular, Janux GS31 supports neural network frameworks and can be configured with up to 128 Gyrfalcon Lightspeeur SPR2803 AI acceleration chips for inference performance for complex video AI models. This server foundation allows for accelerated and cost-effective scaling of AI inference. Supporting ultra-low latency decoding ..."
     publishedDateTime: 2020-02-25T20:15:00Z

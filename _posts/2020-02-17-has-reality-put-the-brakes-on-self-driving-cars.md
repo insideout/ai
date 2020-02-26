@@ -26,36 +26,62 @@ images:
     title: "Has reality put the brakes on self-driving cars?"
 
 related:
-  - title: "Lyft touts benefits of self-driving cars, but warns of ‘second order’ effects"
-    excerpt: "Autonomous cars will prove critical to the future of cities, according to Raj Kapoor, Lyft’s chief strategy officer and head of business for self-driving. But he added that riders may need to adjust their expectations and warned of unintended “second order” effects of the burgeoning driverless car industry. Kapoor was speaking at the Move ..."
-    publishedDateTime: 2020-02-12T10:30:00Z
-    webUrl: "https://venturebeat.com/2020/02/12/lyft-touts-benefits-of-self-driving-cars-but-warns-of-second-order-effects/"
-    ampWebUrl: "https://venturebeat.com/2020/02/12/lyft-touts-benefits-of-self-driving-cars-but-warns-of-second-order-effects/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/12/lyft-touts-benefits-of-self-driving-cars-but-warns-of-second-order-effects/amp/"
+  - title: "We still can’t agree how to regulate self-driving cars"
+    excerpt: "A quick recap in case you forgot: the Republican-controlled House of Representatives unanimously passed the SELF DRIVE Act in 2017, which would speed the adoption of self-driving cars and bar ..."
+    publishedDateTime: 2020-02-11T21:26:00Z
+    webUrl: "https://www.theverge.com/2020/2/11/21133389/house-energy-commerce-self-driving-car-hearing-bill-2020"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/2/11/21133389/house-energy-commerce-self-driving-car-hearing-bill-2020"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/11/21133389/house-energy-commerce-self-driving-car-hearing-bill-2020"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 71
+      name: The Verge
+      domain: theverge.com
+    quality: 74
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/02/Raj.jpg?fit=2286%2C1247&strip=all"
-        width: 2286
-        height: 1247
-  - title: "US risks trailing China, others on self-driving cars, congresswoman warns"
-    excerpt: "While the benefits of self-driving cars are vast, she said, they will be transformational in a lot of ways. CLICK HERE TO READ MORE ON FOX BUSINESS “When you think about 37,000 individuals that were killed on our roadways last year largely due to human error, you think about the movement of goods and people, all the congestion in America."
-    publishedDateTime: 2020-02-13T22:18:00Z
-    webUrl: "https://www.foxbusiness.com/technology/us-china-autonomous-cathy-mcmorris-rodgers"
-    ampWebUrl: "https://www.foxbusiness.com/technology/us-china-autonomous-cathy-mcmorris-rodgers.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/us-china-autonomous-cathy-mcmorris-rodgers.amp"
+      - url: "https://cdn.vox-cdn.com/thumbor/10T-kTZJK2tlblwYeUppcBLmegw=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66295443/vpavic_191202_3827_0024.0.jpg"
+        width: 1400
+        height: 933
+  - title: "Lawmakers, Trial Lawyers Clash Over Self-Driving Car Rules"
+    excerpt: "(TNS) — Lawmakers in the U.S. House on Tuesday took to task a trial lawyers' lobby group that helped kill a bill setting regulations for self-driving cars. The Washington-based American Association for Justice, which lobbies for trial lawyers who typically represent plaintiffs, had objected to a lack of concrete protections that would ensure ..."
+    publishedDateTime: 2020-02-12T18:09:00Z
+    webUrl: "https://www.govtech.com/transportation/Lawmakers-Trial-Lawyers-Clash-Over-Self-Driving-Car-Rules.html"
+    ampWebUrl: "https://www.govtech.com/transportation/Lawmakers-Trial-Lawyers-Clash-Over-Self-Driving-Car-Rules.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/transportation/Lawmakers-Trial-Lawyers-Clash-Over-Self-Driving-Car-Rules.html?AMP"
     type: article
     provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 58
+      name: Government Technology
+      domain: govtech.com
+    quality: 44
     images:
-      - url: "http://media.foxbusiness.com/BrightCove/854081161001/202002/3442/854081161001_6132318472001_6132305520001-vs.jpg"
-        width: 1280
-        height: 720
+      - url: "https://media2.govtech.com/images/shutterstock_1019141671.jpg"
+        width: 950
+        height: 629
+  - title: "Congress looks to revive self-driving car legislation"
+    excerpt: "Want access to the top energy and environment news? Sign up for a free trial! Enter your email to register or log in. By signing up, you agree to receive E&E News email updates and offers. You also grant your consent to our data collection practices. We encourage you to review our Privacy and Data Practices Policy."
+    publishedDateTime: 2020-02-12T12:19:00Z
+    webUrl: "https://www.eenews.net/eedaily/2020/02/12/stories/1062327793"
+    type: article
+    provider:
+      name: E&E
+      domain: eenews.net
+    quality: 24
+    images:
+      - url: "https://www.eenews.net/image_assets/2020/02/image_asset_74141.jpg"
+        width: 938
+        height: 483
+  - title: "How should self-driving cars decide who to kill? by Mark Buchanan"
+    excerpt: "Not too long ago, tech enthusiasts were telling us that by 2020, we’d see self-driving cars hit the mainstream, with some 10 million on the roads. That turned out to be a wild overestimation. The actual number of vehicles in testing is thousands of times smaller, and they’re still driving mostly in controlled conditions. Companies have also ..."
+    publishedDateTime: 2020-02-18T05:00:00Z
+    webUrl: "https://www.pressofatlanticcity.com/opinion/commentary/how-should-self-driving-cars-decide-who-to-kill-by/article_6c1dbac7-3a51-5e99-bc84-8066769cbe28.html"
+    type: article
+    provider:
+      name: The Press of Atlantic City
+      domain: pressofatlanticcity.com
+    quality: 24
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/pressofatlanticcity.com/content/tncms/custom/image/bae1e730-3e34-11e6-9bc5-8f83ee7a0e54.jpg"
+        width: 1200
+        height: 630
 
 secured: "jb7GERDwDiCziZXbkAQfpOEAwWv1Er/SG0w7e3QvsLkUKzxeI+foSS1FNRXbbZHnEFgHdS73kxQWhcaPzQOrIdTUjmBH1raPhGEIrB6d1hwTctzQG5q9Ctp1Qx/N0dqFKAufpCeSgz71ALJbyMvewPyp3sH2r2nHuqSiNC9rkERQ+VMGWaaiVDeMG98TALz0PNAwl0l2A6X0MmRTAMjtzVX45uWojr5pMeD9PhfwYbnIOuLA5niiIEWFyc/ef0Ykg84ZQTHrjicG78/QJ9yf2bV3DswndDWJXLbOtxTj7IJsy7EL81ODsc7p9gONgNJXI5u7MGqSortX0qzkQh1F2BsnVds7FZW2GdaItNje0/4dIMm8Of2BP9TyIk+169Bd8JhTCMjY7Pe5DEMv3RaIkAr+5gqTdHSEzbt90LVZoIjb5UYoqRQuyy3XOLIXwc9gdjVPnauUhDGA5FEMdKENozmFRmcpO6mo7kp3vkyv2vc=;U62JdL9u0Vq6GD6qH4YYJQ=="
 ---

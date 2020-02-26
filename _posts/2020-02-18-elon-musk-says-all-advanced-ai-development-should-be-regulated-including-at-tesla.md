@@ -42,17 +42,6 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2020%2F02%2FUntitled-design-18.png&signature=ccc63db991ed8ae7a56e57ddcdb0a17c"
         width: 1200
         height: 600
-  - title: "For The First Time Ever, A Drug Developed By AI Will Be Tested In Human Trials"
-    excerpt: "In the case of developing drugs, while DSP-1181 may have been the first, scientists are convinced it is far from the last."
-    publishedDateTime: 2020-02-12T02:10:00Z
-    webUrl: "https://www.forbes.com/sites/danadovey/2020/02/11/first-time-ever-artificial-intelligence-develops-drug-candidate/"
-    ampWebUrl: "https://www.forbes.com/sites/danadovey/2020/02/11/first-time-ever-artificial-intelligence-develops-drug-candidate/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danadovey/2020/02/11/first-time-ever-artificial-intelligence-develops-drug-candidate/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 63
   - title: "Elon Musk calls for regulations on artificial intelligence"
     excerpt: "Elon Musk is calling for regulation on organizations developing advanced artificial intelligence, including his companies. The Tesla and SpaceX head tweeting earlier this week, “All orgs developing advanced AI should be regulated, including Tesla.” Musk was, according to TechCrunch, “responding to a new MIT Technology Review profile of ..."
     publishedDateTime: 2020-02-22T09:38:00Z

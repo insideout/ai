@@ -39,6 +39,21 @@ related:
       - url: "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png"
         width: 1200
         height: 630
+  - title: "BRIEF-ABB Announces Partnership with AI Start-Up"
+    excerpt: "ANNOUNCED A PARTNERSHIP TO BRING AI-ENABLED ROBOTICS SOLUTIONS TO MARKET, STARTING WITH A FULLY AUTONOMOUS WAREHOUSE ORDER FULFILMENT SOLUTION * PARTNERSHIP BRINGS TOGETHER TWO COMPANIES WITH A SHARED VISION FOR ROBOTICS ENABLED BY AI Source text for Eikon: Further company coverage: (Berlin Speed Desk) Our Standards:The Thomson Reuters Trust ..."
+    publishedDateTime: 2020-02-26T19:24:00Z
+    webUrl: "https://uk.reuters.com/article/brief-abb-announces-partnership-with-ai/brief-abb-announces-partnership-with-ai-start-up-idUKFWN2AO19Q"
+    ampWebUrl: "https://uk.mobile.reuters.com/article/amp/idUKFWN2AO19Q"
+    cdnAmpWebUrl: "https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKFWN2AO19Q"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 89
+    images:
+      - url: "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png"
+        width: 1200
+        height: 630
 
 secured: "MjDKBEph/P6oExmSkoeVaV+sYXSLB1+8Ftf+VMfsH3uuPhpicBZAyjDapjZmkaEK7yJuYuXdI2oTs2N8wmJy8RfJhtSlzRxFdmKdC2F3LQg4Ln7+QcWqclMBruqLsZYtUuyRjaUYujY3/+PtF9tX0mPugLVkquc+XFr1BWsW3X3LngV59AboXBmeDNWKMpCVb7Ctw8rLM4H4oBHe3KShesKv6aVQmQACUl6294wcOlNAY8JePYv+5omlLUf7maXYa56MGS9mX0bLeZVOnM4LVTE7PWdUyEB32aoJcba1x0c31Iip8JatwYWidTwRs+tM2tVL2WVjxbReNTVU0qpWiNDseSaETJ7vi+1ZeJz/iuPtqP5ePWXbkrcR80wBb/Iw5xpmCcmy5oiySi1gTq6zdn3sC3hp/IVJc6qXxHIGjTWvRdTLB3tlCRW2Gwy1rXEbNMvcUt+lUBHl55VCJZaruJlATCA58P6AoDoI/z82eIs=;5GQLrPiXjF4Ui7hlDHkm2A=="
 ---

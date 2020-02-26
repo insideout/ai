@@ -82,15 +82,6 @@ related:
       - url: "https://www.gamepur.com/wp-content/uploads/2020/02/Pokemon-HOME-mystery-gifts.jpg"
         width: 1200
         height: 675
-  - title: "London police deploy facial recognition technology, stirring privacy fears"
-    excerpt: "LONDON — London police started using facial recognition cameras on Tuesday to automatically scan for wanted people, as authorities adopt the technology that has raised concerns about increased surveillance and erosion of privacy. Surveillance cameras mounted on a blue police van monitored people coming out of a shopping center in east London."
-    publishedDateTime: 2020-02-12T01:13:00Z
-    webUrl: "https://www.pressherald.com/2020/02/11/london-police-deploy-facial-recognition-technology-stirring-privacy-fears/"
-    type: article
-    provider:
-      name: Portland Press Herald
-      domain: pressherald.com
-    quality: 17
 
 secured: "4TqDDOWjdc2agbic6iW0PVhI1QdZ5Oi3QvEO4osq2CzE0ncpczMVvtvhBS+mVLNQKfqMF+IrNtZNZhHUI8kllqht4HM06o2llDLUNOJFJWBA1Vu541BgMON83vfwt6VIsy0KJOXbnnv3ZAZ66EjZDwvDK60W3dyWmyaV8x3J3QWSCPc5NOckJ85uL031qsvBHpXwh4XAIuJ+cq3AeoQCKxk8JEaGv5oFXFjyCC9LjgbgpY7Ye+t+YYhIE2tjWS2prmDsN59b8honcvsrmrTyq3wdn9oDW6Exu6EQU6bO0Cu2mjbNKoppwFm3M0v7Dyof;nyf9h+feAqcW//zQsHtU0g=="
 ---

@@ -45,6 +45,21 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200225&t=2&i=1495203233&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG1O1NE"
         width: 817
         height: 545
+  - title: "Self-driving shuttle company ordered to stop carrying passengers after injury"
+    excerpt: "The National Highway Traffic Safety Administration (NHTSA) has partially suspended the US operations of France’s EasyMile after a passenger in Ohio was injured while riding in one of the company’s self-driving shuttles. EasyMile can continue operating its shuttles while NHTSA investigates, but the company can’t carry any passengers."
+    publishedDateTime: 2020-02-26T17:56:00Z
+    webUrl: "https://www.theverge.com/2020/2/26/21154532/easymile-columbus-ohio-nhtsa-suspension-injury"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/2/26/21154532/easymile-columbus-ohio-nhtsa-suspension-injury"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/26/21154532/easymile-columbus-ohio-nhtsa-suspension-injury"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 71
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/Im5sjEQRAF4D1VILwpQ1rwW8wbI=/0x0:5000x3333/1400x933/filters:focal(2100x1267:2900x2067):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66378849/1061310952.jpg.0.jpg"
+        width: 1400
+        height: 933
   - title: "U.S. Agency Suspends Self-Driving Shuttle EasyMile in 10 U.S. States"
     excerpt: "U.S. auto safety regulators said on Tuesday they had ordered a suspension of passenger operations for 16 autonomous shuttles operated by French-based EasyMile after a passenger was injured in an unexplained braking incident."
     publishedDateTime: 2020-02-25T16:41:00Z

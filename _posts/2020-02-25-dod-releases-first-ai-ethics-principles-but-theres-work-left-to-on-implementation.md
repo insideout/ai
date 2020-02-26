@@ -3,7 +3,7 @@ category: news
 title: "DOD releases first AI ethics principles, but there’s work left to on implementation"
 excerpt: "\"I'm not suggesting enforcement at the beginning of it,\" he said. \"These are early conversations to be had with our industry partners to say now that we've established these principles for AI ethics, could you develop the capabilities that address each of the five at some point along the way through [research, development, testing and evaluation].\""
 publishedDateTime: 2020-02-25T05:56:00Z
-webUrl: "https://fcw.com/articles/2020/02/24/dod-ai-policy-memo-williams.aspx"
+webUrl: "https://fcw.com/articles/2020/02/24/dod-ai-policy-memo-williams.aspx?admgarea=TC_Agencies"
 type: article
 quality: 48
 heat: -1
@@ -95,6 +95,21 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/44c2b6e/2147483647/strip/true/crop/1762x1151+142+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F28%2F22%2F8178e5064f7c136ce007d7fc24b1%2Fla-1548770710-xhgwtmgm6p-snap-image"
         width: 320
         height: 209
+  - title: "Pentagon adopts new ethical principles for using AI in war"
+    excerpt: "The new principles call for people to \"exercise appropriate levels of judgment and care\" when deploying and using AI systems, such as those that scan aerial imagery to look for targets. They also say decisions made by automated systems should be “traceable\" and “governable,\" which means “there has to be a way to disengage or deactivate ..."
+    publishedDateTime: 2020-02-25T02:23:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/pentagon-adopts-ethical-principles-ai-war-69181756"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pentagon-adopts-ethical-principles-ai-war-69181756"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pentagon-adopts-ethical-principles-ai-war-69181756"
+    type: article
+    provider:
+      name: ABC
+      domain: go.com
+    quality: 57
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_5a2ee9d1ab2546ab8f055f25d1597576_16x9_992.jpg"
+        width: 992
+        height: 558
   - title: "DoD adopts new ethical principles for the use of artificial intelligence"
     excerpt: "WASHINGTON — The Department of Defense will follow a new set of ethical principles for the use of artificial intelligence, officials announced Feb. 24. The rollout of a code of conduct for the use of AI technology follows a 15-month study led by the Defense Innovation Board, a panel of outside advisers led by Eric Schmidt, former executive ..."
     publishedDateTime: 2020-02-24T23:34:00Z
@@ -147,19 +162,6 @@ related:
       - url: "https://www.armytimes.com/resizer/HCJVtE9JHfrGKeCjk9CJbXKJ5R8=/1200x630/filters:quality(100)/arc-anglerfish-arc2-prod-mco.s3.amazonaws.com/public/MAYIFX5RQ5BLHHABTTKYSBPTL4.jpg"
         width: 1200
         height: 630
-  - title: "Pentagon adopts new ethical principles for using AI in war"
-    excerpt: "The Pentagon is adopting new ethical principles as it prepares to accelerate its use of artificial intelligence technology on the battlefield. The new principles call for people to \"exercise appropriate levels of judgment and care\" when deploying and using AI systems,"
-    publishedDateTime: 2020-02-25T18:40:00Z
-    webUrl: "https://www.chron.com/business/technology/article/Pentagon-adopts-new-ethical-principles-for-using-15080225.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 37
-    images:
-      - url: "https://s.hdnux.com/photos/01/10/62/42/19081406/11/rawImage.jpg"
-        width: 2048
-        height: 1365
   - title: "DOD Adopts Ethical Principles for Artificial Intelligence"
     excerpt: "The adoption of AI ethical principles aligns with the DOD AI strategy objective directing the U.S. military lead in AI ethics and the lawful use of AI systems. \"The United States, together with our allies and partners, must accelerate the adoption of AI and lead in its national security applications to maintain our strategic position ..."
     publishedDateTime: 2020-02-24T22:03:00Z
@@ -192,6 +194,6 @@ related:
       domain: fedscoop.com
     quality: 17
 
-secured: "dZgVgFqGEptCvdRyJSvBPc8NaklytzgtnZ2zmZebjXo+wYNqQA6jt0WmM94RF17MX8VvqjxkvHbJdcRl2z7QwAhZinVb2N8zGO31AK4kiSU3GqgjhwS7LcdoFxBX41sZ5eQIuayXH3Qrv7v/aur7qEfpvpu909zmP+Igol0OcoHxPmlP5CdMLym79bxsvRZRv4ewcou9M8ZXSZOKmaHIotajs/llC/UamoVMjKnsCa8DwMj40UaPu/yy/fP9GyfE0oE+xujWXfSYcoMrUNFCJtMe58rgk4Eflpf+kJZgqgS1Dj1GQCZ018cIaEEE4kEy5NlMtWINkbH1hGEkmHkODpq4UFYlc1bimKrmWYj2IpAtHXDgb/BMrDnV9vnCeXqAhkuh9WSnznBm6zLOGYe9UyggL21xuE+TEcXABc2BuqTWMNLk8V2wPOp7ltvGJ+73ASA6yNTgUVv/0eLHuujXVc1xn2LrVdoLSnFpzqj/f3o=;wvNOWc81YSq6/oFv4atumA=="
+secured: "tc+yWB31R1EVVEu7l2ZNO4VU51AlkOwES20FG1MxA2P98wQfx9Ou720L37UqQRpRWDqYYYprSfSRxBtiMcoKGbDzIiokr+z3ehZTpLMxvKyMxnv/RHQdN1u+2tDiZT5/ilY5TE7f5TsI1+IwT7DwkVhA0TLTyiOBjHoKR54lvHI9cRGscJU/r4qGju9j7pbN85mlWMShYpeU5A5y5WGjdRTJ5nr+29qyRiHTFu0PIzCE+rFPLAwEq3Yv+ROZUjL/6bCDsckW6rD5VlIvf4scd7hynYybtfAP62d6Zg/KhXl/NDAc7NwvvhrhZkusf5YJq3TElvQ1YpHLcO6xgd+lemJcr2ulDNVEkGIk8ypvTcuxqy6T1g0iHSp5uCnDUGeLKG8Yb4Sz2COT+ts2Hda/Bcp39PFKqk38M4NTboUXWbcXL87TTYa0lKM4iScIohNuRQwCM/RA75vUat3Br6ZQm/kjJizpOkqPpvREOCA7xY8=;kL/V82kbZpOAqT3YyVBNww=="
 ---
 

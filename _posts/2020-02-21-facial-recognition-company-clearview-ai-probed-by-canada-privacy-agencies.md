@@ -8,7 +8,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN20F2I3"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN20F2I3"
 type: article
 quality: 103
-heat: 153
+heat: 173
 published: true
 
 provider:
@@ -58,6 +58,36 @@ related:
       - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
         width: 1200
         height: 630
+  - title: "Facial recognition app used by more than 600 law enforcement agencies suffers significant data breach"
+    excerpt: "A new facial recognition company, which claims to be used by over 600 law enforcement agencies, has suffered a data breach, according to the company. Clearview AI confirmed with Fox News that its entire client list was stolen in the breach. According to the company, someone gained access to a list of all of Clearview’s customers, the number ..."
+    publishedDateTime: 2020-02-26T18:05:00Z
+    webUrl: "https://www.foxnews.com/us/facial-recognition-app-used-by-more-than-600-law-enforcement-agencies-suffers-significant-data-breach"
+    ampWebUrl: "https://www.foxnews.com/us/facial-recognition-app-used-by-more-than-600-law-enforcement-agencies-suffers-significant-data-breach.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/facial-recognition-app-used-by-more-than-600-law-enforcement-agencies-suffers-significant-data-breach.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 74
+    images:
+      - url: "https://media.foxbusiness.com/BrightCove/854081161001/202002/1214/854081161001_6132703327001_6132714474001-vs.jpg"
+        width: 1280
+        height: 720
+  - title: "Clearview AI, the controversial facial-recognition company partnering with police, says its entire customer list was stolen in a breach"
+    excerpt: "Clearview markets its services to law-enforcement agencies and has previously avoided disclosing the identities of its clients."
+    publishedDateTime: 2020-02-26T18:41:00Z
+    webUrl: "https://www.businessinsider.com/clearview-ai-list-customers-stolen-breach-2020-2"
+    ampWebUrl: "https://www.businessinsider.com/clearview-ai-list-customers-stolen-breach-2020-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/clearview-ai-list-customers-stolen-breach-2020-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 57
+    images:
+      - url: "https://i.insider.com/5d8764c92e22af0119409b92?width=1200&format=jpeg"
+        width: 1200
+        height: 600
   - title: "Clearview AI's founder defends controversial facial recognition app"
     excerpt: "Hoan Ton-That's app, Clearview AI, has triggered fears about facial recognition — and the dystopian future it could foreshadow. CNN Business' Donie O'Sullivan sits down with the CEO to talk about questions of legality, privacy, and bias in the era of facial recognition."
     publishedDateTime: 2020-02-18T14:19:00Z

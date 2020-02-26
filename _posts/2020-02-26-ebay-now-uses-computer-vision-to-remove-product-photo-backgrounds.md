@@ -29,6 +29,6 @@ images:
     height: 765
     title: "eBay now uses computer vision to remove product photo backgrounds"
 
-secured: "ME0gI3NIOv+lTPEMrPKNGw8Yc+9Vh6nuae0Zbuf0Dasjd8AYFnp8WAsM5Sdg3BaJwX2nFeWoZLgN5dW8ARydIahKLKS8oMj3Y2K8QMlRzPTTC7yCMLqH3MRn1fD8F4I3XV5ZsgoE0F+V+D2FzWOejsfJbkX06Vitg0cHvAir1qxhzUPSQNmb3+ZQ2r+GqqYvSuNIBevXiCa52YYtuzx4PN/uucAwwHtbBHmxdQ9Zv0K4KzIQjYsli2QyZQS72+LxclAit2W3oKEYTDOjRbTsY8gnLzeyQzHsNZohiCF5eD6mndURSKks5imXKqUTIO14;NbxZsTwShKA9TQL4f2Hrvg=="
+secured: "I2kY8a+m/k95vYoi/Wa+TIej7KgtEJRkhiLCwM6xbChczhSoy++wTZDBZmka3bWB2lNeIPyWCtiyNLM13doIuTgURLEPGk3RASFSRPadUE8HMGm8tY//LTiKnpxCQoDgR5dJqDGf0tlNuWbPuWBAE1sJejlGM3nc/sbxMFdrcrsPweCweie38a4BHkZouEvB/tC0ouqvulb0c0d2rMFtpbhcGoJMsbmgiEX9mDu7g9ZrLek+lMRma+VVX+UgqFrjgFBtCNos+3pSZrDElJW+wda90qtuHebWFGgsXaj7JQbXF9K+Wo0Xx/l/qH/Gj0RLVrHov6pjWDxiV/DUqGpVT+Rx92g6YzRuCam/0eE/RR+lZVY+/D5elWa0kEf2H+JjvqRydYeGnvjV9UfMMiUpxhegC1d+5vIFHJrCWskruBzB77QTGxAvJe5A8GZ0B3IsTYQ06F82N3IIYvOiGVCY/qVBOGtxsAPaLUHoJHV3Bho=;x/rTNKJUB8XUsDly+vI/oA=="
 ---
 

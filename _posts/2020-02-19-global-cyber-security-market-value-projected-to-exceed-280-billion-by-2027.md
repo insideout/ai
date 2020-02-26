@@ -1,26 +1,30 @@
 ---
 category: news
 title: "Global Cyber Security Market Value Projected to Exceed $280 Billion by 2027"
-excerpt: "/PRNewswire/ -- The Global cyber security market value stood at USD 112.01 billion in 2019 and is projected to reach USD 281.74 billion by 2027, exhibiting"
+excerpt: "PALM BEACH, Florida, Feb. 19, 2020 /PRNewswire/ -- The Global cyber security market value stood at USD 112.01 billion in 2019 and is projected to reach USD 281.74 billion by 2027, exhibiting a CAGR of 12."
 publishedDateTime: 2020-02-19T13:30:00Z
-webUrl: "https://www.prnewswire.com/news-releases/global-cyber-security-market-value-projected-to-exceed-280-billion-by-2027-301007223.html"
+webUrl: "https://www.marketwatch.com/press-release/global-cyber-security-market-value-projected-to-exceed-280-billion-by-2027-2020-02-19?mod=mw_quote_news"
 type: article
-quality: 22
+quality: 52
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
   - Machine Learning
 
 images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     title: "Global Cyber Security Market Value Projected to Exceed $280 Billion by 2027"
 
 related:
@@ -172,6 +176,6 @@ related:
       domain: globenewswire.com
     quality: 0
 
-secured: "RgZZaVzvUc5gXsD+Rb+ZvMojhB1c8+/Vlhpfkte4gbOmd6KbHnlP6jusLl8BBjqXLMqr8QHhhj38iKla9grLcT9qk+dYJPG1q6JHcAKlExWflzb5wNPPnpF5EB2YHdlIfaxK43rKiQF9HilBRZQRuVBhXK8mXRgnBJqAiUgWP+wZVgzuyxVCfyQNdZ3pXnk6CSbWwKRjr8GiczqifBgABInx24pHKwcv63BQwr//hBGHe7EWG+6zrq96piwPoA3o7EFU9Aw/n5SlgiywWr6wulwNcNOOBr5u+szDzwY2RwflUmkAx6zauTVf3BWB1z/v;1xdjWCrpW2pXMhI+Z8k6FA=="
+secured: "PlCx73YrPmgzxnvCXdZw1A2LvLKpP+VXSL652QTS8awRTPeOTBJ4wBP7Bkf/YqMGfLWf65JBUcDNiPxyqwgJ93+27YMBIeOL9U7moF0+HJxhjReIXyy5/iVK0A+cwmZIgdWYNsAg1iF8LlKRRLWvBhF/7TAH7Fy0zOfjaxAYj2Mw8a+7N7Tqy1vTk0Q8GSUxzIS66C/Ypp0SgRUr5Hm36cVPBionx5Qd14y7c2CrPWpg/wVgtZRLOwrTwBpyUmGASkRk86AVO4zyc6e5QcNgPLihmniIUAk0Qc8Wy3TU3HajnLa0N8Z58YJJRZI0RhGi;Zw8JVeq8PzvpKF9GgzQ1BA=="
 ---
 

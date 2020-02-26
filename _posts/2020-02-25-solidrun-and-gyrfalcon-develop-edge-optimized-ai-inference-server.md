@@ -31,6 +31,19 @@ related:
       - url: "http://share.opsy.st/5e558160983d5-19Rack-Assembly_Ver2_P1-1030x579.png"
         width: 1030
         height: 579
+  - title: "SolidRun and Gyrfalcon Develop First Edge Optimized AI Inference Server That Bests GPU Performance at a Fraction of the Cost and Power"
+    excerpt: "/PRNewswire/ -- SolidRun, a leading developer and manufacturer of high-performance edge computing solutions, and ASIC solutions provider Gyrfalcon"
+    publishedDateTime: 2020-02-26T18:38:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/solidrun-and-gyrfalcon-develop-first-edge-optimized-ai-inference-server-that-bests-gpu-performance-at-a-fraction-of-the-cost-and-power-301009495.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 22
+    images:
+      - url: "https://mma.prnewswire.com/media/826408/SolidRun_Logo.jpg?p=facebook"
+        width: 2697
+        height: 1414
 
 secured: "9C2mEhhN0Sjq12k644Vsb7+HgQI4yDP4KWMcxjtsISeDbHOL1eBF6mlrT4LdRD9ZvRDgJ7ec7KwOW0ybj7FRZKLwz2OciSj6a2A3bAjGcQSQpdzlBdNsFzQhb3Prhlkyw/dq9265BbE8JCglowaMEr/w+1Ld7ct+JrG2Pk+UsacW6AV4uSFAZ8u6K5UwZ9GdkhdW/QWtzbtUp2F4cwONQ+hJzWQJKohBTHn8qcX9otrbJ+x8Tt/X5bWBmlwV+kLhbX6lTiOSBPmc6jIoM4iIHbKU0sQgVBcB7hExVQ2WBs/Z+c5LQ6XWbawpZPX67V/f+4a8OGtCPUWYa15dT7yjOJ9Jq5h4ODLvfmpM1EscPJiJmrOauma7dT0bDT970Ny9WUqZkx3nH7V+rP9lKwZHjpgWiYNUbgiAzMCshzAZeCI6yGkbU5olMZroyr7ZGvjJlQM/I4FoJARWkQ12vWa0rtATwJ/a1wei76lJkSWPN+Y=;HZ3JYWwyolYwbl8Uw8i2oA=="
 ---

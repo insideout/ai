@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.ft.com/content/db8bfc3c-4cf4-11ea-95a0-43d18ec715f5"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/db8bfc3c-4cf4-11ea-95a0-43d18ec715f5"
 type: article
 quality: 59
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -71,15 +71,6 @@ related:
       - url: "https://www.gamepur.com/wp-content/uploads/2020/02/Pokemon-HOME-mystery-gifts.jpg"
         width: 1200
         height: 675
-  - title: "London police deploy facial recognition technology, stirring privacy fears"
-    excerpt: "LONDON — London police started using facial recognition cameras on Tuesday to automatically scan for wanted people, as authorities adopt the technology that has raised concerns about increased surveillance and erosion of privacy. Surveillance cameras mounted on a blue police van monitored people coming out of a shopping center in east London."
-    publishedDateTime: 2020-02-12T01:13:00Z
-    webUrl: "https://www.pressherald.com/2020/02/11/london-police-deploy-facial-recognition-technology-stirring-privacy-fears/"
-    type: article
-    provider:
-      name: Portland Press Herald
-      domain: pressherald.com
-    quality: 17
   - title: "Public Perception of Facial Recognition Technologies - a four countries study"
     excerpt: "Facial recognition technology (FRT) – which seeks to match people from a digital image or video with various identifying attributes – is increasingly commonplace in everyday life. The wide and quickly spreading application of the technology has become the subject of increased debate. On the one hand, #FRT is seen as a potentially powerful ..."
     publishedDateTime: 2020-02-12T19:35:00Z

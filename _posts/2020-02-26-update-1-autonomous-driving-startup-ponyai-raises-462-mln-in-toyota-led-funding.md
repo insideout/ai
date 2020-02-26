@@ -1,21 +1,21 @@
 ---
 category: news
 title: "UPDATE 1-Autonomous driving startup Pony.ai raises $462 mln in Toyota-led funding"
-excerpt: "HONG KONG/ BEIJING, Feb 26- Autonomous driving firm Pony.ai said on Wednesday it has raised $462 million in its latest funding round, led by an investment by Japan's largest automaker Toyota Motor Corp."
-publishedDateTime: 2020-02-26T08:37:00Z
-webUrl: "https://www.cnbc.com/2020/02/25/reuters-america-update-1-autonomous-driving-startup-pony-ai-raises-462-mln-in-toyota-led-funding.html"
-ampWebUrl: "https://www.cnbc.com/amp/2020/02/25/reuters-america-update-1-autonomous-driving-startup-pony-ai-raises-462-mln-in-toyota-led-funding.html"
-cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/02/25/reuters-america-update-1-autonomous-driving-startup-pony-ai-raises-462-mln-in-toyota-led-funding.html"
+excerpt: "Autonomous driving firm Pony.ai said on Wednesday it has raised $462 million in its latest funding round, led by an investment by Japan’s largest automaker Toyota Motor Corp. Toyota invested around $400 million in the round,"
+publishedDateTime: 2020-02-26T03:47:00Z
+webUrl: "https://www.reuters.com/article/toyota-ponyai-autonomous/update-1-autonomous-driving-startup-pony-ai-raises-462-mln-in-toyota-led-funding-idUSL3N2AQ0M6"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL3N2AQ0M6"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL3N2AQ0M6"
 type: article
 quality: 82
 heat: -1
 published: false
 
 provider:
-  name: CNBC
-  domain: cnbc.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "/assets/images/organizations/cnbc.com-50x50.jpg"
+    - url: "/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +23,9 @@ topics:
   - AI
 
 images:
-  - url: "https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif?v=1524171804"
-    width: 1200
-    height: 630
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200226&t=2&i=1495306746&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG1P0AS"
+    width: 817
+    height: 545
     title: "UPDATE 1-Autonomous driving startup Pony.ai raises $462 mln in Toyota-led funding"
 
 related:
@@ -277,6 +277,6 @@ related:
       domain: moneycontrol.com
     quality: 14
 
-secured: "EmrsKpZkK0LiJL08xBVEemxUyhwWtCb+iC4XHanREXH4PDPUw189dDjrckuq9V74rIE/+GoBtpdF6Trmgdz9NhzuIwnBPTy8jUEID8hCa/xymv+v184/Kr4YdJs9MZ0VIZ/5B26gZjKjC1s2SoAGb0gS/GAEXMX1ZVOGCekYEFxLSW477E01cYt276as9s36c/l7wLTVolwk7jguv1iJEzIA2dgl5U+8htbzGqSkY/ith8yoAT2T+xyZU4YW8KhTTmKJXcN2JGsQ/kxK5XMzZEFi7hvapxRQue+K+0BcEIi+VX2BL+Ajs4WaUMnqblFd;xNKdf9ErP6iGb4ytG48KlA=="
+secured: "msOrF9vJjUhPBZlPKE/DeLYTTNwpiQgX2B/yUbjsGhZggd6EgVjGppO9gN6YocYDUs58E+liaExrA9cBfCVA/0SB6THDn9dk74VgMLKQcWn9/1eixldd1ZROghNBCk6lW8jNnJKDevvZNis4JxmQfY3DzKiuVKpFg7yUNPCDybmCDufrdubuHsFYabVP8IoUrzrqOpib+WnPATyQbghTWyeurF7fgHXSw7fbGeZ8V1duxd9a8zRW9ak28B3MlwrSiV9tM0qg6KhAC2CvhqjRqH3ORi2M5OgzlcQ4jCIUUzknV2zumVWnNpp5zTK9wq2l;wXhALC6MBck/9R4AvWnmLA=="
 ---
 

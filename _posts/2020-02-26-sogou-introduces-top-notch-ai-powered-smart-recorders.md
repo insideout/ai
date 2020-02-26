@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Sogou Introduces Top-Notch AI-Powered Smart Recorders"
-excerpt: "Both models support offline translation and high-quality transcription ... how Sogou is leading the AI revolution in voice recording by making access to information and communication easier with our language-centric AI technologies. Our smart recorders have had great success in the market, and we are committed to producing more easy-to-use ..."
-publishedDateTime: 2020-02-26T09:14:00Z
-webUrl: "https://virtual-strategy.com/2020/02/26/sogou-introduces-top-notch-ai-powered-smart-recorders/"
+excerpt: "/PRNewswire/ -- Sogou Inc. (NYSE: SOGO) (\"Sogou\" or \"the Company\"), an innovator in search and a leader in China's internet industry, today unveiled its"
+publishedDateTime: 2020-02-26T08:53:00Z
+webUrl: "https://www.prnewswire.com/news-releases/sogou-introduces-top-notch-ai-powered-smart-recorders-301011509.html"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: Virtual-Strategy
-  domain: virtual-strategy.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
   - Natural Language Processing
 
 images:
-  - url: "https://virtual-strategy.com/wp-content/plugins/all-in-one-seo-pack/images/default-user-image.png"
-    width: 512
-    height: 512
+  - url: "https://mma.prnewswire.com/media/1095671/S1.jpg?p=facebook"
+    width: 1858
+    height: 973
     title: "Sogou Introduces Top-Notch AI-Powered Smart Recorders"
 
-secured: "RnOUV2/GmaN2yYE5wYw2Wu4/Tjli/3vbDl4M/wpcRSRZKV7WMJ+LMDqW1DvJt2sh6i10ureITbMKyW33WFkOKd/s2gsuHjy94nQVG1QRQXnUeNsoUTI6YAV0GTX+tRZxv0qG8p3bc9efj0vJEZulqtx9Jszgw7XrMBfUQj4SkNzv6BKOjT5uP7O72kvHCOjlHewyQABR7C5uhPFEvKLrPp54SDNUrmK4Qn659XkFIvvFEf2CbAWASlqwxbkRPP2ga2By/OcO91+iree6Ti4fuaFDjoBKH9M+MJrKpVQ2e6NZ1b8uATH+IBp0supkemCC;kxyWsqL8xZ1Kcall5o8k0g=="
+secured: "ud+6exwbWPg44wD14np/9gzxASSeDRaY13la3xg8ftCee8MB/+CZWo0pJEHiA2PhQYVsJkI2Jg82txxNvMPl+Wpr1WAGa3rMBzsyj44qAlvc1V9aa6f0PW2VNguCejvlo6HtoOCoahWLhm4MKlePuRzuXTPnohBiEQ6bKBcz4XcPn2O/mJET4K7JpVaGQYW/jn6VH4Zbm/t41wD7txzDTCekfyBCcXByDrrG/HROM7M0W7GfSlFVCCdNt11MzUjOZdXmw9SjoD2SvM2u3Gzf/tQIAUT/InvKz+iO3jE1qKsCve4G5fH1wn7BpgKXyoHreVPBlzD/YsOaWUVKcR+T9OA18TZkUM0Rw6jLiD3mVIx6oJeL3DbUcHOOH0t6d/h/tHdnPrrQRXz5d4jt2zE8Eamv9IREqwXatCpEN76HnjDv68vRrAyZHtMQhbTTEnVFkrXsGbO4YrKysceySgBGANG8s+YWuxbPetu+fw1zo+s=;h2IaNZMX6RZLd/QBhxAXzw=="
 ---
 

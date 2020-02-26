@@ -2,183 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_posts/2020-02-25-zoho-full-stack-operating-system-and-data-protector.md",
-      "title": "Zoho: Full stack, operating system, and data protector",
-      "excerpt": "Following the ongoing cloud (r)evolution, AI, voice, UX/UI and macro trends such as digital transformation and the rise of the cognitive enterprise are ... Zoho's app services, data centers and proprietary layers of its full stack position the company against the likes of Microsoft, Google, IBM and Oracle. And, since Zoho's full stack includes ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/zoho-full-stack-operating-system-and-data-protector/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/zoho-full-stack-operating-system-and-data-protector/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/zoho-full-stack-operating-system-and-data-protector/",
-      "publishedDateTime": "2020-02-25T09:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/02/24/43e6dbde-98b9-41a7-aa32-e4bb4d160600/zoho-stack.png",
-          "width": 975,
-          "height": 590,
-          "title": "Zoho: Full stack, operating system, and data protector",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-26-ai-computing-startup-sambanova-raises-250-mln-in-blackrock-led-funding.md",
-      "title": "AI computing startup SambaNova raises $250 mln in BlackRock-led funding",
-      "excerpt": "Feb 25- Artificial intelligence computing firm SambaNova Systems said on Tuesday it has raised $250 million in a funding round led by BlackRock Inc to expand its customer base, reflecting investors' appetite for the market.",
-      "heat": 137,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2020/02/25/reuters-america-ai-computing-startup-sambanova-raises-250-mln-in-blackrock-led-funding.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/02/25/reuters-america-ai-computing-startup-sambanova-raises-250-mln-in-blackrock-led-funding.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/02/25/reuters-america-ai-computing-startup-sambanova-raises-250-mln-in-blackrock-led-funding.html",
-      "publishedDateTime": "2020-02-25T17:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif?v=1524171804",
-          "width": 1200,
-          "height": 630,
-          "title": "AI computing startup SambaNova raises $250 mln in BlackRock-led funding",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-26-ai-needs-to-be-controlled-but-lazy-humans-may-not-be-up-to-the-job.md",
-      "title": "AI needs to be controlled. But lazy humans may not be up to the job",
-      "excerpt": "Artificial intelligence, for all its benefits, needs human oversight. Government reports, and experts all over the world have stressed the importance of keeping a human decision-maker in the loop when using AI. \"Human agency and oversight\" is the first key requirement laid out in the EU Commission's white paper on the regulation of AI ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/ai-needs-to-be-controlled-but-lazy-humans-may-not-be-up-to-the-job/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-needs-to-be-controlled-but-lazy-humans-may-not-be-up-to-the-job/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-needs-to-be-controlled-but-lazy-humans-may-not-be-up-to-the-job/",
-      "publishedDateTime": "2020-02-26T08:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/02/20/6ec3400c-4d6f-4edc-bbae-714003910df4/thumbnail/1200x675/633a5f0e0a9995b7384bbd620431291c/ai-strategy-how-the-eu-hopes-to-put-peop-5e4e5afadb1d010001ac32fe-1-feb-20-2020-12-22-36-poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "AI needs to be controlled. But lazy humans may not be up to the job",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-26-artificial-intelligence-uncovers-outrageous-employee-expense-reports.md",
-      "title": "Artificial intelligence uncovers outrageous employee expense reports",
-      "excerpt": "SEE: Cheat sheet: Artificial intelligence (free PDF) (TechRepublic) \"Nothing shocks me. It's just how much is going through—that's what surprises me—how far people can take it,\" said Anant Kale, CEO of AppZen. Companies spend an average of $4,134 on a so-called high-risk expense report, which includes out-of-policy items or merchants ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/artificial-intelligence-uncovers-outrageous-employee-expense-reports/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/artificial-intelligence-uncovers-outrageous-employee-expense-reports/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/artificial-intelligence-uncovers-outrageous-employee-expense-reports/",
-      "publishedDateTime": "2020-02-26T08:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/01/21/8b97c7d2-1021-47d9-8344-ef569f6dac5e/resize/1200x/3468efd8c5c2522af698896bc047ed3e/screen-shot-2020-01-21-at-1-18-19-pm.png",
-          "width": 1200,
-          "height": 907,
-          "title": "Artificial intelligence uncovers outrageous employee expense reports",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-26-better-buy-ibm-vs-google.md",
       "title": "Better Buy: IBM vs. Google",
       "excerpt": "The cloud and cognitive software unit houses various cloud ... which competes against larger platforms like Amazon (NASDAQ:AMZN) Web Services (AWS), Microsoft's (NASDAQ:MSFT) Azure, and Google Cloud. Its global business services unit offers IT and ...",
@@ -268,10 +91,54 @@
       ]
     },
     {
+      "path": "_posts/2020-02-26-clearview-ai-the-company-whose-database-has-amassed-3-billion-photos-hacked.md",
+      "title": "Clearview AI, The Company Whose Database Has Amassed 3 Billion Photos, Hacked",
+      "excerpt": "Clearview AI, the company whose database has amassed over 3 billion photos, has suffered a data breach. Here's what you need to know.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/kateoflahertyuk/2020/02/26/clearview-ai-the-company-whose-database-has-amassed-3-billion-photos-hacked/",
+      "ampWebUrl": "https://www.forbes.com/sites/kateoflahertyuk/2020/02/26/clearview-ai-the-company-whose-database-has-amassed-3-billion-photos-hacked/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kateoflahertyuk/2020/02/26/clearview-ai-the-company-whose-database-has-amassed-3-billion-photos-hacked/amp/",
+      "publishedDateTime": "2020-02-26T10:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x498/https://specials-images.forbesimg.com/imageserve/1139858627/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 498,
+          "title": "Clearview AI, The Company Whose Database Has Amassed 3 Billion Photos, Hacked",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_posts/2020-02-26-clearview-ais-entire-client-list-stolen-in-data-breach.md",
       "title": "Clearview AI's entire client list stolen in data breach",
       "excerpt": "The breach affected all of the facial recognition company's customers, many of which are law enforcement agencies. Clearview AI says the data breach affected all of its customers. Clearview AI, a facial-recognition software maker that has sparked privacy concerns,",
-      "heat": 107,
+      "heat": 137,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.cnet.com/news/clearview-ai-had-entire-client-list-stolen-in-data-breach/",
@@ -445,6 +312,53 @@
       "topics": [
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-26-google-ai-helps-google-translate-offer-these-new-languages-spoken-by-millions.md",
+      "title": "Google: AI helps Google Translate offer these new languages spoken by millions",
+      "excerpt": "For the first time in four years, Google is launching five additional languages for Google Translate, bringing its total number of supported languages to 108. Google says the large interval since it last added new languages is down to how its machine-translation app learns new languages. If there's a shortage of content on the web from a ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/google-ai-helps-google-translate-offer-these-new-languages-spoken-by-millions/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-ai-helps-google-translate-offer-these-new-languages-spoken-by-millions/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-ai-helps-google-translate-offer-these-new-languages-spoken-by-millions/",
+      "publishedDateTime": "2020-02-26T09:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/01/30/982ecb2e-09ab-44ee-a2e9-a132a038b050/thumbnail/1200x675/1317bfa4f1d53dd161472cda0e14a784/20200129-dean-steph.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Google: AI helps Google Translate offer these new languages spoken by millions",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "Microsoft AI",
+        "Machine Learning"
       ]
     },
     {
@@ -702,6 +616,43 @@
       ]
     },
     {
+      "path": "_posts/2020-02-26-people-prefer-robots-to-explain-themselves-and-a-brief-summary-doesnt-cut-it.md",
+      "title": "People Prefer Robots to Explain Themselves – and a Brief Summary Doesn't Cut It",
+      "excerpt": "Artificial intelligence is entering our lives in many ways – on our smartphones ... how artificial agents can be made more transparent and trustworthy to their human users. Trustworthiness is essential if robots and people are to work together. XAI seeks to develop AI systems that human beings find trustworthy – while also performing ...",
+      "heat": 70,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.govtech.com/products/People-Prefer-Robots-to-Explain-Themselves--and-a-Brief-Summary-Doesnt-Cut-It.html",
+      "ampWebUrl": "https://www.govtech.com/products/People-Prefer-Robots-to-Explain-Themselves--and-a-Brief-Summary-Doesnt-Cut-It.html?AMP",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/People-Prefer-Robots-to-Explain-Themselves--and-a-Brief-Summary-Doesnt-Cut-It.html?AMP",
+      "publishedDateTime": "2020-02-26T11:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.theconversation.com/files/309620/original/file-20200113-103951-1d39a4w.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=754&fit=clip",
+          "width": 754,
+          "height": 507,
+          "title": "People Prefer Robots to Explain Themselves – and a Brief Summary Doesn't Cut It",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_posts/2020-02-26-researchers-find-way-to-boost-self-supervised-ai-models-robustness.md",
       "title": "Researchers find way to boost self-supervised AI models’ robustness",
       "excerpt": "In self-supervised learning, an AI technique where the training data is automatically labeled by a feature extractor, the said extractor not uncommonly exploits low-level features (known as “shortcuts”) that cause it to ignore useful representations. In search of a technique that might help to remove those shortcuts autonomously ...",
@@ -921,7 +872,7 @@
       "path": "_posts/2020-02-26-us-agency-suspends-self-driving-shuttle-easymile-in-10-us-states.md",
       "title": "U.S. agency suspends self-driving shuttle EasyMile in 10 U.S. states",
       "excerpt": "U.S. auto safety regulators said on Tuesday they had ordered a suspension of passenger operations for 16 autonomous shuttles operated by French-based EasyMile after a passenger was injured in an unexplained braking incident.",
-      "heat": 215,
+      "heat": 225,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.reuters.com/article/us-autos-selfdriving-idUSKBN20J2N6",
@@ -960,6 +911,51 @@
       "topics": [
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-26-white-houses-top-techie-explains-how-ai-initiative-will-help-seattle-tech-community.md",
+      "title": "White House’s top techie explains how AI initiative will help Seattle tech community",
+      "excerpt": "White House chief technology officer Michael Kratsios speaks at last year’s Web Summit in Portugal. (Web Summit via YouTube) One year after the White House kicked off the American AI Initiative, its effects on research and development in the burgeoning field of artificial intelligence are just beginning to sink in. And Michael Kratsios ...",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geekwire.com/2020/white-houses-top-techie-explains-ai-initiative-will-help-seattle-tech-community/",
+      "ampWebUrl": "https://www.geekwire.com/2020/white-houses-top-techie-explains-ai-initiative-will-help-seattle-tech-community/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/white-houses-top-techie-explains-ai-initiative-will-help-seattle-tech-community/amp/",
+      "publishedDateTime": "2020-02-26T11:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/02/200225-kratsios2-630x437.jpg",
+          "width": 630,
+          "height": 437,
+          "title": "White House’s top techie explains how AI initiative will help Seattle tech community",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
       ]
     },
     {

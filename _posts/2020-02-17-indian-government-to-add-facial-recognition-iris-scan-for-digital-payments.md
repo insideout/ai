@@ -245,21 +245,6 @@ related:
       - url: "https://arynews.tv/wp-content/uploads/2019/12/Musilms-in-India-protests-2.jpg"
         width: 750
         height: 369
-  - title: "Chino PD to hold forum Wednesday on proposed use of facial recognition technology"
-    excerpt: "Facial recognition technology is already used by several agencies in the Inland Empire, and the Chino Police Department is considering using the technology in the future. The department is holding a public forum Wednesday evening to get feedback from the community on any concerns residents might have about the technology. Chino police said in a ..."
-    publishedDateTime: 2020-02-12T01:16:00Z
-    webUrl: "https://www.pe.com/2020/02/11/chino-pd-to-hold-forum-wednesday-on-proposed-use-of-facial-recognition-technology/"
-    ampWebUrl: "https://www.pe.com/2020/02/11/chino-pd-to-hold-forum-wednesday-on-proposed-use-of-facial-recognition-technology/amp/"
-    cdnAmpWebUrl: "https://www-pe-com.cdn.ampproject.org/c/s/www.pe.com/2020/02/11/chino-pd-to-hold-forum-wednesday-on-proposed-use-of-facial-recognition-technology/amp/"
-    type: article
-    provider:
-      name: The Press-Enterprise
-      domain: pe.com
-    quality: 54
-    images:
-      - url: "https://www.pe.com/wp-content/uploads/2020/02/IDB-L-CHINOPD-0212-16x9-1-1.jpg?w=1024&h=579"
-        width: 1024
-        height: 578
   - title: "Senators introduce facial recognition bill proposing moratorium on government use"
     excerpt: "Two Democratic senators introduced a bill on Wednesday that would place a moratorium on the use of facial recognition technology by the federal government. Sen. Jeff Merkley (D-Ore.) and Sen. Cory Booker (D-N.J.) introduced the Ethical Use of Facial Recognition Act. Besides placing a moratorium on the federal government’s use of the ..."
     publishedDateTime: 2020-02-13T14:44:00Z
@@ -275,21 +260,6 @@ related:
       - url: "https://www.dailydot.com/wp-content/uploads/2020/02/Facial-Recognition-Bill-Congress-Merkley-Booker-1024x512.jpg"
         width: 1024
         height: 512
-  - title: "Chino Police Department to hold forum Wednesday on proposed use of facial recognition technology"
-    excerpt: "Facial recognition technology is already used by several agencies in the Inland Empire, and the Chino Police Department is considering using the technology in the future. The department is holding a public forum Wednesday evening to get feedback from the community on any concerns residents might have about the technology. Chino police said in a ..."
-    publishedDateTime: 2020-02-12T02:16:00Z
-    webUrl: "https://www.pe.com/2020/02/11/chino-pd-to-hold-forum-wednesday-on-proposed-use-of-facial-recognition-technology/"
-    ampWebUrl: "https://www.pe.com/2020/02/11/chino-pd-to-hold-forum-wednesday-on-proposed-use-of-facial-recognition-technology/amp/"
-    cdnAmpWebUrl: "https://www-pe-com.cdn.ampproject.org/c/s/www.pe.com/2020/02/11/chino-pd-to-hold-forum-wednesday-on-proposed-use-of-facial-recognition-technology/amp/"
-    type: article
-    provider:
-      name: The Press-Enterprise
-      domain: pe.com
-    quality: 46
-    images:
-      - url: "https://www.pe.com/wp-content/uploads/2020/02/IDB-L-CHINOPD-0212-16x9-1-1.jpg?w=1024&h=579"
-        width: 1024
-        height: 578
   - title: "EU Softens Stance On 5-Year Ban Of Facial Recognition Tech"
     excerpt: "The European Union won’t be passing a blanket moratorium on facial recognition software after initially signaling that it would do so. Instead, it plans to leave the responsibility to member states. That decision has faced backlash from privacy advocates, who say civil liberties could be at risk from facial recognition due to its potential ..."
     publishedDateTime: 2020-02-12T11:59:00Z

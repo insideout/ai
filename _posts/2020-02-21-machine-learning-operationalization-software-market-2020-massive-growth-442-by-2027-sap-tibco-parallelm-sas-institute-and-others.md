@@ -37,6 +37,19 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 33
+  - title: "TMR Projects Strong Growth for Property Management Software Market, AI and Machine Learning to Boost Valuation to ~US$ 2 Bn by 2027"
+    excerpt: "/PRNewswire/ -- The property management software market will witness a notable growth during the forecast period at a CAGR of 7.0%. The growth is notable"
+    publishedDateTime: 2020-02-26T08:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/tmr-projects-strong-growth-for-property-management-software-market-ai-and-machine-learning-to-boost-valuation-to-us-2-bn-by-2027-301011475.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 24
+    images:
+      - url: "https://mma.prnewswire.com/media/1085206/Transparency_Market_Research_Logo.jpg?p=publish&p=facebook"
+        width: 1200
+        height: 800
 
 secured: "lc9SL/6qZh/VK6+PIqccXoJG6ru/Am0z+4q4PmpehOzDMkY3RHzKPTWlPb/wEZRM55YSTtJsY9Z+59kYuHIRIfZtpXMfhsUrmPtTxbacnQag9iTPdepzjcZi6FeQ+AiTRSugeXyI6bEMoofVJmkN0dtJUJShm5UCEN0t8hQzVtvAhuuEKFHveQmSvMSh1yqw2Xpx843DcePjMI3JEJQrMXuTuWy4MDE3bytrHK7pbmzjVhnK/gR1bVippT/kEzF6+T1oJ49UEAIEnS7htgQ3iQ4ZVwUeyf01jgv2uE8Ao1+pm5nYIEWMB8A68yCaF+fC;1cHVu79hTffK7rQHUXgAEQ=="
 ---

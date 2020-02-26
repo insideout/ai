@@ -231,7 +231,7 @@ related:
   - title: "Global Context Aware Computing Market 2020 Technology Trends, High Demand, Competitive Landscape and Strong Application Scope by 2025"
     excerpt: "Global Context Aware Computing Market 2020-2025: The Global Context Aware Computing Market was valued at USD 42.59 billion in 2019, and it is expected to reach a value of USD 205.40 billion by 2025, at a CAGR of 30."
     publishedDateTime: 2020-02-18T05:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-context-aware-computing-market-2020-technology-trends-high-demand-competitive-landscape-and-strong-application-scope-by-2025-2020-02-18?mod=mw_quote_news"
+    webUrl: "https://www.marketwatch.com/press-release/global-context-aware-computing-market-2020-technology-trends-high-demand-competitive-landscape-and-strong-application-scope-by-2025-2020-02-18"
     type: article
     provider:
       name: MarketWatch

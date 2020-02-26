@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-22T07:47:00Z
 webUrl: "https://www.telegraph.co.uk/technology/2020/02/22/ai-could-best-hope-fighting-next-coronavirus/"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -15,6 +15,21 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Could artificial intelligence have predicted the COVID-19 coronavirus?"
+    excerpt: "The use of artificial intelligence is now the norm in many industries, from integrating the technology in autonomous vehicles for safety, to AI algorithms being used to improve advertising campaigns. But, by using it in healthcare, could it also help us predict the outbreak of a virus such as the COVID-19 coronavirus? Since the first cases were ..."
+    publishedDateTime: 2020-02-26T17:28:00Z
+    webUrl: "https://www.euronews.com/2020/02/26/could-artificial-intelligence-have-predicted-the-covid-19-coronavirus"
+    type: article
+    provider:
+      name: Euronews
+      domain: euronews.com
+    quality: 39
+    images:
+      - url: "https://static.euronews.com/articles/stories/04/52/65/58/1000x563_cmsv2_d67928cf-1d6e-56c4-888c-5d0d6cb333d4-4526558.jpg"
+        width: 1000
+        height: 563
 
 secured: "UH16kLHZtoETtRhNYHOX1/C2yD+Qecd2YGvmEcIXsm1oTIddeWWLr1TvOLrlr1tCYBjvsw5KVxXHPInsTVwI2VrzTA2pIHbEE48VV4jnKV9fmj5II3Z5Y5tdceWMMAgBvUj2s0exA/OWJKYpvAuZ4QUCcihl/7jJQnfCxugFhiRu5SKcmkY8bfULerbak+t2c/14YiW+EWBgXeNdacaFsKD1WzkUrgUM50s9ersmBkf/gtbj3djAy0irPhlM+S6XuJsC/ZyK1G4za/mrgI44OYpSX5Nt3R5ctmT29Mh+Q889dsa/hJXMZjcmNQjruhu0QdC8CeEl+fWI1F7nB/ZCsRAng9HvlLWKiyvPjrvHLkOoCmDGOrWA8o0FrVb/G5o0WcEltN14jFmbVmCKxR0uuiGYRtNAn1MDgmQ55sPu8CX1evthSio+To+sno5dRwB9r4mhOOIsCbKckjAGn1wN2BkrMlKqge1DhXAr0B60lVI=;hJxVnGhJh+0Iu9acq24m3A=="
 ---

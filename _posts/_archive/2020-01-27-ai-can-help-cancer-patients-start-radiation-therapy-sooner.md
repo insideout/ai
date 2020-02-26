@@ -38,6 +38,6 @@ related:
       domain: medicalxpress.com
     quality: 54
 
-secured: "eTKGKsqbLQvVZycvlp+5jhSllcPpsYsi0eol0ddkYe4kBhVU+FDlMdwd/biGMC+9tBPL6H6NgVB9PZMpv10jaUTPx7k56Ofw+O7lDQEN819rj5r1SSOuhnIxBFJ316ijHeY6kmRnmk7jKZMV4/uAe4zaBnUK86e+6nrk32JtJvs4J+pI0UkUrFJpbK0uSJZWC+bskkuiSg80u0kkTe1WqceoJF3EqvndRd3nscK1vcM7LOaRnt3B5oFrwtDm5Ef5xXPs19WP7PmGLUNZC6xz7FGrAUEMQZfgJGGgxI2eD9JTiJoqwfb9F7BiEUIg5RkV;adwVBYdD55IyFGusGgX0ew=="
+secured: "WkXLeMCCS6kTiJ5/BSZTWjfQtNF0Rj4nFQrJ72EiyVAgeGZzV38yeisWdQ2RBt/q9d9eQe7LvOKvY9gFdrljM/wjX67f1NJn+lzitPQkA5S6qx8Sz/09swXo5TYw5t5y4CQXa76Ya6EAnMfliy5yVZ+mABQYjajqwo5Njn8rAPs17QNo9m8GR0taq3qr8Wj0/jj4e8ovQCD3C1+Se0PXiO8NOL8Rnb6DiPEAzTCtzkQv3Ub9gAEx6ark97+ANtmB5KgZN1Yxz038FkYSQHH2IW3gqzndFbh5hP/M0yfy76GTJEL6RZMWnPub72tp3/zn;j4FiDy/z+3XY7IIPe9qBew=="
 ---
 

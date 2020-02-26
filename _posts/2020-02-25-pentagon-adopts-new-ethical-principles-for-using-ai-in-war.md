@@ -1,25 +1,27 @@
 ---
 category: news
 title: "Pentagon adopts new ethical principles for using AI in war"
-excerpt: "The Pentagon is adopting new ethical principles as it prepares to accelerate its use of artificial intelligence technology on the battlefield. The new principles call for people to \"exercise appropriate levels of judgment and care\" when deploying and using AI systems,"
-publishedDateTime: 2020-02-25T18:40:00Z
-webUrl: "https://www.chron.com/business/technology/article/Pentagon-adopts-new-ethical-principles-for-using-15080225.php"
+excerpt: "The new principles call for people to \"exercise appropriate levels of judgment and care\" when deploying and using AI systems, such as those that scan aerial imagery to look for targets. They also say decisions made by automated systems should be “traceable\" and “governable,\" which means “there has to be a way to disengage or deactivate ..."
+publishedDateTime: 2020-02-25T02:23:00Z
+webUrl: "https://abcnews.go.com/Politics/wireStory/pentagon-adopts-ethical-principles-ai-war-69181756"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pentagon-adopts-ethical-principles-ai-war-69181756"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pentagon-adopts-ethical-principles-ai-war-69181756"
 type: article
-quality: 37
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: ABC
+  domain: go.com
 
 topics:
   - AI
 
 images:
-  - url: "https://s.hdnux.com/photos/01/10/62/42/19081406/11/rawImage.jpg"
-    width: 2048
-    height: 1365
+  - url: "https://s.abcnews.com/images/Politics/WireAP_5a2ee9d1ab2546ab8f055f25d1597576_16x9_992.jpg"
+    width: 992
+    height: 558
     title: "Pentagon adopts new ethical principles for using AI in war"
 
 related:
@@ -136,7 +138,7 @@ related:
   - title: "DOD releases first AI ethics principles, but there’s work left to on implementation"
     excerpt: "\"I'm not suggesting enforcement at the beginning of it,\" he said. \"These are early conversations to be had with our industry partners to say now that we've established these principles for AI ethics, could you develop the capabilities that address each of the five at some point along the way through [research, development, testing and evaluation].\""
     publishedDateTime: 2020-02-25T05:56:00Z
-    webUrl: "https://fcw.com/articles/2020/02/24/dod-ai-policy-memo-williams.aspx"
+    webUrl: "https://fcw.com/articles/2020/02/24/dod-ai-policy-memo-williams.aspx?admgarea=TC_Agencies"
     type: article
     provider:
       name: Federal Computer Week
@@ -191,6 +193,6 @@ related:
       domain: fedscoop.com
     quality: 17
 
-secured: "OeS0vDz7yv/4Cnwtba95b6muRz8dA3Rhh5yS9QHHrSZCiOLaRSypijzSkgYu62iCsG2LAjZP5NperXcaxXQ59n+Gg/Kr2ab2AlAFinlp4v7Fh7XlXktC3jW+TheXadm/tfUoXd3V4jy8ix3G3dcFpUPURQiVdO5GHP4qr5JuGO9n6BfEu2XA2XVCnLNfP3V8nTauVtqloPoGaKRDHiQY336dvNAezE+jFa6OQtvcOxLeS4xRiyjezi/B2va1SY0MvOIRDYeux7exnjv5NUwExMJ66AxwlpqWzUamE1wAr6fgWdBpfdcH14kdGFwDoYjSunK/tBjpPbvTlOiIZto3hdtMl1ZAmpelr7unmgDyTlKd4n3vhukDT2B+CBcoTJNGXorNw/Zx7MPkhv1nZdbtPhPom2DPuBPTUbD9MpTDm/eGIrN9u1wZMkQNPDhGvmDZ51Iv54bkE3epFkuHmiGZov/TX7pC7QIkhlGZn1emdM4=;ECoYgKuq9toDjItdJDBTUA=="
+secured: "4wLKAp1PLQfJ7wOAoVkQwUEsy4cijeasgWDMx8ffjZc3E53foXLIbwOhL+cI1vxE76/QXyGZdfhG0fP6W5a8Ndt/Ben6aFZHS756KqE2Dd5trnrxxIupS7NrbZbLTUnzyk94899hmg/NrtxZmksDHWNqzfA6Ofrwln/gSC6/S6jUzofY1FQLysjE/mALHvOKTfb5aciBFb3kGPsVujdVt/okziTD6bKw6tD9Q3zeLJM6cDXLPz3ute+5yKqUyAzkhYgTWZSKDJfswU5tV3sQIANOHmJBQ55oqBCJLgGheeJiHyDBv7AaZm06i2Wi9w6Z;ODPE/IAzgvxx7CbDHIxvbA=="
 ---
 

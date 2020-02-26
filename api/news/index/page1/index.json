@@ -92,50 +92,6 @@
       ]
     },
     {
-      "path": "_posts/2020-02-12-andrew-yang-an-ai-first-candidate-drops-out-of-presidential-race.md",
-      "title": "Andrew Yang, an AI-first candidate, drops out of presidential race",
-      "excerpt": "(Reuters) — Andrew Yang, an entrepreneur whose unlikely White House bid evolved into a serious campaign thanks to grassroots enthusiasm, pulled out of the Democratic presidential race on Tuesday after New Hampshire delivered him a second straight poor showing. Yang, 45, who ran for president despite having no political background, surprised ...",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/11/andrew-yang-an-ai-first-candidate-drops-out-of-presidential-race/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/11/andrew-yang-an-ai-first-candidate-drops-out-of-presidential-race/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/11/andrew-yang-an-ai-first-candidate-drops-out-of-presidential-race/amp/",
-      "publishedDateTime": "2020-02-11T19:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/andrew-yang-1.jpg?fit=5048%2C2524&strip=all",
-          "width": 5048,
-          "height": 2524,
-          "title": "Andrew Yang, an AI-first candidate, drops out of presidential race",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-12-artificial-intelligence-ai-in-healthcare-market-to-register-high-revenue-growth-at-519-cagr-by-2023.md",
       "title": "Artificial Intelligence (AI) in Healthcare Market To Register High Revenue Growth At 51.9% CAGR by 2023",
       "excerpt": "Healthcare Artificial Intelligence (AI) Market Scenario As per a report published by Market Research Future (MRFR), the global healthcare artificial intelligence market is likely to capture an impressive CAGR of 51.",
@@ -434,51 +390,6 @@
       ]
     },
     {
-      "path": "_posts/2020-02-12-fintech-startup-tribal-credit-secures-us55-million-in-funding-round.md",
-      "title": "Fintech Startup Tribal Credit Secures US$5.5 Million In Funding Round",
-      "excerpt": "The founding team consists of serial entrepreneurs, data scientists, and fintech execs who have had experiences in banking, risk and compliance, regulations, and scaling in emerging markets. Shady points out that the startup’s main advantage in the market is its proprietary AI algorithm, which they originally conceived based off their researc ...",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.entrepreneur.com/article/346215",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/346215",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/346215",
-      "publishedDateTime": "2020-02-11T19:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/20200211171501-Tribal-DarkCardMock-Simple.png?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": "Fintech Startup Tribal Credit Secures US$5.5 Million In Funding Round",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
       "path": "_posts/2020-02-12-healthcare-algorithms-are-biased-and-the-results-can-be-deadly.md",
       "title": "Healthcare Algorithms Are Biased, and the Results Can Be Deadly",
       "excerpt": "And the Alliance for Artificial Intelligence in Healthcare, a nonprofit organization founded in December 2018, brings together developers, device manufacturers, researchers, and other professionals to advance the safe and fair use of AI in medicine. Some organizations have started baking inclusivity and fairness into the data-gathering process ...",
@@ -611,7 +522,7 @@
       "path": "_posts/2020-02-12-lyft-touts-benefits-of-self-driving-cars-but-warns-of-second-order-effects.md",
       "title": "Lyft touts benefits of self-driving cars, but warns of ‘second order’ effects",
       "excerpt": "Autonomous cars will prove critical to the future of cities, according to Raj Kapoor, Lyft’s chief strategy officer and head of business for self-driving. But he added that riders may need to adjust their expectations and warned of unintended “second order” effects of the burgeoning driverless car industry. Kapoor was speaking at the Move ...",
-      "heat": 91,
+      "heat": 81,
       "tags": null,
       "type": "article",
       "webUrl": "https://venturebeat.com/2020/02/12/lyft-touts-benefits-of-self-driving-cars-but-warns-of-second-order-effects/",
@@ -650,43 +561,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-12-met-police-rolls-out-live-facial-recognition-in-london.md",
-      "title": "Met Police rolls out live facial recognition in London",
-      "excerpt": "This is the Met Police’s first live deployment of facial recognition technology in London, following 10 trials around the city since 2016 and months of public debate about the use of the controversial biometric software on the public. The rollout comes in the wake of similar deployments in countries including China, Brazil, India and Wales.",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.ft.com/content/db8bfc3c-4cf4-11ea-95a0-43d18ec715f5",
-      "ampWebUrl": "https://amp.ft.com/content/db8bfc3c-4cf4-11ea-95a0-43d18ec715f5",
-      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/db8bfc3c-4cf4-11ea-95a0-43d18ec715f5",
-      "publishedDateTime": "2020-02-11T20:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F104630ce-4cea-11ea-95a0-43d18ec715f5?source=google-amp&fit=scale-down&width=500",
-          "width": 500,
-          "height": 281,
-          "title": "Met Police rolls out live facial recognition in London",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     },
     {
@@ -983,51 +857,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-12-update-1-us-lawmakers-hear-arguments-for-new-safeguards-for-self-driving-cars.md",
-      "title": "UPDATE 1-U.S. lawmakers hear arguments for new safeguards for self-driving cars",
-      "excerpt": "WASHINGTON, Feb 11- A U.S. House panel on Tuesday heard from advocates of imposing stricter safeguards for self-driving cars as part of any effort to speed the adoption of the vehicles on U.S. roads.",
-      "heat": 100,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2020/02/11/reuters-america-update-1-u-s-lawmakers-hear-arguments-for-new-safeguards-for-self-driving-cars.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/02/11/reuters-america-update-1-u-s-lawmakers-hear-arguments-for-new-safeguards-for-self-driving-cars.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/02/11/reuters-america-update-1-u-s-lawmakers-hear-arguments-for-new-safeguards-for-self-driving-cars.html",
-      "publishedDateTime": "2020-02-11T20:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif?v=1524171804",
-          "width": 1200,
-          "height": 630,
-          "title": "UPDATE 1-U.S. lawmakers hear arguments for new safeguards for self-driving cars",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     },
     {
@@ -1464,7 +1293,7 @@
       "path": "_posts/2020-02-13-facial-recognition-could-be-temporarily-banned-for-law-enforcement-use.md",
       "title": "Facial recognition could be temporarily banned for law enforcement use",
       "excerpt": "Senators have introduced a bill that would prohibit the technology for police use until guidelines and limitations are set. Law enforcement agencies could be temporarily banned from using facial recognition after Sens.",
-      "heat": 569,
+      "heat": 549,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.cnet.com/news/facial-recognition-could-be-temporarily-banned-for-law-enforcement-use/",
@@ -2052,7 +1881,7 @@
       "path": "_posts/2020-02-13-the-self-driving-and-sharing-economy-how-regulation-may-drive-the-transportation-revolution-in-2020-and-beyond.md",
       "title": "The Self Driving And Sharing Economy: How Regulation May Drive The Transportation Revolution In 2020 And Beyond",
       "excerpt": "Everyone recognizes that these technologies will mold the future, but this final piece—how regulators will interact with these developing technologies—is the critical factor that has the potential to shape the race to market.",
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.forbes.com/sites/paulrosen/2020/02/12/the-self-driving-and-sharing-economy-how-regulation-may-drive-the-transportation-revolution-in-2020-and-beyond/",
@@ -2136,6 +1965,169 @@
       "topics": [
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-13-this-emoji-could-mean-your-suicide-risk-is-high-according-to-ai.md",
+      "title": "This emoji could mean your suicide risk is high, according to AI",
+      "excerpt": "Compared to the general population, Crisis Text Line users skew young, low-income, and high-risk, but the AI-generated insights are promising. Lindsey C. McKernan, an assistant professor in the department of psychiatry and behavioral sciences at Vanderbilt University Medical Center who has written about using artificial intelligence in ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://mashable.com/article/suicide-risk-crisis-text-line-artificial-intelligence/",
+      "ampWebUrl": "https://mashable.com/article/suicide-risk-crisis-text-line-artificial-intelligence.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/suicide-risk-crisis-text-line-artificial-intelligence.amp",
+      "publishedDateTime": "2020-02-12T16:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F02%252F13%252F72%252F17435b513b8a4c138a89d0224c67fa15.26cbf.jpg%252F1200x630.jpg?signature=mTpF80X4nYynlZY7jNCPPH4nBRk=",
+          "width": 1200,
+          "height": 630,
+          "title": "This emoji could mean your suicide risk is high, according to AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-13-viziblezone-taps-ai-and-smartphone-data-to-alert-drivers-to-pedestrians.md",
+      "title": "Viziblezone taps AI and smartphone data to alert drivers to pedestrians",
+      "excerpt": "An intriguing solution emerged last year from Viziblezone, a startup within the Jerusalem-based investment platform OurCrowd’s Labs/02 incubator program. Using a combination of AI and machine learning models, smartphones, and commodity car hardware, it’s capable of alerting drivers about potential nearby hazards while helping them to avoid ...",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/13/viziblezone-taps-ai-and-smartphone-data-to-alert-drivers-of-pedestrians/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/13/viziblezone-taps-ai-and-smartphone-data-to-alert-drivers-of-pedestrians/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/13/viziblezone-taps-ai-and-smartphone-data-to-alert-drivers-of-pedestrians/amp/",
+      "publishedDateTime": "2020-02-13T09:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/maxresdefault-3-e1581578338376.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Viziblezone taps AI and smartphone data to alert drivers to pedestrians",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-13-xmos-unveils-xcoreai-a-powerful-chip-designed-for-ai-processing-at-the-edge.md",
+      "title": "XMOS unveils Xcore.ai, a powerful chip designed for AI processing at the edge",
+      "excerpt": "With seed funding from the University of Bristol enterprise fund and the Wyvern seed fund as well as Amadeus Capital Partners, DJF Espirit, and Foundation Capital, the startup set about developing processor technology ... spinning off its Graphcore division focused on server-side AI. The following three years culminated in the release of ...",
+      "heat": 125,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/12/xmos-unveils-xcore-ai-a-powerful-chip-designed-for-ai-processing-at-the-edge/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/12/xmos-unveils-xcore-ai-a-powerful-chip-designed-for-ai-processing-at-the-edge/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/12/xmos-unveils-xcore-ai-a-powerful-chip-designed-for-ai-processing-at-the-edge/amp/",
+      "publishedDateTime": "2020-02-12T20:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/07/blockchain_database-e1573158651295.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "XMOS unveils Xcore.ai, a powerful chip designed for AI processing at the edge",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI Hardware",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-14-ai-algorithms-intended-to-detect-welfare-fraud-often-punish-the-poor.md",
+      "title": "AI Algorithms Intended to Detect Welfare Fraud Often Punish the Poor",
+      "excerpt": "Automated algorithms – not humans – are increasingly making decisions about who’s eligible for welfare benefits.",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.usnews.com/news/best-states/articles/2020-02-14/ai-algorithms-intended-to-detect-welfare-fraud-often-punish-the-poor-instead",
+      "ampWebUrl": "https://www.usnews.com/news/best-states/articles/2020-02-14/ai-algorithms-intended-to-detect-welfare-fraud-often-punish-the-poor-instead?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/articles/2020-02-14/ai-algorithms-intended-to-detect-welfare-fraud-often-punish-the-poor-instead?context=amp",
+      "publishedDateTime": "2020-02-14T09:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

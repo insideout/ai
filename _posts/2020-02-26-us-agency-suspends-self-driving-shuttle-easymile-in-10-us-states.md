@@ -8,7 +8,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN20J2N6"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN20J2N6"
 type: article
 quality: 74
-heat: 215
+heat: 225
 published: true
 
 provider:
@@ -45,6 +45,21 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/02/3-EZ10-e1582721124443.jpg?fit=1200%2C600&strip=all"
         width: 1200
         height: 600
+  - title: "Self-driving shuttle company ordered to stop carrying passengers after injury"
+    excerpt: "The National Highway Traffic Safety Administration (NHTSA) has partially suspended the US operations of France’s EasyMile after a passenger in Ohio was injured while riding in one of the company’s self-driving shuttles. EasyMile can continue operating its shuttles while NHTSA investigates, but the company can’t carry any passengers."
+    publishedDateTime: 2020-02-26T17:56:00Z
+    webUrl: "https://www.theverge.com/2020/2/26/21154532/easymile-columbus-ohio-nhtsa-suspension-injury"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/2/26/21154532/easymile-columbus-ohio-nhtsa-suspension-injury"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/26/21154532/easymile-columbus-ohio-nhtsa-suspension-injury"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 71
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/Im5sjEQRAF4D1VILwpQ1rwW8wbI=/0x0:5000x3333/1400x933/filters:focal(2100x1267:2900x2067):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66378849/1061310952.jpg.0.jpg"
+        width: 1400
+        height: 933
   - title: "U.S. Agency Suspends Self-Driving Shuttle EasyMile in 10 U.S. States"
     excerpt: "U.S. auto safety regulators said on Tuesday they had ordered a suspension of passenger operations for 16 autonomous shuttles operated by French-based EasyMile after a passenger was injured in an unexplained braking incident."
     publishedDateTime: 2020-02-25T16:41:00Z
@@ -213,6 +228,6 @@ related:
         width: 792
         height: 416
 
-secured: "4G15AglVU8KwGvky0YONsAyaeGGT0JYjiKVtlZoCkl2RYwtMaoUjG5SCeYabMx83XOJQPDjvne9SCcgcNSdBIpWsJKsA2zaqyH/cHNxR3bgyNe+4G6BTmqjCL8ZT3CmEYx/bC6Q+FZQkEFS7jfw9QSJYdwldarVFQYfvuQdf+0AaNvDhWeWbvGIsdzXbsB1TzeuWXMDZsW3kNxblxqPdCozlGq2sMy7IOJtG0V7OS2PL79Nx5vs7jWxF/GGiJODy7FIDvJaj/Y2+bv4pxnDfWc7OsHLGBiw6TVglZREeGm49EkYB0IGmHb1RrruEsrPEiMRLOaW5fgT96FmrZ1PM8hScRUm/IWBYebc8GILqEmtO/Cc/VygjuJt2ELgMVjDSZCz0VF/fYRhlAWspnYtX6YGkZHDl9zTq310QI2Uq/c7BqPIt7j5dYjPb3uyQgyP4cRtnKewdbmLFlINw9IARPzm4uJ1iqX5x+yDVh+Zj6SI=;lOGZprncRNNxqDLUqYO72A=="
+secured: "wnh1QrUTJn0/lENGUhScQylqHbIi+/ZEtwSUcXzzIP143KbcNFmxsSMh1PWw40rwadKLPQTxIWXsbE0l/bXoWk1PBOJ59asGfufqdxqYoAIIoEB63oM2H9eof3QIl/4KGOPDXYMFOJFlOSXikYR7OLw2wPP3PiwOMAH8IACjyQRFTgGLmj0+wF3/6VKDHntCwK0SsRq5eSxCEtFsOB1904Gi4VVQTrQVDH0C5lIoWb7N/tPe5JlocLZf0R6wqSaeXtK8FWvoaOBesmmacNtl0j8DduM/G6FVhJAI6ChmwvJD1ENFzQz1tFt5lXbpWN8xntX0YKNOCygdwB2B73M/EjgyIqueSFGC3eFpukqAboBlx+AGcNgaLGsf715uZYaljV68fXdYdtSqCYbTWsQ24MDhRcC9CSf3hQAUGeRieERQBs/o74/b8+OFDix2sT4twFbzfsOJ3W0f7hLpkBQwmAWTzZlidvebPK7Su8TwIug=;1yQRPFTBm4LrSbqv+rrE2w=="
 ---
 

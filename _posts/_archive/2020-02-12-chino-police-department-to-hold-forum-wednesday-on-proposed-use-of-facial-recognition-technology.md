@@ -260,21 +260,6 @@ related:
       - url: "https://www.businessinsider.in/thumb/msid-74176964,height-275,width-412,imgsize-146190/tech/news/indian-government-to-add-facial-recognition-iris-scan-for-digital-payments/digital-payments.jpg"
         width: 412
         height: 275
-  - title: "Chino PD to hold forum Wednesday on proposed use of facial recognition technology"
-    excerpt: "Facial recognition technology is already used by several agencies in the Inland Empire, and the Chino Police Department is considering using the technology in the future. The department is holding a public forum Wednesday evening to get feedback from the community on any concerns residents might have about the technology. Chino police said in a ..."
-    publishedDateTime: 2020-02-12T01:16:00Z
-    webUrl: "https://www.pe.com/2020/02/11/chino-pd-to-hold-forum-wednesday-on-proposed-use-of-facial-recognition-technology/"
-    ampWebUrl: "https://www.pe.com/2020/02/11/chino-pd-to-hold-forum-wednesday-on-proposed-use-of-facial-recognition-technology/amp/"
-    cdnAmpWebUrl: "https://www-pe-com.cdn.ampproject.org/c/s/www.pe.com/2020/02/11/chino-pd-to-hold-forum-wednesday-on-proposed-use-of-facial-recognition-technology/amp/"
-    type: article
-    provider:
-      name: The Press-Enterprise
-      domain: pe.com
-    quality: 54
-    images:
-      - url: "https://www.pe.com/wp-content/uploads/2020/02/IDB-L-CHINOPD-0212-16x9-1-1.jpg?w=1024&h=579"
-        width: 1024
-        height: 578
   - title: "Senators introduce facial recognition bill proposing moratorium on government use"
     excerpt: "Two Democratic senators introduced a bill on Wednesday that would place a moratorium on the use of facial recognition technology by the federal government. Sen. Jeff Merkley (D-Ore.) and Sen. Cory Booker (D-N.J.) introduced the Ethical Use of Facial Recognition Act. Besides placing a moratorium on the federal government’s use of the ..."
     publishedDateTime: 2020-02-13T14:44:00Z

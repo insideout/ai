@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-24T09:00:00Z
 webUrl: "https://venturebeat.com/2020/02/24/microsoft-azure-sphere-launches-in-general-availability/"
 type: article
 quality: 99
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -67,6 +67,19 @@ related:
       - url: "https://www.thurrott.com/wp-content/uploads/sites/2/2020/02/azure-sphere-diagram.jpg"
         width: 1066
         height: 600
+  - title: "Microsoft Makes Azure Sphere GA To Secure IoT Devices"
+    excerpt: "The Redmond, Wash.-based computer giant announced general availability of Azure Sphere Monday, nearly two years after the company first revealed the new solution for microcontroller unit (MCU) devices as part of its $5 billion IoT investment plan. [Related: IoT Startup FogHorn Raises $25 Million Series C Funding As Edge AI Takes Off] The market ..."
+    publishedDateTime: 2020-02-26T18:52:00Z
+    webUrl: "https://www.crn.com/news/internet-of-things/microsoft-makes-azure-sphere-ga-to-secure-iot-devices"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 54
+    images:
+      - url: "https://www.crn.com/resources/025a-0ecb708c9842-52e93379f79a-1000/iot-smartphone400.jpg"
+        width: 399
+        height: 399
   - title: "Microsoft Announces General Availability of Threat Protection, Insider Risk Management"
     excerpt: "It started with an internal demand at Microsoft to use machine learning to detect threats based on user behavior ... and other partners to enable easier data collection. A new connector for Azure Security Center for IoT lets admins onboard data workloads from the Internet of Things into Azure Sentinel from deployments managed in the IoT ..."
     publishedDateTime: 2020-02-20T20:37:00Z

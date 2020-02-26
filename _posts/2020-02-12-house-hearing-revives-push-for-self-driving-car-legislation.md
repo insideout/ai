@@ -43,32 +43,6 @@ related:
       - url: "https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif?v=1524171804"
         width: 1200
         height: 630
-  - title: "Lawmakers, Trial Lawyers Clash Over Self-Driving Car Rules"
-    excerpt: "(TNS) — Lawmakers in the U.S. House on Tuesday took to task a trial lawyers' lobby group that helped kill a bill setting regulations for self-driving cars. The Washington-based American Association for Justice, which lobbies for trial lawyers who typically represent plaintiffs, had objected to a lack of concrete protections that would ensure ..."
-    publishedDateTime: 2020-02-12T18:09:00Z
-    webUrl: "https://www.govtech.com/transportation/Lawmakers-Trial-Lawyers-Clash-Over-Self-Driving-Car-Rules.html"
-    ampWebUrl: "https://www.govtech.com/transportation/Lawmakers-Trial-Lawyers-Clash-Over-Self-Driving-Car-Rules.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/transportation/Lawmakers-Trial-Lawyers-Clash-Over-Self-Driving-Car-Rules.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 44
-    images:
-      - url: "https://media2.govtech.com/images/shutterstock_1019141671.jpg"
-        width: 950
-        height: 629
-  - title: "Nuro Self-Driving Car's OK Sets Course For New Exemptions"
-    excerpt: "Law360 (February 11, 2020, 8:55 PM EST) -- Technology and automotive stakeholders are hailing the federal government's first-ever blessing of a self-driving vehicle that will deliver food and packages, but experts say passenger-carrying autonomous vehicles ..."
-    publishedDateTime: 2020-02-12T01:57:00Z
-    webUrl: "https://www.law360.com/articles/1242352/nuro-self-driving-car-s-ok-sets-course-for-new-exemptions"
-    ampWebUrl: "https://www.law360.com/amp/articles/1242352"
-    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1242352"
-    type: article
-    provider:
-      name: Law360
-      domain: law360.com
-    quality: 24
 
 secured: "UBEmHcPW2wsH45lIie7uyCk2vy/V8NLgh5iJq9ARIw527MY5juiMpdk/eDz6uWVmSblOB9MyhSPO85nPfL/jrHaakHuN+/N4wxbWMVv8pKbQW6gO5a03Nauqul0B0yaXUpYUfeokccOy8YCJp9vS56oeNlH993euE/73Rv5xUclBfhYtg4I13ePVTB6XQU1UUcHTxzHlmNCIE7rpnYbSNc5WDcQwzTjwuivv5SREV17xzA3xR+yKOPQ+S0QyBHhq0QKg26wDoJMjQlRuPFhqMqlVwpSa7XS7vEaoqr/0OpZzz0QDDyyNb+pfwHs5zO3yA+Lo7QQ2tcQaovDg08QmGmciH/rMx3HJbm1fGds0/YbfAnVxRpi/MtXa6IHRd+i4h9WcJb76havufXyvKrEmq08N26AXSi4FL89nzSyXA6hhxG8ywsF164k1i/kaLQzAPRzRlJq5Fi5RenMF4QuUb0/CGNbwMx6b8OnQzRr80lY=;PE+A3zcTxjQKkA6Sk/0Wrw=="
 ---

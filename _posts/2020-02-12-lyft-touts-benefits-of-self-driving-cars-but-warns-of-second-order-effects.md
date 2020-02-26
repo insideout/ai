@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/02/12/lyft-touts-benefits-of-self-drivi
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/12/lyft-touts-benefits-of-self-driving-cars-but-warns-of-second-order-effects/amp/"
 type: article
 quality: 71
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -45,21 +45,6 @@ related:
       - url: "http://media.foxbusiness.com/BrightCove/854081161001/202002/3442/854081161001_6132318472001_6132305520001-vs.jpg"
         width: 1280
         height: 720
-  - title: "Has reality put the brakes on self-driving cars?"
-    excerpt: "Five years ago you couldn’t move for it, or at least its promise. Autonomy (aka the self-driving car) was going to take over, save lives, save the planet, make cars uncrashable, put drivers out of work and change everything we knew about individual mobility. Audi staged a piloted drive in one of its large saloons; all 550 miles from Silicon ..."
-    publishedDateTime: 2020-02-17T16:56:00Z
-    webUrl: "https://www.telegraph.co.uk/cars/features/has-reality-put-brakes-self-driving-cars/"
-    ampWebUrl: "https://www.telegraph.co.uk/cars/features/has-reality-put-brakes-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/cars/features/has-reality-put-brakes-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 44
-    images:
-      - url: "https://www.telegraph.co.uk/content/dam/cars/2020/02/17/TELEMMGLPICT000059012609_trans_NvBQzQNjv4Bq3zRqJvTEgWWOoA_OyO2TYjp1J53GedFpkBVyM6aWTKE.jpeg"
-        width: 2380
-        height: 1488
 
 secured: "5m7YVYBEMxi/mrqcGoB1L8u/6HN6XIsYzIQTBu+9fFsNaekSQP9yY+F6pdd6Q+HwrsZMnXjp+wH/H1CPQbeEHctpUtOmJ99kOicbY7HL+5tDajmELu5twy9CMNxJ73HC0M3VXDw/3K3K0CFCBx+K1MquuWnaqkkJh0nogz5zX1WH0BtPCVtaDrhzNY3wKq7bD3Z0S1HdmWCZkN6aH/mKwyBIc6oxvm4E6+yujuOFBEVVmjTOXUyZH7a71du4dk67on49oN964DKQ0AJYRDnuumEsk299Qa4/xn4gyBENsaVF84Z4+itM+BlNZn6uYiEkr+NL9o9KBWvDlLPtP5jSnmPiVOURP3WniKvNeS7vYJmvsWAklvSX+i5mrWyeA2wcPiWfqjViPTc9XMeVjbdDqq7nxEhOKnqTuIO7yoiHKLC/YuUuDuErlQpB0Oey7rgm3lTWQ7/MGxrhcWIM42v/kj+ThOchIGDqpV/PKeewTUI=;jdZKx4X5GakBTmW4yvo9SA=="
 ---

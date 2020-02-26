@@ -28,6 +28,6 @@ related:
       domain: openpr.com
     quality: 19
 
-secured: "Iy+9V85yQZFeuJP+jvJXd2jr7zxQjS6dj6f1c2cbMnJuM711pPcEmy6cqfdh10THIO68N5l7YoYXht2A7+GYkCzuriHgQwcjgaJuJz+4wJU4lK2cRO/5oGQTY53q4c25raDvm8Gu93qUxVGCO736l4XqsTY8/l5NlPupqifeQmBKQeG1SHn7vPizn8GUAg2Nl1POgspOMJ/2+gpGdFYj0KLoXCqQbZ7p9PwyzYdbAUfGr0L0cfquP2YKFaolP5uuM1Q1p6hPZdaFql78udWccvUfpI2eLExWcJvYB/YGmhPhZ/3vCzGjklHTXqCqdcDc;KLyXditKxxLyrSQE9gy7gQ=="
+secured: "OEkxuc44mvrJN0R+ifNxoHYDP4rkMQH7DEUAh9xejuhbam4lF49eroIxlvE9osoHuN0zEvRo2e5anHy1V+7hwjJf3vLxKJwQVdQbjqHa/7LxJyMO38xbQJLqOGU61uQ6hmE6Q8LzaUdE/AmSzrFTlTojs/S19CQn1UUXUAFFSDLWqHc+9nS6yUnlqb4epfyoGIfGlt15FEAV274iR85E6tCJ/zRkIPrYbXw/szwoFYWtROy2KWa9d1sGgzlO8y2Rjok3I9bx/s7MrZmw8KsWPnXxNHPuZcSHHap+2vIY/CIfXgFSKFdxXomH0a5lrJ64;ULh59OBw0bk86vgVlLJm+Q=="
 ---
 

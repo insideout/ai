@@ -76,6 +76,19 @@ related:
       - url: "https://www.thurrott.com/wp-content/uploads/sites/2/2020/02/azure-sphere-diagram.jpg"
         width: 1066
         height: 600
+  - title: "Microsoft Makes Azure Sphere GA To Secure IoT Devices"
+    excerpt: "The Redmond, Wash.-based computer giant announced general availability of Azure Sphere Monday, nearly two years after the company first revealed the new solution for microcontroller unit (MCU) devices as part of its $5 billion IoT investment plan. [Related: IoT Startup FogHorn Raises $25 Million Series C Funding As Edge AI Takes Off] The market ..."
+    publishedDateTime: 2020-02-26T18:52:00Z
+    webUrl: "https://www.crn.com/news/internet-of-things/microsoft-makes-azure-sphere-ga-to-secure-iot-devices"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 54
+    images:
+      - url: "https://www.crn.com/resources/025a-0ecb708c9842-52e93379f79a-1000/iot-smartphone400.jpg"
+        width: 399
+        height: 399
 
 secured: "T9J1THe/S7kyrqwCiOrra7k6kiM8KtBjf4syPfxPht/EX1gYQZDyL0CmDUU8FAVAs9ojv6ReyT4r6o90Inzo/xUa5x2013zQPnYpguzbha1QgeyOQN2cUyMW+cFsNVWHVbDRURZk9Lb2JMD6BQ8sezhZHoggte+04TAq4d1EZ+jNIcA+PAQnI8vlTzyL6iefU5A4eGyv4q+YnNSc4hlQYiXDekw6iNh6Wewd77CHywPx7zJu9QszajAhp4ccwIRShclNhojSvLdTpokuZfvfrZMYEuhJuDwbuFze9jg/FPPfMp81SB40cChVsXlx1OZr;AMaxbTN6yO67FaocXMnJFg=="
 ---

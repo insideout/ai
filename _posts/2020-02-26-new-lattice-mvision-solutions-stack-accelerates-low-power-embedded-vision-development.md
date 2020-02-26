@@ -37,19 +37,6 @@ related:
       - url: "https://mma.prnewswire.com/media/1094942/Deep_Attentive_Study_Session.jpg"
         width: 309
         height: 400
-  - title: "DrChrono Taps Cognition IP to Process 5 Machine Learning-based Patents Expanding Its Intellectual Property Portfolio"
-    excerpt: "Feb. 26, 2020 (GLOBE NEWSWIRE) -- DrChrono Inc., the company developing the essential platform and services for modern medical practices to make care more informed, more interactive, and more personalized, partnered with Cognition IP to draft and file 5 new patent applications related to the company’s core technologies on machine learning."
-    publishedDateTime: 2020-02-26T15:08:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-drchrono-taps-cognition-ip-process-5-machine-learning-/2020/02/26/9105027.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 16
-    images:
-      - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
-        width: 252
-        height: 335
 
 secured: "H9Ej9PxuhCAwZIU46QSnZJaihSgtvinQTiBWyICCAJinOwOYsfLq/HwqfhX0h+wohOrpXoQkM6XetzaC0Y/gUao7OHV16Amk1EeOScnwZWqYpdlTVGcqKie3yeqB77FVMaCo16MbQiJ31fxogPCdBeXsfdqBnPIxmQ5WCQNwtXTeGrENSU0IKrmg3IUbihJN1j6iv6aBXF8qRRNi2PSx7gvaOl83mU1UrLzFfgNUF3gAIxJy7YRcrjQ+IodlNfAwxNIXnplPzGkzQdOeNAx/5T7F6el4+P6HvVR7ejpTKSbxudVfvaHvjZ7VMr4cmVEzCxpgJ4HY6O/Tq8dTDDPQXKoly5Gyusbn1yI3ESjfbZ+aQzN2lENDIvQk9mz5yY8PKaJNhgTPNZM0Wxtg8rVEx/jC3m3qOChMMpY1LXWV4BcH08fnZZ2VEDbNFkwhrardyC5CNLxGJ2w6DAv6OpVikepbHOlLCkum6AmoTvOe/dM=;Qld7HlPT8MuUt4CjCK7pXQ=="
 ---

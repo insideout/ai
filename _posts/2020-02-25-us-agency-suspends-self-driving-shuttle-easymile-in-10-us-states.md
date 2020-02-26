@@ -58,6 +58,21 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/02/3-EZ10-e1582721124443.jpg?fit=1200%2C600&strip=all"
         width: 1200
         height: 600
+  - title: "Self-driving shuttle company ordered to stop carrying passengers after injury"
+    excerpt: "The National Highway Traffic Safety Administration (NHTSA) has partially suspended the US operations of France’s EasyMile after a passenger in Ohio was injured while riding in one of the company’s self-driving shuttles. EasyMile can continue operating its shuttles while NHTSA investigates, but the company can’t carry any passengers."
+    publishedDateTime: 2020-02-26T17:56:00Z
+    webUrl: "https://www.theverge.com/2020/2/26/21154532/easymile-columbus-ohio-nhtsa-suspension-injury"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/2/26/21154532/easymile-columbus-ohio-nhtsa-suspension-injury"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/26/21154532/easymile-columbus-ohio-nhtsa-suspension-injury"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 71
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/Im5sjEQRAF4D1VILwpQ1rwW8wbI=/0x0:5000x3333/1400x933/filters:focal(2100x1267:2900x2067):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66378849/1061310952.jpg.0.jpg"
+        width: 1400
+        height: 933
   - title: "Self-driving shuttle services halted after sudden stop causes injury"
     excerpt: "Sixteen self-driving shuttles operated by French firm EasyMile in 10 U.S. states have been ordered to temporarily halt their passenger services after one of them suddenly and unexpectedly activated its brakes, resulting in injuries to one of the riders. As a precautionary measure, the National Highway Traffic Safety Administration (NHTSA ..."
     publishedDateTime: 2020-02-26T06:45:00Z

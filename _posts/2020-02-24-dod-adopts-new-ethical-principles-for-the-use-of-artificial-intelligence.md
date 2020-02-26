@@ -95,6 +95,21 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/44c2b6e/2147483647/strip/true/crop/1762x1151+142+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F28%2F22%2F8178e5064f7c136ce007d7fc24b1%2Fla-1548770710-xhgwtmgm6p-snap-image"
         width: 320
         height: 209
+  - title: "Pentagon adopts new ethical principles for using AI in war"
+    excerpt: "The new principles call for people to \"exercise appropriate levels of judgment and care\" when deploying and using AI systems, such as those that scan aerial imagery to look for targets. They also say decisions made by automated systems should be “traceable\" and “governable,\" which means “there has to be a way to disengage or deactivate ..."
+    publishedDateTime: 2020-02-25T02:23:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/pentagon-adopts-ethical-principles-ai-war-69181756"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pentagon-adopts-ethical-principles-ai-war-69181756"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pentagon-adopts-ethical-principles-ai-war-69181756"
+    type: article
+    provider:
+      name: ABC
+      domain: go.com
+    quality: 57
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_5a2ee9d1ab2546ab8f055f25d1597576_16x9_992.jpg"
+        width: 992
+        height: 558
   - title: "US Department of Defense Adopts Artificial Intelligence Ethical Principles"
     excerpt: "“The adoption of AI ethical principles aligns with the DOD AI strategy objective directing the U.S. military lead in AI ethics and the lawful use of AI systems,” the Pentagon noted. Responsible. DoD personnel will exercise appropriate levels of judgment and care, while remaining responsible for the development, deployment, and use of AI ..."
     publishedDateTime: 2020-02-24T23:22:00Z
@@ -124,7 +139,7 @@ related:
   - title: "DOD releases first AI ethics principles, but there’s work left to on implementation"
     excerpt: "\"I'm not suggesting enforcement at the beginning of it,\" he said. \"These are early conversations to be had with our industry partners to say now that we've established these principles for AI ethics, could you develop the capabilities that address each of the five at some point along the way through [research, development, testing and evaluation].\""
     publishedDateTime: 2020-02-25T05:56:00Z
-    webUrl: "https://fcw.com/articles/2020/02/24/dod-ai-policy-memo-williams.aspx"
+    webUrl: "https://fcw.com/articles/2020/02/24/dod-ai-policy-memo-williams.aspx?admgarea=TC_Agencies"
     type: article
     provider:
       name: Federal Computer Week
@@ -147,19 +162,6 @@ related:
       - url: "https://www.armytimes.com/resizer/HCJVtE9JHfrGKeCjk9CJbXKJ5R8=/1200x630/filters:quality(100)/arc-anglerfish-arc2-prod-mco.s3.amazonaws.com/public/MAYIFX5RQ5BLHHABTTKYSBPTL4.jpg"
         width: 1200
         height: 630
-  - title: "Pentagon adopts new ethical principles for using AI in war"
-    excerpt: "The Pentagon is adopting new ethical principles as it prepares to accelerate its use of artificial intelligence technology on the battlefield. The new principles call for people to \"exercise appropriate levels of judgment and care\" when deploying and using AI systems,"
-    publishedDateTime: 2020-02-25T18:40:00Z
-    webUrl: "https://www.chron.com/business/technology/article/Pentagon-adopts-new-ethical-principles-for-using-15080225.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 37
-    images:
-      - url: "https://s.hdnux.com/photos/01/10/62/42/19081406/11/rawImage.jpg"
-        width: 2048
-        height: 1365
   - title: "DOD Adopts Ethical Principles for Artificial Intelligence"
     excerpt: "The adoption of AI ethical principles aligns with the DOD AI strategy objective directing the U.S. military lead in AI ethics and the lawful use of AI systems. \"The United States, together with our allies and partners, must accelerate the adoption of AI and lead in its national security applications to maintain our strategic position ..."
     publishedDateTime: 2020-02-24T22:03:00Z

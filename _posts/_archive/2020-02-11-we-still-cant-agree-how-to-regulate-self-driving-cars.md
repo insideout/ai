@@ -1,14 +1,14 @@
 ---
 category: news
 title: "We still can’t agree how to regulate self-driving cars"
-excerpt: "A quick recap in case you forgot: the Republican-controlled House of Representatives unanimously passed the SELF DRIVE Act in 2017, which would speed the adoption of self-driving cars and bar states from setting performance standards. But a complementary bill in the Senate, AV START, failed to pass after Democrats raised objections that it didn ..."
-publishedDateTime: 2020-02-11T21:19:00Z
+excerpt: "A quick recap in case you forgot: the Republican-controlled House of Representatives unanimously passed the SELF DRIVE Act in 2017, which would speed the adoption of self-driving cars and bar ..."
+publishedDateTime: 2020-02-11T21:26:00Z
 webUrl: "https://www.theverge.com/2020/2/11/21133389/house-energy-commerce-self-driving-car-hearing-bill-2020"
 ampWebUrl: "https://www.theverge.com/platform/amp/2020/2/11/21133389/house-energy-commerce-self-driving-car-hearing-bill-2020"
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/11/21133389/house-energy-commerce-self-driving-car-hearing-bill-2020"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -30,6 +30,21 @@ images:
     title: "We still can’t agree how to regulate self-driving cars"
 
 related:
+  - title: "Lawmakers, Trial Lawyers Clash Over Self-Driving Car Rules"
+    excerpt: "(TNS) — Lawmakers in the U.S. House on Tuesday took to task a trial lawyers' lobby group that helped kill a bill setting regulations for self-driving cars. The Washington-based American Association for Justice, which lobbies for trial lawyers who typically represent plaintiffs, had objected to a lack of concrete protections that would ensure ..."
+    publishedDateTime: 2020-02-12T18:09:00Z
+    webUrl: "https://www.govtech.com/transportation/Lawmakers-Trial-Lawyers-Clash-Over-Self-Driving-Car-Rules.html"
+    ampWebUrl: "https://www.govtech.com/transportation/Lawmakers-Trial-Lawyers-Clash-Over-Self-Driving-Car-Rules.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/transportation/Lawmakers-Trial-Lawyers-Clash-Over-Self-Driving-Car-Rules.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 44
+    images:
+      - url: "https://media2.govtech.com/images/shutterstock_1019141671.jpg"
+        width: 950
+        height: 629
   - title: "Has reality put the brakes on self-driving cars?"
     excerpt: "Five years ago you couldn’t move for it, or at least its promise. Autonomy (aka the self-driving car) was going to take over, save lives, save the planet, make cars uncrashable, put drivers out of work and change everything we knew about individual mobility. Audi staged a piloted drive in one of its large saloons; all 550 miles from Silicon ..."
     publishedDateTime: 2020-02-17T16:56:00Z
@@ -72,6 +87,6 @@ related:
         width: 1200
         height: 630
 
-secured: "pn/Tq/3GZFe8Xv3ZA2tI4IwnBzoy+U9VcLHuZ5KSiILSDd75EDr1UglkqvhYdRcrKZ5wxx5cRg0YvZktbBpLtuqc7fb160j8x2h6tV/qPj1/UIzzTQrRGRJp1B5eRb7Sm3eDlzNhLpKyDMiy/vmuHCQjspx5e/ez2Pg03QEuaP3x0+MzZ7xNf5aLpWvYoCtRDylSYMAtB3SMVfEv0rXOwM/TTw2VUbjrcUEmQZPvIaA2y5Tbdeg3QnJFmTfFaddxGaUkAQIJbgDOmJB03kixoGQLDTx6fvPvQAefVGRvbKif+zlm9r4WSkcofuDG40vDcnWhhDIbFbtwAc3ZwVQGwMSzkk4JILdTHQpeKayifU6VutS3hx8u9dkdugjhuzjCoEf07f+n85giovm25UU8/tknw9/myIcZJaDr+vUMCuXGcbOajQFycwO9jx+42KgLwfUTQ4nzIWHw+WwNZbv/FaWc8gSyHsKG62qzoAZslIY=;KAHcK7mc5mywv9RnRHnENw=="
+secured: "rOjpGGFkLMl4XokWd9N7hWpZD5l5oNSCshfDHd2UGdcoHXmpI9kpcuDsN2G+tb/ZvzLheXv5jL+ZFVQZ2tGC8hJVSB8xg06W2ZPCbGoLF2K11YjGbH/1lYhPMdpiDWo2z5BL982OuivtL5nMu+uBdvEYkLkgOh8vmO/1aRje7SQWM8OPkBSccN34NmwXwg4znQKdb1GXclqIJYP5CWU0l1K1AAwY2tSQOREVQLqF00nJRZakmuI4HXdgBQpij3z8A7kRx3MpeDkg7gVfrWoYncWdk2W6XcabZtHnAihqU93mF4cF1Yz8D4ThlbaU3+6c;OX0tV73yiIGd/0FZvagCyw=="
 ---
 

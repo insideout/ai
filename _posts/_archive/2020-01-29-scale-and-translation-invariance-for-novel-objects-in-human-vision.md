@@ -23,6 +23,6 @@ images:
     height: 419
     title: "Scale and translation-invariance for novel objects in human vision"
 
-secured: "EEX1s9+P/0CQgzgFfOIgbei58+chbD48VbajPy/k9JPjs83G/ek84Ntrn3MmLrdLONeFVLAte3SGXvCb+YU39RSvJA/g8PDGxNv06/tdsHxc3Bw7XoWGoY0LYn3xMIh682g1q2724X68uLBMS+/v7AmJT8qfzZD4WD1IfP4nnEcup9cEO1Wc+SwCghOrQW70NvZ3fCi8e1h2Uh8aEqC89JofBvsiV74vwTB30o4yoSCT7Q7y3h3rohUhd1YzsyKUQOYLJe7GY2GiYl40SkpuLx8nH/kUjkv15VdKTm4VaZzO/bDTpPaaTczrvtzSjmKd;+jlX+KrzCBEqux2IUVX9dg=="
+secured: "wQ9CCAulXRtJyq/WOAXtvbyVfhurYFGghFrNM5pWniewERhAD8wI7n2L1tfgQwoGbjFnGivQBqXBT7iHMrquLj+ZsABwvryHKqxLTtuY2xfNDgAWGVBJOgIg+KF2j9I/QWk2yxedrZHOiDhxNG/anOird/TZ0h0HEWI2v/GeRUT3xvu/vxr3azd4DoNohXontCTO9EzqAVF3oioHNSQm6LIcJIXyDntGXg0eyODEo21/u4pNuq2dhiczyEprwHyAMV36BrOqv0ttsd2je0DIruvG3BI65OGdOsi5CCDX5spNekUSNGdYvr/ciiHOQxV+;COiSBol0sOCWjJGR6voEBw=="
 ---
 

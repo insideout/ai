@@ -8,7 +8,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSFWN2AO19Q"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSFWN2AO19Q"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -30,6 +30,21 @@ images:
     title: "BRIEF-ABB Announces Partnership with AI Start-Up"
 
 related:
+  - title: "BRIEF-ABB Announces Partnership with AI Start-Up"
+    excerpt: "ANNOUNCED A PARTNERSHIP TO BRING AI-ENABLED ROBOTICS SOLUTIONS TO MARKET, STARTING WITH A FULLY AUTONOMOUS WAREHOUSE ORDER FULFILMENT SOLUTION * PARTNERSHIP BRINGS TOGETHER TWO COMPANIES WITH A SHARED VISION FOR ROBOTICS ENABLED BY AI Source text for Eikon: Further company coverage: (Berlin Speed Desk) Our Standards:The Thomson Reuters Trust ..."
+    publishedDateTime: 2020-02-26T19:24:00Z
+    webUrl: "https://uk.reuters.com/article/brief-abb-announces-partnership-with-ai/brief-abb-announces-partnership-with-ai-start-up-idUKFWN2AO19Q"
+    ampWebUrl: "https://uk.mobile.reuters.com/article/amp/idUKFWN2AO19Q"
+    cdnAmpWebUrl: "https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKFWN2AO19Q"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 89
+    images:
+      - url: "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png"
+        width: 1200
+        height: 630
   - title: "Fintech start-up Eligible announces Advisory Board"
     excerpt: "Eligible is a fintech start-up aiming to shake up the mortgage market with its smart AI retention solution, Retain, and has announced a new Advisory Board. Comprised of mortgage industry leaders, the Advisory Board will work with management to ensure that Eligible stays at the forefront of industry trends. Eligible says it is on a mission to ..."
     publishedDateTime: 2020-02-24T19:44:00Z

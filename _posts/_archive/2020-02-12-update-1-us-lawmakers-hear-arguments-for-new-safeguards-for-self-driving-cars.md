@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2020/02/11/reuters-america-update-1-u-s-law
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/02/11/reuters-america-update-1-u-s-lawmakers-hear-arguments-for-new-safeguards-for-self-driving-cars.html"
 type: article
 quality: 70
-heat: 100
+heat: 80
 published: true
 
 provider:
@@ -43,32 +43,6 @@ related:
       - url: "https://images.wsj.net/im-153483/social"
         width: 1280
         height: 640
-  - title: "Lawmakers, Trial Lawyers Clash Over Self-Driving Car Rules"
-    excerpt: "(TNS) — Lawmakers in the U.S. House on Tuesday took to task a trial lawyers' lobby group that helped kill a bill setting regulations for self-driving cars. The Washington-based American Association for Justice, which lobbies for trial lawyers who typically represent plaintiffs, had objected to a lack of concrete protections that would ensure ..."
-    publishedDateTime: 2020-02-12T18:09:00Z
-    webUrl: "https://www.govtech.com/transportation/Lawmakers-Trial-Lawyers-Clash-Over-Self-Driving-Car-Rules.html"
-    ampWebUrl: "https://www.govtech.com/transportation/Lawmakers-Trial-Lawyers-Clash-Over-Self-Driving-Car-Rules.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/transportation/Lawmakers-Trial-Lawyers-Clash-Over-Self-Driving-Car-Rules.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 44
-    images:
-      - url: "https://media2.govtech.com/images/shutterstock_1019141671.jpg"
-        width: 950
-        height: 629
-  - title: "Nuro Self-Driving Car's OK Sets Course For New Exemptions"
-    excerpt: "Law360 (February 11, 2020, 8:55 PM EST) -- Technology and automotive stakeholders are hailing the federal government's first-ever blessing of a self-driving vehicle that will deliver food and packages, but experts say passenger-carrying autonomous vehicles ..."
-    publishedDateTime: 2020-02-12T01:57:00Z
-    webUrl: "https://www.law360.com/articles/1242352/nuro-self-driving-car-s-ok-sets-course-for-new-exemptions"
-    ampWebUrl: "https://www.law360.com/amp/articles/1242352"
-    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1242352"
-    type: article
-    provider:
-      name: Law360
-      domain: law360.com
-    quality: 24
 
 secured: "QctpAl2/qIbaA8GcKI3H6j8rGnO9CBkmirQiGdka7T7dH7cv29ouhx8L8Jsz+zia7+cTHbfXZ+ww/ZGjbFDIVN0O+Yp4LpmXNEABRvfarzbftHJH0Brc3ZrbaMqkJ/eJmapyKMA0Ug0Ni0683nAETKYJ9ig8LZY6Y3jb9lUngb7gNFfubedN31Z1CL7S9l6BBQQPuoFZUA/PK+Tjvyk/vHvSTh13QVpRZYoxoy99iS8uCnkH+ABbAp70lw61hLS25NiA06N8wO+seix+sejqhL3Ix8EdJmf/Ynk1SvyYTETZAhDYiJHbu6yvd9Gf/pdZ;Lm19f+lseyLxJOTYoO4b9A=="
 ---

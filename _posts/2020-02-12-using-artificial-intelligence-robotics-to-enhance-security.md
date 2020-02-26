@@ -19,16 +19,18 @@ topics:
 
 related:
   - title: "KC companies could soon be using security robot with artificial intelligence"
-    excerpt: "From Silicon Valley to Kansas and Missouri, local companies could soon be using a security robot with artificial intelligence to protect people and products."
-    publishedDateTime: 2020-02-19T04:35:00Z
-    webUrl: "https://www.kctv5.com/kc-companies-could-soon-be-using-security-robot-with-artificial/video_745fdfa2-8123-578b-8e5a-b92926bfd0ce.html"
-    ampWebUrl: "https://www.kctv5.com/kc-companies-could-soon-be-using-security-robot-with-artificial/video_745fdfa2-8123-578b-8e5a-b92926bfd0ce.amp.html"
-    cdnAmpWebUrl: "https://www-kctv5-com.cdn.ampproject.org/c/s/www.kctv5.com/kc-companies-could-soon-be-using-security-robot-with-artificial/video_745fdfa2-8123-578b-8e5a-b92926bfd0ce.amp.html"
+    excerpt: "It's able to patrol businesses and a local company hopes businesses in Kansas and Missouri will start using it. Kenton Brothers Inc. is already ... “Simon,” and other Cobalt Robots are autonomous with artificial intelligence designed to detect safety hazards and intruders. “It combines human intellect with superhuman sensors ..."
+    publishedDateTime: 2020-02-19T02:36:00Z
+    webUrl: "https://www.kctv5.com/news/local_news/kc-companies-could-soon-be-using-security-robot-with-artificial/article_a85c11fe-52c0-11ea-bf6f-872f9cacdda8.html"
     type: article
     provider:
       name: KCTV News
       domain: kctv5.com
     quality: 51
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/kctv5.com/content/tncms/assets/v3/editorial/7/45/745fdfa2-8123-578b-8e5a-b92926bfd0ce/5e4cb893dc5d8.image.jpg?resize=1120%2C630"
+        width: 1120
+        height: 630
 
 secured: "ozwpuHWnPxSSrw2/1fl+Zh205m0VJb7xAVzlAlWrQaPGBNlL3M8jAc5hRZ8VjrMmzQ0lfhJ5pa4pzD5U1cWBeP6voGSDEfQ7hBhCfeehAf8dzetWvKROPaluMEhdG8yWxi7Rgqr/rQNKuEYoKR3sXX7bguLVjSqPQfR06WxhgGVMu8Nejd/DjDrOWbOFe3w247FL64zbJtAUvawlgFOZNsGsQvHTax3Fu8A1l7g2qblrJ3rfXkI+Nglp2AWjtqa/GmswleH1voTQaMGbeFtG/S3su6OwkRkjlBE8ocxF3EdOhl4zP/9jmYcA3qfK0RqN;ZAel0bOwKBTyvAPYzK4A1Q=="
 ---
