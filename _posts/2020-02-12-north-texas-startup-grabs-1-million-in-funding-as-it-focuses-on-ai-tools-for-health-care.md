@@ -41,21 +41,6 @@ related:
       - url: "https://assets.entrepreneur.com/content/3x2/2000/20200211171501-Tribal-DarkCardMock-Simple.png?width=600&crop=16:9"
         width: 600
         height: 338
-  - title: "AI document engineering startup Docugami raises $10M seed round in unusually large early stage deal"
-    excerpt: "The startup’s document engineering technology lets companies create documents such as contracts and reports that can then be analyzed in the aggregate as if the contents were stored in a structured database. Docugami says it’s creating new AI techniques using machine learning, computer vision, natural language processing and unique XML ..."
-    publishedDateTime: 2020-02-11T15:02:00Z
-    webUrl: "https://www.geekwire.com/2020/ai-document-engineering-startup-docugami-raises-10m-seed-round-unusually-large-early-stage-deal/"
-    ampWebUrl: "https://www.geekwire.com/2020/ai-document-engineering-startup-docugami-raises-10m-seed-round-unusually-large-early-stage-deal/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/ai-document-engineering-startup-docugami-raises-10m-seed-round-unusually-large-early-stage-deal/amp/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 73
-    images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2020/02/Docugami-Board-of-Directors-February-2020-1-630x443.jpg"
-        width: 630
-        height: 443
   - title: "Fintech Firm Ramp, which Offers Corporate Credit Cards, Secures $25 Million in Funding"
     excerpt: "Ramp’s team has a diverse background from companies in the Fintech sector, such as Affirm’s former vice president of engineering, executives from Plaid and Atrium, and product engineers from Facebook’s AI research team. Ramp’s team members also come from the Google research division, Capital One, Goldman Sachs, Apple, and Lyft."
     publishedDateTime: 2020-02-14T04:46:00Z
@@ -71,19 +56,6 @@ related:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/07/Credit-Card-600x578.jpg"
         width: 600
         height: 578
-  - title: "Docugami Announces $10 Million Seed Funding Round Led by SignalFire"
-    excerpt: "former engineering manager for Microsoft Office and Azure. The Docugami science team is led by Luis Martí, an international expert in machine learning and evolutionary computing, and Steve DeRose, a renowned expert in natural language processing, computational linguistics, and standards related to document processing. The company’s business ..."
-    publishedDateTime: 2020-02-11T15:04:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200211005446/en/Docugami-Announces-10-Million-Seed-Funding-Led"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 24
-    images:
-      - url: "https://mms.businesswire.com/media/20200211005446/en/772660/23/Docugami_Team_Offsite_February_2020.jpg"
-        width: 1200
-        height: 627
 
 secured: "KbVMZuMl+eI0B3SoE1zG5djwKEfGKauC8TPVnF79JXN95ve0vZ4jH1mZI5pOmlM+J+zCeXII5WHMuzlThW/Xbitsjx3cZG3TcutNGVvl+y3xx5E3e1dh5x0ANCYBGPHGRKYJcGrkOodiDRLzee1uq26jgCWWWLtim0X8F0NhVDaMqF6/0GpoP543s8Whz6HRaNAzARdAQUMtn33ecBgcrr62D15CXy8BMim4c4uOrlKulV5lC0RL/yh8sAn2LLe/tpFTRNEJRC93qJqxotA/15jZeRzXO0HDGME0snFQfIMgXUssGfFdsP6Tw4BSxzQvQ0TDEgwVWzVBsrSC3ticp/aZPPdMSNmYoBllLyL3lpnSFmjjWRJOCmfuU1x60hxBpJ9BBoyPZV6d6hw2F0hv1k9Qq1HkRVjEM76vY01tuH9gmMBkT4vJkiakBoPTaiLzkllvvIQB8C5f+iaYkYcxOb/ozN5Qqdtl5jqYeQm8qPU=;HD5vl3BxJ04RV1hHV3rI6w=="
 ---

@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Privacy rights groups call for ‘day of action’ to ban facial recognition at all schools"
-excerpt: "Fight for the Future (FFTF) and Students for Sensible Drug Policy are organizing what they call a ‘National Day of Action to Ban Facial Recognition from College Campuses’ on March 2. FFTF and other groups have also called for and have actively been lobbying for a total federal ban on facial recognition technology, although there has been ..."
-publishedDateTime: 2020-02-19T18:13:00Z
-webUrl: "https://www.biometricupdate.com/202002/privacy-rights-groups-call-for-day-of-action-to-ban-facial-recognition-at-all-schools"
+title: "Soon, you may no longer be able to avoid facial recognition by wearing a mask"
+excerpt: "The outbreak of COVID-19 has led to people wearing protective masks as a precautionary measure. This has further led to smartphone users experiencing high failure rates in unlocking their devices using facial recognition techniques like Face ID. A solution to this issue may now be on the horizon. Leading Artificial Intelligence (AI) and facial ..."
+publishedDateTime: 2020-02-26T07:03:00Z
+webUrl: "https://www.moneycontrol.com/news/technology/soon-you-may-no-longer-be-able-to-avoid-facial-recognition-by-wearing-a-mask-4978411.html"
+ampWebUrl: "https://www.moneycontrol.com/news/technology/soon-you-may-no-longer-be-able-to-avoid-facial-recognition-by-wearing-a-mask-4978411.html/amp"
+cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/soon-you-may-no-longer-be-able-to-avoid-facial-recognition-by-wearing-a-mask-4978411.html/amp"
 type: article
-quality: 31
+quality: 56
 heat: -1
 published: false
 
 provider:
-  name: Biometric Companies
-  domain: biometricupdate.com
+  name: moneycontrol.com
+  domain: moneycontrol.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2017/07/25183012/Chincotech-facial-recognition.png"
-    width: 623
-    height: 432
-    title: "Privacy rights groups call for ‘day of action’ to ban facial recognition at all schools"
+  - url: "https://static-news.moneycontrol.com/static-mcnews/2020/02/Samsung-16GB-LPDDR5-RAM-378x213.jpg"
+    width: 378
+    height: 213
+    title: "Soon, you may no longer be able to avoid facial recognition by wearing a mask"
 
 related:
   - title: "UCLA Abandons Plans to Use Facial Recognition After Backlash"
@@ -243,21 +245,6 @@ related:
       - url: "https://www.pe.com/wp-content/uploads/2020/02/IDB-L-FACEID-0215-16x9-1-1.jpg?w=480&h=270"
         width: 480
         height: 270
-  - title: "Soon, you may no longer be able to avoid facial recognition by wearing a mask"
-    excerpt: "The outbreak of COVID-19 has led to people wearing protective masks as a precautionary measure. This has further led to smartphone users experiencing high failure rates in unlocking their devices using facial recognition techniques like Face ID. A solution to this issue may now be on the horizon. Leading Artificial Intelligence (AI) and facial ..."
-    publishedDateTime: 2020-02-26T07:03:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/soon-you-may-no-longer-be-able-to-avoid-facial-recognition-by-wearing-a-mask-4978411.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/technology/soon-you-may-no-longer-be-able-to-avoid-facial-recognition-by-wearing-a-mask-4978411.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/soon-you-may-no-longer-be-able-to-avoid-facial-recognition-by-wearing-a-mask-4978411.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 56
-    images:
-      - url: "https://static-news.moneycontrol.com/static-mcnews/2020/02/Samsung-16GB-LPDDR5-RAM-378x213.jpg"
-        width: 378
-        height: 213
   - title: "Merkley bill aims to avert federal abuse of facial recognition"
     excerpt: "WASHINGTON (KTVZ) – Sens. Jeff Merkley (D-OR) and Cory Booker (D-NJ) introduced legislation Wednesday they said is aimed at protecting the privacy of consumers from rapidly advancing facial recognition technology and data collection practices that heighten the risk of over-surveillance and over-policing, especially in communities already ..."
     publishedDateTime: 2020-02-14T07:25:00Z
@@ -520,6 +507,19 @@ related:
       - url: "https://www.rawstory.com/wp-content/uploads/2019/07/Facial-Recognition-Technology.jpg"
         width: 625
         height: 305
+  - title: "Privacy rights groups call for ‘day of action’ to ban facial recognition at all schools"
+    excerpt: "Fight for the Future (FFTF) and Students for Sensible Drug Policy are organizing what they call a ‘National Day of Action to Ban Facial Recognition from College Campuses’ on March 2. FFTF and other groups have also called for and have actively been lobbying for a total federal ban on facial recognition technology, although there has been ..."
+    publishedDateTime: 2020-02-19T18:13:00Z
+    webUrl: "https://www.biometricupdate.com/202002/privacy-rights-groups-call-for-day-of-action-to-ban-facial-recognition-at-all-schools"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 31
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2017/07/25183012/Chincotech-facial-recognition.png"
+        width: 623
+        height: 432
   - title: "Facial recognition at protests: Delhi Police says they aren’t using social media photos to screen crowds"
     excerpt: "These responses came in a reply to a right to information request filed by Mint. Just to put things into perspective, Delhi Police had started using facial recognition software to screen crowds at protests in the city recently. This software was acquired in 2017 to track missing children and persons. The software Delhi Police is using has been ..."
     publishedDateTime: 2020-02-22T11:45:00Z
@@ -530,6 +530,6 @@ related:
       domain: hindustantimes.com
     quality: 2
 
-secured: "I3m+TY7lOSGBNAv0nSpBsSzf6C154fnV0diCnuTODvLeyOziMOVpWGIq6zQF2m/lUBOc4fw2wN0Y9o9qEtsypJ+j4PfhnPNEAFW59aR+nyUIFVsx33mwxusR6x+Fe+Sr5KFuYozTOYG0XbBl3YWNzJT/2xlxkdJVRiIiBQ0BVg6bB/FrxrxwZGD1bFp3l6D3YRSXquBPCAmC2sDRQCdPxL5Eu70DeW+nks/06Pyyi72/Y42HFrIj6jHv9lbUdilY4MyDz3cq1j+ejvah1WlpX3D+VkRSFwwpWe1Jm/kp2O4loqy+F5Ws71yxY48r+J+iqHWWEBdytHPHKL6Sfk8h6oCVLgxYhRoNJ23VwPQSfHo7TPztlt1wGx3O7Y5W3EarXL3CCRKX2BGWxHF2uig4auBM3KtjKu/ydFrulXEYWjqp9lKcpX4ApmJtbJZdzljyH5dcFjTo/nnGaEODjk0rpegLnUtMmZe/xo6ytixDye0=;pvJPf53oAa8VSqNjsfxB1g=="
+secured: "SB3zD86PtMW0iTQ95bSm2i17Q1QEuMZHHgp3Jg89GwxxdasZv/dDYaehodnqY6yJD8jF/HD38qioleDChq5gQhf2kC1NQY6TuNZ6OtxCkXOwEDlx+yCDvQPYQR1pEscd4MK+139uV5HQGJ1B8415es2CPKZNafFST5pwzcQ0LDzgSZjl3HnYFKY550fm7qgpWONLX47lVaWYoVJL87fVvkFMn2nPeMIRZqnTghrkaeVfwXQ6qWLnxnyEhkoIhEb+zZMbi0KedVYnS9lJGolCqmKcQCg9Y47IhQF1SKKLpcXn/I3HkvcxcmeU33ut9KF0;93mHsOcaR4ytpgqBOAluhg=="
 ---
 

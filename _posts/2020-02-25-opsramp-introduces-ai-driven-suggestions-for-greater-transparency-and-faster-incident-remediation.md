@@ -1,39 +1,56 @@
 ---
 category: news
 title: "OpsRamp Introduces AI-Driven Suggestions for Greater Transparency and Faster Incident Remediation"
-excerpt: "In addition to AWS cloud topology maps, OpsRamp now offers automated topology discovery and mapping for Azure and GCP. IT teams can apply cloud topology maps to analyze the impact of changes in their multi-cloud environments. Cloud topology is also applied in OpsQ’s event correlation engine to increase the accuracy of machine learning models."
-publishedDateTime: 2020-02-25T15:48:00Z
-webUrl: "https://www.tmcnet.com/usubmit/-opsramp-introduces-ai-driven-suggestions-greater-transparency-faster-/2020/02/25/9103398.htm"
+excerpt: "The OpsRamp Winter 2020 Release also introduces 19 new cloud monitoring integrations for Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP), along with dynamic topology maps for Azure and GCP. Highlights of the Winter 2020 Release include: AIOps: OpsQ is OpsRamp's intelligent event management, alert correlation ..."
+publishedDateTime: 2020-02-25T08:00:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/opsramp-introduces-ai-driven-suggestions-for-greater-transparency-and-faster-incident-remediation-1028934454"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/OpsRamp-Introduces-AI-Driven-Suggestions-for-Greater-Transparency-and-Faster-Incident-Remediation-1028934454"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/OpsRamp-Introduces-AI-Driven-Suggestions-for-Greater-Transparency-and-Faster-Incident-Remediation-1028934454"
 type: article
-quality: 26
-heat: 26
-published: false
+quality: 56
+heat: 76
+published: true
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
   - Microsoft AI
 
-images:
-  - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
-    width: 252
-    height: 335
-    title: "OpsRamp Introduces AI-Driven Suggestions for Greater Transparency and Faster Incident Remediation"
-
 related:
-  - title: "Plotly Introduces Next Evolution of Dash Enterprise with Focus on Kubernetes and High Availability Environments"
-    excerpt: "Leading Enterprise Platform for Productizing Analytic Applications built in Python and R Expands Support for Use Across Clusters, Adds New Starter App Set to Speed Exploration and Delivery"
-    publishedDateTime: 2020-02-25T14:00:00Z
-    webUrl: "https://www.globenewswire.com/news-release/2020/02/25/1990111/0/en/Plotly-Introduces-Next-Evolution-of-Dash-Enterprise-with-Focus-on-Kubernetes-and-High-Availability-Environments.html"
+  - title: "Agiloft introduces AI Engine for advanced contract automation on no-code platform"
+    excerpt: "Prebuilt machine learning models also enable users to implement their own custom AI tools with existing data. Additionally, the open AI Engine features an integration template to bring in machine learning models from Amazon SageMaker and Google TensorFlow to build entirely custom AI tools on Agiloft’s no-code platform. Advanced translations ..."
+    publishedDateTime: 2020-02-25T19:35:00Z
+    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=139412"
     type: article
     provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 0
+      name: KMWorld Magazine
+      domain: kmworld.com
+    quality: 36
+    images:
+      - url: "https://www.kmworld.com/images/subscribe_magazines_km.png"
+        width: 772
+        height: 594
+  - title: "CyberX Announces Integration with Microsoft Azure Security Center for IoT, Joins Microsoft Intelligent Security Association"
+    excerpt: "According to Michal Braverman-Blumenstyk, CTO and GM, Cloud and AI Security Division at Microsoft Corp.: “CyberX’s IoT security platform and integration with the Microsoft Azure Security Center for IoT enables customers to go further and faster with IoT innovations that drive new revenue streams and operational efficiencies — without comp ..."
+    publishedDateTime: 2020-02-20T18:16:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200220005507/en/CyberX-Announces-Integration-Microsoft-Azure-Security-Center"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 28
+    images:
+      - url: "https://mms.businesswire.com/media/20200220005507/en/774439/23/cyberx.jpg"
+        width: 1200
+        height: 627
 
-secured: "GNMf44Cm1Na8/HafNwkcdKl3QzOQCEsLkt0UvQ4EAbwPRk0xJgkCRUfO3JTy3qUhcqQ9756aY+Wlnj4pKF2RvOfvPWoZ6gpXJIiwQVM9XXjrS+XlHEhrv16DWDqa3VB+ZoMQ4c4KUMkQ4QaUTZM31lfw9dnY1XgBuebEJjCjZ1lD4zFAjA1J2Y4jsBvRjm+l9bPtN1Bw2lxJDkUDevbrBEEgpSR5QFd45r1FcA8Fb/sAJ1Mssy+Lo7FbwRQ/k7LciSKlHZPeM9+Ma4B+zwZPuSezGjqbQnvSB1KD+sJFPo7QSqO82s+dalW51PKTTIF3;9H0Urxb3KYm5QoYQMfEpCQ=="
+secured: "o8AEcsaWYAoNenJAE6OhP+4id9RCL4KK7g5Vlbg12jPGO96q5kXQckFRrwL+A8cW7fXQPj3rsAkYv3eZ4bzhWb+6z87ms6mCpyfShK5GyJuZzVsoQAEIONx9OTAXPVGUzmONeylazEAvM7UPBFXyrQx7Z6ydA81R7jBl7+u5cT9F0ow4TS/llto4zefkE985tMP1Ar9pFwdcexUKmccWWeCfNMJLmR9V2ws12PJpuYI+sWM2qTIeYAwaHht6Ikuu6szll0iAfoXkiuAPvDRMbjyw4su5fdW/WtZCAXys6+oQ4XWDjxrs6EoPg+B3Fma8;6WQcWfY3Sv5bZ200SOdHeg=="
 ---
 

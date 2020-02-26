@@ -41,21 +41,6 @@ related:
       - url: "https://assets.entrepreneur.com/content/3x2/2000/20200211171501-Tribal-DarkCardMock-Simple.png?width=600&crop=16:9"
         width: 600
         height: 338
-  - title: "AI document engineering startup Docugami raises $10M seed round in unusually large early stage deal"
-    excerpt: "The startup’s document engineering technology lets companies create documents such as contracts and reports that can then be analyzed in the aggregate as if the contents were stored in a structured database. Docugami says it’s creating new AI techniques using machine learning, computer vision, natural language processing and unique XML ..."
-    publishedDateTime: 2020-02-11T15:02:00Z
-    webUrl: "https://www.geekwire.com/2020/ai-document-engineering-startup-docugami-raises-10m-seed-round-unusually-large-early-stage-deal/"
-    ampWebUrl: "https://www.geekwire.com/2020/ai-document-engineering-startup-docugami-raises-10m-seed-round-unusually-large-early-stage-deal/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/ai-document-engineering-startup-docugami-raises-10m-seed-round-unusually-large-early-stage-deal/amp/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 73
-    images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2020/02/Docugami-Board-of-Directors-February-2020-1-630x443.jpg"
-        width: 630
-        height: 443
   - title: "North Texas startup grabs $1 million in funding as it focuses on AI tools for health care"
     excerpt: "DocSynk is kicking off the year with new bridge funding. The North Texas startup focused on health care received the package from private equity firm Colosseum Group in Chicago, according to a news release."
     publishedDateTime: 2020-02-12T19:54:00Z
@@ -71,19 +56,6 @@ related:
       - url: "https://media.bizj.us/view/img/725821/fundingstartupistockphoto*600xx3454-2303-0-182.jpg"
         width: 600
         height: 400
-  - title: "Docugami Announces $10 Million Seed Funding Round Led by SignalFire"
-    excerpt: "former engineering manager for Microsoft Office and Azure. The Docugami science team is led by Luis Martí, an international expert in machine learning and evolutionary computing, and Steve DeRose, a renowned expert in natural language processing, computational linguistics, and standards related to document processing. The company’s business ..."
-    publishedDateTime: 2020-02-11T15:04:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200211005446/en/Docugami-Announces-10-Million-Seed-Funding-Led"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 24
-    images:
-      - url: "https://mms.businesswire.com/media/20200211005446/en/772660/23/Docugami_Team_Offsite_February_2020.jpg"
-        width: 1200
-        height: 627
 
 secured: "A5eaEBDVi+wdvvfU0viXzbFWxZisj+QFgdhQkf5Z//AMh7rblJ+1x03nSxJhqcoW+HzEgJ+mkI/IqB/GBvUCov5rvS7SoKE79PDI4Kg7YsZVjA0AwucdtNyV1TYB2IiW+q629sVagDQy1J+2NTziGGGrB7AR/NRFI5nENADS1Kq9uesTZO+ekY2L7FPJ66vSNsxCPLOtHbX9R1JYvwr2FuqkUTMumCH54lu/W1f0tGfbLQef6rv8+dyhVZvf3YJG+eD7yKdNeArfIu6eKaOGiAD47PnTSJo2RWG2PxUz1EAw+okaq3Cf5S3D3xjVJZUYnnmhJXvTYGzQaq8GZ67mlXCQ9en3iEnhHACImiFGXITjvHc1NORL3gDj5Lp0837YI5L6r5xgbATyVZrr7C0dphPsomGROGZIzwE/SS4dOoyef9gPKYdabZs0+EviLcWgkdwVsqFWg/L+G1m92GdfEfKoIv7mh/N58rA17FxOlFM=;OFaKNLmg0JBpNcyd+ce8rQ=="
 ---

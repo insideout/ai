@@ -23,6 +23,19 @@ images:
     title: "ECG: Artificial Intelligence project to end power theft – Bawumia"
 
 related:
+  - title: "ECG to deploy artificial intelligence in fighting power theft – Bawumia"
+    excerpt: "The Electricity Company of Ghana (ECG) is readying to rollout an Artificial Intelligence (AI) system to fight power theft in the country says the vice President, Dr Mahamudu Bawumia. Speaking at the launch the ECG Mobile Application (ECG POWER) in Accra, the vice President said revenue collection from supplied electricity to various parts of ..."
+    publishedDateTime: 2020-02-18T13:38:00Z
+    webUrl: "https://www.ghanaweb.com/GhanaHomePage/business/ECG-to-deploy-artificial-intelligence-in-fighting-power-theft-Bawumia-870013"
+    type: article
+    provider:
+      name: Ghanaweb.com
+      domain: ghanaweb.com
+    quality: 37
+    images:
+      - url: "https://cdn.ghanaweb.com/imagelib/pics/140/14054751.jpg"
+        width: 600
+        height: 350
   - title: "ECG to deploy artificial intelligence to tackle power theft"
     excerpt: "Vice President Dr Mahamudu Bawumia has hinted of plans by the Electricity Company of Ghana (ECG) to employ the use of Artificial Intelligence and Remote Sensors across its systems to fight the canker of power theft. Speaking at the launch of a mobile application for ECG customers on Tuesday, Vice President Bawumia indicated that difficulties in ..."
     publishedDateTime: 2020-02-19T00:44:00Z

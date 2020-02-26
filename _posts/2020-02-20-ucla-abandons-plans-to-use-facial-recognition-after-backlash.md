@@ -242,6 +242,21 @@ related:
       - url: "https://www.pe.com/wp-content/uploads/2020/02/IDB-L-FACEID-0215-16x9-1-1.jpg?w=480&h=270"
         width: 480
         height: 270
+  - title: "Soon, you may no longer be able to avoid facial recognition by wearing a mask"
+    excerpt: "The outbreak of COVID-19 has led to people wearing protective masks as a precautionary measure. This has further led to smartphone users experiencing high failure rates in unlocking their devices using facial recognition techniques like Face ID. A solution to this issue may now be on the horizon. Leading Artificial Intelligence (AI) and facial ..."
+    publishedDateTime: 2020-02-26T07:03:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/soon-you-may-no-longer-be-able-to-avoid-facial-recognition-by-wearing-a-mask-4978411.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/soon-you-may-no-longer-be-able-to-avoid-facial-recognition-by-wearing-a-mask-4978411.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/soon-you-may-no-longer-be-able-to-avoid-facial-recognition-by-wearing-a-mask-4978411.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 56
+    images:
+      - url: "https://static-news.moneycontrol.com/static-mcnews/2020/02/Samsung-16GB-LPDDR5-RAM-378x213.jpg"
+        width: 378
+        height: 213
   - title: "Merkley bill aims to avert federal abuse of facial recognition"
     excerpt: "WASHINGTON (KTVZ) – Sens. Jeff Merkley (D-OR) and Cory Booker (D-NJ) introduced legislation Wednesday they said is aimed at protecting the privacy of consumers from rapidly advancing facial recognition technology and data collection practices that heighten the risk of over-surveillance and over-policing, especially in communities already ..."
     publishedDateTime: 2020-02-14T07:25:00Z

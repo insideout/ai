@@ -84,19 +84,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/02/11/PDTN/bfd3cbac-2c60-49f8-bec8-325637799aec-dtncent02-796k6oa3zeracqe94qt_original.jpg?auto=webp&crop=3999,2250,x0,y203&format=pjpg&width=1200"
         width: 1200
         height: 675
-  - title: "How Waterloo researchers are giving self-driving cars 'Canadian vision"
-    excerpt: "A team of engineers at the University of Waterloo has made it its mission to Canadianize self-driving vehicles. It's the first group in the world to create a data set for winter driving. In other words, it has compiled 10,000 video frames and 56,000 images to better teach self-driving vehicles how to navigate snow and ice. \"We're basically ..."
-    publishedDateTime: 2020-02-11T15:08:00Z
-    webUrl: "https://www.cbc.ca/news/canada/kitchener-waterloo/self-driving-car-university-waterloo-winter-driving-1.5459331"
-    type: article
-    provider:
-      name: CBC.ca
-      domain: www.cbc.ca
-    quality: 24
-    images:
-      - url: "https://i.cbc.ca/1.5459338.1581429585!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/autonomoose.JPG"
-        width: 620
-        height: 349
   - title: "Nuro Self-Driving Car's OK Sets Course For New Exemptions"
     excerpt: "Law360 (February 11, 2020, 8:55 PM EST) -- Technology and automotive stakeholders are hailing the federal government's first-ever blessing of a self-driving vehicle that will deliver food and packages, but experts say passenger-carrying autonomous vehicles ..."
     publishedDateTime: 2020-02-12T01:57:00Z

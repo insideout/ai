@@ -63,15 +63,6 @@ related:
       name: McKnight's Long-Term Care News
       domain: mcknights.com
     quality: 4
-  - title: "GigaSpaces Launches GigaSpaces Cloud Managed Service on Google Cloud Platform"
-    excerpt: "With GigaSpaces, enterprises can operationalize machine learning and transactional processing to gain real-time insights ... are leveraged by hundreds of Tier-1 and Fortune-listed organizations worldwide across financial services, retail, transportation, telecom, healthcare, and more. GigaSpaces offices are located in the US, Europe and Asia."
-    publishedDateTime: 2020-02-11T14:38:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-gigaspaces-launches-gigaspaces-cloud-managed-service-google-cloud-/2020/02/11/9095876.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 1
 
 secured: "A6EqzNgWzn36m7Ciin0bdKXFCiKgNEH+1mtyU4iWBFd5poQoHjlXCQzqGWaxnK4wOaduF2hMU+jpgEkcXfZLmXnyrGMzz2Mc/UbDtU1zarDgoQFfZswLmtKRUBox7qHJIW3I+rpu3WWMeS5SHKGeTVBfZQIej5qLgvlFP+bYjhWWpTGVxWgy/glVSwtSIZ1/ygBGshkFub7uDvxc8coe8kAFo1NBHqTAMjs6nCnPHAt2tdFossu34ZJ4NVJXth43q/d1UF5PT2MTK+KLqhUNI1gK0B4cbq5Q3Fa22oFysR2Iqv33NcGXfsOW+J9eB7F68I8VvXmvRpIyfT451Mi4E/4SVyEHaGDWmWxx8N/q4QC8Ooa0TJBd4yo6Cv00BaDjQ4R8pwikpUxOY/IrJY7cm9kjJn81uzf0OCNbqGLCvh45KNjTE/F0uQglkmN3j3mh+R89AngItWXhGbgwIfQCo8NNBO7DIZAyk6nLPga3qxo=;8+PsR2FcUWeD9iOkPsa3pg=="
 ---

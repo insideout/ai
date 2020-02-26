@@ -39,19 +39,6 @@ related:
       - url: "https://compote.slate.com/images/98a4ad17-4082-4a99-a71e-75514dd0625f.jpeg?width=780&height=520&rect=780x520&offset=0x0"
         width: 780
         height: 520
-  - title: "FlightHub and JustFly on Facial Recognition Technology, Travel and Privacy"
-    excerpt: "For years facial recognition technology only existed in science books, television and cinema. The idea was brilliant. However, real-world technology hadn’t yet caught up with the concept. That’s changed in recent years. Facial recognition software is no longer a vague notion. It’s reality. To experience it firsthand, look no further than ..."
-    publishedDateTime: 2020-02-11T14:11:00Z
-    webUrl: "https://cloudtweaks.com/2020/02/facial-recognition-technology-travel-privacy/"
-    type: article
-    provider:
-      name: Cloud
-      domain: cloudtweaks.com
-    quality: 37
-    images:
-      - url: "https://cloudtweaks.com/wp-content/uploads/2020/02/Kyle-Bernard-author1-compressor.png"
-        width: 500
-        height: 470
 
 secured: "IKWbhoLGtenuEVKs92uu43yO94py+tRBX3JnDj7eQA5VnWVaswe523vS4KvSaVfVOvejJi2dpF5dODBDuDTSADYYTL0x8H2XAs/zO8QAl6JK1Tr/n1UbhrAVYfqv2uIclFqIOG4GNTz+M0lVQgebZc0n9cMBiyJdnIk7vpQq5vv+dr5P7LVmV6v5Re+kgpzuPcws8hUeIm2k7VLhikGoiEj90xzEOzUfRa9JWNYcR7f+TlcK0RMgD3T/8qeKsAoqXfGur6k7Os3hufkxL8HT/XgGjpOaOJKeYNykLVQQ8prGz4yLhip8ACsVYtPCIq4hzcfcPOB8YYlIUMFX6V4zdcW3+mAWk/Yqhv6ew2YZ6qoGuh4xDxjJNydz3MF4wU1SmIiGtQ3Xl8sHl6UrBBN09/nHa/xVWP3Oxj4UJ5yZegi1DnVS1DoeLlaxd/sDzJNuveeL61YvzSMreUHr53FJ/4YIpW4ItviQWUESRdqBilA=;/XiHqkx0l8lxZUcK9xiL8w=="
 ---

@@ -27,6 +27,6 @@ images:
     height: 512
     title: "TensorFlow Lite on Android"
 
-secured: "uWVC/DjXYDYObbmxMAP/cwA/rKPm5t1QIlg+z85u+Gx0e8M8QH3wzxL+PJ4VxTb/hWOgxPrryRvkaNzVGWUgxaiXq/RYId9FkKKaUrtgi2Ov3qIXJFwfAvKQixsB7E3vhuer4vGGyBygufNw6xmAPZ4FAi8xo4KeK3ZN1A8bpafos44e8EVtsgFZ++g2EoWQTLg+nb9T1UAu4OzAULDFv9gTGRmWItfNyIUL35odhM+s6UJgDU5mLhGHkCq+iDG/4IvslUgagNRMoi24lwTdZhNmcEqF4Cvmy78MRDJL2xLQs02jHhIg9d2+EOrHMVTB;I69Cd1n5kdOG/G09k/YoNQ=="
+secured: "/hGp0YqOyW/iMSL+FI4+c6StnvW7ag4g+2AZZYk3k8s/l3aw6WBCymLde+nttIx95dxCMAKhEO2e7N34EBrpz5i8sncRDVk6S1a5jvsimsbIdRr2LGqC77AHKl2baTFdwX8SJLVWYp9QI+6nARTLBHz+3212YpP3f3a0vHyeB9UZYGm4XqTciZ/k/4kvnKNVp3Lcr6OI+ghLJHfRRLroel1TrE7BpGHoDFmw+Q5IUEcUtCSoAH4K3O9uvRCSAn0+Sr5ROxDwTN1+HZ0adIoJOfix6rJzSX+on+gi2EsL5hjdGd/nT19vWx/k0wn1xEIt;pNHQ6zgB6+33eL3z2z3eig=="
 ---
 

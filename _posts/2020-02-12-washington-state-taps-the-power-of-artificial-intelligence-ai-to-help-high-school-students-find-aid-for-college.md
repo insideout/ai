@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-12T01:02:00Z
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/washington-state-taps-the-power-of-artificial-intelligence-ai-to/article_8df95b8e-14fe-58ed-b6ce-26ea504a08c1.html"
 type: article
 quality: 31
-heat: -1
+heat: 31
 published: false
 
 provider:
@@ -21,23 +21,6 @@ images:
     width: 379
     height: 400
     title: "Washington State Taps the Power of Artificial Intelligence (AI) to Help High School Students Find Aid for College"
-
-related:
-  - title: "AI-powered ‘Otterbot’ chatbot helps students navigate choppy waters of financial aid applications"
-    excerpt: "Otterbot is a free, AI-powered texting service that can help high school seniors apply for financial aid that covers tuition and fees for college and other training. Last year, Washington ranked 48th among U.S. states for the percent of students who completed federal financial aid applications or FAFSA, a standardized form used for awarding ..."
-    publishedDateTime: 2020-02-11T14:13:00Z
-    webUrl: "https://www.geekwire.com/2020/ai-powered-otterbot-chatbot-helps-students-navigate-choppy-waters-financial-aid-applications/"
-    ampWebUrl: "https://www.geekwire.com/2020/ai-powered-otterbot-chatbot-helps-students-navigate-choppy-waters-financial-aid-applications/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/ai-powered-otterbot-chatbot-helps-students-navigate-choppy-waters-financial-aid-applications/amp/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 74
-    images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2019/04/20190330_155633-e1556638491703-630x407.jpg"
-        width: 630
-        height: 407
 
 secured: "GQ8q/OhsAdKSWrbYPdjpUoIFFniPiMZlCRKYq5FipYqkijiKkuJSuf9OzxI337CvAiQb9ZkoXPTmyRdXtEvtz/OB26fe2PM/8sPPnIA4C5QUqjB9lFgGZfroZn4RzQZrCpuuQ7LUBtRrH8h+NFW7QyTnTAErBxHUxroPhMb1oQQhlDtlYV+UpHgMbBEv8ZTRaPMPCczAlj3tmL+OlQfMpaW688whAVp7PY8Z2gGvDlXJTrPGihNjEKSD0rf4cWG+cDazQe5iY7jVWSFvOihCRCljjuFp7ldj0qIFAhQibiOqQXF7v8ZqgvqTebBLcOh3;bnk2matEqsYbQkChEsVLFw=="
 ---

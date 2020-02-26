@@ -1,13 +1,15 @@
 ---
 category: news
 title: "5 reasons to choose PyTorch for deep learning"
-excerpt: "But why should you choose to use PyTorch instead of other frameworks like MXNet, Chainer, or TensorFlow? Let’s look into five reasons that add up to a strong case for PyTorch. Before we get started, a plea to TensorFlow users who are already typing furious tweets and emails even before I begin: Yes, there are also plenty of reasons to choose ..."
+excerpt: "While the fast.ai course uses fast.ai’s own library that provides further abstractions on top of PyTorch (making it even easier to get to grips with deep learning), the course also delves deep into the fundamentals, building a PyTorch-like library from scratch, which will give you a thorough understanding of how the internals of PyTorch ..."
 publishedDateTime: 2020-02-24T16:02:00Z
 webUrl: "https://www.infoworld.com/article/3528780/5-reasons-to-choose-pytorch-for-deep-learning.html"
+ampWebUrl: "https://www.infoworld.com/article/3528780/5-reasons-to-choose-pytorch-for-deep-learning.amp.html"
+cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3528780/5-reasons-to-choose-pytorch-for-deep-learning.amp.html"
 type: article
-quality: 51
-heat: 51
-published: false
+quality: 89
+heat: 89
+published: true
 
 provider:
   name: InfoWorld
@@ -19,9 +21,14 @@ provider:
 
 topics:
   - AI
-  - Google AI
   - Machine Learning
 
-secured: "o5v56T0A0NAYLEbvilFiD0TpY6UWKxDlNrgIS4x4Sn4WH8ppSOWkUuGty4RuKFmrT8pYVq0ePQMaG6C23/SGbcZU9skKrSqKiayZu/xXSt0Y+uEr980r6nm+TRqCYJsrNkyoppPQwX3gycN+iwDvUQ9tPDYvLDYlMYtCb1Fy5sLqrP9g9bkSFQzJw/YQtBl/kz9iuZsRdafdb7u0AjhpRrhWO/XyOGRciym4iafVL9bHqjNFGT6pTN7juZxrYmpW6bXwwzi/kWRVuZcPyK5EMJNfqGvtbk7Euqdw1ML97gIHmVl2Pdx6uzAiLbHEx0WZI0vW5ODlqTH+/czycKIUzlMGiPEEzmo7DFi9qquK1zrlXUI6iziGCI5USqaRN/W/jPgyUPug45y9w7nsi53vIX9tBlX243MY3j4GT376fRXN5hrCBJ92sm+EaJRYQY87vsTTV0Nu7bsX3cyxa8NfGQ+E7fmU9Til4a1NpRILhbc=;X85TW2mqV5MjmufKx4RFWQ=="
+images:
+  - url: "https://images.idgesg.net/images/article/2018/02/number-5-on-fire_top-five_five-tips-100750848-large.jpg"
+    width: 1200
+    height: 800
+    title: "5 reasons to choose PyTorch for deep learning"
+
+secured: "SDBLC8BmL2n5ZzbAW6LieORSuHzVi7rxjd841wi4jFYJY+FugciMFpsM2Tu7DtrYMB20l72tVJkxYDCQ+gjnnV98Wi2+g1qI7WHE/rFxx3sPThZbBgNKf5aXpsLnHx29/dqN4mURRTAhP8jUEs4m+z+GZIXd62XkGkS0X4J6abLcBIisVbp1zlacMDXv16t+rUxWkG9RkU/RDLpQi7h33XG5tPgfFTw+i2/+UzkgJFHstPN80DmH6Ck+Qd5U7Md7OlIrpsxdm2PmoGeLzhNPqlg1IGytOXh6Wk3yzh+Q4evcnSE+F1CgCS2SZ6Utv5LX;3G5y8DZBgmC4NvIXwAudzg=="
 ---
 

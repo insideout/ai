@@ -46,17 +46,6 @@ related:
       name: The Hans India
       domain: thehansindia.com
     quality: 39
-  - title: "Dynatrace expands its pitch at managing automated management"
-    excerpt: "The platform can now onboard and work with data from services running major public cloud service providers like AWS and Azure, Kubernetes-native events ... This then works with Davis, the company’s AI engine, which provides thresholds and baselining algorithms for all infrastructure performance and reliability metrics that enable extended ..."
-    publishedDateTime: 2020-02-11T14:32:00Z
-    webUrl: "https://diginomica.com/dynatrace-expands-its-pitch-managing-automated-management"
-    ampWebUrl: "https://diginomica.com/dynatrace-expands-its-pitch-managing-automated-management?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/dynatrace-expands-its-pitch-managing-automated-management?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 24
 
 secured: "MDzIW2iCWj3+tZKUdC/fMThKTo2fxmvUtXpeqMiGRYCJfCIvMXr3NVVGvyPM/KCe7wjfWGxigYNvyXHwtmI42VfvfdmnL98Gf3ILQxcOWewwCsAhzKT9X9vaMFwwPPlcLkJ5XbSCrrchTiJL+hNQl7ImyYJAa5enK5Q/KWcoYdO6biE/k8CCpum0uqblBchOyknLOpxbt3U9MZkgR+Anim7gYr51eAaN76JszXAG+iU6e1KwyxdA92xToHiYrsW9PEA0F07g+jS/cvP6Xy6ugapVLjzJUHpOiDU2klPMBawwUVUYQp0fmB1SE/1kCTCPG7OBDzuPqPhEAOY5UVyEcTuAeoVk+erJZp/+4mRIDiAoqSnODrFcdVW1y5ZI0MUYoAF9wl9Unf2gnfgelkl2jBMgMPXgUtTmn0zSh5+kvjlMf+DJu37ZS24u9TnaXa9rG/NCJc/1vUAh5ntlihzawNchmxGxyV2Rb6RoEE+wnVs=;/dzY8pSAqXvUK2JbMuOqbA=="
 ---

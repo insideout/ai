@@ -61,15 +61,6 @@ related:
       - url: "https://mma.prnewswire.com/media/467598/Oracle_Logo.jpg?p=facebook"
         width: 2700
         height: 1414
-  - title: "GigaSpaces Launches GigaSpaces Cloud Managed Service on Google Cloud Platform"
-    excerpt: "With GigaSpaces, enterprises can operationalize machine learning and transactional processing to gain real-time insights ... are leveraged by hundreds of Tier-1 and Fortune-listed organizations worldwide across financial services, retail, transportation, telecom, healthcare, and more. GigaSpaces offices are located in the US, Europe and Asia."
-    publishedDateTime: 2020-02-11T14:38:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-gigaspaces-launches-gigaspaces-cloud-managed-service-google-cloud-/2020/02/11/9095876.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 1
 
 secured: "uSqkwArICCJ7jpOtE1GN8Pv7XVGEhHYKk5Sa8t2qVcE8Pm31AapI2DtTwJBFOgEvNsYSIpE5bfXcq9S/Y/y7nOFLQU5W74kZg6e3GPu4hvjHmPAgb6Gk61m3h7YDNa6tvjLowoCGVzpybP8Yj/ETGe2BypBggcXzSMeBQk1PH4tRO631gtIXmZhQE+d4FzIz65Oxr3yep27WT/Qw1TyO9DESnCDL4iLEchNFqTuaZjTWZmNCF09cEWvAxU0sUGppeBcSLGgUn2aF8P86mjzmCtnx+Ii7Dw8+HM87PPk0QP0E42xPaGCD3H8X1VmwkHrt;cxnLmBijykAzbB4nHCAmcw=="
 ---

@@ -46,17 +46,6 @@ related:
       name: Hindustan Times
       domain: hindustantimes.com
     quality: 36
-  - title: "Dynatrace expands its pitch at managing automated management"
-    excerpt: "The platform can now onboard and work with data from services running major public cloud service providers like AWS and Azure, Kubernetes-native events ... This then works with Davis, the company’s AI engine, which provides thresholds and baselining algorithms for all infrastructure performance and reliability metrics that enable extended ..."
-    publishedDateTime: 2020-02-11T14:32:00Z
-    webUrl: "https://diginomica.com/dynatrace-expands-its-pitch-managing-automated-management"
-    ampWebUrl: "https://diginomica.com/dynatrace-expands-its-pitch-managing-automated-management?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/dynatrace-expands-its-pitch-managing-automated-management?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 24
 
 secured: "LsWZ62/p1eVeBtwYzVxJYcZjr4D+9i97XEZfGgFh2GwDxBtsatKsedGn71T8xCS1qC2t23Y++iAhvxGBX9+xtmhDTzFUZhT4S7zKtbDD5xxSYdIhSvJqgJJUOvp/LQDSWG6eqLxPU58AdN5LgKW3Dz7Oe93T/wdC+TA+zgEA9HbaffOjS1SIPBY7pEssJ0E17FUrLa3drBhs1SWtXInPkWYuxolNCmOxGcQfiNpJlT2tKxN4WVNuxCdFCcrR3xSOpAFHvEHQK7juc8Th/CZBDFji8rP+KpmGCXiEYaDWgtCYFuVWQgluOSRDUWG6Gic38nJ9LNSR6ZzgmIvg3ff1kQ9ia8ao3vSOwOFe7cENtN9d1R69u1r1ern8amwLn+BoB4VP76LDnWUZnZQ+T5UT+2bQtWH1t4CmD3tYtZDUXUXD4+o78Q9qsOGYhzZz1NamO1vajVjdnJLJJ+9KiTfpqdpajXSVDjf2Rw/7G20Breg=;rmx3VRUpF10FoEkUpZMrWg=="
 ---
