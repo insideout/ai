@@ -2,18 +2,22 @@
 category: news
 title: "Met Police chief defends facial recognition from 'ill-informed' critics"
 excerpt: "London's police chief has defended the use of facial recognition technology, labelling critics \"ill-informed\". Dame Cressida Dick said eight criminals had been caught using the controversial live facial recognition cameras. She said \"inaccurate\" critics should \"justify to the victims of those crimes why police should not be allowed to use tech..."
-publishedDateTime: 2020-02-25T16:01:00Z
-webUrl: "https://www.bbc.co.uk/news/technology-51628833"
-ampWebUrl: "https://www.bbc.co.uk/news/amp/technology-51628833"
-cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-51628833"
+publishedDateTime: 2020-02-25T15:55:00Z
+webUrl: "https://www.bbc.com/news/technology-51628833"
+ampWebUrl: "https://www.bbc.com/news/amp/technology-51628833"
+cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51628833"
 type: article
-quality: 59
+quality: 89
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: "/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -468,6 +472,6 @@ related:
       domain: seattletimes.com
     quality: 0
 
-secured: "pSNY6kL5nWltPoKBm80+vhyfId+GFfOtiiXicvvANen48koz9k4hrrFSngsAHDr5OKJ0c8odwCeIKD+UvQ/LBlFcYVSYHZ06oTQv7XuEGaFxXB74p+JQwnxpRhgT/H2CF+Gv96xAvAQe/fz2qGEVUPlCqAsSQ1jjrAH6N6DTvHSuLRts6EljBVNQCUH+tPW24uuoZ5QofCT1bcNeYpSm00oLqLNJPue8eDeZ3N0WXXvPGoACdMuUFrlpKvQ2DPSUae/ihSqcJdILt35snzQCA/PEId0dV/A8CriFnS+QCgAthkii+ja3F1pcApuNsFNz;hz59JW+PIYaMAQNGBxxxMg=="
+secured: "P2r+UsAlFH7wHZnYla42e6d3fR8M4fWYbmUx/wvHx4lcIxEXpBSgZmW6LXdc91xPgeK+TIUSfWIco8qy8Jd7GHL/RNqEmPKnr2EQwA7AnEatLnP2ra6zCvBuf6QjAMqnDcwQxi/ZiWJ3CUscxFG0Ea7KWhR5jCk2OPvkNetDP6URYcBcYxjoLstjoo9anEv27Op+hBlGkyBtgJVoTBblXLcnZYn7dae5C5DDEWjv16sJ90BKN0wnLhzTfGIsmnobWF+UOYqLSWRZ6G5FSpoWGlvaPAshECIhSt0OKbGGjeQPvedmtKB0JPDXY+glZ6hk;Jd395xXTYRYs6XKaOhlQaQ=="
 ---
 

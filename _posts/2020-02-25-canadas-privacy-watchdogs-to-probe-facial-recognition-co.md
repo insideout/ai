@@ -434,6 +434,19 @@ related:
       - url: "https://www.aljazeera.com/mritems/Images/2020/2/24/b1302d9786814603a2836c634f962dbf_18.jpg"
         width: 999
         height: 562
+  - title: "Port must operate facial recognition to control it"
+    excerpt: "Facial recognition technology is starting to appear in public places. Seattle's Port Commission is working on a policy to make sure it is used ethically. Now it is learning just how hard that will be. Help guide our reporting by submitting a topic, question, or one of your stories to our team. When is Seattle going to get an earthquake warning ..."
+    publishedDateTime: 2020-02-26T01:04:00Z
+    webUrl: "https://www.kuow.org/stories/port"
+    type: article
+    provider:
+      name: KUOW
+      domain: kuow.org
+    quality: 39
+    images:
+      - url: "https://kuow-prod.imgix.net/store/8c31abf6e9fd9d65c1a540ebbf368b0f.jpg?ixlib=rails-2.1.4&auto=format&crop=faces&fit=crop&h=402&w=402"
+        width: 402
+        height: 402
   - title: "Chinese city rolls out facial-recognition thermometers on buses to combat coronavirus"
     excerpt: "Buses in a Chinese city have been equipped with thermometers that use facial recognition to scan passengers in efforts to more quickly detect symptoms of the coronavirus, according to local reports. The smart thermometers can measure commuters’ temperatures in as fast as a second and alert the driver if an anomaly is detected, the Guangzhou ..."
     publishedDateTime: 2020-02-19T14:33:00Z

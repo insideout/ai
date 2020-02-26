@@ -451,6 +451,19 @@ related:
       name: Law360
       domain: law360.com
     quality: 39
+  - title: "Port must operate facial recognition to control it"
+    excerpt: "Facial recognition technology is starting to appear in public places. Seattle's Port Commission is working on a policy to make sure it is used ethically. Now it is learning just how hard that will be. Help guide our reporting by submitting a topic, question, or one of your stories to our team. When is Seattle going to get an earthquake warning ..."
+    publishedDateTime: 2020-02-26T01:04:00Z
+    webUrl: "https://www.kuow.org/stories/port"
+    type: article
+    provider:
+      name: KUOW
+      domain: kuow.org
+    quality: 39
+    images:
+      - url: "https://kuow-prod.imgix.net/store/8c31abf6e9fd9d65c1a540ebbf368b0f.jpg?ixlib=rails-2.1.4&auto=format&crop=faces&fit=crop&h=402&w=402"
+        width: 402
+        height: 402
   - title: "Indian police use facial recognition app to reunite families with lost children"
     excerpt: "Police in the southern state of Telangana developed the facial recognition tool as part of Operation Smile, a periodic drive to tackle child labour and missing children. They scanned through more than 3,000 records on the app and were able to reunite more than half the children with their families in January. \"The results are very encouraging ..."
     publishedDateTime: 2020-02-14T10:20:00Z

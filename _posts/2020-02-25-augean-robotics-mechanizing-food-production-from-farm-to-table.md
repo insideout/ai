@@ -25,6 +25,6 @@ images:
     height: 450
     title: "Augean Robotics: Mechanizing Food Production From Farm To Table"
 
-secured: "1Io8EJUcvmSue09KGaQ4WxCHcVbz28JBtnQKftIhgoXCDcazS0eh1spggNjMjO/s6y6ZfHkDTsrBoY2slquR6Hb8rZ8Vlxuau1R2Wzb6DxYvmziveo8k/nDMmyqRae21JztW78Iw6e/Uyx/nYPO02e0e1+KiKDxs5eDIYZRxWN3yScllQv14lxjb7MYWa8qH8qF+5478YN9aD1TZoezxdtPrR3CaUiL1m/fV9FhWVfYMSpjI3UB4g41X3Ul/A1hFb+rG+WwnByP0sLurdXZMeBBCmiSFMwJ5B8/DtnPDKM3hi9fb6wYK23cEtyxCDIzt;zJ/cxJhZHCz1RPq8d82jNw=="
+secured: "yUNZO3Eo2WBJgEAcQR31+6Qxj5Yz3GeoboWQVTeObBgGIqBi/bq/dtiF2eie9uLKVf/G0qMWMRZ6lY2RzkKJgjEbJ2/hAferh/AyhRqjUdxpmYYHb3CIxnetMxe7RP5dT57nhj7ORG/VVGFvbcm7y3tOsoEz/Y5QRf6p4PLAyxpOaxgbUBIR+YaOy8bmZIIlDznCyNDBqK84OYp9Ruw2gqWH+1crzTdgRjndwDL65T6K3IVCFIUm7tEyifeecByrsQ4t0aZFw/yknjUkPcf02VhFXXZJbrW/xRUhUswuG2/H1xoOmyNEkV+eH3/kAkZUoZTNo218Jk7I4v/f8yHBTSQILJUjWktoG8v+rPYsIrJsPTM7OKih5Cy3ne+0zx01SlQ3D0qDU/TZ8ImVnZN6Nr8ea2xI0jO3X8gj8jl2XakARe3Gr6kpB1yHLQIdnOqN5CEuy5DvTvnVy0cCXy07hSn0/42QL3UK4Fig0cMyi/Y=;F2+fP4uXPzG0uS5aUSl1og=="
 ---
 

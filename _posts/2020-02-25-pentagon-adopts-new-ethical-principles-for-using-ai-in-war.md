@@ -1,29 +1,25 @@
 ---
 category: news
-title: "Pentagon adopts new ethical principles for using AI in war"
-excerpt: "The Pentagon is adopting new ethical principles as it prepares to accelerate its use of artificial intelligence technology on the battlefield. The new principles call for people to \"exercise appropriate levels of judgment and care\" when deploying and using AI systems,"
-publishedDateTime: 2020-02-25T05:22:00Z
-webUrl: "https://www.sfgate.com/business/technology/article/Pentagon-adopts-new-ethical-principles-for-using-15080225.php"
-ampWebUrl: "https://www.sfgate.com/business/technology/amp/Pentagon-adopts-new-ethical-principles-for-using-15080225.php"
-cdnAmpWebUrl: "https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/business/technology/amp/Pentagon-adopts-new-ethical-principles-for-using-15080225.php"
+title: "Pentagon Adopts New Ethical Principles for Using AI in War"
+excerpt: "The Pentagon is adopting new ethical principles as it prepares to accelerate its use of artificial intelligence technology on the battlefield."
+publishedDateTime: 2020-02-25T01:36:00Z
+webUrl: "https://www.usnews.com/news/business/articles/2020-02-24/pentagon-adopts-new-ethical-principles-for-using-ai-in-war"
 type: article
-quality: 74
+quality: 64
 heat: -1
 published: false
 
 provider:
-  name: SFGate
-  domain: sfgate.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
   - AI Ethics
-
-images:
-  - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-    width: 375
-    height: 211
-    title: "Pentagon adopts new ethical principles for using AI in war"
 
 related:
   - title: "Pentagon to Adopt Detailed Principles for Using AI"
@@ -125,6 +121,19 @@ related:
       - url: "https://sites.breakingmedia.com/uploads/sites/3/2020/02/Screen-Shot-2020-02-24-at-5.11.58-PM.png"
         width: 597
         height: 328
+  - title: "DOD Adopts 5 Principles of Artificial Intelligence Ethics"
+    excerpt: "Artificial intelligence is the department's top technology modernization priority, DOD Chief Information Officer Dana Deasy said yesterday. The new principles lay the foundation for the ethical design, development, deployment and use of AI by DOD he said. \"These principles build upon the department's long history of ethical adoption of new ..."
+    publishedDateTime: 2020-02-25T00:00:00Z
+    webUrl: "https://www.defense.gov/Explore/News/Article/Article/2094085/dod-adopts-5-principles-of-artificial-intelligence-ethics/"
+    type: article
+    provider:
+      name: US Department of Defense
+      domain: defense.gov
+    quality: 54
+    images:
+      - url: "https://media.defense.gov/2020/Feb/25/2002254869/1280/1280/0/200205-M-VG714-0024M.JPG"
+        width: 1280
+        height: 854
   - title: "DoD adopts new ethical principles for the use of artificial intelligence"
     excerpt: "WASHINGTON — The Department of Defense will follow a new set of ethical principles for the use of artificial intelligence, officials announced Feb. 24. The rollout of a code of conduct for the use of AI technology follows a 15-month study led by the Defense Innovation Board, a panel of outside advisers led by Eric Schmidt, former executive ..."
     publishedDateTime: 2020-02-24T23:34:00Z
@@ -222,6 +231,6 @@ related:
       domain: fedscoop.com
     quality: 17
 
-secured: "l3mAZkBiedSQsU3PIB+BrFm06wvNUzoT3aE7EIjh1Odn/pbpWPjpuX8JkK+zcADcicu1jNLg41YYa397i+bLtfvNbqkgKZd4TAsZvWwXP5rMEcwvey33eR9p+JXaei4RcQf811WB91RD9JuZqEGI7kDTZF5oGpgPp5rn7f3DXWlAbudTKSt4GRrOMI2EgaM0RPn3JfWVyJtP/YdFdWwcrOWqKzSuNQ2c7pAK1tR07ZrbWW3dGXyQsqJLL28p91GQAxTajJ9kteutKOhHPZoGDmmPnDFHQqavg+PZ3i74Hzkxc/y/Wvk05EvejU2+gWbm;l7MeWC9gMYKuP4MPwS4YAA=="
+secured: "IUmf6oWYPitFr/60IJzLAvVZvbppJO3VTvAvGJSvaDnPKFuOqycwdzEd3gDF16F/iFjN4FF7DjJMdD+n4rQ9fBoXH6gfslEpzssTPRP8unqEGVROYhZ7aChW0QH2ThPYQV+sUwfQ9s5oQ8RuWc9zJq+PKB+CiRFvAzuzXqj0AwKDnR/nRA/x6kcx0qByehOMjj+5NqFAa9v1q4DffL0A1YktAeE7iLi7M64WZDz0nUsjikTPRwGWceWuRhWMaFIg+fWOKXCKGnjG0HlJZrhTvOUwT3GF1zQunDRg/3vz6/Tagi+3mEBEPB8UbJhZ3iu/v0iVilGX5ezmpTktM2+9q0XDzlyVbb/nwkFAs/H1bkGriVc+toiHiMPUc6A9rzu4CnJIlMy01epCTpG4Pw7kU/Y8U1B+pUI1IDbg8P8ibg9ZdDCTmxZrBKkmj6c8JLDthYDipp12HrhybnpNdrNlJrw2Y068p0jpmM6vwzVxBv8=;go2DFJ8scoVzUT0ZcNVmhg=="
 ---
 

@@ -86,6 +86,19 @@ related:
       - url: "https://www.thehindubusinessline.com/static/theme/default/base/img/og-image.jpg"
         width: 300
         height: 300
+  - title: "How to enhance the customer experience in the Fintech Industry"
+    excerpt: "Fintech or Financial technology is the industry that delivers traditional financial ... A few useful technologies in this regard are VOIPs, fast payment solutions, AI chatbots and AI-based identity screening solutions. VOIPs will enhance the communication experience as calling will enable you to develop a direct connection with your customers."
+    publishedDateTime: 2020-02-26T00:44:00Z
+    webUrl: "https://customerthink.com/how-to-enhance-the-customer-experience-in-the-fintech-industry/"
+    type: article
+    provider:
+      name: CustomerThink
+      domain: customerthink.com
+    quality: 24
+    images:
+      - url: "http://customerthink.com/wp-content/uploads/business-1049272_1280-pixabay-customer-experience-loyalty-trust-1.png"
+        width: 1280
+        height: 851
 
 secured: "GNqyp89T5KCf2DqvO4aUZ59qLtlR+uw2HSWg1ML5N6ofccIZVdPpqtlCder6kGgXNO1TisM1kwBepn5+0tZbBtV78KxnDtsGj+FmIaWupg6LUON2d13nFpWhm+5wpZo9RHJa7tVCoT0cvET+/526W1k48+Czpm6nXSc0HxjUP+BB527jYznvDyZHNOI3J8CPFbisYyAPeYeWDbD5jtZSV3TGtssp7xJdaAD90kAvmHXy+kIXajDEq9sSY+1aZEulZYmg4rZ0QNnwamAeMaaiz2RNrn7SD1nERqHF/jHzUVkWIoXk1EPsXrJmCffTsbjHBw3qhhekUAVh0UkULXrVls4QCz55XBXOhft9tG7XRcGelES9AL4XMaoZ5EmhZGyv55KrhC8I7PJalF61zdUBQEh+rg1WPooHlq9lBxjHYaLHaT2Jm7A/4FpN7BU7TJnHqgqwCqCQDmlM4QhlmxSlUi/rfhUGiOtrxLwcgvgq3bw=;kLSdigC5bVmjU9svWtgEWg=="
 ---

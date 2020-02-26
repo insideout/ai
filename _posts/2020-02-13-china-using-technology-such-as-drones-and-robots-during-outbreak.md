@@ -24,15 +24,6 @@ images:
     title: "China using technology such as drones and robots during outbreak"
 
 related:
-  - title: "Coronavirus-battling robots deployed to help fight deadly outbreak in China"
-    excerpt: "“Robots can help with decontamination and reducing human-to-human transmission risk by reducing exposure,” O'Malley said. \"Artificial intelligence might be helpful in data science aspects, tracking information about the spread of cases to determine risk profiles and identify ways to limit spread if we understand better how it is spread."
-    publishedDateTime: 2020-02-14T21:11:00Z
-    webUrl: "https://www.foxnews.com/tech/coronavirus-battling-robots-deployed-help-fight-deadly-outbreak-china"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 47
   - title: "Drones and self-driving robots used to fight coronavirus in China"
     excerpt: "Self-driving disinfection robots for hospitals On February 19 2020 it was announced that Danish-designed self-driving UV Disinfection Robots are being shipped to China for use in hospitals. These devices, from UVD Robots, emit concentrated UV-C light from a column of bulbs on top of a wheeled base. The light has a germicidal effect, allowing it ..."
     publishedDateTime: 2020-02-20T17:06:00Z
@@ -48,6 +39,32 @@ related:
       - url: "https://static.dezeen.com/uploads/2020/02/uvd-robot-drones-coronavirus-china-sq-b-1024x1024.jpg"
         width: 1024
         height: 1024
+  - title: "Robots take on coronavirus"
+    excerpt: "In a bid to minimize person-to-person contact, artificial intelligence-powered devices equipped with thermometers and cameras are taking patients’ vitals and helping doctors diagnose people with the illness from a safe distance. Others are being used to disinfect hospital rooms and even airplanes. One such machine is the Temi robot."
+    publishedDateTime: 2020-02-23T23:28:00Z
+    webUrl: "https://www.jpost.com/HEALTH-SCIENCE/Robots-take-on-coronavirus-618551"
+    type: article
+    provider:
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 39
+    images:
+      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JD_ArticleMainImageFaceDetect/454153"
+        width: 822
+        height: 537
+  - title: "Drones. Disinfecting robots. Supercomputers. The coronavirus outbreak is a test for China’s tech industry"
+    excerpt: "The government has long stressed technological innovation as an important pillar of growth, and Beijing has spent billions of dollars on subsidies, loans and bonds designed to spur advancements in artificial intelligence ... from simulation to practice.” And a startup, Shanghai TMIRob, is sending dozens of robots inside hospitals throughout ..."
+    publishedDateTime: 2020-02-24T19:35:00Z
+    webUrl: "https://keyt.com/lifestyle/money-and-business/2020/02/24/drones-disinfecting-robots-supercomputers-the-coronavirus-outbreak-is-a-test-for-chinas-tech-industry/"
+    type: article
+    provider:
+      name: KEYT
+      domain: keyt.com
+    quality: 22
+    images:
+      - url: "https://s3.us-east-1.wasabisys.com/keyt.com/2020/02/hypatia-h_036d6558ca5d40262f24cfcdcaf8983f-h_18363860c4c94f3fc0da726aa7ecb32b_preview.jpg"
+        width: 499
+        height: 333
 
 secured: "xqr7FcOEKdoudLAN/nOjHmsOFz6U90rqzTvNkA6Osh83414qnR1WHdmw+aCTX6uibCS6KQVaCeoa59/6/FA+p0L0/cdlKpgEe9FNZtXO/azPKZuX2IjWYR4/XwWv9KdS33GkAc6kRqKQcNIsUfcFYIUFBwMjSgt1umbHSKZj8h3LViS3Rsh5bXqrS9efNFLhg37ml5hRsbbMU2U4hoU3PsAUpdtk3NskD9p1tCKdWD4bYBW+DAt7JnCHXeOWLTvUMSghMFBDzZO9c5FlGTlm5jYAjLnBn9/e0G3MusRJUusl3Xa1CDYU8Mt+9gdd71rU;oSCv5B8chg/3ZnwtpxRFew=="
 ---

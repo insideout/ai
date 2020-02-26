@@ -2,23 +2,23 @@
 category: news
 title: "Turning Machine Learning into Business Applications"
 excerpt: "Machine Learning is viewed as an essential enabler that will allow applications to act on the collection of new data sets to improve their predictive capabilities. This white paper shows how Talend and AWS are bridging the gap between data scientists and data engineers to operationalize ML."
-publishedDateTime: 2020-02-24T21:58:00Z
-webUrl: "https://www.networkworld.com/resources/199257/turning-machine-learning-into-business-applications"
+publishedDateTime: 2020-02-24T22:09:00Z
+webUrl: "https://www.computerworld.com/resources/199257/turning-machine-learning-into-business-applications"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Network World
-  domain: networkworld.com
+  name: Computerworld
+  domain: computerworld.com
 
 topics:
   - AI
   - Machine Learning
 
 images:
-  - url: "https://idge.staticworld.net/nww/nww_logo_300x300.png"
+  - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
     width: 300
     height: 300
     title: "Turning Machine Learning into Business Applications"
@@ -95,6 +95,6 @@ related:
       domain: microsoft.com
     quality: 19
 
-secured: "b6YXqLgmCyGmp0CSFwpGgJj1fnPCHwkJvcA3NdpLNqGFsj/GPTZVlRMv9jPexl7f342zFSlRFpD8kpT1018QmY2nfCWYKsu3dxBTK69tiHes1L1bttPjlCa3gOV3XTXm7OtQBObhhMEf+Jj+KvJeQYle50FYx++3mNeqTzruC4uDVrK1HNBZtOVVda+bIZNK6coVInJFh3dyqqDbZGT9i2evgESl9CTawbFrjzLKQG8PZSG+VkUE9gV05j4CLor/CHjqMw8xvhQVz/IPvv5hLvse/S8+9jDqCT1WUEDVXz3/ukAfuR3PiFdxvYqAHi9aN/qYhFUBbOaSzoZe0qDX/l5KcJr0MBYczbfrkrjOodt/CNvGKrAU/rM6s8y0JYY5lIAlp2ganiwSog1bCRzwBhrzPXTtYVLapEKmip08/aXo+dsNVFqo/zPAXkNeIvVELWyGCiR2LlIY699+xieUNZT0gBL5vJVKRnbp7vq+iIw=;RfcmIXKWWnjikFltP30yPQ=="
+secured: "Y5xHIZhvLyRq9nmYijX/1uW7m1MptbWQljTmklIBS5TRUJ2bzk25UFAtkziQ/1V03+Wi2opm2H6ep2xWFdj78mfS1TrbxrqsWlOLZN64Bdle2SeDsQWjma0F2HHgBLROtvgCukG8NOnbAmXHKhB/aLSoe5Y/QNMsLa/3zOC5x1tQwppbjzM0e/uDTklBYfVhiB/iVKGelyS3snjS3yGAF3lWO5u9pbJO3G8ZHw+6CXfS98UEO585xFBsxY2RNS7r5RleBX8t4yNsWk9uGct7oiVW0locQjglYXrEeg5GwMnxR7CB1jlMXCkVdCkMSRJ+;gfxmF4vqGcUB4raQ9rWYFQ=="
 ---
 

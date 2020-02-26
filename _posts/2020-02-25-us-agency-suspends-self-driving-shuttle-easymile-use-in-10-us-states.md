@@ -1,21 +1,19 @@
 ---
 category: news
-title: "U.S. agency suspends self-driving shuttle EasyMile use in 10 U.S. states"
-excerpt: "U.S. auto safety regulators said on Tuesday they had ordered a suspension of passenger operations for 16 autonomous shuttles operated by French-based EasyMile after a passenger was injured in an unexplained braking incident."
-publishedDateTime: 2020-02-25T21:18:00Z
-webUrl: "https://www.reuters.com/article/us-autos-selfdriving-idUSKBN20J2N6"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN20J2N6"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN20J2N6"
+title: "U.S. Agency Suspends Self-Driving Shuttle EasyMile Use in 10 U.S. States"
+excerpt: "WASHINGTON (Reuters) - U.S. auto safety regulators said on Tuesday they had ordered a suspension of passenger operations for 16 autonomous shuttles operated by French-based EasyMile after a passenger was injured in an unexplained braking incident."
+publishedDateTime: 2020-02-25T21:22:00Z
+webUrl: "https://www.usnews.com/news/technology/articles/2020-02-25/us-agency-suspends-self-driving-shuttle-easymile-use-in-10-us-states"
 type: article
-quality: 73
-heat: 143
-published: true
+quality: 33
+heat: -1
+published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,13 +21,22 @@ topics:
   - AI
   - AI in Autos
 
-images:
-  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200225&t=2&i=1495203233&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG1O1NE"
-    width: 817
-    height: 545
-    title: "U.S. agency suspends self-driving shuttle EasyMile use in 10 U.S. states"
-
 related:
+  - title: "U.S. agency suspends self-driving shuttle EasyMile in 10 U.S. states"
+    excerpt: "U.S. auto safety regulators said on Tuesday they had ordered a suspension of passenger operations for 16 autonomous shuttles operated by French-based EasyMile after a passenger was injured in an unexplained braking incident."
+    publishedDateTime: 2020-02-26T00:22:00Z
+    webUrl: "https://www.reuters.com/article/us-autos-selfdriving-idUSKBN20J2N6"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN20J2N6"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN20J2N6"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 74
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200225&t=2&i=1495203233&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG1O1NE"
+        width: 817
+        height: 545
   - title: "U.S. Agency Suspends Self-Driving Shuttle EasyMile in 10 U.S. States"
     excerpt: "U.S. auto safety regulators said on Tuesday they had ordered a suspension of passenger operations for 16 autonomous shuttles operated by French-based EasyMile after a passenger was injured in an unexplained braking incident."
     publishedDateTime: 2020-02-25T16:41:00Z
@@ -43,6 +50,21 @@ related:
       - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
         width: 1200
         height: 630
+  - title: "Linden self-driving shuttle out of service after woman said she was thrown from seat"
+    excerpt: "COLUMBUS (WCMH) — The Linden self-driving shuttle is out of operation after a person fell on that shuttle just yesterday. Since this shuttle has been put into action on Feb. 5, Smart Columbus has recorded around 50 people riding the shuttle around the Linden area and no problems. Both of the shuttles are sitting in a garage until shuttles ..."
+    publishedDateTime: 2020-02-22T00:21:00Z
+    webUrl: "https://www.nbc4i.com/news/local-news/linden-self-driving-shuttle-out-of-service-after-woman-said-she-was-thrown-from-seat/"
+    ampWebUrl: "https://www.nbc4i.com/news/local-news/linden-self-driving-shuttle-out-of-service-after-woman-said-she-was-thrown-from-seat/amp/"
+    cdnAmpWebUrl: "https://www-nbc4i-com.cdn.ampproject.org/c/s/www.nbc4i.com/news/local-news/linden-self-driving-shuttle-out-of-service-after-woman-said-she-was-thrown-from-seat/amp/"
+    type: article
+    provider:
+      name: NBC4i
+      domain: nbc4i.com
+    quality: 52
+    images:
+      - url: "https://www.nbc4i.com/wp-content/uploads/sites/18/2020/02/Shuttle.jpg?w=1280&h=720&crop=1"
+        width: 1280
+        height: 720
   - title: "Operator of Linden self-driving shuttle suspends service in 10 states"
     excerpt: "COLUMBUS (WCMH) — The operator or a self-driving shuttle in the Linden area is out of operation in 10 states after a report of a passenger being injured. According to Reuters, the National Highway Traffic Safety Administration (NHTSA) said EasyMile buses will be suspended in 10 states, including Ohio, while the agency examines safety issues."
     publishedDateTime: 2020-02-25T22:32:00Z
@@ -124,6 +146,6 @@ related:
         width: 792
         height: 416
 
-secured: "LCAtnzbzr3rnxiQANzSuq+urSCgiKMrr80QySzbh3QLC59ljTKQ1BkZqDog4XT4eWF0CoN+nIgRD69o0MJK27tIeNYXmXZ5rOexIDAPqiLfjEQnW1TBq0HZ34qMdXCIajR7C3kazeJwJCL6MACsvjRFazMwqA4SObu+aluB6uvpgFRqeqnV9gSxYnODahKOvPNlGWH99yjAXoP2OWi9DWL5CaJVzE5KjMwUl8cqptwv7bxrvG/US7cypIUQj+MSy573iKOYdg5YjovIBN5It8vZ1FllH2W490xWZLTn9bztzGXaW8EwL30Qm1nJ3YQuZ;D7lTTTXkkohEWHJlsAQ8cw=="
+secured: "3HY2vfmq17UQEb9/GZpmW7Xxjbn4B99qKacFaThjmQkHFSkQGjLUDaSf9hDmGCluHW3/2HKH4ntBl7Bx0QBiHJ/TeuY7ivW5bnlKjPpK3yJQ6pfKW+Ss6UbrQlUAC1mQBMD+waUk0ETYBck76S4Ii9kJxYxr39wIYzFkd3FbzsQVSW3m4ESDnCUsE6kyxsba43mOtrAamOFpxUMBpJsa5oc7JadcGPX6YDvBGmGOwiOPcZLipkaaFkdAYCPemyW+bPA6PVR5do0UIt3ajOJifPQdl8c7l9VU+f8yrp/Ov2JfXW1m+CZwas3QUCpYA/PqTE+LrZ7VEuPU4vRNIj+dQ4Rn5xgfebny3Hz3jo4fLkiE4qEMCaA3db9pdpxC4kXvu9WQajt2kSCXvp6S+NLoCHP29x69wjC0hYhpG9IzEJ7rfeosIPwUOAQw0YOc0nxhLQZ8iOvjLFOS6XyeX8eQ3MNMD+Tq3RmWE8Rf7HIn0/M=;3eODJCUbG1/MvoVyhb1qUA=="
 ---
 

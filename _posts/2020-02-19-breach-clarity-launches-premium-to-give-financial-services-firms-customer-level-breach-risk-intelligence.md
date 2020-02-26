@@ -24,6 +24,19 @@ images:
     title: "Breach Clarity Launches Premium to Give Financial Services Firms Customer-Level Breach Risk Intelligence"
 
 related:
+  - title: "Deltec Bank, Bahamas explains how Fintech Creates Sweeping Changes for the Financial Services Industry"
+    excerpt: "Deltec Bank, Bahamas – “Fintech innovations through AI make it a more straightforward process to understand what exists in the generated data to create more reliable outcomes.” The most significant bottleneck for the financial services industry is the ability to process and understand a massive volume of transactional data. Before the ..."
+    publishedDateTime: 2020-02-26T00:01:00Z
+    webUrl: "https://virtual-strategy.com/2020/02/25/deltec-bank-bahamas-explains-how-fintech-creates-sweeping-changes-for-the-financial-services-industry/"
+    type: article
+    provider:
+      name: Virtual-Strategy
+      domain: virtual-strategy.com
+    quality: 38
+    images:
+      - url: "https://virtual-strategy.com/wp-content/plugins/all-in-one-seo-pack/images/default-user-image.png"
+        width: 512
+        height: 512
   - title: "5 Ways Financial Services Can Use Messaging to Create a Better Experience"
     excerpt: "Zendesk provides a customer service platform designed to bring organizations and their ... 70% of all customer interactions will involve emerging tools like chatbots, machine learning, and mobile messaging, up from 15% in 2018.” 1 While the financial industry has previously been a slower contestant in the digital transformation race, fintech ..."
     publishedDateTime: 2020-02-19T19:22:00Z

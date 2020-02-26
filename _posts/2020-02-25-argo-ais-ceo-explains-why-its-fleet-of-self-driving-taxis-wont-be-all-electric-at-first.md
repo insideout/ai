@@ -8,7 +8,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/2/25/21147747/argo-ai-ceo
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/25/21147747/argo-ai-ceo-bryan-salesky-self-dring-cars-ev-vergecast-interview"
 type: article
 quality: 79
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -30,6 +30,21 @@ images:
     title: "Argo AI’s CEO explains why its fleet of self-driving taxis won’t be all-electric (at first)"
 
 related:
+  - title: "CEO of Ford-backed Argo: Self-driving taxis won’t necessarily be purely electric for a while"
+    excerpt: "It’s widely assumed that future autonomous vehicles will be purely electric. However, the CEO of Argo AI, the self-driving company primarily backed by Volkswagen and Ford, raised doubts today about the business case for robotaxis as absolutely all-electric from Day One. Bryan Salesky, Argo’s chief executive, conveyed his views while ..."
+    publishedDateTime: 2020-02-26T00:52:00Z
+    webUrl: "https://electrek.co/2020/02/25/argo-ceo-self-driving-taxis-wont-necessarily-be-purely-electric-for-a-while/"
+    ampWebUrl: "https://electrek.co/2020/02/25/argo-ceo-self-driving-taxis-wont-necessarily-be-purely-electric-for-a-while/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/02/25/argo-ceo-self-driving-taxis-wont-necessarily-be-purely-electric-for-a-while/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 63
+    images:
+      - url: "https://electrek.co/wp-content/uploads/sites/3/2020/02/argo-ai-vehicle-2000.jpg?quality=82&strip=all&w=1000"
+        width: 1000
+        height: 500
   - title: "Virginia's first electric, self-driving bus is coming to Fairfax"
     excerpt: "FAIRFAX, Va. — Cars are one of the biggest sources of carbon emissions today. If more people use public transportation, these emissions will be reduced drastically. In a partnership with Dominion Energy, Fairfax County is slated to get the first electric, autonomous shuttle bus in Virginia. This method of transportation, called Relay, will ..."
     publishedDateTime: 2020-02-18T22:37:00Z

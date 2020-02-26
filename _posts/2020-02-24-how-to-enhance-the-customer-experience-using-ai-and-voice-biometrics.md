@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2020/02/24/how-to
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/02/24/how-to-enhance-the-customer-experience-using-ai-and-voice-biometrics/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -85,6 +85,19 @@ related:
       - url: "https://www.thehindubusinessline.com/static/theme/default/base/img/og-image.jpg"
         width: 300
         height: 300
+  - title: "How to enhance the customer experience in the Fintech Industry"
+    excerpt: "Fintech or Financial technology is the industry that delivers traditional financial ... A few useful technologies in this regard are VOIPs, fast payment solutions, AI chatbots and AI-based identity screening solutions. VOIPs will enhance the communication experience as calling will enable you to develop a direct connection with your customers."
+    publishedDateTime: 2020-02-26T00:44:00Z
+    webUrl: "https://customerthink.com/how-to-enhance-the-customer-experience-in-the-fintech-industry/"
+    type: article
+    provider:
+      name: CustomerThink
+      domain: customerthink.com
+    quality: 24
+    images:
+      - url: "http://customerthink.com/wp-content/uploads/business-1049272_1280-pixabay-customer-experience-loyalty-trust-1.png"
+        width: 1280
+        height: 851
 
 secured: "y+6X+TG7FfvQaunb71pqydpgCbvWPPgMxi1KIa1ijaSovO0yyHyI3QW02JKGlAN0yRJwTFW8ypJNl3lM5XdSZkfeo62gutFeptYsBKaW/6C7GdYEAHRG9dw0xnIMALKPjBe00OocczlOeuPFn2efjSXD+CbM9iPltbMTmJOPgVNQE4uss0xrVJfzXFCMHS87QN22hiiXgFVhRjTLky5yuBnISwRw0a3qyy5+l5sfMimPpZeUBBbLR9kpgxq2TsYu2KCbLI+/aHQBceiORtzOYAPZqb9MO5gDWAvlpJAFBkgU0N257BPM9cfVYkk9c/f4sNmRaBDJ6hOIsqAF08OPlpu+5MYDyfKAhIQlOPqIBPDF3ppkzaz9vlLUDdZVCf2sstcHNCxQO1Q4B4RCkeiTkNPJBfCLH/xzc+6yUIbPIuJSQ7GZqH1RSwGQF1V4f/paLC2ygtcjfPFzviODF5fgWwmPZezNE8D+KyApmBuSbG8=;u9FRQ5TMGlaUrzCj6D0vrg=="
 ---

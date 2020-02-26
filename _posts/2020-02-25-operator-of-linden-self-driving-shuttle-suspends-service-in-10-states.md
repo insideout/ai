@@ -26,9 +26,9 @@ images:
     title: "Operator of Linden self-driving shuttle suspends service in 10 states"
 
 related:
-  - title: "U.S. agency suspends self-driving shuttle EasyMile use in 10 U.S. states"
+  - title: "U.S. agency suspends self-driving shuttle EasyMile in 10 U.S. states"
     excerpt: "U.S. auto safety regulators said on Tuesday they had ordered a suspension of passenger operations for 16 autonomous shuttles operated by French-based EasyMile after a passenger was injured in an unexplained braking incident."
-    publishedDateTime: 2020-02-25T21:18:00Z
+    publishedDateTime: 2020-02-26T00:22:00Z
     webUrl: "https://www.reuters.com/article/us-autos-selfdriving-idUSKBN20J2N6"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN20J2N6"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN20J2N6"
@@ -36,7 +36,7 @@ related:
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 73
+    quality: 74
     images:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200225&t=2&i=1495203233&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG1O1NE"
         width: 817
@@ -54,6 +54,21 @@ related:
       - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
         width: 1200
         height: 630
+  - title: "Linden self-driving shuttle out of service after woman said she was thrown from seat"
+    excerpt: "COLUMBUS (WCMH) — The Linden self-driving shuttle is out of operation after a person fell on that shuttle just yesterday. Since this shuttle has been put into action on Feb. 5, Smart Columbus has recorded around 50 people riding the shuttle around the Linden area and no problems. Both of the shuttles are sitting in a garage until shuttles ..."
+    publishedDateTime: 2020-02-22T00:21:00Z
+    webUrl: "https://www.nbc4i.com/news/local-news/linden-self-driving-shuttle-out-of-service-after-woman-said-she-was-thrown-from-seat/"
+    ampWebUrl: "https://www.nbc4i.com/news/local-news/linden-self-driving-shuttle-out-of-service-after-woman-said-she-was-thrown-from-seat/amp/"
+    cdnAmpWebUrl: "https://www-nbc4i-com.cdn.ampproject.org/c/s/www.nbc4i.com/news/local-news/linden-self-driving-shuttle-out-of-service-after-woman-said-she-was-thrown-from-seat/amp/"
+    type: article
+    provider:
+      name: NBC4i
+      domain: nbc4i.com
+    quality: 52
+    images:
+      - url: "https://www.nbc4i.com/wp-content/uploads/sites/18/2020/02/Shuttle.jpg?w=1280&h=720&crop=1"
+        width: 1280
+        height: 720
   - title: "Smart Columbus halts self-driving shuttle test after malfunction"
     excerpt: "Smart Columbus has put the brakes on its two self-driving shuttles in Linden after one unexpectedly stopped in the middle of a route and a woman slipped from her seat on to the floor. The shuttle had just left the Douglas Community Recreation Center on Windsor Avenue when it stopped on the street around noon Thursday, Smart Columbus spokeswoman ..."
     publishedDateTime: 2020-02-25T01:22:00Z
@@ -69,6 +84,15 @@ related:
       - url: "https://www.dispatch.com/apps/pbcsi.dll/bilde?Site=OH&Date=20200224&Category=NEWS&ArtNo=200229208&Ref=AR"
         width: 2000
         height: 1326
+  - title: "U.S. Agency Suspends Self-Driving Shuttle EasyMile Use in 10 U.S. States"
+    excerpt: "WASHINGTON (Reuters) - U.S. auto safety regulators said on Tuesday they had ordered a suspension of passenger operations for 16 autonomous shuttles operated by French-based EasyMile after a passenger was injured in an unexplained braking incident."
+    publishedDateTime: 2020-02-25T21:22:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2020-02-25/us-agency-suspends-self-driving-shuttle-easymile-use-in-10-us-states"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 33
   - title: "Beep Inc. making noise with self-driving shuttles"
     excerpt: "In an industry endlessly fascinated with the companies creating the self-driving future, Beep Inc. often registers not a peep. The company does not write its own code. It does not develop its own self-driving stack. Nor does it manufacture vehicles. Nor host a platform that matches riders and drivers. Beep is a pure fleet operator and content ..."
     publishedDateTime: 2020-02-24T05:00:00Z
@@ -120,6 +144,6 @@ related:
         width: 792
         height: 416
 
-secured: "6FrpvaJO05htOfNW2j8DJ9ColoVbvmNRP+u1RA3Wt1JMMu6/le6YfLqzbcjmj1fRYPNcQ7/6mVS1jrCPAIi0gv3XlzovCLYSxL+cSri+BgXbsXG8V4iHLmQYmLwGXmUCCKF5Z3iCpLy8ucFmU1dGYw7qiEjLVzwWe5B4VeRp4zUDoAQongYvPkqg4z3V1TbJbJB3svv3YpenfjHTe0coAtj70RE/RZCMxsL8I3IKgHv+27iQSGd2Ux05kfCos1Q6Foy8zjmODDkD4lVii5BZwrG9EMvKx2xd2eg9bAJ0ilMzw9CE+xu7u0FP1GzxP0F4;j++HKRRio9aIfFdmYglTnA=="
+secured: "zS15IqLL/PCtOaHTGWqJqRXRw6Tp1VYjCbadYYgDtVr/Itm/ZQTC4VpgTPPIBsO5dMfyaq0wy7LXkzQxj0jXWtSLEkDEVd6U5/2964JE3U3pN8YD4vMj0Sgpr7qBdSdh+3eZSLe1baKx8spPBKEMEX8znk7OrSxavUrDMJ5wnm6LMrNGV/TfBWL0m5i+zk0sIjSguAtbhmMorgcsXtVdyTOx896Ea96ytlhFY4kf9PvIDmjP/LprA/cIotVNI3MtPRndX4uSnfTIfzcHZ0Gvvg1c/o3uD9vGQ0flKPRCX4DetS0UyvCjSpfI3tsajnU6VQRtJyR4U0Z/vRA04l0h1oN3cJPmrbWLi9vVGGIpf6U9yeISsJqrSIvJloClWh6qQ+m+UJiJiLhfwQORy1rpdJ5FAvv7u9mlGt4E/jY7wQiutYhQWMbv6O/PfrPkbn5H5yOkr1eY3+YDeLtmjcaG51QJxF61VFmLPmRO7KcwwwA=;qgZZcrQfrvrSG0EwQeWyzA=="
 ---
 

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.business2community.com/brandviews/zendesk/5-ways-financi
 cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/brandviews/zendesk/5-ways-financial-services-can-use-messaging-to-create-a-better-experience-02286280/amp"
 type: article
 quality: 23
-heat: 23
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,19 @@ topics:
   - AI in Finance
 
 related:
+  - title: "Deltec Bank, Bahamas explains how Fintech Creates Sweeping Changes for the Financial Services Industry"
+    excerpt: "Deltec Bank, Bahamas – “Fintech innovations through AI make it a more straightforward process to understand what exists in the generated data to create more reliable outcomes.” The most significant bottleneck for the financial services industry is the ability to process and understand a massive volume of transactional data. Before the ..."
+    publishedDateTime: 2020-02-26T00:01:00Z
+    webUrl: "https://virtual-strategy.com/2020/02/25/deltec-bank-bahamas-explains-how-fintech-creates-sweeping-changes-for-the-financial-services-industry/"
+    type: article
+    provider:
+      name: Virtual-Strategy
+      domain: virtual-strategy.com
+    quality: 38
+    images:
+      - url: "https://virtual-strategy.com/wp-content/plugins/all-in-one-seo-pack/images/default-user-image.png"
+        width: 512
+        height: 512
   - title: "Breach Clarity Launches Premium to Give Financial Services Firms Customer-Level Breach Risk Intelligence"
     excerpt: "Fraud prevention and detection technology firm Breach Clarity, which analyzes and scores every publicly reported U.S. data breach based on more than 1,000 factors, has developed a new machine learning platform for financial service providers to enable highly targeted protections for customers. Underpinned by a proprietary algorithm, the ..."
     publishedDateTime: 2020-02-19T15:28:00Z

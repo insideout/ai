@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-12T15:34:00Z
 webUrl: "https://www.tmcnet.com/usubmit/-data-science-platform-market-worth-1409-billion-2024-/2020/02/12/9096953.htm"
 type: article
 quality: 10
-heat: 10
+heat: -1
 published: false
 
 provider:
@@ -24,19 +24,15 @@ images:
     title: "Data Science Platform Market Worth $140.9 Billion by 2024 - Exclusive Report by MarketsandMarkets™"
 
 related:
-  - title: "Automatic Content Recognition Market Trends And Forecast 2020-2029| Arcsoft Inc, Mufin GmbH, Enswers Inc"
-    excerpt: "Segmentation by Technology: Acoustic digital video fingerprinting, Digital audio, video image watermarking, Optical character recognition, Speech recognition. Segmentation by Industry Vertical: Avionics, E-Commerce, Consumer Electronics, Media and Entertainment, Transportation and Logistics, Banking, Financial Services, and Insurance ..."
-    publishedDateTime: 2020-02-12T21:40:00Z
-    webUrl: "https://apnews.com/9d4f89708f92d191e5c9a10e51f0fd86"
+  - title: "Healthcare Chatbots Market worth $703.2 million by 2025"
+    excerpt: "Factors such as increasing optimum internet connectivity and rising adoption of smart devices, limited availability to council huge patient population, technology advancements in artificial intelligence, chatbots to reduce the healthcare cost, and increasing demand for virtual health assistance are driving the growth of the global market."
+    publishedDateTime: 2020-02-13T07:34:00Z
+    webUrl: "https://www.openpr.com/news/1930660/healthcare-chatbots-market-worth-703-2-million-by-2025"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 7
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      name: openpr.com
+      domain: openpr.com
+    quality: 19
 
 secured: "gLO9x0yaE03JlARMixtyW6OrU+OYDN3PYXChuvxdzENzIYhn6NZUzydJGhYpxGnJ7MnUTxlHUxfcXruiZ+hpg2bn+BTkU+Tun6Qp1JQLaUYnfEkV901ItUWmjImJkjsYNiXx8xgoVgRw8rXJn1cq1aZh6jCJvfNHnp8uWElzj7WX3GVp6aBjYtcANz3NCLfWu1f9cv7jMMoXU5qhEDBcThFp09iWCe1QjgFqqlCWZm6qGQLAcxXTacocdV0PIo5NgQYBZtIVI28Jvh4VNfIav4xLqFiVUPMD+kcL2GR0poB/iS9NeUmYIXwKDCJw5Wor;6s/QDUbBd3SrHZ2/WfTJ1Q=="
 ---

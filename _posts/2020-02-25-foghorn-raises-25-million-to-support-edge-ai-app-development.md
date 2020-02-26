@@ -90,6 +90,21 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/02/maxresdefault-4-e1582140205297.jpg?fit=800%2C400&strip=all"
         width: 800
         height: 400
+  - title: "Exclusive: Autonomous driving startup Pony.ai raises $500 million in Toyota-led funding- sources"
+    excerpt: "The Silicon Valley-based startup Pony.ai - co-founded by CEO James Peng, a former executive at China’s Baidu (BIDU.O), and chief technology officer Lou Tiancheng, a former Google (GOOGL.O) and Baidu engineer - is already testing autonomous vehicles in California, Beijing and Guangzhou. The firm is focusing on achieving “Level 4”, or fully ..."
+    publishedDateTime: 2020-02-26T01:08:00Z
+    webUrl: "https://uk.reuters.com/article/uk-toyota-pony-ai-autonomous-exclusive/exclusive-autonomous-driving-startup-pony-ai-raises-500-million-in-toyota-led-funding-sources-idUKKCN20K026"
+    ampWebUrl: "https://uk.mobile.reuters.com/article/amp/idUKKCN20K026"
+    cdnAmpWebUrl: "https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKKCN20K026"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 74
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200226&t=2&i=1495242339&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG1P02C"
+        width: 817
+        height: 545
   - title: "Karius raises $165 million to identify infectious diseases with AI"
     excerpt: "Approximately 9% of the U.S. population has been diagnosed with an infectious disease. Worldwide, these diseases are the second-leading cause of death after heart disease, and they’re responsible for more deaths annually than cancer. Mickey Kertesz and Tim Blauwkamp — who worked together at Moleculo, a startup spun out of Stanford that ..."
     publishedDateTime: 2020-02-24T13:56:00Z

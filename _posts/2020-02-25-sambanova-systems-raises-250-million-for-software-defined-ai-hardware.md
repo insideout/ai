@@ -90,6 +90,21 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/02/maxresdefault-4-e1582140205297.jpg?fit=800%2C400&strip=all"
         width: 800
         height: 400
+  - title: "Exclusive: Autonomous driving startup Pony.ai raises $500 million in Toyota-led funding- sources"
+    excerpt: "The Silicon Valley-based startup Pony.ai - co-founded by CEO James Peng, a former executive at China’s Baidu (BIDU.O), and chief technology officer Lou Tiancheng, a former Google (GOOGL.O) and Baidu engineer - is already testing autonomous vehicles in California, Beijing and Guangzhou. The firm is focusing on achieving “Level 4”, or fully ..."
+    publishedDateTime: 2020-02-26T01:08:00Z
+    webUrl: "https://uk.reuters.com/article/uk-toyota-pony-ai-autonomous-exclusive/exclusive-autonomous-driving-startup-pony-ai-raises-500-million-in-toyota-led-funding-sources-idUKKCN20K026"
+    ampWebUrl: "https://uk.mobile.reuters.com/article/amp/idUKKCN20K026"
+    cdnAmpWebUrl: "https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKKCN20K026"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 74
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200226&t=2&i=1495242339&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG1P02C"
+        width: 817
+        height: 545
   - title: "Karius raises $165 million to identify infectious diseases with AI"
     excerpt: "Approximately 9% of the U.S. population has been diagnosed with an infectious disease. Worldwide, these diseases are the second-leading cause of death after heart disease, and they’re responsible for more deaths annually than cancer. Mickey Kertesz and Tim Blauwkamp — who worked together at Moleculo, a startup spun out of Stanford that ..."
     publishedDateTime: 2020-02-24T13:56:00Z
@@ -117,6 +132,6 @@ related:
         width: 750
         height: 1125
 
-secured: "GZzNGtbmDZNOAd81msiliAjuwoR6K1tzFxmP5QDDZ8pu4OXTJUN+N5CC/G/2YvyMfsEsBgBoBj66wVrceoaoLO4m6YlQz4EaAlGgWFyFOZvZLWEaBJVNSi9tOSfGYafbgPvWEbATbGOVIJQPbAtPdI+AT1YtmXuqyU2aGP6k/gPUx+aotm4unan+H+5O6cF9u9x2hQma1BY2aLXWL8c40nyYZvglY3WHPUAXhSk8vXBJ3Hzrd/qF6WJoq0LtOqau1ZDFoP4IzZmCX0hCrK5aYUyp6RRTrZzRRhNpBAsf4SUZYiuoKpPb1uwHGtIXFcnw;4LmgkIrnIikh4x77Qavx5A=="
+secured: "czJJX7v96u16rj41PBWgk+cKlOgOAnGBjVsOcSJN/r3F+zd8hlyyfq0y7wfMFsJR8YHQfBmg43Hj4RbeU2A04/NtgZR845UmgWdFv1uWfNB+NVsYE7LWFbnusRGlyUFPkqPIw8b3wrzKRJvrdAbBy9Hsd8NARN75b76sv3d+/cRYVXJCTc24EhkBoQMjyFEM7Qc8iOaF7kHlGHKOsHvqCQgEUA7QOxRpuFjunAtW5g76G4bWkzGefDqdUC1L8nvpTlx3U8rnCfl2K8HH8PS+fqeQlbziERVQc1Wd2YQsi3pWFjccmrWRDszl2pDMeHYA+09Vcp5/DP09E05IwYHV9wPoWJE8JQk1y9dee+/IfLWezXRIoT4VdtgrNJaGKJk4BWXCdVR0m3R9kqWycMnBEnf4W3/XRX4OMcWkLkOQGI9Zl4SLeu/ybR2wB9LkgL+fUMCENwN7ggJTXDso+3Ged5S/3sflkqFaVgZxpYIBL/w=;NjG2Q1xGUU+yPfo4zrvRWg=="
 ---
 
