@@ -114,6 +114,17 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 32
+  - title: "AI in Education Market is Poised to Post $25.7 Billion Revenue by 2030: P&S Intelligence"
+    excerpt: "AI in Education Market Research Report: By Component (Solution, Service), Deployment (Cloud, On-Premises), Technology (Natural Language Processing, Machine Learning),"
+    publishedDateTime: 2020-02-26T05:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/02/g15413859/ai-in-education-market-is-poised-to-post-25-7-billion-revenue-by-2030-p-s-intelligence"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/15413859"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15413859"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 30
   - title: "Global Cyber Security Market Value Projected to Exceed $280 Billion by 2027"
     excerpt: "/PRNewswire/ -- The Global cyber security market value stood at USD 112.01 billion in 2019 and is projected to reach USD 281.74 billion by 2027, exhibiting"
     publishedDateTime: 2020-02-19T13:30:00Z

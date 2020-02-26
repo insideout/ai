@@ -2,350 +2,6 @@
   "page": 21,
   "value": [
     {
-      "path": "_posts/_archive/2020-01-29-getting-started-with-aws-deepracer-2020-edition.md",
-      "title": "Getting Started with AWS Deepracer (2020 edition)",
-      "excerpt": "Since the last time, I wrote a blog on how to win at Deepracer? a LOT has changed on the Deepracer Console. You could read that to know the very basics of Deepracer and Reinforcement Learning.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/vaibhav-malpanis-blog/getting-started-with-deepracer-2020-edition-a7896dd07c48",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-29T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/800/0*70d1mypOZTlJ0xsF.jpg",
-          "width": 800,
-          "height": 450,
-          "title": "Getting Started with AWS Deepracer (2020 edition)",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-29-google-looks-ahead-to-the-next-decade-of-ai-research.md",
-      "title": "Google looks ahead to the next decade of AI research",
-      "excerpt": "Google's already making strides on this front, with on-device translation services offered in 59 different languages. While Google and the industry at large have made significant strides in AI in the past few years, public awareness of the technology's potential drawbacks -- and corresponding regulation -- is only now beginning to catch up ...",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/google-looks-ahead-to-the-next-decade-of-ai-research/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-looks-ahead-to-the-next-decade-of-ai-research/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-looks-ahead-to-the-next-decade-of-ai-research/",
-      "publishedDateTime": "2020-01-29T12:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2016/07/21/0de0545b-b157-4463-ab44-1d34e8507596/thumbnail/1200x675/b8e69dc3d17f34f561a14663a253b409/twittersign-28.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Google looks ahead to the next decade of AI research",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-29-google-shows-off-far-flung-ai-research-projects-as-calls-for-regulation-mount.md",
-      "title": "Google shows off far-flung AI research projects as calls for regulation mount",
-      "excerpt": "\"Right now, one of the problems in machine learning is we tend to tackle each problem separately,\" said head of Google AI Jeff Dean at Google's San Francisco offices Tuesday.",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2020/01/29/google-ai-research-jeff-dean-touts-dkitty-retinal-scan-for-anemia.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/01/29/google-ai-research-jeff-dean-touts-dkitty-retinal-scan-for-anemia.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/29/google-ai-research-jeff-dean-touts-dkitty-retinal-scan-for-anemia.html",
-      "publishedDateTime": "2020-01-29T10:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/104888713-Handout_Google_DeepMind_Jeff_Dean_Future_of_Go_Summit_2017.jpg?v=1529476983",
-          "width": 1200,
-          "height": 800,
-          "title": "Google shows off far-flung AI research projects as calls for regulation mount",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-29-google-translate-app-to-transcribe-and-translate-in-real-time.md",
-      "title": "Google Translate App to Transcribe and Translate in Real Time",
-      "excerpt": "As CNET reports, Google was showing off a number of its AI projects earlier this week in San Francisco. One of them is a new feature heading to the Google Translate app a few months from now which allows a conversation to be transcribed in real-time while simultaneously being translated into another language. From a practical point of view it ...",
-      "heat": 114,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.entrepreneur.com/article/345665",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/345665",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/345665",
-      "publishedDateTime": "2020-01-29T08:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/20200129163936-google-translate.jpeg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": "Google Translate App to Transcribe and Translate in Real Time",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-29-googles-next-virtual-assistant-could-chat-your-ear-off-on-just-about-any-topic.md",
-      "title": "Google’s next virtual assistant could chat your ear off on just about any topic",
-      "excerpt": "Google today shared what it has been up to, and in a published paper, details a “human-like” chatbot called Meena that can “engage in conversation on any topic.” Meena, unlike its peers such as Google’s own Assistant ... virtual human. Google’s Meena likely won’t make it to your devices anytime soon. But it’s that clear in the ...",
-      "heat": 158,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.digitaltrends.com/cool-tech/google-meena-chatbot-research/",
-      "ampWebUrl": "https://www.digitaltrends.com/cool-tech/google-meena-chatbot-research/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/google-meena-chatbot-research/?amp",
-      "publishedDateTime": "2020-01-29T04:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-29-here-are-the-7-biggest-fintech-trends-to-watch-in-2020-according-to-a-centana-growth-partners-exec.md",
-      "title": "Here are the 7 biggest fintech trends to watch in 2020, according to a Centana Growth Partners exec",
-      "excerpt": "Alfieri, one of Business Insider's 2019 Rising Stars of Wall Street, lays out the biggest themes to watch for fintech in 2020.",
-      "heat": 70,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/centana-growth-partners-exec-gives-outlook-for-fintech-2020-1",
-      "ampWebUrl": "https://www.businessinsider.com/centana-growth-partners-exec-gives-outlook-for-fintech-2020-1?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/centana-growth-partners-exec-gives-outlook-for-fintech-2020-1?amp",
-      "publishedDateTime": "2020-01-29T11:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5de57a1efd9db2771d15a925?width=750&format=jpeg&auto=webp",
-          "width": 750,
-          "height": 563,
-          "title": "Here are the 7 biggest fintech trends to watch in 2020, according to a Centana Growth Partners exec",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-29-house-ethics-committee-warns-lawmakers-against-posting-deepfakes.md",
-      "title": "House ethics committee warns lawmakers against posting deepfakes",
-      "excerpt": "The House Ethics Committee is advising lawmakers against posting manipulated videos and photos on their social media accounts, warning they could face repercussions for tweets and Facebook posts that",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thehill.com/policy/technology/480564-house-ethics-committee-warns-lawmakers-against-posting-deepfakes",
-      "ampWebUrl": "https://thehill.com/policy/technology/480564-house-ethics-committee-warns-lawmakers-against-posting-deepfakes?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/480564-house-ethics-committee-warns-lawmakers-against-posting-deepfakes?amp",
-      "publishedDateTime": "2020-01-29T13:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/article_images/congressional_ethics_oce_getty.jpg",
-          "width": 980,
-          "height": 551,
-          "title": "House ethics committee warns lawmakers against posting deepfakes",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-29-how-traditional-companies-can-utilize-ai-and-machine-learning-to-build-better-products.md",
-      "title": "How Traditional Companies Can Utilize AI And Machine Learning To Build Better Products",
-      "excerpt": "The good news is that the same machine learning technologies utilized within these large organizations are offered to the general public by various providers, such as AWS, Google Cloud Platform and Azure — for a fee, of course. At AWS re:Invent 2019, there was a clear, overarching theme: machine learning. And not just machine learning ...",
-      "heat": 98,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/29/how-traditional-companies-can-utilize-ai-and-machine-learning-to-build-better-products/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/29/how-traditional-companies-can-utilize-ai-and-machine-learning-to-build-better-products/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/29/how-traditional-companies-can-utilize-ai-and-machine-learning-to-build-better-products/amp/",
-      "publishedDateTime": "2020-01-29T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1165431212/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 474,
-          "title": "How Traditional Companies Can Utilize AI And Machine Learning To Build Better Products",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-01-29-in-coronavirus-response-ai-is-becoming-a-useful-tool-in-a-global-outbreak-data-experts-say.md",
       "title": "In coronavirus response, AI is becoming a useful tool in a global outbreak, data experts say",
       "excerpt": "A version of this story appeared in STAT ... expert epidemiologists. But for the first time in a global outbreak, it is becoming a useful tool in efforts to monitor and respond to the crisis, according to health data specialists. In prior outbreaks, AI ...",
@@ -739,51 +395,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-29-object-recognition-is-the-answer-heres-why.md",
-      "title": "Object Recognition Is The Answer, Here’s Why",
-      "excerpt": "More specifically, the convergence of Object Recognition, Machine Vision, and Neural Networks enables machines to see and understand what it is they are seeing. For sure, there are specific use ...",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/hodfleishman/2020/01/29/object-recognition-is-the-answer-heres-why/",
-      "ampWebUrl": "https://www.forbes.com/sites/hodfleishman/2020/01/29/object-recognition-is-the-answer-heres-why/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hodfleishman/2020/01/29/object-recognition-is-the-answer-heres-why/amp/",
-      "publishedDateTime": "2020-01-29T11:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F483146942%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Object Recognition Is The Answer, Here’s Why",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     },
     {
@@ -1865,52 +1476,6 @@
       ]
     },
     {
-      "path": "_posts/_archive/2020-01-30-free-ai-developer-app-ibms-new-tool-can-label-objects-in-videos-for-you.md",
-      "title": "Free AI developer app: IBM's new tool can label objects in videos for you",
-      "excerpt": "IBM estimates it takes 200 to 500 samples of hand-labeled images for an AI object-recognition model to detect a specific object. SEE: How to implement AI and machine learning (ZDNet special report ...",
-      "heat": 90,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/free-ai-developer-app-ibms-new-tool-can-label-objects-in-videos-for-you/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/free-ai-developer-app-ibms-new-tool-can-label-objects-in-videos-for-you/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/free-ai-developer-app-ibms-new-tool-can-label-objects-in-videos-for-you/",
-      "publishedDateTime": "2020-01-30T07:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2019/05/15/0f3f7afe-160c-451d-babe-17ed14a1c12a/thumbnail/1200x675/b87d99aee9c8455f3ae1be92387d7290/cloud-computing-and-ai-can-ibm-finally-c-5cd59307fe727300c4b89bff-1-may-15-2019-11-42-48-poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Free AI developer app: IBM's new tool can label objects in videos for you",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision",
-        "Google AI"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-01-30-google-ai-chief-the-promise-of-multi-modal-learning.md",
       "title": "Google AI chief: The promise of multi-modal learning",
       "excerpt": "Google's Jeff Dean explains multi-modal learning and why it's the next big challenge for AI researchers. Read more: https://zd.net/2RWOWVq",
@@ -2132,6 +1697,416 @@
         "AI",
         "Machine Learning",
         "Google AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-30-lawmakers-debate-whether-to-limit-how-law-enforcement-uses-facial-recognition-technology.md",
+      "title": "Lawmakers debate whether to limit how law enforcement uses facial recognition technology",
+      "excerpt": "ST. PAUL, Minn. (FOX 9) - Minnesota lawmakers will debate Thursday whether to limit how law enforcement uses facial recognition technology. Police are already using facial recognition to scan mug shots and even security footage for suspects, but it is also causing concerns over digital privacy. A Senate committee is holding a hearing ...",
+      "heat": 100,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fox9.com/news/lawmakers-debate-whether-to-limit-how-law-enforcement-uses-facial-recognition-technology",
+      "ampWebUrl": "https://www.fox9.com/news/lawmakers-debate-whether-to-limit-how-law-enforcement-uses-facial-recognition-technology.amp",
+      "cdnAmpWebUrl": "https://www-fox9-com.cdn.ampproject.org/c/s/www.fox9.com/news/lawmakers-debate-whether-to-limit-how-law-enforcement-uses-facial-recognition-technology.amp",
+      "publishedDateTime": "2020-01-30T08:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox 9",
+        "domain": "fox9.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2020/01/932/470/facial-recognition-technology.jpg?ve=1&tl=1",
+          "width": 932,
+          "height": 470,
+          "title": "Lawmakers debate whether to limit how law enforcement uses facial recognition technology",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-30-microsoft-azure-ai-the-right-platform-for-your-machine-learning-ambition.md",
+      "title": "Microsoft Azure AI — the right platform for your machine learning ambition?",
+      "excerpt": "The core product is Azure Machine Learning, including the ML Studio, which is intended to provide a complete service suite for data scientists and machine learning engineers. As always ...",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/appanion/microsoft-azure-ai-the-right-platform-for-your-machine-learning-ambition-1da94d260abc",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-30T01:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1024/1*TwU76v22s7tRfiLvXKapUQ.png",
+          "width": 1024,
+          "height": 769,
+          "title": "Microsoft Azure AI — the right platform for your machine learning ambition?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-30-neuromorphic-chip-maker-takes-aim-at-the-edge.md",
+      "title": "Neuromorphic Chip Maker Takes Aim At The Edge",
+      "excerpt": "they provide a critical capability for the kinds of AI applications commonly encountered in edge environments. Specific application areas being targeted include embedded vision, embedded audio, automated driving (LiDAR, RADAR), cybersecurity, and industrial IoT. The addition of the CNN capability did, however, push the company’s chip launch ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nextplatform.com/2020/01/30/neuromorphic-chip-maker-takes-aim-at-the-edge/",
+      "ampWebUrl": "https://www.nextplatform.com/2020/01/30/neuromorphic-chip-maker-takes-aim-at-the-edge/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/01/30/neuromorphic-chip-maker-takes-aim-at-the-edge/amp/",
+      "publishedDateTime": "2020-01-30T10:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/brainchip-akida.jpg",
+          "width": 1799,
+          "height": 863,
+          "title": "Neuromorphic Chip Maker Takes Aim At The Edge",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-30-one-day-left-for-early-bird-tickets-to-tc-sessions-robotics-ai-2020.md",
+      "title": "One day left for early-bird tickets to TC Sessions: Robotics + AI 2020",
+      "excerpt": "So if you love robots and machine learning, why spend more on your ticket to TC Sessions: Robotics + AI 2020? Prices go up on January 31, which means you have just one day left to buy an early-bird ticket. You’ll save a tidy $150 in the process. Sweet! On March 3, roughly 1,500 attendees will spend the day delving into the future of robots ...",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/01/30/one-day-left-for-early-bird-tickets-to-tc-sessions-robotics-ai-2020/",
+      "ampWebUrl": "https://techcrunch.com/2020/01/30/one-day-left-for-early-bird-tickets-to-tc-sessions-robotics-ai-2020/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/30/one-day-left-for-early-bird-tickets-to-tc-sessions-robotics-ai-2020/amp/",
+      "publishedDateTime": "2020-01-30T09:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/01/1day_countdown.png?w=1024",
+          "width": 1024,
+          "height": 562,
+          "title": "One day left for early-bird tickets to TC Sessions: Robotics + AI 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-30-peta-demands-groundhog-days-punxsutawney-phil-be-replaced-by-ai-robot.md",
+      "title": "PETA Demands Groundhog Day's Punxsutawney Phil Be Replaced by AI Robot",
+      "excerpt": "The organization suggests \"an animatronic groundhog with artificial intelligence\" to predict the end of winter. PETA is calling for Punxsutawney Phil to be retired and replaced by a robot ahead of Groundhogs Day on Sunday. The animal rights organization wrote a letter to the Punxsutawney Groundhog Club urging the the small town in Pennsylvania ...",
+      "heat": 154,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://toofab.com/2020/01/30/peta-demands-groundhog-days-punxsutawney-phil-be-replaced-by-ai-robot/",
+      "ampWebUrl": "https://amp.toofab.com/2020/01/30/peta-demands-groundhog-days-punxsutawney-phil-be-replaced-by-ai-robot/",
+      "cdnAmpWebUrl": "https://amp-toofab-com.cdn.ampproject.org/c/s/amp.toofab.com/2020/01/30/peta-demands-groundhog-days-punxsutawney-phil-be-replaced-by-ai-robot/",
+      "publishedDateTime": "2020-01-30T08:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TooFab",
+        "domain": "toofab.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://toofab.akamaized.net/2020/01/30/groundhog-day-main-getty-1200x630.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "PETA Demands Groundhog Day's Punxsutawney Phil Be Replaced by AI Robot",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-30-peta-wants-to-replace-punxsutawney-phil-with-an-animatronic-ai.md",
+      "title": "PETA wants to replace Punxsutawney Phil with an animatronic AI",
+      "excerpt": "When we imagine the future of artificial intelligence, we tend to think of the technology making most human jobs obsolete. But if PETA has its way, an AI could also take over for the world's most famous groundhog, Punxsutawney Phil. In a letter signed by PETA founder and president Ingrid Newkirk, the organization calls on the Punxsutawney ...",
+      "heat": 107,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/2020/01/30/peta-replace-punxsutawney-phil-with-ai/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-30T10:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=1200%2C630&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-01%252F9f4006f0-438b-11ea-bdef-51a7d251189a%26client%3Da1acac3e1b3290917d92%26signature%3D37fd7a74081041878e390c3019f83230b1221166&client=amp-blogside-v2&signature=9048b5352ceee474a101d8f7c499c40859254e35",
+          "width": 1200,
+          "height": 630,
+          "title": "PETA wants to replace Punxsutawney Phil with an animatronic AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-30-punxsutawney-phil-should-be-replaced-with-ai-groundhog-says-peta.md",
+      "title": "Punxsutawney Phil should be replaced with AI groundhog, says PETA",
+      "excerpt": "Instead, says the organization, Punxsutawney Phil should be replaced with an animatronic groundhog that uses AI to actually predict the weather. “Times change. Traditions evolve. It’s long overdue for Phil to be retired,” PETA president and founder Ingrid Newkirk, wrote in a letter to the The Punxsutawney Groundhog Club. “By creating an ...",
+      "heat": 179,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theverge.com/2020/1/30/21114868/punxsutawney-phil-replaced-ai-animatronic-groundhog-says-peta",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/1/30/21114868/punxsutawney-phil-replaced-ai-animatronic-groundhog-says-peta",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/30/21114868/punxsutawney-phil-replaced-ai-animatronic-groundhog-says-peta",
+      "publishedDateTime": "2020-01-30T02:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/9HNbKTpxEfhl6QnFewwKN7aJ2Ug=/0x0:3000x2000/1400x933/filters:focal(1260x760:1740x1240):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66218730/1092678740.jpg.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": "Punxsutawney Phil should be replaced with AI groundhog, says PETA",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-30-science-park-unveils-new-facilities-to-boost-ai-and-robotics-rd.md",
+      "title": "Science Park unveils new facilities to boost AI and robotics R&D",
+      "excerpt": "From now on, artificial intelligence and robotics (AIR) developers are able to use the state-of-the-art facilities provided by the Hong Kong Science and Technology Parks Corporation (HKSTP) to develop proof-of-concept (PoC) projects and fabricate functional prototypes. On January 20, HKSTP unveiled the AI PLUG and Robotics Catalysing Centre ...",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scmp.com/presented/tech/topics/ai-plug-and-robotics-catalysing-centre/article/3048053/science-park-unveils",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-29T18:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/2020/01/29/hero.jpg?itok=AfFlwyT4",
+          "width": 1200,
+          "height": 630,
+          "title": "Science Park unveils new facilities to boost AI and robotics R&D",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-30-self-driving-waymo-minivans-will-assist-ups-with-deliveries.md",
+      "title": "Self-driving Waymo minivans will assist UPS with deliveries",
+      "excerpt": "It's not just people who get to experience self-driving minivans in the Phoenix area. On Wednesday, Google spin-off company Waymo announced a partnership with UPS, the package delivery service. Soon, Waymo's self-driving Chrysler Pacifica minivans will be moving packages around instead of humans. The autonomous driving company is more than a ...",
+      "heat": 209,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://mashable.com/article/waymo-ups-autonomous-delivery/",
+      "ampWebUrl": "https://mashable.com/article/waymo-ups-autonomous-delivery.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/waymo-ups-autonomous-delivery.amp",
+      "publishedDateTime": "2020-01-29T16:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F01%252F29%252F92%252F1adb436cf38e4b8ba6ab5feee3237afa.7da77.jpg%252F1200x630.jpg?signature=xF6AUmM-vbSssyr5JnsUmU94XQM=",
+          "width": 1200,
+          "height": 630,
+          "title": "Self-driving Waymo minivans will assist UPS with deliveries",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-30-the-robots-are-coming-prepare-for-trouble.md",
+      "title": "The Robots Are Coming. Prepare for Trouble.",
+      "excerpt": "It’s about politics and economic fairness. Whether the pain and the benefits of artificial intelligence are equitably distributed — and whether the turmoil that is still to come will be viewed ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/2020/01/30/business/artificial-intelligence-robots-retail.html",
+      "ampWebUrl": "https://www.nytimes.com/2020/01/30/business/artificial-intelligence-robots-retail.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/01/30/business/artificial-intelligence-robots-retail.amp.html",
+      "publishedDateTime": "2020-01-30T02:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/01/31/business/31VIEW_GIF/31VIEW_GIF-facebookJumbo-v2.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": "The Robots Are Coming. Prepare for Trouble.",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

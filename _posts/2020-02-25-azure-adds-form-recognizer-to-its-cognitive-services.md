@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-25T16:07:00Z
 webUrl: "https://www.infoworld.com/article/3528784/azure-adds-form-recognizer-to-its-cognitive-services.html"
 type: article
 quality: 84
-heat: 194
+heat: 204
 published: true
 
 provider:
@@ -108,6 +108,19 @@ related:
       name: Engadget
       domain: engadget.com
     quality: 51
+  - title: "Move your Azure Cognitive Search service to another Azure region"
+    excerpt: "To move your Azure Cognitive Service account from one region to another ... Verify your service status in the new region Clean up resources in the source region. Ensure that the services and features that your account uses are supported in the target region. When you move your search service to the new region, you will need to move your ..."
+    publishedDateTime: 2020-02-26T05:33:00Z
+    webUrl: "https://docs.microsoft.com/en-us/azure/search/search-howto-move-across-regions"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 39
+    images:
+      - url: "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png"
+        width: 400
+        height: 400
   - title: "Facebook pays users for their voice recordings to improve speech recognition tech"
     excerpt: "After it was caught in the act of secretly transcribing voice recordings without user consent, Facebook is officially upgrading its speech recognition technology and will start paying users for their voice recordings, writes the Verge. The social network announced it was starting a program called “Pronunciations” within Viewpoints ..."
     publishedDateTime: 2020-02-24T21:53:00Z

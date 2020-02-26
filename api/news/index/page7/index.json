@@ -2,140 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_posts/2020-02-24-choosing-between-rule-based-bots-and-ai-bots.md",
-      "title": "Choosing Between Rule-Based Bots And AI Bots",
-      "excerpt": "Chatbot success stories are inspiring companies to adopt bots for customer service purposes. However, the main question to be considered before adopting bots is whether to go with rule-based bots or AI bots.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/23/choosing-between-rule-based-bots-and-ai-bots/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/23/choosing-between-rule-based-bots-and-ai-bots/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/02/23/choosing-between-rule-based-bots-and-ai-bots/amp/",
-      "publishedDateTime": "2020-02-23T16:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x284/https://specials-images.forbesimg.com/imageserve/5e4031e98b6cf300071e3eb8/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 284,
-          "title": "Choosing Between Rule-Based Bots And AI Bots",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-24-clever-browser-tool-erases-people-from-live-webcam-feeds-in-real-time.md",
-      "title": "Clever Browser Tool Erases People From Live Webcam Feeds in Real Time",
-      "excerpt": "Mayes is a Google web engineer who developed his Disappearing-People tool using Javascript and TensorFlow, which is Google’s free, open source software library that allows the terrifying potential of artificial intelligence and deep learning to be applied to less terrifying applications. In this case, the neural network works to determine ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://gizmodo.com/clever-browser-tool-erases-people-from-live-webcam-feed-1841886899",
-      "ampWebUrl": "https://gizmodo.com/clever-browser-tool-erases-people-from-live-webcam-feed-1841886899/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/clever-browser-tool-erases-people-from-live-webcam-feed-1841886899/amp",
-      "publishedDateTime": "2020-02-24T15:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/s--kY9EtKmN--/c_scale,f_auto,fl_progressive,q_80,w_800/rn8juxshvtinyw3oh5te.jpg",
-          "width": 800,
-          "height": 450,
-          "title": "Clever Browser Tool Erases People From Live Webcam Feeds in Real Time",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-24-crucial-oversight-needed-for-police-ai-use.md",
-      "title": "\"Crucial\" oversight needed for police AI use",
-      "excerpt": "A report looking into police use of AI and data-driven technologies has called for urgent national guidance to ... RUSI was commissioned to conduct an independent study into English and Welsh police use of data analytics by the Centre for Data Ethics and Innovation (CDEI). Its focus was on algorithmic bias with a primary focus to help CDEI's ...",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itpro.co.uk/data-insights/big-data-analytics/354841/crucial-oversight-needed-for-police-ai-use",
-      "ampWebUrl": "https://www.itpro.co.uk/data-insights/big-data-analytics/354841/crucial-oversight-needed-for-police-ai-use?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/data-insights/big-data-analytics/354841/crucial-oversight-needed-for-police-ai-use?amp",
-      "publishedDateTime": "2020-02-24T07:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/v1582538868/itpro/Police_officers.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": "\"Crucial\" oversight needed for police AI use",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
       "path": "_posts/2020-02-24-dubai-set-to-witness-professional-interaction-with-humanoid-robot-sophia.md",
       "title": "Dubai set to witness professional interaction with humanoid robot Sophia",
       "excerpt": "“As a robot myself, I believe that data is the key to making smart decisions. With enough data, AI can be used to evaluate potential risk factors and prevent problems before they start.” The UAE is the only country in the world to have a Ministry of Artificial Intelligence. When she was asked to suggest as to what should it do to be a ...",
@@ -644,7 +510,7 @@
       "path": "_posts/2020-02-24-met-police-chief-facial-recognition-technology-critics-are-ill-informed.md",
       "title": "Met police chief: facial recognition technology critics are ill-informed",
       "excerpt": "Cressida Dick defends tech after civil liberties groups raise fears over accuracy and privacy",
-      "heat": 488,
+      "heat": 498,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.theguardian.com/technology/2020/feb/24/met-police-chief-cressida-dick-facial-recognition-technology-critics-ill-informed",
@@ -1633,7 +1499,7 @@
       "path": "_posts/2020-02-25-azure-adds-form-recognizer-to-its-cognitive-services.md",
       "title": "Azure adds Form Recognizer to its Cognitive Services",
       "excerpt": "Microsoft’s Cognitive Services, powered by machine learning, are an easy way to add artificial intelligence to your apps, offering pay-as-you-go access to a selection of useful algorithms. Unlike many other Web services, they’re continuously evolving, improving as they ingest more and more labeled data. That’s an important difference ...",
-      "heat": 194,
+      "heat": 204,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.infoworld.com/article/3528784/azure-adds-form-recognizer-to-its-cognitive-services.html",
@@ -1895,7 +1761,7 @@
       "path": "_posts/2020-02-25-competing-in-the-age-of-ai-is-simpler-than-you-think.md",
       "title": "Competing In The Age Of AI Is Simpler Than You Think",
       "excerpt": "Artificial Intelligence is already fundamentally changing business and operations models, argue two Harvard Business School professors in a recent book. They show that it is simpler to implement than many expect.",
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.forbes.com/sites/sophiamatveeva/2020/02/25/competing-in-the-age-of-ai-is-simpler-than-you-think/",
@@ -2074,7 +1940,7 @@
       "path": "_posts/2020-02-25-gmail-is-catching-more-malicious-attachments-with-deep-learning.md",
       "title": "Gmail Is Catching More Malicious Attachments With Deep Learning",
       "excerpt": "And it's working. At the RSA security conference in San Francisco on Tuesday, Google's security and anti-abuse research lead Elie Bursztein will present findings on how the new deep learning scanner for documents is faring against the 300 billion attachments it has to process each week. It's challenging to tell the difference between legitimate ...",
-      "heat": 164,
+      "heat": 174,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.wired.com/story/gmail-catching-more-malicious-attachments-deep-learning/",
@@ -2159,6 +2025,125 @@
         "AI",
         "AI Hardware",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-25-ibm-watson-how-ai-is-transforming-the-supply-chain.md",
+      "title": "IBM Watson: how AI is transforming the supply chain",
+      "excerpt": "New technology such as AI, Big Data and machine learning is making life easier for industry executives as an ever-increasing number of companies begin to digitise their offerings. In order to stay ahead in a dynamic and continuously evolving industry, businesses must trial technology to increase efficiency. The technology giants, IBM Watson ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.supplychaindigital.com/technology/ibm-watson-how-ai-transforming-supply-chain",
+      "ampWebUrl": "https://www.supplychaindigital.com/technology/ibm-watson-how-ai-transforming-supply-chain?amp",
+      "cdnAmpWebUrl": "https://www-supplychaindigital-com.cdn.ampproject.org/c/s/www.supplychaindigital.com/technology/ibm-watson-how-ai-transforming-supply-chain?amp",
+      "publishedDateTime": "2020-02-25T10:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Supply Chain Digital",
+        "domain": "supplychaindigital.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "http://www.supplychaindigital.com/sites/default/files/styles/og_image/public/topic/image/GettyImages-1097225424_0.jpg?itok=C9V8WymX",
+          "width": 1200,
+          "height": 627,
+          "title": "IBM Watson: how AI is transforming the supply chain",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-25-its-time-to-take-self-driving-storage-out-for-a-spin.md",
+      "title": "It's Time To Take 'Self-Driving' Storage Out For A Spin",
+      "excerpt": "We have solidly embarked on the journey to the \"self-driving\" storage system: a fully autonomous system capable of adapting its behavior in response to changing workloads.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/25/its-time-to-take-self-driving-storage-out-for-a-spin/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/25/its-time-to-take-self-driving-storage-out-for-a-spin/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/25/its-time-to-take-self-driving-storage-out-for-a-spin/amp/",
+      "publishedDateTime": "2020-02-25T07:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F02%2Fa-26-2.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "It's Time To Take 'Self-Driving' Storage Out For A Spin",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-25-local-ai-firm-builds-speech-recognition-for-kinyarwanda.md",
+      "title": "Local AI firm builds speech recognition for Kinyarwanda",
+      "excerpt": "Digital Umuganda, a fully Rwandan artificial intelligence (AI) firm, is building an automatic speech and voice recognition infrastructure for Kinyarwanda in partnership with Rwanda Utility and Regulatory Authority (RURA). The technology is part of RURA’s joint initiative dubbed KinyaTech with a non-profit behind Firefox web-browser ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.newtimes.co.rw/daily/technology/local-ai-firm-builds-speech-recognition-for-kinyarwanda",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-25T05:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New Times",
+        "domain": "newtimes.co.rw",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.newtimes.co.rw/sites/default/files/main/articles/2020/02/20/voice-recog-devices-feature_1200x675_hero_011419_0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Local AI firm builds speech recognition for Kinyarwanda",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
       ]
     }
   ],

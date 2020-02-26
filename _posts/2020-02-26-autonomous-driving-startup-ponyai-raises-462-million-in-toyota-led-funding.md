@@ -1,167 +1,157 @@
 ---
 category: news
-title: "Autonomous driving startup Pony.ai raises $462 million in Toyota-led funding"
-excerpt: "The Silicon Valley-based startup Pony.ai - co-founded by CEO James Peng, a former executive at China’s Baidu, and chief technology officer Lou Tiancheng ... has been lagging rivals in bringing self-driving cars to market. It has taken a long view towards the technology, saying it will take decades for cars to drive themselves on roads."
-publishedDateTime: 2020-02-26T03:57:00Z
-webUrl: "https://uk.reuters.com/article/uk-toyota-pony-ai-autonomous/autonomous-driving-startup-pony-ai-raises-462-million-in-toyota-led-funding-idUKKCN20K0CT"
-ampWebUrl: "https://uk.mobile.reuters.com/article/amp/idUKKCN20K0CT"
-cdnAmpWebUrl: "https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKKCN20K0CT"
+title: "Autonomous Driving Startup Pony.ai Raises $462 Million in Toyota-Led Funding"
+excerpt: "Autonomous Driving Startup Pony.ai Raises $462 Million in Toyota-Led Funding HONG KONG/BEIJING (Reuters) - Autonomous driving firm Pony.ai said on Wednesday it has raised $462 million in its latest funding round,"
+publishedDateTime: 2020-02-26T04:47:00Z
+webUrl: "https://www.usnews.com/news/technology/articles/2020-02-25/autonomous-driving-startup-ponyai-raises-462-million-in-toyota-led-funding"
 type: article
-quality: 86
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI
-  - AI in Autos
-
-images:
-  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200226&t=2&i=1495295329&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG1P0A3"
-    width: 817
-    height: 545
-    title: "Autonomous driving startup Pony.ai raises $462 million in Toyota-led funding"
 
 related:
-  - title: "Ripcord raises $45 million to digitize paper records with robotics and AI"
-    excerpt: "In search of a solution five years ago, three entrepreneurs — NASA veteran Kim Lembo, former Apple senior engineering scientist Alex Fielding, and Kevin Hall — cofounded Ripcord, a startup developing a portfolio of robots that can digitize paper records. Fresh off a series B funding round, the Hayward, California-based company today ..."
-    publishedDateTime: 2020-02-25T16:37:00Z
-    webUrl: "https://venturebeat.com/2020/02/25/ripcord-raises-45-million-to-digitize-paper-records-with-robotics-and-ai/"
-    ampWebUrl: "https://venturebeat.com/2020/02/25/ripcord-raises-45-million-to-digitize-paper-records-with-robotics-and-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/25/ripcord-raises-45-million-to-digitize-paper-records-with-robotics-and-ai/amp/"
+  - title: "Toyota steers $400 million to self-driving startup Pony.ai"
+    excerpt: "With this new investment, their relationship will become even closer, with the automaker and the startup “co-developing” mobility products like “mobility services.” Pony.ai has been testing robot taxis in Beijing and Guangzhou since late 2018 as well as in Fremont and Irvine, California. The startup claims to be the first company to ..."
+    publishedDateTime: 2020-02-26T03:00:00Z
+    webUrl: "https://www.theverge.com/2020/2/25/21152817/toyota-pony-ai-self-driving-car-investment-valuation-china-silicon-valley"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/2/25/21152817/toyota-pony-ai-self-driving-car-investment-valuation-china-silicon-valley"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/25/21152817/toyota-pony-ai-self-driving-car-investment-valuation-china-silicon-valley"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 118
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2017/03/ripcord-free-your-records-e1582319474923.jpg?fit=1199%2C599&strip=all"
-        width: 1199
-        height: 599
-  - title: "FogHorn raises $25 million to support edge AI app development"
-    excerpt: "According to Deloitte, more than 750 million edge AI chips will be sold by year-end (up from a predicted 300 million in 2017), representing $2.6 billion in revenue. And by 2024, the number of chips sold could reach 1.5 billion in total. Sunnyvale, California-based FogHorn hopes to lead the charge. The company, which was cofounded by Abhi Sharma ..."
-    publishedDateTime: 2020-02-25T16:37:00Z
-    webUrl: "https://venturebeat.com/2020/02/25/foghorn-raises-25-million-to-support-edge-ai-app-development/"
-    ampWebUrl: "https://venturebeat.com/2020/02/25/foghorn-raises-25-million-to-support-edge-ai-app-development/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/25/foghorn-raises-25-million-to-support-edge-ai-app-development/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 91
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/02/f4c4e7ef-f32a-43c8-81f8-ccd46a578b31-e1582607532413.png?fit=1200%2C600&strip=all"
-        width: 1200
-        height: 600
-  - title: "SambaNova Systems raises $250 million for software-defined AI hardware"
-    excerpt: "The infrastructure required to handle AI workloads is often as complex as it is sprawling, but a cottage industry of startups has emerged whose focus is developing solutions for end customers. SambaNova Systems is one such startup — the Palo Alto, California-based firm, which was founded in 2017 by Rodrigo Liang and Stanford Professors Kunle ..."
-    publishedDateTime: 2020-02-25T23:30:00Z
-    webUrl: "https://venturebeat.com/2020/02/25/sambanova-systems-raises-250-million-for-software-defined-ai-hardware/"
-    ampWebUrl: "https://venturebeat.com/2020/02/25/sambanova-systems-raises-250-million-for-software-defined-ai-hardware/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/25/sambanova-systems-raises-250-million-for-software-defined-ai-hardware/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
+      name: The Verge
+      domain: theverge.com
     quality: 89
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/02/SambaNovaLogo_H_F.jpg?fit=1200%2C627&strip=all"
-        width: 1200
-        height: 627
-  - title: "L1ght raises $15 million for AI that protects children from online toxicity"
-    excerpt: "L1ght, a fledgling AI startup that wants to help technology companies combat online toxicity, bullying, and abuse, has raised $15 million in a seed round of funding from Mangrove Capital Partners, Tribeca Venture Partners, and Western Technology Investment. The company’s substantial seed funding comes as tech companies are struggling to ..."
-    publishedDateTime: 2020-02-25T12:02:00Z
-    webUrl: "https://venturebeat.com/2020/02/25/l1ght-raises-15-million-for-ai-that-protects-children-from-online-toxicity/"
-    ampWebUrl: "https://venturebeat.com/2020/02/25/l1ght-raises-15-million-for-ai-that-protects-children-from-online-toxicity/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/25/l1ght-raises-15-million-for-ai-that-protects-children-from-online-toxicity/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/02/GettyImages-940967998.jpg?fit=1590%2C893&strip=all"
-        width: 1590
-        height: 893
-  - title: "Revl raises $5.2 million to stitch together videos with AI"
-    excerpt: "Plus, users can remotely control the camera from up to 155 feet away using the app. Above: The Revl app. Revl isn’t the only startup applying AI and machine learning to video creation. Tel Aviv- and New York-based startup Wibbitz automatically converts news articles into short-form video, while Wochit analyzes text for keywords to piece ..."
-    publishedDateTime: 2020-02-25T16:31:00Z
-    webUrl: "https://venturebeat.com/2020/02/25/revl-raises-5-2-million-to-stitch-together-videos-with-ai/"
-    ampWebUrl: "https://venturebeat.com/2020/02/25/revl-raises-5-2-million-to-stitch-together-videos-with-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/25/revl-raises-5-2-million-to-stitch-together-videos-with-ai/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/02/maxresdefault-4-e1582140205297.jpg?fit=800%2C400&strip=all"
-        width: 800
-        height: 400
-  - title: "Driverless car startup Pony.ai raises $462 million at a $3 billion valuation"
-    excerpt: "In a sign that investors’ enthusiasm for driverless cars hasn’t dampened yet, Pony.ai today secured a whopping $462 million in fresh funding, $400 million of which came from Toyota. The capital infusion brings the Guangzhou- and Fremont, California-based startup’s total raised to about $800 million at a valuation north of $3 billion (up ..."
-    publishedDateTime: 2020-02-26T03:00:00Z
-    webUrl: "https://venturebeat.com/2020/02/25/driverless-car-startup-pony-ai-raises-462-million-at-a-3-billion-valuation/"
-    ampWebUrl: "https://venturebeat.com/2020/02/25/driverless-car-startup-pony-ai-raises-462-million-at-a-3-billion-valuation/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/25/driverless-car-startup-pony-ai-raises-462-million-at-a-3-billion-valuation/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 84
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/08/ad1de834-abf3-471e-b4cc-3408c731b4f4-e1566788588385.png?fit=1200%2C600&strip=all"
-        width: 1200
-        height: 600
-  - title: "Exclusive: Autonomous driving startup Pony.ai raises $500 million in Toyota-led funding- sources"
-    excerpt: "The Silicon Valley-based startup Pony.ai - co-founded by CEO James Peng, a former executive at China’s Baidu (BIDU.O), and chief technology officer Lou Tiancheng, a former Google (GOOGL.O) and Baidu engineer - is already testing autonomous vehicles in California, Beijing and Guangzhou. The firm is focusing on achieving “Level 4”, or fully ..."
-    publishedDateTime: 2020-02-26T01:08:00Z
-    webUrl: "https://uk.reuters.com/article/uk-toyota-pony-ai-autonomous-exclusive/exclusive-autonomous-driving-startup-pony-ai-raises-500-million-in-toyota-led-funding-sources-idUKKCN20K026"
-    ampWebUrl: "https://uk.mobile.reuters.com/article/amp/idUKKCN20K026"
-    cdnAmpWebUrl: "https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKKCN20K026"
+      - url: "https://cdn.vox-cdn.com/thumbor/fsANPi0bG8QdF_khCWvMci5SLag=/0x0:2720x1322/1400x933/filters:focal(1143x444:1577x878):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66375289/Photo1.0.png"
+        width: 1400
+        height: 933
+  - title: "UPDATE 1-Autonomous driving startup Pony.ai raises $462 mln in Toyota-led funding"
+    excerpt: "Autonomous driving firm Pony.ai said on Wednesday it has raised $462 million in its latest funding round, led by an investment by Japan’s largest automaker Toyota Motor Corp. Toyota invested around $400 million in the round,"
+    publishedDateTime: 2020-02-26T03:47:00Z
+    webUrl: "https://www.reuters.com/article/toyota-ponyai-autonomous/update-1-autonomous-driving-startup-pony-ai-raises-462-mln-in-toyota-led-funding-idUSL3N2AQ0M6"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL3N2AQ0M6"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL3N2AQ0M6"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 74
+    quality: 82
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200226&t=2&i=1495242339&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG1P02C"
-        width: 817
-        height: 545
-  - title: "Karius raises $165 million to identify infectious diseases with AI"
-    excerpt: "Approximately 9% of the U.S. population has been diagnosed with an infectious disease. Worldwide, these diseases are the second-leading cause of death after heart disease, and they’re responsible for more deaths annually than cancer. Mickey Kertesz and Tim Blauwkamp — who worked together at Moleculo, a startup spun out of Stanford that ..."
-    publishedDateTime: 2020-02-24T13:56:00Z
-    webUrl: "https://venturebeat.com/2020/02/24/karius-raises-165-million-to-identify-infectious-diseases-with-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/02/5bee2917-7134-4dc7-adae-38b0b9013ac7-e1582259412500.png?w=1200&#038;strip=all"
+      - url: "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png"
         width: 1200
-        height: 600
-  - title: "ABB and Covariant partner to deploy integrated AI robotic solutions"
-    excerpt: "ABB, one of the world’s leading supplier of industrial robots, and Silicon Valley AI start-up, Covariant, have formed a partnership to bring AI-enabled robotics solutions to market, starting with a fully autonomous warehouse order fulfilment solution. ABB says the partnership brings together two companies with a shared vision for robotics ..."
-    publishedDateTime: 2020-02-25T16:50:00Z
-    webUrl: "https://roboticsandautomationnews.com/2020/02/25/abb-and-covariant-partner-to-deploy-integrated-ai-robotic-solutions/30450/"
+        height: 630
+  - title: "EXCLUSIVE-Autonomous driving startup Pony.ai raises $500 mln in Toyota-led funding: sources"
+    excerpt: "The Silicon Valley-based startup Pony.ai - co-founded by CEO James Peng, a former executive at China's Baidu BIDU.O, and chief technology ... has been lagging rivals in bringing self-driving cars to market. It has taken a long view towards the technology ..."
+    publishedDateTime: 2020-02-26T01:19:00Z
+    webUrl: "https://www.nasdaq.com/articles/exclusive-autonomous-driving-startup-pony.ai-raises-%24500-mln-in-toyota-led-funding%3A"
+    ampWebUrl: "https://www.nasdaq.com/articles/exclusive-autonomous-driving-startup-pony.ai-raises-%24500-mln-in-toyota-led-funding%3A?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/exclusive-autonomous-driving-startup-pony.ai-raises-%24500-mln-in-toyota-led-funding%3A?amp"
     type: article
     provider:
-      name: Robotics & Automation News
-      domain: roboticsandautomationnews.com
-    quality: 54
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 79
     images:
-      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2020/02/abb-2020_02_19_8199-copy.jpg"
-        width: 750
-        height: 1125
+      - url: "https://www.nasdaq.com/sites/acquia.prod/files/2019-11-18T043046Z_1533163308_RC2W8D9ZM05M_RTRMADP_2_CHINA-AUTOS.JPG"
+        width: 640
+        height: 427
+  - title: "Toyota leads fundraising for Chinese self-driving startup Pony.ai"
+    excerpt: "HONG KONG -- Chinese self-driving startup Pony.ai has raised $462 million from Toyota Motor and other ... Pony.ai, founded in late 2016 by former engineers from Baidu and Google, is a front-runner among China's autonomous driving startups. The company's autonomous vehicles have racked up more than 1.5 million km in open road tests as of the ..."
+    publishedDateTime: 2020-02-26T03:01:00Z
+    webUrl: "https://asia.nikkei.com/Business/Automobiles/Toyota-leads-fundraising-for-Chinese-self-driving-startup-Pony.ai"
+    type: article
+    provider:
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 39
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fs3-ap-northeast-1.amazonaws.com%2Fpsh-ex-ftnikkei-3937bb4%2Fimages%2F9%2F4%2F3%2F7%2F22297349-2-eng-GB%2FCropped-156682855220190826N%20Pony%20ai%20autonomous%20car_Data.jpg?source=nar-cms&width=1024&height=512&fit=cover&gravity=faces"
+        width: 1024
+        height: 512
+  - title: "China’s Pony.ai nabs $400 million in new funding from Toyota"
+    excerpt: "Autonomous vehicle startup Pony.ai on Wednesday announced that it has raised $400 million in a funding round from Toyota Motor Corporation, the first-ever and biggest investment to date in a Chinese AV company by the Japanese auto giant. Why it matters: The latest investment is expected to help Pony.ai widen the gap between the company and its ..."
+    publishedDateTime: 2020-02-26T05:47:00Z
+    webUrl: "https://technode.com/2020/02/26/chinas-pony-ai-nabs-400-million-in-new-funding-from-toyota/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 37
+    images:
+      - url: "https://technode.com/wp-content/uploads/2020/02/technode.com-sjm-8934.jpg"
+        width: 1024
+        height: 683
+  - title: "Autonomous driving startup Pony.ai raises US$462mil in Toyota-led funding"
+    excerpt: "The Silicon Valley-based startup Pony.ai – co-founded by CEO James Peng, a former executive at China's Baidu, and chief technology officer Lou Tiancheng, a former Google and Baidu engineer – is already testing autonomous vehicles in California, Beijing and Guangzhou. The firm is focusing on achieving \"Level 4\", or fully autonomous standards ..."
+    publishedDateTime: 2020-02-26T05:01:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2020/02/26/autonomous-driving-startup-ponyai-raises-us462mil-in-toyota-led-funding"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 36
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2020/02/26/577344.JPG"
+        width: 1240
+        height: 826
+  - title: "Autonomous driving startup Pony.ai raises $500 mln in Toyota-led funding: sources"
+    excerpt: "Pony.ai, which has partnerships with automakers Hyundai and GAC, declined to comment. A Beijing-based spokesman for Toyota declined to comment. The investment by Toyota comes at a time when global car makers, technology firms, start-ups and investors – including Tesla, Alphabet Inc’s Waymo and Uber – are pouring capital into developing ..."
+    publishedDateTime: 2020-02-26T02:10:00Z
+    webUrl: "https://leaderpost.com/pmn/business-pmn/autonomous-driving-startup-pony-ai-raises-500-mln-in-toyota-led-funding-sources/wcm/e8b33f68-8509-497a-96b5-1f71753c3745"
+    ampWebUrl: "https://leaderpost.com/pmn/business-pmn/autonomous-driving-startup-pony-ai-raises-500-mln-in-toyota-led-funding-sources/wcm/e8b33f68-8509-497a-96b5-1f71753c3745/amp"
+    cdnAmpWebUrl: "https://leaderpost-com.cdn.ampproject.org/c/s/leaderpost.com/pmn/business-pmn/autonomous-driving-startup-pony-ai-raises-500-mln-in-toyota-led-funding-sources/wcm/e8b33f68-8509-497a-96b5-1f71753c3745/amp"
+    type: article
+    provider:
+      name: Leader-Post
+      domain: leaderpost.com
+    quality: 32
+  - title: "Autonomous driving startup Pony.ai raises US$500 million in Toyota-led funding: Sources"
+    excerpt: "Pony.ai, which has partnerships with automakers Hyundai and GAC, declined to comment. A Beijing-based spokesman for Toyota declined to comment. The investment by Toyota comes at a time when global car makers, technology firms, start-ups and investors - including Tesla, Alphabet Inc's Waymo and Uber - are pouring capital into developing self ..."
+    publishedDateTime: 2020-02-26T05:49:00Z
+    webUrl: "https://www.channelnewsasia.com/news/business/autonomous-driving-startup-pony-ai-raises-us-500-million-in-12471192"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 29
+    images:
+      - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/12471190/16x9/991/557/bc81125508ceccb37bf723591384bb1c/ph/staff-members-are-seen-at-the-halloween-decorated-reception-area-of-the-chinese-self-driving-startup-pony-ai-headquarters-in-guangzhou-1.jpg"
+        width: 991
+        height: 557
+  - title: "Exclusive: Autonomous driving startup Pony.ai raises US$500 million in Toyota-led funding - sources"
+    excerpt: "FILE PHOTO: Staff members are seen at the Halloween-decorated reception area of the Chinese self-driving startup Pony.ai headquarters in Guangzhou ... The Silicon Valley-based startup Pony.ai - co-founded by CEO James Peng, a former executive at China's Baidu, and chief technology officer Lou Tiancheng, a former Google and Baidu engineer ..."
+    publishedDateTime: 2020-02-26T02:19:00Z
+    webUrl: "https://www.channelnewsasia.com/news/business/exclusive--autonomous-driving-startup-pony-ai-raises-us-500-million-in-toyota-led-funding---sources-12471192"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 25
+    images:
+      - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/12471190/16x9/991/557/bc81125508ceccb37bf723591384bb1c/ph/staff-members-are-seen-at-the-halloween-decorated-reception-area-of-the-chinese-self-driving-startup-pony-ai-headquarters-in-guangzhou-1.jpg"
+        width: 991
+        height: 557
+  - title: "Toyota leads $500mn investment in autonomous driving startup Pony.ai: Report"
+    excerpt: "Pony.ai, which has partnerships with automakers Hyundai and GAC, declined to comment. A Beijing-based spokesman for Toyota declined to comment. The investment by Toyota comes at a time when global carmakers, technology firms, start-ups and investors - including Tesla, Alphabet Inc's Waymo and Uber - are pouring capital into developing self ..."
+    publishedDateTime: 2020-02-26T04:22:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/auto/toyota-leads-500mn-investment-in-autonomous-driving-startup-pony-ai-report-4977971.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 14
 
-secured: "1xqfcoeEJnfS6j34Ms4X3DJDWxOeYPsSLmfA3J9oQBwqEbz6XEBPNIwrz2qRiTQQKr6vvFepLWRbd4+n4G64LPQV2yw46uQTLNfULjoG9OP/OIci7UdAK2qfvMZ7+SDu2dC3RFfa4RbxY8VkV9eOyoVeNevF+Jp5wEalbRGyyEVuGMMASSX76kPpuh22PqEF65eWim0lFjwKatutVFMl07E0KAfY/9ZiP2NePDYP67R7x5yZlHahaABgSXwsiH2qpLxEKVNvcTUfB1POhMhr1MdHmd2k2D1c27s0Zd4OINnh4Su91MrK05VBKbcr2Mgr;djdziQZ2umlxdTuT9hqQrA=="
+secured: "ELsa6dAnSubHu1Jj6R1UyUfp3jFOZM976ukb1K12oI2zFvmW8IAe2bLSQDjOJCvuAvk1GcG+KeLUqfnKpr03GbZfT0bKNc7XN9mZBzxQXi/6C3NFqLOhjfVmPZznoblHgR2w8GIjM3XTR828nRWTQhzP6tTpgWetmgUV5N+6LzaNIVW+LX7w+NEfDPjdILwOGEgacVxO00i64GssnZWqoze9YJKtPmtxHFazI381Lyk0LO/ziV/4PNV2iMX+aKlpuCXrorjYDyRhhbJEONwHlixp41j+W2rAwFDYP3pLtnS/uzHpNu/vkCRpA/ZvDYbXSLnWkheahvcHCPJ3IdB8cmtKT7OxXFujJ6bOcPRIPCYwwK1Muenyb9o/H2xjjzf9Dqs3LkDGxprumCKmxBZHP9pZP+qDsKVxrggzebDUFX4fcARAFsGemHYDbeccGwocjL/WnLGawHqkhL24qLQohE5YblJTO2m+9yqoEDPmfiw=;XMvfjqhjWybIOu12DlR4Cw=="
 ---
 

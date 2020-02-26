@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-21T07:52:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-latest-advancements-and-technology-growth-2020-to-2026-2020-02-21"
 type: article
 quality: 74
-heat: 164
+heat: 174
 published: true
 
 provider:
@@ -37,6 +37,19 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "AI for Drug Discovery Market Growth Rate, Opportunities and Market Forecast to 2027"
+    excerpt: "The report covers the forecast and analysis of the AI for drug discovery market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million)."
+    publishedDateTime: 2020-02-18T07:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-for-drug-discovery-market-growth-rate-opportunities-and-market-forecast-to-2027-2020-02-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

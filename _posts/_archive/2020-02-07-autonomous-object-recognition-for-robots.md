@@ -26,12 +26,8 @@ related:
     provider:
       name: Medium
       domain: medium.com
-    quality: 61
-    images:
-      - url: "https://miro.medium.com/max/778/1*m9yobYKqtSe9paXDczs5IA.png"
-        width: 778
-        height: 1600
+    quality: 41
 
-secured: "JB5ifux/wKq8FcJgMQxf24NiCbinjv7XI4sBJt/m2BdrQIPYif69zPu5peiGxIU0ScnbVWBCGbWHhBeeXgCjPr/rkZBUkUrdZfPuMqSLpd0qRCiok10TSpxBwtOrL1p2dzwREkg+LagIyLCNSYf/juQwMZXA5/nnJhTHndnk8EmcpGWDF+zaoAFvVdH0c9ZZbsuRsKxuSLi/AY+YOzJxOZtEF8pt26FsfLl8GfSs2VLKo6qoLkL2Sq6msYbtR6KdOMXTUeaekCRb63WJ1zydbEOXteQyF9eb2vhwSh366/RaTWlhEYHzOmTOzX3FfXW1;h+FtDGH5D/mtxEU5sUzq2Q=="
+secured: "istCAO3Cm6dt30g2c8T0P1adBYyQmmxTWUo3D4/bfJhnsf0NPjgUPQVSNy630m6b55ztQ/NlHf+iJfxyqIAqbPmN7cPcp8RPxMc9oSOK0q7ZzkklNNeiGV2lhX2NwJR5M4Mnln7QozyHZeYcwqKTYk/ni20I8GH+Nq37j0Jhe0aPW2xmJA2Z/GPIz+dq/JaEMGiXPNji0gh4/sbkbL17HBzvwTPVn3Ztta/5tAin1JCb7S0urQAf6cbWrhR1XCWzqED2aHNUzwsDyNrTC/8fiLTsI8cVK5QPo+OJRgTTozVOOj71+VUaN3JZ1IuFwIqU;OemXeZaDcu+a4WToKqK4cg=="
 ---
 

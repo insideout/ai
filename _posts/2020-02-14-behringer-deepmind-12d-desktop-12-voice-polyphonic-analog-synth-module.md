@@ -27,15 +27,6 @@ related:
       name: Reverb.com
       domain: reverb.com
     quality: 19
-  - title: "Behringer DeepMind 6 37-Key 6-Voice Polyphonic Analog Synth"
-    excerpt: "This item is sold As-Described and cannot be returned unless it arrives in a condition different from how it was described or photographed. Items must be returned in original, as-shipped condition with all original packaging. I will ship with tracking to ..."
-    publishedDateTime: 2020-02-11T11:58:00Z
-    webUrl: "https://reverb.com/item/32084822-behringer-deepmind-6-37-key-6-voice-polyphonic-analog-synth"
-    type: article
-    provider:
-      name: Reverb.com
-      domain: reverb.com
-    quality: 19
   - title: "Behringer DeepMind 12 Polyphonic Analog Synth"
     excerpt: "This item is sold As-Described and cannot be returned unless it arrives in a condition different from how it was described or photographed. Items must be returned in original, as-shipped condition with all original packaging."
     publishedDateTime: 2020-02-14T02:25:00Z

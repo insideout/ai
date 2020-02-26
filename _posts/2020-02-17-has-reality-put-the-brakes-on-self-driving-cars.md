@@ -26,101 +26,47 @@ images:
     title: "Has reality put the brakes on self-driving cars?"
 
 related:
-  - title: "Aptiv’s self-driving cars have given 100,000 paid rides on the Lyft app"
-    excerpt: "What started out as a temporary pilot project to test a robotaxi service in Las Vegas has turned into a multi-year partnership between self-driving software company Aptiv and Lyft and a new milestone that suggests the operation is ramping up. The companies announced Tuesday that they’ve given 100,000 paid rides in Aptiv’s self-driving ..."
-    publishedDateTime: 2020-02-11T11:07:00Z
-    webUrl: "https://techcrunch.com/2020/02/11/aptivs-self-driving-cars-have-given-100000-paid-rides-on-the-lyft-app/"
-    ampWebUrl: "https://techcrunch.com/2020/02/11/aptivs-self-driving-cars-have-given-100000-paid-rides-on-the-lyft-app/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/11/aptivs-self-driving-cars-have-given-100000-paid-rides-on-the-lyft-app/amp/"
+  - title: "We still can’t agree how to regulate self-driving cars"
+    excerpt: "A quick recap in case you forgot: the Republican-controlled House of Representatives unanimously passed the SELF DRIVE Act in 2017, which would speed the adoption of self-driving cars and bar states from setting performance standards. But a complementary bill in the Senate, AV START, failed to pass after Democrats raised objections that it didn ..."
+    publishedDateTime: 2020-02-11T21:19:00Z
+    webUrl: "https://www.theverge.com/2020/2/11/21133389/house-energy-commerce-self-driving-car-hearing-bill-2020"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/2/11/21133389/house-energy-commerce-self-driving-car-hearing-bill-2020"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/11/21133389/house-energy-commerce-self-driving-car-hearing-bill-2020"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 189
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/02/aptiv-self-driving-car-technical-center.jpg?w=1024"
-        width: 1024
-        height: 576
-  - title: "Aptiv \"Self-Driving Vehicles\" Top 100,000 Rides In Las Vegas"
-    excerpt: "Waymo got a lot of media coverage for the December 2018 commercial launch of its automated ride-hailing service. But Waymo wasn’t the first company to open such a service to the general public and start charging for rides."
-    publishedDateTime: 2020-02-11T11:05:00Z
-    webUrl: "https://www.forbes.com/sites/samabuelsamid/2020/02/11/aptiv-self-driving-vehicles-top-100000-rides-in-las-vegas/"
-    ampWebUrl: "https://www.forbes.com/sites/samabuelsamid/2020/02/11/aptiv-self-driving-vehicles-top-100000-rides-in-las-vegas/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samabuelsamid/2020/02/11/aptiv-self-driving-vehicles-top-100000-rides-in-las-vegas/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
+      name: The Verge
+      domain: theverge.com
     quality: 74
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e41bec0a854780006b0f2a8%2F0x0.jpg"
+      - url: "https://cdn.vox-cdn.com/thumbor/10T-kTZJK2tlblwYeUppcBLmegw=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66295443/vpavic_191202_3827_0024.0.jpg"
+        width: 1400
+        height: 933
+  - title: "Congress looks to revive self-driving car legislation"
+    excerpt: "Want access to the top energy and environment news? Sign up for a free trial! Enter your email to register or log in. By signing up, you agree to receive E&E News email updates and offers. You also grant your consent to our data collection practices. We encourage you to review our Privacy and Data Practices Policy."
+    publishedDateTime: 2020-02-12T12:19:00Z
+    webUrl: "https://www.eenews.net/eedaily/2020/02/12/stories/1062327793"
+    type: article
+    provider:
+      name: E&E
+      domain: eenews.net
+    quality: 24
+    images:
+      - url: "https://www.eenews.net/image_assets/2020/02/image_asset_74141.jpg"
+        width: 938
+        height: 483
+  - title: "How should self-driving cars decide who to kill? by Mark Buchanan"
+    excerpt: "Not too long ago, tech enthusiasts were telling us that by 2020, we’d see self-driving cars hit the mainstream, with some 10 million on the roads. That turned out to be a wild overestimation. The actual number of vehicles in testing is thousands of times smaller, and they’re still driving mostly in controlled conditions. Companies have also ..."
+    publishedDateTime: 2020-02-18T05:00:00Z
+    webUrl: "https://www.pressofatlanticcity.com/opinion/commentary/how-should-self-driving-cars-decide-who-to-kill-by/article_6c1dbac7-3a51-5e99-bc84-8066769cbe28.html"
+    type: article
+    provider:
+      name: The Press of Atlantic City
+      domain: pressofatlanticcity.com
+    quality: 24
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/pressofatlanticcity.com/content/tncms/custom/image/bae1e730-3e34-11e6-9bc5-8f83ee7a0e54.jpg"
         width: 1200
-        height: 675
-  - title: "Aptiv’s self-driving cars have given Lyft passengers over 100,000 rides"
-    excerpt: "The two hit 5,000 rides sometime in August 2018 — in a matter of months — and by May 2019, Aptv’s self-driving BMW 5 Series cars equipped with lidar sensors, cameras, radars, and cameras had given 50,000 Lyft passenger rides. But that’s small potatoes compared with the two companies’ latest milestone. Today, Lyft and Aptiv announced ..."
-    publishedDateTime: 2020-02-11T11:00:00Z
-    webUrl: "https://venturebeat.com/2020/02/11/aptivs-self-driving-cars-have-given-lyft-passengers-over-100000-rides/"
-    ampWebUrl: "https://venturebeat.com/2020/02/11/aptivs-self-driving-cars-have-given-lyft-passengers-over-100000-rides/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/11/aptivs-self-driving-cars-have-given-lyft-passengers-over-100000-rides/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 74
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/02/APTIVvegas026-1100x734-1.jpeg?fit=1100%2C734&strip=all"
-        width: 1100
-        height: 734
-  - title: "Aptiv’s Self-Driving Vehicles Top 100,000 Rides In Las Vegas"
-    excerpt: "Waymo got a lot of media coverage for the December 2018 commercial launch of its automated ride-hailing service. But Waymo wasn’t the first company to open such a service to the general public and start charging for rides."
-    publishedDateTime: 2020-02-11T17:07:00Z
-    webUrl: "https://www.forbes.com/sites/samabuelsamid/2020/02/11/aptiv-self-driving-vehicles-top-100000-rides-in-las-vegas/"
-    ampWebUrl: "https://www.forbes.com/sites/samabuelsamid/2020/02/11/aptiv-self-driving-vehicles-top-100000-rides-in-las-vegas/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samabuelsamid/2020/02/11/aptiv-self-driving-vehicles-top-100000-rides-in-las-vegas/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e41bec0a854780006b0f2a8%2F0x0.jpg"
-        width: 1200
-        height: 675
-  - title: "US risks trailing China, others on self-driving cars, congresswoman warns"
-    excerpt: "While the benefits of self-driving cars are vast, she said, they will be transformational in a lot of ways. CLICK HERE TO READ MORE ON FOX BUSINESS “When you think about 37,000 individuals that were killed on our roadways last year largely due to human error, you think about the movement of goods and people, all the congestion in America."
-    publishedDateTime: 2020-02-13T22:18:00Z
-    webUrl: "https://www.foxbusiness.com/technology/us-china-autonomous-cathy-mcmorris-rodgers"
-    ampWebUrl: "https://www.foxbusiness.com/technology/us-china-autonomous-cathy-mcmorris-rodgers.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/us-china-autonomous-cathy-mcmorris-rodgers.amp"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 58
-    images:
-      - url: "http://media.foxbusiness.com/BrightCove/854081161001/202002/3442/854081161001_6132318472001_6132305520001-vs.jpg"
-        width: 1280
-        height: 720
-  - title: "What Lyft and Aptiv learned from 100,000 self-driving car trips"
-    excerpt: "Lyft and Aptiv’s partnership to develop self-driving cars for ridesharing has reached a major milestone. Aptiv cars operating on the Lyft network in Las Vegas have completed 100,000 trips. The two companies will not discuss scaling up the program, but said the Vegas deployment will serve as a “blueprint” for more widespread use of self ..."
-    publishedDateTime: 2020-02-11T10:00:00Z
-    webUrl: "https://www.digitaltrends.com/cars/lyft-and-aptiv-reach-100000-self-driving-car-rides-in-las-vegas/"
-    ampWebUrl: "https://www.digitaltrends.com/cars/lyft-and-aptiv-reach-100000-self-driving-car-rides-in-las-vegas/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/lyft-and-aptiv-reach-100000-self-driving-car-rides-in-las-vegas/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 54
-  - title: "How lidar makers are coping with slow progress of self-driving tech"
-    excerpt: "Experts and industry insiders not named Elon Musk see it as a key technology for self-driving cars. There are dozens of companies developing lidar technology, and each insists that its sensor is a cut above the rest. But while every lidar is above-average in the halls of CES, things are starting to look different in the real world. At least one ..."
-    publishedDateTime: 2020-02-11T11:45:00Z
-    webUrl: "https://arstechnica.com/cars/2020/02/whos-really-gaining-traction-in-the-hype-filled-lidar-industry/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 34
+        height: 630
 
 secured: "jb7GERDwDiCziZXbkAQfpOEAwWv1Er/SG0w7e3QvsLkUKzxeI+foSS1FNRXbbZHnEFgHdS73kxQWhcaPzQOrIdTUjmBH1raPhGEIrB6d1hwTctzQG5q9Ctp1Qx/N0dqFKAufpCeSgz71ALJbyMvewPyp3sH2r2nHuqSiNC9rkERQ+VMGWaaiVDeMG98TALz0PNAwl0l2A6X0MmRTAMjtzVX45uWojr5pMeD9PhfwYbnIOuLA5niiIEWFyc/ef0Ykg84ZQTHrjicG78/QJ9yf2bV3DswndDWJXLbOtxTj7IJsy7EL81ODsc7p9gONgNJXI5u7MGqSortX0qzkQh1F2BsnVds7FZW2GdaItNje0/4dIMm8Of2BP9TyIk+169Bd8JhTCMjY7Pe5DEMv3RaIkAr+5gqTdHSEzbt90LVZoIjb5UYoqRQuyy3XOLIXwc9gdjVPnauUhDGA5FEMdKENozmFRmcpO6mo7kp3vkyv2vc=;U62JdL9u0Vq6GD6qH4YYJQ=="
 ---

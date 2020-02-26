@@ -115,17 +115,6 @@ related:
       - url: "https://images.livemint.com/img/2020/02/21/600x338/eec966d0-429b-11ea-a33f-294bb1c02b8b_1582297443566_1582297525165.jpg"
         width: 600
         height: 338
-  - title: "Chinese firm working on facial recognition that can identify you under a mask"
-    excerpt: "These masks don’t do much, medically speaking, but it’s considered the polite thing to do. Now, let’s also say that the government there is notorious for widespread and unregulated use of facial-recognition technology as a way to both fight crime and to identify and silence political dissidents. This government has taken to banning face ..."
-    publishedDateTime: 2020-02-11T10:00:00Z
-    webUrl: "https://www.digitaltrends.com/news/china-megvii-facial-recognition-masks-coronvirus-hong-kong/"
-    ampWebUrl: "https://www.digitaltrends.com/news/china-megvii-facial-recognition-masks-coronvirus-hong-kong/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/china-megvii-facial-recognition-masks-coronvirus-hong-kong/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 66
   - title: "EU facial recognition rules, air quality satellite, whale earwax"
     excerpt: "Quartz’s interactive email for curious minds. Escape the stale news cycle with forgotten histories, surprising facts, and vital stats."
     publishedDateTime: 2020-02-19T06:25:00Z

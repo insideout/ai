@@ -39,6 +39,15 @@ related:
       - url: "https://media.wired.com/photos/5e555fe0a4dea100087f9715/master/pass/Security_gmail-816901264.jpg"
         width: 2300
         height: 1533
+  - title: "Gmail adopts deep learning to scan and block malicious attachments"
+    excerpt: "It’s cases like that when AI and machine learning are more suited since they can analyze and learn faster than humans, especially when large volumes of data are involved. The company deployed a new deep learning document scanner at the end of 2019 and it is reporting a marked but not exactly a staggering increase in detection rate ..."
+    publishedDateTime: 2020-02-26T04:26:00Z
+    webUrl: "https://www.slashgear.com/gmail-adopts-deep-learning-to-scan-and-block-malicious-attachments-25611232/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 64
   - title: "Battery charging meets machine learning"
     excerpt: "But perhaps that testing is not so extensive, thanks to a new system described in the journal Nature. The system uses a combination of machine learning and Bayesian inference to rapidly zero in on the optimal charging pattern for any battery, cutting the amount of testing needed down considerably. Fast charging is obviously useful for ..."
     publishedDateTime: 2020-02-19T22:10:00Z

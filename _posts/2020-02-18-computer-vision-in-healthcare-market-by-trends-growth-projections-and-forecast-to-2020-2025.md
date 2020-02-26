@@ -80,15 +80,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 27
-  - title: "Medical Robotics Market to register a 23.21% CAGR by 2025: Key Findings, Regional Study, Trends, Growth, Top Key Players Profiles and Future Prospects"
-    excerpt: "and artificial intelligence (AI) has changed the healthcare industry significantly. Thanks to these technologies, medical robotics are proven to be a more safe and useful process for performing surgeries. Increase in the adoption of the medical robots to perform minimally invasive surgeries by lowering the complications is propelling growth of ..."
-    publishedDateTime: 2020-02-11T10:11:00Z
-    webUrl: "https://www.medgadget.com/2020/02/medical-robotics-market-to-register-a-23-21-cagr-by-2025-key-findings-regional-study-trends-growth-top-key-players-profiles-and-future-prospects.html"
-    type: article
-    provider:
-      name: Medgadget
-      domain: medgadget.com
-    quality: 0
 
 secured: "1pOsXjhhspwheD+Rb1iCcAkQtPJbNmYsMMjY9n3QBR4bLmQJnyAuCPkD7oRiBuqpMfxKjSP4cWh2yQYyDh+EJBZ1Hyyi/83S/ABWogDjfjJgddB9uYEp7Z9p/exTOAh0pdcZV9vIMcS/G2YWKeNdQN/avDcAaMnxMkTTblvesvSCaNA7Vc1TrZGLOHJdkTvGgpZB1OXmWoRbK/q7JiMZ5RMGZ3EED39z7SqDVAnEWs5H8d4zSIM43gh26K3+hEJZ/1FyVa9AzkGSJiznUfskGdWElWAZ9YifDb54v9ewvMizU34AFqQYSj5AYNdsz1nl;PXYAtsqSWnfrp/VKZwnweg=="
 ---

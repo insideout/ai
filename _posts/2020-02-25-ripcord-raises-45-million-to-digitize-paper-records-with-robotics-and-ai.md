@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/02/25/ripcord-raises-45-million-to-digi
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/25/ripcord-raises-45-million-to-digitize-paper-records-with-robotics-and-ai/amp/"
 type: article
 quality: 118
-heat: 208
+heat: 198
 published: true
 
 provider:
@@ -90,21 +90,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/02/maxresdefault-4-e1582140205297.jpg?fit=800%2C400&strip=all"
         width: 800
         height: 400
-  - title: "Autonomous driving startup Pony.ai raises $462 million in Toyota-led funding"
-    excerpt: "The Silicon Valley-based startup Pony.ai - co-founded by CEO James Peng, a former executive at China’s Baidu, and chief technology officer Lou Tiancheng ... has been lagging rivals in bringing self-driving cars to market. It has taken a long view towards the technology, saying it will take decades for cars to drive themselves on roads."
-    publishedDateTime: 2020-02-26T03:57:00Z
-    webUrl: "https://uk.reuters.com/article/uk-toyota-pony-ai-autonomous/autonomous-driving-startup-pony-ai-raises-462-million-in-toyota-led-funding-idUKKCN20K0CT"
-    ampWebUrl: "https://uk.mobile.reuters.com/article/amp/idUKKCN20K0CT"
-    cdnAmpWebUrl: "https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKKCN20K0CT"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 86
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200226&t=2&i=1495295329&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG1P0A3"
-        width: 817
-        height: 545
   - title: "Driverless car startup Pony.ai raises $462 million at a $3 billion valuation"
     excerpt: "In a sign that investors’ enthusiasm for driverless cars hasn’t dampened yet, Pony.ai today secured a whopping $462 million in fresh funding, $400 million of which came from Toyota. The capital infusion brings the Guangzhou- and Fremont, California-based startup’s total raised to about $800 million at a valuation north of $3 billion (up ..."
     publishedDateTime: 2020-02-26T03:00:00Z

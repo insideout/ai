@@ -39,6 +39,15 @@ related:
       - url: "https://media.wired.com/photos/5e555fe0a4dea100087f9715/master/pass/Security_gmail-816901264.jpg"
         width: 2300
         height: 1533
+  - title: "Gmail adopts deep learning to scan and block malicious attachments"
+    excerpt: "It’s cases like that when AI and machine learning are more suited since they can analyze and learn faster than humans, especially when large volumes of data are involved. The company deployed a new deep learning document scanner at the end of 2019 and it is reporting a marked but not exactly a staggering increase in detection rate ..."
+    publishedDateTime: 2020-02-26T04:26:00Z
+    webUrl: "https://www.slashgear.com/gmail-adopts-deep-learning-to-scan-and-block-malicious-attachments-25611232/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 64
   - title: "Interest in machine learning and AI up, though slowing, one platform reports"
     excerpt: "As technologies such as AI and machine learning revolutionize the workplace, learning and development is coming to the forefront of talent management. Preparing workers for AI and automation will lead learning trends in 2020, according to a November 2019 Udemy report. While many workplaces will train employees to sharpen their tech skills ..."
     publishedDateTime: 2020-02-25T19:19:00Z
@@ -95,6 +104,6 @@ related:
       domain: microsoft.com
     quality: 19
 
-secured: "nVs3cY6hH/e7VJ3zFoY8KY/SncQmaSjmNJB/8ycfNY8br4EMsBdtnpFl4oX/hvYAKmvrUcqP1slIxlUfjZ4+/SBskXamR67q04mZt6jmhUVNwqEasbAv9tU4KY9wH8msbo8NdfOmeVhGxXwTEz9YZTFHhWsyFFuO2rsnYQPXdt0Op8w69wO6xSnYaWdjFHAP5YFAHdUwSpC3wYFgSg3OvL6WfHZU6u19+f4CkuB/mg8lGQDwXCjBbPyrrRlE/YDG3g4eyIHhhl6S6SuOrBQChx/lpwOosJdettiibXyZcgU8X/qWmx2hmJo+dZk5PGJM;iYjXHDj2N6gG7GFM1BZHAg=="
+secured: "ve68PQZTN7PLIUZRmosfDNkfBQKFihFueD5mFDtJlkIB7ZvN2tfHN4zYpc7nKfH0mJcqCIIAOccs+Qm1ZbqexrIzVp8VGnxuiFELRlVdz+YrGMN8IR25ySQYWCrw838vLZbEGvnVxNDcrk3fNMaetebiZ1lokPk/tSsDM1aZ5/RM22SvpOBqxaqAiOWS/IzX9s8RkwB/0SovJfbAAT8wrBHOxeqnWGYf+Iqn5rNvbmOm7Dyqljb/I2Xzoo6A5GtLifwCh4ybhgwctx+oA15yXd7y9O4cc6kbIg3zrTeslqH6Ukt177kjobex//mZWAalf+XdyJvy84qiNVEtQoXHLOOk8U66PVy4UcK46wqX4r9Zg5kT1DY9kDxhgh9L2SnIkBpUcMc0/OmTte4fpUU4z9VDK0sfilsQx9G1hkl2klcjwz+gRMfakMAKt89zvMwJH9BWi1yEXdy0rj8Vwc9XAp3qE7uGsaBQ6y9EDfKDTjY=;w61ox6y6j8vOvjdwZTVB6w=="
 ---
 

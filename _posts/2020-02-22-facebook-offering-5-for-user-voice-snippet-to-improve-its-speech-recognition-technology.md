@@ -428,6 +428,15 @@ related:
       name: The Express Tribune
       domain: tribune.com.pk
     quality: 19
+  - title: "NYCLU forum tackles issue of facial recognition technology in schools"
+    excerpt: "LOCKPORT — Members of the New York Civil Liberties Union took their fight against facial recognition systems in schools to a local audience on Tuesday at the Lockport Public Library. Since 2018, an intense public debate has erupted in Lockport and nationally over the district installing a facial and object recognition system — with the ..."
+    publishedDateTime: 2020-02-26T04:21:00Z
+    webUrl: "https://www.niagara-gazette.com/news/local_news/nyclu-forum-tackles-issue-of-facial-recognition-technology-in-schools/article_0c32825a-b780-57fd-b9c4-b58258d601ea.html"
+    type: article
+    provider:
+      name: Niagara Gazette
+      domain: niagara-gazette.com
+    quality: 19
   - title: "Moscow Enforces Coronavirus Quarantine with Facial Recognition Technology"
     excerpt: "Moscow is harnessing the power of facial recognition technology to try to stop the spread of the coronavirus (COVID-19). The city's mayor said on Friday that the tech was being used in Russia's capital in an effort to dissuade people placed under ..."
     publishedDateTime: 2020-02-25T17:41:00Z

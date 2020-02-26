@@ -41,19 +41,6 @@ related:
       - url: "https://www.gannett-cdn.com/-mm-/b5f04775ee7d965f7efc1e844b57d5548e663c17/c=0-463-1686-1416/local/-/media/2017/01/07/DetroitFreePress/DetroitFreePress/636194077423742009-General-Motors.jpg?auto=webp&format=pjpg&width=1200"
         width: 1200
         height: 678
-  - title: "Self-driving vehicle law hits a speed bump"
-    excerpt: "The big picture: Manufacturers and tech companies want federal rules of the road for their roll-out of self-driving vehicles. But trial lawyers, a powerful lobby, want key questions on liability in a driverless world answered before legislation advances. Driving the news: Daniel Hinkle, an attorney with the American Association for Justice ..."
-    publishedDateTime: 2020-02-11T11:08:00Z
-    webUrl: "https://www.axios.com/self-driving-vehicle-law-hits-a-speed-bump-875152c5-3455-42f7-831a-a563b72256ac.html"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 24
-    images:
-      - url: "https://images.axios.com/WAaKWDWilhZmV1aIrsnfnqOj4JQ=/2020/02/10/1581362650395.jpg"
-        width: 1920
-        height: 1080
 
 secured: "KYihoaqYNeynnou0L+0gLOs+u8OLA6iVPzn2lkAIJt1NLcBiP58VJrGvm1D80yMA7rQGRtX2vW1XIlI2+qaNSbX0GDWKzCawq515YaDKquUumumxnBSlHu0zHM1y8x/aYPbdHxxLvBJWQ8nb+VqxwsPIKuidm1Uyn6zOfFP1Qo3Qv2FAz5PEBjNWLSHZGulea8ISJWY8vto57uJN6d5fsLRqEo3shlIVa7tTp10WdYdA03u2lhNQxV3ViVun73qxRgvHYYZt5KT/1SvlbC1QFLD+7KRFfnOl2mBHn58gh2uEfztijq0+1nxEHXa7smcn5ui2G50gm7kjRAA/Q0zhH/pxtXySTZTGm4LrbYzKE3pEzpD92KX/Tjv0ZRLJFzT158actDImNmmHJbRR9W9nVBV7cpou8AP14xJHW5pvsQWRJl8mhfmX2Y09n2HWGcWFqszVIHJj+9U9kWC6/4taZIznJKmkqZ3X8YZxGnbVauc=;C8CaUI1p8rM2e3ERFuQbkg=="
 ---

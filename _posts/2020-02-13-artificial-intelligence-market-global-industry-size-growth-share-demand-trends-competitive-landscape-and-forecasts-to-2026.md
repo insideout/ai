@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-13T10:30:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-global-industry-size-growth-share-demand-trends-competitive-landscape-and-forecasts-to-2026-2020-02-13"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -28,19 +28,15 @@ images:
     title: "Artificial Intelligence Market Global Industry Size, Growth, Share, Demand, Trends, Competitive Landscape and Forecasts to 2026"
 
 related:
-  - title: "Market Updates for 2020 ML AI Industry will Poised for strong Global Growth"
-    excerpt: "The Global ML AI Market report provides information by Top Players, Geography, End users, Applications, Competitor analysis, Sales, Revenue, Price, Gross Margin, Market Share, Import-Export, Trends, and Forecast."
-    publishedDateTime: 2020-02-11T10:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/market-updates-for-2020-ml-ai-industry-will-poised-for-strong-global-growth-2020-02-11"
+  - title: "North America Wearable AI Market Report 2020, Forecast to 2025 - Google, Microsoft and Apple are the Major Players"
+    excerpt: "/PRNewswire/ -- The \"North American Wearable AI Market 2019-2025\" report has been added to ResearchAndMarkets.com's offering. The North American Wearable"
+    publishedDateTime: 2020-02-18T11:15:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/north-america-wearable-ai-market-report-2020-forecast-to-2025---google-microsoft-and-apple-are-the-major-players-301006457.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 0
 
 secured: "+Y7CSWtG1N7CINMOFU1cW3tPxC4S5K710QfHd8cUpSj9UGri+htPCn9OAAXw5mfoBnM677hwY3BcH+b0QFGMZ0YmBVXrsJNR/2BikCNQskIhhcTG3lcFPGfHKCXciEO8UmiV6b8CYNMqahGCSWbrQAAKkoRTWZUp57MLXsXAxl30uDui//fJZX4mYVSt8ifuhvUvEOCz3g1sq8WxXL6i8Y5EhAPI4X0/SwYkgtnq2BT6/T7I4G5oNz9gAy+7W3uu6vxkk01HsF6vl0P1OiWJUHqIyDV1ql+Io//DlAH/6fmh9nCFYXgp3JFlhupUBqMh;5ofp1iLVcA6LXK9C/MR7VQ=="
 ---

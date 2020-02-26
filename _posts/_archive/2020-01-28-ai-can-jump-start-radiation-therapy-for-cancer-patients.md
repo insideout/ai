@@ -4,10 +4,8 @@ title: "AI can jump-start radiation therapy for cancer patients"
 excerpt: "Artificial intelligence can help cancer patients start their radiation therapy sooner—and thereby decrease the odds of the cancer spreading—by instantly translating complex clinical data into ..."
 publishedDateTime: 2020-01-28T07:25:00Z
 webUrl: "https://medicalxpress.com/news/2020-01-ai-jump-start-therapy-cancer-patients.html"
-ampWebUrl: "https://medicalxpress.com/news/2020-01-ai-jump-start-therapy-cancer-patients.amp"
-cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-01-ai-jump-start-therapy-cancer-patients.amp"
 type: article
-quality: 54
+quality: 34
 heat: -1
 published: false
 
@@ -24,18 +22,21 @@ related:
     excerpt: "Artificial intelligence can help cancer patients start their radiation therapy sooner - and thereby decrease the odds of the cancer spreading - by instantly translating complex clinical data into ..."
     publishedDateTime: 2020-01-27T00:00:00Z
     webUrl: "https://www.news-medical.net/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx"
     type: article
     provider:
       name: News Medical
       domain: news-medical.net
-    quality: 74
-    images:
-      - url: "https://www.news-medical.net/image.axd?picture=2014%2f7%2fRadiation_Therapy-620x480.jpg"
-        width: 620
-        height: 480
+    quality: 34
+  - title: "AI can Boost Radiation Therapy for Cancer Patients"
+    excerpt: "Artificial intelligence (AI) can now instantly translate complex clinical data into an optimal plan of attack which can help cancer patients start their radiation therapy sooner and thereby ..."
+    publishedDateTime: 2020-01-28T07:21:00Z
+    webUrl: "https://www.medindia.net/news/ai-can-boost-radiation-therapy-for-cancer-patients-192787-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 34
 
-secured: "vp9ZBHlP/kHbkc83aMCS5kvJxWrr7lMAAUrN8zI9wmHB3qjGWBfDwRHjbRGfhfS+HrvqOgfcuOHAEvUE2u0BKVsbx9QDren+gPvKdorqoqFnIBfE9Ds7qQnnp3UCLTu0eM0CI8XlXe27ia/l3qvz4HchlWSTZvOwiXSt61cSRvASkigCqM0BfwQG8E7Z3GkBWqkelD1hCLL6P2t/5acIxfmtInJ4VzRhwst56ArodK04sb/ku8KMpzpYJvI4fgloDu10cj1nvTS61YQzTxQyEyrZY9xmXdFv9/1z0Vpu7xBafZ5VnXNiZj9fwmR7dKnV;VJ25EFNYEXl1WoPX8Einrg=="
+secured: "qLOGt0Q2wpEMFs3tDMSA7czaujS3RB6vcXe/jbURYOBHKPsYGvCPoHUJqQSYFA6juJYAaWblpxvevGTdGZHi/ZObqk2kaPzATOdQpuRBXv6yqcCAIQoveodiFrHkFAzNfQojRaRoftuC30qE4SvT4HM8V4POWzpg3gRjo7uTAaBjt5hFVLUT8yAYirWrhjJ1fMC0McPXa5IvndOC/GOUfP+gYwR9OKq6UslB778Ty/opNIVCtlImBBgJIk9jWHNeLXuQwBnq5rwjhD5GdqmXT7z6OvAG47iLFBT8IfPWy3WxEBrCJok3kewXVUpk0QWm;j9P5u7/k9BqiL8z+D3LKFQ=="
 ---
 

@@ -84,19 +84,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/03/15194350/artificial-intelligence.jpg"
         width: 660
         height: 300
-  - title: "Met Police begins deploying live facial recognition cameras in Stratford"
-    excerpt: "The Metropolitan Police has started deploying live facial recognition camera technology in Stratford today. According to the police, the technology will aid the fight against serious crime in London, while helping to find missing children and vulnerable people. \"The Met will deploy Live Facial Recognition on Tuesday 11 February at key locations ..."
-    publishedDateTime: 2020-02-11T11:37:00Z
-    webUrl: "https://www.computing.co.uk/news/4010475/met-police-live-facial-recognition"
-    type: article
-    provider:
-      name: Computing
-      domain: computing.co.uk
-    quality: 38
-    images:
-      - url: "https://www.computing.co.uk/api/v1/wps/ff5f354/fc6d1fdc-dffc-47f8-bcdb-4760220f6a01/2/LFR-370x229.jpg"
-        width: 370
-        height: 229
   - title: "London police deploy live facial recognition technology, stirring privacy fears"
     excerpt: "LONDON (AP) - London police have started using facial recognition cameras to automatically scan for wanted people, as authorities adopt the controversial technology that has raised concerns about increased surveillance and erosion of privacy. Surveillance cameras mounted on a blue police van monitored people coming out of a shopping center in ..."
     publishedDateTime: 2020-02-11T18:47:00Z

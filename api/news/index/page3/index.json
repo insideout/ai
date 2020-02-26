@@ -2,124 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_posts/2020-02-15-7-business-areas-ripe-for-an-artificial-intelligence-boost.md",
-      "title": "7 business areas ripe for an artificial intelligence boost",
-      "excerpt": "Artificial intelligence has captured everyone's imagination, but what can we expect from the technology? A recent survey of more than 550 executives from IBM finds plenty of support from the top -- everyone wants to plunge full-force into AI to increase the speed and capabilities of their businesses. At the same time, AI is still very much in ...",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/7-business-areas-ripe-for-an-artificial-intelligence-boost/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/7-business-areas-ripe-for-an-artificial-intelligence-boost/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/7-business-areas-ripe-for-an-artificial-intelligence-boost/",
-      "publishedDateTime": "2020-02-15T08:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/02/15/211f423b-0209-4ff3-ba9b-55d939fe67e0/ibm-watson-group-photo-from-ibm-media-relations.jpg",
-          "width": 320,
-          "height": 287,
-          "title": "7 business areas ripe for an artificial intelligence boost",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-15-are-robots-better-investors-than-humans.md",
-      "title": "Are Robots Better Investors Than Humans?",
-      "excerpt": "Would you entrust your money to an artificial intelligence? On one hand, that could seem like stacking risk atop risk. On the other hand, it’s unlikely that a robot would suddenly develop Bernie Madoff-ish tendencies and begin defrauding investors. If nothing else, we’re pretty sure the Three Laws of Robotics prevent financial misdeeds.",
-      "heat": 179,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.insidehook.com/daily_brief/tech/are-robots-better-investors-than-humans",
-      "ampWebUrl": "https://www.insidehook.com/daily_brief/tech/are-robots-better-investors-than-humans/amp",
-      "cdnAmpWebUrl": "https://www-insidehook-com.cdn.ampproject.org/c/s/www.insidehook.com/daily_brief/tech/are-robots-better-investors-than-humans/amp",
-      "publishedDateTime": "2020-02-15T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InsideHook",
-        "domain": "insidehook.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.insidehook.com/wp-content/uploads/2020/02/Sophia_at_the_AI_for_Good_Global_Summit_2018_27254369807.jpg?fit=1280%2C853",
-          "width": 1280,
-          "height": 853,
-          "title": "Are Robots Better Investors Than Humans?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-15-demis-hassabis-interview-the-brains-behind-deepmind-on-the-future-of-artificial-intelligence.md",
-      "title": "Demis Hassabis interview: the brains behind DeepMind on the future of artificial intelligence",
-      "excerpt": "Demis Hassabis interview: the brains behind DeepMind on the future of artificial intelligence He is a chess prodigy turned games designer whose company, DeepMind, is leading the race to develop ...",
-      "heat": 88,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.thetimes.co.uk/article/demis-hassabis-interview-the-brains-behind-deepmind-on-the-future-of-artificial-intelligence-mzk0zhsp8",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-14T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Times",
-        "domain": "thetimes.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F289203c0-fd4e-11e8-92e0-7fb8092617eb.jpg?crop=5760%2C3240%2C0%2C300&resize=685",
-          "width": 685,
-          "height": 385,
-          "title": "Demis Hassabis interview: the brains behind DeepMind on the future of artificial intelligence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-15-video-of-uber-driver-on-wild-chase-that-kidnapped-date-night-couple-provides-vital-lessons-for-ai-self-driving-cars.md",
       "title": "Video Of Uber Driver On Wild Chase That “Kidnapped” Date-Night Couple Provides Vital Lessons For AI Self-Driving Cars",
       "excerpt": "Uber driver on wild chase opts to \"kidnap\" his passengers, which brings up interesting lessons for AI self-driving cars.",
@@ -633,7 +515,7 @@
       "path": "_posts/2020-02-17-automated-facial-recognition-breaches-gdpr-says-eu-digital-chief.md",
       "title": "Automated facial recognition breaches GDPR, says EU digital chief",
       "excerpt": "The EU’s digital and competition chief has said that automated facial recognition breaches GDPR, as the technology fails to meet the regulation’s requirement for consent. Margrethe Vestager, the European Commission’s executive vice president for digital affairs, told reporters that “as it stands right now, GDPR would say ‘don’t ...",
-      "heat": 469,
+      "heat": 459,
       "tags": null,
       "type": "article",
       "webUrl": "https://thenextweb.com/neural/2020/02/17/automated-facial-recognition-breaches-gdpr-says-eu-digital-chief/",
@@ -2083,6 +1965,133 @@
       "topics": [
         "AI",
         "Google AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-18-esg-dell-emc-ready-solutions-for-ai-deep-learning-with-intel.md",
+      "title": "ESG: Dell EMC Ready Solutions for AI: Deep Learning with Intel",
+      "excerpt": "Organizations looking to leverage the power of AI face significant challenges, but what are the drivers behind these challenges? Document retention policy Hiring Kit: .Net developer Top cloud providers in 2020: AWS, Microsoft Azure, and Google Cloud ...",
+      "heat": 126,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/resource-library/whitepapers/esg-dell-emc-ready-solutions-for-ai-deep-learning-with-intel/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/resource-library/whitepapers/esg-dell-emc-ready-solutions-for-ai-deep-learning-with-intel/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/resource-library/whitepapers/esg-dell-emc-ready-solutions-for-ai-deep-learning-with-intel/",
+      "publishedDateTime": "2020-02-18T06:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-18-eu-wants-big-tech-to-deploy-ai-tech-on-its-own-terms.md",
+      "title": "EU wants Big Tech to deploy AI tech on its own terms",
+      "excerpt": "The general perception is that Europe is far behind the US and China in terms of AI development. However, according to the McKinsey Global Institute, the EU's gap in digital tech can be overcome by funding startup development, digital transformation of non-tech companies, and encouraging investors to bring in more capital. As for talent ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techspot.com/news/84049-eu-wants-big-tech-deploy-ai-tech-own.html",
+      "ampWebUrl": "https://www.techspot.com/amp/news/84049-eu-wants-big-tech-deploy-ai-tech-own.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/84049-eu-wants-big-tech-deploy-ai-tech-own.html",
+      "publishedDateTime": "2020-02-17T17:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/ts3_thumbs/2019/09/2019-09-11-ts3_thumbs-cdd.jpg",
+          "width": 800,
+          "height": 560,
+          "title": "EU wants Big Tech to deploy AI tech on its own terms",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-18-global-machine-learning-chip-market-to-garner-3785-billion-by-2025-at-408-cagr.md",
+      "title": "Global Machine Learning Chip Market to Garner $37.85 Billion by 2025, at 40.8% CAGR",
+      "excerpt": "Portland, Feb. 18, 2020 (GLOBE NEWSWIRE) -- According to the report published by Allied Market Research, the global machine learning chip market accounted for $3.46 billion in 2018 and is projected to reach $37.",
+      "heat": 93,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/global-machine-learning-chip-market-to-garner-3785-billion-by-2025-at-408-cagr-2020-02-18",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-18T06:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Global Machine Learning Chip Market to Garner $37.85 Billion by 2025, at 40.8% CAGR",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

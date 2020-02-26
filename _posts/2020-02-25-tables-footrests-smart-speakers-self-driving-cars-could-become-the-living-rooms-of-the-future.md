@@ -2,27 +2,27 @@
 category: news
 title: "Tables, footrests, smart speakers: Self-driving cars could become the living rooms of the future"
 excerpt: "With self-driving vehicles on the horizon, automakers are rethinking what the future of car interiors will look like. And because these completely autonomous cars, called Level 5 vehicles, will free drivers from focusing on the highway, companies are now free to experiment. And that means premium cars could be loaded with tech that makes ..."
-publishedDateTime: 2020-02-25T21:18:00Z
-webUrl: "https://oklahoman.com/article/5655924/tables-footrests-smart-speakers-self-driving-cars-could-become-the-living-rooms-of-the-future"
-ampWebUrl: "https://oklahoman.com/article/5655924/tables-footrests-smart-speakers-self-driving-cars-could-become-the-living-rooms-of-the-future/amp"
-cdnAmpWebUrl: "https://oklahoman-com.cdn.ampproject.org/c/s/oklahoman.com/article/5655924/tables-footrests-smart-speakers-self-driving-cars-could-become-the-living-rooms-of-the-future/amp"
+publishedDateTime: 2020-02-25T12:35:00Z
+webUrl: "https://www.usatoday.com/story/money/cars/2020/02/25/smart-car-nissan-bmw-gm-future-cars-spacious-interiors/4658453002/"
+ampWebUrl: "https://amp.usatoday.com/amp/4658453002"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4658453002"
 type: article
 quality: 31
 heat: -1
 published: false
 
 provider:
-  name: The Oklahoman
-  domain: oklahoman.com
+  name: USA Today
+  domain: usatoday.com
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: "https://cdn2.newsok.biz/cache/1280x720_blur-7ec8ba67c9327358720e4397264a2fc9.jpg"
-    width: 1280
-    height: 720
+  - url: "https://www.gannett-cdn.com/presto/2020/02/05/USAT/09643d9a-d78b-46f0-8ac3-bfdd247cfc98-BMW1.jpg?auto=webp&crop=825,465,x0,y41&format=pjpg&width=1200"
+    width: 1200
+    height: 676
     title: "Tables, footrests, smart speakers: Self-driving cars could become the living rooms of the future"
 
 related:
@@ -85,6 +85,6 @@ related:
         width: 1200
         height: 600
 
-secured: "fPmdu+o01RsRIE25su+7RJtglhDvOyIIA1/gEZr02xqxm96OfKmQ+v2XDGkHya0bhyDDvdpDaFwHbuI2xqQPdZfsjOJ6pXoONK1KLW9irE/cXurvRuTtjZV3Lo7AEYYqnhnAYuuzbyCCxlQOVXiaSi9WKdOf8B0ann5jyHg8vCkERynp6w5yUZbbzd3vaFEDtvGbHUGVCjhdXwCOJ6tJMf2vwGYaSVs4U53vrsM7MXUMRpJyjSCX9h1Kp7D2kP8YoekU7SA6mCJkbVaNzfDBkpQ+MqODFJsQDhAKkfWZwNfydGK6un2QZf59hgh3cbA0jSj2Y53C4ywOzuEcV4SajvnKExAKbBWLdeG6QLzZpVSs71/OSLeqyF++LuaMjGQOjxA34EqdWkMPHGYX+ud8cNVNwmplYuqSq6jEFLsf8D2ZPsR96ZOHMIUHFaTfDQzuTBQbXUgi2SnPfhR3IkbR77I/OF7jl0DAVQBKuwKQyMg=;bfFKd0iw07UQ91xQ7A2nGg=="
+secured: "lAS7VF3To3rs6F3kkrPIpkS9TqIdY24viX4ElSRIYiZNEpVEMu7jbgv8oYA+4mIAMjcjjevgcns3gA6YEh/d/nAG8BopXihxIScnnnv1TwXf4kDYwWVHVuS+OW6UQ0xf2HQoknK8y1AWKyKmwQqDiZvNcLVZYANxd22MtciN00bHyL9j9h/SWv8AkFZNGI6C1/EqU3N0vKvoUEOotUrMCf+HiKSbY+UcrDcYMbTEfxvdaN0CoP5KTMW5k6Cg+gkgLvjRYRW74JnJgrkLTHQ8e1RIWgCEzUXSUvbCK3xn+6JcUryFVlma5Ro/JaNrverE;x1n4nF2X9cpf208Nxk1JfA=="
 ---
 

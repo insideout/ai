@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-12T20:56:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-to-register-high-revenue-growth-at-519-cagr-by-2023-2020-02-12"
 type: article
 quality: 83
-heat: 143
+heat: 133
 published: true
 
 provider:
@@ -85,15 +85,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 25
-  - title: "Medical Robotics Market to register a 23.21% CAGR by 2025: Key Findings, Regional Study, Trends, Growth, Top Key Players Profiles and Future Prospects"
-    excerpt: "and artificial intelligence (AI) has changed the healthcare industry significantly. Thanks to these technologies, medical robotics are proven to be a more safe and useful process for performing surgeries. Increase in the adoption of the medical robots to perform minimally invasive surgeries by lowering the complications is propelling growth of ..."
-    publishedDateTime: 2020-02-11T10:11:00Z
-    webUrl: "https://www.medgadget.com/2020/02/medical-robotics-market-to-register-a-23-21-cagr-by-2025-key-findings-regional-study-trends-growth-top-key-players-profiles-and-future-prospects.html"
-    type: article
-    provider:
-      name: Medgadget
-      domain: medgadget.com
-    quality: 0
 
 secured: "MBOou7fLWcZ2Jf3n/dis2xBnvdvnJmto221CRAzHD/XeOX3yacRVgtM2LhW5BjdQ5gRkuPnWqC6K0LDaIZDsCmPL8PYgaBcon7BNCCI8dYzHgsIKBauYBAZatw+qt/Cv0ByeaugE2AjsAcC5oJowItOmnSa9j524e7qVYmGuEogFp7gUum5ksP2wnPho9bHOBV5uCkvAoqApePl4OhfgR7waL+y3tnDSx8nzR1gcUzXpwhfCgKyaTkSDK6zwfasrh5zqRmJJktV5C9ugB8gtOIV6Z0aS1WlFCF53xfIxflT4k4PAUcA6gOqiWZh4tg19;flRQbXMbzwjUJk4UW5dzfQ=="
 ---

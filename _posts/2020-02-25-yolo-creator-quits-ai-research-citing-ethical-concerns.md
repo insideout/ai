@@ -1,9 +1,9 @@
 ---
 category: news
 title: "YOLO Creator Quits AI Research Citing Ethical Concerns"
-excerpt: "The ethics of AI usage, the rationale behind research and its explainability have ... which is a part satire part research ode that reeks of his distaste for potential misuse of research, Redmon took jabs at Google and Facebook and even the organisation that funds his research. On a more serious note, he also insisted on the responsibility ..."
+excerpt: "The ethics of AI usage, the rationale behind research and its ... part research ode that reeks of his distaste for potential misuse of research, Redmon took jabs at Google and Facebook and even the organisation that funds his research."
 publishedDateTime: 2020-02-25T18:16:00Z
-webUrl: "https://analyticsindiamag.com/yolo-creator-joe-redmon-computer-vision-research-etical-concern/"
+webUrl: "https://analyticsindiamag.com/yolo-creator-joe-redmon-computer-vision-research-ethical-concern/"
 type: article
 quality: 39
 heat: -1
@@ -18,9 +18,9 @@ topics:
   - Facebook AI
 
 images:
-  - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/02/jrethics.jpg"
-    width: 627
-    height: 469
+  - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/02/ai-ethics-analytics_india_mag-1024x576.jpg"
+    width: 1024
+    height: 576
     title: "YOLO Creator Quits AI Research Citing Ethical Concerns"
 
 related:
@@ -38,6 +38,6 @@ related:
         width: 1200
         height: 600
 
-secured: "Yxi6u1aAY8VttjkV9KFwjuBJtHBQ9BKjQJc1y+3TZbo2DWW5wpZHXkZsoX+9giTEbFFiJsAcTgltKCffcyt5XHMC9coIH615NyKcM5B+btdF4XsfHUFGB9ShGIP+VRqX+y84XYoCbO+YIMLhUNuS8wObPKos1J6UjfMYlVjL0Dc/qPEJqY4SAoYr/w1EQ2FjrQtNvvui4mHVmrLACwYajqJvV6ujQMJ/x3NMa+McgZEkObuRD+bT0CKuCkpbDfhT3Jbn5x92yEAsleFWIKsxMz6p5H5UlDNNV8jBE8xjOLO4fuCqOgh8I1YgBjyZM1eQs6Y5w2YA3uhbymSSRCiRqwSE/gAFNiJdbKZkRHyRVIttI+dZLPRyBUYU29n7HRC5wda/5alIvFqz9Jg+mSZ/d84XV4gy7c5yn1bUIZOJ8ZwvviSp8WHUagrF8gfyQ03ekVchdfJdUKCmEtT1HU3Fjilcqg3TbrnZw/p00pevzPU=;kXgAlYnjm+RKGYkJl9nHjg=="
+secured: "WAVNvZNeF0IncrNqK6rEqLviZMf2V3RFPfVZiTUmgu/hAmB1TbfuT9V0SNTulk2m+4BPajxK2JeSG6dt+SAqxflnwx6cjWOAGzks23gnd/me4wsF5VGftxz+VsEcinPtNaoyZ4Z79YQE5yoAIX7KSG1n2ALTPnVf4vf4lCVzvLmWtL9GSNpF+D3v4iDPxfP3uy43awPoGt3kLGacID33FUgBRSGEbj0BvwB54uXz0/xRknebB/pKh8PgUAQB1MjPiUwNX181JfH1KudamO0vsW6Ep4kK1z/OmTIL6/IYEY4YhFFItUQkYvsXzLntw6lK;MFMDPqmVVKNfEu4MOcri+w=="
 ---
 

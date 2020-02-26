@@ -104,21 +104,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/02/maxresdefault-4-e1582140205297.jpg?fit=800%2C400&strip=all"
         width: 800
         height: 400
-  - title: "Autonomous driving startup Pony.ai raises $462 million in Toyota-led funding"
-    excerpt: "The Silicon Valley-based startup Pony.ai - co-founded by CEO James Peng, a former executive at China’s Baidu, and chief technology officer Lou Tiancheng ... has been lagging rivals in bringing self-driving cars to market. It has taken a long view towards the technology, saying it will take decades for cars to drive themselves on roads."
-    publishedDateTime: 2020-02-26T03:57:00Z
-    webUrl: "https://uk.reuters.com/article/uk-toyota-pony-ai-autonomous/autonomous-driving-startup-pony-ai-raises-462-million-in-toyota-led-funding-idUKKCN20K0CT"
-    ampWebUrl: "https://uk.mobile.reuters.com/article/amp/idUKKCN20K0CT"
-    cdnAmpWebUrl: "https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKKCN20K0CT"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 86
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200226&t=2&i=1495295329&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG1P0A3"
-        width: 817
-        height: 545
   - title: "Exclusive: Autonomous driving startup Pony.ai raises $500 million in Toyota-led funding- sources"
     excerpt: "The Silicon Valley-based startup Pony.ai - co-founded by CEO James Peng, a former executive at China’s Baidu (BIDU.O), and chief technology officer Lou Tiancheng, a former Google (GOOGL.O) and Baidu engineer - is already testing autonomous vehicles in California, Beijing and Guangzhou. The firm is focusing on achieving “Level 4”, or fully ..."
     publishedDateTime: 2020-02-26T01:08:00Z
@@ -161,6 +146,6 @@ related:
         width: 750
         height: 1125
 
-secured: "vo3iKEvO4RNPQy5833xRnRKEAF4Fu768rZBSQVVp+SvP+08UFyI4AvMeCeS/cn5FKK/1Bm2z5N/alUXM7TV913C+gzeI9/72JaHj5bgQw0TPgrm+6E/6djWAXWI42L520B82qTz0D/tVp3b2avigKCKtWiPgRz3cfRfAsHrYfGjDWobiu+HuhR8/UhdgNjc2UCqCv2Z/TYaREWgZoNcgVjbMV4Qj+guOnDqsrQoEp41UfP2NWLAUyLe0XZNvleETbksQvm0fS9RbrH4upvoK5HmoKOTjlrx530SCzzyZQ+rie8lELdqkMSdNicImjnvt;QV9qesYp9v9mrksJKXw3QA=="
+secured: "N/7nIyWM05X0WFH5yQfDze2ZhWRwnNGk9854UdCwcOX5PcB+z2Es2nrvsCEwzl1+BVdRoHZbpVN7+/JXv50jvdpJKT80Pqgg7e81AuweJgE4t08FMfJS6jikCRqOZXgM5AvJwZXTQLJGTmlfluA7BLEvSce0J4QUNKcaNyYRLQR6l5H1/FCmSLJeK4dR33Qn8easdVlyLhN8eZznhwU3GTCQPeFSmRszeczWjzdi3Tf7xqM9xXlWiq7NY9Mwu7Ofi9wWi+x2YV+F8GPDxORGuOrw0dtwBcoq0ra9chWBjVQnpFwByToLjy2NgfBGkmfNo1wa2CV9oN2OJ/D7VX/0vEUeTPurBfqUHY7Z5UY0xSZZHONXlVs0Lh9aQbWsSetONVBme1zHiq6mFfs0qmr+q/y0oj6Y55X6eXlooXEbadDh851T5q5z4ZVIY2nXjApFh3At2/1daIUWuVqz5WfsoB5RAehmF69L1646lMovNro=;dEIZ61y3iT/fZAyJnifBpg=="
 ---
 

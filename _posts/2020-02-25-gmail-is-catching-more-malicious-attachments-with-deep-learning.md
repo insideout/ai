@@ -8,7 +8,7 @@ ampWebUrl: "https://www.wired.com/story/gmail-catching-more-malicious-attachment
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/gmail-catching-more-malicious-attachments-deep-learning/amp"
 type: article
 quality: 104
-heat: 164
+heat: 174
 published: true
 
 provider:
@@ -30,6 +30,15 @@ images:
     title: "Gmail Is Catching More Malicious Attachments With Deep Learning"
 
 related:
+  - title: "Gmail adopts deep learning to scan and block malicious attachments"
+    excerpt: "It’s cases like that when AI and machine learning are more suited since they can analyze and learn faster than humans, especially when large volumes of data are involved. The company deployed a new deep learning document scanner at the end of 2019 and it is reporting a marked but not exactly a staggering increase in detection rate ..."
+    publishedDateTime: 2020-02-26T04:26:00Z
+    webUrl: "https://www.slashgear.com/gmail-adopts-deep-learning-to-scan-and-block-malicious-attachments-25611232/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 64
   - title: "Interest in machine learning and AI up, though slowing, one platform reports"
     excerpt: "As technologies such as AI and machine learning revolutionize the workplace, learning and development is coming to the forefront of talent management. Preparing workers for AI and automation will lead learning trends in 2020, according to a November 2019 Udemy report. While many workplaces will train employees to sharpen their tech skills ..."
     publishedDateTime: 2020-02-25T19:19:00Z

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/2/11/21133389/house-energ
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/11/21133389/house-energy-commerce-self-driving-car-hearing-bill-2020"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -30,6 +30,21 @@ images:
     title: "We still can’t agree how to regulate self-driving cars"
 
 related:
+  - title: "Has reality put the brakes on self-driving cars?"
+    excerpt: "Five years ago you couldn’t move for it, or at least its promise. Autonomy (aka the self-driving car) was going to take over, save lives, save the planet, make cars uncrashable, put drivers out of work and change everything we knew about individual mobility. Audi staged a piloted drive in one of its large saloons; all 550 miles from Silicon ..."
+    publishedDateTime: 2020-02-17T16:56:00Z
+    webUrl: "https://www.telegraph.co.uk/cars/features/has-reality-put-brakes-self-driving-cars/"
+    ampWebUrl: "https://www.telegraph.co.uk/cars/features/has-reality-put-brakes-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/cars/features/has-reality-put-brakes-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 44
+    images:
+      - url: "https://www.telegraph.co.uk/content/dam/cars/2020/02/17/TELEMMGLPICT000059012609_trans_NvBQzQNjv4Bq3zRqJvTEgWWOoA_OyO2TYjp1J53GedFpkBVyM6aWTKE.jpeg"
+        width: 2380
+        height: 1488
   - title: "Congress looks to revive self-driving car legislation"
     excerpt: "Want access to the top energy and environment news? Sign up for a free trial! Enter your email to register or log in. By signing up, you agree to receive E&E News email updates and offers. You also grant your consent to our data collection practices. We encourage you to review our Privacy and Data Practices Policy."
     publishedDateTime: 2020-02-12T12:19:00Z

@@ -56,6 +56,15 @@ related:
       - url: "https://cdn.neow.in/news/images/uploaded/2020/02/1582656170_qualcomm_xr2_headset_story.jpg"
         width: 760
         height: 434
+  - title: "Qualcomm announce new Snapdragon XR2 5G Mixed Reality Reference Design"
+    excerpt: "Powered by the Snapdragon XR2 Platform, the reference design has 2x the CPU and GPU performance, 4x more video bandwidth, 6x higher resolution and 11x AI improvement compared to their current widely adopted XR platform. The reference design supports up to seven cameras and features two internal cameras, one for each eye to support eye tracking."
+    publishedDateTime: 2020-02-25T20:01:00Z
+    webUrl: "https://mspoweruser.com/qualcomm-announce-new-snapdragon-xr2-5g-mixed-reality-reference-design/"
+    type: article
+    provider:
+      name: MSPoweruser
+      domain: mspoweruser.com
+    quality: 4
 
 secured: "rdDZP7JMuszXZNO8E/++phnQ8V35zbzSCuI8/yw8/JKCeBsVor23LXVc4DN858ZJ9Q0DtS8zXaOIjx+1xC1hRwkLNDL2WtSa7f53UcfYgoZiTCgYRJEMFv30EeAGdn/V2y16NcercmcaJRcRI0avb8g7mpG3Po8FIbfO6d2GUM0plShk6qWznP+Vsn1O6GeNNJ50GKFEukTJQSo6mxJZPCiW53rFjuxXDE8lFh2eYb9DH3FtRgJeIsyNWk6x7Yu+zVZeVI2E8jw/pj0oUm0gTs+cHAS9bzMSFBIysxpdTckTrDz2FKlXjHVHDMciYKbG;ZIfAYxe5j8iS97ZvHxhyJg=="
 ---

@@ -82,15 +82,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 25
-  - title: "Medical Robotics Market to register a 23.21% CAGR by 2025: Key Findings, Regional Study, Trends, Growth, Top Key Players Profiles and Future Prospects"
-    excerpt: "and artificial intelligence (AI) has changed the healthcare industry significantly. Thanks to these technologies, medical robotics are proven to be a more safe and useful process for performing surgeries. Increase in the adoption of the medical robots to perform minimally invasive surgeries by lowering the complications is propelling growth of ..."
-    publishedDateTime: 2020-02-11T10:11:00Z
-    webUrl: "https://www.medgadget.com/2020/02/medical-robotics-market-to-register-a-23-21-cagr-by-2025-key-findings-regional-study-trends-growth-top-key-players-profiles-and-future-prospects.html"
-    type: article
-    provider:
-      name: Medgadget
-      domain: medgadget.com
-    quality: 0
 
 secured: "QYh9KYSy3LOCwTurofRX+YObMTwJzPUKkLucmdQ4SgMiHlLh8VkcReDN8QKq5+0OnHiA5cDY0fWH7kmT7PJDdJ/zu5VEmO2fockwy7eQz2owDrVTUENkVFvtN/cQkgn6Tr5RMImiHtp25YQhCpJQvkyK11W4z3MrrHUHb55TVXV1K1fu98oV/PLsLU9DUbkwpGt4PwjP/MSleFEq1XF8Q+cKj/KOikZBURoHXmxNG69Lo0ZFCQoiCCSiuZP9zf40Dg603jzxuraCHBhXpqdKYFcZ10rhaML8sjlB3uruMrvwdLNIn44yOC1fCA+H3+va;iCC4xEuETgCC/UJ7ho0eeQ=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-11T18:41:00Z
 webUrl: "https://pcper.com/2020/02/arms-micro-neural-processing-unit-the-ethos-u55/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -22,36 +22,6 @@ images:
     width: 460
     height: 479
     title: "ARM’s Micro Neural Processing Unit, The Ethos-U55"
-
-related:
-  - title: "Arm targets IoT with new Machine Learning IP, processors"
-    excerpt: "The company added new machine learning (ML) IP, a new Cortex processor and neural processing unit (NPU) to its AI platform. In a statement, Arm said the combination of its latest IP with a related set of tools would provide hardware and software developers with more options for innovation when delivering on-device ML, while lowering overall ..."
-    publishedDateTime: 2020-02-11T10:15:00Z
-    webUrl: "https://www.mobileworldlive.com/featured-content/devices-home-banner/arm-targets-iot-with-new-machine-learning-ip-processors/"
-    ampWebUrl: "https://www.mobileworldlive.com/featured-content/devices-home-banner/arm-targets-iot-with-new-machine-learning-ip-processors/amp/"
-    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/devices-home-banner/arm-targets-iot-with-new-machine-learning-ip-processors/amp/"
-    type: article
-    provider:
-      name: Mobile World Live
-      domain: mobileworldlive.com
-    quality: 59
-    images:
-      - url: "https://i0.wp.com/www.mobileworldlive.com/wp-content/uploads/2020/01/London-IoT.png?fit=650%2C400&ssl=1"
-        width: 650
-        height: 400
-  - title: "Arm announces new processor IPs for AI and machine learning"
-    excerpt: "Arm has announced details of its latest processors designed for artificial intelligence and machine learning, the Arm Cortex-M55, as well as the first microNPU (Neural Processing Unit), the Ethos-U55 which offer a combined 480x machine learning improvement for microcontrollers. Cortex-M based processors are already powering a vast range of AI ..."
-    publishedDateTime: 2020-02-12T12:25:00Z
-    webUrl: "https://www.kitguru.net/components/cpu/james-dawson/arm-announces-new-processor-ips-for-ai-and-machine-learning/"
-    type: article
-    provider:
-      name: KitGuru
-      domain: kitguru.net
-    quality: 54
-    images:
-      - url: "https://www.kitguru.net/wp-content/uploads/2020/02/2744.arm-processors-cortex-m-hero-v2.jpg-900x506x2-618x330.jpg"
-        width: 732
-        height: 330
 
 secured: "SuZLNN0EBLxVa3dUhQBLtGeLCBOYSOUYWZHcKDqSEt4UMWo70yZLkfYdL/93b2tRTZh16u7DMzdoyio5DfCI1Rtu1+d/709P7SGD72Vyb346YOWXbIPVArkq/VbDrJBGKUCfzWYPQSI82dZQwl5zfC4u2kdKNF1c4GtVmy4N3qUAicX+17bfcHCIsLpjEKc5yHfzdVYo1jf3J6RNO8FJjhIyiakVTONbivf3pB/K995jZBBtTdn1DeCypE9zjWKgD6kfeSLRamNSTR8AJLVSdEtnsiXbfe4nwZhecnWRGA9drTDYSH/SeU260guXe1UKxt/E4j+AzFfiujUGhrp+LWKBPdXdYpdPdMT515nE/e+gpSQlnlJy7a6nklgwe1KX+zniHCeUvNlmJKhkCBzt9sLhyN92iDshTc7kg2ImDKaMhZc6wC7o9w6PCcq7L/zaPPgNDcuLS6j09/ha36eGptc4CLu7wN/+9G3qTEnZ49g=;9PumN9l0TS2iSJh5fMOsmw=="
 ---

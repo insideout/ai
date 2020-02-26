@@ -61,17 +61,6 @@ related:
       - url: "https://images.wsj.net/im-153483/social"
         width: 1280
         height: 640
-  - title: "U.S. lawmakers to hear calls for requiring new safeguards for self-driving cars"
-    excerpt: "A U.S. House panel on Tuesday will hear calls for requiring new safeguards as part of any effort to speed the adoption of self-driving cars on U.S. roads. At the same hearing, groups representing automakers and tech companies will tout benefits of autonomous vehicles and warn the United States risks falling behind China and others without new legal backing."
-    publishedDateTime: 2020-02-11T10:10:00Z
-    webUrl: "https://www.reuters.com/article/us-autos-autonomous-congress-idUSKBN20513F"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN20513F"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN20513F"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 50
   - title: "US lawmakers, trial lawyers clash over self-driving rules"
     excerpt: "US lawmakers, trial lawyers clash over self-driving rules Trial lawyers objected to a lack of protections in a 2018 Senate bill that would ensure the right to sue carmakers after autonomous-vehicle crashes Check out this story on detroitnews.com ..."
     publishedDateTime: 2020-02-11T22:55:00Z

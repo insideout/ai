@@ -4,10 +4,8 @@ title: "Automation Is Probably Coming for Your Job Too"
 excerpt: "Waymo, a self-driving-technology company owned by Google's parent corporation ... since up to 70 percent of the work they do could be done by machines. But as artificial intelligence becomes more common and effective, automation will start to supplant receptionists, couriers, market research analysts, proofreaders, cashiers, office clerks ..."
 publishedDateTime: 2020-02-07T13:10:00Z
 webUrl: "https://www.gq.com/story/automation-is-coming"
-ampWebUrl: "https://www.gq.com/story/automation-is-coming/amp"
-cdnAmpWebUrl: "https://www-gq-com.cdn.ampproject.org/c/s/www.gq.com/story/automation-is-coming/amp"
 type: article
-quality: 44
+quality: 4
 heat: -1
 published: false
 
@@ -19,29 +17,17 @@ topics:
   - AI
   - AI in Autos
 
-images:
-  - url: "https://media.gq.com/photos/5e3c46fb40e46c00081a19f2/master/pass/GettyImages-1082066722.jpg"
-    width: 6000
-    height: 4000
-    title: "Automation Is Probably Coming for Your Job Too"
-
 related:
-  - title: "Is AI Coming for the Job of your Favourite News Reader?"
-    excerpt: "News agency Reuters says it has worked with UK-based “synthetic media” company Synthesia to create a convincingly realistic, AI-generated sports presenter ... is capable of doing this efficiently remains an open question.) Credit: TwitterAt the start of the year Facebook rolled out a similar policy of declining to actively delete deepfake ..."
-    publishedDateTime: 2020-02-11T10:46:00Z
-    webUrl: "https://www.cbronline.com/news/reuters-ai-presenter"
-    ampWebUrl: "https://www.cbronline.com/news/reuters-ai-presenter/amp/"
-    cdnAmpWebUrl: "https://www-cbronline-com.cdn.ampproject.org/c/s/www.cbronline.com/news/reuters-ai-presenter/amp/"
+  - title: "This robot trash bin automatically sorts your recyclables for you"
+    excerpt: "The office is one of the first to use the technology, called TrashBot, from a startup called CleanRobotics ... [Photo: Clean Robotics] He thought that technology could help. “We started looking at the diminishing costs of sensors and robotic components and the increasing accessibility of algorithms and AI systems and we thought, maybe we ..."
+    publishedDateTime: 2020-02-13T11:35:00Z
+    webUrl: "https://www.fastcompany.com/90462635/this-robot-trash-bin-automatically-sorts-your-recyclables-for-you?partner=feedburner"
     type: article
     provider:
-      name: Computer Business Review
-      domain: cbronline.com
-    quality: 59
-    images:
-      - url: "https://www.cbronline.com/wp-content/uploads/2020/02/Capture.jpg"
-        width: 773
-        height: 454
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 19
 
-secured: "NlbT+iKZPkVOXMeDwatPcFR2eP20sevyuaJs0ZXdUIdzZSsMMiNc8gFGO1fRUBZ1JCY8iTwcAEdBDPjDSIwrSkuyFNdQdljiLqvvglTvzdB6j/wOFSXaOGgy/NrXS+9K02ahDrquey1EifecK6scH34qwKhsSMkqK2iRjeuCoJRqNtsobxxy/GbMBfJOmgIlYu54mFzvUml6+xbEnLHO66lyTn0RLUTe1IXvbrjp7TXa2C9DSBjlog5ThJVkw+3FSn1LpJO9YDiPFPWwG6kh26XRXnBmT3ugxm89dCRCkv4AJFmMDL1rwNrD+pFX2dWo;l6QUPQrmpTXP7HoL32unTw=="
+secured: "IA173UdD216iGeMq/KPCRPM9JPosdNYT27OC9k5ZqmrNS6K46fWXgelZueMBnGHgRYjfH5Pg9UIMHPxuQoVFBisEbwchiHd35ebB1wsnpkfT0R9Mrf7Pk3BIFPPGC8TY2TE+YOXbaaydWHO2NXXJ7H4JKNLcRMDePDiLqNuJH+DKpOw5no3BKtSu3foAJBswVoAo/RQNKdCxd+qlocBRrrmSY/9sGp1gjWzeU20KxI0uo56Ui3GUdwQfNH27bc428BV6ApuTqWMiW6QXu+UTuXNllrQC5+OhUt/NTqQ3FIddoeb4Id8ibhGTiTccCO2zaftIDeLgGEIMjZ+CwiAcfjhmQgTx1K1GuEjnT9CFgL5N3fzNHYFuzQfET+EfYtjBgDWgRwVDapPmviwdNMXMeFHrfzr0Ifp/ZvBa8cReNsr1ULXDeIX/cEZ7tnhNlw+0XVADgE5Bgvx5zJxgBQ7Xk7EmO+u4jg/dw55wsdFinuI=;W43fg5C4JwozKJjfATT5wQ=="
 ---
 

@@ -129,21 +129,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/10/alex-knight-B0-kMa8BgU-unsplash.jpg?fit=1600%2C800&strip=all"
         width: 1600
         height: 800
-  - title: "Facial recognition: 'No justification' for Police Scotland to use technology"
-    excerpt: "MSPs have warned there is no justification for using live facial recognition following privacy and human rights concerns. A report said the software would be a \"radical departure\" from the current practice of policing by consent. Police Scotland said it hoped to use the software by 2026, but later put plans on hold. The technology can scan ..."
-    publishedDateTime: 2020-02-11T10:33:00Z
-    webUrl: "https://www.bbc.com/news/uk-scotland-51449166"
-    ampWebUrl: "https://www.bbc.com/news/amp/uk-scotland-51449166"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/uk-scotland-51449166"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 86
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/FBC6/production/_110845446_gettyimages-1199003713.jpg"
-        width: 1024
-        height: 576
   - title: "EU offers strategy for artificial intelligence, facial recognition"
     excerpt: "A European Union strategy, announced Wednesday, calls for regulations for artificial intelligence and facial recognition."
     publishedDateTime: 2020-02-19T21:21:00Z
@@ -303,21 +288,6 @@ related:
       - url: "https://www.businessinsider.in/thumb/msid-74176964,height-275,width-412,imgsize-146190/tech/news/indian-government-to-add-facial-recognition-iris-scan-for-digital-payments/digital-payments.jpg"
         width: 412
         height: 275
-  - title: "Florida cops use this facial recognition tech that could be pulling your pics"
-    excerpt: "Even a flier of the suspect’s photos sent to other law enforcement agencies turned up nothing. Tampa police, meanwhile, were testing a powerful facial recognition technology that scanned for matches from billions of public images. Pinellas asked for help and an analyst quickly got a match. Hours later, investigators arrested the suspect."
-    publishedDateTime: 2020-02-11T10:08:00Z
-    webUrl: "https://www.tampabay.com/florida-politics/buzz/2020/02/11/florida-cops-use-this-facial-recognition-tech-that-could-be-pulling-your-pics/"
-    ampWebUrl: "https://www.tampabay.com/florida-politics/buzz/2020/02/11/florida-cops-use-this-facial-recognition-tech-that-could-be-pulling-your-pics/?outputType=amp"
-    cdnAmpWebUrl: "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/florida-politics/buzz/2020/02/11/florida-cops-use-this-facial-recognition-tech-that-could-be-pulling-your-pics/?outputType=amp"
-    type: article
-    provider:
-      name: Tampa Bay Times
-      domain: tampabay.com
-    quality: 56
-    images:
-      - url: "https://www.tampabay.com/resizer/Ad0jNQXVyDvwAuA5wrBJPTi-8v8=/800x450/smart/arc-anglerfish-arc2-prod-tbt.s3.amazonaws.com/public/MNOYRNOZY5HFDLXUNY5ON7YO5A.jpg"
-        width: 800
-        height: 450
   - title: "Chino PD to hold forum Wednesday on proposed use of facial recognition technology"
     excerpt: "Facial recognition technology is already used by several agencies in the Inland Empire, and the Chino Police Department is considering using the technology in the future. The department is holding a public forum Wednesday evening to get feedback from the community on any concerns residents might have about the technology. Chino police said in a ..."
     publishedDateTime: 2020-02-12T01:16:00Z
@@ -348,21 +318,6 @@ related:
       - url: "https://www.dailydot.com/wp-content/uploads/2020/02/Facial-Recognition-Bill-Congress-Merkley-Booker-1024x512.jpg"
         width: 1024
         height: 512
-  - title: "“No justifiable basis” for Police Scotland to use live facial recognition technology"
-    excerpt: "Members of Scottish Parliament said that facial recognition software is known to discriminate against females and members of the BAME community. Whilst Police Scotland has outlined its ambitions to make use of facial recognition technology in its 10-year strategy, which plans to introduce its use by 2026, Members of Scottish Parliament have ..."
-    publishedDateTime: 2020-02-11T11:26:00Z
-    webUrl: "https://diginomica.com/no-justifiable-basis-police-scotland-use-live-facial-recognition-technology"
-    ampWebUrl: "https://diginomica.com/no-justifiable-basis-police-scotland-use-live-facial-recognition-technology?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/no-justifiable-basis-police-scotland-use-live-facial-recognition-technology?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 52
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2019-08/00F53187-544B-4807-ACF1-7877845AA4B7.jpeg"
-        width: 640
-        height: 426
   - title: "EU backs away from proposed five-year facial recognition ban"
     excerpt: "Instead, it will recommend that member states assess the technology themselves. The European Union won't issue a ban on facial recognition tech, as it once proposed, the Financial Times reports. In a previous draft of a paper on artificial intelligence, the European Commission suggested a five-year moratorium on facial recognition, so that the ..."
     publishedDateTime: 2020-02-11T15:49:00Z
@@ -598,15 +553,6 @@ related:
       name: The Star
       domain: thestar.com
     quality: 19
-  - title: "MSPs warn Police Scotland about use of live facial recognition technology"
-    excerpt: "Members of the Scottish Parliament (MSPs) have insisted that current live facial recognition technology is not fit for use by Police Scotland. A new report from the Parliament's Justice Sub-Committee warns Police Scotland that before introducing live facial recognition technology it must demonstrate the legal basis they would rely on for using ..."
-    publishedDateTime: 2020-02-11T10:26:00Z
-    webUrl: "https://www.telecompaper.com/news/msps-warn-police-scotland-about-use-of-live-facial-recognition-technology--1326133"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 18
   - title: "Polls shows Utahns aren’t concerned about facial recognition software. Lawmakers and privacy advocates say they should be."
     excerpt: "Many Utah lawmakers were alarmed last year when they learned that federal law enforcement had used facial recognition technology to scan thousands of photos in the state’s driver license database for suspects. Despite the uproar, most Utah residents say they approve of law enforcement searching the state database for suspects, according to a ..."
     publishedDateTime: 2020-02-13T13:03:00Z
@@ -633,17 +579,6 @@ related:
       - url: "https://www.cpomagazine.com/wp-content/uploads/2020/02/facial-recognition-surveillance-technology-should-be-suspended-in-the-u-s-says-coalition-of-40-privacy-and-free-speech-groups_1500.jpg"
         width: 1500
         height: 860
-  - title: "Emotion Detection & Recognition Markets, Forecast to 2024 - Rising Need for Socially Intelligent Artificial Agents"
-    excerpt: "Dublin, Feb. 11, 2020 (GLOBE NEWSWIRE) -- The \"Emotion Detection and Recognition Market by Technology (Feature Extraction & 3D Modeling, NLP, ML), Software Tool (Facial Expression Recognition, Speech & Voice Recognition),"
-    publishedDateTime: 2020-02-11T10:18:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/02/g15297123/emotion-detection-recognition-markets-forecast-to-2024-rising-need-for-socially-intelligent-artifi"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/15297123"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15297123"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 2
   - title: "Emotion Detection & Recognition Markets, Forecast to 2024 - Rising Need for Socially Intelligent Artificial Agents"
     excerpt: "ML), Software Tool (Facial Expression Recognition, Speech & Voice Recognition), Application Area, End User, and Region - Global Forecast to 2024\" report has been added to ResearchAndMarkets.com's offering. The Global Emotion Detection & Recognition Market is projected to grow from US$ 21.6 billion in 2019 to US$ 56 billion by 2024, at a CAGR of ..."
     publishedDateTime: 2020-02-12T00:38:00Z

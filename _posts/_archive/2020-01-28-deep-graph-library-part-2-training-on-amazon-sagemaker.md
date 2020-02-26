@@ -5,9 +5,9 @@ excerpt: "Well, as DGL is available on Amazon SageMaker, I’ll show you in this
 publishedDateTime: 2020-01-28T09:58:00Z
 webUrl: "https://medium.com/@julsimon/deep-graph-library-part-2-training-on-amazon-sagemaker-54d318dfc814"
 type: article
-quality: 84
-heat: 84
-published: true
+quality: 64
+heat: 64
+published: false
 
 provider:
   name: Medium
@@ -21,12 +21,6 @@ topics:
   - AI
   - AWS AI
 
-images:
-  - url: "https://miro.medium.com/max/891/1*Ti5TbBkB0vxxKOC5DyESHQ.png"
-    width: 891
-    height: 514
-    title: "Deep Graph Library, part 2 — Training on Amazon SageMaker"
-
-secured: "jiU9faVHPlAPrHdLnteXvWKjveokMBtbo8l6OYSl7bM1oo1gQhU009iY3zFJvcQ1WCXR7lgCGVRCZMMQIK9XlF2FnxVaAf2vRb0uy3SarUT6XpaLEAFJJtCPTKKAGmbqoI01dUlQ0D2oMX/j0o6cpi5hfFxbbjxIzTr/tpufipGyN00U6vI5UADSgTpsEECW9U7lMqfezfwJ3Sq9+/GOMeQb0huanwLlDzkZm1PwQKZkYjdQZX4+Knt1Go3jFP5VoAQlZznj8W94f8ec4KwTTCjyQnaCYOaaRZ5H1Rb8liF7zWFJeUQ0xNeODurz/GF+;NP6EQiTgeEz6o2KyzKxJiA=="
+secured: "mlQRpufI/Qmx0dCu7KPwXjxJuBdL5IBCCDB9oBRBah5f8jMhxKmNfA4e6jGGKf1HodEGWgU9DzEvRS0MIhdUTTiupVu+cQWnhAznANkE9DTumPvbzsJsaRe8FoCXPf99F7bhtHipkMxksoJyCVe7/ZiiqMPSrQO1ldlIz0hrxj37mYZXhhJ3rWf9CI90h8USoQfXryLPiQB+DiuFbDUNUW6diVRChuzl2iAk8ATECj1uMVbOJNX7kHQnQWQfuBHabFIL+cPStisyRSCUlNsU2q/0LKg6AyidBY9E3DET82Q/NhfBR9tDF+CqK7BeUMn5;hWvxeVdJDJa9owaky4aXGQ=="
 ---
 

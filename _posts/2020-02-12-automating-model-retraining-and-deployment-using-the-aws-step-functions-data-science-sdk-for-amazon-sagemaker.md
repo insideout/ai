@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-12T18:22:09Z
 webUrl: "https://aws.amazon.com/blogs/machine-learning/automating-model-retraining-and-deployment-using-the-aws-step-functions-data-science-sdk-for-amazon-sagemaker/"
 type: article
 quality: 100
-heat: 240
+heat: 230
 published: true
 
 provider:
@@ -161,19 +161,6 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 31
-  - title: "Elucidating the multiple roles of hydration for accurate protein-ligand binding prediction via deep learning"
-    excerpt: "Nevertheless, for 16% of all systems this near-native pose could not be ranked first by the deep-learning model. Furthermore, for about 150 systems, which failed in the top rank but had a near-native pose at the second rank, the CNN score was almost identical. Further analysis revealed four main reasons for this difficulty in reproducing the ..."
-    publishedDateTime: 2020-02-11T10:21:00Z
-    webUrl: "https://www.nature.com/articles/s42004-020-0261-x"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 20
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs42004-020-0261-x/MediaObjects/42004_2020_261_Fig1_HTML.png"
-        width: 685
-        height: 389
   - title: "Using Transfer Learning to Overcome the Barriers Facing Machine Learning in Materials Science"
     excerpt: "Machine learning’s ability to perform intellectually demanding tasks across various fields, materials science included, has caused it to receive considerable attention. Many believe that it could be used to unlock major time and cost savings in the development of new materials. The growing demand for the use of machine learning to derive fast ..."
     publishedDateTime: 2020-02-16T00:03:00Z

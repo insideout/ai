@@ -65,6 +65,15 @@ related:
       - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JD_ArticleMainImageFaceDetect/454153"
         width: 822
         height: 537
+  - title: "Drones, disinfecting robots, supercomputers: The coronavirus outbreak is a test for China's tech industry"
+    excerpt: "The government has long stressed technological innovation as an important pillar of growth, and Beijing has spent billions of dollars on subsidies, loans and bonds designed to spur advancements in artificial intelligence ... from simulation to practice.\" And a startup, Shanghai TMIRob, is sending dozens of robots inside hospitals throughout ..."
+    publishedDateTime: 2020-02-26T04:07:00Z
+    webUrl: "https://www.cnnphilippines.com/business/2020/2/26/China-tech-industry-coronavirus.html"
+    type: article
+    provider:
+      name: CNN Philippines
+      domain: cnnphilippines.com
+    quality: 2
 
 secured: "DAqLxKTUqdW/9xrunWOdBPlAm0miSSfnF5Ais1/4q9ZnheAVMhtWuBEjn3flW61gDu59mGMCjFU7FpjHrPKLVpSqOyBxRhB9IslVQ8v+x+n/1YRpo/dZUio0Oql4BGY3fIk5G0t1pLH1IrZImAsdYamKM8HlkVERy0fHsU/PimmmkF+YyuPOoak2z+UuhWk+0R5UI1ScUEiqWY1Y1+6gvv5eQ/72f7se7dJ/wzzT/Y9mBqMkCwa4eBNw+QVA1Nj+MZ1N/KBvVCetdz8RGFysbLC+egOVxFszDL3pyObMdjk5iP/NzEVoPaC4OXdLUO+MI82Eog23HCEzM9wnpqhdOKBQxrZERNRGUeJcC4qHND+EAw4n+uUUdi1osJ/n3323NY0vS/aHmeEwUGZu7y2xrG8XD5G4ihtFlD1jl+BXRaaxr/KsVLUjaugRvLru9fjbltm9IoxdIwt/SpI3UiWbyybW8PxkCmm1T0dIvppuMpg=;lcHZ3u2aGB42+Wj4GgB9WA=="
 ---

@@ -2,125 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_posts/2020-02-25-ibm-watson-how-ai-is-transforming-the-supply-chain.md",
-      "title": "IBM Watson: how AI is transforming the supply chain",
-      "excerpt": "New technology such as AI, Big Data and machine learning is making life easier for industry executives as an ever-increasing number of companies begin to digitise their offerings. In order to stay ahead in a dynamic and continuously evolving industry, businesses must trial technology to increase efficiency. The technology giants, IBM Watson ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.supplychaindigital.com/technology/ibm-watson-how-ai-transforming-supply-chain",
-      "ampWebUrl": "https://www.supplychaindigital.com/technology/ibm-watson-how-ai-transforming-supply-chain?amp",
-      "cdnAmpWebUrl": "https://www-supplychaindigital-com.cdn.ampproject.org/c/s/www.supplychaindigital.com/technology/ibm-watson-how-ai-transforming-supply-chain?amp",
-      "publishedDateTime": "2020-02-25T10:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Supply Chain Digital",
-        "domain": "supplychaindigital.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "http://www.supplychaindigital.com/sites/default/files/styles/og_image/public/topic/image/GettyImages-1097225424_0.jpg?itok=C9V8WymX",
-          "width": 1200,
-          "height": 627,
-          "title": "IBM Watson: how AI is transforming the supply chain",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-25-its-time-to-take-self-driving-storage-out-for-a-spin.md",
-      "title": "It's Time To Take 'Self-Driving' Storage Out For A Spin",
-      "excerpt": "We have solidly embarked on the journey to the \"self-driving\" storage system: a fully autonomous system capable of adapting its behavior in response to changing workloads.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/25/its-time-to-take-self-driving-storage-out-for-a-spin/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/25/its-time-to-take-self-driving-storage-out-for-a-spin/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/25/its-time-to-take-self-driving-storage-out-for-a-spin/amp/",
-      "publishedDateTime": "2020-02-25T07:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F02%2Fa-26-2.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "It's Time To Take 'Self-Driving' Storage Out For A Spin",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-25-local-ai-firm-builds-speech-recognition-for-kinyarwanda.md",
-      "title": "Local AI firm builds speech recognition for Kinyarwanda",
-      "excerpt": "Digital Umuganda, a fully Rwandan artificial intelligence (AI) firm, is building an automatic speech and voice recognition infrastructure for Kinyarwanda in partnership with Rwanda Utility and Regulatory Authority (RURA). The technology is part of RURA’s joint initiative dubbed KinyaTech with a non-profit behind Firefox web-browser ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.newtimes.co.rw/daily/technology/local-ai-firm-builds-speech-recognition-for-kinyarwanda",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-25T05:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New Times",
-        "domain": "newtimes.co.rw",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.newtimes.co.rw/sites/default/files/main/articles/2020/02/20/voice-recog-devices-feature_1200x675_hero_011419_0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Local AI firm builds speech recognition for Kinyarwanda",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_posts/2020-02-25-machine-learning-in-retail-market-2020-24-ongoing-trends-analysis-by-ibm-microsoft-amazon-web-services-and-oracle.md",
       "title": "Machine Learning in Retail Market 2020-24 Ongoing Trends Analysis by IBM, Microsoft, Amazon Web Services and Oracle",
       "excerpt": "The Global Machine Learning in Retail Market 2020 research report provides in-depth analysis by Top Players, Geography, End users, Applications, Competitor analysis, Sales, Revenue, Price, Gross Margin,",
@@ -460,7 +341,7 @@
       "path": "_posts/2020-02-25-qualcomm-reveals-a-reference-headset-to-show-off-its-xr2-chip.md",
       "title": "Qualcomm reveals a reference headset to show off its XR2 chip",
       "excerpt": "As well as 5G, 8K and double the CPU and GPU performance of Qualcomm's previous XR platform, the XR2 headset features four times the video bandwidth, six times higher resolution and eleven times the AI improvements. The design supports up to seven cameras, and includes an IR emitter for hand and head tracking, as well as electromagnetic ...",
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.engadget.com/2020/02/25/qualcomm-reference-headset-xr2-chip-platform/",
@@ -505,7 +386,7 @@
       "path": "_posts/2020-02-25-ripcord-raises-45-million-to-digitize-paper-records-with-robotics-and-ai.md",
       "title": "Ripcord raises $45 million to digitize paper records with robotics and AI",
       "excerpt": "In search of a solution five years ago, three entrepreneurs — NASA veteran Kim Lembo, former Apple senior engineering scientist Alex Fielding, and Kevin Hall — cofounded Ripcord, a startup developing a portfolio of robots that can digitize paper records. Fresh off a series B funding round, the Hayward, California-based company today ...",
-      "heat": 208,
+      "heat": 198,
       "tags": null,
       "type": "article",
       "webUrl": "https://venturebeat.com/2020/02/25/ripcord-raises-45-million-to-digitize-paper-records-with-robotics-and-ai/",
@@ -981,7 +862,7 @@
       "path": "_posts/2020-02-26-toyota-steers-400-million-to-self-driving-startup-ponyai.md",
       "title": "Toyota steers $400 million to self-driving startup Pony.ai",
       "excerpt": "With this new investment, their relationship will become even closer, with the automaker and the startup “co-developing” mobility products like “mobility services.” Pony.ai has been testing robot taxis in Beijing and Guangzhou since late 2018 as well as in Fremont and Irvine, California. The startup claims to be the first company to ...",
-      "heat": 139,
+      "heat": 189,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.theverge.com/2020/2/25/21152817/toyota-pony-ai-self-driving-car-investment-valuation-china-silicon-valley",
@@ -2084,6 +1965,132 @@
       "topics": [
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2019-12-22-top-25-ai-startups-who-raised-the-most-money-in-2019.md",
+      "title": "Top 25 AI Startups Who Raised The Most Money In 2019",
+      "excerpt": "Its Cognito platform accelerates threat detection and investigation using artificial intelligence to collect ... and robotics teams at companies like Waymo, OpenAI, Lyft, Zoox, Pinterest, and Airbnb focus on building differentiated models vs.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2019/12/22/top-25-ai-startups-who-raised-the-most-money-in-2019/",
+      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2019/12/22/top-25-ai-startups-who-raised-the-most-money-in-2019/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2019/12/22/top-25-ai-startups-who-raised-the-most-money-in-2019/amp/",
+      "publishedDateTime": "2019-12-22T13:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5dff94624e2917000783b233%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Top 25 AI Startups Who Raised The Most Money In 2019",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2019-12-23-artificial-intelligence-that-tracks-down-leukemia-discovered.md",
+      "title": "Artificial Intelligence That Tracks Down Leukemia Discovered",
+      "excerpt": "Artificial intelligence is a much-discussed topic in ... Possibly, the diagnosis would then happen earlier than it does now and therapy could start earlier.\"",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.medindia.net/news/artificial-intelligence-that-tracks-down-leukemia-discovered-192212-1.htm",
+      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-that-tracks-down-leukemia-discovered-192212-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-that-tracks-down-leukemia-discovered-192212-1.htm",
+      "publishedDateTime": "2019-12-23T10:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.medindia.net/amp-images/health-images/chemotherapy-associated-neurocognitive-in-leukemia-patients.jpg",
+          "width": 1200,
+          "height": 1000,
+          "title": "Artificial Intelligence That Tracks Down Leukemia Discovered",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2019-12-24-artificial-intelligence-ai-robots-market-statistical-analysis-2020cagr-growth-of-2020-and-forecast-to-2023.md",
+      "title": "Artificial Intelligence (AI) Robots market statistical analysis 2020|CAGR growth of 2020 and forecast to 2023",
+      "excerpt": "Dec 24, 2019 (The Expresswire) -- Artificial Intelligence (AI) Robots Market 2019 report focuses on the budding trends of market, market share, its segmentation, regional outlook and have explored different segments of the market. The Artificial ...",
+      "heat": 63,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-statistical-analysis-2020cagr-growth-of-2020-and-forecast-to-2023-2019-12-24",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-12-24T01:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence (AI) Robots market statistical analysis 2020|CAGR growth of 2020 and forecast to 2023",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

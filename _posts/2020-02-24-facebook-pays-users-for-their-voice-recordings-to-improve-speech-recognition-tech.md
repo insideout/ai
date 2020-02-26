@@ -117,6 +117,19 @@ related:
       name: Engadget
       domain: engadget.com
     quality: 51
+  - title: "Move your Azure Cognitive Search service to another Azure region"
+    excerpt: "To move your Azure Cognitive Service account from one region to another ... Verify your service status in the new region Clean up resources in the source region. Ensure that the services and features that your account uses are supported in the target region. When you move your search service to the new region, you will need to move your ..."
+    publishedDateTime: 2020-02-26T05:33:00Z
+    webUrl: "https://docs.microsoft.com/en-us/azure/search/search-howto-move-across-regions"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 39
+    images:
+      - url: "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png"
+        width: 400
+        height: 400
   - title: "Facebook to pay users for recording their voice to improve its speech recognition tech"
     excerpt: "Facebook has announced it will pay select users who agree to record their voice to improve its speech recognition technology. According to The Verge, the social networking giant he company will pay select users to record snippets of audio through a new programme called “Pronunciations in its Viewpoints market research app."
     publishedDateTime: 2020-02-21T10:28:00Z

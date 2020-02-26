@@ -164,19 +164,6 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 31
-  - title: "Elucidating the multiple roles of hydration for accurate protein-ligand binding prediction via deep learning"
-    excerpt: "Nevertheless, for 16% of all systems this near-native pose could not be ranked first by the deep-learning model. Furthermore, for about 150 systems, which failed in the top rank but had a near-native pose at the second rank, the CNN score was almost identical. Further analysis revealed four main reasons for this difficulty in reproducing the ..."
-    publishedDateTime: 2020-02-11T10:21:00Z
-    webUrl: "https://www.nature.com/articles/s42004-020-0261-x"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 20
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs42004-020-0261-x/MediaObjects/42004_2020_261_Fig1_HTML.png"
-        width: 685
-        height: 389
   - title: "Landis+Gyr’s Revelo™ Brings Pattern Recognition and Machine Learning to the Edge of the Grid"
     excerpt: "Founded in 2013 by pioneers in speech recognition, Sense uses machine learning technology to provide real-time insights on device behavior, even for those devices that are not “smart.” Customers rely on Sense for a wide range of uses including checking what time their kids get home, monitoring their home appliances, determining whether they ..."
     publishedDateTime: 2020-02-12T19:42:00Z

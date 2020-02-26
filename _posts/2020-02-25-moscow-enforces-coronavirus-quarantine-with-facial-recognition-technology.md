@@ -434,6 +434,15 @@ related:
       name: The Express Tribune
       domain: tribune.com.pk
     quality: 19
+  - title: "NYCLU forum tackles issue of facial recognition technology in schools"
+    excerpt: "LOCKPORT — Members of the New York Civil Liberties Union took their fight against facial recognition systems in schools to a local audience on Tuesday at the Lockport Public Library. Since 2018, an intense public debate has erupted in Lockport and nationally over the district installing a facial and object recognition system — with the ..."
+    publishedDateTime: 2020-02-26T04:21:00Z
+    webUrl: "https://www.niagara-gazette.com/news/local_news/nyclu-forum-tackles-issue-of-facial-recognition-technology-in-schools/article_0c32825a-b780-57fd-b9c4-b58258d601ea.html"
+    type: article
+    provider:
+      name: Niagara Gazette
+      domain: niagara-gazette.com
+    quality: 19
   - title: "Chief says police will not use face recognition until technology has been fully reviewed"
     excerpt: "WATERLOO REGION — Controversial facial recognition technology is not being used by local police and won't be until it is fully reviewed, said the police chief. Waterloo Regional Police Chief Bryan Larkin said he will be issuing an internal memo telling all officers that they are not to use face recognition apps in their investigations."
     publishedDateTime: 2020-02-20T04:31:00Z

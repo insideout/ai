@@ -52,6 +52,15 @@ related:
       - url: "https://i.insider.com/587521c5f10a9a2a768b4942?width=1200&format=jpeg"
         width: 850
         height: 425
+  - title: "Review: Hello World: How to Be Human in the Age of the Machine by Hannah Fry — it won’t be as scary as you think"
+    excerpt: "It seems there will be a bit of a problem with driverless cars ... person to write this startlingly clear account of how artificial intelligence is changing the way we live."
+    publishedDateTime: 2020-02-21T00:00:00Z
+    webUrl: "https://www.thetimes.co.uk/edition/culture/review-hello-world-how-to-be-human-in-the-age-of-the-machine-by-hannah-fry-it-wont-be-as-scary-as-you-think-75m7678lg"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 0
 
 secured: "klmjii7W29hda2I+2TFaYmhb1GJ2QUfB1tpIuMjOI5epucDe9uomz9paAa4s6hcHYLeapA/6jb6jSWjujMRSEcqET+Lz0/LoOOsJxwQC+wIiGW0Ft1NSoT4EgIugcfFTli6CV48/0ldmZrhriaQeFRW7tydpYppVPS3A8t6yAxX//3cLT2q129EgaCY/Hs7FDrB03WX0akcATm+lAaOCc5KHQQJNeKv3XV3WqNMykJ7VpEKJnYmvinvxZlwb0sG6Sp6Nd0nV+E+wlRVOzcLG8uSFOSjhtotMUKr2SVfa69XB6kf6FCz+S490ivZr+qtvxadrQT/Ow/hHOn2h5uJiSPiAXmmeatVYW2KYmoysGqHKSpDld7rSEBQ0GY2COMPzHruTja7lwftV28dkSMrHB0YbeeNoDY53O24GgGuF5ut6boria4M9YJjFCA3CvX8a21XcSKW1w0rhh+H2pRTS6Hfno1kGCh0tRbs1L2VyK8M=;lcq+OgIfMN5qlrt3sxncaQ=="
 ---

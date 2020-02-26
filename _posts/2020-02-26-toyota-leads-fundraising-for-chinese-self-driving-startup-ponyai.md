@@ -69,6 +69,41 @@ related:
       - url: "https://www.nasdaq.com/sites/acquia.prod/files/2019-11-18T043046Z_1533163308_RC2W8D9ZM05M_RTRMADP_2_CHINA-AUTOS.JPG"
         width: 640
         height: 427
+  - title: "Autonomous Driving Startup Pony.ai Raises $462 Million in Toyota-Led Funding"
+    excerpt: "Autonomous Driving Startup Pony.ai Raises $462 Million in Toyota-Led Funding HONG KONG/BEIJING (Reuters) - Autonomous driving firm Pony.ai said on Wednesday it has raised $462 million in its latest funding round,"
+    publishedDateTime: 2020-02-26T04:47:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2020-02-25/autonomous-driving-startup-ponyai-raises-462-million-in-toyota-led-funding"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 44
+  - title: "China’s Pony.ai nabs $400 million in new funding from Toyota"
+    excerpt: "Autonomous vehicle startup Pony.ai on Wednesday announced that it has raised $400 million in a funding round from Toyota Motor Corporation, the first-ever and biggest investment to date in a Chinese AV company by the Japanese auto giant. Why it matters: The latest investment is expected to help Pony.ai widen the gap between the company and its ..."
+    publishedDateTime: 2020-02-26T05:47:00Z
+    webUrl: "https://technode.com/2020/02/26/chinas-pony-ai-nabs-400-million-in-new-funding-from-toyota/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 37
+    images:
+      - url: "https://technode.com/wp-content/uploads/2020/02/technode.com-sjm-8934.jpg"
+        width: 1024
+        height: 683
+  - title: "Autonomous driving startup Pony.ai raises US$462mil in Toyota-led funding"
+    excerpt: "The Silicon Valley-based startup Pony.ai – co-founded by CEO James Peng, a former executive at China's Baidu, and chief technology officer Lou Tiancheng, a former Google and Baidu engineer – is already testing autonomous vehicles in California, Beijing and Guangzhou. The firm is focusing on achieving \"Level 4\", or fully autonomous standards ..."
+    publishedDateTime: 2020-02-26T05:01:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2020/02/26/autonomous-driving-startup-ponyai-raises-us462mil-in-toyota-led-funding"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 36
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2020/02/26/577344.JPG"
+        width: 1240
+        height: 826
   - title: "Autonomous driving startup Pony.ai raises $500 mln in Toyota-led funding: sources"
     excerpt: "Pony.ai, which has partnerships with automakers Hyundai and GAC, declined to comment. A Beijing-based spokesman for Toyota declined to comment. The investment by Toyota comes at a time when global car makers, technology firms, start-ups and investors – including Tesla, Alphabet Inc’s Waymo and Uber – are pouring capital into developing ..."
     publishedDateTime: 2020-02-26T02:10:00Z
@@ -80,6 +115,19 @@ related:
       name: Leader-Post
       domain: leaderpost.com
     quality: 32
+  - title: "Autonomous driving startup Pony.ai raises US$500 million in Toyota-led funding: Sources"
+    excerpt: "Pony.ai, which has partnerships with automakers Hyundai and GAC, declined to comment. A Beijing-based spokesman for Toyota declined to comment. The investment by Toyota comes at a time when global car makers, technology firms, start-ups and investors - including Tesla, Alphabet Inc's Waymo and Uber - are pouring capital into developing self ..."
+    publishedDateTime: 2020-02-26T05:49:00Z
+    webUrl: "https://www.channelnewsasia.com/news/business/autonomous-driving-startup-pony-ai-raises-us-500-million-in-12471192"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 29
+    images:
+      - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/12471190/16x9/991/557/bc81125508ceccb37bf723591384bb1c/ph/staff-members-are-seen-at-the-halloween-decorated-reception-area-of-the-chinese-self-driving-startup-pony-ai-headquarters-in-guangzhou-1.jpg"
+        width: 991
+        height: 557
   - title: "Exclusive: Autonomous driving startup Pony.ai raises US$500 million in Toyota-led funding - sources"
     excerpt: "FILE PHOTO: Staff members are seen at the Halloween-decorated reception area of the Chinese self-driving startup Pony.ai headquarters in Guangzhou ... The Silicon Valley-based startup Pony.ai - co-founded by CEO James Peng, a former executive at China's Baidu, and chief technology officer Lou Tiancheng, a former Google and Baidu engineer ..."
     publishedDateTime: 2020-02-26T02:19:00Z
@@ -93,7 +141,16 @@ related:
       - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/12471190/16x9/991/557/bc81125508ceccb37bf723591384bb1c/ph/staff-members-are-seen-at-the-halloween-decorated-reception-area-of-the-chinese-self-driving-startup-pony-ai-headquarters-in-guangzhou-1.jpg"
         width: 991
         height: 557
+  - title: "Toyota leads $500mn investment in autonomous driving startup Pony.ai: Report"
+    excerpt: "Pony.ai, which has partnerships with automakers Hyundai and GAC, declined to comment. A Beijing-based spokesman for Toyota declined to comment. The investment by Toyota comes at a time when global carmakers, technology firms, start-ups and investors - including Tesla, Alphabet Inc's Waymo and Uber - are pouring capital into developing self ..."
+    publishedDateTime: 2020-02-26T04:22:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/auto/toyota-leads-500mn-investment-in-autonomous-driving-startup-pony-ai-report-4977971.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 14
 
-secured: "ZqeConjxwTMalOy04frDzi8xdCkpnHZeIUx4MAU6UKnslKgRkhPpRdppt7Y5eirtZYm5OboU9/UzdiugcLNFdpNfhlv3/KZ5eudjK5vKFQt3gJfXwwHYU/MzwGG1Brl6iP2vbsmkaduQR13qxTIGFIQJqC6h9hyf8PJ7VrxKDJ9KHHquTOnRBM15Mr8Op40ZOvMoj7dKqyjMuZQ48TBI5uc3K+Eh50heKqB2EvAQVAnGdVanw/3BbIeo+g/DKM4dm/Iif3MmvLg1diEWhBSiMqfi/EelL43I2VxCjdcQUTNiGEe9jdJDTFtO8WNyFnky;T6qYcLTOTU/YmyH+PihyLg=="
+secured: "088/dfQZT3N4rPOnM3lQKKpqVDt+3YaJBhMCAdyjNJImb9QMxAVfYh+Ya3Me2wFQ7xfusRHIqC5va3/7AQnmTXfoSX5e2XT1xSBHtSLM1DfJjU2ByR1ZTDyLq86LsT6lqJaQSnXtNzmuIRH1M8Xab6MQ51GQeng22QViRe/OTXaO7DrUfPYBxDmdeQ94KyT2KqijQMtmYOTI1XHm+TnnapsaXUQMmr12hiHbD3/4GXyHQ+Lb5ECQqdl3TxSd9sZ6UYb8F6qkHfvvyGhYdhLx7wP9vwfg9POg/VHHFDcQuXUNLKNL0vSLb1ICFW3WLrct2Ly3L2IKWjE3wktAnMOe93ChIAAzRfXUO7dr+Kx7TQfAkncUzLRIAI7JUI+rpeJdigCazJxYObI3p7il+LEBRtZthgEQj+tiqIYpQ3ffXGoKvQMgbvkmpIYLimKNEec8y8H49ozpkOieeIpUon5k00Vf1OeEsDZL1PjEzDU9iYk=;/hnjRyZAQMfvLt1s0D/7ag=="
 ---
 

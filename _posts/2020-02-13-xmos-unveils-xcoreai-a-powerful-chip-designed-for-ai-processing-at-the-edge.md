@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/02/12/xmos-unveils-xcore-ai-a-powerful-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/12/xmos-unveils-xcore-ai-a-powerful-chip-designed-for-ai-processing-at-the-edge/amp/"
 type: article
 quality: 105
-heat: 135
+heat: 125
 published: true
 
 provider:
@@ -32,21 +32,6 @@ images:
     title: "XMOS unveils Xcore.ai, a powerful chip designed for AI processing at the edge"
 
 related:
-  - title: "ARM shows off new Edge AI chip designs for cloud-less processing on IoT devices"
-    excerpt: "Chipmaker ARM has announced two new chip designs for AI processing, focused particularly on the internet of things (IoT) devices. The new designs- the ARM Cortex-M55 and Ethos-U55 are based on Edge AI technology, which basically means processing on a device without a cloud connection, The Verge reports. The ARM Cortex-M55 promises up to 15x ..."
-    publishedDateTime: 2020-02-11T10:26:00Z
-    webUrl: "https://timesofindia.indiatimes.com/videos/tech/arm-shows-off-new-edge-ai-chip-designs-for-cloud-less-processing-on-iot-devices/videoshow/74081733.cms"
-    ampWebUrl: "https://m.timesofindia.com/videos/tech/arm-shows-off-new-edge-ai-chip-designs-for-cloud-less-processing-on-iot-devices/amp_videoshow/74081733.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/videos/tech/arm-shows-off-new-edge-ai-chip-designs-for-cloud-less-processing-on-iot-devices/amp_videoshow/74081733.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 70
-    images:
-      - url: "https://static.toiimg.com/photo/msid-74081733/videos/tech/arm-shows-off-new-edge-ai-chip-designs-for-cloud-less-processing-on-iot-devices.jpg"
-        width: 1600
-        height: 900
   - title: "ARM shows off new Edge AI chip designs for cloud-less processing on IoT devices"
     excerpt: "The new designs are based on Edge AI technology, which basically means processing on a device without a cloud connection Chipmaker ARM has announced two new chip designs for AI processing, focused particularly on the internet of things (IoT) devices. The new designs- the ARM Cortex-M55 and Ethos-U55 are based on Edge AI technology, which ..."
     publishedDateTime: 2020-02-13T03:13:00Z

@@ -24,6 +24,6 @@ images:
     height: 627
     title: "Databricks Simplifies the Path to Building Lakehouses for Business Intelligence and Machine Learning"
 
-secured: "SSo4F01FvxJFNupo3CA6fcapj5k7BXCDqSALA2CARUEGAJcvCmdJ10MIayrGJTl3bdYMDDL1dm/paYZ4Dc08+MZ6he4j8+vnp9CpZ73VBDla6g10Oja5fBcYKO6E3qIkBIU8pmrs28VeSvR5DxqP4+OLJRFM+N6j09dRhtJowfKyel58KxUgTco78aCypvWtpkpGV0uTvLa50GUsh+S4+lckcFlTEkGcLq5p737Zgxvf11ip8ev1zWjodofBKCbO+zBgNd55EQY4Dt6nw9qHgvh8lwsHlfZB7U7wi4q1AqkhpflXPeyL4Hv18jT8hu2R;I3iA+JLFrxDUMEyzIRWOzg=="
+secured: "qYQcL7dWkrJ+L+QCaCwJs2kb5U6kiSWwStDNOzORLAo8Yvsq6SNmd6UKy/TJH+b172oxlzrjMU3+cm3o9F2ziU+AB8mnRIzpomn77Cy9nFbABrnpV1a9ZLoDseVaaxYclpT25OEDg3OJpVwa5tKY9+S4elk24gbUsjfuKB5qVchJUbEHB0IiWdEQ+L1BTu9yL4EEG7rBOJtGQ4tzXipvGgcln+HYGxKAIhdPclhli6tSH4NnxPecYXzFToLzSHr5tsu8cU2ubKSpgAR1mftp4NobCsVnT/r/G1vN+aWSyM/oCHEZ9G5Ju5dy1jc7k5SW;GMsxfZt+Bxx/A9kW8O3CZA=="
 ---
 

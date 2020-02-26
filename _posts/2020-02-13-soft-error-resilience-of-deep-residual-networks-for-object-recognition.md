@@ -26,11 +26,7 @@ related:
     provider:
       name: Geeky Gadgets
       domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2020/02/Raspberry-Pi-outdoor-camera.jpg"
-        width: 700
-        height: 500
+    quality: 19
 
 secured: "Bw95IcW345EW669uyTiQlis1mzNCuMUqvJfj4gFIaOypAc/9HOVSIA0+WdsJmHhEnY5tV56/3x2ImzkXPHrOBzSu+dSHl0ApNpZN07Iz7d6Ki9G9o6/0g/Zu2GigyCYrRsPNP6iAdQBtrCgl8h8dRojX315mzJ6dMKVbH6KSFJtBZVt6E6E5AsO8FzdZt9P57NsltiJ2X9frkBdPIPFfGWEmkipBFQfm+15aNzcN93WWkd5hDIW1yyTnXu6DBUEMc3cEVhM+PL/XmkWh2WqmW8ZVB0tatuLTRLvJa6xyq43PBBpM/863OeTmnGk2r76p;MAoZgYKzMlKFQt9dn10p4Q=="
 ---
