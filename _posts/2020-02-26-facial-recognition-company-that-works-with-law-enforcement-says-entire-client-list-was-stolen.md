@@ -33,6 +33,15 @@ related:
       - url: "https://cnet1.cbsistatic.com/img/1aArGlj1eo8hNeyu6s8obQPylfI=/756x567/2019/03/18/cca1be95-0ac4-4c06-b742-a22684c09044/facial-recognition-101-promo.jpg"
         width: 756
         height: 567
+  - title: "Secretive face-matching startup has customer list stolen"
+    excerpt: "Clearview, a secretive facial-recognition startup that claims to scrape the Internet for images to use, has itself now had data unexpectedly scraped, in a manner of speaking. Someone apparently popped into the company's system and stole its entire client list, which Clearview to date has refused to share. Clearview notified its customers about ..."
+    publishedDateTime: 2020-02-26T16:55:00Z
+    webUrl: "https://arstechnica.com/tech-policy/2020/02/clearviews-list-of-law-enforcement-clients-lost-in-data-breach/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 34
 
 secured: "MlUzYjT2oRv3TrrdWaRqicE9LjcGs2iBd3ToW/XsiM5wRvMwrTBSsCfz3VBATl+PfgyCe/jJZv6avMgvCieH9OB8h6PaEy7cA1YaqJ1B0PAdMUyYx0EsW4AbPOIgI3/07Y/16s5ESo3Hn+M2/bwoLD2f16OeiSOecfLaljtNDsB2Ra+v+s30ejau/MG5IuOweEaqmEJvR0Da7ElQwFDKgP6IkuOi/ACI691P6bP608VIkdRIrs5pdtqN46Woj2Bccfx7ZIv5UawvvkdDIq1EoISvt3nLu37ETB3BqAB1Jr1u9U1IHz2OOq5T6mn47c0vHnThD80SnUH9Htj7QXZ+AMdA/TJgCo3wnJWDRMZ+zHXOB9QMT2Ua5KjkceaBAzw8XRncDEvdGS4l8XmsCkBDGGixsy2QVGIroEsGtaJokKK8JawkhR0wA49hS/9p9NcWb4s5CQU/f7G0IYPd/5i7rIvvvrEGoIUOJr+d1z+1Gk0=;GGtp+k+Fp1iLERylreHvWg=="
 ---

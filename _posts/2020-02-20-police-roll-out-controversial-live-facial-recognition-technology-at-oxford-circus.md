@@ -219,6 +219,21 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/BA4C/production/_111029674_gettyimages-1134218905.jpg"
         width: 1024
         height: 576
+  - title: "How is facial recognition technology being used across Central Florida?"
+    excerpt: "Everywhere we go, cameras are watching. But are the photos and videos taken of us any different than the ones we take ourselves? Now, with the widespread use of facial recognition technology, questions are being raised about personal data,"
+    publishedDateTime: 2020-02-26T16:41:00Z
+    webUrl: "https://www.wesh.com/article/how-is-facial-recognition-technology-being-used-across-central-florida/31116255"
+    ampWebUrl: "https://www.wesh.com/amp/article/how-is-facial-recognition-technology-being-used-across-central-florida/31116255"
+    cdnAmpWebUrl: "https://www-wesh-com.cdn.ampproject.org/c/s/www.wesh.com/amp/article/how-is-facial-recognition-technology-being-used-across-central-florida/31116255"
+    type: article
+    provider:
+      name: WESH
+      domain: wesh.com
+    quality: 59
+    images:
+      - url: "https://kubrick.htvapps.com/vidthumb/6f9aca60-3c4b-47f6-9d7f-d14524e62f9f/6f9aca60-3c4b-47f6-9d7f-d14524e62f9f_image.jpg?crop=1xw:1.0xh;center,top&resize=1200:*"
+        width: 1200
+        height: 675
   - title: "Met Police Chief: ‘Our facial recognition tech is not biased’"
     excerpt: "Metropolitan Police Commissioner Dame Cressida Dick gives a firm rebuttal to the critics of facial recognition technology. The use of Live Facial Recognition technology across police forces has been a highly contentious issue and has been criticised by both civil liberty groups, as well as MPs. Police Scotland recently went as far to say that ..."
     publishedDateTime: 2020-02-26T13:17:00Z

@@ -522,19 +522,6 @@ related:
       - url: "https://www.cpomagazine.com/wp-content/uploads/2020/02/facial-recognition-surveillance-technology-should-be-suspended-in-the-u-s-says-coalition-of-40-privacy-and-free-speech-groups_1500.jpg"
         width: 1500
         height: 860
-  - title: "Emotion Detection & Recognition Markets, Forecast to 2024 - Rising Need for Socially Intelligent Artificial Agents"
-    excerpt: "ML), Software Tool (Facial Expression Recognition, Speech & Voice Recognition), Application Area, End User, and Region - Global Forecast to 2024\" report has been added to ResearchAndMarkets.com's offering. The Global Emotion Detection & Recognition Market is projected to grow from US$ 21.6 billion in 2019 to US$ 56 billion by 2024, at a CAGR of ..."
-    publishedDateTime: 2020-02-12T00:38:00Z
-    webUrl: "https://www.oilandgas360.com/emotion-detection-recognition-markets-forecast-to-2024-rising-need-for-socially-intelligent-artificial-agents/"
-    type: article
-    provider:
-      name: Range
-      domain: oilandgas360.com
-    quality: 2
-    images:
-      - url: "https://servedbyadbutler.com/adserve/;ID=170963;size=300x250;setID=287428;type=img;click=CLICK_MACRO_PLACEHOLDER"
-        width: 300
-        height: 250
 
 secured: "IS+Nc5JLbtSzpy7JYLxqwAiV1fuB+kf6hrawAdIDcyKbK7TLtqmNMazTr/j5aXj59nFJkwnAC2jFb+PWPgcnH49sT3nnlj+6AS4Zhuy2xkM6I02o2+IulTWvTg/uZ41Kt97ad47psPpFSbDfLyzyC9tkxoZS/5CIHT6kTUp0bSD3k4LAbc+toY7wqTz8lpbux2i43yjav/fU4lninrbp2iSBTTfDhzb29tv8hIVXpYzix9/3dnmCg+gPMB782IYarxrRDAowDtmaqHcCOBVT28T6Rey4pMFkYtL5VQMQA6M/TVeXaAl4brGIzZjUWFo09Pfx2giefcR4ZImiQXahONjS7MyBQzldGV79ayx6Xhvs6mLycC66V2oC3xjVT4B7vt6M7qZuUzoAltLqN0QmpgF2TMfEp1G1QWnedgnTcoUBZ0ekRKfUCaTLQ9XID37SHE7PTsBLiYGlxBpODlQ4TCpCIGFAM1W2S3FphNjzm0g=;A1grB7AvpBrQLcD0K4h54w=="
 ---

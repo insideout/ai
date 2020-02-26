@@ -44,18 +44,18 @@ related:
         width: 1400
         height: 933
   - title: "UPDATE 1-Autonomous driving startup Pony.ai raises $462 mln in Toyota-led funding"
-    excerpt: "Autonomous driving firm Pony.ai said on Wednesday it has raised $462 million in its latest funding round, led by an investment by Japan’s largest automaker Toyota Motor Corp. Toyota invested around $400 million in the round,"
-    publishedDateTime: 2020-02-26T03:47:00Z
-    webUrl: "https://www.reuters.com/article/toyota-ponyai-autonomous/update-1-autonomous-driving-startup-pony-ai-raises-462-mln-in-toyota-led-funding-idUSL3N2AQ0M6"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL3N2AQ0M6"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL3N2AQ0M6"
+    excerpt: "HONG KONG/ BEIJING, Feb 26- Autonomous driving firm Pony.ai said on Wednesday it has raised $462 million in its latest funding round, led by an investment by Japan's largest automaker Toyota Motor Corp."
+    publishedDateTime: 2020-02-26T08:37:00Z
+    webUrl: "https://www.cnbc.com/2020/02/25/reuters-america-update-1-autonomous-driving-startup-pony-ai-raises-462-mln-in-toyota-led-funding.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/02/25/reuters-america-update-1-autonomous-driving-startup-pony-ai-raises-462-mln-in-toyota-led-funding.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/02/25/reuters-america-update-1-autonomous-driving-startup-pony-ai-raises-462-mln-in-toyota-led-funding.html"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: CNBC
+      domain: cnbc.com
     quality: 82
     images:
-      - url: "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png"
+      - url: "https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif?v=1524171804"
         width: 1200
         height: 630
   - title: "EXCLUSIVE-Autonomous driving startup Pony.ai raises $500 mln in Toyota-led funding: sources"
@@ -88,6 +88,21 @@ related:
       - url: "https://cnet3.cbsistatic.com/img/BkwJYnDsYT-Cd7a4Q2rA1f1UMEE=/2020/02/26/203c4f29-6be5-4942-a837-4418a409ef7a/ogi-em.jpg"
         width: 1200
         height: 630
+  - title: "Toyota Invests $400 Million in Chinese Self-Driving Startup Pony.ai"
+    excerpt: "In 2017, Ford announced a $1 billion investment in Argo AI, an autonomous-tech startup. Last year, Volkswagen revealed that it would be investing $2.6 billion in Argo as well, pushing the startup’s valuation to $7 billion at the time. In 2016 ..."
+    publishedDateTime: 2020-02-26T04:42:00Z
+    webUrl: "https://www.caranddriver.com/news/a31115985/toyota-investment-pony-self-driving/"
+    ampWebUrl: "https://www.caranddriver.com/news/amp31115985/toyota-investment-pony-self-driving/"
+    cdnAmpWebUrl: "https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp31115985/toyota-investment-pony-self-driving/"
+    type: article
+    provider:
+      name: Car and Driver
+      domain: caranddriver.com
+    quality: 59
+    images:
+      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/190825-pony-ai-lexus-rx-1582733043.jpeg?crop=1.00xw:0.651xh;0,0.232xh&resize=1200:*"
+        width: 800
+        height: 401
   - title: "Autonomous driving start-up Pony.ai raises R7bn in Toyota-led funding"
     excerpt: "The sources added that some of Pony.ai's existing investors had joined the financing, but did not specify names. The investment by Toyota comes at a time when global carmakers, technology firms, start-ups and investors, including Tesla, Alphabet Inc's Waymo and Uber, are pouring capital into developing self-driving vehicles. Over the past two ..."
     publishedDateTime: 2020-02-26T06:20:00Z

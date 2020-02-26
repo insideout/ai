@@ -34,6 +34,21 @@ related:
       - url: "https://www.therobotreport.com/wp-content/uploads/2019/06/robust-ai.jpeg"
         width: 972
         height: 745
+  - title: "6 Robotics Startups Boost Efficiency"
+    excerpt: "Scaled Robotics The company has developed mobile 3D printing robots that bring about automation in construction sites. According to an article in Silicon Canals, the startup reduces material consumption by 75 percent. The company also deploys artificial intelligence within their robotics products. Mobbot intends to revolutionize the ..."
+    publishedDateTime: 2020-02-26T17:18:00Z
+    webUrl: "https://www.constructionequipment.com/6-robotics-startups-boost-efficiency"
+    ampWebUrl: "https://www.constructionequipment.com/6-robotics-startups-boost-efficiency?amp"
+    cdnAmpWebUrl: "https://www-constructionequipment-com.cdn.ampproject.org/c/s/www.constructionequipment.com/6-robotics-startups-boost-efficiency?amp"
+    type: article
+    provider:
+      name: Construction Equipment
+      domain: constructionequipment.com
+    quality: 74
+    images:
+      - url: "https://www.constructionequipment.com/sites/ce/files/AdobeStock_220320515.jpeg"
+        width: 900
+        height: 600
   - title: "Startup develops robots to clean China's curtain walls"
     excerpt: "BEIJING -- Chinese startup Yingxing Zhineng is hoping to expand its curtain wall-cleaning business overseas four years after developing robots using artificial intelligence to do the job. Spotting a gap in the market, the company started building and developing the robots in 2016. Curtain walls, which are outer coverings of buildings that are ..."
     publishedDateTime: 2020-02-20T18:35:00Z

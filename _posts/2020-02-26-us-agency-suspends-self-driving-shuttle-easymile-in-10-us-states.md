@@ -8,7 +8,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN20J2N6"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN20J2N6"
 type: article
 quality: 74
-heat: 205
+heat: 215
 published: true
 
 provider:
@@ -136,6 +136,19 @@ related:
       - url: "https://www.autonews.com/s3/files/styles/800x600/public/40MOYEBEEP-MAIN_i.jpg"
         width: 800
         height: 600
+  - title: "Self-Driving EasyMile Shuttles Suspended After Passenger Injury in Ohio"
+    excerpt: "EasyMile said the deployment in Columbus that started earlier this month was the first public self-driving shuttle in a residential area. Two EasyMile shuttles had been servicing a 2.9-mile (4.7 km) route at speeds of up to 25 miles per hour (40 kph), the company said. EasyMile said a human operator rides aboard each vehicle with access to ..."
+    publishedDateTime: 2020-02-26T17:36:00Z
+    webUrl: "https://www.insurancejournal.com/news/midwest/2020/02/26/559554.htm"
+    type: article
+    provider:
+      name: Insurance Journal
+      domain: insurancejournal.com
+    quality: 24
+    images:
+      - url: "https://www.insurancejournal.com/img/insurancejournal-square.png"
+        width: 600
+        height: 600
   - title: "US agency slams brakes on self-driving EasyMile shuttles after passenger injury"
     excerpt: "EasyMile said the deployment in Columbus that started earlier this month was the first public self-driving shuttle in a residential area. Two EasyMile shuttles had been servicing a 2.9-mile (4.7 km) route at speeds of up to 25 miles per hour (40 kph), the company said. EasyMile said a human operator rides aboard each vehicle with access to ..."
     publishedDateTime: 2020-02-26T03:35:00Z
@@ -200,6 +213,6 @@ related:
         width: 792
         height: 416
 
-secured: "1t0/ajnvL/EXW/6YB2Ho98JA44UAZgtb7Z0wzF2n0g1C07kXPobFaS3Dm12cxjxcC14aNIlUXwe18Sgl6IU/067fI33znP6IW1JT1rxrJmc5OJI/LKnJo7N7VkSJQWFAKDt4QX0opgjSyw0za+O2s6FhbqzXIiRvCSVtYeALaqTTq6Fss1J+gWggp7BNOCwAq2s4o+g5hSZiMZkw+C7AiuAXRi2MrtX4EKjjhXmEk0hSinSYaCvLeFoDo/uaM8bp/WpVpX7VlHdg1z29In4E7Zh0lrweITaIvd2PXsFrrSsc+9yzTD8QmnaCSvlmqNddkI1Aq19RO8LtzcC+klY7NXQHTI1wWkni3ys/JxUZIVb9dIbpXNNfKJrYzazgLl2dfn+TpkXDMegseKIbVs8R/cmXWpGNzuKKze1f/WhUnXJSQaCZqvryMW4HYXKi7uSCmdTD8TYFkfbHnXFUrywkBY1yP6/kvmbD8DCN79/RSHM=;QbGLfkMMPE4WZJEwgXkh0g=="
+secured: "4G15AglVU8KwGvky0YONsAyaeGGT0JYjiKVtlZoCkl2RYwtMaoUjG5SCeYabMx83XOJQPDjvne9SCcgcNSdBIpWsJKsA2zaqyH/cHNxR3bgyNe+4G6BTmqjCL8ZT3CmEYx/bC6Q+FZQkEFS7jfw9QSJYdwldarVFQYfvuQdf+0AaNvDhWeWbvGIsdzXbsB1TzeuWXMDZsW3kNxblxqPdCozlGq2sMy7IOJtG0V7OS2PL79Nx5vs7jWxF/GGiJODy7FIDvJaj/Y2+bv4pxnDfWc7OsHLGBiw6TVglZREeGm49EkYB0IGmHb1RrruEsrPEiMRLOaW5fgT96FmrZ1PM8hScRUm/IWBYebc8GILqEmtO/Cc/VygjuJt2ELgMVjDSZCz0VF/fYRhlAWspnYtX6YGkZHDl9zTq310QI2Uq/c7BqPIt7j5dYjPb3uyQgyP4cRtnKewdbmLFlINw9IARPzm4uJ1iqX5x+yDVh+Zj6SI=;lOGZprncRNNxqDLUqYO72A=="
 ---
 

@@ -1,27 +1,27 @@
 ---
 category: news
 title: "OpsRamp Introduces AI-Driven Suggestions for Greater Transparency and Faster Incident Remediation"
-excerpt: "The OpsRamp Winter 2020 Release also introduces 19 new cloud monitoring integrations for Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP), along with dynamic topology maps for Azure and GCP. Highlights of the Winter 2020 Release include: AIOps: OpsQ is OpsRamp's intelligent event management, alert correlation ..."
-publishedDateTime: 2020-02-25T08:00:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/opsramp-introduces-ai-driven-suggestions-for-greater-transparency-and-faster-incident-remediation-1028934454"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/OpsRamp-Introduces-AI-Driven-Suggestions-for-Greater-Transparency-and-Faster-Incident-Remediation-1028934454"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/OpsRamp-Introduces-AI-Driven-Suggestions-for-Greater-Transparency-and-Faster-Incident-Remediation-1028934454"
+excerpt: "In addition to AWS cloud topology maps, OpsRamp now offers automated topology discovery and mapping for Azure and GCP. IT teams can apply cloud topology maps to analyze the impact of changes in their multi-cloud environments. Cloud topology is also applied in OpsQ’s event correlation engine to increase the accuracy of machine learning models."
+publishedDateTime: 2020-02-25T15:48:00Z
+webUrl: "https://www.tmcnet.com/usubmit/-opsramp-introduces-ai-driven-suggestions-greater-transparency-faster-/2020/02/25/9103398.htm"
 type: article
-quality: 56
-heat: 86
-published: true
+quality: 26
+heat: -1
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
   - Microsoft AI
+
+images:
+  - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
+    width: 252
+    height: 335
+    title: "OpsRamp Introduces AI-Driven Suggestions for Greater Transparency and Faster Incident Remediation"
 
 related:
   - title: "OpsRamp Introduces AI-Driven Suggestions"
@@ -37,33 +37,7 @@ related:
       - url: "https://res.infoq.com/news/2020/02/opsramp-ai-driven-suggestions/en/headerimage/OpsRamp-AI-Driven-Suggestions-1582702993762.jpg"
         width: 1200
         height: 630
-  - title: "Agiloft introduces AI Engine for advanced contract automation on no-code platform"
-    excerpt: "Prebuilt machine learning models also enable users to implement their own custom AI tools with existing data. Additionally, the open AI Engine features an integration template to bring in machine learning models from Amazon SageMaker and Google TensorFlow to build entirely custom AI tools on Agiloft’s no-code platform. Advanced translations ..."
-    publishedDateTime: 2020-02-25T19:35:00Z
-    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=139412"
-    type: article
-    provider:
-      name: KMWorld Magazine
-      domain: kmworld.com
-    quality: 36
-    images:
-      - url: "https://www.kmworld.com/images/subscribe_magazines_km.png"
-        width: 772
-        height: 594
-  - title: "CyberX Announces Integration with Microsoft Azure Security Center for IoT, Joins Microsoft Intelligent Security Association"
-    excerpt: "According to Michal Braverman-Blumenstyk, CTO and GM, Cloud and AI Security Division at Microsoft Corp.: “CyberX’s IoT security platform and integration with the Microsoft Azure Security Center for IoT enables customers to go further and faster with IoT innovations that drive new revenue streams and operational efficiencies — without comp ..."
-    publishedDateTime: 2020-02-20T18:16:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200220005507/en/CyberX-Announces-Integration-Microsoft-Azure-Security-Center"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 28
-    images:
-      - url: "https://mms.businesswire.com/media/20200220005507/en/774439/23/cyberx.jpg"
-        width: 1200
-        height: 627
 
-secured: "0QtLNnXhz8PNKTEKOIY89kAuFI6hZ/yBLMbC/IW/ThnuWpdov/SyAMu7tE9ACcZ1cIK7m2kFgKc1cMQBVjrk59IP46d0Heie8JEwwRFGlh9nSr0INxrXDopq2gKSrXxxGcWpqbTWcBv2C5fkh/9jm+p2bZktEC57XoJpkhRcTAezNk490SnI2NlFC3mZMNQayZXWS0u/koGORn35jazrcqstD/GArVH7XXzusghJlgAvMgMsh3hyL3II9cYCYPrsx2rHmArcR6rhwg0L19hix9EQy/nX3hWLiEV3pFNLJUuTC6tyaIrCkYz2zsFnXdKy;hDqJG+8rT+wbWUbiASShrQ=="
+secured: "7OPJOlRYCo/X0TGWB8Nz1QHS2K/RR/QGnOGa1+hMW7zwVp3mSDbTVpKbTD+xMEu2WozNLC/sTRpiMSnxGdrQiGStCIJkkRU8B9Jwoidage4d5U2sINZ3KVBPl3wij+GUaijXorRRLJF4uZV+AtDtK2vVUpUj6VxMbNLsLpd8hhhOaJjY4zBjwC5mKUQvsLlXgBrX0bA1dPuVfL17uiVB9AQDquFc68f7iesfPDMw41dkq/kiV2LMEkNZZP207qtSHu7yieINXhZMF1zMIbvA3A3smC0UrLav+Sb3xtwLC8otb7hBxbZyH/GpGSVMJguZ;aUM2xsquYgqLmoek+t6Taw=="
 ---
 

@@ -25,6 +25,6 @@ images:
     height: 457
     title: "MIT Is Working On Improving Autonomous Vehicle Performance In Snow"
 
-secured: "CLbO1XTSL7UEc5WQ/Od3crOLvuAW6H6MBscY1phh4zs+cOWXr+36edUERxB4wjRKm6LtFMXgwuHT4hj//bjhBBIyoNj5g7p8xR4CC0v/nrg+zMW4p3rxFMc+gSVqZxnWHhc2L9r5aCCwOfqK80duiCpeUmu3meD/yBFhO+DnfoY9Xc/Z4z0WTe56juHKXMpbkPI3qXQZKLTvu5B6ID1yp++3CzpGXLbSwiqMThFEMKmQe9XdivucGlNkGrw+z5adQ/VR6QLLA19iVY2gCsgr2RZ7qQCuTgxvcimEYVIu+hqnl5LUWiAF6G/Kk+nUkaZi;EXefahXSRNAAqK7GLMJPzA=="
+secured: "N7ajH62CJZtGCpcIV9Kkuga5Rpzx3+G8K35rcOnb1YCY4X2R+dwjj4sZxG8uy0JJPjYFVwM9Vpy4+MZL6JnRd+bejKLu2bvbaw/m4EZq4eK6UhRhUWgPozSxFR9pFn4lSIYm+0kfTxaBQ6dpOmzc8sKT+SIjquq5LGnXSzRHkg4cI94CfQsr9xtnqF1YM6EUAjivpuPcMMvmlKad8WEDd+OyHDU+qDlzE2IDmK9Vsmuz815biM264e0ANvV8D/yZvXRT3o7Pfzg3Eg7eaM/clncpjRMzmHwudPHX4XBnf4hTnrMCxLSrQ4qoa1fVGVzcY3nkxvtWDQEm1uwI2+J/qy556qorAoLZIwr2PHazH3wMuqHlp8Vr+He45mIJBTpbljwTyjPhTlsuX+rQNGe6OlaI/Xusri4eWscQfWuKWe6Ydxqh08xkGeaftIt566j1S0DT5zoXbkPOHJHzRNVrbJuqFLOb2Q4HKw+EoWS4w+E=;6jQaTa7mN6pHkZ8ruDXHqg=="
 ---
 

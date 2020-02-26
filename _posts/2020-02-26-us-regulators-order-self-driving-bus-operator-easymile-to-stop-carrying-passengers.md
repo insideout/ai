@@ -145,6 +145,19 @@ related:
       - url: "https://www.autonews.com/s3/files/styles/800x600/public/40MOYEBEEP-MAIN_i.jpg"
         width: 800
         height: 600
+  - title: "Self-Driving EasyMile Shuttles Suspended After Passenger Injury in Ohio"
+    excerpt: "EasyMile said the deployment in Columbus that started earlier this month was the first public self-driving shuttle in a residential area. Two EasyMile shuttles had been servicing a 2.9-mile (4.7 km) route at speeds of up to 25 miles per hour (40 kph), the company said. EasyMile said a human operator rides aboard each vehicle with access to ..."
+    publishedDateTime: 2020-02-26T17:36:00Z
+    webUrl: "https://www.insurancejournal.com/news/midwest/2020/02/26/559554.htm"
+    type: article
+    provider:
+      name: Insurance Journal
+      domain: insurancejournal.com
+    quality: 24
+    images:
+      - url: "https://www.insurancejournal.com/img/insurancejournal-square.png"
+        width: 600
+        height: 600
   - title: "US agency slams brakes on self-driving EasyMile shuttles after passenger injury"
     excerpt: "EasyMile said the deployment in Columbus that started earlier this month was the first public self-driving shuttle in a residential area. Two EasyMile shuttles had been servicing a 2.9-mile (4.7 km) route at speeds of up to 25 miles per hour (40 kph), the company said. EasyMile said a human operator rides aboard each vehicle with access to ..."
     publishedDateTime: 2020-02-26T03:35:00Z

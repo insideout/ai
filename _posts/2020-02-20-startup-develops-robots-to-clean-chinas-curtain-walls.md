@@ -37,6 +37,21 @@ related:
       - url: "https://www.therobotreport.com/wp-content/uploads/2019/06/robust-ai.jpeg"
         width: 972
         height: 745
+  - title: "6 Robotics Startups Boost Efficiency"
+    excerpt: "Scaled Robotics The company has developed mobile 3D printing robots that bring about automation in construction sites. According to an article in Silicon Canals, the startup reduces material consumption by 75 percent. The company also deploys artificial intelligence within their robotics products. Mobbot intends to revolutionize the ..."
+    publishedDateTime: 2020-02-26T17:18:00Z
+    webUrl: "https://www.constructionequipment.com/6-robotics-startups-boost-efficiency"
+    ampWebUrl: "https://www.constructionequipment.com/6-robotics-startups-boost-efficiency?amp"
+    cdnAmpWebUrl: "https://www-constructionequipment-com.cdn.ampproject.org/c/s/www.constructionequipment.com/6-robotics-startups-boost-efficiency?amp"
+    type: article
+    provider:
+      name: Construction Equipment
+      domain: constructionequipment.com
+    quality: 74
+    images:
+      - url: "https://www.constructionequipment.com/sites/ce/files/AdobeStock_220320515.jpeg"
+        width: 900
+        height: 600
   - title: "This Bengaluru-based startup wants to be ‘Apple’ of robotics in India"
     excerpt: "You probably may have seen or read about the indigenous ‘Mitra’ robot. The humanoid became an overnight media sensation when it made an appearance at the 2017’s Global Entrepreneur Summit which had visitors like Prime Minister Narendra Modi and Advisor to US President Donald Trump Ivanka Trump."
     publishedDateTime: 2020-02-16T15:15:00Z

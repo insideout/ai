@@ -3,7 +3,7 @@ category: news
 title: "You Don't Own A Self-Driving Car"
 excerpt: "\"You don’t own a self-driving car, so don’t pretend you do ... Here's Reuters: The Silicon Valley-based startup Pony.ai - co-founded by CEO James Peng, a former executive at China’s Baidu, and chief technology officer Lou Tiancheng, a former Google and Baidu engineer - is already testing autonomous vehicles in California, Beijing ..."
 publishedDateTime: 2020-02-26T15:13:00Z
-webUrl: "https://www.thedrive.com/news/32369/you-dont-own-a-self-driving-car"
+webUrl: "https://www.thedrive.com/tech/32369/you-dont-own-a-self-driving-car"
 type: article
 quality: 24
 heat: -1
@@ -49,6 +49,6 @@ related:
       domain: financialexpress.com
     quality: 24
 
-secured: "BcB+iLRD3qhpVFoGPphRaAcglTxpdubSRFky3Cxv4ejYBy9MB9NoQS9oLL+0l+RSaLl7S5yYYi5rbCHIprQb0Nrvs8IEz6aldLZWIF3DKebL1N2W/11ZDm/WqpgolvrlyKX7bnCO2InaLkUNkzwDo3XgN9bcSBLwEnyRJN8h+Hux5e58MnmP07YHUnnDUbrvDfKogRsWb/banhVo6yYYPyYAxoxCzQzB4OEpSvovpfdgRKHOd5F6UElDAyxLwjUHxjw9aA+ey6JlWMJEqc2gZppN82XI02iNAHOhJjzB6UC8+DOn4J0rRis0iOkGRlPdB5psYFabodJAlH2l1A+QLy2CEbpXa7A/7IlNPj2ZCWBGRm7edwha7fFD0mNmv59GrQOgO3PTnjrT+3NiJ9JHDKEYb/YX1BRiqI2+IlVKuTACEblmyPcDFjuehRPMTKpuA6Sv4xuQ6Ciu3QpT4m6CGezRiSxDu65xI2jgcd4GKMc=;1UjCv8eJwoJ9V6G88JExQg=="
+secured: "pqee4UffWnmJCwlm8wcbgKqlpxsmnDFcnV3vX7cG9xD0mAPCRQsXldqI+T2CHee+b1oU8q3zSgiqYWVBTEoB0C5BjWJa1LhR5TEJg/IginZ3NyZxbwCgmLMNwkLE12TrzmZytpP2lDevGvWT3xir+fnFz4WXzZ86UlQXVj8DfMiWmlb8PU85IkKwuDApQ8dbcqwe/CKFrQJtZqySHPTiHdGD1xkoz6R1UcMktW+SV6Uuo4pQuj1ykFSxDUjt1grx7I4BkwYMzOYm+5eswYxdJPZRIquadqzj42sGaciYQgy7iWBuumhFyhdF9zojhBl+;Dc5VFclcd2+iN7JyPox7rg=="
 ---
 

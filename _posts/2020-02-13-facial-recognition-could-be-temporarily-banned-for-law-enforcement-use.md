@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/facial-recognition-could-be-tem
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facial-recognition-could-be-temporarily-banned-for-law-enforcement-use/"
 type: article
 quality: 189
-heat: 579
+heat: 569
 published: true
 
 provider:
@@ -526,19 +526,6 @@ related:
       - url: "https://www.cpomagazine.com/wp-content/uploads/2020/02/facial-recognition-surveillance-technology-should-be-suspended-in-the-u-s-says-coalition-of-40-privacy-and-free-speech-groups_1500.jpg"
         width: 1500
         height: 860
-  - title: "Emotion Detection & Recognition Markets, Forecast to 2024 - Rising Need for Socially Intelligent Artificial Agents"
-    excerpt: "ML), Software Tool (Facial Expression Recognition, Speech & Voice Recognition), Application Area, End User, and Region - Global Forecast to 2024\" report has been added to ResearchAndMarkets.com's offering. The Global Emotion Detection & Recognition Market is projected to grow from US$ 21.6 billion in 2019 to US$ 56 billion by 2024, at a CAGR of ..."
-    publishedDateTime: 2020-02-12T00:38:00Z
-    webUrl: "https://www.oilandgas360.com/emotion-detection-recognition-markets-forecast-to-2024-rising-need-for-socially-intelligent-artificial-agents/"
-    type: article
-    provider:
-      name: Range
-      domain: oilandgas360.com
-    quality: 2
-    images:
-      - url: "https://servedbyadbutler.com/adserve/;ID=170963;size=300x250;setID=287428;type=img;click=CLICK_MACRO_PLACEHOLDER"
-        width: 300
-        height: 250
 
 secured: "ZpQtB4GUrM8JLCyB/7h1bq28QvppxpZfY7pqDswWpaP17yMl0vUfdRYy/5oXUzpagm6L2FKDWVJXBkZIAQ5LOSPgGhxDUyZByUN/eatq5KiKzL/2O8gVxDuMWvNdODY23DJWlgaQes5RfDEBRT3iqh4UZe+lUzor06dT8s7aYfQFty+EUUjiCa6I/K4UfwWyCaD+lWGYVMsk1cp71lKlzG3gno1PMEAAnPWjHNlK4Fwm/Oiig1tFz4FxH+LU2GtpXcWv0B6sc4RvvdY0XnkIeUuy7bX5dPTkiN8phcIiVL75T1v7RAYsyk9fgPmGUkP8r90K9q2UkxzFh7/g/eDsWOMwuWiLYNFIhtlXZzp2t+r4rOrhuMQ0m4b+6ItU+hi9WUbd8v5dwHiS3arWOY0+MVR6fIVRg90naxuJMFC1TbldjgLn7BZ4nlWJdq6KAWaBPh6dkyBrDz8FXWseCJpsf4YYhBFgnLg4Ea3jlOuayrhoF8nj0VvAyNjy1hJQV+k0;rTGlvsEgqB939zmDOXM5fw=="
 ---
