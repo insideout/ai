@@ -2,25 +2,27 @@
 category: news
 title: "New artificial intelligence algorithm better predicts corn yield"
 excerpt: "The researchers approached their analysis with a type of machine learning or artificial intelligence known as a convolutional neural network (CNN). Some types of machine learning start with patterns and ask the computer to fit new bits of data into those existing patterns. Convolutional neural networks are blind to existing patterns."
-publishedDateTime: 2020-02-20T21:28:00Z
-webUrl: "https://www.sciencedaily.com/releases/2020/02/200220130500.htm"
+publishedDateTime: 2020-02-20T16:20:00Z
+webUrl: "https://www.eurekalert.org/pub_releases/2020-02/uoic-nai022020.php"
 type: article
-quality: 49
-heat: 49
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - AI
   - Machine Learning
 
-secured: "Bn41YS+m7xyfqMDTjmA0v9L74jM+UBk4KqlNrtoMRA26aPO8Cu/gp4vPG4fHYaj2ODvSybWwPcENerOFqFxeyrwxZlUUAxpq7U6oDtnJV2GthilUUvlmGiUxF4Y7kH6U21760/kXbtwCZvmR2e+FO6uFtFvbVVTcBA57B+WwPVcXBvnY1I0/caUrhLdc4oFWolAFdbrdMbF8Yp87M0Q90wofRmcjOl3+opudEljMZFPF5NEhfVT/wBeROzvLCswtuIzgVYxMzQuMhE3TYxZzjZS5cHv6rV0OCdc0wL5/Mzv0tyClQRv+jetLzfiEbS4L;4BmFcTo2Vai1O5XMxF17bA=="
+images:
+  - url: "https://eurekalert.org/multimedia/pub/web/224852_web.jpg"
+    width: 720
+    height: 480
+    title: "New artificial intelligence algorithm better predicts corn yield"
+
+secured: "2XWLqp1z9O8sfVEv/FXhIXGGMMrt0YQTMWvo9zorxNGvtm8Zvh2JGRDQB31uIxqLkALYP8Y6Wk8sYfnqLJpvXq7wkm13Mx9CEzOrqVUaTZjWzeVeb85IQD4YfeBNUrKPryKAdwYhBwBcPKqyUBeirQB0viAF5XKpwh4HWKBNhtwBEbD7+tGYmTlV4vnsxYSn8pLepEPSLRfsbgSTtR/vFEp7v56IFrE0l6Hn4EytnpWNka+pbJn13cmaLrG8p6WpQDZsVpyPcjLVtEAA93T63nXqnhzrrVsQY2f//U6T+/IdyyjPuNHTZcBVC/LABVyu;b4sWJDIqToJYRdpJ0wO5jg=="
 ---
 

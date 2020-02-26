@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-19T20:13:00Z
 webUrl: "https://www.therobotreport.com/robotics-startups-to-watch-2020/"
 type: article
 quality: 84
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -48,6 +48,17 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fs3-ap-northeast-1.amazonaws.com%2Fpsh-ex-ftnikkei-3937bb4%2Fimages%2F1%2F1%2F0%2F4%2F24974011-1-eng-GB%2F20200213%20Yingxing%20Zhineng%20.jpeg?source=nar-cms&width=1024&height=512&fit=cover&gravity=faces"
         width: 1024
         height: 512
+  - title: "4 Fintech Trends to Watch For in 2020"
+    excerpt: "Their disruptive influence could ultimately be similar to the impact of low-cost operators on the airline industry. Robo advisors and AI for improved CX Fintech could start truly shaping the trading and investment segment in the coming years. In 2020 and onwards, more low-cost stock trading and investment offerings could be made available by ..."
+    publishedDateTime: 2020-02-26T16:33:00Z
+    webUrl: "https://www.business2community.com/finance/4-fintech-trends-to-watch-for-in-2020-02287132"
+    ampWebUrl: "https://www.business2community.com/finance/4-fintech-trends-to-watch-for-in-2020-02287132/amp"
+    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/finance/4-fintech-trends-to-watch-for-in-2020-02287132/amp"
+    type: article
+    provider:
+      name: Business 2 Community
+      domain: business2community.com
+    quality: 24
 
 secured: "IUmuumNZnneJsMISYpVFu/B+6HhcNeZvWrTbKw00BVUZidIbl9bB4tqmy6qYLJYsViQuo3alitNCsVQDO8pFVgpzeBXqlyJlZYgO6NgUCrpDPBBMA/rS1jROjgacaKUrtiPqrixzn+dAMgpUHyZBN15qSzoK19OxWFhvHZQJqqoStAflAOnLMKmCeBDQ4Om1jCzs0xEV5zPjT9doynK0eUlwAVkwjG21dHol0XXZppyjFKqi4d9oZZttMyNr8hKDXliYoajP4LfbJQGwjEu6DmEplsaTJtIIsV3eOI9DouG/N3wU1yfkCrdE79RxI8S6YhanG6dx7iB8M0xLz+Xb8yqLnhZltosjiZqMm83ScA4X+v7hmfOa0XOesr4jMcW3uzombHL+xisI4zwk1aFxKuQI9bRMmJHJNIdeV4gVxphNnKvU/SFVOEgU9EbPhZL/lHDtFwiLaG6r0dpdUmtw1ryCbFukTTudBMR4pR42P48=;QhiJHgVpmZpYm+yQqkM+zg=="
 ---

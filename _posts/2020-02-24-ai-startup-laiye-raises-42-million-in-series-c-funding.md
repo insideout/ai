@@ -79,6 +79,19 @@ related:
       - url: "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/2.jpg"
         width: 400
         height: 300
+  - title: "IoT Startup FogHorn Raises $25 Million Series C Funding As Edge AI Takes Off"
+    excerpt: "We've been pushing the state of the art on how you do AI and machine learning on high-velocity data,' FogHorn CEO David King tells CRN about the startup's edge intelligence capabilities. By Dylan Martin February 26, 2020, 11:22 AM EST FogHorn Systems CEO David King said when the startup got its start nearly five years ago, people thought edge ..."
+    publishedDateTime: 2020-02-26T16:50:00Z
+    webUrl: "https://www.crn.com/news/internet-of-things/iot-startup-foghorn-raises-25-million-series-c-funding-as-edge-ai-takes-off"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 34
+    images:
+      - url: "https://www.crn.com/resources/025a-0ecb512e0f73-10765ee2394d-1000/86796455.jpeg"
+        width: 399
+        height: 399
 
 secured: "jdSa+F7Xs9uv+onSh0/K9bJp7gMQnUJ3y6ppnbayLHBZUr40k9ICk+oo7iNKvH8e2XaKJ4c/eu0aYY1sjevkJeRhmRJJfUPTQYbFXT4Ssg/e77PfkNeVR6pOrgBGLnRfMqGu6XvDYJO87t8BRoDhfvHpqOqJUJODCrgP8NzjreAD3niLlap6QgSTii74Q3BRwPucy7ibzWSEfdHZS93xlYxyjsOoJmlr0Zt4WImGLEHjEAkbG5tneSGAKwslhwLjRjq5AqlvoEZCbgjQx+sEQBK91aTlsn5hWtzWwxM0wzpyFPxUJ0JrVSPpFU4ToEjEFKhHP+STmC3lAooeOU/1x5P2NJFVDCIDiV90o+QVsUmSmC6Hfp8ORLZlz5UTqnNhy1bjsb9gEQgKJu6eT7FD7dE65ZlUQR1UPHfIqgEGSb6WkMu6GZrDhIT2yPJi8siZmfVc93cUf3h0VUM90UgAOgNNNN3v7YUUXUd3YBJVc94=;rXr5gK64zKngB68qR03A+Q=="
 ---

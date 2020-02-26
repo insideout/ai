@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-26T14:59:00Z
 webUrl: "https://www.thedailybeast.com/clearview-ai-facial-recognition-company-that-works-with-law-enforcement-says-entire-client-list-was-stolen"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,23 @@ provider:
 topics:
   - AI
   - Computer Vision
+
+related:
+  - title: "Clearview AI's entire client list stolen in data breach"
+    excerpt: "The breach affected all of the facial recognition company's customers, many of which are law enforcement agencies. Clearview AI says the data breach affected all of its customers. Clearview AI, a facial-recognition software maker that has sparked privacy concerns,"
+    publishedDateTime: 2020-02-26T16:40:00Z
+    webUrl: "https://www.cnet.com/news/clearview-ai-had-entire-client-list-stolen-in-data-breach/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/clearview-ai-had-entire-client-list-stolen-in-data-breach/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/clearview-ai-had-entire-client-list-stolen-in-data-breach/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 87
+    images:
+      - url: "https://cnet1.cbsistatic.com/img/1aArGlj1eo8hNeyu6s8obQPylfI=/756x567/2019/03/18/cca1be95-0ac4-4c06-b742-a22684c09044/facial-recognition-101-promo.jpg"
+        width: 756
+        height: 567
 
 secured: "MlUzYjT2oRv3TrrdWaRqicE9LjcGs2iBd3ToW/XsiM5wRvMwrTBSsCfz3VBATl+PfgyCe/jJZv6avMgvCieH9OB8h6PaEy7cA1YaqJ1B0PAdMUyYx0EsW4AbPOIgI3/07Y/16s5ESo3Hn+M2/bwoLD2f16OeiSOecfLaljtNDsB2Ra+v+s30ejau/MG5IuOweEaqmEJvR0Da7ElQwFDKgP6IkuOi/ACI691P6bP608VIkdRIrs5pdtqN46Woj2Bccfx7ZIv5UawvvkdDIq1EoISvt3nLu37ETB3BqAB1Jr1u9U1IHz2OOq5T6mn47c0vHnThD80SnUH9Htj7QXZ+AMdA/TJgCo3wnJWDRMZ+zHXOB9QMT2Ua5KjkceaBAzw8XRncDEvdGS4l8XmsCkBDGGixsy2QVGIroEsGtaJokKK8JawkhR0wA49hS/9p9NcWb4s5CQU/f7G0IYPd/5i7rIvvvrEGoIUOJr+d1z+1Gk0=;GGtp+k+Fp1iLERylreHvWg=="
 ---

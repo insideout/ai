@@ -195,51 +195,6 @@
       ]
     },
     {
-      "path": "_posts/2020-02-20-do-progressive-and-geico-need-to-think-like-hurricane-insurers-when-it-comes-to-self-driving-cars.md",
-      "title": "Do Progressive And Geico Need To Think Like Hurricane Insurers When It Comes To Self-Driving Cars?",
-      "excerpt": "Today, auto insurance manages risk across millions of independent drivers. However, with AVs, the potential for systemic risk is very high due to the same software running in millions of cars. Insurance markets may have to consider low probability,",
-      "heat": 70,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/rahulrazdan/2020/02/20/do-progressive-and-geico-need-to-think-like-a-hurricane-insurance-company-for-autonomous-vehicles-/",
-      "ampWebUrl": "https://www.forbes.com/sites/rahulrazdan/2020/02/20/do-progressive-and-geico-need-to-think-like-a-hurricane-insurance-company-for-autonomous-vehicles-/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rahulrazdan/2020/02/20/do-progressive-and-geico-need-to-think-like-a-hurricane-insurance-company-for-autonomous-vehicles-/amp/",
-      "publishedDateTime": "2020-02-20T09:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F453303062%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5250%26cropY1%3D266%26cropY2%3D3219",
-          "width": 1200,
-          "height": 675,
-          "title": "Do Progressive And Geico Need To Think Like Hurricane Insurers When It Comes To Self-Driving Cars?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_posts/2020-02-20-do-we-need-more-data-or-more-science-in-data-science.md",
       "title": "Do We Need More Data Or More Science In Data Science?",
       "excerpt": "Is the success of Google that of the algorithms or that of data? Today’s fascination with artificial intelligence (AI) reflects both our appetite for data and our excitement about the new opportunities in machine learning.",
@@ -2130,6 +2085,51 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-21-how-machine-learning-can-help-stamp-out-hiring-bias.md",
+      "title": "How Machine Learning Can Help Stamp Out Hiring Bias",
+      "excerpt": "But how do we check our unconscious biases when, by definition, we don't know what they are? A Seattle-based startup called Textio says it’s using machine learning to help eliminate those biases in real time, by literally changing the writing of hiring managers who are composing the job postings. This week on Gadget Lab, WIRED senior writer ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/gadget-lab-podcast-443/",
+      "ampWebUrl": "https://www.wired.com/story/gadget-lab-podcast-443/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/gadget-lab-podcast-443/amp",
+      "publishedDateTime": "2020-02-21T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5e4f21a5efbb670008f8c3aa/master/pass/GettyImages-1139487339.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": "How Machine Learning Can Help Stamp Out Hiring Bias",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

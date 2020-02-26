@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2020/02/25/reuters-america-ai-computing-sta
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/02/25/reuters-america-ai-computing-startup-sambanova-raises-250-mln-in-blackrock-led-funding.html"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -83,6 +83,19 @@ related:
       - url: "https://technode.com/wp-content/uploads/2016/08/AI.jpg"
         width: 450
         height: 375
+  - title: "IoT Startup FogHorn Raises $25 Million Series C Funding As Edge AI Takes Off"
+    excerpt: "We've been pushing the state of the art on how you do AI and machine learning on high-velocity data,' FogHorn CEO David King tells CRN about the startup's edge intelligence capabilities. By Dylan Martin February 26, 2020, 11:22 AM EST FogHorn Systems CEO David King said when the startup got its start nearly five years ago, people thought edge ..."
+    publishedDateTime: 2020-02-26T16:50:00Z
+    webUrl: "https://www.crn.com/news/internet-of-things/iot-startup-foghorn-raises-25-million-series-c-funding-as-edge-ai-takes-off"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 34
+    images:
+      - url: "https://www.crn.com/resources/025a-0ecb512e0f73-10765ee2394d-1000/86796455.jpeg"
+        width: 399
+        height: 399
 
 secured: "UTj95t6JR6TRa0kdAxM9vpv4iQzJqUk4WymwlA5yF69kk/x3foH6YIlHYZ++PN/sgcC2nEhCD4w2CfB8IsosofCa+Wa27RJpL6XXUCSSCggOTa/0UZNNqFnIPp4lcx8czq7oXeZFNeYqMZa5LoWqlRFAIgsFy7jayTfGX7qu3vVdd2Gl43yub2mi45h0x9DihBMpAEzOAoiGUSo4AZfNKA/1T+uyWLT01LySngIIB3tAFclV85bg2tVL/+LqPIMtipHcYVCxnZD4TSXeiLZnNyv0D6f4hk6Hy6IO7+joge1bJjCJSLfogXKQ3mGfnIdZ;eGsMrhA4P5MeuYIQSJhXsw=="
 ---

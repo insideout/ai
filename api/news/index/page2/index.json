@@ -1578,7 +1578,7 @@
       "path": "_posts/2020-02-16-researchers-describe-a-brainy-approach-to-leverage-noise-for-better-neural-networks.md",
       "title": "Researchers Describe a Brainy Approach to Leverage Noise For Better Neural Networks",
       "excerpt": "Those who design deep neural networks for artificial intelligence often find inspiration in the human brain. One of the brain’s more important characteristics is that it is a “noisy” system: not every neuron contains perfect information that gets carried across a synapse with perfect clarity. Sometimes partial or conflicting information ...",
-      "heat": 88,
+      "heat": 78,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.noozhawk.com/article/researchers_describe_a_brainy_approach_to_leverage_noise_for_better_neural",

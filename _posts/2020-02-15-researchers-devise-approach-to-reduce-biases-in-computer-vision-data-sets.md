@@ -37,19 +37,6 @@ related:
       - url: "https://www.noozhawk.com/images/made/images/uploads/021520-seaurchins-630_426_320_s.jpg"
         width: 426
         height: 320
-  - title: "Researchers devise approach to reduce biases in computer vision data sets"
-    excerpt: "The researchers propose improvements to ImageNet, a database of more than 14 million images that has played a key role in advancing computer vision over the past decade. ImageNet, which includes images of objects and landscapes as well as people, serves as a source of training data for researchers creating machine learning algorithms that ..."
-    publishedDateTime: 2020-02-12T00:00:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-02/pues-rda021220.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 38
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/224081_web.jpg"
-        width: 720
-        height: 405
 
 secured: "+cCmQwu9iGMg90bWHUr87i0sYcZg8z8i68dPQM1Q3+ISnRgcxvyJesgGPFtRiGn6Zi5ry2IF1MC0vhtL0NY0cCaNIXg/q+24snt6g4cMc0VgQty7k2z9qZxON8Y9GMovBYkjnvGrd30D4eZnG+Cv5cI3KOa7FUNzL3Gip7A0jHXK7/1s5chn6BbY2vK6FNLXEnXiR4b1f2JtCXa8EQyuiCJL/PkISl9TOjklkAmvywEKfT2cNZdJww24VdroittJR2HL7poejcoQuKkliNMo7DY0F+00KmKVIDz4N5XYKYWBOxFNnMQpFDPEbI6WQ1l9;VJCfurJhpRBlr3rWcwXKtg=="
 ---

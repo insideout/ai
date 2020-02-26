@@ -83,6 +83,19 @@ related:
       - url: "https://technode.com/wp-content/uploads/2016/08/AI.jpg"
         width: 450
         height: 375
+  - title: "IoT Startup FogHorn Raises $25 Million Series C Funding As Edge AI Takes Off"
+    excerpt: "We've been pushing the state of the art on how you do AI and machine learning on high-velocity data,' FogHorn CEO David King tells CRN about the startup's edge intelligence capabilities. By Dylan Martin February 26, 2020, 11:22 AM EST FogHorn Systems CEO David King said when the startup got its start nearly five years ago, people thought edge ..."
+    publishedDateTime: 2020-02-26T16:50:00Z
+    webUrl: "https://www.crn.com/news/internet-of-things/iot-startup-foghorn-raises-25-million-series-c-funding-as-edge-ai-takes-off"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 34
+    images:
+      - url: "https://www.crn.com/resources/025a-0ecb512e0f73-10765ee2394d-1000/86796455.jpeg"
+        width: 399
+        height: 399
 
 secured: "ZynsVh0qLAMTcseafOEYgk+EKnqaCdWMV6XRI6SwZhKCyaqmvmHI6KBNIdhmlkwnLaFG+GNNniJphADRKIUInYzd4HRDEzpiYAyfO7kskeky59irKlLwXi37mRJVawupa0MIA0lPfxvhdiZGhw21U4lNctmO9hbSf5R1CD9JA5GBBdTaq25v3H07BmYcWDs2+yjuu7wnqdUqEN3YQbwdfAgXEILX4Ktv/X3BZgpimbEdcbGzwEs4ko0GeqZAvyy+SDYG44OAHzQtnMAVFt6Vz4pk3ZvxUThUpneyI0y/vGaHlsRUNnv0jkCsBiqkuF8uIur20fFF7dga9Op2/8WLjpuN8psH5Sbdc1KMCJ8Ab2ou+rvLL2EwnfScnx7f5oLXV4izDB/lYjdcuLsGrtMmQvWj56Z3lnWUJytKjtJWpx09i7RUmybs/enRhbI9bFnB2GDLuuCC1dxBZE8FD9B4lW6zJJ1LdFrSjwyTDiLlD5E=;MZGb7+SD3qSxfrgfx8LbbA=="
 ---

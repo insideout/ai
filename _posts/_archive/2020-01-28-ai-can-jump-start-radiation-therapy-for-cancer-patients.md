@@ -35,22 +35,7 @@ related:
       - url: "https://www.news-medical.net/image.axd?picture=2014%2f7%2fRadiation_Therapy-620x480.jpg"
         width: 620
         height: 480
-  - title: "AI can Boost Radiation Therapy for Cancer Patients"
-    excerpt: "Artificial intelligence (AI) can now instantly translate complex clinical data into an optimal plan of attack which can help cancer patients start their radiation therapy sooner and thereby ..."
-    publishedDateTime: 2020-01-28T07:21:00Z
-    webUrl: "https://www.medindia.net/news/ai-can-boost-radiation-therapy-for-cancer-patients-192787-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/ai-can-boost-radiation-therapy-for-cancer-patients-192787-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/ai-can-boost-radiation-therapy-for-cancer-patients-192787-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 74
-    images:
-      - url: "https://images.medindia.net/amp-images/health-images/zika-virus-kills-brain-cancer-cells.jpg"
-        width: 1200
-        height: 1000
 
-secured: "nzje+aE9CdIgMxedM3iChhVDx+zahkKIdY/qTEURtd5gskc2sQ3dkpQ0cxK340jTYaQIZPyDWVOS6+a/WHUsdkg0yS3ei5bKbp3UWWIcnyGtPdlTBOWVfnIZufrmkaBmiZ5VFrVKDAPMimD2toonMulOxOWtGpX/M1iTWtZOurCFaGIGPR4W+ZQYZRsNCdq+9rQYJdZE8IrJpnqXGEEZtgDqDLjZhEMqmffIqwEVjtjyp2rhEsBzN1jD56kPbDCXJgm8kZafSwoqhk5s3BBSn91lLrgiIlwegCzSGUJJZyLKOiNvTaGhsQ1Qbl7Gm9Df;YeKRm8ygmevuY+8V9riaPA=="
+secured: "l0Jwj3mjTtyTB7vn5HJaOhkLI9aIFiiFMp+kgZf/qJdoyLru8kITtbbX/LfBn3xRGurv/8QDKLrg07unmM9lKiLYR74sdGgTsgQeTRByjydioc2j5t2Rzf8s/lzvSEvoUBdvobb6rVDPaV/B30U0g5QO9DpLxSr3IGU83KeDKTvIjePX0t41Gt3LRM1t7umhlyw5/0p77wsQoAam0AakATGbZoMmWjnLU+mpQDRfbamWHjPkgCffJGTXwkYN4V9btDlYPba3ojqIZ8y/1/RzPs8MZGhsmanrmK8pprxMU/U2+AyVsvrhUG4VrfH7GP8g;6vP8KVkdKzyYWMZEfPv85A=="
 ---
 

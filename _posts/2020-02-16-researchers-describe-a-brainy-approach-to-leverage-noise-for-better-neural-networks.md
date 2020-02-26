@@ -8,7 +8,7 @@ ampWebUrl: "https://www.noozhawk.com/amp/researchers_describe_a_brainy_approach_
 cdnAmpWebUrl: "https://www-noozhawk-com.cdn.ampproject.org/c/s/www.noozhawk.com/amp/researchers_describe_a_brainy_approach_to_leverage_noise_for_better_neural"
 type: article
 quality: 68
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -35,19 +35,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 48
-  - title: "Researchers devise approach to reduce biases in computer vision data sets"
-    excerpt: "The researchers propose improvements to ImageNet, a database of more than 14 million images that has played a key role in advancing computer vision over the past decade. ImageNet, which includes images of objects and landscapes as well as people, serves as a source of training data for researchers creating machine learning algorithms that ..."
-    publishedDateTime: 2020-02-12T00:00:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-02/pues-rda021220.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 38
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/224081_web.jpg"
-        width: 720
-        height: 405
 
 secured: "hCEOAznEZWD3TwZ9v9EvylmP7dPAjrSnzKMhrTNPJYM3gKWxhAlU/Zh/LUw4P/1Y2Vot6zHUg/aHr2FtKLDTijcKxaT1cBwNzsnyi6a7opBH8xiweME5TYZCnz5c4eMltve/KccGugphrdWNy0ys50VzQZ2eY73/i0bSmX50BH4vbBzYtmdkbwA/xHYr3VURWaDPzgvKt5gQL8ea++QIpsV5v1FnFW70+RAmS7EvJcKArqwNWJvZLYHeAXRRnnKy0AHdOuxE8MSGCKWD4cPWZDnJbswlVAgF47K1A/0LOpgz4R6AhOUnf472DVjdk+QP;gtBdl9OP7UdK7SpoBo/tbA=="
 ---

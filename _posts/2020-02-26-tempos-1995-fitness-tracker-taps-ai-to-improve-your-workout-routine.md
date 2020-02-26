@@ -28,6 +28,6 @@ images:
     height: 800
     title: "Tempo’s $1,995 fitness tracker taps AI to improve your workout routine"
 
-secured: "Ds3ydn8rJol5PEs+CC98hONkSe8pTBzdQwN8uURV44uYKki33PtCBORBNQRv3IsyCFnBRPIM1yK4pyahFa8rC4bPzf77atOmH3pY90uMjmOX9j5MyajzJ8MjUES+aPjsvhBrNHvZKVimvTYxAoISoUqWX/D8iQGdfQBYqwrtoTAmMjcKba+q3EveSlJWGvf0bRjESSne7s4bfvDaYPjF02QwYpcNln1Y8Y3V4kxNt2a2aBIXxEEI+WAuz3fC+9cIFZNTaGxfu2R1aO0wnK501A5T+C4hTC58GEhCKFSvtV75edkBFkJ5xuup6Z0uYg3w;+Mmgqz4Czu8crnrP3VCJvw=="
+secured: "pIFl3xHZRZ2Cu5U/T0LrunfR1WHo7NsvVNkErrF9dY2caNyKO9iyioY2GeCQW2JcVrSFk+5dky4D8WREoHMCs4R980NyXoG6iFjcCfznjKTdVJ27Muk0S5IfX+iboFusTo1DR8U4KfvtSFE6OYWJXRYPO+AZxbbEPIDkyBIR4L/9brdMC+j8pvsr7Oj/ug/2iyub+ustAfC1J3xaZQNNAbAm3aWpz0gPvgbud+iwgZ0QsaxL+cHnMWwpPeHthuknvKB/rPro5iBKIbOHrGJU7myl2vSGmFHPDQoaehflavYaTfT8agmjx+AMSl3tkWPAXelkRQwciOgDYu8RHR+DCtH5/z1gG+SK/sqflLh/+PKWrfIrHrukXmsG7q32M/dLu6pWB6ENELcxuRb1Fr54bi7Ok+08MXqvAwGHvlpyXxoItxP160GRc15jODyg7s6tF3Z2m8jFj2eQU7UcL3Hm1tyLjRmKYmY1ZUi+dMlrpLo=;ocppyOK7znr6shqw82juRg=="
 ---
 
