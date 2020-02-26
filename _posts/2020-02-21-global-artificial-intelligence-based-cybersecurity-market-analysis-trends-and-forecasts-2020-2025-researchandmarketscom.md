@@ -49,6 +49,15 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Artificial Intelligence Chipsets Market Is Estimated To Expand At a Healthy CAGR in the Upcoming Forecast 2025"
+    excerpt: "Kenneth Research has published a detailed report on Artificial Intelligence Chipsets Market which has been categorized by market size, growth indicators and encompasses detailed market analysis on macro trends and region-wise growth in North America,"
+    publishedDateTime: 2020-02-26T07:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-is-estimated-to-expand-at-a-healthy-cagr-in-the-upcoming-forecast-2025-2020-02-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
 
 secured: "oW0s0RoYy4Mk6+kyTFVIU8FSwoth0rM/TRrzKvefHqpJqtEKADHPyQnL26zr835JU+tlHx97D1zh1gDSQsq1Fs1SJ6mqS8Hk5IvZamFsVde336PK/bFwo+fuOUyg6lf5ewt9Ybq59L+mbwNyV7UiOAieBKsWb7+5WX5VihSqb0gjFzC/jVnEioXd0mEv62fD8IZDOtgV2KU9Mxo9wUG1bEOPZJRGvS2YhB0vj5NF/J8JWasje6fcq2FrgcOF5ogCCf9QreclCbNR9Q/JOsElVVsjx83ZJDQ3ccbI5vnK5XV3wewK+JT5LsNf/FQlyb0N64+cTAe/NvzGbR7gvjGzQd4st8jt4/+o86OdL5xNyqcgO8Ee1cY7m1lWkFaXJc3WX0DJ3u/Ayofydy0z/p4twoGo2lHMQt1YYABLXo1TlpRPb3YU4knrWoMwa4myMZyEeuZdT3ON2VvhHuJUR32dv3+hlXl/RC2mf5i3csxbWYM=;l4pKBdRSBWbJsiYMknfzSw=="
 ---

@@ -41,6 +41,21 @@ related:
       - url: "https://s.marketwatch.com/public/resources/images/MW-IA488_tesla_ZH_20200219100228.jpg"
         width: 890
         height: 501
+  - title: "How a Toronto company is making self-driving technology a reality on our roads"
+    excerpt: "Tesla offers autonomy at this level for its passenger vehicles, but for a much higher price, as you have to buy the car first. Tesla's self-driving Autopilot system under scrutiny after 3 deadly crashes What's in a name? When it comes to trusting self-driving technology, a lot The goal for X-Matik is to provide a Level 3 update to the software ..."
+    publishedDateTime: 2020-02-26T09:16:00Z
+    webUrl: "https://www.cbc.ca/news/canada/toronto/semi-autonomous-vehicle-technology-toronto-1.5471370"
+    ampWebUrl: "https://www.cbc.ca/amp/1.5471370"
+    cdnAmpWebUrl: "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.5471370"
+    type: article
+    provider:
+      name: CBC.ca
+      domain: www.cbc.ca
+    quality: 40
+    images:
+      - url: "https://i.cbc.ca/1.5472175.1582323388!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/x-matik.jpg"
+        width: 620
+        height: 349
 
 secured: "YwZRqC2T9tRbbicVFLYeXfIFta4/bAgHXLLZUwme8f79ERiOe9TdZPYKrG6CmUnm0GAReooT4gmtT4c4KtIVH3FZbFFFWyOHX54QJiJP+ceJ2y1SiXEmMxVsD/RTQjiqw/dQGACkCU7cZ4JYPxvuMEF/9tYp9Nqjuf2GJRTm/PxsEh/5HAVxSmZyLWkN8YEF8nh+o86benn6V8YvaH0ApBWDQwU+M3s4jITKF4r4pw841zEzXyo7R8U32jB5SRwhR9WbFnn8+cO93iPkA7GmiepoZ5WJtnEBIdhHx7HHDezpTb5OjUbJawHdIx5LPiQc;9n7q3DFCXZM/IlrsehJ4rw=="
 ---

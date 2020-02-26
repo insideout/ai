@@ -297,15 +297,6 @@ related:
       - url: "https://www.dailydot.com/wp-content/uploads/2020/02/Facial-Recognition-Bill-Congress-Merkley-Booker-1024x512.jpg"
         width: 1024
         height: 512
-  - title: "EU backs away from proposed five-year facial recognition ban"
-    excerpt: "Instead, it will recommend that member states assess the technology themselves. The European Union won't issue a ban on facial recognition tech, as it once proposed, the Financial Times reports. In a previous draft of a paper on artificial intelligence, the European Commission suggested a five-year moratorium on facial recognition, so that the ..."
-    publishedDateTime: 2020-02-11T15:49:00Z
-    webUrl: "https://www.engadget.com/2020/02/11/european-commission-facial-recognition-guidelines/"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 49
   - title: "Chino Police Department to hold forum Wednesday on proposed use of facial recognition technology"
     excerpt: "Facial recognition technology is already used by several agencies in the Inland Empire, and the Chino Police Department is considering using the technology in the future. The department is holding a public forum Wednesday evening to get feedback from the community on any concerns residents might have about the technology. Chino police said in a ..."
     publishedDateTime: 2020-02-12T02:16:00Z
@@ -491,15 +482,6 @@ related:
       - url: "https://s3.amazonaws.com/wmnf/wp-content/uploads/2020/02/RNC-surveillance-camera-Tampa-SAM_0145-sk-1024x576.jpg"
         width: 1024
         height: 576
-  - title: "Poker Players Are Asking for Facial Recognition Technology"
-    excerpt: "There has been a lot of talk about the idea of introducing facial recognition technology into casinos. Proponents of this idea have argued that a facial recognition system could unlock an array of benefits for casino owners and players. First, it’s a good way of tracking patrons and signing in VIP players without a fuss. Casinos also have the ..."
-    publishedDateTime: 2020-02-11T16:08:00Z
-    webUrl: "https://www.tmcnet.com/topics/articles/2020/02/11/444431-poker-players-asking-facial-recognition-technology.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
   - title: "Lawmakers Float New Restrictions On Facial Recognition"
     excerpt: "As controversies about the use of facial recognition continue to swirl, lawmakers across the country are preparing to tackle the technology. California state Senator Hannah-Beth Jackson (D-Santa Barbara), said Thursday she plans to introduce a bill to prevent law enforcement and other governmental agencies from using facial recognition ..."
     publishedDateTime: 2020-02-17T22:15:00Z

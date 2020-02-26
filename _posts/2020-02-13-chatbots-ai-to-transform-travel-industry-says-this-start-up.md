@@ -40,6 +40,15 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e4c97476895e0000683937c%2F0x0.jpg"
         width: 1200
         height: 836
+  - title: "How Artificial Intelligence is Transforming the Travel Industry"
+    excerpt: "The business process and customer services in every dominant industry have significantly developed with the assistance of artificial intelligence. There are several AI software extensively used among the sectors like Machine Learning, Chatbots, Internet of Things, and Neural Networks. However, among this considerable list, new software has also ..."
+    publishedDateTime: 2020-02-26T08:43:00Z
+    webUrl: "https://www.cioreview.com/news/how-artificial-intelligence-is-transforming-the-travel-industry-nid-31235-cid-40.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 19
 
 secured: "5s6Mk8aRELlaNnUfRfd7n0vLi7W8pbw4B+xpMKQcAM/yXphuxNKMJPR+6GiFRsKU+eBogJKOMIyonEAdL5oFcFGlGxli7gz3af1FSYz1Te++kl/Ou1uj/v4KfJiSrttjM/segdbvoHC46sTI4Y3oae6E/BdTDeq4cDyuCpYD4Ywq/NRh+44UWlcsEytu3RNqrIvcTFNDKjTkqZIlkxJ4IvlcS+X2jQeYtK7i+3T0cgRRJh1HLkv0IWmoQ+G9SLZa8e4lKfZrZGt4n25X1S/1xBbVHoc7cOmRI176iylsrBtlJ68AS32GZj6isNo/6DG1zOkoXnMwDb0R3swoANsBGANzdV7aEzdRPVsieoSNb2F8NwbPcH6jPdGbnkbqH9QL7k0jTTTItYNcKGR8v7ctWjpZMfOclRIJ+JzFhOX1+0FjZfyvHLjqTLCEC4Ac7I8JCYLSROGwDN6hlbgM7ROR2hLIzHNFvnB1A/zxwQWi8lI=;a2WMkjuwAL9SyAhSnOt3PQ=="
 ---

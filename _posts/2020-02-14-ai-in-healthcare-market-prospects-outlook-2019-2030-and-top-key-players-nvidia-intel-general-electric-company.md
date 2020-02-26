@@ -3,25 +3,19 @@ category: news
 title: "AI in Healthcare Market Prospects Outlook 2019-2030 and Top Key Players - NVIDIA, Intel, GENERAL ELECTRIC COMPANY"
 excerpt: "Companies such as IBM have played a big role in pushing AI into healthcare. The company is using its Watson platform technology in the field of cancer research, insurance claims and clinical support tools to enhance AI needs. For instance, Alder Hey Children’s Hospital uses chatboats to access validated information from patients related to a ..."
 publishedDateTime: 2020-02-14T11:43:00Z
-webUrl: "https://www.cmo.com.au/mediareleases/38408/ai-in-healthcare-market-prospects-outlook-2019/"
+webUrl: "https://www.arnnet.com.au/mediareleases/38408/ai-in-healthcare-market-prospects-outlook-2019/"
 type: article
-quality: 18
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: cmo.com.au
-  domain: cmo.com.au
+  name: ARN
+  domain: arnnet.com.au
 
 topics:
   - AI
   - IBM AI
-
-images:
-  - url: "https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg"
-    width: 600
-    height: 246
-    title: "AI in Healthcare Market Prospects Outlook 2019-2030 and Top Key Players - NVIDIA, Intel, GENERAL ELECTRIC COMPANY"
 
 related:
   - title: "Natural Language Processing (NLP) Market Size, Share and Top Key Players During 2019-2027"
@@ -43,6 +37,6 @@ related:
       domain: openpr.com
     quality: 19
 
-secured: "KsnE1r6HyR3bFtIYWls7WJVIeqzXD+69t607p2OepTHokRf8LFjRnifFCdBp2RJwTqMF+qkreNFROkom4b16ELjARi4SSHUlX7jOVw+L7kkFCwvIP2mfulAnMIIqBbaXctugceb3xCV2Nz/smKRPhcLR1lfxXc2jQw9BiJRN6baaY4IHp6yU9egBuEn/4DyFhPeEcV0zxVB5WQe6NOMtZWI+0XVhdMXpJnaz9ZDSCrwJOkUlR/MfNyEQiJmJeHjAsdOI8dkOSPQwVylBGOQsO0dZubRbbfwAXC+v9b//gROcDroJPaFwBG3NEHdh2z6l;R1XzpejewAeHg29M6g7iFQ=="
+secured: "v1zehMxyweb1pI6RBi2skFErBJqx4Z31Bvj1C3ApYfRCcwyWE/oUjpXZevdNbo6r+oXB2D/XDGHGlSs/6xGQI+CBBhtAN8ajyw04+qUvf6WX71wj+dPigxV0TpnAptCKUocjNS7cMqXrQtXHTYqsGy929Cqj4wywo2BJucnbS2o+/8pGAJc2OS9Mg8crQZbno3Tu19rRuivrK9Wj0EG2cSNElepqIDPOkc5/nWakTUWyHAoTKP4Tfa7qcWnslwXHaq+GNoFiwECuKBgx9xYxAdDFU8lupm4SExwSIu7iyOypAeLP06ZvM66flFirNIFU;kaXe7z1RXw2Syv1qgSvN4g=="
 ---
 

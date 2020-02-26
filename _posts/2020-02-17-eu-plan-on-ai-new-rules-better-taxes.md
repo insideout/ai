@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-17T06:20:00Z
 webUrl: "https://euobserver.com/science/147454"
 type: article
 quality: 137
-heat: 197
+heat: 187
 published: true
 
 provider:
@@ -96,15 +96,6 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/02/17/the-eu-commissions-digital-policy-chief-margrethe-vestager.jpg"
         width: 1024
         height: 682
-  - title: "10 Rules Entrepreneurs Need To Know Before Adopting AI"
-    excerpt: "Rocio Wu offers insights into how entrepreneurs can start riding the wave. Although adoption of artificial intelligence (AI) and machine learning (ML) for the enterprise is still in the early days, the technology has matured enough for entrepreneurs to start gathering inspiration and evaluating opportunities for potential applications."
-    publishedDateTime: 2020-02-11T16:03:00Z
-    webUrl: "https://hbswk.hbs.edu/item/10-rules-entrepreneurs-need-to-know-before-adopting-ai"
-    type: article
-    provider:
-      name: Harvard Business School
-      domain: hbs.edu
-    quality: 17
 
 secured: "YcMx3W1GcEVaVi7m7C7ehCAhX+FHBaQiMJnm9ap3acCX1Og7FP3IIbnEI87tQARF9VtR9+N06/x6VmgmJeZ7YZqWPJe8S+Nr6mWrDa1YgTK4wXuAHRQ+SWIagacP2/Le7QBRfsk1OeEDhdwAZrtw1tax/FHstWQhzpxsiKqkYGJiorPhvAMJ+A7nxSHoJLDJasBoDIqOWL1wpfP7790pyZ9nYlzR3vVoRRpeMA6iYrt2XbDrPNIqp7zlO/iBeT9qGmb922VvVHvdaXCHx0sCKYF72fVnjmJLsNtOsGEbYkLxTKN5tVga+cvJaENw8vU8iuhv9Dx+UGYMcJkwp8NOzQ==;sHWI2zdbJvd0aHvMcUNH3w=="
 ---

@@ -5,8 +5,8 @@ excerpt: "‘The team will use the data to create artificial intelligence algori
 publishedDateTime: 2020-02-09T18:30:00Z
 webUrl: "https://medium.com/towards-artificial-intelligence/from-wind-farms-to-ai-robot-swarms-problematizing-ai-thinking-f3b47c7f38bd"
 type: article
-quality: 69
-heat: 69
+quality: 49
+heat: 49
 published: false
 
 provider:
@@ -21,12 +21,6 @@ topics:
   - AI
   - AI in Autos
 
-images:
-  - url: "https://miro.medium.com/max/752/1*wz1TN6-0r6AywkpQzIeCLQ.jpeg"
-    width: 752
-    height: 423
-    title: "From Wind Farms to AI Robot Swarms — Problematizing AI Thinking"
-
-secured: "ptWxdK7chvJ3qiQtgL/2xcSL1Y8N691af/g1dh6BB1qWeJhJvsvoaXHNfCqrsyZJggQKSNa/5piUN1aZT7C+qE9KdfygxcARLYk6Q33mn/Ry33YopYfTO/ycyR/ycuUtLZ5Uhi1xniktjKu0Sw1Bckd6tm1qFjaTVMu5fXcsJRdyOvzluRFiPIYsfJ3y/pPXOATt8WlMj4jc/yx/72HmcFHzEDmhjPWuxGd1UsUl+udnp0V3IEy7eOijUpvuDCSIbkeno1Jq2r5Rfkyx1chEQQeAuvuc5+rxDZE4EQ5Yy/wd2lGLlCXk4ThZr65qc0Hr;RL4J1Cm5xbrMRbKOTm2hxw=="
+secured: "uuINLe8zydZNdHA43XTSP50GZu4OS89KCwg40NwDGMYsn1FhEvgP0OmVufOahYBbZSFIGLAKAEYsoMDCPehYlr8VD8fJ/IBO5XV4SMZ6fnI75vYtDtF7nNSlCR/N0MCAv7keIgkgX2/GxX8jVJQWO+U97BGuQ6Ou1lWrIhvMzlEQm60APblWZfiF1PFWKoZEEHgiK/k3I1xBSG1pAvtDKOSQ6HrRte3sSSa/p6IyGaQEnvuQdtVLpDT2wTcj5Ih64JmvGjsS021CwaAoFhQQA7SJmAkNohkhSLI3yMdgqkQi++ydA7KqYst0XTutlAd4;IQvOFuT0S1CeEzY3p3UXcw=="
 ---
 

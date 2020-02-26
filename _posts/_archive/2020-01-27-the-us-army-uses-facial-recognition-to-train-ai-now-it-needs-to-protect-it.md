@@ -4,11 +4,9 @@ title: "The US Army uses facial recognition to train AI. Now, it needs to protec
 excerpt: "Facial and object recognition technologies are used by the US Army to train artificial intelligence (AI) systems used in unmanned aerial vehicles (UAVs), surveillance systems, and more."
 publishedDateTime: 2020-01-27T11:21:00Z
 webUrl: "https://www.zdnet.com/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
 type: article
-quality: 101
-heat: 111
+quality: 61
+heat: 71
 published: true
 
 provider:
@@ -23,12 +21,6 @@ topics:
   - AI
   - Computer Vision
 
-images:
-  - url: "https://zdnet4.cbsistatic.com/hub/i/r/2019/12/16/35ee7b2b-7adc-4a8f-9a42-034997586ff6/thumbnail/1200x675/29e6b7ba24c8774ada650245cc7c7ba7/san-diego-to-suspend-facial-recognition-5df3b0c7aaacb30001a11066-1-dec-16-2019-22-49-36-poster.jpg"
-    width: 1200
-    height: 675
-    title: "The US Army uses facial recognition to train AI. Now, it needs to protect it"
-
 related:
   - title: "US Army develops AI facial recognition protection"
     excerpt: "The US Army uses facial and object recognition technologies to train artificial intelligence (AI) systems used in unmanned aerial vehicles (UAVs), surveillance systems, and more. However ..."
@@ -38,12 +30,8 @@ related:
     provider:
       name: Fudzilla
       domain: fudzilla.com
-    quality: 54
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/9da04a8003f0d759bae25bbf360e627c_L.jpg"
-        width: 620
-        height: 465
+    quality: 34
 
-secured: "v6eTW2Bn++zYcXqQKj/dS4h0Ah+6kyfU3Y36tH7zGlKp9qgSkX25I1AXJzCdALME6+DCvtlnoRUw9vQmZmzx38KV7MAl8ZulSkkVK10havihHSHFRUft3fwwmwSiBLthrXIl8w9+pK5pbv2FayIsI/X9KTYxTlGoz2q8y/YJLjkSQRW5XXgIReJ2rf1hOP9c9qKWvmcaVYOVBM6c66tgg0SoP7IWVN0WS3mAkIGmB5Pl6DFLdyQEvjxyMlxUZBDBJWk8nxg8paD4sO4A4q4WUjZU9Sv36UJI71dLrRTd647qntxs41EryJWOCstcUqaZ;XbcGHrNejqbxg5NIk/rWkQ=="
+secured: "ZqDWU9kp7sOG7284uik1E6PeZuxCk0Vd0CacFSY1KNlEVefoRL3KQotYRxShDW+ewLLd8+nUCqP0wGf8UHKVeWSRbDEIefxkzeIuVZ1WRxFSBYHRIJt0MS4Kx2twRsiJR+d9Yv8VSgtcOYBXBhGSD83dj6pDMVqYbeOlvYGLH+fxBPnZuOHkK9olnhZWFgohizgOgN6kq0JxsvjmgfRx6mL0oJ2/l7ASThAg0b+Ny9UgSoWzrHdc0ZuicoWM5IU7ONltLqhEw+UPT6MqRUml3dfWkVkFpIgL1UmfgWhef9L2utggdM+VIyKstwj97E1a;9ix72TQ4tvvGP1o0SKqRRA=="
 ---
 

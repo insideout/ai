@@ -5,7 +5,7 @@ excerpt: "The researchers behind a new study have used artificial intelligence, 
 publishedDateTime: 2020-02-15T13:50:00Z
 webUrl: "https://www.sciencedaily.com/releases/2020/02/200213132615.htm"
 type: article
-quality: 47
+quality: 49
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 related:
   - title: "Report: Artificial intelligence finds disease-related genes — Tdnews"

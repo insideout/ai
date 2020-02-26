@@ -96,15 +96,6 @@ related:
       - url: "https://thehill.com/sites/default/files/eu_europencommission_europeanunion_082418gn4_lead.jpg"
         width: 980
         height: 551
-  - title: "10 Rules Entrepreneurs Need To Know Before Adopting AI"
-    excerpt: "Rocio Wu offers insights into how entrepreneurs can start riding the wave. Although adoption of artificial intelligence (AI) and machine learning (ML) for the enterprise is still in the early days, the technology has matured enough for entrepreneurs to start gathering inspiration and evaluating opportunities for potential applications."
-    publishedDateTime: 2020-02-11T16:03:00Z
-    webUrl: "https://hbswk.hbs.edu/item/10-rules-entrepreneurs-need-to-know-before-adopting-ai"
-    type: article
-    provider:
-      name: Harvard Business School
-      domain: hbs.edu
-    quality: 17
 
 secured: "lOlHaE6qzPjLa/ApzkiYioMWbYKfKarqvwfZRsRZxfLKYytTgYGbNGUlFEuSif6x2e83C179Qf70AQhCTXrHXtOKd1JKUU7jgiEx3LZlx55/gPWDuI8hF1VoGeu5U436r+T4tv4hkJT9/YPmSWN8V7IKy2qC3WN8jZkhRXd30JSXTL4gPzYXfKL1gN16QCDtUQee57CGQj2yQ7Uz/U7bN86OkyDJWCEWv3fLWz+cxJfOJdGVphOmfIW8ma2zkSKJ5sG3jBSyU4mTyvhlfyvzcVEVDqWD+iwwzntCA/z+oux/qDz3JkYCRKlTsoOvZm7aRofeotb4L86syM8Z1l8sSYoqx0N+MuIibojaRhQ7dGlXYMc3d4kulkFDY/v6IxFUuca2tknBH7UppUMuV6TrKud+59zs4b7CgSHgpW8Xnc+g3aZsjoEdoPRTaFrhIT+MoT8vP7eBqdEPVv8M96ODwb2JEbPRuVWMhvKpeEP0lOc=;ahoYBrhlMQBIGCTARCTR5w=="
 ---

@@ -2,26 +2,20 @@
 category: news
 title: "Top cloud Vendors Look to Partnerships to Grab Their Piece of the IoT Analytics Pie"
 excerpt: "Analytics services across cloud vendors, on the other hand, are less differentiated, as reflected in pre-built templates such as AWS Sagemaker and Microsoft Azure Notebooks which leverage the open ..."
-publishedDateTime: 2020-02-19T10:00:00Z
-webUrl: "https://www.finanzen.net/nachricht/aktien/top-cloud-vendors-look-to-partnerships-to-grab-their-piece-of-the-iot-analytics-pie-8529788"
+publishedDateTime: 2020-02-19T09:19:00Z
+webUrl: "https://www.wallstreet-online.de/nachricht/12184285-top-cloud-vendors-look-to-partnerships-to-grab-their-piece-of-the-iot-analytics-pie"
 type: article
-quality: 18
-heat: 18
+quality: 0
+heat: -1
 published: false
 
 provider:
-  name: Finanzen
-  domain: finanzen.net
+  name: wallstreet online
+  domain: wallstreet-online.de
 
 topics:
   - AI
   - AWS AI
-
-images:
-  - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
-    width: 600
-    height: 315
-    title: "Top cloud Vendors Look to Partnerships to Grab Their Piece of the IoT Analytics Pie"
 
 related:
   - title: "Top cloud Vendors Look to Partnerships to Grab Their Piece of the IoT Analytics Pie"
@@ -38,6 +32,6 @@ related:
         width: 400
         height: 400
 
-secured: "jM1Y6lDwhtPu9uILsar+wOQ32046Kn0aqQAV13Nw0GhkFA0qZwz7prymfrHSm/BlZ1NWJyuhWfzYPlsZl3wKFp/1j/7KS2D2WlcwhvAAZ/mXUYItJcDlucM9QnSXCl5qyQ4yRt0RDbkJva0MmPkLhUEQr/43nNexZztW/qhABglpqGSRIHuoQdY8Dv8Bwxc+9FQ0ZnMtGBI9FNxsCU26Tpx4k+FrZRsA4dPaHO0vqzT71TylpEQqJgAJFF981VhWAYLJs9nCCVYhrEOfg768xnr4kLJ6n4wswwR/HZXzazoWXb2LlKogB5mCCAVY543X;3+yNK/iecQjekHJiiVE9qA=="
+secured: "mDHWR3DTDmGAJM443t44Q9MV8NZHxtWNrnPm3KHG/ND4N8NO4emWSUK1luTdiKczHfMVc1/gABFZgO/Fnei3K6EuguTQN4ofcsBfl+Ai2+oHLdeJq3ESXZzZ0dKHOpchM/jfOFkQ4eXB8PWk3wDHFIU72L84/zDAaRa+Nm4PI+FiBViM7dq9E5k48cuHkTzdSSK2iW5zaxg/SuHgC8d4uDWP906LATW0n8JQlxVRn7f6vViqOK7ijjIyXsd+wJcyIn1koQbkKZ4faHI+b9gRs4Yjf4vcewPXDsVmvuvHk2ZNXT4r1/M5kEhxq+updYwe;VV32j+JKxkP+LwUGlaDS/w=="
 ---
 
