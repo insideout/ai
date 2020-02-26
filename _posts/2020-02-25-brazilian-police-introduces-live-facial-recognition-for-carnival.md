@@ -60,21 +60,6 @@ related:
       - url: "https://zdnet1.cbsistatic.com/hub/i/r/2019/11/11/d3af5161-14a8-4356-9feb-76346a4bd0cb/thumbnail/1200x675/2ffaf51a1bdfb4c8c3d70bdb244477cb/facial-recognition-could-be-most-invasiv-5dc16b0da99ca30001278b78-1-nov-11-2019-15-39-03-poster.jpg"
         width: 1200
         height: 675
-  - title: "Met Police chief defends facial recognition from 'ill-informed' critics"
-    excerpt: "London's police chief has defended the use of facial recognition technology, labelling critics \"ill-informed\". Dame Cressida Dick said eight criminals had been caught using the controversial live facial recognition cameras. She said \"inaccurate\" critics should \"justify to the victims of those crimes why police should not be allowed to use tech..."
-    publishedDateTime: 2020-02-25T15:55:00Z
-    webUrl: "https://www.bbc.com/news/technology-51628833"
-    ampWebUrl: "https://www.bbc.com/news/amp/technology-51628833"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51628833"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 89
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/BA4C/production/_111029674_gettyimages-1134218905.jpg"
-        width: 1024
-        height: 576
   - title: "Should Government Halt the Use of Facial-Recognition Technology?"
     excerpt: "Critics say false positives are far higher for some groups of people than for others, but supporters of the technology says the actual numbers involved are tiny."
     publishedDateTime: 2020-02-24T04:11:00Z
@@ -210,6 +195,21 @@ related:
       - url: "https://e3.365dm.com/20/02/1600x900/skynews-oxford-street-shoppers_4925640.jpg?20200220143955"
         width: 1600
         height: 900
+  - title: "Met Police chief defends facial recognition from 'ill-informed' critics"
+    excerpt: "London's police chief has defended the use of facial recognition technology, labelling critics \"ill-informed\". Dame Cressida Dick said eight criminals had been caught using the controversial live facial recognition cameras. She said \"inaccurate\" critics should \"justify to the victims of those crimes why police should not be allowed to use tech..."
+    publishedDateTime: 2020-02-25T16:01:00Z
+    webUrl: "https://www.bbc.co.uk/news/technology-51628833"
+    ampWebUrl: "https://www.bbc.co.uk/news/amp/technology-51628833"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-51628833"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 59
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/BA4C/production/_111029674_gettyimages-1134218905.jpg"
+        width: 1024
+        height: 576
   - title: "Facial recognition software used by Waterloo Regional Police Service in past"
     excerpt: "The Waterloo Regional Police Service says it used facial recognition technology 'on a very limited basis' in 2019, but Chief Bryan Larkin says it won't be used going forward until more is known about how it works and there's a policy in place for its use."
     publishedDateTime: 2020-02-20T12:30:00Z

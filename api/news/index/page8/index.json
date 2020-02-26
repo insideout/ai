@@ -2,140 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_posts/2020-02-25-competing-in-the-age-of-ai-is-simpler-than-you-think.md",
-      "title": "Competing In The Age Of AI Is Simpler Than You Think",
-      "excerpt": "Artificial Intelligence is already fundamentally changing business and operations models, argue two Harvard Business School professors in a recent book. They show that it is simpler to implement than many expect.",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/sophiamatveeva/2020/02/25/competing-in-the-age-of-ai-is-simpler-than-you-think/",
-      "ampWebUrl": "https://www.forbes.com/sites/sophiamatveeva/2020/02/25/competing-in-the-age-of-ai-is-simpler-than-you-think/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sophiamatveeva/2020/02/25/competing-in-the-age-of-ai-is-simpler-than-you-think/amp/",
-      "publishedDateTime": "2020-02-25T04:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e54c26476f73b0006dfd7ac%2F0x0.jpg",
-          "width": 1200,
-          "height": 729,
-          "title": "Competing In The Age Of AI Is Simpler Than You Think",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-25-deep-learning-market-size-sales-growth-drivers-opportunities-industry-trends-and-forecast-to-2026.md",
-      "title": "Deep Learning Market Size, Sales, Growth Drivers, Opportunities, Industry Trends and Forecast to 2026",
-      "excerpt": "Deep learning is a subfield of machine learning that consist of a series of computer instructions or algorithms that is inspired by the function and structure of the brain. Deep learning is widely known as artificial neural networks or deep neural networks.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-size-sales-growth-drivers-opportunities-industry-trends-and-forecast-to-2026-2020-02-25",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-25T03:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Deep Learning Market Size, Sales, Growth Drivers, Opportunities, Industry Trends and Forecast to 2026",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-25-defining-humanlike-intelligence-and-entrusting-it-with-our-lives-explained-by-an-ai-researcher.md",
-      "title": "Defining humanlike intelligence and entrusting it with our lives, explained by an AI researcher",
-      "excerpt": "Yesterday, Melanie Mitchell, the author of ‘Artificial Intelligence: A Guide for Thinking Humans’ and the Davis Professor ... Most fears around AI usually stem from Hollywood movies that make us believe that one day autonomous robots will kill all humans and make Earth their own, or these same robots will take away all human meaning as ...",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/02/25/defining-humanlike-intelligence-and-entrusting-it-with-our-lives-explained-by-an-ai-researcher/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/02/25/defining-humanlike-intelligence-and-entrusting-it-with-our-lives-explained-by-an-ai-researcher/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/25/defining-humanlike-intelligence-and-entrusting-it-with-our-lives-explained-by-an-ai-researcher/amp/",
-      "publishedDateTime": "2020-02-25T09:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-...-2-1-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Defining humanlike intelligence and entrusting it with our lives, explained by an AI researcher",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_posts/2020-02-25-facebook-threw-some-petty-cash-at-misinformation-research.md",
       "title": "Facebook threw some petty cash at misinformation research",
       "excerpt": "Any data collected by research teams must comply with Facebook’s (or other companies’) terms and policies ... such as staffing content moderation teams and designing AI to catch it before it spreads. But the company falls short when it comes to helping independent experts assess the issue. It’s not an easy task. Facebook must balance ...",
@@ -482,6 +348,43 @@
       ]
     },
     {
+      "path": "_posts/2020-02-25-military-unveils-guidelines-on-artificial-intelligence-warfare.md",
+      "title": "Military Unveils Guidelines on Artificial Intelligence Warfare",
+      "excerpt": "The project uses algorithms to interpret aerial images of war zones or conflict areas, one of many recent military developments that involve AI. Among the five general principles listed in the new Defense Department ethics guidelines is one that requires AI to be “governable,” meaning the automated technology can be stopped if unintended ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.courthousenews.com/military-unveils-guidelines-on-artificial-intelligence-warfare/",
+      "ampWebUrl": "https://www.courthousenews.com/military-unveils-guidelines-on-artificial-intelligence-warfare/amp/",
+      "cdnAmpWebUrl": "https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/military-unveils-guidelines-on-artificial-intelligence-warfare/amp/",
+      "publishedDateTime": "2020-02-25T15:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Courthouse News Service",
+        "domain": "courthousenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i0.wp.com/www.courthousenews.com/wp-content/uploads/2020/02/pentagon.jpg?fit=1024%2C683&ssl=1",
+          "width": 1024,
+          "height": 683,
+          "title": "Military Unveils Guidelines on Artificial Intelligence Warfare",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_posts/2020-02-25-new-algorithm-for-self-driving-vehicles-has-a-bold-collision-free-guarantee.md",
       "title": "New algorithm for self-driving vehicles has a bold ‘collision-free guarantee’",
       "excerpt": "Researchers have developed an algorithm that could stop self-driving vehicles from getting in crashes and traffic jams. The team from Northwestern University (NU) claims their invention is “the first decentralized algorithm with a collision-free, deadlock-free guarantee.” The algorithm divides the ground beneath the machines into a grid.",
@@ -701,7 +604,7 @@
       "path": "_posts/2020-02-25-ripcord-raises-45-million-to-digitize-paper-records-with-robotics-and-ai.md",
       "title": "Ripcord raises $45 million to digitize paper records with robotics and AI",
       "excerpt": "In search of a solution five years ago, three entrepreneurs — NASA veteran Kim Lembo, former Apple senior engineering scientist Alex Fielding, and Kevin Hall — cofounded Ripcord, a startup developing a portfolio of robots that can digitize paper records. Fresh off a series B funding round, the Hayward, California-based company today ...",
-      "heat": 168,
+      "heat": 178,
       "tags": null,
       "type": "article",
       "webUrl": "https://venturebeat.com/2020/02/25/ripcord-raises-45-million-to-digitize-paper-records-with-robotics-and-ai/",
@@ -959,6 +862,43 @@
       ]
     },
     {
+      "path": "_posts/2020-02-25-these-are-the-pentagons-new-ethics-principles-for-ai-in-warfare.md",
+      "title": "These Are the Pentagon’s New Ethics “Principles” for AI in Warfare",
+      "excerpt": "On Monday, the Pentagon announced the official adoption of a series of new principles for ethical use of artificial intelligence in warfare, the Associated Press reports. The principles were formed out of a commission with the (darkly Newspeak-y) name the Defense Innovation Board, which released its recommendations (title: “AI Principles ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://futurism.com/the-byte/pentagon-ai-ethics-dod-warfare",
+      "ampWebUrl": "https://futurism.com/pentagon-ai-ethics-dod-warfare/amp",
+      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/pentagon-ai-ethics-dod-warfare/amp",
+      "publishedDateTime": "2020-02-25T13:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurism",
+        "domain": "futurism.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://wp-assets.futurism.com/2020/02/pentagon-new-ethics-principles-ai-warfare-600x315.jpg",
+          "width": 600,
+          "height": 315,
+          "title": "These Are the Pentagon’s New Ethics “Principles” for AI in Warfare",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_posts/2020-02-25-tnw-announces-neural-a-blog-for-human-centric-ai-news-and-analysis.md",
       "title": "TNW announces Neural: A blog for human-centric AI news and analysis",
       "excerpt": "Let’s build this Neural network together. We’ll have more exciting news to share about Neural in the coming days and weeks. In the meantime, check out our cool new Neural site here. Fun facts: the Neural font was developed with the help of an artificial neural network and the color scheme was chosen because it’s just awesome.",
@@ -1001,6 +941,51 @@
       "topics": [
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-25-us-agency-suspends-self-driving-shuttle-easymile-use-in-10-us-states.md",
+      "title": "U.S. agency suspends self-driving shuttle EasyMile use in 10 U.S. states",
+      "excerpt": "U.S. auto safety regulators said on Tuesday they had ordered a suspension of passenger operations for 16 autonomous shuttles operated by French-based EasyMile after a passenger was injured in an unexplained braking incident.",
+      "heat": 143,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-autos-selfdriving-idUSKBN20J2N6",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN20J2N6",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN20J2N6",
+      "publishedDateTime": "2020-02-25T13:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200225&t=2&i=1495203233&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG1O1NE",
+          "width": 817,
+          "height": 545,
+          "title": "U.S. agency suspends self-driving shuttle EasyMile use in 10 U.S. states",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
       ]
     },
     {

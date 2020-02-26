@@ -75,19 +75,19 @@ related:
         height: 630
   - title: "Tables, footrests, smart speakers: Self-driving cars could become the living rooms of the future"
     excerpt: "With self-driving vehicles on the horizon, automakers are rethinking what the future of car interiors will look like. And because these completely autonomous cars, called Level 5 vehicles, will free drivers from focusing on the highway, companies are now free to experiment. And that means premium cars could be loaded with tech that makes ..."
-    publishedDateTime: 2020-02-25T12:35:00Z
-    webUrl: "https://www.usatoday.com/story/money/cars/2020/02/25/smart-car-nissan-bmw-gm-future-cars-spacious-interiors/4658453002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4658453002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4658453002"
+    publishedDateTime: 2020-02-25T21:18:00Z
+    webUrl: "https://oklahoman.com/article/5655924/tables-footrests-smart-speakers-self-driving-cars-could-become-the-living-rooms-of-the-future"
+    ampWebUrl: "https://oklahoman.com/article/5655924/tables-footrests-smart-speakers-self-driving-cars-could-become-the-living-rooms-of-the-future/amp"
+    cdnAmpWebUrl: "https://oklahoman-com.cdn.ampproject.org/c/s/oklahoman.com/article/5655924/tables-footrests-smart-speakers-self-driving-cars-could-become-the-living-rooms-of-the-future/amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
+      name: The Oklahoman
+      domain: oklahoman.com
     quality: 31
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/02/05/USAT/09643d9a-d78b-46f0-8ac3-bfdd247cfc98-BMW1.jpg?auto=webp&crop=825,465,x0,y41&format=pjpg&width=1200"
-        width: 1200
-        height: 676
+      - url: "https://cdn2.newsok.biz/cache/1280x720_blur-7ec8ba67c9327358720e4397264a2fc9.jpg"
+        width: 1280
+        height: 720
 
 secured: "ejYSuALmLT3nvhQkBOlujl0Xv1se7nVaybeEU6i0dyJtExuMalzwjL+tLDvBb56UH5a+G9n29in3Z3uR766luYzcvF90U5/w8Y1ShbszaTYBXa5LTdpgnHVxgqfT1MsDUTDCe2cCBzA230eoWKWDUEE7fHJTQG7EJZNzCJQYI6TvRlL5qD3x2rBlGpRJbcLGD00mjBYbnqboiEJTmK0l3ol8ivGuZLm9vJSZhU1hSdcGGzN06nPDK7F+qhqle3gJAi2J73jLN9MkuemEPIkQk9jMwmoqaEFhPPAPDUvum0brLIQyItHYrWErIIKAEKi1ju+sKNpMR+yH/l9IHEYStmzXPdJltmFqAMH0BuUf98sDxiQbEKAi1a50JRQ1Jel271Oi8kb5sBLyUmPUoSo5TBqI5QvojNmU8GfHkZ4SueuyjHpcXHKQzW05ZD5Z+BB1JlBPA14QGuP8Sy52be5N58dcntQNsOrZ44M8Lxwe+uA=;l60/ovN1P2rTcyDiiDYDng=="
 ---

@@ -110,6 +110,19 @@ related:
       - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/3.jpg"
         width: 400
         height: 300
+  - title: "Consumer Technology Association creates standard for AI in healthcare"
+    excerpt: "The Consumer Technology Association rolled out a new standard for the use of artificial intelligence in healthcare. The standard, based on discussions between more than 50 different healthcare and technology firms, will create a common foundation for new projects using these technologies. The new standard created common definitions for often ..."
+    publishedDateTime: 2020-02-25T22:52:00Z
+    webUrl: "https://medcitynews.com/2020/02/consumer-technology-association-creates-standard-for-ai-in-healthcare/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 54
+    images:
+      - url: "https://medcitynews.com/uploads/2017/07/GettyImages-545123748.jpg"
+        width: 724
+        height: 483
   - title: "AI in Healthcare Market By Offering, By Technology, By Region – Trends, Analysis, and Forecast Till 2030"
     excerpt: "The research study on Global AI in Healthcare market 2019 presents an extensive analysis of current AI in Healthcare market size, drivers, trends, opportunities, challenges, as well as key AI in Healthcare market segments."
     publishedDateTime: 2020-02-17T07:35:00Z

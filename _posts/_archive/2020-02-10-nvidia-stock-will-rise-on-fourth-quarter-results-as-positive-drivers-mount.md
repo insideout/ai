@@ -23,6 +23,6 @@ topics:
   - AI
   - AI in Autos
 
-secured: "6pXHl+HERdvuyHERL13Cb/i8OJlW+mp2xJCHBjvtNWoQ6mIDR0MeWnGksp19Ez7uAJD9s+JxFNQoAmuYdt3BaEVn+VHQOEdRjp8z/vb/Ugh+BcV164/GwlsLUzyPFh101EV62QNtCctfD+2ns+5TmUM6jxlxiq0vv2FgtFuvHcuKoVA8uC0B3nuZgkLjZEH+hnqeO1ZD1Ua2/DbO/UZhdK88Wxn+HikZee3CvId/osUbQtImeSl2k2LUN3MlKQOYQ2GxsJrZBSFvBLr/lezgNvoEB5EDCzYAcnTCWQQOx8MwRA4jveW/GoZaOw7HBV0V;m17VKsmPgbDyHS4bpOWygw=="
+secured: "23Fc3/gl4/yIbkxqLQx7x7jFtfgnkHUEJntUfSS5DauS7LvGodL1V45RC/AxEuIKUZZsZtV54VOYxtsJ2A2tKo1vksu6R7GatA/PMi5OT9aTs2LW8o0L+485Mt+awxo3CSXz6ruCdMHtxJFpyBjfxiKqTmU8L9VUjU/ey6X7qEJ/RRhdo+PPpVyX8mY9msgGO2i6cX/fQcqWMW/vCZCySYhrq0pvW8uteaLEBsgcgNqgqCTfjyzwO/Qav06dLjotx52oWJEjz89f1GOv81fMoy9Nd96jdUJUzokMyMiSpX8X186itjFfecyNuq/pYGma;kdmg9tphcQVrp0OfGoJ4VA=="
 ---
 

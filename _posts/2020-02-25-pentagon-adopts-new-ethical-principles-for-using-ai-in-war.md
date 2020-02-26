@@ -2,25 +2,27 @@
 category: news
 title: "Pentagon adopts new ethical principles for using AI in war"
 excerpt: "The Pentagon is adopting new ethical principles as it prepares to accelerate its use of artificial intelligence technology on the battlefield. The new principles call for people to \"exercise appropriate levels of judgment and care\" when deploying and using AI systems,"
-publishedDateTime: 2020-02-25T18:40:00Z
-webUrl: "https://www.chron.com/business/technology/article/Pentagon-adopts-new-ethical-principles-for-using-15080225.php"
+publishedDateTime: 2020-02-25T05:22:00Z
+webUrl: "https://www.sfgate.com/business/technology/article/Pentagon-adopts-new-ethical-principles-for-using-15080225.php"
+ampWebUrl: "https://www.sfgate.com/business/technology/amp/Pentagon-adopts-new-ethical-principles-for-using-15080225.php"
+cdnAmpWebUrl: "https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/business/technology/amp/Pentagon-adopts-new-ethical-principles-for-using-15080225.php"
 type: article
-quality: 54
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: SFGate
+  domain: sfgate.com
 
 topics:
   - AI
   - AI Ethics
 
 images:
-  - url: "https://s.hdnux.com/photos/01/10/62/42/19081406/11/rawImage.jpg"
-    width: 2048
-    height: 1365
+  - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+    width: 375
+    height: 211
     title: "Pentagon adopts new ethical principles for using AI in war"
 
 related:
@@ -220,6 +222,6 @@ related:
       domain: fedscoop.com
     quality: 17
 
-secured: "0MyiuiKnV6KL5UHcTzibd1SMzEO3EtirAcjv8EymuCFqui/7XYn1YY7NxWl69xjg7QP3yBOZy/yjtJDOyHN72nA9mhvqrIjTzaHQu7oM4x78y+YvyBjqYLDVmL8P8nImhS+rGGIXcQ23Dd/zhK8uR01R2neG+4mW0V6/l/hlihxcEjuCdb6modHANQhpiV3QfR7q5FwaIbXaGRtt9+CTAZH14+bN/sAqOauma5SD5UcPPsgxf5dbvNSebvlVusD6C4abfeEcyQCSyqxdt7dmZ/qN0XUqwitARQgsEMf5SFsAUXJRiqKzwwcLprWXk763qGwwcsskGPW3wh6LFBzLZpONPSCOXXrBwkNGnv6Cpl4YMwyxacRamcldL5zq6fMQO8Jo0FI+EDc/M1f4+hGg6c691pqZRUNcxhZ1hPojuxQ31mn1x/O4FcyqIjT96pkBn7uANRo0UHghln4tvGyDwgGcXCGkPIdsxTtXW5LaD6I=;ThYj/udZnKnN47goH/3PXA=="
+secured: "l3mAZkBiedSQsU3PIB+BrFm06wvNUzoT3aE7EIjh1Odn/pbpWPjpuX8JkK+zcADcicu1jNLg41YYa397i+bLtfvNbqkgKZd4TAsZvWwXP5rMEcwvey33eR9p+JXaei4RcQf811WB91RD9JuZqEGI7kDTZF5oGpgPp5rn7f3DXWlAbudTKSt4GRrOMI2EgaM0RPn3JfWVyJtP/YdFdWwcrOWqKzSuNQ2c7pAK1tR07ZrbWW3dGXyQsqJLL28p91GQAxTajJ9kteutKOhHPZoGDmmPnDFHQqavg+PZ3i74Hzkxc/y/Wvk05EvejU2+gWbm;l7MeWC9gMYKuP4MPwS4YAA=="
 ---
 

@@ -1,29 +1,43 @@
 ---
 category: news
 title: "Databricks Simplifies the Path to Building Lakehouses for Business Intelligence and Machine Learning"
-excerpt: "Azure Databricks customers already benefit from native integration with Azure Data Factory to ingest data from many sources. “Databricks powers our machine learning and business intelligence across multiple business functions, from car inventory management, to price prediction and technical operations, by using hundreds of terabytes of data ..."
-publishedDateTime: 2020-02-24T20:50:00Z
-webUrl: "https://www.businesswire.com/news/home/20200224005279/en/Databricks-Simplifies-Path-Building-Lakehouses-Business-Intelligence"
+excerpt: "Databricks, the leader in unified data analytics, today announced an accelerated path for data teams to unify data management, business intelligence (BI) and machine learning (ML) on one platform. The new Data Ingestion Network of partners and Databricks Ingest bring data teams closer to building the new data management paradigm, lakehouse ..."
+publishedDateTime: 2020-02-24T20:07:00Z
+webUrl: "https://www.tmcnet.com/usubmit/-databricks-simplifies-path-building-lakehouses-business-intelligence-machine-/2020/02/24/9102885.htm"
 type: article
-quality: 26
-heat: 26
+quality: 24
+heat: 24
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
-  - Microsoft AI
   - Machine Learning
 
 images:
-  - url: "https://mms.businesswire.com/media/20200224005279/en/722802/23/Databricks_Logo.jpg"
-    width: 1200
-    height: 627
+  - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
+    width: 252
+    height: 335
     title: "Databricks Simplifies the Path to Building Lakehouses for Business Intelligence and Machine Learning"
 
-secured: "e5QgjNU74vRDxa8HhCI1WLfDoK6HRrly2nVzs1/p/XQsXpOfYHrd7MmcqOaPZG82MeDgZVW0nhZvQXvEe6fO7IMDG2biIzOVJ+MWQJMnR3BJk8Pis/WVorZMJL1cttIUBKmubFi1t8XCPlwHXwY0tKCpDezs+nvRDavsa0SUSJtjcKIZapAnA+VjKJ2T3WGMWtvoJPxWEOun6GNSQt6L+66kCrEvMVHMrX/V85FbewIU94DhJhYvEGvM2U5IEuRCPVfYEaDhSDyEgL8JepQGngA24LVsiLfo89bGj3C1+UMUgMyyRhllFoQdtRP6tkbD;/VnjHTnT1RyLzBN1pbDb6Q=="
+related:
+  - title: "360factors Announces Upgraded Learning Management System (LMS) for the Predict360 Risk and Compliance Intelligence Platform"
+    excerpt: "/PRNewswire/ -- 360factors, Inc., the industry leader in risk and compliance intelligence software, announced today that the company has released a"
+    publishedDateTime: 2020-02-18T15:10:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/360factors-announces-upgraded-learning-management-system-lms-for-the-predict360-risk-and-compliance-intelligence-platform-301006674.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 0
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+
+secured: "xs6AFcbw2wIxi5pCUAxhcRG7t1jynn3DU5xGVkgTn74bhD788o0fv2HUZxr96zvfdDCHHUEJRE4QUT6Ejz9ITPucuMxaq4aa5nA5JyqwvrV2HkFbp93kP/mMXMJ0j6JHuisYtYXefsVsE9iw7ruzrlhvTeuUWSRhw7XNdCszwo+OdpVX1n2DhDnPWU6gD/u3Z1PFa7ypHAMz4FzX8tGMsnEheC1oEhOd8h17huGMglRhxXna3eSs3JWcVvoHHN5TIFhl0M36MeZyWjKRcidF2kae9gdC06zpFHJIYTUqtG1yGf4fk/Q5oJ3hq8P/JYS7;27t91CK7v0PXIZCHU0RVCQ=="
 ---
 

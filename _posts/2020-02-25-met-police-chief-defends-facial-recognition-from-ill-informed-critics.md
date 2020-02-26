@@ -2,22 +2,18 @@
 category: news
 title: "Met Police chief defends facial recognition from 'ill-informed' critics"
 excerpt: "London's police chief has defended the use of facial recognition technology, labelling critics \"ill-informed\". Dame Cressida Dick said eight criminals had been caught using the controversial live facial recognition cameras. She said \"inaccurate\" critics should \"justify to the victims of those crimes why police should not be allowed to use tech..."
-publishedDateTime: 2020-02-25T15:55:00Z
-webUrl: "https://www.bbc.com/news/technology-51628833"
-ampWebUrl: "https://www.bbc.com/news/amp/technology-51628833"
-cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51628833"
+publishedDateTime: 2020-02-25T16:01:00Z
+webUrl: "https://www.bbc.co.uk/news/technology-51628833"
+ampWebUrl: "https://www.bbc.co.uk/news/amp/technology-51628833"
+cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-51628833"
 type: article
-quality: 89
+quality: 59
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - AI
@@ -472,6 +468,6 @@ related:
       domain: seattletimes.com
     quality: 0
 
-secured: "vYyhfKtcKKNPN17mA6BVbJ2xVxWW5Mr1a1nbLGGDtjLfPDhqSQ0FdXbsNT55xY90vTJvzFMhL5mU2aKf24NjGU+8RVYxfQZBDAvSFQBLsMAFYFZrgIPXDhO8KRrGj6/McqRoi5hvSld88NxmMFC54TPeqbcRCOwX/tVoA/tngzKiZflsP8ZXIfuDQTV3rymbAQFxm3grURR6rHd631Ix09btNqyxjj9txRx1Qny1O3ghcdj6tYPA9yjLq5H2Z5gt+1GNhUTpPIS69N7i7ddFFrSNgRcX0HcrhvPIu5SrgIDjNS7HoBheo/x8P3fyhmGcKTsAObQQ/FIbT8fGpAqGa+cRDKNvRdj+KdQz/fKnriVr7Ogv0/4Pp7jZu7V9vAGrFcPg/PM3vpv/4abG88DFl5BeMNyBYY2iN7krFl22+axMIMjKxp7UdhXuJe5ojraYwEpxf15DKPT5LnNK/bd4g0HeWuvAk1hc9nfh/O1YbIM=;yvapMjhgI9pX8gLBJmJ8Lg=="
+secured: "pSNY6kL5nWltPoKBm80+vhyfId+GFfOtiiXicvvANen48koz9k4hrrFSngsAHDr5OKJ0c8odwCeIKD+UvQ/LBlFcYVSYHZ06oTQv7XuEGaFxXB74p+JQwnxpRhgT/H2CF+Gv96xAvAQe/fz2qGEVUPlCqAsSQ1jjrAH6N6DTvHSuLRts6EljBVNQCUH+tPW24uuoZ5QofCT1bcNeYpSm00oLqLNJPue8eDeZ3N0WXXvPGoACdMuUFrlpKvQ2DPSUae/ihSqcJdILt35snzQCA/PEId0dV/A8CriFnS+QCgAthkii+ja3F1pcApuNsFNz;hz59JW+PIYaMAQNGBxxxMg=="
 ---
 

@@ -60,6 +60,21 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/02/f4c4e7ef-f32a-43c8-81f8-ccd46a578b31-e1582607532413.png?fit=1200%2C600&strip=all"
         width: 1200
         height: 600
+  - title: "SambaNova Systems raises $250 million for software-defined AI hardware"
+    excerpt: "The infrastructure required to handle AI workloads is often as complex as it is sprawling, but a cottage industry of startups has emerged whose focus is developing solutions for end customers. SambaNova Systems is one such startup — the Palo Alto, California-based firm, which was founded in 2017 by Rodrigo Liang and Stanford Professors Kunle ..."
+    publishedDateTime: 2020-02-25T23:30:00Z
+    webUrl: "https://venturebeat.com/2020/02/25/sambanova-systems-raises-250-million-for-software-defined-ai-hardware/"
+    ampWebUrl: "https://venturebeat.com/2020/02/25/sambanova-systems-raises-250-million-for-software-defined-ai-hardware/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/25/sambanova-systems-raises-250-million-for-software-defined-ai-hardware/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/02/SambaNovaLogo_H_F.jpg?fit=1200%2C627&strip=all"
+        width: 1200
+        height: 627
   - title: "Revl raises $5.2 million to stitch together videos with AI"
     excerpt: "Plus, users can remotely control the camera from up to 155 feet away using the app. Above: The Revl app. Revl isn’t the only startup applying AI and machine learning to video creation. Tel Aviv- and New York-based startup Wibbitz automatically converts news articles into short-form video, while Wochit analyzes text for keywords to piece ..."
     publishedDateTime: 2020-02-25T16:31:00Z

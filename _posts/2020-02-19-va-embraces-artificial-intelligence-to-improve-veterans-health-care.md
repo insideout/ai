@@ -80,6 +80,19 @@ related:
       - url: "https://www.supplychainbrain.com/ext/resources/0-images/article-images/2020/0224_PotentialofAIinHealthcare.jpg?height=635&t=1582520107&width=1200"
         width: 847
         height: 635
+  - title: "AMA, Google & 50 more health IT leaders unveil standard for AI in healthcare"
+    excerpt: "A working group of 52 healthcare and tech organizations convened by the Consumer Technology Association released on Feb. 25 a common framework for the development and use of artificial intelligence technology in healthcare. The set of 11 definitions and characteristics is the first standard regarding the use of AI in healthcare to be accredited ..."
+    publishedDateTime: 2020-02-25T22:00:00Z
+    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/ama-google-50-more-health-it-leaders-unveil-standard-for-ai-in-healthcare.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 51
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/3.jpg"
+        width: 400
+        height: 300
   - title: "GE Healthcare launches cyberdefense product"
     excerpt: "As connected devices proliferate, GE Healthcare is banking that hospitals, health systems and other providers will seek the company’s help in shoring up their defenses against cyber threats. The company on Thursday unveiled a cybersecurity product that scans for cyber risks and recommends responses using a mix of artificial intelligence and ..."
     publishedDateTime: 2020-02-20T18:37:00Z

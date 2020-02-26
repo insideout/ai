@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/sophiamatveeva/2020/02/25/competing-in-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sophiamatveeva/2020/02/25/competing-in-the-age-of-ai-is-simpler-than-you-think/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -42,6 +42,19 @@ related:
       - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/02/AI-Leadership.jpg"
         width: 1920
         height: 1080
+  - title: "Chris Lattner, the creator of Apple’s Swift, thinks that the smash-hit programming language is going to be a major force in AI development"
+    excerpt: "Since he built Swift at Apple, Lattner has worked at Tesla, Google, and now SiFive. Here's what he says about where Swift's growth is headed."
+    publishedDateTime: 2020-02-25T23:26:00Z
+    webUrl: "https://www.businessinsider.com/sifive-chris-lattner-apple-swift-machine-learning-2020-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 35
+    images:
+      - url: "https://i.insider.com/587521c5f10a9a2a768b4942?width=1200&format=jpeg"
+        width: 850
+        height: 425
 
 secured: "SLoE2h97xo18eEKr0BEyH2Mlnxd0Plmq68tBV13HD4MNLTBbc+8+RIOf7GTWCAu3Wv/VT0VDoZx2XhCgzwlTWZn40qGnzgD6E1MyR+n+h1uxriKKfomkK7NBDVe0WM+ZCu3ga8zT4zotBxPOlf5c7d1FfNImd5OyhM7xaOfGZl4priVZaYch2X8sjF+ZedysnfTPoZ4sCoxX8PrZzV8NxIuxwgXwX1tdpWNZOXDdtgBmroJ9MNcHi9AzeRfRfSN5LFgn6MqdIR4sdbkk6jsESyNwsXuLzXGD41kH25Wu/u5NWfOS5Qs8vMfAAfDJtCdlTuBkuBRwzX5ARQ2BECuFLK0SNyupvF/kEfBISKXpSKIwalNYlNogZIbEHl005d8EbiBMC8U/63DnJO9p4HHWv7rfm175JOKQYySJJBneqNKlBTrs5EznoRGrxiFYpsgZ6MtKkYOX/j8E/OBvXFVOQl95vmZDKFRLNODt2ktrhVY=;ZoZQ9J7eBUuqIGypgpW21w=="
 ---

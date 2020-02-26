@@ -1,22 +1,42 @@
 ---
 category: news
 title: "Singularity.ai Launches Practical Artificial Intelligence Solutions for Resource-Constrained Physicians"
-excerpt: "Singularity.ai addresses the needs of higher efficiency and improved cost-effectiveness by introducing innovative technologies compatible with the physician’s workflow, keeping them at the center of healthcare. Based in Silicon Valley with the backing of ..."
-publishedDateTime: 2020-02-25T17:55:00Z
-webUrl: "https://www.oaoa.com/news/business/article_4e903215-68ea-5e5c-91bf-86159a0801c6.html"
+excerpt: "“In Silicon Valley, we see countless companies trying to apply new technologies, such as artificial intelligence, to solve human health problems, but so many are not practical in how they deliver these solutions,” said John Yu, founding partner of Oriza Ventures. “By focusing on the end-user first, and understanding their true ..."
+publishedDateTime: 2020-02-25T17:36:00Z
+webUrl: "https://www.register-herald.com/region/singularity-ai-launches-practical-artificial-intelligence-solutions-for-resource-constrained/article_168a5e09-7aeb-5914-a7a4-ab9711c10ecf.html"
 type: article
-quality: 18
-heat: 18
+quality: 36
+heat: 36
 published: false
 
 provider:
-  name: Odessa American
-  domain: oaoa.com
+  name: The Register-Herald
+  domain: register-herald.com
 
 topics:
   - AI
-  - AI in Healthcare
 
-secured: "C8w9xUN78+JPZt8GVTjT/YtjJlky+kxsEtWZRcl+vJqakAymbKdWLnjfSY3OopPK/vrrMO3+cMQ4Z/UPjU53KjJ3my98gNb7XpsQylf0y7KyYfR61pvMUgKN5fWc8fVIQuDdq2684egJSnVoGP5rY3XIIdj2egSJzNwewxn3Vp9cfU+ACTprRWV+rKSGi3noKH4HtHv49LVlu6p6d9aTeXxyWyQOt0mpsd5Ln+SUOYuXXL6G1CZl6T6eNWWulxemK3YJjhdVgcHsVd1SzLtHCeI5t7IasK9JzNoN5ifxj4hKz9gPa88OMtNpsQLyTUyY;CqmD+BLANDGdp5HQU/fGzw=="
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/custom/image/b87268c4-7873-11e7-af9a-f3a04545878a.jpg?resize=600%2C600"
+    width: 600
+    height: 600
+    title: "Singularity.ai Launches Practical Artificial Intelligence Solutions for Resource-Constrained Physicians"
+
+related:
+  - title: "Si2 Launches Special Interest Group for AI and ML in Electronic Design Automation"
+    excerpt: "“High manufacturing costs and the growing complexity of chip development are spurring disruptive technologies such as AI and ML,” Clevenger explained. “Si2 provides a unique opportunity for semiconductor companies, EDA suppliers and IP providers to voice their needs and focus resources on common solutions, including leveraging university ..."
+    publishedDateTime: 2020-02-25T20:31:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200225005182/en/Si2-Launches-Special-Interest-Group-AI-ML"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 34
+    images:
+      - url: "https://mms.businesswire.com/media/20200225005182/en/683759/23/primary_logo_square.jpg"
+        width: 1200
+        height: 627
+
+secured: "iXCaicw5pMGPt9wg+j4iRWCULeNy92YXCkkETeX/1mhNMX/i/2FxQOrkmVIrpGc+VfRdOqPTBTxiYkpqjSw2xWS5IfE8dLXGuhvksTo9cccD3/IpZvrqPfBOj0GB0zhlfhKCUphrlFQiYVKS9pWLLxbtXg2+LglTBIHqAyoVXsWiY5UZnSwIlBVZhgL9ZojYY2z6mmiSvoCkERbGCRf9gslrgxJetYXdmj/GWFg1hl92ksV/AkUvOnP6PbiYGzRyb3++EzoEPGbF5UzJZOhJv9Rg9eNdJTSRr8VhugZagx+Mw8eisByGc4K8T3kqQiUA;oe4M5ELxNDavjfH2xMK99w=="
 ---
 

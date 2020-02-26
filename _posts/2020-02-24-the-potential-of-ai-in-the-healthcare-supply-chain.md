@@ -67,6 +67,19 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C4D12AQE4n5iQNbuFHA/article-cover_image-shrink_720_1280/0?e=1587600000&v=beta&t=wcizOYOgfHFN8sdPEi5AGZRImgPTyUbslbQ7-IrlUUY"
         width: 959
         height: 720
+  - title: "AMA, Google & 50 more health IT leaders unveil standard for AI in healthcare"
+    excerpt: "A working group of 52 healthcare and tech organizations convened by the Consumer Technology Association released on Feb. 25 a common framework for the development and use of artificial intelligence technology in healthcare. The set of 11 definitions and characteristics is the first standard regarding the use of AI in healthcare to be accredited ..."
+    publishedDateTime: 2020-02-25T22:00:00Z
+    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/ama-google-50-more-health-it-leaders-unveil-standard-for-ai-in-healthcare.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 51
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/3.jpg"
+        width: 400
+        height: 300
   - title: "VA Embraces Artificial Intelligence To Improve Veterans’ Health Care"
     excerpt: "He said the VA has a \"unique opportunity to help veterans\" with artificial intelligence. As the largest integrated health care system in the country, the VA has vast amounts of patient data, which is helpful when training AI software to recognize patterns and trends. Alterovitz said the health system generates about a billion medical images a year."
     publishedDateTime: 2020-02-19T10:26:00Z

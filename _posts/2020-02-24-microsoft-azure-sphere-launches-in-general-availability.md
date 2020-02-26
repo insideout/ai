@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-24T09:00:00Z
 webUrl: "https://venturebeat.com/2020/02/24/microsoft-azure-sphere-launches-in-general-availability/"
 type: article
 quality: 99
-heat: 141
+heat: 139
 published: true
 
 provider:

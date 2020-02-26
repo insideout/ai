@@ -71,19 +71,19 @@ related:
         height: 600
   - title: "Tables, footrests, smart speakers: Self-driving cars could become the living rooms of the future"
     excerpt: "With self-driving vehicles on the horizon, automakers are rethinking what the future of car interiors will look like. And because these completely autonomous cars, called Level 5 vehicles, will free drivers from focusing on the highway, companies are now free to experiment. And that means premium cars could be loaded with tech that makes ..."
-    publishedDateTime: 2020-02-25T12:35:00Z
-    webUrl: "https://www.usatoday.com/story/money/cars/2020/02/25/smart-car-nissan-bmw-gm-future-cars-spacious-interiors/4658453002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4658453002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4658453002"
+    publishedDateTime: 2020-02-25T21:18:00Z
+    webUrl: "https://oklahoman.com/article/5655924/tables-footrests-smart-speakers-self-driving-cars-could-become-the-living-rooms-of-the-future"
+    ampWebUrl: "https://oklahoman.com/article/5655924/tables-footrests-smart-speakers-self-driving-cars-could-become-the-living-rooms-of-the-future/amp"
+    cdnAmpWebUrl: "https://oklahoman-com.cdn.ampproject.org/c/s/oklahoman.com/article/5655924/tables-footrests-smart-speakers-self-driving-cars-could-become-the-living-rooms-of-the-future/amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
+      name: The Oklahoman
+      domain: oklahoman.com
     quality: 31
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/02/05/USAT/09643d9a-d78b-46f0-8ac3-bfdd247cfc98-BMW1.jpg?auto=webp&crop=825,465,x0,y41&format=pjpg&width=1200"
-        width: 1200
-        height: 676
+      - url: "https://cdn2.newsok.biz/cache/1280x720_blur-7ec8ba67c9327358720e4397264a2fc9.jpg"
+        width: 1280
+        height: 720
 
 secured: "7w/u3nN3qk4iFtqh0ryJrUwFmjyIehjdiw69jmH2lGJ+V3s+vkd7158dd2ckOHCYmtbxssxEq4B78LbbWYdzPdQPP6uUOSdOYZKrstvHY65I5m0WJoPbN/g0S8FnduqVqodwZu1SbuuLD3TuI0AMOU9lwUAEcUni7l28epKlHaCnKZLs3soQAXF11lFi3RETCkTYIgBk964LjnIjTx7AlNOgWECDGlM4cE/AAFGj6Y+IzUOMeUK1dTesluPoGmvDXCKQPvTyKvvesz2s1o6xF3/a8D/zwd191v0pE6f3Yw1ITYO1ba407x8+6S1uEj8c;toz9U2X0+XQQo9SzOyg+sQ=="
 ---

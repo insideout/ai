@@ -8,7 +8,7 @@ ampWebUrl: "https://punchng.com/fg-to-include-robotics-ai-in-school-curriculum/a
 cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/fg-to-include-robotics-ai-in-school-curriculum/amp/"
 type: article
 quality: 89
-heat: 110
+heat: 109
 published: true
 
 provider:

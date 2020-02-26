@@ -54,6 +54,21 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/02/f4c4e7ef-f32a-43c8-81f8-ccd46a578b31-e1582607532413.png?fit=1200%2C600&strip=all"
         width: 1200
         height: 600
+  - title: "SambaNova Systems raises $250 million for software-defined AI hardware"
+    excerpt: "The infrastructure required to handle AI workloads is often as complex as it is sprawling, but a cottage industry of startups has emerged whose focus is developing solutions for end customers. SambaNova Systems is one such startup — the Palo Alto, California-based firm, which was founded in 2017 by Rodrigo Liang and Stanford Professors Kunle ..."
+    publishedDateTime: 2020-02-25T23:30:00Z
+    webUrl: "https://venturebeat.com/2020/02/25/sambanova-systems-raises-250-million-for-software-defined-ai-hardware/"
+    ampWebUrl: "https://venturebeat.com/2020/02/25/sambanova-systems-raises-250-million-for-software-defined-ai-hardware/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/25/sambanova-systems-raises-250-million-for-software-defined-ai-hardware/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/02/SambaNovaLogo_H_F.jpg?fit=1200%2C627&strip=all"
+        width: 1200
+        height: 627
   - title: "L1ght raises $15 million for AI that protects children from online toxicity"
     excerpt: "L1ght, a fledgling AI startup that wants to help technology companies combat online toxicity, bullying, and abuse, has raised $15 million in a seed round of funding from Mangrove Capital Partners, Tribeca Venture Partners, and Western Technology Investment. The company’s substantial seed funding comes as tech companies are struggling to ..."
     publishedDateTime: 2020-02-25T12:02:00Z
