@@ -24,21 +24,6 @@ images:
     height: 300
     title: "Start-up Bitdle launches digital assistance platform"
 
-related:
-  - title: "Venture capital firm OTB launches early growth fund for CEE tech start-ups"
-    excerpt: "Venture capital fund OTB Ventures has launched an early growth technology fund worth 100 million US dollars with the intention of investing in early stage, post-product, start-ups in the CEE region, spanning cyber security, big data and AI, fintech, IoT and robotics, as well as cloud and SaaS industry verticals. The new vehicle, backed by the ..."
-    publishedDateTime: 2020-02-20T08:58:00Z
-    webUrl: "https://emerging-europe.com/business/venture-capital-firm-otb-launches-early-growth-fund-for-cee-tech-start-ups/"
-    type: article
-    provider:
-      name: emerging-europe.com
-      domain: emerging-europe.com
-    quality: 22
-    images:
-      - url: "https://emerging-europe.com/wp-content/uploads/2020/02/bigstock-science-technology-technology-340435108.jpg"
-        width: 1600
-        height: 900
-
 secured: "h7VVk5mm3GrF+eP5WxEZSQkZ7/fjEIy06F2xsqH1DQthpDzjRmUwvhs1bSTFYOrGZNTQWcJZ4mvTgfM2VseuXUdZiNfG1praS9R/UsZ6Jj0H3/DEbS+ka3mZ3Go1c72GQdlqgXTiCrJp12iDOcU/Ku8oXkx2z4AYSVtlb8+82Xg44N/LMr18FXkImh09Pb4+3WbLTdQWGi2fHjo+EGXMoOrZoLgH7CWzL6yxLDs08ODEPJBpvJfV5lWJk7NA6cDy2Y5tTZBR7afjBHxPDxdccO3bggPmFzHokUsfJu39LboMNJkCfbQZEDM8WtyrI+vy;2sB+44i9ou9Cwq6Eg3JuUA=="
 ---
 

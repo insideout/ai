@@ -2,6 +2,51 @@
   "page": 15,
   "value": [
     {
+      "path": "_posts/_archive/2020-01-19-from-washington-state-to-washington-dc-lawmakers-rush-to-regulate-facial-recognition.md",
+      "title": "From Washington state to Washington DC, lawmakers rush to regulate facial recognition",
+      "excerpt": "Amid the start of an impeachment trial; talk of mounting hostility with Iran; new trade deals with China, Canada, and Mexico; and the final presidential debate before the start of the Democratic presidential primary season, you might’ve missed it, but it was also a momentous week for facial recognition regulation. A bipartisan group in ...",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/19/from-washington-state-to-washington-dc-lawmakers-rush-to-regulate-facial-recognition/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/19/from-washington-state-to-washington-dc-lawmakers-rush-to-regulate-facial-recognition/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/19/from-washington-state-to-washington-dc-lawmakers-rush-to-regulate-facial-recognition/amp/",
+      "publishedDateTime": "2020-01-19T13:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/GettyImages-1181457356.jpg?fit=2215%2C1353&strip=all",
+          "width": 2215,
+          "height": 1353,
+          "title": "From Washington state to Washington DC, lawmakers rush to regulate facial recognition",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-19-how-quartz-used-ai-to-sort-through-the-luanda-leaks.md",
       "title": "How Quartz used AI to sort through the Luanda Leaks",
       "excerpt": "But they had a problem: That’s a heck of a lot of files. ICIJ partnered with Quartz’s AI Studio to find a solution. We built a system using artificial intelligence to “read” all the documents and help journalists from Quartz, ICIJ and other partner organizations find the kinds of documents they expected in the cache of leaks ...",
@@ -2107,51 +2152,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-21-looking-for-an-affordable-phone-wait-for-qualcomms-new-mid-range-chipsets.md",
-      "title": "Looking for an affordable phone? Wait for Qualcomm’s new mid-range chipsets",
-      "excerpt": "Combined with an improved Adreno 618 GPU, users can expect a significant leap in day-to-day as well as gaming performance over the Snapdragon 712. Imaging is one of the key focus areas for Qualcomm and the 720G gets a Spectra 350L ISP that enables image capture at up to 192MP as well as HEIF support. There are improvements in the AI engine as ...",
-      "heat": 112,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.androidauthority.com/qualcomm-snapdragon-460-662-720g-1076318/",
-      "ampWebUrl": "https://www.androidauthority.com/qualcomm-snapdragon-460-662-720g-1076318/amp/",
-      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/qualcomm-snapdragon-460-662-720g-1076318/amp/",
-      "publishedDateTime": "2020-01-21T00:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2020/01/Qualcomm-Snapdragon-460-662-and-720G-Mobile-Platforms-Chip-Case-920x470.jpg",
-          "width": 920,
-          "height": 470,
-          "title": "Looking for an affordable phone? Wait for Qualcomm’s new mid-range chipsets",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

@@ -8,7 +8,7 @@ ampWebUrl: "https://futurism.com/pentagon-ai-ethics-dod-warfare/amp"
 cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/pentagon-ai-ethics-dod-warfare/amp"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -26,6 +26,19 @@ images:
     title: "These Are the Pentagon’s New Ethics “Principles” for AI in Warfare"
 
 related:
+  - title: "GovExec Daily: The Ethics of Artificial Intelligence at the Pentagon"
+    excerpt: "As artificial intelligence becomes more of a priority, the Pentagon announced last week that it will adopt ethics principles for AI use. As Defense officials said that AI is top priority, having an ethical framework is paramount. GovExec Daily spoke to Defense One's Patrick Tucker about the ways different governments use AI and why adopting a ..."
+    publishedDateTime: 2020-02-26T11:05:00Z
+    webUrl: "https://www.govexec.com/defense/2020/02/govexec-daily-ethics-artificial-intelligence-pentagon/163325/"
+    type: article
+    provider:
+      name: Government Executive
+      domain: govexec.com
+    quality: 69
+    images:
+      - url: "https://cdn.govexec.com/media/img/upload/2020/02/25/GE-Daily_1_Final_1/open-graph.jpg"
+        width: 400
+        height: 400
   - title: "At least they’ll have an off switch: Pentagon adopts ‘AI Ethical Principles’ for its killer robots"
     excerpt: "As the United States looks to develop artificial intelligence weapons to keep up with Russia and ... Also on rt.com Make no mistake: Military robots are not there to preserve human life, they are there to allow even more endless wars What exactly the ..."
     publishedDateTime: 2020-02-24T23:22:00Z

@@ -35,6 +35,19 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 56
+  - title: "OpsRamp Introduces AI-Driven Suggestions"
+    excerpt: "In addition to AWS cloud topology maps, OpsRamp now offers topology discovery and mapping for Azure and GCP. Teams can apply cloud topology maps to analyse the impact of changes in their multi-cloud environments. Cloud topology is also applied in OpsQ's event correlation engine to increase the accuracy of machine learning models. OpsRamp offers ..."
+    publishedDateTime: 2020-02-26T11:53:00Z
+    webUrl: "https://www.infoq.com/news/2020/02/opsramp-ai-driven-suggestions/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 39
+    images:
+      - url: "https://res.infoq.com/news/2020/02/opsramp-ai-driven-suggestions/en/headerimage/OpsRamp-AI-Driven-Suggestions-1582702993762.jpg"
+        width: 1200
+        height: 630
   - title: "Agiloft introduces AI Engine for advanced contract automation on no-code platform"
     excerpt: "Prebuilt machine learning models also enable users to implement their own custom AI tools with existing data. Additionally, the open AI Engine features an integration template to bring in machine learning models from Amazon SageMaker and Google TensorFlow to build entirely custom AI tools on Agiloft’s no-code platform. Advanced translations ..."
     publishedDateTime: 2020-02-25T19:35:00Z

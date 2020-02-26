@@ -523,6 +523,15 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2017/07/25183012/Chincotech-facial-recognition.png"
         width: 623
         height: 432
+  - title: "Met Police Boss Slams Facial Recognition Critics"
+    excerpt: "The head of London’s Metropolitan Police has fiercely defended her force’s use of live facial recognition (LFR) technology, arguing that privacy rights have changed in an age of social media and that some critics are “highly ill-informed.” Speaking at think tank the Royal United Services Institute (RUSI), Met Police commissioner ..."
+    publishedDateTime: 2020-02-26T11:20:00Z
+    webUrl: "https://www.infosecurity-magazine.com/news/met-police-boss-slams-facial/"
+    type: article
+    provider:
+      name: Infosecurity-magazine.com
+      domain: infosecurity-magazine.com
+    quality: 19
   - title: "Facial recognition at protests: Delhi Police says they aren’t using social media photos to screen crowds"
     excerpt: "These responses came in a reply to a right to information request filed by Mint. Just to put things into perspective, Delhi Police had started using facial recognition software to screen crowds at protests in the city recently. This software was acquired in 2017 to track missing children and persons. The software Delhi Police is using has been ..."
     publishedDateTime: 2020-02-22T11:45:00Z

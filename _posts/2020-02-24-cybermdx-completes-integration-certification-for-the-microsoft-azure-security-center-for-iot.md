@@ -82,18 +82,14 @@ related:
       domain: financialexpress.com
     quality: 34
   - title: "The new collaboration is designed to enhance the cybersecurity capabilities of Azure Security Center for IoT customers."
-    excerpt: "Azure Security Center offers advanced security posture management. By integrating the two products, Firedome and Microsoft will be able to deliver real-time protection and response, with dual detection capabilities of both Microsoft Threat Intelligence and Firedome's machine learning, cloud-based AI engine. The combined solution provides ..."
+    excerpt: "Azure Security Center for IoT extends customers' existing ... with dual detection capabilities of both Microsoft Threat Intelligence and Firedome's machine learning, cloud-based AI engine. The combined solution provides dynamic, end-to-end cybersecurity ..."
     publishedDateTime: 2020-02-22T01:31:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/firedome-announces-integration-with-microsoft-azure-security-center-for-iot/article_9fd4db82-0673-50af-bd2b-78c981cc8039.html"
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/firedome-announces-integration-with-microsoft-azure-security-center-for-iot/article_9fd4db82-0673-50af-bd2b-78c981cc8039.html"
     type: article
     provider:
       name: WFMZ-TV
       domain: wfmz.com
-    quality: 15
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
+    quality: 0
 
 secured: "EsIvnNZ4yEZWligDUccMqIGwAWN7TKflYwNOeRllb2WdmHWjhepYZYyaeoUBD7LTz4xCrzogtwALS6jYFK8GashJ3xsBOa6bOYuKYCGcr+O74DdywPnH53vdU4m35edGZnqCtOnJ+Yl/QrD6MKM5qLMbhaPF6gyoGSDnEaF0ZcUcb+z30fvnOecQKAhIp58CGDbAH34cwgkPKZpE/is2prvqc0rMYoch6OmjwiKsG+U49q0jFp51eXzFcm8n1++JxNkqFNM89Dm8w1jxCaHO4cv2HuRQzulkmzEdTMWqEZATi3ZKtcaYnVGh+ghuVZoKUDLfMLMWCmCc92p053J06pmI4GC/+1mZ3wzRhTzJaXBwGFnLAGlhcx/SWFgQSMFTNRE/T0AJv1OQLo7UUujihvEVceR4qtFTH4wauZHhDZjU/4wNGfOBS/pbvlUe3lvwBcOOa5PystLj1CRC8hYdpZ9p5bkAf2kua+kTY87EOnc=;zLL4KQxFnBqsvpxWHXjnOw=="
 ---

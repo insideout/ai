@@ -84,6 +84,21 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/02/cruise-self-driving-california.jpg?w=1200&#038;strip=all"
         width: 1200
         height: 600
+  - title: "Airbag regulations vital as self-driving cars proliferate | Commentary"
+    excerpt: "We are on the cusp of giant advancements in safety when it comes to cars. In states around America, including Florida, there is active testing of self-driving cars. Car companies want us to take our hands off the wheel in their self-driving vehicles. To get there, all they need is for the government to take a hands-off approach to the ..."
+    publishedDateTime: 2020-02-26T11:11:00Z
+    webUrl: "https://www.orlandosentinel.com/opinion/guest-commentary/os-op-airbag-regulation-vital-20200226-hhabvua3gvclnnyadxoi4ojmq4-story.html"
+    ampWebUrl: "https://www.orlandosentinel.com/opinion/guest-commentary/os-op-airbag-regulation-vital-20200226-hhabvua3gvclnnyadxoi4ojmq4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-orlandosentinel-com.cdn.ampproject.org/c/s/www.orlandosentinel.com/opinion/guest-commentary/os-op-airbag-regulation-vital-20200226-hhabvua3gvclnnyadxoi4ojmq4-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Orlando Sentinel
+      domain: orlandosentinel.com
+    quality: 59
+    images:
+      - url: "https://www.orlandosentinel.com/resizer/IyTRSeHRrO-zFFpPm21cQfsNu1A=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/A26UHWXZQVHKZNVFK7ZJNKL4LE.jpg"
+        width: 1200
+        height: 661
 
 secured: "WZeqvx9LgJ+bH2voqdtaHy2DDuEYS9EduU7RrITnFc1RMRKI6Lo9KkLwEuL8Agzog11usT9xSJr2ntryrRIVIk+JZeIwNihQLZsx7L351n9v/FF5YRUJy2SIOoWlTn1rrdITDnnsnMw2lcvK3jU0CBit78wMkpdrtVxPJ3f3wxxQB2/7llvoV77nzp/87K7EmlPwk3sL1VUcgWqGpK4qokiE0r1SMsAjIMI83MF83xVwcBSupizdHT0xrN62YU/hVgyDs0UipQtISpaRwPCgyhVSRB+64WcaDoZ2Ukw/7AR2VR71RM8IPiP3ZVLZ5yxWVGOJA/xKcCGvT8ifwDcXWfK9V3XlubumXeEEJ9KB51qRjn2fEcLosNQnr9Ufhk1SClEtBOHClQOO+7c3GPF3a/npog7e7nQa6V5EGd75Rw3VKKFpmreMLolLWrXEE4nnUA95/wic0RcUZMdoJUOS5Cb8CP/l+ddXByAvijw4o2o=;8atmemRqss++neNZGZombA=="
 ---

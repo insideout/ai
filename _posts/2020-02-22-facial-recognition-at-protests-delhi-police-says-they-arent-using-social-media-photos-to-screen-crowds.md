@@ -527,6 +527,15 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2017/07/25183012/Chincotech-facial-recognition.png"
         width: 623
         height: 432
+  - title: "Met Police Boss Slams Facial Recognition Critics"
+    excerpt: "The head of London’s Metropolitan Police has fiercely defended her force’s use of live facial recognition (LFR) technology, arguing that privacy rights have changed in an age of social media and that some critics are “highly ill-informed.” Speaking at think tank the Royal United Services Institute (RUSI), Met Police commissioner ..."
+    publishedDateTime: 2020-02-26T11:20:00Z
+    webUrl: "https://www.infosecurity-magazine.com/news/met-police-boss-slams-facial/"
+    type: article
+    provider:
+      name: Infosecurity-magazine.com
+      domain: infosecurity-magazine.com
+    quality: 19
 
 secured: "Wv2NYOoI5jXTECW+tLsZ/hoaPJRdL2hwLoUTOlhVZcTSTuwoSAiJHO11Lpwkx05x3l+OywECxKBot7Wz/39n9HCFAXfyl9SJS3TshqZdKu1/mR/KuB7JUdwHqiKzbvdzQqchAl5nxfYKMLbay2goUbDp+6cMmDKtwZ+CIMqrlzpcim0By6NUnq3iqhekr/yZIXdMe7jAwLVXjLWIUr8Hujvx/6cpVg89k2MvvbWMIhK3lIrKv1fz+OTcVOv/j7u55l9sA+lwpzhJPOE2GEICHYvX4MYEOh3n8B7NJoJOobY3FtKLdeYfFrRDjtjXi9ZQW50bocTq/UzBuIFmiGlMnYtGvXB6Q97F21sezw9TrEpdFe3DgAAWfj9GgjSHDOJCCaDplKEclLBgGM1ZyhZlNbvkmsrQ6kiiHijqOr8lGCfSPK6ucSX0Od5XtFQGYs5sMfePO8vuHdEo1NXaW2JrE3pLWcL+V8LCSfvTZtjch4Y=;R0m6fHwbqmitZeTDjBJB2g=="
 ---

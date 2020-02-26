@@ -2,6 +2,52 @@
   "page": 22,
   "value": [
     {
+      "path": "_posts/_archive/2020-01-31-artificial-intelligence-robots-market-2020-growth-share-trends-forecast-to-2025mre-analysis.md",
+      "title": "Artificial Intelligence Robots Market 2020 Growth, Share, Trends & Forecast to 2025|MRE Analysis",
+      "excerpt": "New York, January 31, 2020: The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report include Soft Bank,",
+      "heat": 403,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-2020-growth-share-trends-forecast-to-2025mre-analysis-2020-01-31",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-30T22:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence Robots Market 2020 Growth, Share, Trends & Forecast to 2025|MRE Analysis",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-31-bbc-develops-technology-that-could-let-people-feel-the-weather.md",
       "title": "BBC develops technology that could let people 'feel' the weather",
       "excerpt": "Technology has been developed that could allow people to 'feel the weather ... could be delivered through existing devices, such as remote controls and phones, as well as new ones.",
@@ -2056,51 +2102,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-02-03-ai-bot-is-the-first-to-play-starcraft-ii-at-the-grandmaster-level.md",
-      "title": "AI Bot Is the First to Play StarCraft II at the Grandmaster Level",
-      "excerpt": "Image: DeepMind Computer scientists at DeepMind have developed an artificially intelligent bot capable of defeating the world’s best players at StarCraft II, the popular real-time strategy video ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://gizmodo.com/ai-bot-is-the-first-to-play-starcraft-ii-at-the-grandma-1839471798",
-      "ampWebUrl": "https://gizmodo.com/ai-bot-is-the-first-to-play-starcraft-ii-at-the-grandma-1839471798/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/ai-bot-is-the-first-to-play-starcraft-ii-at-the-grandma-1839471798/amp",
-      "publishedDateTime": "2020-02-03T07:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/s--lXLgmwrS--/c_scale,f_auto,fl_progressive,q_80,w_800/m02voe7tkleeh51jbcx2.png",
-          "width": 800,
-          "height": 450,
-          "title": "AI Bot Is the First to Play StarCraft II at the Grandmaster Level",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

@@ -3,15 +3,15 @@ category: news
 title: "AI in Healthcare Market Prospects Outlook 2019-2030 and Top Key Players - NVIDIA, Intel, GENERAL ELECTRIC COMPANY"
 excerpt: "Companies such as IBM have played a big role in pushing AI into healthcare. The company is using its Watson platform technology in the field of cancer research, insurance claims and clinical support tools to enhance AI needs. For instance, Alder Hey Children’s Hospital uses chatboats to access validated information from patients related to a ..."
 publishedDateTime: 2020-02-14T11:43:00Z
-webUrl: "https://www.arnnet.com.au/mediareleases/38408/ai-in-healthcare-market-prospects-outlook-2019/"
+webUrl: "https://www.reseller.co.nz/mediareleases/38408/ai-in-healthcare-market-prospects-outlook-2019/"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: ARN
-  domain: arnnet.com.au
+  name: Reseller News
+  domain: reseller.co.nz
 
 topics:
   - AI
@@ -37,6 +37,6 @@ related:
       domain: openpr.com
     quality: 19
 
-secured: "v1zehMxyweb1pI6RBi2skFErBJqx4Z31Bvj1C3ApYfRCcwyWE/oUjpXZevdNbo6r+oXB2D/XDGHGlSs/6xGQI+CBBhtAN8ajyw04+qUvf6WX71wj+dPigxV0TpnAptCKUocjNS7cMqXrQtXHTYqsGy929Cqj4wywo2BJucnbS2o+/8pGAJc2OS9Mg8crQZbno3Tu19rRuivrK9Wj0EG2cSNElepqIDPOkc5/nWakTUWyHAoTKP4Tfa7qcWnslwXHaq+GNoFiwECuKBgx9xYxAdDFU8lupm4SExwSIu7iyOypAeLP06ZvM66flFirNIFU;kaXe7z1RXw2Syv1qgSvN4g=="
+secured: "tiPzx4mU5vxhCQPMtDgyAgGZXtcHELsRk1CeYanLE5k7hhlMYBtYTJEL2sb4JPnpUz+mov0H5jtlWU4HHbHahHLlk4wfsX3DXjzYmcVfno7BE9RPDj2TqoESnmxD+Zex0bOFzt4aniCep4ocVyoUQRlZSuPnvnMgB4WVMgcvGfD5tVcibBn+/Pm992X7BAf+9eYKhgq8vEDI86/chwsqQamHfOOebOJ+t2DfqmmgmjmqE4JreGPv4SLoZRd3fx2zUshvETqil6BwYkSvnCJqH0/3ZPvzDZ8S6e0A4rKsF1TeLfhXKxwkx5glIM1c6ZwU;r1Siv99zOBOodKHttgiIMw=="
 ---
 

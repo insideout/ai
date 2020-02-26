@@ -110,15 +110,6 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/44c2b6e/2147483647/strip/true/crop/1762x1151+142+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F28%2F22%2F8178e5064f7c136ce007d7fc24b1%2Fla-1548770710-xhgwtmgm6p-snap-image"
         width: 320
         height: 209
-  - title: "Pentagon Adopts New Ethical Principles for Using AI in War"
-    excerpt: "The Pentagon is adopting new ethical principles as it prepares to accelerate its use of artificial intelligence technology on the battlefield."
-    publishedDateTime: 2020-02-25T01:36:00Z
-    webUrl: "https://www.usnews.com/news/business/articles/2020-02-24/pentagon-adopts-new-ethical-principles-for-using-ai-in-war"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 64
   - title: "DOD Adopts 5 Principles of Artificial Intelligence Ethics"
     excerpt: "Artificial intelligence is the department's top technology modernization priority, DOD Chief Information Officer Dana Deasy said yesterday. The new principles lay the foundation for the ethical design, development, deployment and use of AI by DOD he said. \"These principles build upon the department's long history of ethical adoption of new ..."
     publishedDateTime: 2020-02-25T00:00:00Z
@@ -197,6 +188,19 @@ related:
       - url: "https://www.armytimes.com/resizer/HCJVtE9JHfrGKeCjk9CJbXKJ5R8=/1200x630/filters:quality(100)/arc-anglerfish-arc2-prod-mco.s3.amazonaws.com/public/MAYIFX5RQ5BLHHABTTKYSBPTL4.jpg"
         width: 1200
         height: 630
+  - title: "Pentagon adopts new ethical principles for using AI in war"
+    excerpt: "The Pentagon is adopting new ethical principles as it prepares to accelerate its use of artificial intelligence technology on the battlefield. The new principles call for people to \"exercise appropriate levels of judgment and care\" when deploying and using AI systems,"
+    publishedDateTime: 2020-02-25T18:40:00Z
+    webUrl: "https://www.chron.com/business/technology/article/Pentagon-adopts-new-ethical-principles-for-using-15080225.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 37
+    images:
+      - url: "https://s.hdnux.com/photos/01/10/62/42/19081406/11/rawImage.jpg"
+        width: 2048
+        height: 1365
   - title: "DOD Adopts Ethical Principles for Artificial Intelligence"
     excerpt: "The adoption of AI ethical principles aligns with the DOD AI strategy objective directing the U.S. military lead in AI ethics and the lawful use of AI systems. \"The United States, together with our allies and partners, must accelerate the adoption of AI and lead in its national security applications to maintain our strategic position ..."
     publishedDateTime: 2020-02-24T22:03:00Z

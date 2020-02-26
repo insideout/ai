@@ -1,43 +1,22 @@
 ---
 category: news
 title: "Syncsort Partners with Databricks to Make Mainframe Data Accessible for Cloud Analytics, Artificial Intelligence and Machine Learning"
-excerpt: "Enterprises can now leverage Syncsort Connect products to access, transform and deliver mainframe data to Delta Lake for advanced analytics, artificial intelligence (AI) and machine learning projects. Organizations rely on Databricks to process massive amounts of data in the cloud and power AI, machine learning and business insights."
-publishedDateTime: 2020-02-24T19:48:00Z
-webUrl: "https://www.tmcnet.com/usubmit/-syncsort-partners-with-databricks-make-mainframe-data-accessible-/2020/02/24/9102924.htm"
+excerpt: "Enterprises can now leverage Syncsort Connect products to access, transform and deliver mainframe data to Delta Lake for advanced analytics, artificial intelligence (AI) and machine learning projects ... connecting together different services to process new data and maintaining the connectivity with evolving data APIs across hundreds of ..."
+publishedDateTime: 2020-02-24T14:15:00Z
+webUrl: "https://www.financialbuzz.com/syncsort-partners-with-databricks-to-make-mainframe-data-accessible-for-cloud-analytics-artificial-intelligence-and-machine-learning/"
 type: article
-quality: 38
-heat: 38
+quality: 3
+heat: 3
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Financial Buzz
+  domain: financialbuzz.com
 
 topics:
   - AI
-  - Machine Learning
+  - AI in Finance
 
-images:
-  - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
-    width: 252
-    height: 335
-    title: "Syncsort Partners with Databricks to Make Mainframe Data Accessible for Cloud Analytics, Artificial Intelligence and Machine Learning"
-
-related:
-  - title: "Databricks Simplifies the Path to Building Lakehouses for Business Intelligence and Machine Learning"
-    excerpt: "Azure Databricks customers already benefit from native integration with Azure Data Factory to ingest data from many sources. “Databricks powers our machine learning and business intelligence across multiple business functions, from car inventory management, to price prediction and technical operations, by using hundreds of terabytes of data ..."
-    publishedDateTime: 2020-02-24T20:50:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200224005279/en/Databricks-Simplifies-Path-Building-Lakehouses-Business-Intelligence"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 26
-    images:
-      - url: "https://mms.businesswire.com/media/20200224005279/en/722802/23/Databricks_Logo.jpg"
-        width: 1200
-        height: 627
-
-secured: "vs5w2X4sfAuGxzwC/0O8t9hRExb3mmFziyOwgce4dTqfS6J8+AFVevooO86DXK7ii+tL6JdbErmCxXifAVXRCk+m9mu2dQYRXMrgdzNyqvthI0onJllVp3ZP+BLxFs+qxMiW+8QB3WusCYGtPDGjSlJUXrpczgsWf+De05tyDHDpmO5uEQ2zH+nZa6/7t7BSyE9hxKTp/QBZfs9PVpID2KEq6VJnuI+ujp4ZQwmGifEVlP2dz5dI7dTJ0ko+3MRHSHfJAlYQfozFcVkAg5CG/qrG2F6x/EpqfHdVmtue3aS5k4XZ42dp/Qvj9cOupDII;BoxEF3jIQwL/wVmvqBWjAA=="
+secured: "G7Qjwa/dRLiPX0cVbrr+WXnK5kxszgbgknCgwx3HzxsqMcHs2CpDdXM4rk/GfEObdXTfFMVnUTbv6ZEGYqINyuL28pRFO5vvM1oa8wviE2pn34FdKz2D+RIncT5lpLragrxpr4UvuFDaz7Uayngo+fYNgPMCObQ+m1YYgusaQmxZvHuqqt05vTJR7qbwW+AOPRtD5qI4G/jw+/LXZLXAMMyap0I4nuIJlPbr4BeSWWN/1YN3q9lClpjqdRkbDxch2ZMQ5v8TYxQvqD/EvYNPwqbwfXSfwaBfTPnKIwznuH1pq1OMUPgLiT+ADV9ALBF6;myz5nc/H6t53aQtiQPderw=="
 ---
 

@@ -41,6 +41,19 @@ related:
       - url: "https://wp-assets.futurism.com/2020/02/pentagon-new-ethics-principles-ai-warfare-600x315.jpg"
         width: 600
         height: 315
+  - title: "GovExec Daily: The Ethics of Artificial Intelligence at the Pentagon"
+    excerpt: "As artificial intelligence becomes more of a priority, the Pentagon announced last week that it will adopt ethics principles for AI use. As Defense officials said that AI is top priority, having an ethical framework is paramount. GovExec Daily spoke to Defense One's Patrick Tucker about the ways different governments use AI and why adopting a ..."
+    publishedDateTime: 2020-02-26T11:05:00Z
+    webUrl: "https://www.govexec.com/defense/2020/02/govexec-daily-ethics-artificial-intelligence-pentagon/163325/"
+    type: article
+    provider:
+      name: Government Executive
+      domain: govexec.com
+    quality: 69
+    images:
+      - url: "https://cdn.govexec.com/media/img/upload/2020/02/25/GE-Daily_1_Final_1/open-graph.jpg"
+        width: 400
+        height: 400
 
 secured: "rTupO1ystKVAKRQN+rVz+mPyJiSDP0d77L1++uxAmSWvPm08caDgunqbqUotsfQfOV1XXxsbKmXsTeXkQL7LofqlNRy3yY+FdqJRzGO6nkcwG6ylV5u9aZESEJ9u+V3R8D6SC6oh7KOoD0WsMEB5m5w/9C/8GmJOkPO7M8dTFynK1VE7kNmVo874PQqPYNotvnqr5d/4UpXWmKrTfFLfq1RVg8/4+YoyY2kf/Sq9E+jIzV/Hvm0DFtUcCTa2IiA1gdPnA95ZGij9hOdGVTZMArhuamt90rJIY17eF/VAIFQ7Ddchr2ZTzpnTDgTmk0C8snyCLNZ8UNXMesdjrX77Y4UOUVgo7xAnTtEjulSH/KULg1JVm7+PN6yTUOOzSaBAUvKU0YryJiZujL3nFnSe0KWIF8rpJFcgNgXykDCD8sYE7UIu0sAcIqHfz2a7E5nWEAKcfY9HD5fWTSh/bYAlv2hwznmh8rZQhgYRmS15m2U=;E8LYpWp+xly8yBap73kFqA=="
 ---

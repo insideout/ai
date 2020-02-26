@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/83976-samsung-unveils-galaxy-s20-5
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83976-samsung-unveils-galaxy-s20-5g-lineup-new-camera.html"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 800
     height: 560
     title: "Samsung unveils Galaxy S20 5G lineup with new camera tech, AI, security, and more starting at $1,000"
-
-related:
-  - title: "Samsung's Galaxy S20 cameras: AI tools and gimmicky zooms"
-    excerpt: "While there's plenty to talk about, the key phrase today is \"Space Zoom\" and to a lesser extent, AI. As a general overview, the Galaxy S20 and S20+ have the same cameras: A 10-megapixel selfie camera, 12-megpixel f/1.8 standard wide camera, 12-megapixel f/1.8 ultra-wide camera and a 64-megapixel f/2.0 telephoto camera. The S20+, however ..."
-    publishedDateTime: 2020-02-11T18:35:00Z
-    webUrl: "https://www.engadget.com/2020/02/11/samsung-galaxy-s20-cameras-ai-tools-space-zooms/"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 47
 
 secured: "XgUgSxRpRv8oRafHmUDaK4zF9BTHma9EIHQ1yTiLfV6JH0dcKJboamGVP0S/meQMqIyZ6BOYl3m/Uhj05Stde+q89zmbOk3YVj6YNCKlpTrfp6/4Bmw7GPLgnUS7SLe6uCk44j3hD5meeGV6f/5ZAqpqXtbiHdyqysSfOy+p5h4khaW0giJXlZPbP7KUWhfDIWf3aiL5asxXvfqBOUyHl7XXkPBUp7XgdzaYJxFuruxzdd2Zwqm5j0lWYzRlqj+TU4eKVzbEHkdtt09LPHSViFOAxUEODumhwOCIoMkSQzu1AR/uFkO+XjF4xJaoO6PRy0Qhpwfc8t2yKfQI4zw8CEefCHP+ivZuJr+5wF2BVCELkkC3f5QU00gD/sHiuRwtgm+opGCS381Cf+rXdMg/kgPnrSXwbLja20z2uC3gj1GnZ8pHx1BvmuuNdaCdRw1tALgHH5P5ZLr38QOr9jI+sDwFzAzBYgcpQgA0VxT8XFQ=;amt5MphU/m15MwaQqcPE/w=="
 ---

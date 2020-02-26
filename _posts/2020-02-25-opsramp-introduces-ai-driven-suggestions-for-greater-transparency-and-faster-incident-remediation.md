@@ -8,7 +8,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/OpsRamp-Introduces-AI-D
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/OpsRamp-Introduces-AI-Driven-Suggestions-for-Greater-Transparency-and-Faster-Incident-Remediation-1028934454"
 type: article
 quality: 56
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -24,6 +24,19 @@ topics:
   - Microsoft AI
 
 related:
+  - title: "OpsRamp Introduces AI-Driven Suggestions"
+    excerpt: "In addition to AWS cloud topology maps, OpsRamp now offers topology discovery and mapping for Azure and GCP. Teams can apply cloud topology maps to analyse the impact of changes in their multi-cloud environments. Cloud topology is also applied in OpsQ's event correlation engine to increase the accuracy of machine learning models. OpsRamp offers ..."
+    publishedDateTime: 2020-02-26T11:53:00Z
+    webUrl: "https://www.infoq.com/news/2020/02/opsramp-ai-driven-suggestions/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 39
+    images:
+      - url: "https://res.infoq.com/news/2020/02/opsramp-ai-driven-suggestions/en/headerimage/OpsRamp-AI-Driven-Suggestions-1582702993762.jpg"
+        width: 1200
+        height: 630
   - title: "Agiloft introduces AI Engine for advanced contract automation on no-code platform"
     excerpt: "Prebuilt machine learning models also enable users to implement their own custom AI tools with existing data. Additionally, the open AI Engine features an integration template to bring in machine learning models from Amazon SageMaker and Google TensorFlow to build entirely custom AI tools on Agiloft’s no-code platform. Advanced translations ..."
     publishedDateTime: 2020-02-25T19:35:00Z
@@ -51,6 +64,6 @@ related:
         width: 1200
         height: 627
 
-secured: "HRtOqVlTMMyVqqKeUKHr1hG/Pkevgxw7VESChT4cCWj+dqq3QKrRI1zf0g72Pz196Xa+ge5X/uNzaolNP6KZYQm6jTQpJWeiW4gz5VxjREdLOPaOYmvUHbuvNnWVObWYODfFUcK8GrGy1DKX6uTqLMjXvZsW3102VL9yjeboqFOBINsI7hNJC1be7E6Wq3Y+TmxvRgG88quC9J/Rf+rkSpdSPYuJEEWebgFnHgL89Ebk1bb06KLZZTuUaNmIlRweAI8lT2FD62C8M0d69HQEJYKGi6oUThmtzilyopqrJh/4DsidzsB/qQQOUXZ501RB;g2FphdbVqomJWUnPuYF3qA=="
+secured: "uKMLqYlfD4dcRt1UFndtqTbfvqFJ+kdQXtf6G++BbOiKm3bXQ/Bk6lXNe5CIqe5Ttnw5CGACQC58uI3V5qV6WdWFzadkMVAQuXO1mW5ioUKdhHWiz/26EC7PK1PQL3VHRUFmQQcrGX00jhn6XDqmIcjEJW6ZiTnVA9qowGG7mOCDu05aX9Bqn3vai/Kc2COuthFPwlydrgExCHXFxHug/TihddhT/t53fOcTB9pjFBtIRmdCEwf/gZaIjY2Auud37MaC4h/ZJqWMYtKY7SlxjYpcsO9KWACGuktbq1VNP5bmYJicAjUUJkHS6c1MwIWN;Uci4rs91xOJ7zm/SPlIO0A=="
 ---
 

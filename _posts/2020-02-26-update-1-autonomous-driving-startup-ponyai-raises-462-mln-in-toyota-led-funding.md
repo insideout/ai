@@ -124,6 +124,19 @@ related:
       - url: "https://technode.com/wp-content/uploads/2020/02/technode.com-sjm-8934.jpg"
         width: 1024
         height: 683
+  - title: "Toyota invests $400 million in Pony.ai to deepen driverless pact"
+    excerpt: "The investment extends the companies’ partnership formed last year and pushes Pony.ai’s valuation to more than $3 billion, the startup said in a statement. The pact enables a “deeper integration” of Pony.ai’s technology with Toyota’s vehicles. “It will enable us to make the commercialization of autonomous-driving vehicles faster ..."
+    publishedDateTime: 2020-02-26T11:16:00Z
+    webUrl: "https://europe.autonews.com/automakers/toyota-invests-400-million-ponyai-deepen-driverless-pact"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 37
+    images:
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Pony%20ai%20rtrs%20web.jpg"
+        width: 800
+        height: 600
   - title: "Autonomous driving startup Pony.ai raises US$462mil in Toyota-led funding"
     excerpt: "The Silicon Valley-based startup Pony.ai – co-founded by CEO James Peng, a former executive at China's Baidu, and chief technology officer Lou Tiancheng, a former Google and Baidu engineer – is already testing autonomous vehicles in California, Beijing and Guangzhou. The firm is focusing on achieving \"Level 4\", or fully autonomous standards ..."
     publishedDateTime: 2020-02-26T05:01:00Z

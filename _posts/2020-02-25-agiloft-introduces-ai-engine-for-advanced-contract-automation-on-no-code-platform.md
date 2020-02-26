@@ -36,6 +36,19 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 56
+  - title: "OpsRamp Introduces AI-Driven Suggestions"
+    excerpt: "In addition to AWS cloud topology maps, OpsRamp now offers topology discovery and mapping for Azure and GCP. Teams can apply cloud topology maps to analyse the impact of changes in their multi-cloud environments. Cloud topology is also applied in OpsQ's event correlation engine to increase the accuracy of machine learning models. OpsRamp offers ..."
+    publishedDateTime: 2020-02-26T11:53:00Z
+    webUrl: "https://www.infoq.com/news/2020/02/opsramp-ai-driven-suggestions/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 39
+    images:
+      - url: "https://res.infoq.com/news/2020/02/opsramp-ai-driven-suggestions/en/headerimage/OpsRamp-AI-Driven-Suggestions-1582702993762.jpg"
+        width: 1200
+        height: 630
   - title: "CyberX Announces Integration with Microsoft Azure Security Center for IoT, Joins Microsoft Intelligent Security Association"
     excerpt: "According to Michal Braverman-Blumenstyk, CTO and GM, Cloud and AI Security Division at Microsoft Corp.: “CyberX’s IoT security platform and integration with the Microsoft Azure Security Center for IoT enables customers to go further and faster with IoT innovations that drive new revenue streams and operational efficiencies — without comp ..."
     publishedDateTime: 2020-02-20T18:16:00Z

@@ -73,6 +73,21 @@ related:
       - url: "https://mondrian.mashable.com/2020%252F02%252F25%252F4f%252Fd75c9f984aa5402cb06f23fc61998c2f.8706a.jpg%252F1200x630.jpg?signature=7bMCxIclQRz1wENwmSpitIM5yKQ="
         width: 1200
         height: 630
+  - title: "Airbag regulations vital as self-driving cars proliferate | Commentary"
+    excerpt: "We are on the cusp of giant advancements in safety when it comes to cars. In states around America, including Florida, there is active testing of self-driving cars. Car companies want us to take our hands off the wheel in their self-driving vehicles. To get there, all they need is for the government to take a hands-off approach to the ..."
+    publishedDateTime: 2020-02-26T11:11:00Z
+    webUrl: "https://www.orlandosentinel.com/opinion/guest-commentary/os-op-airbag-regulation-vital-20200226-hhabvua3gvclnnyadxoi4ojmq4-story.html"
+    ampWebUrl: "https://www.orlandosentinel.com/opinion/guest-commentary/os-op-airbag-regulation-vital-20200226-hhabvua3gvclnnyadxoi4ojmq4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-orlandosentinel-com.cdn.ampproject.org/c/s/www.orlandosentinel.com/opinion/guest-commentary/os-op-airbag-regulation-vital-20200226-hhabvua3gvclnnyadxoi4ojmq4-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Orlando Sentinel
+      domain: orlandosentinel.com
+    quality: 59
+    images:
+      - url: "https://www.orlandosentinel.com/resizer/IyTRSeHRrO-zFFpPm21cQfsNu1A=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/A26UHWXZQVHKZNVFK7ZJNKL4LE.jpg"
+        width: 1200
+        height: 661
   - title: "Tables, footrests, smart speakers: Self-driving cars could become the living rooms of the future"
     excerpt: "With self-driving vehicles on the horizon, automakers are rethinking what the future of car interiors will look like. And because these completely autonomous cars, called Level 5 vehicles, will free drivers from focusing on the highway, companies are now free to experiment. And that means premium cars could be loaded with tech that makes ..."
     publishedDateTime: 2020-02-25T12:35:00Z
