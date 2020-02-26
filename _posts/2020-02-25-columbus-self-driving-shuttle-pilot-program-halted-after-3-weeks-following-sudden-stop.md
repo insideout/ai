@@ -52,6 +52,17 @@ related:
       - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
         width: 1200
         height: 630
+  - title: "Self-driving shuttle services halted after sudden stop causes injury"
+    excerpt: "Sixteen self-driving shuttles operated by French firm EasyMile in 10 U.S. states have been ordered to temporarily halt their passenger services after one of them suddenly and unexpectedly activated its brakes, resulting in injuries to one of the riders. As a precautionary measure, the National Highway Traffic Safety Administration (NHTSA ..."
+    publishedDateTime: 2020-02-26T06:45:00Z
+    webUrl: "https://www.digitaltrends.com/cars/self-driving-shuttle-services-halted-after-passenger-injury/"
+    ampWebUrl: "https://www.digitaltrends.com/cars/self-driving-shuttle-services-halted-after-passenger-injury/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/self-driving-shuttle-services-halted-after-passenger-injury/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 54
   - title: "Linden self-driving shuttle out of service after woman said she was thrown from seat"
     excerpt: "COLUMBUS (WCMH) — The Linden self-driving shuttle is out of operation after a person fell on that shuttle just yesterday. Since this shuttle has been put into action on Feb. 5, Smart Columbus has recorded around 50 people riding the shuttle around the Linden area and no problems. Both of the shuttles are sitting in a garage until shuttles ..."
     publishedDateTime: 2020-02-22T00:21:00Z

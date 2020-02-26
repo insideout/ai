@@ -31,6 +31,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Artificial Intelligence in the Telecommunication Market May Set New Growth Story | Major Giants IBM, Alphabet, Cisco Systems"
+    excerpt: "These insights help the business decision-makers to formulate better business plans and make informed decisions for improved profitability. In addition, the study helps venture or private players in understanding the companies more precisely to make better informed decisions."
+    publishedDateTime: 2020-02-12T12:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-telecommunication-market-may-set-new-growth-story-major-giants-ibm-alphabet-cisco-systems-2020-02-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Self-Driving Car Market 2020: Global Key Players, Trends, Share, Industry Size, Segmentation, Opportunities, Forecast To 2026"
     excerpt: "Introduction Self-Driving Car Market The market research Self-Driving Car report offers an in-depth analysis of"
     publishedDateTime: 2020-02-14T06:47:00Z

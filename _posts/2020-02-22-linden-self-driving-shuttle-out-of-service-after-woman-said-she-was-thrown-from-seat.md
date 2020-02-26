@@ -54,6 +54,17 @@ related:
       - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
         width: 1200
         height: 630
+  - title: "Self-driving shuttle services halted after sudden stop causes injury"
+    excerpt: "Sixteen self-driving shuttles operated by French firm EasyMile in 10 U.S. states have been ordered to temporarily halt their passenger services after one of them suddenly and unexpectedly activated its brakes, resulting in injuries to one of the riders. As a precautionary measure, the National Highway Traffic Safety Administration (NHTSA ..."
+    publishedDateTime: 2020-02-26T06:45:00Z
+    webUrl: "https://www.digitaltrends.com/cars/self-driving-shuttle-services-halted-after-passenger-injury/"
+    ampWebUrl: "https://www.digitaltrends.com/cars/self-driving-shuttle-services-halted-after-passenger-injury/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/self-driving-shuttle-services-halted-after-passenger-injury/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 54
   - title: "Operator of Linden self-driving shuttle suspends service in 10 states"
     excerpt: "COLUMBUS (WCMH) — The operator or a self-driving shuttle in the Linden area is out of operation in 10 states after a report of a passenger being injured. According to Reuters, the National Highway Traffic Safety Administration (NHTSA) said EasyMile buses will be suspended in 10 states, including Ohio, while the agency examines safety issues."
     publishedDateTime: 2020-02-25T22:32:00Z

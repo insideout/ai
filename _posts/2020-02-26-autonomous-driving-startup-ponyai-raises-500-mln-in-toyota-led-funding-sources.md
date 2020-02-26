@@ -64,6 +64,36 @@ related:
       - url: "https://www.nasdaq.com/sites/acquia.prod/files/2019-11-18T043046Z_1533163308_RC2W8D9ZM05M_RTRMADP_2_CHINA-AUTOS.JPG"
         width: 640
         height: 427
+  - title: "Autonomous driving start-up Pony.ai raises R7bn in Toyota-led funding"
+    excerpt: "The sources added that some of Pony.ai's existing investors had joined the financing, but did not specify names. The investment by Toyota comes at a time when global carmakers, technology firms, start-ups and investors, including Tesla, Alphabet Inc's Waymo and Uber, are pouring capital into developing self-driving vehicles. Over the past two ..."
+    publishedDateTime: 2020-02-26T06:20:00Z
+    webUrl: "https://www.timeslive.co.za/motoring/news/2020-02-26-autonomous-driving-start-up-ponyai-raises-r7bn-in-toyota-led-funding/"
+    ampWebUrl: "https://www.timeslive.co.za/amp/motoring/news/2020-02-26-autonomous-driving-start-up-ponyai-raises-r7bn-in-toyota-led-funding/"
+    cdnAmpWebUrl: "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/motoring/news/2020-02-26-autonomous-driving-start-up-ponyai-raises-r7bn-in-toyota-led-funding/"
+    type: article
+    provider:
+      name: Times LIVE
+      domain: timeslive.co.za
+    quality: 57
+    images:
+      - url: "https://lh3.googleusercontent.com/13GWnngoYc-Xmgsjhtl6TvTc1JYzpMif7RmX37GXLqt2mx8TSYHorKd7o7W86h46U6HXksGSl0aZ12BBQFrJ330=s1000"
+        width: 1000
+        height: 667
+  - title: "Toyota leads latest round of funding for autonomous driving startup Pony.ai"
+    excerpt: "The autonomous driving firm Pony.ai pulled in a large amount of cash in its latest funding round, helped by Toyota. Continue Reading Below The company raised $462 million, with Toyota investing around $400 million, according to Reuters. GET FOX BUSINESS ON THE GO BY CLICKING HERE The latest round values the three-year-old Silicon Valley-based ..."
+    publishedDateTime: 2020-02-26T06:02:00Z
+    webUrl: "https://www.foxbusiness.com/markets/toyota-leads-latest-round-of-funding-for-autonomous-driving-startup-pony-ai"
+    ampWebUrl: "https://www.foxbusiness.com/markets/toyota-leads-latest-round-of-funding-for-autonomous-driving-startup-pony-ai.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/markets/toyota-leads-latest-round-of-funding-for-autonomous-driving-startup-pony-ai.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 55
+    images:
+      - url: "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2020/02/Pony.ai3_.jpg"
+        width: 382
+        height: 240
   - title: "Autonomous Driving Startup Pony.ai Raises $462 Million in Toyota-Led Funding"
     excerpt: "Autonomous Driving Startup Pony.ai Raises $462 Million in Toyota-Led Funding HONG KONG/BEIJING (Reuters) - Autonomous driving firm Pony.ai said on Wednesday it has raised $462 million in its latest funding round,"
     publishedDateTime: 2020-02-26T04:47:00Z

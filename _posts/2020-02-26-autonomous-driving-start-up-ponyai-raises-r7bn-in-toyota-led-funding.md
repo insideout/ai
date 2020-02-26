@@ -1,29 +1,28 @@
 ---
 category: news
-title: "EXCLUSIVE-Autonomous driving startup Pony.ai raises $500 mln in Toyota-led funding: sources"
-excerpt: "The Silicon Valley-based startup Pony.ai - co-founded by CEO James Peng, a former executive at China's Baidu BIDU.O, and chief technology ... has been lagging rivals in bringing self-driving cars to market. It has taken a long view towards the technology ..."
-publishedDateTime: 2020-02-26T01:19:00Z
-webUrl: "https://www.nasdaq.com/articles/exclusive-autonomous-driving-startup-pony.ai-raises-%24500-mln-in-toyota-led-funding%3A"
-ampWebUrl: "https://www.nasdaq.com/articles/exclusive-autonomous-driving-startup-pony.ai-raises-%24500-mln-in-toyota-led-funding%3A?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/exclusive-autonomous-driving-startup-pony.ai-raises-%24500-mln-in-toyota-led-funding%3A?amp"
+title: "Autonomous driving start-up Pony.ai raises R7bn in Toyota-led funding"
+excerpt: "The sources added that some of Pony.ai's existing investors had joined the financing, but did not specify names. The investment by Toyota comes at a time when global carmakers, technology firms, start-ups and investors, including Tesla, Alphabet Inc's Waymo and Uber, are pouring capital into developing self-driving vehicles. Over the past two ..."
+publishedDateTime: 2020-02-26T06:20:00Z
+webUrl: "https://www.timeslive.co.za/motoring/news/2020-02-26-autonomous-driving-start-up-ponyai-raises-r7bn-in-toyota-led-funding/"
+ampWebUrl: "https://www.timeslive.co.za/amp/motoring/news/2020-02-26-autonomous-driving-start-up-ponyai-raises-r7bn-in-toyota-led-funding/"
+cdnAmpWebUrl: "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/motoring/news/2020-02-26-autonomous-driving-start-up-ponyai-raises-r7bn-in-toyota-led-funding/"
 type: article
-quality: 79
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Times LIVE
+  domain: timeslive.co.za
 
 topics:
   - AI
-  - AI in Autos
 
 images:
-  - url: "https://www.nasdaq.com/sites/acquia.prod/files/2019-11-18T043046Z_1533163308_RC2W8D9ZM05M_RTRMADP_2_CHINA-AUTOS.JPG"
-    width: 640
-    height: 427
-    title: "EXCLUSIVE-Autonomous driving startup Pony.ai raises $500 mln in Toyota-led funding: sources"
+  - url: "https://lh3.googleusercontent.com/13GWnngoYc-Xmgsjhtl6TvTc1JYzpMif7RmX37GXLqt2mx8TSYHorKd7o7W86h46U6HXksGSl0aZ12BBQFrJ330=s1000"
+    width: 1000
+    height: 667
+    title: "Autonomous driving start-up Pony.ai raises R7bn in Toyota-led funding"
 
 related:
   - title: "Toyota steers $400 million to self-driving startup Pony.ai"
@@ -56,21 +55,21 @@ related:
       - url: "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png"
         width: 1200
         height: 630
-  - title: "Autonomous driving start-up Pony.ai raises R7bn in Toyota-led funding"
-    excerpt: "The sources added that some of Pony.ai's existing investors had joined the financing, but did not specify names. The investment by Toyota comes at a time when global carmakers, technology firms, start-ups and investors, including Tesla, Alphabet Inc's Waymo and Uber, are pouring capital into developing self-driving vehicles. Over the past two ..."
-    publishedDateTime: 2020-02-26T06:20:00Z
-    webUrl: "https://www.timeslive.co.za/motoring/news/2020-02-26-autonomous-driving-start-up-ponyai-raises-r7bn-in-toyota-led-funding/"
-    ampWebUrl: "https://www.timeslive.co.za/amp/motoring/news/2020-02-26-autonomous-driving-start-up-ponyai-raises-r7bn-in-toyota-led-funding/"
-    cdnAmpWebUrl: "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/motoring/news/2020-02-26-autonomous-driving-start-up-ponyai-raises-r7bn-in-toyota-led-funding/"
+  - title: "EXCLUSIVE-Autonomous driving startup Pony.ai raises $500 mln in Toyota-led funding: sources"
+    excerpt: "The Silicon Valley-based startup Pony.ai - co-founded by CEO James Peng, a former executive at China's Baidu BIDU.O, and chief technology ... has been lagging rivals in bringing self-driving cars to market. It has taken a long view towards the technology ..."
+    publishedDateTime: 2020-02-26T01:19:00Z
+    webUrl: "https://www.nasdaq.com/articles/exclusive-autonomous-driving-startup-pony.ai-raises-%24500-mln-in-toyota-led-funding%3A"
+    ampWebUrl: "https://www.nasdaq.com/articles/exclusive-autonomous-driving-startup-pony.ai-raises-%24500-mln-in-toyota-led-funding%3A?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/exclusive-autonomous-driving-startup-pony.ai-raises-%24500-mln-in-toyota-led-funding%3A?amp"
     type: article
     provider:
-      name: Times LIVE
-      domain: timeslive.co.za
-    quality: 57
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 79
     images:
-      - url: "https://lh3.googleusercontent.com/13GWnngoYc-Xmgsjhtl6TvTc1JYzpMif7RmX37GXLqt2mx8TSYHorKd7o7W86h46U6HXksGSl0aZ12BBQFrJ330=s1000"
-        width: 1000
-        height: 667
+      - url: "https://www.nasdaq.com/sites/acquia.prod/files/2019-11-18T043046Z_1533163308_RC2W8D9ZM05M_RTRMADP_2_CHINA-AUTOS.JPG"
+        width: 640
+        height: 427
   - title: "Toyota leads latest round of funding for autonomous driving startup Pony.ai"
     excerpt: "The autonomous driving firm Pony.ai pulled in a large amount of cash in its latest funding round, helped by Toyota. Continue Reading Below The company raised $462 million, with Toyota investing around $400 million, according to Reuters. GET FOX BUSINESS ON THE GO BY CLICKING HERE The latest round values the three-year-old Silicon Valley-based ..."
     publishedDateTime: 2020-02-26T06:02:00Z
@@ -181,6 +180,6 @@ related:
       domain: moneycontrol.com
     quality: 14
 
-secured: "KQWPZP/eeqyB6impT3s6k41aXMt+hr5IFYe/KqRxLGuqVkvVFkeRKpMQUfgCeMOgX+ujvn7VggII1jhyVUQignDwpOhVlewTV7HssKQ11dL73CyFcjozbJREChr9P3XUaAcJ8Mr0FwolpEy083D9TLphu/FEZkCqaDWHr16XSCx5yey+NW96HjVmkBxJbuiv7IcV4bBh/89kYQedMoD+E8yX/u1IwpwabW/Cl3ebsc4zllF4X4JPZ29YNS3r10DWIvFiW5q4CjklGxYzxWeQo8l5f9APbrUui+b2N0Go1UlvzfhSzQxfi0yXb+k1XaNW9z6yEOp5xQeZ2hwdLtazKozALtYsPR8FylHWjIJtipzhNmiUEltM6KfMNytW+DkdfRd6+UXUG46T22gH1imDQBc46Wz6RyktPzOffnXANXbtvQFpaALIFS6n87k3CuqOdJCHYZ3c5NW5GDQsfJZG1ydB+P5zxSC/tWUiqpsSR0k=;ombguxOnFbX6aOh5rDPVMQ=="
+secured: "DrL2yw/yavRY4iBxT8nBzojTfxonWST19AwRAeue3Bz2qtqmWlBgNGmtAsmSq1hD4UOB5o1W8C6DXo7+rQnFJkt6KL0TLDjqW9eo3G7sF4jp9/QJriI2ELDqPCROjQwYttizfknix0ZJbKODMsENat5wEhWLhbA3HMwMksMeoBc3/llqCiJTbnqH0So/DADlqrFVcZ51zxll7QfPmNeV+ror/LFJhgWSUQNVUyCrJ3QkJWCQHmAz9WRLx4VfbdHZyg+8r6W3slLtBPND/4iI1a4sbJm4RxGeG5tFXOQtVxDnOnNRQ3hn0s2CmzxJClpP;cwh5JQeTokgBmsrB1Bk3wg=="
 ---
 

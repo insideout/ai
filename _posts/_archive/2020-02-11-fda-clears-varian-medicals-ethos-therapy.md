@@ -18,19 +18,6 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Varian Receives FDA 510(k) Clearance for Ethos Therapy"
-    excerpt: "today announced it has received FDA 510(k) clearance for its Ethos™ therapy, an Adaptive Intelligence™ solution."
-    publishedDateTime: 2020-02-11T12:15:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/varian-receives-fda-510k-clearance-for-ethos-therapy-301002481.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 39
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
   - title: "Varian receives FDA nod for Ethos therapy"
     excerpt: "Palo Alto, Calif.-based Varian Medical Systems Inc. has won the U.S. FDA’s nod for its Ethos therapy, an artificial intelligence (AI)-driven holistic solution that is aiming to transform cancer care. This solution is designed to deliver an entire adaptive treatment in a typical 15-minute slot and is intended to put the patient at the center ..."
     publishedDateTime: 2020-02-11T23:30:00Z

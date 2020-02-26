@@ -8,7 +8,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN20J2N6"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN20J2N6"
 type: article
 quality: 74
-heat: 175
+heat: 185
 published: true
 
 provider:
@@ -43,6 +43,17 @@ related:
       - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
         width: 1200
         height: 630
+  - title: "Self-driving shuttle services halted after sudden stop causes injury"
+    excerpt: "Sixteen self-driving shuttles operated by French firm EasyMile in 10 U.S. states have been ordered to temporarily halt their passenger services after one of them suddenly and unexpectedly activated its brakes, resulting in injuries to one of the riders. As a precautionary measure, the National Highway Traffic Safety Administration (NHTSA ..."
+    publishedDateTime: 2020-02-26T06:45:00Z
+    webUrl: "https://www.digitaltrends.com/cars/self-driving-shuttle-services-halted-after-passenger-injury/"
+    ampWebUrl: "https://www.digitaltrends.com/cars/self-driving-shuttle-services-halted-after-passenger-injury/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/self-driving-shuttle-services-halted-after-passenger-injury/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 54
   - title: "Linden self-driving shuttle out of service after woman said she was thrown from seat"
     excerpt: "COLUMBUS (WCMH) — The Linden self-driving shuttle is out of operation after a person fell on that shuttle just yesterday. Since this shuttle has been put into action on Feb. 5, Smart Columbus has recorded around 50 people riding the shuttle around the Linden area and no problems. Both of the shuttles are sitting in a garage until shuttles ..."
     publishedDateTime: 2020-02-22T00:21:00Z
@@ -161,6 +172,6 @@ related:
         width: 792
         height: 416
 
-secured: "YISB2qyzL+RKQMflNrTqxU3X1tJuM4ogNzd3oLfwfcbi0jf48jq2NkPd/wjoE1Jlq7VbUNZ2255ixlYw4LT4yukJyVl9G8cup++jYoQb7YSpcgOiRT2cDWB5dUWsJQaLJM4CghJ/sM6qEnc/fwkNYobaHIZeUpZnkFnmfLwhXFaz2P517Bf1cEcD4jH1sJodZEQiveQJAlIXuWVpGBPRUXfYitU7/bXFnZC6L+Crsgtys8hcyzZU55KVqDWKacw3/C+Lz7W8TLBh9Ee+sAFuXq1kdu05Kmgd3SlDyYIzB4aDKO5Zk0qsKE1cP4U+PgF1W+tvt/oZSIjUdq+hrT3+UWDNPP366COD4DCsjQ+mYb0BdW/2hEBDwRcRbtm+tJllAkBiPViMSNqGiEbMD92tpoi7sS++Xv1+pR07196N7mShplzW3lRzD+JuOTpPvgCiSKJnUffH0dk/tIcT2ktWRn6SPlTliG1h5C3/nlFfgEM=;/ScBOkm8O7kGUmpeNME68g=="
+secured: "i8WfuyhFtRJiK50+tmVe8msn33PW/V7SDDQQHyB4DCUD8Sii9OuadrfOiAJSELht3F46dqqUE9lGd0K40an9CbDOnXA9vYOFjVNjVj5N9SeB484cX7HRYWQiczYUOGv5Sqw1GlqZTKchOjR7At9PnQDYjRTRX83KnJpbfEdL4hhgbERw+pJy/0kTNHPtFNKVzIQ2bzQ4YwHGKPAhyK3+TLI4j/1gpT90rNTmYgvRsachaPLjPJpCEH3FU8BV6zCv24kPtrbVyIkf8yb4rhszMG8CjLjIjia+B96KTDpjqZzcKpKLHV2hlw4/ZPjoUSuYWT/uHL+XrxQMtEqbUa9x9e2I2MuncpW7nCpwGo3VGV5KOP9ezczEsUTaDyIuILyck1pU3KGFO2PpVOz8Da3e191gN4MT3VgK8iBtgO37KDEWVvQeWZi4LP6EsIsaQXnS3w5OtpqxVD1z2qEji4fJ373m8vHG2++6Idb7IchCxOU=;wf1RTp6gf2JysuvRjZhMlQ=="
 ---
 

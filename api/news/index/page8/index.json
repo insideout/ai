@@ -2,216 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_posts/2020-02-25-machine-learning-in-retail-market-2020-24-ongoing-trends-analysis-by-ibm-microsoft-amazon-web-services-and-oracle.md",
-      "title": "Machine Learning in Retail Market 2020-24 Ongoing Trends Analysis by IBM, Microsoft, Amazon Web Services and Oracle",
-      "excerpt": "The Global Machine Learning in Retail Market 2020 research report provides in-depth analysis by Top Players, Geography, End users, Applications, Competitor analysis, Sales, Revenue, Price, Gross Margin,",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-in-retail-market-2020-24-ongoing-trends-analysis-by-ibm-microsoft-amazon-web-services-and-oracle-2020-02-25",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-25T01:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Machine Learning in Retail Market 2020-24 Ongoing Trends Analysis by IBM, Microsoft, Amazon Web Services and Oracle",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-25-microsoft-ceo-satya-nadella-wants-to-use-diversity-to-remove-bias-in-ai.md",
-      "title": "Microsoft CEO Satya Nadella wants to use diversity to remove bias in AI",
-      "excerpt": "Last time when the India-born CEO visited the country, he talked about the power of Aadhaar ID, India Stack, and connecting more than a billion people through it. This time around apart from numerous mentions of the Azure cloud, AI and inclusivity with technology were at the center.",
-      "heat": 127,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/02/25/microsoft-nadella-india-2020/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/02/25/microsoft-nadella-india-2020/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/25/microsoft-nadella-india-2020/amp/",
-      "publishedDateTime": "2020-02-25T11:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2014/10/ms_azure_2014_103-730x409.jpg",
-          "width": 730,
-          "height": 409,
-          "title": "Microsoft CEO Satya Nadella wants to use diversity to remove bias in AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-25-microsoft-to-open-azure-regions-in-spain-expands-telefonica-relationship.md",
-      "title": "Microsoft to open Azure regions in Spain, expands Telefonica relationship",
-      "excerpt": "In February 2019, Telefonica and Microsoft announced a partnership via which Telefonica would use Azure and Microsoft AI services as a base for its own AI-powered networking technology. The pair said they would be working together to identify AI, blockchain, 5G and edge computing opportunities. Today, the pair said they'd be working together on ...",
-      "heat": 98,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/microsoft-to-open-azure-regions-in-spain-expands-telefonica-relationship/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-to-open-azure-regions-in-spain-expands-telefonica-relationship/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-to-open-azure-regions-in-spain-expands-telefonica-relationship/",
-      "publishedDateTime": "2020-02-25T10:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-25-military-unveils-guidelines-on-artificial-intelligence-warfare.md",
-      "title": "Military Unveils Guidelines on Artificial Intelligence Warfare",
-      "excerpt": "The project uses algorithms to interpret aerial images of war zones or conflict areas, one of many recent military developments that involve AI. Among the five general principles listed in the new Defense Department ethics guidelines is one that requires AI to be “governable,” meaning the automated technology can be stopped if unintended ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.courthousenews.com/military-unveils-guidelines-on-artificial-intelligence-warfare/",
-      "ampWebUrl": "https://www.courthousenews.com/military-unveils-guidelines-on-artificial-intelligence-warfare/amp/",
-      "cdnAmpWebUrl": "https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/military-unveils-guidelines-on-artificial-intelligence-warfare/amp/",
-      "publishedDateTime": "2020-02-25T15:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Courthouse News Service",
-        "domain": "courthousenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i0.wp.com/www.courthousenews.com/wp-content/uploads/2020/02/pentagon.jpg?fit=1024%2C683&ssl=1",
-          "width": 1024,
-          "height": 683,
-          "title": "Military Unveils Guidelines on Artificial Intelligence Warfare",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-25-new-algorithm-for-self-driving-vehicles-has-a-bold-collision-free-guarantee.md",
-      "title": "New algorithm for self-driving vehicles has a bold ‘collision-free guarantee’",
-      "excerpt": "Researchers have developed an algorithm that could stop self-driving vehicles from getting in crashes and traffic jams. The team from Northwestern University (NU) claims their invention is “the first decentralized algorithm with a collision-free, deadlock-free guarantee.” The algorithm divides the ground beneath the machines into a grid.",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/02/25/this-algorithm-for-self-driving-vehicles-comes-with-collision-free-guarantee/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/02/25/this-algorithm-for-self-driving-vehicles-comes-with-collision-free-guarantee/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/25/this-algorithm-for-self-driving-vehicles-comes-with-collision-free-guarantee/amp/",
-      "publishedDateTime": "2020-02-25T10:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/Untitled-design-33-1-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "New algorithm for self-driving vehicles has a bold ‘collision-free guarantee’",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_posts/2020-02-25-new-juul-patent-application-hints-at-ai-powered-vape-to-help-users-quit-nicotine.md",
       "title": "New Juul patent application hints at AI-powered vape to help users quit nicotine",
       "excerpt": "Juul has applied for a patent regarding a device, supposedly powered by artificial intelligence, that the company says could help users quit nicotine by restricting daily consumption and gradually weaning them off the product. The e-cigarette company applied for the patent last summer, and the application was recently made public, according to ...",
@@ -298,43 +88,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-25-opsramp-introduces-ai-driven-suggestions-for-greater-transparency-and-faster-incident-remediation.md",
-      "title": "OpsRamp Introduces AI-Driven Suggestions for Greater Transparency and Faster Incident Remediation",
-      "excerpt": "The OpsRamp Winter 2020 Release also introduces 19 new cloud monitoring integrations for Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP), along with dynamic topology maps for Azure and GCP. Highlights of the Winter 2020 Release include: AIOps: OpsQ is OpsRamp's intelligent event management, alert correlation ...",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/opsramp-introduces-ai-driven-suggestions-for-greater-transparency-and-faster-incident-remediation-1028934454",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/OpsRamp-Introduces-AI-Driven-Suggestions-for-Greater-Transparency-and-Faster-Incident-Remediation-1028934454",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/OpsRamp-Introduces-AI-Driven-Suggestions-for-Greater-Transparency-and-Faster-Incident-Remediation-1028934454",
-      "publishedDateTime": "2020-02-25T00:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     },
     {
@@ -862,7 +615,7 @@
       "path": "_posts/2020-02-26-toyota-steers-400-million-to-self-driving-startup-ponyai.md",
       "title": "Toyota steers $400 million to self-driving startup Pony.ai",
       "excerpt": "With this new investment, their relationship will become even closer, with the automaker and the startup “co-developing” mobility products like “mobility services.” Pony.ai has been testing robot taxis in Beijing and Guangzhou since late 2018 as well as in Fremont and Irvine, California. The startup claims to be the first company to ...",
-      "heat": 189,
+      "heat": 209,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.theverge.com/2020/2/25/21152817/toyota-pony-ai-self-driving-car-investment-valuation-china-silicon-valley",
@@ -907,7 +660,7 @@
       "path": "_posts/2020-02-26-us-agency-suspends-self-driving-shuttle-easymile-in-10-us-states.md",
       "title": "U.S. agency suspends self-driving shuttle EasyMile in 10 U.S. states",
       "excerpt": "U.S. auto safety regulators said on Tuesday they had ordered a suspension of passenger operations for 16 autonomous shuttles operated by French-based EasyMile after a passenger was injured in an unexplained braking incident.",
-      "heat": 175,
+      "heat": 185,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.reuters.com/article/us-autos-selfdriving-idUSKBN20J2N6",
@@ -2091,6 +1844,259 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2019-12-24-getting-started-with-azureml-notebook-vms.md",
+      "title": "Getting Started With AzureML Notebook VMs",
+      "excerpt": "TLDR; Azure Machine Learning (AML), a cloud-based environment you can use to train, deploy, automate, manage, and track ML models. In the following tutorial we will walk through how to set up an ...",
+      "heat": 69,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/microsoftazure/getting-started-with-azureml-notebook-vms-f637b6e09ed4",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-12-23T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*r9E_9IOr95ZxpA_2nOzC_g.png",
+          "width": 1200,
+          "height": 589,
+          "title": "Getting Started With AzureML Notebook VMs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2019-12-26-artificial-intelligence-can-now-track-down-blood-cancer.md",
+      "title": "Artificial intelligence can now track down blood cancer",
+      "excerpt": "Artificial intelligence tracks down acute myeloid leukaemia ... This approach could support conventional diagnostics and accelerate therapy of the disease. \"Some studies have been carried out ...",
+      "heat": 69,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.asianage.com/life/health/261219/artificial-intelligence-can-now-track-down-blood-cancer.html",
+      "ampWebUrl": "https://www.asianage.com/amp/life/health/261219/artificial-intelligence-can-now-track-down-blood-cancer.html",
+      "cdnAmpWebUrl": "https://www-asianage-com.cdn.ampproject.org/c/s/www.asianage.com/amp/life/health/261219/artificial-intelligence-can-now-track-down-blood-cancer.html",
+      "publishedDateTime": "2019-12-26T03:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Asian Age",
+        "domain": "asianage.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s3.ap-southeast-1.amazonaws.com/images.asianage.com/images/aa-Cover-vdtd739nmbtme80k0vq815q6o3-20191226110829.Medi.jpeg",
+          "width": 800,
+          "height": 448,
+          "title": "Artificial intelligence can now track down blood cancer",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2019-12-26-aws-ceo-claims-alibaba-cloud-isnt-a-threat.md",
+      "title": "AWS CEO claims Alibaba Cloud isn't a threat",
+      "excerpt": "According to a report in Nikkei Asian Review on Thursday, AWS is set to take a big leap with Artificial Intelligence and quantum computing. \"I would say that we mostly see Alibaba, as we're working with customers, and they're considering who they're going ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.in/tech/enterprise/news/aws-ceo-claims-alibaba-cloud-isnt-a-threat-and-only-growing-in-china/articleshow/72974967.cms",
+      "ampWebUrl": "https://www.businessinsider.in/tech/enterprise/news/aws-ceo-claims-alibaba-cloud-isnt-a-threat-and-only-growing-in-china/amp_articleshow/72974967.cms",
+      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/enterprise/news/aws-ceo-claims-alibaba-cloud-isnt-a-threat-and-only-growing-in-china/amp_articleshow/72974967.cms",
+      "publishedDateTime": "2019-12-25T21:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider India",
+        "domain": "businessinsider.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.businessinsider.in/thumb/msid-72975031,height-275,width-412,imgsize-563589/tech/enterprise/news/aws-ceo-claims-alibaba-cloud-isnt-a-threat-and-only-growing-in-china/aws-andy-jassy.jpg",
+          "width": 412,
+          "height": 275,
+          "title": "AWS CEO claims Alibaba Cloud isn't a threat",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2019-12-26-data-science-vs-artificial-intelligence-eliminate-your-doubts.md",
+      "title": "Data Science vs Artificial Intelligence — Eliminate your Doubts",
+      "excerpt": "While Data Science makes use of Artificial Intelligence in its operations, it does not completely represent AI. In this article, we will understand the concept of Data Science vs Artificial ...",
+      "heat": 167,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/quick-code/data-science-vs-artificial-intelligence-eliminate-your-doubts-912b3b2c805",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-12-25T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/730/0*K2hTcclvkZAbCzkZ.jpg",
+          "width": 730,
+          "height": 365,
+          "title": "Data Science vs Artificial Intelligence — Eliminate your Doubts",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2019-12-26-revisiting-the-rise-of-ai-how-far-has-artificial-intelligence-come-since-2010.md",
+      "title": "Revisiting the rise of A.I.: How far has artificial intelligence come since 2010?",
+      "excerpt": "To most people, few things say “A.I. is here” quite like seeing an artificial intelligence defeat two champion Jeopardy ... In 2010, Google officially unveiled its autonomous car program, now called Waymo. Over the decade that followed, dozens of other companies (including tech heavy hitters like Apple) have started to develop their ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.digitaltrends.com/cool-tech/biggest-ai-advances-of-the-2010s/",
+      "ampWebUrl": "https://www.digitaltrends.com/cool-tech/biggest-ai-advances-of-the-2010s/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/biggest-ai-advances-of-the-2010s/?amp",
+      "publishedDateTime": "2019-12-26T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://icdn2.digitaltrends.com/image/digitaltrends/christies-ai-art-header-1200x630-c-ar1.91.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": "Revisiting the rise of A.I.: How far has artificial intelligence come since 2010?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2019-12-26-samsung-prepares-neon-ai-for-ces-debut.md",
+      "title": "Samsung Prepares Neon AI for CES Debut",
+      "excerpt": "Samsung is preparing an \"artificial intelligence being\" that could become your \"best friend\": It will debut at CES, award-winning director Shekhar Kapur said on Twitter today. The project, called ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.pcmag.com/news/372695/samsung-prepares-neon-ai-for-ces-debut",
+      "ampWebUrl": "https://www.pcmag.com/news/samsung-prepares-neon-ai-for-ces-debut?amp=true",
+      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/samsung-prepares-neon-ai-for-ces-debut?amp=true",
+      "publishedDateTime": "2019-12-26T03:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.pcmag.com/images/pcmag-social-share.jpg",
+          "width": 997,
+          "height": 1201,
+          "title": "Samsung Prepares Neon AI for CES Debut",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
       ]
     }
   ],

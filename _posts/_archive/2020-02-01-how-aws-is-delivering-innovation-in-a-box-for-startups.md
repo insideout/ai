@@ -4,9 +4,11 @@ title: "How AWS is delivering innovation in a box for startups"
 excerpt: "Karza also uses Amazon Rekognition, an image and scene identification service, to improve the efficiency of the due-diligence process. All of these pre-tuned services, says Manaktala, is hugely ..."
 publishedDateTime: 2020-02-01T09:58:00Z
 webUrl: "https://www.moneycontrol.com/news/technology/fintech-how-amazon-is-delivering-innovation-in-a-box-for-startups-4882671.html"
+ampWebUrl: "https://www.moneycontrol.com/news/technology/fintech-how-amazon-is-delivering-innovation-in-a-box-for-startups-4882671.html/amp"
+cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/fintech-how-amazon-is-delivering-innovation-in-a-box-for-startups-4882671.html/amp"
 type: article
-quality: 19
-heat: 19
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -17,6 +19,12 @@ topics:
   - AI
   - AWS AI
 
-secured: "nSguP1sYPxlWGvjtFv6sPa25ta+H1RtkMDUXsW6nMVT8lHtLqinZ/LPD8j37saAT2WYqD1rAB7ojqaO/ntfUn6VXjxesz9DYYbaHjQsT81gCs6THYY8X8pGsHaLkcYYnXabi4sVKiCADMIQjqiLbiJv+um4eh0hRrT3yMqt+Acc9uVPt0t1c3/cCOQMg76DMRnvHLceoSMhohs0xs/QRXxnj9OiCpYBVxBHJ35iZY2oiz5CoE5Sk0datmyohXhcfpL26NQSpQwHa5MmK+7qVUWNRTxFvN1XUBnnKPUmZIP5X3aksVQy2goy5T/ySCbgN;sBn7a2sGqjLMzRqVEaYGkQ=="
+images:
+  - url: "https://static-news.moneycontrol.com/static-mcnews/2017/10/Rubique_Top-Tech-Trends_Blochchain_Fintechedge-378x213.jpg"
+    width: 378
+    height: 213
+    title: "How AWS is delivering innovation in a box for startups"
+
+secured: "XOD0ASScZEmLrTF1cu0lBnNespJM5hJ3DcgzgCJp8l+OLZIvGkchGmVfueJCp8rdZJzSpMAoVX7CQ8g+NS+FMbKKeKJgbSRl1r+I0XK8YAQFpdnc9UJwajcIPl99+sLTyf8Ygy4P/iSzGVcqHppWyqYuH68VhMUJ2Z2CiVOPaeUuunfhkzccwbRVpVVoW2fjAws9LKIh+vbD3TmkAo1wHILls/87OqdKEekjOh2lCzEVcBS+ZR07xzTZTRQUCt1ZgbSJUBec65sBXczomhLgpgt7pWm/t68Ag97XO4LqjBW+GNYoaqas6Z3DJdtLShcn;hdDGxO9viUJTvJ3inLypzw=="
 ---
 

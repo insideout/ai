@@ -46,50 +46,6 @@
       ]
     },
     {
-      "path": "_posts/2020-02-11-ai-powered-otterbot-chatbot-helps-students-navigate-choppy-waters-of-financial-aid-applications.md",
-      "title": "AI-powered ‘Otterbot’ chatbot helps students navigate choppy waters of financial aid applications",
-      "excerpt": "Otterbot is a free, AI-powered texting service that can help high school seniors apply for financial aid that covers tuition and fees for college and other training. Last year, Washington ranked 48th among U.S. states for the percent of students who completed federal financial aid applications or FAFSA, a standardized form used for awarding ...",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/ai-powered-otterbot-chatbot-helps-students-navigate-choppy-waters-financial-aid-applications/",
-      "ampWebUrl": "https://www.geekwire.com/2020/ai-powered-otterbot-chatbot-helps-students-navigate-choppy-waters-financial-aid-applications/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/ai-powered-otterbot-chatbot-helps-students-navigate-choppy-waters-financial-aid-applications/amp/",
-      "publishedDateTime": "2020-02-11T06:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2019/04/20190330_155633-e1556638491703-630x407.jpg",
-          "width": 630,
-          "height": 407,
-          "title": "AI-powered ‘Otterbot’ chatbot helps students navigate choppy waters of financial aid applications",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-11-aptivs-self-driving-vehicles-top-100000-rides-in-las-vegas.md",
       "title": "Aptiv’s Self-Driving Vehicles Top 100,000 Rides In Las Vegas",
       "excerpt": "Waymo got a lot of media coverage for the December 2018 commercial launch of its automated ride-hailing service. But Waymo wasn’t the first company to open such a service to the general public and start charging for rides.",
@@ -424,51 +380,6 @@
       ]
     },
     {
-      "path": "_posts/2020-02-11-microsoft-builds-the-worlds-largest-transformer-based-language-generation-model.md",
-      "title": "Microsoft builds the world's largest transformer-based language generation model",
-      "excerpt": "that outperforms the state of the art models available today on many downstream natural language processing (NLP) applications. To train the model, researchers at Microsoft trained their model on an NVIDIA DGX-2 system housing multiple NVIDIA V100 GPUs that were interconnected with InfiniBand. The type of training data used was similar to the ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.neowin.net/news/microsoft-builds-the-worlds-largest-transformer-based-language-generation-model",
-      "ampWebUrl": "https://www.neowin.net/amp/microsoft-builds-the-worlds-largest-transformer-based-language-generation-model/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-builds-the-worlds-largest-transformer-based-language-generation-model/",
-      "publishedDateTime": "2020-02-11T06:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/01/1580301872_microsoft_2_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": "Microsoft builds the world's largest transformer-based language generation model",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_posts/2020-02-11-microsofts-ai-automatically-comments-on-video-clips.md",
       "title": "Microsoft’s AI automatically comments on video clips",
       "excerpt": "Generating live video captions with AI could bolster engagement on social media, or serve as a benchmark for the task of translating video to text. Preliminary work to this end has employed encoder-decoder models to generate comments, but they haven’t modeled the interaction between videos and comments explicitly, so they’ve tended to ...",
@@ -557,50 +468,6 @@
       ]
     },
     {
-      "path": "_posts/2020-02-11-robot-with-coronavirus-advice-hits-times-square.md",
-      "title": "Robot with coronavirus advice hits Times Square",
-      "excerpt": "Worried about the spread of coronavirus? A five-foot tall (1.5 meter) Promobot might have your answer. The robot with a friendly face rolled into Times Square on Monday to help provide information about the new virus.",
-      "heat": 172,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2020/02/11/robot-with-coronavirus-advice-hits-times-square.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/02/11/robot-with-coronavirus-advice-hits-times-square.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/02/11/robot-with-coronavirus-advice-hits-times-square.html",
-      "publishedDateTime": "2020-02-11T06:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106384789-1581430324237gettyimages-1166054633.jpeg?v=1581430362",
-          "width": 5042,
-          "height": 3456,
-          "title": "Robot with coronavirus advice hits Times Square",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-11-samsung-unveils-galaxy-s20-5g-lineup-with-new-camera-tech-ai-security-and-more-starting-at-1000.md",
       "title": "Samsung unveils Galaxy S20 5G lineup with new camera tech, AI, security, and more starting at $1,000",
       "excerpt": "The hybrid zoom's AI uses multi-image processing to reduce resolution loss at higher magnification ... the Galaxy S20 is protected by Knox—the industry-leading mobile security platform that protects the device from the chip level through to the software level,” says Samsung. The company also says that the S20 has a new “secure processor ...",
@@ -633,51 +500,6 @@
           "width": 800,
           "height": 560,
           "title": "Samsung unveils Galaxy S20 5G lineup with new camera tech, AI, security, and more starting at $1,000",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-11-softbank-owned-arms-latest-chip-designs-feature-improved-ai-performance-on-edge-iot-devices.md",
-      "title": "SoftBank-owned Arm's latest chip designs feature improved AI performance on edge IoT devices",
-      "excerpt": "Chip designer Arm unveiled two new chip designs that can provide better artificial intelligence functionality on edge IoT devices.",
-      "heat": 73,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/arms-artificial-intelligence-chips-show-pull-of-voice-tech-2020-2",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-11T06:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5e42b5504b661b3875464416?width=600&format=jpeg&auto=webp",
-          "width": 600,
-          "height": 450,
-          "title": "SoftBank-owned Arm's latest chip designs feature improved AI performance on edge IoT devices",
           "attribution": null
         }
       ],
@@ -1911,7 +1733,7 @@
       "path": "_posts/2020-02-13-ai-in-telecommunication-market-outlook-big-expectations-to-watch-for.md",
       "title": "AI in Telecommunication Market Outlook: Big Expectations to Watch For",
       "excerpt": "The Latest research study released by HTF MI \"Global AI in Telecommunication Market\" with 100+ pages of analysis on business Strategy taken up by key and emerging industry players and delivers know how of the current market development,",
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.marketwatch.com/press-release/ai-in-telecommunication-market-outlook-big-expectations-to-watch-for-2020-02-13",
@@ -2165,6 +1987,169 @@
       "topics": [
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-13-deep-learning-ai-can-imitate-the-distortion-effects-of-iconic-guitar-gods.md",
+      "title": "Deep learning A.I. can imitate the distortion effects of iconic guitar gods",
+      "excerpt": "That’s now changed thanks to the work of researchers in the department of signal processing and acoustics at Finland’s Aalto University. Using deep learning artificial intelligence (A.I.), they have created a neural network for guitar distortion modeling that, for the first time, can fool blind-test listeners into thinking it’s the ...",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.digitaltrends.com/cool-tech/deep-learning-ai-iconic-guitar-amps/",
+      "ampWebUrl": "https://www.digitaltrends.com/cool-tech/deep-learning-ai-iconic-guitar-amps/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/deep-learning-ai-iconic-guitar-amps/?amp",
+      "publishedDateTime": "2020-02-13T10:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-13-deepmind-develops-ai-with-an-imagination.md",
+      "title": "DeepMind Develops AI With An Imagination",
+      "excerpt": "Google is going full Westworld by giving robots the ability to imagine and plan. In the same way a person would look at a glass of water on the edge of a table and consider whether it might fall ...",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geek.com/tech/deepmind-develops-ai-with-an-imagination-1708908/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-12T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geek.com",
+        "domain": "geek.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/geek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.geek.com/wp-content/uploads/2017/07/ai-2.jpg",
+          "width": 690,
+          "height": 388,
+          "title": "DeepMind Develops AI With An Imagination",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-13-esteban-granero-aiming-to-bring-artificial-intelligence-into-football.md",
+      "title": "Esteban Granero aiming to bring artificial intelligence into football",
+      "excerpt": "But it is as a pioneer in artificial intelligence that the 32-year-old hopes to make his most lasting impression on football. For the last five years, at the same time as representing Real Sociedad, Espanyol and Marbella FC as a player, Granero, who previously had a spell in the Premier League with QPR, has been working as the founder and CEO ...",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.skysports.com/football/news/11095/11932406/esteban-granero-aiming-to-bring-artificial-intelligence-into-football",
+      "ampWebUrl": "https://www.skysports.com/amp/football/news/11095/11932406/esteban-granero-aiming-to-bring-artificial-intelligence-into-football",
+      "cdnAmpWebUrl": "https://www-skysports-com.cdn.ampproject.org/c/s/www.skysports.com/amp/football/news/11095/11932406/esteban-granero-aiming-to-bring-artificial-intelligence-into-football",
+      "publishedDateTime": "2020-02-12T23:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sky Sports",
+        "domain": "skysports.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://e0.365dm.com/20/02/1600x900/skysports-esteban-granero-espanyol_4917382.jpg?20200211164937",
+          "width": 1600,
+          "height": 900,
+          "title": "Esteban Granero aiming to bring artificial intelligence into football",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-13-facial-recognition-could-be-temporarily-banned-for-law-enforcement-use.md",
+      "title": "Facial recognition could be temporarily banned for law enforcement use",
+      "excerpt": "Senators have introduced a bill that would prohibit the technology for police use until guidelines and limitations are set. Law enforcement agencies could be temporarily banned from using facial recognition after Sens.",
+      "heat": 629,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/facial-recognition-could-be-temporarily-banned-for-law-enforcement-use/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/facial-recognition-could-be-temporarily-banned-for-law-enforcement-use/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facial-recognition-could-be-temporarily-banned-for-law-enforcement-use/",
+      "publishedDateTime": "2020-02-12T19:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet4.cbsistatic.com/img/JsUigaPqhHEO0XUYO41ZqO-Z-vo=/756x567/2020/01/18/2bde6ea9-4f91-4473-a8fb-1418d9ac5c7d/facial-recognition-james-martin-promo-1.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "Facial recognition could be temporarily banned for law enforcement use",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
       ]
     }
   ],

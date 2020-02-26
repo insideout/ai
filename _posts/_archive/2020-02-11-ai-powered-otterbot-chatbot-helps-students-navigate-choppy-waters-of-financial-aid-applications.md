@@ -8,7 +8,7 @@ ampWebUrl: "https://www.geekwire.com/2020/ai-powered-otterbot-chatbot-helps-stud
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/ai-powered-otterbot-chatbot-helps-students-navigate-choppy-waters-financial-aid-applications/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -29,19 +29,6 @@ images:
     title: "AI-powered ‘Otterbot’ chatbot helps students navigate choppy waters of financial aid applications"
 
 related:
-  - title: "Washington State Taps the Power of Artificial Intelligence (AI) to Help High School Students Find Aid for College"
-    excerpt: "/PRNewswire/ -- Thousands of high school students in Washington will have a new ally in the financial aid application process, thanks to the rollout of an"
-    publishedDateTime: 2020-02-11T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/washington-state-taps-the-power-of-artificial-intelligence-ai-to-help-high-school-students-find-aid-for-college-301002631.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 31
-    images:
-      - url: "https://mma.prnewswire.com/media/1088502/WSAC_Logo.jpg?p=facebook"
-        width: 4357
-        height: 2280
   - title: "Washington State Taps the Power of Artificial Intelligence (AI) to Help High School Students Find Aid for College"
     excerpt: "OLYMPIA, Wash., Feb. 11, 2020 /PRNewswire/ -- Thousands of high school students in Washington will have a new ally in the financial aid application process, thanks to the rollout of an AI chatbot named \"Otter.\" Developed by AdmitHub and launched by the Washington Student Achievement Council (WSAC), Otter utilizes conversational AI, familiar to ..."
     publishedDateTime: 2020-02-12T01:02:00Z

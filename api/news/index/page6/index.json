@@ -2,209 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_posts/2020-02-20-vcs-warn-pumping-millions-into-an-ai-startup-you-mean-pumping-millions-into-azure-aws-or-google-cloud.md",
-      "title": "VCs warn: Pumping millions into an AI startup? You mean, pumping millions into Azure, AWS or Google Cloud...",
-      "excerpt": "“Anecdotally, we have seen a surprisingly consistent pattern in the financial data of AI companies, with gross margins often in the 50-60 per cent range – well below the 60-80 per cent [and above] benchmark for comparable SaaS businesses,” said Martin Casado and Matt Bornstein, venture-capitalists at Silicon Valley's venerable Andreessen ...",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theregister.co.uk/2020/02/20/starting_an_ai_biz/",
-      "ampWebUrl": "https://www.theregister.co.uk/AMP/2020/02/20/starting_an_ai_biz/",
-      "cdnAmpWebUrl": "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/02/20/starting_an_ai_biz/",
-      "publishedDateTime": "2020-02-20T01:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Register",
-        "domain": "theregister.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2018/09/26/shutterstock_118942015.jpg",
-          "width": 648,
-          "height": 448,
-          "title": "VCs warn: Pumping millions into an AI startup? You mean, pumping millions into Azure, AWS or Google Cloud...",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-20-when-it-comes-to-artificial-intelligence-throw-away-that-tired-old-tech-rulebook.md",
-      "title": "When It Comes To Artificial Intelligence, Throw Away That Tired Old Tech Rulebook",
-      "excerpt": "MIT Sloan survey finds AI incurs risks and demands for executive involvement not seen in previous technology incarnations.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2020/02/20/when-it-comes-to-artificial-intelligence-throw-away-that-tired-old-tech-rulebook/",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2020/02/20/when-it-comes-to-artificial-intelligence-throw-away-that-tired-old-tech-rulebook/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2020/02/20/when-it-comes-to-artificial-intelligence-throw-away-that-tired-old-tech-rulebook/amp/",
-      "publishedDateTime": "2020-02-20T09:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e4eaced765d4500072cca5b%2F0x0.jpg",
-          "width": 478,
-          "height": 327,
-          "title": "When It Comes To Artificial Intelligence, Throw Away That Tired Old Tech Rulebook",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-21-ai-and-edge-computing-replaces-the-pilgrims-in-the-new-mayflower.md",
-      "title": "AI and edge computing replaces the Pilgrims in the new Mayflower",
-      "excerpt": "IBM’s AI and edge computing technologies are going to guide a crewless boat to chart the same route the Pilgrims did 400 years ago. I was at an IBM analyst event when I met Don Scott, CTO of Marine Ai, a venture that is working on an automatic boat, named “Mayflower”, which ... Google demands that all new “knowledge” developed from ...",
-      "heat": 117,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://telecoms.com/502623/ai-and-edge-computing-replaces-the-pilgrims-in-the-new-mayflower/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-21T09:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Telecoms",
-        "domain": "telecoms.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-21-ai-improves-healthcare-91-of-healthcare-executives-say-it-does.md",
-      "title": "AI Improves Healthcare? 91% Of Healthcare Executives Say It Does",
-      "excerpt": "... Taiwanese civic participation and more general investigations into how fake news stories travel across Facebook’s platform [WSJ] Funding for AI startups globally rose to a record $27 billion in 2019, a significant increase over the amounts raised ...",
-      "heat": 171,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/gilpress/2020/02/21/ai-improves-healthcare-91-of-healthcare-executives-say-it-does/",
-      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2020/02/21/ai-improves-healthcare-91-of-healthcare-executives-say-it-does/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2020/02/21/ai-improves-healthcare-91-of-healthcare-executives-say-it-does/amp/",
-      "publishedDateTime": "2020-02-21T09:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e50147b7a0098000733e9a9%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "AI Improves Healthcare? 91% Of Healthcare Executives Say It Does",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-21-ai-in-logistics-and-supply-chain-with-detailed-overview-and-opportunity-assessment.md",
-      "title": "AI in Logistics and Supply Chain With Detailed Overview and Opportunity Assessment",
-      "excerpt": "The on-going evolution of technologies like artificial intelligence (AI) and machine learning (ML) brings in disruption and innovation in the AI Logistics and Supply Chain Ecosystem. AI is transforming global logistics and supply chain management.",
-      "heat": 75,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-logistics-and-supply-chain-with-detailed-overview-and-opportunity-assessment-2020-02-21",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-21T03:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "AI in Logistics and Supply Chain With Detailed Overview and Opportunity Assessment",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_posts/2020-02-21-ai-laws-are-coming.md",
       "title": "AI Laws Are Coming",
       "excerpt": "Adoption for AI and cognitive technologies shows no signs of slowing and governments across the world are paying attention. AI laws are coming.",
@@ -2138,6 +1935,206 @@
       "topics": [
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-24-dubai-set-to-witness-professional-interaction-with-humanoid-robot-sophia.md",
+      "title": "Dubai set to witness professional interaction with humanoid robot Sophia",
+      "excerpt": "“As a robot myself, I believe that data is the key to making smart decisions. With enough data, AI can be used to evaluate potential risk factors and prevent problems before they start.” The UAE is the only country in the world to have a Ministry of Artificial Intelligence. When she was asked to suggest as to what should it do to be a ...",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zawya.com/mena/en/press-releases/story/Dubai_set_to_witness_professional_interaction_with_humanoid_robot_Sophia-ZAWYA20200224083733/",
+      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/ZAWYA20200224083733/",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200224083733/",
+      "publishedDateTime": "2020-02-24T05:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.zawya.com/resources/img/zawya-logo-en-social.png",
+          "width": 1200,
+          "height": 878,
+          "title": "Dubai set to witness professional interaction with humanoid robot Sophia",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-24-fg-to-include-robotics-ai-in-school-curriculum.md",
+      "title": "FG to include robotics, AI in school curriculum",
+      "excerpt": "The Federal Ministry of Education has said it will work on the inclusion of coding, robotics and artificial intelligence in the country’s school curricula so as to take pupils to the 21st Century technology and educational standards. The Minister of State for Education, Chukwuemeka Nwajiuba, stated this in Abuja at the 2019/2020 Nigeria ...",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://punchng.com/fg-to-include-robotics-ai-in-school-curriculum/",
+      "ampWebUrl": "https://punchng.com/fg-to-include-robotics-ai-in-school-curriculum/amp/",
+      "cdnAmpWebUrl": "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/fg-to-include-robotics-ai-in-school-curriculum/amp/",
+      "publishedDateTime": "2020-02-23T16:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Punch Newspapers",
+        "domain": "punchng.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.punchng.com/wp-content/uploads/2019/11/01205241/Chukwuemeka-Nwajiuba.jpg",
+          "width": 700,
+          "height": 417,
+          "title": "FG to include robotics, AI in school curriculum",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-24-fintech-the-personal-stories-of-the-money-hackers-who-have-changed-finance.md",
+      "title": "Fintech — The Personal Stories Of The Money Hackers Who Have Changed Finance",
+      "excerpt": "Dan Simon has written a book about the people who created the technology firms that have been changing finance, such as Venmo and Braintree, Credit Karma, Lending Club, Kabbage, Yodlee, Clarity Money and Betterment.",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/tomgroenfeldt/2020/02/24/fintech---the-personal-stories-of-the-money-hackers-who-have-changed-finance/",
+      "ampWebUrl": "https://www.forbes.com/sites/tomgroenfeldt/2020/02/24/fintech---the-personal-stories-of-the-money-hackers-who-have-changed-finance/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomgroenfeldt/2020/02/24/fintech---the-personal-stories-of-the-money-hackers-who-have-changed-finance/amp/",
+      "publishedDateTime": "2020-02-24T11:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e53e07ad378190007f42478%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1283%26cropY1%3D228%26cropY2%3D950",
+          "width": 1200,
+          "height": 676,
+          "title": "Fintech — The Personal Stories Of The Money Hackers Who Have Changed Finance",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-24-from-california-to-dc-these-are-the-proposals-for-reforming-law-firm-ownership.md",
+      "title": "From California to D.C., These Are the Proposals for Reforming Law Firm Ownership",
+      "excerpt": "On Twitter at @packeld A weekly ... This study demonstrates how to analyze, streamline, and extract meaningful value from your contract database, with specific examples around M&A deal points. Formulate a compelling business case to win support for adopting artificial intelligence (AI) powered contract analysis using data, benefits and pain ...",
+      "heat": 127,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.law.com/americanlawyer/2020/02/24/from-california-to-d-c-these-are-the-proposals-for-reforming-law-firm-ownership/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-24T14:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Law",
+        "domain": "law.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.law.com/contrib/content/uploads/sites/405/2019/11/Sacramento-State-Capitol-Article-201802222202.jpg",
+          "width": 620,
+          "height": 372,
+          "title": "From California to D.C., These Are the Proposals for Reforming Law Firm Ownership",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-24-global-automatic-speech-recognition-software-market-innovations-and-top-companies-forecast-to-2029-baidu-google-and-facebook.md",
+      "title": "Global Automatic Speech Recognition Software Market Innovations, And Top Companies - Forecast To 2029| Baidu, Google and Facebook",
+      "excerpt": "Global Automatic Speech Recognition Software Market (Revenue and Volume), Type, Application, End-User, and Regional Analysis, Import-Export Analysis, Industry Analysis, Premium Insights, Intellectual Property Analysis,",
+      "heat": 85,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/global-automatic-speech-recognition-software-market-innovations-and-top-companies---forecast-to-2029-baidu-google-and-facebook-2020-02-24",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-24T04:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Global Automatic Speech Recognition Software Market Innovations, And Top Companies - Forecast To 2029| Baidu, Google and Facebook",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
       ]
     }
   ],

@@ -2,169 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_posts/2020-02-13-deep-learning-ai-can-imitate-the-distortion-effects-of-iconic-guitar-gods.md",
-      "title": "Deep learning A.I. can imitate the distortion effects of iconic guitar gods",
-      "excerpt": "That’s now changed thanks to the work of researchers in the department of signal processing and acoustics at Finland’s Aalto University. Using deep learning artificial intelligence (A.I.), they have created a neural network for guitar distortion modeling that, for the first time, can fool blind-test listeners into thinking it’s the ...",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.digitaltrends.com/cool-tech/deep-learning-ai-iconic-guitar-amps/",
-      "ampWebUrl": "https://www.digitaltrends.com/cool-tech/deep-learning-ai-iconic-guitar-amps/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/deep-learning-ai-iconic-guitar-amps/?amp",
-      "publishedDateTime": "2020-02-13T10:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-13-deepmind-develops-ai-with-an-imagination.md",
-      "title": "DeepMind Develops AI With An Imagination",
-      "excerpt": "Google is going full Westworld by giving robots the ability to imagine and plan. In the same way a person would look at a glass of water on the edge of a table and consider whether it might fall ...",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geek.com/tech/deepmind-develops-ai-with-an-imagination-1708908/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-12T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geek.com",
-        "domain": "geek.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/geek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.geek.com/wp-content/uploads/2017/07/ai-2.jpg",
-          "width": 690,
-          "height": 388,
-          "title": "DeepMind Develops AI With An Imagination",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-13-esteban-granero-aiming-to-bring-artificial-intelligence-into-football.md",
-      "title": "Esteban Granero aiming to bring artificial intelligence into football",
-      "excerpt": "But it is as a pioneer in artificial intelligence that the 32-year-old hopes to make his most lasting impression on football. For the last five years, at the same time as representing Real Sociedad, Espanyol and Marbella FC as a player, Granero, who previously had a spell in the Premier League with QPR, has been working as the founder and CEO ...",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.skysports.com/football/news/11095/11932406/esteban-granero-aiming-to-bring-artificial-intelligence-into-football",
-      "ampWebUrl": "https://www.skysports.com/amp/football/news/11095/11932406/esteban-granero-aiming-to-bring-artificial-intelligence-into-football",
-      "cdnAmpWebUrl": "https://www-skysports-com.cdn.ampproject.org/c/s/www.skysports.com/amp/football/news/11095/11932406/esteban-granero-aiming-to-bring-artificial-intelligence-into-football",
-      "publishedDateTime": "2020-02-12T23:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sky Sports",
-        "domain": "skysports.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://e0.365dm.com/20/02/1600x900/skysports-esteban-granero-espanyol_4917382.jpg?20200211164937",
-          "width": 1600,
-          "height": 900,
-          "title": "Esteban Granero aiming to bring artificial intelligence into football",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-13-facial-recognition-could-be-temporarily-banned-for-law-enforcement-use.md",
-      "title": "Facial recognition could be temporarily banned for law enforcement use",
-      "excerpt": "Senators have introduced a bill that would prohibit the technology for police use until guidelines and limitations are set. Law enforcement agencies could be temporarily banned from using facial recognition after Sens.",
-      "heat": 629,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/news/facial-recognition-could-be-temporarily-banned-for-law-enforcement-use/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/facial-recognition-could-be-temporarily-banned-for-law-enforcement-use/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facial-recognition-could-be-temporarily-banned-for-law-enforcement-use/",
-      "publishedDateTime": "2020-02-12T19:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet4.cbsistatic.com/img/JsUigaPqhHEO0XUYO41ZqO-Z-vo=/756x567/2020/01/18/2bde6ea9-4f91-4473-a8fb-1418d9ac5c7d/facial-recognition-james-martin-promo-1.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "Facial recognition could be temporarily banned for law enforcement use",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_posts/2020-02-13-fiddler-labs-sri-and-berkeley-experts-open-up-the-black-box-of-machine-learning-at-tc-sessions-roboticsai.md",
       "title": "Fiddler Labs, SRI and Berkeley experts open up the black box of machine learning at TC Sessions: Robotics+AI",
       "excerpt": "As AI permeates the home, work, and public life, it’s increasingly important to be able to understand why and how it makes its decisions. Explainable AI isn’t just a matter of hitting a switch, though; Experts from UC Berkeley, SRI, and Fiddler Labs will discuss how we should go about it on stage at TC Sessions: Robotics+AI on March 3. What ...",
@@ -2123,6 +1960,169 @@
       "topics": [
         "AI",
         "Google AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-15-video-of-uber-driver-on-wild-chase-that-kidnapped-date-night-couple-provides-vital-lessons-for-ai-self-driving-cars.md",
+      "title": "Video Of Uber Driver On Wild Chase That “Kidnapped” Date-Night Couple Provides Vital Lessons For AI Self-Driving Cars",
+      "excerpt": "Uber driver on wild chase opts to \"kidnap\" his passengers, which brings up interesting lessons for AI self-driving cars.",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/02/15/video-of-uber-driver-on-wild-chase-that-kidnapped-date-night-couple-provides-vital-lessons-for-ai-self-driving-cars/",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/02/15/video-of-uber-driver-on-wild-chase-that-kidnapped-date-night-couple-provides-vital-lessons-for-ai-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/02/15/video-of-uber-driver-on-wild-chase-that-kidnapped-date-night-couple-provides-vital-lessons-for-ai-self-driving-cars/amp/",
+      "publishedDateTime": "2020-02-15T04:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F3921-000053%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5140%26cropY1%3D206%26cropY2%3D3096",
+          "width": 1200,
+          "height": 675,
+          "title": "Video Of Uber Driver On Wild Chase That “Kidnapped” Date-Night Couple Provides Vital Lessons For AI Self-Driving Cars",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-15-why-bill-gates-thinks-gene-editing-and-artificial-intelligence-could-save-the-world.md",
+      "title": "Why Bill Gates thinks gene editing and artificial intelligence could save the world",
+      "excerpt": "(GeekWire Photo / Alan Boyle) Microsoft co-founder Bill Gates has been working to improve the state of global health through his nonprofit foundation for 20 years, and today he told the nation’s premier scientific gathering that advances in artificial intelligence and gene editing could accelerate those improvements exponentially in the years ...",
+      "heat": 203,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geekwire.com/2020/bill-gates-thinks-gene-editing-artificial-intelligence-save-world/",
+      "ampWebUrl": "https://www.geekwire.com/2020/bill-gates-thinks-gene-editing-artificial-intelligence-save-world/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/bill-gates-thinks-gene-editing-artificial-intelligence-save-world/amp/",
+      "publishedDateTime": "2020-02-14T18:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/02/200214-gates1-630x420.jpg",
+          "width": 630,
+          "height": 420,
+          "title": "Why Bill Gates thinks gene editing and artificial intelligence could save the world",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-16-built-robotics-to-unveil-autonomous-construction-equipment-at-trade-show.md",
+      "title": "Built Robotics to unveil autonomous construction equipment at trade show",
+      "excerpt": "The company’s technology transforms existing construction equipment — including excavators, bulldozers, and skid steers — into fully autonomous robots. Built said its artificial intelligence guidance systems can be installed on existing equipment from any manufacturer, while still maintaining complete manual operation capabilities.",
+      "heat": 93,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.therobotreport.com/built-robotics-unveil-autonomous-constructioon-equipment-trade-show/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-16T08:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2020/02/Built_Robotics_1-1024x576.jpeg",
+          "width": 1024,
+          "height": 576,
+          "title": "Built Robotics to unveil autonomous construction equipment at trade show",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-16-eu-fights-for-purpose-in-grand-plan-for-tech-ai-rules.md",
+      "title": "EU Fights For ‘Purpose’ in Grand Plan for Tech, AI Rules",
+      "excerpt": "China might have data and the U.S. might have money, but Europe has purpose. That’s the message European Union tech czar Margrethe Vestager aims to convey on Wednesday when she unveils plans to help the bloc compete with the U.",
+      "heat": 117,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-02-16/eu-to-launch-grand-plan-on-ai-tech-in-challenge-to-u-s-china",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-02-16/eu-to-launch-grand-plan-on-ai-tech-in-challenge-to-u-s-china",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-02-16/eu-to-launch-grand-plan-on-ai-tech-in-challenge-to-u-s-china",
+      "publishedDateTime": "2020-02-16T15:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

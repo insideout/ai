@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Columbus halts self-driving shuttle pilot program following sudden stop; NHTSA steps in"
-excerpt: "A passenger falling aboard a self-driving shuttle as part of a pilot program in Columbus has put the project on hold less than three weeks after it began. The daily shuttle service in the Linden neighborhood in Columbus, Ohio, was halted after one of the pilot's vehicles made a sudden stop around noon Thursday, Feb. 20. One passenger fell from ..."
-publishedDateTime: 2020-02-25T20:00:00Z
-webUrl: "https://www.autonews.com/mobility-report/columbus-halts-self-driving-shuttle-pilot-program-following-sudden-stop-nhtsa-steps"
+title: "Self-driving shuttle services halted after sudden stop causes injury"
+excerpt: "Sixteen self-driving shuttles operated by French firm EasyMile in 10 U.S. states have been ordered to temporarily halt their passenger services after one of them suddenly and unexpectedly activated its brakes, resulting in injuries to one of the riders. As a precautionary measure, the National Highway Traffic Safety Administration (NHTSA ..."
+publishedDateTime: 2020-02-26T06:45:00Z
+webUrl: "https://www.digitaltrends.com/cars/self-driving-shuttle-services-halted-after-passenger-injury/"
+ampWebUrl: "https://www.digitaltrends.com/cars/self-driving-shuttle-services-halted-after-passenger-injury/?amp"
+cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/self-driving-shuttle-services-halted-after-passenger-injury/?amp"
 type: article
-quality: 16
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Automotive News
-  domain: autonews.com
+  name: Digital Trends
+  domain: digitaltrends.com
+  images:
+    - url: "/assets/images/organizations/digitaltrends.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
   - AI in Autos
-
-images:
-  - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/SMART-Columbus-MAIN_i.jpg"
-    width: 800
-    height: 600
-    title: "Columbus halts self-driving shuttle pilot program following sudden stop; NHTSA steps in"
 
 related:
   - title: "U.S. agency suspends self-driving shuttle EasyMile in 10 U.S. states"
@@ -52,17 +52,6 @@ related:
       - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
         width: 1200
         height: 630
-  - title: "Self-driving shuttle services halted after sudden stop causes injury"
-    excerpt: "Sixteen self-driving shuttles operated by French firm EasyMile in 10 U.S. states have been ordered to temporarily halt their passenger services after one of them suddenly and unexpectedly activated its brakes, resulting in injuries to one of the riders. As a precautionary measure, the National Highway Traffic Safety Administration (NHTSA ..."
-    publishedDateTime: 2020-02-26T06:45:00Z
-    webUrl: "https://www.digitaltrends.com/cars/self-driving-shuttle-services-halted-after-passenger-injury/"
-    ampWebUrl: "https://www.digitaltrends.com/cars/self-driving-shuttle-services-halted-after-passenger-injury/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/self-driving-shuttle-services-halted-after-passenger-injury/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 54
   - title: "Linden self-driving shuttle out of service after woman said she was thrown from seat"
     excerpt: "COLUMBUS (WCMH) — The Linden self-driving shuttle is out of operation after a person fell on that shuttle just yesterday. Since this shuttle has been put into action on Feb. 5, Smart Columbus has recorded around 50 people riding the shuttle around the Linden area and no problems. Both of the shuttles are sitting in a garage until shuttles ..."
     publishedDateTime: 2020-02-22T00:21:00Z
@@ -154,6 +143,19 @@ related:
       name: Leader-Post
       domain: leaderpost.com
     quality: 19
+  - title: "Columbus halts self-driving shuttle pilot program following sudden stop; NHTSA steps in"
+    excerpt: "A passenger falling aboard a self-driving shuttle as part of a pilot program in Columbus has put the project on hold less than three weeks after it began. The daily shuttle service in the Linden neighborhood in Columbus, Ohio, was halted after one of the pilot's vehicles made a sudden stop around noon Thursday, Feb. 20. One passenger fell from ..."
+    publishedDateTime: 2020-02-25T20:00:00Z
+    webUrl: "https://www.autonews.com/mobility-report/columbus-halts-self-driving-shuttle-pilot-program-following-sudden-stop-nhtsa-steps"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 16
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/SMART-Columbus-MAIN_i.jpg"
+        width: 800
+        height: 600
   - title: "Columbus self-driving shuttle pilot program halted after 3 weeks following sudden stop"
     excerpt: "A passenger falling aboard a self-driving shuttle as part of a pilot program in Columbus has put the project on hold less than three weeks after it began. The daily shuttle service in the Linden neighborhood in Columbus, Ohio, was halted after one of the pilot's vehicles made a sudden stop around noon Thursday, Feb. 20. One passenger fell from ..."
     publishedDateTime: 2020-02-25T20:00:00Z
@@ -168,6 +170,6 @@ related:
         width: 792
         height: 416
 
-secured: "nhJQfUyHK4TY1mwOvrOiRVhHD2Efbay53LYsVIjqKzRIX59gmn02Gt7Zhu/f7GHsXZvUS0Wwham7ip7utouQFdEzk799LLYoMcPUNFhnuL/ST3n8VyG8pn3EGAaGxt+uaGboO8qxRi0+o2VufA9qrIF+jMz/cOlLrAuopdT1m3ab8bLevkzcScy9lU2hQfIrq+xgH+x6swH7KzDhVSMVmpkQmak3PpcBwWnF8djl2Puk1uw0XEfQMrqbZM5u880fTMbp4betdU/U1fv978YhWgV3v8EZyJXkbJR2sqXKq7XU3Mayu0qsgNdEAlNQl9xVF0Zod1Pz65Okt68/4f2GPWiF7zvXQamgx3M/v/cNjVoFgsoYFAv+VRrJZBbdGUVuTXxyYN8o7mGxBYlnfnvRvzdDu7yTWNS56x/bNwrPzsTT5aD0vQuF6KT1dYnl5nW3GVqOUYfKTHZYDtxZmmZ9i3In+6rv3OnnP2I5+NRVO4Y=;JkWJotmkJOBkTuYrSRpxLg=="
+secured: "X7QdH3muCH/FfJzuZyXnMOgvnqHVSkrw2+gL8g2EMhk0Sk+BsbkANgERQKsAXNud1EXxVJSL3hkF3xQvhlzlxl4zpTunDadYQVbErZB3de8XcguAdZuRxGsck7EeQUwjzTapAbt8tcdjVkj2A/7radgP7YstFfpgWopQf9STFPKqP0hqzWhDcLZ1jlAynzBN+43bLph5XvgGZsFr5IZiuU07kjPqRrBeXf6ff7iib4Rf155LFw9HUMdKL4kw37QhcEHPDpBxfuF3SzZ3lBQG5d4VPNYCCCJQkHcKkdMv0+h2zv9gOGnfIWpYBgVwtuqGTkzOJgWW4p2d2dCvUgwLoF2FZIqOIB5MKdiUNVIPCgkW3YfZNTJzYbF1HEhtBwrGgDONAnSdutVANmmoBua96J69Y2GxYkt9C4ef6VvVN0mjkdtaw4roY1A7u8QW3NkA+RSl7+axHXdT+hqj1N7nVabV983kk63DSPP1u6I4oGE=;BgquIHzGPrAeGX1NHSs0GA=="
 ---
 

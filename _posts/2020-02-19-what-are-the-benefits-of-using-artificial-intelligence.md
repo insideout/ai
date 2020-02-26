@@ -38,19 +38,6 @@ related:
       - url: "https://mybroadband.co.za/news/wp-content/uploads/2018/05/AI-in-business.jpg"
         width: 640
         height: 430
-  - title: "Are you ready to do business in the AI era?"
-    excerpt: "There is a gap between what executives want and their organization’s readiness for business based on AI culture. On the path of strategy development, executives and other business leaders often do not know how and where to start introducing AI to their companies, what changes to the business culture need to be made, and how to build an AI ..."
-    publishedDateTime: 2020-02-23T16:53:00Z
-    webUrl: "https://news.microsoft.com/en-cee/2020/02/23/are-you-ready-to-do-business-in-the-ai-era/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 37
-    images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/566/2020/02/Serbia_Microsoft-AI-Busines-School_1.jpg"
-        width: 2000
-        height: 1333
 
 secured: "phXh3u3ruTMl8so+yFyRn3DmlbKendwsJm8CiP8jKZ8M5oz4bG0h3MJid/qj4g/wOqqWzMhKEvBkCeEk+zZ/wz7lTlPUiKlcPhIvGOnWTCWRVrnzB0T8AposIVAqgRJ+8e6uFKU2UV+ZwBsKo8SJe6Hw5o8FF1xFWfBWrc0+UYBHRXKsR39D+Yh9AxT+rswme6TrFgPF/xzVAZcqOueG+ysru8oLpYDT6HswjFoivqZ7E6JMR2bnbxYZ7pXdKnxH7It1wB4/rfASSxa9xSGiPFaedfH8edg+PgNBxrpbnqJPXkdjIO4jlzvPjYwueizI4ZSp7PaOznl1jk3Al9vsd58smENteFy0k6TX1cS5D7apu2aQs2y++rTILId1D+xRhTIBdJ58Z1K0AEDtFh7ZDs3azKTIS49yNMPIXqmDm5TCttwOSE0iszh+/Hb5RS1QanhnYW8k6rh1VlmdMi3gSHhE/CVmEBSozsvjHWjhU5w=;/L/Poi7K6IT7SjEuTmrRbA=="
 ---

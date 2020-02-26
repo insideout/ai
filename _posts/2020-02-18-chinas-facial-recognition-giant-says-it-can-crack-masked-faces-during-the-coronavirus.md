@@ -8,7 +8,7 @@ ampWebUrl: "https://qz.com/1803737/chinas-facial-recognition-tech-can-crack-mask
 cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/1803737/chinas-facial-recognition-tech-can-crack-masked-faces-amid-coronavirus/amp/"
 type: article
 quality: 166
-heat: 296
+heat: 286
 published: true
 
 provider:
@@ -60,21 +60,6 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/100978289-135627372r.jpg?v=1582293185"
         width: 2000
         height: 1325
-  - title: "New Jersey’s former attorney general on Ring cameras and facial recognition"
-    excerpt: "And it is a little creepy. That’s not the technical legal term for it. But there’s a way in which, when you think about some of what China’s doing with facial recognition, and trying to basically, literally, track people in communities, you could see where it could end. And one of the things about Ring is that, what has been fascinating ..."
-    publishedDateTime: 2020-02-11T13:00:00Z
-    webUrl: "https://www.theverge.com/2020/2/11/21120372/anne-milgram-ring-cameras-facial-recognition-policing-vergecast-podcast"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2020/2/11/21120372/anne-milgram-ring-cameras-facial-recognition-policing-vergecast-podcast"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/11/21120372/anne-milgram-ring-cameras-facial-recognition-policing-vergecast-podcast"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 87
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/1w7EjZRDn4rDOY8DsJ_aggz42gg=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66290964/jbareham_170417_1617_0001.0.jpg"
-        width: 1400
-        height: 933
   - title: "Chinese subways are using artificial intelligence facial recognition scanners to help detect whether people have coronavirus"
     excerpt: "In Beijing, China, artificial intelligence and other temperature-detection measures are being ratcheted up."
     publishedDateTime: 2020-02-11T17:44:00Z

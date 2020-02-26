@@ -5,8 +5,8 @@ excerpt: "TensorFlow Lite is a set of tools to help developers run TensorFlow mo
 publishedDateTime: 2020-02-07T20:07:00Z
 webUrl: "https://medium.com/analytics-vidhya/tensorflow-lite-on-android-4ba47742a67f"
 type: article
-quality: 49
-heat: 49
+quality: 69
+heat: 69
 published: false
 
 provider:
@@ -21,6 +21,12 @@ topics:
   - AI
   - Google AI
 
-secured: "pujh5zAuPc556N2Srt6F2TwoTFhakXKA/EweYDh3qiddOXvCUBFggKrl4sYMGuyai+zMHrcFkC9rIccWCZOwDCg7OdqThwjcoT1VqbsArXQCTDu4urvsV7EBy0e3wHGZC+/bNW8NGkAZuIrntsneAI1e8VQY+2U+Z7IW1BT1ex4E3nIEMvar5cO3x2GhTQl7Qsgd7fQbmW869pjAQ9MSHYwCHsdQBaL5T4OKnF3yYgWF0XCz7vj+KfAL1EpMJGrvBdEfe1eI+MPqouRpyclZ4HybogAwZ1j9IRRsWfWuSLD4pWocj53Em9p6Q4wFYm+s;Wn1YJRnTMr0i6ly56kgt7A=="
+images:
+  - url: "https://miro.medium.com/max/384/1*ULJO3_AH-tomcl-NoOCtlw.jpeg"
+    width: 384
+    height: 512
+    title: "TensorFlow Lite on Android"
+
+secured: "uWVC/DjXYDYObbmxMAP/cwA/rKPm5t1QIlg+z85u+Gx0e8M8QH3wzxL+PJ4VxTb/hWOgxPrryRvkaNzVGWUgxaiXq/RYId9FkKKaUrtgi2Ov3qIXJFwfAvKQixsB7E3vhuer4vGGyBygufNw6xmAPZ4FAi8xo4KeK3ZN1A8bpafos44e8EVtsgFZ++g2EoWQTLg+nb9T1UAu4OzAULDFv9gTGRmWItfNyIUL35odhM+s6UJgDU5mLhGHkCq+iDG/4IvslUgagNRMoi24lwTdZhNmcEqF4Cvmy78MRDJL2xLQs02jHhIg9d2+EOrHMVTB;I69Cd1n5kdOG/G09k/YoNQ=="
 ---
 
