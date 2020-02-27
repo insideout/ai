@@ -89,6 +89,21 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/02/GettyImages-940967998.jpg?fit=1590%2C893&strip=all"
         width: 1590
         height: 893
+  - title: "K Health raises $45 million to apply AI to telemedicine"
+    excerpt: "But Block asserts that K Health’s AI-driven approach, combined with its proprietary medical knowledge database, gives it a leg up. K Health’s smartphone app, K — which Bloch claims has more than 1.3 million members, growing at a rate of 10,000 to 15,000 new users a day — facilitates in-app visits from a roster of doctors with whom K ..."
+    publishedDateTime: 2020-02-27T14:09:00Z
+    webUrl: "https://venturebeat.com/2020/02/27/k-health-raises-45-million-to-apply-ai-to-telemedicine/"
+    ampWebUrl: "https://venturebeat.com/2020/02/27/k-health-raises-45-million-to-apply-ai-to-telemedicine/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/27/k-health-raises-45-million-to-apply-ai-to-telemedicine/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2018/07/M62YVotw-e1582302813917.png?fit=1200%2C600&strip=all"
+        width: 1200
+        height: 600
   - title: "Driverless car startup Pony.ai raises $462 million at a $3 billion valuation"
     excerpt: "In a sign that investors’ enthusiasm for driverless cars hasn’t dampened yet, Pony.ai today secured a whopping $462 million in fresh funding, $400 million of which came from Toyota. The capital infusion brings the Guangzhou- and Fremont, California-based startup’s total raised to about $800 million at a valuation north of $3 billion (up ..."
     publishedDateTime: 2020-02-26T03:00:00Z

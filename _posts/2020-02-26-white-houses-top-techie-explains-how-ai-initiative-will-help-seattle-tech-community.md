@@ -7,8 +7,8 @@ webUrl: "https://www.geekwire.com/2020/white-houses-top-techie-explains-ai-initi
 ampWebUrl: "https://www.geekwire.com/2020/white-houses-top-techie-explains-ai-initiative-will-help-seattle-tech-community/amp/"
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/white-houses-top-techie-explains-ai-initiative-will-help-seattle-tech-community/amp/"
 type: article
-quality: 82
-heat: 82
+quality: 182
+heat: 182
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 437
     title: "White House’s top techie explains how AI initiative will help Seattle tech community"
 
-secured: "JagyKmW7RgA54z56IzOUYf9PdW0LAD5m52Y3nAbKi0djc+UMSWZGAHongvWPQr5GZlW1oEMD1OMYlflfaZ1+ovllKYmTfz1/zm6Olk7gE32eKKNxOsUO6xsVeEhEldxg/G9BCH7Fxg97QOYPmCPY7Ldj1uPKTfu0tmD3hCj1+qJ2SkZGPwAn7e6pGpgY8bxvdWSLwbYDdGcb1x/RD5aPrO5DQovqXrySjN6Ue/x8vMYwK5Q7Sw/eIfgCNggOdf57FinSddro/3U0kiB9QIzTsCgmfG/rSZj1o3p1G/p8WEgbgNqdP4ZHpWaq4w0ny3oFpZm/OqibKJ9vfA+LMqHol/9gXXQ5Yvpst349raUnzTtuBW8ce2vIsdGbaA7bYyvl7K7+7YocBJJ1RwRg2xhuA2P+vPXHboPasDBmH6+hPFhE66yN8KgbMMrkcFULJS5ipBvi5ycy+Ex1auokSL2XGKYw3Gmj1tBwQFyPqJ5BuYw=;sbp4no14oW+PSDjXXxhTrA=="
+secured: "t6VLy73t0Vtc/F+EUcE8RxyEtt4bv9Gvdp5TtzLcQopcpTeBi1Op/Qeun3YuJSH4uDne9/a/M3w1bBOuVbAmOzetijWMT3mXQxCnei9xw3rN0uDzntJudMrHmOP4J5kbMwrlBlIigsEUfOX8gffVZp70l+gXQyRieprF2SxDieNr52CRwze1YqW1ftiZN8OOojkkr7g9fvI4QOvMdHhUBWZkUeBf0jhFoL6EVhCz05JpUX3VQHnSq+FBCyXrAkTWYRZTQGW/4YAVSQEw++mi/toF63dBzekZN4t4hJVhLx1hpDA2ueydLTK1nlGMN1U4M0r31QPZTd0b6KfOpDA5n+i+aiWFIJuJNJnAVhrL7uB0dkxrEjjKOyFH5Zt5ib2acca2QEjRwYcLzQ92reZjH1K666EOahENzgmvzZa8Q6vd2Ysm5FnOmE5QLOgMS+BRJ/ePvKRvBgklbMuM9yZHvaGkXP2tj1oFwCsDt49KYdRrmHKGl2EDLPvhkyZ9jJxt;nwjfAre04Y1U52LqkRhuBQ=="
 ---
 

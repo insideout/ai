@@ -24,105 +24,64 @@ images:
     title: "Consumer Technology Association creates standard for AI in healthcare"
 
 related:
-  - title: "AI Is Top Game-Changing Technology In Healthcare Industry"
-    excerpt: "Of the many ingredients that go into quality healthcare, comprehensive patient data is close to the top of the list. No one knows this more than Mayur Saxena, CEO and founder of Droice Labs. Saxena created his startup while he was pursuing his doctorate degree at Columbia University,"
-    publishedDateTime: 2020-02-19T14:15:00Z
-    webUrl: "https://www.forbes.com/sites/sap/2020/02/19/ai-is-top-game-changing-technology-in-healthcare-industry/"
-    ampWebUrl: "https://www.forbes.com/sites/sap/2020/02/19/ai-is-top-game-changing-technology-in-healthcare-industry/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2020/02/19/ai-is-top-game-changing-technology-in-healthcare-industry/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e42ad9ef133f400076c28a0%2F0x0.jpg"
-        width: 500
-        height: 500
-  - title: "How AI Can Live Up To Its Hype In The Healthcare Industry"
-    excerpt: "Because tech companies too often fail to prioritize human needs over business interests, medicine’s most-hyped AI applications have failed, repeatedly, to move the needle on public health, patient safety or healthcare costs."
-    publishedDateTime: 2020-02-24T15:57:00Z
-    webUrl: "https://www.forbes.com/sites/robertpearl/2020/02/24/ai-hype/"
-    ampWebUrl: "https://www.forbes.com/sites/robertpearl/2020/02/24/ai-hype/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robertpearl/2020/02/24/ai-hype/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e505188765d4500072ce883%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3840%26cropY1%3D0%26cropY2%3D2160"
-        width: 1200
-        height: 675
-  - title: "Humanity In Focus: Five Predictions For The Healthcare Industry In 2020"
-    excerpt: "In 2020, the pendulum will swing back and put the emphasis where it belongs: on using technology to improve the lives of others."
-    publishedDateTime: 2020-02-14T13:32:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/02/14/humanity-in-focus-five-predictions-for-the-healthcare-industry-in-2020/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/02/14/humanity-in-focus-five-predictions-for-the-healthcare-industry-in-2020/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/14/humanity-in-focus-five-predictions-for-the-healthcare-industry-in-2020/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/941446382/960x0.jpg?fit=scale"
-        width: 711
-        height: 474
-  - title: "The top 5 technologies that will change health care over the next decade"
-    excerpt: "Dr. Beralan Mesko, aka The Medical Futurist, says with advancements in exoskeleton technology, AI’s ever-increasing importance in health care,"
-    publishedDateTime: 2020-02-24T14:48:00Z
-    webUrl: "https://www.marketwatch.com/story/the-top-5-technologies-that-will-change-health-care-over-the-next-decade-2020-02-24"
-    ampWebUrl: "https://www.marketwatch.com/amp/story/guid/626A6AC2-5713-11EA-BF64-5AC3A6D77C0D"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/guid/626A6AC2-5713-11EA-BF64-5AC3A6D77C0D"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 75
-    images:
-      - url: "https://s.marketwatch.com/public/resources/images/MW-IA016_0220_b_ZH_20200210155254.jpg"
-        width: 890
-        height: 501
-  - title: "3 ways AI is transforming the insurance industry"
-    excerpt: "Natural language processing, the science of helping computers understand and draw value from unstructured text, is a hot area of research and has seen tremendous progress in recent years. The insurance sector, which is laden with textual data, has benefitted immensely from advances in NLP. Insurers have been able to leverage language models to ..."
-    publishedDateTime: 2020-02-24T19:54:00Z
-    webUrl: "https://thenextweb.com/growth-quarters/2020/02/24/3-ways-ai-is-transforming-the-insurance-industry/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 69
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/growth-quarters?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2020%2F02%2FUntitled-design-6.jpg&signature=ed8ea774369febe805bd7544cb4a3eee"
-        width: 1200
-        height: 600
-  - title: "AI in healthcare: 5 big updates in the past 60 days"
-    excerpt: "Artificial intelligence is making its way into the healthcare space, with big tech partnerships and investments leading the way. Here are five AI updates from around the healthcare industry. 1. Microsoft launched its $40 million AI for Health initiative on ..."
-    publishedDateTime: 2020-02-18T17:53:00Z
-    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/ai-in-healthcare-5-big-updates-in-the-past-60-days.html"
+  - title: "AMA, Google & 50 more health IT leaders unveil standard for AI in healthcare"
+    excerpt: "A working group of 52 healthcare and tech organizations convened by the Consumer Technology Association released on Feb. 25 a common framework for the development and use of artificial intelligence technology in healthcare. The set of 11 definitions and characteristics is the first standard regarding the use of AI in healthcare to be accredited ..."
+    publishedDateTime: 2020-02-25T22:00:00Z
+    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/ama-google-50-more-health-it-leaders-unveil-standard-for-ai-in-healthcare.html"
     type: article
     provider:
       name: Becker's Hospital Review
       domain: beckershospitalreview.com
-    quality: 54
+    quality: 151
     images:
       - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/3.jpg"
         width: 400
         height: 300
-  - title: "AI in Healthcare Market By Offering, By Technology, By Region – Trends, Analysis, and Forecast Till 2030"
-    excerpt: "The research study on Global AI in Healthcare market 2019 presents an extensive analysis of current AI in Healthcare market size, drivers, trends, opportunities, challenges, as well as key AI in Healthcare market segments."
-    publishedDateTime: 2020-02-17T07:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-healthcare-market-by-offering-by-technology-by-region-trends-analysis-and-forecast-till-2030-2020-02-17"
+  - title: "AI Improves Healthcare? 91% Of Healthcare Executives Say It Does"
+    excerpt: "... Taiwanese civic participation and more general investigations into how fake news stories travel across Facebook’s platform [WSJ] Funding for AI startups globally rose to a record $27 billion in 2019, a significant increase over the amounts raised ..."
+    publishedDateTime: 2020-02-21T17:58:00Z
+    webUrl: "https://www.forbes.com/sites/gilpress/2020/02/21/ai-improves-healthcare-91-of-healthcare-executives-say-it-does/"
+    ampWebUrl: "https://www.forbes.com/sites/gilpress/2020/02/21/ai-improves-healthcare-91-of-healthcare-executives-say-it-does/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2020/02/21/ai-improves-healthcare-91-of-healthcare-executives-say-it-does/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
+      name: Forbes
+      domain: forbes.com
+    quality: 91
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e50147b7a0098000733e9a9%2F0x0.jpg"
         width: 1200
-        height: 630
+        height: 800
+  - title: "MoHAP organizes the 1st Conference on Artificial Intelligence in Healthcare"
+    excerpt: "The Ministry of Health and Prevention, MoHAP, recently organized the 1st Conference on Artificial Intelligence in Healthcare, as part of its activities in the “UAE Innovation Month – February 2020” with the aim of exploring the future of artificial intelligence-based healthcare, focusing on technology applications in healthcare and best ..."
+    publishedDateTime: 2020-02-27T09:13:00Z
+    webUrl: "https://www.zawya.com/mena/en/press-releases/story/MoHAP_organizes_the_1st_Conference_on_Artificial_Intelligence_in_Healthcare-ZAWYA20200227083001/"
+    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20200227083001/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200227083001/"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 72
+    images:
+      - url: "https://www.zawya.com/resources/img/zawya-logo-en-social.png"
+        width: 1200
+        height: 878
+  - title: "Nation’s largest insurer invests in Waltham healthcare AI startup"
+    excerpt: "A venture capital firm tied to the largest health insurer in the U.S., UnitedHealth Group, has invested in a local startup working to avoid unnecessary drug costs. Optum Ventures contributed an undisclosed amount to Scipher Medicine’s expanded $30 million Series B round,"
+    publishedDateTime: 2020-02-20T16:42:00Z
+    webUrl: "https://www.bizjournals.com/boston/news/2020/02/20/vc-tied-to-nation-s-largest-insurer-invests-in.html"
+    ampWebUrl: "https://www.bizjournals.com/boston/news/2020/02/20/vc-tied-to-nation-s-largest-insurer-invests-in.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/boston/news/2020/02/20/vc-tied-to-nation-s-largest-insurer-invests-in.amp.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 57
+    images:
+      - url: "https://media.bizj.us/view/img/11608686/story-05*600xx1049-699-126-0.jpg"
+        width: 600
+        height: 399
   - title: "Health care in 2030: Artificial intelligence helping people get better healthcare"
     excerpt: "Artificial intelligence may help in any diagnosis because it can scan millions of medical patterns and offer doctors possible causes of why you aren't feeling well."
     publishedDateTime: 2020-02-21T14:08:00Z
@@ -136,47 +95,6 @@ related:
       - url: "https://media.kgw.com/assets/KGW/images/cf0b54f0-4b61-4a63-8c2b-90fb5755a70d/cf0b54f0-4b61-4a63-8c2b-90fb5755a70d_1140x641.jpg"
         width: 1140
         height: 641
-  - title: "Big Data With Big Payoff — How The Healthcare Industry Is Embracing AI To Help Save Lives"
-    excerpt: "Artificial intelligence (AI) initiatives are supposed to enable us to reinvent how ... One industry is taking the lead on leveraging Big Data to make AI work and is blazing a trail that others can follow. An IDC-Seagate study found that the healthcare “datasphere” is one of the fastest growing—with a 36 percent Compound Annual Growth ..."
-    publishedDateTime: 2020-02-20T20:46:00Z
-    webUrl: "https://www.healthitoutcomes.com/doc/big-data-with-big-payoff-how-the-healthcare-industry-is-embracing-ai-to-help-save-lives-0001"
-    type: article
-    provider:
-      name: HealthITOUTCOMES
-      domain: healthitoutcomes.com
-    quality: 45
-    images:
-      - url: "https://vertassets.blob.core.windows.net/image/b61ec6d6/b61ec6d6-3bd5-4eb2-a2ec-0e9423fa3414/375_250-big_data.jpg"
-        width: 375
-        height: 249
-  - title: "How technology is changing the future of higher education"
-    excerpt: "Cruising to class in her driverless car, a student crams from notes projected on the inside of ... using everything from blockchain networks to computer simulations to artificial intelligence, or AI. Theirs is not a future of falling enrollment, financial challenges and closing campuses. It’s a brighter world in which students subscribe ..."
-    publishedDateTime: 2020-02-24T00:07:00Z
-    webUrl: "https://www.orlandosentinel.com/featured/sns-nyt-technology-changing-future-higher-education-20200223-d6gquhklcrcitobiuuhfktwyeq-story.html"
-    ampWebUrl: "https://www.orlandosentinel.com/featured/sns-nyt-technology-changing-future-higher-education-20200223-d6gquhklcrcitobiuuhfktwyeq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-orlandosentinel-com.cdn.ampproject.org/c/s/www.orlandosentinel.com/featured/sns-nyt-technology-changing-future-higher-education-20200223-d6gquhklcrcitobiuuhfktwyeq-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Orlando Sentinel
-      domain: orlandosentinel.com
-    quality: 44
-    images:
-      - url: "https://www.orlandosentinel.com/resizer/xE1k5NBEL3qZ5mxQ073yIs4gVsc=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/2C4HNKSUDZEH5DBKS2XBQVJOSY.jpg"
-        width: 1200
-        height: 800
-  - title: "Top AI Ted Talks to Watch for Acquiring Better Technology Outlook"
-    excerpt: "Technologist Kriti Sharma explores how the lack of diversity in tech is creeping into our AI, offering three ways we can start making more ethical algorithms. Matt Beane does field research on work involving robots to help us understand the implications of intelligent machines for the broader world of work. Any of his projects mean many ..."
-    publishedDateTime: 2020-02-22T05:38:00Z
-    webUrl: "https://www.analyticsinsight.net/top-ai-ted-talks-watch-acquiring-better-technology-outlook/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 39
-    images:
-      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/02/Top-AI-Ted-Talks-to-Watch-for-Acquiring-Better-Technology-Outlook.png"
-        width: 1640
-        height: 860
   - title: "5 technologies predicted to change healthcare over next 10 years"
     excerpt: "He published his predictions in a MarketWatch report. Here are the five biggest themes for healthcare IT: 1. Artificial intelligence in medicine. While Google and other technology companies will continue developing machine learning and AI tools to help clinicians diagnois patients more quickly, in the next decade, AI will also be used to help ..."
     publishedDateTime: 2020-02-25T15:12:00Z
@@ -203,15 +121,33 @@ related:
       - url: "https://img.washingtonpost.com/wp-apps/imrs.php?src=https%3A%2F%2Fpalomaimages.washingtonpost.com%2Fprod%2FNV-entrancepollssinglepayer_tstmp_1582513280.jpg&w=908"
         width: 908
         height: 346
-  - title: "AI in the Manufacturing Sector Market Analysis to 2025 | New Technologies Transforming the Global Industry"
-    excerpt: "The hardware segment will continue dominating the AI in the manufacturing sector market on account of the increasing demand for AI processors across several industry verticals. Considering the AI processors,"
-    publishedDateTime: 2020-02-18T10:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-the-manufacturing-sector-market-analysis-to-2025-new-technologies-transforming-the-global-industry-2020-02-18"
+  - title: "Artificial intelligence and healthcare professional education: superhuman resources for health?"
+    excerpt: "So it is no surprise that artificial intelligence has also been suggested as a solution to problems in healthcare and healthcare professional education.3 It has even been suggested as a means by which healthcare professional education might be unnecessary. After all, if you have intelligent machines that can do the job of human beings ..."
+    publishedDateTime: 2020-02-22T13:09:00Z
+    webUrl: "https://pmj.bmj.com/content/96/1133/121"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 29
+      name: BMJ
+      domain: bmj.com
+    quality: 22
+  - title: "CTA develops first standard for AI terminology in health care"
+    excerpt: "The Consumer Technology Association (CTA) said it has developed the first standard for the use of artificial intelligence in health care, as accredited by the American National Standards Institute (ANSI). The standard includes 11 definitions and characteristics, providing a framework for understanding AI terminology so that people, companies ..."
+    publishedDateTime: 2020-02-26T13:52:00Z
+    webUrl: "https://www.telecompaper.com/news/cta-develops-first-accredited-standard-for-use-of-ai-terminology-in-health-care--1328185"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 19
+  - title: "The Future of Artificial Intelligence in Healthcare"
+    excerpt: "There are numerous applications of AI on the market today or awaiting approval that can improve patient care and potentially save lives. Those applications involve pattern recognition, robotics and natural language processing, which includes speech recognition and translation. Machine learning, a “technique that trains software algorithms to ..."
+    publishedDateTime: 2020-02-26T22:38:00Z
+    webUrl: "https://healthtechmagazine.net/article/2020/02/future-artificial-intelligence-healthcare"
+    type: article
+    provider:
+      name: HealthTech
+      domain: healthtechmagazine.net
+    quality: 19
 
 secured: "1vZUOgB2ITWMmWXg993sjLXeSDjMWa9hFjMt+y1QSS8rRjjKVVSrcDpyv5xne/lJGDlmsqCYbXU6owEpH/RymheYynsfrFH8oad8o4Ji0dYvmY6v/W5OUJLxiqrgM9DOVhDsTSWKu9aSXT9Fpiy4hQQdpKOpdwxjNF/Cz4AkzaZn7U0cKjKRhkxrSUXSXAHQudp1lNUOEgJr+7mLAjPTlf/DfksS6H7RI4LXpWdmLe3psJuxB6VQxDDfQe7IYNquw1gYv/z5z3nRBnugLfBaWtl8/SDqOJCjB3Dh/QpEGYXmmqBvIw+h852kDKkw/v4R+3xveDyV+eX9UD7ySxm2U4JJL1wIFifyQKM7LA/EViv1jXvd0m9gA4gNttOgRj1+9RDJtXoHaK7tl5JisMROTIQDI8TcDpfManLyBninpEGdyvyzsuP7jE6GxapysY7hDVOY/Xyur0N6Vu7FD38m7OoJqCOWNHP4onNeGv+tsmg=;/skBs1QHUY5MuJVZIIY0MQ=="
 ---

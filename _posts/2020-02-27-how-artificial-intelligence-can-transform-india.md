@@ -49,6 +49,19 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/qfATwf5qVcGjMLuAaDkwx6-1200-80.jpg"
         width: 1000
         height: 666
+  - title: "The Potential of AI in the Healthcare Supply Chain"
+    excerpt: "There’s no shortage of enthusiasm — or predictions — about the potential use of artificial intelligence (AI ... that 2020 is the year executives will focus on how to drive and measure the value of their investments in AI. Healthcare is no exception. A recent survey of healthcare executives conducted by Optum found that not only is ..."
+    publishedDateTime: 2020-02-24T15:53:00Z
+    webUrl: "https://www.supplychainbrain.com/blogs/1-think-tank/post/30899-realizing-the-potential-of-ai-in-the-healthcare-supply-chain"
+    type: article
+    provider:
+      name: Supply Chain
+      domain: supplychainbrain.com
+    quality: 54
+    images:
+      - url: "https://www.supplychainbrain.com/ext/resources/0-images/article-images/2020/0224_PotentialofAIinHealthcare.jpg?height=635&t=1582520107&width=1200"
+        width: 847
+        height: 635
 
 secured: "NTa/WvkrSIeTVReagFcyikQouI14sxikcGMuMqX5PFYVZA9Mju73WNDcUQCKdry0EgBEaJvoHduA064uoEQq852LSj+qYhXVX60zyjAG5ha24l/3cr1DbLhZmPEntbmfOzFjRRsBXn5xO1S7v4WZoYR6U1ImNWqKRk66IIMguaUFoBNqcgy4qnJGbOMNux191dQJrwRMkdDqohQFxVApbVmxD0LSOJ6Yk5wsopOVf4JTKd3aCPULNmLrZ7DZg401jrfSXhMGZ4RMZIBNHB+r9pZqxN2mBBRX8hvVyTAioaFY9QeyfbkRdXeMlYRAQKdxcf+J4UyVovTtIBb4IaJwsYiCAJIkodnsuwYBLJC6pHjivjKQf7tvmyXCQaLwEEzNesfK3wfH40Pze0QLoxA2KrJBk+vVwnclMBFwwro4iVi8VyGzvV2FVn8jRPJIULOABch5NrSqRHczkAr+cWOF/KTvp2gHTTMbStuKOgRE0X0=;gwuhIpdlUcGxt9WTWg61Kg=="
 ---

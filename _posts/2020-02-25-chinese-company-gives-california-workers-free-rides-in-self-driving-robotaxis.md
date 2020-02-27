@@ -86,6 +86,21 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/N114D1pvlDMlryzdxV1x335WW7g=/0x0:5196x3464/1400x933/filters:focal(2183x1317:3013x2147):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66379893/1179635788.jpg.0.jpg"
         width: 1400
         height: 933
+  - title: "In California, Which Self-Driving Cars Log the Most Miles?"
+    excerpt: "The California Department of Motor Vehicles on Wednesday released reports detailing how many times in 2019 human safety operators had to take control of self-driving vehicles being tested in the state. According to the reports, robot cars in autonomous mode drove almost 2.9 million miles on public California roads last year, up from 2.1 million ..."
+    publishedDateTime: 2020-02-27T14:00:00Z
+    webUrl: "https://www.wired.com/story/california-self-driving-cars-log-most-miles/"
+    ampWebUrl: "https://www.wired.com/story/california-self-driving-cars-log-most-miles/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/california-self-driving-cars-log-most-miles/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 74
+    images:
+      - url: "https://media.wired.com/photos/5e56c6b159c0a40008c5f789/master/pass/Transpo-waymo-976116980.jpg"
+        width: 2400
+        height: 1600
   - title: "Self-driving car companies complain California test data may mislead"
     excerpt: "(Reuters) — Developers of self-driving cars are amping up criticism of a California reporting requirement on test data, saying the data could mislead, as the state prepares to release the latest results for 2019. Companies such as General Motors’ Cruise and startup Aurora have said the metric, called disengagements, is not an accurate or ..."
     publishedDateTime: 2020-02-22T19:56:00Z

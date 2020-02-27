@@ -41,21 +41,6 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/fsANPi0bG8QdF_khCWvMci5SLag=/0x0:2720x1322/1400x933/filters:focal(1143x444:1577x878):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66375289/Photo1.0.png"
         width: 1400
         height: 933
-  - title: "Toyota saddles up for self-driving future with $400M investment into Pony.ai"
-    excerpt: "One of the world’s largest car makers, Toyota, has further demonstrated its intent on supporting self-driving vehicles. The Japanese carmaker is planning to invest $400 million into Pony.ai, a Chiense self-driving car startup that’s based across Silicon Valley in the US and Guangzhou in China, Bloomberg reports. With the latest round of ..."
-    publishedDateTime: 2020-02-27T10:04:00Z
-    webUrl: "https://thenextweb.com/hardfork/2020/02/27/toyota-400m-investment-self-driving-startup-pony-ai/"
-    ampWebUrl: "https://thenextweb.com/hardfork/2020/02/27/toyota-400m-investment-self-driving-startup-pony-ai/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/hardfork/2020/02/27/toyota-400m-investment-self-driving-startup-pony-ai/amp/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 86
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/pony.ai-self-driving-investment-money-toyota-future-cars-shift-796x448.png"
-        width: 796
-        height: 448
   - title: "UPDATE 1-Autonomous driving startup Pony.ai raises $462 mln in Toyota-led funding"
     excerpt: "Autonomous driving firm Pony.ai said on Wednesday it has raised $462 million in its latest funding round, led by an investment by Japan’s largest automaker Toyota Motor Corp. Toyota invested around $400 million in the round,"
     publishedDateTime: 2020-02-26T03:47:00Z
@@ -129,6 +114,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Toyota saddles up for self-driving future with $400M investment into Pony.ai"
+    excerpt: "One of the world’s largest car makers, Toyota, has further demonstrated its intent on supporting self-driving vehicles. The Japanese carmaker is planning to invest $400 million into Pony.ai, a Chinese self-driving car startup that’s based across Silicon Valley in the US and Guangzhou in China, Bloomberg reports. With the latest round of ..."
+    publishedDateTime: 2020-02-27T10:04:00Z
+    webUrl: "https://thenextweb.com/shift/2020/02/27/toyota-400m-investment-self-driving-startup-pony-ai/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 66
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/pony.ai-self-driving-investment-money-toyota-future-cars-shift-796x448.png"
+        width: 796
+        height: 448
   - title: "Autonomous driving start-up Pony.ai raises R7bn in Toyota-led funding"
     excerpt: "The sources added that some of Pony.ai's existing investors had joined the financing, but did not specify names. The investment by Toyota comes at a time when global carmakers, technology firms, start-ups and investors, including Tesla, Alphabet Inc's Waymo and Uber, are pouring capital into developing self-driving vehicles. Over the past two ..."
     publishedDateTime: 2020-02-26T06:20:00Z

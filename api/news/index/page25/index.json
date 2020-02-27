@@ -2,50 +2,6 @@
   "page": 25,
   "value": [
     {
-      "path": "_posts/_archive/2020-02-05-googles-ml-fairness-gym-lets-researchers-study-the-long-term-effects-of-ais-decisions.md",
-      "title": "Google’s ML-fairness-gym lets researchers study the long-term effects of AI’s decisions",
-      "excerpt": "Determining whether an AI system is maintaining fairness in its predictions requires an understanding of models’ short- and long-term effects, which might be informed by disparities in error metrics on a number of static data sets. In some cases, it’s necessary to consider the context in which the AI system operates in addition to the ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/05/googles-ml-fairness-gym-lets-researchers-study-the-long-term-effects-of-ais-decisions/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/05/googles-ml-fairness-gym-lets-researchers-study-the-long-term-effects-of-ais-decisions/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/05/googles-ml-fairness-gym-lets-researchers-study-the-long-term-effects-of-ais-decisions/amp/",
-      "publishedDateTime": "2020-02-05T14:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Google’s ML-fairness-gym lets researchers study the long-term effects of AI’s decisions",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-02-05-huami-amazfit-homestudio-start-your-immersive-fitness-at-home-in-2020.md",
       "title": "Huami Amazfit HomeStudio: Start your immersive fitness at home in 2020",
       "excerpt": "The Amazfit HomeStudio is built to offer a vision of the future of fitness with connectivity, technology, and the way AI will impact your workout. Huami CEO Wang Huang said, “at the end of 2019, Huami defined a new mission: Connect Health with Technology,” and the new Amazfit is just the start of a new decade of technology. The Amazfit ...",
@@ -2074,6 +2030,50 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-02-06-worlds-gets-10-million-to-help-enterprises-observe-their-physical-environments-with-ai.md",
+      "title": "Worlds gets $10 million to help enterprises observe their physical environments with AI",
+      "excerpt": "Worlds, whose AI helps large organizations observe their physical spaces to ensure security, safety, and productivity, has raised $10 million in a first round of funding. The Dallas-based startup uses multiple cameras to track spaces in 3D over time, providing a more reliable view of what’s happening than typical 2D security video would.",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/06/worlds-gets-10-million-to-help-enterprises-observe-their-physical-environments-with-ai/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/06/worlds-gets-10-million-to-help-enterprises-observe-their-physical-environments-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/06/worlds-gets-10-million-to-help-enterprises-observe-their-physical-environments-with-ai/amp/",
+      "publishedDateTime": "2020-02-06T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/Worlds.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Worlds gets $10 million to help enterprises observe their physical environments with AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

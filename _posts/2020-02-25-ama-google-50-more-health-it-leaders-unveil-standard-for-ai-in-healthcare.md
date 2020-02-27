@@ -5,9 +5,9 @@ excerpt: "A working group of 52 healthcare and tech organizations convened by th
 publishedDateTime: 2020-02-25T22:00:00Z
 webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/ama-google-50-more-health-it-leaders-unveil-standard-for-ai-in-healthcare.html"
 type: article
-quality: 51
-heat: -1
-published: false
+quality: 151
+heat: 251
+published: true
 
 provider:
   name: Becker's Hospital Review
@@ -39,82 +39,88 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e50147b7a0098000733e9a9%2F0x0.jpg"
         width: 1200
         height: 800
-  - title: "What to Expect from 5G in Healthcare"
-    excerpt: "Although still in its infancy, this powerful network has big potential for healthcare. Among the possibilities: transmitting large medical images, facilitating telehealth initiatives and supporting remote patient monitoring tools — as well as enabling more complex uses of artificial intelligence and augmented and virtual reality."
-    publishedDateTime: 2020-02-18T22:22:00Z
-    webUrl: "https://healthtechmagazine.net/article/2020/02/what-expect-5g-healthcare"
-    ampWebUrl: "https://healthtechmagazine.net/article/2020/02/what-expect-5g-healthcare?amp"
-    cdnAmpWebUrl: "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2020/02/what-expect-5g-healthcare?amp"
+  - title: "MoHAP organizes the 1st Conference on Artificial Intelligence in Healthcare"
+    excerpt: "The Ministry of Health and Prevention, MoHAP, recently organized the 1st Conference on Artificial Intelligence in Healthcare, as part of its activities in the “UAE Innovation Month – February 2020” with the aim of exploring the future of artificial intelligence-based healthcare, focusing on technology applications in healthcare and best ..."
+    publishedDateTime: 2020-02-27T09:13:00Z
+    webUrl: "https://www.zawya.com/mena/en/press-releases/story/MoHAP_organizes_the_1st_Conference_on_Artificial_Intelligence_in_Healthcare-ZAWYA20200227083001/"
+    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20200227083001/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200227083001/"
     type: article
     provider:
-      name: HealthTech
-      domain: healthtechmagazine.net
-    quality: 59
+      name: Zawya
+      domain: zawya.com
+    quality: 72
     images:
-      - url: "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202002/20200218_HT_Web_MonITor_5G-in-Healthcare.jpg?itok=vkBOUNjS"
-        width: 1440
-        height: 500
-  - title: "AI in healthcare: What's science and what's fiction"
-    excerpt: "Artificial intelligence has fueled our imagination ever since the term was first ... Combining all these elements reliably and for the benefit of patients isn’t a job for one company alone: In healthcare, we’re dealing with the life and hopes of patients and their families. Algorithms can’t do the job without the extensive expertise ..."
-    publishedDateTime: 2020-02-17T17:49:00Z
-    webUrl: "https://www.linkedin.com/pulse/ai-healthcare-whats-science-fiction-bernd-montag"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 58
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQE4n5iQNbuFHA/article-cover_image-shrink_720_1280/0?e=1587600000&v=beta&t=wcizOYOgfHFN8sdPEi5AGZRImgPTyUbslbQ7-IrlUUY"
-        width: 959
-        height: 720
-  - title: "The Potential of AI in the Healthcare Supply Chain"
-    excerpt: "There’s no shortage of enthusiasm — or predictions — about the potential use of artificial intelligence (AI ... that 2020 is the year executives will focus on how to drive and measure the value of their investments in AI. Healthcare is no exception. A recent survey of healthcare executives conducted by Optum found that not only is ..."
-    publishedDateTime: 2020-02-24T15:53:00Z
-    webUrl: "https://www.supplychainbrain.com/blogs/1-think-tank/post/30899-realizing-the-potential-of-ai-in-the-healthcare-supply-chain"
-    type: article
-    provider:
-      name: Supply Chain
-      domain: supplychainbrain.com
-    quality: 54
-    images:
-      - url: "https://www.supplychainbrain.com/ext/resources/0-images/article-images/2020/0224_PotentialofAIinHealthcare.jpg?height=635&t=1582520107&width=1200"
-        width: 847
-        height: 635
-  - title: "VA Embraces Artificial Intelligence To Improve Veterans’ Health Care"
-    excerpt: "He said the VA has a \"unique opportunity to help veterans\" with artificial intelligence. As the largest integrated health care system in the country, the VA has vast amounts of patient data, which is helpful when training AI software to recognize patterns and trends. Alterovitz said the health system generates about a billion medical images a year."
-    publishedDateTime: 2020-02-19T10:26:00Z
-    webUrl: "https://www.cpr.org/2020/02/19/va-embraces-artificial-intelligence-to-improve-veterans-health-care/"
-    type: article
-    provider:
-      name: Colorado Public Radio
-      domain: cpr.org
-    quality: 39
-    images:
-      - url: "https://i2.wp.com/wp-cpr.s3.amazonaws.com/uploads/2020/02/tampa_docs_1-scaled.jpg?resize=1200,600"
+      - url: "https://www.zawya.com/resources/img/zawya-logo-en-social.png"
         width: 1200
-        height: 600
-  - title: "GE Healthcare launches cyberdefense product"
-    excerpt: "As connected devices proliferate, GE Healthcare is banking that hospitals, health systems and other providers will seek the company’s help in shoring up their defenses against cyber threats. The company on Thursday unveiled a cybersecurity product that scans for cyber risks and recommends responses using a mix of artificial intelligence and ..."
-    publishedDateTime: 2020-02-20T18:37:00Z
-    webUrl: "https://medcitynews.com/2020/02/ge-healthcare-launches-cyberdefense-product/"
+        height: 878
+  - title: "Nation’s largest insurer invests in Waltham healthcare AI startup"
+    excerpt: "A venture capital firm tied to the largest health insurer in the U.S., UnitedHealth Group, has invested in a local startup working to avoid unnecessary drug costs. Optum Ventures contributed an undisclosed amount to Scipher Medicine’s expanded $30 million Series B round,"
+    publishedDateTime: 2020-02-20T16:42:00Z
+    webUrl: "https://www.bizjournals.com/boston/news/2020/02/20/vc-tied-to-nation-s-largest-insurer-invests-in.html"
+    ampWebUrl: "https://www.bizjournals.com/boston/news/2020/02/20/vc-tied-to-nation-s-largest-insurer-invests-in.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/boston/news/2020/02/20/vc-tied-to-nation-s-largest-insurer-invests-in.amp.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 57
+    images:
+      - url: "https://media.bizj.us/view/img/11608686/story-05*600xx1049-699-126-0.jpg"
+        width: 600
+        height: 399
+  - title: "Consumer Technology Association creates standard for AI in healthcare"
+    excerpt: "The Consumer Technology Association rolled out a new standard for the use of artificial intelligence in healthcare. The standard, based on discussions between more than 50 different healthcare and technology firms, will create a common foundation for new projects using these technologies. The new standard created common definitions for often ..."
+    publishedDateTime: 2020-02-25T22:52:00Z
+    webUrl: "https://medcitynews.com/2020/02/consumer-technology-association-creates-standard-for-ai-in-healthcare/"
     type: article
     provider:
       name: MedCity News
       domain: medcitynews.com
-    quality: 39
+    quality: 54
     images:
-      - url: "https://medcitynews.com/uploads/2017/08/GettyImages-578833436.jpg"
+      - url: "https://medcitynews.com/uploads/2017/07/GettyImages-545123748.jpg"
         width: 724
         height: 483
-  - title: "53% of Execs Say Healthcare Leads Artificial Intelligence Adoption"
-    excerpt: "February 18, 2020 - Fifty-three percent of healthcare executives say that the healthcare industry is ahead of most other industries in artificial intelligence adoption, according to a survey from KPMG. However, 37 percent of respondents believe that the pace at which they’re implementing artificial intelligence is too slow, mainly because of ..."
-    publishedDateTime: 2020-02-18T14:51:00Z
-    webUrl: "https://healthitanalytics.com/news/53-of-execs-say-healthcare-leads-artificial-intelligence-adoption"
+  - title: "Health care in 2030: Artificial intelligence helping people get better healthcare"
+    excerpt: "Artificial intelligence may help in any diagnosis because it can scan millions of medical patterns and offer doctors possible causes of why you aren't feeling well."
+    publishedDateTime: 2020-02-21T14:08:00Z
+    webUrl: "https://www.kgw.com/video/money/artificial-intelligence-helping-people-get-better-healthcare/283-5a7a609f-6164-4e50-b000-99abd0c53da1"
     type: article
     provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 34
+      name: KGW8
+      domain: kgw.com
+    quality: 49
+    images:
+      - url: "https://media.kgw.com/assets/KGW/images/cf0b54f0-4b61-4a63-8c2b-90fb5755a70d/cf0b54f0-4b61-4a63-8c2b-90fb5755a70d_1140x641.jpg"
+        width: 1140
+        height: 641
+  - title: "5 technologies predicted to change healthcare over next 10 years"
+    excerpt: "He published his predictions in a MarketWatch report. Here are the five biggest themes for healthcare IT: 1. Artificial intelligence in medicine. While Google and other technology companies will continue developing machine learning and AI tools to help clinicians diagnois patients more quickly, in the next decade, AI will also be used to help ..."
+    publishedDateTime: 2020-02-25T15:12:00Z
+    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/5-technologies-predicted-to-change-healthcare-over-next-10-years.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 39
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/6.jpg"
+        width: 400
+        height: 300
+  - title: "The Health 202: Artificial intelligence use is growing in the U.S. health-care system"
+    excerpt: "The use of artificial intelligence is proliferating in American health care — outpacing the development of government regulation. From diagnosing patients to policing drug theft in hospitals, AI has crept into nearly every facet of the health-care system, eclipsing the use of machine intelligence in other industries. More than half of health ..."
+    publishedDateTime: 2020-02-24T12:41:00Z
+    webUrl: "https://www.washingtonpost.com/news/powerpost/paloma/the-health-202/2020/02/24/the-health-202-artificial-intelligence-use-is-growing-in-the-u-s-health-care-system/5e52f13188e0fa632ba81ec7/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 32
+    images:
+      - url: "https://img.washingtonpost.com/wp-apps/imrs.php?src=https%3A%2F%2Fpalomaimages.washingtonpost.com%2Fprod%2FNV-entrancepollssinglepayer_tstmp_1582513280.jpg&w=908"
+        width: 908
+        height: 346
   - title: "Artificial intelligence and healthcare professional education: superhuman resources for health?"
     excerpt: "So it is no surprise that artificial intelligence has also been suggested as a solution to problems in healthcare and healthcare professional education.3 It has even been suggested as a means by which healthcare professional education might be unnecessary. After all, if you have intelligent machines that can do the job of human beings ..."
     publishedDateTime: 2020-02-22T13:09:00Z
@@ -124,15 +130,15 @@ related:
       name: BMJ
       domain: bmj.com
     quality: 22
-  - title: "How Amazon is making strides in the healthcare space"
-    excerpt: "Over the past year, Amazon Web Services has made significant efforts to infiltrate the healthcare space, including partnering with Cerner and developing artificial intelligence for clinicians. Today, AWS continues to leverage its technology and other resources to help hospitals and health systems improve operations and patient care. Shez ..."
-    publishedDateTime: 2020-02-26T20:50:00Z
-    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/how-amazon-is-making-strides-in-the-healthcare-space.html"
+  - title: "CTA develops first standard for AI terminology in health care"
+    excerpt: "The Consumer Technology Association (CTA) said it has developed the first standard for the use of artificial intelligence in health care, as accredited by the American National Standards Institute (ANSI). The standard includes 11 definitions and characteristics, providing a framework for understanding AI terminology so that people, companies ..."
+    publishedDateTime: 2020-02-26T13:52:00Z
+    webUrl: "https://www.telecompaper.com/news/cta-develops-first-accredited-standard-for-use-of-ai-terminology-in-health-care--1328185"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 21
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 19
   - title: "The Future of Artificial Intelligence in Healthcare"
     excerpt: "There are numerous applications of AI on the market today or awaiting approval that can improve patient care and potentially save lives. Those applications involve pattern recognition, robotics and natural language processing, which includes speech recognition and translation. Machine learning, a “technique that trains software algorithms to ..."
     publishedDateTime: 2020-02-26T22:38:00Z
@@ -143,6 +149,6 @@ related:
       domain: healthtechmagazine.net
     quality: 19
 
-secured: "xbRynMcP7XpAWSm943n6TTqguY6UOn2RY9jCOfUs7WLPpPJn+9qJnIf3lllH0L7D8KB6VW0yngZV6WSv6Ae9BJUs7Mq+DiwmUFq6Zxi/G4A10ww2wMxzue9ThZ4FJhgUwqMI3oiyfCj5gMR36UciqSQprXPpH6ufnmC0/GDUfPsk+6/pxnz38qVe/6WBoL1mRGhk6TSRdANAQ0CoHzxwqskPq4QZ+1Rfv30rTv4g7RHJFBYNWYxkRjQpOvXUQR7E2qKQlWp5s7IFo/4EpUFH5tdmYx45hoXGPDqQB69pRNRhMzkfGs96HPjbjrxFsa9a;mwqB2cv1UZOIulSEiWv2ag=="
+secured: "kEp/NQnU94qUxHHNOZCY10cZqkkXBLoGdyjfdCJ5EfgSMv3k2o2RCezEikoYV8VSenwiX39EZblxu/3vj3U7OSBNVktDkGDRSQo2thwMgLSAB8xtTRxM8HGm1gOcffFUxZ4sS7u+juTods105hDE/xl537AQbirDhNWd9RGnBJTJds3ZVmljkpTXx8Z1vzI8WcdqDmmnBy8jUEtrCt+/PvX8+vb595kKG6DxYxH0J/gFCT/YFACrdfC/s/Dpg+hYR6HBd5f9UUMV7BeBIFAlHOZFA15KnzH6YvilPXxlDySdp1GEXyAV+zLRoOuwSux482TmtWZbcMXTNEt1ZU37RQXAPw25GLop3YeSVJBnV2Q=;6TxRRgyW+c0kKmhGGYLUMg=="
 ---
 

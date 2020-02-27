@@ -8,7 +8,7 @@ ampWebUrl: "https://www.supplychaindigital.com/technology/ibm-watson-how-ai-tran
 cdnAmpWebUrl: "https://www-supplychaindigital-com.cdn.ampproject.org/c/s/www.supplychaindigital.com/technology/ibm-watson-how-ai-transforming-supply-chain?amp"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -41,6 +41,19 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/qfATwf5qVcGjMLuAaDkwx6-1200-80.jpg"
         width: 1000
         height: 666
+  - title: "The Potential of AI in the Healthcare Supply Chain"
+    excerpt: "There’s no shortage of enthusiasm — or predictions — about the potential use of artificial intelligence (AI ... that 2020 is the year executives will focus on how to drive and measure the value of their investments in AI. Healthcare is no exception. A recent survey of healthcare executives conducted by Optum found that not only is ..."
+    publishedDateTime: 2020-02-24T15:53:00Z
+    webUrl: "https://www.supplychainbrain.com/blogs/1-think-tank/post/30899-realizing-the-potential-of-ai-in-the-healthcare-supply-chain"
+    type: article
+    provider:
+      name: Supply Chain
+      domain: supplychainbrain.com
+    quality: 54
+    images:
+      - url: "https://www.supplychainbrain.com/ext/resources/0-images/article-images/2020/0224_PotentialofAIinHealthcare.jpg?height=635&t=1582520107&width=1200"
+        width: 847
+        height: 635
   - title: "How Artificial Intelligence can transform India"
     excerpt: "Over the last couple of years, Artificial Intelligence (AI) has changed from a technology with potential to an instrument of national importance across the world. The first demonstration of applications of AI has happened in the consumer space, and significant economic value has been created, mainly through targeted advertising by internet ..."
     publishedDateTime: 2020-02-27T00:54:00Z

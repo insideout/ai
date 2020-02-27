@@ -99,6 +99,19 @@ related:
       - url: "https://idge.staticworld.net/nww/nww_logo_300x300.png"
         width: 300
         height: 300
+  - title: "Shaping the future of machine learning for active matter"
+    excerpt: "Now researchers are presenting guidelines for how active matter, such as cells and microorganisms, can best be studied using machine learning techniques. The guidelines can help others navigate the new field, which can significantly improve research in active matter. Machine learning has proven to be very useful for the study of active matter ..."
+    publishedDateTime: 2020-02-27T14:56:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-02/uog-stf022720.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: "https://eurekalert.org/multimedia/pub/web/225481_web.jpg"
+        width: 644
+        height: 710
   - title: "Stargazing with computers: What machine learning can teach us about the cosmos"
     excerpt: "Astrophysicists supported by the DOE Office of Science are developing these guides in the form of computer models that rely on machine learning to examine the LSST data. Machine learning is a process where a computer program learns over time about the relationships in a set of data. Computer Programs that Learn Processing data quickly is a must ..."
     publishedDateTime: 2020-02-20T15:28:00Z

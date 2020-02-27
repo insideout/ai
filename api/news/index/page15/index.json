@@ -2,51 +2,6 @@
   "page": 15,
   "value": [
     {
-      "path": "_posts/_archive/2020-01-17-nations-dawdle-on-agreeing-rules-to-control-killer-robots-in-future-wars.md",
-      "title": "Nations dawdle on agreeing rules to control 'killer robots' in future wars",
-      "excerpt": "Countries are rapidly developing “killer robots” - machines with artificial intelligence (AI) that independently kill - but are moving at a snail’s pace on agreeing global rules over their use in future wars,",
-      "heat": 117,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.reuters.com/article/us-global-rights-killer-robots-idUSKBN1ZG151",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN1ZG151",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZG151",
-      "publishedDateTime": "2020-01-17T07:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Nations dawdle on agreeing rules to control 'killer robots' in future wars",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-01-17-new-method-can-improve-resolution-of-brain-magnetic-resonance-imaging-using-artificial-intelligence.md",
       "title": "New method can improve resolution of brain magnetic resonance imaging using artificial intelligence",
       "excerpt": "Researchers of the ICAI Group -Computational Intelligence and Image Analysis- of the University of Malaga (UMA) have designed an unprecedented method that is capable of improving brain images obtained through magnetic resonance imaging using artificial intelligence. This new model manages to increase image quality from low resolution to high ...",
@@ -2117,6 +2072,50 @@
           "width": 1200,
           "height": 600,
           "title": "Scoutbee raises $60 million to expedite supplier discovery with AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-20-the-3-as-of-ai-a-way-out-avlbl-fr-rl-and-autmtd-dn.md",
+      "title": "The 3 A’s of AI: A Way Out Avаіlаblе fоr Rеаl and Autоmаtеd Dесіѕіоnѕ",
+      "excerpt": "Although thеrе are several factors driving thе adoption оf artificial іntеllіgеnсе, thе mоѕt іmроrtаnt оnе іѕ іtѕ capability to make real and аutоmаtеd decisions. This is driven by the 3A’s of AI: Aѕѕіѕtеd,",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/01/20/the-3-as-of-ai-a-way-out-avlbl-fr-rl-and-autmtd-dn/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/01/20/the-3-as-of-ai-a-way-out-avlbl-fr-rl-and-autmtd-dn/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/01/20/the-3-as-of-ai-a-way-out-avlbl-fr-rl-and-autmtd-dn/amp/",
+      "publishedDateTime": "2020-01-20T02:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e2567f28b6cf300071c7af7%2F0x0.jpg",
+          "width": 589,
+          "height": 393,
+          "title": "The 3 A’s of AI: A Way Out Avаіlаblе fоr Rеаl and Autоmаtеd Dесіѕіоnѕ",
           "attribution": null
         }
       ],

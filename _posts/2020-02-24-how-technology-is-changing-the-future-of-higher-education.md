@@ -112,19 +112,6 @@ related:
       - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/3.jpg"
         width: 400
         height: 300
-  - title: "Consumer Technology Association creates standard for AI in healthcare"
-    excerpt: "The Consumer Technology Association rolled out a new standard for the use of artificial intelligence in healthcare. The standard, based on discussions between more than 50 different healthcare and technology firms, will create a common foundation for new projects using these technologies. The new standard created common definitions for often ..."
-    publishedDateTime: 2020-02-25T22:52:00Z
-    webUrl: "https://medcitynews.com/2020/02/consumer-technology-association-creates-standard-for-ai-in-healthcare/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 54
-    images:
-      - url: "https://medcitynews.com/uploads/2017/07/GettyImages-545123748.jpg"
-        width: 724
-        height: 483
   - title: "AI in Healthcare Market By Offering, By Technology, By Region – Trends, Analysis, and Forecast Till 2030"
     excerpt: "The research study on Global AI in Healthcare market 2019 presents an extensive analysis of current AI in Healthcare market size, drivers, trends, opportunities, challenges, as well as key AI in Healthcare market segments."
     publishedDateTime: 2020-02-17T07:35:00Z
@@ -138,19 +125,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Health care in 2030: Artificial intelligence helping people get better healthcare"
-    excerpt: "Artificial intelligence may help in any diagnosis because it can scan millions of medical patterns and offer doctors possible causes of why you aren't feeling well."
-    publishedDateTime: 2020-02-21T14:08:00Z
-    webUrl: "https://www.kgw.com/video/money/artificial-intelligence-helping-people-get-better-healthcare/283-5a7a609f-6164-4e50-b000-99abd0c53da1"
-    type: article
-    provider:
-      name: KGW8
-      domain: kgw.com
-    quality: 49
-    images:
-      - url: "https://media.kgw.com/assets/KGW/images/cf0b54f0-4b61-4a63-8c2b-90fb5755a70d/cf0b54f0-4b61-4a63-8c2b-90fb5755a70d_1140x641.jpg"
-        width: 1140
-        height: 641
   - title: "Big Data With Big Payoff — How The Healthcare Industry Is Embracing AI To Help Save Lives"
     excerpt: "Artificial intelligence (AI) initiatives are supposed to enable us to reinvent how ... One industry is taking the lead on leveraging Big Data to make AI work and is blazing a trail that others can follow. An IDC-Seagate study found that the healthcare “datasphere” is one of the fastest growing—with a 36 percent Compound Annual Growth ..."
     publishedDateTime: 2020-02-20T20:46:00Z
@@ -177,32 +151,6 @@ related:
       - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/02/Top-AI-Ted-Talks-to-Watch-for-Acquiring-Better-Technology-Outlook.png"
         width: 1640
         height: 860
-  - title: "5 technologies predicted to change healthcare over next 10 years"
-    excerpt: "He published his predictions in a MarketWatch report. Here are the five biggest themes for healthcare IT: 1. Artificial intelligence in medicine. While Google and other technology companies will continue developing machine learning and AI tools to help clinicians diagnois patients more quickly, in the next decade, AI will also be used to help ..."
-    publishedDateTime: 2020-02-25T15:12:00Z
-    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/5-technologies-predicted-to-change-healthcare-over-next-10-years.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 39
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/6.jpg"
-        width: 400
-        height: 300
-  - title: "The Health 202: Artificial intelligence use is growing in the U.S. health-care system"
-    excerpt: "The use of artificial intelligence is proliferating in American health care — outpacing the development of government regulation. From diagnosing patients to policing drug theft in hospitals, AI has crept into nearly every facet of the health-care system, eclipsing the use of machine intelligence in other industries. More than half of health ..."
-    publishedDateTime: 2020-02-24T12:41:00Z
-    webUrl: "https://www.washingtonpost.com/news/powerpost/paloma/the-health-202/2020/02/24/the-health-202-artificial-intelligence-use-is-growing-in-the-u-s-health-care-system/5e52f13188e0fa632ba81ec7/"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 32
-    images:
-      - url: "https://img.washingtonpost.com/wp-apps/imrs.php?src=https%3A%2F%2Fpalomaimages.washingtonpost.com%2Fprod%2FNV-entrancepollssinglepayer_tstmp_1582513280.jpg&w=908"
-        width: 908
-        height: 346
   - title: "AI in the Manufacturing Sector Market Analysis to 2025 | New Technologies Transforming the Global Industry"
     excerpt: "The hardware segment will continue dominating the AI in the manufacturing sector market on account of the increasing demand for AI processors across several industry verticals. Considering the AI processors,"
     publishedDateTime: 2020-02-18T10:28:00Z

@@ -2,43 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_posts/2020-02-19-grok-combines-machine-learning-and-the-human-brain-to-build-smarter-aiops.md",
-      "title": "Grok combines Machine Learning and the Human Brain to build smarter AIOps",
-      "excerpt": "A few weeks ago I wrote a piece here about Moogsoft which has been making waves in the service assurance space by applying artificial intelligence and machine learning to the arcane task of keeping on keeping critical IT up and running and lessening the business impact of service interruptions. It’s a hot area for startups and I’ve since ...",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://diginomica.com/grok-combines-machine-learning-and-human-brain-build-smarter-aiops",
-      "ampWebUrl": "https://diginomica.com/grok-combines-machine-learning-and-human-brain-build-smarter-aiops?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/grok-combines-machine-learning-and-human-brain-build-smarter-aiops?amp",
-      "publishedDateTime": "2020-02-19T07:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2020-01/shutterstock-%20Antonov-Serg-1576515697.jpg",
-          "width": 3000,
-          "height": 2000,
-          "title": "Grok combines Machine Learning and the Human Brain to build smarter AIOps",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_posts/2020-02-19-high-risk-artificial-intelligence-to-be-certified-tested-and-controlled-commission-says.md",
       "title": "High-risk Artificial Intelligence to be ‘certified, tested and controlled,’ Commission says",
       "excerpt": "Commission President Ursula von der Leyen praised Europe’s efforts in the field of Artificial Intelligence thus far, saying that such technologies can be of vital use in a number of sectors including in healthcare, agriculture and energy, and can also ...",
@@ -1329,7 +1292,7 @@
       "path": "_posts/2020-02-20-cybermdx-announces-integration-with-microsoft-azure-security-center-for-iot.md",
       "title": "CyberMDX Announces Integration With Microsoft Azure Security Center for IoT",
       "excerpt": "/PRNewswire/ -- CyberMDX, a leading provider of medical cyber security solution, delivering asset visibility and threat prevention for medical devices",
-      "heat": 102,
+      "heat": 112,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.prnewswire.com/news-releases/cybermdx-announces-integration-with-microsoft-azure-security-center-for-iot-301008578.html",
@@ -2051,30 +2014,38 @@
       ]
     },
     {
-      "path": "_posts/2020-02-20-nations-largest-insurer-invests-in-waltham-healthcare-ai-startup.md",
-      "title": "Nation’s largest insurer invests in Waltham healthcare AI startup",
-      "excerpt": "A venture capital firm tied to the largest health insurer in the U.S., UnitedHealth Group, has invested in a local startup working to avoid unnecessary drug costs. Optum Ventures contributed an undisclosed amount to Scipher Medicine’s expanded $30 million Series B round,",
-      "heat": 77,
+      "path": "_posts/2020-02-20-only-a-better-understanding-of-ai-can-help-end-our-fear-of-robots.md",
+      "title": "Only a better understanding of AI can help end our fear of robots",
+      "excerpt": "AI is upending companies, industries, and humanity. There has been an ongoing polarising discussion among experts in both the academic and industrial circles when it comes to artificial intelligence (AI), and the impact of its adoption on our continued existence. One side envisions multiple benefits over its widespread adoption; while the other ...",
+      "heat": 106,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.bizjournals.com/boston/news/2020/02/20/vc-tied-to-nation-s-largest-insurer-invests-in.html",
-      "ampWebUrl": "https://www.bizjournals.com/boston/news/2020/02/20/vc-tied-to-nation-s-largest-insurer-invests-in.amp.html",
-      "cdnAmpWebUrl": "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/boston/news/2020/02/20/vc-tied-to-nation-s-largest-insurer-invests-in.amp.html",
-      "publishedDateTime": "2020-02-20T08:42:00-08:00",
+      "webUrl": "https://qz.com/india/1805292/only-a-better-understanding-of-ai-can-help-end-our-fear-of-robots/",
+      "ampWebUrl": "https://qz.com/india/1805292/only-a-better-understanding-of-ai-can-help-end-our-fear-of-robots/amp/",
+      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/india/1805292/only-a-better-understanding-of-ai-can-help-end-our-fear-of-robots/amp/",
+      "publishedDateTime": "2020-02-20T01:13:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
+        "name": "Quartz",
+        "domain": "qz.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/qz.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://media.bizj.us/view/img/11608686/story-05*600xx1049-699-126-0.jpg",
-          "width": 600,
-          "height": 399,
-          "title": "Nation’s largest insurer invests in Waltham healthcare AI startup",
+          "url": "https://cms.qz.com/wp-content/uploads/2020/02/RTX265HX-e1582179189744.jpg?quality=75&strip=all&w=1400",
+          "width": 1400,
+          "height": 789,
+          "title": "Only a better understanding of AI can help end our fear of robots",
           "attribution": null
         }
       ],
@@ -2083,7 +2054,54 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI in Robotics",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-20-openai-text-generator-gpt-2-creates-video-game-walkthrough-for-most-tedious-game-in-history.md",
+      "title": "OpenAI Text Generator GPT-2 Creates Video Game Walkthrough for 'Most Tedious Game in History'",
+      "excerpt": "An advanced language model may one day be used in game design, experiments with 'Overwatch,' 'Dota 2' and 'Final Fantasy VII' demonstrate.",
+      "heat": 78,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.newsweek.com/openai-text-generator-gpt-2-video-game-walkthrough-most-tedious-1488334",
+      "ampWebUrl": "https://www.newsweek.com/openai-text-generator-gpt-2-video-game-walkthrough-most-tedious-1488334?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/openai-text-generator-gpt-2-video-game-walkthrough-most-tedious-1488334?amp=1",
+      "publishedDateTime": "2020-02-20T13:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1568474/goldeneye-n64-artificial-intelligence.jpg",
+          "width": 2500,
+          "height": 1406,
+          "title": "OpenAI Text Generator GPT-2 Creates Video Game Walkthrough for 'Most Tedious Game in History'",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
       ]
     }
   ],

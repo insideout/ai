@@ -2,50 +2,6 @@
   "page": 26,
   "value": [
     {
-      "path": "_posts/_archive/2020-02-06-worlds-gets-10-million-to-help-enterprises-observe-their-physical-environments-with-ai.md",
-      "title": "Worlds gets $10 million to help enterprises observe their physical environments with AI",
-      "excerpt": "Worlds, whose AI helps large organizations observe their physical spaces to ensure security, safety, and productivity, has raised $10 million in a first round of funding. The Dallas-based startup uses multiple cameras to track spaces in 3D over time, providing a more reliable view of what’s happening than typical 2D security video would.",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/06/worlds-gets-10-million-to-help-enterprises-observe-their-physical-environments-with-ai/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/06/worlds-gets-10-million-to-help-enterprises-observe-their-physical-environments-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/06/worlds-gets-10-million-to-help-enterprises-observe-their-physical-environments-with-ai/amp/",
-      "publishedDateTime": "2020-02-06T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/Worlds.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Worlds gets $10 million to help enterprises observe their physical environments with AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-02-07-2019-machine-learning-and-data-science-survey.md",
       "title": "2019 Machine Learning and Data Science Survey",
       "excerpt": "Every year, since 2017, the Kaggle community sets out to conduct an industry-wide survey on the State of Data Science and Machine Learning. This is for the year 2019. The dataset was gathered from a pool of 19,717 usable respondents from 171 countries and territories, cleaned and prepared by the Kaggle community. The young, mostly Indians and ...",
@@ -2160,6 +2116,42 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-02-09-risk-mitigation-and-huawei-the-uk-makes-a-choice.md",
+      "title": "Risk Mitigation and Huawei: The UK Makes a Choice",
+      "excerpt": "To read the full newsletter, click here to subscribe for free ... American pressure on London had been coming from the highest levels of government. On Thursday, the Financial Times exclusively reported on a phone call between U.S. President Donald J. Trump and Johnson. Trump lambasted Johnson for the decision to allow Huawei in ...",
+      "heat": 122,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thediplomat.com/2020/02/risk-mitigation-and-huawei-the-uk-makes-a-choice/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-09T15:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Diplomat",
+        "domain": "thediplomat.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thediplomat.com/wp-content/uploads/2020/01/sizes/td-story-s-2/thediplomat-2020-01-28-19.jpg",
+          "width": 600,
+          "height": 361,
+          "title": "Risk Mitigation and Huawei: The UK Makes a Choice",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

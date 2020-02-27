@@ -1,13 +1,11 @@
 ---
 category: news
 title: "Toyota saddles up for self-driving future with $400M investment into Pony.ai"
-excerpt: "One of the world’s largest car makers, Toyota, has further demonstrated its intent on supporting self-driving vehicles. The Japanese carmaker is planning to invest $400 million into Pony.ai, a Chiense self-driving car startup that’s based across Silicon Valley in the US and Guangzhou in China, Bloomberg reports. With the latest round of ..."
+excerpt: "One of the world’s largest car makers, Toyota, has further demonstrated its intent on supporting self-driving vehicles. The Japanese carmaker is planning to invest $400 million into Pony.ai, a Chinese self-driving car startup that’s based across Silicon Valley in the US and Guangzhou in China, Bloomberg reports. With the latest round of ..."
 publishedDateTime: 2020-02-27T10:04:00Z
-webUrl: "https://thenextweb.com/hardfork/2020/02/27/toyota-400m-investment-self-driving-startup-pony-ai/"
-ampWebUrl: "https://thenextweb.com/hardfork/2020/02/27/toyota-400m-investment-self-driving-startup-pony-ai/amp/"
-cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/hardfork/2020/02/27/toyota-400m-investment-self-driving-startup-pony-ai/amp/"
+webUrl: "https://thenextweb.com/shift/2020/02/27/toyota-400m-investment-self-driving-startup-pony-ai/"
 type: article
-quality: 86
+quality: 66
 heat: -1
 published: false
 
@@ -328,6 +326,6 @@ related:
       domain: moneycontrol.com
     quality: 14
 
-secured: "G2gvt3BzHWc/4wxJ6tppy+mMzf5Io6MPjkcIXuPjuTF+Clzi8/YJtb9X+B8l8FJXEyyfJ4u3KR9sYeFtz+5TuXXFdf99frJGAG2Au5DiCrBfDbJKOceoDeydCjkC8Ev5ajr0wTt1dzWUq48/JFXIjkPArULrwhHgyh+LxJr7SYxo/eqA2exZ1HwiOXjDADyDDf+xJi38sM7UQ5RZlsxdG4hID4RmW58PxrQF9ohteRZD/wEW4ktvLkc8J86PtVHTj/c4KmhZQbkUTmSI3mfGFlA6kMQvyTCbf0zR88dWeCsH9SQmXgBSmiqXkJIVonD4;CPAQOyyRtnrEghugiUxsvA=="
+secured: "wcUhn2Zqe6GifEmwmOYPBEWqcuwRV4BTlS1PMWA3Qjkxh0OGQIsSCIiv+l1RdzOCXVtzXHfRXi06rzLZ5Hmk5UKuw6NAR+vP8/vgvfWVo+2XtZM17RFXiYEep0JkTRB5Xy1D5aSuClFmBbSOpfRh9czGM2DMuE3CiftJTcAbu8jtithGxzA8jfgcVPVPzzgjmKwbe3mIFehlDY18tj0xJIH9lqBaVpshhw0K8Z8p/+2MfkpMWcTo9j/k8xvriZMdAi7186HVBvHUhOziJHteKSn5Mxv/Hlh8pLipDP+xa6EmpQPxJau4VsxEEg+A9cw0;73k8/mveWwCP5tRnV8+50Q=="
 ---
 

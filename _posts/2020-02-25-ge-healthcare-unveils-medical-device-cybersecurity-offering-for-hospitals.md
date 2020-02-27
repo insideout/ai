@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-25T16:54:00Z
 webUrl: "https://hitconsultant.net/2020/02/25/ge-healthcare-medical-device-cybersecurity-skeye/"
 type: article
 quality: 38
-heat: 38
+heat: -1
 published: false
 
 provider:
@@ -24,19 +24,32 @@ images:
     title: "GE Healthcare Unveils Medical Device Cybersecurity Offering for Hospitals"
 
 related:
-  - title: "Machine Learning Based Threat Analytics Tools: Ensuring a Secure Network and Improved Cybersecurity Posture"
-    excerpt: "This IDC white paper will go into the details about using Machine Learning to advance Threat Hunting capabilities which will help in complementing the security tools already in place. This will enhance the overall security infrastructure and give security teams an edge against advanced threats. LinkShadow is a Next-Generation Cybersecurity ..."
-    publishedDateTime: 2020-02-25T16:43:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/machine-learning-based-threat-analytics-tools-ensuring-a-secure-network-and-improved-cybersecurity-posture-301009896.html"
+  - title: "GE Healthcare launches cyberdefense product"
+    excerpt: "As connected devices proliferate, GE Healthcare is banking that hospitals, health systems and other providers will seek the company’s help in shoring up their defenses against cyber threats. The company on Thursday unveiled a cybersecurity product that scans for cyber risks and recommends responses using a mix of artificial intelligence and ..."
+    publishedDateTime: 2020-02-20T18:37:00Z
+    webUrl: "https://medcitynews.com/2020/02/ge-healthcare-launches-cyberdefense-product/"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 39
+    images:
+      - url: "https://medcitynews.com/uploads/2017/08/GettyImages-578833436.jpg"
+        width: 724
+        height: 483
+  - title: "Solutionreach Launches SR Health to Solve Patient Engagement Challenges for Large Healthcare Organizations"
+    excerpt: "Solutionreach, the leader in patient engagement solutions for specialty and independent healthcare practices ... while saving time by leveraging artificial intelligence (AI) to efficiently handle routine interactions with patients more quickly."
+    publishedDateTime: 2020-02-27T14:13:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-solutionreach-launches-sr-health-solve-patient-engagement-challenges-/2020/02/27/9105883.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
     quality: 21
     images:
-      - url: "https://mma.prnewswire.com/media/1094264/LinkShadow___Report.jpg?p=facebook"
-        width: 1655
-        height: 866
+      - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
+        width: 252
+        height: 335
 
 secured: "z3k8aq9SsMldXF+Ymg7mSVcEpIJklK2/tHsAY2LH16b/z3b6TG8aZWX8TY5mKKhzIvi+a3/4qWbeIaAbMGaQH72yr+u26SSyc8qGMKuQiz64QcDyswt2Xfsq/rFHDTr+4LK4A9roWBr/cSVV7cHQ0AZRJCne9rEsXPk7T1LKUub2Mb+k7cKZIq5IFwxyV5R3uRDI9QyoDUlSyXyL7K65BdLzaUNyXOaK8fA0Ay1NbK7TCwxU4mP+fTZeDJOZrnWayIiSOctXnv2YFHcHvdOsMFFBO7ec6xDIWW52XmJIAohnN76JXq12Q/CW7zDo+g/x;sZRos5Wy3lxFxok+9E79FA=="
 ---

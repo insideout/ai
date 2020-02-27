@@ -29,6 +29,6 @@ images:
     height: 474
     title: "Hospital Pharmacists: Meet AI, Your New Assistant"
 
-secured: "G3Gnvj/NlXdXcmQogIAf5I8TmM5+1txC5xPs4CpE6/swRb8K+3C3OdJXdKlQum/aiid7KJP+LZikh41RarJh4z9tASN60pu4bPgjB2xS3LlUkvkiRRto6j5nO7DWcH3uXA7lmu5d02vpNHBG8A420G4gvWHp33tarKC1QRce9JtnqMwh0DKlZUOuEv0BtGM+m2+2zeXm45cQcMXY5lS4/obCNktk5dLKtaH+YH3ztilZSGVIL6X7+KSlFlDJFoCyN4elCMvGJbQg+QHgPJ5J/AO4c8ydtYRRvv9nEDbGCru8dvyXH4jq9PnCxwWUey7B;5RYRXTbBdWdWey2tgVNIxQ=="
+secured: "RcBj2yJbvoXWZdJlkYIgstBib1k8hOPmBXeNkB5Y3tQHL2ZauHN1dx6mtYFdMlTle2Vh+5EiGvwjbdF5p4DtDgZAU43mJ2zrZIyrJnPyLWJbovg8EH/qN+aCSSyzKXsnsV+4zO2YwSnkyxhSmVHoCrp5cQ4aumd7PCy5+LqyH//kV7sJhAuN+a8KX8i35/YaD7NGh+t8fDdZjkVvycBlcYU/d/pACpzSM1yoaaJugyCjpN2J9LQDjekVFnWxhgJINdDJlpnrKAyqs2EkPkd9U28fGhB54biNzZZJQT7e4DSIBk2qoVzZYZIhgVXHyfy5BXVDGiL/h0pb/NwUzOoX2kweV4lfNRvFj95ENz8PhSrOtTSzT3Jfo9nRsEzZk3YP5omYXrR9StmB3ZPz77+bV9R3fo7zn+6nGst/0zRbgcMCqyMWsH0l4Na2rjweY86+PTb14QOtTy0qZWd/RB4e/B3Y3961Z4NRMr2rlVAMgyw=;ygvKYtkWx0a0qDt+JV6TVQ=="
 ---
 

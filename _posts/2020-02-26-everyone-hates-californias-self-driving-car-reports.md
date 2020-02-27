@@ -75,6 +75,21 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/01/Cruise-car-in-Hayes-Valley-San-Francisco.jpg?w=1024"
         width: 1024
         height: 576
+  - title: "In California, Which Self-Driving Cars Log the Most Miles?"
+    excerpt: "The California Department of Motor Vehicles on Wednesday released reports detailing how many times in 2019 human safety operators had to take control of self-driving vehicles being tested in the state. According to the reports, robot cars in autonomous mode drove almost 2.9 million miles on public California roads last year, up from 2.1 million ..."
+    publishedDateTime: 2020-02-27T14:00:00Z
+    webUrl: "https://www.wired.com/story/california-self-driving-cars-log-most-miles/"
+    ampWebUrl: "https://www.wired.com/story/california-self-driving-cars-log-most-miles/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/california-self-driving-cars-log-most-miles/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 74
+    images:
+      - url: "https://media.wired.com/photos/5e56c6b159c0a40008c5f789/master/pass/Transpo-waymo-976116980.jpg"
+        width: 2400
+        height: 1600
   - title: "Chinese company gives California workers free rides in self-driving robotaxis"
     excerpt: "The same city that converted a used Tesla Model S into a police car is shuttling its city employees to work in self-driving cars. China-based Pony.ai launched a self-driving car pilot program in Fremont, California, on Tuesday. If that city sounds familiar, it's where Tesla built its very first factory. One of Fremont's police cars is actually ..."
     publishedDateTime: 2020-02-25T18:47:00Z
