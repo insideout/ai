@@ -8,8 +8,8 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/ibm-highlights-new-a
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibm-highlights-new-approach-to-infuse-knowledge-into-nlp-models/"
 type: article
 quality: 76
-heat: -1
-published: false
+heat: 86
+published: true
 
 provider:
   name: TechRepublic
@@ -35,17 +35,11 @@ related:
     excerpt: "The work is being highlighted at this week's AAAI-20 Conference in New York City. IBM this week unveiled new research on how an artificial intelligence (AI) model can help better predict drug-to ..."
     publishedDateTime: 2020-02-11T21:21:00Z
     webUrl: "https://www.techrepublic.com/article/ibm-unveils-new-ai-model-to-predict-potentially-harmful-drug-to-drug-interactions/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/ibm-unveils-new-ai-model-to-predict-potentially-harmful-drug-to-drug-interactions/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibm-unveils-new-ai-model-to-predict-potentially-harmful-drug-to-drug-interactions/"
     type: article
     provider:
       name: TechRepublic
       domain: techrepublic.com
-    quality: 84
-    images:
-      - url: "https://tr3.cbsistatic.com/hub/i/r/2020/02/11/578ed6f6-77c3-463d-a9fb-ae809750f192/resize/1200x/f727d19000da51259bb97e2708cbc806/ai-medicine.jpg"
-        width: 1200
-        height: 800
+    quality: 44
 
 secured: "QyhAc5i3hv96IXDodLGDsOHKCu9pssXhaVWr3wUuy0V6WJqdiWmwAvv7SMKjbpv39j4BXP2PftNK9JORCCfL+vWoWIFLyXvpgeIa8MLXWy4AbzmbaKyrzZnbVlfKtl26lbcWLN4OZyAg6TytE2BO9YPAWW197aSVzjQ0Z9gPxgcM3MiEU936oOkGFWa170mr5IuRvdrj8zPMy7OvX+h3IIy3DDaxnYJmoUMbV/8ceeU+dqueO5f1mTBZfGszx5+oei8Z2t/5kny6Y2Nve1davMxAcQR7W/lDxVDbmAVdPvPMkUOraOPOV6B2PzH8rVQxHlkfOayb3mjDVWUs6A3u54HzIyyFMpHLUqM/XVt+Q3pHjbpb95aHWfZ3c1IARyzWh9W7Sn99TVaYlI0rmkiJzQJmxsrF7qcoY0EKJGU0MSqPRi4VOjWh3dHjFjnvFnPru4dwPHTZVs6BqvWwtCc1Kg67SRK7t1uKhwpoK/+NyVI=;0c7LtrMwwtzpOteJOV0+EA=="
 ---

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.neowin.net/amp/save-97-off-this-machine-learning--data-s
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/save-97-off-this-machine-learning--data-science-certification-training-bundle/"
 type: article
 quality: 102
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 760
     height: 428
     title: "Save 97% off this Machine Learning & Data Science Certification Training Bundle"
+
+related:
+  - title: "Voice Cloning Using Deep Learning"
+    excerpt: "Deep Voice is a TTS system developed by the ... Thus, the same model can be used for all unseen speakers. The paper Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech ..."
+    publishedDateTime: 2020-02-26T22:03:00Z
+    webUrl: "https://medium.com/the-research-nest/voice-cloning-using-deep-learning-166f1b8d8595"
+    type: article
+    provider:
+      name: Medium
+      domain: medium.com
+    quality: 49
 
 secured: "qNkYhASZikkqeEJk/NSLkB11hCiqfFyHDbF2MgLt63DPevKgp1fy4QggQFF7yRX9tF8uQEx5gTf+LYGAd1rZ6V8ZCTTENMqC7GO+BSbyFvFYKynHxrovkBNIdGnsJEuSvRAiBLNXLM3Nrxr+T5E1x71VeTAjUaPOLLRl0YPEIPwT5hL6yWwfUbKGtJZILzWi7JADjC4ytfcTc4mvgP6aaNAtxLa/C8ha615J8xIKMO/nGuoVrXnOQUV5uWsojT55yGBiehsGxEjnCie5C3ZZQBeWI56upFT/YvqanS99RgNy298ZKXBDUaNz5ofTcEySS/vWstmbMTkwpRJD4zQ3zdfoFoKkI8RvWIp7on7EL4Fer0gOp863qTNo7AFNYNaNeeaM7EKnggOlhLvO7E7Ju1j3Z3aKNMXnUnRaOGXAUp27htbCd/xrY0T2hoDxBmAGIDaeVJrdyKTdWfouRjojUTlrhIrWfGEKvYYYuI5EbBE=;oll0iCw0xlXin8Xwpt76zw=="
 ---

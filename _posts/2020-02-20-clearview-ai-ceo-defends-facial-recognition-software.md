@@ -125,6 +125,15 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/9/e9/9e9cbbbc-111e-5904-b1c9-c12426069aab/5e41f2280d4e7.image.jpg?resize=576%2C324"
         width: 576
         height: 324
+  - title: "Facial recognition startup Clearview AI says its full client list was stolen"
+    excerpt: "Most of the company's customers are law enforcement agencies. You might expect a high-profile (and controversial) facial recognition startup like Clearview AI would have its data locked down, but it turns out it's just as vulnerable as almost any other company to malicious individuals. In a notification obtained by The Daily Beast, the company ..."
+    publishedDateTime: 2020-02-26T20:45:00Z
+    webUrl: "https://www.engadget.com/2020/02/26/clearview-ai-client-list-exposure/"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 44
   - title: "Canada Privacy Watchdog Probes Facial Recognition Startup"
     excerpt: "The images -- grabbed from popular social media platforms including Facebook, Instagram, Twitter and YouTube as well as millions of other websites -- are used in its facial recognition software. Clearview AI's founder Hoan Ton-That has said the technology has been made available to more than 600 law enforcement agencies in Canada and the United ..."
     publishedDateTime: 2020-02-21T20:27:00Z

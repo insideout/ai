@@ -267,6 +267,15 @@ related:
       - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/12471190/16x9/991/557/bc81125508ceccb37bf723591384bb1c/ph/staff-members-are-seen-at-the-halloween-decorated-reception-area-of-the-chinese-self-driving-startup-pony-ai-headquarters-in-guangzhou-1.jpg"
         width: 991
         height: 557
+  - title: "Toyota Backs Chinese Startup Pony.ai With $400M Investment"
+    excerpt: "Toyota has backed Chinese firm Pony.ai with a $400 million investment, according to the Financial Times. The newest funding totals $462 million and puts a $3 billion value on the Chinese firm. Toyota is using its own artificial intelligence (AI) division, known as the Toyota Research Institute, to develop its own self-driving technology."
+    publishedDateTime: 2020-02-26T20:30:00Z
+    webUrl: "https://www.pymnts.com/news/investment-tracker/2020/toyota-backs-chinese-startup-pony-ai-400-million-investment/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 17
   - title: "Toyota leads $500mn investment in autonomous driving startup Pony.ai: Report"
     excerpt: "Pony.ai, which has partnerships with automakers Hyundai and GAC, declined to comment. A Beijing-based spokesman for Toyota declined to comment. The investment by Toyota comes at a time when global carmakers, technology firms, start-ups and investors - including Tesla, Alphabet Inc's Waymo and Uber - are pouring capital into developing self ..."
     publishedDateTime: 2020-02-26T04:22:00Z
@@ -277,6 +286,6 @@ related:
       domain: moneycontrol.com
     quality: 14
 
-secured: "0XxbC/DIe/YBXotIdlzbDKlwP4fn8IEV63hk7i+XhB/E7cYVYu0weO9KAqanGvZXGx82fCqkbGtQkGYYZrhk+d2LwFgPDxQfVom0MzVhj8r3aYEhdpeAzVk2V3DDbmFen2/ojm+wf8Lw7x4k6HA5EgljdfdKiqTjKjXD6v6tKaw/bLNGAH9e2huwTqeyVVPSILIpcUPxp7jpby18l9Fo9jTCM4rcJihP2GU43HE1swTHUSbW8vOtxH7/WpE+2eOFJ6zpvs+4+v6erkCO3la0Vji9YCApBZ+CWaPgkAjd7puqiAnzmP8NzjFDxHW/zYyy;XfPmaHG77mBvu1QvSTIvLw=="
+secured: "/M4E4x3wpQ+M+pLa5B7oT/B+4B1RHPW8J3JxXtTFbtdXyThUdcHZD8CLy/EHX1q5TXHWDCPylQCNefVnvMYgo+wlU57kNidXjWAyygVILH65rJgkpuQPGSaNnErbToqq0bK9hthhFcesyHZRCZkczsZbqaYm5zBFquSdnXp06mhRP3uDn7P5Ry0U7ks+jzrBicOh3BGmoBXv6TQBsaGXU9WMBfKlodTeCNo1xgaDKeQUCGCICaKkNOWaLuhoRl7Tlz2LyNINLa09J2+fL+tLZtySO465d/ULxfvgQj/VijSbE8a+dRBxlUnt+DQkOr/d;8SWUy0KxIawWjulQR/86HQ=="
 ---
 

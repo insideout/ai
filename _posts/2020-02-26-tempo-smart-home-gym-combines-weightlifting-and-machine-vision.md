@@ -8,8 +8,8 @@ ampWebUrl: "https://www.slashgear.com/tempo-smart-home-gym-combines-weightliftin
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/tempo-smart-home-gym-combines-weightlifting-and-machine-vision-26611329/amp/"
 type: article
 quality: 74
-heat: 74
-published: true
+heat: -1
+published: false
 
 provider:
   name: SlashGear
@@ -29,6 +29,23 @@ images:
     height: 800
     title: "Tempo smart home gym combines weightlifting and machine vision"
 
-secured: "uPRi5Jdd3quRrrLnlAiZ3xRp6lB2UWoS7wbh/cKJL/lmMDMBBxC19ong/ccBdZ9oz6ZdWcICY4NNi2cscEOA1NYqx+tQYVM8AdPodptNyx//JFeY+60f07H+IhcGob5AxRt8CORONZ8K7lPR9oaheBcmC90FB3zBvu5d/MMKqGaYqZqe0YzVL0wwczI4FrTCCdvbIIVa0e2tfGNSLt9IYP1q+noJBy47h1SKphkSjSoDvbWLSL85sUYS2GyfVLfVfZNsk/r+FBv3OSYg1/4kqz6Xisy/OkWmkTbfUXuP12GgpF/csa5Ab6pwqYggcgGN;KIdYLN2wLkhJv2MRuaL+iw=="
+related:
+  - title: "Tempo is a smart home gym that uses computer vision to track your form in real time"
+    excerpt: "The computer vision also helps to count those reps and shows on-screen how many you’ve done. Tempo costs $1,995 plus a $39 monthly subscription As with most other smart fitness equipment, Tempo does come with a monthly content subscription fee of $39 on top of the equipment price of $1,995 plus tax and shipping / installation. At this time ..."
+    publishedDateTime: 2020-02-26T15:00:00Z
+    webUrl: "https://www.theverge.com/2020/2/26/21154185/tempo-smart-home-gym-kinect-computer-vision-ai-form-correction"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/2/26/21154185/tempo-smart-home-gym-kinect-computer-vision-ai-form-correction"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/26/21154185/tempo-smart-home-gym-kinect-computer-vision-ai-form-correction"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 83
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/qh0YjAia5cjQAYRLa7AG7RV_kGQ=/0x0:2400x1600/1400x933/filters:focal(1008x608:1392x992):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66377186/02_Tempo_Bedroom.0.png"
+        width: 1400
+        height: 933
+
+secured: "NCCdoxyFdIcWI7N4B15nn6jcCrMPnT7D7GJUkZJD5HGps4g06KD1vMWwjPBWlqJYkRmBw7mByqzVxCk0yYxgmaeU3zsy/q0ZqhXfPXelxSvawaRlIjNZ9wArCdfAYYjrL5OhV8CHwStZIar8/nkeMFd9BuG9GYkQ37gXFRk1LG7fCF2nMntBG+AvT7tjWkPXFFRTdWMTD0k/ay667HdZvmTK6PowcPHYhGfrtwJoMgaF2K3reXYvznbQL10NGgk8kWcv6WMNbWBvwDMt8RbJUQsFByXippouoVfBve2Fl/v4ogezCtApqxOnpmkCwBKnM6kWNseGHFemEBNKSA96MuvjSa8diRdgV/JHW5BbYFiGXFYbfKsmQHQUtG3WUlGJxc1gXl6slo8p6RcZiaOMiTf9EbwvHR1nsYK5hWfphMdGUsys06w7IJctxp0aA/mfMPRKieOWW1+kIYhzKrHHTwb4b+1ydBSGnuy55uRhfgI=;fpL4Ra7zR0uQNqGBgXDjlQ=="
 ---
 

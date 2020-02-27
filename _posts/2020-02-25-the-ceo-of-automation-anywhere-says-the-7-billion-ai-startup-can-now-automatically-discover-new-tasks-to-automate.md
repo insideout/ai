@@ -38,6 +38,19 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 67
+  - title: "CIA’s Utilization of Robotics Process Automation"
+    excerpt: "In order to see what the bot is doing, the ServiceNow platform uses visuals to show what tasks the bot has completed. The Robotics Process Automation Center of Excellence is a step towards artificial intelligence (AI) and machine learning (ML) at the agency. “There are some efforts across the CIA to go that arena,” Dempsey said."
+    publishedDateTime: 2020-02-26T22:28:00Z
+    webUrl: "https://www.meritalk.com/articles/cias-utilization-of-robotics-process-automation/"
+    type: article
+    provider:
+      name: MeriTalk
+      domain: meritalk.com
+    quality: 54
+    images:
+      - url: "https://cdn.meritalk.com/wp-content/uploads/2019/04/CIA-min.jpg"
+        width: 800
+        height: 450
 
 secured: "BOhTopC5MlFBDpViCZZqsBtFXggE1/M947Ct2AL32r2x1VMSo2P5ILXgAfa7apWsMGGuyKc02oezss2xa2CbuT1y7ERr9ZeA8o50Wb2V6dB9RNy6iuANcYTiXfsp0K7uMnsWGH4CcVpv7iRtJkTmThwxG6BMIhbldLc8F1Rxudi+0je8VTurVDnhXEAzXIrffzoPG52tGBv/b1llMSz+8dxL7ZkRuvSjphk3pGOqVshdUPDpgnjnq5ijpVOqzGAO2tOCZQPsk/YPyRro0ny/kFeOZWMPNCK8aun5ysUuy/CAhmb7JjeAdhJJx8FQ8TGlXB666QjQ59fgRjl2k1SncVD4+EN0DCyCXxLg1CdxUxXKwrmdSNOgFQtViXfgWp5zoCeFLcpYDJTkbgYpGUE1ZuiymXoahxZiSb7U2W5EtlwnkK/xZStOGgeb5U4eWbQoK6AwvgkpceDHGohKmpdxqDqAyVtardeH3fHbLeJOszA=;ioKcrPY/YDjdCyE3VYlcig=="
 ---

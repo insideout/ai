@@ -44,6 +44,15 @@ related:
       - url: "https://cdn.southampton.ac.uk/assets/imported/transforms/site/news-release/PageThumbnail/566D6AE6FB4149BD97F4881362B0C14B/Virtual%20Laboratory%20-%20Southampton%20Zurich%20and%20Padova%202.jpg_SIA_JPG_fit_to_width_INLINE.jpg"
         width: 400
         height: 452
+  - title: "Artificial and Biological Neurons Just Talked Over the Internet"
+    excerpt: "For the first time, scientists have engineered and switched on a working neural net that allows biological and silicon ... that was never encountered during natural evolution, where biological and artificial neurons are linked together and communicate across global networks; laying the foundations for the Internet of Neuro-electronics ..."
+    publishedDateTime: 2020-02-26T22:38:00Z
+    webUrl: "https://futurism.com/neoscope/artificial-biological-neurons-talked-internet"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 4
 
 secured: "tH4I22nRu2vbibowARHlmg1/IWNKKD7zYIwimmLt66MKM6peXDRIuGpQMjh7aT+2fdt/T3/nNpCFFRLwZgrTSf4bhfru3b491qWN7joZBSMzBH/I2OJ3eT2JVWqcPGNhfv6SvfUn3JFkbZPtdyTf1hBEo7GyISNSlYDU4jZ6n+zvQ8+C0OBW7lMJ5bNDFDRoYO+T63nmOOMhBdi5viRAw1FScqCzKwTmvyu3G0AcGd+OdUl466aWpcQUGjSKMHrcqUmUmbymNHUkOwGnP1GEvxq+oqk+75TLZAy5yDGh9n+a9NjDbigERrl5TkAt7UJbZ69BVtuB1bGR1yA9q10N6svp03Lix9E71YUrBqvOw7nEmR7TWLUyToW5cNo4eYfhfHIYXM6oBVj/nZCEOWkrVrZvDsE0wMOnxrYflttzjd2mSE3iFIfu0/CXVGR+NnPEgzPJnPnPxlN3ekrNj/yQC2v7cIG21FlcopQi8/zDvHw=;HB5V+GmE1D7QiZhQ5r8CAw=="
 ---

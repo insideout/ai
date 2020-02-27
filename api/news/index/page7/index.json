@@ -2,50 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_posts/2020-02-24-softbank-leads-265-million-investments-in-two-us-based-start-ups.md",
-      "title": "SoftBank leads $265 million investments in two U.S.-based start-ups",
-      "excerpt": "SoftBank on Monday led a new funding round of $165 million in California-based Karius and invested $100 million in New York-headquartered AI company Behavox, as the technology giant builds a portfolio under its second Vision Fund.",
-      "heat": 112,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.reuters.com/article/us-karius-funding-idUSKCN20I155",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN20I155",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN20I155",
-      "publishedDateTime": "2020-02-24T12:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200224&t=2&i=1494517480&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG1N0Y9",
-          "width": 785,
-          "height": 545,
-          "title": "SoftBank leads $265 million investments in two U.S.-based start-ups",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-24-the-future-of-customer-service-isnt-as-simple-as-ai-or-human.md",
       "title": "The Future Of Customer Service Isn't As Simple As AI Or Human",
       "excerpt": "Business leaders who wish to bring AI-human collaboration to life in their customer service organizations need only ask themselves a few key questions to get started.",
@@ -532,7 +488,7 @@
       "path": "_posts/2020-02-25-augean-robotics-mechanizing-food-production-from-farm-to-table.md",
       "title": "Augean Robotics: Mechanizing Food Production From Farm To Table",
       "excerpt": "It spanned over 120 feet and took up a considerable area inside the already overpacked robotics section of the Las Vegas Convention Center, leaving many to wonder, ‘What on earth is a tractor doing at CES?’ Ever the since the acquisition of the artificial intelligence startup Blue River Technologies for $305 million, John Deere has been ...",
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.alleywatch.com/2020/02/augean-robotics-mechanizing-food-production-from-farm-to-table/",
@@ -1682,7 +1638,7 @@
       "path": "_posts/2020-02-25-save-97-off-this-machine-learning-data-science-certification-training-bundle.md",
       "title": "Save 97% off this Machine Learning & Data Science Certification Training Bundle",
       "excerpt": "Master the Most Important Deep Learning Frameworks for Python Data Science Tensorflow Masterclass For Machine Learning and Artificial Intelligence in Python Complete Tensorflow Mastery For Machine Learning & Deep Learning in Python Python Regression Analysis: Statistics & Machine Learning Learn Complete Hands-On Regression Analysis for ...",
-      "heat": 102,
+      "heat": 112,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.neowin.net/news/save-97-off-this-machine-learning--data-science-certification-training-bundle",
@@ -2153,6 +2109,50 @@
         "AI",
         "AWS AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-26-ai-needs-to-be-controlled-but-lazy-humans-may-not-be-up-to-the-job.md",
+      "title": "AI needs to be controlled. But lazy humans may not be up to the job",
+      "excerpt": "Artificial intelligence, for all its benefits, needs human oversight. Government reports, and experts all over the world have stressed the importance of keeping a human decision-maker in the loop when using AI. \"Human agency and oversight\" is the first key requirement laid out in the EU Commission's white paper on the regulation of AI ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/ai-needs-to-be-controlled-but-lazy-humans-may-not-be-up-to-the-job/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-needs-to-be-controlled-but-lazy-humans-may-not-be-up-to-the-job/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-needs-to-be-controlled-but-lazy-humans-may-not-be-up-to-the-job/",
+      "publishedDateTime": "2020-02-26T08:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/02/20/6ec3400c-4d6f-4edc-bbae-714003910df4/thumbnail/1200x675/633a5f0e0a9995b7384bbd620431291c/ai-strategy-how-the-eu-hopes-to-put-peop-5e4e5afadb1d010001ac32fe-1-feb-20-2020-12-22-36-poster.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "AI needs to be controlled. But lazy humans may not be up to the job",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

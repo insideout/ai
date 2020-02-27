@@ -24,56 +24,71 @@ images:
     title: "Viz.ai Showcasing Artificial Intelligence Detection for Cerebral Aneurysms at 2020 International Stroke Conference"
 
 related:
-  - title: "Viz.ai Adds Next Generation Functionality to Artificial Intelligence Stroke Platform"
-    excerpt: "SAN FRANCISCO--(BUSINESS WIRE)--Viz.ai, the leader in applied artificial intelligence in healthcare, today launched the next generation of its synchronized care platform for stroke. Viz.ai incorporates cutting edge artificial intelligence with HIPAA-compliant communication to allow stroke teams to quickly and efficiently triage patients to time ..."
-    publishedDateTime: 2020-02-19T20:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200219005851/en/"
+  - title: "Simplifying Conversational AI, One Interaction At A Time"
+    excerpt: "What if we could speak with our devices, cars, and homes just as easily as we do with our friends? Conversation is the bedrock of human communication, a transformative tool that reveals what’s inside our heads and hearts."
+    publishedDateTime: 2020-02-26T23:43:00Z
+    webUrl: "https://www.forbes.com/sites/googlecloud/2020/02/26/simplifying-conversational-ai-one-interaction-at-a-time/"
+    ampWebUrl: "https://www.forbes.com/sites/googlecloud/2020/02/26/simplifying-conversational-ai-one-interaction-at-a-time/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/googlecloud/2020/02/26/simplifying-conversational-ai-one-interaction-at-a-time/amp/"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 47
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://mms.businesswire.com/media/20200219005851/en/774458/23/Viz.ai_Logo_Blue_Horizontal.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e56da9e7a00980007345118%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3969%26cropY1%3D326%26cropY2%3D2560"
         width: 1200
-        height: 627
-  - title: "Viz.ai Adds Next Generation Functionality to Artificial Intelligence Stroke Platform"
-    excerpt: "Viz.ai, the leader in applied artificial intelligence in healthcare, today launched the next generation of its synchronized care platform for stroke. Viz.ai incorporates cutting edge artificial intelligence with HIPAA-compliant communication to allow stroke teams to quickly and efficiently triage patients to time-sensitive care with the aim of ..."
-    publishedDateTime: 2020-02-24T22:58:00Z
-    webUrl: "https://apnews.com/Business Wire/5ee81850c98c47a283cd1ff42d2654ef"
+        height: 676
+  - title: "Conversational AI Market is Gaining an Upward Trend Due to Rising Adoption of Virtual Assistants"
+    excerpt: "Market Highlights Conversations artificial intelligence is a nascent technology and has already gained traction of"
+    publishedDateTime: 2020-02-25T09:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/conversational-ai-market-is-gaining-an-upward-trend-due-to-rising-adoption-of-virtual-assistants-2020-02-25"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 47
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-  - title: "Signal AI Introduces the Next Generation of Artificial Intelligence With the Launch of AIQ"
-    excerpt: "LONDON--(BUSINESS WIRE)--Today, Signal AI, one of the leading companies transforming how business leaders make sense of the world’s information, has announced the launch of AIQ, the next generation of AI technology powering their media monitoring and market intelligence platform. AIQ enhances the proprietary artificial intelligence ..."
-    publishedDateTime: 2020-02-19T08:29:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200219005066/en/Signal-AI-Introduces-Generation-Artificial-Intelligence-Launch"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 42
-    images:
-      - url: "https://mms.businesswire.com/media/20200219005066/en/774196/23/AIQ_Logo.jpg"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 627
-  - title: "Yseop Announces Augmented Analyst, the Next-Generation AI NLG Platform Featuring ..."
-    excerpt: "Yseop, the world-leading AI software company and pioneer in Natural Language Generation (NLG), today announced the launch of Augmented ... scaling from single use case applications to enterprise-wide deployments could translate into billions in savings for the financial and pharmaceutical industries. Developed with high levels of user-adoption ..."
-    publishedDateTime: 2020-02-14T09:00:00Z
-    webUrl: "https://theprovince.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/yseop-announces-augmented-analyst-the-next-generation-ai-nlg-platform-featuring-the-most-advanced-intelligent-automation-solution-for-streamlined-regulatory-compliance-reporting/wcm/562a1186-0e94-4be1-ae5c-b57c9948a9c4"
-    ampWebUrl: "https://theprovince.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/yseop-announces-augmented-analyst-the-next-generation-ai-nlg-platform-featuring-the-most-advanced-intelligent-automation-solution-for-streamlined-regulatory-compliance-reporting/wcm/562a1186-0e94-4be1-ae5c-b57c9948a9c4/amp"
-    cdnAmpWebUrl: "https://theprovince-com.cdn.ampproject.org/c/s/theprovince.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/yseop-announces-augmented-analyst-the-next-generation-ai-nlg-platform-featuring-the-most-advanced-intelligent-automation-solution-for-streamlined-regulatory-compliance-reporting/wcm/562a1186-0e94-4be1-ae5c-b57c9948a9c4/amp"
+        height: 630
+  - title: "The AI Eye: Cisco Announces IoT Portfolio Innovations Including Machine Learning and Wipro Digital Acquires CX Firm Rational Interaction"
+    excerpt: "Point Roberts, WA and Vancouver, BC - February 21, 2020 (Investorideas.com Newswire) Investorideas.com (www.investorideas.com), a global investor news source covering Artificial Intelligence (AI) brings you today's edition of The AI Eye - watching stock news,"
+    publishedDateTime: 2020-02-21T17:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/the-ai-eye-cisco-announces-iot-portfolio-innovations-including-machine-learning-and-wipro-digital-acquires-cx-firm-rational-interaction-2020-02-21"
     type: article
     provider:
-      name: The Province
-      domain: theprovince.com
-    quality: 32
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Just AI, a Conversational AI Solutions Provider, Receives Investment from Fintech and Telecom Companies"
+    excerpt: "Just AI, a сonversational AI technologies developer and solutions provider, received from two strategic investors: MTS PJSC and Sovcombank PJSC​. The new investors' total share in the capital of Just AI was 22."
+    publishedDateTime: 2020-02-21T08:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/02/r15381930/just-ai-a-conversational-ai-solutions-provider-receives-investment-from-fintech-and-telecom-compan"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/15381930"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15381930"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 23
+  - title: "Optimization of culture conditions for differentiation of melon based on artificial neural network and genetic algorithm"
+    excerpt: "Artificial neural network is an efficient and accurate fitting method. It has the function of self-learning, which is particularly important for prediction, and it could take advantage of the computer’s high-speed computing capabilities and find the optimal solution quickly. In this paper, four culture conditions: agar concentration ..."
+    publishedDateTime: 2020-02-26T10:21:00Z
+    webUrl: "https://www.nature.com/articles/s41598-020-60278-x"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 14
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-60278-x/MediaObjects/41598_2020_60278_Fig1_HTML.png"
+        width: 685
+        height: 476
 
 secured: "9gb7dW2cV4kJTlV/BHvT+wbMDFNEHgL/BRNjxPw3Cfa+Cwin2ktuasaW6vg6HwIfuHSzaSDzD38ZI1VBU/8VBWZQF/oyOyYqcJ8QVhVNNRv2apfXCj2pS3qOKw5xmFJHmeu8akf8aHawJkmylmTuu5LRXZ3ow6ss3jNvxn6+sektW4bCcjqDdNnoFXMygyDKOGpAX71iIBqCYr4MwuaobtTjCsWO6mZH4p3XCTMMwdbR+OM6/4dmYkJQqCVA/pGmZ8XaMn6bWjtVJniM4X9/EIDmvPmyooBsPNPz0GIO8DLJlNTIYxxwfE6fXUhorkzW269wr+4lRceO6RqlYdm2X1CjeyZ1epgcajsWldJ35D+bv+CsKbOVKVmSUsBJvxCzEDwbOVjzXUHBjiaJFv7Gqocozn2Js9j8HwRqlZtby0gknJgPOrjSQ6wBbnfZSYeuE2zu6cxjE+Tpa9zGYcB2CoASYWcvJF500HZoq9U19OY=;PqU/xWFrL3AxNWD+/w4EbQ=="
 ---

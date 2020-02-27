@@ -114,6 +114,46 @@ related:
       - url: "https://www.orlandosentinel.com/resizer/IyTRSeHRrO-zFFpPm21cQfsNu1A=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/A26UHWXZQVHKZNVFK7ZJNKL4LE.jpg"
         width: 1200
         height: 661
+  - title: "California's Self-Driving Car Companies Cover 2.9 Million Miles in 2019: DMV"
+    excerpt: "Self-driving car companies in California covered nearly 2.9 million miles on public roads during 2019, the state's Department of Motor Vehicles said on Wednesday. The data is part of California regulators' annual so-called \"disengagement reports\","
+    publishedDateTime: 2020-02-26T15:53:00Z
+    webUrl: "https://www.nytimes.com/reuters/2020/02/26/business/26reuters-autos-self-driving-california.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 51
+    images:
+      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
+        width: 1200
+        height: 630
+  - title: "Waymo joins critics of California's self-driving data reports"
+    excerpt: "Alphabet Inc’s (GOOGL.O) Waymo, widely considered the front-runner in self-driving vehicles, on Wednesday joined a growing chorus of dissenters panning a California requirement on reporting test data,"
+    publishedDateTime: 2020-02-26T22:06:00Z
+    webUrl: "https://www.reuters.com/article/us-autos-self-driving-california/californias-self-driving-car-companies-cover-2-9-million-miles-in-2019-dmv-idUSKCN20K31X"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 49
+  - title: "Waymo And Cruise Vie For Supremacy In Murky California Self-Driving Data"
+    excerpt: "Annual statistics for how infrequently humans need to take control of self-driving vehicles isn’t definitive but is encouraging."
+    publishedDateTime: 2020-02-26T22:27:00Z
+    webUrl: "https://www.forbes.com/sites/alanohnsman/2020/02/26/waymo-and-cruise-vie-for-supremacy-in-murky-california-self-driving-data/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 48
+  - title: "How Self-Driving Car Makers Measure Their Own Progress"
+    excerpt: "It’s report card season for self-driving cars. Wednesday, the California Department of Motor Vehicles released reports detailing how much the companies permitted to test autonomous vehicles in the state drove last year, and how often their human safety operators had to take control from the computer. The “disengagement reports” provide a ..."
+    publishedDateTime: 2020-02-26T20:24:00Z
+    webUrl: "https://www.wired.com/story/how-self-driving-car-makers-measure-progress/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 34
   - title: "The CEO of the Amazon-backed self-driving car startup Aurora explains why testing its tech on a computer is better than testing it in the real world"
     excerpt: "Aurora is developing software and hardware for autonomous vehicles with the goal of acting as a supplier to other companies."
     publishedDateTime: 2020-02-26T14:10:00Z
@@ -128,6 +168,6 @@ related:
         width: 1200
         height: 600
 
-secured: "6Hp/u0k+pvGIjtPN0R7xcSNND/kgcrFkSARVpYK5hUaxbDSoea9SiOg/H/NHFWEiby2AKZnDzo7iAc3DjO4zbNXFNzmWkjgS7t47mbGMBU0LoN1vgwOizwtG4YFtTXSKh76y0g9oz+CVLIz0j1LbyDJpZXKxb0j3gvr3cox1jGrlWPMTYRXActjNCqxRgncyvDx/eJ4xoVvvjqlMvpn1EUFJim/PRszjyDzUx4HFHEelMyRpCjwR31ZgvLhaQrHZBjMHi0BEZmJD1L7YxBDJ+4Ains0BlMIICl9PZra2xrYNpPhcYFkcAf3HrZ6I593pOncSt/Sl6WCR9maDYlxTKDb0nF56O2DpMYSTP+MxDPiIAsFk+Cq5629MJF/FfqcAImCx5QXxqpZeyKfXV+oBRKO10hpalF3HDUqtVypnQY6R5LxxHvcHfmWk40BVeppEtwyPlYQvJJiGeQI/4+iwBKw0XEl3MdhbD4Pa83Xb/O8=;WK4DnO12yDLGanctUMzapA=="
+secured: "fWWdMRsgTCNrOtn2NF2qihm8xFYMV9UZwfWfqfxpgLExeSQqW8XomfpF84RrvMvOr6M+ZjBuHOZ3qthLa0BdmWaaKEsQ2DvF5CZOBgVqUuSg9+6Zb3gJK/2HYrzeKRBYFtTfQBBElcmvmwJEyuBc+jUfj6/3U3v7aBVJhPtslyNLy/I8ueVN/WG9JJAQaUDYsBcdMDm7RDZMdCF0DKfVNejH7dEKFvx3sIbf6XXtzrAOaYwJ8kNpjRlQ7qqkLHW66EVj0G2rXhWCtCOOazRMvkDeStkjHA9SbzUAc+BSKAml9Lg7+OAMeNHzvNuH0UU+;t5UAQRJxnILanisK9pH6mg=="
 ---
 

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/gilpress/2020/02/21/ai-improves-healthc
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2020/02/21/ai-improves-healthcare-91-of-healthcare-executives-say-it-does/amp/"
 type: article
 quality: 91
-heat: 171
+heat: 191
 published: true
 
 provider:
@@ -129,6 +129,24 @@ related:
       name: BMJ
       domain: bmj.com
     quality: 22
+  - title: "How Amazon is making strides in the healthcare space"
+    excerpt: "Over the past year, Amazon Web Services has made significant efforts to infiltrate the healthcare space, including partnering with Cerner and developing artificial intelligence for clinicians. Today, AWS continues to leverage its technology and other resources to help hospitals and health systems improve operations and patient care. Shez ..."
+    publishedDateTime: 2020-02-26T20:50:00Z
+    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/how-amazon-is-making-strides-in-the-healthcare-space.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 21
+  - title: "The Future of Artificial Intelligence in Healthcare"
+    excerpt: "There are numerous applications of AI on the market today or awaiting approval that can improve patient care and potentially save lives. Those applications involve pattern recognition, robotics and natural language processing, which includes speech recognition and translation. Machine learning, a “technique that trains software algorithms to ..."
+    publishedDateTime: 2020-02-26T22:38:00Z
+    webUrl: "https://healthtechmagazine.net/article/2020/02/future-artificial-intelligence-healthcare"
+    type: article
+    provider:
+      name: HealthTech
+      domain: healthtechmagazine.net
+    quality: 19
 
 secured: "X1iVnZ58h7ud5jWh03lEp+963a7kYuHoQ0VWdLxPOqScYW7BzHNv8S1iK8RXQ3xigDRvUah8JBM8sIUYyUQFt2l+nFYKeg41O8NCytoYTtO2Z9oay93t/+bJ0PC846IkJq1FH/UAmXqxjisN8VvesNCmdAobtcblps57WGOSB/UrQXOdWsVMzObfspTQR3+lL6MF2xoSYLSV58EhyF5rSBByVgxpJl+LM4uhbzj4uoqToO7OuGeWlTAaKOEw7KKbdlx94TSy4P8PiR7VeHr0fk1Z0Lhk7X78MJo0dyL+wKislpHL1sY+dOrzXT0a+7kg1NFaaQ8AhNmPcRK00r8/4kZWLM7dHe8epn2EfOl8qVqvVFP7vZy4YpUcpikQgmPxQpDw7Q8K/I797YsEIQIzJRzoXUcJMsDSgQ7V1maY41+NyD+WjE5TQjD58cf4qUK/pSNNTL6frcoh59d5oWBEF6JfNRl8glUK3Wi3VQfBDno=;7xw79u4U2G7iXGLIavTHNg=="
 ---

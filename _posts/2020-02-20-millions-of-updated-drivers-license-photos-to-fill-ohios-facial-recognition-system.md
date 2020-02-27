@@ -8,7 +8,7 @@ ampWebUrl: "https://www.dispatch.com/news/20200220/millions-of-updated-drivers-l
 cdnAmpWebUrl: "https://www-dispatch-com.cdn.ampproject.org/c/s/www.dispatch.com/news/20200220/millions-of-updated-drivers-license-photos-to-fill-ohios-facial-recognition-system?template=ampart"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,32 @@ images:
     width: 3855
     height: 2228
     title: "Millions of updated driver’s license photos to fill Ohio’s facial-recognition system"
+
+related:
+  - title: "ICE has run facial-recognition searches on millions of Maryland drivers"
+    excerpt: "U.S. Immigration and Customs Enforcement officials have been permitted to run facial-recognition searches on millions of Maryland driver’s license photos without first seeking state or court approval, state officials said — access that goes far beyond what other states allow and that alarms immigration activists in a state that grants ..."
+    publishedDateTime: 2020-02-26T23:52:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2020/02/26/ice-has-run-facial-recognition-searches-millions-maryland-drivers/"
+    ampWebUrl: "https://www.washingtonpost.com/technology/2020/02/26/ice-has-run-facial-recognition-searches-millions-maryland-drivers/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2020/02/26/ice-has-run-facial-recognition-searches-millions-maryland-drivers/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 44
+    images:
+      - url: "https://www.washingtonpost.com/resizer/bsBGK8nJfCqHsvAEZS2GY1LKkxY=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EG6CRJFCBEI6TJ3H26VYJLXT5E.jpg"
+        width: 1440
+        height: 921
+  - title: "Data Breach At Controversial Face Recognition Firm Shows Company Can't Be Trusted, U.S. Officials Say"
+    excerpt: "(Photo: Chip Somodevilla (Getty) A security breach at a face-recognition startup, already embattled over its unfettered collection of Americans’ personal data on behalf of its hundreds of U.S. law enforcement clients, further underscores the potential hazards faced by consumers at the hands of a controversial and largely-unregulated ..."
+    publishedDateTime: 2020-02-26T21:14:00Z
+    webUrl: "https://www.gizmodo.com.au/2020/02/data-breach-at-controversial-face-recognition-firm-shows-company-cant-be-trusted-officials-say/"
+    type: article
+    provider:
+      name: Gizmodo Australia
+      domain: gizmodo.com.au
+    quality: 4
 
 secured: "VXxovsJzC/6dbtPXxLQ/y8Gc1Xsf83hsTrYjDsv6FuzImH3W0IwPaIHWgcDAGNHhFZfcRx2/3RkXyhrfr64zQaPdRRrWTCnwYJORx6fsggtvM6t+HNR1ril/p3AxnuWwS6XeSMJGQc+iW73TW5UQFxCpu61WNM9AFCRAjrhbQFnKdcCUezHdtQuNxcQSMfHB7NHZ+MHX8INKBecfE81lNPn24hsPvxfOrYEMnoI9DV8WPnirM0sEjVsjK5yWX6GYOAidgbGWJX9A3YdnrcL97isEpWYys86HGcPkOl5R65c2grKUxYfvY/gtOFeXhxDZQLNX6oMiMnQWreny0MPb549mbkRKHITkKh7dVI3NLvbl1Y5xGtjnNfLydD/wpYnqvrNKlk9ZwthtFrhBDcXWl+3plbBwE5KTeP+txr0sgEQv3RueAX/b10Bo4NIamrOsoQFpmAnehO0kXLvdtXnTQbkT9Emz/sCM9YxDIBp55hM=;s+cLokcq/TLrySc5A21ppA=="
 ---

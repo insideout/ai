@@ -2,176 +2,6 @@
   "page": 26,
   "value": [
     {
-      "path": "_posts/_archive/2020-02-07-an-update-on-intel-and-habana-labs.md",
-      "title": "An Update On Intel And Habana Labs",
-      "excerpt": "Analyst Karl Freund provides an update on Intel's plans to switch its AI acceleration from Nervana to recently acquired Habana Labs.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/02/05/an-update-on-intel-and-habana-labs/?ss=ai",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/02/05/an-update-on-intel-and-habana-labs/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/02/05/an-update-on-intel-and-habana-labs/amp/",
-      "publishedDateTime": "2020-02-07T09:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e3a6013f133f400076baa00%2F0x0.jpg",
-          "width": 899,
-          "height": 568,
-          "title": "An Update On Intel And Habana Labs",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-02-07-artificial-intelligence-privacy-and-the-choices-you-must-make.md",
-      "title": "Artificial Intelligence, Privacy, And The Choices You Must Make",
-      "excerpt": "For some thoughtful insights we can turn to Rhonda Scharf’s book Alexa Is Stealing Your Job: The Impact of Artificial Intelligence on Your Future.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/rodgerdeanduncan/2020/02/07/artificial-intelligence-privacy-and-the-choices-you-must-make/",
-      "ampWebUrl": "https://www.forbes.com/sites/rodgerdeanduncan/2020/02/07/artificial-intelligence-privacy-and-the-choices-you-must-make/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rodgerdeanduncan/2020/02/07/artificial-intelligence-privacy-and-the-choices-you-must-make/amp/",
-      "publishedDateTime": "2020-02-07T00:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e17afe8735f8c0007998582%2F0x0.jpg",
-          "width": 640,
-          "height": 389,
-          "title": "Artificial Intelligence, Privacy, And The Choices You Must Make",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-02-07-center-for-robotics-and-biosystems-at-northwestern-works-on-human-robot-collaboration.md",
-      "title": "Center for Robotics and Biosystems at Northwestern works on human-robot collaboration",
-      "excerpt": "“The robot can learn how well the user can operate on his or her own and adjust ... not to mention the application itself. “Artificial intelligence is a hot topic,” Lynch acknowledged. “At the highest level, embodied intelligence has to have some physical connection to the world. It’s not just chatbots but AI that receives information ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.therobotreport.com/center-robotics-biosystems-northwestern-human-robot-collaboration/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-07T13:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2020/02/cooperative-mobile-manipulators-1024x683.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": "Center for Robotics and Biosystems at Northwestern works on human-robot collaboration",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-02-07-clearview-says-first-amendment-lets-it-scrape-the-internet-lawyers-disagree.md",
-      "title": "Clearview says First Amendment lets it scrape the internet. Lawyers disagree",
-      "excerpt": "On a CBS This Morning segment on Wednesday, Clearview AI CEO Hoan Ton-That said his company had a First Amendment right to access public data, including photos from YouTube, Facebook, Twitter, LinkedIn and Venmo. It uses those photos for a controversial database primarily used by law enforcement. (Disclosure: CBS News and CNET are owned by the ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/news/clearview-says-first-amendment-lets-it-scrape-the-internet-lawyers-disagree/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/clearview-says-first-amendment-lets-it-scrape-the-internet-lawyers-disagree/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/clearview-says-first-amendment-lets-it-scrape-the-internet-lawyers-disagree/",
-      "publishedDateTime": "2020-02-07T03:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/xfPdi1mmwtDzDUGS-y0SixQK_QU=/756x567/2019/03/15/d0e98f89-88ab-436f-8f6d-503a95eb57f0/facial-recognition-face-id-password-6.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "Clearview says First Amendment lets it scrape the internet. Lawyers disagree",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-02-07-daily-news-of-artificial-intelligence.md",
       "title": "DAILY NEWS OF ARTIFICIAL INTELLIGENCE",
       "excerpt": "The robots have recently entered pole-dancers ... costs and fraudulent orders PWC Tech World reports that most e-commerce platforms are focused on sectors such as communication commerce, artificial intelligence (AI), virtual reality (VR) / augmented reality (AR) and analytics technologies New Delhi: Global auditing and consulting firm PWC ...",
@@ -2068,7 +1898,7 @@
       "path": "_posts/_archive/2020-02-09-this-paralyzed-man-can-feel-his-fingers-again-thanks-to-a-mind-controlled-robotic-arm.md",
       "title": "This paralyzed man can feel his fingers again thanks to a mind-controlled robotic arm",
       "excerpt": "Mashable is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content ...",
-      "heat": 97,
+      "heat": 77,
       "tags": null,
       "type": "article",
       "webUrl": "https://mashable.com/2016/10/14/paralyzed-man-feels-fingers-again/",
@@ -2083,15 +1913,7 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2016%252F10%252F14%252Fb6%252FAP_16287736330662.d3659.jpg%252F1200x630.jpg?signature=NIqfeD79B--WSLa-nz-r7U5cHZ0=",
-          "width": 1200,
-          "height": 630,
-          "title": "This paralyzed man can feel his fingers again thanks to a mind-controlled robotic arm",
-          "attribution": null
-        }
-      ],
+      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
@@ -2144,6 +1966,176 @@
       "topics": [
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-02-09-why-the-race-for-ai-dominance-is-more-global-than-you-think.md",
+      "title": "Why The Race For AI Dominance Is More Global Than You Think",
+      "excerpt": "When people hear about the race for Artificial Intelligence dominance, they often think that the main competition is between the US and China. But, many countries have AI efforts, funding, technologies,",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/09/why-the-race-for-ai-dominance-is-more-global-than-you-think/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/09/why-the-race-for-ai-dominance-is-more-global-than-you-think/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/02/09/why-the-race-for-ai-dominance-is-more-global-than-you-think/amp/",
+      "publishedDateTime": "2020-02-08T22:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1144319087%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Why The Race For AI Dominance Is More Global Than You Think",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-02-10-7-things-digital-marketing-industry-need-to-know-about-artificial-intelligence.md",
+      "title": "7 Things Digital Marketing Industry Need To Know About Artificial Intelligence",
+      "excerpt": "But, again, it becomes important to mention digital marketing without an effective resolution to the customer means nothing. And, here, AI or Artificial Intelligence comes into the picture. Today, most of the companies are merging the two technologies to create outstanding business operations, which can help in business growth.",
+      "heat": 73,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/@inforobertsmith36/7-things-digital-marketing-industry-need-to-know-about-artificial-intelligence-17cab74ff304",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T10:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*9CF2YcL5UfPcmS034ycptg.jpeg",
+          "width": 1200,
+          "height": 628,
+          "title": "7 Things Digital Marketing Industry Need To Know About Artificial Intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-02-10-8-powerful-examples-of-ai-for-good.md",
+      "title": "8 Powerful Examples Of AI For Good",
+      "excerpt": "Many of the headlines about artificial intelligence warn of its dangers. However, artificial intelligence (AI) can be and is being used for good in many ways from improving the accessibility for people with disabilities to building our resilience to natural disasters.",
+      "heat": 187,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/02/10/8-powerful-examples-of-ai-for-good/",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/02/10/8-powerful-examples-of-ai-for-good/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/02/10/8-powerful-examples-of-ai-for-good/amp/",
+      "publishedDateTime": "2020-02-09T21:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e40e666a854780006b0e11d%2F0x0.jpg",
+          "width": 1200,
+          "height": 754,
+          "title": "8 Powerful Examples Of AI For Good",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-02-10-adobe-launches-experience-platform-out-of-azure-in-australia.md",
+      "title": "Adobe launches Experience Platform out of Azure in Australia",
+      "excerpt": "According to Adobe, the Microsoft Azure local data centre will enable Australia and New Zealand businesses to ... See also: Adobe's Experience Cloud now incorporates AI and machine learning (TechRepublic) Adobe has touted the new data centre as \"simplifying data governance\", by not only bringing data together from siloed applications ...",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/adobe-launches-experience-platform-out-of-azure-in-australia/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/adobe-launches-experience-platform-out-of-azure-in-australia/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/adobe-launches-experience-platform-out-of-azure-in-australia/",
+      "publishedDateTime": "2020-02-10T14:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
       ]
     }
   ],

@@ -24,64 +24,60 @@ images:
     title: "Congress looks to revive self-driving car legislation"
 
 related:
-  - title: "We still can’t agree how to regulate self-driving cars"
-    excerpt: "A quick recap in case you forgot: the Republican-controlled House of Representatives unanimously passed the SELF DRIVE Act in 2017, which would speed the adoption of self-driving cars and bar ..."
-    publishedDateTime: 2020-02-11T21:26:00Z
-    webUrl: "https://www.theverge.com/2020/2/11/21133389/house-energy-commerce-self-driving-car-hearing-bill-2020"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2020/2/11/21133389/house-energy-commerce-self-driving-car-hearing-bill-2020"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/11/21133389/house-energy-commerce-self-driving-car-hearing-bill-2020"
+  - title: "The Self Driving And Sharing Economy: How Regulation May Drive The Transportation Revolution In 2020 And Beyond"
+    excerpt: "Everyone recognizes that these technologies will mold the future, but this final piece—how regulators will interact with these developing technologies—is the critical factor that has the potential to shape the race to market."
+    publishedDateTime: 2020-02-13T01:21:00Z
+    webUrl: "https://www.forbes.com/sites/paulrosen/2020/02/12/the-self-driving-and-sharing-economy-how-regulation-may-drive-the-transportation-revolution-in-2020-and-beyond/"
+    ampWebUrl: "https://www.forbes.com/sites/paulrosen/2020/02/12/the-self-driving-and-sharing-economy-how-regulation-may-drive-the-transportation-revolution-in-2020-and-beyond/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paulrosen/2020/02/12/the-self-driving-and-sharing-economy-how-regulation-may-drive-the-transportation-revolution-in-2020-and-beyond/amp/"
     type: article
     provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 74
+      name: Forbes
+      domain: forbes.com
+    quality: 69
     images:
-      - url: "https://cdn.vox-cdn.com/thumbor/10T-kTZJK2tlblwYeUppcBLmegw=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66295443/vpavic_191202_3827_0024.0.jpg"
-        width: 1400
-        height: 933
-  - title: "Lawmakers, Trial Lawyers Clash Over Self-Driving Car Rules"
-    excerpt: "(TNS) — Lawmakers in the U.S. House on Tuesday took to task a trial lawyers' lobby group that helped kill a bill setting regulations for self-driving cars. The Washington-based American Association for Justice, which lobbies for trial lawyers who typically represent plaintiffs, had objected to a lack of concrete protections that would ensure ..."
-    publishedDateTime: 2020-02-12T18:09:00Z
-    webUrl: "https://www.govtech.com/transportation/Lawmakers-Trial-Lawyers-Clash-Over-Self-Driving-Car-Rules.html"
-    ampWebUrl: "https://www.govtech.com/transportation/Lawmakers-Trial-Lawyers-Clash-Over-Self-Driving-Car-Rules.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/transportation/Lawmakers-Trial-Lawyers-Clash-Over-Self-Driving-Car-Rules.html?AMP"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e3074548b6cf300071d30e2%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D960%26cropY1%3D48%26cropY2%3D588"
+        width: 960
+        height: 541
+  - title: "House Hearing Revives Push for Self-Driving-Car Legislation"
+    excerpt: "House lawmakers held a hearing in an effort to revive legislation that would create clear federal safety guidelines and standards for autonomous vehicles and help companies bring the technology to market."
+    publishedDateTime: 2020-02-12T14:21:00Z
+    webUrl: "https://www.wsj.com/articles/house-hearing-revives-push-for-self-driving-car-legislation-11581503402"
     type: article
     provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 44
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 54
     images:
-      - url: "https://media2.govtech.com/images/shutterstock_1019141671.jpg"
-        width: 950
-        height: 629
-  - title: "Has reality put the brakes on self-driving cars?"
-    excerpt: "Five years ago you couldn’t move for it, or at least its promise. Autonomy (aka the self-driving car) was going to take over, save lives, save the planet, make cars uncrashable, put drivers out of work and change everything we knew about individual mobility. Audi staged a piloted drive in one of its large saloons; all 550 miles from Silicon ..."
-    publishedDateTime: 2020-02-17T16:56:00Z
-    webUrl: "https://www.telegraph.co.uk/cars/features/has-reality-put-brakes-self-driving-cars/"
-    ampWebUrl: "https://www.telegraph.co.uk/cars/features/has-reality-put-brakes-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/cars/features/has-reality-put-brakes-self-driving-cars/amp/"
+      - url: "https://images.wsj.net/im-153483/social"
+        width: 1280
+        height: 640
+  - title: "Global Emotion Detection And Recognition (EDR) Market 2020 Growth Analysis, Key Insights, Future Development and Statistical Forecast 2025"
+    excerpt: "Scope of the Report Emotion Detection and Recognition (EDR) is typically identifying human emotion from facial expression or verbal expression. Now, with the help of AI, NLP and ML, the machine is made to understand human emotion through various software and act according to it."
+    publishedDateTime: 2020-02-19T11:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-emotion-detection-and-recognition-edr-market-2020-growth-analysis-key-insights-future-development-and-statistical-forecast-2025-2020-02-19"
     type: article
     provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 44
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 20
     images:
-      - url: "https://www.telegraph.co.uk/content/dam/cars/2020/02/17/TELEMMGLPICT000059012609_trans_NvBQzQNjv4Bq3zRqJvTEgWWOoA_OyO2TYjp1J53GedFpkBVyM6aWTKE.jpeg"
-        width: 2380
-        height: 1488
-  - title: "How should self-driving cars decide who to kill? by Mark Buchanan"
-    excerpt: "Not too long ago, tech enthusiasts were telling us that by 2020, we’d see self-driving cars hit the mainstream, with some 10 million on the roads. That turned out to be a wild overestimation. The actual number of vehicles in testing is thousands of times smaller, and they’re still driving mostly in controlled conditions. Companies have also ..."
-    publishedDateTime: 2020-02-18T05:00:00Z
-    webUrl: "https://www.pressofatlanticcity.com/opinion/commentary/how-should-self-driving-cars-decide-who-to-kill-by/article_6c1dbac7-3a51-5e99-bc84-8066769cbe28.html"
-    type: article
-    provider:
-      name: The Press of Atlantic City
-      domain: pressofatlanticcity.com
-    quality: 24
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/pressofatlanticcity.com/content/tncms/custom/image/bae1e730-3e34-11e6-9bc5-8f83ee7a0e54.jpg"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Transformation of face recognition technology and representation for faces nets grant for computer science and engineering professor"
+    excerpt: "She will use her computer science and engineering skills to apply machine learning, computer vision and natural language processing to her work, which is funded by a grant from the National Science Foundation. Her overall research goal is to develop software that will help visually impaired individuals, along with those on the autism spectrum ..."
+    publishedDateTime: 2020-02-13T15:06:00Z
+    webUrl: "https://www.unr.edu/nevada-today/news/2020/emily-hand-research"
+    type: article
+    provider:
+      name: unr.edu
+      domain: unr.edu
+    quality: 10
+    images:
+      - url: "https://www.unr.edu//main/images/news/2020/Feb/MPLGroup.jpg"
+        width: 900
+        height: 678
 
 secured: "v9rkDziKUQw/IpRIdYhcdeTyd6e76zzyh5HeLy9B55OjWUqFKJL7f2UgD2GCxxIRhTj8ZoWyaIuPyN9FCrI/+3dlXNslRl+smF2m0rYTV23p1sdEY+5I+1VT3B1jXTJuYhLN0HWDw408fHRsUmHhRwuOo1juDz3lBNLxFgVQny3kZGj5WGYiLMup3+qjqlvhFB5Pd3Z7WZQ4rcn9BfrExw5bStmN5c+gAjbPzGebC9CF2G8Ojz+4c9FY2vaFT2PkHWLPe1SDOHNMZn0aqtelpoLxQNu/gE13sqDdbtpXVvqnMnIY2yOlKWuSu1lnXrVgPq676b3cf1NQT6z4EaD6KCRo9Zqf0ZqL0u+fbiqrj+uqr6iVc76TS0YGOX+FfdP8ltUX6Q1c166UpCUuCDgMrt8/rRpQfzy+cl33cXfuvMZqcYtLedtrKx3YWSjV+fPD+j0vsM031kUBF0dUOt9oiM5qjRUO2wPwBrtrPDr4K4A=;JPrCPvzhnF5QGxVF9To9XQ=="
 ---

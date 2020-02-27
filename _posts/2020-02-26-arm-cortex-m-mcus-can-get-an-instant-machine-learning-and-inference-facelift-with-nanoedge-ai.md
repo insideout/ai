@@ -23,6 +23,6 @@ images:
     height: 719
     title: "Arm Cortex-M MCUs Can Get an Instant Machine Learning and Inference Facelift with NanoEdge AI"
 
-secured: "eHpQ/KCbu64do+hI5mu2imTCy0qpgTUKvdGmPLj4tQWqo6BoyYWtRGby9kcCUqi6pNvEnyRbWVN9RmPlEv61vpnYieBNPIW8A/YbExJXUbEdR+KHzv5cbiPDPJ68iQlTJhKeeDFLoQwpsjlzQ8VkLelDIIeT8VJSCg0vipVDxxDj6G0g9g9Y0s5SYcel627dIO5u5ROlbMj7Y6Da75LgM4gZrbT4sXaPiOafVxIvZs9EV5rPdZZss7XvIP0SIHnm8wmzGcnliSkyVr/JfCHpoDWb+DJgT7z5qiYuo2p78U5GA5g/ZTPtVs4qMyDta4Gs;0rYrrlEusiUtjBU6XC1JFw=="
+secured: "BCnvUo41G+VZLQX3e82+kpQAwdo/Sq96GVWVVVVRLCdtYbZVkoJCjYPmDDq72LB25cMxc73btGIrXMHXV4HzyYmZc8Ehe/o/Q3Zq/M1zLRLFnPp0AkKhaPzY7DBN3pByyXFI66qdqer+HW/LBw+lTs81b3hoh8X+oOq/SEKNgLZ90wHdhcgTfhAkSsVw+MVXJhnhWdTunU8ui49GXQlH7fwDKVLVVpjhoSiD4Xrxty61q30JPZhkmEAov2a4xt69Wg5JtfR8JdPTcxhuv3XNp7rmb2FFvd2EqnaPk3Lr+93CElOt/SRCr+niKFHFWr3otDNQfz/vquhn6zMzQi8KYDyBkkd/zNNVwktj5wXxdHCaR4HpNL6StusgxjaYfFqyA8iZDNIbvD/IXTR/wOZF9EIqolPEBdB9UFJRcfHr87NwhVFhje54ZrIU1o4c5n6u+bFtyrXn0qhEEifThVL/tBjnjwtlJbBiFXMpa9XZVOE=;/k7c7cqGBO4ReriKe3+oBw=="
 ---
 

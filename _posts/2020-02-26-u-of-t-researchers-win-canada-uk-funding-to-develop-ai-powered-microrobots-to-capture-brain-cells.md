@@ -25,6 +25,19 @@ images:
     title: "U of T researchers win Canada-UK funding to develop AI-powered microrobots to capture brain cells"
 
 related:
+  - title: "U of T researchers receive Canada-UK funding to develop AI-powered microrobots to capture brain cells"
+    excerpt: "Researchers at the University of Toronto’s Donnelly Centre for Cellular and Biomolecular Research have received a funding boost to help realize their vision of using tiny robots controlled by artificial intelligence to one day find and capture rare stem cells from brain tissue for therapy. Working with Mike Shaw, a machine learning ..."
+    publishedDateTime: 2020-02-26T23:10:00Z
+    webUrl: "https://www.utoronto.ca/news/u-t-researchers-win-canada-uk-funding-develop-ai-powered-microrobots-capture-brain-cells"
+    type: article
+    provider:
+      name: University of Toronto
+      domain: utoronto.ca
+    quality: 41
+    images:
+      - url: "https://www.utoronto.ca/sites/default/files/microbots.jpg?163031"
+        width: 1140
+        height: 760
   - title: "Researchers develop AI-based intervention for kids with autism"
     excerpt: "Oftentimes, specialists use behavioral therapy to work with these children on communication skills and help them better interact with and respond to those around them. In a new study published Wednesday in Science Robotics, researchers reported that robots, programmed using artificial intelligence, can also help children with ASD develop the ..."
     publishedDateTime: 2020-02-26T20:42:00Z

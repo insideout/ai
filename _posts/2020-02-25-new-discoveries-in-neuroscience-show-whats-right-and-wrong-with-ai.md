@@ -27,6 +27,6 @@ images:
     height: 417
     title: "New discoveries in neuroscience show what’s right and wrong with AI"
 
-secured: "XzlBAF+UGbsov7I0G7+LBqyHntT8gBAozgfa0lPlKosvrPnVA3+otnWc/F3/UEwbfLAL+mESjfecQ4Oe92cLU/ufC0JMFzc1NnS5cj7O28GduDzfMDkXVfnJzlsK+/jtqZv10PZwQt6w2HtwRbbkgxz02jxEbN/Ia1XaRBJrSi5lICXtEh45brIXkBWc0LvjyxeUr79hLeC1368V8NLriWGqu9BMiB5fcIUPsHXpBLmkx0LAzOyhIueqlVTK8hsgD9MAQUYHmrEfkP3M5g0cWa6EZp6dnuPtm/TR5rKbbmLVmj7/TqMryvQ2RQFswtcN;Yjliv1M2zQTmmtnGf/zNAg=="
+secured: "zecL4DvE7zp7qzQ9elLpu5nN548+3Wi5pLhU9FhNUY5+TDWTF85VdiBp7HuHikJ0hbEhGEqem+wT16Y1f0lST9wKoIPmPO520/kcV0/75GhKBuKs/0HO4svh3akdaco+nOv3LwnrQuD1CMY89ni1nHlIr3d4utv1Kqnh4lyk3VcaPwOK0S2UpvcaQvpABJzuu/dGeCcsgQgjAilayI0S+9LmoDlVqTdXj0jJeOHy4wJrHdpQU3SlpZ3tA/eqbYE3pSAuc6Cz5SA9Jm+mH1z9Rz+hQApKpR/DjvT7xzOF4ZgK8VusGFtrGb8YAAnFnY9pwKyPhwDYFw51s/N82dUd2xRbOk/RSWAULwNgwjq/eb+yMUq3qefgUTUSOMtIo6VFtVfoemKkyI89gAWEjbq9XoE0ebReLDNraTI47PgguIka/7TqeplGqDPhY9KGN6ZAMTF17bQhAq+NuMkucW84JbcqUDrp6vCfY4DTCv5WTiw=;PoeDpCEv83dku/eSWfTrCA=="
 ---
 

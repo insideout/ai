@@ -122,6 +122,24 @@ related:
       name: BMJ
       domain: bmj.com
     quality: 22
+  - title: "How Amazon is making strides in the healthcare space"
+    excerpt: "Over the past year, Amazon Web Services has made significant efforts to infiltrate the healthcare space, including partnering with Cerner and developing artificial intelligence for clinicians. Today, AWS continues to leverage its technology and other resources to help hospitals and health systems improve operations and patient care. Shez ..."
+    publishedDateTime: 2020-02-26T20:50:00Z
+    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/how-amazon-is-making-strides-in-the-healthcare-space.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 21
+  - title: "The Future of Artificial Intelligence in Healthcare"
+    excerpt: "There are numerous applications of AI on the market today or awaiting approval that can improve patient care and potentially save lives. Those applications involve pattern recognition, robotics and natural language processing, which includes speech recognition and translation. Machine learning, a “technique that trains software algorithms to ..."
+    publishedDateTime: 2020-02-26T22:38:00Z
+    webUrl: "https://healthtechmagazine.net/article/2020/02/future-artificial-intelligence-healthcare"
+    type: article
+    provider:
+      name: HealthTech
+      domain: healthtechmagazine.net
+    quality: 19
 
 secured: "+UiElFumP7xNMiYrPYFl41fK9rMk3nKz54lJB2rOWZIA6vY9kyRxNc55dGi0H4rjOgBovCTXQQdFpGKRtnvLKDL1KP9rHgM2oYIClqN+Ihsu1zoGswP+CsVdnrDEGmYSznaKDmgvP4JZcFMr7INuQd99LG1bbkanzh+V29obqHPgPLau0KFrkP8ruPej3/MAJ6QXvyz6lc7p+f5LSMoyBqNKgJJHsTsdR7p30eKB7/hYr/VG1uTWxPJ+7V8Y37DMWEZvY/O77WQsYpx3BBDgdvoF3icDtt5XgR7F8z1YCTMtRh3QhSCm9a6/mYclGpiH1vC6OdzmsSkRZotp6v7jHY1A4gxt9Mw5xhyLK0W9K5MaLxjj8Ab/8BjWXXLHj5MNb7jbxUZyOlLdbkeXOi09T2KQy6Wqt5qOHQfx4YUmRLKufZDyTkXM8pyMKeruiJZjgI3o4yf170G7NbWdgDbkQkya9G/tQkIsQgTgvbW3kQ8=;ZRYRjfaYaiZjXVrpRbFu5g=="
 ---

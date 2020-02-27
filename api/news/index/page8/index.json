@@ -2,50 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_posts/2020-02-26-ai-needs-to-be-controlled-but-lazy-humans-may-not-be-up-to-the-job.md",
-      "title": "AI needs to be controlled. But lazy humans may not be up to the job",
-      "excerpt": "Artificial intelligence, for all its benefits, needs human oversight. Government reports, and experts all over the world have stressed the importance of keeping a human decision-maker in the loop when using AI. \"Human agency and oversight\" is the first key requirement laid out in the EU Commission's white paper on the regulation of AI ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/ai-needs-to-be-controlled-but-lazy-humans-may-not-be-up-to-the-job/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-needs-to-be-controlled-but-lazy-humans-may-not-be-up-to-the-job/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-needs-to-be-controlled-but-lazy-humans-may-not-be-up-to-the-job/",
-      "publishedDateTime": "2020-02-26T08:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/02/20/6ec3400c-4d6f-4edc-bbae-714003910df4/thumbnail/1200x675/633a5f0e0a9995b7384bbd620431291c/ai-strategy-how-the-eu-hopes-to-put-peop-5e4e5afadb1d010001ac32fe-1-feb-20-2020-12-22-36-poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "AI needs to be controlled. But lazy humans may not be up to the job",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-26-artificial-intelligence-uncovers-outrageous-employee-expense-reports.md",
       "title": "Artificial intelligence uncovers outrageous employee expense reports",
       "excerpt": "SEE: Cheat sheet: Artificial intelligence (free PDF) (TechRepublic) \"Nothing shocks me. It's just how much is going through—that's what surprises me—how far people can take it,\" said Anant Kale, CEO of AppZen. Companies spend an average of $4,134 on a so-called high-risk expense report, which includes out-of-policy items or merchants ...",
@@ -138,7 +94,7 @@
       "path": "_posts/2020-02-26-california-dmv-releases-autonomous-vehicle-disengagement-reports-for-2019.md",
       "title": "California DMV releases autonomous vehicle disengagement reports for 2019",
       "excerpt": "Baidu is also collaborating with Chinese state-owned car company FAW Group, which develops the Hongqi line of luxury cars, to deploy driverless vehicles in the Hunan capital of Changsha within the next few months. Its other automotive partners include Ford, with which it embarked last year on a two-year project to test self-driving vehicles ...",
-      "heat": 73,
+      "heat": 83,
       "tags": null,
       "type": "article",
       "webUrl": "https://venturebeat.com/2020/02/26/california-dmv-releases-latest-batch-of-autonomous-vehicle-disengagement-reports/",
@@ -265,6 +221,51 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-26-classifying-images-using-tensorflow-and-faced-challenges-a-case-study.md",
+      "title": "Classifying images using TensorFlow and faced challenges — a case study",
+      "excerpt": "We decided to use Deep Learning with TensorFlow by setting up a Convolutional Neural Network (CNN) to classify these images. It was necessary to have a large data set with training data for each page. Instead of taking many different pictures (which would have been very time consuming), we decided to make a video of each page and then take ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/@simon.huber/classifying-images-using-tensorflow-and-faced-challenges-a-case-study-f283c039d720",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-26T14:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/freeze/max/400/1*DB25tGjRiWmvzRODq9TEOg.gif",
+          "width": 400,
+          "height": 224,
+          "title": "Classifying images using TensorFlow and faced challenges — a case study",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
       ]
     },
     {
@@ -658,6 +659,50 @@
       ]
     },
     {
+      "path": "_posts/2020-02-26-is-ai-enabled-voice-cloning-the-next-big-security-scam.md",
+      "title": "Is AI-Enabled Voice Cloning the Next Big Security Scam?",
+      "excerpt": "A company that specializes in detecting voice fraud is sounding the alarm over an emerging threat. With the help of AI-powered software, cybercriminals are starting to clone people’s voices to commit scams, according to Vijay Balasubramaniyan, CEO of ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.pcmag.com/news/is-ai-enabled-voice-cloning-the-next-big-security-scam",
+      "ampWebUrl": "https://www.pcmag.com/news/is-ai-enabled-voice-cloning-the-next-big-security-scam?amp=true",
+      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/is-ai-enabled-voice-cloning-the-next-big-security-scam?amp=true",
+      "publishedDateTime": "2020-02-26T15:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/00qALkcUOsHsCITmseFIx8j-1.fit_lim.size_1200x630.v_1582752685.jpg",
+          "width": 1119,
+          "height": 630,
+          "title": "Is AI-Enabled Voice Cloning the Next Big Security Scam?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_posts/2020-02-26-linksquares-raises-145-million-to-expedite-contract-management-with-ai.md",
       "title": "LinkSquares raises $14.5 million to expedite contract management with AI",
       "excerpt": "LinkSquares’ platform, which is web-based and hosted on Amazon Web Services, can perform full-text searches for keywords, phrases, and contract terms across documents in “seconds” using AI. It taps multi-query and filtering to extract key bits of data from contracts, including parties, effective and termination dates, payment terms ...",
@@ -874,6 +919,43 @@
       ]
     },
     {
+      "path": "_posts/2020-02-26-repair-robot-swims-through-oil-pipelines-and-welds-cracks-without-exploding.md",
+      "title": "Repair robot swims through oil pipelines and welds cracks — without exploding",
+      "excerpt": "Before this project even really got going, we knew that the technology worked and that this is something we could do. Everything else — the robotics, the artificial intelligence — all followed on from there.” The robot consists of five or six joined segments, each of which carries out tasks like navigation, control, communications ...",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.digitaltrends.com/cool-tech/friction-stir-welding-robotic-crawler/",
+      "ampWebUrl": "https://www.digitaltrends.com/cool-tech/friction-stir-welding-robotic-crawler/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/friction-stir-welding-robotic-crawler/?amp",
+      "publishedDateTime": "2020-02-26T14:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_posts/2020-02-26-researchers-find-way-to-boost-self-supervised-ai-models-robustness.md",
       "title": "Researchers find way to boost self-supervised AI models’ robustness",
       "excerpt": "In self-supervised learning, an AI technique where the training data is automatically labeled by a feature extractor, the said extractor not uncommonly exploits low-level features (known as “shortcuts”) that cause it to ignore useful representations. In search of a technique that might help to remove those shortcuts autonomously ...",
@@ -1000,6 +1082,50 @@
       ]
     },
     {
+      "path": "_posts/2020-02-26-simplifying-conversational-ai-one-interaction-at-a-time.md",
+      "title": "Simplifying Conversational AI, One Interaction At A Time",
+      "excerpt": "What if we could speak with our devices, cars, and homes just as easily as we do with our friends? Conversation is the bedrock of human communication, a transformative tool that reveals what’s inside our heads and hearts.",
+      "heat": 137,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/googlecloud/2020/02/26/simplifying-conversational-ai-one-interaction-at-a-time/",
+      "ampWebUrl": "https://www.forbes.com/sites/googlecloud/2020/02/26/simplifying-conversational-ai-one-interaction-at-a-time/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/googlecloud/2020/02/26/simplifying-conversational-ai-one-interaction-at-a-time/amp/",
+      "publishedDateTime": "2020-02-26T15:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e56da9e7a00980007345118%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3969%26cropY1%3D326%26cropY2%3D2560",
+          "width": 1200,
+          "height": 676,
+          "title": "Simplifying Conversational AI, One Interaction At A Time",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_posts/2020-02-26-struggling-with-fake-ai-heres-how-to-become-a-real-ai-company.md",
       "title": "Struggling With Fake AI? Here’s How To Become A Real AI Company",
       "excerpt": "Artificial intelligence is one of the hottest fields in technology right now, and it is hard to know which are Real AI Companies from Fake AI. Here is a 5-step recipe for becoming a Real AI Company - a true story from the trenches from a hardcore ML startup.",
@@ -1045,23 +1171,23 @@
       ]
     },
     {
-      "path": "_posts/2020-02-26-tempo-smart-home-gym-combines-weightlifting-and-machine-vision.md",
-      "title": "Tempo smart home gym combines weightlifting and machine vision",
-      "excerpt": "Yet another smart home gym has been announced, this one called Tempo. With a schedule to start shipping later this summer, Tempo will offer buyers a large home weightlifting system that includes a 42-inch display and machine learning. Users can expect a variety of workouts, as well as mobility and strength training. All of this is combined with ...",
-      "heat": 74,
+      "path": "_posts/2020-02-26-tempo-is-a-smart-home-gym-that-uses-computer-vision-to-track-your-form-in-real-time.md",
+      "title": "Tempo is a smart home gym that uses computer vision to track your form in real time",
+      "excerpt": "The computer vision also helps to count those reps and shows on-screen how many you’ve done. Tempo costs $1,995 plus a $39 monthly subscription As with most other smart fitness equipment, Tempo does come with a monthly content subscription fee of $39 on top of the equipment price of $1,995 plus tax and shipping / installation. At this time ...",
+      "heat": 93,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.slashgear.com/tempo-smart-home-gym-combines-weightlifting-and-machine-vision-26611329/",
-      "ampWebUrl": "https://www.slashgear.com/tempo-smart-home-gym-combines-weightlifting-and-machine-vision-26611329/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/tempo-smart-home-gym-combines-weightlifting-and-machine-vision-26611329/amp/",
-      "publishedDateTime": "2020-02-26T13:32:00-08:00",
+      "webUrl": "https://www.theverge.com/2020/2/26/21154185/tempo-smart-home-gym-kinect-computer-vision-ai-form-correction",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/2/26/21154185/tempo-smart-home-gym-kinect-computer-vision-ai-form-correction",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/26/21154185/tempo-smart-home-gym-kinect-computer-vision-ai-form-correction",
+      "publishedDateTime": "2020-02-26T07:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
+        "name": "The Verge",
+        "domain": "theverge.com",
         "images": [
           {
-            "url": "/assets/images/organizations/slashgear.com-50x50.jpg",
+            "url": "/assets/images/organizations/theverge.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1073,10 +1199,10 @@
       },
       "images": [
         {
-          "url": "https://scdn.slashgear.com/wp-content/uploads/2020/02/home_gym_main_tempo.jpg",
-          "width": 1468,
-          "height": 800,
-          "title": "Tempo smart home gym combines weightlifting and machine vision",
+          "url": "https://cdn.vox-cdn.com/thumbor/qh0YjAia5cjQAYRLa7AG7RV_kGQ=/0x0:2400x1600/1400x933/filters:focal(1008x608:1392x992):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66377186/02_Tempo_Bedroom.0.png",
+          "width": 1400,
+          "height": 933,
+          "title": "Tempo is a smart home gym that uses computer vision to track your form in real time",
           "attribution": null
         }
       ],
@@ -1086,7 +1212,7 @@
       ],
       "topics": [
         "AI",
-        "Machine Learning"
+        "Computer Vision"
       ]
     },
     {
@@ -1182,7 +1308,7 @@
       "path": "_posts/2020-02-26-toyota-steers-400-million-to-self-driving-startup-ponyai.md",
       "title": "Toyota steers $400 million to self-driving startup Pony.ai",
       "excerpt": "With this new investment, their relationship will become even closer, with the automaker and the startup “co-developing” mobility products like “mobility services.” Pony.ai has been testing robot taxis in Beijing and Guangzhou since late 2018 as well as in Fremont and Irvine, California. The startup claims to be the first company to ...",
-      "heat": 281,
+      "heat": 291,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.theverge.com/2020/2/25/21152817/toyota-pony-ai-self-driving-car-investment-valuation-china-silicon-valley",
@@ -1955,141 +2081,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2019-12-19T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/1*YGkB52a5tgp8vGHleh2bAw.png",
-          "width": 1200,
-          "height": 744,
-          "title": "Computer Vision and the CCPA: What You Need to Know",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2019-12-20-facebook-discovers-fakes-that-show-evolution-of-disinformation.md",
-      "title": "Facebook Discovers Fakes That Show Evolution of Disinformation",
-      "excerpt": "The network exposed by Facebook used fake profile photos generated with artificial intelligence.Credit...Graphika/The Atlantic Council’s Digital Forensic Research Lab Facebook said on Friday that it had removed hundreds of accounts with ties to the Epoch ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nytimes.com/2019/12/20/business/facebook-ai-generated-profiles.html",
-      "ampWebUrl": "https://www.nytimes.com/2019/12/20/business/facebook-ai-generated-profiles.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2019/12/20/business/facebook-ai-generated-profiles.amp.html",
-      "publishedDateTime": "2019-12-20T15:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2019/12/20/business/20takedown3/20takedown3-facebookJumbo-v2.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": "Facebook Discovers Fakes That Show Evolution of Disinformation",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2019-12-20-facebook-removes-hundreds-of-fake-pro-trump-accounts-using-ai-generated-profile-photos.md",
-      "title": "Facebook Removes Hundreds of Fake Pro-Trump Accounts Using AI-Generated Profile Photos",
-      "excerpt": "Facebook says it worked with independent researchers Graphika and the Atlantic Council’s Digital Forensic Research Lab (DFRLab ... most notably that the network was using artificial intelligence to generate fake profile photos. The network banned ...",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/mnunez/2019/12/20/facebook-removes-hundreds-of-fake-pro-trump-accounts-using-ai-generated-profile-photos/",
-      "ampWebUrl": "https://www.forbes.com/sites/mnunez/2019/12/20/facebook-removes-hundreds-of-fake-pro-trump-accounts-using-ai-generated-profile-photos/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mnunez/2019/12/20/facebook-removes-hundreds-of-fake-pro-trump-accounts-using-ai-generated-profile-photos/amp/",
-      "publishedDateTime": "2019-12-20T15:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F939701722%2F0x0.jpg",
-          "width": 1200,
-          "height": 797,
-          "title": "Facebook Removes Hundreds of Fake Pro-Trump Accounts Using AI-Generated Profile Photos",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2019-12-21-computer-vision-and-the-ccpa-what-you-need-to-know.md",
-      "title": "Computer Vision and the CCPA: What You Need to Know",
-      "excerpt": "This article will cover what companies who have deployed or are considering deploying computer vision technology should do with the biometric data they collect in order to be compliant with the CCPA. The National Law Review does a tremendous job of ...",
-      "heat": 69,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/trueface-ai/computer-vision-and-the-ccpa-what-you-need-to-know-928477de0601?source=topic_page---------2------------------1",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-12-20T16:09:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Medium",

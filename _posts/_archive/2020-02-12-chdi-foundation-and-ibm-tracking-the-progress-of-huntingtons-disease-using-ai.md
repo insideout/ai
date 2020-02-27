@@ -4,10 +4,8 @@ title: "CHDI Foundation and IBM tracking the progress of Huntington's disease us
 excerpt: "IBM Watson researcher Guillermo Cecchi said the paper focused on identifying how existing functional MRI (fMRI) data can be used to train artificial intelligence (AI) models to assess whether there is a change in a patient's motor and cognitive performance. \"Part of what we're trying to do is pinpoint with more accuracy what determines a ..."
 publishedDateTime: 2020-02-12T04:32:00Z
 webUrl: "https://www.zdnet.com/article/cdhi-foundation-and-ibm-tracking-the-progress-of-huntingtons-disease-using-ai/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/cdhi-foundation-and-ibm-tracking-the-progress-of-huntingtons-disease-using-ai/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cdhi-foundation-and-ibm-tracking-the-progress-of-huntingtons-disease-using-ai/"
 type: article
-quality: 65
+quality: 45
 heat: -1
 published: false
 
@@ -89,17 +87,6 @@ related:
       - url: "https://miro.medium.com/max/1200/1*A_ho55sUPMc-uwZ7i5LM_Q.jpeg"
         width: 1200
         height: 800
-  - title: "CDHI Foundation and IBM tracking the progress of Huntington's disease using AI"
-    excerpt: "IBM Watson researcher Guillermo Cecchi said the paper focused on identifying how existing functional MRI (fMRI) data can be used to train artificial intelligence (AI) models to assess whether there is a change in a patient's motor and cognitive performance. \"Part of what we're trying to do is pinpoint with more accuracy what determines a ..."
-    publishedDateTime: 2020-02-12T04:32:00Z
-    webUrl: "https://www.zdnet.com/article/cdhi-foundation-and-ibm-tracking-the-progress-of-huntingtons-disease-using-ai/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/cdhi-foundation-and-ibm-tracking-the-progress-of-huntingtons-disease-using-ai/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cdhi-foundation-and-ibm-tracking-the-progress-of-huntingtons-disease-using-ai/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 65
   - title: "Deploying Machine Learning Models with mlflow and Amazon SageMaker"
     excerpt: "Then, I deploy the model locally, and predict test data. Next, I create a Docker container, push it to Amazon ECR, and use it to deploy my model on Amazon SageMaker."
     publishedDateTime: 2020-02-14T12:44:00Z
@@ -165,6 +152,6 @@ related:
       domain: apnews.com
     quality: 0
 
-secured: "+3IJLxmkA0oQSlfb67UiL28Jhmv+qts5nVjWenjn4sKx5cICa6DHBmOT8pO1tChPLiwupmI2znZgnWBGYlp9Gj7BNi26vwOycvGvtI2gk70pJfaVtjVUlog9Fx/EuPvTx0ohwB9QGkfqjIbRcl4IkU2Ov01EdeiJcwlUvhEFqoBc9Q4CkWe+k9BhNIF6OvZih6KiGM7WbkUJeCXNQG2T3b/1val9Yvmtskpqc5HK5+e6ASmZos+3NU/p2lktCfrxucj9NtbKcHKlKbxh7Ayvvote7zK/CpJaD5UdlYKNOEeKMMXDdtD1KrLvVVj+0tJWsWbKKU1nJ8dYQGNDU4L0+iXMuREmkJSe/K1Xt4w1S4XIopNpbcT/66IQiXLqwg16tAIYZwg/hVGMpPOTitVA/ep7vFTESZjxLEZsA4oOCQ8VEG4LEEGjKiU3LKTNUaUV8kT9c9d58Headm328sC6AOHwHfEVslgxrhe12SXJ/SQ=;B9QObeLTtBJtGzZ3iaDoQw=="
+secured: "unEqUeQWlrKZM7y8D/7+hWp3fRvUePWWFNU+fC4T16ANROFGLwtdUYYWLOAc73hXnRkBHW3waRuwtn23AgDRZGWfQmVgk+zGLIFkP/WTFJdlGKKcz+hZGnkVqnM1QR28ivBbrbgU86xgIb5nCvWsLck6oonJGrrCrmIgyoXWV6js0CnljGsvx7e+Hm7parc5FgvI4N5oEbmwFeO6hbXAOAuftzKhQsQEYpcljFqz28QGGL62sBEoYez9/zMQYPNOA1tDMDf0/UVyc2W4LjvXOVGX7UUaF8mktVcHOvPEADG9UWjYj1s5nMdtrij1vbQHqiM7gzTJN5MEimWhTnRW3T7xqiQTyiEbQwhTaCZPKXEi/jhDmDOVgN9OpSdXBbHYJPnYQOoZ1bfy0SLdDwNsmFEIfsB5eqGqIw2sITok+GR1o2XpVswu7xzrdY4Fu5Qzfay8paOlzDrEATJ5QDBtLGDJXOPXHAqBDFUQbuI7aM4=;KuiaxzGL03UyBzHNDEGVZA=="
 ---
 

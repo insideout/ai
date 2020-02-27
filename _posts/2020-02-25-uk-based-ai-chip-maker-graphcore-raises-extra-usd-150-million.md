@@ -1,9 +1,9 @@
 ---
 category: news
 title: "UK-based AI chip maker Graphcore raises extra USD 150 million"
-excerpt: "UK-based AI chip maker Graphcore has secured new capital of USD 150 million to support continued R&D and global expansion. The private placement was supported by leading financial asset managers, investment trusts and growth equity funds. New investors include M&G Investments, Mayfair Equity Partners and Baillie Gifford. Graphcore closed a USD ..."
-publishedDateTime: 2020-02-25T00:00:00Z
-webUrl: "https://www.telecompaper.com/news/uk-based-ai-chip-maker-graphcore-raises-extra-usd-150-million--1327924"
+excerpt: "UK-based AI chip maker Graphcore has secured new capital of USD 150 million to support continued R&D and global expansion. The private placement was supported by leading financial asset managers, investment trusts and growth equity funds. New investors ..."
+publishedDateTime: 2020-02-25T13:24:00Z
+webUrl: "https://www.telecompaper.com/news/uk-basec-ai-chip-maker-graphcore-raises-extra-usd-150-million--1327924"
 type: article
 quality: 34
 heat: -1
@@ -79,6 +79,6 @@ related:
         width: 839
         height: 523
 
-secured: "FjkGQmOzqbpHRu3cHzcPqb/lVeuH6Biz8pm+eWDM/PqIoqX5uA9yohZZhhpcEL9vxnqpJSb78jlwAYIAL0R8ul8SE19qwylfXYN+HeKZUFoXvw4bGzCqKpnyg5N8QrXR4Ey0BKs9HEdUNHPG/gq69vSiJPL6PmG1sp62m45msZ9J3GI6/ZZBXnqGp9u1RWq96B/rAYKZt8/OiYFaSg8Ld1C8lgCJumd7apQC/MIRTah3MHdj8snDMWu6TKxsMcTibQAytkGoVtlIQsUTOdY3KMWpoT+qAMf4hKB+uoBqzZuhw8jdkNI3s3FRSPh6FXO4;QHbIuxzxQs3tW3q0ZHHQ+A=="
+secured: "50PCEOH2+cdfVERqIri0BZPFlPwdMis+zn8m597C2PwzxV4Dv+nuOijhlddPzAP0a69wii6ThR8d+D+DeGNXawmBBj24x66O3P35NVfmHUo8dnpw5eUEKIaiKIHkCs1O5/IZX9Bco8QTG3oqZyBP0AT9Tfv92bWHLu+oY7No7qphsCqnmMG2cURnI+BIoFfqvMkIQDRb8Biitmiv/XuZOruFd1byBRca6OZoEDYdmw96sLcRYYlJqQW5MFe1NwufvBnvIW1fN0jS/bScchbS4w6PEFYONo+Ar9xH4grBDYFEO59S6hixr7QQf4TCtCVE;pOJHGFb0XXrGmwnt52qTzQ=="
 ---
 

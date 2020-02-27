@@ -53,6 +53,19 @@ related:
       - url: "https://images.wsj.net/im-153483/social"
         width: 1280
         height: 640
+  - title: "Congress looks to revive self-driving car legislation"
+    excerpt: "Want access to the top energy and environment news? Sign up for a free trial! Enter your email to register or log in. By signing up, you agree to receive E&E News email updates and offers. You also grant your consent to our data collection practices. We encourage you to review our Privacy and Data Practices Policy."
+    publishedDateTime: 2020-02-12T12:19:00Z
+    webUrl: "https://www.eenews.net/eedaily/2020/02/12/stories/1062327793"
+    type: article
+    provider:
+      name: E&E
+      domain: eenews.net
+    quality: 24
+    images:
+      - url: "https://www.eenews.net/image_assets/2020/02/image_asset_74141.jpg"
+        width: 938
+        height: 483
   - title: "Global Emotion Detection And Recognition (EDR) Market 2020 Growth Analysis, Key Insights, Future Development and Statistical Forecast 2025"
     excerpt: "Scope of the Report Emotion Detection and Recognition (EDR) is typically identifying human emotion from facial expression or verbal expression. Now, with the help of AI, NLP and ML, the machine is made to understand human emotion through various software and act according to it."
     publishedDateTime: 2020-02-19T11:19:00Z

@@ -5,8 +5,8 @@ excerpt: "Have you found yourself looking for a way to convert this model into a
 publishedDateTime: 2020-01-30T13:17:00Z
 webUrl: "https://medium.com/analytics-vidhya/converting-a-custom-darknet-model-to-tensorflow-lite-ffdd48d58082"
 type: article
-quality: 69
-heat: 69
+quality: 49
+heat: 49
 published: false
 
 provider:
@@ -21,12 +21,6 @@ topics:
   - AI
   - Google AI
 
-images:
-  - url: "https://miro.medium.com/max/900/1*IgJvalm1P-FHs0PMbzs5Qg.png"
-    width: 900
-    height: 400
-    title: "Converting a custom Darknet model to TensorFlow Lite"
-
-secured: "NXg89xD2UzFZJ2KyfAHudkbvtBZ8UWu4+kaXB4+tbjIl1G7qf9Bnce8XirvsP8ytHaaO6EcBITUKfJty/EQHnqBVelVxLhJtS2YjKv3jMxblrysBAiF0XVbERIiigAcJNCiiYBQlkM6LA/uJIQZQQp5q3gqG31VRDVrASSOW8xclEtJGKlmLyDi3sYww4JwwHWKr4XKv9qwtD7SZF0hKWGFk+ZuH/ZouSDYyCXox/0i+PKubzLrodspE413tmJ3Q6cl89PuWXmvBhEyjTdjSyi7F6zKbV3uiqlpK0sCHA/hTZA5iej0yJi5MmA3hlUzL;g2ymBJljoc2boJMnLEqk+w=="
+secured: "YNAFWVTYnnZ6MvjSi6Mk1ACuDkh/7eyRpMCWpnq/WwybgzlT1STGvFcEGyqXjNi6BdqPi9hbHmy5XntpUv84g1OxyosxXuE+Pz+s62Z/e5hlYgx54gVrfJYFV8wUhgtCHscjwJiYAznvTfHk6zoCCrBxFBDIxtMSIX19xkyGNMXH3iphvhByUQKsBW1Z41iE+OmXp/0NMdI0ImQrzCDfoZTxHtC9rC2QbTi5bDVwru1AB0nC2s7nlFViusisJnna9j0utcIY1hFEbdPebiqg8L183U/PFiSVbeNjSqhQ/ZMIMp8UeV7KPyC5TgEXxLyg;BrZpGP2A/J10H0RSKii+0Q=="
 ---
 

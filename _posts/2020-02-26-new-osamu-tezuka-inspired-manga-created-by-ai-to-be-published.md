@@ -23,6 +23,21 @@ images:
     height: 594
     title: "New Osamu Tezuka-inspired manga created by AI to be published"
 
+related:
+  - title: "New Osamu Tezuka manga plotted, designed by AI to be published"
+    excerpt: "The manga \"Paidon\" to be released Thursday in weekly comic magazine \"Morning\" has been created by AI, which analyzed 65 works by Tezuka, including such classics as \"Phoenix\" and \"Black Jack,\" according to Kioxia Holdings Corp., a memory chip maker that launched the project. By analyzing Tezuka's works, AI generated character designs and basic ..."
+    publishedDateTime: 2020-02-26T23:44:00Z
+    webUrl: "https://mainichi.jp/english/articles/20200226/p2g/00m/0et/111000c"
+    type: article
+    provider:
+      name: mainichi.jp
+      domain: mainichi.jp
+    quality: 39
+    images:
+      - url: "https://cdn.mainichi.jp/vol1/2020/02/27/20200227p2g00m0et012000p/0c8.jpg?1"
+        width: 600
+        height: 315
+
 secured: "Q+z2v7eJw+hS1o5CsJd+bBBIWDnpbITscsTVw4Xg7IGBhHyia3EoGhnMlCmkOS8bB005tXq6Fh+ObSue62Pz0QNwd45csFcjyaoSbROg7hVQpp5pAcg9QBTrmTF06zPpF60ccvPY8eK4VU06UVszpBGLVcHauSyqnnuqIoFgeTL7AxEIzHPI9xNuWycmzOXUd+GLt5JSTPE/EZ0+Nvx00eeOXLBZls+x330IkY+ogzLgiOqCAcMjiU9zUM5sy5P+nSlIPvMUSGYHxOwJTTQvC7ryR/JIexg7h+9YOjfDUq0pcJpp8K2rVYSSyuQFh/ay;Rz3hB0Dm4YRtCkRQdu3Hng=="
 ---
 

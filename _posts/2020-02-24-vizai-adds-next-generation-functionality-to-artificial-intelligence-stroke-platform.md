@@ -61,19 +61,6 @@ related:
       name: The Province
       domain: theprovince.com
     quality: 32
-  - title: "Viz.ai Showcasing Artificial Intelligence Detection for Cerebral Aneurysms at 2020 International Stroke Conference"
-    excerpt: "SAN FRANCISCO--(BUSINESS WIRE)--Viz.ai, Inc., the leading applied artificial intelligence healthcare company, is excited to highlight Dr. Vitor Mendes Pereira’s presentation “Artificial Intelligence to Improve the Detection and Triage of Cerebral Aneurysms”, which outlines the development of the Viz.ai algorithm to detect cerebral ..."
-    publishedDateTime: 2020-02-20T12:06:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200220005270/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 32
-    images:
-      - url: "https://mms.businesswire.com/media/20200220005270/en/774567/23/Viz.ai_Logo_Blue_Horizontal.jpg"
-        width: 1200
-        height: 627
 
 secured: "YLhnbkVNeMWTx3vctMMLkw8nkCcbOO7if4AoK3oa4Yyxcv68+UWCV/093Golef2/BiLL2XtZwe+wbms7C1nD3Tjp2i3atgS/RrlTg3Y9Y8HQbaL77FdF2ohSBQ/zviKhqieUn5dDRn59PXr4BskwzNCkYLpSoXuNDd4iKNeHlAdmDoBfMWoh4H9xLenWENR47ojTJJxWTL0GYx3onAv/cDraOiODvHhnOKoleSxiLgrIU9YB5OxbZ6+iGit8sP3jKs7F94AUeLq3dzJdTeKM8dJHmYR4M7HMMI09yRZYbUwvnLwOeihPaQ/n0pUuajBq;NYSiwXP7PeCqa/hdmvUJrA=="
 ---

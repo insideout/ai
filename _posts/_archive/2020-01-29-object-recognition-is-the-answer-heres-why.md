@@ -4,12 +4,10 @@ title: "Object Recognition Is The Answer, Here’s Why"
 excerpt: "More specifically, the convergence of Object Recognition, Machine Vision, and Neural Networks enables machines to see and understand what it is they are seeing. For sure, there are specific use ..."
 publishedDateTime: 2020-01-29T19:32:00Z
 webUrl: "https://www.forbes.com/sites/hodfleishman/2020/01/29/object-recognition-is-the-answer-heres-why/"
-ampWebUrl: "https://www.forbes.com/sites/hodfleishman/2020/01/29/object-recognition-is-the-answer-heres-why/amp/"
-cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hodfleishman/2020/01/29/object-recognition-is-the-answer-heres-why/amp/"
 type: article
-quality: 89
-heat: 99
-published: true
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Forbes
@@ -23,12 +21,6 @@ topics:
   - AI
   - Computer Vision
 
-images:
-  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F483146942%2F0x0.jpg"
-    width: 1200
-    height: 800
-    title: "Object Recognition Is The Answer, Here’s Why"
-
 related:
   - title: "Top 7 Usecases for Touchscreen Object Recognition"
     excerpt: "This whitepaper from eyefactive presents some of the most exiting usecases of touchscreen object recognition for interactive displays, tables and video walls. The recognition of objects on large-scale touch screens picks up the well-known principle of ..."
@@ -38,12 +30,8 @@ related:
     provider:
       name: Digital Signage
       domain: digitalsignagetoday.com
-    quality: 39
-    images:
-      - url: "https://nmgprod.s3.amazonaws.com/media/files/6f/5d/6f5db33eb9f9e376da43e8199eaa1155/3/social_image_11.png"
-        width: 1200
-        height: 630
+    quality: 19
 
-secured: "rgbZeoJhN+sIaxCy31uKj+427KWdBXtQiQHTIAnW9RuvNs87h5hBZ6HBT7+UVb7wtB3Ksfn09cJAGQHa+PiRSZn0RLeyjObtqX72hGRU5m7wZnYybrNXp2w2+AS8bbYFJQCLiIadYbVB9WJvjcXXbbS1KYdCwHqZHhxsQ+t5zYU9YH8iYr5r10BnLF4u2WAQmNgDQbeI4QostQAAtSJ35HRaQlZqniUi4W0Jb5/QkoQCudsatSD3KRGATzw0NF4yIVli1S4Vqma0C6VBSKbmKJOfI+GpkJq2UlV5UsHpvyGXndrfqpSbNLkWvzpXblxY;Zpr8dlcLcYgbBaYjc6FEig=="
+secured: "6d5fSFN/wuHds2YHRdxv8INK3lS620NEaf5r2HQaCN7eLJjmyAB98wjPwDvUC79F3Yjj2CSM587SpZhYNOBm1PXriPaklZq4FVRKAE4T2KSvykTY7ghQGGO73A5NeUReTX724MQbom9CmAbbl3ufc1wCEHZkMT/cFAGhDT7PR3AdC4CMybsBCJFgJU7liWqCMrIv3L0by35RbNnPqpujUG7q9LZBcQwuzpLD2YxHTF0r+1jL9k1yiQbcMHlRNIG6sEjKv0xvUwm8lQABM4Vjhzc7oFT9FZGUix3kj4jtC/mVQCShGX0CMqlKFVfSqa7J;hmpFnmOpX7vRELIWCoRCGw=="
 ---
 

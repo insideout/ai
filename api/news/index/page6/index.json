@@ -131,7 +131,7 @@
       "path": "_posts/2020-02-21-self-driving-car-companies-complain-california-test-data-may-mislead.md",
       "title": "Self-driving car companies complain California test data may mislead",
       "excerpt": "Developers of self-driving cars are amping up criticism of a California reporting requirement on test data, saying the data could mislead, as the state prepares to release the latest results for 2019.",
-      "heat": 159,
+      "heat": 199,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.reuters.com/article/us-autos-self-driving-california/self-driving-car-companies-complain-california-test-data-may-mislead-idUSKBN20F2F7",
@@ -779,52 +779,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-24-5-reasons-to-choose-pytorch-for-deep-learning.md",
-      "title": "5 reasons to choose PyTorch for deep learning",
-      "excerpt": "While the fast.ai course uses fast.ai’s own library that provides further abstractions on top of PyTorch (making it even easier to get to grips with deep learning), the course also delves deep into the fundamentals, building a PyTorch-like library from scratch, which will give you a thorough understanding of how the internals of PyTorch ...",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.infoworld.com/article/3528780/5-reasons-to-choose-pytorch-for-deep-learning.html",
-      "ampWebUrl": "https://www.infoworld.com/article/3528780/5-reasons-to-choose-pytorch-for-deep-learning.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3528780/5-reasons-to-choose-pytorch-for-deep-learning.amp.html",
-      "publishedDateTime": "2020-02-24T08:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/02/number-5-on-fire_top-five_five-tips-100750848-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "5 reasons to choose PyTorch for deep learning",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Google AI"
       ]
     },
     {
@@ -1663,7 +1617,7 @@
       "path": "_posts/2020-02-24-intel-debuts-5g-server-and-base-station-chips-plus-a-pc-network-card.md",
       "title": "Intel debuts 5G server and base station chips, plus a PC network card",
       "excerpt": "Today, the company announced three chips built for various types of 5G computers, plus a 5G-optimized network adapter for PCs. Up first is an updated second-generation Xeon Scalable processor, now at a top speed of 3.9GHz and bolstered by additional AI capabilities to aid with inference applications. The new chip promises up to 36% more ...",
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "type": "article",
       "webUrl": "https://venturebeat.com/2020/02/24/intel-debuts-5g-server-and-base-station-chips-plus-a-pc-network-card/",
@@ -2127,6 +2081,50 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-24-softbank-leads-265-million-investments-in-two-us-based-start-ups.md",
+      "title": "SoftBank leads $265 million investments in two U.S.-based start-ups",
+      "excerpt": "SoftBank on Monday led a new funding round of $165 million in California-based Karius and invested $100 million in New York-headquartered AI company Behavox, as the technology giant builds a portfolio under its second Vision Fund.",
+      "heat": 112,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-karius-funding-idUSKCN20I155",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN20I155",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN20I155",
+      "publishedDateTime": "2020-02-24T12:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200224&t=2&i=1494517480&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG1N0Y9",
+          "width": 785,
+          "height": 545,
+          "title": "SoftBank leads $265 million investments in two U.S.-based start-ups",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

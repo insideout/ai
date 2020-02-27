@@ -5,9 +5,9 @@ excerpt: "Since the last time, I wrote a blog on how to win at Deepracer? a LOT 
 publishedDateTime: 2020-01-29T15:00:00Z
 webUrl: "https://medium.com/vaibhav-malpanis-blog/getting-started-with-deepracer-2020-edition-a7896dd07c48"
 type: article
-quality: 84
-heat: 84
-published: true
+quality: 64
+heat: 64
+published: false
 
 provider:
   name: Medium
@@ -21,12 +21,6 @@ topics:
   - AI
   - AWS AI
 
-images:
-  - url: "https://miro.medium.com/max/800/0*70d1mypOZTlJ0xsF.jpg"
-    width: 800
-    height: 450
-    title: "Getting Started with AWS Deepracer (2020 edition)"
-
-secured: "zhNuycpPk6lbSN6LHPIwdTh9HamWSS6gO9TEdBHhwFlwYtuoBAjRDteGEUv3som20PfKxl2hxjtt6/NCWze/7oTQj4/3cPsDy8qpMSODXVowLQrGqbXVdn7iuRQwa9xSWrzt7BFESyyGiCCTxz0nZYau1Gt8etnhMF8ugY5no2duJ7IEDjOclceYcVcablUwvzA1+Q/MQoBlN9hbz12LAhIpIQ3XOqCWT4RsTpKsZuzkMSx2HyCVoHSCZBlv6F5vZvEoRGE5xsPOu2NwDLfWAH3siZnirr6v+aYQodqWx20qD+BVJcdcUb1yx8aKNRR2;+1iqEhao1FDf5eQpkn+qeg=="
+secured: "4NH0pPi7fVYe6cdxN2Zwk0YkbNWHLwVZpr96VDZNjdwo7b6oKVHbCpHsRxoSlXSvuI3ETS8ZbpT7Nu45E+vCxGzazZF3eFhDA1GqaHKF4gG75DCWm65D71rpK/3NSdWpY1+dDrT6o6valDKiFiK7JKEA6J7Y1/HzbHDasYf8WdyBz98xr0xiIzbIwaY/GONiwdfspF5lSOGN7tN0cjNHMwWkX0XUV35eVuUKVECP/MtBnfOQYNG8gE9wOukqhmsTXE9tAurAb94CE6/5hrSfeRfgAz3EirwHCNS9T0yGLnw8jRpQHILIj25xgynAHZI0;w55qWs6/qTWPN8g3aL1wxQ=="
 ---
 

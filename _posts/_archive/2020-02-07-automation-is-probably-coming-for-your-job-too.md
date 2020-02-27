@@ -4,11 +4,9 @@ title: "Automation Is Probably Coming for Your Job Too"
 excerpt: "Waymo, a self-driving-technology company owned by Google's parent corporation ... since up to 70 percent of the work they do could be done by machines. But as artificial intelligence becomes more common and effective, automation will start to supplant receptionists, couriers, market research analysts, proofreaders, cashiers, office clerks ..."
 publishedDateTime: 2020-02-07T13:10:00Z
 webUrl: "https://www.gq.com/story/automation-is-coming"
-ampWebUrl: "https://www.gq.com/story/automation-is-coming/amp"
-cdnAmpWebUrl: "https://www-gq-com.cdn.ampproject.org/c/s/www.gq.com/story/automation-is-coming/amp"
 type: article
-quality: 44
-heat: 44
+quality: 4
+heat: -1
 published: false
 
 provider:
@@ -18,12 +16,6 @@ provider:
 topics:
   - AI
   - AI in Autos
-
-images:
-  - url: "https://media.gq.com/photos/5e3c46fb40e46c00081a19f2/master/pass/GettyImages-1082066722.jpg"
-    width: 6000
-    height: 4000
-    title: "Automation Is Probably Coming for Your Job Too"
 
 related:
   - title: "This robot trash bin automatically sorts your recyclables for you"
@@ -36,6 +28,6 @@ related:
       domain: fastcompany.com
     quality: 19
 
-secured: "2wpipP1/7ZI+BjnKXto3+6NFmKyM1MR81lRDHt9OQrOQoXgAU+fgSngByl/y2Ao9IWKG2lCCdA1m8V3/cgdw/osk9W1l6dSUoZpI78FCHV13GBGqMfNgXJDG9AioGs1RyDIe1ALaRS7HlVGI7rbMLTnrWPV4b5jz6qZyiD93Od4KOZiOeVmUgEGIF2mGfmZQaltUv5ZygT5c5zUpZF8nArk4BOWati1UpxYEqZJeBWAF7j0rQtLQmyhRgNJQEhzsuRJiOTyDihfZoyGLZarmbbE6qhSdmFSlzG4F/X3/bPJ0HKXxMfihQuXJ5dFwkB/m;ENItzrYZ3WsXVR9edZih0g=="
+secured: "2Bu4EDPlApeVf9RsBisYV0Q2fWj+Dvtg+acPmu2+o27an6kjxRlacjJ8tcB1GwXls5X6uQnKUI0cukDi1kmFOx5KpIeir8qaMsvWy9VDL9Iv6WSx/Z537mqVu8CcgoDGX2vbrnJMP61OsEHU4xua/1oBxjXQrwwo6QxGGVXmTpjEhGYEmSmynokUgkC2b+qW2GYSismffdlzOdl4NKKAbVs94qZcXeBS1v3cK2yvcWP/MYXSfb+dUmATXTXcU9MYrcxUuDqfUzcmBr/qUL/nk5ny5/aCWRAOTDjg47lZvoiqsVkcGq9m0FIkzdCz7O9uFuRMt7Qh+D+PwCjyFgEgXzhjK5L/jID6OxyHCsbEGgt9+3EKXgugufeBjAaDeXEQEpbAgJ80MEr8x2yNmcaBtt2Lz5tzHvtiqToNvvBrDk2ZAzVCnwhq9cWQ09X7SytRWF0njQuTc3o/2eZg0dv7+OaKy8b3A4v+mqtWjrrCy6c=;HDFEaSlxVRNYlD3GZhTvhA=="
 ---
 

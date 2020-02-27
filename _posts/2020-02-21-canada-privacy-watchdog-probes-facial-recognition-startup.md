@@ -132,6 +132,15 @@ related:
       - url: "https://www.pbs.org/wnet/amanpour-and-company/files/2020/02/4gPfMc5-asset-mezzanine-16x9-BKkp7dE.jpg"
         width: 1920
         height: 1080
+  - title: "Facial recognition startup Clearview AI says its full client list was stolen"
+    excerpt: "Most of the company's customers are law enforcement agencies. You might expect a high-profile (and controversial) facial recognition startup like Clearview AI would have its data locked down, but it turns out it's just as vulnerable as almost any other company to malicious individuals. In a notification obtained by The Daily Beast, the company ..."
+    publishedDateTime: 2020-02-26T20:45:00Z
+    webUrl: "https://www.engadget.com/2020/02/26/clearview-ai-client-list-exposure/"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 44
 
 secured: "NOkPC8uTlc3eLGxaK2igk2lHcPIUQVf5nAR8XCbaMYHYqZn6SsLg9/VmUJ5fIJrlp+znu3uuv/rSm/4HJ2M3oF2x6OJk8ehUHuPZqm0FGSgNqHFs5e6ti1KTWTgrKqkcb9LgeuRe0W4qFfRLilvzMo/B+UMoGcFqt+DICP7ZpVtZITmfMXRtBiHnnf7ARVk97SGIkNf/WT4xavAhDtgWPj5L/P+AAu+JXt47r0dIoCXIMW4Uwv4TXZ0AIVVo/7IiAdiCu4/cC8NENkZrmpNbL5tQedfrzqZfPqM7zULy69HqRCFeNASOCmS1bK9mkRefWqBfaYevdR1kIAKEHZR14fHR+HFkrPOR2bPOWweqjUeU22CFAof1XEjlPVoW2GRhUXAHe3w3VAgnYk9MXr2Wr6Af5vh5uXMqBDTTaoMDNSaOrUfRt74nTLfvPBZy/xJ8kDWq592rbvyiUkZCdzF380VnZjM/eGZliaZtnslCgH8=;e8vmqeAbIXoUbcFdzZrl1w=="
 ---

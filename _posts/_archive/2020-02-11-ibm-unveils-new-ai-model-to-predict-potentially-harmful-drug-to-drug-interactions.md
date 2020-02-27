@@ -4,12 +4,10 @@ title: "IBM unveils new AI model to predict potentially harmful drug-to-drug int
 excerpt: "The work is being highlighted at this week's AAAI-20 Conference in New York City. IBM this week unveiled new research on how an artificial intelligence (AI) model can help better predict drug-to ..."
 publishedDateTime: 2020-02-11T21:21:00Z
 webUrl: "https://www.techrepublic.com/article/ibm-unveils-new-ai-model-to-predict-potentially-harmful-drug-to-drug-interactions/"
-ampWebUrl: "https://www.techrepublic.com/google-amp/article/ibm-unveils-new-ai-model-to-predict-potentially-harmful-drug-to-drug-interactions/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibm-unveils-new-ai-model-to-predict-potentially-harmful-drug-to-drug-interactions/"
 type: article
-quality: 84
-heat: 94
-published: true
+quality: 44
+heat: -1
+published: false
 
 provider:
   name: TechRepublic
@@ -22,12 +20,6 @@ provider:
 topics:
   - AI
   - IBM AI
-
-images:
-  - url: "https://tr3.cbsistatic.com/hub/i/r/2020/02/11/578ed6f6-77c3-463d-a9fb-ae809750f192/resize/1200x/f727d19000da51259bb97e2708cbc806/ai-medicine.jpg"
-    width: 1200
-    height: 800
-    title: "IBM unveils new AI model to predict potentially harmful drug-to-drug interactions"
 
 related:
   - title: "IBM highlights new approach to infuse knowledge into NLP models"
@@ -46,6 +38,6 @@ related:
         width: 1200
         height: 900
 
-secured: "X1vtkv4oK8RcTeWx4PAqhycorzNimHF6uOC7k5HB7Gtjb4t2HFDR7TiqGyccm33RZaw1zlR2CQ44KaEiPIX58gWVZXaGIqUkSbmKA4uVkSX99egpV2AgUdpTM+wlccGorfqfXPmPU2VnILPYPYrMPi4MrBT1voRQYMenmF/eH6TIrbCFpKSIu0BZ58LhNMwFU6GCwVGSCegac80Dyb8FLC8a/xdwzkexbwI06inRP7EX+c4Es+zMIstqybIEjeq1hoyg0N1+/eDgdhOy1vL87OI2IGDHJVuBQKRHcrPSiD3WNlPm+S/nnXh3YEhzjFE9;g7cGtqmpT56Zo5CSg6tIfQ=="
+secured: "FJXbA0w8SKJK3N47tCQSecbca60GD3u7wJT16ch8hoPOJ+7WhEJNcgT6UoLK+BEFfBbhZqf8pzy59oKAr7CamG0XNUE+L3UScgDq2vD2nsfdw5KJ8u8wN2NHYDMyBl+cpKZKrn6ufV4k7WhysFdCqBnkAHJqExZ7UlpjNufVHfvFsfbmfpZ/CenGtgzp/N+j8e0S8bI6P2V43s+4ibfaMJOVTcDif6OqSsXHHLQkQ5EY+74Z++LY1amih8fHdzaH7L1XpvVHM5sDbJX7T8xR66kOUWPGZs4vOovoXkfj/XNKasU1AwQd6wtA7A/DuvC0;1AEd19PtJ7l5oSFFXMRUjA=="
 ---
 

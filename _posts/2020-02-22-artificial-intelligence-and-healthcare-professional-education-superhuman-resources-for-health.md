@@ -122,6 +122,24 @@ related:
       name: Analytics
       domain: healthitanalytics.com
     quality: 34
+  - title: "How Amazon is making strides in the healthcare space"
+    excerpt: "Over the past year, Amazon Web Services has made significant efforts to infiltrate the healthcare space, including partnering with Cerner and developing artificial intelligence for clinicians. Today, AWS continues to leverage its technology and other resources to help hospitals and health systems improve operations and patient care. Shez ..."
+    publishedDateTime: 2020-02-26T20:50:00Z
+    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/how-amazon-is-making-strides-in-the-healthcare-space.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 21
+  - title: "The Future of Artificial Intelligence in Healthcare"
+    excerpt: "There are numerous applications of AI on the market today or awaiting approval that can improve patient care and potentially save lives. Those applications involve pattern recognition, robotics and natural language processing, which includes speech recognition and translation. Machine learning, a “technique that trains software algorithms to ..."
+    publishedDateTime: 2020-02-26T22:38:00Z
+    webUrl: "https://healthtechmagazine.net/article/2020/02/future-artificial-intelligence-healthcare"
+    type: article
+    provider:
+      name: HealthTech
+      domain: healthtechmagazine.net
+    quality: 19
 
 secured: "yzlnKU43uDUf41K+gC7h7IuKJgPnZ1rhvzpx0YfTk0fAwXok6DnPerKa8tUMBPlDtNc9SxC1weOGQuPn+2HudisZ7iyHHS6N6OQ0Pffvea8wpMMPQ46Zm+NCEurPOuZ+GgrdLq0uuqI4W6S9se7z5AamMs9nC5rnT0lAZSZGPbl4DtDpcuXB3WwhszldhXO8aetxd4wpzoI3vevg07qRsni0emppKIy4BUt5cI8DGgCndOg+3pJhAOxtvOzr3jynry2Og/msoIn21kY7H2QawRGIZgTa8dCwbJAvvBCNSM9sk3od1K0f7Ir07ONeEgMREIJc0Abmqcny20+tiFH+90ugq/ao+LnDWOItn8MVwpm0TWLX/1StjGHVuemOvoOXlV+V+8jz5NQUYhzmEw8JHN8EzIKeouvfgUpzm2g8bV6uR54bKhOUeHGYFLQmX/REffZZT7sxKoBdoxGhNP8NnWz4kpy/5lZoM8fjNp1lBRo=;35zof9vHKvIy+wf1hBJELA=="
 ---

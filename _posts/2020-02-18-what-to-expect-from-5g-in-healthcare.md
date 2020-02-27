@@ -124,6 +124,24 @@ related:
       name: BMJ
       domain: bmj.com
     quality: 22
+  - title: "How Amazon is making strides in the healthcare space"
+    excerpt: "Over the past year, Amazon Web Services has made significant efforts to infiltrate the healthcare space, including partnering with Cerner and developing artificial intelligence for clinicians. Today, AWS continues to leverage its technology and other resources to help hospitals and health systems improve operations and patient care. Shez ..."
+    publishedDateTime: 2020-02-26T20:50:00Z
+    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/how-amazon-is-making-strides-in-the-healthcare-space.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 21
+  - title: "The Future of Artificial Intelligence in Healthcare"
+    excerpt: "There are numerous applications of AI on the market today or awaiting approval that can improve patient care and potentially save lives. Those applications involve pattern recognition, robotics and natural language processing, which includes speech recognition and translation. Machine learning, a “technique that trains software algorithms to ..."
+    publishedDateTime: 2020-02-26T22:38:00Z
+    webUrl: "https://healthtechmagazine.net/article/2020/02/future-artificial-intelligence-healthcare"
+    type: article
+    provider:
+      name: HealthTech
+      domain: healthtechmagazine.net
+    quality: 19
 
 secured: "vUaLVWOCY3LDt3gKXP1f25H8Zb73BogBWRSBWKq4KiGfW+zVih8IMYkXqhQtzJ/UDcgyaBITgDgBViPA0SvqZluJP0EyiCjePaFZvM/RkT/w3gi14Ti+upe2+K3oqxL1b+x0fspXkLv6ckehCCGn0prrhE1XJK0htXf4hAGVW2h9VTmVw21zhQsahROF3P0+u+JL5impGjufGjJ150UwJO5OXTBkxsB/+0fgh44B7h9PKB9DFZc5AOnuiuZVqn7C4u0zbUF5OR3XJAJyGjj8YclmJ5MapYbUoWCh1cDThqlG+Pb2B0caFqkJFobAI7ew;HAGsJkbfE/j41OhIRa/8NA=="
 ---

@@ -124,6 +124,24 @@ related:
       name: BMJ
       domain: bmj.com
     quality: 22
+  - title: "How Amazon is making strides in the healthcare space"
+    excerpt: "Over the past year, Amazon Web Services has made significant efforts to infiltrate the healthcare space, including partnering with Cerner and developing artificial intelligence for clinicians. Today, AWS continues to leverage its technology and other resources to help hospitals and health systems improve operations and patient care. Shez ..."
+    publishedDateTime: 2020-02-26T20:50:00Z
+    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/how-amazon-is-making-strides-in-the-healthcare-space.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 21
+  - title: "The Future of Artificial Intelligence in Healthcare"
+    excerpt: "There are numerous applications of AI on the market today or awaiting approval that can improve patient care and potentially save lives. Those applications involve pattern recognition, robotics and natural language processing, which includes speech recognition and translation. Machine learning, a “technique that trains software algorithms to ..."
+    publishedDateTime: 2020-02-26T22:38:00Z
+    webUrl: "https://healthtechmagazine.net/article/2020/02/future-artificial-intelligence-healthcare"
+    type: article
+    provider:
+      name: HealthTech
+      domain: healthtechmagazine.net
+    quality: 19
 
 secured: "PcdNxVNejmYExTevE57mOvQRvegke+mtJJCwcaWoDgCwZ/gFMHG8xwPcJSRi7WGs4zDp2Yf91dmZQFHd9/bjXafAvT8oy/9ENZh+QoDT0GJgLqtsXOdI9UFEOW1wX3pJQ89dx5vWRwVmk9vIf5NU837dXP/BSyuhTPFJxNtIwxFw9OTkFTehmhYKDq1fulNuWbsHKjVEvWb9jwZcqKtMX+eWAfVBp+U2+PNxjaItqs+RXlIgD34Mz+H/NUDwiU1AhhZrOasTiYYccvcYxleSHmDW3GmcS6WN27fEryqZ5UWUybhla5HHAm35/rFNh4NIelq7TKb1dynLCe1Ovh/YNAmwUZVrPQ5n5NKIdqqxLEyLBIRdFg8O1iNGrwzK8u/GWj4KFhYEG7GMjs/ZdfLIolP4hvbych5mRG4BwhSEzY46SebuSFKkeMtyWc4J1u+kowA/9Iz3//DVagfLS4qETP8/7/PPTZ0hyF4S2YpxPjA=;9kX+i8OTj6QgaOb9lH+9CQ=="
 ---

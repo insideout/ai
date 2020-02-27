@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/tomtaulli/2020/02/21/how-ai-is-supercha
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/02/21/how-ai-is-supercharging-rpa-robotic-process-automation/amp/"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -23,6 +23,19 @@ topics:
   - AI
 
 related:
+  - title: "CIA’s Utilization of Robotics Process Automation"
+    excerpt: "In order to see what the bot is doing, the ServiceNow platform uses visuals to show what tasks the bot has completed. The Robotics Process Automation Center of Excellence is a step towards artificial intelligence (AI) and machine learning (ML) at the agency. “There are some efforts across the CIA to go that arena,” Dempsey said."
+    publishedDateTime: 2020-02-26T22:28:00Z
+    webUrl: "https://www.meritalk.com/articles/cias-utilization-of-robotics-process-automation/"
+    type: article
+    provider:
+      name: MeriTalk
+      domain: meritalk.com
+    quality: 54
+    images:
+      - url: "https://cdn.meritalk.com/wp-content/uploads/2019/04/CIA-min.jpg"
+        width: 800
+        height: 450
   - title: "The CEO of Automation Anywhere says the $7 billion AI startup can now 'automatically discover' new tasks to automate"
     excerpt: "Automation Anywhere says its new product features \"a bot creating a bot\" which can automatically discover tasks that can be automated."
     publishedDateTime: 2020-02-25T19:50:00Z

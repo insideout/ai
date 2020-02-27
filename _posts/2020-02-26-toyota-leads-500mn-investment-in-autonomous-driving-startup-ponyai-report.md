@@ -270,6 +270,15 @@ related:
       - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/12471190/16x9/991/557/bc81125508ceccb37bf723591384bb1c/ph/staff-members-are-seen-at-the-halloween-decorated-reception-area-of-the-chinese-self-driving-startup-pony-ai-headquarters-in-guangzhou-1.jpg"
         width: 991
         height: 557
+  - title: "Toyota Backs Chinese Startup Pony.ai With $400M Investment"
+    excerpt: "Toyota has backed Chinese firm Pony.ai with a $400 million investment, according to the Financial Times. The newest funding totals $462 million and puts a $3 billion value on the Chinese firm. Toyota is using its own artificial intelligence (AI) division, known as the Toyota Research Institute, to develop its own self-driving technology."
+    publishedDateTime: 2020-02-26T20:30:00Z
+    webUrl: "https://www.pymnts.com/news/investment-tracker/2020/toyota-backs-chinese-startup-pony-ai-400-million-investment/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 17
 
 secured: "8OOPqW0rAtyiGodKzv9e2zP72/jCkqBMCw3/eu6GO+uDmj7Qfn3ouU04FdwdPIJ3MtpmqTj6Y2MCEUhEZOMWiOU5d+3+1ksH1qlsbfE5S9FyDr7bE92nxSDIqrXne9X8qdUSmydzUK+6iheiqkyH8bJOTRb2R/FgkuwuuOfpPAhx+EcKo1efxWnTpxgk/UgwMezpvojuYbtDEw2IMd0cy+yMTCUy+uDtMFX1kKcIZ2AdFn1FDC8lm7qlkHxa6CJCJgs6CtD3gBUyIKggvxYEztQpr+ySaWniIgaj+xS6wuYh6J5fdcrmr7di3p4L1SOo4ztYSJYLfOJjeYSAQ9tCGvbrLZKNoYRWwYLgBqdzC86AdeVXKQv/ZNic4ZEzlM4X4ujsD+ovzyyAOFU4MioBwBioVlz1YcsUTWKKVz1tDhXjtidAyAgQtyEbFPgjFd6lm357jdbLzHABdnA3rRX1EmDLBFSY/GuqBc5RVZIk+xw=;txfA1IutlRutN96XJ9J/WQ=="
 ---

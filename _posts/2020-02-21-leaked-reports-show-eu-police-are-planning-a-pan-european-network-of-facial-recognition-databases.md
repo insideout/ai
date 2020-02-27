@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-21T17:08:00Z
 webUrl: "https://theintercept.com/2020/02/21/eu-facial-recognition-database/"
 type: article
 quality: 126
-heat: 186
+heat: 216
 published: true
 
 provider:
@@ -39,6 +39,21 @@ related:
       - url: "https://www.dailycamera.com/wp-content/uploads/2019/04/DC-backupimage-1000x563.jpg"
         width: 1000
         height: 563
+  - title: "Company behind controversial facial recognition software used by Toronto police suffers data breach"
+    excerpt: "The company behind a controversial facial recognition software which had been used by GTA police services, including the Toronto police, suffered a data breach. Clearview AI confirmed the news to CTV News Toronto on Wednesday afternoon. In a statement ..."
+    publishedDateTime: 2020-02-26T23:58:00Z
+    webUrl: "https://www.cp24.com/news/company-behind-controversial-facial-recognition-software-used-by-toronto-police-suffers-data-breach-1.4829135?cache=yes%3FclipId%3D89531%3FclipId%3D89950"
+    ampWebUrl: "https://beta.cp24.com/news/2020/2/26/1_4829135.html"
+    cdnAmpWebUrl: "https://beta-cp24-com.cdn.ampproject.org/c/s/beta.cp24.com/news/2020/2/26/1_4829135.html"
+    type: article
+    provider:
+      name: CP24
+      domain: cp24.com
+    quality: 45
+    images:
+      - url: "https://beta.ctvnews.ca/cp24/en/news/2020/2/26/1_4829135/_jcr_content/root/responsivegrid/image.coreimg.jpg"
+        width: 594
+        height: 333
   - title: "Canadian privacy officials will investigate controversial facial recognition tool used by Toronto police"
     excerpt: "TORONTO -- The federal privacy watchdog and three provincial ombudsmen have announced an investigation into the controversial facial recognition software used by several police services, including Toronto. “The investigation was initiated in the wake of numerous media reports that have raised questions and concerns about whether the company ..."
     publishedDateTime: 2020-02-21T18:56:00Z
@@ -67,6 +82,17 @@ related:
       - url: "https://thecrimereport.org/wp-content/uploads/2020/02/photo-by-Endstation-Jetzt.jpg"
         width: 800
         height: 549
+  - title: "School Facial Recognition Still Being Debated After Implementation"
+    excerpt: "(TNS) — Members of the New York Civil Liberties Union took their fight against facial recognition systems in schools to a local audience on Tuesday at the Lockport Public Library. Since 2018, an intense public debate has erupted in Lockport and nationally over the district installing a facial and object recognition system — with the New ..."
+    publishedDateTime: 2020-02-26T23:22:00Z
+    webUrl: "https://www.governing.com/security/School-Facial-Recognition-Still-Being-Debated-After-Implementation.html"
+    ampWebUrl: "https://www.governing.com/security/School-Facial-Recognition-Still-Being-Debated-After-Implementation.html?AMP"
+    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/School-Facial-Recognition-Still-Being-Debated-After-Implementation.html?AMP"
+    type: article
+    provider:
+      name: Governing
+      domain: governing.com
+    quality: 39
   - title: "EU poised to create massive transatlantic facial-recognition database, link with US"
     excerpt: "The EU is laying the groundwork for a massive international facial recognition database that may someday hook into the one maintained by the US, according to leaked internal documents. National police forces of 10 EU member states are calling for a legal framework to create a massive system of interlinked facial recognition databases “as ..."
     publishedDateTime: 2020-02-22T02:24:00Z
@@ -82,6 +108,15 @@ related:
       - url: "https://cdni.rt.com/files/2020.02/xxl/5e5086f785f54034da19d85a.JPG"
         width: 1240
         height: 697
+  - title: "Clearview AI, which has facial recognition database of 3 billion images, faces data theft"
+    excerpt: "Facial recognition software firm Clearview AI, which has been criticized for scraping together a database of as many as 3 billion online images, has been hit with a data breach. The New York-based firm apparently had its list of customers including numerous law enforcement agencies stolen, according to The Daily Beast, which first reported the ..."
+    publishedDateTime: 2020-02-26T22:57:00Z
+    webUrl: "https://www.usatoday.com/story/tech/2020/02/26/clearview-ai-data-theft-stokes-privacy-concerns-facial-recognition/4883352002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 25
   - title: "Announcement - Commissioners launch joint investigation into Clearview AI amid growing concerns over use of facial recognition technology"
     excerpt: "Media reports have stated that Clearview AI is using its technology to collect images and make facial recognition available to law enforcement for the purposes of identifying individuals. The company has also claimed to be providing its services to financial institutions. The four privacy regulators will examine whether the organization's ..."
     publishedDateTime: 2020-02-21T17:10:00Z

@@ -2,96 +2,6 @@
   "page": 25,
   "value": [
     {
-      "path": "_posts/_archive/2020-02-05-the-growing-robot-workforce-means-well-need-a-robot-hr-department-too.md",
-      "title": "The growing robot workforce means we'll need a robot HR department, too",
-      "excerpt": "Retailers are increasingly adopting artificial intelligence and robotics, both in brick-and-mortar shops and in warehouses, and with a new robot workforce comes the need for new management methods. That's right: in the near future, HR departments won't focus only on human employees, but also include a robot resources department to look after ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/the-growing-robot-workforce-means-well-need-a-robot-hr-department-too/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-growing-robot-workforce-means-well-need-a-robot-hr-department-too/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-growing-robot-workforce-means-well-need-a-robot-hr-department-too/",
-      "publishedDateTime": "2020-02-05T01:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2017/02/01/596ef522-cb01-4678-afc7-54371d47cc24/thumbnail/1200x675/dc20cdf8ec64b5bd2f6ecbecbdfd70df/istock-513630810.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "The growing robot workforce means we'll need a robot HR department, too",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-02-05-waymos-self-driving-car-workers-reportedly-complain-about-finding-leftover-needles-in-the-vehicles-and-a-cut-to-their-benefits.md",
-      "title": "Waymo's self-driving car workers reportedly complain about finding leftover needles in the vehicles and a cut to their benefits",
-      "excerpt": "Drivers of Waymo self-driving cars in Phoenix have reportedly seen their benefits cut since being classified as \"vendors\" instead of \"contractors.\"",
-      "heat": 96,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/waymo-self-driving-car-workers-complain-benefits-cut-needles-report-2020-2",
-      "ampWebUrl": "https://www.businessinsider.com/waymo-self-driving-car-workers-complain-benefits-cut-needles-report-2020-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/waymo-self-driving-car-workers-complain-benefits-cut-needles-report-2020-2?amp",
-      "publishedDateTime": "2020-02-05T14:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5e3b13600ce3d1277b0b323b?width=1200&format=jpeg",
-          "width": 800,
-          "height": 400,
-          "title": "Waymo's self-driving car workers reportedly complain about finding leftover needles in the vehicles and a cut to their benefits",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-02-05-welfare-surveillance-system-violates-human-rights-dutch-court-rules.md",
       "title": "Welfare surveillance system violates human rights, Dutch court rules",
       "excerpt": "Government told to halt use of AI to detect fraud in decision hailed by privacy campaigners",
@@ -1818,51 +1728,6 @@
       ]
     },
     {
-      "path": "_posts/_archive/2020-02-06-will-advancements-in-tech-make-homo-sapiens-go-extinct.md",
-      "title": "Will Advancements In Tech Make Homo Sapiens Go Extinct?",
-      "excerpt": "Very recently Johns Hopkins Applied Physics Lab developed a mind-controlled robotic arm. It has granted new life and leverage to a man who had lost his arm to cancer in 2005. This has been a huge ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/06/will-advancements-in-tech-make-homo-sapiens-go-extinct/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/06/will-advancements-in-tech-make-homo-sapiens-go-extinct/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/06/will-advancements-in-tech-make-homo-sapiens-go-extinct/amp/",
-      "publishedDateTime": "2020-02-06T04:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F02%2Fa-42.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "Will Advancements In Tech Make Homo Sapiens Go Extinct?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-02-06-worlds-gets-10-million-to-help-enterprises-observe-their-physical-environments-with-ai.md",
       "title": "Worlds gets $10 million to help enterprises observe their physical environments with AI",
       "excerpt": "Worlds, whose AI helps large organizations observe their physical spaces to ensure security, safety, and productivity, has raised $10 million in a first round of funding. The Dallas-based startup uses multiple cameras to track spaces in 3D over time, providing a more reliable view of what’s happening than typical 2D security video would.",
@@ -2041,23 +1906,23 @@
       ]
     },
     {
-      "path": "_posts/_archive/2020-02-07-an-ar-based-procedure-to-automate-image-labelling-in-the-context-3d-object-recognition.md",
-      "title": "An AR based procedure to automate image labelling in the context 3D object recognition",
-      "excerpt": "This article describes a procedure aimed to ease the toil of labelling images while building your own object recognition system. I will explain the steps I followed and the difficulties I ran into.",
-      "heat": 71,
+      "path": "_posts/_archive/2020-02-07-an-update-on-intel-and-habana-labs.md",
+      "title": "An Update On Intel And Habana Labs",
+      "excerpt": "Analyst Karl Freund provides an update on Intel's plans to switch its AI acceleration from Nervana to recently acquired Habana Labs.",
+      "heat": 74,
       "tags": null,
       "type": "article",
-      "webUrl": "https://medium.com/@alfredo.rubio.arevalo/an-ar-based-procedure-to-automate-image-labelling-in-the-context-3d-object-recognition-a5129b55a755",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-07T11:48:00-08:00",
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/02/05/an-update-on-intel-and-habana-labs/?ss=ai",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/02/05/an-update-on-intel-and-habana-labs/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/02/05/an-update-on-intel-and-habana-labs/amp/",
+      "publishedDateTime": "2020-02-07T09:30:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
+        "name": "Forbes",
+        "domain": "forbes.com",
         "images": [
           {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -2069,10 +1934,10 @@
       },
       "images": [
         {
-          "url": "https://miro.medium.com/max/778/1*m9yobYKqtSe9paXDczs5IA.png",
-          "width": 778,
-          "height": 1600,
-          "title": "An AR based procedure to automate image labelling in the context 3D object recognition",
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e3a6013f133f400076baa00%2F0x0.jpg",
+          "width": 899,
+          "height": 568,
+          "title": "An Update On Intel And Habana Labs",
           "attribution": null
         }
       ],
@@ -2082,7 +1947,132 @@
       ],
       "topics": [
         "AI",
-        "Computer Vision"
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-02-07-artificial-intelligence-privacy-and-the-choices-you-must-make.md",
+      "title": "Artificial Intelligence, Privacy, And The Choices You Must Make",
+      "excerpt": "For some thoughtful insights we can turn to Rhonda Scharf’s book Alexa Is Stealing Your Job: The Impact of Artificial Intelligence on Your Future.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/rodgerdeanduncan/2020/02/07/artificial-intelligence-privacy-and-the-choices-you-must-make/",
+      "ampWebUrl": "https://www.forbes.com/sites/rodgerdeanduncan/2020/02/07/artificial-intelligence-privacy-and-the-choices-you-must-make/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rodgerdeanduncan/2020/02/07/artificial-intelligence-privacy-and-the-choices-you-must-make/amp/",
+      "publishedDateTime": "2020-02-07T00:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e17afe8735f8c0007998582%2F0x0.jpg",
+          "width": 640,
+          "height": 389,
+          "title": "Artificial Intelligence, Privacy, And The Choices You Must Make",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-02-07-center-for-robotics-and-biosystems-at-northwestern-works-on-human-robot-collaboration.md",
+      "title": "Center for Robotics and Biosystems at Northwestern works on human-robot collaboration",
+      "excerpt": "“The robot can learn how well the user can operate on his or her own and adjust ... not to mention the application itself. “Artificial intelligence is a hot topic,” Lynch acknowledged. “At the highest level, embodied intelligence has to have some physical connection to the world. It’s not just chatbots but AI that receives information ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.therobotreport.com/center-robotics-biosystems-northwestern-human-robot-collaboration/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-07T13:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2020/02/cooperative-mobile-manipulators-1024x683.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": "Center for Robotics and Biosystems at Northwestern works on human-robot collaboration",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-02-07-clearview-says-first-amendment-lets-it-scrape-the-internet-lawyers-disagree.md",
+      "title": "Clearview says First Amendment lets it scrape the internet. Lawyers disagree",
+      "excerpt": "On a CBS This Morning segment on Wednesday, Clearview AI CEO Hoan Ton-That said his company had a First Amendment right to access public data, including photos from YouTube, Facebook, Twitter, LinkedIn and Venmo. It uses those photos for a controversial database primarily used by law enforcement. (Disclosure: CBS News and CNET are owned by the ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/clearview-says-first-amendment-lets-it-scrape-the-internet-lawyers-disagree/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/clearview-says-first-amendment-lets-it-scrape-the-internet-lawyers-disagree/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/clearview-says-first-amendment-lets-it-scrape-the-internet-lawyers-disagree/",
+      "publishedDateTime": "2020-02-07T03:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/xfPdi1mmwtDzDUGS-y0SixQK_QU=/756x567/2019/03/15/d0e98f89-88ab-436f-8f6d-503a95eb57f0/facial-recognition-face-id-password-6.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "Clearview says First Amendment lets it scrape the internet. Lawyers disagree",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],
