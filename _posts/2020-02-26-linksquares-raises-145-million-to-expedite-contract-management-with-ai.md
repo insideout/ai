@@ -44,6 +44,21 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/02/tractable-e1582748104266.png?fit=1200%2C600&strip=all"
         width: 1200
         height: 600
+  - title: "Qure.ai raises $16 million for AI that spots abnormalities in chest and head scans"
+    excerpt: "That’s why Qure.ai pioneered qXR, a low-cost chest X-ray product that can identify abnormalities with AI. The company today announced that it has raised $16 million in financing, which cofounder and CEO Prashant Warier says will drive expansion and growth as Qure.ai seeks regulatory clearances around the world. “We are proud to have taken ..."
+    publishedDateTime: 2020-02-27T04:41:00Z
+    webUrl: "https://venturebeat.com/2020/02/26/qure-ai-raises-16-million-for-ai-that-spots-abnormalities-in-chest-and-head-scans/"
+    ampWebUrl: "https://venturebeat.com/2020/02/26/qure-ai-raises-16-million-for-ai-that-spots-abnormalities-in-chest-and-head-scans/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/26/qure-ai-raises-16-million-for-ai-that-spots-abnormalities-in-chest-and-head-scans/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 81
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/02/unnamed-5.jpg?fit=512%2C341&strip=all"
+        width: 512
+        height: 341
   - title: "New Lattice mVision Solutions Stack Accelerates Low Power Embedded Vision Development"
     excerpt: "The Edge AI and Vision Alliance is committed to fostering the adoption of embedded vision in new products. Jeff Bier, the Alliance’s founder, said, “Manufacturing inspection was one of the first markets to widely adopt computer vision. Today, embedded vision is expanding into a wide range of industrial applications, such as automated ..."
     publishedDateTime: 2020-02-24T23:15:00Z

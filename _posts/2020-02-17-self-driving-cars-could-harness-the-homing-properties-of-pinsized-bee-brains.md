@@ -39,36 +39,6 @@ related:
       - url: "http://media.foxbusiness.com/BrightCove/854081161001/202002/3442/854081161001_6132318472001_6132305520001-vs.jpg"
         width: 1280
         height: 720
-  - title: "Lawmakers, Trial Lawyers Clash Over Self-Driving Car Rules"
-    excerpt: "(TNS) — Lawmakers in the U.S. House on Tuesday took to task a trial lawyers' lobby group that helped kill a bill setting regulations for self-driving cars. The Washington-based American Association for Justice, which lobbies for trial lawyers who typically represent plaintiffs, had objected to a lack of concrete protections that would ensure ..."
-    publishedDateTime: 2020-02-12T18:09:00Z
-    webUrl: "https://www.govtech.com/transportation/Lawmakers-Trial-Lawyers-Clash-Over-Self-Driving-Car-Rules.html"
-    ampWebUrl: "https://www.govtech.com/transportation/Lawmakers-Trial-Lawyers-Clash-Over-Self-Driving-Car-Rules.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/transportation/Lawmakers-Trial-Lawyers-Clash-Over-Self-Driving-Car-Rules.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 44
-    images:
-      - url: "https://media2.govtech.com/images/shutterstock_1019141671.jpg"
-        width: 950
-        height: 629
-  - title: "Has reality put the brakes on self-driving cars?"
-    excerpt: "Five years ago you couldn’t move for it, or at least its promise. Autonomy (aka the self-driving car) was going to take over, save lives, save the planet, make cars uncrashable, put drivers out of work and change everything we knew about individual mobility. Audi staged a piloted drive in one of its large saloons; all 550 miles from Silicon ..."
-    publishedDateTime: 2020-02-17T16:56:00Z
-    webUrl: "https://www.telegraph.co.uk/cars/features/has-reality-put-brakes-self-driving-cars/"
-    ampWebUrl: "https://www.telegraph.co.uk/cars/features/has-reality-put-brakes-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/cars/features/has-reality-put-brakes-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 44
-    images:
-      - url: "https://www.telegraph.co.uk/content/dam/cars/2020/02/17/TELEMMGLPICT000059012609_trans_NvBQzQNjv4Bq3zRqJvTEgWWOoA_OyO2TYjp1J53GedFpkBVyM6aWTKE.jpeg"
-        width: 2380
-        height: 1488
   - title: "Self-Driving Cars Hardly Around The Corner: Panelists At Synapse Summit"
     excerpt: "Consumers are becoming more aware of connectivity in cars, even if not knowledgeable about those that are self-driving. There are really two aspects of the future of vehicles: connected cars and autonomous cars, those that can drive themselves without a human behind the wheel. We had a robust discussion about this on a panel discussion I ..."
     publishedDateTime: 2020-02-17T15:55:00Z
@@ -82,19 +52,6 @@ related:
       - url: "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2020/02/13/volvoautonomous-volvoselfdriving_q5iXO4z.jpg"
         width: 600
         height: 375
-  - title: "How should self-driving cars decide who to kill? by Mark Buchanan"
-    excerpt: "Not too long ago, tech enthusiasts were telling us that by 2020, we’d see self-driving cars hit the mainstream, with some 10 million on the roads. That turned out to be a wild overestimation. The actual number of vehicles in testing is thousands of times smaller, and they’re still driving mostly in controlled conditions. Companies have also ..."
-    publishedDateTime: 2020-02-18T05:00:00Z
-    webUrl: "https://www.pressofatlanticcity.com/opinion/commentary/how-should-self-driving-cars-decide-who-to-kill-by/article_6c1dbac7-3a51-5e99-bc84-8066769cbe28.html"
-    type: article
-    provider:
-      name: The Press of Atlantic City
-      domain: pressofatlanticcity.com
-    quality: 24
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/pressofatlanticcity.com/content/tncms/custom/image/bae1e730-3e34-11e6-9bc5-8f83ee7a0e54.jpg"
-        width: 1200
-        height: 630
 
 secured: "ejETVEsnnRQmQ7mIH0iWDYBhGTNbTs79Qf53WKCqH7QykfxbJE+753XecCSqX/5YXW/G+EvCvoD05uwMd2PJBgbnRfhh2IuyauvpFX0fxtf6+zWedsqFuscoIkcXJDBwnSUV7eBye3US+puk7NBp9/AvptpP0DwFB354mK9EeyqC9Hg1hQOFo8gQFCZUQR3ttRs8khj9W+fTobORoNHYyZwVu3CIh0KS1Y/+mtwEjMQkE9x6BEleztA1WTCn0BFlcIJWkP2D0U9gbT/vSOynUS0vCb8iNgwzbRpMZDF8iPtnlA9vi5Jtd8UrkPzdk6S3dXeAxCa6kbQ2hF1b5OR0mt4ElgRuMoEIyKScYexLSKCu58PZtsb7+wGKrDrzvR6b8olRbnrIdhbPL4J6Mnz7GGnDQPdJPSpqXppL33O49pzHs1aXq+qxj14SeDN9dNCS/uoFDH/Jj+1AjedKxfFdwXs4uZJb25kyZcgC8iDE7EU=;aQvkD1OtpZlhScp+sZle9w=="
 ---

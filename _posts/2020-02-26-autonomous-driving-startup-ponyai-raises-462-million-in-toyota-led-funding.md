@@ -66,6 +66,21 @@ related:
       - url: "https://www.nasdaq.com/sites/acquia.prod/files/2019-11-18T043046Z_1533163308_RC2W8D9ZM05M_RTRMADP_2_CHINA-AUTOS.JPG"
         width: 640
         height: 427
+  - title: "RPT-EXCLUSIVE-Autonomous driving startup Pony.ai raises $500 mln in Toyota-led funding: sources"
+    excerpt: "Pony.ai, which has partnerships with automakers Hyundai and GAC, declined to comment. A Beijing-based spokesman for Toyota declined to comment. The investment by Toyota comes at a time when global car makers, technology firms, start-ups and investors - including Tesla, Alphabet Inc’s Waymo and Uber - are pouring capital into developing self ..."
+    publishedDateTime: 2020-02-27T04:49:00Z
+    webUrl: "https://uk.reuters.com/article/toyota-ponyai-autonomous/rpt-exclusive-autonomous-driving-startup-ponyai-raises-500-mln-in-toyota-led-funding-sources-idUKL3N2AQ0D5"
+    ampWebUrl: "https://uk.mobile.reuters.com/article/amp/idUKL3N2AQ0D5"
+    cdnAmpWebUrl: "https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKL3N2AQ0D5"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 75
+    images:
+      - url: "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png"
+        width: 1200
+        height: 630
   - title: "Self-driving startup halts passenger rides following minor injury"
     excerpt: "Following a minor incident, the National Highway Traffic Safety Administration has told France-based self-driving technology startup EasyMile to cease passenger rides. The company made the temporary suspension public in a Tuesday announcement, saying a passenger \"slipped from their seat in a minor incident.\" According to the company ..."
     publishedDateTime: 2020-02-26T15:56:00Z

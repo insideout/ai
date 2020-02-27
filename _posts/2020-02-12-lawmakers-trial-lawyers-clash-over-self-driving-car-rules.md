@@ -26,21 +26,21 @@ images:
     title: "Lawmakers, Trial Lawyers Clash Over Self-Driving Car Rules"
 
 related:
-  - title: "US risks trailing China, others on self-driving cars, congresswoman warns"
-    excerpt: "While the benefits of self-driving cars are vast, she said, they will be transformational in a lot of ways. CLICK HERE TO READ MORE ON FOX BUSINESS “When you think about 37,000 individuals that were killed on our roadways last year largely due to human error, you think about the movement of goods and people, all the congestion in America."
-    publishedDateTime: 2020-02-13T22:18:00Z
-    webUrl: "https://www.foxbusiness.com/technology/us-china-autonomous-cathy-mcmorris-rodgers"
-    ampWebUrl: "https://www.foxbusiness.com/technology/us-china-autonomous-cathy-mcmorris-rodgers.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/us-china-autonomous-cathy-mcmorris-rodgers.amp"
+  - title: "We still can’t agree how to regulate self-driving cars"
+    excerpt: "A quick recap in case you forgot: the Republican-controlled House of Representatives unanimously passed the SELF DRIVE Act in 2017, which would speed the adoption of self-driving cars and bar ..."
+    publishedDateTime: 2020-02-11T21:26:00Z
+    webUrl: "https://www.theverge.com/2020/2/11/21133389/house-energy-commerce-self-driving-car-hearing-bill-2020"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/2/11/21133389/house-energy-commerce-self-driving-car-hearing-bill-2020"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/11/21133389/house-energy-commerce-self-driving-car-hearing-bill-2020"
     type: article
     provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 58
+      name: The Verge
+      domain: theverge.com
+    quality: 74
     images:
-      - url: "http://media.foxbusiness.com/BrightCove/854081161001/202002/3442/854081161001_6132318472001_6132305520001-vs.jpg"
-        width: 1280
-        height: 720
+      - url: "https://cdn.vox-cdn.com/thumbor/10T-kTZJK2tlblwYeUppcBLmegw=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66295443/vpavic_191202_3827_0024.0.jpg"
+        width: 1400
+        height: 933
   - title: "Has reality put the brakes on self-driving cars?"
     excerpt: "Five years ago you couldn’t move for it, or at least its promise. Autonomy (aka the self-driving car) was going to take over, save lives, save the planet, make cars uncrashable, put drivers out of work and change everything we knew about individual mobility. Audi staged a piloted drive in one of its large saloons; all 550 miles from Silicon ..."
     publishedDateTime: 2020-02-17T16:56:00Z
@@ -56,32 +56,19 @@ related:
       - url: "https://www.telegraph.co.uk/content/dam/cars/2020/02/17/TELEMMGLPICT000059012609_trans_NvBQzQNjv4Bq3zRqJvTEgWWOoA_OyO2TYjp1J53GedFpkBVyM6aWTKE.jpeg"
         width: 2380
         height: 1488
-  - title: "Self-driving cars could harness the homing properties of pinsized bee brains"
-    excerpt: "Bee brains could hold the secrets to future autonomous technology (Photo: Yuri KADOBNOV / AFP) (Photo credit should read YURI KADOBNOV/AFP via Getty Images) Honeybee brains may only be the size of a pinhead but they can travel for five miles and still manage to find their way home. Now, scientists are looking to mimic the working of that ..."
-    publishedDateTime: 2020-02-17T06:25:00Z
-    webUrl: "https://inews.co.uk/news/science/drones-harness-secret-homing-properties-pinsized-bee-brains-1742554"
+  - title: "Congress looks to revive self-driving car legislation"
+    excerpt: "Want access to the top energy and environment news? Sign up for a free trial! Enter your email to register or log in. By signing up, you agree to receive E&E News email updates and offers. You also grant your consent to our data collection practices. We encourage you to review our Privacy and Data Practices Policy."
+    publishedDateTime: 2020-02-12T12:19:00Z
+    webUrl: "https://www.eenews.net/eedaily/2020/02/12/stories/1062327793"
     type: article
     provider:
-      name: i
-      domain: inews.co.uk
-    quality: 36
-    images:
-      - url: "https://inews.co.uk/images-i.jpimedia.uk/imagefetch/https://inews.co.uk/wp-content/uploads/2020/02/GettyImages-957647792.jpg"
-        width: 1024
-        height: 722
-  - title: "Self-Driving Cars Hardly Around The Corner: Panelists At Synapse Summit"
-    excerpt: "Consumers are becoming more aware of connectivity in cars, even if not knowledgeable about those that are self-driving. There are really two aspects of the future of vehicles: connected cars and autonomous cars, those that can drive themselves without a human behind the wheel. We had a robust discussion about this on a panel discussion I ..."
-    publishedDateTime: 2020-02-17T15:55:00Z
-    webUrl: "https://www.mediapost.com/publications/article/347012/self-driving-cars-hardly-around-the-corner-paneli.html"
-    type: article
-    provider:
-      name: MediaPost
-      domain: mediapost.com
+      name: E&E
+      domain: eenews.net
     quality: 24
     images:
-      - url: "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2020/02/13/volvoautonomous-volvoselfdriving_q5iXO4z.jpg"
-        width: 600
-        height: 375
+      - url: "https://www.eenews.net/image_assets/2020/02/image_asset_74141.jpg"
+        width: 938
+        height: 483
   - title: "How should self-driving cars decide who to kill? by Mark Buchanan"
     excerpt: "Not too long ago, tech enthusiasts were telling us that by 2020, we’d see self-driving cars hit the mainstream, with some 10 million on the roads. That turned out to be a wild overestimation. The actual number of vehicles in testing is thousands of times smaller, and they’re still driving mostly in controlled conditions. Companies have also ..."
     publishedDateTime: 2020-02-18T05:00:00Z

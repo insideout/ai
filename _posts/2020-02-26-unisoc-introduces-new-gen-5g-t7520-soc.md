@@ -35,6 +35,19 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 34
+  - title: "Unisoc rolls out 6nm 5G SoC"
+    excerpt: "Codenamed T7520, the new Unisoc 5G SoC enables an optimized 5G experience with substantially enhanced AI computing and multimedia imaging processing capabilities ... adding that the new SoC has four Arm Cortex-A76 cores and four Arm Cortex-A55 cores with an Arm Mali-G57 based GPU. Developed on Unisoc's in-house developed Makalu 5G platform ..."
+    publishedDateTime: 2020-02-27T02:31:00Z
+    webUrl: "https://www.digitimes.com/news/a20200227PD206.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 24
+    images:
+      - url: "https://www.digitimes.com/newsshow/20200227PD206_files/1_b.jpg"
+        width: 640
+        height: 427
 
 secured: "tpKUGhovWcQW8rBOGVKHj62vOztJqV/XBb6wSfiyO8+x2ubuNDJtfm4G3bVEVBZfyND/YvDMfWAkMeaajOxQwMBoZrAhH7PG6Ap+02IN2l+Kd6olqzvAm+0pxI7FLEKS41kA46Y980qDZHskOFf5RNH69nq4X23pwLn7Dy2mo3ZSmj6wOQ29ihMuRD0/Ssd/3vWta0lMKZj087NMTIdXBBdWoA3xCQzcDyKcijpKTXxPOGR2wY/FnZPOaYbMYxWOtnkKRpxE+ll6Cq/eR5k0vfXEwE5AMSZPor2w1gRKT2HLI3wCiVAKbmo/VnqZahTm;phBdWMTqVc3pNxuXXiKr9A=="
 ---

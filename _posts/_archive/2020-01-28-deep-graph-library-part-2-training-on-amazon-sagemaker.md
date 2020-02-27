@@ -27,6 +27,6 @@ images:
     height: 514
     title: "Deep Graph Library, part 2 — Training on Amazon SageMaker"
 
-secured: "75CoRp1dLDlvLlIo0PVHnz+tIFNcYkHL3Ej449k1Z3rKMShVZdUfkb/kSCbkA9ATXJi4U+oaChs+x+deJGryY2v/Pq63iJjO3YsY35RHB2k56RjfTVUz4jnphUH6mkteRl/d61B1ZwNZ5mS3UZf/eAPn7Ca5Scm+BzxMfTGuSDCwqc/lP9up2JPqK30BizGLtNu3XT4yWMZ89HRk8Ds3Yx8umUZckyDP7dn1K64AXpqL9k381+voPwVIiTAXlmi+YViAJAABD4/wSatqHAf4grJUd4Qa2o3CSz6uM2YbPVebnZhhQyJGqCf3cC8rb+iV;3Zr8px2ydX6/2mxG2pQciQ=="
+secured: "pCNbGZiV2PI0BFyuabTdYZMQPWcl/wYPiiANoyFR2Dln93CPmDV81yamYNTn1DPtQsdgVK8VM8oCzGKLE4PvPvlmsrYa49cU9PUYZT3xyPgO5O1aFHitw5cP8CoiEofefGG1ftMdootQu0mfNAvsXltNZOqdCO7PCs43JZgQ1VVa1Ja0Zgo+OczJNE0IMJik+3H6rrrOWt3nE6gFExVpDpWvbUfrm2U+hBucBcTPc3fjX+1SpWtUypMe8UpYZwr1qgrVQ9hy6bZpb0KEvISFQuL2uIkAF+HtcjWwnYxowZ5K7f18roApJeDiLZ3VwK/v;QcMNxvSROUlz4ltwWEFIfA=="
 ---
 

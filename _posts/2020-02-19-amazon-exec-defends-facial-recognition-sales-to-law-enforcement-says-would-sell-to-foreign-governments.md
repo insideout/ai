@@ -274,17 +274,6 @@ related:
       - url: "https://www.dailydot.com/wp-content/uploads/2020/02/Facial-Recognition-Bill-Congress-Merkley-Booker-1024x512.jpg"
         width: 1024
         height: 512
-  - title: "EU Softens Stance On 5-Year Ban Of Facial Recognition Tech"
-    excerpt: "The European Union won’t be passing a blanket moratorium on facial recognition software after initially signaling that it would do so. Instead, it plans to leave the responsibility to member states. That decision has faced backlash from privacy advocates, who say civil liberties could be at risk from facial recognition due to its potential ..."
-    publishedDateTime: 2020-02-12T11:59:00Z
-    webUrl: "https://www.pymnts.com/news/biometrics/2020/eu-softens-stance-on-5-year-ban-of-facial-recognition-tech/"
-    ampWebUrl: "https://www.pymnts.com/news/biometrics/2020/eu-softens-stance-on-5-year-ban-of-facial-recognition-tech/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/biometrics/2020/eu-softens-stance-on-5-year-ban-of-facial-recognition-tech/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 39
   - title: "Senate bill would put a moratorium on federal facial recognition use"
     excerpt: "A new bill introduced in the Senate would put a moratorium on the use of facial recognition by federal agencies, at least until Congress can figure out how to regulate the technology. The Ethical Use of Facial Recognition Act is a partnership between Sens. Cory Booker, D-N.J., and Jeff Merkley, D-Ore., that would also create a congressional ..."
     publishedDateTime: 2020-02-14T20:53:00Z

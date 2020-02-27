@@ -2,50 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_posts/2020-02-26-cartesiam-helps-developers-bring-ai-to-microcontrollers.md",
-      "title": "Cartesiam helps developers bring AI to microcontrollers",
-      "excerpt": "The new NanoEdge AI Studio is the first IDE specifically designed for enabling machine learning and inferencing on Arm Cortex-M microcontrollers, which power billions of devices already. As Cartesiam GM Marc Dupaquier, who co-founded the company in 2016, told me, the company works very closely with Arm, given that both have a vested interest in ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/02/26/cartesiam-helps-developers-bring-ai-to-microcontrollers/",
-      "ampWebUrl": "https://techcrunch.com/2020/02/26/cartesiam-helps-developers-bring-ai-to-microcontrollers/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/26/cartesiam-helps-developers-bring-ai-to-microcontrollers/amp/",
-      "publishedDateTime": "2020-02-26T12:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-129905792.jpg?w=1024",
-          "width": 1024,
-          "height": 681,
-          "title": "Cartesiam helps developers bring AI to microcontrollers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-26-chinese-hospitals-deploy-ai-to-help-diagnose-covid-19.md",
       "title": "Chinese Hospitals Deploy AI to Help Diagnose Covid-19",
       "excerpt": "China’s government has urged development of AI tools for healthcare as part of sweeping national investments in artificial intelligence. China’s relatively lax rules on privacy allow companies such as Infervision to gather medical data to train machine learning algorithms in tasks like reading scans more easily than US or European rivals.",
@@ -1176,7 +1132,7 @@
       "path": "_posts/2020-02-26-toyota-steers-400-million-to-self-driving-startup-ponyai.md",
       "title": "Toyota steers $400 million to self-driving startup Pony.ai",
       "excerpt": "With this new investment, their relationship will become even closer, with the automaker and the startup “co-developing” mobility products like “mobility services.” Pony.ai has been testing robot taxis in Beijing and Guangzhou since late 2018 as well as in Fremont and Irvine, California. The startup claims to be the first company to ...",
-      "heat": 291,
+      "heat": 301,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.theverge.com/2020/2/25/21152817/toyota-pony-ai-self-driving-car-investment-valuation-china-silicon-valley",
@@ -1402,7 +1358,7 @@
       "path": "_posts/2020-02-27-tractable-raises-25-million-for-computer-vision-that-accelerates-insurance-claims.md",
       "title": "Tractable raises $25 million for computer vision that accelerates insurance claims",
       "excerpt": "Tractable has raised $25 million to expand the reach of its AI- and computer vision-based platform that automates insurance claims processing. The London-based startup has developed technology that effectively eliminates the need to have a claims adjuster physically inspect a house or car after a disaster or accident in order to generate a ...",
-      "heat": 128,
+      "heat": 138,
       "tags": null,
       "type": "article",
       "webUrl": "https://venturebeat.com/2020/02/26/tractable-raises-25-million-for-computer-vision-that-accelerates-insurance-claims/",
@@ -2116,6 +2072,51 @@
       "topics": [
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2019-12-20-facebook-discovers-fakes-that-show-evolution-of-disinformation.md",
+      "title": "Facebook Discovers Fakes That Show Evolution of Disinformation",
+      "excerpt": "The network exposed by Facebook used fake profile photos generated with artificial intelligence.Credit...Graphika/The Atlantic Council’s Digital Forensic Research Lab Facebook said on Friday that it had removed hundreds of accounts with ties to the Epoch ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/2019/12/20/business/facebook-ai-generated-profiles.html",
+      "ampWebUrl": "https://www.nytimes.com/2019/12/20/business/facebook-ai-generated-profiles.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2019/12/20/business/facebook-ai-generated-profiles.amp.html",
+      "publishedDateTime": "2019-12-20T15:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2019/12/20/business/20takedown3/20takedown3-facebookJumbo-v2.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": "Facebook Discovers Fakes That Show Evolution of Disinformation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
       ]
     }
   ],
