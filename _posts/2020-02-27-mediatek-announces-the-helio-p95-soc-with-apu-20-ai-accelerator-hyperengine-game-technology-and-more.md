@@ -41,6 +41,21 @@ related:
       - url: "https://www.gizmochina.com/wp-content/uploads/2020/02/Helio-P95.png"
         width: 822
         height: 594
+  - title: "MediaTek Helio P95 SoC with AI Accelerator and HyperEngine gaming launched"
+    excerpt: "We don’t get to see any changes in terms of GPU. The PowerVR GM 9446 GPU is now improved to offer 10% better performance. The AI processing unit has also received a 10% performance gain. The Helio P95 supports the triple Image Signal Processor. OEMs get to include either a single 64MP sensor or up to 24MP and 16MP in dual camera setup."
+    publishedDateTime: 2020-02-27T10:27:00Z
+    webUrl: "https://themrphone.com/tech/mediatek-helio-p95"
+    ampWebUrl: "https://themrphone.com/tech/mediatek-helio-p95/amp/"
+    cdnAmpWebUrl: "https://themrphone-com.cdn.ampproject.org/c/s/themrphone.com/tech/mediatek-helio-p95/amp/"
+    type: article
+    provider:
+      name: Mr. Phone
+      domain: themrphone.com
+    quality: 57
+    images:
+      - url: "https://sgp1.digitaloceanspaces.com/wp-uploads/tech/wp-content/uploads/2020/02/27152338/Helio-p95-featured-image.png"
+        width: 805
+        height: 422
   - title: "MediaTek announces Helio P95 SoC with APU 2.0, PowerVR GM 94446 GPU and more"
     excerpt: "There is an Imagination PowerVR GM 94446 GPU with a 10% improvement in performance over the ... The SoC has a triple ISP with 14-bit RAW and 10-bit YUV processing. It also has AI-camera enhancements such as AI-NR low-light photography, 5-person human ..."
     publishedDateTime: 2020-02-26T21:21:00Z

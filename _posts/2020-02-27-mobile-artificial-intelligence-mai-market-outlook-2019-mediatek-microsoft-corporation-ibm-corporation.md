@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-27T09:18:00Z
 webUrl: "https://www.marketwatch.com/press-release/mobile-artificial-intelligence-mai-market-outlook-2019-mediatek-microsoft-corporation-ibm-corporation-2020-02-27"
 type: article
 quality: 64
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -27,6 +27,19 @@ images:
     title: "Mobile Artificial Intelligence (MAI) Market Outlook 2019 | MediaTek, Microsoft Corporation, IBM Corporation"
 
 related:
+  - title: "Global Artificial Intelligence Market - Revolutionary Trends 2029|| Atomwise Inc, Google Inc and IBM Corp."
+    excerpt: "Global Artificial Intelligence Market (Revenue and Volume), Type, Application, End-User, and Regional Analysis, Import-Export Analysis, Industry Analysis, Premium Insights, Intellectual Property Analysis,"
+    publishedDateTime: 2020-02-27T10:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-market---revolutionary-trends-2029-atomwise-inc-google-inc-and-ibm-corp-2020-02-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Global Artificial Intelligence in Oil & Gas Market Witness Highest Growth in near future| Intel, Microsoft and IBM Corporation"
     excerpt: "Global Artificial Intelligence in Oil & Gas Market (Revenue and Volume), Type, Application, End-User, and Regional Analysis, Import-Export Analysis, Industry Analysis, Premium Insights, Intellectual Property Analysis,"
     publishedDateTime: 2020-02-22T09:16:00Z

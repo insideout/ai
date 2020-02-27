@@ -3,26 +3,28 @@ category: news
 title: "Covariant and ABB Partner to Deploy Integrated AI Robotic Solutions"
 excerpt: "ZURICH, Feb. 25, 2020 /PRNewswire/ -- ABB, the world-leading supplier of industrial robots, and Silicon Valley AI start-up, Covariant, today announced a partnership to bring AI-enabled robotics solutions to market,"
 publishedDateTime: 2020-02-25T06:00:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/02/n15400982/covariant-and-abb-partner-to-deploy-integrated-ai-robotic-solutions"
-ampWebUrl: "https://amp.benzinga.com/amp/content/15400982"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15400982"
+webUrl: "https://www.marketwatch.com/press-release/covariant-and-abb-partner-to-deploy-integrated-ai-robotic-solutions-2020-02-25"
 type: article
-quality: 74
+quality: 84
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
   - AI in Robotics
 
 images:
-  - url: "https://mma.prnewswire.com/media/1094804/Covariant_Brain_ABB_robot.jpg"
-    width: 400
-    height: 287
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     title: "Covariant and ABB Partner to Deploy Integrated AI Robotic Solutions"
 
 related:
@@ -42,6 +44,6 @@ related:
         width: 711
         height: 474
 
-secured: "/cga/vYLle3p1NKJdmo6pfYj7+q0FBM6VKURgo2ftMvVQbbjfyotoBEyOEDrGIB7Ar1B4yuBWS3sMNXg9ddKjBBNYWdTmO1weJe4nrl0xCZgbu4RGZT8V19zza4QrmpukRa7AGU0CqnD5bpkcQBc3b+Z8GAJJOZMooKEzaKZTrW4hP431H2PwNhfOz3hOPPTn1DEIAd1hwe7nRbjMS8wvcUs5FQWDZ9uwguvyDQ0T+tl2nLiCVCfxIaXHkGe4/8itmI+o9JAOEVyEtRRWxyTj2qTjYg4U2NAKFwnyNok1e7fNTRPSroRnkX55O0hdPTh1A6dtl/p4391BRWk8iesuKFzoM4Xs/bCtjHG9Y5Std45/uDPJGdctloFT87qOAzrbFzyl1YNKPo/Ny/jLlc/cd3J3+F6IryRPfYhTqPae5QKXdaWu9kKpwTm45bu50UELsj0ZQQKY+5Av7kgdpq6ooZXpSyKBrerdhaRqVSj+0A=;/abz341jaTRjwNN7IROU/A=="
+secured: "QbjxRHyIJK7fxJ4MvmQvTWFWG7EC0BSGj9rOcrjR7/T+rCg7QOero818jKpE5dxUpZCuIBTaUOGZIuvQDry61hokiD24XGRUXYnl/2fh9OusCmBpOddlyxHJNRQDapguYnfRRJu6XfAPg8IJPYfW40a3fc1cmswj28K7gi9hnISYK7L8tFrMs4ktC1DF2o0xpSwD+DpvW1jiTuMn0nXQxGder74diWQkLqXz9yk1hCI/QczVDrh9LPgiIz547fBQX72pAI7KhEg2DjagDKbywSyr1Dl1fBjVDSIRy4hn8qMTij4uNSpWafaY8aUXHwxt;mBEp8/l2JlvCQALwQh2CkQ=="
 ---
 

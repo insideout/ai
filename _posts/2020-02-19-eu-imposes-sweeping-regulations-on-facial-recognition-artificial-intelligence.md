@@ -72,21 +72,6 @@ related:
       - url: "https://icdn3.digitaltrends.com/image/digitaltrends/facial-recognition-composite-feature-1200x630-c-ar1.91.jpg"
         width: 1200
         height: 628
-  - title: "Watchdog rejects Met's claim that he supported facial recognition"
-    excerpt: "Biometrics commissioner says force was wrong to say he backed use of the technology"
-    publishedDateTime: 2020-02-12T17:53:00Z
-    webUrl: "https://www.theguardian.com/uk-news/2020/feb/12/watchdog-rejects-met-claim-support-facial-recognition"
-    ampWebUrl: "https://amp.theguardian.com/uk-news/2020/feb/12/watchdog-rejects-met-claim-support-facial-recognition"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/uk-news/2020/feb/12/watchdog-rejects-met-claim-support-facial-recognition"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 76
-    images:
-      - url: "https://i.guim.co.uk/img/media/ab480b27ec359ed680b465fab973dd81134c09e7/196_203_3168_1901/master/3168.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c35b5d9ecfef40538eaa5ead90aa04b3"
-        width: 600
-        height: 360
   - title: "Delhi Police says only criminal records retained from use of facial recognition"
     excerpt: "The Delhi Police had earlier started using its facial recognition software, acquired in 2017 to track missing children and persons, to screen crowds. The software, made by Delhi-based Innefu Labs is capable of screening faces from social media as well, as founder Tarun Wig had explained to Mint in an earlier interaction. The reports also raised ..."
     publishedDateTime: 2020-02-21T15:42:00Z

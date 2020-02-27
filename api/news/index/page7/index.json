@@ -1160,6 +1160,43 @@
       ]
     },
     {
+      "path": "_posts/2020-02-25-springfield-city-council-passes-facial-recognition-moratorium.md",
+      "title": "Springfield City Council passes facial recognition moratorium",
+      "excerpt": "The Springfield City Council on Monday passed a moratorium on the local government’s use of facial recognition technology, a controversial piece of software many view as inaccurate and invasive. The measure, introduced to the legislative body by Springfield City Councilor Orlando Ramos in January, will now go to the office of Mayor Domenic ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.masslive.com/springfield/2020/02/springfield-city-council-passes-facial-recognition-moratorium.html",
+      "ampWebUrl": "https://www.masslive.com/springfield/2020/02/springfield-city-council-passes-facial-recognition-moratorium.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/springfield/2020/02/springfield-city-council-passes-facial-recognition-moratorium.html?outputType=amp",
+      "publishedDateTime": "2020-02-25T07:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MassLive",
+        "domain": "masslive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/JVIE67LBINDLDJGZ24BBA3MN3A.jpeg",
+          "width": 4928,
+          "height": 3264,
+          "title": "Springfield City Council passes facial recognition moratorium",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_posts/2020-02-25-startup-malaise-startup-ambition.md",
       "title": "Startup malaise, startup ambition",
       "excerpt": "In spite of a spate of massive startup exits the last few months ... What if we could instantly and easily build best-of-breed AI models to solve even our simplest decision-making problems?",
@@ -2118,43 +2155,6 @@
         "Natural Language Processing",
         "Microsoft AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-26-government-to-hold-global-summit-on-ai-in-april.md",
-      "title": "Government to hold global summit on AI in April",
-      "excerpt": "NEW DELHI: The government will hold a global summit on artificial intelligence on 11-12 April to exchange ideas with the industry ... The summit will see participation from major tech companies including Intel, Microsoft and AWS in addition to researchers and scientists from Carnegie Mellon University, Stanford University and Indian Institute ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.livemint.com/industry/infotech/government-to-hold-global-summit-on-ai-in-april-11582710062443.html",
-      "ampWebUrl": "https://www.livemint.com/industry/infotech/government-to-hold-global-summit-on-ai-in-april/amp-11582710062443.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/industry/infotech/government-to-hold-global-summit-on-ai-in-april/amp-11582710062443.html",
-      "publishedDateTime": "2020-02-26T02:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2020/02/26/600x338/AI-kkGH--621x414@LiveMint_1582711656144.jpg",
-          "width": 600,
-          "height": 337,
-          "title": "Government to hold global summit on AI in April",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

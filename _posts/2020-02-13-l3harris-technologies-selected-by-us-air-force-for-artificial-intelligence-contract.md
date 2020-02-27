@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-13T05:29:00Z
 webUrl: "https://www.bakersfield.com/ap/news/l-harris-technologies-selected-by-us-air-force-for-artificial/article_f5e40f4e-849c-558f-820f-cd09285e1514.html"
 type: article
 quality: 46
-heat: -1
+heat: 46
 published: false
 
 provider:
@@ -21,21 +21,6 @@ images:
     width: 775
     height: 630
     title: "L3Harris Technologies Selected by US Air Force for Artificial Intelligence Contract"
-
-related:
-  - title: "L3Harris Technologies Selected by US Air Force for Artificial Intelligence Contract"
-    excerpt: "Fills critical gap for training data needed for artificial intelligence algorithms Addresses urgent defense need for automation to analyze large geospatial data sets MELBOURNE, Fla.--(BUSINESS WIRE)--The Air Force Life Cycle Management Center has awarded L3Harris Technologies (NYSE:LHX) a multimillion-dollar contract to develop a software ..."
-    publishedDateTime: 2020-02-12T18:06:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200212005069/en/L3Harris-Technologies-Selected-Air-Force-Artificial-Intelligence"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 46
-    images:
-      - url: "https://mms.businesswire.com/media/20200212005069/en/772794/23/shutterstock_1191286246_webready.jpg"
-        width: 1200
-        height: 627
 
 secured: "fLHLpCOvfR5idujOICdOsBa0GWW/Hs7C1oyfkRFQhXwc8/YzePw1ju59SF8lBrtNXekVSTNjf2miS5iGsuMuNHnWhO7mND2AxerIwQlk/NNeapeEFDSJVhxxdDlygMZcBS4i26YIp49hLUtF0t6HGntpLOnO+gHXgIKm8xofmec0nTPRu0ho0QwTronzHiw1TpgaWPgN7oaCYhWdhBADsnfq5TIb/jYxRMZG0DPpSOGmnjbPLiJWc5XtXL+hP5KO9gITuS1iOy8jT6P9TxTj0N9JSuboSLEbBvIM2YUHNlzeluXtH/68DaIhbrXijdq1;VT5mboWLc+GSeOUNjvY+wg=="
 ---

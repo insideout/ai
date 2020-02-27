@@ -60,21 +60,6 @@ related:
       - url: "https://cms.qz.com/wp-content/uploads/2020/02/RTS32KQS-1-e1582225812882.jpg?quality=75&strip=all&w=1400"
         width: 1400
         height: 788
-  - title: "Watchdog rejects Met's claim that he supported facial recognition"
-    excerpt: "Biometrics commissioner says force was wrong to say he backed use of the technology"
-    publishedDateTime: 2020-02-12T17:53:00Z
-    webUrl: "https://www.theguardian.com/uk-news/2020/feb/12/watchdog-rejects-met-claim-support-facial-recognition"
-    ampWebUrl: "https://amp.theguardian.com/uk-news/2020/feb/12/watchdog-rejects-met-claim-support-facial-recognition"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/uk-news/2020/feb/12/watchdog-rejects-met-claim-support-facial-recognition"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 76
-    images:
-      - url: "https://i.guim.co.uk/img/media/ab480b27ec359ed680b465fab973dd81134c09e7/196_203_3168_1901/master/3168.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c35b5d9ecfef40538eaa5ead90aa04b3"
-        width: 600
-        height: 360
   - title: "EU imposes sweeping regulations on facial recognition, Artificial Intelligence"
     excerpt: "The proposals could place a temporary ban on all facial recognition in public, create a single market for data throughout the entire EU, and ask for almost $22 billion to invest in A.I.. The new tech regulations have sent Silicon Valley executives, like Facebook's Mark Zuckerberg and Google's Sundar Pichai, to Brussels to lobby the EU's ..."
     publishedDateTime: 2020-02-19T17:26:00Z

@@ -19,7 +19,7 @@ topics:
 
 related:
   - title: "Automation Is Probably Coming for Your Job Too"
-    excerpt: "Waymo, a self-driving-technology company owned by Google's parent corporation ... since up to 70 percent of the work they do could be done by machines. But as artificial intelligence becomes more common and effective, automation will start to supplant receptionists, couriers, market research analysts, proofreaders, cashiers, office clerks ..."
+    excerpt: "Waymo, a self-driving-technology company owned by ... since up to 70 percent of the work they do could be done by machines. But as artificial intelligence becomes more common and effective, automation will start to supplant receptionists, couriers, market ..."
     publishedDateTime: 2020-02-07T13:10:00Z
     webUrl: "https://www.gq.com/story/automation-is-coming"
     ampWebUrl: "https://www.gq.com/story/automation-is-coming/amp"

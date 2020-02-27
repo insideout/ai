@@ -38,6 +38,21 @@ related:
       - url: "https://media.bizj.us/view/img/11608686/story-05*600xx1049-699-126-0.jpg"
         width: 600
         height: 399
+  - title: "Healthcare startup Qure.ai raises $16 million led by Sequoia India"
+    excerpt: "Healthcare startup Qure.ai has raised $16 million in an equity funding round led by Sequoia India, with participation from MassMutual Ventures Southeast Asia, it said Thursday. MassMutual Ventures is the investment arm of US-based MassMutual Life Insurance Company. Founded in 2016 by Prashant Warier and Pooja Rao, Qure.ai provides ..."
+    publishedDateTime: 2020-02-27T10:12:00Z
+    webUrl: "https://www.livemint.com/companies/start-ups/healthcare-startup-qure-ai-raises-16-million-led-by-sequoia-india-11582797164202.html"
+    ampWebUrl: "https://www.livemint.com/companies/start-ups/healthcare-startup-qure-ai-raises-16-million-led-by-sequoia-india/amp-11582797164202.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/healthcare-startup-qure-ai-raises-16-million-led-by-sequoia-india/amp-11582797164202.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 57
+    images:
+      - url: "https://images.livemint.com/img/2020/02/27/600x338/healthcare-kH0D--621x414@LiveMint_1582797347447.jpg"
+        width: 600
+        height: 337
 
 secured: "VbrCSvwf1WN4M6KPpPSjw1GkDc0jCBcge8QokmHSi48iYu5o1wdEHQeMbV8tfRTZi/IvREPTI9GXcmwPf1zsDZHmaSmdnx0eIzLhEQPmbpSazMTwzxvO/RfLJbPyZ48pO8nxREo/HIvoN2PDVPqxhwRaDoTT7MLiNKlbqO72PRX4I5GAhjP6dJrrr0LZT1aPX5fyYtz6lArXFanMb8w6zJvLTvLi0RjyvdYCVw8peuEtn+eY+KWEnYhCR/ye2iXVaYGQmu2PgH2g7eUx+XVhsHjfNVTHo7NcNWkTVd4PNxr+yYJwjeBj5XiEIu0azJwDE9iRBYJ4KAdFcsE8O/fszz/E2GKfgVgiIhFpEzk7SCwppsZJ20rYzWtwfmeDMhcZtoolgHT5pFKWlvZu7TXpPoU2sNxjEicGvcCV9cuTPgVMVirFf0MIneRVbRoE8vKJOEeNMBN1gScnEYFeIORN3Qaheuub3qYlvVNjfNafqoM=;iXhtm8askkJh6zp2YJFjBQ=="
 ---
