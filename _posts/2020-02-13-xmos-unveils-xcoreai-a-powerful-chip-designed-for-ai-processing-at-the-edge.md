@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/02/12/xmos-unveils-xcore-ai-a-powerful-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/12/xmos-unveils-xcore-ai-a-powerful-chip-designed-for-ai-processing-at-the-edge/amp/"
 type: article
 quality: 105
-heat: 125
+heat: 115
 published: true
 
 provider:
@@ -47,15 +47,6 @@ related:
       - url: "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-c6vcqtlfu5qn38at3rp993fd81-20200213084133.Medi.jpeg"
         width: 800
         height: 448
-  - title: "Intel Angling for Piece of Self-Driving Market with New Processors"
-    excerpt: "Intel Corp., trying to convert its dominance of computers into a stake in the growing market for chips used in cars, is offering automakers new products aimed at making its technology crucial to the effort to develop self-driving vehicles. ‘Intel Go’ will feature processors ranging from its smallest Atom chips all the way up to its most ..."
-    publishedDateTime: 2020-02-12T20:51:00Z
-    webUrl: "https://www.industryweek.com/technology-and-iiot/emerging-technologies/article/21998371/intel-angling-for-piece-of-selfdriving-market-with-new-processors"
-    type: article
-    provider:
-      name: IndustryWeek
-      domain: industryweek.com
-    quality: 4
 
 secured: "SpUw2MelFZkYi/lcrd5T1UM4E5cpim5kS9xP6MYMyQyzO/jHHowQAhHGvaVrAc8oTqMWIXoevwdmvii5O6W3+gQAMds77zCSWRpy0rTxnti+l66ADNKiyyna1/6+k40YUqgTAey20xO8iMUghrsmxHh/aYortw9oEBgYR4/BLeUQ/ZPNDdqOmBzKpRaQy2hqdH8t6KO3mEpbBOim0zz86FjOTUbXN03LalARVrnTcDWY/lNHoS+8U2of3C170TqREPRLQn8zqVwJHN2JndJYQwCgVKgg1BuhzPbmRkOQcP+Y6AlHRqtSVSQ99EgfWgCJ;Fub82ueHNi+Rmk3sg6SENw=="
 ---

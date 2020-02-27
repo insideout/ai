@@ -27,19 +27,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 40
-  - title: "Edge Artificial Intelligence Hardware Market 2020|by Top Key Players- Apple Inc, Xilinx Inc, Alphabet Inc"
-    excerpt: "Ltd. The Global Edge Artificial Intelligence Hardware Market Research Report is expected to display ... and SoC accelerators.). Segmentation by End-User Industry: Industrial, Healthcare, Government, Smart Home, Consumer Electronics, Aerospace Defense, Automotive Transportation, Others (Retail, Construction, Manufacturing, Education, Etc ..."
-    publishedDateTime: 2020-02-12T20:20:00Z
-    webUrl: "https://apnews.com/Wired Release/e7593db4ef23ab8e0a529a9919ca3ab2"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 22
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
   - title: "AI in Healthcare Market Prospects Outlook 2019-2030 and Top Key Players - NVIDIA, Intel, GENERAL ELECTRIC COMPANY"
     excerpt: "Companies such as IBM have played a big role in pushing AI into healthcare. The company is using its Watson platform technology in the field of cancer research, insurance claims and clinical support tools to enhance AI needs. For instance, Alder Hey ..."
     publishedDateTime: 2020-02-14T11:43:00Z

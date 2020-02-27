@@ -2,96 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_posts/2020-02-19-google-used-ai-and-human-moderation-to-take-down-over-75-million-google-maps-reviews.md",
-      "title": "Google used AI and human moderation to take down over 75 million Google Maps reviews",
-      "excerpt": "But user contributions are intrinsically fraught. That’s why increasingly, Google is using AI and machine learning to spot malicious contributions at submission time, ensuring they don’t reach the over 1 billion users who regularly use Maps. In a blog post, Google said that it uses automated detection systems, including machine learning ...",
-      "heat": 90,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/19/google-used-ai-and-human-moderation-to-take-down-more-than-75-million-policy-violating-google-maps-reviews/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/19/google-used-ai-and-human-moderation-to-take-down-more-than-75-million-policy-violating-google-maps-reviews/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/19/google-used-ai-and-human-moderation-to-take-down-more-than-75-million-policy-violating-google-maps-reviews/amp/",
-      "publishedDateTime": "2020-02-19T09:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/1.-Intro-Image-e1580880177276.png?fit=1198%2C601&strip=all",
-          "width": 1198,
-          "height": 601,
-          "title": "Google used AI and human moderation to take down over 75 million Google Maps reviews",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-19-googles-ai-chief-explains-machine-learning-for-chip-design.md",
-      "title": "Google’s AI chief explains machine learning for chip design",
-      "excerpt": "Jeff Dean, head of Google’s AI research, explained to ZDNet how machine learning algorithms can be used to come up with better designs for computer chips. Google is starting to use the technology internally to better design its own parts. Read more: https://zd.net/38HobeV",
-      "heat": 111,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/video/googles-ai-chief-explains-machine-learning-for-chip-design/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-19T13:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/02/19/c094ad77-8b65-46bb-a116-452e865b15cb/thumbnail/770x578/7ff49d5646bbec8959dfe7485c3fa7e7/thumb.jpg",
-          "width": 770,
-          "height": 578,
-          "title": "Google’s AI chief explains machine learning for chip design",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_posts/2020-02-19-grok-combines-machine-learning-and-the-human-brain-to-build-smarter-aiops.md",
       "title": "Grok combines Machine Learning and the Human Brain to build smarter AIOps",
       "excerpt": "A few weeks ago I wrote a piece here about Moogsoft which has been making waves in the service assurance space by applying artificial intelligence and machine learning to the arcane task of keeping on keeping critical IT up and running and lessening the business impact of service interruptions. It’s a hot area for startups and I’ve since ...",
@@ -1419,7 +1329,7 @@
       "path": "_posts/2020-02-20-cybermdx-announces-integration-with-microsoft-azure-security-center-for-iot.md",
       "title": "CyberMDX Announces Integration With Microsoft Azure Security Center for IoT",
       "excerpt": "/PRNewswire/ -- CyberMDX, a leading provider of medical cyber security solution, delivering asset visibility and threat prevention for medical devices",
-      "heat": 112,
+      "heat": 102,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.prnewswire.com/news-releases/cybermdx-announces-integration-with-microsoft-azure-security-center-for-iot-301008578.html",
@@ -2093,6 +2003,87 @@
       "topics": [
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-20-mass-adoption-of-ai-in-financial-services-expected-within-two-years.md",
+      "title": "Mass Adoption Of AI In Financial Services Expected Within Two Years",
+      "excerpt": "A significant number of financial industry executives from 151 financial institutions in 33 countries recently reported that within the next two years they expect to become mass adopters of AI and expect AI to become an essential business driver across the financial industry.",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/20/mass-adoption-of-ai-in-financial-services-expected-within-two-years/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/20/mass-adoption-of-ai-in-financial-services-expected-within-two-years/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/02/20/mass-adoption-of-ai-in-financial-services-expected-within-two-years/amp/",
+      "publishedDateTime": "2020-02-20T11:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e4edaa7de40290007718aea%2F0x0.jpg",
+          "width": 1200,
+          "height": 582,
+          "title": "Mass Adoption Of AI In Financial Services Expected Within Two Years",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-20-nations-largest-insurer-invests-in-waltham-healthcare-ai-startup.md",
+      "title": "Nation’s largest insurer invests in Waltham healthcare AI startup",
+      "excerpt": "A venture capital firm tied to the largest health insurer in the U.S., UnitedHealth Group, has invested in a local startup working to avoid unnecessary drug costs. Optum Ventures contributed an undisclosed amount to Scipher Medicine’s expanded $30 million Series B round,",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bizjournals.com/boston/news/2020/02/20/vc-tied-to-nation-s-largest-insurer-invests-in.html",
+      "ampWebUrl": "https://www.bizjournals.com/boston/news/2020/02/20/vc-tied-to-nation-s-largest-insurer-invests-in.amp.html",
+      "cdnAmpWebUrl": "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/boston/news/2020/02/20/vc-tied-to-nation-s-largest-insurer-invests-in.amp.html",
+      "publishedDateTime": "2020-02-20T08:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.bizj.us/view/img/11608686/story-05*600xx1049-699-126-0.jpg",
+          "width": 600,
+          "height": 399,
+          "title": "Nation’s largest insurer invests in Waltham healthcare AI startup",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

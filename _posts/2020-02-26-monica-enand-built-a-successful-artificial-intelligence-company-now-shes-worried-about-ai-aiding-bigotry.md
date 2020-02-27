@@ -22,6 +22,6 @@ images:
     height: 801
     title: "Monica Enand Built a Successful Artificial Intelligence Company. Now She’s Worried About AI Aiding Bigotry."
 
-secured: "18cZOre+BqtK0vzv2Z/YbyWUYZ2lGupcuC/KzKvcsgk75FVDHxbbBQLRwpWF/uYX5UXAN+M1om0eRDFiy9fNnrUiqrmz/p4KCyd70gjb6jnuOrpaGR4iAj0mJKh7Sh9qaffIWA+M+LNoFFbIZT9H7z1iZNvMODObWnu4skI59qB8YhOTfM1kv9HVjAFsQQbpUMu4sWvMbtW/dKJu3XsdD68NVm78ZVNPuELHUJhLTJEvewW3vAvM9GXk5+qpyxcarRnrxpj+zh00OclEIo0FCohjgQ5/iQ7UDJYdbvkxt1Ip8/DkRKOXzvxOwk7loc3b;FWM/hYS5RxvtpthRxH8nVg=="
+secured: "VeqW1WDUdUZfmmFslts3c0SS11LciS5Vry0m2qVGMJdU000RiZBh6QG+4FooMsZCNkVFL8mtFrR8D7eUqtxF4b+418FK3lvqf2iVpTvQcYzJH9zxaz2KRAsmn20vDpt6xjO//ULQNXflCIUtESsDFQ8VCi/Vi20LHBUt0MaxdaSpVDQFWxVDzA3UEvrN+OAKZL+w05zTnfeNtJ9P/KdDAimiM+b6KipF8HJp3ARNRoEagANoSyiLjTwIHo2HhTU7sW255Niv5Qn5l/GFntcrbK3Onu4Q4E5RdWUOE823YKGWk9QYOZ6mr8HTAMcKuoZLIoW4BeCWMMIZh1U9KgjYkW+D/OIr9hCrlI7loh3qoIpOXsZ+/iEouHzuT/OL1QR95ydv1M41KGRqUoLOHOBk4vW38ataL0VHcSEFH3X/n9E/yEVRRuyfIQfvpGTyvPwo3/LGsnpsW1JWvpLoMiJU5CVS212sqUkXeeAtdZD3wrg=;7OmjIoYlGiTg2vXkDtLpMw=="
 ---
 

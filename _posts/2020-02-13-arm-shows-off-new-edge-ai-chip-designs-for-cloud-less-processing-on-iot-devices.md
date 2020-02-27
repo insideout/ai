@@ -41,15 +41,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/07/blockchain_database-e1573158651295.jpg?fit=1200%2C600&strip=all"
         width: 1200
         height: 600
-  - title: "Intel Angling for Piece of Self-Driving Market with New Processors"
-    excerpt: "Intel Corp., trying to convert its dominance of computers into a stake in the growing market for chips used in cars, is offering automakers new products aimed at making its technology crucial to the effort to develop self-driving vehicles. ‘Intel Go’ will feature processors ranging from its smallest Atom chips all the way up to its most ..."
-    publishedDateTime: 2020-02-12T20:51:00Z
-    webUrl: "https://www.industryweek.com/technology-and-iiot/emerging-technologies/article/21998371/intel-angling-for-piece-of-selfdriving-market-with-new-processors"
-    type: article
-    provider:
-      name: IndustryWeek
-      domain: industryweek.com
-    quality: 4
 
 secured: "1VuRHgZB8CsgY1ie2RZ5Jmr2IPZy6Jm2vcT6iWGyR/6ohkBdPam1IKd7iGsas0pEvkKBr+7qLBrEco3q5z/iFrdUXwNNxL2QCmU5rVQSbW0FK8cXVMA2cOdE5enRd1LcMZtJy7wu1y7bJ4Q8zsmuplFT5W9vokG/mf0appHjNiI+6Afdxt5tXUUnt2Lk7ZHxutsWEdQcaX6eS4vN/stKr1Q3qdTshrZxV44TBa0CHDDzokQWvQ23Xb0eMWLyDb8NSBs2UT68FKPa9s4RTy9R11Hwaer1WPqGN9HywDNP86K5m6NDuZx/IicXzBfpLTds;a0nUcDsVKiDdHeM9qn1ShA=="
 ---

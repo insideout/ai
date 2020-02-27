@@ -23,6 +23,6 @@ images:
     height: 440
     title: "BrainChip’s Akida Development Environment Now Freely Available for Use"
 
-secured: "EiI1KWPC8GU0qCjnG84MDqcdx/HNyzXGBRtsLruZmGH2YbYE7pyZ60pTfwkyIV7ZGCVkyXZt0RFCyMFjB0KQIE0zGPO8O4SGxyDxrI7pydjFn6CU+cm2w6mVSwa/NwuCPjlz2QYcqt4uDNfWGpt1sqYcQGJDv3lUNFwYZRDULWUGMPcCTJDmZRin3+g96ukfnO2/0WrXYSDb9w3vfmFQIvbCqBlhYiqiWI6OzitKfAeY8T8QmvIAndTIqxsrfNv9M5LlZuxe7nsT5bpp6juP+iDt5H9xf+lMht9qzBjXCwsKi2n/ZYo4BOOau7oLZsil;6NW1O+u6OUEFJi9JiVk66w=="
+secured: "VRvGGEvjF9sSNpeLtGEN8AW8YJMnjDCAKhTP6eKUlUEL4W5ToJMyR3uqmcLqaBNEM7wi/NOX1t9n8hiIl//fnio+5XmYVgNYdtyDlyZ8fn5NiyLvyLW0SZ8Sop1kPg29GxPd1B/gH8fi8mX6AhSokZ0Q9z44l9RNiuaOZgqOUz04ay4ajAVgj9fxNUMt77qvXLJYfndaGt7dAQ3sEQnM//lW5uHaCP46H5lSqMvfB+mYID81pF06JV08bcYbIinngV7AfOvZ0mn3Nl0psITIKxkHQASA8XvDNp+T58SnKLyl7zvJI8R8X+xltR9DkXMn;VVGt6N77DUcvnywinj0aDg=="
 ---
 

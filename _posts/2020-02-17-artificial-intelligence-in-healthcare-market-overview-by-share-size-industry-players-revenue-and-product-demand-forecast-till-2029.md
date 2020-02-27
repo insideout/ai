@@ -28,54 +28,45 @@ images:
     title: "Artificial Intelligence in Healthcare Market Overview By Share, Size, Industry Players, Revenue And Product Demand Forecast Till 2029"
 
 related:
-  - title: "Artificial Intelligence (AI) in Healthcare Market To Register High Revenue Growth At 51.9% CAGR by 2023"
-    excerpt: "Healthcare Artificial Intelligence (AI) Market Scenario As per a report published by Market Research Future (MRFR), the global healthcare artificial intelligence market is likely to capture an impressive CAGR of 51."
-    publishedDateTime: 2020-02-12T20:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-to-register-high-revenue-growth-at-519-cagr-by-2023-2020-02-12"
+  - title: "Natural Language Processing Market: Key and Forecast Predictions Presented Until 2029"
+    excerpt: "The increasing use of Natural Language Processing in healthcare and call centers, rising demand for advanced text analytics are some major factor drives the target market growth. Additionally, growing uses of smart device,"
+    publishedDateTime: 2020-02-14T05:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-key-and-forecast-predictions-presented-until-2029-2020-02-14"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 83
+    quality: 62
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Artificial Intelligence in Aviation Market to witness remarkable growth By 2025"
-    excerpt: "HTF Market Intelligence released a new research report of 150 pages on title 'Global Artificial Intelligence in Aviation Market Insights by Application, Product Type, Competitive Landscape & Regional Forecast 2025' with detailed analysis,"
-    publishedDateTime: 2020-02-17T16:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-to-witness-remarkable-growth-by-2025-2020-02-17"
+  - title: "Natural Language Processing (NLP) Market: Future Forecast Indicates Impressive Growth Rate until 2027"
+    excerpt: "ARC added latest research on \"Natural Language Processing (NLP) Market Forecast to 2027\" to its huge collection of research reports database. Natural Language Processing (NLP) market on in-depth analysis market analysis size,"
+    publishedDateTime: 2020-02-14T10:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-future-forecast-indicates-impressive-growth-rate-until-2027-2020-02-14"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 65
+    quality: 54
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Artificial Intelligence in Healthcare Market 2020 Global Growth, Trends, Revenue, Share and Demands Research Report 2026"
-    excerpt: "Feb 14, 2020 (The Expresswire) -- Artificial Intelligence in Healthcare Market by Top International Players are Intel Corporation, IBM Corporation, Microsoft, Google, Inc., GENERAL ELECTRIC, NVIDIA Corporation, Medtronic, Koninklijke Philips N.V., iCarbonX, Next IT Corp., Welltok, Inc., General Vision, Inc., Recursion Pharmaceuticals ..."
-    publishedDateTime: 2020-02-14T10:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2020-global-growth-trends-revenue-share-and-demands-research-report-2026-2020-02-14"
+  - title: "Artificial Intelligence In Energy Market Size, Trend, Competitive Growth Overview and Forecast to 2025"
+    excerpt: "The Global Artificial Intelligence In Energy Market 2019 research provides a basic overview of the industry including definitions, classifications, applications, and industry chain structure. The Global Artificial Intelligence In Energy market analysis is provided for the international markets including development trends,"
+    publishedDateTime: 2020-02-19T10:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-energy-market-size-trend-competitive-growth-overview-and-forecast-to-2025-2020-02-19"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 61
+    quality: 53
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Computer Vision in Healthcare Market by Trends, Growth Projections and Forecast To 2020-2025"
-    excerpt: "New York, February 18, 2020: The Global Computer Vision in Healthcare Market is expected to exceed more than US$ 343.3 Billion by 2024 at a CAGR of 21.3% in the given forecast period. Browse Full Report: https://www.marketresearchengine.com/computer-vision-in-healthcare-market Market Research Engine has published a new report titled as ..."
-    publishedDateTime: 2020-02-18T17:29:00Z
-    webUrl: "https://www.openpr.com/news/1936487/computer-vision-in-healthcare-market-by-trends-growth"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 25
 
 secured: "Qv/Z+ldJSk47woRcs+BqSufOGRZAoZO/eE/702bSUPOr41FMu3x2XMg5velDg/ndgVjEMfb92ctJvzE74P7oZxS3agR+MXNDBliFBNdsl+qPfaxbv/VE7GQdmskFwmfiPse/jhLgADXK7Af/OoMfJHPTwx4k3Nx8IRk6a6TYwtiJ8Bnzcj36OzPQsqw+QM5KI+pN1UF3WhrMIbyxuysQzQ9a7kFygbdGqtc86FL30GBkffNjJrQcxuYpWyV1JsXyVlGvWr4h2uheGb9e8fVHxL7cdfvq3F8Wg8NUe9HQh+jDa/iRdMYrIH2SZpVRanSR;bmob/0bapo4BRQEQT3Zw8Q=="
 ---

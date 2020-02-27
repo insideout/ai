@@ -2,6 +2,229 @@
   "page": 21,
   "value": [
     {
+      "path": "_posts/_archive/2020-01-29-apple-researchers-train-ai-drivers-to-merge-lanes-in-a-simulated-environment.md",
+      "title": "Apple researchers train AI drivers to merge lanes in a simulated environment",
+      "excerpt": "Apple has yet to openly discuss its self-driving vehicle research, but it’s a poorly-kept industry secret. Around 5,000 employees — including a portion of those previously employed by Drive.ai, an autonomous car startup Apple acquired last year — are said to be involved with code-name Project Titan, a joint effort with Volkswagen to ...",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/29/apple-researchers-train-ai-drivers-to-merge-lanes-in-a-simulated-environment/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/29/apple-researchers-train-ai-drivers-to-merge-lanes-in-a-simulated-environment/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/29/apple-researchers-train-ai-drivers-to-merge-lanes-in-a-simulated-environment/amp/",
+      "publishedDateTime": "2020-01-29T09:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/e62e501f-87df-4bf1-bf6d-a4a1c366fb43-e1580318068496.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Apple researchers train AI drivers to merge lanes in a simulated environment",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-29-artificial-intelligence-robots-market-2020-growth-share-trends-forecast-to-2025mre-analysis.md",
+      "title": "Artificial Intelligence Robots Market 2020 Growth, Share, Trends & Forecast to 2025|MRE Analysis",
+      "excerpt": "New York, January 29, 2020: The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report include Soft Bank,",
+      "heat": 353,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-2020-growth-share-trends-forecast-to-2025mre-analysis-2020-01-29",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-28T22:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence Robots Market 2020 Growth, Share, Trends & Forecast to 2025|MRE Analysis",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-29-assessing-google-ceo-sundar-pichais-call-for-fair-ai-regulations.md",
+      "title": "Assessing Google CEO Sundar Pichai's call for fair AI regulations",
+      "excerpt": "Google CEO Sundar Pichai and other AI researchers say limited regulation is needed to protect people from irresponsible use cases. Google CEO Sundar Pichai and other executives working on artificial intelligence are now calling for limited government regulation as the European Union mulls potential five-year bans of facial recognition software.",
+      "heat": 117,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/assessing-google-ceo-sundar-pichais-call-for-fair-ai-regulations/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/assessing-google-ceo-sundar-pichais-call-for-fair-ai-regulations/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/assessing-google-ceo-sundar-pichais-call-for-fair-ai-regulations/",
+      "publishedDateTime": "2020-01-29T08:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2018/05/18/cb656c0f-8ee5-4c1c-ad19-72d928593444/resize/1200x/dbface64929d38a90c24d38d8ac55d79/istock-872707982.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Assessing Google CEO Sundar Pichai's call for fair AI regulations",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-29-aurora-can-now-give-the-public-rides-in-its-self-driving-cars.md",
+      "title": "Aurora can now give the public rides in its self-driving cars",
+      "excerpt": "Aurora has been given permission by California regulators to transport passengers in its self-driving vehicles, TechCrunch has learned. The California Public Utilities Commission granted Aurora a permit, which was posted on its website Wednesday, to participate in the state’s Autonomous Vehicle Passenger Service pilot. Aurora confirmed the ...",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/01/29/aurora-can-now-give-the-public-rides-in-its-self-driving-cars/",
+      "ampWebUrl": "https://techcrunch.com/2020/01/29/aurora-can-now-give-the-public-rides-in-its-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/29/aurora-can-now-give-the-public-rides-in-its-self-driving-cars/amp/",
+      "publishedDateTime": "2020-01-29T09:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/01/Pacifica_Web-Res.jpg?w=1024",
+          "width": 1024,
+          "height": 661,
+          "title": "Aurora can now give the public rides in its self-driving cars",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-29-concentric-raises-75-million-to-identify-and-protect-sensitive-enterprise-data-with-ai.md",
+      "title": "Concentric raises $7.5 million to identify and protect sensitive enterprise data with AI",
+      "excerpt": "Its marquee product taps AI and machine learning to uncover unstructured on-premises and cloud data, and Krishnan claims customers have already used it to find “millions” of inappropriately shared and unprotected documents accessible by thousands of employees. “Businesses understand the importance of protecting their critical assets ...",
+      "heat": 78,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/29/concentric-raises-7-5-million-to-identify-and-protect-sensitive-enterprise-data-with-ai/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/29/concentric-raises-7-5-million-to-identify-and-protect-sensitive-enterprise-data-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/29/concentric-raises-7-5-million-to-identify-and-protect-sensitive-enterprise-data-with-ai/amp/",
+      "publishedDateTime": "2020-01-29T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/8a91385a-4630-4ae0-a791-1dbe7d1f8780-e1580153727148.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Concentric raises $7.5 million to identify and protect sensitive enterprise data with AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-01-29-deepak-chopra-gives-jimmy-fallon-a-sneak-peek-at-the-digital-ai-version-of-himself.md",
       "title": "Deepak Chopra gives Jimmy Fallon a sneak peek at the digital AI version of himself",
       "excerpt": "Deepak Chopra's digital AI version of himself is almost in beta, and Jimmy Fallon got to take it for a quick spin. The author, who announced the 'Digital Deepak' project in December, gave Jimmy Fallon a sneak preview on The Tonight Show Tuesday, taking the host, The Roots, and the audience through a very swift meditation (it's only a few seconds).",
@@ -1901,221 +2124,6 @@
         "AI",
         "Facebook AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-30-drug-designed-by-ai-to-enter-human-trials-for-first-time.md",
-      "title": "Drug designed by AI to enter human trials for first time",
-      "excerpt": "Exscientia's system automatically analyses patients' genetic data and finds molecules that could be used in new medication Credit: Andriy Onufriyenko The first drug designed entirely using artificial intelligence is entering clinical human trials ... Rock Health for The Financial Times earlier this month suggested that AI, machine learning ...",
-      "heat": 207,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.telegraph.co.uk/technology/2020/01/30/drug-designed-ai-enter-human-trials-first-time/",
-      "ampWebUrl": "https://www.telegraph.co.uk/technology/2020/01/30/drug-designed-ai-enter-human-trials-first-time/amp/",
-      "cdnAmpWebUrl": "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/01/30/drug-designed-ai-enter-human-trials-first-time/amp/",
-      "publishedDateTime": "2020-01-30T08:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Telegraph",
-        "domain": "telegraph.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.telegraph.co.uk/content/dam/technology/Spark/facebook/artificial-intelligence_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg",
-          "width": 1960,
-          "height": 1225,
-          "title": "Drug designed by AI to enter human trials for first time",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-30-elon-musk-contradicted-a-bold-claim-he-made-last-year-about-teslas-self-driving-capabilities.md",
-      "title": "Elon Musk contradicted a bold claim he made last year about Tesla's self-driving capabilities",
-      "excerpt": "Tesla CEO Elon Musk said last year he was \"certain\" the company's vehicles would be able to drive without human assistance by the end of 2019.",
-      "heat": 103,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/elon-musk-contradicts-2019-prediction-about-tesla-autopilot-2020-1/",
-      "ampWebUrl": "https://www.businessinsider.com/elon-musk-contradicts-2019-prediction-about-tesla-autopilot-2020-1?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-contradicts-2019-prediction-about-tesla-autopilot-2020-1?amp",
-      "publishedDateTime": "2020-01-29T17:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5e3224595bc79c3f8e4d83b5?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "Elon Musk contradicted a bold claim he made last year about Tesla's self-driving capabilities",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-30-ethical-ai-can-ensure-ais-superpower-is-used-for-good.md",
-      "title": "Ethical AI Can Ensure AI's Superpower Is Used For Good",
-      "excerpt": "Ethical AI can help ensure all of our AI efforts are ethically compliant, environmentally conscious and transparent.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/30/ethical-ai-can-ensure-ais-superpower-is-used-for-good/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/30/ethical-ai-can-ensure-ais-superpower-is-used-for-good/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/30/ethical-ai-can-ensure-ais-superpower-is-used-for-good/amp/",
-      "publishedDateTime": "2020-01-30T04:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x558/https://specials-images.forbesimg.com/dam/imageserve/1079012854/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 558,
-          "title": "Ethical AI Can Ensure AI's Superpower Is Used For Good",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-30-facebook-agrees-to-pay-550-million-to-end-facial-recognition-tech-lawsuit.md",
-      "title": "Facebook agrees to pay $550 million to end facial recognition tech lawsuit",
-      "excerpt": "Facebook has agreed to pay $550 million to settle claims in Illinois that the company violated local laws on facial recognition technologies. The results of the lawsuit were made public on Wednesday and have been described as the \"largest cash settlement ever resolving a privacy-related lawsuit.\" Launched by law firms Edelson, Robbins Geller ...",
-      "heat": 467,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/facebook-agrees-to-pay-550-million-to-end-facial-recognition-tech-lawsuit-in-illinois/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/facebook-agrees-to-pay-550-million-to-end-facial-recognition-tech-lawsuit-in-illinois/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebook-agrees-to-pay-550-million-to-end-facial-recognition-tech-lawsuit-in-illinois/",
-      "publishedDateTime": "2020-01-30T04:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2019/01/31/b757b17e-a735-4177-8143-35b8c57662e8/resize/1200x900/afac4a12cff1cda9dd8d8fcec0212626/screenshot-2019-01-31-at-17-25-36.png",
-          "width": 1200,
-          "height": 765,
-          "title": "Facebook agrees to pay $550 million to end facial recognition tech lawsuit",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-30-free-ai-developer-app-ibms-new-tool-can-label-objects-in-videos-for-you.md",
-      "title": "Free AI developer app: IBM's new tool can label objects in videos for you",
-      "excerpt": "IBM estimates it takes 200 to 500 samples of hand-labeled images for an AI object-recognition model to detect a specific object. SEE: How to implement AI and machine learning (ZDNet special report ...",
-      "heat": 88,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/free-ai-developer-app-ibms-new-tool-can-label-objects-in-videos-for-you/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/free-ai-developer-app-ibms-new-tool-can-label-objects-in-videos-for-you/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/free-ai-developer-app-ibms-new-tool-can-label-objects-in-videos-for-you/",
-      "publishedDateTime": "2020-01-30T07:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2019/05/15/0f3f7afe-160c-451d-babe-17ed14a1c12a/thumbnail/1200x675/b87d99aee9c8455f3ae1be92387d7290/cloud-computing-and-ai-can-ibm-finally-c-5cd59307fe727300c4b89bff-1-may-15-2019-11-42-48-poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Free AI developer app: IBM's new tool can label objects in videos for you",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

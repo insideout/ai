@@ -1,11 +1,13 @@
 ---
 category: news
 title: "Toyota saddles up for self-driving future with $400M investment into Pony.ai"
-excerpt: "The Japanese carmaker is planning to invest $400 million into Pony.ai, a Chiense self-driving car startup that’s based across Silicon Valley in the US and Guangzhou in China, Bloomberg reports. With the latest round of funding, Pony.ai is reportedly now valued at around $3 billion. Alongside Toyota, existing investors injected an additional $ ..."
+excerpt: "One of the world’s largest car makers, Toyota, has further demonstrated its intent on supporting self-driving vehicles. The Japanese carmaker is planning to invest $400 million into Pony.ai, a Chiense self-driving car startup that’s based across Silicon Valley in the US and Guangzhou in China, Bloomberg reports. With the latest round of ..."
 publishedDateTime: 2020-02-27T10:04:00Z
-webUrl: "https://thenextweb.com/shift/2020/02/27/toyota-400m-investment-self-driving-startup-pony-ai/"
+webUrl: "https://thenextweb.com/hardfork/2020/02/27/toyota-400m-investment-self-driving-startup-pony-ai/"
+ampWebUrl: "https://thenextweb.com/hardfork/2020/02/27/toyota-400m-investment-self-driving-startup-pony-ai/amp/"
+cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/hardfork/2020/02/27/toyota-400m-investment-self-driving-startup-pony-ai/amp/"
 type: article
-quality: 66
+quality: 86
 heat: -1
 published: false
 
@@ -326,6 +328,6 @@ related:
       domain: moneycontrol.com
     quality: 14
 
-secured: "J0iELlRYbIz7Qx095N4Ru0rZUmGdMABMzUCxDYuJkNgfMTR04MXzh4URkcs5i1/7EzwQGySuWPGeuvZk8wf4MbM3+XEkc1ngBcJDoaCHEPDvkGOcUB8rLKtFmGQRB5ERFnNDkmbuWUaxSl/rBS/gVUxsoI/eXZBk5osoKGGihv5VfaxvP+Kvyj0LDNHNBFdQ1M2kPvA2fvrA02uLE3GME5Eh3adWPoe5ahRwT0OGEE81WmW8nCFsDDXiAvZMfHBygcVnyLS6f3KLmicVF5SQXVOv7P08t73hX/Osp1bk97oFk9FrRotxtywHCln6/j/m9Olm/OnBFpu6EpaVUXxf2sGV3YPaKffVHKxUXhJVNi46gZ3bCxPvI2AYixbWHbphSP+2o2dmWD3/dpulCIHAI5RahOqCIil+XzIvFLd1i8VPay/j49E8RqmiscGDZNJtOQ8UtVJVIYT10uPOBV+viL3qhJ2bJbOx6mpVF5D52lg=;ohDtDedCwyriwKyhyf9hkw=="
+secured: "G2gvt3BzHWc/4wxJ6tppy+mMzf5Io6MPjkcIXuPjuTF+Clzi8/YJtb9X+B8l8FJXEyyfJ4u3KR9sYeFtz+5TuXXFdf99frJGAG2Au5DiCrBfDbJKOceoDeydCjkC8Ev5ajr0wTt1dzWUq48/JFXIjkPArULrwhHgyh+LxJr7SYxo/eqA2exZ1HwiOXjDADyDDf+xJi38sM7UQ5RZlsxdG4hID4RmW58PxrQF9ohteRZD/wEW4ktvLkc8J86PtVHTj/c4KmhZQbkUTmSI3mfGFlA6kMQvyTCbf0zR88dWeCsH9SQmXgBSmiqXkJIVonD4;CPAQOyyRtnrEghugiUxsvA=="
 ---
 

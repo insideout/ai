@@ -147,21 +147,6 @@ related:
       - url: "https://video-images.vice.com/test-uploads/articles/5e4d4c93a6907900980bae0b/lede/1582125274461-GettyImages-51478189.jpeg?crop=1xw:0.84375xh;center,center&resize=1200:*"
         width: 1200
         height: 674
-  - title: "Booker, Merkley propose federal facial recognition moratorium"
-    excerpt: "Two Democratic senators on Wednesday introduced a bill that would place a moratorium on federal government use of facial recognition technology until Congress passes legislation regulating it."
-    publishedDateTime: 2020-02-12T20:48:00Z
-    webUrl: "https://thehill.com/policy/technology/482815-booker-merkley-propose-facial-recognition-moratorium"
-    ampWebUrl: "https://thehill.com/policy/technology/482815-booker-merkley-propose-facial-recognition-moratorium?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/482815-booker-merkley-propose-facial-recognition-moratorium?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 59
-    images:
-      - url: "https://thehill.com/sites/default/files/facialrecognition_052518istock.jpg"
-        width: 980
-        height: 551
   - title: "Raleigh, N.C., Police Halt Use of Facial Recognition Tech"
     excerpt: "Raleigh PD has stopped using a facial recognition app to identify potential criminals through the Internet, cutting ties with a company that has drawn widespread privacy concerns from the community. (TNS) — Raleigh police have stopped using a facial recognition app to identify potential criminals through the Internet, cutting ties with a ..."
     publishedDateTime: 2020-02-13T18:39:00Z

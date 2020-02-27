@@ -28,15 +28,6 @@ images:
     title: "Artificial Intelligence Market Global Industry Size, Growth, Share, Demand, Trends, Competitive Landscape and Forecasts to 2026"
 
 related:
-  - title: "Voice Assistant Market Innovations, And Top Companies – Forecast To 2029| Amazon Inc, Google Inc, Apple Inc"
-    excerpt: "Segmentation by Technology:, Speech Recognition, Speech Recognition System, Speaker Dependent Systems, Speaker Independent Systems, Natural Language Processing (NLP), Text-to-Speech Recognition, Voice Recognition. Segmentation by Application: Messenger Bots, Websites, Contact Centers. Segmentation by End User: Individual Users, SMEs ..."
-    publishedDateTime: 2020-02-12T20:18:00Z
-    webUrl: "https://apnews.com/Wired Release/f77df562f1ed5f919f28a22f80c01d58"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
   - title: "North America Wearable AI Market Report 2020, Forecast to 2025 - Google, Microsoft and Apple are the Major Players"
     excerpt: "/PRNewswire/ -- The \"North American Wearable AI Market 2019-2025\" report has been added to ResearchAndMarkets.com's offering. The North American Wearable"
     publishedDateTime: 2020-02-18T11:15:00Z

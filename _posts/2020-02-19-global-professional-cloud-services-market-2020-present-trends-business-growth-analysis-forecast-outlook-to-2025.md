@@ -80,6 +80,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Artificial Intelligence in Healthcare Market 2020 Global Growth, Trends, Revenue, Share and Demands Research Report 2026"
+    excerpt: "Feb 14, 2020 (The Expresswire) -- Artificial Intelligence in Healthcare Market by Top International Players are Intel Corporation, IBM Corporation, Microsoft, Google, Inc., GENERAL ELECTRIC, NVIDIA Corporation, Medtronic, Koninklijke Philips N.V., iCarbonX, Next IT Corp., Welltok, Inc., General Vision, Inc., Recursion Pharmaceuticals ..."
+    publishedDateTime: 2020-02-14T10:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2020-global-growth-trends-revenue-share-and-demands-research-report-2026-2020-02-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Natural language processing (NLP) Market Global Industry Analysis and Forecast till 2027"
     excerpt: "Ameco Research added new research report to its vast database titled \"Global Natural language processing (NLP) Market 2020\" which provides extensive and highly detailed information on the key markets."
     publishedDateTime: 2020-02-17T03:33:00Z
@@ -207,19 +220,6 @@ related:
       name: PR
       domain: pr.com
     quality: 0
-  - title: "Global Enterprise Artificial Intelligence Market Expected to Grow with a CAGR of 35.4% Over the Forecast Period, 2019-2026 - ResearchAndMarkets.com"
-    excerpt: "The \"Enterprise Artificial Intelligence Market: Global Opportunity Analysis And Industry Forecast, 2019-2026\" report has been added to ResearchAndMarkets.com's offering. According to this report, the global enterprise artificial intelligence market was valued at $4.68 billion in 2018, and is projected to reach $53.06 billion by 2026 ..."
-    publishedDateTime: 2020-02-25T14:12:00Z
-    webUrl: "https://www.pressofatlanticcity.com/business/global-enterprise-artificial-intelligence-market-expected-to-grow-with-a/article_2156e82c-3056-57e4-bc00-ce8f14284744.html"
-    type: article
-    provider:
-      name: The Press of Atlantic City
-      domain: pressofatlanticcity.com
-    quality: 0
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/pressofatlanticcity.com/content/tncms/custom/image/bae1e730-3e34-11e6-9bc5-8f83ee7a0e54.jpg"
-        width: 1200
-        height: 630
 
 secured: "pICxlbtdOTxOGyq723WPMqAb6o6JZYrDNxtPovABXCe2CnIESwXjZWuqGMQmVvOfGlFHbKP1v00SIyPFriZeUkMyG8vJ4rF3sehXVu7yqzXvjzcyJpzEqivlaPpy0OJ9emDKk+S6dxvPS8eK53wBgHHnVaAh+4aX5qUgfYIg7K9bZROV6SAw583y7+n9xcqSExkjIXQyr/OkMXod8BlP3vSxUTNRUcT3g17t5eSit6A/IgjdIrKjWbCZVZZ3DiaXAal3I7FGWOt2gKMDGkiZSxSrC0yUIzhb9JpLCuN5dVIdFejFokJl2nS0yUUiQjFe;JETcW71MxAR9VM1uIpA88A=="
 ---

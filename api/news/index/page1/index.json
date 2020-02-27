@@ -92,97 +92,6 @@
       ]
     },
     {
-      "path": "_posts/2020-02-12-healthcare-algorithms-are-biased-and-the-results-can-be-deadly.md",
-      "title": "Healthcare Algorithms Are Biased, and the Results Can Be Deadly",
-      "excerpt": "And the Alliance for Artificial Intelligence in Healthcare, a nonprofit organization founded in December 2018, brings together developers, device manufacturers, researchers, and other professionals to advance the safe and fair use of AI in medicine. Some organizations have started baking inclusivity and fairness into the data-gathering process ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://uk.pcmag.com/news-analysis/124621/healthcare-algorithms-are-biased-and-the-results-can-be-deadly",
-      "ampWebUrl": "https://uk.pcmag.com/news-analysis/124621/healthcare-algorithms-are-biased-and-the-results-can-be-deadly?amp=1",
-      "cdnAmpWebUrl": "https://uk-pcmag-com.cdn.ampproject.org/c/s/uk.pcmag.com/news-analysis/124621/healthcare-algorithms-are-biased-and-the-results-can-be-deadly?amp=1",
-      "publishedDateTime": "2020-02-12T13:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://sm.pcmag.com/t/pcmag_uk/news/h/healthcare/healthcare-algorithms-are-biased-and-the-results-can-be-dead_3kzk.620.jpg",
-          "width": 620,
-          "height": 348,
-          "title": "Healthcare Algorithms Are Biased, and the Results Can Be Deadly",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-12-ibm-highlights-new-approach-to-infuse-knowledge-into-nlp-models.md",
-      "title": "IBM highlights new approach to infuse knowledge into NLP models",
-      "excerpt": "The research announced at the AAAI-20 Conference in New York gives computer systems the ability to better comprehend and infer from natural language. Researchers from the MIT-IBM Watson AI Lab, Tulane University and the University of Illinois this week unveiled research that allows a computer to more closely replicate human-based reading ...",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/ibm-highlights-new-approach-to-infuse-knowledge-into-nlp-models/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ibm-highlights-new-approach-to-infuse-knowledge-into-nlp-models/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibm-highlights-new-approach-to-infuse-knowledge-into-nlp-models/",
-      "publishedDateTime": "2020-02-12T13:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2019/02/12/cdda909e-f963-4538-a3e8-dd84cc224515/resize/1200x/bf661506ae11de07f865681a9fcae5bc/ibm-watson-940x705.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": "IBM highlights new approach to infuse knowledge into NLP models",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_posts/2020-02-13-92-of-tech-insiders-have-a-strong-appetite-for-ai.md",
       "title": "92% of tech insiders have a strong appetite for AI",
       "excerpt": "are in favor of some level of government involvement in AI. Many organizations are poised for that push. Ethics are an issue that can't be ignored, either, and 88% of the tech insiders say companies need to implement an AI ethics policy to help govern AI work. There are some barriers to furthering the adoption of AI, but business insiders vow ...",
@@ -616,7 +525,7 @@
       "path": "_posts/2020-02-13-facial-recognition-could-be-temporarily-banned-for-law-enforcement-use.md",
       "title": "Facial recognition could be temporarily banned for law enforcement use",
       "excerpt": "Senators have introduced a bill that would prohibit the technology for police use until guidelines and limitations are set. Law enforcement agencies could be temporarily banned from using facial recognition after Sens.",
-      "heat": 489,
+      "heat": 479,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.cnet.com/news/facial-recognition-could-be-temporarily-banned-for-law-enforcement-use/",
@@ -1411,7 +1320,7 @@
       "path": "_posts/2020-02-13-xmos-unveils-xcoreai-a-powerful-chip-designed-for-ai-processing-at-the-edge.md",
       "title": "XMOS unveils Xcore.ai, a powerful chip designed for AI processing at the edge",
       "excerpt": "With seed funding from the University of Bristol enterprise fund and the Wyvern seed fund as well as Amadeus Capital Partners, DJF Espirit, and Foundation Capital, the startup set about developing processor technology ... spinning off its Graphcore division focused on server-side AI. The following three years culminated in the release of ...",
-      "heat": 125,
+      "heat": 115,
       "tags": null,
       "type": "article",
       "webUrl": "https://venturebeat.com/2020/02/12/xmos-unveils-xcore-ai-a-powerful-chip-designed-for-ai-processing-at-the-edge/",
@@ -1976,7 +1885,7 @@
       "path": "_posts/2020-02-14-natural-language-processing-market-key-and-forecast-predictions-presented-until-2029.md",
       "title": "Natural Language Processing Market: Key and Forecast Predictions Presented Until 2029",
       "excerpt": "The increasing use of Natural Language Processing in healthcare and call centers, rising demand for advanced text analytics are some major factor drives the target market growth. Additionally, growing uses of smart device,",
-      "heat": 82,
+      "heat": 92,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-key-and-forecast-predictions-presented-until-2029-2020-02-14",
@@ -2150,6 +2059,88 @@
       "topics": [
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-14-nvidia-spikes-as-demand-spikes-for-chips-used-in-ai-applications.md",
+      "title": "Nvidia Spikes As Demand Spikes For Chips Used In AI Applications",
+      "excerpt": "Thursday night, the graphics chip company posted better-than-expected fourth quarter results ... “Cloud vendors should see a step up in spend and clearly Nvidia has a combination of AI drivers layering in on top of this market improvement,” he writes. “On the competitive front, there still appears little competition.”",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.barrons.com/articles/nvidia-spikes-as-demand-spikes-for-chips-used-in-ai-applications-51581701337",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/nvidia-spikes-as-demand-spikes-for-chips-used-in-ai-applications-51581701337",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-spikes-as-demand-spikes-for-chips-used-in-ai-applications-51581701337",
+      "publishedDateTime": "2020-02-14T09:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.barrons.com/im-154652/social",
+          "width": 1280,
+          "height": 640,
+          "title": "Nvidia Spikes As Demand Spikes For Chips Used In AI Applications",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-14-nvidias-earnings-crush-expectations-and-outlook-shines-stock-pops.md",
+      "title": "NVIDIA's Earnings Crush Expectations and Outlook Shines; Stock Pops",
+      "excerpt": "On the earnings call, CEO Jensen Huang attributed the data center's amazing performance to the rapid adoption of AI for an increasing number of applications, calling out natural language processing and internet recommender systems several times. NVIDIA said in its earnings release that it's still in discussions with China's regulatory agency ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/02/13/nvidias-earnings-crush-expectations-and-outlook-sh.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/02/13/nvidias-earnings-crush-expectations-and-outlook-sh.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/02/13/nvidias-earnings-crush-expectations-and-outlook-sh.aspx",
+      "publishedDateTime": "2020-02-13T18:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F558039%2Fnvda-stock-nvda-earnings-nvidia-stock-earnings-ai-artificial-intelligence.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 795,
+          "title": "NVIDIA's Earnings Crush Expectations and Outlook Shines; Stock Pops",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
       ]
     }
   ],

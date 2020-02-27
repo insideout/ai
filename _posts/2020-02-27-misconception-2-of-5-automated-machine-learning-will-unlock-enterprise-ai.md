@@ -29,6 +29,6 @@ images:
     height: 464
     title: "Misconception 2 (of 5): Automated Machine Learning Will Unlock Enterprise AI"
 
-secured: "dUfyLQFa5NkHOAed46q9mxsjpzg7qyBmXnlGGlHKO7yeDE0YwQYpRFtx5/K15P/nDXbIlRqNfpn1smhtFvh6Y4tJf8RXJAbPIuQeFlCLIyWGKV7igFV26xyDLj2KAD/nmcJ3yP7J2ul/KngPBJYxzXt97XlHteitEBdqNqm+FpKodQBsjRbm4XQGmA4/9KYlAwjJFUBpKaekZu/390+CFoAsIsVmTWG/JYNSr5cHclYMamd16f7a//R/evIjbo+GXWpVsp5oMEUyNwSQ1ktTE6RTOYOsqVaZAmZlnC12qYeoqe2GvKJ2HMsSgHI++NcQ;ckPnQKaIAzF5+b6ggQnhOQ=="
+secured: "ZdFmAeBd9uJB+deFvjDB9S5vbEsRaWzocwuTkXOTekfnBnF/DZc0eA3DFkFZ5MHdkbBGSe1X70tgZe21GyaOzXvktU2FRg/IPu+gzvjKFGVxVQuDFdZf51p8r6TiVIK/P45/sCeDAUk8su8kU67nmxCOatlpu2y/k04i9CnIhbKYpf1HfO/mbJwCUNmeqAjwpyijArDDNucfENbV4s+QaMgs3Omyh4n4A3bDmo0TZ57HzfhPPoRKWjyiVfRGKbng+LjP6Z6UkyOPtJTL5PrLGHZ8d6rSwD/tywKJ4YOQen1Ad3oXiPjmAZu3XJkeJVNAciFmWF5bd5L5btmuIr3WL/vybY7VGNzittuJG7KKhPQBW+UF6JU0YjdqV3t7zTD6LA85bZoBX0OcQ6roM3Q57VEk1yhlUpw8gZ7JHrWOyjOoMA/yhHh8D9wGHRphUY5XMpthUBn7/oyJnJbAM/9hkKPXBXx9rle3HyQeFyNa0P8=;GPjo8W6E7CXm30TIs+Gu6w=="
 ---
 

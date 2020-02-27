@@ -2,6 +2,221 @@
   "page": 29,
   "value": [
     {
+      "path": "_posts/_archive/2020-02-12-6-ways-to-boost-your-marketing-with-natural-language-processing.md",
+      "title": "6 Ways to Boost Your Marketing With Natural Language Processing",
+      "excerpt": "Given that marketing is heavily reliant on words to convey messages about people and products, it’s not surprising that NLP has carved out a large niche in marketing technology.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/mariyayao/2020/02/12/6-ways-to-boost-your-marketing-with-natural-language-processing/",
+      "ampWebUrl": "https://www.forbes.com/sites/mariyayao/2020/02/12/6-ways-to-boost-your-marketing-with-natural-language-processing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mariyayao/2020/02/12/6-ways-to-boost-your-marketing-with-natural-language-processing/amp/",
+      "publishedDateTime": "2020-02-12T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1134222543%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4000%26cropY1%3D1750%26cropY2%3D4000",
+          "width": 1200,
+          "height": 675,
+          "title": "6 Ways to Boost Your Marketing With Natural Language Processing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-02-12-andrew-yang-an-ai-first-candidate-drops-out-of-presidential-race.md",
+      "title": "Andrew Yang, an AI-first candidate, drops out of presidential race",
+      "excerpt": "(Reuters) — Andrew Yang, an entrepreneur whose unlikely White House bid evolved into a serious campaign thanks to grassroots enthusiasm, pulled out of the Democratic presidential race on Tuesday after New Hampshire delivered him a second straight poor showing. Yang, 45, who ran for president despite having no political background, surprised ...",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/11/andrew-yang-an-ai-first-candidate-drops-out-of-presidential-race/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/11/andrew-yang-an-ai-first-candidate-drops-out-of-presidential-race/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/11/andrew-yang-an-ai-first-candidate-drops-out-of-presidential-race/amp/",
+      "publishedDateTime": "2020-02-11T19:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/andrew-yang-1.jpg?fit=5048%2C2524&strip=all",
+          "width": 5048,
+          "height": 2524,
+          "title": "Andrew Yang, an AI-first candidate, drops out of presidential race",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-02-12-artificial-intelligence-ai-in-healthcare-market-to-register-high-revenue-growth-at-519-cagr-by-2023.md",
+      "title": "Artificial Intelligence (AI) in Healthcare Market To Register High Revenue Growth At 51.9% CAGR by 2023",
+      "excerpt": "Healthcare Artificial Intelligence (AI) Market Scenario As per a report published by Market Research Future (MRFR), the global healthcare artificial intelligence market is likely to capture an impressive CAGR of 51.",
+      "heat": 123,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-to-register-high-revenue-growth-at-519-cagr-by-2023-2020-02-12",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-12T12:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence (AI) in Healthcare Market To Register High Revenue Growth At 51.9% CAGR by 2023",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-02-12-artificial-intelligence-for-machine-tool-maintenance.md",
+      "title": "Artificial intelligence for machine tool maintenance",
+      "excerpt": "If there is a need for action, the system informs the user automatically.\" The new system combines a camera with light source attached to the nut of the drive and an artificial intelligence (AI) that evaluates the image data. As the nut moves on the spindle, it takes individual pictures of each spindle section, enabling the analysis of the ...",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://eurekalert.org/pub_releases/2020-02/kift-aif021120.php",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-12T07:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://eurekalert.org/multimedia/pub/web/223953_web.jpg",
+          "width": 720,
+          "height": 652,
+          "title": "Artificial intelligence for machine tool maintenance",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-02-12-automating-model-retraining-and-deployment-using-the-aws-step-functions-data-science-sdk-for-amazon-sagemaker.md",
+      "title": "Automating model retraining and deployment using the AWS Step Functions Data Science SDK for Amazon SageMaker",
+      "excerpt": "As machine learning (ML) becomes a larger part of companies’ core business, there is a greater emphasis on reducing the time from model creation to deployment. In November of 2019, AWS released the AWS Step Functions Data Science SDK for Amazon SageMaker, an open-source SDK that allows developers to",
+      "heat": 190,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automating-model-retraining-and-deployment-using-the-aws-step-functions-data-science-sdk-for-amazon-sagemaker/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-12T10:22:09-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/01/31/automating-model-retraining-3.gif",
+          "width": 800,
+          "height": 397,
+          "title": "Automating model retraining and deployment using the AWS Step Functions Data Science SDK for Amazon SageMaker",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-02-12-ceo-glaser-invests-10m-in-realnetworks-bullish-on-facial-recognition-software-gaming.md",
       "title": "CEO Glaser invests $10M in RealNetworks, bullish on facial recognition software, gaming",
       "excerpt": "RealNetworks Inc. CEO Rob Glaser is so bullish on the company’s facial recognition software and its gaming pipeline that he pledged this week to invest nearly $10 million of his personal funds into the company.",
@@ -174,6 +389,51 @@
       ]
     },
     {
+      "path": "_posts/_archive/2020-02-12-healthcare-algorithms-are-biased-and-the-results-can-be-deadly.md",
+      "title": "Healthcare Algorithms Are Biased, and the Results Can Be Deadly",
+      "excerpt": "And the Alliance for Artificial Intelligence in Healthcare, a nonprofit organization founded in December 2018, brings together developers, device manufacturers, researchers, and other professionals to advance the safe and fair use of AI in medicine. Some organizations have started baking inclusivity and fairness into the data-gathering process ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://uk.pcmag.com/news-analysis/124621/healthcare-algorithms-are-biased-and-the-results-can-be-deadly",
+      "ampWebUrl": "https://uk.pcmag.com/news-analysis/124621/healthcare-algorithms-are-biased-and-the-results-can-be-deadly?amp=1",
+      "cdnAmpWebUrl": "https://uk-pcmag-com.cdn.ampproject.org/c/s/uk.pcmag.com/news-analysis/124621/healthcare-algorithms-are-biased-and-the-results-can-be-deadly?amp=1",
+      "publishedDateTime": "2020-02-12T13:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://sm.pcmag.com/t/pcmag_uk/news/h/healthcare/healthcare-algorithms-are-biased-and-the-results-can-be-dead_3kzk.620.jpg",
+          "width": 620,
+          "height": 348,
+          "title": "Healthcare Algorithms Are Biased, and the Results Can Be Deadly",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-02-12-how-to-teach-artificial-intelligence.md",
       "title": "How To Teach Artificial Intelligence",
       "excerpt": "Every high school graduate should have an appreciation of how AI is reshaping the economy and the career landscape—and the option of educational pathways that lead to college and meaningful high wage work.",
@@ -218,6 +478,52 @@
         "AI in Robotics",
         "AI in Healthcare",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-02-12-ibm-highlights-new-approach-to-infuse-knowledge-into-nlp-models.md",
+      "title": "IBM highlights new approach to infuse knowledge into NLP models",
+      "excerpt": "The research announced at the AAAI-20 Conference in New York gives computer systems the ability to better comprehend and infer from natural language. Researchers from the MIT-IBM Watson AI Lab, Tulane University and the University of Illinois this week unveiled research that allows a computer to more closely replicate human-based reading ...",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/ibm-highlights-new-approach-to-infuse-knowledge-into-nlp-models/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ibm-highlights-new-approach-to-infuse-knowledge-into-nlp-models/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibm-highlights-new-approach-to-infuse-knowledge-into-nlp-models/",
+      "publishedDateTime": "2020-02-12T13:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2019/02/12/cdda909e-f963-4538-a3e8-dd84cc224515/resize/1200x/bf661506ae11de07f865681a9fcae5bc/ibm-watson-940x705.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": "IBM highlights new approach to infuse knowledge into NLP models",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI",
+        "Natural Language Processing"
       ]
     },
     {

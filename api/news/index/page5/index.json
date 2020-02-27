@@ -2,87 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_posts/2020-02-20-mass-adoption-of-ai-in-financial-services-expected-within-two-years.md",
-      "title": "Mass Adoption Of AI In Financial Services Expected Within Two Years",
-      "excerpt": "A significant number of financial industry executives from 151 financial institutions in 33 countries recently reported that within the next two years they expect to become mass adopters of AI and expect AI to become an essential business driver across the financial industry.",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/20/mass-adoption-of-ai-in-financial-services-expected-within-two-years/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/20/mass-adoption-of-ai-in-financial-services-expected-within-two-years/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/02/20/mass-adoption-of-ai-in-financial-services-expected-within-two-years/amp/",
-      "publishedDateTime": "2020-02-20T11:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e4edaa7de40290007718aea%2F0x0.jpg",
-          "width": 1200,
-          "height": 582,
-          "title": "Mass Adoption Of AI In Financial Services Expected Within Two Years",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-20-nations-largest-insurer-invests-in-waltham-healthcare-ai-startup.md",
-      "title": "Nation’s largest insurer invests in Waltham healthcare AI startup",
-      "excerpt": "A venture capital firm tied to the largest health insurer in the U.S., UnitedHealth Group, has invested in a local startup working to avoid unnecessary drug costs. Optum Ventures contributed an undisclosed amount to Scipher Medicine’s expanded $30 million Series B round,",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bizjournals.com/boston/news/2020/02/20/vc-tied-to-nation-s-largest-insurer-invests-in.html",
-      "ampWebUrl": "https://www.bizjournals.com/boston/news/2020/02/20/vc-tied-to-nation-s-largest-insurer-invests-in.amp.html",
-      "cdnAmpWebUrl": "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/boston/news/2020/02/20/vc-tied-to-nation-s-largest-insurer-invests-in.amp.html",
-      "publishedDateTime": "2020-02-20T08:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.bizj.us/view/img/11608686/story-05*600xx1049-699-126-0.jpg",
-          "width": 600,
-          "height": 399,
-          "title": "Nation’s largest insurer invests in Waltham healthcare AI startup",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-20-only-a-better-understanding-of-ai-can-help-end-our-fear-of-robots.md",
       "title": "Only a better understanding of AI can help end our fear of robots",
       "excerpt": "AI is upending companies, industries, and humanity. There has been an ongoing polarising discussion among experts in both the academic and industrial circles when it comes to artificial intelligence (AI), and the impact of its adoption on our continued existence. One side envisions multiple benefits over its widespread adoption; while the other ...",
@@ -2131,6 +2050,89 @@
         "AI",
         "AWS AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-22-why-ai-companies-dont-always-scale-like-traditional-software-startups.md",
+      "title": "Why AI companies don’t always scale like traditional software startups",
+      "excerpt": "At a technical level, artificial intelligence seems to be the future of software. AI is showing remarkable progress on a range of difficult computer science problems, and the job of software developers – who now work with data as much as source code – is changing fundamentally in the process. Many AI companies (and investors) are betting ...",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/22/why-ai-companies-dont-always-scale-like-traditional-software-startups/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-22T08:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/scaling.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 1067,
+          "title": "Why AI companies don’t always scale like traditional software startups",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-23-mohamed-bin-zayed-international-robotics-challenge-kicks-off.md",
+      "title": "Mohamed bin Zayed International Robotics Challenge kicks-off",
+      "excerpt": "Khalifa University of Science and Technology, some 32 teams are competing to establish their artificial intelligence skills in the capture of drones ABU DHABI- The US$5 million biennial international robotics competition, the Mohamed bin Zayed International Robotics Challenge 2020, MBZIRC, opened today in the nation's capital, Abu Dhabi.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zawya.com/mena/en/life/story/Mohamed_bin_Zayed_International_Robotics_Challenge_kicksoff-WAM20200223131026553/",
+      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/WAM20200223131026553/",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/WAM20200223131026553/",
+      "publishedDateTime": "2020-02-23T05:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.zawya.com/resources/img/zawya-logo-en-social.png",
+          "width": 1200,
+          "height": 878,
+          "title": "Mohamed bin Zayed International Robotics Challenge kicks-off",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

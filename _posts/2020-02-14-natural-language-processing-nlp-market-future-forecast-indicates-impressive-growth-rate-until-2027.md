@@ -41,6 +41,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Artificial Intelligence in Healthcare Market Overview By Share, Size, Industry Players, Revenue And Product Demand Forecast Till 2029"
+    excerpt: "The research study on Global Artificial Intelligence in Healthcare market 2019 presents an extensive analysis of current Artificial Intelligence in Healthcare market size, drivers, trends, opportunities,"
+    publishedDateTime: 2020-02-17T11:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-overview-by-share-size-industry-players-revenue-and-product-demand-forecast-till-2029-2020-02-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Artificial Intelligence In Energy Market Size, Trend, Competitive Growth Overview and Forecast to 2025"
     excerpt: "The Global Artificial Intelligence In Energy Market 2019 research provides a basic overview of the industry including definitions, classifications, applications, and industry chain structure. The Global Artificial Intelligence In Energy market analysis is provided for the international markets including development trends,"
     publishedDateTime: 2020-02-19T10:44:00Z

@@ -54,6 +54,19 @@ related:
       - url: "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png"
         width: 1200
         height: 630
+  - title: "Gravyty and Accordant Announce Strategic Partnership to Transform Health Care Philanthropy with Artificial Intelligence"
+    excerpt: "/PRNewswire/ -- Gravyty, the market-defining provider of fundraiser enablement solutions powered by artificial intelligence (AI), and Accordant announced"
+    publishedDateTime: 2020-02-27T13:41:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/gravyty-and-accordant-announce-strategic-partnership-to-transform-health-care-philanthropy-with-artificial-intelligence-301012453.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 15
+    images:
+      - url: "https://mma.prnewswire.com/media/1096108/GRAVYTY_ACCORDANT_WEBINAR_1920.jpg?p=facebook"
+        width: 1920
+        height: 1005
 
 secured: "MjDKBEph/P6oExmSkoeVaV+sYXSLB1+8Ftf+VMfsH3uuPhpicBZAyjDapjZmkaEK7yJuYuXdI2oTs2N8wmJy8RfJhtSlzRxFdmKdC2F3LQg4Ln7+QcWqclMBruqLsZYtUuyRjaUYujY3/+PtF9tX0mPugLVkquc+XFr1BWsW3X3LngV59AboXBmeDNWKMpCVb7Ctw8rLM4H4oBHe3KShesKv6aVQmQACUl6294wcOlNAY8JePYv+5omlLUf7maXYa56MGS9mX0bLeZVOnM4LVTE7PWdUyEB32aoJcba1x0c31Iip8JatwYWidTwRs+tM2tVL2WVjxbReNTVU0qpWiNDseSaETJ7vi+1ZeJz/iuPtqP5ePWXbkrcR80wBb/Iw5xpmCcmy5oiySi1gTq6zdn3sC3hp/IVJc6qXxHIGjTWvRdTLB3tlCRW2Gwy1rXEbNMvcUt+lUBHl55VCJZaruJlATCA58P6AoDoI/z82eIs=;5GQLrPiXjF4Ui7hlDHkm2A=="
 ---

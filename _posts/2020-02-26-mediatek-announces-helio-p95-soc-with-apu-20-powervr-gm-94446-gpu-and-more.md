@@ -33,6 +33,21 @@ related:
       - url: "https://www.gizmochina.com/wp-content/uploads/2020/02/Helio-P95.png"
         width: 822
         height: 594
+  - title: "Mediatek introduces Helio P95 with better AI and camera support"
+    excerpt: "The Helio P95 SoC was introduced by the Taiwanese manufacturer - it has improved AI over the Helio P90 while keeping the same CPU, GPU and other general specs. Connectivity Wi-Fi 802.11 a/b/g/n/ac, Bluetooth 5.0 Wi-Fi 802.11 a/b/g/n/ac, Bluetooth 5.0 ..."
+    publishedDateTime: 2020-02-27T13:57:00Z
+    webUrl: "https://www.gsmarena.com/mediatek_introduces_helio_p95_with_better_ai_and_camera_support-news-41733.php"
+    ampWebUrl: "https://m.gsmarena.com/mediatek_introduces_helio_p95_with_better_ai_and_camera_support-amp-41733.php"
+    cdnAmpWebUrl: "https://m-gsmarena-com.cdn.ampproject.org/c/s/m.gsmarena.com/mediatek_introduces_helio_p95_with_better_ai_and_camera_support-amp-41733.php"
+    type: article
+    provider:
+      name: GSM Arena
+      domain: gsmarena.com
+    quality: 59
+    images:
+      - url: "https://fdn.gsmarena.com/imgroot/news/20/02/mediatek-helio-p95-ofic/-1220x526/gsmarena_0001.jpg"
+        width: 1220
+        height: 526
   - title: "MediaTek Helio P95 SoC with AI Accelerator and HyperEngine gaming launched"
     excerpt: "We don’t get to see any changes in terms of GPU. The PowerVR GM 9446 GPU is now improved to offer 10% better performance. The AI processing unit has also received a 10% performance gain. The Helio P95 supports the triple Image Signal Processor. OEMs get to include either a single 64MP sensor or up to 24MP and 16MP in dual camera setup."
     publishedDateTime: 2020-02-27T10:27:00Z

@@ -25,34 +25,6 @@ images:
     height: 720
     title: "Microsoft for Startups Now Offers Participants GitHub Enterprise and Power Platform Access"
 
-related:
-  - title: "An Enterprise Formula for AI Success"
-    excerpt: "From TensorFlow to Python, Kafka to PyTorch, the we’re in the midst of an explosion in diversity of data science and big data toolchains. However, when it comes to putting these toolchains together and building real-world AI applications, regular ..."
-    publishedDateTime: 2020-02-11T00:00:00Z
-    webUrl: "https://www.datanami.com/2020/02/11/an-enterprise-formula-for-ai-success/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 39
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/02/robot_ai_shutterstock_Phonlamai-Photo.jpg"
-        width: 1000
-        height: 667
-  - title: "Microsoft and Genesys expand partnership to help enterprises seize the power of the cloud for better customer experiences"
-    excerpt: "One of the biggest challenges is connecting the details of every interaction across all channels to ensure each customer has a seamless experience,” said Kate Johnson, president, Microsoft U.S. “By leveraging Microsoft’s Azure cloud and AI technologies, Genesys is helping enterprises create a seamless customer journey with Microsoft’s ..."
-    publishedDateTime: 2020-02-12T20:33:00Z
-    webUrl: "https://apnews.com/PR Newswire/4e004449ab1ba5e3aa9456ff715f95ac"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 14
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-
 secured: "nsHVq3bkmAKs9gIm1zg0HA3EG6z/J5e+JxMNvHTk7wIp2Fq28nx69Gt3bQU2xkfZI4kvThFb9PI/elzYzakIo32Hou/T56nF6+tZeQjUK5sggYbDDme2Be4Xg+BTKPyT9oknQNQvohm+zZtCY6VspyGyAfNZNQ1BnfCXqQhOaA6AbL7anFXzCnIBpLFlNFGzrGS22fzZMT1rj2GR3h1wUQT42uBZqKpbZmNuSGXhxEbmnYAkk3yl7JpRahhRyakpLnG6NCvwsjo4Pjn8rdpRAHt24P7XgDUJr6AAd+O8+TKqN9+n7jHLvQd4UDPiF1cl;Ffvay0i9GzAq09KWnd/NlQ=="
 ---
 
