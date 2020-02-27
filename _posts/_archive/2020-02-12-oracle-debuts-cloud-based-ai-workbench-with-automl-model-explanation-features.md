@@ -23,6 +23,6 @@ images:
     height: 400
     title: "Oracle debuts cloud-based AI workbench with AutoML, model explanation features"
 
-secured: "OKwaiR+mrXh6ctO0+aucCNxtXWY8XoMwuarNgGgYZ4bJ2f3VhreO5AfxK2HwZ5HisuaEQ1RXB+pz4fnAeW/d4/kCNw7lFYQM3Mizfm5/tSBDDwKa3Cf9SjjWS7nT1dFMFHrkoGsTJSefipOe6wjFiGSLdrmO8+Iq2DZnRn9OMbBattiGt/NFPVK58/KYxBnUiwclpq/qy2NVWGaYsNWL3fIxNmirhnrsYIFGuXSQg3AcMROV4A1HE5Q5RM6sk613TAofMbdcEcypLuwH95BeAQ5kI0pydckIKCFYdST6dwoNiOdwwtvVV6sHasFSDu3H;RJuSu9auU0v39IbTAgORjg=="
+secured: "/+ZpgSERWJ4mmarqedIN75ssEsBZO7wYwMr59QH2xbQ+tdj0XRFOaqMM/yy7D0/6xjv4+pO37iYhHHNjqxrrhsQ6Zwo8hkMCc/fG8M/AGU4HzL8cP5qLVN9BdnlD/KmFbGdY6pptLNDQNvSOmOtldQ/ljJdZuTogNLa/7COhXC3Qqr2APkLe/mKCc8RfRGrLtj4pUQA6MtfYfhxklXRrsxDSG2xf8Neh9f/L21vkPKAufShCNQFN5ib2r2vpprh32d1r/lmvdiCGX6S48me+JNRMgqw7mA95tVCeRrPsLrt/l1MQt+Ln4lj6AYL3ZxV9;1lyRt8uY1nyah3KqZ9DkXQ=="
 ---
 

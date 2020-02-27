@@ -2,42 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_posts/2020-02-24-britains-top-cop-calls-for-law-on-police-use-of-artificial-intelligence.md",
-      "title": "Britain's Top Cop Calls for Law on Police Use of Artificial Intelligence",
-      "excerpt": "framework for police use of new technologies such as artificial intelligence. Speaking about live facial recognition, which police in London started using in January, London police chief Cressida Dick said that she welcomed the government's 2019 manifesto pledge to create a legal framework for the police use of new technology like AI ...",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.voanews.com/europe/britains-top-cop-calls-law-police-use-artificial-intelligence",
-      "ampWebUrl": "https://www.voanews.com/europe/britains-top-cop-calls-law-police-use-artificial-intelligence?amp",
-      "cdnAmpWebUrl": "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/europe/britains-top-cop-calls-law-police-use-artificial-intelligence?amp",
-      "publishedDateTime": "2020-02-24T10:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Voice of America",
-        "domain": "voanews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.voltron.voanews.com/Drupal/01live-166/ap-images/2020/02/043aafaf1ac3ed4081332aade01c6f7d.jpg",
-          "width": 4558,
-          "height": 2954,
-          "title": "Britain's Top Cop Calls for Law on Police Use of Artificial Intelligence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-24-china-delays-self-driving-car-deployment-goal-to-2025.md",
       "title": "China delays self-driving car deployment goal to 2025",
       "excerpt": "Why it matters: China backing off its ambitious plans underscores the challenging technological leap that self-driving technology has proven to be. Global auto tech giants have struggled to make autonomous cars safe for public use. The valuation of Google’s AV arm Waymo was slashed by 40% to $105 billion late last year, while General Motors ...",
@@ -2133,6 +2097,51 @@
       "topics": [
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-25-deepmind-develops-ai-with-an-imagination.md",
+      "title": "DeepMind Develops AI With An Imagination",
+      "excerpt": "Google is going full Westworld by giving robots the ability to imagine and plan. In the same way a person would look at a glass of water on the edge of a table and consider whether it might fall ...",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geek.com/tech/deepmind-develops-ai-with-an-imagination-1708908/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-24T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geek.com",
+        "domain": "geek.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/geek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.geek.com/wp-content/uploads/2017/07/ai-2.jpg",
+          "width": 690,
+          "height": 388,
+          "title": "DeepMind Develops AI With An Imagination",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
       ]
     }
   ],

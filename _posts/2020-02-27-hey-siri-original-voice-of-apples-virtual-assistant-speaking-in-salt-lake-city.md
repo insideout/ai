@@ -25,6 +25,6 @@ images:
     height: 865
     title: "Hey, Siri! Original voice of Apple’s virtual assistant speaking in Salt Lake City"
 
-secured: "GQUo3pC309dTXC026bb3qqpmtBB2jr7pGtx+jLC7WbF7x76vRV7iOVuznH5Yp13Uj9j8NWjsobYdP7Kf7VTDAsD56opxtzIG9pOHYoDyLvcZy8l9pBmeexHPNlAY5NvW9urp6YQ1wgSVGtDgwmtjvr0IOOLA8oexI5vVPhDRSeytIBJggY+6JXDWKkZiscxB7hFjfMnkbaKmxd6rrNQ47HpXRVNji0XMQXxdQz7sTZlyFnCStWsmjoc0ox984C/jT7R4P6LS9xEu8SW8jLUPKVa0Fk1RI4l32Jh72/d0KDcXZgVTqwgPUnznPL4JUd/3;x7sWNIsa/uBraPL5OLNY0A=="
+secured: "Lfc66UaV4C8+jJ8MaJmGy6hAPpqjwIYKbY8x52XzIEntJJJJNzewtjj6vbCjnHsUe3+Fsb7qsoTRoLTQRh8aa6oAVKv50seAGiaEZ+3+M/NKzh/2xFNzMhaMu8cU+dL3yOdUPpWb/4bCjnJeBXVM6C55P9ua76QF7oPCquhnn/bm0dG/z4RpxQ4MQk52CXkRPkIea82Ci+jHfoWnKNbXWRVBnezxtB+aJNW1IXp0Th5Ql3wZk/K0bYh6VD2YeQV5SWpq5Ex//MwuLOhM1joLIO/6HdN7EUoe5TSsemkExWvCntxK8fd8mSG9OMNhJh/Z/qlJej+26srTfrHEi1lW+gw989jgtoQP03tLncJ0KeXhkaaRsSCXijKwgo4SCs85EGktTtNW68dbx2/AHOwTAzzTlxkOix0Ar7OnJuikbDJqIv3UufoOuRvJrUaPhWLEijoQMttz5JfljD8wLlfdXC+0MYSuD0hS4RPABI4wTWw=;D1EusJhV5w57CJXKoyK8lA=="
 ---
 

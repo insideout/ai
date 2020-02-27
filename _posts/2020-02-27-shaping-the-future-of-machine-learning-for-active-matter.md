@@ -1,27 +1,25 @@
 ---
 category: news
 title: "Shaping the future of machine learning for active matter"
-excerpt: "Now researchers are presenting guidelines for how active matter, such as cells and microorganisms, can best be studied using machine learning techniques. The guidelines can help others navigate the new field, which can significantly improve research in active matter. Machine learning has proven to be very useful for the study of active matter ..."
-publishedDateTime: 2020-02-27T14:56:00Z
-webUrl: "https://www.eurekalert.org/pub_releases/2020-02/uog-stf022720.php"
+excerpt: "Now researchers are presenting guidelines for how active matter, such as cells and microorganisms, can best be studied using machine learning techniques. The guidelines can help others navigate the new field, which can significantly improve research in active matter. Now researchers are presenting guidelines for how active matter, such as cells ..."
+publishedDateTime: 2020-02-27T17:16:00Z
+webUrl: "https://www.sciencedaily.com/releases/2020/02/200227114454.htm"
 type: article
-quality: 39
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
   - Machine Learning
-
-images:
-  - url: "https://eurekalert.org/multimedia/pub/web/225481_web.jpg"
-    width: 644
-    height: 710
-    title: "Shaping the future of machine learning for active matter"
 
 related:
   - title: "Gmail Is Catching More Malicious Attachments With Deep Learning"
@@ -132,6 +130,6 @@ related:
       domain: microsoft.com
     quality: 19
 
-secured: "Mf3GqOKH2CqEnV1uJZG0nudbiJt9UEYOXQpzTpTFj8p94P2WGebQSkD3bEBD6YoOh0xQipovAcs+NykvAKpERd/JZzdv81I9curodhwegpqk1NgfqZ+u6CJYkcDMEw2n8UQOhUcshEIDNw/a5H6Trne+gKp9uwy8Fx2VYgnhEmsw8RI3Yq8r5GAEyijPgFgA49wkP3VYoUWPNTozVEm0yXiclYgyCUg78i5ikAH2J8YCe0BA9AV1a5VvXMsJSqqIqp1wUCmSCT8RCqHJJKNI/d8ox8TdugItbOaYbAmJ8n3H2Qgps9m3vg3pS4WMNI484XA8EF81LbTPtxH5w5VNVPcfJytomaAOXxPiOHv9UP4H60sWQPNzMV1tprWD0RkPv3RF2+Aq7zLvC8y8sXpHIUZfKzQ7OGRyJFBaRJtJbFApMtEFtOmB7G2c4CPi+s3PMUPRBIBAF7bwozETNLR2o0ZyKCtWkWdumjUGW1KST28=;E+HxyR5q134T2qo7idSh+w=="
+secured: "fOvYcDzm/+wq3gs4JtC+geo7FQ7m7fa1z467h3fkSxPp2jp8bza4qLEYE2o6GCFXJoFc8jutdOSU2NzujIxw5Q/0Cvzvlz3tiZfV3eUfggURy62Ful4AQx/bMDC2W72bH5IFGgC8aVK1ViqvG106cii5HF7M+M5h9n3yp9ECF1tquOUT0kHFzk84RN9VC1rX4npP21ndC/HtaQDOFRPAXyLjHb6OgSn6N6VriKeTGM3iqHGRsJUgSvhI08HFWXHmq4XoT5cprJZO/UPKnS07mywS4qzLOcXkA1KbDykjZsC1gBGozKsuEPKmoZfd8iAS;GitS7JoaqSSSsuMe7dYbhg=="
 ---
 

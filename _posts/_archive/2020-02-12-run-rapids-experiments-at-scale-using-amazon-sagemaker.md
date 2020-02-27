@@ -27,6 +27,6 @@ images:
     height: 522
     title: "Run RAPIDS experiments at scale using Amazon SageMaker"
 
-secured: "rME7k1aAe07Tdn765gG0L+qV2hDPtvANdJWxhmQh3PHXJCmQGwjDrWwzqNaoPeHn3zFIU0bPpy2Gq+bY3UpLytFuMqHp3wEleGam89nljfxnIeFJdpd81PIeua6G4fnWVcuBDtU3ULjHAWPyQIKVxiWWVCnM9XpEYWXsf38FbKuYZc/RR+FGfUMkaI7u4/f1lSVqOrKnnps3l4XuQFwRJkLJl+oXUZF4iKe6Nn6k5R83RRP7zCQcrTztdRAwKp/3CoA4qQ+GYp6ofChxdTjD1edpNcnQBlh3R10KcSTcw9Qwe8PmIRXuP8jKq/RW4vpn;yNoR+fLtuYfuaJoVNwZYvA=="
+secured: "95t/yixNs7IT8vJWs/wd5z/voLVHUdPHCJxTymipmxHhIU1sK9BzG1Wx07oPIoiSStdHbd20b1eiIE8Dkt1XRklEBTba37hxPSFY/5NDHaocIGQuZB9Xo79/k7anR8aGGImw6X5rpAXYSEwsoXvKXCvC1BP6oNBhYZjtstLuVxSmnWS6bSUVpfzEI9EGOWRvgCH5TqyvnJ5Gr+ndzZguwlcC9xvJlGsJfM9SVTZTjSVqXVZvKRGvQtqphTIc5DlO8Yyzab0tv0sE/lc/jR0hy0ICsoD2DxIGvunVQiqkL4i4KHob7kO0Dwoi2ua5fIFT;4hws3HX05F7T+GIIr0wUzg=="
 ---
 

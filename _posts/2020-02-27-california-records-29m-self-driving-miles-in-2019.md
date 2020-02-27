@@ -108,6 +108,21 @@ related:
       - url: "https://mondrian.mashable.com/2020%252F02%252F25%252F4f%252Fd75c9f984aa5402cb06f23fc61998c2f.8706a.jpg%252F1200x630.jpg?signature=7bMCxIclQRz1wENwmSpitIM5yKQ="
         width: 1200
         height: 630
+  - title: "California’s self-driving car reports are public. Here’s what they don’t mean."
+    excerpt: "“While on-road testing is useful for collecting targeted data and performing late stage validation of self driving systems, we find that large-scale, on-road autonomous testing is a slow, and inefficient approach to development relative to more sophisticated, virtual techniques,” Aurora co-founder and CEO Chris Urmson wrote to the DM"
+    publishedDateTime: 2020-02-27T17:43:00Z
+    webUrl: "https://techcrunch.com/2020/02/27/californias-self-driving-car-reports-are-public-heres-what-they-dont-mean/"
+    ampWebUrl: "https://techcrunch.com/2020/02/27/californias-self-driving-car-reports-are-public-heres-what-they-dont-mean/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/27/californias-self-driving-car-reports-are-public-heres-what-they-dont-mean/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 70
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/02/AV_crossroads.jpg?w=753"
+        width: 753
+        height: 400
   - title: "Self-driving car companies complain California test data may mislead"
     excerpt: "(Reuters) — Developers of self-driving cars are amping up criticism of a California reporting requirement on test data, saying the data could mislead, as the state prepares to release the latest results for 2019. Companies such as General Motors’ Cruise and startup Aurora have said the metric, called disengagements, is not an accurate or ..."
     publishedDateTime: 2020-02-22T19:56:00Z
@@ -136,6 +151,19 @@ related:
       - url: "https://www.orlandosentinel.com/resizer/IyTRSeHRrO-zFFpPm21cQfsNu1A=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/A26UHWXZQVHKZNVFK7ZJNKL4LE.jpg"
         width: 1200
         height: 661
+  - title: "Self-driving vehicles drove nearly 2.9M test miles in California"
+    excerpt: "The number of miles driven between the 2019 reports and 2018 reports indicate that many companies have ramped up their testing on California public roads. For example, Baidu USA ramped up its miles driven to 108,300.2 in 2019, compared with 18,093 miles in 2018. Waymo and Cruise also saw big increases in the miles driven between the two years ..."
+    publishedDateTime: 2020-02-27T17:21:00Z
+    webUrl: "https://www.therobotreport.com/self-driving-vehicles-drove-nearly-2-9m-test-miles-in-california/"
+    type: article
+    provider:
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 54
+    images:
+      - url: "https://www.therobotreport.com/wp-content/uploads/2019/02/waymo-one-launch-e1550263439376.jpeg"
+        width: 1000
+        height: 500
   - title: "California's Self-Driving Car Companies Cover 2.9 Million Miles in 2019: DMV"
     excerpt: "Self-driving car companies in California covered nearly 2.9 million miles on public roads during 2019, the state's Department of Motor Vehicles said on Wednesday. The data is part of California regulators' annual so-called \"disengagement reports\","
     publishedDateTime: 2020-02-26T15:53:00Z
@@ -158,6 +186,21 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 48
+  - title: "GM's Cruise cleared to carry passengers in self-driving cars in California"
+    excerpt: "GM's Cruise cleared to carry passengers in self-driving cars in California Cruise will be required to be operate by a human with a safety permit. Check out this story on detroitnews.com: https://www.detroitnews.com/story/business/autos/mobility/2020/02/27/gms-cruise-okd-carry-passengers-self-driving-cars-california/4890796002/"
+    publishedDateTime: 2020-02-27T17:39:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/mobility/2020/02/27/gms-cruise-okd-carry-passengers-self-driving-cars-california/4890796002/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/4890796002"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/4890796002"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 42
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/02/27/PDTN/18069bb0-50c8-42e1-97b8-fcf38622b7b1-tdndc5-6ykieuy6nf511miysikl_original.jpg?auto=webp&crop=1608,905,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
   - title: "How Self-Driving Car Makers Measure Their Own Progress"
     excerpt: "It’s report card season for self-driving cars. Wednesday, the California Department of Motor Vehicles released reports detailing how much the companies permitted to test autonomous vehicles in the state drove last year, and how often their human safety operators had to take control from the computer. The “disengagement reports” provide a ..."
     publishedDateTime: 2020-02-26T20:24:00Z

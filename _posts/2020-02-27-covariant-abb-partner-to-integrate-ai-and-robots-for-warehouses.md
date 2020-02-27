@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-27T13:21:00Z
 webUrl: "https://www.therobotreport.com/covariant-abb-partner-integrate-ai-warehouse-robots/"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -24,6 +24,19 @@ images:
     title: "Covariant, ABB partner to integrate AI and robots for warehouses"
 
 related:
+  - title: "Your Future With Robots Part 1"
+    excerpt: "“People are really a little bit concerned about the use of robots in things such as flying planes, really that’s artificial intelligence, or self-driving cars, anything that has to do with transporting people,” said Craig Webster, an associate professor of hospital and food management in the Miller College of Business at Ball Stat"
+    publishedDateTime: 2020-02-27T17:32:00Z
+    webUrl: "https://www.wibc.com/news/local-indiana/your-future-with-robots-part-1/"
+    type: article
+    provider:
+      name: WIBC
+      domain: wibc.com
+    quality: 39
+    images:
+      - url: "https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/1317/2020/02/27122127/Robot-Dirk-Waem.jpg"
+        width: 1024
+        height: 683
   - title: "ABB teams up on integrated AI robotic solutions"
     excerpt: "ABB (NYSE:ABB) is partnering with Silicon Valley AI startup Covariant to bring AI-enabled robotics solutions to market, starting with a fully autonomous warehouse order fulfilment solution. \"The partnership brings together the two companies with a shared vision for robotics enabled by AI, where intelligent robots work alongside humans in ..."
     publishedDateTime: 2020-02-25T16:35:00Z

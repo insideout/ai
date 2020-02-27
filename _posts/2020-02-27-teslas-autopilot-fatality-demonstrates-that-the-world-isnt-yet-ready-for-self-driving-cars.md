@@ -23,6 +23,6 @@ images:
     height: 450
     title: "Tesla's Autopilot Fatality Demonstrates That the World Isn't Yet Ready for Self-Driving Cars"
 
-secured: "3MDmceggT1JpPFSIJa7YgyaFuHZa0+zwhVuHcocllqnUxZffxgUAIjwRqZKullii3v130KXHgVEk7BLeUxvZGwX3uvUS+wr7RDZkrp6ardpAWZbhRfRv2HDag3gJoEOipM06QKQSKyLpaF/MI3EG1weKna0FWsZjdgxKZkKbc8G/ipREeQZeghiOr6LYKZumxg7hiYg56/B2/eSmSj56Ne4CwewRIQNjGo9I51i38W1WRNTrt1D/GzS9RpqM0VBlM5XBqtV1Sds5EgHfAerpEsCoWUgTepipePr5TbXvm2uZdFU8hdxWoqb5OBcClnKX;TcD9YBfRXnqiV14B0/kDQA=="
+secured: "+YPfK3mc0zMXlYnWyH+qKJUuYVzAVZxExGq19hqjjgwldY5sslsrdPyL1hN/G+VQQAotEzK5S1gVZgl0pwu5bLtw7Gq3ur1flTo2a68YvLOjJ6jv08LeTO66ZEuf0gyx1Qx4ueOqM/oSJE3/5PTdWOyN4KDw/aiS3FfA7D+cDO1xOJXLz4x0YXyEpZlYKbTgTuTkvBISARUqx/jZYlA13dvhw4mILFTe8R6OOk3Q4imbPcnhU2kU0uvFzUh3CVmGh01YhJX+BwNeX/k7pDRq8gBfN8GLMzjH+EcAiS/SLRoxGf++TInOQ2wJhTk4TpxQfu7yyeendPtUR2K4rRgbgu//ZsnbzP1nEA9+19W2WB80r7BvTv4z7xP/7r+CIbYmsNh/E17PyppmYRqeqdSzN8/f2EiNSLhBV/mWu9PYJ3trvkagS5pn7zg5Ev/avMzMfhtrCmKNMNpLGbKSBELzIijoCrZPdJqjzuiqFQJSJbw=;MVjATGCEB4+Es3YHvTAdNQ=="
 ---
 

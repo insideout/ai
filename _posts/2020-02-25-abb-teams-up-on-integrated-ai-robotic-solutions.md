@@ -31,6 +31,19 @@ related:
       - url: "https://www.therobotreport.com/wp-content/uploads/2020/02/Covariant_1-1024x735.jpeg"
         width: 1024
         height: 735
+  - title: "Your Future With Robots Part 1"
+    excerpt: "“People are really a little bit concerned about the use of robots in things such as flying planes, really that’s artificial intelligence, or self-driving cars, anything that has to do with transporting people,” said Craig Webster, an associate professor of hospital and food management in the Miller College of Business at Ball Stat"
+    publishedDateTime: 2020-02-27T17:32:00Z
+    webUrl: "https://www.wibc.com/news/local-indiana/your-future-with-robots-part-1/"
+    type: article
+    provider:
+      name: WIBC
+      domain: wibc.com
+    quality: 39
+    images:
+      - url: "https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/1317/2020/02/27122127/Robot-Dirk-Waem.jpg"
+        width: 1024
+        height: 683
 
 secured: "yemzYYxetgTZM5NRehsaGMh3+lnp2goCWIbJSFmAMILy38doo4hInWu/wPdZs/y4isisb8tSxgJfPp8i/XoT1cyXmdk+tb+w1Bebj8pUfKpHyuawY164mXiO1EkNbsNECFAJgbx4xbZ4Q/rjBwoTLTRV4qDQuqGD9wVYt79j7TVLblOC3MTwE+Jt4oWBeIeexEzJBcQR3O0LaZeg0+11TjvT2z+R3UM4BnvoxS/Ok7D7Dj6SIiV3Z4wiwS18K/Kj3SpORNe6K2JAS/whVCg6DdihpYZwDuztQ5Ldmlde8UuCWt4BHzoLsZdbiTfFi70z;ywExxVtlcLiCTD52sWNtCQ=="
 ---
