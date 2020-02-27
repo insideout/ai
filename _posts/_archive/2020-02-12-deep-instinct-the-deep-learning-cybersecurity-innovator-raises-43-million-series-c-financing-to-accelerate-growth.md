@@ -33,36 +33,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2019/09/GettyImages-1079200304.jpg?w=1024"
         width: 1024
         height: 752
-  - title: "Deep Instinct raises $43 million for deep learning to thwart cyberattacks"
-    excerpt: "Deep Instinct has raised $43 million in venture capital as the company seeks to apply its deep learning technology to predicting and preventing increasingly sophisticated cyberattacks. The company says it has developed an “artificial deep neural network brain” which has the ability to rapidly learn about new forms of malware and ransomware."
-    publishedDateTime: 2020-02-12T13:00:00Z
-    webUrl: "https://venturebeat.com/2020/02/12/deep-instinct-raises-43-million-for-deep-learning-to-thwart-cyberattacks/"
-    ampWebUrl: "https://venturebeat.com/2020/02/12/deep-instinct-raises-43-million-for-deep-learning-to-thwart-cyberattacks/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/12/deep-instinct-raises-43-million-for-deep-learning-to-thwart-cyberattacks/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 103
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/02/protection_unlimited-e1581452823620.png?fit=1200%2C600&strip=all"
-        width: 1200
-        height: 600
-  - title: "Cybersecurity firm Deep Instinct raises $43 million"
-    excerpt: "U.S.-Israeli cybersecurity firm Deep Instinct has raised $43 million in late-stage funding to help expand its business globally, the company said on Wednesday. The round was led by Millennium New Horizons,"
-    publishedDateTime: 2020-02-12T13:07:00Z
-    webUrl: "https://www.reuters.com/article/cyber-deep-instinct-fundraising-idUSL8N2A5396"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL8N2A5396"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL8N2A5396"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 89
-    images:
-      - url: "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png"
-        width: 1200
-        height: 630
   - title: "Cybersecurity startup Deep Instinct raises $43M in new round"
     excerpt: "It brings Deep Instinct’s total amount raised to $100 million. Deep Instinct has developed a patented threat detection platform that uses deep learning techniques to protect against sophisticated and previously unknown threats. The platform is built on a deep neural network that learns to predict and prevent all types of security threats ..."
     publishedDateTime: 2020-02-12T13:12:00Z

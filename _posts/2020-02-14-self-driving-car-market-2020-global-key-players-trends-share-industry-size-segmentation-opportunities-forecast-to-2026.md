@@ -41,19 +41,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Artificial Intelligence in the Telecommunication Market May Set New Growth Story | Major Giants IBM, Alphabet, Cisco Systems"
-    excerpt: "These insights help the business decision-makers to formulate better business plans and make informed decisions for improved profitability. In addition, the study helps venture or private players in understanding the companies more precisely to make better informed decisions."
-    publishedDateTime: 2020-02-12T12:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-telecommunication-market-may-set-new-growth-story-major-giants-ibm-alphabet-cisco-systems-2020-02-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "AI in Fintech Solution Market"
     excerpt: "QYReports publishes well-known statistical reports in a huge database titled AI in Fintech Solution Market. Market research is organized by primary and secondary research techniques. Analytical reports also include various key aspects that shape the future of the business. It also offers several approaches to increase customer growth frequently."
     publishedDateTime: 2020-02-13T10:07:00Z

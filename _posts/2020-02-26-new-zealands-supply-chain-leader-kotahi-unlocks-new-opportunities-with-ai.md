@@ -41,6 +41,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "IBM’s contribution to a more transparent future: blockchain for supply chains, trade, logistics and digital identity."
+    excerpt: "working with Artificial Intelligence — in the development of their world-famous IBM Watson system. Today, IBM takes the lead once more in its advancement of cutting-edge technologies such as 5G ..."
+    publishedDateTime: 2020-02-21T21:48:00Z
+    webUrl: "https://medium.com/@cassiopeiaservicesltd/ibms-contribution-to-a-more-transparent-future-blockchain-for-supply-chains-trade-logistics-3b7afea81b7f"
+    type: article
+    provider:
+      name: Medium
+      domain: medium.com
+    quality: 46
+    images:
+      - url: "https://miro.medium.com/max/652/1*n-2XcfdM3K02TLEEP7xXQQ.png"
+        width: 652
+        height: 482
 
 secured: "zd4VNVlSCezHQMdQmpxbPTzXfjkMq+cADN8809bhxcNWUczuYSoxMR8PNI9r73R2QUgNhZrLpWYZT/xZR9VdE9in6CM9bkFK4C101aStzIx+Js90Bjr31aEIzKvFgPEBclwc8zY7IiCSOItq957/e28ijWfUc1k749b5rYfUAquEMAK3IP37I40M3vK/nMCpqts0LPLUN/CgEoMw4g2Flus0HpW0s+66k+PYi1DzLE48E5WKgFC6qUXVJ8tu64InRERyoYwSkXBZJkrXO+eeKh/j3VmTGdyNb2Ot0twuLNkZYG/vlzqzYjwXPe8HqsH9z/SrFos5NWsdGjKQ/b6fS1mJ/qxEbr3Es75+4cacGBMRe6YxbgDABKQua2jFKteyZ+TKtc376BNLk0WWA6O3tfzqvX+F3ANHdrDR8HyXrWlTcehq4oWU8dKoR+SwQxM94oN211Qg/eN9fi7mUsmPC+DzwPYtWoS/GaB85jkl4us=;bwf/8fV+E+JFlZk7njaRqQ=="
 ---

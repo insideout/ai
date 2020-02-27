@@ -244,17 +244,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Self-Driving Car Market Trends Report 2019-2027 by Level of Automation, Type, End-user and Region"
-    excerpt: "Dublin, Feb. 12, 2020 (GLOBE NEWSWIRE) -- The \"Global Self-Driving Car Market Demand Analysis & Opportunity Evaluation, 2019-2027\" report has been added to ResearchAndMarkets.com's offering. The United States is considered as the major hub for companies in autonomous vehicle development,"
-    publishedDateTime: 2020-02-12T12:55:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/02/g15309208/self-driving-car-market-trends-report-2019-2027-by-level-of-automation-type-end-user-and-region"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/15309208"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15309208"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 11
 
 secured: "hIJLL6kLG+QU24h/L2ChffJKKH+Yu+PLHBLhGub8q08OnSAHgd/SY5r2o54PBN8UPP5mdyt34RqmJQPqw8LmL6d/WJ5lhHjL4A/D1jkKZJW8R1EU9osE6IhxDu4dshFP+18HGW4+mds/VR9mBIzktcWY1y94HU7bcYbi9jSbXQOdRMttV0h6NEsFaBuAePqUx7LxRxHfIECDGGIhpDwTvP9GBR0COVR7Et5y8Kbf9MW4J2vAZLEYvdNkreIFiB/DqEH8g297ea9ppAg0nFSpdfnhqFsXahw3+HAvq03Nv6fXUANChYFr8m/1IoSYKGnz;RoAMzvvD+eqzGp5RH4yqNA=="
 ---

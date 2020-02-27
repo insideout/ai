@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-25T13:42:00Z
 webUrl: "https://www.newtimes.co.rw/daily/technology/local-ai-firm-builds-speech-recognition-for-kinyarwanda"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -50,6 +50,19 @@ related:
       - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
         width: 252
         height: 335
+  - title: "Speech recognition AI platform acquired"
+    excerpt: "Roybi Inc, the creator of the Roybi Robot—the world’s first AI-powered smart toy that teaches languages and basic STEM skills—has acquired KidSense.AI, the revolutionary technology in children’s embedded automatic speech recognition (ASR) and Edge-AI. KidSense.AI, which initially debuted in 2018 at TechCrunch Disrupt, utilizes the ..."
+    publishedDateTime: 2020-02-27T05:38:00Z
+    webUrl: "https://districtadministration.com/speech-recognition-ai-platform-acquired/"
+    type: article
+    provider:
+      name: District Administration Magazine
+      domain: districtadministration.com
+    quality: 54
+    images:
+      - url: "https://districtadministration.com/wp-content/themes/riskandinsurance/img/icons/icon-newsletter.png"
+        width: 300
+        height: 205
 
 secured: "OAvoAb255ATAfQuSATEG/k+A8JtPqW4uySJjyIKFDMo8p9lf75vwI9YA3gpflsorX+qVXw07odANPpPXCPPQFQhCrepV0/XqiLJYhUZBpx/3rDeJZyKZQ8kD4X396rF8f09XIryTbBXkCwUBQpqqVKE78qrDnSvHB2tGZnZ5K7UQQXp1UHqdbZ0b9vXjC7PQlQYCH7iS7ynY+SFLa0aqHwrdwAap4lNaAbHgI2C1xGOd62ko6HdbDrES2SCFgfVFK5yVBUjxXOIn25WUr4xhybqAFHwKjOM9KBEGG13H6b3O5ZvFvOm+p9JJxcj8EmS0;GUD+aoAxphy7vwMmxIZwcQ=="
 ---

@@ -39,36 +39,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2019/09/GettyImages-1079200304.jpg?w=1024"
         width: 1024
         height: 752
-  - title: "Deep Instinct raises $43 million for deep learning to thwart cyberattacks"
-    excerpt: "Deep Instinct has raised $43 million in venture capital as the company seeks to apply its deep learning technology to predicting and preventing increasingly sophisticated cyberattacks. The company says it has developed an “artificial deep neural network brain” which has the ability to rapidly learn about new forms of malware and ransomware."
-    publishedDateTime: 2020-02-12T13:00:00Z
-    webUrl: "https://venturebeat.com/2020/02/12/deep-instinct-raises-43-million-for-deep-learning-to-thwart-cyberattacks/"
-    ampWebUrl: "https://venturebeat.com/2020/02/12/deep-instinct-raises-43-million-for-deep-learning-to-thwart-cyberattacks/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/12/deep-instinct-raises-43-million-for-deep-learning-to-thwart-cyberattacks/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 103
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/02/protection_unlimited-e1581452823620.png?fit=1200%2C600&strip=all"
-        width: 1200
-        height: 600
-  - title: "Cybersecurity firm Deep Instinct raises $43 million"
-    excerpt: "U.S.-Israeli cybersecurity firm Deep Instinct has raised $43 million in late-stage funding to help expand its business globally, the company said on Wednesday. The round was led by Millennium New Horizons,"
-    publishedDateTime: 2020-02-12T13:07:00Z
-    webUrl: "https://www.reuters.com/article/cyber-deep-instinct-fundraising-idUSL8N2A5396"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL8N2A5396"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL8N2A5396"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 89
-    images:
-      - url: "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png"
-        width: 1200
-        height: 630
   - title: "Deep Instinct, The Deep Learning Cybersecurity Innovator, Raises $43 Million Series C Financing To Accelerate Growth"
     excerpt: "NEW YORK--(BUSINESS WIRE)--Deep Instinct, the first and only cybersecurity company to successfully apply end-to-end deep learning to predict, identify, and prevent cyberattacks, announced its $43 million Series C funding. The round was led by Millennium New Horizons, with participation from Unbound, the London-based investment firm founded by ..."
     publishedDateTime: 2020-02-12T13:36:00Z

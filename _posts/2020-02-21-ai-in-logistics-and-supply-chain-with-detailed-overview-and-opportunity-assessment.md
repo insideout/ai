@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-21T11:15:00Z
 webUrl: "https://www.marketwatch.com/press-release/ai-in-logistics-and-supply-chain-with-detailed-overview-and-opportunity-assessment-2020-02-21"
 type: article
 quality: 65
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -29,6 +29,19 @@ images:
     title: "AI in Logistics and Supply Chain With Detailed Overview and Opportunity Assessment"
 
 related:
+  - title: "IBM’s contribution to a more transparent future: blockchain for supply chains, trade, logistics and digital identity."
+    excerpt: "working with Artificial Intelligence — in the development of their world-famous IBM Watson system. Today, IBM takes the lead once more in its advancement of cutting-edge technologies such as 5G ..."
+    publishedDateTime: 2020-02-21T21:48:00Z
+    webUrl: "https://medium.com/@cassiopeiaservicesltd/ibms-contribution-to-a-more-transparent-future-blockchain-for-supply-chains-trade-logistics-3b7afea81b7f"
+    type: article
+    provider:
+      name: Medium
+      domain: medium.com
+    quality: 46
+    images:
+      - url: "https://miro.medium.com/max/652/1*n-2XcfdM3K02TLEEP7xXQQ.png"
+        width: 652
+        height: 482
   - title: "New Zealand’s supply chain leader Kotahi unlocks new opportunities with AI"
     excerpt: "This simply wouldn’t have been possible without Azure.” Working with over 50 exporters, importers, and industry partners toward a sustainable and efficient supply chain, Kotahi ensures that New Zealand remains competitive on the world stage. Acting on the insight that technology would inevitably disrupt the supply chain sector, the company ..."
     publishedDateTime: 2020-02-26T02:51:00Z

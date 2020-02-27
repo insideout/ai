@@ -42,19 +42,6 @@ related:
       - url: "https://images.idgesg.net/images/article/2017/08/oracle-cloud-on-building-100730618-large.jpg"
         width: 700
         height: 467
-  - title: "Oracle Announces Oracle Cloud Data Science Platform"
-    excerpt: "/PRNewswire/ -- Oracle today announced the availability of the Oracle Cloud Data Science Platform. At the core is Oracle Cloud Infrastructure Data"
-    publishedDateTime: 2020-02-12T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/oracle-announces-oracle-cloud-data-science-platform-301003588.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 24
-    images:
-      - url: "https://mma.prnewswire.com/media/467598/Oracle_Logo.jpg?p=facebook"
-        width: 2700
-        height: 1414
   - title: "RESTORE launches cloud-based skills platform for adult rehabilitation"
     excerpt: "RESTORE Skills has launched an interactive software product for adult rehabilitation patients that uses any webcam-equipped, Wi-Fi-enabled device as a therapy tool in the gym, at the bedside or at home post-discharge. RESTORE uses motion tracking, machine learning and artificial intelligence to reinforce motor, cognitive, social and attention ..."
     publishedDateTime: 2020-02-19T03:23:00Z

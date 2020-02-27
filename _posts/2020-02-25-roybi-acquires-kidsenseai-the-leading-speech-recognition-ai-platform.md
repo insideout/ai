@@ -50,6 +50,19 @@ related:
       - url: "https://news.elearninginside.com/wp-content/uploads/2019/07/vmisx2-n.jpg"
         width: 1280
         height: 853
+  - title: "Speech recognition AI platform acquired"
+    excerpt: "Roybi Inc, the creator of the Roybi Robot—the world’s first AI-powered smart toy that teaches languages and basic STEM skills—has acquired KidSense.AI, the revolutionary technology in children’s embedded automatic speech recognition (ASR) and Edge-AI. KidSense.AI, which initially debuted in 2018 at TechCrunch Disrupt, utilizes the ..."
+    publishedDateTime: 2020-02-27T05:38:00Z
+    webUrl: "https://districtadministration.com/speech-recognition-ai-platform-acquired/"
+    type: article
+    provider:
+      name: District Administration Magazine
+      domain: districtadministration.com
+    quality: 54
+    images:
+      - url: "https://districtadministration.com/wp-content/themes/riskandinsurance/img/icons/icon-newsletter.png"
+        width: 300
+        height: 205
 
 secured: "Ze1oYHQ40dij7mWSd6TeuNlf8ivIytkRdm0GX8kmbudh4SYS72IoGFDp9qkvh1tiyBhRZx9nymMUWNz0XHGHtCSsZIVApgrLQ01xhgCDwawZtxvNhuZK+2g18RQRtxuwBhxf1WSYaTbyqjdxvIcn2SuwPzb9Gj28PE/lWgHG+lIhD51JvUuDFvWxHdHBIPETRyA7wvvmVg4F9I0sABRyzvtqptA+4MzICpYDAT2+bFrqriQog52IHNoHixQI8Tu60BFlfEA5LWYVuWPrszXYzdFkFXzr9ICKKURuHeGdnLSE1EnJyZhxEnqZYz0Qn7bk;C6wXRR1SWjsl1Kxzenh/AA=="
 ---

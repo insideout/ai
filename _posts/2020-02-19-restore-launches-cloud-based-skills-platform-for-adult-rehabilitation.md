@@ -48,19 +48,6 @@ related:
       - url: "https://regmedia.co.uk/2017/04/03/cloud-jump.jpg"
         width: 648
         height: 348
-  - title: "Oracle Announces Oracle Cloud Data Science Platform"
-    excerpt: "/PRNewswire/ -- Oracle today announced the availability of the Oracle Cloud Data Science Platform. At the core is Oracle Cloud Infrastructure Data"
-    publishedDateTime: 2020-02-12T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/oracle-announces-oracle-cloud-data-science-platform-301003588.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 24
-    images:
-      - url: "https://mma.prnewswire.com/media/467598/Oracle_Logo.jpg?p=facebook"
-        width: 2700
-        height: 1414
 
 secured: "uSqkwArICCJ7jpOtE1GN8Pv7XVGEhHYKk5Sa8t2qVcE8Pm31AapI2DtTwJBFOgEvNsYSIpE5bfXcq9S/Y/y7nOFLQU5W74kZg6e3GPu4hvjHmPAgb6Gk61m3h7YDNa6tvjLowoCGVzpybP8Yj/ETGe2BypBggcXzSMeBQk1PH4tRO631gtIXmZhQE+d4FzIz65Oxr3yep27WT/Qw1TyO9DESnCDL4iLEchNFqTuaZjTWZmNCF09cEWvAxU0sUGppeBcSLGgUn2aF8P86mjzmCtnx+Ii7Dw8+HM87PPk0QP0E42xPaGCD3H8X1VmwkHrt;cxnLmBijykAzbB4nHCAmcw=="
 ---

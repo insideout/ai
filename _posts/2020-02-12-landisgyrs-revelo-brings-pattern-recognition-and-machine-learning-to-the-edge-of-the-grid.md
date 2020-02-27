@@ -92,6 +92,19 @@ related:
       name: Medium
       domain: medium.com
     quality: 49
+  - title: "What are AutoML Function and How to setup Auto Ml using the dataset of Kaggle and Cloning Python notebook from Github"
+    excerpt: "AutoML Vision helps developers with limited ML expertise to train high-quality image recognition models. Once you upload images to the AutoML UI, you can train a model that will be immediately ..."
+    publishedDateTime: 2020-02-17T13:39:00Z
+    webUrl: "https://medium.com/@mayankchourasia2/what-are-automl-function-and-how-to-setup-auto-ml-using-the-dataset-of-kaggle-and-cloning-python-72ee4c512d3d"
+    type: article
+    provider:
+      name: Medium
+      domain: medium.com
+    quality: 46
+    images:
+      - url: "https://miro.medium.com/max/628/1*pUpswFgY8-esvr06DTc2xQ.png"
+        width: 628
+        height: 352
   - title: "Incorrect Pronunciation Detection in eLearning using Deep Learning"
     excerpt: "At a high level, the idea is to monitor pronunciation of end-user, perform an analysis on it and feed the analysis back to them so that they can work on it to improve and also record it for deep learning. This can be achieved with an add-on or separate system that enables students/user to improve their pronunciation skills, not limited to ..."
     publishedDateTime: 2020-02-13T19:57:00Z
@@ -105,19 +118,6 @@ related:
       - url: "http://share.opsy.st/5e45a8d6cadb7-thumbnail_Incorrect+Pronunciation+Detection.jpg"
         width: 1280
         height: 763
-  - title: "An ultra-compact particle size analyser using a CMOS image sensor and machine learning"
-    excerpt: "In this paper, we introduce the concept of a new particle size analyser in a collimated beam configuration using a consumer electronic camera and machine learning. The key novelty is a small form factor angular spatial filter that allows for the collection of light scattered by the particles up to predefined discrete angles. The filter is ..."
-    publishedDateTime: 2020-02-12T12:55:00Z
-    webUrl: "https://www.nature.com/articles/s41377-020-0255-6"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 31
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41377-020-0255-6/MediaObjects/41377_2020_255_Fig1_HTML.png"
-        width: 685
-        height: 382
   - title: "Using Transfer Learning to Overcome the Barriers Facing Machine Learning in Materials Science"
     excerpt: "Machine learning’s ability to perform intellectually demanding tasks across various fields, materials science included, has caused it to receive considerable attention. Many believe that it could be used to unlock major time and cost savings in the development of new materials. The growing demand for the use of machine learning to derive fast ..."
     publishedDateTime: 2020-02-16T00:03:00Z
