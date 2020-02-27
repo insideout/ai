@@ -54,6 +54,19 @@ related:
       - url: "https://cdni.rt.com/files/2020.02/xxl/5e54392385f5404ca641795c.jpg"
         width: 1240
         height: 697
+  - title: "Pentagon adopts new ethical principles for using AI in war"
+    excerpt: "While the Pentagon acknowledged that AI “raises new ethical ambiguities and risks,” the new principles fall short of stronger restrictions favored by arms control advocates. “I worry that the principles are a bit of an ethics-washing project,” said Lucy Suchman, an anthropologist who studies the role of AI in warfare. “The word ..."
+    publishedDateTime: 2020-02-27T02:15:00Z
+    webUrl: "https://triblive.com/news/world/pentagon-adopts-new-ethical-principles-for-using-ai-in-war/"
+    type: article
+    provider:
+      name: TribLIVE.com
+      domain: triblive.com
+    quality: 54
+    images:
+      - url: "https://triblive.com/wp-content/uploads/2020/02/2377266_web1_2377266-5a2ee9d1ab2546ab8f055f25d1597576.jpg"
+        width: 640
+        height: 427
 
 secured: "GTKAzpfYtuNiFUhcq7HpjV77AxJiIE6ZhwJCGJpmwM3TGfkEI/S7/2Jr3AIdYO0/HPd9DqnFZchWfQxk6D3FJxJK/38MFTrlRWT6LFOUrUmyobuovA7gMGI/OIlfPvli8KekMVkCzRHoYOIvPVtDgKjyZxgu6J8Z8ZpQScOrbfpoUn9a8rw/mkOG+T7F/W4/GmOD44gWsaH32XT17FcLa1KLaOdq+zozNLgaoE5xJu5JGPUtpOiLq0HJJ8xtST2FrxBy4ntNXTIt2yWGf6B6c4J2VxYrsrVfReVMNBu47gHe9tTvwNPJymJU1INFotiLL8aAuZSVlNH8mF+m9nayqgHZHkHuPNCfW/xdY5bQKsaqd494+fBdzrkilnwMKGfQ1Gww2T6/d9BQ78TJFDrjr56Yqld+hP/4mlR9sZTZPi52ydV0me1gGzVM9zu30k4puaFDcR6Urz/CgJDlL8Wsff98RGrL68ve8g8aRd1C+dw=;OCBN40JKNYi/GRmCh9UjxA=="
 ---

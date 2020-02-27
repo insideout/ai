@@ -48,15 +48,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 40
-  - title: "RPA and AI in Banking"
-    excerpt: "Some of the key players operating in this market include: Cognizant, Capgemini, Accenture, Fintech Singapore, The Lab Consulting, UiPath, iRobot, Robogals The report provides a basic overview of the industry including definitions and classifications. The RPA and AI in Banking Market analysis is provided for the international markets including ..."
-    publishedDateTime: 2020-02-25T14:55:00Z
-    webUrl: "https://www.openpr.com/news/1944313/attractive-market-opportunities-in-the-rpa-and-ai-in-banking"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 34
 
 secured: "OI0+q9GkaZEWpAodpBpB7eVnMcsCVKOdx+kZ/zapno3iVLy4YknvvdDF7nH5GkKBxHdjiT1XOI0BB5KBrbKJeb7aOQnOe3LgH2YtdO4dlofy7s6965Hr4aFF0qpe2YkxaPxb7niM2WEAkXfSXgfYgc2uecVQ+dkkUqOYw1REIO4/WkR+YJjJ4NmrceiuID9ZqfQqGD2aFzV2gKKfLX4+eqEWRz4TtMrWHXzSTv+VHoDWnS6U7+LJz+bRdghP0gMMqATSL61CZKEFmPeJD3J+7mfoHU0pMT3RsXnpCdcicr4H234fzsAwdBQszwJdWwJ8sCjPtOxzB8Tt8SZP7/oy37S8/K7KE9s00sf6e02YvtQnJ17AHG50e0jFLuqgFH/2X7N6EJqWSzHSv8DjgZxVMc26f4jnu1EnkLfJpK1Bu245kUFfdEF6DZpzDpFA7JSvy829LTKHNvIx8WZ428thVFMcSoddUQTkyK7xdtDE23c=;R6TLtm2NWZym6mqsb01Uvw=="
 ---

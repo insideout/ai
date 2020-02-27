@@ -26,19 +26,6 @@ images:
     title: "Microsoft for Startups Now Offers Participants GitHub Enterprise and Power Platform Access"
 
 related:
-  - title: "An Enterprise Formula for AI Success"
-    excerpt: "From TensorFlow to Python, Kafka to PyTorch, the we’re in the midst of an explosion in diversity of data science and big data toolchains. However, when it comes to putting these toolchains together and building real-world AI applications, regular ..."
-    publishedDateTime: 2020-02-11T00:00:00Z
-    webUrl: "https://www.datanami.com/2020/02/11/an-enterprise-formula-for-ai-success/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 39
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/02/robot_ai_shutterstock_Phonlamai-Photo.jpg"
-        width: 1000
-        height: 667
   - title: "Microsoft and Genesys expand partnership to help enterprises seize the power of the cloud for better customer experiences"
     excerpt: "One of the biggest challenges is connecting the details of every interaction across all channels to ensure each customer has a seamless experience,” said Kate Johnson, president, Microsoft U.S. “By leveraging Microsoft’s Azure cloud and AI technologies, Genesys is helping enterprises create a seamless customer journey with Microsoft’s ..."
     publishedDateTime: 2020-02-12T20:33:00Z

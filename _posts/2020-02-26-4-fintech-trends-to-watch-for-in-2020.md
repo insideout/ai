@@ -20,58 +20,69 @@ topics:
   - AI in Finance
 
 related:
-  - title: "10 robotics startups to watch in 2020"
-    excerpt: "Running a robotics startup is no easy task. Yet, we are always amazed by the number of robotics startups ... Reason to watch: Covariant is building AI that it calls the “Covariant Brain” to make robots smarter. Covariant was founded in 2017, but it came out of stealth mode in January 2020, announcing that its first application is piece ..."
-    publishedDateTime: 2020-02-19T20:13:00Z
-    webUrl: "https://www.therobotreport.com/robotics-startups-to-watch-2020/"
+  - title: "5 AI And Analytics Trends Marketers And Brands Should Be Investing In"
+    excerpt: "Why analytics and AI are such powerful tools for brands and organizations and what are the key focus areas that these companies should have for the coming year as analytics and AI continue to be critical to connecting with customers and improving operations."
+    publishedDateTime: 2020-02-27T02:25:00Z
+    webUrl: "https://www.forbes.com/sites/danielnewman/2020/02/26/5-ai-and-analytics-trends-marketers-and-brands-should-be-investing-in/"
+    ampWebUrl: "https://www.forbes.com/sites/danielnewman/2020/02/26/5-ai-and-analytics-trends-marketers-and-brands-should-be-investing-in/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2020/02/26/5-ai-and-analytics-trends-marketers-and-brands-should-be-investing-in/amp/"
     type: article
     provider:
-      name: The Robot Report
-      domain: therobotreport.com
-    quality: 84
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://www.therobotreport.com/wp-content/uploads/2019/06/robust-ai.jpeg"
-        width: 972
-        height: 745
-  - title: "6 Robotics Startups Boost Efficiency"
-    excerpt: "Scaled Robotics The company has developed mobile 3D printing robots that bring about automation in construction sites. According to an article in Silicon Canals, the startup reduces material consumption by 75 percent. The company also deploys artificial intelligence within their robotics products. Mobbot intends to revolutionize the ..."
-    publishedDateTime: 2020-02-26T17:18:00Z
-    webUrl: "https://www.constructionequipment.com/6-robotics-startups-boost-efficiency"
-    ampWebUrl: "https://www.constructionequipment.com/6-robotics-startups-boost-efficiency?amp"
-    cdnAmpWebUrl: "https://www-constructionequipment-com.cdn.ampproject.org/c/s/www.constructionequipment.com/6-robotics-startups-boost-efficiency?amp"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1097297162%2F0x0.jpg%3FcropX1%3D35%26cropX2%3D4858%26cropY1%3D0%26cropY2%3D2713"
+        width: 1200
+        height: 675
+  - title: "Machine Learning in Retail Market 2020-24 Ongoing Trends Analysis by IBM, Microsoft, Amazon Web Services and Oracle"
+    excerpt: "The Global Machine Learning in Retail Market 2020 research report provides in-depth analysis by Top Players, Geography, End users, Applications, Competitor analysis, Sales, Revenue, Price, Gross Margin,"
+    publishedDateTime: 2020-02-25T09:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-retail-market-2020-24-ongoing-trends-analysis-by-ibm-microsoft-amazon-web-services-and-oracle-2020-02-25"
     type: article
     provider:
-      name: Construction Equipment
-      domain: constructionequipment.com
-    quality: 74
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 62
     images:
-      - url: "https://www.constructionequipment.com/sites/ce/files/AdobeStock_220320515.jpeg"
-        width: 900
-        height: 600
-  - title: "This Bengaluru-based startup wants to be ‘Apple’ of robotics in India"
-    excerpt: "You probably may have seen or read about the indigenous ‘Mitra’ robot. The humanoid became an overnight media sensation when it made an appearance at the 2017’s Global Entrepreneur Summit which had visitors like Prime Minister Narendra Modi and Advisor to US President Donald Trump Ivanka Trump."
-    publishedDateTime: 2020-02-16T15:15:00Z
-    webUrl: "https://www.hindustantimes.com/tech/this-bengaluru-based-startup-wants-to-be-apple-of-robotics-in-india/story-iAglhPUW6W4HpwfEbsGxeM.html"
-    ampWebUrl: "https://m.hindustantimes.com/tech/this-bengaluru-based-startup-wants-to-be-apple-of-robotics-in-india/story-iAglhPUW6W4HpwfEbsGxeM_amp.html"
-    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/this-bengaluru-based-startup-wants-to-be-apple-of-robotics-in-india/story-iAglhPUW6W4HpwfEbsGxeM_amp.html"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence in Healthcare Market 2020| Latest Report Analysis, Global Trends, Share, Opportunities And Forecast To 2026"
+    excerpt: "Artificial Intelligence in Healthcare Market report offers an in-depth analysis of various factors promoting and demoting the growth of the market during the mentioned forecast period. The information provided in the report is gathered from primary and secondary research methods The rising demand for time-efficient artificial intelligence systems for resolving complex medical conditions is driving the global “artificial intelligence in healthcare” market says Fortune business Insights in a report,"
+    publishedDateTime: 2020-02-21T12:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2020-latest-report-analysis-global-trends-share-opportunities-and-forecast-to-2026-2020-02-21"
     type: article
     provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 56
-  - title: "Startup develops robots to clean China's curtain walls"
-    excerpt: "BEIJING -- Chinese startup Yingxing Zhineng is hoping to expand its curtain wall-cleaning business overseas four years after developing robots using artificial intelligence to do the job. Spotting a gap in the market, the company started building and developing the robots in 2016. Curtain walls, which are outer coverings of buildings that are ..."
-    publishedDateTime: 2020-02-20T18:35:00Z
-    webUrl: "https://asia.nikkei.com/Business/Startups/Startup-develops-robots-to-clean-China-s-curtain-walls"
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "RPA and AI in Banking"
+    excerpt: "Some of the key players operating in this market include: Cognizant, Capgemini, Accenture, Fintech Singapore, The Lab Consulting, UiPath, iRobot, Robogals The report provides a basic overview of the industry including definitions and classifications. The RPA and AI in Banking Market analysis is provided for the international markets including ..."
+    publishedDateTime: 2020-02-25T14:55:00Z
+    webUrl: "https://www.openpr.com/news/1944313/attractive-market-opportunities-in-the-rpa-and-ai-in-banking"
     type: article
     provider:
-      name: NIKKEI
-      domain: nikkei.com
-    quality: 54
+      name: openpr.com
+      domain: openpr.com
+    quality: 34
+  - title: "Global Machine Learning Market Analysis, Trends, and Forecasts 2019-2025 - ResearchAndMarkets.com"
+    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Machine Learning - Market Analysis, Trends, and Forecasts\" report has been added to ResearchAndMarkets.com's offering. Machine Learning market worldwide is projected to grow by US$20.8 Billion, driven by a compounded growth of 41.7%. BFSI, one of the segments analyzed and sized in this study, displays the potential ..."
+    publishedDateTime: 2020-02-24T14:03:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200224005571/en/Global-Machine-Learning-Market-Analysis-Trends-Forecasts"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 26
     images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fs3-ap-northeast-1.amazonaws.com%2Fpsh-ex-ftnikkei-3937bb4%2Fimages%2F1%2F1%2F0%2F4%2F24974011-1-eng-GB%2F20200213%20Yingxing%20Zhineng%20.jpeg?source=nar-cms&width=1024&height=512&fit=cover&gravity=faces"
-        width: 1024
-        height: 512
+      - url: "https://mms.businesswire.com/media/20200224005571/en/371054/23/ResearchAndMarkets_800px.jpg"
+        width: 1200
+        height: 627
 
 secured: "Z76tzD7fl5uIF+ndi/tOAjG+4largpB6Vhw3g66Alt7xQKZjBSCn4X0g/D05Z8RXvQaNTKYKjphCX4ygpJ3kKx0dZpRsuNoSyjX+omC5mXGKI3xJ/QgpZ+aOxADXQapnBBQo4cWsOeDuvaWildWnPZSviCZOzb48HDvEBaSEscvnGqmSvroVZ75ICbymnx2/Y4uTxejgetTbFgSxeHAg3vnN6njDKJK3YLDmfx4Q+PIB2N7xg5hP4p1pdAzsjRmOjFz0rEfre4Vc4amzAbbSt9XDVPVOaqW3MQlHGWVWI9zRGrieC56CjlsmIc9VwiNE55ZfSpPLFw87ZW0CmCqZ5Ke4JURdGFRec2zbWR+OErXtNqeqwkRyqqK44RfpP68npc8tWDEuJuYXRexDSpp5zI/3VF02zvk/U2raPLyDdH7QEO82OSinctuGlimNjtLByxY/rgBJb2nuCxl1EVUVAizFx5AISVF/RWS+keyojs4=;hd86lwehF5Tr95jGuGxXuQ=="
 ---

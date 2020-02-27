@@ -8,7 +8,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/02/17/automated-facial-recognitio
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/17/automated-facial-recognition-breaches-gdpr-says-eu-digital-chief/amp/"
 type: article
 quality: 189
-heat: 449
+heat: 439
 published: true
 
 provider:
@@ -363,19 +363,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/02/11145627/sensetime-facial-biometrics-for-masked-faces.jpg"
         width: 2000
         height: 1333
-  - title: "Study on Digital China in 2020 - The Government is Fostering Key Technologies Like 5G and Facial Recognition - ResearchAndMarkets.com"
-    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Digital China - The Other Digital Superpower\" report has been added to ResearchAndMarkets.com's offering. The stunning emergence, over the past decade, of China's digital economic miracle, is transforming the country - and its domestic and global position. Once a follower, digital China is now a world leader in ..."
-    publishedDateTime: 2020-02-12T10:04:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200212005344/en/Study-Digital-China-2020---Government-Fostering"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 8
-    images:
-      - url: "https://mms.businesswire.com/media/20200212005344/en/371054/23/ResearchAndMarkets_800px.jpg"
-        width: 1200
-        height: 627
 
 secured: "nE9i1rVI4CSGOMb7HQpGI9eFhneMrkpdympp17f4xfPFLS//0X5mNf2Gv7fUNfCKa0nYs51w0K02zMwaVexqsJxcUj2tJWxz6Vyn/0DyGM1w8uOHjqMLTRIxgSZ3fyPJoL79EjdxPKXebaEaTQ63+/Vyoqmc6qkitypdDCMpb7VLY0M6MOskJYhK++xO5tGSfI6o8ZGgmzRKDDe4SHDcFres3YMsisZ6T8FQzL3oBH9tsX1BFe84VHT36PFTL7oAcvvg2FIqs0GJSkFIJUJsEFlN058t7Z7WB2yOWTvS9KyOUD0I3FQ+oaj0ayzqAgGXMIBH7HwE2xqFlyGw0i6QU/Z7FzGAUyB5YZD9VTwPMTd8d/x2B7Pj1wEDyJO51KSYUaNZ/b3AyX0PvZuPNs6JiK7u6ohIsUrUy5zHm/PLvqmdcbWVs7wXMUxr4vPxZBvqpwStEHlzBLUlyKezsiWbn8UpKY9eKP8EmcqBBZyjFMqQacU81GON7+auz3nql4Rz;w4l852Jf54Hpl9+W+Gx+jg=="
 ---

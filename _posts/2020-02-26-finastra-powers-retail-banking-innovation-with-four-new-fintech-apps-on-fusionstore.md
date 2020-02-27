@@ -23,6 +23,6 @@ images:
     height: 634
     title: "Finastra Powers Retail Banking Innovation With Four New Fintech Apps on FusionStore"
 
-secured: "fTZDwVBlB1/u1HhjqgJvJ2ZFgGVGvfvgIjbTb1qFSgtO9Heth06VDXgYdZngbsEWYMHTxH65LHL+r3v+YIUZ4Aph06PDh0zihQpCkI4L8CnVGviXsbHUdhv3HAZZ0CuSeC/VAOwUWFNOh/QiVKgP6ZTdNM/doXVY9+ph17wEN1eeFmHvuMcOJ6PEJdkFJ6+MRHjh8leag6CU0FKCUP8aAab7UAUasbiOkhrNXkwTmvBpBEhuBPjJM/1f4pYwbi0qUH4x+6f3W29KyF67HTssmvQRNvs9dCiJevrb5rQ+kBsXJCvj9fw/5WhjcxwF4nW+;+JeK7QAmlY96TjibUMbItg=="
+secured: "K5xFzdpSrUAZzT08kX63Dn22eoNXm8aP4rnj3TfCWWYH/91XtXd5s9o2kdGY16TXM7omASOmaO6hChrmhw+X/tgAGu5a4uKo6AdIuR/YU6VO9XIGB9lB1LGonXb16zjOV/dYVeP4a6/dtGw0/i6wOOvomxKeNDHz74T7Nf6GSH+uz8hgxbpqht9itNaCWiAlyewYHg9q8zf8OjgCOWq/4E8iJQ+fpkCuF0w/h+YjlBecx+uc1ZlmUUdJHiqz94P1MawK7I1BCFsNByBOkDYs8R9zQHYHavvVWXX2NChrNxU9AZI2ZEFbh4JfND3p2Wnbf4BYvVnUS+Zt//qsRQgavxfBNqOsWxlGpvwVG449yqEhFEthB+RFpKOhL4I6A4c8jFNzXqh9p0cjYWgAR7UwQzhY/hHBd30JhwDQ2xNHkHQXHHYeabRBjcW1LOk/qsr9pFJfXxiLJiOL5L0N4GUYIubLXGGmR6fJBR2oDuGhVXA=;LFB080mg8JDin8BYEnLy8Q=="
 ---
 

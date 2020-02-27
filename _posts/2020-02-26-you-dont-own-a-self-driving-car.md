@@ -48,6 +48,17 @@ related:
       name: The Financial Express
       domain: financialexpress.com
     quality: 24
+  - title: "MIT’s ground-penetrating radar allows self-driving cars to see beneath"
+    excerpt: "Self-driving cars with a person sitting behind the wheel is already a reality. Research is being carried out to improve the technology but self-driving cars find it hard during bad weather. Now, Massachusetts Institute of Technology (MIT) has come up with tech that can help solve this problem."
+    publishedDateTime: 2020-02-27T02:29:00Z
+    webUrl: "https://www.hindustantimes.com/tech/mit-s-ground-penetrating-radar-allows-self-driving-cars-to-see-beneath/story-C2cM5tDftFnyrr7HsgXe4O.html"
+    ampWebUrl: "https://m.hindustantimes.com/tech/mit-s-ground-penetrating-radar-allows-self-driving-cars-to-see-beneath/story-C2cM5tDftFnyrr7HsgXe4O_amp.html"
+    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/mit-s-ground-penetrating-radar-allows-self-driving-cars-to-see-beneath/story-C2cM5tDftFnyrr7HsgXe4O_amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 24
 
 secured: "9SBJY4EKdKD7qGLpvHjHsjCHltVPfUYyG09WNU/imQLRByLMZumLb9PQvbuLTye6y+we1lPadbPF3B2ULW+tjd2TBvb776Me+lBnE3s5uv0TDFQYDjMIj5yQ/cZmd5UhzGRp2Umxi4nyPIRGjndIU3zcEenML4uu/z2T4+F9p/+al9Ogru2fdT7vjrQ9OCRqokk5Xe7LHpALanGs/8A2ififvBj2LRoaRDLSmyo36Ub5KKy2s5+mNXFsNULu2Puyi2OIG8dbRcUh4hpSgnR40LVPuo2WthX5rjqX6+cLMz0Hmu4EmIHIxH88SbJ5OBEoZedvqNbirqHMsH91vV/92+4+Cr1XdSLrd6tvGIGbo4WVPSD8u0JO69HayNJ5i8Kr+c1vetwIkL3O++/1+HWeBuPHFhCmj9dpm20hS0mCC33AZ+HbR7rOMDzNdUEpfDWia0CQxf7VSfP+tZjW1HepgY22s9K7XWHmDP9nGp6UCP4=;4XdzmY8c2t5e8Cqn2Atuzg=="
 ---

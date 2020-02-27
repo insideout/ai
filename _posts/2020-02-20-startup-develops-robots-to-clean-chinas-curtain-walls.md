@@ -63,17 +63,6 @@ related:
       name: Hindustan Times
       domain: hindustantimes.com
     quality: 56
-  - title: "4 Fintech Trends to Watch For in 2020"
-    excerpt: "Their disruptive influence could ultimately be similar to the impact of low-cost operators on the airline industry. Robo advisors and AI for improved CX Fintech could start truly shaping the trading and investment segment in the coming years. In 2020 and onwards, more low-cost stock trading and investment offerings could be made available by ..."
-    publishedDateTime: 2020-02-26T16:33:00Z
-    webUrl: "https://www.business2community.com/finance/4-fintech-trends-to-watch-for-in-2020-02287132"
-    ampWebUrl: "https://www.business2community.com/finance/4-fintech-trends-to-watch-for-in-2020-02287132/amp"
-    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/finance/4-fintech-trends-to-watch-for-in-2020-02287132/amp"
-    type: article
-    provider:
-      name: Business 2 Community
-      domain: business2community.com
-    quality: 24
 
 secured: "HtSJCTybDkCKp0eaHUtZ87b+P8u6rRbaU+WvbU8avfyoEKO294rzuto0wOqNBUia/1PdI7vuks8iBpRIwptCnOqVb0HEu8vyYUW6rCJp5ZYWJiH0P2MYKuU52ZO0gyhXfbW8m2uTMvMpJK6Gj4ksRHA4KZ2f/EnF3+t90xGjyrsc+5BK/iSoY0v8IBrS8BTjXKwY9bzi+PmdZ/X7MM2ALCn5aynCJZoWFqX4ZZwJOGG0a/ojQ4rMmPwl+Z0OlH9rw+eIIdPJz9GVRxZQZqVA+VkJ2FAE5kqev7T0saky5WHdszLEGjbLsQVWHXFGGQ7LtS6WoKY4SU5CpSJvs/uXV2tB1Mkl3SlATwc4KJrVdPPfjzpOwuWpN+xmu0Mj+ToXueZ6tPSIARiV1AoPllOG9zwpuA+hkAfTpyspRrQlMiHMHSLAyhgOpIPoaJTxxlOvfoixABAFxzjXbvCu7wc1SFSrCiEqc1yAND5/i0mbSRs=;VNqjZ8dYGjrwnaRXyUX/nw=="
 ---

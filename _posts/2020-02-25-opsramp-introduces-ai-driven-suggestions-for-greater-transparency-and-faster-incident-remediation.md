@@ -1,27 +1,27 @@
 ---
 category: news
 title: "OpsRamp Introduces AI-Driven Suggestions for Greater Transparency and Faster Incident Remediation"
-excerpt: "The OpsRamp Winter 2020 Release also introduces 19 new cloud monitoring integrations for Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP), along with dynamic topology maps for Azure and GCP. Highlights of the Winter 2020 Release include: AIOps: OpsQ is OpsRamp's intelligent event management, alert correlation ..."
-publishedDateTime: 2020-02-25T08:00:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/opsramp-introduces-ai-driven-suggestions-for-greater-transparency-and-faster-incident-remediation-1028934454"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/OpsRamp-Introduces-AI-Driven-Suggestions-for-Greater-Transparency-and-Faster-Incident-Remediation-1028934454"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/OpsRamp-Introduces-AI-Driven-Suggestions-for-Greater-Transparency-and-Faster-Incident-Remediation-1028934454"
+excerpt: "In addition to AWS cloud topology maps, OpsRamp now offers automated topology discovery and mapping for Azure and GCP. IT teams can apply cloud topology maps to analyze the impact of changes in their multi-cloud environments. Cloud topology is also applied in OpsQ’s event correlation engine to increase the accuracy of machine learning models."
+publishedDateTime: 2020-02-25T15:48:00Z
+webUrl: "https://www.tmcnet.com/usubmit/-opsramp-introduces-ai-driven-suggestions-greater-transparency-faster-/2020/02/25/9103398.htm"
 type: article
-quality: 56
-heat: 76
-published: true
+quality: 26
+heat: -1
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
   - Microsoft AI
+
+images:
+  - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
+    width: 252
+    height: 335
+    title: "OpsRamp Introduces AI-Driven Suggestions for Greater Transparency and Faster Incident Remediation"
 
 related:
   - title: "OpsRamp Introduces AI-Driven Suggestions"
@@ -37,20 +37,7 @@ related:
       - url: "https://res.infoq.com/news/2020/02/opsramp-ai-driven-suggestions/en/headerimage/OpsRamp-AI-Driven-Suggestions-1582702993762.jpg"
         width: 1200
         height: 630
-  - title: "CyberX Announces Integration with Microsoft Azure Security Center for IoT, Joins Microsoft Intelligent Security Association"
-    excerpt: "According to Michal Braverman-Blumenstyk, CTO and GM, Cloud and AI Security Division at Microsoft Corp.: “CyberX’s IoT security platform and integration with the Microsoft Azure Security Center for IoT enables customers to go further and faster with IoT innovations that drive new revenue streams and operational efficiencies — without comp ..."
-    publishedDateTime: 2020-02-20T18:16:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200220005507/en/CyberX-Announces-Integration-Microsoft-Azure-Security-Center"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 28
-    images:
-      - url: "https://mms.businesswire.com/media/20200220005507/en/774439/23/cyberx.jpg"
-        width: 1200
-        height: 627
 
-secured: "OuNJqxyQrqaqd58rlkOudg6nBmVuwbXH2YcY8t3RoIkdXS5PdXG0s3pENVlEpui3YMdXMne30t50PQTaEvRwBGoDt8Z5ZqR8btMwOTHz0ZYcxpLB0rVtpkLaNyNVtTd1sEJfKPrXxMwqeC8VefDS575TGmXZ2Upv+4enJb8CbMCXsqGJAphJPvujC4XkFAwnmOKzJhSUxqGyZskrkz/x1hfWSTQUO8Q3NUHwP93L9T6GLSPSCdYmUt6kwACbKQ2xrH/BUmrQJmsNYi9A60eZXzmCmYQsFyrqURTs3YYUXhmOI4D8b1uAtAeLaLWGkIWo;Hv6+SEu4O5P4Vzxb45cY/Q=="
+secured: "ZNXKE+qOWx0FmzZPiaGBBk45mGezue0R3W45NM5YjRDf6sYQRHjKkU7GPJY5MC8a/+dtLcjH4ajURfa/to699LV3pdp+CE3T745qqxmkzgs977M2bEs0/QCGmBzcjLEgFyd/xrZePycS5EmB8zfsm/jlx85b9rhsamgG9LNu9mu0Taa7WhXsKHN2LwURUrqynLjU6vth7+ui+GkaffRkbxHDEJsK7VzCRUErj3MGApHrYJsl0i3D1Caj2sHyiMnp5VZoiRAT/zKnMD0kANL7CGyWJd8YHiPeYos1YSF8nB20JHz9LZWpMrvKB+jX3NeO;zAdBM+oe+aI6c9JJISRbdQ=="
 ---
 

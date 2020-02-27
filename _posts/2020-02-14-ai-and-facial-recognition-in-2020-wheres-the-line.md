@@ -360,19 +360,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/02/11145627/sensetime-facial-biometrics-for-masked-faces.jpg"
         width: 2000
         height: 1333
-  - title: "Study on Digital China in 2020 - The Government is Fostering Key Technologies Like 5G and Facial Recognition - ResearchAndMarkets.com"
-    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Digital China - The Other Digital Superpower\" report has been added to ResearchAndMarkets.com's offering. The stunning emergence, over the past decade, of China's digital economic miracle, is transforming the country - and its domestic and global position. Once a follower, digital China is now a world leader in ..."
-    publishedDateTime: 2020-02-12T10:04:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200212005344/en/Study-Digital-China-2020---Government-Fostering"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 8
-    images:
-      - url: "https://mms.businesswire.com/media/20200212005344/en/371054/23/ResearchAndMarkets_800px.jpg"
-        width: 1200
-        height: 627
 
 secured: "wvNhw4kP1KLDioKE6tGmKEkd2x+9qjOE98qQRNI9BYSWrgChUDX50LNEF+Twci0/Ge1bhxYK3NqNz6Q7PvvOgrcVTgT9cLTYJr22v1pZLg8zFz47cMmYg3vUz9BIHUsTa+5xR0LrSu7npPkzzmdLA0Ja9oKBd1bd9YObQZN9hsz6/bq6B7aYioW3nWMcAFeISusINVp9ooFLBsEVfZ0+8TZJUmcvnjfXP06fva5WlD4rGhlMtGjHFCnDB1UxE1dSbwAG0dc1XsNFAK0dIJ5Ku8LT24E1czebVX14uxVpQ45rfYCFkRjjkZEbBJABdbj3LXxFNIjX6yRbYKzXr38lfqjwDhlJWvJigzJBXOM/pm5pUEduKJKQtwqSzSpkLGvkRr5YA5LAE/WIBpYnRUdgB0NbkYzwQOOPzEUkW+PPvq534utkR8j98B7J7A1HLTwE/YVNundxTG5Zu6Z1jHbW/FapJ0d6RGyceUhSTokQoEU=;W0caJKJ6EZXfdu5X45+JMw=="
 ---

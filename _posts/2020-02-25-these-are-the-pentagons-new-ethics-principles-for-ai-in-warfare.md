@@ -8,7 +8,7 @@ ampWebUrl: "https://futurism.com/pentagon-ai-ethics-dod-warfare/amp"
 cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/pentagon-ai-ethics-dod-warfare/amp"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -54,6 +54,19 @@ related:
       - url: "https://cdni.rt.com/files/2020.02/xxl/5e54392385f5404ca641795c.jpg"
         width: 1240
         height: 697
+  - title: "Pentagon adopts new ethical principles for using AI in war"
+    excerpt: "While the Pentagon acknowledged that AI “raises new ethical ambiguities and risks,” the new principles fall short of stronger restrictions favored by arms control advocates. “I worry that the principles are a bit of an ethics-washing project,” said Lucy Suchman, an anthropologist who studies the role of AI in warfare. “The word ..."
+    publishedDateTime: 2020-02-27T02:15:00Z
+    webUrl: "https://triblive.com/news/world/pentagon-adopts-new-ethical-principles-for-using-ai-in-war/"
+    type: article
+    provider:
+      name: TribLIVE.com
+      domain: triblive.com
+    quality: 54
+    images:
+      - url: "https://triblive.com/wp-content/uploads/2020/02/2377266_web1_2377266-5a2ee9d1ab2546ab8f055f25d1597576.jpg"
+        width: 640
+        height: 427
 
 secured: "Y4KRs8f13W23SSNhbXtqmMZT3Ck1kR2Pm8u6bXNwcW2ZNp1bWIFVJv5rPSzza6p3segQAN2pIRmb8PIxlt3bt1UEA9gnXgLjZPTKDPoGjGm5KV/iMwU42pLyQ5IQeEJK6sEU4glKh46FL9F7hxD3w62tu6gqAyJHaY5Jsv74WzWjcuLGwyvnzKGkIlnIiFJw6QS2ThPD1Rg9p8jQd0p6iiRibHQzs9I/crL1ZByT4m3ryBMKG1T/wic0ndsShqbxfzUDQuo7J5LNzA4qTmFjOq/CTZuCqcNFzMg3AwQNUoZMCvrN9xANk7C9tTY9EHDH1I2MrsdHM1cuWoDGchuv66XJ7Bl6FeJuDJhI4p6WahxUyNXjU+Z5LziQ2btOb+l8cK71mw6rrpygy7qovEzWDJPh61slD59PSQ1HshRq47wHOy5NixzFonyNltcZeI6+QBAIhMlDsjkgOaJV2VJP1jL2trC/SZpSuu65N2/7Ktw=;MtvtEU5Py9Er/dbVo8mSAw=="
 ---

@@ -41,20 +41,20 @@ related:
         width: 1400
         height: 933
   - title: "UPDATE 1-Autonomous driving startup Pony.ai raises $462 mln in Toyota-led funding"
-    excerpt: "HONG KONG/ BEIJING, Feb 26- Autonomous driving firm Pony.ai said on Wednesday it has raised $462 million in its latest funding round, led by an investment by Japan's largest automaker Toyota Motor Corp."
-    publishedDateTime: 2020-02-26T08:37:00Z
-    webUrl: "https://www.cnbc.com/2020/02/25/reuters-america-update-1-autonomous-driving-startup-pony-ai-raises-462-mln-in-toyota-led-funding.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/02/25/reuters-america-update-1-autonomous-driving-startup-pony-ai-raises-462-mln-in-toyota-led-funding.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/02/25/reuters-america-update-1-autonomous-driving-startup-pony-ai-raises-462-mln-in-toyota-led-funding.html"
+    excerpt: "Autonomous driving firm Pony.ai said on Wednesday it has raised $462 million in its latest funding round, led by an investment by Japan’s largest automaker Toyota Motor Corp. Toyota invested around $400 million in the round,"
+    publishedDateTime: 2020-02-26T03:47:00Z
+    webUrl: "https://www.reuters.com/article/toyota-ponyai-autonomous/update-1-autonomous-driving-startup-pony-ai-raises-462-mln-in-toyota-led-funding-idUSL3N2AQ0M6"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL3N2AQ0M6"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL3N2AQ0M6"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
+      name: Reuters
+      domain: reuters.com
     quality: 82
     images:
-      - url: "https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif?v=1524171804"
-        width: 1200
-        height: 630
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200226&t=2&i=1495306746&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG1P0AS"
+        width: 817
+        height: 545
   - title: "Self-driving startup halts passenger rides following minor injury"
     excerpt: "Following a minor incident, the National Highway Traffic Safety Administration has told France-based self-driving technology startup EasyMile to cease passenger rides. The company made the temporary suspension public in a Tuesday announcement, saying a passenger \"slipped from their seat in a minor incident.\" According to the company ..."
     publishedDateTime: 2020-02-26T15:56:00Z

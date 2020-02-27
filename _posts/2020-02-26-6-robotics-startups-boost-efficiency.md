@@ -63,17 +63,6 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fs3-ap-northeast-1.amazonaws.com%2Fpsh-ex-ftnikkei-3937bb4%2Fimages%2F1%2F1%2F0%2F4%2F24974011-1-eng-GB%2F20200213%20Yingxing%20Zhineng%20.jpeg?source=nar-cms&width=1024&height=512&fit=cover&gravity=faces"
         width: 1024
         height: 512
-  - title: "4 Fintech Trends to Watch For in 2020"
-    excerpt: "Their disruptive influence could ultimately be similar to the impact of low-cost operators on the airline industry. Robo advisors and AI for improved CX Fintech could start truly shaping the trading and investment segment in the coming years. In 2020 and onwards, more low-cost stock trading and investment offerings could be made available by ..."
-    publishedDateTime: 2020-02-26T16:33:00Z
-    webUrl: "https://www.business2community.com/finance/4-fintech-trends-to-watch-for-in-2020-02287132"
-    ampWebUrl: "https://www.business2community.com/finance/4-fintech-trends-to-watch-for-in-2020-02287132/amp"
-    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/finance/4-fintech-trends-to-watch-for-in-2020-02287132/amp"
-    type: article
-    provider:
-      name: Business 2 Community
-      domain: business2community.com
-    quality: 24
 
 secured: "RhM8sT4tH2/vHnyQWpBaugG7XCk0okKllnSBZyIEzvlrpGg5Bcqmv0reLS5ZC9ogSZt34anAja8CgykHFuXabxCYP3O5otFimUFVW1Be4gLa+hiXfkgsZxzluIxL5dXdepaI6o8Y+3auCnRsPBj5HRB2pPP1Rzyj6lKoD/z7ntcrp4fkuPHm0haNRnT6yabgySxw79/dAydqPXjNOhrjrZS30voPTfId4H8qmCGOA/VuhIje1hnLWaWvhbWg/MgkSRbIpf3su5EoW6xHayyuBKMHtzcQdeQoab/pYL4v21BLcaVdB565WtkWkmymbrDf;C8L5ARMnb9QSrgQYHCpnyQ=="
 ---

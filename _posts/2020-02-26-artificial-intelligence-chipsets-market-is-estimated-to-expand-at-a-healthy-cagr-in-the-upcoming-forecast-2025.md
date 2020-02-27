@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-26T07:46:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-is-estimated-to-expand-at-a-healthy-cagr-in-the-upcoming-forecast-2025-2020-02-26"
 type: article
 quality: 31
-heat: -1
+heat: 31
 published: false
 
 provider:
@@ -23,32 +23,6 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Machine Learning in Retail Market 2020-24 Ongoing Trends Analysis by IBM, Microsoft, Amazon Web Services and Oracle"
-    excerpt: "The Global Machine Learning in Retail Market 2020 research report provides in-depth analysis by Top Players, Geography, End users, Applications, Competitor analysis, Sales, Revenue, Price, Gross Margin,"
-    publishedDateTime: 2020-02-25T09:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-retail-market-2020-24-ongoing-trends-analysis-by-ibm-microsoft-amazon-web-services-and-oracle-2020-02-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Image Recognition Software Market is Booming Worldwide with Qualcomm Technologies, Microsoft, IBM, Google"
-    excerpt: "This intelligence report provides a comprehensive analysis of the Global Image Recognition Software Market. This includes Investigation of past progress, ongoing market scenarios, and future prospects."
-    publishedDateTime: 2020-02-21T16:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/image-recognition-software-market-is-booming-worldwide-with-qualcomm-technologies-microsoft-ibm-google-2020-02-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "Global Artificial Intelligence-based Cybersecurity Market Analysis, Trends, and Forecasts 2020-2025 - ResearchAndMarkets.com"
     excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Artificial Intelligence-based Cybersecurity - Market Analysis, Trends, and Forecasts\" report has been added to ResearchAndMarkets.com's offering. Artificial Intelligence-based Cybersecurity market worldwide is projected to ..."
     publishedDateTime: 2020-02-21T11:11:00Z
@@ -62,6 +36,42 @@ related:
       - url: "https://mms.businesswire.com/media/20200221005189/en/371054/23/ResearchAndMarkets_800px.jpg"
         width: 1200
         height: 627
+  - title: "The Rehabilitation Robots market is expected to register a CAGR of 25.8% over the forecast period (2020"
+    excerpt: "Market Overview The Rehabilitation Robots market is expected to register a CAGR of 25. 8% over the forecast period (2020 - 2025)."
+    publishedDateTime: 2020-02-21T17:31:00Z
+    webUrl: "https://www.globenewswire.com/news-release/2020/02/21/1988751/0/en/The-Rehabilitation-Robots-market-is-expected-to-register-a-CAGR-of-25-8-over-the-forecast-period-2020.html"
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 3
+  - title: "Global machine learning as a service market is expected to grow with a CAGR of 38.5% over the forecast period from 2018-2024"
+    excerpt: "The report on the global machine learning as a service market provides qualitative and quantitative analysis for the period from 2016 to 2024. The report predicts the global machine learning as a service market to grow with a CAGR of 38."
+    publishedDateTime: 2020-02-20T07:20:00Z
+    webUrl: "https://www.globenewswire.com/news-release/2020/02/20/1987516/0/en/Global-machine-learning-as-a-service-market-is-expected-to-grow-with-a-CAGR-of-38-5-over-the-forecast-period-from-2018-2024.html"
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 0
+  - title: "Artificial Intelligence in the Global BFSI Industry, 2019-2026 - Expected to Witness a CAGR of 38% During the Forecast Period"
+    excerpt: "Dublin, Feb. 21, 2020 (GLOBE NEWSWIRE) -- The \"Artificial Intelligence in BFSI Market by Offerings Solution Technology: Global Opportunity Analysis and Industry Forecast, 2019-2026\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2020-02-21T12:23:00Z
+    webUrl: "https://www.globenewswire.com/news-release/2020/02/21/1988577/0/en/Artificial-Intelligence-in-the-Global-BFSI-Industry-2019-2026-Expected-to-Witness-a-CAGR-of-38-During-the-Forecast-Period.html"
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 0
+  - title: "The Artificial Intelligence in Food and Beverages Market is expected to register a CAGR of over 65.3% during the forecast period 2019"
+    excerpt: "Market Overview The Artificial Intelligence in Food and Beverages Market is expected to register a CAGR of over 65. 3% during the forecast period 2019 - 2024."
+    publishedDateTime: 2020-02-24T19:00:00Z
+    webUrl: "https://www.globenewswire.com/news-release/2020/02/24/1989471/0/en/The-Artificial-Intelligence-in-Food-and-Beverages-Market-is-expected-to-register-a-CAGR-of-over-65-3-during-the-forecast-period-2019.html"
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 0
 
 secured: "3jzb3WsPf7cJqOKJ+PLYWHeWCvJkwz0YedTlECLxGRGQl8cHGoKh+M99qZCTqT4Tjc1oBETWGGA4tjf6hU5ZJt6/qqQA92jEfcg0K0aSnb8pIeYHysJ0Eqx8+jXFGsBIhom6hl+2IubQUmNaHb21YBWRENw4LB4FQtSBAS2PmycSEePV7heHTrD8Ubr57YhT76/lsWRaZAApt7Zs1hS9aWz4Rf/ch3Jjn1vROR0qesuKT7WWi2nhvwN3ZhCT3pbmAIkzd3Dqpi3ysxjNsaEgN/A7hXvnD/FDhdZT2sxAHIvgH9xjwlfLdROJ0+SAulM7;Z3ROwbTKq7yFc7z+wZFkhw=="
 ---

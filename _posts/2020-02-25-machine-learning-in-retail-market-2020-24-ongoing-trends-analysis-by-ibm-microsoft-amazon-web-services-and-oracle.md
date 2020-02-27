@@ -6,8 +6,8 @@ publishedDateTime: 2020-02-25T09:06:00Z
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-retail-market-2020-24-ongoing-trends-analysis-by-ibm-microsoft-amazon-web-services-and-oracle-2020-02-25"
 type: article
 quality: 62
-heat: 92
-published: true
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -28,41 +28,67 @@ images:
     title: "Machine Learning in Retail Market 2020-24 Ongoing Trends Analysis by IBM, Microsoft, Amazon Web Services and Oracle"
 
 related:
-  - title: "Image Recognition Software Market is Booming Worldwide with Qualcomm Technologies, Microsoft, IBM, Google"
-    excerpt: "This intelligence report provides a comprehensive analysis of the Global Image Recognition Software Market. This includes Investigation of past progress, ongoing market scenarios, and future prospects."
-    publishedDateTime: 2020-02-21T16:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/image-recognition-software-market-is-booming-worldwide-with-qualcomm-technologies-microsoft-ibm-google-2020-02-21"
+  - title: "5 AI And Analytics Trends Marketers And Brands Should Be Investing In"
+    excerpt: "Why analytics and AI are such powerful tools for brands and organizations and what are the key focus areas that these companies should have for the coming year as analytics and AI continue to be critical to connecting with customers and improving operations."
+    publishedDateTime: 2020-02-27T02:25:00Z
+    webUrl: "https://www.forbes.com/sites/danielnewman/2020/02/26/5-ai-and-analytics-trends-marketers-and-brands-should-be-investing-in/"
+    ampWebUrl: "https://www.forbes.com/sites/danielnewman/2020/02/26/5-ai-and-analytics-trends-marketers-and-brands-should-be-investing-in/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2020/02/26/5-ai-and-analytics-trends-marketers-and-brands-should-be-investing-in/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1097297162%2F0x0.jpg%3FcropX1%3D35%26cropX2%3D4858%26cropY1%3D0%26cropY2%3D2713"
+        width: 1200
+        height: 675
+  - title: "Artificial Intelligence in Healthcare Market 2020| Latest Report Analysis, Global Trends, Share, Opportunities And Forecast To 2026"
+    excerpt: "Artificial Intelligence in Healthcare Market report offers an in-depth analysis of various factors promoting and demoting the growth of the market during the mentioned forecast period. The information provided in the report is gathered from primary and secondary research methods The rising demand for time-efficient artificial intelligence systems for resolving complex medical conditions is driving the global “artificial intelligence in healthcare” market says Fortune business Insights in a report,"
+    publishedDateTime: 2020-02-21T12:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2020-latest-report-analysis-global-trends-share-opportunities-and-forecast-to-2026-2020-02-21"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 37
+    quality: 56
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Artificial Intelligence Chipsets Market Is Estimated To Expand At a Healthy CAGR in the Upcoming Forecast 2025"
-    excerpt: "Kenneth Research has published a detailed report on Artificial Intelligence Chipsets Market which has been categorized by market size, growth indicators and encompasses detailed market analysis on macro trends and region-wise growth in North America,"
-    publishedDateTime: 2020-02-26T07:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-is-estimated-to-expand-at-a-healthy-cagr-in-the-upcoming-forecast-2025-2020-02-26"
+  - title: "RPA and AI in Banking"
+    excerpt: "Some of the key players operating in this market include: Cognizant, Capgemini, Accenture, Fintech Singapore, The Lab Consulting, UiPath, iRobot, Robogals The report provides a basic overview of the industry including definitions and classifications. The RPA and AI in Banking Market analysis is provided for the international markets including ..."
+    publishedDateTime: 2020-02-25T14:55:00Z
+    webUrl: "https://www.openpr.com/news/1944313/attractive-market-opportunities-in-the-rpa-and-ai-in-banking"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
-  - title: "Global Artificial Intelligence-based Cybersecurity Market Analysis, Trends, and Forecasts 2020-2025 - ResearchAndMarkets.com"
-    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Artificial Intelligence-based Cybersecurity - Market Analysis, Trends, and Forecasts\" report has been added to ResearchAndMarkets.com's offering. Artificial Intelligence-based Cybersecurity market worldwide is projected to ..."
-    publishedDateTime: 2020-02-21T11:11:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200221005189/en/Global-Artificial-Intelligence-based-Cybersecurity-Market-Analysis-Trends"
+      name: openpr.com
+      domain: openpr.com
+    quality: 34
+  - title: "Global Machine Learning Market Analysis, Trends, and Forecasts 2019-2025 - ResearchAndMarkets.com"
+    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Machine Learning - Market Analysis, Trends, and Forecasts\" report has been added to ResearchAndMarkets.com's offering. Machine Learning market worldwide is projected to grow by US$20.8 Billion, driven by a compounded growth of 41.7%. BFSI, one of the segments analyzed and sized in this study, displays the potential ..."
+    publishedDateTime: 2020-02-24T14:03:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200224005571/en/Global-Machine-Learning-Market-Analysis-Trends-Forecasts"
     type: article
     provider:
       name: Business Wire
       domain: businesswire.com
-    quality: 10
+    quality: 26
     images:
-      - url: "https://mms.businesswire.com/media/20200221005189/en/371054/23/ResearchAndMarkets_800px.jpg"
+      - url: "https://mms.businesswire.com/media/20200224005571/en/371054/23/ResearchAndMarkets_800px.jpg"
         width: 1200
         height: 627
+  - title: "4 Fintech Trends to Watch For in 2020"
+    excerpt: "Their disruptive influence could ultimately be similar to the impact of low-cost operators on the airline industry. Robo advisors and AI for improved CX Fintech could start truly shaping the trading and investment segment in the coming years. In 2020 and onwards, more low-cost stock trading and investment offerings could be made available by ..."
+    publishedDateTime: 2020-02-26T16:33:00Z
+    webUrl: "https://www.business2community.com/finance/4-fintech-trends-to-watch-for-in-2020-02287132"
+    ampWebUrl: "https://www.business2community.com/finance/4-fintech-trends-to-watch-for-in-2020-02287132/amp"
+    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/finance/4-fintech-trends-to-watch-for-in-2020-02287132/amp"
+    type: article
+    provider:
+      name: Business 2 Community
+      domain: business2community.com
+    quality: 24
 
 secured: "mg8ULLvAiNyHJblR4zZVl3ebeURlx+QE8XtUyACWQTrk/nxYkd0oU+ynqVlhQOt+E1sqStAa1nl9MQig34zLfG2yOR1L+Jpqwg6E/Y0Vi8VxTB4I3GzYKgJy4wyO1J0rIliIxbMhWf5Sn+cBb1UHlIM5XprkT1m7EbLjeVqpLe5UyYi6o9/qVNMZ1N04aVR0Jj2b/KLCzpbEWBjp/rOdGBxGKRsV1pU+8h+hLDZRdgUXnjNKh+zP34rInSpltHHGPhHkGMmmu5Z39xHlLdnd1koeEpAd9franjfhQLgM2SMw8085WBAn/UeYCKCuJSpM;AT0XFrWaKVvdZJ9GBjvvXQ=="
 ---

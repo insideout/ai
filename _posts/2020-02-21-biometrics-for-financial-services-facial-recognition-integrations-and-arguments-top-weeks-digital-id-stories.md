@@ -359,19 +359,6 @@ related:
       name: Washington Post
       domain: washingtonpost.com
     quality: 21
-  - title: "Study on Digital China in 2020 - The Government is Fostering Key Technologies Like 5G and Facial Recognition - ResearchAndMarkets.com"
-    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Digital China - The Other Digital Superpower\" report has been added to ResearchAndMarkets.com's offering. The stunning emergence, over the past decade, of China's digital economic miracle, is transforming the country - and its domestic and global position. Once a follower, digital China is now a world leader in ..."
-    publishedDateTime: 2020-02-12T10:04:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200212005344/en/Study-Digital-China-2020---Government-Fostering"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 8
-    images:
-      - url: "https://mms.businesswire.com/media/20200212005344/en/371054/23/ResearchAndMarkets_800px.jpg"
-        width: 1200
-        height: 627
 
 secured: "UlSrnLGlDzDKXYMb0csycn1YOylPVQs2+0BHU9MmlX1kQp9REMo9h4uPxmxQ3tyhIXiKg2x/RiarmbQY36+we8X+oVjF7C9mjkjh8ngR8LO/Ss0Oc57cmKo5oZKxbXArkHggjheaPekIW3eeznagjaokelJU9EHzuvDP69P23kAiOO+wr8PaWBvuVCUJVNrss/U38XJsWA3zc4LWqIkwz0rzaHtyH82daRE4t4uBbCM99QLBG2KGPc/U5FwF8oUi0mxIW1WvyrYz0szXuoHr6wreSUqcIaybfGy/1sKw1xKGOt/zXct/ZDZhSNNB4dIT;xNFKQ71CCvmk0HJ8l/3JDQ=="
 ---

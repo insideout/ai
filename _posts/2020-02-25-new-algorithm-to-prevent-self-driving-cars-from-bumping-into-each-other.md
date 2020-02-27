@@ -46,6 +46,17 @@ related:
       - url: "https://api.thedrive.com/wp-content/uploads/2020/02/autopilot_0.jpg?quality=85"
         width: 1920
         height: 1080
+  - title: "MIT’s ground-penetrating radar allows self-driving cars to see beneath"
+    excerpt: "Self-driving cars with a person sitting behind the wheel is already a reality. Research is being carried out to improve the technology but self-driving cars find it hard during bad weather. Now, Massachusetts Institute of Technology (MIT) has come up with tech that can help solve this problem."
+    publishedDateTime: 2020-02-27T02:29:00Z
+    webUrl: "https://www.hindustantimes.com/tech/mit-s-ground-penetrating-radar-allows-self-driving-cars-to-see-beneath/story-C2cM5tDftFnyrr7HsgXe4O.html"
+    ampWebUrl: "https://m.hindustantimes.com/tech/mit-s-ground-penetrating-radar-allows-self-driving-cars-to-see-beneath/story-C2cM5tDftFnyrr7HsgXe4O_amp.html"
+    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/mit-s-ground-penetrating-radar-allows-self-driving-cars-to-see-beneath/story-C2cM5tDftFnyrr7HsgXe4O_amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 24
 
 secured: "RV5avlg6qdvyzy1Dg11AuWxE1wtp1zM9tM+krVx0TixNXSANWCdUmyjGNJYdoM31vUTEvtOURG5j3AbUdTn0Y7UTyzja3/1ap4wT3yQgSwXSy7XZik28y+NfIWqAuktC2DnHYZaT0u61flErih3Yt0XMwyf9CJh7UcrB6A7+88f2EAPrZ2mDIvZ35o3aEnI2Jz5NAtkccKWfitLk5ZDhkvuHg7+YlkIBXRRCv/a9OROy58DtlAXiHwMqUGg9uX7eUuVjLYfHJlX790qa7ZBYWSTBn3NU5fCT68vcCY3yxMbW6pRL0OR2nphMJoCdmvOz;EV/hdU/xr8bX9XYM8BjTFA=="
 ---

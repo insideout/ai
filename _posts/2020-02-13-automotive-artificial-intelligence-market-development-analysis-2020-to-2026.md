@@ -177,19 +177,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Global Machine Learning Market Analysis, Trends, and Forecasts 2019-2025 - ResearchAndMarkets.com"
-    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Machine Learning - Market Analysis, Trends, and Forecasts\" report has been added to ResearchAndMarkets.com's offering. Machine Learning market worldwide is projected to grow by US$20.8 Billion, driven by a compounded growth of 41.7%. BFSI, one of the segments analyzed and sized in this study, displays the potential ..."
-    publishedDateTime: 2020-02-24T14:03:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200224005571/en/Global-Machine-Learning-Market-Analysis-Trends-Forecasts"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 26
-    images:
-      - url: "https://mms.businesswire.com/media/20200224005571/en/371054/23/ResearchAndMarkets_800px.jpg"
-        width: 1200
-        height: 627
   - title: "Global Natural Language Processing Market 2020-2025 Current Trends, High Demand, Benefits, Key Country Analysis and Business Opportunity"
     excerpt: "Market Overview The Natural Language Processing Market was valued at USD 6.94 billion in 2019 and is expected to reach USD 23.47 billion by 2025, at a CAGR of 22.5% over the forecast period 2020 - 2025."
     publishedDateTime: 2020-02-18T07:14:00Z
