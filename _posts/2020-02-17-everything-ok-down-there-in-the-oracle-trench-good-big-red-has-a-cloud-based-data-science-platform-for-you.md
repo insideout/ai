@@ -27,21 +27,6 @@ images:
     title: "Everything OK down there in the Oracle trench? Good. Big Red has a cloud-based data science platform for you"
 
 related:
-  - title: "Oracle unleashes cloud-based data science platform"
-    excerpt: "The platform has the Oracle Cloud Infrastructure Data Science service at its core. It provides users the ability to build, train, and manage machine learning algorithms on the Oracle Cloud using Python, TensorFlow, Keras, Jupyter and other popular data science tools. Six additional services round out the platform, including new machine learning ..."
-    publishedDateTime: 2020-02-12T18:19:00Z
-    webUrl: "https://www.cio.com/article/3526602/oracle-unleashes-cloud-based-data-science-platform.html"
-    ampWebUrl: "https://www.cio.com/article/3526602/oracle-unleashes-cloud-based-data-science-platform.amp.html"
-    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3526602/oracle-unleashes-cloud-based-data-science-platform.amp.html"
-    type: article
-    provider:
-      name: ITNews
-      domain: cio.com
-    quality: 46
-    images:
-      - url: "https://images.idgesg.net/images/article/2017/08/oracle-cloud-on-building-100730618-large.jpg"
-        width: 700
-        height: 467
   - title: "Oracle Unveils New Cloud-Based Platform for Machine Learning Models"
     excerpt: "The new platform actually comprises seven services, including: Oracle Cloud Infrastructure Data Science: This is the virtual, AI-assisted workbench at the center of the platform, which gives users the ability to build, train, and manage new ML models on Oracle Cloud using Python and such open-source tools and libraries as TensorFlow ..."
     publishedDateTime: 2020-02-14T19:07:00Z
@@ -55,15 +40,6 @@ related:
       - url: "https://adtmag.com/-/media/ECG/VirtualizationReview/Images/IntroImages2019/RailroadTracksClouds.jpg"
         width: 647
         height: 450
-  - title: "RESTORE launches cloud-based skills platform for adult rehabilitation"
-    excerpt: "RESTORE Skills has launched an interactive software product for adult rehabilitation patients that uses any webcam-equipped, Wi-Fi-enabled device as a therapy tool in the gym, at the bedside or at home post-discharge. RESTORE uses motion tracking, machine learning and artificial intelligence to reinforce motor, cognitive, social and attention ..."
-    publishedDateTime: 2020-02-19T03:23:00Z
-    webUrl: "https://www.mcknights.com/news/products/restore-launches-cloud-based-skills-platform-for-adult-rehabilitation/"
-    type: article
-    provider:
-      name: McKnight's Long-Term Care News
-      domain: mcknights.com
-    quality: 4
 
 secured: "OX7TozvziYiXXNi+hgffoyOnX2I87M0b7UH32jKYruZcsQDvfYHjdTYMmJyLYc9zOZ9fDRe9zR+sb993HMMHAwqBbWp3EI8B0dQlETZArlT+j9pCwN2vg1zmDbY/eYxsTSXQeMiAKpQ9xVBHEyqkvdrBb+om/FLt5Oxmz+hxeWj6cxSuykVxz2WXpXeCHWkpYYrpgmaoynBJBMZwPOTg0Jm+0PYp76say5d53k5oNwVDERSDsC1LBKmwLjsEfUEC6vVMoBktihvNjGjXFoIw8ItZMT6Y4tW/8VJi3VffYQb08sm9jtRrnmUGUCiG7dp6lNJRy9N12OxDMeG929L+6wIWThxdxHmfnzKNbcCV4uywnNJ4rcbkKYBFrMtU3u8sbxQQbdUrU9sLQrnsUfp00HRSMJ8EixRiS4MWJhVC4Jyq/Bpd9rNd65jNPgATG+7Rs4ELLOP34LxSJD85kND23Ln76GO4JONiong2v8nqjXA=;Spo0g7Em7otfrspwAbED5w=="
 ---

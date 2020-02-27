@@ -26,21 +26,6 @@ images:
     title: "Editorial: Facial-recognition software takes personal invasion into a new dimension"
 
 related:
-  - title: "CEO Glaser invests $10M in RealNetworks, bullish on facial recognition software, gaming"
-    excerpt: "RealNetworks Inc. CEO Rob Glaser is so bullish on the company’s facial recognition software and its gaming pipeline that he pledged this week to invest nearly $10 million of his personal funds into the company."
-    publishedDateTime: 2020-02-12T18:37:00Z
-    webUrl: "https://www.bizjournals.com/seattle/news/2020/02/12/glaser-invests-10m-in-realnetworks-bullish-on.html"
-    ampWebUrl: "https://www.bizjournals.com/seattle/news/2020/02/12/glaser-invests-10m-in-realnetworks-bullish-on.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/seattle/news/2020/02/12/glaser-invests-10m-in-realnetworks-bullish-on.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 51
-    images:
-      - url: "https://media.bizj.us/view/img/11480968/rob-glaser-ceo-realnetworks-01*600xx4965-3310-9-0.jpg"
-        width: 600
-        height: 400
   - title: "Guest Editorial: Facial recognition software has some serious pitfalls"
     excerpt: "Law enforcers around the world are celebrating the rapidly expanding potential of facial recognition software to help them catch criminals faster and solve long-dormant cases. Such capabilities in ..."
     publishedDateTime: 2020-02-18T17:38:00Z

@@ -24,111 +24,36 @@ images:
     title: "Incorrect Pronunciation Detection in eLearning using Deep Learning"
 
 related:
-  - title: "Automating model retraining and deployment using the AWS Step Functions Data Science SDK for Amazon SageMaker"
-    excerpt: "As machine learning (ML) becomes a larger part of companies’ core business, there is a greater emphasis on reducing the time from model creation to deployment. In November of 2019, AWS released the AWS Step Functions Data Science SDK for Amazon SageMaker, an open-source SDK that allows developers to"
-    publishedDateTime: 2020-02-12T18:22:09Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/automating-model-retraining-and-deployment-using-the-aws-step-functions-data-science-sdk-for-amazon-sagemaker/"
+  - title: "Apple seeks to patent machine learning correction of GPS estimates"
+    excerpt: "But Apple thinks it can improve location accuracy by applying machine learning to Kalman estimation filters, a just-published patent application reveals. The basic concept is that while navigation systems generally rely on live location-determining pings from multiple satellites — a process that can take precious time, during which the ..."
+    publishedDateTime: 2020-02-13T20:29:00Z
+    webUrl: "https://venturebeat.com/2020/02/13/apple-seeks-to-patent-machine-learning-correction-of-gps-estimates/"
+    ampWebUrl: "https://venturebeat.com/2020/02/13/apple-seeks-to-patent-machine-learning-correction-of-gps-estimates/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/13/apple-seeks-to-patent-machine-learning-correction-of-gps-estimates/amp/"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 100
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/01/31/automating-model-retraining-3.gif"
-        width: 800
-        height: 397
-  - title: "Deep Learning Forecasting Model for Dengue Cases in Singapore"
-    excerpt: "Feature extraction is crucial to the success of neural network learning. However ... our approach worked better than those without a deep understanding about the nature of the dengue issues ..."
-    publishedDateTime: 2020-02-12T23:15:00Z
-    webUrl: "https://medium.com/@nobletpadiyaraoffc/forecasting-dengue-cases-in-singapore-8-weeks-in-advance-ce32685e166d"
+      - url: "https://venturebeat.com/wp-content/uploads/2020/02/applegps-e1581625499385.jpg?fit=2000%2C1000&strip=all"
+        width: 2000
+        height: 1000
+  - title: "Machine learning could help Apple Maps fix bogus GPS coordinates"
+    excerpt: "In the patent application published on Thursday by the US Patent and Trademark Office, Apple has come up with \"Machine learning-assisted satellite-based positioning.\" In short, it is a way to analyze GPS data by comparing it against data acquired by a machine-learning model. The idea is that the device receives its estimated position based on a ..."
+    publishedDateTime: 2020-02-13T18:38:00Z
+    webUrl: "https://appleinsider.com/articles/20/02/13/machine-learning-could-help-apple-maps-fix-bogus-gps-coordinates"
+    ampWebUrl: "https://appleinsider.com/articles/20/02/13/machine-learning-could-help-apple-maps-fix-bogus-gps-coordinates/amp/"
+    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/20/02/13/machine-learning-could-help-apple-maps-fix-bogus-gps-coordinates/amp/"
     type: article
     provider:
-      name: Medium
-      domain: medium.com
-    quality: 69
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 59
     images:
-      - url: "https://miro.medium.com/max/378/0*pJ_V5RBE48AfmED2"
-        width: 378
-        height: 410
-  - title: "Run RAPIDS experiments at scale using Amazon SageMaker"
-    excerpt: "In this post, I’ll walk through an end-to-end code example of how you can run scale-out RAPIDS using Amazon SageMaker"
-    publishedDateTime: 2020-02-12T20:44:00Z
-    webUrl: "https://medium.com/rapids-ai/running-rapids-experiments-at-scale-using-amazon-sagemaker-d516420f165b"
-    type: article
-    provider:
-      name: Medium
-      domain: medium.com
-    quality: 69
-    images:
-      - url: "https://miro.medium.com/max/1200/1*4ocfepDUnIjpupPgkXhtgA.png"
-        width: 1200
-        height: 522
-  - title: "Building a Reverb Detection System using Machine Learning"
-    excerpt: "Very little reverb. A lot of reverb. What we are actually trying to measure with our machine learning (ML) model is the Reverb Decay Time. This can be defined as the amount of time in seconds that it takes for a sound to fade away. The technical term for this is the RT-60 time, which is the time it takes for a sound’s pressure level to drop ..."
-    publishedDateTime: 2020-02-18T14:07:00Z
-    webUrl: "https://medium.com/@davidmronan/building-a-reverb-detection-system-using-machine-learning-cba02a1710bf"
-    type: article
-    provider:
-      name: Medium
-      domain: medium.com
-    quality: 69
-    images:
-      - url: "https://miro.medium.com/max/522/1*P4AQM-CyIb_uhNzvRAVMrw.jpeg"
-        width: 522
-        height: 218
-  - title: "Predicting Newspaper Sales with Amazon SageMaker DeepAR"
-    excerpt: "In this article, we write about predicting newspaper sales using Amazon SageMaker DeepAR. After a short company and team introduction, we give a shallow description of our shop-level sales data ..."
-    publishedDateTime: 2020-02-19T12:44:00Z
-    webUrl: "https://medium.com/axel-springer-tech/predicting-newspaper-sales-with-amazon-sagemaker-deepar-dffde3af4b20"
-    type: article
-    provider:
-      name: Medium
-      domain: medium.com
-    quality: 69
-    images:
-      - url: "https://miro.medium.com/max/1200/1*A_ho55sUPMc-uwZ7i5LM_Q.jpeg"
-        width: 1200
-        height: 800
-  - title: "Deploying Machine Learning Models with mlflow and Amazon SageMaker"
-    excerpt: "Then, I deploy the model locally, and predict test data. Next, I create a Docker container, push it to Amazon ECR, and use it to deploy my model on Amazon SageMaker."
-    publishedDateTime: 2020-02-14T12:44:00Z
-    webUrl: "https://medium.com/@julsimon/deploying-machine-learning-models-with-mlflow-and-amazon-sagemaker-dac2b8244224"
-    type: article
-    provider:
-      name: Medium
-      domain: medium.com
-    quality: 49
-  - title: "What are AutoML Function and How to setup Auto Ml using the dataset of Kaggle and Cloning Python notebook from Github"
-    excerpt: "AutoML Vision helps developers with limited ML expertise to train high-quality image recognition models. Once you upload images to the AutoML UI, you can train a model that will be immediately ..."
-    publishedDateTime: 2020-02-17T13:39:00Z
-    webUrl: "https://medium.com/@mayankchourasia2/what-are-automl-function-and-how-to-setup-auto-ml-using-the-dataset-of-kaggle-and-cloning-python-72ee4c512d3d"
-    type: article
-    provider:
-      name: Medium
-      domain: medium.com
-    quality: 46
-    images:
-      - url: "https://miro.medium.com/max/628/1*pUpswFgY8-esvr06DTc2xQ.png"
-        width: 628
-        height: 352
-  - title: "Using Transfer Learning to Overcome the Barriers Facing Machine Learning in Materials Science"
-    excerpt: "Machine learning’s ability to perform intellectually demanding tasks across various fields, materials science included, has caused it to receive considerable attention. Many believe that it could be used to unlock major time and cost savings in the development of new materials. The growing demand for the use of machine learning to derive fast ..."
-    publishedDateTime: 2020-02-16T00:03:00Z
-    webUrl: "https://www.allaboutcircuits.com/news/using-transfer-learning-to-overcome-the-barriers-facing-machine-learning-in-materials-science/"
-    type: article
-    provider:
-      name: All About Circuits
-      domain: allaboutcircuits.com
-    quality: 8
-  - title: "Landis+Gyr’s Revelo™ Brings Pattern Recognition and Machine Learning to the Edge of the Grid"
-    excerpt: "Founded in 2013 by pioneers in speech recognition, Sense uses machine learning technology to provide real-time insights on device behavior, even for those devices that are not “smart.” Customers rely on Sense for a wide range of uses including checking what time their kids get home, monitoring their home appliances, determining whether they ..."
-    publishedDateTime: 2020-02-12T19:42:00Z
-    webUrl: "https://apnews.com/d923b7ce5d7a593a2bf7b165d872b81c"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
+      - url: "https://photos5.appleinsider.com/gallery/34529-62350-apple-maps-hero-xl.jpg"
+        width: 1305
+        height: 728
 
 secured: "S+q6OTEdnBOPTAVCp7wfu39I9Kmqq2uFtkht+NynN3L7dBxoKmrts4GSanYkKHLVE3pd0Pft63Yxyd+yj4v/NO1rbovcqN1VS8GWFAZWRKnpy/MrwwSh2zjrR6RYjOie3TTKxPzLYE4G8CxMLifwVJyTmN0ObElD0JIjsxe6IS+9f95+xLk978nC9wLW5vJgBIC3KIbgo8H45NEGDI/UFJBWYkt2+yxjnWPfBDmXwbGXM+GemYWW5rL9Y2/XH2IGKHY3+vEI7qJHFSjklr6aftMSXhO3CVsKhvfvUdjL9r5tmx5lIqLYLGe6PaipYsDqm3zxHG6YdVv4IDoxzZE0y+J0Ej3lr2N3WuZqFwLH3javHAFtVG04ixI8XgXSTdxpP14I0DGlWsXgCdLwo7lynCUyIBcqFjy70VFkbHiZMTf+SjjSkY0lUQUB9uLXpmZYiyOACS0Rff+jrBLdO989OHG1ZxyIH8z84P7NA46mfv4=;FqnfuGMuxBqA95+eD1lhjw=="
 ---

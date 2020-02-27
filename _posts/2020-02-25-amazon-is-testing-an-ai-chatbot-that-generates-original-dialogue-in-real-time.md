@@ -8,7 +8,7 @@ ampWebUrl: "https://www.adweek.com/digital/amazon-is-testing-an-ai-chatbot-that-
 cdnAmpWebUrl: "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/digital/amazon-is-testing-an-ai-chatbot-that-generates-original-dialogue-in-real-time/amp/"
 type: article
 quality: 56
-heat: 56
+heat: 66
 published: false
 
 provider:
@@ -24,6 +24,19 @@ images:
     width: 640
     height: 360
     title: "Amazon Is Testing an AI Chatbot That Generates Original Dialogue in Real Time"
+
+related:
+  - title: "Amazon is developing “neural-network based” chatbots able to produce entirely original dialogu"
+    excerpt: "Amazon is testing the first commercial “neural-network based” chatbot able to produce completely original and natural ... simple requests and find the most suitable answer.Amazon’s new generative chatbots will use true artificial intelligence (AI) and state-of-the-art natural language processing technology to produce completely original ..."
+    publishedDateTime: 2020-02-27T11:22:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/amazon-is-developing-“neural-network-based”-chatbots-able-to-produce-entirely-original-dialogu-8563430"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/amazon-is-developing-â€œneural-network-basedâ€ -chatbots-able-to-produce-entirely-original-dialogu-8563430"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/amazon-is-developing-â€œneural-network-basedâ€ -chatbots-able-to-produce-entirely-original-dialogu-8563430"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 44
 
 secured: "46mlBIFUyVaLyZMFrHZNMnD8V85CZWRg9plt87yDdPb5EMi/TvMsAftVp+05siY/8PBQmUeaMXkiLkLk60tqzB5tcUut7tDuzDj11Lzic71nToJx+THE4aMJeXkyPgHF4dm5ySRal+MGeyWOkTJZLadPgFTdB/lg2Td1g3S8C6lfi8Z96XHgHVQJEp6RhXPrSNRTon5gZ2ygK3neiVI2S451LdppiVtyZdBxRsaV59WP6HMUVssoUVkkikxYbpIt8LuN1qaZwQg8zaraufucPY2MFFWlyLd/f/CwFwXvJhr7mku8d0Dmu06erfCXBY29v3t8IbmbLY12AjEfApewp9QFcO9YN5p8RZ6GgkNGttTcwXu+ftKcrX68lwN74DvOUDR6tkSuCnkMKssUlIn5wC+OLpe+GoawTxIYOBLGP8j3y7STLcFqopNztsNF5bu9PcpU3n3XI2cH4L96x3mzMZQ/LOghT60iofHZz3NW4bA=;OfBQhVpchLs3xbqm1u2AXw=="
 ---

@@ -41,6 +41,19 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/02/applegps-e1581625499385.jpg?fit=2000%2C1000&strip=all"
         width: 2000
         height: 1000
+  - title: "Incorrect Pronunciation Detection in eLearning using Deep Learning"
+    excerpt: "At a high level, the idea is to monitor pronunciation of end-user, perform an analysis on it and feed the analysis back to them so that they can work on it to improve and also record it for deep learning. This can be achieved with an add-on or separate system that enables students/user to improve their pronunciation skills, not limited to ..."
+    publishedDateTime: 2020-02-13T19:57:00Z
+    webUrl: "https://www.embedded-computing.com/guest-blogs/incorrect-pronunciation-detection-in-elearning-using-deep-learning"
+    type: article
+    provider:
+      name: Embedded Computing Design
+      domain: embedded-computing.com
+    quality: 39
+    images:
+      - url: "http://share.opsy.st/5e45a8d6cadb7-thumbnail_Incorrect+Pronunciation+Detection.jpg"
+        width: 1280
+        height: 763
 
 secured: "dhilqc1N51vwq1lIoaw/HZLFpj6S519SSywFxon1GFKzBYM7xAPYKOKPY1ogjRP9b2IsqHv6p2az+j7qwCRSHthtzy8WIFZ/iNez9YdcW7khIvIyW+yrpo2ahHoWb4dc5vwDyxdN9hV2lnILh0s0qaKqrOQjRkVGsGR5tUBihFx+wlMSlaesH0VMajou1GA6vNOkHrh5WMHP10bz2UDO7suGpHWImkGm154Bb/StTGMCqMcRvOcaNu+EJ6ho+g2M2lxtomBiIo0PDKKhg8E9bI3C0LXeeVbtH0DAywH0nZvMfWkCrjaE32UN7njt7xuJxR+/NVfTPI8jdjN68Vxzn4wPaXUwsfchvHLX4jcklvrhyGbO1RApFWCXDKybztpfyYbNpnspnhCfMxIK9zJUHTAD+rFxvnKQv6YmmTZcpa3hVCQKgri3Vq4ZZh5hkqFTY4G8mDdec8TUN166lTpi9HkS9Up1RieyvxY4PQKMwRM=;WhdDbGePQ2S8y0tky54MNg=="
 ---

@@ -1,13 +1,13 @@
 ---
 category: news
-title: "Artificial Intelligence (AI) Market Latest Advancements and Technology Growth 2020 to 2026"
-excerpt: "Global Artificial Intelligence (AI) Market research report published by market insight reports explores the current outlook in global and key regions from the perspective of Major Players, Countries,"
-publishedDateTime: 2020-02-21T07:52:00Z
-webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-latest-advancements-and-technology-growth-2020-to-2026-2020-02-21"
+title: "Artificial Intelligence Market Outlook and Growth Stance Forecasted Through 2025"
+excerpt: "In this report, the Global Artificial Intelligence (AI) market was valued at USD 11.71 Billion in 2016, and is projected to reach USD 191.60 billion by 2025, growing at a CAGR of 36.68% over the forecast period."
+publishedDateTime: 2020-02-27T10:39:00Z
+webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-outlook-and-growth-stance-forecasted-through-2025-2020-02-27"
 type: article
-quality: 74
-heat: 174
-published: true
+quality: 64
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -19,32 +19,32 @@ provider:
 
 topics:
   - AI
-  - Facebook AI
+  - AI in Healthcare
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
-    title: "Artificial Intelligence (AI) Market Latest Advancements and Technology Growth 2020 to 2026"
+    title: "Artificial Intelligence Market Outlook and Growth Stance Forecasted Through 2025"
 
 related:
-  - title: "Global Mobile Artificial Intelligence (MAI) Market 2020 Industry Analysis, Opportunities & Forecast To 2026"
-    excerpt: "Mobile Artificial Intelligence (MAI) Market 2020 Wiseguyreports.Com Adds \"Mobile Artificial Intelligence (MAI) - Global Market Growth, Opportunities, Analysis of Top Key Players and Forecast to 2026\" To Its Research Database."
-    publishedDateTime: 2020-02-17T06:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-mobile-artificial-intelligence-mai-market-2020-industry-analysis-opportunities-forecast-to-2026-2020-02-17"
+  - title: "Artificial Intelligence (AI) Market Latest Advancements and Technology Growth 2020 to 2026"
+    excerpt: "Global Artificial Intelligence (AI) Market research report published by market insight reports explores the current outlook in global and key regions from the perspective of Major Players, Countries,"
+    publishedDateTime: 2020-02-21T07:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-latest-advancements-and-technology-growth-2020-to-2026-2020-02-21"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 64
+    quality: 74
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Artificial Intelligence Market Outlook and Growth Stance Forecasted Through 2025"
-    excerpt: "In this report, the Global Artificial Intelligence (AI) market was valued at USD 11.71 Billion in 2016, and is projected to reach USD 191.60 billion by 2025, growing at a CAGR of 36.68% over the forecast period."
-    publishedDateTime: 2020-02-27T10:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-outlook-and-growth-stance-forecasted-through-2025-2020-02-27"
+  - title: "Global Mobile Artificial Intelligence (MAI) Market 2020 Industry Analysis, Opportunities & Forecast To 2026"
+    excerpt: "Mobile Artificial Intelligence (MAI) Market 2020 Wiseguyreports.Com Adds \"Mobile Artificial Intelligence (MAI) - Global Market Growth, Opportunities, Analysis of Top Key Players and Forecast to 2026\" To Its Research Database."
+    publishedDateTime: 2020-02-17T06:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-mobile-artificial-intelligence-mai-market-2020-industry-analysis-opportunities-forecast-to-2026-2020-02-17"
     type: article
     provider:
       name: MarketWatch
@@ -157,6 +157,6 @@ related:
         width: 1200
         height: 627
 
-secured: "WV687wodvgyl578apfwP1KaOhXF0Uiuqm/gZZlsFS6qRxjt3RvC/rEguH+Jsk2IAZg36SNHblGxKQgYrv70Nwo932FqvSpoyvHSyyYEjYvoe8MNz5w7l10xN9C+uDOJZn5dmhOS/FbWREcR3wehIg0bSBoby7YLvWPhMlvy8ERHxIxihd5FS3N6X6sBsR/Okl5UjCwCS1mWEQI0+Gy5Vq1j2A6p3xJWoJf03dFccXt7f/XibHqM8Rk+j/xVRbB1MbatnyJsya2NaWw27EpdlQi8+9H2Psu3W/hO25rbX65oTXRMpC502ELXKJak33aFM;fwdk5H09U4Qtr3O///sEtA=="
+secured: "8NpwfJqXTFoV+oBLz2Gh2E5I54OfD66jlwTAr5Sj4ZS7j0rEGhmqTilS1S7+jRqKq6NqF0GYgCJADCnfCL6q7NcIgvlPa0gnOgdevKkgEXx0WkWIE0tEwEnHuOIDBVz9yNlv+uiYtXEPq1k0/0aJmlGzcZ3DL1WO5upMCHtGHdUukaYHvn0Psanw4NiPSwcUaPY0RQ7OBEz1L9y6qLtXo3Gb7XLiXgfW1sZ7ZrtBK2oTpiaIt3MNp1ll9G5Jc6arroKKjTvAGxLZopMbcQwH9PcFz+x2Um5xodKVCJdxNBjgLEoNM3a1iJddqP35TGdM;fNIt8CQMZNqB0doVeYTpLQ=="
 ---
 

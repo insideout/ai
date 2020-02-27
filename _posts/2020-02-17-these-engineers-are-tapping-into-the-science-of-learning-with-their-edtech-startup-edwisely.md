@@ -25,6 +25,17 @@ images:
     height: 400
     title: "These engineers are tapping into the science of learning with their edtech startup, Edwisely"
 
+related:
+  - title: "Using Transfer Learning to Overcome the Barriers Facing Machine Learning in Materials Science"
+    excerpt: "Machine learning’s ability to perform intellectually demanding tasks across various fields, materials science included, has caused it to receive considerable attention. Many believe that it could be used to unlock major time and cost savings in the development of new materials. The growing demand for the use of machine learning to derive fast ..."
+    publishedDateTime: 2020-02-16T00:03:00Z
+    webUrl: "https://www.allaboutcircuits.com/news/using-transfer-learning-to-overcome-the-barriers-facing-machine-learning-in-materials-science/"
+    type: article
+    provider:
+      name: All About Circuits
+      domain: allaboutcircuits.com
+    quality: 8
+
 secured: "MlxheNMZo+OWXTjFLcvG2JrqpCnXUKRoEbzrJihctEoiA66w0aptPmC28HaZ4nFRTfKzBt8r+Oi18zghQHQJGFTfW5k1c4Bf1S5hAWuACGWGTNxSG+Qd33nSyNJ4Iwb11P0MhoFjt+6iFpYrtvnHVxwlUmK/QYrCme/CzPBpqhJOL0TN/Q2vua0eLtIZGKyq4XmwZSdy1pTnN6lQXPhMx3FV70PDRgUlHg9fEC9ZHNwPQ3tNYrJsdztUPht9RawYZw8/je0oMGGp5tRsDPR/dF39UJa5MDH1F1Ws0CAqFxDN0Av4oDVUhy0yvYnPW0Ap;gR7jOkMkllyKLCunTtFq1g=="
 ---
 

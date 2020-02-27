@@ -69,6 +69,21 @@ related:
       - url: "https://zdnet3.cbsistatic.com/hub/i/r/2017/08/22/d8bbf573-6bb0-43eb-a6ca-aa61aaea6289/thumbnail/1200x675/21e8153bb2991f11ab360ffb8563f7e3/6.jpg"
         width: 1200
         height: 675
+  - title: "Clearview AI: Face-collecting company database hacked"
+    excerpt: "Clearview AI, a start-up with a database of more than three billion photographs from Facebook, YouTube and Twitter, has been hacked. The attack allowed hackers to gain access to its client list but it said its servers had not been breached. Most of its clients are US law enforcement agencies who use its facial-recognition software to identify ..."
+    publishedDateTime: 2020-02-27T11:21:00Z
+    webUrl: "https://www.bbc.com/news/technology-51658111"
+    ampWebUrl: "https://www.bbc.com/news/amp/technology-51658111"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51658111"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 87
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/9BC3/production/_111057893_facialrecognition.gif"
+        width: 1024
+        height: 576
   - title: "'Intruder' steals Clearview AI's entire client list"
     excerpt: "A hot potato: As if facial recognition startup Clearview Ai did not have enough problems, it seems the company cannot sufficiently secure its data. It recently sent out a notice to customers, which are primarily law enforcement agencies, saying that its entire client list was stolen. According to the memo obtained by The Daily Beast ..."
     publishedDateTime: 2020-02-27T00:38:00Z

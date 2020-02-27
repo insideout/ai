@@ -53,6 +53,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Artificial Intelligence Market Outlook and Growth Stance Forecasted Through 2025"
+    excerpt: "In this report, the Global Artificial Intelligence (AI) market was valued at USD 11.71 Billion in 2016, and is projected to reach USD 191.60 billion by 2025, growing at a CAGR of 36.68% over the forecast period."
+    publishedDateTime: 2020-02-27T10:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-outlook-and-growth-stance-forecasted-through-2025-2020-02-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Global Artificial Intelligence (AI) in Modern Warfare Market 2020 Set for Rapid Growth with Top Companies Analysis by 2025"
     excerpt: "Market Overview The artificial intelligence in modern warfare market was valued at USD 1453.81 million in 2019, and it is expected to reach a value of USD 10781.27 million by 2025, at a CAGR of 40.25% during the forecast period (2020-2025)."
     publishedDateTime: 2020-02-19T10:22:00Z

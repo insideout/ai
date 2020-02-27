@@ -1,21 +1,32 @@
 ---
 category: news
-title: "Facial-Recognition Company That Works With Law Enforcement Says Entire Client List Was Stolen"
-excerpt: "Political Reporter A facial-recognition company that contracts with powerful law-enforcement agencies just reported that an intruder stole its entire client list, according to a notification the company sent to its customers. In the notification, which The Daily Beast reviewed, the startup Clearview AI disclosed to its customers that an ..."
-publishedDateTime: 2020-02-26T14:59:00Z
-webUrl: "https://www.thedailybeast.com/clearview-ai-facial-recognition-company-that-works-with-law-enforcement-says-entire-client-list-was-stolen"
+title: "Clearview AI: Face-collecting company database hacked"
+excerpt: "Clearview AI, a start-up with a database of more than three billion photographs from Facebook, YouTube and Twitter, has been hacked. The attack allowed hackers to gain access to its client list but it said its servers had not been breached. Most of its clients are US law enforcement agencies who use its facial-recognition software to identify ..."
+publishedDateTime: 2020-02-27T11:21:00Z
+webUrl: "https://www.bbc.com/news/technology-51658111"
+ampWebUrl: "https://www.bbc.com/news/amp/technology-51658111"
+cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51658111"
 type: article
-quality: 0
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: The Daily Beast
-  domain: thedailybeast.com
+  name: BBC
+  domain: bbc.com
+  images:
+    - url: "/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
-  - Computer Vision
+
+images:
+  - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/9BC3/production/_111057893_facialrecognition.gif"
+    width: 1024
+    height: 576
+    title: "Clearview AI: Face-collecting company database hacked"
 
 related:
   - title: "Clearview AI's entire client list stolen in data breach"
@@ -63,21 +74,6 @@ related:
       - url: "https://zdnet3.cbsistatic.com/hub/i/r/2017/08/22/d8bbf573-6bb0-43eb-a6ca-aa61aaea6289/thumbnail/1200x675/21e8153bb2991f11ab360ffb8563f7e3/6.jpg"
         width: 1200
         height: 675
-  - title: "Clearview AI: Face-collecting company database hacked"
-    excerpt: "Clearview AI, a start-up with a database of more than three billion photographs from Facebook, YouTube and Twitter, has been hacked. The attack allowed hackers to gain access to its client list but it said its servers had not been breached. Most of its clients are US law enforcement agencies who use its facial-recognition software to identify ..."
-    publishedDateTime: 2020-02-27T11:21:00Z
-    webUrl: "https://www.bbc.com/news/technology-51658111"
-    ampWebUrl: "https://www.bbc.com/news/amp/technology-51658111"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51658111"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 87
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/9BC3/production/_111057893_facialrecognition.gif"
-        width: 1024
-        height: 576
   - title: "'Intruder' steals Clearview AI's entire client list"
     excerpt: "A hot potato: As if facial recognition startup Clearview Ai did not have enough problems, it seems the company cannot sufficiently secure its data. It recently sent out a notice to customers, which are primarily law enforcement agencies, saying that its entire client list was stolen. According to the memo obtained by The Daily Beast ..."
     publishedDateTime: 2020-02-27T00:38:00Z
@@ -182,7 +178,16 @@ related:
       name: Washington Examiner
       domain: washingtonexaminer.com
     quality: 29
+  - title: "Facial-Recognition Company That Works With Law Enforcement Says Entire Client List Was Stolen"
+    excerpt: "Political Reporter A facial-recognition company that contracts with powerful law-enforcement agencies just reported that an intruder stole its entire client list, according to a notification the company sent to its customers. In the notification, which The Daily Beast reviewed, the startup Clearview AI disclosed to its customers that an ..."
+    publishedDateTime: 2020-02-26T14:59:00Z
+    webUrl: "https://www.thedailybeast.com/clearview-ai-facial-recognition-company-that-works-with-law-enforcement-says-entire-client-list-was-stolen"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 0
 
-secured: "MlUzYjT2oRv3TrrdWaRqicE9LjcGs2iBd3ToW/XsiM5wRvMwrTBSsCfz3VBATl+PfgyCe/jJZv6avMgvCieH9OB8h6PaEy7cA1YaqJ1B0PAdMUyYx0EsW4AbPOIgI3/07Y/16s5ESo3Hn+M2/bwoLD2f16OeiSOecfLaljtNDsB2Ra+v+s30ejau/MG5IuOweEaqmEJvR0Da7ElQwFDKgP6IkuOi/ACI691P6bP608VIkdRIrs5pdtqN46Woj2Bccfx7ZIv5UawvvkdDIq1EoISvt3nLu37ETB3BqAB1Jr1u9U1IHz2OOq5T6mn47c0vHnThD80SnUH9Htj7QXZ+AMdA/TJgCo3wnJWDRMZ+zHXOB9QMT2Ua5KjkceaBAzw8XRncDEvdGS4l8XmsCkBDGGixsy2QVGIroEsGtaJokKK8JawkhR0wA49hS/9p9NcWb4s5CQU/f7G0IYPd/5i7rIvvvrEGoIUOJr+d1z+1Gk0=;GGtp+k+Fp1iLERylreHvWg=="
+secured: "L0Fu6TvKzIoI2S3xM8GRuUC61ebHnL+DMwCRpJ8r8rXvICSyD8PIe2pQkhVd3aPdlr3pePX/ChgBaq+1EUZqrMe4/zc55+TPb83IjeSJJYra8B5/m9PbniqwelBXjV66l9GmXQ/XCTqSzFyqNsVk01caMoQQsQOC8JCladVNmxY7kFe4vMKOLJAyo5rM4ejNTKSkdZO4HwdQHIFsy7EdAT1V53xLyYEAqfYc65sbdhpHbTrwaB0lizcITezw4ZRmfKHo8bV4l+rRNMA1/m9kmcNuK/zIRDLlvdAwFCXi7cOFy4hl/vJ0dO2Y1WFOylbj;FTLhZayjPAZvpGjJPe+ncQ=="
 ---
 

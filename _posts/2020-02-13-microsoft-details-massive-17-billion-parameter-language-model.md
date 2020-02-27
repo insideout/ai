@@ -23,21 +23,6 @@ images:
     height: 546
     title: "Microsoft Details Massive, 17-Billion Parameter Language Model"
 
-related:
-  - title: "Microsoft’s deep learning language model Turing-NLG outperforms GPT-2"
-    excerpt: "Let’s see if more parameters mean better results, compared to OpenAI’s GPT-2 and NVIDIA’s Megatron-LM. Turing Natural Language Generation, short Turing-NLG, is a new deep learning language model developed by Microsoft. It was announced on the Microsoft Research Blog. The transformer-based model Turing-NLG can not only generate texts and ..."
-    publishedDateTime: 2020-02-12T18:11:00Z
-    webUrl: "https://jaxenter.com/microsofts-natural-language-processing-turing-nlg-168158.html"
-    type: article
-    provider:
-      name: jaxenter.com
-      domain: jaxenter.com
-    quality: 24
-    images:
-      - url: "https://jaxenter.com/wp-content/uploads/2020/02/microsoft-turing-nlg.jpg"
-        width: 600
-        height: 400
-
 secured: "VkY7QnOTDi+TTczbCzSURZBt+cAFmLmVOlq9307D1aJH+rbuvF2uvNQCru2MRlRD9v5kf1SYWM8qKNqP3dqWYJ+tTOhnfeOovLMa10WEPnp1s+JnggLP1gLwhnRz8/4TrQUMPmlNyEJwVrkU8AjC562TbeM91Gkv2hwwfCKD8fvtp9S/Rj4/ceJld15o1yeAsmDs+tcVB4616+p7y3oBMLHwlAyEjdBFQSh5EOz/3/i0h+dwqI7sZ6S/N8nmFmFb66Dg31tkPwBUizVfFLCm84pHzA5QvdRqucn1jcPbSdWOXehwvxTmAhlc5u16J5t7UFJmK3JCATTG0UAbJCUUzgRiBWulc7oo1TlbW7IJUIvT/20SjWjQqZzc90+MO9qAfSkayarU9HxmasqPM0DutkCyd5CVdZC9Gn7X4ByXHFSCkwWEd5DV661fEF7KanaAAO6QjbqLIBvHJCazsyD/R0qFgGlDm/YBIARHBOl09Ek=;WTQQoFbo1DRI2ARM64pj8g=="
 ---
 
