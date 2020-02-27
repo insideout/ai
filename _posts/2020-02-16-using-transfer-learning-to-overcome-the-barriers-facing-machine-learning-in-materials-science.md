@@ -118,17 +118,6 @@ related:
       - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41377-020-0255-6/MediaObjects/41377_2020_255_Fig1_HTML.png"
         width: 685
         height: 382
-  - title: "How AI and data analytics are driving composable infrastructure adoption in datacentres"
-    excerpt: "According to IT market watcher IDC, AI will be a core component of enterprise workloads by 2024 ... but are much trickier to program than developing software to run on a GPU. These accelerators are typically plugged into a standard server and work in conjunction with the existing processor cores. This is known as heterogeneous computing ..."
-    publishedDateTime: 2020-02-12T10:50:00Z
-    webUrl: "https://www.computerweekly.com/feature/How-AI-and-data-analytics-are-driving-composable-infrastructure-adoption-in-datacentres"
-    ampWebUrl: "https://www.computerweekly.com/feature/How-AI-and-data-analytics-are-driving-composable-infrastructure-adoption-in-datacentres?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/feature/How-AI-and-data-analytics-are-driving-composable-infrastructure-adoption-in-datacentres?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 31
   - title: "Landis+Gyr’s Revelo™ Brings Pattern Recognition and Machine Learning to the Edge of the Grid"
     excerpt: "Founded in 2013 by pioneers in speech recognition, Sense uses machine learning technology to provide real-time insights on device behavior, even for those devices that are not “smart.” Customers rely on Sense for a wide range of uses including checking what time their kids get home, monitoring their home appliances, determining whether they ..."
     publishedDateTime: 2020-02-12T19:42:00Z

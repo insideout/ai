@@ -33,19 +33,6 @@ related:
       name: Mashable
       domain: mashable.com
     quality: 28
-  - title: "Self-Driving Cars Hardly Around The Corner: Panelists At Synapse Summit"
-    excerpt: "Consumers are becoming more aware of connectivity in cars, even if not knowledgeable about those that are self-driving. There are really two aspects of the future of vehicles: connected cars and autonomous cars, those that can drive themselves without a human behind the wheel. We had a robust discussion about this on a panel discussion I ..."
-    publishedDateTime: 2020-02-17T15:55:00Z
-    webUrl: "https://www.mediapost.com/publications/article/347012/self-driving-cars-hardly-around-the-corner-paneli.html"
-    type: article
-    provider:
-      name: MediaPost
-      domain: mediapost.com
-    quality: 24
-    images:
-      - url: "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2020/02/13/volvoautonomous-volvoselfdriving_q5iXO4z.jpg"
-        width: 600
-        height: 375
 
 secured: "YZBwassD/YzeP10iRuZbE+9jdj1NBCWopHZwTFnO7eQgLxI0+h4rwQO5BhKOHRBlRDEJYlByeJzTWltM1qNvv6xtMrhz9Bq4vjFwH6w8iMoJTJ+se4iTStxwhVclWulYJ/My/0pg1Y6fS779RWOzIoMCr8v0RsqikUoiHYJNoXclEcSU+eEbtej0OnHMa/S0S5JM+EMiqc43lOBC4FNL0zgbAthwbkOoQ1hG4QJDBSM1x38z+Oe/Rnq5utB/1wglkzmHHvPVa0X3WbRuV0dxjqLQqeZEIaXnU67Ne6rgoLfOcKOiLH9rf8WCR2qnCVJU;yVimvOWCFfyqGLT4bzG/LA=="
 ---

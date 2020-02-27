@@ -25,6 +25,6 @@ images:
     height: 338
     title: "What are Machine Learning and Deep Learning in Artificial Intelligence"
 
-secured: "mach50sDNZZqqhAGBXKH4b3YmIE+ZuvHLLu/uEhH6kpnwTBbgZp+xMbT6Zabqy+Ih9eS2oqDo6rQ7r2ugDDtZoNRfLrRFnH73umAvZxU0bAucohhZQSlPMeCsICeaTiahxlBVs2xSwO7nXLBgCIszOs9QHSew7N9YZbCSrqt9TJSczEvyirr5w5pJDPSFfd9PcI6dzJaAMVC0/PHb9OQLd10jfzMnzSospMx2eTUchCDB9WAyxY4oRURLi5gur8OSDwVUcMhvZlWc/D9dsu0HzVb/4cVZiDasFmy8gjS7h+ZhJ55reWvh+WkrvTcO6Ss;kTgxwKSLATIc3P1kn+OvgQ=="
+secured: "ATVRn51jGc+4cj9L5zj0M4CkJE7tWoHOYjue+KhdKdxwTF/bCEGRe8yxZxRddpMuGc8yUjDmeI7t4m80AUXWx2UA580heAeH5kVMFHSwTZ96tHNHU6ym8hzvdJC2XQOV/5uW4yU0eZWqR+hQN/btRHrcsHv8eIaiEF7mazqbo+ax52K/C47Yth5EYbPdvfCz+i1Gmvfb9SFEszHPXty/r8FPoeBntEZry6oLK6iksd6rLIixOQTXmrwdyp3DmBzNGoyVf+6g9RezA3ICKl1qMfIzEihIAgoqJOA4Nk+JIe9XOkTgz9ucY5hxsLoVSeNt;WWu2Y6CnC6KBtq/knCM9Cw=="
 ---
 

@@ -30,6 +30,15 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Voice Assistant Market Innovations, And Top Companies – Forecast To 2029| Amazon Inc, Google Inc, Apple Inc"
+    excerpt: "Segmentation by Technology:, Speech Recognition, Speech Recognition System, Speaker Dependent Systems, Speaker Independent Systems, Natural Language Processing (NLP), Text-to-Speech Recognition, Voice Recognition. Segmentation by Application: Messenger Bots, Websites, Contact Centers. Segmentation by End User: Individual Users, SMEs ..."
+    publishedDateTime: 2020-02-12T20:18:00Z
+    webUrl: "https://apnews.com/Wired Release/f77df562f1ed5f919f28a22f80c01d58"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
 
 secured: "RiptJj/VHPQmZL5odVXb7RNfdeCvdzu0v5uXWmeNkcB6t3gjjpT6SvGPFwOmWA+2YY32d0yOA7nQKC2/viqhQC9S1w+TcUT+br/wL6z9tthJcb7xKCx4qRmwle1fGDQJGNutNkjyThMlSS8cNJWsGTs7oNR0v6dQwbPzQPzGE9DMcB4R4j7DubSK/fblkgA9uvzpzdrlhiE0Az7qK28KavT5pf98Vuz9Q2PqqI1K64R5tK77bqInEDceaSfjLJ5c6IOZH71ND3cgKbLUiblL49yl2jucgZ8Dqb+qjmPOTRm9hcGwHx10VMLwT3tb945K;43nydjTKA+jP31OZmy2Z/w=="
 ---

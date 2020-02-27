@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Orthogonal Representations of Object Shape and Category in Deep Convolutional Neural Networks and Human Visual Cortex"
-excerpt: "In conclusion, despite shape and category often being confounded in natural images, and the possibility for artificial neural networks to exploit this correlation when performing classification tasks, we find that deep convolutional neural networks are able to represent category information independently from low-level shape in a manner similar ..."
+excerpt: "Deep Convolutional Neural Networks (CNNs) are gaining traction as the benchmark model of visual object recognition, with performance now surpassing humans. While CNNs can accurately assign one image to potentially thousands of categories, network performance could be the result of layers that are tuned to represent the visual shape of objects ..."
 publishedDateTime: 2020-02-12T10:21:00Z
 webUrl: "https://www.nature.com/articles/s41598-020-59175-0"
 type: article
-quality: 18
-heat: 18
+quality: 1
+heat: 1
 published: false
 
 provider:
@@ -15,7 +15,6 @@ provider:
 
 topics:
   - AI
-  - Machine Learning
   - Computer Vision
 
 images:
@@ -24,6 +23,6 @@ images:
     height: 626
     title: "Orthogonal Representations of Object Shape and Category in Deep Convolutional Neural Networks and Human Visual Cortex"
 
-secured: "xsH6qeciI5asOTcXHWcQMRbVuw6/L0BXAInRz6QHeyhRaLW+2GrqltU8jmKV2EIny+vcp9ywJkqz1G0QkYJKd4ZBYNHZQUlqxVBm8It2NEsh1A5cqp0OeWliLe6aFmAsgM3GqkYgVetuOyAoteeCpmeT7YSx9CH523QmE7wiq4MQm9UFfOgMyxfXZmZ9evqTJz43Sqj4F7Dug6W6gFVzdK/E273aYgj6+yZQVA4mvKjaeI8gTColcep7kiRsf+AxlRq8xG3LkDUvnAU97zKn7IOxPCXWqxpvUGuI/jLM54yupmzb7jU+HegMymR5hIeVLLsXR7dRcHfKJzj8S3Sgwb3X4JL/VKUzchxsEEbeMUJpKZbBCx65EHBWHkxE4UtAf39u4733kZ0a7IOaGyBu0+VjZbaD3sXflvwCcKk0sBcME0ZpLQqySSVWhjxfeTI/HTa8xMln0VeszJHVBos3e6hROLJTNzb9BeOIbmzdSe0=;DzZzkpIzS7SiXaDefotmJg=="
+secured: "0AmZAm2CAQVJL+AVomAusoFUYa2na0lHn2AQ9LEl/4odM1q52X85QudlvwoRJdqbVmNNMb8+hSjgP62uvnzYw9TGivMx8MJUXoMvJWb8p1qezyS3Gf5WUJ7uFAik4bF4z3jGNGkCCG+nc3CGyCY4N47eWQ78WJZDq5NNFPe1FISuPVg0ONu8HfRnYY8wXh4KWYAauH8S0/HVcUpKmGbUpDOY11lkb7MK4Go2niW/aT3EtKTca+C5cDyq80aykP/caFc9cdx6vp4vwX/obuUILmK40Y/qphjA+W+dFm+zRZpYSjH0n6Aqq22xicdolNak;1HMeTr2gEwAZaH+qUq2ygw=="
 ---
 

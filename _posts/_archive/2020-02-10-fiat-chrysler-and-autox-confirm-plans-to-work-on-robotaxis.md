@@ -29,6 +29,6 @@ images:
     height: 350
     title: "Fiat Chrysler and AutoX confirm plans to work on robotaxis"
 
-secured: "Xfbxu12joTyXi9qVnVfCDqGtIDENlTFLXnIZivYtmO9dC44H+kYMHpyuR6ChAJvHMwBtFIVymV9/IzQuVNUED/UAPse6suJCYW6x7mrq1Ckl7yL2raqajciJNvOc5sZ9JFyOlfYKpnqcuxVpGp8G7Lx2nDh9DvN0aGkszu3uR4xm5mzZKZ466zfxNZXf+mD/+MltEApD7qaEyQrHAdJRMRegMOgJknprr+uiChIMUkCChkbHWq9eiBQAfrzQmkmbqJ2DIRhjOamIiI29Y0lr5a3FMppXnP2f9kvD/b4IxAkZhAWUpuVwhljkrYu788oO;Cq1hT7fUpESiFeKcrWG7+Q=="
+secured: "3bPjajZg8nYA2dJ6vU4QFa4gB/aR+t3ZaBo/wO3Z5lkK7OZgpbwFhVEsEmUesBfLfn3spEPx7PgZwNhqrl0anie3bY+rFUBJh29hLANa9h4P8Y2qtCvF5lwnOvlqP8KjAJI9fM06tr59/NFc0xaEgIgVGP+A1vnqQNIqV0/9L5p+XGCwdMd0iefpXqv37kHpJHqIouplKP1yAsWqttKrDLu8iOk36MlXUiXPm1dvQmkOMwXmzPt3SqrLwXyOao6uKrNIjk5ZRWfLBNZ3bDwNXOUz2j4C9qLX9gTvH3bW8yxvArfRdpGt4tm480/ylFts;OUfXcUB6G/FMUO13sqcqMQ=="
 ---
 

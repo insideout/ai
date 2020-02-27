@@ -111,17 +111,6 @@ related:
       - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41377-020-0255-6/MediaObjects/41377_2020_255_Fig1_HTML.png"
         width: 685
         height: 382
-  - title: "How AI and data analytics are driving composable infrastructure adoption in datacentres"
-    excerpt: "According to IT market watcher IDC, AI will be a core component of enterprise workloads by 2024 ... but are much trickier to program than developing software to run on a GPU. These accelerators are typically plugged into a standard server and work in conjunction with the existing processor cores. This is known as heterogeneous computing ..."
-    publishedDateTime: 2020-02-12T10:50:00Z
-    webUrl: "https://www.computerweekly.com/feature/How-AI-and-data-analytics-are-driving-composable-infrastructure-adoption-in-datacentres"
-    ampWebUrl: "https://www.computerweekly.com/feature/How-AI-and-data-analytics-are-driving-composable-infrastructure-adoption-in-datacentres?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/feature/How-AI-and-data-analytics-are-driving-composable-infrastructure-adoption-in-datacentres?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 31
   - title: "Using Transfer Learning to Overcome the Barriers Facing Machine Learning in Materials Science"
     excerpt: "Machine learning’s ability to perform intellectually demanding tasks across various fields, materials science included, has caused it to receive considerable attention. Many believe that it could be used to unlock major time and cost savings in the development of new materials. The growing demand for the use of machine learning to derive fast ..."
     publishedDateTime: 2020-02-16T00:03:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-26T22:03:00Z
 webUrl: "https://medium.com/@simon.huber/classifying-images-using-tensorflow-and-faced-challenges-a-case-study-f283c039d720"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -28,6 +28,19 @@ images:
     title: "Classifying images using TensorFlow and faced challenges — a case study"
 
 related:
+  - title: "The Challenges Of Building Inferencing Chips"
+    excerpt: "As the field of AI continues to advance, different approaches to inferencing are being developed. Not all of them will work. Putting a trained algorithm to work in the field is creating a frenzy of activity across the chip world, spurring designs that range from purpose-built specialty processors and accelerators to more generalized extensions ..."
+    publishedDateTime: 2020-02-27T03:45:00Z
+    webUrl: "https://semiengineering.com/the-challenges-of-building-inferencing-chips/"
+    type: article
+    provider:
+      name: Semiconductor Engineering
+      domain: semiengineering.com
+    quality: 39
+    images:
+      - url: "https://i2.wp.com/semiengineering.com/wp-content/uploads/2020/02/Akida_Block_Diagram.png?fit=1060%2C469&#038;ssl=1"
+        width: 1060
+        height: 469
   - title: "SimCorp launches new machine learning initiative with start-up, Alkymi, targeting institutional investment challenges"
     excerpt: "Press release SimCorp, a leading provider of investment management solutions and services to the global financial services industry, today announces"
     publishedDateTime: 2020-02-26T11:00:00Z

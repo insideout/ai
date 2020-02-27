@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.scmp.com/news/world/europe/article/3050895/what-i-saw-ho
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/world/europe/article/3050895/what-i-saw-hong-kong-was-truly-scary-eu-urge-caution-use-facial"
 type: article
 quality: 29
-heat: -1
+heat: 29
 published: false
 
 provider:
@@ -24,23 +24,6 @@ images:
     width: 1200
     height: 630
     title: "‘What I saw in Hong Kong was truly scary’: EU to urge caution on use of facial recognition amid fears of Big Brother-style society"
-
-related:
-  - title: "How to use voice recognition in Pokémon HOME"
-    excerpt: "Because you can use it from a mobile device, you can use it with voice recognition. You can’t use everything with voice recognition, though. Only a handful of features register with it, and you should know what they are because they will have a microphone next to them in your mobile application. For example, when you go into your Pokémon box ..."
-    publishedDateTime: 2020-02-12T10:16:00Z
-    webUrl: "https://www.gamepur.com/guides/how-to-use-voice-recognition-in-pokemon-home"
-    ampWebUrl: "https://www.gamepur.com/guides/how-to-use-voice-recognition-in-pokemon-home/amp"
-    cdnAmpWebUrl: "https://www-gamepur-com.cdn.ampproject.org/c/s/www.gamepur.com/guides/how-to-use-voice-recognition-in-pokemon-home/amp"
-    type: article
-    provider:
-      name: Gaming Polls
-      domain: gamepur.com
-    quality: 44
-    images:
-      - url: "https://www.gamepur.com/wp-content/uploads/2020/02/Pokemon-HOME-mystery-gifts.jpg"
-        width: 1200
-        height: 675
 
 secured: "sHfQOU2CA43hBGxY+powPXARvRqSBvL0drewBJhPTJkiaeuyBVAFfPzmgkbRl6EN96n9NBLf6JzvOoK0yZfXpwA14Dco4hoouVSxPKLDDOJtFobpNIwmaiqnA+H7YuXtgssl5cFB4muCl2G89oMYQR55KIAj/VqDDB5bV4O42HNss9ZO74ZiV2wwDVSKumn3PMhtgab3HSty9maq8q01C60ZQLsy9P6vQPY13qbXKWmVnlo7Bs4Zx1hWg7KeCsUCdSpuErk7WyvfoVmGJorUAnKjRAuvqN1/OqALc7xR9Av18wCjwQgu4h/Wpg+oyBc5;YCKSuhytE1CojFxxWLJrNA=="
 ---

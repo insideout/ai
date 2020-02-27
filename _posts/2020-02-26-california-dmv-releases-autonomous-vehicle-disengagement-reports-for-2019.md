@@ -8,8 +8,8 @@ ampWebUrl: "https://venturebeat.com/2020/02/26/california-dmv-releases-latest-ba
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/26/california-dmv-releases-latest-batch-of-autonomous-vehicle-disengagement-reports/amp/"
 type: article
 quality: 73
-heat: 83
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -30,19 +30,21 @@ images:
     title: "California DMV releases autonomous vehicle disengagement reports for 2019"
 
 related:
-  - title: "Calif.'s disengagement reports are here; they shouldn't be viewed as a self-driving report card"
-    excerpt: "California's Department of Motor Vehicles released on Wednesday its annual cache of records related to the testing of self-driving technology on the state's public roads. The importance of these records is open to interpretation. Submitted by most of the companies testing autonomous technology, the records contain information on the total miles ..."
-    publishedDateTime: 2020-02-26T22:32:00Z
-    webUrl: "https://www.autonews.com/mobility-report/califs-disengagement-reports-are-here-they-shouldnt-be-viewed-self-driving-report"
+  - title: "Toyota had the most autonomous vehicle disengagements, 27,000% more than Baidu Apollo"
+    excerpt: "California's annual disengagement report is a peek into the state of self-driving car engineering, and we're going to dive into it. Baidu's open-source Apollo self-driving car platform is 2019's king of the hill when it comes to fewest disengagements per mile."
+    publishedDateTime: 2020-02-27T03:12:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/2019-california-self-driving-disengagement-report-baidu-waymo-cruise/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/2019-california-self-driving-disengagement-report-baidu-waymo-cruise/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/2019-california-self-driving-disengagement-report-baidu-waymo-cruise/"
     type: article
     provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 12
+      name: CNET
+      domain: cnet.com
+    quality: 82
     images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/CALIDISENGAGEMENT-MAIN_i.jpg"
-        width: 800
-        height: 600
+      - url: "https://cnet2.cbsistatic.com/img/VObAmj3BY9w3aStdCCRNnotH9qU=/2018/03/20/ff4b44ef-8be7-4a55-82cc-45ca46128505/toyota-autonomous-ogi.jpg"
+        width: 1200
+        height: 630
 
 secured: "gAoX0QRse4ryc6Yyp38qr/jJFcUTTH0vpT3iwS3gqyodCiMq3z1BXjnEAnAiYJEwb9Bl+yRG8tw2SZj67Ai7J57RYl4nV+y9FrJioxCpiPRikdbIT8WqQeuhSedSrhR12ph3H0A+nI3cmV7dYUfTZSZ2VWEsrQcZBEdLX6LfEuwrsfrucijIhd66d/WPWi1pNRJ84I0zNJ/sRF+IUjFLouXZs6sIhNui+C58w46l3i1hsO8oAgK/+AMNHxSxASwYxaC3HYU9+La71fVXLVoH/PmFFSsfsSX3I0RJDevPBEr1xr15I3oIk6HpwtlYn7zQgfAc0mhC3RVsvBeOfPmk9tE9+Ztp4ACwKD0niyysaSCjdpTEtUN6HzG12cU0xjWccuUGoSJGiNo8VyEU7FrQHi/dc+0WpLV+LdKQohVCvZis8XK20i3r0QZmJf8SvYeiodx9+zdjSbwREP4/kuZ8R8QtYYaCtY5Y+BTPjVvi2/U=;G1z5SbPVNGAUuV7tPME5Jw=="
 ---

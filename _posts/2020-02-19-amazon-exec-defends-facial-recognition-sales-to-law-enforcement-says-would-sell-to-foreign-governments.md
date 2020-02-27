@@ -383,19 +383,6 @@ related:
       - url: "https://cdn.meritalk.com/wp-content/uploads/2019/01/facial-recognition-2-min.jpg"
         width: 800
         height: 450
-  - title: "Clearview AI: why the controversial facial recognition technology should be a concern for the UK, according to experts"
-    excerpt: "A controversial US facial recognition company is raising concerns over privacy after it created a database using nearly three billion public photos of people from sites such as Facebook, Twitter and YouTube. Clearview AI, until recently a relatively unknown tech startup, has made its facial recognition software available to law enforcement ..."
-    publishedDateTime: 2020-02-12T10:30:00Z
-    webUrl: "https://inews.co.uk/news/technology/clearview-ai-facial-recognition-technology-uk-explained-1555522"
-    type: article
-    provider:
-      name: i
-      domain: inews.co.uk
-    quality: 30
-    images:
-      - url: "https://inews.co.uk/images-i.jpimedia.uk/imagefetch/https://inews.co.uk/wp-content/uploads/2020/02/Thumbnail-maker-91.jpg"
-        width: 1200
-        height: 630
   - title: "Civil liberties group warns about face recognition system considered by Florida law enforcement departments"
     excerpt: "Civil liberties advocates are warning about powerful face recognition software that could be coming to a police department near you. The Tampa Bay Times is reporting that about a dozen law enforcement agencies in Florida have tested or purchased a facial recognition system from a company called Clearview AI. WMNF interviewed Nate Freed Wessler ..."
     publishedDateTime: 2020-02-14T22:14:00Z
