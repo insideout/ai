@@ -2,133 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_posts/2020-02-26-macadamian-to-host-ai-in-healthcare-webinar-with-microsoft-canadas-national-chief-data-scientist.md",
-      "title": "Macadamian to host AI in Healthcare webinar with Microsoft Canada's National Chief Data Scientist",
-      "excerpt": "GATINEAU, Quebec, Feb. 26, 2020 /PRNewswire/ -- Macadamian, a leading digital and connected healthcare software development consultancy, announced that it will host a webinar with Microsoft Canada titled AI in Healthcare: 5 Things Every Product Owner Should Know.",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/macadamian-to-host-ai-in-healthcare-webinar-with-microsoft-canadas-national-chief-data-scientist-2020-02-26",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-26T03:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Macadamian to host AI in Healthcare webinar with Microsoft Canada's National Chief Data Scientist",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-26-machine-learning-artificial-intelligence-virtual-reality-and-retailers.md",
-      "title": "Machine Learning, Artificial Intelligence, Virtual Reality And Retailers",
-      "excerpt": "These technologies are very quickly making the transition from novelties to be marveled at to fixtures that will define many of the activities that comprise our daily lives. But how does this translate for retailers?",
-      "heat": 118,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/26/machine-learning-artificial-intelligence-virtual-reality-and-retailers/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/26/machine-learning-artificial-intelligence-virtual-reality-and-retailers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/26/machine-learning-artificial-intelligence-virtual-reality-and-retailers/amp/",
-      "publishedDateTime": "2020-02-26T04:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1034313794/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 474,
-          "title": "Machine Learning, Artificial Intelligence, Virtual Reality And Retailers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-26-mediatek-announces-helio-p95-with-apu-20-powervr-gpu-and-more.md",
-      "title": "MediaTek announces Helio P95 with APU 2.0, PowerVR GPU and more",
-      "excerpt": "There is an Imagination PowerVR GM 94446 GPU with a 10% improvement in performance over the last generation ... The processor has a triple ISP with 14-bit RAW and 10-bit YUV processing. It also has AI-camera enhancements such as AI-NR low-light photography, 5-person human pose tracking, multiple objects and scene identification, and AI depth ...",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.gizmochina.com/2020/02/26/mediatek-announces-helio-p95-with-apu-2-0-powervr-gpu-and-more/",
-      "ampWebUrl": "https://www.gizmochina.com/2020/02/26/mediatek-announces-helio-p95-with-apu-2-0-powervr-gpu-and-more/?amp",
-      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2020/02/26/mediatek-announces-helio-p95-with-apu-2-0-powervr-gpu-and-more/?amp",
-      "publishedDateTime": "2020-02-26T10:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2020/02/Helio-P95.png",
-          "width": 822,
-          "height": 594,
-          "title": "MediaTek announces Helio P95 with APU 2.0, PowerVR GPU and more",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_posts/2020-02-26-nvidia-dlss-in-2020-stunning-results.md",
       "title": "Nvidia DLSS in 2020: Stunning Results",
       "excerpt": "This AI algorithm also leveraged a new feature on RTX Turing GPUs: the tensor cores. While these cores are most likely included on the GPU to make it also suitable for data center and workstation use cases, Nvidia found a way to use this hardware feature for gaming. Later, Nvidia decided to ditch the tensor cores for their cheaper Turing GPUs ...",
@@ -423,7 +296,7 @@
       "path": "_posts/2020-02-26-simplifying-conversational-ai-one-interaction-at-a-time.md",
       "title": "Simplifying Conversational AI, One Interaction At A Time",
       "excerpt": "What if we could speak with our devices, cars, and homes just as easily as we do with our friends? Conversation is the bedrock of human communication, a transformative tool that reveals what’s inside our heads and hearts.",
-      "heat": 137,
+      "heat": 147,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.forbes.com/sites/googlecloud/2020/02/26/simplifying-conversational-ai-one-interaction-at-a-time/",
@@ -646,7 +519,7 @@
       "path": "_posts/2020-02-26-toyota-steers-400-million-to-self-driving-startup-ponyai.md",
       "title": "Toyota steers $400 million to self-driving startup Pony.ai",
       "excerpt": "With this new investment, their relationship will become even closer, with the automaker and the startup “co-developing” mobility products like “mobility services.” Pony.ai has been testing robot taxis in Beijing and Guangzhou since late 2018 as well as in Fremont and Irvine, California. The startup claims to be the first company to ...",
-      "heat": 321,
+      "heat": 331,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.theverge.com/2020/2/25/21152817/toyota-pony-ai-self-driving-car-investment-valuation-china-silicon-valley",
@@ -996,6 +869,51 @@
       ]
     },
     {
+      "path": "_posts/2020-02-27-data-breach-at-controversial-face-recognition-firm-shows-company-cant-be-trusted-officials-say.md",
+      "title": "Data Breach at Controversial Face Recognition Firm Shows Company Can't Be Trusted, Officials Say",
+      "excerpt": "A security breach at a face-recognition startup, already embattled over its unfettered collection of Americans’ personal data on behalf of its hundreds of law enforcement clients, further underscores the potential hazards faced by consumers at the hands of a controversial and largely-unregulated surveillance technology, federal officials said ...",
+      "heat": 106,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://gizmodo.com/data-breach-at-controversial-face-recognition-firm-show-1841938311",
+      "ampWebUrl": "https://gizmodo.com/data-breach-at-controversial-face-recognition-firm-show-1841938311/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/data-breach-at-controversial-face-recognition-firm-show-1841938311/amp",
+      "publishedDateTime": "2020-02-27T00:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/s--WWpD68bj--/c_scale,f_auto,fl_progressive,q_80,w_800/uuy0qsq0x4gxglqws210.jpg",
+          "width": 800,
+          "height": 450,
+          "title": "Data Breach at Controversial Face Recognition Firm Shows Company Can't Be Trusted, Officials Say",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_posts/2020-02-27-freshworks-acquires-us-based-ai-startup-answeriq.md",
       "title": "Freshworks acquires US-based AI startup AnsweriQ",
       "excerpt": "BENGALURU: Software-as-a-service (SaaS) unicorn Freshworks Inc. has acquired US-based artificial intelligence (AI) startup AnsweriQ Inc. for an undisclosed amount. Freshworks said that AnsweriQ complements its own AI engine, Freddy. AnsweriQ's chief executive officer (CEO) Pradeep Rathinam has joined Freshworks as its chief customer officer.",
@@ -1174,10 +1092,10 @@
       "heat": 86,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.vice.com/en_us/article/n7j487/is-gmail-biased-or-are-some-presidential-campaigns-just-better-at-marketing",
-      "ampWebUrl": "https://www.vice.com/amp/en_us/article/n7j487/is-gmail-biased-or-are-some-presidential-campaigns-just-better-at-marketing",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/n7j487/is-gmail-biased-or-are-some-presidential-campaigns-just-better-at-marketing",
-      "publishedDateTime": "2020-02-27T05:00:00-08:00",
+      "webUrl": "https://www.vice.com/en_ca/article/n7j487/is-gmail-biased-or-are-some-presidential-campaigns-just-better-at-marketing",
+      "ampWebUrl": "https://www.vice.com/amp/en_ca/article/n7j487/is-gmail-biased-or-are-some-presidential-campaigns-just-better-at-marketing",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_ca/article/n7j487/is-gmail-biased-or-are-some-presidential-campaigns-just-better-at-marketing",
+      "publishedDateTime": "2020-02-27T07:12:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VICE",
@@ -1351,7 +1269,7 @@
       "path": "_posts/2020-02-27-toyota-had-the-most-autonomous-vehicle-disengagements-27000-more-than-baidu-apollo.md",
       "title": "Toyota had the most autonomous vehicle disengagements, 27,000% more than Baidu Apollo",
       "excerpt": "California's annual disengagement report is a peek into the state of self-driving car engineering, and we're going to dive into it. Baidu's open-source Apollo self-driving car platform is 2019's king of the hill when it comes to fewest disengagements per mile.",
-      "heat": 92,
+      "heat": 102,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.cnet.com/roadshow/news/2019-california-self-driving-disengagement-report-baidu-waymo-cruise/",
@@ -2109,6 +2027,96 @@
       "topics": [
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2019-12-20-computer-vision-and-the-ccpa-what-you-need-to-know.md",
+      "title": "Computer Vision and the CCPA: What You Need to Know",
+      "excerpt": "This article will cover what companies who have deployed or are considering deploying computer vision technology should do with the biometric data they collect in order to be compliant with the CCPA. The National Law Review does a tremendous job of ...",
+      "heat": 69,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/trueface-ai/computer-vision-and-the-ccpa-what-you-need-to-know-928477de0601",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-12-19T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*YGkB52a5tgp8vGHleh2bAw.png",
+          "width": 1200,
+          "height": 744,
+          "title": "Computer Vision and the CCPA: What You Need to Know",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2019-12-20-facebook-discovers-fakes-that-show-evolution-of-disinformation.md",
+      "title": "Facebook Discovers Fakes That Show Evolution of Disinformation",
+      "excerpt": "The network exposed by Facebook used fake profile photos generated with artificial intelligence.Credit...Graphika/The Atlantic Council’s Digital Forensic Research Lab Facebook said on Friday that it had removed hundreds of accounts with ties to the Epoch ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/2019/12/20/business/facebook-ai-generated-profiles.html",
+      "ampWebUrl": "https://www.nytimes.com/2019/12/20/business/facebook-ai-generated-profiles.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2019/12/20/business/facebook-ai-generated-profiles.amp.html",
+      "publishedDateTime": "2019-12-20T15:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2019/12/20/business/20takedown3/20takedown3-facebookJumbo-v2.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": "Facebook Discovers Fakes That Show Evolution of Disinformation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
       ]
     }
   ],

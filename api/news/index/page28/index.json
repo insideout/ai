@@ -2,96 +2,6 @@
   "page": 28,
   "value": [
     {
-      "path": "_posts/_archive/2020-02-10-tyson-takes-computer-vision-to-the-chicken-plant.md",
-      "title": "Tyson Takes Computer Vision to the Chicken Plant",
-      "excerpt": "The meat processor plans to expand the use of computer vision to track how much chicken moves through its plants, part of an effort to invest more in automation and artificial intelligence to cut costs and reduce waste.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wsj.com/articles/tyson-takes-computer-vision-to-the-chicken-plant-11581330602",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/tyson-takes-computer-vision-to-the-chicken-plant-11581330602",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tyson-takes-computer-vision-to-the-chicken-plant-11581330602",
-      "publishedDateTime": "2020-02-10T02:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-152065/social",
-          "width": 1280,
-          "height": 640,
-          "title": "Tyson Takes Computer Vision to the Chicken Plant",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-02-10-uk-public-sector-failing-to-be-open-about-its-use-of-ai-review-finds.md",
-      "title": "UK public sector failing to be open about its use of AI, review finds",
-      "excerpt": "He has also personally championed a chatbot startup, Babylon Health, that’s using AI for healthcare triage — and which is now selling a service in to the NHS. Policing is another area where AI is being accelerated into UK public service delivery, with a number of police forces trialing facial recognition technology — and London’s Met ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/02/10/uk-public-sector-failing-to-be-open-about-its-use-of-ai-review-finds/",
-      "ampWebUrl": "https://techcrunch.com/2020/02/10/uk-public-sector-failing-to-be-open-about-its-use-of-ai-review-finds/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/10/uk-public-sector-failing-to-be-open-about-its-use-of-ai-review-finds/amp/",
-      "publishedDateTime": "2020-02-10T06:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-1074644658-2.jpg?w=1024",
-          "width": 1024,
-          "height": 662,
-          "title": "UK public sector failing to be open about its use of AI, review finds",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-02-10-us-army-to-use-gamers-brain-waves-to-train-military-robot-swarms.md",
       "title": "US Army to use gamers’ brain waves to train military robot swarms",
       "excerpt": "The U.S. Defense Advanced Research Projects Agency, known as DARPA, awarded a team from the University of Buffalo's Artificial Intelligence Institute a $316,000 grant for the study. Although swarm robotics is inspired by many things, including ant colonies ...",
@@ -2156,6 +2066,95 @@
       "topics": [
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-02-12-andrew-yang-an-ai-first-candidate-drops-out-of-presidential-race.md",
+      "title": "Andrew Yang, an AI-first candidate, drops out of presidential race",
+      "excerpt": "(Reuters) — Andrew Yang, an entrepreneur whose unlikely White House bid evolved into a serious campaign thanks to grassroots enthusiasm, pulled out of the Democratic presidential race on Tuesday after New Hampshire delivered him a second straight poor showing. Yang, 45, who ran for president despite having no political background, surprised ...",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/11/andrew-yang-an-ai-first-candidate-drops-out-of-presidential-race/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/11/andrew-yang-an-ai-first-candidate-drops-out-of-presidential-race/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/11/andrew-yang-an-ai-first-candidate-drops-out-of-presidential-race/amp/",
+      "publishedDateTime": "2020-02-11T19:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/andrew-yang-1.jpg?fit=5048%2C2524&strip=all",
+          "width": 5048,
+          "height": 2524,
+          "title": "Andrew Yang, an AI-first candidate, drops out of presidential race",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-02-12-artificial-intelligence-ai-in-healthcare-market-to-register-high-revenue-growth-at-519-cagr-by-2023.md",
+      "title": "Artificial Intelligence (AI) in Healthcare Market To Register High Revenue Growth At 51.9% CAGR by 2023",
+      "excerpt": "Healthcare Artificial Intelligence (AI) Market Scenario As per a report published by Market Research Future (MRFR), the global healthcare artificial intelligence market is likely to capture an impressive CAGR of 51.",
+      "heat": 123,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-to-register-high-revenue-growth-at-519-cagr-by-2023-2020-02-12",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-12T12:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence (AI) in Healthcare Market To Register High Revenue Growth At 51.9% CAGR by 2023",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
       ]
     }
   ],

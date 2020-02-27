@@ -207,6 +207,19 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fs3-ap-northeast-1.amazonaws.com%2Fpsh-ex-ftnikkei-3937bb4%2Fimages%2F9%2F4%2F3%2F7%2F22297349-2-eng-GB%2FCropped-156682855220190826N%20Pony%20ai%20autonomous%20car_Data.jpg?source=nar-cms&width=1024&height=512&fit=cover&gravity=faces"
         width: 1024
         height: 512
+  - title: "Toyota invests $400M in Chinese self-driving startup Pony.ai"
+    excerpt: "The latest funding values the company at approximately $3 billion, making it the most valuable self-driving startup to come out of China. Pony.ai was founded in 2016 by former executives at Chinese tech company Baidu and is currently testing its self-driving prototypes in Beijing and Guangzhou in China and in Irvine and San Francisco in California."
+    publishedDateTime: 2020-02-27T15:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1127276_toyota-invests-400m-in-chinese-self-driving-startup-pony-ai"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 39
+    images:
+      - url: "https://images.hgmsites.net/hug/pony-ai-self-driving-prototype_100737587_h.jpg"
+        width: 1920
+        height: 932
   - title: "China’s Pony.ai nabs $400 million in new funding from Toyota"
     excerpt: "Autonomous vehicle startup Pony.ai on Wednesday announced that it has raised $400 million in a funding round from Toyota Motor Corporation, the first-ever and biggest investment to date in a Chinese AV company by the Japanese auto giant. Why it matters: The latest investment is expected to help Pony.ai widen the gap between the company and its ..."
     publishedDateTime: 2020-02-26T05:47:00Z
@@ -326,6 +339,6 @@ related:
       domain: moneycontrol.com
     quality: 14
 
-secured: "wcUhn2Zqe6GifEmwmOYPBEWqcuwRV4BTlS1PMWA3Qjkxh0OGQIsSCIiv+l1RdzOCXVtzXHfRXi06rzLZ5Hmk5UKuw6NAR+vP8/vgvfWVo+2XtZM17RFXiYEep0JkTRB5Xy1D5aSuClFmBbSOpfRh9czGM2DMuE3CiftJTcAbu8jtithGxzA8jfgcVPVPzzgjmKwbe3mIFehlDY18tj0xJIH9lqBaVpshhw0K8Z8p/+2MfkpMWcTo9j/k8xvriZMdAi7186HVBvHUhOziJHteKSn5Mxv/Hlh8pLipDP+xa6EmpQPxJau4VsxEEg+A9cw0;73k8/mveWwCP5tRnV8+50Q=="
+secured: "KGr1w5/jtrkxMNmJ8xfoFs10ZLy0ebMjQ9D91sE19R3c/EF8eVJF6Sa/n1flIN0wyxEv7cJa5rNd+WXrJtxJ48FMaXyfp1T1Hf30f64w0RCX55nDU+jgUbEZH0yx+onXoa5eqTIAslpcfmpsTup1GFObsnCRBoP+cAo5GuS2d8SNeC+2MYtAJ/AZg3WqeIzxLbCr6ipKWLEFmERzaJ+l6+JtECyCbGeCyHxkKiANUIeVTTCW/o74TcTvYShyjx/fM1EH4yEZPf9Ek/EQ75MizHoMwbwT3veZTevoSM8wGR5O5VPOkOpduayATVqjymZEpg5q/RKOODROijY/7Pk0jjemiAB/bJwNwZkjAu3+NZIOfwrs7jDuB1D648pe8t06JmVIgy1ZdZ/X2UPSR3Tocb1A2h/lvoeZZJyI/a0S5vSiga9inR6JvyHbaL5tFpv3SKLhbIZeIb3fKB1c8s22VYsWne3Q0FjML5lch9x26sA=;624oh1tDlkjlwmPlCuVaew=="
 ---
 

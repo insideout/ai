@@ -2,134 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_posts/2020-02-19-high-risk-artificial-intelligence-to-be-certified-tested-and-controlled-commission-says.md",
-      "title": "High-risk Artificial Intelligence to be ‘certified, tested and controlled,’ Commission says",
-      "excerpt": "Commission President Ursula von der Leyen praised Europe’s efforts in the field of Artificial Intelligence thus far, saying that such technologies can be of vital use in a number of sectors including in healthcare, agriculture and energy, and can also ...",
-      "heat": 129,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.euractiv.com/section/digital/news/high-risk-artificial-intelligence-to-be-certified-tested-and-controlled-commission-says/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-19T06:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EURACTIV",
-        "domain": "euractiv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.euractiv.com/wp-content/uploads/sites/2/2020/02/w_55884866-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": "High-risk Artificial Intelligence to be ‘certified, tested and controlled,’ Commission says",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-19-in-praise-of-boring-ai-aka-machine-learning.md",
-      "title": "In Praise Of Boring AI (A.K.A. Machine Learning)",
-      "excerpt": "Whether or not machine learning is paving the way for a sci-fi movie type of AI in the distant future is a pointless question.",
-      "heat": 106,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/19/in-praise-of-boring-ai-a-k-a-machine-learning/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/19/in-praise-of-boring-ai-a-k-a-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/19/in-praise-of-boring-ai-a-k-a-machine-learning/amp/",
-      "publishedDateTime": "2020-02-19T05:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x454/https://specials-images.forbesimg.com/dam/imageserve/1158524088/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 454,
-          "title": "In Praise Of Boring AI (A.K.A. Machine Learning)",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-19-is-artificial-intelligence-a-myth.md",
-      "title": "Is Artificial Intelligence A Myth?",
-      "excerpt": "Here is something we all love: tech buzz words and the grand promise of new technologies. You know its right, because me, you and the person pitching the sales deck, we use them all the time. \"The Internet Of Things will connect everything,",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/hodfleishman/2020/02/19/is-artificial-intelligence-a-myth/",
-      "ampWebUrl": "https://www.forbes.com/sites/hodfleishman/2020/02/19/is-artificial-intelligence-a-myth/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hodfleishman/2020/02/19/is-artificial-intelligence-a-myth/amp/",
-      "publishedDateTime": "2020-02-19T14:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1183695647%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4714%26cropY1%3D144%26cropY2%3D2796",
-          "width": 1199,
-          "height": 675,
-          "title": "Is Artificial Intelligence A Myth?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_posts/2020-02-19-ishares-robotics-and-artificial-intelligence-etf-nysearcairbo-stock-price-down-01.md",
       "title": "iShares Robotics and Artificial Intelligence ETF (NYSEARCA:IRBO) Stock Price Down 0.1%",
       "excerpt": "Shares of iShares Robotics and Artificial Intelligence ETF (NYSEARCA:IRBO) traded down 0.1% during trading on Monday . The company traded as low as $28.74 and last traded at $28.80, 26,336 shares changed hands during mid-day trading. A decline of 33% from the average session volume of 39,142 shares. The stock had previously closed at $28.84.",
@@ -2102,6 +1974,131 @@
       "topics": [
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-20-patients-with-type-2-diabetes-who-decline-insulin-therapy-had-worse-blood-sugar-control.md",
+      "title": "Patients with type 2 diabetes who decline insulin therapy had worse blood sugar control",
+      "excerpt": "Given the consequences of uncontrolled blood sugar levels, Turchin and colleagues set out to better understand why insulin therapy initiation is frequently delayed. The team used natural language processing -- an artificial intelligence tool that can scan through large amounts of data to pull out key phrases -- to comb through clinical ...",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.news-medical.net/news/20200220/Patients-with-type-2-diabetes-who-decline-insulin-therapy-had-worse-blood-sugar-control.aspx",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20200220/Patients-with-type-2-diabetes-who-decline-insulin-therapy-had-worse-blood-sugar-control.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200220/Patients-with-type-2-diabetes-who-decline-insulin-therapy-had-worse-blood-sugar-control.aspx",
+      "publishedDateTime": "2020-02-20T04:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.news-medical.net/image.axd?picture=2014%2f7%2fBlood_glucose-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": "Patients with type 2 diabetes who decline insulin therapy had worse blood sugar control",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-20-predictions-2020-what-to-expect-in-ai-ml-rpa-sectors.md",
+      "title": "Predictions 2020: What to Expect in AI, ML, RPA Sectors",
+      "excerpt": "Here is another in a list of articles eWEEK is now publishing about predictions for 2020 (and sometimes beyond!). AI adoption in non-consumer internet industries is still in an early stage, and many projects are stuck in pilot purgatory because of challenges ranging from a lack of data to knowing how to manage complex machine learning workflows.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.eweek.com/big-data-and-analytics/predictions-2020-what-to-expect-in-ai-ml-rpa-sectors",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-20T14:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.eweek.com/imagesvr_ez/b2bezp/2020/01/1088x725_-_243826254---Data-Analytics-Trends-for-2020.jpg?alias=social_image",
+          "width": 560,
+          "height": 300,
+          "title": "Predictions 2020: What to Expect in AI, ML, RPA Sectors",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-20-retail-optimization-startup-teikametrics-raises-15m-as-it-expands-beyond-amazon-and-beyond-ads.md",
+      "title": "Retail optimization startup Teikametrics raises $15M as it expands beyond Amazon and beyond ads",
+      "excerpt": "Teikametrics, a startup that helps retailers optimize their online ad spending ... Looking at the broader retail and advertising landscape, McLean-Foreman acknowledged, “AI is almost a buzzword,” but he argued, “We are actually AI-first. The product itself is automation, it is intelligent decision-making.” He added, “Advertising ...",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/02/19/teikametrics-funding/",
+      "ampWebUrl": "https://techcrunch.com/2020/02/19/teikametrics-funding/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/19/teikametrics-funding/amp/",
+      "publishedDateTime": "2020-02-19T19:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/02/unnamed.jpg?w=1024",
+          "width": 1024,
+          "height": 512,
+          "title": "Retail optimization startup Teikametrics raises $15M as it expands beyond Amazon and beyond ads",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

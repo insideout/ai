@@ -89,6 +89,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 23
+  - title: "Atos International: Atos Artificial Intelligence to power American Dream attractions"
+    excerpt: "Prescriptive maintenance to reduce downtime and increase customer satisfaction at Nickelodeon Universe and Observation Wheel Paris, France and Irving, Texas, February 27, 2020 - Atos, a global leader in digital transformation, today announced the delivery of its high-powered artificial intelligence, Codex AI Suite, to analyze data and predict ..."
+    publishedDateTime: 2020-02-27T15:05:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-02/48963362-atos-international-atos-artificial-intelligence-to-power-american-dream-attractions-399.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 10
 
 secured: "C4dtY4yky9/SE1cYjD66IoA61shJLJqYSwsNpf+SfFH1l7CswtfaowML4QBy4WtLC7xF/nKRr5DItKKL7K/jxUcAoSkKk2s/b6gm314HoOXSRg/2cxWLpJaP0WpbFHtDM+6vk9SthOJB16QDF3NGmxnGdOI0k2MAQqENovv5HAGcgyb0ANDtEYh9UGl/2CX4DaR9JNpU8YwR3AVAfq0KXLgbwoqWOUNqQJw7olRgQ4iogxFhEXNeGhFYsGurGtmvZ8tCCVB36PLQSJN9rWH4HqLFmmJAdZXFClz1T/EGOBIpKcYtFCjQKrSvKk+X0jgZxWTfL+M0/KCOLrbBuovXYYc4obdF5Qbn2x/9K/nwqC9nQ7zfqzyM8wWpv8R/n7xyWOoemEXqTADxab4djbwmgXQSpPc5l8NGfMJGP4vzv2rZ/OGJtIq3E6yV6Jn3OOEnWgRkJa/mOwlzgabtn+Txqk6yzqJC8i03vSP6O9I2a8Y=;t+OyeOXe8Ji0fXkYSDuSHg=="
 ---

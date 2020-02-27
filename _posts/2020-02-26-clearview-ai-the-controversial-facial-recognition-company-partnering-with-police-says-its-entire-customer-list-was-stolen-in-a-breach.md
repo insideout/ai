@@ -133,6 +133,21 @@ related:
       - url: "https://media.foxbusiness.com/BrightCove/854081161001/202002/1214/854081161001_6132703327001_6132714474001-vs.jpg"
         width: 1280
         height: 720
+  - title: "Clearview hack fuels debate over facial recognition"
+    excerpt: "Clearview AI, the highly controversial startup at the centre of a row over the ethics of facial recognition technology, has prompted renewed and heated debate over its activities after admitting that its entire client database of more than 600 law enforcement agencies has been stolen. Clearview holds in excess of three billion photos of people ..."
+    publishedDateTime: 2020-02-27T15:04:00Z
+    webUrl: "https://www.computerweekly.com/news/252479248/Clearview-hack-fuels-debate-over-facial-recognition"
+    ampWebUrl: "https://www.computerweekly.com/news/252479248/Clearview-hack-fuels-debate-over-facial-recognition?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252479248/Clearview-hack-fuels-debate-over-facial-recognition?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 59
+    images:
+      - url: "https://cdn.ttgtmedia.com/visuals/German/article/CCTV-facial-recognition-3-adobe.jpg"
+        width: 1200
+        height: 400
   - title: "Clearview AI's founder defends controversial facial recognition app"
     excerpt: "Hoan Ton-That's app, Clearview AI, has triggered fears about facial recognition — and the dystopian future it could foreshadow. CNN Business' Donie O'Sullivan sits down with the CEO to talk about questions of legality, privacy, and bias in the era of facial recognition."
     publishedDateTime: 2020-02-18T14:19:00Z

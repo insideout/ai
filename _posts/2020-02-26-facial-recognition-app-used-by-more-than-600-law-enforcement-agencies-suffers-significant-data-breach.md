@@ -118,6 +118,21 @@ related:
       - url: "https://mondrian.mashable.com/2020%252F02%252F26%252Ff8%252Fb7ae576e678b4164821136834cb6b965.a9d7d.jpg%252F1200x630.jpg?signature=1ED1HL_mJDPNyNyJgXoYnP97tW0="
         width: 1200
         height: 630
+  - title: "Clearview hack fuels debate over facial recognition"
+    excerpt: "Clearview AI, the highly controversial startup at the centre of a row over the ethics of facial recognition technology, has prompted renewed and heated debate over its activities after admitting that its entire client database of more than 600 law enforcement agencies has been stolen. Clearview holds in excess of three billion photos of people ..."
+    publishedDateTime: 2020-02-27T15:04:00Z
+    webUrl: "https://www.computerweekly.com/news/252479248/Clearview-hack-fuels-debate-over-facial-recognition"
+    ampWebUrl: "https://www.computerweekly.com/news/252479248/Clearview-hack-fuels-debate-over-facial-recognition?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252479248/Clearview-hack-fuels-debate-over-facial-recognition?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 59
+    images:
+      - url: "https://cdn.ttgtmedia.com/visuals/German/article/CCTV-facial-recognition-3-adobe.jpg"
+        width: 1200
+        height: 400
   - title: "Clearview AI, the controversial facial-recognition company partnering with police, says its entire customer list was stolen in a breach"
     excerpt: "Clearview markets its services to law-enforcement agencies and has previously avoided disclosing the identities of its clients."
     publishedDateTime: 2020-02-26T18:41:00Z

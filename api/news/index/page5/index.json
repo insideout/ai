@@ -2,131 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_posts/2020-02-20-patients-with-type-2-diabetes-who-decline-insulin-therapy-had-worse-blood-sugar-control.md",
-      "title": "Patients with type 2 diabetes who decline insulin therapy had worse blood sugar control",
-      "excerpt": "Given the consequences of uncontrolled blood sugar levels, Turchin and colleagues set out to better understand why insulin therapy initiation is frequently delayed. The team used natural language processing -- an artificial intelligence tool that can scan through large amounts of data to pull out key phrases -- to comb through clinical ...",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.news-medical.net/news/20200220/Patients-with-type-2-diabetes-who-decline-insulin-therapy-had-worse-blood-sugar-control.aspx",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20200220/Patients-with-type-2-diabetes-who-decline-insulin-therapy-had-worse-blood-sugar-control.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200220/Patients-with-type-2-diabetes-who-decline-insulin-therapy-had-worse-blood-sugar-control.aspx",
-      "publishedDateTime": "2020-02-20T04:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.news-medical.net/image.axd?picture=2014%2f7%2fBlood_glucose-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": "Patients with type 2 diabetes who decline insulin therapy had worse blood sugar control",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-20-predictions-2020-what-to-expect-in-ai-ml-rpa-sectors.md",
-      "title": "Predictions 2020: What to Expect in AI, ML, RPA Sectors",
-      "excerpt": "Here is another in a list of articles eWEEK is now publishing about predictions for 2020 (and sometimes beyond!). AI adoption in non-consumer internet industries is still in an early stage, and many projects are stuck in pilot purgatory because of challenges ranging from a lack of data to knowing how to manage complex machine learning workflows.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.eweek.com/big-data-and-analytics/predictions-2020-what-to-expect-in-ai-ml-rpa-sectors",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-20T14:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.eweek.com/imagesvr_ez/b2bezp/2020/01/1088x725_-_243826254---Data-Analytics-Trends-for-2020.jpg?alias=social_image",
-          "width": 560,
-          "height": 300,
-          "title": "Predictions 2020: What to Expect in AI, ML, RPA Sectors",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-20-retail-optimization-startup-teikametrics-raises-15m-as-it-expands-beyond-amazon-and-beyond-ads.md",
-      "title": "Retail optimization startup Teikametrics raises $15M as it expands beyond Amazon and beyond ads",
-      "excerpt": "Teikametrics, a startup that helps retailers optimize their online ad spending ... Looking at the broader retail and advertising landscape, McLean-Foreman acknowledged, “AI is almost a buzzword,” but he argued, “We are actually AI-first. The product itself is automation, it is intelligent decision-making.” He added, “Advertising ...",
-      "heat": 75,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/02/19/teikametrics-funding/",
-      "ampWebUrl": "https://techcrunch.com/2020/02/19/teikametrics-funding/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/19/teikametrics-funding/amp/",
-      "publishedDateTime": "2020-02-19T19:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/02/unnamed.jpg?w=1024",
-          "width": 1024,
-          "height": 512,
-          "title": "Retail optimization startup Teikametrics raises $15M as it expands beyond Amazon and beyond ads",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-20-seven-takeaways-from-the-westworld-season-3-trailer.md",
       "title": "Seven Takeaways From the ‘Westworld’ Season 3 Trailer",
       "excerpt": "We’ve come a long way from all that natural splendor. HBO released the official Westworld Season 3 trailer on Thursday, and it looks like showrunners Jonathan Nolan and Lisa Joy are making good on the “radical shift” they promised back in August 2018. Our central characters have gone from the confines of the Westworld park to the human wo ...",
@@ -888,7 +763,7 @@
       "path": "_posts/2020-02-21-edmodo-partners-with-ibm-watson-education-to-close-learning-gaps-using-ai.md",
       "title": "Edmodo Partners with IBM Watson Education to Close Learning Gaps using AI",
       "excerpt": "Before it's here, it's on the Bloomberg Terminal.",
-      "heat": 83,
+      "heat": 93,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.bloomberg.com/press-releases/2018-07-16/edmodo-partners-with-ibm-watson-education-to-close-learning-gaps-using-ai",
@@ -969,7 +844,7 @@
       "path": "_posts/2020-02-21-facial-recognition-company-clearview-ai-probed-by-canada-privacy-agencies.md",
       "title": "Facial recognition company Clearview AI probed by Canada privacy agencies",
       "excerpt": "Canadian privacy authorities have launched an investigation into New York-based Clearview AI to determine whether the firm’s use of facial recognition technology complies with the country’s privacy laws,",
-      "heat": 223,
+      "heat": 233,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.reuters.com/article/us-clearview-ai-canada-idUSKBN20F2I3",
@@ -1481,7 +1356,7 @@
       "path": "_posts/2020-02-21-the-amazing-ways-goodyear-uses-artificial-intelligence-and-iot-for-digital-transformation.md",
       "title": "The Amazing Ways Goodyear Uses Artificial Intelligence And IoT For Digital Transformation",
       "excerpt": "Although Goodyear is a mature company, they are on the cutting edge of using today’s newest technology to propel innovation and their business in the 21st century.",
-      "heat": 120,
+      "heat": 130,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/02/21/the-amazing-ways-goodyear-uses-artificial-intelligence-and-iot-for-digital-transformation/",
@@ -2128,6 +2003,134 @@
       ],
       "topics": [
         "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-24-ai-android-teaching-assistant-gives-students-hands-on-robotics-experience.md",
+      "title": "AI Android Teaching Assistant Gives Students Hands-on Robotics Experience",
+      "excerpt": "... presence of robots and artificial intelligence in our world,\" said Barry in an article about the project. \"One of the points that I'm bringing out in this class is that robots reflect their programming: If they're programmed with a life-affirming, ethical framework, they are more likely to act ethically and help humans to do the same.\"",
+      "heat": 78,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://campustechnology.com/articles/2020/02/24/ai-android-teaching-assistant-gives-students-hands-on-robotics-experience.aspx?admgarea=news",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-24T13:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Campus Technology",
+        "domain": "campustechnology.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://campustechnology.com/-/media/EDU/CampusTechnology/2020-images/20200224MariaBotfigure1.jpg",
+          "width": 300,
+          "height": 243,
+          "title": "AI Android Teaching Assistant Gives Students Hands-on Robotics Experience",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-24-ai-in-marketing-is-only-as-good-as-the-human-behind-it.md",
+      "title": "AI In Marketing Is Only As Good As The Human Behind It",
+      "excerpt": "While AI might change some day-to-day tasks for marketers, we believe that it will actually improve their jobs, not take them over.",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/24/ai-in-marketing-is-only-as-good-as-the-human-behind-it/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/24/ai-in-marketing-is-only-as-good-as-the-human-behind-it/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/24/ai-in-marketing-is-only-as-good-as-the-human-behind-it/amp/",
+      "publishedDateTime": "2020-02-24T09:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x494/https://specials-images.forbesimg.com/dam/imageserve/1079012838/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 494,
+          "title": "AI In Marketing Is Only As Good As The Human Behind It",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-24-all-things-gcp-machine-learning-decision-pyramid.md",
+      "title": "All things GCP: Machine Learning Decision pyramid",
+      "excerpt": "Many users want Machine Learning in their products and cloud providers like GCP, AWS Azure, etc knows about this. Because of this demand, as per the user's needs and expertise they can provide machine learning tools out of the box and users can work on complex Machine Learning tasks by a few lines of code or no code at all! Understanding of ...",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/analytics-vidhya/all-things-gcp-machine-learning-decision-pyramid-82260c798a88",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-24T15:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*Jj3jiMWxYJOMJIcMQj34bw.jpeg",
+          "width": 1200,
+          "height": 675,
+          "title": "All things GCP: Machine Learning Decision pyramid",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
         "Machine Learning"
       ]
     }

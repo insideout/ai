@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-13T10:26:00Z
 webUrl: "https://www.nature.com/articles/s41598-020-59215-9"
 type: article
 quality: 8
-heat: -1
+heat: 8
 published: false
 
 provider:
@@ -22,17 +22,6 @@ images:
     width: 685
     height: 274
     title: "Efficient Classification of White Blood Cell Leukemia with Improved Swarm Optimization of Deep Features"
-
-related:
-  - title: "iSEC: An Optimized Deep Learning Model for Image Classification on Edge Computing"
-    excerpt: "Abstract: Optimization strategies in deep learning models require different techniques for different use cases. Besides, various phases of the model deployment life-cycle specify possible and particular optimization strategies. In this paper, an optimized deep learning model on the edge computing environment is proposed for image classification ..."
-    publishedDateTime: 2020-02-14T03:02:00Z
-    webUrl: "https://ieeexplore.ieee.org/document/8981999"
-    type: article
-    provider:
-      name: IEEE
-      domain: ieee.org
-    quality: 14
 
 secured: "2jFFb/xOii8BD3Zo0SKHF9lc2N9BLFolcsxFB/s0JqqcAVyyQYtkafg1UiJPAxyCEPSKwuvEFmoSGxQSGhFuw70mxuyq5cT/RdiJzhApiybL6+CFCtZCYh7Mh7nsebYS1M9r/pCMdOvCbGoaoM418F8Nw/nw2/JtHshQtvkngniU1WJE3sOqiZFb1zB3HjPuwiJL8ed79DZWT6lvO+RMI5QOnfB3x2K8YGvfddbsLPC0399RQTpmcacYsdr3F/Ri2saSaDmGUQ53x4Jp88bNf6r3GU+2C2Q5slSsHblisPWqCKJmNGfG0sJFv9YfQudrsyop2/GCHTwP4Uoc2iEbRF8ya1q8f1cGHC10SlJ8bRfx1FOi4KtBpeJmBGbTyEXgI8tvYysVtuBhanvepHBnH+u2pNHuL3EbRJisbhiU+eH8lzDT6Mi5/No7LRf353BT5qG1SAk3Az8MdPFlb1QjwfFcoPGaEyyiW3j21R8LkpU=;z8UnOKF6qp9osHa4UtETvg=="
 ---

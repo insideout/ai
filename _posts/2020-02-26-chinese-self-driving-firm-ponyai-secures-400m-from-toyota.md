@@ -207,6 +207,19 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fs3-ap-northeast-1.amazonaws.com%2Fpsh-ex-ftnikkei-3937bb4%2Fimages%2F9%2F4%2F3%2F7%2F22297349-2-eng-GB%2FCropped-156682855220190826N%20Pony%20ai%20autonomous%20car_Data.jpg?source=nar-cms&width=1024&height=512&fit=cover&gravity=faces"
         width: 1024
         height: 512
+  - title: "Toyota invests $400M in Chinese self-driving startup Pony.ai"
+    excerpt: "The latest funding values the company at approximately $3 billion, making it the most valuable self-driving startup to come out of China. Pony.ai was founded in 2016 by former executives at Chinese tech company Baidu and is currently testing its self-driving prototypes in Beijing and Guangzhou in China and in Irvine and San Francisco in California."
+    publishedDateTime: 2020-02-27T15:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1127276_toyota-invests-400m-in-chinese-self-driving-startup-pony-ai"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 39
+    images:
+      - url: "https://images.hgmsites.net/hug/pony-ai-self-driving-prototype_100737587_h.jpg"
+        width: 1920
+        height: 932
   - title: "China’s Pony.ai nabs $400 million in new funding from Toyota"
     excerpt: "Autonomous vehicle startup Pony.ai on Wednesday announced that it has raised $400 million in a funding round from Toyota Motor Corporation, the first-ever and biggest investment to date in a Chinese AV company by the Japanese auto giant. Why it matters: The latest investment is expected to help Pony.ai widen the gap between the company and its ..."
     publishedDateTime: 2020-02-26T05:47:00Z

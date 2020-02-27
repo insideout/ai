@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/googlecloud/2020/02/26/simplifying-conv
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/googlecloud/2020/02/26/simplifying-conversational-ai-one-interaction-at-a-time/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -92,6 +92,15 @@ related:
       - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-60278-x/MediaObjects/41598_2020_60278_Fig1_HTML.png"
         width: 685
         height: 476
+  - title: "Atos International: Atos Artificial Intelligence to power American Dream attractions"
+    excerpt: "Prescriptive maintenance to reduce downtime and increase customer satisfaction at Nickelodeon Universe and Observation Wheel Paris, France and Irving, Texas, February 27, 2020 - Atos, a global leader in digital transformation, today announced the delivery of its high-powered artificial intelligence, Codex AI Suite, to analyze data and predict ..."
+    publishedDateTime: 2020-02-27T15:05:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-02/48963362-atos-international-atos-artificial-intelligence-to-power-american-dream-attractions-399.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 10
 
 secured: "sshYgA6zaqeb9RaobCMmdnmwADBhf4oPQz0CrImOF7NAzTqbJZoKWmoMs4TEVaLCAC0Mq2mBOVkVWCVv05vK1hxIgTS1wuKGGHKtjJdPnh3/f6c4AajqbvM0qjVCL9fLJzvPhhEqJGxj5Hq79W+xHw5t2pKP2VhyrDxJqpxQn+kXIkeiuELz5ohMgCo2IG33mwxW4/oFQe7T0hFLzQSVzriW5j/gNoBS2bqmI/4wxY3ICjRoIaBm178/pNXpnnK+77mBnTymKQ904+h1QAAwlROfF0SCb74bbLfZB+IWKnlKep/d2Y3BPqH7dDdz5HfOxs00e5ti0dH3gnCe/75pEW1eDQKyFoWp2dTn9d1tO6vSS+Nx1Diab9T5pEqufwM2J85jdTDukXDe7CgH0zjw0Qqih762kuanX7u2jbmUrlnTm7r2ox403dsv2XxBsNaNwG1B+RtMJ+2cKxrTdo5FNVYwZKHM33/GMd+Og4dnjUg=;m5UbBG3dQ4ZadXxiVu1ShQ=="
 ---

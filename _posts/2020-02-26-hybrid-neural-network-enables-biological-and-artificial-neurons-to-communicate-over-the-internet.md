@@ -38,16 +38,18 @@ related:
       domain: medicalxpress.com
     quality: 39
   - title: "New study allows brain and artificial neurons to link up over the web"
-    excerpt: "This study has for the first time shown how three key emerging technologies can work together: brain-computer interfaces, artificial neural networks and advanced memory technologies (also known as memristors). The discovery opens the door to further significant developments in neural and artificial intelligence research. During the study ..."
-    publishedDateTime: 2020-02-26T15:19:00Z
-    webUrl: "https://medicalxpress.com/news/2020-02-brain-artificial-neurons-link-web.html"
-    ampWebUrl: "https://medicalxpress.com/news/2020-02-brain-artificial-neurons-link-web.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-02-brain-artificial-neurons-link-web.amp"
+    excerpt: "This study has for the first time shown how three key emerging technologies can work together: brain-computer interfaces, artificial neural networks and advanced memory technologies (also known as memristors). The discovery opens the door to further significant developments in neural and artificial intelligence research. Brain functions are ..."
+    publishedDateTime: 2020-02-26T16:05:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-02/uos-nsa022620.php"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
+      name: EurekAlert!
+      domain: eurekalert.org
     quality: 39
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/225322_web.jpg"
+        width: 720
+        height: 813
   - title: "New study allows Brain and Artificial Neurons to link up over web"
     excerpt: "This study has for the first time shown how three key emerging technologies can work together: brain-computer interfaces, artificial neural networks and advanced memory technologies (also known as memristors). The discovery opens the door to further ..."
     publishedDateTime: 2020-02-26T12:16:00Z

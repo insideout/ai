@@ -87,6 +87,15 @@ related:
       - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-60278-x/MediaObjects/41598_2020_60278_Fig1_HTML.png"
         width: 685
         height: 476
+  - title: "Atos International: Atos Artificial Intelligence to power American Dream attractions"
+    excerpt: "Prescriptive maintenance to reduce downtime and increase customer satisfaction at Nickelodeon Universe and Observation Wheel Paris, France and Irving, Texas, February 27, 2020 - Atos, a global leader in digital transformation, today announced the delivery of its high-powered artificial intelligence, Codex AI Suite, to analyze data and predict ..."
+    publishedDateTime: 2020-02-27T15:05:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-02/48963362-atos-international-atos-artificial-intelligence-to-power-american-dream-attractions-399.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 10
 
 secured: "hem3kNND5KBPl3ADaW/2UwS9J+lfFY1JZMj1Gp3+QYQGI2tFrlO17m9doVmroViNoEtrl4WDCO7rc+kcvFQlRuSPsZ1AAWYrsL5i/jAh+E1DryxbXsm5lY5wzH1wslNeeES0uKeZ4JbDeFlCakw0JPO2QSXFVHmqRhDuG5xN1kFmygwpdGbJ8RUqSdf090QU/4ntqjax/hx20PrDRTQYXt28vv5ddqjBflXcHY7ItEeovsOjQkrYhebC0FZTl7EjPR6AJ6D65L5wjT3mfsj88lKt/DmeGLyj+F9tEdxAm6v0KMwOsXHOmNXIrRvxTIgF;egFbI/dCy/HhRjw9SJsIiw=="
 ---

@@ -2,140 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_posts/2020-02-25-chess-grandmaster-gary-kasparov-predicts-ai-will-disrupt-96-of-all-jobs.md",
-      "title": "Chess grandmaster Gary Kasparov predicts AI will disrupt 96% of all jobs",
-      "excerpt": "After Kasparov‘s loss, the experts didn’t miss a beat. They said Chess was too easy and postulated that machines would never beat us at Go. Champion Lee Sedol’s loss against DeepMind’s AlphaGo proved them wrong there. Apparently the only thing more powerful than human hubris is our ability to iterate new technologies. At least ...",
-      "heat": 108,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/02/24/chess-grandmaster-gary-kasparov-predicts-ai-will-disrupt-96-percent-of-all-jobs/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/02/24/chess-grandmaster-gary-kasparov-predicts-ai-will-disrupt-96-percent-of-all-jobs/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/24/chess-grandmaster-gary-kasparov-predicts-ai-will-disrupt-96-percent-of-all-jobs/amp/",
-      "publishedDateTime": "2020-02-25T07:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/chesspieces-796x405.jpg",
-          "width": 796,
-          "height": 405,
-          "title": "Chess grandmaster Gary Kasparov predicts AI will disrupt 96% of all jobs",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-25-competing-in-the-age-of-ai-is-simpler-than-you-think.md",
-      "title": "Competing In The Age Of AI Is Simpler Than You Think",
-      "excerpt": "Artificial Intelligence is already fundamentally changing business and operations models, argue two Harvard Business School professors in a recent book. They show that it is simpler to implement than many expect.",
-      "heat": 117,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/sophiamatveeva/2020/02/25/competing-in-the-age-of-ai-is-simpler-than-you-think/",
-      "ampWebUrl": "https://www.forbes.com/sites/sophiamatveeva/2020/02/25/competing-in-the-age-of-ai-is-simpler-than-you-think/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sophiamatveeva/2020/02/25/competing-in-the-age-of-ai-is-simpler-than-you-think/amp/",
-      "publishedDateTime": "2020-02-25T04:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e54c26476f73b0006dfd7ac%2F0x0.jpg",
-          "width": 1200,
-          "height": 729,
-          "title": "Competing In The Age Of AI Is Simpler Than You Think",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-25-deep-learning-market-size-sales-growth-drivers-opportunities-industry-trends-and-forecast-to-2026.md",
-      "title": "Deep Learning Market Size, Sales, Growth Drivers, Opportunities, Industry Trends and Forecast to 2026",
-      "excerpt": "Deep learning is a subfield of machine learning that consist of a series of computer instructions or algorithms that is inspired by the function and structure of the brain. Deep learning is widely known as artificial neural networks or deep neural networks.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-size-sales-growth-drivers-opportunities-industry-trends-and-forecast-to-2026-2020-02-25",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-25T03:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Deep Learning Market Size, Sales, Growth Drivers, Opportunities, Industry Trends and Forecast to 2026",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_posts/2020-02-25-defining-humanlike-intelligence-and-entrusting-it-with-our-lives-explained-by-an-ai-researcher.md",
       "title": "Defining humanlike intelligence and entrusting it with our lives, explained by an AI researcher",
       "excerpt": "Yesterday, Melanie Mitchell, the author of ‘Artificial Intelligence: A Guide for Thinking Humans’ and the Davis Professor ... Most fears around AI usually stem from Hollywood movies that make us believe that one day autonomous robots will kill all humans and make Earth their own, or these same robots will take away all human meaning as ...",
@@ -2153,6 +2019,133 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-26-macadamian-to-host-ai-in-healthcare-webinar-with-microsoft-canadas-national-chief-data-scientist.md",
+      "title": "Macadamian to host AI in Healthcare webinar with Microsoft Canada's National Chief Data Scientist",
+      "excerpt": "GATINEAU, Quebec, Feb. 26, 2020 /PRNewswire/ -- Macadamian, a leading digital and connected healthcare software development consultancy, announced that it will host a webinar with Microsoft Canada titled AI in Healthcare: 5 Things Every Product Owner Should Know.",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/macadamian-to-host-ai-in-healthcare-webinar-with-microsoft-canadas-national-chief-data-scientist-2020-02-26",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-26T03:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Macadamian to host AI in Healthcare webinar with Microsoft Canada's National Chief Data Scientist",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-26-machine-learning-artificial-intelligence-virtual-reality-and-retailers.md",
+      "title": "Machine Learning, Artificial Intelligence, Virtual Reality And Retailers",
+      "excerpt": "These technologies are very quickly making the transition from novelties to be marveled at to fixtures that will define many of the activities that comprise our daily lives. But how does this translate for retailers?",
+      "heat": 118,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/26/machine-learning-artificial-intelligence-virtual-reality-and-retailers/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/26/machine-learning-artificial-intelligence-virtual-reality-and-retailers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/26/machine-learning-artificial-intelligence-virtual-reality-and-retailers/amp/",
+      "publishedDateTime": "2020-02-26T04:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1034313794/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 474,
+          "title": "Machine Learning, Artificial Intelligence, Virtual Reality And Retailers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-26-mediatek-announces-helio-p95-with-apu-20-powervr-gpu-and-more.md",
+      "title": "MediaTek announces Helio P95 with APU 2.0, PowerVR GPU and more",
+      "excerpt": "There is an Imagination PowerVR GM 94446 GPU with a 10% improvement in performance over the last generation ... The processor has a triple ISP with 14-bit RAW and 10-bit YUV processing. It also has AI-camera enhancements such as AI-NR low-light photography, 5-person human pose tracking, multiple objects and scene identification, and AI depth ...",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.gizmochina.com/2020/02/26/mediatek-announces-helio-p95-with-apu-2-0-powervr-gpu-and-more/",
+      "ampWebUrl": "https://www.gizmochina.com/2020/02/26/mediatek-announces-helio-p95-with-apu-2-0-powervr-gpu-and-more/?amp",
+      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2020/02/26/mediatek-announces-helio-p95-with-apu-2-0-powervr-gpu-and-more/?amp",
+      "publishedDateTime": "2020-02-26T10:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2020/02/Helio-P95.png",
+          "width": 822,
+          "height": 594,
+          "title": "MediaTek announces Helio P95 with APU 2.0, PowerVR GPU and more",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
       ]
     }
   ],

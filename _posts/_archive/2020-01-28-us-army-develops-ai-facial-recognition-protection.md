@@ -5,8 +5,8 @@ excerpt: "The US Army uses facial and object recognition technologies to train a
 publishedDateTime: 2020-01-28T09:26:00Z
 webUrl: "https://www.fudzilla.com/news/ai/50195-us-army-develops-ai-facial-recognition-protection"
 type: article
-quality: 54
-heat: 54
+quality: 34
+heat: 34
 published: false
 
 provider:
@@ -17,12 +17,6 @@ topics:
   - AI
   - Computer Vision
 
-images:
-  - url: "https://www.fudzilla.com/media/k2/items/cache/9da04a8003f0d759bae25bbf360e627c_L.jpg"
-    width: 620
-    height: 465
-    title: "US Army develops AI facial recognition protection"
-
-secured: "PGirPohzQAAAAWGNtwSngMQ+nzTlFSaigvqs6nJRZVPSGgzeHbn9Nxdfcq4+CNoNnOnAZ/Srj5zDPvocShNinB3ncdtW+tjR+EafxJA1zrYv0rTXfbf2pvSLIaavis5bgnQvwAN6HiFBHdEzhK7H3XJotVDRqQqcKk4LuSpAA9A2z/ypnEWkMJTRPiZVc29ze+T2ieEoF9mZyKZVP1X/guU8GdO2n70th100Ek0aAx69UI83suKDawwvUvRzvl2L9L7tbMr6tUxpH74qfJE6Oc1C+omxhiLAzzQZW4mbwn9TBl3U+OddAN9T+hXLpB0Q;2pHJc1fMunbMSnbL4+q02g=="
+secured: "r7sjNC9R9+9F3JKtPAVpCk/+W8zyD50YPJ7rw72Bopu79otkQbAmKmXyULGcvjmxGQs5f8l+ew2UNBUi1iSNl1hUW983R058XPhwdN0volZJaZwScWvzp1sa3xL28GNdeyTBlDLTTFbVY23M3Dwcqkp/Ml4TJK0CtEOttQGmApm084CdKZJWTqzqZE8VOUK6noCDa1lRi/vBIYcE+XkxCjidvhdUI4gxiUm7/z0pCN3fZzM0vC05ok+ZysfP0SJJLvx0wHv/4X7t2oLPqOzXIny6ldlghk3o2wzWHkPGeHxDb3zH+IANSI43E34vyBkd;aqAxU2zWzJ95kfP7fYeo3w=="
 ---
 

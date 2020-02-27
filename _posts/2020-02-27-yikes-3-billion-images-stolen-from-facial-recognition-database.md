@@ -3,9 +3,9 @@ category: news
 title: "Yikes! 3 billion images stolen from facial recognition database"
 excerpt: "Clearview AI, the facial-recognition firm that contracts with law-enforcement agencies, reported its client list data has been breached by an intruder with “unauthorized access.” Careful not to call the breach a hack, the company notified its customers on Wednesday that the intruder stole its list of users, the numbers of accounts tied to ..."
 publishedDateTime: 2020-02-27T08:00:00Z
-webUrl: "https://www.tomsguide.com/uk/news/yikes-3-billion-images-stolen-from-facial-recognition-database"
-ampWebUrl: "https://www.tomsguide.com/uk/amp/news/yikes-3-billion-images-stolen-from-facial-recognition-database"
-cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/uk/amp/news/yikes-3-billion-images-stolen-from-facial-recognition-database"
+webUrl: "https://www.tomsguide.com/news/yikes-3-billion-images-stolen-from-facial-recognition-database"
+ampWebUrl: "https://www.tomsguide.com/amp/news/yikes-3-billion-images-stolen-from-facial-recognition-database"
+cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/news/yikes-3-billion-images-stolen-from-facial-recognition-database"
 type: article
 quality: 59
 heat: -1
@@ -170,6 +170,6 @@ related:
       domain: mediapost.com
     quality: 15
 
-secured: "ELJDZZPuCOUZYgn03Ev4pX2ayPBMqdLtnGUf4jyyeCJf02ABH3KR6fifEC1OZF+7dB6eo9KVUUiJFaMkOihGyMllqCSzbMK1l5cRhVSI2+y3WvyUUEzd5/EikJ5H9U2SRckGMLMRY61R69wVsZ4oLakpaMvjjmfruQrAcp21vBJ4iSq+z4lijfcYIb2LpIXJzjtuyDYCCbACvWx8P0RvBhm0uAwXf+fo29lejYmN4x3RS2fAYDVQbelyX465AUjJCyRj7aMiYHRMghUpCTYgFdQU/A27JvRy3xS29SfmNj/m8OKRqC10zsts0YyIIvm7fPkvo4MN6m/GpwGEqRxMZfbt/q8udELSrT+41Vb75TSYQWs54o9igTaQZpOAIGj+TWORvL4B0uPpmOQvootCey2Z28TJluDHxUww5mF2PrSjJPwJLc/qH5YQAsyGVqPj+w5aNfPwHugzu4DajB5KbvmW1E2yJW2Par1RaFCcy8g=;AqSv+7HFC3d2lV6ZgOmE5Q=="
+secured: "X5M183Fvug5PIgcpA9gZx9wzoMZGzChUaGFeQq1OHIvc2PpI5YHgYsotTMOENXv36VF0F0BFzLhz+MSCDCz20y9hWRRLRGuj8ooICErT7lODuisQZ7jF6XVzj2/ACzxzWvXdGUSjYOTCf/ltvrWJW+Aw2UCTIts3GGG6LdEo5gqIiibKSJD6k7s7uUZ/aKksMv5A7KLvkceU442r2lRi89jKMFoH878IRAm7iB1U5rhkGwGy3LkV3ahzdlpXHp8N4hiOKIWax0Edr+QOh+mRNECyxqBG72pLpvYASzJbIiPUL0PE5wGO1p9Fyg/95g6P;C5FPz79MOGL3buNnWDShvQ=="
 ---
 

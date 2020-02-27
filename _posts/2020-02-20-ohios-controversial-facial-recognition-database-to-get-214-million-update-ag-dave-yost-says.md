@@ -26,6 +26,21 @@ images:
     title: "Ohio’s controversial facial-recognition database to get $21.4 million update, AG Dave Yost says"
 
 related:
+  - title: "Data Breach at Controversial Face Recognition Firm Shows Company Can't Be Trusted, Officials Say"
+    excerpt: "A security breach at a face-recognition startup, already embattled over its unfettered collection of Americans’ personal data on behalf of its hundreds of law enforcement clients, further underscores the potential hazards faced by consumers at the hands of a controversial and largely-unregulated surveillance technology, federal officials said ..."
+    publishedDateTime: 2020-02-27T08:09:00Z
+    webUrl: "https://gizmodo.com/data-breach-at-controversial-face-recognition-firm-show-1841938311"
+    ampWebUrl: "https://gizmodo.com/data-breach-at-controversial-face-recognition-firm-show-1841938311/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/data-breach-at-controversial-face-recognition-firm-show-1841938311/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 76
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/s--WWpD68bj--/c_scale,f_auto,fl_progressive,q_80,w_800/uuy0qsq0x4gxglqws210.jpg"
+        width: 800
+        height: 450
   - title: "Controversial face recognition software a 'tool' for Sudbury police, but not yet in use"
     excerpt: "As Canada's privacy commissioner says he will begin investigating concerns around Clearview AI, police in Sudbury say they have not yet used the controversial face recognition software. The powerful new app can identify a person's name, phone number and even their address by comparing their photo to a database of billions of images scraped from ..."
     publishedDateTime: 2020-02-24T16:55:00Z
@@ -41,6 +56,15 @@ related:
       - url: "https://i.cbc.ca/1.5403918.1581719698!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/china-security.JPG"
         width: 620
         height: 349
+  - title: "Data Breach At Controversial Face Recognition Firm Shows Company Can't Be Trusted, U.S. Officials Say"
+    excerpt: "(Photo: Chip Somodevilla (Getty) A security breach at a face-recognition startup, already embattled over its unfettered collection of Americans’ personal data on behalf of its hundreds of U.S. law enforcement clients, further underscores the potential hazards faced by consumers at the hands of a controversial and largely-unregulated ..."
+    publishedDateTime: 2020-02-26T21:14:00Z
+    webUrl: "https://www.gizmodo.com.au/2020/02/data-breach-at-controversial-face-recognition-firm-shows-company-cant-be-trusted-officials-say/"
+    type: article
+    provider:
+      name: Gizmodo Australia
+      domain: gizmodo.com.au
+    quality: 4
 
 secured: "36iBNbJ2X3GZJN/ObgpfqSRP0OeCx7VwRsi28JGFpOv3fl7eaNAjdj+b9AOkPb7S1CJrfUNBry+9bzIXEOvEGK7RnrUtGGcY27nEZ0Umn2Cz3eHcS+Yy/YceDATF98if+pUFpj9AWImwemzFB7OdgkvRr6C+BGhF2/hePRZkO2zreWGrHhYTu3M1RGmknAmcvxFyk8G2SuKrflRr9rlIkeu3CQof3ddyo4owaCqxsBoTPC5jSP1N3peSccKgY0q1hwMkm2SHmvTDyy6gO3H2Fz4RnHp4I8kkmYjayQIpjzXpmpcbcpH5pxhzn1yCYo+ITDVGv77ZotXqxAbTbzG9qCkOu7BRUgebGPDzGZFieZmfrje5d9V3iUHWPLk3OXb3xL9dPuBDB82YYN7mj2s+jnWnAP0Ol/m9/oxwGeYcrHfWdl+o0ZakdObSNM9NEVQL8h6+djvs7OyMUyOrYIGaoVjc3cldCETUvvM7rGT3ka0=;bC8GQ2nwvL5lrUqlAy9NCA=="
 ---

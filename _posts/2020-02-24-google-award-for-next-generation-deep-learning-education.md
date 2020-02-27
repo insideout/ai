@@ -47,6 +47,19 @@ related:
       - url: "https://www.eurekalert.org/multimedia/pub/web/225053_web.jpg"
         width: 720
         height: 380
+  - title: "Screening for chronic conditions with reproductive factors using a machine learning based approach"
+    excerpt: "Therefore, in order to investigate their association, we applied a machine learning based dimensionality reduction technique, autoencoder, to generalize one single marker to represent chronic conditions. A cross-sectional study was conducted in the Gansu Province of China. Random stratified sampling was adopted to include participants who were ..."
+    publishedDateTime: 2020-02-18T10:26:00Z
+    webUrl: "https://www.nature.com/articles/s41598-020-59825-3"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 25
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-59825-3/MediaObjects/41598_2020_59825_Fig1_HTML.png"
+        width: 685
+        height: 546
 
 secured: "fGtkELwWJuXRHLssErHeEnXRnCIvtzuOd+ViYJl8kaXEJbw70/JVUkHxSvd1JanVVjTDma7xOABTWJOzFH3MgRWK3Wy2Qy5NkTumeknqYaa+jba4lWmQPXG3VVeC86gTPKhvjiUpbbWU+YRjJ3y0H2c5FjticksqA3hP8qwIbAdNbOL5oXX9VsVQx++IwziASfQvgx8tmaYzvSa8Nngo/8MSmslVLS/JnD8ZnIPtRlPbcpdQ24AkkUNa4TKFmQ9a/d9nSzMVT1Vw8IbL0uMykiqtgFjXjfoVh/JTSl5dkYWXjanFjugXAfwDp0zVbB5PGCFysc9qZ6QxYKtcAptHCRfMyVxcQhOaiOIpbVq8cnJXj4ysh5QWNg0ZcPxagLTB58gMWLCrBWt9cpzhLDnUneRHqKmvb1fsK4SDD6drDEmcnCH0JzwEf9W+V7bHXgsZ06EivQmUzAdG4K/vKwFPVrjVmCqorxElzY/reMORf3U=;SGT9dOl6KTnLASfgShIJiQ=="
 ---

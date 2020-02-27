@@ -41,15 +41,6 @@ related:
       - url: "https://www.dispatch.com/apps/pbcsi.dll/bilde?Site=OH&Date=20200220&Category=NEWS&ArtNo=200229853&Ref=AR"
         width: 3855
         height: 2228
-  - title: "Data Breach At Controversial Face Recognition Firm Shows Company Can't Be Trusted, U.S. Officials Say"
-    excerpt: "(Photo: Chip Somodevilla (Getty) A security breach at a face-recognition startup, already embattled over its unfettered collection of Americans’ personal data on behalf of its hundreds of U.S. law enforcement clients, further underscores the potential hazards faced by consumers at the hands of a controversial and largely-unregulated ..."
-    publishedDateTime: 2020-02-26T21:14:00Z
-    webUrl: "https://www.gizmodo.com.au/2020/02/data-breach-at-controversial-face-recognition-firm-shows-company-cant-be-trusted-officials-say/"
-    type: article
-    provider:
-      name: Gizmodo Australia
-      domain: gizmodo.com.au
-    quality: 4
 
 secured: "kdbNdIS6MFcPhC6EPHaG4AYWVzvlK/0P/Q/To6RnTaJJaHUaPNKQbPQyWHO/S8yQOFBOcneKmsL/QmHw1l6nfJMQpZG76mj65rIwnPcAnJEj8509NqetGkpdkFY/j/GT+lB9NMErrS5CTiuZ23vMNLv+YOE5ivSCAPK5cDbPSwPbLapU/9nIQeBJ7T60y6ipx6nBajmCxye7p/L5limIbfNyDZr0ciuEu6BuoFgkOPzH23i7VhjHL9+ZIBNge6CVlgUjr3NgOtNOffiCeDA2GfghURnKqQBoU6lXcTGUH9DA9tFrCk7s9ovIzI4kTyrkKBS2EY4rsvEQsddjVDe9l+G423yf1rCjXMMp+WXzGUNVBbD5vzisfeG8Un6mdvxCgvIVXgM4FKlFqCddhJgBXTeq8AoO+R8MQ5O32qy8mm+T1+hXWqeYeTFdcB1001yw+XVTsZGJ+VBv/JSuCyD1up2oNBkoQ+UBRcN3tc9lbt0=;/rYM7kPm3MqpBbFpiGXeag=="
 ---

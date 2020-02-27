@@ -2,140 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_posts/2020-02-14-show-me-the-money-how-ai-and-tech-can-solve-procurement-spend-challenges.md",
-      "title": "Show Me The Money: How AI And Tech Can Solve Procurement Spend Challenges",
-      "excerpt": "Fund innovation. Fund future growth. Increase savings. One of these things is not like the other, but AI can help procurement and supply chain leaders tackle their biggest spend challenges.",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/sap/2020/02/14/ai-in-procurement/",
-      "ampWebUrl": "https://www.forbes.com/sites/sap/2020/02/14/ai-in-procurement/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2020/02/14/ai-in-procurement/amp/",
-      "publishedDateTime": "2020-02-14T08:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F170550550%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3336%26cropY1%3D175%26cropY2%3D2051",
-          "width": 1200,
-          "height": 675,
-          "title": "Show Me The Money: How AI And Tech Can Solve Procurement Spend Challenges",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-14-simplify-machine-learning-inference-on-kubernetes-with-amazon-sagemaker-operators.md",
-      "title": "Simplify Machine Learning Inference on Kubernetes with Amazon SageMaker Operators",
-      "excerpt": "Amazon SageMaker Operators for Kubernetes allows you to augment your existing Kubernetes cluster with SageMaker hosted endpoints. \nMachine learning inferencing requires investment to create a reliable and efficient service. For an XGBoost model, developers have to create an application, such as through",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/simplify-machine-learning-inference-on-kubernetes-with-amazon-sagemaker-operators/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-14T12:18:36-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/12/02/EKxHDbaWkAEIegr.png",
-          "width": 800,
-          "height": 400,
-          "title": "Simplify Machine Learning Inference on Kubernetes with Amazon SageMaker Operators",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-14-the-ai-pivot-how-the-push-to-adopt-the-advanced-tech-is-rippling-through-corporate-america.md",
-      "title": "THE AI PIVOT: How the push to adopt the advanced tech is rippling through corporate America",
-      "excerpt": "IBM is using its AI star Watson to pinpoint salaries and coach employees. Here are 9 robot tools that could one day find their way to your office. The biggest AI opportunities in the workplace ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/artificial-intelligence-how-the-tech-is-rippling-through-companies",
-      "ampWebUrl": "https://www.businessinsider.com/artificial-intelligence-how-the-tech-is-rippling-through-companies?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/artificial-intelligence-how-the-tech-is-rippling-through-companies?amp",
-      "publishedDateTime": "2020-02-14T05:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5db72f2fdee01921b60cfabb?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "THE AI PIVOT: How the push to adopt the advanced tech is rippling through corporate America",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-14-travis-bott-makes-travis-scott-like-music-lyrics-with-ai.md",
       "title": "Travis Bott makes Travis Scott-like music, lyrics with AI",
       "excerpt": "Why we care: The robots are coming for your playlists again, and they’re mimicking your favorite artists in music videos too. Take Travis Bott. Yes, Travis Bott. He’s an AI musician inspired by Travis Scott, the rapper, producer, and songwriter responsible for “Sicko Mode” and more. Travis Bott has a new song⁠⁠ and accompanying ...",
@@ -1351,7 +1217,7 @@
       "path": "_posts/2020-02-17-monash-university-researchers-develop-ai-aimed-at-improving-suicide-prevention.md",
       "title": "Monash University researchers develop AI aimed at improving suicide prevention",
       "excerpt": "In an effort to help paramedics respond more effectively to potential suicides in Australia, researchers from Monash University and Turning Point, a national addiction treatment centre, are using artificial intelligence (AI) to streamline how relevant ambulance data is filtered and categorised. The AI project, which received a AU$1.2 million ...",
-      "heat": 113,
+      "heat": 103,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.zdnet.com/article/monash-university-researchers-develop-ai-aimed-at-improving-suicide-prevention/",
@@ -2089,6 +1955,140 @@
       "topics": [
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-18-cloud-computing-robotics-bonds-etf-industry-leaders-talk-2020s-top-themes.md",
+      "title": "Cloud computing, robotics, bonds: ETF industry leaders talk 2020's top themes",
+      "excerpt": "Inflows into exchange-traded funds are picking up steam in 2020, driven by investor interest in cloud computing, robotics and a host of other themes, industry leaders say.",
+      "heat": 101,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/02/18/cloud-computing-robotics-bonds-etf-leaders-talk-2020-themes.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/02/18/cloud-computing-robotics-bonds-etf-leaders-talk-2020-themes.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/02/18/cloud-computing-robotics-bonds-etf-leaders-talk-2020-themes.html",
+      "publishedDateTime": "2020-02-18T12:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/104933877-RTX46XGD-nvidia.jpg?v=1574694026",
+          "width": 2000,
+          "height": 1333,
+          "title": "Cloud computing, robotics, bonds: ETF industry leaders talk 2020's top themes",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-18-document-understanding-ai-google-cloud-explained.md",
+      "title": "Document Understanding AI — Google Cloud Explained",
+      "excerpt": "Hey, folks How are you doing. Today I am going to discuss Document Understanding AI using Google cloud in simple steps. I know I know you say there is a lot of complexity!!!. Don’t worry folks ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/datadriveninvestor/document-understanding-ai-google-cloud-explained-193ae84cda75",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-18T14:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/688/1*JQnPt8Ct4mzzzyEFVKW7zg.png",
+          "width": 688,
+          "height": 273,
+          "title": "Document Understanding AI — Google Cloud Explained",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-18-elon-musk-everyone-developing-ai-must-be-regulated-even-tesla.md",
+      "title": "Elon Musk: Everyone developing AI must be regulated — even Tesla",
+      "excerpt": "Elon Musk wants every organization developing advanced AI to be regulated ... and collaboration.” Judging by his reply to Hao on Twitter, Musk shares the sentiment. OpenAI was founded in 2015 as a non-profit, but last year announced that it was restructuring “as a hybrid of a for-profit and nonprofit—which we are calling ...",
+      "heat": 247,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/02/18/elon-musk-everyone-developing-ai-must-be-regulated-even-tesla/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-18T05:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2020%2F02%2FUntitled-design-18.png&signature=ccc63db991ed8ae7a56e57ddcdb0a17c",
+          "width": 1200,
+          "height": 600,
+          "title": "Elon Musk: Everyone developing AI must be regulated — even Tesla",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

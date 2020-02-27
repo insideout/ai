@@ -22,6 +22,6 @@ images:
     height: 314
     title: "Innovative Colombian Startup, Feelenials, is Developing a Global Emotional Analytics AI Platform to Improve the Quality of Work and Life"
 
-secured: "VS/y8Q4N6nfw6wJcV5TqXr2xlobVpHzGR0oeav44xWo5NBlH/7cnYbvd1GXOiXJDfGNOZrAGpibli92mvl4btvDNCy6/9qEEd7ImQ4D5HfUPk1pTOxZDicnsU1ZD6vrYvx4yUMJY6/bfP23k78L+F2IJhxAU+sEe4uwM7SvSLu0YGqWycto4XpsB47D34i0YX86GPmubJ+0yljIRCyV4j/r7IheQE4OOA4ugtx/8aaidUGkvIbWsLWqB7z/aoUBM2h5V+1BtZQxwAnWyPj/jWYyVFkpojptiZyP8yR/ee+Kd/P3uT6rcwnCiCq0tjaI9;OyXP8KtIabM82S0SXVOk4w=="
+secured: "L80zjBY6ha74hVwC7fKbN05nOegY5sKRP307Tec5SU/yB8ODYzyGemAr5uyOECqmjUFhxe8/v5q4bzq/e1PN4FURGapfNvp0MQbd2tRVS8R/CpribNVGuW3yyzCgJZ4ceknT2OFDt7owZ3ePpY2/zFZ/BNabbivdY+pArFIiZn3uP7f5w7IEYwfb0kOw67Ae+Y2izcSgLP2Ls0OPHvshoyAKDXU9Yct7SSqe71OyGz1/LaagDbNk6kdS6g5ocrIOUMhFkAANmcEwa3Ppdp2P9RdjKwkiXPHb1ZPxVgUcOj2Be0WVZOoZubw/oZl7ntlJczqx9p48wJHEtLuZ3deeVdIHyLSinsrJp8BgMMacfoWRLkxvwYA76kjDhTRUOoLUqvaMEimi9YxGDGkrW6bjtEQ3myV/dO77S1gcuDalgz3q7stM3nbxJDkGX/UAwGYHw8HBlz+NteJ9DYbjtY9SbOwAscdnqRsbZFtJ576ZSBY=;582pGy/S54soKToPgrG6Cg=="
 ---
 

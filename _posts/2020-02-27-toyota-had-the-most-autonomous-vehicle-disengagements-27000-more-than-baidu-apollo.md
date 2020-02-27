@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/2019-california-self-driving-di
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/2019-california-self-driving-disengagement-report-baidu-waymo-cruise/"
 type: article
 quality: 82
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -45,6 +45,21 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2018/12/Untitled-e1570466139991.png?fit=1200%2C648&strip=all"
         width: 1200
         height: 648
+  - title: "Apple greatly reduced autonomous vehicle testing in 2019, fleet of 23 cars drove only 7,500 miles"
+    excerpt: "Baidu led the pack in 2019 with 0.06 disengagements per 1,000 miles, followed by Waymo and Cruise, both of which managed 0.08 disengagements per 1,000 miles. Toyota reported the highest rate of disengagements with 1,620 per 1,000 miles, though the Japanese carmaker fielded six cars that traveled 1,817 miles. Apple's self-driving car initiative ..."
+    publishedDateTime: 2020-02-27T06:11:00Z
+    webUrl: "https://appleinsider.com/articles/20/02/27/apple-greatly-reduced-self-driving-car-testing-in-2019-fleet-of-23-vehicles-drove-only-7500-miles"
+    ampWebUrl: "https://appleinsider.com/articles/20/02/27/apple-greatly-reduced-self-driving-car-testing-in-2019-fleet-of-23-vehicles-drove-only-7500-miles/amp/"
+    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/20/02/27/apple-greatly-reduced-self-driving-car-testing-in-2019-fleet-of-23-vehicles-drove-only-7500-miles/amp/"
+    type: article
+    provider:
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 31
+    images:
+      - url: "https://photos5.appleinsider.com/gallery/34692-62829-200227-Car-xl.jpg"
+        width: 660
+        height: 333
 
 secured: "OtFHfmp1umf4UkQ504/OUB3FXLtw8XAGs23Fvi8YNC2MNJ2Lbk/HyOtvLMRqSmereOgTvlxif+GWvmyNARfTvKdTueRHz7nv6SfJIiR+2RCbQ+TZbqWpn3ioklF3XnMOkvPVZcPXss2ql6iBOGRzYKFR6jKeQJQlNnmPTOLaqzFi53hH/WwFXDc4wofViG7YSt+P5Nz/KaIwL3j1w9CiaYs6Tpi4jRiS2DXNu0GEp8Jem2SF39l4qAntAE+lIWcGriNA8RLIc8qv0GnbPDHjxxgG9rKoqPPoxeKSrJh2sIERaXiT304j0jMdZu0DeJyWGErThMvFCj5ia+EUgI/4flg3br+79n74KQ00Z0/LcBWZc+cfYC85ADvdb3nZBAovcYEBI0rrxHH+JtllCxwHiCcntIIeJy6NNAU4WvBRsdPI1JuO8Wh4UEYmwA8x1ZW+acR410VG4ykrqGw0hEZB4brH1Pbb1+KgRoKkzvIb0K4=;kK9PnNpU44PsJ+c7tC0i+Q=="
 ---
