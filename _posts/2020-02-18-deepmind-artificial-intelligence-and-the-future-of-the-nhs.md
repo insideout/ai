@@ -61,6 +61,17 @@ related:
       name: Psychology Today
       domain: psychologytoday.com
     quality: 54
+  - title: "AI and the future of your mind"
+    excerpt: "Susan Schneider, associate professor of philosophy and cognitive science and director of the AI, Mind and Society (AIMS) Group at UConn, has gained a national and international reputation for her writing on the philosophical implications of artificial intelligence (AI). She writes about the nature of the self and mind, AI, cognitive science ..."
+    publishedDateTime: 2020-02-18T14:28:00Z
+    webUrl: "https://phys.org/news/2020-02-ai-future-mind.html"
+    ampWebUrl: "https://phys.org/news/2020-02-ai-future-mind.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-02-ai-future-mind.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 39
 
 secured: "ZNwji2GMw3VNQ0N+IeBN08ckTE4jUSnjQp6K+Lnhl5DFWP22H2F0GHDwQZynCami31hXBUE0UT4j6UwuwI74OBBCMi+pqmJXFdIQbkb5E7TEqitPxe/J0Ur64fPCv9KnQ8SR+KXCSoroNYGGqLy35H8oC/2QNx1/Q4dxrZQHmp3fn9dZ96F8yPnDR8RqAJV1zsO0X1wpk1LIa3plXEBpG2G84cTXbQ78lkSsaNuAscLizcWyVCazOY0shLfeFVXSkctHz/O10b8d5nAG6lce6Ba9guM/iLyd+FU8p3yaDb1s/vBnXgbsw4yMRXvnG90M;dLrujUSrLK1sGbQwXr2QnQ=="
 ---

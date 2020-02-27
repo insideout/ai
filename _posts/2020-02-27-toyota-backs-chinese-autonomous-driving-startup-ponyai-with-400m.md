@@ -1,29 +1,22 @@
 ---
 category: news
-title: "Toyota Invests $400 Million in Chinese Self-Driving Startup Pony.ai"
-excerpt: "In 2017, Ford announced a $1 billion investment in Argo AI, an autonomous-tech startup. Last year, Volkswagen revealed that it would be investing $2.6 billion in Argo as well, pushing the startup’s valuation to $7 billion at the time. In 2016 ..."
-publishedDateTime: 2020-02-26T04:42:00Z
-webUrl: "https://www.caranddriver.com/news/a31115985/toyota-investment-pony-self-driving/"
-ampWebUrl: "https://www.caranddriver.com/news/amp31115985/toyota-investment-pony-self-driving/"
-cdnAmpWebUrl: "https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp31115985/toyota-investment-pony-self-driving/"
+title: "Toyota Backs Chinese Autonomous Driving Startup Pony.ai With $400M"
+excerpt: "Toyota has backed Chinese firm Pony.ai with a $400 million investment, according to the Financial Times. The newest funding totals $462 million and puts a $3 billion value on the Chinese firm. Toyota is using its own artificial intelligence (AI) division, known as the Toyota Research Institute, to develop its own self-driving technology."
+publishedDateTime: 2020-02-27T07:32:00Z
+webUrl: "https://www.pymnts.com/news/investment-tracker/2020/toyota-backs-pony-ai-400-million-investment/"
+ampWebUrl: "https://www.pymnts.com/news/investment-tracker/2020/toyota-backs-pony-ai-400-million-investment/amp/"
+cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2020/toyota-backs-pony-ai-400-million-investment/amp/"
 type: article
-quality: 59
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Car and Driver
-  domain: caranddriver.com
+  name: pymnts.com
+  domain: pymnts.com
 
 topics:
   - AI
-  - AI in Autos
-
-images:
-  - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/190825-pony-ai-lexus-rx-1582733043.jpeg?crop=1.00xw:0.651xh;0,0.232xh&resize=1200:*"
-    width: 800
-    height: 401
-    title: "Toyota Invests $400 Million in Chinese Self-Driving Startup Pony.ai"
 
 related:
   - title: "Toyota steers $400 million to self-driving startup Pony.ai"
@@ -114,6 +107,21 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Toyota Invests $400 Million in Chinese Self-Driving Startup Pony.ai"
+    excerpt: "In 2017, Ford announced a $1 billion investment in Argo AI, an autonomous-tech startup. Last year, Volkswagen revealed that it would be investing $2.6 billion in Argo as well, pushing the startup’s valuation to $7 billion at the time. In 2016 ..."
+    publishedDateTime: 2020-02-26T04:42:00Z
+    webUrl: "https://www.caranddriver.com/news/a31115985/toyota-investment-pony-self-driving/"
+    ampWebUrl: "https://www.caranddriver.com/news/amp31115985/toyota-investment-pony-self-driving/"
+    cdnAmpWebUrl: "https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp31115985/toyota-investment-pony-self-driving/"
+    type: article
+    provider:
+      name: Car and Driver
+      domain: caranddriver.com
+    quality: 59
+    images:
+      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/190825-pony-ai-lexus-rx-1582733043.jpeg?crop=1.00xw:0.651xh;0,0.232xh&resize=1200:*"
+        width: 800
+        height: 401
   - title: "Autonomous driving start-up Pony.ai raises R7bn in Toyota-led funding"
     excerpt: "The sources added that some of Pony.ai's existing investors had joined the financing, but did not specify names. The investment by Toyota comes at a time when global carmakers, technology firms, start-ups and investors, including Tesla, Alphabet Inc's Waymo and Uber, are pouring capital into developing self-driving vehicles. Over the past two ..."
     publishedDateTime: 2020-02-26T06:20:00Z
@@ -229,17 +237,6 @@ related:
       - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Pony%20ai%20rtrs%20web.jpg"
         width: 800
         height: 600
-  - title: "Toyota Backs Chinese Autonomous Driving Startup Pony.ai With $400M"
-    excerpt: "Toyota has backed Chinese firm Pony.ai with a $400 million investment, according to the Financial Times. The newest funding totals $462 million and puts a $3 billion value on the Chinese firm. Toyota is using its own artificial intelligence (AI) division, known as the Toyota Research Institute, to develop its own self-driving technology."
-    publishedDateTime: 2020-02-27T07:32:00Z
-    webUrl: "https://www.pymnts.com/news/investment-tracker/2020/toyota-backs-pony-ai-400-million-investment/"
-    ampWebUrl: "https://www.pymnts.com/news/investment-tracker/2020/toyota-backs-pony-ai-400-million-investment/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2020/toyota-backs-pony-ai-400-million-investment/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 37
   - title: "Autonomous driving startup Pony.ai raises US$462mil in Toyota-led funding"
     excerpt: "The Silicon Valley-based startup Pony.ai – co-founded by CEO James Peng, a former executive at China's Baidu, and chief technology officer Lou Tiancheng, a former Google and Baidu engineer – is already testing autonomous vehicles in California, Beijing and Guangzhou. The firm is focusing on achieving \"Level 4\", or fully autonomous standards ..."
     publishedDateTime: 2020-02-26T05:01:00Z
@@ -309,6 +306,6 @@ related:
       domain: moneycontrol.com
     quality: 14
 
-secured: "3AvcK1JA6YdC3f6pgeOlpYEFrqsP3czR2hLyVvzbaoBCzPiIXyyI2ENMENDFqtZcgp5oHY/X4Jz/SHD0lG69HpKC3BfeDU4XB2ekZesTaq2rxBrudnxFbtq2ZRh+AhAcmpmTOTwR3vZcusbC62LHYFaG5CKZAhil805ApPDRnH7eIw1kAN8ziihrCQ2PlwYz9wFnmpQm/JYEhgx2FBcfkV50sxB5gyj4PTmy0nrY3vGmHXQnlz38bZDj/tsDG1RDigH2SYjELEYQyRDlyfE8Wbjimz3teP72XvmXmYdqwCGld8VwUOhOMgaaTN13WD8El+B7MRfR3Q2QS6fwXXH5PMcdB3OYE/yii4ivieHcCcdoE5JjLCC6EiLjsGJv5mCWY7oyWjR5aNFrVmUxj+Ymuxv2bCVU3tst3KY/x5CU+YVTaSfKBrM5BTZs7E9mX+7psGrLiyqMmOqliMhsN6Ow7QkAtJGzXcxwhKFyxYroHDM=;on/e1lUjIFxlWUsvngld/A=="
+secured: "i1SfGeUG8AeEpZtnC1S3tDz5Hm3fSDd23lTnVumAG2KtlPwelGtJy/iikMr+FO1XaPSErrPYY/V8jaAj697DTE0tN1Y8nbLaJ516zOxNV0QCLzuAqfSrdM4d/dcFQYCwPAfyc9DvEQrU2EClCgBz9vYZOutJX2ISE4v2w2zP3opjQYD1HDYo4tUNLiigKI9y8Ax1gfAwnQz7BAEMlkvUVbK254EUVobSMyuWMpCh3TTWwWeoF13BtjjY+Bem++0AN98FB+KhbATUwW/ejbjqgULBIpte9SK+LWZ0oDbTL7BwpBteVXUeW3oYSs51XL/glbGyZ/8Us3l3/eDgIrl/TGTbLXlaSiXgVb1FAUrF6ga4odfBToWkb+QpcrgNGCWXg4eKOwmSdX4VZVOjvTaBVZr03GelWGQR6kE1PcoAu+dqL0bmQZvFBRYOrKtVDfGcbzQcri/PCLgr61cRhKPG+Pabus+JXv6ZOktgwfwN/uM=;xHoHCky8dUIcUjTrMstteA=="
 ---
 

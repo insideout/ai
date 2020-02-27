@@ -44,19 +44,6 @@ related:
       - url: "https://www.financemagnates.com/wp-content/uploads/2019/01/Fotolia_158317030_Subscription_Monthly_M.jpg"
         width: 880
         height: 400
-  - title: "Sandler's Methodology and Gong's Revenue Intelligence Technology is an Unbeatable Combination"
-    excerpt: "/PRNewswire/ -- Artificial intelligence is here to stay. The global leader in the training industry, Sandler (www.sandler.com), has partnered with"
-    publishedDateTime: 2020-02-12T14:32:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/sandlers-methodology-and-gongs-revenue-intelligence-technology-is-an-unbeatable-combination-301003733.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 11
-    images:
-      - url: "https://mma.prnewswire.com/media/836802/Sandler_Training_Logo.jpg?p=facebook"
-        width: 2695
-        height: 1414
 
 secured: "h6Un9sajOcAyEAZRUkf85n1q+6256OafEkmxwc2PbDrB+yxkiJsdqqEDwXFJAGhF6d5nBkxjxFChYkPU0db9ySrfzOsC6J0iR8uXMB1ejHqZRn022Jvjh2GkCAHNZ0YJ/YRGGBR4qQVFX8x+AU6itymxMLnH44zAu/iTQkX83KbPy7b4MbYkby5J6BoNbcZc9eV3RXyilmqJugODZy0TJitjmKlW4fwtyLYBraODvT4/VzPoMQnAukKd6npkiWqAWoC12TMt8ApFauXlF3RZ/l4XyiNA40rzcvl/R4PROy/bK+ck3l1qk2VJVCXX8UcQg+KiwS3P8DYH520jPvwxp+TNF0kzCnnwNazHMHxpKPwGWrZl7tMo+dp3lcjoDYFLUxyyB9y/BTG0XltqofKDsWXRKPe4xlGdADySdrotpFMRNDER610FYnkY0f9DGidsAJH0VgfcV7PjtIMqsRd0pquNKM+fcQ53Wz3UICTRi9Y=;fJ7a1V0A6kpJ3IA67WZiLw=="
 ---

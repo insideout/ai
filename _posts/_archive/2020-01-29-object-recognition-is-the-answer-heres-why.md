@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/hodfleishman/2020/01/29/object-recognit
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hodfleishman/2020/01/29/object-recognition-is-the-answer-heres-why/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,21 +29,6 @@ images:
     height: 800
     title: "Object Recognition Is The Answer, Here’s Why"
 
-related:
-  - title: "Top 7 Usecases for Touchscreen Object Recognition"
-    excerpt: "This whitepaper from eyefactive presents some of the most exiting usecases of touchscreen object recognition for interactive displays, tables and video walls. The recognition of objects on large-scale touch screens picks up the well-known principle of ..."
-    publishedDateTime: 2020-01-27T14:40:00Z
-    webUrl: "https://www.digitalsignagetoday.com/whitepapers/top-7-usecases-for-touchscreen-object-recognition/"
-    type: article
-    provider:
-      name: Digital Signage
-      domain: digitalsignagetoday.com
-    quality: 39
-    images:
-      - url: "https://nmgprod.s3.amazonaws.com/media/files/6f/5d/6f5db33eb9f9e376da43e8199eaa1155/3/social_image_11.png"
-        width: 1200
-        height: 630
-
-secured: "8QFUcW/4xpgSlUzBSzD5x8cL15tenJ6GAUKcNspdN3cm4LH9kvitgdUkSz38ynVO8Or5DZAApkXeSJ3IWhSQvjoEdk78JqzdYlaqJ6emYHh2R9c+Dxu2mbeZ9SDlb3dwH1LxWGs51FEmSnM9sZJgudlKzveYI2mQzY2PVCvAXcuhPLXr2UGH4MAPwX7HxieSiHb7cp44x6cdSZWDWb0hkoZo1hYDoGNYb73fdmKnsoV6wX+8FNCWMT+5F93plU9Y9DJgslJHYaQU1W0VbkzY5VHduG/PXL8vtwl1Y1EXVzbalqMWJ6bhaOkO2zWfcvty;iZ2OtaReFHiIPURQN1BQOA=="
+secured: "MmqmoEGVQNN2d2HkK0/maRyQTKYB2puwWlr+kjcDkPu2qjWBTtICY7Ga+I61MrUeInz2K3JCfJmeTEOphee1q1Du0+OqCXouu7rxhCNoXyx5SHifTrjDy3oIvSnl5ZsSY16jqOjEKGqSMf9J5VmNHrfN9H58BYDMAuuIIsbEkj0ww4LG++zsbA1CZ9kpdmbLts+rsVQFOBIFwlfsGSlcWkdcpxuZbPIdKTcPp2GIRWSDmnPXU+Cu8NyOD8RgFK0Z91C90HV1RzniC9+P3Puz1LiKxEw7L1bdw+urD2iBWD0FZxDbhgg32wuMnzDARWlJ;nQIq32EETIRRtTWa6lxWZQ=="
 ---
 

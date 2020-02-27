@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-28T09:26:00Z
 webUrl: "https://www.fudzilla.com/news/ai/50195-us-army-develops-ai-facial-recognition-protection"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -23,23 +23,6 @@ images:
     height: 465
     title: "US Army develops AI facial recognition protection"
 
-related:
-  - title: "The US Army uses facial recognition to train AI. Now, it needs to protect it"
-    excerpt: "Facial and object recognition technologies are used by the US Army to train artificial intelligence (AI) systems used in unmanned aerial vehicles (UAVs), surveillance systems, and more."
-    publishedDateTime: 2020-01-27T11:21:00Z
-    webUrl: "https://www.zdnet.com/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 101
-    images:
-      - url: "https://zdnet4.cbsistatic.com/hub/i/r/2019/12/16/35ee7b2b-7adc-4a8f-9a42-034997586ff6/thumbnail/1200x675/29e6b7ba24c8774ada650245cc7c7ba7/san-diego-to-suspend-facial-recognition-5df3b0c7aaacb30001a11066-1-dec-16-2019-22-49-36-poster.jpg"
-        width: 1200
-        height: 675
-
-secured: "rXc2yEqoKHqSixuo9uKg6IcXbP+LY3kTO7OtxYMrWMX5GKhdhEOMG0DigshYr7yOfJqYQls65dpYgENVL2pUtA/ULO0J3ydzcfZlyFtVqUY8Uf7kYkLGuVKwndnfQJVbcKZDL0/v3Pa79PRNKc/T9jxB3hZa1y8gdOFVhJj/Rbe7zMM0cWDwRtmvrmSTbrNRxv//r3qT0rjEwE37b12k+YO4AVMN86lZ3wBgoilO47DVc3p81ehEcbQm/J0c5Ao8bC2ZdH7UcrXSjuPiaIArfe9QYplvT+8BPgJThfwW9n+Fx6xhBFpOdjnzSuoIwHpk;BX3fF94MDZJomRuEbBdxyQ=="
+secured: "0dWtdyRW/2lU+NVKcv8iBd7D97t1JGcMSIC7z1OFmOYekNydOaHbLZKf/FXgki0IirosW1Zh2BtjQnS6DvrRs9p708fe6PFLeVu3PpuLutkzV1qqRLHXPunhQn89/eSt6/7cuoZoWYBp2vpPnr0IQySe2WS1IvYThnQRfIoJ/gT4RPUJTTl6T5ZV6hgI9MZRV1C+kqg+ImL38aIraLi1tk3uctkNOlj70Bs1kXEFqb9mQy6REzaUyAHk8X/GcBRS1kj3xc8oM9twBh3X30s/h29/Tb9t2Xv1CU0mobEzwpAQ6jstqgR2xW0sXiywwN9L;JjOOOCCqamGPHy2ZOJtCgw=="
 ---
 

@@ -49,15 +49,6 @@ related:
       - url: "https://247wallst.files.wordpress.com/2020/01/imageforentry19-gsk.jpg?w=1200"
         width: 1200
         height: 675
-  - title: "Arm Brings AI And Machine Learning To IoT And The Edge"
-    excerpt: "However, because a great deal of ML and AI-based algorithm work is being created in frameworks, such as TensorFlow, the company is also bringing support for its new IP designs into TensorFlow Lite Micro, which is optimized for the types of smaller devices for which these new chips are intended. In addition to software, there are several ..."
-    publishedDateTime: 2020-02-12T14:19:00Z
-    webUrl: "https://seekingalpha.com/article/4323431-arm-brings-ai-and-machine-learning-to-iot-and-edge"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 38
 
 secured: "Beo3XKGB4HMk1e/QD7wC6EqLm4zMuIWYiqZCZwrelWxpo4Gf1QQx9S7cQpp+JMNSuXzfalRpWrdWREpcoF4OCN/wA9H6ML3asOxwB2gvdTub+3QyI8XEnPV9tNavSvWZWDFZLGkVBcRH3pjlr1fsrpr+hWp0swKwK7Gc27OVhJMk2YqLZXWfL6ch4wgS4/REVvXk3j0+PTPQyhtgohFHtfn0+Ldb8Zisf3LR6hqx2/HivUd2ez+fl4uIuKHxIX9GqsikQWxQCFy7w3LKGN7oWCDUDoyj5vAEagd/HYBT84FrTV/1SsDvNm5ZHvm4aiPJ;L9oC3UOaNmKhms0dnvmnGg=="
 ---

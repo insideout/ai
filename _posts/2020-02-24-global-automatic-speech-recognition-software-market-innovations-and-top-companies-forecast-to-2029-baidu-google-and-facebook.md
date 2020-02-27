@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-24T12:28:00Z
 webUrl: "https://www.marketwatch.com/press-release/global-automatic-speech-recognition-software-market-innovations-and-top-companies---forecast-to-2029-baidu-google-and-facebook-2020-02-24"
 type: article
 quality: 55
-heat: 105
+heat: 115
 published: true
 
 provider:
@@ -76,6 +76,19 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Speech and Voice Recognition Market Scenario by Key Companies, Future Trends, Pipeline Projects, Growth and Regional Forecasts to 2026"
+    excerpt: "Top Players in Speech and Voice Recognition Market are Google, Baidu, Facebook, Amazon, Advanced Voice Recognition Systems, Apple Inc, IBM , Microsoft , Brianasoft, Voicebox Technologies Corporation,"
+    publishedDateTime: 2020-02-27T07:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-scenario-by-key-companies-future-trends-pipeline-projects-growth-and-regional-forecasts-to-2026-2020-02-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 22
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

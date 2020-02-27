@@ -20,77 +20,56 @@ topics:
   - AI Hardware
 
 related:
-  - title: "The Future Of Blockchain: Fintech 50 2020"
-    excerpt: "Over the past year, the price of bitcoin has more than doubled, and a number of imaginative new blockchain products have launched, showing the breadth of industries that could be impacted."
-    publishedDateTime: 2020-02-12T14:26:00Z
-    webUrl: "https://www.forbes.com/sites/michaeldelcastillo/2020/02/12/the-future-of-blockchain-fintech-50-2020/"
-    ampWebUrl: "https://www.forbes.com/sites/michaeldelcastillo/2020/02/12/the-future-of-blockchain-fintech-50-2020/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaeldelcastillo/2020/02/12/the-future-of-blockchain-fintech-50-2020/amp/"
+  - title: "Demis Hassabis interview: the brains behind DeepMind on the future of artificial intelligence"
+    excerpt: "Demis Hassabis interview: the brains behind DeepMind on the future of artificial intelligence He is a chess prodigy turned games designer whose company, DeepMind, is leading the race to develop ..."
+    publishedDateTime: 2020-02-15T00:00:00Z
+    webUrl: "https://www.thetimes.co.uk/article/demis-hassabis-interview-the-brains-behind-deepmind-on-the-future-of-artificial-intelligence-mzk0zhsp8"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 187
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 58
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e42d3368b6cf300071e6e36%2F0x0.jpg"
-        width: 1200
-        height: 800
-  - title: "Fintech 50 2020: The Newcomers"
-    excerpt: "For our fifth annual Fintech 50, 19 of our picks have never appeared on the list. Digital banks, insurance startups and payments companies made a particularly strong showing."
-    publishedDateTime: 2020-02-12T14:26:00Z
-    webUrl: "https://www.forbes.com/sites/jeffkauflin/2020/02/12/fintech-50-2020-the-newcomers/"
-    ampWebUrl: "https://www.forbes.com/sites/jeffkauflin/2020/02/12/fintech-50-2020-the-newcomers/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeffkauflin/2020/02/12/fintech-50-2020-the-newcomers/amp/"
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F289203c0-fd4e-11e8-92e0-7fb8092617eb.jpg?crop=5760%2C3240%2C0%2C300&resize=685"
+        width: 685
+        height: 385
+  - title: "DeepMind, artificial intelligence and the future of the NHS"
+    excerpt: "One morning a few weeks ago Stephen Foot, a warehouseman from Enfield, woke up in a London hospital to discover the unlikely harbinger of a coming medical revolution. This Ghost of Healthcare to ..."
+    publishedDateTime: 2020-02-14T00:00:00Z
+    webUrl: "https://www.thetimes.co.uk/article/deepmind-artificial-intelligence-and-the-future-of-the-nhs-r8c28v3j6?ref=patrick.net"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 54
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e42ee49f133f400076c2e55%2F0x0.jpg"
-        width: 1200
-        height: 783
-  - title: "The Future Of Insurance: Fintech 50 2020"
-    excerpt: "With tailored products and easy access, Insurtech companies make shopping for insurance faster and often cheaper."
-    publishedDateTime: 2020-02-12T14:26:00Z
-    webUrl: "https://www.forbes.com/sites/ashleaebeling/2020/02/12/the-future-of-insurance-fintech-50-2020/"
-    ampWebUrl: "https://www.forbes.com/sites/ashleaebeling/2020/02/12/the-future-of-insurance-fintech-50-2020/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ashleaebeling/2020/02/12/the-future-of-insurance-fintech-50-2020/amp/"
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F567205e8-d3b7-11e9-aa6d-16cb9f989e55.jpg?crop=6194%2C3484%2C0%2C323&resize=685"
+        width: 685
+        height: 385
+  - title: "DeepMind, artificial intelligence and the future of the NHS"
+    excerpt: "One morning a few weeks ago Stephen Foot, a warehouseman from Enfield, woke up in a London hospital to discover the unlikely harbinger of a coming medical revolution. This Ghost of Healthcare to ..."
+    publishedDateTime: 2020-02-18T00:00:00Z
+    webUrl: "https://www.thetimes.co.uk/magazine/the-times-magazine/deepmind-artificial-intelligence-and-the-future-of-the-nhs-r8c28v3j6"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 54
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e42de658b6cf300071e6f2b%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2688%26cropY1%3D133%26cropY2%3D1645"
-        width: 1199
-        height: 675
-  - title: "The Future Of Real Estate: Fintech 50 2020"
-    excerpt: "Better Mortgage Headquarters: New York Online mortgage lender provides home shoppers with pre-approvals in as little as three minutes."
-    publishedDateTime: 2020-02-12T14:42:00Z
-    webUrl: "https://www.forbes.com/sites/samanthasharf/2020/02/12/the-future-of-real-estate-fintech-50-2020/"
-    ampWebUrl: "https://www.forbes.com/sites/samanthasharf/2020/02/12/the-future-of-real-estate-fintech-50-2020/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samanthasharf/2020/02/12/the-future-of-real-estate-fintech-50-2020/amp/"
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F567205e8-d3b7-11e9-aa6d-16cb9f989e55.jpg?crop=6194%2C3484%2C0%2C323&resize=685"
+        width: 685
+        height: 385
+  - title: "DeepMind on the Brain’s Dopamine System and AI"
+    excerpt: "In January 2020, research scientists at DeepMind published peer-reviewed research in Nature that applied machine learning concepts to neuroscientific experiments. The findings reveal similarities between the biological brain’s dopamine system and AI distributional reinforcement learning algorithms. These discoveries may validate recent ..."
+    publishedDateTime: 2020-02-20T07:05:00Z
+    webUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202002/deepmind-the-brain-s-dopamine-system-and-ai"
+    ampWebUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202002/deepmind-the-brain-s-dopamine-system-and-ai?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202002/deepmind-the-brain-s-dopamine-system-and-ai?amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e4411977ea82f00072814e2%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5000%26cropY1%3D257%26cropY2%3D3069"
-        width: 1200
-        height: 675
-  - title: "The Future of Fintech: AI & Blockchain"
-    excerpt: "Sweeping global regulations, the growing penetration of digital devices, and a slew of investor interest are catapulting the fintech industry to new highs. Of the many emerging technologies poised to transform financial services, two of the most promising and mature are artificial intelligence (AI) and blockchain. 74% of banking executives ..."
-    publishedDateTime: 2020-02-16T18:17:00Z
-    webUrl: "https://www.businessinsider.in/finance/news/the-future-of-fintech-ai-blockchain/articleshow/74165459.cms"
-    ampWebUrl: "https://www.businessinsider.in/finance/news/the-future-of-fintech-ai-blockchain/amp_articleshow/74165459.cms"
-    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/finance/news/the-future-of-fintech-ai-blockchain/amp_articleshow/74165459.cms"
-    type: article
-    provider:
-      name: Business Insider India
-      domain: businessinsider.in
-    quality: 39
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 54
 
 secured: "N0F+lC0QBxxtWx/KnNJaYbT6m4JVAQcyAiZYFsYih46gCTjJV3jHJ4+S4W8p3Ns4ht0itlXB9NeWhibtKjBHRfbapLsTYayrPQscJJ9OS9FdnDNLqtP1OyWdAYGat1VPC7VBJNqxLtHK6oCuRzE4H4FJckfQ5+gRSsQWb//07MxoSKuyOxhXVKDfPAnqoIiQ2srxMRlKMcl7zJM1xPYAtp3EUMlY2VAQQ4dsakf+mENhwCEUm5g79ZNFSoGoqZrPSaoPnXh10SlIRsH3ZzZ18GT+oSCgAM2E7g2pg4H1Ec/I/gOBm7Pw+y+sKy2ke6Oy2jBcCfXaBRLtOx3+RVvAEpjnXCGlvZC4pX/9/DW7bXePzoVVN+hjw0S86qdyTl/GZWl765GwV1pNewc5EJZWgdm+C2LVWqvlqgCrgimrU0lIlsJo6zcTCVhVEQ0tGSLFhgvPS+us/IBQQ3DwuNoq/PcYPf5bB6wJfS6swtoEUOI=;lgZh4ujv4d/dRIzjcfylkA=="
 ---

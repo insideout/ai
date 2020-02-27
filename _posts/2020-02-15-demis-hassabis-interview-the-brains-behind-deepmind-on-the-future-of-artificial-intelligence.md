@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-15T00:00:00Z
 webUrl: "https://www.thetimes.co.uk/article/demis-hassabis-interview-the-brains-behind-deepmind-on-the-future-of-artificial-intelligence-mzk0zhsp8"
 type: article
 quality: 58
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -61,6 +61,17 @@ related:
       name: Psychology Today
       domain: psychologytoday.com
     quality: 54
+  - title: "AI and the future of your mind"
+    excerpt: "Susan Schneider, associate professor of philosophy and cognitive science and director of the AI, Mind and Society (AIMS) Group at UConn, has gained a national and international reputation for her writing on the philosophical implications of artificial intelligence (AI). She writes about the nature of the self and mind, AI, cognitive science ..."
+    publishedDateTime: 2020-02-18T14:28:00Z
+    webUrl: "https://phys.org/news/2020-02-ai-future-mind.html"
+    ampWebUrl: "https://phys.org/news/2020-02-ai-future-mind.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-02-ai-future-mind.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 39
 
 secured: "fMAa6Tp1gJNVQyqs16o0yYWoy/aIy8PuqBRyiKmEWKNN0YTJTNB4VAoevrmJ9Ob2YFOmxvaIxTR+mpPBLt5x46IU7DNP0p177NmyfB9nO3OaFMMM5cqWdKi5iB5rDoKN4lE70/67WgZfRJ4qtFcKh7aQ3CdpK0/wjccvA5htPA/5VC44alr/mTWILYLcVBU4BEMizItMlmFLi0MGMwdaAVzrzne6eMlLSij/u6M1P/1mnKfx8mMZRl3/q45xiGchmU/Wqk/TLTr6AYTut++wAVTLo4gOjVfSCpmz+D02vsS1sLFJ/3Xp0LJC/WJ4061h;lyBq3nN469roPCBLc23ZqA=="
 ---

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2020/02/157546-80-of-chinese-banks-
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/02/157546-80-of-chinese-banks-to-integrate-fintech-solutions-from-cloud-market-report/amp/"
 type: article
 quality: 56
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -26,21 +26,6 @@ images:
     title: "80% of Chinese Banks to Integrate Fintech Solutions from Cloud Market: Report"
 
 related:
-  - title: "RegTech startup Signzy wins Most Innovative Fintech Data Solution Provider Award"
-    excerpt: "Signzy, through its AI-based decision engines and back office automation solutions ... Today, it works with over 90 banks, NBFCs and FinTech companies globally, including Mastercard, SBI Bank, ICICI Bank, HDFC Bank and RBL Bank, among others. It has completed 5 million new customer onboarding transactions in the last two years."
-    publishedDateTime: 2020-02-12T14:29:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/fintech-regtech-startup-signzy-wins-most-innovative-fintech-data-solution-provider-award-4937631.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/technology/fintech-regtech-startup-signzy-wins-most-innovative-fintech-data-solution-provider-award-4937631.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/fintech-regtech-startup-signzy-wins-most-innovative-fintech-data-solution-provider-award-4937631.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 39
-    images:
-      - url: "https://static-news.moneycontrol.com/static-mcnews/2017/03/moneygram-e1489500579826-378x212.jpg"
-        width: 378
-        height: 212
   - title: "AI in Fintech Market"
     excerpt: "By expanding its relationship with AWS, Second Spectrum will begin working with Amazon SageMaker to explore ways of enhancing and tuning its ML models on years of video data captured in dozens of ..."
     publishedDateTime: 2020-02-17T15:54:00Z

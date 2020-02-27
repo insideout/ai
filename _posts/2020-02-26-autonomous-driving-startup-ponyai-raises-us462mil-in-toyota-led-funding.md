@@ -241,6 +241,17 @@ related:
       - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Pony%20ai%20rtrs%20web.jpg"
         width: 800
         height: 600
+  - title: "Toyota Backs Chinese Autonomous Driving Startup Pony.ai With $400M"
+    excerpt: "Toyota has backed Chinese firm Pony.ai with a $400 million investment, according to the Financial Times. The newest funding totals $462 million and puts a $3 billion value on the Chinese firm. Toyota is using its own artificial intelligence (AI) division, known as the Toyota Research Institute, to develop its own self-driving technology."
+    publishedDateTime: 2020-02-27T07:32:00Z
+    webUrl: "https://www.pymnts.com/news/investment-tracker/2020/toyota-backs-pony-ai-400-million-investment/"
+    ampWebUrl: "https://www.pymnts.com/news/investment-tracker/2020/toyota-backs-pony-ai-400-million-investment/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2020/toyota-backs-pony-ai-400-million-investment/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 37
   - title: "Autonomous driving startup Pony.ai raises $500 mln in Toyota-led funding: sources"
     excerpt: "Pony.ai, which has partnerships with automakers Hyundai and GAC, declined to comment. A Beijing-based spokesman for Toyota declined to comment. The investment by Toyota comes at a time when global car makers, technology firms, start-ups and investors – including Tesla, Alphabet Inc’s Waymo and Uber – are pouring capital into developing ..."
     publishedDateTime: 2020-02-26T02:10:00Z

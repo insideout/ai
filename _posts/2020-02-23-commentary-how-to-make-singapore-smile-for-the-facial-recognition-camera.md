@@ -39,6 +39,21 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2020/02/26/11/25217416-0-image-a-20_1582715621043.jpg"
         width: 636
         height: 382
+  - title: "Facial-recognition masks let wearers unlock their phones"
+    excerpt: "Artist Danielle Baskin has set up Resting Risk Face, a company that will print user's faces on masks so they can use facial recognition technology while wearing them. Baskin, who is based in San Francisco, got the idea for the facial-recognition masks after seeing people using masks to try and protect against coronavirus. \"I was discussing ..."
+    publishedDateTime: 2020-02-27T07:00:00Z
+    webUrl: "https://www.dezeen.com/2020/02/27/face-recognition-masks-resting-risk-face/"
+    ampWebUrl: "https://www.dezeen.com/2020/02/27/face-recognition-masks-resting-risk-face/amp/"
+    cdnAmpWebUrl: "https://www-dezeen-com.cdn.ampproject.org/c/s/www.dezeen.com/2020/02/27/face-recognition-masks-resting-risk-face/amp/"
+    type: article
+    provider:
+      name: Dezeen
+      domain: dezeen.com
+    quality: 44
+    images:
+      - url: "https://static.dezeen.com/uploads/2020/02/resting-risk-face-facial-recognition-respirator-masks_dezeen_1704_hero-b.jpg"
+        width: 1704
+        height: 959
 
 secured: "jO7wsNhVMsrOrHDbhyiErbZSEmewC9SYvCjfYPLI/zQH85lj2awdXhc5JiEW9ycvndGlgKPYmF2ogVDxrKKKU3SfT/++YnKlChDB4ZArIMLdUwEhs/zKkeGR849TsBtPyxJgmNsc1OHTGITJ5kMddwHWP3rOiXl4vzB2xEYdP0ppOTaj9aqtWsKCuFJYTLl6M4UWLdueTBB2ND70X/JuMen56KHarREG5hxzvjdVM+5DDhUIsIvmhZLNLKReuvEzaC52dN1EajD/yGYpsykMg9woxc5fzrfHUPm7aEjElyNM/Ut+//P7Z7rg6jULhch2iZJHhKvLTkXq9izg4Ow/m4gy1y8aNRA465k0gIL/ki2VKfJgWfPiNe/B54ZE0OS0HXYT3mlqKjBz7h07T37fcsy78FOEDp2kl16F1Rv1yh615PtHjjshDeCucfQa/RHBZkYVzrd+6iYNm79pfe6lpgOLgXXVH/VTFHuqIWGyyow=;eQfbLFXXozJzibQ7RlDpkQ=="
 ---
