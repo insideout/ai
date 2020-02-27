@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-21T18:00:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-is-projected-to-reach-usd-1699-billion-in-2026-2020-02-21"
 type: article
 quality: 84
-heat: 214
+heat: 224
 published: true
 
 provider:
@@ -169,6 +169,19 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 5
+  - title: "Global Healthcare Chatbots Market Projected to Grow in Value from $116.9 Million in 2018 to $345.3 Million by 2026 - ResearchAndMarkets.com"
+    excerpt: "The global healthcare chatbots market accounted for $116.9 million in 2018 and is expected to reach $345.3 million by 2026, registering a CAGR of 14.5% from 2019 to 2026. A chatbot is a program that works on artificial intelligence for stimulation of interactive human conversation. These programs run by using key pre-calculated user phrases and ..."
+    publishedDateTime: 2020-02-27T17:49:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200227005823/en/Global-Healthcare-Chatbots-Market-Projected-Grow-116.9"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 5
+    images:
+      - url: "https://mms.businesswire.com/media/20200227005823/en/371054/23/ResearchAndMarkets_800px.jpg"
+        width: 1200
+        height: 627
   - title: "Emotion Detection and Recognition (EDR) Market to Reach $33.9 Billion at a CAGR of 28.9% by 2023: AMR"
     excerpt: "Surge in popularity of wearable technology, growth of Internet of Things, and increase in adoption of smartphones drive the growth of the global emotion recognition and detection market. Based on end user,"
     publishedDateTime: 2020-02-17T16:14:00Z

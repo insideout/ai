@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-27T13:09:00Z
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-anticipated-to-grow-at-a-cagr-443-by-2026-2020-02-27"
 type: article
 quality: 71
-heat: 81
+heat: 82
 published: true
 
 provider:
@@ -43,6 +43,6 @@ related:
         width: 1200
         height: 630
 
-secured: "yrrD/Vp0AD0U7Z9o8/4iA1d50VEoN945ykDsngo5CG3mjxJ7H9DwFJCy7fHUPJIMp31zdXwJDZmxEhAz65hwjv5VXLGn8tO9wBKJahHiNjuRjL7oq19skhSSfDi9CMM7F6lC3MQFwQIUIdQnjrrqGXk/WjG/2AXrkcslFQ4wUfqQOLSWJEz7IisrfuS0GrH/5Eco8DzkhFtZO5kUfF6pnfOtCOVo5A3P8B3v89r3200g/fdZryHStJtO22Zv9Yl+HU6tjMHbnGOLbcCyYNcJOQRmkvgCYxqvdXPgfO9bo7ITud2YKkbb14beIe4PeOrw;71WkB46ekHCOt5EcwI+Pyg=="
+secured: "K1UHyiAVWFd8jGjsSoMURmmOgGbZ+6L2FDYYpaO6GUzop5Q0AvsYn+pY97Fro9KfTiXU59FJ2Vr8DJYN9meinmYN4AKZQtNkP6lvu7zLATjmqhEj29y648H5pTB+nU0EXXm1FJyhcB3BldWrCDHsX+JL0A0SeSppfZmFybcweiJM1Ckp1I+VJtrArUil1R9j6J+wdooSbJJOJ+A/N74x7xG4GZwLRwlJ6KR4/U6JTK5bODSyvXv+PAHhG734otoKD8TXKups0719bFklJk39i14GzwH7aCImgXI7cU4oEreu3Q+rjvZhhCtLNz0F4bSR;tx7hlPy1TXJERNJR3JS03w=="
 ---
 

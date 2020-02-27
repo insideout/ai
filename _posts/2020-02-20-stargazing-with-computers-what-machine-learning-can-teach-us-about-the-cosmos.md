@@ -81,15 +81,6 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 49
-  - title: "Shaping the future of machine learning for active matter"
-    excerpt: "Now researchers are presenting guidelines for how active matter, such as cells and microorganisms, can best be studied using machine learning techniques. The guidelines can help others navigate the new field, which can significantly improve research in active matter. Now researchers are presenting guidelines for how active matter, such as cells ..."
-    publishedDateTime: 2020-02-27T17:16:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2020/02/200227114454.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
   - title: "Turning Machine Learning into Business Applications"
     excerpt: "Machine Learning is viewed as an essential enabler that will allow applications to act on the collection of new data sets to improve their predictive capabilities. This white paper shows how Talend and AWS are bridging the gap between data scientists and data engineers to operationalize ML."
     publishedDateTime: 2020-02-24T21:58:00Z
@@ -103,6 +94,19 @@ related:
       - url: "https://idge.staticworld.net/nww/nww_logo_300x300.png"
         width: 300
         height: 300
+  - title: "Shaping the future of machine learning for active matter"
+    excerpt: "Now researchers are presenting guidelines for how active matter, such as cells and microorganisms, can best be studied using machine learning techniques. The guidelines can help others navigate the new field, which can significantly improve research in active matter. Machine learning has proven to be very useful for the study of active matter ..."
+    publishedDateTime: 2020-02-27T14:56:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-02/uog-stf022720.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: "https://eurekalert.org/multimedia/pub/web/225481_web.jpg"
+        width: 644
+        height: 710
   - title: "Facebook Faculty Research Award recognizes machine learning advancements at MSU"
     excerpt: "Zhang and Yan have been invited to the Facebook Research AI Systems Faculty Summit in Fall 2020. Read more on the research award winners and finalists honored by Facebook. Thinking beyond the box: MSU a leader in packaging scienceFeb 05, 2020When it comes to finding solutions for a better tomorrow, Spartans have. . . Does a growth mindset ..."
     publishedDateTime: 2020-02-18T21:09:00Z

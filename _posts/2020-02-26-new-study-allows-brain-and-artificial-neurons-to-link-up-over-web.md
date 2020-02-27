@@ -24,6 +24,17 @@ images:
     title: "New study allows Brain and Artificial Neurons to link up over web"
 
 related:
+  - title: "Scientists make artificial and biological neurons communicate over the internet"
+    excerpt: "But scientists in the U.K., Switzerland, Germany, and Italy are here to remind you that it really isn’t. In a recent experiment, the researchers fired up a working neural network that let biological and silicon-based artificial brain cells communicate with one another over an internet connection. At present, it’s still early stages for the ..."
+    publishedDateTime: 2020-02-27T18:13:00Z
+    webUrl: "https://www.digitaltrends.com/cool-tech/neural-network-rat-neurons/"
+    ampWebUrl: "https://www.digitaltrends.com/cool-tech/neural-network-rat-neurons/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/neural-network-rat-neurons/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 50
   - title: "Hybrid neural network enables biological and artificial neurons to communicate over the internet"
     excerpt: "This study has for the first time shown how three key emerging technologies can work together: brain-computer interfaces, artificial neural networks and advanced memory technologies (also known as memristors). The discovery opens the door to further significant developments in neural and artificial intelligence research. Brain functions are ..."
     publishedDateTime: 2020-02-26T00:00:00Z

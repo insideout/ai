@@ -280,6 +280,21 @@ related:
       - url: "https://www.belfasttelegraph.co.uk/news/uk/20e5a/38984986.ece/alternates/w700/bpanews_036c0fc6-e90b-4b02-8fd6-310400dc250d_1"
         width: 700
         height: 435
+  - title: "ICE uses facial recognition technology to scan Maryland driver license photos"
+    excerpt: "Immigration and Customs Enforcement (ICE) has been granted permission to use face recognition technology to scan millions of Maryland driver’s licenses without needing approval from the courts, it has been reported. ICE is mining the database of Maryland drivers to see if the person photographed on the license matches photos of any ..."
+    publishedDateTime: 2020-02-27T18:43:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-8052555/ICE-uses-facial-recognition-technology-scan-Maryland-driver-license-photos.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-8052555/amp/ICE-uses-facial-recognition-technology-scan-Maryland-driver-license-photos.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-8052555/amp/ICE-uses-facial-recognition-technology-scan-Maryland-driver-license-photos.html"
+    type: article
+    provider:
+      name: Mail Online
+      domain: dailymail.co.uk
+    quality: 56
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2020/02/27/18/25284246-0-image-a-34_1582828939946.jpg"
+        width: 636
+        height: 382
   - title: "Portland considering strictest ban on facial recognition technology in the U.S."
     excerpt: "“Please look at camera for entry.” Jacksons’ use of facial recognition technology could soon be outlawed in Portland. City officials are considering the strictest ban of the technology in the country, prohibiting its use not only by government agencies but also private businesses. Facial recognition technology typically uses a camera and ..."
     publishedDateTime: 2020-02-21T15:20:00Z

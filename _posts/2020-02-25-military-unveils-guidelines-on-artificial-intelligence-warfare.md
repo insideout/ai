@@ -8,8 +8,8 @@ ampWebUrl: "https://www.courthousenews.com/military-unveils-guidelines-on-artifi
 cdnAmpWebUrl: "https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/military-unveils-guidelines-on-artificial-intelligence-warfare/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Courthouse News Service
@@ -39,19 +39,6 @@ related:
       - url: "https://i.kinja-img.com/gawker-media/image/upload/c_lfill,w_1200,h_628,q_90/n3ocpw7lykcjzz19cqbs.jpg"
         width: 1200
         height: 628
-  - title: "Papal academy invites tech giants to support ethical guidelines for AI"
-    excerpt: "were invited to attend a Vatican-sponsored event Feb. 28 dedicated to \"human-centric artificial intelligence\" and to sign a joint \"Call for AI Ethics.\" The appeal will ask that particular \"ethical principles be present in AI products that they develop, sell and use,\" Father Paolo Benanti, a papal academy member and Third Order Regular of St ..."
-    publishedDateTime: 2020-02-25T21:41:00Z
-    webUrl: "https://www.americamagazine.org/politics-society/2020/02/25/papal-academy-invites-tech-giants-support-ethical-guidelines-ai"
-    type: article
-    provider:
-      name: America Magazine
-      domain: americamagazine.org
-    quality: 54
-    images:
-      - url: "https://www.americamagazine.org/sites/default/files/styles/article_image_750_x_503_/public/main_image/20200225T0938-34325-CNS-LIFE-ACADEMY-AI_800.jpg.png?itok=dMiW0Wd3"
-        width: 750
-        height: 503
 
 secured: "lVaVmDBIhN2WLdci0BHWCUP8z0hExg49JpJ63r8uonCWt0PQJBWD3HgRXmUnLewApbSmilnv7Kuyktlr49O2XtkAP5DRwGTTZ+9ZobgyQWPTzn19t05MuMp5R4FTkCZ1x3TUtAd795Y8eyNKHgllrV51rODGtz2lLJGj1UKdbhXGWWoRu7KcoZl9rVY/5AoHSlK6muoPw1jPHTjG1h/2PfPUVeNPgBgbAPKvjsdMiCQEyL1Wb+OPl2b7linvJ7QO6Jghq++TV9Kd9lJivzLH0nhSuK8UxBOvzkhuQSLOJOS2OeTcpt7vnIOGKFvY/3FePKRnii4Yv//8DCqJQGQj1WMCE94B6rpp08Z0JicQ1CcwX+rroVTKC+mrMV69SsOUUZAGgKiOfUqNnDyvOX78ZdtDRKao77QaR/mCyfpcbBPztM+X6KIlWdhsY1aPjPa3sB0j4f69JgoW8MVjT+7j2koB51T1dl0Xt/q/qQ3N0tI=;7JmPy7yXyz2gqs8vzRHlpA=="
 ---

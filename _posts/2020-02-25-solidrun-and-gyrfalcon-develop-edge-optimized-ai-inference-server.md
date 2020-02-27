@@ -31,6 +31,19 @@ related:
       - url: "http://share.opsy.st/5e558160983d5-19Rack-Assembly_Ver2_P1-1030x579.png"
         width: 1030
         height: 579
+  - title: "SolidRun, Gyrfalcon Develop Edge Optimized AI Inference Server"
+    excerpt: "Highly scalable and modular, Janux GS31 supports today’s leading neural network frameworks and can be configured with up to 128 Gyrfalcon Lightspeeur SPR2803 AI acceleration chips for unrivaled inference performance for today’s most complex video AI models. Tailor made to meet the future challenges of mass deployment of artificial ..."
+    publishedDateTime: 2020-02-27T19:46:00Z
+    webUrl: "https://www.hpcwire.com/off-the-wire/solidrun-gyrfalcon-develop-edge-optimized-ai-inference-server/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 39
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/02/Solidrun-Janux-GS31.jpg"
+        width: 736
+        height: 310
   - title: "SolidRun and Gyrfalcon Develop First Edge Optimized AI Inference Server That Bests GPU Performance at a Fraction of the Cost and Power"
     excerpt: "/PRNewswire/ -- SolidRun, a leading developer and manufacturer of high-performance edge computing solutions, and ASIC solutions provider Gyrfalcon"
     publishedDateTime: 2020-02-26T18:38:00Z

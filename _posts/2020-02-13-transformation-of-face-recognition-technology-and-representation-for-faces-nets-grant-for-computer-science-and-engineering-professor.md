@@ -25,34 +25,19 @@ images:
     title: "Transformation of face recognition technology and representation for faces nets grant for computer science and engineering professor"
 
 related:
-  - title: "The Self Driving And Sharing Economy: How Regulation May Drive The Transportation Revolution In 2020 And Beyond"
-    excerpt: "Everyone recognizes that these technologies will mold the future, but this final piece—how regulators will interact with these developing technologies—is the critical factor that has the potential to shape the race to market."
-    publishedDateTime: 2020-02-13T01:21:00Z
-    webUrl: "https://www.forbes.com/sites/paulrosen/2020/02/12/the-self-driving-and-sharing-economy-how-regulation-may-drive-the-transportation-revolution-in-2020-and-beyond/"
-    ampWebUrl: "https://www.forbes.com/sites/paulrosen/2020/02/12/the-self-driving-and-sharing-economy-how-regulation-may-drive-the-transportation-revolution-in-2020-and-beyond/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paulrosen/2020/02/12/the-self-driving-and-sharing-economy-how-regulation-may-drive-the-transportation-revolution-in-2020-and-beyond/amp/"
+  - title: "Computer Vision Research Engineer - Deep Learning (London, UK)"
+    excerpt: "The goal of the Data Science team is to develop novel methods for providing static and dynamic information of parking worldwide. We use Computer Vision and Machine Learning/Deep Learning to find parking and predict availability for parking locations in thousands of cities. We are looking for a computer vision and deep learning expert to apply ..."
+    publishedDateTime: 2020-02-20T09:54:00Z
+    webUrl: "https://www.parking-net.com/parking-jobs/parkopedia/computer-vision-research-engineer-deep-learning-london-uk"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 69
+      name: Parking Network
+      domain: parking-net.com
+    quality: 39
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e3074548b6cf300071d30e2%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D960%26cropY1%3D48%26cropY2%3D588"
-        width: 960
-        height: 541
-  - title: "Global Emotion Detection And Recognition (EDR) Market 2020 Growth Analysis, Key Insights, Future Development and Statistical Forecast 2025"
-    excerpt: "Scope of the Report Emotion Detection and Recognition (EDR) is typically identifying human emotion from facial expression or verbal expression. Now, with the help of AI, NLP and ML, the machine is made to understand human emotion through various software and act according to it."
-    publishedDateTime: 2020-02-19T11:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-emotion-detection-and-recognition-edr-market-2020-growth-analysis-key-insights-future-development-and-statistical-forecast-2025-2020-02-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 20
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.parking-net.com/upload/banners/27653/BANR0145-00-EE-ID---IDeaS-Parking-Network-Banner-Ad_323x270_original.gif"
+        width: 323
+        height: 270
 
 secured: "CvKy2hoC4EAy6iR4imEJnmxERA7++o2U7WspSs2CaF64KQaaumzMe9x51XfaiT47NdCHdgz18KRE3gFSRKrBDEvKo79aM4OIJgD3P59jjZyN1YkDR8QTF4Z/25Dbj7zJjkpKqpg0pz8UXUmFbBBOABw/zsKSQbst+y0c0ds/vEded1/IZTZoeoq9FPY2t1Iwdh+gV7A/aAylwDgRg3b/wH71a8ksp90ngeI77BvXXWPE1lulS5qwIH8ESOF1/r6TLbWi1HOvYIjgXhMl4B0tm4YVR5xntDmdMuVfvvNTWCjTErFXkIVlVnrUH7ACQUQ6BWyXqJpjZNyqYnBLRTmmliQuvBesDR1EaVfZQwhaISFm9C5Su5BwGUSflmzWVUA4tE4mG2CRwLQfoVd1jv4c5C9+xGL/rA7ZJBodDZO7/9EPSJGfwVfTaCpVVo4lyG0TwksCnDDwpEeqaYYwOcY+8fwmrtGeU0mfoidnrUyIOoM=;GMaTUS4s+t0/f30x6y1Lsw=="
 ---

@@ -23,6 +23,15 @@ images:
     title: "Artificial intelligence and cancer"
 
 related:
+  - title: "Artificial intelligence in cancer therapy"
+    excerpt: "Artificial intelligence (AI) approaches have the potential to affect several facets of cancer therapy. These include drug discovery and development and how these drugs are clinically validated and ultimately administered at the point of care, among others. Currently, these processes are expensive and time-consuming. Moreover, therapies often ..."
+    publishedDateTime: 2020-02-27T19:41:00Z
+    webUrl: "https://science.sciencemag.org/content/367/6481/982.full"
+    type: article
+    provider:
+      name: Science | AAAS
+      domain: sciencemag.org
+    quality: 36
   - title: "A Turing test for artificial intelligence in cancer"
     excerpt: "The convergence of big data and artificial intelligence is poised to revolutionize cancer research and care ... Download PDF The progressive digitalization of our society, science and technology is transforming cancer research and healthcare. DNA sequencing alone is predicted to surpass other data-intensive fields in terms of amount of ..."
     publishedDateTime: 2020-02-24T21:43:00Z

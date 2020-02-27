@@ -8,7 +8,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20200226/Hybrid-neural-network
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200226/Hybrid-neural-network-enables-biological-and-artificial-neurons-to-communicate-over-the-internet.aspx"
 type: article
 quality: 46
-heat: 46
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,17 @@ images:
     title: "Hybrid neural network enables biological and artificial neurons to communicate over the internet"
 
 related:
+  - title: "Scientists make artificial and biological neurons communicate over the internet"
+    excerpt: "But scientists in the U.K., Switzerland, Germany, and Italy are here to remind you that it really isn’t. In a recent experiment, the researchers fired up a working neural network that let biological and silicon-based artificial brain cells communicate with one another over an internet connection. At present, it’s still early stages for the ..."
+    publishedDateTime: 2020-02-27T18:13:00Z
+    webUrl: "https://www.digitaltrends.com/cool-tech/neural-network-rat-neurons/"
+    ampWebUrl: "https://www.digitaltrends.com/cool-tech/neural-network-rat-neurons/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/neural-network-rat-neurons/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 50
   - title: "A perspective on the study of artificial and biological neural networks"
     excerpt: "In recent years, researchers have been developing advanced computational techniques based on artificial neural networks, which are architectures inspired by biological neural networks in the human brain. Models based on artificial neural networks are trained to optimize millions of synaptic weights over millions of observations in order to make ..."
     publishedDateTime: 2020-02-24T17:51:00Z

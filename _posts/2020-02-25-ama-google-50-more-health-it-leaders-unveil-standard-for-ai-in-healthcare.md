@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-25T22:00:00Z
 webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/ama-google-50-more-health-it-leaders-unveil-standard-for-ai-in-healthcare.html"
 type: article
 quality: 151
-heat: 251
+heat: 261
 published: true
 
 provider:
@@ -121,6 +121,19 @@ related:
       - url: "https://img.washingtonpost.com/wp-apps/imrs.php?src=https%3A%2F%2Fpalomaimages.washingtonpost.com%2Fprod%2FNV-entrancepollssinglepayer_tstmp_1582513280.jpg&w=908"
         width: 908
         height: 346
+  - title: "Industry leaders: Data innovation, cost concerns will shape future of healthcare in Dayton"
+    excerpt: "Innovations in IT, artificial intelligence and data technology are driving ongoing momentum for the region's $8.1 billion healthcare industry, but care providers continue to seek solutions for challenges surrounding workforce development and the growing cost of care."
+    publishedDateTime: 2020-02-27T19:53:00Z
+    webUrl: "https://www.bizjournals.com/dayton/news/2020/02/27/industry-leaders-data-innovation-cost-concerns.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 29
+    images:
+      - url: "https://media.bizj.us/view/img/11616029/future-of-health-care-panel*400xx3024-3024-0-464.jpg"
+        width: 400
+        height: 400
   - title: "Artificial intelligence and healthcare professional education: superhuman resources for health?"
     excerpt: "So it is no surprise that artificial intelligence has also been suggested as a solution to problems in healthcare and healthcare professional education.3 It has even been suggested as a means by which healthcare professional education might be unnecessary. After all, if you have intelligent machines that can do the job of human beings ..."
     publishedDateTime: 2020-02-22T13:09:00Z

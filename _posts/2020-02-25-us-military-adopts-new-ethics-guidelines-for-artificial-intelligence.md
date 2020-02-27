@@ -40,19 +40,6 @@ related:
       - url: "https://i0.wp.com/www.courthousenews.com/wp-content/uploads/2020/02/pentagon.jpg?fit=1024%2C683&ssl=1"
         width: 1024
         height: 683
-  - title: "Papal academy invites tech giants to support ethical guidelines for AI"
-    excerpt: "were invited to attend a Vatican-sponsored event Feb. 28 dedicated to \"human-centric artificial intelligence\" and to sign a joint \"Call for AI Ethics.\" The appeal will ask that particular \"ethical principles be present in AI products that they develop, sell and use,\" Father Paolo Benanti, a papal academy member and Third Order Regular of St ..."
-    publishedDateTime: 2020-02-25T21:41:00Z
-    webUrl: "https://www.americamagazine.org/politics-society/2020/02/25/papal-academy-invites-tech-giants-support-ethical-guidelines-ai"
-    type: article
-    provider:
-      name: America Magazine
-      domain: americamagazine.org
-    quality: 54
-    images:
-      - url: "https://www.americamagazine.org/sites/default/files/styles/article_image_750_x_503_/public/main_image/20200225T0938-34325-CNS-LIFE-ACADEMY-AI_800.jpg.png?itok=dMiW0Wd3"
-        width: 750
-        height: 503
 
 secured: "o2G2yWpNuQdCU194N7nbtcerZYapSkftHsKvvPYTpggAwI2/BLAsVkgt5Mabc+NPKa4tXrdUFefRw27LHGWpeTt0MYLzQ4Z3jToBu7Wrchrt3Cw0lYLy7mxgGqgkg6FQi9PTv/re9iq4RE64ERqj+ajHufWIjs9c/NsnGJft4GTyVV1fFjxXMGbpbhLQlmynwE58HvTfy0ZULfiAueKCJRmqIqSlX8Kct5LvnwIrM61Vrv/IENCkMkWfcfPtKh5vvUPeqzTOIONamN5uTHo2VPc96oJ6pbccLvn1iHpVY768nMyJmPGYaumfV+ysw5CWhE9zia0Y18fW33cduHbraAwOFFIkLPFfGBWuXw+L1/dAoM2obcex2HQBLcaqsKM7KFT1xh5Lp/9ptiPBL59prpdRfgAAwnyo72QWks9FFxrseASJ6kJI4lcswPxa8KcsIqSCMuj6NiVfOikzmQHmjU5YHKIduKhwPTcN7CfGfaM=;QdMi3GhoukWY5EZnf1+g7Q=="
 ---

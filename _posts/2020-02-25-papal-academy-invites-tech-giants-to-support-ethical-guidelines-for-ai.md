@@ -24,34 +24,21 @@ images:
     title: "Papal academy invites tech giants to support ethical guidelines for AI"
 
 related:
-  - title: "Military Unveils Guidelines on Artificial Intelligence Warfare"
-    excerpt: "The project uses algorithms to interpret aerial images of war zones or conflict areas, one of many recent military developments that involve AI. Among the five general principles listed in the new Defense Department ethics guidelines is one that requires AI to be “governable,” meaning the automated technology can be stopped if unintended ..."
-    publishedDateTime: 2020-02-25T23:17:00Z
-    webUrl: "https://www.courthousenews.com/military-unveils-guidelines-on-artificial-intelligence-warfare/"
-    ampWebUrl: "https://www.courthousenews.com/military-unveils-guidelines-on-artificial-intelligence-warfare/amp/"
-    cdnAmpWebUrl: "https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/military-unveils-guidelines-on-artificial-intelligence-warfare/amp/"
+  - title: "IBM and Microsoft sign Vatican pledge for ethical AI"
+    excerpt: "Tech giants promise to develop new technology in way that protects the rights of all people The 'Rome Call for AI Ethics' document calls for artificial intelligence to safeguard the rights of all humankind and for new regulations in fields such as facial recognition IBM and Microsoft have signed an “ethical resolution” with the Vatican to ..."
+    publishedDateTime: 2020-02-27T18:49:00Z
+    webUrl: "https://www.ft.com/content/5dc6edcc-5981-11ea-a528-dd0f971febbc"
+    ampWebUrl: "https://amp.ft.com/content/5dc6edcc-5981-11ea-a528-dd0f971febbc"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/5dc6edcc-5981-11ea-a528-dd0f971febbc"
     type: article
     provider:
-      name: Courthouse News Service
-      domain: courthousenews.com
-    quality: 59
+      name: The Financial Times
+      domain: ft.com
+    quality: 74
     images:
-      - url: "https://i0.wp.com/www.courthousenews.com/wp-content/uploads/2020/02/pentagon.jpg?fit=1024%2C683&ssl=1"
-        width: 1024
-        height: 683
-  - title: "U.S. Military Adopts New Ethics Guidelines For Artificial Intelligence"
-    excerpt: "(Photo: U.S. Navy/DVIDS) The U.S. military has adopted new ethics guidelines for the use of artificial intelligence in its futuristic robot tanks and smart weapons systems, according to a new press release by the U.S. Department of Defence. And at least one outside expert is actually impressed with the result, provided the Pentagon adheres to ..."
-    publishedDateTime: 2020-02-25T18:10:00Z
-    webUrl: "https://www.gizmodo.com.au/2020/02/us-military-adopts-new-ethics-guidelines-for-artificial-intelligence/"
-    type: article
-    provider:
-      name: Gizmodo Australia
-      domain: gizmodo.com.au
-    quality: 56
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_lfill,w_1200,h_628,q_90/n3ocpw7lykcjzz19cqbs.jpg"
-        width: 1200
-        height: 628
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F41f09a98-5964-11ea-a528-dd0f971febbc?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
 
 secured: "3YG4J1HQxpshWGEgRdwDAwPXiKXWFO3RsCtgpvvxcW6gomZuBur4DoJ3wK/CYoHeWlGIfAv09k8pQ3jcMLgfrwH0tE92bK3qjgkdWnPllRR/0UYi+jDe80JPf9YZvvzg+Tt1WulwpsmWSbQk2iMDVbo/AOoIIWphzTkGhN4FiB0SOxKC6V3zVaJwhK7BVBz4rFiSeepoV7GU7rhwcdTI1unIAgDa03yyWz6LZ5UFRDxbYeNVvzq19AfJPcOo0QRdMRTe2O7DRfl4JZIW++fg0OndBbiyXOefonjihldKYDMpWMg5rYnLXfgNsQVeb5FUAlIGXbG8284EwD4SCmsiLyM73OAj9zWn0umhZKUnHMyn1Kc50swD2oKUo2nx/gHuUq6P53AFVTAss4N3CR6YCVthHrGQPqo+n0zZFXZZZUZYmNgyX7a+QKaBAm1vAT8FAReIoBXoW3WxfaVF0hnEe3iufdq2RPm6cRhyGvbxUc8=;KbEQHIzCcUk9+WAu3b+T+Q=="
 ---

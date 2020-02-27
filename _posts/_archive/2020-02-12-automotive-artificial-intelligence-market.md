@@ -28,6 +28,6 @@ related:
       domain: openpr.com
     quality: 19
 
-secured: "ovH85StQyIk8lWVkmESIKNlLQTr8cUidvOgeplddBSa9bLlSa/OD8Ka7dc/j67iqZV6lg1PTBnqiSuCL7mPeok/IddpLasD4//Qsu4A8ti8LqWOpkJZNOWkYl++8X8Y5yTi8wxJJtD0HWtbcdxit6G6vnHkZAVg4WgWrD/6fNxrB7ZIVguD5QtrDxgzMGrGX7WN2s3TqPDk1Nhd4Slib2bInf1IKG4e+9oDxDyHhIioQYq6MLJZzM3QfETj37LRJitmWrEURggBD4iuVxr3Ev7ooR0IikuOp2wCEvCfc64XCZWnU2Cytpp2+PF7t70tw;lhEPkA/ufv5StoJgYs6OcQ=="
+secured: "lsQP99SAmfJrPoBEHIhllZzNbzDxzL+TLUd8NWWIz3/PDVC2RaQOkTu0Lw1+SF5lSJo8/JHxveMpPyV5a1D4xZLMjFq0ru0qdgux9mv19jQKzehzD2puekTw3OhU2sda/6Ynw6QCTWJzH8YYsqTq/Mzbtncgjh4YDidBgxkZtfU0SF6PVTJQEbRC+zpaIUmFaZCWSSM1nPvLxVrezMb8nfOn8rGn/3RIv/P8VlOQ800k+XIWS3+JX2XfDPyrc44P+eAjaKZr/G2mVxyELZvEckppueWsKN9t+ch+g3cW2INW1ruVvWibe0QuUSn2IHk7;LTMTD9N9uYNSmhp7ITmyIw=="
 ---
 

@@ -281,6 +281,21 @@ related:
       - url: "https://www.belfasttelegraph.co.uk/news/uk/20e5a/38984986.ece/alternates/w700/bpanews_036c0fc6-e90b-4b02-8fd6-310400dc250d_1"
         width: 700
         height: 435
+  - title: "ICE uses facial recognition technology to scan Maryland driver license photos"
+    excerpt: "Immigration and Customs Enforcement (ICE) has been granted permission to use face recognition technology to scan millions of Maryland driver’s licenses without needing approval from the courts, it has been reported. ICE is mining the database of Maryland drivers to see if the person photographed on the license matches photos of any ..."
+    publishedDateTime: 2020-02-27T18:43:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-8052555/ICE-uses-facial-recognition-technology-scan-Maryland-driver-license-photos.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-8052555/amp/ICE-uses-facial-recognition-technology-scan-Maryland-driver-license-photos.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-8052555/amp/ICE-uses-facial-recognition-technology-scan-Maryland-driver-license-photos.html"
+    type: article
+    provider:
+      name: Mail Online
+      domain: dailymail.co.uk
+    quality: 56
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2020/02/27/18/25284246-0-image-a-34_1582828939946.jpg"
+        width: 636
+        height: 382
   - title: "Springfield Mayor Domenic Sarno, City Council agree to ban facial recognition technology -- for now"
     excerpt: "SPRINGFIELD — Mayor Domenic J. Sarno said Tuesday that he has agreed to ban police from using facial recognition technology for now, under a policy approved Monday night by the City Council. Sarno had threatened to veto the ban, but both he and councilors said they reached a compromise before Monday’s meeting. The council voted to ban the ..."
     publishedDateTime: 2020-02-25T18:08:00Z
