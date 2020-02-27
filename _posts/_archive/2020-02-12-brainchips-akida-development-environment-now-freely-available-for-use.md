@@ -5,8 +5,8 @@ excerpt: "The platform leverages TensorFlow and Keras for neural network develop
 publishedDateTime: 2020-02-12T17:37:00Z
 webUrl: "https://www.hpcwire.com/off-the-wire/brainchips-akida-development-environment-now-freely-available-for-use/"
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: 19
 published: false
 
 provider:
@@ -17,12 +17,6 @@ topics:
   - AI
   - Google AI
 
-images:
-  - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2018/02/HPCwire-logo-square.png"
-    width: 440
-    height: 440
-    title: "BrainChip’s Akida Development Environment Now Freely Available for Use"
-
-secured: "/dC0EV1FaoO/eEgvX79sWzmaLbl9wqGJPPrX/WjRy+r0pgvm3ww3zn8ZPilbT1TYetjyxDWkOBXAFzpAyqz2xvtBGoqvQmthvk++ydv4FAkWrltt1Uoyp4kfezYvXyFogvrttMhhye6spZZaGKiSPB8f9DdOFflhgIi9RN0NgpScfHb1xXmiQ5aN0duuNZTI+h6JKjd3R0/Rs74m/2BCu0e730f5jwswawTEplYoRRfoUpywnpyMtSdryuSBL80H+aOl0+qekFr1gaHkpaKRNlTOHzSh+wANEWvvDtwQarr1lv122QyizRjHvXP5H1NH;Ma9aWSD0idozlChGVtME6w=="
+secured: "fWwAr2fASFdYBo1vQu5+2luVlKQYwo3/6RIkJoylbnOgsjUURmNrLUv5vz24DTiZFfPGpLP+5u05MZy+a2EwRUkzqirUH681O1WyPpk9xCMzGlvRcWAD2IYa8erjpXKdG038ihFlC4oqDs9zft615yfW83q0ROPsUlO/IyCe/UAiwP5YfAioBlv6xKCTGDbhdPN0pmNKSfCXKnlQFU9UVpzSyzSgxO91cYjtNklWWhN4oMBvpTdueI86yOTNMh4EpPXTszMmtMy2oxvBogJtqpCaEKVjw9Cx69m4HepSbm6XPbiKT4Rf7xLciU51iHBn;p+LKW8Vq8kXCp2cWQakEbQ=="
 ---
 

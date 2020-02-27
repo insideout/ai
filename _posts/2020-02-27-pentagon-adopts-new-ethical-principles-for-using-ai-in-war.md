@@ -67,6 +67,19 @@ related:
       - url: "https://cdni.rt.com/files/2020.02/xxl/5e54392385f5404ca641795c.jpg"
         width: 1240
         height: 697
+  - title: "Pentagon Confirms Alka Patel to Lead the Implementation of Its New Ethical AI Principles"
+    excerpt: "For seven months prior to that, from July 2019 through to 2020, Patel worked as a research intern at the Montreal AI Ethics Institute. She also previously served as Commissioner of the Pennsylvania Governor’s Advisory Commission on Asian Pacific American Affairs and Executive Director of Carnegie Mellon University’s Risk & Regulatory ..."
+    publishedDateTime: 2020-02-27T20:32:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2020/02/pentagon-confirms-alka-patel-lead-implementation-its-new-ethical-ai-principles/163386/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 45
+    images:
+      - url: "https://cdn.nextgov.com/media/img/upload/2020/02/27/shutterstock_1475534549/open-graph.jpg"
+        width: 400
+        height: 400
 
 secured: "d8vy9t/OWIxCvI8P6C05w9G6AbUMQaPGFjxCgp5v6CqSulNjWe5ueAfmXrWAEzQ+jRsJZCUAjdlizY7yJC5XDi3iaHB2d8vO68gE/5Se0bux2BUfCJU6JJdvKgXmG40FakdtUZMP5Xz1PtNyEKk63ULJRCpELo/Zs2soczp1kYOHh+na6SYalRHSMSvaZT/wmPr+hSPQmSge2B2eIuwS5t9b3rSxvUXn/fqxQZDsaJrFNiinmMKgCrCHLnjJSUvTYCVn0HNoMCC7f6Wwgf5YyuVfeP5NEdngPmVss3UTDHd3DNFndQQ4tiV22tp6WdeBSNAdnlmPIYmLL327YSbD13x0TWt7sNaBVq5vsPU/T4pp+MTeyRJlyDSmXOXqzxiQBg4/KMfMyaTANIbAXsCZPpqLKk8pKrXHnZLxbF/7xwTO6UEETfoq8TY03ntxI7WBpUIidrDh3umPSKjPK52eD9oA2elfi4+q2EDilXsY+Ww=;oou8HGEpHUd892DUK2l/mw=="
 ---

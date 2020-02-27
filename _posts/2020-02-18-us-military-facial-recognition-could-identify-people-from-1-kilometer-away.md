@@ -84,6 +84,17 @@ related:
       - url: "https://sm.mashable.com/t/mashable_sea/news/d/departing-/departing-the-us-from-an-airport-your-face-will-be-scanned_h5jp.620.jpg"
         width: 620
         height: 357
+  - title: "U.S. military facial recognition could identify people from 1 km away"
+    excerpt: "Thanks to recent advances in machine learning, facial-recognition technology can pick faces out of a crowd with impressive accuracy. But just how far away from their subjects can cutting-edge facial-recognition systems work? According to a new report, a whole lot further than you probably think. So far, in fact, that the person identified may ..."
+    publishedDateTime: 2020-02-18T19:59:00Z
+    webUrl: "https://www.digitaltrends.com/cool-tech/military-facial-recognition-tech-kilometer/"
+    ampWebUrl: "https://www.digitaltrends.com/cool-tech/military-facial-recognition-tech-kilometer/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/military-facial-recognition-tech-kilometer/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 69
   - title: "Canada Is Next Among The Countries Using Facial Recognition In Public Places"
     excerpt: "The world has been opening up to the idea of using facial recognition to prevent crimes all across industries. While the idea seems quite effective and harmless people have already been speaking about the possible dangers of using this technology on such a large scale and how it could actually negatively affect the lives of many people."
     publishedDateTime: 2020-02-24T14:18:00Z

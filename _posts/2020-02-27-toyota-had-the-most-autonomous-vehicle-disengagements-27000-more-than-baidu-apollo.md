@@ -7,8 +7,8 @@ webUrl: "https://www.cnet.com/roadshow/news/2019-california-self-driving-disenga
 ampWebUrl: "https://www.cnet.com/google-amp/news/2019-california-self-driving-disengagement-report-baidu-waymo-cruise/"
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/2019-california-self-driving-disengagement-report-baidu-waymo-cruise/"
 type: article
-quality: 82
-heat: 102
+quality: 182
+heat: 202
 published: true
 
 provider:
@@ -61,6 +61,6 @@ related:
         width: 660
         height: 333
 
-secured: "OtFHfmp1umf4UkQ504/OUB3FXLtw8XAGs23Fvi8YNC2MNJ2Lbk/HyOtvLMRqSmereOgTvlxif+GWvmyNARfTvKdTueRHz7nv6SfJIiR+2RCbQ+TZbqWpn3ioklF3XnMOkvPVZcPXss2ql6iBOGRzYKFR6jKeQJQlNnmPTOLaqzFi53hH/WwFXDc4wofViG7YSt+P5Nz/KaIwL3j1w9CiaYs6Tpi4jRiS2DXNu0GEp8Jem2SF39l4qAntAE+lIWcGriNA8RLIc8qv0GnbPDHjxxgG9rKoqPPoxeKSrJh2sIERaXiT304j0jMdZu0DeJyWGErThMvFCj5ia+EUgI/4flg3br+79n74KQ00Z0/LcBWZc+cfYC85ADvdb3nZBAovcYEBI0rrxHH+JtllCxwHiCcntIIeJy6NNAU4WvBRsdPI1JuO8Wh4UEYmwA8x1ZW+acR410VG4ykrqGw0hEZB4brH1Pbb1+KgRoKkzvIb0K4=;kK9PnNpU44PsJ+c7tC0i+Q=="
+secured: "/AsyMcOTEuSdyeM4oC+0oOKEpbITFc2aOntRl30WHhckxKxnyssmjtorr/weIdo/flhcbKRjPfHjFlnTlNqZLwuyKQ2MMtywtlvOoLXHnmqHmenpQhlfuv8216uUJSkMdNj0sokdNXgUSaczIrzsLHjhvaTH048lrkb0FUdEKEdLH8CtO0hOKDMyQkLUZWp3XutOzIZ8YL+0TmaCr994JcNJbwdnr+8Gf8H4tjtQjzibqmPkWSZ8+sMeZJcTpLAkYZzPRpRF1AlX/twohK13Tx0xCxNyAXTW9Yi/COPCUleiDnKo7r/pKw2u4pCx1/jjmERQTx6aeNZdEL4gsNbhXY5KOQVa+/A0vVA0IAj+//fLagnsTJr93k7ySVXKOORG4h+wUK658ViXm/JYa4GaAp8O0OiriEvP5RBHP+RKEa0nbIBWjj62XTsPbSWjOl4IUGy4Au+IhrL75yrt5qpUDB+KPvMjAv78fcJLxo9OQFJuNOPSIWfWVEI7wBTJusi9;1R48uPsCBh3uEEjRFt/TMA=="
 ---
 

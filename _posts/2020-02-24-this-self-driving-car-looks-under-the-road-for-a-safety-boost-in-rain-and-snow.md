@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/this-self-driving-car-syste
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-self-driving-car-system-looks-under-the-road-for-a-safety-boost-in-rain-and-snow/"
 type: article
 quality: 85
-heat: 185
+heat: 195
 published: true
 
 provider:
@@ -168,6 +168,15 @@ related:
       - url: "https://media.kgw.com/assets/KGW/images/0543c9e3-1e11-4cd0-b801-1fc1a9a8f0ec/0543c9e3-1e11-4cd0-b801-1fc1a9a8f0ec_1140x641.png"
         width: 1140
         height: 641
+  - title: "Can Self-Driving Cars Share the Roads With You?"
+    excerpt: "Are American roads ready for a future with automated shared vehicles, e-scooters, and new forms of public transit? Consumer Reports hosted a panel discussion at the Washington D.C. Auto Show to talk about needed change in American infrastructure."
+    publishedDateTime: 2020-02-27T20:26:00Z
+    webUrl: "https://www.consumerreports.org/video/view/cars/news/6136584473001/can-self-driving-cars-share-the-roads-with-you/"
+    type: article
+    provider:
+      name: Consumer Reports
+      domain: consumerreports.org
+    quality: 4
 
 secured: "OhooqQpUa+WeLT917sniiHa30U2+dGfokPO9QJim6kJZV6b80QWOSpCYZxWw3uUBRgyakbH7aSzrb9YgcEpfapGMSJSNc6XUOsA0AxrNinqyPLTrVrXFGp/KyllfA8p7SE5hilGx56GUW/WRn7At+qJXSC24UD3flSVjGe5Ygy1IewwcUdvxtTOY604tvECJh3aA5Koy9uIX2ZOBJs5XiFk1NgvczVxeNqtYs+xcU/PawKKFbjbfOs1+FZRcJE67U0MYGidVadiEAY/dF84VaDJ0h/UR4UAswREVu8QlK24K3UjYYo8fZBkKp3K2AfNg/n9bng/MCP4YBpU4zfPBUpJUvCZiSwQXTRMSZ2yH0Pi1KfoJI+T3D+YQCu6+mhpXGAlyMmxvAeJMHDAlXtvxkiWo8xhT/2TUZQEEq3kVobunnDKh5v0MZk3EU20k/dSEl44tx6gmQ2nbYd6xiGD5sxoXInbNWOCwZQ/IVNAHc7g=;wftpcfxxW1XeA3cpEZO5TA=="
 ---

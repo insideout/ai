@@ -24,368 +24,239 @@ images:
     title: "Facial Recognition Surveillance Technology Should Be Suspended in the U.S. Says Coalition of 40 Privacy and Free Speech Groups"
 
 related:
-  - title: "Facial recognition could be temporarily banned for law enforcement use"
-    excerpt: "Senators have introduced a bill that would prohibit the technology for police use until guidelines and limitations are set. Law enforcement agencies could be temporarily banned from using facial recognition after Sens."
-    publishedDateTime: 2020-02-13T03:13:00Z
-    webUrl: "https://www.cnet.com/news/facial-recognition-could-be-temporarily-banned-for-law-enforcement-use/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/facial-recognition-could-be-temporarily-banned-for-law-enforcement-use/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facial-recognition-could-be-temporarily-banned-for-law-enforcement-use/"
+  - title: "Facial recognition company Clearview AI probed by Canada privacy agencies"
+    excerpt: "Canadian privacy authorities have launched an investigation into New York-based Clearview AI to determine whether the firm’s use of facial recognition technology complies with the country’s privacy laws,"
+    publishedDateTime: 2020-02-21T18:32:00Z
+    webUrl: "https://www.reuters.com/article/us-clearview-ai-canada-idUSKBN20F2I3"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN20F2I3"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN20F2I3"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 189
+      name: Reuters
+      domain: reuters.com
+    quality: 103
     images:
-      - url: "https://cnet4.cbsistatic.com/img/JsUigaPqhHEO0XUYO41ZqO-Z-vo=/756x567/2020/01/18/2bde6ea9-4f91-4473-a8fb-1418d9ac5c7d/facial-recognition-james-martin-promo-1.jpg"
-        width: 756
-        height: 567
-  - title: "Clearview AI facial recognition company faces another lawsuit"
-    excerpt: "The technology is \"Orwellian,\" a new class action alleges. Clearview AI, a controversial facial recognition app being used by US law enforcement to identify suspects and other people, is facing another lawsuit."
-    publishedDateTime: 2020-02-14T00:27:00Z
-    webUrl: "https://www.cnet.com/news/clearview-ai-facial-recognition-company-faces-another-lawsuit/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/clearview-ai-facial-recognition-company-faces-another-lawsuit/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/clearview-ai-facial-recognition-company-faces-another-lawsuit/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 104
-    images:
-      - url: "https://cnet1.cbsistatic.com/img/T7vHUXN92GZ-p8NS6dA-Ll1wLrQ=/756x567/2020/02/14/93a842af-7754-4d73-baf3-c2fd2af66118/facial-recognition-getty.jpg"
-        width: 756
-        height: 567
-  - title: "Senate bill would place a moratorium on feds using facial recognition"
-    excerpt: "First, a 13 member commission would try to establish some guidelines on its use. Facial recognition is being used by more agencies than ever, even as its accuracy and impact remain unclear. Several local governments have already taken steps to stop law enforcement from using it in various ways, and a bill introduced by two US senators seeks to ..."
-    publishedDateTime: 2020-02-13T07:50:00Z
-    webUrl: "https://www.engadget.com/2020/02/13/ethical-use-of-ai-act-facial-recognition/"
-    ampWebUrl: "https://www.engadget.com/amp/2020/02/13/ethical-use-of-ai-act-facial-recognition/"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/13/ethical-use-of-ai-act-facial-recognition/"
+      - url: "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png"
+        width: 1200
+        height: 630
+  - title: "Facial recognition startup Clearview AI says its full client list was stolen"
+    excerpt: "Most of the company's customers are law enforcement agencies. You might expect a high-profile (and controversial) facial recognition startup like Clearview AI would have its data locked down, but it turns out it's just as vulnerable as almost any other company to malicious individuals. In a notification obtained by The Daily Beast, the company ..."
+    publishedDateTime: 2020-02-26T20:45:00Z
+    webUrl: "https://www.engadget.com/2020/02/26/clearview-ai-client-list-exposure/"
+    ampWebUrl: "https://www.engadget.com/amp/2020/02/26/clearview-ai-client-list-exposure/"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/26/clearview-ai-client-list-exposure/"
     type: article
     provider:
       name: Engadget
       domain: engadget.com
-    quality: 89
+    quality: 101
     images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D3750%252C2199%252C0%252C87%26quality%3D85%26format%3Djpg%26resize%3D1600%252C938%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-02%252F13cdbc50-4e28-11ea-af76-05ffda135652%26client%3Da1acac3e1b3290917d92%26signature%3D0481885756e5df58466c02a0c4b77093553bc031&client=amp-blogside-v2&signature=f8f6c4395bba8a560c86317e4de100dad55191c3"
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-02%252Fbe661900-58d2-11ea-a7be-f35353dadc7d%26client%3Da1acac3e1b3290917d92%26signature%3De8442a5ba6d800bf23f2af01238efff47f2da2a9&client=amp-blogside-v2&signature=0b578e5a72b9b247df1c85c755266db45c5d71ee"
         width: 600
         height: 350
-  - title: "US senators propose facial recognition ban (but not for police)"
-    excerpt: "US senators have introduced a bill that would temporarily restrict the use of facial recognition technology — but their proposals fall short of a total ban. The Ethical Use of Artificial Intelligence Act would place a moratorium on federal government use of facial recognition technology (FRT) until Congress passes legislation regulating ..."
-    publishedDateTime: 2020-02-13T13:41:00Z
-    webUrl: "https://thenextweb.com/neural/2020/02/13/us-senators-propose-facial-recognition-ban-but-not-for-police/"
-    ampWebUrl: "https://thenextweb.com/neural/2020/02/13/us-senators-propose-facial-recognition-ban-but-not-for-police/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/13/us-senators-propose-facial-recognition-ban-but-not-for-police/amp/"
+  - title: "Canadian Privacy Commissioners to Investigate Creepy Facial Recognition Firm Clearview AI"
+    excerpt: "Canadian authorities are investigating shady face recognition company Clearview AI on the grounds that its scraping of billions of photos from the web might violate privacy laws, Reuters reported on Friday. According to Reuters, privacy commissioners from the Canadian federal government and of the provinces of British Columbia, Alberta ..."
+    publishedDateTime: 2020-02-21T23:37:00Z
+    webUrl: "https://gizmodo.com/canadian-privacy-commissioners-to-investigate-creepy-fa-1841841033"
+    ampWebUrl: "https://gizmodo.com/canadian-privacy-commissioners-to-investigate-creepy-fa-1841841033/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/canadian-privacy-commissioners-to-investigate-creepy-fa-1841841033/amp"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 89
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 95
     images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/Untitled-design-10-796x417.png"
-        width: 796
-        height: 417
-  - title: "UCLA backtracks on plan for campus facial recognition tech"
-    excerpt: "After expressing interest in processing campus security camera footage with facial recognition software, UCLA is backing down. In a letter to Evan Greer of Fight for the Future, a digital privacy advocacy group, UCLA Administrative Vice Chancellor Michael Beck announced the institution would abandon its plans in the face of a backlash from its ..."
-    publishedDateTime: 2020-02-20T02:03:00Z
-    webUrl: "https://techcrunch.com/2020/02/19/ucla-facial-recognition-tech/"
-    ampWebUrl: "https://techcrunch.com/2020/02/19/ucla-facial-recognition-tech/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/19/ucla-facial-recognition-tech/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/01/GettyImages-979036606.jpg?w=1024"
-        width: 1024
-        height: 682
-  - title: "EU offers strategy for artificial intelligence, facial recognition"
-    excerpt: "A European Union strategy, announced Wednesday, calls for regulations for artificial intelligence and facial recognition."
-    publishedDateTime: 2020-02-19T21:21:00Z
-    webUrl: "https://www.upi.com/Top_News/World-News/2020/02/19/EU-offers-strategy-for-artificial-intelligence-facial-recognition/7841582142531/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/World-News/2020/02/19/EU-offers-strategy-for-artificial-intelligence-facial-recognition/7841582142531/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2020/02/19/EU-offers-strategy-for-artificial-intelligence-facial-recognition/7841582142531/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 74
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/7841582142531/2020/1/b42e564a4b21536345f01e2c67ae7a13/v1.5/EU-offers-strategy-for-artificial-intelligence-facial-recognition.jpg"
-        width: 800
-        height: 532
-  - title: "U.S. military facial recognition could identify people from 1 km away"
-    excerpt: "Thanks to recent advances in machine learning, facial-recognition technology can pick faces out of a crowd with impressive accuracy. But just how far away from their subjects can cutting-edge facial-recognition systems work? According to a new report, a whole lot further than you probably think. So far, in fact, that the person identified may ..."
-    publishedDateTime: 2020-02-18T19:59:00Z
-    webUrl: "https://www.digitaltrends.com/cool-tech/military-facial-recognition-tech-kilometer/"
-    ampWebUrl: "https://www.digitaltrends.com/cool-tech/military-facial-recognition-tech-kilometer/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/military-facial-recognition-tech-kilometer/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 69
-  - title: "This Senate Bill Would Ban Federal Use of Facial Recognition"
-    excerpt: "On Wednesday, Senators Jeff Merkley (D-OR) and Cory Booker (D-NJ) introduced legislation to place a moratorium on the use of facial recognition by the federal government or with federal funds—unless Congress passed regulations for the technology. The Ethical Use of Facial Recognition Act aims to create a 13 member congressional commission ..."
-    publishedDateTime: 2020-02-19T15:16:00Z
-    webUrl: "https://www.vice.com/en_us/article/5dm54a/this-senate-bill-would-ban-federal-use-of-facial-recognition"
-    type: article
-    provider:
-      name: VICE
-      domain: vice.com
-    quality: 69
-    images:
-      - url: "https://video-images.vice.com/test-uploads/articles/5e4d4c93a6907900980bae0b/lede/1582125274461-GettyImages-51478189.jpeg?crop=1xw:0.84375xh;center,center&resize=1200:*"
-        width: 1200
-        height: 674
-  - title: "Raleigh, N.C., Police Halt Use of Facial Recognition Tech"
-    excerpt: "Raleigh PD has stopped using a facial recognition app to identify potential criminals through the Internet, cutting ties with a company that has drawn widespread privacy concerns from the community. (TNS) — Raleigh police have stopped using a facial recognition app to identify potential criminals through the Internet, cutting ties with a ..."
-    publishedDateTime: 2020-02-13T18:39:00Z
-    webUrl: "https://www.govtech.com/security/Raleigh-NC-Police-Halt-Use-of-Facial-Recognition-Tech.html"
-    ampWebUrl: "https://www.govtech.com/security/Raleigh-NC-Police-Halt-Use-of-Facial-Recognition-Tech.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/security/Raleigh-NC-Police-Halt-Use-of-Facial-Recognition-Tech.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://media2.govtech.com/images/facial+(2)1.jpg"
-        width: 770
-        height: 535
-  - title: "‘No justifiable basis’ for police facial recognition, say MSPs"
-    excerpt: "UK – Members of the Scottish Parliament have said that there is ‘no justifiable basis’ for Police Scotland to use live facial recognition (LFR) technology, citing concerns over privacy, human rights and data protection. The review from the justice sub-committee on policing concluded that technology currently available to the police ..."
-    publishedDateTime: 2020-02-17T14:15:00Z
-    webUrl: "https://www.research-live.com/article/news/no-justifiable-basis-for-police-facial-recognition-say-msps/id/5065352"
-    ampWebUrl: "https://www.research-live.com/amp-page.html?id=5065352&name=no-justifiable-basis-for-police-facial-recognition-say-msps"
-    cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5065352&name=no-justifiable-basis-for-police-facial-recognition-say-msps"
-    type: article
-    provider:
-      name: research
-      domain: research-live.com
-    quality: 59
-    images:
-      - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
-        width: 1000
-        height: 581
-  - title: "Criticism as Modi govt uses facial recognition tech during CAA-NRC protests"
-    excerpt: "a hoodie or a scarf to reduce the risk of being identified by police facial recognition software. Police in the Indian capital and the northern state of Uttar Pradesh – both hotbeds of dissent – have used the technology during protests that have raged since mid-December against a new citizenship law that critics say marginalises Muslims."
-    publishedDateTime: 2020-02-17T15:35:00Z
-    webUrl: "https://arynews.tv/en/facial-recognition-caa-protest/"
-    ampWebUrl: "https://arynews.tv/en/facial-recognition-caa-protest/amp/"
-    cdnAmpWebUrl: "https://arynews-tv.cdn.ampproject.org/c/s/arynews.tv/en/facial-recognition-caa-protest/amp/"
-    type: article
-    provider:
-      name: ARY News Live
-      domain: arynews.tv
-    quality: 57
-    images:
-      - url: "https://arynews.tv/wp-content/uploads/2019/12/Musilms-in-India-protests-2.jpg"
-        width: 750
-        height: 369
-  - title: "Indian government to add facial recognition, iris scan for digital payments"
-    excerpt: "In addition to requiring a password to sign in, the payment apps may also be mandated to add an additional layer of security in the form of facial recognition, Iris scan and checking the location to ensure security of digital payments. While facial recognition is easy, it will not be easy to implement iris scan on smartphones. While Samsung ..."
-    publishedDateTime: 2020-02-17T12:55:00Z
-    webUrl: "https://www.businessinsider.in/tech/news/indian-government-to-add-facial-recognition-iris-scan-for-digital-payments/articleshow/74176902.cms"
-    ampWebUrl: "https://www.businessinsider.in/tech/news/indian-government-to-add-facial-recognition-iris-scan-for-digital-payments/amp_articleshow/74176902.cms"
-    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/indian-government-to-add-facial-recognition-iris-scan-for-digital-payments/amp_articleshow/74176902.cms"
-    type: article
-    provider:
-      name: Business Insider India
-      domain: businessinsider.in
-    quality: 57
-    images:
-      - url: "https://www.businessinsider.in/thumb/msid-74176964,height-275,width-412,imgsize-146190/tech/news/indian-government-to-add-facial-recognition-iris-scan-for-digital-payments/digital-payments.jpg"
-        width: 412
-        height: 275
-  - title: "Senators introduce facial recognition bill proposing moratorium on government use"
-    excerpt: "Two Democratic senators introduced a bill on Wednesday that would place a moratorium on the use of facial recognition technology by the federal government. Sen. Jeff Merkley (D-Ore.) and Sen. Cory Booker (D-N.J.) introduced the Ethical Use of Facial Recognition Act. Besides placing a moratorium on the federal government’s use of the ..."
-    publishedDateTime: 2020-02-13T14:44:00Z
-    webUrl: "https://www.dailydot.com/layer8/facial-recognition-moratorium-bill-merkley-booker/"
-    ampWebUrl: "https://www.dailydot.com/layer8/facial-recognition-moratorium-bill-merkley-booker/?amp"
-    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/layer8/facial-recognition-moratorium-bill-merkley-booker/?amp"
-    type: article
-    provider:
-      name: The Daily Dot
-      domain: dailydot.com
-    quality: 54
-    images:
-      - url: "https://www.dailydot.com/wp-content/uploads/2020/02/Facial-Recognition-Bill-Congress-Merkley-Booker-1024x512.jpg"
-        width: 1024
-        height: 512
-  - title: "Senate bill would put a moratorium on federal facial recognition use"
-    excerpt: "A new bill introduced in the Senate would put a moratorium on the use of facial recognition by federal agencies, at least until Congress can figure out how to regulate the technology. The Ethical Use of Facial Recognition Act is a partnership between Sens. Cory Booker, D-N.J., and Jeff Merkley, D-Ore., that would also create a congressional ..."
-    publishedDateTime: 2020-02-14T20:53:00Z
-    webUrl: "https://www.fedscoop.com/facial-recognition-federal-moratorium-bill/"
-    type: article
-    provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 39
-    images:
-      - url: "https://www.fedscoop.com/wp-content/uploads/2020/02/GettyImages-1167845607.jpg"
-        width: 2309
-        height: 1299
-  - title: "Use of facial recognition tech during protests causes stir"
-    excerpt: "a hoodie or a scarf to reduce the risk of being identified by police facial recognition software. The police in the national capital and the northern State of Uttar Pradesh - both hotbeds of dissent - have used the technology during protests that have raged since mid-December against the amended citizenship law that critics say marginalises ..."
-    publishedDateTime: 2020-02-17T21:34:00Z
-    webUrl: "https://www.thehansindia.com/hans/opinion/news-analysis/use-of-facial-recognition-tech-during-protests-causes-stir-605819"
-    ampWebUrl: "https://www.thehansindia.com/amp/hans/opinion/news-analysis/use-of-facial-recognition-tech-during-protests-causes-stir-605819"
-    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/hans/opinion/news-analysis/use-of-facial-recognition-tech-during-protests-causes-stir-605819"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 39
-  - title: "NAB stops work on facial recognition ATMs"
-    excerpt: "NAB has stopped work building facial recognition-enabled ATMs despite technology trials that were initially deemed successful enough to try for a more production-ready machine. The bank showed off a proof-of-concept ATM with facial recognition at the Sibos financial conference in Sydney in late October 2018. It coincided with the bank signing ..."
-    publishedDateTime: 2020-02-18T20:00:00Z
-    webUrl: "https://www.itnews.com.au/news/nab-stops-work-on-facial-recognition-atms-538197"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 39
-    images:
-      - url: "https://i.nextmedia.com.au/News/20200218065827_NAB-ATM-3.jpg"
-        width: 848
-        height: 500
-  - title: "Will banks get caught up in facial recognition backlash?"
-    excerpt: "As consumer advocates, state authorities and national lawmakers line up in protest against facial-recognition technology, banks using it to let customers log in to mobile banking may need to brace for a fight. Last week, 40 consumer advocacy groups — including the American Civil Liberties Union, the Electronic Privacy Information Center and ..."
-    publishedDateTime: 2020-02-18T20:55:00Z
-    webUrl: "https://www.americanbanker.com/news/will-banks-get-caught-up-in-facial-recognition-backlash"
-    type: article
-    provider:
-      name: American Banker
-      domain: americanbanker.com
-    quality: 39
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/f0c6b49/2147483647/strip/true/crop/4800x2520+0+90/resize/1200x630!/quality/90/?url=https%3A%2F%2Farizent.brightspotcdn.com%2F3a%2Ff4%2F88f2092e4460b86bc36e7e95911e%2Fab-021820-facial-1.png"
-        width: 1200
-        height: 630
-  - title: "Senators Call for a Moratorium on Government’s Use of Facial Recognition"
-    excerpt: "Two Democratic senators want to stop the federal government from using facial recognition technology until Congress passes legislation to properly regulate it—and they’ve produced their own legislation to do exactly that. Sens. Cory Booker, D-N.J., and Jeff Merkley, D-Ore., introduced the Ethical Use of Facial Recognition Act Wednesday ..."
-    publishedDateTime: 2020-02-14T16:13:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2020/02/senators-call-moratorium-governments-use-facial-recognition/163131/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 38
-    images:
-      - url: "https://cdn.nextgov.com/media/img/upload/2020/02/14/NGfacialscan20200214/open-graph.jpg"
-        width: 400
-        height: 400
-  - title: "Utahns approve of law enforcement’s use of facial recognition technology, poll says"
-    excerpt: "Many Utah lawmakers were alarmed last year when they learned that federal law enforcement had used facial recognition technology to scan thousands of photos in the state’s driver license database for suspects. Despite the uproar, most Utah residents say they approve of law enforcement searching the state database for suspects, according to a ..."
-    publishedDateTime: 2020-02-13T22:32:00Z
-    webUrl: "https://www.sltrib.com/news/2020/02/13/polls-shows-utahns-arent/"
-    type: article
-    provider:
-      name: The Salt Lake Tribune
-      domain: sltrib.com
-    quality: 33
-    images:
-      - url: "https://www.sltrib.com/resizer/iFmO0DFWKR3zMKsiE5alRNtjthU=/1200x630/filters:quality(85)/arc-anglerfish-arc2-prod-sltrib.s3.amazonaws.com/public/2OK3GJJIGBH5HLSXCGLHZNE4LI.jpg"
-        width: 1200
-        height: 630
-  - title: "Sens. Merkley, Booker Introduce Moratorium on Government use of Facial Recognition"
-    excerpt: "Sens. Jeff Merkley, D-Ore., and Cory Booker, D-N.J., introduced the Ethical Use of Facial Recognition Act on Feb. 12 which would institute a moratorium on all Federal use of facial recognition technology until Congress passes legislation outlining “specific uses for the data” collected. “Facial recognition technology is both a powerful an ..."
-    publishedDateTime: 2020-02-19T14:38:00Z
-    webUrl: "https://www.meritalk.com/articles/sens-merkley-booker-introduce-moratorium-on-government-use-of-facial-recognition/"
-    type: article
-    provider:
-      name: MeriTalk
-      domain: meritalk.com
-    quality: 33
-    images:
-      - url: "https://cdn.meritalk.com/wp-content/uploads/2019/01/facial-recognition-2-min.jpg"
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/s--k8Q9PwVM--/c_scale,f_auto,fl_progressive,q_80,w_800/thuqbup5w7zmofhx9lam.png"
         width: 800
         height: 450
-  - title: "Amazon Exec Defends Facial Recognition Sales to Law Enforcement, Says Would Sell to Foreign Governments"
-    excerpt: "In recent years, Amazon has faced growing criticism from civil rights groups, AI researchers and even some Amazon employees and shareholders for selling its facial recognition technology to law enforcement and discussing it with U.S. government agencies. Some of the same groups have also raised concerns that the technology could in the future ..."
-    publishedDateTime: 2020-02-19T02:40:00Z
-    webUrl: "https://www.pbs.org/wgbh/frontline/article/amazon-aws-ceo-andy-jassy-defends-facial-recognition-sales-law-enforcement-says-would-sell-to-foreign-governments/"
+  - title: "Facial Recognition Company Clearview AI Probed by Canada Privacy Agencies"
+    excerpt: "Canadian privacy authorities have launched an investigation into New York-based Clearview AI to determine whether the firm's use of facial recognition technology complies with the country's privacy laws,"
+    publishedDateTime: 2020-02-22T09:32:00Z
+    webUrl: "https://www.nytimes.com/reuters/2020/02/22/technology/22reuters-clearview-ai-canada.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 83
+    images:
+      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
+        width: 1200
+        height: 630
+  - title: "Clearview AI, the facial-recognition company stealing Facebook photos, gets hacked"
+    excerpt: "Clearview AI, the creepy facial-recognition company that scrapes your photos from social media, has been hacked. According to a report by The Daily Beast, hackers accessed data including \"its entire list of customers, the number of searches those customers have made and how many accounts each customer had set up.\" Yes, a company primarily ..."
+    publishedDateTime: 2020-02-26T18:41:00Z
+    webUrl: "https://mashable.com/article/clearview-ai-client-list-hacked/"
+    ampWebUrl: "https://mashable.com/article/clearview-ai-client-list-hacked.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/clearview-ai-client-list-hacked.amp"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 83
+    images:
+      - url: "https://mondrian.mashable.com/2020%252F02%252F26%252Ff8%252Fb7ae576e678b4164821136834cb6b965.a9d7d.jpg%252F1200x630.jpg?signature=1ED1HL_mJDPNyNyJgXoYnP97tW0="
+        width: 1200
+        height: 630
+  - title: "Clearview AI, controversial facial-recognition company focused on cybersecurity, gets hacked"
+    excerpt: "Clearview AI, the creepy facial-recognition company that scrapes your photos from social media, has been hacked. According to a report by The Daily Beast, hackers accessed data including \"its entire list of customers, the number of searches those customers have made and how many accounts each customer had set up.\" Yes, a company primarily ..."
+    publishedDateTime: 2020-02-26T18:41:00Z
+    webUrl: "https://mashable.com/article/clearview-ai-client-list-hacked/"
+    ampWebUrl: "https://mashable.com/article/clearview-ai-client-list-hacked.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/clearview-ai-client-list-hacked.amp"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 78
+    images:
+      - url: "https://mondrian.mashable.com/2020%252F02%252F26%252Ff8%252Fb7ae576e678b4164821136834cb6b965.a9d7d.jpg%252F1200x630.jpg?signature=1ED1HL_mJDPNyNyJgXoYnP97tW0="
+        width: 1200
+        height: 630
+  - title: "Facial recognition app used by more than 600 law enforcement agencies suffers significant data breach"
+    excerpt: "A new facial recognition company, which claims to be used by over 600 law enforcement agencies, has suffered a data breach, according to the company. Clearview AI confirmed with Fox News that its entire client list was stolen in the breach. According to the company, someone gained access to a list of all of Clearview’s customers, the number ..."
+    publishedDateTime: 2020-02-26T18:05:00Z
+    webUrl: "https://www.foxnews.com/us/facial-recognition-app-used-by-more-than-600-law-enforcement-agencies-suffers-significant-data-breach"
+    ampWebUrl: "https://www.foxnews.com/us/facial-recognition-app-used-by-more-than-600-law-enforcement-agencies-suffers-significant-data-breach.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/facial-recognition-app-used-by-more-than-600-law-enforcement-agencies-suffers-significant-data-breach.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 74
+    images:
+      - url: "https://media.foxbusiness.com/BrightCove/854081161001/202002/1214/854081161001_6132703327001_6132714474001-vs.jpg"
+        width: 1280
+        height: 720
+  - title: "Clearview’s Facial Recognition App Has Been Used By The Justice Department, ICE, Macy’s, Walmart, And The NBA"
+    excerpt: "This data provides the most complete picture to date of who has used the controversial technology and reveals what some observers have previously feared: Clearview AI’s facial recognition has been deployed at every level of American society and is making its way around the world. The New York–based startup has claimed its controversial ..."
+    publishedDateTime: 2020-02-27T21:37:00Z
+    webUrl: "https://www.buzzfeednews.com/amphtml/ryanmac/clearview-ai-fbi-ice-global-law-enforcement"
+    ampWebUrl: "https://www.buzzfeednews.com/amphtml/ryanmac/clearview-ai-fbi-ice-global-law-enforcement"
+    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/ryanmac/clearview-ai-fbi-ice-global-law-enforcement"
+    type: article
+    provider:
+      name: BuzzFeed News
+      domain: buzzfeednews.com
+    quality: 70
+    images:
+      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2020-01/23/15/campaign_images/2f678849f533/clearview-ai-says-its-facial-recognition-software-2-1696-1579792527-1_dblbig.jpg"
+        width: 625
+        height: 415
+  - title: "Clearview hack fuels debate over facial recognition"
+    excerpt: "Clearview AI, the highly controversial startup at the centre of a row over the ethics of facial recognition technology, has prompted renewed and heated debate over its activities after admitting that its entire client database of more than 600 law enforcement agencies has been stolen. Clearview holds in excess of three billion photos of people ..."
+    publishedDateTime: 2020-02-27T15:04:00Z
+    webUrl: "https://www.computerweekly.com/news/252479248/Clearview-hack-fuels-debate-over-facial-recognition"
+    ampWebUrl: "https://www.computerweekly.com/news/252479248/Clearview-hack-fuels-debate-over-facial-recognition?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252479248/Clearview-hack-fuels-debate-over-facial-recognition?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 59
+    images:
+      - url: "https://cdn.ttgtmedia.com/visuals/German/article/CCTV-facial-recognition-3-adobe.jpg"
+        width: 1200
+        height: 400
+  - title: "Clearview AI, the controversial facial-recognition company partnering with police, says its entire customer list was stolen in a breach"
+    excerpt: "Clearview markets its services to law-enforcement agencies and has previously avoided disclosing the identities of its clients."
+    publishedDateTime: 2020-02-26T18:41:00Z
+    webUrl: "https://www.businessinsider.com/clearview-ai-list-customers-stolen-breach-2020-2"
+    ampWebUrl: "https://www.businessinsider.com/clearview-ai-list-customers-stolen-breach-2020-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/clearview-ai-list-customers-stolen-breach-2020-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 57
+    images:
+      - url: "https://i.insider.com/5d8764c92e22af0119409b92?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+  - title: "Clearview AI's founder defends controversial facial recognition app"
+    excerpt: "Hoan Ton-That's app, Clearview AI, has triggered fears about facial recognition — and the dystopian future it could foreshadow. CNN Business' Donie O'Sullivan sits down with the CEO to talk about questions of legality, privacy, and bias in the era of facial recognition."
+    publishedDateTime: 2020-02-18T14:19:00Z
+    webUrl: "https://www.djournal.com/news/national/clearview-ai-s-founder-defends-controversial-facial-recognition-app/video_9e9cbbbc-111e-5904-b1c9-c12426069aab.html"
+    type: article
+    provider:
+      name: Daily Journal
+      domain: djournal.com
+    quality: 54
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/9/e9/9e9cbbbc-111e-5904-b1c9-c12426069aab/5e41f2280d4e7.image.jpg?resize=576%2C324"
+        width: 576
+        height: 324
+  - title: "Clearview AI CEO Defends Facial Recognition Software"
+    excerpt: "Clearview AI is an astonishing piece of technology—a groundbreaking facial recognition app that collects billions of images from social media and all across the internet. Law enforcement agencies around the world are becoming enthusiastic clients, using the app to identify suspects. Hari speaks to the company’s co-founder and CEO ..."
+    publishedDateTime: 2020-02-20T05:31:00Z
+    webUrl: "https://www.pbs.org/wnet/amanpour-and-company/video/clearview-ai-ceo-defends-facial-recognition-software/"
     type: article
     provider:
       name: PBS
       domain: pbs.org
-    quality: 25
+    quality: 54
     images:
-      - url: "https://i2.wp.com/www.pbs.org/wgbh/frontline/wp-content/uploads/2020/02/3812_SG416.jpg?resize=1200%2C630"
-        width: 1200
-        height: 630
-  - title: "Civil liberties group warns about face recognition system considered by Florida law enforcement departments"
-    excerpt: "Civil liberties advocates are warning about powerful face recognition software that could be coming to a police department near you. The Tampa Bay Times is reporting that about a dozen law enforcement agencies in Florida have tested or purchased a facial recognition system from a company called Clearview AI. WMNF interviewed Nate Freed Wessler ..."
-    publishedDateTime: 2020-02-14T22:14:00Z
-    webUrl: "https://www.wmnf.org/civil-liberties-face-recognition-florida-law-enforcement/"
+      - url: "https://www.pbs.org/wnet/amanpour-and-company/files/2020/02/4gPfMc5-asset-mezzanine-16x9-BKkp7dE.jpg"
+        width: 1920
+        height: 1080
+  - title: "Controversial Facial Recognition Company Clearview AI Has Been Hacked"
+    excerpt: "The online security woes just keep on coming, as controversial facial recognition company Clearview AI has been the victim of a security breach. Earlier this year, Clearview AI drew criticism throughout the world for its reckless pursuit of facial recognition data. The company was scraping YouTube videos, Facebook profiles, and any other form ..."
+    publishedDateTime: 2020-02-27T21:42:00Z
+    webUrl: "https://tech.co/news/facial-recognition-clearview-ai-hack-2020-02"
     type: article
     provider:
-      name: WMNF
-      domain: wmnf.org
-    quality: 21
+      name: Tech.co
+      domain: tech.co
+    quality: 54
     images:
-      - url: "https://s3.amazonaws.com/wmnf/wp-content/uploads/2020/02/RNC-surveillance-camera-Tampa-SAM_0145-sk-1024x576.jpg"
-        width: 1024
-        height: 576
-  - title: "OPS tested facial recognition software, but doesn't use it"
-    excerpt: "The Ottawa Police Service (OPS) has tested facial recognition technology but hasn't used it, according to the force's deputy chief. Deputy Chief Steve Bell confirmed Ottawa police concluded a three-month pilot with NeoFace Reveal in March 2019."
-    publishedDateTime: 2020-02-15T09:09:00Z
-    webUrl: "https://www.cbc.ca/news/canada/ottawa/ottawa-police-facial-recognition-1.5464964"
-    type: article
-    provider:
-      name: CBC.ca
-      domain: www.cbc.ca
-    quality: 19
-  - title: "Lawmakers Float New Restrictions On Facial Recognition"
-    excerpt: "As controversies about the use of facial recognition continue to swirl, lawmakers across the country are preparing to tackle the technology. California state Senator Hannah-Beth Jackson (D-Santa Barbara), said Thursday she plans to introduce a bill to prevent law enforcement and other governmental agencies from using facial recognition ..."
-    publishedDateTime: 2020-02-17T22:15:00Z
-    webUrl: "https://www.mediapost.com/publications/article/347130/lawmakers-float-new-restrictions-on-facial-recogni.html?edition="
-    type: article
-    provider:
-      name: MediaPost
-      domain: mediapost.com
-    quality: 19
-  - title: "Protestors in India Concerned by Use of Facial Recognition"
-    excerpt: "Protestors in New Delhi are covering their faces now that the police have begun using facial recognition software to identify people. This has been going on since the middle of December when outrage began with the new citizenship law that people feel ostracizes Muslims. Now activists worry that facial recognition is an abuse of power and the ..."
-    publishedDateTime: 2020-02-19T06:51:00Z
-    webUrl: "https://www.cloudwedge.com/news/protestors-in-india-concerned-by-use-of-facial-recognition/"
-    type: article
-    provider:
-      name: Gazoo
-      domain: cloudwedge.com
-    quality: 19
-  - title: "What harm could a ban on facial recognition do?"
-    excerpt: "To access this content please sign in or register below for free"
-    publishedDateTime: 2020-02-19T06:16:00Z
-    webUrl: "https://www.scmagazineuk.com/harm-ban-facial-recognition-do/article/1672714"
-    type: article
-    provider:
-      name: SC Media UK
-      domain: scmagazineuk.com
-    quality: 19
-  - title: "Is the facial recognition technology used by GTA police illegal?"
-    excerpt: "The facial recognition technology that at least three GTA police forces tested may be illegal, according to one of Canada’s most powerful privacy regulators. British Columbia’s privacy commissioner and three of his counterparts are weighing whether to launch an investigation into the threat to Canadians’ rights posed by Clearview AI ..."
-    publishedDateTime: 2020-02-20T01:14:00Z
-    webUrl: "https://www.thestar.com/news/gta/2020/02/20/did-police-break-the-law-by-using-controversial-face-recognition-app.html"
+      - url: "https://images.tech.co/wp-content/uploads/2020/02/27134849/facial-recognition-clearview-ai.jpg"
+        width: 1920
+        height: 960
+  - title: "RCMP admits to using Clearview AI, says controversial facial recognition tool has solved child exploitation cases"
+    excerpt: "The Mounties say they have been using controversial facial recognition tool Clearview AI for the last four months, and have used it to solve online child exploitation cases. “The RCMP’s National Child Exploitation Crime Centre (NCECC) has been using and evaluating Clearview AI’s software for approximately four months for online child ..."
+    publishedDateTime: 2020-02-27T21:54:00Z
+    webUrl: "https://www.thestar.com/news/canada/2020/02/27/rcmp-admits-to-using-clearview-ai-says-controversial-facial-recognition-tool-has-solved-child-exploitation-cases.html"
+    ampWebUrl: "https://www.thestar.com/amp/news/canada/2020/02/27/rcmp-admits-to-using-clearview-ai-says-controversial-facial-recognition-tool-has-solved-child-exploitation-cases.html"
+    cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/news/canada/2020/02/27/rcmp-admits-to-using-clearview-ai-says-controversial-facial-recognition-tool-has-solved-child-exploitation-cases.html"
     type: article
     provider:
       name: The Star
       domain: thestar.com
-    quality: 19
-  - title: "Polls shows Utahns aren’t concerned about facial recognition software. Lawmakers and privacy advocates say they should be."
-    excerpt: "Many Utah lawmakers were alarmed last year when they learned that federal law enforcement had used facial recognition technology to scan thousands of photos in the state’s driver license database for suspects. Despite the uproar, most Utah residents say they approve of law enforcement searching the state database for suspects, according to a ..."
-    publishedDateTime: 2020-02-13T13:03:00Z
-    webUrl: "https://www.sltrib.com/news/2020/02/13/polls-shows-utahns-arent/"
+    quality: 53
+    images:
+      - url: "https://images.thestar.com/5V3cA-Dnk1rtXOS8iTTUOE3lQ0A=/1200x800/smart/filters:cb(1582840130861)/https://www.thestar.com/content/dam/thestar/news/canada/2020/02/27/rcmp-admits-to-using-clearview-ai-says-controversial-facial-recognition-tool-has-solved-child-exploitation-cases/rcmp.jpg"
+        width: 1200
+        height: 800
+  - title: "Facial Recognition Biz Clearview AI Suffers Data Breach"
+    excerpt: "A controversial facial recognition company has just informed its customers of a data breach in which its entire client list was stolen. Clearview AI leapt to fame in January when a New York Times report claimed that the start-up had scraped up to three billion images from social media sites to add to its database. That makes it a useful ..."
+    publishedDateTime: 2020-02-27T09:45:00Z
+    webUrl: "https://www.infosecurity-magazine.com/news/facial-recognition-clearview-ai/"
     type: article
     provider:
-      name: The Salt Lake Tribune
-      domain: sltrib.com
-    quality: 13
+      name: Infosecurity-magazine.com
+      domain: infosecurity-magazine.com
+    quality: 34
+  - title: "Controversial facial recognition startup Clearview AI hit by massive client data breach"
+    excerpt: "Clearview AI, the Aussie-founded startup at the centre of a data privacy debate for its facial recognition software, has suffered a data breach reportedly exposing its entire customer list, and details about those customers. A notification sent to Clearview customers said an intruder had “gained unauthorized access” to the startup’s ..."
+    publishedDateTime: 2020-02-27T01:20:00Z
+    webUrl: "https://www.smartcompany.com.au/startupsmart/news/clearview-ai-data-breach/"
+    type: article
+    provider:
+      name: SmartCompany
+      domain: smartcompany.com.au
+    quality: 29
     images:
-      - url: "https://www.sltrib.com/pb/resources/assets/img/sltrib_facebook_card.png"
-        width: 1200
-        height: 630
+      - url: "https://www.smartcompany.com.au/content/uploads/2020/01/Clearview-AI.jpg"
+        width: 681
+        height: 333
+  - title: "Canada Privacy Watchdog Probes Facial Recognition Startup"
+    excerpt: "The images -- grabbed from popular social media platforms including Facebook, Instagram, Twitter and YouTube as well as millions of other websites -- are used in its facial recognition software. Clearview AI's founder Hoan Ton-That has said the technology has been made available to more than 600 law enforcement agencies in Canada and the United ..."
+    publishedDateTime: 2020-02-21T20:27:00Z
+    webUrl: "https://www.ibtimes.com/canada-privacy-watchdog-probes-facial-recognition-startup-2926715"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 19
 
 secured: "ac9Us0f3KuoPLkVuxmoifruPyiWzRM9/5Oyg/7wFmmJXOYChyMSM4VTIhzJe9k3DuD0E2s2NG80zpl/r9rki1UO+eLFQ82vtY/CBcQyGK4t72WaRXmQefYpIkieqmfjnp5nNeACQZYf8b0IT6qApj081h2WMmoL2umUZmKkSkIKUgk6N4VXMOBoPFyIC/2ZRW8C3aszQbu5Ses0wg1dnsn6M9v4UbJQWkKXBvzpF6tJ7t1q5AZU66eeoxRaFjp7x8Yf1QfS2aDAf39+nBxRwtyOAD0c88T24fzf1j8fVPxvm0xqb1qPSdfBXedK/CWGRdN9JscumPTSltkH86RurD+PzYzc5GMP0VYuVhSKLWqa3Krl9RHhIrS96Qs9iuFxoPLDXfrjh3GMjuXMD2GJygB+yuEI74mCGqnWarrML6QXmUAyUNOC6OhOr9VtRiS08lT+rv9fgxDC8HBNfZkDuoIWHaA/GW9311OpAYvJZ9aU=;hfm3Zlo1ipmWAxbCwI+EJg=="
 ---

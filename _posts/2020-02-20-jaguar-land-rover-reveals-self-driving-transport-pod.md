@@ -164,6 +164,15 @@ related:
       - url: "https://media.kgw.com/assets/KGW/images/0543c9e3-1e11-4cd0-b801-1fc1a9a8f0ec/0543c9e3-1e11-4cd0-b801-1fc1a9a8f0ec_1140x641.png"
         width: 1140
         height: 641
+  - title: "Can Self-Driving Cars Share the Roads With You?"
+    excerpt: "Are American roads ready for a future with automated shared vehicles, e-scooters, and new forms of public transit? Consumer Reports hosted a panel discussion at the Washington D.C. Auto Show to talk about needed change in American infrastructure."
+    publishedDateTime: 2020-02-27T20:26:00Z
+    webUrl: "https://www.consumerreports.org/video/view/cars/news/6136584473001/can-self-driving-cars-share-the-roads-with-you/"
+    type: article
+    provider:
+      name: Consumer Reports
+      domain: consumerreports.org
+    quality: 4
 
 secured: "N1non8OY9U7eq1T1ZPr+aYuPW2qp9e518CxrMrqquov2hi2/oAUmeathoICDklYRIowJINfuq3+rXNF5BgfUsRPhyoDuMzAwQYA3Jt+E9x5jVVy0UXfRFuomJZEuBVwa8cla9kXUTkwx4/c6bDeMK/iRilUbdnD2N/348WXYj7KJAVuVSiTAbyU7eFA+QT2DfziDqtdOLbm0DrYxzkD5rAjcLTYlgOMcBH3hHdO7KtEvSGQsF/wE1yQi9idwGA+Svc23PVn8UcMR1tU8WXReUYM1V0Qyj5E7lL+qhQWSPHcNjEM0AHDuH4N0kxbnMRWqrvY3m+thMyZEls1VM0mUTiB1TP2HafJZcTBT6HXFnXNZrBZtAC0+HqXvdsx0LdG6z7tXREohbpR3biCBjbMdGkH4NIExAf5Wf1JZnTXtka3dg/bjdcv5lyM7Wa0nePoxmLN1CMyFW6eueXofZ2eo30ELnmO7pFswLAyfHh2QneI=;esNQ5O9V4seWho61wg4YIg=="
 ---

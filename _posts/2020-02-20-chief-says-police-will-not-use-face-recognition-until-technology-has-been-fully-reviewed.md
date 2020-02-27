@@ -108,6 +108,21 @@ related:
       - url: "https://postmediaottawacitizen2.files.wordpress.com/2020/01/76459938-13306503-w-1.jpg"
         width: 1000
         height: 750
+  - title: "Four Australian Police Forces Have Used Clearview AI's Facial Recognition App"
+    excerpt: "Four of Australia’s police forces have registered users with controversial facial recognition company Clearview AI, a client list obtained by BuzzFeed News reveals. Clearview AI says its powerful and unprecedented facial recognition tool can be used to identify a person in almost any situation. It says it has amassed a database of billions of ..."
+    publishedDateTime: 2020-02-27T21:55:00Z
+    webUrl: "https://www.buzzfeed.com/hannahryan/clearview-ai-australia-police"
+    ampWebUrl: "https://www.buzzfeed.com/amphtml/hannahryan/clearview-ai-australia-police"
+    cdnAmpWebUrl: "https://www-buzzfeed-com.cdn.ampproject.org/c/s/www.buzzfeed.com/amphtml/hannahryan/clearview-ai-australia-police"
+    type: article
+    provider:
+      name: BuzzFeed
+      domain: buzzfeed.com
+    quality: 71
+    images:
+      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2020-02/26/20/campaign_images/6334040a1b66/which-sushi-roll-are-you-2-1830-1582750239-7_dblbig.jpg"
+        width: 625
+        height: 415
   - title: "Hamilton police tested controversial facial recognition technology Clearview AI"
     excerpt: "People walk past a poster simulating facial recognition software at the Security China 2018 exhibition on public safety and security in Beijing, China October 24, 2018. (Thomas Peter/Reuters) Hamilton police have had access to a controversial facial recognition tool called Clearview AI, CBC News has learned, but have been directed to stop by ..."
     publishedDateTime: 2020-02-20T21:33:00Z
@@ -509,6 +524,15 @@ related:
     provider:
       name: Infosecurity-magazine.com
       domain: infosecurity-magazine.com
+    quality: 18
+  - title: "Scotland Yard make first arrest using live facial recognition technology"
+    excerpt: "The live technology was rolled out in London last month despite concerns from privacy campaigners that it eroded civil liberties Credit: PA Scotland Yard have made their first arrest using controversial facial recognition technology. The country’s biggest police force began rolling out the live technology in London last month despite ..."
+    publishedDateTime: 2020-02-27T20:27:00Z
+    webUrl: "https://www.telegraph.co.uk/news/2020/02/27/scotland-yard-make-first-arrest-using-live-facial-recognition/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
     quality: 18
   - title: "Washington State moves ahead on bill to regulate governments’ use of facial-recognition technology"
     excerpt: "OLYMPIA, Wash. — Washington state senators Wednesday approved a bill that would begin regulating the use of facial-recognition programs by local and state governments. Sponsored by Democratic state Sen."

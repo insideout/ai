@@ -69,6 +69,15 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2016/12/12/nvidia-self-driving-car-system.jpg"
         width: 1200
         height: 800
+  - title: "Cruise Automation's self-driving cars can now carry passengers"
+    excerpt: "General Motors' Cruise division received the OK for testing in California. Aside from the lidar emitters up top and the livery on the side, you'd have a hard time telling this Bolt EV apart from a regular one."
+    publishedDateTime: 2020-02-27T20:17:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/cruise-automation-self-driving-cars-california/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 34
 
 secured: "5rj1rvQ8RyBym7K5JKk3Xo2aHzJqBD/5GfjGr4F4TzZiPZxfFkQGJaXUmT4ZywD/Q5/dXEK02FhmltmX3A20DS01wAkXDGj1I52myR7g+fCNYJGvjI7+Ej6uDLRzEWwiCOCARQDeM238UJ7kV2Agmhd6LPtXqptyE29542ZN6HsQHZOWPSnpGV8btjVEVCuC6b/xxUOZaY5RS4khmoSi8hI6y8elxyUkRNJ/D6I48VO+vyhJDQzSqD7QquA/wT0TkeVQlfNSP3Ti+YQbY0osFVkg6yFlxCBhR+CvADA0cfiIJPgoeWi8P8z47okQduey;b/XvgTe6WDFJo6LkfOzY+g=="
 ---

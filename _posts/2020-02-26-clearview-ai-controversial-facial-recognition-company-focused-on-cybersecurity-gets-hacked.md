@@ -114,6 +114,21 @@ related:
       - url: "https://media.foxbusiness.com/BrightCove/854081161001/202002/1214/854081161001_6132703327001_6132714474001-vs.jpg"
         width: 1280
         height: 720
+  - title: "Clearview’s Facial Recognition App Has Been Used By The Justice Department, ICE, Macy’s, Walmart, And The NBA"
+    excerpt: "This data provides the most complete picture to date of who has used the controversial technology and reveals what some observers have previously feared: Clearview AI’s facial recognition has been deployed at every level of American society and is making its way around the world. The New York–based startup has claimed its controversial ..."
+    publishedDateTime: 2020-02-27T21:37:00Z
+    webUrl: "https://www.buzzfeednews.com/amphtml/ryanmac/clearview-ai-fbi-ice-global-law-enforcement"
+    ampWebUrl: "https://www.buzzfeednews.com/amphtml/ryanmac/clearview-ai-fbi-ice-global-law-enforcement"
+    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/ryanmac/clearview-ai-fbi-ice-global-law-enforcement"
+    type: article
+    provider:
+      name: BuzzFeed News
+      domain: buzzfeednews.com
+    quality: 70
+    images:
+      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2020-01/23/15/campaign_images/2f678849f533/clearview-ai-says-its-facial-recognition-software-2-1696-1579792527-1_dblbig.jpg"
+        width: 625
+        height: 415
   - title: "Clearview hack fuels debate over facial recognition"
     excerpt: "Clearview AI, the highly controversial startup at the centre of a row over the ethics of facial recognition technology, has prompted renewed and heated debate over its activities after admitting that its entire client database of more than 600 law enforcement agencies has been stolen. Clearview holds in excess of three billion photos of people ..."
     publishedDateTime: 2020-02-27T15:04:00Z
@@ -170,6 +185,34 @@ related:
       - url: "https://www.pbs.org/wnet/amanpour-and-company/files/2020/02/4gPfMc5-asset-mezzanine-16x9-BKkp7dE.jpg"
         width: 1920
         height: 1080
+  - title: "Controversial Facial Recognition Company Clearview AI Has Been Hacked"
+    excerpt: "The online security woes just keep on coming, as controversial facial recognition company Clearview AI has been the victim of a security breach. Earlier this year, Clearview AI drew criticism throughout the world for its reckless pursuit of facial recognition data. The company was scraping YouTube videos, Facebook profiles, and any other form ..."
+    publishedDateTime: 2020-02-27T21:42:00Z
+    webUrl: "https://tech.co/news/facial-recognition-clearview-ai-hack-2020-02"
+    type: article
+    provider:
+      name: Tech.co
+      domain: tech.co
+    quality: 54
+    images:
+      - url: "https://images.tech.co/wp-content/uploads/2020/02/27134849/facial-recognition-clearview-ai.jpg"
+        width: 1920
+        height: 960
+  - title: "RCMP admits to using Clearview AI, says controversial facial recognition tool has solved child exploitation cases"
+    excerpt: "The Mounties say they have been using controversial facial recognition tool Clearview AI for the last four months, and have used it to solve online child exploitation cases. “The RCMP’s National Child Exploitation Crime Centre (NCECC) has been using and evaluating Clearview AI’s software for approximately four months for online child ..."
+    publishedDateTime: 2020-02-27T21:54:00Z
+    webUrl: "https://www.thestar.com/news/canada/2020/02/27/rcmp-admits-to-using-clearview-ai-says-controversial-facial-recognition-tool-has-solved-child-exploitation-cases.html"
+    ampWebUrl: "https://www.thestar.com/amp/news/canada/2020/02/27/rcmp-admits-to-using-clearview-ai-says-controversial-facial-recognition-tool-has-solved-child-exploitation-cases.html"
+    cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/news/canada/2020/02/27/rcmp-admits-to-using-clearview-ai-says-controversial-facial-recognition-tool-has-solved-child-exploitation-cases.html"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com
+    quality: 53
+    images:
+      - url: "https://images.thestar.com/5V3cA-Dnk1rtXOS8iTTUOE3lQ0A=/1200x800/smart/filters:cb(1582840130861)/https://www.thestar.com/content/dam/thestar/news/canada/2020/02/27/rcmp-admits-to-using-clearview-ai-says-controversial-facial-recognition-tool-has-solved-child-exploitation-cases/rcmp.jpg"
+        width: 1200
+        height: 800
   - title: "Facial Recognition Biz Clearview AI Suffers Data Breach"
     excerpt: "A controversial facial recognition company has just informed its customers of a data breach in which its entire client list was stolen. Clearview AI leapt to fame in January when a New York Times report claimed that the start-up had scraped up to three billion images from social media sites to add to its database. That makes it a useful ..."
     publishedDateTime: 2020-02-27T09:45:00Z
@@ -201,6 +244,19 @@ related:
       name: International Business Times
       domain: ibtimes.com
     quality: 19
+  - title: "Facial Recognition Surveillance Technology Should Be Suspended in the U.S. Says Coalition of 40 Privacy and Free Speech Groups"
+    excerpt: "Facial recognition surveillance technology is a hot-button issue that pulls together several major social concerns; privacy, profiling, authoritarianism and free expression. As both camera hardware and facial recognition software technologies advance to the point that a person can be added to a database and then located in a crowd in under 10 ..."
+    publishedDateTime: 2020-02-17T11:00:00Z
+    webUrl: "https://www.cpomagazine.com/data-privacy/facial-recognition-surveillance-technology-should-be-suspended-in-the-u-s-says-coalition-of-40-privacy-and-free-speech-groups/"
+    type: article
+    provider:
+      name: CPO Magazine
+      domain: cpomagazine.com
+    quality: 11
+    images:
+      - url: "https://www.cpomagazine.com/wp-content/uploads/2020/02/facial-recognition-surveillance-technology-should-be-suspended-in-the-u-s-says-coalition-of-40-privacy-and-free-speech-groups_1500.jpg"
+        width: 1500
+        height: 860
 
 secured: "7HlgmowQ6yBQSGm63ViBs5Kaa9XKZQE9W1X7tqkFweQtZmT9X2O0TRrLYEHg6ghznbZHyvP9uq/BGDiYdXol8dg7H4gOU98JNPInfUFd/CaHrjD2ilCUkebwZSwKqqFteyYjIgkDiRd9pOjzVBbp5g3qf+waVgZS8Kb+ofWHTFQ5aPg5ANKzBBbeGXrmsKR/DNGTvmAbWYvegTyH/usIVY8JLrNS23j0Ff53UeRl4rQaAwa9K5LdpSSIeble6LddMGtENAXsy1J/HRJ4FCjVWX5Nu2rDaLPX3hWBG6/SJL5hQYeZ0cQqKDJmqcMT+a89yNpqAmKS0NcX/pGFh0zUmYWrl9gJLGO7UqT/swySm03L86yQb3OZHsY7ZZGaRtFPEyX2nKn+U0nCnTttk94wpo6kQnG78vVIboy/sXaoy1HQaJ1Dl6VF093R125MS4mW5Lls1gWL0jNSwIG2ae93j7Xi/l1+xzxCN5DAhbWyShE=;KYxNamEdels6WuYw3wSP/w=="
 ---

@@ -26,6 +26,15 @@ images:
     title: "Millions of updated driver’s license photos to fill Ohio’s facial-recognition system"
 
 related:
+  - title: "ICE has access to Maryland driver’s license records. State lawmakers want to limit it."
+    excerpt: "Armed with new evidence that federal immigration officials accessed a state database of licensed Maryland drivers dozens of times in the last two years, state lawmakers are proposing legislation to limit their access ... Baltimore County and in the Washington region. “We have seen certain cases where they didn’t have any sort of criminal ..."
+    publishedDateTime: 2020-02-26T14:45:00Z
+    webUrl: "https://www.baltimoresun.com/politics/bs-md-pol-ice-mva-bill-20200227-rsgqqajmwne4hollsz4svgpa6m-story.html"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 94
   - title: "ICE has run facial-recognition searches on millions of Maryland drivers"
     excerpt: "U.S. Immigration and Customs Enforcement officials have been permitted to run facial-recognition searches on millions of Maryland driver’s license photos without first seeking state or court approval, state officials said — access that goes far beyond what other states allow and that alarms immigration activists in a state that grants ..."
     publishedDateTime: 2020-02-26T23:52:00Z

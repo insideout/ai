@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/02/12/xmos-unveils-xcore-ai-a-powerful-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/12/xmos-unveils-xcore-ai-a-powerful-chip-designed-for-ai-processing-at-the-edge/amp/"
 type: article
 quality: 105
-heat: 115
+heat: 105
 published: true
 
 provider:
@@ -30,23 +30,6 @@ images:
     width: 1200
     height: 600
     title: "XMOS unveils Xcore.ai, a powerful chip designed for AI processing at the edge"
-
-related:
-  - title: "ARM shows off new Edge AI chip designs for cloud-less processing on IoT devices"
-    excerpt: "The new designs are based on Edge AI technology, which basically means processing on a device without a cloud connection Chipmaker ARM has announced two new chip designs for AI processing, focused particularly on the internet of things (IoT) devices. The new designs- the ARM Cortex-M55 and Ethos-U55 are based on Edge AI technology, which ..."
-    publishedDateTime: 2020-02-13T03:13:00Z
-    webUrl: "https://www.deccanchronicle.com/technology/in-other-news/130220/arm-shows-off-new-edge-ai-chip-designs-for-cloud-less-processing-on-io.html"
-    ampWebUrl: "https://www.deccanchronicle.com/amp/technology/in-other-news/130220/arm-shows-off-new-edge-ai-chip-designs-for-cloud-less-processing-on-io.html"
-    cdnAmpWebUrl: "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/technology/in-other-news/130220/arm-shows-off-new-edge-ai-chip-designs-for-cloud-less-processing-on-io.html"
-    type: article
-    provider:
-      name: Deccan Chronicle
-      domain: deccanchronicle.com
-    quality: 70
-    images:
-      - url: "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-c6vcqtlfu5qn38at3rp993fd81-20200213084133.Medi.jpeg"
-        width: 800
-        height: 448
 
 secured: "SpUw2MelFZkYi/lcrd5T1UM4E5cpim5kS9xP6MYMyQyzO/jHHowQAhHGvaVrAc8oTqMWIXoevwdmvii5O6W3+gQAMds77zCSWRpy0rTxnti+l66ADNKiyyna1/6+k40YUqgTAey20xO8iMUghrsmxHh/aYortw9oEBgYR4/BLeUQ/ZPNDdqOmBzKpRaQy2hqdH8t6KO3mEpbBOim0zz86FjOTUbXN03LalARVrnTcDWY/lNHoS+8U2of3C170TqREPRLQn8zqVwJHN2JndJYQwCgVKgg1BuhzPbmRkOQcP+Y6AlHRqtSVSQ99EgfWgCJ;Fub82ueHNi+Rmk3sg6SENw=="
 ---

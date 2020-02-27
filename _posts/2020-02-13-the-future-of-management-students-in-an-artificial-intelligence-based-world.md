@@ -20,21 +20,6 @@ topics:
   - IBM AI
 
 related:
-  - title: "Reviewing AI Powered Contract Management Software Evisort"
-    excerpt: "This flexibility means the company has the potential to work with businesses outside of the legal industry which is new for an AI document review organization. Evisort can deal with contracts across multiple languages better than its competition by using machine learning support translation services. Machine learning allows the software to ..."
-    publishedDateTime: 2020-02-13T03:59:00Z
-    webUrl: "https://www.techworm.net/2020/02/review-ai-powered-contract-management-software-evisort.html"
-    ampWebUrl: "https://www.techworm.net/2020/02/review-ai-powered-contract-management-software-evisort.html/amp"
-    cdnAmpWebUrl: "https://www-techworm-net.cdn.ampproject.org/c/s/www.techworm.net/2020/02/review-ai-powered-contract-management-software-evisort.html/amp"
-    type: article
-    provider:
-      name: techworm.net
-      domain: techworm.net
-    quality: 59
-    images:
-      - url: "https://www.techworm.net/wp-content/uploads/2020/02/evisort.png"
-        width: 1200
-        height: 675
   - title: "Future of management students in an Artificial Intelligence based world"
     excerpt: "AI-enabled decision making is better than human or software alone decision making. Let's understand this with an example. IBM's cognitive room, an immersive Watson driven exploration of IBM's capabilities and solutions, supports decision making for mergers and acquisitions. It allows the decision-makers to effectively interact with a large ..."
     publishedDateTime: 2020-02-17T21:59:00Z

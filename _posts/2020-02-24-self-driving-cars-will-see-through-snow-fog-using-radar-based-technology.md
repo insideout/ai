@@ -69,6 +69,15 @@ related:
       - url: "https://www.embedded.com/wp-content/uploads/2020/02/img20200225095655EETimes-Putting-AI-into-the-Ed_0.jpg"
         width: 640
         height: 527
+  - title: "Cruise Automation's self-driving cars can now carry passengers"
+    excerpt: "General Motors' Cruise division received the OK for testing in California. Aside from the lidar emitters up top and the livery on the side, you'd have a hard time telling this Bolt EV apart from a regular one."
+    publishedDateTime: 2020-02-27T20:17:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/cruise-automation-self-driving-cars-california/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 34
 
 secured: "8BaQ8W37xRxZ8idIu6H0kJnVp+Y3UXKZWm7U4WodGrOkWz20hmZ+iMmINEftvPwplanzV9qgRYYQVnc4JK051lU4DViTn0xUku9K/CVs38VgBX8dlgylf1l3xPdGqz6ix7KxT1VXxB/YVDLV/ha+lcaCig2XXDb9ypmjIOE0sIoVII7CSdOLzVn/6q2KoGIzE6MwT0DhYMZxKV5vuKHVtRoHwD92N0NnM0gu9qbwGL0sR4aRQSZDAYxWS1nT1XbJry6mn1uIREt8k7mAe/ZWGe3Z4JQU5UAqW4PDtIsRS9XCrqNuum9rSGpv4PSJDDNAGJkIpWmdNIVINwOqb8er836BnvgL1ZIirSMUbegoUrv9VlRnVscsWU1Xsp61EZY6O+/s8ogprI7V7MhFbDtVTh5FifZrhYbbfL0n91NGdQBuFQgbRYZiW7hbbZuGvFWpF8RM58odSNLrjX6KXGsUeOwjCWDzHiaWo1gt72n63CI=;345aBS8ixQJAsINoRp31uQ=="
 ---

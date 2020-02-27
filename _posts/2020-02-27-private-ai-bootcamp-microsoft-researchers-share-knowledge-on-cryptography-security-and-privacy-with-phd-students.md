@@ -27,6 +27,6 @@ images:
     height: 675
     title: "Private AI Bootcamp: Microsoft researchers share knowledge on cryptography, security, and privacy with PhD students"
 
-secured: "3I828HjumM78j3VUzaEsyCNxuf36FeJ6fFzQJ0swZxcXpBXH96vSNHPu002Ypv4uEgl1w+kXV1L3WwvILz/Bm8n71r1Gf4DPu7KyN0KnYkSMth1dsyzNkBDT91AJ+DAwKGy4fHI2lvYRlJkGhyEkZL8456mbRc+7yPgtQF1rftj7YJXrd16XH1T6bBUym5/hVXsJais2bF+XSRZ2nRIPPR7vxiKeJd5owvIY/h9bd5w+MsQoFaY4Nh+wZHpeZzz8oZvRFWU06bI8uro3+QXHcXV+wPIIA1v5N7jQ3327be26vH2d4z3A3JQD0uBZs4ce;WX/dTl0kqijYg3lwN5Fi7g=="
+secured: "F7lBne5Ms48Vf1RZ4B3HQPznPDVERHOUybPY9hYQViX7on/qITcVTaEuHikID5/PBzhnXx7+yjW6s0dK63GxBPhnigG+UTn7NyWVzE3WEVbkYsPP1DnhcHlHkE9QqnmbEVs2U+lOfd0CQccpuXUHhoBGae0Os+l8QGpOTLaJn9/vo7qX0bxjFNbSgagQn041lGYrRe2XSgc6jb5F1tOabjnOC0Os0EBf+0hFCEeMkZZ/6lpMlXulz6S6XZoQ0qCdI1LFHn1g6jo2PescpcycjNJYIAUqL1ScZEFXyDTMvIJqZjBG+gPT0Y793oDbRgIsdVDeRY9EbJfALg//T+j59Dl/c7dv5oS0UuLHVRCJ5HIGDsEiYyHTlYFJRP1CpHSOgl2kwI111p8WHLff+n+LUtV75M7G5LMNoypMTd/hvCHeiA6uJlPuue5NNt7rAicLeuPPclzzDwehFHy0jclb6D8XCj0Rsn/104+65rRSEEw=;xX7U5MPqYqfT6KyNKhX5SA=="
 ---
 

@@ -7,8 +7,8 @@ webUrl: "https://venturebeat.com/2020/02/25/openais-jeff-clune-on-deep-learnings
 ampWebUrl: "https://venturebeat.com/2020/02/25/openais-jeff-clune-on-deep-learnings-achilles-heel-and-a-faster-path-to-agi/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/25/openais-jeff-clune-on-deep-learnings-achilles-heel-and-a-faster-path-to-agi/amp/"
 type: article
-quality: 100
-heat: 110
+quality: 200
+heat: 210
 published: true
 
 provider:
@@ -44,6 +44,6 @@ related:
         width: 1000
         height: 531
 
-secured: "Kw53tpaIyBJBfBCOcsZpY/rL3vVguzomSzU/6zfJTWmtkfLW/gdZe0rukt2lV5GwckJCdwZGRtqrfF4NO8e/JbRlgv3XaKOzRkNGBaHPaFkZEwHCGoohfpGEYrJUj0lFM+ghCipSH2V8KBSnsli4hMhs0Qy3nvEf8gOLtSA0iXcMWs8rTklQXSfE7op870fOHs6WqXP40FTcvS8xlpkY5RiA1V1uJPxA+KwBVFOFuirr0R1pXFk3gJm0j3mqFHTWJgYLozd7Uab3NNbt9suLqllenV7n64znxuuAaJawG5r774AvOx7gNR1UC6T7TLKuusVVy99wIJISkFwBg+vgcja4svKpbU/qKbiDyoa7CI5SLr2g6eWz4DUF3b6MFAtKvbsPWdOlDoazlFJ76KRnunSlvTn8RsxM14Ly0Vr0vdVwn7wwziM0CjLokuJqywnp1TXpmyehVjEU2ru08EFqTDQhWwKYhv7Q3vJMyumNEN8=;33J2jgnhSwuZIZOGvLb98Q=="
+secured: "4CI6GyeJZAaT7t4ARDDNWRv/wlPisUzy27brgjbUgM6hEC/OiRUGpX3gRsCoB3uNBGP1EsFpjz0VEoG52wiWOjPqqkWL8hN1+t5VFqwM9yp/FcSE5Lddbg30ia1H/R+Ahy7aXVU3r3eoNkpN8xALCy1LiX6IED/s3WqvNMFsKEEJAImRA2bEhT28VE0XVGMmFFPOz7RAikTUVGFjhSG3GDGoqAbGKfQhTTYpSJbSNqM8sefIoQgJgmnLZZL1lGKcS5CgT1qivTn2H7XK8TxoAbIwL1bwBujyOtNvh4QGL+Gf+cfH1yXqLreWhN0ZZnb3krA0WWJkWVGAcoj+c9wSAYoOIUPqn1Ha7BX8R1NuQ9PiVmAeoCN1UH6eXIYlqWXJyONUk90kw4b/oOI+WHRVloJBwpnnOBuIvRPrcQ5GTXJYnRHueiRsYtcS7mN/TqnZLfOsk2t6/IbY2OKjs5wCy9NDPW2+ZkgLyapcgZS8gCZPKn518E1GN/WQ1goKZCeS;DBv9he6s/xgx6aCQnjzzOA=="
 ---
 

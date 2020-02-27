@@ -46,6 +46,15 @@ related:
       - url: "https://virtual-strategy.com/wp-content/plugins/all-in-one-seo-pack/images/default-user-image.png"
         width: 512
         height: 512
+  - title: "Deltec Bank, Bahamas Says FinTech Bringing Sweeping Changes in the World of Banking and Finance"
+    excerpt: "FinTech — or financial technology — has become a big player in the world of banking and finance. What started as the technology used in back-end systems of banking and financial institutions has morphed into consumer-oriented services."
+    publishedDateTime: 2020-02-27T20:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deltec-bank-bahamas-says-fintech-bringing-sweeping-changes-in-the-world-of-banking-and-finance-2020-02-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
 
 secured: "d/gHWYoLKrG/uqrsJtarSfVrOT7SkzUtgXF54N8EOrjZQTJZce4kyt9Kvbn9VhipXvl/XV4GbtbyVAska/YrHndqzIT43S+hVtZCR7xtHZ71OGtB1/Neu3JFVmARKLaXbxG6dOnv2mFilLeeovBqntGjuuj5ScjfM8p3eHuZU5yuoQsXZXF2qjwmoHLKwk2aXrRg8h4OUdomWLGEIp4CS7K72lKwlOh2MFCvfE9HxNeUm805Ki34tAjl8NEZXZOfURb1mQOoROcvnskt5jAyOqmwq423WbIwfwhGituzelTe/t5YUYtSFtuqLHOyLiST;Gx+btKl3jS8j2xk+77c2Wg=="
 ---

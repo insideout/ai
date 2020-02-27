@@ -80,6 +80,19 @@ related:
       name: The Financial Express
       domain: financialexpress.com
     quality: 34
+  - title: "CyberX Announces Integration with Microsoft Azure Security Center for IoT, Joins Microsoft Intelligent Security Association"
+    excerpt: "According to Michal Braverman-Blumenstyk, CTO and GM, Cloud and AI Security Division at Microsoft Corp.: “CyberX’s IoT security platform and integration with the Microsoft Azure Security Center for IoT enables customers to go further and faster with IoT innovations that drive new revenue streams and operational efficiencies — without comp ..."
+    publishedDateTime: 2020-02-20T18:16:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200220005507/en/CyberX-Announces-Integration-Microsoft-Azure-Security-Center"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 28
+    images:
+      - url: "https://mms.businesswire.com/media/20200220005507/en/774439/23/cyberx.jpg"
+        width: 1200
+        height: 627
 
 secured: "vZrlX1E/eqgT9EQjkSAA1LURj2J1Dpfk1j9KBhTyuB9t/DyivwETvrBSjMWiwZIsX1x+BFVGSSu4REBhSgaagyth6FeS6TuVCMHlE1wB9eq1hrNXno6yvdhnj7IYM9wUrWZN9sduogo/OvAlAOO0UsLvyH869bmIFGAOjedqC2puR4uTyS7BEMnSQgiFOJLjLEtHF2MLZTJmGj/P4TOJwn6VXc8kldwk8KpKP2zrcpLRNh5zmW+HH3n6Z5SweNslBXZuUJ2hY3QMXg4zqz69Mn5zAQR7OZ2xni6s6eRMq4ALbUh/zOo89ZC7VDWk4G2c;n1gJCvldWE/dLqraSE9jyw=="
 ---

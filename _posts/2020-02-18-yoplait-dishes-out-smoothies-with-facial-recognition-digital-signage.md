@@ -63,6 +63,21 @@ related:
       - url: "https://icdn3.digitaltrends.com/image/digitaltrends/facial-recognition-composite-feature-1200x630-c-ar1.91.jpg"
         width: 1200
         height: 628
+  - title: "EU offers strategy for artificial intelligence, facial recognition"
+    excerpt: "A European Union strategy, announced Wednesday, calls for regulations for artificial intelligence and facial recognition."
+    publishedDateTime: 2020-02-19T21:21:00Z
+    webUrl: "https://www.upi.com/Top_News/World-News/2020/02/19/EU-offers-strategy-for-artificial-intelligence-facial-recognition/7841582142531/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/World-News/2020/02/19/EU-offers-strategy-for-artificial-intelligence-facial-recognition/7841582142531/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2020/02/19/EU-offers-strategy-for-artificial-intelligence-facial-recognition/7841582142531/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 74
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/7841582142531/2020/1/b42e564a4b21536345f01e2c67ae7a13/v1.5/EU-offers-strategy-for-artificial-intelligence-facial-recognition.jpg"
+        width: 800
+        height: 532
   - title: "EU imposes sweeping regulations on facial recognition, Artificial Intelligence"
     excerpt: "The proposals could place a temporary ban on all facial recognition in public, create a single market for data throughout the entire EU, and ask for almost $22 billion to invest in A.I.. The new tech regulations have sent Silicon Valley executives, like Facebook's Mark Zuckerberg and Google's Sundar Pichai, to Brussels to lobby the EU's ..."
     publishedDateTime: 2020-02-19T17:26:00Z
@@ -93,6 +108,19 @@ related:
       - url: "https://images.livemint.com/img/2020/02/21/600x338/eec966d0-429b-11ea-a33f-294bb1c02b8b_1582297443566_1582297525165.jpg"
         width: 600
         height: 338
+  - title: "This Senate Bill Would Ban Federal Use of Facial Recognition"
+    excerpt: "On Wednesday, Senators Jeff Merkley (D-OR) and Cory Booker (D-NJ) introduced legislation to place a moratorium on the use of facial recognition by the federal government or with federal funds—unless Congress passed regulations for the technology. The Ethical Use of Facial Recognition Act aims to create a 13 member congressional commission ..."
+    publishedDateTime: 2020-02-19T15:16:00Z
+    webUrl: "https://www.vice.com/en_us/article/5dm54a/this-senate-bill-would-ban-federal-use-of-facial-recognition"
+    type: article
+    provider:
+      name: VICE
+      domain: vice.com
+    quality: 69
+    images:
+      - url: "https://video-images.vice.com/test-uploads/articles/5e4d4c93a6907900980bae0b/lede/1582125274461-GettyImages-51478189.jpeg?crop=1xw:0.84375xh;center,center&resize=1200:*"
+        width: 1200
+        height: 674
   - title: "EU facial recognition rules, air quality satellite, whale earwax"
     excerpt: "Quartz’s interactive email for curious minds. Escape the stale news cycle with forgotten histories, surprising facts, and vital stats."
     publishedDateTime: 2020-02-19T06:25:00Z
@@ -132,6 +160,21 @@ related:
       - url: "https://assets.vogue.com/photos/5e46c4856d8f97000815dd3e/master/pass/VO0320_FacialRecognition_01.jpg"
         width: 4068
         height: 2820
+  - title: "‘No justifiable basis’ for police facial recognition, say MSPs"
+    excerpt: "UK – Members of the Scottish Parliament have said that there is ‘no justifiable basis’ for Police Scotland to use live facial recognition (LFR) technology, citing concerns over privacy, human rights and data protection. The review from the justice sub-committee on policing concluded that technology currently available to the police ..."
+    publishedDateTime: 2020-02-17T14:15:00Z
+    webUrl: "https://www.research-live.com/article/news/no-justifiable-basis-for-police-facial-recognition-say-msps/id/5065352"
+    ampWebUrl: "https://www.research-live.com/amp-page.html?id=5065352&name=no-justifiable-basis-for-police-facial-recognition-say-msps"
+    cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5065352&name=no-justifiable-basis-for-police-facial-recognition-say-msps"
+    type: article
+    provider:
+      name: research
+      domain: research-live.com
+    quality: 59
+    images:
+      - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
+        width: 1000
+        height: 581
   - title: "Russia's 'Big Brother' facial recognition system goes on trial"
     excerpt: "Activists in Russia, who are concerned at government plans for one of the world's largest facial recognition systems, are taking legal action. They fear the surveillance system is being used to target critics of President Vladimir Putin. Police say law-abiding Russians have nothing to fear. Al Jazeera's Step Vaessen has been given exclusive ..."
     publishedDateTime: 2020-02-17T16:54:00Z
@@ -192,6 +235,21 @@ related:
       - url: "https://media2.govtech.com/images/shutterstock_1323541409.jpg"
         width: 1038
         height: 630
+  - title: "Indian government to add facial recognition, iris scan for digital payments"
+    excerpt: "In addition to requiring a password to sign in, the payment apps may also be mandated to add an additional layer of security in the form of facial recognition, Iris scan and checking the location to ensure security of digital payments. While facial recognition is easy, it will not be easy to implement iris scan on smartphones. While Samsung ..."
+    publishedDateTime: 2020-02-17T12:55:00Z
+    webUrl: "https://www.businessinsider.in/tech/news/indian-government-to-add-facial-recognition-iris-scan-for-digital-payments/articleshow/74176902.cms"
+    ampWebUrl: "https://www.businessinsider.in/tech/news/indian-government-to-add-facial-recognition-iris-scan-for-digital-payments/amp_articleshow/74176902.cms"
+    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/indian-government-to-add-facial-recognition-iris-scan-for-digital-payments/amp_articleshow/74176902.cms"
+    type: article
+    provider:
+      name: Business Insider India
+      domain: businessinsider.in
+    quality: 57
+    images:
+      - url: "https://www.businessinsider.in/thumb/msid-74176964,height-275,width-412,imgsize-146190/tech/news/indian-government-to-add-facial-recognition-iris-scan-for-digital-payments/digital-payments.jpg"
+        width: 412
+        height: 275
   - title: "AI and facial recognition in 2020: where’s the line?"
     excerpt: "security and AI ethics to be at the forefront of the conversation. As regulations continue to be made at a city, state or federal level, they will shape the extent to which we can use AI, and how we will approach the “AI race” in this decade."
     publishedDateTime: 2020-02-14T10:08:00Z
@@ -242,6 +300,32 @@ related:
       - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.channel3000.com/content/uploads/2020/02/200207150324-05-clearview-hoan-ton-that-live-video.jpg"
         width: 576
         height: 324
+  - title: "NAB stops work on facial recognition ATMs"
+    excerpt: "NAB has stopped work building facial recognition-enabled ATMs despite technology trials that were initially deemed successful enough to try for a more production-ready machine. The bank showed off a proof-of-concept ATM with facial recognition at the Sibos financial conference in Sydney in late October 2018. It coincided with the bank signing ..."
+    publishedDateTime: 2020-02-18T20:00:00Z
+    webUrl: "https://www.itnews.com.au/news/nab-stops-work-on-facial-recognition-atms-538197"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 39
+    images:
+      - url: "https://i.nextmedia.com.au/News/20200218065827_NAB-ATM-3.jpg"
+        width: 848
+        height: 500
+  - title: "Will banks get caught up in facial recognition backlash?"
+    excerpt: "As consumer advocates, state authorities and national lawmakers line up in protest against facial-recognition technology, banks using it to let customers log in to mobile banking may need to brace for a fight. Last week, 40 consumer advocacy groups — including the American Civil Liberties Union, the Electronic Privacy Information Center and ..."
+    publishedDateTime: 2020-02-18T20:55:00Z
+    webUrl: "https://www.americanbanker.com/news/will-banks-get-caught-up-in-facial-recognition-backlash"
+    type: article
+    provider:
+      name: American Banker
+      domain: americanbanker.com
+    quality: 39
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/f0c6b49/2147483647/strip/true/crop/4800x2520+0+90/resize/1200x630!/quality/90/?url=https%3A%2F%2Farizent.brightspotcdn.com%2F3a%2Ff4%2F88f2092e4460b86bc36e7e95911e%2Fab-021820-facial-1.png"
+        width: 1200
+        height: 630
   - title: "China’s first facial recognition thermometers installed on buses"
     excerpt: "Guangzhou, capital of South China's Guangdong Province, began to install facial recognition thermometers on buses on Tuesday to ensure safer and faster detection of symptoms. The thermometer can measure people' temperatures in as fast as one second and report it to the bus driver, guaranteeing less contact and saving time, especially when there ..."
     publishedDateTime: 2020-02-19T03:27:00Z
@@ -320,6 +404,19 @@ related:
       name: Athens Banner-Herald
       domain: onlineathens.com
     quality: 30
+  - title: "Amazon Exec Defends Facial Recognition Sales to Law Enforcement, Says Would Sell to Foreign Governments"
+    excerpt: "In recent years, Amazon has faced growing criticism from civil rights groups, AI researchers and even some Amazon employees and shareholders for selling its facial recognition technology to law enforcement and discussing it with U.S. government agencies. Some of the same groups have also raised concerns that the technology could in the future ..."
+    publishedDateTime: 2020-02-19T02:40:00Z
+    webUrl: "https://www.pbs.org/wgbh/frontline/article/amazon-aws-ceo-andy-jassy-defends-facial-recognition-sales-law-enforcement-says-would-sell-to-foreign-governments/"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 25
+    images:
+      - url: "https://i2.wp.com/www.pbs.org/wgbh/frontline/wp-content/uploads/2020/02/3812_SG416.jpg?resize=1200%2C630"
+        width: 1200
+        height: 630
   - title: "Why Tech Firms Want (Some) Facial Recognition Rules: QuickTake"
     excerpt: "A group of artificial intelligence researchers last April called on Amazon.com Inc. to stop selling its facial-recognition software Rekognition to police departments after other AI researchers found the company’s software had much higher error rates when predicting the gender of darker-skinned women in images, compared with lighter-skinned ..."
     publishedDateTime: 2020-02-20T13:45:00Z
@@ -329,6 +426,33 @@ related:
       name: Washington Post
       domain: washingtonpost.com
     quality: 21
+  - title: "OPS tested facial recognition software, but doesn't use it"
+    excerpt: "The Ottawa Police Service (OPS) has tested facial recognition technology but hasn't used it, according to the force's deputy chief. Deputy Chief Steve Bell confirmed Ottawa police concluded a three-month pilot with NeoFace Reveal in March 2019."
+    publishedDateTime: 2020-02-15T09:09:00Z
+    webUrl: "https://www.cbc.ca/news/canada/ottawa/ottawa-police-facial-recognition-1.5464964"
+    type: article
+    provider:
+      name: CBC.ca
+      domain: www.cbc.ca
+    quality: 19
+  - title: "Lawmakers Float New Restrictions On Facial Recognition"
+    excerpt: "As controversies about the use of facial recognition continue to swirl, lawmakers across the country are preparing to tackle the technology. California state Senator Hannah-Beth Jackson (D-Santa Barbara), said Thursday she plans to introduce a bill to prevent law enforcement and other governmental agencies from using facial recognition ..."
+    publishedDateTime: 2020-02-17T22:15:00Z
+    webUrl: "https://www.mediapost.com/publications/article/347130/lawmakers-float-new-restrictions-on-facial-recogni.html?edition="
+    type: article
+    provider:
+      name: MediaPost
+      domain: mediapost.com
+    quality: 19
+  - title: "What harm could a ban on facial recognition do?"
+    excerpt: "To access this content please sign in or register below for free"
+    publishedDateTime: 2020-02-19T06:16:00Z
+    webUrl: "https://www.scmagazineuk.com/harm-ban-facial-recognition-do/article/1672714"
+    type: article
+    provider:
+      name: SC Media UK
+      domain: scmagazineuk.com
+    quality: 19
   - title: "Biometrics for financial services, facial recognition integrations and arguments top week’s digital ID stories"
     excerpt: "New bank deployments of biometrics and payment technologies, facial recognition in new integrations and continuing arguments, and applications-specific projects in Africa were among the week’s top biometrics and digital identity news. The biometrics industry seems to be marshaling its arguments against blanket bans and reactionary laws in an ..."
     publishedDateTime: 2020-02-21T22:45:00Z

@@ -5,9 +5,9 @@ excerpt: "\"By moving to a single hardware architecture and software stack for d
 publishedDateTime: 2020-02-26T22:28:00Z
 webUrl: "https://www.crn.com/news/components-peripherals/top-intel-ai-exec-naveen-rao-departs-after-nervana-pivot"
 type: article
-quality: 19
-heat: 19
-published: false
+quality: 119
+heat: 119
+published: true
 
 provider:
   name: CRN
@@ -17,6 +17,6 @@ topics:
   - AI
   - AI Hardware
 
-secured: "kFb740YmJxi0zhEf0jDu7wTVi36JPUxycw1UafW9Bnl01oJdqTRxv6zL78rzcS94RRWAxN8cUtOopYa9KmtHy4mhXI7WEkSAskPTpEvsm8h/5TWMBm8Ql90Zysy5BhrgSbuoQyb1nRF4xQX0FsjE+aKrEjxF/3MEixqAwTqJQGFohY3u2EDQC11r++5NviJpi1cV2zerQzLBHKncVUzWjrkPkokjbBP/UkAbKEMuWvMPr5e5zMGk2PcWZk5VrcKHh+p4KctdRsEDnarvRQMOLZfuKX+3USk6JyUJ1pcZQkYtlhhe3aixJJWzILXeRNQmNLF3nGEhZTnYt5tgyPyR1zXn0HYvOkh0mzA8Bsjx/mle67WGxdbgrPmmAwq87jqNqipSxkbaFT04e/FMqKif9QJ/ojWs8Dw7sCPD5/DnagJVwAjTFMlHFTkgfmCPybEIvL52P7HgV+LYRgbYH9Qa3/N04anRRSxCMIfnPW/gBJg=;qJ4nbi4+YiUi/qZVhqo0+A=="
+secured: "Tb/LRQxNgemnvyiIi7U9tRIkdK7qTeiY4h3KY3ipk8SL+UQjAF6Vgy4dCETbBxS0bVcXNnaopO6ILllrnhtui1Hmxqhew+QpdIBI4OGmLGfY4FjD78eRRghFFgEg2cXa34eWvB0gfylzfj6KImYouRgoyYIjQ61qEN4TJTczsrsrmrqdWJEOuhZzHOL0x8VmMouV/EE2OHrAb3wBCEA6mAAb0znRVzq6MiOL5vIvjyXaTr0EcMoza2rse70r8SzxnXnsqhgRFRW1TZ6c6KdVcx4xt3E10cY/08wYYfSFArNK+EFTVAZ9xRfJu8Xz1zQslhLrZAhEEgM78I8j3/FlFVU6jy5frlrb5yYAPWetHMHgyQ+tT4Y2uq8hjL5BJm4m4TMoLntElIN14/V+yrbWB1a+Lh4wqrPzLQ+VeIsoy+2VLlqRHhJUEf0i+g28Vig9V5nP9T6IboZ/Ww2knvu7jbp3/UnY4Re0WqsFev6nPhNDK8QOL0W7pp0jvDcaXBSp;vvUG0tUMrqmmaJJIkd6afQ=="
 ---
 

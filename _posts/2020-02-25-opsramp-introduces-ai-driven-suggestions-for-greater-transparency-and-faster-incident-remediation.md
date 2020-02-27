@@ -4,12 +4,10 @@ title: "OpsRamp Introduces AI-Driven Suggestions for Greater Transparency and Fa
 excerpt: "The OpsRamp Winter 2020 Release also introduces 19 new cloud monitoring integrations for Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP), along with dynamic topology maps for Azure and GCP. Highlights of the Winter 2020 Release include: AIOps: OpsQ is OpsRamp's intelligent event management, alert correlation ..."
 publishedDateTime: 2020-02-25T08:00:00Z
 webUrl: "https://markets.businessinsider.com/news/stocks/opsramp-introduces-ai-driven-suggestions-for-greater-transparency-and-faster-incident-remediation-1028934454"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/OpsRamp-Introduces-AI-Driven-Suggestions-for-Greater-Transparency-and-Faster-Incident-Remediation-1028934454"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/OpsRamp-Introduces-AI-Driven-Suggestions-for-Greater-Transparency-and-Faster-Incident-Remediation-1028934454"
 type: article
-quality: 56
-heat: 76
-published: true
+quality: 36
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -37,20 +35,7 @@ related:
       - url: "https://res.infoq.com/news/2020/02/opsramp-ai-driven-suggestions/en/headerimage/OpsRamp-AI-Driven-Suggestions-1582702993762.jpg"
         width: 1200
         height: 630
-  - title: "CyberX Announces Integration with Microsoft Azure Security Center for IoT, Joins Microsoft Intelligent Security Association"
-    excerpt: "According to Michal Braverman-Blumenstyk, CTO and GM, Cloud and AI Security Division at Microsoft Corp.: “CyberX’s IoT security platform and integration with the Microsoft Azure Security Center for IoT enables customers to go further and faster with IoT innovations that drive new revenue streams and operational efficiencies — without comp ..."
-    publishedDateTime: 2020-02-20T18:16:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200220005507/en/CyberX-Announces-Integration-Microsoft-Azure-Security-Center"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 28
-    images:
-      - url: "https://mms.businesswire.com/media/20200220005507/en/774439/23/cyberx.jpg"
-        width: 1200
-        height: 627
 
-secured: "xjB51LF/8yQz/GNWp5/zuvqcVzsOLH86Psd9kM7PvTzr/DdMy5Cf/UxX9Q/JBHqsirt5UTZlSxC3bxrGkXg/ypF18MRjaVBLMmsvZhRQ0QMKfJrmaseW/VscWt0qbC1rRXHQbOKzEnbtHs9errT8IY6ZB6qRSsZBWZJaRAvuPvpaObiFKEQnHbEK9ZbnjuqWVNI7bFY/JHYKUuRbLtJ7xU365N52paMDml61srgkSVSq3BvUA8jFuzXXICOge8u7smI6jg3RWdDRfjhad20sLVt4sjKo0uqD4++8zgPUi/lqNtO8dIsrQeo3dzm/EcjL;6CwLWebg9nl10fYYxeRliQ=="
+secured: "aUVNntsdPXyXmQVkh7Sum0yoUsZ/neFKQZ5yyqozL/g9Cr7KLdjtJ++YfScsBx1B7pfqIg6025YDuT7VDj/U+jOfobiVenx6ZU5wjU2uSau18QVOcQP8Nh45JLA/kmzi1Ma/RKDJ0zBCet3mJPpx0xl5p9TH/0viaFJnkdDXVJQpIf9k4/TwX3w5ujXIEkJGgvWLKQT8jkLRJCfqKo40zBLQX39TTjViLxmOP/vHBqGFwDagk2oh+dN2CTN5KhI1OdHxfeNE2F3T/ZAX8riPu+7DnF8Pwbcap7I9kK/QbDWEiw15BieQZhPnPxBKMyBJ;E41i0a5iyvmSL3Z7W9ZKRw=="
 ---
 

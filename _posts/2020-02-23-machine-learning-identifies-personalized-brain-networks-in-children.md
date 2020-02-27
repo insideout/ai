@@ -32,7 +32,7 @@ related:
     provider:
       name: The Next Web
       domain: thenextweb.com
-    quality: 91
+    quality: 191
     images:
       - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/Untitled-design-40-796x417.png"
         width: 796

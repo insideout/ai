@@ -7,8 +7,8 @@ webUrl: "https://thenextweb.com/neural/2020/02/27/robot-uses-ai-to-personalize-t
 ampWebUrl: "https://thenextweb.com/neural/2020/02/27/robot-uses-ai-to-personalize-teaching-of-autistic-children/amp/"
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/27/robot-uses-ai-to-personalize-teaching-of-autistic-children/amp/"
 type: article
-quality: 91
-heat: 101
+quality: 191
+heat: 201
 published: true
 
 provider:
@@ -41,6 +41,6 @@ related:
       domain: sciencedaily.com
     quality: 64
 
-secured: "vgwN04FalYViYWkBN5mVt9NIlcSf1MWvky/n9VUj42r2LrpWP8cR3tZzLyd/CQLomz8gtJhlLmsmNmM0MhDYhBweMJK2ZNIkaoAZuEOfRoEyhhIlrb5bRksQXIPNxGjntcfnDisGUOoK6pc+yT+Dky3+o8LYdGsJ2zR/8USXsqrABpoECWm2NNbAzBEg7HYmyQI6Kp82xR0rrpLwZP0YnRZcurliyK6iqDqY8SiOYgOOTxtoUpg4NSLpLw7V24Pgy2lYIMjrB1aEuIaO4oci9SRXgtg5DIvl9+e7WUpGXOcuzuy59lJjfyq2oxhWvDPuQz9vk2MBTIAkK88HMQ/yyCrxKTOP7YV1/mXL4eKNmRU8BT9Cms3yzC3nyw8g0v2pBBXxBJF2rL+taXfB9d89PUKYE7qdpQvwiuQN2I/Akb7eIQhng4SxYYt03qnqUUvVJV7X6GIOZOvh09ddXu6AU/3RxRQeYW7YXGh5TcvmjLs=;x/RHTCW4tRLHr2j9Vyvj2g=="
+secured: "OODjEyCOW4wBb0wP2DxUdaI9M8qZ9fi0cqONWbWGss+gvsFN7OGFT6kJ6SdBdbbVFQCV5rjzEopHJEZZY9jCPTVFgXs1EaFmgXId2kMKK4Lg8+V8a5IFW8gvrMoRW7nzoD6otMzko0tJpeAWZVI7D7zXGu0u2Izz/0zGtV2NqdVtgn0T2pgevbO6xj8lseuocggq+xKKybitnLlDi4oWL8ChTu5DhML3X5m6sG5q6oHeWqk8s1vF6ss4rRogD6uFnl3OdBsnQnccK2xsDJoDg16BivpohvU+ZD1RLKdx29SMsqNKX/hS6F6UhqBtiij8CP/TXKYsPZmC04nhnfxBO1dfGY9L2tBtTkaeOql817rDMEeSlv7qmc5Gq9cthnUm2b+ffYw3kvrSd2L/80hXbezr3mJWZWRrG1LiWxkKVt4leAmC4adMxeZnI6VWRjkcJdmQfoVgO0Ry+YbmaEA7/XSQe/H2DxnCFJBDTV2o1TcsDQAludIoqj5WGScg/zmR;ssvkefO7S+FMN4CFL0WFkQ=="
 ---
 

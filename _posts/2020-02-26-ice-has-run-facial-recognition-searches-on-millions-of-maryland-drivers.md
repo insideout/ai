@@ -8,7 +8,7 @@ ampWebUrl: "https://www.washingtonpost.com/technology/2020/02/26/ice-has-run-fac
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2020/02/26/ice-has-run-facial-recognition-searches-millions-maryland-drivers/?outputType=amp"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,15 @@ images:
     title: "ICE has run facial-recognition searches on millions of Maryland drivers"
 
 related:
+  - title: "ICE has access to Maryland driver’s license records. State lawmakers want to limit it."
+    excerpt: "Armed with new evidence that federal immigration officials accessed a state database of licensed Maryland drivers dozens of times in the last two years, state lawmakers are proposing legislation to limit their access ... Baltimore County and in the Washington region. “We have seen certain cases where they didn’t have any sort of criminal ..."
+    publishedDateTime: 2020-02-26T14:45:00Z
+    webUrl: "https://www.baltimoresun.com/politics/bs-md-pol-ice-mva-bill-20200227-rsgqqajmwne4hollsz4svgpa6m-story.html"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 94
   - title: "Millions of updated driver’s license photos to fill Ohio’s facial-recognition system"
     excerpt: "Attorney General Dave Yost and Gov. Mike DeWine plan to fill the state’s facial-recognition system — used to help identify suspected criminals — with updated and new mug shots of every licensed Ohio driver. Ohio has about 8.8 million licensed drivers and state ID holders. A task force formed by Yost recommended the step Thursday while ..."
     publishedDateTime: 2020-02-20T19:24:00Z

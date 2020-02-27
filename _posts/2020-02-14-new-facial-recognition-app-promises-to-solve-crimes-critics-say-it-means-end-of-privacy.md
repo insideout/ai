@@ -8,7 +8,7 @@ ampWebUrl: "https://www.foxnews.com/us/new-facial-recognition-app-promises-to-so
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/new-facial-recognition-app-promises-to-solve-crimes-critics-say-its-the-end-of-privacy.amp"
 type: article
 quality: 80
-heat: 100
+heat: 120
 published: true
 
 provider:
@@ -30,6 +30,21 @@ images:
     title: "New facial recognition app promises to solve crimes, critics say it means end of privacy"
 
 related:
+  - title: "Criticism as Modi govt uses facial recognition tech during CAA-NRC protests"
+    excerpt: "a hoodie or a scarf to reduce the risk of being identified by police facial recognition software. Police in the Indian capital and the northern state of Uttar Pradesh – both hotbeds of dissent – have used the technology during protests that have raged since mid-December against a new citizenship law that critics say marginalises Muslims."
+    publishedDateTime: 2020-02-17T15:35:00Z
+    webUrl: "https://arynews.tv/en/facial-recognition-caa-protest/"
+    ampWebUrl: "https://arynews.tv/en/facial-recognition-caa-protest/amp/"
+    cdnAmpWebUrl: "https://arynews-tv.cdn.ampproject.org/c/s/arynews.tv/en/facial-recognition-caa-protest/amp/"
+    type: article
+    provider:
+      name: ARY News Live
+      domain: arynews.tv
+    quality: 57
+    images:
+      - url: "https://arynews.tv/wp-content/uploads/2019/12/Musilms-in-India-protests-2.jpg"
+        width: 750
+        height: 369
   - title: "India's Use of Facial Recognition Tech During Protests Causes Stir"
     excerpt: "MUMBAI/NEW DELHI, India (Reuters) - When artist Rachita Taneja heads out to protest in New Delhi, she covers her face with a pollution mask, a hoodie or a scarf to reduce the risk of being identified by police facial recognition software."
     publishedDateTime: 2020-02-17T14:15:00Z
@@ -52,6 +67,19 @@ related:
       - url: "https://jnswire.s3.amazonaws.com/jns-media/28/0f/193780/Chicago_DaleyCenter_Picasso_Upshot.jpg"
         width: 1280
         height: 640
+  - title: "Polls shows Utahns aren’t concerned about facial recognition software. Lawmakers and privacy advocates say they should be."
+    excerpt: "Many Utah lawmakers were alarmed last year when they learned that federal law enforcement had used facial recognition technology to scan thousands of photos in the state’s driver license database for suspects. Despite the uproar, most Utah residents say they approve of law enforcement searching the state database for suspects, according to a ..."
+    publishedDateTime: 2020-02-13T13:03:00Z
+    webUrl: "https://www.sltrib.com/news/2020/02/13/polls-shows-utahns-arent/"
+    type: article
+    provider:
+      name: The Salt Lake Tribune
+      domain: sltrib.com
+    quality: 13
+    images:
+      - url: "https://www.sltrib.com/pb/resources/assets/img/sltrib_facebook_card.png"
+        width: 1200
+        height: 630
 
 secured: "08eyrW0xX8S7zJMrWWywMfIrKdYYhjoqoDmfcPI0TFUlm98LlbfQT+IkMZsYaCFHahvqwCPPdiVRIMfCybeK94NsaXhWXo1TP8bZwn/D+wJXTWoogMccYjx5R/PtgGXSlw0IVtgCv3CKwsezr91yyWFDxbYNWLyuhHNmZNS9VQfS2HNx3v9dbA/rdOvjHBVKF+NCaNamQIYnugnFgvQX50Z1jtbTfwTJPIXhImtzMqd7Hj8zLLo14vsOeAkcDHvGDD8ITsYq8KDPVWFp4imBM5jGMqU3N4c6st+ascQsRWPtkLgBS0T8AqY2rpKEz253U9izPJ7KTHpbsdjtvf2fByJ57TPkMkRQYwhmKFmVJzjdOlLNaPiE/3RjAcXO7Vf1/Gf9lp7frTkSB7l6mv7j04n0/CJlZr70gGTDOEqsXOZualAEDXcj9N1xBDWrIRg9OSNW8sDI965anGPadjlPv7Wa4/GVghMab3jeuZg+SCE=;Kf9Hq9ii2Vut7IgUlgiZ8A=="
 ---

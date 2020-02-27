@@ -8,8 +8,8 @@ ampWebUrl: "https://www.brookings.edu/blog/techtank/2020/02/26/the-european-comm
 cdnAmpWebUrl: "https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/blog/techtank/2020/02/26/the-european-commission-considers-new-regulations-and-enforcement-for-high-risk-ai/amp/"
 type: article
 quality: 52
-heat: 62
-published: false
+heat: 72
+published: true
 
 provider:
   name: Brookings Institution
@@ -39,6 +39,19 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2020/02/24/pentagon_artificial-intelligence_05973_c0-232-5568-3480_s1200x700.jpg?d042ba9cdffe740cc9608ebfe48d30fe03930ac4"
         width: 1200
         height: 700
+  - title: "European Commission’s AI Regulations Would Limit Possibility"
+    excerpt: "AI drives Tesla cars and helps spot fake news on Facebook. The potential of AI is enormous ... The regulations impose new obligations on companies that gather and use large amounts of data. Research at the Illinois Institute of Technology and the National Bureau of Economic Research found that GDPR has led to a more than 25 percent reduction ..."
+    publishedDateTime: 2020-02-27T21:26:00Z
+    webUrl: "https://morningconsult.com/opinions/european-commissions-ai-regulations-would-limit-possibility/"
+    type: article
+    provider:
+      name: Morning Consult
+      domain: morningconsult.com
+    quality: 39
+    images:
+      - url: "https://morningconsult.com/wp-content/uploads/2017/10/MorningConsult-fb-twitter-meta.png"
+        width: 1200
+        height: 600
 
 secured: "LPvGIhWt9CdG0hB1NubMCxxa65QhioZ4snKAbOZx4MsnQn8VZNlurlO5DIx875at5FrlRzDH4F945aQXgY6A4cuFEWK/V6OFTWzsflUHaJZuhix3W66FVsyoOXrsssgzE0zjelSnaRKF6hxnIFXUBORPN5/IW1pdOZeNm1eNzi8MV2kF9zwbByZclNpE//7sBWYjh2HwglqygzdU6qyIoLyt5vod7XN/AE2qwTgRL76xL7aKwI9Z9OJlwzlZb602xRtBEIObmaW56xCidszf/6aVLmVNIHuViOGBpIZP4z4Qr5cGbfDZo5PMAzvUJwAqQnhOjHeuD9EC5axxPe+pW1HTm0KSyL6boLzZmRCJeeh8TqRsySApf+qfK6JlOViEfyMN5wivFbFC5BP6CfSXOI+/nueFovedJ7Sa797y1ALwQgTB8u7P1iwdHyAJSKkzBptO6Q7Zcg6G2sdUgtUIKC2zp7M6qENT6o4lH+lbXqY=;z0rqfJNEpvrNk9zjzNAhRg=="
 ---

@@ -5,8 +5,8 @@ excerpt: "Download the authoritative guide: Leading Big Data Vendors: Solutions 
 publishedDateTime: 2020-02-07T00:00:00Z
 webUrl: "https://www.eweek.com/big-data-and-analytics/six-data-points-you-should-know-about-federated-machine-learning"
 type: article
-quality: 54
-heat: 54
+quality: 34
+heat: 34
 published: false
 
 provider:
@@ -21,12 +21,6 @@ topics:
   - AI
   - AI in Finance
 
-images:
-  - url: "https://www.eweek.com/imagesvr_ez/b2bezp/2019/05/eweek.logo.DataPoints-UPDATE_2.jpg?alias=social_image"
-    width: 560
-    height: 300
-    title: "Six Data Points You Should Know about Federated Machine Learning"
-
-secured: "c1XBq2X9cVwTyTv2Z0ikbIzLVazOu8iD/wqt+ENmeLrKEY2Gz3O8HY/8Vkjy1G+1UiTbDwiZ5YSYa3EKmEDHihrMk/yfFtjkmO5jXL/9fwR14QCkscGSu6uE6W0BPFldyI80wQqCTGAum4gmbg8lCE0W/jfgCGyTvP2uUpC7O6CH24l8j7wxxdHVdaMrfKcRlmVfjlCicKpwBBVw85nadN9JlSEYY8jfstjn+SqRtjal+dzTDw+kFiNj8garkmc2IqrMoE5fbL813R7uZ4A7948GqnD+20PK85W8sV7cnS7cbpMw7su7FqBp2gQbDeyO;ds8Sp8h7scsuHdl6XB5gQA=="
+secured: "aXm9FnL/20BF3TGfxILURz3p8V72rc9WLEwfT5xw787iHbNFwA4g+nqB3ttKUvWwriKduOFPwij3BB5oTdbc1bPtCCADrX/GVt9sx4anWF0OMGOn5ihjTCvlfiIeX5TRzrouz39zxCulv8D5XQlx8Pk/bzGQeP1c3w59WA6NkSEik2OY/Y1xzPFPIqWGGiQQE9UiAcx6a6zNxdKQww7T0f2o/+YAFZMWQCI7LN3kaKxOLY/TjMYGNpWQ6a0y54ZB2F63g8K9CLeUCKtdfT7ePykP/GlV2p1PQCjjQso9rvB6ewk7QIe6SVFHShUEuksj;ikiJxzYq7UAd55lhRZUNMQ=="
 ---
 

@@ -39,6 +39,21 @@ related:
       - url: "https://video-images.vice.com/test-uploads/articles/5e4daba66b5b2900986d5840/lede/1582148536256-GettyImages-899305840.jpeg?crop=1xw:0.8436405216037368xh;center,center&resize=1200:*"
         width: 1200
         height: 674
+  - title: "Clearview AI facial recognition company faces another lawsuit"
+    excerpt: "The technology is \"Orwellian,\" a new class action alleges. Clearview AI, a controversial facial recognition app being used by US law enforcement to identify suspects and other people, is facing another lawsuit."
+    publishedDateTime: 2020-02-14T00:27:00Z
+    webUrl: "https://www.cnet.com/news/clearview-ai-facial-recognition-company-faces-another-lawsuit/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/clearview-ai-facial-recognition-company-faces-another-lawsuit/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/clearview-ai-facial-recognition-company-faces-another-lawsuit/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 104
+    images:
+      - url: "https://cnet1.cbsistatic.com/img/T7vHUXN92GZ-p8NS6dA-Ll1wLrQ=/756x567/2020/02/14/93a842af-7754-4d73-baf3-c2fd2af66118/facial-recognition-getty.jpg"
+        width: 756
+        height: 567
   - title: "Leak shows EU police aim to create an international facial recognition database"
     excerpt: "The system was proposed by police forces from 10 EU nations, and it could be expanded to cover the US EU police forces plan to build a network of national police facial recognition databases covering every member state, according to internal documents obtained by The Intercept. The report from national police forces of 10 EU member states ..."
     publishedDateTime: 2020-02-24T18:03:00Z
@@ -69,6 +84,21 @@ related:
       - url: "https://cnet2.cbsistatic.com/img/Oz7mCdAo5X1NoCOIXkN3LG0Ws9I=/756x567/2020/02/19/19f84363-9dbf-4ec9-86c1-e95838a79888/gettyimages-992065420.jpg"
         width: 756
         height: 567
+  - title: "US senators propose facial recognition ban (but not for police)"
+    excerpt: "US senators have introduced a bill that would temporarily restrict the use of facial recognition technology — but their proposals fall short of a total ban. The Ethical Use of Artificial Intelligence Act would place a moratorium on federal government use of facial recognition technology (FRT) until Congress passes legislation regulating ..."
+    publishedDateTime: 2020-02-13T13:41:00Z
+    webUrl: "https://thenextweb.com/neural/2020/02/13/us-senators-propose-facial-recognition-ban-but-not-for-police/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/02/13/us-senators-propose-facial-recognition-ban-but-not-for-police/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/13/us-senators-propose-facial-recognition-ban-but-not-for-police/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 89
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/Untitled-design-10-796x417.png"
+        width: 796
+        height: 417
   - title: "Android facial recognition is more secure than you think"
     excerpt: "After running real-world tests of Android's facial recognition on a Pixel 4, Jack Wallen shares his theory of why some people are so concerned about facial recognition. My TechRepublic article How to enable facial recognition in the BitWarden mobile password manager wound up receiving feedback about Android facial recognition--not BitWarden."
     publishedDateTime: 2020-02-14T15:11:00Z
@@ -99,6 +129,21 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/711x543/https://specials-images.forbesimg.com/dam/imageserve/905553688/960x0.jpg?fit=scale"
         width: 711
         height: 543
+  - title: "UCLA backtracks on plan for campus facial recognition tech"
+    excerpt: "After expressing interest in processing campus security camera footage with facial recognition software, UCLA is backing down. In a letter to Evan Greer of Fight for the Future, a digital privacy advocacy group, UCLA Administrative Vice Chancellor Michael Beck announced the institution would abandon its plans in the face of a backlash from its ..."
+    publishedDateTime: 2020-02-20T02:03:00Z
+    webUrl: "https://techcrunch.com/2020/02/19/ucla-facial-recognition-tech/"
+    ampWebUrl: "https://techcrunch.com/2020/02/19/ucla-facial-recognition-tech/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/19/ucla-facial-recognition-tech/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2019/01/GettyImages-979036606.jpg?w=1024"
+        width: 1024
+        height: 682
   - title: "Why concern about facial recognition from brain scans is overblown"
     excerpt: "The privacy concerns arose when a study published in October reported that a facial-recognition software program had correctly matched photos of research volunteers with magnetic resonance imaging (MRI) scans of their head and brain 1. This feat was a technical tour de force, representing important advances in biomedical image analysis."
     publishedDateTime: 2020-02-18T12:40:00Z
@@ -140,6 +185,21 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 67
+  - title: "Raleigh, N.C., Police Halt Use of Facial Recognition Tech"
+    excerpt: "Raleigh PD has stopped using a facial recognition app to identify potential criminals through the Internet, cutting ties with a company that has drawn widespread privacy concerns from the community. (TNS) — Raleigh police have stopped using a facial recognition app to identify potential criminals through the Internet, cutting ties with a ..."
+    publishedDateTime: 2020-02-13T18:39:00Z
+    webUrl: "https://www.govtech.com/security/Raleigh-NC-Police-Halt-Use-of-Facial-Recognition-Tech.html"
+    ampWebUrl: "https://www.govtech.com/security/Raleigh-NC-Police-Halt-Use-of-Facial-Recognition-Tech.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/security/Raleigh-NC-Police-Halt-Use-of-Facial-Recognition-Tech.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://media2.govtech.com/images/facial+(2)1.jpg"
+        width: 770
+        height: 535
   - title: "Chino police and facial recognition technology: 5 things to know"
     excerpt: "The Chino Police Department held a forum on the use of the software and solicited feedback from the community."
     publishedDateTime: 2020-02-15T00:16:00Z
@@ -388,6 +448,17 @@ related:
       name: Sydney Morning Herald
       domain: smh.com.au
     quality: 39
+  - title: "Use of facial recognition tech during protests causes stir"
+    excerpt: "a hoodie or a scarf to reduce the risk of being identified by police facial recognition software. The police in the national capital and the northern State of Uttar Pradesh - both hotbeds of dissent - have used the technology during protests that have raged since mid-December against the amended citizenship law that critics say marginalises ..."
+    publishedDateTime: 2020-02-17T21:34:00Z
+    webUrl: "https://www.thehansindia.com/hans/opinion/news-analysis/use-of-facial-recognition-tech-during-protests-causes-stir-605819"
+    ampWebUrl: "https://www.thehansindia.com/amp/hans/opinion/news-analysis/use-of-facial-recognition-tech-during-protests-causes-stir-605819"
+    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/hans/opinion/news-analysis/use-of-facial-recognition-tech-during-protests-causes-stir-605819"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 39
   - title: "Panel: Add new license photos to facial recognition database"
     excerpt: "COLUMBUS, Ohio (AP) — Additional and better quality driver’s license photos would be added to Ohio’s facial recognition database under a task force recommendation released Thursday. The database, used by law enforcement officers to identify both crime suspects and crime victims, currently includes driver’s license photos taken in 2011 ..."
     publishedDateTime: 2020-02-20T18:47:00Z
@@ -507,6 +578,32 @@ related:
       - url: "https://www.rawstory.com/wp-content/uploads/2019/07/Facial-Recognition-Technology.jpg"
         width: 625
         height: 305
+  - title: "Utahns approve of law enforcement’s use of facial recognition technology, poll says"
+    excerpt: "Many Utah lawmakers were alarmed last year when they learned that federal law enforcement had used facial recognition technology to scan thousands of photos in the state’s driver license database for suspects. Despite the uproar, most Utah residents say they approve of law enforcement searching the state database for suspects, according to a ..."
+    publishedDateTime: 2020-02-13T22:32:00Z
+    webUrl: "https://www.sltrib.com/news/2020/02/13/polls-shows-utahns-arent/"
+    type: article
+    provider:
+      name: The Salt Lake Tribune
+      domain: sltrib.com
+    quality: 33
+    images:
+      - url: "https://www.sltrib.com/resizer/iFmO0DFWKR3zMKsiE5alRNtjthU=/1200x630/filters:quality(85)/arc-anglerfish-arc2-prod-sltrib.s3.amazonaws.com/public/2OK3GJJIGBH5HLSXCGLHZNE4LI.jpg"
+        width: 1200
+        height: 630
+  - title: "Sens. Merkley, Booker Introduce Moratorium on Government use of Facial Recognition"
+    excerpt: "Sens. Jeff Merkley, D-Ore., and Cory Booker, D-N.J., introduced the Ethical Use of Facial Recognition Act on Feb. 12 which would institute a moratorium on all Federal use of facial recognition technology until Congress passes legislation outlining “specific uses for the data” collected. “Facial recognition technology is both a powerful an ..."
+    publishedDateTime: 2020-02-19T14:38:00Z
+    webUrl: "https://www.meritalk.com/articles/sens-merkley-booker-introduce-moratorium-on-government-use-of-facial-recognition/"
+    type: article
+    provider:
+      name: MeriTalk
+      domain: meritalk.com
+    quality: 33
+    images:
+      - url: "https://cdn.meritalk.com/wp-content/uploads/2019/01/facial-recognition-2-min.jpg"
+        width: 800
+        height: 450
   - title: "Privacy rights groups call for ‘day of action’ to ban facial recognition at all schools"
     excerpt: "Fight for the Future (FFTF) and Students for Sensible Drug Policy are organizing what they call a ‘National Day of Action to Ban Facial Recognition from College Campuses’ on March 2. FFTF and other groups have also called for and have actively been lobbying for a total federal ban on facial recognition technology, although there has been ..."
     publishedDateTime: 2020-02-19T18:13:00Z
@@ -520,6 +617,24 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2017/07/25183012/Chincotech-facial-recognition.png"
         width: 623
         height: 432
+  - title: "Protestors in India Concerned by Use of Facial Recognition"
+    excerpt: "Protestors in New Delhi are covering their faces now that the police have begun using facial recognition software to identify people. This has been going on since the middle of December when outrage began with the new citizenship law that people feel ostracizes Muslims. Now activists worry that facial recognition is an abuse of power and the ..."
+    publishedDateTime: 2020-02-19T06:51:00Z
+    webUrl: "https://www.cloudwedge.com/news/protestors-in-india-concerned-by-use-of-facial-recognition/"
+    type: article
+    provider:
+      name: Gazoo
+      domain: cloudwedge.com
+    quality: 19
+  - title: "Is the facial recognition technology used by GTA police illegal?"
+    excerpt: "The facial recognition technology that at least three GTA police forces tested may be illegal, according to one of Canada’s most powerful privacy regulators. British Columbia’s privacy commissioner and three of his counterparts are weighing whether to launch an investigation into the threat to Canadians’ rights posed by Clearview AI ..."
+    publishedDateTime: 2020-02-20T01:14:00Z
+    webUrl: "https://www.thestar.com/news/gta/2020/02/20/did-police-break-the-law-by-using-controversial-face-recognition-app.html"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com
+    quality: 19
   - title: "Met Police Boss Slams Facial Recognition Critics"
     excerpt: "The head of London’s Metropolitan Police has fiercely defended her force’s use of live facial recognition (LFR) technology, arguing that privacy rights have changed in an age of social media and that some critics are “highly ill-informed.” Speaking at think tank the Royal United Services Institute (RUSI), Met Police commissioner ..."
     publishedDateTime: 2020-02-26T11:20:00Z

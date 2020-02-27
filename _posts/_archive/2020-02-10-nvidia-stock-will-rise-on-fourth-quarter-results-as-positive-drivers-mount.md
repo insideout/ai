@@ -4,11 +4,9 @@ title: "Nvidia Stock Will Rise on Fourth-Quarter Results As Positive Drivers Mou
 excerpt: "I believe that Nvidia’s 2020 guidance will be boosted by its very strong position in artificial intelligence and autonomous ... NASDAQ:GOOGL) Waymo has been offering rides in its true driverless ..."
 publishedDateTime: 2020-02-10T21:18:00Z
 webUrl: "https://markets.businessinsider.com/news/stocks/nvda-stock-rise-q4-earnings-results-1028890657"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/nvda-stock-rise-q4-earnings-results-1028890657"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/nvda-stock-rise-q4-earnings-results-1028890657"
 type: article
-quality: 52
-heat: 52
+quality: 32
+heat: 32
 published: false
 
 provider:
@@ -23,6 +21,6 @@ topics:
   - AI
   - AI in Autos
 
-secured: "v/AfLke1kfvbAHeayLLjosy5SZ59azOxIeYuDILk5UDd8W7S8wI1OrIRNVZHzq9WEKHwswoi5zzhr+ppgmTyX95hJU7QLea1s2HIUXOH2UQJUecU1tTs3qrdQr/Vxi8oZe84BNTU+9MONfyZ06KS/zaRPgLijdc2YSJyyIomYAOCUFRzvzeQZXbMpFs6LJlb5oWqWu3/qQa9SN/JzecUUaR2lhxwNmLf4df9AGA7xZBaBgu8MCtzp5XPn2dD1rA/c5qaFQoxrEaSCvKJi27FAJhCa51gumzGaalBYNwlcdQmSGWC2JKLUNs/AAkrSCbr;mhRCrGGAxZw/vhadrkGY6Q=="
+secured: "oBg1UorBZFeOEmjE0mEdDD6QRmJ/csx+MgddrzYdXLsDAsdzl7fmxzJVasZDuJxNZschfHQx7Wbb6iPVt4vwCl7xT/DsN7XlgDRusADi9XjVR2Ds2JITZJkH3GpGs7XZaoapeaShWIw3EwiloPR4LAYtdiUHhukJuTA25DIK2TE22SR/S8+Q3KoWJON3ZDk6CGq5g5DpN5+H7VLIKwremehKvAl83fFYQ6VOljEWSry8tPSnpFhvc9oC0iP+dS6ogWuK7+kpw/4xNdEAHPhVB3ynO932HWR1m2jBHQzKZ1ZpU6tGlRvSSACNASnK+wBm;MOy4SmDQag0WiINE3S8XYQ=="
 ---
 

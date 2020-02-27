@@ -34,7 +34,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 100
+    quality: 200
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2020/02/openai-jeff-clune.jpg?fit=1800%2C900&strip=all"
         width: 1800

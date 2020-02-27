@@ -7,8 +7,8 @@ webUrl: "https://www.techrepublic.com/article/artificial-intelligence-uncovers-o
 ampWebUrl: "https://www.techrepublic.com/google-amp/article/artificial-intelligence-uncovers-outrageous-employee-expense-reports/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/artificial-intelligence-uncovers-outrageous-employee-expense-reports/"
 type: article
-quality: 87
-heat: 87
+quality: 187
+heat: 187
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 907
     title: "Artificial intelligence uncovers outrageous employee expense reports"
 
-secured: "iwHGpUCpWZV4f+fVd5AoQhv9cYxfJoxPF9Gx0r9DB9vkwk7sPGIj7XrUPdiU30tMlRpMN0dSQRoE75de6DZ0QjtGfX6VTRulNls6BvqLbgyZMABMDweR4JW9LDpyEGzieZyOm8vJifX+5t6xu6/LPauPn6cf/GzwagGtzz+8d+W/oeKJr9XSDHb1Y6IwPMypovC1mAjIr5lwdBrVwgGwLYmbuXncyz+iBuhFBP7t9GkDxQLNxlf9ZC0l3cn11/6VNEPuENEfE6CQDSERTc2cMJSBwVUOIJazjTvjpPgKWowB8ATO0aaBp4vM4ykKIvfeQeXLqatGhtEcuX/yqpS5NfZMo4Ihltxa+czXs7+/NJjlqS+T2LbgGUetkylndR8d/c86l9UYnyQ5RpoVi3JsCdqisCZQ17b7UHm8zYw7bJnqnDQMJFMMgHgRyn1sLe7JnNXyufciY3SXnRJCHOs8rIa44S4oqBqXJHMjBvarNjM=;XJXtKGyLEoaBYd56RwemoQ=="
+secured: "2GiVn9VX6VCypNJPHH2qCB/it3BFSNl1hzx7TkOAUu9DSYItTvqRCjlDZ9yELdOc6hn2Mw09gVoFr6I0Dlo8tjZykFFK7mIAh0cTRYOV42x0W1PAr2IPdny9ldlTGiwgLSl6YZpfdxVRSyO/rom8DBWk3a/MjaXSKHvV5uhAoBkpZy4w5vQSz5FD2IicKVfCR9zM5nmslbyDE05u4bINMGbfOfofl4lsG9OmIfczyPVFcI+PwKsNyBDduGpJUmeoYwRwVyGdnm+EZHURvSe2tydhVLMzUksiwGK7v9pX5/upbbOKMnmo+9l2CN4nF2casDYzqtNDRicNSLpXeLup5QX/Sl9WxczarIu7r3EtJn+FsCcS33XMlXjadwQME8zgfOB37J+6Hc8IqABbBmQaj6yKB1/6DxZhMtueuxYButQ+bA3e6KFyf8/wWr6zbZoV4FG92Acfy8r7GVyfhsQlh2HCMCbB8nims/siE/bL1ojgTTw/DpfNcQqKa1mgJJDZ;NwumJVyq95IlKnDeBqiIkw=="
 ---
 

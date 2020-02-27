@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/02/26/the-rudest-driver
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/02/26/the-rudest-drivers-tend-to-drive-these-car-brands-which-ai-self-driving-cars-ought-to-keep-in-mind/amp/"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -73,6 +73,15 @@ related:
       - url: "https://www.embedded.com/wp-content/uploads/2020/02/img20200225095655EETimes-Putting-AI-into-the-Ed_0.jpg"
         width: 640
         height: 527
+  - title: "Cruise Automation's self-driving cars can now carry passengers"
+    excerpt: "General Motors' Cruise division received the OK for testing in California. Aside from the lidar emitters up top and the livery on the side, you'd have a hard time telling this Bolt EV apart from a regular one."
+    publishedDateTime: 2020-02-27T20:17:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/cruise-automation-self-driving-cars-california/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 34
 
 secured: "4uwvz68K0J3ALIjThiQU/QAHWry1QPEJFvoZgr1EVhq2Vtft14MMnjg5yQiLMitl1k8DQpyJUR90zH600Tt8ziVpwVbNlTcPqWXc4WfUs/kQameQZ6/OLOychbqzUQC5RGCinXpx7b8eIbsWSKtJ5bz+HbpEh4zWIsAcYHgCxXP8Pvhpv1TFXwUocQ2FVU9hWVbJRyopDXKOlGdkThewNCEIJuRVjn4aX0bej3MhKHB/q7JBdpsZEA992XaVCfmoLq8OZeQEfB4dK7a6KghuGlcbImzju4OmyBm/14P5JdwLj7eipi70mCgD5DVMND+2xB+F2or0I16ZaPBwjQSfLT2z9WceWTQRF0GMGKL/fmygUTQ+GZCxIP1fvhglJZEuTQOB1zQjB3WTLOuYi4a13pE21aQLM3CZQUGrkz77iacxO6SludRDWwbntQE+5RY6wapzLVRwqGr5hThWop0gYFB9G6Mc27ofDwTAOUK/v1c=;cp4bnzCINtEz6dcQMCVYsA=="
 ---

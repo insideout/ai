@@ -8,7 +8,7 @@ ampWebUrl: "https://futurism.com/pentagon-ai-ethics-dod-warfare/amp"
 cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/pentagon-ai-ethics-dod-warfare/amp"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -67,6 +67,19 @@ related:
       - url: "https://triblive.com/wp-content/uploads/2020/02/2377266_web1_2377266-5a2ee9d1ab2546ab8f055f25d1597576.jpg"
         width: 640
         height: 427
+  - title: "Pentagon Confirms Alka Patel to Lead the Implementation of Its New Ethical AI Principles"
+    excerpt: "For seven months prior to that, from July 2019 through to 2020, Patel worked as a research intern at the Montreal AI Ethics Institute. She also previously served as Commissioner of the Pennsylvania Governor’s Advisory Commission on Asian Pacific American Affairs and Executive Director of Carnegie Mellon University’s Risk & Regulatory ..."
+    publishedDateTime: 2020-02-27T20:32:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2020/02/pentagon-confirms-alka-patel-lead-implementation-its-new-ethical-ai-principles/163386/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 45
+    images:
+      - url: "https://cdn.nextgov.com/media/img/upload/2020/02/27/shutterstock_1475534549/open-graph.jpg"
+        width: 400
+        height: 400
 
 secured: "Y4KRs8f13W23SSNhbXtqmMZT3Ck1kR2Pm8u6bXNwcW2ZNp1bWIFVJv5rPSzza6p3segQAN2pIRmb8PIxlt3bt1UEA9gnXgLjZPTKDPoGjGm5KV/iMwU42pLyQ5IQeEJK6sEU4glKh46FL9F7hxD3w62tu6gqAyJHaY5Jsv74WzWjcuLGwyvnzKGkIlnIiFJw6QS2ThPD1Rg9p8jQd0p6iiRibHQzs9I/crL1ZByT4m3ryBMKG1T/wic0ndsShqbxfzUDQuo7J5LNzA4qTmFjOq/CTZuCqcNFzMg3AwQNUoZMCvrN9xANk7C9tTY9EHDH1I2MrsdHM1cuWoDGchuv66XJ7Bl6FeJuDJhI4p6WahxUyNXjU+Z5LziQ2btOb+l8cK71mw6rrpygy7qovEzWDJPh61slD59PSQ1HshRq47wHOy5NixzFonyNltcZeI6+QBAIhMlDsjkgOaJV2VJP1jL2trC/SZpSuu65N2/7Ktw=;MtvtEU5Py9Er/dbVo8mSAw=="
 ---

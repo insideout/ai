@@ -34,19 +34,6 @@ related:
         width: 1200
         height: 800
   - title: "ClearDATA Comply™ for Microsoft Azure Enhances Sophistication of PHI Protection"
-    excerpt: "in healthcare including Azure Kubernetes Service (AKS), Azure Machine Learning as well as PaaS based services like Azure SQL. ClearDATA is a Microoft Gold Partner and has offered managed security, compliance and privacy solutions on Microsoft Azure since 2015. ClearDATA will further collaborate with Microsoft to support its sensitive data ..."
-    publishedDateTime: 2020-02-19T16:53:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-cleardata-complytrade-microsoft-azure-enhances-sophistication-phi-protection-/2020/02/19/9100677.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 50
-    images:
-      - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
-        width: 252
-        height: 335
-  - title: "ClearDATA Comply™ for Microsoft Azure Enhances Sophistication of PHI Protection"
     excerpt: "in healthcare including Azure Kubernetes Service (AKS), Azure Machine Learning as well as PaaS based services like Azure SQL. ClearDATA is a Microsoft Gold Partner and has offered managed security, compliance and privacy solutions on Microsoft Azure since 2015. ClearDATA will further collaborate with Microsoft to support its sensitive data ..."
     publishedDateTime: 2020-02-24T23:03:00Z
     webUrl: "https://apnews.com/bedb826ee85241a5b89c8c4ddb88174e"
@@ -85,6 +72,15 @@ related:
       - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/OldFashionedMicsBig.jpg"
         width: 1665
         height: 1158
+  - title: "ClearDATA Comply for Microsoft Azure Enhances Sophistication of PHI Protection"
+    excerpt: "in healthcare including Azure Kubernetes Service (AKS), Azure Machine Learning as well as PaaS based services like Azure SQL. ClearDATA is a Microsoft Gold Partner and has offered managed security, compliance and privacy solutions on Microsoft Azure since ..."
+    publishedDateTime: 2020-02-19T16:00:00Z
+    webUrl: "https://www.financialbuzz.com/cleardata-comply-for-microsoft-azure-enhances-sophistication-of-phi-protection-6/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 30
 
 secured: "HN/rtRchDBIBLwVMdFO3LJSnCou+CopTJ/XWexuUAmi+KL5vCPBAoAqXt6TpsdmacAu9UufMWZz0frTx8iV+OKdrK7lkOK+rjhmArQgokpquapkc/2MkSYnMNS0sv8LPjDLJMaC6OubR3cfLmA4+XGjp7aldIi9vxmK8CuTrJ96HaTjJ6p6zcBQ/mrG/fg87ILMU71QBWnMs8Rt+IqxV3juTo0mk5BcybFe7zQnxJAvt0ECrn9bF7Yr1l+iKuNRKVvn9vjEdppgG+iAbjE8E6NbHHnDx55LZKhw+s253/yP7VlnYELa9C7PK2KktTajq;deS3AvNVNiCeCHPDIBz1tA=="
 ---

@@ -48,6 +48,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 40
+  - title: "Deltec Bank, Bahamas Says FinTech Bringing Sweeping Changes in the World of Banking and Finance"
+    excerpt: "FinTech — or financial technology — has become a big player in the world of banking and finance. What started as the technology used in back-end systems of banking and financial institutions has morphed into consumer-oriented services."
+    publishedDateTime: 2020-02-27T20:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deltec-bank-bahamas-says-fintech-bringing-sweeping-changes-in-the-world-of-banking-and-finance-2020-02-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
 
 secured: "OI0+q9GkaZEWpAodpBpB7eVnMcsCVKOdx+kZ/zapno3iVLy4YknvvdDF7nH5GkKBxHdjiT1XOI0BB5KBrbKJeb7aOQnOe3LgH2YtdO4dlofy7s6965Hr4aFF0qpe2YkxaPxb7niM2WEAkXfSXgfYgc2uecVQ+dkkUqOYw1REIO4/WkR+YJjJ4NmrceiuID9ZqfQqGD2aFzV2gKKfLX4+eqEWRz4TtMrWHXzSTv+VHoDWnS6U7+LJz+bRdghP0gMMqATSL61CZKEFmPeJD3J+7mfoHU0pMT3RsXnpCdcicr4H234fzsAwdBQszwJdWwJ8sCjPtOxzB8Tt8SZP7/oy37S8/K7KE9s00sf6e02YvtQnJ17AHG50e0jFLuqgFH/2X7N6EJqWSzHSv8DjgZxVMc26f4jnu1EnkLfJpK1Bu245kUFfdEF6DZpzDpFA7JSvy829LTKHNvIx8WZ428thVFMcSoddUQTkyK7xdtDE23c=;R6TLtm2NWZym6mqsb01Uvw=="
 ---
