@@ -45,21 +45,6 @@ related:
       - url: "https://s.marketwatch.com/public/resources/images/MW-HD183_waymo_ZH_20190201153208.jpg"
         width: 890
         height: 501
-  - title: "A former Waymo driver has been accused of intentionally causing a collision with one of the company's self-driving vans"
-    excerpt: "An ex-Waymo driver was arrested in Arizona on Wednesday after police said he intentionally caused a crash with one of the company's self-driving minivans last month. Tempe police said Raymond Tang, 31, \"targeted\" two Waymo vans, recklessly driving his Mazda around them before braking abruptly in front of one, causing it to rear-end his vehicle."
-    publishedDateTime: 2020-02-13T00:00:00Z
-    webUrl: "https://www.businessinsider.com/former-waymo-driver-arrested-accused-of-intentionally-causing-crash-2020-2"
-    ampWebUrl: "https://www.businessinsider.com/former-waymo-driver-arrested-accused-of-intentionally-causing-crash-2020-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/former-waymo-driver-arrested-accused-of-intentionally-causing-crash-2020-2?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 65
-    images:
-      - url: "https://i.insider.com/5e45e27a3b62b725f9357f95?width=1200&format=jpeg"
-        width: 1200
-        height: 600
   - title: "Ex-Waymo driver accused of deliberately causing crash"
     excerpt: "Waymo officials said Tang “engaged in similar conduct ... days before the bloc is expected to release new proposals on regulating artificial intelligence. The billionaire social network founder is the latest U.S. tech executive to make the trip to ..."
     publishedDateTime: 2020-02-13T21:33:00Z

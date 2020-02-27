@@ -2,24 +2,26 @@
 category: news
 title: "UNISOC Launches New-Gen 5G SoC T7520"
 excerpt: "Using cutting-edge process technology, T7520 enables an optimized 5G experience with substantially enhanced AI computing and multimedia imaging processing capabilities ... T7520 has four Arm Cortex-A76 cores and four Arm Cortex-A55 cores with an Arm Mali-G57 based GPU, providing an incredible streaming and gaming experience at 5G speeds."
-publishedDateTime: 2020-02-26T15:02:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/unisoc-launches-new-gen-5g-soc-t7520-1028941941"
+publishedDateTime: 2020-02-26T15:08:00Z
+webUrl: "https://www.tmcnet.com/usubmit/2020/02/26/9105046.htm"
 type: article
-quality: 34
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
   - AI Hardware
+
+images:
+  - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
+    width: 252
+    height: 335
+    title: "UNISOC Launches New-Gen 5G SoC T7520"
 
 related:
   - title: "UNISOC introduces new-gen 5G T7520 SoC"
@@ -51,6 +53,6 @@ related:
         width: 640
         height: 427
 
-secured: "QF11fiQPc4dfTRoE+KvooJc0oJ9U24I0SFMPfhTPS/dU1cGQfxUFTjvqdYVk5g9eo1fEjSdAjdW0ErGGSOCXzIUbYFyhE/vMwkMWi2wXqo7jp4wW4l9FIC8cxCh08DMQcHWxrYaF4KfbRkIxdfgozo5kyXp6EjNu2pXn1+D4xmpYMXdxbRRQW/s8/BT30AdxdnirQ61Xc+dZjyKjJR5uFqEDfTRv8LStftdTcFAIsNP4pQ/LXrLRxIEVfEnAodwmMiMYWR6EVuCJbev95TkGF97wIC3OGH7/LxTXoX3LcG50X4lcIjW/TBvLOvBKTao5;R93ME75Pe9MZYMOfo6dTvw=="
+secured: "x8CBJyXgqyJNSUFiYXJrV4F9aGmTLyq1zw2qjOfRT5Djd6zdQpyYsPuMYmrt4qExOPCGWIrTsmJVDa3GzH4XeO9fQSRbYA+nHFNBiz6c9nSIIvPJnBqf4I24Xlx0RciCvflq4ggU2DmEHduWmVV7w0MS33ZK4ARzMPhB1faP3blWcWBGU3Br9x+Bd4zWbpqYKdbKgH5xw4tpqqnA6htjjVphDG14HYHQdUIxbH7jgrNdVDirLY6G3WwpE9NALkBKEDNYkB9+wszqSFMVbJpNuSwU3CC2ngXzDB5hm4SQ5zqjmNaIgSmML9VjEfSVx/MN;UD3UZGC0m54Ef8lnat7fYw=="
 ---
 

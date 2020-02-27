@@ -69,18 +69,18 @@ related:
       domain: indiatimes.com
     quality: 37
   - title: "IBM Services and C3.ai Announce Strategic Alliance for Digital Transformation With AI"
-    excerpt: "\"The combination of C3.ai, IBM Services, and IBM Watson can help businesses rapidly embed AI into their critical workflows, enabling our clients to move to the future at pace.\" \"Businesses working to transform amid ongoing market disruption require partners with the industry expertise, proven platforms and services experience to help them fast ..."
-    publishedDateTime: 2020-02-27T15:26:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-ibm-services-c3ai-announce-strategic-alliance-digital-transformation-/2020/02/27/9106019.htm"
+    excerpt: "“The combination of C3.ai, IBM Services, and IBM Watson can help businesses rapidly embed AI into their critical workflows, enabling our clients to move to the future at pace.” “Businesses working to transform amid ongoing market disruption require partners with the industry expertise, proven platforms and services experience to help them ..."
+    publishedDateTime: 2020-02-27T15:22:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200227005645/en/IBM-Services-C3.ai-Announce-Strategic-Alliance-Digital"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Business Wire
+      domain: businesswire.com
     quality: 32
     images:
-      - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
-        width: 252
-        height: 335
+      - url: "https://mms.businesswire.com/media/20200227005645/en/710054/23/C3_Logo_300_black.jpg"
+        width: 1200
+        height: 627
 
 secured: "Iwk37KQmwvwVGevMnP1JjH96lLnIybvZQ+bUNbNgUVIYthLfVCRjrjkxpE4JEsqTJCYRmPkbigMur5+uZKlqJYog38/akROyAyoMvGf2VUzVBStDvHLagPFsbgX8qyYrOMfKFhRjZiUT8gPRIBKpdmJJGeZNNhcliUtS2x/Ic6Qdu7ddAygCirbnq9zlhGL7Z2dQVPFbLwyRh9BacLTlFtBeNOp39QkSyR9JucMToFxe8ORH/wPe5tCp7U1su46mRtQBVP87S0X0i49Idp+2AlVbioHpg62qLLJvrNRdr6/7dYBmumFHxIfreoEp3Oda;WU2GuPdfyJZ6DLNwvD8/eQ=="
 ---

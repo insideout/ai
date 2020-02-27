@@ -123,6 +123,17 @@ related:
       name: Governing
       domain: governing.com
     quality: 39
+  - title: "ICE permitted to run facial recognition on millions of Maryland drivers"
+    excerpt: "U.S. Immigration and Customs Enforcement was granted permission to access millions of photographs from Maryland driver's licenses. The agency is using facial recognition technology to examine driver's licenses issued in Maryland, without obtaining court or state approval. The Washington Post reports that 275,000 licenses were issued to state ..."
+    publishedDateTime: 2020-02-27T16:06:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/ice-permitted-to-run-facial-recognition-on-millions-of-maryland-drivers"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/ice-permitted-to-run-facial-recognition-on-millions-of-maryland-drivers?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/ice-permitted-to-run-facial-recognition-on-millions-of-maryland-drivers?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 39
   - title: "EU poised to create massive transatlantic facial-recognition database, link with US"
     excerpt: "The EU is laying the groundwork for a massive international facial recognition database that may someday hook into the one maintained by the US, according to leaked internal documents. National police forces of 10 EU member states are calling for a legal framework to create a massive system of interlinked facial recognition databases “as ..."
     publishedDateTime: 2020-02-22T02:24:00Z
@@ -170,6 +181,6 @@ related:
       domain: mediapost.com
     quality: 15
 
-secured: "X5M183Fvug5PIgcpA9gZx9wzoMZGzChUaGFeQq1OHIvc2PpI5YHgYsotTMOENXv36VF0F0BFzLhz+MSCDCz20y9hWRRLRGuj8ooICErT7lODuisQZ7jF6XVzj2/ACzxzWvXdGUSjYOTCf/ltvrWJW+Aw2UCTIts3GGG6LdEo5gqIiibKSJD6k7s7uUZ/aKksMv5A7KLvkceU442r2lRi89jKMFoH878IRAm7iB1U5rhkGwGy3LkV3ahzdlpXHp8N4hiOKIWax0Edr+QOh+mRNECyxqBG72pLpvYASzJbIiPUL0PE5wGO1p9Fyg/95g6P;C5FPz79MOGL3buNnWDShvQ=="
+secured: "C53Kq4YvKZdWt7GYCxcY4J83XBbDt1vXHqoXVU0Qg4k4bgJQ46WYx0DnCWEiH9yY+Dxi9gJSR+Ux5+3sMFtVpRR6lP8Enpyt5Kuay3PDD1IfkpWxvV7jVPgj/fBizDQ4wfaGR6DMmM43pJAo0vjzAkWaht/cBB6WnD1I0BbVBq9Ol5dMh21CJnd7597WUHIKaeOlvIZ3bOjUPHESP4lY/a+MigJDAW2BuH6PJvq6IbgHWnSgqrxJSKiH6sUBryTu6tlFdpX8vI0XF2eA0TgmAcdNg5eJO3tOebFpHFhEAZzgwh90WKA5PdEZIj3fM8arJkdO0Q1TnG7NM2S+IXzcT31ZjPGO3933e8aeR16vtR4EWJ7qvCirINGqsPhj74myaMFDOMTwIDG2PX9mPvLkTr/LGhuryhdeVlZHzoK8eZ+bd6yG5BsGTr08+Di7bMNRd0XesH7byM5va5I0HB4Pv0MZKcP114Uljpz+LRVXSww=;oaKHclxT+VffU+AbrSJrKA=="
 ---
 

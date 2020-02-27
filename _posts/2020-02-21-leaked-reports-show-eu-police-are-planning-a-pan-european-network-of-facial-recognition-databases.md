@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-21T17:08:00Z
 webUrl: "https://theintercept.com/2020/02/21/eu-facial-recognition-database/"
 type: article
 quality: 126
-heat: 236
+heat: 246
 published: true
 
 provider:
@@ -122,6 +122,17 @@ related:
     provider:
       name: Governing
       domain: governing.com
+    quality: 39
+  - title: "ICE permitted to run facial recognition on millions of Maryland drivers"
+    excerpt: "U.S. Immigration and Customs Enforcement was granted permission to access millions of photographs from Maryland driver's licenses. The agency is using facial recognition technology to examine driver's licenses issued in Maryland, without obtaining court or state approval. The Washington Post reports that 275,000 licenses were issued to state ..."
+    publishedDateTime: 2020-02-27T16:06:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/ice-permitted-to-run-facial-recognition-on-millions-of-maryland-drivers"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/ice-permitted-to-run-facial-recognition-on-millions-of-maryland-drivers?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/ice-permitted-to-run-facial-recognition-on-millions-of-maryland-drivers?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
     quality: 39
   - title: "EU poised to create massive transatlantic facial-recognition database, link with US"
     excerpt: "The EU is laying the groundwork for a massive international facial recognition database that may someday hook into the one maintained by the US, according to leaked internal documents. National police forces of 10 EU member states are calling for a legal framework to create a massive system of interlinked facial recognition databases “as ..."

@@ -77,7 +77,7 @@
       "path": "_posts/2020-02-20-study-uses-machine-learning-to-identify-personalized-brain-networks-in-kids.md",
       "title": "Study uses machine learning to identify personalized brain networks in kids",
       "excerpt": "Machine learning is helping Penn Medicine researchers identify the size and shape of brain networks in individual children, which may be useful for understanding psychiatric disorders. In a new study published today in the journal Neuron, a multidisciplinary team showed how brain networks unique to each child can predict cognition. The study ...",
-      "heat": 92,
+      "heat": 82,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.news-medical.net/news/20200219/Study-uses-machine-learning-to-identify-personalized-brain-networks-in-kids.aspx",
@@ -760,43 +760,6 @@
       ]
     },
     {
-      "path": "_posts/2020-02-21-edmodo-partners-with-ibm-watson-education-to-close-learning-gaps-using-ai.md",
-      "title": "Edmodo Partners with IBM Watson Education to Close Learning Gaps using AI",
-      "excerpt": "Before it's here, it's on the Bloomberg Terminal.",
-      "heat": 93,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bloomberg.com/press-releases/2018-07-16/edmodo-partners-with-ibm-watson-education-to-close-learning-gaps-using-ai",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-21T10:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-21-elon-musk-jeff-bezos-and-star-trek-collide-in-uncanny-deepfake.md",
       "title": "Elon Musk, Jeff Bezos and Star Trek collide in uncanny deepfake",
       "excerpt": "Bezos transforms into an alien and Musk becomes the captain of the USS Enterprise. SpaceX founder Elon Musk dreams of space exploration. Blue Origin and Amazon founder Jeff Bezos also looks to the stars.",
@@ -1148,7 +1111,7 @@
       "path": "_posts/2020-02-21-leaked-reports-show-eu-police-are-planning-a-pan-european-network-of-facial-recognition-databases.md",
       "title": "Leaked Reports Show EU Police Are Planning a Pan-European Network of Facial Recognition Databases",
       "excerpt": "the EU could soon be creating a network of national police facial recognition databases. A report drawn up by the national police forces of 10 EU member states, led by Austria, calls for the introduction of EU legislation to introduce and interconnect such databases in every member state. The report, which The Intercept obtained from a European ...",
-      "heat": 236,
+      "heat": 246,
       "tags": null,
       "type": "article",
       "webUrl": "https://theintercept.com/2020/02/21/eu-facial-recognition-database/",
@@ -2132,6 +2095,43 @@
         "AI",
         "Microsoft AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-24-applications-of-photodetectors-in-robotics.md",
+      "title": "Applications of Photodetectors in Robotics",
+      "excerpt": "For now, security robots aren’t able to adequately replace a human security guard ... In 2017, the US Department of Defense launched Project Maven, an initiative to leverage artificial intelligence to classify and analyze massive amounts of surveillance video. The project has been working on AI software that can flag people, vehicles ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.azorobotics.com/Article.aspx?ArticleID=345",
+      "ampWebUrl": "https://www.azorobotics.com/amp/article.aspx?ArticleID=345",
+      "cdnAmpWebUrl": "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/article.aspx?ArticleID=345",
+      "publishedDateTime": "2020-02-24T07:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Azorobotics",
+        "domain": "azorobotics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.azorobotics.com/images/Article_Images/ImageForArticle_345_15825385749239338.png",
+          "width": 950,
+          "height": 713,
+          "title": "Applications of Photodetectors in Robotics",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

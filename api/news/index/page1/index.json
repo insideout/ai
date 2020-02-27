@@ -139,7 +139,7 @@
       "path": "_posts/2020-02-13-ai-tool-can-now-update-outdated-wikipedia-content.md",
       "title": "AI tool can now update outdated Wikipedia content",
       "excerpt": "Researchers at MIT have developed a system that can automatically update outdated and factually inconsistent data in Wikipedia articles. The automated tool ... structured sentences and relevant Wikipedia sentences, to train the AI system. As a result, it is now able to identify the redundant information then rewrite it without much human ...",
-      "heat": 197,
+      "heat": 187,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.techradar.com/in/news/ai-tool-can-now-update-outdated-wikipedia-content",
@@ -345,7 +345,7 @@
       "path": "_posts/2020-02-13-facial-recognition-could-be-temporarily-banned-for-law-enforcement-use.md",
       "title": "Facial recognition could be temporarily banned for law enforcement use",
       "excerpt": "Senators have introduced a bill that would prohibit the technology for police use until guidelines and limitations are set. Law enforcement agencies could be temporarily banned from using facial recognition after Sens.",
-      "heat": 479,
+      "heat": 469,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.cnet.com/news/facial-recognition-could-be-temporarily-banned-for-law-enforcement-use/",
@@ -1020,42 +1020,6 @@
       ]
     },
     {
-      "path": "_posts/2020-02-13-this-emoji-could-mean-your-suicide-risk-is-high-according-to-ai.md",
-      "title": "This emoji could mean your suicide risk is high, according to AI",
-      "excerpt": "Compared to the general population, Crisis Text Line users skew young, low-income, and high-risk, but the AI-generated insights are promising. Lindsey C. McKernan, an assistant professor in the department of psychiatry and behavioral sciences at Vanderbilt University Medical Center who has written about using artificial intelligence in ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://mashable.com/article/suicide-risk-crisis-text-line-artificial-intelligence/",
-      "ampWebUrl": "https://mashable.com/article/suicide-risk-crisis-text-line-artificial-intelligence.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/suicide-risk-crisis-text-line-artificial-intelligence.amp",
-      "publishedDateTime": "2020-02-12T16:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F02%252F13%252F72%252F17435b513b8a4c138a89d0224c67fa15.26cbf.jpg%252F1200x630.jpg?signature=mTpF80X4nYynlZY7jNCPPH4nBRk=",
-          "width": 1200,
-          "height": 630,
-          "title": "This emoji could mean your suicide risk is high, according to AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-13-us-risks-trailing-china-others-on-self-driving-cars-congresswoman-warns.md",
       "title": "US risks trailing China, others on self-driving cars, congresswoman warns",
       "excerpt": "While the benefits of self-driving cars are vast, she said, they will be transformational in a lot of ways. CLICK HERE TO READ MORE ON FOX BUSINESS “When you think about 37,000 individuals that were killed on our roadways last year largely due to human error, you think about the movement of goods and people, all the congestion in America.",
@@ -1438,7 +1402,7 @@
       "path": "_posts/2020-02-14-ex-waymo-driver-accused-of-causing-self-driving-van-to-crash.md",
       "title": "Ex-Waymo driver accused of causing self-driving van to crash",
       "excerpt": "PHOENIX — Ex-Waymo driver accused of causing self-driving van to crash Tempe police said Raymond Tang, 31, was booked into jail Wednesday night and is facing felony charges of aggravated assault and criminal damage,",
-      "heat": 249,
+      "heat": 239,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.marketwatch.com/story/ex-waymo-driver-accused-of-causing-self-driving-van-to-crash-2020-02-13",
@@ -2139,6 +2103,42 @@
       "topics": [
         "AI",
         "IBM AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-14-travis-bott-makes-travis-scott-like-music-lyrics-with-ai.md",
+      "title": "Travis Bott makes Travis Scott-like music, lyrics with AI",
+      "excerpt": "Why we care: The robots are coming for your playlists again, and they’re mimicking your favorite artists in music videos too. Take Travis Bott. Yes, Travis Bott. He’s an AI musician inspired by Travis Scott, the rapper, producer, and songwriter responsible for “Sicko Mode” and more. Travis Bott has a new song⁠⁠ and accompanying ...",
+      "heat": 137,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fastcompany.com/90464062/meet-travis-bott-the-travis-scott-twin-whose-music-and-lyrics-were-created-with-ai?partner=feedburner",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-14T08:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fast Company",
+        "domain": "fastcompany.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/02/p-1-travis-scottand8217s-ai-and8216bot-twin.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Travis Bott makes Travis Scott-like music, lyrics with AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

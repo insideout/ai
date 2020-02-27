@@ -101,21 +101,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2019/01/GettyImages-979036606.jpg?w=1024"
         width: 1024
         height: 682
-  - title: "U.S. Senators propose facial recognition moratorium for federal government"
-    excerpt: "Two Democratic U.S. Senators today proposed legislation that requires a moratorium on facial recognition use by federal agencies, government employees, and law enforcement until a Congressional commission can act to recommend guidelines and place limits on use of the technology. The bill, titled named the Ethical Use of Artificial Intelligence ..."
-    publishedDateTime: 2020-02-12T23:24:00Z
-    webUrl: "https://venturebeat.com/2020/02/12/u-s-senators-propose-facial-recognition-moratorium-for-federal-government/"
-    ampWebUrl: "https://venturebeat.com/2020/02/12/u-s-senators-propose-facial-recognition-moratorium-for-federal-government/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/12/u-s-senators-propose-facial-recognition-moratorium-for-federal-government/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/10/alex-knight-B0-kMa8BgU-unsplash.jpg?fit=1600%2C800&strip=all"
-        width: 1600
-        height: 800
   - title: "U.S. military facial recognition could identify people from 1 km away"
     excerpt: "Thanks to recent advances in machine learning, facial-recognition technology can pick faces out of a crowd with impressive accuracy. But just how far away from their subjects can cutting-edge facial-recognition systems work? According to a new report, a whole lot further than you probably think. So far, in fact, that the person identified may ..."
     publishedDateTime: 2020-02-18T19:59:00Z

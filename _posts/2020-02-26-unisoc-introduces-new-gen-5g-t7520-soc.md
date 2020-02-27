@@ -28,13 +28,17 @@ images:
 related:
   - title: "UNISOC Launches New-Gen 5G SoC T7520"
     excerpt: "Using cutting-edge process technology, T7520 enables an optimized 5G experience with substantially enhanced AI computing and multimedia imaging processing capabilities ... T7520 has four Arm Cortex-A76 cores and four Arm Cortex-A55 cores with an Arm Mali-G57 based GPU, providing an incredible streaming and gaming experience at 5G speeds."
-    publishedDateTime: 2020-02-26T15:02:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/unisoc-launches-new-gen-5g-soc-t7520-1028941941"
+    publishedDateTime: 2020-02-26T15:08:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2020/02/26/9105046.htm"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 24
+    images:
+      - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
+        width: 252
+        height: 335
   - title: "Unisoc rolls out 6nm 5G SoC"
     excerpt: "Codenamed T7520, the new Unisoc 5G SoC enables an optimized 5G experience with substantially enhanced AI computing and multimedia imaging processing capabilities ... adding that the new SoC has four Arm Cortex-A76 cores and four Arm Cortex-A55 cores with an Arm Mali-G57 based GPU. Developed on Unisoc's in-house developed Makalu 5G platform ..."
     publishedDateTime: 2020-02-27T02:31:00Z

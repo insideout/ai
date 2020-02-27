@@ -2,43 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_posts/2020-02-24-applications-of-photodetectors-in-robotics.md",
-      "title": "Applications of Photodetectors in Robotics",
-      "excerpt": "For now, security robots aren’t able to adequately replace a human security guard ... In 2017, the US Department of Defense launched Project Maven, an initiative to leverage artificial intelligence to classify and analyze massive amounts of surveillance video. The project has been working on AI software that can flag people, vehicles ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.azorobotics.com/Article.aspx?ArticleID=345",
-      "ampWebUrl": "https://www.azorobotics.com/amp/article.aspx?ArticleID=345",
-      "cdnAmpWebUrl": "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/article.aspx?ArticleID=345",
-      "publishedDateTime": "2020-02-24T07:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Azorobotics",
-        "domain": "azorobotics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.azorobotics.com/images/Article_Images/ImageForArticle_345_15825385749239338.png",
-          "width": 950,
-          "height": 713,
-          "title": "Applications of Photodetectors in Robotics",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_posts/2020-02-24-britains-top-cop-calls-for-law-on-police-use-of-artificial-intelligence.md",
       "title": "Britain's Top Cop Calls for Law on Police Use of Artificial Intelligence",
       "excerpt": "framework for police use of new technologies such as artificial intelligence. Speaking about live facial recognition, which police in London started using in January, London police chief Cressida Dick said that she welcomed the government's 2019 manifesto pledge to create a legal framework for the police use of new technology like AI ...",
@@ -1399,6 +1362,51 @@
       ]
     },
     {
+      "path": "_posts/2020-02-24-we-should-learn-how-to-collaborate-with-robots-before-it-will-be-too-late.md",
+      "title": "We should learn how to collaborate with robots before it will be too late!",
+      "excerpt": "Much has been said about how automation processes can render a large number of jobs obsolete. After all, the opportunities for technologies involving robotics and artificial intelligence have grown exponentially, and workers around the world have been anxious about how this new era of automation can affect their careers. The concerns of ...",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/tech-cult-heartbeat/you-must-learn-how-to-collaborate-with-robots-before-its-too-late-fed039aec0eb",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-24T15:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/0*p91_g07JY33ibncb.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "We should learn how to collaborate with robots before it will be too late!",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_posts/2020-02-25-ai-chatbot-maker-babylon-health-attacks-clinician-in-pr-stunt-after-he-goes-public-with-safety-concerns.md",
       "title": "AI chatbot maker Babylon Health attacks clinician in PR stunt after he goes public with safety concerns",
       "excerpt": "Babylon’s PR also claims that only in 20 instances did Watkins find “genuine errors in our AI”, whereas other instances are couched as ‘misrepresentations’ or “mistakes”, per an unnamed “panel of senior clinicians” which the startup’s PR says “investigated and re-validated every single one” — suggesting the error rate ...",
@@ -1527,7 +1535,7 @@
       "path": "_posts/2020-02-25-amazon-pilots-ai-powered-customer-support-agents.md",
       "title": "Amazon pilots AI-powered customer support agents",
       "excerpt": "Might AI help improve customer service for the millions of people who shop on Amazon.com? Amazon intends to find out. In a blog post, the Seattle tech giant revealed that it’s testing two AI-based systems to handle incoming shopper inquiries. One fields requests from customers automatically and without human intervention, while the other ...",
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "type": "article",
       "webUrl": "https://venturebeat.com/2020/02/25/amazon-tests-ai-powered-customer-support-agents-on-amazon-com/",

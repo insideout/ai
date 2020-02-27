@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-14T16:26:00Z
 webUrl: "https://www.fastcompany.com/90464062/meet-travis-bott-the-travis-scott-twin-whose-music-and-lyrics-were-created-with-ai?partner=feedburner"
 type: article
 quality: 137
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -21,19 +21,6 @@ images:
     width: 1280
     height: 720
     title: "Travis Bott makes Travis Scott-like music, lyrics with AI"
-
-related:
-  - title: "Artificial Intelligence Created a Travis Scott Song by Machine-Learning His Lyrics"
-    excerpt: "Travis Scott has shaped trends and has been a major driving force in the music industry for well-over a half decade — now his music is influencing artificial intelligence. Tech-driven creative hub agency space150‘s latest project created a bot entirely dedicated to mimicking Travis, producing the new song “Jack Park Canny Dope Man ..."
-    publishedDateTime: 2020-02-13T00:00:00Z
-    webUrl: "https://hypebeast.com/2020/2/fake-travis-scott-song-created-by-ai-generated-lyrics"
-    ampWebUrl: "https://hypebeast.com/2020/2/fake-travis-scott-song-created-by-ai-generated-lyrics?amp=1"
-    cdnAmpWebUrl: "https://hypebeast-com.cdn.ampproject.org/c/s/hypebeast.com/2020/2/fake-travis-scott-song-created-by-ai-generated-lyrics?amp=1"
-    type: article
-    provider:
-      name: Hypebeast
-      domain: hypebeast.com
-    quality: 33
 
 secured: "kpAr61CJq6WuPfd+3Wb7bN/DGBHTrjsfJ0+jVC+utDaFOLHN/3shouoCrG6BtP7tK9tVtej0c+7GXwSz2sl30URr6SKCvqS5GlZCr27RpcTSiRQIxTBI14ummKvOD5xiNRVBvrR6HfAxpLp+bcyafkHm3FFWQgjaugv7JKZyxoWwQ7mG1OON+zLXDJq6hr97YrLdsqdiBrHBHhNfnYGpHfIxlZxmGYdQdbWJx1+ltZbtBn7tylZUPmiKPhWJzSFQxnyH4UDp59pqqdpGQ6Pv/0clIslFut3Xz1RzXLAmDBeGy8UZlq3h81hQJZuYy4EA9MhUOYAqKE6YVzVaJykUtvWcFRPbiPl8+6JoIqvWMkoFDHd8zan3Ld/4bGlZ6iA2dQXcS7k9KBUfiuK2R7IiAu5d/XiRoDF1snPTZ+ujI63rXwZDncUhoQOZz6uTvg2k9TewyLvQsu0+JBvHvNGJ1GZcFxPvEH7e7SFCDnvQU/sGL1zhg+c+1nP/GoJm4fUR;5KqTcOapQ8xadqNd3f2rxw=="
 ---

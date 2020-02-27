@@ -20,19 +20,6 @@ topics:
   - AI in Finance
 
 related:
-  - title: "Here's how 9 execs at Wall Street giants like Goldman Sachs, BlackRock, and JPMorgan are thinking about the future of fintech"
-    excerpt: "\"However, it's in their progressive adoption of technology that makes some of these companies earn the title of 'fintech.' \"Fintechs are those that act nimbly like startups and apply technology innovatively to all aspects of their financial services business, from AI-fueled recommendations for salient market news, to voice-enabled stock trading ..."
-    publishedDateTime: 2020-02-13T00:00:00Z
-    webUrl: "https://www.businessinsider.com/goldman-jpmorgan-blackrock-citi-define-fintech-2020-1"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 27
-    images:
-      - url: "https://i.insider.com/5e2776dfb6d52d2e51378bc3?width=1200&format=jpeg"
-        width: 1200
-        height: 600
   - title: "'4IR: AI, Blockchain, Fintech, IoT - Reinventing a Nation' Book by Dinis Guarda and Rais Hussin"
     excerpt: "LONDON, Feb. 19, 2020 /PRNewswire/ -- Ztudium, Dinis Guarda and Dr. Rais Hussin, leading global voices in strategy and research, analyze how future digital tech can be used by developing nations in the publication of a new book titled \"4IR: AI, Blockchain, Fintech - Reinventing a Nation.\" The Fourth Industrial Revolution - 4IR - and all ..."
     publishedDateTime: 2020-02-19T18:34:00Z

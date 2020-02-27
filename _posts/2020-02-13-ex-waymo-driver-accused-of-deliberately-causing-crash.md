@@ -56,21 +56,6 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/e2sevaTPzwSLrrkLMMC8ntmIiWI=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66310283/vpavic_191202_3827_0025.0.jpg"
         width: 1400
         height: 933
-  - title: "A former Waymo driver has been accused of intentionally causing a collision with one of the company's self-driving vans"
-    excerpt: "An ex-Waymo driver was arrested in Arizona on Wednesday after police said he intentionally caused a crash with one of the company's self-driving minivans last month. Tempe police said Raymond Tang, 31, \"targeted\" two Waymo vans, recklessly driving his Mazda around them before braking abruptly in front of one, causing it to rear-end his vehicle."
-    publishedDateTime: 2020-02-13T00:00:00Z
-    webUrl: "https://www.businessinsider.com/former-waymo-driver-arrested-accused-of-intentionally-causing-crash-2020-2"
-    ampWebUrl: "https://www.businessinsider.com/former-waymo-driver-arrested-accused-of-intentionally-causing-crash-2020-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/former-waymo-driver-arrested-accused-of-intentionally-causing-crash-2020-2?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 65
-    images:
-      - url: "https://i.insider.com/5e45e27a3b62b725f9357f95?width=1200&format=jpeg"
-        width: 1200
-        height: 600
   - title: "Man Arrested for Brake-Checking Waymo Self-Driving Van, Causing Crash"
     excerpt: "Raymond Tang was a former Waymo van operator who worked for a contractor of the self-driving-vehicle company. He was arrested on charges of intentionally causing one to crash on January 30. Since his termination, according to Waymo, he is accused of ..."
     publishedDateTime: 2020-02-14T06:43:00Z

@@ -2,6 +2,43 @@
   "page": 8,
   "value": [
     {
+      "path": "_posts/2020-02-26-mediatek-announces-helio-p95-with-apu-20-powervr-gpu-and-more.md",
+      "title": "MediaTek announces Helio P95 with APU 2.0, PowerVR GPU and more",
+      "excerpt": "There is an Imagination PowerVR GM 94446 GPU with a 10% improvement in performance over the last generation ... The processor has a triple ISP with 14-bit RAW and 10-bit YUV processing. It also has AI-camera enhancements such as AI-NR low-light photography, 5-person human pose tracking, multiple objects and scene identification, and AI depth ...",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.gizmochina.com/2020/02/26/mediatek-announces-helio-p95-with-apu-2-0-powervr-gpu-and-more/",
+      "ampWebUrl": "https://www.gizmochina.com/2020/02/26/mediatek-announces-helio-p95-with-apu-2-0-powervr-gpu-and-more/?amp",
+      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2020/02/26/mediatek-announces-helio-p95-with-apu-2-0-powervr-gpu-and-more/?amp",
+      "publishedDateTime": "2020-02-26T10:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2020/02/Helio-P95.png",
+          "width": 822,
+          "height": 594,
+          "title": "MediaTek announces Helio P95 with APU 2.0, PowerVR GPU and more",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_posts/2020-02-26-nvidia-dlss-in-2020-stunning-results.md",
       "title": "Nvidia DLSS in 2020: Stunning Results",
       "excerpt": "This AI algorithm also leveraged a new feature on RTX Turing GPUs: the tensor cores. While these cores are most likely included on the GPU to make it also suitable for data center and workstation use cases, Nvidia found a way to use this hardware feature for gaming. Later, Nvidia decided to ditch the tensor cores for their cheaper Turing GPUs ...",
@@ -914,6 +951,50 @@
       ]
     },
     {
+      "path": "_posts/2020-02-27-einride-shows-how-ai-will-create-new-kinds-of-jobs.md",
+      "title": "Einride shows how AI will create new kinds of jobs",
+      "excerpt": "Artificial intelligence (AI) will either destroy jobs or create new jobs — depending on which report you read. In truth, it’s probably a little of both — AI will undoubtedly replace human workers in some spheres, but it will also create new roles, many of which we can’t yet imagine. A recent report from PA Consulting, titled “People ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/27/einride-shows-how-ai-will-create-new-kinds-of-jobs/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/27/einride-shows-how-ai-will-create-new-kinds-of-jobs/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/27/einride-shows-how-ai-will-create-new-kinds-of-jobs/amp/",
+      "publishedDateTime": "2020-02-27T08:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/0.png?fit=1193%2C660&strip=all",
+          "width": 1193,
+          "height": 660,
+          "title": "Einride shows how AI will create new kinds of jobs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_posts/2020-02-27-freshworks-acquires-us-based-ai-startup-answeriq.md",
       "title": "Freshworks acquires US-based AI startup AnsweriQ",
       "excerpt": "BENGALURU: Software-as-a-service (SaaS) unicorn Freshworks Inc. has acquired US-based artificial intelligence (AI) startup AnsweriQ Inc. for an undisclosed amount. Freshworks said that AnsweriQ complements its own AI engine, Freddy. AnsweriQ's chief executive officer (CEO) Pradeep Rathinam has joined Freshworks as its chief customer officer.",
@@ -1263,6 +1344,96 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-27-researchers-propose-ai-that-improves-the-quality-of-any-video.md",
+      "title": "Researchers propose AI that improves the quality of any video",
+      "excerpt": "Increasingly, researchers are using AI to transform historical footage — like the Apollo 16 moon landing and 1895 Lumière Brothers film “Arrival of a Train at La Ciotat station” — into high-resolution, high-framerate videos that look as though they’ve been shot with modern equipment. It’s a boon for preservationists, and as an ...",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/27/researchers-propose-ai-that-improves-the-quality-of-any-video/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/27/researchers-propose-ai-that-improves-the-quality-of-any-video/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/27/researchers-propose-ai-that-improves-the-quality-of-any-video/amp/",
+      "publishedDateTime": "2020-02-27T08:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/05/IMG_20190521_085108-e1582820427554.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Researchers propose AI that improves the quality of any video",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-27-robot-uses-ai-to-personalize-teaching-of-autistic-children.md",
+      "title": "Robot uses AI to personalize teaching of autistic children",
+      "excerpt": "“AI methods cannot and must not be used as a cheaper substitute for treatment by human doctors,” Alena Buyx, a Professor of Ethics in Medicine and Health Technologies at the Technical University of Munich, said last year. The researchers stress that they want robots to augment human invention rather than replace it. “Human therapists ...",
+      "heat": 101,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/02/27/robot-uses-ai-to-personalize-teaching-of-autistic-children/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/02/27/robot-uses-ai-to-personalize-teaching-of-autistic-children/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/27/robot-uses-ai-to-personalize-teaching-of-autistic-children/amp/",
+      "publishedDateTime": "2020-02-27T08:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/Untitled-design-40-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "Robot uses AI to personalize teaching of autistic children",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "AI Hardware"
       ]
     },
     {
@@ -1944,169 +2115,6 @@
           "width": 1200,
           "height": 419,
           "title": "12-in-1: Facebook AI’s New Framework Tackles Multiple Vision-and-Language Tasks",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2019-12-19-tiny-robotic-insect-can-withstand-multiple-heavy-hits-from-a-fly-swatter.md",
-      "title": "Tiny robotic insect can withstand multiple heavy hits from a fly swatter",
-      "excerpt": "Scientists have pulled inspiration from insects in order to create a tiny ... It might sound like science fiction, but it's actually more plausible than you might think.' It is also designed ...",
-      "heat": 141,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-7810779/Tiny-robotic-insect-withstand-multiple-heavy-hits-fly-swatter.html",
-      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-7810779/amp/Tiny-robotic-insect-withstand-multiple-heavy-hits-fly-swatter.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-7810779/amp/Tiny-robotic-insect-withstand-multiple-heavy-hits-fly-swatter.html",
-      "publishedDateTime": "2019-12-19T10:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2019/12/19/17/22463342-0-image-a-30_1576777846491.jpg",
-          "width": 636,
-          "height": 382,
-          "title": "Tiny robotic insect can withstand multiple heavy hits from a fly swatter",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2019-12-20-ai-accelerator-card-offers-face-object-recognition-applications.md",
-      "title": "AI Accelerator Card Offers Face, Object Recognition Applications",
-      "excerpt": "The card is built with a third-generation Movidius Myriad X Vision Processing Unit (VPU) from Intel, which is particularly well-suited to computer vision applications like face and object recognition. According to Innodisk, the AI accelerator card ...",
-      "heat": 64,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://findbiometrics.com/biometrics-news-ai-accelerator-card-offers-face-object-recognition-applications-122008/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-12-19T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SecuriMetrics HIIDE",
-        "domain": "findbiometrics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://findbiometrics.com/wp-content/uploads/computervision.jpeg",
-          "width": 400,
-          "height": 258,
-          "title": "AI Accelerator Card Offers Face, Object Recognition Applications",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2019-12-20-computer-vision-and-the-ccpa-what-you-need-to-know.md",
-      "title": "Computer Vision and the CCPA: What You Need to Know",
-      "excerpt": "This article will cover what companies who have deployed or are considering deploying computer vision technology should do with the biometric data they collect in order to be compliant with the CCPA. The National Law Review does a tremendous job of ...",
-      "heat": 69,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/trueface-ai/computer-vision-and-the-ccpa-what-you-need-to-know-928477de0601",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-12-19T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/1*YGkB52a5tgp8vGHleh2bAw.png",
-          "width": 1200,
-          "height": 744,
-          "title": "Computer Vision and the CCPA: What You Need to Know",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2019-12-20-facebook-discovers-fakes-that-show-evolution-of-disinformation.md",
-      "title": "Facebook Discovers Fakes That Show Evolution of Disinformation",
-      "excerpt": "The network exposed by Facebook used fake profile photos generated with artificial intelligence.Credit...Graphika/The Atlantic Council’s Digital Forensic Research Lab Facebook said on Friday that it had removed hundreds of accounts with ties to the Epoch ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nytimes.com/2019/12/20/business/facebook-ai-generated-profiles.html",
-      "ampWebUrl": "https://www.nytimes.com/2019/12/20/business/facebook-ai-generated-profiles.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2019/12/20/business/facebook-ai-generated-profiles.amp.html",
-      "publishedDateTime": "2019-12-20T15:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2019/12/20/business/20takedown3/20takedown3-facebookJumbo-v2.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": "Facebook Discovers Fakes That Show Evolution of Disinformation",
           "attribution": null
         }
       ],

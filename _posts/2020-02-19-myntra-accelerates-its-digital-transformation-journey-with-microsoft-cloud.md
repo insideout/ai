@@ -60,18 +60,18 @@ related:
         width: 940
         height: 570
   - title: "IBM Services and C3.ai Announce Strategic Alliance for Digital Transformation With AI"
-    excerpt: "\"The combination of C3.ai, IBM Services, and IBM Watson can help businesses rapidly embed AI into their critical workflows, enabling our clients to move to the future at pace.\" \"Businesses working to transform amid ongoing market disruption require partners with the industry expertise, proven platforms and services experience to help them fast ..."
-    publishedDateTime: 2020-02-27T15:26:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-ibm-services-c3ai-announce-strategic-alliance-digital-transformation-/2020/02/27/9106019.htm"
+    excerpt: "“The combination of C3.ai, IBM Services, and IBM Watson can help businesses rapidly embed AI into their critical workflows, enabling our clients to move to the future at pace.” “Businesses working to transform amid ongoing market disruption require partners with the industry expertise, proven platforms and services experience to help them ..."
+    publishedDateTime: 2020-02-27T15:22:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200227005645/en/IBM-Services-C3.ai-Announce-Strategic-Alliance-Digital"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Business Wire
+      domain: businesswire.com
     quality: 32
     images:
-      - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
-        width: 252
-        height: 335
+      - url: "https://mms.businesswire.com/media/20200227005645/en/710054/23/C3_Logo_300_black.jpg"
+        width: 1200
+        height: 627
   - title: "Myntra accelerates its digital transformation journey with Microsoft cloud"
     excerpt: "By building and centralizing its data platform on Azure, Myntra is applying advanced analytics and machine learning to gain a comprehensive understanding of customers and deliver highly personalized products, marketing, and service for them. The company is using Microsoft Power BI to empower its employees to visualize and act on real-time ..."
     publishedDateTime: 2020-02-22T00:19:00Z

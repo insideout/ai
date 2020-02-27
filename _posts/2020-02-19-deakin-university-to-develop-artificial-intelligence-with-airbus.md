@@ -27,7 +27,7 @@ images:
 related:
   - title: "DeepMind Develops AI With An Imagination"
     excerpt: "Google is going full Westworld by giving robots the ability to imagine and plan. In the same way a person would look at a glass of water on the edge of a table and consider whether it might fall ..."
-    publishedDateTime: 2020-02-13T00:00:00Z
+    publishedDateTime: 2020-02-25T00:00:00Z
     webUrl: "https://www.geek.com/tech/deepmind-develops-ai-with-an-imagination-1708908/"
     type: article
     provider:

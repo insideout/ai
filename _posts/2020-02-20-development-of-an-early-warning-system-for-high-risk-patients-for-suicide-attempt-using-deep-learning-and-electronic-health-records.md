@@ -24,21 +24,41 @@ images:
     title: "Development of an early-warning system for high-risk patients for suicide attempt using deep learning and electronic health records"
 
 related:
-  - title: "Apple patents machine learning based maps system"
-    excerpt: "Apple appears to be working on a new system to correct GPS coordinates of its maps service. The company is planning to use machine learning for the correction of Global Navigation Satellite System (GNSS) data by obtaining data from consumer location. If implemented, this method will help the company improve the accuracy of its mapping service."
-    publishedDateTime: 2020-02-22T08:14:00Z
-    webUrl: "https://www.ilounge.com/news/apple-maps-ml-system"
-    ampWebUrl: "https://www.ilounge.com/news/apple-maps-ml-system/amp"
-    cdnAmpWebUrl: "https://www-ilounge-com.cdn.ampproject.org/c/s/www.ilounge.com/news/apple-maps-ml-system/amp"
+  - title: "Building a Reverb Detection System using Machine Learning"
+    excerpt: "Very little reverb. A lot of reverb. What we are actually trying to measure with our machine learning (ML) model is the Reverb Decay Time. This can be defined as the amount of time in seconds that it takes for a sound to fade away. The technical term for this is the RT-60 time, which is the time it takes for a sound’s pressure level to drop ..."
+    publishedDateTime: 2020-02-18T14:07:00Z
+    webUrl: "https://medium.com/@davidmronan/building-a-reverb-detection-system-using-machine-learning-cba02a1710bf"
     type: article
     provider:
-      name: iLounge
-      domain: ilounge.com
-    quality: 59
+      name: Medium
+      domain: medium.com
+    quality: 69
     images:
-      - url: "https://www.ilounge.com/wp-content/uploads/2019/06/Apple-Maps-Look-Around-iOS-13.png"
-        width: 1450
-        height: 866
+      - url: "https://miro.medium.com/max/522/1*P4AQM-CyIb_uhNzvRAVMrw.jpeg"
+        width: 522
+        height: 218
+  - title: "Edmodo Partners with IBM Watson Education to Close Learning Gaps using AI"
+    excerpt: "Before it's here, it's on the Bloomberg Terminal."
+    publishedDateTime: 2020-02-21T18:46:00Z
+    webUrl: "https://www.bloomberg.com/press-releases/2018-07-16/edmodo-partners-with-ibm-watson-education-to-close-learning-gaps-using-ai"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 63
+  - title: "Architectural Analysis IDs 78 Specific Risks in Machine-Learning Systems"
+    excerpt: "The new threat model hones in on ML security at the design state. Researchers at the Berryville Institute of Machine Learning (BIML) have developed a formal risk framework to guide development of secure machine-language (ML) systems. BIML's architectural risk analysis of ML systems is different from previous work in this area in that it focuses ..."
+    publishedDateTime: 2020-02-13T21:41:00Z
+    webUrl: "https://www.darkreading.com/vulnerabilities---threats/architectural-analysis-ids-78-specific-risks-in-machine-learning-systems/d/d-id/1337051"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 23
+    images:
+      - url: "https://twimgs.com/nojitter/darkreading/dr-logo.jpg"
+        width: 600
+        height: 600
 
 secured: "3i2DwueIIl0MDZsZKV1JLscUghO+YNSm3zvu518FcMrLzM/ennXdFIRIp8fF4T+ztqRm1taQEocxES0xgs5GXPaUgTNNc5PukreNeOwe5nu52Jl6YSjwv+Ikn+WyaMuoz3GNN4CEoefdPW9832mpDDsibcMJb2SvVFmQoNv1fuQnMkqL2MGz4FqY7aPAepLNg0+2Oj7T//X9BkYterYNF02UP+70oXJ3/8lkNtxW6ioa9xJIAg9w0G5aWSVo7+Z9FnRBfqRRRCJWBBOxd1sHJKFKgN3rU6almd4cgJkxddo7e2rVhD12V4HqqmJKrD6N;NgLrwkMYwC4r4k891Mnwrw=="
 ---

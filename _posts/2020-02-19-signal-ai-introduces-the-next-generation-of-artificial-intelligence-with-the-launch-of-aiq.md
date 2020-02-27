@@ -49,6 +49,32 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+  - title: "Google Award for next generation Deep Learning education"
+    excerpt: "Distinguished Research Professor Mary-Anne Williams is the recipient of an inaugural Google TensorFlow Faculty Award to develop educational content with TensorFlow 2.0, Google's open-source deep learning platform. Director of The Magic Lab at UTS, this Award recognises Professor Williams's position as a senior leader in the Australian and ..."
+    publishedDateTime: 2020-02-24T20:25:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-02/uots-gaf022320.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 41
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/225053_web.jpg"
+        width: 720
+        height: 380
+  - title: "Google Award for next generation Deep Learning education"
+    excerpt: "Distinguished Research Professor Mary-Anne Williams is the recipient of an inaugural Google TensorFlow Faculty Award to develop educational content with TensorFlow 2.0, Google's open-source deep learning platform. Director of The Magic Lab at UTS, this Award recognises Professor Williams's position as a senior leader in the Australian and ..."
+    publishedDateTime: 2020-02-25T08:13:00Z
+    webUrl: "https://eurekalert.org/pub_releases/2020-02/uots-gaf022320.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 41
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/225053_web.jpg"
+        width: 720
+        height: 380
   - title: "Yseop Announces Augmented Analyst, the Next-Generation AI NLG Platform Featuring ..."
     excerpt: "Yseop, the world-leading AI software company and pioneer in Natural Language Generation (NLG), today announced the launch of Augmented ... scaling from single use case applications to enterprise-wide deployments could translate into billions in savings for the financial and pharmaceutical industries. Developed with high levels of user-adoption ..."
     publishedDateTime: 2020-02-14T09:00:00Z

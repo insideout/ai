@@ -24,15 +24,21 @@ images:
     title: "Features That Are Crucial for Creating a Quality AI-based Mental Counselling App"
 
 related:
-  - title: "Ars Technicast special edition, part 3: Putting AI to work defending your stuff"
-    excerpt: "In the third and final installation of our podcast miniseries on artificial intelligence, produced in association with Darktrace, we delve into the realm of AI fighting AI—or what researchers refer to as \"adversarial AI.\" Adversarial artificial intelligence can take many forms—as a tool for hacking through AI-powered security of other ..."
-    publishedDateTime: 2020-02-27T13:00:00Z
-    webUrl: "https://arstechnica.com/information-technology/2020/02/ars-technicast-special-edition-darktrace3/"
+  - title: "Researchers propose AI that improves the quality of any video"
+    excerpt: "Increasingly, researchers are using AI to transform historical footage — like the Apollo 16 moon landing and 1895 Lumière Brothers film “Arrival of a Train at La Ciotat station” — into high-resolution, high-framerate videos that look as though they’ve been shot with modern equipment. It’s a boon for preservationists, and as an ..."
+    publishedDateTime: 2020-02-27T16:37:00Z
+    webUrl: "https://venturebeat.com/2020/02/27/researchers-propose-ai-that-improves-the-quality-of-any-video/"
+    ampWebUrl: "https://venturebeat.com/2020/02/27/researchers-propose-ai-that-improves-the-quality-of-any-video/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/27/researchers-propose-ai-that-improves-the-quality-of-any-video/amp/"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 43
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/05/IMG_20190521_085108-e1582820427554.jpg?fit=1200%2C600&strip=all"
+        width: 1200
+        height: 600
 
 secured: "Czdo9nH0mvyt9rwrju68zyOEhfozzvEeafh0s3SMi6Qk6pl3heYG8eCHzrFUgAPfh5wCynilxTskfFDun5XEbFuXqJwG1vgP4K8Cm7f1Ytsjvaq9KMMVdrOcYxy0U5sLEIkjlw+XyYRt7f1g8Lnt17le/jQvehfNfhydOUyVvb55/mUrUqcyyx81AgZvPxrHNdEJm7rcBUBf+GmiDMGSTDeJ9TZoaVKBZm8kMfNVk2krgl8/FUAWszrqqZciokBFIDpkponEhgSueS+f9Q5Te4BOcGgFZAGYz/iL4Xs+oTJz4raI1I4pxZ7Au53L5F5BHSSMowKe5raIq+vW9xHTEC9lxGxo1o2QtLnLtGkzuIjKnxst5cQ5qL/q3HQdWuEylkYjEuJYWoahks45enEZ1T8APZVOy+AtLaH9AAQP2CzXX477XrU1L/0cJYEg6XpEHRSKH0Bh8Q8gIoacksCp8mJAuIA0aZjLfyZxjlOjNK8=;N9b1TcLA0j5+DgeC6iYKbQ=="
 ---

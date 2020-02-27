@@ -20,21 +20,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "Features That Are Crucial for Creating a Quality AI-based Mental Counselling App"
-    excerpt: "Because of the mental illness crisis that has worsened during the last ten years, digital solutions functioning on artificial intelligence offer hope for millions of people to ... like acceptance-commitment and cognitive-behavioral therapies, gamification, art therapy, mood training programs, etc. Each product is individual, of course."
-    publishedDateTime: 2020-02-27T12:42:00Z
-    webUrl: "https://www.analyticsinsight.net/features-crucial-creating-quality-ai-based-mental-counselling-app/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 34
-    images:
-      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/02/aiii.jpg"
-        width: 900
-        height: 501
-
 secured: "rYewvBRzN7Nt2qjt0IXukpmv3ur9Ag1SpTDPB8LkqHNm6B3KjgqpV36EXiP9uF+K3ScCXkbjurQaaunjnVgN47mGYL2gq+bZ/TIE+NUxQEE65zW0fBLY9f9O2h8Q+iqaefxG3noxJbQsuEfxUvPHVRRpcDsaJcUIbTZ0/BbOjfo82IwRXoRINxqYc505A3zctWZAazxH1qemyomRcHuRQAuxDd3zB+Y8p1GpvcPoSJNDXvcgtRsRng9V+u8QG9q8OthpUsVDLCgpBWA1YaF0K3ysbMtn2CX/NfZqLNI18HifbQpc63+iqoks5caWlnCahU8JkmQLoyDQhKaMPBZHC2Q19vQ6MobXwjHXJ+V1Y+95eJkq1EIMao/PKJiP6nRFBmTx7pQP5M+hEdiLsFWLdzFR8FWGGFWkGfANoRQR9iWSiWXrR4J6mdJ6UGbL9FAyM6KGDwON2BjZLZsmuXlTRZTJSNavM8gWhG7xqP/7fbA=;761BQ6geyX9b2vC4oHiLPQ=="
 ---
 

@@ -59,6 +59,32 @@ related:
       - url: "https://mms.businesswire.com/media/20200219005066/en/774196/23/AIQ_Logo.jpg"
         width: 1200
         height: 627
+  - title: "Google Award for next generation Deep Learning education"
+    excerpt: "Distinguished Research Professor Mary-Anne Williams is the recipient of an inaugural Google TensorFlow Faculty Award to develop educational content with TensorFlow 2.0, Google's open-source deep learning platform. Director of The Magic Lab at UTS, this Award recognises Professor Williams's position as a senior leader in the Australian and ..."
+    publishedDateTime: 2020-02-24T20:25:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-02/uots-gaf022320.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 41
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/225053_web.jpg"
+        width: 720
+        height: 380
+  - title: "Google Award for next generation Deep Learning education"
+    excerpt: "Distinguished Research Professor Mary-Anne Williams is the recipient of an inaugural Google TensorFlow Faculty Award to develop educational content with TensorFlow 2.0, Google's open-source deep learning platform. Director of The Magic Lab at UTS, this Award recognises Professor Williams's position as a senior leader in the Australian and ..."
+    publishedDateTime: 2020-02-25T08:13:00Z
+    webUrl: "https://eurekalert.org/pub_releases/2020-02/uots-gaf022320.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 41
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/225053_web.jpg"
+        width: 720
+        height: 380
 
 secured: "gzxB4miW3eVziSlZhGy7EWzE2vbQWot+fWNqJiRH8sTa0wSvrBYz7jPgZFF4KT7cd2dZDtB2BVVzQh1ih8E3ABFmtpsEGY4fE4j6hhQ68gHZGGh1k/5D4E3AUIJxQwSXCeksNybJdHwaKN9u0zTm/oO8j6LfU7ODbFxqJKFMPSYLfMY4dDl+/8tEPd2YbiIbkbGlpiVVjiHG6h6g+a0AHsdykWw/DuC8lKBY40svQXsV7Y4ms/O/db12Q6iE3/tekVVu7pLlTZA+Jn+Up6HTlhSrvkhApIasoyYm8XJo6GeajMMS3BaEVLilhRWTql0Y;zYqDjuUdxTPYvNvuFec/uw=="
 ---

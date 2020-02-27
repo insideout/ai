@@ -6,8 +6,8 @@ publishedDateTime: 2020-02-18T14:07:00Z
 webUrl: "https://medium.com/@davidmronan/building-a-reverb-detection-system-using-machine-learning-cba02a1710bf"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 99
+published: true
 
 provider:
   name: Medium
@@ -28,19 +28,41 @@ images:
     title: "Building a Reverb Detection System using Machine Learning"
 
 related:
-  - title: "Deep Learning Forecasting Model for Dengue Cases in Singapore"
-    excerpt: "Feature extraction is crucial to the success of neural network learning. However ... our approach worked better than those without a deep understanding about the nature of the dengue issues ..."
-    publishedDateTime: 2020-02-12T23:15:00Z
-    webUrl: "https://medium.com/@nobletpadiyaraoffc/forecasting-dengue-cases-in-singapore-8-weeks-in-advance-ce32685e166d"
+  - title: "Edmodo Partners with IBM Watson Education to Close Learning Gaps using AI"
+    excerpt: "Before it's here, it's on the Bloomberg Terminal."
+    publishedDateTime: 2020-02-21T18:46:00Z
+    webUrl: "https://www.bloomberg.com/press-releases/2018-07-16/edmodo-partners-with-ibm-watson-education-to-close-learning-gaps-using-ai"
     type: article
     provider:
-      name: Medium
-      domain: medium.com
-    quality: 69
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 63
+  - title: "Architectural Analysis IDs 78 Specific Risks in Machine-Learning Systems"
+    excerpt: "The new threat model hones in on ML security at the design state. Researchers at the Berryville Institute of Machine Learning (BIML) have developed a formal risk framework to guide development of secure machine-language (ML) systems. BIML's architectural risk analysis of ML systems is different from previous work in this area in that it focuses ..."
+    publishedDateTime: 2020-02-13T21:41:00Z
+    webUrl: "https://www.darkreading.com/vulnerabilities---threats/architectural-analysis-ids-78-specific-risks-in-machine-learning-systems/d/d-id/1337051"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 23
     images:
-      - url: "https://miro.medium.com/max/378/0*pJ_V5RBE48AfmED2"
-        width: 378
-        height: 410
+      - url: "https://twimgs.com/nojitter/darkreading/dr-logo.jpg"
+        width: 600
+        height: 600
+  - title: "Development of an early-warning system for high-risk patients for suicide attempt using deep learning and electronic health records"
+    excerpt: "Advanced machine-learning algorithms and deep neural networks were utilized to build models with the data from electronic health records (EHRs). A final risk score was calculated for each individual and calibrated to indicate the probability of a suicide ..."
+    publishedDateTime: 2020-02-20T11:57:00Z
+    webUrl: "https://www.nature.com/articles/s41398-020-0684-2"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 9
+    images:
+      - url: "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41398-020-0684-2/MediaObjects/41398_2020_684_Fig2_HTML.png"
+        width: 685
+        height: 677
 
 secured: "7Z4Ku9Moeimfa763JZB1c+kw58tT9H+PaVpQNjB8NkFAsHq8Y3LG9qPUI8a193XR5Wv42YT3s2Kdai6i+cmbc/ux2huK9P099XnIg3+UFlPtHHsitGKGzdiOw0IaFHxwxjXH090QnXNHxIkqL1EoGIumhTG8Bwd/GGZ001f/6jgYn4Zfst6y00xLKbI6XgVFQJfVeD46OgaoX67azX/DxI4sQRZagVbH2MPe6cZ7QH5vm1+HBSFIlxRhKfFwTa+4+2HFaIx8B/2B2XQmtR4uz0ocgU2GRyUoAgILAiZLCsTuXDPW+Hb60ImVjdjn9ggFg0NI7EYgd8zsCExnO2FbatFzMBmTJpdFFlnn2ZDhWOKrJPjCZVI56tR8uOx8hXfmwUJCUB7ZmgIzsWzt0cI1VVROF4n4jlYMruk7TZm0QmQH3XbmgcwzrWsCDfHLpdW0ZJir44fYaC+DUkIM5P3wwl58mTIhSuG4odUrW50WyPw=;Oj1CFUQjbIKq+lBc6lH9xw=="
 ---

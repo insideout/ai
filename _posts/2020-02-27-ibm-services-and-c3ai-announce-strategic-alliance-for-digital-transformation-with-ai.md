@@ -1,26 +1,26 @@
 ---
 category: news
 title: "IBM Services and C3.ai Announce Strategic Alliance for Digital Transformation With AI"
-excerpt: "\"The combination of C3.ai, IBM Services, and IBM Watson can help businesses rapidly embed AI into their critical workflows, enabling our clients to move to the future at pace.\" \"Businesses working to transform amid ongoing market disruption require partners with the industry expertise, proven platforms and services experience to help them fast ..."
-publishedDateTime: 2020-02-27T15:26:00Z
-webUrl: "https://www.tmcnet.com/usubmit/-ibm-services-c3ai-announce-strategic-alliance-digital-transformation-/2020/02/27/9106019.htm"
+excerpt: "“The combination of C3.ai, IBM Services, and IBM Watson can help businesses rapidly embed AI into their critical workflows, enabling our clients to move to the future at pace.” “Businesses working to transform amid ongoing market disruption require partners with the industry expertise, proven platforms and services experience to help them ..."
+publishedDateTime: 2020-02-27T15:22:00Z
+webUrl: "https://www.businesswire.com/news/home/20200227005645/en/IBM-Services-C3.ai-Announce-Strategic-Alliance-Digital"
 type: article
 quality: 32
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI
   - IBM AI
 
 images:
-  - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
-    width: 252
-    height: 335
+  - url: "https://mms.businesswire.com/media/20200227005645/en/710054/23/C3_Logo_300_black.jpg"
+    width: 1200
+    height: 627
     title: "IBM Services and C3.ai Announce Strategic Alliance for Digital Transformation With AI"
 
 related:
@@ -84,6 +84,6 @@ related:
       domain: newkerala.com
     quality: 17
 
-secured: "SW9JWEvXREVLE3Sk/VxykHZpL0M/qTjBHpWtwY6VgF7ZZKrkGKkl2TI96l+SYvIhIFf9nuwwoV/UnSvGz3+Ca3Qa9RhtsoXA/fpb1CzyRdfzXw91mfWYoHOboaBX0vrCknH7m4a7J1yT7WvcmiHMcFgbaivGHfcPMr8HFIiqRo1+XSPFVx5AKb59ZsmdH8M7VbRCrPgyPLpsB1r/dBX9n6I7VQ04k7Q3cXqPSayBYZctwTbSgwS6PJf4X9KrczPU7QLRHpZxwyQMruWH2D/yFEndEwGzN0HAxHiXJvDJD9x6hv+xWmn8NuEou67fqrG9;mWmpwVF+t/b/rUk8BnyRMg=="
+secured: "9+oxWjZggGqYSd2UcrKL2pLhq+uF12Uo9O+qc2bQ6ZoTMdoi4fha6qM0GLeBpy8ylG5Ss7ivMCY/GamBeiVGcVBUvktcyAdDClwlOtWgbfir0yQrM0BgDSu07HiTlLcQEYOpftp4vPq+9lCYxBE2fHuUvHK6czsH0BsxUe6dHw7m//AU0iltHDTmsSWhT/A4zc3bU66YhKAGu3dl3watgYjsGG4sznkAVRe8kfj1Psj3/0/7pqi+8oX5THxbpy1WlwJU+Bctc2x9QhaZ6xAoTqHGdrCr6V2Nnfe9g5vYVVL6+XM0ZapIz7BVrAwLD/nY;/eUsgHjM9fhfvGaEbfOiZQ=="
 ---
 
