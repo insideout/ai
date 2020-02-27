@@ -58,15 +58,6 @@ related:
       name: Medical Xpress
       domain: medicalxpress.com
     quality: 34
-  - title: "ORNL researchers develop 'multitasking' AI tool to extract cancer data in record time"
-    excerpt: "To better leverage cancer data for research, scientists at ORNL are developing an artificial intelligence-based natural language processing tool to improve information extraction from textual pathology reports. The project is part of a DOE-National Cancer Institute collaboration known as the Joint Design of Advanced Computing Solutions for ..."
-    publishedDateTime: 2020-02-12T19:17:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-02/drnl-ord021220.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 12
 
 secured: "FBFHeu1f66CLbkqrew310GgR7TAlEmH6FGRliZjaldNdwYu2mX2oa6WCYAb36xzyaap9ag+HvDfpeYr4L9psGaIOFi1RrfkZS1+YY7DQWm8o9wIYPT2oy28oZ62VtzYq38URUuTOz4b9NW3VgAxMD/qymk1Kn3MusM6XTdBEhFq0Wd/+q31xsPMxJ9rSbXU/vAi8gqesHBMnZe8uk4Vw2ohzAVtldsck+3xJGCxRDzLfh5Y/0Mh0c5/ge5HawyUAZcF0bmLt6TnEPemk5WQv4eT4nUTNZnvgWoMLQIJjEx5XRBxMG0RcBeN6ScmhSX96/q4hC+9tc5mjK6KAvfhT52K6D2ZU6ZJAj7ThuBCzs9OMqvwxaedDCE6MfEZ151ybiRtJLPk158SaVnCShlWOclstB9sG5LR8REruaSUwPuBod79oiI1FNUvln6PwHFn0PrXHOMz8GLo8T8ejqsOv/B6FJCw+/UF1ourAviXFsaI=;OKcwpLKOUYF2MpoDBkEdlg=="
 ---

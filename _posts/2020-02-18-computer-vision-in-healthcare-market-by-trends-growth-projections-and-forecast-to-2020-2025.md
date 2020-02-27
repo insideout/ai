@@ -71,15 +71,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Global Artificial Intelligence (AI) in Automotive Market Size, Share, Growth Rate, Revenue, Segmentation, Industry Demand & Forecast to 2026"
-    excerpt: "The report concludes with an in-depth insights about the 'Artificial Intelligence (AI) in Automotive Market' and reflects as an effective guide and detailed set of information for the viewers to help understand the aerial view of the keyword industry."
-    publishedDateTime: 2020-02-12T19:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-automotive-market-size-share-growth-rate-revenue-segmentation-industry-demand-forecast-to-2026-2020-02-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 27
 
 secured: "1pOsXjhhspwheD+Rb1iCcAkQtPJbNmYsMMjY9n3QBR4bLmQJnyAuCPkD7oRiBuqpMfxKjSP4cWh2yQYyDh+EJBZ1Hyyi/83S/ABWogDjfjJgddB9uYEp7Z9p/exTOAh0pdcZV9vIMcS/G2YWKeNdQN/avDcAaMnxMkTTblvesvSCaNA7Vc1TrZGLOHJdkTvGgpZB1OXmWoRbK/q7JiMZ5RMGZ3EED39z7SqDVAnEWs5H8d4zSIM43gh26K3+hEJZ/1FyVa9AzkGSJiznUfskGdWElWAZ9YifDb54v9ewvMizU34AFqQYSj5AYNdsz1nl;PXYAtsqSWnfrp/VKZwnweg=="
 ---

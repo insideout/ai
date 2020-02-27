@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/monash-university-researche
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/monash-university-researchers-develop-ai-aimed-at-improving-suicide-prevention/"
 type: article
 quality: 83
-heat: 123
+heat: 113
 published: true
 
 provider:
@@ -64,15 +64,6 @@ related:
       name: Medical Xpress
       domain: medicalxpress.com
     quality: 34
-  - title: "ORNL researchers develop 'multitasking' AI tool to extract cancer data in record time"
-    excerpt: "To better leverage cancer data for research, scientists at ORNL are developing an artificial intelligence-based natural language processing tool to improve information extraction from textual pathology reports. The project is part of a DOE-National Cancer Institute collaboration known as the Joint Design of Advanced Computing Solutions for ..."
-    publishedDateTime: 2020-02-12T19:17:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-02/drnl-ord021220.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 12
 
 secured: "blTPygwOUwZZqWAe9HSSC7+V/m1RPvQb0BcPzBG2wxRpHj+gjqcF35GBnSkncXxx/5zAqW3gmewtrDTflocZEPasLImwOuRKFh4Em7tMjuZQP+P8oWz2amxOZShWD1HsGVrH7qCTTDNp4br1EBmMDFHUxW6PSj2TKANutwDpa867ista0GSrTrcYq72pNUycqIyrLAxMlZlggHxBQjNZ0dMF7dPl5hMFJ+juchTKc4rKqN1/Wc0VuEhZre1tWnnKxLFtocwRuWnvySL7vKomnFyyVlqFccjUPNKDlFiP/QmuEAl23ZP0vrwVq5NHzn0vORA8jxeiyT4PtUa/DRBSdpr+Ok97obsl9zInyMlfdYQ3MkrKk5H3jLlvczRDLmb80ax7dbAVwNFBJc9f9vEfXvffDvfpOe0+wYF0W4QwlDp6KqXtHTfaMfbC+gRshuUAELYDc0tjywByc7q6L6i+y4WOc96yH2LCnTMGu2hjQGA=;LCCB2AVvGyVJZmsf0Zx23Q=="
 ---

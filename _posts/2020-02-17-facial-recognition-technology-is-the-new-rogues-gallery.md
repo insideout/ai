@@ -8,8 +8,8 @@ ampWebUrl: "https://slate.com/technology/2020/02/rogues-gallery-facial-recogniti
 cdnAmpWebUrl: "https://slate-com.cdn.ampproject.org/c/s/slate.com/technology/2020/02/rogues-gallery-facial-recognition-technology-history.amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Slate
@@ -39,15 +39,6 @@ related:
       - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/02/p-1-trinamix.jpg"
         width: 1280
         height: 721
-  - title: "Public Perception of Facial Recognition Technologies - a four countries study"
-    excerpt: "Facial recognition technology (FRT) – which seeks to match people from a digital image or video with various identifying attributes – is increasingly commonplace in everyday life. The wide and quickly spreading application of the technology has become the subject of increased debate. On the one hand, #FRT is seen as a potentially powerful ..."
-    publishedDateTime: 2020-02-12T19:35:00Z
-    webUrl: "https://www.linkedin.com/pulse/public-perception-facial-recognition-technologies-four-meckel"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 16
 
 secured: "dM2GlwsXHdGJwPTaCE8ZAqyoiWdBAqVp6LrCu8MrESnF8R7YAU1/o5yceu6vc9Km3C0isAuRJehq3XAWmyDb/DenhH12YwWBklJwa7Y7GZ8I3DKU1oBPuiuGsMeOnZ/3WjsyPqRuOPZGFzFH1/2wkfJqYjD60rWFGQOpwkCIuCZQSuK1SIlq1cvqS33t+jRZlsC0dIU6E2EyhUW4OHMDzg9MtbFfV/JgjbN5KC5YULJhdP/CZ4fEikvlP+QE4sRxUxLiAMOHqhh8DLYx3eF0DWxP7CWhBG6HeeVt92nVNKfSxrMGob2QxkzzuYr25dV4xgG7S2tVjRIklsdoVXKNNZirqeOn/rrYuTTciLy/IbKZg7aDOi+AA0lRP72mxpZesD6AXGeJIqJcB8zCb9FpBhmPvrHhoOmcFZTWzGDGAf3KvvmrxLZp9HhwjMW/ryIrlzmQXUuxMrieDb1X0umYb2DNLy/FSIujBlFphJfheKU=;hin9bt2gzubGKlhvkV4DQw=="
 ---

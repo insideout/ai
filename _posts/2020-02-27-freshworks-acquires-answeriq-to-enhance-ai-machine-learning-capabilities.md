@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-27T04:21:00Z
 webUrl: "https://itwire.com/strategy/freshworks-acquires-answeriq-to-enhance-ai,-machine-learning-capabilities.html"
 type: article
 quality: 53
-heat: 63
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,21 @@ images:
     title: "Freshworks acquires AnsweriQ to enhance AI, machine learning capabilities"
 
 related:
+  - title: "Freshworks acquires US-based AI startup AnsweriQ"
+    excerpt: "BENGALURU: Software-as-a-service (SaaS) unicorn Freshworks Inc. has acquired US-based artificial intelligence (AI) startup AnsweriQ Inc. for an undisclosed amount. Freshworks said that AnsweriQ complements its own AI engine, Freddy. AnsweriQ's chief executive officer (CEO) Pradeep Rathinam has joined Freshworks as its chief customer officer."
+    publishedDateTime: 2020-02-27T12:33:00Z
+    webUrl: "https://www.livemint.com/companies/start-ups/freshworks-acquires-us-based-ai-startup-answeriq-11582806290835.html"
+    ampWebUrl: "https://www.livemint.com/companies/start-ups/freshworks-acquires-us-based-ai-startup-answeriq/amp-11582806290835.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/freshworks-acquires-us-based-ai-startup-answeriq/amp-11582806290835.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 57
+    images:
+      - url: "https://images.livemint.com/img/2020/02/27/600x338/Lead_1557161716457_1582806434181.jpg"
+        width: 600
+        height: 338
   - title: "Freshworks acquires AI customer service firm AnsweriQ"
     excerpt: "has acquired machine learning firm AnsweriQ to scale its AI customer service offerings. Financial details of the deal were not disclosed. Founded in 2017, US-based AnsweriQ is an AI-backed customer support company that uses algorithms to read and understand interactions from past tickets between the customer support agent and the customer."
     publishedDateTime: 2020-02-27T06:49:00Z

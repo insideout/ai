@@ -53,15 +53,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Landis+Gyr’s Revelo™ Brings Pattern Recognition and Machine Learning to the Edge of the Grid"
-    excerpt: "Founded in 2013 by pioneers in speech recognition, Sense uses machine learning technology to provide real-time insights on device behavior, even for those devices that are not “smart.” Customers rely on Sense for a wide range of uses including checking what time their kids get home, monitoring their home appliances, determining whether they ..."
-    publishedDateTime: 2020-02-12T19:42:00Z
-    webUrl: "https://apnews.com/d923b7ce5d7a593a2bf7b165d872b81c"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
 
 secured: "CvKy2hoC4EAy6iR4imEJnmxERA7++o2U7WspSs2CaF64KQaaumzMe9x51XfaiT47NdCHdgz18KRE3gFSRKrBDEvKo79aM4OIJgD3P59jjZyN1YkDR8QTF4Z/25Dbj7zJjkpKqpg0pz8UXUmFbBBOABw/zsKSQbst+y0c0ds/vEded1/IZTZoeoq9FPY2t1Iwdh+gV7A/aAylwDgRg3b/wH71a8ksp90ngeI77BvXXWPE1lulS5qwIH8ESOF1/r6TLbWi1HOvYIjgXhMl4B0tm4YVR5xntDmdMuVfvvNTWCjTErFXkIVlVnrUH7ACQUQ6BWyXqJpjZNyqYnBLRTmmliQuvBesDR1EaVfZQwhaISFm9C5Su5BwGUSflmzWVUA4tE4mG2CRwLQfoVd1jv4c5C9+xGL/rA7ZJBodDZO7/9EPSJGfwVfTaCpVVo4lyG0TwksCnDDwpEeqaYYwOcY+8fwmrtGeU0mfoidnrUyIOoM=;GMaTUS4s+t0/f30x6y1Lsw=="
 ---

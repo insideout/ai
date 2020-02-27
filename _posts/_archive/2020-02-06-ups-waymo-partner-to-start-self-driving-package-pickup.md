@@ -23,21 +23,6 @@ images:
     height: 450
     title: "UPS, Waymo partner to start self-driving package pickup"
 
-related:
-  - title: "UPS And Waymo Partner To Begin Self-Driving Package Pickup In Arizona"
-    excerpt: "Over the last decade, the company has demonstrated leadership in advanced data analytics, artificial intelligence, autonomous drone delivery, robotics and facility automation. Waymo is a self-driving technology company with a mission to improve road safety. Waymo has driven more than 20 million miles on public roads, 10 billion miles in ..."
-    publishedDateTime: 2020-02-12T19:33:00Z
-    webUrl: "https://apnews.com/ff2671f3b1b1e579abfae6baa55d5c48"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-
-secured: "YIyR8mjwy2moCImgomh8BdrW+O2JMnskrnB20XXXvPgJQLe528/iecUltJvmEBcBe7NfhGADF+B+zCSpL6Z5c1PPS7K0aUM+xq8J7eyoZJBaWTS1v9jsI4SewoAEazS060PNkw8OiwPydDNC78luyeUuKU7KHue7hjCsiwOOU+VAh0KvGakM9Fl0QLTNpGxwrj6qMujOFyvEBxLh0AZF8xxqPwycPR5AM3udIIXY0AWjblHShZummp0agFNJH8VbWj1KRE05WCiO0a0Y8csXHJCSrB88SjGMLnpTCEcaMDFzrytJYsk+tNGbgSZV/Cww;Cfnc88hNN6IKYTXgwnHOjA=="
+secured: "996I6hO9Ujn342sqjlv/c+7m6SeO5EKpJaARt9tZR30h18XAgbmp2Yok8qM7ZYoZqUTwSr3V2REsur52MwlTSK6cgKmakx23LuDwpGX+CbZAQI5KvvI0xud3lu0EswMwKvZs0X/Z3oixwXN092BMwWe+ZjitQ9l74zi2ZowjUtf2ihtSnPWYmBBkQzGaniePD8Ig5Fygbd8WhzZ/mCOFSlgx3TmHH8UDQkog+W6hxeFl8OvAkeeOk/GqTSJ7Gm0G6GuB3iqrBejkh4zRl/cZ9ltf8+YuCal4YlFxjUVKP3UNf7k+sLPxzcUdGIGirNrg;nC9E8PcxttArHMZ0vo6ocw=="
 ---
 

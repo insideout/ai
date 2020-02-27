@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-05T07:55:00Z
 webUrl: "https://sonicstate.com/news/2020/02/05/patches-for-your-deepmind-12/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,21 @@ images:
     height: 405
     title: "Patches For Your DeepMind 12"
 
-secured: "huvzoP26tRbnV0tDE5VZckl9z2WIM0jTPHenXLnoEnmqoPjwHpVYZApcAcCphfvHIxcWQScB5+XvKY3HrNGiMMTfXRa5wnCm7euL2B2t38ZKPGva+uskMe0tUWyIAdiClnSX1gDy55GINcNk9lOmBreDQfbw37jggGDKiDUVqgVPGN++SLdQlU508+M6QhRQLQ3RP8MssWy8MysjN+7UjfKgyVlqnwkq6/xYt3HPNjfpKSSbwN4RyR/hY/QW78dISSxQ/rLVibeNdYAwhC9QOMWSg8os4wTEZDGDPWG69hxbizn+5bQfxG/DiIooTZHh;2MNMg4RGiN67xk466nEDiQ=="
+related:
+  - title: "Easy Juno 106 Sounds From Your DeepMind"
+    excerpt: "Momo tells us that the DeepMind - Juno 106 Editor is a VST, AU and Standalone overlay midi editor that allows you to control the DeepMind 12 controls that are necessary to create the Juno 106 sounds. It is compatible with DeepMind 6 and DeepMind 12D A ..."
+    publishedDateTime: 2020-01-30T01:04:00Z
+    webUrl: "https://sonicstate.com/news/2020/01/30/easy-juno-106-sounds-from-your-deepmind/"
+    type: article
+    provider:
+      name: Sonic State
+      domain: sonicstate.com
+    quality: 39
+    images:
+      - url: "https://s3.amazonaws.com/ww2.sonicftp.com/news/images/32473_386.jpg"
+        width: 720
+        height: 405
+
+secured: "y27cBtlgpDU4pHSiZiiPGZqTASG+g9LOSeXdUfms6YYpJ1qFMlGE2kr0TpRPnpowUwV58m8UJh49loGP00Kj5xkE9y8OJcz8mEak08MUgQMndngUD2FUP7UpIXl8zXqBK6wgrYexEal5MbhLRXKlvPqwODTIUQMBmpl85O2xIRuklrvmbL8RqGGfduIfrcrqeH6ZJoM833WKNUO+sy/daCKxNigJ0lj2qveVOuTS/VKzuvYLde0/UJjYceJehOWyhBU9eaEBFsj1meOFo/KcWEbkihdkMYGDumlo+tjzx4Dve+FTI54XOeNKbW5+7yQU;7cN6oGO+wyRhJWauZ14UvA=="
 ---
 
