@@ -155,6 +155,15 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/9/e9/9e9cbbbc-111e-5904-b1c9-c12426069aab/5e41f2280d4e7.image.jpg?resize=576%2C324"
         width: 576
         height: 324
+  - title: "Facial Recognition Biz Clearview AI Suffers Data Breach"
+    excerpt: "A controversial facial recognition company has just informed its customers of a data breach in which its entire client list was stolen. Clearview AI leapt to fame in January when a New York Times report claimed that the start-up had scraped up to three billion images from social media sites to add to its database. That makes it a useful ..."
+    publishedDateTime: 2020-02-27T09:45:00Z
+    webUrl: "https://www.infosecurity-magazine.com/news/facial-recognition-clearview-ai/"
+    type: article
+    provider:
+      name: Infosecurity-magazine.com
+      domain: infosecurity-magazine.com
+    quality: 34
   - title: "Controversial facial recognition startup Clearview AI hit by massive client data breach"
     excerpt: "Clearview AI, the Aussie-founded startup at the centre of a data privacy debate for its facial recognition software, has suffered a data breach reportedly exposing its entire customer list, and details about those customers. A notification sent to Clearview customers said an intruder had “gained unauthorized access” to the startup’s ..."
     publishedDateTime: 2020-02-27T01:20:00Z

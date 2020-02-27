@@ -23,6 +23,6 @@ images:
     height: 465
     title: "US Army develops AI facial recognition protection"
 
-secured: "UAChiS+fpXe/b5ZVmaZuTnypojcx3jQKV0tB+VcvSo1/8Sj0rLxxcchN0RPj/pjL1dKLNUW5U+Vh1CPZCQNgL4f92mJQ2Yh1HtOhGhOBAi9CG3lLPZck1Z1Q1jo3+55HZloFClebNf1oTPMFb7JGjOGK7OlompFOpyKS1TQWawFBuKRYNHpqyH3XYt0xPpf/bdP/uStpI1xEJeLgg57c7yo5vJw9HYLqlo4ZuG7A+jmnewhte5RfgJE7iSUx4wQ5+gYnHY2ywM5Ctg8K7J1fuJ5lnmGBajIkdXB5/qn6nBnuPOWMKixPJzgyb3kSVloC;HGOLOmjgTe6AQyAWb7mAtw=="
+secured: "GRFgPkUFG5OJag71UPLR2o03fy2T641udir92DU/gqnpg+//h0TPOjfzLU47rT+rpCSVM0e+Z07jjgg9r2JtS7PNvUI52Q9DIDSn2O9xQqtoQLHO0Dq5VWdwift7XUFHnZXDS03PJS1qkIyejfVnBmNZVO6gy/qDU4eixsCvpUf8/Lv9XCJp+ogcxvKuQZC9F7X4BRD+4iILljwSoa/MC1RdtWk5AXXkX+t8S4mWUPEi0nNQ+4h6+xknn1wpa05/p5riduWcGjUMeX4ZH0ccc9HF/OyzbPhK8cYzoVAMWe8PlYvJkZz6u1KgD2qMnHOe;n9uBtrUPoSW83mtzHA8eCA=="
 ---
 

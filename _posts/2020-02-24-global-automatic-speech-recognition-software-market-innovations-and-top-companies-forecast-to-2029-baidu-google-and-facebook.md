@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-24T12:28:00Z
 webUrl: "https://www.marketwatch.com/press-release/global-automatic-speech-recognition-software-market-innovations-and-top-companies---forecast-to-2029-baidu-google-and-facebook-2020-02-24"
 type: article
 quality: 55
-heat: 115
+heat: 105
 published: true
 
 provider:
@@ -93,15 +93,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Global Artificial Intelligence in Oil & Gas Market Witness Highest Growth in near future| Intel, Microsoft and IBM Corporation"
-    excerpt: "Global Artificial Intelligence in Oil & Gas Market (Revenue and Volume), Type, Application, End-User, and Regional Analysis, Import-Export Analysis, Industry Analysis, Premium Insights, Intellectual Property Analysis,"
-    publishedDateTime: 2020-02-22T09:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-oil-gas-market-witness-highest-growth-in-near-future-intel-microsoft-and-ibm-corporation-2020-02-22?mod=mw_quote_news"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 19
 
 secured: "S7A9rkTVrRpUYjpzwu133j2ZpiurSOWvRZaUJBxADV7Hv60nG9aMg/AUwntXyNbhL3+IGu1M5E5HonJ0fL2uRblScpPHeD3zCkTZd7soon3CXDTXd0+8qrcsZY4cErHI9qQFYcNfViMxI3ElrSQinXmrhmFKbg1HgRzJHcWVNrtp2XfF8O8VGap+H6ghwaDZoy8NrIJvSII0eHNPVIUVoWJSZKSIjei9NqBVsL0SLmQNuzMlXuHiU+Guu+M7aOf+3xLRk831dAoAs9dn9fPj1e4r+MhbKCScn2GpSML767MromizGJVU6GP9cAIXe8/e;5XcKqA51JF3PdXYgblXIGQ=="
 ---

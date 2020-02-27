@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2020/02/14/from-process-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/02/14/from-process-automation-to-autonomous-process/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -30,19 +30,6 @@ images:
     title: "From Process Automation To Autonomous Process"
 
 related:
-  - title: "SimpliGov Teams with UiPath to Enhance Government Process Automation with Robotics and Online Forms"
-    excerpt: "to help modernize government through process automation and artificial intelligence-driven robotics. By working together, SimpliGov and UiPath are able to offer new capabilities to state, local and federal government to automatically validate user data (even when it is anonymous) and enable automated interactions between a modern, cloud-based ..."
-    publishedDateTime: 2020-02-12T16:36:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-simpligov-teams-with-uipath-enhance-government-process-automation-/2020/02/12/9096991.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 40
-    images:
-      - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
-        width: 252
-        height: 335
   - title: "Hamilton puts autonomous vehicles to the test"
     excerpt: "And when will the future arrive? There is a point on the horizon when the breaktaking speed of the coming 5G wireless network will allow consumer products and cars to be connected and \"talk\" to themselves, unleashing observations in data and a predictive power of artificial intelligence that will allow us to relax in our self-guided vehicles ..."
     publishedDateTime: 2020-02-15T23:20:00Z

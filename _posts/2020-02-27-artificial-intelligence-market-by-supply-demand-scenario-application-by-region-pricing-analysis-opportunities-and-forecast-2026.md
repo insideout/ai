@@ -94,15 +94,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Global Artificial Intelligence in Oil & Gas Market Witness Highest Growth in near future| Intel, Microsoft and IBM Corporation"
-    excerpt: "Global Artificial Intelligence in Oil & Gas Market (Revenue and Volume), Type, Application, End-User, and Regional Analysis, Import-Export Analysis, Industry Analysis, Premium Insights, Intellectual Property Analysis,"
-    publishedDateTime: 2020-02-22T09:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-oil-gas-market-witness-highest-growth-in-near-future-intel-microsoft-and-ibm-corporation-2020-02-22?mod=mw_quote_news"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 19
 
 secured: "IiUBzXgXYLq+mp8b7KScFz9wofpDyErXZylBLdG3IUH/gUjEtVRxmeL/msOJEd1o5e2cxtl9Yj7aTQxQAywCVIu4cN5xugAYlWT2PwvHHXLKPCJ6R8GbG16V2KllOcXxBFp8gVjcMKj1IDpDZ/th9us/+X6L0joLflwYNHKwQTD611wZylqA7N0T6GK7k6wOdGmy9JN33fGl+shKKuqWt/s593uEfnywTIh8Qz+4xmfDyFU8XBHoPxDhQb8nCzXQfY3btRLNwEprK9nzi+sGnW/QIF6KieFrl/KafiKga+QOSqGWdE25ZH/QFM7FPSWC;Hgq4YxMm+aZDcrm/DUgfjw=="
 ---

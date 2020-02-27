@@ -1,33 +1,21 @@
 ---
 category: news
-title: "Facial recognition startup Clearview AI says its full client list was stolen"
-excerpt: "Most of the company's customers are law enforcement agencies. You might expect a high-profile (and controversial) facial recognition startup like Clearview AI would have its data locked down, but it turns out it's just as vulnerable as almost any other company to malicious individuals. In a notification obtained by The Daily Beast, the company ..."
-publishedDateTime: 2020-02-26T20:45:00Z
-webUrl: "https://www.engadget.com/2020/02/26/clearview-ai-client-list-exposure/"
-ampWebUrl: "https://www.engadget.com/amp/2020/02/26/clearview-ai-client-list-exposure/"
-cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/26/clearview-ai-client-list-exposure/"
+title: "Facial Recognition Biz Clearview AI Suffers Data Breach"
+excerpt: "A controversial facial recognition company has just informed its customers of a data breach in which its entire client list was stolen. Clearview AI leapt to fame in January when a New York Times report claimed that the start-up had scraped up to three billion images from social media sites to add to its database. That makes it a useful ..."
+publishedDateTime: 2020-02-27T09:45:00Z
+webUrl: "https://www.infosecurity-magazine.com/news/facial-recognition-clearview-ai/"
 type: article
-quality: 101
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Engadget
-  domain: engadget.com
-  images:
-    - url: "/assets/images/organizations/engadget.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Infosecurity-magazine.com
+  domain: infosecurity-magazine.com
 
 topics:
   - AI
   - Computer Vision
-
-images:
-  - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-02%252Fbe661900-58d2-11ea-a7be-f35353dadc7d%26client%3Da1acac3e1b3290917d92%26signature%3De8442a5ba6d800bf23f2af01238efff47f2da2a9&client=amp-blogside-v2&signature=0b578e5a72b9b247df1c85c755266db45c5d71ee"
-    width: 600
-    height: 350
-    title: "Facial recognition startup Clearview AI says its full client list was stolen"
 
 related:
   - title: "Facial recognition company Clearview AI probed by Canada privacy agencies"
@@ -45,6 +33,21 @@ related:
       - url: "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png"
         width: 1200
         height: 630
+  - title: "Facial recognition startup Clearview AI says its full client list was stolen"
+    excerpt: "Most of the company's customers are law enforcement agencies. You might expect a high-profile (and controversial) facial recognition startup like Clearview AI would have its data locked down, but it turns out it's just as vulnerable as almost any other company to malicious individuals. In a notification obtained by The Daily Beast, the company ..."
+    publishedDateTime: 2020-02-26T20:45:00Z
+    webUrl: "https://www.engadget.com/2020/02/26/clearview-ai-client-list-exposure/"
+    ampWebUrl: "https://www.engadget.com/amp/2020/02/26/clearview-ai-client-list-exposure/"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/26/clearview-ai-client-list-exposure/"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 101
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-02%252Fbe661900-58d2-11ea-a7be-f35353dadc7d%26client%3Da1acac3e1b3290917d92%26signature%3De8442a5ba6d800bf23f2af01238efff47f2da2a9&client=amp-blogside-v2&signature=0b578e5a72b9b247df1c85c755266db45c5d71ee"
+        width: 600
+        height: 350
   - title: "Canadian Privacy Commissioners to Investigate Creepy Facial Recognition Firm Clearview AI"
     excerpt: "Canadian authorities are investigating shady face recognition company Clearview AI on the grounds that its scraping of billions of photos from the web might violate privacy laws, Reuters reported on Friday. According to Reuters, privacy commissioners from the Canadian federal government and of the provinces of British Columbia, Alberta ..."
     publishedDateTime: 2020-02-21T23:37:00Z
@@ -159,15 +162,6 @@ related:
       - url: "https://www.pbs.org/wnet/amanpour-and-company/files/2020/02/4gPfMc5-asset-mezzanine-16x9-BKkp7dE.jpg"
         width: 1920
         height: 1080
-  - title: "Facial Recognition Biz Clearview AI Suffers Data Breach"
-    excerpt: "A controversial facial recognition company has just informed its customers of a data breach in which its entire client list was stolen. Clearview AI leapt to fame in January when a New York Times report claimed that the start-up had scraped up to three billion images from social media sites to add to its database. That makes it a useful ..."
-    publishedDateTime: 2020-02-27T09:45:00Z
-    webUrl: "https://www.infosecurity-magazine.com/news/facial-recognition-clearview-ai/"
-    type: article
-    provider:
-      name: Infosecurity-magazine.com
-      domain: infosecurity-magazine.com
-    quality: 34
   - title: "Controversial facial recognition startup Clearview AI hit by massive client data breach"
     excerpt: "Clearview AI, the Aussie-founded startup at the centre of a data privacy debate for its facial recognition software, has suffered a data breach reportedly exposing its entire customer list, and details about those customers. A notification sent to Clearview customers said an intruder had “gained unauthorized access” to the startup’s ..."
     publishedDateTime: 2020-02-27T01:20:00Z
@@ -191,6 +185,6 @@ related:
       domain: ibtimes.com
     quality: 19
 
-secured: "7pVNKtJCdgcRadwO6K4ukowzZO1bbmy1CTbPbNEzasuut1YMqDNw2kGoI0hPD4KjD9H3nWkfyQUO9iYT3qByTpJ1BlAMbaMcu6kjTtmBGFhUsHkI7NXp2usWuEmft29yFsyO+dMCOwRenVu8rq3RADdGj8nBXCRXDhZ8NlECxmP5w1cRUwdLSOMnIMZFCyc8Ms0YdvvnigetDxjzbOt6kagkbeizTRiJzyclZCP1O5DLU8QVEdECa68aKxDmVY4HxwwY4Bk+9HZu+A6rf+PEuwWnBlKWpnp2oxwpir5ZM6ZfpKVkT7YfzDna5nJTa8VYhT9VLseXOBDybkT3c/1Ictetb2vbXwgvfYfvFHq/2aXy1Fi0h4+rESXUMj0XaVEr4QZO8YmObStec7NPa82CpWowmY/bYdSnS1w00Vrc/Wwtn8xydz+LYaFW8CVkBMpdFidUpaieBGxd/QnEhDpQPiknOzPuopWNfp4fBHeuG0Q=;Nv1RRejePivICZcl1mBwZw=="
+secured: "PFuwaz+7Smzq+6eLZZOaM8zfvY0oDBCbILfG9cQwQWxzCr+6htheMLhZU4nVqFtNn0z/oe2X//kQuf/y6h+dkxosueMT7nshzDy+T2ZaXl06LJHeyGFNQV8yg3BIjbD0zUhr/2pMAOnCPrughjQB9xAdVkE15CPsUvXCoBlJAkeIKSQiDRqD2Z2X3+P6vm8JrKhS+4O9+pJ8KvcqUxzFe1+3E6Z8QdzJejZKsrVN5CRmICbZYb+b6+AjsuodcGz3w+FZ5xRz8KtYF6PmmuNgzli6IQzDMD7kV+YOZpOHNh+5qUuV61g54MzL0J2QDsyxVk3FdaPArv0PlaEpBgQDDE+CibBF1bW4EPCTksa9Fvc9fKrVAJjYAEEhPuJgtCLIbShu9sDrND+7VvIsiwZdwFpWbvhd9CZNpRDVv2dmIzpNc8wkiZzhvW/Sb92L3AZnwYM5Zvj02QWLzFh+mbr/+x8OXHeLtqi+kImEttet4fY=;8diFxqTLIDnJODdaTucmxw=="
 ---
 

@@ -39,19 +39,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e0f554a78b3f4000623f36b%2F0x0.jpg"
         width: 1200
         height: 742
-  - title: "SimpliGov Teams with UiPath to Enhance Government Process Automation with Robotics and Online Forms"
-    excerpt: "to help modernize government through process automation and artificial intelligence-driven robotics. By working together, SimpliGov and UiPath are able to offer new capabilities to state, local and federal government to automatically validate user data (even when it is anonymous) and enable automated interactions between a modern, cloud-based ..."
-    publishedDateTime: 2020-02-12T16:36:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-simpligov-teams-with-uipath-enhance-government-process-automation-/2020/02/12/9096991.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 40
-    images:
-      - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
-        width: 252
-        height: 335
 
 secured: "Th7kiBvUFUhkmx8eujJ+orojAW5OPPebEshRYsoIErWu0W72obvATX8qN3w8srN3KIA0cQtvu42HTVgb/AvUyRrL1RFP10C/+l5+zNaXb0TSz8jx2eCGoO6sfpr0Qmuo6mfiz/oFAO9S+XaW5e8k9lI9bEl/nqhb8+pNT5DpeJl1A6fOMOYjU9cP0r9NwxrOdkwjE1atFBE7lkKYDvnE0eoPgWO48eufhwRYEkVdbSR75Ox7R/ozLq/LcHP/8cM8lJpgxKE24d57q0KWLM07Jbh/8zut6tUXKuKD6H3LUn5OOPqGgZFl6r3Motlr/SqSwBR4LCb+RBI5suIKK0xfeIaXndkJ6A6sNa6kIBGUla1h0LoSdq9qbZ5AgAdJ72nnjCsNorKF57ACaHxju+MkFckSijxY3X80cBHzbMi3qcXqGU018jLIJH80tUgX9vumGIjCpC4Jgt4WRAwUIQ1lVdmXdEZv/TpZ61lhY30ECc8=;UnjLNEVb8iQUR2IyHffNdQ=="
 ---
