@@ -1,11 +1,13 @@
 ---
 category: news
 title: "Waymo joins critics of California's self-driving data reports"
-excerpt: "Alphabet Inc’s (GOOGL.O) Waymo, widely considered the front-runner in self-driving vehicles, on Wednesday joined a growing chorus of dissenters panning a California requirement on reporting test data,"
+excerpt: "Alphabet Inc’s ( GOOGL.O) Waymo, widely considered the front-runner in self-driving vehicles, on Wednesday joined a growing chorus of dissenters panning a California requirement on reporting test data,"
 publishedDateTime: 2020-02-26T22:06:00Z
-webUrl: "https://www.reuters.com/article/us-autos-self-driving-california/californias-self-driving-car-companies-cover-2-9-million-miles-in-2019-dmv-idUSKCN20K31X"
+webUrl: "https://www.reuters.com/article/us-autos-self-driving-california-idUSKCN20K31X"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN20K31X"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN20K31X"
 type: article
-quality: 49
+quality: 89
 heat: -1
 published: false
 
@@ -20,6 +22,12 @@ provider:
 topics:
   - AI
   - AI in Autos
+
+images:
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200226&t=2&i=1495681716&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG1P2CU"
+    width: 824
+    height: 545
+    title: "Waymo joins critics of California's self-driving data reports"
 
 related:
   - title: "Self-driving car companies complain California test data may mislead"
@@ -170,6 +178,6 @@ related:
         width: 1200
         height: 600
 
-secured: "H3O+J95YkbqGeEFUw1Kld12zxvoV/zS6SQb2ijr+KyqbHQZvKmlBGLcBVqpBXwtqkxGGI/ISzboj7s+wXpa7Fjyo5xXL5i07+00EQf1xe2A1O/kbUUmDNwQ+CL9VR0zlZS8Vv9U9I18tn+sE7Kh+jFer0OA9XMZZP1RNleiSKIbg7qvEXy36L27+Xg6bZWFxp4tK/dPzahBo47gmSObKmkYgflRSrK6gv5T+jrNGNV90yXQT4ixUxzI2MhKBKnleG5/PLl7aqVRJBU/GTODmxobmrSw0AwvwqZ0KdtfzfAv2wbbnAu38bQPbd326um0iz4yA593pF0e8sgBoOzkYbvggaRYo3nN4d+GV09aXLiHmWw7jgHlPYMESY6a42YLFaig9/yrSGuE45R9hCWhKkQBQW3BSx2R9opH2eDx9+jEXGPlSoZauGsVSPX6N3sxIAYUlYPxRasbPOphqGwIZM/Xy28nM0RDBSLoNmsmm6do=;7WaFmPUwKauXGrhzdCGDcg=="
+secured: "+PgdsjLYlwjSbOwbbJGyL6utdyNbGY8L5F189jr4Fzr79frJ6uCgSCA8HNA8yWXLilDrf/V0jFbeRB1A7JNTEafkub2z2Fentj5A/2trGMjXOkXh3dOBuCSwstQl2ExPdlkdX69NfKOmGmubj4dlGSnl05V2WBxK0/w/+USUdW9eYho7aBoGqKMe9VcIM441QuGQi9VQTSwMeMW2T62W4iJdtx/SaLcme7MSvS1S8MsnKSjhIYVgVs0dvQDaOtgK1BjnYXlCLaUDVrXJsNz+pMi/2njf+q7DrsRbrugOHiR6Qeym/cs83OZqnmvtcjnO;+9eJiLbV4uVR5PTWiI0wlA=="
 ---
 

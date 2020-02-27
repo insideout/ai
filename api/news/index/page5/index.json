@@ -2,89 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_posts/2020-02-20-cisco-adds-5g-and-machine-learning-to-iot-monitoring-platform.md",
-      "title": "Cisco adds 5G and machine learning to IoT monitoring platform",
-      "excerpt": "\"Leveraging machine learning opens up opportunities to look for specific patterns or to find new patterns that may have operational, security or financial implications,\" he said. SEE: 5G: What it means for IoT (free PDF) The Control Center allows customers to manage multiple services through one platform. Butaney said one of Cisco's ...",
-      "heat": 131,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/cisco-adds-5g-and-machine-learning-to-iot-monitoring-platform/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/cisco-adds-5g-and-machine-learning-to-iot-monitoring-platform/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/cisco-adds-5g-and-machine-learning-to-iot-monitoring-platform/",
-      "publishedDateTime": "2020-02-20T08:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/02/03/66f6f5da-15a1-456c-8adf-a48cbf833009/resize/1200x/9666674f20d29b29ebb06d59db1479a9/istock-952984968.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Cisco adds 5G and machine learning to IoT monitoring platform",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-20-cybermdx-announces-integration-with-microsoft-azure-security-center-for-iot.md",
-      "title": "CyberMDX Announces Integration With Microsoft Azure Security Center for IoT",
-      "excerpt": "/PRNewswire/ -- CyberMDX, a leading provider of medical cyber security solution, delivering asset visibility and threat prevention for medical devices",
-      "heat": 102,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.prnewswire.com/news-releases/cybermdx-announces-integration-with-microsoft-azure-security-center-for-iot-301008578.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-20T11:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
-          "width": 600,
-          "height": 315,
-          "title": "CyberMDX Announces Integration With Microsoft Azure Security Center for IoT",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-20-do-we-need-more-data-or-more-science-in-data-science.md",
       "title": "Do We Need More Data Or More Science In Data Science?",
       "excerpt": "Is the success of Google that of the algorithms or that of data? Today’s fascination with artificial intelligence (AI) reflects both our appetite for data and our excitement about the new opportunities in machine learning.",
@@ -1811,7 +1728,7 @@
       "path": "_posts/2020-02-21-facial-recognition-company-clearview-ai-probed-by-canada-privacy-agencies.md",
       "title": "Facial recognition company Clearview AI probed by Canada privacy agencies",
       "excerpt": "Canadian privacy authorities have launched an investigation into New York-based Clearview AI to determine whether the firm’s use of facial recognition technology complies with the country’s privacy laws,",
-      "heat": 193,
+      "heat": 213,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.reuters.com/article/us-clearview-ai-canada-idUSKBN20F2I3",
@@ -2146,6 +2063,88 @@
       "topics": [
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-21-microsoft-launches-entrepreneurship-program-targeted-at-social-entrepreneurs.md",
+      "title": "Microsoft launches entrepreneurship program targeted at social entrepreneurs",
+      "excerpt": "Under the program, which will be available in 140 countries, qualifying social enterprises will receive access to free Microsoft cloud technologies, including up to $120,000 in Azure credits, along with technical ... and Zindi's web platform has been created to host machine learning and AI competitions online in Africa.",
+      "heat": 106,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/microsoft-launches-entrepreneurship-program-targeted-at-social-entrepreneurs/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-launches-entrepreneurship-program-targeted-at-social-entrepreneurs/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-launches-entrepreneurship-program-targeted-at-social-entrepreneurs/",
+      "publishedDateTime": "2020-02-21T00:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2018/01/14/0b007dc5-ca44-4699-930c-7831748aa020/thumbnail/1200x675/747f01070b6fac97c0eed9500191a237/samsung-logo-ces.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Microsoft launches entrepreneurship program targeted at social entrepreneurs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-21-microsoft-threat-protection-an-israeli-built-ai-bundle-of-redmonds-security-services.md",
+      "title": "Microsoft Threat Protection: an Israeli-built AI bundle of Redmond's security services",
+      "excerpt": "Microsoft Threat Protection literally consists of four existing services including Microsoft Defender Advanced Threat Protection (ATP), its Windows antivirus — which these days Mac and Linux too — Office ATP, Azure ATP, and its cloud app security suite. But while Microsoft Threat Protection is a combination of those existing services ...",
+      "heat": 116,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.csoonline.com/article/3528708/microsoft-threat-protection-an-israeli-built-ai-bundle-of-redmonds-security-services.html",
+      "ampWebUrl": "https://www.csoonline.com/article/3528708/microsoft-threat-protection-an-israeli-built-ai-bundle-of-redmonds-security-services.amp.html",
+      "cdnAmpWebUrl": "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3528708/microsoft-threat-protection-an-israeli-built-ai-bundle-of-redmonds-security-services.amp.html",
+      "publishedDateTime": "2020-02-20T18:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CSOonline",
+        "domain": "csoonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2019/12/09/06/2019-11-16t023310z_1_lynxmpefaf02a_rtroptp_4_microsoft-results-100820758-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Microsoft Threat Protection: an Israeli-built AI bundle of Redmond's security services",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
       ]
     }
   ],

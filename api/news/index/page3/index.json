@@ -2,87 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_posts/2020-02-17-how-salesforce-makes-decisions-on-ethics-and-social-issues.md",
-      "title": "How Salesforce Makes Decisions on Ethics and Social Issues",
-      "excerpt": "Paula Goldman joined Salesforce.com Inc. early last year as chief ethical and humane use officer, a new role tasked with developing a framework for making decisions on complicated political issues.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wsj.com/articles/how-salesforce-makes-decisions-on-ethics-and-social-issues-11581955201",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/how-salesforce-makes-decisions-on-ethics-and-social-issues-11581955201",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-salesforce-makes-decisions-on-ethics-and-social-issues-11581955201",
-      "publishedDateTime": "2020-02-17T09:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-154936/social",
-          "width": 1280,
-          "height": 640,
-          "title": "How Salesforce Makes Decisions on Ethics and Social Issues",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-17-how-the-race-to-autonomous-cars-got-sidetracked-by-human-nature.md",
-      "title": "How the race to autonomous cars got sidetracked by human nature",
-      "excerpt": "If you believed the early hype about autonomous cars ... have told me that it’s actually harder for a human to remain ready to take control than it is for them to fully control the vehicle. On top of that, studies have shown that even in controlled test environments, human reaction time for taking over an autonomous system is often to slow ...",
-      "heat": 132,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fastcompany.com/90459114/how-the-race-to-autonomous-cars-got-sidetracked-by-words?ref=hvper.com",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-16T22:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fast Company",
-        "domain": "fastcompany.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/02/poster-autonomous-cars-and-humans.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "How the race to autonomous cars got sidetracked by human nature",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-17-israel-risks-falling-behind-in-ai-despite-growth.md",
       "title": "Israel risks falling behind in AI despite growth",
       "excerpt": "Habana Labs. Mobileye. Hailo. Wix. There are more than 1,150 AI-focused startups in Israel, and that number is growing. Even so, some people within the government are concerned that the nation risks falling behind because it lacks a unified AI policy. AI policy refers to national strategies like the U.S.’s American AI Initiative and Canada ...",
@@ -1181,7 +1100,7 @@
       "path": "_posts/2020-02-18-global-machine-learning-chip-market-to-garner-3785-billion-by-2025-at-408-cagr.md",
       "title": "Global Machine Learning Chip Market to Garner $37.85 Billion by 2025, at 40.8% CAGR",
       "excerpt": "Portland, Feb. 18, 2020 (GLOBE NEWSWIRE) -- According to the report published by Allied Market Research, the global machine learning chip market accounted for $3.46 billion in 2018 and is projected to reach $37.",
-      "heat": 93,
+      "heat": 83,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.marketwatch.com/press-release/global-machine-learning-chip-market-to-garner-3785-billion-by-2025-at-408-cagr-2020-02-18",
@@ -2166,6 +2085,90 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-19-5-top-ranked-tech-stocks-to-gain-from-advanced-ml-capabilities.md",
+      "title": "5 Top-Ranked Tech Stocks to Gain From Advanced ML Capabilities",
+      "excerpt": "Machine learning (ML) requires no introduction in this data-driven automation era. ML, an inextricable application of artificial intelligence (AI) arena, enables systems to utilize existing data to predict outcomes and identify trends,",
+      "heat": 118,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nasdaq.com/articles/5-top-ranked-tech-stocks-to-gain-from-advanced-ml-capabilities-2020-02-19",
+      "ampWebUrl": "https://www.nasdaq.com/articles/5-top-ranked-tech-stocks-to-gain-from-advanced-ml-capabilities-2020-02-19?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/5-top-ranked-tech-stocks-to-gain-from-advanced-ml-capabilities-2020-02-19?amp",
+      "publishedDateTime": "2020-02-19T05:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg",
+          "width": 1024,
+          "height": 512,
+          "title": "5 Top-Ranked Tech Stocks to Gain From Advanced ML Capabilities",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "Natural Language Processing",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-19-85-in-a-35-hackers-show-how-easy-it-is-to-manipulate-a-self-driving-tesla.md",
+      "title": "85 in a 35? Hackers show how easy it is to manipulate a self-driving Tesla",
+      "excerpt": "Two McAfee researchers managed to trick a 2016 Tesla into a dangerous burst of acceleration by changing a speed limit reading from 35 m.p.h to 85 m.p.h.",
+      "heat": 107,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/story/85-in-a-35-hackers-show-how-easy-it-is-to-manipulate-a-self-driving-tesla-2020-02-19",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/guid/C82D90AE-5322-11EA-9A69-DD6044AC3CC1",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/guid/C82D90AE-5322-11EA-9A69-DD6044AC3CC1",
+      "publishedDateTime": "2020-02-19T07:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s.marketwatch.com/public/resources/images/MW-IA488_tesla_ZH_20200219100228.jpg",
+          "width": 890,
+          "height": 501,
+          "title": "85 in a 35? Hackers show how easy it is to manipulate a self-driving Tesla",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
       ]
     }
   ],

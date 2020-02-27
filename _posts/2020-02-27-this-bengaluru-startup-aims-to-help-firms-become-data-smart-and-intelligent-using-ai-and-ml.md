@@ -25,6 +25,6 @@ images:
     height: 399
     title: "This Bengaluru startup aims to help firms become data smart and intelligent using AI and ML"
 
-secured: "2/U6JE8DzNpnd1UGmAenoA2nV5DoPn/h90HGD3nq0EO9J5USqTvx64xLuJyEpScqmQygjw9a+32SdBkCsOXcbXCY1xIqEJ7TbQHVG9mv9ZGuSZjtHHEx56fL44pWkfL84tiJs9+jYcvT/+PPNBkRtDQCNtohkg/QNCEpacBsWBNdNKXyJP8u0ZvVEBVAvVJ7s1xnq0GW25PbBybpUToqMaNOkicCZmWa60RaIUoQdrXZnLHcl5eQbcRegPMaNdnqYI/s0cHGfV9G/cxVKLH80F5VWeUWNkkfgN3IwDEJHOyg75R/gwAHAhu62saKsbed;R3XoejGgyQRGVDEM7r8ixw=="
+secured: "Gftek7sgoM4s54pE0UwsIa9dzoXQXaP4+tJ8Akng7goBWtUuWmvvcWaIvAcUpkOgrXYlObyOvkW9izh1HqXQ8szV/B9Uv+tiJIVAKPRJbyFJYCqD6qdAABIUfoBomlaUFy3Lv30aelSPH9xLyf5LUI/lktppAJfqZxX8nE1+LhuCV7juy1LVZLvN4jxqaRtioQ5qxYQxDbdUp3yJ/N/qn1/RfecKIeEgtuhImykmF8jGqcIlmECbcM0feI0ZJwd+2EnT/Op+uQ6116er+VWgdgPLhZ4heknj+48GKKyoxlmkATdANhuoH7ANFMRGGTvETqvd/AXlRViYsbM52Oc/KHgJSx4jWYd1slbMhip8+/D/6pOJpOOW/fEFkec+ohZGsEQVIm/bPMdPj/Jw+fMnpE7czK475gMqPX5PvlQu5tZsEnNeU6w4BEIDr36235zDyh+SS/7OUOBhA3JfORHstfacof7ZEtIsx0Fj31Sd5L0=;V+XP3cKgbtOoY6PUQKcGcQ=="
 ---
 

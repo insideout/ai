@@ -2,50 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_posts/2020-02-26-artificial-intelligence-uncovers-outrageous-employee-expense-reports.md",
-      "title": "Artificial intelligence uncovers outrageous employee expense reports",
-      "excerpt": "SEE: Cheat sheet: Artificial intelligence (free PDF) (TechRepublic) \"Nothing shocks me. It's just how much is going through—that's what surprises me—how far people can take it,\" said Anant Kale, CEO of AppZen. Companies spend an average of $4,134 on a so-called high-risk expense report, which includes out-of-policy items or merchants ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/artificial-intelligence-uncovers-outrageous-employee-expense-reports/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/artificial-intelligence-uncovers-outrageous-employee-expense-reports/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/artificial-intelligence-uncovers-outrageous-employee-expense-reports/",
-      "publishedDateTime": "2020-02-26T08:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/01/21/8b97c7d2-1021-47d9-8344-ef569f6dac5e/resize/1200x/3468efd8c5c2522af698896bc047ed3e/screen-shot-2020-01-21-at-1-18-19-pm.png",
-          "width": 1200,
-          "height": 907,
-          "title": "Artificial intelligence uncovers outrageous employee expense reports",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-26-better-buy-ibm-vs-google.md",
       "title": "Better Buy: IBM vs. Google",
       "excerpt": "The cloud and cognitive software unit houses various cloud ... which competes against larger platforms like Amazon (NASDAQ:AMZN) Web Services (AWS), Microsoft's (NASDAQ:MSFT) Azure, and Google Cloud. Its global business services unit offers IT and ...",
@@ -316,7 +272,7 @@
       "path": "_posts/2020-02-26-clearview-ais-entire-client-list-stolen-in-data-breach.md",
       "title": "Clearview AI's entire client list stolen in data breach",
       "excerpt": "The breach affected all of the facial recognition company's customers, many of which are law enforcement agencies. Clearview AI says the data breach affected all of its customers. Clearview AI, a facial-recognition software maker that has sparked privacy concerns,",
-      "heat": 187,
+      "heat": 197,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.cnet.com/news/clearview-ai-had-entire-client-list-stolen-in-data-breach/",
@@ -2105,6 +2061,51 @@
           "width": 400,
           "height": 258,
           "title": "AI Accelerator Card Offers Face, Object Recognition Applications",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2019-12-20-computer-vision-and-the-ccpa-what-you-need-to-know.md",
+      "title": "Computer Vision and the CCPA: What You Need to Know",
+      "excerpt": "This article will cover what companies who have deployed or are considering deploying computer vision technology should do with the biometric data they collect in order to be compliant with the CCPA. The National Law Review does a tremendous job of ...",
+      "heat": 69,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/trueface-ai/computer-vision-and-the-ccpa-what-you-need-to-know-928477de0601",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-12-19T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*YGkB52a5tgp8vGHleh2bAw.png",
+          "width": 1200,
+          "height": 744,
+          "title": "Computer Vision and the CCPA: What You Need to Know",
           "attribution": null
         }
       ],

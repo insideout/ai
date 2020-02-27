@@ -27,6 +27,6 @@ images:
     height: 600
     title: "OpenAI goes all-in on Facebook’s Pytorch machine learning framework"
 
-secured: "DyXJWW+c2ckdOkNnuyUzYm9POwBSbxzfejhArtE4176uMrxeJUznRgmqs47Ttqrby085msAEhZ4JPwNKAkDat4LQbuxvmsGMu+aCOCgyANFxJf6JebCWM2H2jXNFDESaf3aXs4izb+0bCd5tqrm+T/fxMeOJHjDxbfk7IGT5ysr393DisOfUc5S4swlY/YOybHWo9YyPb4+bQYIXWXbLSEaFz7A3+H3cDCPL3OV18u7hXuupj2k5XmDNA0CFTlV6WxlDyJv/uhnvFnh7HJHTRDlWWESfu2zFUF+PX+rWSZumKcVwiaQY4Mo/XgGmHr0c;iy07nqSS6uasxMfGQTiW+Q=="
+secured: "a54ETUVaiVug7PzU/1KGzwWoG3loA3II9nfqZS2564KayQ+QkD2wkDT7eM2oV6FmQtfLErZOTNaHO71e1RzK9F+er85FS0mi4BPSOLUB4TtUqxYbwQo9Y7Ddx+u00QgapZ+tff26v1YufveliPyAUAt6PuZnpZi+iJXyopdNymQU32RGNsfaTLUqo/JeKlnjid6SSJZgQYJ84HsESIT7m5b0keVg7n7fOvg9DHkkWP54ew04+FBpQAljSHv4CAy0IPCvjXG/M6o8ctXD/YYdutSjgh+69gEYTQ32PRC42OCEf6w/emyb5hFpF1nUOxql;TdnlYmTOAqfHh5eGbt0+/g=="
 ---
 

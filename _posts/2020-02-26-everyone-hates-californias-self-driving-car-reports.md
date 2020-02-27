@@ -45,6 +45,21 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200221&t=2&i=1493407844&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG1K1LU"
         width: 830
         height: 545
+  - title: "Waymo joins critics of California's self-driving data reports"
+    excerpt: "Alphabet Inc’s ( GOOGL.O) Waymo, widely considered the front-runner in self-driving vehicles, on Wednesday joined a growing chorus of dissenters panning a California requirement on reporting test data,"
+    publishedDateTime: 2020-02-26T22:06:00Z
+    webUrl: "https://www.reuters.com/article/us-autos-self-driving-california-idUSKCN20K31X"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN20K31X"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN20K31X"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 89
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200226&t=2&i=1495681716&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG1P2CU"
+        width: 824
+        height: 545
   - title: "Cruise can now transport passengers in self-driving cars in CA"
     excerpt: "Cruise is now one of five self-driving companies allowed to participate in this program. The others are Zoox, Waymo, Pony.ai, Aurora and AutoX. This program is a bit different from the one run by the California Department of Motor Vehicles, which has granted 66 companies permits to test their respective vehicles in the state. Cruise originally ..."
     publishedDateTime: 2020-02-24T21:26:00Z
@@ -116,15 +131,6 @@ related:
       - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
         width: 1200
         height: 630
-  - title: "Waymo joins critics of California's self-driving data reports"
-    excerpt: "Alphabet Inc’s (GOOGL.O) Waymo, widely considered the front-runner in self-driving vehicles, on Wednesday joined a growing chorus of dissenters panning a California requirement on reporting test data,"
-    publishedDateTime: 2020-02-26T22:06:00Z
-    webUrl: "https://www.reuters.com/article/us-autos-self-driving-california/californias-self-driving-car-companies-cover-2-9-million-miles-in-2019-dmv-idUSKCN20K31X"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 49
   - title: "Waymo And Cruise Vie For Supremacy In Murky California Self-Driving Data"
     excerpt: "Annual statistics for how infrequently humans need to take control of self-driving vehicles isn’t definitive but is encouraging."
     publishedDateTime: 2020-02-26T22:27:00Z
@@ -172,6 +178,6 @@ related:
         width: 1200
         height: 600
 
-secured: "r7907D+k9dUyhEzuQcnhAmAwNgmyEwL+LTwksxIB10tm7Fy9U4tQOtiTuXNDZ93S7J7k1srAsqIvqfdsGIOoCDRy5fEIijqmGK8BSPJaN11jH9zYbjmGwtP+b7SerJZf/U0bOmDQIaK8DT6GegpmoGWnOfbWwbHHQBd4NKxKceYsKk4QtWX8jNyekcAVv48v7rzBWnE2yvB/KFasgRd/uFqmmfFHiUIjRFHi46ZxRcqVMbyBDHO1zSX845g+IJvkYiJo9xPj5BxseYZROlLrUx1nTcaaimcxZARQ718kcf1qEkIpL7IIzDDMJCU9nS4u;n19IX+8G5vp+y0lWEGuwew=="
+secured: "bbO8UxLiS3wPTN7kKvHJMlHuS3c5dQhbfpXlphX69XUabCoBZEWUYu3qYqYRdY+P8LdbGRB2vJIzglkW95qzXMDt6N3iDGARccs+wTdapPBbrSILx4a4nCh5s8qSwAio4OxrSbm76Ku1HJXfTxkk3DTSodfGbaFu58SjxPrWzMZMHTqtwJ1vtvri50MjqvRKhKjvBRlwzT49qh4i1no8J4dyXxXfgVWFR25cUuVzc14mAltlrMJmRoPRAZzWszYCCh/Evx9s4IWRPuP9gjSr0RfniOYVAMHv99LfhPeMivOAJ0+0+zgTy3OVwGAw1e5zpk539/hljjnTh+VtJ74FwQtCbiI5zZcLqeULAkr2nSKY4O3v8XWLdg5mTr9gH90QzpWX79zKcQPQlNIeHD9UC2TEhPquxRB5QUL8pTzlicciPfXdrlydJOVQgEiBceMX53W0laF5LpL+Sy1ok9F6iGTsfNhyGQg68HtXAYMBYUE=;lPfrtRlyQ3FY7wCHyI8NLQ=="
 ---
 

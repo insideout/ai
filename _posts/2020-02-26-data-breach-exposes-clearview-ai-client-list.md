@@ -85,6 +85,21 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 65
+  - title: "Facial recognition firm's entire client list exposed in data breach"
+    excerpt: "Feb. 26 (UPI) --Clearview AI, a New York-based facial-recognition software company, said Wednesday that its entire database was exposed in a data breach. The company sent a notification to its customers saying that an intruder gained unauthorized access to ..."
+    publishedDateTime: 2020-02-26T00:00:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2020/02/26/Facial-recognition-firms-entire-client-list-exposed-in-data-breach/3231582765378/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/02/26/Facial-recognition-firms-entire-client-list-exposed-in-data-breach/3231582765378/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/02/26/Facial-recognition-firms-entire-client-list-exposed-in-data-breach/3231582765378/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 59
+    images:
+      - url: "https://cdnph.upi.com/ph/st/th/3231582765378/2020/upi_com/de51fbc3ea78e9910e8aaba85b84b3df/v1.5/Facial-recognition-firms-entire-client-list-exposed-in-data-breach.jpg?lg=2"
+        width: 800
+        height: 532
   - title: "Clearview AI client list reportedly stolen"
     excerpt: "A list of clients who had contracts with Clearview AI, the startup that has partnered with law enforcement to use facial recognition technology on a massive database of photos, was stolen, according to a new report. The Daily Beast first reported that the ..."
     publishedDateTime: 2020-02-26T18:55:00Z
@@ -158,6 +173,6 @@ related:
       domain: thedailybeast.com
     quality: 0
 
-secured: "1yH0ip/EfOOBdhClS6WQ0DHdkdEF2mZbM6Wja238PnJHQ6uvVWOTUAIM9dOUo65HIjpJdxvfsinAKe7Wv+B28XsKdo23umjkt1TSzR6i8MhjTrK8eNsAdP/Y2ytsoi3TJnfWv3Tvc8mIZmE3Jwym5eeC39mTjOK89bTY3lPqOed4DywGFMCGQghXdbtMmnfcEjj4Vp1nKH80s2jLXNqrrL6KLTHXELPP2jafN4tRk/y0nDWS+yzUlZLIiGyPPB34C9fLj9wNpaONQvJOWdRS064oRQL4bfkhdpkpPKYsqY6/518tFzN8Ynkc1Qt43/9L;aAGGRTtqQbsYrIwnd8f1NA=="
+secured: "ZLkqtq8ZxyNGNo+InX2uyeyf6wvnWjpikN12gF6PVjUzuuhUrDuCl1Rx8oWJyM1Y1zoPfe9YC2+2Q1KGuoSWGg16Paqr6B/1+XRwlXR0AbC2oelKI7QP5HGGl7/GDB0Klg2rQ8LgiFcK7H9SKGL5MAs9ikaywagxkhg1X9i12SmJ/P7LeOrG32pfh0+zPKhuz5Dk5pXzp10QdqycsBRl3b11rP3BhahVZJTAtyhMYBSDJxWZRoQpRyDNp9+OlhT59/X6q8WptFrdzbVZGeCy6U06I3zEI/bTjURryuSHCEPBf73tQtSVexL9ftFV4JdA+5GRQV0GgURqhsNid4/vXDtjEBVpIFJiGhvmJPOW6IL9qWwDqhd0dGmsLrFrsCm6qrrXP0xNH7FxjcqvhZOBiBcKfx4W/XPkRYp9J+CaKs0/lPDyvYZRE6USmcgcRtwCf/rSTXd0WiugKTDM6T8B5J3o+QolWzkQ8FaniE4F0dY=;cATbeav2YgShK0fFco5wHA=="
 ---
 

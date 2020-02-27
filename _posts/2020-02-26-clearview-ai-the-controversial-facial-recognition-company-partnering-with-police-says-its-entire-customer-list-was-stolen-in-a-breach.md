@@ -88,6 +88,21 @@ related:
       - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
         width: 1200
         height: 630
+  - title: "Clearview AI, the facial-recognition company stealing Facebook photos, gets hacked"
+    excerpt: "Clearview AI, the creepy facial-recognition company that scrapes your photos from social media, has been hacked. According to a report by The Daily Beast, hackers accessed data including \"its entire list of customers, the number of searches those customers have made and how many accounts each customer had set up.\" Yes, a company primarily ..."
+    publishedDateTime: 2020-02-26T18:41:00Z
+    webUrl: "https://mashable.com/article/clearview-ai-client-list-hacked/"
+    ampWebUrl: "https://mashable.com/article/clearview-ai-client-list-hacked.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/clearview-ai-client-list-hacked.amp"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 83
+    images:
+      - url: "https://mondrian.mashable.com/2020%252F02%252F26%252Ff8%252Fb7ae576e678b4164821136834cb6b965.a9d7d.jpg%252F1200x630.jpg?signature=1ED1HL_mJDPNyNyJgXoYnP97tW0="
+        width: 1200
+        height: 630
   - title: "Clearview AI, controversial facial-recognition company focused on cybersecurity, gets hacked"
     excerpt: "Clearview AI, the creepy facial-recognition company that scrapes your photos from social media, has been hacked. According to a report by The Daily Beast, hackers accessed data including \"its entire list of customers, the number of searches those customers have made and how many accounts each customer had set up.\" Yes, a company primarily ..."
     publishedDateTime: 2020-02-26T18:41:00Z
@@ -144,6 +159,19 @@ related:
       - url: "https://www.pbs.org/wnet/amanpour-and-company/files/2020/02/4gPfMc5-asset-mezzanine-16x9-BKkp7dE.jpg"
         width: 1920
         height: 1080
+  - title: "Controversial facial recognition startup Clearview AI hit by massive client data breach"
+    excerpt: "Clearview AI, the Aussie-founded startup at the centre of a data privacy debate for its facial recognition software, has suffered a data breach reportedly exposing its entire customer list, and details about those customers. A notification sent to Clearview customers said an intruder had “gained unauthorized access” to the startup’s ..."
+    publishedDateTime: 2020-02-27T01:20:00Z
+    webUrl: "https://www.smartcompany.com.au/startupsmart/news/clearview-ai-data-breach/"
+    type: article
+    provider:
+      name: SmartCompany
+      domain: smartcompany.com.au
+    quality: 29
+    images:
+      - url: "https://www.smartcompany.com.au/content/uploads/2020/01/Clearview-AI.jpg"
+        width: 681
+        height: 333
   - title: "Canada Privacy Watchdog Probes Facial Recognition Startup"
     excerpt: "The images -- grabbed from popular social media platforms including Facebook, Instagram, Twitter and YouTube as well as millions of other websites -- are used in its facial recognition software. Clearview AI's founder Hoan Ton-That has said the technology has been made available to more than 600 law enforcement agencies in Canada and the United ..."
     publishedDateTime: 2020-02-21T20:27:00Z

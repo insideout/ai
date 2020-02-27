@@ -322,6 +322,19 @@ related:
       - url: "https://images.khaleejtimes.com/storyimage/KT/20200221/ARTICLE/200229877/AR/0/Facebook,-voice-recognition,-social-media.jpg&NCS_modified=20200221110340&exif=.jpg"
         width: 1200
         height: 800
+  - title: "NYCLU battles facial recognition"
+    excerpt: "LOCKPORT — Members of the New York Civil Liberties Union brought its fight against facial recognition-based surveillance home Tuesday with a public forum at Lockport Public Library. Since 2018, an intense public debate has erupted in Lockport and nationally over Lockport City School District’s deployment of a facial and object recognition ..."
+    publishedDateTime: 2020-02-27T00:30:00Z
+    webUrl: "https://poststar.com/news/state-and-regional/nyclu-battles-facial-recognition/article_90316467-46bc-517c-bb82-24eb30e709c0.html"
+    type: article
+    provider:
+      name: The Post-Star
+      domain: poststar.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/poststar.com/content/tncms/custom/image/e0e08718-ed3d-11e5-b87e-839addbbcbaa.jpg?resize=600%2C315"
+        width: 600
+        height: 315
   - title: "Edmonton police unveil details on use of facial recognition technology"
     excerpt: "City police revealed details on Wednesday for plans to implement facial recognition technology to match suspects from crime scenes with known offenders. Internal discussions began a couple of years ago to use the technology and have ramped up in the last couple of months, said Warren Driechel, superintendent of the Edmonton police informatics ..."
     publishedDateTime: 2020-02-20T01:16:00Z

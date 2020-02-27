@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-18T14:36:00Z
 webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-chip-market-to-garner-3785-billion-by-2025-at-408-cagr-2020-02-18"
 type: article
 quality: 63
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -43,17 +43,6 @@ related:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/01/Zoom-Warp-Speed-Blast-Artificial-Intelligence-300x267.jpeg"
         width: 300
         height: 267
-  - title: "Artificial Intelligence in Supply Chain Market is Expected to Grow at a CAGR of 39.4% from 2019 to reach $21.8 billion by 2027: Meticulous Research®"
-    excerpt: "Meticulous Research – leading global market research company published a research report titled \"Artificial Intelligence in Supply Chain Market by Component (Platforms,"
-    publishedDateTime: 2020-02-12T08:17:00Z
-    webUrl: "https://www.benzinga.com/press-releases/20/02/wr15307444/artificial-intelligence-in-supply-chain-market-is-expected-to-grow-at-a-cagr-of-39-4-from-2019-t"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/15307444"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15307444"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 17
   - title: "Speech and Voice Recognition Market To Set Phenomenal Growth At CAGR of 17.20% from 2019 to reach $26.79 billion by 2025"
     excerpt: "Meticulous Research – a leading global market research company published a research report titled \"Speech and Voice Recognition Market by Type (Speech and Voice Recognition),"
     publishedDateTime: 2020-02-17T06:37:00Z

@@ -48,17 +48,6 @@ related:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/01/Zoom-Warp-Speed-Blast-Artificial-Intelligence-300x267.jpeg"
         width: 300
         height: 267
-  - title: "Artificial Intelligence in Supply Chain Market is Expected to Grow at a CAGR of 39.4% from 2019 to reach $21.8 billion by 2027: Meticulous Research®"
-    excerpt: "Meticulous Research – leading global market research company published a research report titled \"Artificial Intelligence in Supply Chain Market by Component (Platforms,"
-    publishedDateTime: 2020-02-12T08:17:00Z
-    webUrl: "https://www.benzinga.com/press-releases/20/02/wr15307444/artificial-intelligence-in-supply-chain-market-is-expected-to-grow-at-a-cagr-of-39-4-from-2019-t"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/15307444"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15307444"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 17
 
 secured: "mc1LLPQZeeXzQHkjgG36Ck6luX1SgWTSU9Zb241EPofIFjcOL/cmIx1cFPO0RPmWX1/w5W1wuDVCbGL9AHD7jY11q5Gpxrk5my6RVQU5gCBFcLnJOQ5lKMFDZs2OozkZRt/WNCuILu+okoVVmOP3SyLDGmzRVtD3jY1pnfwn2F6rbT0KEFKxyUKmKWFqnAYWtOakMaw/yxgCC+MPalz+9w33AcSP2kGcE+wtHgxQ9F+R3iVsngZf0vS15H8ve0WEQmTXPBHOdRgpcZL2n1T7nShbs1XZ94bxmQB3GjWlB9vJzvnuiq2Yr2h0G4/jSJ68;aZW2ReXVH5Nkdty3sdhvYA=="
 ---

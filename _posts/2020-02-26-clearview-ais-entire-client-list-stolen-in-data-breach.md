@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/clearview-ai-had-entire-client-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/clearview-ai-had-entire-client-list-stolen-in-data-breach/"
 type: article
 quality: 87
-heat: 187
+heat: 197
 published: true
 
 provider:
@@ -85,6 +85,21 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 65
+  - title: "Facial recognition firm's entire client list exposed in data breach"
+    excerpt: "Feb. 26 (UPI) --Clearview AI, a New York-based facial-recognition software company, said Wednesday that its entire database was exposed in a data breach. The company sent a notification to its customers saying that an intruder gained unauthorized access to ..."
+    publishedDateTime: 2020-02-26T00:00:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2020/02/26/Facial-recognition-firms-entire-client-list-exposed-in-data-breach/3231582765378/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/02/26/Facial-recognition-firms-entire-client-list-exposed-in-data-breach/3231582765378/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/02/26/Facial-recognition-firms-entire-client-list-exposed-in-data-breach/3231582765378/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 59
+    images:
+      - url: "https://cdnph.upi.com/ph/st/th/3231582765378/2020/upi_com/de51fbc3ea78e9910e8aaba85b84b3df/v1.5/Facial-recognition-firms-entire-client-list-exposed-in-data-breach.jpg?lg=2"
+        width: 800
+        height: 532
   - title: "Clearview AI client list reportedly stolen"
     excerpt: "A list of clients who had contracts with Clearview AI, the startup that has partnered with law enforcement to use facial recognition technology on a massive database of photos, was stolen, according to a new report. The Daily Beast first reported that the ..."
     publishedDateTime: 2020-02-26T18:55:00Z

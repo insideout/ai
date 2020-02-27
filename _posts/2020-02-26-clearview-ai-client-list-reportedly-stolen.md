@@ -96,6 +96,21 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 65
+  - title: "Facial recognition firm's entire client list exposed in data breach"
+    excerpt: "Feb. 26 (UPI) --Clearview AI, a New York-based facial-recognition software company, said Wednesday that its entire database was exposed in a data breach. The company sent a notification to its customers saying that an intruder gained unauthorized access to ..."
+    publishedDateTime: 2020-02-26T00:00:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2020/02/26/Facial-recognition-firms-entire-client-list-exposed-in-data-breach/3231582765378/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/02/26/Facial-recognition-firms-entire-client-list-exposed-in-data-breach/3231582765378/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/02/26/Facial-recognition-firms-entire-client-list-exposed-in-data-breach/3231582765378/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 59
+    images:
+      - url: "https://cdnph.upi.com/ph/st/th/3231582765378/2020/upi_com/de51fbc3ea78e9910e8aaba85b84b3df/v1.5/Facial-recognition-firms-entire-client-list-exposed-in-data-breach.jpg?lg=2"
+        width: 800
+        height: 532
   - title: "Facial recognition software company reveals it was security breach exposing its entire client list"
     excerpt: "Facial recognition software provider Clearview AI has revealed that its entire client list was stolen by someone who ‘gained unauthorized access’ to company documents and data. According to a notice sent to its customers, Cleaview AI said that in addition to its client list, the intruder had gained access to the number of user accounts ..."
     publishedDateTime: 2020-02-26T17:54:00Z
