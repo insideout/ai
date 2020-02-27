@@ -516,6 +516,19 @@ related:
       name: Niagara Gazette
       domain: niagara-gazette.com
     quality: 19
+  - title: "MPs to examine privacy implications of facial-recognition technology used by RCMP"
+    excerpt: "OTTAWA — The controversial use of facial-recognition tools will soon be scrutinized by MPs. Members of the House of Commons committee on access to information, privacy and ethics voted this week to examine the technology's effects on civil society, privacy rights, minorities and vulnerable populations. New Democrat MP Charlie Angus ..."
+    publishedDateTime: 2020-02-27T22:53:00Z
+    webUrl: "https://www.nsnews.com/mps-to-examine-privacy-implications-of-facial-recognition-technology-used-by-rcmp-1.24085783"
+    type: article
+    provider:
+      name: News
+      domain: nsnews.com
+    quality: 19
+    images:
+      - url: "https://images.glaciermedia.ca/polopoly_fs/1.24085784.1582843241!/fileImage/httpImage/image.jpg_gen/derivatives/facebookogimage_560_292/cpt14048978-jpg.jpg"
+        width: 560
+        height: 292
   - title: "Scotland Yard make first arrest using live facial recognition technology"
     excerpt: "The live technology was rolled out in London last month despite concerns from privacy campaigners that it eroded civil liberties Credit: PA Scotland Yard have made their first arrest using controversial facial recognition technology. The country’s biggest police force began rolling out the live technology in London last month despite ..."
     publishedDateTime: 2020-02-27T20:27:00Z

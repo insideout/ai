@@ -1,27 +1,33 @@
 ---
 category: news
-title: "Controversial Facial Recognition Company Clearview AI Has Been Hacked"
-excerpt: "The online security woes just keep on coming, as controversial facial recognition company Clearview AI has been the victim of a security breach. Earlier this year, Clearview AI drew criticism throughout the world for its reckless pursuit of facial recognition data. The company was scraping YouTube videos, Facebook profiles, and any other form ..."
-publishedDateTime: 2020-02-27T21:42:00Z
-webUrl: "https://tech.co/news/facial-recognition-clearview-ai-hack-2020-02"
+title: "Clearview AI facial recognition customers reportedly include Justice Department, FBI, ICE, Macy's, NBA"
+excerpt: "The client list of Clearview AI, a controversial facial recognition app being used by US law enforcement to identify suspects and other people, has been leaked. Its customers reportedly include not only law enforcement agencies like ICE and the Justice Department,"
+publishedDateTime: 2020-02-27T22:12:00Z
+webUrl: "https://www.cnet.com/news/clearview-ai-facial-recognition-customers-reportedly-include-ice-justice-department-fbi-macys-nba/"
+ampWebUrl: "https://www.cnet.com/google-amp/news/clearview-ai-facial-recognition-customers-reportedly-include-ice-justice-department-fbi-macys-nba/"
+cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/clearview-ai-facial-recognition-customers-reportedly-include-ice-justice-department-fbi-macys-nba/"
 type: article
-quality: 54
+quality: 88
 heat: -1
 published: false
 
 provider:
-  name: Tech.co
-  domain: tech.co
+  name: CNET
+  domain: cnet.com
+  images:
+    - url: "/assets/images/organizations/cnet.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: "https://images.tech.co/wp-content/uploads/2020/02/27134849/facial-recognition-clearview-ai.jpg"
-    width: 1920
-    height: 960
-    title: "Controversial Facial Recognition Company Clearview AI Has Been Hacked"
+  - url: "https://cnet4.cbsistatic.com/img/JsUigaPqhHEO0XUYO41ZqO-Z-vo=/756x567/2020/01/18/2bde6ea9-4f91-4473-a8fb-1418d9ac5c7d/facial-recognition-james-martin-promo-1.jpg"
+    width: 756
+    height: 567
+    title: "Clearview AI facial recognition customers reportedly include Justice Department, FBI, ICE, Macy's, NBA"
 
 related:
   - title: "Facial recognition company Clearview AI probed by Canada privacy agencies"
@@ -69,21 +75,6 @@ related:
       - url: "https://i.kinja-img.com/gawker-media/image/upload/s--k8Q9PwVM--/c_scale,f_auto,fl_progressive,q_80,w_800/thuqbup5w7zmofhx9lam.png"
         width: 800
         height: 450
-  - title: "Clearview AI facial recognition customers reportedly include Justice Department, FBI, ICE, Macy's, NBA"
-    excerpt: "The client list of Clearview AI, a controversial facial recognition app being used by US law enforcement to identify suspects and other people, has been leaked. Its customers reportedly include not only law enforcement agencies like ICE and the Justice Department,"
-    publishedDateTime: 2020-02-27T22:12:00Z
-    webUrl: "https://www.cnet.com/news/clearview-ai-facial-recognition-customers-reportedly-include-ice-justice-department-fbi-macys-nba/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/clearview-ai-facial-recognition-customers-reportedly-include-ice-justice-department-fbi-macys-nba/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/clearview-ai-facial-recognition-customers-reportedly-include-ice-justice-department-fbi-macys-nba/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 88
-    images:
-      - url: "https://cnet4.cbsistatic.com/img/JsUigaPqhHEO0XUYO41ZqO-Z-vo=/756x567/2020/01/18/2bde6ea9-4f91-4473-a8fb-1418d9ac5c7d/facial-recognition-james-martin-promo-1.jpg"
-        width: 756
-        height: 567
   - title: "Facial Recognition Company Clearview AI Probed by Canada Privacy Agencies"
     excerpt: "Canadian privacy authorities have launched an investigation into New York-based Clearview AI to determine whether the firm's use of facial recognition technology complies with the country's privacy laws,"
     publishedDateTime: 2020-02-22T09:32:00Z
@@ -213,6 +204,19 @@ related:
       - url: "https://www.pbs.org/wnet/amanpour-and-company/files/2020/02/4gPfMc5-asset-mezzanine-16x9-BKkp7dE.jpg"
         width: 1920
         height: 1080
+  - title: "Controversial Facial Recognition Company Clearview AI Has Been Hacked"
+    excerpt: "The online security woes just keep on coming, as controversial facial recognition company Clearview AI has been the victim of a security breach. Earlier this year, Clearview AI drew criticism throughout the world for its reckless pursuit of facial recognition data. The company was scraping YouTube videos, Facebook profiles, and any other form ..."
+    publishedDateTime: 2020-02-27T21:42:00Z
+    webUrl: "https://tech.co/news/facial-recognition-clearview-ai-hack-2020-02"
+    type: article
+    provider:
+      name: Tech.co
+      domain: tech.co
+    quality: 54
+    images:
+      - url: "https://images.tech.co/wp-content/uploads/2020/02/27134849/facial-recognition-clearview-ai.jpg"
+        width: 1920
+        height: 960
   - title: "RCMP admits to using Clearview AI, says controversial facial recognition tool has solved child exploitation cases"
     excerpt: "The Mounties say they have been using controversial facial recognition tool Clearview AI for the last four months, and have used it to solve online child exploitation cases. “The RCMP’s National Child Exploitation Crime Centre (NCECC) has been using and evaluating Clearview AI’s software for approximately four months for online child ..."
     publishedDateTime: 2020-02-27T21:54:00Z
@@ -284,6 +288,6 @@ related:
         width: 1500
         height: 860
 
-secured: "nN+vvNU07hlb/WPiOieX3UL9MctfO499cSAexj+Eryjn9CXYSgZ+l7qDdETPMKqcar/TDp6mxqpIH8gRYJQ1hdScBylszNv4gI8Twb4NrQH67W0fTGyoRCwcFrlrlvdorndMOYEXTBei3aZ+WnohSf1tZXZia7J3A9r8Z4WG8oBLttcYx3FDW7JAnZd9BR87+t0gkeNLOF35Lj2qTmcPpvBAg2KA/GNb0cehbHuo1gI0iJUsHt12/fKwiaVYEK7kBMecGh5PI2tunU11AElEsqULoDlWvZulS61n+RT60dwnlRs3BuzpKgZqgiEAeTav6ZFIIuobBtOVBMlX7l3zogl+XvufVOY8ey1tJV6gXY+UvlOSRZ9pA0muJ8O2FTn92aZMZyBbWd1U+LUWWtdA+0MHc7kqo9/dRqaCjSBCV/yCqBEfXMY0bHoPfNgbmiG7unMTR7bRX4hegrHwxIlOdRKEWxbudgwQNPuZS28wOyA=;KR7Mr/8MYhmGCjQByEkAsw=="
+secured: "DvcVpc/qk5EO8rpz6RZ7ZZv27TYTbmI4VtgA+N/fCLNyzEMJAAhkzQo8xnmuCcAgXx+YY4r1sp/k43vHedTHPmcthYiKBXoTPQJUNjpKE7RiQBZTh5n+5FrOYfQORKNmhe8jjTmOmfR3orwmaIyMgmBhuhRRQsqJ2rqBW8vX5JDr5r2wXOXvgEkrz350wunt5mrcQMzDXBa338/GKmDOfVi7VpIyTIG2/KFpWKWSCXGYG09ErBDl7AhIK6BHJjSW1Umy34WVa013k4b+68CNjC5RSnCDOTuwwfzUaTfsuROZLcLimtu0Na3SPbbYuugC;uMLE1gLixFashmarCqLeKA=="
 ---
 

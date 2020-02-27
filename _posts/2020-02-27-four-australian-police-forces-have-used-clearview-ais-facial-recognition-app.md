@@ -509,6 +509,19 @@ related:
       name: Niagara Gazette
       domain: niagara-gazette.com
     quality: 19
+  - title: "MPs to examine privacy implications of facial-recognition technology used by RCMP"
+    excerpt: "OTTAWA — The controversial use of facial-recognition tools will soon be scrutinized by MPs. Members of the House of Commons committee on access to information, privacy and ethics voted this week to examine the technology's effects on civil society, privacy rights, minorities and vulnerable populations. New Democrat MP Charlie Angus ..."
+    publishedDateTime: 2020-02-27T22:53:00Z
+    webUrl: "https://www.nsnews.com/mps-to-examine-privacy-implications-of-facial-recognition-technology-used-by-rcmp-1.24085783"
+    type: article
+    provider:
+      name: News
+      domain: nsnews.com
+    quality: 19
+    images:
+      - url: "https://images.glaciermedia.ca/polopoly_fs/1.24085784.1582843241!/fileImage/httpImage/image.jpg_gen/derivatives/facebookogimage_560_292/cpt14048978-jpg.jpg"
+        width: 560
+        height: 292
   - title: "Moscow Enforces Coronavirus Quarantine with Facial Recognition Technology"
     excerpt: "Moscow is harnessing the power of facial recognition technology to try to stop the spread of the coronavirus (COVID-19). The city's mayor said on Friday that the tech was being used in Russia's capital in an effort to dissuade people placed under ..."
     publishedDateTime: 2020-02-25T17:41:00Z
@@ -559,6 +572,6 @@ related:
       domain: seattletimes.com
     quality: 0
 
-secured: "ayvEk/phTvMJakI6Pq9v5gELjmU5yHnZDgnIX0WCQsSMJC722WrfcsJ3SiFCqqHl8wXbMESVi5HBw3Ql54GVLQaH3tIPchw411gvXbfoNnEOORiR0YbhlY+KOb1WyDlCNg2Rt4HuLy/jlBzMhqtbQI18pb9gcynU0Vfwj0wJ1MycK8tQYDOr+TM+uMLNGDO/R4XR+o3CueUIgFLoCzB8St/++GvOsEs5f9SUoBJPAN/0c5jCVheBVD9Mgi8AWIbWFLFBI9kfPHTbFfmJ75W9rs1i6H5Nw/HY7DL0UIMgNXDhLqd9z8sdPbDHY39F5wlD;/LqCNiU7GWDT0hwK1dLHaQ=="
+secured: "AaLeD/rjd0AJTMOkYCh7E2i0w8qs9uPzzf2jA8fJgK25DBhZXZ6I4T+IgwQPHqtTdMUivu2Eewm76HZOrodIpOLHkG1dxhRLhchq8oh3Th2xOScGTk8ytMkuZ7+t4nLoOcsPSXtVLC1zv81nDuZVa1pvw1PZxeU24oBJcwFTZPj0pENnzP9neh5Aah+xv2lrAtG2qK4RwtFjqDWUlqvE1PiJzsC5z+YXwmxFuVO4Tz1B4Z/2qgyM+Z/oC2Qo8lhhkceAoXrQwvXrwgcBDPhssTn5wRTt/+Egy97tr2eg0ZHPeuS8x3bHK9fdyJX+hzyZDJd46KxKIbjsWT7Kwurywb0cTwE6WzKNpezx3lbNou4LmMogdm2UpvHxtFr6T0upF0w95CU551y2TsGgBZrwvPKhWZj91KCbSEE+DyjaAhF54k/rDsoT02vfyEpat1hybGKw9fO+GggmAgLl/iaPzIETiEWJUASKtzG9tnsxevM=;sUr130kOThlDsMVFJdfhIA=="
 ---
 

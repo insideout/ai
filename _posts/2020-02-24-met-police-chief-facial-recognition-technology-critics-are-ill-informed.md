@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2020/feb/24/met-police-chief-
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/feb/24/met-police-chief-cressida-dick-facial-recognition-technology-critics-ill-informed"
 type: article
 quality: 158
-heat: 558
+heat: 568
 published: true
 
 provider:
@@ -509,6 +509,19 @@ related:
       name: Niagara Gazette
       domain: niagara-gazette.com
     quality: 19
+  - title: "MPs to examine privacy implications of facial-recognition technology used by RCMP"
+    excerpt: "OTTAWA — The controversial use of facial-recognition tools will soon be scrutinized by MPs. Members of the House of Commons committee on access to information, privacy and ethics voted this week to examine the technology's effects on civil society, privacy rights, minorities and vulnerable populations. New Democrat MP Charlie Angus ..."
+    publishedDateTime: 2020-02-27T22:53:00Z
+    webUrl: "https://www.nsnews.com/mps-to-examine-privacy-implications-of-facial-recognition-technology-used-by-rcmp-1.24085783"
+    type: article
+    provider:
+      name: News
+      domain: nsnews.com
+    quality: 19
+    images:
+      - url: "https://images.glaciermedia.ca/polopoly_fs/1.24085784.1582843241!/fileImage/httpImage/image.jpg_gen/derivatives/facebookogimage_560_292/cpt14048978-jpg.jpg"
+        width: 560
+        height: 292
   - title: "Moscow Enforces Coronavirus Quarantine with Facial Recognition Technology"
     excerpt: "Moscow is harnessing the power of facial recognition technology to try to stop the spread of the coronavirus (COVID-19). The city's mayor said on Friday that the tech was being used in Russia's capital in an effort to dissuade people placed under ..."
     publishedDateTime: 2020-02-25T17:41:00Z

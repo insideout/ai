@@ -8,7 +8,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN20F2I3"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN20F2I3"
 type: article
 quality: 103
-heat: 273
+heat: 293
 published: true
 
 provider:
@@ -60,6 +60,21 @@ related:
       - url: "https://i.kinja-img.com/gawker-media/image/upload/s--k8Q9PwVM--/c_scale,f_auto,fl_progressive,q_80,w_800/thuqbup5w7zmofhx9lam.png"
         width: 800
         height: 450
+  - title: "Clearview AI facial recognition customers reportedly include Justice Department, FBI, ICE, Macy's, NBA"
+    excerpt: "The client list of Clearview AI, a controversial facial recognition app being used by US law enforcement to identify suspects and other people, has been leaked. Its customers reportedly include not only law enforcement agencies like ICE and the Justice Department,"
+    publishedDateTime: 2020-02-27T22:12:00Z
+    webUrl: "https://www.cnet.com/news/clearview-ai-facial-recognition-customers-reportedly-include-ice-justice-department-fbi-macys-nba/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/clearview-ai-facial-recognition-customers-reportedly-include-ice-justice-department-fbi-macys-nba/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/clearview-ai-facial-recognition-customers-reportedly-include-ice-justice-department-fbi-macys-nba/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 88
+    images:
+      - url: "https://cnet4.cbsistatic.com/img/JsUigaPqhHEO0XUYO41ZqO-Z-vo=/756x567/2020/01/18/2bde6ea9-4f91-4473-a8fb-1418d9ac5c7d/facial-recognition-james-martin-promo-1.jpg"
+        width: 756
+        height: 567
   - title: "Facial Recognition Company Clearview AI Probed by Canada Privacy Agencies"
     excerpt: "Canadian privacy authorities have launched an investigation into New York-based Clearview AI to determine whether the firm's use of facial recognition technology complies with the country's privacy laws,"
     publishedDateTime: 2020-02-22T09:32:00Z
@@ -217,6 +232,17 @@ related:
       - url: "https://images.thestar.com/5V3cA-Dnk1rtXOS8iTTUOE3lQ0A=/1200x800/smart/filters:cb(1582840130861)/https://www.thestar.com/content/dam/thestar/news/canada/2020/02/27/rcmp-admits-to-using-clearview-ai-says-controversial-facial-recognition-tool-has-solved-child-exploitation-cases/rcmp.jpg"
         width: 1200
         height: 800
+  - title: "RCMP used controversial Clearview AI facial recognition tool on 2 child exploitation cases"
+    excerpt: "THE CANADIAN PRESS IMAGES/Lee Brown The RCMP confirmed Wednesday that the police force has been using the controversial facial recognition technology Clearview AI for roughly four months as part of online child sexual exploitation investigations and resulted in the rescue of two children. The Mounties said in a statement Clearview AI’s facial ..."
+    publishedDateTime: 2020-02-27T22:40:00Z
+    webUrl: "https://globalnews.ca/news/6605675/rcmp-used-clearview-ai-child-exploitation/"
+    ampWebUrl: "https://globalnews.ca/news/6605675/rcmp-used-clearview-ai-child-exploitation/amp/"
+    cdnAmpWebUrl: "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/6605675/rcmp-used-clearview-ai-child-exploitation/amp/"
+    type: article
+    provider:
+      name: Global News
+      domain: globalnews.ca
+    quality: 44
   - title: "Facial Recognition Biz Clearview AI Suffers Data Breach"
     excerpt: "A controversial facial recognition company has just informed its customers of a data breach in which its entire client list was stolen. Clearview AI leapt to fame in January when a New York Times report claimed that the start-up had scraped up to three billion images from social media sites to add to its database. That makes it a useful ..."
     publishedDateTime: 2020-02-27T09:45:00Z

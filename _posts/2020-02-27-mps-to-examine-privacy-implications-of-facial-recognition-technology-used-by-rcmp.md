@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Police board knew about facial recognition pilot project, acting chair says"
-excerpt: "Questions about the Ottawa police pilot of facial recognition software continued to swirl Monday as two police board members questioned the force on what its plans were for the controversial technology amid the revelation that the board knew about the pilot. Indeed, acting chair Sandy Smallwood said that the board was informed of the pilot at ..."
-publishedDateTime: 2020-02-25T18:32:00Z
-webUrl: "https://ottawacitizen.com/news/local-news/police-board-knew-about-facial-recognition-pilot-acting-chair-says"
-ampWebUrl: "https://ottawacitizen.com/news/local-news/police-board-knew-about-facial-recognition-pilot-acting-chair-says/amp"
-cdnAmpWebUrl: "https://ottawacitizen-com.cdn.ampproject.org/c/s/ottawacitizen.com/news/local-news/police-board-knew-about-facial-recognition-pilot-acting-chair-says/amp"
+title: "MPs to examine privacy implications of facial-recognition technology used by RCMP"
+excerpt: "OTTAWA — The controversial use of facial-recognition tools will soon be scrutinized by MPs. Members of the House of Commons committee on access to information, privacy and ethics voted this week to examine the technology's effects on civil society, privacy rights, minorities and vulnerable populations. New Democrat MP Charlie Angus ..."
+publishedDateTime: 2020-02-27T22:53:00Z
+webUrl: "https://www.nsnews.com/mps-to-examine-privacy-implications-of-facial-recognition-technology-used-by-rcmp-1.24085783"
 type: article
-quality: 72
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Ottawa Citizen
-  domain: ottawacitizen.com
+  name: News
+  domain: nsnews.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: "https://postmediaottawacitizen2.files.wordpress.com/2020/01/76459938-13306503-w-1.jpg"
-    width: 1000
-    height: 750
-    title: "Police board knew about facial recognition pilot project, acting chair says"
+  - url: "https://images.glaciermedia.ca/polopoly_fs/1.24085784.1582843241!/fileImage/httpImage/image.jpg_gen/derivatives/facebookogimage_560_292/cpt14048978-jpg.jpg"
+    width: 560
+    height: 292
+    title: "MPs to examine privacy implications of facial-recognition technology used by RCMP"
 
 related:
   - title: "Met police chief: facial recognition technology critics are ill-informed"
@@ -97,6 +95,21 @@ related:
       name: Ottawa Citizen
       domain: ottawacitizen.com
     quality: 74
+    images:
+      - url: "https://postmediaottawacitizen2.files.wordpress.com/2020/01/76459938-13306503-w-1.jpg"
+        width: 1000
+        height: 750
+  - title: "Police board knew about facial recognition pilot project, acting chair says"
+    excerpt: "Questions about the Ottawa police pilot of facial recognition software continued to swirl Monday as two police board members questioned the force on what its plans were for the controversial technology amid the revelation that the board knew about the pilot. Indeed, acting chair Sandy Smallwood said that the board was informed of the pilot at ..."
+    publishedDateTime: 2020-02-25T18:32:00Z
+    webUrl: "https://ottawacitizen.com/news/local-news/police-board-knew-about-facial-recognition-pilot-acting-chair-says"
+    ampWebUrl: "https://ottawacitizen.com/news/local-news/police-board-knew-about-facial-recognition-pilot-acting-chair-says/amp"
+    cdnAmpWebUrl: "https://ottawacitizen-com.cdn.ampproject.org/c/s/ottawacitizen.com/news/local-news/police-board-knew-about-facial-recognition-pilot-acting-chair-says/amp"
+    type: article
+    provider:
+      name: Ottawa Citizen
+      domain: ottawacitizen.com
+    quality: 72
     images:
       - url: "https://postmediaottawacitizen2.files.wordpress.com/2020/01/76459938-13306503-w-1.jpg"
         width: 1000
@@ -509,19 +522,6 @@ related:
       name: Niagara Gazette
       domain: niagara-gazette.com
     quality: 19
-  - title: "MPs to examine privacy implications of facial-recognition technology used by RCMP"
-    excerpt: "OTTAWA — The controversial use of facial-recognition tools will soon be scrutinized by MPs. Members of the House of Commons committee on access to information, privacy and ethics voted this week to examine the technology's effects on civil society, privacy rights, minorities and vulnerable populations. New Democrat MP Charlie Angus ..."
-    publishedDateTime: 2020-02-27T22:53:00Z
-    webUrl: "https://www.nsnews.com/mps-to-examine-privacy-implications-of-facial-recognition-technology-used-by-rcmp-1.24085783"
-    type: article
-    provider:
-      name: News
-      domain: nsnews.com
-    quality: 19
-    images:
-      - url: "https://images.glaciermedia.ca/polopoly_fs/1.24085784.1582843241!/fileImage/httpImage/image.jpg_gen/derivatives/facebookogimage_560_292/cpt14048978-jpg.jpg"
-        width: 560
-        height: 292
   - title: "Moscow Enforces Coronavirus Quarantine with Facial Recognition Technology"
     excerpt: "Moscow is harnessing the power of facial recognition technology to try to stop the spread of the coronavirus (COVID-19). The city's mayor said on Friday that the tech was being used in Russia's capital in an effort to dissuade people placed under ..."
     publishedDateTime: 2020-02-25T17:41:00Z
@@ -572,6 +572,6 @@ related:
       domain: seattletimes.com
     quality: 0
 
-secured: "gX325JAx7SeGmBDzaJZ4I7jC+x40rB1qUF0Es/runC+vZkxGlcuTHtxUuFsU4usxb493wdBx3RfwhWBQeNSgF6TlRI+1Vzg2gFlsIita11lU1fo0EQ4z5KUuDQW/1JKwChZB23Roa982nKKMk+9XvoqQvjjmq86rjRSX+qel0kJTsfpglNBjn5BilrnzxdI+wawHcFgRBpaHmPgB0DMHxWMN5scwgHhkAAhjsbzzDo4lehyHggpMaoew2gSfHORxXczKNBA/2uERUo2Doz6GL/thuJk4pyKaXewIwSOvgpwIQgIoYaNucXPHvTdiFE9w;zHTySh/VdT3p+jUUIY8v4A=="
+secured: "di18qgQEELDYAY5bIOHMxemYSVb3hSgP6XxudMe4fMkwRLGIvsc85R6M5b8gL6SUrL2tAYknjpswbA/UeuFWH8r5bbsiqCqETg/ig5p0HgAAfPcnuxO6P8HrgHqIm3gbgeNmspSU73Oe898NX7l8jrHPSDFK+vLAEZ2A5EKvaI9jtzhCxQBRpVieQS06IgZoeKvMF3MAHrjTpOVO0PjfQz4Rsz8fjnFhY//sbkbZa+E0SfgSyIqtBUWDkoZYwhQPKm2mZyqZ5esqlMbP08U0ckiEElsIzqf2DIpTPgkDp6vAw7qJ6xyWueH5Zq2UpNcn;jEUP4qtMGR8fjYheh/S2zw=="
 ---
 
