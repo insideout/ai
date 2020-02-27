@@ -2,228 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_posts/2020-02-21-self-driving-car-companies-complain-california-test-data-may-mislead.md",
-      "title": "Self-driving car companies complain California test data may mislead",
-      "excerpt": "Developers of self-driving cars are amping up criticism of a California reporting requirement on test data, saying the data could mislead, as the state prepares to release the latest results for 2019.",
-      "heat": 199,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.reuters.com/article/us-autos-self-driving-california/self-driving-car-companies-complain-california-test-data-may-mislead-idUSKBN20F2F7",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN20F2F7",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN20F2F7",
-      "publishedDateTime": "2020-02-21T09:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200221&t=2&i=1493407844&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG1K1LU",
-          "width": 830,
-          "height": 545,
-          "title": "Self-driving car companies complain California test data may mislead",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-21-the-amazing-ways-goodyear-uses-artificial-intelligence-and-iot-for-digital-transformation.md",
-      "title": "The Amazing Ways Goodyear Uses Artificial Intelligence And IoT For Digital Transformation",
-      "excerpt": "Although Goodyear is a mature company, they are on the cutting edge of using today’s newest technology to propel innovation and their business in the 21st century.",
-      "heat": 120,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/02/21/the-amazing-ways-goodyear-uses-artificial-intelligence-and-iot-for-digital-transformation/",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/02/21/the-amazing-ways-goodyear-uses-artificial-intelligence-and-iot-for-digital-transformation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/02/21/the-amazing-ways-goodyear-uses-artificial-intelligence-and-iot-for-digital-transformation/amp/",
-      "publishedDateTime": "2020-02-20T21:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e4f6b9f765d4500072cd7f2%2F0x0.jpg",
-          "width": 1200,
-          "height": 577,
-          "title": "The Amazing Ways Goodyear Uses Artificial Intelligence And IoT For Digital Transformation",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-21-three-ai-powered-jobs-for-non-techies.md",
-      "title": "Three AI-powered Jobs For Non-Techies",
-      "excerpt": "In a world where students are urged to study STEM subjects, the rise of AI may ironically increase the value we place on the skills gained by studying the humanities or the arts. In an AI-powered world,",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/21/three-ai-powered-jobs-for-non-techies/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/21/three-ai-powered-jobs-for-non-techies/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/21/three-ai-powered-jobs-for-non-techies/amp/",
-      "publishedDateTime": "2020-02-21T05:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/958841856/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 474,
-          "title": "Three AI-powered Jobs For Non-Techies",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-21-un-will-use-ai-to-learn-what-people-want-from-peace-deals.md",
-      "title": "UN will use AI to learn what people want from peace deals",
-      "excerpt": "The UN will help people in warzones to influence peace deals through an AI conversation tool they can access through their smartphones. The system will be launched within the next year, the Financial Times reports. The technology was developed by UN officials alongside a startup called Remesh, which produces a tool that creates online ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/02/21/un-will-use-ai-to-learn-what-people-want-from-peace-deals/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/02/21/un-will-use-ai-to-learn-what-people-want-from-peace-deals/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/21/un-will-use-ai-to-learn-what-people-want-from-peace-deals/amp/",
-      "publishedDateTime": "2020-02-21T08:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/Untitled-design-28-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "UN will use AI to learn what people want from peace deals",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-22-artificial-intelligence-set-to-jazz-up-software-development-and-deployment.md",
-      "title": "Artificial intelligence set to jazz up software development and deployment",
-      "excerpt": "Artificial intelligence and machine learning has the potential to boost many, many areas of the enterprise. As explored in my recent post, it is capable of accelerating and adding intelligence to supply chain management, human resources, sales, marketing and finance. Oh, and one more area, by the way -- IT management. The inevitable impact of ...",
-      "heat": 95,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/how-artificial-intelligence-will-jazz-up-software-development-and-deployment/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-artificial-intelligence-will-jazz-up-software-development-and-deployment/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-artificial-intelligence-will-jazz-up-software-development-and-deployment/",
-      "publishedDateTime": "2020-02-22T07:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/01/31/feb50686-cae2-407b-a9cc-d43f81bfe48b/thumbnail/1200x675/a4bdd67a9d47da93ecd63a666ea9a9a4/phone-mask.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Artificial intelligence set to jazz up software development and deployment",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-22-goodwill-launches-new-initiative-to-train-employees-in-artificial-intelligence.md",
       "title": "Goodwill launches new initiative to train employees in artificial intelligence",
       "excerpt": "Goodwill of Western Missouri and Eastern Kansas announced \"The Artemis Initiative.\" The new initiative is meant to train employees on how to use robots, artificial intelligence and other cutting-edge technology. David Starr from the local startup Tesseract Ventures says in the next five years, millions of workers will either need to upgrade ...",
@@ -1231,7 +1009,7 @@
       "path": "_posts/2020-02-24-global-automatic-speech-recognition-software-market-innovations-and-top-companies-forecast-to-2029-baidu-google-and-facebook.md",
       "title": "Global Automatic Speech Recognition Software Market Innovations, And Top Companies - Forecast To 2029| Baidu, Google and Facebook",
       "excerpt": "Global Automatic Speech Recognition Software Market (Revenue and Volume), Type, Application, End-User, and Regional Analysis, Import-Export Analysis, Industry Analysis, Premium Insights, Intellectual Property Analysis,",
-      "heat": 95,
+      "heat": 105,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.marketwatch.com/press-release/global-automatic-speech-recognition-software-market-innovations-and-top-companies---forecast-to-2029-baidu-google-and-facebook-2020-02-24",
@@ -1879,7 +1657,7 @@
       "path": "_posts/2020-02-24-over-1700-students-competing-in-artificial-intelligence-and-robot-competitions.md",
       "title": "Over 1,700 students competing in artificial intelligence and robot competitions",
       "excerpt": "ABU DHABI - H.H. Sheikh Khalid bin Mohamed bin Zayed Al Nahyan, Chairman of Abu Dhabi Executive Office, opened the activities of the 6th national championship of the series of artificial intelligence, AI, and robot competitions 2020, organised by the Ministry of Education at the Abu Dhabi National Exhibition Centre, ADNEC. Held under the ...",
-      "heat": 90,
+      "heat": 100,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.zawya.com/mena/en/life/story/Over_1700_students_competing_in_artificial_intelligence_and_robot_competitions-WAM20200224193158932/",
@@ -2133,6 +1911,228 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-24-this-self-driving-car-looks-under-the-road-for-a-safety-boost-in-rain-and-snow.md",
+      "title": "This self-driving car looks under the road for a safety boost in rain and snow",
+      "excerpt": "Over the past few years, autonomous vehicle technology and self-driving systems have reached new levels of sophistication and an experimental scanning system could lead to improved safety levels in poor weather. Self-driving capabilities are measured on a scale of levels 0 - 5; 0 being no automation and level 5 considered to be a true ...",
+      "heat": 185,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/this-self-driving-car-system-looks-under-the-road-for-a-safety-boost-in-rain-and-snow/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/this-self-driving-car-system-looks-under-the-road-for-a-safety-boost-in-rain-and-snow/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-self-driving-car-system-looks-under-the-road-for-a-safety-boost-in-rain-and-snow/",
+      "publishedDateTime": "2020-02-23T21:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2018/10/20/46764bbf-aad1-4e5a-8b0e-e5ebe4228ad9/resize/1200x900/f882f01e4412ac9465fbc91b9e0f972e/screen-shot-2018-10-20-at-15-30-54.png",
+          "width": 1200,
+          "height": 767,
+          "title": "This self-driving car looks under the road for a safety boost in rain and snow",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-24-uk-police-are-using-ai-to-predict-who-could-become-violent-criminals.md",
+      "title": "UK police are using AI to predict who could become violent criminals",
+      "excerpt": "[Read: Predictive policing AI is a bigger scam than psychic detectives ... which was commissioned by the UK government’s Centre for Data Ethics. The report revealed major legal and ethical ...",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/02/24/uk-police-are-using-ai-to-predict-who-could-become-violent-criminals/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/02/24/uk-police-are-using-ai-to-predict-who-could-become-violent-criminals/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/24/uk-police-are-using-ai-to-predict-who-could-become-violent-criminals/amp/",
+      "publishedDateTime": "2020-02-24T13:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/Untitled-design-30-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "UK police are using AI to predict who could become violent criminals",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-25-ai-chatbot-maker-babylon-health-attacks-clinician-in-pr-stunt-after-he-goes-public-with-safety-concerns.md",
+      "title": "AI chatbot maker Babylon Health attacks clinician in PR stunt after he goes public with safety concerns",
+      "excerpt": "Babylon’s PR also claims that only in 20 instances did Watkins find “genuine errors in our AI”, whereas other instances are couched as ‘misrepresentations’ or “mistakes”, per an unnamed “panel of senior clinicians” which the startup’s PR says “investigated and re-validated every single one” — suggesting the error rate ...",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/02/25/first-do-no-harm/",
+      "ampWebUrl": "https://techcrunch.com/2020/02/25/first-do-no-harm/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/25/first-do-no-harm/amp/",
+      "publishedDateTime": "2020-02-24T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/02/Screenshot-2020-02-26-at-01.21.20.png?w=680",
+          "width": 680,
+          "height": 362,
+          "title": "AI chatbot maker Babylon Health attacks clinician in PR stunt after he goes public with safety concerns",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-25-ai-the-view-from-a-silicon-valley-icon-a-podcast-with-tom-siebel-ceo-c3.md",
+      "title": "AI, The View From A Silicon Valley Icon - A Podcast With Tom Siebel CEO C3",
+      "excerpt": "Tom Siebel is one of the founding fathers of the silicon-valley software industry. So, what he thinks, how he builds for the next revolutions with technology, should be something we all pay attention to.",
+      "heat": 85,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbesinsights/2020/02/25/ai-the-view-from-a-silicon-valley-icona-podcast-with-tom-siebel-ceo-c3/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesinsights/2020/02/25/ai-the-view-from-a-silicon-valley-icona-podcast-with-tom-siebel-ceo-c3/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesinsights/2020/02/25/ai-the-view-from-a-silicon-valley-icona-podcast-with-tom-siebel-ceo-c3/amp/",
+      "publishedDateTime": "2020-02-25T10:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e5456577a0098000734243a%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D942%26cropY1%3D0%26cropY2%3D530",
+          "width": 942,
+          "height": 531,
+          "title": "AI, The View From A Silicon Valley Icon - A Podcast With Tom Siebel CEO C3",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-25-amazon-pilots-ai-powered-customer-support-agents.md",
+      "title": "Amazon pilots AI-powered customer support agents",
+      "excerpt": "Might AI help improve customer service for the millions of people who shop on Amazon.com? Amazon intends to find out. In a blog post, the Seattle tech giant revealed that it’s testing two AI-based systems to handle incoming shopper inquiries. One fields requests from customers automatically and without human intervention, while the other ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/25/amazon-tests-ai-powered-customer-support-agents-on-amazon-com/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/25/amazon-tests-ai-powered-customer-support-agents-on-amazon-com/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/25/amazon-tests-ai-powered-customer-support-agents-on-amazon-com/amp/",
+      "publishedDateTime": "2020-02-25T08:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/amazon-logo-reuters.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Amazon pilots AI-powered customer support agents",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

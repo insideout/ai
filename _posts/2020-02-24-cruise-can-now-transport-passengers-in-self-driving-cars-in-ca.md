@@ -177,6 +177,21 @@ related:
       - url: "https://i.insider.com/5e5562f0fee23d2803396836?width=1200&format=jpeg"
         width: 1200
         height: 600
+  - title: "Apple greatly reduced self-driving car testing in 2019, fleet of 23 vehicles drove only 7,500 miles"
+    excerpt: "The company also appears to have changed its disengagement reporting protocol, information commonly used to gauge system efficacy. Apple's self-driving car testbed in California. According to numbers submitted by Apple to California's Department of Motor Vehicles, 23 of the company's 69 registered self-driving testbeds were active between ..."
+    publishedDateTime: 2020-02-27T06:11:00Z
+    webUrl: "https://appleinsider.com/articles/20/02/27/apple-greatly-reduced-self-driving-car-testing-in-2019-fleet-of-23-vehicles-drove-only-7500-miles"
+    ampWebUrl: "https://appleinsider.com/articles/20/02/27/apple-greatly-reduced-self-driving-car-testing-in-2019-fleet-of-23-vehicles-drove-only-7500-miles/amp/"
+    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/20/02/27/apple-greatly-reduced-self-driving-car-testing-in-2019-fleet-of-23-vehicles-drove-only-7500-miles/amp/"
+    type: article
+    provider:
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 30
+    images:
+      - url: "https://photos5.appleinsider.com/gallery/34692-62829-200227-Car-xl.jpg"
+        width: 660
+        height: 333
 
 secured: "BD7WfmJYr4pkpnKIbHebWx6FEgSmhQPpQqDYMjoZax311HVw2463R1yQxEsxZLreMfqE+F97OnhdKz+xEAjb3o4V8sugVTLAy+N5qokLv5IpDVGa5J1fHeeOzFKq9eJ7w41vVruP3WHn9A1AvgVC1Rg9z+4ilMdCFrj7gLs5vUlpB1HzHozXaqakUSRNLVh0CulbXLicpxNmNDmRpQYp0ZG7Jx2ttBBLd53D2aAtPtYR6S/YOqZaa64N7tK/KPeQeDwjc8fYKLhJa4WriJph/9r2/EsAIHutKO13IyohKKyruJFiRfZGd7ZzZXobZI/ACYfxxVgla9sI2PcRZhBQBmo3p1qz30k60MEJzDfFgdVx42UH3T3cUrUBC+0xqxbzyOjgbOXTybFkdnE0XUJIunA8ygjc5H9psE/ZiA3HUVEzKW7LrjeZPQy7HIIi3XE+xdJqCCau+5v9gYYgJVDHJ7yk0S5ByeuH6iU1yEcIXMc=;6f6kGYBRWvlBsMFnvH674w=="
 ---

@@ -2,223 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_posts/2020-02-17-machine-learning-is-no-place-to-move-fast-and-break-things.md",
-      "title": "Machine Learning Is No Place To “Move Fast And Break Things”",
-      "excerpt": "Machine learning systems can be massively useful, but also fail critically in unforeseen ways. We need systems engineering in synergy with experimentation and innovation.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/alexanderlavin/2020/02/17/machine-learning-is-no-place-to-move-fast-and-break-things/",
-      "ampWebUrl": "https://www.forbes.com/sites/alexanderlavin/2020/02/17/machine-learning-is-no-place-to-move-fast-and-break-things/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexanderlavin/2020/02/17/machine-learning-is-no-place-to-move-fast-and-break-things/amp/",
-      "publishedDateTime": "2020-02-17T08:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e48aadba854780006b17705%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Machine Learning Is No Place To “Move Fast And Break Things”",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-17-monash-university-researchers-develop-ai-aimed-at-improving-suicide-prevention.md",
-      "title": "Monash University researchers develop AI aimed at improving suicide prevention",
-      "excerpt": "In an effort to help paramedics respond more effectively to potential suicides in Australia, researchers from Monash University and Turning Point, a national addiction treatment centre, are using artificial intelligence (AI) to streamline how relevant ambulance data is filtered and categorised. The AI project, which received a AU$1.2 million ...",
-      "heat": 123,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/monash-university-researchers-develop-ai-aimed-at-improving-suicide-prevention/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/monash-university-researchers-develop-ai-aimed-at-improving-suicide-prevention/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/monash-university-researchers-develop-ai-aimed-at-improving-suicide-prevention/",
-      "publishedDateTime": "2020-02-16T16:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/02/17/b6213abd-fa0f-464c-9980-616c43d989c6/thumbnail/1200x675/71d46fb343b28e5a5692484319d19257/idf-collage.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Monash University researchers develop AI aimed at improving suicide prevention",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-17-new-artificial-evolution-research-could-finally-prove-darwin-was-right.md",
-      "title": "New artificial evolution research could finally prove Darwin was right",
-      "excerpt": "A successful artificial evolution paradigm could result in a Darwin Machine-based neural network capable of better emulating the natural selection process and, possibly, the human brain’s own ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/02/17/new-artificial-evolution-research-could-finally-prove-darwin-was-right/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/02/17/new-artificial-evolution-research-could-finally-prove-darwin-was-right/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/17/new-artificial-evolution-research-could-finally-prove-darwin-was-right/amp/",
-      "publishedDateTime": "2020-02-17T13:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/bacteria-796x437.jpg",
-          "width": 796,
-          "height": 437,
-          "title": "New artificial evolution research could finally prove Darwin was right",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-17-please-check-your-data-a-self-driving-car-dataset-failed-to-label-hundreds-of-pedestrians-thousands-of-vehicles.md",
-      "title": "Please check your data: A self-driving car dataset failed to label hundreds of pedestrians, thousands of vehicles",
-      "excerpt": "Roboflow has since corrected the errors on the dataset, and issued an improved version. Standing up to patent trolls works: Mycroft AI, a startup building an open-source voice-controlled assistant for Linux-based devices, was sued for allegedly infringing a couple of patents, as we reported earlier this month. Mycroft’s CEO Joshua Montgomery ...",
-      "heat": 140,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theregister.co.uk/2020/02/17/self_driving_car_dataset/",
-      "ampWebUrl": "https://www.theregister.co.uk/AMP/2020/02/17/self_driving_car_dataset/",
-      "cdnAmpWebUrl": "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/02/17/self_driving_car_dataset/",
-      "publishedDateTime": "2020-02-17T03:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Register",
-        "domain": "theregister.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2018/01/16/shutterstock_smart_city.jpg",
-          "width": 648,
-          "height": 432,
-          "title": "Please check your data: A self-driving car dataset failed to label hundreds of pedestrians, thousands of vehicles",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-17-space-robotics-market-emerging-trends-and-strong-application-scope-by-2025.md",
-      "title": "Space Robotics Market Emerging Trends and Strong Application Scope by 2025",
-      "excerpt": "HTF Market Intelligence released a new research report of 150 pages on title 'Global Space Robotics Market Insights by Application, Product Type, Competitive Landscape & Regional Forecast 2025' with detailed analysis,",
-      "heat": 262,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/space-robotics-market-emerging-trends-and-strong-application-scope-by-2025-2020-02-17",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-17T08:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Space Robotics Market Emerging Trends and Strong Application Scope by 2025",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_posts/2020-02-17-surgeries-will-become-easier-with-use-of-robotics-ai-says-birrd-director.md",
       "title": "Surgeries will become easier with use of robotics, AI, says BIRRD director",
       "excerpt": "From merely using nimble fingers to perform complex surgeries, the TTD’s Balaji Institute of Surgery, Research and Rehabilitation for the Disabled (BIRRD) is all set to take a giant leap by taking the assistance of robotics and artificial intelligence for precision and patient comfort. In his maiden interaction with the media here on Friday ...",
@@ -2169,6 +1952,222 @@
       "topics": [
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-19-announcing-the-final-agenda-for-robotics-ai-march-3-at-uc-berkeley.md",
+      "title": "Announcing the final agenda for Robotics + AI — March 3 at UC Berkeley",
+      "excerpt": "TechCrunch is returning to U.C. Berkeley on March 3 to bring together some of the most influential minds in robotics and artificial intelligence. Each year we strive to bring together a cross-section of big companies and exciting new startups, along with top researchers, VCs and thinkers. Alongside a selection of handpicked demos, we’ll also ...",
+      "heat": 169,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/02/19/announcing-the-final-agenda-for-robotics-ai-march-3-at-uc-berkeley/",
+      "ampWebUrl": "https://techcrunch.com/2020/02/19/announcing-the-final-agenda-for-robotics-ai-march-3-at-uc-berkeley/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/19/announcing-the-final-agenda-for-robotics-ai-march-3-at-uc-berkeley/amp/",
+      "publishedDateTime": "2020-02-19T11:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/02/robot_header_final.png?w=1024",
+          "width": 1024,
+          "height": 562,
+          "title": "Announcing the final agenda for Robotics + AI — March 3 at UC Berkeley",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-19-apples-priorities-are-shifting-as-iphone-sales-continue-to-sink.md",
+      "title": "Apple's priorities are shifting as iPhone sales continue to sink",
+      "excerpt": "The company poached a new executive from Google to lead its artificial intelligence efforts ... most notably Waymo, the Alphabet company that spun out of Google's self-driving car project.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2019/02/19/apple-shifts-priorities-to-grow-services-ai.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2019/02/19/apple-shifts-priorities-to-grow-services-ai.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2019/02/19/apple-shifts-priorities-to-grow-services-ai.html",
+      "publishedDateTime": "2020-02-18T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/102732800-GettyImages-146178359.jpg?v=1545326522",
+          "width": 3000,
+          "height": 2111,
+          "title": "Apple's priorities are shifting as iPhone sales continue to sink",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-19-artificial-intelligence-chips-market-to-watch-google-baidu-adapteva-in-focus.md",
+      "title": "Artificial Intelligence Chips Market To Watch: Google, Baidu, Adapteva In Focus",
+      "excerpt": "This intelligence report provides a comprehensive analysis of the Global Artificial Intelligence Chips Market. This includes Investigation of past progress, ongoing market scenarios, and future prospects.",
+      "heat": 115,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chips-market-to-watch-google-baidu-adapteva-in-focus-2020-02-19",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-18T23:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence Chips Market To Watch: Google, Baidu, Adapteva In Focus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-19-artificial-intelligence-makes-a-splash-in-efforts-to-protect-alaskas-ice-seals-and-beluga-whales.md",
+      "title": "Artificial intelligence makes a splash in efforts to protect Alaska’s ice seals and beluga whales",
+      "excerpt": "NOAA scientist Erin Moreland felt sure there was a technological solution to help her team sort through millions of aerial images of ice each year. She hit the jackpot with artificial intelligence. (Photo provided by NOAA) That better way is now here — an idea that began, unusually enough, with the view from Moreland’s Seattle office window ...",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://news.microsoft.com/features/artificial-intelligence-makes-a-splash-in-efforts-to-protect-alaskas-ice-seals-and-beluga-whales/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-19T06:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/2020/02/me2-300x225.jpg",
+          "width": 300,
+          "height": 225,
+          "title": "Artificial intelligence makes a splash in efforts to protect Alaska’s ice seals and beluga whales",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-19-artificial-intelligence-raises-question-of-whos-an-inventor.md",
+      "title": "Artificial intelligence raises question of who’s an inventor",
+      "excerpt": "Artificial intelligence raises question of who’s an inventor Only humans can get patents, but computers using artificial intelligence are discovering medicines, designing golf clubs and creating video games Check out this story on detroitnews.com: https://www.detroitnews.com/story/business/2020/02/18/artificial-intelligence-inventor/111333818/",
+      "heat": 92,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.detroitnews.com/story/business/2020/02/18/artificial-intelligence-inventor/111333818/",
+      "ampWebUrl": "https://amp.detroitnews.com/amp/111333818",
+      "cdnAmpWebUrl": "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/111333818",
+      "publishedDateTime": "2020-02-18T20:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Detroit News",
+        "domain": "detroitnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/02/19/PDTN/ccfce976-dcb2-4089-bffa-5cedeae5ea61-AP20007048093657.jpg?auto=webp&crop=3413,1920,x1,y116&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": "Artificial intelligence raises question of who’s an inventor",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

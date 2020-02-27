@@ -1,24 +1,39 @@
 ---
 category: news
 title: "EU seeks AI champions: Five things to know"
-excerpt: "“What we will say in the paper in a very lawyered up language is, let’s pause and figure out if there ... blanket rules for entire industries and stifle innovation. Instead, the EU’s AI strategy will look at activities case-by-case, with basic uses such as translation or maps left largely alone, but medical technology kept on a tighter ..."
-publishedDateTime: 2020-02-19T05:31:00Z
-webUrl: "https://tribune.com.pk/story/2159829/8-eu-seeks-ai-champions-five-things-know/"
-ampWebUrl: "https://tribune.com.pk/story/2159829/8-eu-seeks-ai-champions-five-things-know/"
-cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2159829/8-eu-seeks-ai-champions-five-things-know/"
+excerpt: "\"What we will say in the paper in a very lawyered up language is, let's pause and figure out if there ... set blanket rules for entire industries and stifle innovation. Instead, the EU's AI strategy will look at activities case-by-case, with basic uses such as translation or maps left largely alone, but medical technology kept on a tighter ..."
+publishedDateTime: 2020-02-19T11:04:00Z
+webUrl: "https://www.thestar.com.my/tech/tech-news/2020/02/19/eu-seeks-ai-champions-five-things-to-know"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: The Express Tribune
-  domain: tribune.com.pk
+  name: The Star
+  domain: thestar.com.my
 
 topics:
   - AI
   - Natural Language Processing
 
-secured: "9ituoX5RJrw0igmwnF9OyIYZrsi46PvSbTTJl5hLbmVEYDJCk4QdglUS+rLae90F9PLRf9slKKRbF2ffaNbN/8sFWQdrW956heBXpDBEfKgmkdy91NIUkaAyIkHLTEyS/NzpQFnqwnAu1QtYvPmf1oRNIPV7RTiMdvywVaJGUwVpgjkvSOS6d5x9z8t/CigDO/iI9/6Tb6PDlpyiODeqV7xxViTfHJ1icvbTyu9hEnm5aNUcBoeWCDLXczK16nQJqAa5xijfdBdLglvpYbuwZ4wYFIoyKrE7M5yBvR/oB+lZhd/nWWGbpwcqDHeDJLC91j9TO109opY4ne5Z8Tw8I2I5J46xPMhEEMbYKvwK3a0MdSjuI75x7pg/kzYB1Gi0jHqT2YaEe39XJOLRCl6+BzqDnrvaPJCgNNurbxdSdyGClOWV3to3GcG+jUsPwGItbdpMs/j/i/h2FsDjS3395mOjS5wbVvEjmxJaXtIL9Yo=;ECWzlyhcDTeYx6lKKy3dAw=="
+images:
+  - url: "https://apicms.thestar.com.my/uploads/images/2020/02/19/567506.jpg"
+    width: 1240
+    height: 805
+    title: "EU seeks AI champions: Five things to know"
+
+related:
+  - title: "EU seeks 'responsible' AI to dispel Big Brother fears"
+    excerpt: "EU officials are eager to define the rules of AI and push their champions, acknowledging that Europe and its companies ... For now, they said existing legislation already limits its uses, but the bloc will start a debate on the topic to determine where European citizens would accept it."
+    publishedDateTime: 2020-02-20T04:50:00Z
+    webUrl: "https://www.thejakartapost.com/news/2020/02/20/eu-seeks-responsible-ai-to-dispel-big-brother-fears.html"
+    type: article
+    provider:
+      name: The Jakarta Post
+      domain: thejakartapost.com
+    quality: 17
+
+secured: "85Kx7P2UQYcMCEe0UlTIZYTYEEFVpsrit3bemGBmRw6gGIM8mVCEsqNhTJNFJdO2y8o5c+5ZcGk3rRZ7/h6d1RGdF52EByPtIAML9celd5IkTPvGbjHiGiQMz5nre0I9R+L3hW7CKjcGrfmVABiNBnX1+fFoAVR7iVoB0tfSccFO6yLOxCVVIUMWmsCjqysMkaL1M80luyXhBr6BHquwbHlUJJH6IRjoFBtxCDvoHolfLKZ5ioqZnJdWk0KWEd7FrfptH8WbPJAuyP0ZNLAyz09Df90zFLqojKhGdtkIpQKqn2pMz+09jrtGZjtZsVRv;bRt0oiJxL/9LAdW4a1z6EA=="
 ---
 

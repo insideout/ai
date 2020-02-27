@@ -54,6 +54,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Artificial Intelligence Market - By Supply Demand Scenario, Application, By Region, Pricing Analysis, Opportunities and Forecast 2026"
+    excerpt: "Artificial Intelligence Market top players include Alphabet (Google Inc.), Apple Inc., Baidu, IBM Corporation, IPsoft, Microsoft Corporation, MicroStrategy, Inc, NVIDIA Qlik Technologies Inc, Verint Systems Inc (Next IT Corp) The artificial intelligence market in North America is set for rapid growth."
+    publishedDateTime: 2020-02-27T06:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market---by-supply-demand-scenario-application-by-region-pricing-analysis-opportunities-and-forecast-2026-2020-02-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Image Recognition Software Market is Booming Worldwide with Qualcomm Technologies, Microsoft, IBM, Google"
     excerpt: "This intelligence report provides a comprehensive analysis of the Global Image Recognition Software Market. This includes Investigation of past progress, ongoing market scenarios, and future prospects."
     publishedDateTime: 2020-02-21T16:47:00Z

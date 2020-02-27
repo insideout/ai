@@ -2,228 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_posts/2020-02-26-chinese-hospitals-deploy-ai-to-help-diagnose-covid-19.md",
-      "title": "Chinese Hospitals Deploy AI to Help Diagnose Covid-19",
-      "excerpt": "China’s government has urged development of AI tools for healthcare as part of sweeping national investments in artificial intelligence. China’s relatively lax rules on privacy allow companies such as Infervision to gather medical data to train machine learning algorithms in tasks like reading scans more easily than US or European rivals.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/chinese-hospitals-deploy-ai-help-diagnose-covid-19/",
-      "ampWebUrl": "https://www.wired.com/story/chinese-hospitals-deploy-ai-help-diagnose-covid-19/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/chinese-hospitals-deploy-ai-help-diagnose-covid-19/amp",
-      "publishedDateTime": "2020-02-26T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5e55c72559e7f20008301071/master/pass/Science_covid19_h_11.02587772.jpg",
-          "width": 2300,
-          "height": 1534,
-          "title": "Chinese Hospitals Deploy AI to Help Diagnose Covid-19",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-26-classifying-images-using-tensorflow-and-faced-challenges-a-case-study.md",
-      "title": "Classifying images using TensorFlow and faced challenges — a case study",
-      "excerpt": "We decided to use Deep Learning with TensorFlow by setting up a Convolutional Neural Network (CNN) to classify these images. It was necessary to have a large data set with training data for each page. Instead of taking many different pictures (which would have been very time consuming), we decided to make a video of each page and then take ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/@simon.huber/classifying-images-using-tensorflow-and-faced-challenges-a-case-study-f283c039d720",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-26T14:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/freeze/max/400/1*DB25tGjRiWmvzRODq9TEOg.gif",
-          "width": 400,
-          "height": 224,
-          "title": "Classifying images using TensorFlow and faced challenges — a case study",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-26-clearview-ai-the-company-whose-database-has-amassed-3-billion-photos-hacked.md",
-      "title": "Clearview AI, The Company Whose Database Has Amassed 3 Billion Photos, Hacked",
-      "excerpt": "Clearview AI, the company whose database has amassed over 3 billion photos, has suffered a data breach. Here's what you need to know.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/kateoflahertyuk/2020/02/26/clearview-ai-the-company-whose-database-has-amassed-3-billion-photos-hacked/",
-      "ampWebUrl": "https://www.forbes.com/sites/kateoflahertyuk/2020/02/26/clearview-ai-the-company-whose-database-has-amassed-3-billion-photos-hacked/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kateoflahertyuk/2020/02/26/clearview-ai-the-company-whose-database-has-amassed-3-billion-photos-hacked/amp/",
-      "publishedDateTime": "2020-02-26T10:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x498/https://specials-images.forbesimg.com/imageserve/1139858627/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 498,
-          "title": "Clearview AI, The Company Whose Database Has Amassed 3 Billion Photos, Hacked",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-26-clearview-ais-entire-client-list-stolen-in-data-breach.md",
-      "title": "Clearview AI's entire client list stolen in data breach",
-      "excerpt": "The breach affected all of the facial recognition company's customers, many of which are law enforcement agencies. Clearview AI says the data breach affected all of its customers. Clearview AI, a facial-recognition software maker that has sparked privacy concerns,",
-      "heat": 197,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/news/clearview-ai-had-entire-client-list-stolen-in-data-breach/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/clearview-ai-had-entire-client-list-stolen-in-data-breach/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/clearview-ai-had-entire-client-list-stolen-in-data-breach/",
-      "publishedDateTime": "2020-02-26T08:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet1.cbsistatic.com/img/1aArGlj1eo8hNeyu6s8obQPylfI=/756x567/2019/03/18/cca1be95-0ac4-4c06-b742-a22684c09044/facial-recognition-101-promo.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "Clearview AI's entire client list stolen in data breach",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-26-cloud-suppliers-share-of-iot-data-and-analytics-revenues-to-top-56-billion-by-2026.md",
-      "title": "Cloud suppliers' share of IoT data and analytics revenues to top $56 billion by 2026",
-      "excerpt": "SEE: Special report: Harnessing IoT in the enterprise (free PDF) (TechRepublic Premium) The report found that most cloud vendor revenue is derived from the storage, orchestration and streaming of data in addition to generic analytical tools like AWS Sagemaker and Microsoft Azure Notebooks. Many cloud vendors are also leveraging partnerships ...",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/cloud-suppliers-share-of-iot-data-and-analytics-revenues-to-top-56-billion-by-2026/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/cloud-suppliers-share-of-iot-data-and-analytics-revenues-to-top-56-billion-by-2026/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/cloud-suppliers-share-of-iot-data-and-analytics-revenues-to-top-56-billion-by-2026/",
-      "publishedDateTime": "2020-02-26T07:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/02/18/d1467839-4251-47cb-9fa9-aed070561526/thumbnail/1200x675/f3685147226f27819a3454fc3d626812/rainforest-connection.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Cloud suppliers' share of IoT data and analytics revenues to top $56 billion by 2026",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-26-deep-learning-advances-are-boosting-computer-vision-but-theres-still-clear-limits.md",
       "title": "Deep learning advances are boosting computer vision — but there’s still clear limits",
       "excerpt": "The efforts have led to the emergence of computer vision, a vast subfield of AI and computer science that deals with processing the content of visual data. In recent years, computer vision has taken great leaps thanks to advances in deep learning and artificial neural networks. Deep learning is a branch of AI that is especially good at ...",
@@ -2117,6 +1895,223 @@
       "topics": [
         "AI",
         "Facebook AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2019-12-20-facebook-removes-hundreds-of-fake-pro-trump-accounts-using-ai-generated-profile-photos.md",
+      "title": "Facebook Removes Hundreds of Fake Pro-Trump Accounts Using AI-Generated Profile Photos",
+      "excerpt": "Facebook says it worked with independent researchers Graphika and the Atlantic Council’s Digital Forensic Research Lab (DFRLab ... most notably that the network was using artificial intelligence to generate fake profile photos. The network banned ...",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/mnunez/2019/12/20/facebook-removes-hundreds-of-fake-pro-trump-accounts-using-ai-generated-profile-photos/",
+      "ampWebUrl": "https://www.forbes.com/sites/mnunez/2019/12/20/facebook-removes-hundreds-of-fake-pro-trump-accounts-using-ai-generated-profile-photos/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mnunez/2019/12/20/facebook-removes-hundreds-of-fake-pro-trump-accounts-using-ai-generated-profile-photos/amp/",
+      "publishedDateTime": "2019-12-20T15:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F939701722%2F0x0.jpg",
+          "width": 1200,
+          "height": 797,
+          "title": "Facebook Removes Hundreds of Fake Pro-Trump Accounts Using AI-Generated Profile Photos",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2019-12-21-computer-vision-and-the-ccpa-what-you-need-to-know.md",
+      "title": "Computer Vision and the CCPA: What You Need to Know",
+      "excerpt": "This article will cover what companies who have deployed or are considering deploying computer vision technology should do with the biometric data they collect in order to be compliant with the CCPA. The National Law Review does a tremendous job of ...",
+      "heat": 69,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/trueface-ai/computer-vision-and-the-ccpa-what-you-need-to-know-928477de0601?source=topic_page---------2------------------1",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-12-20T16:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*YGkB52a5tgp8vGHleh2bAw.png",
+          "width": 1200,
+          "height": 744,
+          "title": "Computer Vision and the CCPA: What You Need to Know",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2019-12-21-facebook-twitter-remove-ai-powered-fake-accounts-with-pro-trump-messages.md",
+      "title": "Facebook, Twitter Remove AI-Powered Fake Accounts With Pro-Trump Messages",
+      "excerpt": "Facebook and Twitter have taken down a global network of fake accounts used in a coordinated campaign to push pro-Trump political messages, including some that used artificial intelligence tools to try to mask the behavior,",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/facebook-twitter-remove-ai-powered-fake-accounts-with-pro-trump-messages-11576873453",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/facebook-twitter-remove-ai-powered-fake-accounts-with-pro-trump-messages-11576873453",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facebook-twitter-remove-ai-powered-fake-accounts-with-pro-trump-messages-11576873453",
+      "publishedDateTime": "2019-12-20T20:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-138654/social",
+          "width": 1280,
+          "height": 640,
+          "title": "Facebook, Twitter Remove AI-Powered Fake Accounts With Pro-Trump Messages",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2019-12-21-what-is-natural-language-processing-nlp.md",
+      "title": "What is Natural Language Processing (NLP)?",
+      "excerpt": "Aristo found its answers from among billions of documents using natural language processing (NLP), a branch of computer science and artificial intelligence that enables computers to extract meaning from unstructured text. Though we're still a long way from ...",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.pcmag.com/article/372633/what-is-natural-language-processing-nlp",
+      "ampWebUrl": "https://www.pcmag.com/article/372633/what-is-natural-language-processing-nlp?amp=1",
+      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/article/372633/what-is-natural-language-processing-nlp?amp=1",
+      "publishedDateTime": "2019-12-21T04:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/02Bp7I29l1NFftRcxQQllxT-1.fit_lpad.size_1200x675.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "What is Natural Language Processing (NLP)?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2019-12-22-artificial-intelligence-can-help-detect-blood-cancer-study.md",
+      "title": "Artificial Intelligence can help detect blood cancer: Study",
+      "excerpt": "Possibly, the diagnosis would then happen earlier than it does now and therapy could start earlier,” added ... out what an analysis of the transcriptome can achieve using artificial intelligence, that is to say trainable algorithms,” said Schultze.",
+      "heat": 69,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.thehealthsite.com/news/artificial-intelligence-can-help-detect-blood-cancer-study-718275/",
+      "ampWebUrl": "https://www.thehealthsite.com/news/artificial-intelligence-can-help-detect-blood-cancer-study-718275/amp/",
+      "cdnAmpWebUrl": "https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/news/artificial-intelligence-can-help-detect-blood-cancer-study-718275/amp/",
+      "publishedDateTime": "2019-12-22T02:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheHealthSite",
+        "domain": "thehealthsite.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://st1.thehealthsite.com/wp-content/uploads/2019/12/cancer-news.jpg",
+          "width": 675,
+          "height": 365,
+          "title": "Artificial Intelligence can help detect blood cancer: Study",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
       ]
     }
   ],

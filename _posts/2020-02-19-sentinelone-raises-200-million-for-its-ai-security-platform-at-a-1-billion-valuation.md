@@ -85,21 +85,6 @@ related:
       - url: "https://www.therobotreport.com/wp-content/uploads/2020/02/ElliQ_3-1024x773-1.jpg"
         width: 1024
         height: 773
-  - title: "CybelAngel raises $36 million to fight data breaches with AI"
-    excerpt: "It’s a lot to juggle, but as Keraudy explains, a combination of AI-imbued scanning tech and human analysis enables CybelAngel to analyze upwards of thousands of files, hundreds of potential ..."
-    publishedDateTime: 2020-02-12T14:00:00Z
-    webUrl: "https://venturebeat.com/2020/02/12/cybelangel-raises-36-million-to-fight-data-breaches-with-ai/"
-    ampWebUrl: "https://venturebeat.com/2020/02/12/cybelangel-raises-36-million-to-fight-data-breaches-with-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/12/cybelangel-raises-36-million-to-fight-data-breaches-with-ai/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2016/07/security-e1581407312856.jpg?fit=1200%2C600&strip=all"
-        width: 1200
-        height: 600
   - title: "OnSiteIQ raises $4.5 million to improve construction safety using AI and 360-degree imagery"
     excerpt: "OnSiteIQ today announced that it has raised $4.5 million Series A round to grow its AI-powered safety analysis of 360-degree imagery from construction sites. In addition to supplying computer vision for risk assessment reports, the company’s platform is made to stitch together imagery so construction site managers can examine progress ..."
     publishedDateTime: 2020-02-18T18:23:00Z

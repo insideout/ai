@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Airbag regulations vital as self-driving cars proliferate | Commentary"
-excerpt: "We are on the cusp of giant advancements in safety when it comes to cars. In states around America, including Florida, there is active testing of self-driving cars. Car companies want us to take our hands off the wheel in their self-driving vehicles. To get there, all they need is for the government to take a hands-off approach to the ..."
-publishedDateTime: 2020-02-26T11:11:00Z
-webUrl: "https://www.orlandosentinel.com/opinion/guest-commentary/os-op-airbag-regulation-vital-20200226-hhabvua3gvclnnyadxoi4ojmq4-story.html"
-ampWebUrl: "https://www.orlandosentinel.com/opinion/guest-commentary/os-op-airbag-regulation-vital-20200226-hhabvua3gvclnnyadxoi4ojmq4-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-orlandosentinel-com.cdn.ampproject.org/c/s/www.orlandosentinel.com/opinion/guest-commentary/os-op-airbag-regulation-vital-20200226-hhabvua3gvclnnyadxoi4ojmq4-story.html?outputType=amp"
+title: "Apple greatly reduced self-driving car testing in 2019, fleet of 23 vehicles drove only 7,500 miles"
+excerpt: "The company also appears to have changed its disengagement reporting protocol, information commonly used to gauge system efficacy. Apple's self-driving car testbed in California. According to numbers submitted by Apple to California's Department of Motor Vehicles, 23 of the company's 69 registered self-driving testbeds were active between ..."
+publishedDateTime: 2020-02-27T06:11:00Z
+webUrl: "https://appleinsider.com/articles/20/02/27/apple-greatly-reduced-self-driving-car-testing-in-2019-fleet-of-23-vehicles-drove-only-7500-miles"
+ampWebUrl: "https://appleinsider.com/articles/20/02/27/apple-greatly-reduced-self-driving-car-testing-in-2019-fleet-of-23-vehicles-drove-only-7500-miles/amp/"
+cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/20/02/27/apple-greatly-reduced-self-driving-car-testing-in-2019-fleet-of-23-vehicles-drove-only-7500-miles/amp/"
 type: article
-quality: 59
+quality: 30
 heat: -1
 published: false
 
 provider:
-  name: Orlando Sentinel
-  domain: orlandosentinel.com
+  name: AppleInsider
+  domain: appleinsider.com
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: "https://www.orlandosentinel.com/resizer/IyTRSeHRrO-zFFpPm21cQfsNu1A=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/A26UHWXZQVHKZNVFK7ZJNKL4LE.jpg"
-    width: 1200
-    height: 661
-    title: "Airbag regulations vital as self-driving cars proliferate | Commentary"
+  - url: "https://photos5.appleinsider.com/gallery/34692-62829-200227-Car-xl.jpg"
+    width: 660
+    height: 333
+    title: "Apple greatly reduced self-driving car testing in 2019, fleet of 23 vehicles drove only 7,500 miles"
 
 related:
   - title: "Self-driving car companies complain California test data may mislead"
@@ -114,6 +114,21 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/02/cruise-self-driving-california.jpg?w=1200&#038;strip=all"
         width: 1200
         height: 600
+  - title: "Airbag regulations vital as self-driving cars proliferate | Commentary"
+    excerpt: "We are on the cusp of giant advancements in safety when it comes to cars. In states around America, including Florida, there is active testing of self-driving cars. Car companies want us to take our hands off the wheel in their self-driving vehicles. To get there, all they need is for the government to take a hands-off approach to the ..."
+    publishedDateTime: 2020-02-26T11:11:00Z
+    webUrl: "https://www.orlandosentinel.com/opinion/guest-commentary/os-op-airbag-regulation-vital-20200226-hhabvua3gvclnnyadxoi4ojmq4-story.html"
+    ampWebUrl: "https://www.orlandosentinel.com/opinion/guest-commentary/os-op-airbag-regulation-vital-20200226-hhabvua3gvclnnyadxoi4ojmq4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-orlandosentinel-com.cdn.ampproject.org/c/s/www.orlandosentinel.com/opinion/guest-commentary/os-op-airbag-regulation-vital-20200226-hhabvua3gvclnnyadxoi4ojmq4-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Orlando Sentinel
+      domain: orlandosentinel.com
+    quality: 59
+    images:
+      - url: "https://www.orlandosentinel.com/resizer/IyTRSeHRrO-zFFpPm21cQfsNu1A=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/A26UHWXZQVHKZNVFK7ZJNKL4LE.jpg"
+        width: 1200
+        height: 661
   - title: "California's Self-Driving Car Companies Cover 2.9 Million Miles in 2019: DMV"
     excerpt: "Self-driving car companies in California covered nearly 2.9 million miles on public roads during 2019, the state's Department of Motor Vehicles said on Wednesday. The data is part of California regulators' annual so-called \"disengagement reports\","
     publishedDateTime: 2020-02-26T15:53:00Z
@@ -173,22 +188,7 @@ related:
       - url: "https://i.insider.com/5e5562f0fee23d2803396836?width=1200&format=jpeg"
         width: 1200
         height: 600
-  - title: "Apple greatly reduced self-driving car testing in 2019, fleet of 23 vehicles drove only 7,500 miles"
-    excerpt: "The company also appears to have changed its disengagement reporting protocol, information commonly used to gauge system efficacy. Apple's self-driving car testbed in California. According to numbers submitted by Apple to California's Department of Motor Vehicles, 23 of the company's 69 registered self-driving testbeds were active between ..."
-    publishedDateTime: 2020-02-27T06:11:00Z
-    webUrl: "https://appleinsider.com/articles/20/02/27/apple-greatly-reduced-self-driving-car-testing-in-2019-fleet-of-23-vehicles-drove-only-7500-miles"
-    ampWebUrl: "https://appleinsider.com/articles/20/02/27/apple-greatly-reduced-self-driving-car-testing-in-2019-fleet-of-23-vehicles-drove-only-7500-miles/amp/"
-    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/20/02/27/apple-greatly-reduced-self-driving-car-testing-in-2019-fleet-of-23-vehicles-drove-only-7500-miles/amp/"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 30
-    images:
-      - url: "https://photos5.appleinsider.com/gallery/34692-62829-200227-Car-xl.jpg"
-        width: 660
-        height: 333
 
-secured: "8T255md4wJUQSJsza/+cXQa2lm6FHQVAjNXCRy2ltqKp69NnwByvPmvzP6o/PJg2m2/Lk5vOLJl+XL/r+Z9rD16yjOtn0jQjh6nJ0dd4rd1lV5ErTY0ZjZ34YC13NV2TRYh+leBwUVdvL4cbMS10KhQSuw6P5xcJxAFpZcGvaBnDzBtx/uDVyCfVnGH1PcBX3hO6OV7INCm0fybVFw4L4pzmg/XVdL9AIgr3moy/yUWBGye5zFzOkHn1096sToiQq2y7VuzRW2R3OPV/ViEN5Elx9SvG/WP98V/n0EWkPqJWAc2sEBNjC7+i7NX+GduLjZvGyRLMZ+3yvFlGMf712vtiYD+AeG4ZHUmzp4hnCL0SPcLIKXPlFkqWNq9KUw+x+Wl0OOwHLPtxh1/+ZrX12H2yCG2+Amar/pIbkKJ6anuuchrmZd2+3RBYE9vUs9B/clN8gJYVokwWlYaKdEFwqNR1/evevOQjtgXf7uZZId8=;EL/irt4YO62cvUhOEzLT7A=="
+secured: "k2hbhI+kzvb4E+QSyY1va7TshrJb6EsNI0NvwDTuSjyFltUFTE25ybU3IOQo9klOLsu15cSk0RQP3LvzIsxJ1dMs4dWUK4nNZRhWxDvrdAa/ACj3xCf7yoWQDBbn4/NYhJ7CVPgmjPXbxqzYN9Pz2VR0/70ebFapQOTwfHGpD5ooc9taHQH81cWtRp6QIAue7XzLfhfvG6qGBomIobYMh8Tp1WVirStjEhSywR9w7nSAvms4uRavc663Bteb/wa4ONxyy1Oz5C1QA2T8a5PkXVd4ZSYSl61UPLbYW9Flb8Qr6iIOqqkaE1GzF0JmdwaP;1SK0Ogmp5cjvxeiFcgE54g=="
 ---
 

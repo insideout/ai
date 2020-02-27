@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zawya.com/mena/en/story/amp/WAM20200224193158932/"
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/WAM20200224193158932/"
 type: article
 quality: 70
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -54,6 +54,19 @@ related:
       - url: "https://images.c-span.org/Files/90d/1582138795.jpg/Thumbs/height.630.no_border.width.1200.jpg"
         width: 1200
         height: 630
+  - title: "Rochester-area college students code self-driving racecars for competition"
+    excerpt: "The winner of the race is the team that completes the fastest lap around the more than 50-foot-long track. Spectators are invited to watch the championship race and learn about self-driving cars at the DeepRacer Challenge: Battle of the Schools. The free event is 3–5 p.m. March 4 in Ingle Auditorium, on the RIT campus. The challenge is run by ..."
+    publishedDateTime: 2020-02-27T06:35:00Z
+    webUrl: "https://www.rit.edu/news/rochester-area-college-students-code-self-driving-racecars-competition"
+    type: article
+    provider:
+      name: Rochester Institute of Technology
+      domain: rit.edu
+    quality: 24
+    images:
+      - url: "https://www.rit.edu/sites/rit.edu/files/styles/full/https/cdn.rit.edu/images/news/2020-02/DeepRacer-Challenge2.jpg?itok=6EB2OzZb"
+        width: 1080
+        height: 720
 
 secured: "bCTJv5whIbf3Tqj2VOaBn4etmlVfuoxjE7Aggq58QO/KJpOpTxrgscarr/CTANgV5HTkbdrSh33SO3jpon0A2bnW2BgggZuo27muipegG1M4acIH76HQD62dTI4J9uG6U4k8KCnL/svJGY/5DX7ptE4N60pvEd79+ZerBk1yqWWkyqIWdMTzxT0olpkVvtZejehceyumZxV7PySryMpTBaxywlVR293L0NOZD3EXTfW0cY5jnVjU0Em1dXrYi5siev/p/4o5w5Epn9/mzKzWth9E2/M/lWZoojPgBN75gWYDffffhr0o9apPkOL7ZLmF;BZ1pWjv+5oD1l2BQeE2GHg=="
 ---

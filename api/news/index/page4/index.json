@@ -2,222 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_posts/2020-02-19-announcing-the-final-agenda-for-robotics-ai-march-3-at-uc-berkeley.md",
-      "title": "Announcing the final agenda for Robotics + AI — March 3 at UC Berkeley",
-      "excerpt": "TechCrunch is returning to U.C. Berkeley on March 3 to bring together some of the most influential minds in robotics and artificial intelligence. Each year we strive to bring together a cross-section of big companies and exciting new startups, along with top researchers, VCs and thinkers. Alongside a selection of handpicked demos, we’ll also ...",
-      "heat": 169,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/02/19/announcing-the-final-agenda-for-robotics-ai-march-3-at-uc-berkeley/",
-      "ampWebUrl": "https://techcrunch.com/2020/02/19/announcing-the-final-agenda-for-robotics-ai-march-3-at-uc-berkeley/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/19/announcing-the-final-agenda-for-robotics-ai-march-3-at-uc-berkeley/amp/",
-      "publishedDateTime": "2020-02-19T11:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/02/robot_header_final.png?w=1024",
-          "width": 1024,
-          "height": 562,
-          "title": "Announcing the final agenda for Robotics + AI — March 3 at UC Berkeley",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-19-apples-priorities-are-shifting-as-iphone-sales-continue-to-sink.md",
-      "title": "Apple's priorities are shifting as iPhone sales continue to sink",
-      "excerpt": "The company poached a new executive from Google to lead its artificial intelligence efforts ... most notably Waymo, the Alphabet company that spun out of Google's self-driving car project.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2019/02/19/apple-shifts-priorities-to-grow-services-ai.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2019/02/19/apple-shifts-priorities-to-grow-services-ai.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2019/02/19/apple-shifts-priorities-to-grow-services-ai.html",
-      "publishedDateTime": "2020-02-18T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/102732800-GettyImages-146178359.jpg?v=1545326522",
-          "width": 3000,
-          "height": 2111,
-          "title": "Apple's priorities are shifting as iPhone sales continue to sink",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-19-artificial-intelligence-chips-market-to-watch-google-baidu-adapteva-in-focus.md",
-      "title": "Artificial Intelligence Chips Market To Watch: Google, Baidu, Adapteva In Focus",
-      "excerpt": "This intelligence report provides a comprehensive analysis of the Global Artificial Intelligence Chips Market. This includes Investigation of past progress, ongoing market scenarios, and future prospects.",
-      "heat": 115,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chips-market-to-watch-google-baidu-adapteva-in-focus-2020-02-19",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-18T23:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence Chips Market To Watch: Google, Baidu, Adapteva In Focus",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-19-artificial-intelligence-makes-a-splash-in-efforts-to-protect-alaskas-ice-seals-and-beluga-whales.md",
-      "title": "Artificial intelligence makes a splash in efforts to protect Alaska’s ice seals and beluga whales",
-      "excerpt": "NOAA scientist Erin Moreland felt sure there was a technological solution to help her team sort through millions of aerial images of ice each year. She hit the jackpot with artificial intelligence. (Photo provided by NOAA) That better way is now here — an idea that began, unusually enough, with the view from Moreland’s Seattle office window ...",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://news.microsoft.com/features/artificial-intelligence-makes-a-splash-in-efforts-to-protect-alaskas-ice-seals-and-beluga-whales/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-19T06:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/2020/02/me2-300x225.jpg",
-          "width": 300,
-          "height": 225,
-          "title": "Artificial intelligence makes a splash in efforts to protect Alaska’s ice seals and beluga whales",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-19-artificial-intelligence-raises-question-of-whos-an-inventor.md",
-      "title": "Artificial intelligence raises question of who’s an inventor",
-      "excerpt": "Artificial intelligence raises question of who’s an inventor Only humans can get patents, but computers using artificial intelligence are discovering medicines, designing golf clubs and creating video games Check out this story on detroitnews.com: https://www.detroitnews.com/story/business/2020/02/18/artificial-intelligence-inventor/111333818/",
-      "heat": 92,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.detroitnews.com/story/business/2020/02/18/artificial-intelligence-inventor/111333818/",
-      "ampWebUrl": "https://amp.detroitnews.com/amp/111333818",
-      "cdnAmpWebUrl": "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/111333818",
-      "publishedDateTime": "2020-02-18T20:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Detroit News",
-        "domain": "detroitnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/02/19/PDTN/ccfce976-dcb2-4089-bffa-5cedeae5ea61-AP20007048093657.jpg?auto=webp&crop=3413,1920,x1,y116&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": "Artificial intelligence raises question of who’s an inventor",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-19-automating-your-amazon-forecast-workflow-with-lambda-step-functions-and-cloudwatch-events-rule.md",
       "title": "Automating your Amazon Forecast workflow with Lambda, Step Functions, and CloudWatch Events rule",
       "excerpt": "Amazon Forecast is a fully managed service that uses machine learning (ML) to generate highly accurate forecasts without requiring any prior ML experience. Forecast is applicable in a wide variety of use cases, including estimating product demand, energy demand, workforce planning, computing cloud infrastructure",
@@ -2099,6 +1883,233 @@
       "topics": [
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-20-facebook-will-now-pay-you-for-your-voice-recordings.md",
+      "title": "Facebook will now pay you for your voice recordings",
+      "excerpt": "Facebook will offer to pay some users for voice recordings that will be used to help improve its speech recognition technology, the company announced Thursday. The move comes after Facebook — as well as Amazon, Apple, Google, and Microsoft — was caught listening to and transcribing voice recordings to improve speech recognition systems ...",
+      "heat": 384,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theverge.com/2020/2/20/21145584/facebook-pay-record-voice-speech-recognition-viewpoints-proununciations-app",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/2/20/21145584/facebook-pay-record-voice-speech-recognition-viewpoints-proununciations-app",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/20/21145584/facebook-pay-record-voice-speech-recognition-viewpoints-proununciations-app",
+      "publishedDateTime": "2020-02-20T12:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/9GjJYqY3aHq7Y6WKo61JQUsI72o=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66345179/acastro_180522_facebook_0001.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": "Facebook will now pay you for your voice recordings",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-20-finnish-city-espoo-pioneers-civic-ai-with-education-and-explainability.md",
+      "title": "Finnish city Espoo pioneers civic AI with education and explainability",
+      "excerpt": "Espoo has already conducted AI trials that initially required overcoming technical hurdles but ultimately improved city services. Over the long-term, the city is crafting a model that places ethics at the center of its AI plans by ensuring citizens can understand how these systems work and participate in debates about their implementation.",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/20/finnish-city-espoo-pioneers-civic-ai-with-education-and-explainability/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-20T04:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/image001.png?w=1200&#038;strip=all",
+          "width": 875,
+          "height": 397,
+          "title": "Finnish city Espoo pioneers civic AI with education and explainability",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-20-gartners-2020-magic-quadrant-for-data-science-and-machine-learning-platforms-has-many-surprises.md",
+      "title": "Gartner’s 2020 Magic Quadrant For Data Science And Machine Learning Platforms Has Many Surprises",
+      "excerpt": "Enterprise decision-makers look up to Gartner for its recommendations on enterprise software stack. The magic quadrant report is one of the most credible, genuine, and authoritative research from Gartner.",
+      "heat": 150,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/janakirammsv/2020/02/20/gartners-2020-magic-quadrant-for-data-science-and-machine-learning-platforms-has-many-surprises/",
+      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2020/02/20/gartners-2020-magic-quadrant-for-data-science-and-machine-learning-platforms-has-many-surprises/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/02/20/gartners-2020-magic-quadrant-for-data-science-and-machine-learning-platforms-has-many-surprises/amp/",
+      "publishedDateTime": "2020-02-19T23:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e4e13147a0098000733c741%2F0x0.jpg",
+          "width": 1000,
+          "height": 675,
+          "title": "Gartner’s 2020 Magic Quadrant For Data Science And Machine Learning Platforms Has Many Surprises",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "Machine Learning",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-20-google-ai-will-no-longer-use-gender-labels-like-woman-or-man-on-images-of-people-to-avoid-bias.md",
+      "title": "Google AI will no longer use gender labels like 'woman' or 'man' on images of people to avoid bias",
+      "excerpt": "Google says it made the change because you can't deduce someone's gender by their appearance.",
+      "heat": 73,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/google-cloud-vision-api-wont-tag-images-by-gender-2020-2",
+      "ampWebUrl": "https://www.businessinsider.com/google-cloud-vision-api-wont-tag-images-by-gender-2020-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-cloud-vision-api-wont-tag-images-by-gender-2020-2?amp",
+      "publishedDateTime": "2020-02-20T05:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5c1aab65a040ff0e71344943?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "Google AI will no longer use gender labels like 'woman' or 'man' on images of people to avoid bias",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-20-google-parent-alphabet-is-pruning-its-other-bets.md",
+      "title": "Google parent Alphabet is pruning its 'other bets'",
+      "excerpt": "YouTube and more), Access (Fiber broadband), Calico (aging), Capital (late-stage investment), DeepMind (artificial intelligence), Google Ventures (startup investment), Life Sciences (health), Nest (smart home appliances), Sidewalk (smart cities) and Google X, which still looked after Boston Dynamics (robots), Waymo (self-driving cars), Loon ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/2020/02/20/alphabet-makani-chronicle-jigsaw-other-bets/",
+      "ampWebUrl": "https://www.engadget.com/amp/2020/02/20/alphabet-makani-chronicle-jigsaw-other-bets/",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/20/alphabet-makani-chronicle-jigsaw-other-bets/",
+      "publishedDateTime": "2020-02-20T07:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-02%252F84251f30-53db-11ea-9fcf-d89c1210ec92%26client%3Da1acac3e1b3290917d92%26signature%3D6ed4057d83c63aff8c4a85abf3a6285ca6b30cdb&client=amp-blogside-v2&signature=22c879d0d3bb8d2443c47f82793e879d2cc7bc5a",
+          "width": 600,
+          "height": 350,
+          "title": "Google parent Alphabet is pruning its 'other bets'",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
       ]
     }
   ],

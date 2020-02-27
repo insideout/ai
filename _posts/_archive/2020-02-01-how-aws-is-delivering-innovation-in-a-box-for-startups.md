@@ -20,11 +20,11 @@ topics:
   - AWS AI
 
 images:
-  - url: "https://static-news.moneycontrol.com/static-mcnews/2019/04/data-digital-technology-bitcoin-blockchain-378x213.jpg"
+  - url: "https://static-news.moneycontrol.com/static-mcnews/2017/03/Atm_cash_rupee_720-378x213.jpg"
     width: 378
     height: 213
     title: "How AWS is delivering innovation in a box for startups"
 
-secured: "FPGkyobG7bQLYUM4n/Pl0TaIqv11rBXfvPUeEjABeul9dtIv677aW6uuOvFCemyHpFEm3cR9y844i5WvstFHmNqHUy4txKwY/bCQdUk8HFgZpJruRaFPFCd0Oo6YMWOEErC1igXb0yu0Yf6JKAJI8CUBiYWyC6fa+hbBp/YbSi8PMJvd/BFTawCHViBA8eiXKxmMrtgo6gkV9XPlmqjvv0UZxyWKGxi6fvM+yf9aYBiiTYz7Ahh09ddHJtMCL2bAu2ezor+tflLt3ZizPuvtUsz0vLYglcuEvZ8xY+/Wk7Ist1F3EmOdziGhWKsRMD83;F0KojF44p3K/KTL6SANFbA=="
+secured: "QyxdIUPP2YbucU9KaTnSFgn1FZJgw4xaxPSg64kKZ/8sBOhG1t9wzzKig+umHx9KrAwK00pmE7K1G2BpfvCzVhNQvtVpzrfQKd6yUJeZg6n0+G5S8x7TbuITRUvCkDTEBk30NYYK9bJuPUEYCxcGf447b5gkpiZvgXbaQb0Vs82WHyeQHwa98P/FNv49uYXa4qyIVh4ZOTaz42RfrEyAAjkslFyyPl8jsrZn2Kv6N/8hvW84/TgrY0A/3ZwRQzhGHIz+d8FXj+B6rjl2GOD7IDMcFrC65B/HjRbe46MxnQ0K67bSeeo/zQmRrUzCKSR/;Id1JqeqDurC2V3m4dlF1mw=="
 ---
 

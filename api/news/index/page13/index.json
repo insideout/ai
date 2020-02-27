@@ -2,230 +2,6 @@
   "page": 13,
   "value": [
     {
-      "path": "_posts/_archive/2020-01-15-standard-voices-in-amazon-polly-now-available-in-middle-east-and-asia-pacific-regions.md",
-      "title": "Standard Voices in Amazon Polly now available in Middle East and Asia Pacific Regions",
-      "excerpt": "Amazon Polly turns text into lifelike speech, which allows you to create voice-enabled applications. AWS is excited to announce the general availability of all standard voices in the Middle East (Bahrain) and Asia Pacific (Hong Kong) Regions. Customers in these Regions can now synthesize over 60 standard",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/standard-voices-in-amazon-polly-now-available-in-middle-east-and-asia-pacific-regions/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-15T12:32:30-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/24/polly-social.jpg",
-          "width": 1024,
-          "height": 512,
-          "title": "Standard Voices in Amazon Polly now available in Middle East and Asia Pacific Regions",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-15-study-millennial-parents-are-more-likely-to-consider-ai-for-their-kids-health.md",
-      "title": "Study: Millennial parents are more likely to consider AI for their kids' health",
-      "excerpt": "A new IEEE study shows millennial parents would embrace self-driving school busses, 3D-printed organs and AI-powered assistants. TechRepublic's Karen Roby interviewed Dr. Karen Panetta, dean of engineering at Tufts University, about the tech organization IEEE and a recent study concerning AI and healthcare. The following is an edited transcript ...",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/study-millennial-parents-are-more-likely-to-consider-ai-for-their-kids-health/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/study-millennial-parents-are-more-likely-to-consider-ai-for-their-kids-health/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/study-millennial-parents-are-more-likely-to-consider-ai-for-their-kids-health/",
-      "publishedDateTime": "2020-01-15T13:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/01/15/0474ddc4-0751-4943-ba45-8001b2a71c49/thumbnail/1200x675/d7a62e7ff462af441cef021bc9ac5d6c/20191212-panetta-karen.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Study: Millennial parents are more likely to consider AI for their kids' health",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-15-the-enterprise-ai-challenge-common-misconceptions.md",
-      "title": "The Enterprise AI Challenge: Common Misconceptions",
-      "excerpt": "The buzz about the power of AI to disrupt industries and transform businesses is not hype; it's real. Just look at what AI-powered FAANG companies have done in advertising, retail, entertainment and other industries.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/15/the-enterprise-ai-challenge-common-misconceptions/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/15/the-enterprise-ai-challenge-common-misconceptions/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/15/the-enterprise-ai-challenge-common-misconceptions/amp/",
-      "publishedDateTime": "2020-01-15T12:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F01%2Fa-20-2.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "The Enterprise AI Challenge: Common Misconceptions",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-15-using-azure-to-understand-azure.md",
-      "title": "Using Azure to Understand Azure",
-      "excerpt": "Azure Machine Learning (AML) is a great example. Over the years, my team has developed a portfolio of production models, spanning everything from behavioral clustering to anomaly detection.",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/data-science-at-microsoft/using-azure-to-understand-azure-1c8f5dc60a0a",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-15T09:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/719/1*AtWm6tnTQH5QjELGerSUUg.jpeg",
-          "width": 719,
-          "height": 396,
-          "title": "Using Azure to Understand Azure",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-15-verbit-raises-31-million-for-human-in-the-loop-ai-transcription-tech.md",
-      "title": "Verbit raises $31 million for human-in-the-loop AI transcription tech",
-      "excerpt": "The voice and speech recognition tech market is anticipated to be worth $31.82 billion by 2025, driven by new applications in the banking, health care, and automotive industries. And Tom Livne ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/15/verbit-raises-31-million-for-human-in-the-loop-ai-transcription-tech/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/15/verbit-raises-31-million-for-human-in-the-loop-ai-transcription-tech/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/15/verbit-raises-31-million-for-human-in-the-loop-ai-transcription-tech/amp/",
-      "publishedDateTime": "2020-01-15T09:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/01/VERBIT-TEAM-e1578858528453.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Verbit raises $31 million for human-in-the-loop AI transcription tech",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-01-15-what-are-neural-symbolic-ai-methods-and-why-will-they-dominate-2020.md",
       "title": "What are neural-symbolic AI methods and why will they dominate 2020?",
       "excerpt": "The recent commercial AI revolution has been largely driven by deep neural networks. First invented in the 1960s, deep NNs came into their own once fueled by the combination of internet-scale datasets and distributed GPU farms. But the field of AI is much richer than just this one type of algorithm. Symbolic reasoning algorithms such ...",
@@ -2172,6 +1948,221 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-16-meet-the-new-twist-on-data-encryption-that-promises-better-privacy-and-security-for-ai.md",
+      "title": "Meet the new twist on data encryption that promises better privacy and security for AI",
+      "excerpt": "AI and privacy needn’t be mutually exclusive. After a decade in the labs, homomorphic encryption (HE) is emerging as a top way to help protect data privacy in machine learning (ML) and cloud computing. It’s a timely breakthrough: Data from ML is doubling yearly. At the same time, concern about related data privacy and security is growing ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/16/meet-the-new-twist-on-data-encryption-that-promises-better-privacy-and-security-for-ai/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/16/meet-the-new-twist-on-data-encryption-that-promises-better-privacy-and-security-for-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/16/meet-the-new-twist-on-data-encryption-that-promises-better-privacy-and-security-for-ai/amp/",
+      "publishedDateTime": "2020-01-16T13:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/GettyImages-654683563.jpeg?fit=1906%2C953&strip=all",
+          "width": 1906,
+          "height": 953,
+          "title": "Meet the new twist on data encryption that promises better privacy and security for AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-16-microsoft-ceo-talks-sustainability-artificial-intelligence-privacy-and-satisfying-shareholders.md",
+      "title": "Microsoft CEO talks sustainability, artificial intelligence, privacy and satisfying shareholders",
+      "excerpt": "Microsoft CEO Satya Nadella chats with CNBC's Jim Cramer about the software giant's plans to become carbon negative by 2030.",
+      "heat": 69,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/video/2020/01/16/microsoft-ceo-talks-sustainability-ai-privacy-and-shareholders.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-16T15:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106341199-15792185215ED1-MM-Block-B-011620.jpg?v=1579218520",
+          "width": 1920,
+          "height": 1080,
+          "title": "Microsoft CEO talks sustainability, artificial intelligence, privacy and satisfying shareholders",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-16-natural-language-processing-nlp-market-2019-2027-growth-emerging-trends-and-forecast.md",
+      "title": "Natural Language Processing (NLP) Market 2019-2027 / Growth, Emerging Trends And Forecast",
+      "excerpt": "The report covers the forecast and analysis of the natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million).",
+      "heat": 180,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2019-2027-growth-emerging-trends-and-forecast-2020-01-16",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-15T22:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Natural Language Processing (NLP) Market 2019-2027 / Growth, Emerging Trends And Forecast",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-16-new-kmpg-report-says-industry-leaders-want-government-guidance-around-ai.md",
+      "title": "New KMPG report says industry leaders want government guidance around AI",
+      "excerpt": "Companies are making progress on internal ethics but training still lags. Companies are starting to see a few benefits from artificial intelligence, but there are still many roadblocks to progress. In Living in an AI World: Achievements and Challenges of Artificial Intelligence Across Five Industries, KPMG looks at what's working and what isn't ...",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/new-kmpg-report-says-industry-leaders-want-government-guidance-around-ai/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/new-kmpg-report-says-industry-leaders-want-government-guidance-around-ai/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/new-kmpg-report-says-industry-leaders-want-government-guidance-around-ai/",
+      "publishedDateTime": "2020-01-16T06:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2019/12/04/70d05d50-7fdc-4611-acee-d1c6867906c0/thumbnail/1200x675/075730befe930c61f707faeac9381bfe/20191125-veronica-karen.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "New KMPG report says industry leaders want government guidance around AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-16-nrf-2020-for-retailers-voice-recognition-is-a-major-untapped-opportunity.md",
+      "title": "NRF 2020: For Retailers, Voice Recognition Is a Major Untapped Opportunity",
+      "excerpt": "Still, most retailers have struggled to harness voice recognition. That needs to change, Gauthier argued. People are increasingly demanding the ability to communicate digitally without using their hands, and retail brands that get in front of the trend will benefit greatly. “We learn to talk before we learn to type,” Gauthier said.",
+      "heat": 67,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://biztechmagazine.com/article/2020/01/nrf-2020-retailers-voice-recognition-major-untapped-opportunity",
+      "ampWebUrl": "https://biztechmagazine.com/article/2020/01/nrf-2020-retailers-voice-recognition-major-untapped-opportunity?amp",
+      "cdnAmpWebUrl": "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2020/01/nrf-2020-retailers-voice-recognition-major-untapped-opportunity?amp",
+      "publishedDateTime": "2020-01-16T13:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BizTech",
+        "domain": "biztechmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202001/voice%20shopping%20hero.jpg?itok=0JeW9_e_",
+          "width": 1440,
+          "height": 500,
+          "title": "NRF 2020: For Retailers, Voice Recognition Is a Major Untapped Opportunity",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
       ]
     }
   ],

@@ -2,222 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_posts/2020-02-14-ai-weekly-machine-learning-could-lead-cybersecurity-into-uncharted-territory.md",
-      "title": "AI Weekly: Machine learning could lead cybersecurity into uncharted territory",
-      "excerpt": "Once a quarter, VentureBeat publishes a special issue to take an in-depth look at trends of great importance. This week, we launched issue two, examining AI and security. Across a spectrum of stories, the VentureBeat editorial team took a close look at some of the most important ways AI and security are colliding today. It’s a shift with high ...",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/14/ai-weekly-machine-learning-could-lead-cybersecurity-into-uncharted-territory/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-14T13:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-14-asu-researchers-debut-viwi-bt-an-aicomputer-vision-mmwave-beam-guide.md",
-      "title": "ASU researchers debut ViWi-BT, an AI/computer vision mmWave beam guide",
-      "excerpt": "ViWi-BT’s goal is to use AI and a device’s cameras or lidar capabilities to identify physical impediments and advantages for the beam targeting process, enabling “vision-aided wireless communications.” In short, a system with ViWi-BT capabilities will learn about its 3D environment using a database of previously transmitted millimeter ...",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/14/asu-researchers-debut-viwi-bt-an-ai-computer-vision-mmwave-beam-guide/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/14/asu-researchers-debut-viwi-bt-an-ai-computer-vision-mmwave-beam-guide/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/14/asu-researchers-debut-viwi-bt-an-ai-computer-vision-mmwave-beam-guide/amp/",
-      "publishedDateTime": "2020-02-14T11:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/mmwaveml.jpg?fit=2608%2C1304&strip=all",
-          "width": 2608,
-          "height": 1304,
-          "title": "ASU researchers debut ViWi-BT, an AI/computer vision mmWave beam guide",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-14-class-action-suit-against-clearview-ai-cites-illinois-law-that-cost-facebook-550m.md",
-      "title": "Class action suit against Clearview AI cites Illinois law that cost Facebook $550M",
-      "excerpt": "Just two weeks ago Facebook settled a lawsuit alleging violations of privacy laws in Illinois for the considerable sum of $550 million. Now controversial startup Clearview AI, which has gleefully admitted to scraping and analyzing the data of millions, is the target of a new lawsuit citing similar violations. Clearview made waves earlier this ...",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/02/14/class-action-suit-against-clearview-ai-cites-illinois-law-that-cost-facebook-550m/",
-      "ampWebUrl": "https://techcrunch.com/2020/02/14/class-action-suit-against-clearview-ai-cites-illinois-law-that-cost-facebook-550m/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/14/class-action-suit-against-clearview-ai-cites-illinois-law-that-cost-facebook-550m/amp/",
-      "publishedDateTime": "2020-02-14T12:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/06/getty-facial-face-recognition.jpg?w=1024",
-          "width": 1024,
-          "height": 684,
-          "title": "Class action suit against Clearview AI cites Illinois law that cost Facebook $550M",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-14-deepminds-alphastar-ai-crushes-pro-starcraft-players.md",
-      "title": "DeepMind’s AlphaStar AI Crushes Pro ‘StarCraft’ Players",
-      "excerpt": "There’s no stopping Google’s DeepMind AI. Earlier this year the artificial intelligence platform recently shut out two professional StarCraft players in a 5-0 defeat. And now a report on The ...",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geek.com/tech/deepminds-alphastar-ai-crushes-pro-starcraft-players-1771485/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-13T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geek.com",
-        "domain": "geek.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/geek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.geek.com/wp-content/uploads/2019/01/alphastar-9.jpg",
-          "width": 690,
-          "height": 388,
-          "title": "DeepMind’s AlphaStar AI Crushes Pro ‘StarCraft’ Players",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-14-ex-waymo-driver-accused-of-causing-self-driving-van-to-crash.md",
-      "title": "Ex-Waymo driver accused of causing self-driving van to crash",
-      "excerpt": "PHOENIX — Ex-Waymo driver accused of causing self-driving van to crash Tempe police said Raymond Tang, 31, was booked into jail Wednesday night and is facing felony charges of aggravated assault and criminal damage,",
-      "heat": 249,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/story/ex-waymo-driver-accused-of-causing-self-driving-van-to-crash-2020-02-13",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/guid/0A09C846-4EDF-11EA-833C-A3261B110A22",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/guid/0A09C846-4EDF-11EA-833C-A3261B110A22",
-      "publishedDateTime": "2020-02-13T20:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s.marketwatch.com/public/resources/images/MW-HD183_waymo_ZH_20190201153208.jpg",
-          "width": 890,
-          "height": 501,
-          "title": "Ex-Waymo driver accused of causing self-driving van to crash",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_posts/2020-02-14-from-process-automation-to-autonomous-process.md",
       "title": "From Process Automation To Autonomous Process",
       "excerpt": "The big idea of AI and cognitive technologies is to address and tackle problems that require human cognitive capabilities. Organizations looking to pursue the path need to have the desired end state in mind: full autonomous business process.",
@@ -2089,6 +1873,223 @@
       "topics": [
         "AI",
         "Facebook AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-17-machine-learning-is-no-place-to-move-fast-and-break-things.md",
+      "title": "Machine Learning Is No Place To “Move Fast And Break Things”",
+      "excerpt": "Machine learning systems can be massively useful, but also fail critically in unforeseen ways. We need systems engineering in synergy with experimentation and innovation.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/alexanderlavin/2020/02/17/machine-learning-is-no-place-to-move-fast-and-break-things/",
+      "ampWebUrl": "https://www.forbes.com/sites/alexanderlavin/2020/02/17/machine-learning-is-no-place-to-move-fast-and-break-things/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexanderlavin/2020/02/17/machine-learning-is-no-place-to-move-fast-and-break-things/amp/",
+      "publishedDateTime": "2020-02-17T08:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e48aadba854780006b17705%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Machine Learning Is No Place To “Move Fast And Break Things”",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-17-monash-university-researchers-develop-ai-aimed-at-improving-suicide-prevention.md",
+      "title": "Monash University researchers develop AI aimed at improving suicide prevention",
+      "excerpt": "In an effort to help paramedics respond more effectively to potential suicides in Australia, researchers from Monash University and Turning Point, a national addiction treatment centre, are using artificial intelligence (AI) to streamline how relevant ambulance data is filtered and categorised. The AI project, which received a AU$1.2 million ...",
+      "heat": 123,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/monash-university-researchers-develop-ai-aimed-at-improving-suicide-prevention/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/monash-university-researchers-develop-ai-aimed-at-improving-suicide-prevention/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/monash-university-researchers-develop-ai-aimed-at-improving-suicide-prevention/",
+      "publishedDateTime": "2020-02-16T16:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/02/17/b6213abd-fa0f-464c-9980-616c43d989c6/thumbnail/1200x675/71d46fb343b28e5a5692484319d19257/idf-collage.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Monash University researchers develop AI aimed at improving suicide prevention",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-17-new-artificial-evolution-research-could-finally-prove-darwin-was-right.md",
+      "title": "New artificial evolution research could finally prove Darwin was right",
+      "excerpt": "A successful artificial evolution paradigm could result in a Darwin Machine-based neural network capable of better emulating the natural selection process and, possibly, the human brain’s own ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/02/17/new-artificial-evolution-research-could-finally-prove-darwin-was-right/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/02/17/new-artificial-evolution-research-could-finally-prove-darwin-was-right/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/17/new-artificial-evolution-research-could-finally-prove-darwin-was-right/amp/",
+      "publishedDateTime": "2020-02-17T13:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/bacteria-796x437.jpg",
+          "width": 796,
+          "height": 437,
+          "title": "New artificial evolution research could finally prove Darwin was right",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-17-please-check-your-data-a-self-driving-car-dataset-failed-to-label-hundreds-of-pedestrians-thousands-of-vehicles.md",
+      "title": "Please check your data: A self-driving car dataset failed to label hundreds of pedestrians, thousands of vehicles",
+      "excerpt": "Roboflow has since corrected the errors on the dataset, and issued an improved version. Standing up to patent trolls works: Mycroft AI, a startup building an open-source voice-controlled assistant for Linux-based devices, was sued for allegedly infringing a couple of patents, as we reported earlier this month. Mycroft’s CEO Joshua Montgomery ...",
+      "heat": 140,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theregister.co.uk/2020/02/17/self_driving_car_dataset/",
+      "ampWebUrl": "https://www.theregister.co.uk/AMP/2020/02/17/self_driving_car_dataset/",
+      "cdnAmpWebUrl": "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/02/17/self_driving_car_dataset/",
+      "publishedDateTime": "2020-02-17T03:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Register",
+        "domain": "theregister.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2018/01/16/shutterstock_smart_city.jpg",
+          "width": 648,
+          "height": 432,
+          "title": "Please check your data: A self-driving car dataset failed to label hundreds of pedestrians, thousands of vehicles",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-17-space-robotics-market-emerging-trends-and-strong-application-scope-by-2025.md",
+      "title": "Space Robotics Market Emerging Trends and Strong Application Scope by 2025",
+      "excerpt": "HTF Market Intelligence released a new research report of 150 pages on title 'Global Space Robotics Market Insights by Application, Product Type, Competitive Landscape & Regional Forecast 2025' with detailed analysis,",
+      "heat": 262,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/space-robotics-market-emerging-trends-and-strong-application-scope-by-2025-2020-02-17",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-17T08:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Space Robotics Market Emerging Trends and Strong Application Scope by 2025",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

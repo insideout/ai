@@ -1,26 +1,28 @@
 ---
 category: news
-title: "Artificial Intelligence Technology and Competition with China"
-excerpt: "U.S. Chief Technology Officer Michael Kratsios talks about artificial intelligence technology and tackling Chinese competition."
-publishedDateTime: 2020-02-20T19:16:00Z
-webUrl: "https://www.c-span.org/video/?469498-1/artificial-intelligence-technology-competition-china"
+title: "Rochester-area college students code self-driving racecars for competition"
+excerpt: "The winner of the race is the team that completes the fastest lap around the more than 50-foot-long track. Spectators are invited to watch the championship race and learn about self-driving cars at the DeepRacer Challenge: Battle of the Schools. The free event is 3–5 p.m. March 4 in Ingle Auditorium, on the RIT campus. The challenge is run by ..."
+publishedDateTime: 2020-02-27T06:35:00Z
+webUrl: "https://www.rit.edu/news/rochester-area-college-students-code-self-driving-racecars-competition"
 type: article
-quality: 37
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: C-SPAN
-  domain: c-span.org
+  name: Rochester Institute of Technology
+  domain: rit.edu
 
 topics:
   - AI
+  - AWS AI
+  - AI in Autos
 
 images:
-  - url: "https://images.c-span.org/Files/90d/1582138795.jpg/Thumbs/height.630.no_border.width.1200.jpg"
-    width: 1200
-    height: 630
-    title: "Artificial Intelligence Technology and Competition with China"
+  - url: "https://www.rit.edu/sites/rit.edu/files/styles/full/https/cdn.rit.edu/images/news/2020-02/DeepRacer-Challenge2.jpg?itok=6EB2OzZb"
+    width: 1080
+    height: 720
+    title: "Rochester-area college students code self-driving racecars for competition"
 
 related:
   - title: "Over 1,700 students competing in artificial intelligence and robot competitions"
@@ -53,20 +55,20 @@ related:
       - url: "https://www.zawya.com/resources/img/zawya-logo-en-social.png"
         width: 1200
         height: 878
-  - title: "Rochester-area college students code self-driving racecars for competition"
-    excerpt: "The winner of the race is the team that completes the fastest lap around the more than 50-foot-long track. Spectators are invited to watch the championship race and learn about self-driving cars at the DeepRacer Challenge: Battle of the Schools. The free event is 3–5 p.m. March 4 in Ingle Auditorium, on the RIT campus. The challenge is run by ..."
-    publishedDateTime: 2020-02-27T06:35:00Z
-    webUrl: "https://www.rit.edu/news/rochester-area-college-students-code-self-driving-racecars-competition"
+  - title: "Artificial Intelligence Technology and Competition with China"
+    excerpt: "U.S. Chief Technology Officer Michael Kratsios talks about artificial intelligence technology and tackling Chinese competition."
+    publishedDateTime: 2020-02-20T19:16:00Z
+    webUrl: "https://www.c-span.org/video/?469498-1/artificial-intelligence-technology-competition-china"
     type: article
     provider:
-      name: Rochester Institute of Technology
-      domain: rit.edu
-    quality: 24
+      name: C-SPAN
+      domain: c-span.org
+    quality: 37
     images:
-      - url: "https://www.rit.edu/sites/rit.edu/files/styles/full/https/cdn.rit.edu/images/news/2020-02/DeepRacer-Challenge2.jpg?itok=6EB2OzZb"
-        width: 1080
-        height: 720
+      - url: "https://images.c-span.org/Files/90d/1582138795.jpg/Thumbs/height.630.no_border.width.1200.jpg"
+        width: 1200
+        height: 630
 
-secured: "E3bcZxI4eHuW4nFZDJl2Fl/toAOE0YxQ6q8dIKhYQ0Syb4eit50UK4sCBRQAz4YzuZ3dqsSB+oASx+uZZoY1Jaw/A/1Hwvs/vGDosZJCDbaAj9Un+OqNkBL6PLja/CrZNkiuexKSLGnX2T6MRCpbfW8SMxMBTN/afcmC16+wTXo2oz1A8ksw8ddQxMkmJqvQxieyALOYJD0RXo3OyBspEZJbWHj39dcsKwkqxozgD8eG0rjv1Omno3VQx/UMUw3SwAgI/TlzbitKJeD5XTMnWg8jXGKQ/s5LdrL1BJEm00+f4K/F05pRY8hWUQOphqhneVWFL2U5cOfeqb9yZ2PcwRTXdPf7mwL5jQrwhsAJaUbOZ5uLLh0ApqJ6dvnLjU75BloHQlt9+LDQ5ynOFrWmAtwgUHqTOnxVvnusifThPjQQ6A8Rwu9z+3EMYVhHmUqe7XjkXKlV+x5A3CNkFn3TQo3G1reGw6SVl2VzvD1o+vM=;IAvb3YjdCJC6o9vXQlBr6A=="
+secured: "6pN4CIRPNEbPPGuJSXDm8ZrfAfY8Q/D0x9KaXHDFeU15yh8Tg/j/tBRGC7xxWzfOLVEsaUTdlDfI7dJGpBNOoDPQKxr+Vvo2N9Nu3H3VPhfsID2AmD5GMBVTDAGznP80T3uM8bR4Y3oXpWPhsyzbNfmQPPp3kg/Ar2h55rbzhMCI4o4OuFR85AMmRiYiuWZG/PrPgzapx5WAPVLAsFBONO9Ktuqq5TX++TSqJgGsnKQxnS2m6rqZ90L5tf8TGpQJafdAoVxXbC26Kz0DeKFVLzocU1+uKn13+n6njNx9u7qu8LnxgH5UzUrFjED9YQh7;+GYRDFZPJCpdoz0JM4z+OA=="
 ---
 

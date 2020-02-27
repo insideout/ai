@@ -2,221 +2,6 @@
   "page": 19,
   "value": [
     {
-      "path": "_posts/_archive/2020-01-25-how-artificial-intelligence-provided-early-warnings-of-the-wuhan-virus.md",
-      "title": "How artificial intelligence provided early warnings of the Wuhan virus",
-      "excerpt": "AI is upending companies, industries, and humanity. During the kind of virus outbreak that China and other nations are now contending with, time is of the essence. The earlier the warning, the better the chance to contain the contagion. One problem, though, is that governments are sometimes reticent to share information. Such was the case in ...",
-      "heat": 187,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://qz.com/1791222/how-artificial-intelligence-provided-early-warning-of-wuhan-virus/",
-      "ampWebUrl": "https://qz.com/1791222/how-artificial-intelligence-provided-early-warning-of-wuhan-virus/amp/",
-      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/1791222/how-artificial-intelligence-provided-early-warning-of-wuhan-virus/amp/",
-      "publishedDateTime": "2020-01-25T15:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Quartz",
-        "domain": "qz.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/qz.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cms.qz.com/wp-content/uploads/2020/01/wuhan-virus-outbreak-e1579994767750.jpg?quality=75&strip=all&w=1400",
-          "width": 1400,
-          "height": 799,
-          "title": "How artificial intelligence provided early warnings of the Wuhan virus",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-25-mass-production-of-a-self-driving-restaurant-robot-is-coming.md",
-      "title": "Mass Production Of A Self-Driving Restaurant Robot Is Coming",
-      "excerpt": "Bear Robotics has received a Series A investment of $32 million and has plans to mass-produce its self-driving restaurant robot called Penny. The robot works as a food runner and can deliver items to a table.",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/lanabandoim/2020/01/24/mass-production-of-a-self-driving-restaurant-robot-is-coming/",
-      "ampWebUrl": "https://www.forbes.com/sites/lanabandoim/2020/01/24/mass-production-of-a-self-driving-restaurant-robot-is-coming/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanabandoim/2020/01/24/mass-production-of-a-self-driving-restaurant-robot-is-coming/amp/",
-      "publishedDateTime": "2020-01-24T19:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F43189452%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3999%26cropY1%3D0%26cropY2%3D2667",
-          "width": 1200,
-          "height": 800,
-          "title": "Mass Production Of A Self-Driving Restaurant Robot Is Coming",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-25-researchers-in-us-china-use-machine-learning-to-make-better-solar-panels.md",
-      "title": "Researchers In US & China Use Machine Learning To Make Better Solar Panels",
-      "excerpt": "This is a companion discussion topic for the original entry at https://cleantechnica.com/2020/01/25/researchers-in-us-china-use-machine-learning-to-make-better-solar-panels/",
-      "heat": 137,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://businesscomputingworld.co.uk/t/researchers-in-us-china-use-machine-learning-to-make-better-solar-panels/244767",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-25T13:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BCW",
-        "domain": "businesscomputingworld.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg",
-          "width": 512,
-          "height": 512,
-          "title": "Researchers In US & China Use Machine Learning To Make Better Solar Panels",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-25-scraping-the-web-is-a-powerful-tool-clearview-ai-abused-it.md",
-      "title": "Scraping the Web Is a Powerful Tool. Clearview AI Abused It",
-      "excerpt": "Last weekend, a nightmare scenario for many privacy advocates arrived. The New York Times revealed Clearview AI, a secretive surveillance company, was selling a facial recognition tool to law enforcement powered by “three billion images” culled from the open web. Cops have long had access to similar technology, but what makes Clearview ...",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/clearview-ai-scraping-web/",
-      "ampWebUrl": "https://www.wired.com/story/clearview-ai-scraping-web/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/clearview-ai-scraping-web/amp",
-      "publishedDateTime": "2020-01-24T23:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5e2a1bb2123c60000827363b/master/pass/ai-scraping-88622242.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": "Scraping the Web Is a Powerful Tool. Clearview AI Abused It",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-25-sentiment-analysis-and-text-mining-using-azure-cognitive-services.md",
-      "title": "Sentiment analysis and text mining using Azure Cognitive Services",
-      "excerpt": "This post provides 6 sample codes showing how Azure Microsoft Cognitive Services can used to build AI solutions to tackle opportunities like sentiment analysis and text mining.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/@caiomsouza/sentiment-analysis-and-text-mining-using-azure-cognitive-services-6185a1d0f0b7",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-25T04:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/1*eIuRRxcgZxzCMZvc4HLiiA.png",
-          "width": 1200,
-          "height": 600,
-          "title": "Sentiment analysis and text mining using Azure Cognitive Services",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-01-26-ai-robot-will-replace-managers-by-2024.md",
       "title": "AI robot will replace managers by 2024",
       "excerpt": "In the coming times, new technologies such as Artificial Intelligence (AI) can make everyday tasks easier ... It further states that restaurants are implementing AI robotics technology so that paralyzed employees can also control robotic waiters from remote locations. Due to technologies like Braille readers and virtual reality, institutions ...",
@@ -2163,6 +1948,222 @@
       "topics": [
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-28-artificial-intelligence-ai-in-agriculture-global-market-study-reveal-explosive-growth-potential.md",
+      "title": "Artificial Intelligence (AI) in Agriculture Global Market Study Reveal explosive growth potential",
+      "excerpt": "Unlock new opportunities in Artificial Intelligence (AI) in Agriculture Market; the latest release from HTF MI highlights the key market trends significant to the growth prospects, Let us know if any specific players or list of players needs to consider to ...",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-agriculture-global-market-study-reveal-explosive-growth-potential-2020-01-28",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-28T01:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence (AI) in Agriculture Global Market Study Reveal explosive growth potential",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-28-artificial-intelligence-in-healthcare-market-worth-276-billion-by-2025-meticulous-research.md",
+      "title": "Artificial Intelligence In Healthcare Market Worth $27.6 Billion By 2025:: Meticulous Research®",
+      "excerpt": "Meticulous Research®– leading global market research company published a research report titled “Artificial Intelligence in Healthcare Market by Product (Hardware, Software, Services ...",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/@phadatarekavita95/artificial-intelligence-in-healthcare-market-worth-27-6-billion-by-2025-meticulous-research-903f49019bad?hss_channel=tw-17392332",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-28T01:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/632/0*zQdHy3pqlrdv-3pd.png",
+          "width": 632,
+          "height": 356,
+          "title": "Artificial Intelligence In Healthcare Market Worth $27.6 Billion By 2025:: Meticulous Research®",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-28-artificial-intelligence-is-still-a-science-project-in-most-companies.md",
+      "title": "Artificial Intelligence Is Still A Science Project In Most Companies",
+      "excerpt": "Will AI remain in the labs while the industry moves on to the next technology trend, or will it become the revolutionary force some are predicting?",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2020/01/28/artificial-intelligence-is-still-a-science-project-in-most-companies/",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2020/01/28/artificial-intelligence-is-still-a-science-project-in-most-companies/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2020/01/28/artificial-intelligence-is-still-a-science-project-in-most-companies/amp/",
+      "publishedDateTime": "2020-01-28T09:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1154231467%2F0x0.jpg",
+          "width": 1200,
+          "height": 663,
+          "title": "Artificial Intelligence Is Still A Science Project In Most Companies",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-28-building-a-business-intelligence-dashboard-for-your-amazon-lex-bots.md",
+      "title": "Building a business intelligence dashboard for your Amazon Lex bots",
+      "excerpt": "You’ve rolled out a conversational interface powered by Amazon Lex, with a goal of improving the user experience for your customers. Now you want to track how well it’s working. Are your customers finding it helpful? How are they using it? Do they like it enough to come back? How can you analyze their",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/building-a-business-intelligence-dashboard-for-your-amazon-lex-bots/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-28T14:55:31-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/01/27/bi-lex-1.gif",
+          "width": 800,
+          "height": 428,
+          "title": "Building a business intelligence dashboard for your Amazon Lex bots",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-28-campaign-to-ban-face-recognition-at-us-colleges-gathers-steam.md",
+      "title": "Campaign to Ban Face Recognition at U.S. Colleges Gathers Steam",
+      "excerpt": "An organized campaign against the use of biometric surveillance at universities and colleges in the U.S. is ratcheting up pressure on institutions it believes are currently using—or are likely soon to adopt—face recognition technology. Fight for the Future, one of the nation’s leading digital rights organizations, and Students for ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://gizmodo.com/campaign-to-ban-face-recognition-at-u-s-colleges-gathe-1841302162",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-28T05:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
       ]
     }
   ],

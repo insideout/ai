@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-27T04:21:00Z
 webUrl: "https://itwire.com/strategy/freshworks-acquires-answeriq-to-enhance-ai,-machine-learning-capabilities.html"
 type: article
 quality: 53
-heat: 53
+heat: 63
 published: false
 
 provider:
@@ -22,6 +22,17 @@ images:
     width: 375
     height: 249
     title: "Freshworks acquires AnsweriQ to enhance AI, machine learning capabilities"
+
+related:
+  - title: "Freshworks acquires AI customer service firm AnsweriQ"
+    excerpt: "has acquired machine learning firm AnsweriQ to scale its AI customer service offerings. Financial details of the deal were not disclosed. Founded in 2017, US-based AnsweriQ is an AI-backed customer support company that uses algorithms to read and understand interactions from past tickets between the customer support agent and the customer."
+    publishedDateTime: 2020-02-27T06:49:00Z
+    webUrl: "https://www.techinasia.com/freshworks-acquires-answeriq"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 49
 
 secured: "WaJaZKo26l0B57FPG7xs1f7FFidd3FyCcZmZsXbTW9Gqa8XiVN36HTQSu0m+ZOFY8ZfHhiPTADQgmHOhontaRSOYBceYtvHjmE3ifUeBiPteMQOquzbFj5lq1cGyi/D8N1voAd2++iV34SeFlNypehgDpYbDwvZ0LVqtz8oAcePi2sXwfk5JFgL5Df16rcl/L8PAwSRmWeL08b4ct7hqaBwsZW+O1p1ANVxMQ6K1otKoWON4ukorAUHWcQonzwCqFeu4KG70aqFXon1zi+SWA1oHU5x8OFHfG0HkfCqBf4AvHk7hspbGSWo4MY3Eh2MAcL+RFtrjLepmUuneXIpk1HGUCSoYW6UMJRMEyriwiZVVZeokkGD3oc3kznJuHnWYr7n77I/+lo4WwQ7e3P+XXqSXIz8lNj1NTUGKAyGNm7BpTOaCsBuPr3GhK1IRUWqX6kZk97e9Ktd0WwYnGBukxY1mC0lJS3AA06fQSta4F2A=;OJWN/a4AIcmAecssy6UduA=="
 ---

@@ -8,7 +8,7 @@ ampWebUrl: "https://medicalxpress.com/news/2020-02-perspective-artificial-biolog
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-02-perspective-artificial-biological-neural-networks.amp"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,21 @@ topics:
   - Machine Learning
 
 related:
+  - title: "Hybrid neural network enables biological and artificial neurons to communicate over the internet"
+    excerpt: "This study has for the first time shown how three key emerging technologies can work together: brain-computer interfaces, artificial neural networks and advanced memory technologies (also known as memristors). The discovery opens the door to further significant developments in neural and artificial intelligence research. Brain functions are ..."
+    publishedDateTime: 2020-02-26T00:00:00Z
+    webUrl: "https://www.news-medical.net/news/20200226/Hybrid-neural-network-enables-biological-and-artificial-neurons-to-communicate-over-the-internet.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20200226/Hybrid-neural-network-enables-biological-and-artificial-neurons-to-communicate-over-the-internet.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200226/Hybrid-neural-network-enables-biological-and-artificial-neurons-to-communicate-over-the-internet.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 46
+    images:
+      - url: "https://www.news-medical.net/image.axd?picture=2016%2f3%2fArtificially_Colored_MRI_Scan_Of_Human_Brain-Daisy_Daisy_a8c5d8bbbf824bc8932308e30187510f-620x480.jpg"
+        width: 620
+        height: 480
   - title: "New study allows brain and artificial neurons to link up over the web"
     excerpt: "This study has for the first time shown how three key emerging technologies can work together: brain-computer interfaces, artificial neural networks and advanced memory technologies (also known as memristors). The discovery opens the door to further significant developments in neural and artificial intelligence research. During the study ..."
     publishedDateTime: 2020-02-26T15:19:00Z

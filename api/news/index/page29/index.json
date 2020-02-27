@@ -2,30 +2,38 @@
   "page": 29,
   "value": [
     {
-      "path": "_posts/_archive/2020-02-12-met-police-rolls-out-live-facial-recognition-in-london.md",
-      "title": "Met Police rolls out live facial recognition in London",
-      "excerpt": "This is the Met Police’s first live deployment of facial recognition technology in London, following 10 trials around the city since 2016 and months of public debate about the use of the controversial biometric software on the public. The rollout comes in the wake of similar deployments in countries including China, Brazil, India and Wales.",
-      "heat": 99,
+      "path": "_posts/_archive/2020-02-12-the-future-of-blockchain-fintech-50-2020.md",
+      "title": "The Future Of Blockchain: Fintech 50 2020",
+      "excerpt": "Over the past year, the price of bitcoin has more than doubled, and a number of imaginative new blockchain products have launched, showing the breadth of industries that could be impacted.",
+      "heat": 237,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.ft.com/content/db8bfc3c-4cf4-11ea-95a0-43d18ec715f5",
-      "ampWebUrl": "https://amp.ft.com/content/db8bfc3c-4cf4-11ea-95a0-43d18ec715f5",
-      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/db8bfc3c-4cf4-11ea-95a0-43d18ec715f5",
-      "publishedDateTime": "2020-02-11T20:00:00-08:00",
+      "webUrl": "https://www.forbes.com/sites/michaeldelcastillo/2020/02/12/the-future-of-blockchain-fintech-50-2020/",
+      "ampWebUrl": "https://www.forbes.com/sites/michaeldelcastillo/2020/02/12/the-future-of-blockchain-fintech-50-2020/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaeldelcastillo/2020/02/12/the-future-of-blockchain-fintech-50-2020/amp/",
+      "publishedDateTime": "2020-02-12T06:26:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F104630ce-4cea-11ea-95a0-43d18ec715f5?source=google-amp&fit=scale-down&width=500",
-          "width": 500,
-          "height": 281,
-          "title": "Met Police rolls out live facial recognition in London",
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e42d3368b6cf300071e6e36%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "The Future Of Blockchain: Fintech 50 2020",
           "attribution": null
         }
       ],
@@ -34,35 +42,42 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Computer Vision"
+        "AI"
       ]
     },
     {
-      "path": "_posts/_archive/2020-02-12-milestone-systems-hosts-the-2020-milestone-integration-platform-symposium-mips-texas.md",
-      "title": "Milestone Systems hosts the 2020 Milestone Integration Platform Symposium (MIPS), Texas",
-      "excerpt": "“Each year we hear from an array of speakers that challenge our thinking about today’s technology and the new frontiers of tomorrow ... Canscan’s idea is the next-level shipping container checking system, powered by artificial intelligence (AI) called Virtual Checker. “Jennifer and her team have come up with an innovation that addresses ...",
-      "heat": 134,
+      "path": "_posts/_archive/2020-02-12-this-eye-tracking-system-uses-ai-to-diagnose-multiple-sclerosis.md",
+      "title": "This eye-tracking system uses AI to diagnose multiple sclerosis",
+      "excerpt": "Now, C. Light Technologies, a neurotech and AI company that grew out of the Berkeley Skydeck accelerator, wants to help doctors diagnose neurological conditions with more speed and precision. The company has developed an eye-tracking technology paired with machine learning that can be used to diagnose multiple sclerosis (MS). Patients simply ...",
+      "heat": 97,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.sourcesecurity.com/news/milestone-systems-hosts-2020-milestone-integration-platform-symposium-texas-co-227-ga-co-1042-ga-co-1151-ga-co-3978-ga-co-8419-ga-co-10267-ga-co-12610-ga-co-14918-ga-co-1581411690-ga.1581411180.html",
-      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/milestone-systems-hosts-2020-milestone-integration-platform-symposium-texas-co-227-ga-co-1042-ga-co-1151-ga-co-3978-ga-co-8419-ga-co-10267-ga-co-12610-ga-co-14918-ga-co-1581411690-ga.1581411180.html",
-      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/milestone-systems-hosts-2020-milestone-integration-platform-symposium-texas-co-227-ga-co-1042-ga-co-1151-ga-co-3978-ga-co-8419-ga-co-10267-ga-co-12610-ga-co-14918-ga-co-1581411690-ga.1581411180.html",
-      "publishedDateTime": "2020-02-12T01:43:00-08:00",
+      "webUrl": "https://www.engadget.com/2020/02/12/eye-tracking-ai-spots-mulitple-sclerosis/",
+      "ampWebUrl": "https://www.engadget.com/amp/2020/02/12/eye-tracking-ai-spots-mulitple-sclerosis/",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/12/eye-tracking-ai-spots-mulitple-sclerosis/",
+      "publishedDateTime": "2020-02-12T07:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "SourceSecurity",
-        "domain": "sourcesecurity.com",
-        "images": null,
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://security-img.scdn6.secure.raxcdn.com/news/612/vandalism-surveillance-920x533_1578636475.jpg",
-          "width": 612,
-          "height": 355,
-          "title": "Milestone Systems hosts the 2020 Milestone Integration Platform Symposium (MIPS), Texas",
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D4752%252C2969%252C478%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C999%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-02%252F2bf14030-49c4-11ea-bd12-51dd6eb02117%26client%3Da1acac3e1b3290917d92%26signature%3Dc06466b4199d3f7b3a513f29e3fcc3a88a4b1399&client=amp-blogside-v2&signature=6405a5ad9aa4e773b6077a09463989cd83fdcb9b",
+          "width": 600,
+          "height": 350,
+          "title": "This eye-tracking system uses AI to diagnose multiple sclerosis",
           "attribution": null
         }
       ],

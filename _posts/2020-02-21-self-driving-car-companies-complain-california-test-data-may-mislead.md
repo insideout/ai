@@ -8,7 +8,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN20F2F7"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN20F2F7"
 type: article
 quality: 89
-heat: 199
+heat: 209
 published: true
 
 provider:
@@ -177,6 +177,21 @@ related:
       - url: "https://i.insider.com/5e5562f0fee23d2803396836?width=1200&format=jpeg"
         width: 1200
         height: 600
+  - title: "Apple greatly reduced self-driving car testing in 2019, fleet of 23 vehicles drove only 7,500 miles"
+    excerpt: "The company also appears to have changed its disengagement reporting protocol, information commonly used to gauge system efficacy. Apple's self-driving car testbed in California. According to numbers submitted by Apple to California's Department of Motor Vehicles, 23 of the company's 69 registered self-driving testbeds were active between ..."
+    publishedDateTime: 2020-02-27T06:11:00Z
+    webUrl: "https://appleinsider.com/articles/20/02/27/apple-greatly-reduced-self-driving-car-testing-in-2019-fleet-of-23-vehicles-drove-only-7500-miles"
+    ampWebUrl: "https://appleinsider.com/articles/20/02/27/apple-greatly-reduced-self-driving-car-testing-in-2019-fleet-of-23-vehicles-drove-only-7500-miles/amp/"
+    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/20/02/27/apple-greatly-reduced-self-driving-car-testing-in-2019-fleet-of-23-vehicles-drove-only-7500-miles/amp/"
+    type: article
+    provider:
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 30
+    images:
+      - url: "https://photos5.appleinsider.com/gallery/34692-62829-200227-Car-xl.jpg"
+        width: 660
+        height: 333
 
 secured: "wXtE5DdY2ruH63WlAoBEL+NOv9vOXp/tpcAVkLS7eBuFD8yhKFLL6mRPP+yBprlG0nUJVdZstJ7bI6dPYwoGWwWtXgbQ/4bXWWxq+KuHBHzcoaILtWuOF4sij0vZnm1keNuXa9dgiOYBQJhzUgtYiRal5XBeU2ie3/4VzpztcKhv7d3eNhE8yIKGJQ0Z5lopsBqWLoMK6VO5KDoKCCtVigbKcwCYZk+LPJwqa1EzXFOfiRR+gDKCPPFJHVSUG9l477hqdUvmeZO2KRF1QMD2V4fRH2s+ZRqw1XlbaNpDcZGy4Nwm2fsKjAiS5dur++O981rrfvxT+mbDIIH2VhJ0GvoEuVss4gl9qW67Yid1xCk5GjiJvioFUDjHjEYSKI9jQwI5SE/IqU2Td6INDaFGH3YLhyTja9imxNwBUq7xVeAljRzc0D4os2L4g2myk9GZ6Csrb7C3bUac8ToT9byzxjJfUk9CKupcRoLYbKDso8Y=;OtoZNpUD5qpvEJwLzDE23g=="
 ---

@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/02/13/intuition-robotics-raises-36-mill
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/13/intuition-robotics-raises-36-million-to-bring-ai-companions-to-everyone/amp/"
 type: article
 quality: 218
-heat: 308
+heat: 298
 published: true
 
 provider:
@@ -71,21 +71,6 @@ related:
       - url: "https://www.therobotreport.com/wp-content/uploads/2020/02/ElliQ_3-1024x773-1.jpg"
         width: 1024
         height: 773
-  - title: "CybelAngel raises $36 million to fight data breaches with AI"
-    excerpt: "It’s a lot to juggle, but as Keraudy explains, a combination of AI-imbued scanning tech and human analysis enables CybelAngel to analyze upwards of thousands of files, hundreds of potential ..."
-    publishedDateTime: 2020-02-12T14:00:00Z
-    webUrl: "https://venturebeat.com/2020/02/12/cybelangel-raises-36-million-to-fight-data-breaches-with-ai/"
-    ampWebUrl: "https://venturebeat.com/2020/02/12/cybelangel-raises-36-million-to-fight-data-breaches-with-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/12/cybelangel-raises-36-million-to-fight-data-breaches-with-ai/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2016/07/security-e1581407312856.jpg?fit=1200%2C600&strip=all"
-        width: 1200
-        height: 600
   - title: "SentinelOne raises $200 million for its AI security platform at a $1 billion valuation"
     excerpt: "The Mountain View-based startup has developed a platform that automates endpoint security using an AI engine. Its service focuses on detecting threats and responding to them by continually studying and learning from behavior on networks, which the company said allows customers to keep ahead of a constantly changing threat landscape."
     publishedDateTime: 2020-02-19T16:30:00Z
