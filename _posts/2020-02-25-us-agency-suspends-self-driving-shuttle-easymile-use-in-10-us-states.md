@@ -136,6 +136,21 @@ related:
       - url: "https://www.dispatch.com/apps/pbcsi.dll/bilde?Site=OH&Date=20200224&Category=NEWS&ArtNo=200229208&Ref=AR"
         width: 2000
         height: 1326
+  - title: "Smart Columbus halts self-driving shuttle test after unplanned stop"
+    excerpt: "Smart Columbus has parked its two self-driving shuttles in Linden after one unexpectedly stopped in the middle of a route and a woman fell from her seat onto the floor. The shuttle had just left the Douglas Community Recreation Center on Windsor Avenue about noon Thursday when it unexpectedly stopped on the street, Smart Columbus spokeswoman ..."
+    publishedDateTime: 2020-02-27T00:16:00Z
+    webUrl: "https://www.dispatch.com/news/20200224/smart-columbus-halts-self-driving-shuttle-test-after-unplanned-stop"
+    ampWebUrl: "https://www.dispatch.com/news/20200224/smart-columbus-halts-self-driving-shuttle-test-after-unplanned-stop?template=ampart"
+    cdnAmpWebUrl: "https://www-dispatch-com.cdn.ampproject.org/c/s/www.dispatch.com/news/20200224/smart-columbus-halts-self-driving-shuttle-test-after-unplanned-stop?template=ampart"
+    type: article
+    provider:
+      name: Columbus Dispatch
+      domain: dispatch.com
+    quality: 44
+    images:
+      - url: "https://www.dispatch.com/apps/pbcsi.dll/bilde?Site=OH&Date=20200224&Category=NEWS&ArtNo=200229208&Ref=AR"
+        width: 2000
+        height: 1326
   - title: "Beep Inc. making noise with self-driving shuttles"
     excerpt: "In an industry endlessly fascinated with the companies creating the self-driving future, Beep Inc. often registers not a peep. The company does not write its own code. It does not develop its own self-driving stack. Nor does it manufacture vehicles. Nor host a platform that matches riders and drivers. Beep is a pure fleet operator and content ..."
     publishedDateTime: 2020-02-24T05:00:00Z

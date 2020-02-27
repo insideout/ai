@@ -30,17 +30,6 @@ related:
       name: Psychology Today
       domain: psychologytoday.com
     quality: 122
-  - title: "Artificial Solutions and Blue Prism Partner to Add Conversational AI to Business Automations"
-    excerpt: "About Artificial Solutions Artificial Solutions® is the leading specialist in enterprise-strength conversational AI, a form of Artificial Intelligence that allows people to communicate with applications, websites and devices in everyday, humanlike natural language via voice, text, touch or gesture input. Designed for the global enterprise ..."
-    publishedDateTime: 2020-02-12T07:42:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/artificial-solutions-and-blue-prism-partner-to-add-conversational-ai-to-business-automations-1028896949"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/artificial-solutions-and-blue-prism-partner-to-add-conversational-ai-to-business-automations-1028896949"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/artificial-solutions-and-blue-prism-partner-to-add-conversational-ai-to-business-automations-1028896949"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 56
 
 secured: "zGgzNSCq/lSi/4dzJ+cAaDMw1/gMt2MlgBaegIBjj2yvToy7+E6Geie8CLKulS6vHIoVoktnKWr3XuPb7xSfGu41AhBdcQoGuzHM/TdYZmdDrQVhw53TJS+F46cqbzOqMy3AVyN4J4hzNFTm7iV1SwtiQGFBk9xuTvDQYcsJuVgAEsWfzF/h4RY185VdJ2YNrHYrazkqleUJke390CY7GGUMxpczkK6yEo6yy2HLtaKI+aaOncQxeMuORGn47t0+ucy1FQJTxSVcZfLuksb9JC+/rN6bGLthKPWKU9Jkpej4/pl5Sdy2SbnCZmpFvZ8HIlwuPUNO7/UyfBbYwVdt7HFe6L6CD3AJVqR8HL/g8azMhm3CsYKvV9Y3wh9qZQZxYe3bQU8k5I9Ln0FBXfK4lh6SptcTF98WZp3UlGK8ulbhc0xnrqfJ0QR0khCa57JdFmqGDVp00X3Jqx/3K7UExs9LE62TM3y4IGkoZQ/P3uc=;cM2TlhfPyfrfqgk/mAASMA=="
 ---

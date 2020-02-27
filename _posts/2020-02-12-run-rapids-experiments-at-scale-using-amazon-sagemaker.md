@@ -89,15 +89,6 @@ related:
       name: Medium
       domain: medium.com
     quality: 49
-  - title: "CHDI Foundation and IBM tracking the progress of Huntington's disease using AI"
-    excerpt: "IBM Watson researcher Guillermo Cecchi said the paper focused on identifying how existing functional MRI (fMRI) data can be used to train artificial intelligence (AI) models to assess whether there is a change in a patient's motor and cognitive performance. \"Part of what we're trying to do is pinpoint with more accuracy what determines a ..."
-    publishedDateTime: 2020-02-12T04:32:00Z
-    webUrl: "https://www.zdnet.com/article/cdhi-foundation-and-ibm-tracking-the-progress-of-huntingtons-disease-using-ai/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 45
   - title: "Incorrect Pronunciation Detection in eLearning using Deep Learning"
     excerpt: "At a high level, the idea is to monitor pronunciation of end-user, perform an analysis on it and feed the analysis back to them so that they can work on it to improve and also record it for deep learning. This can be achieved with an add-on or separate system that enables students/user to improve their pronunciation skills, not limited to ..."
     publishedDateTime: 2020-02-13T19:57:00Z

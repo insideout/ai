@@ -24,41 +24,49 @@ images:
     title: "New Lattice mVision Solutions Stack Accelerates Low Power Embedded Vision Development"
 
 related:
-  - title: "PlateSmart ALPR and Vehicle Recognition Solutions Drive ROI for Retailers by Preventing Theft"
-    excerpt: "The software offers true object recognition instead of simple optical character recognition (OCR), which allows it to read the plate as well as the state jurisdiction and vehicle make. PlateSmart has earned multiple industry awards for excellence in security technology. For more information, visit http://www.platesmart.com. FORWARD LOOKING ..."
-    publishedDateTime: 2020-02-24T13:00:00Z
-    webUrl: "https://www.finanzen.ch/nachrichten/aktien/platesmart-alpr-and-vehicle-recognition-solutions-drive-roi-for-retailers-by-preventing-theft-1028931248"
+  - title: "Tractable raises $25 million for computer vision that accelerates insurance claims"
+    excerpt: "Tractable has raised $25 million to expand the reach of its AI- and computer vision-based platform that automates insurance claims processing. The London-based startup has developed technology that effectively eliminates the need to have a claims adjuster physically inspect a house or car after a disaster or accident in order to generate a ..."
+    publishedDateTime: 2020-02-27T00:01:00Z
+    webUrl: "https://venturebeat.com/2020/02/26/tractable-raises-25-million-for-computer-vision-that-accelerates-insurance-claims/"
+    ampWebUrl: "https://venturebeat.com/2020/02/26/tractable-raises-25-million-for-computer-vision-that-accelerates-insurance-claims/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/26/tractable-raises-25-million-for-computer-vision-that-accelerates-insurance-claims/amp/"
     type: article
     provider:
-      name: Finanzen
-      domain: finanzen.ch
-    quality: 28
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 98
     images:
-      - url: "https://download53.boersestuttgart.mpcnet.de/download/jpg_378/switzerland/66/0/WHNlQxJbkEt4Ueq3e08Ac6f08m1rK9ljYl7bJMx/16815/16815.jpg"
-        width: 377
-        height: 212
-  - title: "Pindrop upgrades biometric voice recognition solution Deep Voice 3"
-    excerpt: "Pindrop is launching an upgraded version of its biometric voice recognition technology Deep Voice 3, which leverages machine learning and deep neural networks to authenticate end-users calling into contact centers and deliver a seamless, secure customer experience, the company announced at this year’s RSA Conference. Pindrop claims its ..."
-    publishedDateTime: 2020-02-25T17:57:00Z
-    webUrl: "https://www.biometricupdate.com/202002/pindrop-upgrades-biometric-voice-recognition-solution-deep-voice-3"
+      - url: "https://venturebeat.com/wp-content/uploads/2020/02/tractable-e1582748104266.png?fit=1200%2C600&strip=all"
+        width: 1200
+        height: 600
+  - title: "LinkSquares raises $14.5 million to expedite contract management with AI"
+    excerpt: "LinkSquares’ platform, which is web-based and hosted on Amazon Web Services, can perform full-text searches for keywords, phrases, and contract terms across documents in “seconds” using AI. It taps multi-query and filtering to extract key bits of data from contracts, including parties, effective and termination dates, payment terms ..."
+    publishedDateTime: 2020-02-26T12:00:00Z
+    webUrl: "https://venturebeat.com/2020/02/26/linksquares-raises-14-5-million-to-expedite-contract-management-with-ai/"
+    ampWebUrl: "https://venturebeat.com/2020/02/26/linksquares-raises-14-5-million-to-expedite-contract-management-with-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/26/linksquares-raises-14-5-million-to-expedite-contract-management-with-ai/amp/"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 24
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 86
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/01/09162655/voice-biometrics-large1.jpg"
-        width: 1600
-        height: 700
-  - title: "PlateSmart ALPR and Vehicle Recognition Solutions Drive ROI for Retailers by Preventing Theft"
-    excerpt: "The software offers true object recognition instead of simple optical character recognition (OCR), which allows it to read the plate as well as the state jurisdiction and vehicle make. PlateSmart has earned multiple industry awards for excellence in security technology. FORWARD LOOKING STATEMENTS: This press release may contain forward-looking ..."
-    publishedDateTime: 2020-02-21T21:36:00Z
-    webUrl: "https://www.newswiretoday.com/news/172420/PlateSmart-ALPR-and-Vehicle-Recognition-Solutions-Drive-ROI-for-Retailers-by-Preventing-Theft/"
+      - url: "https://venturebeat.com/wp-content/uploads/2020/02/aef274ee-b83b-4b5a-bdaf-d47b4aee6d5e-e1582565438999.png?fit=1200%2C600&strip=all"
+        width: 1200
+        height: 600
+  - title: "New Lattice mVision Solutions Stack Accelerates Low Power Embedded Vision Development"
+    excerpt: "The Edge AI and Vision Alliance is committed to fostering the adoption of embedded vision in new products. Jeff Bier, the Alliance’s founder, said, “Manufacturing inspection was one of the first markets to widely adopt computer vision. Today, embedded vision is expanding into a wide range of industrial applications, such as automated ..."
+    publishedDateTime: 2020-02-26T15:11:00Z
+    webUrl: "https://www.embedded-computing.com/news-releases/new-lattice-mvision-solutions-stack-accelerates-low-power-embedded-vision-development"
     type: article
     provider:
-      name: Newswire Today
-      domain: newswiretoday.com
-    quality: 8
+      name: Embedded Computing Design
+      domain: embedded-computing.com
+    quality: 17
+    images:
+      - url: "https://content.cdntwrk.com/mediaproxy?url=http%3A%2F%2Fshare.opsy.st%2F5e5551ea71dc6-819d03d184fb671f_800x800ar.jpg&size=1&version=1582660252&sig=7d05ed275c36d1ed42d1ff985db1684b&default=hubs%2Ftilebg-blogs.jpg"
+        width: 500
+        height: 272
 
 secured: "WOgKaz9MulDJRVnRT29jc/aN4vteeRMm+Mn58Rdebmz9ADS2DELla11TDEWjKwzR4uWWprIKh/zXATvfTZtKRTS/I7xbV46P4PoDUXLEz42DdVAEpnU3eQjxttXmlBLpX4l5nHMvkfNSlOFdFB72Jk0h1YEUX/fNBBvRs5bZF9+lGSlCV+VvBHvhzicaVY9iyp3wO+UXkLKerU4TLg9nzD719o+51RtHTvqHcvoJEP8ko732Sainky08ohqDimN9tzNaaeALuVXyhAe+8JxGbu79DUkQpGi3BhRg/6WuLk5mOMHLEFTIhzgl8yem3LVK3ljm00XH0zUjcdQQhkEyGMSFtgMAbo54YMnF5qPMFQ2qm89QHz4nMId7pMlIrEM5uRbDI+D6UL7N2IAG9tZRckxIBQ1NydVlqlU/qdJba52pAYgen4HeGgO2C9Dn7mSMeFLN86vGtJxDgrxiRIvGAp1hMUO5YkjkEani+hTCgFE=;ervW7Exa/MoYQ+taaWzE2A=="
 ---

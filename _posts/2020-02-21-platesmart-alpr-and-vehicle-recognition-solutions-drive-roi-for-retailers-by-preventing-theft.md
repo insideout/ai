@@ -44,19 +44,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/01/09162655/voice-biometrics-large1.jpg"
         width: 1600
         height: 700
-  - title: "New Lattice mVision Solutions Stack Accelerates Low Power Embedded Vision Development"
-    excerpt: "The Edge AI and Vision Alliance is committed to fostering the adoption of embedded vision in new products. Jeff Bier, the Alliance’s founder, said, “Manufacturing inspection was one of the first markets to widely adopt computer vision. Today, embedded vision is expanding into a wide range of industrial applications, such as automated ..."
-    publishedDateTime: 2020-02-24T23:15:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200224005130/en/New-Lattice-mVision-Solutions-Stack-Accelerates-Power"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 17
-    images:
-      - url: "https://mms.businesswire.com/media/20200224005130/en/775068/23/Lattice_mVisions_solutions_stack.jpg"
-        width: 1200
-        height: 627
 
 secured: "95OfYh7bRlLm/zTlOtElbaEx3j31MxPwL9EHcUzbM51zOsig6Z+TJ00fuLFPV+Ie5Qg3oIul/EMWTkl4q5IxGgcoy61c4aHFNXlzsXsqR/081Q39fMO1Fjxsyp54CttEMHiY1cpBjoWN/gDXvQ+Pd3ozqMPVZX4GrX4rEc5KSbace/Xj8objoATtaSoFH2mxmQzBW2/ejVcxgczFPfcvCAcDIeo0GWe5e01mfvt8JlHhBZg+318XHOaefY1URVt7/l2ytjdbLQIRnZQrXI8qq2ZVUCc2TfEAZYV0LEN6V6OR+plxObg9H/IJwjoYzK3ucIIu8JdaJ8HUzfYZWJWR964ceZuEesnDzFhYR7AHuLY5akP+g3rMAlUK4u9MEoeJ6ZrUnqZUT2qUXo7hlFebDcU0ahwDAu2F+j5arU4pauJA3fHK8rejUFRqK2yIBBwPz3H/mS3EF9sjSkl8K0Op33haXEOeD0R3w8+PQhZXm1g=;BbQsHzZRPF3X4fKTdCB6Cg=="
 ---

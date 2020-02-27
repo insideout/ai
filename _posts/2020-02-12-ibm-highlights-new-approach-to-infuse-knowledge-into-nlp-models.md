@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/ibm-highlights-new-a
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibm-highlights-new-approach-to-infuse-knowledge-into-nlp-models/"
 type: article
 quality: 76
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     width: 1200
     height: 900
     title: "IBM highlights new approach to infuse knowledge into NLP models"
-
-related:
-  - title: "IBM unveils new AI model to predict potentially harmful drug-to-drug interactions"
-    excerpt: "The work is being highlighted at this week's AAAI-20 Conference in New York City. IBM this week unveiled new research on how an artificial intelligence (AI) model can help better predict drug-to ..."
-    publishedDateTime: 2020-02-11T21:21:00Z
-    webUrl: "https://www.techrepublic.com/article/ibm-unveils-new-ai-model-to-predict-potentially-harmful-drug-to-drug-interactions/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 44
 
 secured: "QyhAc5i3hv96IXDodLGDsOHKCu9pssXhaVWr3wUuy0V6WJqdiWmwAvv7SMKjbpv39j4BXP2PftNK9JORCCfL+vWoWIFLyXvpgeIa8MLXWy4AbzmbaKyrzZnbVlfKtl26lbcWLN4OZyAg6TytE2BO9YPAWW197aSVzjQ0Z9gPxgcM3MiEU936oOkGFWa170mr5IuRvdrj8zPMy7OvX+h3IIy3DDaxnYJmoUMbV/8ceeU+dqueO5f1mTBZfGszx5+oei8Z2t/5kny6Y2Nve1davMxAcQR7W/lDxVDbmAVdPvPMkUOraOPOV6B2PzH8rVQxHlkfOayb3mjDVWUs6A3u54HzIyyFMpHLUqM/XVt+Q3pHjbpb95aHWfZ3c1IARyzWh9W7Sn99TVaYlI0rmkiJzQJmxsrF7qcoY0EKJGU0MSqPRi4VOjWh3dHjFjnvFnPru4dwPHTZVs6BqvWwtCc1Kg67SRK7t1uKhwpoK/+NyVI=;0c7LtrMwwtzpOteJOV0+EA=="
 ---

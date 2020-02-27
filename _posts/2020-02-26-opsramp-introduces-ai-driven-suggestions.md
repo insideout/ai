@@ -35,19 +35,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 56
-  - title: "Agiloft introduces AI Engine for advanced contract automation on no-code platform"
-    excerpt: "Prebuilt machine learning models also enable users to implement their own custom AI tools with existing data. Additionally, the open AI Engine features an integration template to bring in machine learning models from Amazon SageMaker and Google TensorFlow to build entirely custom AI tools on Agiloft’s no-code platform. Advanced translations ..."
-    publishedDateTime: 2020-02-25T19:35:00Z
-    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=139412"
-    type: article
-    provider:
-      name: KMWorld Magazine
-      domain: kmworld.com
-    quality: 36
-    images:
-      - url: "https://www.kmworld.com/images/subscribe_magazines_km.png"
-        width: 772
-        height: 594
   - title: "CyberX Announces Integration with Microsoft Azure Security Center for IoT, Joins Microsoft Intelligent Security Association"
     excerpt: "According to Michal Braverman-Blumenstyk, CTO and GM, Cloud and AI Security Division at Microsoft Corp.: “CyberX’s IoT security platform and integration with the Microsoft Azure Security Center for IoT enables customers to go further and faster with IoT innovations that drive new revenue streams and operational efficiencies — without comp ..."
     publishedDateTime: 2020-02-20T18:16:00Z

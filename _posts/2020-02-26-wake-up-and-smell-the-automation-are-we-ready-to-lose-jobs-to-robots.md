@@ -25,6 +25,6 @@ images:
     height: 649
     title: "Wake Up and Smell the Automation: Are We Ready to Lose Jobs to Robots?"
 
-secured: "J1XNAhHihVjFmR0+ELH+8Ozli/wTGjeTkTwcQpcRZoLku8rWHKdbMkHH0xykACfxzmZga0RS6kJol3Fd23At8hCatw/HGcGvstCu602EMpWxoiZ1M8rr76XUHvlivXg4W6UdEluPc+Ek9M4dtI5yJ4OBBh3exI96EE958glm3Sv22w4YlGGHlNJNJeWa6S+mzKv10S8jI4AhLgfuywmpRXGnPSWv+rp4z09XnPQLgOu/48aGqjiHJLMcZgLygPzKI9puDK14TBdfEcedIpDyRZKMfeONLwpERWWa317KwN3MTlka4bBMvnuPp8DNCoWR;UX+HSFg7nQ0DqVXEzaEOZg=="
+secured: "sQP9Rx1uVFn2NZOusb/G4n/0Akz+l3KYU1/CrE2BreQ82i3oYrUu7QDvtwlF1lcHsOKewemyhF65pD96LozIdWUqZcI9Q0zn1xntCdu1wm+mRevIlvC7S1J94xrLF4csIYBHz+bw4317vhqbCobCw72LMYMYRBlAwUDAIaaMI6CMQ3NFWvmh+7xA+3GmfDYGPazm4lXqsQ0YAnwc+BcUs9uktqmzU3CxC2TtWvr6oAYuij45E/GvHqyJ3mg0b/TdG2N6xpN2yG8tCtSRoYmccNMfBWN/vLkk1c1ktHKVJ36PVss5FdD617J0W6/jleooAV47B43SfNVfQzmRpnsYdgcw25DfkacIjzY4Gg3GBluxJxaBvjrEQlckTo1RW8jzXZuzZxAKeABCvVHHgJR3giMadP9DMfCMUci9egYZNCYxOULzOsNmQ6T+pW/BQK9nJwF3CuxeHe32VRQsjZlOZ/Cv+y2VLM+AeLZpz1U0eAc=;NLjIg3MO/r2uRW6fl2xQxw=="
 ---
 

@@ -48,17 +48,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 49
-  - title: "2 On Your Side: Is Facial Recognition Technology A Threat To Privacy?"
-    excerpt: "Facial recognition software is here and already being used around the world by law enforcement and government agencies. It's designed to protect you, but some think it's a serious threat to your privacy. Kristine Lazar talks to the founders of one local company at the forefront of this new technology."
-    publishedDateTime: 2020-02-12T07:33:00Z
-    webUrl: "https://losangeles.cbslocal.com/video/4443490-2-on-your-side-is-facial-recognition-technology-a-threat-to-privacy/"
-    ampWebUrl: "https://losangeles.cbslocal.com/video/4443490-2-on-your-side-is-facial-recognition-technology-a-threat-to-privacy/amp/"
-    cdnAmpWebUrl: "https://losangeles-cbslocal-com.cdn.ampproject.org/c/s/losangeles.cbslocal.com/video/4443490-2-on-your-side-is-facial-recognition-technology-a-threat-to-privacy/amp/"
-    type: article
-    provider:
-      name: CBS Boston / WBZ
-      domain: cbslocal.com
-    quality: 39
 
 secured: "cdy1q733j5aw1ZGL3EQ7PJGoHJRf01iFwaa6jVmAISzqdBzCnCvG7Ov4wBTvfVleCBOyJpbWIxx5MubQTswEJXN25584JMquw8b/reN/DAGxFO8pFAh3dSbjvFdRgEXv+cmd1cpGQeP/vIJgeGEnEtWYSZjJvPormYzLhvANWxJhraFv08mH/nB+wT6F/fmT/Fix0fPuJ0pLVnv9JGojjA9QB3q42xxkTgWoDMs7GD8ouPXPNBIIJR6+387irrzlfmBjq5vtbXHdfI+47cztzcrQ22cpA/4CpAHSF0ADUQmCgdlOQFSdG1p0d+lJb5qWmAu6xPLwUgY6qDmN8duL5PPPT5kdeCwlasETNvoCHTafUjACAxY7Ak788GonYbWhlE/AbubR8AQP775nKXfIPuabVdTZLEML1Vl1Kh9Wy2uMZWiYY2MYhZoDePzKApu2atcjyhY3DN/rsIceSnXdNdaLp7cwe0aAz5/S/eH2xxo=;RDgeQzm9ocjO5j2SdHlIcw=="
 ---

@@ -46,15 +46,6 @@ related:
       name: Medical Xpress
       domain: medicalxpress.com
     quality: 39
-  - title: "Artificial and Biological Neurons Just Talked Over the Internet"
-    excerpt: "For the first time, scientists have engineered and switched on a working neural net that allows biological and silicon ... that was never encountered during natural evolution, where biological and artificial neurons are linked together and communicate across global networks; laying the foundations for the Internet of Neuro-electronics ..."
-    publishedDateTime: 2020-02-26T22:38:00Z
-    webUrl: "https://futurism.com/neoscope/artificial-biological-neurons-talked-internet"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 4
 
 secured: "xtRAoDDkLZs3X7iRkZh7k28DeEzOjav9+DEAVI3YfD85xwFWCPpr3w5QwvmG+/m4ZmwL9qVN3BqAudlN7ttfX12DOpmqTi+ZWYp5JYiFNz/xuEveD40u/cjw+CrCTAWr6VXMpjmPcj5+7HAOd7LoixiJ0usSE8gXCLxMkf0tbM7Hu8ODoxFJiYYoRCo0ZM47VUOl6+MH2Xe5opdWvXVt7ocxt52/uS4p32Rd8+wQjurJjoRxFtiG5/bisp0sCffzkNTK4ShpQW1KPY3tK1GOqH8Ivxmg/ZQMF04N8EFq34DcLQXDUmH/aW3qijCIsh+s6NhzGjfwleHBF+/3quiXvWIMjKbJww//+7C59C7zoGkVKZCdcjPDZAWYa/IQEpyM79IJd5JL8ZPnkC5wAD6rZh3vbb99ClkExOxQOefO4mlo66h4zlArxCJYC0PNlquC4bFAJtG4fL47aEtulx6yFc/gyyScbHjkFSObRuAMncI=;FMBa39/2a1cEJOUVen6cTg=="
 ---

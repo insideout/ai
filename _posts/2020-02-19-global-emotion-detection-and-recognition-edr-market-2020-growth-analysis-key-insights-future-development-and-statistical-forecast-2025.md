@@ -56,19 +56,6 @@ related:
       - url: "https://images.wsj.net/im-153483/social"
         width: 1280
         height: 640
-  - title: "Congress looks to revive self-driving car legislation"
-    excerpt: "Want access to the top energy and environment news? Sign up for a free trial! Enter your email to register or log in. By signing up, you agree to receive E&E News email updates and offers. You also grant your consent to our data collection practices. We encourage you to review our Privacy and Data Practices Policy."
-    publishedDateTime: 2020-02-12T12:19:00Z
-    webUrl: "https://www.eenews.net/eedaily/2020/02/12/stories/1062327793"
-    type: article
-    provider:
-      name: E&E
-      domain: eenews.net
-    quality: 24
-    images:
-      - url: "https://www.eenews.net/image_assets/2020/02/image_asset_74141.jpg"
-        width: 938
-        height: 483
   - title: "Transformation of face recognition technology and representation for faces nets grant for computer science and engineering professor"
     excerpt: "She will use her computer science and engineering skills to apply machine learning, computer vision and natural language processing to her work, which is funded by a grant from the National Science Foundation. Her overall research goal is to develop software that will help visually impaired individuals, along with those on the autism spectrum ..."
     publishedDateTime: 2020-02-13T15:06:00Z

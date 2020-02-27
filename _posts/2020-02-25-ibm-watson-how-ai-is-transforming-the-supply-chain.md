@@ -8,7 +8,7 @@ ampWebUrl: "https://www.supplychaindigital.com/technology/ibm-watson-how-ai-tran
 cdnAmpWebUrl: "https://www-supplychaindigital-com.cdn.ampproject.org/c/s/www.supplychaindigital.com/technology/ibm-watson-how-ai-transforming-supply-chain?amp"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -41,6 +41,17 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/qfATwf5qVcGjMLuAaDkwx6-1200-80.jpg"
         width: 1000
         height: 666
+  - title: "How Artificial Intelligence can transform India"
+    excerpt: "Over the last couple of years, Artificial Intelligence (AI) has changed from a technology with potential to an instrument of national importance across the world. The first demonstration of applications of AI has happened in the consumer space, and significant economic value has been created, mainly through targeted advertising by internet ..."
+    publishedDateTime: 2020-02-27T00:54:00Z
+    webUrl: "https://www.financialexpress.com/opinion/artificial-intelligence-ai-can-transform-india/1881613/"
+    ampWebUrl: "https://www.financialexpress.com/opinion/artificial-intelligence-ai-can-transform-india/1881613/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/opinion/artificial-intelligence-ai-can-transform-india/1881613/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 37
 
 secured: "6yqkhJIsHeo/R42PENfV5qJEv/DTNCiKEhzgXli3tCOlZs3Y518M6zGmjH4QXNuFFUVwPbv9rABB00ld126X4yepcD34/Nz3Z5ATX5b4AlNUviV5EL00WRRzkVmcL4z8SnPGdV6gb7Nv4zNu8xQkrMpBV7hhdD4FPIyiP8C0UA4VK85AVG9zDIFZqXqhuptOEJHWBVpvRY3MBQxQPNIShaemMBVeaj1E0AvVsL5mLA4C4ykm19Sq4fRzj9qc3dbr1taFoX/g2YYax3ctU0NyvTF8QOYczSITSEK83sRoTH6HlhQzsw7g51+DXqv081zH;BpJAhPHTA0Ki1aPN4JxyEw=="
 ---

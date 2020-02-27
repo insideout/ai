@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Tables, footrests, smart speakers: Self-driving cars could become the living rooms of the future"
-excerpt: "With self-driving vehicles on the horizon, automakers are rethinking what the future of car interiors will look like. And because these completely autonomous cars, called Level 5 vehicles, will free drivers from focusing on the highway, companies are now free to experiment. And that means premium cars could be loaded with tech that makes ..."
-publishedDateTime: 2020-02-25T21:18:00Z
-webUrl: "https://oklahoman.com/article/5655924/tables-footrests-smart-speakers-self-driving-cars-could-become-the-living-rooms-of-the-future"
-ampWebUrl: "https://oklahoman.com/article/5655924/tables-footrests-smart-speakers-self-driving-cars-could-become-the-living-rooms-of-the-future/amp"
-cdnAmpWebUrl: "https://oklahoman-com.cdn.ampproject.org/c/s/oklahoman.com/article/5655924/tables-footrests-smart-speakers-self-driving-cars-could-become-the-living-rooms-of-the-future/amp"
+excerpt: "With self-driving vehicles on the horizon, automakers are rethinking what the future of car interiors will look like. And because these completely autonomous cars, called Level 5 vehicles, will free drivers from focusing on the highway, companies are now ..."
+publishedDateTime: 2020-02-25T12:35:00Z
+webUrl: "https://www.usatoday.com/story/money/cars/2020/02/25/smart-car-nissan-bmw-gm-future-cars-spacious-interiors/4658453002/"
+ampWebUrl: "https://amp.usatoday.com/amp/4658453002"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4658453002"
 type: article
 quality: 31
 heat: -1
 published: false
 
 provider:
-  name: The Oklahoman
-  domain: oklahoman.com
+  name: USA Today
+  domain: usatoday.com
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: "https://cdn2.newsok.biz/cache/1280x720_blur-7ec8ba67c9327358720e4397264a2fc9.jpg"
-    width: 1280
-    height: 720
+  - url: "https://www.gannett-cdn.com/presto/2020/02/05/USAT/09643d9a-d78b-46f0-8ac3-bfdd247cfc98-BMW1.jpg?auto=webp&crop=825,465,x0,y41&format=pjpg&width=1200"
+    width: 1200
+    height: 676
     title: "Tables, footrests, smart speakers: Self-driving cars could become the living rooms of the future"
 
 related:
@@ -168,6 +168,6 @@ related:
         width: 1200
         height: 600
 
-secured: "fWWdMRsgTCNrOtn2NF2qihm8xFYMV9UZwfWfqfxpgLExeSQqW8XomfpF84RrvMvOr6M+ZjBuHOZ3qthLa0BdmWaaKEsQ2DvF5CZOBgVqUuSg9+6Zb3gJK/2HYrzeKRBYFtTfQBBElcmvmwJEyuBc+jUfj6/3U3v7aBVJhPtslyNLy/I8ueVN/WG9JJAQaUDYsBcdMDm7RDZMdCF0DKfVNejH7dEKFvx3sIbf6XXtzrAOaYwJ8kNpjRlQ7qqkLHW66EVj0G2rXhWCtCOOazRMvkDeStkjHA9SbzUAc+BSKAml9Lg7+OAMeNHzvNuH0UU+;t5UAQRJxnILanisK9pH6mg=="
+secured: "BQRvrYaUKNvpdRgag7dP3ELU0WkGrzDVChH5yIq88h3xT+6kbGPClbRjOUCLIQEBjlDq5ZMBNY14/ZRf78Swso0OYfkEnXDPTvHsJPy9eXVozx8TJKVY7oIkmvFwtjBW5YU2Hw7+JW8UxkVQjf3t3qk8Mf00Ww2JcQUmNPihb93x9Hu6XXEy9ZT7cGu/Npbzg8xM5hUvgEGYPWpUqhebDk/I5RnIa38YTDCiBCKLaowSV/8X3gQBW+Du5dObdy5UKCPLkdMZ0LuwHcjuIzcxkZzSJv/tUB17yZdOEgdAD1zOljHphglC5kwd52qWN3fR;oVz7bfXFc55qlWU1wrYwDQ=="
 ---
 

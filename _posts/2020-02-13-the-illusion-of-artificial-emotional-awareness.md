@@ -8,7 +8,7 @@ ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-intelligence-report/20
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-intelligence-report/202002/the-illusion-artificial-emotional-awareness?amp"
 type: article
 quality: 122
-heat: 142
+heat: 132
 published: true
 
 provider:
@@ -19,17 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Solutions and Blue Prism Partner to Add Conversational AI to Business Automations"
-    excerpt: "About Artificial Solutions Artificial Solutions® is the leading specialist in enterprise-strength conversational AI, a form of Artificial Intelligence that allows people to communicate with applications, websites and devices in everyday, humanlike natural language via voice, text, touch or gesture input. Designed for the global enterprise ..."
-    publishedDateTime: 2020-02-12T07:42:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/artificial-solutions-and-blue-prism-partner-to-add-conversational-ai-to-business-automations-1028896949"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/artificial-solutions-and-blue-prism-partner-to-add-conversational-ai-to-business-automations-1028896949"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/artificial-solutions-and-blue-prism-partner-to-add-conversational-ai-to-business-automations-1028896949"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 56
   - title: "The Future of Artificial Emotional Awareness"
     excerpt: "Since writing Heart of the Machine: Our Future in a World of Artificial Emotional Intelligence, I’ve routinely had to explain that none of this technology is giving computers the ability to experience or understand emotions themselves. Even the computer’s interpretations of what we express are limited to programmatic responses. An ..."
     publishedDateTime: 2020-02-14T00:42:00Z

@@ -42,6 +42,17 @@ related:
       - url: "http://www.supplychaindigital.com/sites/default/files/styles/og_image/public/topic/image/GettyImages-1097225424_0.jpg?itok=C9V8WymX"
         width: 1200
         height: 627
+  - title: "How Artificial Intelligence can transform India"
+    excerpt: "Over the last couple of years, Artificial Intelligence (AI) has changed from a technology with potential to an instrument of national importance across the world. The first demonstration of applications of AI has happened in the consumer space, and significant economic value has been created, mainly through targeted advertising by internet ..."
+    publishedDateTime: 2020-02-27T00:54:00Z
+    webUrl: "https://www.financialexpress.com/opinion/artificial-intelligence-ai-can-transform-india/1881613/"
+    ampWebUrl: "https://www.financialexpress.com/opinion/artificial-intelligence-ai-can-transform-india/1881613/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/opinion/artificial-intelligence-ai-can-transform-india/1881613/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 37
 
 secured: "ptYHS8Bgsbde4HD8tGIh4pqcfEhrmRM3P4sZ28Kw/Yns/ljXnRpe3EoMDZ7SUvS/wxMJsLbMPxsutfUU3uE34HBVDxPRKytMiJ321Fpjt9O9pZ+KWNjpsibK0YHxYlYtsilzj2uOdd2e5sXDj2UY4Dw8jjngDoqQpppUanN57Ourwp2A9iRAHrRvDqRTXFaDzyhu8hjyH/s+82MCouXRBC+vvuHuG8opt3Rd9cFWQGN1UAFMIJIfjZHpE7S52wbZclJ5RAmmNcsfwKoCKfn21Vj7TjcT9P6JAjeLOBM9WdPJXOpDKDbG7DqH9ncaVylf;fA9TnS563LjjmmSgzmdsIw=="
 ---

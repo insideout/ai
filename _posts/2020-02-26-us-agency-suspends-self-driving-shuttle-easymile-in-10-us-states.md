@@ -8,7 +8,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN20J2N6"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN20J2N6"
 type: article
 quality: 74
-heat: 225
+heat: 235
 published: true
 
 provider:
@@ -129,6 +129,21 @@ related:
       - url: "https://www.dispatch.com/apps/pbcsi.dll/bilde?Site=OH&Date=20200224&Category=NEWS&ArtNo=200229208&Ref=AR"
         width: 2000
         height: 1326
+  - title: "Smart Columbus halts self-driving shuttle test after unplanned stop"
+    excerpt: "Smart Columbus has parked its two self-driving shuttles in Linden after one unexpectedly stopped in the middle of a route and a woman fell from her seat onto the floor. The shuttle had just left the Douglas Community Recreation Center on Windsor Avenue about noon Thursday when it unexpectedly stopped on the street, Smart Columbus spokeswoman ..."
+    publishedDateTime: 2020-02-27T00:16:00Z
+    webUrl: "https://www.dispatch.com/news/20200224/smart-columbus-halts-self-driving-shuttle-test-after-unplanned-stop"
+    ampWebUrl: "https://www.dispatch.com/news/20200224/smart-columbus-halts-self-driving-shuttle-test-after-unplanned-stop?template=ampart"
+    cdnAmpWebUrl: "https://www-dispatch-com.cdn.ampproject.org/c/s/www.dispatch.com/news/20200224/smart-columbus-halts-self-driving-shuttle-test-after-unplanned-stop?template=ampart"
+    type: article
+    provider:
+      name: Columbus Dispatch
+      domain: dispatch.com
+    quality: 44
+    images:
+      - url: "https://www.dispatch.com/apps/pbcsi.dll/bilde?Site=OH&Date=20200224&Category=NEWS&ArtNo=200229208&Ref=AR"
+        width: 2000
+        height: 1326
   - title: "U.S. Agency Suspends Self-Driving Shuttle EasyMile Use in 10 U.S. States"
     excerpt: "WASHINGTON (Reuters) - U.S. auto safety regulators said on Tuesday they had ordered a suspension of passenger operations for 16 autonomous shuttles operated by French-based EasyMile after a passenger was injured in an unexplained braking incident."
     publishedDateTime: 2020-02-25T21:22:00Z
@@ -228,6 +243,6 @@ related:
         width: 792
         height: 416
 
-secured: "ATfr9htj9qCIgE5SZfEr0btFCOWtMZK/7OPs7Hcvaad3ACyBjTd41B6pyeHQw7b2/o1NlWIcAJ/bwsE/GcARlD1VZXvupMJHtAQwpmEE0p5YCcKBIpg/TS1oBPKMre/YPxCAv4hvaPfp1oybhVdfOpNVOmVYlTBsfA/krH0KSH+wnzenbOQqJW6UhVDolbyordtywi+Ys4HRYFwkXOEqoPQ+MclsEtIwaC0aTqZzq4/sO+aMaK85Z6eYSZOA0PFnuiSoZkWApOHetJULv+b2BE89gjqDFm0KtxDJ/zz8JUrVkvo7nN+YFbwp5BfaI97iDKsmSCwY+e9tL3AbNTfPJuyvufR86fxkjCNXv4+3u4BBx7bVlG9GtsdpHO++WyJ1b1S6Jj8HE+yVkE9DQvxVP1pDRfntPneEE9bO1HlayxiTq59mxOd+LKo48Ud2ph5ZbMsmpWtuB7yQgY8tFkkqvXzA1lqsnMl55yxu0zFDr40=;RXdDirO0XHG/V3z85UjREA=="
+secured: "Kaj33qN1eetRjr5ALZXckagvfniiT1nF7CpyTqAaE7TcW3/gkQPsa30TTe96+iqy6pUB+fT8qUqdc/hwgZ00EAzDRSnoA+ahYNzOIFFEqwFmM9IG5TrIHtdnVF61b461E7gkfhWR/CHWU1Z0e+b+emJBUmq1Z1P7ZoPyO/adrcPseoFJkqoDHw5b33r7DQss3kuDQz04Blq/svypMbzzcQPL/4xFXE7OUD0likemuD66FQXBPgY+FV89aEarCPIiq1EPEGgQhsQ2D2+OaO20Y0ZLOdImZGxVeGjOTLVXulApiULuESFBbT+s5zWf7sbEi3NyQhd3a8DvcTA6qus1DqqRn+vo/ySdeRdi9zlHMKzxWfZDpK4f5fsrJv4xan3UeUqZNu5jvec5vhn2EzXt5TFznjNmcf9MV/k/XgS5UIikAjpda0/wyvp1Y/rxe6gj+oBCeLQp2tEf+ahDnOjRXbQyGlLOpRiChdvZebs2Mdg=;S6edGhB1wAMMTuaOP/Y8tg=="
 ---
 

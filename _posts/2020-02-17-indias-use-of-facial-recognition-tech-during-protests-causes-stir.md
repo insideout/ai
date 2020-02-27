@@ -37,17 +37,6 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2019/08/bc4a043e-532521-microsoft-facial-recognition.jpg"
         width: 810
         height: 456
-  - title: "2 On Your Side: Is Facial Recognition Technology A Threat To Privacy?"
-    excerpt: "Facial recognition software is here and already being used around the world by law enforcement and government agencies. It's designed to protect you, but some think it's a serious threat to your privacy. Kristine Lazar talks to the founders of one local company at the forefront of this new technology."
-    publishedDateTime: 2020-02-12T07:33:00Z
-    webUrl: "https://losangeles.cbslocal.com/video/4443490-2-on-your-side-is-facial-recognition-technology-a-threat-to-privacy/"
-    ampWebUrl: "https://losangeles.cbslocal.com/video/4443490-2-on-your-side-is-facial-recognition-technology-a-threat-to-privacy/amp/"
-    cdnAmpWebUrl: "https://losangeles-cbslocal-com.cdn.ampproject.org/c/s/losangeles.cbslocal.com/video/4443490-2-on-your-side-is-facial-recognition-technology-a-threat-to-privacy/amp/"
-    type: article
-    provider:
-      name: CBS Boston / WBZ
-      domain: cbslocal.com
-    quality: 39
   - title: "Class action: Tech firm Clarifai scanned OKCupid pics to train face recognition A.I., broke IL privacy law"
     excerpt: "According to the complaint, Clarifai’s “surreptitious harvesting of biometric identifiers is ongoing” and Clarifai has indicated a willingness to “sell its facial recognition technology to foreign governments” and allow the technology to be used in “autonomous weapons” systems. According to the complaint, Clarifai “gained access ..."
     publishedDateTime: 2020-02-18T14:50:00Z

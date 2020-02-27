@@ -4,8 +4,10 @@ title: "Facial recognition startup Clearview AI says its full client list was st
 excerpt: "Most of the company's customers are law enforcement agencies. You might expect a high-profile (and controversial) facial recognition startup like Clearview AI would have its data locked down, but it turns out it's just as vulnerable as almost any other company to malicious individuals. In a notification obtained by The Daily Beast, the company ..."
 publishedDateTime: 2020-02-26T20:45:00Z
 webUrl: "https://www.engadget.com/2020/02/26/clearview-ai-client-list-exposure/"
+ampWebUrl: "https://www.engadget.com/amp/2020/02/26/clearview-ai-client-list-exposure/"
+cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/26/clearview-ai-client-list-exposure/"
 type: article
-quality: 44
+quality: 101
 heat: -1
 published: false
 
@@ -19,6 +21,13 @@ provider:
 
 topics:
   - AI
+  - Computer Vision
+
+images:
+  - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-02%252Fbe661900-58d2-11ea-a7be-f35353dadc7d%26client%3Da1acac3e1b3290917d92%26signature%3De8442a5ba6d800bf23f2af01238efff47f2da2a9&client=amp-blogside-v2&signature=0b578e5a72b9b247df1c85c755266db45c5d71ee"
+    width: 600
+    height: 350
+    title: "Facial recognition startup Clearview AI says its full client list was stolen"
 
 related:
   - title: "Facial recognition company Clearview AI probed by Canada privacy agencies"
@@ -145,6 +154,6 @@ related:
       domain: ibtimes.com
     quality: 19
 
-secured: "Zab9YQyX7VUTSgEpw+Sv5rtcxl+XZruHeAd7oja32/p6yXZbYGNAzL1omjVBRr86Y7aZbvIuwtcCOiodwXX3Hbb4pJtlWTRc5/4bv428m1ABTu5d1/XziaEe7a/t1Vby0iuwovtcJR3v5I+lF3ggWlAX0x+HqM8vQwo/GwxMWjmOxZ4sH0QiUPvK/O5DqoGbEs1UTpwhRAzQqi0ReKtKp1OwmqENsJuEmWaSgdxEl7uThIpjjZSM/6WZllv7OVs1CAzvnNVVC23bWrSQFUDnO5KxIEcO1uYIXJSVseYgyAC4eeQuaY9zQ4lcK6quWoIMWX5xC/Wu0l9xynaSSnU6s6sXae+EghiTusYBqc+Wtn9gyFGE59FYcoOt6RNrjOvZYjPHjj16ekJ5U5QCwtkQpgeLu4j/nUUVZwDpyRUazAym34pBpg0nnKDdTkJi6MbWmDwAomL5hl+wmIBiXCmeYHw49NFp16zXUHsWWSs+tXw=;/VAujhAcDupkr24EjDoJMw=="
+secured: "IDQBz2jJNoBUtIDnx3JkCunSZaleGYz5L5OcbUhQ6hyQ3BRJA8NfCK1GM0cRlQKKcZtycILKUUEW1NUonHeIDHOYG4XE6PapkLETTaq0y+uRPgd8sH6SG2cu95w7bM+Mwr05uD5cofZ0BqRPQR3urcqqf8lCgkSErgL+kINwK1qC0mxBE8KO0c1R4shCITS9BfUDOM2E5W3Pw/A55Ff9jgesvAZ8Q2pm4nJzY4BCg8gDoXgT4ukHlzGstttHGORGSm9Cpl5FwgehgGzmbdhm/8u1rZeYQ2kMDzfiQAGmyKOLfuXUV3eP9mPYUxMpaKWq;aVxvvqItabn9Jxm2hq9R5w=="
 ---
 

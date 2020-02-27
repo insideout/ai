@@ -316,7 +316,7 @@
       "path": "_posts/2020-02-26-clearview-ais-entire-client-list-stolen-in-data-breach.md",
       "title": "Clearview AI's entire client list stolen in data breach",
       "excerpt": "The breach affected all of the facial recognition company's customers, many of which are law enforcement agencies. Clearview AI says the data breach affected all of its customers. Clearview AI, a facial-recognition software maker that has sparked privacy concerns,",
-      "heat": 167,
+      "heat": 187,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.cnet.com/news/clearview-ai-had-entire-client-list-stolen-in-data-breach/",
@@ -703,50 +703,6 @@
       ]
     },
     {
-      "path": "_posts/2020-02-26-linksquares-raises-145-million-to-expedite-contract-management-with-ai.md",
-      "title": "LinkSquares raises $14.5 million to expedite contract management with AI",
-      "excerpt": "LinkSquares’ platform, which is web-based and hosted on Amazon Web Services, can perform full-text searches for keywords, phrases, and contract terms across documents in “seconds” using AI. It taps multi-query and filtering to extract key bits of data from contracts, including parties, effective and termination dates, payment terms ...",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/26/linksquares-raises-14-5-million-to-expedite-contract-management-with-ai/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/26/linksquares-raises-14-5-million-to-expedite-contract-management-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/26/linksquares-raises-14-5-million-to-expedite-contract-management-with-ai/amp/",
-      "publishedDateTime": "2020-02-26T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/aef274ee-b83b-4b5a-bdaf-d47b4aee6d5e-e1582565438999.png?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "LinkSquares raises $14.5 million to expedite contract management with AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-26-macadamian-to-host-ai-in-healthcare-webinar-with-microsoft-canadas-national-chief-data-scientist.md",
       "title": "Macadamian to host AI in Healthcare webinar with Microsoft Canada's National Chief Data Scientist",
       "excerpt": "GATINEAU, Quebec, Feb. 26, 2020 /PRNewswire/ -- Macadamian, a leading digital and connected healthcare software development consultancy, announced that it will host a webinar with Microsoft Canada titled AI in Healthcare: 5 Things Every Product Owner Should Know.",
@@ -956,6 +912,52 @@
       ]
     },
     {
+      "path": "_posts/2020-02-26-researchers-apply-developmental-psychology-to-ai-model-that-predicts-object-relationships.md",
+      "title": "Researchers apply developmental psychology to AI model that predicts object relationships",
+      "excerpt": "Inspired by this, a team of researchers hailing from the MIT-IBM Watson AI Lab, MIT’s Computer Science and Artificial Intelligence Laboratory, Alphabet’s DeepMind, and Harvard University sought to simplify the problem of visual recognition by introducing a benchmark — CoLlision Events for Video REpresentation and Reasoning (CLEVRER ...",
+      "heat": 92,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/26/researchers-apply-developmental-psychology-to-ai-model-that-predicts-object-relationships/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/26/researchers-apply-developmental-psychology-to-ai-model-that-predicts-object-relationships/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/26/researchers-apply-developmental-psychology-to-ai-model-that-predicts-object-relationships/amp/",
+      "publishedDateTime": "2020-02-26T15:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/GettyImages-1073802514-e1582219406331.jpg?fit=1200%2C608&strip=all",
+          "width": 1200,
+          "height": 608,
+          "title": "Researchers apply developmental psychology to AI model that predicts object relationships",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_posts/2020-02-26-researchers-find-way-to-boost-self-supervised-ai-models-robustness.md",
       "title": "Researchers find way to boost self-supervised AI models’ robustness",
       "excerpt": "In self-supervised learning, an AI technique where the training data is automatically labeled by a feature extractor, the said extractor not uncommonly exploits low-level features (known as “shortcuts”) that cause it to ignore useful representations. In search of a technique that might help to remove those shortcuts autonomously ...",
@@ -1002,14 +1004,14 @@
     {
       "path": "_posts/2020-02-26-reuters-launches-ai-powered-video-transcription-feature-for-connect-customers.md",
       "title": "Reuters launches AI-powered video transcription feature for Connect customers",
-      "excerpt": "Reuters, the world’s largest multimedia news provider, launched today a new video feature that uses artificial intelligence to provide customers with access to near-instant, time-coded speech-to-text transcripts.",
-      "heat": 86,
+      "excerpt": "Customers on Reuters Connect, the award-winning digital content platform, will now have access to automated transcripts from across 11 languages. The system employs AI technology to auto-transcribe English ... services to automate the process of video transcription and translation, we’re now delivering faster and easier access to more ...",
+      "heat": 106,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.reuters.com/article/rpb-connectaivideo/reuters-launches-ai-powered-video-transcription-feature-for-connect-customers-idUSKCN20K254",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN20K254",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN20K254",
-      "publishedDateTime": "2020-02-26T13:06:00-08:00",
+      "webUrl": "https://uk.reuters.com/article/rpb-connectaivideo/reuters-launches-ai-powered-video-transcription-feature-for-connect-customers-idUKKCN20K254",
+      "ampWebUrl": "https://uk.mobile.reuters.com/article/amp/idUKKCN20K254",
+      "cdnAmpWebUrl": "https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKKCN20K254",
+      "publishedDateTime": "2020-02-25T16:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Reuters",
@@ -1354,7 +1356,7 @@
       "path": "_posts/2020-02-26-us-agency-suspends-self-driving-shuttle-easymile-in-10-us-states.md",
       "title": "U.S. agency suspends self-driving shuttle EasyMile in 10 U.S. states",
       "excerpt": "U.S. auto safety regulators said on Tuesday they had ordered a suspension of passenger operations for 16 autonomous shuttles operated by French-based EasyMile after a passenger was injured in an unexplained braking incident.",
-      "heat": 225,
+      "heat": 235,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.reuters.com/article/us-autos-selfdriving-idUSKBN20J2N6",
@@ -1438,6 +1440,51 @@
       "topics": [
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-27-tractable-raises-25-million-for-computer-vision-that-accelerates-insurance-claims.md",
+      "title": "Tractable raises $25 million for computer vision that accelerates insurance claims",
+      "excerpt": "Tractable has raised $25 million to expand the reach of its AI- and computer vision-based platform that automates insurance claims processing. The London-based startup has developed technology that effectively eliminates the need to have a claims adjuster physically inspect a house or car after a disaster or accident in order to generate a ...",
+      "heat": 128,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/26/tractable-raises-25-million-for-computer-vision-that-accelerates-insurance-claims/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/26/tractable-raises-25-million-for-computer-vision-that-accelerates-insurance-claims/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/26/tractable-raises-25-million-for-computer-vision-that-accelerates-insurance-claims/amp/",
+      "publishedDateTime": "2020-02-26T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/tractable-e1582748104266.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Tractable raises $25 million for computer vision that accelerates insurance claims",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
       ]
     },
     {
@@ -2058,51 +2105,6 @@
           "width": 400,
           "height": 258,
           "title": "AI Accelerator Card Offers Face, Object Recognition Applications",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2019-12-20-computer-vision-and-the-ccpa-what-you-need-to-know.md",
-      "title": "Computer Vision and the CCPA: What You Need to Know",
-      "excerpt": "This article will cover what companies who have deployed or are considering deploying computer vision technology should do with the biometric data they collect in order to be compliant with the CCPA. The National Law Review does a tremendous job of ...",
-      "heat": 69,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/trueface-ai/computer-vision-and-the-ccpa-what-you-need-to-know-928477de0601",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-12-19T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/1*YGkB52a5tgp8vGHleh2bAw.png",
-          "width": 1200,
-          "height": 744,
-          "title": "Computer Vision and the CCPA: What You Need to Know",
           "attribution": null
         }
       ],

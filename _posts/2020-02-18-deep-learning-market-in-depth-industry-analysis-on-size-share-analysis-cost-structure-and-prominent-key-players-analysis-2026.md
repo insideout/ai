@@ -22,45 +22,41 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Deep Learning Market By Type Analysis is Anticipated to Reach US$56,427.2 Mn by 2026"
-    excerpt: "The global Deep Learning Market will increase by a CAGR of approximately 51.1% during the forecast era and is expected to achieve a market value above US$ 56,427.2 Mn in 2026. This Acumen research report examines the 2015-2026 Global Deep Learning Market."
-    publishedDateTime: 2020-02-12T08:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-by-type-analysis-is-anticipated-to-reach-us564272-mn-by-2026-2020-02-12"
+  - title: "AI in Sports Market 2020 - Industry Capacity, Manufacture, Value, Consumption, Status and Prediction 2024"
+    excerpt: "... operating in the global AI in Sports market includes 24/7.ai Inc., Amazon Inc., Apple Inc., Anodot, Facebook Inc., Fujitsu Ltd., Cisco Systems, DeepScale, Atmel Corporation, ARM Limited, Microsoft Corporation, and Micron Technology, among others. About All The Research: All The Research was formed with the aim of making market research a ..."
+    publishedDateTime: 2020-02-20T14:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-sports-market-2020---industry-capacity-manufacture-value-consumption-status-and-prediction-2024-2020-02-20?mod=mw_quote_news"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 62
+    quality: 52
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Artificial Intelligence In Construction Market Size is Continues to Grow US$ 2.1 Bn till 2026"
-    excerpt: "The global Artificial Intelligence In Construction Market will increase by a CAGR of approximately 6% during the forecast era and is expected to achieve a market value above US$ 7 Bn in 2026. This Acumen research report examines the 2015-2026 Global Artificial Intelligence In Construction Market."
-    publishedDateTime: 2020-02-12T07:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-construction-market-size-is-continues-to-grow-us-21-bn-till-2026-2020-02-12"
+  - title: "Artificial Intelligence (AI) in Construction Market Insights - 2019-2026: Research Dive"
+    excerpt: "in construction market size was valued at $408.1 million in 2018, and is anticipated to grow with a CAGR of"
+    publishedDateTime: 2020-02-20T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-ai-in-construction-market-insights--2019-2026-research-dive-301008275.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 46
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Machine Learning Market 2020-2029| Amazon Web Services Inc, Baidu Inc, Google Inc."
-    excerpt: "Pune, Maharashtra, January 30, 2020 (Wired Release) Prudour Pvt. Ltd. The Global Machine Learning Market Research Report is expected to display a high CAGR according to the recent report added by MarketResearch.Biz. Distinct growth driving forces and upcoming trends which will boost the market growth are included in this study. The supply ..."
-    publishedDateTime: 2020-02-12T21:41:00Z
-    webUrl: "https://apnews.com/20233db08db8aaec55c77fb43be451e8"
+      - url: "https://mma.prnewswire.com/media/997523/Research_Dive_Logo.jpg?p=publish&p=facebook"
+        width: 500
+        height: 500
+  - title: "Surgical Robotics in India 2019: Comprehensive Market Insights and Projections to 2024"
+    excerpt: "Dublin, Feb. 19, 2020 (GLOBE NEWSWIRE) -- The \"Surgical Robotics Market in India 2019\" report has been added to ResearchAndMarkets.com's offering. The India surgical robotics market was valued at INR 7."
+    publishedDateTime: 2020-02-19T16:18:00Z
+    webUrl: "https://www.globenewswire.com/news-release/2020/02/19/1987189/0/en/Surgical-Robotics-in-India-2019-Comprehensive-Market-Insights-and-Projections-to-2024.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 48
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 26
 
 secured: "52jHwtgCM7XJdBpS3sPX6irRtcKojSK0bv4pDLcfEWCw4LY8Mo78gLzaxvVTgPb/wDMqAH6LhaSPuKSyHgqFusOUGW1lEuSs1S7405/axw3C4M2V4vPGokS7Tx+0spAAXe7l2yIpPVoOzFfGnFe+RHWvtyfbPqOuqOGypc8jAtg5sEIx6wP+YFcbUi7Xv+LVcST9NyNmTSZiiveYfVF5wo21u1JSWlyq7T77afSmubiOq5mt1t2aDTaVsaDjntKQIJZ4KBZ/Je3aRDJO6b43o5zKrna/pGQkhaPk2JXii9qb3m6qnJxdFenOd8CiUrgt;G7fwtyi/pQY1fcpf+rVaYQ=="
 ---

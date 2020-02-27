@@ -18,41 +18,17 @@ topics:
   - Machine Learning
 
 related:
-  - title: "A perspective on the study of artificial and biological neural networks"
-    excerpt: "In recent years, researchers have been developing advanced computational techniques based on artificial neural networks, which are architectures inspired by biological neural networks in the human brain. Models based on artificial neural networks are trained to optimize millions of synaptic weights over millions of observations in order to make ..."
-    publishedDateTime: 2020-02-24T17:51:00Z
-    webUrl: "https://medicalxpress.com/news/2020-02-perspective-artificial-biological-neural-networks.html"
-    ampWebUrl: "https://medicalxpress.com/news/2020-02-perspective-artificial-biological-neural-networks.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-02-perspective-artificial-biological-neural-networks.amp"
+  - title: "The World of Neural Network and AI: What We Need to Know"
+    excerpt: "If you didn’t know already, Neural Networks are large architectures that help artificial intelligence systems to sort and classify data. While it sounds very technical and in general boring, the matter of artificial neural networks is one of the most fascinating in the tech world. Why do you ask? Because Neural Networks are developed using ..."
+    publishedDateTime: 2020-02-27T00:50:00Z
+    webUrl: "https://www.business2community.com/business-innovation/the-world-of-neural-network-and-ai-what-we-need-to-know-02287482"
+    ampWebUrl: "https://www.business2community.com/business-innovation/the-world-of-neural-network-and-ai-what-we-need-to-know-02287482/amp"
+    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/business-innovation/the-world-of-neural-network-and-ai-what-we-need-to-know-02287482/amp"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 39
-  - title: "New study allows brain and artificial neurons to link up over the web"
-    excerpt: "This study has for the first time shown how three key emerging technologies can work together: brain-computer interfaces, artificial neural networks and advanced memory technologies (also known as memristors). The discovery opens the door to further significant developments in neural and artificial intelligence research. During the study ..."
-    publishedDateTime: 2020-02-26T15:19:00Z
-    webUrl: "https://medicalxpress.com/news/2020-02-brain-artificial-neurons-link-web.html"
-    ampWebUrl: "https://medicalxpress.com/news/2020-02-brain-artificial-neurons-link-web.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-02-brain-artificial-neurons-link-web.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 39
-  - title: "New study allows Brain and Artificial Neurons to link up over web"
-    excerpt: "This study has for the first time shown how three key emerging technologies can work together: brain-computer interfaces, artificial neural networks and advanced memory technologies (also known as memristors). The discovery opens the door to further ..."
-    publishedDateTime: 2020-02-26T12:16:00Z
-    webUrl: "https://www.miragenews.com/new-study-allows-brain-and-artificial-neurons-to-link-up-over-web/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 39
-    images:
-      - url: "https://cdn.southampton.ac.uk/assets/imported/transforms/site/news-release/PageThumbnail/566D6AE6FB4149BD97F4881362B0C14B/Virtual%20Laboratory%20-%20Southampton%20Zurich%20and%20Padova%202.jpg_SIA_JPG_fit_to_width_INLINE.jpg"
-        width: 400
-        height: 452
+      name: Business 2 Community
+      domain: business2community.com
+    quality: 58
 
 secured: "CjIt8ShJ0PxRYw3l4W6lv9qQfAhFbpmTPQ7irA/MXkOidty00lSnWqAXX4fWKwQTPO9lnolOrvun4PNZkzBbZY42sJ3P8w7k0/SpF2CLeVcZn04sJ3BOtSQWRS4GwBpwtJkbdbO2uqMI4KUhM5aQaLTTL6VOikmTZWhux/MzhDQa8Z0/AJ2hEZH7/dPlCrmuXpiCDD/Fypnxe9r+c2FQhfPFqmWhrSv4lvo4yJ93kJYjq46uottX6Em2ZmZ9vr16Xix7oqHbhTrMi3sQ5PVbLo/Gpa06bLGYmt4bH0cAGEe/frvmiitpbsr06eqin1YjwJmq4Z1Qh1nRWlkHaWBESII2RdmA7ajiEoxe/MIZCuiIprsw9IkBGMKQRPX0vUl4mODeq2Vdl3sgBQZO/aKlClphrF8WXgyTQlU9mKOF1I+JE/XTlwfgHBvH2Nrw/BXdsnOeicy2vi4jIjOiU+D5UfB9PY6uJWAxAiuq3UrCJAI=;ObeSAk1FwbVy4P+HQ4yIKg=="
 ---

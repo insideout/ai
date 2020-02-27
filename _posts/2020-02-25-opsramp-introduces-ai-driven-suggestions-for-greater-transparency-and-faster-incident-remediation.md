@@ -8,7 +8,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/OpsRamp-Introduces-AI-D
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/OpsRamp-Introduces-AI-Driven-Suggestions-for-Greater-Transparency-and-Faster-Incident-Remediation-1028934454"
 type: article
 quality: 56
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -37,19 +37,6 @@ related:
       - url: "https://res.infoq.com/news/2020/02/opsramp-ai-driven-suggestions/en/headerimage/OpsRamp-AI-Driven-Suggestions-1582702993762.jpg"
         width: 1200
         height: 630
-  - title: "Agiloft introduces AI Engine for advanced contract automation on no-code platform"
-    excerpt: "Prebuilt machine learning models also enable users to implement their own custom AI tools with existing data. Additionally, the open AI Engine features an integration template to bring in machine learning models from Amazon SageMaker and Google TensorFlow to build entirely custom AI tools on Agiloft’s no-code platform. Advanced translations ..."
-    publishedDateTime: 2020-02-25T19:35:00Z
-    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=139412"
-    type: article
-    provider:
-      name: KMWorld Magazine
-      domain: kmworld.com
-    quality: 36
-    images:
-      - url: "https://www.kmworld.com/images/subscribe_magazines_km.png"
-        width: 772
-        height: 594
   - title: "CyberX Announces Integration with Microsoft Azure Security Center for IoT, Joins Microsoft Intelligent Security Association"
     excerpt: "According to Michal Braverman-Blumenstyk, CTO and GM, Cloud and AI Security Division at Microsoft Corp.: “CyberX’s IoT security platform and integration with the Microsoft Azure Security Center for IoT enables customers to go further and faster with IoT innovations that drive new revenue streams and operational efficiencies — without comp ..."
     publishedDateTime: 2020-02-20T18:16:00Z
@@ -64,6 +51,6 @@ related:
         width: 1200
         height: 627
 
-secured: "7OqWtvB4NPayZ2eKkwTri7rkN33wlYv7EeoQHt6u80aeI+YmuyfO/LJWzHO4BFZapg549v9C0T8QQh6Xq1kGitqmG9gqb8GxNq13JP8AXbdJVd4XgT7jGhb6htVP/gwSU2uSscq6A20YiKsTAaCwYzZl23CqiNfUOaNNWo9zsc1w61xixU8/EfCazYTEXb2KoQnw1x6h1TTOODRLVylpk3yfQQ+/cQPQoO/Rig8jI+guCEt74Cf/wuIYTKUGB+pfBLJ0hJgwug+OfDKBlw3fRSbN1cI5NnMcb702C6tOe7edAV3hb2DrIeRDgcBTnhrS;uKgSF3zp/pX8NPOnZglpRQ=="
+secured: "/3juvUWZvan7t+OJDiJbs24caONimF9Om3nTVpjpCCqNeP/lnm3tdFxkhJ++g3B1JbKgp5rO81cFICK4YKWVw3Oo50X8qzjuy+efQnwpytknM4idGE5AyMngVXLCr7MzbAEzMzpWuurdj7V+qh4c6fHD1VH95qC1QYQvCOH5qJ7vjK/nZ3GmCZteDvmTzLYxkYTVb9Y0wtSAl/9Wb6WL0Ow1Nujb2LtmtjBUsRAvOG8vdIsMZQ0BJyjfCw3oHLCo0vwcIzF0h+6aCfWCQevL3f650NCAh8owRpWSIiTa2QKfOZDts0ruM80yvTGsLzm1;77NuZabSMCjr2JxVt+B5fw=="
 ---
 

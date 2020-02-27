@@ -1,12 +1,14 @@
 ---
 category: news
 title: "Unbiased Surveillance: AI Security Tech That Spots Guns, Not People"
-excerpt: "And worse, there’s a lot of evil profiling using facial recognition—I’m talking to you Amazon Rekognition, which mistook Boston athletes of color for criminals. Still, artificial ..."
+excerpt: "At least, for now, San Franciscans won’t have to become characters in a real-life Black Mirror episode. And worse, there’s a lot of evil profiling using facial recognition—I’m talking to you Amazon Rekognition, which mistook Boston athletes of color for criminals. Still, artificial intelligence (AI) and facial recognition always seem to ..."
 publishedDateTime: 2020-02-04T12:00:00Z
 webUrl: "https://observer.com/2020/02/athena-security-surveillance-bias-gun-control/"
+ampWebUrl: "https://observer.com/2020/02/athena-security-surveillance-bias-gun-control/amp/"
+cdnAmpWebUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2020/02/athena-security-surveillance-bias-gun-control/amp/"
 type: article
-quality: 19
-heat: 19
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -17,6 +19,12 @@ topics:
   - AI
   - AWS AI
 
-secured: "pqXxh8uGgYCa9IaD3xJpA2F+GC6xYeqPfy68aXv7kbFOEc8/dkNOZDfxOuDFF3BMdFAvS26wz0v+2BRVLwlfxpfabqr5oUzoFb+s4euUliRvVWnXHboynGwnQDcfZxr/k49prexOORpy5GCGyMdzFVJ5hvX/XnsUykbwZZcUzIIT7vJlJM5nOkHO51iajIiebBAP0KLCKECEH+By/1RZ6KWPkMsXNxUOLFdG38Rl8L6reMEY2KFjWjfufOFACJl+fGcpGDYiJ8nkCqqr1mGTPrUZ+EymyormIzXSzrsaMaU344JdVUa+xbEMxEz5i2iNA6SJYs1frKmdsPm88vEle18LSY3IxtMo7skWv4W1KQgpRj5RRHXx3o2peMXwOG58VQNfKb8Mg6DICUBuTd5m6Zkb7QYHb7ABKNPpe+lM4Gf/JiFRz/Pm03eKanIyK08zELQKQmTy7XPoYfxkC4g6ha8JeEcrT2ufomKUC8plaTc=;wxHb+fkf0o0ugnz3bpVI8A=="
+images:
+  - url: "https://observer.com/wp-content/uploads/sites/2/2020/02/56161324_434979100380682_5588907875608035328_n-e1580760304964.png?quality=80&strip"
+    width: 902
+    height: 505
+    title: "Unbiased Surveillance: AI Security Tech That Spots Guns, Not People"
+
+secured: "VB9pFdIheeQfXnf1gqx6ue9ojV8oB4F6MwB7AO9rtjbP8UZ6oiQ87HgovPqsNEXoKaCn1vw3EWeO6H7gX7GOzBHn0ad+XVlvgBBWdRMfuKl77FnfkzvgLJoxSmT6hClwRKwfvAzJDiwmCGBhOfHrBfN7/90RLTDK5jici7UMiuw27AeuqVUQ645m+1QeInnE3GngykmF1GkxW8PntyOl10CKCoKj4Sn1iYlwuxmZIuCYZyOZaC53phh8Pt6jWbIu6Gmf2qVLvXLD2g287I7Ub079PQA1j8s4Hx1EZyFHK4XLdRauXABz8ECW8swDtaZk;ZUrlif/IJFyzwUZ75B3/ig=="
 ---
 

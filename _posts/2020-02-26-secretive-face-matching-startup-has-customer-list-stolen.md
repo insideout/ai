@@ -52,6 +52,36 @@ related:
       - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2016/12/police-lights-sirens-796x398.png"
         width: 796
         height: 398
+  - title: "Data breach exposes Clearview AI client list"
+    excerpt: "A statement from Clearview AI's attorney Tor Ekeland said security was the company's top priority. As first reported by The Daily Beast, the data accessed includes Clearview's customer list, the number of accounts each customer has, and the number of searches those customers have made. The information was disclosed in a notification the company ..."
+    publishedDateTime: 2020-02-26T23:35:00Z
+    webUrl: "https://www.zdnet.com/article/data-breach-exposes-clearview-ai-client-list/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/data-breach-exposes-clearview-ai-client-list/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/data-breach-exposes-clearview-ai-client-list/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://zdnet3.cbsistatic.com/hub/i/r/2017/08/22/d8bbf573-6bb0-43eb-a6ca-aa61aaea6289/thumbnail/1200x675/21e8153bb2991f11ab360ffb8563f7e3/6.jpg"
+        width: 1200
+        height: 675
+  - title: "'Intruder' steals Clearview AI's entire client list"
+    excerpt: "A hot potato: As if facial recognition startup Clearview Ai did not have enough problems, it seems the company cannot sufficiently secure its data. It recently sent out a notice to customers, which are primarily law enforcement agencies, saying that its entire client list was stolen. According to the memo obtained by The Daily Beast ..."
+    publishedDateTime: 2020-02-27T00:38:00Z
+    webUrl: "https://www.techspot.com/news/84178-intruder-steals-clearview-ai-entire-client-list.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/84178-intruder-steals-clearview-ai-entire-client-list.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/84178-intruder-steals-clearview-ai-entire-client-list.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 87
+    images:
+      - url: "https://static.techspot.com/images2/news/ts3_thumbs/2019/02/2019-02-08-ts3_thumbs-29e.jpg"
+        width: 800
+        height: 560
   - title: "Clearview AI’s client list was stolen. Could its massive face database be next?"
     excerpt: "The controversial artificial intelligence company Clearview AI has experienced a breach that saw the theft of its entire customer list, which is made up of various law enforcement agencies. An intruder was able to gain “unauthorized access” to Clearview’s full customer list, the Daily Beast first reported on Wednesday. Clearview AI says ..."
     publishedDateTime: 2020-02-26T19:56:00Z

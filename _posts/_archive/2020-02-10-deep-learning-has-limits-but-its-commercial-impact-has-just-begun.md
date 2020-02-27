@@ -29,6 +29,6 @@ images:
     height: 800
     title: "Deep Learning Has Limits. But Its Commercial Impact Has Just Begun."
 
-secured: "lmc8KiZJD9pVkJRdw0fOjPeLYbmKugnddgTuwII0cIaTpJq6D3qxcz4825ZcG8z0L3dyWEQMGphTejhADZUPAiLkcXnE1xgCUEWaQNLKJG8yi5rlt2CWP9Vyg6iv3iI0HiI6aEDyyFvWwx1W+fkcg6ejpCTn4j85sZKcYPuHXWNu54FvwbN0PI7PKDZJpxttswpYPipJqUaQdRss21XUCkMrhx86/P7LaH/5wcOotMsy7Byqhl/tRPaxHGAz9uktsxNLphAe06pPfYof6nuwAckMuc2Iuc+znoqZVMTfBnfQ1M6jQTDoioUw+VaA01k9;BKcGvu9j5m1077Xchc0ySw=="
+secured: "17haNRssAspo1q76FZtqj/LUOz3gk3YxL3HWPfuMCI2IEBGHGZIzy1AJfTpQEGa/FOyN9pj9s7O0PPx52ykDivcwdZdaAhzyM3nU0KsJX/lGhGC3D0CQnlKtaI13qxeCyZ4w9GTBjrNMiqsOFCc1qNkiXaIuFnqkaSbrlP08RVaROeAhKYLY2qnSuVs9x/FjmIQyR/NSEkq0sV83JXLU4Dp0m+xqfTGZg0uHZpzQGpw4wxcB5WXwHNQ0GHf4RmzWvqAXvzyUlbwEuQG/NowrmXkfr1R/QKb4Cz0+K0+yavM1u17mv0uMRVcA1Ek0KPGA;o/PHHpMW9SH4jvggSsPeKg=="
 ---
 

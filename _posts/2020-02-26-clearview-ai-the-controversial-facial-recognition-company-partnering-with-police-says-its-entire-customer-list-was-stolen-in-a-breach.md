@@ -45,6 +45,21 @@ related:
       - url: "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png"
         width: 1200
         height: 630
+  - title: "Facial recognition startup Clearview AI says its full client list was stolen"
+    excerpt: "Most of the company's customers are law enforcement agencies. You might expect a high-profile (and controversial) facial recognition startup like Clearview AI would have its data locked down, but it turns out it's just as vulnerable as almost any other company to malicious individuals. In a notification obtained by The Daily Beast, the company ..."
+    publishedDateTime: 2020-02-26T20:45:00Z
+    webUrl: "https://www.engadget.com/2020/02/26/clearview-ai-client-list-exposure/"
+    ampWebUrl: "https://www.engadget.com/amp/2020/02/26/clearview-ai-client-list-exposure/"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/26/clearview-ai-client-list-exposure/"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 101
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-02%252Fbe661900-58d2-11ea-a7be-f35353dadc7d%26client%3Da1acac3e1b3290917d92%26signature%3De8442a5ba6d800bf23f2af01238efff47f2da2a9&client=amp-blogside-v2&signature=0b578e5a72b9b247df1c85c755266db45c5d71ee"
+        width: 600
+        height: 350
   - title: "Canadian Privacy Commissioners to Investigate Creepy Facial Recognition Firm Clearview AI"
     excerpt: "Canadian authorities are investigating shady face recognition company Clearview AI on the grounds that its scraping of billions of photos from the web might violate privacy laws, Reuters reported on Friday. According to Reuters, privacy commissioners from the Canadian federal government and of the provinces of British Columbia, Alberta ..."
     publishedDateTime: 2020-02-21T23:37:00Z
@@ -129,15 +144,6 @@ related:
       - url: "https://www.pbs.org/wnet/amanpour-and-company/files/2020/02/4gPfMc5-asset-mezzanine-16x9-BKkp7dE.jpg"
         width: 1920
         height: 1080
-  - title: "Facial recognition startup Clearview AI says its full client list was stolen"
-    excerpt: "Most of the company's customers are law enforcement agencies. You might expect a high-profile (and controversial) facial recognition startup like Clearview AI would have its data locked down, but it turns out it's just as vulnerable as almost any other company to malicious individuals. In a notification obtained by The Daily Beast, the company ..."
-    publishedDateTime: 2020-02-26T20:45:00Z
-    webUrl: "https://www.engadget.com/2020/02/26/clearview-ai-client-list-exposure/"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 44
   - title: "Canada Privacy Watchdog Probes Facial Recognition Startup"
     excerpt: "The images -- grabbed from popular social media platforms including Facebook, Instagram, Twitter and YouTube as well as millions of other websites -- are used in its facial recognition software. Clearview AI's founder Hoan Ton-That has said the technology has been made available to more than 600 law enforcement agencies in Canada and the United ..."
     publishedDateTime: 2020-02-21T20:27:00Z

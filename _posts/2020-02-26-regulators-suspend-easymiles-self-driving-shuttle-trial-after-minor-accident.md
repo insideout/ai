@@ -129,6 +129,21 @@ related:
       - url: "https://www.dispatch.com/apps/pbcsi.dll/bilde?Site=OH&Date=20200224&Category=NEWS&ArtNo=200229208&Ref=AR"
         width: 2000
         height: 1326
+  - title: "Smart Columbus halts self-driving shuttle test after unplanned stop"
+    excerpt: "Smart Columbus has parked its two self-driving shuttles in Linden after one unexpectedly stopped in the middle of a route and a woman fell from her seat onto the floor. The shuttle had just left the Douglas Community Recreation Center on Windsor Avenue about noon Thursday when it unexpectedly stopped on the street, Smart Columbus spokeswoman ..."
+    publishedDateTime: 2020-02-27T00:16:00Z
+    webUrl: "https://www.dispatch.com/news/20200224/smart-columbus-halts-self-driving-shuttle-test-after-unplanned-stop"
+    ampWebUrl: "https://www.dispatch.com/news/20200224/smart-columbus-halts-self-driving-shuttle-test-after-unplanned-stop?template=ampart"
+    cdnAmpWebUrl: "https://www-dispatch-com.cdn.ampproject.org/c/s/www.dispatch.com/news/20200224/smart-columbus-halts-self-driving-shuttle-test-after-unplanned-stop?template=ampart"
+    type: article
+    provider:
+      name: Columbus Dispatch
+      domain: dispatch.com
+    quality: 44
+    images:
+      - url: "https://www.dispatch.com/apps/pbcsi.dll/bilde?Site=OH&Date=20200224&Category=NEWS&ArtNo=200229208&Ref=AR"
+        width: 2000
+        height: 1326
   - title: "U.S. Agency Suspends Self-Driving Shuttle EasyMile Use in 10 U.S. States"
     excerpt: "WASHINGTON (Reuters) - U.S. auto safety regulators said on Tuesday they had ordered a suspension of passenger operations for 16 autonomous shuttles operated by French-based EasyMile after a passenger was injured in an unexplained braking incident."
     publishedDateTime: 2020-02-25T21:22:00Z

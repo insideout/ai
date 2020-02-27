@@ -48,19 +48,6 @@ related:
       - url: "https://res.infoq.com/news/2020/02/opsramp-ai-driven-suggestions/en/headerimage/OpsRamp-AI-Driven-Suggestions-1582702993762.jpg"
         width: 1200
         height: 630
-  - title: "Agiloft introduces AI Engine for advanced contract automation on no-code platform"
-    excerpt: "Prebuilt machine learning models also enable users to implement their own custom AI tools with existing data. Additionally, the open AI Engine features an integration template to bring in machine learning models from Amazon SageMaker and Google TensorFlow to build entirely custom AI tools on Agiloft’s no-code platform. Advanced translations ..."
-    publishedDateTime: 2020-02-25T19:35:00Z
-    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=139412"
-    type: article
-    provider:
-      name: KMWorld Magazine
-      domain: kmworld.com
-    quality: 36
-    images:
-      - url: "https://www.kmworld.com/images/subscribe_magazines_km.png"
-        width: 772
-        height: 594
 
 secured: "y/682CIQe+oH4f1f/mX5GwqkXIl8SmIsSqDW/7XbPGL8oKQEd1rhgMojfV0dW/hPMf7GlcGEY1DDyqjpQT/mXls1WejArzFcZIE+JlmCQ3UseJ47RB1WJ47bB1f3D85Ha4vxNzqhxsiVs2DRs49ZfGpZnwW3hinwCW9zA8m9F66cQDBgzfMRd/CL/mE4RAKsQii/Ki0fR5q2kFNk0mlgRwGfjT4UbO0sohb18M+OJnuColTOOS/eMvaZPPB1HOase1nxBLMtygYMDOAqWTtOQUKyqhd7C9k72PWDg9cLzR4akGTW9aDR//vJwy0RVjNY0s9ZBVqdHafP5I4q4bu20t7wtuYL0pYALHK7qfHK6sYc+tiKsJAE61bgQB7sxyJbrlJH/VFh0BAkjufr3xbdmjmcSHIYQw69SfiPKgUVSKPD3561TqmhK5iqGgAzV8IaHUjUB5BCZQgv3t52q0HhstuTFpeuqz2SUapZjYkawfU=;ZLpUsx9sGz93mBYGPPYdTA=="
 ---

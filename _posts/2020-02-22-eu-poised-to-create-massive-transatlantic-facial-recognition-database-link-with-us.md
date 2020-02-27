@@ -39,6 +39,21 @@ related:
       - url: "https://theintercept.com/wp-uploads/sites/1/2020/02/YotamHadar_TheIntercept_EUv4-still-1582297909.jpg"
         width: 2000
         height: 1000
+  - title: "Facial recognition database Clearview AI faces data breech"
+    excerpt: "Chicago Police Department is a client of the firm. A construction worker walks past facial recognition screens at the entrance to the terminal building of the new Beijing Daxing International Airport, in Beijing on March 1, 2019. Facial recognition software firm Clearview AI has been hit with a data breach. Photo credit should read GREG BAKER ..."
+    publishedDateTime: 2020-02-27T00:03:00Z
+    webUrl: "https://chicago.suntimes.com/2020/2/26/21155223/clearview-ai-data-breech"
+    ampWebUrl: "https://chicago.suntimes.com/platform/amp/2020/2/26/21155223/clearview-ai-data-breech"
+    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/2020/2/26/21155223/clearview-ai-data-breech"
+    type: article
+    provider:
+      name: Chicago Sun-Times
+      domain: suntimes.com
+    quality: 74
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/Eg-BGYtz8kNfz1NC8iflUonpNV0=/0x0:5457x3632/1400x1050/filters:focal(1456x1362:2328x2234):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66381035/1128224709.jpg.0.jpg"
+        width: 1400
+        height: 1050
   - title: "Editorial: Facial recognition software takes personal invasion into a new dimension"
     excerpt: "Law enforcers around the world are celebrating the rapidly expanding potential of facial recognition software to help them catch criminals faster and solve long-dormant cases. Such capabilities in the right hands could reap enormous public safety dividends. But in the wrong hands, an entirely new dimension in crime, extortion and mayhem could ..."
     publishedDateTime: 2020-02-18T23:02:00Z

@@ -157,20 +157,20 @@ related:
       domain: wired.com
     quality: 34
   - title: "Tables, footrests, smart speakers: Self-driving cars could become the living rooms of the future"
-    excerpt: "With self-driving vehicles on the horizon, automakers are rethinking what the future of car interiors will look like. And because these completely autonomous cars, called Level 5 vehicles, will free drivers from focusing on the highway, companies are now free to experiment. And that means premium cars could be loaded with tech that makes ..."
-    publishedDateTime: 2020-02-25T21:18:00Z
-    webUrl: "https://oklahoman.com/article/5655924/tables-footrests-smart-speakers-self-driving-cars-could-become-the-living-rooms-of-the-future"
-    ampWebUrl: "https://oklahoman.com/article/5655924/tables-footrests-smart-speakers-self-driving-cars-could-become-the-living-rooms-of-the-future/amp"
-    cdnAmpWebUrl: "https://oklahoman-com.cdn.ampproject.org/c/s/oklahoman.com/article/5655924/tables-footrests-smart-speakers-self-driving-cars-could-become-the-living-rooms-of-the-future/amp"
+    excerpt: "With self-driving vehicles on the horizon, automakers are rethinking what the future of car interiors will look like. And because these completely autonomous cars, called Level 5 vehicles, will free drivers from focusing on the highway, companies are now ..."
+    publishedDateTime: 2020-02-25T12:35:00Z
+    webUrl: "https://www.usatoday.com/story/money/cars/2020/02/25/smart-car-nissan-bmw-gm-future-cars-spacious-interiors/4658453002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4658453002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4658453002"
     type: article
     provider:
-      name: The Oklahoman
-      domain: oklahoman.com
+      name: USA Today
+      domain: usatoday.com
     quality: 31
     images:
-      - url: "https://cdn2.newsok.biz/cache/1280x720_blur-7ec8ba67c9327358720e4397264a2fc9.jpg"
-        width: 1280
-        height: 720
+      - url: "https://www.gannett-cdn.com/presto/2020/02/05/USAT/09643d9a-d78b-46f0-8ac3-bfdd247cfc98-BMW1.jpg?auto=webp&crop=825,465,x0,y41&format=pjpg&width=1200"
+        width: 1200
+        height: 676
 
 secured: "OC/54pqfVp4iS+b89guvZPIgaT/3025KvZOnGDe6D4Zflbf4j1qOrd1vzz0wioo3sjtT5Qs5PE1bn13e10hu7TcETT7ggl73/Z9Ox5oZYb/0Ml3WZuBuEstwYJBfQZ4RfDqaqBjkrZWHCh+WjaP1tsj1oFToz7m1umzSnTIJhLVJi0uT22xaOAy4OyUDaCo5qLWcgTmFKiVcAUwAP5kyqj9OZCPm2T1LCQjSOVDybxVPhSiVcSypwggONuYs3DUiVZrwqd3FyYTMuNKmY7YbzmyG9AtYfEFrS+UCgVwKlLCR+VNynF54tnGfHT1vKAz5;Lk945CKhTtjQf/0Owb9bBQ=="
 ---
