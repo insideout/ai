@@ -2,139 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_posts/2020-02-17-why-ai-systems-should-be-recognized-as-inventors.md",
-      "title": "Why AI systems should be recognized as inventors",
-      "excerpt": "This could also play a major role in the AI arms race, as countries that adapt their patent systems most quickly will get a head start over their slower rivals. It’s important to note that the Artificial Inventor Project doesn’t want AI systems to own the patents for their creations. Such an interpretation of the case confuses ownership of ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/02/17/why-ai-systems-should-be-recognized-as-inventors/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/02/17/why-ai-systems-should-be-recognized-as-inventors/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/17/why-ai-systems-should-be-recognized-as-inventors/amp/",
-      "publishedDateTime": "2020-02-17T13:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/Untitled-design-15-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Why AI systems should be recognized as inventors",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-18-175-customers-achieve-machine-learning-success-with-awss-machine-learning-solutions-lab.md",
-      "title": "175+ Customers Achieve Machine Learning Success with AWS’s Machine Learning Solutions Lab",
-      "excerpt": "AWS introduced the Machine Learning (ML) Solutions Lab a little over two years ago to connect our machine learning experts and data scientists with AWS customers.  Our goal was to help our customers solve their most pressing business problems using ML. We’ve helped our customers increase fraud detection",
-      "heat": 90,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/175-customers-achieve-machine-learning-success-with-awss-machine-learning-solutions-lab/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-18T06:00:07-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
-          "width": 1260,
-          "height": 630,
-          "title": "175+ Customers Achieve Machine Learning Success with AWS’s Machine Learning Solutions Lab",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-18-african-crowdsolving-startup-zindi-scales-10000-data-scientists.md",
-      "title": "African crowdsolving startup Zindi scales 10,000 data scientists",
-      "excerpt": "Cape Town based startup Zindi has registered 10,000 data-scientists on its platform that uses AI and machine learning to crowdsolve complex problems in Africa. Founded in 2018, the early-stage venture allows companies, NGOs or government institutions to host online competitions around data-oriented challenges. Zindi opens the contests to the ...",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/02/17/african-crowdsolving-startup-zindi-scales-10000-data-scientists/",
-      "ampWebUrl": "https://techcrunch.com/2020/02/17/african-crowdsolving-startup-zindi-scales-10000-data-scientists/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/17/african-crowdsolving-startup-zindi-scales-10000-data-scientists/amp/",
-      "publishedDateTime": "2020-02-17T23:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/08/Zindi-Team-in-Cape-Town-1.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": "African crowdsolving startup Zindi scales 10,000 data scientists",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-18-ai-at-the-edge-creating-coordinated-autonomy.md",
       "title": "AI At The Edge: Creating Coordinated Autonomy",
       "excerpt": "Today organizations have to deal with so many emergent behaviors that the notion of central control as the only coping mechanism seems to be receding as a dominant management model. Freedom must be doled out further from the centrist idea by creating goals,",
@@ -2175,6 +2042,124 @@
       "topics": [
         "AI",
         "Facebook AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-19-eu-plans-european-rival-to-google-with-new-data-and-ai-proposals.md",
+      "title": "EU Plans European Rival To Google With New Data And AI Proposals",
+      "excerpt": "As outlined in two policy documents, the EC is planning to change EU law in order to foster the commercial gathering, sharing and processing of data, as well as the development of AI technology.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/simonchandler/2020/02/19/eu-plans-european-rival-to-google-with-new-data-and-ai-proposals/",
+      "ampWebUrl": "https://www.forbes.com/sites/simonchandler/2020/02/19/eu-plans-european-rival-to-google-with-new-data-and-ai-proposals/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/simonchandler/2020/02/19/eu-plans-european-rival-to-google-with-new-data-and-ai-proposals/amp/",
+      "publishedDateTime": "2020-02-19T05:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1201763571%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "EU Plans European Rival To Google With New Data And AI Proposals",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-19-eu-puts-up-ai-and-data-strategies-with-an-ethical-twist.md",
+      "title": "EU puts up AI and data strategies with an ethical twist",
+      "excerpt": "The European Union (EU) has launched strategies for artificial intelligence (AI) and the “data economy”, with ethics and transparency as watchwords. It has also presented what it calls the “human-centric development of AI” as critical to “fighting climate change”. The European Commission (EC) said in a statement that it favours a ...",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.computerweekly.com/news/252478825/EU-puts-up-AI-and-data-strategies-with-an-ethical-twist",
+      "ampWebUrl": "https://www.computerweekly.com/news/252478825/EU-puts-up-AI-and-data-strategies-with-an-ethical-twist?amp=1",
+      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252478825/EU-puts-up-AI-and-data-strategies-with-an-ethical-twist?amp=1",
+      "publishedDateTime": "2020-02-19T09:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.ttgtmedia.com/visuals/German/EU-european-flags-fotolia.jpg",
+          "width": 1200,
+          "height": 400,
+          "title": "EU puts up AI and data strategies with an ethical twist",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-19-europe-plans-to-strictly-regulate-high-risk-ai-technology.md",
+      "title": "Europe plans to strictly regulate high-risk AI technology",
+      "excerpt": "By Nicholas Wallace Feb. 19, 2020 , 12:05 PM The European Commission today unveiled its plan to strictly regulate artificial intelligence (AI), distinguishing itself from more freewheeling approaches to the technology in the United States and China.",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.sciencemag.org/news/2020/02/europe-plans-strictly-regulate-high-risk-ai-technology",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-19T10:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science | AAAS",
+        "domain": "sciencemag.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.sciencemag.org/sites/default/files/styles/article_main_large/public/European_AI_Regulation_1280x720.jpg?itok=OAWMDBz_",
+          "width": 1280,
+          "height": 720,
+          "title": "Europe plans to strictly regulate high-risk AI technology",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
       ]
     }
   ],

@@ -45,21 +45,6 @@ related:
       - url: "https://cnet4.cbsistatic.com/img/JsUigaPqhHEO0XUYO41ZqO-Z-vo=/756x567/2020/01/18/2bde6ea9-4f91-4473-a8fb-1418d9ac5c7d/facial-recognition-james-martin-promo-1.jpg"
         width: 756
         height: 567
-  - title: "Oh great, the EU has ditched its facial recognition ban"
-    excerpt: "The European Union is backing away from its plan to introduce a temporary ban on facial recognition technology, instead delegating decisions on the software to its member states. In a previous draft of a paper on AI, the European Commission had proposed introducing a five-year moratorium on the technology. But in a new draft seen by the ..."
-    publishedDateTime: 2020-02-12T16:00:00Z
-    webUrl: "https://thenextweb.com/neural/2020/02/12/oh-great-the-eu-has-ditched-its-facial-recognition-ban/"
-    ampWebUrl: "https://thenextweb.com/neural/2020/02/12/oh-great-the-eu-has-ditched-its-facial-recognition-ban/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/12/oh-great-the-eu-has-ditched-its-facial-recognition-ban/amp/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 89
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/Untitled-design-5-796x417.png"
-        width: 796
-        height: 417
   - title: "Senate bill would place a moratorium on feds using facial recognition"
     excerpt: "First, a 13 member commission would try to establish some guidelines on its use. Facial recognition is being used by more agencies than ever, even as its accuracy and impact remain unclear. Several local governments have already taken steps to stop law enforcement from using it in various ways, and a bill introduced by two US senators seeks to ..."
     publishedDateTime: 2020-02-13T07:50:00Z

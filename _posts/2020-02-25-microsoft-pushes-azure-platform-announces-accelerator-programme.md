@@ -79,6 +79,19 @@ related:
       - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
         width: 252
         height: 335
+  - title: "CyberX Announces Integration with Microsoft Azure Security Center for IoT, Joins Microsoft Intelligent Security Association"
+    excerpt: "According to Michal Braverman-Blumenstyk, CTO and GM, Cloud and AI Security Division at Microsoft Corp.: “CyberX’s IoT security platform and integration with the Microsoft Azure Security Center for IoT enables customers to go further and faster with IoT innovations that drive new revenue streams and operational efficiencies — without comp ..."
+    publishedDateTime: 2020-02-20T18:16:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200220005507/en/CyberX-Announces-Integration-Microsoft-Azure-Security-Center"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 28
+    images:
+      - url: "https://mms.businesswire.com/media/20200220005507/en/774439/23/cyberx.jpg"
+        width: 1200
+        height: 627
 
 secured: "K+PsEGX9mSZXn5vpPYRz7uVaLkvns7OF6lqr0NYgHEAw0VXrZ31EATGxEuwFgHD+zWlMM25pUZASif9uum7WU6HaEeGU1wmbURpSLu2xH3Vs1HRAA15CNht4GLE2qY6AKBdQPK2Djd6evj5B4erUfKs96bRs/rxZQvlJc8ybmpmdLaSLgh7uyDCMkn/eBGOPD1P4xVD02GVnjz6AxDOsmooO4M4tA9EFuE2nHITrUqqn0ToGIhG44ObYzMU0u79rArXu7/MfhyDrLxYSyjLtBKEoMK9ZX7VNhcExPkois3zoBN2VglhZVyG8tBfRLZTvKwriIZS14GBqk5WIdd4cAYhzYxtZXvW5zW5bt7maeAOoa1ls/1KWpMq3G5KtllIROkWMJSqYrqwoifH2IXT6CRiORV4Sj4l23qwcFPeoFHHiVlT2+r3uiLvsPx7wXASxNUOioIc5badgO5Dl00sqhPMsUXtGS/KwfShc+VXP3DU=;RpC4o/C1JwMHmqdqkXagAQ=="
 ---

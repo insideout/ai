@@ -192,6 +192,15 @@ related:
       - url: "https://photos5.appleinsider.com/gallery/34692-62829-200227-Car-xl.jpg"
         width: 660
         height: 333
+  - title: "California records 2.9M self-driving miles in 2019"
+    excerpt: "California's self-driving car companies covered 2.9M miles in 2019, according to the state's DMV, with Alphabet's (GOOG, GOOGL) Waymo and General Motors' (NYSE:GM) Cruise leading the pack. However, a backlash is growing against the \"disengagement\" reporting metric, which reveals how frequently humans need to take control. Waymo had 13,219 miles ..."
+    publishedDateTime: 2020-02-27T08:44:00Z
+    webUrl: "https://seekingalpha.com/news/3546285-california-records-2_9m-self-driving-miles-in-2019"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 4
 
 secured: "1b4lwH3xA8n/mCTT824S77cn4eBFXlHin46X3xKs2dxzwZa3tU6qF5aadJt/X4uYAnLICWMCdbFv8J5xqnrYANID6HExZG3KMw6iQbihaX+8JGLkPnbxNnchVCUkD2tx2YL2vlwN340aCbxRNS2E8+Hwdn4UXLKCu7B82bjqQj7rYf/JXYv0bv6/fqix5CDfgfFfwua2AQM9l57LbAk9NlRWf2BKG1eEfICuqRMaubfhz1Yt7iI0agvr9Ag8zqPSZ2QUYmAJoMOMbTw5zGekjCnW5jaq8lKosoU5mOv6/B/iCccrMjXi+AvcUdvu/eIgw1QRaz835UGsGMLCaL0C11ZDpj06epARtEqykVAp7cSqGuHeTkWJ+C7hkt77qg5sz/ZZBA3GA4jeYPHRHeMttuvQm5xLLYqU3V7JTxxUsEitZibd2Xu72bIP1c2hmVPqRZQIVbu4IlwPlHpnc/mwfftbN/rQQ2WOBIQPlusCXfQ=;mIwED2A7Nn5nN8PHiGiBbw=="
 ---

@@ -2,95 +2,6 @@
   "page": 28,
   "value": [
     {
-      "path": "_posts/_archive/2020-02-11-ai-powered-otterbot-chatbot-helps-students-navigate-choppy-waters-of-financial-aid-applications.md",
-      "title": "AI-powered ‘Otterbot’ chatbot helps students navigate choppy waters of financial aid applications",
-      "excerpt": "Otterbot is a free, AI-powered texting service that can help high school seniors apply for financial aid that covers tuition and fees for college and other training. Last year, Washington ranked 48th among U.S. states for the percent of students who completed federal financial aid applications or FAFSA, a standardized form used for awarding ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/ai-powered-otterbot-chatbot-helps-students-navigate-choppy-waters-financial-aid-applications/",
-      "ampWebUrl": "https://www.geekwire.com/2020/ai-powered-otterbot-chatbot-helps-students-navigate-choppy-waters-financial-aid-applications/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/ai-powered-otterbot-chatbot-helps-students-navigate-choppy-waters-financial-aid-applications/amp/",
-      "publishedDateTime": "2020-02-11T06:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2019/04/20190330_155633-e1556638491703-630x407.jpg",
-          "width": 630,
-          "height": 407,
-          "title": "AI-powered ‘Otterbot’ chatbot helps students navigate choppy waters of financial aid applications",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-02-11-amds-new-arcturus-gpu-could-be-super-efficient-but-probably-wont-trouble-nvidia.md",
-      "title": "AMD’s new Arcturus GPU could be super-efficient – but probably won’t trouble Nvidia",
-      "excerpt": "... reckons it can win the high-end GPU battle – and dethrone Nvidia These are all the best graphics cards of 2020 Remember this is a GPU aimed at data center and heavyweight compute usage – the likes of AI applications – but seemingly we’re looking at something of a beast of a card with a 1,090MHz base clock and 1,333MHz boost, with ...",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techradar.com/in/news/amds-new-arcturus-gpu-could-be-super-efficient-but-probably-wont-trouble-nvidia",
-      "ampWebUrl": "https://www.techradar.com/in/amp/news/amds-new-arcturus-gpu-could-be-super-efficient-but-probably-wont-trouble-nvidia",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/amds-new-arcturus-gpu-could-be-super-efficient-but-probably-wont-trouble-nvidia",
-      "publishedDateTime": "2020-02-11T03:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/WbcyGEkXqJLgzVDDVsHBc7-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "AMD’s new Arcturus GPU could be super-efficient – but probably won’t trouble Nvidia",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-02-11-aptivs-self-driving-cars-have-given-100000-paid-rides-on-the-lyft-app.md",
       "title": "Aptiv’s self-driving cars have given 100,000 paid rides on the Lyft app",
       "excerpt": "What started out as a temporary pilot project to test a robotaxi service in Las Vegas has turned into a multi-year partnership between self-driving software company Aptiv and Lyft and a new milestone that suggests the operation is ramping up. The companies announced Tuesday that they’ve given 100,000 paid rides in Aptiv’s self-driving ...",
@@ -1673,6 +1584,96 @@
       "topics": [
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-02-12-2020-and-the-dawn-of-ai-learning-at-the-edge.md",
+      "title": "2020 And The Dawn Of AI Learning At The Edge",
+      "excerpt": "AI that learns at the edge is a paradigm-shifting technology that will finally empower AI to truly serve its purpose.",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/12/2020-and-the-dawn-of-ai-learning-at-the-edge/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/12/2020-and-the-dawn-of-ai-learning-at-the-edge/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/12/2020-and-the-dawn-of-ai-learning-at-the-edge/amp/",
+      "publishedDateTime": "2020-02-12T08:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x473/https://specials-images.forbesimg.com/dam/imageserve/593333566/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 473,
+          "title": "2020 And The Dawn Of AI Learning At The Edge",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-02-12-6-ways-to-boost-your-marketing-with-natural-language-processing.md",
+      "title": "6 Ways to Boost Your Marketing With Natural Language Processing",
+      "excerpt": "Given that marketing is heavily reliant on words to convey messages about people and products, it’s not surprising that NLP has carved out a large niche in marketing technology.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/mariyayao/2020/02/12/6-ways-to-boost-your-marketing-with-natural-language-processing/",
+      "ampWebUrl": "https://www.forbes.com/sites/mariyayao/2020/02/12/6-ways-to-boost-your-marketing-with-natural-language-processing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mariyayao/2020/02/12/6-ways-to-boost-your-marketing-with-natural-language-processing/amp/",
+      "publishedDateTime": "2020-02-12T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1134222543%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4000%26cropY1%3D1750%26cropY2%3D4000",
+          "width": 1200,
+          "height": 675,
+          "title": "6 Ways to Boost Your Marketing With Natural Language Processing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {

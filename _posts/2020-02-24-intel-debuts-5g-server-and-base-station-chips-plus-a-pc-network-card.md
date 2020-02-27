@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-24T14:00:00Z
 webUrl: "https://venturebeat.com/2020/02/24/intel-debuts-5g-server-and-base-station-chips-plus-a-pc-network-card/"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -28,6 +28,19 @@ images:
     title: "Intel debuts 5G server and base station chips, plus a PC network card"
 
 related:
+  - title: "Gyrfalcon Acceleration Chips Speed SolidRun AI Inference Server"
+    excerpt: "Powerful, new AI models are being brought to market every minute, and demand for AI inference solutions to deploy these AI models is growing massively,” said Dr. Atai Ziv, CEO at SolidRun. “While GPU-based inference servers have seen significant traction for cloud-based applications, there is a growing need for edge-optimized solutions that ..."
+    publishedDateTime: 2020-02-27T08:05:00Z
+    webUrl: "https://insidehpc.com/2020/02/gyrfalcon-acceleration-chips-speed-solidrun-ai-inference-server/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 54
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2020/02/solidrun.jpg"
+        width: 1030
+        height: 1000
   - title: "Intel releases 5G chips"
     excerpt: "Up first is an updated second-generation Xeon Scalable processor, now at a top speed of 3.9GHz and bolstered by additional AI capabilities to aid with inference applications. The new chip promises up to 36 percent more performance than the first-generation version, with up to 42 percent more performance per dollar, though early second ..."
     publishedDateTime: 2020-02-25T15:51:00Z

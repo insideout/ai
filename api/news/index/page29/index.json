@@ -127,6 +127,51 @@
       ]
     },
     {
+      "path": "_posts/_archive/2020-02-12-this-startup-is-building-infrastructure-for-the-first-factory-in-space.md",
+      "title": "This Startup Is Building Infrastructure For The First Factory In Space",
+      "excerpt": "In the quest to build bigger things in space, one Colorado-based company is readying for an epic construction demonstration mission. Blue Canyon Technologies will provide the spacecraft vehicle infrastructure supporting a “factory” that will 3D-print solar arrays in space.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/elizabethhowell1/2020/02/12/employee-owned-space-company-assists-with-assembling-stuff-in-orbit/",
+      "ampWebUrl": "https://www.forbes.com/sites/elizabethhowell1/2020/02/12/employee-owned-space-company-assists-with-assembling-stuff-in-orbit/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/elizabethhowell1/2020/02/12/employee-owned-space-company-assists-with-assembling-stuff-in-orbit/amp/",
+      "publishedDateTime": "2020-02-12T08:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e43fce9f133f400076c4041%2F0x0.jpg",
+          "width": 1200,
+          "height": 778,
+          "title": "This Startup Is Building Infrastructure For The First Factory In Space",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-02-12-uk-vc-firm-focused-on-artificial-intelligence-expands-to-southeast-asia.md",
       "title": "U.K. VC Firm Focused on Artificial Intelligence Expands to Southeast Asia",
       "excerpt": "Skymind Global Ventures, a venture capital firm that invests in artificial intelligence companies, on Wednesday launched an $800 million fund and said it would expand to Southeast Asia region. A significant portion of the $800 million fund will be used to invest in Southeast Asian AI companies, the company said in a statement to the press.",

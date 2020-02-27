@@ -36,6 +36,6 @@ related:
       domain: fastcompany.com
     quality: 19
 
-secured: "/yet/NnXkDrOM462h/ecYNuekC8zJGjuNyHUO7dizZtE4sOQhJOZxG69Fv6OJkqe5tCdYXPvnwhVo7yWLNqEtnJS5di52QHhcbaGPccnh23cChQcqb3wqfbM04WDPMW5bkh33Bo/dmWrFnsd3w2dNiXNZboi4HeXiAErcoF36s5FeJDrtmMV/a3BKz3SPWqKKZOa/e9jI7aLWQiu1epczJy4Ev6HsqU3jodokPRPf/AY8KCfYEaozCUNcf3ODgTDQDeeo6iaDAjwgjJmtmAD2PNzyN/FyC0UuAgea57zazv6vbQsdrqVU7ZWi5ovgbyg;Yup2Qu/NQyhyiSwv1sevcw=="
+secured: "FP/8vsTEsZyJ+5f1l3uXwlQLP8/LnDof3V5hWTtkV+d/lqcoiFgxW9qRxMUPqmxg9D6O/EuhOfke2MebKzBWyne2xPQIqqjXWzzq5HpLUQpo8xeCKlr5hY5tThltr57CaTbZFHne1mcQX0h2KjrjUm4opXXy64oVmQVVXxyCJI721Lc+xa2fFd0KypDM0dqzgnZe4L7yEHyWpLjjP9u0m5sO32sdZ4gjP/KZsId2+C1Qh3VSeILmqoOuASyPX5+a74oEJYtUa41Ux0bXgb/ohMWc49rqIm3cozhdEcF4nl59hdFnVWpU1evTnfyFxj89;X9dtrzjpAtDCUTi9ztRb+w=="
 ---
 

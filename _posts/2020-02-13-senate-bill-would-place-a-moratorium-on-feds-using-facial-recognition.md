@@ -60,21 +60,6 @@ related:
       - url: "https://cnet1.cbsistatic.com/img/T7vHUXN92GZ-p8NS6dA-Ll1wLrQ=/756x567/2020/02/14/93a842af-7754-4d73-baf3-c2fd2af66118/facial-recognition-getty.jpg"
         width: 756
         height: 567
-  - title: "Oh great, the EU has ditched its facial recognition ban"
-    excerpt: "The European Union is backing away from its plan to introduce a temporary ban on facial recognition technology, instead delegating decisions on the software to its member states. In a previous draft of a paper on AI, the European Commission had proposed introducing a five-year moratorium on the technology. But in a new draft seen by the ..."
-    publishedDateTime: 2020-02-12T16:00:00Z
-    webUrl: "https://thenextweb.com/neural/2020/02/12/oh-great-the-eu-has-ditched-its-facial-recognition-ban/"
-    ampWebUrl: "https://thenextweb.com/neural/2020/02/12/oh-great-the-eu-has-ditched-its-facial-recognition-ban/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/12/oh-great-the-eu-has-ditched-its-facial-recognition-ban/amp/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 89
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/Untitled-design-5-796x417.png"
-        width: 796
-        height: 417
   - title: "US senators propose facial recognition ban (but not for police)"
     excerpt: "US senators have introduced a bill that would temporarily restrict the use of facial recognition technology — but their proposals fall short of a total ban. The Ethical Use of Artificial Intelligence Act would place a moratorium on federal government use of facial recognition technology (FRT) until Congress passes legislation regulating ..."
     publishedDateTime: 2020-02-13T13:41:00Z

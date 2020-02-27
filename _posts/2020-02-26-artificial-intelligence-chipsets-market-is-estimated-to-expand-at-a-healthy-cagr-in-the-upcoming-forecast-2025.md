@@ -44,7 +44,7 @@ related:
     provider:
       name: GlobeNewswire
       domain: globenewswire.com
-    quality: 3
+    quality: 5
   - title: "Global machine learning as a service market is expected to grow with a CAGR of 38.5% over the forecast period from 2018-2024"
     excerpt: "The report on the global machine learning as a service market provides qualitative and quantitative analysis for the period from 2016 to 2024. The report predicts the global machine learning as a service market to grow with a CAGR of 38."
     publishedDateTime: 2020-02-20T07:20:00Z

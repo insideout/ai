@@ -5,7 +5,7 @@ excerpt: "Market Overview The Rehabilitation Robots market is expected to regist
 publishedDateTime: 2020-02-21T17:31:00Z
 webUrl: "https://www.globenewswire.com/news-release/2020/02/21/1988751/0/en/The-Rehabilitation-Robots-market-is-expected-to-register-a-CAGR-of-25-8-over-the-forecast-period-2020.html"
 type: article
-quality: 3
+quality: 5
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI
   - AI in Robotics
+  - AI in Healthcare
 
 related:
   - title: "Artificial Intelligence Chipsets Market Is Estimated To Expand At a Healthy CAGR in the Upcoming Forecast 2025"

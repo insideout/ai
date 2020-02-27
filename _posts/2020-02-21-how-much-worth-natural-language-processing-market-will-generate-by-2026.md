@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-21T08:44:00Z
 webUrl: "https://www.marketwatch.com/press-release/how-much-worth-natural-language-processing-market-will-generate-by-2026-2020-02-21"
 type: article
 quality: 68
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -50,6 +50,19 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Natural Language Processing Market Comprehensive Insight by Growth Rate, Global Trends, Industry Status, Key Players Forecast till 2026"
+    excerpt: "Top Players in Natural Language Processing Market are 3M Company, Adobe Systems Inc., Amazon Web Services Inc., Apple Inc., Google (Alphabet Inc.), Hewlett-Packard Enterprise Company, Intel Corporation,"
+    publishedDateTime: 2020-02-27T07:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-comprehensive-insight-by-growth-rate-global-trends-industry-status-key-players-forecast-till-2026-2020-02-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

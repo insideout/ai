@@ -42,6 +42,19 @@ related:
       - url: "https://images.idgesg.net/images/article/2017/08/oracle-cloud-on-building-100730618-large.jpg"
         width: 700
         height: 467
+  - title: "Oracle Unveils New Cloud-Based Platform for Machine Learning Models"
+    excerpt: "The new platform actually comprises seven services, including: Oracle Cloud Infrastructure Data Science: This is the virtual, AI-assisted workbench at the center of the platform, which gives users the ability to build, train, and manage new ML models on Oracle Cloud using Python and such open-source tools and libraries as TensorFlow ..."
+    publishedDateTime: 2020-02-14T19:07:00Z
+    webUrl: "https://adtmag.com/articles/2020/02/14/oracle-machine-learning-platform.aspx"
+    type: article
+    provider:
+      name: adtmag.com
+      domain: adtmag.com
+    quality: 41
+    images:
+      - url: "https://adtmag.com/-/media/ECG/VirtualizationReview/Images/IntroImages2019/RailroadTracksClouds.jpg"
+        width: 647
+        height: 450
   - title: "RESTORE launches cloud-based skills platform for adult rehabilitation"
     excerpt: "RESTORE Skills has launched an interactive software product for adult rehabilitation patients that uses any webcam-equipped, Wi-Fi-enabled device as a therapy tool in the gym, at the bedside or at home post-discharge. RESTORE uses motion tracking, machine learning and artificial intelligence to reinforce motor, cognitive, social and attention ..."
     publishedDateTime: 2020-02-19T03:23:00Z

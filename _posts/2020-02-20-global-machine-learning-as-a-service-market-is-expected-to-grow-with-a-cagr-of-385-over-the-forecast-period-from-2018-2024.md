@@ -48,7 +48,7 @@ related:
     provider:
       name: GlobeNewswire
       domain: globenewswire.com
-    quality: 3
+    quality: 5
   - title: "Artificial Intelligence in the Global BFSI Industry, 2019-2026 - Expected to Witness a CAGR of 38% During the Forecast Period"
     excerpt: "Dublin, Feb. 21, 2020 (GLOBE NEWSWIRE) -- The \"Artificial Intelligence in BFSI Market by Offerings Solution Technology: Global Opportunity Analysis and Industry Forecast, 2019-2026\" report has been added to ResearchAndMarkets."
     publishedDateTime: 2020-02-21T12:23:00Z

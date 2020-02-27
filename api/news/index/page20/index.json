@@ -2,96 +2,6 @@
   "page": 20,
   "value": [
     {
-      "path": "_posts/_archive/2020-01-28-cisco-brings-new-ai-functionality-to-webex.md",
-      "title": "Cisco brings new AI functionality to Webex",
-      "excerpt": "About six months after acquiring Voicea, Cisco is bringing its AI capabilities to Webex meetings. Now, Webex Assistant will be able to help with meeting tasks such as language translation, closed captioning and transcriptions. What is AI? Everything you need to know about Artificial Intelligence A guide to artificial intelligence, from ...",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/cisco-brings-new-ai-functionality-to-webex/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/cisco-brings-new-ai-functionality-to-webex/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cisco-brings-new-ai-functionality-to-webex/",
-      "publishedDateTime": "2020-01-28T00:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/01/27/b83afa9e-e7cf-4580-873e-523febb334a5/wm-1.jpg",
-          "width": 1789,
-          "height": 1118,
-          "title": "Cisco brings new AI functionality to Webex",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-28-deep-graph-library-part-2-training-on-amazon-sagemaker.md",
-      "title": "Deep Graph Library, part 2 — Training on Amazon SageMaker",
-      "excerpt": "Well, as DGL is available on Amazon SageMaker, I’ll show you in this post how to quickly and easily adapt your DGL code for SageMaker. As you probably guessed, we’re going to use script mode ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/@julsimon/deep-graph-library-part-2-training-on-amazon-sagemaker-54d318dfc814",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-28T01:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/891/1*Ti5TbBkB0vxxKOC5DyESHQ.png",
-          "width": 891,
-          "height": 514,
-          "title": "Deep Graph Library, part 2 — Training on Amazon SageMaker",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-01-28-directly-raises-20-million-to-improve-customer-service-with-ai.md",
       "title": "Directly raises $20 million to improve customer service with AI",
       "excerpt": "Notably, it comes after a year in which the startup grew 10% per month over a six-month period. “At Industry Ventures, our focus is to work with leading growth companies, full stop,” said the VC firm’s Brian Langer. “Directly saw tremendous growth toward the end of 2019, and the work they’re doing to revolutionize AI and machine ...",
@@ -2130,6 +2040,88 @@
       "topics": [
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-29-food-delivery-robots-roll-onto-ole-miss-campus.md",
+      "title": "Food delivery robots roll onto Ole Miss campus",
+      "excerpt": "OXFORD, Miss. — Artificial intelligence has arrived at Ole Miss in the form of food delivery robots. Thirty new robots have been roaming campus for a week, dropping off snacks, meals and drinks. It’s been exactly one week since Ole Miss launched 30 Starship delivery robots. They line up outside the student union, are packed with food and ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://wreg.com/2020/01/29/food-delivery-robots-roll-onto-ole-miss-campus/",
+      "ampWebUrl": "https://wreg.com/2020/01/29/food-delivery-robots-roll-onto-ole-miss-campus/amp/",
+      "cdnAmpWebUrl": "https://wreg-com.cdn.ampproject.org/c/s/wreg.com/2020/01/29/food-delivery-robots-roll-onto-ole-miss-campus/amp/",
+      "publishedDateTime": "2020-01-29T15:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WREG",
+        "domain": "wreg.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://localtvwreg.files.wordpress.com/2020/01/fooddelivery.jpeg?quality=85&strip=all&w=1200",
+          "width": 1200,
+          "height": 675,
+          "title": "Food delivery robots roll onto Ole Miss campus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-29-getting-started-with-aws-deepracer-2020-edition.md",
+      "title": "Getting Started with AWS Deepracer (2020 edition)",
+      "excerpt": "Since the last time, I wrote a blog on how to win at Deepracer? a LOT has changed on the Deepracer Console. You could read that to know the very basics of Deepracer and Reinforcement Learning.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/vaibhav-malpanis-blog/getting-started-with-deepracer-2020-edition-a7896dd07c48",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-29T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/800/0*70d1mypOZTlJ0xsF.jpg",
+          "width": 800,
+          "height": 450,
+          "title": "Getting Started with AWS Deepracer (2020 edition)",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
       ]
     }
   ],

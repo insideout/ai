@@ -8,8 +8,8 @@ ampWebUrl: "https://www.gizmochina.com/2020/02/26/mediatek-announces-helio-p95-w
 cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2020/02/26/mediatek-announces-helio-p95-with-apu-2-0-powervr-gpu-and-more/?amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Gizmochina
@@ -26,6 +26,21 @@ images:
     title: "MediaTek announces Helio P95 with APU 2.0, PowerVR GPU and more"
 
 related:
+  - title: "MediaTek announces the Helio P95 SoC with APU 2.0 AI accelerator, HyperEngine game technology, and more"
+    excerpt: "The MediaTek Helio P95 is a successor to the Helio P90 that was launched back in December 2018 and brings along several improvements across GPU, camera, connectivity, and AI. By and large, the Helio P95 isn’t a drastic upgrade over its predecessor. It continues to employ the same CPU architecture, featuring 2x ARM Cortex-A75 performance cores ..."
+    publishedDateTime: 2020-02-27T08:24:00Z
+    webUrl: "https://www.xda-developers.com/mediatek-helio-p95-soc-apu-20-ai-accelerator-hyperengine-game-technology/"
+    ampWebUrl: "https://www.xda-developers.com/mediatek-helio-p95-soc-apu-20-ai-accelerator-hyperengine-game-technology/amp/"
+    cdnAmpWebUrl: "https://www-xda--developers-com.cdn.ampproject.org/c/s/www.xda-developers.com/mediatek-helio-p95-soc-apu-20-ai-accelerator-hyperengine-game-technology/amp/"
+    type: article
+    provider:
+      name: XDA Developers
+      domain: xda-developers.com
+    quality: 43
+    images:
+      - url: "https://www.xda-developers.com/files/2020/02/helio-p95-feature-810x298_c.jpg"
+        width: 810
+        height: 298
   - title: "MediaTek announces Helio P95 SoC with APU 2.0, PowerVR GM 94446 GPU and more"
     excerpt: "There is an Imagination PowerVR GM 94446 GPU with a 10% improvement in performance over the ... The SoC has a triple ISP with 14-bit RAW and 10-bit YUV processing. It also has AI-camera enhancements such as AI-NR low-light photography, 5-person human ..."
     publishedDateTime: 2020-02-26T21:21:00Z

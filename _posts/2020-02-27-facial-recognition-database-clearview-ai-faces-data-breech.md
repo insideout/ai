@@ -39,6 +39,21 @@ related:
       - url: "https://theintercept.com/wp-uploads/sites/1/2020/02/YotamHadar_TheIntercept_EUv4-still-1582297909.jpg"
         width: 2000
         height: 1000
+  - title: "Yikes! 3 billion images stolen from facial recognition database"
+    excerpt: "Clearview AI, the facial-recognition firm that contracts with law-enforcement agencies, reported its client list data has been breached by an intruder with “unauthorized access.” Careful not to call the breach a hack, the company notified its customers on Wednesday that the intruder stole its list of users, the numbers of accounts tied to ..."
+    publishedDateTime: 2020-02-27T08:00:00Z
+    webUrl: "https://www.tomsguide.com/uk/news/yikes-3-billion-images-stolen-from-facial-recognition-database"
+    ampWebUrl: "https://www.tomsguide.com/uk/amp/news/yikes-3-billion-images-stolen-from-facial-recognition-database"
+    cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/uk/amp/news/yikes-3-billion-images-stolen-from-facial-recognition-database"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 59
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/d3GVUkpobEW7uy8jkkVq94-1200-80.jpg"
+        width: 1200
+        height: 800
   - title: "Editorial: Facial recognition software takes personal invasion into a new dimension"
     excerpt: "Law enforcers around the world are celebrating the rapidly expanding potential of facial recognition software to help them catch criminals faster and solve long-dormant cases. Such capabilities in the right hands could reap enormous public safety dividends. But in the wrong hands, an entirely new dimension in crime, extortion and mayhem could ..."
     publishedDateTime: 2020-02-18T23:02:00Z

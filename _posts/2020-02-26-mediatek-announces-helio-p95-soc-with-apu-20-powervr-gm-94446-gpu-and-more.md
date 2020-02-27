@@ -33,6 +33,21 @@ related:
       - url: "https://www.gizmochina.com/wp-content/uploads/2020/02/Helio-P95.png"
         width: 822
         height: 594
+  - title: "MediaTek announces the Helio P95 SoC with APU 2.0 AI accelerator, HyperEngine game technology, and more"
+    excerpt: "The MediaTek Helio P95 is a successor to the Helio P90 that was launched back in December 2018 and brings along several improvements across GPU, camera, connectivity, and AI. By and large, the Helio P95 isn’t a drastic upgrade over its predecessor. It continues to employ the same CPU architecture, featuring 2x ARM Cortex-A75 performance cores ..."
+    publishedDateTime: 2020-02-27T08:24:00Z
+    webUrl: "https://www.xda-developers.com/mediatek-helio-p95-soc-apu-20-ai-accelerator-hyperengine-game-technology/"
+    ampWebUrl: "https://www.xda-developers.com/mediatek-helio-p95-soc-apu-20-ai-accelerator-hyperengine-game-technology/amp/"
+    cdnAmpWebUrl: "https://www-xda--developers-com.cdn.ampproject.org/c/s/www.xda-developers.com/mediatek-helio-p95-soc-apu-20-ai-accelerator-hyperengine-game-technology/amp/"
+    type: article
+    provider:
+      name: XDA Developers
+      domain: xda-developers.com
+    quality: 43
+    images:
+      - url: "https://www.xda-developers.com/files/2020/02/helio-p95-feature-810x298_c.jpg"
+        width: 810
+        height: 298
 
 secured: "Cmx6i3XlO3GRT37zVPTMh/sAXx60qlwyDy1LsdFERe7YMHDSA6AaHalDGH79ZagaOA2NwnXEJ3T+aA8CIwkcOD9dft6znUy5Q0ePx1BZSPRC+Q9/emZiutK526ZIBiG63A73cEhLrX9T2H4hCgMGs3/hmvMuPSRX3ZCwYwr36Ix5UF2VQg4o3WOhfN8Ffyma0/lfcejJvTB/lFdg/QHc5L+vKuB2BwiT0Z29avvDOTKbs/xvSnC6eLOgqqGHwTTgy0P60xNznVAWNJEWERe+ApPwIsme+gSH5/TgyYHOKloLYFfdSBfAtgJNkx5YX0EI8kC7d8zJVpMg2NacdmGmVfA5tvxC95tKzgU37n0n0j1k1UIcLZXVfYmNl+wHy7sPhiu36frP08zJ5qL2cgXkd9cDXwtSGApGNWaLn0YRksENbw6+i9R1qq/ZJ+LGtVRzcsFEmXAyIWTzoIEp5lHzdpBD95VwRvcuBLG+jB6OQB8=;XxlfYYIThjqwyYbf/tdt+w=="
 ---

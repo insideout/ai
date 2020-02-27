@@ -27,6 +27,19 @@ images:
     title: "Oracle unleashes cloud-based data science platform"
 
 related:
+  - title: "Oracle Unveils New Cloud-Based Platform for Machine Learning Models"
+    excerpt: "The new platform actually comprises seven services, including: Oracle Cloud Infrastructure Data Science: This is the virtual, AI-assisted workbench at the center of the platform, which gives users the ability to build, train, and manage new ML models on Oracle Cloud using Python and such open-source tools and libraries as TensorFlow ..."
+    publishedDateTime: 2020-02-14T19:07:00Z
+    webUrl: "https://adtmag.com/articles/2020/02/14/oracle-machine-learning-platform.aspx"
+    type: article
+    provider:
+      name: adtmag.com
+      domain: adtmag.com
+    quality: 41
+    images:
+      - url: "https://adtmag.com/-/media/ECG/VirtualizationReview/Images/IntroImages2019/RailroadTracksClouds.jpg"
+        width: 647
+        height: 450
   - title: "Everything OK down there in the Oracle trench? Good. Big Red has a cloud-based data science platform for you"
     excerpt: "Meanwhile, H2O.ai launched tools which automate many of the processes in developing machine-learning models in its Driverless AI product in 2017. Microsoft also offers its Azure Machine Learning Studio, which it says streamlines the machine learning lifecycle, from building models to deployment and management. Google and AWS have similar tools."
     publishedDateTime: 2020-02-17T09:30:00Z

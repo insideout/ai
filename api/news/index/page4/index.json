@@ -2,124 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_posts/2020-02-19-eu-plans-european-rival-to-google-with-new-data-and-ai-proposals.md",
-      "title": "EU Plans European Rival To Google With New Data And AI Proposals",
-      "excerpt": "As outlined in two policy documents, the EC is planning to change EU law in order to foster the commercial gathering, sharing and processing of data, as well as the development of AI technology.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/simonchandler/2020/02/19/eu-plans-european-rival-to-google-with-new-data-and-ai-proposals/",
-      "ampWebUrl": "https://www.forbes.com/sites/simonchandler/2020/02/19/eu-plans-european-rival-to-google-with-new-data-and-ai-proposals/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/simonchandler/2020/02/19/eu-plans-european-rival-to-google-with-new-data-and-ai-proposals/amp/",
-      "publishedDateTime": "2020-02-19T05:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1201763571%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "EU Plans European Rival To Google With New Data And AI Proposals",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-19-eu-puts-up-ai-and-data-strategies-with-an-ethical-twist.md",
-      "title": "EU puts up AI and data strategies with an ethical twist",
-      "excerpt": "The European Union (EU) has launched strategies for artificial intelligence (AI) and the “data economy”, with ethics and transparency as watchwords. It has also presented what it calls the “human-centric development of AI” as critical to “fighting climate change”. The European Commission (EC) said in a statement that it favours a ...",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.computerweekly.com/news/252478825/EU-puts-up-AI-and-data-strategies-with-an-ethical-twist",
-      "ampWebUrl": "https://www.computerweekly.com/news/252478825/EU-puts-up-AI-and-data-strategies-with-an-ethical-twist?amp=1",
-      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252478825/EU-puts-up-AI-and-data-strategies-with-an-ethical-twist?amp=1",
-      "publishedDateTime": "2020-02-19T09:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.ttgtmedia.com/visuals/German/EU-european-flags-fotolia.jpg",
-          "width": 1200,
-          "height": 400,
-          "title": "EU puts up AI and data strategies with an ethical twist",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-19-europe-plans-to-strictly-regulate-high-risk-ai-technology.md",
-      "title": "Europe plans to strictly regulate high-risk AI technology",
-      "excerpt": "By Nicholas Wallace Feb. 19, 2020 , 12:05 PM The European Commission today unveiled its plan to strictly regulate artificial intelligence (AI), distinguishing itself from more freewheeling approaches to the technology in the United States and China.",
-      "heat": 149,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.sciencemag.org/news/2020/02/europe-plans-strictly-regulate-high-risk-ai-technology",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-19T10:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science | AAAS",
-        "domain": "sciencemag.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.sciencemag.org/sites/default/files/styles/article_main_large/public/European_AI_Regulation_1280x720.jpg?itok=OAWMDBz_",
-          "width": 1280,
-          "height": 720,
-          "title": "Europe plans to strictly regulate high-risk AI technology",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
       "path": "_posts/2020-02-19-europe-unveils-its-big-ai-strategy-others-are-abusing-ai-that-mustnt-happen-here.md",
       "title": "Europe unveils its big AI strategy: Others are abusing AI. That mustn't happen here",
       "excerpt": "Behind that broad description, the new strategy's objectives are specific: establish rules on data and AI that are quintessentially European – regulation that \"puts people first\" and fosters \"trustworthy technology\". In a white paper on artificial intelligence released as part of the new strategy announcement, the European organisation ...",
@@ -1338,7 +1220,7 @@
       "path": "_posts/2020-02-19-what-explainable-ai-really-means-and-what-it-means-for-your-business-vb-live.md",
       "title": "What explainable AI really means and what it means for your business (VB Live)",
       "excerpt": "White-box AI is getting heaps of attention, in part because it brings business value to customers and companies alike. Learn why businesses are moving away from black box systems to more explainable AI — and what it really means to be explainable — when you catch up on this VB Live event. Access free on demand right here. White box and ...",
-      "heat": 83,
+      "heat": 93,
       "tags": null,
       "type": "article",
       "webUrl": "https://venturebeat.com/2020/02/19/what-explainable-ai-really-means-what-it-means-for-your-business-vb-live/",
@@ -1673,7 +1555,7 @@
       "path": "_posts/2020-02-20-cybermdx-announces-integration-with-microsoft-azure-security-center-for-iot.md",
       "title": "CyberMDX Announces Integration With Microsoft Azure Security Center for IoT",
       "excerpt": "/PRNewswire/ -- CyberMDX, a leading provider of medical cyber security solution, delivering asset visibility and threat prevention for medical devices",
-      "heat": 102,
+      "heat": 112,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.prnewswire.com/news-releases/cybermdx-announces-integration-with-microsoft-azure-security-center-for-iot-301008578.html",
@@ -2093,6 +1975,133 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-20-how-artificial-intelligence-can-help-pick-the-best-depression-treatments-for-you.md",
+      "title": "How Artificial Intelligence Can Help Pick the Best Depression Treatments for You",
+      "excerpt": "But promising new research published in February in Nature Biotechnology suggests that a simple brain test, paired with insights from artificial intelligence (AI), can predict whether an antidepressant will work on a given patient. Trivedi and a team of researchers took data from a previous study in which more than 200 people with depression ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://time.com/5786081/depression-medication-treatment-artificial-intelligence/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-20T05:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Time",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://api.time.com/wp-content/uploads/2020/02/your_brain_knows_the_meds_you_need.jpg",
+          "width": 2400,
+          "height": 1972,
+          "title": "How Artificial Intelligence Can Help Pick the Best Depression Treatments for You",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-20-how-microsoft-365s-new-solution-uses-machine-learning-to-stop-data-leaks-and-insider-attacks.md",
+      "title": "How Microsoft 365’s new solution uses machine learning to stop data leaks and insider attacks",
+      "excerpt": "The post How Microsoft 365’s new solution uses machine learning to stop data leaks and insider attacks appeared first on The AI Blog.\n",
+      "heat": 78,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://blogs.microsoft.com/ai/insider-risk-management-microsoft-365/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-20T05:59:56-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/3/2020/02/insider-risk-04_1200x630.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "How Microsoft 365’s new solution uses machine learning to stop data leaks and insider attacks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-20-ids-nxt-ocean-designed-to-ease-image-processing-for-neural-networks.md",
+      "title": "IDS NXT ocean designed to ease image processing for neural networks",
+      "excerpt": "Among the challenges facing artificial intelligence, robotics, and autonomous vehicle developers is the need to process mages for training neural networks. IDS NXT ocean from Imaging Development Systems GmbH is intended to make it easier for users who are not AI experts to classify images. IDS NXT ocean includes camera hardware, a self ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.therobotreport.com/ids-nxt-ocean-designed-ease-image-processing-neural-networks/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-20T08:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2020/02/ids-nxt-ocean-industrial-cameras-ai-1000x800-02.jpg",
+          "width": 1000,
+          "height": 800,
+          "title": "IDS NXT ocean designed to ease image processing for neural networks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
       ]
     }
   ],
