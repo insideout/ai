@@ -1,27 +1,21 @@
 ---
 category: news
 title: "ROYBI Acquires KidSense.AI, The Leading Speech Recognition AI Platform"
-excerpt: "ROYBI INC, the creator of the Roybi Robot-the world's first AI-powered smart toy that teaches languages and basic STEM skills-has acquired KidSense.AI, the revolutionary technology in children's embedded automatic speech recognition (ASR) and Edge-AI. KidSense.AI, which initially debuted in 2018 at TechCrunch Disrupt, utilizes the fundametals ..."
-publishedDateTime: 2020-02-25T17:29:00Z
-webUrl: "https://www.tmcnet.com/usubmit/-roybi-acquires-kidsenseai-leading-speech-recognition-ai-platform-/2020/02/25/9103933.htm"
+excerpt: "ROYBI INC, the creator of the Roybi Robot —the world's first AI-powered smart toy that teaches languages and basic STEM skills—has acquired KidSense.AI, the revolutionary technology in children’s embedded automatic speech recognition (ASR) and Edge-AI. KidSense.AI, which initially debuted in 2018 at TechCrunch Disrupt, utilizes the ..."
+publishedDateTime: 2020-02-25T17:08:00Z
+webUrl: "https://www.oaoa.com/news/business/article_b81d0415-5476-5f83-94df-9c469bfea642.html"
 type: article
-quality: 54
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Odessa American
+  domain: oaoa.com
 
 topics:
   - AI
   - Natural Language Processing
-
-images:
-  - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
-    width: 252
-    height: 335
-    title: "ROYBI Acquires KidSense.AI, The Leading Speech Recognition AI Platform"
 
 related:
   - title: "Local AI firm builds speech recognition for Kinyarwanda"
@@ -64,6 +58,6 @@ related:
         width: 300
         height: 205
 
-secured: "daxCp5NnarR6cXqDUwSjowbcHezwANQuPuQ/sniYx7V8DsKSjK0jKF60G4TEHj48WWAl3fO3q7+IHCu1FdMtA/xhj5zd84u4fFXCvQCxOLxt0+Hg9ijBSc5/DpBLFxz3GuR0/vW2E5koQnkbWoVMq0eRDCPmGkZdvsDSCDdW2/BIHr0AKqsqjGVZkBgYuyZ12tFiqXXke3KcmSjFzUJU/XAFPck0RU/qArpezIFYY51Ezo4xRTLEDKRbwQ130QzxlM/vntSblXlbSQbi6tKZnPxFgJNnyMrnw8lVUUstwoQN64PV5cHwqKdP/gFzmeLz;peVqyhRNyUoRkvEwcq9SIA=="
+secured: "XxQmK4XrXywzgU0ykbnC5+TGLlsnJZ/9RbtqGOY/yCNAWST4pg0h7dkWcNpyf/a7bZTWraWVu889lHaTWizixzxpT9LRF6hwSwbHXDZSkxf2juTnOgrA8R9d7gQ+G+LRFmXLx2A4ecPNSaJldtdlxzzIncZa7pohh5UTkzaoVIGCSEjCZu3VP0mgCfqpvSqXMVNgMuGdTF1+GZfvwD0+ZNPTKELvlR2i25P/pls7eWo97L7q51HCtggAogAFve8seZC890yabz5wpPEeovvz6Dkoe8vpbCq7WWan8480BMmhmA/G1yDwE99buwTibqhy;pJGs5Vv6PVXAKbFWaqFUxg=="
 ---
 

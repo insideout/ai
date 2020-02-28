@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Police board knew about facial recognition pilot, acting chair says"
-excerpt: "Questions about the Ottawa police pilot of facial recognition software continued to swirl Monday as two police board members questioned the force on what its plans were for the controversial technology amid the revelation that the board knew about the pilot. Indeed, acting chair Sandy Smallwood said that the board was informed of the pilot at ..."
-publishedDateTime: 2020-02-25T03:00:00Z
-webUrl: "https://ottawacitizen.com/news/local-news/police-board-knew-about-facial-recognition-pilot-acting-chair-says"
-ampWebUrl: "https://ottawacitizen.com/news/local-news/police-board-knew-about-facial-recognition-pilot-acting-chair-says/amp"
-cdnAmpWebUrl: "https://ottawacitizen-com.cdn.ampproject.org/c/s/ottawacitizen.com/news/local-news/police-board-knew-about-facial-recognition-pilot-acting-chair-says/amp"
+title: "RCMP acknowledges using facial recognition technology, but won't say where"
+excerpt: "The RCMP has for the first time acknowledged using controversial facial recognition technology that has raised privacy concerns, saying it was used in the Mounties' efforts to crack down on online child sexual abuse. The RCMP acknowledged use of Clearview AI's facial recognition technology in a statement Thursday, detailing its use to rescue ..."
+publishedDateTime: 2020-02-28T01:07:00Z
+webUrl: "https://www.cbc.ca/news/politics/clearview-ai-rcmp-facial-recognition-1.5479098"
+ampWebUrl: "https://www.cbc.ca/amp/1.5479098"
+cdnAmpWebUrl: "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.5479098"
 type: article
-quality: 74
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Ottawa Citizen
-  domain: ottawacitizen.com
+  name: CBC.ca
+  domain: www.cbc.ca
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: "https://postmediaottawacitizen2.files.wordpress.com/2020/01/76459938-13306503-w-1.jpg"
-    width: 1000
-    height: 750
-    title: "Police board knew about facial recognition pilot, acting chair says"
+  - url: "https://i.cbc.ca/1.5455565.1581080279!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/facial-recognition-technology.jpg"
+    width: 620
+    height: 349
+    title: "RCMP acknowledges using facial recognition technology, but won't say where"
 
 related:
   - title: "Met police chief: facial recognition technology critics are ill-informed"
@@ -86,6 +86,21 @@ related:
       - url: "https://images.wsj.net/im-156193/social"
         width: 1280
         height: 640
+  - title: "Police board knew about facial recognition pilot, acting chair says"
+    excerpt: "Questions about the Ottawa police pilot of facial recognition software continued to swirl Monday as two police board members questioned the force on what its plans were for the controversial technology amid the revelation that the board knew about the pilot. Indeed, acting chair Sandy Smallwood said that the board was informed of the pilot at ..."
+    publishedDateTime: 2020-02-25T03:00:00Z
+    webUrl: "https://ottawacitizen.com/news/local-news/police-board-knew-about-facial-recognition-pilot-acting-chair-says"
+    ampWebUrl: "https://ottawacitizen.com/news/local-news/police-board-knew-about-facial-recognition-pilot-acting-chair-says/amp"
+    cdnAmpWebUrl: "https://ottawacitizen-com.cdn.ampproject.org/c/s/ottawacitizen.com/news/local-news/police-board-knew-about-facial-recognition-pilot-acting-chair-says/amp"
+    type: article
+    provider:
+      name: Ottawa Citizen
+      domain: ottawacitizen.com
+    quality: 74
+    images:
+      - url: "https://postmediaottawacitizen2.files.wordpress.com/2020/01/76459938-13306503-w-1.jpg"
+        width: 1000
+        height: 750
   - title: "Police board knew about facial recognition pilot project, acting chair says"
     excerpt: "Questions about the Ottawa police pilot of facial recognition software continued to swirl Monday as two police board members questioned the force on what its plans were for the controversial technology amid the revelation that the board knew about the pilot. Indeed, acting chair Sandy Smallwood said that the board was informed of the pilot at ..."
     publishedDateTime: 2020-02-25T18:32:00Z
@@ -266,21 +281,6 @@ related:
       - url: "https://diginomica.com/sites/default/files/images/2020-02/6DF1B4AD-D5A4-4EE5-AA27-C5C738AE65F3.jpeg"
         width: 640
         height: 493
-  - title: "RCMP acknowledges using facial recognition technology, but won't say where"
-    excerpt: "The RCMP has for the first time acknowledged using controversial facial recognition technology that has raised privacy concerns, saying it was used in the Mounties' efforts to crack down on online child sexual abuse. The RCMP acknowledged use of Clearview AI's facial recognition technology in a statement Thursday, detailing its use to rescue ..."
-    publishedDateTime: 2020-02-28T01:07:00Z
-    webUrl: "https://www.cbc.ca/news/politics/clearview-ai-rcmp-facial-recognition-1.5479098"
-    ampWebUrl: "https://www.cbc.ca/amp/1.5479098"
-    cdnAmpWebUrl: "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.5479098"
-    type: article
-    provider:
-      name: CBC.ca
-      domain: www.cbc.ca
-    quality: 57
-    images:
-      - url: "https://i.cbc.ca/1.5455565.1581080279!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/facial-recognition-technology.jpg"
-        width: 620
-        height: 349
   - title: "Facial recognition software used by Waterloo Regional Police Service in past"
     excerpt: "The Waterloo Regional Police Service says it used facial recognition technology 'on a very limited basis' in 2019, but Chief Bryan Larkin says it won't be used going forward until more is known about how it works and there's a policy in place for its use."
     publishedDateTime: 2020-02-20T12:30:00Z
@@ -628,6 +628,6 @@ related:
       domain: seattletimes.com
     quality: 0
 
-secured: "UyEMFKq1u59uQWaKRCb4vs+LopWwXzBfabfZ/ojvn62rwKh1ijMI8dC1WWy+tv+S8SBqPqWUkQhK7Hn7HnO9ggJSJt34Y800a6IHmb66OlHfbYauLy5MjYwItreGCT6gwQREIyUKdAc+DtsFqVT2xHykmroJqM76ldIyvloAXw1mC5xxRzhiFbcynS7XMo43ytYZOsa+CbP7zoQo/1p0sbcFLXVRXN0LRDH9mAg8k3wNLT9U4faDBN5Amu4NQW56jmwlBbidULc4HPVDDmtvesNDaaRIVuQSEDx2tuyx9VNAZTsTvx4RSoHtKutpH2gW;7g+vz9BGWGuHKUxufJccHA=="
+secured: "3dHTdjEfs45pPnno5sIdtbDgJWGYff2EDRpimkMmZWCBlEv35WdBfBBE+Ll/2E7tPbBtIAbPLN0zvt+hbvADJ9uGgyP2Oip51H7GiV0EpeFfwjc7tClLf+MkFtSJ9FB1AA0vQUpTlqdUizubOREwfOJH6us4M6RJ/OPgRNq19oJNF0W/uCLw7En9RHTmwXmLfchxtBAz2d0W31I8hyo/PWS3X+cpO1rmsM6+CpJGVLFL95Gt2pdWtlBa/1q75wRm6gGixUfNM408iLsvYvxAVYwrPEJgHefiSRJ7LeKPwuFWk3NUyrkITQCxjST1eBlc;lYM/SJmAl7nVjJjLn/TubQ=="
 ---
 

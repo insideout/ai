@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Orthogonal Representations of Object Shape and Category in Deep Convolutional Neural Networks and Human Visual Cortex"
-excerpt: "Deep Convolutional Neural Networks (CNNs) are gaining traction as the benchmark model of visual object recognition, with performance now surpassing humans. While CNNs can accurately assign one image to potentially thousands of categories, network performance could be the result of layers that are tuned to represent the visual shape of objects ..."
+excerpt: "Deep Convolutional Neural Networks (CNNs) are gaining traction as the benchmark model of visual object recognition, with performance now surpassing humans. While CNNs can accurately assign one image to potentially thousands of categories, network ..."
 publishedDateTime: 2020-02-12T10:21:00Z
 webUrl: "https://www.nature.com/articles/s41598-020-59175-0"
 type: article
@@ -23,6 +23,6 @@ images:
     height: 626
     title: "Orthogonal Representations of Object Shape and Category in Deep Convolutional Neural Networks and Human Visual Cortex"
 
-secured: "2pzAmxDyz/XCUaR9T/ktPHSJqA/Lkk3BQJpNbuvQzykRV6TZZfWD63+QxoerdbruY4ON0TBd64IsLfuzt/UU31v3abPUyTzk0P5jeU7WcwK4H7sg+AqiTiTN9kR2xv5n1wpn+hvCtq1ihjYHJIOLVLRa79HqqyRxMP+ozHBpW8010/Rd9TJ7ZrSfCHA4EcHB/Bdn2O6dHY0N9mK2GyqXUQq194h/Gwb8W60XD+yK4D4lj1b9zxp+Ep1qdrOqwOAUhofapKv3jkxqfqz4Pp3sVDIIxdgNFDp4l/KfNFnvFHnk/pN7fKmvP0tU3INvr4yf;re42sPTnZzSVNKYlPDUyUw=="
+secured: "JJn+brPerfUfc2WnFSyfGe3RN17VmvzZeX6YzKEWuGSWhseNdYb/XwROsiYBPvT9ViHy9Wt2LNJN3kH9ASA+uvdNSFBJ8DGi3PIiVC71Y1YpStdBhhzZxYfXjOEv32UFdhbgyWCT2rhf5Dd7hKFvMQezHAnpxEbWdlfiYtI+nEWap7WHMeEQGQLWd1roh7ljy/UukNbzqxmCjJ23bNKAPmsELSoec3PdmIKsQi7V8BYFIlQcLDKTYq0DVdRBDlp7sVQrprgB1RD9u+dwkb7eA+fKv45r0urSPfEZK6Fx600i1DfRQaggKYIU1pQ0RuLm;I0QZ6F7hloJdKk6X55okvg=="
 ---
 

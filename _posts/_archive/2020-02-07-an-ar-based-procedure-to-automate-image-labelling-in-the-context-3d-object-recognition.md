@@ -38,6 +38,6 @@ related:
       domain: ulster.ac.uk
     quality: 19
 
-secured: "hCD9ZJUclS9ioialFSI3ZXo3XbUIVRdg6lSkUf5Zk7YzahwcqFcW4pGIxGJtGIXfxXhNtsyaqOicuxx6Ch2hprcwXU6uhcKZ676XFa9YggfI6eyV0icXA9sXE3d0Ln9ZCbnfEhKuWCg0oWG0W5m1UgRH6PtOvo9xVVu/vQAzP8LROb1nHXMlU+ZfXeRod7vim6CUUy3rAUw68zdeXpAYdN+7kXlfG95lr0Lcka2Rdn8/FW/KAg6ald3nXLo2+eF6z++uJNzdIBTT03ZMDlIdte91JBQdRVk3CsTgWXuc8TDEIoBIcjff5W8MpG9tthKc;qMb8jwMQqolmhIIhM1y5Ig=="
+secured: "RQyJN5qtN31wYuZ7KAe2wghIe+jWkLF6QsTa2VdSC2nUMGKBGeRiTnvnLMbsmqzplmyTyOiVZ9nu/wg9tD8dPYDjBQSa5L5pa4cOSK8N1LilAXkUmxrKmhM0Jr1qG5qM8qdO9UMpIyG24UmFPoEv0w5umue9TqT4ACUEFMNZf0A9B/qMGtb/GBthMoidfbIYXKt/pXjoH/CxFtm/X+e9exu59F9/pBtvXzygVDA6SWDvYflPZluONxDoeM/QBw+/ueL/5IeUT0oqpElUr8ccXSy+IH/1JIIX2Q7dte3mvSAln/kdX7ydZUuxySn9shzT;PahyyLSp1h3vcMBzaGzU+Q=="
 ---
 

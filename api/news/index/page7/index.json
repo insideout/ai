@@ -564,43 +564,6 @@
       ]
     },
     {
-      "path": "_posts/2020-02-25-springfield-city-council-passes-facial-recognition-moratorium.md",
-      "title": "Springfield City Council passes facial recognition moratorium",
-      "excerpt": "The Springfield City Council on Monday passed a moratorium on the local government’s use of facial recognition technology, a controversial piece of software many view as inaccurate and invasive. The measure, introduced to the legislative body by Springfield City Councilor Orlando Ramos in January, will now go to the office of Mayor Domenic ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.masslive.com/springfield/2020/02/springfield-city-council-passes-facial-recognition-moratorium.html",
-      "ampWebUrl": "https://www.masslive.com/springfield/2020/02/springfield-city-council-passes-facial-recognition-moratorium.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/springfield/2020/02/springfield-city-council-passes-facial-recognition-moratorium.html?outputType=amp",
-      "publishedDateTime": "2020-02-25T07:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MassLive",
-        "domain": "masslive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/JVIE67LBINDLDJGZ24BBA3MN3A.jpeg",
-          "width": 4928,
-          "height": 3264,
-          "title": "Springfield City Council passes facial recognition moratorium",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_posts/2020-02-25-startup-malaise-startup-ambition.md",
       "title": "Startup malaise, startup ambition",
       "excerpt": "In spite of a spate of massive startup exits the last few months ... What if we could instantly and easily build best-of-breed AI models to solve even our simplest decision-making problems?",
@@ -2131,6 +2094,50 @@
         "AI",
         "IBM AI",
         "Google AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-26-researchers-find-way-to-boost-self-supervised-ai-models-robustness.md",
+      "title": "Researchers find way to boost self-supervised AI models’ robustness",
+      "excerpt": "In self-supervised learning, an AI technique where the training data is automatically labeled by a feature extractor, the said extractor not uncommonly exploits low-level features (known as “shortcuts”) that cause it to ignore useful representations. In search of a technique that might help to remove those shortcuts autonomously ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/26/researchers-method-improving-self-supervised-ai-model-robustness/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/26/researchers-method-improving-self-supervised-ai-model-robustness/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/26/researchers-method-improving-self-supervised-ai-model-robustness/amp/",
+      "publishedDateTime": "2020-02-26T08:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/2053dde0-ac3e-444d-af1b-67b978e397dc-1-e1582734322714.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Researchers find way to boost self-supervised AI models’ robustness",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

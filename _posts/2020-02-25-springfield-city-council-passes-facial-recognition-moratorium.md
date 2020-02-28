@@ -8,8 +8,8 @@ ampWebUrl: "https://www.masslive.com/springfield/2020/02/springfield-city-counci
 cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/springfield/2020/02/springfield-city-council-passes-facial-recognition-moratorium.html?outputType=amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: MassLive
@@ -26,21 +26,6 @@ images:
     title: "Springfield City Council passes facial recognition moratorium"
 
 related:
-  - title: "Springfield, Mass., OKs Facial Recognition Moratorium"
-    excerpt: "(TNS) — The Springfield City Council on Monday passed a moratorium on the local government’s use of facial recognition technology, a controversial piece of software many view as inaccurate and invasive. The measure, introduced to the legislative body by Springfield City Councilor Orlando Ramos in January, will now go to Mayor Domenic Sarno ..."
-    publishedDateTime: 2020-02-25T22:40:00Z
-    webUrl: "https://www.govtech.com/public-safety/Springfield-Mass-OKs-Facial-Recognition-Moratorium.html"
-    ampWebUrl: "https://www.govtech.com/public-safety/Springfield-Mass-OKs-Facial-Recognition-Moratorium.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Springfield-Mass-OKs-Facial-Recognition-Moratorium.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://media2.govtech.com/images/shutterstock_1168761391.jpg"
-        width: 940
-        height: 627
   - title: "Vuzix integrates TensorMark’s AI, computer vision tech for facial recognition in AR smart glasses"
     excerpt: "The company has been actively working on building an interface tailored to the Vuzix Blade Smart Glasses so that it makes use of device characteristics, such as the color display and on-board camera, to embed facial and object recognition. The technology will allow customers to identify countless facial and object images located in a cloud ..."
     publishedDateTime: 2020-02-18T17:33:00Z

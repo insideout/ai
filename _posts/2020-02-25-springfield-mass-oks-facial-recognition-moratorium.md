@@ -26,34 +26,21 @@ images:
     title: "Springfield, Mass., OKs Facial Recognition Moratorium"
 
 related:
-  - title: "Springfield City Council passes facial recognition moratorium"
-    excerpt: "The Springfield City Council on Monday passed a moratorium on the local government’s use of facial recognition technology, a controversial piece of software many view as inaccurate and invasive. The measure, introduced to the legislative body by Springfield City Councilor Orlando Ramos in January, will now go to the office of Mayor Domenic ..."
-    publishedDateTime: 2020-02-25T15:58:00Z
-    webUrl: "https://www.masslive.com/springfield/2020/02/springfield-city-council-passes-facial-recognition-moratorium.html"
-    ampWebUrl: "https://www.masslive.com/springfield/2020/02/springfield-city-council-passes-facial-recognition-moratorium.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/springfield/2020/02/springfield-city-council-passes-facial-recognition-moratorium.html?outputType=amp"
+  - title: "ICE warrantless facial recognition searches trigger Maryland bill"
+    excerpt: "Cortez spoke today in the Maryland General Assembly in favor of a bill that requires ICE obtain a warrant from a judge before the agency can use facial recognition to search the Maryland Image Repository System or MRS. Maryland began to issue driver’s licenses to immigrants in 2013. On Wednesday, the Washington Post reported that ICE searched ..."
+    publishedDateTime: 2020-02-28T00:54:00Z
+    webUrl: "https://venturebeat.com/2020/02/27/ice-warrantless-facial-recognition-searches-trigger-maryland-bill/"
+    ampWebUrl: "https://venturebeat.com/2020/02/27/ice-warrantless-facial-recognition-searches-trigger-maryland-bill/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/27/ice-warrantless-facial-recognition-searches-trigger-maryland-bill/amp/"
     type: article
     provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 59
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
     images:
-      - url: "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/JVIE67LBINDLDJGZ24BBA3MN3A.jpeg"
-        width: 4928
-        height: 3264
-  - title: "Vuzix integrates TensorMark’s AI, computer vision tech for facial recognition in AR smart glasses"
-    excerpt: "The company has been actively working on building an interface tailored to the Vuzix Blade Smart Glasses so that it makes use of device characteristics, such as the color display and on-board camera, to embed facial and object recognition. The technology will allow customers to identify countless facial and object images located in a cloud ..."
-    publishedDateTime: 2020-02-18T17:33:00Z
-    webUrl: "https://www.biometricupdate.com/202002/vuzix-integrates-tensormarks-ai-computer-vision-tech-for-facial-recognition-in-ar-smart-glasses"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 56
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/03/15194350/artificial-intelligence.jpg"
-        width: 660
-        height: 300
+      - url: "https://venturebeat.com/wp-content/uploads/2020/01/GettyImages-1181457356.jpg?fit=2215%2C1353&strip=all"
+        width: 2215
+        height: 1353
 
 secured: "owbEGUSU7WY3ibPDNUWqZtQLiio1VNGglltzgtDSCyLYZgzkvs1g1WfxXypkl90nv9kucnHLyBIelVlC0vFe4DC2S/s6TIM2VZvVx9ly508Wc9OLKIRYEx5u1ggavKBgUi6LWTT+aoAjkfC/p91ENBFk55Ct/9eUQHhb2wi9VXBTU0yaht+8dnhcpmLDPYGDtA7ukfuXHPWSkU/f2xLXHyFnTFLfNU5FkfscrQBzTkmcDkLqmszrCPe9RnaZcQ223bglKF/VLR3FLVlLXdZA+o7LoxmO4FbR3e19LLR70wuBD+N29stLvyeOfDnaUoBawNUa7Gzb8C8/eObrgNcS5kVUILZIEg/4AFWAkd6koJxLIzdP7uxN4P46G7oIeMJQvx6DBtdWBSodpDUnLqS5tGk1Lkgbjryj3LSE9bW+n5ymVNcjgtdUrRJwVE4zhf8oOzMAVZiS8m3CZ5R+iHWw9PJZH3k7CYCgqSzMG6zTPVM=;IEwAQkBncigkR9zsXgZrvw=="
 ---

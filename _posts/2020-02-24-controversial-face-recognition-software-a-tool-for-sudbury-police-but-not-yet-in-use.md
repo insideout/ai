@@ -41,6 +41,21 @@ related:
       - url: "https://i.kinja-img.com/gawker-media/image/upload/s--WWpD68bj--/c_scale,f_auto,fl_progressive,q_80,w_800/uuy0qsq0x4gxglqws210.jpg"
         width: 800
         height: 450
+  - title: "TOM LEONARD: New facial recognition program can identify you with chilling consequences for freedom"
+    excerpt: "This week it emerged that the entire client list of secretive New York company Clearview AI — the firm behind this controversial facial recognition system — had been stolen by someone who ‘gained unauthorised access’ to documents and data. In a notification sent to customers that was obtained by the Daily Beast website, it said the ..."
+    publishedDateTime: 2020-02-28T00:51:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-8053979/TOM-LEONARD-New-facial-recognition-program-identify-chilling-consequences-freedom.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-8053979/amp/TOM-LEONARD-New-facial-recognition-program-identify-chilling-consequences-freedom.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-8053979/amp/TOM-LEONARD-New-facial-recognition-program-identify-chilling-consequences-freedom.html"
+    type: article
+    provider:
+      name: Mail Online
+      domain: dailymail.co.uk
+    quality: 45
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2020/02/28/00/25297746-0-image-a-54_1582851079062.jpg"
+        width: 636
+        height: 382
   - title: "Ohio’s controversial facial-recognition database to get $21.4 million update, AG Dave Yost says"
     excerpt: "COLUMBUS, Ohio — The state of Ohio is spending $21.4 million to revamp its controversial facial-recognition software next year to better identify suspects and missing persons by matching their photos with updated driver’s license and mug-shot pictures, Attorney General Dave Yost announced Thursday. The announcement came as a task force ..."
     publishedDateTime: 2020-02-20T18:14:00Z

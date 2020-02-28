@@ -39,21 +39,6 @@ related:
       - url: "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/JVIE67LBINDLDJGZ24BBA3MN3A.jpeg"
         width: 4928
         height: 3264
-  - title: "Springfield, Mass., OKs Facial Recognition Moratorium"
-    excerpt: "(TNS) — The Springfield City Council on Monday passed a moratorium on the local government’s use of facial recognition technology, a controversial piece of software many view as inaccurate and invasive. The measure, introduced to the legislative body by Springfield City Councilor Orlando Ramos in January, will now go to Mayor Domenic Sarno ..."
-    publishedDateTime: 2020-02-25T22:40:00Z
-    webUrl: "https://www.govtech.com/public-safety/Springfield-Mass-OKs-Facial-Recognition-Moratorium.html"
-    ampWebUrl: "https://www.govtech.com/public-safety/Springfield-Mass-OKs-Facial-Recognition-Moratorium.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Springfield-Mass-OKs-Facial-Recognition-Moratorium.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://media2.govtech.com/images/shutterstock_1168761391.jpg"
-        width: 940
-        height: 627
 
 secured: "Ea9OM614m5oOLCYUaCGqbYgb15C8URMvbu6zwU+HEoLXIGcgoV6VZTNnC8dQwJvESN+9Amm5zI2JMQng0iiSiDFjMVZZPozxm1oUDiQF7s1zrQU+WV1VUoj2iod/J3N35h3IFWQ8tsIZ5qyI1QfU25vmg0LaP+xmbQi2Pk8boB9PU42FV72s/uhvmkNjC4kzCrNIquke81HWpkoMKSz2XU7NaGzCwUp7oTLz5g7UCaCOfUJiL7QsuJ4sYtajFOrIZevo9le10HgtHOSgh0DVGJqQ53qWCjzD09DiEBkbcjoyftDFzAQz1mJ/tUp1KnnCHQzvhBbnEKicYoVE1abXcM9Gyrweo2AoHZUnWVi6H8SSX9nkxDYyUf/Ie2ZdQ52FRrtdouKJs9yDfjBjwgP33Bpjj3/nkTgEu7jDnbA6cdDweS9Ln79+XTTD3KAggH6GvoPzkUnLFiBNKlMqpsBC6Cekitqwgfcf0JqPefrnjgg=;crOigGaxfhsFNs+lWeuixA=="
 ---

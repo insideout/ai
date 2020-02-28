@@ -281,6 +281,21 @@ related:
       - url: "https://diginomica.com/sites/default/files/images/2020-02/6DF1B4AD-D5A4-4EE5-AA27-C5C738AE65F3.jpeg"
         width: 640
         height: 493
+  - title: "RCMP acknowledges using facial recognition technology, but won't say where"
+    excerpt: "The RCMP has for the first time acknowledged using controversial facial recognition technology that has raised privacy concerns, saying it was used in the Mounties' efforts to crack down on online child sexual abuse. The RCMP acknowledged use of Clearview AI's facial recognition technology in a statement Thursday, detailing its use to rescue ..."
+    publishedDateTime: 2020-02-28T01:07:00Z
+    webUrl: "https://www.cbc.ca/news/politics/clearview-ai-rcmp-facial-recognition-1.5479098"
+    ampWebUrl: "https://www.cbc.ca/amp/1.5479098"
+    cdnAmpWebUrl: "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.5479098"
+    type: article
+    provider:
+      name: CBC.ca
+      domain: www.cbc.ca
+    quality: 57
+    images:
+      - url: "https://i.cbc.ca/1.5455565.1581080279!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/facial-recognition-technology.jpg"
+        width: 620
+        height: 349
   - title: "Cressida Dick: Facial recognition critics should face up to victims of crime"
     excerpt: "Privacy concerns over live facial recognition are ‘much smaller’ than the need to protect the public from ‘a knife through the chest’, Britain’s most senior police officer has said. Metropolitan Police Commissioner Dame Cressida Dick told a conference in Whitehall that critics of the use of such technology would need to justify to ..."
     publishedDateTime: 2020-02-24T17:36:00Z

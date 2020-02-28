@@ -1,35 +1,46 @@
 ---
 category: news
-title: "Data Breach at Controversial Face Recognition Firm Shows Company Can't Be Trusted, Officials Say"
-excerpt: "A security breach at a face-recognition startup, already embattled over its unfettered collection of Americans’ personal data on behalf of its hundreds of law enforcement clients, further underscores the potential hazards faced by consumers at the hands of a controversial and largely-unregulated surveillance technology, federal officials said ..."
-publishedDateTime: 2020-02-27T08:09:00Z
-webUrl: "https://gizmodo.com/data-breach-at-controversial-face-recognition-firm-show-1841938311"
-ampWebUrl: "https://gizmodo.com/data-breach-at-controversial-face-recognition-firm-show-1841938311/amp"
-cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/data-breach-at-controversial-face-recognition-firm-show-1841938311/amp"
+title: "TOM LEONARD: New facial recognition program can identify you with chilling consequences for freedom"
+excerpt: "This week it emerged that the entire client list of secretive New York company Clearview AI — the firm behind this controversial facial recognition system — had been stolen by someone who ‘gained unauthorised access’ to documents and data. In a notification sent to customers that was obtained by the Daily Beast website, it said the ..."
+publishedDateTime: 2020-02-28T00:51:00Z
+webUrl: "https://www.dailymail.co.uk/news/article-8053979/TOM-LEONARD-New-facial-recognition-program-identify-chilling-consequences-freedom.html"
+ampWebUrl: "https://www.dailymail.co.uk/news/article-8053979/amp/TOM-LEONARD-New-facial-recognition-program-identify-chilling-consequences-freedom.html"
+cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-8053979/amp/TOM-LEONARD-New-facial-recognition-program-identify-chilling-consequences-freedom.html"
 type: article
-quality: 76
-heat: 116
-published: true
+quality: 45
+heat: -1
+published: false
 
 provider:
-  name: Gizmodo
-  domain: gizmodo.com
-  images:
-    - url: "/assets/images/organizations/gizmodo.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Mail Online
+  domain: dailymail.co.uk
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: "https://i.kinja-img.com/gawker-media/image/upload/s--WWpD68bj--/c_scale,f_auto,fl_progressive,q_80,w_800/uuy0qsq0x4gxglqws210.jpg"
-    width: 800
-    height: 450
-    title: "Data Breach at Controversial Face Recognition Firm Shows Company Can't Be Trusted, Officials Say"
+  - url: "https://i.dailymail.co.uk/1s/2020/02/28/00/25297746-0-image-a-54_1582851079062.jpg"
+    width: 636
+    height: 382
+    title: "TOM LEONARD: New facial recognition program can identify you with chilling consequences for freedom"
 
 related:
+  - title: "Data Breach at Controversial Face Recognition Firm Shows Company Can't Be Trusted, Officials Say"
+    excerpt: "A security breach at a face-recognition startup, already embattled over its unfettered collection of Americans’ personal data on behalf of its hundreds of law enforcement clients, further underscores the potential hazards faced by consumers at the hands of a controversial and largely-unregulated surveillance technology, federal officials said ..."
+    publishedDateTime: 2020-02-27T08:09:00Z
+    webUrl: "https://gizmodo.com/data-breach-at-controversial-face-recognition-firm-show-1841938311"
+    ampWebUrl: "https://gizmodo.com/data-breach-at-controversial-face-recognition-firm-show-1841938311/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/data-breach-at-controversial-face-recognition-firm-show-1841938311/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 76
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/s--WWpD68bj--/c_scale,f_auto,fl_progressive,q_80,w_800/uuy0qsq0x4gxglqws210.jpg"
+        width: 800
+        height: 450
   - title: "Controversial face recognition software a 'tool' for Sudbury police, but not yet in use"
     excerpt: "As Canada's privacy commissioner says he will begin investigating concerns around Clearview AI, police in Sudbury say they have not yet used the controversial face recognition software. The powerful new app can identify a person's name, phone number and even their address by comparing their photo to a database of billions of images scraped from ..."
     publishedDateTime: 2020-02-24T16:55:00Z
@@ -45,21 +56,6 @@ related:
       - url: "https://i.cbc.ca/1.5403918.1581719698!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/china-security.JPG"
         width: 620
         height: 349
-  - title: "TOM LEONARD: New facial recognition program can identify you with chilling consequences for freedom"
-    excerpt: "This week it emerged that the entire client list of secretive New York company Clearview AI — the firm behind this controversial facial recognition system — had been stolen by someone who ‘gained unauthorised access’ to documents and data. In a notification sent to customers that was obtained by the Daily Beast website, it said the ..."
-    publishedDateTime: 2020-02-28T00:51:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-8053979/TOM-LEONARD-New-facial-recognition-program-identify-chilling-consequences-freedom.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-8053979/amp/TOM-LEONARD-New-facial-recognition-program-identify-chilling-consequences-freedom.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-8053979/amp/TOM-LEONARD-New-facial-recognition-program-identify-chilling-consequences-freedom.html"
-    type: article
-    provider:
-      name: Mail Online
-      domain: dailymail.co.uk
-    quality: 45
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/02/28/00/25297746-0-image-a-54_1582851079062.jpg"
-        width: 636
-        height: 382
   - title: "Ohio’s controversial facial-recognition database to get $21.4 million update, AG Dave Yost says"
     excerpt: "COLUMBUS, Ohio — The state of Ohio is spending $21.4 million to revamp its controversial facial-recognition software next year to better identify suspects and missing persons by matching their photos with updated driver’s license and mug-shot pictures, Attorney General Dave Yost announced Thursday. The announcement came as a task force ..."
     publishedDateTime: 2020-02-20T18:14:00Z
@@ -85,6 +81,6 @@ related:
       domain: gizmodo.com.au
     quality: 4
 
-secured: "Ok2tJxtTeCIRz5dpKR9f+/MytB+7515/srSP/NuuuGr+5Fx+l/KYg56o07YhpgY+VtnxWYD85lJgFSPdETVV9jzSOuoCh3bmGjJEpQ0ZWxi8yWUKDEYwEbdwDznF6AUaE7MSmPPxaPXyZEkCdgjjgHOrgW82Vg6ItTr/xgeuJ2QXwMrTvHClFsmqhErLgMZG1rCNgR7o6bGaIeJrabwGByRCCqQXf+/UaigqA7tY/QTIpxROjXmOHlcHNmjrNDzb1sftI6Ie0k1y/24wDxII+5RhgnsJslATbauDkDM0i4it+i4KZpbUXlUlCPXFeGDRlpxiFIZFhMEn/rzd7js+BRtGrXPv4Bo8hxfyDzmRQ74M/poUl3pbcCZYSAS1oLaO6QnIvAnWcvmaHlKEonc0oXacA0fk7upCS4GfTos9oAwpBYgQBW1c5mKrHj9pkiIgpW8p7U3ARf6nxwdBISyB454raw2n4yV+XUuwB0623No=;QZaxMRKj4Firi3zHCkh+lw=="
+secured: "WHj4YdHaBjIij4VzRiv01UnGnzFaQ4wjtyQHRXtO9bHDuLqtkvq9XHXPQhAbVGpuLubezlX5wug/kYzwo8YDSU8SyixmTMyd3yI+FbVy/xTp9k548IXPsByF6PvBJNHv3SgAE3D7Ac52ufI++XvFxSreXF7mMh2QFQID5BCNTfmbCckKtjP8zW6gj2t0lDEqkB4nMlH5eudZ/U3BakAxgr9LobczSc+aCtUwezU1dPCDWh9GcthYTCrQvVyLdutSa7xUNkyM6qexBc+xzOoIH0dWcD1/z8pSYUbvJ7AgkQlSsTmVbKr6SD6SwWhP59bY;U2uxe5zrrcfhAQoVPpEhTA=="
 ---
 

@@ -56,6 +56,21 @@ related:
       - url: "https://i.cbc.ca/1.5403918.1581719698!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/china-security.JPG"
         width: 620
         height: 349
+  - title: "TOM LEONARD: New facial recognition program can identify you with chilling consequences for freedom"
+    excerpt: "This week it emerged that the entire client list of secretive New York company Clearview AI — the firm behind this controversial facial recognition system — had been stolen by someone who ‘gained unauthorised access’ to documents and data. In a notification sent to customers that was obtained by the Daily Beast website, it said the ..."
+    publishedDateTime: 2020-02-28T00:51:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-8053979/TOM-LEONARD-New-facial-recognition-program-identify-chilling-consequences-freedom.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-8053979/amp/TOM-LEONARD-New-facial-recognition-program-identify-chilling-consequences-freedom.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-8053979/amp/TOM-LEONARD-New-facial-recognition-program-identify-chilling-consequences-freedom.html"
+    type: article
+    provider:
+      name: Mail Online
+      domain: dailymail.co.uk
+    quality: 45
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2020/02/28/00/25297746-0-image-a-54_1582851079062.jpg"
+        width: 636
+        height: 382
   - title: "Data Breach At Controversial Face Recognition Firm Shows Company Can't Be Trusted, U.S. Officials Say"
     excerpt: "(Photo: Chip Somodevilla (Getty) A security breach at a face-recognition startup, already embattled over its unfettered collection of Americans’ personal data on behalf of its hundreds of U.S. law enforcement clients, further underscores the potential hazards faced by consumers at the hands of a controversial and largely-unregulated ..."
     publishedDateTime: 2020-02-26T21:14:00Z
