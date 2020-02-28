@@ -184,6 +184,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Self-Driving Car Market 2020: Global Key Players, Trends, Share, Industry Size, Segmentation, Opportunities, Forecast To 2026"
+    excerpt: "Introduction Self-Driving Car Market The market research Self-Driving Car report offers an in-depth analysis of"
+    publishedDateTime: 2020-02-14T06:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-2020-global-key-players-trends-share-industry-size-segmentation-opportunities-forecast-to-2026-2020-02-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 27
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Global Natural Language Processing Market 2020-2025 Current Trends, High Demand, Benefits, Key Country Analysis and Business Opportunity"
     excerpt: "Market Overview The Natural Language Processing Market was valued at USD 6.94 billion in 2019 and is expected to reach USD 23.47 billion by 2025, at a CAGR of 22.5% over the forecast period 2020 - 2025."
     publishedDateTime: 2020-02-18T07:14:00Z

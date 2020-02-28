@@ -1,21 +1,27 @@
 ---
 category: news
 title: "UN disarmament chief warns of 'dark side' of AI, as Liberals tout benefits"
-excerpt: "OTTAWA — The United Nations' top disarmament official says governments need to pay more attention to the \"dark side\" of artificial intelligence, including the implications of so ... Britain on Monday to develop AI projects that could lead to breakthroughs in driverless vehicles and health care for seniors. The government has made AI a pillar ..."
-publishedDateTime: 2020-02-24T20:52:00Z
-webUrl: "https://www.burnabynow.com/un-disarmament-chief-warns-of-dark-side-of-ai-as-liberals-tout-benefits-1.24082995"
+excerpt: "OTTAWA — The United Nations' top disarmament official says governments need to pay more attention to the \"dark side\" of artificial intelligence ... to breakthroughs in driverless vehicles ..."
+publishedDateTime: 2020-02-24T22:30:00Z
+webUrl: "https://www.nsnews.com/news/national/un-disarmament-chief-warns-of-dark-side-of-ai-as-liberals-tout-benefits-1.24082995"
 type: article
-quality: 17
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Burnaby Now
-  domain: burnabynow.com
+  name: News
+  domain: nsnews.com
 
 topics:
   - AI
   - AI in Autos
+
+images:
+  - url: "https://images.glaciermedia.ca/polopoly_fs/1.24083006.1582580080!/fileImage/httpImage/image.jpg_gen/derivatives/facebookogimage_560_292/cpt12848419-jpg.jpg"
+    width: 560
+    height: 292
+    title: "UN disarmament chief warns of 'dark side' of AI, as Liberals tout benefits"
 
 related:
   - title: "Benefits of AI touted by Liberals, despite UN warnings of its ‘dark side’"
@@ -43,6 +49,6 @@ related:
         width: 1024
         height: 629
 
-secured: "eCldS0AQa0N+vPFwymCzlh5fi0ST0e2EYL0ZYLBFHUlK9UNxH1wbPmh2sn2r4HPiV7xV6zkddC+pkiKb3va8ImXgZjy1vuI+GilYriDRR5n+5YozQyjGE8WBpU8AzKAX5l5BY6YhN75C8bIWd7e2j3upgwNa7bD2xF0cxXS8u1VNw0kB+gn8Hg2ZOeB2m1hnHSxPzhyJ+ECzySi+n7wPkbNA81v/QtG3OTd4IrqJt/tyRrOsViAJ2+cNQoKj/Pk3u1WRCupNwFP9SLLf6QZaPANXivvp1paZjdOANU0zzGmbJltCKH3jFILWYFIJzFimUxDYAUZ1ONrzT3KT3oZB85AcHoeM2JsS69zBg0pmdTYBxCx+mWHllHWHVQ7uCwGCh+u1EF0rYQyiA09rpLViz5H2s5YuKSsC0tc4hUD1HVhbfGIi9M/f5S8TKl+Hfa4g0NyhvqMYJxYlPtn0fn81M9Z6KE+jltCtTJGbeTk8QEg=;GiX77CAbLQafRT2X99sGGA=="
+secured: "ctZng72tqRQvoqwtDIw1NKbn+o46wbX5x1n/7/bvVrUKWVN0VZwBmJsX1WxsL4VMGkmGUmFhIgYvs59cuaptIpcrJR0Z1iEPJAZii0AZVQEyOSCsbD1m7K6UlUFzMDvlKlMmda6QUpoUAIz6z/BppKTWL2b0kmGAeONE3gBS/4KFZFzIy7LHyXaFC+SBLXT7MuREyR3nc2kINy/quebCGA6egGsFR++nsMFeLBt/1lkb0MD9YC65vHT09zm2B38JGS0VGH3O/1yhtZ56L50UmT2hB/hmvYHhvKo54MXFg92DWFL+db8zV6Ba4rsM5Ywm;24pE8+PlXIN8ZlRtGWI6jA=="
 ---
 

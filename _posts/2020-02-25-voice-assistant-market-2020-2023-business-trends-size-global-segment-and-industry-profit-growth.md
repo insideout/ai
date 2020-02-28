@@ -41,6 +41,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Data Science and Machine Learning Service Market: Global Industry Analysis and Opportunity Assessment 2020 - 2026"
+    excerpt: "COMTEX_362633546/2582/2020-02-28T03:10:37 Here are 5 reasons the stock market is having its worst decline since 2008, and only one of them is the coronavirus"
+    publishedDateTime: 2020-02-28T08:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/data-science-and-machine-learning-service-market-global-industry-analysis-and-opportunity-assessment-2020---2026-2020-02-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Artificial Intelligence (AI) in Agriculture Market: Global Key Players, Trends, Share, Industry Size, Growth, Opportunities, Forecast To 2025"
     excerpt: "in Agriculture Market” Artificial Intelligence (AI) in Agriculture Market: Global Key Players, Trends, Share, Industry Size,"
     publishedDateTime: 2020-02-21T07:55:00Z

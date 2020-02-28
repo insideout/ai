@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/google-experiments-with-ai-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-experiments-with-ai-to-design-its-in-house-computer-chips/"
 type: article
 quality: 106
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -29,21 +29,6 @@ images:
     width: 2388
     height: 1339
     title: "Google experiments with AI to design its in-house computer chips"
-
-related:
-  - title: "Tyson to Count its Chickens With Computer Vision"
-    excerpt: "Poultry manufacturing giant Tyson Foods will reportedly computer vision to track quantities of chicken moving through its production plants as it aims to rely more on automation and artificial intelligence to boost efficiency. The Wall Street Journal reported Feb. 10 that Tyson has installed computer vision systems — consisting of cameras ..."
-    publishedDateTime: 2020-02-13T15:12:00Z
-    webUrl: "https://www.manufacturing.net/home/news/21115586/tyson-to-count-its-chickens-with-computer-vision"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturing.net
-    quality: 39
-    images:
-      - url: "https://img.manufacturing.net/files/base/indm/all/image/2020/02/16x9/iStock_1185520857__1_.5e441daa51cca.png?auto=format&fit=max&w=1200"
-        width: 1123
-        height: 631
 
 secured: "MjOn5BouHDHMNBEs+Sh7fjVowdS17vca3bKGpLBAr3kR5gk41hX3ba8s357rR/60KdoGI4L8jbhFOplTdq52k1Yx6/C0oYr4TKaT+zLnVLBYZGKBfnEiUBLtV/Viv3G2S+BZOQZFp8gGjIqSzZFDdV9e9gQihpuCk6Qd4RdC5XWFLbyWqSWuonC2pTLDP3RKpgtAkZA8uNMQV9Rw+YqkpnQQQ4sFT1HAJnXz+dzBZUs8m+9sQJRCe7bB/LHgBRjitu2/t3oP9PqKuZb/lnPh4UFaljbQ7JkcdrRGOTiBcciND+A4qejirBiKXTpQ/D6fgt69XQ6OwzVn43S2rxXXBBtZ/U4SkMbp7zUKhVEQmo+88z/1UuiMGzf3nkSPZBDyDO7wddjr9WPyWrZcBh9MduHL/uFiPIoNJQz+NlfmHv/3ZEC4V+NllwoF+es5nssO/FYJ9gErap4iwr94CKFwLB6fWp/fa1OBPHf017AGyM0=;TjFtaxZj3yJKCurdGbMF6A=="
 ---

@@ -174,6 +174,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Self-Driving Car Market 2020: Global Key Players, Trends, Share, Industry Size, Segmentation, Opportunities, Forecast To 2026"
+    excerpt: "Introduction Self-Driving Car Market The market research Self-Driving Car report offers an in-depth analysis of"
+    publishedDateTime: 2020-02-14T06:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-2020-global-key-players-trends-share-industry-size-segmentation-opportunities-forecast-to-2026-2020-02-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 27
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Global Emotion Detection And Recognition (EDR) Market 2020 Growth Analysis, Key Insights, Future Development and Statistical Forecast 2025"
     excerpt: "Scope of the Report Emotion Detection and Recognition (EDR) is typically identifying human emotion from facial expression or verbal expression. Now, with the help of AI, NLP and ML, the machine is made to understand human emotion through various software and act according to it."
     publishedDateTime: 2020-02-19T11:19:00Z

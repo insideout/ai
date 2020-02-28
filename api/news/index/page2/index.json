@@ -2,43 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_posts/2020-02-17-aws-assists-premier-league-analytics.md",
-      "title": "AWS assists Premier League analytics",
-      "excerpt": "The Premier League has chosen Amazon Web Services (AWS) as its preferred Cloud, machine learning (ML) and artificial intelligence (AI) provider. The league’s analytics company Second Spectrum uses AWS to help deliver analytics, visualisations and searchable video clips during games. Second Spectrum applies ML and computer vision techniques to ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.tvbeurope.com/technology/aws-assists-premier-league-analytics",
-      "ampWebUrl": "https://www.tvbeurope.com/technology/aws-assists-premier-league-analytics?amp",
-      "cdnAmpWebUrl": "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/technology/aws-assists-premier-league-analytics?amp",
-      "publishedDateTime": "2020-02-17T02:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "tvbeurope.com",
-        "domain": "tvbeurope.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.tvbeurope.com/wp-content/uploads/2019/05/premier-league.jpg",
-          "width": 590,
-          "height": 350,
-          "title": "AWS assists Premier League analytics",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-17-bridging-the-gender-gap-in-ai.md",
       "title": "Bridging The Gender Gap In AI",
       "excerpt": "The first step to bridge the gender gap in AI is awareness. By understanding the nature and significance of the gender bias, we can take meaningfully steps to bridge the divide.",
@@ -1670,7 +1633,7 @@
       "path": "_posts/2020-02-18-google-experiments-with-ai-to-design-its-in-house-computer-chips.md",
       "title": "Google experiments with AI to design its in-house computer chips",
       "excerpt": "The Google Translate application is an escape of a sophisticated program, now at seventy different languages, that can run on a phone even in airplane mode, he noted, when there's no connection back to the data center. The family of Google silicon for AI has already broadened, he indicated. The \"Edge TPU,\" for example, is a designation that ...",
-      "heat": 116,
+      "heat": 106,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.zdnet.com/article/google-experiments-with-ai-to-design-its-in-house-computer-chips/",
@@ -1928,7 +1891,7 @@
       "path": "_posts/2020-02-18-join-the-innovators-in-enterprise-ai-at-transform-2020.md",
       "title": "Join the innovators in enterprise AI at Transform 2020",
       "excerpt": "The AI event of the year for business leaders, Transform 2020 doubles down on results-driven content that helps executives at the senior director level and above maintain their competitive edge. Expect two days of the most transformative trends in conversational AI, computer vision, IoT and AI at the edge, and automation, plus a special ...",
-      "heat": 121,
+      "heat": 131,
       "tags": null,
       "type": "article",
       "webUrl": "https://venturebeat.com/2020/02/18/join-the-innovators-in-enterprise-ai-at-transform-2020/",
@@ -2123,6 +2086,51 @@
           "width": 1200,
           "height": 630,
           "title": "The greatest gift machine learning ever gave us is this archive of Mark Zuckerberg haircuts",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-18-the-insurance-brain-ai-driven-policy-recommendations.md",
+      "title": "The Insurance Brain: AI-Driven Policy Recommendations",
+      "excerpt": "When MS&AD Insurance Group Holdings needed to create an AI-driven recommendation system for their MSI subsidiary, they turned to AutoML 2.0 to help drive results and achieve their goals.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/18/ai-driven-policy-recommendations/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/18/ai-driven-policy-recommendations/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/02/18/ai-driven-policy-recommendations/amp/",
+      "publishedDateTime": "2020-02-18T06:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e45ae61a854780006b137d9%2F0x0.jpg%3FcropX1%3D39%26cropX2%3D839%26cropY1%3D0%26cropY2%3D450",
+          "width": 801,
+          "height": 450,
+          "title": "The Insurance Brain: AI-Driven Policy Recommendations",
           "attribution": null
         }
       ],

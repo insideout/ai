@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/02/18/join-the-innovators-in-enterprise
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/18/join-the-innovators-in-enterprise-ai-at-transform-2020/amp/"
 type: article
 quality: 91
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -66,6 +66,19 @@ related:
       name: Dataquest
       domain: dqindia.com
     quality: 33
+  - title: "35 Innovators Under 35"
+    excerpt: "They see technology as a way to bring about a safer, healthier, and more equitable world. DeepMind Mustafa Suleyman cofounded the AI company DeepMind out of a desire to have as broad an impact on ..."
+    publishedDateTime: 2020-02-24T21:18:00Z
+    webUrl: "https://www.technologyreview.com/lists/innovators-under-35/2018/humanitarian/mustafa-suleyman/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 24
+    images:
+      - url: "https://cdn.technologyreview.com/i/images/tr35-mustafa-suleyman-bw_0.png?cx=149&cy=209&cw=1496&ch=841&sw=1200"
+        width: 1200
+        height: 674
 
 secured: "L6JTLAOYFZhZicvuwhsFmIp9kOHupQ2ktI4bqPzzDZafxL8TYIoUCszkoH36mvcpL+sYXI1YjwFFP2O9uzti2jyBdmBxE6hx832u+9op+UTcAAnc4hjzubhEq1/kZyGUrEXTWhyg3u5Sn8f14nVb9X0pDJiuaxhyF04iDg3mklUNO/15wDWXzm0JAKiGh6Y4bHdvrv4Vk/pug0718wFgJhcBVO1CqLsof9cv9TSJ4urrHDo+TrHfVPGppFq8WGpeTWPVRhI+p6sVF131+WnCqn8sGgoDjaMXGKyEZZgZRw0pD6hyHWVQsx0/DkpNgWM4BNg3Xk+nUwZiK0KwJtrD5l98z4H6VJrvQWK5yMtcxfyE2Bim3vvY4o6GLiZhnVwjQchKh46BBib7Y4FL0jKPKXmWi84gRzQL8jDcHYXd1DVqdqqn/bB75S80hCCvAe0dsleHYSGgCB+Zq7Nwfy0/ULHxBmAzeVmZXDc0AogjDMs=;94CPlQrDfwceiBLK0XVZEQ=="
 ---

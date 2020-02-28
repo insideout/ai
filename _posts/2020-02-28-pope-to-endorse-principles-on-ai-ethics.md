@@ -1,0 +1,95 @@
+---
+category: news
+title: "Pope to endorse principles on AI ethics"
+excerpt: "The \"Rome Call for AI Ethics\" asserts that the technology should respect privacy, work reliably and without bias, consider \"the needs of all human beings\" and operate transparently - an area of ongoing research because AI systems' decisions are often inscrutable. The document reflects growing interest among companies and institutions to set ..."
+publishedDateTime: 2020-02-28T08:31:00Z
+webUrl: "https://www.news.com.au/world/breaking-news/pope-to-endorse-principles-on-ai-ethics/news-story/7cf7a7db1ceea502b569c984f3554651"
+ampWebUrl: "https://amp.news.com.au/world/breaking-news/pope-to-endorse-principles-on-ai-ethics/news-story/7cf7a7db1ceea502b569c984f3554651"
+cdnAmpWebUrl: "https://amp-news-com-au.cdn.ampproject.org/c/s/amp.news.com.au/world/breaking-news/pope-to-endorse-principles-on-ai-ethics/news-story/7cf7a7db1ceea502b569c984f3554651"
+type: article
+quality: 54
+heat: -1
+published: false
+
+provider:
+  name: News.com.au
+  domain: news.com.au
+
+topics:
+  - AI
+  - AI Ethics
+
+related:
+  - title: "These Are the Pentagon’s New Ethics “Principles” for AI in Warfare"
+    excerpt: "On Monday, the Pentagon announced the official adoption of a series of new principles for ethical use of artificial intelligence in warfare, the Associated Press reports. The principles were formed out of a commission with the (darkly Newspeak-y) name the Defense Innovation Board, which released its recommendations (title: “AI Principles ..."
+    publishedDateTime: 2020-02-25T21:06:00Z
+    webUrl: "https://futurism.com/the-byte/pentagon-ai-ethics-dod-warfare"
+    ampWebUrl: "https://futurism.com/pentagon-ai-ethics-dod-warfare/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/pentagon-ai-ethics-dod-warfare/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 74
+    images:
+      - url: "https://wp-assets.futurism.com/2020/02/pentagon-new-ethics-principles-ai-warfare-600x315.jpg"
+        width: 600
+        height: 315
+  - title: "GovExec Daily: The Ethics of Artificial Intelligence at the Pentagon"
+    excerpt: "As artificial intelligence becomes more of a priority, the Pentagon announced last week that it will adopt ethics principles for AI use. As Defense officials said that AI is top priority, having an ethical framework is paramount. GovExec Daily spoke to Defense One's Patrick Tucker about the ways different governments use AI and why adopting a ..."
+    publishedDateTime: 2020-02-26T11:05:00Z
+    webUrl: "https://www.govexec.com/defense/2020/02/govexec-daily-ethics-artificial-intelligence-pentagon/163325/"
+    type: article
+    provider:
+      name: Government Executive
+      domain: govexec.com
+    quality: 69
+    images:
+      - url: "https://cdn.govexec.com/media/img/upload/2020/02/25/GE-Daily_1_Final_1/open-graph.jpg"
+        width: 400
+        height: 400
+  - title: "At least they’ll have an off switch: Pentagon adopts ‘AI Ethical Principles’ for its killer robots"
+    excerpt: "As the United States looks to develop artificial intelligence weapons to keep up with Russia and ... Also on rt.com Make no mistake: Military robots are not there to preserve human life, they are there to allow even more endless wars What exactly the ..."
+    publishedDateTime: 2020-02-24T23:22:00Z
+    webUrl: "https://www.rt.com/usa/481586-pentagon-ai-robots-ethics/"
+    ampWebUrl: "https://www.rt.com/usa/481586-pentagon-ai-robots-ethics/amp/"
+    cdnAmpWebUrl: "https://www-rt-com.cdn.ampproject.org/c/s/www.rt.com/usa/481586-pentagon-ai-robots-ethics/amp/"
+    type: article
+    provider:
+      name: RT
+      domain: rt.com
+    quality: 60
+    images:
+      - url: "https://cdni.rt.com/files/2020.02/xxl/5e54392385f5404ca641795c.jpg"
+        width: 1240
+        height: 697
+  - title: "Pentagon adopts new ethical principles for using AI in war"
+    excerpt: "While the Pentagon acknowledged that AI “raises new ethical ambiguities and risks,” the new principles fall short of stronger restrictions favored by arms control advocates. “I worry that the principles are a bit of an ethics-washing project,” said Lucy Suchman, an anthropologist who studies the role of AI in warfare. “The word ..."
+    publishedDateTime: 2020-02-27T02:15:00Z
+    webUrl: "https://triblive.com/news/world/pentagon-adopts-new-ethical-principles-for-using-ai-in-war/"
+    type: article
+    provider:
+      name: TribLIVE.com
+      domain: triblive.com
+    quality: 54
+    images:
+      - url: "https://triblive.com/wp-content/uploads/2020/02/2377266_web1_2377266-5a2ee9d1ab2546ab8f055f25d1597576.jpg"
+        width: 640
+        height: 427
+  - title: "Pentagon Confirms Alka Patel to Lead the Implementation of Its New Ethical AI Principles"
+    excerpt: "For seven months prior to that, from July 2019 through to 2020, Patel worked as a research intern at the Montreal AI Ethics Institute. She also previously served as Commissioner of the Pennsylvania Governor’s Advisory Commission on Asian Pacific American Affairs and Executive Director of Carnegie Mellon University’s Risk & Regulatory ..."
+    publishedDateTime: 2020-02-27T20:32:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2020/02/pentagon-confirms-alka-patel-lead-implementation-its-new-ethical-ai-principles/163386/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 45
+    images:
+      - url: "https://cdn.nextgov.com/media/img/upload/2020/02/27/shutterstock_1475534549/open-graph.jpg"
+        width: 400
+        height: 400
+
+secured: "WLMoCfCNws6GTY5jnJgvqkUHVFJlwDsL/9NqoimTLXXhBS3AGIRQJGgmlg8VMSofBgOhQjdKjUuBsIABN/JFKd+t5wMMa5+dog+eG+ZVWBy5bY2lvO+p90nTD7+g9IjfkdyBfpYV7jzVMRQacw7Jh1TXjKFjWhr8J6hU+784AW3DTICm2o7l4oPxnX1it1zMQjrOks+y8ZJzf7kQh5nTYYQROU4KKsyCb0YpPHDLL/7L385LzLh6zVTLVvecKykvL3iAfzB5XoqnIUvJcJ8G3lGn/kANioqe3wEs2NYrQpb1XlWeVo4eE5j5sP7SOHbV;jkr5Cc5uSiiRAO2zB66MRA=="
+---
+

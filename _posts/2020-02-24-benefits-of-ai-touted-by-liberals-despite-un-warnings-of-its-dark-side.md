@@ -35,14 +35,18 @@ related:
         width: 1024
         height: 629
   - title: "UN disarmament chief warns of 'dark side' of AI, as Liberals tout benefits"
-    excerpt: "OTTAWA — The United Nations' top disarmament official says governments need to pay more attention to the \"dark side\" of artificial intelligence, including the implications of so ... Britain on Monday to develop AI projects that could lead to breakthroughs in driverless vehicles and health care for seniors. The government has made AI a pillar ..."
-    publishedDateTime: 2020-02-24T20:52:00Z
-    webUrl: "https://www.burnabynow.com/un-disarmament-chief-warns-of-dark-side-of-ai-as-liberals-tout-benefits-1.24082995"
+    excerpt: "OTTAWA — The United Nations' top disarmament official says governments need to pay more attention to the \"dark side\" of artificial intelligence ... to breakthroughs in driverless vehicles ..."
+    publishedDateTime: 2020-02-24T22:30:00Z
+    webUrl: "https://www.nsnews.com/news/national/un-disarmament-chief-warns-of-dark-side-of-ai-as-liberals-tout-benefits-1.24082995"
     type: article
     provider:
-      name: Burnaby Now
-      domain: burnabynow.com
-    quality: 17
+      name: News
+      domain: nsnews.com
+    quality: 37
+    images:
+      - url: "https://images.glaciermedia.ca/polopoly_fs/1.24083006.1582580080!/fileImage/httpImage/image.jpg_gen/derivatives/facebookogimage_560_292/cpt12848419-jpg.jpg"
+        width: 560
+        height: 292
 
 secured: "yaPn7hCaNeULy1eySuTKf5BKt5c78GycgnNkBfQyPVjPpETRfg2XYMRqzoBFDopBacyLqFfK8Wm9qmWvuKJ6opon84953Z9mwapH6/cBKnb2GgpSp2Or1sFCqFO4zgQBMJ0b0U+RFAKCTDcnokwm6qFtublApTAj9stmiBBquX/rDkhn3nTBMGkKyVB0Ewb3MdEME3mPI+g2FhuVJPZPJDKzwep5WRPHs+oiRoNoMJCX2CZRKUwQz/2jouPWort6HmKVwoYLoeFFNPOFq1fgA1fsLk9ddC7JvEKE3DrRXIdFMtj2LftcE9GyaDqsP3iA;K1SAftYGTNRnlkZXvrhzWg=="
 ---

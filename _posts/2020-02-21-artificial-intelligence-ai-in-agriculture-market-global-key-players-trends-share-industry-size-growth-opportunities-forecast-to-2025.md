@@ -38,6 +38,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Data Science and Machine Learning Service Market: Global Industry Analysis and Opportunity Assessment 2020 - 2026"
+    excerpt: "COMTEX_362633546/2582/2020-02-28T03:10:37 Here are 5 reasons the stock market is having its worst decline since 2008, and only one of them is the coronavirus"
+    publishedDateTime: 2020-02-28T08:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/data-science-and-machine-learning-service-market-global-industry-analysis-and-opportunity-assessment-2020---2026-2020-02-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Voice Assistant Market 2020 - 2023: Business Trends, Size, Global Segment and Industry Profit Growth"
     excerpt: "Voice Assistant Market Highlights: Voice assistant is a software designed to perform a range of predefined tasks. The tasks performed by the product include, but are not limited to, schedule an appointment,"
     publishedDateTime: 2020-02-25T10:44:00Z

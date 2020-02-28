@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.ft.com/content/e8628fcc-5341-11ea-90ad-25e377c0ee1f"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/e8628fcc-5341-11ea-90ad-25e377c0ee1f"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -23,21 +23,6 @@ images:
     width: 500
     height: 281
     title: "When AI = Artificial Idiot"
-
-related:
-  - title: "When intelligence is artificial"
-    excerpt: "He does a lot of science related activities and research on pancreatic cancer in the medical field and the application of applying artificial intelligence (AI ... All this is becoming part of tele-medicine or remote healthcare. The idea is that one doesn’t really have to go physically to a hospital but a lot interaction can happen remotely ..."
-    publishedDateTime: 2020-02-22T18:37:00Z
-    webUrl: "https://www.dailypioneer.com/2020/sunday-edition/when-intelligence-is-artificial.html"
-    type: article
-    provider:
-      name: The Pioneer
-      domain: dailypioneer.com
-    quality: 24
-    images:
-      - url: "https://www.dailypioneer.com/uploads/2020/story/images/big/when-intelligence-is-artificial-2020-02-23.jpg"
-        width: 1000
-        height: 800
 
 secured: "ida8sHrmKZzpgy4efrK46pG8rnQBaVxx+0IyC1oNGEWjgGumMDW86B4KOFaIcr9IKe9H6QjcIiTsNSE8hK8QdB61uZpimynAjIc2N0UwfbdtQKHDTpFdScbn7bVg27lAodZ3HOMja9fFjCDMzFwjlELehZCieHYSzQAdAp8YWC7bftoinWz7RwfxPy7/zyChBroQguO4m2WMKaZ1Qu4mB6HUHXh1ZPl5/GbywZTvOP/SZlm46o/dmN4ZrWw8ATHfMgGSkOxM9xTM9fj4zGiWEw8AMEmJEKApuGP3J39XD6UiaIXwm+xep+Fko4MhfSUQQVVtGt6BTZcjp+L2gsZIptgR/rdu97ippdE1/v+cXy/5O5MyiO3AbK0WyOk2TyeLacLPQPNLa/JeRUHQH7h7WBCMKQ4rdbF1rEk+yKoxsgVWqNMig/70Uu+vomDWcnQTQvHZIAOTLAhZOZuP4mjGgvOIQuEWUOzjR1MRVf124Gw=;G2lUuXzJDX23JEM1iYpkPA=="
 ---

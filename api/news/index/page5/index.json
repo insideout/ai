@@ -2,50 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_posts/2020-02-21-can-ai-better-match-luxury-real-estate-agents-with-well-heeled-buyers.md",
-      "title": "Can AI Better Match Luxury Real Estate Agents With Well-Heeled Buyers?",
-      "excerpt": "Nascent technologies and AI can assist high-end real estate agent reach more buyers and better communicate with them, but old-fashioned personal networking is still crucial in a sector driven by customization and individual attention.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/dimawilliams/2020/02/21/can-ai-better-match-luxury-real-estate-agents-with-high-heeled-buyers/",
-      "ampWebUrl": "https://www.forbes.com/sites/dimawilliams/2020/02/21/can-ai-better-match-luxury-real-estate-agents-with-high-heeled-buyers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/dimawilliams/2020/02/21/can-ai-better-match-luxury-real-estate-agents-with-high-heeled-buyers/amp/",
-      "publishedDateTime": "2020-02-21T09:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1071612584%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Can AI Better Match Luxury Real Estate Agents With Well-Heeled Buyers?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-21-defeated-chess-champ-garry-kasparov-has-made-peace-with-ai.md",
       "title": "Defeated Chess Champ Garry Kasparov Has Made Peace With AI",
       "excerpt": "Most remarkably, AlphaZero uncovered new approaches to the game that dazzled chess experts. Last week, Kasparov returned to the scene of his famous Deep Blue defeat—the ballroom of a New York hotel—for a debate with AI experts organized by the Association for the Advancement of Artificial Intelligence. He met with WIRED senior writer Will ...",
@@ -777,43 +733,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-22-goodwill-launches-new-initiative-to-train-employees-in-artificial-intelligence.md",
-      "title": "Goodwill launches new initiative to train employees in artificial intelligence",
-      "excerpt": "Goodwill of Western Missouri and Eastern Kansas announced \"The Artemis Initiative.\" The new initiative is meant to train employees on how to use robots, artificial intelligence and other cutting-edge technology. David Starr from the local startup Tesseract Ventures says in the next five years, millions of workers will either need to upgrade ...",
-      "heat": 70,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://fox4kc.com/news/goodwill-launches-new-initiative-to-train-employees-in-artificial-intelligence/",
-      "ampWebUrl": "https://fox4kc.com/news/goodwill-launches-new-initiative-to-train-employees-in-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://fox4kc-com.cdn.ampproject.org/c/s/fox4kc.com/news/goodwill-launches-new-initiative-to-train-employees-in-artificial-intelligence/amp/",
-      "publishedDateTime": "2020-02-21T17:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FOX4 Kansas City",
-        "domain": "fox4kc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://fox4kc.com/wp-content/uploads/sites/16/2020/02/Robot.jpeg?w=1280&h=720&crop=1",
-          "width": 1280,
-          "height": 720,
-          "title": "Goodwill launches new initiative to train employees in artificial intelligence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     },
     {
@@ -2131,6 +2050,88 @@
       "topics": [
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-24-met-police-chief-facial-recognition-technology-critics-are-ill-informed.md",
+      "title": "Met police chief: facial recognition technology critics are ill-informed",
+      "excerpt": "Cressida Dick defends tech after civil liberties groups raise fears over accuracy and privacy",
+      "heat": 608,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theguardian.com/technology/2020/feb/24/met-police-chief-cressida-dick-facial-recognition-technology-critics-ill-informed",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2020/feb/24/met-police-chief-cressida-dick-facial-recognition-technology-critics-ill-informed",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/feb/24/met-police-chief-cressida-dick-facial-recognition-technology-critics-ill-informed",
+      "publishedDateTime": "2020-02-24T07:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/6527a5db37946bab14375a67ded41e294359749b/109_407_2779_1667/master/2779.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8db0391fdb6cc0f6fc84eadbd17fff8d",
+          "width": 600,
+          "height": 360,
+          "title": "Met police chief: facial recognition technology critics are ill-informed",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-24-microsoft-azure-sphere-launches-in-general-availability.md",
+      "title": "Microsoft Azure Sphere launches in general availability",
+      "excerpt": "As for brownfield, it calls for an Azure Sphere “guardian” device — the bulk of which are produced by Avnet and AI-Link — to connect existing hardware to the internet. Azure Sphere hardware is available in several configurations, including Wi-Fi modules, development kits and dev boards (from partners like Seeed Studios and USI), and the ...",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/24/microsoft-azure-sphere-launches-in-general-availability/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-24T01:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/12/microsoft-azure-new-logo-2017-e1572843284943.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Microsoft Azure Sphere launches in general availability",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
       ]
     }
   ],

@@ -2,51 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_posts/2020-02-18-the-insurance-brain-ai-driven-policy-recommendations.md",
-      "title": "The Insurance Brain: AI-Driven Policy Recommendations",
-      "excerpt": "When MS&AD Insurance Group Holdings needed to create an AI-driven recommendation system for their MSI subsidiary, they turned to AutoML 2.0 to help drive results and achieve their goals.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/18/ai-driven-policy-recommendations/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/18/ai-driven-policy-recommendations/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/02/18/ai-driven-policy-recommendations/amp/",
-      "publishedDateTime": "2020-02-18T06:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e45ae61a854780006b137d9%2F0x0.jpg%3FcropX1%3D39%26cropX2%3D839%26cropY1%3D0%26cropY2%3D450",
-          "width": 801,
-          "height": 450,
-          "title": "The Insurance Brain: AI-Driven Policy Recommendations",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_posts/2020-02-18-the-internet-of-wild-things-technology-and-the-battle-against-biodiversity-loss-and-climate-change.md",
       "title": "The Internet of Wild Things: Technology and the battle against biodiversity loss and climate change",
       "excerpt": "Subsequent developments have moved the analysis of the audio captured by these canopy-mounted 'Guardian' devices to the cloud, where Google's TensorFlow machine-learning framework is used to identify sounds of illegal activity and adjust audio inputs to minimise the number of false positives. The AI system uses 'binary classifiers' to ...",
@@ -1199,7 +1154,7 @@
       "path": "_posts/2020-02-19-global-artificial-intelligence-in-retail-market-2020-challenges-and-development-opportunities-till-2025.md",
       "title": "Global Artificial Intelligence in Retail Market 2020 Challenges and Development Opportunities till 2025",
       "excerpt": "The Global Artificial Intelligence in Retail Market was valued at USD 1.80 billion in 2019 and is expected to reach USD 10.90 billion by 2025, at a CAGR of 35% over the forecast period 2020 - 2025. AI will drive faster business decisions in marketing,",
-      "heat": 218,
+      "heat": 228,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-retail-market-2020-challenges-and-development-opportunities-till-2025-2020-02-19",
@@ -2108,6 +2063,51 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-19-this-smartphone-sensor-can-detect-live-skin-to-halt-facial-login-spoofing.md",
+      "title": "This smartphone sensor can detect live skin to halt facial login spoofing",
+      "excerpt": "Apple’s Face ID is the gold standard in facial recognition tech, but it’s not one hundred percent foolproof. Highly detailed 3D printed masks can trick it. Less sophisticated 2D sensors, still found in many smartphones, can be tricked with a photo. The next generation of facial recognition technology is on the horizon, however, thanks to 3D ...",
+      "heat": 73,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.digitaltrends.com/mobile/trinamix-live-skin-module-facial-login-spoofing/",
+      "ampWebUrl": "https://www.digitaltrends.com/mobile/trinamix-live-skin-module-facial-login-spoofing/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/trinamix-live-skin-module-facial-login-spoofing/?amp",
+      "publishedDateTime": "2020-02-19T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/trinamix-live-skin-demo-8-of-7-1200x630-c-ar1.91.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": "This smartphone sensor can detect live skin to halt facial login spoofing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
       ]
     }
   ],

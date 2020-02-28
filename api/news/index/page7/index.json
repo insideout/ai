@@ -2,50 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_posts/2020-02-25-startup-malaise-startup-ambition.md",
-      "title": "Startup malaise, startup ambition",
-      "excerpt": "In spite of a spate of massive startup exits the last few months ... What if we could instantly and easily build best-of-breed AI models to solve even our simplest decision-making problems?",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/02/25/startup-malaise-startup-ambition/",
-      "ampWebUrl": "https://techcrunch.com/2020/02/25/startup-malaise-startup-ambition/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/25/startup-malaise-startup-ambition/amp/",
-      "publishedDateTime": "2020-02-25T09:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-525848841.jpg?w=1024",
-          "width": 1024,
-          "height": 787,
-          "title": "Startup malaise, startup ambition",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-25-techchill-2020-is-hot-for-connectivity.md",
       "title": "TechChill 2020 Is Hot For Connectivity",
       "excerpt": "Analyst Will Townsend provides his connectivity-related takeaways from the TechChill 2020 startup event in Riga, Latvia.",
@@ -139,7 +95,7 @@
       "path": "_posts/2020-02-25-these-are-the-pentagons-new-ethics-principles-for-ai-in-warfare.md",
       "title": "These Are the Pentagon’s New Ethics “Principles” for AI in Warfare",
       "excerpt": "On Monday, the Pentagon announced the official adoption of a series of new principles for ethical use of artificial intelligence in warfare, the Associated Press reports. The principles were formed out of a commission with the (darkly Newspeak-y) name the Defense Innovation Board, which released its recommendations (title: “AI Principles ...",
-      "heat": 114,
+      "heat": 124,
       "tags": null,
       "type": "article",
       "webUrl": "https://futurism.com/the-byte/pentagon-ai-ethics-dod-warfare",
@@ -566,6 +522,51 @@
       ]
     },
     {
+      "path": "_posts/2020-02-26-artificial-unintelligence-driverless-vehicles-deep-learning-and-dirty-datasets.md",
+      "title": "Artificial Unintelligence — Driverless Vehicles, Deep Learning and Dirty Datasets",
+      "excerpt": "Artificial intelligence (AI) makes it possible for ... ness contributes to the inherent uncertainty of the whole endeavor. Driverless Vehicles — What are the values that we are going to embed ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/swlh/artificial-unintelligence-driverless-vehicles-deep-learning-and-dirty-datasets-9f1793fdf3fe",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-26T11:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*LKtVmOR4Aui7X7djt8nMrg.jpeg",
+          "width": 1200,
+          "height": 800,
+          "title": "Artificial Unintelligence — Driverless Vehicles, Deep Learning and Dirty Datasets",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_posts/2020-02-26-better-buy-ibm-vs-google.md",
       "title": "Better Buy: IBM vs. Google",
       "excerpt": "The cloud and cognitive software unit houses various cloud ... which competes against larger platforms like Amazon (NASDAQ:AMZN) Web Services (AWS), Microsoft's (NASDAQ:MSFT) Azure, and Google Cloud. Its global business services unit offers IT and ...",
@@ -695,7 +696,7 @@
       "path": "_posts/2020-02-26-chinese-hospitals-deploy-ai-to-help-diagnose-covid-19.md",
       "title": "Chinese Hospitals Deploy AI to Help Diagnose Covid-19",
       "excerpt": "China’s government has urged development of AI tools for healthcare as part of sweeping national investments in artificial intelligence. China’s relatively lax rules on privacy allow companies such as Infervision to gather medical data to train machine learning algorithms in tasks like reading scans more easily than US or European rivals.",
-      "heat": 97,
+      "heat": 99,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.wired.com/story/chinese-hospitals-deploy-ai-help-diagnose-covid-19/",
@@ -732,7 +733,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "Facebook AI"
       ]
     },
     {
@@ -911,6 +913,52 @@
       "topics": [
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-26-computer-vision-custom-model-which-ai-provider-to-choose.md",
+      "title": "Computer vision & custom model : Which AI provider to choose",
+      "excerpt": "For Amazon, on the other hand, the task is much more complicated: accessing their new Amazon Rekognition Custom Label service remains a mystery. We used a direct link to this service to access it.",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/@aicompare/computer-vision-custom-model-which-ai-provider-to-choose-4e9f5eaf3ea",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-26T11:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/800/0*cvfgJkOH2vyvAo9f.jpg",
+          "width": 800,
+          "height": 400,
+          "title": "Computer vision & custom model : Which AI provider to choose",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "IBM AI"
       ]
     },
     {
@@ -2083,50 +2131,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-27-12-things-pop-culture-gets-wrong-about-artificial-intelligence.md",
-      "title": "12 Things Pop Culture Gets Wrong About Artificial Intelligence",
-      "excerpt": "When non-tech people glean much of their tech knowledge from pop culture, it can lead to a lot of misinformation.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/27/12-things-pop-culture-gets-wrong-about-artificial-intelligence/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/27/12-things-pop-culture-gets-wrong-about-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/27/12-things-pop-culture-gets-wrong-about-artificial-intelligence/amp/",
-      "publishedDateTime": "2020-02-27T05:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x527/https://specials-images.forbesimg.com/dam/imageserve/1206610697/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 527,
-          "title": "12 Things Pop Culture Gets Wrong About Artificial Intelligence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

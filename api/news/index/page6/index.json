@@ -2,88 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_posts/2020-02-24-met-police-chief-facial-recognition-technology-critics-are-ill-informed.md",
-      "title": "Met police chief: facial recognition technology critics are ill-informed",
-      "excerpt": "Cressida Dick defends tech after civil liberties groups raise fears over accuracy and privacy",
-      "heat": 608,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theguardian.com/technology/2020/feb/24/met-police-chief-cressida-dick-facial-recognition-technology-critics-ill-informed",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2020/feb/24/met-police-chief-cressida-dick-facial-recognition-technology-critics-ill-informed",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/feb/24/met-police-chief-cressida-dick-facial-recognition-technology-critics-ill-informed",
-      "publishedDateTime": "2020-02-24T07:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/6527a5db37946bab14375a67ded41e294359749b/109_407_2779_1667/master/2779.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8db0391fdb6cc0f6fc84eadbd17fff8d",
-          "width": 600,
-          "height": 360,
-          "title": "Met police chief: facial recognition technology critics are ill-informed",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-24-microsoft-azure-sphere-launches-in-general-availability.md",
-      "title": "Microsoft Azure Sphere launches in general availability",
-      "excerpt": "As for brownfield, it calls for an Azure Sphere “guardian” device — the bulk of which are produced by Avnet and AI-Link — to connect existing hardware to the internet. Azure Sphere hardware is available in several configurations, including Wi-Fi modules, development kits and dev boards (from partners like Seeed Studios and USI), and the ...",
-      "heat": 149,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/24/microsoft-azure-sphere-launches-in-general-availability/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-24T01:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/12/microsoft-azure-new-logo-2017-e1572843284943.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Microsoft Azure Sphere launches in general availability",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-24-mit-csails-radars-map-hidden-features-to-help-driverless-cars-navigate-snowy-terrain.md",
       "title": "MIT CSAIL’s radars map hidden features to help driverless cars navigate snowy terrain",
       "excerpt": "Plus, bad weather has a tendency to obscure road signage and structures that normally serve as navigational landmarks. Fortunately, researchers at MIT’s Computer Science and Artificial Intelligence Laboratory and Lincoln Laboratory are on the case. In a paper that will be published in the journal IEEE Robotics and Automation Letters later ...",
@@ -430,7 +348,7 @@
       "path": "_posts/2020-02-24-softbank-leads-265-million-investments-in-two-us-based-start-ups.md",
       "title": "SoftBank leads $265 million investments in two U.S.-based start-ups",
       "excerpt": "SoftBank on Monday led a new funding round of $165 million in California-based Karius and invested $100 million in New York-headquartered AI company Behavox, as the technology giant builds a portfolio under its second Vision Fund.",
-      "heat": 112,
+      "heat": 122,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.reuters.com/article/us-karius-funding-idUSKCN20I155",
@@ -1382,7 +1300,7 @@
       "path": "_posts/2020-02-25-deep-learning-market-size-sales-growth-drivers-opportunities-industry-trends-and-forecast-to-2026.md",
       "title": "Deep Learning Market Size, Sales, Growth Drivers, Opportunities, Industry Trends and Forecast to 2026",
       "excerpt": "Deep learning is a subfield of machine learning that consist of a series of computer instructions or algorithms that is inspired by the function and structure of the brain. Deep learning is widely known as artificial neural networks or deep neural networks.",
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-size-sales-growth-drivers-opportunities-industry-trends-and-forecast-to-2026-2020-02-25",
@@ -1592,6 +1510,51 @@
       "topics": [
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-25-googles-deepmind-invents-ai-that-can-beat-you-at-atari.md",
+      "title": "Google’s DeepMind invents AI that can beat you at Atari",
+      "excerpt": "It was extremely mysterious when Google scooped up UK-based AI startup DeepMind last year for $400 million. The company’s website offered zero information about its technology or goals ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geek.com/games/googles-deepmind-invents-ai-that-can-beat-you-at-atari-1616575/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-24T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geek.com",
+        "domain": "geek.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/geek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.geek.com/wp-content/uploads/2015/02/Atari2600a.jpg",
+          "width": 625,
+          "height": 350,
+          "title": "Google’s DeepMind invents AI that can beat you at Atari",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
       ]
     },
     {
@@ -2145,6 +2108,50 @@
           "width": 1800,
           "height": 900,
           "title": "Securiti.ai named most innovative startup at RSA",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-25-startup-malaise-startup-ambition.md",
+      "title": "Startup malaise, startup ambition",
+      "excerpt": "In spite of a spate of massive startup exits the last few months ... What if we could instantly and easily build best-of-breed AI models to solve even our simplest decision-making problems?",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/02/25/startup-malaise-startup-ambition/",
+      "ampWebUrl": "https://techcrunch.com/2020/02/25/startup-malaise-startup-ambition/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/25/startup-malaise-startup-ambition/amp/",
+      "publishedDateTime": "2020-02-25T09:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-525848841.jpg?w=1024",
+          "width": 1024,
+          "height": 787,
+          "title": "Startup malaise, startup ambition",
           "attribution": null
         }
       ],

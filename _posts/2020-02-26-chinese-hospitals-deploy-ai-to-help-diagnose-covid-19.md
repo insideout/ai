@@ -7,8 +7,8 @@ webUrl: "https://www.wired.com/story/chinese-hospitals-deploy-ai-help-diagnose-c
 ampWebUrl: "https://www.wired.com/story/chinese-hospitals-deploy-ai-help-diagnose-covid-19/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/chinese-hospitals-deploy-ai-help-diagnose-covid-19/amp"
 type: article
-quality: 87
-heat: 97
+quality: 89
+heat: 99
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://media.wired.com/photos/5e55c72559e7f20008301071/master/pass/Science_covid19_h_11.02587772.jpg"

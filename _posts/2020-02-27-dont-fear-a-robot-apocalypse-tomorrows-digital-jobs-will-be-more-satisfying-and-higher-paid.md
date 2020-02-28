@@ -19,6 +19,17 @@ topics:
   - AI
   - AI in Robotics
 
+related:
+  - title: "Don't fear a 'robot apocalypse' – tomorrow's digital jobs will be more satisfying and higher-paid"
+    excerpt: "Makridis, Massachusetts Institute of Technology (THE CONVERSATION) If you're concerned that automation and artificial intelligence are going to disrupt the economy over the next decade, join the club."
+    publishedDateTime: 2020-02-28T00:17:00Z
+    webUrl: "https://www.seattlepi.com/news/article/Don-t-fear-a-robot-apocalypse-tomorrow-s-15088808.php"
+    type: article
+    provider:
+      name: seattlepi.com
+      domain: seattlepi.com
+    quality: 21
+
 secured: "BuPxlNt9g8YYsXhTt82VO1PqhvSOhq5Es3LgaNtDHVudiLd84YTxzlaDByZz6TqvFzYkZeJcQ1DOm8SBlsDl4KuanXQF3ECaJ1x/Mp3GCaPBX/3RCH5raj1dI2Vftz6UYjlkbDCJNDQHftZKSVCu3MghgtYac+K7cQxhXuAlMY1WFOmhshtqm4MFoqh6dUs8o64dbDOyz7AnIHjygOWtTyZwLUodJOtxmAZhZS7SbiMxv5uf/HBXOkp6jBsE0/ufuIiIjQaqokJADybUbhi0lf9tSVg9VmnYqmR9uYYbM/yp42PuQpqUii3ywD6U2VxCZc58h2H/N1uMIj3G4Bh5sGVS+POkoYBroLyvWvJDYE27+ZDNxEn+gGNS7WY1leHAU3jmPwtJ8f/EFuxNZoxRe6gIZDBJB02oK+v76/Pak5GlUQzhFUfbY6W8XEv2GOasZb84rHzGdD7LkEuaRamCz289B/07/Qdawyvdmm/wyYM=;7qpg0iXLRR+BdiGHn2tAZA=="
 ---
 

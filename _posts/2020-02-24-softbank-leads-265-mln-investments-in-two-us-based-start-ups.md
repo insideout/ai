@@ -81,6 +81,15 @@ related:
       - url: "https://www.finextra.com/finextra-images/top_pics/xl/softbank.jpg"
         width: 480
         height: 270
+  - title: "Sidetrade plans £30 million investment in Artificial Intelligence"
+    excerpt: "Yesterday evening, AI firm Sidetrade hosted “Together for Tech”, an event to celebrate the expansion of its UK footprint with the official opening of the Sidetrade Tech Hub in Birmingham– the ‘Silicon Canal’ of the UK and Europe (“canal” refers to the 35 miles of canals across the region)."
+    publishedDateTime: 2020-02-28T08:39:00Z
+    webUrl: "https://www.globenewswire.com/news-release/2020/02/28/1992457/0/en/Sidetrade-plans-30-million-investment-in-Artificial-Intelligence.html"
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 19
 
 secured: "/oQC0T1QPwVlV4HaQcyytdQX/jowKLmGVhW4fi5b8ioT2ZvNOSeJMkRgOEBgFl3d7av6S0R1nkEsnvjRl3FD9LIU26ODxYHEbTXJ6dYE/qvEqd+fqL5tEjACuugv9Ae4SeYZj2EPJgOgZ6cN+3ZVaybZkyzBEZ1z2MZEZKhh0TSMzgu76TJrTk6pOfYFj5iK23asWSO9Z1mJwi+sM4tRwPuSWsxtXMYbnEImnYTmcwnuJVJMt/q/9FQJAr/AfadDdXsl1/3txfyHOcbTiCmaDdImWTa0WuWiSnqSjcmQbkkK7YMlrmwvj6UBTkT0QO9e;4OjvyTglzOUvTPxTh6rkqQ=="
 ---

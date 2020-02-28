@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-19T09:57:00Z
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-retail-market-2020-challenges-and-development-opportunities-till-2025-2020-02-19"
 type: article
 quality: 68
-heat: 218
+heat: 228
 published: true
 
 provider:
@@ -167,6 +167,19 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 32
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Self-Driving Car Market 2020: Global Key Players, Trends, Share, Industry Size, Segmentation, Opportunities, Forecast To 2026"
+    excerpt: "Introduction Self-Driving Car Market The market research Self-Driving Car report offers an in-depth analysis of"
+    publishedDateTime: 2020-02-14T06:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-2020-global-key-players-trends-share-industry-size-segmentation-opportunities-forecast-to-2026-2020-02-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 27
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -67,6 +67,17 @@ related:
       - url: "https://cdni.rt.com/files/2020.02/xxl/5e54392385f5404ca641795c.jpg"
         width: 1240
         height: 697
+  - title: "Pope to endorse principles on AI ethics"
+    excerpt: "The \"Rome Call for AI Ethics\" asserts that the technology should respect privacy, work reliably and without bias, consider \"the needs of all human beings\" and operate transparently - an area of ongoing research because AI systems' decisions are often inscrutable. The document reflects growing interest among companies and institutions to set ..."
+    publishedDateTime: 2020-02-28T08:31:00Z
+    webUrl: "https://www.news.com.au/world/breaking-news/pope-to-endorse-principles-on-ai-ethics/news-story/7cf7a7db1ceea502b569c984f3554651"
+    ampWebUrl: "https://amp.news.com.au/world/breaking-news/pope-to-endorse-principles-on-ai-ethics/news-story/7cf7a7db1ceea502b569c984f3554651"
+    cdnAmpWebUrl: "https://amp-news-com-au.cdn.ampproject.org/c/s/amp.news.com.au/world/breaking-news/pope-to-endorse-principles-on-ai-ethics/news-story/7cf7a7db1ceea502b569c984f3554651"
+    type: article
+    provider:
+      name: News.com.au
+      domain: news.com.au
+    quality: 54
   - title: "Pentagon Confirms Alka Patel to Lead the Implementation of Its New Ethical AI Principles"
     excerpt: "For seven months prior to that, from July 2019 through to 2020, Patel worked as a research intern at the Montreal AI Ethics Institute. She also previously served as Commissioner of the Pennsylvania Governor’s Advisory Commission on Asian Pacific American Affairs and Executive Director of Carnegie Mellon University’s Risk & Regulatory ..."
     publishedDateTime: 2020-02-27T20:32:00Z

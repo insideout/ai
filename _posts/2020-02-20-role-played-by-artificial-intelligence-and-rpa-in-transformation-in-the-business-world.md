@@ -60,6 +60,19 @@ related:
       name: Dataquest
       domain: dqindia.com
     quality: 33
+  - title: "35 Innovators Under 35"
+    excerpt: "They see technology as a way to bring about a safer, healthier, and more equitable world. DeepMind Mustafa Suleyman cofounded the AI company DeepMind out of a desire to have as broad an impact on ..."
+    publishedDateTime: 2020-02-24T21:18:00Z
+    webUrl: "https://www.technologyreview.com/lists/innovators-under-35/2018/humanitarian/mustafa-suleyman/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 24
+    images:
+      - url: "https://cdn.technologyreview.com/i/images/tr35-mustafa-suleyman-bw_0.png?cx=149&cy=209&cw=1496&ch=841&sw=1200"
+        width: 1200
+        height: 674
 
 secured: "Bibw2SXvi9Nkw86Pi76LNP+l25mq0zTxKFp41qb6KcTcW1TC4BjmGHmykMAHxEqlKB3zgZkZ+6aE3YKqjHJNuCYEWHyKPxsOdmShbfu1IdJccTAiZMKZJFlN0pTBlAreoBOTQ0V12s0qHDi79z4oodgfhRRtiEpsdOgZIM+naB2DCNAkmGnamPpleW3BIa6ciU5gXMooPGpMqC/XfsEwQtwibFziGBIpVqw+NWtsuDxl4L5WciZ8g16nhFq4xDQuWI/Ib3S79P1OlXhvbuMOEH+57pC8VNfDOcq4nwnfP16KeqQ91Y0kKPXZBRw1UPVZtqs2JS9bMQthEtRnYWcqipyEWlo9NxWRg8KKgvZLpDATNq33ZteJ/oGJki4w1lIt3xLCHhr60QzZBWOhVi8Y0lIZw4O4J/apFPyClHMmvDlldSwS/FaC4DkSjLLt9mG4kOZLzGvcanAmUz/LdgApE3WXC700zSpuF9ZbDEUiC18=;XJwfCQ5zJSULCFZRhjOpsw=="
 ---

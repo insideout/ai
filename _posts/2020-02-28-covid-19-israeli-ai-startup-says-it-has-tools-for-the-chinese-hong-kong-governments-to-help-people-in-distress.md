@@ -33,7 +33,7 @@ related:
     provider:
       name: Wired
       domain: wired.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://media.wired.com/photos/5e55c72559e7f20008301071/master/pass/Science_covid19_h_11.02587772.jpg"
         width: 2300

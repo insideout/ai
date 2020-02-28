@@ -2,6 +2,50 @@
   "page": 8,
   "value": [
     {
+      "path": "_posts/2020-02-27-12-things-pop-culture-gets-wrong-about-artificial-intelligence.md",
+      "title": "12 Things Pop Culture Gets Wrong About Artificial Intelligence",
+      "excerpt": "When non-tech people glean much of their tech knowledge from pop culture, it can lead to a lot of misinformation.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/27/12-things-pop-culture-gets-wrong-about-artificial-intelligence/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/27/12-things-pop-culture-gets-wrong-about-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/27/12-things-pop-culture-gets-wrong-about-artificial-intelligence/amp/",
+      "publishedDateTime": "2020-02-27T05:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x527/https://specials-images.forbesimg.com/dam/imageserve/1206610697/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 527,
+          "title": "12 Things Pop Culture Gets Wrong About Artificial Intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_posts/2020-02-27-5-ai-and-analytics-trends-marketers-and-brands-should-be-investing-in.md",
       "title": "5 AI And Analytics Trends Marketers And Brands Should Be Investing In",
       "excerpt": "Why analytics and AI are such powerful tools for brands and organizations and what are the key focus areas that these companies should have for the coming year as analytics and AI continue to be critical to connecting with customers and improving operations.",
@@ -1251,6 +1295,50 @@
       ]
     },
     {
+      "path": "_posts/2020-02-28-microsoft-invests-in-a-new-ai-for-health-initiative.md",
+      "title": "Microsoft Invests In A New AI For Health Initiative",
+      "excerpt": "Microsoft recently announced a new healthcare initiative known as “AI for Health,” a program worth over 40 million dollars.",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/ilkerkoksal/2020/02/28/microsoft-invests-in-a-new-ai-for-health-initiative",
+      "ampWebUrl": "https://www.forbes.com/sites/ilkerkoksal/2020/02/28/microsoft-invests-in-a-new-ai-for-health-initiative/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2020/02/28/microsoft-invests-in-a-new-ai-for-health-initiative/amp/",
+      "publishedDateTime": "2020-02-27T22:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F927963660%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5134%26cropY1%3D449%26cropY2%3D3340",
+          "width": 1200,
+          "height": 676,
+          "title": "Microsoft Invests In A New AI For Health Initiative",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_posts/2020-02-28-robots-and-their-masters-take-over-nuclear-plant-for-darpas-subterranean-challenge.md",
       "title": "Robots and their masters take over nuclear plant for DARPA’s Subterranean Challenge",
       "excerpt": "This special series explores the evolving relationship between humans and machines, examining the ways that robots, artificial intelligence and automation are impacting our work ... “And that confidence might be just what they need to go start a company, or create a lab, or address real problems that need additional attention.”",
@@ -2013,96 +2101,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2019-12-20-computer-vision-and-the-ccpa-what-you-need-to-know.md",
-      "title": "Computer Vision and the CCPA: What You Need to Know",
-      "excerpt": "This article will cover what companies who have deployed or are considering deploying computer vision technology should do with the biometric data they collect in order to be compliant with the CCPA. The National Law Review does a tremendous job of ...",
-      "heat": 69,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/trueface-ai/computer-vision-and-the-ccpa-what-you-need-to-know-928477de0601",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-12-19T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/1*YGkB52a5tgp8vGHleh2bAw.png",
-          "width": 1200,
-          "height": 744,
-          "title": "Computer Vision and the CCPA: What You Need to Know",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2019-12-20-facebook-discovers-fakes-that-show-evolution-of-disinformation.md",
-      "title": "Facebook Discovers Fakes That Show Evolution of Disinformation",
-      "excerpt": "The network exposed by Facebook used fake profile photos generated with artificial intelligence.Credit...Graphika/The Atlantic Council’s Digital Forensic Research Lab Facebook said on Friday that it had removed hundreds of accounts with ties to the Epoch ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nytimes.com/2019/12/20/business/facebook-ai-generated-profiles.html",
-      "ampWebUrl": "https://www.nytimes.com/2019/12/20/business/facebook-ai-generated-profiles.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2019/12/20/business/facebook-ai-generated-profiles.amp.html",
-      "publishedDateTime": "2019-12-20T15:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2019/12/20/business/20takedown3/20takedown3-facebookJumbo-v2.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": "Facebook Discovers Fakes That Show Evolution of Disinformation",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     }
   ],
