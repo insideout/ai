@@ -71,6 +71,21 @@ related:
       - url: "https://sgp1.digitaloceanspaces.com/wp-uploads/tech/wp-content/uploads/2020/02/27152338/Helio-p95-featured-image.png"
         width: 805
         height: 422
+  - title: "MediaTek Helio P95 SoC announced with incremental performance upgrades"
+    excerpt: "The Helio P95 features an 8-core CPU architecture and a new PowerVR GPU. There's support for a single 64MP sensor or a 24+16MP dual camera unit. The SoC also features APU 2.0, MediaTek's proprietary AI cores. MediaTek has announced the Helio P95 SoC for smartphones. The P95 comes with an 8-core CPU cluster with two Cortex-A75 cores clocked at 2 ..."
+    publishedDateTime: 2020-02-28T07:50:00Z
+    webUrl: "https://www.digit.in/news/mobile-phones/mediatek-helio-p95-soc-announced-with-incremental-performance-upgrades-52621.html"
+    ampWebUrl: "https://www.digit.in/article/amp/mobile-phones/52621/mediatek-helio-p95-soc-announced-with-incremental-performance-upgrades"
+    cdnAmpWebUrl: "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/article/amp/mobile-phones/52621/mediatek-helio-p95-soc-announced-with-incremental-performance-upgrades"
+    type: article
+    provider:
+      name: Digit
+      domain: digit.in
+    quality: 44
+    images:
+      - url: "https://static.digit.in/default/56392a7ea6d5f10cccc0feb6ee6efd14687f9bcb.jpeg"
+        width: 1280
+        height: 720
   - title: "MediaTek announces Helio P95 SoC with APU 2.0, PowerVR GM 94446 GPU and more"
     excerpt: "There is an Imagination PowerVR GM 94446 GPU with a 10% improvement in performance over the ... The SoC has a triple ISP with 14-bit RAW and 10-bit YUV processing. It also has AI-camera enhancements such as AI-NR low-light photography, 5-person human ..."
     publishedDateTime: 2020-02-26T21:21:00Z

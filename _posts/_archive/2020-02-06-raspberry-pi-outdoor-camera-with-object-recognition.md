@@ -23,6 +23,6 @@ images:
     height: 500
     title: "Raspberry Pi outdoor camera with object recognition"
 
-secured: "70OU/s6Ry9Zl+wyzw4v7kMvmh8IUdCWkGlzcFz5zWO6BlbPIu9AmwRa7pMkiI9ay774T+H2939+yiQBzuW7xZG+bczZtbRh7KYQJQ59vTpnes048gVxExpprSuUZVZtfhk0G9/8juVGm0ivc18TpuglFP14AqaEtDFeVowi22LGdAa3CMS98eOuour8INaHoUMh85L7B/WuLTSAaX5NQYxeof4Hy3uDJi0zrbBjuIfw5qc7OnaZEb2EnBdmI4cIFujyCefY9djN60VRRnU9syvtvKSaq2baKnOBtcMRpicBDeWhDO7iKbuBFCdFQHMBT;O/B6CHyRbn3ZJdOvGRJA9Q=="
+secured: "3gexY8poUCSTv1XMrVUY/VkBCX88daFSiS4y4xzMACehqPhmuKrTLcguyZVFMtRjjgXehVv9ZiK+24SNtZo4I9jzILtJXtCAlGJ4YkTNLK3/7543t15qJib1Hr/oep4Xgx758/0LfMHKblSzh4u6WJvT8MxQ4d5Cwa16v3BY3Z6yvXcv4yb6Jzx9RnuFre1y+23qYcwI0UeqcIUrYZxuLqdgwex0+ErWhqLsa9+5GvLqoCTIrETjKj2MwNEUtIO+2K6n+mBc1eeYxQtCfrt0FC3kq+W1vP57biujyHNjpxlBu9Dl6APTANyZbNC88szw;TcFXY7T6TksIYQQ6Y6cSrQ=="
 ---
 

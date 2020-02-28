@@ -1,11 +1,11 @@
 ---
 category: news
 title: "Struggling With Fake AI? Here’s How To Become A Real AI Company"
-excerpt: "Artificial intelligence is one of the hottest fields in technology right now, and it is hard to know which are Real AI Companies from Fake AI. Here is a 5-step recipe for becoming a Real AI Company - a true story from the trenches from a hardcore ML startup."
+excerpt: "AI companies appear, increasingly, to combine elements of both software and services with gross margins, scaling ... Companies such as Netflix, Uber, Google, Facebook, Apple, Microsoft, Amazon and a suite of growing companies that have tasted the flavour of data, are further accelerating their growth and increasingly drawing huge margins."
 publishedDateTime: 2020-02-26T21:49:00Z
-webUrl: "https://www.forbes.com/sites/cognitiveworld/2020/02/26/struggling-with-fake-ai-heres-how-to-become-a-real-ai-company/"
-ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2020/02/26/struggling-with-fake-ai-heres-how-to-become-a-real-ai-company/amp/"
-cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/02/26/struggling-with-fake-ai-heres-how-to-become-a-real-ai-company/amp/"
+webUrl: "https://www.forbes.com/sites/cognitiveworld/2020/02/28/struggling-with-fake-ai-heres-how-to-become-a-real-ai-company/"
+ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2020/02/28/struggling-with-fake-ai-heres-how-to-become-a-real-ai-company/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/02/28/struggling-with-fake-ai-heres-how-to-become-a-real-ai-company/amp/"
 type: article
 quality: 89
 heat: 99
@@ -46,6 +46,6 @@ related:
         width: 1300
         height: 724
 
-secured: "eP8G6mP4gAxLFHDbNJd31kVGCCyrIZHwui3aPpwQ7l8OnQIhIi61n0i8iwDsGMsVKY8GsZ97Ut07WqeFdhs9KCj0OFnbnLPJlMbXrUS903nsM6N8LWmWExHiJwNBTtUcw2HLlORklyxrroGMwyZmT41EiZV/Eny39NkyFjxwENpgMlHV7zp8Ds+CbokiYRjHSSSuO/+cA8m9lZ5LRFRzca8xxWH1paNqJUhkIsIYAFwVViRptC51acLqJIeXAGzs9Lsc37Voo7BlsktGtBoIZbtIPdCtOdL5tBB7xSb5s4pQztY2xnp7MWN7eR7VDvX9fAD/CummtgTzoL4w7mHZhj/3VlrMvG5gUPB33lhoWYfTQbcc8LzNqvwqEVXDNkz6OvymevBTOATjpWGseEhAMnPjDLbXIAWxN0h3Z8YPGGqD8YKJgKP+/b5x69xFeyBT7IBf3SKQzx3Yyrv8GDvy5vLbtInei7lK5yDoZqLC28M=;ETC0C5oQR6GSgGIl63mXxQ=="
+secured: "yRTFyA1BOEs19jNkUF3ykpk4oKPvEic0zVu7HGgy4wMZN39O3tSo4cNegKyB8lAepzAXu20Sp9xflTIKUutoNjNZPuNLVtCKO3NCx9A6ibiu9MFdZFRfSwpv2dmxSTyuzs/mocmBaY5lxQwCLdj+pvjAcYGKENy5gZ+Y0OZxE++lTVCqktsmQpr4tD5UB9WpeablyznFMInrvsF8w3BM7F0v3LQIWoa4JhVSrB14pP2FzauwHy8omYxf+wbnNJnWrWVgzCBLiS4DbA2bfgfDoSXJCXa1HquZBz/GZ7RSj22BAWuP+ePV4YBgHML5eyzl;jcFIOxcqVoud5PrLB8ssnw=="
 ---
 

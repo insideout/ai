@@ -119,6 +119,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Artificial Intelligence in Healthcare Market 2020 | Growth Factors, Latest Research, Global Share, Analysis and Forecast to 2026"
+    excerpt: "Artificial Intelligence in Healthcare Market Size, Share and Global Trend By Platform, By Application (Robot-Assisted Surgery, Virtual Nursing Assistant, Administrative Workflow Assistance, Fraud Detection,"
+    publishedDateTime: 2020-02-28T06:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2020-growth-factors-latest-research-global-share-analysis-and-forecast-to-2026-2020-02-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Speech Recognition Market Trends, Share, Size, Growth, Opportunity and Forecast 2020-2026 by Ameco Research"
     excerpt: "Ameco Research presents \"Global Speech Recognition2020 Market Research Report\" new Research to its studies database. A new report by Ameco Research studies the prevalent growth rate in the global Speech Recognition market."
     publishedDateTime: 2020-02-17T10:16:00Z

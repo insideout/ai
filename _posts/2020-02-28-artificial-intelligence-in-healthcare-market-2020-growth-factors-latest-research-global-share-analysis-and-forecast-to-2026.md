@@ -1,29 +1,32 @@
 ---
 category: news
-title: "Deep Learning Software Market 2020 Global Industry – Key Players, Size, Trends, Opportunities, Growth- Analysis to 2026"
-excerpt: "“Global Deep Learning Software Market 2020” Wiseguyreports.Com Publish New Market Research Report On-\"Deep Learning Software Market 2020 Global Analysis,"
-publishedDateTime: 2020-02-18T09:30:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/02/ab15351302/deep-learning-software-market-2020-global-industry-key-players-size-trends-opportunities-growth-a"
-ampWebUrl: "https://amp.benzinga.com/amp/content/15351302"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15351302"
+title: "Artificial Intelligence in Healthcare Market 2020 | Growth Factors, Latest Research, Global Share, Analysis and Forecast to 2026"
+excerpt: "Artificial Intelligence in Healthcare Market Size, Share and Global Trend By Platform, By Application (Robot-Assisted Surgery, Virtual Nursing Assistant, Administrative Workflow Assistance, Fraud Detection,"
+publishedDateTime: 2020-02-28T06:56:00Z
+webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2020-growth-factors-latest-research-global-share-analysis-and-forecast-to-2026-2020-02-28"
 type: article
-quality: 35
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
-  - Machine Learning
+  - AI in Robotics
+  - AI in Healthcare
 
 images:
-  - url: "https://www.abnewswire.com/uploads/1582017829.jpeg"
-    width: 600
-    height: 250
-    title: "Deep Learning Software Market 2020 Global Industry – Key Players, Size, Trends, Opportunities, Growth- Analysis to 2026"
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    title: "Artificial Intelligence in Healthcare Market 2020 | Growth Factors, Latest Research, Global Share, Analysis and Forecast to 2026"
 
 related:
   - title: "Artificial Intelligence (AI) Market Latest Advancements and Technology Growth 2020 to 2026"
@@ -117,19 +120,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Artificial Intelligence in Healthcare Market 2020 | Growth Factors, Latest Research, Global Share, Analysis and Forecast to 2026"
-    excerpt: "Artificial Intelligence in Healthcare Market Size, Share and Global Trend By Platform, By Application (Robot-Assisted Surgery, Virtual Nursing Assistant, Administrative Workflow Assistance, Fraud Detection,"
-    publishedDateTime: 2020-02-28T06:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2020-growth-factors-latest-research-global-share-analysis-and-forecast-to-2026-2020-02-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "Natural Language Processing (NLP) Market 2020 Global Growth, Trends, Analysis and Forecast to 2025"
     excerpt: "The post Natural Language Processing (NLP) Market 2020 Global Growth, Trends, Analysis and Forecast to 2025 appeared first on Dailymarketjournals. COMTEX_362078588/2654/2020-02-16T10:34:56"
     publishedDateTime: 2020-02-16T15:34:00Z
@@ -165,6 +155,21 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 44
+  - title: "Deep Learning Software Market 2020 Global Industry – Key Players, Size, Trends, Opportunities, Growth- Analysis to 2026"
+    excerpt: "“Global Deep Learning Software Market 2020” Wiseguyreports.Com Publish New Market Research Report On-\"Deep Learning Software Market 2020 Global Analysis,"
+    publishedDateTime: 2020-02-18T09:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/02/ab15351302/deep-learning-software-market-2020-global-industry-key-players-size-trends-opportunities-growth-a"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/15351302"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15351302"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 35
+    images:
+      - url: "https://www.abnewswire.com/uploads/1582017829.jpeg"
+        width: 600
+        height: 250
   - title: "Global Artificial Intelligence in BFSI Market Drivers, Restraints & Opportunities to 2026 - ResearchAndMarkets.com"
     excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Artificial Intelligence in BFSI Market by Offerings Solution Technology : Global Opportunity Analysis and Industry Forecast, 2019-2026\" report has been added to ResearchAndMarkets.com's offering. The global artificial intelligence (AI) in BFSI market was valued at $17,765.2 million in 2018 and is expected to reach ..."
     publishedDateTime: 2020-02-24T17:35:00Z
@@ -179,6 +184,6 @@ related:
         width: 1200
         height: 627
 
-secured: "JLdfA6Qd4MhRLcbJ9ksmvMUbJGNKCGMtDeD9NWkBgQUkpHsmwvbxo3XY0EOfpsWL3KDpgwMi7XSOkfGKk5cbVbGhxqlRnzqjw6YYSYPhaPjY2DWChFbzRbwyWUjsVRLxZx4uH1Hqat0NslmaMkjERSUpwSrqhs9rSimLJ8X5wwr0uKjmYEdhN6BEIEqE2WdnLrVXfngpFDeAzZBFjMTHtwntHGqYKvFvgK66QD1GKHPxAoCpOmx09+s/dzRQI5zwAslxR/lzAu+0yLwvL0Bv9Tqq6DqJsA3WiavD+WB6pjcmd3yrYtJuy7YQy5OAYk5DTs/CNVL4QwInEAJV+zxB7MQBJAnhrvoy+RKnDbO5PVROo2XjN37zNMVr8ZvWMUf3hp9+AuU12Z7Yk5aefutn+65PJr5jngKb41itCV+iVz/dEuWLUYtoVAYdL0G99QEr5KIg3k8uJr43/Wj6DO04cZBUSG2FavI9YazFOWBpLcA=;hydKAsIMmTj3kmJRt6hKAg=="
+secured: "eCPH7+m6IrjD4OAErPgc9RNxPq9akDbOvWT0EESoDq/5sLhnTQ3ZluA2zpbgIoebIyqrqVRkZkJ96Eyrrk/Da3QGF8EI8Fkvlp/K6b9Q09q38frv2Z2qqW4wq2zCCTICm6R9UbPeOBWJqTxoQrFyHgeFcylrpWEblNaAceTbISoRzqUPzf2m3WLVJN8JlsaDLTbc/3Jnqt1icjB5tyXBPukU0f61N+zRGfu2flbusvKfdjdU8ml/t90IdL6pEMlnltBm6CD/zl47Fo7qRqlfwwaCPIpczEHO6Oq+CcDtfzTCWqrVkc36VO2nrhdKu8Oh;cNPlFuXHHFpURBpUrp93hw=="
 ---
 

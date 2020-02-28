@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-18T14:19:00Z
 webUrl: "https://www.djournal.com/news/national/clearview-ai-s-founder-defends-controversial-facial-recognition-app/video_9e9cbbbc-111e-5904-b1c9-c12426069aab.html"
 type: article
 quality: 54
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -24,6 +24,19 @@ images:
     title: "Clearview AI's founder defends controversial facial recognition app"
 
 related:
+  - title: "Senate bill would put a moratorium on federal facial recognition use"
+    excerpt: "A new bill introduced in the Senate would put a moratorium on the use of facial recognition by federal agencies, at least until Congress can figure out how to regulate the technology. The Ethical Use of Facial Recognition Act is a partnership between Sens. Cory Booker, D-N.J., and Jeff Merkley, D-Ore., that would also create a congressional ..."
+    publishedDateTime: 2020-02-14T20:53:00Z
+    webUrl: "https://www.fedscoop.com/facial-recognition-federal-moratorium-bill/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 39
+    images:
+      - url: "https://www.fedscoop.com/wp-content/uploads/2020/02/GettyImages-1167845607.jpg"
+        width: 2309
+        height: 1299
   - title: "CBP Expands Facial Recognition Program to Another Southern Border Crossing"
     excerpt: "Customs and Border Protection is deploying its facial recognition program at land border crossings at a fifth location ahead of a broader expansion planned for this spring. This week, CBP began scanning pedestrians’ faces at the Progreso port of entry in Weslaco, Texas. Progreso became the fifth location to use the technology since the ..."
     publishedDateTime: 2020-02-13T18:50:00Z

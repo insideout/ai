@@ -23,17 +23,6 @@ images:
     height: 295
     title: "Most Tech Sector Leaders Believe Companies Should Have An Artificial Intelligence Ethics Policy: KPMG Report"
 
-related:
-  - title: "Most Tech Sector Leaders Believe Companies Should Have An Artificial Intelligence Ethics Policy: KPMG Report"
-    excerpt: "/PRNewswire/ -- Nearly 90 percent of technology company decision-makers believe companies in all industries should implement an AI ethics policy to help"
-    publishedDateTime: 2020-02-13T14:17:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/most-tech-sector-leaders-believe-companies-should-have-an-artificial-intelligence-ethics-policy-kpmg-report-301004109.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 17
-
 secured: "Y12v5GHgi2KUPFbRdyZ1roCra8qq8EBiiJv5RNyH1Zm5unWbWx6u9SzrdSw5GaRdHN8owJqNtG7VOhrUGYL1woV2VkgxJ6Bs7R2LxPfuNWO1YmNzRcoxCpTh/fg6Hmf3pe2RwA3j0W2JLdTgHl9lUcq0DwrnZNrlSzVJAUGCqGqnh4oWumq6aSyl8qS6VC5WmHmwCLWuJrAyBry1t1mcRpERAvbpovk0u+wOujhhWRnSEnuJh/Wls40rtGZMSc1ar8v8VlcR4T7wZ3VV9ypd6CJ7Js3IY9umWnoEJOOsFcRhq6YKrCRobfoBBF8RwIgoHtpLompX9XIblzAzp9361smWL+qZdobXP2ku/+H7lAb5pr2zShQ2PN+7pBTdMWFwKpTOC+aOUp2/xkHp/648oMKKGOlImIyHKD0qZ5KIHGCbOp4/HyhVNrKnfDQCec6Cj8lSUPYuDaSKiirNF7te+bSQxmifbOTcA7ZeOLyQHYE=;nwd2BnL8zdne78mAGE7tBA=="
 ---
 

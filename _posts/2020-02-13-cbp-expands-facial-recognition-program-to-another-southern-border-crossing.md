@@ -37,6 +37,19 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/9/e9/9e9cbbbc-111e-5904-b1c9-c12426069aab/5e41f2280d4e7.image.jpg?resize=576%2C324"
         width: 576
         height: 324
+  - title: "Senate bill would put a moratorium on federal facial recognition use"
+    excerpt: "A new bill introduced in the Senate would put a moratorium on the use of facial recognition by federal agencies, at least until Congress can figure out how to regulate the technology. The Ethical Use of Facial Recognition Act is a partnership between Sens. Cory Booker, D-N.J., and Jeff Merkley, D-Ore., that would also create a congressional ..."
+    publishedDateTime: 2020-02-14T20:53:00Z
+    webUrl: "https://www.fedscoop.com/facial-recognition-federal-moratorium-bill/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 39
+    images:
+      - url: "https://www.fedscoop.com/wp-content/uploads/2020/02/GettyImages-1167845607.jpg"
+        width: 2309
+        height: 1299
   - title: "Ohio’s controversial facial-recognition database to get $21.4 million update, AG Dave Yost says"
     excerpt: "COLUMBUS, Ohio — The state of Ohio is spending $21.4 million to revamp its controversial facial-recognition software next year to better identify suspects and missing persons by matching their photos with updated driver’s license and mug-shot pictures, Attorney General Dave Yost announced Thursday. The announcement came as a task force ..."
     publishedDateTime: 2020-02-20T18:14:00Z

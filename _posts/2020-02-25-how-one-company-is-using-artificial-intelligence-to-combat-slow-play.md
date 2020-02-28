@@ -26,11 +26,11 @@ images:
 
 related:
   - title: "Struggling With Fake AI? Here’s How To Become A Real AI Company"
-    excerpt: "Artificial intelligence is one of the hottest fields in technology right now, and it is hard to know which are Real AI Companies from Fake AI. Here is a 5-step recipe for becoming a Real AI Company - a true story from the trenches from a hardcore ML startup."
+    excerpt: "AI companies appear, increasingly, to combine elements of both software and services with gross margins, scaling ... Companies such as Netflix, Uber, Google, Facebook, Apple, Microsoft, Amazon and a suite of growing companies that have tasted the flavour of data, are further accelerating their growth and increasingly drawing huge margins."
     publishedDateTime: 2020-02-26T21:49:00Z
-    webUrl: "https://www.forbes.com/sites/cognitiveworld/2020/02/26/struggling-with-fake-ai-heres-how-to-become-a-real-ai-company/"
-    ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2020/02/26/struggling-with-fake-ai-heres-how-to-become-a-real-ai-company/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/02/26/struggling-with-fake-ai-heres-how-to-become-a-real-ai-company/amp/"
+    webUrl: "https://www.forbes.com/sites/cognitiveworld/2020/02/28/struggling-with-fake-ai-heres-how-to-become-a-real-ai-company/"
+    ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2020/02/28/struggling-with-fake-ai-heres-how-to-become-a-real-ai-company/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/02/28/struggling-with-fake-ai-heres-how-to-become-a-real-ai-company/amp/"
     type: article
     provider:
       name: Forbes
