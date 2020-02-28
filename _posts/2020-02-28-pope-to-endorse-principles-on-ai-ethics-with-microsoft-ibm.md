@@ -1,27 +1,27 @@
 ---
 category: news
-title: "DoD Adopts AI Ethics Principles, But How Will They Be Enforced?"
-excerpt: "Jack Shanahan, told reporters this afternoon. “The real hard part of this is taking the AI delivery pipeline” – from the initial algorithms and data sets, field testing, and training human users, to holding commanders accountable for lethal errors – “and understanding where those ethics principles need to be applied.” “They’re ..."
-publishedDateTime: 2020-02-24T22:37:00Z
-webUrl: "https://breakingdefense.com/2020/02/dod-adopts-ai-ethics-principles-but-how-will-they-be-enforced/"
+title: "Pope to endorse principles on AI ethics with Microsoft, IBM"
+excerpt: "Kelly told Reuters in an interview. Vatican officials also had concerns about AI displacing jobs and met with IBM in the United States at a research center in September, he said. Pope Francis was ..."
+publishedDateTime: 2020-02-28T08:04:00Z
+webUrl: "https://wsau.com/news/articles/2020/feb/28/pope-to-endorse-principles-on-ai-ethics-with-microsoft-ibm/989350/?refer-section=technology"
 type: article
-quality: 54
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Breaking Defense
-  domain: breakingdefense.com
+  name: WSAY
+  domain: wsau.com
 
 topics:
   - AI
-  - AI Ethics
+  - Facebook AI
 
 images:
-  - url: "https://sites.breakingmedia.com/uploads/sites/3/2020/02/Screen-Shot-2020-02-24-at-5.11.58-PM.png"
-    width: 597
-    height: 328
-    title: "DoD Adopts AI Ethics Principles, But How Will They Be Enforced?"
+  - url: "https://radiocms-images.us1.eldarioncloud.com/resize/1200/https://storage.googleapis.com/media.mwcradio.com/mimesis/2020-02/28/2020-02-28T080413Z_1_LYNXNPEG1R0LA_RTROPTP_3_POPE-GENERALAUDIENCE.JPG?upscale=False"
+    width: 1200
+    height: 750
+    title: "Pope to endorse principles on AI ethics with Microsoft, IBM"
 
 related:
   - title: "DoD unveils how it will keep AI in check with ethics principles"
@@ -54,6 +54,19 @@ related:
       - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/Untitled-design-32-796x417.png"
         width: 796
         height: 417
+  - title: "DoD Adopts AI Ethics Principles, But How Will They Be Enforced?"
+    excerpt: "Jack Shanahan, told reporters this afternoon. “The real hard part of this is taking the AI delivery pipeline” – from the initial algorithms and data sets, field testing, and training human users, to holding commanders accountable for lethal errors – “and understanding where those ethics principles need to be applied.” “They’re ..."
+    publishedDateTime: 2020-02-24T22:37:00Z
+    webUrl: "https://breakingdefense.com/2020/02/dod-adopts-ai-ethics-principles-but-how-will-they-be-enforced/"
+    type: article
+    provider:
+      name: Breaking Defense
+      domain: breakingdefense.com
+    quality: 54
+    images:
+      - url: "https://sites.breakingmedia.com/uploads/sites/3/2020/02/Screen-Shot-2020-02-24-at-5.11.58-PM.png"
+        width: 597
+        height: 328
   - title: "DOD Adopts 5 Principles of Artificial Intelligence Ethics"
     excerpt: "Artificial intelligence is the department's top technology modernization priority, DOD Chief Information Officer Dana Deasy said yesterday. The new principles lay the foundation for the ethical design, development, deployment and use of AI by DOD he said. \"These principles build upon the department's long history of ethical adoption of new ..."
     publishedDateTime: 2020-02-25T00:00:00Z
@@ -80,19 +93,6 @@ related:
       - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/AI_Automation/AIengineers.png"
         width: 760
         height: 368
-  - title: "Pope to endorse principles on AI ethics with Microsoft, IBM"
-    excerpt: "Kelly told Reuters in an interview. Vatican officials also had concerns about AI displacing jobs and met with IBM in the United States at a research center in September, he said. Pope Francis was ..."
-    publishedDateTime: 2020-02-28T08:04:00Z
-    webUrl: "https://wsau.com/news/articles/2020/feb/28/pope-to-endorse-principles-on-ai-ethics-with-microsoft-ibm/989350/?refer-section=technology"
-    type: article
-    provider:
-      name: WSAY
-      domain: wsau.com
-    quality: 39
-    images:
-      - url: "https://radiocms-images.us1.eldarioncloud.com/resize/1200/https://storage.googleapis.com/media.mwcradio.com/mimesis/2020-02/28/2020-02-28T080413Z_1_LYNXNPEG1R0LA_RTROPTP_3_POPE-GENERALAUDIENCE.JPG?upscale=False"
-        width: 1200
-        height: 750
   - title: "US DoD Adopts Ethical AI Principles"
     excerpt: "... Department of Defense announced yesterday that it has adopted a series of ethical principles regarding the use of artificial intelligence (AI). Designed to build on the US military’s existing ethics framework, which is based on the US Constitution, Title 10 of the US Code, Law of War, existing international treaties, and longstanding ..."
     publishedDateTime: 2020-02-26T18:49:00Z
@@ -103,6 +103,6 @@ related:
       domain: infosecurity-magazine.com
     quality: 34
 
-secured: "Srcz+cCYWkW5gSqTkwUP5DR8mJA8ZXZmoQBzzv/Eo55VQ36sN+S3hZAOL/J3BrULdTo78h32u8oJaxZlm7n2J6S3M4WpBp1Cp+yrjFPhhGX19Bq9F65YkRgl1xgVVUw6fovDfUv4P0zsuKJNREURg9nERHMRVufE3SUUkcNt/Gjh0ijaazYEZzNEgi7AWfJzgXZpurY/onETpdbQETN+n/CfWJYuEPRtwks275koQ4uqRSoH3jQJBJuw0Aj4v1NcM6V3f7EDQwdPvEjvE3GMW6L+2hv219fpA6hA6oAhKb9Q4gmEDwfDiU2AEn+ECvOkbeFnfT+sW4CirGebE19lpbCeqllVhE1jD7pXg4l4jwxFTq2+jG8HsxPq8GCyzswEGKo0XhmBNaVTOZZ2nVN3m+aX9JgYWxTYYO3Rtq67DGhNKU5C67tc2aXjS3TYa5ZYPDCb9XTbKv+lPXs7yroZPI/v1n5MvD9+je2I3mwIcIM=;QwW8sx6724eCnkIvrIQf+g=="
+secured: "49Gdi8cwVywXUZbFwm3Bv28583bPyWjMRB1yDrJnmZhWjKp/nWQURgbMVQr0ohWNY2c9p3fY8xx4VhX7cS4N2I/khkYxEOmhxeS29+MMT61oi3Ot1+RumT30hMKDD6cgVe0px2V3sXmvfOHRWMsdaPkNvk5CWG8QltowldVKBJWpvAYmy62VGSNYcvYdktzZObSV9gNMqkR+ms3FHQqkbPF3RRQJ/8q0yMH9nYb0z0/g39f3/JOXrHrdUqEmdokYlOwo6IUWPxRKOi0RKcCyeN/A35NksaVvjIESRfuUdYWkreAJj6DA+OeiGLOhz7hH;z2hA8LBr8tkL8cpSwBp+UQ=="
 ---
 

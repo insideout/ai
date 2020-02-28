@@ -2,50 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_posts/2020-02-27-12-things-pop-culture-gets-wrong-about-artificial-intelligence.md",
-      "title": "12 Things Pop Culture Gets Wrong About Artificial Intelligence",
-      "excerpt": "When non-tech people glean much of their tech knowledge from pop culture, it can lead to a lot of misinformation.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/27/12-things-pop-culture-gets-wrong-about-artificial-intelligence/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/27/12-things-pop-culture-gets-wrong-about-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/27/12-things-pop-culture-gets-wrong-about-artificial-intelligence/amp/",
-      "publishedDateTime": "2020-02-27T05:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x527/https://specials-images.forbesimg.com/dam/imageserve/1206610697/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 527,
-          "title": "12 Things Pop Culture Gets Wrong About Artificial Intelligence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-27-5-ai-and-analytics-trends-marketers-and-brands-should-be-investing-in.md",
       "title": "5 AI And Analytics Trends Marketers And Brands Should Be Investing In",
       "excerpt": "Why analytics and AI are such powerful tools for brands and organizations and what are the key focus areas that these companies should have for the coming year as analytics and AI continue to be critical to connecting with customers and improving operations.",
@@ -1426,6 +1382,50 @@
       "topics": [
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-28-this-ai-company-is-trying-to-fix-physician-burnout-an-interview-with-dr-nathan-gunn-coo-of-sukiai.md",
+      "title": "This AI Company Is Trying To Fix Physician Burnout - An Interview With Dr. Nathan Gunn, COO Of Suki.ai",
+      "excerpt": "The National Academy of Medicine found 50% of the country’s doctors and over 60% of the country’s medical students and residents experience substantial symptoms of burnout.",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/28/this-ai-company-is-trying-to-fix-physician-burnoutan-interview-with-dr-nathan-gunn-coo-of-sukiai/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/28/this-ai-company-is-trying-to-fix-physician-burnoutan-interview-with-dr-nathan-gunn-coo-of-sukiai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/02/28/this-ai-company-is-trying-to-fix-physician-burnoutan-interview-with-dr-nathan-gunn-coo-of-sukiai/amp/",
+      "publishedDateTime": "2020-02-28T01:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e58d76b7a009800073472f1%2F0x0.jpg",
+          "width": 1000,
+          "height": 563,
+          "title": "This AI Company Is Trying To Fix Physician Burnout - An Interview With Dr. Nathan Gunn, COO Of Suki.ai",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {

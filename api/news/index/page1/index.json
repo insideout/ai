@@ -2,50 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_posts/2020-02-13-andrew-yang-brought-ai-into-american-politics-and-it-isnt-going-away.md",
-      "title": "Andrew Yang brought AI into American politics, and it isn’t going away",
-      "excerpt": "Andrew Yang ended his campaign Tuesday after a tepid showing in New Hampshire, bringing to an end what can be characterized as the only AI-first presidential campaign in U.S. history. Some will argue Yang’s campaign simply rose to prominence because of his support of a $1,000 universal basic income, but he outlasted and outperformed most of ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/13/andrew-yang-brought-ai-into-american-politics-and-it-isnt-going-away/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/13/andrew-yang-brought-ai-into-american-politics-and-it-isnt-going-away/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/13/andrew-yang-brought-ai-into-american-politics-and-it-isnt-going-away/amp/",
-      "publishedDateTime": "2020-02-13T09:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/andrew-yang.jpg?fit=1800%2C989&strip=all",
-          "width": 1800,
-          "height": 989,
-          "title": "Andrew Yang brought AI into American politics, and it isn’t going away",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-13-apple-seeks-to-patent-machine-learning-correction-of-gps-estimates.md",
       "title": "Apple seeks to patent machine learning correction of GPS estimates",
       "excerpt": "But Apple thinks it can improve location accuracy by applying machine learning to Kalman estimation filters, a just-published patent application reveals. The basic concept is that while navigation systems generally rely on live location-determining pings from multiple satellites — a process that can take precious time, during which the ...",
@@ -184,7 +140,7 @@
       "path": "_posts/2020-02-13-the-illusion-of-artificial-emotional-awareness.md",
       "title": "The Illusion of Artificial Emotional Awareness",
       "excerpt": "Welcome to the world of affective computing, also known as emotion AI. A relatively new branch of computer science ... Since writing Heart of the Machine: Our Future in a World of Artificial Emotional Intelligence, I’ve routinely had to explain that none of this technology is giving computers the ability to experience or understand emotions ...",
-      "heat": 142,
+      "heat": 132,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.psychologytoday.com/intl/blog/the-intelligence-report/202002/the-illusion-artificial-emotional-awareness",
@@ -243,50 +199,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-13-viziblezone-taps-ai-and-smartphone-data-to-alert-drivers-to-pedestrians.md",
-      "title": "Viziblezone taps AI and smartphone data to alert drivers to pedestrians",
-      "excerpt": "An intriguing solution emerged last year from Viziblezone, a startup within the Jerusalem-based investment platform OurCrowd’s Labs/02 incubator program. Using a combination of AI and machine learning models, smartphones, and commodity car hardware, it’s capable of alerting drivers about potential nearby hazards while helping them to avoid ...",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/13/viziblezone-taps-ai-and-smartphone-data-to-alert-drivers-of-pedestrians/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/13/viziblezone-taps-ai-and-smartphone-data-to-alert-drivers-of-pedestrians/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/13/viziblezone-taps-ai-and-smartphone-data-to-alert-drivers-of-pedestrians/amp/",
-      "publishedDateTime": "2020-02-13T09:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/maxresdefault-3-e1581578338376.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Viziblezone taps AI and smartphone data to alert drivers to pedestrians",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     },
     {
@@ -2088,6 +2000,87 @@
       "topics": [
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-17-bridging-the-gender-gap-in-ai.md",
+      "title": "Bridging The Gender Gap In AI",
+      "excerpt": "The first step to bridge the gender gap in AI is awareness. By understanding the nature and significance of the gender bias, we can take meaningfully steps to bridge the divide.",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/falonfatemi/2020/02/17/bridging-the-gender-gap-in-ai/",
+      "ampWebUrl": "https://www.forbes.com/sites/falonfatemi/2020/02/17/bridging-the-gender-gap-in-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/falonfatemi/2020/02/17/bridging-the-gender-gap-in-ai/amp/",
+      "publishedDateTime": "2020-02-17T07:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e4a973bf133f40006290dbd%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": "Bridging The Gender Gap In AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-17-chicago-kids-company-presents-goldilocks-the-three-bears.md",
+      "title": "Chicago Kids Company Presents Goldilocks & The Three Bears",
+      "excerpt": "When Goldilocks and her dog, Bailey, venture into the woods to find a friend for her mom, she stumbles upon a cute house with three bowls of porridge, three chairs and three beds, but no one is home. Will Goldi be able to make it back to her mom before she ...",
+      "heat": 122,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.chicagoparent.com/events/chicago-kids-company-presents-goldilocks-three-bears/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-17T02:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Parent",
+        "domain": "chicagoparent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.chicagoparent.com/downloads/22705/download/calendar%20-%20performances%20Chicago%20Kids%20Company%27s%20GOLDILOCKS%20AND%20THE%20THREE%20BEARS.jpeg?cb=80b27000e1de900824773ebcd4ca2a81&w=1200",
+          "width": 1200,
+          "height": 1600,
+          "title": "Chicago Kids Company Presents Goldilocks & The Three Bears",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

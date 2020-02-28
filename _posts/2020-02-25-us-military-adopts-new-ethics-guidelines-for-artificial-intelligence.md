@@ -40,6 +40,19 @@ related:
       - url: "https://i0.wp.com/www.courthousenews.com/wp-content/uploads/2020/02/pentagon.jpg?fit=1024%2C683&ssl=1"
         width: 1024
         height: 683
+  - title: "New Pentagon AI ethics guidelines may set standard for government-wide policies"
+    excerpt: "A slew of new ethics standards governing the development of artificial intelligence (AI) technologies for the US Department of Defense (DoD) could set a template for other US national security agencies, all of whom are in the midst of drafting ethical ..."
+    publishedDateTime: 2020-02-28T09:58:00Z
+    webUrl: "https://www.janes.com/article/94588/new-pentagon-ai-ethics-guidelines-may-set-standard-for-government-wide-policies"
+    type: article
+    provider:
+      name: Jane's Information Group
+      domain: janes.com
+    quality: 50
+    images:
+      - url: "https://www.janes.com/images/shared/janes.jpg"
+        width: 2000
+        height: 866
 
 secured: "o2G2yWpNuQdCU194N7nbtcerZYapSkftHsKvvPYTpggAwI2/BLAsVkgt5Mabc+NPKa4tXrdUFefRw27LHGWpeTt0MYLzQ4Z3jToBu7Wrchrt3Cw0lYLy7mxgGqgkg6FQi9PTv/re9iq4RE64ERqj+ajHufWIjs9c/NsnGJft4GTyVV1fFjxXMGbpbhLQlmynwE58HvTfy0ZULfiAueKCJRmqIqSlX8Kct5LvnwIrM61Vrv/IENCkMkWfcfPtKh5vvUPeqzTOIONamN5uTHo2VPc96oJ6pbccLvn1iHpVY768nMyJmPGYaumfV+ysw5CWhE9zia0Y18fW33cduHbraAwOFFIkLPFfGBWuXw+L1/dAoM2obcex2HQBLcaqsKM7KFT1xh5Lp/9ptiPBL59prpdRfgAAwnyo72QWks9FFxrseASJ6kJI4lcswPxa8KcsIqSCMuj6NiVfOikzmQHmjU5YHKIduKhwPTcN7CfGfaM=;QdMi3GhoukWY5EZnf1+g7Q=="
 ---

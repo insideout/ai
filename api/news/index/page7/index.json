@@ -2,51 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_posts/2020-02-25-techchill-2020-is-hot-for-connectivity.md",
-      "title": "TechChill 2020 Is Hot For Connectivity",
-      "excerpt": "Analyst Will Townsend provides his connectivity-related takeaways from the TechChill 2020 startup event in Riga, Latvia.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/02/25/techchill-2020-is-hot-for-connectivity/",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/02/25/techchill-2020-is-hot-for-connectivity/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/02/25/techchill-2020-is-hot-for-connectivity/amp/",
-      "publishedDateTime": "2020-02-25T12:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x533/https://specials-images.forbesimg.com/imageserve/5e5580c07a00980007343a02/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 533,
-          "title": "TechChill 2020 Is Hot For Connectivity",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_posts/2020-02-25-the-future-of-ai-journalism-is-less-hyperbole-and-smarter-readers.md",
       "title": "The future of AI journalism is less hyperbole and smarter readers",
       "excerpt": "In it, he discusses the 2017 hype-explosion surrounding Facebook’s AI research lab developing a pair of chat bots that created a short-hand language for negotiating. In reality, the chat bots’ behavior was remarkable but not entirely unexpected. Unfortunately the media at-large covered the interesting event as though SKYNET from the ...",
@@ -2131,6 +2086,50 @@
       "topics": [
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-27-12-things-pop-culture-gets-wrong-about-artificial-intelligence.md",
+      "title": "12 Things Pop Culture Gets Wrong About Artificial Intelligence",
+      "excerpt": "When non-tech people glean much of their tech knowledge from pop culture, it can lead to a lot of misinformation.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/27/12-things-pop-culture-gets-wrong-about-artificial-intelligence/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/27/12-things-pop-culture-gets-wrong-about-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/27/12-things-pop-culture-gets-wrong-about-artificial-intelligence/amp/",
+      "publishedDateTime": "2020-02-27T05:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x527/https://specials-images.forbesimg.com/dam/imageserve/1206610697/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 527,
+          "title": "12 Things Pop Culture Gets Wrong About Artificial Intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

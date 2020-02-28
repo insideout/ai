@@ -1,21 +1,27 @@
 ---
 category: news
 title: "Sidetrade plans £30 million investment in Artificial Intelligence"
-excerpt: "Yesterday evening, AI firm Sidetrade hosted “Together for Tech”, an event to celebrate the expansion of its UK footprint with the official opening of the Sidetrade Tech Hub in Birmingham– the ‘Silicon Canal’ of the UK and Europe (“canal” refers to the 35 miles of canals across the region)."
-publishedDateTime: 2020-02-28T08:39:00Z
-webUrl: "https://www.globenewswire.com/news-release/2020/02/28/1992457/0/en/Sidetrade-plans-30-million-investment-in-Artificial-Intelligence.html"
+excerpt: "“The UK is a global leader in Artificial Intelligence. It is home to start-ups and scale-ups developing innovative AI applications across many sectors from healthcare to finance. The UK is also leading the way in working to find solutions to the challenges of bias and transparency in algorithmic decision-making, as well as how we can use ..."
+publishedDateTime: 2020-02-28T09:00:00Z
+webUrl: "https://virtual-strategy.com/2020/02/28/sidetrade-plans-30-million-investment-in-artificial-intelligence/"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: GlobeNewswire
-  domain: globenewswire.com
+  name: Virtual-Strategy
+  domain: virtual-strategy.com
 
 topics:
   - AI
   - AI in Healthcare
+
+images:
+  - url: "https://virtual-strategy.com/wp-content/plugins/all-in-one-seo-pack/images/default-user-image.png"
+    width: 512
+    height: 512
+    title: "Sidetrade plans £30 million investment in Artificial Intelligence"
 
 related:
   - title: "SoftBank leads $265 million investments in two U.S.-based start-ups"
@@ -90,6 +96,6 @@ related:
         width: 480
         height: 270
 
-secured: "bQ0DVzWPm1q60E3oZR5wfH4gOWezFWpBGDSX2UDSCvxIa1T++DcGqLVbIvXemiUx6bcYSwmWaRpUdOdj+OFJ+R1QtTUwjh3y03rKFnM0/RMmsJ9/Gs23nIwUIaMtIb5xlORbzi+uf/FEUmwpW8XdislNFm3vI9DaNhAIyHDTxvZhWw9f6/Yt6HlS67MC1D03bBBejH+0OI1ya+ExROC3k5JU4Cub2tZC1lbWt7aBeAu9aiAOvQlOAQnsK8VGjlPuXIfh324TQdVuoDH7IATa4YexLMWiCQkgESRErt1eqbfk1B6o2ariddCSNuSMCFOu;/XTNMtNoZTkEpBkAmgbXJw=="
+secured: "imHfi1LkebFpVsniQRK+E0SWA1WwLZHVUBU8Ety7/SiBou5MXfN2xvnUHt15nHUApefOEz7Aum/ulKpmrofEATZvX6jjtM+PgU1gf2cp2+3CQgSvsXdQCLVGtZowuEI1jhWO/VwRm4JsYhgJRApSTbkcaFyosIDnbe6ZPEBSVE7OV7Ia5gG33R3am8LGo22ZMaZaiZCp0GAG/+T0kRshFVmuGthSXx92DPVQp/sAvy3hLAsDyrsQVSkeVl7VF7tA/hRlW0lRgo9em0phiNvnQnQwkP4YR5p3911beaiL+i83v3/h2kctrtzQmzN7Uctv;PZTMVuwwdg4+bB03F9b/cQ=="
 ---
 

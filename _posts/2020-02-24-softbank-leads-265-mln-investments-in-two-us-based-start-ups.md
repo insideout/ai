@@ -55,6 +55,19 @@ related:
       - url: "https://www.cityam.com/wp-content/uploads/2020/02/1180313918.jpg"
         width: 1024
         height: 719
+  - title: "Sidetrade plans £30 million investment in Artificial Intelligence"
+    excerpt: "“The UK is a global leader in Artificial Intelligence. It is home to start-ups and scale-ups developing innovative AI applications across many sectors from healthcare to finance. The UK is also leading the way in working to find solutions to the challenges of bias and transparency in algorithmic decision-making, as well as how we can use ..."
+    publishedDateTime: 2020-02-28T09:00:00Z
+    webUrl: "https://virtual-strategy.com/2020/02/28/sidetrade-plans-30-million-investment-in-artificial-intelligence/"
+    type: article
+    provider:
+      name: Virtual-Strategy
+      domain: virtual-strategy.com
+    quality: 39
+    images:
+      - url: "https://virtual-strategy.com/wp-content/plugins/all-in-one-seo-pack/images/default-user-image.png"
+        width: 512
+        height: 512
   - title: "Troy AI logistics firm nabs $15 million L.A. investment"
     excerpt: "We could not be more excited to partner with Amjad and his team on this next phase of growth.\" Coastal investment into Michigan companies has been on the rise, Crain's has previously reported, with every $1 invested into a Michigan startup by a Michigan-based venture capital firm now being matched by $7.85 in investment from outside the state."
     publishedDateTime: 2020-02-20T22:10:00Z
@@ -81,15 +94,6 @@ related:
       - url: "https://www.finextra.com/finextra-images/top_pics/xl/softbank.jpg"
         width: 480
         height: 270
-  - title: "Sidetrade plans £30 million investment in Artificial Intelligence"
-    excerpt: "Yesterday evening, AI firm Sidetrade hosted “Together for Tech”, an event to celebrate the expansion of its UK footprint with the official opening of the Sidetrade Tech Hub in Birmingham– the ‘Silicon Canal’ of the UK and Europe (“canal” refers to the 35 miles of canals across the region)."
-    publishedDateTime: 2020-02-28T08:39:00Z
-    webUrl: "https://www.globenewswire.com/news-release/2020/02/28/1992457/0/en/Sidetrade-plans-30-million-investment-in-Artificial-Intelligence.html"
-    type: article
-    provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 19
 
 secured: "/oQC0T1QPwVlV4HaQcyytdQX/jowKLmGVhW4fi5b8ioT2ZvNOSeJMkRgOEBgFl3d7av6S0R1nkEsnvjRl3FD9LIU26ODxYHEbTXJ6dYE/qvEqd+fqL5tEjACuugv9Ae4SeYZj2EPJgOgZ6cN+3ZVaybZkyzBEZ1z2MZEZKhh0TSMzgu76TJrTk6pOfYFj5iK23asWSO9Z1mJwi+sM4tRwPuSWsxtXMYbnEImnYTmcwnuJVJMt/q/9FQJAr/AfadDdXsl1/3txfyHOcbTiCmaDdImWTa0WuWiSnqSjcmQbkkK7YMlrmwvj6UBTkT0QO9e;4OjvyTglzOUvTPxTh6rkqQ=="
 ---

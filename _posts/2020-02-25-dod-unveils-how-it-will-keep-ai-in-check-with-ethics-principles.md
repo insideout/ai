@@ -8,7 +8,7 @@ ampWebUrl: "https://federalnewsnetwork.com/defense-main/2020/02/dod-unveils-how-
 cdnAmpWebUrl: "https://federalnewsnetwork-com.cdn.ampproject.org/c/s/federalnewsnetwork.com/defense-main/2020/02/dod-unveils-how-it-will-keep-ai-in-check-with-ethics-principles/amp/"
 type: article
 quality: 157
-heat: 207
+heat: 217
 published: true
 
 provider:
@@ -79,6 +79,19 @@ related:
       - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/AI_Automation/AIengineers.png"
         width: 760
         height: 368
+  - title: "Pope to endorse principles on AI ethics with Microsoft, IBM"
+    excerpt: "Kelly told Reuters in an interview. Vatican officials also had concerns about AI displacing jobs and met with IBM in the United States at a research center in September, he said. Pope Francis was ..."
+    publishedDateTime: 2020-02-28T08:04:00Z
+    webUrl: "https://wsau.com/news/articles/2020/feb/28/pope-to-endorse-principles-on-ai-ethics-with-microsoft-ibm/989350/?refer-section=technology"
+    type: article
+    provider:
+      name: WSAY
+      domain: wsau.com
+    quality: 39
+    images:
+      - url: "https://radiocms-images.us1.eldarioncloud.com/resize/1200/https://storage.googleapis.com/media.mwcradio.com/mimesis/2020-02/28/2020-02-28T080413Z_1_LYNXNPEG1R0LA_RTROPTP_3_POPE-GENERALAUDIENCE.JPG?upscale=False"
+        width: 1200
+        height: 750
   - title: "US DoD Adopts Ethical AI Principles"
     excerpt: "... Department of Defense announced yesterday that it has adopted a series of ethical principles regarding the use of artificial intelligence (AI). Designed to build on the US military’s existing ethics framework, which is based on the US Constitution, Title 10 of the US Code, Law of War, existing international treaties, and longstanding ..."
     publishedDateTime: 2020-02-26T18:49:00Z

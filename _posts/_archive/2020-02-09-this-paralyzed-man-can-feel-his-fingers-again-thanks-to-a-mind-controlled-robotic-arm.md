@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-09T00:00:00Z
 webUrl: "https://mashable.com/2016/10/14/paralyzed-man-feels-fingers-again/"
 type: article
 quality: 77
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -35,20 +35,7 @@ related:
       name: CBS Local
       domain: cbslocal.com
     quality: 39
-  - title: "A Mind-Controlled Robotic Hand With A Sense Of Touch"
-    excerpt: "Researchers Monitor Sørensen's Prosthetic LifeHand 2/Patrizia Tocci He could even adjust his grip as needed, all from his robotic sense of touch. \"What we did was to provide this tactile ..."
-    publishedDateTime: 2020-02-05T00:00:00Z
-    webUrl: "https://www.popsci.com/article/science/mind-controlled-robotic-hand-sense-touch?loc=recent&lnk=2&con=a-mindcontrolled-robotic-hand-with-a-sense-of-touch"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 39
-    images:
-      - url: "https://www.popsci.com/resizer/fpU9tcI__P5BYCC0_WtmmQNOfOQ=/1200x628/smart/arc-anglerfish-arc2-prod-bonnier.s3.amazonaws.com/public/NSO6ZVCP43CLCPK3A4UYAJGYFA.jpg"
-        width: 1200
-        height: 628
 
-secured: "bbBIvB5usFMYAIE5Y9Gam4LYjNhOW3LWvQq3mnaqNnxYe+DmsRoOLZXV6hYZBhxkVJ+e/IDPY1jsuS0836U1ls3cpdA8nnefBZ4E03/ajmpJY25KsrpcC5b8OD5BvXBVbYnELH7EXFuxb7B06lRo74VE0+0vU10sUfGRab8X8D/HIUSabRAy4mKcg7+17juGFh/qtNMXRZbYazHXIXc7XrprmUZOKb55VOb3qerJMUK+ZK2s9yqmMN+yDchTFRohSyQrab6fDt++6X/EzkEp4gPbd+MOQeRdUm+vbkEVK5Cmk2iHoyvAhC1xxs9KFpVF;eaIG1Qp19Tu9TAh8+kvboA=="
+secured: "1hRhviNIt71lAyi8qf43Zs0/j7d7UKDIxE0dGH+tFI106dVX+Lr4PxJbf4PQI0TVQWMfjYiUbrGRONPjYi2aW64Qx9D3Ww9VM489hF64u/Jo8hqNhe5RyuLKuUa5BY69eiqKPJd4MMPm/Eo3gjYMfULAJ6OhHKRtQ6OGokRi3p9JahR91MlFpWRMu7qjuVAvkOKKLASiN++iW/Ly/AsA3+H1Nu/kMsnYvqLfL6HzLi270fmuuuNCA/ckweW/DINJxzHPEukVTJQ2Vz9TBiMhSZlMGHtB5n7/hm6FcIVQx94x6MSN+PRaX/XvIzXszry0;4mmEEcnGqDvNb5RKWglGUg=="
 ---
 

@@ -87,6 +87,19 @@ related:
       - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/AI_Automation/AIengineers.png"
         width: 760
         height: 368
+  - title: "Pope to endorse principles on AI ethics with Microsoft, IBM"
+    excerpt: "Kelly told Reuters in an interview. Vatican officials also had concerns about AI displacing jobs and met with IBM in the United States at a research center in September, he said. Pope Francis was ..."
+    publishedDateTime: 2020-02-28T08:04:00Z
+    webUrl: "https://wsau.com/news/articles/2020/feb/28/pope-to-endorse-principles-on-ai-ethics-with-microsoft-ibm/989350/?refer-section=technology"
+    type: article
+    provider:
+      name: WSAY
+      domain: wsau.com
+    quality: 39
+    images:
+      - url: "https://radiocms-images.us1.eldarioncloud.com/resize/1200/https://storage.googleapis.com/media.mwcradio.com/mimesis/2020-02/28/2020-02-28T080413Z_1_LYNXNPEG1R0LA_RTROPTP_3_POPE-GENERALAUDIENCE.JPG?upscale=False"
+        width: 1200
+        height: 750
 
 secured: "VQiMtT3o3T95o3BlOKAKDLvhAy0oJxsnv2l4pUPndtKbL9CKEHJST0XQiVgxmDMuW1dTk5ZVzWMWSPmk6Qumnt5AQongYRnK9/2m/t4qks8uREwXVEQ2kdPOTfAr8/LLK5jK5VtnwEPMIFnEdoMQhfba8r4201dKM8EAqDwCvQMLI0ZNtaGwFayhgNqFqTfj83VOBWVRlByFD4BMcH0h+teUJtL+BsoQH+vJJy2N9jM2rjRskQ+NIimt7awjX1hoV4jG58BEqishrbZwuGzMlKObxRBLW7pviVvM4FmveRDFwJbp5w+57jAO5C0FxfHaoOsAcxZ7lgt6ZXIqYMM6IaOs3+/3q8hZE1LpoF5MO41cj8coDLtuUzOX9ifP+/uEShygJD7ije8LtLBQNAPtfaC1q+pn2OO02Zld0neLqdcqYBhoZH9t9oTOyc+iUMclOUv9z91ChBfjvXWFNDONIsEA7ekodd1yjsWgiclcroo=;valEu7nKZZX3z6uvRakGGg=="
 ---

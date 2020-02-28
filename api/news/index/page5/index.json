@@ -2,96 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_posts/2020-02-21-defeated-chess-champ-garry-kasparov-has-made-peace-with-ai.md",
-      "title": "Defeated Chess Champ Garry Kasparov Has Made Peace With AI",
-      "excerpt": "Most remarkably, AlphaZero uncovered new approaches to the game that dazzled chess experts. Last week, Kasparov returned to the scene of his famous Deep Blue defeat—the ballroom of a New York hotel—for a debate with AI experts organized by the Association for the Advancement of Artificial Intelligence. He met with WIRED senior writer Will ...",
-      "heat": 101,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/defeated-chess-champ-garry-kasparov-made-peace-ai/",
-      "ampWebUrl": "https://www.wired.com/story/defeated-chess-champ-garry-kasparov-made-peace-ai/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/defeated-chess-champ-garry-kasparov-made-peace-ai/amp",
-      "publishedDateTime": "2020-02-21T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5e4c10d419656c0009fbe489/master/pass/Biz-kasparov-511682700.jpg",
-          "width": 2400,
-          "height": 1663,
-          "title": "Defeated Chess Champ Garry Kasparov Has Made Peace With AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-21-elon-musk-jeff-bezos-and-star-trek-collide-in-uncanny-deepfake.md",
-      "title": "Elon Musk, Jeff Bezos and Star Trek collide in uncanny deepfake",
-      "excerpt": "Bezos transforms into an alien and Musk becomes the captain of the USS Enterprise. SpaceX founder Elon Musk dreams of space exploration. Blue Origin and Amazon founder Jeff Bezos also looks to the stars.",
-      "heat": 202,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/news/elon-musk-jeff-bezos-and-star-trek-collide-in-uncanny-deepfake/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/elon-musk-jeff-bezos-and-star-trek-collide-in-uncanny-deepfake/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/elon-musk-jeff-bezos-and-star-trek-collide-in-uncanny-deepfake/",
-      "publishedDateTime": "2020-02-21T08:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet1.cbsistatic.com/img/UGxT2J0zrqUEaSCEsQzH8HMP5qo=/756x567/2020/02/21/275d7032-eb36-48ba-8dab-5617a111c864/muskstartrek.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "Elon Musk, Jeff Bezos and Star Trek collide in uncanny deepfake",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-21-google-launches-tensorflow-library-for-optimizing-fairness-constraints.md",
       "title": "Google launches TensorFlow library for optimizing fairness constraints",
       "excerpt": "Google AI today released TensorFlow Constrained Optimization (TFCO), a supervised machine learning library built for training machine learning models on multiple metrics, and “optimizing inequality-constrained problems.” The library is designed to help address issues like fairness constraints and predictive parity and help machine learning ...",
@@ -2132,6 +2042,96 @@
       "topics": [
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-24-mit-csails-radars-map-hidden-features-to-help-driverless-cars-navigate-snowy-terrain.md",
+      "title": "MIT CSAIL’s radars map hidden features to help driverless cars navigate snowy terrain",
+      "excerpt": "Plus, bad weather has a tendency to obscure road signage and structures that normally serve as navigational landmarks. Fortunately, researchers at MIT’s Computer Science and Artificial Intelligence Laboratory and Lincoln Laboratory are on the case. In a paper that will be published in the journal IEEE Robotics and Automation Letters later ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/23/mit-csails-ground-penetrating-radars-map-underground-features-to-help-driverless-cars-navigate-snowy-terrain/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-23T21:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/1MIT-CSAILs-car-in-the-snow-from-the-back-credit-MIT-CSAIL-e1582233935856.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "MIT CSAIL’s radars map hidden features to help driverless cars navigate snowy terrain",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-24-mlops-the-machine-learning-assembly-line.md",
+      "title": "MLOps: The Machine Learning Assembly Line",
+      "excerpt": "There’s another practice that’s following a similar trajectory in data science today: MLOps. A portmanteau of two abbreviations (‘ML’ for ‘machine learning’ and ‘Ops’ for ‘operations’), the concept is akin to DevOps, i.e., a pipeline from developer to product. As with assembly lines, the goal of MLOps isn’t making ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/acerta/mlops-the-machine-learning-assembly-line-d78fa080f9f0",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-24T15:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*BsEr0YI152lB6cFjEhVEfQ.jpeg",
+          "width": 1200,
+          "height": 750,
+          "title": "MLOps: The Machine Learning Assembly Line",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

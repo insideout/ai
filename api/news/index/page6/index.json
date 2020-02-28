@@ -2,96 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_posts/2020-02-24-mit-csails-radars-map-hidden-features-to-help-driverless-cars-navigate-snowy-terrain.md",
-      "title": "MIT CSAIL’s radars map hidden features to help driverless cars navigate snowy terrain",
-      "excerpt": "Plus, bad weather has a tendency to obscure road signage and structures that normally serve as navigational landmarks. Fortunately, researchers at MIT’s Computer Science and Artificial Intelligence Laboratory and Lincoln Laboratory are on the case. In a paper that will be published in the journal IEEE Robotics and Automation Letters later ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/23/mit-csails-ground-penetrating-radars-map-underground-features-to-help-driverless-cars-navigate-snowy-terrain/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-23T21:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/1MIT-CSAILs-car-in-the-snow-from-the-back-credit-MIT-CSAIL-e1582233935856.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "MIT CSAIL’s radars map hidden features to help driverless cars navigate snowy terrain",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-24-mlops-the-machine-learning-assembly-line.md",
-      "title": "MLOps: The Machine Learning Assembly Line",
-      "excerpt": "There’s another practice that’s following a similar trajectory in data science today: MLOps. A portmanteau of two abbreviations (‘ML’ for ‘machine learning’ and ‘Ops’ for ‘operations’), the concept is akin to DevOps, i.e., a pipeline from developer to product. As with assembly lines, the goal of MLOps isn’t making ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/acerta/mlops-the-machine-learning-assembly-line-d78fa080f9f0",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-24T15:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/1*BsEr0YI152lB6cFjEhVEfQ.jpeg",
-          "width": 1200,
-          "height": 750,
-          "title": "MLOps: The Machine Learning Assembly Line",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_posts/2020-02-24-new-york-artificial-intelligence-company-behavox-raises-100-million.md",
       "title": "New York artificial intelligence company Behavox raises $100 million",
       "excerpt": "Behavox, a New York-based artificial intelligence company, said Monday it has raised $100 million. The funding came from SoftBank Vision Fund 2, according to Behavox, which describes itself as \"the world’s only end-to-end data operating platform.",
@@ -1390,7 +1300,7 @@
       "path": "_posts/2020-02-25-dod-unveils-how-it-will-keep-ai-in-check-with-ethics-principles.md",
       "title": "DoD unveils how it will keep AI in check with ethics principles",
       "excerpt": "The principles are as follows: Insight by Mapbox: Federal practitioners ... Deasy said. The ethics will also hold people in the AI pipeline accountable. For example, if a developer does not use data that is equitable, then DoD knows where something went ...",
-      "heat": 207,
+      "heat": 217,
       "tags": null,
       "type": "article",
       "webUrl": "https://federalnewsnetwork.com/defense-main/2020/02/dod-unveils-how-it-will-keep-ai-in-check-with-ethics-principles/",
@@ -1806,6 +1716,43 @@
       ]
     },
     {
+      "path": "_posts/2020-02-25-military-unveils-guidelines-on-artificial-intelligence-warfare.md",
+      "title": "Military Unveils Guidelines on Artificial Intelligence Warfare",
+      "excerpt": "The project uses algorithms to interpret aerial images of war zones or conflict areas, one of many recent military developments that involve AI. Among the five general principles listed in the new Defense Department ethics guidelines is one that requires AI to be “governable,” meaning the automated technology can be stopped if unintended ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.courthousenews.com/military-unveils-guidelines-on-artificial-intelligence-warfare/",
+      "ampWebUrl": "https://www.courthousenews.com/military-unveils-guidelines-on-artificial-intelligence-warfare/amp/",
+      "cdnAmpWebUrl": "https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/military-unveils-guidelines-on-artificial-intelligence-warfare/amp/",
+      "publishedDateTime": "2020-02-25T15:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Courthouse News Service",
+        "domain": "courthousenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i0.wp.com/www.courthousenews.com/wp-content/uploads/2020/02/pentagon.jpg?fit=1024%2C683&ssl=1",
+          "width": 1024,
+          "height": 683,
+          "title": "Military Unveils Guidelines on Artificial Intelligence Warfare",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_posts/2020-02-25-new-algorithm-for-self-driving-vehicles-has-a-bold-collision-free-guarantee.md",
       "title": "New algorithm for self-driving vehicles has a bold ‘collision-free guarantee’",
       "excerpt": "Researchers have developed an algorithm that could stop self-driving vehicles from getting in crashes and traffic jams. The team from Northwestern University (NU) claims their invention is “the first decentralized algorithm with a collision-free, deadlock-free guarantee.” The algorithm divides the ground beneath the machines into a grid.",
@@ -2161,6 +2108,51 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-25-techchill-2020-is-hot-for-connectivity.md",
+      "title": "TechChill 2020 Is Hot For Connectivity",
+      "excerpt": "Analyst Will Townsend provides his connectivity-related takeaways from the TechChill 2020 startup event in Riga, Latvia.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/02/25/techchill-2020-is-hot-for-connectivity/",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/02/25/techchill-2020-is-hot-for-connectivity/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/02/25/techchill-2020-is-hot-for-connectivity/amp/",
+      "publishedDateTime": "2020-02-25T12:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x533/https://specials-images.forbesimg.com/imageserve/5e5580c07a00980007343a02/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 533,
+          "title": "TechChill 2020 Is Hot For Connectivity",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
       ]
     }
   ],

@@ -62,16 +62,18 @@ related:
       domain: medicalxpress.com
     quality: 39
   - title: "New study allows brain and artificial neurons to link up over the web"
-    excerpt: "This study has for the first time shown how three key emerging technologies can work together: brain-computer interfaces, artificial neural networks and advanced memory technologies (also known as memristors). The discovery opens the door to further significant developments in neural and artificial intelligence research. During the study ..."
-    publishedDateTime: 2020-02-26T15:19:00Z
-    webUrl: "https://medicalxpress.com/news/2020-02-brain-artificial-neurons-link-web.html"
-    ampWebUrl: "https://medicalxpress.com/news/2020-02-brain-artificial-neurons-link-web.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-02-brain-artificial-neurons-link-web.amp"
+    excerpt: "This study has for the first time shown how three key emerging technologies can work together: brain-computer interfaces, artificial neural networks and advanced memory technologies (also known as memristors). The discovery opens the door to further significant developments in neural and artificial intelligence research. Brain functions are ..."
+    publishedDateTime: 2020-02-26T16:05:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-02/uos-nsa022620.php"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
+      name: EurekAlert!
+      domain: eurekalert.org
     quality: 39
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/225322_web.jpg"
+        width: 720
+        height: 813
 
 secured: "xtRAoDDkLZs3X7iRkZh7k28DeEzOjav9+DEAVI3YfD85xwFWCPpr3w5QwvmG+/m4ZmwL9qVN3BqAudlN7ttfX12DOpmqTi+ZWYp5JYiFNz/xuEveD40u/cjw+CrCTAWr6VXMpjmPcj5+7HAOd7LoixiJ0usSE8gXCLxMkf0tbM7Hu8ODoxFJiYYoRCo0ZM47VUOl6+MH2Xe5opdWvXVt7ocxt52/uS4p32Rd8+wQjurJjoRxFtiG5/bisp0sCffzkNTK4ShpQW1KPY3tK1GOqH8Ivxmg/ZQMF04N8EFq34DcLQXDUmH/aW3qijCIsh+s6NhzGjfwleHBF+/3quiXvWIMjKbJww//+7C59C7zoGkVKZCdcjPDZAWYa/IQEpyM79IJd5JL8ZPnkC5wAD6rZh3vbb99ClkExOxQOefO4mlo66h4zlArxCJYC0PNlquC4bFAJtG4fL47aEtulx6yFc/gyyScbHjkFSObRuAMncI=;FMBa39/2a1cEJOUVen6cTg=="
 ---
