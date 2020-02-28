@@ -44,15 +44,6 @@ related:
       - url: "https://mma.prnewswire.com/media/997523/Research_Dive_Logo.jpg?p=publish&p=facebook"
         width: 500
         height: 500
-  - title: "Deep Learning Market In-Depth Industry Analysis on Size, Share Analysis, Cost Structure and Prominent Key Players Analysis 2026"
-    excerpt: "The global Deep Learning Market will increase by a CAGR of approximately 5.1% from 2019 to 2026 and is expected to achieve a market value above US$ 56,427.2 million in 2026. The report provides analysis of global Deep Learning Market for the period 2015-2026,"
-    publishedDateTime: 2020-02-18T06:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-in-depth-industry-analysis-on-size-share-analysis-cost-structure-and-prominent-key-players-analysis-2026-2020-02-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 21
 
 secured: "ygjOuXy2AyJojiXJOm00wj+y7s+Yd8IXGJMxLCCngekC+s2yu3JXARYASqzBcYauVDHxfBB4c0JTHrNQfKmbfFz95HcfQ9tVtJqrveu45I13aaWwBFoY/WYojyGhQA6lDRvPDA+8n7OWX0zLRk6wlsBlcOGK6ObS1gKS/KvqsNqfHsguhLM4MOcXlEZ2rmrBsoWcx5eMuwTuOSv+Btxhth3K4cl4YC6cEuZlHkb5UU/xMOglxYoRwqTIp5WhYjxiUjRupN7xTzM9OGQTdIve+s54mwH0Pg1RCogQcdWnyj17W1H/d4x9Gxv5/d2e0/iE;gH0xS/lcG64b4gowiS3F9A=="
 ---

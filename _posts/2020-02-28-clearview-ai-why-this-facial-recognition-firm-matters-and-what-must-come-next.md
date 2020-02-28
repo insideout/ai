@@ -75,6 +75,21 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-02%252Fbe661900-58d2-11ea-a7be-f35353dadc7d%26client%3Da1acac3e1b3290917d92%26signature%3De8442a5ba6d800bf23f2af01238efff47f2da2a9&client=amp-blogside-v2&signature=0b578e5a72b9b247df1c85c755266db45c5d71ee"
         width: 600
         height: 350
+  - title: "Apple punishes facial recognition company Clearview AI for ignoring developer rules"
+    excerpt: "Apple has suspended the controversial facial recognition company's iOS developer account following a report from Buzzfeed News that Clearview AI was in violation of Apple’s Enterprise Developer Program rules. As a result, Apple has disabled Clearview AI's iOS app, giving the company 14 days to respond to Apple's claim. Specifically ..."
+    publishedDateTime: 2020-02-28T22:31:00Z
+    webUrl: "https://mashable.com/article/clearview-ai-apple-facial-recognition/"
+    ampWebUrl: "https://mashable.com/article/clearview-ai-apple-facial-recognition.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/clearview-ai-apple-facial-recognition.amp"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 98
+    images:
+      - url: "https://mondrian.mashable.com/2020%252F02%252F28%252Fb8%252F0e21e4895ec24fb6ba521421f080bb3e.1e25e.jpg%252F1200x630.jpg?signature=I8LV9fb3n93xLM_QVHoMYAH-BeM="
+        width: 1200
+        height: 630
   - title: "Clearview AI facial recognition customers reportedly include DOJ, FBI, ICE, Macy's"
     excerpt: "Retail companies as well as law enforcement agencies have used the service, says a report. Customers of controversial facial recognition app Clearview AI include not only law enforcement agencies like Immigration and Customs Enforcement and the Department of Justice,"
     publishedDateTime: 2020-02-28T17:41:00Z
@@ -180,6 +195,21 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/9BC3/production/_111057893_facialrecognition.gif"
         width: 1024
         height: 576
+  - title: "Apple has blocked Clearview AI’s iPhone app for violating its rules"
+    excerpt: "An iPhone app built by controversial facial recognition startup Clearview AI has been blocked by Apple, effectively banning the app from use. Apple confirmed to TechCrunch that the startup “violated” the terms of its enterprise program. The app allows its users — which the company claims it serves only law enforcement officers — to use ..."
+    publishedDateTime: 2020-02-28T20:40:00Z
+    webUrl: "https://techcrunch.com/2020/02/28/apple-ban-clearview-iphone/"
+    ampWebUrl: "https://techcrunch.com/2020/02/28/apple-ban-clearview-iphone/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/28/apple-ban-clearview-iphone/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-1167845553.jpg?w=1024"
+        width: 1024
+        height: 576
   - title: "ProBeat: Clearview AI’s short slippery slope"
     excerpt: "Facial recognition startup Clearview AI is best known for two things: its facial recognition algorithm that lets you upload a photo to compare with its database of potential matches and that the company created said database by scraping over 3 billion images from user profiles on Microsoft’s LinkedIn, Twitter, Venmo, Google’s YouTube ..."
     publishedDateTime: 2020-02-28T18:30:00Z
@@ -283,6 +313,21 @@ related:
       - url: "https://img.buzzfeed.com/buzzfeed-static/static/2020-01/23/15/campaign_images/2f678849f533/clearview-ai-says-its-facial-recognition-software-2-1696-1579792527-1_dblbig.jpg"
         width: 625
         height: 415
+  - title: "Apple disables facial recognition firm Clearview AI's iOS app for violating developer rules"
+    excerpt: "Apple has disabled facial recognition technology startup Clearview AI's developer account, and as a consequence its iOS app, for violating terms of the tech giant's enterprise developer agreement. The effective ban, confirmed by Apple on Friday, arrives amid a firestorm of controversy relating to Clearview's operating practices and business ..."
+    publishedDateTime: 2020-02-28T21:59:00Z
+    webUrl: "https://appleinsider.com/articles/20/02/28/apple-disables-facial-recognition-firm-clearview-ais-ios-app-for-violating-developer-rules"
+    ampWebUrl: "https://appleinsider.com/articles/20/02/28/apple-disables-facial-recognition-firm-clearview-ais-ios-app-for-violating-developer-rules/amp/"
+    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/20/02/28/apple-disables-facial-recognition-firm-clearview-ais-ios-app-for-violating-developer-rules/amp/"
+    type: article
+    provider:
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 64
+    images:
+      - url: "https://photos5.appleinsider.com/gallery/34718-62882-200228-ClearviewAI-xl.jpg"
+        width: 800
+        height: 447
   - title: "Facial recognition app Clearview AI has been used far more widely in Canada than previously known"
     excerpt: "From Mounties and small-town cops to a Rexall employee hoping to bust shoplifters — a facial recognition tool at the centre of international controversy has been used far more widely in Canada than had been previously known. On Thursday, a dozen police forces and private businesses confirmed their officers or employees had used the technology ..."
     publishedDateTime: 2020-02-28T02:36:00Z
@@ -476,6 +521,6 @@ related:
         width: 681
         height: 333
 
-secured: "Cf1WFQ1eBK3W7evGFbhdu/3lUfXW1SvgDCEnpeNwp/31CL0BCk3rUgcKmZ80TtdUfv5GNtEQvKLjUu+TpVLeNEZuEsjMrSzS2nb/sNB7n80T4LVJzjtJ9aJu+Vte1C47jUreVBUheJuwzsw/z9I9aXByz3/i1OZcdESTHLriKwnjBx6H67iNUzkekXAmP6pdoRTvDvdBP/ZkFNMznSWSI6cgAjRHBzBXMz/BBYEul2FUgT1smo++0Ci9bMc6McwU9Ditviv/PbIBg5w65ILay7frk4bbDnP4GafyCk+QfFdBwM0tBQyvAyP/JyDqKtaw;cbrY9F+ET1PvYWZnDGMIOQ=="
+secured: "UQJLeJuHmckutki0BKQn9LEmHrwjtOKCZihFjL/hHhG2sFsnFrbA/DrN3KwzXEQEv5ejiNzDmIUYzqX1qdumlcZ7qUrdsy++ZmyADIYx0cmW6V/QxoYtZb3rbZS2g2xONgzkJLB1jx1DYkpGaJCXOldrsOihjzzP7rMnEr1x55qhvLahhINkNOszvuqDSNvOPLzxarAmj2EIcYnTHSNRd3OBYN0UQ4toGnTJ6mVJTXcdpv+n4xhZwPgiZiMU5yb8Dx/gV8I1WuxmVL/QJmO312lA5m7LV1oIgtS0UceHoCw/bXW5RaxeezAgX0rbHq481Ughw48udGjnnD8ws+uMJfrEHlP2naAxGDoVE4ywYVBrbr3j6KHjxner3GKAjKBb7qNwaxd038PJ7QwUqLHhA3/OSe/bwH+gDx94MfjDpbqhTO6PLu8nsDuZtx38yCNJLhI871UgmmtwLu9bz5mOWruxQnMbnJ+1YT7fVqozD9E=;iaU3H8BkROsSQuPnl3u83A=="
 ---
 

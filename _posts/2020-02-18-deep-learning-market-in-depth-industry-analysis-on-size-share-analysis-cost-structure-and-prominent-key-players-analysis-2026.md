@@ -22,41 +22,56 @@ topics:
   - Machine Learning
 
 related:
-  - title: "AI in Sports Market 2020 - Industry Capacity, Manufacture, Value, Consumption, Status and Prediction 2024"
-    excerpt: "... operating in the global AI in Sports market includes 24/7.ai Inc., Amazon Inc., Apple Inc., Anodot, Facebook Inc., Fujitsu Ltd., Cisco Systems, DeepScale, Atmel Corporation, ARM Limited, Microsoft Corporation, and Micron Technology, among others. About All The Research: All The Research was formed with the aim of making market research a ..."
-    publishedDateTime: 2020-02-20T14:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-sports-market-2020---industry-capacity-manufacture-value-consumption-status-and-prediction-2024-2020-02-20?mod=mw_quote_news"
+  - title: "Artificial Intelligence in Healthcare Market Overview By Share, Size, Industry Players, Revenue And Product Demand Forecast Till 2029"
+    excerpt: "The research study on Global Artificial Intelligence in Healthcare market 2019 presents an extensive analysis of current Artificial Intelligence in Healthcare market size, drivers, trends, opportunities,"
+    publishedDateTime: 2020-02-17T11:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-overview-by-share-size-industry-players-revenue-and-product-demand-forecast-till-2029-2020-02-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 52
+    quality: 53
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Artificial Intelligence (AI) in Construction Market Insights - 2019-2026: Research Dive"
-    excerpt: "in construction market size was valued at $408.1 million in 2018, and is anticipated to grow with a CAGR of"
-    publishedDateTime: 2020-02-20T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-ai-in-construction-market-insights--2019-2026-research-dive-301008275.html"
+  - title: "Natural Language Processing (NLP) Market Size, Share and Top Key Players During 2019-2027"
+    excerpt: "The report covers the forecast and analysis of the natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million)."
+    publishedDateTime: 2020-02-18T07:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-size-share-and-top-key-players-during-2019-2027-2020-02-18"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 46
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
+  - title: "Artificial Intelligence (AI) in Agriculture Market: Global Key Players, Trends, Share, Industry Size, Growth, Opportunities, Forecast To 2025"
+    excerpt: "in Agriculture Market” Artificial Intelligence (AI) in Agriculture Market: Global Key Players, Trends, Share, Industry Size,"
+    publishedDateTime: 2020-02-21T07:55:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/02/ab15381915/artificial-intelligence-ai-in-agriculture-market-global-key-players-trends-share-industry-size-gr"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/15381915"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15381915"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 37
     images:
-      - url: "https://mma.prnewswire.com/media/997523/Research_Dive_Logo.jpg?p=publish&p=facebook"
-        width: 500
-        height: 500
-  - title: "Surgical Robotics in India 2019: Comprehensive Market Insights and Projections to 2024"
-    excerpt: "Dublin, Feb. 19, 2020 (GLOBE NEWSWIRE) -- The \"Surgical Robotics Market in India 2019\" report has been added to ResearchAndMarkets.com's offering. The India surgical robotics market was valued at INR 7."
-    publishedDateTime: 2020-02-19T16:18:00Z
-    webUrl: "https://www.globenewswire.com/news-release/2020/02/19/1987189/0/en/Surgical-Robotics-in-India-2019-Comprehensive-Market-Insights-and-Projections-to-2024.html"
+      - url: "https://www.abnewswire.com/uploads/1582271362.jpeg"
+        width: 400
+        height: 225
+  - title: "AI in Healthcare Market Prospects Outlook 2019-2030 and Top Key Players - NVIDIA, Intel, GENERAL ELECTRIC COMPANY"
+    excerpt: "Companies such as IBM have played a big role in pushing AI into healthcare. The company is using its Watson platform technology in the field of cancer research, insurance claims and clinical support tools to enhance AI needs. For instance, Alder Hey ..."
+    publishedDateTime: 2020-02-14T11:43:00Z
+    webUrl: "https://www.cmo.com.au/mediareleases/38408/ai-in-healthcare-market-prospects-outlook-2019/"
     type: article
     provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 26
+      name: cmo.com.au
+      domain: cmo.com.au
+    quality: 18
+    images:
+      - url: "https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg"
+        width: 600
+        height: 246
 
 secured: "52jHwtgCM7XJdBpS3sPX6irRtcKojSK0bv4pDLcfEWCw4LY8Mo78gLzaxvVTgPb/wDMqAH6LhaSPuKSyHgqFusOUGW1lEuSs1S7405/axw3C4M2V4vPGokS7Tx+0spAAXe7l2yIpPVoOzFfGnFe+RHWvtyfbPqOuqOGypc8jAtg5sEIx6wP+YFcbUi7Xv+LVcST9NyNmTSZiiveYfVF5wo21u1JSWlyq7T77afSmubiOq5mt1t2aDTaVsaDjntKQIJZ4KBZ/Je3aRDJO6b43o5zKrna/pGQkhaPk2JXii9qb3m6qnJxdFenOd8CiUrgt;G7fwtyi/pQY1fcpf+rVaYQ=="
 ---

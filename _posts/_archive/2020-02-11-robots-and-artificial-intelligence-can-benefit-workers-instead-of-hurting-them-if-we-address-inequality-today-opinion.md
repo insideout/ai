@@ -25,6 +25,6 @@ images:
     height: 249
     title: "Robots and artificial intelligence can benefit workers instead of hurting them if we address inequality today [Opinion]"
 
-secured: "5M9Yr//H/PA7FhsuFlMMXu74ZR+56DNJYOlfxSfjCxXUoX+wPOfhWW9WZGKdtDKUmCOApc5+yk5ibk74FLLpmt+xGGiXaqTYo7Hc3EQPptArsoc50o5bMimQIlfdxJrSFRQafuPBKJzXvxCAbSOQc+bSQwpoB6NSt4kCp1pMl9Q4o8fFM4sTf4za2+hECSGX3yrdV4M3rd910pRMqxYW+PW2pIy7B3bfQLk8ADU8Lcfc0uE2BoL3uRbktz4Bimgw0MlY+7pCn171M9KnJdPcmsQ+BiCfbJof6X+bA33Kx12+8QYFy5nlPY9pmOm65Znd;KMzrFbhn0OOQr88J0E+tXA=="
+secured: "efc2BFzrTTX0cr38v44vkFjzj93bGUyOaaNX34oQTGqhuEHPp2qsMxU2vcQ+mZviIIrLKiCUs108hkKugWpa78S24PBr+iaWtmS8UVoYKs/cx7vOUPCxCUtoUkX9wGMHT17sVJo7vc7De+A8yY6FjnvZOkIQj7Xi1uD6J8Xldb9dvFbJz6aSjPWjbTVz4X2/E2OToZHabW8w86q2RlueW/P9nE7gd3rmYC/pC74l+3Lhc4909oTmTHyZ5hoC6I1PQO5O7fMtgVXclnMRIpmOvW/NdGxoPGmg6VHRRF5uS4rmwsMGe4tKkz8KLkQEdVh8;oa4QXNgrqaaZg7aUTv7mHA=="
 ---
 

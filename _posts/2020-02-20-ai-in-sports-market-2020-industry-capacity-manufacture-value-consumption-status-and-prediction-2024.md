@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-20T14:40:00Z
 webUrl: "https://www.marketwatch.com/press-release/ai-in-sports-market-2020---industry-capacity-manufacture-value-consumption-status-and-prediction-2024-2020-02-20?mod=mw_quote_news"
 type: article
 quality: 52
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -50,15 +50,6 @@ related:
       name: GlobeNewswire
       domain: globenewswire.com
     quality: 26
-  - title: "Deep Learning Market In-Depth Industry Analysis on Size, Share Analysis, Cost Structure and Prominent Key Players Analysis 2026"
-    excerpt: "The global Deep Learning Market will increase by a CAGR of approximately 5.1% from 2019 to 2026 and is expected to achieve a market value above US$ 56,427.2 million in 2026. The report provides analysis of global Deep Learning Market for the period 2015-2026,"
-    publishedDateTime: 2020-02-18T06:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-in-depth-industry-analysis-on-size-share-analysis-cost-structure-and-prominent-key-players-analysis-2026-2020-02-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 21
 
 secured: "qFhtqrsCeOnbJL06Yz+vwQf3NJxiNVX0g4EQ6JrBg1LTWPhmjLBIHCaIx1g0YTAlqLq3zIxfljYpkyqKHUC0YKgcjqlKQWG5Hx6OP/Nej3/bYSMgiFYFVqP8oG4wk/BHy5z7yVBt8s9PHnOVEyuE4TCCyZgKd4FMoCvylbEQycEiOyWl9OHg1IkjRKP9G7rFFm3DiJKjzZmOIUr2MjgjaLsRneVV9xgKvK2d/bDXWAtxyi40pEgM5kjQgb1LrYz+lqbfReNVWeI7KJXGjIgzCoz7gB1JNU659qIDHGKGcTWVn8Yehgr97MW43yVU3twk;hhVRnb4wftKkVvubh53/bQ=="
 ---

@@ -416,6 +416,21 @@ related:
       - url: "https://img.buzzfeed.com/buzzfeed-static/static/2020-02/28/11/asset/3667b48f388c/sub-buzz-161-1582887611-4.jpg?output-quality=auto&output-format=auto&downsize=640:*"
         width: 640
         height: 427
+  - title: "Regina police chief says force is not using convtroversial facial recognition software"
+    excerpt: "Regina Police Chief Evan Bray said he's heard the claims that Regina Police Service (RPS) email addresses were provided to the company behind a controversial facial recognition technology, but that his force is not using the technology. \"We're a big police service with 600 men and women that work here and constantly our officers are always ..."
+    publishedDateTime: 2020-02-28T22:57:00Z
+    webUrl: "https://www.cbc.ca/news/canada/saskatchewan/regina-police-controversial-facial-recognition-software-1.5480679"
+    ampWebUrl: "https://www.cbc.ca/amp/1.5480679"
+    cdnAmpWebUrl: "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.5480679"
+    type: article
+    provider:
+      name: CBC.ca
+      domain: www.cbc.ca
+    quality: 51
+    images:
+      - url: "https://i.cbc.ca/1.5471752.1582314762!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/security-facial-recognition.JPG"
+        width: 620
+        height: 349
   - title: "Leaked Document Shows Australian Police Use Creepy Clearview AI Facial Recognition Software"
     excerpt: "Australian police forces have previously denied using controversial facial recognition software, Clearview AI, but a new Buzzfeed report suggests employees within the organisations have undertaken thousands of searches using the software. According to internal Clearview AI data obtained by Buzzfeed News, four Australian police forces are ..."
     publishedDateTime: 2020-02-27T23:00:00Z

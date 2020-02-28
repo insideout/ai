@@ -414,6 +414,21 @@ related:
       - url: "https://img.buzzfeed.com/buzzfeed-static/static/2020-02/28/11/asset/3667b48f388c/sub-buzz-161-1582887611-4.jpg?output-quality=auto&output-format=auto&downsize=640:*"
         width: 640
         height: 427
+  - title: "Regina police chief says force is not using convtroversial facial recognition software"
+    excerpt: "Regina Police Chief Evan Bray said he's heard the claims that Regina Police Service (RPS) email addresses were provided to the company behind a controversial facial recognition technology, but that his force is not using the technology. \"We're a big police service with 600 men and women that work here and constantly our officers are always ..."
+    publishedDateTime: 2020-02-28T22:57:00Z
+    webUrl: "https://www.cbc.ca/news/canada/saskatchewan/regina-police-controversial-facial-recognition-software-1.5480679"
+    ampWebUrl: "https://www.cbc.ca/amp/1.5480679"
+    cdnAmpWebUrl: "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.5480679"
+    type: article
+    provider:
+      name: CBC.ca
+      domain: www.cbc.ca
+    quality: 51
+    images:
+      - url: "https://i.cbc.ca/1.5471752.1582314762!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/security-facial-recognition.JPG"
+        width: 620
+        height: 349
   - title: "Springfield Mayor Domenic Sarno, City Council agree to ban facial recognition technology -- for now"
     excerpt: "SPRINGFIELD — Mayor Domenic J. Sarno said Tuesday that he has agreed to ban police from using facial recognition technology for now, under a policy approved Monday night by the City Council. Sarno had threatened to veto the ban, but both he and councilors said they reached a compromise before Monday’s meeting. The council voted to ban the ..."
     publishedDateTime: 2020-02-25T18:08:00Z

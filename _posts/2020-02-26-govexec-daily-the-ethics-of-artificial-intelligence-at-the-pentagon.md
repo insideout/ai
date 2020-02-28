@@ -39,6 +39,21 @@ related:
       - url: "https://wp-assets.futurism.com/2020/02/pentagon-new-ethics-principles-ai-warfare-600x315.jpg"
         width: 600
         height: 315
+  - title: "Microsoft and IBM agree to support the Pope’s AI ethical principles"
+    excerpt: "The Catholic Pope has released a set of ethical principles outlined in a document titled “Rome Call For AI Ethics,” and it found early support from Microsoft and IBM. The guidelines are designed to address ethical issues around AI technologies such as facial recognition, bias and job losses and promotes a regulatory approach around what is ..."
+    publishedDateTime: 2020-02-28T22:45:00Z
+    webUrl: "https://mspoweruser.com/microsoft-and-ibm-agree-to-support-the-popes-ai-ethical-principles/"
+    ampWebUrl: "https://mspoweruser.com/microsoft-and-ibm-agree-to-support-the-popes-ai-ethical-principles/amp/"
+    cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-and-ibm-agree-to-support-the-popes-ai-ethical-principles/amp/"
+    type: article
+    provider:
+      name: MSPoweruser
+      domain: mspoweruser.com
+    quality: 74
+    images:
+      - url: "https://mspoweruser.com/wp-content/uploads/2020/02/robot-pope.jpg"
+        width: 598
+        height: 478
   - title: "At least they’ll have an off switch: Pentagon adopts ‘AI Ethical Principles’ for its killer robots"
     excerpt: "As the United States looks to develop artificial intelligence weapons to keep up with Russia and ... Also on rt.com Make no mistake: Military robots are not there to preserve human life, they are there to allow even more endless wars What exactly the ..."
     publishedDateTime: 2020-02-24T23:22:00Z

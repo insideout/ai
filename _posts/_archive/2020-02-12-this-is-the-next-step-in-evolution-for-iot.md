@@ -27,6 +27,6 @@ images:
     height: 675
     title: "This is the next step in evolution for IoT"
 
-secured: "IYa6v3xaZ2rAaPuLNGxRNpVs8+HCkyXnhfAHAY/nwxK43ENKwnUhBRRwHuGYlKB/pKuUIvXR8aTSc8JC2BsjaU0aNZAVbCG0l5h8s0JZdsd2zR21S13qw8uvGMZNmkNZtJ+W10GrvmnU9PEwcym4xh4u7ooS9Mz4PpxBNA2XSUuBEtYGb2v2atktc+dxJslk7+LyH8vD8L6/5+tHPIKbDKSlH+eTM0GFbvif/Qc+lduC/EwInS+IVQblmg2v4wHR5By3Vn8OnROkysuujvFyubRXOjbP6TTSKTZ13/I/xK6YOu24OKInKwioRLNw0Rko;px0vykv5rBcL/fqNDvbFVw=="
+secured: "1ZFFKzLCfd9BwWsR/AnfkHqQMScGhtu2f44XXMYeYBn6C6cT9eTAfsQol2UdutzfdJIMRwda83+lXwLw34ZG2Nbk2vgDSCP0kbHuxSlM6++YuzkmEZgkYd8MKQ+SMj2WCbVhzNtVQWYvvrHjPyjU5H477x3hG9OM7upeII8ztif09KyCwgCjC19ewpBNOB6pqwPNqfb9pU2csJLRnAXaiC/zItftgNhHTRqT98xVuc1gUzeBbbvUa+iVz1Z95aqMK8wOEzmxJMflLhFCukO4vx7RHyZQAJYnbCwAryieepb0cuLH87lEJ+b9opnZJEfs;hmh+IelE+m0FKpHNkrPSsA=="
 ---
 

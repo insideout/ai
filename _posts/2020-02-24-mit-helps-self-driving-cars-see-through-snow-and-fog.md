@@ -102,9 +102,9 @@ related:
         width: 350
         height: 220
   - title: "Researchers look under the road to aid self-driving cars"
-    excerpt: "Car companies and researchers have been feverishly working to improve the technologies behind self-driving cars. But so far, even the most high-tech vehicles still fail when it comes to safely navigating in rain and snow. That's because these weather conditions wreak havoc on the most common approaches for sensing, which usually involve either ..."
-    publishedDateTime: 2020-02-28T21:49:00Z
-    webUrl: "https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=300108&org=NSF&from=news"
+    excerpt: "Car companies and researchers have been feverishly working to improve the technologies behind self-driving cars. But so far ... A team from MIT's Computer Science and Artificial Intelligence Lab (CSAIL) developed a new system that uses an existing technology called ground-penetrating radar (GPR) to send electromagnetic pulses underground ..."
+    publishedDateTime: 2020-02-28T21:48:00Z
+    webUrl: "https://nsf.gov/discoveries/disc_summ.jsp?cntn_id=300108&org=NSF&from=news"
     type: article
     provider:
       name: nsf.gov

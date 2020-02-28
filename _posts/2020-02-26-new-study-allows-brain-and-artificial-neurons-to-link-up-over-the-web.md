@@ -1,27 +1,23 @@
 ---
 category: news
 title: "New study allows brain and artificial neurons to link up over the web"
-excerpt: "This study has for the first time shown how three key emerging technologies can work together: brain-computer interfaces, artificial neural networks and advanced memory technologies (also known as memristors). The discovery opens the door to further significant developments in neural and artificial intelligence research. Brain functions are ..."
-publishedDateTime: 2020-02-26T16:05:00Z
-webUrl: "https://www.eurekalert.org/pub_releases/2020-02/uos-nsa022620.php"
+excerpt: "This study has for the first time shown how three key emerging technologies can work together: brain-computer interfaces, artificial neural networks and advanced memory technologies (also known as memristors). The discovery opens the door to further significant developments in neural and artificial intelligence research. During the study ..."
+publishedDateTime: 2020-02-26T15:19:00Z
+webUrl: "https://medicalxpress.com/news/2020-02-brain-artificial-neurons-link-web.html"
+ampWebUrl: "https://medicalxpress.com/news/2020-02-brain-artificial-neurons-link-web.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-02-brain-artificial-neurons-link-web.amp"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - AI
   - Machine Learning
-
-images:
-  - url: "https://www.eurekalert.org/multimedia/pub/web/225322_web.jpg"
-    width: 720
-    height: 813
-    title: "New study allows brain and artificial neurons to link up over the web"
 
 related:
   - title: "Scientists make artificial and biological neurons communicate over the internet"
@@ -90,6 +86,6 @@ related:
         width: 400
         height: 452
 
-secured: "srLuZ2WlO1xAILq9+W6rWOmkKXQlk8J3XQ9/P1CR6wezAFb07PTv/RyzVeCZ27sYA3wxsb3GKrtRlVjy3iV+UfNzmLcjOo91zWP9+yVDwDBoMLIv++sLVpGKtEu9Imj7bAAttc6hZeoT9VyB/Glc+3LW2vgOsxxtPgiZax9IISXQtUYimUK+BwV7BsNXGUH/dxNN8pCRQ+KwJeFABkeVszQM/ato7WupdHOYbfYFz9GPVvRzOc4AKiy0mW/QWzbQF1XlyuIAIzgOnQAatS3U/GFj7iAc8j+K8rakUFDqbpjat1UakrL1aZpxsMnYlLbo;PDNVgQxMsZC2MK6kK3zYYQ=="
+secured: "cI1hpMIcIk26wauS+Y7CSEsxNPKSxkNBn/0hSsFy0PIraP9Qn0OphREptu9sZ9grvrsxNjb/jeVHcaX71elazU+KD8gbS2b7txOAQkrMJNRmvuu8IZvdafqP1opcs/hvfSKpLep1UnYXVbwsOPaZNiWaqZs0LXKc0jak3B6wMn5GcL8e2ghV7ztIo4Fo3B8fLei3kvX1rFz3Bqttilxp+8K7LvX+GbAqkGb+W4s8TngnIStZ41BM9j9DrPGNKM4Fa7UOzsJCvC/dt8S+7QS4APS7AiPqpD4pVKdjtDxmMnPVRIXEaqzkOzVC/4+LQ3aLLWDlnrZmuxYRGFbMQBKu5/tj0FCNPijy11kWGJjVIhDVgcAoWTJfXrj85Ej5u/zSAeSOUuBwXYOkCZsiys7Zl6b3SKQtjJY+81fuQe7AGbQsOAUYCkB9zAMT5E0JO4FFw9LMUXPdENljKkiQEDUyGNkArkpkNRHgLjgOmlatGDA=;mHG2qY881rzZo9ZkG6o/0A=="
 ---
 

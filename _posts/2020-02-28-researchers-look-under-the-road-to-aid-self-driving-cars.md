@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Researchers look under the road to aid self-driving cars"
-excerpt: "Car companies and researchers have been feverishly working to improve the technologies behind self-driving cars. But so far, even the most high-tech vehicles still fail when it comes to safely navigating in rain and snow. That's because these weather conditions wreak havoc on the most common approaches for sensing, which usually involve either ..."
-publishedDateTime: 2020-02-28T21:49:00Z
-webUrl: "https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=300108&org=NSF&from=news"
+excerpt: "Car companies and researchers have been feverishly working to improve the technologies behind self-driving cars. But so far ... A team from MIT's Computer Science and Artificial Intelligence Lab (CSAIL) developed a new system that uses an existing technology called ground-penetrating radar (GPR) to send electromagnetic pulses underground ..."
+publishedDateTime: 2020-02-28T21:48:00Z
+webUrl: "https://nsf.gov/discoveries/disc_summ.jsp?cntn_id=300108&org=NSF&from=news"
 type: article
 quality: 39
 heat: -1
@@ -226,6 +226,6 @@ related:
       domain: consumerreports.org
     quality: 4
 
-secured: "BT7MWpWgKymXj3gXeoXhSuaHeBZ6R74dNt5Az4Kwv8ibqto64LF+GOVRSyrNQvQ5BH5/ZsU5ZaZtcdiQQtRz+jBip3rMSR2o2w6RUojdoIfF77Fla3x/GyyOqTpDGMy1220sxvsqbdm2VPnS83Bel+4mD4bD5hTK7nrqdXOCybWp6JQrP162cH7b71k2S1ZNi6M8A/c34kQernsMpRuYd+KPy+okz+Z/KvdESFw20VraU4RrC3O9LI/xsx7oKCf9BXuku+efs+eqLlQDLehkFz6M7dPFnJQwZ22kKa1qf3+MKTzqQiFhmeFWCcQ5Hh9I;hY98fnaEVDJwkYnshcM5RA=="
+secured: "1Ys6niL9oR1gmbS0WjWCnIB0tezxMOrQ0w8bgD4vd7GWGn9deaOmdxidNRaoJZNimtZrvHL2fKx0q+nfckX/t6AvHF4BKaa3COLNi4+BDCd3j8iN4qSX5Ioqe2GSODf7jnXsAet8r4wse/K4qhfB6N0RfpmoyOSg8D95Zk6dGQGTdvPdbCDcU1K6BcoJa9asjzHpj8XwLgj0eQkAuU+Ub8a4Me0Cbm+VufXRkWqeNLOmBXi/+nQwNFSmVHo+k5DCzLW70tpWotveF0i99U/6Z3ohU+WcSfOx0CvBLgL9dS8HnS8qNrMk1ZP59xibcuxp;0LuccrRDhnSVhtHXkRU0pQ=="
 ---
 

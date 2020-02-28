@@ -41,6 +41,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Artificial Intelligence In Energy Market Size, Trend, Competitive Growth Overview and Forecast to 2025"
+    excerpt: "The Global Artificial Intelligence In Energy Market 2019 research provides a basic overview of the industry including definitions, classifications, applications, and industry chain structure. The Global Artificial Intelligence In Energy market analysis is provided for the international markets including development trends,"
+    publishedDateTime: 2020-02-19T10:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-energy-market-size-trend-competitive-growth-overview-and-forecast-to-2025-2020-02-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Global Automatic Speech Recognition Market Attractiveness, Competitive Landscape and Forecasts to 2025"
     excerpt: "The report on Automatic Speech Recognition market refers to 2020 as the base year to procure information pertaining to historical data, and extends a holistic data compilation stretching until 2025 for future prospects."
     publishedDateTime: 2020-02-21T09:42:00Z

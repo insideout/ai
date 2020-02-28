@@ -89,6 +89,21 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1199766600%2F0x0.jpg"
         width: 1200
         height: 784
+  - title: "Apple punishes facial recognition company Clearview AI for ignoring developer rules"
+    excerpt: "Apple has suspended the controversial facial recognition company's iOS developer account following a report from Buzzfeed News that Clearview AI was in violation of Apple’s Enterprise Developer Program rules. As a result, Apple has disabled Clearview AI's iOS app, giving the company 14 days to respond to Apple's claim. Specifically ..."
+    publishedDateTime: 2020-02-28T22:31:00Z
+    webUrl: "https://mashable.com/article/clearview-ai-apple-facial-recognition/"
+    ampWebUrl: "https://mashable.com/article/clearview-ai-apple-facial-recognition.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/clearview-ai-apple-facial-recognition.amp"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 98
+    images:
+      - url: "https://mondrian.mashable.com/2020%252F02%252F28%252Fb8%252F0e21e4895ec24fb6ba521421f080bb3e.1e25e.jpg%252F1200x630.jpg?signature=I8LV9fb3n93xLM_QVHoMYAH-BeM="
+        width: 1200
+        height: 630
   - title: "Clearview AI facial recognition customers reportedly include DOJ, FBI, ICE, Macy's"
     excerpt: "Retail companies as well as law enforcement agencies have used the service, says a report. Customers of controversial facial recognition app Clearview AI include not only law enforcement agencies like Immigration and Customs Enforcement and the Department of Justice,"
     publishedDateTime: 2020-02-28T17:41:00Z
@@ -194,6 +209,21 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/9BC3/production/_111057893_facialrecognition.gif"
         width: 1024
         height: 576
+  - title: "Apple has blocked Clearview AI’s iPhone app for violating its rules"
+    excerpt: "An iPhone app built by controversial facial recognition startup Clearview AI has been blocked by Apple, effectively banning the app from use. Apple confirmed to TechCrunch that the startup “violated” the terms of its enterprise program. The app allows its users — which the company claims it serves only law enforcement officers — to use ..."
+    publishedDateTime: 2020-02-28T20:40:00Z
+    webUrl: "https://techcrunch.com/2020/02/28/apple-ban-clearview-iphone/"
+    ampWebUrl: "https://techcrunch.com/2020/02/28/apple-ban-clearview-iphone/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/28/apple-ban-clearview-iphone/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-1167845553.jpg?w=1024"
+        width: 1024
+        height: 576
   - title: "Facial Recognition Company Clearview AI Probed by Canada Privacy Agencies"
     excerpt: "Canadian privacy authorities have launched an investigation into New York-based Clearview AI to determine whether the firm's use of facial recognition technology complies with the country's privacy laws,"
     publishedDateTime: 2020-02-22T09:32:00Z
@@ -282,6 +312,21 @@ related:
       - url: "https://img.buzzfeed.com/buzzfeed-static/static/2020-01/23/15/campaign_images/2f678849f533/clearview-ai-says-its-facial-recognition-software-2-1696-1579792527-1_dblbig.jpg"
         width: 625
         height: 415
+  - title: "Apple disables facial recognition firm Clearview AI's iOS app for violating developer rules"
+    excerpt: "Apple has disabled facial recognition technology startup Clearview AI's developer account, and as a consequence its iOS app, for violating terms of the tech giant's enterprise developer agreement. The effective ban, confirmed by Apple on Friday, arrives amid a firestorm of controversy relating to Clearview's operating practices and business ..."
+    publishedDateTime: 2020-02-28T21:59:00Z
+    webUrl: "https://appleinsider.com/articles/20/02/28/apple-disables-facial-recognition-firm-clearview-ais-ios-app-for-violating-developer-rules"
+    ampWebUrl: "https://appleinsider.com/articles/20/02/28/apple-disables-facial-recognition-firm-clearview-ais-ios-app-for-violating-developer-rules/amp/"
+    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/20/02/28/apple-disables-facial-recognition-firm-clearview-ais-ios-app-for-violating-developer-rules/amp/"
+    type: article
+    provider:
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 64
+    images:
+      - url: "https://photos5.appleinsider.com/gallery/34718-62882-200228-ClearviewAI-xl.jpg"
+        width: 800
+        height: 447
   - title: "Facial recognition app Clearview AI has been used far more widely in Canada than previously known"
     excerpt: "From Mounties and small-town cops to a Rexall employee hoping to bust shoplifters — a facial recognition tool at the centre of international controversy has been used far more widely in Canada than had been previously known. On Thursday, a dozen police forces and private businesses confirmed their officers or employees had used the technology ..."
     publishedDateTime: 2020-02-28T02:36:00Z

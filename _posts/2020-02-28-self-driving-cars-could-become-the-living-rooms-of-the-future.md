@@ -111,9 +111,9 @@ related:
         width: 350
         height: 220
   - title: "Researchers look under the road to aid self-driving cars"
-    excerpt: "Car companies and researchers have been feverishly working to improve the technologies behind self-driving cars. But so far, even the most high-tech vehicles still fail when it comes to safely navigating in rain and snow. That's because these weather conditions wreak havoc on the most common approaches for sensing, which usually involve either ..."
-    publishedDateTime: 2020-02-28T21:49:00Z
-    webUrl: "https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=300108&org=NSF&from=news"
+    excerpt: "Car companies and researchers have been feverishly working to improve the technologies behind self-driving cars. But so far ... A team from MIT's Computer Science and Artificial Intelligence Lab (CSAIL) developed a new system that uses an existing technology called ground-penetrating radar (GPR) to send electromagnetic pulses underground ..."
+    publishedDateTime: 2020-02-28T21:48:00Z
+    webUrl: "https://nsf.gov/discoveries/disc_summ.jsp?cntn_id=300108&org=NSF&from=news"
     type: article
     provider:
       name: nsf.gov
@@ -226,6 +226,6 @@ related:
       domain: consumerreports.org
     quality: 4
 
-secured: "YibuNnCgRNxjqPvjXH0WIYJYcClUAvMe6oUsQyd2ZOYfa275xihmyYsm5XL0AVYLT5qHcitOC4sDsVgs0s62MpcGOiaqypIKnESYI+WZyekNC2Pl8wSTKvvdTFaXH5KjkRNi7e+ufluNa5HQNJPBASbPVhVVt30AGsDa+0f7tfW1AF3UgS60mmhSDEwpNX4B+Vcnu2KSKdqZ8/wySI72FQJJEo1ZLMkuK5F/Rf62UR58qRYTb+ti0DH+jqxuBIZTGAVvVPRqSVupZUYBGpRDUnMAKgzs5B7ex+s3YA9SWyIWwx8uyVD7i/xmh2o9oX1t;O4QoymGWBjAX8FSve+ESUQ=="
+secured: "rcjM3Ir/gGyY0QLqRnh8gNNQQJuduCfQvBOfVtTVj1rYV7G6ShqbP5XnB/3nLCTfTf29n429BF/p0AsmcWR7MSInV5BjtCqU+nxliu09wxefNTmTDggMCYIHBfpof3o/giQj0G3RDOkV2sWvnKRHgz22XKys+Uitgq5HobsIskaO16Bdu/nMOTo71gyAGs5J8KvCD0I4f0u4SeHQL00IBqKQikMzrxDrP6LUfuQrcZx4YW1SEFSYt8vMIMm5dpFxFY0HGyQ+Pba7436hwiLunfIMRT/Ew603xnBrfcKikkj8PIyoI9OIp5Pmr6wS1SayPEgvrj/IK2Brljb/5UJRBEtShVYEYOqwhobY/JLK6B9ZB87nEQUIzy5/u/jN0o+tWWxLIu3nQZAhRRJl5+9IIg5RMlxacREPFcWMZUHrrvlRe3GC2eL0DJvPcL5VhRVCRJcY8KYTSCIskForROrtQdaV+fwxFlPXLhCGYFubbO0=;zP+zVDajzIpllAuJUuLvAw=="
 ---
 
