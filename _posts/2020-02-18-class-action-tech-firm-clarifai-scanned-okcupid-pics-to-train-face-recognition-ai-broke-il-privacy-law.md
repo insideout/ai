@@ -63,19 +63,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 49
-  - title: "Polls shows Utahns aren’t concerned about facial recognition software. Lawmakers and privacy advocates say they should be."
-    excerpt: "Many Utah lawmakers were alarmed last year when they learned that federal law enforcement had used facial recognition technology to scan thousands of photos in the state’s driver license database for suspects. Despite the uproar, most Utah residents say they approve of law enforcement searching the state database for suspects, according to a ..."
-    publishedDateTime: 2020-02-13T13:03:00Z
-    webUrl: "https://www.sltrib.com/news/2020/02/13/polls-shows-utahns-arent/"
-    type: article
-    provider:
-      name: The Salt Lake Tribune
-      domain: sltrib.com
-    quality: 13
-    images:
-      - url: "https://www.sltrib.com/pb/resources/assets/img/sltrib_facebook_card.png"
-        width: 1200
-        height: 630
 
 secured: "cdy1q733j5aw1ZGL3EQ7PJGoHJRf01iFwaa6jVmAISzqdBzCnCvG7Ov4wBTvfVleCBOyJpbWIxx5MubQTswEJXN25584JMquw8b/reN/DAGxFO8pFAh3dSbjvFdRgEXv+cmd1cpGQeP/vIJgeGEnEtWYSZjJvPormYzLhvANWxJhraFv08mH/nB+wT6F/fmT/Fix0fPuJ0pLVnv9JGojjA9QB3q42xxkTgWoDMs7GD8ouPXPNBIIJR6+387irrzlfmBjq5vtbXHdfI+47cztzcrQ22cpA/4CpAHSF0ADUQmCgdlOQFSdG1p0d+lJb5qWmAu6xPLwUgY6qDmN8duL5PPPT5kdeCwlasETNvoCHTafUjACAxY7Ak788GonYbWhlE/AbubR8AQP775nKXfIPuabVdTZLEML1Vl1Kh9Wy2uMZWiYY2MYhZoDePzKApu2atcjyhY3DN/rsIceSnXdNdaLp7cwe0aAz5/S/eH2xxo=;RDgeQzm9ocjO5j2SdHlIcw=="
 ---

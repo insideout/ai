@@ -63,19 +63,6 @@ related:
       - url: "https://jnswire.s3.amazonaws.com/jns-media/28/0f/193780/Chicago_DaleyCenter_Picasso_Upshot.jpg"
         width: 1280
         height: 640
-  - title: "Polls shows Utahns aren’t concerned about facial recognition software. Lawmakers and privacy advocates say they should be."
-    excerpt: "Many Utah lawmakers were alarmed last year when they learned that federal law enforcement had used facial recognition technology to scan thousands of photos in the state’s driver license database for suspects. Despite the uproar, most Utah residents say they approve of law enforcement searching the state database for suspects, according to a ..."
-    publishedDateTime: 2020-02-13T13:03:00Z
-    webUrl: "https://www.sltrib.com/news/2020/02/13/polls-shows-utahns-arent/"
-    type: article
-    provider:
-      name: The Salt Lake Tribune
-      domain: sltrib.com
-    quality: 13
-    images:
-      - url: "https://www.sltrib.com/pb/resources/assets/img/sltrib_facebook_card.png"
-        width: 1200
-        height: 630
 
 secured: "6EBk20Lx9PF0ZnQoCDwGG1HCUCglsEmqT6Yei+EygCl3lc+nFC8ixuyNafi5vOlWmr69E/H3+8A2Lc0irhgjiixpTGEd8zuRPZejAxfU7BEaRygku2CpIECrw3vlvwpiZX+q/bfs6AU0wVYh+CK3BxxnAyK4zeMlGJ91qZ/4m3AxOX/yr/KJXyz4PRNec+kSwMqflpGzlTMBd2NNQMgl3+JbdsBh7cmzj3BFX2UtdJnGjbrO1PbUdp4vGFLXJmu6jnBmK+uTqzeIOobdJoQuyJAf5ChaHs9W1N/yF/gAscd0CPVuQyEMu309bg4GOUAg;FKE/HrJmTVAeukU3UHuRbQ=="
 ---

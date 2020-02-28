@@ -8,7 +8,7 @@ ampWebUrl: "https://www.foxnews.com/us/new-facial-recognition-app-promises-to-so
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/new-facial-recognition-app-promises-to-solve-crimes-critics-say-its-the-end-of-privacy.amp"
 type: article
 quality: 80
-heat: 120
+heat: 110
 published: true
 
 provider:
@@ -67,19 +67,6 @@ related:
       - url: "https://jnswire.s3.amazonaws.com/jns-media/28/0f/193780/Chicago_DaleyCenter_Picasso_Upshot.jpg"
         width: 1280
         height: 640
-  - title: "Polls shows Utahns aren’t concerned about facial recognition software. Lawmakers and privacy advocates say they should be."
-    excerpt: "Many Utah lawmakers were alarmed last year when they learned that federal law enforcement had used facial recognition technology to scan thousands of photos in the state’s driver license database for suspects. Despite the uproar, most Utah residents say they approve of law enforcement searching the state database for suspects, according to a ..."
-    publishedDateTime: 2020-02-13T13:03:00Z
-    webUrl: "https://www.sltrib.com/news/2020/02/13/polls-shows-utahns-arent/"
-    type: article
-    provider:
-      name: The Salt Lake Tribune
-      domain: sltrib.com
-    quality: 13
-    images:
-      - url: "https://www.sltrib.com/pb/resources/assets/img/sltrib_facebook_card.png"
-        width: 1200
-        height: 630
 
 secured: "08eyrW0xX8S7zJMrWWywMfIrKdYYhjoqoDmfcPI0TFUlm98LlbfQT+IkMZsYaCFHahvqwCPPdiVRIMfCybeK94NsaXhWXo1TP8bZwn/D+wJXTWoogMccYjx5R/PtgGXSlw0IVtgCv3CKwsezr91yyWFDxbYNWLyuhHNmZNS9VQfS2HNx3v9dbA/rdOvjHBVKF+NCaNamQIYnugnFgvQX50Z1jtbTfwTJPIXhImtzMqd7Hj8zLLo14vsOeAkcDHvGDD8ITsYq8KDPVWFp4imBM5jGMqU3N4c6st+ascQsRWPtkLgBS0T8AqY2rpKEz253U9izPJ7KTHpbsdjtvf2fByJ57TPkMkRQYwhmKFmVJzjdOlLNaPiE/3RjAcXO7Vf1/Gf9lp7frTkSB7l6mv7j04n0/CJlZr70gGTDOEqsXOZualAEDXcj9N1xBDWrIRg9OSNW8sDI965anGPadjlPv7Wa4/GVghMab3jeuZg+SCE=;Kf9Hq9ii2Vut7IgUlgiZ8A=="
 ---
