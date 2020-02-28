@@ -46,6 +46,19 @@ related:
       - url: "https://mma.prnewswire.com/media/159881/spherix_incorporated_logo.jpg?p=facebook"
         width: 1397
         height: 733
+  - title: "Machine Learning Takes Hold in the Physical Sciences"
+    excerpt: "In recent years, the techniques of machine learning (ML) have become an essential part of the computational toolkit of physical scientists in fields ranging from astrophysics to fluid dynamics. In October 2018, for example, the APS Editorial Office hosted one of their ongoing series of \"Physics Next\" workshops on the topic of machine learning ..."
+    publishedDateTime: 2020-02-28T17:14:00Z
+    webUrl: "https://www.aps.org/publications/apsnews/202003/machine.cfm"
+    type: article
+    provider:
+      name: American Physical Society
+      domain: aps.org
+    quality: 39
+    images:
+      - url: "https://www.aps.org/publications/apsnews/202003/images/machine-learning.jpg"
+        width: 500
+        height: 376
   - title: "Spherix Attends Artificial Intelligence and Machine Learning Pharmaceutical Development Conference"
     excerpt: "The AI-ML in Drug Development Summit is the only conference to bring together industry leaders, technology experts and academics focused on augmenting the R&D processes through the use of Artificial Intelligence and Machine Learning. The event, scheduled for February 24-26, 2020 at the DoubleTree by Hilton Hotel San Diego - Mission Valley ..."
     publishedDateTime: 2020-02-26T00:49:00Z

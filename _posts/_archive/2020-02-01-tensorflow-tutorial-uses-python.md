@@ -23,6 +23,6 @@ images:
     height: 533
     title: "Tensorflow Tutorial Uses Python"
 
-secured: "Mscwj7/lCOCsh7+ezETr3O+QBBzJksgH9wolCFwx138piGEoAI7BKcd2RjPOFMULKEaDeIiXh3c3TQ35SGEbV49uWqETnpRwrlMXLodVD93yrMObQJqITEpNhrhLS43OmIfXOfq+S/nTxFGbmwup6Zy9+XZVcyxyUEVPzcv7o7b03Dmmw4tgVPJWVQuM85rSCWwrThCvOHbGtOKuqdRKZ3ncnGkTgY2IUl4dvU99aTSOqTmsP7PMgxe/cbDNJxkVe3e1fZ/yZzm4YcIXgoOKdpdYfJtnfggyXSBWbDjjGOxu5p9dIu78dSfghrCvMxVD;G7LpSBs3bdjSPJ1P4nbn8g=="
+secured: "Vw7f4dd0iXed2GgfFxRikEO7MGv/5hj/FTBFXrebNizyrdcDPUmM4/Qe6A0P1Pu0FzA6r9sy5RlHs/x8W0hNesjuPwBK0w56yXF7YS9uox5ZU9w4o33xiXbVheJqACDF+h5yhN9DSN15OjnYEP0/RL+tP64oJ6ZXcmem5tHgRcFAVf5R+UflLT0p1l98ncPKbiIyvsfaagovMYPwolxSIDq+icxct+gujKV3NcqR6OZMp5+LAa0n/im5D059zeKF/XmB6ldgBfK1TJ8XyQea4hYty2nRVVgDP5x3+b9VTjlYyUkwaTBivde4//U4/haj;q2XHOCVpQXF8jeONnvdJpQ=="
 ---
 

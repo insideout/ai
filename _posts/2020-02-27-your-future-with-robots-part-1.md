@@ -59,6 +59,19 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 34
+  - title: "This Week In AI: Pony.ai Raises $462M, Graphcore Reaches $2B Valuation, ABB Partners With Covariant AI For Warehousing"
+    excerpt: "Five startups raised $100M+ mega-rounds. Cornerstone OnDemand acquired talent management startup Saba Software for $1.4B. Pixar and Disney received a patent for 3D image rendering with neural networks. Last month, we released our quarterly AI in Numbers report. This quarter’s report highlights AI investment activity, partnerships ..."
+    publishedDateTime: 2020-02-28T17:37:00Z
+    webUrl: "https://www.cbinsights.com/research/this-week-in-artificial-intelligence-ponyai-graphcore-abb-covariant/"
+    type: article
+    provider:
+      name: CB Insights
+      domain: cbinsights.com
+    quality: 13
+    images:
+      - url: "https://s3.amazonaws.com/cbi-research-portal-uploads/2020/02/28120503/ANML-572x364.png"
+        width: 572
+        height: 364
 
 secured: "TD2x7vVefp+puO4RI8dkUaZM7Y5RtW1mhx8709Sja7/HO9avO4bzfVXxUGNtchYTqekhPXJNoDjVhQTv/ZBmpVh+gXAN7TVIMPWgkx+HgoVyRcnvNnrU9Mi0+QqMwgf/yuI3rNhkKOPB6Ny0RbJJcgVY63yxKMGlB0LKXBxpvlocs9p1tRzIhH4So/KZsXmKBgZWud1Hostdn/+veMIbQbg+KSp1mu2WJ6YBMcn+Yq1JfGP82/e66FjZtceHpq6XfvWP6q+JpyfoAynv1Ik3xCuMMrogn/Sa72E5hJEsyIFkM4sGhYIUS7eX3+gSyYca0kUX14VIaFEnkxaWn9cxydIZr4ci1IPe5AR0Q6ZP9qjJeFoYRnMb90yvUwyZIzK23/BCmCmSkA+JSL+dexK9gmGmWihpO6Teydbia9lqxfz4pgokmup5bCcwyEfvE0K+4U8fzAglrJpl2dxGuY1T00RenRLEjOHJpt0CZGUV2/0=;BK00C4lfyfWWk3RmSL61ow=="
 ---

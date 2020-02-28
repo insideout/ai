@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-27T13:21:00Z
 webUrl: "https://www.therobotreport.com/covariant-abb-partner-integrate-ai-warehouse-robots/"
 type: article
 quality: 84
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -59,6 +59,19 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 34
+  - title: "This Week In AI: Pony.ai Raises $462M, Graphcore Reaches $2B Valuation, ABB Partners With Covariant AI For Warehousing"
+    excerpt: "Five startups raised $100M+ mega-rounds. Cornerstone OnDemand acquired talent management startup Saba Software for $1.4B. Pixar and Disney received a patent for 3D image rendering with neural networks. Last month, we released our quarterly AI in Numbers report. This quarter’s report highlights AI investment activity, partnerships ..."
+    publishedDateTime: 2020-02-28T17:37:00Z
+    webUrl: "https://www.cbinsights.com/research/this-week-in-artificial-intelligence-ponyai-graphcore-abb-covariant/"
+    type: article
+    provider:
+      name: CB Insights
+      domain: cbinsights.com
+    quality: 13
+    images:
+      - url: "https://s3.amazonaws.com/cbi-research-portal-uploads/2020/02/28120503/ANML-572x364.png"
+        width: 572
+        height: 364
 
 secured: "hwtC0UOu0FYX1vLVqGdOtpcMvpHuocCxXTAljCNDe/4kkjsCP4hG+fMI9GSNlVt0vABR72Jaa5xszTil+SHudpyZYf5Qh2TgHptiijHY6fEQ6LwlFXSsoPvji0u1fSvqoqT2ce5dGaAdtCN2TAX7fUwyrTAG5a/gYtm7+zKqoePfEIEq3YKUtsGcix8FJ1L2VHBJUhGDUBnWlok90J59/YGTYus99u+wR9zhPEEXGASsJqi/mXQ5j0YkgyyIc/VGJVX5oiQTPVH42MYTXf3ZaBwEQ6Y92Ht78i3E/7F+kUVvvrwG7UYWHcOEe6hpLcwvlg+TaO1w/7gg9GsVDM1bOquwZKT4Ms/p+Ah1MPLuP1eqYFHONjWug9U993SywS+iDoX/SLmBMXKXy1TGZuhE2MDljxohTBMX1zG00kg4HIE+VLpS4hCNARWw05VOjNCEijbEcJN+Is1UyAfHG87TpzcN8qzUVCA6VTupst40MZo=;n5Er0Did4iCRkL1V7IcRxQ=="
 ---

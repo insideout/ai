@@ -46,6 +46,19 @@ related:
       - url: "https://mma.prnewswire.com/media/159881/spherix_incorporated_logo.jpg?p=facebook"
         width: 1397
         height: 733
+  - title: "Machine Learning Takes Hold in the Physical Sciences"
+    excerpt: "In recent years, the techniques of machine learning (ML) have become an essential part of the computational toolkit of physical scientists in fields ranging from astrophysics to fluid dynamics. In October 2018, for example, the APS Editorial Office hosted one of their ongoing series of \"Physics Next\" workshops on the topic of machine learning ..."
+    publishedDateTime: 2020-02-28T17:14:00Z
+    webUrl: "https://www.aps.org/publications/apsnews/202003/machine.cfm"
+    type: article
+    provider:
+      name: American Physical Society
+      domain: aps.org
+    quality: 39
+    images:
+      - url: "https://www.aps.org/publications/apsnews/202003/images/machine-learning.jpg"
+        width: 500
+        height: 376
   - title: "How artificial intelligence may aid the poultry industry"
     excerpt: "Robots offer not only higher productivity and profits, but their presence can also contribute to improved health and welfare. robot-avcola-Octopus-granja-2 The most visible signs of employment of artificial intelligence on farm is in the form of robots that not only improve efficiency but benefit bird welfare. Octopus Robots Some robots ..."
     publishedDateTime: 2020-02-17T18:22:00Z

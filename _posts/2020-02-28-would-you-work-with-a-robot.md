@@ -3,7 +3,7 @@ category: news
 title: "Would You Work With A Robot?"
 excerpt: "It’s 2035. Booting my iMac, after checking email and my favourite newsfeeds, I start iDavid, my digital assistant, I tasked yesterday with some research I need for a feature I'm doing next month for my Forbes channel."
 publishedDateTime: 2020-02-28T15:26:00Z
-webUrl: "https://www.forbes.com/sites/davidhowell1/2020/02/28/would-you-work-with-a-robot"
+webUrl: "https://www.forbes.com/sites/davidhowell1/2020/02/28/would-you-work-with-a-robot/"
 ampWebUrl: "https://www.forbes.com/sites/davidhowell1/2020/02/28/would-you-work-with-a-robot/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidhowell1/2020/02/28/would-you-work-with-a-robot/amp/"
 type: article
@@ -29,6 +29,6 @@ images:
     height: 675
     title: "Would You Work With A Robot?"
 
-secured: "fWpBT/u/AH4rz5PN+Y8c+WCehChkRkVIcptJgKLFRM7NpjZBcI9K8+SmMDO8u7XYy9Qbbz47dHsYGlFYxg1KjLx03CIQH9SEUewvGnTOsDfnIKkFFH+PeDH5q2uOTU+yxow/MyApUAxToun9bIbEEkWa6uDN4FgC6ozyFbYrqXjFI45pTU2V6PSLAIjzLQUnhIZlfowCiVPc+MvCABQKHfjxYuRsAXQZvb5umtmdfv2b4GSPBVqTH6xDUdfnHLtiabZ9FKTmjCYwSTDM9pXfYPMGMiDX5EKTLzaZTN+9o9jcnhAPf35vCK8ig/5/MZRv;rVpkSsMkp5F56fksWvNw3g=="
+secured: "+menIGgELzq2+veIT9Kd7AzfMeMsZlS78DyXYfbD1QFqRCVkY1ssG4dKjV5vbDNDGmcjEQauj4RD4qDHczh/mzSLlIPSX2Ls/7RPbS2eh71CQGhZR+kS3eouH/HsDj4j+Xcs9e40IEoA/HnHPw4ttBrUF2ZtAmYfjUdCbsXFQXDsbPGpjytzWvt2ifVTkBbHVIFwh9ahaVUk02sQb7YppW0z891sRB/GYplxJnalDtSNmGUU7a7go5JsF8zhfuRMCuxUb0YXJB/Pek2igBwxB79qCiaFndeTwEuIGTB7Bq8td4XS4yN748nFQsTNW1gs;fKu7ywtvCNHIRE9m/UpA3Q=="
 ---
 

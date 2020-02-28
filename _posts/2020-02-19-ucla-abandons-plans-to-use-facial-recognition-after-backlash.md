@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-19T21:44:00Z
 webUrl: "https://www.vice.com/en_us/article/z3by79/ucla-abandons-plans-to-use-facial-recognition-after-backlash"
 type: article
 quality: 171
-heat: 591
+heat: 581
 published: true
 
 provider:
@@ -29,21 +29,6 @@ images:
     title: "UCLA Abandons Plans to Use Facial Recognition After Backlash"
 
 related:
-  - title: "Clearview AI facial recognition company faces another lawsuit"
-    excerpt: "The technology is \"Orwellian,\" a new class action alleges. Clearview AI, a controversial facial recognition app being used by US law enforcement to identify suspects and other people, is facing another lawsuit."
-    publishedDateTime: 2020-02-14T00:27:00Z
-    webUrl: "https://www.cnet.com/news/clearview-ai-facial-recognition-company-faces-another-lawsuit/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/clearview-ai-facial-recognition-company-faces-another-lawsuit/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/clearview-ai-facial-recognition-company-faces-another-lawsuit/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 104
-    images:
-      - url: "https://cnet1.cbsistatic.com/img/T7vHUXN92GZ-p8NS6dA-Ll1wLrQ=/756x567/2020/02/14/93a842af-7754-4d73-baf3-c2fd2af66118/facial-recognition-getty.jpg"
-        width: 756
-        height: 567
   - title: "Leak shows EU police aim to create an international facial recognition database"
     excerpt: "The system was proposed by police forces from 10 EU nations, and it could be expanded to cover the US EU police forces plan to build a network of national police facial recognition databases covering every member state, according to internal documents obtained by The Intercept. The report from national police forces of 10 EU member states ..."
     publishedDateTime: 2020-02-24T18:03:00Z

@@ -27,6 +27,6 @@ images:
     height: 600
     title: "The cofounder and CTO of the $20 billion self-driving car company Cruise just ran 7 marathons on 7 continents. Here's exactly how he did it."
 
-secured: "teye4s0D4bhc2F9kqntW2K9t9mT3NSqdjVuJ9R6/qnPFYYtV5dcqYYe6eljOrn3jca914nlECgbEfyWxcWpbF3p20eRoO0vfXqD0ICaAdtzjQR51NaqZmlzhTwWjeYy804sxUthRWG5JPp54fyjIGQnuTW0cFxiaAjazXDiXQ28mGwgj+XBGX1/wkwgevLxH2SW2HHaVU5SUgB+dlf6nPqS4Ot9lKMh91eAD8PpFmMcTbjhah4dsjpabGQj1OCe1yrtVGZb4NJKARehyNfBGsU1sbZfoYPukW8CDBaUlcdxxJHX/RKJpqbTjnpQ1Y/Bo;lGuTog2HIhjA+iwZqXRl5g=="
+secured: "nwv0Frjwp39FfMEMNncr8DKs5BcHrTDxJitzldXIwkGRYhthhEgMUCoerIaIGjDPrLWhy1hn053w7exrrTOKXYOubQjvFu1fbmeSghMWU0+IRxQobkQfHRwqLVXkvg/nppaw9oR2PkpdXNAhMOfx4xO+BifvtRdi//atyz8FS9ZgbZ8aIT++EAzpkbivbqowxFyT11Pg5gtPIwAK5sXrmR/a2nA/MLqBsceMXQvtOIl8OwGaxPLTOVCwcyLq0x3TIeqH7lwaaHoy6B9VqiMckgSMLzDeRPmeq00SlpvUpNOrebmWKA4NdcC7CARNyugtPqqD1biO6aU6/FvPTKkR/owY32a4wWXBWijgBKKV185jkkdwwuLuce+thdkqprVuX1j69LRuTxNPHQjNL7CtJWRGHXBchHSvLhIM7rYnX5EHKmS/I2DfM/7gSEZxQh7n7Ysxt6B5MNYbi3yIuS6Hwc5xWyXnjlxG8mBPJ97osP8=;0yA94/KT82ZFMjnds+btYw=="
 ---
 
