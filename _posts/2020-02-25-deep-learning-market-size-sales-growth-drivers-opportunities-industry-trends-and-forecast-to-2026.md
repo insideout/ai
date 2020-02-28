@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-25T11:36:00Z
 webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-size-sales-growth-drivers-opportunities-industry-trends-and-forecast-to-2026-2020-02-25"
 type: article
 quality: 54
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -28,6 +28,19 @@ images:
     title: "Deep Learning Market Size, Sales, Growth Drivers, Opportunities, Industry Trends and Forecast to 2026"
 
 related:
+  - title: "Artificial Intelligence (AI) Chipset Market Size, Share, Key Players, Growth Drivers, Business Opportunities, and industry Forecast"
+    excerpt: "Market Highlights Artificial intelligence (AI) chipset are silicon-based chips that are integrated with devices"
+    publishedDateTime: 2020-02-28T09:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipset-market-size-share-key-players-growth-drivers-business-opportunities-and-industry-forecast-2020-02-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Data Science and Machine Learning Service Market: Global Industry Analysis and Opportunity Assessment 2020 - 2026"
     excerpt: "COMTEX_362633546/2582/2020-02-28T03:10:37 Here are 5 reasons the stock market is having its worst decline since 2008, and only one of them is the coronavirus"
     publishedDateTime: 2020-02-28T08:10:00Z

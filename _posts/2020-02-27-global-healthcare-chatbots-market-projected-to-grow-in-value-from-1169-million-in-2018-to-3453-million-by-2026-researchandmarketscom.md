@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Global Healthcare Chatbots Market Projected to Grow in Value from $116.9 Million in 2018 to $345.3 Million by 2026 - ResearchAndMarkets.com"
+title: "Global Healthcare Chatbots Market Projected to Grow in Value from $116.9 Million in 2018 to $345.3 Million by 2026 – ResearchAndMarkets.com"
 excerpt: "The global healthcare chatbots market accounted for $116.9 million in 2018 and is expected to reach $345.3 million by 2026, registering a CAGR of 14.5% from 2019 to 2026. A chatbot is a program that works on artificial intelligence for stimulation of interactive human conversation. These programs run by using key pre-calculated user phrases and ..."
-publishedDateTime: 2020-02-27T17:49:00Z
-webUrl: "https://www.businesswire.com/news/home/20200227005823/en/Global-Healthcare-Chatbots-Market-Projected-Grow-116.9"
+publishedDateTime: 2020-02-27T18:31:00Z
+webUrl: "https://virtual-strategy.com/2020/02/27/global-healthcare-chatbots-market-projected-to-grow-in-value-from-116-9-million-in-2018-to-345-3-million-by-2026-researchandmarkets-com/"
 type: article
 quality: 5
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Virtual-Strategy
+  domain: virtual-strategy.com
 
 topics:
   - AI
   - AI in Healthcare
 
 images:
-  - url: "https://mms.businesswire.com/media/20200227005823/en/371054/23/ResearchAndMarkets_800px.jpg"
-    width: 1200
-    height: 627
-    title: "Global Healthcare Chatbots Market Projected to Grow in Value from $116.9 Million in 2018 to $345.3 Million by 2026 - ResearchAndMarkets.com"
+  - url: "https://virtual-strategy.com/wp-content/plugins/all-in-one-seo-pack/images/default-user-image.png"
+    width: 512
+    height: 512
+    title: "Global Healthcare Chatbots Market Projected to Grow in Value from $116.9 Million in 2018 to $345.3 Million by 2026 – ResearchAndMarkets.com"
 
 related:
   - title: "Artificial Intelligence (AI) Market is Projected to Reach USD 169.9 Billion in 2026"
@@ -185,6 +185,6 @@ related:
       domain: globenewswire.com
     quality: 0
 
-secured: "3hkjjUMXFsZ+/qcEoqB/we5k0TGBBo5G6TuaQuAIDVvOsPUP3MTgvFzaoVcyVHmeZxKA/e7HRoxoOmINYxZVRDM9T9zdPQGMNlT4Kkj2mvBwIfDzxnAyQJx8AgigSOv1tfs4DJxKPU93sSmIkArX3uMRHPwU+DOgf9tBoWIybR+Cjzd3NlLNPvRZyHgkquP3+D1H33GMTUsTVpWqX+Yzold4T9DWhyVOxDlgobFKJg03azb6qOrzSShfsLZoFNxBLgAErzhUjdKr8Xey6jOu9VmX4g6gQbBEuYMj4bOzFBMLifq05v2cgI4hnO+VHTo/T8igCKRdEXU2g4EqTti8Z2yvGzBeHU6RKtlgChcnNgwhnXp7U7HZ/gxPuc0+hT9wGcs05wAA87DnUqzwPE3W2CAU09iF06Yba+sztmFXgUXL+c169Z5B6/ZWFhkQHSzT7aAavQ/AxNcVo6TMVp/TL5lGG3VZTzwmBXULz5frexc=;4Tjj2jG6EH2ME+c7Xb9Xuw=="
+secured: "Kx4/eSzIftOHkjFhREcSraBtd3HL7AoSaDkhTUk7dSh+2Zmk1ytrw1xz2Ez++4ymj/40IQPKUEja82efynKTR9wFYNV4iKi/qUyUgJPuFit9TAflia9SRdw/DmSQ16AKwwTnvJrSpZBjlC3sCASURmfIwiABunDTtQZ8FjXgN7ewqLS0uWn9Glk1E710N0rHD1BsGQW4HVjO3/+Lkk1xofJEhrFfBlF2PJRQT4q+Qb5K4VqGJ2/oEftVf14WEean/UHcWMhYi0gw2FAScrwDOx4q53zIa5mbNzJUTYC/0LGe1EenAfxZ4reUR2QejmV2;PJaiUlYXLdKEZJ/9VbB+HQ=="
 ---
 

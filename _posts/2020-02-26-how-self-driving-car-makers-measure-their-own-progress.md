@@ -205,6 +205,19 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/02/27/PDTN/18069bb0-50c8-42e1-97b8-fcf38622b7b1-tdndc5-6ykieuy6nf511miysikl_original.jpg?auto=webp&crop=1608,905,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+  - title: "Baidu tops California’s new self-driving report"
+    excerpt: "Details: Baidu reported driving 108,300 miles and six disengagements with four vehicles last year, making for the lowest disengagement rate of all the companies listed in the California’s annual self-driving record: 0.055 per 1,000 self-driven miles. Context: Apart from Baidu, four Chinese companies were among the top 10 on the report in ..."
+    publishedDateTime: 2020-02-28T10:56:00Z
+    webUrl: "https://technode.com/2020/02/28/baidu-tops-californias-new-self-driving-report/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 39
+    images:
+      - url: "https://cdn.technode.com/wp-content/uploads/2019/09/图片-1-2.png"
+        width: 865
+        height: 576
   - title: "Tables, footrests, smart speakers: Self-driving cars could become the living rooms of the future"
     excerpt: "With self-driving vehicles on the horizon, automakers are rethinking what the future of car interiors will look like. And because these completely autonomous cars, called Level 5 vehicles, will free drivers from focusing on the highway, companies are now ..."
     publishedDateTime: 2020-02-25T12:35:00Z

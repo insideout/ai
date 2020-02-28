@@ -8,8 +8,8 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/15424821"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15424821"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Benzinga.com
@@ -28,6 +28,15 @@ related:
     provider:
       name: openpr.com
       domain: openpr.com
+    quality: 17
+  - title: "Global Artificial Intelligence in Agriculture Market, 2020-2025"
+    excerpt: "Dublin, Feb. 28, 2020 (GLOBE NEWSWIRE) -- The \"Artificial Intelligence in Agriculture Market - Growth, Trends and Forecasts (2020 - 2025)\""
+    publishedDateTime: 2020-02-28T10:13:00Z
+    webUrl: "https://www.globenewswire.com/news-release/2020/02/28/1992500/0/en/Global-Artificial-Intelligence-in-Agriculture-Market-2020-2025.html"
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
     quality: 17
 
 secured: "LAFCl4kF2uhGYHXOSG7aL8tji624iEzupqtLk5e6+9a2kAKA/kF0e8fqc8gptRh6Qf7TUFJLvBRIeZQ6jOSfayCVD3wbmydyu5AWX2qDRx21MRlymOzvb2jv/HKESYjWlODcqP4kOOFO3Bb3uCyIzsYRwwB2cjkd18EgY2ApI2qpIbqTTxUDpNhXeNYa/BgzrBTPFeL6S7en3M2ajcOi3AMUpVucO/A+IL6IzSIvtkLo/13b0fb2TmUle0cfgWkYWI9zknl+ILtiQ/yPNitUnkRVuqK6So8oCMMaZfEvzd2O1j0gVv+eX7xclflBC0Tt;3BvvTjCZO6KCpL71YE8kxw=="

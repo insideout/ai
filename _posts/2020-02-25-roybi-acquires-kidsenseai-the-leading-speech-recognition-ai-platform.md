@@ -1,21 +1,27 @@
 ---
 category: news
 title: "ROYBI Acquires KidSense.AI, The Leading Speech Recognition AI Platform"
-excerpt: "ROYBI INC, the creator of the Roybi Robot —the world's first AI-powered smart toy that teaches languages and basic STEM skills—has acquired KidSense.AI, the revolutionary technology in children’s embedded automatic speech recognition (ASR) and Edge-AI. KidSense.AI, which initially debuted in 2018 at TechCrunch Disrupt, utilizes the ..."
-publishedDateTime: 2020-02-25T17:08:00Z
-webUrl: "https://www.oaoa.com/news/business/article_b81d0415-5476-5f83-94df-9c469bfea642.html"
+excerpt: "ROYBI INC, the creator of the Roybi Robot-the world's first AI-powered smart toy that teaches languages and basic STEM skills-has acquired KidSense.AI, the revolutionary technology in children's embedded automatic speech recognition (ASR) and Edge-AI."
+publishedDateTime: 2020-02-25T17:29:00Z
+webUrl: "https://www.tmcnet.com/usubmit/-roybi-acquires-kidsenseai-leading-speech-recognition-ai-platform-/2020/02/25/9103933.htm"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Odessa American
-  domain: oaoa.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
   - Natural Language Processing
+
+images:
+  - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
+    width: 252
+    height: 335
+    title: "ROYBI Acquires KidSense.AI, The Leading Speech Recognition AI Platform"
 
 related:
   - title: "Local AI firm builds speech recognition for Kinyarwanda"
@@ -58,6 +64,6 @@ related:
         width: 300
         height: 205
 
-secured: "RTbcX6iTy2uXXwQ7yzmpsiYtziYTqshGfMkgrh4bvGkh6dRUYgaHjc8/NYibxu6IPFwR8cQYqpHLSii32vIr3lmcROitI0+8B+TUeKZtMEDw7xGj540MZyl5wCO4uPcwSx6pUO2ci67ldxL0wUbMUIcq9IjaQSBJRMEPhyOM2LFkl0G1/STfLIIH8IoXTUIJX2OQP+cnIcKvxjsBtVLNc8MeLa8nYRO/GhD5RTE9Q3J1k/mPYFbNUPhJ7M1UMZKsyFFT2UPtSqwknZ3lWZO3vJFXs+iHowfW3cQdhkIcWa8pYQHz7jdUeHMrbNFWitt/;N1jPztVCkd9eiSj7S8L6zQ=="
+secured: "n7Ig/O/dB95f+5uf2/qJn2cQ75OUKyt8HMzFjbZtMN302wYeCeTXMv86GkkaA9+OjYgwA1NE0f5g+Sh1CeBPZb8gAIdvCdaz3vlzz4nwhf0Jdb5b6/o4QEVUS4li/sMdkwMIpknTTUg+vf7WdINtFO5b+5dmqN/33wG7xio/YrjGkMuPleAmadjT5pITrhVzRAwjoXp6U7S/+NjyvQ59vx9NDBZTJqP6+7cNhcuHnYrWppN/dZjR9SBhx5WtoxXCl397qwPAx4gKKSIIfLHaLOi+EIgY8sf52SsApqM8IJ6pohjKUANcka5g7sYTmj96;N542sFRRSPJOt+ewOZMFoA=="
 ---
 

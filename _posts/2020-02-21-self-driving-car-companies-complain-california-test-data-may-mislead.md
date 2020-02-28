@@ -8,7 +8,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN20F2F7"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN20F2F7"
 type: article
 quality: 89
-heat: 269
+heat: 279
 published: true
 
 provider:
@@ -198,6 +198,19 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/02/27/PDTN/18069bb0-50c8-42e1-97b8-fcf38622b7b1-tdndc5-6ykieuy6nf511miysikl_original.jpg?auto=webp&crop=1608,905,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+  - title: "Baidu tops California’s new self-driving report"
+    excerpt: "Details: Baidu reported driving 108,300 miles and six disengagements with four vehicles last year, making for the lowest disengagement rate of all the companies listed in the California’s annual self-driving record: 0.055 per 1,000 self-driven miles. Context: Apart from Baidu, four Chinese companies were among the top 10 on the report in ..."
+    publishedDateTime: 2020-02-28T10:56:00Z
+    webUrl: "https://technode.com/2020/02/28/baidu-tops-californias-new-self-driving-report/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 39
+    images:
+      - url: "https://cdn.technode.com/wp-content/uploads/2019/09/图片-1-2.png"
+        width: 865
+        height: 576
   - title: "How Self-Driving Car Makers Measure Their Own Progress"
     excerpt: "It’s report card season for self-driving cars. Wednesday, the California Department of Motor Vehicles released reports detailing how much the companies permitted to test autonomous vehicles in the state drove last year, and how often their human safety operators had to take control from the computer. The “disengagement reports” provide a ..."
     publishedDateTime: 2020-02-26T20:24:00Z

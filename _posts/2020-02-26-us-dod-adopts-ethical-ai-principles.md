@@ -88,7 +88,7 @@ related:
         width: 760
         height: 368
   - title: "Pope to endorse principles on AI ethics with Microsoft, IBM"
-    excerpt: "Kelly told Reuters in an interview. Vatican officials also had concerns about AI displacing jobs and met with IBM in the United States at a research center in September, he said. Pope Francis was ..."
+    excerpt: "The \"Rome Call for AI Ethics\" asserts that the technology should respect privacy, work reliably and without bias, consider \"the needs of all human beings\" and operate transparently - an area of ongoing research because AI systems' decisions are often inscrutable. The document reflects growing interest among companies and institutions to set ..."
     publishedDateTime: 2020-02-28T08:04:00Z
     webUrl: "https://wsau.com/news/articles/2020/feb/28/pope-to-endorse-principles-on-ai-ethics-with-microsoft-ibm/989350/?refer-section=technology"
     type: article

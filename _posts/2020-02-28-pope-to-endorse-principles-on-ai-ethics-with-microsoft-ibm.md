@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Pope to endorse principles on AI ethics with Microsoft, IBM"
-excerpt: "Kelly told Reuters in an interview. Vatican officials also had concerns about AI displacing jobs and met with IBM in the United States at a research center in September, he said. Pope Francis was ..."
+excerpt: "The \"Rome Call for AI Ethics\" asserts that the technology should respect privacy, work reliably and without bias, consider \"the needs of all human beings\" and operate transparently - an area of ongoing research because AI systems' decisions are often inscrutable. The document reflects growing interest among companies and institutions to set ..."
 publishedDateTime: 2020-02-28T08:04:00Z
 webUrl: "https://wsau.com/news/articles/2020/feb/28/pope-to-endorse-principles-on-ai-ethics-with-microsoft-ibm/989350/?refer-section=technology"
 type: article
@@ -103,6 +103,6 @@ related:
       domain: infosecurity-magazine.com
     quality: 34
 
-secured: "49Gdi8cwVywXUZbFwm3Bv28583bPyWjMRB1yDrJnmZhWjKp/nWQURgbMVQr0ohWNY2c9p3fY8xx4VhX7cS4N2I/khkYxEOmhxeS29+MMT61oi3Ot1+RumT30hMKDD6cgVe0px2V3sXmvfOHRWMsdaPkNvk5CWG8QltowldVKBJWpvAYmy62VGSNYcvYdktzZObSV9gNMqkR+ms3FHQqkbPF3RRQJ/8q0yMH9nYb0z0/g39f3/JOXrHrdUqEmdokYlOwo6IUWPxRKOi0RKcCyeN/A35NksaVvjIESRfuUdYWkreAJj6DA+OeiGLOhz7hH;z2hA8LBr8tkL8cpSwBp+UQ=="
+secured: "Jnrzlg9R3f54mlm0swNyRssiSq7kJSPva8U2v816PkrYELlN21hGrWya/JH6BJ/R4ll6olfASf9pmkOYcoo9owCayXECMA7l6XVjn284gUwOKQ1HHd4HSq/qdvv3wnYjmcVaoRWdWfc6VKMF5ayWV+D7EmWqB9CSJu5e8hLMyEHF4250a7f49Vowmc8MuTdh7Esk8U8Ejkrw2WLn6QuiHLyHjM3l6dEQmwt/qHiVm+sV/mq+uB+GeJTPOD4Bh58UWMNd8+I+zeZddWtzc6apnhnzU0qFjA3qDFohaFPBOQnhhPeIqxq33+Z6NxAT8MaG;/2LQH+hCV4a0ymteUr7E9Q=="
 ---
 

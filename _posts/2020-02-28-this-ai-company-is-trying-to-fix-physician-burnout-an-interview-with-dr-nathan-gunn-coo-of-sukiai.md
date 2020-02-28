@@ -28,6 +28,6 @@ images:
     height: 563
     title: "This AI Company Is Trying To Fix Physician Burnout - An Interview With Dr. Nathan Gunn, COO Of Suki.ai"
 
-secured: "/gbEhkyGK/XZ2+8xMF7DLMLShzNbwcYarp7rBeTo97db7Wao0Gju9Sy2Quptz2n8pGHUSeSByMuOy8twHF7HCtMROoIzzkqLJH5/hAGo12Hvoksm18qIiBDAhCQPp128bpUhknwWIBp2U0SjwtLM6OBOe4GR/WdTe/3RC/QheVYb5htv5hC4sLrJrEu5EUFdIyPhw5t0XDJIBCSm4aapUU9kImxpNOmmCoFw5vp+vgmnMAYNmZ8kIs74ccAFnaALKn9Cdjia13sdwo3uSnacCaDW9ZOTPY0+7cZvPcpeYnRmnBlhITfJQwVNEJgCk1iO;0zw1ijVt47mNF+dep3OJfg=="
+secured: "XWiYpgb/5tZDllx2ligtYcW5RGXlVA0gvAQxju86VsK1wGnt4kX4tMsEAMGJd9izYWE0c9MFdOIHMrVcxfgmilt12EIDXxFbhU9gFQQy5wcQdzDnR827F8dQkVslKs1WL9c5jDAJxVp2alXkqj72I07NtMfr6fzY5PzoSEbakjKK0ob2+mAjEfRviIG50d2qR2DbgE0WAPtbtC36s3KIRTdkqyDxSALkEDhW9Mz5yLxQT0hHMDEs9/k57XOEs+5Pn+ySWlRxAVI1VCTSHNYWwmXKwzs2j8F4BdBNM8KPLGeG48gWztdVqJy2zyubsVGOcs/6qU5h33af00tinu/8U+JQq3+xkqWoaw1a1eQUw+AnU5vU+TMQqZfJR22/J8xSt97PyenVZfagP93ubp3+UrhRY2AZTlRbCmbD37TYgvTcdxx9nl5NIoalH9Bpu8AyBrKeijfqQraFsC4GFAMK4CiT17qCTtTPF4UpOmm5XK0=;SHU/1NVBryKEDKLD74wX1g=="
 ---
 

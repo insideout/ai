@@ -281,6 +281,21 @@ related:
       - url: "https://diginomica.com/sites/default/files/images/2020-02/6DF1B4AD-D5A4-4EE5-AA27-C5C738AE65F3.jpeg"
         width: 640
         height: 493
+  - title: "Met Police make first arrest using facial recognition technology"
+    excerpt: "A woman in London who allegedly assaulted an emergency services worker has become the first person in the UK to be arrested using facial recognition technology. She was arrested by Westminster Police in the capital yesterday after she failed to attend ..."
+    publishedDateTime: 2020-02-28T10:18:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-8055001/Met-Police-make-arrest-using-facial-recognition-technology.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-8055001/amp/Met-Police-make-arrest-using-facial-recognition-technology.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-8055001/amp/Met-Police-make-arrest-using-facial-recognition-technology.html"
+    type: article
+    provider:
+      name: Mail Online
+      domain: dailymail.co.uk
+    quality: 59
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2020/02/28/10/25307418-0-image-a-15_1582885060937.jpg"
+        width: 636
+        height: 382
   - title: "Facial recognition software used by Waterloo Regional Police Service in past"
     excerpt: "The Waterloo Regional Police Service says it used facial recognition technology 'on a very limited basis' in 2019, but Chief Bryan Larkin says it won't be used going forward until more is known about how it works and there's a policy in place for its use."
     publishedDateTime: 2020-02-20T12:30:00Z

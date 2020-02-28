@@ -33,7 +33,20 @@ related:
       - url: "https://mondrian.mashable.com/2016%252F10%252F14%252Fb6%252FAP_16287736330662.d3659.jpg%252F1200x630.jpg?signature=NIqfeD79B--WSLa-nz-r7U5cHZ0="
         width: 1200
         height: 630
+  - title: "A Mind-Controlled Robotic Hand With A Sense Of Touch"
+    excerpt: "Researchers Monitor Sørensen's Prosthetic LifeHand 2/Patrizia Tocci He could even adjust his grip as needed, all from his robotic sense of touch. \"What we did was to provide this tactile ..."
+    publishedDateTime: 2020-02-05T00:00:00Z
+    webUrl: "https://www.popsci.com/article/science/mind-controlled-robotic-hand-sense-touch?loc=recent&lnk=2&con=a-mindcontrolled-robotic-hand-with-a-sense-of-touch"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 39
+    images:
+      - url: "https://www.popsci.com/resizer/fpU9tcI__P5BYCC0_WtmmQNOfOQ=/1200x628/smart/arc-anglerfish-arc2-prod-bonnier.s3.amazonaws.com/public/NSO6ZVCP43CLCPK3A4UYAJGYFA.jpg"
+        width: 1200
+        height: 628
 
-secured: "Y/NO4lbqiw+BnEuxy27TOyHDGBZMnk1jDZEf3QhOClSA6XLi13kqGIP4qJSmB+R+YsfnlP6OPoTibfXyTaJi1AqYzXzr4we7Kv+Q8URoCoQYYqnxUYc5pXb6tYAESGk7Se1mMhYdHRvuqGyjoVjM9agzDLSOOZIQYIBNpNqO2jIpyILKfEQhEfVmAGaoDxMC4i2cFalupds867akDvBkE4dgtbvycFrmeuSfpkLk1N3sNW2BUrqKCnUT5Pkm5B2jPtSkaX4SGxLobG8Fx7CsFBzEg3zAhq2o41kSbwnVgGGxnvWEm5P9KT2qobZJ5wCb;uizoK1c3kOkd1EOMnM8ejQ=="
+secured: "14QbNccgau5kxaE+ipvuLv9yjeWslPd6ZceDb7UdwBIcNJBnHoVJPur7ZLUuYIR9W4LEBycIl++sXr62A1E8yzXmSQRlKKfAduLImRCODwuhMTKPIj5aBSJlZxswtbtMjlc3nq/O7o0fK/i1rnMZ0TfZnQBWPDIG2vFU03UMxjAtdSK6r88kd5iidi2FtCQ75he5I9OyrASxRsnJsR5/uECBVsu6qMYbVIgSzMuB0uON30aulblW6Z9NTngk8iCdO8iT3BqbK8dPMbGv2XnbNtgE+s3Q0nFgzCaifUyXTGeGdPw6kN+qSLvd1ehCEM43;jliZOrTw/YYxso10XbFsIA=="
 ---
 

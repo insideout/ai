@@ -28,6 +28,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 54
+  - title: "Global Artificial Intelligence in Agriculture Market, 2020-2025"
+    excerpt: "Dublin, Feb. 28, 2020 (GLOBE NEWSWIRE) -- The \"Artificial Intelligence in Agriculture Market - Growth, Trends and Forecasts (2020 - 2025)\""
+    publishedDateTime: 2020-02-28T10:13:00Z
+    webUrl: "https://www.globenewswire.com/news-release/2020/02/28/1992500/0/en/Global-Artificial-Intelligence-in-Agriculture-Market-2020-2025.html"
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 17
 
 secured: "DGB67wZs/scFrfRiKZdjgXDaxFsrm8I0/J5uDEhKLfNLdF5Aw26JBddug8pg0na3zPONZbyJQVs8VP1Ivoj1QgjVZoWAWIs1b5LDpF23FKCF298xVl7HC5dbOph7Evnc9+G0rMtru78oJIILiAUxwCVB8BA3d+4DemhbDGZ81bkJTXXLczxiNJ2rMT0pe8Oy9BAnoUE8b8dicMRrXN6TB8uR7l4VsaNKePxiIa3kBFxIsCu003tTFQDe6vsiddOT7QBfb8AQWEfvcpEDrscsUufsyp+bvmRMkBS+CGNLzsqbyVBqrLdCApYB8otOrzan;v2s7jrWzXEGNxQ1wwMNLFA=="
 ---

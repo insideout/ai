@@ -169,19 +169,19 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 5
-  - title: "Global Healthcare Chatbots Market Projected to Grow in Value from $116.9 Million in 2018 to $345.3 Million by 2026 - ResearchAndMarkets.com"
+  - title: "Global Healthcare Chatbots Market Projected to Grow in Value from $116.9 Million in 2018 to $345.3 Million by 2026 – ResearchAndMarkets.com"
     excerpt: "The global healthcare chatbots market accounted for $116.9 million in 2018 and is expected to reach $345.3 million by 2026, registering a CAGR of 14.5% from 2019 to 2026. A chatbot is a program that works on artificial intelligence for stimulation of interactive human conversation. These programs run by using key pre-calculated user phrases and ..."
-    publishedDateTime: 2020-02-27T17:49:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200227005823/en/Global-Healthcare-Chatbots-Market-Projected-Grow-116.9"
+    publishedDateTime: 2020-02-27T18:31:00Z
+    webUrl: "https://virtual-strategy.com/2020/02/27/global-healthcare-chatbots-market-projected-to-grow-in-value-from-116-9-million-in-2018-to-345-3-million-by-2026-researchandmarkets-com/"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
+      name: Virtual-Strategy
+      domain: virtual-strategy.com
     quality: 5
     images:
-      - url: "https://mms.businesswire.com/media/20200227005823/en/371054/23/ResearchAndMarkets_800px.jpg"
-        width: 1200
-        height: 627
+      - url: "https://virtual-strategy.com/wp-content/plugins/all-in-one-seo-pack/images/default-user-image.png"
+        width: 512
+        height: 512
 
 secured: "iAqI6VVAHUeKOaq1SuXCCt2qP+iMcXeWK1i9+3Tg5iu5CPDovko9TmeWI9vqWmqt4WLzx0chRQbXflhE0gv+SPryRuDCMfmyeDQgWixO02gIkWzyT2SCT4aBjQDSYe52Z3he7QH6265Q+LJsim80pzOZReQNRo2h4DtxjHAzhIm/D8LKMJ43LTnluTqSYQMfwUaYJme7w8jrIxtklNDweNvnZm0zxMwDogPWKff59bVX/oXHGSYQYPG2/tbeVdzS9xCu2wkkzl7JAs/OGphqmBwltK4fahgttO+/xHQIT1wOtnAhpBHv8jEe6wlUYsTQhYKJUJDwIXoPouivEcEN79anLC8UY4vdxyKWl+HyH4Y8YCK2KhV4a2peHDZ06uxODTL7hRVKbhhILLTCsqIJr3Gip5+7ED/cJReAgN6Aw6Ve5ZLTnGLBDpM02TxgGMnWBxUWknHBE127B6YuO5t08E382pHdQjbX6BCngx64a5U=;WNiAHDUuosIqTIoC9HaRtA=="
 ---
