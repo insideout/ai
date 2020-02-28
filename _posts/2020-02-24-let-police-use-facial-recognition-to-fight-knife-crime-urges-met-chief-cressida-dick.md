@@ -466,6 +466,19 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/poststar.com/content/tncms/custom/image/e0e08718-ed3d-11e5-b87e-839addbbcbaa.jpg?resize=600%2C315"
         width: 600
         height: 315
+  - title: "More admission of police use of controversial facial recognition technology"
+    excerpt: "With several cases already revealed of Canadian police admission of using the high tech facial recognition comes another, this time by the federal Royal Canadian Mounted Police. The technology has raised concerns over privacy issues with hints of the incursion of an Orwellian-like future. The highly controversial technology developed by the U.S ..."
+    publishedDateTime: 2020-02-28T14:16:00Z
+    webUrl: "https://www.rcinet.ca/en/2020/02/28/more-admission-of-police-use-of-controversial-facial-recognition-technology/"
+    type: article
+    provider:
+      name: rcinet.ca
+      domain: rcinet.ca
+    quality: 37
+    images:
+      - url: "https://www.rcinet.ca/en/wp-content/uploads/sites/3/2020/02/face-recog-digital-map-of-face-thomas-peter-reuters.jpg"
+        width: 780
+        height: 439
   - title: "Edmonton police unveil details on use of facial recognition technology"
     excerpt: "City police revealed details on Wednesday for plans to implement facial recognition technology to match suspects from crime scenes with known offenders. Internal discussions began a couple of years ago to use the technology and have ramped up in the last couple of months, said Warren Driechel, superintendent of the Edmonton police informatics ..."
     publishedDateTime: 2020-02-20T01:16:00Z

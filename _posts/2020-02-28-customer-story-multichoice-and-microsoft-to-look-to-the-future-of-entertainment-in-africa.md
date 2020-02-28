@@ -21,21 +21,6 @@ topics:
   - AI
   - Microsoft AI
 
-related:
-  - title: "How This Startup Is Implementing NLP Technologies To Better Understand Customer Voice"
-    excerpt: "With the advancements in natural language processing, speech recognition, and deep learning, at the present era, support teams have started using Voice AI more efficiently and intuitively than ever by putting the data to practical use. With more voice data, support teams will better understand performance trends and make predictions."
-    publishedDateTime: 2020-02-27T12:32:00Z
-    webUrl: "https://analyticsindiamag.com/how-this-startup-is-implementing-nlp-technologies-to-better-understand-customer-voice/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 17
-    images:
-      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/02/L-R-Swapnil-Jain-Akash-Singh-Sharath-Keshava-1024x683.jpg"
-        width: 1024
-        height: 683
-
 secured: "hATpLqikKIAxFizUHkVFRNn9NjEd4dgr+9u5Y/LPjsB51vatR4a6mspr41l3NY92+u3apiwmlNKA9MX9JSh7Ms2sFns2SDIKNk6bfuPveCdpJdQJsIytTYxvSq1vRB52BP/KiOyXWIc+bFde2eRfFgTfGWpCKY4NaYWcM6OdLM2EIqwLD7Js41393frsIRCnC9IqLmJL74WjaJFvtzQA9X+tYoAi3emqsanUwFtiLuEcDHoSSQy7sS+EqJiTJAWuet86/MOy935luY6V4mVPd1OVW+dfRUD617Zz28Xtzw+ompEAc6089iPixA9SUYLM;8pnVPpcZ5ewOzseydqOxZQ=="
 ---
 

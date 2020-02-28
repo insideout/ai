@@ -41,19 +41,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Artificial Intelligence (AI) Chipset Market Size, Share, Key Players, Growth Drivers, Business Opportunities, and industry Forecast"
-    excerpt: "Market Highlights Artificial intelligence (AI) chipset are silicon-based chips that are integrated with devices"
-    publishedDateTime: 2020-02-28T09:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipset-market-size-share-key-players-growth-drivers-business-opportunities-and-industry-forecast-2020-02-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "Data Science and Machine Learning Service Market: Global Industry Analysis and Opportunity Assessment 2020 - 2026"
     excerpt: "COMTEX_362633546/2582/2020-02-28T03:10:37 Here are 5 reasons the stock market is having its worst decline since 2008, and only one of them is the coronavirus"
     publishedDateTime: 2020-02-28T08:10:00Z
@@ -67,6 +54,21 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Artificial Intelligence (AI) Chipset Market Size, Share, Key Players, Growth Drivers, Business Opportunities, and industry Forecast"
+    excerpt: "Chipset Market” Artificial Intelligence (AI) Chipset Market Research Report: By Component (Hardware {Processors [CPU, GPU, ASIC,"
+    publishedDateTime: 2020-02-28T09:50:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/02/ab15438437/artificial-intelligence-ai-chipset-market-size-share-key-players-growth-drivers-business-opportun"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/15438437"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15438437"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 44
+    images:
+      - url: "https://www.abnewswire.com/uploads/1582882997.jpeg"
+        width: 417
+        height: 455
   - title: "Artificial Intelligence (AI) in Agriculture Market: Global Key Players, Trends, Share, Industry Size, Growth, Opportunities, Forecast To 2025"
     excerpt: "in Agriculture Market” Artificial Intelligence (AI) in Agriculture Market: Global Key Players, Trends, Share, Industry Size,"
     publishedDateTime: 2020-02-21T07:55:00Z

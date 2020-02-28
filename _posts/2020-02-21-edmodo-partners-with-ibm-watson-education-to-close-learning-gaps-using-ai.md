@@ -35,19 +35,6 @@ related:
       - url: "https://miro.medium.com/max/522/1*P4AQM-CyIb_uhNzvRAVMrw.jpeg"
         width: 522
         height: 218
-  - title: "Architectural Analysis IDs 78 Specific Risks in Machine-Learning Systems"
-    excerpt: "The new threat model hones in on ML security at the design state. Researchers at the Berryville Institute of Machine Learning (BIML) have developed a formal risk framework to guide development of secure machine-language (ML) systems. BIML's architectural risk analysis of ML systems is different from previous work in this area in that it focuses ..."
-    publishedDateTime: 2020-02-13T21:41:00Z
-    webUrl: "https://www.darkreading.com/vulnerabilities---threats/architectural-analysis-ids-78-specific-risks-in-machine-learning-systems/d/d-id/1337051"
-    type: article
-    provider:
-      name: Dark Reading
-      domain: darkreading.com
-    quality: 23
-    images:
-      - url: "https://twimgs.com/nojitter/darkreading/dr-logo.jpg"
-        width: 600
-        height: 600
   - title: "Development of an early-warning system for high-risk patients for suicide attempt using deep learning and electronic health records"
     excerpt: "Advanced machine-learning algorithms and deep neural networks were utilized to build models with the data from electronic health records (EHRs). A final risk score was calculated for each individual and calibrated to indicate the probability of a suicide ..."
     publishedDateTime: 2020-02-20T11:57:00Z

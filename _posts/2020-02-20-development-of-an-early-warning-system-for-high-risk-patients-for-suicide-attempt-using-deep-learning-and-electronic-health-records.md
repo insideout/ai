@@ -46,19 +46,6 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 63
-  - title: "Architectural Analysis IDs 78 Specific Risks in Machine-Learning Systems"
-    excerpt: "The new threat model hones in on ML security at the design state. Researchers at the Berryville Institute of Machine Learning (BIML) have developed a formal risk framework to guide development of secure machine-language (ML) systems. BIML's architectural risk analysis of ML systems is different from previous work in this area in that it focuses ..."
-    publishedDateTime: 2020-02-13T21:41:00Z
-    webUrl: "https://www.darkreading.com/vulnerabilities---threats/architectural-analysis-ids-78-specific-risks-in-machine-learning-systems/d/d-id/1337051"
-    type: article
-    provider:
-      name: Dark Reading
-      domain: darkreading.com
-    quality: 23
-    images:
-      - url: "https://twimgs.com/nojitter/darkreading/dr-logo.jpg"
-        width: 600
-        height: 600
 
 secured: "3i2DwueIIl0MDZsZKV1JLscUghO+YNSm3zvu518FcMrLzM/ennXdFIRIp8fF4T+ztqRm1taQEocxES0xgs5GXPaUgTNNc5PukreNeOwe5nu52Jl6YSjwv+Ikn+WyaMuoz3GNN4CEoefdPW9832mpDDsibcMJb2SvVFmQoNv1fuQnMkqL2MGz4FqY7aPAepLNg0+2Oj7T//X9BkYterYNF02UP+70oXJ3/8lkNtxW6ioa9xJIAg9w0G5aWSVo7+Z9FnRBfqRRRCJWBBOxd1sHJKFKgN3rU6almd4cgJkxddo7e2rVhD12V4HqqmJKrD6N;NgLrwkMYwC4r4k891Mnwrw=="
 ---

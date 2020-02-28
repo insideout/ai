@@ -453,6 +453,19 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/poststar.com/content/tncms/custom/image/e0e08718-ed3d-11e5-b87e-839addbbcbaa.jpg?resize=600%2C315"
         width: 600
         height: 315
+  - title: "More admission of police use of controversial facial recognition technology"
+    excerpt: "With several cases already revealed of Canadian police admission of using the high tech facial recognition comes another, this time by the federal Royal Canadian Mounted Police. The technology has raised concerns over privacy issues with hints of the incursion of an Orwellian-like future. The highly controversial technology developed by the U.S ..."
+    publishedDateTime: 2020-02-28T14:16:00Z
+    webUrl: "https://www.rcinet.ca/en/2020/02/28/more-admission-of-police-use-of-controversial-facial-recognition-technology/"
+    type: article
+    provider:
+      name: rcinet.ca
+      domain: rcinet.ca
+    quality: 37
+    images:
+      - url: "https://www.rcinet.ca/en/wp-content/uploads/sites/3/2020/02/face-recog-digital-map-of-face-thomas-peter-reuters.jpg"
+        width: 780
+        height: 439
   - title: "Edmonton police unveil details on use of facial recognition technology"
     excerpt: "City police revealed details on Wednesday for plans to implement facial recognition technology to match suspects from crime scenes with known offenders. Internal discussions began a couple of years ago to use the technology and have ramped up in the last couple of months, said Warren Driechel, superintendent of the Edmonton police informatics ..."
     publishedDateTime: 2020-02-20T01:16:00Z
@@ -682,6 +695,6 @@ related:
       domain: seattletimes.com
     quality: 0
 
-secured: "+7z/JbwQOO6P6p02tvu0hxBHHVT3g57bZ7dnxC8O0CKW7q1LUrtJzbrv7y15pvT6OX8TNI6H8gPzU3uYhcLR+2wLKPoU47Ch5Jyo7NMeEbVKMi0+fLXQrJun0Ml3jjVB20Cdn8XEWSgH00ew3Tey8i/3J6JIqcM6Ef1mypC6+MQttfD+C8X1FZ1gUdRjhXCVrE1Ha4eduG6Gw4as5z4+PTamylmPwLQX9jENL1n2PJIYpZPqUnmOsNwAot6/RBOnH0E9T3rWRWhTxc+TRl7MG84towEihnY9M96O9NpsR5dcdEOlxGfN2CqmuUVTLqez;aouh0bcb0Uo13ztx5ndRiw=="
+secured: "dErmSl07nX4y56llgEIEsNtnXANRYUrRz2hLrt15wzQ8EvdW9LjfacyxipgR3BjUb27Bzt+uVE2f8Mx2bPsNyetkVSNZAjL0r3LSXUcUTSfQmW3XkerIm/dnf5R/Mk9a2baEowbPUQ0a0C/OKG004V/1jzsn7D2k3VV22TyCYC7IZNTy62x9H5ToDFLTd/SuPKqbEZxNkYtd67hNUrxCWrm0uMFsc4SaJJpaF8ERe+NW7Lmw3M5NUCI1uP7iJ9cMyAAE8l4vc9hRq+9lLZQwETU0N77i/FRjVKK+64cKyuMwS9wiYdPAXcKz4oeUn7LxFho76uEZ2MEafrpcf+Z1vYFNbkd4KZlKDdurtZt2Y6S72m/P0Epg2wfKuVXmMKfnRiIlt4gk7LRp5F++4kor6ej3Cg7H4mtjPwxr9Vek2xaSVbFbzVR6DoqnQDrQAI1VLiFS5e9XePabMDo+/+r9JCFkBPs0wumIzyS6KZSHXG0=;gFFS+h5G/WAa7Iv30b55Nw=="
 ---
 

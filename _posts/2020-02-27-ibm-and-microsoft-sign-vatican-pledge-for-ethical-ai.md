@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.ft.com/content/5dc6edcc-5981-11ea-a528-dd0f971febbc"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/5dc6edcc-5981-11ea-a528-dd0f971febbc"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -26,6 +26,21 @@ images:
     title: "IBM and Microsoft sign Vatican pledge for ethical AI"
 
 related:
+  - title: "Catholic leaders call for ethical guidelines around AI"
+    excerpt: "Catholic leaders presented Pope Francis with a broad proposal for AI ethics, education and rights on Friday as part of an AI conference at the Vatican in Rome. Why it matters: Algorithms are already starting to replace human decision-making, but ethicists and activists say now is the time to speak up on the values those algorithms should embody."
+    publishedDateTime: 2020-02-28T14:41:00Z
+    webUrl: "https://www.axios.com/catholic-church-ai-ethics-cd92ca7a-b212-4bd4-a3b8-1e52d0f5ed21.html"
+    ampWebUrl: "https://www.axios.com/catholic-church-ai-ethics-cd92ca7a-b212-4bd4-a3b8-1e52d0f5ed21.html"
+    cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/catholic-church-ai-ethics-cd92ca7a-b212-4bd4-a3b8-1e52d0f5ed21.html"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 74
+    images:
+      - url: "https://images.axios.com/TxOQa3HD71Php1JPyaXZcBGGmzA=/2020/02/27/1582846151188.jpg"
+        width: 1920
+        height: 1080
   - title: "Papal academy invites tech giants to support ethical guidelines for AI"
     excerpt: "were invited to attend a Vatican-sponsored event Feb. 28 dedicated to \"human-centric artificial intelligence\" and to sign a joint \"Call for AI Ethics.\" The appeal will ask that particular \"ethical principles be present in AI products that they develop, sell and use,\" Father Paolo Benanti, a papal academy member and Third Order Regular of St ..."
     publishedDateTime: 2020-02-25T21:41:00Z

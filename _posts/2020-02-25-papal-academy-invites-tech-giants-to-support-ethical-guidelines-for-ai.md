@@ -39,6 +39,21 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F41f09a98-5964-11ea-a528-dd0f971febbc?source=google-amp&fit=scale-down&width=500"
         width: 500
         height: 281
+  - title: "Catholic leaders call for ethical guidelines around AI"
+    excerpt: "Catholic leaders presented Pope Francis with a broad proposal for AI ethics, education and rights on Friday as part of an AI conference at the Vatican in Rome. Why it matters: Algorithms are already starting to replace human decision-making, but ethicists and activists say now is the time to speak up on the values those algorithms should embody."
+    publishedDateTime: 2020-02-28T14:41:00Z
+    webUrl: "https://www.axios.com/catholic-church-ai-ethics-cd92ca7a-b212-4bd4-a3b8-1e52d0f5ed21.html"
+    ampWebUrl: "https://www.axios.com/catholic-church-ai-ethics-cd92ca7a-b212-4bd4-a3b8-1e52d0f5ed21.html"
+    cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/catholic-church-ai-ethics-cd92ca7a-b212-4bd4-a3b8-1e52d0f5ed21.html"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 74
+    images:
+      - url: "https://images.axios.com/TxOQa3HD71Php1JPyaXZcBGGmzA=/2020/02/27/1582846151188.jpg"
+        width: 1920
+        height: 1080
 
 secured: "3YG4J1HQxpshWGEgRdwDAwPXiKXWFO3RsCtgpvvxcW6gomZuBur4DoJ3wK/CYoHeWlGIfAv09k8pQ3jcMLgfrwH0tE92bK3qjgkdWnPllRR/0UYi+jDe80JPf9YZvvzg+Tt1WulwpsmWSbQk2iMDVbo/AOoIIWphzTkGhN4FiB0SOxKC6V3zVaJwhK7BVBz4rFiSeepoV7GU7rhwcdTI1unIAgDa03yyWz6LZ5UFRDxbYeNVvzq19AfJPcOo0QRdMRTe2O7DRfl4JZIW++fg0OndBbiyXOefonjihldKYDMpWMg5rYnLXfgNsQVeb5FUAlIGXbG8284EwD4SCmsiLyM73OAj9zWn0umhZKUnHMyn1Kc50swD2oKUo2nx/gHuUq6P53AFVTAss4N3CR6YCVthHrGQPqo+n0zZFXZZZUZYmNgyX7a+QKaBAm1vAT8FAReIoBXoW3WxfaVF0hnEe3iufdq2RPm6cRhyGvbxUc8=;KbEQHIzCcUk9+WAu3b+T+Q=="
 ---

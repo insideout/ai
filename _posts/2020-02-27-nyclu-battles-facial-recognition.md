@@ -453,6 +453,19 @@ related:
       - url: "https://images.khaleejtimes.com/storyimage/KT/20200221/ARTICLE/200229877/AR/0/Facebook,-voice-recognition,-social-media.jpg&NCS_modified=20200221110340&exif=.jpg"
         width: 1200
         height: 800
+  - title: "More admission of police use of controversial facial recognition technology"
+    excerpt: "With several cases already revealed of Canadian police admission of using the high tech facial recognition comes another, this time by the federal Royal Canadian Mounted Police. The technology has raised concerns over privacy issues with hints of the incursion of an Orwellian-like future. The highly controversial technology developed by the U.S ..."
+    publishedDateTime: 2020-02-28T14:16:00Z
+    webUrl: "https://www.rcinet.ca/en/2020/02/28/more-admission-of-police-use-of-controversial-facial-recognition-technology/"
+    type: article
+    provider:
+      name: rcinet.ca
+      domain: rcinet.ca
+    quality: 37
+    images:
+      - url: "https://www.rcinet.ca/en/wp-content/uploads/sites/3/2020/02/face-recog-digital-map-of-face-thomas-peter-reuters.jpg"
+        width: 780
+        height: 439
   - title: "Edmonton police unveil details on use of facial recognition technology"
     excerpt: "City police revealed details on Wednesday for plans to implement facial recognition technology to match suspects from crime scenes with known offenders. Internal discussions began a couple of years ago to use the technology and have ramped up in the last couple of months, said Warren Driechel, superintendent of the Edmonton police informatics ..."
     publishedDateTime: 2020-02-20T01:16:00Z

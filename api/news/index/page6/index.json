@@ -2,51 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_posts/2020-02-24-over-view-of-machine-learning-and-its-applications.md",
-      "title": "Over View of Machine Learning and its Applications",
-      "excerpt": "The Machine learning is a field of computer science evolved after studying the patterns and statistics of accumulative data, the data engineers / developers with help of specific algorithms for different data pattern sort out the features differences while as we already know before machine learning financial experts use statistical approaches ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/@sajjadhussain_11869/over-view-of-machine-learning-and-its-applications-bca25464669e",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-24T15:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/1*hVCDF0_dOqDcwpXLGduZGg.jpeg",
-          "width": 1200,
-          "height": 899,
-          "title": "Over View of Machine Learning and its Applications",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_posts/2020-02-24-robot-suitcase-uses-ai-to-help-visually-impaired-travelers.md",
       "title": "Robot suitcase uses AI to help visually impaired travelers",
       "excerpt": "IBM Japan and partners are developing a new suitcase-shaped robot that could help the visually impaired while they travel. The navigation robot will use artificial intelligence to help people travel more independently, whether that's around town or around the world. A consortium of five companies -- including IBM Japan, Shimizu and Mitsubishi ...",
@@ -1436,7 +1391,7 @@
       "path": "_posts/2020-02-25-local-ai-firm-builds-speech-recognition-for-kinyarwanda.md",
       "title": "Local AI firm builds speech recognition for Kinyarwanda",
       "excerpt": "Digital Umuganda, a fully Rwandan artificial intelligence (AI) firm, is building an automatic speech and voice recognition infrastructure for Kinyarwanda in partnership with Rwanda Utility and Regulatory Authority (RURA). The technology is part of RURA’s joint initiative dubbed KinyaTech with a non-profit behind Firefox web-browser ...",
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.newtimes.co.rw/daily/technology/local-ai-firm-builds-speech-recognition-for-kinyarwanda",
@@ -1519,7 +1474,7 @@
       "path": "_posts/2020-02-25-microsoft-to-open-azure-regions-in-spain-expands-telefonica-relationship.md",
       "title": "Microsoft to open Azure regions in Spain, expands Telefonica relationship",
       "excerpt": "In February 2019, Telefonica and Microsoft announced a partnership via which Telefonica would use Azure and Microsoft AI services as a base for its own AI-powered networking technology. The pair said they would be working together to identify AI, blockchain, 5G and edge computing opportunities. Today, the pair said they'd be working together on ...",
-      "heat": 98,
+      "heat": 108,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.zdnet.com/article/microsoft-to-open-azure-regions-in-spain-expands-telefonica-relationship/",
@@ -2154,6 +2109,50 @@
       "topics": [
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-25-why-the-future-of-marketing-relies-on-ai-and-data-storytellers.md",
+      "title": "Why The Future Of Marketing Relies On AI and Data Storytellers",
+      "excerpt": "Marketing team cultures that are open-minded toward change and invest in both people and technology will be able to future-proof their teams and propel their businesses towards successful transformation.",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/25/why-the-future-of-marketing-relies-on-ai-and-data-storytellers/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/25/why-the-future-of-marketing-relies-on-ai-and-data-storytellers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/25/why-the-future-of-marketing-relies-on-ai-and-data-storytellers/amp/",
+      "publishedDateTime": "2020-02-25T08:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1130352086/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 474,
+          "title": "Why The Future Of Marketing Relies On AI and Data Storytellers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

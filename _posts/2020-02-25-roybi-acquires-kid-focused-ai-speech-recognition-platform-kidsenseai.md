@@ -37,19 +37,6 @@ related:
       - url: "https://www.newtimes.co.rw/sites/default/files/main/articles/2020/02/20/voice-recog-devices-feature_1200x675_hero_011419_0.jpg"
         width: 1200
         height: 675
-  - title: "ROYBI Acquires KidSense.AI, The Leading Speech Recognition AI Platform"
-    excerpt: "ROYBI INC, the creator of the Roybi Robot-the world's first AI-powered smart toy that teaches languages and basic STEM skills-has acquired KidSense.AI, the revolutionary technology in children's embedded automatic speech recognition (ASR) and Edge-AI."
-    publishedDateTime: 2020-02-25T17:29:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-roybi-acquires-kidsenseai-leading-speech-recognition-ai-platform-/2020/02/25/9103933.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 54
-    images:
-      - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
-        width: 252
-        height: 335
   - title: "Speech recognition AI platform acquired"
     excerpt: "Roybi Inc, the creator of the Roybi Robot—the world’s first AI-powered smart toy that teaches languages and basic STEM skills—has acquired KidSense.AI, the revolutionary technology in children’s embedded automatic speech recognition (ASR) and Edge-AI. KidSense.AI, which initially debuted in 2018 at TechCrunch Disrupt, utilizes the ..."
     publishedDateTime: 2020-02-27T05:38:00Z

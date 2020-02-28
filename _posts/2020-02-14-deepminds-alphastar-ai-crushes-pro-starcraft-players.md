@@ -36,7 +36,11 @@ related:
     provider:
       name: Gamasutra
       domain: gamasutra.com
-    quality: 4
+    quality: 24
+    images:
+      - url: "https://aiandgames.com/wp-content/uploads/2020/02/VsMana.gif"
+        width: 800
+        height: 450
 
 secured: "sQiQBp1rQRW5iMQLzle/sg7zH9ODtv5lxbi7nqFo01tLhm7SP8DYBHE7GCsr8SVO1dzzXhZfpZvu82YhRzS1iEvBF0rxccNOWW1LtytWrEdY1D5/86VXn0PofP7QefjtsywME3sEWB6YnuA8UHasMzyVo78nzz5tP2nQMhbkQBRQn5ePdORmWQOP2HggHoTO3ZBU5fcC+drc5n3sU4M9D27iK0SyGcHQYERzVwbiA7QH+bFzly0CcdOdv9W4IENhojE95kBbXbioc+MaWpqqJ+kIqXv5dzwLSuLnC19/zx+vgW/oy3M09FtIAx4UaOFr;/luKEoms+xaW7vdRLPa38w=="
 ---

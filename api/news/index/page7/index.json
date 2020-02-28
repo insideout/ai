@@ -2,50 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_posts/2020-02-25-why-the-future-of-marketing-relies-on-ai-and-data-storytellers.md",
-      "title": "Why The Future Of Marketing Relies On AI and Data Storytellers",
-      "excerpt": "Marketing team cultures that are open-minded toward change and invest in both people and technology will be able to future-proof their teams and propel their businesses towards successful transformation.",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/25/why-the-future-of-marketing-relies-on-ai-and-data-storytellers/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/25/why-the-future-of-marketing-relies-on-ai-and-data-storytellers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/25/why-the-future-of-marketing-relies-on-ai-and-data-storytellers/amp/",
-      "publishedDateTime": "2020-02-25T08:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1130352086/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 474,
-          "title": "Why The Future Of Marketing Relies On AI and Data Storytellers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-25-zoho-full-stack-operating-system-and-data-protector.md",
       "title": "Zoho: Full stack, operating system, and data protector",
       "excerpt": "Following the ongoing cloud (r)evolution, AI, voice, UX/UI and macro trends such as digital transformation and the rise of the cognitive enterprise are ... Zoho's app services, data centers and proprietary layers of its full stack position the company against the likes of Microsoft, Google, IBM and Oracle. And, since Zoho's full stack includes ...",
@@ -1792,7 +1748,7 @@
       "path": "_posts/2020-02-26-toyota-steers-400-million-to-self-driving-startup-ponyai.md",
       "title": "Toyota steers $400 million to self-driving startup Pony.ai",
       "excerpt": "With this new investment, their relationship will become even closer, with the automaker and the startup “co-developing” mobility products like “mobility services.” Pony.ai has been testing robot taxis in Beijing and Guangzhou since late 2018 as well as in Fremont and Irvine, California. The startup claims to be the first company to ...",
-      "heat": 331,
+      "heat": 341,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.theverge.com/2020/2/25/21152817/toyota-pony-ai-self-driving-car-investment-valuation-china-silicon-valley",
@@ -2131,6 +2087,43 @@
       "topics": [
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-27-covariant-abb-partner-to-integrate-ai-and-robots-for-warehouses.md",
+      "title": "Covariant, ABB partner to integrate AI and robots for warehouses",
+      "excerpt": "Industrial automation leader ABB and artificial intelligence startup Covariant today announced that they are working to jointly bring AI-enabled robots to market, starting with a fully autonomous system for e-commerce order fulfillment. The growing demand for e-commerce order-fulfillment and the complex nature of the process offers unique ...",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.therobotreport.com/covariant-abb-partner-integrate-ai-warehouse-robots/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-27T05:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2020/02/Covariant_1-1024x735.jpeg",
+          "width": 1024,
+          "height": 735,
+          "title": "Covariant, ABB partner to integrate AI and robots for warehouses",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

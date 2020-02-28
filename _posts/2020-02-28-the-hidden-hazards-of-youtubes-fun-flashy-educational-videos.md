@@ -23,6 +23,6 @@ images:
     height: 720
     title: "The hidden hazards of YouTube’s fun, flashy educational videos"
 
-secured: "nyok35WWQfgUG6p03FvHh5lwQkO6CyTzipRY15vY+mm5cpVr9ASy0tb5gjOTVKKyjuc3ZNnwwNweYJJwno7EeRl1fmC9tvG58Q+ETMnJoVclmEg2SGP1u0+DbKc111yoDeJcIMgnzD2ltbd0ZKcKK8tkfejd3FJUuCe0Cm139mibXku12/n9+7flLxUNlpiHR6ZXXStXQd4FhxwXznlJU1Q/cC3KSOMPcZRxLOofpMDMrOmxVrJnztnE0XH/zX6i2/jwd+0QIWbUpBZPNdcrN+hPz/gkgFB1rwUHIr31JzTouNyVuu4iTUK4ivWAiVxK;fXoo15X4ENimZ00tl+VYRA=="
+secured: "20OTWwlZWkEyahBpyE/LVPhNvPSrX84XbGOozbh48ruCaz3Pbl13QLFEZhcDcBet1gk7tWWDUDKeFpfk7lAzDeSTy2RJlfYo/ClcI6EaW+DmF7IUZvH0GLPpaPmLq2pb8gpdWCffgdVIfhH6Mhio6i8sVpEhpPzSJS4HrHsh9ZE7LYTxw9oCHjiYIBKN1RYSA+ih/B04Xu7tun9o8kbvGj/adDkZBCTCe17U2vdf5MBEk3LzgPr+0Tc3MQAcNIaKoH7IT1F5m60BTjo2uetbI5H7Sac1zIlnbte506d+qvq/X8ognBhgVa5dJpwEjkZuzZ7Q3A/QVTWTYouTWPLKLku01/SoOfQ21W25ena8JVq+04ZH0mfW9C+w/Vq+TuXPdZXQhovEvZG/tq+o/PU4KhO/M69K7SItB5s3OFMNLh6b8arNeoyAnyeSd6YtcoVeTursWEA0mT5Ai5WcZtndexReoSgkI7Z/BC4FGZWiw/I=;AMW/IBU+prFnQQB9VIIrNQ=="
 ---
 

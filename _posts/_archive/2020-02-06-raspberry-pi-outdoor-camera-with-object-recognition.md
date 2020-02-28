@@ -5,8 +5,8 @@ excerpt: "Technology enthusiast and environmentalist Paul Kinsella has created a
 publishedDateTime: 2020-02-06T11:26:00Z
 webUrl: "https://www.geeky-gadgets.com/raspberry-pi-outdoor-camera-06-02-2020/"
 type: article
-quality: 19
-heat: 19
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -17,6 +17,12 @@ topics:
   - AI
   - Computer Vision
 
-secured: "owxiMjdWh6sE2uXg6/aTy07EdWyp8YMoHbf+B3BomMqfDlKXj3T056A3LOhXZ066LqIMbIlg3/G3avHBVqnZD6/ItdTiwBxslzjzqLvo9bROKocMBQPS2raxQzBMduX+AVzzz/1/iZZxTcr6YzN2hsAKrK7XUpUlbAodQzMu63MiUAjxJrXRqbtF0X3SlZvs2w3MUMOogORVxQ2SJ+mrPcMxIS6hZhvGPvoQF8JdHuMouORH6DPOtMaZhZWkfOZKhZQUHxg8GxB/7U53MSI40Way2tyToO3mrrWx0GnrKoPvGrAS5DU0SDraF4+X7cq1;QDUjB8vb6oxK4p39TURVGg=="
+images:
+  - url: "https://www.geeky-gadgets.com/wp-content/uploads/2020/02/Raspberry-Pi-outdoor-camera.jpg"
+    width: 700
+    height: 500
+    title: "Raspberry Pi outdoor camera with object recognition"
+
+secured: "6dxlztnzCN8gd5DO8OxUyXHLWWegFwt4mIZ+ZY4sBMtQ260XWqSeiYeJS+WgI4hoy7xfUt0jI2pW7nE9pOdYY8rXFeDrWf05DyyDsvq4ILwiFxKOW8h+/F+VO+dv7vUSroDI8nSO4WE0XlJLXQXDZilqjvEFkQYpSFfbyynBF+98QIoL7oPzCq41PtIbq9PD6O2q/UC1fJLCeMsJrxul/zXSco9C7ovrO/NrSoKXXf3CyEntbRZJ8RBwe70O2Qy+Nr5dD5ZcWcW977oqrA2uVb0cmZTiN/DV4GeaZX2KuhljjVvAUGRWpz3A1EVxK0yy;MdvkSYaeJ0KQ83OouDfVgg=="
 ---
 

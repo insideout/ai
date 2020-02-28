@@ -4,8 +4,10 @@ title: "Mind-Controlled Robotic Arm Allows Paralyzed Man To Feel, Move Objects"
 excerpt: "Nathan Copeland can't use his own arms to move objects, he can use a robot arm just by thinking about moving it; KDKA's Dr. Maria Simbra reports. Around The Table: The Importance Of The Iowa ..."
 publishedDateTime: 2020-02-03T00:00:00Z
 webUrl: "https://pittsburgh.cbslocal.com/video/3669495-mind-controlled-robotic-arm-allows-paralyzed-man-to-feel-move-objects/"
+ampWebUrl: "https://pittsburgh.cbslocal.com/video/3669495-mind-controlled-robotic-arm-allows-paralyzed-man-to-feel-move-objects/amp/"
+cdnAmpWebUrl: "https://pittsburgh-cbslocal-com.cdn.ampproject.org/c/s/pittsburgh.cbslocal.com/video/3669495-mind-controlled-robotic-arm-allows-paralyzed-man-to-feel-move-objects/amp/"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
@@ -26,7 +28,11 @@ related:
     provider:
       name: Mashable
       domain: mashable.com
-    quality: 57
+    quality: 77
+    images:
+      - url: "https://mondrian.mashable.com/2016%252F10%252F14%252Fb6%252FAP_16287736330662.d3659.jpg%252F1200x630.jpg?signature=NIqfeD79B--WSLa-nz-r7U5cHZ0="
+        width: 1200
+        height: 630
   - title: "A Mind-Controlled Robotic Hand With A Sense Of Touch"
     excerpt: "Researchers Monitor Sørensen's Prosthetic LifeHand 2/Patrizia Tocci He could even adjust his grip as needed, all from his robotic sense of touch. \"What we did was to provide this tactile ..."
     publishedDateTime: 2020-02-05T00:00:00Z
@@ -35,8 +41,12 @@ related:
     provider:
       name: Popular Science
       domain: popsci.com
-    quality: 19
+    quality: 39
+    images:
+      - url: "https://www.popsci.com/resizer/fpU9tcI__P5BYCC0_WtmmQNOfOQ=/1200x628/smart/arc-anglerfish-arc2-prod-bonnier.s3.amazonaws.com/public/NSO6ZVCP43CLCPK3A4UYAJGYFA.jpg"
+        width: 1200
+        height: 628
 
-secured: "dl6nuWQGbZOaHfnTuDsUwjU4tu2r8xS1Wdzw+i3diA76XnACVHPgFkl20i5TSGMZ5gDZet/8+kHnuuC5R2ElTMV6yTH+nlPuuzOHtA9c0qP/HlJDQ0UsuNpYG0XhQjauoZLQsZsYlfhRKxuNRQrAOp4lKZkppdOUNWiaKsY1TbYQ66Sf3RlPcyXXAe+Kyop3fUEUdFJqf1dQVMdT+EV24Jm8sLTYErpc1e/kIuAQeJaoWL0Wrh/x/iStusuGWP/g3/Yof1FkIYMC1ARdgwtD859onE89y4Gbkqe9jGZLYceK3afz5oN2jEP4ah5BGZ5M;ywrSgNJhI0h7i4iDlsIqIA=="
+secured: "JGKRJcJobJIYDX4b0Y1k0e2lbwjJK4/9Qt6G8pRwzlL+tgYr4MP6z6p98EEymyKujMTH1DwiJDcsKnNY2dCk1HdGv0H5fKYTLm+8NVaboDVQCau7+osUA3V/a/zlOpvrJyl9lFS1QirvGnMICDvtHDvP6ZrDdNwG0j+aEosOr2nRrkRdWxAC+4L22FC2QSg5S7YA9QuX50NE5yp8Nx1BunJvufv8EvACocukvUidCgiTDecTONVjaFtfHc7+N7aWaGnDD4PWp4xTqEDE2V3IaLIK3EmgNkfa3Plr0ifxPE1S6G7r17sv1Edpqiwfdgz8;feXZJb+2QtzLGlDHzyislw=="
 ---
 

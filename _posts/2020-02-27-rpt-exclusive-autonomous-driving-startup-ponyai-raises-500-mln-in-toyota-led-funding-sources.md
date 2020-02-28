@@ -102,6 +102,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Toyota to Invest $400M in Self-Driving Start-Up Pony.ai"
+    excerpt: "Toyota Motor Corporation TM recently announced plans to invest $400 million into Pony.ai, a self-driving car start-up. This marks the company’s biggest investment in an autonomous driving company based in China."
+    publishedDateTime: 2020-02-28T13:23:00Z
+    webUrl: "https://www.nasdaq.com/articles/toyota-to-invest-%24400m-in-self-driving-start-up-pony.ai-2020-02-28"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
+    images:
+      - url: "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg"
+        width: 1024
+        height: 512
   - title: "Toyota saddles up for self-driving future with $400M investment into Pony.ai"
     excerpt: "One of the world’s largest car makers, Toyota, has further demonstrated its intent on supporting self-driving vehicles. The Japanese carmaker is planning to invest $400 million into Pony.ai, a Chinese self-driving car startup that’s based across Silicon Valley in the US and Guangzhou in China, Bloomberg reports. With the latest round of ..."
     publishedDateTime: 2020-02-27T10:04:00Z

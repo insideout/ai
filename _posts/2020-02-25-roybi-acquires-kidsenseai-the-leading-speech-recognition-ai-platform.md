@@ -24,45 +24,34 @@ images:
     title: "ROYBI Acquires KidSense.AI, The Leading Speech Recognition AI Platform"
 
 related:
-  - title: "Local AI firm builds speech recognition for Kinyarwanda"
-    excerpt: "Digital Umuganda, a fully Rwandan artificial intelligence (AI) firm, is building an automatic speech and voice recognition infrastructure for Kinyarwanda in partnership with Rwanda Utility and Regulatory Authority (RURA). The technology is part of RURA’s joint initiative dubbed KinyaTech with a non-profit behind Firefox web-browser ..."
-    publishedDateTime: 2020-02-25T13:42:00Z
-    webUrl: "https://www.newtimes.co.rw/daily/technology/local-ai-firm-builds-speech-recognition-for-kinyarwanda"
+  - title: "This startup can predict heart failure over the phone using AI and speech recognition"
+    excerpt: "Corti.ai aims to prevent thousands of heart failures across the US and Europe through the development of voice and pattern recognition technology."
+    publishedDateTime: 2020-02-28T14:36:00Z
+    webUrl: "https://www.businessinsider.com/danish-startup-developed-technology-that-predicts-heart-failure-2018-5?amp%3Butm_medium=referral"
+    ampWebUrl: "https://www.businessinsider.com/danish-startup-developed-technology-that-predicts-heart-failure-2018-5?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/danish-startup-developed-technology-that-predicts-heart-failure-2018-5?amp"
     type: article
     provider:
-      name: The New Times
-      domain: newtimes.co.rw
-    quality: 54
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 97
     images:
-      - url: "https://www.newtimes.co.rw/sites/default/files/main/articles/2020/02/20/voice-recog-devices-feature_1200x675_hero_011419_0.jpg"
+      - url: "https://i.insider.com/5e57f497fee23d668a393417?width=1200&format=jpeg"
         width: 1200
-        height: 675
-  - title: "Roybi Acquires Kid-Focused AI Speech Recognition Platform KidSense.AI"
-    excerpt: "The former stands out as an AI speech recognition platform designed specifically to recognize the voices of children. Details of the deal were not disclosed. “Fusing the KidSense.AI technology with Roybi Robot allows us to offer the most powerful AI engine in language learning in the world,” said founder and CEO Elnaz Sarraf, in a statement."
-    publishedDateTime: 2020-02-25T18:25:00Z
-    webUrl: "https://news.elearninginside.com/roybi-acquires-kid-focused-ai-speech-recognition-platform-kidsense-ai/"
+        height: 600
+  - title: "How This Startup Is Implementing NLP Technologies To Better Understand Customer Voice"
+    excerpt: "With the advancements in natural language processing, speech recognition, and deep learning, at the present era, support teams have started using Voice AI more efficiently and intuitively than ever by putting the data to practical use. With more voice data, support teams will better understand performance trends and make predictions."
+    publishedDateTime: 2020-02-27T12:32:00Z
+    webUrl: "https://analyticsindiamag.com/how-this-startup-is-implementing-nlp-technologies-to-better-understand-customer-voice/"
     type: article
     provider:
-      name: eLearningInside News
-      domain: elearninginside.com
-    quality: 54
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 17
     images:
-      - url: "https://news.elearninginside.com/wp-content/uploads/2019/07/vmisx2-n.jpg"
-        width: 1280
-        height: 853
-  - title: "Speech recognition AI platform acquired"
-    excerpt: "Roybi Inc, the creator of the Roybi Robot—the world’s first AI-powered smart toy that teaches languages and basic STEM skills—has acquired KidSense.AI, the revolutionary technology in children’s embedded automatic speech recognition (ASR) and Edge-AI. KidSense.AI, which initially debuted in 2018 at TechCrunch Disrupt, utilizes the ..."
-    publishedDateTime: 2020-02-27T05:38:00Z
-    webUrl: "https://districtadministration.com/speech-recognition-ai-platform-acquired/"
-    type: article
-    provider:
-      name: District Administration Magazine
-      domain: districtadministration.com
-    quality: 54
-    images:
-      - url: "https://districtadministration.com/wp-content/themes/riskandinsurance/img/icons/icon-newsletter.png"
-        width: 300
-        height: 205
+      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/02/L-R-Swapnil-Jain-Akash-Singh-Sharath-Keshava-1024x683.jpg"
+        width: 1024
+        height: 683
 
 secured: "n7Ig/O/dB95f+5uf2/qJn2cQ75OUKyt8HMzFjbZtMN302wYeCeTXMv86GkkaA9+OjYgwA1NE0f5g+Sh1CeBPZb8gAIdvCdaz3vlzz4nwhf0Jdb5b6/o4QEVUS4li/sMdkwMIpknTTUg+vf7WdINtFO5b+5dmqN/33wG7xio/YrjGkMuPleAmadjT5pITrhVzRAwjoXp6U7S/+NjyvQ59vx9NDBZTJqP6+7cNhcuHnYrWppN/dZjR9SBhx5WtoxXCl397qwPAx4gKKSIIfLHaLOi+EIgY8sf52SsApqM8IJ6pohjKUANcka5g7sYTmj96;N542sFRRSPJOt+ewOZMFoA=="
 ---

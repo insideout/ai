@@ -45,21 +45,6 @@ related:
       - url: "https://s.marketwatch.com/public/resources/images/MW-HD183_waymo_ZH_20190201153208.jpg"
         width: 890
         height: 501
-  - title: "Ex-Waymo driver accused of deliberately causing crash"
-    excerpt: "Waymo officials said Tang “engaged in similar conduct ... days before the bloc is expected to release new proposals on regulating artificial intelligence. The billionaire social network founder is the latest U.S. tech executive to make the trip to ..."
-    publishedDateTime: 2020-02-13T21:33:00Z
-    webUrl: "https://www.abc27.com/news/us-world/tech/ex-waymo-driver-accused-of-deliberately-causing-crash/"
-    ampWebUrl: "https://www.abc27.com/news/us-world/tech/ex-waymo-driver-accused-of-deliberately-causing-crash/amp/"
-    cdnAmpWebUrl: "https://www-abc27-com.cdn.ampproject.org/c/s/www.abc27.com/news/us-world/tech/ex-waymo-driver-accused-of-deliberately-causing-crash/amp/"
-    type: article
-    provider:
-      name: abc27.com
-      domain: abc27.com
-    quality: 59
-    images:
-      - url: "https://www.abc27.com/wp-content/uploads/sites/55/2020/02/e1a12058c4994013a8c4b826b6ab617f.jpg?w=1280&h=720&crop=1"
-        width: 1280
-        height: 720
   - title: "Man Arrested for Brake-Checking Waymo Self-Driving Van, Causing Crash"
     excerpt: "Raymond Tang was a former Waymo van operator who worked for a contractor of the self-driving-vehicle company. He was arrested on charges of intentionally causing one to crash on January 30. Since his termination, according to Waymo, he is accused of ..."
     publishedDateTime: 2020-02-14T06:43:00Z
@@ -135,21 +120,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2019/12/05/PPHX/49da8cef-9013-4309-8971-2f2f091b3615-_X8I2293.jpg?auto=webp&crop=5471,3077,x0,y278&format=pjpg&width=1200"
         width: 1200
         height: 675
-  - title: "Former Waymo employee arrested on suspicion of causing Tempe crash with self-driving car"
-    excerpt: "Raymond Tang, 31, was reportedly fired from Waymo before he intentionally caused a crash with one of their vehicles, according to court records."
-    publishedDateTime: 2020-02-13T21:10:00Z
-    webUrl: "https://www.azcentral.com/story/news/local/tempe-breaking/2020/02/13/former-waymo-employee-arrested-after-tempe-crash-self-driving-car/4751518002/"
-    ampWebUrl: "https://amp.azcentral.com/amp/4751518002"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/4751518002"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 50
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/02/13/PPHX/20a18807-923a-49da-b9dc-7404b2750590-Raymond_Tang_mugshot.jpg?auto=webp&crop=479,269,x1,y167&format=pjpg&width=1200"
-        width: 1200
-        height: 674
   - title: "‘Disgruntled’ ex-Waymo driver accused of deliberately causing crash with self-driving vehicle"
     excerpt: "A man described as a disgruntled former Waymo driver has been arrested on suspicion of deliberately crashing a passenger car into one of the company’s vans with self-driving capabilities"
     publishedDateTime: 2020-02-14T14:40:00Z
