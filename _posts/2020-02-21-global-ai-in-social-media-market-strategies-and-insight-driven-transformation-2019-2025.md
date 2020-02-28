@@ -218,15 +218,6 @@ related:
       - url: "https://mms.businesswire.com/media/20200218005781/en/774126/4/Global_Robotics_Market_in_Personal_and_Homecare_Sector_2020-2024.jpg"
         width: 480
         height: 271
-  - title: "Mantra Labs Announces New Report Addressing Insurance Challenges, Solutions & Ripe Investment Opportunities in AI in 2020"
-    excerpt: "“The State of AI in Insurance 2020” is Mantra Labs Point of View (POV ... The company also has strategic technology partnerships with MongoDB, IBM Watson, Nvidia, and Microsoft Azure."
-    publishedDateTime: 2020-02-13T08:06:00Z
-    webUrl: "https://www.pr.com/press-release/805480"
-    type: article
-    provider:
-      name: PR
-      domain: pr.com
-    quality: 0
 
 secured: "ekr4SwzTVSKyYkz9k+gfOmdFwCa/w60wkIK6cD0dCrqS+PvB/tpIxfSYPQIif9kBkxI5n/iJAQNj/K/pFXf0nCBTWokNOGE1vRfXbGSrmlcWC4TX+SCiX6ne5iBPBmMLbkxkUmrl06UUaewyv5YB5hIPYl2czpVG1KyLdCABZirtE4G5MZI/rJT0A47IsJ7K7+hptoPoVfFK0QsuEAYMOPLDCj7aOZYSscFajP18EqDp9XnpTvX2lcUgvYgBxsJ4Es+tQe7c2VM12KA+B0Oh46l8jz/2/B2LaofRxa1/7FMXe9Qi8MV6SHpPjiD++fmD;EUmMI3rQby4tNT5kyv2RJQ=="
 ---

@@ -69,6 +69,21 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/d3GVUkpobEW7uy8jkkVq94-1200-80.jpg"
         width: 1200
         height: 800
+  - title: "New York State Police uses controversial facial recognition app that reportedly had data breached"
+    excerpt: "New York State Police is among the law enforcement agencies who use an application created by controversial facial recognition company Clearview AI, a spokesperson confirmed to Syracuse.com | The Post-Standard. The troopers’ use of the technology was first reported by BuzzFeed News on Thursday afternoon. BuzzFeed obtained a list of all of ..."
+    publishedDateTime: 2020-02-28T00:15:00Z
+    webUrl: "https://www.syracuse.com/crime/2020/02/new-york-state-police-uses-controversial-facial-recognition-technology-that-just-had-its-data-breached.html"
+    ampWebUrl: "https://www.syracuse.com/crime/2020/02/new-york-state-police-uses-controversial-facial-recognition-technology-that-just-had-its-data-breached.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-syracuse-com.cdn.ampproject.org/c/s/www.syracuse.com/crime/2020/02/new-york-state-police-uses-controversial-facial-recognition-technology-that-just-had-its-data-breached.html?outputType=amp"
+    type: article
+    provider:
+      name: syracuse.com
+      domain: syracuse.com
+    quality: 46
+    images:
+      - url: "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/NZLFWRZBNZGYNCWBHZPIG7OY4A.png"
+        width: 1108
+        height: 990
   - title: "Company behind controversial facial recognition software used by Toronto police suffers data breach"
     excerpt: "The company behind a controversial facial recognition software which had been used by GTA police services, including the Toronto police, suffered a data breach. Clearview AI confirmed the news to CTV News Toronto on Wednesday afternoon. In a statement ..."
     publishedDateTime: 2020-02-26T23:58:00Z

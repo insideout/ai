@@ -84,6 +84,21 @@ related:
       - url: "https://www.dailycamera.com/wp-content/uploads/2019/04/DC-backupimage-1000x563.jpg"
         width: 1000
         height: 563
+  - title: "New York State Police uses controversial facial recognition app that reportedly had data breached"
+    excerpt: "New York State Police is among the law enforcement agencies who use an application created by controversial facial recognition company Clearview AI, a spokesperson confirmed to Syracuse.com | The Post-Standard. The troopers’ use of the technology was first reported by BuzzFeed News on Thursday afternoon. BuzzFeed obtained a list of all of ..."
+    publishedDateTime: 2020-02-28T00:15:00Z
+    webUrl: "https://www.syracuse.com/crime/2020/02/new-york-state-police-uses-controversial-facial-recognition-technology-that-just-had-its-data-breached.html"
+    ampWebUrl: "https://www.syracuse.com/crime/2020/02/new-york-state-police-uses-controversial-facial-recognition-technology-that-just-had-its-data-breached.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-syracuse-com.cdn.ampproject.org/c/s/www.syracuse.com/crime/2020/02/new-york-state-police-uses-controversial-facial-recognition-technology-that-just-had-its-data-breached.html?outputType=amp"
+    type: article
+    provider:
+      name: syracuse.com
+      domain: syracuse.com
+    quality: 46
+    images:
+      - url: "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/NZLFWRZBNZGYNCWBHZPIG7OY4A.png"
+        width: 1108
+        height: 990
   - title: "Canadian privacy officials will investigate controversial facial recognition tool used by Toronto police"
     excerpt: "TORONTO -- The federal privacy watchdog and three provincial ombudsmen have announced an investigation into the controversial facial recognition software used by several police services, including Toronto. “The investigation was initiated in the wake of numerous media reports that have raised questions and concerns about whether the company ..."
     publishedDateTime: 2020-02-21T18:56:00Z

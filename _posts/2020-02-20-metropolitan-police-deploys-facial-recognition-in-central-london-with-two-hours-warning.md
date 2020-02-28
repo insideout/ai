@@ -482,6 +482,19 @@ related:
       - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fe59a050e-5724-11ea-ae40-36d0719ad0bc.jpg?crop=5568%2C3132%2C0%2C290&resize=685"
         width: 685
         height: 385
+  - title: "Leaked Document Shows Australian Police Use Creepy Clearview Facial Recognition Software"
+    excerpt: "Australian police forces have previously denied using controversial facial recognition software, Clearview, but a new Buzzfeed report suggests employees within the organisations have undertaken thousands of searches using the software. While Clearview is not available to the general public, it offers free trials to law enforcement officers who ..."
+    publishedDateTime: 2020-02-27T23:00:00Z
+    webUrl: "https://www.gizmodo.com.au/2020/02/australian-police-clearview-ai-facial-recognition/"
+    type: article
+    provider:
+      name: Gizmodo Australia
+      domain: gizmodo.com.au
+    quality: 30
+    images:
+      - url: "https://edge.alluremedia.com.au/m/g/2020/02/police.jpg"
+        width: 1200
+        height: 675
   - title: "London's top cop dismisses 'highly inaccurate or ill informed' facial-recognition critics, possibly ironically"
     excerpt: "Huawei claims its Google Play replacement is in 'top 3' app stores after Trump turns off tap to the Chocolate Factory The head of London’s Metropolitan Police, Cressida Dick, has angered critics of facial recognition technology by accusing them of being ..."
     publishedDateTime: 2020-02-25T13:45:00Z

@@ -497,6 +497,19 @@ related:
       - url: "https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/07/09/13/facialrecognition-ban.jpg"
         width: 1998
         height: 1499
+  - title: "Leaked Document Shows Australian Police Use Creepy Clearview Facial Recognition Software"
+    excerpt: "Australian police forces have previously denied using controversial facial recognition software, Clearview, but a new Buzzfeed report suggests employees within the organisations have undertaken thousands of searches using the software. While Clearview is not available to the general public, it offers free trials to law enforcement officers who ..."
+    publishedDateTime: 2020-02-27T23:00:00Z
+    webUrl: "https://www.gizmodo.com.au/2020/02/australian-police-clearview-ai-facial-recognition/"
+    type: article
+    provider:
+      name: Gizmodo Australia
+      domain: gizmodo.com.au
+    quality: 30
+    images:
+      - url: "https://edge.alluremedia.com.au/m/g/2020/02/police.jpg"
+        width: 1200
+        height: 675
   - title: "Watch: Edmonton police give update on facial recognition technology"
     excerpt: "Warren Driechel, superintendent of the Edmonton police informatics division, and Devin Laforce, superintendent of the Edmonton police investigative support, provided an update Wednesday on a project assessing and engaging in a facial recognition solution for the police service. The technology hasn’t been implemented yet as EPS is still ..."
     publishedDateTime: 2020-02-20T01:38:00Z

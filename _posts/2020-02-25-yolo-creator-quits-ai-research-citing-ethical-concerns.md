@@ -3,7 +3,7 @@ category: news
 title: "YOLO Creator Quits AI Research Citing Ethical Concerns"
 excerpt: "The ethics of AI usage, the rationale behind research and its explainability have ... which is a part satire part research ode that reeks of his distaste for potential misuse of research, Redmon took jabs at Google and Facebook and even the organisation that funds his research. On a more serious note, he also insisted on the responsibility ..."
 publishedDateTime: 2020-02-25T18:16:00Z
-webUrl: "https://analyticsindiamag.com/yolo-creator-joe-redmon-computer-vision-research-ethical-concern/"
+webUrl: "https://analyticsindiamag.com/yolo-creator-joe-redmon-computer-vision-research-etical-concern/"
 type: article
 quality: 39
 heat: 39
@@ -18,11 +18,11 @@ topics:
   - Facebook AI
 
 images:
-  - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/02/ai-ethics-analytics_india_mag-1024x576.jpg"
-    width: 1024
-    height: 576
+  - url: " https://www.analyticsindiamag.com/wp-content/uploads/2019/07/Edvancer-Side-box.gif"
+    width: 300
+    height: 250
     title: "YOLO Creator Quits AI Research Citing Ethical Concerns"
 
-secured: "QkY8w7IzhruMfWXOatM9+dVZFDDtNzarolt4/dNf1nFDVH1lWEHTlfCl60ucSAC+7ijPxbXgnFu0eNWUqULDoI0jPG0eULKxjedzvjuUxFyEShORhH6me/5Gz9Z7QPalVxfKk/1qlx4eYILp+cxsMctTmj0T6Qs9rmI7AN/K6JrxJFI8DACwO2fbXoEvjI+NeJgfRQ+hLKdPJfJjOs8ovcc0HE/gh5Ri910I0E8/S0B2wHbPYPYKl8BO07m5ZRT/3OJAGqNs5vwULsL3slQInxn7UpevuizOl877li8l/pk4BG/oa5CdQ7VNWAHujvE3;nPTyeJyIyEkdpfHTon8w2A=="
+secured: "8Pj7BwALUWrF3m4ae163fgBzfyvd1oJ2i98QymrrzFiVou98/Jg7/0IViQlBdy1VuqTzqPceFHzxOJj26crFNiG7O/4NFl3Kszs5iJ9MEukB36fHTBLjGMnHYZWSbEHoAczhczHmsCb+wBUl/5p61tXFa0v/vOtCHj0EXd8AO3rOS7cufDhAirQgrZLVQi1SYx6tubxzpwohcwqsuWyYKeXl2tReP9GB7URCb2Herxv08pHKeGDjV+rsLbOSr0zkG7AiXWyvwntSjj3eb2/OYwlNzJCKsr8uo0ss+v/Z83oJe3cBJQTx7RYj6oEvD3E2;7tgVDFBEM7QVTmTgJZ6j7w=="
 ---
 

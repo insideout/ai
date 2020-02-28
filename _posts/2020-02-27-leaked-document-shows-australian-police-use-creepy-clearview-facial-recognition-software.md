@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Police board knew about facial recognition pilot, acting chair says"
-excerpt: "Questions about the Ottawa police pilot of facial recognition software continued to swirl Monday as two police board members questioned the force on what its plans were for the controversial technology amid the revelation that the board knew about the pilot. Indeed, acting chair Sandy Smallwood said that the board was informed of the pilot at ..."
-publishedDateTime: 2020-02-25T03:00:00Z
-webUrl: "https://ottawacitizen.com/news/local-news/police-board-knew-about-facial-recognition-pilot-acting-chair-says"
-ampWebUrl: "https://ottawacitizen.com/news/local-news/police-board-knew-about-facial-recognition-pilot-acting-chair-says/amp"
-cdnAmpWebUrl: "https://ottawacitizen-com.cdn.ampproject.org/c/s/ottawacitizen.com/news/local-news/police-board-knew-about-facial-recognition-pilot-acting-chair-says/amp"
+title: "Leaked Document Shows Australian Police Use Creepy Clearview Facial Recognition Software"
+excerpt: "Australian police forces have previously denied using controversial facial recognition software, Clearview, but a new Buzzfeed report suggests employees within the organisations have undertaken thousands of searches using the software. While Clearview is not available to the general public, it offers free trials to law enforcement officers who ..."
+publishedDateTime: 2020-02-27T23:00:00Z
+webUrl: "https://www.gizmodo.com.au/2020/02/australian-police-clearview-ai-facial-recognition/"
 type: article
-quality: 74
+quality: 30
 heat: -1
 published: false
 
 provider:
-  name: Ottawa Citizen
-  domain: ottawacitizen.com
+  name: Gizmodo Australia
+  domain: gizmodo.com.au
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: "https://postmediaottawacitizen2.files.wordpress.com/2020/01/76459938-13306503-w-1.jpg"
-    width: 1000
-    height: 750
-    title: "Police board knew about facial recognition pilot, acting chair says"
+  - url: "https://edge.alluremedia.com.au/m/g/2020/02/police.jpg"
+    width: 1200
+    height: 675
+    title: "Leaked Document Shows Australian Police Use Creepy Clearview Facial Recognition Software"
 
 related:
   - title: "Met police chief: facial recognition technology critics are ill-informed"
@@ -86,6 +84,21 @@ related:
       - url: "https://images.wsj.net/im-156193/social"
         width: 1280
         height: 640
+  - title: "Police board knew about facial recognition pilot, acting chair says"
+    excerpt: "Questions about the Ottawa police pilot of facial recognition software continued to swirl Monday as two police board members questioned the force on what its plans were for the controversial technology amid the revelation that the board knew about the pilot. Indeed, acting chair Sandy Smallwood said that the board was informed of the pilot at ..."
+    publishedDateTime: 2020-02-25T03:00:00Z
+    webUrl: "https://ottawacitizen.com/news/local-news/police-board-knew-about-facial-recognition-pilot-acting-chair-says"
+    ampWebUrl: "https://ottawacitizen.com/news/local-news/police-board-knew-about-facial-recognition-pilot-acting-chair-says/amp"
+    cdnAmpWebUrl: "https://ottawacitizen-com.cdn.ampproject.org/c/s/ottawacitizen.com/news/local-news/police-board-knew-about-facial-recognition-pilot-acting-chair-says/amp"
+    type: article
+    provider:
+      name: Ottawa Citizen
+      domain: ottawacitizen.com
+    quality: 74
+    images:
+      - url: "https://postmediaottawacitizen2.files.wordpress.com/2020/01/76459938-13306503-w-1.jpg"
+        width: 1000
+        height: 750
   - title: "Police board knew about facial recognition pilot project, acting chair says"
     excerpt: "Questions about the Ottawa police pilot of facial recognition software continued to swirl Monday as two police board members questioned the force on what its plans were for the controversial technology amid the revelation that the board knew about the pilot. Indeed, acting chair Sandy Smallwood said that the board was informed of the pilot at ..."
     publishedDateTime: 2020-02-25T18:32:00Z
@@ -482,19 +495,6 @@ related:
       - url: "https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/07/09/13/facialrecognition-ban.jpg"
         width: 1998
         height: 1499
-  - title: "Leaked Document Shows Australian Police Use Creepy Clearview Facial Recognition Software"
-    excerpt: "Australian police forces have previously denied using controversial facial recognition software, Clearview, but a new Buzzfeed report suggests employees within the organisations have undertaken thousands of searches using the software. While Clearview is not available to the general public, it offers free trials to law enforcement officers who ..."
-    publishedDateTime: 2020-02-27T23:00:00Z
-    webUrl: "https://www.gizmodo.com.au/2020/02/australian-police-clearview-ai-facial-recognition/"
-    type: article
-    provider:
-      name: Gizmodo Australia
-      domain: gizmodo.com.au
-    quality: 30
-    images:
-      - url: "https://edge.alluremedia.com.au/m/g/2020/02/police.jpg"
-        width: 1200
-        height: 675
   - title: "London's top cop dismisses 'highly inaccurate or ill informed' facial-recognition critics, possibly ironically"
     excerpt: "Huawei claims its Google Play replacement is in 'top 3' app stores after Trump turns off tap to the Chocolate Factory The head of London’s Metropolitan Police, Cressida Dick, has angered critics of facial recognition technology by accusing them of being ..."
     publishedDateTime: 2020-02-25T13:45:00Z
@@ -600,6 +600,6 @@ related:
       domain: seattletimes.com
     quality: 0
 
-secured: "UyEMFKq1u59uQWaKRCb4vs+LopWwXzBfabfZ/ojvn62rwKh1ijMI8dC1WWy+tv+S8SBqPqWUkQhK7Hn7HnO9ggJSJt34Y800a6IHmb66OlHfbYauLy5MjYwItreGCT6gwQREIyUKdAc+DtsFqVT2xHykmroJqM76ldIyvloAXw1mC5xxRzhiFbcynS7XMo43ytYZOsa+CbP7zoQo/1p0sbcFLXVRXN0LRDH9mAg8k3wNLT9U4faDBN5Amu4NQW56jmwlBbidULc4HPVDDmtvesNDaaRIVuQSEDx2tuyx9VNAZTsTvx4RSoHtKutpH2gW;7g+vz9BGWGuHKUxufJccHA=="
+secured: "2VVlU+xnrP5HxxBAxU3yKVtpkmsDiWTJ5wVdrJTmFylYWx3TMxkjyIBEsYgCu6cif6YZzWQtoaYuQUqdCAz9e6+beoL7m9lhoqw7vcO/ZVkpNVffhdgU96P87DGqRyHyKxiawmlK3MoZJxRybl+0ltCytgZoQce0hkN+NcSA+1B8Ze1yS8Z7LTmTCuIRDdk+t1M8LW42RF8e3VqiDWZJpdMx0hpQ85DWv5Yh/7H0IhD1Uko+YpH5VDnkxlvEd4UFwvJLbB6onN+GRjwB6Gxof82IRmFy7G2C4kCqdAi3VpwjA/ScSZhb76WnfHBr/Ghj;eas9aFY696t42VsFhvAxfg=="
 ---
 

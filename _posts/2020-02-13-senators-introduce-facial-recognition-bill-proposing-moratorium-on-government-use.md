@@ -8,8 +8,8 @@ ampWebUrl: "https://www.dailydot.com/layer8/facial-recognition-moratorium-bill-m
 cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/layer8/facial-recognition-moratorium-bill-merkley-booker/?amp"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: The Daily Dot
@@ -26,21 +26,6 @@ images:
     title: "Senators introduce facial recognition bill proposing moratorium on government use"
 
 related:
-  - title: "Senate bill would place a moratorium on feds using facial recognition"
-    excerpt: "First, a 13 member commission would try to establish some guidelines on its use. Facial recognition is being used by more agencies than ever, even as its accuracy and impact remain unclear. Several local governments have already taken steps to stop law enforcement from using it in various ways, and a bill introduced by two US senators seeks to ..."
-    publishedDateTime: 2020-02-13T07:50:00Z
-    webUrl: "https://www.engadget.com/2020/02/13/ethical-use-of-ai-act-facial-recognition/"
-    ampWebUrl: "https://www.engadget.com/amp/2020/02/13/ethical-use-of-ai-act-facial-recognition/"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/13/ethical-use-of-ai-act-facial-recognition/"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 89
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D3750%252C2199%252C0%252C87%26quality%3D85%26format%3Djpg%26resize%3D1600%252C938%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-02%252F13cdbc50-4e28-11ea-af76-05ffda135652%26client%3Da1acac3e1b3290917d92%26signature%3D0481885756e5df58466c02a0c4b77093553bc031&client=amp-blogside-v2&signature=f8f6c4395bba8a560c86317e4de100dad55191c3"
-        width: 600
-        height: 350
   - title: "Senate bill would put a moratorium on federal facial recognition use"
     excerpt: "A new bill introduced in the Senate would put a moratorium on the use of facial recognition by federal agencies, at least until Congress can figure out how to regulate the technology. The Ethical Use of Facial Recognition Act is a partnership between Sens. Cory Booker, D-N.J., and Jeff Merkley, D-Ore., that would also create a congressional ..."
     publishedDateTime: 2020-02-14T20:53:00Z

@@ -33,21 +33,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e4c97476895e0000683937c%2F0x0.jpg"
         width: 1200
         height: 836
-  - title: "Chatbots, AI to transform travel industry, says this start-up"
-    excerpt: "Having known the importance of digital technology in expanding businesses, travel companies are now using artificial intelligence (AI), chatbots and other applications to transform customers’ experience to attract more travellers and retain their clients, according to travel aggregator Shoes on Loose. This Delhi-based travel startup was ..."
-    publishedDateTime: 2020-02-13T07:32:00Z
-    webUrl: "https://www.newindianexpress.com/business/2020/feb/13/chatbots-ai-to-transform-travel-industry-says-this-start-up-2102602.html"
-    ampWebUrl: "https://www.newindianexpress.com/business/2020/feb/13/chatbots-ai-to-transform-travel-industry-says-this-start-up-2102602.amp"
-    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2020/feb/13/chatbots-ai-to-transform-travel-industry-says-this-start-up-2102602.amp"
-    type: article
-    provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 57
-    images:
-      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/2/13/w600X390/SCS.jpg"
-        width: 600
-        height: 390
 
 secured: "217O7x8bvnvsjJcgxxvaYATcQGTGi+BCvuT/PW/+bHpRz2dl4TmocfUvI9lT9VLxPNC7JaQhHBSbeWFhnO2u44XP0HMVoBraH7lUnUgEe2YpQXc2Y9ctE8mm9+K0ws0O9B26bUYA/DH2i0wIE+Iox2hyL0tUNmBWM/dczotJBN4egAyGmPreenyQCaMMuAn6Rz1p/YOKwFBWuU+Q/6RIapxzuG4H3PyFfronwnc8pC5F/lJJSpy2YmTIdsnZKQ4WmZBBQkNIjElxYjkXVIy0pxh5QEYmQqEcBT0JC/nK1eHO0PmclQwDFfnSXY9dxHkO;rFK55wf3+GTGr09jxvsPWg=="
 ---

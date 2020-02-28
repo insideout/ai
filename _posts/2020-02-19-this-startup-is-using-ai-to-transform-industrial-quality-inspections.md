@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/jimvinoski/2020/02/19/this-startup-is-u
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jimvinoski/2020/02/19/this-startup-is-using-ai-to-transform-industrial-quality-inspections/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -30,21 +30,6 @@ images:
     title: "This Startup Is Using AI To Transform Industrial Quality Inspections"
 
 related:
-  - title: "Chatbots, AI to transform travel industry, says this start-up"
-    excerpt: "Having known the importance of digital technology in expanding businesses, travel companies are now using artificial intelligence (AI), chatbots and other applications to transform customers’ experience to attract more travellers and retain their clients, according to travel aggregator Shoes on Loose. This Delhi-based travel startup was ..."
-    publishedDateTime: 2020-02-13T07:32:00Z
-    webUrl: "https://www.newindianexpress.com/business/2020/feb/13/chatbots-ai-to-transform-travel-industry-says-this-start-up-2102602.html"
-    ampWebUrl: "https://www.newindianexpress.com/business/2020/feb/13/chatbots-ai-to-transform-travel-industry-says-this-start-up-2102602.amp"
-    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2020/feb/13/chatbots-ai-to-transform-travel-industry-says-this-start-up-2102602.amp"
-    type: article
-    provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 57
-    images:
-      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/2/13/w600X390/SCS.jpg"
-        width: 600
-        height: 390
   - title: "How Artificial Intelligence is Transforming the Travel Industry"
     excerpt: "The business process and customer services in every dominant industry have significantly developed with the assistance of artificial intelligence. There are several AI software extensively used among the sectors like Machine Learning, Chatbots, Internet of Things, and Neural Networks. However, among this considerable list, new software has also ..."
     publishedDateTime: 2020-02-26T08:43:00Z

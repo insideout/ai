@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-19T09:57:00Z
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-retail-market-2020-challenges-and-development-opportunities-till-2025-2020-02-19"
 type: article
 quality: 68
-heat: 238
+heat: 228
 published: true
 
 provider:
@@ -224,15 +224,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 11
-  - title: "Mantra Labs Announces New Report Addressing Insurance Challenges, Solutions & Ripe Investment Opportunities in AI in 2020"
-    excerpt: "“The State of AI in Insurance 2020” is Mantra Labs Point of View (POV ... The company also has strategic technology partnerships with MongoDB, IBM Watson, Nvidia, and Microsoft Azure."
-    publishedDateTime: 2020-02-13T08:06:00Z
-    webUrl: "https://www.pr.com/press-release/805480"
-    type: article
-    provider:
-      name: PR
-      domain: pr.com
-    quality: 0
 
 secured: "q3AsIQAvkz9hyKuHBiCj93X5dJ5H+23lpsxuEfKBHb+DVaht83kQebyIV81HWJQz2AFqdbu8JZ8WFnSdnfiOeZWLtNygaVjPAzrEE2ki8Pq+yE+hq2KFNpnjE5lMiZHoccpTZOuKD6oE1PdSQgHE+X/hPBWYrMhQg8eQR60QXLzsobpnFTUB5bje1zuASRL7mXwYxVyjXksY3IuL+Ixq8lfwiTgErBMmlOFxy7ceO4VreeVuFIyhIK6KRBzkT2ZHDniZPeSJQkENip/oY12Oe8MTgw3z82mecQgHQ0a6E+oVUQnmsjfgCsOq2xsvqJGN;oALOie70dwvf1S985oNVkA=="
 ---

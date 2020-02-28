@@ -221,15 +221,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 11
-  - title: "Mantra Labs Announces New Report Addressing Insurance Challenges, Solutions & Ripe Investment Opportunities in AI in 2020"
-    excerpt: "“The State of AI in Insurance 2020” is Mantra Labs Point of View (POV ... The company also has strategic technology partnerships with MongoDB, IBM Watson, Nvidia, and Microsoft Azure."
-    publishedDateTime: 2020-02-13T08:06:00Z
-    webUrl: "https://www.pr.com/press-release/805480"
-    type: article
-    provider:
-      name: PR
-      domain: pr.com
-    quality: 0
 
 secured: "aItPkrHAFGd9HvtT29C0LvGyXSOcdBuoOaY3ujVFTx8sRSFl6d0kkpxEo3tuz22zH8XHKMFGUncSpwz+wfeL1njm5rPSzUQzmEd3pZCkqBS5LCxqn5aknN0yX4dPJxbxRSnqJSQSHYwy0aivE/TIKt75UAoCeIPQSO7jlClRgsEOJhRB/E/8RR8l4/KtKdMjh44BjXk4Y/04qkNXnvPQur4Wg26b+CRNW+5Cw9ae5byqgS2bdpISJZE1nIEwx163ht94IPAse9nZkDIdbPH4365FerdHzmyEMvuyuTQpP6okwHEImpiR2Ch36tAg9dQ3;YqrtoW1wUuT0gpQS/O1+cA=="
 ---
