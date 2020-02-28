@@ -29,21 +29,6 @@ images:
     title: "SentinelOne raises $200 million for its AI security platform at a $1 billion valuation"
 
 related:
-  - title: "Intuition Robotics raises $36 million to bring AI companions to everyone"
-    excerpt: "Israeli robotics startup Intuition Robotics has raised $36 million in a series B round of funding co-led by Sparx Group and OurCrowd, with participation from Samsung Next, Toyota AI Ventures, Bloomberg Beta, iRobot, Sompo Holdings, Union Tech Ventures, Happiness Capital, and Capital Point. Founded in 2015, Intuition Robotics is creating what ..."
-    publishedDateTime: 2020-02-13T12:00:00Z
-    webUrl: "https://venturebeat.com/2020/02/13/intuition-robotics-raises-36-million-to-bring-ai-companions-to-everyone/"
-    ampWebUrl: "https://venturebeat.com/2020/02/13/intuition-robotics-raises-36-million-to-bring-ai-companions-to-everyone/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/13/intuition-robotics-raises-36-million-to-bring-ai-companions-to-everyone/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 218
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2017/07/still_002.png?fit=1270%2C748&strip=all"
-        width: 1270
-        height: 748
   - title: "Endpoint Protection Vendor SentinelOne Raises $200 Million, Eyes IPO"
     excerpt: "The Series E funding comes just eight months after SentinelOne closed a $120 million Series D round, and will help the fast-growing endpoint security vendor expand its geographic footprint in Europe and Asia. By Michael Novinson February 19, 2020, 11:30 AM EST SentinelOne Wednesday closed a $200 ... raise any more money prior to filing for an ..."
     publishedDateTime: 2020-02-19T17:27:00Z
@@ -57,90 +42,77 @@ related:
       - url: "https://www.crn.com/resources/025a-0ebd3d78ff5f-cb22610bd78b-1000/86796455.jpeg"
         width: 399
         height: 399
-  - title: "Intuition Robotics raises $36M for its empathetic digital companion"
-    excerpt: "Toyota previously said that it wanted to bring an empathetic AI assistant to the LQ that could create a bond between driver and car. Intuition Robotics’s Q platform helps power this assistant ... “We assume people will start doing similar things. There’s a lot more work to do. […] A big part of the work is to increase our research ..."
-    publishedDateTime: 2020-02-13T12:03:00Z
-    webUrl: "https://techcrunch.com/2020/02/13/intuition-robotics-raises-36m-for-its-empathetic-digital-companion/"
-    ampWebUrl: "https://techcrunch.com/2020/02/13/intuition-robotics-raises-36m-for-its-empathetic-digital-companion/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/13/intuition-robotics-raises-36m-for-its-empathetic-digital-companion/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 119
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/02/ElliQ6.jpg?w=1024"
-        width: 1024
-        height: 683
-  - title: "Intuition Robotics raises $36M for cognitive agents for seniors, smart vehicles"
-    excerpt: "Intuition Robotics Ltd., which has been developing cognitive agents to interact with ... as well as socially engaged. The company’s “Q” cognitive artificial intelligence product, which powers EllliQ, is available to third parties, starting with automakers. “This investment will fuel the evolution of agents from utilitarian digital ..."
-    publishedDateTime: 2020-02-13T14:05:00Z
-    webUrl: "https://www.therobotreport.com/intuition-robotics-series-b-cognitive-agents/"
-    type: article
-    provider:
-      name: The Robot Report
-      domain: therobotreport.com
-    quality: 95
-    images:
-      - url: "https://www.therobotreport.com/wp-content/uploads/2020/02/ElliQ_3-1024x773-1.jpg"
-        width: 1024
-        height: 773
-  - title: "OnSiteIQ raises $4.5 million to improve construction safety using AI and 360-degree imagery"
-    excerpt: "OnSiteIQ today announced that it has raised $4.5 million Series A round to grow its AI-powered safety analysis of 360-degree imagery from construction sites. In addition to supplying computer vision for risk assessment reports, the company’s platform is made to stitch together imagery so construction site managers can examine progress ..."
-    publishedDateTime: 2020-02-18T18:23:00Z
-    webUrl: "https://venturebeat.com/2020/02/18/onsiteiq-raises-4-5-million-to-improve-construction-safety-using-ai-and-360-degree-imagery/"
-    ampWebUrl: "https://venturebeat.com/2020/02/18/onsiteiq-raises-4-5-million-to-improve-construction-safety-using-ai-and-360-degree-imagery/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/18/onsiteiq-raises-4-5-million-to-improve-construction-safety-using-ai-and-360-degree-imagery/amp/"
+  - title: "L1ght raises $15 million for AI that protects children from online toxicity"
+    excerpt: "L1ght, a fledgling AI startup that wants to help technology companies combat online toxicity, bullying, and abuse, has raised $15 million in a seed round of funding from Mangrove Capital Partners, Tribeca Venture Partners, and Western Technology Investment. The company’s substantial seed funding comes as tech companies are struggling to ..."
+    publishedDateTime: 2020-02-25T12:02:00Z
+    webUrl: "https://venturebeat.com/2020/02/25/l1ght-raises-15-million-for-ai-that-protects-children-from-online-toxicity/"
+    ampWebUrl: "https://venturebeat.com/2020/02/25/l1ght-raises-15-million-for-ai-that-protects-children-from-online-toxicity/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/25/l1ght-raises-15-million-for-ai-that-protects-children-from-online-toxicity/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 77
+    quality: 87
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/02/photo-1478486982180-2de2fafa19f9.jpeg?fit=1502%2C751&strip=all"
-        width: 1502
-        height: 751
-  - title: "London start-up raises $20m to bring AI to centuries-old insurance industry"
-    excerpt: "Andrew Yeoman, the company’s chief executive, said his business can help insurance companies make better decisions on which customers to insure by using AI to process vast amounts of data. The investment into the start-up was led by Albion Ventures with participation from insurance technology investor EOS Venture Partners and IQ Capital."
-    publishedDateTime: 2020-02-17T05:30:00Z
-    webUrl: "https://www.telegraph.co.uk/technology/2020/02/17/london-start-up-raises-20m-bring-ai-centuries-old-insurance/"
-    ampWebUrl: "https://www.telegraph.co.uk/technology/2020/02/17/london-start-up-raises-20m-bring-ai-centuries-old-insurance/amp/"
-    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/02/17/london-start-up-raises-20m-bring-ai-centuries-old-insurance/amp/"
+      - url: "https://venturebeat.com/wp-content/uploads/2020/02/GettyImages-940967998.jpg?fit=1590%2C893&strip=all"
+        width: 1590
+        height: 893
+  - title: "Driverless car startup Pony.ai raises $462 million at a $3 billion valuation"
+    excerpt: "In a sign that investors’ enthusiasm for driverless cars hasn’t dampened yet, Pony.ai today secured a whopping $462 million in fresh funding, $400 million of which came from Toyota. The capital infusion brings the Guangzhou- and Fremont, California-based startup’s total raised to about $800 million at a valuation north of $3 billion (up ..."
+    publishedDateTime: 2020-02-26T03:00:00Z
+    webUrl: "https://venturebeat.com/2020/02/25/driverless-car-startup-pony-ai-raises-462-million-at-a-3-billion-valuation/"
+    ampWebUrl: "https://venturebeat.com/2020/02/25/driverless-car-startup-pony-ai-raises-462-million-at-a-3-billion-valuation/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/25/driverless-car-startup-pony-ai-raises-462-million-at-a-3-billion-valuation/amp/"
     type: article
     provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 55
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 84
     images:
-      - url: "https://www.telegraph.co.uk/content/dam/technology/2020/02/13/Andrew-Yeoman_trans_NvBQzQNjv4BqF6ZbFw_tp6Di2QbhEmANynGTJFJS74MYhNY6w3GNbO8.jpg"
-        width: 1800
-        height: 1125
-  - title: "Conquest raises $3 million round with Portag3 to launch AI-powered financial planning"
-    excerpt: "Financial planning FinTech startup Conquest Planning has raised $3 million CAD in seed funding in anticipation of bringing its software to market sometime this year. The financing came from Portag3 Ventures and the FinTech strategic investments group at Eight Roads. Conquest marks the first Canadian investment announcement for Portag3 since ..."
-    publishedDateTime: 2020-02-19T13:18:00Z
-    webUrl: "https://betakit.com/conquest-raises-3-million-round-with-portag3-to-launch-ai-powered-financial-planning/"
+      - url: "https://venturebeat.com/wp-content/uploads/2019/08/ad1de834-abf3-471e-b4cc-3408c731b4f4-e1566788588385.png?fit=1200%2C600&strip=all"
+        width: 1200
+        height: 600
+  - title: "SentinelOne raises $200M at a $1.1B valuation to expand its AI-based endpoint security platform"
+    excerpt: "“The landscape is expanding and it is getting very hard to monitor not just what your network looks like but what your attackers are looking for.” This is where an AI-based solution like SentinelOne’s comes into play. The company has roots in the Israeli cyberintelligence community but is based out of Mountain View, and its platform is ..."
+    publishedDateTime: 2020-02-19T17:20:00Z
+    webUrl: "https://techcrunch.com/2020/02/19/sentinelone-raises-200m-at-a-1-1b-valuation-to-expand-its-ai-based-endpoint-security-platform/"
+    ampWebUrl: "https://techcrunch.com/2020/02/19/sentinelone-raises-200m-at-a-1-1b-valuation-to-expand-its-ai-based-endpoint-security-platform/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/19/sentinelone-raises-200m-at-a-1-1b-valuation-to-expand-its-ai-based-endpoint-security-platform/amp/"
     type: article
     provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 32
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 75
     images:
-      - url: "https://cdn.betakit.com/wp-content/uploads/2020/02/carlos-muza-hpjSkU2UYSU-unsplash-2-1024x729.jpg"
+      - url: "https://techcrunch.com/wp-content/uploads/2018/05/gettyimages-914788014.jpg?w=1024"
         width: 1024
-        height: 729
-  - title: "The Design Automation Conference to Showcase an AI Hardware Pavilion, Broadening the 2020 Exhibition Lineup"
-    excerpt: "AI hardware is driving the largest wave of chip-design activity in decades. Understanding and harnessing the enormous computational and application potential of AI is fertile ground for new ideas and startup providers. Converting these ideas into working hardware circuits and systems is the core value of design automation, and the major ..."
-    publishedDateTime: 2020-02-13T16:34:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-design-automation-conference-showcase-an-ai-hardware-pavilion-/2020/02/13/9097887.htm"
+        height: 544
+  - title: "Karius raises $165 million to identify infectious diseases with AI"
+    excerpt: "Approximately 9% of the U.S. population has been diagnosed with an infectious disease. Worldwide, these diseases are the second-leading cause of death after heart disease, and they’re responsible for more deaths annually than cancer. Mickey Kertesz and Tim Blauwkamp — who worked together at Moleculo, a startup spun out of Stanford that ..."
+    publishedDateTime: 2020-02-24T13:56:00Z
+    webUrl: "https://venturebeat.com/2020/02/24/karius-raises-165-million-to-identify-infectious-diseases-with-ai/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 21
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
     images:
-      - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
-        width: 252
-        height: 335
+      - url: "https://venturebeat.com/wp-content/uploads/2020/02/5bee2917-7134-4dc7-adae-38b0b9013ac7-e1582259412500.png?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
+  - title: "AI startup Laiye raises $42 million in Series C funding"
+    excerpt: "Artificial intelligence firm Laiye has raised $42 million in Series C funding, the company announced on Monday. The round comes as Chinese startups scramble for cash amid a new flu-like epidemic that has swept the country. Why it matters: Fundraising by Chinese startups has this year slumped by around 60% year on year to $1.8 billion. The ..."
+    publishedDateTime: 2020-02-24T07:52:00Z
+    webUrl: "https://technode.com/2020/02/24/startup-laiye-series-c-42-million-funding/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 37
+    images:
+      - url: "https://technode.com/wp-content/uploads/2016/08/AI.jpg"
+        width: 450
+        height: 375
 
 secured: "FF1nsEDQwNias1s1HM6PM7HKNGOT3OW/nQscJ+S0shTHj14i+QrTbdiCr65c4yu7OIx7nw9b18Valha6H7jqOpD8xukOvVqLqEYmn/eESsMgrUFwMGf9cUp7cpbh9wJjIR5B1V/lCn1HW91q4nBp+wrAZdraFlmbGORF+Md468dT1GSSdRpLY61xLuy2de2+OH7IblMlfDU+n1dFJ0FesEj3jhNcPn1WaKg7BAfmKUH3GI1FdBLQB+Y5t++4KYdSoJwkMbpC7wGP69mbEAkhMOm3SM+/GY83RfxlEFXI/3b6h8x4eHjCFtW3+NskyP6X5VocMPRR9sNtuAeoQzabd0rniMkDXiPSI+oHBGAoVxMhSeYgBzhQsIFntpmAr4grMZy26gE4eoApfxs5/H3T6x/LpzYSIoT0yLVxSMsQtvYrq52ozMNfaetnJkNr1hIZTcEa6TCovSeveda2ofc0+J3eehg8l21H2eSPbSyIzaU=;8trIYd2tVQciLgkR3tlXtA=="
 ---

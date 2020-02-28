@@ -56,21 +56,6 @@ related:
       - url: "https://www.telegraph.co.uk/content/dam/technology/2019/03/08/graphcore-1_trans_NvBQzQNjv4BqnY32puTRmJBD0IQz1kt_ZVqZFC3fB4GuhEoILEGfoek.png"
         width: 1402
         height: 876
-  - title: "SentinelOne raises $200M at a $1.1B valuation to expand its AI-based endpoint security platform"
-    excerpt: "“The landscape is expanding and it is getting very hard to monitor not just what your network looks like but what your attackers are looking for.” This is where an AI-based solution like SentinelOne’s comes into play. The company has roots in the Israeli cyberintelligence community but is based out of Mountain View, and its platform is ..."
-    publishedDateTime: 2020-02-19T17:20:00Z
-    webUrl: "https://techcrunch.com/2020/02/19/sentinelone-raises-200m-at-a-1-1b-valuation-to-expand-its-ai-based-endpoint-security-platform/"
-    ampWebUrl: "https://techcrunch.com/2020/02/19/sentinelone-raises-200m-at-a-1-1b-valuation-to-expand-its-ai-based-endpoint-security-platform/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/19/sentinelone-raises-200m-at-a-1-1b-valuation-to-expand-its-ai-based-endpoint-security-platform/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 75
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2018/05/gettyimages-914788014.jpg?w=1024"
-        width: 1024
-        height: 544
   - title: "UK-based AI chip maker Graphcore raises extra USD 150 million"
     excerpt: "UK-based AI chip maker Graphcore has secured new capital of USD 150 million to support continued R&D and global expansion. The private placement was supported by leading financial asset managers, investment trusts and growth equity funds. New investors ..."
     publishedDateTime: 2020-02-25T13:24:00Z

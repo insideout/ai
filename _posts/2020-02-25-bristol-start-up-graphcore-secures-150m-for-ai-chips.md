@@ -43,21 +43,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2018/12/Graphcore-server-chassis.jpg?w=1024"
         width: 1024
         height: 682
-  - title: "SentinelOne raises $200M at a $1.1B valuation to expand its AI-based endpoint security platform"
-    excerpt: "“The landscape is expanding and it is getting very hard to monitor not just what your network looks like but what your attackers are looking for.” This is where an AI-based solution like SentinelOne’s comes into play. The company has roots in the Israeli cyberintelligence community but is based out of Mountain View, and its platform is ..."
-    publishedDateTime: 2020-02-19T17:20:00Z
-    webUrl: "https://techcrunch.com/2020/02/19/sentinelone-raises-200m-at-a-1-1b-valuation-to-expand-its-ai-based-endpoint-security-platform/"
-    ampWebUrl: "https://techcrunch.com/2020/02/19/sentinelone-raises-200m-at-a-1-1b-valuation-to-expand-its-ai-based-endpoint-security-platform/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/19/sentinelone-raises-200m-at-a-1-1b-valuation-to-expand-its-ai-based-endpoint-security-platform/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 75
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2018/05/gettyimages-914788014.jpg?w=1024"
-        width: 1024
-        height: 544
   - title: "AI chipmaker Graphcore nears $2bn valuation after fresh funding round"
     excerpt: "It is now valued at $1.95bn. The Bristol-based startup is best known for its Intelligence Processor Unit, which is designed for use in AI software. In November Graphcore signed a deal with Microsoft for the use of its chips in the tech giant’s cloud computing business. It has also secured a partnership with Dell. Graphcore chief executive ..."
     publishedDateTime: 2020-02-25T15:36:00Z

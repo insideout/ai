@@ -2,51 +2,6 @@
   "page": 11,
   "value": [
     {
-      "path": "_posts/_archive/2020-01-08-is-baidu-stock-a-buy.md",
-      "title": "Is Baidu Stock a Buy?",
-      "excerpt": "Baidu claims to have over 135 partners that support its self-driving cars initiative, and while we are still in the early stages of the autonomous cars revolution, Baidu is looking to maintain an ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/01/08/is-baidu-stock-a-buy.aspx",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/01/08/is-baidu-stock-a-buy.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/08/is-baidu-stock-a-buy.aspx",
-      "publishedDateTime": "2020-01-08T07:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F552479%2Fgettyimages-647336420.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": "Is Baidu Stock a Buy?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-01-08-new-approach-using-deep-learning-could-speed-up-brain-image-microscopy-by-16-times.md",
       "title": "New approach using deep learning could speed up brain image microscopy by 16 times",
       "excerpt": "They believed that deep learning -- a form of machine-learning that uses multiple layers of analysis to progressively extract higher level features from raw input -- could be very useful for increasing the resolution of microscope images, a process called ...",
@@ -2160,6 +2115,43 @@
       "topics": [
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-13-ag-tech-startup-small-robot-is-seeking-700000-on-crowdcube-to-continue-development-of-autonomous-robot-ai-software.md",
+      "title": "Ag-Tech Startup Small Robot Is Seeking £700,000 on Crowdcube to Continue Development of Autonomous Robot & AI Software",
+      "excerpt": "using an autonomous robot and their AI software to deliver a weed map to paying customers. “Imagine a world in which we could use swarms of lightweight, smart machines to replace tractors and ...",
+      "heat": 60,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.crowdfundinsider.com/2020/01/156291-ag-tech-startup-small-robot-is-seeking-700000-on-crowdcube-to-continue-development-of-autonomous-robot-ai-software/",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2020/01/156291-ag-tech-startup-small-robot-is-seeking-700000-on-crowdcube-to-continue-development-of-autonomous-robot-ai-software/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/01/156291-ag-tech-startup-small-robot-is-seeking-700000-on-crowdcube-to-continue-development-of-autonomous-robot-ai-software/amp/",
+      "publishedDateTime": "2020-01-13T14:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2020/01/small-robot-1.jpeg",
+          "width": 570,
+          "height": 428,
+          "title": "Ag-Tech Startup Small Robot Is Seeking £700,000 on Crowdcube to Continue Development of Autonomous Robot & AI Software",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

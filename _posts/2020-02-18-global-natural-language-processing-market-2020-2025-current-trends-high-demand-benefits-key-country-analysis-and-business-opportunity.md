@@ -139,15 +139,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Automotive Artificial Intelligence Market Development Analysis 2020 to 2026"
-    excerpt: "Latest Trends Report On Global Automotive Artificial Intelligence Market 2020 with Upcoming Industry Trends, Size, Share, Top Companies Profiles, Growth Report and Forecast By 2026. Automotive Artificial Intelligence Market is a valuable source of insightful data for business strategists."
-    publishedDateTime: 2020-02-13T11:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-development-analysis-2020-to-2026-2020-02-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
   - title: "Data Science and Machine Learning Service Market 2020-2024 : Global Growth Drivers, Opportunities, Trends, And Forecasts"
     excerpt: "nbsp; Data Science and Machine Learning Service Market 2020 Description: - It analyses the market situation"
     publishedDateTime: 2020-02-25T09:28:00Z

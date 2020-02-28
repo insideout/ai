@@ -29,60 +29,90 @@ images:
     title: "SentinelOne raises $200M at a $1.1B valuation to expand its AI-based endpoint security platform"
 
 related:
-  - title: "Graphcore, the AI chipmaker, raises another $150M at a $1.95B valuation"
-    excerpt: "The UK has a strong history when it comes to chips and processors, but the global chip market has seen some ups and downs ... hardware and corresponding Poplar software — which is designed specifically for the kind of simultaneous, intensive calculations demanded of AI applications innovators create next generation machine intelligence ..."
-    publishedDateTime: 2020-02-25T11:37:00Z
-    webUrl: "https://techcrunch.com/2020/02/24/graphcore-the-ai-chipmaker-raises-another-150m-at-a-1-95b-valuation/"
-    ampWebUrl: "https://techcrunch.com/2020/02/24/graphcore-the-ai-chipmaker-raises-another-150m-at-a-1-95b-valuation/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/24/graphcore-the-ai-chipmaker-raises-another-150m-at-a-1-95b-valuation/amp/"
+  - title: "Endpoint Protection Vendor SentinelOne Raises $200 Million, Eyes IPO"
+    excerpt: "The Series E funding comes just eight months after SentinelOne closed a $120 million Series D round, and will help the fast-growing endpoint security vendor expand its geographic footprint in Europe and Asia. By Michael Novinson February 19, 2020, 11:30 AM EST SentinelOne Wednesday closed a $200 ... raise any more money prior to filing for an ..."
+    publishedDateTime: 2020-02-19T17:27:00Z
+    webUrl: "https://www.crn.com/news/security/endpoint-protection-vendor-sentinelone-raises-200-million-eyes-ipo"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 106
+      name: CRN
+      domain: crn.com
+    quality: 137
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2018/12/Graphcore-server-chassis.jpg?w=1024"
-        width: 1024
-        height: 682
-  - title: "Bristol start-up Graphcore secures $150m for AI chips"
-    excerpt: "Graphcore has developed an intelligence processing unit, a microchip designed for artificial intelligence software. The start-up’s chips are designed for unpredictable decision making tasks, such as providing the brains to power driverless cars. The funding gives Graphcore $300m in cash reserves to expand its products. Chips designed by ..."
-    publishedDateTime: 2020-02-25T06:00:00Z
-    webUrl: "https://www.telegraph.co.uk/technology/2020/02/25/bristol-start-up-graphcore-secures-150m-ai-chips/"
-    ampWebUrl: "https://www.telegraph.co.uk/technology/2020/02/25/bristol-start-up-graphcore-secures-150m-ai-chips/amp/"
-    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/02/25/bristol-start-up-graphcore-secures-150m-ai-chips/amp/"
+      - url: "https://www.crn.com/resources/025a-0ebd3d78ff5f-cb22610bd78b-1000/86796455.jpeg"
+        width: 399
+        height: 399
+  - title: "L1ght raises $15 million for AI that protects children from online toxicity"
+    excerpt: "L1ght, a fledgling AI startup that wants to help technology companies combat online toxicity, bullying, and abuse, has raised $15 million in a seed round of funding from Mangrove Capital Partners, Tribeca Venture Partners, and Western Technology Investment. The company’s substantial seed funding comes as tech companies are struggling to ..."
+    publishedDateTime: 2020-02-25T12:02:00Z
+    webUrl: "https://venturebeat.com/2020/02/25/l1ght-raises-15-million-for-ai-that-protects-children-from-online-toxicity/"
+    ampWebUrl: "https://venturebeat.com/2020/02/25/l1ght-raises-15-million-for-ai-that-protects-children-from-online-toxicity/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/25/l1ght-raises-15-million-for-ai-that-protects-children-from-online-toxicity/amp/"
     type: article
     provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 78
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://www.telegraph.co.uk/content/dam/technology/2019/03/08/graphcore-1_trans_NvBQzQNjv4BqnY32puTRmJBD0IQz1kt_ZVqZFC3fB4GuhEoILEGfoek.png"
-        width: 1402
-        height: 876
-  - title: "AI chipmaker Graphcore nears $2bn valuation after fresh funding round"
-    excerpt: "It is now valued at $1.95bn. The Bristol-based startup is best known for its Intelligence Processor Unit, which is designed for use in AI software. In November Graphcore signed a deal with Microsoft for the use of its chips in the tech giant’s cloud computing business. It has also secured a partnership with Dell. Graphcore chief executive ..."
-    publishedDateTime: 2020-02-25T15:36:00Z
-    webUrl: "https://www.cityam.com/ai-chipmaker-graphcore-nears-2bn-valuation-after-fresh-funding-round/"
-    ampWebUrl: "https://www.cityam.com/ai-chipmaker-graphcore-nears-2bn-valuation-after-fresh-funding-round/amp/"
-    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/ai-chipmaker-graphcore-nears-2bn-valuation-after-fresh-funding-round/amp/"
+      - url: "https://venturebeat.com/wp-content/uploads/2020/02/GettyImages-940967998.jpg?fit=1590%2C893&strip=all"
+        width: 1590
+        height: 893
+  - title: "Driverless car startup Pony.ai raises $462 million at a $3 billion valuation"
+    excerpt: "In a sign that investors’ enthusiasm for driverless cars hasn’t dampened yet, Pony.ai today secured a whopping $462 million in fresh funding, $400 million of which came from Toyota. The capital infusion brings the Guangzhou- and Fremont, California-based startup’s total raised to about $800 million at a valuation north of $3 billion (up ..."
+    publishedDateTime: 2020-02-26T03:00:00Z
+    webUrl: "https://venturebeat.com/2020/02/25/driverless-car-startup-pony-ai-raises-462-million-at-a-3-billion-valuation/"
+    ampWebUrl: "https://venturebeat.com/2020/02/25/driverless-car-startup-pony-ai-raises-462-million-at-a-3-billion-valuation/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/25/driverless-car-startup-pony-ai-raises-462-million-at-a-3-billion-valuation/amp/"
     type: article
     provider:
-      name: City A.M.
-      domain: cityam.com
-    quality: 74
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 84
     images:
-      - url: "https://www.cityam.com/wp-content/uploads/2019/05/microchipgetty-57ed71e8f06ff-57ed71e90b437.jpg"
-        width: 839
-        height: 523
-  - title: "UK-based AI chip maker Graphcore raises extra USD 150 million"
-    excerpt: "UK-based AI chip maker Graphcore has secured new capital of USD 150 million to support continued R&D and global expansion. The private placement was supported by leading financial asset managers, investment trusts and growth equity funds. New investors ..."
-    publishedDateTime: 2020-02-25T13:24:00Z
-    webUrl: "https://www.telecompaper.com/news/uk-basec-ai-chip-maker-graphcore-raises-extra-usd-150-million--1327924"
+      - url: "https://venturebeat.com/wp-content/uploads/2019/08/ad1de834-abf3-471e-b4cc-3408c731b4f4-e1566788588385.png?fit=1200%2C600&strip=all"
+        width: 1200
+        height: 600
+  - title: "SentinelOne raises $200 million for its AI security platform at a $1 billion valuation"
+    excerpt: "The Mountain View-based startup has developed a platform that automates endpoint security using an AI engine. Its service focuses on detecting threats and responding to them by continually studying and learning from behavior on networks, which the company said allows customers to keep ahead of a constantly changing threat landscape."
+    publishedDateTime: 2020-02-19T16:30:00Z
+    webUrl: "https://venturebeat.com/2020/02/19/sentinelone-raises-200-million-for-its-ai-security-platform-1-billion-valuation/"
+    ampWebUrl: "https://venturebeat.com/2020/02/19/sentinelone-raises-200-million-for-its-ai-security-platform-1-billion-valuation/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/19/sentinelone-raises-200-million-for-its-ai-security-platform-1-billion-valuation/amp/"
     type: article
     provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 34
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 79
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/02/Screen-Shot-2018-04-04-at-10.28.09-e1582022593266.png?fit=1200%2C600&strip=all"
+        width: 1200
+        height: 600
+  - title: "Karius raises $165 million to identify infectious diseases with AI"
+    excerpt: "Approximately 9% of the U.S. population has been diagnosed with an infectious disease. Worldwide, these diseases are the second-leading cause of death after heart disease, and they’re responsible for more deaths annually than cancer. Mickey Kertesz and Tim Blauwkamp — who worked together at Moleculo, a startup spun out of Stanford that ..."
+    publishedDateTime: 2020-02-24T13:56:00Z
+    webUrl: "https://venturebeat.com/2020/02/24/karius-raises-165-million-to-identify-infectious-diseases-with-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/02/5bee2917-7134-4dc7-adae-38b0b9013ac7-e1582259412500.png?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
+  - title: "AI startup Laiye raises $42 million in Series C funding"
+    excerpt: "Artificial intelligence firm Laiye has raised $42 million in Series C funding, the company announced on Monday. The round comes as Chinese startups scramble for cash amid a new flu-like epidemic that has swept the country. Why it matters: Fundraising by Chinese startups has this year slumped by around 60% year on year to $1.8 billion. The ..."
+    publishedDateTime: 2020-02-24T07:52:00Z
+    webUrl: "https://technode.com/2020/02/24/startup-laiye-series-c-42-million-funding/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 37
+    images:
+      - url: "https://technode.com/wp-content/uploads/2016/08/AI.jpg"
+        width: 450
+        height: 375
 
 secured: "Qi2HWatZXWHemloVOLT7Tsz+mzxoxD4H/4r3FvFs3pTtLQ54hcEatD/vaZzbHkJ/g6h3cKkTH6yonlRk9vDpCX4g+TxGTDsYPI7506OEZ/mYtyWO9FI5xswsmf3Ad83qqDqTYOM04tue76DS1c6d73y1BZZtwjfAXH3KJhra/jenqTAbSil4Xvt0pyKzh9UVyKce6EqT2FKBuJj12XrUI77HIMaoYrs6kbicGiC0gmIIJSigzVIYtScvOl78engI/98KZK6l2nAppBcR910Oj/yqqZjVFwz7jnWPX1s9F9UPsbNWkqHMGrGfiIoB30TklXtSAzwVyDol686VKBPfh30Xl1QieCOYNVDvtRH8ELSzn5L73FwIUhJqbFglTQRD6DmcOwHITVqxjsMW4Y6HK+yE5MDDnef2OLpR+GDDGKnCkd4G/3Sthovsw2gmuWVhwHeB50k7z0CSQuV1neQdhf4HChxPOQgf283v3jXe4Sc=;Iqa7s9Z8SpTgQVC0bknIyg=="
 ---

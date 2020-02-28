@@ -70,19 +70,6 @@ related:
       - url: "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/2.jpg"
         width: 400
         height: 300
-  - title: "AI startup Laiye raises $42 million in Series C funding"
-    excerpt: "Artificial intelligence firm Laiye has raised $42 million in Series C funding, the company announced on Monday. The round comes as Chinese startups scramble for cash amid a new flu-like epidemic that has swept the country. Why it matters: Fundraising by Chinese startups has this year slumped by around 60% year on year to $1.8 billion. The ..."
-    publishedDateTime: 2020-02-24T07:52:00Z
-    webUrl: "https://technode.com/2020/02/24/startup-laiye-series-c-42-million-funding/"
-    type: article
-    provider:
-      name: TechNode
-      domain: technode.com
-    quality: 37
-    images:
-      - url: "https://technode.com/wp-content/uploads/2016/08/AI.jpg"
-        width: 450
-        height: 375
   - title: "IoT Startup FogHorn Raises $25 Million Series C Funding As Edge AI Takes Off"
     excerpt: "We've been pushing the state of the art on how you do AI and machine learning on high-velocity data,' FogHorn CEO David King tells CRN about the startup's edge intelligence capabilities. By Dylan Martin February 26, 2020, 11:22 AM EST FogHorn Systems CEO David King said when the startup got its start nearly five years ago, people thought edge ..."
     publishedDateTime: 2020-02-26T16:50:00Z

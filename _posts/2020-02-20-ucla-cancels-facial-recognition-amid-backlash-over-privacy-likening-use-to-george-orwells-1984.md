@@ -400,15 +400,6 @@ related:
       - url: "https://www.twincities.com/wp-content/themes/twincities/static/images/twincities.jpg"
         width: 1280
         height: 720
-  - title: "Rights groups join student demands to bar facial recognition at colleges"
-    excerpt: "The ACLU, EFF and several other groups sign a letter of support for the student demands. Students shouldn't have to worry that colleges and universities are tracking their movements with facial recognition,"
-    publishedDateTime: 2020-02-13T11:09:00Z
-    webUrl: "https://www.cnet.com/news/rights-groups-join-student-demands-to-bar-facial-recognition-at-colleges/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 48
   - title: "5 questions policymakers should ask about facial recognition, law enforcement, and algorithmic bias"
     excerpt: "“As of 2016, over half of the faces of American adults were part of facial recognition databases accessible to law enforcement.” Here is the big conundrum though: Only 36% of adults believe that facial recognition is being used responsibly by private companies, which are often selling facial recognition systems to law enforcement."
     publishedDateTime: 2020-02-20T05:05:00Z

@@ -35,19 +35,6 @@ related:
       name: The Verge
       domain: theverge.com
     quality: 66
-  - title: "Boston Dynamics’ dog robot Spot is going to patrol an oil rig in Norway"
-    excerpt: "The news: Spot, a four-legged robot made by Boston Dynamics, has got one of its first real-world assignments: it will be start being used by oil and gas firm Aker BP to patrol ... Testing: Aker BP has an agreement with an AI software company called Cognite to work out which tasks it is best suited to, then deploy it in the wild."
-    publishedDateTime: 2020-02-13T12:05:00Z
-    webUrl: "https://www.technologyreview.com/f/615194/boston-dynamics-spot-dog-robot-is-going-to-patrol-an-oil-rig-in-norway/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 39
-    images:
-      - url: "https://cdn.technologyreview.com/i/images/spot-mini-aker-bp.png?sw=1200&cx=0&cy=0&cw=588&ch=331"
-        width: 588
-        height: 331
   - title: "Video: Boston Dynamics’ robot Spot goes to work on an oil rig"
     excerpt: "A new pilot project is being undertaken by Aker BP, one of the largest oil companies in Europe, and Cognite, an artificial intelligence (AI) software-as-a-service (SaaS), to explore how robots can improve offshore operations. Part of the project is using Boston Dynamics’ robot Spot, the quadruped robot that is famous for opening doors."
     publishedDateTime: 2020-02-13T13:49:00Z

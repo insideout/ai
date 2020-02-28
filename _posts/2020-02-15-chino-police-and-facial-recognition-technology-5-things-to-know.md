@@ -385,15 +385,6 @@ related:
       - url: "https://www.twincities.com/wp-content/themes/twincities/static/images/twincities.jpg"
         width: 1280
         height: 720
-  - title: "Rights groups join student demands to bar facial recognition at colleges"
-    excerpt: "The ACLU, EFF and several other groups sign a letter of support for the student demands. Students shouldn't have to worry that colleges and universities are tracking their movements with facial recognition,"
-    publishedDateTime: 2020-02-13T11:09:00Z
-    webUrl: "https://www.cnet.com/news/rights-groups-join-student-demands-to-bar-facial-recognition-at-colleges/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 48
   - title: "UCLA cancels facial recognition amid backlash over privacy likening use to George Orwell's '1984'"
     excerpt: "UCLA cancelled a plan to use facial recognition technology on campus after students protested over privacy concerns, including one critique that likened use of the digital surveillance to George Orwell's book, '1984.' The school issued a statement on Wednesday, saying that its plan for using facial recognition was scrapped due to the privacy ..."
     publishedDateTime: 2020-02-20T19:16:00Z

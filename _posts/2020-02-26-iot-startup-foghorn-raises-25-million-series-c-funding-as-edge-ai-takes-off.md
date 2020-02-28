@@ -79,19 +79,6 @@ related:
       - url: "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/2.jpg"
         width: 400
         height: 300
-  - title: "AI startup Laiye raises $42 million in Series C funding"
-    excerpt: "Artificial intelligence firm Laiye has raised $42 million in Series C funding, the company announced on Monday. The round comes as Chinese startups scramble for cash amid a new flu-like epidemic that has swept the country. Why it matters: Fundraising by Chinese startups has this year slumped by around 60% year on year to $1.8 billion. The ..."
-    publishedDateTime: 2020-02-24T07:52:00Z
-    webUrl: "https://technode.com/2020/02/24/startup-laiye-series-c-42-million-funding/"
-    type: article
-    provider:
-      name: TechNode
-      domain: technode.com
-    quality: 37
-    images:
-      - url: "https://technode.com/wp-content/uploads/2016/08/AI.jpg"
-        width: 450
-        height: 375
 
 secured: "e66FzoxCZp3K1C+mXqIg1AY5esfic9qrqTNrpQYccF4kGQLg8H+JesB3wtMz5tlUJGvb/W9GiCD+6725+/zDhr3TVEdJLBvGLWTgGc7K5et9Gy7EAYryglr/LfOlBJnnptnnl6nUSpJJXX4jcrzHzqBAWlJ37LbhS2H6CtDqcZEu2/55PJbg3kmf4atE0HnR1YtyZLR90vWb5+6Isr/Sl/LxSZM5h48kP+z7GC9YRMo2FzlUcE/59HlWuEoOS5NoEFQQH/iiROjk79lkcLovxs85tn5xN/WckSOSwrU5YIlVYQjiOUHECJLDip6i8UkOg7um3JUxT96pzv0h7jqm73+3SwN9fvQCLZ106Z5mJGxQdcixtnXxaxf5okS1s2DFIENxHpopybw4o9H6L0KLaOdsDS6Pplxne9X4Yjxs+TSXtCWGH8qie44I5lJJ05fYFeFnOL5RHZF9iBzFy+gaBWba4wN89OhgrnJsTAYqtgY=;kH771ufpWdjD6DHdN5VqMA=="
 ---

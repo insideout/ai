@@ -25,17 +25,6 @@ images:
     height: 4000
     title: "Automation Is Probably Coming for Your Job Too"
 
-related:
-  - title: "This robot trash bin automatically sorts your recyclables for you"
-    excerpt: "The office is one of the first to use the technology, called TrashBot, from a startup called CleanRobotics ... [Photo: Clean Robotics] He thought that technology could help. “We started looking at the diminishing costs of sensors and robotic components and the increasing accessibility of algorithms and AI systems and we thought, maybe we ..."
-    publishedDateTime: 2020-02-13T11:35:00Z
-    webUrl: "https://www.fastcompany.com/90462635/this-robot-trash-bin-automatically-sorts-your-recyclables-for-you?partner=feedburner"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 19
-
-secured: "k+GUlXTEMDJGHisIKlCDzJyQXIZp96L8G9zKmoFwT3furU2p6++Jh7nrxuCmr166ce3b2DPOWgRdKhBs0G3GB2WZQpra1GnC1nXMcIJ1mtgo1bLfbVykHzaJXKDlIazoZgf2QOroFpfJgI0aakEt3QA9dRF/5APCx6anp619JINmyDrqdCP/56jR3M7EmGRi6z5Tq+N7ybwUdclCsENGW/+Y8EOXevuSxeK14RHUymPjIsJoetPPeFVvfxSRoHaHuv9igpIiEb43dtat1otYqGf6L5wDcstWazaVb1+aByjAVR4W44fmrHiVFdSkHWBu;y8KKaSA2liz/YzW88AZJXA=="
+secured: "SJprm+lc9dfM7NWcqcuV4M+anUksBuw8dLBXALoM9puKlA1Tlh5h5xq0UW5+9BWvYvHUxBkMmiL7ayNqH+g1Ovnsta3QciEzNMyHz1m53iecgy2p9aOC9CU7WcHMa2Z6PJ8TxCmW1J2SqL/mqvMuZEcmDTiaV/dwzuOyQcZ/EYujLxHv99DInDQGoDKDEQcurTwOgwDWadBXPqqsWZMmpH7BamPi7yWh4MrWCBKTFLrpcZTK15PaGrKsjmxMPrNZMfcrBCvJGiu+bnkadi0J5t0ERagyGHc4heXeDQUHAI2q9PdDdOF9v43Tlj4Bam8U;GBFn7V+mSf0KXCXQ9Z9l9w=="
 ---
 

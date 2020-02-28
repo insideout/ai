@@ -69,21 +69,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/02/SambaNovaLogo_H_F.jpg?fit=1200%2C627&strip=all"
         width: 1200
         height: 627
-  - title: "L1ght raises $15 million for AI that protects children from online toxicity"
-    excerpt: "L1ght, a fledgling AI startup that wants to help technology companies combat online toxicity, bullying, and abuse, has raised $15 million in a seed round of funding from Mangrove Capital Partners, Tribeca Venture Partners, and Western Technology Investment. The company’s substantial seed funding comes as tech companies are struggling to ..."
-    publishedDateTime: 2020-02-25T12:02:00Z
-    webUrl: "https://venturebeat.com/2020/02/25/l1ght-raises-15-million-for-ai-that-protects-children-from-online-toxicity/"
-    ampWebUrl: "https://venturebeat.com/2020/02/25/l1ght-raises-15-million-for-ai-that-protects-children-from-online-toxicity/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/25/l1ght-raises-15-million-for-ai-that-protects-children-from-online-toxicity/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/02/GettyImages-940967998.jpg?fit=1590%2C893&strip=all"
-        width: 1590
-        height: 893
   - title: "Revl raises $5.2 million to stitch together videos with AI"
     excerpt: "Plus, users can remotely control the camera from up to 155 feet away using the app. Above: The Revl app. Revl isn’t the only startup applying AI and machine learning to video creation. Tel Aviv- and New York-based startup Wibbitz automatically converts news articles into short-form video, while Wochit analyzes text for keywords to piece ..."
     publishedDateTime: 2020-02-25T16:31:00Z
@@ -114,21 +99,21 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2018/07/M62YVotw-e1582302813917.png?fit=1200%2C600&strip=all"
         width: 1200
         height: 600
-  - title: "Driverless car startup Pony.ai raises $462 million at a $3 billion valuation"
-    excerpt: "In a sign that investors’ enthusiasm for driverless cars hasn’t dampened yet, Pony.ai today secured a whopping $462 million in fresh funding, $400 million of which came from Toyota. The capital infusion brings the Guangzhou- and Fremont, California-based startup’s total raised to about $800 million at a valuation north of $3 billion (up ..."
-    publishedDateTime: 2020-02-26T03:00:00Z
-    webUrl: "https://venturebeat.com/2020/02/25/driverless-car-startup-pony-ai-raises-462-million-at-a-3-billion-valuation/"
-    ampWebUrl: "https://venturebeat.com/2020/02/25/driverless-car-startup-pony-ai-raises-462-million-at-a-3-billion-valuation/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/25/driverless-car-startup-pony-ai-raises-462-million-at-a-3-billion-valuation/amp/"
+  - title: "OnSiteIQ raises $4.5 million to improve construction safety using AI and 360-degree imagery"
+    excerpt: "OnSiteIQ today announced that it has raised $4.5 million Series A round to grow its AI-powered safety analysis of 360-degree imagery from construction sites. In addition to supplying computer vision for risk assessment reports, the company’s platform is made to stitch together imagery so construction site managers can examine progress ..."
+    publishedDateTime: 2020-02-18T18:23:00Z
+    webUrl: "https://venturebeat.com/2020/02/18/onsiteiq-raises-4-5-million-to-improve-construction-safety-using-ai-and-360-degree-imagery/"
+    ampWebUrl: "https://venturebeat.com/2020/02/18/onsiteiq-raises-4-5-million-to-improve-construction-safety-using-ai-and-360-degree-imagery/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/18/onsiteiq-raises-4-5-million-to-improve-construction-safety-using-ai-and-360-degree-imagery/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 84
+    quality: 77
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/08/ad1de834-abf3-471e-b4cc-3408c731b4f4-e1566788588385.png?fit=1200%2C600&strip=all"
-        width: 1200
-        height: 600
+      - url: "https://venturebeat.com/wp-content/uploads/2020/02/photo-1478486982180-2de2fafa19f9.jpeg?fit=1502%2C751&strip=all"
+        width: 1502
+        height: 751
   - title: "Exclusive: Autonomous driving startup Pony.ai raises $500 million in Toyota-led funding- sources"
     excerpt: "The Silicon Valley-based startup Pony.ai - co-founded by CEO James Peng, a former executive at China’s Baidu (BIDU.O), and chief technology officer Lou Tiancheng, a former Google (GOOGL.O) and Baidu engineer - is already testing autonomous vehicles in California, Beijing and Guangzhou. The firm is focusing on achieving “Level 4”, or fully ..."
     publishedDateTime: 2020-02-26T01:08:00Z
@@ -144,19 +129,19 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200226&t=2&i=1495242339&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG1P02C"
         width: 817
         height: 545
-  - title: "Karius raises $165 million to identify infectious diseases with AI"
-    excerpt: "Approximately 9% of the U.S. population has been diagnosed with an infectious disease. Worldwide, these diseases are the second-leading cause of death after heart disease, and they’re responsible for more deaths annually than cancer. Mickey Kertesz and Tim Blauwkamp — who worked together at Moleculo, a startup spun out of Stanford that ..."
-    publishedDateTime: 2020-02-24T13:56:00Z
-    webUrl: "https://venturebeat.com/2020/02/24/karius-raises-165-million-to-identify-infectious-diseases-with-ai/"
+  - title: "Conquest raises $3 million round with Portag3 to launch AI-powered financial planning"
+    excerpt: "Financial planning FinTech startup Conquest Planning has raised $3 million CAD in seed funding in anticipation of bringing its software to market sometime this year. The financing came from Portag3 Ventures and the FinTech strategic investments group at Eight Roads. Conquest marks the first Canadian investment announcement for Portag3 since ..."
+    publishedDateTime: 2020-02-19T13:18:00Z
+    webUrl: "https://betakit.com/conquest-raises-3-million-round-with-portag3-to-launch-ai-powered-financial-planning/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
+      name: BetaKit
+      domain: betakit.com
+    quality: 32
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/02/5bee2917-7134-4dc7-adae-38b0b9013ac7-e1582259412500.png?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
+      - url: "https://cdn.betakit.com/wp-content/uploads/2020/02/carlos-muza-hpjSkU2UYSU-unsplash-2-1024x729.jpg"
+        width: 1024
+        height: 729
 
 secured: "Ww88zBaYjlVKtoUGI3CfGrqQ6VMn/r1Kl4bAvA15QQ1JRclIsIozht2WPBsUDRB238dtHH6Xs/U5WqCxltOFNTj8l5ZwTxA2wwPj5M2tLoWyWESNSIom1eEgxAKE1Ah8M1WUcDkO8lR1CUzNMfZaVM0ovQ1lCcFtwhW9qDPaKIyU9kSVJxu4YcPFbsesH6tbmn4Q+M9IfJDKIDFPlaNcA8emWhBdu9rIMYE8iyAKnk83T0yw2pikOyvy7rVjYyeU7G1FRRcNVH2DLdbdjlekiwlq3yn14BOdGqJslGkZe4iM3kdIZW6sIuImPoosziIcWGLU2H6cXlZ84JTVvkRJIJf2KBeNN3oK+ZBXjynkMArWSjp9ahKGHx+ZcIzxUfJeEz8gRTuIC7dOMty1HA/7XlrCp5PXbBUgwwPsWazcc/C2yxKUO388XTJyxvsowDnWXZDdD4Rrw/ImPDSbGa/VBZmLGvrsspHI3kg/nXu1ryU=;ShqJ+zR8esVjxAi/66D7Fg=="
 ---

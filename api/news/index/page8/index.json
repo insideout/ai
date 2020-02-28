@@ -2,95 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_posts/2020-02-26-simplifying-conversational-ai-one-interaction-at-a-time.md",
-      "title": "Simplifying Conversational AI, One Interaction At A Time",
-      "excerpt": "What if we could speak with our devices, cars, and homes just as easily as we do with our friends? Conversation is the bedrock of human communication, a transformative tool that reveals what’s inside our heads and hearts.",
-      "heat": 147,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/googlecloud/2020/02/26/simplifying-conversational-ai-one-interaction-at-a-time/",
-      "ampWebUrl": "https://www.forbes.com/sites/googlecloud/2020/02/26/simplifying-conversational-ai-one-interaction-at-a-time/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/googlecloud/2020/02/26/simplifying-conversational-ai-one-interaction-at-a-time/amp/",
-      "publishedDateTime": "2020-02-26T15:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e56da9e7a00980007345118%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3969%26cropY1%3D326%26cropY2%3D2560",
-          "width": 1200,
-          "height": 676,
-          "title": "Simplifying Conversational AI, One Interaction At A Time",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-26-struggling-with-fake-ai-heres-how-to-become-a-real-ai-company.md",
-      "title": "Struggling With Fake AI? Here’s How To Become A Real AI Company",
-      "excerpt": "Artificial intelligence is one of the hottest fields in technology right now, and it is hard to know which are Real AI Companies from Fake AI. Here is a 5-step recipe for becoming a Real AI Company - a true story from the trenches from a hardcore ML startup.",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/26/struggling-with-fake-ai-heres-how-to-become-a-real-ai-company/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/26/struggling-with-fake-ai-heres-how-to-become-a-real-ai-company/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/02/26/struggling-with-fake-ai-heres-how-to-become-a-real-ai-company/amp/",
-      "publishedDateTime": "2020-02-26T13:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e56d35e7a00980007345051%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1680%26cropY1%3D0%26cropY2%3D945",
-          "width": 1200,
-          "height": 675,
-          "title": "Struggling With Fake AI? Here’s How To Become A Real AI Company",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-26-tempo-is-a-smart-home-gym-that-uses-computer-vision-to-track-your-form-in-real-time.md",
       "title": "Tempo is a smart home gym that uses computer vision to track your form in real time",
       "excerpt": "The computer vision also helps to count those reps and shows on-screen how many you’ve done. Tempo costs $1,995 plus a $39 monthly subscription As with most other smart fitness equipment, Tempo does come with a monthly content subscription fee of $39 on top of the equipment price of $1,995 plus tax and shipping / installation. At this time ...",
@@ -1507,6 +1418,50 @@
       ]
     },
     {
+      "path": "_posts/2020-02-28-ai-stats-news-consumers-have-very-mixed-attitudes-about-data-privacy.md",
+      "title": "AI Stats News: Consumers Have Very Mixed Attitudes About Data Privacy",
+      "excerpt": "Recent surveys of the progress and impact of AI highlight the confusion and contradictory attitudes of consumers about the privacy of their data, the impact of AI on jobs, and the race for AI supremacy.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/gilpress/2020/02/27/ai-stats-news-consumers-have-very-mixed-attitudes-about-data-privacy/",
+      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2020/02/27/ai-stats-news-consumers-have-very-mixed-attitudes-about-data-privacy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2020/02/27/ai-stats-news-consumers-have-very-mixed-attitudes-about-data-privacy/amp/",
+      "publishedDateTime": "2020-02-27T20:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F844039488%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "AI Stats News: Consumers Have Very Mixed Attitudes About Data Privacy",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_posts/2020-02-28-cant-define-ai-try-defining-intelligence.md",
       "title": "Can't Define AI? Try Defining Intelligence",
       "excerpt": "Turns out that the answer to the question of AI’s definition is complicated by one fact: we don’t have a precise definition of intelligence itself.",
@@ -2112,6 +2067,43 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2019-12-16-waymo-acquires-ai-startup-latent-logic.md",
+      "title": "Waymo acquires AI startup Latent Logic",
+      "excerpt": "Waymo has acquired Latent Logic, a startup formed as an Oxford University spinoff that specializes in \"imitation learning\" for artificial intelligence technology. The company has focused its work on simulation environments that help train algorithms for ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://leftlanenews.com/2019/12/16/waymo-acquires-ai-startup-latent-logic/",
+      "ampWebUrl": "https://leftlanenews.com/2019/12/16/waymo-acquires-ai-startup-latent-logic/",
+      "cdnAmpWebUrl": "https://leftlanenews-com.cdn.ampproject.org/c/s/leftlanenews.com/2019/12/16/waymo-acquires-ai-startup-latent-logic/",
+      "publishedDateTime": "2019-12-16T05:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Leftlane",
+        "domain": "leftlanenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://leftlanenews.com/images/content/2019-08/WaymoIPACE-city2_700.jpg",
+          "width": 700,
+          "height": 449,
+          "title": "Waymo acquires AI startup Latent Logic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
       ]
     }
   ],

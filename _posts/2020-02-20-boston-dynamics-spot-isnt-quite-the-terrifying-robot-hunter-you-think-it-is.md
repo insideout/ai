@@ -8,7 +8,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/2/19/21144648/boston-dyna
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/19/21144648/boston-dynamics-spot-robot-mass-state-police-trial-issues"
 type: article
 quality: 66
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -24,19 +24,6 @@ topics:
   - AI in Robotics
 
 related:
-  - title: "Boston Dynamics’ dog robot Spot is going to patrol an oil rig in Norway"
-    excerpt: "The news: Spot, a four-legged robot made by Boston Dynamics, has got one of its first real-world assignments: it will be start being used by oil and gas firm Aker BP to patrol ... Testing: Aker BP has an agreement with an AI software company called Cognite to work out which tasks it is best suited to, then deploy it in the wild."
-    publishedDateTime: 2020-02-13T12:05:00Z
-    webUrl: "https://www.technologyreview.com/f/615194/boston-dynamics-spot-dog-robot-is-going-to-patrol-an-oil-rig-in-norway/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 39
-    images:
-      - url: "https://cdn.technologyreview.com/i/images/spot-mini-aker-bp.png?sw=1200&cx=0&cy=0&cw=588&ch=331"
-        width: 588
-        height: 331
   - title: "Watch the beloved Boston Dynamics robot dog pull a rickshaw"
     excerpt: "As one of Boston Dynamics’ most popular robotic creations, Spot has been tested in various ways and its abilities have further deepened our faith in the power of artificial intelligence and robotics. With a new project in mind, the company recently recruited a former MythBusters host to experiment in a unique way with Spot. Adam Savage has ..."
     publishedDateTime: 2020-02-20T13:57:00Z

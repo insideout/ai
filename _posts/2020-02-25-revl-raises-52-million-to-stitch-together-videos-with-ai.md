@@ -74,21 +74,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/02/SambaNovaLogo_H_F.jpg?fit=1200%2C627&strip=all"
         width: 1200
         height: 627
-  - title: "L1ght raises $15 million for AI that protects children from online toxicity"
-    excerpt: "L1ght, a fledgling AI startup that wants to help technology companies combat online toxicity, bullying, and abuse, has raised $15 million in a seed round of funding from Mangrove Capital Partners, Tribeca Venture Partners, and Western Technology Investment. The company’s substantial seed funding comes as tech companies are struggling to ..."
-    publishedDateTime: 2020-02-25T12:02:00Z
-    webUrl: "https://venturebeat.com/2020/02/25/l1ght-raises-15-million-for-ai-that-protects-children-from-online-toxicity/"
-    ampWebUrl: "https://venturebeat.com/2020/02/25/l1ght-raises-15-million-for-ai-that-protects-children-from-online-toxicity/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/25/l1ght-raises-15-million-for-ai-that-protects-children-from-online-toxicity/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/02/GettyImages-940967998.jpg?fit=1590%2C893&strip=all"
-        width: 1590
-        height: 893
   - title: "K Health raises $45 million to apply AI to telemedicine"
     excerpt: "But Block asserts that K Health’s AI-driven approach, combined with its proprietary medical knowledge database, gives it a leg up. K Health’s smartphone app, K — which Bloch claims has more than 1.3 million members, growing at a rate of 10,000 to 15,000 new users a day — facilitates in-app visits from a roster of doctors with whom K ..."
     publishedDateTime: 2020-02-27T14:09:00Z
@@ -104,21 +89,21 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2018/07/M62YVotw-e1582302813917.png?fit=1200%2C600&strip=all"
         width: 1200
         height: 600
-  - title: "Driverless car startup Pony.ai raises $462 million at a $3 billion valuation"
-    excerpt: "In a sign that investors’ enthusiasm for driverless cars hasn’t dampened yet, Pony.ai today secured a whopping $462 million in fresh funding, $400 million of which came from Toyota. The capital infusion brings the Guangzhou- and Fremont, California-based startup’s total raised to about $800 million at a valuation north of $3 billion (up ..."
-    publishedDateTime: 2020-02-26T03:00:00Z
-    webUrl: "https://venturebeat.com/2020/02/25/driverless-car-startup-pony-ai-raises-462-million-at-a-3-billion-valuation/"
-    ampWebUrl: "https://venturebeat.com/2020/02/25/driverless-car-startup-pony-ai-raises-462-million-at-a-3-billion-valuation/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/25/driverless-car-startup-pony-ai-raises-462-million-at-a-3-billion-valuation/amp/"
+  - title: "OnSiteIQ raises $4.5 million to improve construction safety using AI and 360-degree imagery"
+    excerpt: "OnSiteIQ today announced that it has raised $4.5 million Series A round to grow its AI-powered safety analysis of 360-degree imagery from construction sites. In addition to supplying computer vision for risk assessment reports, the company’s platform is made to stitch together imagery so construction site managers can examine progress ..."
+    publishedDateTime: 2020-02-18T18:23:00Z
+    webUrl: "https://venturebeat.com/2020/02/18/onsiteiq-raises-4-5-million-to-improve-construction-safety-using-ai-and-360-degree-imagery/"
+    ampWebUrl: "https://venturebeat.com/2020/02/18/onsiteiq-raises-4-5-million-to-improve-construction-safety-using-ai-and-360-degree-imagery/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/18/onsiteiq-raises-4-5-million-to-improve-construction-safety-using-ai-and-360-degree-imagery/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 84
+    quality: 77
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/08/ad1de834-abf3-471e-b4cc-3408c731b4f4-e1566788588385.png?fit=1200%2C600&strip=all"
-        width: 1200
-        height: 600
+      - url: "https://venturebeat.com/wp-content/uploads/2020/02/photo-1478486982180-2de2fafa19f9.jpeg?fit=1502%2C751&strip=all"
+        width: 1502
+        height: 751
   - title: "Exclusive: Autonomous driving startup Pony.ai raises $500 million in Toyota-led funding- sources"
     excerpt: "The Silicon Valley-based startup Pony.ai - co-founded by CEO James Peng, a former executive at China’s Baidu (BIDU.O), and chief technology officer Lou Tiancheng, a former Google (GOOGL.O) and Baidu engineer - is already testing autonomous vehicles in California, Beijing and Guangzhou. The firm is focusing on achieving “Level 4”, or fully ..."
     publishedDateTime: 2020-02-26T01:08:00Z
@@ -134,19 +119,6 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200226&t=2&i=1495242339&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG1P02C"
         width: 817
         height: 545
-  - title: "Karius raises $165 million to identify infectious diseases with AI"
-    excerpt: "Approximately 9% of the U.S. population has been diagnosed with an infectious disease. Worldwide, these diseases are the second-leading cause of death after heart disease, and they’re responsible for more deaths annually than cancer. Mickey Kertesz and Tim Blauwkamp — who worked together at Moleculo, a startup spun out of Stanford that ..."
-    publishedDateTime: 2020-02-24T13:56:00Z
-    webUrl: "https://venturebeat.com/2020/02/24/karius-raises-165-million-to-identify-infectious-diseases-with-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/02/5bee2917-7134-4dc7-adae-38b0b9013ac7-e1582259412500.png?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
   - title: "ABB and Covariant partner to deploy integrated AI robotic solutions"
     excerpt: "ABB, one of the world’s leading supplier of industrial robots, and Silicon Valley AI start-up, Covariant, have formed a partnership to bring AI-enabled robotics solutions to market, starting with a fully autonomous warehouse order fulfilment solution. ABB says the partnership brings together two companies with a shared vision for robotics ..."
     publishedDateTime: 2020-02-25T16:50:00Z
@@ -160,6 +132,19 @@ related:
       - url: "https://roboticsandautomationnews.com/wp-content/uploads/2020/02/abb-2020_02_19_8199-copy.jpg"
         width: 750
         height: 1125
+  - title: "Conquest raises $3 million round with Portag3 to launch AI-powered financial planning"
+    excerpt: "Financial planning FinTech startup Conquest Planning has raised $3 million CAD in seed funding in anticipation of bringing its software to market sometime this year. The financing came from Portag3 Ventures and the FinTech strategic investments group at Eight Roads. Conquest marks the first Canadian investment announcement for Portag3 since ..."
+    publishedDateTime: 2020-02-19T13:18:00Z
+    webUrl: "https://betakit.com/conquest-raises-3-million-round-with-portag3-to-launch-ai-powered-financial-planning/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 32
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2020/02/carlos-muza-hpjSkU2UYSU-unsplash-2-1024x729.jpg"
+        width: 1024
+        height: 729
 
 secured: "Ipq8xH/ffDJN+Oqcgek47fN+l2BQyBnHe2qAun1bRB10JuwzT6t4pKX1oQZkVaTfsEfXS6TabhdDAgjEuGRn8RJJ16YCEOzt4w4VOqM7eqQECn2jPgVzfSrliGK+PugGtWBe9N/JPJk76rzPZpLp7FuYUiq6pE4cJ+sbgbptbeXaoFzM7LRUhpI0r/+sAabH22cPzcwmGaE15JkgzLtC0rcJiUX1pvS0X2B39RNordIdP9UNF5rLkNWunTHQhJLItUqu8dVfS9cTRqoQ1Digb/4fprQ190PpR51MdlD2H1K2E+sGdTF/5uEhZgtBhjF+uRR+CtPG1tJ0QD7jVglQRm8YvmFl7hah1kzdIAuoren1CUhH4AEEpQWqXK1USjP4Lfjpp4kCbC7ov1Di/gPg5nQBBXjVdmAn7EgO1VDhjVpJN517IpEJCW3uMp5QUx/Esiw3EY7d1pgNyiUlTqj20bY40DFCM9mrxh+1b+2SNbc=;ydxsB/DNJ44dJYsoIALRig=="
 ---

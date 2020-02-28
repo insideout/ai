@@ -27,6 +27,6 @@ images:
     height: 800
     title: "8 great Python libraries for natural language processing"
 
-secured: "cppFdbMKtEyvdY+cFlcQg8ecmm0dN9Hys+R+bj1wwnynKXAH2ZXFyTBxLean06nhtQj8Ot0AGJzR5zMg/mXnTr2D5JS+dJEpIRABUAuPDqa828VvA89934Ra/YNhKTRLZaiCPP8bQjtx8d1tcnDe//Bw9I02nzy85pA1ebrfI0aJNAXfrnIEKKuloPWlwHLN0TVEhKkX6hnNB7Qppz+yCdIryMvYjbFLPRfJ17+YlB1uh2qWbjXTIdRhFnIkPSzHdQzlaRW9yw0xJ0YUvS1ce11dfcDD0QHXJcf56XaWvv3XTilbe6ZsF1qBqptmaX6v;9G5yCandycbnbG8SlHEMIA=="
+secured: "JzVcrne1TKctzgBSf2KG2XtyfmPU6aWzQVlmKxmna/m02tJ/iD5Pitob6YIUXGJTsJwevZJm9Lqnb1DoLn3tHO+danpR2WytZxS3HYzKfcqQ9c//a4hRHs8FejviRsAnJ+EtHXyyTn/2EgNO50k0jx2BA/LgDUFIIp19laa7c1YOljcYjfZdMhi2gCtgpu9q6hfRWT7Uv/feUTRROHRjV7Hcz5hu8ukc4N+hbrBjOh39579k0xRYlk30+UYQzx1wIv1e8YheVi4dm/CjGFGEcgubCJcjW70NvW2YwDqtCtepgliienzDPLLJXTT+G5nk;XaA2FuXewdGkECjxvfs6tw=="
 ---
 

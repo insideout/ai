@@ -8,7 +8,7 @@ ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-intelligence-report/20
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-intelligence-report/202002/the-illusion-artificial-emotional-awareness?amp"
 type: article
 quality: 122
-heat: 132
+heat: 142
 published: true
 
 provider:
@@ -30,6 +30,19 @@ related:
       name: Psychology Today
       domain: psychologytoday.com
     quality: 22
+  - title: "The Design Automation Conference to Showcase an AI Hardware Pavilion, Broadening the 2020 Exhibition Lineup"
+    excerpt: "AI hardware is driving the largest wave of chip-design activity in decades. Understanding and harnessing the enormous computational and application potential of AI is fertile ground for new ideas and startup providers. Converting these ideas into working hardware circuits and systems is the core value of design automation, and the major ..."
+    publishedDateTime: 2020-02-13T16:34:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-design-automation-conference-showcase-an-ai-hardware-pavilion-/2020/02/13/9097887.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 21
+    images:
+      - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
+        width: 252
+        height: 335
 
 secured: "MspkhY2QtZ2ks32adwy0mZq0SOoxLAY91kThKOWWSwNlbMqzZGvcUT85b5uhLEXuHpatPTlUNvvfob8OVyQxINwMKmMa6VnknH2BhQaHzIZAEr1UhjD6QaCSlvvXaCEbkFeUM9SpWMCukXLyl2AQdcf71kEkaL+RKfSppuvfg4MU8P79QP7QJLr92WCgcwXPaNMTWJB3r0ZJoB/PHedwQlTGYeh9JkYULIb7X7/6vGYn1gxNqjpigiksCYsmDnBDIVvSTe86uQUWU+eP8nwyyChLa5rR6+kRyjLAhGFxt+yso8hGG9hPTBkCGE+kAAmNZpAMpW2xljntgyJDz6ef427BoaSdPx7NoeNJpCf/WQziEgUwCsm4/qrLaUQEquz1lFVWzPxa6G3OX7HDoCSLwRPF3Fw5G5VJ3vWTafudl7m+WDmFQ94AmD3FXmzpAL/g0ukKIGn4inYMNoAGR7jupy6OwY0FbpfuL33iOA0ZHUmZIrE2JYRaZsiyRM0s+Jx1;EGgFxNJFAFie7ao1zdKB+w=="
 ---

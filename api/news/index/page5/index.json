@@ -2,89 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_posts/2020-02-20-this-college-banned-students-from-even-discussing-facial-recognition.md",
-      "title": "This College Banned Students From Even Discussing Facial Recognition",
-      "excerpt": "This article originally appeared on VICE US. Amidst a growing nationwide resistance to facial recognition on college campuses, school administrators at Michigan's Oakland Community College (OCC) are blocking students’ organizing efforts to prevent the technology from being adopted. Last week, the school's administrators canceled a forum event ...",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.vice.com/en_in/article/4ag4mw/this-college-banned-students-from-even-discussing-facial-recognition",
-      "ampWebUrl": "https://www.vice.com/amp/en_in/article/4ag4mw/this-college-banned-students-from-even-discussing-facial-recognition",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_in/article/4ag4mw/this-college-banned-students-from-even-discussing-facial-recognition",
-      "publishedDateTime": "2020-02-20T05:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://video-images.vice.com/test-uploads/articles/5e4d943853183c009d48a232/lede/1582144710293-GettyImages-1127318593.jpeg?crop=1xw%3A0.8431477516059958xh%3Bcenter%2Ccenter&resize=2000%3A*",
-          "width": 2000,
-          "height": 1124,
-          "title": "This College Banned Students From Even Discussing Facial Recognition",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-20-vcs-warn-pumping-millions-into-an-ai-startup-you-mean-pumping-millions-into-azure-aws-or-google-cloud.md",
-      "title": "VCs warn: Pumping millions into an AI startup? You mean, pumping millions into Azure, AWS or Google Cloud...",
-      "excerpt": "“Anecdotally, we have seen a surprisingly consistent pattern in the financial data of AI companies, with gross margins often in the 50-60 per cent range – well below the 60-80 per cent [and above] benchmark for comparable SaaS businesses,” said Martin Casado and Matt Bornstein, venture-capitalists at Silicon Valley's venerable Andreessen ...",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theregister.co.uk/2020/02/20/starting_an_ai_biz/",
-      "ampWebUrl": "https://www.theregister.co.uk/AMP/2020/02/20/starting_an_ai_biz/",
-      "cdnAmpWebUrl": "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/02/20/starting_an_ai_biz/",
-      "publishedDateTime": "2020-02-20T01:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Register",
-        "domain": "theregister.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2018/09/26/shutterstock_118942015.jpg",
-          "width": 648,
-          "height": 448,
-          "title": "VCs warn: Pumping millions into an AI startup? You mean, pumping millions into Azure, AWS or Google Cloud...",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-20-when-it-comes-to-artificial-intelligence-throw-away-that-tired-old-tech-rulebook.md",
       "title": "When It Comes To Artificial Intelligence, Throw Away That Tired Old Tech Rulebook",
       "excerpt": "MIT Sloan survey finds AI incurs risks and demands for executive involvement not seen in previous technology incarnations.",
@@ -2137,6 +2054,88 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-24-fg-to-include-robotics-ai-in-school-curriculum.md",
+      "title": "FG to include robotics, AI in school curriculum",
+      "excerpt": "The Federal Ministry of Education has said it will work on the inclusion of coding, robotics and artificial intelligence in the country’s school curricula so as to take pupils to the 21st Century technology and educational standards. The Minister of State for Education, Chukwuemeka Nwajiuba, stated this in Abuja at the 2019/2020 Nigeria ...",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://punchng.com/fg-to-include-robotics-ai-in-school-curriculum/",
+      "ampWebUrl": "https://punchng.com/fg-to-include-robotics-ai-in-school-curriculum/amp/",
+      "cdnAmpWebUrl": "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/fg-to-include-robotics-ai-in-school-curriculum/amp/",
+      "publishedDateTime": "2020-02-23T16:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Punch Newspapers",
+        "domain": "punchng.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.punchng.com/wp-content/uploads/2019/11/01205241/Chukwuemeka-Nwajiuba.jpg",
+          "width": 700,
+          "height": 417,
+          "title": "FG to include robotics, AI in school curriculum",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-24-fintech-the-personal-stories-of-the-money-hackers-who-have-changed-finance.md",
+      "title": "Fintech — The Personal Stories Of The Money Hackers Who Have Changed Finance",
+      "excerpt": "Dan Simon has written a book about the people who created the technology firms that have been changing finance, such as Venmo and Braintree, Credit Karma, Lending Club, Kabbage, Yodlee, Clarity Money and Betterment.",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/tomgroenfeldt/2020/02/24/fintech---the-personal-stories-of-the-money-hackers-who-have-changed-finance/",
+      "ampWebUrl": "https://www.forbes.com/sites/tomgroenfeldt/2020/02/24/fintech---the-personal-stories-of-the-money-hackers-who-have-changed-finance/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomgroenfeldt/2020/02/24/fintech---the-personal-stories-of-the-money-hackers-who-have-changed-finance/amp/",
+      "publishedDateTime": "2020-02-24T11:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e53e07ad378190007f42478%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1283%26cropY1%3D228%26cropY2%3D950",
+          "width": 1200,
+          "height": 676,
+          "title": "Fintech — The Personal Stories Of The Money Hackers Who Have Changed Finance",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
       ]
     }
   ],

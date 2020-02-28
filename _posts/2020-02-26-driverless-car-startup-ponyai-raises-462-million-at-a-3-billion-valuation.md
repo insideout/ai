@@ -29,51 +29,19 @@ images:
     title: "Driverless car startup Pony.ai raises $462 million at a $3 billion valuation"
 
 related:
-  - title: "Ripcord raises $45 million to digitize paper records with robotics and AI"
-    excerpt: "In search of a solution five years ago, three entrepreneurs — NASA veteran Kim Lembo, former Apple senior engineering scientist Alex Fielding, and Kevin Hall — cofounded Ripcord, a startup developing a portfolio of robots that can digitize paper records. Fresh off a series B funding round, the Hayward, California-based company today ..."
-    publishedDateTime: 2020-02-25T16:37:00Z
-    webUrl: "https://venturebeat.com/2020/02/25/ripcord-raises-45-million-to-digitize-paper-records-with-robotics-and-ai/"
-    ampWebUrl: "https://venturebeat.com/2020/02/25/ripcord-raises-45-million-to-digitize-paper-records-with-robotics-and-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/25/ripcord-raises-45-million-to-digitize-paper-records-with-robotics-and-ai/amp/"
+  - title: "Endpoint Protection Vendor SentinelOne Raises $200 Million, Eyes IPO"
+    excerpt: "The Series E funding comes just eight months after SentinelOne closed a $120 million Series D round, and will help the fast-growing endpoint security vendor expand its geographic footprint in Europe and Asia. By Michael Novinson February 19, 2020, 11:30 AM EST SentinelOne Wednesday closed a $200 ... raise any more money prior to filing for an ..."
+    publishedDateTime: 2020-02-19T17:27:00Z
+    webUrl: "https://www.crn.com/news/security/endpoint-protection-vendor-sentinelone-raises-200-million-eyes-ipo"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 118
+      name: CRN
+      domain: crn.com
+    quality: 137
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2017/03/ripcord-free-your-records-e1582319474923.jpg?fit=1199%2C599&strip=all"
-        width: 1199
-        height: 599
-  - title: "FogHorn raises $25 million to support edge AI app development"
-    excerpt: "According to Deloitte, more than 750 million edge AI chips will be sold by year-end (up from a predicted 300 million in 2017), representing $2.6 billion in revenue. And by 2024, the number of chips sold could reach 1.5 billion in total. Sunnyvale, California-based FogHorn hopes to lead the charge. The company, which was cofounded by Abhi Sharma ..."
-    publishedDateTime: 2020-02-25T16:37:00Z
-    webUrl: "https://venturebeat.com/2020/02/25/foghorn-raises-25-million-to-support-edge-ai-app-development/"
-    ampWebUrl: "https://venturebeat.com/2020/02/25/foghorn-raises-25-million-to-support-edge-ai-app-development/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/25/foghorn-raises-25-million-to-support-edge-ai-app-development/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 91
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/02/f4c4e7ef-f32a-43c8-81f8-ccd46a578b31-e1582607532413.png?fit=1200%2C600&strip=all"
-        width: 1200
-        height: 600
-  - title: "SambaNova Systems raises $250 million for software-defined AI hardware"
-    excerpt: "The infrastructure required to handle AI workloads is often as complex as it is sprawling, but a cottage industry of startups has emerged whose focus is developing solutions for end customers. SambaNova Systems is one such startup — the Palo Alto, California-based firm, which was founded in 2017 by Rodrigo Liang and Stanford Professors Kunle ..."
-    publishedDateTime: 2020-02-25T23:30:00Z
-    webUrl: "https://venturebeat.com/2020/02/25/sambanova-systems-raises-250-million-for-software-defined-ai-hardware/"
-    ampWebUrl: "https://venturebeat.com/2020/02/25/sambanova-systems-raises-250-million-for-software-defined-ai-hardware/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/25/sambanova-systems-raises-250-million-for-software-defined-ai-hardware/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/02/SambaNovaLogo_H_F.jpg?fit=1200%2C627&strip=all"
-        width: 1200
-        height: 627
+      - url: "https://www.crn.com/resources/025a-0ebd3d78ff5f-cb22610bd78b-1000/86796455.jpeg"
+        width: 399
+        height: 399
   - title: "L1ght raises $15 million for AI that protects children from online toxicity"
     excerpt: "L1ght, a fledgling AI startup that wants to help technology companies combat online toxicity, bullying, and abuse, has raised $15 million in a seed round of funding from Mangrove Capital Partners, Tribeca Venture Partners, and Western Technology Investment. The company’s substantial seed funding comes as tech companies are struggling to ..."
     publishedDateTime: 2020-02-25T12:02:00Z
@@ -89,51 +57,36 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/02/GettyImages-940967998.jpg?fit=1590%2C893&strip=all"
         width: 1590
         height: 893
-  - title: "Revl raises $5.2 million to stitch together videos with AI"
-    excerpt: "Plus, users can remotely control the camera from up to 155 feet away using the app. Above: The Revl app. Revl isn’t the only startup applying AI and machine learning to video creation. Tel Aviv- and New York-based startup Wibbitz automatically converts news articles into short-form video, while Wochit analyzes text for keywords to piece ..."
-    publishedDateTime: 2020-02-25T16:31:00Z
-    webUrl: "https://venturebeat.com/2020/02/25/revl-raises-5-2-million-to-stitch-together-videos-with-ai/"
-    ampWebUrl: "https://venturebeat.com/2020/02/25/revl-raises-5-2-million-to-stitch-together-videos-with-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/25/revl-raises-5-2-million-to-stitch-together-videos-with-ai/amp/"
+  - title: "SentinelOne raises $200 million for its AI security platform at a $1 billion valuation"
+    excerpt: "The Mountain View-based startup has developed a platform that automates endpoint security using an AI engine. Its service focuses on detecting threats and responding to them by continually studying and learning from behavior on networks, which the company said allows customers to keep ahead of a constantly changing threat landscape."
+    publishedDateTime: 2020-02-19T16:30:00Z
+    webUrl: "https://venturebeat.com/2020/02/19/sentinelone-raises-200-million-for-its-ai-security-platform-1-billion-valuation/"
+    ampWebUrl: "https://venturebeat.com/2020/02/19/sentinelone-raises-200-million-for-its-ai-security-platform-1-billion-valuation/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/19/sentinelone-raises-200-million-for-its-ai-security-platform-1-billion-valuation/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 87
+    quality: 79
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/02/maxresdefault-4-e1582140205297.jpg?fit=800%2C400&strip=all"
-        width: 800
-        height: 400
-  - title: "K Health raises $45 million to apply AI to telemedicine"
-    excerpt: "But Block asserts that K Health’s AI-driven approach, combined with its proprietary medical knowledge database, gives it a leg up. K Health’s smartphone app, K — which Bloch claims has more than 1.3 million members, growing at a rate of 10,000 to 15,000 new users a day — facilitates in-app visits from a roster of doctors with whom K ..."
-    publishedDateTime: 2020-02-27T14:09:00Z
-    webUrl: "https://venturebeat.com/2020/02/27/k-health-raises-45-million-to-apply-ai-to-telemedicine/"
-    ampWebUrl: "https://venturebeat.com/2020/02/27/k-health-raises-45-million-to-apply-ai-to-telemedicine/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/27/k-health-raises-45-million-to-apply-ai-to-telemedicine/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2018/07/M62YVotw-e1582302813917.png?fit=1200%2C600&strip=all"
+      - url: "https://venturebeat.com/wp-content/uploads/2020/02/Screen-Shot-2018-04-04-at-10.28.09-e1582022593266.png?fit=1200%2C600&strip=all"
         width: 1200
         height: 600
-  - title: "Exclusive: Autonomous driving startup Pony.ai raises $500 million in Toyota-led funding- sources"
-    excerpt: "The Silicon Valley-based startup Pony.ai - co-founded by CEO James Peng, a former executive at China’s Baidu (BIDU.O), and chief technology officer Lou Tiancheng, a former Google (GOOGL.O) and Baidu engineer - is already testing autonomous vehicles in California, Beijing and Guangzhou. The firm is focusing on achieving “Level 4”, or fully ..."
-    publishedDateTime: 2020-02-26T01:08:00Z
-    webUrl: "https://uk.reuters.com/article/uk-toyota-pony-ai-autonomous-exclusive/exclusive-autonomous-driving-startup-pony-ai-raises-500-million-in-toyota-led-funding-sources-idUKKCN20K026"
-    ampWebUrl: "https://uk.mobile.reuters.com/article/amp/idUKKCN20K026"
-    cdnAmpWebUrl: "https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKKCN20K026"
+  - title: "SentinelOne raises $200M at a $1.1B valuation to expand its AI-based endpoint security platform"
+    excerpt: "“The landscape is expanding and it is getting very hard to monitor not just what your network looks like but what your attackers are looking for.” This is where an AI-based solution like SentinelOne’s comes into play. The company has roots in the Israeli cyberintelligence community but is based out of Mountain View, and its platform is ..."
+    publishedDateTime: 2020-02-19T17:20:00Z
+    webUrl: "https://techcrunch.com/2020/02/19/sentinelone-raises-200m-at-a-1-1b-valuation-to-expand-its-ai-based-endpoint-security-platform/"
+    ampWebUrl: "https://techcrunch.com/2020/02/19/sentinelone-raises-200m-at-a-1-1b-valuation-to-expand-its-ai-based-endpoint-security-platform/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/19/sentinelone-raises-200m-at-a-1-1b-valuation-to-expand-its-ai-based-endpoint-security-platform/amp/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 74
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 75
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200226&t=2&i=1495242339&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG1P02C"
-        width: 817
-        height: 545
+      - url: "https://techcrunch.com/wp-content/uploads/2018/05/gettyimages-914788014.jpg?w=1024"
+        width: 1024
+        height: 544
   - title: "Karius raises $165 million to identify infectious diseases with AI"
     excerpt: "Approximately 9% of the U.S. population has been diagnosed with an infectious disease. Worldwide, these diseases are the second-leading cause of death after heart disease, and they’re responsible for more deaths annually than cancer. Mickey Kertesz and Tim Blauwkamp — who worked together at Moleculo, a startup spun out of Stanford that ..."
     publishedDateTime: 2020-02-24T13:56:00Z
@@ -147,19 +100,19 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/02/5bee2917-7134-4dc7-adae-38b0b9013ac7-e1582259412500.png?w=1200&#038;strip=all"
         width: 1200
         height: 600
-  - title: "ABB and Covariant partner to deploy integrated AI robotic solutions"
-    excerpt: "ABB, one of the world’s leading supplier of industrial robots, and Silicon Valley AI start-up, Covariant, have formed a partnership to bring AI-enabled robotics solutions to market, starting with a fully autonomous warehouse order fulfilment solution. ABB says the partnership brings together two companies with a shared vision for robotics ..."
-    publishedDateTime: 2020-02-25T16:50:00Z
-    webUrl: "https://roboticsandautomationnews.com/2020/02/25/abb-and-covariant-partner-to-deploy-integrated-ai-robotic-solutions/30450/"
+  - title: "AI startup Laiye raises $42 million in Series C funding"
+    excerpt: "Artificial intelligence firm Laiye has raised $42 million in Series C funding, the company announced on Monday. The round comes as Chinese startups scramble for cash amid a new flu-like epidemic that has swept the country. Why it matters: Fundraising by Chinese startups has this year slumped by around 60% year on year to $1.8 billion. The ..."
+    publishedDateTime: 2020-02-24T07:52:00Z
+    webUrl: "https://technode.com/2020/02/24/startup-laiye-series-c-42-million-funding/"
     type: article
     provider:
-      name: Robotics & Automation News
-      domain: roboticsandautomationnews.com
-    quality: 54
+      name: TechNode
+      domain: technode.com
+    quality: 37
     images:
-      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2020/02/abb-2020_02_19_8199-copy.jpg"
-        width: 750
-        height: 1125
+      - url: "https://technode.com/wp-content/uploads/2016/08/AI.jpg"
+        width: 450
+        height: 375
 
 secured: "N/7nIyWM05X0WFH5yQfDze2ZhWRwnNGk9854UdCwcOX5PcB+z2Es2nrvsCEwzl1+BVdRoHZbpVN7+/JXv50jvdpJKT80Pqgg7e81AuweJgE4t08FMfJS6jikCRqOZXgM5AvJwZXTQLJGTmlfluA7BLEvSce0J4QUNKcaNyYRLQR6l5H1/FCmSLJeK4dR33Qn8easdVlyLhN8eZznhwU3GTCQPeFSmRszeczWjzdi3Tf7xqM9xXlWiq7NY9Mwu7Ofi9wWi+x2YV+F8GPDxORGuOrw0dtwBcoq0ra9chWBjVQnpFwByToLjy2NgfBGkmfNo1wa2CV9oN2OJ/D7VX/0vEUeTPurBfqUHY7Z5UY0xSZZHONXlVs0Lh9aQbWsSetONVBme1zHiq6mFfs0qmr+q/y0oj6Y55X6eXlooXEbadDh851T5q5z4ZVIY2nXjApFh3At2/1daIUWuVqz5WfsoB5RAehmF69L1646lMovNro=;dEIZ61y3iT/fZAyJnifBpg=="
 ---

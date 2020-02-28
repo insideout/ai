@@ -8,7 +8,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2020/02/157459-fintech-firm-ramp-wh
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/02/157459-fintech-firm-ramp-which-offers-corporate-credit-cards-secures-25-million-in-funding/amp/"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -24,21 +24,6 @@ images:
     width: 600
     height: 578
     title: "Fintech Firm Ramp, which Offers Corporate Credit Cards, Secures $25 Million in Funding"
-
-related:
-  - title: "Fintech startup Ramp aims to disrupt the corporate credit market"
-    excerpt: "Ramp investors include veteran fintech investor Keith Rabois of Founders Fund ... the first business hires from Plaid and Atrium, and engineers from Facebook AI Research, Google Research, Capital One, Goldman Sachs, Apple, and Lyft. \"Most companies in Silicon Valley are quite wasteful with their spending, however, without access to the ..."
-    publishedDateTime: 2020-02-13T11:23:00Z
-    webUrl: "https://www.finextra.com/newsarticle/35282/fintech-startup-ramp-aims-to-disrupt-the-corporate-credit-market?member=92212"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
-    images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/money2.jpg"
-        width: 480
-        height: 270
 
 secured: "A5eaEBDVi+wdvvfU0viXzbFWxZisj+QFgdhQkf5Z//AMh7rblJ+1x03nSxJhqcoW+HzEgJ+mkI/IqB/GBvUCov5rvS7SoKE79PDI4Kg7YsZVjA0AwucdtNyV1TYB2IiW+q629sVagDQy1J+2NTziGGGrB7AR/NRFI5nENADS1Kq9uesTZO+ekY2L7FPJ66vSNsxCPLOtHbX9R1JYvwr2FuqkUTMumCH54lu/W1f0tGfbLQef6rv8+dyhVZvf3YJG+eD7yKdNeArfIu6eKaOGiAD47PnTSJo2RWG2PxUz1EAw+okaq3Cf5S3D3xjVJZUYnnmhJXvTYGzQaq8GZ67mlXCQ9en3iEnhHACImiFGXITjvHc1NORL3gDj5Lp0837YI5L6r5xgbATyVZrr7C0dphPsomGROGZIzwE/SS4dOoyef9gPKYdabZs0+EviLcWgkdwVsqFWg/L+G1m92GdfEfKoIv7mh/N58rA17FxOlFM=;OFaKNLmg0JBpNcyd+ce8rQ=="
 ---
