@@ -238,7 +238,7 @@ related:
     provider:
       name: Global News
       domain: globalnews.ca
-    quality: 44
+    quality: 46
   - title: "Facial Recognition Biz Clearview AI Suffers Data Breach"
     excerpt: "A controversial facial recognition company has just informed its customers of a data breach in which its entire client list was stolen. Clearview AI leapt to fame in January when a New York Times report claimed that the start-up had scraped up to three billion images from social media sites to add to its database. That makes it a useful ..."
     publishedDateTime: 2020-02-27T09:45:00Z

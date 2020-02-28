@@ -4,9 +4,11 @@ title: "Robots and artificial intelligence can benefit workers instead of hurtin
 excerpt: "While many are quick to blame advancing technology such as artificial intelligence, the real problem is how that technology is deployed ... has been using the suburbs of Houston to test its autonomous grocery delivery service. In this age of driverless cars, we’re spending less time celebrating the freedom technology brings and more time ..."
 publishedDateTime: 2020-02-11T21:06:00Z
 webUrl: "https://www.houstonchronicle.com/opinion/outlook/article/Robots-and-artificial-intelligence-can-benefit-15047970.php"
+ampWebUrl: "https://www.houstonchronicle.com/opinion/outlook/amp/Robots-and-artificial-intelligence-can-benefit-15047970.php"
+cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/opinion/outlook/amp/Robots-and-artificial-intelligence-can-benefit-15047970.php"
 type: article
-quality: 0
-heat: 0
+quality: 35
+heat: 35
 published: false
 
 provider:
@@ -17,6 +19,12 @@ topics:
   - AI
   - AI in Autos
 
-secured: "9QdmxQ5WWj7Je4ZbVr8AJ+opiU1FQ+iuLBIEmSy0WnoM/9BSr/xswXmnAl9Pr8XmDg9s1U6444WKmJYS+4fvNmy8WNNUZnywDg3DsKc2awhbvxZzr9VN9YCxnSGPGNhUU1wKK/kH/oPL9lmnj7NL2uoYzKbc78Ssbc5BbqfTeTe3tixFtXV0mCIZnAej287CC+Y/TYsVpCXzIVv8flh/Gdzj3IQy/4qtCwqJ/nZ5XeRAhkO+AGZ1LxVAgmfq98p1xMCeC5eUHKCk+c7Op7CecXy9w+wmdf2OBE8i1Ti5QPHCW/bsiYWgwPW4/e9jSPypyN3DT2hahoQ2pl4McywRA5VrWlIcmiaSEz+FOnwQr7jp7sgoKnFZV5rylMDDHizD78teeWtGQzW47sqzXA7PwisGlbG0ofdb2wqshNWvqCbkQL6nMELJ53OHUS7DkdGigrsVZB54t1rp3gAyng3aaUkCqZJSspyrMhkjFp+K/Mc=;qWRNxH8JulENjxFoeXAuVA=="
+images:
+  - url: "https://s.hdnux.com/photos/01/10/42/52/19016327/4/375x250.jpg"
+    width: 375
+    height: 249
+    title: "Robots and artificial intelligence can benefit workers instead of hurting them if we address inequality today [Opinion]"
+
+secured: "sWZvYxb9n+Y6QHY4PZC4BnrSkNRP50z4pTHIspfQHx/u5X1oH4ipCg5N6HYh15T/MK+JVlKMuD3dV4smTVpBS4UpoApA7lbc9RO3vC9gLIx/reKqF5QnG0F3uZGGXetQRL2rZw7eDsXBZZJZE1AFEqoEA3ug0zxP6x9IO0GuYB2wdhHqfjLIv5dBKv4dkmTQtYAb4J6fYLr/N27YKQrNjkcu2igpEmzjsaZIEc/XqGYF11KTuGeE5x3AjU6hgjjT0kqsERrUJMRIcsVp2GWPgOkpF10GoVt2V8EK1u8Ost9MMUMBiMpoIygW7K16q0Bk;gyHvkLLbBqcnCMIXF/PIUw=="
 ---
 

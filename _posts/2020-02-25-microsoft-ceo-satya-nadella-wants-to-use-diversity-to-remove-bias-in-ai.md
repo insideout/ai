@@ -8,7 +8,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/02/25/microsoft-nadella-india-202
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/25/microsoft-nadella-india-2020/amp/"
 type: article
 quality: 106
-heat: 127
+heat: 126
 published: true
 
 provider:

@@ -8,8 +8,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/docusign-acquires-seal-soft
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/docusign-acquires-seal-software-to-bolster-ai-in-agreement-cloud/"
 type: article
 quality: 87
-heat: 97
-published: true
+heat: -1
+published: false
 
 provider:
   name: ZDNet
@@ -29,6 +29,21 @@ images:
     title: "DocuSign acquires Seal Software to bolster AI in Agreement Cloud"
 
 related:
+  - title: "DocuSign acquires Seal Software for $188M to enhance its AI chops"
+    excerpt: "These companies use Seal for its contract management tools, but also for its analytics, discovery and data extraction services. And it’s these AI smarts the company developed over time to help businesses analyze their contracts that made DocuSign acquire the company. This can help them significantly reduce their time for legal reviews ..."
+    publishedDateTime: 2020-02-27T23:39:00Z
+    webUrl: "https://techcrunch.com/2020/02/27/docusign-acquires-seal-software-for-188m-to-enhance-its-ai-chops/"
+    ampWebUrl: "https://techcrunch.com/2020/02/27/docusign-acquires-seal-software-for-188m-to-enhance-its-ai-chops/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/27/docusign-acquires-seal-software-for-188m-to-enhance-its-ai-chops/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-82570218.jpg?w=1024"
+        width: 1024
+        height: 682
   - title: "DocuSign will pay $188M to acquire AI contract startup Seal Software"
     excerpt: "Heavy appetizers, signature cocktails, wine, and beer will be served. Join us at MoPOP on March 26 as we reveal winners in 13 categories, including Startup of the Year, Innovation of the Year and Next Tech Titan. Tickets on sale now! Subscribe to GeekWire's free newsletters to catch every headline Beyond the signature: DocuSign introduces new ..."
     publishedDateTime: 2020-02-27T21:47:00Z
@@ -44,7 +59,33 @@ related:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2015/05/docusign-document.jpg"
         width: 713
         height: 502
+  - title: "Freshworks acquires AnsweriQ to enhance AI, machine learning capabilities"
+    excerpt: "Customer engagement software company, Freshworks has acquired intelligent automation for customer service vendor AnsweriQ in a move it says will enhances its artificial intelligence and machine learning capabilities in the customer engagement space. Freshworks says AnsweriQ - a provider of machine learning (ML) and artificial technologies (AI ..."
+    publishedDateTime: 2020-02-27T04:21:00Z
+    webUrl: "https://itwire.com/strategy/freshworks-acquires-answeriq-to-enhance-ai,-machine-learning-capabilities.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 53
+    images:
+      - url: "https://itwire.com/media/k2/items/cache/5843c2c90019f7e7fd0236288e0be186_M.jpg"
+        width: 375
+        height: 249
+  - title: "IBM Services and C3.ai Announce Strategic Alliance for Digital Transformation With AI"
+    excerpt: "“The combination of C3.ai, IBM Services, and IBM Watson can help businesses rapidly embed AI into their critical workflows, enabling our clients to move to the future at pace.” “Businesses working to transform amid ongoing market disruption require partners with the industry expertise, proven platforms and services experience to help them ..."
+    publishedDateTime: 2020-02-27T15:22:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200227005645/en/IBM-Services-C3.ai-Announce-Strategic-Alliance-Digital"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 32
+    images:
+      - url: "https://mms.businesswire.com/media/20200227005645/en/710054/23/C3_Logo_300_black.jpg"
+        width: 1200
+        height: 627
 
-secured: "k6DR3pJKNsjtu7p76eQQsNTp7MF+RJjAwqX9lZuyExldtWKPLab/poU2lYlEmDdbcV7eXl2rxyvM3KGnpRTUpMel7gt7BdxMRNvxYPfv5b0bfm25lwFfnOEJticzTe2udUqN8k6nBjx6grkrU0bIOs8OWrj2r07ZNu6OsujaPjDnT5e+5MkgxPmhgAmeNIcaD5aFmHyCqsKsreN63hBIr2KbYkwxby2viZcWKM4VEdebEtXu/dlnX4RTzgWqEZFRjbMK5e5ql7ZUUBA1/tJ4toelUCI75S1amCPb157RxfFlQSfHKyZLMrXXdv19fRBd;YidNEuxFyG8umsIO4R8fkw=="
+secured: "LtahZN5lyOGKEX4JVrLz43SvslseDmbjGfqary8PyYf3XlqjXS9xmwTtlzBDCcnexcqi0pts3W6BDDZpnpPl7jfauu3gohRsy7hDGJUjoWSIIMBJC11/8LOOPat/m9YpvyNA7GRmcyynTaiWiLpIYGUdWCJUciuTYNUpyZB9hPw6SNzxaQSi/VZHCK6pPLdNbkXnwzlAQMCW6Xgi/AFh8E6RQX5WDhiEHD5O5JTkrBIlqWwVrsnwK8BQiJjRBKCPQ3zCHDNy5ynbCn1FuK/B3G6kyAHr8i5R9nkEetYd6katHio6oQK71ODrlu0//t/q4ZUedoCeq1ms2FmfORyo9H9X5VxRIeAKT5nlJJ6udHckSbg8xMVaKFOIF/Sp2bRYT5NDM1kobgkfuktbIjmqKNVpfk/PiLB8sQl4Ck1V4za8AEVAQ9eKwXZeGPsp4mS3Jo1eQw6PxbkxhYGATOS5DZHb66Ij08dKxTH5NISVVGo=;xFjxvMY85/NTOrEe6ArZvw=="
 ---
 

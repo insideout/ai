@@ -245,7 +245,7 @@ related:
     provider:
       name: Global News
       domain: globalnews.ca
-    quality: 44
+    quality: 46
   - title: "Controversial facial recognition startup Clearview AI hit by massive client data breach"
     excerpt: "Clearview AI, the Aussie-founded startup at the centre of a data privacy debate for its facial recognition software, has suffered a data breach reportedly exposing its entire customer list, and details about those customers. A notification sent to Clearview customers said an intruder had “gained unauthorized access” to the startup’s ..."
     publishedDateTime: 2020-02-27T01:20:00Z

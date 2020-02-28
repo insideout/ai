@@ -99,6 +99,21 @@ related:
       - url: "https://static.techspot.com/images2/news/ts3_thumbs/2019/02/2019-02-08-ts3_thumbs-29e.jpg"
         width: 800
         height: 560
+  - title: "Clearview AI’s client list includes 2,200 organizations spanning law enforcement to universities"
+    excerpt: "US Immigration and Customs Enforcement, the Department of Justice, the FBI, Macy’s, and Best Buy are among the thousands of government agencies and private companies using the software of facial recognition company Clearview AI, according to a leaked client list obtained exclusively by BuzzFeed News. Police departments on college campuses ..."
+    publishedDateTime: 2020-02-27T22:52:00Z
+    webUrl: "https://www.theverge.com/2020/2/27/21156678/clearview-ai-client-macy-fbi-doj-twitter-facebook-youtube"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/2/27/21156678/clearview-ai-client-macy-fbi-doj-twitter-facebook-youtube"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/27/21156678/clearview-ai-client-macy-fbi-doj-twitter-facebook-youtube"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 74
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/79RnC38ugAnDzyuWTKdtDr-O2xw=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66392277/jbareham_170417_1617_0001.0.jpg"
+        width: 1400
+        height: 933
   - title: "Facial recognition firm's entire client list exposed in data breach"
     excerpt: "Feb. 26 (UPI) --Clearview AI, a New York-based facial-recognition software company, said Wednesday that its entire database was exposed in a data breach. The company sent a notification to its customers saying that an intruder gained unauthorized access to ..."
     publishedDateTime: 2020-02-26T00:00:00Z

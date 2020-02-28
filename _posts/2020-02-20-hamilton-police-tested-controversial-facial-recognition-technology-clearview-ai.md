@@ -131,6 +131,21 @@ related:
       - url: "https://img.buzzfeed.com/buzzfeed-static/static/2020-02/26/20/campaign_images/6334040a1b66/which-sushi-roll-are-you-2-1830-1582750239-7_dblbig.jpg"
         width: 625
         height: 415
+  - title: "RCMP admits to using controversial Clearview AI facial recognition technology"
+    excerpt: "TORONTO -- The RCMP has admitted to using controversial facial recognition software developed by Clearview AI, a company currently under investigation by the federal privacy commissioner. According to a statement released Thursday, the National Child ..."
+    publishedDateTime: 2020-02-27T23:27:00Z
+    webUrl: "https://www.ctvnews.ca/canada/rcmp-admits-to-using-controversial-clearview-ai-facial-recognition-technology-1.4830939?cache=yes%3FclipId%3D373266%3FautoPlay%3Dtrue%3FclipId%3D89578"
+    ampWebUrl: "https://beta.ctvnews.ca/national/canada/2020/2/27/1_4830939.html"
+    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/canada/2020/2/27/1_4830939.html"
+    type: article
+    provider:
+      name: CTV News
+      domain: ctvnews.ca
+    quality: 71
+    images:
+      - url: "https://beta.ctvnews.ca/national/canada/2020/2/27/1_4830939/_jcr_content/root/responsivegrid/image.coreimg.jpg"
+        width: 620
+        height: 348
   - title: "Education Robot Maker Roybi Boosts Kids Speech Recognition Technology With Acquisition"
     excerpt: "“It’s not something you can build quickly,” says Sarraf. “It requires a lot of data and a lot of time.” Purchasing KidSense made sense because most commercial speech recognition tools are built based on data from adults speaking, she adds. Plus, the technology can work offline, meaning that children can still interact with Roybi on ..."
     publishedDateTime: 2020-02-25T18:06:00Z

@@ -8,8 +8,8 @@ ampWebUrl: "https://www.livemint.com/companies/start-ups/freshworks-acquires-us-
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/freshworks-acquires-us-based-ai-startup-answeriq/amp-11582806290835.html"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Mint
@@ -25,19 +25,6 @@ images:
     title: "Freshworks acquires US-based AI startup AnsweriQ"
 
 related:
-  - title: "Freshworks acquires AnsweriQ to enhance AI, machine learning capabilities"
-    excerpt: "Customer engagement software company, Freshworks has acquired intelligent automation for customer service vendor AnsweriQ in a move it says will enhances its artificial intelligence and machine learning capabilities in the customer engagement space. Freshworks says AnsweriQ - a provider of machine learning (ML) and artificial technologies (AI ..."
-    publishedDateTime: 2020-02-27T04:21:00Z
-    webUrl: "https://itwire.com/strategy/freshworks-acquires-answeriq-to-enhance-ai,-machine-learning-capabilities.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 53
-    images:
-      - url: "https://itwire.com/media/k2/items/cache/5843c2c90019f7e7fd0236288e0be186_M.jpg"
-        width: 375
-        height: 249
   - title: "Freshworks acquires AI customer service firm AnsweriQ"
     excerpt: "has acquired machine learning firm AnsweriQ to scale its AI customer service offerings. Financial details of the deal were not disclosed. Founded in 2017, US-based AnsweriQ is an AI-backed customer support company that uses algorithms to read and understand interactions from past tickets between the customer support agent and the customer."
     publishedDateTime: 2020-02-27T06:49:00Z

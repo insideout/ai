@@ -5,7 +5,7 @@ excerpt: "GEOSynths has released Deeper Vol 3, their 3rd and final bank of patch
 publishedDateTime: 2020-02-05T07:55:00Z
 webUrl: "https://sonicstate.com/news/2020/02/05/patches-for-your-deepmind-12/"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ topics:
   - AI
   - Google AI
 
+images:
+  - url: "https://s3.amazonaws.com/ww2.sonicftp.com/news/images/32517_197.jpg"
+    width: 720
+    height: 405
+    title: "Patches For Your DeepMind 12"
+
 related:
   - title: "Easy Juno 106 Sounds From Your DeepMind"
     excerpt: "Momo tells us that the DeepMind - Juno 106 Editor is a VST, AU and Standalone overlay midi editor that allows you to control the DeepMind 12 controls that are necessary to create the Juno 106 sounds. It is compatible with DeepMind 6 and DeepMind 12D A ..."
@@ -26,8 +32,12 @@ related:
     provider:
       name: Sonic State
       domain: sonicstate.com
-    quality: 19
+    quality: 39
+    images:
+      - url: "https://s3.amazonaws.com/ww2.sonicftp.com/news/images/32473_386.jpg"
+        width: 720
+        height: 405
 
-secured: "WLk3l0vf7huJrNVvuBxyXmrjE6jhMgJGO6au1A7wJlmD0N4Z/s1+YKNs0cAFfwd+JtiJXXqzD/WU/BCqGNEfQu7SHvcJcA4erqeC7hiXw6ddhXKhdcKp7XSJ+TJERV+qU1vN1ipMoCp/OLel8uplAzbIx0Q92sHrb+C3Qx9Ls8lkMHHDPdOWFAL7RwTfD/F8a8fxmgIyVaUwkoEnnT3tO0dFwfBCf1JashDXwEKmoF44JlNNX0lWmShZB3uB9mJyr/h33V81FBU2xTAV3VxP59vk8SwyvGlI5F+LZ+NlIuPXC2xdCcWvs3ia1MhnDETN;PtM9uZsP+/EiBv0E1nXi8g=="
+secured: "fPjcAo6TRyz9aggkYai5zhLfSK/cARanf2LB4uaH5c8cYLWlSNE3gQGMPRf/pgVMTlXlxYEJKrLTxgExMA0dFETVAbjNsYDuCrfQ8ITS7rgkeUL8WyO7EzXRpiykiOeeQ1oXARIpP786o7xUGrBatS1cYxZXjHV9U+fM4dLkrqcn/jgs6R1l4g0XFxDPs0Pv4gYCppy+rM37Rv/q6cYMWvYvyb7DY4M+DWzduDNXq2HeuwvQbLktSfh0f6Zh8bu0PhhTk/vLSEq6gyeMHjqyc1o/IN3Or5LWAl0aTZ1xFVr8I8CLwp5geL9Am3tywrd3;kSeeEhB8w6/fMHvfqXZ9Lg=="
 ---
 

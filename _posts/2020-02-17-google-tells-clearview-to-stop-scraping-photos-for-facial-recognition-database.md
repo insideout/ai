@@ -49,9 +49,9 @@ related:
   - title: "Yikes! 3 billion images stolen from facial recognition database"
     excerpt: "Clearview AI, the facial-recognition firm that contracts with law-enforcement agencies, reported its client list data has been breached by an intruder with “unauthorized access.” Careful not to call the breach a hack, the company notified its customers on Wednesday that the intruder stole its list of users, the numbers of accounts tied to ..."
     publishedDateTime: 2020-02-27T08:00:00Z
-    webUrl: "https://www.tomsguide.com/news/yikes-3-billion-images-stolen-from-facial-recognition-database"
-    ampWebUrl: "https://www.tomsguide.com/amp/news/yikes-3-billion-images-stolen-from-facial-recognition-database"
-    cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/news/yikes-3-billion-images-stolen-from-facial-recognition-database"
+    webUrl: "https://www.tomsguide.com/uk/news/yikes-3-billion-images-stolen-from-facial-recognition-database"
+    ampWebUrl: "https://www.tomsguide.com/uk/amp/news/yikes-3-billion-images-stolen-from-facial-recognition-database"
+    cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/uk/amp/news/yikes-3-billion-images-stolen-from-facial-recognition-database"
     type: article
     provider:
       name: Tom's Guide

@@ -24,66 +24,65 @@ images:
     title: "IBM Services and C3.ai Announce Strategic Alliance for Digital Transformation With AI"
 
 related:
-  - title: "The Amazing Ways Goodyear Uses Artificial Intelligence And IoT For Digital Transformation"
-    excerpt: "Although Goodyear is a mature company, they are on the cutting edge of using today’s newest technology to propel innovation and their business in the 21st century."
-    publishedDateTime: 2020-02-21T05:50:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2020/02/21/the-amazing-ways-goodyear-uses-artificial-intelligence-and-iot-for-digital-transformation/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2020/02/21/the-amazing-ways-goodyear-uses-artificial-intelligence-and-iot-for-digital-transformation/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/02/21/the-amazing-ways-goodyear-uses-artificial-intelligence-and-iot-for-digital-transformation/amp/"
+  - title: "DocuSign acquires Seal Software for $188M to enhance its AI chops"
+    excerpt: "These companies use Seal for its contract management tools, but also for its analytics, discovery and data extraction services. And it’s these AI smarts the company developed over time to help businesses analyze their contracts that made DocuSign acquire the company. This can help them significantly reduce their time for legal reviews ..."
+    publishedDateTime: 2020-02-27T23:39:00Z
+    webUrl: "https://techcrunch.com/2020/02/27/docusign-acquires-seal-software-for-188m-to-enhance-its-ai-chops/"
+    ampWebUrl: "https://techcrunch.com/2020/02/27/docusign-acquires-seal-software-for-188m-to-enhance-its-ai-chops/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/27/docusign-acquires-seal-software-for-188m-to-enhance-its-ai-chops/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 80
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e4f6b9f765d4500072cd7f2%2F0x0.jpg"
+      - url: "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-82570218.jpg?w=1024"
+        width: 1024
+        height: 682
+  - title: "DocuSign acquires Seal Software to bolster AI in Agreement Cloud"
+    excerpt: "DocuSign announced Thursday that it's buying Seal Software, a company focused on AI technology for contracts, for $188 million. Seal fits neatly into DocuSign's Agreement Cloud, a platform that lets people electronically prepare, sign, act-on and manage contract agreements. Seal's AI technology scans large collections of agreements by legal ..."
+    publishedDateTime: 2020-02-27T21:35:00Z
+    webUrl: "https://www.zdnet.com/article/docusign-acquires-seal-software-to-bolster-ai-in-agreement-cloud/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/docusign-acquires-seal-software-to-bolster-ai-in-agreement-cloud/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/docusign-acquires-seal-software-to-bolster-ai-in-agreement-cloud/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://zdnet3.cbsistatic.com/hub/i/r/2020/02/27/4aa0f980-f17b-4045-91c5-bb8aa93b19ca/thumbnail/1200x675/daa83dc58a469159c6bc9934e922dc2b/r-u-ok.jpg"
         width: 1200
-        height: 577
-  - title: "Digital Leap: Betting big on AI to transform businesses"
-    excerpt: "For example, Siemens recently launched the S7-1500 TM NPU module that is equipped with the AI-capable MyriadX Vision processing unit chip from Intel Movidius which, among other things, enables the efficient processing of neural networks. The module can be seamlessly integrated into the SIMATIC automation system, this way permitting a simple and ..."
-    publishedDateTime: 2020-02-16T19:52:00Z
-    webUrl: "https://www.financialexpress.com/industry/technology/digital-leap-betting-big-on-ai-to-transform-businesses/1868464/"
-    ampWebUrl: "https://www.financialexpress.com/industry/technology/digital-leap-betting-big-on-ai-to-transform-businesses/1868464/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/digital-leap-betting-big-on-ai-to-transform-businesses/1868464/lite/"
+        height: 675
+  - title: "DocuSign will pay $188M to acquire AI contract startup Seal Software"
+    excerpt: "Heavy appetizers, signature cocktails, wine, and beer will be served. Join us at MoPOP on March 26 as we reveal winners in 13 categories, including Startup of the Year, Innovation of the Year and Next Tech Titan. Tickets on sale now! Subscribe to GeekWire's free newsletters to catch every headline Beyond the signature: DocuSign introduces new ..."
+    publishedDateTime: 2020-02-27T21:47:00Z
+    webUrl: "https://www.geekwire.com/2020/docusign-will-pay-188m-acquire-ai-contract-startup-seal-software/"
+    ampWebUrl: "https://www.geekwire.com/2020/docusign-will-pay-188m-acquire-ai-contract-startup-seal-software/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/docusign-will-pay-188m-acquire-ai-contract-startup-seal-software/amp/"
     type: article
     provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 39
-  - title: "Microsoft Cloud is powering the digital transformation of Myntra, India’s leading fashion retailer online"
-    excerpt: "Amar Nagaram, CEO, Myntra By building and centralizing its data platform on Azure, Myntra is also applying advanced analytics and machine learning to gain a comprehensive understanding of customers and deliver highly personalized products, marketing, and service for them. The company is using Microsoft Power BI to empower its employees to ..."
-    publishedDateTime: 2020-02-19T10:10:00Z
-    webUrl: "https://www.onmsft.com/news/microsoft-cloud-powers-the-digital-transformation-of-myntra-indias-leading-fashion-retailer"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 37
+      name: GeekWire
+      domain: geekwire.com
+    quality: 87
     images:
-      - url: "https://i1.wp.com/www.onmsft.com/wp-content/uploads/2020/02/myntra-microsoft.jpg?fit=940%2C570&ssl=1"
-        width: 940
-        height: 570
-  - title: "Myntra accelerates its digital transformation journey with Microsoft Cloud"
-    excerpt: "By building and centralizing its data platform on Azure, Myntra is applying advanced analytics and machine learning to gain a comprehensive understanding of customers and deliver highly personalized products, marketing and service for them. The company is using Microsoft Power BI to empower its employees to visualize and act on real time ..."
-    publishedDateTime: 2020-02-19T10:12:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/cloud-computing/myntra-accelerates-its-digital-transformation-journey-with-microsoft-cloud/74208035"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/cloud-computing/myntra-accelerates-its-digital-transformation-journey-with-microsoft-cloud/74208035"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/cloud-computing/myntra-accelerates-its-digital-transformation-journey-with-microsoft-cloud/74208035"
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2015/05/docusign-document.jpg"
+        width: 713
+        height: 502
+  - title: "Freshworks acquires AnsweriQ to enhance AI, machine learning capabilities"
+    excerpt: "Customer engagement software company, Freshworks has acquired intelligent automation for customer service vendor AnsweriQ in a move it says will enhances its artificial intelligence and machine learning capabilities in the customer engagement space. Freshworks says AnsweriQ - a provider of machine learning (ML) and artificial technologies (AI ..."
+    publishedDateTime: 2020-02-27T04:21:00Z
+    webUrl: "https://itwire.com/strategy/freshworks-acquires-answeriq-to-enhance-ai,-machine-learning-capabilities.html"
     type: article
     provider:
-      name: ETCIO.com
-      domain: indiatimes.com
-    quality: 37
-  - title: "Myntra accelerates its digital transformation journey with Microsoft cloud"
-    excerpt: "By building and centralizing its data platform on Azure, Myntra is applying advanced analytics and machine learning to gain a comprehensive understanding of customers and deliver highly personalized products, marketing, and service for them. The company is using Microsoft Power BI to empower its employees to visualize and act on real-time ..."
-    publishedDateTime: 2020-02-22T00:19:00Z
-    webUrl: "https://www.newkerala.com/news/2020/27853.htm"
-    type: article
-    provider:
-      name: New Kerala
-      domain: newkerala.com
-    quality: 17
+      name: ITWire
+      domain: itwire.com
+    quality: 53
+    images:
+      - url: "https://itwire.com/media/k2/items/cache/5843c2c90019f7e7fd0236288e0be186_M.jpg"
+        width: 375
+        height: 249
 
-secured: "9+oxWjZggGqYSd2UcrKL2pLhq+uF12Uo9O+qc2bQ6ZoTMdoi4fha6qM0GLeBpy8ylG5Ss7ivMCY/GamBeiVGcVBUvktcyAdDClwlOtWgbfir0yQrM0BgDSu07HiTlLcQEYOpftp4vPq+9lCYxBE2fHuUvHK6czsH0BsxUe6dHw7m//AU0iltHDTmsSWhT/A4zc3bU66YhKAGu3dl3watgYjsGG4sznkAVRe8kfj1Psj3/0/7pqi+8oX5THxbpy1WlwJU+Bctc2x9QhaZ6xAoTqHGdrCr6V2Nnfe9g5vYVVL6+XM0ZapIz7BVrAwLD/nY;/eUsgHjM9fhfvGaEbfOiZQ=="
+secured: "xdRpWo79qG1w4MiteEnikht69//0uQJA57RdsQsMjlUrfZJGg7ID/ex9OjGE0NOasqi5QQxDKLY3E/1D0iI1CRxQzA9s7d6h3DCjnPOrDe4qLMW6brgFURDC2nJA7F9INkuy3EyEt5T4QTRkZ4HYTHHbYTPHG3lEp0AtKT06/XeM35Y76mnbU7hUW9CctFYFW5XnLODOnVOeaNtirjQuezfDC9xTmIDfvsOJd7cBqcPaFlDYydg+Z+tMRGQU2jUL+lQmhVTvzE1HcJsDR9QZqWQBCCwVbkoQpr9BI+WD1+/jnEVxhtHbOmS7cFowu8JcyMjb3ybvXJbWBHfk3b/3ofIdJjmeksCs+rPiChn11slR1vtY9NbuzVbP7zmbh1wrEaZ885lWiOfufD5IdaOQF1+CqTUTwAC77TzHnbGBWwCGmzbRwPMZNB+njU+W/skxSKPaZNeeOzf4WU/9FpeHZf6YsDlFg69gSikGSFR8EKQ=;3H5rAFWJpvS6pwPwNUOwWA=="
 ---
 

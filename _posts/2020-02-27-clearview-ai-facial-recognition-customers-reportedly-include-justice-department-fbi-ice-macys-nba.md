@@ -242,7 +242,7 @@ related:
     provider:
       name: Global News
       domain: globalnews.ca
-    quality: 44
+    quality: 46
   - title: "Facial Recognition Biz Clearview AI Suffers Data Breach"
     excerpt: "A controversial facial recognition company has just informed its customers of a data breach in which its entire client list was stolen. Clearview AI leapt to fame in January when a New York Times report claimed that the start-up had scraped up to three billion images from social media sites to add to its database. That makes it a useful ..."
     publishedDateTime: 2020-02-27T09:45:00Z
@@ -288,6 +288,6 @@ related:
         width: 1500
         height: 860
 
-secured: "DvcVpc/qk5EO8rpz6RZ7ZZv27TYTbmI4VtgA+N/fCLNyzEMJAAhkzQo8xnmuCcAgXx+YY4r1sp/k43vHedTHPmcthYiKBXoTPQJUNjpKE7RiQBZTh5n+5FrOYfQORKNmhe8jjTmOmfR3orwmaIyMgmBhuhRRQsqJ2rqBW8vX5JDr5r2wXOXvgEkrz350wunt5mrcQMzDXBa338/GKmDOfVi7VpIyTIG2/KFpWKWSCXGYG09ErBDl7AhIK6BHJjSW1Umy34WVa013k4b+68CNjC5RSnCDOTuwwfzUaTfsuROZLcLimtu0Na3SPbbYuugC;uMLE1gLixFashmarCqLeKA=="
+secured: "Tn0VJKbU/mmTsCybDxcwG4PYStxIlOOqlr8BzhLqDjjl2wEQXsHYqh7EjBTM9jlPSpCb/fv1Gps72yYPiY5l8Mhp4cHxDtIIoIjaIqS5JoI0jkcoh5qc32vkmi3lvcfp23dRxRVVWRAIsOcm/j98INYV0RAVrt0SvDk3K2+OSktnOrEJhCp250X6wx6/DpZvObyVbM/iyDkJflBhxxRFXKwk7PKCeTTwP6YZGcBHAMfNLKc2QCASH2FbGYvrU+3bi24znDV0AmP4iauz/2kyFXU5cIANaKL3j1uQuSAA0lo7ZHpLW/VecAAI/2hbwjseNNDYNzuYWPA3csPkpRX7hmikeTQeb6aL+ErvyYXP7IGo2f7F0yghs3qwJz/HUXa/GHIh8vpGDKDOGK8eizQrDOT5NDS5GbcKsfNjDFSsJmPeUTDziOwnyJi+F5qnCVK29o1fV56L2LY8Qm2cw/7HtdNwg9rTx/W+JGusLP2nGgk=;71637bOdYhyT1iRhFD1Qfw=="
 ---
 

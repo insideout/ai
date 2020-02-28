@@ -28,6 +28,6 @@ images:
     height: 600
     title: "Intel uses AI to find new customers in specific industries"
 
-secured: "MSwVXSZvzruZ5EB30ILS4AsXDBVwWk/RODo/41JjvhX/qu6RhTutKVuhtJ2n7mU+eQnFhaKyoLjPE9BQFVClH+dkpXVRo0DvzuJ1vbePJ1bK2tLqCM0cKLJ9nCzl9MouDQ8k9J64OkechWVQG9dGPZcTnUyw5Q2crHRdjHtCcoY73eUF6zXpk1QlLSrxBh67Z4ebNO23j56LfalIOgvMBCk0ALZHZu/Zw+WCEYwvBxiYM9hldKwrd0lL6Gs6I7+JhASUEX+lUJCOf3vVZKZUZVNNGzoqlhr0pYbAuoJyXvN13MMLnFDn3XmyY0ZEC0ky;c3in8WuI6q5xZYocyEqjEw=="
+secured: "Obt0tj4bH0snbCGooZd/TVPWAlx5K/9OEd8oycJtx+G7sBQHEtn/Gb2cGC9OKKtutOneZwSHx0KPkKyfwguGAueOzfylizUk5Mn8H9OWpFpduWGSkwldjUd/fR51qy/E5leQbU1k/EXJwLaP512SbvCTGaij9Ea+YI+WG2/O+8IfbhaMXear43zpntheGxhbWyJtv2VA7Ve+87Ik3/qJFBMYTw00+nXnI/vVW1uyexooUtc7EKRdOI/5FZLX629BhOUmzOXt1CfirUinCskWc5OJidy/ugM10VR2dir1q7vjgu7gTxDCdPZtDknm+d8h5sGUbbRwsYrqP1xcPBjS4g9DfGlcAm2tAAbKP5TJCcIL58VzmJyzX3VAkkmcB/wCLdbaa4Vk8YzAA7t7/xInrgXDynkxKyxugWZZj+RQZEDOK7rkN10MpXMrXbzxyv+BOuFSXpOjYj/dFvA3J1cBzbh7IXFhgAJd7Z7KctAm3H0=;Qj7V5D/ktm3Ke5ZntXidLA=="
 ---
 

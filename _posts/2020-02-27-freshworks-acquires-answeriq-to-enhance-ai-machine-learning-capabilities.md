@@ -24,30 +24,64 @@ images:
     title: "Freshworks acquires AnsweriQ to enhance AI, machine learning capabilities"
 
 related:
-  - title: "Freshworks acquires US-based AI startup AnsweriQ"
-    excerpt: "BENGALURU: Software-as-a-service (SaaS) unicorn Freshworks Inc. has acquired US-based artificial intelligence (AI) startup AnsweriQ Inc. for an undisclosed amount. Freshworks said that AnsweriQ complements its own AI engine, Freddy. AnsweriQ's chief executive officer (CEO) Pradeep Rathinam has joined Freshworks as its chief customer officer."
-    publishedDateTime: 2020-02-27T12:33:00Z
-    webUrl: "https://www.livemint.com/companies/start-ups/freshworks-acquires-us-based-ai-startup-answeriq-11582806290835.html"
-    ampWebUrl: "https://www.livemint.com/companies/start-ups/freshworks-acquires-us-based-ai-startup-answeriq/amp-11582806290835.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/freshworks-acquires-us-based-ai-startup-answeriq/amp-11582806290835.html"
+  - title: "DocuSign acquires Seal Software for $188M to enhance its AI chops"
+    excerpt: "These companies use Seal for its contract management tools, but also for its analytics, discovery and data extraction services. And it’s these AI smarts the company developed over time to help businesses analyze their contracts that made DocuSign acquire the company. This can help them significantly reduce their time for legal reviews ..."
+    publishedDateTime: 2020-02-27T23:39:00Z
+    webUrl: "https://techcrunch.com/2020/02/27/docusign-acquires-seal-software-for-188m-to-enhance-its-ai-chops/"
+    ampWebUrl: "https://techcrunch.com/2020/02/27/docusign-acquires-seal-software-for-188m-to-enhance-its-ai-chops/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/27/docusign-acquires-seal-software-for-188m-to-enhance-its-ai-chops/amp/"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 57
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
     images:
-      - url: "https://images.livemint.com/img/2020/02/27/600x338/Lead_1557161716457_1582806434181.jpg"
-        width: 600
-        height: 338
-  - title: "Freshworks acquires AI customer service firm AnsweriQ"
-    excerpt: "has acquired machine learning firm AnsweriQ to scale its AI customer service offerings. Financial details of the deal were not disclosed. Founded in 2017, US-based AnsweriQ is an AI-backed customer support company that uses algorithms to read and understand interactions from past tickets between the customer support agent and the customer."
-    publishedDateTime: 2020-02-27T06:49:00Z
-    webUrl: "https://www.techinasia.com/freshworks-acquires-answeriq"
+      - url: "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-82570218.jpg?w=1024"
+        width: 1024
+        height: 682
+  - title: "DocuSign acquires Seal Software to bolster AI in Agreement Cloud"
+    excerpt: "DocuSign announced Thursday that it's buying Seal Software, a company focused on AI technology for contracts, for $188 million. Seal fits neatly into DocuSign's Agreement Cloud, a platform that lets people electronically prepare, sign, act-on and manage contract agreements. Seal's AI technology scans large collections of agreements by legal ..."
+    publishedDateTime: 2020-02-27T21:35:00Z
+    webUrl: "https://www.zdnet.com/article/docusign-acquires-seal-software-to-bolster-ai-in-agreement-cloud/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/docusign-acquires-seal-software-to-bolster-ai-in-agreement-cloud/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/docusign-acquires-seal-software-to-bolster-ai-in-agreement-cloud/"
     type: article
     provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 49
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://zdnet3.cbsistatic.com/hub/i/r/2020/02/27/4aa0f980-f17b-4045-91c5-bb8aa93b19ca/thumbnail/1200x675/daa83dc58a469159c6bc9934e922dc2b/r-u-ok.jpg"
+        width: 1200
+        height: 675
+  - title: "DocuSign will pay $188M to acquire AI contract startup Seal Software"
+    excerpt: "Heavy appetizers, signature cocktails, wine, and beer will be served. Join us at MoPOP on March 26 as we reveal winners in 13 categories, including Startup of the Year, Innovation of the Year and Next Tech Titan. Tickets on sale now! Subscribe to GeekWire's free newsletters to catch every headline Beyond the signature: DocuSign introduces new ..."
+    publishedDateTime: 2020-02-27T21:47:00Z
+    webUrl: "https://www.geekwire.com/2020/docusign-will-pay-188m-acquire-ai-contract-startup-seal-software/"
+    ampWebUrl: "https://www.geekwire.com/2020/docusign-will-pay-188m-acquire-ai-contract-startup-seal-software/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/docusign-will-pay-188m-acquire-ai-contract-startup-seal-software/amp/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 87
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2015/05/docusign-document.jpg"
+        width: 713
+        height: 502
+  - title: "IBM Services and C3.ai Announce Strategic Alliance for Digital Transformation With AI"
+    excerpt: "“The combination of C3.ai, IBM Services, and IBM Watson can help businesses rapidly embed AI into their critical workflows, enabling our clients to move to the future at pace.” “Businesses working to transform amid ongoing market disruption require partners with the industry expertise, proven platforms and services experience to help them ..."
+    publishedDateTime: 2020-02-27T15:22:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200227005645/en/IBM-Services-C3.ai-Announce-Strategic-Alliance-Digital"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 32
+    images:
+      - url: "https://mms.businesswire.com/media/20200227005645/en/710054/23/C3_Logo_300_black.jpg"
+        width: 1200
+        height: 627
 
 secured: "WaJaZKo26l0B57FPG7xs1f7FFidd3FyCcZmZsXbTW9Gqa8XiVN36HTQSu0m+ZOFY8ZfHhiPTADQgmHOhontaRSOYBceYtvHjmE3ifUeBiPteMQOquzbFj5lq1cGyi/D8N1voAd2++iV34SeFlNypehgDpYbDwvZ0LVqtz8oAcePi2sXwfk5JFgL5Df16rcl/L8PAwSRmWeL08b4ct7hqaBwsZW+O1p1ANVxMQ6K1otKoWON4ukorAUHWcQonzwCqFeu4KG70aqFXon1zi+SWA1oHU5x8OFHfG0HkfCqBf4AvHk7hspbGSWo4MY3Eh2MAcL+RFtrjLepmUuneXIpk1HGUCSoYW6UMJRMEyriwiZVVZeokkGD3oc3kznJuHnWYr7n77I/+lo4WwQ7e3P+XXqSXIz8lNj1NTUGKAyGNm7BpTOaCsBuPr3GhK1IRUWqX6kZk97e9Ktd0WwYnGBukxY1mC0lJS3AA06fQSta4F2A=;OJWN/a4AIcmAecssy6UduA=="
 ---

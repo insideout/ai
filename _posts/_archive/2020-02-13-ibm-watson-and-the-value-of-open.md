@@ -5,8 +5,8 @@ excerpt: "No single company can explore all of possible ways to use AI on their 
 publishedDateTime: 2020-02-13T03:10:00Z
 webUrl: "https://www.forbes.com/sites/henrychesbrough/2020/02/12/ibm-watson-and-the-value-of-open/"
 type: article
-quality: 49
-heat: 49
+quality: 69
+heat: 69
 published: false
 
 provider:
@@ -21,6 +21,12 @@ topics:
   - AI
   - IBM AI
 
-secured: "4GCSkmldNAMbIf6k295k162iPbX4i2PdcOZhHuChDypxMlNBE8nv87hKJA+c9WyTSXVmwuHQyinjabnrUmh7Knp7Jv5PcVEahlbWRZjRSOmlCvrPgR2GXzlM2ij3FnTuMPiXq4MtDMB22QiMCYLdo+N6X9ka/IMazZ0U0/9hYNYYIQ4ITNS8J7/f9qk2bM6eJyJrzhb9ftZvcw6RB9+BQCH9nX7cOsczaB9DayTJoijzK4eu2CMDBT/U8784o7B2IZqHhbCphhmO6uLhM/RGuJHiCk5vmVbs2CRK+Mh55s8PDC2a8wnxkwf0t0G1xfK4OqZXG/1DyGhf3Kfm1DnZmGV/hw01SEwvm7umVUxMux2n5MVoR3PWel4Z18qgPUO8CwEtXsYi/G/N1TIqC6JSmaSeJ3gW98zrArRM4ZswU9GQWMRCuU/Bgg+37961xI0FnSmd9uykqWDGMY0kzNjJVJePOI6CemaE6HP5Ce3aHpE=;47PqKhxliEaQQ7pd4Zr0Qg=="
+images:
+  - url: "https://thumbor.forbes.com/thumbor/600x315/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e448c1ea854780006b1230c%2F960x0.jpg"
+    width: 600
+    height: 315
+    title: "IBM Watson And The Value Of Open"
+
+secured: "hzoslo+97iQ+XHADHpFa6TovUPntyR4rghT2agk4hiE2khpApdsqulwSuopTZ/BN1VqIX36FN7Yezp0v+fuWNJVI3UbTRs81+w5SCS6pFY5S2NkIzVnD/n/fuEdusi6rLo4J05dSVidM2cWpH04joERmCuBWHLPrMrzPDr7BMh993xXSUgwIGfMyMeOABZhojYezIZbEsei5gq/UeJmnAOqUmU5niWcXo25pA7Sxce5dd+howKgwT7bVIf/bjRFkaS6SLpO7mBEo0FiZZU5fBAOwerYB3Jbr3hEiYYMSI5vEeiuwNXxwdAiDayRtaRER;Anes/Kwaghng5nc0VplCZQ=="
 ---
 
