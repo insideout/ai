@@ -1,21 +1,21 @@
 ---
 category: news
-title: "Facial recognition startup Clearview AI says its full client list was stolen"
-excerpt: "Most of the company's customers are law enforcement agencies. You might expect a high-profile (and controversial) facial recognition startup like Clearview AI would have its data locked down, but it turns out it's just as vulnerable as almost any other company to malicious individuals. In a notification obtained by The Daily Beast, the company ..."
-publishedDateTime: 2020-02-26T20:45:00Z
-webUrl: "https://www.engadget.com/2020/02/26/clearview-ai-client-list-exposure/"
-ampWebUrl: "https://www.engadget.com/amp/2020/02/26/clearview-ai-client-list-exposure/"
-cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/26/clearview-ai-client-list-exposure/"
+title: "Clearview said its facial recognition app was only for law enforcement as it courted private companies"
+excerpt: "After claiming that it would only sell its controversial facial recognition software to law enforcement agencies, a new report suggests that Clearview AI is less than discerning about its client base. According to Buzzfeed News, the small, secretive company looks to have shopped its technology far and wide. While Clearview counts ICE ..."
+publishedDateTime: 2020-02-28T00:45:00Z
+webUrl: "https://techcrunch.com/2020/02/27/clearview-facial-recognition-private-companies/"
+ampWebUrl: "https://techcrunch.com/2020/02/27/clearview-facial-recognition-private-companies/amp/"
+cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/27/clearview-facial-recognition-private-companies/amp/"
 type: article
-quality: 101
+quality: 88
 heat: -1
 published: false
 
 provider:
-  name: Engadget
-  domain: engadget.com
+  name: TechCrunch
+  domain: techcrunch.com
   images:
-    - url: "/assets/images/organizations/engadget.com-50x50.jpg"
+    - url: "/assets/images/organizations/techcrunch.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -24,10 +24,10 @@ topics:
   - Computer Vision
 
 images:
-  - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-02%252Fbe661900-58d2-11ea-a7be-f35353dadc7d%26client%3Da1acac3e1b3290917d92%26signature%3De8442a5ba6d800bf23f2af01238efff47f2da2a9&client=amp-blogside-v2&signature=0b578e5a72b9b247df1c85c755266db45c5d71ee"
-    width: 600
-    height: 350
-    title: "Facial recognition startup Clearview AI says its full client list was stolen"
+  - url: "https://techcrunch.com/wp-content/uploads/2019/11/GettyImages-1167845607.jpg?w=1024"
+    width: 1024
+    height: 576
+    title: "Clearview said its facial recognition app was only for law enforcement as it courted private companies"
 
 related:
   - title: "Facial recognition company Clearview AI probed by Canada privacy agencies"
@@ -45,6 +45,21 @@ related:
       - url: "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png"
         width: 1200
         height: 630
+  - title: "Facial recognition startup Clearview AI says its full client list was stolen"
+    excerpt: "Most of the company's customers are law enforcement agencies. You might expect a high-profile (and controversial) facial recognition startup like Clearview AI would have its data locked down, but it turns out it's just as vulnerable as almost any other company to malicious individuals. In a notification obtained by The Daily Beast, the company ..."
+    publishedDateTime: 2020-02-26T20:45:00Z
+    webUrl: "https://www.engadget.com/2020/02/26/clearview-ai-client-list-exposure/"
+    ampWebUrl: "https://www.engadget.com/amp/2020/02/26/clearview-ai-client-list-exposure/"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/26/clearview-ai-client-list-exposure/"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 101
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-02%252Fbe661900-58d2-11ea-a7be-f35353dadc7d%26client%3Da1acac3e1b3290917d92%26signature%3De8442a5ba6d800bf23f2af01238efff47f2da2a9&client=amp-blogside-v2&signature=0b578e5a72b9b247df1c85c755266db45c5d71ee"
+        width: 600
+        height: 350
   - title: "Canadian Privacy Commissioners to Investigate Creepy Facial Recognition Firm Clearview AI"
     excerpt: "Canadian authorities are investigating shady face recognition company Clearview AI on the grounds that its scraping of billions of photos from the web might violate privacy laws, Reuters reported on Friday. According to Reuters, privacy commissioners from the Canadian federal government and of the provinces of British Columbia, Alberta ..."
     publishedDateTime: 2020-02-21T23:37:00Z
@@ -90,21 +105,6 @@ related:
       - url: "https://cnet4.cbsistatic.com/img/JsUigaPqhHEO0XUYO41ZqO-Z-vo=/756x567/2020/01/18/2bde6ea9-4f91-4473-a8fb-1418d9ac5c7d/facial-recognition-james-martin-promo-1.jpg"
         width: 756
         height: 567
-  - title: "Clearview said its facial recognition app was only for law enforcement as it courted private companies"
-    excerpt: "After claiming that it would only sell its controversial facial recognition software to law enforcement agencies, a new report suggests that Clearview AI is less than discerning about its client base. According to Buzzfeed News, the small, secretive company looks to have shopped its technology far and wide. While Clearview counts ICE ..."
-    publishedDateTime: 2020-02-28T00:45:00Z
-    webUrl: "https://techcrunch.com/2020/02/27/clearview-facial-recognition-private-companies/"
-    ampWebUrl: "https://techcrunch.com/2020/02/27/clearview-facial-recognition-private-companies/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/27/clearview-facial-recognition-private-companies/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 88
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/11/GettyImages-1167845607.jpg?w=1024"
-        width: 1024
-        height: 576
   - title: "Facial Recognition Company Clearview AI Probed by Canada Privacy Agencies"
     excerpt: "Canadian privacy authorities have launched an investigation into New York-based Clearview AI to determine whether the firm's use of facial recognition technology complies with the country's privacy laws,"
     publishedDateTime: 2020-02-22T09:32:00Z
@@ -333,6 +333,6 @@ related:
         width: 1500
         height: 860
 
-secured: "7pVNKtJCdgcRadwO6K4ukowzZO1bbmy1CTbPbNEzasuut1YMqDNw2kGoI0hPD4KjD9H3nWkfyQUO9iYT3qByTpJ1BlAMbaMcu6kjTtmBGFhUsHkI7NXp2usWuEmft29yFsyO+dMCOwRenVu8rq3RADdGj8nBXCRXDhZ8NlECxmP5w1cRUwdLSOMnIMZFCyc8Ms0YdvvnigetDxjzbOt6kagkbeizTRiJzyclZCP1O5DLU8QVEdECa68aKxDmVY4HxwwY4Bk+9HZu+A6rf+PEuwWnBlKWpnp2oxwpir5ZM6ZfpKVkT7YfzDna5nJTa8VYhT9VLseXOBDybkT3c/1Ictetb2vbXwgvfYfvFHq/2aXy1Fi0h4+rESXUMj0XaVEr4QZO8YmObStec7NPa82CpWowmY/bYdSnS1w00Vrc/Wwtn8xydz+LYaFW8CVkBMpdFidUpaieBGxd/QnEhDpQPiknOzPuopWNfp4fBHeuG0Q=;Nv1RRejePivICZcl1mBwZw=="
+secured: "643YUxkV4hbFSwau1G52BQHasTrErO5TcvfuzP10H4+wO4wQkJ4IuotHBjkCCmzL/Otwv9T4kAjCL1qX8jxX8TdBr+nGQgKxNKDrfYDEnQKneeJGv5ovXad5fWLAl3z+zyFvrVeyPhRHHGtqIN3HiMtedfWrgJBomGtlxvYGXdW+uFG9+UiGV5kjTONcXnAvOjz94zZIy0TCEtjIvNKfURdzdKtt6Z3jUmk6wLW9Bu1n32rjRZDavpFFN3k1TRLpY4/pTHmKVt6SXaQwTc0LM5awCWy7yKhy5HSQs3aGQd0Iy+HsKmU3fh7bWc2p4cf7;ZqTHzy8/zD5W4ckny8gUHw=="
 ---
 

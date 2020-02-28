@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-21T17:08:00Z
 webUrl: "https://theintercept.com/2020/02/21/eu-facial-recognition-database/"
 type: article
 quality: 126
-heat: 256
+heat: 266
 published: true
 
 provider:
@@ -24,6 +24,21 @@ images:
     title: "Leaked Reports Show EU Police Are Planning a Pan-European Network of Facial Recognition Databases"
 
 related:
+  - title: "Clearview AI leak names businesses using its facial recognition database"
+    excerpt: "Thousands of organizations from around the globe gave the software a try. One of the most vehement arguments against Clearview AI's practice of scraping billions of photos from millions of public websites to build its facial recognition database was that the company's data storage and security protocols were both untested and unregulated."
+    publishedDateTime: 2020-02-28T00:03:00Z
+    webUrl: "https://www.engadget.com/2020/02/27/clearview-ai-leak-businesses-facial-recognition/"
+    ampWebUrl: "https://www.engadget.com/amp/2020/02/27/clearview-ai-leak-businesses-facial-recognition/"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/27/clearview-ai-leak-businesses-facial-recognition/"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 103
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D3517%252C2369%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1078%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-02%252Fbb007560-59ba-11ea-be3e-be5d86d0651e%26client%3Da1acac3e1b3290917d92%26signature%3Dcaef0bb17abc5044449c4fda2be1bedd3c1c36b0&client=amp-blogside-v2&signature=60d75311e1a32aad0c006a6d335c5215c67899f3"
+        width: 600
+        height: 350
   - title: "Facial recognition database Clearview AI faces data breech"
     excerpt: "Chicago Police Department is a client of the firm. A construction worker walks past facial recognition screens at the entrance to the terminal building of the new Beijing Daxing International Airport, in Beijing on March 1, 2019. Facial recognition software firm Clearview AI has been hit with a data breach. Photo credit should read GREG BAKER ..."
     publishedDateTime: 2020-02-27T00:03:00Z

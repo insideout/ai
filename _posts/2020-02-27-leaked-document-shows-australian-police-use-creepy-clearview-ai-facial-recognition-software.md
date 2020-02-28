@@ -1,21 +1,27 @@
 ---
 category: news
-title: "Scotland Yard make first arrest using live facial recognition technology"
-excerpt: "The live technology was rolled out in London last month despite concerns from privacy campaigners that it eroded civil liberties Credit: PA Scotland Yard have made their first arrest using controversial facial recognition technology. The country’s biggest police force began rolling out the live technology in London last month despite ..."
-publishedDateTime: 2020-02-27T20:27:00Z
-webUrl: "https://www.telegraph.co.uk/news/2020/02/27/scotland-yard-make-first-arrest-using-live-facial-recognition/"
+title: "Leaked Document Shows Australian Police Use Creepy Clearview AI Facial Recognition Software"
+excerpt: "Australian police forces have previously denied using controversial facial recognition software, Clearview AI, but a new Buzzfeed report suggests employees within the organisations have undertaken thousands of searches using the software. According to internal Clearview AI data obtained by Buzzfeed News, four Australian police forces are ..."
+publishedDateTime: 2020-02-27T23:00:00Z
+webUrl: "https://www.gizmodo.com.au/2020/02/australian-police-clearview-ai-facial-recognition/"
 type: article
-quality: 18
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: The Daily Telegraph
-  domain: telegraph.co.uk
+  name: Gizmodo Australia
+  domain: gizmodo.com.au
 
 topics:
   - AI
   - Computer Vision
+
+images:
+  - url: "https://edge.alluremedia.com.au/m/g/2020/02/police.jpg"
+    width: 1200
+    height: 675
+    title: "Leaked Document Shows Australian Police Use Creepy Clearview AI Facial Recognition Software"
 
 related:
   - title: "Met police chief: facial recognition technology critics are ill-informed"
@@ -348,19 +354,6 @@ related:
       - url: "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/QCLDUALHANGKPFFLNERXQHYXQQ.jpg"
         width: 2016
         height: 1512
-  - title: "Leaked Document Shows Australian Police Use Creepy Clearview AI Facial Recognition Software"
-    excerpt: "Australian police forces have previously denied using controversial facial recognition software, Clearview AI, but a new Buzzfeed report suggests employees within the organisations have undertaken thousands of searches using the software. According to internal Clearview AI data obtained by Buzzfeed News, four Australian police forces are ..."
-    publishedDateTime: 2020-02-27T23:00:00Z
-    webUrl: "https://www.gizmodo.com.au/2020/02/australian-police-clearview-ai-facial-recognition/"
-    type: article
-    provider:
-      name: Gizmodo Australia
-      domain: gizmodo.com.au
-    quality: 44
-    images:
-      - url: "https://edge.alluremedia.com.au/m/g/2020/02/police.jpg"
-        width: 1200
-        height: 675
   - title: "GTA police chiefs say facial recognition needs more review — but cops should be able to use AI"
     excerpt: "The chiefs of two Greater Toronto Area police forces now slamming the brakes on the use of a contentious facial recognition tool admit the app should have undergone greater scrutiny before it was tested by their investigators. Clearview AI, a U.S.-based app providing an artificial intelligence-powered tool to law enforcement agencies ..."
     publishedDateTime: 2020-02-23T19:13:00Z
@@ -579,6 +572,15 @@ related:
       name: Infosecurity-magazine.com
       domain: infosecurity-magazine.com
     quality: 18
+  - title: "Scotland Yard make first arrest using live facial recognition technology"
+    excerpt: "The live technology was rolled out in London last month despite concerns from privacy campaigners that it eroded civil liberties Credit: PA Scotland Yard have made their first arrest using controversial facial recognition technology. The country’s biggest police force began rolling out the live technology in London last month despite ..."
+    publishedDateTime: 2020-02-27T20:27:00Z
+    webUrl: "https://www.telegraph.co.uk/news/2020/02/27/scotland-yard-make-first-arrest-using-live-facial-recognition/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 18
   - title: "Chief says police will not use face recognition until technology has been fully reviewed"
     excerpt: "WATERLOO REGION — Controversial facial recognition technology is not being used by local police and won't be until it is fully reviewed, said the police chief. Waterloo Regional Police Chief Bryan Larkin said he will be issuing an internal memo telling all officers that they are not to use face recognition apps in their investigations."
     publishedDateTime: 2020-02-20T04:31:00Z
@@ -611,6 +613,6 @@ related:
       domain: seattletimes.com
     quality: 0
 
-secured: "WHWFYRxhghgDHjGCQwJC2msOBsgHUmmFeK1BeyzvnebRyJ4Atfn103aH69Ux04LrO409J80HsqZVzDvgICS4jIdMFlSkVfQh/fcPJxef/OjXEYUPDvSyKEyQUnG/04HqYvpj03hOIMET1cEYGmILPC7Y99W9RduzTLCib7+n6rgUjtHfI9XkAJTnMTzjgTvzxoNBFNuoQYBUtSaifQOaPLZV+RVqeEtvNhpX5mOkGqf/DvrYIAPaXDBW9ncUymJvuL9szihkVlUk98uWJYbDJfWUuWTvLjd33Ov3Gylhe0iXofVWwsIyJeKoVFhOMecQPzuPOzVZ8qzbpTd9abeOHeIgdgwa7O11p71FirQ3OL27NFYmHp/nPJhRi0YpTHT8d+XMGfZRvQlJiOoT9EB2fRTO22rB3P4vcnf4fxhsnx52MM3RC7rIoJswYNjfbjpa5VUnBACqX8K4dExq55lZ/NO/mcLwax0VdE7+vH7OyYU=;rsI5AXmYF3yn4KiQmPt7yQ=="
+secured: "hcKdPDaVF+oBk/n6WCJ/rLoEAW0asdPnWJzYC3K+Lw6lesDdqL98iXvCXusmPyP75YyVz9zcoydR5Gb9X9OQkzZ3OBSA2gtEWvsJQE47OvtxHAAg8YM7K0YXinJYH4dPntVXda8gblsGlGmACy0PKhrtVvO6M0AnfNhLCpcAF4y9hugWPIZlNNnJVJxWVJfNaKiaK+wCGSgeaxi1VfvwQExZXQPl8msJgiGL+ct4jTNfI3OivRFt1ygvcAQj4xYlfTv1cQ7sGWxjYd4NybZ8U9QMs5b15tn4uqBQKpINt/n+YlCOtpWyM/t7g/YGqV2Y;2hgeWqfiW/er2xGP/1D/bA=="
 ---
 

@@ -2,26 +2,20 @@
 category: news
 title: "Spherix Attends Artificial Intelligence and Machine Learning Pharmaceutical Development Conference"
 excerpt: "The AI-ML in Drug Development Summit is the only conference to bring together industry leaders, technology experts and academics focused on augmenting the R&D processes through the use of Artificial Intelligence and Machine Learning. The event, scheduled for February 24-26, 2020 at the DoubleTree by Hilton Hotel San Diego - Mission Valley ..."
-publishedDateTime: 2020-02-25T17:14:00Z
-webUrl: "https://www.prnewswire.com/news-releases/spherix-attends-artificial-intelligence-and-machine-learning-pharmaceutical-development-conference-301010702.html"
+publishedDateTime: 2020-02-26T00:49:00Z
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/spherix-attends-artificial-intelligence-and-machine-learning-pharmaceutical-development-conference/article_07cbb0d2-985f-53c1-99fa-09fc84e38061.html"
 type: article
-quality: 40
+quality: 20
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI
   - Machine Learning
-
-images:
-  - url: "https://mma.prnewswire.com/media/159881/spherix_incorporated_logo.jpg?p=facebook"
-    width: 1397
-    height: 733
-    title: "Spherix Attends Artificial Intelligence and Machine Learning Pharmaceutical Development Conference"
 
 related:
   - title: "How AI is shaping the new life in life sciences and pharmaceutical industry"
@@ -39,6 +33,19 @@ related:
       - url: "https://images.yourstory.com/cs/2/f02aced0d86311e98e0865c1f0fe59a2/Future-of-work-AI-in-life-Science-1582471180105.png?fm=png&auto=format"
         width: 800
         height: 400
+  - title: "Spherix Attends Artificial Intelligence and Machine Learning Pharmaceutical Development Conference"
+    excerpt: "The AI-ML in Drug Development Summit is the only conference to bring together industry leaders, technology experts and academics focused on augmenting the R&D processes through the use of Artificial Intelligence and Machine Learning. The event, scheduled for February 24-26, 2020 at the DoubleTree by Hilton Hotel San Diego - Mission Valley ..."
+    publishedDateTime: 2020-02-25T17:14:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/spherix-attends-artificial-intelligence-and-machine-learning-pharmaceutical-development-conference-301010702.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 40
+    images:
+      - url: "https://mma.prnewswire.com/media/159881/spherix_incorporated_logo.jpg?p=facebook"
+        width: 1397
+        height: 733
   - title: "How artificial intelligence may aid the poultry industry"
     excerpt: "Robots offer not only higher productivity and profits, but their presence can also contribute to improved health and welfare. robot-avcola-Octopus-granja-2 The most visible signs of employment of artificial intelligence on farm is in the form of robots that not only improve efficiency but benefit bird welfare. Octopus Robots Some robots ..."
     publishedDateTime: 2020-02-17T18:22:00Z
@@ -48,16 +55,7 @@ related:
       name: WATTAgNet
       domain: wattagnet.com
     quality: 34
-  - title: "Spherix Attends Artificial Intelligence and Machine Learning Pharmaceutical Development Conference"
-    excerpt: "The AI-ML in Drug Development Summit is the only conference to bring together industry leaders, technology experts and academics focused on augmenting the R&D processes through the use of Artificial Intelligence and Machine Learning. The event, scheduled for February 24-26, 2020 at the DoubleTree by Hilton Hotel San Diego - Mission Valley ..."
-    publishedDateTime: 2020-02-26T00:49:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/spherix-attends-artificial-intelligence-and-machine-learning-pharmaceutical-development-conference/article_07cbb0d2-985f-53c1-99fa-09fc84e38061.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 20
 
-secured: "UhFecUx1zI9Yn+UeBfiRNz6X0+bgVYSLMbrjCwonASbFeNv7ClpoZm1Lb4SNbGd3Hsl4G/mBwrWv47DbAds1oZJrN19bHKx66fWR15hxagANegLpIV3oPmaIX/Rqj/sAaDHf6qFsHOrMdjjjimJ14Xio4/GBLLNvdpyWNzdgbJdQVf4ItD3ba9Ugj+C3h47fd6OIJPWUFIHWZnl0R0JsN/2GJdugBa8oYT9QWeZzpaf6vOuMwYB/ew6fJtWL/XFHUkVB5w39AkKezvaeyYkFbyAFcMOIEb3Yq+S5HWI5kRim3+D9hs0SepK4whQeYPqkwo4ULzVAUH2zyWpEnf8gh6pcnqly7DI13KyjQkkfE+YPsWkjXKYDTPlXcY1lcuPX+Om+KCZqMq3GDC2dJHC+rcM6RxgER1Mx1lnUVH09J/tuqQw0vDjZmsrImT/zW+y8rAVhCf8eFvvDXIOU8Uqjdr0mBKYl6b4M3JWLpaDU95I=;Ri6orWDrVelB2QJ+agvFYg=="
+secured: "kLdVBlZwPBeAwde6luz9QBCUE2VmN7TkqbSAWtOQrwEFMIk1jMgupoq6BYqMQM2y7qy1u/qMT92pycgukuKCBouTQgqeg061Cj0+VNB6orDxzhT6m7k9xmxYaATp0rBakwscI9hcL5pwlSa7QuKVNvrLyPwKuW+53Vpyp31QliSWAOVPLdpbwGTcgW2Xd5YIDSYLFgUzpPPCHXGhRHiJCyxDKi1wTy9WsO6PYuSBaDxbzRyAtGIdOsCkrWx/fxKKR8+V489WDpnCpxEvPRViqSJa6K+W/MB8Evf3mjv5kA77X4fkC9BfFjyR+zP30Lng+kLwdyoEO4GmJLaGXaXy7KoiXZRhtr0aisrxr7uP9l0cJidMxwAOSx8GuZXJoLuQygWoMqYoTaJJ+sac0OLRskYO/JAdOyCplmfNMwZXZXrV4Qd9Z11y+lAc5LJyQfzxWvFXtufYc3D9K7GVCXuIzTX7P9bK0dcr8/MOvWhQEoI=;XulLyaKCwpQ1uzy1Qntgdw=="
 ---
 

@@ -8,7 +8,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN20F2I3"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN20F2I3"
 type: article
 quality: 103
-heat: 293
+heat: 323
 published: true
 
 provider:
@@ -60,6 +60,21 @@ related:
       - url: "https://i.kinja-img.com/gawker-media/image/upload/s--k8Q9PwVM--/c_scale,f_auto,fl_progressive,q_80,w_800/thuqbup5w7zmofhx9lam.png"
         width: 800
         height: 450
+  - title: "Clearview AI facial recognition customers reportedly include Justice Department, FBI, ICE, Macy's"
+    excerpt: "The client list for Clearview AI, a controversial facial recognition app being used by US police to identify suspects and others, has been leaked. Customers reportedly include not only law enforcement agencies like Immigration and Customs Enforcement and the Department of Justice, but also companies such as retail giant Macy's. BuzzFeed News ..."
+    publishedDateTime: 2020-02-28T00:24:00Z
+    webUrl: "https://www.cnet.com/news/clearview-ai-facial-recognition-customers-reportedly-include-ice-justice-department-fbi-macys/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/clearview-ai-facial-recognition-customers-reportedly-include-ice-justice-department-fbi-macys/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/clearview-ai-facial-recognition-customers-reportedly-include-ice-justice-department-fbi-macys/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 91
+    images:
+      - url: "https://cnet4.cbsistatic.com/img/JsUigaPqhHEO0XUYO41ZqO-Z-vo=/756x567/2020/01/18/2bde6ea9-4f91-4473-a8fb-1418d9ac5c7d/facial-recognition-james-martin-promo-1.jpg"
+        width: 756
+        height: 567
   - title: "Clearview AI facial recognition customers reportedly include Justice Department, FBI, ICE, Macy's, NBA"
     excerpt: "The client list of Clearview AI, a controversial facial recognition app being used by US law enforcement to identify suspects and other people, has been leaked. Its customers reportedly include not only law enforcement agencies like ICE and the Justice Department,"
     publishedDateTime: 2020-02-27T22:12:00Z
@@ -75,6 +90,21 @@ related:
       - url: "https://cnet4.cbsistatic.com/img/JsUigaPqhHEO0XUYO41ZqO-Z-vo=/756x567/2020/01/18/2bde6ea9-4f91-4473-a8fb-1418d9ac5c7d/facial-recognition-james-martin-promo-1.jpg"
         width: 756
         height: 567
+  - title: "Clearview said its facial recognition app was only for law enforcement as it courted private companies"
+    excerpt: "After claiming that it would only sell its controversial facial recognition software to law enforcement agencies, a new report suggests that Clearview AI is less than discerning about its client base. According to Buzzfeed News, the small, secretive company looks to have shopped its technology far and wide. While Clearview counts ICE ..."
+    publishedDateTime: 2020-02-28T00:45:00Z
+    webUrl: "https://techcrunch.com/2020/02/27/clearview-facial-recognition-private-companies/"
+    ampWebUrl: "https://techcrunch.com/2020/02/27/clearview-facial-recognition-private-companies/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/27/clearview-facial-recognition-private-companies/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 88
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2019/11/GettyImages-1167845607.jpg?w=1024"
+        width: 1024
+        height: 576
   - title: "Facial Recognition Company Clearview AI Probed by Canada Privacy Agencies"
     excerpt: "Canadian privacy authorities have launched an investigation into New York-based Clearview AI to determine whether the firm's use of facial recognition technology complies with the country's privacy laws,"
     publishedDateTime: 2020-02-22T09:32:00Z
@@ -243,6 +273,21 @@ related:
       name: Global News
       domain: globalnews.ca
     quality: 46
+  - title: "Australian Police Have Used A Facial Recognition Tool That Seriously Threatens Privacy, But Never Told Anyone About It"
+    excerpt: "Four of Australia’s police forces have registered users with controversial facial recognition company Clearview AI, a client list obtained by BuzzFeed News reveals. Clearview AI says its powerful and unprecedented facial recognition tool can be used to identify a person in almost any situation. It says it has amassed a database of billions of ..."
+    publishedDateTime: 2020-02-28T00:39:00Z
+    webUrl: "https://www.buzzfeed.com/hannahryan/clearview-ai-australia-police"
+    ampWebUrl: "https://www.buzzfeed.com/amphtml/hannahryan/clearview-ai-australia-police"
+    cdnAmpWebUrl: "https://www-buzzfeed-com.cdn.ampproject.org/c/s/www.buzzfeed.com/amphtml/hannahryan/clearview-ai-australia-police"
+    type: article
+    provider:
+      name: BuzzFeed
+      domain: buzzfeed.com
+    quality: 35
+    images:
+      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2017-10/5/0/campaign_images/buzzfeed-prod-fastlane-01/the-faces-of-all-australian-drivers-will-now-be-p-2-8236-1507179177-0_dblbig.jpg"
+        width: 625
+        height: 415
   - title: "Facial Recognition Biz Clearview AI Suffers Data Breach"
     excerpt: "A controversial facial recognition company has just informed its customers of a data breach in which its entire client list was stolen. Clearview AI leapt to fame in January when a New York Times report claimed that the start-up had scraped up to three billion images from social media sites to add to its database. That makes it a useful ..."
     publishedDateTime: 2020-02-27T09:45:00Z

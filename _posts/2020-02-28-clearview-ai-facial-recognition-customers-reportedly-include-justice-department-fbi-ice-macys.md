@@ -1,21 +1,21 @@
 ---
 category: news
-title: "Facial recognition startup Clearview AI says its full client list was stolen"
-excerpt: "Most of the company's customers are law enforcement agencies. You might expect a high-profile (and controversial) facial recognition startup like Clearview AI would have its data locked down, but it turns out it's just as vulnerable as almost any other company to malicious individuals. In a notification obtained by The Daily Beast, the company ..."
-publishedDateTime: 2020-02-26T20:45:00Z
-webUrl: "https://www.engadget.com/2020/02/26/clearview-ai-client-list-exposure/"
-ampWebUrl: "https://www.engadget.com/amp/2020/02/26/clearview-ai-client-list-exposure/"
-cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/26/clearview-ai-client-list-exposure/"
+title: "Clearview AI facial recognition customers reportedly include Justice Department, FBI, ICE, Macy's"
+excerpt: "The client list for Clearview AI, a controversial facial recognition app being used by US police to identify suspects and others, has been leaked. Customers reportedly include not only law enforcement agencies like Immigration and Customs Enforcement and the Department of Justice, but also companies such as retail giant Macy's. BuzzFeed News ..."
+publishedDateTime: 2020-02-28T00:24:00Z
+webUrl: "https://www.cnet.com/news/clearview-ai-facial-recognition-customers-reportedly-include-ice-justice-department-fbi-macys/"
+ampWebUrl: "https://www.cnet.com/google-amp/news/clearview-ai-facial-recognition-customers-reportedly-include-ice-justice-department-fbi-macys/"
+cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/clearview-ai-facial-recognition-customers-reportedly-include-ice-justice-department-fbi-macys/"
 type: article
-quality: 101
+quality: 91
 heat: -1
 published: false
 
 provider:
-  name: Engadget
-  domain: engadget.com
+  name: CNET
+  domain: cnet.com
   images:
-    - url: "/assets/images/organizations/engadget.com-50x50.jpg"
+    - url: "/assets/images/organizations/cnet.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -24,10 +24,10 @@ topics:
   - Computer Vision
 
 images:
-  - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-02%252Fbe661900-58d2-11ea-a7be-f35353dadc7d%26client%3Da1acac3e1b3290917d92%26signature%3De8442a5ba6d800bf23f2af01238efff47f2da2a9&client=amp-blogside-v2&signature=0b578e5a72b9b247df1c85c755266db45c5d71ee"
-    width: 600
-    height: 350
-    title: "Facial recognition startup Clearview AI says its full client list was stolen"
+  - url: "https://cnet4.cbsistatic.com/img/JsUigaPqhHEO0XUYO41ZqO-Z-vo=/756x567/2020/01/18/2bde6ea9-4f91-4473-a8fb-1418d9ac5c7d/facial-recognition-james-martin-promo-1.jpg"
+    width: 756
+    height: 567
+    title: "Clearview AI facial recognition customers reportedly include Justice Department, FBI, ICE, Macy's"
 
 related:
   - title: "Facial recognition company Clearview AI probed by Canada privacy agencies"
@@ -45,6 +45,21 @@ related:
       - url: "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png"
         width: 1200
         height: 630
+  - title: "Facial recognition startup Clearview AI says its full client list was stolen"
+    excerpt: "Most of the company's customers are law enforcement agencies. You might expect a high-profile (and controversial) facial recognition startup like Clearview AI would have its data locked down, but it turns out it's just as vulnerable as almost any other company to malicious individuals. In a notification obtained by The Daily Beast, the company ..."
+    publishedDateTime: 2020-02-26T20:45:00Z
+    webUrl: "https://www.engadget.com/2020/02/26/clearview-ai-client-list-exposure/"
+    ampWebUrl: "https://www.engadget.com/amp/2020/02/26/clearview-ai-client-list-exposure/"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/26/clearview-ai-client-list-exposure/"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 101
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-02%252Fbe661900-58d2-11ea-a7be-f35353dadc7d%26client%3Da1acac3e1b3290917d92%26signature%3De8442a5ba6d800bf23f2af01238efff47f2da2a9&client=amp-blogside-v2&signature=0b578e5a72b9b247df1c85c755266db45c5d71ee"
+        width: 600
+        height: 350
   - title: "Canadian Privacy Commissioners to Investigate Creepy Facial Recognition Firm Clearview AI"
     excerpt: "Canadian authorities are investigating shady face recognition company Clearview AI on the grounds that its scraping of billions of photos from the web might violate privacy laws, Reuters reported on Friday. According to Reuters, privacy commissioners from the Canadian federal government and of the provinces of British Columbia, Alberta ..."
     publishedDateTime: 2020-02-21T23:37:00Z
@@ -60,21 +75,6 @@ related:
       - url: "https://i.kinja-img.com/gawker-media/image/upload/s--k8Q9PwVM--/c_scale,f_auto,fl_progressive,q_80,w_800/thuqbup5w7zmofhx9lam.png"
         width: 800
         height: 450
-  - title: "Clearview AI facial recognition customers reportedly include Justice Department, FBI, ICE, Macy's"
-    excerpt: "The client list for Clearview AI, a controversial facial recognition app being used by US police to identify suspects and others, has been leaked. Customers reportedly include not only law enforcement agencies like Immigration and Customs Enforcement and the Department of Justice, but also companies such as retail giant Macy's. BuzzFeed News ..."
-    publishedDateTime: 2020-02-28T00:24:00Z
-    webUrl: "https://www.cnet.com/news/clearview-ai-facial-recognition-customers-reportedly-include-ice-justice-department-fbi-macys/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/clearview-ai-facial-recognition-customers-reportedly-include-ice-justice-department-fbi-macys/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/clearview-ai-facial-recognition-customers-reportedly-include-ice-justice-department-fbi-macys/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 91
-    images:
-      - url: "https://cnet4.cbsistatic.com/img/JsUigaPqhHEO0XUYO41ZqO-Z-vo=/756x567/2020/01/18/2bde6ea9-4f91-4473-a8fb-1418d9ac5c7d/facial-recognition-james-martin-promo-1.jpg"
-        width: 756
-        height: 567
   - title: "Clearview AI facial recognition customers reportedly include Justice Department, FBI, ICE, Macy's, NBA"
     excerpt: "The client list of Clearview AI, a controversial facial recognition app being used by US law enforcement to identify suspects and other people, has been leaked. Its customers reportedly include not only law enforcement agencies like ICE and the Justice Department,"
     publishedDateTime: 2020-02-27T22:12:00Z
@@ -333,6 +333,6 @@ related:
         width: 1500
         height: 860
 
-secured: "7pVNKtJCdgcRadwO6K4ukowzZO1bbmy1CTbPbNEzasuut1YMqDNw2kGoI0hPD4KjD9H3nWkfyQUO9iYT3qByTpJ1BlAMbaMcu6kjTtmBGFhUsHkI7NXp2usWuEmft29yFsyO+dMCOwRenVu8rq3RADdGj8nBXCRXDhZ8NlECxmP5w1cRUwdLSOMnIMZFCyc8Ms0YdvvnigetDxjzbOt6kagkbeizTRiJzyclZCP1O5DLU8QVEdECa68aKxDmVY4HxwwY4Bk+9HZu+A6rf+PEuwWnBlKWpnp2oxwpir5ZM6ZfpKVkT7YfzDna5nJTa8VYhT9VLseXOBDybkT3c/1Ictetb2vbXwgvfYfvFHq/2aXy1Fi0h4+rESXUMj0XaVEr4QZO8YmObStec7NPa82CpWowmY/bYdSnS1w00Vrc/Wwtn8xydz+LYaFW8CVkBMpdFidUpaieBGxd/QnEhDpQPiknOzPuopWNfp4fBHeuG0Q=;Nv1RRejePivICZcl1mBwZw=="
+secured: "wznq8htQ27hniwpE9Kbu92/W0brKT+RZe9dZk2XdMvnTeBAr3tneWHpsTVNn8MV68uthM2QHf2cgDyYUPp4bBtwIjB1Zmqm5IPwmXh8VPoAcRUbnwxhO6caMvfcHvtXSsVz+XZlCWcyFEhnDJ41V2hRpyWMVugKdgs2Wq/mD5nL8l9FvHcaAFs1FWFeaTB7jzWD1DM/ueGifAGvybcOKP6/NfQm9w4r5UB8YUBsg9bjquDdSAqB51/PVfy8ugI3Levt9Eph4myWQA0kHO2on3S4Cti05iNCQmM/hOapucKDeK5XwhrzA2kB4Awt7dy2T;dRlxkdmGsN8pP8gcCKtKJw=="
 ---
 

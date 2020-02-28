@@ -342,6 +342,19 @@ related:
       - url: "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/QCLDUALHANGKPFFLNERXQHYXQQ.jpg"
         width: 2016
         height: 1512
+  - title: "Leaked Document Shows Australian Police Use Creepy Clearview AI Facial Recognition Software"
+    excerpt: "Australian police forces have previously denied using controversial facial recognition software, Clearview AI, but a new Buzzfeed report suggests employees within the organisations have undertaken thousands of searches using the software. According to internal Clearview AI data obtained by Buzzfeed News, four Australian police forces are ..."
+    publishedDateTime: 2020-02-27T23:00:00Z
+    webUrl: "https://www.gizmodo.com.au/2020/02/australian-police-clearview-ai-facial-recognition/"
+    type: article
+    provider:
+      name: Gizmodo Australia
+      domain: gizmodo.com.au
+    quality: 44
+    images:
+      - url: "https://edge.alluremedia.com.au/m/g/2020/02/police.jpg"
+        width: 1200
+        height: 675
   - title: "GTA police chiefs say facial recognition needs more review — but cops should be able to use AI"
     excerpt: "The chiefs of two Greater Toronto Area police forces now slamming the brakes on the use of a contentious facial recognition tool admit the app should have undergone greater scrutiny before it was tested by their investigators. Clearview AI, a U.S.-based app providing an artificial intelligence-powered tool to law enforcement agencies ..."
     publishedDateTime: 2020-02-23T19:13:00Z

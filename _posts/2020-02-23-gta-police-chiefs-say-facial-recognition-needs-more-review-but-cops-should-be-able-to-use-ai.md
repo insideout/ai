@@ -354,6 +354,19 @@ related:
       - url: "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/QCLDUALHANGKPFFLNERXQHYXQQ.jpg"
         width: 2016
         height: 1512
+  - title: "Leaked Document Shows Australian Police Use Creepy Clearview AI Facial Recognition Software"
+    excerpt: "Australian police forces have previously denied using controversial facial recognition software, Clearview AI, but a new Buzzfeed report suggests employees within the organisations have undertaken thousands of searches using the software. According to internal Clearview AI data obtained by Buzzfeed News, four Australian police forces are ..."
+    publishedDateTime: 2020-02-27T23:00:00Z
+    webUrl: "https://www.gizmodo.com.au/2020/02/australian-police-clearview-ai-facial-recognition/"
+    type: article
+    provider:
+      name: Gizmodo Australia
+      domain: gizmodo.com.au
+    quality: 44
+    images:
+      - url: "https://edge.alluremedia.com.au/m/g/2020/02/police.jpg"
+        width: 1200
+        height: 675
   - title: "Facebook to pay users to improve speech recognition technology"
     excerpt: "Facebook has announced it will pay select users who agree to record their voice to improve its speech recognition technology. According to The Verge, the social networking giant he company will pay select users to record snippets of audio through a new programme called \"Pronunciations in its Viewpoints market research app. If you qualify to be ..."
     publishedDateTime: 2020-02-21T16:02:00Z

@@ -8,7 +8,7 @@ ampWebUrl: "https://yourstory.com/2020/02/ai-shaping-new-life-sciences-pharmaceu
 cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/02/ai-shaping-new-life-sciences-pharmaceutical-industry/amp"
 type: article
 quality: 55
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -47,6 +47,15 @@ related:
       name: WATTAgNet
       domain: wattagnet.com
     quality: 34
+  - title: "Spherix Attends Artificial Intelligence and Machine Learning Pharmaceutical Development Conference"
+    excerpt: "The AI-ML in Drug Development Summit is the only conference to bring together industry leaders, technology experts and academics focused on augmenting the R&D processes through the use of Artificial Intelligence and Machine Learning. The event, scheduled for February 24-26, 2020 at the DoubleTree by Hilton Hotel San Diego - Mission Valley ..."
+    publishedDateTime: 2020-02-26T00:49:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/spherix-attends-artificial-intelligence-and-machine-learning-pharmaceutical-development-conference/article_07cbb0d2-985f-53c1-99fa-09fc84e38061.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 20
 
 secured: "LJP+WWIbReMnPl9fkT8ny+CqEXLdcwYdZ2c2jmgnY49qtcpNg18egMo2G7ph8a1Dc+Hzz+wRM3QwJDbPjtukETip9mhkJuO1ffKxzRLidAT7WnjcUWtCbHhqec/8mnpafuNAPUZynwHMEzN9og9EDppnSQRQ8Io8KCnjE1CfGewkoCb+0h/DE0nxRJVxc0nSXwH6Dur54c1v/N7z9EpjPYuEiBqbuppcS1mOCa3C874iGzzW4BLkiaDZu5RcrY2vQbI/eLlkwsgMxxE5vqbBIpLDqCxlzh4tg0hmd82nQgLBSbWZb9pXrk26R9hCrN5Z;ECs4BQeMMvJU44bvznAeRg=="
 ---

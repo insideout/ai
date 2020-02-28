@@ -18,11 +18,11 @@ topics:
   - Computer Vision
 
 images:
-  - url: "https://www.stripes.com/img/socialmedia/images/facebook_default.jpg"
-    width: 1500
-    height: 1000
+  - url: "https://www.stripes.com/polopoly_fs/1.617025.1580471460!/image/image.jpg_gen/derivatives/landscape_490/image.jpg"
+    width: 490
+    height: 506
     title: "Army developing binoculars that can identify far-off faces in the dark"
 
-secured: "pSCXMrgNQ7hmxZRLAQDes5AKTK5I0ohZT2O0EBUKCObcqxa3ujq8ihap2eOzsjolaRR82Q7axZC8E6JrOUsolsrNR4NAtFUOa5Yom0O4IiLy5F4gFGT0YRm3FrwJnLSY4CdVDDM7EbbQ2+NGulRA815ibOVt7H4H4ZKiDbctDjJBrXokegX7EpwOezOm0TBDDZQn9ehXHKhHjseITPklvba9UPv9bOQ54dRVQzlypkgAxHD9fsjUIxEgxqjaCzaixovp0LxlhMa98Z4ELBlDhD8hMcotl3MUn6fj7edkAGdc9aFTFmsIP5izptqrrV+a;o3u7TFgKg+U7TqP1xq4cKg=="
+secured: "PfrlKyr+pIt5G+cg8RdT8sXVZhDLShNM2TQrgXZn9zkJ7OrnnDRUqDX+nngw42ufNLBEZC1Up1jQrN1761yFeE9CUDWMdZtPLQ/3XeM9HAomZubayqB9ZofuTEbR8EnQy54lf8KhWh82LaDmLSdWcomdQs1vC2YRybSyoT4ppoQe1JxngB1jfp64/TIG1aAMsnQmUc+Uo4x4yhjAlTljHSYnILY9mNchj3iQUE6dK5Fh19PhACUcva9mT7wL13zO5rIN1BpMbHkqKLiy/kP+1NXEVmNJfHLnDjQAZPxHV/Ne4Sx37PphM+bRAOrVrDr9;PgdZxLQ+O5HS30ORawcw1g=="
 ---
 

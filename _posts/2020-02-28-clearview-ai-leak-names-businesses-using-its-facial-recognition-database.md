@@ -1,21 +1,33 @@
 ---
 category: news
-title: "Google Tells Clearview To Stop Scraping Photos For Facial Recognition Database"
-excerpt: "Google and its video service YouTube have joined Twitter in demanding that facial recognition startup Clearview AI stop scraping photos from their services. “YouTube’s terms of service explicitly forbid collecting data that can be used to identify a person,” a spokesperson told CBS, which first reported the company's move. The tech ..."
-publishedDateTime: 2020-02-17T23:20:00Z
-webUrl: "https://www.mediapost.com/publications/article/346692/google-tells-clearview-to-stop-scraping-photos-for.html?edition="
+title: "Clearview AI leak names businesses using its facial recognition database"
+excerpt: "Thousands of organizations from around the globe gave the software a try. One of the most vehement arguments against Clearview AI's practice of scraping billions of photos from millions of public websites to build its facial recognition database was that the company's data storage and security protocols were both untested and unregulated."
+publishedDateTime: 2020-02-28T00:03:00Z
+webUrl: "https://www.engadget.com/2020/02/27/clearview-ai-leak-businesses-facial-recognition/"
+ampWebUrl: "https://www.engadget.com/amp/2020/02/27/clearview-ai-leak-businesses-facial-recognition/"
+cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/27/clearview-ai-leak-businesses-facial-recognition/"
 type: article
-quality: 15
+quality: 103
 heat: -1
 published: false
 
 provider:
-  name: MediaPost
-  domain: mediapost.com
+  name: Engadget
+  domain: engadget.com
+  images:
+    - url: "/assets/images/organizations/engadget.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
   - Computer Vision
+
+images:
+  - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D3517%252C2369%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1078%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-02%252Fbb007560-59ba-11ea-be3e-be5d86d0651e%26client%3Da1acac3e1b3290917d92%26signature%3Dcaef0bb17abc5044449c4fda2be1bedd3c1c36b0&client=amp-blogside-v2&signature=60d75311e1a32aad0c006a6d335c5215c67899f3"
+    width: 600
+    height: 350
+    title: "Clearview AI leak names businesses using its facial recognition database"
 
 related:
   - title: "Leaked Reports Show EU Police Are Planning a Pan-European Network of Facial Recognition Databases"
@@ -31,21 +43,6 @@ related:
       - url: "https://theintercept.com/wp-uploads/sites/1/2020/02/YotamHadar_TheIntercept_EUv4-still-1582297909.jpg"
         width: 2000
         height: 1000
-  - title: "Clearview AI leak names businesses using its facial recognition database"
-    excerpt: "Thousands of organizations from around the globe gave the software a try. One of the most vehement arguments against Clearview AI's practice of scraping billions of photos from millions of public websites to build its facial recognition database was that the company's data storage and security protocols were both untested and unregulated."
-    publishedDateTime: 2020-02-28T00:03:00Z
-    webUrl: "https://www.engadget.com/2020/02/27/clearview-ai-leak-businesses-facial-recognition/"
-    ampWebUrl: "https://www.engadget.com/amp/2020/02/27/clearview-ai-leak-businesses-facial-recognition/"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/27/clearview-ai-leak-businesses-facial-recognition/"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 103
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D3517%252C2369%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1078%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-02%252Fbb007560-59ba-11ea-be3e-be5d86d0651e%26client%3Da1acac3e1b3290917d92%26signature%3Dcaef0bb17abc5044449c4fda2be1bedd3c1c36b0&client=amp-blogside-v2&signature=60d75311e1a32aad0c006a6d335c5215c67899f3"
-        width: 600
-        height: 350
   - title: "Facial recognition database Clearview AI faces data breech"
     excerpt: "Chicago Police Department is a client of the firm. A construction worker walks past facial recognition screens at the entrance to the terminal building of the new Beijing Daxing International Airport, in Beijing on March 1, 2019. Facial recognition software firm Clearview AI has been hit with a data breach. Photo credit should read GREG BAKER ..."
     publishedDateTime: 2020-02-27T00:03:00Z
@@ -208,7 +205,16 @@ related:
       - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
         width: 252
         height: 335
+  - title: "Google Tells Clearview To Stop Scraping Photos For Facial Recognition Database"
+    excerpt: "Google and its video service YouTube have joined Twitter in demanding that facial recognition startup Clearview AI stop scraping photos from their services. “YouTube’s terms of service explicitly forbid collecting data that can be used to identify a person,” a spokesperson told CBS, which first reported the company's move. The tech ..."
+    publishedDateTime: 2020-02-17T23:20:00Z
+    webUrl: "https://www.mediapost.com/publications/article/346692/google-tells-clearview-to-stop-scraping-photos-for.html?edition="
+    type: article
+    provider:
+      name: MediaPost
+      domain: mediapost.com
+    quality: 15
 
-secured: "6WAqoyg+z4dq/OrOhQmQszrQ5rlRn5G8lX3nLtwI9JMlYKnk3XKd8Hm3kLrnvjThKWfodSQkMZUbCJ7oeYaqZljwCb7nfZAgmkstmEEmrke5F7XZ6fbRgpDVtOHki25erC2UkLRbc5ctuk4eXKWDDMpFUWTiqlwrGddkQhoAhPSQsN6yGWIlFIXBrwHQnPIQK8YlGOFRrhTVNn036NHe7m5m8DasnoiQJNTsZqCYk4K+ZMd9HiJBzQ2TosrM5CvsxZ2G9DGGURxlHxeWPhtJO03Rg/V5xeYbbsuqy8JvShMZg9AkZtxrBzjO4H41uUOk;wl016MVDoVVMBkVvZKg8dg=="
+secured: "R4QvWGvEJOHrDRt09scQ6J+krdXENDcJrOe/kxp2LY/h6CrtIzQhoV+2XmzKRRBuOqjGjGwzpdWTu8mUUsCPhk6SErSpZmg4uIdex0Hysf5I5JhUSBsyBxGmNjaQpE3WH90sChwaaaB+Wkcv8sKgiSei9xKUHRHOBGdrTcaJcMOD+axx5T98XTRwrfr+uvr01pWrj8mitLkTvASJy3X07yLsVQVEvJkMJJm7siLm+E89tubuuS/sAjmRVD6x0hRxSRdUi/zEnmJm8PGOJFd8Os82i5OEvh/m9hwuUnXqaUNDd/VfImS9cBY+CAYWG3Ym;uoIlys9CyeRiw5VyA01ghw=="
 ---
 

@@ -27,6 +27,6 @@ images:
     height: 498
     title: "Optimizing application performance with Amazon CodeGuru Profiler"
 
-secured: "ZfQECBdy2dhqO/2A8vU4qYie43AEWj8xkMzRayn/fN6OLYvArvLi3+paVBVKMo2GQJBH912m8TbuFGQzAsekb/SSAtkfA+qyzPkeg2yZg0Wo50ux0ceqsBOUb70Av6fxn3uVyKL9O8u9rjUt4Cv6vKvGBegTkpIVJwLy+I6CKUGwFOlMwmjH8VEc28K60D+yjrffJHtgQfuo5Xl++dAStPy8NlmAIEljfqzAUyqbvI1t4lb/CG92ZZkexQ7FCbrqndWByoH22py0f4TnUlE7XDQw3PBnLyIFAz9YCykda+oJ6AnMCXwbwEyykh9nkbWarCAG50hw6zZf2f8gOdv9tQ==;xWms52X+w5Nps9GDyPdgcg=="
+secured: "YGWIe35pmtrdrK5nmTV/vvsGmwzcUQDtpWYCJrVMt39aeOl1uUV/kW/3XK4K93N9cfmP3OTd1jY6ihidzQgbdAQ3E96AqizqT5lLhyKiJUPOUSsJJEO/oxm/b/Wh9zQL8BvpVKJmbek/624WoYPNMnUCKd1S43DVT1b0Y2qYkNjAN2ckArDvbcbuw/FpSoEIR05azi07spT2vVdF4qrLl8gV15JdqHbwMH7aH9jBMFZrFkfHsmiTaORSJLD5ZGTLZC4NH+FNVcQ9EtvBGkko2su2QVxbrVHsLpc057ENMj0+zMNYs1iHYJb7Z/nisS/HMSii+m//rOGKRrmLyvtaEA==;LOLVOwBaxQiL/b0EYlVuXw=="
 ---
 

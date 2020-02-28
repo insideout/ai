@@ -28,6 +28,6 @@ images:
     height: 362
     title: "AI chatbot maker Babylon Health attacks clinician in PR stunt after he goes public with safety concerns"
 
-secured: "5KKR95yH/0Pc9d9ikYBmbJJS8P4xT6Peq11GSCOskZJjgBotv/4UdcDPQx/v4HUdYgLjfKb/b//aPkAdsbStUI0w4P4mhq9sI5m67SF13E0sqISe5WXw1Z3hE9sLQmeD10WKNkNY9x7xAWa6idPA7Xdw14fDAkvwb+x9PKVj27Jj/UnWk8ci+utQuN9CRk3xldGc9s0rVsk/A3hXXQ+tzkHmZb8cAtFefB/M6yXbM6hGABV6ZsZ/P2MDLUACwVBFgmLFJ+/3xuT4T9+t5GvFkWSfvNRtVRZJETfCJhJh3ZH3mNAv6rCa4MqMLv/tlXEc;7A2C6LwxBCs3NC6KYzQHWw=="
+secured: "+j3/Hu3/x5ANW1KwwnhIhFxmKGvBwqz/x6CXuefwAMz0zhUR53fDqOstWnQytetd5adcmwiL48SGlwh8Vnr0L3lhR6+ZK5VcuLw94oibLdfcXejQnpCWJCpA+tpbPX4zUA1uPryMidVmmH/ytY6hNAaQ3v4VLpSqXQIz4XcCsFsSVHgiLG0S433xOicx9ljTeJoBm3VqWnIPGGdZc33yztkPmUPeOeZD4ueGS5GlGTjaZaX1GUZzii7cawKlu3G/T0KLFpK2imIiMHrHAjDgypNUEOatOb64zzV1OX2L3JzR6DDwoTW5LSTv+pR+zZYcTYVRiPks8nyImPW2Qizn6Oq15uW6xgHtqn3IOZd2plQ12P6yMXkcPxC0Vd9yvgatZZa/KwLlkEpJPto8r6cBZWwNd6+6uEXjXEqV+EfdLzJSAT8rV887BUxpBBek+aWFi8kYBEEm430g8QJ1L2KoweQAtfrxvYo+dvwUa99snoo=;JkE5YsFTgRL7YF8ItWQlcw=="
 ---
 

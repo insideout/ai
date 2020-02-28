@@ -27,6 +27,17 @@ images:
     height: 630
     title: "Medical Bionic Implants And Exoskeletons Market is expected to expand at a CAGR of 7.5% during 2017-2027"
 
-secured: "TvM8zYFLbzlLp5GRMttSzin/Q1l3yJ1mHFVQRmde8ByYy42KZjy5KZK7qK+mQH0BFAwTi8LJT3eJg6PtjmfYQ3EwmP6ao/XV+f7Krich/cfHG6vrsArLD9XLJIcYyWAtiaK6EzWLn96+2a8+Hwe6uUiptOl6vb31OUiPN6TsutHt1GqYboekZlybHzMw1Y2RpnCOHZ3BppnoM2DfqpumJDhoPxRUj++lOsojS6/WArhTjmE5540dY6vwrvs65aECKOFCe4c2yXT4d5wnmAafnm8ftEGPFTTYE50voFCe1ZYV9G7aVEgh4ICVneirSq8V;JilEMwrc9pt75+48qb213A=="
+related:
+  - title: "The natural language processing (NLP) market is expected to progress at a 19.7% CAGR during 2019–2024 (forecast period) to $22.9 billion by 2024"
+    excerpt: "New York, Jan. 29, 2020 (GLOBE NEWSWIRE) -- Reportlinker.com announces the release of the report \"Natural Language Processing Market\" - https://www.reportlinker.com ..."
+    publishedDateTime: 2020-01-29T08:36:00Z
+    webUrl: "https://www.globenewswire.com/news-release/2020/01/29/1976564/0/en/The-natural-language-processing-NLP-market-is-expected-to-progress-at-a-19-7-CAGR-during-2019-2024-forecast-period-to-22-9-billion-by-2024.html"
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 0
+
+secured: "ZhMNCrVTLeX036zKLV9kAScIAU/HxQZVr/a3XCaa+jbku2UwB0ukotTbTX4mT8dZOehtn3OMjBwH0dnvJhpxPyGET8YUX1f3zmMSv9YGcrZRNuwnaEqny11ta5demY1k9CU1RBDIMfUTAxwyBCe/ymU310yeVdWCkzFGKvTUrhnPH5XpY3Xbn5lzqbhblZUkuZk6k6786Wx3KELFIwEt9fjo8RtB2Rjp/GoBbABB4MrduCgW093itrbApHze2D0KVfTdfKFCMIFghyPFoNmcKhhZBZYtW36ELMt0hWF6mxmTrEZinMoJs5+z/GshjFia;6MD5Cikl/7f8vyAQMyGrOw=="
 ---
 

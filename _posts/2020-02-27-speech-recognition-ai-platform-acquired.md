@@ -51,14 +51,18 @@ related:
         width: 1280
         height: 853
   - title: "ROYBI Acquires KidSense.AI, The Leading Speech Recognition AI Platform"
-    excerpt: "ROYBI INC, the creator of the Roybi Robot —the world's first AI-powered smart toy that teaches languages and basic STEM skills—has acquired KidSense.AI, the revolutionary technology in children’s embedded automatic speech recognition (ASR) and Edge-AI. KidSense.AI, which initially debuted in 2018 at TechCrunch Disrupt, utilizes the ..."
-    publishedDateTime: 2020-02-25T17:08:00Z
-    webUrl: "https://www.oaoa.com/news/business/article_b81d0415-5476-5f83-94df-9c469bfea642.html"
+    excerpt: "ROYBI INC, the creator of the Roybi Robot-the world's first AI-powered smart toy that teaches languages and basic STEM skills-has acquired KidSense.AI, the revolutionary technology in children's embedded automatic speech recognition (ASR) and Edge-AI. KidSense.AI, which initially debuted in 2018 at TechCrunch Disrupt, utilizes the fundametals ..."
+    publishedDateTime: 2020-02-25T17:29:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-roybi-acquires-kidsenseai-leading-speech-recognition-ai-platform-/2020/02/25/9103933.htm"
     type: article
     provider:
-      name: Odessa American
-      domain: oaoa.com
-    quality: 34
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 54
+    images:
+      - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
+        width: 252
+        height: 335
 
 secured: "7z1I7ZvZwW+BTO0pQbPboqUTyeUVeHpDyUm/syNMlQ5/uuXv8NjhEOVMiLBl09cMS8CMq1TwQPi0D4djOHuM5eKEn2SWJHtm8YDA/oJ5Il/EeZgz+L58oxReByGm7/UiA/AjTBN9CbEiaLZw18cJGUio0OaDLgEffrLEp49Pw267lkM/TaqUUSvTdezDmEW4pzIJldCi3mn2F56eKaLm2kuLYlf2+ZGdXB+4feyQAvgVN6jBaJshXeCnsXH5hKkCfj1iUQqij5Ou2kJlqCSPpqNBIUcV18y8fQ4jhWHlhCynM8Ac83/sTrg9/m7rmUbH;uCziGk6KIBbMWJZ9UGSm5Q=="
 ---
