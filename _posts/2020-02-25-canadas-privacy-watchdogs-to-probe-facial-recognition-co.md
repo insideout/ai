@@ -78,21 +78,6 @@ related:
       - url: "https://cnet2.cbsistatic.com/img/Oz7mCdAo5X1NoCOIXkN3LG0Ws9I=/756x567/2020/02/19/19f84363-9dbf-4ec9-86c1-e95838a79888/gettyimages-992065420.jpg"
         width: 756
         height: 567
-  - title: "US senators propose facial recognition ban (but not for police)"
-    excerpt: "US senators have introduced a bill that would temporarily restrict the use of facial recognition technology — but their proposals fall short of a total ban. The Ethical Use of Artificial Intelligence Act would place a moratorium on federal government use of facial recognition technology (FRT) until Congress passes legislation regulating ..."
-    publishedDateTime: 2020-02-13T13:41:00Z
-    webUrl: "https://thenextweb.com/neural/2020/02/13/us-senators-propose-facial-recognition-ban-but-not-for-police/"
-    ampWebUrl: "https://thenextweb.com/neural/2020/02/13/us-senators-propose-facial-recognition-ban-but-not-for-police/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/13/us-senators-propose-facial-recognition-ban-but-not-for-police/amp/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 89
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/Untitled-design-10-796x417.png"
-        width: 796
-        height: 417
   - title: "Android facial recognition is more secure than you think"
     excerpt: "After running real-world tests of Android's facial recognition on a Pixel 4, Jack Wallen shares his theory of why some people are so concerned about facial recognition. My TechRepublic article How to enable facial recognition in the BitWarden mobile password manager wound up receiving feedback about Android facial recognition--not BitWarden."
     publishedDateTime: 2020-02-14T15:11:00Z

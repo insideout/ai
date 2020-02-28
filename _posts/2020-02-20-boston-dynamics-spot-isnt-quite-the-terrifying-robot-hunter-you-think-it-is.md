@@ -8,7 +8,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/2/19/21144648/boston-dyna
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/19/21144648/boston-dynamics-spot-robot-mass-state-police-trial-issues"
 type: article
 quality: 66
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -37,15 +37,6 @@ related:
       - url: "https://cdn.techjuice.pk/wp-content/uploads/2020/02/spot.jpg"
         width: 1280
         height: 720
-  - title: "Video: Boston Dynamics’ robot Spot goes to work on an oil rig"
-    excerpt: "A new pilot project is being undertaken by Aker BP, one of the largest oil companies in Europe, and Cognite, an artificial intelligence (AI) software-as-a-service (SaaS), to explore how robots can improve offshore operations. Part of the project is using Boston Dynamics’ robot Spot, the quadruped robot that is famous for opening doors."
-    publishedDateTime: 2020-02-13T13:49:00Z
-    webUrl: "https://electronics360.globalspec.com/article/14690/video-boston-dynamics-robot-spot-goes-to-work-on-an-oil-rig"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 19
 
 secured: "Etx4XtNKqTfQ1kJiYQr4ZttMl91KyTzfmaZ0gvCI3nmM/aVZaEmtjj2ANouqVAsRft/PiiCwF9BII6Bjq7//5Q6FPBzVx3xQQSPn+SdVjiEZwPhpq+wdPw3WGEFBS/QDvEUngdbUB7EfVy2FDCoHtl2vE/2YjrmbTmgwJSRG/a8nQ7jNGbJifB9OGtdnHPVtaVrnKIWMaGYks6wVwknyZXaMrjy/kDYqmULRbZKclwgn3WF+rMglqe/PtkN7gwoQcR+2ysntB3n0ePyCY2B5trlVXVEspCj0n1QietEGsYBx7ykNy3YujJA/gvjH1gSj1lhUKp1v3twSq7KgsyCpyxOMDLQCpLfdcnr3/I57zdbBmJpxsJ3QK5RFXq0YRiRy//Fk9WmlIdg1YWmUaCRXWDRUVCauZy8hVP4GFOZwXHBB0ciOmpRUDGNGBkeiWCv/IT6Grh4v+BMF/1UxvwZ7TgR6ZIB+J3T1EyDWDREpf3M=;Wv2flUedRTVbO4CNpWLpqw=="
 ---

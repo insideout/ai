@@ -28,6 +28,6 @@ related:
       domain: openpr.com
     quality: 19
 
-secured: "HsGtUdvbxpsIAMljCt+AjsyDB7FNoKDRpXVYnDReOaLDsvF+YLA9zWg6jodrvg3gGqiW7Hm070pSyQpT+p/+l+NlrEXGfrYEjQextbvsRH04HDLC12Y+T1dpWAdrTCCbswNML/RMwk9DEDTx2QuMTdbBwCLViUctOmQsDsP9gwixd9+F7qmy9+bCg/2xO6zQu6L2yQi1Fr9vuIzGbVSyYz4PZzIW6EXsJ8qjc56+5nnXaSOFIgRK+IqooxJDO016126UVAuKbiBJkuWJhBFRHJOGq8h1MPoySXZM2ttCfysxvjIYb2gG9yUW/JEFaetx;6633892av0gr46+94L2xRQ=="
+secured: "iKbcn+95HX9KnvKtBYajdkGwxL1yk+WTRvm2sMEor7zi1xCyDDCMve/ef6okgN25uYcUabZd5gtzgcbmHAv47C1Ls70Q/F1lXt0WQQSku/pTMOEr4vSi+J+3wF/7GvF6wow1jDFEaH0dUybt7+JmESLQNPeZ70UP9ciP9zihr96sMAQCcrwYHASY177PcI/51SpTwLQB/Kw66NwPbdrRkfsJLP9XaXIm7fPrWm/x0HKzQIy63tmBTQqkQRG09jtNwyEhe/rAv0w5QzPYMqXmagbXBF1/KmurmRr2MDNysHYQrQPNfERHviI+ULye7BBD;TKA5a6qvCxTKkK+LThvo+Q=="
 ---
 

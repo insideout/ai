@@ -23,6 +23,6 @@ images:
     height: 450
     title: "IAG and Suncorp on collision course over driverless cars"
 
-secured: "JYFVdlb/LrHx0slZC4Ifu0/LePWxByG/0GK6em1h+bz9F4kL2GHWV75Dr80RIwvRONbLktvYiK+7B0ZCP6rNMQt+5aEL6oH8LnmKXhsXEabJ0IB9u8Luz+iQAuf3PvpicNZfT9rcr9qJVomGcQm7HAxpFPbKEZ2QflrJYOB/+xH2gNrKXIaJlHEEqNOtdIa4984t/A6JhJfDnebATxjs2DMEsi95xMeVtmPhUm+1J45ZLn9fPhw2o+4FhJ9jXZA6BiD6arO3pXg+BqpMc77rutQ5S5n2jlLtKUQK6dWi8tvas4dkDScQYrhtoXyRtQKf;0s8O9kmOIaz6JXjjSgOo4A=="
+secured: "VwIEO4HvKPJFFewpRpbh7AjDwlNnLLqBjm2gTbT40O93NoCYkakwV/3rns6gR2FAQQ8sk0yve9KrxBJI4ar8Dmwqu8SIv1kIrgomm7K4AK2F2Onvs4YzKJCWsntnBwCp5DiJvyzaC3bqxOLic06+kYGcv+aixG6geRG/zQD+5q0Cc3BGNlvh8OcV6h1c0ictBtmrMw6utJ6xFo35oxIJCZIi4EOvVEXLRX7U/G7gNdEF4sjxGwViAlqZACYEWAZK16tjnoj0nHBt2swstTAemCSkDjQBn47H3ozAvoIzy/CWxRFngcyNdcLYoT75O8PJ;4O1dD+WbbjvveQNfT15jrQ=="
 ---
 

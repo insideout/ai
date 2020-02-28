@@ -88,21 +88,6 @@ related:
       - url: "https://cnet2.cbsistatic.com/img/Oz7mCdAo5X1NoCOIXkN3LG0Ws9I=/756x567/2020/02/19/19f84363-9dbf-4ec9-86c1-e95838a79888/gettyimages-992065420.jpg"
         width: 756
         height: 567
-  - title: "US senators propose facial recognition ban (but not for police)"
-    excerpt: "US senators have introduced a bill that would temporarily restrict the use of facial recognition technology — but their proposals fall short of a total ban. The Ethical Use of Artificial Intelligence Act would place a moratorium on federal government use of facial recognition technology (FRT) until Congress passes legislation regulating ..."
-    publishedDateTime: 2020-02-13T13:41:00Z
-    webUrl: "https://thenextweb.com/neural/2020/02/13/us-senators-propose-facial-recognition-ban-but-not-for-police/"
-    ampWebUrl: "https://thenextweb.com/neural/2020/02/13/us-senators-propose-facial-recognition-ban-but-not-for-police/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/13/us-senators-propose-facial-recognition-ban-but-not-for-police/amp/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 89
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/Untitled-design-10-796x417.png"
-        width: 796
-        height: 417
   - title: "Three Common Misconceptions About Facial Recognition Technology"
     excerpt: "There are many misconceptions regarding the technology, how it is actually used and the significant benefits agencies are achieving by employing it in a responsible manner."
     publishedDateTime: 2020-02-18T13:07:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-21T07:52:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-latest-advancements-and-technology-growth-2020-to-2026-2020-02-21"
 type: article
 quality: 74
-heat: 174
+heat: 184
 published: true
 
 provider:
@@ -50,6 +50,19 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Global Artificial Intelligence (AI) in Medical Market 2020 Trends, Research, Analysis & Review Forecast 2026"
+    excerpt: "Global Artificial Intelligence (AI) in Medical Industry New Industry Study On \"2020-2026 Artificial Intelligence (AI) in Medical Market Global Key Player, Demand, Growth, Opportunities and Analysis Forecast\" Added to Wise Guy Reports Database The value and the volume of the Global Artificial Intelligence (AI) in Medical Market at global,"
+    publishedDateTime: 2020-02-28T05:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-medical-market-2020-trends-research-analysis-review-forecast-2026-2020-02-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

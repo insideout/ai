@@ -2,52 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_posts/2020-02-17-arm-ups-its-iot-intelligence-game-with-new-chips.md",
-      "title": "Arm Ups Its IoT Intelligence Game With New Chips",
-      "excerpt": "Patrick Moorhead gives his take on Arm unveiling last week's key parts of their portfolio moving forward—a selection of offerings and IP geared specifically towards machine learning and AI.",
-      "heat": 101,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/02/17/arm-ups-its-iot-intelligence-game-with-new-chips/",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/02/17/arm-ups-its-iot-intelligence-game-with-new-chips/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/02/17/arm-ups-its-iot-intelligence-game-with-new-chips/amp/",
-      "publishedDateTime": "2020-02-17T14:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e4b097ba854780006b19d78%2F0x0.jpg",
-          "width": 975,
-          "height": 658,
-          "title": "Arm Ups Its IoT Intelligence Game With New Chips",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Google AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-17-artificial-intelligence-program-aims-to-help-doctors-more-accurately-diagnose-breast-cancer.md",
       "title": "Artificial intelligence program aims to help doctors more accurately diagnose breast cancer",
       "excerpt": "A team at Google has developed an artificial intelligence program aimed at helping doctors accurately detect cancer in mammograms. Thousands of women receive a false negative on their breast cancer tests each year, while one in 10 receive a false positive. Shravya Shetty, who heads the Google team developing the system, told CBS News' Jamie ...",
@@ -123,7 +77,7 @@
       "path": "_posts/2020-02-17-automated-facial-recognition-breaches-gdpr-says-eu-digital-chief.md",
       "title": "Automated facial recognition breaches GDPR, says EU digital chief",
       "excerpt": "The EU’s digital and competition chief has said that automated facial recognition breaches GDPR, as the technology fails to meet the regulation’s requirement for consent. Margrethe Vestager, the European Commission’s executive vice president for digital affairs, told reporters that “as it stands right now, GDPR would say ‘don’t ...",
-      "heat": 529,
+      "heat": 519,
       "tags": null,
       "type": "article",
       "webUrl": "https://thenextweb.com/neural/2020/02/17/automated-facial-recognition-breaches-gdpr-says-eu-digital-chief/",
@@ -2131,6 +2085,43 @@
         "AI",
         "AI Ethics",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-18-mankato-robotics-teams-qualify-for-worldwide-competition.md",
+      "title": "Mankato robotics teams qualify for worldwide competition",
+      "excerpt": "which stands for artificial intelligence. Their team of eight students won the state championships in their division and will be competing at the world championships in April. Each student has a unique role to play. Anderson drives the robot using a game controller similar to an Xbox — picking up, moving and stacking green, purple and orange ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.mankatofreepress.com/news/local_news/mankato-robotics-teams-qualify-for-worldwide-competition/article_0afbdb7a-4e05-11ea-93f4-5fdc9dd5010a.html",
+      "ampWebUrl": "https://www.mankatofreepress.com/news/local_news/mankato-robotics-teams-qualify-for-worldwide-competition/article_0afbdb7a-4e05-11ea-93f4-5fdc9dd5010a.amp.html",
+      "cdnAmpWebUrl": "https://www-mankatofreepress-com.cdn.ampproject.org/c/s/www.mankatofreepress.com/news/local_news/mankato-robotics-teams-qualify-for-worldwide-competition/article_0afbdb7a-4e05-11ea-93f4-5fdc9dd5010a.amp.html",
+      "publishedDateTime": "2020-02-18T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mankato Free Press",
+        "domain": "mankatofreepress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/mankatofreepress.com/content/tncms/assets/v3/editorial/9/1a/91a10458-4dff-11ea-b845-c78e0123f55b/5e44a54858b67.image.jpg?resize=1024%2C682",
+          "width": 1024,
+          "height": 682,
+          "title": "Mankato robotics teams qualify for worldwide competition",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

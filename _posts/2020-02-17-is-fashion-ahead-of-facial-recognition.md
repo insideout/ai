@@ -138,21 +138,6 @@ related:
       name: Quartz
       domain: qz.com
     quality: 64
-  - title: "Privacy Groups Face Down Facial Recognition on Campus"
-    excerpt: "Privacy and civil rights groups are ramping up their campaign to get facial recognition technology off of college campuses. They are circulating a letter to aimed at college administrators seeking signatures of support. Many of the groups are the same ones that were successful in spotlighting the use of the technology at concerts."
-    publishedDateTime: 2020-02-13T13:13:00Z
-    webUrl: "https://www.multichannel.com/news/privacy-groups-face-down-facial-recognition-on-campus"
-    ampWebUrl: "https://www.multichannel.com/.amp/news/privacy-groups-face-down-facial-recognition-on-campus"
-    cdnAmpWebUrl: "https://www-multichannel-com.cdn.ampproject.org/c/s/www.multichannel.com/.amp/news/privacy-groups-face-down-facial-recognition-on-campus"
-    type: article
-    provider:
-      name: Multichannel News
-      domain: multichannel.com
-    quality: 59
-    images:
-      - url: "https://www.multichannel.com/.image/c_fit%2Ccs_srgb%2Cq_auto:good%2Cw_620/MTcwNDMzNTM4MzY0MDI0NjA0/facialrecog.png"
-        width: 620
-        height: 343
   - title: "‘No justifiable basis’ for police facial recognition, say MSPs"
     excerpt: "UK – Members of the Scottish Parliament have said that there is ‘no justifiable basis’ for Police Scotland to use live facial recognition (LFR) technology, citing concerns over privacy, human rights and data protection. The review from the justice sub-committee on policing concluded that technology currently available to the police ..."
     publishedDateTime: 2020-02-17T14:15:00Z

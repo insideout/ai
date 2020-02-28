@@ -65,6 +65,15 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 34
+  - title: "Artificial Intelligence (AI) Robots Market Size, Demand, Cost Structures, Latest trends, and Forecasts to 2025"
+    excerpt: "The global Artificial Intelligence (AI) Robots Market is comprehensively and accurately presented in the report with strong focus on dynamics, competitive scenarios, production, sales, revenue, consumption, geographical expansion, top key players, and other critical aspects. Each leading trend of the global Artificial Intelligence (AI ..."
+    publishedDateTime: 2020-02-28T06:41:00Z
+    webUrl: "https://www.openpr.com/news/1948905/artificial-intelligence-ai-robots-market-size-demand-cost"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 29
   - title: "Global Machine Learning Market Analysis, Trends, and Forecasts 2019-2025 - ResearchAndMarkets.com"
     excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Machine Learning - Market Analysis, Trends, and Forecasts\" report has been added to ResearchAndMarkets.com's offering. Machine Learning market worldwide is projected to grow by US$20.8 Billion, driven by a compounded growth of 41.7%. BFSI, one of the segments analyzed and sized in this study, displays the potential ..."
     publishedDateTime: 2020-02-24T14:03:00Z

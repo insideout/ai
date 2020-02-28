@@ -2,51 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_posts/2020-02-21-ai-weekly-why-a-slow-movement-for-machine-learning-could-be-a-good-thing.md",
-      "title": "AI Weekly: Why a slow movement for machine learning could be a good thing",
-      "excerpt": "In 2019, the number of published papers related to AI and machine learning was nearly 25,000 in the U.S. alone, up from roughly 10,000 in 2015. And NeurIPS 2019, one of the world’s largest machine learning and computational neuroscience conferences, featured close to 2,000 accepted papers from thousands of attendees. There’s no question ...",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/21/ai-weekly-why-a-slow-movement-for-machine-learning-could-be-a-good-thing/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-21T09:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/neurips-e1582228287730.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "AI Weekly: Why a slow movement for machine learning could be a good thing",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_posts/2020-02-21-artificial-intelligence-ai-market-is-projected-to-reach-usd-1699-billion-in-2026.md",
       "title": "Artificial Intelligence (AI) Market is Projected to Reach USD 169.9 Billion in 2026",
       "excerpt": "The major factors propelling the growth of the Global Artificial Intelligence (AI) market include the rise in the adoption of cloud-based applications and services and the growth of big data across the globe.",
@@ -98,7 +53,7 @@
       "path": "_posts/2020-02-21-artificial-intelligence-ai-market-latest-advancements-and-technology-growth-2020-to-2026.md",
       "title": "Artificial Intelligence (AI) Market Latest Advancements and Technology Growth 2020 to 2026",
       "excerpt": "Global Artificial Intelligence (AI) Market research report published by market insight reports explores the current outlook in global and key regions from the perspective of Major Players, Countries,",
-      "heat": 174,
+      "heat": 184,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-latest-advancements-and-technology-growth-2020-to-2026-2020-02-21",
@@ -2135,6 +2090,51 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-24-how-to-deploy-robotics-responsibly.md",
+      "title": "How To Deploy Robotics Responsibly",
+      "excerpt": "industrial and commercial robotics, artificial intelligence (AI) and the interconnectivity of software and hardware devices. Indeed, IDC predicts that by 2022, the global robotics market (i.e., robots,",
+      "heat": 114,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/24/how-to-deploy-robotics-responsibly/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/24/how-to-deploy-robotics-responsibly/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/24/how-to-deploy-robotics-responsibly/amp/",
+      "publishedDateTime": "2020-02-24T09:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1011468914/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 474,
+          "title": "How To Deploy Robotics Responsibly",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

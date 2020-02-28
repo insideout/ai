@@ -66,6 +66,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Global Artificial Intelligence (AI) in Medical Market 2020 Trends, Research, Analysis & Review Forecast 2026"
+    excerpt: "Global Artificial Intelligence (AI) in Medical Industry New Industry Study On \"2020-2026 Artificial Intelligence (AI) in Medical Market Global Key Player, Demand, Growth, Opportunities and Analysis Forecast\" Added to Wise Guy Reports Database The value and the volume of the Global Artificial Intelligence (AI) in Medical Market at global,"
+    publishedDateTime: 2020-02-28T05:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-medical-market-2020-trends-research-analysis-review-forecast-2026-2020-02-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Global Artificial Intelligence (AI) in Modern Warfare Market 2020 Set for Rapid Growth with Top Companies Analysis by 2025"
     excerpt: "Market Overview The artificial intelligence in modern warfare market was valued at USD 1453.81 million in 2019, and it is expected to reach a value of USD 10781.27 million by 2025, at a CAGR of 40.25% during the forecast period (2020-2025)."
     publishedDateTime: 2020-02-19T10:22:00Z

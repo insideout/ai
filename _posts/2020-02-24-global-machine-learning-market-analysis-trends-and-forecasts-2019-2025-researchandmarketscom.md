@@ -74,6 +74,15 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 34
+  - title: "Artificial Intelligence (AI) Robots Market Size, Demand, Cost Structures, Latest trends, and Forecasts to 2025"
+    excerpt: "The global Artificial Intelligence (AI) Robots Market is comprehensively and accurately presented in the report with strong focus on dynamics, competitive scenarios, production, sales, revenue, consumption, geographical expansion, top key players, and other critical aspects. Each leading trend of the global Artificial Intelligence (AI ..."
+    publishedDateTime: 2020-02-28T06:41:00Z
+    webUrl: "https://www.openpr.com/news/1948905/artificial-intelligence-ai-robots-market-size-demand-cost"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 29
   - title: "4 Fintech Trends to Watch For in 2020"
     excerpt: "Their disruptive influence could ultimately be similar to the impact of low-cost operators on the airline industry. Robo advisors and AI for improved CX Fintech could start truly shaping the trading and investment segment in the coming years. In 2020 and onwards, more low-cost stock trading and investment offerings could be made available by ..."
     publishedDateTime: 2020-02-26T16:33:00Z

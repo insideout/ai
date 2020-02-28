@@ -2,43 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_posts/2020-02-18-mankato-robotics-teams-qualify-for-worldwide-competition.md",
-      "title": "Mankato robotics teams qualify for worldwide competition",
-      "excerpt": "which stands for artificial intelligence. Their team of eight students won the state championships in their division and will be competing at the world championships in April. Each student has a unique role to play. Anderson drives the robot using a game controller similar to an Xbox — picking up, moving and stacking green, purple and orange ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.mankatofreepress.com/news/local_news/mankato-robotics-teams-qualify-for-worldwide-competition/article_0afbdb7a-4e05-11ea-93f4-5fdc9dd5010a.html",
-      "ampWebUrl": "https://www.mankatofreepress.com/news/local_news/mankato-robotics-teams-qualify-for-worldwide-competition/article_0afbdb7a-4e05-11ea-93f4-5fdc9dd5010a.amp.html",
-      "cdnAmpWebUrl": "https://www-mankatofreepress-com.cdn.ampproject.org/c/s/www.mankatofreepress.com/news/local_news/mankato-robotics-teams-qualify-for-worldwide-competition/article_0afbdb7a-4e05-11ea-93f4-5fdc9dd5010a.amp.html",
-      "publishedDateTime": "2020-02-18T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mankato Free Press",
-        "domain": "mankatofreepress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/mankatofreepress.com/content/tncms/assets/v3/editorial/9/1a/91a10458-4dff-11ea-b845-c78e0123f55b/5e44a54858b67.image.jpg?resize=1024%2C682",
-          "width": 1024,
-          "height": 682,
-          "title": "Mankato robotics teams qualify for worldwide competition",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_posts/2020-02-18-protect-yourself-from-coronavirus-with-a-mask-that-looks-like-your-face.md",
       "title": "Protect yourself from coronavirus with a mask that looks like your face",
       "excerpt": "It's hard to stand out in a crowd when everyone's wearing the same bone-white N95 protective facial mask. That could change if one San Francisco designer follows through on her idea to custom-print the respirator masks with images of wearers' faces.",
@@ -2111,6 +2074,34 @@
       "topics": [
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-19-the-truck-stops-here.md",
+      "title": "The Truck Stops Here",
+      "excerpt": "While employment in traditional retailing has significantly declined in the past five years ... fee), making it so that you can just hand off a return product at your porch, a parking lot or on your morning train, and they will package and process it for you — easy.” Honeywell’s Smith said the future of last-mile delivery will likely ...",
+      "heat": 102,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://wwd.com/business-news/business-features/retail-logistics-report-1203491914/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-18T21:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Women's Wear Daily",
+        "domain": "wwd.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],
