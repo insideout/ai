@@ -8,7 +8,7 @@ ampWebUrl: "https://www.htxt.co.za/2020/02/19/local-systems-integration-firm-ioc
 cdnAmpWebUrl: "https://www-htxt-co-za.cdn.ampproject.org/c/s/www.htxt.co.za/2020/02/19/local-systems-integration-firm-ioco-on-the-aws-partner-network-and-what-2020-holds/amp/"
 type: article
 quality: 53
-heat: 63
+heat: 53
 published: false
 
 provider:
@@ -24,21 +24,6 @@ images:
     width: 1920
     height: 1080
     title: "Local systems integration firm iOCO on the AWS partner network and what 2020 holds"
-
-related:
-  - title: "2020 and beyond for AWS – a story of innovation and partner opportunity"
-    excerpt: "artificial intelligence (AI) and machine learning (ML),” Gartner distinguished research vice-president, Donald Feinberg, said in a press release. “Increasingly, operational systems are also moving to the Cloud, especially with conversion to the SaaS application model.” Helping organisations make the most of their investment into AWS is a ..."
-    publishedDateTime: 2020-02-14T04:04:00Z
-    webUrl: "https://www.reseller.co.nz/brand-post/content/671072/2020-and-beyond-for-aws-a-story-of-innovation-and-partner-opportunity/"
-    type: article
-    provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 39
-    images:
-      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/dimg/dreamstime_l_92628965.jpg"
-        width: 800
-        height: 496
 
 secured: "QK4HasF3Rxeqd/FgThu5wmOJQQ7hLav+zG3DmldHoJjkouZwzWJkn+hbgG4sBspdsgp7hDDzB/Y84+LfmuP6mfebWf9kZjjJ48RlwMduv9YMDZRUwHP5ejjVIzRBCFJOoOZBNZ5FpgiwawibLZgLX5hk3tP+sRVPnPch2fOQ/v5xn22aCmqNn2HsjQp55EbhE7RHA6ptI7XLGHxXoa6sVkSGkhwfS8GHIovbSljO51IsH607VNh8iP032b0+J+D9eTJXC/1BXgM+uYVBzr3KLCx7KsYRnF2oKiPcNPAkjnBWC+JcgECiTk09dH+ErOxtNdeXZtMtk2zXBXjBP4tKA9PKygXZzLJUU6+n70AQRogPlKDBrFpZhl4bf6h8dzUa6pXYG/EeUKnZk2+/rSgAoKo/wWZuaXc4tjHse3EM8WhQ39dXuC3HbnOmQCJDHEWDpMdeXXBNlTFLShfV6jU9KlNgHpbAITGA7Hn7Kmo0MLA=;6lgOVfmczTgV54k/c8W8RA=="
 ---

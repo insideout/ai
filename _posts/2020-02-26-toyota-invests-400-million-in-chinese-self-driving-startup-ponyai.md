@@ -229,6 +229,17 @@ related:
       - url: "https://images.hgmsites.net/hug/pony-ai-self-driving-prototype_100737587_h.jpg"
         width: 1920
         height: 932
+  - title: "Toyota To Invest $400 Millon In Self-Driving Startup Pony.ai"
+    excerpt: "Toyota will invest $400 million in self-driving startup Pony.ai based in both Silicon Valley and Guangzhou ... Pony.ai is already testing autonomous taxis in Beijing and Guangzhou and has been since late 2018. In addition, it is testing robot taxis in Fremont and Irvine, California and says it is the first company to have launched a robot ..."
+    publishedDateTime: 2020-02-28T20:32:00Z
+    webUrl: "https://www.carscoops.com/2020/02/toyota-to-invest-400-millon-in-self-driving-startup-pony-ai/"
+    ampWebUrl: "https://www.carscoops.com/2020/02/toyota-to-invest-400-millon-in-self-driving-startup-pony-ai/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2020/02/toyota-to-invest-400-millon-in-self-driving-startup-pony-ai/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 39
   - title: "China’s Pony.ai nabs $400 million in new funding from Toyota"
     excerpt: "Autonomous vehicle startup Pony.ai on Wednesday announced that it has raised $400 million in a funding round from Toyota Motor Corporation, the first-ever and biggest investment to date in a Chinese AV company by the Japanese auto giant. Why it matters: The latest investment is expected to help Pony.ai widen the gap between the company and its ..."
     publishedDateTime: 2020-02-26T05:47:00Z

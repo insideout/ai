@@ -75,6 +75,21 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-02%252Fbe661900-58d2-11ea-a7be-f35353dadc7d%26client%3Da1acac3e1b3290917d92%26signature%3De8442a5ba6d800bf23f2af01238efff47f2da2a9&client=amp-blogside-v2&signature=0b578e5a72b9b247df1c85c755266db45c5d71ee"
         width: 600
         height: 350
+  - title: "Apple Says Clearview AI’s Privacy Invading Facial Recognition App Is Violating Its Rules"
+    excerpt: "By Logan McDonald and Ryan Mac and Caroline Haskins Posted on February 28, 2020, at 3:08 p.m. ET Clearview AI CEO Hoan Ton-That Apple has disabled the iOS developer account of Clearview AI — the facial recognition company that claims to have amassed a database of billions of photos and has worked with thousands of organizations around the ..."
+    publishedDateTime: 2020-02-28T20:19:00Z
+    webUrl: "https://www.buzzfeednews.com/article/loganmcdonald/apple-clearview-app-violates-tos-supension"
+    ampWebUrl: "https://www.buzzfeednews.com/amphtml/loganmcdonald/apple-clearview-app-violates-tos-supension"
+    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/loganmcdonald/apple-clearview-app-violates-tos-supension"
+    type: article
+    provider:
+      name: BuzzFeed News
+      domain: buzzfeednews.com
+    quality: 97
+    images:
+      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2020-02/28/20/campaign_images/1a3d8b86afd6/apple-says-clearview-ais-privacy-invading-facial--2-281-1582920735-0_dblbig.jpg"
+        width: 625
+        height: 415
   - title: "Canadian Privacy Commissioners to Investigate Creepy Facial Recognition Firm Clearview AI"
     excerpt: "Canadian authorities are investigating shady face recognition company Clearview AI on the grounds that its scraping of billions of photos from the web might violate privacy laws, Reuters reported on Friday. According to Reuters, privacy commissioners from the Canadian federal government and of the provinces of British Columbia, Alberta ..."
     publishedDateTime: 2020-02-21T23:37:00Z
@@ -446,6 +461,6 @@ related:
         width: 681
         height: 333
 
-secured: "8hL4LDGy6CbE8yttK0CmRy/QythEGyyL0Vvwrli3l1x3ZMs9G6rsJRQ4sScDiTLSJLCDuv3p7Mkg1GYZ11wLm2psujPhIGvybtK4oNDhCxnGeKXYX1u28BgtcluGoLMhdDPkCY9yaC3/FJ+pTr0t/jlliLJpAklgudK8O56vVKaDAI38t5A4oPXrDDgaS88Y7Zp+iH6L4G0o1NwwXh38T3EXWGfbBNwzP1NuUAKdDZUDdDCqtROCxRCNhEOccUaO2l8huNlFro4MEE2Cw4/5CBW7qe6IiJZgv2dKlY1q2YQGfcuAOtMHoH/kbjYFXty2;X0aDD5TydalM8XvHDt7y5Q=="
+secured: "GOFl5a/5NHo2cTvZm72XdmqIHDJ51ChW1Gz3NFshwWLLrHSDvrov9tBwEN4WZ/8MDnaN8wn2iDgf3a+v2cicS8Zj3gITTnhf0heJPvzA/WV3Pu5ijS+tgYBMm9sLBj5YFqa03hb22dRt1+hX8AYSy23zCZsZBQ/4XN0IvUCkyj9pa3fwWAUMQZXdwcyarf0ViWFF4BGzfke2s+hBhN7WrOMYfTT+Ok0EHv39QWM6YgZ5CfEJuZEVFryCFb5uOmhBcbTjPiJ83zazoA9cuI39zIk0qut2ES0nZRePzsuCQT4eGmxlohtHpn1MpVdjTQM3+eTfTR8as4QHc5hlU1fpu/fCsFbVzsqaIhTXbto0GT4KmpnM1vg99PVosaNQrISQwIMqVctS2xec3hiZICgJgmLMuksoVZ8CFXmhZzMC7bx/aCt91nGEFLM6UjE/X8DiMk8CIee53LsU7ikWLes5Ou0luxyUC9PmFijqCJcWZ/U=;cQGyZNbrkRuz5cKQVNTwXA=="
 ---
 

@@ -2,50 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_posts/2020-02-26-ai-comes-to-the-tax-code.md",
-      "title": "AI Comes to the Tax Code",
-      "excerpt": "Governments are increasingly relying on machine learning and data analytics to analyze troves of data as they seek to detect tax evasion, respond to taxpayers’ questions and make themselves more efficient.",
-      "heat": 197,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wsj.com/articles/ai-comes-to-the-tax-code-11582713000",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/ai-comes-to-the-tax-code-11582713000",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-comes-to-the-tax-code-11582713000",
-      "publishedDateTime": "2020-02-26T02:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-157678/social",
-          "width": 1280,
-          "height": 640,
-          "title": "AI Comes to the Tax Code",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-26-ai-computing-startup-sambanova-raises-250-mln-in-blackrock-led-funding.md",
       "title": "AI computing startup SambaNova raises $250 mln in BlackRock-led funding",
       "excerpt": "Feb 25- Artificial intelligence computing firm SambaNova Systems said on Tuesday it has raised $250 million in a funding round led by BlackRock Inc to expand its customer base, reflecting investors' appetite for the market.",
@@ -1589,43 +1545,6 @@
       ]
     },
     {
-      "path": "_posts/2020-02-26-the-european-commission-considers-new-regulations-and-enforcement-for-high-risk-ai.md",
-      "title": "The European Commission considers new regulations and enforcement for “high-risk” AI",
-      "excerpt": "The new white paper echoes the principles of the earlier AI Ethics Guidelines: non-discrimination, transparency, accountability, privacy, robustness, environmental well-being, and human oversight. This new paper goes beyond many prior AI ethics frameworks to offer specific AI regulatory options. Some of these options would be alterations to ...",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.brookings.edu/blog/techtank/2020/02/26/the-european-commission-considers-new-regulations-and-enforcement-for-high-risk-ai/",
-      "ampWebUrl": "https://www.brookings.edu/blog/techtank/2020/02/26/the-european-commission-considers-new-regulations-and-enforcement-for-high-risk-ai/amp/",
-      "cdnAmpWebUrl": "https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/blog/techtank/2020/02/26/the-european-commission-considers-new-regulations-and-enforcement-for-high-risk-ai/amp/",
-      "publishedDateTime": "2020-02-26T08:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Brookings Institution",
-        "domain": "brookings.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.brookings.edu/wp-content/uploads/2018/06/Global_EU-Flags.jpg",
-          "width": 5115,
-          "height": 3362,
-          "title": "The European Commission considers new regulations and enforcement for “high-risk” AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
       "path": "_posts/2020-02-26-the-rudest-drivers-tend-to-drive-these-car-brands-which-ai-self-driving-cars-ought-to-keep-in-mind.md",
       "title": "The Rudest Drivers Tend To Drive These Car Brands, Which AI Self-Driving Cars Ought To ‘Keep In Mind’",
       "excerpt": "What kind of car do you drive? I don’t mean whether it is a four-door or two-door, nor whether it is red in color or blue. Specifically, what brand of car do you drive? According to various studies (cited in a moment herein),",
@@ -1703,7 +1622,7 @@
       "path": "_posts/2020-02-26-toyota-steers-400-million-to-self-driving-startup-ponyai.md",
       "title": "Toyota steers $400 million to self-driving startup Pony.ai",
       "excerpt": "With this new investment, their relationship will become even closer, with the automaker and the startup “co-developing” mobility products like “mobility services.” Pony.ai has been testing robot taxis in Beijing and Guangzhou since late 2018 as well as in Fremont and Irvine, California. The startup claims to be the first company to ...",
-      "heat": 341,
+      "heat": 351,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.theverge.com/2020/2/25/21152817/toyota-pony-ai-self-driving-car-investment-valuation-china-silicon-valley",
@@ -2123,6 +2042,95 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-27-einride-shows-how-ai-will-create-new-kinds-of-jobs.md",
+      "title": "Einride shows how AI will create new kinds of jobs",
+      "excerpt": "Artificial intelligence (AI) will either destroy jobs or create new jobs — depending on which report you read. In truth, it’s probably a little of both — AI will undoubtedly replace human workers in some spheres, but it will also create new roles, many of which we can’t yet imagine. A recent report from PA Consulting, titled “People ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/27/einride-shows-how-ai-will-create-new-kinds-of-jobs/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/27/einride-shows-how-ai-will-create-new-kinds-of-jobs/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/27/einride-shows-how-ai-will-create-new-kinds-of-jobs/amp/",
+      "publishedDateTime": "2020-02-27T08:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/0.png?fit=1193%2C660&strip=all",
+          "width": 1193,
+          "height": 660,
+          "title": "Einride shows how AI will create new kinds of jobs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-27-google-is-buying-its-way-into-cloud-computing-contention.md",
+      "title": "Google is Buying Its Way Into Cloud Computing Contention",
+      "excerpt": "As it stands, Amazon's (NASDAQ:AMZN) cloud unit Amazon Web Services (AWS) is the industry leader, but Microsoft (NASDAQ ... The selling point for using Google Cloud is that businesses get access to its artificial intelligence and data analysis expertise, and don't have to worry about sharing data with a rival. To stand out from its competitors ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/02/27/google-buying-way-cloud-computing-cornerstone.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/02/27/google-buying-way-cloud-computing-cornerstone.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/02/27/google-buying-way-cloud-computing-cornerstone.aspx",
+      "publishedDateTime": "2020-02-27T06:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F559707%2Fcloud-google-mf.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 675,
+          "title": "Google is Buying Its Way Into Cloud Computing Contention",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
       ]
     }
   ],

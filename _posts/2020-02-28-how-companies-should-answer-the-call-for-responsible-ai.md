@@ -3,7 +3,7 @@ category: news
 title: "How Companies Should Answer The Call For Responsible AI"
 excerpt: "Only 25% of companies say that they definitely prioritize considering the ethical implications of an AI solution before investing in it, according to research by PwC."
 publishedDateTime: 2020-02-28T19:41:00Z
-webUrl: "https://www.forbes.com/sites/falonfatemi/2020/02/28/how-companies-should-answer-the-call-for-responsible-ai/"
+webUrl: "https://www.forbes.com/sites/falonfatemi/2020/02/28/how-companies-should-answer-the-call-for-responsible-ai"
 ampWebUrl: "https://www.forbes.com/sites/falonfatemi/2020/02/28/how-companies-should-answer-the-call-for-responsible-ai/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/falonfatemi/2020/02/28/how-companies-should-answer-the-call-for-responsible-ai/amp/"
 type: article
@@ -30,6 +30,6 @@ images:
     height: 799
     title: "How Companies Should Answer The Call For Responsible AI"
 
-secured: "DRXSeEzb75mP9ZZFOQfzADAaTbeOX42tNvdBQWJKqSC7gJ0LkC80Hw1bzUWw7ufiqZ2P8G/uqaAPE4LUb2H9V2DHKlmxooui5Zd2us1fsaI3qD0dEjNId4vCcfTiY/JVVc05pGSGUs08Mx94+8ooUdF7AF2vov2Vvgyzjamd+6jzt6W1/JK2Xlu/4oKsOHuLu9MuKrXDIj/8IhxcCClJaEAwNVgduR076j723nkomTftgBgp/uPWdw9WPK+CqTZs79V4bnexPXxPhnxSWYlGQH3P5LiQQz7ox0da6HS7gG5cWS4U7ak03be3sI6zM/ml;h64I80BCRnUVOWXaEulepg=="
+secured: "WfdnxJjzBiyQox1qTKWueHBlSN76phW6Q0fpSr1MaaIv2D2sDCG8LlLfMVORVrJAjat7MAnCI4KuuymrZ0GhOyhhsR+cYyCMVLx+etyu7cPrklPXVjRrtAnf3yXQsm2z94scQnUITNyAGkmBWi1Z/jKZVjYFBqjlC5KuFtfcKkGhXPhdGiBjqH0uGH/iX9fErgBCD4WZ3AAmHPj0y8/deDdMplPYw4XnOaua579dx5b1JU8RHhGF2ZfR0FEkU+PJCrpary0zGG5jkGt34DVEAu2uAjGP3nvWKQa+sAdP1+gTwnAVayNw5P4+TY9aaPFh;5myjC1Ur4wLxG1svx4H47A=="
 ---
 

@@ -2,95 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_posts/2020-02-27-einride-shows-how-ai-will-create-new-kinds-of-jobs.md",
-      "title": "Einride shows how AI will create new kinds of jobs",
-      "excerpt": "Artificial intelligence (AI) will either destroy jobs or create new jobs — depending on which report you read. In truth, it’s probably a little of both — AI will undoubtedly replace human workers in some spheres, but it will also create new roles, many of which we can’t yet imagine. A recent report from PA Consulting, titled “People ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/27/einride-shows-how-ai-will-create-new-kinds-of-jobs/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/27/einride-shows-how-ai-will-create-new-kinds-of-jobs/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/27/einride-shows-how-ai-will-create-new-kinds-of-jobs/amp/",
-      "publishedDateTime": "2020-02-27T08:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/0.png?fit=1193%2C660&strip=all",
-          "width": 1193,
-          "height": 660,
-          "title": "Einride shows how AI will create new kinds of jobs",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-27-google-is-buying-its-way-into-cloud-computing-contention.md",
-      "title": "Google is Buying Its Way Into Cloud Computing Contention",
-      "excerpt": "As it stands, Amazon's (NASDAQ:AMZN) cloud unit Amazon Web Services (AWS) is the industry leader, but Microsoft (NASDAQ ... The selling point for using Google Cloud is that businesses get access to its artificial intelligence and data analysis expertise, and don't have to worry about sharing data with a rival. To stand out from its competitors ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/02/27/google-buying-way-cloud-computing-cornerstone.aspx",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/02/27/google-buying-way-cloud-computing-cornerstone.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/02/27/google-buying-way-cloud-computing-cornerstone.aspx",
-      "publishedDateTime": "2020-02-27T06:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F559707%2Fcloud-google-mf.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 675,
-          "title": "Google is Buying Its Way Into Cloud Computing Contention",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-27-healthcare-startup-qureai-raises-16-million-led-by-sequoia-india.md",
       "title": "Healthcare startup Qure.ai raises $16 million led by Sequoia India",
       "excerpt": "Healthcare startup Qure.ai has raised $16 million in an equity funding round led by Sequoia India, with participation from MassMutual Ventures Southeast Asia, it said Thursday. MassMutual Ventures is the investment arm of US-based MassMutual Life Insurance Company. Founded in 2016 by Prashant Warier and Pooja Rao, Qure.ai provides ...",
@@ -946,6 +857,50 @@
       ]
     },
     {
+      "path": "_posts/2020-02-28-ai-weekly-us-and-eu-strike-contrasting-tones-on-ai-regulatory-policy.md",
+      "title": "AI Weekly: U.S. and EU strike contrasting tones on AI regulatory policy",
+      "excerpt": "Earlier this month, the European Commission (EC) published a major set of proposals for its strategy on AI. Both of these follow AI principles and regulations proposed in May 2019 by the multi-nation Organization for Economic Co-operation and Development (OECD), which includes the U.S. and European countries. Despite that shared international ...",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/28/ai-weekly-u-s-and-european-governments-strike-contrasting-tones-on-ai/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/28/ai-weekly-u-s-and-european-governments-strike-contrasting-tones-on-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/28/ai-weekly-u-s-and-european-governments-strike-contrasting-tones-on-ai/amp/",
+      "publishedDateTime": "2020-02-28T12:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/03/michael-kratsios-venturebeat-blueprint-mar-2019.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "AI Weekly: U.S. and EU strike contrasting tones on AI regulatory policy",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_posts/2020-02-28-can-machines-and-artificial-intelligence-be-creative.md",
       "title": "Can Machines And Artificial Intelligence Be Creative?",
       "excerpt": "While artificial intelligence can be creative, what's most compelling is the creative output when humans and machines collaborate, whether that's in art, music, dance, design, recipes, or publishing.",
@@ -1031,6 +986,96 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-28-cloud-machine-learning-market-is-booming-worldwide-gaining-revolution-in-eyes-of-global-exposure.md",
+      "title": "Cloud Machine Learning Market is Booming Worldwide | gaining Revolution In Eyes of Global Exposure",
+      "excerpt": "Identify Sales forecasts to help your business keep adequate inventory, create an actionable plan with latest edition released by AMA on Global Cloud Machine Learning Market to regulate the balance of demand and supply.",
+      "heat": 70,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/cloud-machine-learning-market-is-booming-worldwide-gaining-revolution-in-eyes-of-global-exposure-2020-02-28",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-28T12:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Cloud Machine Learning Market is Booming Worldwide | gaining Revolution In Eyes of Global Exposure",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-28-conversational-ai-platform-market-major-technology-giants-in-buzz-again.md",
+      "title": "Conversational AI Platform Market Major Technology Giants in Buzz Again",
+      "excerpt": "The Conversational AI Platform Market has witnessed continuous growth in the last few years and is projected to grow even further during the forecast period of 2020-2026. The exploration provides a 360°",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/conversational-ai-platform-market-major-technology-giants-in-buzz-again-2020-02-28",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-28T09:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Conversational AI Platform Market Major Technology Giants in Buzz Again",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
       ]
     },
     {
@@ -1175,7 +1220,7 @@
       "heat": 91,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.forbes.com/sites/falonfatemi/2020/02/28/how-companies-should-answer-the-call-for-responsible-ai/",
+      "webUrl": "https://www.forbes.com/sites/falonfatemi/2020/02/28/how-companies-should-answer-the-call-for-responsible-ai",
       "ampWebUrl": "https://www.forbes.com/sites/falonfatemi/2020/02/28/how-companies-should-answer-the-call-for-responsible-ai/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/falonfatemi/2020/02/28/how-companies-should-answer-the-call-for-responsible-ai/amp/",
       "publishedDateTime": "2020-02-28T11:41:00-08:00",
@@ -1463,6 +1508,50 @@
       "topics": [
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-28-putins-youngest-daughter-to-run-artificial-intelligence-institute.md",
+      "title": "Putin's youngest daughter to run artificial intelligence institute",
+      "excerpt": "Katerina Tikhonova, the youngest daughter of Russian President Vladimir Putin, was appointed head of a new artificial intelligence institute at Moscow State University, her fund said on Friday. Tikhonova,",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-russia-putin-daughter-idUSKCN20M2RU",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN20M2RU",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN20M2RU",
+      "publishedDateTime": "2020-02-28T10:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Putin's youngest daughter to run artificial intelligence institute",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -1900,7 +1989,7 @@
       "path": "_posts/2020-02-28-we-found-clearview-ais-shady-face-recognition-app.md",
       "title": "We Found Clearview AI's Shady Face Recognition App",
       "excerpt": "Reporters were able to download the most recent Android version of the app marketed to police by Clearview AI, a New York-based startup whose controversial scraping of an estimate 3 billion photographs from the likes of Facebook, Google, and YouTube have prompted legal threats from major tech companies and alarmed privacy hawks on Capitol Hill.",
-      "heat": 394,
+      "heat": 404,
       "tags": null,
       "type": "article",
       "webUrl": "https://gizmodo.com/we-found-clearview-ais-shady-face-recognition-app-1841961772",
@@ -2047,78 +2136,6 @@
           "width": 1022,
           "height": 512,
           "title": "Meet the new face-detection algorithm that will change image search",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2016-02-23-trolls-vs-pirates-halostryker-oral-arguments.md",
-      "title": "Trolls vs Pirates: Halo/Stryker Oral Arguments",
-      "excerpt": "Wall’s approach was to highlight the general nature of the the statute ... MR. WALL: [W]e and the PTO and many of Respondents’ amici recognize, the system as it currently stands is out of balance. And we have tried, and I believe we have succeeded ...",
-      "heat": 102,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://patentlyo.com/patent/2016/02/pirates-halostryker-arguments.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2016-02-23T08:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Patently-O",
-        "domain": "patentlyo.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2017-05-01-a-list-of-artificial-intelligence-tools-you-can-use-today-for-personal-use-13.md",
-      "title": "A list of artificial intelligence tools you can use today — for personal use (1/3)",
-      "excerpt": "Artificial Intelligence and the fourth industrial revolution has made some considerable progress over the last couple of years. Most of this current progress that is usable has been developed for ...",
-      "heat": 161,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/@Liamiscool/a-list-of-artificial-intelligence-tools-you-can-use-today-for-personal-use-1-3-7f1b60b6c94f",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2017-04-30T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/freeze/max/1200/1*KdbQDJccO7aoNIvDrjUhzA.gif",
-          "width": 1200,
-          "height": 675,
-          "title": "A list of artificial intelligence tools you can use today — for personal use (1/3)",
           "attribution": null
         }
       ],

@@ -89,6 +89,21 @@ related:
       - url: "https://cnet4.cbsistatic.com/img/JsUigaPqhHEO0XUYO41ZqO-Z-vo=/756x567/2020/01/18/2bde6ea9-4f91-4473-a8fb-1418d9ac5c7d/facial-recognition-james-martin-promo-1.jpg"
         width: 756
         height: 567
+  - title: "Apple Says Clearview AI’s Privacy Invading Facial Recognition App Is Violating Its Rules"
+    excerpt: "By Logan McDonald and Ryan Mac and Caroline Haskins Posted on February 28, 2020, at 3:08 p.m. ET Clearview AI CEO Hoan Ton-That Apple has disabled the iOS developer account of Clearview AI — the facial recognition company that claims to have amassed a database of billions of photos and has worked with thousands of organizations around the ..."
+    publishedDateTime: 2020-02-28T20:19:00Z
+    webUrl: "https://www.buzzfeednews.com/article/loganmcdonald/apple-clearview-app-violates-tos-supension"
+    ampWebUrl: "https://www.buzzfeednews.com/amphtml/loganmcdonald/apple-clearview-app-violates-tos-supension"
+    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/loganmcdonald/apple-clearview-app-violates-tos-supension"
+    type: article
+    provider:
+      name: BuzzFeed News
+      domain: buzzfeednews.com
+    quality: 97
+    images:
+      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2020-02/28/20/campaign_images/1a3d8b86afd6/apple-says-clearview-ais-privacy-invading-facial--2-281-1582920735-0_dblbig.jpg"
+        width: 625
+        height: 415
   - title: "Canadian Privacy Commissioners to Investigate Creepy Facial Recognition Firm Clearview AI"
     excerpt: "Canadian authorities are investigating shady face recognition company Clearview AI on the grounds that its scraping of billions of photos from the web might violate privacy laws, Reuters reported on Friday. According to Reuters, privacy commissioners from the Canadian federal government and of the provinces of British Columbia, Alberta ..."
     publishedDateTime: 2020-02-21T23:37:00Z

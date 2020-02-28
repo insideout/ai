@@ -457,6 +457,21 @@ related:
       - url: "https://dynamicmedia.zuza.com/zz/m/original_/2/5/25c13924-d942-4127-ab5c-876b462a3e14/B881053350Z.1_20200223131813_000_GI7SUH6U.4-0_Super_Portrait.jpg"
         width: 625
         height: 417
+  - title: "Privacy Watchdog Investigating RCMP’s Use Of Facial-Recognition Technology"
+    excerpt: "OTTAWA — The federal privacy commissioner is investigating the RCMP’s use of cutting-edge facial-recognition software. The technology made by American company Clearview AI gathers huge numbers of images from various sources that can help police forces ..."
+    publishedDateTime: 2020-02-28T20:44:00Z
+    webUrl: "https://www.huffingtonpost.ca/entry/privacy-watchdog-rcmp-facial-recognition_ca_5e5976adc5b6450a30be4c9c"
+    ampWebUrl: "https://m.huffingtonpost.ca/amp/entry/privacy-watchdog-rcmp-facial-recognition_ca_5e5976adc5b6450a30be4c9c/"
+    cdnAmpWebUrl: "https://m-huffingtonpost-ca.cdn.ampproject.org/c/s/m.huffingtonpost.ca/amp/entry/privacy-watchdog-rcmp-facial-recognition_ca_5e5976adc5b6450a30be4c9c/"
+    type: article
+    provider:
+      name: HuffPost Canada
+      domain: huffingtonpost.ca
+    quality: 42
+    images:
+      - url: "https://img.huffingtonpost.com/asset/5e597826260000e911b5ff2e.jpeg?cache=AqLIHUimwb&ops=1778_1000"
+        width: 1772
+        height: 1000
   - title: "Facebook to pay users to improve speech recognition technology"
     excerpt: "Facebook has announced it will pay select users who agree to record their voice to improve its speech recognition technology. According to The Verge, the social networking giant he company will pay select users to record snippets of audio through a new programme called \"Pronunciations in its Viewpoints market research app. If you qualify to be ..."
     publishedDateTime: 2020-02-21T16:02:00Z

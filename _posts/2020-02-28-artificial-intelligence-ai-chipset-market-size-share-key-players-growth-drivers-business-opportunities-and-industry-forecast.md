@@ -1,28 +1,29 @@
 ---
 category: news
 title: "Artificial Intelligence (AI) Chipset Market Size, Share, Key Players, Growth Drivers, Business Opportunities, and industry Forecast"
-excerpt: "Chipset Market” Artificial Intelligence (AI) Chipset Market Research Report: By Component (Hardware {Processors [CPU, GPU, ASIC,"
-publishedDateTime: 2020-02-28T09:50:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/02/ab15438437/artificial-intelligence-ai-chipset-market-size-share-key-players-growth-drivers-business-opportun"
-ampWebUrl: "https://amp.benzinga.com/amp/content/15438437"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15438437"
+excerpt: "Market Highlights Artificial intelligence (AI) chipset are silicon-based chips that are integrated with devices"
+publishedDateTime: 2020-02-28T09:49:00Z
+webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipset-market-size-share-key-players-growth-drivers-business-opportunities-and-industry-forecast-2020-02-28"
 type: article
-quality: 44
+quality: 52
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
-  - AI in Robotics
 
 images:
-  - url: "https://www.abnewswire.com/uploads/1582882997.jpeg"
-    width: 417
-    height: 455
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     title: "Artificial Intelligence (AI) Chipset Market Size, Share, Key Players, Growth Drivers, Business Opportunities, and industry Forecast"
 
 related:
@@ -81,6 +82,6 @@ related:
         width: 400
         height: 225
 
-secured: "fZ6T9nMmKy+0yK0+14f3cDo3n8tFSCGB83DXCz+JmOky7VLTGu79ELD9sBighDfvTOoRrctRFxDBXlQiyuzeO+WSOV1RxQlxKXTbYsMGn13HJdNz4tTsNQcrVBjV3J+6Ct5rk9CHfa3qiHsYlMQ4x6Uip5WhsVLSs1pW/JF/Vh8Fjh1vE5pb4pOtLcnUw+Jk6tlgcdkPwu1+wKJzPd1FcHK1JtLjNchRjrzh75pk2j8/tbiw1b4xkBuFwM9+H249asQJE1wfKXGEHXvNuR6dzXZUgc37dtgyRoKh8wd46Pc/13pKVu2t+xeoqEoyTyef;gXtHQCvK7nBaZQeN/3ttQw=="
+secured: "AEuNL2Ian40E4q82LVcs7v2rZkagG6ggIDg5QnqmYeSF5uz6F4SmvYLhXDqIXMV7/K5N1ipIXshSnV7HA+Su6eccfupeXr5+x4gAZSzbO/JbUJUNY9pshlZ7D81vs7DROm/kkt6KuBFw6rNdxq8CLHDs8as5eGHcgLDhnQICO5PYapdven0jUhYuZtArplu+VF54tLD4YoPHqwHY4471/kKWflQyjXGgxUG9V7aM73u3J/FTIh3Qfb7wk2wrzDuO2Fw3VIHsxeIwIGX/IVrZZbwQkm9fC4RGybLOhruaobLm8y5hTS7DA17QzDb+LHEI;c9PlMPNxe3ukHGtjSAEytg=="
 ---
 
