@@ -2,6 +2,166 @@
   "page": 9,
   "value": [
     {
+      "path": "_posts/_archive/2017-07-27-kesha-discovers-how-to-learn-to-let-go-in-new-song-and-video.md",
+      "title": "Kesha Discovers How to “Learn to Let Go” in New Song and Video",
+      "excerpt": "According to an essay in The Huffington Post, pop singer Kesha, while writing “Learn to Let Go,” was also inspired by ... where she encounters signposts from her past—including a cleverly devised fake swimming pool—that parallel the funny, often ...",
+      "heat": 142,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.slantmagazine.com/music/kesha-discovers-how-to-learn-to-let-go-in-new-song-and-video/",
+      "ampWebUrl": "https://www.slantmagazine.com/music/kesha-discovers-how-to-learn-to-let-go-in-new-song-and-video/amp/",
+      "cdnAmpWebUrl": "https://www-slantmagazine-com.cdn.ampproject.org/c/s/www.slantmagazine.com/music/kesha-discovers-how-to-learn-to-let-go-in-new-song-and-video/amp/",
+      "publishedDateTime": "2017-07-27T06:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Slant Magazine",
+        "domain": "slantmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.slantmagazine.com/wp-content/uploads/2017/07/music_learntoletgo-600x600.jpg",
+          "width": 600,
+          "height": 600,
+          "title": "Kesha Discovers How to “Learn to Let Go” in New Song and Video",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2018-08-22-society-is-made-of-narrative-realizing-this-is-awakening-from-the-matrix.md",
+      "title": "Society Is Made Of Narrative. Realizing This Is Awakening From The Matrix.",
+      "excerpt": "In the movie The Matrix, humans are imprisoned in a virtual world by a powerful artificial intelligence system in a dystopian future. What they take to be ... with their senses is actually made of AI-generated code. Life in our current society is very ...",
+      "heat": 150,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/@caityjohnstone/society-is-made-of-narrative-realizing-this-is-awakening-from-the-matrix-787c7e2539ae",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2018-08-21T18:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/0*pmMn-OBDF907eDRG",
+          "width": 1200,
+          "height": 900,
+          "title": "Society Is Made Of Narrative. Realizing This Is Awakening From The Matrix.",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2018-08-29-everything-you-need-to-know-about-key-differences-between-ai-data-science-machine-learning-and-big-data.md",
+      "title": "Everything you need to know about key differences between AI, Data Science, Machine Learning and Big Data",
+      "excerpt": "“All right, but what’s the difference between data science and AI ... claims that: “Machine learning is a part of research on artificial intelligence, seeking to provide knowledge to ...",
+      "heat": 150,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/dlabs-pl/everything-you-need-to-know-about-key-differences-between-ai-data-science-machine-learning-and-4ad7ab0b516b",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2018-08-28T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1024/1*Ps0DH-MFVfZKjkhgFoL3Kg.jpeg",
+          "width": 1024,
+          "height": 683,
+          "title": "Everything you need to know about key differences between AI, Data Science, Machine Learning and Big Data",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2019-01-12-serbian-parliament-apologizes-for-1995-srebrenica-bosnia-massacre-president-boris-tadic-says-it-strengthens-links-to-eu.md",
+      "title": "Serbian Parliament apologizes for 1995 Srebrenica, Bosnia, massacre; President Boris Tadic says it strengthens links to EU",
+      "excerpt": "Rajko Kuzmanovic, the president of the Bosnian Serb ministate, said the declaration was \"unacceptable and counterproductive.\" Associated Press writers Jovana Gec in Belgrade, Irena Gajic in Banja Luka, Bosnia-Herzegovina contributed to this report.",
+      "heat": 96,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cleveland.com/world/2010/03/serbian_parliament_apologizes.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-01-12T13:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Plain Dealer",
+        "domain": "cleveland.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.cleveland.com/resizer/EMGywyN0Qp1ASZhljB-bu95oGhQ=/1280x0/smart/advancelocal-adapter-image-uploads.s3.amazonaws.com/image.cleveland.com/home/cleve-media/width2048/img/world_impact/photo/serbia-boris-tadic-massacre-033110jpg-af71bef030ec35fb.jpg",
+          "width": 1280,
+          "height": 860,
+          "title": "Serbian Parliament apologizes for 1995 Srebrenica, Bosnia, massacre; President Boris Tadic says it strengthens links to EU",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_posts/_archive/2019-09-30-face-recognition-on-a-raspberry-pi-using-3d-model-for-face-alignment.md",
       "title": "Face recognition on a Raspberry Pi using 3D model for face alignment",
       "excerpt": "Many face detectors exist in the literature each having its advantages and disadvantages. Here we used the “Viola & Jones ... recognition task easier. For example we could use a 2D alignment ...",
@@ -1953,186 +2113,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-02-googles-deepmind-created-an-ai-for-spotting-breast-cancer-that-can-outperform-human-radiologists.md",
-      "title": "Google's DeepMind created an AI for spotting breast cancer that can outperform human radiologists",
-      "excerpt": "It indicates a way to close an interaction, or dismiss a notification. Google Health and DeepMind have created an AI tool capable of spotting breast cancer with as much accuracy as a human ...",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/deepmind-develops-ai-for-spotting-breast-cancer-2020-1",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-02T02:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5e0dc2ff855cc233a169d124?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "Google's DeepMind created an AI for spotting breast cancer that can outperform human radiologists",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-02-new-ebay-platform-using-ai-to-enable-image-search-and-internal-innovation.md",
-      "title": "New eBay platform using AI to enable image search and internal innovation",
-      "excerpt": "In a blog post, eBay's Sanjeev Katariya, vice president and chief architect of the eBay AI and platforms, and Ashok Ramani, director of product management, computer vision, natural and language ...",
-      "heat": 88,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/new-ebay-platform-using-ai-to-enable-image-search-and-internal-innovation/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/new-ebay-platform-using-ai-to-enable-image-search-and-internal-innovation/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/new-ebay-platform-using-ai-to-enable-image-search-and-internal-innovation/",
-      "publishedDateTime": "2020-01-02T10:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2019/08/14/04431cd4-496f-4b8b-8c84-626bb46b9b53/thumbnail/1200x675/341ae9baa20fd565a197f478b55bbb38/20190731-brandonai-karen.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "New eBay platform using AI to enable image search and internal innovation",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-02-samsungs-new-family-hub-refrigerator-uses-computer-vision-to-keep-tabs-on-groceries.md",
-      "title": "Samsung’s new Family Hub refrigerator uses computer vision to keep tabs on groceries",
-      "excerpt": "If you’re in the market for a new fridge, no need to fret — Samsung’s got you covered. This morning, ahead of the 2020 Consumer Electronics Show (CES), the tech giant debuted the latest ...",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/02/samsungs-new-family-hub-refrigerator-uses-computer-vision-to-keep-tabs-on-groceries/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/02/samsungs-new-family-hub-refrigerator-uses-computer-vision-to-keep-tabs-on-groceries/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/02/samsungs-new-family-hub-refrigerator-uses-computer-vision-to-keep-tabs-on-groceries/amp/",
-      "publishedDateTime": "2020-01-02T08:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/7b62d4fb-42bc-4991-808d-8d1fd96c6b29-e1577983599901.png?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Samsung’s new Family Hub refrigerator uses computer vision to keep tabs on groceries",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-02-saving-output-of-object-recognition-in-macos-opencv-python.md",
-      "title": "Saving output of object recognition in macOS — OpenCV Python",
-      "excerpt": "This post is important to those of you who have successfully worked on your object detection task. I did some research on the process of saving the output of object detection on OpenCV in Python ...",
-      "heat": 69,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/@venkatesh.chandra_75550/saving-output-of-object-recognition-in-macos-opencv-python-5914bb5d9ca8",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-01T22:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/1*v4BDPOmFbQgvNOORT0nu8g.jpeg",
-          "width": 1200,
-          "height": 800,
-          "title": "Saving output of object recognition in macOS — OpenCV Python",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

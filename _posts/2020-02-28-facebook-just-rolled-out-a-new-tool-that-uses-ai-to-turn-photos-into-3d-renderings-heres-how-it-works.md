@@ -29,6 +29,6 @@ images:
     height: 600
     title: "Facebook just rolled out a new tool that uses AI to turn photos into 3D renderings — here's how it works"
 
-secured: "x0K23Qg9vS6VZ0ZgkjIb/R3v2dCLhiQDw53HKPBsaJdFX3v/0sLDbymhFBlYMddJZQ9k9O+jfUijUkHtSB64R1t4uC44j9tYMed7OUK8Dk8yDvckjnYijbwREWF4FC8vRXOsWUKKmghVbJtCXDBlI//EaxlUxDnhAFewfeAVYr+ET3dkBqomIumqfx/Ior+IG/7NCGz9AgjIka6kAxddnjtroPMhYIKo+bEshaIP4Ly7cMT+atdCvSVgsEpGAqbYesvN5i+SEe0a/WrfrBKEGsaoduj8A8ngakFbMu3ePhFgd+AoSnogX5m3178NhmAc;Fg0fmBMd8XqVxaayWieDQw=="
+secured: "hQh3+8/P5mAhwwDiDpSKGO8/l3sRq02KqDxC8RukwCvZV4FGThNkv2CkR6MUtvahQwU4MFisjaozBli3V7Pua/EI/mfbmQcnBksfgUhfXdAurfYUDCQbCPGctA7vDTX9t+YaJXLDBXnFxvWmNSF+zP8IKEbVctBmLUdVJEt+bYKsCoS0waEV48uQ0X5xucEn4UALLE5r1kT01mbv29RMD+c6t3JWvix3XGezdLTeavKKANNR0AR9lvf4YQOxpxySrLeawmuW4YWMKawfbJ+mC+gJSuq/a8cVmzIks7jSkh3dRYwX4cEz/88azTMWzIbdOFt+iSQvxV+bgEoL5OGWC/EMedaZqmsy2z5H1u5CMIPRaSnp753COwo7TkS5d5T3Qb3mRZre8qMZhX6UZb4r/pjr51rt87YXhX4IYf83hwnzwOVIk7/vF7QSnOyniRfaBpxIpPyWsVvNzu64Hpr/2UKXZ2O/A+p4JCA6aUZCOUw=;zAh+lnjNJSvCu9K5QrEU/Q=="
 ---
 

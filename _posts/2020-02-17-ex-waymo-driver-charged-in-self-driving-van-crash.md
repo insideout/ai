@@ -93,15 +93,6 @@ related:
       - url: "https://i1.wp.com/www.mercurynews.com/wp-content/uploads/2020/02/Self-Driving_Vehicle-Collision_Arrest_65344.jpg?fit=620%2C9999px&ssl=1"
         width: 620
         height: 301
-  - title: "Former Self-Driving Car Operator Engineers Crash in Tempe, Cops Say"
-    excerpt: "He was allegedly successful, and a self-driving vehicle slammed into his Mazda sedan around 10:30 p.m. January 30, as a local ABC affiliate previously reported. The Waymo vehicle’s autonomous driving was not engaged at the time of the crash, according to Tempe police, and the driver was the only one inside the vehicle. “His initial ..."
-    publishedDateTime: 2020-02-14T01:38:00Z
-    webUrl: "https://www.thedailybeast.com/former-waymo-operator-tricks-self-driving-car-into-crashing-in-tempe-cops-say"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 4
   - title: "Insight: How to make an ethical self-driving car"
     excerpt: "Not too long ago, tech enthusiasts were telling us that by 2020, we’d see self-driving cars hit the mainstream, with some 10 million on the roads. That turned out to be a wild overestimation. The actual number of vehicles in testing is thousands of times smaller, and they’re still driving mostly in controlled conditions. Companies have also ..."
     publishedDateTime: 2020-02-16T09:31:00Z

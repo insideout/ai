@@ -39,6 +39,21 @@ related:
       - url: "https://images.theconversation.com/files/309620/original/file-20200113-103951-1d39a4w.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=754&fit=clip"
         width: 754
         height: 507
+  - title: "People prefer robots to explain themselves – and a brief summary doesn’t cut it"
+    excerpt: "Only focusing on task performance may not lead to a robot that explains itself well. Our lab uses a hybrid model to provide both high performance and trustworthy explanations. Performance and explanation do not naturally complement each other, so both goals need to be a priority from the start when building AI systems. This work represents an ..."
+    publishedDateTime: 2020-02-28T18:00:00Z
+    webUrl: "https://www.mic.com/p/people-prefer-robots-to-explain-themselves-a-brief-summary-doesnt-cut-it-22580548"
+    ampWebUrl: "https://www.mic.com/p/people-prefer-robots-to-explain-themselves-a-brief-summary-doesnt-cut-it-22580548/amp"
+    cdnAmpWebUrl: "https://www-mic-com.cdn.ampproject.org/c/s/www.mic.com/p/people-prefer-robots-to-explain-themselves-a-brief-summary-doesnt-cut-it-22580548/amp"
+    type: article
+    provider:
+      name: Mic
+      domain: mic.com
+    quality: 70
+    images:
+      - url: "https://imgix.bustle.com/uploads/getty/2020/2/28/a83f362e-f1dc-41cf-be6f-f6b7ff2f5b91-getty-950209696.jpg?w=1200&h=630&q=70&fit=crop&crop=faces&fm=jpg"
+        width: 1200
+        height: 630
   - title: "A New Study Finds People Prefer Robots That Explain Themselves"
     excerpt: "Artificial intelligence is entering our lives in many ways – on our smartphones ... how artificial agents can be made more transparent and trustworthy to their human users. Trustworthiness is essential if robots and people are to work together. XAI seeks to develop A.I. systems that human beings find trustworthy – while also performing ..."
     publishedDateTime: 2020-02-28T16:21:00Z

@@ -75,6 +75,21 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-02%252Fbe661900-58d2-11ea-a7be-f35353dadc7d%26client%3Da1acac3e1b3290917d92%26signature%3De8442a5ba6d800bf23f2af01238efff47f2da2a9&client=amp-blogside-v2&signature=0b578e5a72b9b247df1c85c755266db45c5d71ee"
         width: 600
         height: 350
+  - title: "Clearview AI facial recognition customers reportedly include DOJ, FBI, ICE, Macy's"
+    excerpt: "Retail companies as well as law enforcement agencies have used the service, says a report. Customers of controversial facial recognition app Clearview AI include not only law enforcement agencies like Immigration and Customs Enforcement and the Department of Justice,"
+    publishedDateTime: 2020-02-28T17:41:00Z
+    webUrl: "https://www.cnet.com/news/clearview-ai-facial-recognition-customers-reportedly-include-ice-justice-department-fbi-macys/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/clearview-ai-facial-recognition-customers-reportedly-include-ice-justice-department-fbi-macys/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/clearview-ai-facial-recognition-customers-reportedly-include-ice-justice-department-fbi-macys/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 98
+    images:
+      - url: "https://cnet4.cbsistatic.com/img/JsUigaPqhHEO0XUYO41ZqO-Z-vo=/756x567/2020/01/18/2bde6ea9-4f91-4473-a8fb-1418d9ac5c7d/facial-recognition-james-martin-promo-1.jpg"
+        width: 756
+        height: 567
   - title: "Canadian Privacy Commissioners to Investigate Creepy Facial Recognition Firm Clearview AI"
     excerpt: "Canadian authorities are investigating shady face recognition company Clearview AI on the grounds that its scraping of billions of photos from the web might violate privacy laws, Reuters reported on Friday. According to Reuters, privacy commissioners from the Canadian federal government and of the provinces of British Columbia, Alberta ..."
     publishedDateTime: 2020-02-21T23:37:00Z
@@ -135,6 +150,21 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/9BC3/production/_111057893_facialrecognition.gif"
         width: 1024
         height: 576
+  - title: "ProBeat: Clearview AI’s short slippery slope"
+    excerpt: "Facial recognition startup Clearview AI is best known for two things: its facial recognition algorithm that lets you upload a photo to compare with its database of potential matches and that the company created said database by scraping over 3 billion images from user profiles on Microsoft’s LinkedIn, Twitter, Venmo, Google’s YouTube ..."
+    publishedDateTime: 2020-02-28T18:30:00Z
+    webUrl: "https://venturebeat.com/2020/02/28/probeat-clearview-ais-short-slippery-slope/"
+    ampWebUrl: "https://venturebeat.com/2020/02/28/probeat-clearview-ais-short-slippery-slope/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/28/probeat-clearview-ais-short-slippery-slope/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/02/clearview-ai-logo.png?fit=1200%2C600&strip=all"
+        width: 1200
+        height: 600
   - title: "Facial Recognition Company Clearview AI Probed by Canada Privacy Agencies"
     excerpt: "Canadian privacy authorities have launched an investigation into New York-based Clearview AI to determine whether the firm's use of facial recognition technology complies with the country's privacy laws,"
     publishedDateTime: 2020-02-22T09:32:00Z
@@ -283,6 +313,21 @@ related:
       - url: "https://cdn.ttgtmedia.com/visuals/German/article/CCTV-facial-recognition-3-adobe.jpg"
         width: 1200
         height: 400
+  - title: "Hack Exposes Government Clients of Facial Recognition Firm"
+    excerpt: "(TNS) — New York State Police is among the law enforcement agencies who use an application created by controversial facial recognition company Clearview AI, a spokesperson confirmed to Syracuse.com. The troopers’ use of the technology was first ..."
+    publishedDateTime: 2020-02-28T18:48:00Z
+    webUrl: "https://www.govtech.com/biz/Hack-Exposes-Government-Clients-of-Facial-Recognition-Firm.html"
+    ampWebUrl: "https://www.govtech.com/biz/Hack-Exposes-Government-Clients-of-Facial-Recognition-Firm.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/biz/Hack-Exposes-Government-Clients-of-Facial-Recognition-Firm.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://media2.govtech.com/images/shutterstock_1658145967.jpg"
+        width: 987
+        height: 630
   - title: "Controversial Facial Recognition Company Clearview AI Has Been Hacked"
     excerpt: "The online security woes just keep on coming, as controversial facial recognition company Clearview AI has been the victim of a security breach. Earlier this year, Clearview AI drew criticism throughout the world for its reckless pursuit of facial recognition data. The company was scraping YouTube videos, Facebook profiles, and any other form ..."
     publishedDateTime: 2020-02-27T21:42:00Z
@@ -326,6 +371,21 @@ related:
       - url: "https://i.cbc.ca/1.5403918.1581719698!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/china-security.JPG"
         width: 620
         height: 349
+  - title: "Face recognition tech at centre of hack was used by Edmonton police but no data lost: EPS"
+    excerpt: "EDMONTON -- Controversial facial recognition technology that was hacked this week and is being investigated by several Canadian privacy commissioners was used by Edmonton police officers, the city force has revealed. Three special unit investigators signed up for Clearview AI in December 2019 and used it during an auto theft investigation the ..."
+    publishedDateTime: 2020-02-28T19:58:00Z
+    webUrl: "https://edmonton.ctvnews.ca/mobile/face-recognition-tech-at-centre-of-hack-was-used-by-edmonton-police-but-no-data-lost-eps-1.4832024"
+    ampWebUrl: "https://beta.ctvnews.ca/local/edmonton/2020/2/28/1_4832024.html"
+    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/edmonton/2020/2/28/1_4832024.html"
+    type: article
+    provider:
+      name: CTV News
+      domain: ctvnews.ca
+    quality: 50
+    images:
+      - url: "https://beta.ctvnews.ca/content/dam/ctvnews/images/2020/2/28/1_4832149.jpg?cache_timestamp=1582913146255"
+        width: 1020
+        height: 573
   - title: "RCMP used controversial Clearview AI facial recognition tool on 2 child exploitation cases"
     excerpt: "THE CANADIAN PRESS IMAGES/Lee Brown The RCMP confirmed Wednesday that the police force has been using the controversial facial recognition technology Clearview AI for roughly four months as part of online child sexual exploitation investigations and resulted in the rescue of two children. The Mounties said in a statement Clearview AI’s facial ..."
     publishedDateTime: 2020-02-27T22:40:00Z

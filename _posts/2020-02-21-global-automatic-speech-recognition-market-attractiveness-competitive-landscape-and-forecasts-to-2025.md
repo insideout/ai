@@ -41,6 +41,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Automotive Recognition System Market Share Industry Size Growth Forecast 2019-2024"
+    excerpt: "By Product: Hand/Leg/Finger Print Recognition, Face Recognition, Vision/Eye Recognition. By Application: Multimedia, Lightings, Others. The study clearly reveals that the \"Automotive Recognition System .\" industry has attained remarkable growth since 2019-2024. This research report is prepared based on an in-depth analysis of the market by experts."
+    publishedDateTime: 2020-02-25T16:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-recognition-system-market-share-industry-size-growth-forecast-2019-2024-2020-02-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Artificial Intelligence Market - By Supply Demand Scenario, Application, By Region, Pricing Analysis, Opportunities and Forecast 2026"
     excerpt: "Artificial Intelligence Market top players include Alphabet (Google Inc.), Apple Inc., Baidu, IBM Corporation, IPsoft, Microsoft Corporation, MicroStrategy, Inc, NVIDIA Qlik Technologies Inc, Verint Systems Inc (Next IT Corp) The artificial intelligence market in North America is set for rapid growth."
     publishedDateTime: 2020-02-27T06:16:00Z

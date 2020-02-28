@@ -2,34 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_posts/2020-02-20-artificial-intelligence-yields-new-antibiotic.md",
-      "title": "Artificial intelligence yields new antibiotic",
-      "excerpt": "\"We wanted to develop a platform that would allow us to harness the power of artificial intelligence to usher in a new age of antibiotic drug discovery,\" says James Collins, the Termeer Professor of Medical Engineering and Science in MIT's Institute for Medical Engineering and Science (IMES) and Department of Biological Engineering. \"Our ...",
-      "heat": 277,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://phys.org/news/2020-02-artificial-intelligence-yields-antibiotic.html",
-      "ampWebUrl": "https://phys.org/news/2020-02-artificial-intelligence-yields-antibiotic.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-02-artificial-intelligence-yields-antibiotic.amp",
-      "publishedDateTime": "2020-02-20T08:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-20-boston-dynamics-spot-isnt-quite-the-terrifying-robot-hunter-you-think-it-is.md",
       "title": "Boston Dynamics’ Spot isn’t quite the terrifying robot hunter you think it is",
       "excerpt": "Contrary to popular belief, Boston Dynamics’ robots are not powered by artificial intelligence; many of its mechanical commands, while extremely sophisticated by modern robotic standards, must be initiated and guided by human operators. This means that when the bot fails to do what you want it to, it often involves heavy troubleshooting and ...",
@@ -2029,7 +2001,7 @@
       "path": "_posts/2020-02-21-how-much-worth-natural-language-processing-market-will-generate-by-2026.md",
       "title": "How much Worth Natural Language Processing Market will Generate by 2026?",
       "excerpt": "Feb 21, 2020 (The Expresswire) -- Top Players in Natural Language Processing Market are 3M Company, Adobe Systems Inc., Amazon Web Services Inc., Apple Inc., Google (Alphabet Inc.), Hewlett-Packard Enterprise Company, Intel Corporation, International Business Machine (IBM) Corporation , Microsoft Corporation, SAS Institute Inc The overall ...",
-      "heat": 78,
+      "heat": 98,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.marketwatch.com/press-release/how-much-worth-natural-language-processing-market-will-generate-by-2026-2020-02-21",
@@ -2112,6 +2084,43 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-21-leaked-reports-show-eu-police-are-planning-a-pan-european-network-of-facial-recognition-databases.md",
+      "title": "Leaked Reports Show EU Police Are Planning a Pan-European Network of Facial Recognition Databases",
+      "excerpt": "the EU could soon be creating a network of national police facial recognition databases. A report drawn up by the national police forces of 10 EU member states, led by Austria, calls for the introduction of EU legislation to introduce and interconnect such databases in every member state. The report, which The Intercept obtained from a European ...",
+      "heat": 276,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://theintercept.com/2020/02/21/eu-facial-recognition-database/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-21T09:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Intercept",
+        "domain": "theintercept.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://theintercept.com/wp-uploads/sites/1/2020/02/YotamHadar_TheIntercept_EUv4-still-1582297909.jpg",
+          "width": 2000,
+          "height": 1000,
+          "title": "Leaked Reports Show EU Police Are Planning a Pan-European Network of Facial Recognition Databases",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
       ]
     }
   ],

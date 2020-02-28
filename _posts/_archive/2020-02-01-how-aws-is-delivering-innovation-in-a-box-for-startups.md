@@ -20,11 +20,11 @@ topics:
   - AWS AI
 
 images:
-  - url: "https://static-news.moneycontrol.com/static-mcnews/2018/02/Fraud_scam_-378x213.jpg"
+  - url: "https://static-news.moneycontrol.com/static-mcnews/2017/08/banking-378x213.jpg"
     width: 378
     height: 213
     title: "How AWS is delivering innovation in a box for startups"
 
-secured: "yB7NNk+ajEeWdPf/jkLA4ymN+MchB+T7vyvAAlHQ7gugmJSITz21ZcJ1Y/NekpYTQRSLILgyMwRjAryjPLC+CsM8q+sgmytOvj31ADNV0/dqMOvKscvegmnlkY/exNG4vD7BPpvKLxu9V4ay9GiKlm+LvZUHpjpbBh+Q3jAONoyWUItUa+48f5DS3XbFbhkRlnTfgIkojxnAltLYNgOlIX9EDlixn5Vu4poe/gQcI79Zl/UgCauo8y8INm997nbD3Gn8DY4/WkWfYwRRH3DMfD+tKhWmCU0PjU6sgkzVP1Kkk58r+cSFlb+WA/RRdVZe;gxslTVSCVAcRyzj0ZYza/Q=="
+secured: "4MKiZwHqtOAa8HF1OHKZOGmVjhoggF0Kg2ODfgyBSX+5CWnPRb3C15RBp9vsb5KVBAkKITgKwcLeknTcfUtzkIe9Dfd4dBCHksp2VNm7z8bz2wDJQedq6RBwvkx9CqH0Yea6iik+DX7xSJVWPnJCM0vq3j4G0DrewTbgAcQGuO726dAKCMk+E/J2W70TNP5pyxQLIzFoNbwC10Ao26aODzz1sL2nd2aEfjtvEhq8nvt/EkGmlYvR5vwcL3VmSZ8JUDWkpFjMduAXuqcwwzb99kTJcVw0ob3/JgObhQVerSIiE71eL2fcxv5Tmb0Cscye;K4zst3DZlQADnjfetLWyKg=="
 ---
 

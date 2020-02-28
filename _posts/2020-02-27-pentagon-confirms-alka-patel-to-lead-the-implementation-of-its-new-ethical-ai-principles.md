@@ -80,17 +80,6 @@ related:
       - url: "https://triblive.com/wp-content/uploads/2020/02/2377266_web1_2377266-5a2ee9d1ab2546ab8f055f25d1597576.jpg"
         width: 640
         height: 427
-  - title: "Pope to endorse principles on AI ethics"
-    excerpt: "The \"Rome Call for AI Ethics\" asserts that the technology should respect privacy, work reliably and without bias, consider \"the needs of all human beings\" and operate transparently - an area of ongoing research because AI systems' decisions are often inscrutable. The document reflects growing interest among companies and institutions to set ..."
-    publishedDateTime: 2020-02-28T08:31:00Z
-    webUrl: "https://www.news.com.au/world/breaking-news/pope-to-endorse-principles-on-ai-ethics/news-story/7cf7a7db1ceea502b569c984f3554651"
-    ampWebUrl: "https://amp.news.com.au/world/breaking-news/pope-to-endorse-principles-on-ai-ethics/news-story/7cf7a7db1ceea502b569c984f3554651"
-    cdnAmpWebUrl: "https://amp-news-com-au.cdn.ampproject.org/c/s/amp.news.com.au/world/breaking-news/pope-to-endorse-principles-on-ai-ethics/news-story/7cf7a7db1ceea502b569c984f3554651"
-    type: article
-    provider:
-      name: News.com.au
-      domain: news.com.au
-    quality: 54
 
 secured: "/Quz5R/JjoiKT/OTvj1XtUQDrMdFGCzHqenKeNYFp0GUUCW5jP2iHIk7vZbCKpsR60+zwQU3pDy5CNBVUrBAUUb5QeEu8Inhm1GrKakM/Du7R5ZWaLDFHnZAOYc4wstAfLzHKWoCFQb1nCTitZFmQxJ974AszrVPF9S/R5yC4DhN+tq9bTydq/LJI/34e+vojcSbSGcIcEZ0j125/L+5XfR5vM5LN8Enq5lBKfh+ecit8eHMspkLzLf5w5kbDieIJ3jV6YSt5zgONCKvyp9P4t9uTE33ijxGR3jOGWQJXSaBXPekoyZSb8xEDeLK/CwFTW8MjDePFK5ush9Dx/gqw0gkl/QFkjziyohLgCon/R1qjuw51kel3U8XnoCpIf1aoiW+yQ/tdhfwUG7shiIBs+EZRzFzFHy9Xg9WLd/YY+ipQEubnbPs88zXRIFafLhxWudlCFLouLeWOot45ZNakdJUPXGXcaA6bpiWCnGKVyc=;GLx7MjZY/BEzb3tbuquB5w=="
 ---

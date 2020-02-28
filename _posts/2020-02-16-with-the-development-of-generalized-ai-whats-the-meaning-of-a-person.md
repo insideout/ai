@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/02/16/with-the-development-of-generalize
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/16/with-the-development-of-generalized-ai-whats-the-meaning-of-a-person/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -27,17 +27,6 @@ images:
     width: 1024
     height: 654
     title: "With the development of generalized AI, what’s the meaning of a person?"
-
-related:
-  - title: "Individualized AI Tutor Based on Developmental Learning Networks"
-    excerpt: "Abstract: In recent years, in the field of education technology, artificial intelligence tutors have come to be expected to provide ... by extending a deep adaptive resonance theory (Deep ART) network, a neural network capable of incremental learning. Specifically, the learner status DLN is able to easily add new input channels about learner ..."
-    publishedDateTime: 2020-02-14T03:02:00Z
-    webUrl: "https://ieeexplore.ieee.org/document/8985177"
-    type: article
-    provider:
-      name: IEEE
-      domain: ieee.org
-    quality: 19
 
 secured: "+sRBcb86NCoBj0gZcsLxWvzD9TcIr66cAoqCbc4iZCbcyWerU69vzmX/g6IXZMtJrsnrWO1E5gnhtcKBN998EJuN40ugE+BvQJteqXjSC6jdElr/WQt5FtqT+n4mkmyC5mACzD/nE7rTZ8ags+FQlvQsWIL3qExVJDFLWxHKyewTBvc2gy9k2jredvRhDAwqW3ayT0IGyjjuWLHZOswhamhIpfQgwanMgUA887BHpEavhTPUgHbB6hTNbocePKJKYQi2IsSAXggG6sPnhYadcuiQ9FOkpIF0kqI5NdTzCBq8DMKtHJuyQXQCJcqMRRq2RXwENp/Ja23bkrhe6o6XS3lXTm6s57nnzADjj8T/QGHFZm8qg4zYYgDWLMw19Vz1A2ZjwmHQGict45MxMpTlQJRpBe6h+YdYsa0VxG5FXVXNzmoKHWGr8rbx8yHSJ1s5d/qcSlZ+np7It3hmm36TK6+vedR0bke8FQ7PLbfnyrE=;gxifUwcMHePlxwTRVxHtgA=="
 ---

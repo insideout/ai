@@ -1,23 +1,27 @@
 ---
 category: news
-title: "Don't fear a 'robot apocalypse' – tomorrow's digital jobs will be more satisfying and higher-paid"
-excerpt: "If you’re concerned that automation and artificial intelligence are going to disrupt the economy over the next decade, join the club. But while policymakers and academics agree there’ll be significant disruption, they differ about its impact. On one hand, techno-pessimists like Martin Ford in “Rise of the Robots” argue that new forms of ..."
-publishedDateTime: 2020-02-28T00:50:00Z
-webUrl: "https://www.houstonchronicle.com/news/article/Don-t-fear-a-robot-apocalypse-tomorrow-s-15088808.php"
-ampWebUrl: "https://www.houstonchronicle.com/news/amp/Don-t-fear-a-robot-apocalypse-tomorrow-s-15088808.php"
-cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Don-t-fear-a-robot-apocalypse-tomorrow-s-15088808.php"
+title: "Don’t fear a ‘robot apocalypse’ -- tomorrow’s digital jobs will be more satisfying and higher-paid"
+excerpt: "If you’re concerned that automation and artificial intelligence are going to disrupt the economy over the next decade, join the club. But while policymakers and academics agree there’ll be significant disruption, they differ about its impact. On one hand, techno-pessimists like Martin Ford in “Rise of the Robots” argue that new ..."
+publishedDateTime: 2020-02-28T18:45:00Z
+webUrl: "https://gcn.com/articles/2020/02/28/robot-proof-careers.aspx"
 type: article
-quality: 41
+quality: 40
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: houstonchronicle.com
+  name: GCN
+  domain: gcn.com
 
 topics:
   - AI
   - AI in Robotics
+
+images:
+  - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/AI_Automation/robotcallcenter.jpg"
+    width: 760
+    height: 368
+    title: "Don’t fear a ‘robot apocalypse’ -- tomorrow’s digital jobs will be more satisfying and higher-paid"
 
 related:
   - title: "Don't fear a 'robot apocalypse' – tomorrow's digital jobs will be more satisfying and higher-paid"
@@ -32,6 +36,6 @@ related:
       domain: phys.org
     quality: 41
 
-secured: "GyYzqeaFyzWmwjg4KvuG8NDskyfjxP6CBiC/F4hAh3j188uQde4UeGetU8/9N+DQg22RSTfKdHIQD3uCNNptKfj1a+8WbPhOT0AU0fvf1cYmELglxabJAxed0XJ+NXcnZZmg/FG2HEbd1jdxlLvrfOiJNAvcW6wsI9xqLRjXombyLndAWvHsW3hp4FoP9UnudEvTQgx4SncLzF0uHPlGBQlPAxIx2KIyQ05YEcUDMhc29lbcP8p6JhoZUDMKb4mFXCgvgm0Cg95kO3wTcfajgOwG1pGpOIwo349p8kU6WeNUZFtNtqYeSjVKsVQGOca0;l7MVSP4JI4CecnkAzFS/cg=="
+secured: "GnBULmEoC5MErq1RWPheiEmpC9CLh90McuuwzBL+0hBpCs91IZLarEVTbeia7uCid41O5D+8l8ZV7ygYxSnBgRPLND2S/gZDoj4N7+a5SRBehhb/7+2xkKdeNIgXyVYQYVzYcjlvGsiWgBObsgYtO+WF3Zoc0ccIMnrc4JrewP7rc/LaXfSCVwyJ55dh10POGG1a3UJpyc0eCTS4d53+/D8sQKxEiwJ0UUaQrPCF0OjzoLdIsvVdM5gNt7G08VnHaZyp7q55x937vPKRywrif2ly/fEy2KETQAtv+o3eOTTdl8mjZRy6Jjk5xfZxi/+yv5BpdSxwujSkmXDdcQXwlby1zJRAJ5AgPA1FWo8Mn4F5liFhRspvUJ5i74y7ZlSIfoq/jsmI7+vUnpLVrsBq7GPWy9cFxgd5B6oyCmsyKFSxbb8b7fPrAUlWU9zV5Kq3ELxi2cE9fm+wB0RAs9NkfNHNkItmFpvo9TI4xX1jpRs=;mNKdm77jMxKwQLWM60dHsQ=="
 ---
 

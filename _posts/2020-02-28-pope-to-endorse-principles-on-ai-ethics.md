@@ -20,75 +20,77 @@ topics:
   - AI Ethics
 
 related:
-  - title: "These Are the Pentagon’s New Ethics “Principles” for AI in Warfare"
-    excerpt: "On Monday, the Pentagon announced the official adoption of a series of new principles for ethical use of artificial intelligence in warfare, the Associated Press reports. The principles were formed out of a commission with the (darkly Newspeak-y) name the Defense Innovation Board, which released its recommendations (title: “AI Principles ..."
-    publishedDateTime: 2020-02-25T21:06:00Z
-    webUrl: "https://futurism.com/the-byte/pentagon-ai-ethics-dod-warfare"
-    ampWebUrl: "https://futurism.com/pentagon-ai-ethics-dod-warfare/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/pentagon-ai-ethics-dod-warfare/amp"
+  - title: "The Pope is getting on the AI bandwagon"
+    excerpt: "The tech giants signed the Vatican's “Rome Call for AI Ethics” pledge which asserts that technology should respect privacy, work reliably and do so without bias. It also says that AI technology should consider “the needs of all human beings” and operate transparently. The document reflects growing concerns among businesses and ..."
+    publishedDateTime: 2020-02-28T18:49:00Z
+    webUrl: "https://www.techradar.com/news/the-pope-is-getting-on-the-ai-bandwagon"
+    ampWebUrl: "https://www.techradar.com/amp/news/the-pope-is-getting-on-the-ai-bandwagon"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/the-pope-is-getting-on-the-ai-bandwagon"
     type: article
     provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 74
+      name: TechRadar
+      domain: techradar.com
+    quality: 89
     images:
-      - url: "https://wp-assets.futurism.com/2020/02/pentagon-new-ethics-principles-ai-warfare-600x315.jpg"
-        width: 600
-        height: 315
-  - title: "GovExec Daily: The Ethics of Artificial Intelligence at the Pentagon"
-    excerpt: "As artificial intelligence becomes more of a priority, the Pentagon announced last week that it will adopt ethics principles for AI use. As Defense officials said that AI is top priority, having an ethical framework is paramount. GovExec Daily spoke to Defense One's Patrick Tucker about the ways different governments use AI and why adopting a ..."
-    publishedDateTime: 2020-02-26T11:05:00Z
-    webUrl: "https://www.govexec.com/defense/2020/02/govexec-daily-ethics-artificial-intelligence-pentagon/163325/"
+      - url: "https://cdn.mos.cms.futurecdn.net/o32fPtrBni3aBQR3wyWqqE-1200-80.jpg"
+        width: 970
+        height: 545
+  - title: "AI-vengers Assemble! The Pope joins Microsoft and IBM in AI ethics calls"
+    excerpt: "have teamed-up with the tech firms to call for human-centred AI design. In a new document entitled the Rome Call For Ethics, the trio says any future AI technologies must have a respect for personal privacy, operate with transparency, be free of biases and consider human rights as a central tenet. The document also makes a specific reference to ..."
+    publishedDateTime: 2020-02-28T19:27:00Z
+    webUrl: "https://www.trustedreviews.com/news/ai-vengers-assemble-the-pope-joins-microsoft-and-ibm-in-ai-ethics-calls-3989723"
+    ampWebUrl: "https://www.trustedreviews.com/news/ai-vengers-assemble-the-pope-joins-microsoft-and-ibm-in-ai-ethics-calls-3989723/amp"
+    cdnAmpWebUrl: "https://www-trustedreviews-com.cdn.ampproject.org/c/s/www.trustedreviews.com/news/ai-vengers-assemble-the-pope-joins-microsoft-and-ibm-in-ai-ethics-calls-3989723/amp"
     type: article
     provider:
-      name: Government Executive
-      domain: govexec.com
-    quality: 69
+      name: Trusted Reviews
+      domain: trustedreviews.com
+    quality: 73
     images:
-      - url: "https://cdn.govexec.com/media/img/upload/2020/02/25/GE-Daily_1_Final_1/open-graph.jpg"
-        width: 400
-        height: 400
-  - title: "At least they’ll have an off switch: Pentagon adopts ‘AI Ethical Principles’ for its killer robots"
-    excerpt: "As the United States looks to develop artificial intelligence weapons to keep up with Russia and ... Also on rt.com Make no mistake: Military robots are not there to preserve human life, they are there to allow even more endless wars What exactly the ..."
-    publishedDateTime: 2020-02-24T23:22:00Z
-    webUrl: "https://www.rt.com/usa/481586-pentagon-ai-robots-ethics/"
-    ampWebUrl: "https://www.rt.com/usa/481586-pentagon-ai-robots-ethics/amp/"
-    cdnAmpWebUrl: "https://www-rt-com.cdn.ampproject.org/c/s/www.rt.com/usa/481586-pentagon-ai-robots-ethics/amp/"
+      - url: "https://ksassets.timeincuk.net/wp/uploads/sites/54/2020/02/kai-pilger-sl9PyLhei3A-unsplash-1024x768.jpg"
+        width: 1024
+        height: 768
+  - title: "Pope weighs in on AI ethics debate"
+    excerpt: "The Pontiff is the latest public figure to offer an opinion on the ethics of using artificial intelligence (AI), issuing a set of principles on the use of new technology. The Vatican has produced the Rome Call for AI Ethics, which calls for AI technology to respect privacy, work reliably and without bias, operate transparently and \"consider the ..."
+    publishedDateTime: 2020-02-28T12:40:00Z
+    webUrl: "https://www.finextra.com/newsarticle/35372/pope-weighs-in-on-ai-ethics-debate"
     type: article
     provider:
-      name: RT
-      domain: rt.com
-    quality: 60
-    images:
-      - url: "https://cdni.rt.com/files/2020.02/xxl/5e54392385f5404ca641795c.jpg"
-        width: 1240
-        height: 697
-  - title: "Pentagon adopts new ethical principles for using AI in war"
-    excerpt: "While the Pentagon acknowledged that AI “raises new ethical ambiguities and risks,” the new principles fall short of stronger restrictions favored by arms control advocates. “I worry that the principles are a bit of an ethics-washing project,” said Lucy Suchman, an anthropologist who studies the role of AI in warfare. “The word ..."
-    publishedDateTime: 2020-02-27T02:15:00Z
-    webUrl: "https://triblive.com/news/world/pentagon-adopts-new-ethical-principles-for-using-ai-in-war/"
-    type: article
-    provider:
-      name: TribLIVE.com
-      domain: triblive.com
+      name: Finextra
+      domain: finextra.com
     quality: 54
     images:
-      - url: "https://triblive.com/wp-content/uploads/2020/02/2377266_web1_2377266-5a2ee9d1ab2546ab8f055f25d1597576.jpg"
-        width: 640
-        height: 427
-  - title: "Pentagon Confirms Alka Patel to Lead the Implementation of Its New Ethical AI Principles"
-    excerpt: "For seven months prior to that, from July 2019 through to 2020, Patel worked as a research intern at the Montreal AI Ethics Institute. She also previously served as Commissioner of the Pennsylvania Governor’s Advisory Commission on Asian Pacific American Affairs and Executive Director of Carnegie Mellon University’s Risk & Regulatory ..."
-    publishedDateTime: 2020-02-27T20:32:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2020/02/pentagon-confirms-alka-patel-lead-implementation-its-new-ethical-ai-principles/163386/"
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/artificial-intelligence-connecting.jpeg"
+        width: 480
+        height: 270
+  - title: "IBM, Microsoft sign on with Pope Francis to fight AI bias and misuse of facial recognition"
+    excerpt: "Such principles were outlined in a document titled “Rome Call For AI Ethics,” and promotes a regulatory approach around what is being called an “algor-ethical” vision of design, with transparency, inclusion, responsibility, impartiality, reliability, security and privacy all factored in. “AI systems must be conceived, designed and ..."
+    publishedDateTime: 2020-02-28T18:21:00Z
+    webUrl: "https://www.usatoday.com/story/tech/2020/02/28/pope-francis-ibm-microsoft-join-forces-face-recognition-ai-ethics/4903273002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4903273002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4903273002"
     type: article
     provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 45
+      name: USA Today
+      domain: usatoday.com
+    quality: 49
     images:
-      - url: "https://cdn.nextgov.com/media/img/upload/2020/02/27/shutterstock_1475534549/open-graph.jpg"
-        width: 400
-        height: 400
+      - url: "https://www.gannett-cdn.com/presto/2020/02/12/USAT/fd8f60bb-906d-4b72-90d1-e498024ed98d-AP20043315882491.jpg?auto=webp&crop=1023,576,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+  - title: "Slap-happy Pope to bless AI policy"
+    excerpt: "The “Rome Call for AI Ethics” asserts that the technology should respect privacy, work reliably and without bias, consider “the needs of all human beings” and operate transparently - an area of ongoing research because AI systems’ decisions are often inscrutable. The Vatican’s initiative grew out of concerns that Pope Francis raised ..."
+    publishedDateTime: 2020-02-28T10:46:00Z
+    webUrl: "https://www.fudzilla.com/news/50394-slap-happy-pope-to-bless-ai-policy"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/16b7e86b904b9d36d88a00225ea21101_L.jpg"
+        width: 620
+        height: 464
 
 secured: "WLMoCfCNws6GTY5jnJgvqkUHVFJlwDsL/9NqoimTLXXhBS3AGIRQJGgmlg8VMSofBgOhQjdKjUuBsIABN/JFKd+t5wMMa5+dog+eG+ZVWBy5bY2lvO+p90nTD7+g9IjfkdyBfpYV7jzVMRQacw7Jh1TXjKFjWhr8J6hU+784AW3DTICm2o7l4oPxnX1it1zMQjrOks+y8ZJzf7kQh5nTYYQROU4KKsyCb0YpPHDLL/7L385LzLh6zVTLVvecKykvL3iAfzB5XoqnIUvJcJ8G3lGn/kANioqe3wEs2NYrQpb1XlWeVo4eE5j5sP7SOHbV;jkr5Cc5uSiiRAO2zB66MRA=="
 ---
