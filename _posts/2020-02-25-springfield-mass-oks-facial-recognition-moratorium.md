@@ -41,6 +41,15 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/01/GettyImages-1181457356.jpg?fit=2215%2C1353&strip=all"
         width: 2215
         height: 1353
+  - title: "Canada Privacy Watchdog Probes Facial Recognition Startup"
+    excerpt: "The images -- grabbed from popular social media platforms including Facebook, Instagram, Twitter and YouTube as well as millions of other websites -- are used in its facial recognition software. Clearview AI's founder Hoan Ton-That has said the technology has been made available to more than 600 law enforcement agencies in Canada and the United ..."
+    publishedDateTime: 2020-02-21T20:27:00Z
+    webUrl: "https://www.ibtimes.com/canada-privacy-watchdog-probes-facial-recognition-startup-2926715"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 19
 
 secured: "owbEGUSU7WY3ibPDNUWqZtQLiio1VNGglltzgtDSCyLYZgzkvs1g1WfxXypkl90nv9kucnHLyBIelVlC0vFe4DC2S/s6TIM2VZvVx9ly508Wc9OLKIRYEx5u1ggavKBgUi6LWTT+aoAjkfC/p91ENBFk55Ct/9eUQHhb2wi9VXBTU0yaht+8dnhcpmLDPYGDtA7ukfuXHPWSkU/f2xLXHyFnTFLfNU5FkfscrQBzTkmcDkLqmszrCPe9RnaZcQ223bglKF/VLR3FLVlLXdZA+o7LoxmO4FbR3e19LLR70wuBD+N29stLvyeOfDnaUoBawNUa7Gzb8C8/eObrgNcS5kVUILZIEg/4AFWAkd6koJxLIzdP7uxN4P46G7oIeMJQvx6DBtdWBSodpDUnLqS5tGk1Lkgbjryj3LSE9bW+n5ymVNcjgtdUrRJwVE4zhf8oOzMAVZiS8m3CZ5R+iHWw9PJZH3k7CYCgqSzMG6zTPVM=;IEwAQkBncigkR9zsXgZrvw=="
 ---

@@ -29,6 +29,6 @@ images:
     height: 800
     title: "Object Recognition Is The Answer, Here’s Why"
 
-secured: "2dgBXF7FV25z2IhS7g4gtnd2E1MyBXDmBZ3v85SHnTZkZGYzrhypNWL8ZdlgdfZRktgkyyQ3VbyfTwO4u8oVFcYV9CHeP8l4oRjP8Nx+StXD4zpr1occz3fxdCZkP+J2kmXp5mnQO5RLFUGKFVoueALOpm6RZ9p33+homqG6OmkK9TOiFuRqD/zodI/fXAj4UK4gdcseBIN8E9NyVDZkOUmxmLQW41VmJa9t23h+pf/0NZnTzk1yeJwGqKcvlFSi7Frw380dMZYLkeK6Iqc5oCymGjHgFaRSlbI7BMCcPqrHm4y1lXGb/xsiwHBxEY87;aB/yjtgqOSykOOaY5sPVcw=="
+secured: "cRi3t45AzCN6RWVld4pYSPUT0sPy7Sp54OWG9xejROEj2VHEMHvjZ1HUtU4dxPpjzE7O9yzVfrTPtUB+yINGrty6FtYHMK76GiSjnB1t6Zh3nQ7paMqR/8OCF5VsXnvPod3Z+lQCEaf+n9GG8kjUKHuWNcDx6+/NT7Wgy1dSOXpDPtfLLtoNRIOOXrkvDwPyIDRDsEOgtnqmzoJHmAlG5Ex7UNPscZsMmvtif7A7OLRVcuvVCg6herT/0lQBcPHdHNZVWJOko8cNUDC5c0Hrn0puMIxr6P+OR/oEyAlo3Bkk8/33VsayiysnEA4x29Cb;62WgiTL1v6vfkXlGTQJ3pQ=="
 ---
 

@@ -1,19 +1,21 @@
 ---
 category: news
-title: "Facial Recognition Company Clearview AI Probed by Canada Privacy Agencies"
-excerpt: "Canadian privacy authorities have launched an investigation into New York-based Clearview AI to determine whether the firm's use of facial recognition technology complies with the country's privacy laws,"
-publishedDateTime: 2020-02-22T09:32:00Z
-webUrl: "https://www.nytimes.com/reuters/2020/02/22/technology/22reuters-clearview-ai-canada.html"
+title: "We Found Clearview AI's Shady Face Recognition App"
+excerpt: "Reporters were able to download the most recent Android version of the app marketed to police by Clearview AI, a New York-based startup whose controversial scraping of an estimate 3 billion photographs from the likes of Facebook, Google, and YouTube have prompted legal threats from major tech companies and alarmed privacy hawks on Capitol Hill."
+publishedDateTime: 2020-02-28T03:53:00Z
+webUrl: "https://gizmodo.com/we-found-clearview-ais-shady-face-recognition-app-1841961772"
+ampWebUrl: "https://gizmodo.com/we-found-clearview-ais-shady-face-recognition-app-1841961772/amp"
+cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/we-found-clearview-ais-shady-face-recognition-app-1841961772/amp"
 type: article
-quality: 83
-heat: -1
-published: false
+quality: 104
+heat: 354
+published: true
 
 provider:
-  name: New York Times
-  domain: nytimes.com
+  name: Gizmodo
+  domain: gizmodo.com
   images:
-    - url: "/assets/images/organizations/nytimes.com-50x50.jpg"
+    - url: "/assets/images/organizations/gizmodo.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -22,27 +24,12 @@ topics:
   - Computer Vision
 
 images:
-  - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
-    width: 1200
-    height: 630
-    title: "Facial Recognition Company Clearview AI Probed by Canada Privacy Agencies"
+  - url: "https://i.kinja-img.com/gawker-media/image/upload/s--JQ99mafj--/c_scale,f_auto,fl_progressive,q_80,w_800/wsdk7maoovzoxtowgnhs.jpg"
+    width: 800
+    height: 450
+    title: "We Found Clearview AI's Shady Face Recognition App"
 
 related:
-  - title: "We Found Clearview AI's Shady Face Recognition App"
-    excerpt: "Reporters were able to download the most recent Android version of the app marketed to police by Clearview AI, a New York-based startup whose controversial scraping of an estimate 3 billion photographs from the likes of Facebook, Google, and YouTube have prompted legal threats from major tech companies and alarmed privacy hawks on Capitol Hill."
-    publishedDateTime: 2020-02-28T03:53:00Z
-    webUrl: "https://gizmodo.com/we-found-clearview-ais-shady-face-recognition-app-1841961772"
-    ampWebUrl: "https://gizmodo.com/we-found-clearview-ais-shady-face-recognition-app-1841961772/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/we-found-clearview-ais-shady-face-recognition-app-1841961772/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 104
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/s--JQ99mafj--/c_scale,f_auto,fl_progressive,q_80,w_800/wsdk7maoovzoxtowgnhs.jpg"
-        width: 800
-        height: 450
   - title: "Facial recognition company Clearview AI probed by Canada privacy agencies"
     excerpt: "Canadian privacy authorities have launched an investigation into New York-based Clearview AI to determine whether the firm’s use of facial recognition technology complies with the country’s privacy laws,"
     publishedDateTime: 2020-02-21T18:32:00Z
@@ -148,6 +135,19 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/9BC3/production/_111057893_facialrecognition.gif"
         width: 1024
         height: 576
+  - title: "Facial Recognition Company Clearview AI Probed by Canada Privacy Agencies"
+    excerpt: "Canadian privacy authorities have launched an investigation into New York-based Clearview AI to determine whether the firm's use of facial recognition technology complies with the country's privacy laws,"
+    publishedDateTime: 2020-02-22T09:32:00Z
+    webUrl: "https://www.nytimes.com/reuters/2020/02/22/technology/22reuters-clearview-ai-canada.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 83
+    images:
+      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
+        width: 1200
+        height: 630
   - title: "Clearview AI, the facial-recognition company stealing Facebook photos, gets hacked"
     excerpt: "Clearview AI, the creepy facial-recognition company that scrapes your photos from social media, has been hacked. According to a report by The Daily Beast, hackers accessed data including \"its entire list of customers, the number of searches those customers have made and how many accounts each customer had set up.\" Yes, a company primarily ..."
     publishedDateTime: 2020-02-26T18:41:00Z
@@ -386,6 +386,6 @@ related:
         width: 681
         height: 333
 
-secured: "PHoZKj/7pEBhdgNfzjby73nmjytzy653in1ujJO/V32LFBp55bT0c7plkfnvvTpW4hK53RuaozSAoMa5Q6/4P+U4IOsVQL2mtBW/OkpXYjkQjN2pH/9uPyE2kwcxjh4ZxCBoQ7kmyDoJX6WM7gVezW7EXEiFjRohY9s8LrhQ4IR5xkM8xRymyIDu8GYbIv2oN8KV6pwgf23CyP8hN5MKoAiZHnI6+PiPvOD12yyWwPFpsmMppiP+3J7ydCMZvptFWcgXVoCnbV9dqAzk39R0ZuPuESEPnfbuN3bsYR++OTODTHZ9h3kSVK46pSEiRe7X;NqIMTBTj/UJZ5pP3rQfD/g=="
+secured: "lO9iZWNdCKNC2B5f/+Dqn9yrIl11n25INEKdj5+SauKi/bXJ6uB8lY2+8AD7B0Yhjcj9LrzYwVFOh0gaX/BP6mlv05L/vTqTocLcOj36QMs4Gm1w5kT64g60jZP9MrYHqdpGKm/LvVrutxf4Q8lRVMAnbvYnZTG+d+ab3up5qF7ABi91ti2VmcpzVkEnKZXJFVAG/80AH7r772rgbzOFSbVQupr6kJpzD1WKwsyCkpU+oYMPMjYfpyCON1bc3V2ksvd0JAHNT9+PmwFz2TuYDsmvNaotAqcGVin18iiJqTdlv9zAFlTN2BLk3Dl33W64;HC1jk0uMB0ddMRlq/hWuAg=="
 ---
 

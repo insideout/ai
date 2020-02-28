@@ -59,21 +59,6 @@ related:
       - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2016/12/police-lights-sirens-796x398.png"
         width: 796
         height: 398
-  - title: "Clearview AI: Face-collecting company database hacked"
-    excerpt: "Clearview AI, a start-up with a database of more than three billion photographs from Facebook, YouTube and Twitter, has been hacked. The attack allowed hackers to gain access to its client list but it said its servers had not been breached. Most of its clients are US law enforcement agencies who use its facial-recognition software to identify ..."
-    publishedDateTime: 2020-02-27T11:21:00Z
-    webUrl: "https://www.bbc.com/news/technology-51658111"
-    ampWebUrl: "https://www.bbc.com/news/amp/technology-51658111"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51658111"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 87
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/9BC3/production/_111057893_facialrecognition.gif"
-        width: 1024
-        height: 576
   - title: "'Intruder' steals Clearview AI's entire client list"
     excerpt: "A hot potato: As if facial recognition startup Clearview Ai did not have enough problems, it seems the company cannot sufficiently secure its data. It recently sent out a notice to customers, which are primarily law enforcement agencies, saying that its entire client list was stolen. According to the memo obtained by The Daily Beast ..."
     publishedDateTime: 2020-02-27T00:38:00Z
@@ -89,21 +74,34 @@ related:
       - url: "https://static.techspot.com/images2/news/ts3_thumbs/2019/02/2019-02-08-ts3_thumbs-29e.jpg"
         width: 800
         height: 560
-  - title: "Clearview AI’s client list includes 2,200 organizations spanning law enforcement to universities"
-    excerpt: "US Immigration and Customs Enforcement, the Department of Justice, the FBI, Macy’s, and Best Buy are among the thousands of government agencies and private companies using the software of facial recognition company Clearview AI, according to a leaked client list obtained exclusively by BuzzFeed News. Police departments on college campuses ..."
-    publishedDateTime: 2020-02-27T22:52:00Z
-    webUrl: "https://www.theverge.com/2020/2/27/21156678/clearview-ai-client-macy-fbi-doj-twitter-facebook-youtube"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2020/2/27/21156678/clearview-ai-client-macy-fbi-doj-twitter-facebook-youtube"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/27/21156678/clearview-ai-client-macy-fbi-doj-twitter-facebook-youtube"
+  - title: "Facial recognition app used by more than 600 law enforcement agencies suffers significant data breach"
+    excerpt: "A new facial recognition company, which claims to be used by over 600 law enforcement agencies, has suffered a data breach, according to the company. Clearview AI confirmed with Fox News that its entire client list was stolen in the breach. According to the company, someone gained access to a list of all of Clearview’s customers, the number ..."
+    publishedDateTime: 2020-02-26T18:05:00Z
+    webUrl: "https://www.foxnews.com/us/facial-recognition-app-used-by-more-than-600-law-enforcement-agencies-suffers-significant-data-breach"
+    ampWebUrl: "https://www.foxnews.com/us/facial-recognition-app-used-by-more-than-600-law-enforcement-agencies-suffers-significant-data-breach.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/facial-recognition-app-used-by-more-than-600-law-enforcement-agencies-suffers-significant-data-breach.amp"
     type: article
     provider:
-      name: The Verge
-      domain: theverge.com
+      name: Fox News
+      domain: foxnews.com
     quality: 74
     images:
-      - url: "https://cdn.vox-cdn.com/thumbor/79RnC38ugAnDzyuWTKdtDr-O2xw=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66392277/jbareham_170417_1617_0001.0.jpg"
-        width: 1400
-        height: 933
+      - url: "https://media.foxbusiness.com/BrightCove/854081161001/202002/1214/854081161001_6132703327001_6132714474001-vs.jpg"
+        width: 1280
+        height: 720
+  - title: "Facial recognition company says entire client list was stolen"
+    excerpt: "Facial recognition firm Clearview A.I. has confirmed to NBC News that their entire client list has been stolen.Feb. 28, 2020 © 2020 NBC UNIVERSAL"
+    publishedDateTime: 2020-02-28T01:28:00Z
+    webUrl: "https://www.nbcnews.com/now/video/facial-recognition-company-says-entire-client-list-was-stolen-79580229780"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 69
+    images:
+      - url: "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202002/ott_now_facial_200227_1920x1080.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
   - title: "Clearview AI’s client list was stolen. Could its massive face database be next?"
     excerpt: "The controversial artificial intelligence company Clearview AI has experienced a breach that saw the theft of its entire customer list, which is made up of various law enforcement agencies. An intruder was able to gain “unauthorized access” to Clearview’s full customer list, the Daily Beast first reported on Wednesday. Clearview AI says ..."
     publishedDateTime: 2020-02-26T19:56:00Z
@@ -145,6 +143,21 @@ related:
       - url: "https://www.dailydot.com/wp-content/uploads/2020/02/Clearview-AI-Client-List-Stolen-Facial-Recognition-1024x512.jpg"
         width: 1024
         height: 512
+  - title: "Clearview AI, the controversial facial-recognition company partnering with police, says its entire customer list was stolen in a breach"
+    excerpt: "Clearview markets its services to law-enforcement agencies and has previously avoided disclosing the identities of its clients."
+    publishedDateTime: 2020-02-26T18:41:00Z
+    webUrl: "https://www.businessinsider.com/clearview-ai-list-customers-stolen-breach-2020-2"
+    ampWebUrl: "https://www.businessinsider.com/clearview-ai-list-customers-stolen-breach-2020-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/clearview-ai-list-customers-stolen-breach-2020-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 57
+    images:
+      - url: "https://i.insider.com/5d8764c92e22af0119409b92?width=1200&format=jpeg"
+        width: 1200
+        height: 600
   - title: "Facial recognition software company reveals it was security breach exposing its entire client list"
     excerpt: "Facial recognition software provider Clearview AI has revealed that its entire client list was stolen by someone who ‘gained unauthorized access’ to company documents and data. According to a notice sent to its customers, Cleaview AI said that in addition to its client list, the intruder had gained access to the number of user accounts ..."
     publishedDateTime: 2020-02-26T17:54:00Z
@@ -182,17 +195,6 @@ related:
       - url: "https://s3.us-east-1.wasabisys.com/krdo.com/2020/02/hypatia-h_7bcd07f11e499aa0084d01d1bfac11d3-h_020a8d6767b16343cdb62a8c8289dbbe_preview.jpg"
         width: 499
         height: 281
-  - title: "'Dystopian future': Entire client list stolen from facial-recognition startup Clearview AI"
-    excerpt: "Clearview AI, a facial-recognition startup that has faced scrutiny from privacy advocates, notified customers on Wednesday that an intruder “gained unauthorized access” to its list of customers and private data associated with the number of accounts set up by users and searches within the Clearview database. The company told users the ..."
-    publishedDateTime: 2020-02-26T20:17:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/dystopian-future-entire-client-list-stolen-from-facial-recognition-startup-clearview-ai"
-    ampWebUrl: "https://www.washingtonexaminer.com/news/dystopian-future-entire-client-list-stolen-from-facial-recognition-startup-clearview-ai?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/dystopian-future-entire-client-list-stolen-from-facial-recognition-startup-clearview-ai?_amp=true"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 29
   - title: "Facial-Recognition Company That Works With Law Enforcement Says Entire Client List Was Stolen"
     excerpt: "Political Reporter A facial-recognition company that contracts with powerful law-enforcement agencies just reported that an intruder stole its entire client list, according to a notification the company sent to its customers. In the notification, which The Daily Beast reviewed, the startup Clearview AI disclosed to its customers that an ..."
     publishedDateTime: 2020-02-26T14:59:00Z

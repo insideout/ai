@@ -27,6 +27,6 @@ images:
     height: 300
     title: "Six Data Points You Should Know about Federated Machine Learning"
 
-secured: "OZVQTpTSeVYiPsxtZXBvyeEPrJhUHbTHtKNqHbmJQSVld/hCA9zzddw4CheXEO0v+SYSvTLvHLIuE2f2oTctkgWU2oLgBRDG9xpkJBQo5oPHrnkBVGM/Gypc1EbkOfGdf9rMA9fztfRpha6fZBpqidwbYJGWZUf230RCVaW6gpWku3xXiEnB/V6JN3Kezx6+fqY3ZlE1SC7y8pSMFdV2RZgpzzFfnmvLl9HAcOj26KdmZE46/CM/TFGmYXD0J5iO4s7IBolMIo+N6bPcHrql3Q2tBGAJDvdOc1+i+2RG4zx+uw3iGqsO//mtx9SjTTYL;RMV7nAbjEptjpLua9o183w=="
+secured: "d4TXXgJ+07IMJ2Edeva50HNh5YXKzCZBfC+UD7jeHSp9mGeNDw+kTck1gibXYpPm+/uHe6rYRHRAgro7aAcdl0wUvTux0rsFt+36Zee5uoflesZtwGPMHYAAoBdBsWqBEtcMFFSngGAJEzKiVtWvy+gh2voLvkFj3wO0IIjB0BE4vHbPFV4uCQHXY8sg7Aa5A+fOOTzz0VbF+UwmduAgosxQAzexp16l39Tk7QvinuDOp7TdPdwZRzIQoo8WiOrYmun707oXA9aaEB+ePmiS+lit3Ygk9Qi0kGGNio72looVtoiCpgGzLvB8U+N9mKM/;V/CVjD68+0PQJD0TpH/dBg=="
 ---
 

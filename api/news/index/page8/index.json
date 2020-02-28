@@ -2,88 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_posts/2020-02-26-reuters-launches-ai-powered-video-transcription-feature-for-connect-customers.md",
-      "title": "Reuters launches AI-powered video transcription feature for Connect customers",
-      "excerpt": "Customers on Reuters Connect, the award-winning digital content platform, will now have access to automated transcripts from across 11 languages. The system employs AI technology to auto-transcribe English ... services to automate the process of video transcription and translation, we’re now delivering faster and easier access to more ...",
-      "heat": 106,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://uk.reuters.com/article/rpb-connectaivideo/reuters-launches-ai-powered-video-transcription-feature-for-connect-customers-idUKKCN20K254",
-      "ampWebUrl": "https://uk.mobile.reuters.com/article/amp/idUKKCN20K254",
-      "cdnAmpWebUrl": "https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKKCN20K254",
-      "publishedDateTime": "2020-02-25T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Reuters launches AI-powered video transcription feature for Connect customers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-26-robotic-piece-picking-gets-more-flexible-with-ai-enabled-adaptive-tooling.md",
-      "title": "Robotic piece picking gets more flexible with AI-enabled adaptive tooling",
-      "excerpt": "Allston, Mass.-based XYZ’s piece picking system uses machine vision, but it does not rely exclusively on artificial intelligence models. A combination of mechanical and machine learning approaches is necessary, said Peter Yu, chief technology officer at the startup. “With both [approaches] and our tool changer, a robot can pick nearly ...",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.therobotreport.com/robotic-piece-picking-more-flexible-ai-enabled-adaptive-tooling/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-26T05:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2020/02/tool-changer-swaping_3MB-1024x705.jpg",
-          "width": 1024,
-          "height": 705,
-          "title": "Robotic piece picking gets more flexible with AI-enabled adaptive tooling",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_posts/2020-02-26-simplifying-conversational-ai-one-interaction-at-a-time.md",
       "title": "Simplifying Conversational AI, One Interaction At A Time",
       "excerpt": "What if we could speak with our devices, cars, and homes just as easily as we do with our friends? Conversation is the bedrock of human communication, a transformative tool that reveals what’s inside our heads and hearts.",
@@ -723,51 +641,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-27-data-breach-at-controversial-face-recognition-firm-shows-company-cant-be-trusted-officials-say.md",
-      "title": "Data Breach at Controversial Face Recognition Firm Shows Company Can't Be Trusted, Officials Say",
-      "excerpt": "A security breach at a face-recognition startup, already embattled over its unfettered collection of Americans’ personal data on behalf of its hundreds of law enforcement clients, further underscores the potential hazards faced by consumers at the hands of a controversial and largely-unregulated surveillance technology, federal officials said ...",
-      "heat": 116,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://gizmodo.com/data-breach-at-controversial-face-recognition-firm-show-1841938311",
-      "ampWebUrl": "https://gizmodo.com/data-breach-at-controversial-face-recognition-firm-show-1841938311/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/data-breach-at-controversial-face-recognition-firm-show-1841938311/amp",
-      "publishedDateTime": "2020-02-27T00:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/s--WWpD68bj--/c_scale,f_auto,fl_progressive,q_80,w_800/uuy0qsq0x4gxglqws210.jpg",
-          "width": 800,
-          "height": 450,
-          "title": "Data Breach at Controversial Face Recognition Firm Shows Company Can't Be Trusted, Officials Say",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     },
     {
@@ -1634,6 +1507,50 @@
       ]
     },
     {
+      "path": "_posts/2020-02-28-cant-define-ai-try-defining-intelligence.md",
+      "title": "Can't Define AI? Try Defining Intelligence",
+      "excerpt": "Turns out that the answer to the question of AI’s definition is complicated by one fact: we don’t have a precise definition of intelligence itself.",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/27/cant-define-ai-try-defining-intelligence/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/27/cant-define-ai-try-defining-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/02/27/cant-define-ai-try-defining-intelligence/amp/",
+      "publishedDateTime": "2020-02-27T19:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x533/https://specials-images.forbesimg.com/imageserve/5e5887fb765d4500072d6194/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 533,
+          "title": "Can't Define AI? Try Defining Intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_posts/2020-02-28-how-data-artificial-intelligence-coronavirus-intersect.md",
       "title": "How Data, Artificial Intelligence, Coronavirus Intersect",
       "excerpt": "First on Cheddar: iMerit Raises $20 Million in Series B Funding For A.I. Initiatives",
@@ -1673,7 +1590,7 @@
       "path": "_posts/2020-02-28-ice-warrantless-facial-recognition-searches-trigger-maryland-bill.md",
       "title": "ICE warrantless facial recognition searches trigger Maryland bill",
       "excerpt": "Cortez spoke today in the Maryland General Assembly in favor of a bill that requires ICE obtain a warrant from a judge before the agency can use facial recognition to search the Maryland Image Repository System or MRS. Maryland began to issue driver’s licenses to immigrants in 2013. On Wednesday, the Washington Post reported that ICE searched ...",
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "type": "article",
       "webUrl": "https://venturebeat.com/2020/02/27/ice-warrantless-facial-recognition-searches-trigger-maryland-bill/",
@@ -1757,6 +1674,96 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-28-samsung-galaxy-note10-update-improves-face-recognition-and-full-screen-gestures.md",
+      "title": "Samsung Galaxy Note10 update improves face recognition and full-screen gestures",
+      "excerpt": "The company is rolling out a new software update for the Galaxy Note10 series carrying the version number N97xFXXU2BTB5 that improves face recognition and full-screen navigation gestures on it. Despite improving full-screen navigation gestures though ...",
+      "heat": 95,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.neowin.net/news/samsung-galaxy-note10-update-improves-face-recognition-and-full-screen-gestures",
+      "ampWebUrl": "https://www.neowin.net/amp/samsung-galaxy-note10-update-improves-face-recognition-and-full-screen-gestures/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/samsung-galaxy-note10-update-improves-face-recognition-and-full-screen-gestures/",
+      "publishedDateTime": "2020-02-27T19:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2019/08/1565208998_samsung-galaxy-note10-2_story.jpg",
+          "width": 760,
+          "height": 537,
+          "title": "Samsung Galaxy Note10 update improves face recognition and full-screen gestures",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-28-we-found-clearview-ais-shady-face-recognition-app.md",
+      "title": "We Found Clearview AI's Shady Face Recognition App",
+      "excerpt": "Reporters were able to download the most recent Android version of the app marketed to police by Clearview AI, a New York-based startup whose controversial scraping of an estimate 3 billion photographs from the likes of Facebook, Google, and YouTube have prompted legal threats from major tech companies and alarmed privacy hawks on Capitol Hill.",
+      "heat": 354,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://gizmodo.com/we-found-clearview-ais-shady-face-recognition-app-1841961772",
+      "ampWebUrl": "https://gizmodo.com/we-found-clearview-ais-shady-face-recognition-app-1841961772/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/we-found-clearview-ais-shady-face-recognition-app-1841961772/amp",
+      "publishedDateTime": "2020-02-27T19:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/s--JQ99mafj--/c_scale,f_auto,fl_progressive,q_80,w_800/wsdk7maoovzoxtowgnhs.jpg",
+          "width": 800,
+          "height": 450,
+          "title": "We Found Clearview AI's Shady Face Recognition App",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
       ]
     },
     {

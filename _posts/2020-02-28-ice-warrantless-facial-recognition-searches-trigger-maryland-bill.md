@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/02/27/ice-warrantless-facial-recognitio
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/27/ice-warrantless-facial-recognition-searches-trigger-maryland-bill/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
       - url: "https://media2.govtech.com/images/shutterstock_1168761391.jpg"
         width: 940
         height: 627
+  - title: "Canada Privacy Watchdog Probes Facial Recognition Startup"
+    excerpt: "The images -- grabbed from popular social media platforms including Facebook, Instagram, Twitter and YouTube as well as millions of other websites -- are used in its facial recognition software. Clearview AI's founder Hoan Ton-That has said the technology has been made available to more than 600 law enforcement agencies in Canada and the United ..."
+    publishedDateTime: 2020-02-21T20:27:00Z
+    webUrl: "https://www.ibtimes.com/canada-privacy-watchdog-probes-facial-recognition-startup-2926715"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 19
 
 secured: "KhhbRDOII2zi7JH7IhxGXyhSi9WwvvfiqdbFWK8WUb6jJScr7v9AKHSn0PaZfgtaWrKy93dUJGHGkKl60JBZIj56KtrEwkXuaPmdc1G+/MzSZlpMq/FI+iVyAJjHwYrcFGYiPrh3iXqeDzz6viOO1x39lyYLIenmShYiwuWk2nsk499ao0eeeAD1o47uOnsezKS3Cw5eUjE8XXEQZuYSh55MfrnHCwF9IV9kfOJ0B2nDLv8NFzeBewpmNG9EVfxYOK8fRSD6vU87QoH22g0qoMmx3w9/X8WgYpQRxXqbXeLd2UdMN7NMc7eY5YBn2Sw1nJudt15Zt4XyBCoGlXPP/MZRcs4TT8uVMhd98OQEhABW4FvHlw5lnSbyO6VVlh4A/6Hmv340UNYJsbu7cW1xy67KErS5HIGP9c2UVu5ng7vz0N3c/uNtfmtjxQNYGiw8AhznTKMQZ19P1z4QbhkW4P5tvi9MueldEdbYX7sx36k=;Mbs/gyFn0WbCGUf8+VUEMg=="
 ---

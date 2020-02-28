@@ -27,6 +27,6 @@ images:
     height: 315
     title: "IBM Watson And The Value Of Open"
 
-secured: "AKTGn/eS6dobzhCxKZUuKmAtLP3/aUdCpM57acXNZB380t+JxFzRDvNKMgFqfpmxop2hwLqohYOy57TzjoZX5BXTS7ymmOz5AYqcL3F0CkVron0hpFx4bH+Sv0owFgphondCGWFlxDWCMxJsViXA/kI0tbhT5v2BMaOR0+S8rzG1eYBM8B+CA23ZqnxJSgqTavpa/LgOlqrUlnU78+KLqznOI8x86PoWWEXZbps2xOWgSuSAgls+7DVlk5058Pe6EpXiMHasMQT5jgtpZzalErHJOsHUVOvGBSfcOVaxXQz3kSoJxrSm+znfz4C8E1go;gAs0NtmslmCdBid1E4XVqQ=="
+secured: "4xiSOixLTR6v9Y9IthOldQ1eRLewrxRnwk2jmzdUsWuVl0ca/UKBOZX6Jm2SbTi+AqAbzljjIqFPVPcQ4lT+5bwssUW0UV5Tbmp38gXi4PFbWIuO/0fyR0dqkWki1netvlEBi1PjI3/2IieRIsj33lQKCLT/E4IW9OduYxRIPqytmQwmT2kmQKZ1We9FnCCdZ/MxmzlOBU72hdfhWWjkl6mssCpcaPwLFAb0lcI44PV2wsbmBoyA7Ew12idjW+2PT5leOgvHCrI0kTIhh/d2jnwbcC6vzLIjm7s1zSiZR9FbjA/kb34a4FThYQobwXe3;X3b0wpdWrUz5Ii1W4gDMUw=="
 ---
 

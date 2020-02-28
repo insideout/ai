@@ -37,19 +37,6 @@ related:
       - url: "https://news.elearninginside.com/wp-content/uploads/2019/07/vmisx2-n.jpg"
         width: 1280
         height: 853
-  - title: "ROYBI Acquires KidSense.AI, The Leading Speech Recognition AI Platform"
-    excerpt: "ROYBI INC, the creator of the Roybi Robot-the world's first AI-powered smart toy that teaches languages and basic STEM skills-has acquired KidSense.AI, the revolutionary technology in children's embedded automatic speech recognition (ASR) and Edge-AI. KidSense.AI, which initially debuted in 2018 at TechCrunch Disrupt, utilizes the fundametals ..."
-    publishedDateTime: 2020-02-25T17:29:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-roybi-acquires-kidsenseai-leading-speech-recognition-ai-platform-/2020/02/25/9103933.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 54
-    images:
-      - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
-        width: 252
-        height: 335
   - title: "Speech recognition AI platform acquired"
     excerpt: "Roybi Inc, the creator of the Roybi Robot—the world’s first AI-powered smart toy that teaches languages and basic STEM skills—has acquired KidSense.AI, the revolutionary technology in children’s embedded automatic speech recognition (ASR) and Edge-AI. KidSense.AI, which initially debuted in 2018 at TechCrunch Disrupt, utilizes the ..."
     publishedDateTime: 2020-02-27T05:38:00Z
@@ -63,6 +50,15 @@ related:
       - url: "https://districtadministration.com/wp-content/themes/riskandinsurance/img/icons/icon-newsletter.png"
         width: 300
         height: 205
+  - title: "ROYBI Acquires KidSense.AI, The Leading Speech Recognition AI Platform"
+    excerpt: "ROYBI INC, the creator of the Roybi Robot —the world's first AI-powered smart toy that teaches languages and basic STEM skills—has acquired KidSense.AI, the revolutionary technology in children’s embedded automatic speech recognition (ASR) and Edge-AI. KidSense.AI, which initially debuted in 2018 at TechCrunch Disrupt, utilizes the ..."
+    publishedDateTime: 2020-02-25T17:08:00Z
+    webUrl: "https://www.oaoa.com/news/business/article_b81d0415-5476-5f83-94df-9c469bfea642.html"
+    type: article
+    provider:
+      name: Odessa American
+      domain: oaoa.com
+    quality: 34
 
 secured: "OAvoAb255ATAfQuSATEG/k+A8JtPqW4uySJjyIKFDMo8p9lf75vwI9YA3gpflsorX+qVXw07odANPpPXCPPQFQhCrepV0/XqiLJYhUZBpx/3rDeJZyKZQ8kD4X396rF8f09XIryTbBXkCwUBQpqqVKE78qrDnSvHB2tGZnZ5K7UQQXp1UHqdbZ0b9vXjC7PQlQYCH7iS7ynY+SFLa0aqHwrdwAap4lNaAbHgI2C1xGOd62ko6HdbDrES2SCFgfVFK5yVBUjxXOIn25WUr4xhybqAFHwKjOM9KBEGG13H6b3O5ZvFvOm+p9JJxcj8EmS0;GUD+aoAxphy7vwMmxIZwcQ=="
 ---
