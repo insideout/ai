@@ -1,12 +1,12 @@
 ---
 category: news
 title: "AWS CEO Andy Jassy On Channel Conflict, Competition And AI"
-excerpt: "“Would (AWS) work better as an ecosystem outside of Amazon ... AI And Machine Learning Jassy also spoke about his vision for the future of artificial intelligence (AI) and the industry’s need for more AI and machine learning (ML) experts. “Today, there just aren't that many machine learning and AI expert practitioners out there ..."
-publishedDateTime: 2020-02-13T23:39:00Z
+excerpt: "Civil liberties advocates and others have criticized law enforcement’s use of Amazon Rekognition, Amazon facial-recognition tool, but Jassy said technology shouldn’t be outright banned."
+publishedDateTime: 2020-02-13T23:33:00Z
 webUrl: "https://www.crn.com/news/cloud/aws-ceo-andy-jassy-on-channel-conflict-competition-and-ai"
 type: article
-quality: 58
-heat: 58
+quality: 54
+heat: 54
 published: false
 
 provider:
@@ -16,8 +16,6 @@ provider:
 topics:
   - AI
   - AWS AI
-  - Natural Language Processing
-  - AI Hardware
 
 images:
   - url: "https://www.crn.com/resources/025a-0eb1c0b4df3e-181d6b918b6d-1000/jassy-andy-aws-cover.jpg"
@@ -25,6 +23,6 @@ images:
     height: 457
     title: "AWS CEO Andy Jassy On Channel Conflict, Competition And AI"
 
-secured: "fyCs75TZhVpWElLnQt9Man78UAcaYLOPocgk1czOw91nbzCwX+jWxiGwL+cDG5kJgekp05K7XJ2Lu/qE0sXSQFNZxSo6Rm2J4zFjIvcgD6bu6z+/hQetutrBWsgmmHQQqsu2N3CeaqO9URuHacvlbBsB9ROcEWqEx5ejbWU1IQHc4t+uSFq60VGNg1wULYsje4AHK8tJnNGDjDoxDzdxUlU3P0OmeY2waQh9JpbJQunaOcBzzqWpkxtwaETuMz8PYQxLaARKRlxQLpmiZPJa+bWtvdAVLUdlWZ4HDZqLdN22CX5bYwoh5OWGHAD3yDWITZ2YMOCWuxxMbymaHgXLGtTODNb7OFF+uLifv0dWzZRrKzyWZDF5YtChPlo0EQwhW6lGsL/3/Rp76dYE/qey3cWyUd5yuiHpSHtWjFeK42bPujgam9GeZR6+2N4wWnJGRyvj8OiXpg9nmSJk3RQMzZrMHaVz9f2KrerYHTDfFfI=;8c8KjErAvnr1ROkDv2+xUg=="
+secured: "fbJVz6uGPXmC080WB1F5oPZr5KRFpozJ8dxsZSrLmOk4WQUyKkj0n57CR1qs2AE2eTjOQ6aupbPLX26nHiS9MH5Rr3yeiU65/ec1LrydhGB7qfk2XB1yR6Z1jSnvLj/+Gz7aNfYVAVviMwpUOjZdUhgbQz3whQYg2g2xrK61uqaizSRz2AI9QyhRM+Q4rnMW/XLZRgfM7zyQ33UrxxPHOom9PZara+69YirIc0M/UIyD8tt2bMeJiVHpB3YcRC4S4JY5OQKtnUCpRptZa+k9xBOQLip1sqpKqMPsxOalXicQhc9bIns/u4ZZzCTKEE1+;M8tmuH2SmF3UG5wFfhVbvQ=="
 ---
 

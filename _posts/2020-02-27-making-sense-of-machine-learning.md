@@ -7,8 +7,8 @@ webUrl: "https://www.cio.com/article/3529691/making-sense-of-machine-learning.ht
 ampWebUrl: "https://www.cio.com/article/3529691/making-sense-of-machine-learning.amp.html"
 cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3529691/making-sense-of-machine-learning.amp.html"
 type: article
-quality: 61
-heat: 61
+quality: 63
+heat: 63
 published: false
 
 provider:
@@ -19,6 +19,7 @@ topics:
   - AI
   - Microsoft AI
   - Machine Learning
+  - IBM AI
 
 images:
   - url: "https://images.idgesg.net/images/article/2019/08/cio_cloud_computing_circuits_thinkstock_187814479_complex_pink_network_connections_by_shulz_gettyimages-840939300_2400x1600-100807924-large.jpg"

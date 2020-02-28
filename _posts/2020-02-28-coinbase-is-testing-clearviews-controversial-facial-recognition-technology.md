@@ -101,6 +101,21 @@ related:
       - url: "https://postmediaottawacitizen2.files.wordpress.com/2020/01/76459938-13306503-w-1.jpg"
         width: 1000
         height: 750
+  - title: "RCMP's use of Clearview AI facial recognition technology under investigation"
+    excerpt: "Amid a swirling debate in Canada and the U.S. about the ethics of facial recognition, the RCMP put out a statement Thursday ... CBC News has requested further details of where else the force is using Clearview AI, but has yet to receive a response. \"While the RCMP generally does not disclose specific tools and technologies used in the ..."
+    publishedDateTime: 2020-02-28T16:48:00Z
+    webUrl: "https://www.cbc.ca/news/politics/clearview-ai-rcmp-facial-recognition-1.5479673"
+    ampWebUrl: "https://www.cbc.ca/amp/1.5479673"
+    cdnAmpWebUrl: "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.5479673"
+    type: article
+    provider:
+      name: CBC.ca
+      domain: www.cbc.ca
+    quality: 73
+    images:
+      - url: "https://i.cbc.ca/1.5455565.1581080279!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/facial-recognition-technology.jpg"
+        width: 620
+        height: 349
   - title: "Police board knew about facial recognition pilot project, acting chair says"
     excerpt: "Questions about the Ottawa police pilot of facial recognition software continued to swirl Monday as two police board members questioned the force on what its plans were for the controversial technology amid the revelation that the board knew about the pilot. Indeed, acting chair Sandy Smallwood said that the board was informed of the pilot at ..."
     publishedDateTime: 2020-02-25T18:32:00Z
@@ -468,6 +483,19 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/poststar.com/content/tncms/custom/image/e0e08718-ed3d-11e5-b87e-839addbbcbaa.jpg?resize=600%2C315"
         width: 600
         height: 315
+  - title: "Halifax police used controversial facial recognition technology"
+    excerpt: "Halifax police are confirming they used controversial facial recognition software made by Clearview AI, but say they’re no longer using the technology. The revelation comes following the RCMP admission that they have used the software and a data breach involving thousands of the company’s law enforcement clients. An investigation by ..."
+    publishedDateTime: 2020-02-28T16:31:00Z
+    webUrl: "https://www.thechronicleherald.ca/salt/halifax-police-used-controversial-facial-recognition-technology-417130/"
+    type: article
+    provider:
+      name: The Chronicle Herald
+      domain: thechronicleherald.ca
+    quality: 39
+    images:
+      - url: "https://www.thechronicleherald.ca/media/photologue/photos/cache/Halifax_Regional_Police_medium.jpg"
+        width: 458
+        height: 305
   - title: "More admission of police use of controversial facial recognition technology"
     excerpt: "With several cases already revealed of Canadian police admission of using the high tech facial recognition comes another, this time by the federal Royal Canadian Mounted Police. The technology has raised concerns over privacy issues with hints of the incursion of an Orwellian-like future. The highly controversial technology developed by the U.S ..."
     publishedDateTime: 2020-02-28T14:16:00Z
@@ -710,6 +738,6 @@ related:
       domain: seattletimes.com
     quality: 0
 
-secured: "x4JMrjJ58EUe/C8Xzglrf2y4GfGWcCV7lnVRzEozPfDTp8ux1GqYp1fM/T9U/boT7fq0a2aNtNHiqFRqLW33vxPVK4KLLHxex9fq2XzFOWt0bhagj4O/SRbCGby1zV3z2KM7MVpMk59by7Ks1y7TK9odjmcg8nJMcKT6PRchJaPidTSfemcMZLwu6L7vB1RzXh5gMNHCsrLREIMR+tk/p8Q0xuVYMtGMXA872r+WAyb4uSLKWqp28TtF4NR36OHsyBz0a4yBPPPdUaStZKxWbQ1coiblssDvZ69W0gU4JiaNhFxsm7rfqKoiPZUl50E9;9AVsnekDmUxgcs5fcg3vog=="
+secured: "Qxjjvb+BZQG+Bk7ILamk47fZDPzYQo1W0o90GSPQNyjYgIyd4VbOnojvUsqEqDySxNAsoRv4dARa0f/vH3hWupd+v0W/7aBY/seNdBi6iVI87tSSqAAqzzGyrGzLvf0/ZZXTXgqJFnc4EO7msWJncnjgTYQlQDR72x56REf18weBWuvLeefqn0e0dPZzoaGiyeaHlWVTc+IzGnzvN709QMKJVT07StymyjtKElScK8L1F3uzhd7Bq+uzvmp3fNkpBsTUp1xkrI00hKNIqv9pItGV9jU05LDebFkmV7d67DhpT+p6szQCsHF+zEn6fG9JTae32Daae9q1NKsaYS1LJuyC/lXeKamHTyg6GfT00jX7Q+YO7lcxUFBU7yH7eS7atDKyeE+Y4OxaGNW3b2dhrUYzDiJR9BLx2mQ9uVQ5OBKUCpQ2sc1XpwR0gslJh6+GFAxWRLF0leNDTlC2CSko9gwd8lodSwZgAKS8uiM6ioU=;LJkJJwui6KqlMV8b+kTLrg=="
 ---
 

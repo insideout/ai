@@ -158,6 +158,19 @@ related:
       - url: "https://cosmos-images1.imgix.net/file/spina/photo/21363/200225-Snow_car.jpg?ixlib=rails-2.1.4&auto=format&ch=Width%2CDPR&fit=max&w=835"
         width: 835
         height: 472
+  - title: "The secret to self-driving in the snow could be hiding underground"
+    excerpt: "One of the challenges facing the development of self-driving cars is accounting for all kinds of weather. In the snow, for example, cameras can no longer recognise lane markings and traffic signs. And even in heavy rain, the lasers of LIDAR sensors can malfunction. But a team from MIT’s Computer Science and Artificial Intelligence Lab (CSAIL ..."
+    publishedDateTime: 2020-02-28T16:47:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/self-driving-radar-energy-hydrogen-robotics"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 24
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2020/02/AdobeStock_308039407.jpeg"
+        width: 800
+        height: 600
   - title: "Transportation in 2030: Flying cars maybe, but mainstream electric and shared ones for sure, some possibly self-driving"
     excerpt: "so this is a serious space.\" Companies like Uber, Boeing, Volvo, & Toyota among others are testing this technology. Meanwhile, autonomous vehicles (self-driving cars) are nearly here. They already undergoing vigorous testing and by the way the Oregon Department of Transportation has an autonomous vehicle task force considering what changes ..."
     publishedDateTime: 2020-02-18T14:30:00Z

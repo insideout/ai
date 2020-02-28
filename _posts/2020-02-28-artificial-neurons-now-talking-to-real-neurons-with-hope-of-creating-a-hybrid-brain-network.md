@@ -64,16 +64,18 @@ related:
       domain: medicalxpress.com
     quality: 39
   - title: "New study allows brain and artificial neurons to link up over the web"
-    excerpt: "This study has for the first time shown how three key emerging technologies can work together: brain-computer interfaces, artificial neural networks and advanced memory technologies (also known as memristors). The discovery opens the door to further significant developments in neural and artificial intelligence research. During the study ..."
-    publishedDateTime: 2020-02-26T15:19:00Z
-    webUrl: "https://medicalxpress.com/news/2020-02-brain-artificial-neurons-link-web.html"
-    ampWebUrl: "https://medicalxpress.com/news/2020-02-brain-artificial-neurons-link-web.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-02-brain-artificial-neurons-link-web.amp"
+    excerpt: "This study has for the first time shown how three key emerging technologies can work together: brain-computer interfaces, artificial neural networks and advanced memory technologies (also known as memristors). The discovery opens the door to further significant developments in neural and artificial intelligence research. Brain functions are ..."
+    publishedDateTime: 2020-02-26T16:05:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-02/uos-nsa022620.php"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
+      name: EurekAlert!
+      domain: eurekalert.org
     quality: 39
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/225322_web.jpg"
+        width: 720
+        height: 813
   - title: "New study allows Brain and Artificial Neurons to link up over web"
     excerpt: "This study has for the first time shown how three key emerging technologies can work together: brain-computer interfaces, artificial neural networks and advanced memory technologies (also known as memristors). The discovery opens the door to further ..."
     publishedDateTime: 2020-02-26T12:16:00Z
@@ -88,6 +90,6 @@ related:
         width: 400
         height: 452
 
-secured: "qiuOilN3yEFUq4qyHaOcryt9w2HJY/mYthBMJSYadq0SMbP0fGOFhiwsmW4Lb68DJNjrupN8ycXa5iygNB1iFqMmDJYsu3MoN4iusqG/3mzYDndXoovxIpiCrDNRZzR4HxAlEaZR892goEEIXDfNE3toTPf/vlBKVfNHtTYIcgNQUfqRhWiycsj1qHotrioqFSh7TLJ38n2Cwn2DVnxnq5Jz0LtkVxczmm3TAP2Yt8ThxEWXvkYu3UqXyODLllC6RMcsOdN5iY2Hz9Lunnt+jCHbLMHX2kYOwOW7EX+rRtqdGCNsxPbFyYw810jgOAsh;VN70XcPOPor/q9Bz3hD/HA=="
+secured: "DFHlJrJ7yaHTYDTxwhlXMipQ9T8hd1Cjl1WxN3F5il/O9y99Vy8CXkExPkY5xRxqdT/m5J/QTKEU33PMcc6Eqx3beCmME950LVg1M5F093MD7knIe1zNJJvi/YtmKxIzYaLbPM3QJaAor9HIVN7WnzWVfnWB6gHFjZ0rufNOcKPgMz+ge9/Zl9LGN84NRXmtfV8bqWCuU5e4U9LvBT72wmAD+8Tyd0BEJ7Yu20/iW2Ss9dGbhgRMb/jLO3CrAkdG9SvscnWkBiwl5VvIqC8Qk4zq4Jr7tuvJ2svUHJHhRG4Ljl50ZWjv9gm/8iaa8Q6xghl3k+JIbXjIG8VU/dz5owsxJnll6CBhKJVXtXkptnkDvjXwF3qKIU77Gw0NI7gxz/MivPvx0g/dPhfUyiktrg1BL/6BDqMaqhZdVEDK+7/FJ3sv2SNe4d8M6+G/ymSKEIhhmnww0REwHlPaLU8zSFO40z6FL1qdzCOo0gYV9As=;qPXYH9AlJKdNbklA/lhUGA=="
 ---
 

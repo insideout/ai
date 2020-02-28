@@ -1,19 +1,17 @@
 ---
 category: news
 title: "Covariant and ABB Partner to Deploy Integrated AI Robotic Solutions"
-excerpt: "ZURICH, Feb. 25, 2020 /PRNewswire/ -- ABB, the world-leading supplier of industrial robots, and Silicon Valley AI start-up, Covariant, today announced a partnership to bring AI-enabled robotics solutions to market,"
-publishedDateTime: 2020-02-25T06:00:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/02/n15400982/covariant-and-abb-partner-to-deploy-integrated-ai-robotic-solutions"
-ampWebUrl: "https://amp.benzinga.com/amp/content/15400982"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15400982"
+excerpt: "ZURICH, Feb. 25, 2020 /PRNewswire/ -- ABB, the world-leading supplier of industrial robots, and Silicon Valley AI start-up, Covariant, today announced a partnership to bring AI-enabled robotics solutions to market, starting with a fully autonomous warehouse order fulfilment solution. The partnership brings together the two companies with a ..."
+publishedDateTime: 2020-02-25T12:18:00Z
+webUrl: "https://www.tmcnet.com/usubmit/2020/02/25/9103315.htm"
 type: article
-quality: 74
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
@@ -26,22 +24,42 @@ images:
     title: "Covariant and ABB Partner to Deploy Integrated AI Robotic Solutions"
 
 related:
-  - title: "How To Deploy Robotics Responsibly"
-    excerpt: "industrial and commercial robotics, artificial intelligence (AI) and the interconnectivity of software and hardware devices. Indeed, IDC predicts that by 2022, the global robotics market (i.e., robots,"
-    publishedDateTime: 2020-02-24T17:23:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/02/24/how-to-deploy-robotics-responsibly/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/02/24/how-to-deploy-robotics-responsibly/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/24/how-to-deploy-robotics-responsibly/amp/"
+  - title: "Covariant, ABB partner to integrate AI and robots for warehouses"
+    excerpt: "Industrial automation leader ABB and artificial intelligence startup Covariant today announced that they are working to jointly bring AI-enabled robots to market, starting with a fully autonomous system for e-commerce order fulfillment. The growing demand for e-commerce order-fulfillment and the complex nature of the process offers unique ..."
+    publishedDateTime: 2020-02-27T13:21:00Z
+    webUrl: "https://www.therobotreport.com/covariant-abb-partner-integrate-ai-warehouse-robots/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 84
     images:
-      - url: "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1011468914/960x0.jpg?fit=scale"
-        width: 711
-        height: 474
+      - url: "https://www.therobotreport.com/wp-content/uploads/2020/02/Covariant_1-1024x735.jpeg"
+        width: 1024
+        height: 735
+  - title: "Your Future With Robots Part 1"
+    excerpt: "“People are really a little bit concerned about the use of robots in things such as flying planes, really that’s artificial intelligence, or self-driving cars, anything that has to do with transporting people,” said Craig Webster, an associate professor of hospital and food management in the Miller College of Business at Ball Stat"
+    publishedDateTime: 2020-02-27T17:32:00Z
+    webUrl: "https://www.wibc.com/news/local-indiana/your-future-with-robots-part-1/"
+    type: article
+    provider:
+      name: WIBC
+      domain: wibc.com
+    quality: 39
+    images:
+      - url: "https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/1317/2020/02/27122127/Robot-Dirk-Waem.jpg"
+        width: 1024
+        height: 683
+  - title: "ABB teams up on integrated AI robotic solutions"
+    excerpt: "ABB (NYSE:ABB) is partnering with Silicon Valley AI startup Covariant to bring AI-enabled robotics solutions to market, starting with a fully autonomous warehouse order fulfilment solution. \"The partnership brings together the two companies with a shared vision for robotics enabled by AI, where intelligent robots work alongside humans in ..."
+    publishedDateTime: 2020-02-25T16:35:00Z
+    webUrl: "https://seekingalpha.com/news/3545209-abb-teams-up-on-integrated-ai-robotic-solutions"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 34
 
-secured: "RWMpkq+P0jXAAg1+sSUi+g7VDEeyoravH3gVTLza+M7Y0D724LYcGANXGBa4An7VTVpAVmIVr2j2SDozheAjco6zUUBvDAZF5iqJLEdcZbMEK72cp83Qu73YL9f0BGygpsmXCUeVsumzl6IJd6XMgblcUX6L1LOFZuxX0MW1nkey2YJ+rck2/F5+VSO2WCGmdXqJ1e633h7TG3MhuCtjiVvrLidyPJyAxh5AOM3tI5zxgSyAwuzQUIkK1A26nxJOvElkljkB/Mqx1eC/endBFS5l3NAq6NzopgS+gj68tjOlV3e1LbWrpgTi7069rEFFcOTvkO/kKkbZt6KrNOhkM6txvY+cv8snKDBzArsByQWmGRsYeUIiz7XKWDu3/tlasBCZYTAXP5ZM7HuqAxsoz0SyNscXJnQOv0/6LdLRlbCokz36njLQEUlOsP+Y/HIJn45TI5qBhopPm6/BqfO7s8uMMs4xa3NvJstUhJTmkQ0=;oIXZ6hQ75vxNOREWPaaT+A=="
+secured: "d1vt4kQA3z5kkqMTYYFR/INrwRiId/fKYz3WbcgaDS2MXIvC2hZkheGXvKkfZVcgOiW3BIWqfGpN2kOKaiqg/HNL48qZWAzJicvT5OyznsQKKa0Ph+jQdHucAgpGTKWxf/Dwrb+iIwXKkPoraMvOcQ3mDwBWHaduXRRlMB0KR4Hc3GBtJgFhfPJaNBJRCSOCPxVglVcVAH3rIZJkZ8mi7dudaV3lmOJkfhg4gk/csfJT4lOhBWaQQGkV8CKIeWbOIoYp9ghaLU4TsnksreZyNodurFhFY4uMA1LIIht+r98tkCTPsSbAsSjDkA4Nm+cn;wpQgAHjmFq7WJq2AJ1un/w=="
 ---
 

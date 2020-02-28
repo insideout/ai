@@ -23,6 +23,6 @@ images:
     height: 450
     title: "UPS, Waymo partner to start self-driving package pickup"
 
-secured: "VSaQSwpOUAZPa0HBHxbyepukR8MvDFpVHuDCR/fUvGDGk13O/VgbSnIOVj98/BYsk6VMjKcFKJ8Nttw0zc9I4kc6OkLFLaP7Sbd5VMDT+jgfhVPhCbv8O2g8DEXpngN0/ZiV6zBe0AdtVyN5VldnimWXZN6RBVdjIpYTnc1YfRURfv2PhVweZTCW75k4/4+FmKS0if8HKg4VWoXVamF7aAQ7vhQgBBzEx4asK5WpnCyw/ad9qPG105sEjN2+KZN9ubkI4omPM3tqHUKfCa4Db9KkL9Gy+DuYOVP2U59hGfRf1V1y11cwZb55c88/Eg22;IE5/j4i8yxVkOkhqsqEIBw=="
+secured: "vNWKlSPsfxg6X07sfYn9NtmnjrIB4dtW8sOkJ4yac93LoXnLcwO07Yj7zxbaqAfMN1TrZDXZ2C55nNXXMirHKGx7eahcIqtzpk6mcaAh0cvBcpZT8u+LUYpBRpnKlV+6IC0fgOGosd8IPXeZtDHysSr8iSFcCvAikyTw3F7CEgQzUz8VgnI7CRG6bxCfHyZh2v0Zp3UFtFJwGmgz2Kd8QxWK38zkvjttoPPLcin0sRteKdm1xYvRkozea9N8MJ2KItX0dy3HchGN0scttBRhKPrPI+VisYfvLU+9En2AIQDOdJhCZQXJrQI9M6oRq7uD;3RwMNeHee/VgVovO3/KS/w=="
 ---
 

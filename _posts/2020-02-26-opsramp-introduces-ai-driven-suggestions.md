@@ -27,7 +27,7 @@ related:
   - title: "OpsRamp Introduces AI-Driven Suggestions for Greater Transparency and Faster Incident Remediation"
     excerpt: "Other artificial intelligence for IT operations (AIOps) innovations in the release include visualization of alert similarity patterns and new alert stats widgets to provide transparency into machine learning-driven decisions. The OpsRamp Winter 2020 Release also introduces 19 new cloud monitoring integrations for Amazon Web Services (AWS ..."
     publishedDateTime: 2020-02-25T15:48:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-opsramp-introduces-ai-driven-suggestions-greater-transparency-faster-/2020/02/25/9103398.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/2020/02/25/9103398.htm"
     type: article
     provider:
       name: TMCnet

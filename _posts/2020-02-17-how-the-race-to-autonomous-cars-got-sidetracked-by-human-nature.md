@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-17T06:23:00Z
 webUrl: "https://www.fastcompany.com/90459114/how-the-race-to-autonomous-cars-got-sidetracked-by-words?ref=hvper.com"
 type: article
 quality: 122
-heat: 132
+heat: 122
 published: true
 
 provider:
@@ -21,17 +21,6 @@ images:
     width: 1280
     height: 720
     title: "How the race to autonomous cars got sidetracked by human nature"
-
-related:
-  - title: "Baidu to Launch Autonomous Cars by 2020"
-    excerpt: "That may be difficult, though, considering China’s ban on self-driving car testing—at least until the country’s regulations are approved. Luckily, Baidu has been honing its craft in the US ..."
-    publishedDateTime: 2020-02-14T00:00:00Z
-    webUrl: "https://www.geek.com/tech/baidu-to-launch-autonomous-cars-by-2020-1696952/"
-    type: article
-    provider:
-      name: Geek.com
-      domain: geek.com
-    quality: 49
 
 secured: "T0ZCvOhZS0cywFTgOSArMHpN7AYI3fuMGl6Z/TBwA7beZYsUTbyNbrJWl6lLBjkaRZYJ9GwpbGfebxqDwGAU0smLCBx+biMwg4mS36wfTdDME2O+tWS1EW0On6f86HaIvrEPS1Pem8NPN3RmUcjZjGcdi9xNKl3H9AYgVQVguIyg4p9MSyskPQ/EfI++/Uk46XcwhLSdk5avxQ2LrklrYG1GPag+ZPyLh21CPfUrD5gCzdD+XXKOvSkDT6yG60UYeYCLkqV1HgQmoPqwS7OVbi5BK00DHlZPB3LQfG4KhJX2nZrqFp6P2bn8FSckJmzJ386R7tzS8qg2rVXKwQb0Vw==;rUU1Ehhi8zgoTQaazEamuQ=="
 ---

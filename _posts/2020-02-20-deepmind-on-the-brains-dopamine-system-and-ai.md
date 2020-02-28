@@ -35,19 +35,6 @@ related:
         height: 385
   - title: "DeepMind, artificial intelligence and the future of the NHS"
     excerpt: "One morning a few weeks ago Stephen Foot, a warehouseman from Enfield, woke up in a London hospital to discover the unlikely harbinger of a coming medical revolution. This Ghost of Healthcare to ..."
-    publishedDateTime: 2020-02-14T00:00:00Z
-    webUrl: "https://www.thetimes.co.uk/article/deepmind-artificial-intelligence-and-the-future-of-the-nhs-r8c28v3j6?ref=patrick.net"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 54
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F567205e8-d3b7-11e9-aa6d-16cb9f989e55.jpg?crop=6194%2C3484%2C0%2C323&resize=685"
-        width: 685
-        height: 385
-  - title: "DeepMind, artificial intelligence and the future of the NHS"
-    excerpt: "One morning a few weeks ago Stephen Foot, a warehouseman from Enfield, woke up in a London hospital to discover the unlikely harbinger of a coming medical revolution. This Ghost of Healthcare to ..."
     publishedDateTime: 2020-02-18T00:00:00Z
     webUrl: "https://www.thetimes.co.uk/magazine/the-times-magazine/deepmind-artificial-intelligence-and-the-future-of-the-nhs-r8c28v3j6"
     type: article

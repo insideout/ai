@@ -45,6 +45,21 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200221&t=2&i=1493407844&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG1K1LU"
         width: 830
         height: 545
+  - title: "Waymo doesn't like California's benchmark for self-driving research"
+    excerpt: "At the moment, every company with a self-driving car program in California must report their disengagements to the state's Department of Motor Vehicles (DMV). That includes Alphabet subsidiary Waymo, the General Motors-owned Cruise, Aurora and Nuro. The metric wasn't meant to create a public-facing leaderboard. However, industry onlookers have ..."
+    publishedDateTime: 2020-02-27T13:05:00Z
+    webUrl: "https://www.engadget.com/2020/02/27/waymo-disengagement-california-self-driving-criticism/"
+    ampWebUrl: "https://www.engadget.com/amp/2020/02/27/waymo-disengagement-california-self-driving-criticism/"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/27/waymo-disengagement-california-self-driving-criticism/"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 89
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D5150%252C3433%252C0%252C0%26quality%3D85%26format%3Djpg%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-02%252F618e9e50-594a-11ea-a58f-76b643600fe3%26client%3Da1acac3e1b3290917d92%26signature%3Dbc23897382a178fb932a0521099cac688bd4685e&client=amp-blogside-v2&signature=e2787b732b821b6c8494166424617433521a826c"
+        width: 600
+        height: 350
   - title: "Cruise can now transport passengers in self-driving cars in CA"
     excerpt: "Cruise is now one of five self-driving companies allowed to participate in this program. The others are Zoox, Waymo, Pony.ai, Aurora and AutoX. This program is a bit different from the one run by the California Department of Motor Vehicles, which has granted 66 companies permits to test their respective vehicles in the state. Cruise originally ..."
     publishedDateTime: 2020-02-24T21:26:00Z

@@ -39,6 +39,19 @@ related:
       - url: "https://images.theconversation.com/files/309620/original/file-20200113-103951-1d39a4w.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=754&fit=clip"
         width: 754
         height: 507
+  - title: "A New Study Finds People Prefer Robots That Explain Themselves"
+    excerpt: "Artificial intelligence is entering our lives in many ways – on our smartphones ... how artificial agents can be made more transparent and trustworthy to their human users. Trustworthiness is essential if robots and people are to work together. XAI seeks to develop A.I. systems that human beings find trustworthy – while also performing ..."
+    publishedDateTime: 2020-02-28T16:21:00Z
+    webUrl: "https://www.smithsonianmag.com/innovation/new-study-finds-people-prefer-robots-explain-themselves-180974299/"
+    type: article
+    provider:
+      name: Smithsonian Magazine
+      domain: smithsonianmag.com
+    quality: 54
+    images:
+      - url: "https://thumbs-prod.si-cdn.com/hkAdfiJ_gmNIoGkhW0bZUx6Rkso=/fit-in/1600x0/https://public-media.si-cdn.com/filer/41/9a/419a607d-9587-4c7a-8322-a94f5e39271c/human_reaching_out_to_robot-main.jpg"
+        width: 800
+        height: 600
 
 secured: "rT4vorw3cpu6q67wyetC1Cc0yMXv6NLxjcSMMnu5BeZB/eYhPpAus/aJXMxka94ptBrWOipalkMEFjoTUAfRz9iiaK6O6sXQOrgNtoEdee9GdxnSZvhoL2RrHAGc/OnTgpAdn4vdWyFHHKmGgt43EFfHjELhMVta5yUS6c13WVFz+4iP1I0XFJ4aGQ07AjXt6uXS/Cu7LyCygAKpoq2zyd4GvbRY5nz8T/nS/uX7LH5hrqC4K5tWsxxeZfrzC4wBMdXYljmt4iP2Sh0VhgEWJpI8cG4p3aBHDgfMvV5x+fNMFLvjrbQiYHTZp99aOm9yKBySAJo8JM5QtPvW84k8lY9ovrfS4GG+R+05Z+VcFm/n6NB3DdqiE2mHOwRZehqjmSQ2977vjguNfgO1P5o7Sj7QwyYYKoev2LQ0zWu5or/2ds3XrpE83u4LBvnbSH56jtP5qxubZG7rrA/Mmi6n1OdU/6VkC9Hrbe3i8tdkx4k=;47im8mIAftRgbF9D4Eq7/Q=="
 ---

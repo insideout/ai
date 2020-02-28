@@ -25,6 +25,21 @@ images:
     height: 382
     title: "MIT researchers create new self-driving system that can steer in low visibility settings"
 
+related:
+  - title: "Rheinmetall Partners With Australian Researchers to Develop Self-Driving Vehicles For Military"
+    excerpt: "The aim of the ACW program is to develop self-driving, i.e. autonomous, vehicles supported by AI-enabled technologies. Rheinmetall Canada has already developed such a system, the eight-wheel drive Mission Master vehicle, which incorporates an autonomous driving vehicle capability. According to the February 27 statement, this autonomous ..."
+    publishedDateTime: 2020-02-28T16:22:00Z
+    webUrl: "https://thediplomat.com/2020/02/rheinmetall-partners-with-australian-researchers-to-develop-self-driving-vehicles-for-military/"
+    type: article
+    provider:
+      name: The Diplomat
+      domain: thediplomat.com
+    quality: 12
+    images:
+      - url: "https://thediplomat.com/wp-content/uploads/2020/02/sizes/td-story-s-2/thediplomat-2020-02-27-9.jpg"
+        width: 600
+        height: 400
+
 secured: "17MY5jbYYTtTHkm0tG2SGI4V4oUX6hoYdvTkqVBSKH2vI+X6Pdv7viOXk6N4oXSTSkirc09FXIVMJZGCoMH3RiNWsFdgjuRc3NMNWFy57C+acEYIpbJzxhp2ce45kl3GnbouV+5AUMss2yupAbG+2J0NuFyFbDttjfqTQjNGMUThpdhYOi6OddJQ8aQHK0cWzG/a0MjY7hN7p3sqBX5UFVSCxtduuy/LaAlspsJQwEoxEt4wM5LudOtCtod2ZlisawEhTJvtz0hCbxGZ4cBDt8pxIzQ4sS4CtFpft1eoGFAZ9EF/fUHPcFcGNoIoow3C;16ElwX3xf558qvwSYGm10Q=="
 ---
 

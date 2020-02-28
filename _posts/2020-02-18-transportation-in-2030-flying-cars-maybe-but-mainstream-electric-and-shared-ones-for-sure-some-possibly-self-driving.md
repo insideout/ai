@@ -164,6 +164,19 @@ related:
       - url: "https://cosmos-images1.imgix.net/file/spina/photo/21363/200225-Snow_car.jpg?ixlib=rails-2.1.4&auto=format&ch=Width%2CDPR&fit=max&w=835"
         width: 835
         height: 472
+  - title: "The secret to self-driving in the snow could be hiding underground"
+    excerpt: "One of the challenges facing the development of self-driving cars is accounting for all kinds of weather. In the snow, for example, cameras can no longer recognise lane markings and traffic signs. And even in heavy rain, the lasers of LIDAR sensors can malfunction. But a team from MIT’s Computer Science and Artificial Intelligence Lab (CSAIL ..."
+    publishedDateTime: 2020-02-28T16:47:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/self-driving-radar-energy-hydrogen-robotics"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 24
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2020/02/AdobeStock_308039407.jpeg"
+        width: 800
+        height: 600
   - title: "Can Self-Driving Cars Share the Roads With You?"
     excerpt: "Are American roads ready for a future with automated shared vehicles, e-scooters, and new forms of public transit? Consumer Reports hosted a panel discussion at the Washington D.C. Auto Show to talk about needed change in American infrastructure."
     publishedDateTime: 2020-02-27T20:26:00Z

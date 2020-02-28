@@ -27,6 +27,6 @@ images:
     height: 600
     title: "What layoffs at SoftBank-funded startups like robot pizza-maker Zume say about the future of investments in AI firms"
 
-secured: "rQpZWxIYiyXpt5z7X5gtMKare7eOE6rf5XWNBGNO9m46+56+7asM0Lq+/fitNEoAfXJgpzYWBDS6Y3aPdFf2/V/vylbWVkbn4qlDroB54A0akdzzGr5pmt3VewfAKFbxvYDc/GiTD9tdlcTlbudHXGhg9Jx+fD0XVlSY0W3dOF89ySyr3sgdWIwgj2J+eGfUjjl31I1/qoxHCwSAeZ753Xo7O0UR3PcO/Q/Tk/LeeHS1FebqUo/9vesyOwiCuykXLBFKK/K30yFmEa2QKfJTCvciA4M9SsTeGKewHC/fDyzm7qYn98WhP9IQQuRitzQH;ec5pHlqet2dErUQE2p8mrQ=="
+secured: "hYKe3mM/lrVr7d5WcFYk6Q6jVG0vOPZXszCjR4Qp3rYeXJxiU0xoe/LbMoloysSydCDv+tVe8iCwJqT1aNvsc0BXNsMrvuCPMRsN5GLRhWdrXeXIP/4uOPJa9wDuOtDso9ry4NrfYP+XBs7uqP5lnz7MjNajYTs77x+lWKT+SPNeoWFaby37mAlD/q7vNjppW42DUCw7jg9anZ5AWrne55ki+7EBGPzr0qVylfF3GYJUtGMVz7SA4ngfB3ydwg83aFuhirc1TtPGvbdd2vHHKpKnj5DyU47Pi8Asf3+PKO3WKKmTDH1NuztlDe82G+RceRN5uQElcGsnvbWH379kaTefeD4ZWFPmWtbJjzWR/sgWRgPYCNK2XI9yS8z0VXRboVjZP9FaaKZh5dwmGcoHGKjpjrdHflnDtvwofOz/jC/w2aZHqj7U9/JsA8bOp1wrMqlPDOPYY8Fhy/kJOMT25S3iIrCQdy4/UrebAaF6H2o=;U6UIyE88HpfGaEajwfxXMw=="
 ---
 

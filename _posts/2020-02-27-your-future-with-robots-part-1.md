@@ -37,6 +37,19 @@ related:
       - url: "https://www.therobotreport.com/wp-content/uploads/2020/02/Covariant_1-1024x735.jpeg"
         width: 1024
         height: 735
+  - title: "Covariant and ABB Partner to Deploy Integrated AI Robotic Solutions"
+    excerpt: "ZURICH, Feb. 25, 2020 /PRNewswire/ -- ABB, the world-leading supplier of industrial robots, and Silicon Valley AI start-up, Covariant, today announced a partnership to bring AI-enabled robotics solutions to market, starting with a fully autonomous warehouse order fulfilment solution. The partnership brings together the two companies with a ..."
+    publishedDateTime: 2020-02-25T12:18:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2020/02/25/9103315.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 54
+    images:
+      - url: "https://mma.prnewswire.com/media/1094804/Covariant_Brain_ABB_robot.jpg"
+        width: 400
+        height: 287
   - title: "ABB teams up on integrated AI robotic solutions"
     excerpt: "ABB (NYSE:ABB) is partnering with Silicon Valley AI startup Covariant to bring AI-enabled robotics solutions to market, starting with a fully autonomous warehouse order fulfilment solution. \"The partnership brings together the two companies with a shared vision for robotics enabled by AI, where intelligent robots work alongside humans in ..."
     publishedDateTime: 2020-02-25T16:35:00Z

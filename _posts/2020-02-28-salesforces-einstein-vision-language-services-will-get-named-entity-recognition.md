@@ -30,6 +30,6 @@ images:
     height: 600
     title: "Salesforce’s Einstein Vision & Language services will get named entity recognition"
 
-secured: "FprovYK98bIC8k1eMxL3R0x+5Oi0yg1BjLBJMMksM56Ff4YyC8+Jez6ZBBe5HI4qhBY16T0cfqPyg87+E85A0HpzNW1kG8MdN9H7DatMnpRg0YYcQtsZiixm+P9/cfh7xQyeDXykmglUCdt8s+RD1sMzjG8m4FjT/xkW7COz0QG/12EFlUhzcErmM30QFAZcN8xO/FDUgCoPFtxSjR5g6WEbV34OHMaGXB+kOL9hYMtUHLFU18OjUwwElitg7HbVMkl8Sb1SGC8M0JIem4CkdeKvVNqhf8//3LlabcJB6E6WpYv7Io80p4xcdeZXlqhG;gttwLEL73WsjXvN3f12/dA=="
+secured: "+NUA9GpzkCSilyhRkoFSwkdQ5u1/oDeYMlJfZDQlcSlpnwNNLkX6HHNkzPpxJqAtliMzmJqUyU1joVWrm2kpC9x7S8bua41/gBGuLKiJT/7Q1F1LXPBZDTf9mlle96BEwUDIMCUfzF/05HDzrM7O4Rf/glelOp6OMFF4Qz7cS2Ofd6s63D+RHpA2Mekxk0NEZCbguw/lyKD/MkM863QRPNoPti7TEjx+thvlzMpzqbX9jMMYckZQ+Ps4bbhA8URstOGCeWJLm8eZRQHG+D1ntztVCWP3vyQu8OBGWo5QqR2qu870IqCLc/SZIIa2kOiKUmkJ8b+Usv+lhi8A1DedXaGQQsm75ckYuUrYIH819brwvlO1Akr/3XxcNoKbBpE7nY1dpwpbUlmzNJao0tDuUHWmeClEEQe67EHVMte0tu1pAVYFKrLdgWlCJ4p8yc6FveWS7lzvrCO8q1nviUXUKJE8uy+98skyIrj/syswz/s=;12Wlhx2hng3UmZ2lJJXX2w=="
 ---
 
