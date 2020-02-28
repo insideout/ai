@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/02/26/the-rudest-driver
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/02/26/the-rudest-drivers-tend-to-drive-these-car-brands-which-ai-self-driving-cars-ought-to-keep-in-mind/amp/"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -82,6 +82,15 @@ related:
       name: CNET
       domain: cnet.com
     quality: 34
+  - title: "Here’s What You Can Really Expect From the Self-Driving Cars of the Future"
+    excerpt: "In just the last year, carmakers and autonomy start-ups that were once bullish on the prospects of fully self-driving cars have been quietly backpedaling their claims about what’s possible, and on what timeline. This waffling has to do, partially, with public perceptions, which vacillate wildly between excitement over every new demonstration ..."
+    publishedDateTime: 2020-02-28T12:07:00Z
+    webUrl: "https://robbreport.com/motors/cars/self-driving-cars-explainer-2901586/"
+    type: article
+    provider:
+      name: Robb Report
+      domain: robbreport.com
+    quality: 2
 
 secured: "4uwvz68K0J3ALIjThiQU/QAHWry1QPEJFvoZgr1EVhq2Vtft14MMnjg5yQiLMitl1k8DQpyJUR90zH600Tt8ziVpwVbNlTcPqWXc4WfUs/kQameQZ6/OLOychbqzUQC5RGCinXpx7b8eIbsWSKtJ5bz+HbpEh4zWIsAcYHgCxXP8Pvhpv1TFXwUocQ2FVU9hWVbJRyopDXKOlGdkThewNCEIJuRVjn4aX0bej3MhKHB/q7JBdpsZEA992XaVCfmoLq8OZeQEfB4dK7a6KghuGlcbImzju4OmyBm/14P5JdwLj7eipi70mCgD5DVMND+2xB+F2or0I16ZaPBwjQSfLT2z9WceWTQRF0GMGKL/fmygUTQ+GZCxIP1fvhglJZEuTQOB1zQjB3WTLOuYi4a13pE21aQLM3CZQUGrkz77iacxO6SludRDWwbntQE+5RY6wapzLVRwqGr5hThWop0gYFB9G6Mc27ofDwTAOUK/v1c=;cp4bnzCINtEz6dcQMCVYsA=="
 ---

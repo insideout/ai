@@ -32,19 +32,6 @@ related:
       - url: "https://miro.medium.com/freeze/max/400/1*DB25tGjRiWmvzRODq9TEOg.gif"
         width: 400
         height: 224
-  - title: "The Challenges Of Building Inferencing Chips"
-    excerpt: "As the field of AI continues to advance, different approaches to inferencing are being developed. Not all of them will work. Putting a trained algorithm to work in the field is creating a frenzy of activity across the chip world, spurring designs that range from purpose-built specialty processors and accelerators to more generalized extensions ..."
-    publishedDateTime: 2020-02-27T03:45:00Z
-    webUrl: "https://semiengineering.com/the-challenges-of-building-inferencing-chips/"
-    type: article
-    provider:
-      name: Semiconductor Engineering
-      domain: semiengineering.com
-    quality: 39
-    images:
-      - url: "https://i2.wp.com/semiengineering.com/wp-content/uploads/2020/02/Akida_Block_Diagram.png?fit=1060%2C469&#038;ssl=1"
-        width: 1060
-        height: 469
 
 secured: "f6XXXQ/jC2IH5rh3OqzXVrj1lnaJ8b1UmSsGVkVnATT7E5feCy7EzzmFp/nYOKrKpJaVAw+5n9PIS2aG3bnHPPaDT/k51eOo9PYbGAiy0/KFIp5AuryYJQJxrAovqG2zNRIM+qAmSoQXqk9tBl44U3AaWzKCvsAIqQsTMJ9qlMmFFSaXS7ilkrZuXKEsZ+HzPFOghr4iARjlZ83B9BGMglWA2RJ8uYC6fJaC86S0fQ4dFVSBy0JH1rF3YgzOkPtzl7eh1J76RIFZgmLXcJ/vHG2ixg9/y1DzUXFUpIazA0ENtJQRU5ogi21LolVphLmQ;KA4IgHJ3T+IDSTRIdc9awA=="
 ---

@@ -1,58 +1,37 @@
 ---
 category: news
 title: "PathPartner Showcases Next-Generation Driver and In-Cabin Monitoring Solution on the Cadence Tensilica Vision P6 DSP at Embedded World 2020"
-excerpt: "With extensive expertise in embedded systems, computer vision, deep learning, multimedia and imaging technologies, PathPartner provides next-gen technology solutions to customers in automotive, internet of things, intelligent devices and digital media products domain. PathPartner's catalog of products and services continues to expand."
+excerpt: "FRANKFURT, Germany, Feb. 24, 2020 /PRNewswire-PRWeb/ -- PathPartner Technology, a product R&D and engineering specialist, announced today that it will showcase its"
 publishedDateTime: 2020-02-24T05:00:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/pathpartner-showcases-next-generation-driver-and-in-cabin-monitoring-solution-on-the-cadence-tensilica-vision-p6-dsp-at-embedded-world-2020-1028929758"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/pathpartner-showcases-next-generation-driver-and-in-cabin-monitoring-solution-on-the-cadence-tensilica-vision-p6-dsp-at-embedded-world-2020-1028929758"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/pathpartner-showcases-next-generation-driver-and-in-cabin-monitoring-solution-on-the-cadence-tensilica-vision-p6-dsp-at-embedded-world-2020-1028929758"
+webUrl: "https://www.benzinga.com/pressreleases/20/02/n15390710/pathpartner-showcases-next-generation-driver-and-in-cabin-monitoring-solution-on-the-cadence-tensi"
 type: article
-quality: 20
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
   - Computer Vision
 
 related:
-  - title: "Local systems integration firm iOCO on the AWS partner network and what 2020 holds"
-    excerpt: "Customers will be able to use AWS services to run applications and leverage advanced technologies such as artificial intelligence, machine learning and IoT to drive innovation. Hypertext: In terms of iOCO’s plans for the year, what does achieving this status mean? Does it fast track any goals or solutions you may have in the works?"
-    publishedDateTime: 2020-02-19T14:00:00Z
-    webUrl: "https://www.htxt.co.za/2020/02/19/local-systems-integration-firm-ioco-on-the-aws-partner-network-and-what-2020-holds/"
-    ampWebUrl: "https://www.htxt.co.za/2020/02/19/local-systems-integration-firm-ioco-on-the-aws-partner-network-and-what-2020-holds/amp/"
-    cdnAmpWebUrl: "https://www-htxt-co-za.cdn.ampproject.org/c/s/www.htxt.co.za/2020/02/19/local-systems-integration-firm-ioco-on-the-aws-partner-network-and-what-2020-holds/amp/"
+  - title: "Neousys to Debut New AI Computing Solutions at Embedded World 2020"
+    excerpt: "Neousys will showcase state-of-the-art GPU computing platform, Nuvo-8108G series ... With patented technologies such as thermal design and damping bracket, we will continue to offer AI-accelerated solutions to our customers, to enable new possibilities and applications at the edge.\" For more information, visit: https://www.neousys-tech.com ..."
+    publishedDateTime: 2020-02-19T16:25:00Z
+    webUrl: "https://www.embedded-computing.com/news-releases/neousys-to-debut-new-ai-computing-solutions-at-embedded-world-2020"
     type: article
     provider:
-      name: Htxt.Africa
-      domain: htxt.co.za
-    quality: 53
+      name: Embedded Computing Design
+      domain: embedded-computing.com
+    quality: 41
     images:
-      - url: "https://www.htxt.co.za/wp-content/uploads/2020/02/chuttersnap-9AqIdzEc9pY-unsplash.jpg"
-        width: 1920
-        height: 1080
-  - title: "2020 and beyond for AWS – a story of innovation and partner opportunity"
-    excerpt: "artificial intelligence (AI) and machine learning (ML),” Gartner distinguished research vice-president, Donald Feinberg, said in a press release. “Increasingly, operational systems are also moving to the Cloud, especially with conversion to the SaaS application model.” Helping organisations make the most of their investment into AWS is a ..."
-    publishedDateTime: 2020-02-14T04:04:00Z
-    webUrl: "https://www.reseller.co.nz/brand-post/content/671072/2020-and-beyond-for-aws-a-story-of-innovation-and-partner-opportunity/"
-    type: article
-    provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 39
-    images:
-      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/dimg/dreamstime_l_92628965.jpg"
-        width: 800
-        height: 496
+      - url: "http://share.opsy.st/5e4c5db73f540-76219803_neousys_will_demonstrate_its_latest_aiot_solutions_that_include_edge_ai_computing_platform_vision_controller_and_industrial_iot_gateways_at_embedded_world_2020.jpg"
+        width: 900
+        height: 400
 
-secured: "tVON2pxxH46zlPGJkx/ooXjJ78JjNaL2dNf6iqlsumbYeF89J58ctKHUyHp4toOekHydHIq/b17xkNOcXWM7Eh/hEz1RdkyH/HCXWenn6apnrbPvvLhjiEOeKuG4yx6nr5gWqrOguS2EkQxvqepgYiBBu6M8pH6Ae8JbIDioz9m0Oyx+UQVPwNNdtDa+Sp718oQvtHii1Ptb//c0nAZKr7pQo5wPly8bppPmR7W/OSQlaOy4SWqB/ICxB7s1KXPDOyHzjtqotoa1UZI6fppZ2rc5jnP113S/Wvk/+8GjvznSWAVix9Y29P4LIbMQBGun;8woNJDa7mhK1UwOeaec7Jg=="
+secured: "eS76VmfosOdFpugImSPNihObXEtBRsMm6SU6iFrRo5vbjDvaGfXVypQHJDr/qPeGtmJmyp1rkbfG7717Iw7QkRlucmDy1hV9wFrzc2IagGbmg9wqtiNsFgvmnxf+TTNPRrJL9fMUg3UMLjRbjK1cFZdfXybJQzBR0j1gAFtnP87orsS5alT14PcG34aBPv/okkcU89eXUoPcAPH/uy7NZtDSqBP4WmaO2hcR/4w4Ha80hq97ZTOET+dTPx/G8f/UyVr8b57+xPqciltKoLo1ccV5JMw06maX1E5tKU9hq7iDmJ0fnznupywqvhaYsq7C;yp0G4l6D6XcOHrcti8jQtg=="
 ---
 

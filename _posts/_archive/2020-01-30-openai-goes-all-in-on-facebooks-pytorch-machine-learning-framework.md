@@ -5,8 +5,8 @@ excerpt: "While TensorFlow has been around slightly longer (since November 2015)
 publishedDateTime: 2020-01-30T17:01:00Z
 webUrl: "https://venturebeat.com/2020/01/30/openai-facebook-pytorch-google-tensorflow/"
 type: article
-quality: 69
-heat: 69
+quality: 49
+heat: 49
 published: false
 
 provider:
@@ -21,12 +21,6 @@ topics:
   - AI
   - Google AI
 
-images:
-  - url: "https://venturebeat.com/wp-content/uploads/2019/06/pytorch-e1576624094357.jpg?w=1200&#038;strip=all"
-    width: 1200
-    height: 600
-    title: "OpenAI goes all-in on Facebook’s Pytorch machine learning framework"
-
-secured: "qURsUlgZRAN2wmSies4MBSockhZ6yAJz/PxxwYpX37pjrZ1/O9Ta0NZFkT22SAJ+6Z1BLU8gwQlLZnUfO/MtIadLavEoxfLgo9/bhuIT0nIMeXLSdZDTwNNvshI18bEZPqXG3460i2CyNQqv8MiofJQ+Ws7ZMypq0YFzG5ybXY83gyuryEE61AlBuLuOf/hI1gpaiIPf9Zw1JXi+uNDeOvm11AktG7wBQrA2rXqseVekbvkXYxdazYovMHYdpXmypDUlfc1K9ztyKRX+zm+7BE3Dzo3xP0Uj8XvI4pQYDeAJ1cKazQFcyfe0qHEXJtIG;aN1X3RFV9weo/ucX+v60eA=="
+secured: "6EY7cB1O5mKyXD/hzXO5TcZF7F1N0hf0SOk0n3FENs02hKnMxTlvEQmcHs9LjfWIdG4tVuBvx41xY1dlsxOLRfenvXir1iK1Ri/pFLTfE7/ey2NvR9zr00ownuKQuYBH8JfdWIbnXu/w/EnCi+N8YqFT36jTkR3mkUdF27MGqc+StVeLHDl3YHNKkz5SnpQR+7XfTnT038PRhZdZ/c8TyrHNEGupZHjf2mK4/QcSFbvjzXQE3W/8uhAeT9v21gH4dwcQUMWcU6MOAlCU481t+EihtBUFrEFodhjewelNQPf69ISg7pP5RtF1b09G1cqq;qv4I5PgyeiOIRjd60N+ZBQ=="
 ---
 

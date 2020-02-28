@@ -24,6 +24,21 @@ images:
     title: "The Quad: Facial recognition faces myriad issues before it can be deployed successfully"
 
 related:
+  - title: "WYWS: First Quebec case of COVID-19, Habs lose, facial-recognition hack, Thunberg challenges world leaders"
+    excerpt: "“I have no idea,” coach Claude Julien said when asked after the game why his team keeps blowing two-goal leads. Entire client list hacked in data breach at facial-recognition startup: Clearview AI — the start-up company that compiles billions of images for its facial recognition software and whose technology Toronto Police were testing in ..."
+    publishedDateTime: 2020-02-28T13:23:00Z
+    webUrl: "https://montrealgazette.com/news/wyws-first-quebec-case-of-covid-19-habs-lose-facial-recognition-hack-thunberg-challenges-world-leaders"
+    ampWebUrl: "https://montrealgazette.com/news/wyws-first-quebec-case-of-covid-19-habs-lose-facial-recognition-hack-thunberg-challenges-world-leaders/amp"
+    cdnAmpWebUrl: "https://montrealgazette-com.cdn.ampproject.org/c/s/montrealgazette.com/news/wyws-first-quebec-case-of-covid-19-habs-lose-facial-recognition-hack-thunberg-challenges-world-leaders/amp"
+    type: article
+    provider:
+      name: Montreal News
+      domain: montrealgazette.com
+    quality: 26
+    images:
+      - url: "https://postmediamontrealgazette2.files.wordpress.com/2020/02/0211-spt-habs-coyotes-22.jpg"
+        width: 1000
+        height: 750
   - title: "Data Breach At Controversial Face Recognition Firm Shows Company Can't Be Trusted, U.S. Officials Say"
     excerpt: "(Photo: Chip Somodevilla (Getty) A security breach at a face-recognition startup, already embattled over its unfettered collection of Americans’ personal data on behalf of its hundreds of U.S. law enforcement clients, further underscores the potential hazards faced by consumers at the hands of a controversial and largely-unregulated ..."
     publishedDateTime: 2020-02-26T21:14:00Z

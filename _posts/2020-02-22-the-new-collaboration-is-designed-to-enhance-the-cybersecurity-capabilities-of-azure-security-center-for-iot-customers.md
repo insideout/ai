@@ -5,7 +5,7 @@ excerpt: "Azure Security Center offers advanced security posture management. By 
 publishedDateTime: 2020-02-22T01:31:00Z
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/firedome-announces-integration-with-microsoft-azure-security-center-for-iot/article_9fd4db82-0673-50af-bd2b-78c981cc8039.html"
 type: article
-quality: 0
+quality: 15
 heat: -1
 published: false
 
@@ -16,6 +16,12 @@ provider:
 topics:
   - AI
   - Microsoft AI
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
+    title: "The new collaboration is designed to enhance the cybersecurity capabilities of Azure Security Center for IoT customers."
 
 related:
   - title: "How Is Artificial Intelligence Reshaping Cybersecurity?"
@@ -34,6 +40,6 @@ related:
         width: 1440
         height: 500
 
-secured: "NT8eHQATIa1kwM/fs92a1x8PHrxh8QEto7eBz/osxtUkYZTw37N/9x7tb6TlmvkT7KMfuH/P3VMR0aWZXAKDkzwY2TV6tQ4v8QXlW6dIfAr5G/8QP//lestyMZzDk3dKDj5dAwXlEIs9FgHxAOfJnM3klKkWeL2UdKRhwZcuPIagFikS3m301yWvi6v+JR9W5QbihjzVXeUjjDLmzq+3J5jF18PSC0OtRn1+dBP5QDIg9ymfonbRDdc6MSqBdSYhRwflPJixaIo7e4Ya1JtW3AXDZv0QlQSL1BER4oVEtcZTECEhhY+7ZeWOqcxmc9Rj;NnBiWAwu2eoxOgjyS6Xyfw=="
+secured: "14eTa1H2keM1RkUmxniZElj2eHFiIpL8MPVntmiUZYXq16jakXvAG6M0IYv2fHw8ggKxrr7QBYg0dBgq00zP8H4Fmf3rUhu8yebhKVfI2AGgoxTKwCMl2hUcTZ9DAp88JbQnDe+aJqKVBhmvSuSaMlBdyWsNF/tHDDBY9bkuURMHCxYu4zxXpAsrBGUW/rQ3Y92JNGAVeJjfZi7YYUdSlX9exOhLf8AfcF5rVU2uHiAAyuCnoYIDuX5qGuqrF8da/4FfUKlN+YInmL9oh8kFKZOCX+J5w0P17cfBpnGm16gM9h7tN1mP/F1r2BjnQH+x;vijhXTQay2sp94rvYzazew=="
 ---
 

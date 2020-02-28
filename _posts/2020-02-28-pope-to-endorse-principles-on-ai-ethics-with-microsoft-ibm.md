@@ -1,26 +1,32 @@
 ---
 category: news
 title: "Pope to endorse principles on AI ethics with Microsoft, IBM"
-excerpt: "The \"Rome Call for AI Ethics\" asserts that the technology should respect privacy, work reliably and without bias, consider \"the needs of all human beings\" and operate transparently - an area of ongoing research because AI systems' decisions are often inscrutable. The document reflects growing interest among companies and institutions to set ..."
-publishedDateTime: 2020-02-28T08:04:00Z
-webUrl: "https://wsau.com/news/articles/2020/feb/28/pope-to-endorse-principles-on-ai-ethics-with-microsoft-ibm/989350/?refer-section=technology"
+excerpt: "Vatican officials on Friday planned to release principles promoting the ethical use of artificial intelligence (AI), with the backing of Microsoft Corp ( MSFT.O) and International Business Machines Corp ( IBM."
+publishedDateTime: 2020-02-28T08:28:00Z
+webUrl: "https://www.reuters.com/article/us-vatican-artificial-intelligence-idUSKCN20M0Z1"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN20M0Z1"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN20M0Z1"
 type: article
-quality: 39
+quality: 104
 heat: -1
 published: false
 
 provider:
-  name: WSAY
-  domain: wsau.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
-  - Facebook AI
+  - AI Ethics
 
 images:
-  - url: "https://radiocms-images.us1.eldarioncloud.com/resize/1200/https://storage.googleapis.com/media.mwcradio.com/mimesis/2020-02/28/2020-02-28T080413Z_1_LYNXNPEG1R0LA_RTROPTP_3_POPE-GENERALAUDIENCE.JPG?upscale=False"
-    width: 1200
-    height: 750
+  - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20200228&t=2&i=1496434448&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG1R0LA"
+    width: 872
+    height: 545
     title: "Pope to endorse principles on AI ethics with Microsoft, IBM"
 
 related:
@@ -103,6 +109,6 @@ related:
       domain: infosecurity-magazine.com
     quality: 34
 
-secured: "/bQlrXm62inZRAhIpBxtCt6OWXEVwxtYxBorjewlIMpiDIOIOS4gdxAsue9K82K/RLnLWv76IxOBu+SB9yO+GOm5PxoqTnHbPz7hUOjsk0TvrlZHMNjMHOaVPqY/m4iTJg07URj1YspP1ZNQjPRQh6rxS+AF6U/Nh2tOV80j/wc9aw6AhvKq0cYVDgSlKVGbc5uC7I5EwjJRsSmtToclhgK/MXG9qtsP+tKQSxkTxM3KawLorbMkk2zfXDThKG8EhypuDOsDq35Mo2qLQq1drC4fnalTyGA0KjW3Np1I4apqfXnkypxjeEbsHjBu6CID;MkYjIZ/mZuXfOc43NFtbtQ=="
+secured: "1s648riFizkaFsNoeN7FbkHsOI+UJp9kOajtW5Dl3tS74SiTrW5mJdgUCcDOHa4lRc/tMvWhS7WYMcL15xIt6kFHhWW3qT2dXF4R/tPAKqTLwW4T1TchGr6BCO2d+cTOmXOk2vf9lw/oru4lrVDXiDXw9dNlh9tQi3UvSVHVcTCqZLsbr+P72SegP8a3ADF80lEVmSGXUfutU3zT4c2WNyDmwrpYWr255cvQVPr0qT7jt8Kwb6GJFApJbswXbdQVQsnmCvvm0EQhG78Ybh5b7wHI3H4KneZioZn3iGY/Uc9bh8rBbLoPLOpxFGvii1Z3;VPMcJ9IzcpQkb0uvTVenXg=="
 ---
 

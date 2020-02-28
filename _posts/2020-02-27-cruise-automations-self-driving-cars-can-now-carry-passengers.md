@@ -80,6 +80,15 @@ related:
       - url: "https://www.embedded.com/wp-content/uploads/2020/02/img20200225095655EETimes-Putting-AI-into-the-Ed_0.jpg"
         width: 640
         height: 527
+  - title: "Here’s What You Can Really Expect From the Self-Driving Cars of the Future"
+    excerpt: "In just the last year, carmakers and autonomy start-ups that were once bullish on the prospects of fully self-driving cars have been quietly backpedaling their claims about what’s possible, and on what timeline. This waffling has to do, partially, with public perceptions, which vacillate wildly between excitement over every new demonstration ..."
+    publishedDateTime: 2020-02-28T12:07:00Z
+    webUrl: "https://robbreport.com/motors/cars/self-driving-cars-explainer-2901586/"
+    type: article
+    provider:
+      name: Robb Report
+      domain: robbreport.com
+    quality: 2
 
 secured: "53ql/h8zB39bSd/mff2rf9R4m+FfS/hMN1TIPPukT4HA0D3OCRLVdi0BoSA7u6lAbCtgdGmOX8j3xwvnepki7tvjgyHn/Z0wEH6FpM0YosGKGHkil0kqsTXNWCwzj5RUHTRlnRyYNuwbqKMVQmJlPV36mbD0DtWyqZ/FVsUzzuye7VBWyasDiT1MfWBnWOCY0dzaRzTkIe0/AViq94BYWo7PitTu4tMDDshBU5pB6Ulx8mCOqGl9Kkng+6xsGAIi3eA5yNGAXNPTXfMGnTPEg+rf8N5zJ55N2q4oCwExwIlHarFTQWS+K55lL4kA9zSav8kmeuiqmgGtF1w3h+Wnyw6h2vMOEtFK/9eTnctlP7dKn44JHxOpeptHiM/scwM+CwomddfjvzBJQMDMPGXYmvHKkenNQO1p7X23fILozQMyS/LQA8ZbpARsMfVlf52zk2YmRw4gfwqfoqq++9LO+YHfbrrfK2kROh2QA6CDXKI=;2ZSuVCpPl4K9sgJGM63/oA=="
 ---

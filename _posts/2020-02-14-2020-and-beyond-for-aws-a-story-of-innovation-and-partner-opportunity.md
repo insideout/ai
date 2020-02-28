@@ -39,17 +39,6 @@ related:
       - url: "https://www.htxt.co.za/wp-content/uploads/2020/02/chuttersnap-9AqIdzEc9pY-unsplash.jpg"
         width: 1920
         height: 1080
-  - title: "PathPartner Showcases Next-Generation Driver and In-Cabin Monitoring Solution on the Cadence Tensilica Vision P6 DSP at Embedded World 2020"
-    excerpt: "With extensive expertise in embedded systems, computer vision, deep learning, multimedia and imaging technologies, PathPartner provides next-gen technology solutions to customers in automotive, internet of things, intelligent devices and digital media products domain. PathPartner's catalog of products and services continues to expand."
-    publishedDateTime: 2020-02-24T05:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/pathpartner-showcases-next-generation-driver-and-in-cabin-monitoring-solution-on-the-cadence-tensilica-vision-p6-dsp-at-embedded-world-2020-1028929758"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/pathpartner-showcases-next-generation-driver-and-in-cabin-monitoring-solution-on-the-cadence-tensilica-vision-p6-dsp-at-embedded-world-2020-1028929758"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/pathpartner-showcases-next-generation-driver-and-in-cabin-monitoring-solution-on-the-cadence-tensilica-vision-p6-dsp-at-embedded-world-2020-1028929758"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 20
 
 secured: "SpNRnLqbxgp6Ubb004sIQWHg8ciYqJQGDtP4g6RmNsAf4yUe4zBeRp3TZB3XLLPcA0D6GlnByaa+ABPMvBDtbUkL4rp1BeR2jJjkckTCH6RnG6lNFaJNfmt28cMJknXbjrjziXvuYqVgQlZzsrAeQ5QM7uI/sUoVuv+cAMXHv7owkrq7WXYy/OwjKHUa589FMLq2KfvsAlXycpkTY2VkHXG4Li6+Le6ykdxhBGDVJ3E878G9M9QBenw8+esZ++Kr0m4R+SM1gr2G2EcVh8zJEd0PiODjhFPeRzn6o7GuxXMtEEDBOk7zzLS6m/1CM8wz0eqdmRs8Udk7d5TdknvLouJ8CVC8IMtXq7MLutXfgsEsGvw9w4TtdCjWc7X8vuETmYkwQLv8CMP1zTM3/N+xkF7mOYyQpqrWbPmEFlEPK99w/ny87kWTD7EOsQ/OTKBfapehkdg+5tzlMpTAcjQ/gjkAXZ7DdbY3sm20VzmUYMw=;1oqXaqoEdqsjYkGdffLG1g=="
 ---

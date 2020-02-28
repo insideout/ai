@@ -31,6 +31,21 @@ related:
       - url: "https://dailybruin.com/images/2020/02/facialrecognitiongraphic.png"
         width: 1553
         height: 2656
+  - title: "WYWS: First Quebec case of COVID-19, Habs lose, facial-recognition hack, Thunberg challenges world leaders"
+    excerpt: "“I have no idea,” coach Claude Julien said when asked after the game why his team keeps blowing two-goal leads. Entire client list hacked in data breach at facial-recognition startup: Clearview AI — the start-up company that compiles billions of images for its facial recognition software and whose technology Toronto Police were testing in ..."
+    publishedDateTime: 2020-02-28T13:23:00Z
+    webUrl: "https://montrealgazette.com/news/wyws-first-quebec-case-of-covid-19-habs-lose-facial-recognition-hack-thunberg-challenges-world-leaders"
+    ampWebUrl: "https://montrealgazette.com/news/wyws-first-quebec-case-of-covid-19-habs-lose-facial-recognition-hack-thunberg-challenges-world-leaders/amp"
+    cdnAmpWebUrl: "https://montrealgazette-com.cdn.ampproject.org/c/s/montrealgazette.com/news/wyws-first-quebec-case-of-covid-19-habs-lose-facial-recognition-hack-thunberg-challenges-world-leaders/amp"
+    type: article
+    provider:
+      name: Montreal News
+      domain: montrealgazette.com
+    quality: 26
+    images:
+      - url: "https://postmediamontrealgazette2.files.wordpress.com/2020/02/0211-spt-habs-coyotes-22.jpg"
+        width: 1000
+        height: 750
 
 secured: "vAPcb1kkARVw4XXSsxCDiicQJd519HWGMC/N3qAABp/XniuwqjF0ZwezkqkB2tBlpWhcad9t7jFQYsgq9xnbUVwWlfVCDquNLZcdf0/0tqVfitvdqjI/RZQU88L5dvbVeWZtNKiHBehUx0n+rjech5m8mZ4f936zk1gNAY6Y1E2nKaURgcBNEDS7KFS61BcpA4bN3iDdVODXbYuASxlHKuIdOH+tX3xLF8hJQTeW74Br4bCqXL2/IoQ3EBzK8lnvqEEac6kY4Ep5Cjrn204q8mqnq2C97hXKRfnxwhMvzh/fcuk/ScTyziakKvD/g2yP;W0EQfpnjiGtC/JvDxYhMjQ=="
 ---

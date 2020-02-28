@@ -5,7 +5,7 @@ excerpt: "One of the biggest headlines in AI research for 2019 was the unveiling
 publishedDateTime: 2020-02-13T15:27:00Z
 webUrl: "https://www.gamasutra.com/blogs/TommyThompson/20200213/358051/How_AlphaStar_Became_a_StarCraft_Grandmaster.php"
 type: article
-quality: 24
+quality: 4
 heat: -1
 published: false
 
@@ -16,12 +16,6 @@ provider:
 topics:
   - AI
   - Google AI
-
-images:
-  - url: "https://aiandgames.com/wp-content/uploads/2020/02/VsMana.gif"
-    width: 800
-    height: 450
-    title: "How AlphaStar Became a StarCraft Grandmaster"
 
 related:
   - title: "DeepMind’s AlphaStar AI Crushes Pro ‘StarCraft’ Players"
@@ -38,6 +32,6 @@ related:
         width: 690
         height: 388
 
-secured: "S83PBeBdxY6AE4D6UKTAT6xyT2a2OMPO9WIr2Z3vODUe5wBPgrFX8YiHOKIVIwYCw1/vehtwg0NRI1RWrbQN2uK1LaWUl/ho/jjsZ3fDdAMEK0RnY2q7GChJwWA1MqR9NsTKPUY41A+9ycHS4kZw8bUpJDCzOB2dJRA0eAiIlrOmbJQlZCn/NJG8XYF2QYASH38YUvsh9rX0Y4/Sx316S+vJ7auA9lwjvu0P5arzvyiwmjBePCjxYj8DrEPq+6nmI8+HZgvggCO8bRoq+UBpdagy/rEdWjjnv1718vChj0f1eW0WvQGw7zagOg06J+Xm;UVeS/Mf3vxILS3qAhHx52g=="
+secured: "1d+ob+nmIK0+Xlahmn+7V9tQ0e/+T7tLiJW3O3++1IBO4SQlqwiSYiaNCY2WNQXxQcwAZc8xQGXargdPHYe7SkTXSMDX4nSw+LzR2aJBRF+T2VchL9i5SBnySwDbN7DTXSraSCLI0mISDuxyZ5P2wSJdr6nr/PVSCi02UDYsIix3CAT9ZeuI1v0kTnkSAto/x00yMpt7YbjRBqgd3ERdF4Hs6PSSvtzsSLkY8cXARqKK/Ul0DhIgO0Q3krHIpNp47pJmxujc1ARDUEjS7dla+LsZ1uYXwbGBRJHAfp6rBUjv7BK5Tsn+8DEcY2i8XBVW;cOW3cSSxe8m6UDtYFZgR4w=="
 ---
 

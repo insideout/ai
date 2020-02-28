@@ -33,7 +33,11 @@ related:
     provider:
       name: WFMZ-TV
       domain: wfmz.com
-    quality: 0
+    quality: 15
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
 
 secured: "eZuPD/HprlKNrvzGFEpxC4lDPBJuRiYKhdq538Bh4k4lUoMNy1IJPYCvHg7KPSbTNb0XP7PDBaBjXFeikWQhhh4sZ8AbXxRFumfss37Rn2zVDoNjApbkGk3tGYbWYx0vasq0qm1a0Bmh6K7X0n8pmWaThAs+Qw3H3LXj7WR9jJjQTH5Lb0BVsReI8Y6CsohoJ1OgksdkFM5PKCsMoosGYLsxX9SSg3KyPtaSSz/5U0ScTorOqBQRoTHi5E959lD9+62+uuZA9aZ/gUaf6JhswUdprCluczuuSBXYU/G/Xy/2wh0y2dfip5m36Z4SnQm7LA+Nxsko0y8/oGmoJUXYGzncgqHBIgSlBBtx9kBcPG1ocriFMHARue/3WS5ZOO4CRCueSlRkXGGl3DyiL/CbW9gpApZHdEJioxWWVUwA7dm1Ikfyc8sMVCLbV79ynuOIyArEOygCtKhihFxjjNAtcgEV7KP3yMYUd+EdxEU4VHo=;p/ZgDLKsZRFhGaOv9tozaA=="
 ---

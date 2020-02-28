@@ -400,6 +400,21 @@ related:
       - url: "https://edge.alluremedia.com.au/m/g/2020/02/police.jpg"
         width: 1200
         height: 675
+  - title: "More Than A Dozen Organizations From The Met Police To J.K. Rowling’s Foundation Have Tried Clearview AI’s Facial Recognition Tech"
+    excerpt: "The National Crime Agency and Metropolitan Police are among a number of leading organisations across the UK that have registered users with controversial facial recognition technology firm Clearview AI, according to documents reviewed by BuzzFeed News. The technology also had users at a number of other police forces, private investment firms ..."
+    publishedDateTime: 2020-02-28T13:56:00Z
+    webUrl: "https://www.buzzfeed.com/emilyashton/clearview-users-police-uk"
+    ampWebUrl: "https://www.buzzfeed.com/amphtml/emilyashton/clearview-users-police-uk"
+    cdnAmpWebUrl: "https://www-buzzfeed-com.cdn.ampproject.org/c/s/www.buzzfeed.com/amphtml/emilyashton/clearview-users-police-uk"
+    type: article
+    provider:
+      name: BuzzFeed
+      domain: buzzfeed.com
+    quality: 44
+    images:
+      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2020-02/28/11/asset/3667b48f388c/sub-buzz-161-1582887611-4.jpg?output-quality=auto&output-format=auto&downsize=640:*"
+        width: 640
+        height: 427
   - title: "GTA police chiefs say facial recognition needs more review — but cops should be able to use AI"
     excerpt: "The chiefs of two Greater Toronto Area police forces now slamming the brakes on the use of a contentious facial recognition tool admit the app should have undergone greater scrutiny before it was tested by their investigators. Clearview AI, a U.S.-based app providing an artificial intelligence-powered tool to law enforcement agencies ..."
     publishedDateTime: 2020-02-23T19:13:00Z
@@ -627,6 +642,15 @@ related:
       name: The Daily Telegraph
       domain: telegraph.co.uk
     quality: 18
+  - title: "Met police used controversial American facial recognition firm, data breach reveals"
+    excerpt: "Clearview AI’s database consists of billions of images, some illegally obtained by scraping social media databases. Above photo is not of Clearview AI but alternative facial recognition technology. (Photo: Getty) The Metropolitan Police have been found to be using the services of the controversial US-based facial recognition company Clearview AI."
+    publishedDateTime: 2020-02-28T12:54:00Z
+    webUrl: "https://metro.co.uk/2020/02/28/met-police-used-controversial-american-facial-recognition-firm-data-breach-reveals-12320552/"
+    type: article
+    provider:
+      name: Metro
+      domain: metro.co.uk
+    quality: 13
   - title: "Chief says police will not use face recognition until technology has been fully reviewed"
     excerpt: "WATERLOO REGION — Controversial facial recognition technology is not being used by local police and won't be until it is fully reviewed, said the police chief. Waterloo Regional Police Chief Bryan Larkin said he will be issuing an internal memo telling all officers that they are not to use face recognition apps in their investigations."
     publishedDateTime: 2020-02-20T04:31:00Z

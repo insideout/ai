@@ -78,6 +78,15 @@ related:
       name: CNET
       domain: cnet.com
     quality: 34
+  - title: "Here’s What You Can Really Expect From the Self-Driving Cars of the Future"
+    excerpt: "In just the last year, carmakers and autonomy start-ups that were once bullish on the prospects of fully self-driving cars have been quietly backpedaling their claims about what’s possible, and on what timeline. This waffling has to do, partially, with public perceptions, which vacillate wildly between excitement over every new demonstration ..."
+    publishedDateTime: 2020-02-28T12:07:00Z
+    webUrl: "https://robbreport.com/motors/cars/self-driving-cars-explainer-2901586/"
+    type: article
+    provider:
+      name: Robb Report
+      domain: robbreport.com
+    quality: 2
 
 secured: "5rj1rvQ8RyBym7K5JKk3Xo2aHzJqBD/5GfjGr4F4TzZiPZxfFkQGJaXUmT4ZywD/Q5/dXEK02FhmltmX3A20DS01wAkXDGj1I52myR7g+fCNYJGvjI7+Ej6uDLRzEWwiCOCARQDeM238UJ7kV2Agmhd6LPtXqptyE29542ZN6HsQHZOWPSnpGV8btjVEVCuC6b/xxUOZaY5RS4khmoSi8hI6y8elxyUkRNJ/D6I48VO+vyhJDQzSqD7QquA/wT0TkeVQlfNSP3Ti+YQbY0osFVkg6yFlxCBhR+CvADA0cfiIJPgoeWi8P8z47okQduey;b/XvgTe6WDFJo6LkfOzY+g=="
 ---

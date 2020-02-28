@@ -5,8 +5,8 @@ excerpt: "No single company can explore all of possible ways to use AI on their 
 publishedDateTime: 2020-02-13T03:10:00Z
 webUrl: "https://www.forbes.com/sites/henrychesbrough/2020/02/12/ibm-watson-and-the-value-of-open/"
 type: article
-quality: 69
-heat: 69
+quality: 49
+heat: 49
 published: false
 
 provider:
@@ -21,12 +21,6 @@ topics:
   - AI
   - IBM AI
 
-images:
-  - url: "https://thumbor.forbes.com/thumbor/600x315/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e448c1ea854780006b1230c%2F960x0.jpg"
-    width: 600
-    height: 315
-    title: "IBM Watson And The Value Of Open"
-
-secured: "czhDFq1mutKN4foYAKP8p30yi2Z+3w3xHBAIHoa5uuMO3r4e1uq6CVjhM1l3+PvnNBc4/66uKvv+Bw8hrZ1BNwNPe8UT3GJ5ObVxdAN2j85ASEdFGmL5r6DCDZ1ymE7kS/hll4Pth32QtZfCorULWMi+9RiqgGYyxmUAvBMDIJ9Uhwzu1hQpfBIva2lhIWo8sEbciB5qpThtOCNYQG1AeoPJyVUYSmiru+3+IPsgPeqcjuV+bKMsacOs+cC5MuncfyeiKnymjxu4bRAAWA1ocAdOl2SbitDpdx3JWYR7y+lNHGqYtfnLyVuRT9kyjZVL;AiNpOkZeltPjhkMArY82Rw=="
+secured: "lmvg6x9bbj6V44TdO1ZnuWT7LJC9ZoEZrYL2JznqcEJIf6h5BxskIyKrpaZiFnRqNDk9XkAvZOMx+SeGMt8ItWco9E0Cqz8yovMlZneL6pzY54urZNVlVeX2qZrphMISp2naK0lbw/KlZRTqRj8MmQye2HsIp/5IAwQgI+miWPUcSQeTA23srl0yZkNxuUnT0qCDkwWTw6oGkIA/Y5lB2FSbiGNeMaNH2wBDtGv6h5iFTJjk7O3lOqwaCUsjJnlKzIMpS7fPODdhiomWToQuTQtkT0FNX+w60zCgFBhdGa3torrQFWNTFq8oOf0ddWp89m17SUHUgI9qFmpn3+K7a0DM9MWckZ52pvHaRtZjEiwORiISQFbXFtNtYGD4C9cRqBwW+iDPU7KCR/y4jwDMmbEz52FdWzZpda3UxfKMNo8ARJFbqV1j9oEEA+TkdXtCFnoEnHjmmxUELIs2/nGGKZr+SPHTKxfjp6tOe3ug4VU=;UhYqEZF3YzkP1svh7yUeYg=="
 ---
 

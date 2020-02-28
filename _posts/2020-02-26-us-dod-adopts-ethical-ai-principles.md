@@ -48,6 +48,21 @@ related:
       - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/Untitled-design-32-796x417.png"
         width: 796
         height: 417
+  - title: "Pope to endorse principles on AI ethics with Microsoft, IBM"
+    excerpt: "Vatican officials on Friday planned to release principles promoting the ethical use of artificial intelligence (AI), with the backing of Microsoft Corp ( MSFT.O) and International Business Machines Corp ( IBM."
+    publishedDateTime: 2020-02-28T08:28:00Z
+    webUrl: "https://www.reuters.com/article/us-vatican-artificial-intelligence-idUSKCN20M0Z1"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN20M0Z1"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN20M0Z1"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 104
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20200228&t=2&i=1496434448&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG1R0LA"
+        width: 872
+        height: 545
   - title: "DoD Adopts AI Ethics Principles, But How Will They Be Enforced?"
     excerpt: "Jack Shanahan, told reporters this afternoon. “The real hard part of this is taking the AI delivery pipeline” – from the initial algorithms and data sets, field testing, and training human users, to holding commanders accountable for lethal errors – “and understanding where those ethics principles need to be applied.” “They’re ..."
     publishedDateTime: 2020-02-24T22:37:00Z
@@ -87,19 +102,6 @@ related:
       - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/AI_Automation/AIengineers.png"
         width: 760
         height: 368
-  - title: "Pope to endorse principles on AI ethics with Microsoft, IBM"
-    excerpt: "The \"Rome Call for AI Ethics\" asserts that the technology should respect privacy, work reliably and without bias, consider \"the needs of all human beings\" and operate transparently - an area of ongoing research because AI systems' decisions are often inscrutable. The document reflects growing interest among companies and institutions to set ..."
-    publishedDateTime: 2020-02-28T08:04:00Z
-    webUrl: "https://wsau.com/news/articles/2020/feb/28/pope-to-endorse-principles-on-ai-ethics-with-microsoft-ibm/989350/?refer-section=technology"
-    type: article
-    provider:
-      name: WSAY
-      domain: wsau.com
-    quality: 39
-    images:
-      - url: "https://radiocms-images.us1.eldarioncloud.com/resize/1200/https://storage.googleapis.com/media.mwcradio.com/mimesis/2020-02/28/2020-02-28T080413Z_1_LYNXNPEG1R0LA_RTROPTP_3_POPE-GENERALAUDIENCE.JPG?upscale=False"
-        width: 1200
-        height: 750
 
 secured: "VQiMtT3o3T95o3BlOKAKDLvhAy0oJxsnv2l4pUPndtKbL9CKEHJST0XQiVgxmDMuW1dTk5ZVzWMWSPmk6Qumnt5AQongYRnK9/2m/t4qks8uREwXVEQ2kdPOTfAr8/LLK5jK5VtnwEPMIFnEdoMQhfba8r4201dKM8EAqDwCvQMLI0ZNtaGwFayhgNqFqTfj83VOBWVRlByFD4BMcH0h+teUJtL+BsoQH+vJJy2N9jM2rjRskQ+NIimt7awjX1hoV4jG58BEqishrbZwuGzMlKObxRBLW7pviVvM4FmveRDFwJbp5w+57jAO5C0FxfHaoOsAcxZ7lgt6ZXIqYMM6IaOs3+/3q8hZE1LpoF5MO41cj8coDLtuUzOX9ifP+/uEShygJD7ije8LtLBQNAPtfaC1q+pn2OO02Zld0neLqdcqYBhoZH9t9oTOyc+iUMclOUv9z91ChBfjvXWFNDONIsEA7ekodd1yjsWgiclcroo=;valEu7nKZZX3z6uvRakGGg=="
 ---

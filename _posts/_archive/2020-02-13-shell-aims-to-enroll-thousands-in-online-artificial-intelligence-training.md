@@ -8,7 +8,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/shell-enrolls-thousands-in-online-a
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/shell-enrolls-thousands-in-online-artificial-intelligence-training-11581622566"
 type: article
 quality: 188
-heat: 208
+heat: 198
 published: true
 
 provider:
@@ -30,21 +30,6 @@ images:
     title: "Shell Aims to Enroll Thousands in Online Artificial-Intelligence Training"
 
 related:
-  - title: "Shell Enrolls Thousands in Online Artificial-Intelligence Training"
-    excerpt: "The oil company is expanding an online program that teaches its employees artificial-intelligence skills, part of an effort to cut costs, improve business processes and generate revenue."
-    publishedDateTime: 2020-02-13T19:39:00Z
-    webUrl: "https://www.wsj.com/articles/shell-enrolls-thousands-in-online-artificial-intelligence-training-11581622566"
-    ampWebUrl: "https://www.wsj.com/amp/articles/shell-enrolls-thousands-in-online-artificial-intelligence-training-11581622566"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/shell-enrolls-thousands-in-online-artificial-intelligence-training-11581622566"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 89
-    images:
-      - url: "https://images.wsj.net/im-154203/social"
-        width: 1280
-        height: 640
   - title: "EU pitches artificial-intelligence rules"
     excerpt: "The EU's report said clear rules are needed to address \"high-risk AI systems,\" such as those in recruitment, health care, law enforcement or transport, which should be \"transparent, traceable and guarantee human oversight.\" Other artificial intelligence systems could come with labels certifying that they are in line with EU standards."
     publishedDateTime: 2020-02-20T07:48:00Z

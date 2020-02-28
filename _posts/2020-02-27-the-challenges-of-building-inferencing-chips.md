@@ -24,28 +24,21 @@ images:
     title: "The Challenges Of Building Inferencing Chips"
 
 related:
-  - title: "Classifying images using TensorFlow and faced challenges — a case study"
-    excerpt: "We decided to use Deep Learning with TensorFlow by setting up a Convolutional Neural Network (CNN) to classify these images. It was necessary to have a large data set with training data for each page. Instead of taking many different pictures (which would have been very time consuming), we decided to make a video of each page and then take ..."
-    publishedDateTime: 2020-02-26T22:03:00Z
-    webUrl: "https://medium.com/@simon.huber/classifying-images-using-tensorflow-and-faced-challenges-a-case-study-f283c039d720"
+  - title: "Forget Chess—the Real Challenge Is Teaching AI to Play D&D"
+    excerpt: "This kind of spontaneous yet coherent storytelling is extremely difficult for artificial intelligence, even as AI has mastered more constrained board games such as chess and Go. The best text-generating AI programs too often produce confused and disjointed prose. So some researchers view spontaneous storytelling as a good test of progress ..."
+    publishedDateTime: 2020-02-28T13:00:00Z
+    webUrl: "https://www.wired.com/story/forget-chess-real-challenge-teaching-ai-play-dandd/"
+    ampWebUrl: "https://www.wired.com/story/forget-chess-real-challenge-teaching-ai-play-dandd/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/forget-chess-real-challenge-teaching-ai-play-dandd/amp"
     type: article
     provider:
-      name: Medium
-      domain: medium.com
-    quality: 69
+      name: Wired
+      domain: wired.com
+    quality: 89
     images:
-      - url: "https://miro.medium.com/freeze/max/400/1*DB25tGjRiWmvzRODq9TEOg.gif"
-        width: 400
-        height: 224
-  - title: "SimCorp launches new machine learning initiative with start-up, Alkymi, targeting institutional investment challenges"
-    excerpt: "Press release SimCorp, a leading provider of investment management solutions and services to the global financial services industry, today announces"
-    publishedDateTime: 2020-02-26T11:00:00Z
-    webUrl: "https://www.globenewswire.com/news-release/2020/02/26/1990761/0/en/SimCorp-launches-new-machine-learning-initiative-with-start-up-Alkymi-targeting-institutional-investment-challenges.html"
-    type: article
-    provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 0
+      - url: "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg"
+        width: 800
+        height: 450
 
 secured: "1V2O3XZepTdSbPfRZLP9EPuwviPfYCDcn5X4LX5V/PALlXiXVr4JLjdp9RfF8O6Uy/qPtBQzFQpxmcEfllaKM8vX2l7a/2nkfEllma77AFLoqrRF1s5XmTBmRYUW5ljKaU0ShhDXYDKFFv/x0tTvMnciYc62kIWbNPFOYEJt8gJBjnUVLhPrT5Hb/VPsnDnGcrNMw3XYAD+WxaNreAaPSdWiT0ovui+da7rhVkyefHwY/EhY0Htvta/S3IBQen4Ty9p07q8y3NBBA4+yNu3RigDpskDV1KdsCz1myxaFHZypCUtVMmk/t3MchRTjZR+u;2qZKyFblVQIZxS/pbJg/xw=="
 ---

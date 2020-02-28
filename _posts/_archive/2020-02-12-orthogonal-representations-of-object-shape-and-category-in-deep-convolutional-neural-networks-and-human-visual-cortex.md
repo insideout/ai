@@ -5,8 +5,8 @@ excerpt: "Deep Convolutional Neural Networks (CNNs) are gaining traction as the 
 publishedDateTime: 2020-02-12T10:21:00Z
 webUrl: "https://www.nature.com/articles/s41598-020-59175-0"
 type: article
-quality: 1
-heat: 1
+quality: 0
+heat: 0
 published: false
 
 provider:
@@ -17,12 +17,6 @@ topics:
   - AI
   - Computer Vision
 
-images:
-  - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-59175-0/MediaObjects/41598_2020_59175_Fig1_HTML.png"
-    width: 685
-    height: 626
-    title: "Orthogonal Representations of Object Shape and Category in Deep Convolutional Neural Networks and Human Visual Cortex"
-
-secured: "0AYQ5M3HEbSlEeixzzxjG2+u/d053gtvZB8w03+JNUOeoyjtD34/X2mwD1P1bBG1lxdsYxQ9J/ZXfY4/S8c4UbpTYl6tKX2D4AV6tNK0Dts/V8uLfmZY8JEqaraSRdlm/dD16wbyrLM4xY5+zJlWQ8T+m/+o6/7aoITpzm5UzOjT/Me6jGF7MIlefEyf9/WcX9hHYLzflpU6v+Sa22DcsA2aK0E6uA033wNsgOH3sjc1ZsOERKyQEXiEz5uhmi3BDUi3U9Zz5QlX7kvOeJPc6j8ixb6ImIWb66UuyRJlP8j2GD+Kn10NYVLT6Id0hs17;D0mRch9zOqCM4DYZaKT0Sg=="
+secured: "1S9lzyEicrRn9sT8LJBg1Tua3TXkdHchpptvGWi167I4amdMwb2EpA6RWdQfUoeS9xFU4806UHEqeJJCDDM7qND97R4tNrGSFWKpNjc5XkNocX2FxNmpJ+ohd0NsjmCyFhuy4hrMwfxhJKQaTdYcEf+QAulHrMqdAywxHy2zFabBXvjytY+SIpA+8M26eQUZW3CX2IdFQBt5ZCL25+DEkHg8DffR2dtRn5eO5Vu8xmCcU7k/QHiq94JjMBGKT1IOBRzOIFZ6/2g2Fj4S1x9lzfasVEHdyrtfbRGsyXh3Hhh7Gr7Z3/kymylEtODZ9EiLVph8Zy8Nl2gko3tn1egnG04/UGl++FDoO0EHhu7oJsE0Yzj6pQ69D/nFvckH4gPQQJBQ6Gifbjxx2g3nknYHaHhdCvbA8IKKdhwuSggxftx2yW6mQtSCep7AUbysdVXQiMG3ny4pm+qdIt8Qhy8FyywB2sEv5Oj7Bb65wfRSmxA=;hkBYQgPvlHMk5orzw+xQRw=="
 ---
 

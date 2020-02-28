@@ -537,21 +537,6 @@ related:
       - url: "https://d2sh4fq2xsdeg9.cloudfront.net/contentAsset/image/427069ba-8376-4828-b590-7e9e2c558109/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100"
         width: 1100
         height: 828
-  - title: "Because facial recognition makes students and faculty less safe, 40+ rights groups call on universities to ban technology"
-    excerpt: "“Facial recognition technology isn’t safe,” reads the letter. “It’s biased and is more likely to misidentify students of color, which can result in traumatic interactions with law enforcement, loss of class time, disciplinary action, and potentially a criminal record… Facial recognition is invasive, enabling anyone with access to ..."
-    publishedDateTime: 2020-02-13T19:29:00Z
-    webUrl: "https://www.rawstory.com/2020/02/because-facial-recognition-makes-students-and-faculty-less-safe-40-rights-groups-call-on-universities-to-ban-technology/"
-    ampWebUrl: "https://www.rawstory.com/2020/02/because-facial-recognition-makes-students-and-faculty-less-safe-40-rights-groups-call-on-universities-to-ban-technology/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/02/because-facial-recognition-makes-students-and-faculty-less-safe-40-rights-groups-call-on-universities-to-ban-technology/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 34
-    images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2019/07/Facial-Recognition-Technology.jpg"
-        width: 625
-        height: 305
   - title: "Sens. Merkley, Booker Introduce Moratorium on Government use of Facial Recognition"
     excerpt: "Sens. Jeff Merkley, D-Ore., and Cory Booker, D-N.J., introduced the Ethical Use of Facial Recognition Act on Feb. 12 which would institute a moratorium on all Federal use of facial recognition technology until Congress passes legislation outlining “specific uses for the data” collected. “Facial recognition technology is both a powerful an ..."
     publishedDateTime: 2020-02-19T14:38:00Z
