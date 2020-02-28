@@ -26,93 +26,21 @@ images:
     title: "New publicly-funded self-driving bus is coming to Fairfax"
 
 related:
-  - title: "Ex-Waymo driver accused of causing self-driving van to crash"
-    excerpt: "PHOENIX — Ex-Waymo driver accused of causing self-driving van to crash Tempe police said Raymond Tang, 31, was booked into jail Wednesday night and is facing felony charges of aggravated assault and criminal damage,"
-    publishedDateTime: 2020-02-14T04:11:00Z
-    webUrl: "https://www.marketwatch.com/story/ex-waymo-driver-accused-of-causing-self-driving-van-to-crash-2020-02-13"
-    ampWebUrl: "https://www.marketwatch.com/amp/story/guid/0A09C846-4EDF-11EA-833C-A3261B110A22"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/guid/0A09C846-4EDF-11EA-833C-A3261B110A22"
+  - title: "Hypodermic Needles Left In Self-Driving Cars Is An Ominous Harbinger Of What’s To Come"
+    excerpt: "Reckless passengers are leaving hypodermic needles in self-driving cars, it's a problem that's going to get worse."
+    publishedDateTime: 2020-02-14T14:04:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/02/12/hypodermic-needles-leftover-in-ai-self-driving-cars-by-despicable-passengers-is-an-ominous-harbinger-of-whats-yet-to-come/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/02/12/hypodermic-needles-leftover-in-ai-self-driving-cars-by-despicable-passengers-is-an-ominous-harbinger-of-whats-yet-to-come/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/02/12/hypodermic-needles-leftover-in-ai-self-driving-cars-by-despicable-passengers-is-an-ominous-harbinger-of-whats-yet-to-come/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 89
+      name: Forbes
+      domain: forbes.com
+    quality: 66
     images:
-      - url: "https://s.marketwatch.com/public/resources/images/MW-HD183_waymo_ZH_20190201153208.jpg"
-        width: 890
-        height: 501
-  - title: "Man Arrested for Brake-Checking Waymo Self-Driving Van, Causing Crash"
-    excerpt: "Raymond Tang was a former Waymo van operator who worked for a contractor of the self-driving-vehicle company. He was arrested on charges of intentionally causing one to crash on January 30. Since his termination, according to Waymo, he is accused of ..."
-    publishedDateTime: 2020-02-14T06:43:00Z
-    webUrl: "https://www.caranddriver.com/news/a30929221/waymo-self-driving-crash-arrest/"
-    ampWebUrl: "https://www.caranddriver.com/news/amp30929221/waymo-self-driving-crash-arrest/"
-    cdnAmpWebUrl: "https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp30929221/waymo-self-driving-crash-arrest/"
-    type: article
-    provider:
-      name: Car and Driver
-      domain: caranddriver.com
-    quality: 59
-    images:
-      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/waymo-minivan-4-1532617122.jpg?crop=0.574xw:0.469xh;0.229xw,0.526xh&resize=1200:*"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F664664484%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D7000%26cropY1%3D166%26cropY2%3D4831"
         width: 1200
-        height: 599
-  - title: "Self-driving Tesla tricked into speeding using terrifying hack"
-    excerpt: "Security researchers have discovered a way to fool Tesla electric cars into speeding using a small strip of black tape. McAfee researchers found that placing a two-inch section of black electric tape over part of a 35mph speed limit sign tricked a Tesla car into reading the sign as 85mph. The car, which was operating in the Autopilot mode, then ..."
-    publishedDateTime: 2020-02-19T10:55:00Z
-    webUrl: "https://www.telegraph.co.uk/technology/2020/02/19/self-driving-tesla-tricked-speeding-using-terrifying-hack/"
-    ampWebUrl: "https://www.telegraph.co.uk/technology/2020/02/19/self-driving-tesla-tricked-speeding-using-terrifying-hack/amp/"
-    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/02/19/self-driving-tesla-tricked-speeding-using-terrifying-hack/amp/"
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 59
-    images:
-      - url: "https://i.ytimg.com/vi/4uGV_fRj0UA/maxresdefault.jpg"
-        width: 1280
-        height: 720
-  - title: "‘Disgruntled’ ex-Waymo driver accused of deliberately causing crash with self-driving vehicle"
-    excerpt: "A man described as a disgruntled former Waymo driver has been arrested on suspicion of deliberately crashing a passenger car into one of the company’s vans with self-driving capabilities"
-    publishedDateTime: 2020-02-14T14:40:00Z
-    webUrl: "https://www.mercurynews.com/2020/02/14/ex-waymo-driver-accused-of-deliberately-causing-crash/"
-    ampWebUrl: "https://www.mercurynews.com/2020/02/14/ex-waymo-driver-accused-of-deliberately-causing-crash/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/02/14/ex-waymo-driver-accused-of-deliberately-causing-crash/amp/"
-    type: article
-    provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 48
-    images:
-      - url: "https://i1.wp.com/www.mercurynews.com/wp-content/uploads/2020/02/Self-Driving_Vehicle-Collision_Arrest_65344.jpg?fit=620%2C9999px&ssl=1"
-        width: 620
-        height: 301
-  - title: "Ex-Waymo Driver Charged In Self-Driving Van Crash"
-    excerpt: "A former Waymo employee has been arrested and is facing felony charged of aggravated assault and criminal damage following damage caused to a Waymo self-driving vehicle."
-    publishedDateTime: 2020-02-17T22:25:00Z
-    webUrl: "https://www.mediapost.com/publications/article/347145/ex-waymo-driver-charged-in-self-driving-van-crash.html"
-    type: article
-    provider:
-      name: MediaPost
-      domain: mediapost.com
-    quality: 19
-  - title: "Insight: How to make an ethical self-driving car"
-    excerpt: "Not too long ago, tech enthusiasts were telling us that by 2020, we’d see self-driving cars hit the mainstream, with some 10 million on the roads. That turned out to be a wild overestimation. The actual number of vehicles in testing is thousands of times smaller, and they’re still driving mostly in controlled conditions. Companies have also ..."
-    publishedDateTime: 2020-02-16T09:31:00Z
-    webUrl: "https://www.pressherald.com/2020/02/16/insight-how-to-make-an-ethical-self-driving-car/"
-    type: article
-    provider:
-      name: Portland Press Herald
-      domain: pressherald.com
-    quality: 4
-  - title: "City Starts Self-Driving Shuttle Service"
-    excerpt: "Smart Columbus has started daily operations of a public, self-driving shuttle in a residential area. The vehicle is operating in the South Linden neighborhood or Columbus, Ohio."
-    publishedDateTime: 2020-02-17T22:17:00Z
-    webUrl: "https://www.mediapost.com/publications/article/347148/city-starts-self-driving-shuttle-service.html"
-    type: article
-    provider:
-      name: MediaPost
-      domain: mediapost.com
-    quality: 4
+        height: 800
 
 secured: "n7lI+FDpTyu+oUHmP3qQfNkZm74ML6H5COZBkZCjR8tSxGtAndRIUkybAug6gRtSIGWA+wZT5wbYTX+HbuZ8MJ5LCHA9bFM4YqBTxVE26+/iqpe4w2kTL/RxyIRVYBpy9zn5ARUwCKCBBEbov2kF4riIYuKVRYKCzjuS4TOCGYe5st3ctZwMBgVK3ei/dZ9/R4Y2qosSZbWTnooncFmLZ3sGGZXHsiOYOZ/mpt3yrZ30ODurcWFrW9wFMDBEysF9mW8UwFPa7I8oxpFrOIZLGCpkqkG2GA+/W8r8k3JY9D8REW3mTUjlEP/uAy04YtW011FIHcr9itCPlxNBX2fq/z28J4XlOzUjTwivyqtHUKtPtdNpg9btsTLIZalgcMfEdCjzA7E1nSRc/tSbhmta2N0OD+3v8iHrOli5nNWq/4Cc0ofyEQ0wNUGy+8pvnmuWQLgOxaP2CjXhLNO5jY8NKbSSwR/4QEgH/AXU2MIm+C4=;8xihD0bsz0kbjseoSxUWTQ=="
 ---

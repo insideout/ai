@@ -53,19 +53,6 @@ related:
       - url: "https://miro.medium.com/max/640/0*d1bwU1gc_zUElZ8l.jpg"
         width: 640
         height: 300
-  - title: "7 Popular Data Science Presentations On SlideShare"
-    excerpt: "Moving Machine Learning Models To Production With Tensorflow Extended Moving Your Machine Learning Models to Production with TensorFlow Extended from Jonathan Mugan In Moving Machine Learning To Production With Tensorflow Extended, one can learn how to move their ML models to production with TensorFlow Extended (TFX) — an end-to-end platform ..."
-    publishedDateTime: 2020-02-14T04:36:00Z
-    webUrl: "https://analyticsindiamag.com/7-popular-data-science-presentations-on-slideshare/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 24
-    images:
-      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/02/Data-Science-Presentation-1024x731.jpg"
-        width: 1024
-        height: 731
   - title: "The present and future of science intersect in Seattle"
     excerpt: "He went on to talk about how artificial intelligence and gene therapy can also give us key insights into new diseases. The Fred Hutch News Service team also took advantage of the meeting being nearby and attended. Here are their observations and insights from AAAS. During the AAAS conference, infectious disease experts signaled their ..."
     publishedDateTime: 2020-02-19T21:45:00Z

@@ -25,6 +25,21 @@ images:
     height: 1041
     title: "Bees are being mapped to help develop driverless cars and drones by scientists glueing tiny antennas to their heads"
 
+related:
+  - title: "Self-driving cars could harness the homing properties of pinsized bee brains"
+    excerpt: "Bee brains could hold the secrets to future autonomous technology (Photo: Yuri KADOBNOV / AFP) (Photo credit should read YURI KADOBNOV/AFP via Getty Images) Honeybee brains may only be the size of a pinhead but they can travel for five miles and still manage to find their way home. Now, scientists are looking to mimic the working of that ..."
+    publishedDateTime: 2020-02-17T06:25:00Z
+    webUrl: "https://inews.co.uk/news/science/drones-harness-secret-homing-properties-pinsized-bee-brains-1742554"
+    type: article
+    provider:
+      name: i
+      domain: inews.co.uk
+    quality: 36
+    images:
+      - url: "https://inews.co.uk/images-i.jpimedia.uk/imagefetch/https://inews.co.uk/wp-content/uploads/2020/02/GettyImages-957647792.jpg"
+        width: 1024
+        height: 722
+
 secured: "t+zJC6Zl7BhD9NWFe8/xY62abnS/jzXI0qqffXez3WMDmz4TQwfU2r1405sfqBPqNeL6olh2tTloGyjq4j38q30pQTnbYwybzhIkN+44/Lzpjty1C6NKsYgiH33lGrMsLTDUQricg2I+u+O9Y4HW8pvG7IhPKXGUTbWEoTTXDd4e4gq1diNtXLpD4wGl5W0Oxw1olxeLC8PaN6P0K6SxaPMM2swW51EfUtHFqOddb/JMDyKKxKEuCRgotuP/L4lV/Mw9/v6LrrCmZ46NnyZCSC/6SLbTYDxOgcu0Gqww6RulyqoHsvfSnXwlgMzGo8jN+xVILcuoPcz8l9VoYfV00mLQHvMcOFEIICERGej0C9AB79lz7JQS0RvTAKSFT4oEl0IRRSWxtxllafJWaWwHhjWjDDsvccxP9tfSnw6urOa0C6K3kfmRsz28/uIAGNMHOEipcumygxIMeaIDiJeS0pMHfn+uICQT+/fiPIRi/rg=;LIOHFF2rHAinoufaIt/+Vw=="
 ---
 

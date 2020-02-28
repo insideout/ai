@@ -41,32 +41,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Natural Language Processing Market Key Drivers, Industry Share and Future Growth Demand Analysis by 2026"
-    excerpt: "Top Players in Natural Language Processing Market are 3M Company, Adobe Systems Inc., Amazon Web Services Inc., Apple Inc., Google (Alphabet Inc.), Hewlett-Packard Enterprise Company, Intel Corporation,"
-    publishedDateTime: 2020-02-25T11:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-key-drivers-industry-share-and-future-growth-demand-analysis-by-2026-2020-02-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Natural Language Processing Market Comprehensive Insight by Growth Rate, Global Trends, Industry Status, Key Players Forecast till 2026"
-    excerpt: "Top Players in Natural Language Processing Market are 3M Company, Adobe Systems Inc., Amazon Web Services Inc., Apple Inc., Google (Alphabet Inc.), Hewlett-Packard Enterprise Company, Intel Corporation,"
-    publishedDateTime: 2020-02-27T07:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-comprehensive-insight-by-growth-rate-global-trends-industry-status-key-players-forecast-till-2026-2020-02-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
 
 secured: "ff2+vg/7+E062wlLrd6qSz2iwjhAOhorikQ1WDHaA/76D5Cusic0s6X1L+aXeZWQUv5rnE8bbZ5SydUBDIck228Ds6+EeoP5QcwgZoGbRHzL7Fo/j/+RHRccyxPJfN7erJT/Co5cV2ryyntmhLpQoa0YzXhgilq41xmRrNFlJNuAO+RkAMeajiP1w/Pr9FwJ4wVysVTSGH/g3XrW7lwl5y8OIP7C3GI9uBywfqMeIIhx9hcoqbWOMjKRqXqMBhNdnU9hQYdMjTW9WB78lj6GdiNdCVaEbswYemYNeWogAQD1a+1YDq2Sg3GwobMLiZkj;F48OamZ2+J9UD/GUVpJkgg=="
 ---

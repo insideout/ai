@@ -60,6 +60,21 @@ related:
       - url: "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png"
         width: 1200
         height: 630
+  - title: "Clearview AI: Why This Facial Recognition Firm Matters, And What Must Come Next"
+    excerpt: "Just when you thought the Clearview AI nightmare couldn’t get any worse, the shady facial recognition firm was breached. As the firm’s customer list emerges, here’s why this all matters, and what needs to come next."
+    publishedDateTime: 2020-02-28T21:30:00Z
+    webUrl: "https://www.forbes.com/sites/kateoflahertyuk/2020/02/28/the-clearview-ai-nightmare-just-got-worse-heres-why-it-matters-and-what-must-come-next/"
+    ampWebUrl: "https://www.forbes.com/sites/kateoflahertyuk/2020/02/28/the-clearview-ai-nightmare-just-got-worse-heres-why-it-matters-and-what-must-come-next/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kateoflahertyuk/2020/02/28/the-clearview-ai-nightmare-just-got-worse-heres-why-it-matters-and-what-must-come-next/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 100
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1199766600%2F0x0.jpg"
+        width: 1200
+        height: 784
   - title: "Clearview AI facial recognition customers reportedly include DOJ, FBI, ICE, Macy's"
     excerpt: "Retail companies as well as law enforcement agencies have used the service, says a report. Customers of controversial facial recognition app Clearview AI include not only law enforcement agencies like Immigration and Customs Enforcement and the Department of Justice,"
     publishedDateTime: 2020-02-28T17:41:00Z

@@ -2,18 +2,18 @@
 category: news
 title: "IBM, Microsoft sign on with Pope Francis to fight AI bias and misuse of facial recognition"
 excerpt: "Such principles were outlined in a document titled “Rome Call For AI Ethics,” and promotes a regulatory approach around what is being called an “algor-ethical” vision of design, with transparency, inclusion, responsibility, impartiality, reliability, security and privacy all factored in. “AI systems must be conceived, designed and ..."
-publishedDateTime: 2020-02-28T18:21:00Z
-webUrl: "https://www.usatoday.com/story/tech/2020/02/28/pope-francis-ibm-microsoft-join-forces-face-recognition-ai-ethics/4903273002/"
-ampWebUrl: "https://amp.usatoday.com/amp/4903273002"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4903273002"
+publishedDateTime: 2020-02-28T18:28:00Z
+webUrl: "https://www.jsonline.com/story/tech/2020/02/28/pope-francis-ibm-microsoft-join-forces-face-recognition-ai-ethics/4903273002/"
+ampWebUrl: "https://amp.jsonline.com/amp/4903273002"
+cdnAmpWebUrl: "https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/4903273002"
 type: article
 quality: 49
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: Milwaukee Journal Sentinel
+  domain: jsonline.com
 
 topics:
   - AI
@@ -94,6 +94,6 @@ related:
         width: 620
         height: 464
 
-secured: "K6JvMjyJRkWozuZZcvxcaFc209Td7BU0bgI+6JMyoOVtuBS4OzsxrXBrTHC/kHhN3h/OFWSvAGJPGIQaIwHVaJjSSwjR8mAOlyZVLQAmY0JEI+1wY6IHX5rxAgdcbeYD/X74kFB068+l1mv7hyLvC4/cKhfYoJjYQ2lwkdNiI5PD1W5duQWNZmZPT2zsF10ayLTS6eejEJGZVC0zW37j0Xl2TebZyk0FvwZ0oKDeCu+gIj4D0okrNJS6ZqkrI/vDHpGskPA12rpje96QlotwbzUaCfAM+Fxhm3xE2X1g15veOAeA78uZU9CmhgIGBTXm9s7esjYKkmj2pFs/A9de1M+6pRX0w7M7I2wJ9KLU9cH1j5DDGUtPvpD929iD4dpcerjsW/i9bRKlr2dC6r1+ZVBdQVD8YdsQllNaqRNMhY4CW+nXdWUsat921Ig2Rftq6aNiH++B28CwYEZAHgncDIj4nQCKw67dtjqLFs5hunM=;3K7y3iUeGA/ybaPRKxYC1Q=="
+secured: "kUcwJ80JmWx2SrUg4MjaWz9gYVwK+8roRogzU0gNkksnOKgYE47xyQSC3+rHwayy8WhopCuSsoOaEATkGcBV9TAlgWl3L5AiMvFv7bpYjHmJCkCP/bact3nKaoEYGfJXB5SPX6iqfJflcg+aPegbobcuyDVQVvurgs4HFNGDcgcqA+V/JkKh5QEv1GbQ4SYuvG2ZwX6O0Tipw2Cf9+fLxpvUL1+uEcbjQemSEf+si9xtuHqUE+DWnnfkeGShkWb8HnKyKorKzle3e3pA5blT4+kJEMbybkx5gFUe4RVzZCEpy6nPonpWA4tZ1Z09BqHC;7icRtygn1qrN7hSQsHZTvA=="
 ---
 

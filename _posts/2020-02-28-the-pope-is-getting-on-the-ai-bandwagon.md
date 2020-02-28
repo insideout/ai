@@ -71,14 +71,14 @@ related:
         height: 270
   - title: "IBM, Microsoft sign on with Pope Francis to fight AI bias and misuse of facial recognition"
     excerpt: "Such principles were outlined in a document titled “Rome Call For AI Ethics,” and promotes a regulatory approach around what is being called an “algor-ethical” vision of design, with transparency, inclusion, responsibility, impartiality, reliability, security and privacy all factored in. “AI systems must be conceived, designed and ..."
-    publishedDateTime: 2020-02-28T18:21:00Z
-    webUrl: "https://www.usatoday.com/story/tech/2020/02/28/pope-francis-ibm-microsoft-join-forces-face-recognition-ai-ethics/4903273002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4903273002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4903273002"
+    publishedDateTime: 2020-02-28T18:28:00Z
+    webUrl: "https://www.jsonline.com/story/tech/2020/02/28/pope-francis-ibm-microsoft-join-forces-face-recognition-ai-ethics/4903273002/"
+    ampWebUrl: "https://amp.jsonline.com/amp/4903273002"
+    cdnAmpWebUrl: "https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/4903273002"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
+      name: Milwaukee Journal Sentinel
+      domain: jsonline.com
     quality: 49
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/02/12/USAT/fd8f60bb-906d-4b72-90d1-e498024ed98d-AP20043315882491.jpg?auto=webp&crop=1023,576,x0,y0&format=pjpg&width=1200"

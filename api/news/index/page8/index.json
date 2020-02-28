@@ -2,87 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_posts/2020-02-27-healthcare-startup-qureai-raises-16-million-led-by-sequoia-india.md",
-      "title": "Healthcare startup Qure.ai raises $16 million led by Sequoia India",
-      "excerpt": "Healthcare startup Qure.ai has raised $16 million in an equity funding round led by Sequoia India, with participation from MassMutual Ventures Southeast Asia, it said Thursday. MassMutual Ventures is the investment arm of US-based MassMutual Life Insurance Company. Founded in 2016 by Prashant Warier and Pooja Rao, Qure.ai provides ...",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.livemint.com/companies/start-ups/healthcare-startup-qure-ai-raises-16-million-led-by-sequoia-india-11582797164202.html",
-      "ampWebUrl": "https://www.livemint.com/companies/start-ups/healthcare-startup-qure-ai-raises-16-million-led-by-sequoia-india/amp-11582797164202.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/healthcare-startup-qure-ai-raises-16-million-led-by-sequoia-india/amp-11582797164202.html",
-      "publishedDateTime": "2020-02-27T02:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2020/02/27/600x338/healthcare-kH0D--621x414@LiveMint_1582797347447.jpg",
-          "width": 600,
-          "height": 337,
-          "title": "Healthcare startup Qure.ai raises $16 million led by Sequoia India",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-27-hospital-pharmacists-meet-ai-your-new-assistant.md",
-      "title": "Hospital Pharmacists: Meet AI, Your New Assistant",
-      "excerpt": "AI is proven to be an effective tool that, along with the direction and expertise of the human touch, helps the industry address the challenges of shortages, recalls and inventory management.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/27/hospital-pharmacists-meet-ai-your-new-assistant/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/27/hospital-pharmacists-meet-ai-your-new-assistant/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/27/hospital-pharmacists-meet-ai-your-new-assistant/amp/",
-      "publishedDateTime": "2020-02-27T05:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/537317012/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 474,
-          "title": "Hospital Pharmacists: Meet AI, Your New Assistant",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_posts/2020-02-27-how-aws-attempts-to-bring-transparency-to-automl-through-amazon-sagemaker-autopilot.md",
       "title": "How AWS Attempts To Bring Transparency To AutoML Through Amazon SageMaker Autopilot",
       "excerpt": "With Amazon SageMaker Autopilot, AWS has taken the first step in making AutoML solution transparent and explainable. The platform appeals to both expert data scientists and entry-level ML developers.",
@@ -768,8 +687,8 @@
       ]
     },
     {
-      "path": "_posts/2020-02-28-ai-ethics-plan-agreed-by-catholic-church-and-tech-giants.md",
-      "title": "AI ethics plan agreed by Catholic Church and tech giants",
+      "path": "_posts/2020-02-28-ai-ethics-backed-by-pope-and-tech-giants-in-new-plan.md",
+      "title": "AI ethics backed by Pope and tech giants in new plan",
       "excerpt": "The Roman Catholic Church has joined up with IBM and Microsoft to work on the ethics of artificial intelligence. Leaders from the two tech giants met senior church officials in Rome, and agreed to collaborate on \"human-centred\" ways of designing AI. Microsoft president Brad Smith admitted some people may \"think of us as strange bedfellows\" at ...",
       "heat": 114,
       "tags": null,
@@ -777,7 +696,7 @@
       "webUrl": "https://www.bbc.com/news/technology-51673296",
       "ampWebUrl": "https://www.bbc.com/news/amp/technology-51673296",
       "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51673296",
-      "publishedDateTime": "2020-02-28T08:53:00-08:00",
+      "publishedDateTime": "2020-02-28T13:20:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "BBC",
@@ -799,7 +718,7 @@
           "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/4DFF/production/_111076991_archbishop.gif",
           "width": 1024,
           "height": 576,
-          "title": "AI ethics plan agreed by Catholic Church and tech giants",
+          "title": "AI ethics backed by Pope and tech giants in new plan",
           "attribution": null
         }
       ],
@@ -901,6 +820,52 @@
       ]
     },
     {
+      "path": "_posts/2020-02-28-artificial-intelligence-ai-chipset-market-size-share-key-players-growth-drivers-business-opportunities-and-industry-forecast.md",
+      "title": "Artificial Intelligence (AI) Chipset Market Size, Share, Key Players, Growth Drivers, Business Opportunities, and industry Forecast",
+      "excerpt": "Market Highlights Artificial intelligence (AI) chipset are silicon-based chips that are integrated with devices",
+      "heat": 141,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipset-market-size-share-key-players-growth-drivers-business-opportunities-and-industry-forecast-2020-02-28",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-28T01:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence (AI) Chipset Market Size, Share, Key Players, Growth Drivers, Business Opportunities, and industry Forecast",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_posts/2020-02-28-can-machines-and-artificial-intelligence-be-creative.md",
       "title": "Can Machines And Artificial Intelligence Be Creative?",
       "excerpt": "While artificial intelligence can be creative, what's most compelling is the creative output when humans and machines collaborate, whether that's in art, music, dance, design, recipes, or publishing.",
@@ -992,7 +957,7 @@
       "path": "_posts/2020-02-28-cloud-machine-learning-market-is-booming-worldwide-gaining-revolution-in-eyes-of-global-exposure.md",
       "title": "Cloud Machine Learning Market is Booming Worldwide | gaining Revolution In Eyes of Global Exposure",
       "excerpt": "Identify Sales forecasts to help your business keep adequate inventory, create an actionable plan with latest edition released by AMA on Global Cloud Machine Learning Market to regulate the balance of demand and supply.",
-      "heat": 70,
+      "heat": 80,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.marketwatch.com/press-release/cloud-machine-learning-market-is-booming-worldwide-gaining-revolution-in-eyes-of-global-exposure-2020-02-28",
@@ -1763,6 +1728,51 @@
       ]
     },
     {
+      "path": "_posts/2020-02-28-the-catholic-church-proposes-ai-regulations-that-protect-people.md",
+      "title": "The Catholic Church proposes AI regulations that ‘protect people’",
+      "excerpt": "The “Rome Call for AI Ethics” lays out six broad principles: transparency, inclusion, responsibility, impartiality, reliability, and security and privacy. These principles say that technology should “protect people,” particularly the “weak and underprivileged.” They also urge policymakers across the world to create new forms of ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theverge.com/2020/2/28/21157667/catholic-church-ai-regulations-protect-people-ibm-microsoft-sign",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/2/28/21157667/catholic-church-ai-regulations-protect-people-ibm-microsoft-sign",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/28/21157667/catholic-church-ai-regulations-protect-people-ibm-microsoft-sign",
+      "publishedDateTime": "2020-02-28T13:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/K86yclH694W_vQWvhxj4UhhTIrg=/0x0:1280x854/1400x933/filters:focal(538x325:742x529):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66406016/Rome_Call_For_AI_Ethics.0.jpeg",
+          "width": 1280,
+          "height": 854,
+          "title": "The Catholic Church proposes AI regulations that ‘protect people’",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_posts/2020-02-28-the-clearview-ai-nightmare-just-got-worse-heres-why-it-matters-and-what-must-come-next.md",
       "title": "The Clearview AI Nightmare Just Got Worse: Here’s Why It Matters, And What Must Come Next",
       "excerpt": "Just when you thought the Clearview AI nightmare couldn’t get any worse, the shady facial recognition firm was breached. As the firm’s customer list emerges, here’s why this all matters, and what needs to come next.",
@@ -1989,7 +1999,7 @@
       "path": "_posts/2020-02-28-we-found-clearview-ais-shady-face-recognition-app.md",
       "title": "We Found Clearview AI's Shady Face Recognition App",
       "excerpt": "Reporters were able to download the most recent Android version of the app marketed to police by Clearview AI, a New York-based startup whose controversial scraping of an estimate 3 billion photographs from the likes of Facebook, Google, and YouTube have prompted legal threats from major tech companies and alarmed privacy hawks on Capitol Hill.",
-      "heat": 404,
+      "heat": 414,
       "tags": null,
       "type": "article",
       "webUrl": "https://gizmodo.com/we-found-clearview-ais-shady-face-recognition-app-1841961772",

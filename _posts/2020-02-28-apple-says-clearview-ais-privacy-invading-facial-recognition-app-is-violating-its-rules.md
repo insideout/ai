@@ -76,6 +76,21 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-02%252Fbe661900-58d2-11ea-a7be-f35353dadc7d%26client%3Da1acac3e1b3290917d92%26signature%3De8442a5ba6d800bf23f2af01238efff47f2da2a9&client=amp-blogside-v2&signature=0b578e5a72b9b247df1c85c755266db45c5d71ee"
         width: 600
         height: 350
+  - title: "Clearview AI: Why This Facial Recognition Firm Matters, And What Must Come Next"
+    excerpt: "Just when you thought the Clearview AI nightmare couldn’t get any worse, the shady facial recognition firm was breached. As the firm’s customer list emerges, here’s why this all matters, and what needs to come next."
+    publishedDateTime: 2020-02-28T21:30:00Z
+    webUrl: "https://www.forbes.com/sites/kateoflahertyuk/2020/02/28/the-clearview-ai-nightmare-just-got-worse-heres-why-it-matters-and-what-must-come-next/"
+    ampWebUrl: "https://www.forbes.com/sites/kateoflahertyuk/2020/02/28/the-clearview-ai-nightmare-just-got-worse-heres-why-it-matters-and-what-must-come-next/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kateoflahertyuk/2020/02/28/the-clearview-ai-nightmare-just-got-worse-heres-why-it-matters-and-what-must-come-next/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 100
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1199766600%2F0x0.jpg"
+        width: 1200
+        height: 784
   - title: "Clearview AI facial recognition customers reportedly include DOJ, FBI, ICE, Macy's"
     excerpt: "Retail companies as well as law enforcement agencies have used the service, says a report. Customers of controversial facial recognition app Clearview AI include not only law enforcement agencies like Immigration and Customs Enforcement and the Department of Justice,"
     publishedDateTime: 2020-02-28T17:41:00Z
@@ -462,6 +477,6 @@ related:
         width: 681
         height: 333
 
-secured: "gH9VpBmFw4c+kAcWB31CXDSq7psbtpcJS3ZG7lcnRin9Vnpu0A74JpHvSq5T9f4fG6xkeWYbmkxu96AVkZKaqWPqdlIUDxa2S2mnV1iJiiJlGK2qnatwHxehEEir7YV1z3iGgpPzgZqKitj0onIU9lZr+TWgyyjRwJIsdE5TGg4E3c180e11+KImmzg8+qrppYW9PhgjGg+dE90c4L2TKw9amoiY2DpHg7uTd+MAG2l/3lhdnfafI5UEdcXJu6txR/zAlJpLyt/jhSVg2lGjzss8C+iqw8a34Tt3mvHQb2qfkIQEk/Y3CBvFwDgF8IpP;z05+rM6AVD3S/V+MUEQBHg=="
+secured: "oZL10QPAY/vPc5EuyNQxLUkPBZvO6FvIIzQEw4Z2bVTgy9Pl+6ixlI7Ncqi+B87a58ec8n5yVE2cxrrhXotX23SDyW/dhv9JSTBniEm205/qZ+7U6ZQjOOmT4CXNEzQBrrwCFbCsLHtGsjp6wfiNrO7Bu/ILIMIhWP623IZ7ypA5n+8eKX0CbeVp+3xgdPJ6P+923Msx/xUXuF54EaD3ak/f1ltfElcepwRzldp39PrkRJnuknRmRLvb0UGy/0V73ctnVF1FoHSmdN/Gxownynf5JSDTzM7O/Jwxwy/kvnevHWnj00sEbpOHD129SnBOssGGOLXgzNpL7Y2JbE3gXL8l+RQIw1k6bxp5QRoxam2UDLOzC3QHh3KHQlj8XYNo0DoIG7Hk3JNNHBMKJBPVuOd1o/8z/zZFU8jctWSpm+QnmLLBeVedONV1ZQhPCsC34OttyjqDbBffzr8GR/qSZyFvKP417MBp+L2j7cyKV78=;QB0Z/S2dq9VnHBkNEBcDqg=="
 ---
 

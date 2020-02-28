@@ -41,6 +41,21 @@ related:
       - url: "https://s.marketwatch.com/public/resources/images/MW-IA488_tesla_ZH_20200219100228.jpg"
         width: 890
         height: 501
+  - title: "Self-driving Tesla tricked into speeding using terrifying hack"
+    excerpt: "Security researchers have discovered a way to fool Tesla electric cars into speeding using a small strip of black tape. McAfee researchers found that placing a two-inch section of black electric tape over part of a 35mph speed limit sign tricked a Tesla car into reading the sign as 85mph. The car, which was operating in the Autopilot mode, then ..."
+    publishedDateTime: 2020-02-19T10:55:00Z
+    webUrl: "https://www.telegraph.co.uk/technology/2020/02/19/self-driving-tesla-tricked-speeding-using-terrifying-hack/"
+    ampWebUrl: "https://www.telegraph.co.uk/technology/2020/02/19/self-driving-tesla-tricked-speeding-using-terrifying-hack/amp/"
+    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/02/19/self-driving-tesla-tricked-speeding-using-terrifying-hack/amp/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 59
+    images:
+      - url: "https://i.ytimg.com/vi/4uGV_fRj0UA/maxresdefault.jpg"
+        width: 1280
+        height: 720
   - title: "Hackers Tricked Self-Driving Teslas Into Accelerating 50 MPH With a Piece of Tape"
     excerpt: "Hackers have figured out a way to fool Tesla’s self-driving Autopilot system, and all it took was a piece of tape. Povolny and Trivedi were able to manipulate a 2016 Model X (pictured above) and Model S by affixing a thin black strip of tape to the sign, extending the middle line on the number three. When the cars drove by the altered sign at ..."
     publishedDateTime: 2020-02-19T23:49:00Z
@@ -56,6 +71,15 @@ related:
       - url: "https://robbreportedit.files.wordpress.com/2020/02/modelx.jpg?w=1000"
         width: 1000
         height: 562
+  - title: "Insight: How to make an ethical self-driving car"
+    excerpt: "Not too long ago, tech enthusiasts were telling us that by 2020, we’d see self-driving cars hit the mainstream, with some 10 million on the roads. That turned out to be a wild overestimation. The actual number of vehicles in testing is thousands of times smaller, and they’re still driving mostly in controlled conditions. Companies have also ..."
+    publishedDateTime: 2020-02-16T09:31:00Z
+    webUrl: "https://www.pressherald.com/2020/02/16/insight-how-to-make-an-ethical-self-driving-car/"
+    type: article
+    provider:
+      name: Portland Press Herald
+      domain: pressherald.com
+    quality: 4
 
 secured: "rAfE9/CrhprE6UUME3x0uVhR3GMxou8UXGXxPa7Upqb5YvJ5SpPuB28UCbP9BpAEfH0KQvThdtcXSXB/KgkKCYVPxnriLvhsW3HcPKGkl70oxBzci1iaRoz81rUc4AOwaGb2hUWOaIKtPQDfR14A/qx5tBogh1GhmwcdubhhNm4xtIeb6ljhoFMgyMDSR8pSN8jdKoaJ/L2q7yrA6MqgtROCTvcIAM4E6NhnlNhlaOozp9Xfp+hw0vv5gofbkOUXZWjv9F7QtsKIVXpshUbgaIv+gBrKCiNEdQmxyMtVpQs14EqL3tS21AmoGB/x8UWo;K6nwXn/WPwo1gy6ZM2QIaA=="
 ---

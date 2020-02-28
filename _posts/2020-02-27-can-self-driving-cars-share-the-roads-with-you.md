@@ -91,6 +91,32 @@ related:
       - url: "https://wp-assets.futurism.com/2020/02/mit-tech-self-driving-cars-see-ten-feet-ground-600x315.jpg"
         width: 600
         height: 315
+  - title: "Researchers look under road to aid self-driving cars"
+    excerpt: "Car companies and researchers have been feverishly working to improve the technologies behind self-driving cars ... A team from MIT’s Computer Science and Artificial Intelligence Lab (CSAIL) developed a new system that uses an existing technology ..."
+    publishedDateTime: 2020-02-28T21:32:00Z
+    webUrl: "https://www.miragenews.com/researchers-look-under-road-to-aid-self-driving-cars/"
+    type: article
+    provider:
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 39
+    images:
+      - url: "https://www.nsf.gov/news/mmg/media/images/cars_snow_f.jpg"
+        width: 350
+        height: 220
+  - title: "Researchers look under the road to aid self-driving cars"
+    excerpt: "Car companies and researchers have been feverishly working to improve the technologies behind self-driving cars. But so far, even the most high-tech vehicles still fail when it comes to safely navigating in rain and snow. That's because these weather conditions wreak havoc on the most common approaches for sensing, which usually involve either ..."
+    publishedDateTime: 2020-02-28T21:49:00Z
+    webUrl: "https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=300108&org=NSF&from=news"
+    type: article
+    provider:
+      name: nsf.gov
+      domain: nsf.gov
+    quality: 39
+    images:
+      - url: "https://www.nsf.gov/news/mmg/media/images/cars_snow_f.jpg"
+        width: 350
+        height: 220
   - title: "Jaguar Land Rover unveils electric self-driving car that will be used on UK roads next year"
     excerpt: "JAGUAR Land Rover has revealed a electric driverless car that will hit UK roads as early as next year. The self-driving pods will be trialled in Coventry in 2021 to test how it interacts with other vehicles, road users and pedestrians. The vehicles - dubbed Project Vector - were unveiled yesterday at the National Automotive Innovation Centre at ..."
     publishedDateTime: 2020-02-19T10:45:00Z
@@ -158,6 +184,19 @@ related:
       - url: "https://cosmos-images1.imgix.net/file/spina/photo/21363/200225-Snow_car.jpg?ixlib=rails-2.1.4&auto=format&ch=Width%2CDPR&fit=max&w=835"
         width: 835
         height: 472
+  - title: "Self-driving cars could become the living rooms of the future"
+    excerpt: "And that's appealing to many who already know they want to sleep, send emails or play video games as they zip down the road in a car that operates itself. With self-driving vehicles on the horizon, automakers are rethinking what the future of car interiors will look like. And because these completely autonomous cars, called Level 5 vehicles ..."
+    publishedDateTime: 2020-02-28T21:13:00Z
+    webUrl: "https://www.stuff.co.nz/motoring/119808414/selfdriving-cars-could-become-the-living-rooms-of-the-future"
+    type: article
+    provider:
+      name: Stuff.co.nz
+      domain: stuff.co.nz
+    quality: 24
+    images:
+      - url: "https://resources.stuff.co.nz/content/dam/images/1/z/c/9/o/t/image.related.StuffLandscapeSixteenByNine.1420x800.1zbwri.png/1582924111771.jpg"
+        width: 1418
+        height: 800
   - title: "The secret to self-driving in the snow could be hiding underground"
     excerpt: "One of the challenges facing the development of self-driving cars is accounting for all kinds of weather. In the snow, for example, cameras can no longer recognise lane markings and traffic signs. And even in heavy rain, the lasers of LIDAR sensors can malfunction. But a team from MIT’s Computer Science and Artificial Intelligence Lab (CSAIL ..."
     publishedDateTime: 2020-02-28T16:47:00Z

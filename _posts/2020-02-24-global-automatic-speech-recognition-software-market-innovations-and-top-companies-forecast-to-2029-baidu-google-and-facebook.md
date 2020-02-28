@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-24T12:28:00Z
 webUrl: "https://www.marketwatch.com/press-release/global-automatic-speech-recognition-software-market-innovations-and-top-companies---forecast-to-2029-baidu-google-and-facebook-2020-02-24"
 type: article
 quality: 55
-heat: 105
+heat: 95
 published: true
 
 provider:
@@ -37,19 +37,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Automotive Recognition System Market Share Industry Size Growth Forecast 2019-2024"
-    excerpt: "By Product: Hand/Leg/Finger Print Recognition, Face Recognition, Vision/Eye Recognition. By Application: Multimedia, Lightings, Others. The study clearly reveals that the \"Automotive Recognition System .\" industry has attained remarkable growth since 2019-2024. This research report is prepared based on an in-depth analysis of the market by experts."
-    publishedDateTime: 2020-02-25T16:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-recognition-system-market-share-industry-size-growth-forecast-2019-2024-2020-02-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

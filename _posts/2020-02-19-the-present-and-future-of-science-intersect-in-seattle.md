@@ -67,19 +67,6 @@ related:
       - url: "https://miro.medium.com/max/640/0*d1bwU1gc_zUElZ8l.jpg"
         width: 640
         height: 300
-  - title: "7 Popular Data Science Presentations On SlideShare"
-    excerpt: "Moving Machine Learning Models To Production With Tensorflow Extended Moving Your Machine Learning Models to Production with TensorFlow Extended from Jonathan Mugan In Moving Machine Learning To Production With Tensorflow Extended, one can learn how to move their ML models to production with TensorFlow Extended (TFX) — an end-to-end platform ..."
-    publishedDateTime: 2020-02-14T04:36:00Z
-    webUrl: "https://analyticsindiamag.com/7-popular-data-science-presentations-on-slideshare/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 24
-    images:
-      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/02/Data-Science-Presentation-1024x731.jpg"
-        width: 1024
-        height: 731
 
 secured: "pCZsIYnNKzX5RNlSg0/5ycY2n1Ucaqu+k8Q/cJcjyjUGVhSx8hxMA8PU/f4+T1NPA60bNffW2untu8wHKaD8hIAcywBYUSLTt2d1vOT9CSG1B+w4LqFKsfs8azhY12g1GuzNaCA15fo4IkisxQYoYXyWXaa08GN9t4RPrMkKrsqWx+mPGXHK3J7hyZZ29hQ99eHqo2MuykOAKCJSe89a8kU4F5MhcCKKnF5nABeRvcqMEYxt8j9WFzwSX0JAbvxiytB7X3J8Fs+INVXUyWadfYG0HQXO5VgZp26SPsYc4ua9RdGpsaENCw9l/ig9YCgqHNEU25gAIX8NgVvn0sabvnJVsSEcT6CdTh4+4G+XxL2rZydY7TcgnTN3NqtgfiDUZ8PIROxpeAGBR/i4gmhJAQDTLBZ37M6HrJ3EUqKmpYqyT/bwb8t//dctlNAPIaMaRpR/Dx31qBhoYwLHEwELPUU03kE+vNtxpLb1SFdBOZk=;QGt/viFyImCgdEWXwefBcg=="
 ---
