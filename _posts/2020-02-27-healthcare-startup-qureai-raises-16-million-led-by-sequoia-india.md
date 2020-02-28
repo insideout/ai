@@ -8,8 +8,8 @@ ampWebUrl: "https://www.livemint.com/companies/start-ups/healthcare-startup-qure
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/healthcare-startup-qure-ai-raises-16-million-led-by-sequoia-india/amp-11582797164202.html"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Mint
@@ -38,6 +38,15 @@ related:
       - url: "https://virtual-strategy.com/wp-content/plugins/all-in-one-seo-pack/images/default-user-image.png"
         width: 512
         height: 512
+  - title: "AI healthtech firm Qure.ai bags $16m in Sequoia-led round"
+    excerpt: "Indian healthtech startup Qure.ai has raised US$16 million in a funding round led by Sequoia Capital India to expand into new markets. MassMutual Ventures Southeast Asia also participated in the round, according to a statement. Headquartered in Mumbia, the startup aims to make healthcare more accessible and affordable through the use of AI ..."
+    publishedDateTime: 2020-02-28T11:28:00Z
+    webUrl: "https://www.techinasia.com/qure-bags-16m-sequoia"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 49
 
 secured: "/qgPHSMnD9mFz5t3IxR4d7Zbsd/kw4ZHNraf3vRcDxIV+UvbOmKW8mAKPOJ6/ukbWvsfhxDo5eC33NytBNmaLbVNZRRTRgCv4+6EbtsU5sexHAu1zvWVsWTV5oRtLLZvydoPBgh98Srn9XMReRvQ8tt+2MbKgPa58ztrmkEW+ue6oVdtRC2NuxeJFpbETTUuPLt9kGGQy9AnS38R9GHIbwCJsWxuSt/ghMHyjU1rGIxFuZeIzcGLcCN9ktgF7E2bT0uj8RglULZ/RdP+VCFzAUmQX/nfLcLeoDMwQ8mzkMJRZBtKS2QFZNCrfauV25Ly;v6ThsNyG0kCLA57eUvDeMg=="
 ---

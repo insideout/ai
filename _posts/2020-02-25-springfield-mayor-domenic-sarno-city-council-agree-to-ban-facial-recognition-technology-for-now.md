@@ -371,6 +371,21 @@ related:
       - url: "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/MUODS64EPVH7LB6P6GFG4M5MUM.JPG"
         width: 4272
         height: 2848
+  - title: "Police In England Have Run Hundreds Of Searches On A New Facial Recognition Tool"
+    excerpt: "The National Crime Agency and Metropolitan Police are among a number of leading organisations across the UK that have registered users with controversial facial recognition technology firm Clearview AI, according to documents reviewed by BuzzFeed News. The technology also had users at a number of other police forces, private investment firms ..."
+    publishedDateTime: 2020-02-28T11:09:00Z
+    webUrl: "https://www.buzzfeed.com/emilyashton/clearview-users-police-uk"
+    ampWebUrl: "https://www.buzzfeed.com/amphtml/emilyashton/clearview-users-police-uk"
+    cdnAmpWebUrl: "https://www-buzzfeed-com.cdn.ampproject.org/c/s/www.buzzfeed.com/amphtml/emilyashton/clearview-users-police-uk"
+    type: article
+    provider:
+      name: BuzzFeed
+      domain: buzzfeed.com
+    quality: 54
+    images:
+      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2020-02/28/11/asset/3667b48f388c/sub-buzz-161-1582887611-4.jpg?output-quality=auto&output-format=auto&downsize=640:*"
+        width: 640
+        height: 427
   - title: "Leaked Document Shows Australian Police Use Creepy Clearview AI Facial Recognition Software"
     excerpt: "Australian police forces have previously denied using controversial facial recognition software, Clearview AI, but a new Buzzfeed report suggests employees within the organisations have undertaken thousands of searches using the software. According to internal Clearview AI data obtained by Buzzfeed News, four Australian police forces are ..."
     publishedDateTime: 2020-02-27T23:00:00Z

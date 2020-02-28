@@ -5,7 +5,7 @@ excerpt: "Autonomous Driving Startup Pony.ai Raises $462 Million in Toyota-Led F
 publishedDateTime: 2020-02-26T04:47:00Z
 webUrl: "https://www.usnews.com/news/technology/articles/2020-02-25/autonomous-driving-startup-ponyai-raises-462-million-in-toyota-led-funding"
 type: article
-quality: 44
+quality: 46
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 related:
   - title: "Toyota steers $400 million to self-driving startup Pony.ai"

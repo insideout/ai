@@ -39,21 +39,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/02/applegps-e1581625499385.jpg?fit=2000%2C1000&strip=all"
         width: 2000
         height: 1000
-  - title: "Machine learning could help Apple Maps fix bogus GPS coordinates"
-    excerpt: "In the patent application published on Thursday by the US Patent and Trademark Office, Apple has come up with \"Machine learning-assisted satellite-based positioning.\" In short, it is a way to analyze GPS data by comparing it against data acquired by a machine-learning model. The idea is that the device receives its estimated position based on a ..."
-    publishedDateTime: 2020-02-13T18:38:00Z
-    webUrl: "https://appleinsider.com/articles/20/02/13/machine-learning-could-help-apple-maps-fix-bogus-gps-coordinates"
-    ampWebUrl: "https://appleinsider.com/articles/20/02/13/machine-learning-could-help-apple-maps-fix-bogus-gps-coordinates/amp/"
-    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/20/02/13/machine-learning-could-help-apple-maps-fix-bogus-gps-coordinates/amp/"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 59
-    images:
-      - url: "https://photos5.appleinsider.com/gallery/34529-62350-apple-maps-hero-xl.jpg"
-        width: 1305
-        height: 728
 
 secured: "S+q6OTEdnBOPTAVCp7wfu39I9Kmqq2uFtkht+NynN3L7dBxoKmrts4GSanYkKHLVE3pd0Pft63Yxyd+yj4v/NO1rbovcqN1VS8GWFAZWRKnpy/MrwwSh2zjrR6RYjOie3TTKxPzLYE4G8CxMLifwVJyTmN0ObElD0JIjsxe6IS+9f95+xLk978nC9wLW5vJgBIC3KIbgo8H45NEGDI/UFJBWYkt2+yxjnWPfBDmXwbGXM+GemYWW5rL9Y2/XH2IGKHY3+vEI7qJHFSjklr6aftMSXhO3CVsKhvfvUdjL9r5tmx5lIqLYLGe6PaipYsDqm3zxHG6YdVv4IDoxzZE0y+J0Ej3lr2N3WuZqFwLH3javHAFtVG04ixI8XgXSTdxpP14I0DGlWsXgCdLwo7lynCUyIBcqFjy70VFkbHiZMTf+SjjSkY0lUQUB9uLXpmZYiyOACS0Rff+jrBLdO989OHG1ZxyIH8z84P7NA46mfv4=;FqnfuGMuxBqA95+eD1lhjw=="
 ---

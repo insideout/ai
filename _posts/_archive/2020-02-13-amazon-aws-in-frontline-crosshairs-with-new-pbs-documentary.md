@@ -23,6 +23,6 @@ images:
     height: 457
     title: "Amazon, AWS In ‘Frontline’ Crosshairs With New PBS Documentary"
 
-secured: "p8sdBcOYe/f0PIw3/FrAZC/SdAZooVCXHXhEkUHj9JPT/s/zoTJ/DEE6MSK8q7+rj+AfrQTRYgRKTQP9LwHNlyBkywPGY0qRmnQL6asOFWxQ/LbV2w/9HISFUCH5pFP6QJ0ZFU3D9Jp4FqjCJSf8VbNiOVIStJM2BeLkJ8DI9r0UmBURo5MHecYcRNq2TAT6C4uzgOXRLhDm75TDPa0IDWGU+0kxgQ7ox6FdXuvWxhV5kvwi5fpe0qLWvv+3bcGf6yU+GfmpFL8/qjAvWo9mreT1TtaFuEiZz8Pkc1i0qgOI2RqpFGL8vSAbmqdyDhR0;DSuSfPDNfodWXQ5UHrNdrQ=="
+secured: "cQuHLRZy5XpyPWf3zJfDmdpbpqmqmA75q9DYwACVSo9G9If76SUVmr4Ep0IiLtfKVA3P08ObEvtOgorKEbA8QYROzm7t2CpgIq4jO71aZPhM++2eO2mA5kOw3htzJabY2uK3yzZDd3PWVyFbFCzuOouajjzMTXK8uqAtxerkaKLs30rTIc/B7naqk17Z/8fqMi+ItgCR+X52xr3Oi3CCkynQz+DFl4rYYt5nx4/BKFp92EP/H4Khx4WSy96ni41xstTQQCYK9sszxj7Em+s/LAdOJx81QwVkfj8kSlr/unJIngpZ9j8c7ec5xGF9hGFz;IW8GmCB2eXAoNvnEHDNyNA=="
 ---
 

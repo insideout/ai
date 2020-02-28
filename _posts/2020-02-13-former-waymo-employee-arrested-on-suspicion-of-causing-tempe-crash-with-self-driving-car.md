@@ -146,21 +146,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2019/12/05/PPHX/49da8cef-9013-4309-8971-2f2f091b3615-_X8I2293.jpg?auto=webp&crop=5471,3077,x0,y278&format=pjpg&width=1200"
         width: 1200
         height: 675
-  - title: "Police say man deliberately caused self-driving Waymo van to rear-end him in Tempe"
-    excerpt: "TEMPE, AZ (3TV/CBS 5) – Tempe police say a man who was involved in a crash with a Waymo van with self-driving capabilities drove recklessly on purpose to cause the wreck. It happened at about 10:30 the night of Thursday, Jan. 30, near Rural and Warner roads. Although the Waymo van can operate autonomously, it was in manual mode at the time."
-    publishedDateTime: 2020-02-13T18:43:00Z
-    webUrl: "https://www.azfamily.com/news/police-say-man-deliberately-caused-self-driving-waymo-van-to/article_24b2a7ec-4e8c-11ea-b4c9-57a24face06b.html"
-    ampWebUrl: "https://www.azfamily.com/news/police-say-man-deliberately-caused-self-driving-waymo-van-to/article_24b2a7ec-4e8c-11ea-b4c9-57a24face06b.amp.html"
-    cdnAmpWebUrl: "https://www-azfamily-com.cdn.ampproject.org/c/s/www.azfamily.com/news/police-say-man-deliberately-caused-self-driving-waymo-van-to/article_24b2a7ec-4e8c-11ea-b4c9-57a24face06b.amp.html"
-    type: article
-    provider:
-      name: AZFamily
-      domain: azfamily.com
-    quality: 53
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/azfamily.com/content/tncms/assets/v3/editorial/0/ca/0ca84f06-4e8e-11ea-bf00-4777c453ba6e/5e45949e67ad8.image.jpg"
-        width: 622
-        height: 307
   - title: "‘Disgruntled’ ex-Waymo driver accused of deliberately causing crash with self-driving vehicle"
     excerpt: "A man described as a disgruntled former Waymo driver has been arrested on suspicion of deliberately crashing a passenger car into one of the company’s vans with self-driving capabilities"
     publishedDateTime: 2020-02-14T14:40:00Z

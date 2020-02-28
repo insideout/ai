@@ -59,21 +59,6 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 63
-  - title: "Interra Systems Simplifies Video Caption Creation With Machine Learning-Based QC Solution"
-    excerpt: "Leveraging cutting-edge machine learning (ML) and automatic speech recognition technology, BATON Captions brings simplicity and cost savings to the creation, management, and delivery of captions for traditional TV and video streaming. BATON Captions allows broadcasters and other media professionals to address all of their captioning needs ..."
-    publishedDateTime: 2020-02-13T19:03:00Z
-    webUrl: "https://www.multichannel.com/pr-feed/interra-systems-simplifies-video-caption-creation-with-machine-learning-based-qc-solution"
-    ampWebUrl: "https://www.multichannel.com/.amp/pr-feed/interra-systems-simplifies-video-caption-creation-with-machine-learning-based-qc-solution"
-    cdnAmpWebUrl: "https://www-multichannel-com.cdn.ampproject.org/c/s/www.multichannel.com/.amp/pr-feed/interra-systems-simplifies-video-caption-creation-with-machine-learning-based-qc-solution"
-    type: article
-    provider:
-      name: Multichannel News
-      domain: multichannel.com
-    quality: 50
-    images:
-      - url: "https://www.multichannel.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_620/MTYzMjczMjc1NzA5ODU5MjE1/interrasystems-batonhybridqc.jpg"
-        width: 620
-        height: 349
 
 secured: "X/GZ5pUXyD6QWbEAewBZdZbC18FtghIcqyy7i0sNWsi89FrDONTHOg/HVyJnd8lbrEfQurTQoRS5ruylkNpIQ0oqMxNa9qbS9ULU3wtZdnWIcLfTMvIJUTcho4XAivw2DnUF+ljIB7CEIGEoIy99aO+eHMnZrPyrc6iAbkT19dSmbKMcGwpJ2s3EdpBTpq0pHgPZ62Idke0znbBIh3yVn/3PApnO4XG6KykLAkyO1P0521jauWoHFuHO5WQFvDOjUEiHheWFK478afM++zXmqefv3rmF8rIanWcJ16sAbCEQWc8hklYkIEh0rYccdHtK62/fFuuZZ/VGoOIUZxki+BxRWC/aCwVcMTk7jpCCRFezuReyJZav19sZURHKdh7C5OzzxWB62WpWdPwhv7cTTLg9n2fHCAhB5QjSdjI8ic6TZX/DJwKyvvhpbU5n2aDkso0AGlvAddixsiD0DWMJxeJHgedt8l2w8UMJp83G480=;OF2bolGlMTD3ZNahwEwxkg=="
 ---

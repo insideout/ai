@@ -54,6 +54,21 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D3517%252C2369%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1078%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-02%252Fbb007560-59ba-11ea-be3e-be5d86d0651e%26client%3Da1acac3e1b3290917d92%26signature%3Dcaef0bb17abc5044449c4fda2be1bedd3c1c36b0&client=amp-blogside-v2&signature=60d75311e1a32aad0c006a6d335c5215c67899f3"
         width: 600
         height: 350
+  - title: "Australian Police Have Run Hundreds Of Searches On Clearview AI's Facial Recognition Tool"
+    excerpt: "Four Australian police forces have registered accounts with controversial facial recognition company Clearview AI, a client list obtained by BuzzFeed News reveals. Clearview AI says its powerful and unprecedented facial recognition tool can be used to identify a person in almost any situation. It says it has amassed a database of billions of ..."
+    publishedDateTime: 2020-02-28T11:19:00Z
+    webUrl: "https://www.buzzfeed.com/hannahryan/clearview-ai-australia-police"
+    ampWebUrl: "https://www.buzzfeed.com/amphtml/hannahryan/clearview-ai-australia-police"
+    cdnAmpWebUrl: "https://www-buzzfeed-com.cdn.ampproject.org/c/s/www.buzzfeed.com/amphtml/hannahryan/clearview-ai-australia-police"
+    type: article
+    provider:
+      name: BuzzFeed
+      domain: buzzfeed.com
+    quality: 65
+    images:
+      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2017-10/5/0/campaign_images/buzzfeed-prod-fastlane-01/the-faces-of-all-australian-drivers-will-now-be-p-2-8236-1507179177-0_dblbig.jpg"
+        width: 625
+        height: 415
   - title: "Yikes! 3 billion images stolen from facial recognition database"
     excerpt: "Clearview AI, the facial-recognition firm that contracts with law-enforcement agencies, reported its client list data has been breached by an intruder with “unauthorized access.” Careful not to call the breach a hack, the company notified its customers on Wednesday that the intruder stole its list of users, the numbers of accounts tied to ..."
     publishedDateTime: 2020-02-27T08:00:00Z

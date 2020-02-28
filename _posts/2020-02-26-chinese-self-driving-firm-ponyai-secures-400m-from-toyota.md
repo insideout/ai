@@ -193,7 +193,7 @@ related:
     provider:
       name: U.S. News & World Report
       domain: usnews.com
-    quality: 44
+    quality: 46
   - title: "Toyota leads fundraising for Chinese self-driving startup Pony.ai"
     excerpt: "HONG KONG -- Chinese self-driving startup Pony.ai has raised $462 million from Toyota Motor and other ... Pony.ai, founded in late 2016 by former engineers from Baidu and Google, is a front-runner among China's autonomous driving startups. The company's autonomous vehicles have racked up more than 1.5 million km in open road tests as of the ..."
     publishedDateTime: 2020-02-26T03:01:00Z

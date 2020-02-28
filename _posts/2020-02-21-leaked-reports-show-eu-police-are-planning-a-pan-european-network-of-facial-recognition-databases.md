@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-21T17:08:00Z
 webUrl: "https://theintercept.com/2020/02/21/eu-facial-recognition-database/"
 type: article
 quality: 126
-heat: 266
+heat: 276
 published: true
 
 provider:
@@ -54,6 +54,21 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/Eg-BGYtz8kNfz1NC8iflUonpNV0=/0x0:5457x3632/1400x1050/filters:focal(1456x1362:2328x2234):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66381035/1128224709.jpg.0.jpg"
         width: 1400
         height: 1050
+  - title: "Australian Police Have Run Hundreds Of Searches On Clearview AI's Facial Recognition Tool"
+    excerpt: "Four Australian police forces have registered accounts with controversial facial recognition company Clearview AI, a client list obtained by BuzzFeed News reveals. Clearview AI says its powerful and unprecedented facial recognition tool can be used to identify a person in almost any situation. It says it has amassed a database of billions of ..."
+    publishedDateTime: 2020-02-28T11:19:00Z
+    webUrl: "https://www.buzzfeed.com/hannahryan/clearview-ai-australia-police"
+    ampWebUrl: "https://www.buzzfeed.com/amphtml/hannahryan/clearview-ai-australia-police"
+    cdnAmpWebUrl: "https://www-buzzfeed-com.cdn.ampproject.org/c/s/www.buzzfeed.com/amphtml/hannahryan/clearview-ai-australia-police"
+    type: article
+    provider:
+      name: BuzzFeed
+      domain: buzzfeed.com
+    quality: 65
+    images:
+      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2017-10/5/0/campaign_images/buzzfeed-prod-fastlane-01/the-faces-of-all-australian-drivers-will-now-be-p-2-8236-1507179177-0_dblbig.jpg"
+        width: 625
+        height: 415
   - title: "Yikes! 3 billion images stolen from facial recognition database"
     excerpt: "Clearview AI, the facial-recognition firm that contracts with law-enforcement agencies, reported its client list data has been breached by an intruder with “unauthorized access.” Careful not to call the breach a hack, the company notified its customers on Wednesday that the intruder stole its list of users, the numbers of accounts tied to ..."
     publishedDateTime: 2020-02-27T08:00:00Z

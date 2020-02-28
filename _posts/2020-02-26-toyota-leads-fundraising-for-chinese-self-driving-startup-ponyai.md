@@ -202,7 +202,7 @@ related:
     provider:
       name: U.S. News & World Report
       domain: usnews.com
-    quality: 44
+    quality: 46
   - title: "Toyota invests $400M in Chinese self-driving startup Pony.ai"
     excerpt: "The latest funding values the company at approximately $3 billion, making it the most valuable self-driving startup to come out of China. Pony.ai was founded in 2016 by former executives at Chinese tech company Baidu and is currently testing its self-driving prototypes in Beijing and Guangzhou in China and in Irvine and San Francisco in California."
     publishedDateTime: 2020-02-27T15:00:00Z

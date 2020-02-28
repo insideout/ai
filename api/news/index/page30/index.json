@@ -2,6 +2,52 @@
   "page": 30,
   "value": [
     {
+      "path": "_posts/_archive/2020-02-13-stuart-russell-will-we-choose-the-right-objective-for-ai-before-it-destroys-us-all.md",
+      "title": "Stuart Russell: Will we choose the right objective for AI before it destroys us all?",
+      "excerpt": "Also: AI on steroids: Much bigger neural nets to come with new hardware ... \"I have a heard time believing that my laptop has subjective experience,\" he said, even though it gets more intelligent all the time with faster chips and better software. Still, one has to \"concede it's possible that suitably programmed computers could have ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/stuart-russell-will-we-choose-the-right-objective-for-ai-before-it-destroys-us-all/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/stuart-russell-will-we-choose-the-right-objective-for-ai-before-it-destroys-us-all/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/stuart-russell-will-we-choose-the-right-objective-for-ai-before-it-destroys-us-all/",
+      "publishedDateTime": "2020-02-13T05:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/02/13/824a2dee-ba6c-4be0-a012-abbe00e0f75a/stuart-russell-feb-2020.jpg",
+          "width": 1280,
+          "height": 960,
+          "title": "Stuart Russell: Will we choose the right objective for AI before it destroys us all?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_posts/_archive/2020-02-13-the-open-wearables-initiative-expands-founding-team-begins-soliciting-algorithms-and-datasets-for-wearable-and-connected-health-technologies.md",
       "title": "The Open Wearables Initiative expands founding team; begins soliciting algorithms and datasets for wearable and connected health technologies",
       "excerpt": "Its goal is to provide the industry with a searchable database of benchmarked algorithms and source code that can be freely used by everyone ... researchers who use our wearable sensors for healthcare applications and encouraging them to register their algorithms and datasets with OWEAR as well,\" said Geoffrey Gill, president of Shimmer ...",

@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/02/13/apple-seeks-to-patent-machine-lea
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/13/apple-seeks-to-patent-machine-learning-correction-of-gps-estimates/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -30,21 +30,6 @@ images:
     title: "Apple seeks to patent machine learning correction of GPS estimates"
 
 related:
-  - title: "Machine learning could help Apple Maps fix bogus GPS coordinates"
-    excerpt: "In the patent application published on Thursday by the US Patent and Trademark Office, Apple has come up with \"Machine learning-assisted satellite-based positioning.\" In short, it is a way to analyze GPS data by comparing it against data acquired by a machine-learning model. The idea is that the device receives its estimated position based on a ..."
-    publishedDateTime: 2020-02-13T18:38:00Z
-    webUrl: "https://appleinsider.com/articles/20/02/13/machine-learning-could-help-apple-maps-fix-bogus-gps-coordinates"
-    ampWebUrl: "https://appleinsider.com/articles/20/02/13/machine-learning-could-help-apple-maps-fix-bogus-gps-coordinates/amp/"
-    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/20/02/13/machine-learning-could-help-apple-maps-fix-bogus-gps-coordinates/amp/"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 59
-    images:
-      - url: "https://photos5.appleinsider.com/gallery/34529-62350-apple-maps-hero-xl.jpg"
-        width: 1305
-        height: 728
   - title: "Incorrect Pronunciation Detection in eLearning using Deep Learning"
     excerpt: "At a high level, the idea is to monitor pronunciation of end-user, perform an analysis on it and feed the analysis back to them so that they can work on it to improve and also record it for deep learning. This can be achieved with an add-on or separate system that enables students/user to improve their pronunciation skills, not limited to ..."
     publishedDateTime: 2020-02-13T19:57:00Z

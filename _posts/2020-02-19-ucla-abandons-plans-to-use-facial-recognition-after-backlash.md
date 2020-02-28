@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-19T21:44:00Z
 webUrl: "https://www.vice.com/en_us/article/z3by79/ucla-abandons-plans-to-use-facial-recognition-after-backlash"
 type: article
 quality: 171
-heat: 621
+heat: 611
 published: true
 
 provider:
@@ -175,21 +175,6 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 67
-  - title: "Raleigh, N.C., Police Halt Use of Facial Recognition Tech"
-    excerpt: "Raleigh PD has stopped using a facial recognition app to identify potential criminals through the Internet, cutting ties with a company that has drawn widespread privacy concerns from the community. (TNS) — Raleigh police have stopped using a facial recognition app to identify potential criminals through the Internet, cutting ties with a ..."
-    publishedDateTime: 2020-02-13T18:39:00Z
-    webUrl: "https://www.govtech.com/security/Raleigh-NC-Police-Halt-Use-of-Facial-Recognition-Tech.html"
-    ampWebUrl: "https://www.govtech.com/security/Raleigh-NC-Police-Halt-Use-of-Facial-Recognition-Tech.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/security/Raleigh-NC-Police-Halt-Use-of-Facial-Recognition-Tech.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://media2.govtech.com/images/facial+(2)1.jpg"
-        width: 770
-        height: 535
   - title: "Chino police and facial recognition technology: 5 things to know"
     excerpt: "The Chino Police Department held a forum on the use of the software and solicited feedback from the community."
     publishedDateTime: 2020-02-15T00:16:00Z

@@ -103,6 +103,6 @@ related:
       domain: infosecurity-magazine.com
     quality: 34
 
-secured: "Jnrzlg9R3f54mlm0swNyRssiSq7kJSPva8U2v816PkrYELlN21hGrWya/JH6BJ/R4ll6olfASf9pmkOYcoo9owCayXECMA7l6XVjn284gUwOKQ1HHd4HSq/qdvv3wnYjmcVaoRWdWfc6VKMF5ayWV+D7EmWqB9CSJu5e8hLMyEHF4250a7f49Vowmc8MuTdh7Esk8U8Ejkrw2WLn6QuiHLyHjM3l6dEQmwt/qHiVm+sV/mq+uB+GeJTPOD4Bh58UWMNd8+I+zeZddWtzc6apnhnzU0qFjA3qDFohaFPBOQnhhPeIqxq33+Z6NxAT8MaG;/2LQH+hCV4a0ymteUr7E9Q=="
+secured: "/bQlrXm62inZRAhIpBxtCt6OWXEVwxtYxBorjewlIMpiDIOIOS4gdxAsue9K82K/RLnLWv76IxOBu+SB9yO+GOm5PxoqTnHbPz7hUOjsk0TvrlZHMNjMHOaVPqY/m4iTJg07URj1YspP1ZNQjPRQh6rxS+AF6U/Nh2tOV80j/wc9aw6AhvKq0cYVDgSlKVGbc5uC7I5EwjJRsSmtToclhgK/MXG9qtsP+tKQSxkTxM3KawLorbMkk2zfXDThKG8EhypuDOsDq35Mo2qLQq1drC4fnalTyGA0KjW3Np1I4apqfXnkypxjeEbsHjBu6CID;MkYjIZ/mZuXfOc43NFtbtQ=="
 ---
 

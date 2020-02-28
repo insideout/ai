@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-18T14:19:00Z
 webUrl: "https://www.djournal.com/news/national/clearview-ai-s-founder-defends-controversial-facial-recognition-app/video_9e9cbbbc-111e-5904-b1c9-c12426069aab.html"
 type: article
 quality: 54
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -37,19 +37,6 @@ related:
       - url: "https://www.fedscoop.com/wp-content/uploads/2020/02/GettyImages-1167845607.jpg"
         width: 2309
         height: 1299
-  - title: "CBP Expands Facial Recognition Program to Another Southern Border Crossing"
-    excerpt: "Customs and Border Protection is deploying its facial recognition program at land border crossings at a fifth location ahead of a broader expansion planned for this spring. This week, CBP began scanning pedestrians’ faces at the Progreso port of entry in Weslaco, Texas. Progreso became the fifth location to use the technology since the ..."
-    publishedDateTime: 2020-02-13T18:50:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2020/02/cbp-expands-facial-recognition-program-another-southern-border-crossing/163111/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 37
-    images:
-      - url: "https://cdn.nextgov.com/media/img/upload/2020/02/13/NGborder20200213/open-graph.jpg"
-        width: 400
-        height: 400
   - title: "Ohio’s controversial facial-recognition database to get $21.4 million update, AG Dave Yost says"
     excerpt: "COLUMBUS, Ohio — The state of Ohio is spending $21.4 million to revamp its controversial facial-recognition software next year to better identify suspects and missing persons by matching their photos with updated driver’s license and mug-shot pictures, Attorney General Dave Yost announced Thursday. The announcement came as a task force ..."
     publishedDateTime: 2020-02-20T18:14:00Z

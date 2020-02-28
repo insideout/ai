@@ -48,19 +48,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
-  - title: "Artificial intelligence finds disease-related genes"
-    excerpt: "An artificial neural network can reveal patterns in huge amounts of gene expression data, and discover groups of disease-related genes. This has been shown by a new study led by researchers at Linköping University, published in Nature Communications. The scientists hope that the method can eventually be applied within precision medicine and ..."
-    publishedDateTime: 2020-02-13T18:24:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-02/lu-aif021320.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/224234_web.jpg"
-        width: 1440
-        height: 959
   - title: "Artificial Intelligence Used to Find Disease-related Genes"
     excerpt: "The platform does this on the basis of common friends. In this fashion, scientists attempted to build maps of biological networks based on how the different proteins and genes interact with each other. The researchers used artificial neural network. These artificial networks are trained by experimental data, which means, in a network ..."
     publishedDateTime: 2020-02-26T02:55:00Z
