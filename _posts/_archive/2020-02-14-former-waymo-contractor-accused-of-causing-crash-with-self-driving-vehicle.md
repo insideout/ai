@@ -1,19 +1,19 @@
 ---
 category: news
 title: "Former Waymo contractor accused of causing crash with self-driving vehicle"
-excerpt: "Former Waymo contractor accused of causing crash with self-driving vehicle Raymond Tang was reportedly fired from a Waymo contractor before he intentionally caused a crash with one of their vehicles. Check out this story on app.com: https://www.usatoday ..."
-publishedDateTime: 2020-02-13T23:58:00Z
-webUrl: "https://www.app.com/story/news/nation/2020/02/13/former-waymo-contractor-arrested-after-crash-self-driving-car/4755099002/"
-ampWebUrl: "https://amp.app.com/amp/4755099002"
-cdnAmpWebUrl: "https://amp-app-com.cdn.ampproject.org/c/s/amp.app.com/amp/4755099002"
+excerpt: "Raymond Tang was reportedly fired from a Waymo contractor before he intentionally caused a crash with one of their vehicles."
+publishedDateTime: 2020-02-14T00:05:00Z
+webUrl: "https://www.azcentral.com/story/news/nation/2020/02/13/former-waymo-contractor-arrested-after-crash-self-driving-car/4755099002/"
+ampWebUrl: "https://amp.azcentral.com/amp/4755099002"
+cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/4755099002"
 type: article
 quality: 57
 heat: -1
 published: false
 
 provider:
-  name: app.com
-  domain: app.com
+  name: The Arizona Republic
+  domain: azcentral.com
 
 topics:
   - AI
@@ -41,21 +41,6 @@ related:
       - url: "https://s.marketwatch.com/public/resources/images/MW-HD183_waymo_ZH_20190201153208.jpg"
         width: 890
         height: 501
-  - title: "‘Disgruntled’ former Waymo self-driving car operator arrested for causing car crash"
-    excerpt: "A former Waymo contractor was arrested after allegedly forcing one of the company’s self-driving cars to crash in Tempe last month, according to AZ Central. Police say 31-year-old Raymond Tang drove his Mazda recklessly around the Waymo vehicle, eventually swerving in front of the self-driving car and slamming his brakes, causing the Waymo ..."
-    publishedDateTime: 2020-02-13T22:27:00Z
-    webUrl: "https://www.theverge.com/2020/2/13/21136878/waymo-disgruntled-employee-self-driving-car-crash-autonomous"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2020/2/13/21136878/waymo-disgruntled-employee-self-driving-car-crash-autonomous"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/13/21136878/waymo-disgruntled-employee-self-driving-car-crash-autonomous"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 83
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/e2sevaTPzwSLrrkLMMC8ntmIiWI=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66310283/vpavic_191202_3827_0025.0.jpg"
-        width: 1400
-        height: 933
   - title: "Man Arrested for Brake-Checking Waymo Self-Driving Van, Causing Crash"
     excerpt: "Raymond Tang was a former Waymo van operator who worked for a contractor of the self-driving-vehicle company. He was arrested on charges of intentionally causing one to crash on January 30. Since his termination, according to Waymo, he is accused of ..."
     publishedDateTime: 2020-02-14T06:43:00Z
@@ -102,15 +87,15 @@ related:
         width: 1280
         height: 720
   - title: "Former Waymo contractor accused of causing crash with self-driving vehicle"
-    excerpt: "Raymond Tang was reportedly fired from a Waymo contractor before he intentionally caused a crash with one of their vehicles."
-    publishedDateTime: 2020-02-14T00:05:00Z
-    webUrl: "https://www.azcentral.com/story/news/nation/2020/02/13/former-waymo-contractor-arrested-after-crash-self-driving-car/4755099002/"
-    ampWebUrl: "https://amp.azcentral.com/amp/4755099002"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/4755099002"
+    excerpt: "Former Waymo contractor accused of causing crash with self-driving vehicle Raymond Tang was reportedly fired from a Waymo contractor before he intentionally caused a crash with one of their vehicles. Check out this story on app.com: https://www.usatoday ..."
+    publishedDateTime: 2020-02-13T23:58:00Z
+    webUrl: "https://www.app.com/story/news/nation/2020/02/13/former-waymo-contractor-arrested-after-crash-self-driving-car/4755099002/"
+    ampWebUrl: "https://amp.app.com/amp/4755099002"
+    cdnAmpWebUrl: "https://amp-app-com.cdn.ampproject.org/c/s/amp.app.com/amp/4755099002"
     type: article
     provider:
-      name: The Arizona Republic
-      domain: azcentral.com
+      name: app.com
+      domain: app.com
     quality: 57
     images:
       - url: "https://www.gannett-cdn.com/presto/2019/12/05/PPHX/49da8cef-9013-4309-8971-2f2f091b3615-_X8I2293.jpg?auto=webp&crop=5471,3077,x0,y278&format=pjpg&width=1200"
@@ -131,15 +116,6 @@ related:
       - url: "https://i1.wp.com/www.mercurynews.com/wp-content/uploads/2020/02/Self-Driving_Vehicle-Collision_Arrest_65344.jpg?fit=620%2C9999px&ssl=1"
         width: 620
         height: 301
-  - title: "Former Waymo Operator Tricks Self-Driving Car Into Crashing, Cops Say"
-    excerpt: "He was allegedly successful, and a self-driving vehicle slammed into his Mazda sedan around 10:30 p.m. January 30, as a local ABC affiliate previously reported. The Waymo vehicle’s autonomous driving was not engaged at the time of the crash, according to Tempe police, and the driver was the only one inside the vehicle. “His initial ..."
-    publishedDateTime: 2020-02-13T22:40:00Z
-    webUrl: "https://www.thedailybeast.com/former-waymo-operator-tricks-self-driving-car-into-crashing-in-tempe-cops-say"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 19
   - title: "Ex-Waymo Driver Charged In Self-Driving Van Crash"
     excerpt: "A former Waymo employee has been arrested and is facing felony charged of aggravated assault and criminal damage following damage caused to a Waymo self-driving vehicle."
     publishedDateTime: 2020-02-17T22:25:00Z
@@ -177,6 +153,6 @@ related:
       domain: mediapost.com
     quality: 4
 
-secured: "pVh8reN5gfC7WSYWtiNFldodvbJmFCjWpe99wZMo++GBoAy1CQnBZscXX3QKy6mf3FiQrnJWYDpAH/0BFa0G4bRg5ZlT6KC7pyPofBhCzXMP/lj3AU/K4wNcOteeLJ6TBU0HPgyoFCRRubKMI28NmJINykwiUJmjMw+Xqahj34XPQ7Sy/dqvZKdMKLZ3g8NZFpnLZB/P9c9ql+XlLcmZlmUtD5TbesBVo0sCPflONyquuuhCsThZCJo6jJJBFlrC9A40S6BMoHT0+AFoIulV8xEgX3g4/r9iQb9xOTS4JFhlTgN6RiDv7TD4imkH51bS;73OZjstLZy2EtG3Kp9NAog=="
+secured: "ZVP0Pl4aEn3w39PFp7FJLvNuzozINLAglYJ69jKoTGQYFqVnnT+EjtMjzEfACdawgb9MBM7ZL2ZoFtxHjths7O18abNoXB3SssC4+nsqEPq83HPz2ra36fZ7QrtbF0/WnuWOsDcoF6UQ2J0OWiZMNBb4+B1T13stbMc6CQsG0w8CWhb/0WqN3EdASD0FPDpfiLJ1XJJxYxG8tFLuOucy8rGC5IlIwOEmf8+881sUUEub2w7OliktsGAs8F18F2Rwms+g8THOWSOKVmnlnfbVrIL6xJFPGVK82VLvC/OJrcs2GPkBF5Sw/kNEJQpqFCH9rcqWPkPM6Wk5g1oWCgoRlOG3KixMSsQuUHQxFPsUMgltccvahn/VRPt33rWLjmPB/x9R1VrVLCRA1gkq77tEsmzdDPJv2QRtOYTa1oIIksdpQ1QLZobvUuIC1wtnIB/E2V0h1XAkQtU9dQJ4agxrlHwDTGgrS4biFYwLJXbQX30=;n1CjD7Tokh23rC0l5zlhLg=="
 ---
 

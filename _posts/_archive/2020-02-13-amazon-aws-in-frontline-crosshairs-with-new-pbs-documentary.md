@@ -1,8 +1,8 @@
 ---
 category: news
 title: "Amazon, AWS In ‘Frontline’ Crosshairs With New PBS Documentary"
-excerpt: "and law enforcement’s use of Amazon Rekognition facial-recognition technology. It also explores allegations of worker exploitation at Amazon fulfillment centers and product safety problems. Amazon, which gave “Frontline” access to AWS CEO Andy Jassy and five other top Amazon executives, declined comment when reached by CRN. AWS has ..."
-publishedDateTime: 2020-02-13T16:44:00Z
+excerpt: "Jassy defended law enforcement’s use of Amazon Rekognition. “We believe that governments and the organizations that are charged with keeping our community safe have to have access to the most ..."
+publishedDateTime: 2020-02-13T16:37:00Z
 webUrl: "https://www.crn.com/news/cloud/amazon-aws-in-frontline-crosshairs-with-new-pbs-documentary"
 type: article
 quality: 54
@@ -23,6 +23,6 @@ images:
     height: 457
     title: "Amazon, AWS In ‘Frontline’ Crosshairs With New PBS Documentary"
 
-secured: "mljVz7oEu2itHJDm7iDmP8AJhlIdRbqRIE5LZD81cVnNS4xHzYs6MCx3+w6WTuL7TfhcpbdeQOdQ9fIZkvv5/pOnSHPe5Etax+O6f05j5ZZERfklWzr2Cg5ysOo2KBh8c04bW7uqRlALBTVIdJuAgtr954K9XjXK/NN0L+UhJIlIIVUirAphX4rCVubcJj9fSUitGSdfYSqSrv6evpanK0C8BI0U5odkgWVBwsmb37PrBvRJsnYUkfnpQTgcG6NCL8yDA8nih3mzM2b0ejWe682wV30CH8tyAIHJ7eTAr2KbygHiHZDyriOsNBPk29Za;pUevaLkNpe5jFLyk3lZMPQ=="
+secured: "UCYTeFRYZgNOMZoRogRJL7BC0dZ/pv0KP6jNkfpt7NoStSze7IjWVzsTJygZDochqgkl8E7twBki/D+mzq4yMg4rY2X3ID+hi02dZjOl246Y6jg6an8nNl2VuFqMdid8inJcFCywperNEPB7iNZ82FKTDMHOFwfd0G09QTNu/+CxVw9hJu8kH0m5UZq0ZI8ZtShpLEUKQhSh5AxXh/qFKVHHz92j17YeXUunOeWQ0ZYWhOQQ4E6bmWB3aZ4wPTjGKHyikvC9y/SXh1nMmoKtOnnEbXEKtlK2o7qqNnOhePjfjVFRYPvaTXPT/TRIwuN/;vCXa1dHmqzldQPO1RZKe1w=="
 ---
 

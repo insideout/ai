@@ -8,7 +8,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/02/25/the-future-of-ai-journalism
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/25/the-future-of-ai-journalism-is-less-hyperbole-and-smarter-readers/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -65,6 +65,17 @@ related:
       - url: "https://images.newscientist.com/wp-content/uploads/2020/01/17111309/istock-871148930-for-nscom.jpg"
         width: 2000
         height: 1125
+  - title: "A real life experiment illuminates the future of books and reading"
+    excerpt: "It then uses Machine Learning and Natural Language Processing technology to \"read\" the text for meaning, in order to select a short poetic combination of words on the page which it saves by digitally erasing all other words on the page. Armed with this generated verse, the reading-machine searches the internet for an image—often a doodle or ..."
+    publishedDateTime: 2020-02-28T15:46:00Z
+    webUrl: "https://phys.org/news/2020-02-real-life-illuminates-future.html"
+    ampWebUrl: "https://phys.org/news/2020-02-real-life-illuminates-future.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-02-real-life-illuminates-future.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 24
 
 secured: "1OaqjRxZ+lQynA5USxfPV7wWIWRafG+H7KI8IDjeWPIy6YKrfs7NUrKc9pokjFEecDmMyjXoninOYQ9fngnOeFtLYhlKWzIatCohpp1CjUZSYJ1qSeuB9Y3zN9JS7IoUdzCbjyzltWenjy21UsgqCrmBWit2TxPwbeG41vEqbfLBCxf27ilzyj8UVMCg7BrbQqEDOtR+Pd9E4Pk/5/fITDI6qPZSftBPKBw+F9HCZ7LpSsmG/uDeui5U2/1N+nSnWRLlcloh1XGyjR7gsQ3Rjyd+JvgEylwILPzTCx54Rjob+0ykSiffBzIZSUxSb8Lp85XaxvktKCPGdw6kEVaP5PYhtu0IdOwdL03lJO/iQLIYELTRS/iO4ZbOguefk8A5CzJFu0Obh9PSsuO5gYa8ulOD64YiXsP3NEmZmWzpZdHVkDfj1DAUcIdwk2t56yAZ8fQLCu+hTrseVYw5TdB9ET4OqM2b12EWj+NQuQhHKxk=;g4yUn/Ert3Tt70TFPNO90w=="
 ---

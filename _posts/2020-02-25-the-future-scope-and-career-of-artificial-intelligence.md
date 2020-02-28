@@ -60,6 +60,17 @@ related:
       - url: "https://images.newscientist.com/wp-content/uploads/2020/01/17111309/istock-871148930-for-nscom.jpg"
         width: 2000
         height: 1125
+  - title: "A real life experiment illuminates the future of books and reading"
+    excerpt: "It then uses Machine Learning and Natural Language Processing technology to \"read\" the text for meaning, in order to select a short poetic combination of words on the page which it saves by digitally erasing all other words on the page. Armed with this generated verse, the reading-machine searches the internet for an image—often a doodle or ..."
+    publishedDateTime: 2020-02-28T15:46:00Z
+    webUrl: "https://phys.org/news/2020-02-real-life-illuminates-future.html"
+    ampWebUrl: "https://phys.org/news/2020-02-real-life-illuminates-future.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-02-real-life-illuminates-future.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 24
 
 secured: "R+4Noc7P+TDAEDxNYQZGH2MR7mI66D8zyDz5GyWgoZ0MOLpuwigAPPwxrkvva3UGO+ZDI89n8DzHhSuUQFr5WIPHWLjLIu0ZRZA8ao+ZkHAEx43Vzy2fp7REW5R+eEoSycDdriogeypijb2Bgr+ps5CmwiZONpsMZukujLdmbb6JVWdrzZexUDuheJN7PfnR5HGtP3N+pXtXWyfPcVWrNki7LqHZf8mJO35a5twa9r85NsO/G2SCZ1N1DUeB8hNenQskf915eMh3wRVm1aUncJa5CDxIhv9+06Un8HzM1WklKnMhmA5kxtnvxB5gNgLFmw/YxO9RrwQMFsZJ9C33BMY5TCV6eFI+lCg16CwxIw7+/289iBj//Cq1A1Cdpz0rnwTGUeehmF5mjd6ETK5XimvoriZyL1yLRW3O3TljLKydok5sEHKTYPnCEhoI3wx2HYUbD8NqD0J4bPiai/ZRcFcg9a3JWGrfzMNBMUX1no4=;8I1XNImXLttPygNJg8HiEg=="
 ---

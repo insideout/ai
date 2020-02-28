@@ -1,25 +1,27 @@
 ---
 category: news
 title: "OpsRamp Introduces AI-Driven Suggestions for Greater Transparency and Faster Incident Remediation"
-excerpt: "The OpsRamp Winter 2020 Release also introduces 19 new cloud monitoring integrations for Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP), along with dynamic topology maps for Azure and GCP. Highlights of the Winter 2020 Release include: AIOps: OpsQ is OpsRamp's intelligent event management, alert correlation ..."
-publishedDateTime: 2020-02-25T08:00:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/opsramp-introduces-ai-driven-suggestions-for-greater-transparency-and-faster-incident-remediation-1028934454"
+excerpt: "Other artificial intelligence for IT operations (AIOps) innovations in the release include visualization of alert similarity patterns and new alert stats widgets to provide transparency into machine learning-driven decisions. The OpsRamp Winter 2020 Release also introduces 19 new cloud monitoring integrations for Amazon Web Services (AWS ..."
+publishedDateTime: 2020-02-25T15:48:00Z
+webUrl: "https://www.tmcnet.com/usubmit/-opsramp-introduces-ai-driven-suggestions-greater-transparency-faster-/2020/02/25/9103398.htm"
 type: article
-quality: 36
+quality: 26
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
-  - Microsoft AI
+  - AWS AI
+
+images:
+  - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
+    width: 252
+    height: 335
+    title: "OpsRamp Introduces AI-Driven Suggestions for Greater Transparency and Faster Incident Remediation"
 
 related:
   - title: "OpsRamp Introduces AI-Driven Suggestions"
@@ -36,6 +38,6 @@ related:
         width: 1200
         height: 630
 
-secured: "aUVNntsdPXyXmQVkh7Sum0yoUsZ/neFKQZ5yyqozL/g9Cr7KLdjtJ++YfScsBx1B7pfqIg6025YDuT7VDj/U+jOfobiVenx6ZU5wjU2uSau18QVOcQP8Nh45JLA/kmzi1Ma/RKDJ0zBCet3mJPpx0xl5p9TH/0viaFJnkdDXVJQpIf9k4/TwX3w5ujXIEkJGgvWLKQT8jkLRJCfqKo40zBLQX39TTjViLxmOP/vHBqGFwDagk2oh+dN2CTN5KhI1OdHxfeNE2F3T/ZAX8riPu+7DnF8Pwbcap7I9kK/QbDWEiw15BieQZhPnPxBKMyBJ;E41i0a5iyvmSL3Z7W9ZKRw=="
+secured: "xnMNIM/hny3UKHnVUPo61PYBWtz+awbp21NCJ2q99fhbCdYy2VCPhLSdDpgiESdrbDkPrgOZmeccgtyMtsX6SXeeMpor7yUQeLzkiqtgHgZc+Mx3JTyTUN1U5aW/yBeQOJB4NWdKmAbdFhDAf3HzlgXxQRNx0VHNV8rIBzJnkz2aXPqpjJOhToJvHje2dN6UjgvlIL/IxK8VYgMJwV7udh3VA85iIzlVO8kHoJz3YTlBlHnhV1b1o7Y0hBk6WcrG2Faz7hdnskBsRI7Rs+8ANDOCpdWByTAoE19Hw8w2vy30oCFDSISKAW8umpcigHsm;ZQUZQsgWib2UVZy+vum2BQ=="
 ---
 

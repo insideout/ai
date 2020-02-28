@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-19T21:44:00Z
 webUrl: "https://www.vice.com/en_us/article/z3by79/ucla-abandons-plans-to-use-facial-recognition-after-backlash"
 type: article
 quality: 171
-heat: 601
+heat: 591
 published: true
 
 provider:
@@ -529,19 +529,6 @@ related:
       - url: "https://d2sh4fq2xsdeg9.cloudfront.net/contentAsset/image/427069ba-8376-4828-b590-7e9e2c558109/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100"
         width: 1100
         height: 828
-  - title: "Utahns approve of law enforcement’s use of facial recognition technology, poll says"
-    excerpt: "Many Utah lawmakers were alarmed last year when they learned that federal law enforcement had used facial recognition technology to scan thousands of photos in the state’s driver license database for suspects. Despite the uproar, most Utah residents say they approve of law enforcement searching the state database for suspects, according to a ..."
-    publishedDateTime: 2020-02-13T22:32:00Z
-    webUrl: "https://www.sltrib.com/news/2020/02/13/polls-shows-utahns-arent/"
-    type: article
-    provider:
-      name: The Salt Lake Tribune
-      domain: sltrib.com
-    quality: 33
-    images:
-      - url: "https://www.sltrib.com/resizer/iFmO0DFWKR3zMKsiE5alRNtjthU=/1200x630/filters:quality(85)/arc-anglerfish-arc2-prod-sltrib.s3.amazonaws.com/public/2OK3GJJIGBH5HLSXCGLHZNE4LI.jpg"
-        width: 1200
-        height: 630
   - title: "Sens. Merkley, Booker Introduce Moratorium on Government use of Facial Recognition"
     excerpt: "Sens. Jeff Merkley, D-Ore., and Cory Booker, D-N.J., introduced the Ethical Use of Facial Recognition Act on Feb. 12 which would institute a moratorium on all Federal use of facial recognition technology until Congress passes legislation outlining “specific uses for the data” collected. “Facial recognition technology is both a powerful an ..."
     publishedDateTime: 2020-02-19T14:38:00Z

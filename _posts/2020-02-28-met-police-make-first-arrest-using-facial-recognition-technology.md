@@ -281,6 +281,21 @@ related:
       - url: "https://diginomica.com/sites/default/files/images/2020-02/6DF1B4AD-D5A4-4EE5-AA27-C5C738AE65F3.jpeg"
         width: 640
         height: 493
+  - title: "Coinbase Is Testing Clearview’s Controversial Facial Recognition Technology"
+    excerpt: "Coinbase is among more than 2,000 entities from around the world working with Clearview, a controversial facial recognition technology provider. Internal documents obtained by BuzzFeed revealed New York-based Clearview AI – a startup facing legal threats from Apple and Google as well as calls for greater scrutiny into its practices – had ..."
+    publishedDateTime: 2020-02-28T12:02:00Z
+    webUrl: "https://www.coindesk.com/coinbase-is-testing-clearviews-controversial-facial-recognition-technology"
+    ampWebUrl: "https://www.coindesk.com/coinbase-is-testing-clearviews-controversial-facial-recognition-technology?amp=1"
+    cdnAmpWebUrl: "https://www-coindesk-com.cdn.ampproject.org/c/s/www.coindesk.com/coinbase-is-testing-clearviews-controversial-facial-recognition-technology?amp=1"
+    type: article
+    provider:
+      name: CoinDesk
+      domain: coindesk.com
+    quality: 57
+    images:
+      - url: "https://www.coindesk.com/wp-content/uploads/2020/02/shutterstock_680761540-1200x628.jpg"
+        width: 1200
+        height: 628
   - title: "RCMP acknowledges using facial recognition technology, but won't say where"
     excerpt: "The RCMP has for the first time acknowledged using controversial facial recognition technology that has raised privacy concerns, saying it was used in the Mounties' efforts to crack down on online child sexual abuse. The RCMP acknowledged use of Clearview AI's facial recognition technology in a statement Thursday, detailing its use to rescue ..."
     publishedDateTime: 2020-02-28T01:07:00Z

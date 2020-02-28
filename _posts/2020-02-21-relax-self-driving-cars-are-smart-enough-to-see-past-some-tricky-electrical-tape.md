@@ -31,6 +31,19 @@ related:
       - url: "https://back.3blmedia.com/sites/default/files/styles/ratio_3_2/public/triplepundit/wide/nuro%20self%20driving%20cars%20wide.png"
         width: 1077
         height: 693
+  - title: "Self-Driving Cars Hardly Around The Corner: Panelists At Synapse Summit"
+    excerpt: "Consumers are becoming more aware of connectivity in cars, even if not knowledgeable about those that are self-driving. There are really two aspects of the future of vehicles: connected cars and autonomous cars, those that can drive themselves without a human behind the wheel. We had a robust discussion about this on a panel discussion I ..."
+    publishedDateTime: 2020-02-17T15:55:00Z
+    webUrl: "https://www.mediapost.com/publications/article/347012/self-driving-cars-hardly-around-the-corner-paneli.html"
+    type: article
+    provider:
+      name: MediaPost
+      domain: mediapost.com
+    quality: 24
+    images:
+      - url: "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2020/02/13/volvoautonomous-volvoselfdriving_q5iXO4z.jpg"
+        width: 600
+        height: 375
 
 secured: "ZyLE0kHPOfP6zk6hJLQ7gzqUp2zgbRu7M3G3BxPgqE6LQBGCIg6AxpJYJWquOxcHW5gdUZYWIN2l94YI+ERgZMGwgig9aXmPZ9C3GTv97dlWdStVLASu2iN0kOCUxEJnpYIA4SC7K7CfQfOtiHStBV4i87bZBMot5Y2IvcMEP1ktMd2S3WACZWMtC4nCMV1Cyb935jJ9+9q++cbdxEHRtGovUAg5HhNRrFqwGzMHYHfKTiUAWfYAxYploppctubj0Ntjsp7vH9hN5Do0g1w3OiIwACAYpGdptaRkUTkYf5hd3sdBcE3rV+hvoxrbVsn47NlYfEzlM2L5lcRmbWDRt3TfJzMXeaQdtrmD1oTBENY9/hAI3uFOPwkkPYL+2k5lvGlYjh5DhcCErKS0Y9nmPC2ekUmc928ODMe5/mdh+dSpYYZXjmAwLPrzfdTGn6+67kTgDrahiCgRczVbBePUl8l7SxCpZylOpkVxb3QPTFA=;N00hV4bozK4i6xBGdVug+A=="
 ---

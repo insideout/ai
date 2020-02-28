@@ -25,14 +25,18 @@ images:
 
 related:
   - title: "OpsRamp Introduces AI-Driven Suggestions for Greater Transparency and Faster Incident Remediation"
-    excerpt: "The OpsRamp Winter 2020 Release also introduces 19 new cloud monitoring integrations for Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP), along with dynamic topology maps for Azure and GCP. Highlights of the Winter 2020 Release include: AIOps: OpsQ is OpsRamp's intelligent event management, alert correlation ..."
-    publishedDateTime: 2020-02-25T08:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/opsramp-introduces-ai-driven-suggestions-for-greater-transparency-and-faster-incident-remediation-1028934454"
+    excerpt: "Other artificial intelligence for IT operations (AIOps) innovations in the release include visualization of alert similarity patterns and new alert stats widgets to provide transparency into machine learning-driven decisions. The OpsRamp Winter 2020 Release also introduces 19 new cloud monitoring integrations for Amazon Web Services (AWS ..."
+    publishedDateTime: 2020-02-25T15:48:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-opsramp-introduces-ai-driven-suggestions-greater-transparency-faster-/2020/02/25/9103398.htm"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 36
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 26
+    images:
+      - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
+        width: 252
+        height: 335
 
 secured: "tk5N6XcqywiV+ddxiRw3XDxWVBJp0ZISaZek4M2I2kq8rN3NaXkI7ORC1J9geqr3i9m3lulxS2KvX9ZIkuWnlvz9he4Cck0bh8KwywerezXWb27NQbgjf/9ktcI0BbHLBvnJWSNIxZwxYiN4HW0kP+I25sRbXp+5vrd+x9p9pcYEZuRQr3RqphyvUnlKpKu+5ArKb3AeiMCMBUyE3Crvi6Ax0pke/eiKHANdYp/fg/6TpCBgymvAdlxU+BoeDDOn7+GlatLEtFoT+HvEFkBQInGp8QMUWtVfChXz4b6sAFJuWOuLtxepDGQpNRQodVD7a+JXHDBXFk5D5uofe7ChuxSl50oEHvTqT61Dn0PsQ20edE4r7dyN4mtwd1AHVlnW+5WFItDQSKutbV9Un3MyJLNmHp1yQ6zKu6es/ZttusOoMZzzm4D3VtqpA2hDxADjAejyYbc9qegYVQ4jvnnHNDRfcLa7VF7DyTC9FK/eyIM=;t7JgSx/8lNIhTKz4mx6rog=="
 ---

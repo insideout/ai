@@ -2,51 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_posts/2020-02-25-zoho-full-stack-operating-system-and-data-protector.md",
-      "title": "Zoho: Full stack, operating system, and data protector",
-      "excerpt": "Following the ongoing cloud (r)evolution, AI, voice, UX/UI and macro trends such as digital transformation and the rise of the cognitive enterprise are ... Zoho's app services, data centers and proprietary layers of its full stack position the company against the likes of Microsoft, Google, IBM and Oracle. And, since Zoho's full stack includes ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/zoho-full-stack-operating-system-and-data-protector/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/zoho-full-stack-operating-system-and-data-protector/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/zoho-full-stack-operating-system-and-data-protector/",
-      "publishedDateTime": "2020-02-25T09:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/02/24/43e6dbde-98b9-41a7-aa32-e4bb4d160600/zoho-stack.png",
-          "width": 975,
-          "height": 590,
-          "title": "Zoho: Full stack, operating system, and data protector",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-26-ai-comes-to-the-tax-code.md",
       "title": "AI Comes to the Tax Code",
       "excerpt": "Governments are increasingly relying on machine learning and data analytics to analyze troves of data as they seek to detect tax evasion, respond to taxpayers’ questions and make themselves more efficient.",
@@ -1459,7 +1414,7 @@
       "path": "_posts/2020-02-26-simplifying-conversational-ai-one-interaction-at-a-time.md",
       "title": "Simplifying Conversational AI, One Interaction At A Time",
       "excerpt": "What if we could speak with our devices, cars, and homes just as easily as we do with our friends? Conversation is the bedrock of human communication, a transformative tool that reveals what’s inside our heads and hearts.",
-      "heat": 147,
+      "heat": 157,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.forbes.com/sites/googlecloud/2020/02/26/simplifying-conversational-ai-one-interaction-at-a-time/",
@@ -2124,6 +2079,50 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-27-docusign-acquires-seal-software-for-188m-to-enhance-its-ai-chops.md",
+      "title": "DocuSign acquires Seal Software for $188M to enhance its AI chops",
+      "excerpt": "These companies use Seal for its contract management tools, but also for its analytics, discovery and data extraction services. And it’s these AI smarts the company developed over time to help businesses analyze their contracts that made DocuSign acquire the company. This can help them significantly reduce their time for legal reviews ...",
+      "heat": 137,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/02/27/docusign-acquires-seal-software-for-188m-to-enhance-its-ai-chops/",
+      "ampWebUrl": "https://techcrunch.com/2020/02/27/docusign-acquires-seal-software-for-188m-to-enhance-its-ai-chops/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/27/docusign-acquires-seal-software-for-188m-to-enhance-its-ai-chops/amp/",
+      "publishedDateTime": "2020-02-27T15:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-82570218.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": "DocuSign acquires Seal Software for $188M to enhance its AI chops",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

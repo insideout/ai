@@ -296,6 +296,21 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2020/02/28/10/25307418-0-image-a-15_1582885060937.jpg"
         width: 636
         height: 382
+  - title: "Coinbase Is Testing Clearview’s Controversial Facial Recognition Technology"
+    excerpt: "Coinbase is among more than 2,000 entities from around the world working with Clearview, a controversial facial recognition technology provider. Internal documents obtained by BuzzFeed revealed New York-based Clearview AI – a startup facing legal threats from Apple and Google as well as calls for greater scrutiny into its practices – had ..."
+    publishedDateTime: 2020-02-28T12:02:00Z
+    webUrl: "https://www.coindesk.com/coinbase-is-testing-clearviews-controversial-facial-recognition-technology"
+    ampWebUrl: "https://www.coindesk.com/coinbase-is-testing-clearviews-controversial-facial-recognition-technology?amp=1"
+    cdnAmpWebUrl: "https://www-coindesk-com.cdn.ampproject.org/c/s/www.coindesk.com/coinbase-is-testing-clearviews-controversial-facial-recognition-technology?amp=1"
+    type: article
+    provider:
+      name: CoinDesk
+      domain: coindesk.com
+    quality: 57
+    images:
+      - url: "https://www.coindesk.com/wp-content/uploads/2020/02/shutterstock_680761540-1200x628.jpg"
+        width: 1200
+        height: 628
   - title: "Facial recognition software used by Waterloo Regional Police Service in past"
     excerpt: "The Waterloo Regional Police Service says it used facial recognition technology 'on a very limited basis' in 2019, but Chief Bryan Larkin says it won't be used going forward until more is known about how it works and there's a policy in place for its use."
     publishedDateTime: 2020-02-20T12:30:00Z

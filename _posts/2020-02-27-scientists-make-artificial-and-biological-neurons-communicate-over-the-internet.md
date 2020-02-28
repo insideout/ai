@@ -8,7 +8,7 @@ ampWebUrl: "https://www.digitaltrends.com/cool-tech/neural-network-rat-neurons/?
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/neural-network-rat-neurons/?amp"
 type: article
 quality: 50
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -24,6 +24,21 @@ topics:
   - Machine Learning
 
 related:
+  - title: "Artificial neurons now talking to real neurons with hope of creating a hybrid brain network"
+    excerpt: "In focal brain diseases, a patient’s neural network loses key connections, preventing the brain from functioning as it miraculously should. But what if there was a way to restore those connections? An EU funded study is seeking to do just that by getting real biological neurons to synaptically communicate with artificial ones. Though still ..."
+    publishedDateTime: 2020-02-28T15:18:00Z
+    webUrl: "https://www.syfy.com/syfywire/artificial-neurons-talking-to-real-neurons"
+    ampWebUrl: "https://www.syfy.com/syfywire/artificial-neurons-talking-to-real-neurons?amp"
+    cdnAmpWebUrl: "https://www-syfy-com.cdn.ampproject.org/c/s/www.syfy.com/syfywire/artificial-neurons-talking-to-real-neurons?amp"
+    type: article
+    provider:
+      name: Syfy
+      domain: syfy.com
+    quality: 49
+    images:
+      - url: "https://www.syfy.com/sites/syfy/files/styles/1200x680/public/2019/10/gettyimages-558950181.jpg"
+        width: 1200
+        height: 680
   - title: "Hybrid neural network enables biological and artificial neurons to communicate over the internet"
     excerpt: "This study has for the first time shown how three key emerging technologies can work together: brain-computer interfaces, artificial neural networks and advanced memory technologies (also known as memristors). The discovery opens the door to further significant developments in neural and artificial intelligence research. Brain functions are ..."
     publishedDateTime: 2020-02-26T00:00:00Z

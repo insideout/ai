@@ -23,6 +23,6 @@ images:
     height: 400
     title: "Oracle debuts cloud-based AI workbench with AutoML, model explanation features"
 
-secured: "ljO1fpuTy8BupHBLbJgMtvZsrOW3JRVmnOhRmfKOemWedj4NI2GxYHfCVcHlYMyIqO2X7x92X7gf0Vdp2J/AnHzff+vQx+zYuMrfdAZX9WJIIRJll7LbdIg97GHv+F1Jyo+LMKQAs9lDO5neHX+IEjcvmMFQcv8PdL3CHVdBMFMuLZFnSaRUWHlOB/Zf3ze/d58WNQ1iFg7wHFJm/6Dy4GfELmTIL/++ft9Upjltcuh39AVMm1etal1SSdQm2TO8oXEjmTAiltWw9rQ9y296y65zdxc0ppR82Ub2FEx85/++sZmfvO5PY0oMYeGzr3aI;94ZbFOcnyzM397ciUB9KUQ=="
+secured: "Jn59QrKgPmem/IS/ZWwkSIrs0UN8nCuqU1A/yw+fK4JqEqyA+QSLtzJRAGgmQDv/Lq1bqxrIHlJ2dJ3YIsF2SIMxFA9N2zegeAwr8Ea+ZHv7NSIiD5+106C68csZ0Eg9pgOdZDQ/yTyjwutTmY4aYQh0VSuuSfJ51xfn8+ZfEnpHQ4ZCMcjYY3Lp8Mk6n4Hia3mb8FzNvZ9ry2BFYzWlCY7rXEWemKlU8YEogRwRUgyxYThpIPgwHEAzjsupTWrzRecGuqNsh7ve6NlJ/VxDVramvIPigRLtmUnVGMSZW055RvDDwbVB0mC2HK6IC8gY;gHaQQzg9VtFAcQgtOFlwVg=="
 ---
 

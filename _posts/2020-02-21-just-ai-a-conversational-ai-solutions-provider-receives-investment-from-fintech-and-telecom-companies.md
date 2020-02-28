@@ -74,6 +74,17 @@ related:
       - url: "https://mms.businesswire.com/media/20200220005270/en/774567/23/Viz.ai_Logo_Blue_Horizontal.jpg"
         width: 1200
         height: 627
+  - title: "Will Giving Brands A Voice Boost Conversation Commerce?"
+    excerpt: "Google recently announced 31 new artificial intelligence (AI)-synthesized WaveNet voices and 24 new standard voices ... not to mention thousands of inroads to firms via AWS. And while its biggest tech rivals have scale of their own to compete with, Amazon’s double down on text-to-speech customization for many is a unique addition to ..."
+    publishedDateTime: 2020-02-25T17:10:00Z
+    webUrl: "https://www.pymnts.com/news/retail/2020/will-giving-brands-a-voice-boost-conversation-commerce/"
+    ampWebUrl: "https://www.pymnts.com/news/retail/2020/will-giving-brands-a-voice-boost-conversation-commerce/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/retail/2020/will-giving-brands-a-voice-boost-conversation-commerce/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 24
   - title: "Optimization of culture conditions for differentiation of melon based on artificial neural network and genetic algorithm"
     excerpt: "Artificial neural network is an efficient and accurate fitting method. It has the function of self-learning, which is particularly important for prediction, and it could take advantage of the computer’s high-speed computing capabilities and find the optimal solution quickly. In this paper, four culture conditions: agar concentration ..."
     publishedDateTime: 2020-02-26T10:21:00Z

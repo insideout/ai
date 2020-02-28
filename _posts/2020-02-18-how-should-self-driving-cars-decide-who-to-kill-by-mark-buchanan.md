@@ -24,62 +24,36 @@ images:
     title: "How should self-driving cars decide who to kill? by Mark Buchanan"
 
 related:
-  - title: "US risks trailing China, others on self-driving cars, congresswoman warns"
-    excerpt: "While the benefits of self-driving cars are vast, she said, they will be transformational in a lot of ways. CLICK HERE TO READ MORE ON FOX BUSINESS “When you think about 37,000 individuals that were killed on our roadways last year largely due to human error, you think about the movement of goods and people, all the congestion in America."
-    publishedDateTime: 2020-02-13T22:18:00Z
-    webUrl: "https://www.foxbusiness.com/technology/us-china-autonomous-cathy-mcmorris-rodgers"
-    ampWebUrl: "https://www.foxbusiness.com/technology/us-china-autonomous-cathy-mcmorris-rodgers.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/us-china-autonomous-cathy-mcmorris-rodgers.amp"
+  - title: "Self-driving electric powered vehicle that changes COLOUR could be on the roads by 2050"
+    excerpt: "But this appears set o change with the implementation of self-driving tech from firms such as Tesla and Waymo, and legislation stating diesel and petrol cars will be obsolete in the next 15 years. And it appears that by 2050, the transport industry will ..."
+    publishedDateTime: 2020-02-17T14:50:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8012769/Self-driving-electric-powered-vehicle-changes-COLOUR-roads-2050.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8012769/amp/Self-driving-electric-powered-vehicle-changes-COLOUR-roads-2050.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8012769/amp/Self-driving-electric-powered-vehicle-changes-COLOUR-roads-2050.html"
     type: article
     provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 58
-    images:
-      - url: "http://media.foxbusiness.com/BrightCove/854081161001/202002/3442/854081161001_6132318472001_6132305520001-vs.jpg"
-        width: 1280
-        height: 720
-  - title: "Has reality put the brakes on self-driving cars?"
-    excerpt: "Five years ago you couldn’t move for it, or at least its promise. Autonomy (aka the self-driving car) was going to take over, save lives, save the planet, make cars uncrashable, put drivers out of work and change everything we knew about individual mobility. Audi staged a piloted drive in one of its large saloons; all 550 miles from Silicon ..."
-    publishedDateTime: 2020-02-17T16:56:00Z
-    webUrl: "https://www.telegraph.co.uk/cars/features/has-reality-put-brakes-self-driving-cars/"
-    ampWebUrl: "https://www.telegraph.co.uk/cars/features/has-reality-put-brakes-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/cars/features/has-reality-put-brakes-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 44
-    images:
-      - url: "https://www.telegraph.co.uk/content/dam/cars/2020/02/17/TELEMMGLPICT000059012609_trans_NvBQzQNjv4Bq3zRqJvTEgWWOoA_OyO2TYjp1J53GedFpkBVyM6aWTKE.jpeg"
-        width: 2380
-        height: 1488
-  - title: "Self-driving cars could harness the homing properties of pinsized bee brains"
-    excerpt: "Bee brains could hold the secrets to future autonomous technology (Photo: Yuri KADOBNOV / AFP) (Photo credit should read YURI KADOBNOV/AFP via Getty Images) Honeybee brains may only be the size of a pinhead but they can travel for five miles and still manage to find their way home. Now, scientists are looking to mimic the working of that ..."
-    publishedDateTime: 2020-02-17T06:25:00Z
-    webUrl: "https://inews.co.uk/news/science/drones-harness-secret-homing-properties-pinsized-bee-brains-1742554"
-    type: article
-    provider:
-      name: i
-      domain: inews.co.uk
+      name: Mail Online
+      domain: dailymail.co.uk
     quality: 36
     images:
-      - url: "https://inews.co.uk/images-i.jpimedia.uk/imagefetch/https://inews.co.uk/wp-content/uploads/2020/02/GettyImages-957647792.jpg"
-        width: 1024
-        height: 722
-  - title: "Self-Driving Cars Hardly Around The Corner: Panelists At Synapse Summit"
-    excerpt: "Consumers are becoming more aware of connectivity in cars, even if not knowledgeable about those that are self-driving. There are really two aspects of the future of vehicles: connected cars and autonomous cars, those that can drive themselves without a human behind the wheel. We had a robust discussion about this on a panel discussion I ..."
-    publishedDateTime: 2020-02-17T15:55:00Z
-    webUrl: "https://www.mediapost.com/publications/article/347012/self-driving-cars-hardly-around-the-corner-paneli.html"
+      - url: "https://i.dailymail.co.uk/1s/2020/02/17/14/24841066-0-image-a-6_1581950107383.jpg"
+        width: 636
+        height: 382
+  - title: "GM to exit some overseas markets to cut costs, focus on electric and self-driving vehicles"
+    excerpt: "General Motors is exiting Australia, New Zealand and Thailand to save costs in the under performing markets and better hone its focus on growth markets as well as on its electric vehicle and self-driving car strategies. As a result, GM said it expects to incur net cash charges of $300 million and to record total cash and non-cash charges ..."
+    publishedDateTime: 2020-02-17T15:52:00Z
+    webUrl: "https://www.usatoday.com/story/money/cars/2020/02/17/gm-exits-australia-more-overseas-markets-restructuring-move/4784052002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4784052002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4784052002"
     type: article
     provider:
-      name: MediaPost
-      domain: mediapost.com
-    quality: 24
+      name: USA Today
+      domain: usatoday.com
+    quality: 34
     images:
-      - url: "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2020/02/13/volvoautonomous-volvoselfdriving_q5iXO4z.jpg"
-        width: 600
-        height: 375
+      - url: "https://www.gannett-cdn.com/-mm-/b5f04775ee7d965f7efc1e844b57d5548e663c17/c=0-463-1686-1416/local/-/media/2017/01/07/DetroitFreePress/DetroitFreePress/636194077423742009-General-Motors.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 678
 
 secured: "7injR4GfcXxMreJo1t+fcZwlueQqr3bc5KLVEsR7Yom6zOOsyGeJkmVsWTKFHelt+2KnYe7ZOj1S3MB5E7tGmKuHoVshUFKKPsutVv/p8iZCawoSyYeC5MZ4/DLoZ7lm5Na+GXDECPgUJVX94fHf6xXniDoRh5Z6U3bsyFRfPiJbkfacCVdYS6enCWnRRdoD2uuLR5LUKWgsZHXa5VkI4WIvs9PLh5HRbZWr4//F+JOHZBxBiPJjYuV6vaxvS4hNuoI1niRPq8QyZ9C67ijDKUxnUMewfGcCkS4SEcNELZ713TIO5KwX9LzEmlQrtWOX;bzIgVENAj9V2IalOZWi2Cg=="
 ---

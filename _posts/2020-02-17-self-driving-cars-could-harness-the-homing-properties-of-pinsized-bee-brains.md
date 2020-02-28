@@ -24,21 +24,6 @@ images:
     title: "Self-driving cars could harness the homing properties of pinsized bee brains"
 
 related:
-  - title: "US risks trailing China, others on self-driving cars, congresswoman warns"
-    excerpt: "While the benefits of self-driving cars are vast, she said, they will be transformational in a lot of ways. CLICK HERE TO READ MORE ON FOX BUSINESS “When you think about 37,000 individuals that were killed on our roadways last year largely due to human error, you think about the movement of goods and people, all the congestion in America."
-    publishedDateTime: 2020-02-13T22:18:00Z
-    webUrl: "https://www.foxbusiness.com/technology/us-china-autonomous-cathy-mcmorris-rodgers"
-    ampWebUrl: "https://www.foxbusiness.com/technology/us-china-autonomous-cathy-mcmorris-rodgers.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/us-china-autonomous-cathy-mcmorris-rodgers.amp"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 58
-    images:
-      - url: "http://media.foxbusiness.com/BrightCove/854081161001/202002/3442/854081161001_6132318472001_6132305520001-vs.jpg"
-        width: 1280
-        height: 720
   - title: "Has reality put the brakes on self-driving cars?"
     excerpt: "Five years ago you couldn’t move for it, or at least its promise. Autonomy (aka the self-driving car) was going to take over, save lives, save the planet, make cars uncrashable, put drivers out of work and change everything we knew about individual mobility. Audi staged a piloted drive in one of its large saloons; all 550 miles from Silicon ..."
     publishedDateTime: 2020-02-17T16:56:00Z
@@ -54,32 +39,6 @@ related:
       - url: "https://www.telegraph.co.uk/content/dam/cars/2020/02/17/TELEMMGLPICT000059012609_trans_NvBQzQNjv4Bq3zRqJvTEgWWOoA_OyO2TYjp1J53GedFpkBVyM6aWTKE.jpeg"
         width: 2380
         height: 1488
-  - title: "Self-Driving Cars Hardly Around The Corner: Panelists At Synapse Summit"
-    excerpt: "Consumers are becoming more aware of connectivity in cars, even if not knowledgeable about those that are self-driving. There are really two aspects of the future of vehicles: connected cars and autonomous cars, those that can drive themselves without a human behind the wheel. We had a robust discussion about this on a panel discussion I ..."
-    publishedDateTime: 2020-02-17T15:55:00Z
-    webUrl: "https://www.mediapost.com/publications/article/347012/self-driving-cars-hardly-around-the-corner-paneli.html"
-    type: article
-    provider:
-      name: MediaPost
-      domain: mediapost.com
-    quality: 24
-    images:
-      - url: "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2020/02/13/volvoautonomous-volvoselfdriving_q5iXO4z.jpg"
-        width: 600
-        height: 375
-  - title: "How should self-driving cars decide who to kill? by Mark Buchanan"
-    excerpt: "Not too long ago, tech enthusiasts were telling us that by 2020, we’d see self-driving cars hit the mainstream, with some 10 million on the roads. That turned out to be a wild overestimation. The actual number of vehicles in testing is thousands of times smaller, and they’re still driving mostly in controlled conditions. Companies have also ..."
-    publishedDateTime: 2020-02-18T05:00:00Z
-    webUrl: "https://www.pressofatlanticcity.com/opinion/commentary/how-should-self-driving-cars-decide-who-to-kill-by/article_6c1dbac7-3a51-5e99-bc84-8066769cbe28.html"
-    type: article
-    provider:
-      name: The Press of Atlantic City
-      domain: pressofatlanticcity.com
-    quality: 24
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/pressofatlanticcity.com/content/tncms/custom/image/bae1e730-3e34-11e6-9bc5-8f83ee7a0e54.jpg"
-        width: 1200
-        height: 630
 
 secured: "ejETVEsnnRQmQ7mIH0iWDYBhGTNbTs79Qf53WKCqH7QykfxbJE+753XecCSqX/5YXW/G+EvCvoD05uwMd2PJBgbnRfhh2IuyauvpFX0fxtf6+zWedsqFuscoIkcXJDBwnSUV7eBye3US+puk7NBp9/AvptpP0DwFB354mK9EeyqC9Hg1hQOFo8gQFCZUQR3ttRs8khj9W+fTobORoNHYyZwVu3CIh0KS1Y/+mtwEjMQkE9x6BEleztA1WTCn0BFlcIJWkP2D0U9gbT/vSOynUS0vCb8iNgwzbRpMZDF8iPtnlA9vi5Jtd8UrkPzdk6S3dXeAxCa6kbQ2hF1b5OR0mt4ElgRuMoEIyKScYexLSKCu58PZtsb7+wGKrDrzvR6b8olRbnrIdhbPL4J6Mnz7GGnDQPdJPSpqXppL33O49pzHs1aXq+qxj14SeDN9dNCS/uoFDH/Jj+1AjedKxfFdwXs4uZJb25kyZcgC8iDE7EU=;aQvkD1OtpZlhScp+sZle9w=="
 ---

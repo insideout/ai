@@ -537,19 +537,6 @@ related:
       - url: "https://d2sh4fq2xsdeg9.cloudfront.net/contentAsset/image/427069ba-8376-4828-b590-7e9e2c558109/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100"
         width: 1100
         height: 828
-  - title: "Utahns approve of law enforcement’s use of facial recognition technology, poll says"
-    excerpt: "Many Utah lawmakers were alarmed last year when they learned that federal law enforcement had used facial recognition technology to scan thousands of photos in the state’s driver license database for suspects. Despite the uproar, most Utah residents say they approve of law enforcement searching the state database for suspects, according to a ..."
-    publishedDateTime: 2020-02-13T22:32:00Z
-    webUrl: "https://www.sltrib.com/news/2020/02/13/polls-shows-utahns-arent/"
-    type: article
-    provider:
-      name: The Salt Lake Tribune
-      domain: sltrib.com
-    quality: 33
-    images:
-      - url: "https://www.sltrib.com/resizer/iFmO0DFWKR3zMKsiE5alRNtjthU=/1200x630/filters:quality(85)/arc-anglerfish-arc2-prod-sltrib.s3.amazonaws.com/public/2OK3GJJIGBH5HLSXCGLHZNE4LI.jpg"
-        width: 1200
-        height: 630
   - title: "Privacy rights groups call for ‘day of action’ to ban facial recognition at all schools"
     excerpt: "Fight for the Future (FFTF) and Students for Sensible Drug Policy are organizing what they call a ‘National Day of Action to Ban Facial Recognition from College Campuses’ on March 2. FFTF and other groups have also called for and have actively been lobbying for a total federal ban on facial recognition technology, although there has been ..."
     publishedDateTime: 2020-02-19T18:13:00Z

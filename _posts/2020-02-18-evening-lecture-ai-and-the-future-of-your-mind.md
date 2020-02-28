@@ -60,6 +60,17 @@ related:
       name: Your Story
       domain: yourstory.com
     quality: 41
+  - title: "A real life experiment illuminates the future of books and reading"
+    excerpt: "It then uses Machine Learning and Natural Language Processing technology to \"read\" the text for meaning, in order to select a short poetic combination of words on the page which it saves by digitally erasing all other words on the page. Armed with this generated verse, the reading-machine searches the internet for an image—often a doodle or ..."
+    publishedDateTime: 2020-02-28T15:46:00Z
+    webUrl: "https://phys.org/news/2020-02-real-life-illuminates-future.html"
+    ampWebUrl: "https://phys.org/news/2020-02-real-life-illuminates-future.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-02-real-life-illuminates-future.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 24
 
 secured: "NrzrgKxYzHZSuKu+QeI3qIwv+nQD2gQ/hhpcZPElFEIifFRlrF5UcBSABcanUpYrreqFsLB0BJ4KUKENtdBXr5zpF7OCSvD0vI8AjGOUjXFoXL7q1cYwHxoyi5AV9xJrxaNSK2+6YUjibjVx/iGW5dOmbWbiDCVejDVHzsq2fsifwWWSvAcSmXJsv31J/kB0Ykao9pBcAkq6x00WV1v7k3IqT15XaKZfv5bL6SCPy5qiPBEMktD1aqmucyfMbu2jnSFnU788Vtu57i1+k91wfpqhM6RPFrMkA9BCkSLwVbbu9F8wRQpgwSOO+5hUXzyIOfZeuuVz1fJIs+To3N+Mg1MMsyN69qNUwver2BYy2QLjoWGyGQr24YXwp7EnUUWGGcEb5vzLha5E/LREJDUwkcEJ+ffKaPF7JQID6hhfzmM9cQzARAB+hDSomKkUNWBpyeG+X7VB/tDagWWTzZJ5I4kAyEg90ModNC4IfWrs3yc=;BRsALZElMsnnH37EpWDJ0g=="
 ---

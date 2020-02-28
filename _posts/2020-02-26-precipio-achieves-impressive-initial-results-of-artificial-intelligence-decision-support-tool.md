@@ -1,22 +1,24 @@
 ---
 category: news
 title: "Precipio achieves impressive initial results of Artificial Intelligence Decision-Support Tool"
-excerpt: "Groundbreaking clinical and economic impact to be generated NEW HAVEN, Conn., Feb. 26, 2020 (GLOBE NEWSWIRE) -- Specialty diagnostics company"
+excerpt: "Groundbreaking clinical and economic impact to be generated NEW HAVEN, Conn., Feb. 26, 2020 (GLOBE NEWSWIRE) -- Specialty diagnostics company Precipio, Inc."
 publishedDateTime: 2020-02-26T16:30:00Z
-webUrl: "https://www.globenewswire.com/news-release/2020/02/26/1991217/0/en/Precipio-achieves-impressive-initial-results-of-Artificial-Intelligence-Decision-Support-Tool.html"
+webUrl: "https://www.benzinga.com/pressreleases/20/02/g15418520/precipio-achieves-impressive-initial-results-of-artificial-intelligence-decision-support-tool"
+ampWebUrl: "https://amp.benzinga.com/amp/content/15418520"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15418520"
 type: article
-quality: 8
-heat: 8
+quality: 28
+heat: 28
 published: false
 
 provider:
-  name: GlobeNewswire
-  domain: globenewswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
   - AI in Healthcare
 
-secured: "/skqzKFu2yNqkOu8eK/HUjI1hdrRUF51HuNKDqa+2Bt494EHHBKmx/Zu/ktWG+QrTpPC8Mt+OMrqSpXtrBGIaFIP0gbkNcQqnoOv36J0IdXL+pa6zPGb83bfhT2jdb/5gdbP1pcDQ+0kCTuxm7xSVm6teZloZobKGW+LHFNOoBcM3YAiwE13tAAUjYHw4ScfxlMJDDXAX+irMcNRjf9IrBjJmKEpFTaI0AuP/j0iynB1etQoD7NpcA2HZEmIiKCck+Cocio+jqmFgJEgOolZbKzEDLGVENJuwONEJsErG25Q53amQ5rkItb46Zn79zxB;yeO65dq3d5zdEqVMSEv0Zg=="
+secured: "3p67M9SehBAXTv9yaZkeehoxV/R9yI0TC6UZifgCNTthNZyChx8LOZyka/EXs7A51pvlY1DINnehy4eqhTjd8AYrtO/7t7lXIaxSNoaGpFjgt9gbNHDTfDiB5LAaRaqAfUhdQYtiU0quZ0g5eamEwb9th1jhNtQf6ffWJhr6sDMbHy6Urycxu1nL11LigdVTpxIzArwf5SLfHcPAIrt+HjW69dzR0C6hOmp+nTZi4FKrd4rEEf8szPEBCUhddqkkRsxKEsAu/nmmdzZZmvx6Y0/ZUILc5TeRgSHVxqZLsQbnyk/YXS1kbO9UZzMvk7gd;E07Th8MA72KWp24kuikqzA=="
 ---
 

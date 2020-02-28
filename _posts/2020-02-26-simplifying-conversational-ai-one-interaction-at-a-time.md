@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/googlecloud/2020/02/26/simplifying-conv
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/googlecloud/2020/02/26/simplifying-conversational-ai-one-interaction-at-a-time/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 157
 published: true
 
 provider:
@@ -68,6 +68,17 @@ related:
       - url: "https://mms.businesswire.com/media/20200220005270/en/774567/23/Viz.ai_Logo_Blue_Horizontal.jpg"
         width: 1200
         height: 627
+  - title: "Will Giving Brands A Voice Boost Conversation Commerce?"
+    excerpt: "Google recently announced 31 new artificial intelligence (AI)-synthesized WaveNet voices and 24 new standard voices ... not to mention thousands of inroads to firms via AWS. And while its biggest tech rivals have scale of their own to compete with, Amazon’s double down on text-to-speech customization for many is a unique addition to ..."
+    publishedDateTime: 2020-02-25T17:10:00Z
+    webUrl: "https://www.pymnts.com/news/retail/2020/will-giving-brands-a-voice-boost-conversation-commerce/"
+    ampWebUrl: "https://www.pymnts.com/news/retail/2020/will-giving-brands-a-voice-boost-conversation-commerce/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/retail/2020/will-giving-brands-a-voice-boost-conversation-commerce/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 24
   - title: "Just AI, a Conversational AI Solutions Provider, Receives Investment from Fintech and Telecom Companies"
     excerpt: "Just AI, a сonversational AI technologies developer and solutions provider, received from two strategic investors: MTS PJSC and Sovcombank PJSC​. The new investors' total share in the capital of Just AI was 22."
     publishedDateTime: 2020-02-21T08:00:00Z

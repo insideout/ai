@@ -37,6 +37,21 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 50
+  - title: "Artificial neurons now talking to real neurons with hope of creating a hybrid brain network"
+    excerpt: "In focal brain diseases, a patient’s neural network loses key connections, preventing the brain from functioning as it miraculously should. But what if there was a way to restore those connections? An EU funded study is seeking to do just that by getting real biological neurons to synaptically communicate with artificial ones. Though still ..."
+    publishedDateTime: 2020-02-28T15:18:00Z
+    webUrl: "https://www.syfy.com/syfywire/artificial-neurons-talking-to-real-neurons"
+    ampWebUrl: "https://www.syfy.com/syfywire/artificial-neurons-talking-to-real-neurons?amp"
+    cdnAmpWebUrl: "https://www-syfy-com.cdn.ampproject.org/c/s/www.syfy.com/syfywire/artificial-neurons-talking-to-real-neurons?amp"
+    type: article
+    provider:
+      name: Syfy
+      domain: syfy.com
+    quality: 49
+    images:
+      - url: "https://www.syfy.com/sites/syfy/files/styles/1200x680/public/2019/10/gettyimages-558950181.jpg"
+        width: 1200
+        height: 680
   - title: "A perspective on the study of artificial and biological neural networks"
     excerpt: "In recent years, researchers have been developing advanced computational techniques based on artificial neural networks, which are architectures inspired by biological neural networks in the human brain. Models based on artificial neural networks are trained to optimize millions of synaptic weights over millions of observations in order to make ..."
     publishedDateTime: 2020-02-24T17:51:00Z

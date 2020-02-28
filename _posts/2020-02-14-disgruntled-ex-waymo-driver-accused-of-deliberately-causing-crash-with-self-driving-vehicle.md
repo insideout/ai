@@ -41,21 +41,6 @@ related:
       - url: "https://s.marketwatch.com/public/resources/images/MW-HD183_waymo_ZH_20190201153208.jpg"
         width: 890
         height: 501
-  - title: "‘Disgruntled’ former Waymo self-driving car operator arrested for causing car crash"
-    excerpt: "A former Waymo contractor was arrested after allegedly forcing one of the company’s self-driving cars to crash in Tempe last month, according to AZ Central. Police say 31-year-old Raymond Tang drove his Mazda recklessly around the Waymo vehicle, eventually swerving in front of the self-driving car and slamming his brakes, causing the Waymo ..."
-    publishedDateTime: 2020-02-13T22:27:00Z
-    webUrl: "https://www.theverge.com/2020/2/13/21136878/waymo-disgruntled-employee-self-driving-car-crash-autonomous"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2020/2/13/21136878/waymo-disgruntled-employee-self-driving-car-crash-autonomous"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/13/21136878/waymo-disgruntled-employee-self-driving-car-crash-autonomous"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 83
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/e2sevaTPzwSLrrkLMMC8ntmIiWI=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66310283/vpavic_191202_3827_0025.0.jpg"
-        width: 1400
-        height: 933
   - title: "Man Arrested for Brake-Checking Waymo Self-Driving Van, Causing Crash"
     excerpt: "Raymond Tang was a former Waymo van operator who worked for a contractor of the self-driving-vehicle company. He was arrested on charges of intentionally causing one to crash on January 30. Since his termination, according to Waymo, he is accused of ..."
     publishedDateTime: 2020-02-14T06:43:00Z
@@ -131,15 +116,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2019/12/05/PPHX/49da8cef-9013-4309-8971-2f2f091b3615-_X8I2293.jpg?auto=webp&crop=5471,3077,x0,y278&format=pjpg&width=1200"
         width: 1200
         height: 675
-  - title: "Former Waymo Operator Tricks Self-Driving Car Into Crashing, Cops Say"
-    excerpt: "He was allegedly successful, and a self-driving vehicle slammed into his Mazda sedan around 10:30 p.m. January 30, as a local ABC affiliate previously reported. The Waymo vehicle’s autonomous driving was not engaged at the time of the crash, according to Tempe police, and the driver was the only one inside the vehicle. “His initial ..."
-    publishedDateTime: 2020-02-13T22:40:00Z
-    webUrl: "https://www.thedailybeast.com/former-waymo-operator-tricks-self-driving-car-into-crashing-in-tempe-cops-say"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 19
   - title: "Ex-Waymo Driver Charged In Self-Driving Van Crash"
     excerpt: "A former Waymo employee has been arrested and is facing felony charged of aggravated assault and criminal damage following damage caused to a Waymo self-driving vehicle."
     publishedDateTime: 2020-02-17T22:25:00Z
