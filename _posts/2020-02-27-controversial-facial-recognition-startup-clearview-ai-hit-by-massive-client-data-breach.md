@@ -199,6 +199,21 @@ related:
       - url: "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202002/ott_now_facial_200227_1920x1080.nbcnews-fp-1200-630.jpg"
         width: 1200
         height: 630
+  - title: "Facial recognition app Clearview AI has been used far more widely in Canada than previously known"
+    excerpt: "From Mounties and small-town cops to a Rexall employee hoping to bust shoplifters — a facial recognition tool at the centre of international controversy has been used far more widely in Canada than had been previously known. On Thursday, a dozen police forces and private businesses confirmed their officers or employees had used the technology ..."
+    publishedDateTime: 2020-02-28T02:36:00Z
+    webUrl: "https://www.thestar.com/news/canada/2020/02/27/facial-recognition-app-clearview-ai-has-been-used-far-more-widely-in-canada-than-previously-known.html"
+    ampWebUrl: "https://www.thestar.com/amp/news/canada/2020/02/27/facial-recognition-app-clearview-ai-has-been-used-far-more-widely-in-canada-than-previously-known.html"
+    cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/news/canada/2020/02/27/facial-recognition-app-clearview-ai-has-been-used-far-more-widely-in-canada-than-previously-known.html"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com
+    quality: 61
+    images:
+      - url: "https://images.thestar.com/Mj2qYaNbSmqNjuxYR5Cmr3ZUqSM=/1200x800/smart/filters:cb(1582856708927)/https://www.thestar.com/content/dam/thestar/news/canada/2020/02/27/facial-recognition-app-clearview-ai-has-been-used-far-more-widely-in-canada-than-previously-known/rcmp.jpg"
+        width: 1200
+        height: 800
   - title: "Clearview hack fuels debate over facial recognition"
     excerpt: "Clearview AI, the highly controversial startup at the centre of a row over the ethics of facial recognition technology, has prompted renewed and heated debate over its activities after admitting that its entire client database of more than 600 law enforcement agencies has been stolen. Clearview holds in excess of three billion photos of people ..."
     publishedDateTime: 2020-02-27T15:04:00Z

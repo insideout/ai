@@ -250,6 +250,19 @@ related:
       - url: "https://photos5.appleinsider.com/gallery/34692-62829-200227-Car-xl.jpg"
         width: 660
         height: 333
+  - title: "Four Chinese Self-Driving Firms Make California DMV's Top 10 for Autonomy"
+    excerpt: "Baidu's four self-driving cars in the state topped the leaderboard after driving 108,300 miles last year and requiring the Apollo autonomous driving platform to disengage, meaning it required human intervention, just six times, the department said. Auto X and Pony.AI came in fourth and fifth, while Didi ranked eighth after submitting its test ..."
+    publishedDateTime: 2020-02-28T02:37:00Z
+    webUrl: "https://yicaiglobal.com/news/four-chinese-self-driving-firms-make-california-dmv-top-10-for-autonomy"
+    type: article
+    provider:
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 23
+    images:
+      - url: "https://s3-us-west-2.amazonaws.com/www.yicaiglobal.com/documents/four-chinese-self-driving-firms-make-california-dmv-top-10-for-autonomy/top.jpg"
+        width: 720
+        height: 480
   - title: "California records 2.9M self-driving miles in 2019"
     excerpt: "California's self-driving car companies covered 2.9M miles in 2019, according to the state's DMV, with Alphabet's (GOOG, GOOGL) Waymo and General Motors' (NYSE:GM) Cruise leading the pack. However, a backlash is growing against the \"disengagement\" reporting metric, which reveals how frequently humans need to take control. Waymo had 13,219 miles ..."
     publishedDateTime: 2020-02-27T08:44:00Z

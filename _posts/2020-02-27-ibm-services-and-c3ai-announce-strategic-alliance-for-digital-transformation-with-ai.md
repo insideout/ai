@@ -82,6 +82,19 @@ related:
       - url: "https://itwire.com/media/k2/items/cache/5843c2c90019f7e7fd0236288e0be186_M.jpg"
         width: 375
         height: 249
+  - title: "DocuSign buys AI contract analytics firm Seal Software for $188M"
+    excerpt: "Founded in 2010, Seal develops contract discovery and contract management software solutions. Using user-driven machine learning and natural language processing, the company’s software allows users to find contracts of any type across their networks quickly as well as being able to understand risk and opportunities hidden in contracts ..."
+    publishedDateTime: 2020-02-28T02:13:00Z
+    webUrl: "https://siliconangle.com/2020/02/27/docusign-buys-ai-contract-analytics-firm-seal-software-188m/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/02/seal.jpg"
+        width: 1536
+        height: 768
 
 secured: "xdRpWo79qG1w4MiteEnikht69//0uQJA57RdsQsMjlUrfZJGg7ID/ex9OjGE0NOasqi5QQxDKLY3E/1D0iI1CRxQzA9s7d6h3DCjnPOrDe4qLMW6brgFURDC2nJA7F9INkuy3EyEt5T4QTRkZ4HYTHHbYTPHG3lEp0AtKT06/XeM35Y76mnbU7hUW9CctFYFW5XnLODOnVOeaNtirjQuezfDC9xTmIDfvsOJd7cBqcPaFlDYydg+Z+tMRGQU2jUL+lQmhVTvzE1HcJsDR9QZqWQBCCwVbkoQpr9BI+WD1+/jnEVxhtHbOmS7cFowu8JcyMjb3ybvXJbWBHfk3b/3ofIdJjmeksCs+rPiChn11slR1vtY9NbuzVbP7zmbh1wrEaZ885lWiOfufD5IdaOQF1+CqTUTwAC77TzHnbGBWwCGmzbRwPMZNB+njU+W/skxSKPaZNeeOzf4WU/9FpeHZf6YsDlFg69gSikGSFR8EKQ=;3H5rAFWJpvS6pwPwNUOwWA=="
 ---

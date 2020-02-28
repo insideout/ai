@@ -41,15 +41,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "AI in Fintech Solution Market"
-    excerpt: "QYReports publishes well-known statistical reports in a huge database titled AI in Fintech Solution Market. Market research is organized by primary and secondary research techniques. Analytical reports also include various key aspects that shape the future of the business. It also offers several approaches to increase customer growth frequently."
-    publishedDateTime: 2020-02-13T10:07:00Z
-    webUrl: "https://www.openpr.com/news/1930953/what-s-so-trendy-about-ai-in-fintech-solution-market-that"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 19
 
 secured: "cNq6pwXCP1FE9g6Tsr5Kdk3LouTv9B0wmbHDeXuettxsUAlsO6Qucm7kb1BFqu1zLT/Z0k8cvy9Qhbs6uIEAD+gfFAiEuZH2gGt+QIxzbitDttLhyPB3xKD2y+9ZZkUU8Ce7zx+nqoRwrThe908FvywyfwwkHtIr8WmG1FzicQpr+3WegfKOZTDGSoAbE4ZBi84eP6pYScTddRQrQjA/xY1KrAWOOoLDW/pKGorJCwGOXmvetsv6IVdC92UoK03MZDoqGd6Q6/cc9zw/SjQrjEzfPXxU/yIAe0BUTIZqOtIPTNNSYscGHPpeKTgcV87+;TDh+npkTgZ7Af2TDkM3RJQ=="
 ---

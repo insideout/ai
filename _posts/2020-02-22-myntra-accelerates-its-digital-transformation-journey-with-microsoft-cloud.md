@@ -68,6 +68,19 @@ related:
       name: ETCIO.com
       domain: indiatimes.com
     quality: 37
+  - title: "CORRECTING and REPLACING IBM Services and C3.ai Announce Strategic Alliance for Digital Transformation with AI"
+    excerpt: "“The combination of C3.ai, IBM Services, and IBM Watson can help businesses rapidly embed AI into their critical workflows, enabling our clients to move to the future at pace.” Organizations can see value in partnering with IBM and C3.ai to deploy AI and machine learning applications with speed, and at global scale. “Businesses working to ..."
+    publishedDateTime: 2020-02-27T21:54:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200227005645/en/CORRECTING-REPLACING-IBM-Services-C3.ai-Announce-Strategic"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 19
+    images:
+      - url: "https://mms.businesswire.com/media/20200227005645/en/710054/23/C3_Logo_300_black.jpg"
+        width: 1200
+        height: 627
 
 secured: "Iwk37KQmwvwVGevMnP1JjH96lLnIybvZQ+bUNbNgUVIYthLfVCRjrjkxpE4JEsqTJCYRmPkbigMur5+uZKlqJYog38/akROyAyoMvGf2VUzVBStDvHLagPFsbgX8qyYrOMfKFhRjZiUT8gPRIBKpdmJJGeZNNhcliUtS2x/Ic6Qdu7ddAygCirbnq9zlhGL7Z2dQVPFbLwyRh9BacLTlFtBeNOp39QkSyR9JucMToFxe8ORH/wPe5tCp7U1su46mRtQBVP87S0X0i49Idp+2AlVbioHpg62qLLJvrNRdr6/7dYBmumFHxIfreoEp3Oda;WU2GuPdfyJZ6DLNwvD8/eQ=="
 ---

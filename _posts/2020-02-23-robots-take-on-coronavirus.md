@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-23T23:28:00Z
 webUrl: "https://www.jpost.com/HEALTH-SCIENCE/Robots-take-on-coronavirus-618551"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -24,28 +24,30 @@ images:
     title: "Robots take on coronavirus"
 
 related:
-  - title: "Drones. Disinfecting robots. Supercomputers. The coronavirus outbreak is a test for China’s tech industry"
-    excerpt: "The government has long stressed technological innovation as an important pillar of growth, and Beijing has spent billions of dollars on subsidies, loans and bonds designed to spur advancements in artificial intelligence ... from simulation to practice.” And a startup, Shanghai TMIRob, is sending dozens of robots inside hospitals throughout ..."
-    publishedDateTime: 2020-02-24T19:35:00Z
-    webUrl: "https://keyt.com/lifestyle/money-and-business/2020/02/24/drones-disinfecting-robots-supercomputers-the-coronavirus-outbreak-is-a-test-for-chinas-tech-industry/"
+  - title: "How Data, Artificial Intelligence, Coronavirus Intersect"
+    excerpt: "First on Cheddar: iMerit Raises $20 Million in Series B Funding For A.I. Initiatives"
+    publishedDateTime: 2020-02-28T02:18:00Z
+    webUrl: "https://cheddar.com/media/how-data-artificial-intelligence-coronavirus-intersect"
+    ampWebUrl: "https://cheddar.com/media/how-data-artificial-intelligence-coronavirus-intersect.amp"
+    cdnAmpWebUrl: "https://cheddar-com.cdn.ampproject.org/c/s/cheddar.com/media/how-data-artificial-intelligence-coronavirus-intersect.amp"
     type: article
     provider:
-      name: KEYT
-      domain: keyt.com
-    quality: 22
+      name: Cheddar
+      domain: cheddar.com
+    quality: 57
     images:
-      - url: "https://s3.us-east-1.wasabisys.com/keyt.com/2020/02/hypatia-h_036d6558ca5d40262f24cfcdcaf8983f-h_18363860c4c94f3fc0da726aa7ecb32b_preview.jpg"
-        width: 499
-        height: 333
-  - title: "Drones, disinfecting robots, supercomputers: The coronavirus outbreak is a test for China's tech industry"
-    excerpt: "The government has long stressed technological innovation as an important pillar of growth, and Beijing has spent billions of dollars on subsidies, loans and bonds designed to spur advancements in artificial intelligence ... from simulation to practice.\" And a startup, Shanghai TMIRob, is sending dozens of robots inside hospitals throughout ..."
-    publishedDateTime: 2020-02-26T04:07:00Z
-    webUrl: "https://www.cnnphilippines.com/business/2020/2/26/China-tech-industry-coronavirus.html"
+      - url: "https://img.chdrstatic.com/media/a5a10197-47ef-48ed-b40e-59eab81581c4.jpg?width=400&auto=webp"
+        width: 400
+        height: 261
+  - title: "How Boston Children's Hospital Used Data to Create an AI Coronavirus Map"
+    excerpt: "John Brownstein, Boston Children's Hospital chief innovation officer, discusses how the hospital made an AI tool to map the spread of the coronavirus. He speaks on \"Bloomberg Markets.\" (Source: Bloomb"
+    publishedDateTime: 2020-02-26T23:13:00Z
+    webUrl: "https://www.bloomberg.com/news/videos/2020-02-26/how-boston-children-s-hospital-used-data-to-create-an-ai-coronavirus-map-video"
     type: article
     provider:
-      name: CNN Philippines
-      domain: cnnphilippines.com
-    quality: 2
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 46
 
 secured: "ujpMDVg12tNZkHEkPAgA2nhwAxLONQxX0HF4tya/4wEAXOfsVzUQCbPNrUmGw2r7ktfJnUZJcmCRmzJJDT6/De5kwf53dBJBB6fqQNC2xowRFcO7pvk2X51Mljx0zfncQl6qGm5T6yvucQFWQFDOXTR7ATDXZzJj0vsACN2Ws65/hz+wxE2Hx0alJtaLbYXOnS41HIi6XJ6tJVk1SySl285h4zj0S3dQ0R5f5vI2HzVHlk6tg5zen0irkB/TnN5i+uVLRg95MJKUoOoYqQCdByin6+bEDWVvNl/tsbKaKIeMIRhz7DtiyClV9C3So03HBJldIrodNHfjFsWMY+ZF3+4t8iLGzmJPPvsEk1zqPsLZSgHqD+2FEp9v2yeRZPtohWNMCdNBBLtdEmExEmUKduinHq1gkd0ZprGcYlKqAyBi3o7FzIaa8Uur1LFFsroM8UylJzDjA3pXUuFXkBZEHIULYYzaPAzXZuMc/Zk/fTQ=;TNtS8J9sbMBxHVflghs4aw=="
 ---

@@ -25,16 +25,18 @@ images:
 
 related:
   - title: "Apixio Selected for Natural Language Processing Working Group by National Committee for Quality Assurance"
-    excerpt: "SAN MATEO, Calif., Feb. 26, 2020 /PRNewswire/ -- Apixio Inc., the AI healthcare analytics company, today announced that it was among three companies selected by the National Committee for Quality Assurance (NCQA) to participate in the organization's Natural Language Processing (NLP) Working Group. The group convenes this spring to help NCQA ..."
+    excerpt: "/PRNewswire/ -- Apixio Inc., the AI healthcare analytics company, today announced that it was among three companies selected by the National Committee"
     publishedDateTime: 2020-02-26T14:06:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/apixio-selected-for-natural-language-processing-working-group-by-national-committee-for-quality-assurance-1028941596"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/apixio-selected-for-natural-language-processing-working-group-by-national-committee-for-quality-assurance-1028941596"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/apixio-selected-for-natural-language-processing-working-group-by-national-committee-for-quality-assurance-1028941596"
+    webUrl: "https://www.prnewswire.com/news-releases/apixio-selected-for-natural-language-processing-working-group-by-national-committee-for-quality-assurance-301011700.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 52
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 22
+    images:
+      - url: "https://mma.prnewswire.com/media/898018/Apixio_Logo.jpg?p=facebook"
+        width: 2700
+        height: 1414
 
 secured: "ExH38NzEf6eGHjsQpQseoPi1rGjnPyZRydmw4P3YP7UlzWC9F8FI+jzeZhp43FOm+WmEcibjZU9fB3JbGoQn1zALI3jS+djntIWYwwjiNGxRjD/0nFgFVRt9rqQ1cg94LxzPjSqXbTFYm+++wTm/Eg6RzrK2+9tpGPnWFN+pm2KivvIPemV67f8oHR/atF9+uJA/ith76q0WEQ9N9OMlEpHdldj59ph6XP8Ryi8mRYzNhYnea0SzbULRLqgpSmmXQfo8XE0G0wErn0kT2MxDaKkR2fckrD7llOBrb3RQtjmCxenDj/UPc7l/NDp58pI7;eUxwl/pWUQ6uuvCp+DY1Sw=="
 ---

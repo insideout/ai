@@ -72,6 +72,19 @@ related:
       - url: "https://itwire.com/media/k2/items/cache/5843c2c90019f7e7fd0236288e0be186_M.jpg"
         width: 375
         height: 249
+  - title: "DocuSign buys AI contract analytics firm Seal Software for $188M"
+    excerpt: "Founded in 2010, Seal develops contract discovery and contract management software solutions. Using user-driven machine learning and natural language processing, the company’s software allows users to find contracts of any type across their networks quickly as well as being able to understand risk and opportunities hidden in contracts ..."
+    publishedDateTime: 2020-02-28T02:13:00Z
+    webUrl: "https://siliconangle.com/2020/02/27/docusign-buys-ai-contract-analytics-firm-seal-software-188m/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/02/seal.jpg"
+        width: 1536
+        height: 768
   - title: "IBM Services and C3.ai Announce Strategic Alliance for Digital Transformation With AI"
     excerpt: "“The combination of C3.ai, IBM Services, and IBM Watson can help businesses rapidly embed AI into their critical workflows, enabling our clients to move to the future at pace.” “Businesses working to transform amid ongoing market disruption require partners with the industry expertise, proven platforms and services experience to help them ..."
     publishedDateTime: 2020-02-27T15:22:00Z

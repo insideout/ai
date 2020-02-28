@@ -23,6 +23,6 @@ images:
     height: 345
     title: "Google's AI push comes with plenty of people problems"
 
-secured: "LWiqkKFGY5GOtpgKBP6Yjr9T3TBy4h3qUjwCF15xn/qfgy/d37dLOaivBZGkQ5zrLiVkoCP758vCn+WTdqgFo00/o0LgwM0W425zdtd8Wnp7+svoTPyZwRHHkk8YQtSCdSzFmQ7Bi0KRc9cE91IJqgsLkJQYszyNDr144gFrN17283vxoY7uE3bkO5iKv1w8q5WcchW/74lvIKFF6383OvfgoPNZ4hZgaht8OSxsZcyXGCqoDQ96BWj6+zoT2F3lczhbKAwRgcsAjL8wgVx5HJVA6RDklnNNtHeBpJFJU3Ptg/kUGwYZRQA95XYmLHgP;Kp1wi82j47PxsDSFBO1piA=="
+secured: "56pEiFGI2NpWq86Ddl83okZqpbajTNotH9d5VqD2Dvbxd/Ttm/QYJdZPBramG9/rQvEPW/neljHg4tXTBXuQ/Ne1jR1Z+h6AR3Wl0HJaIQD9kbgR3WV1/6ifb1FUWULr1R62+dW9y26eH9v9B6p9yPvovNKXku/pNO5PFulssiamLDZSK68w3wMZHlRvhR5OT3HLAQwwUEh0OEfpXra7iFkFRaJvBtSfgGQIKYlqXdhKfsUqie8i6fKIYdE0h84/6CJonIL8iNTu0NAHfZoleYKHbQ/65i64deYBzlMOhOFHc934Kb9LQLF7R92PGTnb;q3S6ulr1lvZhB+U6YQLlaQ=="
 ---
 

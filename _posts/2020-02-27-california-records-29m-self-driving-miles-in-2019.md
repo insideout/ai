@@ -253,6 +253,19 @@ related:
       - url: "https://photos5.appleinsider.com/gallery/34692-62829-200227-Car-xl.jpg"
         width: 660
         height: 333
+  - title: "Four Chinese Self-Driving Firms Make California DMV's Top 10 for Autonomy"
+    excerpt: "Baidu's four self-driving cars in the state topped the leaderboard after driving 108,300 miles last year and requiring the Apollo autonomous driving platform to disengage, meaning it required human intervention, just six times, the department said. Auto X and Pony.AI came in fourth and fifth, while Didi ranked eighth after submitting its test ..."
+    publishedDateTime: 2020-02-28T02:37:00Z
+    webUrl: "https://yicaiglobal.com/news/four-chinese-self-driving-firms-make-california-dmv-top-10-for-autonomy"
+    type: article
+    provider:
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 23
+    images:
+      - url: "https://s3-us-west-2.amazonaws.com/www.yicaiglobal.com/documents/four-chinese-self-driving-firms-make-california-dmv-top-10-for-autonomy/top.jpg"
+        width: 720
+        height: 480
 
 secured: "MdhJnUGCUo4tJdLEOhXDxKoIE7ONR0xsauDjfnM77tHH+kzSm8a7J16VAGtpi7AdToquNe9AS2XugLSEKTXywzTmYV/9dnCJf8u9NX9bzXtD5pxvoX2YB4gQ04N2xK/4yPf9VtftMYkg2umjKS5+3UkEgvPM+KRJysY/KcIxdG+vmGxw4H6JhD62QVJEJMebUmi8n6wFt0KV7mbPcrb/ZamC7UH+MoEmOBNOtXZeje7xCV3I/afGeZknzw1WvlNr8wfwYpHKXHsEs/gPnVCVKchGnGe2MnypmSasTWIbkIsA396HFI6S9/aye0KC39w0;xsOWVebgzQFGcIYeKp5TpQ=="
 ---

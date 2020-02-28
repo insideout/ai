@@ -774,7 +774,7 @@
       "path": "_posts/2020-02-27-docusign-acquires-seal-software-for-188m-to-enhance-its-ai-chops.md",
       "title": "DocuSign acquires Seal Software for $188M to enhance its AI chops",
       "excerpt": "These companies use Seal for its contract management tools, but also for its analytics, discovery and data extraction services. And it’s these AI smarts the company developed over time to help businesses analyze their contracts that made DocuSign acquire the company. This can help them significantly reduce their time for legal reviews ...",
-      "heat": 127,
+      "heat": 137,
       "tags": null,
       "type": "article",
       "webUrl": "https://techcrunch.com/2020/02/27/docusign-acquires-seal-software-for-188m-to-enhance-its-ai-chops/",
@@ -1634,6 +1634,42 @@
       ]
     },
     {
+      "path": "_posts/2020-02-28-how-data-artificial-intelligence-coronavirus-intersect.md",
+      "title": "How Data, Artificial Intelligence, Coronavirus Intersect",
+      "excerpt": "First on Cheddar: iMerit Raises $20 Million in Series B Funding For A.I. Initiatives",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cheddar.com/media/how-data-artificial-intelligence-coronavirus-intersect",
+      "ampWebUrl": "https://cheddar.com/media/how-data-artificial-intelligence-coronavirus-intersect.amp",
+      "cdnAmpWebUrl": "https://cheddar-com.cdn.ampproject.org/c/s/cheddar.com/media/how-data-artificial-intelligence-coronavirus-intersect.amp",
+      "publishedDateTime": "2020-02-27T18:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cheddar",
+        "domain": "cheddar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://img.chdrstatic.com/media/a5a10197-47ef-48ed-b40e-59eab81581c4.jpg?width=400&auto=webp",
+          "width": 400,
+          "height": 261,
+          "title": "How Data, Artificial Intelligence, Coronavirus Intersect",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_posts/2020-02-28-ice-warrantless-facial-recognition-searches-trigger-maryland-bill.md",
       "title": "ICE warrantless facial recognition searches trigger Maryland bill",
       "excerpt": "Cortez spoke today in the Maryland General Assembly in favor of a bill that requires ICE obtain a warrant from a judge before the agency can use facial recognition to search the Maryland Image Repository System or MRS. Maryland began to issue driver’s licenses to immigrants in 2013. On Wednesday, the Washington Post reported that ICE searched ...",
@@ -2069,43 +2105,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2019-12-16-waymo-acquires-ai-startup-latent-logic.md",
-      "title": "Waymo acquires AI startup Latent Logic",
-      "excerpt": "Waymo has acquired Latent Logic, a startup formed as an Oxford University spinoff that specializes in \"imitation learning\" for artificial intelligence technology. The company has focused its work on simulation environments that help train algorithms for ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://leftlanenews.com/2019/12/16/waymo-acquires-ai-startup-latent-logic/",
-      "ampWebUrl": "https://leftlanenews.com/2019/12/16/waymo-acquires-ai-startup-latent-logic/",
-      "cdnAmpWebUrl": "https://leftlanenews-com.cdn.ampproject.org/c/s/leftlanenews.com/2019/12/16/waymo-acquires-ai-startup-latent-logic/",
-      "publishedDateTime": "2019-12-16T05:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Leftlane",
-        "domain": "leftlanenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://leftlanenews.com/images/content/2019-08/WaymoIPACE-city2_700.jpg",
-          "width": 700,
-          "height": 449,
-          "title": "Waymo acquires AI startup Latent Logic",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

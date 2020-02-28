@@ -59,6 +59,19 @@ related:
       name: ETCIO.com
       domain: indiatimes.com
     quality: 37
+  - title: "CORRECTING and REPLACING IBM Services and C3.ai Announce Strategic Alliance for Digital Transformation with AI"
+    excerpt: "“The combination of C3.ai, IBM Services, and IBM Watson can help businesses rapidly embed AI into their critical workflows, enabling our clients to move to the future at pace.” Organizations can see value in partnering with IBM and C3.ai to deploy AI and machine learning applications with speed, and at global scale. “Businesses working to ..."
+    publishedDateTime: 2020-02-27T21:54:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200227005645/en/CORRECTING-REPLACING-IBM-Services-C3.ai-Announce-Strategic"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 19
+    images:
+      - url: "https://mms.businesswire.com/media/20200227005645/en/710054/23/C3_Logo_300_black.jpg"
+        width: 1200
+        height: 627
   - title: "Myntra accelerates its digital transformation journey with Microsoft cloud"
     excerpt: "By building and centralizing its data platform on Azure, Myntra is applying advanced analytics and machine learning to gain a comprehensive understanding of customers and deliver highly personalized products, marketing, and service for them. The company is using Microsoft Power BI to empower its employees to visualize and act on real-time ..."
     publishedDateTime: 2020-02-22T00:19:00Z
