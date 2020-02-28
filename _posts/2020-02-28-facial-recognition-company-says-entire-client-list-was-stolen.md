@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Clearview AI, the facial-recognition company stealing Facebook photos, gets hacked"
-excerpt: "Clearview AI, the creepy facial-recognition company that scrapes your photos from social media, has been hacked. According to a report by The Daily Beast, hackers accessed data including \"its entire list of customers, the number of searches those customers have made and how many accounts each customer had set up.\" Yes, a company primarily ..."
-publishedDateTime: 2020-02-26T18:41:00Z
-webUrl: "https://mashable.com/article/clearview-ai-client-list-hacked/"
-ampWebUrl: "https://mashable.com/article/clearview-ai-client-list-hacked.amp"
-cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/clearview-ai-client-list-hacked.amp"
+title: "Facial recognition company says entire client list was stolen"
+excerpt: "Facial recognition firm Clearview A.I. has confirmed to NBC News that their entire client list has been stolen.Feb. 28, 2020 © 2020 NBC UNIVERSAL"
+publishedDateTime: 2020-02-28T01:28:00Z
+webUrl: "https://www.nbcnews.com/now/video/facial-recognition-company-says-entire-client-list-was-stolen-79580229780"
 type: article
-quality: 83
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: Mashable
-  domain: mashable.com
+  name: NBC News
+  domain: nbcnews.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: "https://mondrian.mashable.com/2020%252F02%252F26%252Ff8%252Fb7ae576e678b4164821136834cb6b965.a9d7d.jpg%252F1200x630.jpg?signature=1ED1HL_mJDPNyNyJgXoYnP97tW0="
+  - url: "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202002/ott_now_facial_200227_1920x1080.nbcnews-fp-1200-630.jpg"
     width: 1200
     height: 630
-    title: "Clearview AI, the facial-recognition company stealing Facebook photos, gets hacked"
+    title: "Facial recognition company says entire client list was stolen"
 
 related:
   - title: "Facial recognition company Clearview AI probed by Canada privacy agencies"
@@ -129,6 +127,21 @@ related:
       - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
         width: 1200
         height: 630
+  - title: "Clearview AI, the facial-recognition company stealing Facebook photos, gets hacked"
+    excerpt: "Clearview AI, the creepy facial-recognition company that scrapes your photos from social media, has been hacked. According to a report by The Daily Beast, hackers accessed data including \"its entire list of customers, the number of searches those customers have made and how many accounts each customer had set up.\" Yes, a company primarily ..."
+    publishedDateTime: 2020-02-26T18:41:00Z
+    webUrl: "https://mashable.com/article/clearview-ai-client-list-hacked/"
+    ampWebUrl: "https://mashable.com/article/clearview-ai-client-list-hacked.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/clearview-ai-client-list-hacked.amp"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 83
+    images:
+      - url: "https://mondrian.mashable.com/2020%252F02%252F26%252Ff8%252Fb7ae576e678b4164821136834cb6b965.a9d7d.jpg%252F1200x630.jpg?signature=1ED1HL_mJDPNyNyJgXoYnP97tW0="
+        width: 1200
+        height: 630
   - title: "Clearview AI, controversial facial-recognition company focused on cybersecurity, gets hacked"
     excerpt: "Clearview AI, the creepy facial-recognition company that scrapes your photos from social media, has been hacked. According to a report by The Daily Beast, hackers accessed data including \"its entire list of customers, the number of searches those customers have made and how many accounts each customer had set up.\" Yes, a company primarily ..."
     publishedDateTime: 2020-02-26T18:41:00Z
@@ -174,19 +187,6 @@ related:
       - url: "https://img.buzzfeed.com/buzzfeed-static/static/2020-01/23/15/campaign_images/2f678849f533/clearview-ai-says-its-facial-recognition-software-2-1696-1579792527-1_dblbig.jpg"
         width: 625
         height: 415
-  - title: "Facial recognition company says entire client list was stolen"
-    excerpt: "Facial recognition firm Clearview A.I. has confirmed to NBC News that their entire client list has been stolen.Feb. 28, 2020 © 2020 NBC UNIVERSAL"
-    publishedDateTime: 2020-02-28T01:28:00Z
-    webUrl: "https://www.nbcnews.com/now/video/facial-recognition-company-says-entire-client-list-was-stolen-79580229780"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 69
-    images:
-      - url: "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202002/ott_now_facial_200227_1920x1080.nbcnews-fp-1200-630.jpg"
-        width: 1200
-        height: 630
   - title: "Clearview hack fuels debate over facial recognition"
     excerpt: "Clearview AI, the highly controversial startup at the centre of a row over the ethics of facial recognition technology, has prompted renewed and heated debate over its activities after admitting that its entire client database of more than 600 law enforcement agencies has been stolen. Clearview holds in excess of three billion photos of people ..."
     publishedDateTime: 2020-02-27T15:04:00Z
@@ -342,6 +342,6 @@ related:
         width: 1500
         height: 860
 
-secured: "ZcN+/Ten+GuivvLQkc+YCvJTucEysTRuiGJsD9rMHkHfoO8kuQH6auYP3fnMcLmdX4akfISJEKpIUXwctpZe7WhwmGYhPbuGp3plV7wmSSdFxP1TjqiJIxo6NtrJiHLt+xMkm0vSSD1xfytYO82FScl1VlU/1P1MTCWFyLV60qKdiZuIkRri8zqvdiDSB1AaUF1pEi89vWXZwso84hTG2NnO88TuOG0LQqTTI0m4GKMXBQ/AZipoFLqSgS91cQ5JNfhPIYi7WdJLXnR8Yj1dsjZTSMFaDjN4aJW1KFOm1BZ5BW0/0+tqNKfRynv0VNO1L5MiXIW+g0cphY1wgpUV/KI2jocdYhc5atVJTKzJYWWEzfx/cRUvrwThoUiVtkC6NVaxdnxewpQcDeUl54J/jBnS+xG/Q+OnpWHqyE9EEdQe3CnIpO3qzmtdH0qnjte6kv3kGR+xziS6jkJ1LmZgn1hUWgfJCKK65Sbk88tIVZA=;T83uU3AslbFl6WF+aUL12g=="
+secured: "LDOtyOl89nt/ovGJBQPjuEmCuVdUZa9EkWVwCACukrqY6FK6SfxwZ6IDR5K8VrRvE6Y8100TrgswXPeqjykBJXCsWQoI5TeGl1miNYcQNn4ydqwen1bHRB66W+Ku1ZqCkPH2fMBqCoH7d/5eKS+DJ8LJoMDM2uxOZJd+2xDRryCzkYdf0tA8Q6S/4nPJp5IMrUd4jY7aeUi6Cg7poE+GDrtFBpmwkWQf9PKjiibyHiR0BxG1djqfYcTho49DAQPDxRd/KVixYiLAQ36o9qd+Fm3rOu2HdgVeli3GZI9ejXGyf3/xjMjTBm8stayUM5gZ;VRL1H3ZtGIi89147iu11SA=="
 ---
 

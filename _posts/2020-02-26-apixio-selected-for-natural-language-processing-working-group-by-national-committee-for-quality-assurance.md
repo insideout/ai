@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Apixio Selected for Natural Language Processing Working Group by National Committee for Quality Assurance"
-excerpt: "/PRNewswire/ -- Apixio Inc., the AI healthcare analytics company, today announced that it was among three companies selected by the National Committee"
+excerpt: "SAN MATEO, Calif., Feb. 26, 2020 /PRNewswire/ -- Apixio Inc., the AI healthcare analytics company, today announced that it was among three companies selected by the National Committee for Quality Assurance (NCQA) to participate in the organization's Natural Language Processing (NLP) Working Group. The group convenes this spring to help NCQA ..."
 publishedDateTime: 2020-02-26T14:06:00Z
-webUrl: "https://www.prnewswire.com/news-releases/apixio-selected-for-natural-language-processing-working-group-by-national-committee-for-quality-assurance-301011700.html"
+webUrl: "https://markets.businessinsider.com/news/stocks/apixio-selected-for-natural-language-processing-working-group-by-national-committee-for-quality-assurance-1028941596"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/apixio-selected-for-natural-language-processing-working-group-by-national-committee-for-quality-assurance-1028941596"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/apixio-selected-for-natural-language-processing-working-group-by-national-committee-for-quality-assurance-1028941596"
 type: article
-quality: 22
-heat: 22
+quality: 52
+heat: 62
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
   - Natural Language Processing
-
-images:
-  - url: "https://mma.prnewswire.com/media/898018/Apixio_Logo.jpg?p=facebook"
-    width: 2700
-    height: 1414
-    title: "Apixio Selected for Natural Language Processing Working Group by National Committee for Quality Assurance"
 
 related:
   - title: "Apixio Selected for Natural Language Processing Working Group by National Committee for Quality Assurance"
@@ -38,6 +38,6 @@ related:
         width: 400
         height: 400
 
-secured: "qrJkXpTBCeWwotPaA6DSRw6A1ScCQ2d8/o1D0S0nsXaRYUlklTxKPy4u0lZo7QhpIBo/QFQv21CtRGO2aztpILy0RHZdjtFIDfh8XnsRmsks8V96wgHVISq6DaLOgMrpuIjnrTizPfk46ceV6VidXDIJaSXnc8ilMwcYktn6HjDke44TajGaOblNp5HGftQDpEXYKbR4cvFYWmDD+dqIE8m8UPlwVg0avH0TIm6/iFocI/xf17icVZmeHfQ2wAK7AuTvaXXCTyaBkSvx4o5QVg/ecY0y+RO8VAI4GLYZ61/90I2fwA6Sh4jasvFIsNti;SVqNRmClLJdSe1VGJMXHmw=="
+secured: "VgoBnn9gC/OxigWOZjaaG9VETxvf+9YXaL+7DiZPyk7oG7OCncwXRwuj478QsBW9QNVrt0fzZOudPOUii1zLhCRXPxmjhHuKUPPk9BXJDUUuoFbAWdxXSfh32N3b5mX4pCokKoD0Roi94COwBq6gmkXb/1xnFEtnNN684nILI8MiY7bY46Hfke0I+y+0fxHDOtY6FG0qdO0gDJkvwk61Ur+dIg5h3SdkvcqXZtINok7oq9WXOjcGap5zSfsKvV+0vDeDJ8Whl3jPzsfeC6wVhhzu0VvXHQ4FKyfj9ZZnujQzBSYdMZbUs7ZnFhCFQZ/yavfwScUeMGA+fUe9JhfCWfGXlTIbQcaphDS1oqtOzq8GzYc4xqcXHjX+TXdUGbMhmcGQs0C0ycygZPdCZSYrEZAdf6INDwGKtX4MUP8HPI/DgEFuxOyRAIi5BnY8zpiuLmlTMGkCiQS4Kh3KH+dbH9AEkTFIDWc+nplDs0Xvv9M=;nH0SBD3U8gpFEOaakYfcYA=="
 ---
 

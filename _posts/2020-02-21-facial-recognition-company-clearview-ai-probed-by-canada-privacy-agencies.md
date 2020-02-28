@@ -8,7 +8,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN20F2I3"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN20F2I3"
 type: article
 quality: 103
-heat: 323
+heat: 333
 published: true
 
 provider:
@@ -178,6 +178,19 @@ related:
       - url: "https://img.buzzfeed.com/buzzfeed-static/static/2020-01/23/15/campaign_images/2f678849f533/clearview-ai-says-its-facial-recognition-software-2-1696-1579792527-1_dblbig.jpg"
         width: 625
         height: 415
+  - title: "Facial recognition company says entire client list was stolen"
+    excerpt: "Facial recognition firm Clearview A.I. has confirmed to NBC News that their entire client list has been stolen.Feb. 28, 2020 © 2020 NBC UNIVERSAL"
+    publishedDateTime: 2020-02-28T01:28:00Z
+    webUrl: "https://www.nbcnews.com/now/video/facial-recognition-company-says-entire-client-list-was-stolen-79580229780"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 69
+    images:
+      - url: "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202002/ott_now_facial_200227_1920x1080.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
   - title: "Clearview hack fuels debate over facial recognition"
     excerpt: "Clearview AI, the highly controversial startup at the centre of a row over the ethics of facial recognition technology, has prompted renewed and heated debate over its activities after admitting that its entire client database of more than 600 law enforcement agencies has been stolen. Clearview holds in excess of three billion photos of people ..."
     publishedDateTime: 2020-02-27T15:04:00Z

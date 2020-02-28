@@ -178,6 +178,19 @@ related:
       - url: "https://media.foxbusiness.com/BrightCove/854081161001/202002/1214/854081161001_6132703327001_6132714474001-vs.jpg"
         width: 1280
         height: 720
+  - title: "Facial recognition company says entire client list was stolen"
+    excerpt: "Facial recognition firm Clearview A.I. has confirmed to NBC News that their entire client list has been stolen.Feb. 28, 2020 © 2020 NBC UNIVERSAL"
+    publishedDateTime: 2020-02-28T01:28:00Z
+    webUrl: "https://www.nbcnews.com/now/video/facial-recognition-company-says-entire-client-list-was-stolen-79580229780"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 69
+    images:
+      - url: "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202002/ott_now_facial_200227_1920x1080.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
   - title: "Clearview hack fuels debate over facial recognition"
     excerpt: "Clearview AI, the highly controversial startup at the centre of a row over the ethics of facial recognition technology, has prompted renewed and heated debate over its activities after admitting that its entire client database of more than 600 law enforcement agencies has been stolen. Clearview holds in excess of three billion photos of people ..."
     publishedDateTime: 2020-02-27T15:04:00Z
