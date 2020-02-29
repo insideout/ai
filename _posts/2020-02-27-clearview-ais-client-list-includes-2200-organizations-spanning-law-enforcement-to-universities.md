@@ -30,9 +30,9 @@ images:
 
 related:
   - title: "We Found Clearview AI's Shady Face Recognition App"
-    excerpt: "Reporters were able to download the most recent Android version of the app marketed to police by Clearview AI, a New York-based startup whose controversial scraping of an estimate 3 billion photographs from the likes of Facebook, Google, and YouTube have prompted legal threats from major tech companies and alarmed privacy hawks on Capitol Hill."
+    excerpt: "A face recognition app used by thousands of law enforcement agencies, which has drawn considerable scrutiny in past weeks over its creator’s dubious data collection methods, contains code hinting at an unreported range of potential features, based on a version of the app discovered by Gizmodo. Reporters were able to download the most recent ..."
     publishedDateTime: 2020-02-28T03:53:00Z
-    webUrl: "https://gizmodo.com/we-found-clearview-ais-shady-face-recognition-app-1841961772"
+    webUrl: "https://gizmodo.com/we-found-clearview-ais-shady-face-recognition-app-1841961772?rev=1582861547126"
     ampWebUrl: "https://gizmodo.com/we-found-clearview-ais-shady-face-recognition-app-1841961772/amp"
     cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/we-found-clearview-ais-shady-face-recognition-app-1841961772/amp"
     type: article
@@ -194,6 +194,21 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2019/11/GettyImages-1167845607.jpg?w=1024"
         width: 1024
         height: 576
+  - title: "Clearview AI's entire client list stolen in data breach"
+    excerpt: "The breach affected all of the facial recognition company's customers, many of which are law enforcement agencies. Clearview AI says the data breach affected all of its customers. Clearview AI, a facial-recognition software maker that has sparked privacy concerns,"
+    publishedDateTime: 2020-02-26T16:40:00Z
+    webUrl: "https://www.cnet.com/news/clearview-ai-had-entire-client-list-stolen-in-data-breach/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/clearview-ai-had-entire-client-list-stolen-in-data-breach/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/clearview-ai-had-entire-client-list-stolen-in-data-breach/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 87
+    images:
+      - url: "https://cnet1.cbsistatic.com/img/1aArGlj1eo8hNeyu6s8obQPylfI=/756x567/2019/03/18/cca1be95-0ac4-4c06-b742-a22684c09044/facial-recognition-101-promo.jpg"
+        width: 756
+        height: 567
   - title: "Clearview AI: Face-collecting company database hacked"
     excerpt: "Clearview AI, a start-up with a database of more than three billion photographs from Facebook, YouTube and Twitter, has been hacked. The attack allowed hackers to gain access to its client list but it said its servers had not been breached. Most of its clients are US law enforcement agencies who use its facial-recognition software to identify ..."
     publishedDateTime: 2020-02-27T11:21:00Z
@@ -224,21 +239,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-1167845553.jpg?w=1024"
         width: 1024
         height: 576
-  - title: "ProBeat: Clearview AI’s short slippery slope"
-    excerpt: "Facial recognition startup Clearview AI is best known for two things: its facial recognition algorithm that lets you upload a photo to compare with its database of potential matches and that the company created said database by scraping over 3 billion images from user profiles on Microsoft’s LinkedIn, Twitter, Venmo, Google’s YouTube ..."
-    publishedDateTime: 2020-02-28T18:30:00Z
-    webUrl: "https://venturebeat.com/2020/02/28/probeat-clearview-ais-short-slippery-slope/"
-    ampWebUrl: "https://venturebeat.com/2020/02/28/probeat-clearview-ais-short-slippery-slope/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/28/probeat-clearview-ais-short-slippery-slope/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/02/clearview-ai-logo.png?fit=1200%2C600&strip=all"
-        width: 1200
-        height: 600
   - title: "Facial Recognition Company Clearview AI Probed by Canada Privacy Agencies"
     excerpt: "Canadian privacy authorities have launched an investigation into New York-based Clearview AI to determine whether the firm's use of facial recognition technology complies with the country's privacy laws,"
     publishedDateTime: 2020-02-22T09:32:00Z
@@ -327,6 +327,17 @@ related:
       - url: "https://img.buzzfeed.com/buzzfeed-static/static/2020-01/23/15/campaign_images/2f678849f533/clearview-ai-says-its-facial-recognition-software-2-1696-1579792527-1_dblbig.jpg"
         width: 625
         height: 415
+  - title: "Clearview AI’s client list was stolen. Could its massive face database be next?"
+    excerpt: "The controversial artificial intelligence company Clearview AI has experienced a breach that saw the theft of its entire customer list, which is made up of various law enforcement agencies. An intruder was able to gain “unauthorized access” to Clearview’s full customer list, the Daily Beast first reported on Wednesday. Clearview AI says ..."
+    publishedDateTime: 2020-02-26T19:56:00Z
+    webUrl: "https://www.digitaltrends.com/news/clearview-ai-customer-list-stolen/"
+    ampWebUrl: "https://www.digitaltrends.com/news/clearview-ai-customer-list-stolen/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/clearview-ai-customer-list-stolen/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 65
   - title: "Apple disables facial recognition firm Clearview AI's iOS app for violating developer rules"
     excerpt: "Apple has disabled facial recognition technology startup Clearview AI's developer account, and as a consequence its iOS app, for violating terms of the tech giant's enterprise developer agreement. The effective ban, confirmed by Apple on Friday, arrives amid a firestorm of controversy relating to Clearview's operating practices and business ..."
     publishedDateTime: 2020-02-28T21:59:00Z
@@ -426,6 +437,36 @@ related:
       - url: "https://media2.govtech.com/images/shutterstock_1658145967.jpg"
         width: 987
         height: 630
+  - title: "Clearview AI client list reportedly stolen"
+    excerpt: "A list of clients who had contracts with Clearview AI, the startup that has partnered with law enforcement to use facial recognition technology on a massive database of photos, was stolen, according to a new report. The Daily Beast first reported that the ..."
+    publishedDateTime: 2020-02-26T18:55:00Z
+    webUrl: "https://www.dailydot.com/debug/clearview-ai-client-list-stolen/"
+    ampWebUrl: "https://www.dailydot.com/debug/clearview-ai-client-list-stolen/?amp"
+    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/clearview-ai-client-list-stolen/?amp"
+    type: article
+    provider:
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 57
+    images:
+      - url: "https://www.dailydot.com/wp-content/uploads/2020/02/Clearview-AI-Client-List-Stolen-Facial-Recognition-1024x512.jpg"
+        width: 1024
+        height: 512
+  - title: "Clearview AI, the controversial facial-recognition company partnering with police, says its entire customer list was stolen in a breach"
+    excerpt: "Clearview markets its services to law-enforcement agencies and has previously avoided disclosing the identities of its clients."
+    publishedDateTime: 2020-02-26T18:41:00Z
+    webUrl: "https://www.businessinsider.com/clearview-ai-list-customers-stolen-breach-2020-2"
+    ampWebUrl: "https://www.businessinsider.com/clearview-ai-list-customers-stolen-breach-2020-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/clearview-ai-list-customers-stolen-breach-2020-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 57
+    images:
+      - url: "https://i.insider.com/5d8764c92e22af0119409b92?width=1200&format=jpeg"
+        width: 1200
+        height: 600
   - title: "Controversial Facial Recognition Company Clearview AI Has Been Hacked"
     excerpt: "The online security woes just keep on coming, as controversial facial recognition company Clearview AI has been the victim of a security breach. Earlier this year, Clearview AI drew criticism throughout the world for its reckless pursuit of facial recognition data. The company was scraping YouTube videos, Facebook profiles, and any other form ..."
     publishedDateTime: 2020-02-27T21:42:00Z
@@ -463,36 +504,6 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 53
-  - title: "Controversial face recognition software a 'tool' for Sudbury police, but not yet in use"
-    excerpt: "As Canada's privacy commissioner says he will begin investigating concerns around Clearview AI, police in Sudbury say they have not yet used the controversial face recognition software. The powerful new app can identify a person's name, phone number and even their address by comparing their photo to a database of billions of images scraped from ..."
-    publishedDateTime: 2020-02-24T16:55:00Z
-    webUrl: "https://www.cbc.ca/news/canada/sudbury/sudbury-police-software-1.5472055"
-    ampWebUrl: "https://www.cbc.ca/amp/1.5472055"
-    cdnAmpWebUrl: "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.5472055"
-    type: article
-    provider:
-      name: CBC.ca
-      domain: www.cbc.ca
-    quality: 51
-    images:
-      - url: "https://i.cbc.ca/1.5403918.1581719698!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/china-security.JPG"
-        width: 620
-        height: 349
-  - title: "Face recognition tech at centre of hack was used by Edmonton police but no data lost: EPS"
-    excerpt: "EDMONTON -- Controversial facial recognition technology that was hacked this week and is being investigated by several Canadian privacy commissioners was used by Edmonton police officers, the city force has revealed. Three special unit investigators signed up for Clearview AI in December 2019 and used it during an auto theft investigation the ..."
-    publishedDateTime: 2020-02-28T19:58:00Z
-    webUrl: "https://edmonton.ctvnews.ca/mobile/face-recognition-tech-at-centre-of-hack-was-used-by-edmonton-police-but-no-data-lost-eps-1.4832024"
-    ampWebUrl: "https://beta.ctvnews.ca/local/edmonton/2020/2/28/1_4832024.html"
-    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/edmonton/2020/2/28/1_4832024.html"
-    type: article
-    provider:
-      name: CTV News
-      domain: ctvnews.ca
-    quality: 50
-    images:
-      - url: "https://beta.ctvnews.ca/content/dam/ctvnews/images/2020/2/28/1_4832149.jpg?cache_timestamp=1582913146255"
-        width: 1020
-        height: 573
   - title: "RCMP used controversial Clearview AI facial recognition tool on 2 child exploitation cases"
     excerpt: "THE CANADIAN PRESS IMAGES/Lee Brown The RCMP confirmed Wednesday that the police force has been using the controversial facial recognition technology Clearview AI for roughly four months as part of online child sexual exploitation investigations and resulted in the rescue of two children. The Mounties said in a statement Clearview AI’s facial ..."
     publishedDateTime: 2020-02-27T22:40:00Z
@@ -552,6 +563,15 @@ related:
       - url: "https://www.smartcompany.com.au/content/uploads/2020/01/Clearview-AI.jpg"
         width: 681
         height: 333
+  - title: "Data Breach At Controversial Face Recognition Firm Shows Company Can't Be Trusted, U.S. Officials Say"
+    excerpt: "(Photo: Chip Somodevilla (Getty) A security breach at a face-recognition startup, already embattled over its unfettered collection of Americans’ personal data on behalf of its hundreds of U.S. law enforcement clients, further underscores the potential hazards faced by consumers at the hands of a controversial and largely-unregulated ..."
+    publishedDateTime: 2020-02-26T21:14:00Z
+    webUrl: "https://www.gizmodo.com.au/2020/02/data-breach-at-controversial-face-recognition-firm-shows-company-cant-be-trusted-officials-say/"
+    type: article
+    provider:
+      name: Gizmodo Australia
+      domain: gizmodo.com.au
+    quality: 4
   - title: "Apple suspends facial recognition app 'Clearview AI' that's currently being used by law enforcement & banks to solve crimes"
     excerpt: "A new report claims that Apple has disabled the iOS application of Clearview AI — the facial recognition company that claims to have amassed a database of billions of photos and has worked with thousands of organizations around the world — after BuzzFeed News determined that the New York–based startup had been violating the iPhone maker ..."
     publishedDateTime: 2020-02-28T23:32:00Z

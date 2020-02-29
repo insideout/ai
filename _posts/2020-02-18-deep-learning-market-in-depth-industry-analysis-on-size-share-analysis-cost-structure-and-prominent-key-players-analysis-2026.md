@@ -59,19 +59,6 @@ related:
       - url: "https://www.abnewswire.com/uploads/1582271362.jpeg"
         width: 400
         height: 225
-  - title: "AI in Healthcare Market Prospects Outlook 2019-2030 and Top Key Players - NVIDIA, Intel, GENERAL ELECTRIC COMPANY"
-    excerpt: "Companies such as IBM have played a big role in pushing AI into healthcare. The company is using its Watson platform technology in the field of cancer research, insurance claims and clinical support tools to enhance AI needs. For instance, Alder Hey ..."
-    publishedDateTime: 2020-02-14T11:43:00Z
-    webUrl: "https://www.cmo.com.au/mediareleases/38408/ai-in-healthcare-market-prospects-outlook-2019/"
-    type: article
-    provider:
-      name: cmo.com.au
-      domain: cmo.com.au
-    quality: 18
-    images:
-      - url: "https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg"
-        width: 600
-        height: 246
 
 secured: "52jHwtgCM7XJdBpS3sPX6irRtcKojSK0bv4pDLcfEWCw4LY8Mo78gLzaxvVTgPb/wDMqAH6LhaSPuKSyHgqFusOUGW1lEuSs1S7405/axw3C4M2V4vPGokS7Tx+0spAAXe7l2yIpPVoOzFfGnFe+RHWvtyfbPqOuqOGypc8jAtg5sEIx6wP+YFcbUi7Xv+LVcST9NyNmTSZiiveYfVF5wo21u1JSWlyq7T77afSmubiOq5mt1t2aDTaVsaDjntKQIJZ4KBZ/Je3aRDJO6b43o5zKrna/pGQkhaPk2JXii9qb3m6qnJxdFenOd8CiUrgt;G7fwtyi/pQY1fcpf+rVaYQ=="
 ---

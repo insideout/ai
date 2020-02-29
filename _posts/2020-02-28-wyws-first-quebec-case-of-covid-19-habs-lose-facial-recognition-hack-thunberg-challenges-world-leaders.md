@@ -26,28 +26,36 @@ images:
     title: "WYWS: First Quebec case of COVID-19, Habs lose, facial-recognition hack, Thunberg challenges world leaders"
 
 related:
-  - title: "The Quad: Facial recognition faces myriad issues before it can be deployed successfully"
-    excerpt: "The debate over the use of facial recognition software on college campuses has reached UCLA, and the arguments over the technology’s pros and cons have come to a head. UCLA joined this debate with the introduction of a revised version of Policy 133 last year that called for the integration of facial recognition technology into campus security ..."
-    publishedDateTime: 2020-02-28T08:54:00Z
-    webUrl: "https://dailybruin.com/2020/02/28/the-quad-facial-recognition-faces-myriad-issues-before-it-can-be-deployed-successfully/"
+  - title: "Face recognition tech at centre of hack was used by Edmonton police but no data lost: EPS"
+    excerpt: "EDMONTON -- Controversial facial recognition technology that was hacked this week and is being investigated by several Canadian privacy commissioners was used by Edmonton police officers, the city force has revealed. Three special unit investigators signed up for Clearview AI in December 2019 and used it during an auto theft investigation the ..."
+    publishedDateTime: 2020-02-28T19:58:00Z
+    webUrl: "https://edmonton.ctvnews.ca/mobile/face-recognition-tech-at-centre-of-hack-was-used-by-edmonton-police-but-no-data-lost-eps-1.4832024"
+    ampWebUrl: "https://beta.ctvnews.ca/local/edmonton/2020/2/28/1_4832024.html"
+    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/edmonton/2020/2/28/1_4832024.html"
     type: article
     provider:
-      name: Daily Bruin
-      domain: dailybruin.com
-    quality: 31
+      name: CTV News
+      domain: ctvnews.ca
+    quality: 50
     images:
-      - url: "https://dailybruin.com/images/2020/02/facialrecognitiongraphic.png"
-        width: 1553
-        height: 2656
-  - title: "Data Breach At Controversial Face Recognition Firm Shows Company Can't Be Trusted, U.S. Officials Say"
-    excerpt: "(Photo: Chip Somodevilla (Getty) A security breach at a face-recognition startup, already embattled over its unfettered collection of Americans’ personal data on behalf of its hundreds of U.S. law enforcement clients, further underscores the potential hazards faced by consumers at the hands of a controversial and largely-unregulated ..."
-    publishedDateTime: 2020-02-26T21:14:00Z
-    webUrl: "https://www.gizmodo.com.au/2020/02/data-breach-at-controversial-face-recognition-firm-shows-company-cant-be-trusted-officials-say/"
+      - url: "https://beta.ctvnews.ca/content/dam/ctvnews/images/2020/2/28/1_4832149.jpg?cache_timestamp=1582913146255"
+        width: 1020
+        height: 573
+  - title: "Australian Police Have Used A Facial Recognition Tool That Seriously Threatens Privacy, But Never Told Anyone About It"
+    excerpt: "Four of Australia’s police forces have registered users with controversial facial recognition company Clearview AI, a client list obtained by BuzzFeed News reveals. Clearview AI says its powerful and unprecedented facial recognition tool can be used to identify a person in almost any situation. It says it has amassed a database of billions of ..."
+    publishedDateTime: 2020-02-28T00:39:00Z
+    webUrl: "https://www.buzzfeed.com/hannahryan/clearview-ai-australia-police"
+    ampWebUrl: "https://www.buzzfeed.com/amphtml/hannahryan/clearview-ai-australia-police"
+    cdnAmpWebUrl: "https://www-buzzfeed-com.cdn.ampproject.org/c/s/www.buzzfeed.com/amphtml/hannahryan/clearview-ai-australia-police"
     type: article
     provider:
-      name: Gizmodo Australia
-      domain: gizmodo.com.au
-    quality: 4
+      name: BuzzFeed
+      domain: buzzfeed.com
+    quality: 35
+    images:
+      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2017-10/5/0/campaign_images/buzzfeed-prod-fastlane-01/the-faces-of-all-australian-drivers-will-now-be-p-2-8236-1507179177-0_dblbig.jpg"
+        width: 625
+        height: 415
 
 secured: "qN8KUVGWk2wGc0ulRRyoia5aUCBQAppAQE9FCzXLPBOx914pHAJQdfdie5K+0nXnsACdFhdvEpVR9UFfR7HZTke+V9LJC9LYNYyU7M9Ai9odoVYvd2ml3rl4NSywStrumRmSbv4f/SU5n/pQ8fR9vC2QxrvAXds4i3psGFH5hk97V68i6X2wSGbB80oK0N7x8/CxYKCRVVB/UgHLuXrkN0FBZN0VLZp9fohjtKERdPidJbds8e4R+t1EM0w0D2S+hxp9QbNPRze0dQAZS48sUmit0mS0OD7TPbTBFBQLq69yuCIYrkgUlRPUkHXjM925;pNlEU+3Tzftp9X8ySbyy3g=="
 ---

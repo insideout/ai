@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-17T11:39:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-overview-by-share-size-industry-players-revenue-and-product-demand-forecast-till-2029-2020-02-17"
 type: article
 quality: 53
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -61,19 +61,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 21
-  - title: "AI in Healthcare Market Prospects Outlook 2019-2030 and Top Key Players - NVIDIA, Intel, GENERAL ELECTRIC COMPANY"
-    excerpt: "Companies such as IBM have played a big role in pushing AI into healthcare. The company is using its Watson platform technology in the field of cancer research, insurance claims and clinical support tools to enhance AI needs. For instance, Alder Hey ..."
-    publishedDateTime: 2020-02-14T11:43:00Z
-    webUrl: "https://www.cmo.com.au/mediareleases/38408/ai-in-healthcare-market-prospects-outlook-2019/"
-    type: article
-    provider:
-      name: cmo.com.au
-      domain: cmo.com.au
-    quality: 18
-    images:
-      - url: "https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg"
-        width: 600
-        height: 246
 
 secured: "Qv/Z+ldJSk47woRcs+BqSufOGRZAoZO/eE/702bSUPOr41FMu3x2XMg5velDg/ndgVjEMfb92ctJvzE74P7oZxS3agR+MXNDBliFBNdsl+qPfaxbv/VE7GQdmskFwmfiPse/jhLgADXK7Af/OoMfJHPTwx4k3Nx8IRk6a6TYwtiJ8Bnzcj36OzPQsqw+QM5KI+pN1UF3WhrMIbyxuysQzQ9a7kFygbdGqtc86FL30GBkffNjJrQcxuYpWyV1JsXyVlGvWr4h2uheGb9e8fVHxL7cdfvq3F8Wg8NUe9HQh+jDa/iRdMYrIH2SZpVRanSR;bmob/0bapo4BRQEQT3Zw8Q=="
 ---

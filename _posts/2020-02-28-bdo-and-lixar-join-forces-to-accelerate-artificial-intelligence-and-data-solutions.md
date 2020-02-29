@@ -22,6 +22,6 @@ images:
     height: 335
     title: "BDO and Lixar join forces to accelerate Artificial Intelligence and Data solutions"
 
-secured: "imL/14pvFZ5ZcCtGvdbMmRDEnabmZIAFtZ4n9pkKhhspUmKnVY3tah/TY4a+PYdDucBTV3EG+SxNFeZYo1vIk2z3x+gvBXOlcelfhR3RfcqtDHb9YMsDOBp49o06A0h4FoD3AWfLVAZ/z+P7tL2Wb73oz6J8hzYakHdP7L4gopRsKoheNY87FS++JYMMmGsSH6svsQUqp+WtpYtlgGCgL1euLIuBkmae4dvgFZS/FLhOXpAsFjK2F9MpkJfexYi3L17XkSCoj58rSt5zLUNg/wmf3BrUeMP+DRBYC/KwYEgBFCg5RV8aS3o83EFfR+YS;J4PaKJKI8KaFWLAGaQVPxQ=="
+secured: "IfmIbB/qa3hv/Wwe+QHqQpjbfK/tQy+VWPNGLhH8xsAdQ0J6Sg7/fICySRc89+JO4XmWehaVbnv3itp4XjZmlJgzN1Ax9ec6K0Gs8Sw7l7fu8blBBQlGoxhUdOx8jybnhl53juSOOMkDYF44UhnV2XacwHWXwGHxsHvQ4k5cMrlufczHgK3HFMO4Ulk+VxUeDiGW1eoAKq0xkCPcMPK1LcZYj2Gcr+Sp8tNYu66HrsrDLbtHInecq86Vw5ZZkO9EXUe7c94EByjVIDCnORjn8dnKCy226v5xVH6AgoMMrm/V/tJbrONcvbIW0425DZ4WUwqVxsw2925y/mQy4g68fg4j/5IfQO8/SjRP2umXLIu+pGARNF7WIhE7r1lUwJUU2DqS2A06Zt0dLY+2dQQou4pgHJwabOKjrYuHOmOxt84OD/4CYQgH5RSAlkwmrEWWoIUFkYcrxxXcaEu3lvxles60g0Rtd98TQSZGG7egXZU=;/bVbQTzYXp9MyzWyNC9Lhw=="
 ---
 

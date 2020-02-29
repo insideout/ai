@@ -26,21 +26,6 @@ images:
     title: "Facial recognition firm's entire client list exposed in data breach"
 
 related:
-  - title: "Clearview AI's entire client list stolen in data breach"
-    excerpt: "The breach affected all of the facial recognition company's customers, many of which are law enforcement agencies. Clearview AI says the data breach affected all of its customers. Clearview AI, a facial-recognition software maker that has sparked privacy concerns,"
-    publishedDateTime: 2020-02-26T16:40:00Z
-    webUrl: "https://www.cnet.com/news/clearview-ai-had-entire-client-list-stolen-in-data-breach/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/clearview-ai-had-entire-client-list-stolen-in-data-breach/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/clearview-ai-had-entire-client-list-stolen-in-data-breach/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 87
-    images:
-      - url: "https://cnet1.cbsistatic.com/img/1aArGlj1eo8hNeyu6s8obQPylfI=/756x567/2019/03/18/cca1be95-0ac4-4c06-b742-a22684c09044/facial-recognition-101-promo.jpg"
-        width: 756
-        height: 567
   - title: "Clearview AI’s law enforcement client data stolen in massive breach"
     excerpt: "“Security is Clearview’s top priority.” Tor Eklund, attorney for Clearview AI. Clearview AI, the dubious startup that’s cozied up to the US law enforcement community with its facial recognition software, has managed to crap the metaphorical bed by allowing an intruder to exploit a security flaw and make off with its entire client lis"
     publishedDateTime: 2020-02-26T21:38:00Z
@@ -101,84 +86,6 @@ related:
       - url: "https://media.foxbusiness.com/BrightCove/854081161001/202002/1214/854081161001_6132703327001_6132714474001-vs.jpg"
         width: 1280
         height: 720
-  - title: "Facial recognition company says entire client list was stolen"
-    excerpt: "Facial recognition firm Clearview A.I. has confirmed to NBC News that their entire client list has been stolen.Feb. 28, 2020 © 2020 NBC UNIVERSAL"
-    publishedDateTime: 2020-02-28T01:28:00Z
-    webUrl: "https://www.nbcnews.com/now/video/facial-recognition-company-says-entire-client-list-was-stolen-79580229780"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 69
-    images:
-      - url: "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202002/ott_now_facial_200227_1920x1080.nbcnews-fp-1200-630.jpg"
-        width: 1200
-        height: 630
-  - title: "Clearview AI’s client list was stolen. Could its massive face database be next?"
-    excerpt: "The controversial artificial intelligence company Clearview AI has experienced a breach that saw the theft of its entire customer list, which is made up of various law enforcement agencies. An intruder was able to gain “unauthorized access” to Clearview’s full customer list, the Daily Beast first reported on Wednesday. Clearview AI says ..."
-    publishedDateTime: 2020-02-26T19:56:00Z
-    webUrl: "https://www.digitaltrends.com/news/clearview-ai-customer-list-stolen/"
-    ampWebUrl: "https://www.digitaltrends.com/news/clearview-ai-customer-list-stolen/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/clearview-ai-customer-list-stolen/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 65
-  - title: "Clearview AI client list reportedly stolen"
-    excerpt: "A list of clients who had contracts with Clearview AI, the startup that has partnered with law enforcement to use facial recognition technology on a massive database of photos, was stolen, according to a new report. The Daily Beast first reported that the ..."
-    publishedDateTime: 2020-02-26T18:55:00Z
-    webUrl: "https://www.dailydot.com/debug/clearview-ai-client-list-stolen/"
-    ampWebUrl: "https://www.dailydot.com/debug/clearview-ai-client-list-stolen/?amp"
-    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/clearview-ai-client-list-stolen/?amp"
-    type: article
-    provider:
-      name: The Daily Dot
-      domain: dailydot.com
-    quality: 57
-    images:
-      - url: "https://www.dailydot.com/wp-content/uploads/2020/02/Clearview-AI-Client-List-Stolen-Facial-Recognition-1024x512.jpg"
-        width: 1024
-        height: 512
-  - title: "Clearview AI, the controversial facial-recognition company partnering with police, says its entire customer list was stolen in a breach"
-    excerpt: "Clearview markets its services to law-enforcement agencies and has previously avoided disclosing the identities of its clients."
-    publishedDateTime: 2020-02-26T18:41:00Z
-    webUrl: "https://www.businessinsider.com/clearview-ai-list-customers-stolen-breach-2020-2"
-    ampWebUrl: "https://www.businessinsider.com/clearview-ai-list-customers-stolen-breach-2020-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/clearview-ai-list-customers-stolen-breach-2020-2?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 57
-    images:
-      - url: "https://i.insider.com/5d8764c92e22af0119409b92?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-  - title: "Facial recognition software company reveals it was security breach exposing its entire client list"
-    excerpt: "Facial recognition software provider Clearview AI has revealed that its entire client list was stolen by someone who ‘gained unauthorized access’ to company documents and data. According to a notice sent to its customers, Cleaview AI said that in addition to its client list, the intruder had gained access to the number of user accounts ..."
-    publishedDateTime: 2020-02-26T17:54:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8047615/Facial-recognition-software-company-reveals-security-breach-exposing-entire-client-list.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8047615/amp/Facial-recognition-software-company-reveals-security-breach-exposing-entire-client-list.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8047615/amp/Facial-recognition-software-company-reveals-security-breach-exposing-entire-client-list.html"
-    type: article
-    provider:
-      name: Mail Online
-      domain: dailymail.co.uk
-    quality: 45
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/02/26/17/25231514-0-image-a-6_1582738618084.jpg"
-        width: 636
-        height: 382
-  - title: "Secretive face-matching startup has customer list stolen"
-    excerpt: "Clearview, a secretive facial-recognition startup that claims to scrape the Internet for images to use, has itself now had data unexpectedly scraped, in a manner of speaking. Someone apparently popped into the company's system and stole its entire client list, which Clearview to date has refused to share. Clearview notified its customers about ..."
-    publishedDateTime: 2020-02-26T16:55:00Z
-    webUrl: "https://arstechnica.com/tech-policy/2020/02/clearviews-list-of-law-enforcement-clients-lost-in-data-breach/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 34
   - title: "Clearview AI has billions of our photos. Its entire client list was just stolen"
     excerpt: "Clearview AI, a startup that compiles billions of photos for facial recognition technology, said it lost its entire client list to hackers. The company said it has patched the unspecified flaw that allowed the breach to happen. In a statement, Clearview AI’s attorney Tor Ekeland said that while security is the company’s top priority ..."
     publishedDateTime: 2020-02-26T18:52:00Z

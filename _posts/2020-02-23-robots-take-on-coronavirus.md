@@ -24,30 +24,65 @@ images:
     title: "Robots take on coronavirus"
 
 related:
-  - title: "How Data, Artificial Intelligence, Coronavirus Intersect"
-    excerpt: "First on Cheddar: iMerit Raises $20 Million in Series B Funding For A.I. Initiatives"
-    publishedDateTime: 2020-02-28T02:18:00Z
-    webUrl: "https://cheddar.com/media/how-data-artificial-intelligence-coronavirus-intersect"
-    ampWebUrl: "https://cheddar.com/media/how-data-artificial-intelligence-coronavirus-intersect.amp"
-    cdnAmpWebUrl: "https://cheddar-com.cdn.ampproject.org/c/s/cheddar.com/media/how-data-artificial-intelligence-coronavirus-intersect.amp"
-    type: article
-    provider:
-      name: Cheddar
-      domain: cheddar.com
-    quality: 57
-    images:
-      - url: "https://img.chdrstatic.com/media/a5a10197-47ef-48ed-b40e-59eab81581c4.jpg?width=400&auto=webp"
-        width: 400
-        height: 261
-  - title: "How Boston Children's Hospital Used Data to Create an AI Coronavirus Map"
-    excerpt: "John Brownstein, Boston Children's Hospital chief innovation officer, discusses how the hospital made an AI tool to map the spread of the coronavirus. He speaks on \"Bloomberg Markets.\" (Source: Bloomb"
-    publishedDateTime: 2020-02-26T23:13:00Z
-    webUrl: "https://www.bloomberg.com/news/videos/2020-02-26/how-boston-children-s-hospital-used-data-to-create-an-ai-coronavirus-map-video"
+  - title: "Artificial Intelligence Could Fight a Future Coronavirus"
+    excerpt: "Disease outbreaks like the coronavirus often unfold too quickly for scientists to find a cure. But in the future, artificial intelligence could help researchers do a better job. While it’s probably too late for the fledgling technology to play a major role in the current epidemic,"
+    publishedDateTime: 2020-02-21T05:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-02-21/artificial-intelligence-gears-up-to-fight-a-future-coronavirus"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-02-21/artificial-intelligence-gears-up-to-fight-a-future-coronavirus"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-02-21/artificial-intelligence-gears-up-to-fight-a-future-coronavirus"
     type: article
     provider:
       name: Bloomberg
       domain: bloomberg.com
-    quality: 46
+    quality: 67
+  - title: "Artificial Intelligence Gears Up to Fight a Future Coronavirus"
+    excerpt: "Disease outbreaks like the coronavirus often unfold too quickly for scientists to find a cure. But in the future, artificial intelligence could help researchers do a better job. While it’s probably too late for the fledgling technology to play a major role in the current epidemic,"
+    publishedDateTime: 2020-02-21T05:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-02-21/artificial-intelligence-gears-up-to-fight-a-future-coronavirus"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-02-21/artificial-intelligence-gears-up-to-fight-a-future-coronavirus"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-02-21/artificial-intelligence-gears-up-to-fight-a-future-coronavirus"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 67
+  - title: "Drones and self-driving robots used to fight coronavirus in China"
+    excerpt: "Self-driving disinfection robots for hospitals On February 19 2020 it was announced that Danish-designed self-driving UV Disinfection Robots are being shipped to China for use in hospitals. These devices, from UVD Robots, emit concentrated UV-C light from a column of bulbs on top of a wheeled base. The light has a germicidal effect, allowing it ..."
+    publishedDateTime: 2020-02-20T17:06:00Z
+    webUrl: "https://www.dezeen.com/2020/02/20/drones-robots-coronavirus-china-technology/"
+    ampWebUrl: "https://www.dezeen.com/2020/02/20/drones-robots-coronavirus-china-technology/amp/"
+    cdnAmpWebUrl: "https://www-dezeen-com.cdn.ampproject.org/c/s/www.dezeen.com/2020/02/20/drones-robots-coronavirus-china-technology/amp/"
+    type: article
+    provider:
+      name: Dezeen
+      domain: dezeen.com
+    quality: 44
+    images:
+      - url: "https://static.dezeen.com/uploads/2020/02/uvd-robot-drones-coronavirus-china-sq-b-1024x1024.jpg"
+        width: 1024
+        height: 1024
+  - title: "Could artificial intelligence have predicted the COVID-19 coronavirus?"
+    excerpt: "The use of artificial intelligence is now the norm in many industries, from integrating the technology in autonomous vehicles for safety, to AI algorithms being used to improve advertising campaigns. But, by using it in healthcare, could it also help us predict the outbreak of a virus such as the COVID-19 coronavirus? Since the first cases were ..."
+    publishedDateTime: 2020-02-26T17:28:00Z
+    webUrl: "https://www.euronews.com/2020/02/26/could-artificial-intelligence-have-predicted-the-covid-19-coronavirus"
+    type: article
+    provider:
+      name: Euronews
+      domain: euronews.com
+    quality: 39
+    images:
+      - url: "https://static.euronews.com/articles/stories/04/52/65/58/1000x563_cmsv2_d67928cf-1d6e-56c4-888c-5d0d6cb333d4-4526558.jpg"
+        width: 1000
+        height: 563
+  - title: "AI could be our best hope in fighting the next coronavirus"
+    excerpt: "One such way, he says, is the use of AI to create “virtual quarantines”. An example of which would be suggesting people from a certain part of London travel on a certain line at a certain time, thus reducing their interaction with the rest of the population more generally. Elsewhere, Oxford start-up Exscientia is among those using AI to ..."
+    publishedDateTime: 2020-02-22T07:47:00Z
+    webUrl: "https://www.telegraph.co.uk/technology/2020/02/22/ai-could-best-hope-fighting-next-coronavirus/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 17
 
 secured: "ujpMDVg12tNZkHEkPAgA2nhwAxLONQxX0HF4tya/4wEAXOfsVzUQCbPNrUmGw2r7ktfJnUZJcmCRmzJJDT6/De5kwf53dBJBB6fqQNC2xowRFcO7pvk2X51Mljx0zfncQl6qGm5T6yvucQFWQFDOXTR7ATDXZzJj0vsACN2Ws65/hz+wxE2Hx0alJtaLbYXOnS41HIi6XJ6tJVk1SySl285h4zj0S3dQ0R5f5vI2HzVHlk6tg5zen0irkB/TnN5i+uVLRg95MJKUoOoYqQCdByin6+bEDWVvNl/tsbKaKIeMIRhz7DtiyClV9C3So03HBJldIrodNHfjFsWMY+ZF3+4t8iLGzmJPPvsEk1zqPsLZSgHqD+2FEp9v2yeRZPtohWNMCdNBBLtdEmExEmUKduinHq1gkd0ZprGcYlKqAyBi3o7FzIaa8Uur1LFFsroM8UylJzDjA3pXUuFXkBZEHIULYYzaPAzXZuMc/Zk/fTQ=;TNtS8J9sbMBxHVflghs4aw=="
 ---

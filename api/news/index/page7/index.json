@@ -485,23 +485,23 @@
       ]
     },
     {
-      "path": "_posts/2020-02-26-clearview-ais-entire-client-list-stolen-in-data-breach.md",
-      "title": "Clearview AI's entire client list stolen in data breach",
-      "excerpt": "The breach affected all of the facial recognition company's customers, many of which are law enforcement agencies. Clearview AI says the data breach affected all of its customers. Clearview AI, a facial-recognition software maker that has sparked privacy concerns,",
-      "heat": 217,
+      "path": "_posts/2020-02-26-clearview-ais-law-enforcement-client-data-stolen-in-massive-breach.md",
+      "title": "Clearview AI’s law enforcement client data stolen in massive breach",
+      "excerpt": "“Security is Clearview’s top priority.” Tor Eklund, attorney for Clearview AI. Clearview AI, the dubious startup that’s cozied up to the US law enforcement community with its facial recognition software, has managed to crap the metaphorical bed by allowing an intruder to exploit a security flaw and make off with its entire client lis",
+      "heat": 147,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.cnet.com/news/clearview-ai-had-entire-client-list-stolen-in-data-breach/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/clearview-ai-had-entire-client-list-stolen-in-data-breach/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/clearview-ai-had-entire-client-list-stolen-in-data-breach/",
-      "publishedDateTime": "2020-02-26T08:40:00-08:00",
+      "webUrl": "https://thenextweb.com/neural/2020/02/26/clearview-ais-law-enforcement-client-data-stolen-in-massive-breach/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/02/26/clearview-ais-law-enforcement-client-data-stolen-in-massive-breach/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/26/clearview-ais-law-enforcement-client-data-stolen-in-massive-breach/amp/",
+      "publishedDateTime": "2020-02-26T13:38:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
         "images": [
           {
-            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
+            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -513,10 +513,10 @@
       },
       "images": [
         {
-          "url": "https://cnet1.cbsistatic.com/img/1aArGlj1eo8hNeyu6s8obQPylfI=/756x567/2019/03/18/cca1be95-0ac4-4c06-b742-a22684c09044/facial-recognition-101-promo.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "Clearview AI's entire client list stolen in data breach",
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2016/12/police-lights-sirens-796x398.png",
+          "width": 796,
+          "height": 398,
+          "title": "Clearview AI’s law enforcement client data stolen in massive breach",
           "attribution": null
         }
       ],

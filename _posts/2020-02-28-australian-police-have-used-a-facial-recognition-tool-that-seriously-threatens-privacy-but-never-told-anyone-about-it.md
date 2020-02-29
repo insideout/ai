@@ -8,7 +8,7 @@ ampWebUrl: "https://www.buzzfeed.com/amphtml/hannahryan/clearview-ai-australia-p
 cdnAmpWebUrl: "https://www-buzzfeed-com.cdn.ampproject.org/c/s/www.buzzfeed.com/amphtml/hannahryan/clearview-ai-australia-police"
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -26,19 +26,36 @@ images:
     title: "Australian Police Have Used A Facial Recognition Tool That Seriously Threatens Privacy, But Never Told Anyone About It"
 
 related:
-  - title: "Woman, 35, arrested in UK first after new live facial recognition cameras rolled out"
-    excerpt: "A woman in London has become the first person in the UK to be arrested using a new live facial recognition system rolled out by police. The 35-year-old was arrested for failing to appear in court in connection with a serious assault on an emergency worker. A Met spokesperson said: \"Officers arrested a 35-year-old woman at approx 5.30pm for ..."
-    publishedDateTime: 2020-02-27T21:48:00Z
-    webUrl: "https://www.standard.co.uk/news/crime/first-arrest-live-facial-recognition-met-police-a4373781.html"
+  - title: "Face recognition tech at centre of hack was used by Edmonton police but no data lost: EPS"
+    excerpt: "EDMONTON -- Controversial facial recognition technology that was hacked this week and is being investigated by several Canadian privacy commissioners was used by Edmonton police officers, the city force has revealed. Three special unit investigators signed up for Clearview AI in December 2019 and used it during an auto theft investigation the ..."
+    publishedDateTime: 2020-02-28T19:58:00Z
+    webUrl: "https://edmonton.ctvnews.ca/mobile/face-recognition-tech-at-centre-of-hack-was-used-by-edmonton-police-but-no-data-lost-eps-1.4832024"
+    ampWebUrl: "https://beta.ctvnews.ca/local/edmonton/2020/2/28/1_4832024.html"
+    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/edmonton/2020/2/28/1_4832024.html"
     type: article
     provider:
-      name: Evening Standard
-      domain: standard.co.uk
-    quality: 32
+      name: CTV News
+      domain: ctvnews.ca
+    quality: 50
     images:
-      - url: "https://static.standard.co.uk/s3fs-public/thumbnails/image/2020/01/24/10/stratfordfacialrecognition2401-1.jpg"
-        width: 1620
-        height: 1080
+      - url: "https://beta.ctvnews.ca/content/dam/ctvnews/images/2020/2/28/1_4832149.jpg?cache_timestamp=1582913146255"
+        width: 1020
+        height: 573
+  - title: "WYWS: First Quebec case of COVID-19, Habs lose, facial-recognition hack, Thunberg challenges world leaders"
+    excerpt: "“I have no idea,” coach Claude Julien said when asked after the game why his team keeps blowing two-goal leads. Entire client list hacked in data breach at facial-recognition startup: Clearview AI — the start-up company that compiles billions of images for its facial recognition software and whose technology Toronto Police were testing in ..."
+    publishedDateTime: 2020-02-28T13:23:00Z
+    webUrl: "https://montrealgazette.com/news/wyws-first-quebec-case-of-covid-19-habs-lose-facial-recognition-hack-thunberg-challenges-world-leaders"
+    ampWebUrl: "https://montrealgazette.com/news/wyws-first-quebec-case-of-covid-19-habs-lose-facial-recognition-hack-thunberg-challenges-world-leaders/amp"
+    cdnAmpWebUrl: "https://montrealgazette-com.cdn.ampproject.org/c/s/montrealgazette.com/news/wyws-first-quebec-case-of-covid-19-habs-lose-facial-recognition-hack-thunberg-challenges-world-leaders/amp"
+    type: article
+    provider:
+      name: Montreal News
+      domain: montrealgazette.com
+    quality: 26
+    images:
+      - url: "https://postmediamontrealgazette2.files.wordpress.com/2020/02/0211-spt-habs-coyotes-22.jpg"
+        width: 1000
+        height: 750
 
 secured: "Mf0b838+yfSLlGlheJHFjQeIN4BmnBB/yQWtIjvRQk24LIwhKbWHQO8ILyN1Y0H5X4Sey4cqZo4s78ksBPlzE1HW7hoMbjyGMQ82fUJXG0NBot0bHOYMye+TOuGB8v2Tmaz5hwVgKt/mhVddrFuH5907Y15fNTv/qU6o45pVK8XfuKF/v2QBKf20sEIZ8t2RaF4RY1tbp2fXfIz8rQQcu2lAJpJEM+E26tBYoXdtI0hboFA4Q2KtjPhNovfsrtcxsPdvDrYgxSfMRfRswFeEVLNHgXJ5Ni/lxQ+1aKotIV1tt8xX3gy6CJ+dngak3ErkA2zcPVm/xEX5OWZrk+7j/cbZQKGLxsm8rHruaxHaIdsTUi2MOTq6cwdyv5Cb3jG7MuyWnkvn4gvOsKPoZ/jd6gv+v992eQqklBmHds87Wo4UtopgqJ/0Ko4c9yllf4iLYLm49LXXDA+vZVGyYGxgwm+j56wCiKlVEsZu+qmk2KU=;ZfCWbZoV831kOVqouqZfrQ=="
 ---
