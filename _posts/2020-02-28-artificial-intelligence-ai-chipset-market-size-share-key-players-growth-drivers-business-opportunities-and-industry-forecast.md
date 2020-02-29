@@ -5,8 +5,8 @@ excerpt: "Market Highlights Artificial intelligence (AI) chipset are silicon-bas
 publishedDateTime: 2020-02-28T09:49:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipset-market-size-share-key-players-growth-drivers-business-opportunities-and-industry-forecast-2020-02-28"
 type: article
-quality: 69
-heat: 139
+quality: 71
+heat: 141
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
   - AI Hardware
 
 images:
@@ -120,6 +121,6 @@ related:
         width: 1200
         height: 630
 
-secured: "wPM5lKT4kepWKUgE5lrvMjL8G2oY53JUYXQFgsUMV63vZoqlr5+ZI1VpIye/fSxclg7op1CGZ16fQy6xIaNLpoquuKOqI4bFdp1K63oEiIasWLTiuv0G6IP4z8Ma5yj2FZSpoiWRh/xgbE/WmjxxlQZK1izADvo5vmACRpcOyaO6IwOChWncdxK67Tp3mktwLHjVa+ynbXEzD2iPvhGKDw9dG5EuGFxFY7Y3BkdJ7+pHmL9iJBqpKpVUMrVHjIhcZ5AednWTp5dq7rfp7TCCCVpqsnAYYkoaogFCQYGOXQJRX3+FFtkRY5m9uhaG9tie;PCkxlNKSj5Xdaz3uvqa8Yw=="
+secured: "iVRfRKh/cyTUAN1etQjURfqfd4jVZQicxhdAh1l7kXSJ+uqR690EjFekk6jETGydq910biquvfqqWLYTXySzcid77py+veE3REOL0Mu7CVA3nuImSvIuCppoVZUmg3jkxkSUqjRcTE/1pof5skxxCGyjgfLUxs0SyMzyDqYXsPqKFqmY0E6i8/5U181YlAShG68uoErlf//LKMrswPeGSxkv5DhynAXlgtxglkbsSEML7ae3l5o2iGOyNS70/K/AaJfO8cd2MwqJcLYj/tM1JDQKt17ByFJDYbwh4CUrUtEZ3VnKWu9H0EtRt3FcbRtY;aqjPATW+cNx9ATzG6WVEsQ=="
 ---
 

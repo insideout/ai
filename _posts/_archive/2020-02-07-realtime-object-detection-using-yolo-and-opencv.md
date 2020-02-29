@@ -27,6 +27,6 @@ images:
     height: 546
     title: "RealTime Object detection using YOLO and OpenCV"
 
-secured: "KQtR3hIz0p5soAJMxi6/TORFVbTRP4VqklWSiyqkb9d674HWJbU4i3J6n3NrFIyEEcp/Ce844CKhQHAlguDJ8E0SHAyPmvSMis8ACepX9a3hsgkokZUMVbfWyRPXUa71YE6fAtt9ChhTycFNs2kmhSm+s7qq2k0fAbrOFDZ77dECAMwQqD+TQ0LwBWOYYg5jd+rJn2F/mt488Tas8LS40CNN+yBz8HNuW0OrhUWk8zxU/C3im3+3GM7MBFGu/a2TuZ93+dWph/7eNwcybRTaLidv8tMUFc3ib3zskb1YqvsnpWmPOgBaCwUvO3caYFte;ITUsN/UfcyN1CQUTjbF0MA=="
+secured: "cIb+VTwMim2HBgX1X/XScnClfbrPIqPGs+iTrfVMhASdc+lWE/t1YZinMkQYSNvDSpFzZj8FjF5GUeGukv1gW7ZIQIHEiAIrpJUPfiKMza312lcPH1hYVGKKgsYkb/GFcW372Gcqz7AXbC0DY4eKhHLCq77F+H/u8d26e5mt/b+RRa/FN7yi2oqKwDrtumobqyhBVNkcbzHs2PcwW3zQCrE29xFYdPDuY4lxA1Cw1553r2yl6/l0wwlOE7h6RaK15LZCWqhJzdPt9K7Du1RLPw25I48j3n3lnY3j9pj7TQ26Xfq7xNW+dixktchrfdgo;l5jaINN5EgYh0wrjA8skeQ=="
 ---
 

@@ -27,6 +27,6 @@ images:
     height: 600
     title: "A former Amazon Web Services manager has a plan to help customers manage out-of-control costs when using Amazon's cloud"
 
-secured: "27TZg7TwZIXJeP52+vlXFe3urL5YRJYoyNyXe+QgdcNGNjkYNwVNbb+paDBkjyDG5ldoJdbrRywu2AEWhCi/QLCiFgnHb+BTRpefCkDkTTLzCfJ3SGReDso+Z+5ioYZoMkXm8ATVr7sR121Vc6bDnzX1Cz01dHHs0VC/6n1KBr8zvIloqzai/Y1qdId6oHE42g4E8j5cfV0OqIWTlcH8iBPSN8eHEboRMzSNWcnKd1VZJUSOb2R2rMbMJOLghN+iiBZfqJ2rYg9bn8qt0buFdSCpUdIvGdKEIwzniF7sQEgEWWCVgIal40MHA1cQsov4;AVulu1VgCoEnD6dFojkW8Q=="
+secured: "aU9phQQIRCCtevvefeepHnB6pLJJg0lC8YF+8dkm7QOIbmmJ4eoZw091hTBlKZ9wxDHa9oGvBoEX/Ep3iwxNZ+k/f9/4o2q9y56SHqaFXU4roKo39KjKzJ22lDD29QI0dADj5Zc8Gqw+PnXtZpl/ysjT4RS1tlsN5Q4AZkciXqZeaS0CrVqyamD0c0oF/DW6GW9RiYW2EMzBAXWVCQK0cp2llsx0tDHkJf34jTSdo9WVOE4Z+ul66E6JSjLgllkv+M9y6wVAAOqe8FegYsiNmlfXUVEfMA6ZD414ytnH5F3+lWOXYFEM5+a1gY+hlpnQlF5rRM3vxtElDJEO5K+quicKGvAYyg5F0K9mtTBrUOrAIE4d6uS/FuK7Ypgl+ohZUcWlFfnThr+q0SYGTJ7hS3jHoz+sevRGhpwnuGpKdrKv9ssm5ybhlVq0LvngIjjEvuvd/IV94G6T0tEgGTLneLoTyWJsHr2HAMdO6XRjM0k=;wBoPBYmJ5Q51Dbk2zt9H+w=="
 ---
 

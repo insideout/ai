@@ -2,23 +2,23 @@
   "page": 9,
   "value": [
     {
-      "path": "_posts/2020-02-28-using-deepchem-with-amazon-sagemaker-for-virtual-screening.md",
-      "title": "Using DeepChem with Amazon SageMaker for virtual screening",
-      "excerpt": "Virtual screening is a computational methodology used in drug or materials discovery by searching a vast amount of molecules libraries to identify the structures that are most likely to show the target characteristics. \nIt is becoming a ground-breaking tool for molecular discovery due to the exponential",
-      "heat": 89,
+      "path": "_posts/2020-02-29-ai-based-software-is-being-used-to-diagnose-coronavirus.md",
+      "title": "AI-based software is being used to diagnose coronavirus",
+      "excerpt": "After BlueDot's AI epidemiologist was one of the first to signal the outbreak of the coronavirus (Covid 19), another AI-based software developed by a Beijing-based startup Infervision, is now helping physicians diagnose it in Wuhan. The software, developed in collaboration with Wuhan Tongji Hospital, helps detect typical and partial symptoms of ...",
+      "heat": 87,
       "tags": null,
       "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/using-deepchem-with-amazon-sagemaker-for-virtual-screening/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-28T10:21:02-08:00",
+      "webUrl": "https://www.neowin.net/news/ai-based-software-is-being-used-to-diagnose-coronavirus",
+      "ampWebUrl": "https://www.neowin.net/amp/ai-based-software-is-being-used-to-diagnose-coronavirus/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/ai-based-software-is-being-used-to-diagnose-coronavirus/",
+      "publishedDateTime": "2020-02-28T21:48:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
+        "name": "Neowin",
+        "domain": "neowin.net",
         "images": [
           {
-            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "url": "/assets/images/organizations/neowin.net-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -30,10 +30,10 @@
       },
       "images": [
         {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/02/20/deepchem-sagemaker-5.gif",
-          "width": 500,
-          "height": 328,
-          "title": "Using DeepChem with Amazon SageMaker for virtual screening",
+          "url": "https://cdn.neow.in/news/images/uploaded/2020/02/1581340066_1024px-2019-ncov-cdc-23312_without_background_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": "AI-based software is being used to diagnose coronavirus",
           "attribution": null
         }
       ],
@@ -42,98 +42,7 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-28-we-found-clearview-ais-shady-face-recognition-app.md",
-      "title": "We Found Clearview AI's Shady Face Recognition App",
-      "excerpt": "A face recognition app used by thousands of law enforcement agencies, which has drawn considerable scrutiny in past weeks over its creator’s dubious data collection methods, contains code hinting at an unreported range of potential features, based on a version of the app discovered by Gizmodo. Reporters were able to download the most recent ...",
-      "heat": 504,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://gizmodo.com/we-found-clearview-ais-shady-face-recognition-app-1841961772?rev=1582861547126",
-      "ampWebUrl": "https://gizmodo.com/we-found-clearview-ais-shady-face-recognition-app-1841961772/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/we-found-clearview-ais-shady-face-recognition-app-1841961772/amp",
-      "publishedDateTime": "2020-02-27T19:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/s--JQ99mafj--/c_scale,f_auto,fl_progressive,q_80,w_800/wsdk7maoovzoxtowgnhs.jpg",
-          "width": 800,
-          "height": 450,
-          "title": "We Found Clearview AI's Shady Face Recognition App",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-28-would-you-work-with-a-robot.md",
-      "title": "Would You Work With A Robot?",
-      "excerpt": "It’s 2035. Booting my iMac, after checking email and my favourite newsfeeds, I start iDavid, my digital assistant, I tasked yesterday with some research I need for a feature I'm doing next month for my Forbes channel.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/davidhowell1/2020/02/28/would-you-work-with-a-robot/",
-      "ampWebUrl": "https://www.forbes.com/sites/davidhowell1/2020/02/28/would-you-work-with-a-robot/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidhowell1/2020/02/28/would-you-work-with-a-robot/amp/",
-      "publishedDateTime": "2020-02-28T07:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1152951190%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6974%26cropY1%3D354%26cropY2%3D4278",
-          "width": 1199,
-          "height": 675,
-          "title": "Would You Work With A Robot?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
+        "AI"
       ]
     },
     {
@@ -2085,6 +1994,88 @@
       "topics": [
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-02-3-things-that-sent-baidu-stock-soaring-to-start-2020.md",
+      "title": "3 Things That Sent Baidu Stock Soaring to Start 2020",
+      "excerpt": "Baidu's Apollo self-driving car program is gearing up. Image source: Baidu. Word emerged on Tuesday that Baidu had been granted a license to test its Apollo driverless cars in Beijing, one of the ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/01/02/3-things-sent-baidu-stock-soaring-to-start-2020.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/01/02/3-things-sent-baidu-stock-soaring-to-start-2020.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/02/3-things-sent-baidu-stock-soaring-to-start-2020.aspx",
+      "publishedDateTime": "2020-01-02T12:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F552284%2Fbaidu-self-driving-car-fleet.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 675,
+          "title": "3 Things That Sent Baidu Stock Soaring to Start 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-02-ai-and-robotics-execs-look-back-at-tech-trends-of-2019.md",
+      "title": "AI and robotics execs look back at tech trends of 2019",
+      "excerpt": "Some aspects of robotics and artificial intelligence are advancing rapidly; others, not so much. What should AI and robotics developers recall as they prepare for a new year? Sudhir Jha, senior vice president and head of Brighterion Inc., Max Versace ...",
+      "heat": 69,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://ctovision.com/ai-and-robotics-execs-look-back-at-tech-trends-of-2019/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-02T06:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ctovision.com",
+        "domain": "ctovision.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://ctovision.com/wp-content/uploads/quantum-computing.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": "AI and robotics execs look back at tech trends of 2019",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

@@ -41,15 +41,6 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/12/02/EKxHDbaWkAEIegr.png"
         width: 800
         height: 400
-  - title: "Deploying Machine Learning Models with mlflow and Amazon SageMaker"
-    excerpt: "Then, I deploy the model locally, and predict test data. Next, I create a Docker container, push it to Amazon ECR, and use it to deploy my model on Amazon SageMaker."
-    publishedDateTime: 2020-02-14T12:44:00Z
-    webUrl: "https://medium.com/@julsimon/deploying-machine-learning-models-with-mlflow-and-amazon-sagemaker-dac2b8244224"
-    type: article
-    provider:
-      name: Medium
-      domain: medium.com
-    quality: 49
 
 secured: "2+DKfLolUdImF7PB388RG+9SEfDJkw2+OtfQBU3kILVmUotRHVADEDkwgTGlC7AXqOv40q3FLISYNFlTP6VM0LWlzDE+zNIFObw9MxFN/o0ScF5qWBXtb8Nmmpf9EJs0v/CRgc0emTXsuNyEBy/u3keOER5o4XZsMqJHVghsPz7YDeHJV+7acZRuMY0ly9Ow+HePA39hlpVzhM+Ojnjn/dZOFetRwBFQP9rfTU2Q1hnTRVEVuWumq8dqDqCiJhKR/Eq1Xh8uIUV8guVh9LtubplmUSMS3ecAV9NR/UDbstDVOvcC3UhPmlKUb3DAEr+V;lewP947P0cXTjbIeTCqB+w=="
 ---

@@ -23,6 +23,6 @@ images:
     height: 457
     title: "AWS CEO Andy Jassy On Channel Conflict, Competition And AI"
 
-secured: "JU8f1wFTaGTradcECX4WH7OfXEDGDeZqzy8F9c504vFj/6GCifQXBlo86SOoUCamaxFZzRAfvHREQOpn/cVlpm0ck75jM0H5FfDv1ttxMX5RuRALvX4LjCTsU2d9PJfJzAPniJjiT/Dn3pNReW347L+oeeG0KOJ9tgBcKzsxk7oecRPt2cx+6MHyW2POwKI5Sb6Eql0auFSKQeM5gPBBn38iYG9fEhznqqNXUcarPlhkXPMTK7W+U0MJEC9YPk8Lvu6noUMI4gRXIgnn7km9uLivoyTxL5Dtu7Yjqij5VXSh5cCm/Edn8AL1dv/F8th4;6/g7/FxWqz26xFr7dhWLLg=="
+secured: "7bDus7d0LWx2OBzPPYlOuCtO7LGtq/n7/cqMM6oWmeYZywbkvqh3vNUh5ApioFAiIlC0EZVk9tN6ta2oF4PUytBRuBm0VsZ4XkVddw+T8KoRfaCYgYOqab+tOkbLJFGIKTHnNIk4KoiGcOIcvQmZzIlQfSEl9H+5J77Sox4X74cDQWro4UR5xdKH69/zsuqtaelEAC/p0BhpwbBS9Yefi4LFJvkGILz38KlPjKoRtXei36AigmCiNEyJ/MUoYf/x1HDSMq23ggTZrcO4xwhS3M9Ni1euktil8rB6I5sM1g/e4i+qvOtuNQkml2f3yH4n;9j7atSWeFjnpt+3xn0H2ng=="
 ---
 

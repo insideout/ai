@@ -2,94 +2,6 @@
   "page": 21,
   "value": [
     {
-      "path": "_posts/_archive/2020-01-28-risksense-working-on-ai-to-predict-if-vulnerabilities-will-turn-into-ransomware.md",
-      "title": "RiskSense working on AI to predict if vulnerabilities will turn into ransomware",
-      "excerpt": "\"The way we look at it is as an expert system,\" says Mukkamala, using a traditional term from the AI literature for software programs that include a great deal of domain expertise. \"What are my signals?\" he asks, rhetorically. \"First, a strong signal would be end-point vendors detecting it and blocking it, a second is Microsoft paying attention ...",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/risksense-working-on-ai-to-predict-if-vulnerabilities-will-turn-into-ransomware/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/risksense-working-on-ai-to-predict-if-vulnerabilities-will-turn-into-ransomware/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/risksense-working-on-ai-to-predict-if-vulnerabilities-will-turn-into-ransomware/",
-      "publishedDateTime": "2020-01-28T14:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/01/28/9c16f4ed-c84d-4107-98b1-bd33cfbcd800/risksense-ransomware-dashboard-jan-2020.png",
-          "width": 2424,
-          "height": 1735,
-          "title": "RiskSense working on AI to predict if vulnerabilities will turn into ransomware",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-28-securitiai-scores-50m-series-b-to-modernize-data-governance.md",
-      "title": "Securiti.ai scores $50M Series B to modernize data governance",
-      "excerpt": "Securiti.ai, a San Jose startup, is working to bring a modern twist to data governance and security. Today the company announced a $50 million Series B led by General Catalyst with participation from Mayfield. The company, which only launched in 2018, reports it has already raised $81 million. What is attracting all of this investment in such a ...",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/01/28/securiti-ai-scores-50m-series-b-to-modernize-data-governance/",
-      "ampWebUrl": "https://techcrunch.com/2020/01/28/securiti-ai-scores-50m-series-b-to-modernize-data-governance/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/28/securiti-ai-scores-50m-series-b-to-modernize-data-governance/amp/",
-      "publishedDateTime": "2020-01-28T09:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/01/PrivacyOps-Center.jpg?w=680",
-          "width": 680,
-          "height": 564,
-          "title": "Securiti.ai scores $50M Series B to modernize data governance",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-01-28-servicenow-acquires-conversational-ai-startup-passage-ai.md",
       "title": "ServiceNow acquires conversational AI startup Passage AI",
       "excerpt": "ServiceNow announced this morning that it has acquired Passage AI, a startup that helps customers build chatbots in multiple languages, something that should come in handy as ServiceNow continues ...",
@@ -2106,6 +2018,88 @@
       "topics": [
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-29-robots-pose-biggest-risk-to-the-poorest-countries.md",
+      "title": "Robots Pose Biggest Risk to the Poorest Countries",
+      "excerpt": "At the end of the 20th century, globalization narrowed the gap between rich and poor nations. But history shows that isn’t always the case. In the years following the fall of the Berlin Wall in 1989,",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-01-29/robots-pose-biggest-risk-to-the-poorest-countries",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-01-29/robots-pose-biggest-risk-to-the-poorest-countries",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-01-29/robots-pose-biggest-risk-to-the-poorest-countries",
+      "publishedDateTime": "2020-01-28T21:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-29-smarter-delivery-hinges-on-smarter-robots.md",
+      "title": "Smarter Delivery Hinges on Smarter Robots",
+      "excerpt": "Companies and researchers are racing to develop artificial-intelligence systems that can enable warehouse robots to handle new and varied objects without the need for extensive additional training or human help.",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/smarter-delivery-hinges-on-smarter-robots-11580288408",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/smarter-delivery-hinges-on-smarter-robots-11580288408",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/smarter-delivery-hinges-on-smarter-robots-11580288408",
+      "publishedDateTime": "2020-01-29T01:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-148470/social",
+          "width": 1280,
+          "height": 640,
+          "title": "Smarter Delivery Hinges on Smarter Robots",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

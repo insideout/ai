@@ -2,170 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_posts/2020-02-27-healthcare-startup-qureai-raises-16-million-led-by-sequoia-india.md",
-      "title": "Healthcare startup Qure.ai raises $16 million led by Sequoia India",
-      "excerpt": "Healthcare startup Qure.ai has raised $16 million in an equity funding round led by Sequoia India, with participation from MassMutual Ventures Southeast Asia, it said Thursday. MassMutual Ventures is the investment arm of US-based MassMutual Life Insurance Company. Founded in 2016 by Prashant Warier and Pooja Rao, Qure.ai provides ...",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.livemint.com/companies/start-ups/healthcare-startup-qure-ai-raises-16-million-led-by-sequoia-india-11582797164202.html",
-      "ampWebUrl": "https://www.livemint.com/companies/start-ups/healthcare-startup-qure-ai-raises-16-million-led-by-sequoia-india/amp-11582797164202.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/healthcare-startup-qure-ai-raises-16-million-led-by-sequoia-india/amp-11582797164202.html",
-      "publishedDateTime": "2020-02-27T02:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2020/02/27/600x338/healthcare-kH0D--621x414@LiveMint_1582797347447.jpg",
-          "width": 600,
-          "height": 337,
-          "title": "Healthcare startup Qure.ai raises $16 million led by Sequoia India",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-27-hospital-pharmacists-meet-ai-your-new-assistant.md",
-      "title": "Hospital Pharmacists: Meet AI, Your New Assistant",
-      "excerpt": "AI is proven to be an effective tool that, along with the direction and expertise of the human touch, helps the industry address the challenges of shortages, recalls and inventory management.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/27/hospital-pharmacists-meet-ai-your-new-assistant/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/27/hospital-pharmacists-meet-ai-your-new-assistant/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/27/hospital-pharmacists-meet-ai-your-new-assistant/amp/",
-      "publishedDateTime": "2020-02-27T05:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/537317012/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 474,
-          "title": "Hospital Pharmacists: Meet AI, Your New Assistant",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-27-how-aws-attempts-to-bring-transparency-to-automl-through-amazon-sagemaker-autopilot.md",
-      "title": "How AWS Attempts To Bring Transparency To AutoML Through Amazon SageMaker Autopilot",
-      "excerpt": "With Amazon SageMaker Autopilot, AWS has taken the first step in making AutoML solution transparent and explainable. The platform appeals to both expert data scientists and entry-level ML developers.",
-      "heat": 130,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2020/02/27/how-aws-attempts-to-bring-transparency-to-automl-through-amazon-sagemaker-autopilot/",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2020/02/27/how-aws-attempts-to-bring-transparency-to-automl-through-amazon-sagemaker-autopilot/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/02/27/how-aws-attempts-to-bring-transparency-to-automl-through-amazon-sagemaker-autopilot/amp/",
-      "publishedDateTime": "2020-02-27T04:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e57b23b765d4500072d4e2a%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1000%26cropY1%3D48%26cropY2%3D610",
-          "width": 1000,
-          "height": 563,
-          "title": "How AWS Attempts To Bring Transparency To AutoML Through Amazon SageMaker Autopilot",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-27-ibm-and-microsoft-sign-vatican-pledge-for-ethical-ai.md",
-      "title": "IBM and Microsoft sign Vatican pledge for ethical AI",
-      "excerpt": "Tech giants promise to develop new technology in way that protects the rights of all people The 'Rome Call for AI Ethics' document calls for artificial intelligence to safeguard the rights of all humankind and for new regulations in fields such as facial recognition IBM and Microsoft have signed an “ethical resolution” with the Vatican to ...",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.ft.com/content/5dc6edcc-5981-11ea-a528-dd0f971febbc",
-      "ampWebUrl": "https://amp.ft.com/content/5dc6edcc-5981-11ea-a528-dd0f971febbc",
-      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/5dc6edcc-5981-11ea-a528-dd0f971febbc",
-      "publishedDateTime": "2020-02-27T10:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F41f09a98-5964-11ea-a528-dd0f971febbc?source=google-amp&fit=scale-down&width=500",
-          "width": 500,
-          "height": 281,
-          "title": "IBM and Microsoft sign Vatican pledge for ethical AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
       "path": "_posts/2020-02-27-intel-uses-ai-to-find-new-customers-in-specific-industries.md",
       "title": "Intel uses AI to find new customers in specific industries",
       "excerpt": "How does Intel, which expects the market opportunity for AI hardware to grow from $2.5 billion in 2017 to $10 billion in 2022, find new customer opportunities? With AI, of course. In a blog post today, Intel detailed a tool its IT Advanced Analytics team developed internally to mine millions of public business pages and extract actionable ...",
@@ -857,6 +693,43 @@
       ]
     },
     {
+      "path": "_posts/2020-02-28-ai-model-can-distinguish-between-types-of-back-pain-by-scouring-doctors-notes.md",
+      "title": "AI model can distinguish between types of back pain by scouring doctors' notes",
+      "excerpt": "The single code for two different conditions prevents appropriate billing and therapy recommendations, including different return-to-work scenarios. The artificial intelligence model in this study, the first of its kind, could be used to improve the accuracy of coding, billing, and therapy for patients with lower back pain. The researchers used ...",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.news-medical.net/news/20200228/AI-model-can-distinguish-between-types-of-back-pain-by-scouring-doctors-notes.aspx",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20200228/AI-model-can-distinguish-between-types-of-back-pain-by-scouring-doctors-notes.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200228/AI-model-can-distinguish-between-types-of-back-pain-by-scouring-doctors-notes.aspx",
+      "publishedDateTime": "2020-02-28T12:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": "AI model can distinguish between types of back pain by scouring doctors' notes",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_posts/2020-02-28-ai-stats-news-consumers-have-very-mixed-attitudes-about-data-privacy.md",
       "title": "AI Stats News: Consumers Have Very Mixed Attitudes About Data Privacy",
       "excerpt": "Recent surveys of the progress and impact of AI highlight the confusion and contradictory attitudes of consumers about the privacy of their data, the impact of AI on jobs, and the race for AI supremacy.",
@@ -948,7 +821,7 @@
       "path": "_posts/2020-02-28-artificial-intelligence-ai-chipset-market-size-share-key-players-growth-drivers-business-opportunities-and-industry-forecast.md",
       "title": "Artificial Intelligence (AI) Chipset Market Size, Share, Key Players, Growth Drivers, Business Opportunities, and industry Forecast",
       "excerpt": "Market Highlights Artificial intelligence (AI) chipset are silicon-based chips that are integrated with devices",
-      "heat": 139,
+      "heat": 141,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipset-market-size-share-key-players-growth-drivers-business-opportunities-and-industry-forecast-2020-02-28",
@@ -986,6 +859,7 @@
       ],
       "topics": [
         "AI",
+        "AI in Healthcare",
         "AI Hardware"
       ]
     },
@@ -2154,6 +2028,141 @@
       "topics": [
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-28-using-deepchem-with-amazon-sagemaker-for-virtual-screening.md",
+      "title": "Using DeepChem with Amazon SageMaker for virtual screening",
+      "excerpt": "Virtual screening is a computational methodology used in drug or materials discovery by searching a vast amount of molecules libraries to identify the structures that are most likely to show the target characteristics. \nIt is becoming a ground-breaking tool for molecular discovery due to the exponential",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/using-deepchem-with-amazon-sagemaker-for-virtual-screening/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-28T10:21:02-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/02/20/deepchem-sagemaker-5.gif",
+          "width": 500,
+          "height": 328,
+          "title": "Using DeepChem with Amazon SageMaker for virtual screening",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-28-we-found-clearview-ais-shady-face-recognition-app.md",
+      "title": "We Found Clearview AI's Shady Face Recognition App",
+      "excerpt": "A face recognition app used by thousands of law enforcement agencies, which has drawn considerable scrutiny in past weeks over its creator’s dubious data collection methods, contains code hinting at an unreported range of potential features, based on a version of the app discovered by Gizmodo. Reporters were able to download the most recent ...",
+      "heat": 504,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://gizmodo.com/we-found-clearview-ais-shady-face-recognition-app-1841961772?rev=1582861547126",
+      "ampWebUrl": "https://gizmodo.com/we-found-clearview-ais-shady-face-recognition-app-1841961772/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/we-found-clearview-ais-shady-face-recognition-app-1841961772/amp",
+      "publishedDateTime": "2020-02-27T19:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/s--JQ99mafj--/c_scale,f_auto,fl_progressive,q_80,w_800/wsdk7maoovzoxtowgnhs.jpg",
+          "width": 800,
+          "height": 450,
+          "title": "We Found Clearview AI's Shady Face Recognition App",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-28-would-you-work-with-a-robot.md",
+      "title": "Would You Work With A Robot?",
+      "excerpt": "It’s 2035. Booting my iMac, after checking email and my favourite newsfeeds, I start iDavid, my digital assistant, I tasked yesterday with some research I need for a feature I'm doing next month for my Forbes channel.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/davidhowell1/2020/02/28/would-you-work-with-a-robot/",
+      "ampWebUrl": "https://www.forbes.com/sites/davidhowell1/2020/02/28/would-you-work-with-a-robot/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidhowell1/2020/02/28/would-you-work-with-a-robot/amp/",
+      "publishedDateTime": "2020-02-28T07:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1152951190%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6974%26cropY1%3D354%26cropY2%3D4278",
+          "width": 1199,
+          "height": 675,
+          "title": "Would You Work With A Robot?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

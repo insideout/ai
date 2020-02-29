@@ -2,88 +2,6 @@
   "page": 22,
   "value": [
     {
-      "path": "_posts/_archive/2020-01-29-robots-pose-biggest-risk-to-the-poorest-countries.md",
-      "title": "Robots Pose Biggest Risk to the Poorest Countries",
-      "excerpt": "At the end of the 20th century, globalization narrowed the gap between rich and poor nations. But history shows that isn’t always the case. In the years following the fall of the Berlin Wall in 1989,",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-01-29/robots-pose-biggest-risk-to-the-poorest-countries",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-01-29/robots-pose-biggest-risk-to-the-poorest-countries",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-01-29/robots-pose-biggest-risk-to-the-poorest-countries",
-      "publishedDateTime": "2020-01-28T21:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_posts/_archive/2020-01-29-smarter-delivery-hinges-on-smarter-robots.md",
-      "title": "Smarter Delivery Hinges on Smarter Robots",
-      "excerpt": "Companies and researchers are racing to develop artificial-intelligence systems that can enable warehouse robots to handle new and varied objects without the need for extensive additional training or human help.",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wsj.com/articles/smarter-delivery-hinges-on-smarter-robots-11580288408",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/smarter-delivery-hinges-on-smarter-robots-11580288408",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/smarter-delivery-hinges-on-smarter-robots-11580288408",
-      "publishedDateTime": "2020-01-29T01:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-148470/social",
-          "width": 1280,
-          "height": 640,
-          "title": "Smarter Delivery Hinges on Smarter Robots",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_posts/_archive/2020-01-29-this-tech-startup-used-ai-to-predict-coronavirus-outbreak-even-before-who.md",
       "title": "This Tech Startup Used AI To Predict Coronavirus Outbreak Even Before WHO",
       "excerpt": "The total number of confirmed coronavirus cases in China stands at over 5000. Given the gravity of the situation, computer programmers in a tech firm, BlueDot, are making use of AI and machine learning to detect the warning signs of Coronavirus, reports ET. SEE ALSO: Watch out for this extremely fake, weirdly racist viral post about coronavirus ...",
@@ -2120,6 +2038,94 @@
           "width": 1010,
           "height": 371,
           "title": "Do you know the 2 categories of fintech?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-31-forget-the-roi-with-artificial-intelligence-decision-making-will-never-be-the-same.md",
+      "title": "Forget The ROI: With Artificial Intelligence, Decision-Making Will Never Be The Same",
+      "excerpt": "Having the right mindset toward AI means looking beyond traditional, cold ROI measures, and looking at the ways AI will enrich and amplify decision-making.",
+      "heat": 80,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2020/01/30/forget-the-roi-with-artificial-intelligence-decision-making-will-never-be-the-same/",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2020/01/30/forget-the-roi-with-artificial-intelligence-decision-making-will-never-be-the-same/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2020/01/30/forget-the-roi-with-artificial-intelligence-decision-making-will-never-be-the-same/amp/",
+      "publishedDateTime": "2020-01-30T19:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e33857fe32a410007e7d6ff%2F0x0.jpg",
+          "width": 1200,
+          "height": 806,
+          "title": "Forget The ROI: With Artificial Intelligence, Decision-Making Will Never Be The Same",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_posts/_archive/2020-01-31-google-open-sources-lasertagger-an-ai-model-that-speeds-up-text-generation.md",
+      "title": "Google open-sources LaserTagger, an AI model that speeds up text generation",
+      "excerpt": "Sequence-to-sequence AI models, which were introduced by Google in 2014, aim to map fixed-length input (usually text) with a fixed-length output where the length of the input and output might differ. They’re used in text-generating tasks including summarization, grammatical error correction, and sentence fusion, and recent architectural ...",
+      "heat": 95,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/31/google-open-sources-lasertagger-an-ai-model-that-speeds-up-text-generation/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/31/google-open-sources-lasertagger-an-ai-model-that-speeds-up-text-generation/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/31/google-open-sources-lasertagger-an-ai-model-that-speeds-up-text-generation/amp/",
+      "publishedDateTime": "2020-01-31T12:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google open-sources LaserTagger, an AI model that speeds up text generation",
           "attribution": null
         }
       ],

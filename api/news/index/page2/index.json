@@ -2,171 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_posts/2020-02-17-please-check-your-data-a-self-driving-car-dataset-failed-to-label-hundreds-of-pedestrians-thousands-of-vehicles.md",
-      "title": "Please check your data: A self-driving car dataset failed to label hundreds of pedestrians, thousands of vehicles",
-      "excerpt": "Roboflow has since corrected the errors on the dataset, and issued an improved version. Standing up to patent trolls works: Mycroft AI, a startup building an open-source voice-controlled assistant for Linux-based devices, was sued for allegedly infringing a couple of patents, as we reported earlier this month. Mycroft’s CEO Joshua Montgomery ...",
-      "heat": 140,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theregister.co.uk/2020/02/17/self_driving_car_dataset/",
-      "ampWebUrl": "https://www.theregister.co.uk/AMP/2020/02/17/self_driving_car_dataset/",
-      "cdnAmpWebUrl": "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/02/17/self_driving_car_dataset/",
-      "publishedDateTime": "2020-02-17T03:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Register",
-        "domain": "theregister.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2018/01/16/shutterstock_smart_city.jpg",
-          "width": 648,
-          "height": 432,
-          "title": "Please check your data: A self-driving car dataset failed to label hundreds of pedestrians, thousands of vehicles",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-17-space-robotics-market-emerging-trends-and-strong-application-scope-by-2025.md",
-      "title": "Space Robotics Market Emerging Trends and Strong Application Scope by 2025",
-      "excerpt": "HTF Market Intelligence released a new research report of 150 pages on title 'Global Space Robotics Market Insights by Application, Product Type, Competitive Landscape & Regional Forecast 2025' with detailed analysis,",
-      "heat": 272,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/space-robotics-market-emerging-trends-and-strong-application-scope-by-2025-2020-02-17",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-17T08:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Space Robotics Market Emerging Trends and Strong Application Scope by 2025",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-17-surgeries-will-become-easier-with-use-of-robotics-ai-says-birrd-director.md",
-      "title": "Surgeries will become easier with use of robotics, AI, says BIRRD director",
-      "excerpt": "From merely using nimble fingers to perform complex surgeries, the TTD’s Balaji Institute of Surgery, Research and Rehabilitation for the Disabled (BIRRD) is all set to take a giant leap by taking the assistance of robotics and artificial intelligence for precision and patient comfort. In his maiden interaction with the media here on Friday ...",
-      "heat": 107,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.thehindu.com/news/national/andhra-pradesh/surgeries-will-become-easier-with-use-of-robotics-ai-says-birrd-director/article30846594.ece",
-      "ampWebUrl": "https://www.thehindu.com/news/national/andhra-pradesh/surgeries-will-become-easier-with-use-of-robotics-ai-says-birrd-director/article30846594.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/andhra-pradesh/surgeries-will-become-easier-with-use-of-robotics-ai-says-birrd-director/article30846594.ece/amp/",
-      "publishedDateTime": "2020-02-17T11:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://th.thgim.com/static/theme/default/base/img/og-image.jpg",
-          "width": 300,
-          "height": 300,
-          "title": "Surgeries will become easier with use of robotics, AI, says BIRRD director",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-17-teslas-biggest-problem-with-self-driving-cars-is-that-it-actually-has-to-sell-them-to-customers.md",
-      "title": "Tesla's biggest problem with self-driving cars is that it actually has to sell them to customers",
-      "excerpt": "Tesla is trapped, having created great products that consumers want and love, but also watching as competitors design all-new businesses.",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/teslas-biggest-problem-with-self-driving-cars-is-that-it-has-to-sell-them-2020-2",
-      "ampWebUrl": "https://www.businessinsider.com/teslas-biggest-problem-with-self-driving-cars-is-that-it-has-to-sell-them-2020-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/teslas-biggest-problem-with-self-driving-cars-is-that-it-has-to-sell-them-2020-2?amp",
-      "publishedDateTime": "2020-02-17T07:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5dd9a902fd9db212ca6834d3?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "Tesla's biggest problem with self-driving cars is that it actually has to sell them to customers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_posts/2020-02-17-what-does-artificial-intelligence-really-mean.md",
       "title": "What Does “Artificial Intelligence” Really Mean?",
       "excerpt": "Years ago, Marvin Minsky coined the phrase “suitcase words” to refer to terms that have a multitude of different meanings packed into them. He gave as examples words like consciousness, morality and creativity.",
@@ -2162,6 +1997,179 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-19-apples-priorities-are-shifting-as-iphone-sales-continue-to-sink.md",
+      "title": "Apple's priorities are shifting as iPhone sales continue to sink",
+      "excerpt": "The company poached a new executive from Google to lead its artificial intelligence efforts ... most notably Waymo, the Alphabet company that spun out of Google's self-driving car project.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2019/02/19/apple-shifts-priorities-to-grow-services-ai.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2019/02/19/apple-shifts-priorities-to-grow-services-ai.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2019/02/19/apple-shifts-priorities-to-grow-services-ai.html",
+      "publishedDateTime": "2020-02-18T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/102732800-GettyImages-146178359.jpg?v=1545326522",
+          "width": 3000,
+          "height": 2111,
+          "title": "Apple's priorities are shifting as iPhone sales continue to sink",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-19-artificial-intelligence-and-machine-learning-in-the-operating-room.md",
+      "title": "Artificial Intelligence and Machine Learning in the Operating Room",
+      "excerpt": "Most applications of artificial intelligence (AI) and machine learning technology provide only data to physicians, leaving the doctors to form a judgment on how to proceed. Because AI doesn’t actually perform any procedure or prescribe a course of medication, the software that diagnoses health problems does not have to pass a randomized ...",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://247wallst.com/healthcare-economy/2020/02/19/artificial-intelligence-and-machine-learning-in-the-operating-room/",
+      "ampWebUrl": "https://247wallst.com/healthcare-economy/2020/02/19/artificial-intelligence-and-machine-learning-in-the-operating-room/amp/",
+      "cdnAmpWebUrl": "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/healthcare-economy/2020/02/19/artificial-intelligence-and-machine-learning-in-the-operating-room/amp/",
+      "publishedDateTime": "2020-02-19T04:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "24/7 Wall St",
+        "domain": "247wallst.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://247wallst.files.wordpress.com/2020/01/imageforentry19-gsk.jpg?w=1200",
+          "width": 1200,
+          "height": 675,
+          "title": "Artificial Intelligence and Machine Learning in the Operating Room",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-19-artificial-intelligence-chips-market-to-watch-google-baidu-adapteva-in-focus.md",
+      "title": "Artificial Intelligence Chips Market To Watch: Google, Baidu, Adapteva In Focus",
+      "excerpt": "This intelligence report provides a comprehensive analysis of the Global Artificial Intelligence Chips Market. This includes Investigation of past progress, ongoing market scenarios, and future prospects.",
+      "heat": 115,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chips-market-to-watch-google-baidu-adapteva-in-focus-2020-02-19",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-18T23:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence Chips Market To Watch: Google, Baidu, Adapteva In Focus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-19-artificial-intelligence-makes-a-splash-in-efforts-to-protect-alaskas-ice-seals-and-beluga-whales.md",
+      "title": "Artificial intelligence makes a splash in efforts to protect Alaska’s ice seals and beluga whales",
+      "excerpt": "NOAA scientist Erin Moreland felt sure there was a technological solution to help her team sort through millions of aerial images of ice each year. She hit the jackpot with artificial intelligence. (Photo provided by NOAA) That better way is now here — an idea that began, unusually enough, with the view from Moreland’s Seattle office window ...",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://news.microsoft.com/features/artificial-intelligence-makes-a-splash-in-efforts-to-protect-alaskas-ice-seals-and-beluga-whales/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-19T06:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/2020/02/me2-300x225.jpg",
+          "width": 300,
+          "height": 225,
+          "title": "Artificial intelligence makes a splash in efforts to protect Alaska’s ice seals and beluga whales",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
       ]
     }
   ],

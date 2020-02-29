@@ -252,96 +252,6 @@
       ]
     },
     {
-      "path": "_posts/2020-02-14-how-to-avoid-another-ai-winter.md",
-      "title": "How To Avoid Another AI Winter",
-      "excerpt": "over the past few years, many of us remember the AI winter in the 1990s, which resulted from overinflated promises by developers and unnaturally high expectations from end users. Now, industry insiders,",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/14/how-to-avoid-another-ai-winter/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/14/how-to-avoid-another-ai-winter/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/14/how-to-avoid-another-ai-winter/amp/",
-      "publishedDateTime": "2020-02-14T05:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1043917898/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 474,
-          "title": "How To Avoid Another AI Winter",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-14-hypodermic-needles-left-in-self-driving-cars-is-an-ominous-harbinger-of-whats-to-come.md",
-      "title": "Hypodermic Needles Left In Self-Driving Cars Is An Ominous Harbinger Of What’s To Come",
-      "excerpt": "Reckless passengers are leaving hypodermic needles in self-driving cars, it's a problem that's going to get worse.",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/02/12/hypodermic-needles-leftover-in-ai-self-driving-cars-by-despicable-passengers-is-an-ominous-harbinger-of-whats-yet-to-come/",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/02/12/hypodermic-needles-leftover-in-ai-self-driving-cars-by-despicable-passengers-is-an-ominous-harbinger-of-whats-yet-to-come/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/02/12/hypodermic-needles-leftover-in-ai-self-driving-cars-by-despicable-passengers-is-an-ominous-harbinger-of-whats-yet-to-come/amp/",
-      "publishedDateTime": "2020-02-14T06:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F664664484%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D7000%26cropY1%3D166%26cropY2%3D4831",
-          "width": 1200,
-          "height": 800,
-          "title": "Hypodermic Needles Left In Self-Driving Cars Is An Ominous Harbinger Of What’s To Come",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_posts/2020-02-14-microsofts-ai-improves-text-summarization-performance-by-paying-closer-attention-to-the-beginning.md",
       "title": "Microsoft’s AI improves text summarization performance by paying closer attention to the beginning",
       "excerpt": "That’s why researchers from Pittsburgh and Microsoft Researcher’s Future Social Experiences (FUSE) lab, which focuses on real-time and media-rich experiences, developed an AI system that pays close attention to the beginning of documents it’s summarizing. They say that this improved its experimental performance particularly in the case of ...",
@@ -649,7 +559,7 @@
       "path": "_posts/2020-02-14-simplify-machine-learning-inference-on-kubernetes-with-amazon-sagemaker-operators.md",
       "title": "Simplify Machine Learning Inference on Kubernetes with Amazon SageMaker Operators",
       "excerpt": "Amazon SageMaker Operators for Kubernetes allows you to augment your existing Kubernetes cluster with SageMaker hosted endpoints. \nMachine learning inferencing requires investment to create a reliable and efficient service. For an XGBoost model, developers have to create an application, such as through",
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "type": "article",
       "webUrl": "https://aws.amazon.com/blogs/machine-learning/simplify-machine-learning-inference-on-kubernetes-with-amazon-sagemaker-operators/",
@@ -691,51 +601,6 @@
       ]
     },
     {
-      "path": "_posts/2020-02-14-the-ai-pivot-how-the-push-to-adopt-the-advanced-tech-is-rippling-through-corporate-america.md",
-      "title": "THE AI PIVOT: How the push to adopt the advanced tech is rippling through corporate America",
-      "excerpt": "IBM is using its AI star Watson to pinpoint salaries and coach employees. Here are 9 robot tools that could one day find their way to your office. The biggest AI opportunities in the workplace ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/artificial-intelligence-how-the-tech-is-rippling-through-companies",
-      "ampWebUrl": "https://www.businessinsider.com/artificial-intelligence-how-the-tech-is-rippling-through-companies?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/artificial-intelligence-how-the-tech-is-rippling-through-companies?amp",
-      "publishedDateTime": "2020-02-14T05:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5db72f2fdee01921b60cfabb?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "THE AI PIVOT: How the push to adopt the advanced tech is rippling through corporate America",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
       "path": "_posts/2020-02-14-travis-bott-makes-travis-scott-like-music-lyrics-with-ai.md",
       "title": "Travis Bott makes Travis Scott-like music, lyrics with AI",
       "excerpt": "Why we care: The robots are coming for your playlists again, and they’re mimicking your favorite artists in music videos too. Take Travis Bott. Yes, Travis Bott. He’s an AI musician inspired by Travis Scott, the rapper, producer, and songwriter responsible for “Sicko Mode” and more. Travis Bott has a new song⁠⁠ and accompanying ...",
@@ -769,51 +634,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_posts/2020-02-14-yandex-claims-2-million-self-driving-car-miles-double-in-4-months.md",
-      "title": "Yandex claims 2 million self-driving car miles, double in 4 months",
-      "excerpt": "The Russian tech titan revealed the latest milestone in its Q4 2019 financials earlier today. Yandex’s on-demand transport subsidiary Yandex.Taxi unveiled its self-driving car program back in May, 2017, and shortly after it began piloting the vehicles on Moscow’s roads. In the intervening years, the company has expanded its fleet across ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/14/yandex-claims-2-million-self-driving-car-miles-double-in-4-months/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/14/yandex-claims-2-million-self-driving-car-miles-double-in-4-months/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/14/yandex-claims-2-million-self-driving-car-miles-double-in-4-months/amp/",
-      "publishedDateTime": "2020-02-14T05:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/07/Yandex_self-driving_Hyundai_Sonata_6.jpg?fit=1920%2C1280&strip=all",
-          "width": 1920,
-          "height": 1280,
-          "title": "Yandex claims 2 million self-driving car miles, double in 4 months",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     },
     {
@@ -2072,6 +1892,171 @@
       "topics": [
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-17-please-check-your-data-a-self-driving-car-dataset-failed-to-label-hundreds-of-pedestrians-thousands-of-vehicles.md",
+      "title": "Please check your data: A self-driving car dataset failed to label hundreds of pedestrians, thousands of vehicles",
+      "excerpt": "Roboflow has since corrected the errors on the dataset, and issued an improved version. Standing up to patent trolls works: Mycroft AI, a startup building an open-source voice-controlled assistant for Linux-based devices, was sued for allegedly infringing a couple of patents, as we reported earlier this month. Mycroft’s CEO Joshua Montgomery ...",
+      "heat": 140,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theregister.co.uk/2020/02/17/self_driving_car_dataset/",
+      "ampWebUrl": "https://www.theregister.co.uk/AMP/2020/02/17/self_driving_car_dataset/",
+      "cdnAmpWebUrl": "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/02/17/self_driving_car_dataset/",
+      "publishedDateTime": "2020-02-17T03:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Register",
+        "domain": "theregister.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2018/01/16/shutterstock_smart_city.jpg",
+          "width": 648,
+          "height": 432,
+          "title": "Please check your data: A self-driving car dataset failed to label hundreds of pedestrians, thousands of vehicles",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-17-space-robotics-market-emerging-trends-and-strong-application-scope-by-2025.md",
+      "title": "Space Robotics Market Emerging Trends and Strong Application Scope by 2025",
+      "excerpt": "HTF Market Intelligence released a new research report of 150 pages on title 'Global Space Robotics Market Insights by Application, Product Type, Competitive Landscape & Regional Forecast 2025' with detailed analysis,",
+      "heat": 272,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/space-robotics-market-emerging-trends-and-strong-application-scope-by-2025-2020-02-17",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-17T08:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Space Robotics Market Emerging Trends and Strong Application Scope by 2025",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-17-surgeries-will-become-easier-with-use-of-robotics-ai-says-birrd-director.md",
+      "title": "Surgeries will become easier with use of robotics, AI, says BIRRD director",
+      "excerpt": "From merely using nimble fingers to perform complex surgeries, the TTD’s Balaji Institute of Surgery, Research and Rehabilitation for the Disabled (BIRRD) is all set to take a giant leap by taking the assistance of robotics and artificial intelligence for precision and patient comfort. In his maiden interaction with the media here on Friday ...",
+      "heat": 107,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.thehindu.com/news/national/andhra-pradesh/surgeries-will-become-easier-with-use-of-robotics-ai-says-birrd-director/article30846594.ece",
+      "ampWebUrl": "https://www.thehindu.com/news/national/andhra-pradesh/surgeries-will-become-easier-with-use-of-robotics-ai-says-birrd-director/article30846594.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/andhra-pradesh/surgeries-will-become-easier-with-use-of-robotics-ai-says-birrd-director/article30846594.ece/amp/",
+      "publishedDateTime": "2020-02-17T11:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://th.thgim.com/static/theme/default/base/img/og-image.jpg",
+          "width": 300,
+          "height": 300,
+          "title": "Surgeries will become easier with use of robotics, AI, says BIRRD director",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_posts/2020-02-17-teslas-biggest-problem-with-self-driving-cars-is-that-it-actually-has-to-sell-them-to-customers.md",
+      "title": "Tesla's biggest problem with self-driving cars is that it actually has to sell them to customers",
+      "excerpt": "Tesla is trapped, having created great products that consumers want and love, but also watching as competitors design all-new businesses.",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/teslas-biggest-problem-with-self-driving-cars-is-that-it-has-to-sell-them-2020-2",
+      "ampWebUrl": "https://www.businessinsider.com/teslas-biggest-problem-with-self-driving-cars-is-that-it-has-to-sell-them-2020-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/teslas-biggest-problem-with-self-driving-cars-is-that-it-has-to-sell-them-2020-2?amp",
+      "publishedDateTime": "2020-02-17T07:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5dd9a902fd9db212ca6834d3?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "Tesla's biggest problem with self-driving cars is that it actually has to sell them to customers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
       ]
     }
   ],
