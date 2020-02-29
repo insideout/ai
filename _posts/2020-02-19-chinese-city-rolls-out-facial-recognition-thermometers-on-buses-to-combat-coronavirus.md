@@ -483,19 +483,6 @@ related:
       - url: "https://kuow-prod.imgix.net/store/8c31abf6e9fd9d65c1a540ebbf368b0f.jpg?ixlib=rails-2.1.4&auto=format&crop=faces&fit=crop&h=402&w=402"
         width: 402
         height: 402
-  - title: "Indian police use facial recognition app to reunite families with lost children"
-    excerpt: "Police in the southern state of Telangana developed the facial recognition tool as part of Operation Smile, a periodic drive to tackle child labour and missing children. They scanned through more than 3,000 records on the app and were able to reunite more than half the children with their families in January. \"The results are very encouraging ..."
-    publishedDateTime: 2020-02-14T10:20:00Z
-    webUrl: "https://news.trust.org/item/20200214094459-0zrgu/"
-    type: article
-    provider:
-      name: Thomson Reuters Foundation
-      domain: trust.org
-    quality: 35
-    images:
-      - url: "https://d2sh4fq2xsdeg9.cloudfront.net/contentAsset/image/427069ba-8376-4828-b590-7e9e2c558109/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100"
-        width: 1100
-        height: 828
   - title: "Sens. Merkley, Booker Introduce Moratorium on Government use of Facial Recognition"
     excerpt: "Sens. Jeff Merkley, D-Ore., and Cory Booker, D-N.J., introduced the Ethical Use of Facial Recognition Act on Feb. 12 which would institute a moratorium on all Federal use of facial recognition technology until Congress passes legislation outlining “specific uses for the data” collected. “Facial recognition technology is both a powerful an ..."
     publishedDateTime: 2020-02-19T14:38:00Z

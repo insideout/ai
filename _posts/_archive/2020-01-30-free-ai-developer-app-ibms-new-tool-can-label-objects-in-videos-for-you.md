@@ -7,8 +7,8 @@ webUrl: "https://www.zdnet.com/article/free-ai-developer-app-ibms-new-tool-can-l
 ampWebUrl: "https://www.zdnet.com/google-amp/article/free-ai-developer-app-ibms-new-tool-can-label-objects-in-videos-for-you/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/free-ai-developer-app-ibms-new-tool-can-label-objects-in-videos-for-you/"
 type: article
-quality: 90
-heat: 90
+quality: 88
+heat: 88
 published: true
 
 provider:
@@ -22,7 +22,6 @@ provider:
 topics:
   - AI
   - Computer Vision
-  - Google AI
 
 images:
   - url: "https://zdnet2.cbsistatic.com/hub/i/r/2019/05/15/0f3f7afe-160c-451d-babe-17ed14a1c12a/thumbnail/1200x675/b87d99aee9c8455f3ae1be92387d7290/cloud-computing-and-ai-can-ibm-finally-c-5cd59307fe727300c4b89bff-1-may-15-2019-11-42-48-poster.jpg"
@@ -30,6 +29,6 @@ images:
     height: 675
     title: "Free AI developer app: IBM's new tool can label objects in videos for you"
 
-secured: "6vadHiFaMqMgFht2FYnLWqRsl47tEeAmj6VLCRkn2JPrcaww0YmpfTsvwBf5Mu4BfDOfPovsc9qYzPjCGF6seoZX7GYBGSksIZ4W4gpQd2P/ziBQpvkc0dZpwI92M8++gEijwuOoIvESMXw1wnItv2LIPQoqpl7k5G+W+mK5C7PNjUGI5jipQZ5ZCjDM37VczxGmkNzXB4lUlFjo9fupppRM4is89ZsjTwF+hnSagOjwJophFF4RWcRc6GC/fZuylpExlH8Hre8+1meuezS7WUfwF4ToOhfaf3QR5sTOBGP5S7JOHRbVNGpeRPRVFOlb;fGRXYbOA5O51IO0ofGHcHw=="
+secured: "2BwQ61NgJXrQPKPPYKPZrTdLIBcSrb0gaB55TLMKJxSDabed0AMEYLGLxgycPf66tx2Rk+ukSLZ2kPtymcxHxibqzjeL+kxZKh2NVdYClCuTLwQqHgKGbe0NQiJDXFXe9i73+LPAFXWjmwY8R/AKdTyGAsxaBfapI25E/5dXHIA7NLEdBg+o7ZtaXKSKBBLGiFuTJ647OkL5I9qj1jJSe4nmOapYMZmyNZmD3PPfvBKB8PhDli2ZE1iaHCKoVAQH1XThjp1swmLImjMmtUi8ylsau3YZKOONR07tTQfeUlZlu3cLaVu66dPPzOmQJ6jx;C8xeQxd3OsNToj8fGTWM9Q=="
 ---
 

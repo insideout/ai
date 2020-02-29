@@ -25,58 +25,50 @@ images:
     title: "Artificial Intelligence (AI) in Agriculture Market: Global Key Players, Trends, Share, Industry Size, Growth, Opportunities, Forecast To 2025"
 
 related:
-  - title: "Deep Learning Market Size, Sales, Growth Drivers, Opportunities, Industry Trends and Forecast to 2026"
-    excerpt: "Deep learning is a subfield of machine learning that consist of a series of computer instructions or algorithms that is inspired by the function and structure of the brain. Deep learning is widely known as artificial neural networks or deep neural networks."
-    publishedDateTime: 2020-02-25T11:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-size-sales-growth-drivers-opportunities-industry-trends-and-forecast-to-2026-2020-02-25"
+  - title: "Artificial Intelligence in Healthcare Market Overview By Share, Size, Industry Players, Revenue And Product Demand Forecast Till 2029"
+    excerpt: "The research study on Global Artificial Intelligence in Healthcare market 2019 presents an extensive analysis of current Artificial Intelligence in Healthcare market size, drivers, trends, opportunities,"
+    publishedDateTime: 2020-02-17T11:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-overview-by-share-size-industry-players-revenue-and-product-demand-forecast-till-2029-2020-02-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 54
+    quality: 53
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Artificial Intelligence (AI) Chipset Market Size, Share, Key Players, Growth Drivers, Business Opportunities, and industry Forecast"
-    excerpt: "Market Highlights Artificial intelligence (AI) chipset are silicon-based chips that are integrated with devices"
-    publishedDateTime: 2020-02-28T09:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipset-market-size-share-key-players-growth-drivers-business-opportunities-and-industry-forecast-2020-02-28"
+  - title: "Natural Language Processing (NLP) Market Size, Share and Top Key Players During 2019-2027"
+    excerpt: "The report covers the forecast and analysis of the natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million)."
+    publishedDateTime: 2020-02-18T07:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-size-share-and-top-key-players-during-2019-2027-2020-02-18"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Data Science and Machine Learning Service Market: Global Industry Analysis and Opportunity Assessment 2020 - 2026"
-    excerpt: "COMTEX_362633546/2582/2020-02-28T03:10:37 Here are 5 reasons the stock market is having its worst decline since 2008, and only one of them is the coronavirus"
-    publishedDateTime: 2020-02-28T08:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/data-science-and-machine-learning-service-market-global-industry-analysis-and-opportunity-assessment-2020---2026-2020-02-28"
+    quality: 40
+  - title: "Deep Learning Market In-Depth Industry Analysis on Size, Share Analysis, Cost Structure and Prominent Key Players Analysis 2026"
+    excerpt: "The global Deep Learning Market will increase by a CAGR of approximately 5.1% from 2019 to 2026 and is expected to achieve a market value above US$ 56,427.2 million in 2026. The report provides analysis of global Deep Learning Market for the period 2015-2026,"
+    publishedDateTime: 2020-02-18T06:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-in-depth-industry-analysis-on-size-share-analysis-cost-structure-and-prominent-key-players-analysis-2026-2020-02-18"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 48
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Voice Assistant Market 2020 - 2023: Business Trends, Size, Global Segment and Industry Profit Growth"
-    excerpt: "Voice Assistant Market Highlights: Voice assistant is a software designed to perform a range of predefined tasks. The tasks performed by the product include, but are not limited to, schedule an appointment,"
-    publishedDateTime: 2020-02-25T10:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-assistant-market-2020---2023-business-trends-size-global-segment-and-industry-profit-growth-2020-02-25"
+    quality: 21
+  - title: "AI in Healthcare Market Prospects Outlook 2019-2030 and Top Key Players - NVIDIA, Intel, GENERAL ELECTRIC COMPANY"
+    excerpt: "Companies such as IBM have played a big role in pushing AI into healthcare. The company is using its Watson platform technology in the field of cancer research, insurance claims and clinical support tools to enhance AI needs. For instance, Alder Hey ..."
+    publishedDateTime: 2020-02-14T11:43:00Z
+    webUrl: "https://www.cmo.com.au/mediareleases/38408/ai-in-healthcare-market-prospects-outlook-2019/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
+      name: cmo.com.au
+      domain: cmo.com.au
+    quality: 18
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg"
+        width: 600
+        height: 246
 
 secured: "kxAhVUqWMtLw/kFUXCMIbnKASjPsFPj3R4PwRYq9bspC3MzQ0FEMPtNqEmoeILvTUvwPDE8HUNetM/9eZnghU2E6U/CmeYU5cLt9H17jDEoPOg8Ldkkgs59h9KKKapZL3tYRI6aXJA6LWJlvTKl6ENRCauwPysEOi7h1qKHER8Y/Ric0JIcSjbS4HWshMRZxaXgY+e4AsunHMaS2/24ynU7WBRi6ffiKmoLViUrLL6OSRjs7aWc4HYJybjPXziXnX5xOroUsAg5cpDadWaaw9WCZQJGjh2Zvy3+DTR4PABVN1nkYmM5oI0HZl3FvZLVJWwgS9WO1MNUlbOVRcOzC8EE5IZS0Kry+k2YuXL1CpDdV1Gs5Bwe21YmBgfPXFFZT9l1k3H4dWp+xGSyuInFAKUxqiFRfAPDz3uGOF/GPwtZfuDZtSUpglkEXpz2WhB2v/dy6GE1Q28uNlbknWyuRFvKdU9oa8QhpZ5N/r6hTD+0=;58kFr+4aSHOAKKkwo+MtSA=="
 ---

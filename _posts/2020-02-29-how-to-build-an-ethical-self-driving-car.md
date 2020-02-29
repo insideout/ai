@@ -1,23 +1,29 @@
 ---
 category: news
-title: "MIT’s ground-penetrating radar allows self-driving cars to see beneath"
-excerpt: "Self-driving cars with a person sitting behind the wheel is already a reality. Research is being carried out to improve the technology but self-driving cars find it hard during bad weather. Now, Massachusetts Institute of Technology (MIT) has come up with tech that can help solve this problem."
-publishedDateTime: 2020-02-27T02:29:00Z
-webUrl: "https://www.hindustantimes.com/tech/mit-s-ground-penetrating-radar-allows-self-driving-cars-to-see-beneath/story-C2cM5tDftFnyrr7HsgXe4O.html"
-ampWebUrl: "https://m.hindustantimes.com/tech/mit-s-ground-penetrating-radar-allows-self-driving-cars-to-see-beneath/story-C2cM5tDftFnyrr7HsgXe4O_amp.html"
-cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/mit-s-ground-penetrating-radar-allows-self-driving-cars-to-see-beneath/story-C2cM5tDftFnyrr7HsgXe4O_amp.html"
+title: "How to build an ethical self-driving car"
+excerpt: "Not too long ago, tech enthusiasts were telling us that by 2020, we would see self-driving cars hit the mainstream, with some 10 million on the roads. That turned out to be a wild overestimation. The actual number of vehicles in testing is thousands of times smaller, and these are still being driven mostly in controlled conditions. Companies ..."
+publishedDateTime: 2020-02-29T03:53:00Z
+webUrl: "https://www.livemint.com/mint-lounge/features/how-to-build-an-ethical-self-driving-car-11582889880340.html"
+ampWebUrl: "https://www.livemint.com/mint-lounge/features/how-to-build-an-ethical-self-driving-car/amp-11582889880340.html"
+cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/mint-lounge/features/how-to-build-an-ethical-self-driving-car/amp-11582889880340.html"
 type: article
-quality: 24
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Hindustan Times
-  domain: hindustantimes.com
+  name: Mint
+  domain: livemint.com
 
 topics:
   - AI
   - AI in Autos
+
+images:
+  - url: "https://images.livemint.com/img/2020/02/28/600x338/99235d16-5944-11ea-a0f9-ce20fbbb5ff2_1582889879252_1582890018194.jpg"
+    width: 600
+    height: 338
+    title: "How to build an ethical self-driving car"
 
 related:
   - title: "China delays self-driving car deployment goal to 2025"
@@ -33,21 +39,6 @@ related:
       - url: "https://technode.com/wp-content/uploads/2019/01/bigstock-Smart-Car-Self-driving-Mode-V-260101189.jpg"
         width: 1775
         height: 1080
-  - title: "How to build an ethical self-driving car"
-    excerpt: "Not too long ago, tech enthusiasts were telling us that by 2020, we would see self-driving cars hit the mainstream, with some 10 million on the roads. That turned out to be a wild overestimation. The actual number of vehicles in testing is thousands of times smaller, and these are still being driven mostly in controlled conditions. Companies ..."
-    publishedDateTime: 2020-02-29T03:53:00Z
-    webUrl: "https://www.livemint.com/mint-lounge/features/how-to-build-an-ethical-self-driving-car-11582889880340.html"
-    ampWebUrl: "https://www.livemint.com/mint-lounge/features/how-to-build-an-ethical-self-driving-car/amp-11582889880340.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/mint-lounge/features/how-to-build-an-ethical-self-driving-car/amp-11582889880340.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 44
-    images:
-      - url: "https://images.livemint.com/img/2020/02/28/600x338/99235d16-5944-11ea-a0f9-ce20fbbb5ff2_1582889879252_1582890018194.jpg"
-        width: 600
-        height: 338
   - title: "New algorithm to prevent self-driving cars from bumping into each other"
     excerpt: "Researchers have developed a novel algorithm that may allow collision-free transportation in autonomous vehicles, an advance which they claim can help self-driving cars navigate each other without crashing, or causing traffic jams.The study, published in the journal IEEE Transactions on Robotics, tested the algorithm in a simulation of 1,024 ..."
     publishedDateTime: 2020-02-25T17:56:00Z
@@ -72,7 +63,18 @@ related:
       - url: "https://api.thedrive.com/wp-content/uploads/2020/02/autopilot_0.jpg?quality=85"
         width: 1920
         height: 1080
+  - title: "MIT’s ground-penetrating radar allows self-driving cars to see beneath"
+    excerpt: "Self-driving cars with a person sitting behind the wheel is already a reality. Research is being carried out to improve the technology but self-driving cars find it hard during bad weather. Now, Massachusetts Institute of Technology (MIT) has come up with tech that can help solve this problem."
+    publishedDateTime: 2020-02-27T02:29:00Z
+    webUrl: "https://www.hindustantimes.com/tech/mit-s-ground-penetrating-radar-allows-self-driving-cars-to-see-beneath/story-C2cM5tDftFnyrr7HsgXe4O.html"
+    ampWebUrl: "https://m.hindustantimes.com/tech/mit-s-ground-penetrating-radar-allows-self-driving-cars-to-see-beneath/story-C2cM5tDftFnyrr7HsgXe4O_amp.html"
+    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/mit-s-ground-penetrating-radar-allows-self-driving-cars-to-see-beneath/story-C2cM5tDftFnyrr7HsgXe4O_amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 24
 
-secured: "NLO+NQoCKZPAtTBh2yNQLWIsO7glpw0B6dboOVoX+kwmUlOoerxLMXT2ZSZB8x7Q9w/T3e11q8zEmuJw4iLvT6Jb3oE1f+SPiiqKEOhD1/0ioz/HnRSDpziTB99zw/F5eOA/MKkjPEvQ+NtmguBGA0CSYrB3ec/hIXxYf6gfkA6CKt9AguDXZ5ouNDaZhmwR6qJSB6VuE/l/Bxf2TWb58caOiiLpd8X677uWSoCWDAIjzqVSY2MZMpN6ruasG7C9hFC9/Q1D0+nEEL1Kbruh/OrurHkQxJNwsFt0JomivZxyVMlghRPuXpV2gj2ytH60Q5PTRhISAWVThIfrSPLDyZ9P1wOWNJqEnpHrXGOoxIuLPeaiLj4bTQGvl11bpeJYxnnOpvXk6hMEQa0xlYBUmZQZODP+YjgN9gwhb4gXyq8FUda8RVNJCqfsG1qGm7oJ39kOXoW8gLLkGAGs6jpXuEkgCvNSZ3ESOkghBWHqiTo=;XnEjw4fi9eZ+nf2sn/9yOA=="
+secured: "FgBr2khL23FH5H0VPIYnQMeN4OrlID8Um8Y0wNgm8WHSanMvRlNu0ksnMAsXnoaWYN+xdc2/9CDjFSlgUyXPJ4D/qkv2wu+Wqhotg/Yv4ErtgL8fDslQhEEe0ZydhqrxHXq37nKi8ytwmu1tA6A7S981X9tksPM4R9H6CSzgcccfrUG1lOOTkNgmjJ0KeC0f61IHN8gVgMbHRPFxT5Y6vnq1x5tAMVlYDwCuSyPPCV7SG7GgmfO9VNkycpwrSFQKD2Xrcu93qAuYu43RcjC4mVIBHv2pJYuTkknd2Bu9J/mdC9hMl3nrSVJePMSzs7ss;wKfk2K3o5IwVayoNb7czxQ=="
 ---
 

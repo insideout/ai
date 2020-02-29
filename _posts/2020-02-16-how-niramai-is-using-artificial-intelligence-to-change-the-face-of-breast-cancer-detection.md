@@ -104,19 +104,6 @@ related:
       - url: "https://images.livemint.com/img/2020/02/24/600x338/jobs_1582532250210.JPG"
         width: 600
         height: 338
-  - title: "Five ways artificial intelligence changed the workplace in 2019"
-    excerpt: "2019 marks another year of rapid development in the world of artificial intelligence. But while there continues to be much debate over ... Stockholm-based tech firm Furhat Robotics, however, is working to reduce the impact of human bias on candidate screening – all with the help of the robotic interviewer Tengai. Unlike human recruiters ..."
-    publishedDateTime: 2020-02-14T10:45:00Z
-    webUrl: "https://www.hcamag.com/us/specialization/hr-technology/five-ways-artificial-intelligence-changed-the-workplace-in-2019/213721"
-    type: article
-    provider:
-      name: hcamag.com
-      domain: hcamag.com
-    quality: 39
-    images:
-      - url: "https://cdn-res.keymedia.com/cms/images/us/036/0248_637172748247166840.jpg"
-        width: 1000
-        height: 600
 
 secured: "udvHZJXi1gRrFhfSfQ7hIAtW4TOt2nT466M3DDsDY9lQ/m4DOek5dI/QLa8A0uZ1x2E6Ye5KknnZUUtMNRfnkMiR1KKr1lpnRgBw15xeWIEoN9hw9yvhvPycZiGF93cKy5LRfpkjW6KQbX3bQedfKeOwlQPI2tsny0x8MWN3dIcUhrsYdGAEWfuehv82bw1j5Ry5n1U1XyJweUvEcF8eEmDW1hIsI5GMuYjoQDL1D6e9vKZaZ0R4/bqHtCa95O6mom28ScDMSZv8nSrPa/Iaz0BFi9Op//boDabSHnAVMoY79HTrezfoK+mH6odrx0L8hwpCFaJoAmx57J4Vgicku8kOYda6zRHxWLP1ZzSkoEwPJN3pT6XmzMA06dtBBsOET53YtpN35WuMi8fKEmVdLOq5j90DwBobsA+D9eNQJRb5g7YuiWTTd2tx2g2QgpnIcqAYK2bLM/5vQelgFJlTbRRJmg0Vx6Lj245mIWkMwFg=;KVh4yZJL3sLYXesvl6EPJA=="
 ---

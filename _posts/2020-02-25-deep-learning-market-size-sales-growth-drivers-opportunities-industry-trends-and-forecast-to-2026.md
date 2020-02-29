@@ -6,8 +6,8 @@ publishedDateTime: 2020-02-25T11:36:00Z
 webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-size-sales-growth-drivers-opportunities-industry-trends-and-forecast-to-2026-2020-02-25"
 type: article
 quality: 54
-heat: 94
-published: true
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -36,20 +36,46 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Natural Language Processing Market Key Drivers, Industry Share and Future Growth Demand Analysis by 2026"
+    excerpt: "Top Players in Natural Language Processing Market are 3M Company, Adobe Systems Inc., Amazon Web Services Inc., Apple Inc., Google (Alphabet Inc.), Hewlett-Packard Enterprise Company, Intel Corporation,"
+    publishedDateTime: 2020-02-25T11:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-key-drivers-industry-share-and-future-growth-demand-analysis-by-2026-2020-02-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 52
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Data Science and Machine Learning Service Market: Global Industry Analysis and Opportunity Assessment 2020 - 2026"
-    excerpt: "COMTEX_362633546/2582/2020-02-28T03:10:37 Here are 5 reasons the stock market is having its worst decline since 2008, and only one of them is the coronavirus"
-    publishedDateTime: 2020-02-28T08:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/data-science-and-machine-learning-service-market-global-industry-analysis-and-opportunity-assessment-2020---2026-2020-02-28"
+  - title: "Automotive Recognition System Market Share Industry Size Growth Forecast 2019-2024"
+    excerpt: "By Product: Hand/Leg/Finger Print Recognition, Face Recognition, Vision/Eye Recognition. By Application: Multimedia, Lightings, Others. The study clearly reveals that the \"Automotive Recognition System .\" industry has attained remarkable growth since 2019-2024. This research report is prepared based on an in-depth analysis of the market by experts."
+    publishedDateTime: 2020-02-25T16:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-recognition-system-market-share-industry-size-growth-forecast-2019-2024-2020-02-25"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
     quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Data Science and Machine Learning Service Market 2020-2024 : Global Growth Drivers, Opportunities, Trends, And Forecasts"
+    excerpt: "nbsp; Data Science and Machine Learning Service Market 2020 Description: - It analyses the market situation"
+    publishedDateTime: 2020-02-25T09:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/data-science-and-machine-learning-service-market-2020-2024-global-growth-drivers-opportunities-trends-and-forecasts-2020-02-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -67,21 +93,32 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Artificial Intelligence (AI) in Agriculture Market: Global Key Players, Trends, Share, Industry Size, Growth, Opportunities, Forecast To 2025"
-    excerpt: "in Agriculture Market” Artificial Intelligence (AI) in Agriculture Market: Global Key Players, Trends, Share, Industry Size,"
-    publishedDateTime: 2020-02-21T07:55:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/02/ab15381915/artificial-intelligence-ai-in-agriculture-market-global-key-players-trends-share-industry-size-gr"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/15381915"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15381915"
+  - title: "Natural Language Processing Market Comprehensive Insight by Growth Rate, Global Trends, Industry Status, Key Players Forecast till 2026"
+    excerpt: "Top Players in Natural Language Processing Market are 3M Company, Adobe Systems Inc., Amazon Web Services Inc., Apple Inc., Google (Alphabet Inc.), Hewlett-Packard Enterprise Company, Intel Corporation,"
+    publishedDateTime: 2020-02-27T07:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-comprehensive-insight-by-growth-rate-global-trends-industry-status-key-players-forecast-till-2026-2020-02-27"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 37
     images:
-      - url: "https://www.abnewswire.com/uploads/1582271362.jpeg"
-        width: 400
-        height: 225
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Europe 3D Sensor Market Size 2020, Regional Analysis, Key Players, Growth Drivers and Industry Challenges 2025"
+    excerpt: "D sensor market is growing due to its application in various end user industries such as consumer electronics, automobile, healthcare and others. Global 3D Sensor Market is valued at USD 1537.61 Million in 2018 and expected to reach USD 7221."
+    publishedDateTime: 2020-02-24T09:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/europe-3d-sensor-market-size-2020-regional-analysis-key-players-growth-drivers-and-industry-challenges-2025-2020-02-24?mod=mw_quote_news"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
 
 secured: "KmIo8L5Vw0KKj5K4utgDNOf5GPn4KhuKhoAu7oTL8qadGbaN4lXFd1krx1WMfTvEAcEtHwBzO240gpNTiN8LYhBKZvOYO8CFUPf2XedggD+oHW5UrMbYKe2S7IW6k7gpLd3Xm38jUcxYdUq+Eb8x7iS1QnEr/qMZDA2m69Fzu2gPYhl3xf4lN5u/FRD7BbMlPdDqqaGOZofg8SXXOqCCCT6NfZJba8h2Q1FPxExm8WyAN5mwZwBPxsVCf+uyK4obmH96nrpGJU/QdWDO4NrnWPVAEEoRZ1a/jO3syAX0b0BbcPycnkXh6/w6okKh3WJ12681O8SD4pSwpNjP1TL+X8+vTCOmUAffsFw6+6A5bLWeMQQmO6mapxubeNdY4kosWHEv/KbjEVfmMjvAz2JnpTnbpxQvvdK1MYOsNYv0uXpKfJ1BNRAi72tVdQakcLMYy7+Au23Y8HZfC0m26Bb5X9cZeGHSh1UnkICsgpXrcyA=;HMW5iXQjCfitQ59xQ68bnQ=="
 ---

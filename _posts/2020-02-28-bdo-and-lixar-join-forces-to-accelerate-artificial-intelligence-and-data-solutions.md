@@ -1,23 +1,27 @@
 ---
 category: news
 title: "BDO and Lixar join forces to accelerate Artificial Intelligence and Data solutions"
-excerpt: "TORONTO, Feb. 28, 2020 /CNW/ - Lixar, a Premier AI and Data Company, and BDO Canada LLP (BDO), a leading professional services firm, are joining forces to accelerate Artificial Intelligence (AI) and Data-driven solutions in Canada and globally."
-publishedDateTime: 2020-02-28T11:00:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/02/n15438639/bdo-and-lixar-join-forces-to-accelerate-artificial-intelligence-and-data-solutions"
-ampWebUrl: "https://amp.benzinga.com/amp/content/15438639"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15438639"
+excerpt: "TORONTO, Feb. 28, 2020 /CNW/ - Lixar, a Premier AI and Data Company, and BDO Canada LLP (BDO), a leading professional services firm, are joining forces to accelerate Artificial Intelligence (AI) and Data-driven solutions in Canada and globally. This becomes effective March 2, 2020. Together, BDO and Lixar are committed to providing next ..."
+publishedDateTime: 2020-02-28T11:09:00Z
+webUrl: "https://www.tmcnet.com/usubmit/-bdo-lixar-jo-forces-accelerate-artificial-intelligence-data-/2020/02/28/9106503.htm"
 type: article
 quality: 31
 heat: 31
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
 
-secured: "bxQUUUmHXavuuRsx4HlZvoZieTImCcH8p2x8LWmbMWpgxsHSZ2L0v0mDjahamxwV0AvZ5yJRt48BuzyhjZTUkFYE0idcfXJXaT+Y2MeHdR0n6Lhasn/pg9QHh0o3NaPPw6tTyFmbgH14/GNRvz/HeIFWPdScKdVhxiW/z0rZdSb/fb49FWxaWpXJ1ul8aO/DEPZe8SZxlUsIKTNK0kRGWIkXcHYLeVEvCpRJvLfRw78hdBTL3OMChhCnl+HKyW1QEFQZYmEOe/GWsZfNQ5SKGPLSCy9vsgxbGIRnZ3Qh17wXb7b8NQfki2N4CD408rE8d8xq6J85auyWKMS/s6VJFxjL7UJAI7dU2bLUXpvaDWlYyUL5FiMBNmSlczQLQJrLHQjvvcpp5mm1IJI3Nvt/bNucRxbDaWx8KiArCvbkg9KR0lrkJDaPH93SwY5qRI8U2VxQ/l1Su+QywKcvs2MMdvnfLGDzjQSGhK9kBpmS6gI=;7z6EBjpKkV7GReLxxvip9A=="
+images:
+  - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
+    width: 252
+    height: 335
+    title: "BDO and Lixar join forces to accelerate Artificial Intelligence and Data solutions"
+
+secured: "imL/14pvFZ5ZcCtGvdbMmRDEnabmZIAFtZ4n9pkKhhspUmKnVY3tah/TY4a+PYdDucBTV3EG+SxNFeZYo1vIk2z3x+gvBXOlcelfhR3RfcqtDHb9YMsDOBp49o06A0h4FoD3AWfLVAZ/z+P7tL2Wb73oz6J8hzYakHdP7L4gopRsKoheNY87FS++JYMMmGsSH6svsQUqp+WtpYtlgGCgL1euLIuBkmae4dvgFZS/FLhOXpAsFjK2F9MpkJfexYi3L17XkSCoj58rSt5zLUNg/wmf3BrUeMP+DRBYC/KwYEgBFCg5RV8aS3o83EFfR+YS;J4PaKJKI8KaFWLAGaQVPxQ=="
 ---
 

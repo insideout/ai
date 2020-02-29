@@ -37,6 +37,21 @@ related:
       - url: "https://technode.com/wp-content/uploads/2019/01/bigstock-Smart-Car-Self-driving-Mode-V-260101189.jpg"
         width: 1775
         height: 1080
+  - title: "How to build an ethical self-driving car"
+    excerpt: "Not too long ago, tech enthusiasts were telling us that by 2020, we would see self-driving cars hit the mainstream, with some 10 million on the roads. That turned out to be a wild overestimation. The actual number of vehicles in testing is thousands of times smaller, and these are still being driven mostly in controlled conditions. Companies ..."
+    publishedDateTime: 2020-02-29T03:53:00Z
+    webUrl: "https://www.livemint.com/mint-lounge/features/how-to-build-an-ethical-self-driving-car-11582889880340.html"
+    ampWebUrl: "https://www.livemint.com/mint-lounge/features/how-to-build-an-ethical-self-driving-car/amp-11582889880340.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/mint-lounge/features/how-to-build-an-ethical-self-driving-car/amp-11582889880340.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 44
+    images:
+      - url: "https://images.livemint.com/img/2020/02/28/600x338/99235d16-5944-11ea-a0f9-ce20fbbb5ff2_1582889879252_1582890018194.jpg"
+        width: 600
+        height: 338
   - title: "New algorithm to prevent self-driving cars from bumping into each other"
     excerpt: "Researchers have developed a novel algorithm that may allow collision-free transportation in autonomous vehicles, an advance which they claim can help self-driving cars navigate each other without crashing, or causing traffic jams.The study, published in the journal IEEE Transactions on Robotics, tested the algorithm in a simulation of 1,024 ..."
     publishedDateTime: 2020-02-25T17:56:00Z

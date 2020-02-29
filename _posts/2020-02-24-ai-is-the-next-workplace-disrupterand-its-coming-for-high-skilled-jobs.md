@@ -96,19 +96,6 @@ related:
       - url: "https://i.insider.com/5e53da52fee23d64d40e1ad6?width=1200&format=jpeg"
         width: 1200
         height: 600
-  - title: "Five ways artificial intelligence changed the workplace in 2019"
-    excerpt: "2019 marks another year of rapid development in the world of artificial intelligence. But while there continues to be much debate over ... Stockholm-based tech firm Furhat Robotics, however, is working to reduce the impact of human bias on candidate screening – all with the help of the robotic interviewer Tengai. Unlike human recruiters ..."
-    publishedDateTime: 2020-02-14T10:45:00Z
-    webUrl: "https://www.hcamag.com/us/specialization/hr-technology/five-ways-artificial-intelligence-changed-the-workplace-in-2019/213721"
-    type: article
-    provider:
-      name: hcamag.com
-      domain: hcamag.com
-    quality: 39
-    images:
-      - url: "https://cdn-res.keymedia.com/cms/images/us/036/0248_637172748247166840.jpg"
-        width: 1000
-        height: 600
   - title: "How Niramai is using artificial intelligence to change the face of breast cancer detection"
     excerpt: "Manjunath was working with a research group to create artificial intelligence (AI)-based solutions ranging from transportation to healthcare for customers. The group also had budget for innovation from emerging markets. A part of this research meant working with doctors and hospitals. It was during this time in her career that she would ..."
     publishedDateTime: 2020-02-16T09:38:00Z
