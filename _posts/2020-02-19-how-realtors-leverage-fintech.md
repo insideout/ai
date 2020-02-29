@@ -39,6 +39,15 @@ related:
       - url: "https://financialpostcom.files.wordpress.com/2020/03/hsbc_cmb_image5.jpg"
         width: 4830
         height: 3623
+  - title: "How Can Artificial Intelligence Use Big Data for Translating Documents?"
+    excerpt: "The Data-Driven Decision Making Series provides an overview of how the three main activities in the software delivery - Product Management, Development and Operations - can be supported by data-driven decision making. In Development, Continuous Delivery ..."
+    publishedDateTime: 2020-02-29T00:37:00Z
+    webUrl: "https://www.infoq.com/presentations/ai-translation-docs/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 17
 
 secured: "Ef0Tlc8YEs0LO1PSweBa4tU1wZH3LOSOv9LC80MigcfvlMMzh0OKzaJsa+gbN0I+0OqCU5T17VUsb/rBiuRBqnjIGRfTdQVzsYzxWvMI6pOGWm+CVfBDObuvZxc59M7qw7ABtNKRYKhX0nIOHNZHhhgrr51k1KArrC7oqkdimbM/Vw8MnkyvW1RuMKZsfooLIrJ2zkwBjFve5E2fSOfrUYp9XcRvUIvbiX4oYNr9l+AwZ0xyAXT1lJWR1F6TedQYvv1S+NkEqTDTePsPgSbMyDdr6vasCBWfJOu43z2lT2rpvKtghXF/9rPgPn7whIGXPTfQ62gFwyM8QNN4wd0lTLybGFlnYP4PDnC7TnXfAFs4UM2XcVDGKzfpc8eb5lV1QBrDkNtkYG9bS+nHlj8gdHwjPZISqXmTj4SPhGfkX04xkfioPOfYam8GCzge8crbp+TLpUmJv8C7NHwdnAFZpoSL3mFqvcXioDo1rYym5wQ=;HPl5WquW+njO+J0uOnJe/Q=="
 ---

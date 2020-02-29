@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-27T04:19:00Z
 webUrl: "https://www.nature.com/articles/s41377-020-0270-7"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -22,21 +22,6 @@ images:
     width: 685
     height: 386
     title: "Toward a self-driving ultrafast fiber laser"
-
-related:
-  - title: "Self-driving trucks on track"
-    excerpt: "The TuSimple self-driving truck is pictured in this undated handout photo obtained by Reuters May 20, 2019. [Photo\\Agencies] US, Chinese tech companies have developed software for autonomous, long-haul trucks Several US and Chinese tech firms have developed highly sophisticated software for autonomous long-haul trucks that can carry tons of ..."
-    publishedDateTime: 2020-02-24T22:48:00Z
-    webUrl: "https://www.chinadaily.com.cn/a/202002/25/WS5e54285fa310128217279eec.html"
-    type: article
-    provider:
-      name: China Daily
-      domain: chinadaily.com.cn
-    quality: 24
-    images:
-      - url: "https://img2.chinadaily.com.cn/images/202002/25/5e54285fa3101282065579c5.jpeg"
-        width: 608
-        height: 405
 
 secured: "C1UzdhiMnTIiN//gxJKFczNUqtt3cxCjY7ic5OSGNm55hSH8xinAdpgnYqX0ztI/MAnDKOP8ZXvHha+KltWYOAMSiYctQLweBy0Shfdn3vAalRiTRuitwAa/T7rjLc0qh5J7MpytmXqVvMaP8ixDqEuwgsSmeXLLNqMVT/UNtMIJHuMWXKE4Tf361+wjjTFoFAjbwCOr6mXLgqfQdPwgs97SivSpcEn4qQypEw15HCIhXDtsmw3p+TM2C1yBPUWdpFA+W6ujFSvznqcthAf3JakfETLB1sIXraObNdTqxEtEAdlfhqRRCOHk+D7j2KqPjmxg+haitihFEccu1hKN8q2Bm5+TjtdCbirdO/jJ+ThUoVk+80ogk+HCK0uV3vMQNCxATh8gf7CkOh5ith0GI8WT6O7BCm3e/RXtyFqXsCAoHKqfZQbnmUCaHgDdWsg7m+neMMCce2uASGnZ7eWysP7Hz1aMzrqvaLqPQrpfm58=;RbQ0UH6Lf5qto8Oa4uTAwQ=="
 ---

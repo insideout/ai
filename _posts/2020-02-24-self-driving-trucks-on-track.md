@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-24T22:48:00Z
 webUrl: "https://www.chinadaily.com.cn/a/202002/25/WS5e54285fa310128217279eec.html"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -24,19 +24,34 @@ images:
     title: "Self-driving trucks on track"
 
 related:
-  - title: "Toward a self-driving ultrafast fiber laser"
-    excerpt: "Femtosecond pulses from an ultrafast mode-locked fiber laser can be optimized in real time by combining single-shot spectral measurements with a smart genetic algorithm to actively control and drive the intracavity dynamics. Download PDF The first operation of a laser was recorded by Theodore Maiman in his laboratory notebook on 16 May 1960 ..."
-    publishedDateTime: 2020-02-27T04:19:00Z
-    webUrl: "https://www.nature.com/articles/s41377-020-0270-7"
+  - title: "Lyft ramps up self-driving program"
+    excerpt: "The report is the latest sign that Lyft is trying to ramp up its self-driving vehicle program known as Level 5. The CA DMV, the agency that regulates autonomous vehicle testing on public roads in the state, requires companies to submit an annual report that includes data such as total AV miles driven and number of vehicles. It also requires ..."
+    publishedDateTime: 2020-02-29T00:15:00Z
+    webUrl: "https://techcrunch.com/2020/02/28/lyft-ramps-up-self-driving-program/"
+    ampWebUrl: "https://techcrunch.com/2020/02/28/lyft-ramps-up-self-driving-program/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/28/lyft-ramps-up-self-driving-program/amp/"
     type: article
     provider:
-      name: Nature
-      domain: nature.com
-    quality: 24
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 74
     images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41377-020-0270-7/MediaObjects/41377_2020_270_Fig1_HTML.png"
-        width: 685
-        height: 386
+      - url: "https://techcrunch.com/wp-content/uploads/2020/02/lyft-suburban.jpg?w=1024"
+        width: 1024
+        height: 576
+  - title: "Rheinmetall Partners With Australian Researchers to Develop Self-Driving Vehicles For Military"
+    excerpt: "The aim of the ACW program is to develop self-driving, i.e. autonomous, vehicles supported by AI-enabled technologies. Rheinmetall Canada has already developed such a system, the eight-wheel drive Mission Master vehicle, which incorporates an autonomous driving vehicle capability. According to the February 27 statement, this autonomous ..."
+    publishedDateTime: 2020-02-28T16:22:00Z
+    webUrl: "https://thediplomat.com/2020/02/rheinmetall-partners-with-australian-researchers-to-develop-self-driving-vehicles-for-military/"
+    type: article
+    provider:
+      name: The Diplomat
+      domain: thediplomat.com
+    quality: 12
+    images:
+      - url: "https://thediplomat.com/wp-content/uploads/2020/02/sizes/td-story-s-2/thediplomat-2020-02-27-9.jpg"
+        width: 600
+        height: 400
 
 secured: "rCo8XM9ZFlmp1WmBmAs/xTzWx78cIakwJbRyCsPmnLYCJGRjOwYcMTqoN0kdjaqBLYXnuTLprduAlvNdPP51jks+LS166p9tBbZhNqUk/1qQqwJbKK/h3lD5oMcoKZD1P/uxWK7lh2eAVxMHaOjt9HskjpeQQgYIIYSqSUNvtL+hthaVoyxNpofK4eZvchWmr6ExGkNYz/bXJRMd8ONPvr0+sTkrJh4tfhk4by2r+SewF+hBD3wTGJtXZnTeZwf1ZNntHnJfUuYYQE5ydhmmQFUFx/33gtVjujzLOiqcfCv0iArV9UV2uPX7rYff82UC;RpoGHFNhZjUquPBkM7Neaw=="
 ---

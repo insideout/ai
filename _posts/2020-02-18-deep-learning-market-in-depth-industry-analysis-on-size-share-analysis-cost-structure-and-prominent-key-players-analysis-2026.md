@@ -44,21 +44,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 40
-  - title: "Artificial Intelligence (AI) in Agriculture Market: Global Key Players, Trends, Share, Industry Size, Growth, Opportunities, Forecast To 2025"
-    excerpt: "in Agriculture Market” Artificial Intelligence (AI) in Agriculture Market: Global Key Players, Trends, Share, Industry Size,"
-    publishedDateTime: 2020-02-21T07:55:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/02/ab15381915/artificial-intelligence-ai-in-agriculture-market-global-key-players-trends-share-industry-size-gr"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/15381915"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15381915"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 37
-    images:
-      - url: "https://www.abnewswire.com/uploads/1582271362.jpeg"
-        width: 400
-        height: 225
   - title: "AI in Healthcare Market Prospects Outlook 2019-2030 and Top Key Players - NVIDIA, Intel, GENERAL ELECTRIC COMPANY"
     excerpt: "Companies such as IBM have played a big role in pushing AI into healthcare. The company is using its Watson platform technology in the field of cancer research, insurance claims and clinical support tools to enhance AI needs. For instance, Alder Hey ..."
     publishedDateTime: 2020-02-14T11:43:00Z

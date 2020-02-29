@@ -63,17 +63,6 @@ related:
       name: Medical Xpress
       domain: medicalxpress.com
     quality: 39
-  - title: "New study allows brain and artificial neurons to link up over the web"
-    excerpt: "This study has for the first time shown how three key emerging technologies can work together: brain-computer interfaces, artificial neural networks and advanced memory technologies (also known as memristors). The discovery opens the door to further significant developments in neural and artificial intelligence research. During the study ..."
-    publishedDateTime: 2020-02-26T15:19:00Z
-    webUrl: "https://medicalxpress.com/news/2020-02-brain-artificial-neurons-link-web.html"
-    ampWebUrl: "https://medicalxpress.com/news/2020-02-brain-artificial-neurons-link-web.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-02-brain-artificial-neurons-link-web.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 39
   - title: "New study allows Brain and Artificial Neurons to link up over web"
     excerpt: "This study has for the first time shown how three key emerging technologies can work together: brain-computer interfaces, artificial neural networks and advanced memory technologies (also known as memristors). The discovery opens the door to further ..."
     publishedDateTime: 2020-02-26T12:16:00Z
@@ -87,6 +76,15 @@ related:
       - url: "https://cdn.southampton.ac.uk/assets/imported/transforms/site/news-release/PageThumbnail/566D6AE6FB4149BD97F4881362B0C14B/Virtual%20Laboratory%20-%20Southampton%20Zurich%20and%20Padova%202.jpg_SIA_JPG_fit_to_width_INLINE.jpg"
         width: 400
         height: 452
+  - title: "New study allows brain and artificial neurons to link up over the web"
+    excerpt: "This study has for the first time shown how three key emerging technologies can work together: brain-computer interfaces, artificial neural networks and advanced memory technologies (also known as memristors). The discovery opens the door to further significant developments in neural and artificial intelligence research. Brain functions are ..."
+    publishedDateTime: 2020-02-26T16:05:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-02/uos-nsa022620.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 19
 
 secured: "C44Os90DvR8CEG8PVuiE2fgrvVXMVW+ohLZBzxLniVjUKa+VBD4Bcf9iOVW2eID2PemFvBMcqsmw5q/EUot39azB5vY0rtBwYz/r4cBiRzNGrqMiTwUK26PmZf0LjxKsZWq5/9DchW6ZeWPnql93zY/vxjhrlFUrztYNy1YR6D48+BB3pHocJe5cILO0FvxeTdKx3uj+8MCu+E9XF4aFRjjifhvcFdvMt0peVyGpMOfVgDNvoitThSpwu/d/641XLmuK/xJ/x85VJLm235bl6cZ+iR8b3yATH3z2H6z9AoI/JfVACtt74CPhVQ6H7V+5;peNwfbQZ7xQ31qE1RgzzYw=="
 ---

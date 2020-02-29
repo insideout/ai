@@ -2,10 +2,10 @@
 category: news
 title: "Researchers look under the road to aid self-driving cars"
 excerpt: "Car companies and researchers have been feverishly working to improve the technologies behind self-driving cars. But so far ... A team from MIT's Computer Science and Artificial Intelligence Lab (CSAIL) developed a new system that uses an existing technology called ground-penetrating radar (GPR) to send electromagnetic pulses underground ..."
-publishedDateTime: 2020-02-28T21:48:00Z
-webUrl: "https://nsf.gov/discoveries/disc_summ.jsp?cntn_id=300108&org=NSF&from=news"
+publishedDateTime: 2020-02-28T21:49:00Z
+webUrl: "https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=300108"
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
@@ -16,12 +16,6 @@ provider:
 topics:
   - AI
   - AI in Autos
-
-images:
-  - url: "https://www.nsf.gov/news/mmg/media/images/cars_snow_f.jpg"
-    width: 350
-    height: 220
-    title: "Researchers look under the road to aid self-driving cars"
 
 related:
   - title: "This self-driving car looks under the road for a safety boost in rain and snow"
@@ -226,6 +220,6 @@ related:
       domain: consumerreports.org
     quality: 4
 
-secured: "1Ys6niL9oR1gmbS0WjWCnIB0tezxMOrQ0w8bgD4vd7GWGn9deaOmdxidNRaoJZNimtZrvHL2fKx0q+nfckX/t6AvHF4BKaa3COLNi4+BDCd3j8iN4qSX5Ioqe2GSODf7jnXsAet8r4wse/K4qhfB6N0RfpmoyOSg8D95Zk6dGQGTdvPdbCDcU1K6BcoJa9asjzHpj8XwLgj0eQkAuU+Ub8a4Me0Cbm+VufXRkWqeNLOmBXi/+nQwNFSmVHo+k5DCzLW70tpWotveF0i99U/6Z3ohU+WcSfOx0CvBLgL9dS8HnS8qNrMk1ZP59xibcuxp;0LuccrRDhnSVhtHXkRU0pQ=="
+secured: "H6xOehtaUNACLpnHxK50nq51+lroFKnlka+ZOJrDtmuQ7fkaoJ9x+Ap7m9lSL947ptQ6szIIgB/izxcnelXjAqZmPF22kd5K7xQ1f3u9xmWOUVC/q0MG6NmvTmULJrg7oJhxHK8AtVZf0b2z/K20C9UyajeRp2mp1cjat0/Px9WLHurkJA23HuJJOEt4Lfmr8bYr3ppl5FuFtzroit/EkArrwMCdKNTdNsCh+WqaJiPB8c4R/okb8GfqoF3gqe+JogGzmt4Z9nEXUX0IVLVJuWbPnRs6gY3wY7t1g6Xr8P/0AQgeEs99lWjjVcEJtDIMwbSTK3P0LbFuIIa0zhvZVL+SO4HYjIk9Ec9Gbe7kInHhl7lEXkEIrymA5WTjm8n18zt4thAdxI13yD7WH0blX05WRkCCO3UG8j8E05yliiTNmbY0UUQl3LGJeusICtBCP9k9yGoIz2t+RjnY6fbBGSmj1Xu0gmKrf47eCcm/UXo=;DP7LXNMRhxzq0LY0OcZs6Q=="
 ---
 

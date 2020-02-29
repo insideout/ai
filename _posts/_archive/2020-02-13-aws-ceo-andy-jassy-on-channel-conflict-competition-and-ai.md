@@ -5,8 +5,8 @@ excerpt: "Civil liberties advocates and others have criticized law enforcementâ€
 publishedDateTime: 2020-02-13T23:33:00Z
 webUrl: "https://www.crn.com/news/cloud/aws-ceo-andy-jassy-on-channel-conflict-competition-and-ai"
 type: article
-quality: 54
-heat: 54
+quality: 34
+heat: 34
 published: false
 
 provider:
@@ -17,12 +17,6 @@ topics:
   - AI
   - AWS AI
 
-images:
-  - url: "https://www.crn.com/resources/025a-0eb1c0b4df3e-181d6b918b6d-1000/jassy-andy-aws-cover.jpg"
-    width: 610
-    height: 457
-    title: "AWS CEO Andy Jassy On Channel Conflict, Competition And AI"
-
-secured: "2D/vRaQl0ayZRx0x9FowHQozRd3NxYGLpdGqusu/P562wZFqRjWxAGisrLSWUZib56EoqfOo6dZ9hF2MvMnZVuSssHXZw6dAvUO5lgXkGjlFsxEV5YJbjfoW4s0MaoMkmLhIvlfsGxAgjI8WE7J3QeFxjMbHM0deLVnGLHzWcAEVUWKWEAFq3ulKZeEhxJSxnSUmioPFm1gjt1A/A/eLrsxzB657zFeU/WKhgvWXX9KBJSAB9w5jedfrX2DPgFj+D4UqvmB26oVlJqWbLACpG78mK9R3Y1hNiL1NDX6+8bo+e3+r3FtOEUkQnUiCfCPp;fnKGx0GUo22GOAE8VOGy0g=="
+secured: "TvWQ/TKm++Pw/AuHXcOKdUYVC1Vj2/Hiul16VwDnvaPPE/qc8gf5L8jyBLy+2oiQdg8XCqqPOxeOpuiQP0yXfazR3NTCk8O24SOHlloB/lPvg9wb39upLTJ3SLOarkH2Wv3GgvzvLFKmFOqYtxyJmhkOluFYag827fWyk6D/SUjRGzXr3C8DGSqmZuDgeqwFlOVbkwC7+uxFdYxMOlr4igD0h5IgP24hzFXeh3ljN6LeA9tjiNjaQekxA7K+Gpqd1R6eGodljI6OBL8oiR+yEHXME+yqLsknGPZ+k4MLUEP0CcnWnTEXNTzR/lEpfTRC;IygveD9wHd+nzBZb09Cfog=="
 ---
 

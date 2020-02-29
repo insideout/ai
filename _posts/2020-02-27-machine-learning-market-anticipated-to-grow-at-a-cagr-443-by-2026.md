@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-27T13:09:00Z
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-anticipated-to-grow-at-a-cagr-443-by-2026-2020-02-27"
 type: article
 quality: 71
-heat: 82
+heat: 81
 published: true
 
 provider:

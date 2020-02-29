@@ -41,6 +41,15 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 98
+  - title: "Vatican Joins IBM, Microsoft to Call for Facial Recognition Regulation"
+    excerpt: "VATICAN CITY (Reuters) - The Vatican joined forces with tech giants Microsoft and IBM on Friday to promote the ethical development of artificial intelligence (AI) and call for regulation of intrusive technologies such as facial recognition."
+    publishedDateTime: 2020-02-29T00:11:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2020-02-28/pope-to-endorse-principles-on-ai-ethics-with-microsoft-ibm"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
 
 secured: "pe+E8EAP/RF1IqPquS/ka1+OJ93nphBpDE5YZTZgmPM9MeQPxCsJfIZwuLdAuBClPb20hsNCG2fROdlNem6TPa+XTymJ9OhmIWMPOrMduUpgkoBe6nwJDwcpBPPF4owxoU9oKQf6mBpEYTqiF92uXJGKuOmRSKzho+0T3htqbxVBRCTqzWzCVSHxpExqkccj7LeMMK0Ecy+RjK0L6D+CRk2gB6eWl0NOgfCc3eq7iVIx8qJlGJqoZdlmjh0j5zTXux3jtLP4rqpAiJrQak9zfnmf7OtmY9foqyciwlWr2L8LNOZr/uo5dbLMRup5QlUu;0wd/agF64edUyAMRDXracA=="
 ---

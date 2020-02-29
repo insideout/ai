@@ -24,6 +24,17 @@ images:
     title: "MIT’s Ground-Penetrating Radar Looks Down for Perfect Self-Driving"
 
 related:
+  - title: "Outrider Boasts $53M Funding Round For Self-Driving Freight Trucks"
+    excerpt: "Outrider wants to do for yard trucks what Waymo did for ridesharing, and what Einride did for trucking ... Founder and CEO Andrew Smith said that the logistics of operating a freight yard were complex and chaotic, and that the use of artificial intelligence had become a necessity to navigate the myriad of manual tasks available in such an ..."
+    publishedDateTime: 2020-02-20T09:33:00Z
+    webUrl: "https://www.pymnts.com/news/investment-tracker/2020/outrider-boasts-53m-funding-round-for-self-driving-freight-trucks/"
+    ampWebUrl: "https://www.pymnts.com/news/investment-tracker/2020/outrider-boasts-53m-funding-round-for-self-driving-freight-trucks/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2020/outrider-boasts-53m-funding-round-for-self-driving-freight-trucks/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 24
   - title: "The Polestar 1K is a self-driving robocar concept that really looks down upon human drivers!"
     excerpt: "Meet the Polestar 1K, a concept that went from design-challenge to fully-detailed concept prototype. The Polestar 1K’s journey started on Instagram as a part of the Polestar Inktober Challenge. Designer Fabian Breës took it upon himself to reinterpret the automobile company’s simple, almost architectural form language into something ..."
     publishedDateTime: 2020-02-18T01:00:00Z

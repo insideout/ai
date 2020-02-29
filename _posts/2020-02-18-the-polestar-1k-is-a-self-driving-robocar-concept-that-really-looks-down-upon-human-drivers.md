@@ -37,6 +37,17 @@ related:
       - url: "https://www.extremetech.com/wp-content/uploads/2020/02/WaveSense_3_final.jpg"
         width: 1344
         height: 830
+  - title: "Outrider Boasts $53M Funding Round For Self-Driving Freight Trucks"
+    excerpt: "Outrider wants to do for yard trucks what Waymo did for ridesharing, and what Einride did for trucking ... Founder and CEO Andrew Smith said that the logistics of operating a freight yard were complex and chaotic, and that the use of artificial intelligence had become a necessity to navigate the myriad of manual tasks available in such an ..."
+    publishedDateTime: 2020-02-20T09:33:00Z
+    webUrl: "https://www.pymnts.com/news/investment-tracker/2020/outrider-boasts-53m-funding-round-for-self-driving-freight-trucks/"
+    ampWebUrl: "https://www.pymnts.com/news/investment-tracker/2020/outrider-boasts-53m-funding-round-for-self-driving-freight-trucks/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2020/outrider-boasts-53m-funding-round-for-self-driving-freight-trucks/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 24
 
 secured: "vJM2bWiskumoQE/vNQy27sLnzWltTQtvQcho9EctBqaH94JMmY3Tf5aLL07zSzxhWWRpOu6EADVscdyXKkL4sL2D1IwAqHLxwQeSobql0UpdgKNBGOOhGL4VMeiElSVlxq7E76ffCT6U/eQXgIGaPNs998ZP9028u5tZrWpFPgswvHlv5WWXcIwD+Jj1fSbA6Zt8oAniPjYXgXWq1JsZoEWVZ4K7BYD8lJfYqAsPBuuoUnEyRU0MPnYmI6O9j8LTAKRsvCMHN7S0rUHW86OrCbx1jXGSNDQ9/0ppJZlDpcNWdR+wtgoq0Xg6+32o+y4rQzrSMCu+EQkUe5cDt8o8AJXE3vKGa23OQeMfKxBzasUPk+yGDzItICnnKLuQ3+uNQI4y0HFDvfcAbynY93FpZ9Ik5VSxTdqWNdHBqqQXmgKXxW8GWNfHuwuHIxZfLZelJi68jXkAPK+ZtETHJKlIDlZt8UXagWtMF1XA57/GAu4=;ix1oJ/JJn3q+CoW/p45icw=="
 ---

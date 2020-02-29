@@ -5,7 +5,7 @@ excerpt: "Researchers Monitor Sørensen's Prosthetic LifeHand 2/Patrizia Tocci H
 publishedDateTime: 2020-02-05T00:00:00Z
 webUrl: "https://www.popsci.com/article/science/mind-controlled-robotic-hand-sense-touch?loc=recent&lnk=2&con=a-mindcontrolled-robotic-hand-with-a-sense-of-touch"
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
@@ -17,12 +17,6 @@ topics:
   - AI
   - AI in Robotics
 
-images:
-  - url: "https://www.popsci.com/resizer/fpU9tcI__P5BYCC0_WtmmQNOfOQ=/1200x628/smart/arc-anglerfish-arc2-prod-bonnier.s3.amazonaws.com/public/NSO6ZVCP43CLCPK3A4UYAJGYFA.jpg"
-    width: 1200
-    height: 628
-    title: "A Mind-Controlled Robotic Hand With A Sense Of Touch"
-
 related:
   - title: "This paralyzed man can feel his fingers again thanks to a mind-controlled robotic arm"
     excerpt: "Mashable is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content ..."
@@ -32,23 +26,17 @@ related:
     provider:
       name: Mashable
       domain: mashable.com
-    quality: 77
-    images:
-      - url: "https://mondrian.mashable.com/2016%252F10%252F14%252Fb6%252FAP_16287736330662.d3659.jpg%252F1200x630.jpg?signature=NIqfeD79B--WSLa-nz-r7U5cHZ0="
-        width: 1200
-        height: 630
+    quality: 57
   - title: "Mind-Controlled Robotic Arm Allows Paralyzed Man To Feel, Move Objects"
     excerpt: "Nathan Copeland can't use his own arms to move objects, he can use a robot arm just by thinking about moving it; KDKA's Dr. Maria Simbra reports. Around The Table: The Importance Of The Iowa ..."
     publishedDateTime: 2020-02-03T00:00:00Z
     webUrl: "https://pittsburgh.cbslocal.com/video/3669495-mind-controlled-robotic-arm-allows-paralyzed-man-to-feel-move-objects/"
-    ampWebUrl: "https://pittsburgh.cbslocal.com/video/3669495-mind-controlled-robotic-arm-allows-paralyzed-man-to-feel-move-objects/amp/"
-    cdnAmpWebUrl: "https://pittsburgh-cbslocal-com.cdn.ampproject.org/c/s/pittsburgh.cbslocal.com/video/3669495-mind-controlled-robotic-arm-allows-paralyzed-man-to-feel-move-objects/amp/"
     type: article
     provider:
       name: CBS Local
       domain: cbslocal.com
-    quality: 39
+    quality: 19
 
-secured: "jUZkqUQ+gwergaiJzH5VGQm+dm8DU2wmHJWnULUn4qidU02wAXqVIotcA4Hvj+LWvvvlXMsudRwte27ku0sR04on1CJvI2s4XKO4ExeDISDpbCDzquc32olH7CR3XWHcQ0sVABRWaHAhUBhPcTa78P4HYr887mXMAL+Zllkvg6a6s/zsbb6z/+tow6Cog8X+rtTt9oUnWNdK/rwkFwBGmcxYpz40uf0/2s6VhnYaGSHmdrvRSMEZ8qXDS+TeQN7P4Q1jbORb8TauiHBAT1BOinBVgqRbK2PTq3W/tKGXeXfDB/RqJrAyeXs5PNyeizan;gOAgQfRLZzCTEN4Mq6lTIg=="
+secured: "OI2j9bIsw0zmoLtB14zIKi0CbQASGEyQAYiZdUHfJkc4h4hJQehy8JIZixkHGB7XIvEesESNnerJqhsPAkYEsuY18KbAqEmh9SDp49rpM2lAiFp3Qkx6/aCsiC9xhklAgKqEnjizbkjrWZH3zo+628TRQdXTuHppcLem0xZupvJCN1bgaHdk+IXm0aLdiOTSmxl4aVhfyXl2zZ59SGNcJj+/BQ5GS2KDb+Ff0su6wMFQ6r9VdpdNHeaqcjUo1iQtdz4blE3PkQJXYpBwSGLEo7XUBWscP/ZKC9yrV606BguG4OIIFMrduFGweYqgLut0;c8Fq4dURE77WijzK5UFAmw=="
 ---
 

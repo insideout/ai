@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-to-open-azure-reg
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-to-open-azure-regions-in-spain-expands-telefonica-relationship/"
 type: article
 quality: 98
-heat: 108
+heat: 118
 published: true
 
 provider:
@@ -39,6 +39,15 @@ related:
       - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20200228&t=2&i=1496434448&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG1R0LA"
         width: 872
         height: 545
+  - title: "Vatican Joins IBM, Microsoft to Call for Facial Recognition Regulation"
+    excerpt: "VATICAN CITY (Reuters) - The Vatican joined forces with tech giants Microsoft and IBM on Friday to promote the ethical development of artificial intelligence (AI) and call for regulation of intrusive technologies such as facial recognition."
+    publishedDateTime: 2020-02-29T00:11:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2020-02-28/pope-to-endorse-principles-on-ai-ethics-with-microsoft-ibm"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
 
 secured: "6D+yLA53W6cZuZiEJ8Dlm0aZMbDboYUtb5I5M3n8cxmGxxjoeKW+GMlxyd9rDWbg2Rmlyxw7FxWDBMfeF+PEX1AjD8z2x1lGufR3KTojV/YaYfLuKG946IIv7SBbEefMGHQV8iPdJf27TTr4YCybw+8AIF7/jc5QjxIXf7R7LEbt/XgLr35bdJ1rhwUBF5PenM+L+d5FhrR14QYtehpCJiIBuUJCNxvVTaDi2h45zPgvJ3vQgkKsgeXDR/z4OeyxNsQLgAPLqwhAtR1EgcOqeqZtLhWysR/KORDBsKFz2Qds2OWtcSOMXyNjN/Kj/Z3mhk3Y33LgygtvEukBTZHd+/7a+RszGYohF636OwyrsYZu+CJuVDPrWe6CmtNWGLIB04GxtyY0aj0Y3ZTJ6H7SNyj3yjBzceTIOCjpKNKj9HZhr16mxLZRhu/p4xb4kQhIYLjn1fS78RNUfttN9F5cKjEMWb6ZxF/ahj1TyW9J1W0=;cpvm1HQELV0RZJyxysJdVg=="
 ---

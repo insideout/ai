@@ -264,6 +264,21 @@ related:
       - url: "https://mondrian.mashable.com/2020%252F02%252F26%252Ff8%252Fb7ae576e678b4164821136834cb6b965.a9d7d.jpg%252F1200x630.jpg?signature=1ED1HL_mJDPNyNyJgXoYnP97tW0="
         width: 1200
         height: 630
+  - title: "Apple Just Disabled Clearview AI's iPhone App For Breaking Its Rules On Distribution"
+    excerpt: "Clearview AI is not the first company to violate Apple’s Enterprise Developer Program terms of service. After Facebook used the program to distribute a \"research\" app to track teenagers' online habits, Apple revoked Facebook's enterprise license, which allowed it to participate in the program. Apple did the same thing to Google when it used ..."
+    publishedDateTime: 2020-02-28T20:19:00Z
+    webUrl: "https://www.buzzfeednews.com/article/loganmcdonald/apple-clearview-app-violates-tos-supension"
+    ampWebUrl: "https://www.buzzfeednews.com/amphtml/loganmcdonald/apple-clearview-app-violates-tos-supension"
+    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/loganmcdonald/apple-clearview-app-violates-tos-supension"
+    type: article
+    provider:
+      name: BuzzFeed News
+      domain: buzzfeednews.com
+    quality: 82
+    images:
+      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2018-12/7/11/campaign_images/buzzfeed-prod-web-03/chinese-mobile-app-companies-are-a-national-secur-2-6423-1544201103-0_dblbig.jpg"
+        width: 625
+        height: 415
   - title: "Data Breach at Controversial Face Recognition Firm Shows Company Can't Be Trusted, Officials Say"
     excerpt: "A security breach at a face-recognition startup, already embattled over its unfettered collection of Americans’ personal data on behalf of its hundreds of law enforcement clients, further underscores the potential hazards faced by consumers at the hands of a controversial and largely-unregulated surveillance technology, federal officials said ..."
     publishedDateTime: 2020-02-27T08:09:00Z
@@ -384,6 +399,15 @@ related:
       - url: "https://cdn.ttgtmedia.com/visuals/German/article/CCTV-facial-recognition-3-adobe.jpg"
         width: 1200
         height: 400
+  - title: "Apple blocks Clearview AI facial recognition on iPhones after developer violation"
+    excerpt: "Apple has blocked customers from using the controversial Clearview AI facial recognition app on iPhones after Apple determined the startup violated its developer agreement and suspended its account. The move is a new blow to the facial recognition startup that also faces lawsuits and challenges from privacy advocates."
+    publishedDateTime: 2020-02-28T23:22:00Z
+    webUrl: "https://www.cnet.com/news/apple-blocks-clearview-ai-facial-recognition-on-iphones-after-developer-violation/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 59
   - title: "Hack Exposes Government Clients of Facial Recognition Firm"
     excerpt: "(TNS) — New York State Police is among the law enforcement agencies who use an application created by controversial facial recognition company Clearview AI, a spokesperson confirmed to Syracuse.com. The troopers’ use of the technology was first ..."
     publishedDateTime: 2020-02-28T18:48:00Z
@@ -427,6 +451,15 @@ related:
       - url: "https://images.thestar.com/5V3cA-Dnk1rtXOS8iTTUOE3lQ0A=/1200x800/smart/filters:cb(1582840130861)/https://www.thestar.com/content/dam/thestar/news/canada/2020/02/27/rcmp-admits-to-using-clearview-ai-says-controversial-facial-recognition-tool-has-solved-child-exploitation-cases/rcmp.jpg"
         width: 1200
         height: 800
+  - title: "Apple Disables Clearview AI's App, Accusing the Face Recognition Firm of Violating Its Rules"
+    excerpt: "Embattled face recognition startup Clearview AI is topping off a week of intense scrutiny over its nebulous law enforcement partnerships with an even bigger dose of bad news: Apple has reportedly disabled the iOS version of Clearview’s app citing violations of its developer program. BuzzFeed first reported the news, saying Apple took action ..."
+    publishedDateTime: 2020-02-28T23:50:00Z
+    webUrl: "https://gizmodo.com/apple-disables-clearview-ais-app-accusing-the-face-rec-1841982899"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 53
   - title: "Controversial face recognition software a 'tool' for Sudbury police, but not yet in use"
     excerpt: "As Canada's privacy commissioner says he will begin investigating concerns around Clearview AI, police in Sudbury say they have not yet used the controversial face recognition software. The powerful new app can identify a person's name, phone number and even their address by comparing their photo to a database of billions of images scraped from ..."
     publishedDateTime: 2020-02-24T16:55:00Z
@@ -516,6 +549,15 @@ related:
       - url: "https://www.smartcompany.com.au/content/uploads/2020/01/Clearview-AI.jpg"
         width: 681
         height: 333
+  - title: "Apple suspends facial recognition app 'Clearview AI' that's currently being used by law enforcement & banks to solve crimes"
+    excerpt: "A new report claims that Apple has disabled the iOS application of Clearview AI — the facial recognition company that claims to have amassed a database of billions of photos and has worked with thousands of organizations around the world — after BuzzFeed News determined that the New York–based startup had been violating the iPhone maker ..."
+    publishedDateTime: 2020-02-28T23:32:00Z
+    webUrl: "https://www.patentlyapple.com/patently-apple/2020/02/apple-suspends-facial-recognition-app-clearview-ai-thats-currently-being-used-by-law-enforcement-banks-to-solve-crimes.html"
+    type: article
+    provider:
+      name: Patently Apple
+      domain: patentlyapple.com
+    quality: 0
 
 secured: "7HlgmowQ6yBQSGm63ViBs5Kaa9XKZQE9W1X7tqkFweQtZmT9X2O0TRrLYEHg6ghznbZHyvP9uq/BGDiYdXol8dg7H4gOU98JNPInfUFd/CaHrjD2ilCUkebwZSwKqqFteyYjIgkDiRd9pOjzVBbp5g3qf+waVgZS8Kb+ofWHTFQ5aPg5ANKzBBbeGXrmsKR/DNGTvmAbWYvegTyH/usIVY8JLrNS23j0Ff53UeRl4rQaAwa9K5LdpSSIeble6LddMGtENAXsy1J/HRJ4FCjVWX5Nu2rDaLPX3hWBG6/SJL5hQYeZ0cQqKDJmqcMT+a89yNpqAmKS0NcX/pGFh0zUmYWrl9gJLGO7UqT/swySm03L86yQb3OZHsY7ZZGaRtFPEyX2nKn+U0nCnTttk94wpo6kQnG78vVIboy/sXaoy1HQaJ1Dl6VF093R125MS4mW5Lls1gWL0jNSwIG2ae93j7Xi/l1+xzxCN5DAhbWyShE=;KYxNamEdels6WuYw3wSP/w=="
 ---

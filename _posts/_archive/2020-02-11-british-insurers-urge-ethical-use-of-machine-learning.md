@@ -4,11 +4,9 @@ title: "British Insurers Urge Ethical Use Of Machine Learning"
 excerpt: "Law360, London (February 11, 2020, 2:03 PM GMT) -- A group of British insurers has warned the industry that it must establish clear ethical rules over its use of artificial intelligence and machine learning to help protect consumers from potential harm. The Association of British Insurers urged financial services companies — and regulators ..."
 publishedDateTime: 2020-02-11T14:10:00Z
 webUrl: "https://www.law360.com/articles/1242810/british-insurers-urge-ethical-use-of-machine-learning"
-ampWebUrl: "https://www.law360.com/amp/articles/1242810"
-cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1242810"
 type: article
-quality: 24
-heat: 24
+quality: 4
+heat: 4
 published: false
 
 provider:
@@ -19,6 +17,6 @@ topics:
   - AI
   - AI in Finance
 
-secured: "GjO4cGz8rYFSmNmhC4aXRj1UCZDjkSZRU3DgY0WWbouEhQfm4EIu2hwseHzByiXBLPmQKJ9cpnc7dYmDbyudWS7YK9apB5/OuulOc5eCpKCb62M8VrfWOkHWZ/+9H8GZDHLonQoP4H3jqCF+BTkbr5aLH3wPeHgegganPn5nYbVwEW2vIPx0WxRzEGwxQn6Lv/IrJEtjyXvNEG1IKDwPbVw6Gj4NlA6GpNpCCAujqfnwkeV/FiEzHXfma+gc+dz1CPpeSPlSnvg4Lm8nU5Q8M/EC+tB+xRMGfiL+vsTtzEiaPypFBOY8sC1H4V+6uOqT;hEWCWlEyctnBqBxryBh/wQ=="
+secured: "q1xyGayx4BF3mFMIllr6/7JSS/nwo40uSZf+XDLIyCNZQilzSjbJL8uwmhjzq1P98Sgv2zFOT7Raq8dg0btEZ0CzwVtTAVZcNJM+ZFu8LZmpPlpoB2rtP8l39cEy+vux8UhQeGxBUcLuiOX2bBkkhkJWcpEmKcnx5fGC9Oi165W9kg3NqyJEPLNTQacY8Yg2kMQXWrZE43kLDF5dJht96A2YuryyNtexwtogBd5nXQKtXV+3I39JnGN8/rPC+mLDCh2pCevnke24SktzEoteduXdl+FeLdkBe63rCyiMEoXfTXL82/Czg4cxiH7EhhZh;D+sUKymmBW+ZfqeFcMqWtA=="
 ---
 

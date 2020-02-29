@@ -61,17 +61,6 @@ related:
       - url: "https://www.news-medical.net/image.axd?picture=2016%2f3%2fArtificially_Colored_MRI_Scan_Of_Human_Brain-Daisy_Daisy_a8c5d8bbbf824bc8932308e30187510f-620x480.jpg"
         width: 620
         height: 480
-  - title: "New study allows brain and artificial neurons to link up over the web"
-    excerpt: "This study has for the first time shown how three key emerging technologies can work together: brain-computer interfaces, artificial neural networks and advanced memory technologies (also known as memristors). The discovery opens the door to further significant developments in neural and artificial intelligence research. During the study ..."
-    publishedDateTime: 2020-02-26T15:19:00Z
-    webUrl: "https://medicalxpress.com/news/2020-02-brain-artificial-neurons-link-web.html"
-    ampWebUrl: "https://medicalxpress.com/news/2020-02-brain-artificial-neurons-link-web.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-02-brain-artificial-neurons-link-web.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 39
   - title: "New study allows Brain and Artificial Neurons to link up over web"
     excerpt: "This study has for the first time shown how three key emerging technologies can work together: brain-computer interfaces, artificial neural networks and advanced memory technologies (also known as memristors). The discovery opens the door to further ..."
     publishedDateTime: 2020-02-26T12:16:00Z
@@ -85,6 +74,15 @@ related:
       - url: "https://cdn.southampton.ac.uk/assets/imported/transforms/site/news-release/PageThumbnail/566D6AE6FB4149BD97F4881362B0C14B/Virtual%20Laboratory%20-%20Southampton%20Zurich%20and%20Padova%202.jpg_SIA_JPG_fit_to_width_INLINE.jpg"
         width: 400
         height: 452
+  - title: "New study allows brain and artificial neurons to link up over the web"
+    excerpt: "This study has for the first time shown how three key emerging technologies can work together: brain-computer interfaces, artificial neural networks and advanced memory technologies (also known as memristors). The discovery opens the door to further significant developments in neural and artificial intelligence research. Brain functions are ..."
+    publishedDateTime: 2020-02-26T16:05:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-02/uos-nsa022620.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 19
 
 secured: "0VHdWOXvptG4KzJppdmh0QMtVFoYWWyBTubFdLJ+oKoPPKfvvV2ObYnrfdyHemnXFeWPrVQq6OM9KYQwtbtnQYkigreMP+Kwwhh8/4p2B6v7zzOtg/gm52sN/Keg/JVXzAROMJx9Fn4QH5kSX8he7nWldc1oNqG/74oKXcnWm9yVnHRoZfX5BWlwSAZdBm23qQMyHsvLhSZSy89X+ebh7QH9QGlLAzE2rdXXMJvRl0zHN+ToiHbSYQMuXuKbs9l3o3jLbZEW7j0OrZc+hwhBQ0KYozZQQHRbPkG1UsLU5piCPDcCR+Ydx7Tok6iWDXXlOtlYQoCaeoiVEfVD6mB9HImdNEvjQ1i7hBY1v2SL78YM6f/oO/1NSw9757FOJsanbA371obPYiAWQQOciLkVjJHHj7Iv1ebz8AIvea+fn6lVVuAgaDNMERt5Sm+xv7DuFoJYfuG5OJJlwuKN92KMGei4PQrduwjmGmiwFA1ewMk=;lqHqmebsDchMV5yH3ep8DQ=="
 ---

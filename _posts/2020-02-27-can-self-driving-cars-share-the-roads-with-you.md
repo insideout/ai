@@ -104,19 +104,6 @@ related:
       - url: "https://www.nsf.gov/news/mmg/media/images/cars_snow_f.jpg"
         width: 350
         height: 220
-  - title: "Researchers look under the road to aid self-driving cars"
-    excerpt: "Car companies and researchers have been feverishly working to improve the technologies behind self-driving cars. But so far ... A team from MIT's Computer Science and Artificial Intelligence Lab (CSAIL) developed a new system that uses an existing technology called ground-penetrating radar (GPR) to send electromagnetic pulses underground ..."
-    publishedDateTime: 2020-02-28T21:48:00Z
-    webUrl: "https://nsf.gov/discoveries/disc_summ.jsp?cntn_id=300108&org=NSF&from=news"
-    type: article
-    provider:
-      name: nsf.gov
-      domain: nsf.gov
-    quality: 39
-    images:
-      - url: "https://www.nsf.gov/news/mmg/media/images/cars_snow_f.jpg"
-        width: 350
-        height: 220
   - title: "Jaguar Land Rover unveils electric self-driving car that will be used on UK roads next year"
     excerpt: "JAGUAR Land Rover has revealed a electric driverless car that will hit UK roads as early as next year. The self-driving pods will be trialled in Coventry in 2021 to test how it interacts with other vehicles, road users and pedestrians. The vehicles - dubbed Project Vector - were unveiled yesterday at the National Automotive Innovation Centre at ..."
     publishedDateTime: 2020-02-19T10:45:00Z
@@ -210,6 +197,15 @@ related:
       - url: "https://www.siliconrepublic.com/wp-content/uploads/2020/02/AdobeStock_308039407.jpeg"
         width: 800
         height: 600
+  - title: "Researchers look under the road to aid self-driving cars"
+    excerpt: "Car companies and researchers have been feverishly working to improve the technologies behind self-driving cars. But so far ... A team from MIT's Computer Science and Artificial Intelligence Lab (CSAIL) developed a new system that uses an existing technology called ground-penetrating radar (GPR) to send electromagnetic pulses underground ..."
+    publishedDateTime: 2020-02-28T21:49:00Z
+    webUrl: "https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=300108"
+    type: article
+    provider:
+      name: nsf.gov
+      domain: nsf.gov
+    quality: 19
   - title: "Transportation in 2030: Flying cars maybe, but mainstream electric and shared ones for sure, some possibly self-driving"
     excerpt: "so this is a serious space.\" Companies like Uber, Boeing, Volvo, & Toyota among others are testing this technology. Meanwhile, autonomous vehicles (self-driving cars) are nearly here. They already undergoing vigorous testing and by the way the Oregon Department of Transportation has an autonomous vehicle task force considering what changes ..."
     publishedDateTime: 2020-02-18T14:30:00Z
