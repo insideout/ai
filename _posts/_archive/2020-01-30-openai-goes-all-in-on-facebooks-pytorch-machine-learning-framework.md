@@ -4,10 +4,12 @@ title: "OpenAI goes all-in on Facebook’s Pytorch machine learning framework"
 excerpt: "While TensorFlow has been around slightly longer (since November 2015), PyTorch continues to see rapid uptake in the data science and developer community. It claimed one of the top spots for ..."
 publishedDateTime: 2020-01-30T17:01:00Z
 webUrl: "https://venturebeat.com/2020/01/30/openai-facebook-pytorch-google-tensorflow/"
+ampWebUrl: "https://venturebeat.com/2020/01/30/openai-facebook-pytorch-google-tensorflow/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/30/openai-facebook-pytorch-google-tensorflow/amp/"
 type: article
-quality: 49
-heat: 49
-published: false
+quality: 89
+heat: 89
+published: true
 
 provider:
   name: VentureBeat
@@ -21,6 +23,12 @@ topics:
   - AI
   - Google AI
 
-secured: "T9hkOn0IWtJTcgy3VAjOHBxOXQaOUJ2rqKX4kQa95fi3iU+rmD3HOUPAWABi9YJ0HvUKrkjfViRcv9USgFnzWJudEJ2p56eZsu6JM9ib16oj+2Ym9I9IRGpr1OjKkDRt74IYdeKiU/JQplP44lEDUWA8kqzNhq119xYeZGRX1QH5dtP2cC/gjR2aoobAaDCjX4A1QedPZnSsZCIFJx7JQsoqF38qCjD5raNkE7ayO8DXPhinWqsxbrYJJi20vWIu+POEyvsWMLebJ41lRJz6n8oX0SQKWTxxJTuyIa4lnXjrg/69e9w/UzcReZIUSGp7;T7r20VPt2/50BywYIftUAg=="
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2019/06/pytorch-e1576624094357.jpg?fit=1200%2C600&strip=all"
+    width: 1200
+    height: 600
+    title: "OpenAI goes all-in on Facebook’s Pytorch machine learning framework"
+
+secured: "gScXtvhu388zLKEPWiQzxh25e54LTtFStf+aZB1pLnb9PwhkRx0oIhmrBlmweGGxCIdIOsnhjoGGdAobSyKtTBS+XkQO735vDNuoInTlX94hVm56fAzOp3AOvYaboZN4YzebbAkaWRv/KkC8B7iamRBT+T+reUMDlbS3BzYGSFagEN870zAK90Kib2QtqDmenzJWShS2ACzlSKdMF+iyJFQ0o99G+CJlJ+KrGFN1Ppv4bMdhyHung6haG7RmMLmKmTsYSUvM9JoBdmM6Yj92KIGTysIALG8c2fqYcUfd4ha1mm7fT/Q35p2aVrSaX91j;9nZklmx3fQrn2iWKJDn8qQ=="
 ---
 

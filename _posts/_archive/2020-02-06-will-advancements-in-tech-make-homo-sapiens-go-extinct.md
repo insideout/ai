@@ -4,10 +4,12 @@ title: "Will Advancements In Tech Make Homo Sapiens Go Extinct?"
 excerpt: "Very recently Johns Hopkins Applied Physics Lab developed a mind-controlled robotic arm. It has granted new life and leverage to a man who had lost his arm to cancer in 2005. This has been a huge ..."
 publishedDateTime: 2020-02-06T12:48:00Z
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/02/06/will-advancements-in-tech-make-homo-sapiens-go-extinct/"
+ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/02/06/will-advancements-in-tech-make-homo-sapiens-go-extinct/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/06/will-advancements-in-tech-make-homo-sapiens-go-extinct/amp/"
 type: article
-quality: 34
-heat: 34
-published: false
+quality: 74
+heat: 74
+published: true
 
 provider:
   name: Forbes
@@ -21,6 +23,12 @@ topics:
   - AI
   - AI in Robotics
 
-secured: "5HZaCAuoSx3TowGihhiWW0c3I+IXDjj8kNmUKbsaBoQV87C63YHk9JhGzub0PrqUpHajZuLowfbeMGSHgEeR8xry5VzOkaNmz3J/IU3100x0c5hIW4QYfvi/Pbc/F3xXqBvYqRbSAUvBaueBMo9+YOh9sy2nKygXEHMyQPePqxarrgBoztIExPecGCGIV36J7KhRMUnfCn+sIpk1eUcmnjKZwtxtqwfgcy//VY5NCd0Lv4FTwtoUdLedcezP/6tJPBoknIITf0COl88Qy8CRUf3rQqZ06nF2oiGPcjeK4mWnJ2LuWEcHvVGxTiNdDr5Y;QNg9A0iJOETMqWsXW5Ojag=="
+images:
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F02%2Fa-42.jpg"
+    width: 640
+    height: 640
+    title: "Will Advancements In Tech Make Homo Sapiens Go Extinct?"
+
+secured: "bvvDfcLtssVnZsFRLqELR6JurMsmeWht3jpiOPTftwwa6me8eJI6EeXSa2QAdhpITMb7PsDGINj8ioPDgoMWB/X5Q6KodesGl4KWKKxbYRCBSznWJTaoknhOQP2V5nmeFVfChtQGiiYOVVblJZ4zCyWpW4NSJWUUimqpBRgSQWtFhOC2aiE1DEN+979Rtv2jZn2r5hdeVlDHOYZbGFlGYKxzGkwxo+ZQdvxn/FGfKuHDo+qkp9SJnaMaYdJ652CIp5TJ3m2U+SNRNlW6BiBoaoMfDjtL+8ygB7HuEGYEwWXmYne8FRl2gvz58QEREW3b;BkU+5XdtrFpDqDr6RJR5fA=="
 ---
 

@@ -75,17 +75,6 @@ related:
       - url: "https://www.eurekalert.org/multimedia/pub/web/225053_web.jpg"
         width: 720
         height: 380
-  - title: "Yseop Announces Augmented Analyst, the Next-Generation AI NLG Platform Featuring ..."
-    excerpt: "Yseop, the world-leading AI software company and pioneer in Natural Language Generation (NLG), today announced the launch of Augmented ... scaling from single use case applications to enterprise-wide deployments could translate into billions in savings for the financial and pharmaceutical industries. Developed with high levels of user-adoption ..."
-    publishedDateTime: 2020-02-14T09:00:00Z
-    webUrl: "https://theprovince.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/yseop-announces-augmented-analyst-the-next-generation-ai-nlg-platform-featuring-the-most-advanced-intelligent-automation-solution-for-streamlined-regulatory-compliance-reporting/wcm/562a1186-0e94-4be1-ae5c-b57c9948a9c4"
-    ampWebUrl: "https://theprovince.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/yseop-announces-augmented-analyst-the-next-generation-ai-nlg-platform-featuring-the-most-advanced-intelligent-automation-solution-for-streamlined-regulatory-compliance-reporting/wcm/562a1186-0e94-4be1-ae5c-b57c9948a9c4/amp"
-    cdnAmpWebUrl: "https://theprovince-com.cdn.ampproject.org/c/s/theprovince.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/yseop-announces-augmented-analyst-the-next-generation-ai-nlg-platform-featuring-the-most-advanced-intelligent-automation-solution-for-streamlined-regulatory-compliance-reporting/wcm/562a1186-0e94-4be1-ae5c-b57c9948a9c4/amp"
-    type: article
-    provider:
-      name: The Province
-      domain: theprovince.com
-    quality: 32
 
 secured: "PhZI5x3A1nzDTk5pZUJHDpVzl46kwT01D4/2pjhShAbXQmgb7kmiTomGXrrrLoYBaIEUQwhBvehc5Wm6yM53ZhGX4Z7rsCB2rjtQUGK2+rJ8G5nFxG3KTnhzWrOMEf8uedak7q2pa+GVGHO9ZBbz4VyCGcslyTTFiKEm0W0PM1pYcqs9bxgSnWLy+1gp1MCHj8ZPzLlXs63VTNP04NrIACJLEcNh6315x0dCCrFAPJLrlMCgCPsAqzhZSobtfyR/u4YAbz2J6XWDqofTU6rjHE3X7YbqL2nZcy9LIS0A3Grv8B0jrUJ2EquwsAH6Hc+t0HyCYyA/rjegEIdES2j9nm+2RJj4+OePsMqJVHXNDyoHs2/GHv4XhiUJeyPAiDvqW42VUK7D1K97GbXyI5SPpv+NwjDAcwVSBh4fCU1L9AKykmE+BVj4lQHqfjtV0eE7NvX83SNzbHtLsgQM1w3CC8TGJXt+et/uHOgSbPQ9R1Q=;SVyVvYzdGTCFS2o6mmZaMw=="
 ---

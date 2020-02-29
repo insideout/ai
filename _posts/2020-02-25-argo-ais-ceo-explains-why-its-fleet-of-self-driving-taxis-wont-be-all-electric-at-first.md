@@ -8,7 +8,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/2/25/21147747/argo-ai-ceo
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/25/21147747/argo-ai-ceo-bryan-salesky-self-dring-cars-ev-vergecast-interview"
 type: article
 quality: 79
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -60,6 +60,19 @@ related:
       - url: "https://media.wusa9.com/assets/WUSA/images/459402d0-fcad-4cae-b224-c7fc7973a985/459402d0-fcad-4cae-b224-c7fc7973a985_360x203.jpg"
         width: 361
         height: 203
+  - title: "introducing 'gruzovikus' : the future of electric self-driving semi-trucks"
+    excerpt: "tells art lebedev studio. without a driver’s seat, the self driving truck showcases a large OLED panel at the front of the truck. fitted with passive computer vision technology including cameras, sensors and radars, the truck is able to capture distance to nearby objects while the central computer instantly triggers a response to change in ..."
+    publishedDateTime: 2020-02-29T01:36:00Z
+    webUrl: "https://www.designboom.com/technology/gruzovikus-the-future-of-electric-self-driving-semi-trucks-02-29-2020/"
+    type: article
+    provider:
+      name: Designboom
+      domain: designboom.com
+    quality: 22
+    images:
+      - url: "https://www.designboom.com/wp-content/uploads/2020/02/truck-1.jpg"
+        width: 818
+        height: 460
 
 secured: "Szef1sR+2u8JyVlF9umVVaUjwvBfIkNCZHTXUXmGAlv6uSK3DDJjYEP20jwR1xPBWvcXy3rHNxvaQrpcwL+8UXQlZJ1fFUqlnDkK5hDwedtYpGR4Vxlo+t1QqQyntQPFav9B3e4B6iC/TyK9rlA9726Xi1M5o5JUzUj4fUj22Z+vQkK7sIS3vziWzTMeiMiUPTvyfOMKXzVkpRwJWAA7MXy69QrClb08s9/vhRzMN/KJj/qeukCvAwEPgMr8hdWT1NZX/3mxW4jBncBG+ZK5zBCzw1w4poJtqIVEQvyyJHu1TPpzhqyQ5j/87ItlGo3GjGsQVp06+Fz2YhLaROUp7zfU4J82OXjqGzqacg7de/i+1o+k2mLmgteTM1ahix7MxwZ/YKwRycf3Jf1kxGZ3i3/9IyIs5HZMF29aCl0KQIF5GwDx3+DxZ+R9eLZoApaPEsK7MYQnYULpqminKCGzssc6PPGlLBGoatP7srCfxEY=;OmV4S2C2Sxy9XsAsfsD3ag=="
 ---

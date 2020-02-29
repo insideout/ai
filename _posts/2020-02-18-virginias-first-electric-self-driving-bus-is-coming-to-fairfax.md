@@ -56,6 +56,19 @@ related:
       - url: "https://electrek.co/wp-content/uploads/sites/3/2020/02/argo-ai-vehicle-2000.jpg?quality=82&strip=all&w=1000"
         width: 1000
         height: 500
+  - title: "introducing 'gruzovikus' : the future of electric self-driving semi-trucks"
+    excerpt: "tells art lebedev studio. without a driver’s seat, the self driving truck showcases a large OLED panel at the front of the truck. fitted with passive computer vision technology including cameras, sensors and radars, the truck is able to capture distance to nearby objects while the central computer instantly triggers a response to change in ..."
+    publishedDateTime: 2020-02-29T01:36:00Z
+    webUrl: "https://www.designboom.com/technology/gruzovikus-the-future-of-electric-self-driving-semi-trucks-02-29-2020/"
+    type: article
+    provider:
+      name: Designboom
+      domain: designboom.com
+    quality: 22
+    images:
+      - url: "https://www.designboom.com/wp-content/uploads/2020/02/truck-1.jpg"
+        width: 818
+        height: 460
 
 secured: "/7DLsFx31sJt8oGYQZIv84P2WDBcHZEARNhWeW+bISnhZ6v+QXZ/teEIuf8RDDhwXb4C7vvLh9ezc5uJbYy83RC5pywg+5nUnzdO3Rpd3ERNf0mideX3GFgCMqcROBMJ3gWiI3UlIqza942BPWbWw/SB8UsfdmpwjzMoaakQFIiC9cNLlzo3sWYP1I6VT1eD9graLKdInG3TaoI24eu3oXJ4CIGXbs+zmLVgvcVt7yp9w4KqrRCuizhw4uxEs17klc85JlCTfCscy9lDc/NzyyBuRcBXgSh1jtuT4bHCUbWfM1JbgOEpwdgw8+Zu7QFfr4oWIr0r3LE91qqb4BdfYbEAq3kXiTq5WFhw/GHEFTu9E7y9TPm6tC7ZpAnG1QjlE36YOE965ymYSkkdfnNeaG3YXV/uUMuaTpf/Vxo50+NgOEuIU6Xn4JOCD4dlhdERWl+dA13SJ6tN8562EAqvNVmGFy0mTAgmnJPyhJuNpKA=;kmsDIMXxAlTIMMlx2oZ86g=="
 ---

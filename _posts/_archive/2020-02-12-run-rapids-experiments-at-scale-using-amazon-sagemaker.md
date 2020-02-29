@@ -5,8 +5,8 @@ excerpt: "In this post, I’ll walk through an end-to-end example of how you can
 publishedDateTime: 2020-02-12T20:44:00Z
 webUrl: "https://medium.com/rapids-ai/running-rapids-experiments-at-scale-using-amazon-sagemaker-d516420f165b"
 type: article
-quality: 49
-heat: 49
+quality: 69
+heat: 69
 published: false
 
 provider:
@@ -21,6 +21,12 @@ topics:
   - AI
   - AWS AI
 
-secured: "DheZc3V8b5ieJsIRrBX5so37D64HYS8wUU7bWj2x0/XDDQiVShy4LVwldGETexymm0V/Xsdwgjoc1YMH49DB7rj2LoeE00g93feZNHhUNHRoexEpAcp/SmhkTM479S1pl8DQQFrW/aSQTtabT4yU0ESpIqGWHzEVLvkErHOa0QbFxBC7aC/7sQhMUjHVSzOKzX5dMrTXAeO/f6SEYSItDewbhKwSPdt7QlGIuDfD8NWs5FmLB8J0h3EXzaRv9I9dJ9TNCta9anl/8zsd0UeCRYaAxpIIXSCGKIPIk7Da5SzoO94dstKRqt8wFbuR/RaJ;UwmmksvswC3g7YdX3fygcA=="
+images:
+  - url: "https://miro.medium.com/max/1200/1*4ocfepDUnIjpupPgkXhtgA.png"
+    width: 1200
+    height: 522
+    title: "Run RAPIDS experiments at scale using Amazon SageMaker"
+
+secured: "fmPh03FVE2w2X+s0H9LPJw4hQueBlTG2Py3pF28uR2CRkdZSr+qnGu3iMAnBAdj3YgVVgjwqPAkNFhjiWbWGKBGTVODgk0y3c3AkGD162lkog7AQnMgCJcBMhdyXJFa2o/Y1/xhZ2y+mow2WdgTUg2gPEd22eKxGYcYRI8xnC2bnmjoDgmuDKXPTrXLuy3kBy1xbhgfG7sBLclS6tQlzUGzSXfh1zqVaMLOADC6eD4/1RvkWHgl/+kADTKlpWUu1Ta+8lK4NfCbgPhBeP3ZO8A8T6oS5LaSwRoxd6HMWDSVHwKNRiJnCQYM/LggCfQh4;gfrtv8vb3zc1XA3nda5y4Q=="
 ---
 

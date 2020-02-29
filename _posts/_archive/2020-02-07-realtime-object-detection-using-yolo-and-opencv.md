@@ -5,8 +5,8 @@ excerpt: "object detection has many areas of application be it facial recognitio
 publishedDateTime: 2020-02-07T19:56:00Z
 webUrl: "https://medium.com/@unknown.underme/realtime-object-detection-using-yolo-and-opencv-8380e5537f2a"
 type: article
-quality: 34
-heat: 34
+quality: 54
+heat: 54
 published: false
 
 provider:
@@ -21,6 +21,12 @@ topics:
   - AI
   - Computer Vision
 
-secured: "Q+Sx4Ou0MT1Tm0ZE65h5sIi7PI7HdMtevGHgoq0fdMAmUfm4MS/mY4E/x9sWSmjqkgUmbNRM05fsxdKOCfpKwt/ZvHtGK9TKNa+gnNE3IbKxTSUex+5edP8Jwhof1mxhuCZp/7XFejYwrnfXyAZUmsD3e+K2g6kOX+ceL3/9wAOWuaV7WFelLoi4to3Mdl3GNkFfEdl70+FkAXZfCtCFlm+KLNvP1sChXNO3M68oK+c8eDxetiy7uzL4aCAOHAiNY3qlZwwS5AEgXaPOhGXIrvUGh1SeDJjXJt+8rGAHtNfiID8KNFxXkIgedPTvfPoV;vlLwjwQ1uUcCKCcgV2JgXg=="
+images:
+  - url: "https://miro.medium.com/max/804/1*PJqXIzxt4izGGT0p2Y-pvA.png"
+    width: 804
+    height: 546
+    title: "RealTime Object detection using YOLO and OpenCV"
+
+secured: "UBktA1OwYuP9oN1omwKimIeF4lBO7VsWnnIcJymK85RMFnrJymcTO5HoWYGJH9v8qRcgWsBLM9VADuyei6F1LuH58eE+9HQapXMZ0Za0eZ5AGQx+AS7UKDBQLHp32owOrz1rX5deNvy0uW3ovjQ1KLiuVbVtnTnyR8uakU9Km4Hs5PP27B2Fq2xY5GNnoFoqyU3FDzbN9ZY3rjZvXoE4g7SmRCwaDfDuH+WIWWFgibAQVq4gRj/KXd1zJUhY5aHuX4+v8ZCUajdczPWYFLYBpKBu4pAQAUOHtudfd+6pV7WbIMEWAXHp1eoTfx8Y5vMM;lBJ5UtQ//1QreDH64tFe2Q=="
 ---
 

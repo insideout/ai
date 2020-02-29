@@ -1,12 +1,12 @@
 ---
 category: news
 title: "IBM Watson And The Value Of Open"
-excerpt: "No single company can explore all of possible ways to use AI on their own, so it is good business practice to open up. Establish platforms and partnerships that allow third parties to co-create and build upon your own technology."
-publishedDateTime: 2020-02-13T03:10:00Z
+excerpt: "Not so long ago, back in 2011, IBM’s artificial intelligence technology (later packaged and sold as Watson) triumphed in the game of Jeopardy. Watson played against the two most successful ..."
+publishedDateTime: 2020-02-13T00:24:00Z
 webUrl: "https://www.forbes.com/sites/henrychesbrough/2020/02/12/ibm-watson-and-the-value-of-open/"
 type: article
-quality: 49
-heat: 49
+quality: 69
+heat: 69
 published: false
 
 provider:
@@ -21,6 +21,12 @@ topics:
   - AI
   - IBM AI
 
-secured: "tDwbo22ZVdDe4hO8m48Ff1LHFD1zuQSv1Jm2DrtgNvGNDlRB18Df0o1pwuWPx8n0scd6EurntwZgBg1JKhWeTIJglbxBU4ny57crMOTvqEIk3V6gfiV/cEmLEEDOs8i4aEcSmM6kr5ITERcLqhzMOm+Z05QnXLy4Yczgi6G8nuqg4UZ6+f5Dfrx1GiMLyjwF0aw4M5GBvhAU55YctvsX4NSTzHBl59rbpOb9aCBlys1v5bckux1xvPchCYZfff1ehXiQtDZb6lFgoG+s9dIXmorUv5mPvcQ9OEbGsAUXkp8/T8uk5gEyPl+xpsoQqTwDXcM1GjKKcpSEuZsyErvvU59+nDAbqICjTXVNpq3rZQs0+EUeOuQWqDuJjivXDKu1jG0xu2zl0NZzQ+0VhANGyTGmaP2n6gSbOzpqLzQGR1+1WVp05f5+4BiqifEaON2sdnsv1ZhqlizYrzfvAupq+/DSIyeJwTJh+4ZKCXVhlgk=;ygR0ieL1h43Ry1Dyv+QpdA=="
+images:
+  - url: "https://thumbor.forbes.com/thumbor/600x315/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e448c1ea854780006b1230c%2F960x0.jpg"
+    width: 600
+    height: 315
+    title: "IBM Watson And The Value Of Open"
+
+secured: "Z45l9e8Lz4s3L1jDZb1w7/HoJeSwer/93f058YvVeiM7BKICVEpfrF8gEr2EKoffUZeapBSbOWzXx02JTFKNkXfjbp59KXL2JbSbPFSzWPKQQms7ZBTfXxltfCR6tmi/IpoU5rc1st/hmrdQdcYhUGdp9xJsdFfcmUzfpZ+1Ow88hy/gHeCkYHsbd2QrKWDL2BVFoUryzO+BkbLYxwn+O0FwJcJ06uBgwKahv3N9BxmBtsBTaBIRkDwAGrrbIsDwPFax/+a6g9hD359S9VbkZf2HvBgcXjKTaiMPAvYGOk/s2u4A+l2JVYR6qbV9fJrC;+0FtUknNQoB0TuTPrWYuEA=="
 ---
 

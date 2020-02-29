@@ -5,8 +5,8 @@ excerpt: "This should save bandwidth while freeing up some time for administrato
 publishedDateTime: 2020-02-12T19:30:00Z
 webUrl: "https://siliconangle.com/2020/02/12/oracle-intros-cloud-based-ai-workbench-automl-model-explanation-features/"
 type: article
-quality: 30
-heat: 30
+quality: 50
+heat: 50
 published: false
 
 provider:
@@ -17,6 +17,12 @@ topics:
   - AI
   - Machine Learning
 
-secured: "P6Z9jnqG00AH7vC8FDl75SjC9aQhRaSyexD650VnYWXWHhJr6v1nBZfQFspgVQRlMpZq5R86oyBWc37LwO33gSLmIX1sUIqNCvadn9Cy1FzQKa+HDH0Z5gBa4SL7cXucJIGn8vzt6i4RkKOGrcQXKgpOUxw+7nwhABLL47KJdIBJVA23wC7UCEMwypPKBf14D5VI5bnqX+2yCgM2XpOEvh34V1x985gLemtnqld3haKExtPzwXZ94xSgiN1fdSwNWPgRPYNYAq2AVc4WZapHuzYWVuH0UJSqsFslG9Ztg+/a/ZMJ06r1Yb+ZejB/HRT6;WyKGK2fS5OjuUoqZxkGrPA=="
+images:
+  - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/02/oracle-1.png"
+    width: 718
+    height: 400
+    title: "Oracle debuts cloud-based AI workbench with AutoML, model explanation features"
+
+secured: "2ObExnDQyQ0lj/xH//PBc0Xq2agkDE0RdgDVZJd3Hrvw3pH7VrU0RliTolZxdqTtiULi2Kwr4/eUatJBjlbyKexOEEY4XxwrOFwOthENc2AwYfElLcG9jBaoYDb/pZP/sJ7hfOloxbAqAQNGiAqYja4V27wJCa/OtelykAXPYQpj4SnMKN88dVehLSoc7anXrdkkQs826jXdxZejxbXfAdrS1khuZ2LYSqyaT+QBvcc0/SfwwpOKvWnl5pi8gbpfC4KO4MQ1W/hfFOOWbvTmf4QzsKldYNW6IbWD/3oqXVu0WM4RYZNReIrULU2/GlKe;othy7p/VAKDbt8XSy1ZDTw=="
 ---
 

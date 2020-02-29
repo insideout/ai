@@ -5,8 +5,8 @@ excerpt: "Artificial intelligence (AI) and the Internet of Things ... applicatio
 publishedDateTime: 2020-02-12T23:05:00Z
 webUrl: "https://medium.com/@jason.hope/this-is-the-next-step-in-evolution-for-iot-26077c7b8472"
 type: article
-quality: 34
-heat: 34
+quality: 54
+heat: 54
 published: false
 
 provider:
@@ -21,6 +21,12 @@ topics:
   - AI
   - AI in Autos
 
-secured: "D/HlNKj9lC+w97YV1kNqkx8KMTMQLr5Tw1EY0+e7zQMI+vehPG/nk2e0T5R+WZcJNEnWBkVf4/JGMNugu9sAFvivyQmSLENv7JiJ3TFWRa+eaHT8LlnZUKN9unv7iPz3An/JF+Dc97l/yhoVszyG8q5jnx5ECkzkxzUvrEt8gDEW1eDHVINgb4jZU/QY9oBir3kDiagZT0hzTCaaf9H/m8C3Nal+DGhxse5I7iM7HBM0MUV/g1wcpVzY7QYuqXmhkuQKc/LwnmwK7zphVxQlJ0F2CA38B9bS99c2vSn00aeHZGn6mUSjCavEwC2dSobc;LaidwH2sXzA21jqWkn+xyg=="
+images:
+  - url: "https://miro.medium.com/max/1200/0*9s3N23jpgaHheiZg"
+    width: 1200
+    height: 675
+    title: "This is the next step in evolution for IoT"
+
+secured: "bdL/R1G/5vskkCybjBV8XcYHzkxj6vPpmbUNkClSPr9l/U+ozf8TChHj/MHIorqGr6JNqTDPuNgmKDMDmwalJhILefI/zcE1Mgsh88/VzVmHILjpdgWc6utcDSh2RYpM+Di9EIp6M1BiWBvQRMVCuGncB6HOniwWx0ZRuyNQ2vu8vIqq6Szn+VuRXK9FfSycGRhZXDe7HZHeOfwqIjlQmv6VMDNdtK/0oxEyhyRCKSUef5FrzQf32D886bVYsW8jj+caQJHlFb9mPRBLU9PT/Ev81NUw9dNoZjjJ92aIgP50w2Bh1ngsCFnGJ/Uoi+yO;4m2fPe401MeAafqw54xEZQ=="
 ---
 

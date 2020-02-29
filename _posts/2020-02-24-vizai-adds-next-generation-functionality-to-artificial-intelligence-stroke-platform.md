@@ -76,17 +76,6 @@ related:
       - url: "https://www.eurekalert.org/multimedia/pub/web/225053_web.jpg"
         width: 720
         height: 380
-  - title: "Yseop Announces Augmented Analyst, the Next-Generation AI NLG Platform Featuring ..."
-    excerpt: "Yseop, the world-leading AI software company and pioneer in Natural Language Generation (NLG), today announced the launch of Augmented ... scaling from single use case applications to enterprise-wide deployments could translate into billions in savings for the financial and pharmaceutical industries. Developed with high levels of user-adoption ..."
-    publishedDateTime: 2020-02-14T09:00:00Z
-    webUrl: "https://theprovince.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/yseop-announces-augmented-analyst-the-next-generation-ai-nlg-platform-featuring-the-most-advanced-intelligent-automation-solution-for-streamlined-regulatory-compliance-reporting/wcm/562a1186-0e94-4be1-ae5c-b57c9948a9c4"
-    ampWebUrl: "https://theprovince.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/yseop-announces-augmented-analyst-the-next-generation-ai-nlg-platform-featuring-the-most-advanced-intelligent-automation-solution-for-streamlined-regulatory-compliance-reporting/wcm/562a1186-0e94-4be1-ae5c-b57c9948a9c4/amp"
-    cdnAmpWebUrl: "https://theprovince-com.cdn.ampproject.org/c/s/theprovince.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/yseop-announces-augmented-analyst-the-next-generation-ai-nlg-platform-featuring-the-most-advanced-intelligent-automation-solution-for-streamlined-regulatory-compliance-reporting/wcm/562a1186-0e94-4be1-ae5c-b57c9948a9c4/amp"
-    type: article
-    provider:
-      name: The Province
-      domain: theprovince.com
-    quality: 32
 
 secured: "YLhnbkVNeMWTx3vctMMLkw8nkCcbOO7if4AoK3oa4Yyxcv68+UWCV/093Golef2/BiLL2XtZwe+wbms7C1nD3Tjp2i3atgS/RrlTg3Y9Y8HQbaL77FdF2ohSBQ/zviKhqieUn5dDRn59PXr4BskwzNCkYLpSoXuNDd4iKNeHlAdmDoBfMWoh4H9xLenWENR47ojTJJxWTL0GYx3onAv/cDraOiODvHhnOKoleSxiLgrIU9YB5OxbZ6+iGit8sP3jKs7F94AUeLq3dzJdTeKM8dJHmYR4M7HMMI09yRZYbUwvnLwOeihPaQ/n0pUuajBq;NYSiwXP7PeCqa/hdmvUJrA=="
 ---

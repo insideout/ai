@@ -7,8 +7,8 @@ webUrl: "https://www.forbes.com/sites/falonfatemi/2020/02/28/how-companies-shoul
 ampWebUrl: "https://www.forbes.com/sites/falonfatemi/2020/02/28/how-companies-should-answer-the-call-for-responsible-ai/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/falonfatemi/2020/02/28/how-companies-should-answer-the-call-for-responsible-ai/amp/"
 type: article
-quality: 91
-heat: 91
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -21,7 +21,6 @@ provider:
 
 topics:
   - AI
-  - Facebook AI
   - AI Ethics
 
 images:
@@ -30,6 +29,6 @@ images:
     height: 799
     title: "How Companies Should Answer The Call For Responsible AI"
 
-secured: "a4dH1+NtE6ORNv71SHWbdtG9q1q1HfYClNbKlHwOmOpmNc4TOqTIe39xvIGZi7N5QKvilU16U2vk4PoxA2De+kaye9xHv5q/cyJRiW8lqvFTtEkIsVPKu79fxWDWFsMxHgBi7snqZohfL7wiCkM/EOhM+wavJ2aFf08qnEOW1oiTLxQhfiAiQlIuaQdlV/ZvtzfBej39kj1HhQSaEteBRzYCCmx2DtHekGtDvpOuO8/DvrcUH0vtVEC8TdYl+QdXQm0Aex9LozdYq4lJk9gJowxYl7RBRBVmmaHdORvp1ZYwaVtedagZ1+Xs7jYOpxrr8YuFddkw8rJFN2E+ukh85CieGex581Qo+pYy4LIRvr570fsnJidkqAwkfGV5uA5cFJuBvoGY0SKYxvw+xdQVLciFnyV8QX/ZF7U5CB9JQf3WT5xHnRM3r3Ooyi7yA0Q6JSx3FPPHJMVnAqNnAUTutZUjvpdS8aC28ytkty8WC5A=;I2gj4Qd3P3X6G3ciNbEOBQ=="
+secured: "CaEn1nVSVQ5f3LouoQr0UpHfcpX/cvoQxojfOD/rU1XaQCsfDPsio7FUbkTG1v0DICqAocpRXJBNTQHw/E0Qwl5etzHN71PEfjX1+Lh49XU2D+NnJMGnbYZiiGIg0gEKnqCDUz9LETjV+ybB7ybZ+vzdLSu1U1rOsUOYym6k5ADYpdQ9k77UpmQ/oQJz3RHtjqa/KJQiPOuHliraBUGweOIlHE786Ejt5i5uJ+rz2AuXkkdTkbZQVdZvWnMnI0Wy/qeIr6R6dI3gzTXMj4g2NzInBHR/u3V7HxrxvZgbRPGSNMadkCJnWbE/yLYmRbyY;hua6PTD7tn30r8jfnuvoWg=="
 ---
 

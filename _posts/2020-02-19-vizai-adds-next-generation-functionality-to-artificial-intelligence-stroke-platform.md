@@ -76,17 +76,6 @@ related:
       - url: "https://www.eurekalert.org/multimedia/pub/web/225053_web.jpg"
         width: 720
         height: 380
-  - title: "Yseop Announces Augmented Analyst, the Next-Generation AI NLG Platform Featuring ..."
-    excerpt: "Yseop, the world-leading AI software company and pioneer in Natural Language Generation (NLG), today announced the launch of Augmented ... scaling from single use case applications to enterprise-wide deployments could translate into billions in savings for the financial and pharmaceutical industries. Developed with high levels of user-adoption ..."
-    publishedDateTime: 2020-02-14T09:00:00Z
-    webUrl: "https://theprovince.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/yseop-announces-augmented-analyst-the-next-generation-ai-nlg-platform-featuring-the-most-advanced-intelligent-automation-solution-for-streamlined-regulatory-compliance-reporting/wcm/562a1186-0e94-4be1-ae5c-b57c9948a9c4"
-    ampWebUrl: "https://theprovince.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/yseop-announces-augmented-analyst-the-next-generation-ai-nlg-platform-featuring-the-most-advanced-intelligent-automation-solution-for-streamlined-regulatory-compliance-reporting/wcm/562a1186-0e94-4be1-ae5c-b57c9948a9c4/amp"
-    cdnAmpWebUrl: "https://theprovince-com.cdn.ampproject.org/c/s/theprovince.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/yseop-announces-augmented-analyst-the-next-generation-ai-nlg-platform-featuring-the-most-advanced-intelligent-automation-solution-for-streamlined-regulatory-compliance-reporting/wcm/562a1186-0e94-4be1-ae5c-b57c9948a9c4/amp"
-    type: article
-    provider:
-      name: The Province
-      domain: theprovince.com
-    quality: 32
 
 secured: "uKSMdtxEP1/NdNJwROPAC4ALyORm9XnCvALA3zQlTJv4x2tE9iJiSXBkGLMVTqJZ6pt3uQqL+3S0G+p7CVImlY5cgp4X+84SJ3gRzKqeYxD6NDnbRaN0Gw17aTeGjkeL/2iwql2BRBEueqya8xVER3ApM87zA8uR63lW1uqpaxTpxeHzky7u7xJGAaAZQ4SDTVzP7QHD7+kJUv2NQSWAJIG4cmqbGDidbT51aAfICJ5AyvTAjwf52N/YBnt7Wsx3vDlo+HVoi94c39nB6Fk7vQIwhpt84/1JHKr8IlYP6u1///KnxVpjzt5Ko96LDOLEd7sSSywtmZFF7LwzKhM7PfPoHZnkKz+kGvmGXOwv6RdkFrQSm3Wo9iF0VlfbOg5tchTmjjGCCuRBKxmGKgBLlOZVZQd6MychpP0UbxehvnXSZ+JoVvQVLcQM9BHNknbHcdb5mvjShpMhBbUvYwHLSKgRn9u6F/b/zA5qFZ0xQag=;vnkmrPCMYma0RVCHuUVWPg=="
 ---

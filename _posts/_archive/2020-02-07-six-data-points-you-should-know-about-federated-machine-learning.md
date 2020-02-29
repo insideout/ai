@@ -5,8 +5,8 @@ excerpt: "and machine learning (ML) in big data projects and state-of-the-art da
 publishedDateTime: 2020-02-07T00:00:00Z
 webUrl: "https://www.eweek.com/big-data-and-analytics/six-data-points-you-should-know-about-federated-machine-learning"
 type: article
-quality: 34
-heat: 34
+quality: 54
+heat: 54
 published: false
 
 provider:
@@ -21,6 +21,12 @@ topics:
   - AI
   - AI in Finance
 
-secured: "+pt71+noY9IioBqZxLKbuUzZrSgjyFUWmLmB91Icax7umLLLHTEVHcTvDnEOXq3ZfRwXbm8GEqeN11F6sOLwDbLz9JNzOxNwlXfQZvEbSHKs3RGfLhvKtyajo/QUvkMc4i+CjOzVKGngoGxxufjeOE9ClvjsKIKAACYgFhcMsxT3OpC79Wdt1sR9+XC5SaZQ85RCK1T491mSOhsH+VhZejRnoupDvyz++n8XGsfaHxPSfyWeYVqp+LB5SX/MCl+RbufLVSGDDb55Pt7lYV9fFk1DwyoToREeqowQLQTHkciH1BATo8XlVUNoY0IIyU2t;rCRjB5gCzpRtkCqwuvhn5w=="
+images:
+  - url: "https://www.eweek.com/imagesvr_ez/b2bezp/2019/05/eweek.logo.DataPoints-UPDATE_2.jpg?alias=social_image"
+    width: 560
+    height: 300
+    title: "Six Data Points You Should Know about Federated Machine Learning"
+
+secured: "WajlkOBmjEI1JRqR6/xBusn79VdrgU0Qnc2Z8HEyFzsXbcTPVqLtbuYWyylhBcjJWa1CfRNLQTOXsPARI7J2bULEHf/gQOTFJR4kbR5RAnTXC78Ln0RW1/qAYNEqZ811oG7uRbXkNVSBewWFU/zQD+DgmVcAffPV5NX6D9SZoSPUISDuW/zc+FZhHVXTxvTzeeamM81HnTt6znpfywTtx6B+P51LYaJrDUgR3kP0t9KLm5qvkUmmmNjaMHOS2n3KIcBqiq57z5itjwVCmSzM6GFzms2ud4qUkcpaweVciJ2Ub8Q/AVrGJ2nd4GPP7wOo;cj0TNR36aXz6xCYJzPT2vg=="
 ---
 

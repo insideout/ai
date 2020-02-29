@@ -260,19 +260,6 @@ related:
       - url: "https://www.pe.com/wp-content/uploads/2020/02/IDB-L-FACEID-0215-16x9-1-1.jpg?w=480&h=270"
         width: 480
         height: 270
-  - title: "Merkley bill aims to avert federal abuse of facial recognition"
-    excerpt: "WASHINGTON (KTVZ) – Sens. Jeff Merkley (D-OR) and Cory Booker (D-NJ) introduced legislation Wednesday they said is aimed at protecting the privacy of consumers from rapidly advancing facial recognition technology and data collection practices that heighten the risk of over-surveillance and over-policing, especially in communities already ..."
-    publishedDateTime: 2020-02-14T07:25:00Z
-    webUrl: "https://ktvz.com/news/oregon-northwest/2020/02/13/merkley-bill-aims-to-avert-federal-abuse-of-facial-recognition/"
-    type: article
-    provider:
-      name: KTVZ
-      domain: ktvz.com
-    quality: 54
-    images:
-      - url: "https://ktvz.com/wp-content/uploads/2019/11/US-Capitol-generic-860x484.jpg"
-        width: 860
-        height: 484
   - title: "EU Plans Rules for Facial-Recognition Technology"
     excerpt: "European Union officials plan to regulate certain applications of facial-recognition technology later this year because it can violate privacy rights."
     publishedDateTime: 2020-02-20T20:22:00Z

@@ -50,19 +50,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Know the Rapid Growth Factors of AI chips Market| Stay Up-to-date with Emerging Industry Trends Ahead"
-    excerpt: "Global AI chips Market Research Report 2020 include all basic information related to the global Industry and forecast till 2024 AI chips are the silicon chips which includes AI technology and use machine learning and IoT that have the ability to analyse data and make decisions based on it."
-    publishedDateTime: 2020-02-14T08:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/know-the-rapid-growth-factors-of-ai-chips-market-stay-up-to-date-with-emerging-industry-trends-ahead-2020-02-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "Artificial Intelligence in Aviation Market to witness remarkable growth By 2025"
     excerpt: "HTF Market Intelligence released a new research report of 150 pages on title 'Global Artificial Intelligence in Aviation Market Insights by Application, Product Type, Competitive Landscape & Regional Forecast 2025' with detailed analysis,"
     publishedDateTime: 2020-02-17T16:44:00Z

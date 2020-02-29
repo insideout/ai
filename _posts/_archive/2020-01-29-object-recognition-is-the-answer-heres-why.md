@@ -4,10 +4,12 @@ title: "Object Recognition Is The Answer, Here’s Why"
 excerpt: "More specifically, the convergence of Object Recognition, Machine Vision, and Neural Networks enables machines to see and understand what it is they are seeing. For sure, there are specific use ..."
 publishedDateTime: 2020-01-29T19:32:00Z
 webUrl: "https://www.forbes.com/sites/hodfleishman/2020/01/29/object-recognition-is-the-answer-heres-why/"
+ampWebUrl: "https://www.forbes.com/sites/hodfleishman/2020/01/29/object-recognition-is-the-answer-heres-why/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hodfleishman/2020/01/29/object-recognition-is-the-answer-heres-why/amp/"
 type: article
-quality: 49
-heat: 49
-published: false
+quality: 89
+heat: 89
+published: true
 
 provider:
   name: Forbes
@@ -21,6 +23,12 @@ topics:
   - AI
   - Computer Vision
 
-secured: "HyIhTG9g1V+miduFcOWMcDJ04+8IoOrkdL9MIshNs30l5PWRa+JwSKB3FjqD6TojUQt05M6HLNxd3O5kNbJ/jm+Gez5Kmbw/wWxFUj2ma3bazMYC7CfcNqez7tzjt9isjFkzmXh5q8QfcEYuDTH7CCZp/WMqpKDeLkV9RdrF3OhxvB4J3socJrBa8rU2HXkWQcm9rNx9Mit0gytfr+6yXf8SO2zQl8rxwMhuZNlLHsxQeqbS+MB3XZAuePaG6v5mZnj4bX0Axr3V2h2mt3lfkMCRwQnX96OCfC7Q/n46SytYhFn7KqF2fGsCfCeMFJRD;v3/39oWJWF381vFwMcrcvQ=="
+images:
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F483146942%2F0x0.jpg"
+    width: 1200
+    height: 800
+    title: "Object Recognition Is The Answer, Here’s Why"
+
+secured: "E4AMEhEiOQGJukRcoxh7rOJGj3W9zhEl1DnMyZCEZIzUZhY5smVdlKIenWzDGbO9CW8CjaA70CyNTgpvOtdlZeyoZ04U4qYXYnHw6Tmf2PKEwJzcOYPd6yvtRH7kw1/EPzAP0sBmIpsJ+jPUXzST4e7ldnArpQ4IXz3JrFxptTdFZfbkXB36CLcDFWKpAZ9q2m9Y0E+Chhcs4dsEImiClCclQ6q8j7eU/adQySk27LJWTl2kqyi5fiNcXjhKI5U1bxdp1nTi5pj6r/cjSDJFqfgQD9zJ9JEq7o7dXKPUlb0AhH7rkvsEbA2EfgDzO2dQ;2zxOOxwlJSXmTopm0+rq7g=="
 ---
 

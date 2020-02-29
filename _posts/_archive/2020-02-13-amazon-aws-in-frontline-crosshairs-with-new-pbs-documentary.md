@@ -5,8 +5,8 @@ excerpt: "Jassy defended law enforcement’s use of Amazon Rekognition. “We be
 publishedDateTime: 2020-02-13T16:37:00Z
 webUrl: "https://www.crn.com/news/cloud/amazon-aws-in-frontline-crosshairs-with-new-pbs-documentary"
 type: article
-quality: 34
-heat: 34
+quality: 54
+heat: 54
 published: false
 
 provider:
@@ -17,6 +17,12 @@ topics:
   - AI
   - AWS AI
 
-secured: "KNyHDSLXhhy9HjdBGY5y/9zFA1PiFmpUmN187M7wETg/Q6a+8Rfy0kC8uVW6fCO/+aqNuA09M0THAe/vAk3Woea0JwIgk0qUpkTAgN9XVDm8VrQODqjJ89OyxXMu7xRyWTStzoJphQAS/kZiWMZ6sMRVcxwBM/TRjbfJldcSZIDHo8emLV5ZvOQdJgAJYcZuhUd5oS11SvR65SmeQ0vhl7KRxkrCVtqHpeqTDhx+dqXeXI9xt+MXJplWjMohUzk1sbhYvcbDwPo5Pjs2zU01aKJAi7ncxVTLAwGXmWOHevCRxFPPGOCdplXzJSkVslcQ;oZ1K5S5q+m1uhZOWg4M5Wg=="
+images:
+  - url: "https://www.crn.com/resources/025a-0eb12d808102-a3154313a208-1000/aws-booth.jpg"
+    width: 610
+    height: 457
+    title: "Amazon, AWS In ‘Frontline’ Crosshairs With New PBS Documentary"
+
+secured: "JCcQXFHfUQ/TlJHq2Uy4qEMMEvcUG/PvFu/krPbyh/LM+zZp8GPK4dtx7XS3bPXHwGAeDP5eouLVkpP1hf/qQsN1ohKXGPmTmINQYGtQsQPpCXc2vS1rNavUPi0Tr+ARTiL/9CQsn1Az9hd4bPdTFiaRNfRdmm45cHJHRsKpREKEmph8mfyAI+z7xV1qX80oY1YXQD6HdxGxnpEW4ADhc7fsIFHFidNluwk/jMLLJdY0SDts44ban79SlEPZLHuyXva/d1qWbeWsRKgEJH9IxSooPja5dEnfk9YzfrLXbWzMIs+rt2i4Tw9H0DrWxvOg;i4wW9WnqiTqF5I0zGRFY4A=="
 ---
 
