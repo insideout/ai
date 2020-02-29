@@ -106,49 +106,6 @@ default_newsletter_settings: &default_newsletter_settings
 
 
 #----------------------------------------------------------------------------------
-# Taxonomy Settings
-#----------------------------------------------------------------------------------
-
-# You can overwrite the default taxonomy settings in individual taxonomy settings
-default_taxonomy_settings: &default_taxonomy_settings
-  layout: archive
-  permalink: /:path/
-
-taxonomies:
-  category:
-    name: Category
-    settings: &category_settings
-      taxonomy: category
-      archive:
-        taxonomy_field: categories
-        taxonomy_query: item.categories contains page.name
-        post_collection: # Default: posts
-        where_exp: # Default: nil
-        order_by: # Default: date
-        order: # Default: DESC
-
-  tag:
-    name: Tag
-    settings: &tag_settings
-      taxonomy: tag
-      archive:
-        taxonomy_field: tags
-        taxonomy_query: item.tags contains page.name
-        post_collection: # Default: posts
-        where_exp: # Default: nil
-        order_by: # Default: date
-        order: # Default DESC
-
-  topic:
-    name: Topic
-    settings: &topic_settings
-      taxonomy: topic
-      archive:
-        taxonomy_field: topics
-        taxonomy_query: item.topics contains page.name
-
-
-#----------------------------------------------------------------------------------
 # System Settings
 # DO NOT CHANGE if you do not know what you are doing
 #----------------------------------------------------------------------------------
@@ -248,30 +205,6 @@ defaults:
       type: newsletters
     values:
       <<: *default_newsletter_settings
-  # _terms
-  - scope:
-      path: ""
-      type: terms
-    values:
-      <<: *default_taxonomy_settings
-  # categories
-  - scope:
-      path: _terms/categories
-      type: terms
-    values:
-      <<: *category_settings
-  # tags
-  - scope:
-      path: _terms/tags
-      type: terms
-    values:
-      <<: *tag_settings
-  # topics
-  - scope:
-      path: _terms/topics
-      type: terms
-    values:
-      <<: *topic_settings
   # apis
   - scope:
       path: "api/*/*"

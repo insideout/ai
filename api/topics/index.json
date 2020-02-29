@@ -3,9 +3,9 @@ layout: none
 ---
 {
     "value": [
-        {% assign topics = site.terms | where: "taxonomy","topic" -%}
-        {% for topic in topics -%}
+        {% for topic_hash in site.data.topics | sort -%}
         {
+            {% assign topic = topic_hash[1] -%}
             "name": {{ topic.name | jsonify }},
             "id": {{ topic._id | jsonify }},
             {% if topic.parent -%}

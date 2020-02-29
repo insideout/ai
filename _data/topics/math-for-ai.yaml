@@ -1,4 +1,3 @@
----
 taxonomy: topic
 _id: math-for-ai
 name: Math for AI
@@ -11,4 +10,3 @@ images:
 services:
   learning: https://insideout.app/ai/api/learning/math-for-ai/
   people: https://insideout.app/ai/api/people/math-for-ai/
----

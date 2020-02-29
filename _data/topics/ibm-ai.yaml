@@ -1,4 +1,3 @@
----
 taxonomy: topic
 _id: ibm-ai
 name: IBM AI
@@ -12,4 +11,3 @@ services:
   news: https://insideout.app/ai/api/news/ibm-ai/
   learning: https://insideout.app/ai/api/learning/ibm-ai/
   projects: https://insideout.app/ai/api/projects/ibm-ai/
----

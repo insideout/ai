@@ -1,4 +1,3 @@
----
 taxonomy: topic
 _id: aws-ai
 name: AWS AI
@@ -24,4 +23,3 @@ images:
 services:
   news: https://insideout.app/ai/api/news/aws-ai/
   learning: https://insideout.app/ai/api/learning/aws-ai/
----

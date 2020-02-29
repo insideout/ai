@@ -1,4 +1,3 @@
----
 taxonomy: topic
 _id: google-ai
 name: Google AI
@@ -14,4 +13,3 @@ services:
   news: https://insideout.app/ai/api/news/google-ai/
   learning: https://insideout.app/ai/api/learning/google-ai/
   projects: https://insideout.app/ai/api/projects/google-ai/
----

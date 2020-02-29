@@ -1,4 +1,3 @@
----
 taxonomy: topic
 _id: natural-language-processing
 name: Natural Language Processing
@@ -16,4 +15,3 @@ services:
   projects: https://insideout.app/ai/api/projects/natural-language-processing/
   people: https://insideout.app/ai/api/people/natural-language-processing/
   companies: https://insideout.app/ai/api/companies/natural-language-processing/
----

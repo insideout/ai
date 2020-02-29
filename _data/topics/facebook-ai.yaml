@@ -1,4 +1,3 @@
----
 taxonomy: topic
 _id: facebook-ai
 name: Facebook AI
@@ -14,4 +13,3 @@ services:
   news: https://insideout.app/ai/api/news/facebook-ai/
   learning: https://insideout.app/ai/api/learning/facebook-ai/
   projects: https://insideout.app/ai/api/projects/facebook-ai/
----

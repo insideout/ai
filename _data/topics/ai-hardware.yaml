@@ -1,4 +1,3 @@
----
 taxonomy: topic
 _id: ai-hardware
 name: AI Hardware
@@ -12,4 +11,3 @@ images:
 services:
   news: https://insideout.app/ai/api/news/ai-hardware/
   companies: https://insideout.app/ai/api/companies/ai-hardware/
----
