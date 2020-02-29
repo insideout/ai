@@ -52,6 +52,21 @@ related:
       - url: "https://cdn.neow.in/news/images/uploaded/2018/09/1537445600_gmail_story.jpg"
         width: 760
         height: 428
+  - title: "Google says deep learning helped Gmail detect malicious documents"
+    excerpt: "Gmail's existing machine learning models help block more than 99.9 per cent of threats from reaching inboxes. Spam e-mails are a menace and Google is using deep learning models to help identify and block such content from reaching your inbox. Gmail's existing machine learning models help block more than 99.9 per cent of threats from reaching ..."
+    publishedDateTime: 2020-02-29T02:01:00Z
+    webUrl: "https://www.deccanchronicle.com/technology/in-other-news/290220/google-says-deep-learning-helped-gmail-detect-malicious-documents.html"
+    ampWebUrl: "https://www.deccanchronicle.com/amp/technology/in-other-news/290220/google-says-deep-learning-helped-gmail-detect-malicious-documents.html"
+    cdnAmpWebUrl: "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/technology/in-other-news/290220/google-says-deep-learning-helped-gmail-detect-malicious-documents.html"
+    type: article
+    provider:
+      name: Deccan Chronicle
+      domain: deccanchronicle.com
+    quality: 74
+    images:
+      - url: "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-k67645eaah5dkph6a893cnem33-20190914091348.Medi.jpeg"
+        width: 800
+        height: 448
   - title: "Interest in machine learning and AI up, though slowing, one platform reports"
     excerpt: "As technologies such as AI and machine learning revolutionize the workplace, learning and development is coming to the forefront of talent management. Preparing workers for AI and automation will lead learning trends in 2020, according to a November 2019 Udemy report. While many workplaces will train employees to sharpen their tech skills ..."
     publishedDateTime: 2020-02-25T19:19:00Z

@@ -55,19 +55,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Artificial Intelligence Market: Facts, Figures and Analytical Insights 2017 - 2025"
-    excerpt: "In this report, the Global Artificial Intelligence (AI) market was valued at USD 11.71 Billion in 2016, and is projected to reach USD 191.60 billion by 2025, growing at a CAGR of 36.68% over the forecast period."
-    publishedDateTime: 2020-02-14T09:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-facts-figures-and-analytical-insights-2017---2025-2020-02-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "Natural language processing (NLP) Market Global Industry Analysis and Forecast till 2027"
     excerpt: "Ameco Research added new research report to its vast database titled \"Global Natural language processing (NLP) Market 2020\" which provides extensive and highly detailed information on the key markets."
     publishedDateTime: 2020-02-17T03:33:00Z
@@ -116,6 +103,32 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Data Science and Machine Learning Service Market 2020-2024 : Global Growth Drivers, Opportunities, Trends, And Forecasts"
+    excerpt: "nbsp; Data Science and Machine Learning Service Market 2020 Description: - It analyses the market situation"
+    publishedDateTime: 2020-02-25T09:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/data-science-and-machine-learning-service-market-2020-2024-global-growth-drivers-opportunities-trends-and-forecasts-2020-02-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Europe 3D Sensor Market Size 2020, Regional Analysis, Key Players, Growth Drivers and Industry Challenges 2025"
+    excerpt: "D sensor market is growing due to its application in various end user industries such as consumer electronics, automobile, healthcare and others. Global 3D Sensor Market is valued at USD 1537.61 Million in 2018 and expected to reach USD 7221."
+    publishedDateTime: 2020-02-24T09:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/europe-3d-sensor-market-size-2020-regional-analysis-key-players-growth-drivers-and-industry-challenges-2025-2020-02-24?mod=mw_quote_news"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

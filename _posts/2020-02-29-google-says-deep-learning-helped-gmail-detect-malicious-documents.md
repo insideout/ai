@@ -1,33 +1,29 @@
 ---
 category: news
-title: "Gmail's malware scanner adds deep learning to block malicious Office documents"
-excerpt: "Google has announced that it recently added deep learning capabilities to its malware scanner for Gmail as part of an effort to detect and block malicious attachments. The new technology will be demonstrated at the RSA 2020 event in San Francisco, California. The search giant's existing document scanner handles more than 300 billion attachments ..."
-publishedDateTime: 2020-02-26T10:34:00Z
-webUrl: "https://www.neowin.net/news/gmails-malware-scanner-adds-deep-learning-to-block-malicious-office-documents"
-ampWebUrl: "https://www.neowin.net/amp/gmails-malware-scanner-adds-deep-learning-to-block-malicious-office-documents/"
-cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/gmails-malware-scanner-adds-deep-learning-to-block-malicious-office-documents/"
+title: "Google says deep learning helped Gmail detect malicious documents"
+excerpt: "Gmail's existing machine learning models help block more than 99.9 per cent of threats from reaching inboxes. Spam e-mails are a menace and Google is using deep learning models to help identify and block such content from reaching your inbox. Gmail's existing machine learning models help block more than 99.9 per cent of threats from reaching ..."
+publishedDateTime: 2020-02-29T02:01:00Z
+webUrl: "https://www.deccanchronicle.com/technology/in-other-news/290220/google-says-deep-learning-helped-gmail-detect-malicious-documents.html"
+ampWebUrl: "https://www.deccanchronicle.com/amp/technology/in-other-news/290220/google-says-deep-learning-helped-gmail-detect-malicious-documents.html"
+cdnAmpWebUrl: "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/technology/in-other-news/290220/google-says-deep-learning-helped-gmail-detect-malicious-documents.html"
 type: article
-quality: 100
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Neowin
-  domain: neowin.net
-  images:
-    - url: "/assets/images/organizations/neowin.net-50x50.jpg"
-      width: 50
-      height: 50
+  name: Deccan Chronicle
+  domain: deccanchronicle.com
 
 topics:
   - AI
   - Machine Learning
 
 images:
-  - url: "https://cdn.neow.in/news/images/uploaded/2018/09/1537445600_gmail_story.jpg"
-    width: 760
-    height: 428
-    title: "Gmail's malware scanner adds deep learning to block malicious Office documents"
+  - url: "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-k67645eaah5dkph6a893cnem33-20190914091348.Medi.jpeg"
+    width: 800
+    height: 448
+    title: "Google says deep learning helped Gmail detect malicious documents"
 
 related:
   - title: "Gmail Is Catching More Malicious Attachments With Deep Learning"
@@ -45,21 +41,21 @@ related:
       - url: "https://media.wired.com/photos/5e555fe0a4dea100087f9715/master/pass/Security_gmail-816901264.jpg"
         width: 2300
         height: 1533
-  - title: "Google says deep learning helped Gmail detect malicious documents"
-    excerpt: "Gmail's existing machine learning models help block more than 99.9 per cent of threats from reaching inboxes. Spam e-mails are a menace and Google is using deep learning models to help identify and block such content from reaching your inbox. Gmail's existing machine learning models help block more than 99.9 per cent of threats from reaching ..."
-    publishedDateTime: 2020-02-29T02:01:00Z
-    webUrl: "https://www.deccanchronicle.com/technology/in-other-news/290220/google-says-deep-learning-helped-gmail-detect-malicious-documents.html"
-    ampWebUrl: "https://www.deccanchronicle.com/amp/technology/in-other-news/290220/google-says-deep-learning-helped-gmail-detect-malicious-documents.html"
-    cdnAmpWebUrl: "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/technology/in-other-news/290220/google-says-deep-learning-helped-gmail-detect-malicious-documents.html"
+  - title: "Gmail's malware scanner adds deep learning to block malicious Office documents"
+    excerpt: "Google has announced that it recently added deep learning capabilities to its malware scanner for Gmail as part of an effort to detect and block malicious attachments. The new technology will be demonstrated at the RSA 2020 event in San Francisco, California. The search giant's existing document scanner handles more than 300 billion attachments ..."
+    publishedDateTime: 2020-02-26T10:34:00Z
+    webUrl: "https://www.neowin.net/news/gmails-malware-scanner-adds-deep-learning-to-block-malicious-office-documents"
+    ampWebUrl: "https://www.neowin.net/amp/gmails-malware-scanner-adds-deep-learning-to-block-malicious-office-documents/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/gmails-malware-scanner-adds-deep-learning-to-block-malicious-office-documents/"
     type: article
     provider:
-      name: Deccan Chronicle
-      domain: deccanchronicle.com
-    quality: 74
+      name: Neowin
+      domain: neowin.net
+    quality: 100
     images:
-      - url: "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-k67645eaah5dkph6a893cnem33-20190914091348.Medi.jpeg"
-        width: 800
-        height: 448
+      - url: "https://cdn.neow.in/news/images/uploaded/2018/09/1537445600_gmail_story.jpg"
+        width: 760
+        height: 428
   - title: "Gmail adopts deep learning to scan and block malicious attachments"
     excerpt: "It’s cases like that when AI and machine learning are more suited since they can analyze and learn faster than humans, especially when large volumes of data are involved. The company deployed a new deep learning document scanner at the end of 2019 and it is reporting a marked but not exactly a staggering increase in detection rate ..."
     publishedDateTime: 2020-02-26T04:26:00Z
@@ -151,6 +147,6 @@ related:
       domain: microsoft.com
     quality: 19
 
-secured: "g39k8WaZCdXHXhZs4C+jQKgTToQbLq0bHdp+KdpOnVAwJIDbjdLiHHsn9ID3DM2Yr8IiCnNIZSwBuMx7C33ZZadn1li4iFq/WklwiCApmDRk1Rgf4a/6u156sukzw0nvFYTvrhbys7HmT4WCyzdBOYgS5jCEf0gaWAf8ouTV5/AlXMvurq4/DidUsSNUzaGeqkItm/uV+0Dlj6IzIMiVJRaPKCdTiJucg/Gk0qGit0BbSop3iqcrUIo+aNaivyyJm4vVjzIAzQOEOVwsXobVdC4OfsYstR96ZKqJR4rL23lF8FqPF2ZReMcPtulCQmjeyY/eePzYtw5kB5JvHaFESvyDcAPdq4llAPrYzrK1ID6h08J2cNlAeD55uJ8T180GmDhvQ1p3j3EbSZ4DeH/s4s8VGZeA+bThkOqMmXFPUfVRey80sr1FBdy1d63eAVvDxuwEzrjMY0PKUgbmxJHPdYbZ6T5NiDWrUJVUjjKvcwM=;oLnmCGXrLMeHjJWWkm7tZg=="
+secured: "ohfj680LSMONZWDz/wIl8Te9Txy9GaTj38MiJwIpP1Wl+baHohmPMXEUPGCHe8Fu5QD/aFxzk+dORiPHviKzlrNhFbEDtxGwny4Y3w+yF6kKHFX314WYKRHKS84//MuqNeuIlynPoc97yPqQ//1S8Tz/nNChlQsoyKainu/RPR/ynNFUY+u6j845Pasd4clGoWr46GDj2iIi05hyduOJz0IB2H1m9/3RliaK6zVZfAzcQ9PxgRPZwmCQutwXCCsAzq9TEjFtrSvrshUMCVFrpaaTSAKlycSihePdNu+aVo6AMIdOOhwcF/wUY5Ok7plB;fjra2iDcw+2wxPTeeB1lmA=="
 ---
 

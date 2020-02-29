@@ -1,27 +1,27 @@
 ---
 category: news
 title: "OpsRamp Introduces AI-Driven Suggestions for Greater Transparency and Faster Incident Remediation"
-excerpt: "Other artificial intelligence for IT operations (AIOps) innovations in the release include visualization of alert similarity patterns and new alert stats widgets to provide transparency into machine learning-driven decisions. The OpsRamp Winter 2020 Release also introduces 19 new cloud monitoring integrations for Amazon Web Services (AWS ..."
-publishedDateTime: 2020-02-25T15:48:00Z
-webUrl: "https://www.tmcnet.com/usubmit/2020/02/25/9103398.htm"
+excerpt: "The OpsRamp Winter 2020 Release also introduces 19 new cloud monitoring integrations for Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP), along with dynamic topology maps for Azure and GCP. Highlights of the Winter 2020 Release include: AIOps: OpsQ is OpsRamp's intelligent event management, alert correlation ..."
+publishedDateTime: 2020-02-25T08:00:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/opsramp-introduces-ai-driven-suggestions-for-greater-transparency-and-faster-incident-remediation-1028934454"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/OpsRamp-Introduces-AI-Driven-Suggestions-for-Greater-Transparency-and-Faster-Incident-Remediation-1028934454"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/OpsRamp-Introduces-AI-Driven-Suggestions-for-Greater-Transparency-and-Faster-Incident-Remediation-1028934454"
 type: article
-quality: 26
-heat: -1
-published: false
+quality: 56
+heat: 76
+published: true
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
-  - AWS AI
-
-images:
-  - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
-    width: 252
-    height: 335
-    title: "OpsRamp Introduces AI-Driven Suggestions for Greater Transparency and Faster Incident Remediation"
+  - Microsoft AI
 
 related:
   - title: "OpsRamp Introduces AI-Driven Suggestions"
@@ -37,7 +37,20 @@ related:
       - url: "https://res.infoq.com/news/2020/02/opsramp-ai-driven-suggestions/en/headerimage/OpsRamp-AI-Driven-Suggestions-1582702993762.jpg"
         width: 1200
         height: 630
+  - title: "CyberX Announces Integration with Microsoft Azure Security Center for IoT, Joins Microsoft Intelligent Security Association"
+    excerpt: "According to Michal Braverman-Blumenstyk, CTO and GM, Cloud and AI Security Division at Microsoft Corp.: “CyberX’s IoT security platform and integration with the Microsoft Azure Security Center for IoT enables customers to go further and faster with IoT innovations that drive new revenue streams and operational efficiencies — without comp ..."
+    publishedDateTime: 2020-02-20T18:16:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200220005507/en/CyberX-Announces-Integration-Microsoft-Azure-Security-Center"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 28
+    images:
+      - url: "https://mms.businesswire.com/media/20200220005507/en/774439/23/cyberx.jpg"
+        width: 1200
+        height: 627
 
-secured: "AkIzXv8IN1W1AcDlSsxdfZVOcnI6Dh9tKlpFd/ODPvmRKUsvBYMyewO7X9i8+sa6xcZHXzQQsl7APDmIO1i2peJiVyzgc4dsk9b0hD+K1uArbgZr7/rwDYNbuL4JBw5+xxt58MMYjudOxDZorcNoRi5/kZdoj+EBkbleBG/quYvDyOpwHDnTV9RP5CsGWJ0oe1CgJym8JJinoDHyQvdshD5Rmk6+E+v9F/704hLrDUlAV9RMQ7vPlvAypUvtBOn2DR4fmkAFbLlRahxU4WipCsXf3piUSTBpOXIZDhFZ5EcROvH2xO3BqyBMQo058TQE;5+b9YHa4pP7zNJttSCgtyw=="
+secured: "Tr9gQhmtOwldajy5V4EEXjskMRxlSZ054CJtJU6z/tcdDAvdyv9M+sAuB+HkqtjMYLDyVWXA7/0hB8pflzeb2UfVEplGWc4KuNd4eQGuhPOqRUw7zZMCtJtSQot4tCQANmT6k+1VqyLVSBLOKRyn3XZnZGee5Y2C6IvsusXq5siSzgQ6SZm6dX/CGm8VqaS8AzI+PAsfl3VzvrawPoR9vLhpubU4Kvmrq24jHdnwaVk2kDrMoBkwuaIHO1qm2DC72B01/BuCmx/IDD2ikBDybVFskozQBjQ7OXqeG2Ew74AgiVhOLhFLT14DWVRNH5mX;VDQnoEpg+84bZY6d++j8eQ=="
 ---
 

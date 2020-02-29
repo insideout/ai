@@ -68,6 +68,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Automotive Recognition System Market Share Industry Size Growth Forecast 2019-2024"
+    excerpt: "By Product: Hand/Leg/Finger Print Recognition, Face Recognition, Vision/Eye Recognition. By Application: Multimedia, Lightings, Others. The study clearly reveals that the \"Automotive Recognition System .\" industry has attained remarkable growth since 2019-2024. This research report is prepared based on an in-depth analysis of the market by experts."
+    publishedDateTime: 2020-02-25T16:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-recognition-system-market-share-industry-size-growth-forecast-2019-2024-2020-02-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Image Recognition Software Market is Booming Worldwide with Qualcomm Technologies, Microsoft, IBM, Google"
     excerpt: "This intelligence report provides a comprehensive analysis of the Global Image Recognition Software Market. This includes Investigation of past progress, ongoing market scenarios, and future prospects."
     publishedDateTime: 2020-02-21T16:47:00Z

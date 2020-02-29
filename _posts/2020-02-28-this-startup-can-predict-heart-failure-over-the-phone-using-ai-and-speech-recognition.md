@@ -31,14 +31,18 @@ images:
 
 related:
   - title: "ROYBI Acquires KidSense.AI, The Leading Speech Recognition AI Platform"
-    excerpt: "ROYBI INC, the creator of the Roybi Robot —the world's first AI-powered smart toy that teaches languages and basic STEM skills—has acquired KidSense.AI, the revolutionary technology in children’s embedded automatic speech recognition (ASR) and Edge-AI. KidSense.AI, which initially debuted in 2018 at TechCrunch Disrupt, utilizes the ..."
-    publishedDateTime: 2020-02-25T17:08:00Z
-    webUrl: "https://www.oaoa.com/news/business/article_b81d0415-5476-5f83-94df-9c469bfea642.html"
+    excerpt: "ROYBI INC, the creator of the Roybi Robot-the world's first AI-powered smart toy that teaches languages and basic STEM skills-has acquired KidSense.AI, the revolutionary technology in children's embedded automatic speech recognition (ASR) and Edge-AI. KidSense.AI, which initially debuted in 2018 at TechCrunch Disrupt, utilizes the fundametals ..."
+    publishedDateTime: 2020-02-25T17:29:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-roybi-acquires-kidsenseai-leading-speech-recognition-ai-platform-/2020/02/25/9103933.htm"
     type: article
     provider:
-      name: Odessa American
-      domain: oaoa.com
-    quality: 34
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 54
+    images:
+      - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
+        width: 252
+        height: 335
   - title: "How This Startup Is Implementing NLP Technologies To Better Understand Customer Voice"
     excerpt: "With the advancements in natural language processing, speech recognition, and deep learning, at the present era, support teams have started using Voice AI more efficiently and intuitively than ever by putting the data to practical use. With more voice data, support teams will better understand performance trends and make predictions."
     publishedDateTime: 2020-02-27T12:32:00Z
