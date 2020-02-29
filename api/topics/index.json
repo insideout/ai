@@ -3,9 +3,11 @@ layout: none
 ---
 {
     "value": [
-        {% for topic_hash in site.data.topics | sort -%}
+        {%- capture topics %}{% for topic in site.data.topics %}{{ topic[0] }} {% endfor %}{% endcapture -%}
+        {%- assign sorted_topics = topics | split: ' ' | sort %}
+        {% for t in sorted_topics -%}
         {
-            {% assign topic = topic_hash[1] -%}
+            {% assign topic = site.data.topics[t] -%}
             "name": {{ topic.name | jsonify }},
             "id": {{ topic._id | jsonify }},
             {% if topic.parent -%}
