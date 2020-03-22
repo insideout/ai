@@ -18,7 +18,7 @@
         "domain": "venturebeat.com",
         "images": [
           {
-            "url": "https://ai.insideout.app/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -62,7 +62,7 @@
         "domain": "entrepreneur.com",
         "images": [
           {
-            "url": "https://ai.insideout.app/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "url": "https://insideout.app/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -322,7 +322,7 @@
         "domain": "venturebeat.com",
         "images": [
           {
-            "url": "https://ai.insideout.app/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -410,7 +410,7 @@
         "domain": "cnet.com",
         "images": [
           {
-            "url": "https://ai.insideout.app/assets/images/organizations/cnet.com-50x50.jpg",
+            "url": "https://insideout.app/ai/assets/images/organizations/cnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -930,7 +930,7 @@
         "domain": "infoworld.com",
         "images": [
           {
-            "url": "https://ai.insideout.app/assets/images/organizations/infoworld.com-50x50.jpg",
+            "url": "https://insideout.app/ai/assets/images/organizations/infoworld.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
