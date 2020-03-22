@@ -26,51 +26,36 @@ images:
     title: "Former Google engineer Levandowski pleads guilty to stealing self-driving secrets"
 
 related:
-  - title: "Uber's former self-driving lead pleads guilty to stealing from Google"
-    excerpt: "After about three years of legal wrangling between Uber and Waymo over self-driving car tech, the engineer at the center of it has agreed to plead guilty to one count of stealing materials from Google. Anthony Levandowski was a lead engineer on the self-driving car project that's now known as Waymo, until he left to form his own company ..."
-    publishedDateTime: 2020-03-20T04:03:00Z
-    webUrl: "https://www.engadget.com/2020/03/19/ubers-former-self-driving-lead-pleads-guilty-to-stealing-from-g/"
-    ampWebUrl: "https://www.engadget.com/amp/2020/03/19/ubers-former-self-driving-lead-pleads-guilty-to-stealing-from-g/"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/03/19/ubers-former-self-driving-lead-pleads-guilty-to-stealing-from-g/"
+  - title: "Former Uber self-driving head Levandowski agrees to plea deal over Google secrets"
+    excerpt: "Engineer Anthony Levandowski, known for advancing self-driving car technology in the last decade, agreed to plead guilty on Thursday to taking sensitive documents from his former employer Google before joining rival Uber Technologies Inc."
+    publishedDateTime: 2020-03-20T06:39:00Z
+    webUrl: "https://www.reuters.com/article/us-uber-autonomous-levandowski-idUSKBN21646I"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN21646I"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN21646I"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 74
+      name: Reuters
+      domain: reuters.com
+    quality: 69
     images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-03%252F97bc78b0-6aa9-11ea-bbef-ef6aaf3814e8%26client%3Da1acac3e1b3290917d92%26signature%3Ddfbe6b14bd6b68e0cf808e931d1901198bc44b47&client=amp-blogside-v2&signature=6a3341e3904862e1c842819e0249daf2fe72c112"
-        width: 600
-        height: 350
-  - title: "Former Google self-driving engineer pleads guilty to trade secrets theft"
-    excerpt: "“I downloaded this file with the intent to use it for the benefit of someone other than Google,” Anthony Levandowski said in a court document. A former engineer in Google's self-driving division who became the focus of a criminal investigation that rocked Silicon Valley has pleaded guilty to a count of trade secrets theft."
-    publishedDateTime: 2020-03-20T03:54:00Z
-    webUrl: "https://www.nbcnews.com/tech/tech-news/former-google-self-driving-engineer-pleads-guilty-trade-secrets-theft-n1164491"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1164491"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1164491"
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200320&t=2&i=1505635590&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG2I2EP"
+        width: 830
+        height: 545
+  - title: "Former Uber self-driving head agrees to plea deal over Google secrets"
+    excerpt: "He will serve no more than 30 months in prison as part of an agreement with federal prosecutors in one of the most well-known corporate disputes in recent Silicon Valley history."
+    publishedDateTime: 2020-03-20T08:34:00Z
+    webUrl: "https://www.mercurynews.com/2020/03/19/former-uber-self-driving-head-agrees-to-plea-deal-over-google-secrets/"
+    ampWebUrl: "https://www.mercurynews.com/2020/03/19/former-uber-self-driving-head-agrees-to-plea-deal-over-google-secrets/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/03/19/former-uber-self-driving-head-agrees-to-plea-deal-over-google-secrets/amp/"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 73
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 44
     images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_12/3277166/200319-anthony-levandowski-2019-ac-1123p_aa34af092ffbf787558f21daa2586052.jpg"
-        width: 2500
-        height: 1668
-  - title: "Google’s former self-driving car engineer pleads guilty to stealing trade secrets before working with Uber"
-    excerpt: "An engineer once at the head of Google’s self-driving car unit has pleaded guilty to stealing trade secrets from the internet giant before joining up with rival company, Uber. Anthony Levandowski admitted he downloaded thousands of proprietary files from an internal Google server in 2015 before he exited the company to go into business for ..."
-    publishedDateTime: 2020-03-20T14:54:00Z
-    webUrl: "https://www.nydailynews.com/news/crime/ny-uber-google-self-driving-car-engineer-stealing-20200320-yzbmy47o7vh2tobifkgskitei4-story.html"
-    ampWebUrl: "https://www.nydailynews.com/news/crime/ny-uber-google-self-driving-car-engineer-stealing-20200320-yzbmy47o7vh2tobifkgskitei4-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/crime/ny-uber-google-self-driving-car-engineer-stealing-20200320-yzbmy47o7vh2tobifkgskitei4-story.html?outputType=amp"
-    type: article
-    provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 26
-    images:
-      - url: "https://www.nydailynews.com/resizer/3VORD4ypyUrcskDBYdp8uvN_B9s=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/FV73TLYDTJHYLGH2GYSDK6FC4E.jpg"
-        width: 1200
-        height: 800
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/03/sjm-9411578.jpg?w=1024&h=775"
+        width: 1024
+        height: 774
 
 secured: "htLZtP5ppa5CKTRG/4+j1q6ukVRYusNWZnyV/jUWNrHnLRSPF1UeM1oEXDjaGWG//KrA0TgXeeAvHAAM7F5oDpzGDBpTdy8YKb0gUCrg7XfTlU2CjGH9fq+OQtaLnAIRdwkHIZ2WcmOeHsomlZdzYqgHe76SnU/n+Vap25XdTG+efYP3FhNlQBxeLR95qfuXQT1lKfIbI6V+Uf1ltl57tzZpiDEObpHhmXZ8Xv6sQ0i6P7UoUUQAxujHnCoLLf97EtA4WLOYAYR0kWxmxoLEY5LsquYITgsQ7wKE2OHKp+haoHAMmSdDI25Ot9t2soJlDG/D2IF0qlXLAzEzf4WeeKdkGZmrnHX6NI6Vi0HfrhQYzY85N9vMOUwWuKWcfeUGOMftdPXxK0GjnaVyH0VfEpW2Eq6jpRo17r4TJ+aTRoI9A9RVZ2efZqZWxyveO0QD0SmlIdZJxnKrfEIZ/b061cM6o//kGPJA2AnvpCa1WPA=;MEOKqLyg6e2EkiMXs7uUfg=="
 ---

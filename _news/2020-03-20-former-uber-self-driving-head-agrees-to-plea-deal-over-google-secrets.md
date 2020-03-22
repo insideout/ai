@@ -41,6 +41,21 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200320&t=2&i=1505635590&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG2I2EP"
         width: 830
         height: 545
+  - title: "Former Google engineer Levandowski pleads guilty to stealing self-driving secrets"
+    excerpt: "One of Silicon Valley’s most renowned self-driving engineers agreed to plead guilty to stealing trade secrets from Google. Anthony Levandowski’s plea agreement with prosecutors, filed March 19 in federal court in San Francisco, comes two weeks after a civil dispute with Google drove him to file for bankruptcy. Google won a US$179 million ..."
+    publishedDateTime: 2020-03-22T11:29:00Z
+    webUrl: "https://driving.ca/auto-news/news/former-google-engineer-levandowski-pleads-guilty-to-stealing-self-driving-secrets"
+    ampWebUrl: "https://driving.ca/auto-news/news/former-google-engineer-levandowski-pleads-guilty-to-stealing-self-driving-secrets/amp"
+    cdnAmpWebUrl: "https://driving-ca.cdn.ampproject.org/c/s/driving.ca/auto-news/news/former-google-engineer-levandowski-pleads-guilty-to-stealing-self-driving-secrets/amp"
+    type: article
+    provider:
+      name: driving.ca
+      domain: driving.ca
+    quality: 39
+    images:
+      - url: "https://postmediadriving.files.wordpress.com/2018/09/waymo_minivan_7.jpg?quality=80"
+        width: 2480
+        height: 1600
 
 secured: "ezyg2MPyL73LW0hcqz/F5OQ+pyb/CaFZnBsN/brB+4amJcuhly828OsTJYJgXJSROovctQsIV+CaHc+xGOPhDHTFEGpjC1o+a2udppVZuDw5nLHJBw5eC68wUXrxmfh5su9G4O8f8WC9xNbRl/mgKLjdMIJcxmJl6FwVtXqYrB6MbC5OXc5tAa6S6Yc6RiENMsmaRIl4RfJr8AhCHf1I8BBB6GSVkTFVxlHD6zCFlsF/h4MwpzSEfx+Auleknmlcn4aFCf0sOPfQm4pO3esWdzF7lEUQ/LLz1X7ufjBNj5Nk3J6svDD+5wykk/UnRNNqCo8+xC20sxi267YQLLEFTE2Rfngl87yNegjrw9o1sxBliawteU82+iAO4KIIkTdKwIopvByb4jsBq6MmkddAmgtosZl9O/nnqwfMreXO7O3QNU+0xgfghz85t7UBP2uacQH8fJTbuuCMFQ3XIa6xQO/dofBYn5u4XBJasHzBotE=;WhVaIliN/54q5sSoyjXRZw=="
 ---

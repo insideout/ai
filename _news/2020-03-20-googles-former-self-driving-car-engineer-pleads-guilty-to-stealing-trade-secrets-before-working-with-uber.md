@@ -8,7 +8,7 @@ ampWebUrl: "https://www.nydailynews.com/news/crime/ny-uber-google-self-driving-c
 cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/crime/ny-uber-google-self-driving-car-engineer-stealing-20200320-yzbmy47o7vh2tobifkgskitei4-story.html?outputType=amp"
 type: article
 quality: 26
-heat: -1
+heat: 26
 published: false
 
 provider:
@@ -24,53 +24,6 @@ images:
     width: 1200
     height: 800
     title: "Google’s former self-driving car engineer pleads guilty to stealing trade secrets before working with Uber"
-
-related:
-  - title: "Uber's former self-driving lead pleads guilty to stealing from Google"
-    excerpt: "After about three years of legal wrangling between Uber and Waymo over self-driving car tech, the engineer at the center of it has agreed to plead guilty to one count of stealing materials from Google. Anthony Levandowski was a lead engineer on the self-driving car project that's now known as Waymo, until he left to form his own company ..."
-    publishedDateTime: 2020-03-20T04:03:00Z
-    webUrl: "https://www.engadget.com/2020/03/19/ubers-former-self-driving-lead-pleads-guilty-to-stealing-from-g/"
-    ampWebUrl: "https://www.engadget.com/amp/2020/03/19/ubers-former-self-driving-lead-pleads-guilty-to-stealing-from-g/"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/03/19/ubers-former-self-driving-lead-pleads-guilty-to-stealing-from-g/"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 74
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-03%252F97bc78b0-6aa9-11ea-bbef-ef6aaf3814e8%26client%3Da1acac3e1b3290917d92%26signature%3Ddfbe6b14bd6b68e0cf808e931d1901198bc44b47&client=amp-blogside-v2&signature=6a3341e3904862e1c842819e0249daf2fe72c112"
-        width: 600
-        height: 350
-  - title: "Former Google self-driving engineer pleads guilty to trade secrets theft"
-    excerpt: "“I downloaded this file with the intent to use it for the benefit of someone other than Google,” Anthony Levandowski said in a court document. A former engineer in Google's self-driving division who became the focus of a criminal investigation that rocked Silicon Valley has pleaded guilty to a count of trade secrets theft."
-    publishedDateTime: 2020-03-20T03:54:00Z
-    webUrl: "https://www.nbcnews.com/tech/tech-news/former-google-self-driving-engineer-pleads-guilty-trade-secrets-theft-n1164491"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1164491"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1164491"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 73
-    images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_12/3277166/200319-anthony-levandowski-2019-ac-1123p_aa34af092ffbf787558f21daa2586052.jpg"
-        width: 2500
-        height: 1668
-  - title: "Former Google engineer Levandowski pleads guilty to stealing self-driving secrets"
-    excerpt: "One of Silicon Valley’s most renowned self-driving engineers agreed to plead guilty to stealing trade secrets from Google. Anthony Levandowski’s plea agreement with prosecutors, filed March 19 in federal court in San Francisco, comes two weeks after a civil dispute with Google drove him to file for bankruptcy. Google won a US$179 million ..."
-    publishedDateTime: 2020-03-22T11:29:00Z
-    webUrl: "https://driving.ca/auto-news/news/former-google-engineer-levandowski-pleads-guilty-to-stealing-self-driving-secrets"
-    ampWebUrl: "https://driving.ca/auto-news/news/former-google-engineer-levandowski-pleads-guilty-to-stealing-self-driving-secrets/amp"
-    cdnAmpWebUrl: "https://driving-ca.cdn.ampproject.org/c/s/driving.ca/auto-news/news/former-google-engineer-levandowski-pleads-guilty-to-stealing-self-driving-secrets/amp"
-    type: article
-    provider:
-      name: driving.ca
-      domain: driving.ca
-    quality: 39
-    images:
-      - url: "https://postmediadriving.files.wordpress.com/2018/09/waymo_minivan_7.jpg?quality=80"
-        width: 2480
-        height: 1600
 
 secured: "tW/jaaNxNpS3/SK7T8XQW54gyQUqWrI9zUWYRJR+VJk9gq/sg+fOmtS449qR7jr1IxZVfkR+W6CZR1WtcI3SLabd3jabkRWKor0X4Ly6fZpz4yr0BDgL90jaNO5JwK8Owq3Nd6yvpcI7Blveh2r7nk2WVKnRm2UTnuBWmVGYVGcm5RxUIdJXxaJxvmLBrb0cCHqte50tzy+hSnpbPYKmHonBGPILZp6Z4oErjGWBEnUx4DpMXqyID5+u0oGIwpqXJeGtt+uF8rHxoIP/x8zdCdh1FapNEpvhDp9tXbunq5pysF2VmZW5lo4zqj0yy+beqw8Rk96DTUu+CrTTYfFZsLV1mFmU62mK4j+B19zNejQ3+H+xSyMqAaOrdKVAxeGVBrZcWkvM70bEmUHCiO3Cf9g6JzksCVlihG9TT87MawQrYBNcAXxy/AvW5mAJH0GvIW6ii14A2HUyV/dVe8sb9pBtpiacEFVEgjHb4hC+nRY=;JV7r0NuGtdog2AKeW9u+gw=="
 ---
