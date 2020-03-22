@@ -1,6 +1,7 @@
 taxonomy: topic
 _id: ai-in-autos
 name: AI in Autos
+shortname: Autos
 parent: AI
 keywords:
   - driverless

@@ -1,6 +1,7 @@
 taxonomy: topic
 _id: natural-language-processing
 name: Natural Language Processing
+shortname: NLP
 parent: AI
 description: Enables programs to “understand” written or spoken language
 keywords:

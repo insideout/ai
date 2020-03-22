@@ -1,6 +1,7 @@
 taxonomy: topic
 _id: ai-in-robotics
 name: AI in Robotics
+shortname: Robotics
 parent: AI
 keywords:
   - robotics

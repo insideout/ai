@@ -1,6 +1,7 @@
 taxonomy: topic
 _id: ai-in-healthcare
 name: AI in Healthcare
+shortname: Healthcare
 parent: AI
 keywords:
   - healthcare

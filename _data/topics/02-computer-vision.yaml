@@ -1,6 +1,7 @@
 taxonomy: topic
 _id: computer-vision
 name: Computer Vision
+shortname: Vision
 parent: AI
 description: How machines “see”
 keywords:

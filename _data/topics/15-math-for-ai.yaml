@@ -1,6 +1,7 @@
 taxonomy: topic
 _id: math-for-ai
 name: Math for AI
+shortname: Math
 parent: AI
 images:
   - https://insideout.app/ai/assets/images/topics/math-for-ai.jpg

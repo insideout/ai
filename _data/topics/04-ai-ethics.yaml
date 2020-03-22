@@ -1,6 +1,7 @@
 taxonomy: topic
 _id: ai-ethics
 name: AI Ethics
+shortname: Ethics
 parent: AI
 keywords:
   - ethical

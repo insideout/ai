@@ -1,6 +1,7 @@
 taxonomy: topic
 _id: ai-in-finance
 name: AI in Finance
+shortname: Finance
 parent: AI
 keywords:
   - bank

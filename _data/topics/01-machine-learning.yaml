@@ -1,6 +1,7 @@
 taxonomy: topic
 _id: machine-learning
 name: Machine Learning
+shortname: ML
 parent: AI
 description: Systems learn from data to improve on tasks.
 keywords:

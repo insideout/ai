@@ -1,6 +1,7 @@
 taxonomy: topic
 _id: ai-hardware
 name: AI Hardware
+shortname: Hardware
 parent: AI
 keywords:
   - chip
