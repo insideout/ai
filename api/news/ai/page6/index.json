@@ -2,6 +2,43 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-03-17-tyler-technologies-micropact-global-alliance-members-secure-major-vocational-rehabilitation-and-employment-contract.md",
+      "title": "Tyler Technologies’ MicroPact Global Alliance Members Secure Major Vocational Rehabilitation and Employment Contract",
+      "excerpt": "The completed project will be hosted on Amazon Web Services (AWS) and will feature 2,500 seats of Tyler’s Entellitrak ® solution ... Chainbridge Solutions leverages technologies such as Artificial Intelligence, Robotic Process Automation, and Machine Learning to deliver the next generation of case management solutions.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businesswire.com/news/home/20200317005053/en/Tyler-Technologies’-MicroPact-Global-Alliance-Members-Secure",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-17T06:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200317005053/en/257505/23/tyler_logo_RGB.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": "Tyler Technologies’ MicroPact Global Alliance Members Secure Major Vocational Rehabilitation and Employment Contract",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-17-computer-vision-and-image-analysis-online-course-offered-by-microsoft.md",
       "title": "Computer Vision and Image Analysis online course offered by Microsoft",
       "excerpt": "Computer Vision is the art of distilling actionable information from images. In this hands-on course, we'll learn about Image Analysis techniques using Python packages like PIL, Scikit-Image, Open CV, and others. You'll then explore machine learning for computer vision, including deep learning techniques for image classification, object ...",
@@ -1034,6 +1071,43 @@
       ]
     },
     {
+      "path": "_news/2020-03-17-ibm-commercialises-ai-communication.md",
+      "title": "IBM commercialises AI communication",
+      "excerpt": "IBM is commercialising a new technology that makes it easier for computers to understand human communication. AI has struggled to understand the kinds of nuances that appear in everyday communication among people. Now Big Blue is adding new tools to its AI system, Watson, which can address that problem and better understand human language.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fudzilla.com/news/ai/50483-ibm-commercialises-ai-communication",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-16T18:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fudzilla",
+        "domain": "fudzilla.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.fudzilla.com/media/k2/items/cache/31c2c7604349f9615a8f77c09e482964_L.jpg",
+          "width": 620,
+          "height": 465,
+          "title": "IBM commercialises AI communication",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-17-beijing-tide-pharmaceutical-and-insilico-medicine-enter-into-a-strategic-partnership-agreement-for-cancer-therapy.md",
       "title": "Beijing Tide Pharmaceutical and Insilico Medicine enter into a strategic partnership agreement for cancer therapy",
       "excerpt": "/PRNewswire/ -- Beijing Tide Pharmaceutical Co., Ltd. (Tide), a subsidiary of Sino Biopharmaceutical Limited, and Insilico Medicine, an artificial",
@@ -1067,88 +1141,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-tesla-trails-waymo-cruise-and-others-in-self-driving-strategy-study-claims.md",
-      "title": "Tesla trails Waymo, Cruise and others in self-driving strategy, study claims",
-      "excerpt": "Tesla's position on Navigant Research's AV development leaderboard is just about at the bottom. Waymo continues to lead the pack in terms of both vision and execution, according to Navigant's leaderboard.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/roadshow/news/self-driving-study-navigant-research-tesla-waymo-cruise/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/self-driving-study-navigant-research-tesla-waymo-cruise/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-study-navigant-research-tesla-waymo-cruise/",
-      "publishedDateTime": "2020-03-16T17:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/JYW41s6QFq3vS977cDHZTxVbuKc=/2019/08/20/1ad7f55f-6c1a-4d83-b8e5-b2d40024b32c/waymo-florida-ogi.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "Tesla trails Waymo, Cruise and others in self-driving strategy, study claims",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-artificial-intelligence-recruited-to-find-clues-about-covid-19.md",
-      "title": "Artificial intelligence recruited to find clues about COVID-19",
-      "excerpt": "With data scientists and machine language experts mining the literature compilation known as COVID-19 Open Research Dataset ... Allen Institute of AI, Georgetown University’s Center for Security and Emerging Technology, the Chan Zuckerberg Initiative (named for Mark Zuckerberg, Facebook's founder, and his wife Priscilla Chan), and Kaggle ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.rollcall.com/2020/03/16/artificial-intelligence-recruited-to-find-clues-about-covid-19/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-16T17:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Roll Call",
-        "domain": "rollcall.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://content.rollcall.com/wp-content/uploads/2020/03/WASHINGTON_VIRUS_007_03162020.jpg?resize=1200,600",
-          "width": 1200,
-          "height": 600,
-          "title": "Artificial intelligence recruited to find clues about COVID-19",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

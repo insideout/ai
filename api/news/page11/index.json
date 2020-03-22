@@ -2,6 +2,80 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-03-13-unity-technologies-acquires-artomatix.md",
+      "title": "Unity Technologies acquires Artomatix",
+      "excerpt": "award-winning software company that uses AI and neural networks to streamline 3D artistic workflows in the entertainment industry has been acquired by Unity Technologies. Used by 3D artists worldwide across gaming, entertainment, industrial, and design industries, Artomatix’s flagship product, ArtEngine, uses artificial intelligence to help ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techcentral.ie/unity-technologies-acquires-artomatix/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-13T04:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mozilla",
+        "domain": "techcentral.ie",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.techcentral.ie/wp-content/uploads/2014/01/Mergers_Size.jpg",
+          "width": 620,
+          "height": 350,
+          "title": "Unity Technologies acquires Artomatix",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-facial-recognition-merely-a-lead-and-not-proof-of-someones-involvement-in-crime-says-new-nypd-policy.md",
+      "title": "Facial recognition ‘merely a lead’ and not proof of someone’s involvement in crime, says new NYPD policy",
+      "excerpt": "Cops can use facial recognition software to identify criminal suspects — but any match is “merely a lead” and not probable cause that someone is connected to a crime, NYPD Commissioner Dermot Shea said Friday. “It is our responsibility to ensure investigators are equipped with effective technologies to bring justice to New Yorkers who ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nydailynews.com/new-york/nyc-crime/ny-nypd-facial-recognition-rules-20200313-5gvkzrh6ubfmvi67he2vzjrm64-story.html",
+      "ampWebUrl": "https://www.nydailynews.com/new-york/nyc-crime/ny-nypd-facial-recognition-rules-20200313-5gvkzrh6ubfmvi67he2vzjrm64-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/new-york/nyc-crime/ny-nypd-facial-recognition-rules-20200313-5gvkzrh6ubfmvi67he2vzjrm64-story.html?outputType=amp",
+      "publishedDateTime": "2020-03-13T03:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Daily News",
+        "domain": "nydailynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.nydailynews.com/resizer/zSmItPl11VfSZK_HlthWE4t6ueI=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/TRO2XAVMCJDFDHJMTP7WVOQS3E.jpg",
+          "width": 1200,
+          "height": 799,
+          "title": "Facial recognition ‘merely a lead’ and not proof of someone’s involvement in crime, says new NYPD policy",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-13-washington-state-approves-stronger-facial-recognition-regulations.md",
       "title": "Washington state approves stronger facial recognition regulations",
       "excerpt": "Washington officials have approved a set of stronger facial recognition regulations for the state. Members of the state's House of Representatives and the Senate have reached a final compromise on the rules designed to regulate the use of facial recognition. Since Washington often leads the way in tech-related laws -- it was the first state to ...",
@@ -874,72 +948,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-12-swiss-re-announces-ai-data-tie-up-with-microsoft.md",
-      "title": "Swiss Re Announces AI Data Tie-Up With Microsoft",
-      "excerpt": "The service would be available to insurer clients, but also used internally to aid the company’s own pricing. As part of the deal, Swiss Re said it would move its internal operating system to Microsoft’s cloud product, Azure. That would enable the reinsurer to access “advanced data processing” and artificial intelligence systems ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.law360.com/articles/1252636/swiss-re-announces-ai-data-tie-up-with-microsoft",
-      "ampWebUrl": "https://www.law360.com/amp/articles/1252636",
-      "cdnAmpWebUrl": "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1252636",
-      "publishedDateTime": "2020-03-12T06:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Law360",
-        "domain": "law360.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-12-immunoprecise-antibodies-unveils-new-therapy-approach-in-bid-to-tackle-coronavirus.md",
-      "title": "ImmunoPrecise Antibodies unveils new therapy approach in bid to tackle coronavirus",
-      "excerpt": "Today, it unveiled the use of PolyTope mAb Therapy, which it says is enabled by Immunoprecise's diverse discovery platforms and artificial intelligence (AI) capabilities with partner EVQLV Inc. Last month, Immunoprecise named Dr Ilse Roodink, the firm's ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.proactiveinvestors.com/companies/news/914841/immunoprecise-antibodies-unveils-new-therapy-approach-in-bid-to-tackle-coronavirus-914841.html",
-      "ampWebUrl": "https://www.proactiveinvestors.com/companies/amp/news/914841",
-      "cdnAmpWebUrl": "https://www-proactiveinvestors-com.cdn.ampproject.org/c/s/www.proactiveinvestors.com/companies/amp/news/914841",
-      "publishedDateTime": "2020-03-12T06:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Proactiveinvestors",
-        "domain": "proactiveinvestors.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.proactiveinvestors.com/thumbs/upload/News/Image/2020_03/1200z740_1584014619_shutterstock_1621031059_coronavirus.jpg",
-          "width": 1200,
-          "height": 740,
-          "title": "ImmunoPrecise Antibodies unveils new therapy approach in bid to tackle coronavirus",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

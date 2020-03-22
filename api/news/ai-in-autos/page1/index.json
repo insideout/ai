@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-03-20-waymo-gamifies-self-driving-car-data-and-wants-everyone-involved.md",
+      "title": "Waymo gamifies self-driving car data and wants everyone involved",
+      "excerpt": "Waymo expands its Open Dataset program and issues some challenges that may result in prize money. Waymo is calling all intrigued minds to partake in an Open Dataset challenge, and it could result in some cold,",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/roadshow/news/waymo-self-driving-car-data-game-prize/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/waymo-self-driving-car-data-game-prize/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/waymo-self-driving-car-data-game-prize/",
+      "publishedDateTime": "2020-03-20T11:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://ai.insideout.app/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet3.cbsistatic.com/img/reqDD4K5243DNGVR3dFQcAi2c_o=/2019/08/21/3bba88b6-75ae-43fc-8e92-4d307cf9c2eb/waymo-data-ogi.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "Waymo gamifies self-driving car data and wants everyone involved",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-20-waymo-suspends-all-self-driving-services-in-light-of-coronavirus-pandemic.md",
       "title": "Waymo suspends all self-driving services in light of coronavirus pandemic",
       "excerpt": "Waymo has extended the partial suspension of its autonomous vehicle service pilots to include fully driverless vehicle testing, the company confirmed on Friday. While Alphabet-owned Waymo had already stopped operation of the autonomous driving vehicles in its fleet that have safety drivers on board, in the interest of minimizing the potential ...",
@@ -50,7 +95,7 @@
       "path": "_news/2020-03-20-former-uber-self-driving-head-levandowski-agrees-to-plea-deal-over-google-secrets.md",
       "title": "Former Uber self-driving head Levandowski agrees to plea deal over Google secrets",
       "excerpt": "Engineer Anthony Levandowski, known for advancing self-driving car technology in the last decade, agreed to plead guilty on Thursday to taking sensitive documents from his former employer Google before joining rival Uber Technologies Inc.",
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.reuters.com/article/us-uber-autonomous-levandowski-idUSKBN21646I",
@@ -95,7 +140,7 @@
       "path": "_news/2020-03-20-ubers-former-self-driving-lead-pleads-guilty-to-stealing-from-google.md",
       "title": "Uber's former self-driving lead pleads guilty to stealing from Google",
       "excerpt": "After about three years of legal wrangling between Uber and Waymo over self-driving car tech, the engineer at the center of it has agreed to plead guilty to one count of stealing materials from Google. Anthony Levandowski was a lead engineer on the self-driving car project that's now known as Waymo, until he left to form his own company ...",
-      "heat": 124,
+      "heat": 104,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.engadget.com/2020/03/19/ubers-former-self-driving-lead-pleads-guilty-to-stealing-from-g/",
@@ -1111,44 +1156,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-how-autonomous-freight-trains-powered-by-artificial-intelligence-could-come-to-a-railroad-near-you.md",
-      "title": "How autonomous freight trains powered by artificial intelligence could come to a railroad near you",
-      "excerpt": "Officials from BNSF and Union Pacific, the two largest freight railroads in the Pacific Northwest, declined to comment about their interest in driverless trains. Michael Rush, senior vice president for safety and operations at the Association of American Railroads, said the industry is embracing technology like artificial intelligence but that ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.seattletimes.com/seattle-news/how-autonomous-freight-trains-powered-by-artificial-intelligence-could-come-to-a-railroad-near-you/",
-      "ampWebUrl": "https://www.seattletimes.com/seattle-news/how-autonomous-freight-trains-powered-by-artificial-intelligence-could-come-to-a-railroad-near-you/?amp=1",
-      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/seattle-news/how-autonomous-freight-trains-powered-by-artificial-intelligence-could-come-to-a-railroad-near-you/?amp=1",
-      "publishedDateTime": "2020-03-10T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seattle Times",
-        "domain": "seattletimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static.seattletimes.com/wp-content/uploads/2020/02/02182020_train_083439-300x225.jpg",
-          "width": 300,
-          "height": 225,
-          "title": "How autonomous freight trains powered by artificial intelligence could come to a railroad near you",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

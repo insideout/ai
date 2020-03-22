@@ -56,36 +56,6 @@ related:
       - url: "https://media1.s-nbcnews.com/i/newscms/2020_12/3277166/200319-anthony-levandowski-2019-ac-1123p_aa34af092ffbf787558f21daa2586052.jpg"
         width: 2500
         height: 1668
-  - title: "Google's former self-driving guru Anthony Levandowski pleads guilty to trade secret theft"
-    excerpt: "That's a lesson former Google engineer, self-driving truck startup founder, and Uber executive Anthony Levandowski will be learning the hard way as he faces a potential prison sentence. According to The Washington Post, Levandowski today plead guilty to a charge of stealing trade secrets from Google. It was back in 2017 that Uber fired ..."
-    publishedDateTime: 2020-03-20T00:43:00Z
-    webUrl: "https://mashable.com/article/anthony-levandowski-guilty-google-uber-trade-secret-theft/"
-    ampWebUrl: "https://mashable.com/article/anthony-levandowski-guilty-google-uber-trade-secret-theft.amp"
-    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/anthony-levandowski-guilty-google-uber-trade-secret-theft.amp"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 65
-    images:
-      - url: "https://mondrian.mashable.com/2020%252F03%252F20%252F88%252F6c6e0749cc7145c7bec5391a7546c6a1.22a44.jpg%252F1200x630.jpg?signature=fkhtsGRAGw3XYyn1F7oO5sjCCSE="
-        width: 1200
-        height: 630
-  - title: "Self-driving car engineer Anthony Levandowski pleads guilty to stealing Google trade secrets"
-    excerpt: "Anthony Levandowski, the self-driving car engineer and former Google executive who joined Uber via an acquisition of his autonomous truck company Otto, has agreed to plead guilty to stealing Google trade secrets,"
-    publishedDateTime: 2020-03-20T01:26:00Z
-    webUrl: "https://www.theverge.com/2020/3/19/21187651/anthony-levandowski-pleads-guilty-google-waymo-uber-trade-secret-theft-lawsuit"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2020/3/19/21187651/anthony-levandowski-pleads-guilty-google-waymo-uber-trade-secret-theft-lawsuit"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/3/19/21187651/anthony-levandowski-pleads-guilty-google-waymo-uber-trade-secret-theft-lawsuit"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 63
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/-x_yIUtVa3er3RTUFzX13VvnTWI=/0x0:5058x3480/1400x933/filters:focal(2016x1248:2824x2056):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66528877/1176871825.jpg.0.jpg"
-        width: 1400
-        height: 933
   - title: "Google’s former self-driving car engineer pleads guilty to stealing trade secrets before working with Uber"
     excerpt: "An engineer once at the head of Google’s self-driving car unit has pleaded guilty to stealing trade secrets from the internet giant before joining up with rival company, Uber. Anthony Levandowski admitted he downloaded thousands of proprietary files from an internal Google server in 2015 before he exited the company to go into business for ..."
     publishedDateTime: 2020-03-20T14:54:00Z

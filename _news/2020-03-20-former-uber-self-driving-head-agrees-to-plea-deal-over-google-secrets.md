@@ -41,17 +41,6 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200320&t=2&i=1505635590&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG2I2EP"
         width: 830
         height: 545
-  - title: "Anthony Levandowski Agrees To Plead Guilty In Google-Uber Self-Driving Tech Trade Secrets Case"
-    excerpt: "SAN JOSE (CBS SF) — Former Google self-driving program executive Anthony Scott Levandowski has submitted documents requesting that a federal judge accept his guilty plea to theft of trade secrets charges, prosecutors announced Thursday. U.S. Attorney Dave Anderson said the documents included a request to U.S. District Court Judge William H."
-    publishedDateTime: 2020-03-20T02:33:00Z
-    webUrl: "https://sanfrancisco.cbslocal.com/2020/03/19/anthony-levandowski-uber-google-trade-secrets/"
-    ampWebUrl: "https://sanfrancisco.cbslocal.com/2020/03/19/anthony-levandowski-uber-google-trade-secrets/amp/"
-    cdnAmpWebUrl: "https://sanfrancisco-cbslocal-com.cdn.ampproject.org/c/s/sanfrancisco.cbslocal.com/2020/03/19/anthony-levandowski-uber-google-trade-secrets/amp/"
-    type: article
-    provider:
-      name: CBS Boston / WBZ
-      domain: cbslocal.com
-    quality: 12
 
 secured: "ezyg2MPyL73LW0hcqz/F5OQ+pyb/CaFZnBsN/brB+4amJcuhly828OsTJYJgXJSROovctQsIV+CaHc+xGOPhDHTFEGpjC1o+a2udppVZuDw5nLHJBw5eC68wUXrxmfh5su9G4O8f8WC9xNbRl/mgKLjdMIJcxmJl6FwVtXqYrB6MbC5OXc5tAa6S6Yc6RiENMsmaRIl4RfJr8AhCHf1I8BBB6GSVkTFVxlHD6zCFlsF/h4MwpzSEfx+Auleknmlcn4aFCf0sOPfQm4pO3esWdzF7lEUQ/LLz1X7ufjBNj5Nk3J6svDD+5wykk/UnRNNqCo8+xC20sxi267YQLLEFTE2Rfngl87yNegjrw9o1sxBliawteU82+iAO4KIIkTdKwIopvByb4jsBq6MmkddAmgtosZl9O/nnqwfMreXO7O3QNU+0xgfghz85t7UBP2uacQH8fJTbuuCMFQ3XIa6xQO/dofBYn5u4XBJasHzBotE=;WhVaIliN/54q5sSoyjXRZw=="
 ---

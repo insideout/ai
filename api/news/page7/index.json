@@ -2,6 +2,43 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-03-17-tyler-technologies-micropact-global-alliance-members-secure-major-vocational-rehabilitation-and-employment-contract.md",
+      "title": "Tyler Technologies’ MicroPact Global Alliance Members Secure Major Vocational Rehabilitation and Employment Contract",
+      "excerpt": "The completed project will be hosted on Amazon Web Services (AWS) and will feature 2,500 seats of Tyler’s Entellitrak ® solution ... Chainbridge Solutions leverages technologies such as Artificial Intelligence, Robotic Process Automation, and Machine Learning to deliver the next generation of case management solutions.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businesswire.com/news/home/20200317005053/en/Tyler-Technologies’-MicroPact-Global-Alliance-Members-Secure",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-17T06:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200317005053/en/257505/23/tyler_logo_RGB.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": "Tyler Technologies’ MicroPact Global Alliance Members Secure Major Vocational Rehabilitation and Employment Contract",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-17-computer-vision-and-image-analysis-online-course-offered-by-microsoft.md",
       "title": "Computer Vision and Image Analysis online course offered by Microsoft",
       "excerpt": "Computer Vision is the art of distilling actionable information from images. In this hands-on course, we'll learn about Image Analysis techniques using Python packages like PIL, Scikit-Image, Open CV, and others. You'll then explore machine learning for computer vision, including deep learning techniques for image classification, object ...",
@@ -911,51 +948,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-get-ready-for-ai-as-a-service.md",
-      "title": "Get Ready For AI As A Service",
-      "excerpt": "Artificial intelligence is not for the faint-hearted, as it requires investments, expertise, and lots of hand-holding. That’s why most enterprises will turn to as-a-Service offerings, leaving back-end processing,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2020/03/16/get-ready-for-ai-as-a-service/",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2020/03/16/get-ready-for-ai-as-a-service/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2020/03/16/get-ready-for-ai-as-a-service/amp/",
-      "publishedDateTime": "2020-03-16T20:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1177213691%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Get Ready For AI As A Service",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

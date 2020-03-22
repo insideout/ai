@@ -2,6 +2,88 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-03-17-tesla-trails-waymo-cruise-and-others-in-self-driving-strategy-study-claims.md",
+      "title": "Tesla trails Waymo, Cruise and others in self-driving strategy, study claims",
+      "excerpt": "Tesla's position on Navigant Research's AV development leaderboard is just about at the bottom. Waymo continues to lead the pack in terms of both vision and execution, according to Navigant's leaderboard.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/roadshow/news/self-driving-study-navigant-research-tesla-waymo-cruise/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/self-driving-study-navigant-research-tesla-waymo-cruise/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-study-navigant-research-tesla-waymo-cruise/",
+      "publishedDateTime": "2020-03-16T17:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/JYW41s6QFq3vS977cDHZTxVbuKc=/2019/08/20/1ad7f55f-6c1a-4d83-b8e5-b2d40024b32c/waymo-florida-ogi.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "Tesla trails Waymo, Cruise and others in self-driving strategy, study claims",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-artificial-intelligence-recruited-to-find-clues-about-covid-19.md",
+      "title": "Artificial intelligence recruited to find clues about COVID-19",
+      "excerpt": "With data scientists and machine language experts mining the literature compilation known as COVID-19 Open Research Dataset ... Allen Institute of AI, Georgetown University’s Center for Security and Emerging Technology, the Chan Zuckerberg Initiative (named for Mark Zuckerberg, Facebook's founder, and his wife Priscilla Chan), and Kaggle ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.rollcall.com/2020/03/16/artificial-intelligence-recruited-to-find-clues-about-covid-19/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-16T17:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Roll Call",
+        "domain": "rollcall.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://content.rollcall.com/wp-content/uploads/2020/03/WASHINGTON_VIRUS_007_03162020.jpg?resize=1200,600",
+          "width": 1200,
+          "height": 600,
+          "title": "Artificial intelligence recruited to find clues about COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-17-aws-australia-returns-to-profit-after-posting-half-a-billion-revenue.md",
       "title": "AWS Australia returns to profit after posting half a billion revenue",
       "excerpt": "Read more AWS Summit in Singapore set to go ahead, despite coronavirus concerns The company recently outlined three areas of opportunity for partners to capitalise on this year. These included around cloud migration and modernisation, demand for contact centre technology and data analytics management and artificial intelligence. Last year ...",
@@ -1008,80 +1090,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-15-legal-aid-society-dubious-of-new-nypd-facial-recognition-provision.md",
-      "title": "Legal Aid Society dubious of new NYPD facial recognition provision",
-      "excerpt": "He was surrounded by representatives of the Jewish community and flanked by Commissioner Dermot Shea. (Photo by Todd Maisel) An update to the NYPD policy regarding facial recognition technology does not change precautions against using the feature as evidence to convict, according to Commissioner Dermot Shea. As the technology advances ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.amny.com/police-fire/legal-aid-society-dubious-of-new-nypd-facial-recognition-provision/",
-      "ampWebUrl": "https://www.amny.com/police-fire/legal-aid-society-dubious-of-new-nypd-facial-recognition-provision/amp/",
-      "cdnAmpWebUrl": "https://www-amny-com.cdn.ampproject.org/c/s/www.amny.com/police-fire/legal-aid-society-dubious-of-new-nypd-facial-recognition-provision/amp/",
-      "publishedDateTime": "2020-03-15T10:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AM New York",
-        "domain": "amny.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-15-googles-parent-company-just-made-its-first-ever-investment-in-an-ai-chip-start-up.md",
-      "title": "Google's parent company just made its first-ever investment in an A.I. chip start-up",
-      "excerpt": "GV had never invested in a start-up making processors for artificial intelligence ... special features in its consumer products, while Waymo relies on AI for autonomous driving.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2018/03/15/alphabets-gv-invests-in-ai-chip-startup-sambanova.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2018/03/15/alphabets-gv-invests-in-ai-chip-startup-sambanova.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2018/03/15/alphabets-gv-invests-in-ai-chip-startup-sambanova.html",
-      "publishedDateTime": "2020-03-15T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/105066224-Handout_SambaNova_Systems.jpeg?v=1529477748",
-          "width": 2000,
-          "height": 1333,
-          "title": "Google's parent company just made its first-ever investment in an A.I. chip start-up",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -2,6 +2,88 @@
   "page": 75,
   "value": [
     {
+      "path": "_news/2020-01-06-robots-artificial-intelligence-highlight-ces-expo.md",
+      "title": "Robots, artificial intelligence highlight CES expo",
+      "excerpt": "The annual gadget fest in Las Vegas started this week with \"CES Unveiled,\" an event highlighted by several new robotic and artificial intelligence technology, including one that acts as a pet. (Jan. 6)",
+      "heat": 64,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fltimes.com/robots-artificial-intelligence-highlight-ces-expo/video_f52d8126-6f46-54e2-9e89-503ffb536d94.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-06T11:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finger Lakes Times",
+        "domain": "fltimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/fltimes.com/content/tncms/assets/v3/editorial/f/52/f52d8126-6f46-54e2-9e89-503ffb536d94/5e13998eab3cc.preview.jpg?crop=960%2C720%2C160%2C0&resize=840%2C630&order=crop%2Cresize",
+          "width": 840,
+          "height": 630,
+          "title": "Robots, artificial intelligence highlight CES expo",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-01-06-blackberry-and-aws-team-up-to-make-smart-vehicles-even-smarter.md",
+      "title": "BlackBerry and AWS team up to make smart vehicles even smarter",
+      "excerpt": "Additionally, the platform will integrate the BlackBerry QNX operating system and over-the-air software update services with AWS IoT cloud services for secure connectivity and telematics, Amazon SageMaker for developing machine learning models and AWS IoT edge services for in-vehicle machine learning inference. Senior vice president and co-head ...",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techradar.com/news/blackberry-and-aws-team-up-to-make-smart-vehicles-even-smarter",
+      "ampWebUrl": "https://www.techradar.com/amp/news/blackberry-and-aws-team-up-to-make-smart-vehicles-even-smarter",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/blackberry-and-aws-team-up-to-make-smart-vehicles-even-smarter",
+      "publishedDateTime": "2020-01-06T10:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/2mY8X5N3SSLuWtVUUnBDre-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": "BlackBerry and AWS team up to make smart vehicles even smarter",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-06-microsoft-research-proposes-face-swapping-ai-and-face-forgery-detector.md",
       "title": "Microsoft Research proposes face-swapping AI and face forgery detector",
       "excerpt": "In a pair of academic papers published by teams at Microsoft Research and Peking University ... In June 2019, a report revealed that a spy used an AI-generated profile picture to fool contacts in LinkedIn. And just last December, Facebook discovered hundreds of accounts with profile photos of fake faces synthesized using AI.",
@@ -957,96 +1039,6 @@
           "width": 1200,
           "height": 800,
           "title": "DeepMind’s AI Is Mostly Better Than Specialists at Breast Cancer Diagnosis",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-02-3-things-that-sent-baidu-stock-soaring-to-start-2020.md",
-      "title": "3 Things That Sent Baidu Stock Soaring to Start 2020",
-      "excerpt": "Baidu's Apollo self-driving car program is gearing up. Image source: Baidu. Word emerged on Tuesday that Baidu had been granted a license to test its Apollo driverless cars in Beijing, one of the ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/01/02/3-things-sent-baidu-stock-soaring-to-start-2020.aspx",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/01/02/3-things-sent-baidu-stock-soaring-to-start-2020.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/02/3-things-sent-baidu-stock-soaring-to-start-2020.aspx",
-      "publishedDateTime": "2020-01-02T12:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F552284%2Fbaidu-self-driving-car-fleet.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 675,
-          "title": "3 Things That Sent Baidu Stock Soaring to Start 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-01-02-will-deepminds-breast-cancer-diagnosis-ai-replace-specialists.md",
-      "title": "Will DeepMind’s Breast Cancer Diagnosis AI Replace Specialists?",
-      "excerpt": "Google’s DeepMind team has just published a paper “International evaluation of an AI system for breast cancer screening” showing that their research on artificial intelligence applied to ...",
-      "heat": 114,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/danielshapiro1/2020/01/02/deepminds-ai-diagnoses-breast-cancer-using-medical-images/",
-      "ampWebUrl": "https://www.forbes.com/sites/danielshapiro1/2020/01/02/deepminds-ai-diagnoses-breast-cancer-using-medical-images/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielshapiro1/2020/01/02/deepminds-ai-diagnoses-breast-cancer-using-medical-images/amp/",
-      "publishedDateTime": "2020-01-02T11:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e0e41a50bf81b00072e5ca7%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Will DeepMind’s Breast Cancer Diagnosis AI Replace Specialists?",
           "attribution": null
         }
       ],

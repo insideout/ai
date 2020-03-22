@@ -2,6 +2,88 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-03-07-tensorflow-to-expand-ai-capabilities-into-mobile-iot-javascript.md",
+      "title": "TensorFlow to expand AI capabilities into mobile, IoT, JavaScript",
+      "excerpt": "It has been three years since the open-source machine learning platform TensorFlow was launched, and now the team is announcing new and ambitious plans for the AI library. The TensorFlow Developer ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://sdtimes.com/ai/tensorflow-to-expand-ai-capabilities-into-mobile-iot-javascript/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-06T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2019/03/hero_720.png",
+          "width": 720,
+          "height": 405,
+          "title": "TensorFlow to expand AI capabilities into mobile, IoT, JavaScript",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-06-its-like-you-have-a-hand-again-a-major-breakthrough-in-robotic-limb-technology.md",
+      "title": "'It's like you have a hand again' — A major breakthrough in robotic limb technology",
+      "excerpt": "They're claiming it as a major advance in mind-controlled prosthetics ... \"It's just been really hard to do because the physics is not in your favour.\" While the robotic technology in prosthetic hands has come a long way in recent years, the way ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cbc.ca/radio/quirks/mar-7-new-technology-gives-amputees-a-hand-a-big-dam-proposal-your-dog-s-heat-sensitive-nose-and-more-1.5486967/it-s-like-you-have-a-hand-again-a-major-breakthrough-in-robotic-limb-technology-1.5486974",
+      "ampWebUrl": "https://www.cbc.ca/amp/1.5486974",
+      "cdnAmpWebUrl": "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.5486974",
+      "publishedDateTime": "2020-03-06T13:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBC.ca",
+        "domain": "www.cbc.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.cbc.ca/1.5488452.1583513963!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/mind-control-prosthesis-university-of-michigan.jpg",
+          "width": 620,
+          "height": 349,
+          "title": "'It's like you have a hand again' — A major breakthrough in robotic limb technology",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-06-google-deepminds-effort-on-covid-19-coronavirus-rests-on-the-shoulders-of-giants.md",
       "title": "Google DeepMind’s effort on COVID-19 coronavirus rests on the shoulders of giants",
       "excerpt": "Read More It was that pioneering work, and the decades of research that followed, that made possible the announcement on Thursday by Google's DeepMind that it has arrived at a guess as to the structure of a handful of proteins associated with the ...",
@@ -881,80 +963,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-04-its-like-you-have-a-hand-again-an-ultra-precise-mind-controlled-prosthetic.md",
-      "title": "'It's like you have a hand again': An ultra-precise mind-controlled prosthetic",
-      "excerpt": "finger-level control of a robotic hand. In a major advance in mind-controlled prosthetics for amputees, University of Michigan researchers have tapped faint, latent signals from arm nerves and ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.sciencedaily.com/releases/2020/03/200304141641.htm",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-03T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://ai.insideout.app/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-03-robots-are-poised-to-transform-the-construction-industry.md",
-      "title": "Robots Are Poised To Transform The Construction Industry",
-      "excerpt": "Artificial intelligence already powers driverless cars, virtual assistants and autonomous warehouse robots. And now, technology entrepreneurs are using their expertise to take on the challenges of construction. Construction is among the least digitized industries in the U.S., owing to the labor-intensive and localized nature of the work.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bisnow.com/houston/news/construction-development/robots-are-poised-to-transform-the-construction-industry-103213",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-03T12:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bisnow",
-        "domain": "bisnow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.bisnow.net/fit?height=1200&type=jpeg&url=https%3A%2F%2Fs3.amazonaws.com%2Fcdn.bisnow.net%2Fcontent%2Fimages%2F2020%2F03%2F5e5d9d52553a3-built_robotics_software_interface.jpeg&width=1200&sign=4GS_ORXyGyz0OA9BRvWn7NdbQaexIlXCzPyL6df3RkA",
-          "width": 1200,
-          "height": 799,
-          "title": "Robots Are Poised To Transform The Construction Industry",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

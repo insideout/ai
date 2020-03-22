@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-03-19-the-end-of-starsky-robotics.md",
+      "title": "The End of Starsky Robotics",
+      "excerpt": "In 2015, I got obsessed with the idea of driverless trucks and started Starsky Robotics. In 2016 ... to land many of the vulnerable jobs by the end of January and I’m in the process of selling ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/starsky-robotics-blog/the-end-of-starsky-robotics-acb8a6a8a5f5",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-19T09:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*u_7DPtYho3U38K5MelTEXA.jpeg",
+          "width": 1200,
+          "height": 800,
+          "title": "The End of Starsky Robotics",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-19-amazon-researchers-develop-ai-that-improves-knowledge-graph-performance.md",
       "title": "Amazon researchers develop AI that improves knowledge graph performance",
       "excerpt": "In a new study, researchers at Amazon describe a technique that factors in information about knowledge graphs to perform entity alignment, which entails determining which elements of different graphs refer to the same “entities” (which might be anything from products to song titles). The idea is to improve computational efficiency while at ...",
@@ -1104,43 +1148,6 @@
           "width": 685,
           "height": 319,
           "title": "Test-time augmentation for deep learning-based cell segmentation on microscopy images",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-automatic-optic-nerve-head-localization-and-cup-to-disc-ratio-detection-using-state-of-the-art-deep-learning-architectures.md",
-      "title": "Automatic optic nerve head localization and cup-to-disc ratio detection using state-of-the-art deep-learning architectures",
-      "excerpt": "Computer vision has greatly advanced recently. Since AlexNet was first introduced, many modified deep learning architectures have been developed and they are still evolving. However, there are few studies comparing these architectures in the field of ophthalmology.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nature.com/articles/s41598-020-62022-x",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-19T03:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-62022-x/MediaObjects/41598_2020_62022_Fig1_HTML.png",
-          "width": 685,
-          "height": 502,
-          "title": "Automatic optic nerve head localization and cup-to-disc ratio detection using state-of-the-art deep-learning architectures",
           "attribution": null
         }
       ],

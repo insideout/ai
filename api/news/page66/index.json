@@ -2,6 +2,95 @@
   "page": 66,
   "value": [
     {
+      "path": "_news/2020-01-17-nations-dawdle-on-agreeing-rules-to-control-killer-robots-in-future-wars.md",
+      "title": "Nations dawdle on agreeing rules to control 'killer robots' in future wars",
+      "excerpt": "Countries are rapidly developing “killer robots” - machines with artificial intelligence (AI) that independently kill - but are moving at a snail’s pace on agreeing global rules over their use in future wars,",
+      "heat": 117,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-global-rights-killer-robots-idUSKBN1ZG151",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN1ZG151",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZG151",
+      "publishedDateTime": "2020-01-17T07:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Nations dawdle on agreeing rules to control 'killer robots' in future wars",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-01-17-how-nhs-111-london-is-using-ai-to-ensure-patients-get-the-care-they-need-urgently.md",
+      "title": "How NHS 111 London Is Using AI To Ensure Patients Get The Care They Need Urgently",
+      "excerpt": "In London, the National Health Service’s 111 helpline receives up to 32,000 urgent calls every week. Here's how AI is helping the organisation deliver urgent medical health accurately and quickly.",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/nicholasfearn/2020/01/17/how-nhs-111-london-is-using-ai-to-ensure-patients-get-the-care-they-need-urgently/",
+      "ampWebUrl": "https://www.forbes.com/sites/nicholasfearn/2020/01/17/how-nhs-111-london-is-using-ai-to-ensure-patients-get-the-care-they-need-urgently/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicholasfearn/2020/01/17/how-nhs-111-london-is-using-ai-to-ensure-patients-get-the-care-they-need-urgently/amp/",
+      "publishedDateTime": "2020-01-17T07:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1187779623%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "How NHS 111 London Is Using AI To Ensure Patients Get The Care They Need Urgently",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-17-ab-inbev-taps-machine-learning-to-root-out-corruption.md",
       "title": "AB InBev Taps Machine Learning to Root Out Corruption",
       "excerpt": "The company that stands out for taking a data-driven approach to preventing bribery and corruption isn’t part of the tech sector. In fact, its product predates the wheel.",
@@ -964,95 +1053,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-01-16-meet-the-new-twist-on-data-encryption-that-promises-better-privacy-and-security-for-ai.md",
-      "title": "Meet the new twist on data encryption that promises better privacy and security for AI",
-      "excerpt": "AI and privacy needn’t be mutually exclusive. After a decade in the labs, homomorphic encryption (HE) is emerging as a top way to help protect data privacy in machine learning (ML) and cloud computing. It’s a timely breakthrough: Data from ML is doubling yearly. At the same time, concern about related data privacy and security is growing ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/16/meet-the-new-twist-on-data-encryption-that-promises-better-privacy-and-security-for-ai/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/16/meet-the-new-twist-on-data-encryption-that-promises-better-privacy-and-security-for-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/16/meet-the-new-twist-on-data-encryption-that-promises-better-privacy-and-security-for-ai/amp/",
-      "publishedDateTime": "2020-01-16T13:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/GettyImages-654683563.jpeg?fit=1906%2C953&strip=all",
-          "width": 1906,
-          "height": 953,
-          "title": "Meet the new twist on data encryption that promises better privacy and security for AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-16-eu-mulls-five-year-ban-on-facial-recognition-tech-in-public-areas.md",
-      "title": "EU mulls five-year ban on facial recognition tech in public areas",
-      "excerpt": "The European Union is considering banning facial recognition technology in public areas for up to five years, to give it time to work out how to prevent abuses, according to proposals seen by Reuters.",
-      "heat": 429,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.reuters.com/article/us-eu-ai/eu-mulls-five-year-ban-on-facial-recognition-tech-in-public-areas-idUSKBN1ZF2QL?feedType=RSS&feedName=technologyNews",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN1ZF2QL",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZF2QL",
-      "publishedDateTime": "2020-01-16T13:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
-          "width": 1200,
-          "height": 630,
-          "title": "EU mulls five-year ban on facial recognition tech in public areas",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

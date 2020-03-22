@@ -2,6 +2,80 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-03-13-current-ai-hardware-focus-is-misguided-says-ai-pioneer.md",
+      "title": "Current AI hardware focus is misguided, says AI pioneer",
+      "excerpt": "offered a glimpse of what Facebook is working on, and made some predictions for the future of deep-learning hardware. Le Cun is a renowned visionary in the field of AI, having been at the forefront of neural-network research in the 1980s and 1990s. As a Bell Labs researcher in the late 1980s, he worked with the earliest types of dedicated ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.embedded.com/current-ai-hardware-focus-is-misguided-says-ai-pioneer/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-13T07:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Embedded",
+        "domain": "embedded.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.embedded.com/wp-content/uploads/2020/03/img20200313102416Le-Cun-It-s-Really-Hard-to_0.jpg",
+          "width": 640,
+          "height": 426,
+          "title": "Current AI hardware focus is misguided, says AI pioneer",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-riskalyze-fintech-report-card-february-2020.md",
+      "title": "Riskalyze Fintech Report Card: February 2020",
+      "excerpt": "What Happened: Andrew Altfest, president of a $1 billion RIA firm, launched new advisor technology at the T3 advisor conference this year. The new software promises to use AI to analyze a client’s existing situation and offer tailored recommendations. Why It Matters: It was only a couple of years ago that I was on record saying “in our ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wealthmanagement.com/technology/riskalyze-fintech-report-card-february-2020",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-13T06:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WealthManagement.com",
+        "domain": "wealthmanagement.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.wealthmanagement.com/sites/wealthmanagement.com/files/fintech-report-card-promo.jpg",
+          "width": 2000,
+          "height": 1040,
+          "title": "Riskalyze Fintech Report Card: February 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-13-automated-intent-classification-using-deep-learning-in-google-sheets.md",
       "title": "Automated Intent Classification Using Deep Learning in Google Sheets",
       "excerpt": "Let’s move to build our intent classification service that we will call to populate keyword intents. In my previous deep learning articles, I’ve covered Ludwig, Uber’s AI toolbox. I like it a lot because it allows you to build state-of-the-art deep learning models without writing a single line of code. It is also very convenient to run in ...",
@@ -1091,72 +1165,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-12-artificial-intelligence-in-medical-imaging.md",
-      "title": "Artificial Intelligence in Medical Imaging",
-      "excerpt": "Worldwide Market Reports adds Artificial Intelligence in Medical Imaging Market 2020 Global Analysis Growth Trends and Opportunities Research Report Forecasting to 2024 reports to its database This report provides in depth study of Artificial Intelligence in Medical Imaging Market using",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.openpr.com/news/1965015/artificial-intelligence-in-medical-imaging-market-report-2020",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-12T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-12-podcast-applying-deep-learning-to-extreme-weather.md",
-      "title": "Podcast: Applying Deep Learning to Extreme Weather",
-      "excerpt": "In this podcast, the Radio Free HPC team looks at how researchers are using supercomputers to apply deep learning to extreme weather. A research team from Rice University utilized three supercomputers (TACC’s Stampede 2, Wrangler, and Pittsburg Supercomputing Center’s Bridges system) to see if data on heat waves and cold spells could be ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://insidehpc.com/2020/03/podcast-applying-deep-learning-to-extreme-weather/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-12T07:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insideHPC",
-        "domain": "insidehpc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://insidehpc.com/wp-content/uploads/2019/12/RFHPC-logo-notag-darkblue-svg.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Podcast: Applying Deep Learning to Extreme Weather",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }
