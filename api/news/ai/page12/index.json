@@ -2,6 +2,43 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-03-10-nec-x-and-vaco-partner-on-ai-machine-learning-solution.md",
+      "title": "NEC X and VACO Partner on AI, Machine Learning Solution",
+      "excerpt": "This AI platform runs VACO’s proven Cognitive Computing Framework and can be scaled with the exact number of vector engine (VE) cards needed to process large data sets in real time, for use in machine learning (ML) applications such as PII redaction and GDPR compliance for banking, financial services and insurance (BFSI), as well as several ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.hpcwire.com/off-the-wire/nec-x-and-vaco-partner-on-ai-machine-learning-solution/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-10T08:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HPCwire",
+        "domain": "hpcwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/necx-vaco-press-image-final-300x225.png",
+          "width": 300,
+          "height": 225,
+          "title": "NEC X and VACO Partner on AI, Machine Learning Solution",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-10-deep-learning-electrocardiogram-devices-found-to-be-susceptible-to-adversarial-attack.md",
       "title": "Deep learning electrocardiogram devices found to be susceptible to adversarial attack",
       "excerpt": "A team of researchers from New York University and NYU Langone Health has found that deep learning electrocardiogram devices can be susceptible to adversarial attacks. In their paper published in the journal Nature Medicine, the group describes how they developed an attack approach and tested it with electrocardiogram devices. Over the past ...",
@@ -1088,35 +1125,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-09-american-board-of-artificial-intelligence-in-medicine-abaim-aims-to-educate-and-certify-healthcare-professionals-in-ai-and-related-technologies.md",
-      "title": "American Board of Artificial Intelligence in Medicine (ABAIM) Aims to Educate and Certify Healthcare Professionals in AI, and Related Technologies",
-      "excerpt": "The ABAIM plans to credential healthcare professionals and anyone else who seeks a greater understanding of the growing role and use of artificial intelligence (AI),",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/03/p15508719/american-board-of-artificial-intelligence-in-medicine-abaim-aims-to-educate-and-certify-healthcare",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15508719",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15508719",
-      "publishedDateTime": "2020-03-09T08:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

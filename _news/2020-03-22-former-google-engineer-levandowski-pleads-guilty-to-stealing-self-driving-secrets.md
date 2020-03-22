@@ -1,33 +1,29 @@
 ---
 category: news
-title: "Self-driving car engineer Anthony Levandowski pleads guilty to stealing Google trade secrets"
-excerpt: "Anthony Levandowski, the self-driving car engineer and former Google executive who joined Uber via an acquisition of his autonomous truck company Otto, has agreed to plead guilty to stealing Google trade secrets,"
-publishedDateTime: 2020-03-20T01:26:00Z
-webUrl: "https://www.theverge.com/2020/3/19/21187651/anthony-levandowski-pleads-guilty-google-waymo-uber-trade-secret-theft-lawsuit"
-ampWebUrl: "https://www.theverge.com/platform/amp/2020/3/19/21187651/anthony-levandowski-pleads-guilty-google-waymo-uber-trade-secret-theft-lawsuit"
-cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/3/19/21187651/anthony-levandowski-pleads-guilty-google-waymo-uber-trade-secret-theft-lawsuit"
+title: "Former Google engineer Levandowski pleads guilty to stealing self-driving secrets"
+excerpt: "One of Silicon Valley’s most renowned self-driving engineers agreed to plead guilty to stealing trade secrets from Google. Anthony Levandowski’s plea agreement with prosecutors, filed March 19 in federal court in San Francisco, comes two weeks after a civil dispute with Google drove him to file for bankruptcy. Google won a US$179 million ..."
+publishedDateTime: 2020-03-22T11:29:00Z
+webUrl: "https://driving.ca/auto-news/news/former-google-engineer-levandowski-pleads-guilty-to-stealing-self-driving-secrets"
+ampWebUrl: "https://driving.ca/auto-news/news/former-google-engineer-levandowski-pleads-guilty-to-stealing-self-driving-secrets/amp"
+cdnAmpWebUrl: "https://driving-ca.cdn.ampproject.org/c/s/driving.ca/auto-news/news/former-google-engineer-levandowski-pleads-guilty-to-stealing-self-driving-secrets/amp"
 type: article
-quality: 63
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: The Verge
-  domain: theverge.com
-  images:
-    - url: "https://insideout.app/ai/assets/images/organizations/theverge.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: driving.ca
+  domain: driving.ca
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://cdn.vox-cdn.com/thumbor/-x_yIUtVa3er3RTUFzX13VvnTWI=/0x0:5058x3480/1400x933/filters:focal(2016x1248:2824x2056):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66528877/1176871825.jpg.0.jpg"
-    width: 1400
-    height: 933
-    title: "Self-driving car engineer Anthony Levandowski pleads guilty to stealing Google trade secrets"
+  - url: "https://postmediadriving.files.wordpress.com/2018/09/waymo_minivan_7.jpg?quality=80"
+    width: 2480
+    height: 1600
+    title: "Former Google engineer Levandowski pleads guilty to stealing self-driving secrets"
 
 related:
   - title: "Uber's former self-driving lead pleads guilty to stealing from Google"
@@ -60,21 +56,21 @@ related:
       - url: "https://media1.s-nbcnews.com/i/newscms/2020_12/3277166/200319-anthony-levandowski-2019-ac-1123p_aa34af092ffbf787558f21daa2586052.jpg"
         width: 2500
         height: 1668
-  - title: "Former Google engineer Levandowski pleads guilty to stealing self-driving secrets"
-    excerpt: "One of Silicon Valley’s most renowned self-driving engineers agreed to plead guilty to stealing trade secrets from Google. Anthony Levandowski’s plea agreement with prosecutors, filed March 19 in federal court in San Francisco, comes two weeks after a civil dispute with Google drove him to file for bankruptcy. Google won a US$179 million ..."
-    publishedDateTime: 2020-03-22T11:29:00Z
-    webUrl: "https://driving.ca/auto-news/news/former-google-engineer-levandowski-pleads-guilty-to-stealing-self-driving-secrets"
-    ampWebUrl: "https://driving.ca/auto-news/news/former-google-engineer-levandowski-pleads-guilty-to-stealing-self-driving-secrets/amp"
-    cdnAmpWebUrl: "https://driving-ca.cdn.ampproject.org/c/s/driving.ca/auto-news/news/former-google-engineer-levandowski-pleads-guilty-to-stealing-self-driving-secrets/amp"
+  - title: "Self-driving car engineer Anthony Levandowski pleads guilty to stealing Google trade secrets"
+    excerpt: "Anthony Levandowski, the self-driving car engineer and former Google executive who joined Uber via an acquisition of his autonomous truck company Otto, has agreed to plead guilty to stealing Google trade secrets,"
+    publishedDateTime: 2020-03-20T01:26:00Z
+    webUrl: "https://www.theverge.com/2020/3/19/21187651/anthony-levandowski-pleads-guilty-google-waymo-uber-trade-secret-theft-lawsuit"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/3/19/21187651/anthony-levandowski-pleads-guilty-google-waymo-uber-trade-secret-theft-lawsuit"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/3/19/21187651/anthony-levandowski-pleads-guilty-google-waymo-uber-trade-secret-theft-lawsuit"
     type: article
     provider:
-      name: driving.ca
-      domain: driving.ca
-    quality: 39
+      name: The Verge
+      domain: theverge.com
+    quality: 63
     images:
-      - url: "https://postmediadriving.files.wordpress.com/2018/09/waymo_minivan_7.jpg?quality=80"
-        width: 2480
-        height: 1600
+      - url: "https://cdn.vox-cdn.com/thumbor/-x_yIUtVa3er3RTUFzX13VvnTWI=/0x0:5058x3480/1400x933/filters:focal(2016x1248:2824x2056):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66528877/1176871825.jpg.0.jpg"
+        width: 1400
+        height: 933
   - title: "Google’s former self-driving car engineer pleads guilty to stealing trade secrets before working with Uber"
     excerpt: "An engineer once at the head of Google’s self-driving car unit has pleaded guilty to stealing trade secrets from the internet giant before joining up with rival company, Uber. Anthony Levandowski admitted he downloaded thousands of proprietary files from an internal Google server in 2015 before he exited the company to go into business for ..."
     publishedDateTime: 2020-03-20T14:54:00Z
@@ -91,6 +87,6 @@ related:
         width: 1200
         height: 800
 
-secured: "jq4oFc/5d16xV8s8CJxA776ZGJR12aj+K2UfJk8dqEgu7/Qy4Bj3PqFSGq1P9LXGnqLhsGE+b/ldsGKfJiSiq6H6i/6DowP6ReFMZ/H2MyVhQc74Z7a75NEODpjrJ/gGEgu4u4n3SOcd0l81lKEOW4uXv2JWSp+P99nzTq+f4L+8inNdcRmigRGPcs6Z0s1JbZnCmTzTNQGE0zC9AuPdgAx+TitHa8lQ1+2Pd2dh1kJl4HBDMHh27TAGoLA/Qcfm7uiFUI64tqEj2jRBgolKRpw8mH2DQdqL6JjOrWe5JV9tqhqOoX2slEj+Edw6GZy8y6ceTBRQZgVp37rVpSYhfbJy8FAHfoxCeE5J/PU69sI8dowNulkYOxTJGQxApQ8lqtVroyFBLuLFZBjC8JLxAL1etGtq3YqnqV+LmYwXOEogdsXKu9IcjAgp5Y5qjVyuXF85pnXWAYRiu1TRif/hkCMIJ27LqdX5MK8jXfyj0AQ=;eS8gYeN24leVruGyXNwPnQ=="
+secured: "uPnH3KtbDaUXbJiw0M3t/2QTW02ZxeBs9BIwj5C2lWVCZaCi4hpv5gH7zjJGegt83UUS73CCDWDblIGEOubc26Cvc6MCPZ/7tXVeoQwj9ZqYytJdPMsyx+5VgZz6tv5ku8pDpn5exXmnHqfQe1E9QyZcs3qN50aJcPnyvbMUev2OPNr6GXqb25kJmSPiU1ptEfXH80BJyAL+nXENREBMl3f21z+z0Rmw24v4SKIdsgF0CGyeq4shQ9d+Dhn9YG8kWvrsffB9Esot8K0JTEQpgpYs75HW4ie/nY91PgzZ/NKFHJgytZyljBFUH0rBJ42L;dTXYvuGNb+DWigNfgVpvww=="
 ---
 

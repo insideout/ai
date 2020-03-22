@@ -904,6 +904,42 @@
       ]
     },
     {
+      "path": "_news/2020-03-13-philly-startup-that-uses-ai-to-detect-guns-raises-25m-for-massive-pipeline-ahead.md",
+      "title": "Philly startup that uses AI to detect guns raises $2.5M for 'massive pipeline' ahead",
+      "excerpt": "Philadelphia tech startup ZeroEyes raised $2.5 million in seed funding as the company aims to capitalize on a swell of interest in its gun-detection software for surveillance cameras.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bizjournals.com/philadelphia/news/2020/03/13/phillystartup-that-uses-ai-to-detect-guns-raises-2.html",
+      "ampWebUrl": "https://www.bizjournals.com/philadelphia/news/2020/03/13/phillystartup-that-uses-ai-to-detect-guns-raises-2.amp.html",
+      "cdnAmpWebUrl": "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/philadelphia/news/2020/03/13/phillystartup-that-uses-ai-to-detect-guns-raises-2.amp.html",
+      "publishedDateTime": "2020-03-13T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.bizj.us/view/img/11628102/zeroeyes*600xx1013-675-94-0.png",
+          "width": 600,
+          "height": 399,
+          "title": "Philly startup that uses AI to detect guns raises $2.5M for 'massive pipeline' ahead",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-13-computer-vision-for-quality-control-cross-industrial-applications.md",
       "title": "Computer Vision For Quality Control: Cross-Industrial Applications",
       "excerpt": "Computer vision and machine learning can significantly augment the current activities of millions of workers, improve the accuracy level of operations and decrease the number of errors.",
@@ -1138,43 +1174,6 @@
           "width": 1199,
           "height": 675,
           "title": "Islamic Fintech Startups On The Rise In Southeast Asia",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-13-boosting-the-power-of-machine-learning.md",
-      "title": "Boosting the power of machine learning",
-      "excerpt": "Eigen Technologies Co-founder and CEO Dr Lewis Liu said “In the years we have worked with ING we have found them to have some of the most advanced thinking in the market on the application of machine learning in financial services, something that comes from their fantastic innovation culture.” “To have ING join us as both an investor and ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.ing.com/Newsroom/News/Boosting-the-power-of-machine-learning.htm",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-13T00:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ING",
-        "domain": "ing.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.ing.com/upload/d72ef16a-4651-440e-b6cf-d625a1bcb29f_orange-juice_1200x675.png",
-          "width": 1200,
-          "height": 675,
-          "title": "Boosting the power of machine learning",
           "attribution": null
         }
       ],

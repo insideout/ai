@@ -2,6 +2,88 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2020-02-03-microsoft-looks-to-expand-into-ai-as-cloud-computing-drives-q2-results.md",
+      "title": "Microsoft looks to expand into AI as cloud computing drives Q2 results",
+      "excerpt": "while adding that Microsoft also plans to develop more AI capabilities in Azure. “Cognitive Services, now integrated with Azure Data Lake, enables customers to use industry-leading AI capabilities to easily analyze images, text, emotions, and sentiments at petabyte scale.” Mandy is a lineup editor at CTV News. A former staffer at IT World ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.itworldcanada.com/article/microsoft-looks-to-expand-into-ai-as-cloud-computing-drives-q2-results/390316",
+      "ampWebUrl": "https://www.itworldcanada.com/article/microsoft-looks-to-expand-into-ai-as-cloud-computing-drives-q2-results/390316?amp=1",
+      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/microsoft-looks-to-expand-into-ai-as-cloud-computing-drives-q2-results/390316?amp=1",
+      "publishedDateTime": "2020-02-03T12:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT World Canada",
+        "domain": "itworldcanada.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.itworldcanada.com/wp-content/uploads/2016/03/249A0332-1-620x250.jpg",
+          "width": 620,
+          "height": 250,
+          "title": "Microsoft looks to expand into AI as cloud computing drives Q2 results",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-03-aws-slowdown-wont-slow-down-amazon-shares.md",
+      "title": "AWS Slowdown Won't Slow Down Amazon Shares",
+      "excerpt": "AWS also launched initiatives to advance quantum computing technologies with a service that allows professionals to experiment with computers from quantum hardware providers in one place. And five new artificial-intelligence services are meant to put machine learning in the hands of more developers. Operating expenses have climbed from quarter ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/02/03/aws-slowdown-wont-slow-down-amazon-shares.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/02/03/aws-slowdown-wont-slow-down-amazon-shares.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/02/03/aws-slowdown-wont-slow-down-amazon-shares.aspx",
+      "publishedDateTime": "2020-02-03T11:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F555651%2Fgettyimages-1159763203.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 675,
+          "title": "AWS Slowdown Won't Slow Down Amazon Shares",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-03-how-to-leverage-ai-to-upskill-employees.md",
       "title": "How to Leverage AI to Upskill Employees",
       "excerpt": "There’s also another part to this story: How AI can help boost the economy by improving how we learn. In 2018, 2.4 million STEM jobs in the U.S. went unfilled. That’s almost equal to the entire population of Los Angeles or Chicago. It’s a gap causing problems for employers trying to recruit and retain workers, whether in startups ...",
@@ -976,88 +1058,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-02-02-coronavirus-can-ai-artificial-intelligence-make-a-difference.md",
-      "title": "Coronavirus: Can AI (Artificial Intelligence) Make A Difference?",
-      "excerpt": "However, could technologies like AI (Artificial Intelligence) help out ... “In recent times, immunotherapy and Gene therapy empowered through AI algorithms such as boltzmann machines (entropy ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/tomtaulli/2020/02/02/coronavirus-can-ai-artificial-intelligence-make-a-difference/",
-      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2020/02/02/coronavirus-can-ai-artificial-intelligence-make-a-difference/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/02/02/coronavirus-can-ai-artificial-intelligence-make-a-difference/amp/",
-      "publishedDateTime": "2020-02-02T08:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-02-02-intel-is-sacrificing-previous-ai-acquisitions-for-habana.md",
-      "title": "Intel is sacrificing previous AI acquisitions for Habana",
-      "excerpt": "The big picture: Intel is keen to break new ground in the AI space, but playing hard and fast often results in casualties. Today that’s Nervana, an AI chip startup that Intel acquired in 2016 for roundabouts $400 million. Existing agreements will be honored, but from now on, all AI research efforts will be directed by Habana Labs. Intel ...",
-      "heat": 199,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techspot.com/news/83826-intel-sacrificing-their-previous-ai-acquisitions-habana.html",
-      "ampWebUrl": "https://www.techspot.com/amp/news/83826-intel-sacrificing-their-previous-ai-acquisitions-habana.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83826-intel-sacrificing-their-previous-ai-acquisitions-habana.html",
-      "publishedDateTime": "2020-02-02T08:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/ts3_thumbs/2020/02/2020-02-02-ts3_thumbs-dcf.jpg",
-          "width": 800,
-          "height": 560,
-          "title": "Intel is sacrificing previous AI acquisitions for Habana",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

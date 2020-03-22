@@ -2,6 +2,43 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-03-13-boosting-the-power-of-machine-learning.md",
+      "title": "Boosting the power of machine learning",
+      "excerpt": "Eigen Technologies Co-founder and CEO Dr Lewis Liu said “In the years we have worked with ING we have found them to have some of the most advanced thinking in the market on the application of machine learning in financial services, something that comes from their fantastic innovation culture.” “To have ING join us as both an investor and ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.ing.com/Newsroom/News/Boosting-the-power-of-machine-learning.htm",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-13T00:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ING",
+        "domain": "ing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.ing.com/upload/d72ef16a-4651-440e-b6cf-d625a1bcb29f_orange-juice_1200x675.png",
+          "width": 1200,
+          "height": 675,
+          "title": "Boosting the power of machine learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-13-infosys-ranked-a-leader-in-nelsonhalls-cognitive-and-self-healing-it-infrastructure-management-services-report-2020.md",
       "title": "Infosys Ranked a Leader in NelsonHall's Cognitive and Self-Healing IT Infrastructure Management Services Report 2020",
       "excerpt": "BENGALURU, India, March 13, 2020 /CNW/ -- Infosys has been ranked a Leader in NelsonHall's Cognitive and Self-Healing IT Infrastructure Management Services ... READ NOW: Microsoft is canceling ...",
@@ -80,7 +117,8 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -1067,51 +1105,6 @@
         "AI in Robotics",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-03-12-machine-learning-as-a-service-market-overview-and-scope-industry-outlook-size-forecast-2020-2025.md",
-      "title": "Machine Learning as a Service Market -overview and scope, Industry Outlook, Size & Forecast 2020-2025",
-      "excerpt": "New York, March 12, 2020: Machine learning as a service Market incorporates a comprehensive vary of services and solutions and techniques reticular closely to computing (AI), that performs applied mathematics analysis of input file to know its current or future relationship and performance.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market--overview-and-scope-industry-outlook-size-forecast-2020-2025-2020-03-12",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-11T23:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Machine Learning as a Service Market -overview and scope, Industry Outlook, Size & Forecast 2020-2025",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

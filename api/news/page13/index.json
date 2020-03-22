@@ -2,6 +2,35 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-03-11-the-ethical-use-of-ai-on-low-wage-workers.md",
+      "title": "The ethical use of AI on low-wage workers",
+      "excerpt": "Also read: Should there be a code of ethics in technology? Hourly workers such as warehouse workers may be adversely impacted by AI-enabled workforce management systems. Lower-wage workers stand to lose the most with the rise of automation while white-collar workers are generally unaffected, the report noted. It cited a McKinsey & Co. study ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.workforce.com/news/artificial-intelligence-ethics-for-managing-low-wage-workers",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-11T01:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Workforce",
+        "domain": "workforce.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-11-artificial-intelligence-ibms-watson-now-understands-idioms-after-sentiment-update.md",
       "title": "Artificial intelligence: IBM's Watson now understands idioms after 'sentiment' update",
       "excerpt": "Artificial intelligence researchers at IBM have introduced a major upgrade to the famed Watson computer, allowing it to understand idioms and colloquialisms for the first time. IBM says the update makes it the first commercial AI system capable of identifying, understanding and analysing some of the most challenging aspects of the English language.",
@@ -968,51 +997,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-twilio-rival-messagebird-launches-inbox-an-ai-powered-contact-center.md",
-      "title": "Twilio rival MessageBird launches Inbox, an AI-powered contact center",
-      "excerpt": "It also leans on AI and automation to anticipate what a customer might be looking for, detect sentiment and intent, translate between languages, and more. Inbox will be available for free to companies with up to five customer service agents and 500 customer contact threads — above that, it will offer customized pricing depending on the number ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/10/twilio-rival-messagebird-launches-inbox-an-ai-powered-contact-center/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/10/twilio-rival-messagebird-launches-inbox-an-ai-powered-contact-center/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/10/twilio-rival-messagebird-launches-inbox-an-ai-powered-contact-center/amp/",
-      "publishedDateTime": "2020-03-10T09:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/Inbox-by-MessageBird_Press-Voice.png?fit=1866%2C925&strip=all",
-          "width": 1866,
-          "height": 925,
-          "title": "Twilio rival MessageBird launches Inbox, an AI-powered contact center",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

@@ -2,6 +2,87 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2020-01-27-ai-can-help-cancer-patients-start-radiation-therapy-sooner.md",
+      "title": "AI can help cancer patients start radiation therapy sooner",
+      "excerpt": "Artificial intelligence can help cancer patients start their radiation therapy sooner - and thereby decrease the odds of the cancer spreading - by instantly translating complex clinical data into ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.news-medical.net/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx",
+      "publishedDateTime": "2020-01-26T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.news-medical.net/image.axd?picture=2014%2f7%2fRadiation_Therapy-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": "AI can help cancer patients start radiation therapy sooner",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-01-26-clearview-ais-database-has-amassed-3-billion-photos-this-is-how-if-you-want-yours-deleted-you-have-to-opt-out.md",
+      "title": "Clearview AI’s Database Has Amassed 3 Billion Photos. This Is How If You Want Yours Deleted, You Have To Opt Out",
+      "excerpt": "The Clearview AI nightmare has already been well-documented. Now, it’s emerged that if you want to be deleted from its 3 billion image database, you have to prove who you are first.",
+      "heat": 166,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/kateoflahertyuk/2020/01/26/clearview-ais-database-has-amassed-3-billion-photos-this-is-how-if-you-want-yours-deleted-you-have-to-opt-out/",
+      "ampWebUrl": "https://www.forbes.com/sites/kateoflahertyuk/2020/01/26/clearview-ais-database-has-amassed-3-billion-photos-this-is-how-if-you-want-yours-deleted-you-have-to-opt-out/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kateoflahertyuk/2020/01/26/clearview-ais-database-has-amassed-3-billion-photos-this-is-how-if-you-want-yours-deleted-you-have-to-opt-out/amp/",
+      "publishedDateTime": "2020-01-26T06:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x498/https://specials-images.forbesimg.com/imageserve/1139858627/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 498,
+          "title": "Clearview AI’s Database Has Amassed 3 Billion Photos. This Is How If You Want Yours Deleted, You Have To Opt Out",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-26-ibms-watson-center-pitches-ai-for-everyone-from-chefs-to-engineers.md",
       "title": "IBM’s Watson Center pitches AI for everyone, from chefs to engineers",
       "excerpt": "But IBM is betting its AI can “extract the insights” from data to help its clients stay ahead of the curve, Nebo said. For example, Watson’s AI could reveal a preference for avocado oil over ...",
@@ -1180,88 +1261,6 @@
       "topics": [
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-01-24-im-obsessed-with-the-circle-and-its-ridiculous-voice-assistant.md",
-      "title": "I'm obsessed with 'The Circle' and its ridiculous voice assistant",
-      "excerpt": "But it's tough to ignore all the low-budget technology knowing that it's possible to up to ante. Do I expect Netflix to come back in Season 2 with voice recognition? Absolutely not. However, I do hope they find ways to make it less obvious that there is a literal human sitting in some production room trying to transcribe all the messages as ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://mashable.com/article/the-circle-voice-assistant/",
-      "ampWebUrl": "https://mashable.com/article/the-circle-voice-assistant.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/the-circle-voice-assistant.amp",
-      "publishedDateTime": "2020-01-24T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/uploads%252Fcard%252Fimage%252F1163038%252F410aca9b-e5be-43f7-9ccd-52aa90c0bcd3.png%252Foriginal.png?signature=sjYMcDOANq8SkYAN9zv9QCyMZjM=&source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com",
-          "width": 1230,
-          "height": 1073,
-          "title": "I'm obsessed with 'The Circle' and its ridiculous voice assistant",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-01-24-with-3d-printed-custom-shoes-and-butler-robots-technology-is-reshaping-hospitality.md",
-      "title": "With 3D-printed custom shoes and butler robots, technology is reshaping hospitality",
-      "excerpt": "At an Aloft hotel in Cupertino, you might be served tea by a robot butler quaintly named Botlr ... “Companies that don’t embrace technology as an enabler will disappear,” said Dilip Puri. Artificial Intelligence will allow guest experience to become so much better. Chatbots are already making the booking experience easier.",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://qz.com/india/1790645/blockchain-bots-reshaping-indian-hotels-marriott-taj-itc/",
-      "ampWebUrl": "https://qz.com/india/1790645/blockchain-bots-reshaping-indian-hotels-marriott-taj-itc/amp/",
-      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/india/1790645/blockchain-bots-reshaping-indian-hotels-marriott-taj-itc/amp/",
-      "publishedDateTime": "2020-01-23T22:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Quartz",
-        "domain": "qz.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/qz.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cms.qz.com/wp-content/uploads/2020/01/hotel-e1579842060851.jpg?quality=75&strip=all&w=1400",
-          "width": 1400,
-          "height": 787,
-          "title": "With 3D-printed custom shoes and butler robots, technology is reshaping hospitality",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

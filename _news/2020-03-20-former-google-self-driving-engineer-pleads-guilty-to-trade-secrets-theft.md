@@ -56,6 +56,21 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/-x_yIUtVa3er3RTUFzX13VvnTWI=/0x0:5058x3480/1400x933/filters:focal(2016x1248:2824x2056):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66528877/1176871825.jpg.0.jpg"
         width: 1400
         height: 933
+  - title: "Former Google engineer Levandowski pleads guilty to stealing self-driving secrets"
+    excerpt: "One of Silicon Valley’s most renowned self-driving engineers agreed to plead guilty to stealing trade secrets from Google. Anthony Levandowski’s plea agreement with prosecutors, filed March 19 in federal court in San Francisco, comes two weeks after a civil dispute with Google drove him to file for bankruptcy. Google won a US$179 million ..."
+    publishedDateTime: 2020-03-22T11:29:00Z
+    webUrl: "https://driving.ca/auto-news/news/former-google-engineer-levandowski-pleads-guilty-to-stealing-self-driving-secrets"
+    ampWebUrl: "https://driving.ca/auto-news/news/former-google-engineer-levandowski-pleads-guilty-to-stealing-self-driving-secrets/amp"
+    cdnAmpWebUrl: "https://driving-ca.cdn.ampproject.org/c/s/driving.ca/auto-news/news/former-google-engineer-levandowski-pleads-guilty-to-stealing-self-driving-secrets/amp"
+    type: article
+    provider:
+      name: driving.ca
+      domain: driving.ca
+    quality: 39
+    images:
+      - url: "https://postmediadriving.files.wordpress.com/2018/09/waymo_minivan_7.jpg?quality=80"
+        width: 2480
+        height: 1600
   - title: "Google’s former self-driving car engineer pleads guilty to stealing trade secrets before working with Uber"
     excerpt: "An engineer once at the head of Google’s self-driving car unit has pleaded guilty to stealing trade secrets from the internet giant before joining up with rival company, Uber. Anthony Levandowski admitted he downloaded thousands of proprietary files from an internal Google server in 2015 before he exited the company to go into business for ..."
     publishedDateTime: 2020-03-20T14:54:00Z
