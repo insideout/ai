@@ -117,8 +117,6 @@ collections:
     output: true
   posts:
     output: true
-  news:
-    output: false
   learning:
     output: true
   projects:
