@@ -24,6 +24,6 @@ images:
     height: 562
     title: "Bigger Screens, Smaller AI: What CES 2020 Told Us About the Future of Cars"
 
-secured: "Wg6J4OChmER8KcRaBXR05EUmPxiqd30xO2U1EQkEaZ7+eaNZuhSQOhjcAV6JZq5YNqKvenUL1boYJUKeyBFdAXNcUwaeawHZfaswYLcdp7s0UAZNnzTBgV+qCSjQ9Z+XKYdjuro2wYtlxDnDx7ECI4srgsnQfOaPIgpWvOqNueqpLNT3Iy+rJng51dtHliO5Qkz8pfz/zaLqcVOQ8W2iRKZn4TzQWtPIrkW8/1ov8vHqNEFnweyzvoZvJyLb14KdADW2FPJjBMeBwh4f/HMqjca9AffqPTL1ocv7n5hcCYeLqkg87DUVW5hJK+jO4ETY;vIdaiRYipz6n2EVg0dNITQ=="
+secured: "axfZOlBJmFxe3MhX3w2xwQVA4GAU4gqB5O+FTqhyjb3zcQY/FcGXSVUiDRUTJiVww+1jDH+V+OV65WbkNRi79PGrX+UfYgExZzJitHP8Ad38cRwGgfws7jqm6uk/SsMom6JyKi4+MWzpSDrSkQEU6QEvG8pqRL/ST3SlR+v3mbe+IC0HpkSuWgd2aazDmgt+pifQe/atPkhonE7KAWw2RoyOo0ygpB4Esw014V17U0FO/++4ik6G9iCQreSe9WYs9bbZQLN1t817ERFf1E3oa/YQSprDDPpFe/SMnHNt6IUlqtzPPaYi213IIscCRJwxLkGz/XnXRLfokOd5o5p7nqDlziJhcEzrRR4sxmhC9MaCP+612F37rV9kF6ZfkDEltTfDrtsRWcBKcvWWXJP5RklVpJTMf4VLJVGP5Fr4qZ/HJCSVf6BwM6lXBbU6YIWUlcjLw8XzdoZz5n8f7sQC5Sz97VZcVITnPbJZXjURGHI=;fdTuc2auuxET0IuA5d3dUg=="
 ---
 

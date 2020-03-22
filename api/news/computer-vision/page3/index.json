@@ -2,6 +2,51 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-02-18-chinas-facial-recognition-giant-says-it-can-crack-masked-faces-during-the-coronavirus.md",
+      "title": "China’s facial-recognition giant says it can crack masked faces during the coronavirus",
+      "excerpt": "China’s SenseTime, the world’s most valuable AI startup, said earlier this month (link in Chinese) that it was rolling out a facial-recognition products that incorporates thermal imaging cameras to help spot people with elevated temperatures at building entrances and airport checkpoints, and send pop-up alerts to users of the software.",
+      "heat": 276,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://qz.com/1803737/chinas-facial-recognition-tech-can-crack-masked-faces-amid-coronavirus/",
+      "ampWebUrl": "https://qz.com/1803737/chinas-facial-recognition-tech-can-crack-masked-faces-amid-coronavirus/amp/",
+      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/1803737/chinas-facial-recognition-tech-can-crack-masked-faces-amid-coronavirus/amp/",
+      "publishedDateTime": "2020-02-18T01:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quartz",
+        "domain": "qz.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/qz.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cms.qz.com/wp-content/uploads/2020/02/1581746326404096.png?w=1400&strip=all&quality=75",
+          "width": 875,
+          "height": 492,
+          "title": "China’s facial-recognition giant says it can crack masked faces during the coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-02-18-protect-yourself-from-coronavirus-with-a-mask-that-looks-like-your-face.md",
       "title": "Protect yourself from coronavirus with a mask that looks like your face",
       "excerpt": "It's hard to stand out in a crowd when everyone's wearing the same bone-white N95 protective facial mask. That could change if one San Francisco designer follows through on her idea to custom-print the respirator masks with images of wearers' faces.",
@@ -1211,43 +1256,6 @@
       "topics": [
         "AI",
         "AI Ethics",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-02-05-facial-recognition-tech-used-by-volusia-deputies-criticized-for-scraping.md",
-      "title": "Facial recognition tech used by Volusia deputies criticized for ‘scraping’",
-      "excerpt": "VOLUSIA COUNTY, Fla. – The company behind a facial recognition tool used by the Volusia County Sheriff's Office is coming under fire after some large tech companies said the tool is violating their terms of use. According to CBS News, Clearview AI received cease and desist letters late Tuesday from Google and YouTube. The letters surrounded ...",
-      "heat": 107,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.clickorlando.com/news/local/2020/02/05/facial-recognition-tech-used-by-volusia-deputies-criticized-for-scraping/",
-      "ampWebUrl": "https://www.clickorlando.com/news/local/2020/02/05/facial-recognition-tech-used-by-volusia-deputies-criticized-for-scraping/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-clickorlando-com.cdn.ampproject.org/c/s/www.clickorlando.com/news/local/2020/02/05/facial-recognition-tech-used-by-volusia-deputies-criticized-for-scraping/?outputType=amp",
-      "publishedDateTime": "2020-02-05T09:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Click Orlando",
-        "domain": "clickorlando.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.clickorlando.com/resizer/syuR8q6vwxMyru2rNYma_d0G08I=/1280x720/smart/d1vhqlrjc8h82r.cloudfront.net/02-05-2020/t_c135930710cf4c64b2d2ae41a449e0e0_name_image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Facial recognition tech used by Volusia deputies criticized for ‘scraping’",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
         "Computer Vision"
       ]
     }

@@ -19,6 +19,6 @@ images:
     height: 364
     title: "Client Note: Aon Acquires Willis Towers Watson For $30B, Nvidia Buys An AI Startup, Ant Financial Invests In Klarna, And More"
 
-secured: "kBoiAEXOwP8b8/xAl5j9PrdPrRrYCvw+RaZmhspUkFngiZaAvJi3JlS8fO6IoceHF8OeMgU8oklNNzd/g38oMxz26+f9iN80+E5MdEXhwiQ8/mHJy15KRKkzy1kOiYfcaHgjF60PpBOFz1xAHvbI/nxCWuBVWX3NpLSPiqOANw96RtsB2uT/ROSBQ3q5oJdKtBftVCaIXnWDisnagR69nu6/ViEm+M14G53qgQ+ia1r3o2GZOkajcWyZUbo/hjJ2304qlWSFovyTE1cRhFkConEirSmLbCqZ3SgHgo+6AGk0CWccxKsI/YcJRKOiUVCb;w08J5yckdBbEKwcP9jPVsw=="
+secured: "Y+Ws/G8gnfY5m3CrXEEaOaICXOFJDqiFZrWSs2gbaiNqypDzH4y12foxpvbThupq2ATzmFKTeReHKxV3ibWZFobc0yUCURy3rM+Qa7yhC4ESJT1AD/L7u3XVgNMeyHp8dsm6knc3+uv0ogJgqIs9Zcm0oqi1KDrbnrlF0sRjqhQaPQ5Oy/fTtshxofYbE8MkqmWMFC6AkS5rHJGXnGK1QQwkPvUWuJwNXI9GlikCoBA8uK2t5RzGN8Ji+HNziVHO4GHy+aLt3yX0qJYiNe2VxX2IG8adCCwTuIBee8P6XcyWlrUFzQ5P8f9NrAxMYb188kOVIfjxMQvf3dyZWbatoW4efU/QkaWNZPWOAaGX2y7PHqtJsloVcCxzEpGkmvFacVQWKltE2qqLVmowkmqfoPI3jsK1xaDqclA2GPpMhXeZQjgS+jCwxRX+n4/bWCHequ5z5MNPNqxR+LX6CcAlvVCg8MAwYx7///z67ISZVuE=;5SCmB8vPUkb6nMHxbZIinw=="
 ---
 
