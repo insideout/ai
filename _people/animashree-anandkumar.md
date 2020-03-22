@@ -14,14 +14,14 @@ website: https://t.co/cr0ijXcp1F
 twitter:
   username: animaanandkumar
   url: https://twitter.com/animaanandkumar
-  followers: 25741
+  followers: 27724
 
 linkedin:
   url: https://www.linkedin.com/in/anima-anandkumar/
 
 googleScholar:
   url: https://scholar.google.com/citations?user=bEcLezcAAAAJ
-  citations: 5773
+  citations: 5978
 
 topics:
   - AI
@@ -32,6 +32,6 @@ images:
     height: 400
     title: "Animashree Anandkumar"
 
-secured: "F+5ypC/dAuD5ex1r0+XYb60WgAz9TPFbmsJp7sre/C4uXqpbv0ApoaKUzD18tCBYnGeA4Jj/q/6EcnckOMgdMSLOyPmLasIYWke8IYDyZdohmBCE+d/fA358E1xDSDoxJvpyvWZO6itQiowxa0PZS6ZHzacL3CjWgKXHaDPRwsNmxrsE3aobzRcn+BwoPIQeo7CTjglpiTDwoT/wDYVbSSK3PtJIoOLY+8h9srghR/NR5LfldPkX5Cxlgs4dLoFSgS9CAxROTgsQJWFilkqkr9wDvMCdWfmQgTXfm6fGrdyGBqr0e9MKlYSQOB02r/C3UIj6uzjbMz2L20KvOkJ4bA==;cqf07B7J7ZG6K8BR2GvpOQ=="
+secured: "tqSIHquL57NKwrNPZharOxyOFQInQudCx58WbH9kM2b4KxivK5DWUMhaXVcmB7N+/uRcPOqVX4uNdhpCO8CQlM07wRv2iGZcp+s6xNuuThsX+HsatNiFy5OGRipbWJ7Wcxke4u4Ozji0oaOAqZJ12MjCLU8rZB4jtIFNknUJ06M9IcWtpg40RCUr7ETgStSsDpiKHbcyyLOM4uC+ygpI+EmCX22qaFbY49mtInZHprMm1RhSE0MOd5fBkFn2sR9b0HlltCHCz2A/oJdv6LwJI/pQTAzhq6jwLQmTS/Zc9O+2Y8w+VFZqa12H3n9cXiuH1PIketAfAfgq7PpucgiQ/A==;0dSxeL08DoBj6liyyZnJiA=="
 ---
 

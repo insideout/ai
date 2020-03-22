@@ -2,7 +2,7 @@
 name: "Maurizio Pierini"
 bio: "CERN"
 type: "profile"
-heat: 388
+heat: 409
 published: false
 
 affiliation:
@@ -11,7 +11,7 @@ affiliation:
 
 googleScholar:
   url: https://scholar.google.com/citations?user=3vZMAs4AAAAJ
-  citations: 149419
+  citations: 152167
 
 topics:
   - AI
@@ -23,6 +23,6 @@ images:
     height: 126
     title: "Maurizio Pierini"
 
-secured: "ughUwjvHj34UrcZwD+1SoquqIXiW2O0w9KiR1pqIitkaz1K7YcGrjUv6RavgfYIcEbucWWG7AzLCYX31WnmxOotWfhFaCtkmBnKAE6TqX/8GbxBRMqu13EOabE4mhP7NfFtilXPaN0MJrM6drB0qllnWD+upMnAAFx/vXdiFVSnq3MBD9w+hU2yIJBcYRfiTmAFlBfOERDCVhDpj2g0D3t0Zf04nLve4CwIxvk3eGDnwRzykmuwJ6XLVVmgDrbvKmzl1ZBmwAiZCWj0yq9F9icNNpVT81ODR3tDIW54XrKNr/bGO3THVnF/pbsp7vTlU/n8h4i5XxdlQZ4gBPEBsNg==;v8txnLRYQ7eo3QZKa+eozQ=="
+secured: "Rcvs9cRiFk8JgHbH0DC7LzcWE2iF99xa0vIpZgDKpzME4BajqAqS5GvH1gN6aa5gee3+issAI1PUyNo0+dfk4y6uloxc6Mp7a9d/lvfFs6C18PXmDiXTQ+g+XyNB1wAGRcaMvoF1jOrwBCoPEJVEDabY4pFattvCrrezwkqsm699DW43BJ9oNDSMr3kIlxtqVeXoGKjHy/e77rpQvKku76VfjldKl8iSN+s6gu6zfZZZhoJ7yyX6wWQ0oFoz8qoGL4dRT1LePkXpCCI8QhQUg+eBPCvZZ4nZCshn+AJiPmtFwIeStcGxHhN7cy0zVamfPrqtqgxIcFI9IQwQtKKY8g==;4rfmtR0fpG0obGB8gutFeA=="
 ---
 

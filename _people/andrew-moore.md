@@ -10,7 +10,7 @@ website: http://www.cs.cmu.edu/~awm/
 twitter:
   username: awmcmu
   url: https://twitter.com/awmcmu
-  followers: 5592
+  followers: 5632
 
 linkedin:
   url: https://www.linkedin.com/in/andrew-moore-016b751
@@ -26,6 +26,6 @@ images:
     height: 400
     title: "Andrew Moore"
 
-secured: "QVt3QaGn1B+66led6ZL8vrXBnl4WdOLUb0jsFqfyR37Bwpz1W4nXkfqKxhwIkp2B5m6rcjXjjilt351sYrgVPKNuz5ZIoGW9yAy++cTvyg0jrQG0wHIu+I49b6M3S+TdHwASihTC4IUEvUQEcpu7fn5BoQOUUZ8hg7+vcdoU6y0TYzMk5kEIPL+M/k/yZQ67oO5buRMcPfLstwUTsqCr3XZ5NtxZzeL/XaN/q+BaVSHZ1bPiUAoZYbE9D9pQdAwIZaPsn4mQR/bG1mvAGMqus9CzuT2nYp5ZepbG6QDdsAgfsp+35jKhaux66VYmJUfC2xtZjeHVel/Ch47FVJXLbA==;NLwhzqtScoHuNUC1NGZA5A=="
+secured: "B0rRZXhBQQHvniF9gC+BQplsG4qI2eZAg3UCN03nBmNDwVna0m6HRA2gF+FMU4uJMIdTphjNorjn+EAdV6L1QJelENU6NXzhsuaYkL2+yKAauPyk6/UXlVuQAKbJJoVt4uGu+Xa3AnkGMLnNE4Rvis06iVZFRiYoVUwA37k3pXtrswr39z81f72RSh2fLZyWqvdCE95zzQvWOZihAz1i7iZoZR3GaZ758paPYniXaiKkWcaz+C8DsizPZMw3+jSmJ1B6cDBQlcnPWxcmngFnvjmmMsVZfNRBdkT4HxzpN92XJXdegrR5XtmNX6wWVibhTfbojGbEH0DcZ3fg9xp24w==;jm6PnqpTOXXVNZXwsQmqhw=="
 ---
 

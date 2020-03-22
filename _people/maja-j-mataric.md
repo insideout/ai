@@ -2,7 +2,7 @@
 name: "Maja J Mataric"
 bio: "Maja J. Matarić is an American computer scientist and roboticist, and the Chan Soon-Shiong Chaired Professor of Computer Science, Neuroscience, and Pediatrics at the University of Southern California."
 type: "profile"
-heat: 0
+heat: 56
 
 affiliation:
   name: usc.edu - Homepage
@@ -15,7 +15,7 @@ linkedin:
 
 googleScholar:
   url: https://scholar.google.com/citations?user=o5YQMkMAAAAJ
-  citations: 35181
+  citations: 35559
 
 wikipedia:
   url: https://en.wikipedia.org/wiki/Maja_Matari%C4%87
@@ -27,6 +27,6 @@ images:
     height: 180
     title: "Maja J Mataric"
 
-secured: "+3FAs1QbnjYKSpnf/8wZJZi8QdHLD3vs83H85N5IaAobap4fPcWJVvs3KRXrXdIBjdxGMfYFvFTBELJMFLrquWHtbEQf/8xPj0SvMypT1pClecF7ynlh3xLbT4Z/WqkuUps/cYW+Cp6scQsth/bSOvfXOZX8g3oFzsv+lkufOP2gm/Dw/rqMoWHgvfT4ppjNLJDrO8QgJacqHDT5vhMS2C2u4dsBRcolqRXLhCe7fSjyhN+XnT2fPY+2Jl8/xq4LyVKcj68ctxvHDeCoOhC2+aQKtcw7TMcNrX5w023DDurY2783bBSNBamQu86e97Qg5lIsYt03mtQ6K+ydeA3KVg==;wt5PmngG7jZkls+a2rnVdg=="
+secured: "yY5J8ZiVu59c4/75ajiHekfw6zS1zvsVlkbuDiUfWqmpYb1TaowcG3JmRkVGYXpCWewyZzD8Tvq9zpd5LMjPfoPAwLP18H4jGwLoZS9dmAVuKAfYyo6C+z+mxNvsQ4Pr5GMMwNTk+/F05JBLNS3OiNCB/eK5BbAYcExG/LFVseONVG9MGWQNTE17128VkTZhgQEoM/0XP34RTP/56wywDa3kZF+Y3eDbfJOtxBYSW9sa3n+Ay0pw/CHn+sw67l2kBYVoYA294BSgr0ZJ9b7ZQPk55ik7N5Qi99H0PO3tPNv5DyzTt8LQcXuHRtk4a3JAjVDd4EhxEzJWhMue6TMDJQ==;BdytBHQH6/2/jA+uZawcnQ=="
 ---
 

@@ -2,7 +2,7 @@
 name: "Stuart J. Russell"
 bio: "Stuart Jonathan Russell is a computer scientist known for his contributions to artificial intelligence. He is a Professor of Computer Science at the University of California, Berkeley and Adjunct Professor of Neurological Surgery at the University of California, San Francisco. "
 type: "profile"
-heat: 385
+heat: 174
 
 affiliation:
   name: berkeley.edu
@@ -10,7 +10,7 @@ affiliation:
 
 googleScholar:
   url: https://scholar.google.com/citations?user=2oy3OXYAAAAJ
-  citations: 79924
+  citations: 81097
 
 wikipedia:
   url: https://en.wikipedia.org/wiki/Stuart_J._Russell
@@ -18,6 +18,6 @@ wikipedia:
 topics:
   - AI
 
-secured: "SHZdyKE/btg/n4fcgquy4jmC7ZX5Ht3ZiKrPoyF06FACcp+NRr9az0e7lTj2fgiDzj9jC4s33rGnXKiDa7tPXViA8/0xhYac2MAjg6Jf78kDTYk2uUTj/pUlS9L5MPbBu1UjRfH93/mb69NMODntjW7Tdx3EQdXalFdzr0mFZSKmJllvaDcy21SS7oQXdHx+Kh1BRaKSMUoLL7D0ZbQ7FZipBWZwFwhioaNdj+qfOsKXDswoSM+o5TphOUAc8gbD8bO/ZUkzdKLGKqPj6NN/GDfLuZXAqtcl0HMOfVFztzAGBvk2MxcFkg+kXcqzMFlxM1qyLsFUzgbG6l/ktOF3nA==;POT7u0wE8RKWfKIs2BRSsA=="
+secured: "e7nRLLFH9q9CA7mAlX6+WsRCBpcgX1KYenzwK7yCsq2bzoMuMtSqzCdMo6q7x0J8USjTiW6zi9hpGQI/1nlOJqodWCnbD/lzvhwZWdRD9kyp+tMCeaPd7t38JzHeJDVCSo1UKVIkpkBsB+RNfpI4A1+fG5dIT/a1bRGmcnteH414Rg6YjH5+krW3qTCsjhfskZwmPa+PDdiK88Z1mObj3HHSZWwpT11N9oSLt/6TR8hXUeveB9MNwrOASX9JhaLD2tUklXFEAsYeZvOw80KcXLB0n3J8pbv4M/pZ9yvsxO/CPc31UBAdDqBZMqrAc46+dIO+8wXq0DzhFrOispe6lA==;Q8osaywsktSQbB4/aD5p1Q=="
 ---
 

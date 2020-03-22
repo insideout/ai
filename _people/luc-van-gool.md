@@ -2,7 +2,7 @@
 name: "Luc Van Gool"
 bio: "professor computer vision @ ETH Zurich ee.ethz.ch & @ KU Leuven,  Head Toyota Res Lab …"
 type: "profile"
-heat: 654
+heat: 344
 
 affiliation:
   name: kuleuven.be
@@ -13,7 +13,7 @@ linkedin:
 
 googleScholar:
   url: https://scholar.google.com/citations?user=TwMib_QAAAAJ
-  citations: 116791
+  citations: 119101
 
 topics:
   - AI
@@ -26,6 +26,6 @@ images:
     height: 84
     title: "Luc Van Gool"
 
-secured: "Um5zMCEpQOIPd466UBPYCCmFBzRmcCRm+v8J8LWv0gfBX3y6ViPWfuLUI+mPpSVsuHscIHQlMQwl8q0ZcRbhUksDciSOWQ4ezcniSGLn/PgF4cPxWBmqGF/hQEShgForImOPrE1/tfpklVaJbCv/Egsfbpwmaq6DB5czAlJT0FILYU2TcSrfFkjA0GoNAdg7F4+10I6zgmm0kVgKKdr6Pwrv8R/XpFYFcQ6fVDq+EF16YWXSC1UrJO010iE68dCLuX2AzS22UtTiDlOOTRDWIsU5TutFiNak8ZwifzvCsF2Cv4pIi4He2kkuOEE22rSrxAhHxmIrZFoJtoo7kWFMPA==;862pkECAE8KU05PtvzTaDg=="
+secured: "Q4oHPmU3LVyyQobJhdiLaB4mOPae5zSMG57fmYtCz3TVyaMDzJc9W1wMlFbx3D8YPdtFWDOenKGvnkS5THoV1/RXQRZmpgl800R0pjBjL36O623D2JwzU7Ber0L+RevJ7lQVVyAiUAwwXqz1mHlfxRcRzomfFTtX1CJm0IFA4OwLhrvQD2Q+DTIMNztk5Z7xb9Jq7LD8awlQrh9jG145wmQqu+xcPPrdmn6Krv3QR3GvnhRRLvYukFvAJCWIkPBop8ozdfDrjQROZq29fw0y5jVQTjFt/wq9yTuVrK+4IEe2G+890qSbGnrNomUiII8/qWPqQQ6hY1tfFrLli6cKhQ==;cgDMJhxgmbP/cSdAAEJXdA=="
 ---
 

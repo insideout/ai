@@ -2,7 +2,7 @@
 name: "Daniela L. Rus"
 bio: "Daniela L. Rus is a roboticist, the Director of the MIT Computer Science and Artificial Intelligence Laboratory, and Andrew and Erna Viterbi Professor in the Department of Electrical Engineering and Computer Science at the Massachusetts Institute of Technology."
 type: "profile"
-heat: 119
+heat: 123
 
 affiliation:
   name: MIT
@@ -20,7 +20,7 @@ linkedin:
 
 googleScholar:
   url: https://scholar.google.com/citations?user=910z20QAAAAJ
-  citations: 37947
+  citations: 38777
 
 wikipedia:
   url: http://en.wikipedia.org/wiki/Daniela_L._Rus
@@ -34,6 +34,6 @@ images:
     height: 140
     title: "Daniela L. Rus"
 
-secured: "LreUcBG/bqDzEIWGOML+WIfgYWLKuYgqXxJkIsQYE/OvpZ12tmgBpMhORrEieUM1/IJfs4GwImcN8++sy0HUUgQS9vUyRBpQrVV6mApQ+ZORLKMqnSt9oVgU3k9UfXvuhNmLCBv1wi1MXxs/psfPx8UdFmn6grT8HSpEK7/taQH3LR0WJ3xK0X6iBUa138XgHvqD7Y6hvQr6r1CjKHp0uWseLbmUPsFg0pnbnEefOVpaTuy8GsdnTvZte9ZAmw01D4fnoq07gMCHeTa09cN3O1PdkEnFB6hulpKUmQdr++zV+zT+EcZVg7SO0pIG7TrA8zQewiTB+PgWSkjcm6Qwfg==;N8i1O3M3ykmzIsHAkVKSdQ=="
+secured: "nZjfniCeGZ8l0wBUtXXrovggOgszrofW5TIxJ4bGjuKXMn9kXsJfawhiJFf14WRaU3wOQTOukOpWjOMKx80k2jnNTUJWWzagtzaRd85WjY0EWp9C8RqY5a62xPwYtR+oa57ME7lxybRU7/QUmL/Vla2VrCZgPQjJ9/1ynFeYTZXhUWi3rspbdWgehUEbGyebF7jcJoDv2JkZ108KA6jhc3e3eMCduYB77DPoRAGZQ+ZDPJ81km2pI0QfcisLZRPiWBJP3Z1urF1oXNzV7AXBU4fF+dIqp+jS1Ki3CMPAz04CVR7RZFHO++mkOCyxQxRi9v0379Ccfm2Do0qLDAL60Q==;T/6Xl8OstlbeNY6bBWXDIQ=="
 ---
 
