@@ -7,8 +7,8 @@ webUrl: "https://www.usnews.com/news/best-states/pennsylvania/articles/2020-03-2
 ampWebUrl: "https://www.usnews.com/news/best-states/pennsylvania/articles/2020-03-21/artificial-intelligence-system-aimed-at-preventing-drownings?context=amp"
 cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/pennsylvania/articles/2020-03-21/artificial-intelligence-system-aimed-at-preventing-drownings?context=amp"
 type: article
-quality: 82
-heat: 82
+quality: 84
+heat: 84
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 secured: "vbwOhXkA9T5x2MKUWn+i8PSeahqFu+9xQPhECbzn/mieMIXnslk5L0LH/8myaJ1oBecH2NusqUEo3ONansMcNzBlckUsqx1N8ewDeK+tdgP2UV3ZtsFO6nuO06UzqrF4G+dujY7Ede1vqRaBTcUyRMEcA/5pCkV17EnPhtBbGQGhpjfmPasP2FvO8awNfjHBUlnYcnDIM/F11J2fuJ19L298AQGxp9da5kqD6WlzrhBFgUdSZJFy4cPqpJWWVhl+Rmf7PfmgqXYCANihaPLiWtywstaBNlTtkdSkLVasdgkoOl67EpuK523yngxnzzi0RPS0RGT3zlkww0MHxDROQ5280BNOUDaHMdtWTrLF0zGTyAKTmJr6szO3EvETBOhlG646RgSw31diQZdHftPEOORlqRRLG75W3dy0d0D8QWIRCQxnqJ0w+opxAqiphxgfAdU/Gm3AcAiMOHNitxjbvcym253L4pdZU4WS58hs8YQ=;hjI3oUlGPmdssw81ARKcoA=="
 ---
