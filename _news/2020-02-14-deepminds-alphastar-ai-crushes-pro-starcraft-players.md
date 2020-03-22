@@ -13,7 +13,7 @@ provider:
   name: Geek.com
   domain: geek.com
   images:
-    - url: "/assets/images/organizations/geek.com-50x50.jpg"
+    - url: "https://ai.insideout.app/assets/images/organizations/geek.com-50x50.jpg"
       width: 50
       height: 50
 
