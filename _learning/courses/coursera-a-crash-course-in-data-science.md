@@ -8,7 +8,7 @@ length: 5 hours
 ratings:
   count: 5201
   average: 4.5
-heat: 52
+heat: 0
 
 provider:
   name: Coursera
@@ -35,6 +35,6 @@ images:
     height: 400
     title: "A Crash Course in Data Science"
 
-secured: "FYbAEGNsvKBdZmqJkAmdEuDPAp+l1WIFTv1ANIWojLQmbLp9fz9h4KT/SaHRqvEAqVuyGkHqVJrC9T4e1PyVHTKeldGQug5D73Y9sykXRckVEdnePs4xLPiEujSSsScxbjfgFaxM8uR0blVk4BorRLVagyN4tMgkfzrv96KJ6nby1Ig5NHAVQS+SOnCTZ1dmg7eOvCY/jkasI9+VwRmg4KLO7TZDTnX+ffSMtM9xhk7FDvp2nU/Y+l0KdeKq5kN9q7zYIEXwkSVYkI4n8Kidpg==;W9VNI6Plq1LYiB7IWNTkTw=="
+secured: "gQ7adtzqOFft4eWDmCCHRjwhFDTjx/LbMwnXFQzdTHc1wRz0kt1L4s6hObX305M6hDX/uyavRNH+ymFZ3WpmRy3CsjRCNvckgEK8M3rliW2HL66x/T++Ft16qzMan6Yi6DTMhROTLe8iVzR5s3+uBpVZQzWc2MjRX4KoXAJArEw+MBC73LudehdRCuTpkVXdkwTALqpjNO112Lld0WS2bWYcRVxPYAb28fhxokrRQsYrZhpNExSNURW/JtH7icyMbCaLs6W+CEes2Tz86X9NpW35FJuBSDeFRXGf1tQqbhVDXNoPhXIskqjJdQfFicKnNMyi3/K9yUy0wNW06DCESw==;SGKjpG/C251zi4BujAJpfA=="
 ---
 

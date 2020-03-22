@@ -8,7 +8,7 @@ length: 14 hours
 ratings:
   count: 2700
   average: 4.5
-heat: 35
+heat: 0
 
 provider:
   name: Coursera
@@ -35,6 +35,6 @@ images:
     height: 400
     title: "Practical Machine Learning"
 
-secured: "5A/9yp267T1Qlgx9o3f8m0P456jFiyCnSJWdb2ohqFEdCjnMQ8zGcg3ZuvfdfjOU8LHoT5JBARqxKbXDCaRADoxUIRN0gepPI82j2nlxL/gH3eM1WAUcMISkA8Jcr+ICpNIgBFRc9jfKN4Kzsv8kg+nYzZ6QWAFqNNuxu4b4AAa2hnwgdwVh/5KriTfcTEdn33IsZJS8B0Z7nWrF3DmTxGzniUQdcSpS8bf79X6Z1NPvPGaWS17bZfSMmx/taEY0Dy6DHF4CWiKwvE2ZOnoQ/Q==;ZsHvZq8l6CKg6X1GER9avw=="
+secured: "C0TBjtd0wIQevVQzECoXLrNyHpKNeviWGpBzrrPLZGCg0pdgVl+0xu5ofey7O4EjBht6emfEY0i5gaGWQfmd5bmTJn4YhHmIQLbiQKl/iGmmDyiAtX1O2s0cYzzMnf+LbCzl8gKhxeDYgZQI+huPkqKA1zWT7Skg6Q4aTFVzpk18MtdPTrw7sJ7jz2uBk2ytUhYB5WGdtQEdnaueRwktUJgjTKMtHQKnfakvT76hn8tRO4qNoT36IIjp9rnTPF3ihvanOC+GAzx1xou2RnRkeEjYob3WxmzrSwCjI+tzQux6jujFhpZYNbkOwUPeZHRjOkyRqdR1aCzJ+Li0Cb/wkg==;3SvtAlzYzjCKczBJ5cBDQg=="
 ---
 

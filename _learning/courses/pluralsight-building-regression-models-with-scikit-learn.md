@@ -5,7 +5,7 @@ webUrl: https://www.pluralsight.com/courses/building-regression-models-scikit-le
 type: course
 price: $$
 length: 2h 42m
-heat: 
+heat: 0
 
 provider:
   name: Pluralsight
@@ -23,16 +23,16 @@ levels:
 topics:
   - AI
   - Machine Learning
-
 tags:
   - scikit-learn
   - Python
-  
+
 images:
   - url: https://pluralsight.imgix.net/course-images/building-regression-models-scikit-learn-v1.jpg
     width: 1280
     height: 720
     title: "Building Regression Models with scikit-learn"
 
+secured: "2HWAB+8+dsK6Jc9g5b86zEMjOSOTpsE46CbyDwnNVtsbastZnN9+9uZasw9YxVtEyEwaKByawm5318/aB7dmeGciXHc0cSXQv2Zw7PVEKp0zPMSwx5ZTIhQ42oL5mBrTElYyNNIEVi0dMZQA47nePKkHY20rqNO9Qwp8GCSdLNQrwqGBmMqLMZxXcRktbFZVsyXKEDgDC/KPdaCq9jSv27ocsky2B/nIfnuR9rU4sjef8sFPb/dZW1GgLRoixIWEQvnSAOwxvNSHCTNl22at2tXoCItRHy5sQK/QT5Q/+loI562kUlcB8N3VGLsQcjPFiyhy5MX/Kvd3ZeItNnyuTA==;8v7HW8GVKxW6Nvud5aXV7Q=="
 ---
 

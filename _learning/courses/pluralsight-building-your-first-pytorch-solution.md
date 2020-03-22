@@ -5,7 +5,7 @@ webUrl: https://www.pluralsight.com/courses/building-your-first-pytorch-solution
 type: course
 price: $$
 length: 2h 24m
-heat: 
+heat: 0
 
 provider:
   name: Pluralsight
@@ -24,7 +24,6 @@ topics:
   - AI
   - Facebook AI
   - Machine Learning
-
 tags:
   - PyTorch
 
@@ -34,5 +33,6 @@ images:
     height: 720
     title: "Building Your First PyTorch Solution"
 
+secured: "Pp1AULwmTClV7bH2d7ROsPK+HnxxGmiUf86dE05W/dNL41WOImbqC1mc9hc2PDI10nYg0Tagh9ph+EM2LpEbUYUdsyejNDsotvQzNhzAQBkDK5WvBYif93J6MbNp6eZYvWJmItRJ6zJJiz6EZIXWUndnB4m870PgTElSKqK4+qk6W04Xg6s7c5yzkRoCdbErhBxnueqNsJfAdWwEaEwg2T/1SMPb7ABvabmdH9u99keHONHKhFrU1gjvFxhk/boYbbreS8UH5Xpxn9TrU3jnfWVHa1bJk+5TdbH1K6tj7tY07cIcOEc39d0xLnkuBn6dfZhUa6ChZcbof82nPoXLnA==;V/cz6yShbrH+PjyLDnHeUg=="
 ---
 

@@ -29,6 +29,6 @@ images:
     height: 288
     title: "Machine Learning and AI Foundations: Value Estimations"
 
-secured: "bhsUaRlNwMPyvy4VBI1oKa5DR86agksOoTWvN2snG0/H5zCigKHcVGM9jNQ/N4PoqBEOVmZZqysxYdoPfhvxLZ3yJeN6NIWDR8t4kSMhoAuTIJexiXDFIeE8d8gbXCPYK7RqfgHWCnXXpsM63cxXEGZL/6ykz7/PpTp7Lvh3gBW6pUyKwfEJdta4QkH5DYHK9s9ve2T6kjUHjnP77PUmWuqZzytBhrzu2b7ZBxJWbpsgJq5IWxpa8iI4bf92mMFSWjbJbczU6s46RT6VHxay7Q==;RX5r49gQuwrmAvGuR3t5fw=="
+secured: "SP3w/MX11RPeY66likUxu/vChZLjSGd1GCb05+cLe6VvnnLbU40S2Rwxj2fC81bKCdTOJ/SwZF/CoV37Eaknc2gDKf4RCcSzJgLhBwOpQYe/AbO4JR0v1L9umWyAvlYvvkhK9YIe1U3xWmUkE5N28Mkr5oCcVM5yO/tn8NIL7L1ftpLnhyUoIPA/FmfzUk4nSTwW7LlGjap7RqhIDzaTQ48NVqQ80UJZoIZ/IHRN9XLI1wU+k8ZLbwr5CI1F+ddeizDMLrjzRRrTB2ID0VfEzBv8t4Hd87ooZ4we8suKNraERKvBnCxD7qxkhjdjaTO4ZNbmVEJm6QhZkf0SwytAAw==;0kt+xHxjM4rfKdhoaZX/Tw=="
 ---
 

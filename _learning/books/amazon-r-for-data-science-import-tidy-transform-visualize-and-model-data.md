@@ -6,9 +6,9 @@ type: book
 price: $38.79
 length: 
 ratings:
-  count: 150
+  count: 386
   average: 4.7
-heat: 16
+heat: 56
 
 provider:
   name: Amazon
@@ -33,6 +33,6 @@ images:
     height: 218
     title: "R for Data Science: Import, Tidy, Transform, Visualize, and Model Data"
 
-secured: "a3q721JBr5YuFTxVCVu9xrIMrE6VXjhw5URsdo0HX8qJ1hXOvNDuyk3cbEpa7eAYWQMmApzFk4ciRfRE1eEO3GPhcT1r/P4T606Rr/BsY1YzyrVg6Yzzqc61oLQEzAGsNWg3Xi7PY3Y30x+HoHjEEsbVKBTi7rC+adibf8yZzRS6WuUexTX8VKEMLPMNV0GTh9yO2FigbW1qpDYn0NoIhLTYiheS0VdovNnr6cL25NykGmI6GNZfFWEAB7WlDZ+rb3us+PkC0QDssqynRgB3Ng==;2K89RfMG94K1Rj6Yp2Fupw=="
+secured: "sL4Prmkdr+qnPgkdIX6p0WZN0IW3ssRuN4iZjv6SZsA8G9RvHNMe4qAVQgnn94cxOFzmvDaP5zTx/lZnWA/c8g38a0SPHGScPTDBhLLtxnC6f7UgzX2O6vxtdLlUTo+6Y3P0D7Hgql6SjcESUwb+ldtNsaiBnl5OuT1szPGj/WXFTxOw3NzvrazG4zjwRsx7s9uS7oFQr0JEhH2cr/W5GZ3OEIzv0Oty4idpqO+6NKpHALOY+3KMebJ0Ul2xf9v1ymsEJDSt0PLmTp66M2+vEqtxq2woRXkoxmkoR9yinnDGGgf5tRlU+geWg0xer5I6+F2KEIfiHNMd4eP5VxQJXA==;UVLnBpkcn99qN7UdwPnBmg=="
 ---
 

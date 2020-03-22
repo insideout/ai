@@ -8,7 +8,7 @@ length: 21 hours
 ratings:
   count: 1352
   average: 4.8
-heat: 5137
+heat: 0
 
 provider:
   name: Coursera
@@ -35,6 +35,6 @@ images:
     height: 400
     title: "Control of Mobile Robots"
 
-secured: "9H8bri1x1rJtbwpT5ti2dFCfu3T0AHPKhIGO/HzpTozlth3EseguS2lAqcLLt9etBWfsygu8DYUfsAFTfowVGYDcLCj5FK3CTPEJUJuZQ4P0PZdcfaG/+6te/LEES3yHRQ8vH6uyjcUyt/4J9razkWX88yVSIwbcv0DNj5rj9PNCJ/7xMEVfxGLzQeIA/I6PX77C5ZnHwrr+Kd40ikMBMGbIP41+FNxna0Ec6LfDpea0hpmcH3QGqPBFN7tjc6UhKEkBKwUQX9vNWz9U4FQf7g==;FKryYtkkFdcE0pK6asxzoA=="
+secured: "T8WO8QfDm39U/AfHAD+eiPesAH6sHX1RxCZq34zLcF9XbMkOFkcznSVKfDVQGUw5QGpkxuVT+5j9HaZKRWUBpLNDfZ52LqR5NPRgnUItQHPI/AVQpT2xFW8Az7mA7X39/M4vjRsByGILi+EZTrt8glgBfRZz/hGzuoVD2T3CcWW5OLO/+Setpaag6aHw7tg44v5FeUHO7PcSPp2rrQTlRd/rKhGqzzz0EHxHdaoR62+RCnCZ1eYYNwgFHBFlSm63cxiDKjHylHNNgfCl/Z2varqdr+bn8S8lhRG53FrHtfcyRKB0qrMdxf4C5kMim1eRxO0am6O5kTW/bs3HiWN4kg==;NVy5EJjKPug3NBbCb4Rpcw=="
 ---
 

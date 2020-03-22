@@ -6,9 +6,9 @@ type: book
 price: $0.00
 length: 
 ratings:
-  count: 75
-  average: 4.8
-heat: 64
+  count: 15
+  average: 4.2
+heat: -15
 
 provider:
   name: Amazon
@@ -34,6 +34,6 @@ images:
     height: 499
     title: "Artificial Intelligence: A Modern Approach: The Application in Healthcare, Industry and More: The Fascinating Topic of Machine Learning and Prediction Machines: The Complexity Explained for Beginners"
 
-secured: "EshTF5YUPImQAbWDw8Ie4i99r3wYzLpdALydNhgVqpDhi9akki9NeN0JeifzuXM14bcVKn3glbPGtShte37iFXa20FH8vkyecCFGs36/Wy2Edtx77rU6yb7yakMas8H/QvOrB/OFp9lmq51nTC/jbihorGofYu99bFQND9FHu16jhElohSt8TupSu/PWqu6k+gF6fFtUxtCVEV4BnOpq4zJXOvPi+zV9CVTqR4SjMtW0W4AppVn73uI/P07sm7ptzVPI6Nv7PAe4sedniz1jPg==;/+BD2opk1o3kInjTrg+Dgg=="
+secured: "nth2ArQ+jUEsb76f6D6rJSsT3z5kViJUvP81MZ7LitWreqzfYf5jgd2bSW1QFs91fFZWCrCx0k9MWpnDb7ziX1H47j8hPSTDs8iRuftZEOqhHsBv+3XDg27mdJiSBtfgCl+VlFyh1b/nUI2C1Mv85czHJKQHxEPIth+rNwXhxHSPyiFjXhem7iFZbFypBTSbQIhb4jAw+Kb4VvKbeCoGN9dnF2N4Vm2wFVhaR7RF8uR1Ix+lQQZ5UXBvYNUf2Oyyfnv0Pg9qHLIKZY4YaZA3XHrvnk0lfABeSgQ/eJ7zw5FQOR7tYP9EywOwLQH/eIwBQqFCEG46tqsXBTTl4+tcQQ==;cu9BKa57LkaHPmo3ymNSjA=="
 ---
 

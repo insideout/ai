@@ -8,7 +8,7 @@ length: 7 hours
 ratings:
   count: 3078
   average: 4.6
-heat: 75
+heat: 0
 
 provider:
   name: Coursera
@@ -34,6 +34,6 @@ images:
     height: 400
     title: "Launching into Machine Learning"
 
-secured: "iDkCErNVOqr7kq5Zf7a1yH+YVQVrzjhkO8QPtpLrcaFwtFBdv9rvgKZz/KO0+ru5w2/9JFyspXFJTpQTmTu+GAZ4H7X0DYIT0Kxcripjb+uyryDDKj7s9n3MmRG0wOs/PnHICG2M056amPHBSfp//Kwd+LYgSNWTC4l0N2vYxQC05xoZsNhv/4NHJYlLxh4VP05e7tXaSY7JP3l4pZ52688y1TtgZrl1fzMqDqqvlHJBXJzc2m1+JLj79E6bCP8D4ZS60iExd2t1osRqPh46aw==;clV3Z8K7/GCMDsGAR/hD5Q=="
+secured: "gHgZiOxx86afawb2YwnHJeAHBWEBFaJA/cWYr9x32Jmnh11lMTeuzYc6IJbXSEQ4KXScMUjUf8hndNe1+2hOYoxfU/i6Wy+hls8UcBWjUzMVvh0g3wC21p8BnqcbbfeXOAePJanzBGJdYhPgM5o96rXpGzyEQ1RApIEKAMFCnfbL6MDrlBSjUQQE0LC458uyIa6b8Idwa2PJad3Wqkc0GS3AjLnMHSHnoYk+5ZASbZhNH5J7rAbHLyIzsOVW08X6DxE37J5Ce2MUe1vcm20a4lXwDQyuOvBQ3qGC29cziUIAsRBWy1FfGv7nwkdKfFnCrJJE+pq5aEl+MSeRRV+pZw==;Q/w/SUVZiF/2Ry+NAy+5Ew=="
 ---
 

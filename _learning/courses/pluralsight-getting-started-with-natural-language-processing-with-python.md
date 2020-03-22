@@ -5,7 +5,7 @@ webUrl: https://www.pluralsight.com/courses/python-natural-language-processing
 type: course
 price: $$
 length: 1h 43m
-heat: 
+heat: 0
 
 provider:
   name: Pluralsight
@@ -23,7 +23,6 @@ levels:
 topics:
   - AI
   - Natural Language Processing
-
 tags:
   - Python
 
@@ -33,5 +32,6 @@ images:
     height: 720
     title: "Getting Started with Natural Language Processing with Python"
 
+secured: "EiygFe9PgxBLMI1ZG85LkGHI2G2KtZ68SKb80tbQlEcN8H4gy3G3+w8Wbt8Zbswtqd3v4eXf5Ag+w6cWT+f644Upuu0z9zktt8qhOAKWJRI1dKHff6p2TqjSPORjKnkRrzOV36Q2jiLBEjjDUUozNJBp6wErnuV6Sq5zIKOpKp2LL3oLoken3D8r5gXY0B88OfVFFgp1I0Mbr0MNsp0pEXKtwc3mWeAHp7dMS2KlwWdoPBCuVFg1W4D8r5BZfUeVO+nSOorjJwZVgaT2PwypVZKki0YkzN02W01YmsMrQIpZG7dz6Et41XRwfzQtpwD3kY1BoMmlouH+EUlBD74nNQ==;BuqsSKGUjdesZnVeBKm+rQ=="
 ---
 

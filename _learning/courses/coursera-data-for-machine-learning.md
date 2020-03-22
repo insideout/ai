@@ -8,7 +8,7 @@ length: 4 hours
 ratings:
   count: 8
   average: 4.5
-heat: 9
+heat: 0
 
 provider:
   name: Coursera
@@ -35,6 +35,6 @@ images:
     height: 400
     title: "Data for Machine Learning"
 
-secured: "HOq+9cvRaKMSZmy6UrlRpekSgYJJ9TNdLcqEasRfbqedTCl0NvMprFOzWyBonIpI+Ar8lWH+X7DMniIKQBvo0zLI0se6NrUjPb+Ps5ixG0SYhz4Cf0TJnpVb5bBVp9wRjhh9SIU/lhF/Xj4TjxxKzxrJWUOpzRc4issN9M2z2mnnxxBzaMnSmi4iXTqDyhRAmhb6ck3xlTR4PJcITxtgsGwfZ/Ca81iuoP/Hob1voYBFBRnwIpVu9aWC0JT926jylYwQAJC3pp6f8nqeFkRw1Q==;nqUoOzt0o5o8NpklW5Dsaw=="
+secured: "aXsuBcS7FmHFea32GjIpBFHnnQrsB0nvN3LNq+brQT6GG84XYEvJpvagira+Vw5+DXfJMgrCVTJ/3FfkeYUUcdl1UKTR01ZUfhvBL3NGgzElsPU/hR7pHrMHmaqBeh/kbpNiu2WKX6ZR7Sn2zx1ZNVVBk7qVGSeWKS3KMme4J0Uwjj6q+DeyiGyttn0J1U4ACX/3Uj9ZaUPNsdeLfVqqL8Gph/rWqqPKom8zBRayKPMkID6cvaqbKsX0kqrF41di6Usp623kUWcauQbi0MJQH036sEDNjpms+IY6gCqF6fLWhzp0OMPayKBa7xHbq/7vqPJJZb8Pkh4ppI17juLa7A==;fnCHs0CYJIVVWJX5r0FEoA=="
 ---
 

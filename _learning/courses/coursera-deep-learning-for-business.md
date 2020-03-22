@@ -8,7 +8,7 @@ length: 8 hours
 ratings:
   count: 345
   average: 4.3
-heat: 14
+heat: 0
 
 provider:
   name: Coursera
@@ -34,6 +34,6 @@ images:
     height: 400
     title: "Deep Learning for Business"
 
-secured: "6IY/ruTdjLPXZ22i1AtuzhzTX7jS+I8r2eAByZX1+CxZPlCPHhfSe/ZfgHY8rkMpuu7SSsaRZisfXrqki/Z6z+424g/tlhF9rKwONa2qFtz0xtox1aR4nWIstpxWI24UNNO0uqFmfvcSY2CPQpuznkTnaH4e7IcN+Vs9sCLlskqAaUDVmOcL7P8K0sPjKDcsOn0w6A6uSBPONu9YCAmPxkbwBBbOUVIKdwN+jJ/00RjeLJ+wH61/PAE9YA/EFwIpBCJh5xbZFIV3YWJwjFhqZQ==;Jp7Ujx4KITAMkU0OggCZEA=="
+secured: "ZAVd46gtG96z2gxrCdCGzioJ8CWtoDF7EDZ+8HsX2iLEmXA63t24fiwiEJn58fLpUURmIiZw8QMzDZiWU9W6mKYRMmfktLeYv8zBclUQ3h29I8DDVGvplXEU4x1bMjfPecWqF4dQdwhYbXtPUvTyyKpkWkRRC0RcmmWOkMYsQJ6u/61N3yqWcl2wrcvgZgbrybj5KAXKFMGI+wHY5ixjGDzmyDdC50oAvdPq27BEVRH3yqFu9MlMVRO5lTKxIEAMqVmlhtUiN8pVLCptdidEiqkXHHIH+FeSEOyWdAgjeDSQPzRsv94xz3FJypRkMG3m1H6OuE9BWeEXCIhvNVvWfQ==;9nPojeU6I3ziS6/48Btldw=="
 ---
 

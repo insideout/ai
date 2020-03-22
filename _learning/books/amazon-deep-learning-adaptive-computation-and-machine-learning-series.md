@@ -6,9 +6,9 @@ type: book
 price: $25.20
 length: 
 ratings:
-  count: 245
-  average: 3.8
-heat: 8
+  count: 704
+  average: 4
+heat: 91
 
 provider:
   name: Amazon
@@ -36,6 +36,6 @@ images:
     height: 218
     title: "Deep Learning (Adaptive Computation and Machine Learning series)"
 
-secured: "p2DbRuUtn09Q1i/XS7Dl6G9zK5JUPTSgbCN9tmrVzxUeYRdhk0YxLR8r8CbrgV8Mdh7aqc0wBah0yZRqiaGV2lCP8cj6Io46lAbSLIe5q18QEdyw5z5Jr7bZQ49Jk19GbLTlaT9haolUPC8jGH98AFrVEWk002vV2PDwowvSiotRnLh+eCby0Xt/2AZRmKKZWu8V6NM9LFKz8WE5NhAJeJXjCM8bjy/tBIqK3UYl7qCnhAUCuSbcVoyjJ2SXE/Jxn11yGw/6andAgYl2H40tjA==;hRKuYwnKAJVZGH0m3W2xow=="
+secured: "5TLkXYFTVmvSODh0FmTXK60mNmXoFQ+6DRXuT4lfQ4SJr5jZBWyPobEpe+52+QN7gNV7++16xcE/rrF0s9L7k8aG4myt/0TkqE1ILuCKUjdxvDAgRW1xgrnU+QCd52w+CSOm0oNB8UD9Iyjdx/Bs8V6Qu1PYb9b52m1ijv+5K708zaMVcuZySwxl9B35y82vPJdHykdHVuJKIzx+bHX0TOOCM8GAJWvwbWnPc/vzhpV4XpiCZVnPyf2xoDBHj6XbpW2nSMYByB5jgjTmopBammS8Bjd0m6bA6zZhtYhJqwGvCryo3KodZniq9vm9DC19satmR8m7dUwaNkSgq2jHsw==;6oZPBsiGIP3yYkpGNYyWNA=="
 ---
 

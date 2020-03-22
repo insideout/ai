@@ -8,7 +8,7 @@ length: 15 hours
 ratings:
   count: 46
   average: 3.6
-heat: 1
+heat: 0
 
 provider:
   name: Coursera
@@ -34,6 +34,6 @@ images:
     height: 400
     title: "Overview of Advanced Methods of Reinforcement Learning in Finance"
 
-secured: "MYXgvMVWRvn362w1aT3kGx0wgmS3n9bMayGbKc6sEQMdGyRYtJWq100IILgAJqK8ptAbDZrTftpZ3V57ewkobcbA/zs32pMqwJbpirwJ16Arfn1pRBVPbB53BkOcv4ijtRn+Roh5Tj6l11j+Ni+6z2sSe5WzH827MdJZaeXMjYFWzIdOcH1PyQXWwye1jZ1h5VVWlokJC4w0UJWIKCm1kG9+NapA5vAraPGekv7s+rUa83DBJLx0NMg6FUWM7vnJ+JAuvykTaRr2UAaF6mUArQ==;+OuOX+wPcXP2xnTr0uP9lg=="
+secured: "FUx4xaTfWLO8yEAD+a5jLGIAQvdU+02qffD0E9l4v7hGw/eLFPhWW0NCj+bsWdNShcfCcVKrGkAP+EfoqYEdih9WkGKJac5/MNulGdkILKfvFpgOuaPldxiozLyD0mHfpx5aVCbugQB8kPBH61+wgYyOGvcQnGra2azae8rjwES+Y/F2VVRXlb4IifR7qxuPcp5aVVqiI6Vn23+vfEDFQU5jOKqQhS9WO1k+89P3AoPmoYvW/6ZtPIx/SZzET4/6qyVsfNpkNwsuVOCPwSq18HS84OSlBl3mgitxPSpLiZVRAx52uXIplzSdEa1XpagXx580zfSLzOlhcPozHfDCGw==;uvZJD3I3YpjfHBGHEUNE7Q=="
 ---
 

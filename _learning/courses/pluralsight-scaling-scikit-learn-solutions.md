@@ -5,7 +5,7 @@ webUrl: https://www.pluralsight.com/courses/scaling-scikit-learn-solutions
 type: course
 price: $$
 length: 2h 53m
-heat: 
+heat: 0
 
 provider:
   name: Pluralsight
@@ -23,16 +23,16 @@ levels:
 topics:
   - AI
   - Machine Learning
-
 tags:
   - scikit-learn
   - Python
-  
+
 images:
   - url: https://pluralsight.imgix.net/course-images/scaling-scikit-learn-solutions-v1.png
     width: 1280
     height: 720
     title: "Scaling scikit-learn Solutions"
 
+secured: "9nd0Ll3gp20AeswVilpjAsNzNsP0AEPGKDaiqsQSdD8OiHWKpe6UwMKrHry9856dCJaNsthhFM/cVwsU18muyvqM/zLatvmgQhsshMnhos3bw608rLucHV3Z9qjqHqrJSd3eTIr2D4sMvzOqcazJ6Dtuqc8jBk5HNWUJW/WGNzLPUc0QzcIZGSOSe4XBtb5284rPwZWtEcxCC6BQSBwe8M3SGFxfKxff1uWZ6YdcvundxSKzNHabg2Ogsji57Lso0qW2RrkGcSx3PoPdlBXATKnFIzX1tWV9o2iC39r+N4kCnWdFFqXULb4tThh5cFtQCYzRQTDTr+9ZSaXDcKP4Cw==;IixtW7htBJCFNBOVZ/44CQ=="
 ---
 

@@ -34,6 +34,6 @@ images:
     height: 400
     title: "Reinforcement Learning in Finance"
 
-secured: "GHL8HDFdoDmnTs0l9c52Izyw3pW7deqOZlmK9qbbdZ7t+SQbBJyIEKuPrpVbzKs2vu5TevoohhsVZaVeveKjpLxiNDXvbpilxBs9MsZroTD8FAjWqDHnZEwy0TRuTyzWnCiUxktoohrnzfphmXNpWH+ty9qp1rqns2YoIJp3DoWkCnyqDlxS3An7v78OAXMS7woYhOoPLzZbqFhtZCIu5rXLuKsYBHQgKDpbb5ijyEX+inVwL/Ykk0wE6FLggeX/RQttiwn3gW4pzPvT20U/Tw==;PhUqCpJeYQrBbwCaS7BJhA=="
+secured: "edf60D/qcoFoqp3tE2QmVASE30LColGhNrUGrCLI6kBNk0xxEGiF1hF9siBtKAaD2dujrN7J6Y5mcpiG4Hy+3wsTNbF4PLZhYbkPb+EQdl9DFF7Fgzp4XViQ+/S97PQC5A66IuCUWvGzk2Mi7D30t+Xag/mRFClJpdGf/z/C8C88ZGhTTztu2DLliaUhjx3submRhfDaTBCd8MXU9MjNcj7iQL28Dqg1yny6YxDo/IH6exT1fPduOiP6QMyTAmpasmN5wMhIHRqYY3uHlTx8rFckVGZuJY/GsW2hmyT19EW2ygIjdwdnMca8z6yitEfDmKzoLIh3UUoBXU1zuWH2JA==;IGoEGVEv54z8saFdjLMD9A=="
 ---
 

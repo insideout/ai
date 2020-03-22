@@ -5,7 +5,7 @@ webUrl: https://www.pluralsight.com/courses/microsoft-azure-luis-extracting-mean
 type: course
 price: $$
 length: 42m
-heat: 
+heat: 0
 
 provider:
   name: Pluralsight
@@ -31,5 +31,6 @@ images:
     height: 720
     title: "Extracting Meaning from Natural Language with the Language Understanding Service (LUIS) on Microsoft Azure"
 
+secured: "qozslrl4q30wTzYGgpVBuNqg86CrHBv1wqejb2FFJuNn9qnqetB2tPiYJ+YNe5CfPK8bRAJXdeZZZ4npUcxh8YzMCI/srNVU0RH6GMDi/YNFPr1n85zm6X5Y9eVNz6up/A8PnYdz8hxoWy1Zsh/sS9SG5wPxi0KGmLltvh4UncIffPX/5rKLpkFn+DqcCkJoyezpwX9J7m3XWpvTxjcZY25oGBi/xs+tdqyBPE28hwqjJULbOB/JKNleo/SaKP6vfzKFT1iRPa96+KNbBpty8/WRg1BFijEAOhg+OZNzZ++mhwcvK3sHprW1FhLCZotOA2+SU+GIjorxcbw/oVEV/w==;wgDgT8GQgcAduExQQlDbYw=="
 ---
 

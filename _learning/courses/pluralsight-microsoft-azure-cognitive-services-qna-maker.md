@@ -5,7 +5,7 @@ webUrl: https://www.pluralsight.com/courses/microsoft-azure-cognitive-services-q
 type: course
 price: $$
 length: 36m
-heat: 
+heat: 0
 
 provider:
   name: Pluralsight
@@ -31,5 +31,6 @@ images:
     height: 720
     title: "Microsoft Azure Cognitive Services: QnA Maker"
 
+secured: "cEshHOS0m5cg0z7/wj6z8eS7k5hB+9a5R3JSbUcb6BXiKaA0GMgssrnuih51A4F8MB7GjAH+lktUlOTM+lTdx1TvxU8y636W8dawCmgar5m72Tdd2mQUXJk5HpJVdZRukbSvXWKR97+zT8S8qM2hGicWmSqJpwsvG4sPHOZ0z6A3vFjLY0v3nwrXIaVorfnbWnppdiyvR20V2r411Q3ROrh5M+9wX25l7bltBcQwWdqnwFG3Yo6H+oa/ynaYiTWaslpG8VumVITYZXi6f41iqNSBfGQKoWCtg64Qv8UxICzPE5LqBxBp6e1+zgXBGDCXYZPakbH/w6ihtnYfF6YUig==;NPs7z3loAxKss4LRIGRfBA=="
 ---
 

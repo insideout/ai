@@ -6,9 +6,9 @@ type: book
 price: $27.54
 length: 
 ratings:
-  count: 92
-  average: 4.7
-heat: 1
+  count: 154
+  average: 4.6
+heat: 13
 
 provider:
   name: Amazon
@@ -33,6 +33,6 @@ images:
     height: 218
     title: "Numsense! Data Science for the Layman: No Math Added"
 
-secured: "8lT+K2qqCQraabE9Xnj9NE7XEjSyoM9BCkd2Pm4T4N5fGPVtJDqfhfzzkRO0LIz/mBe5MJ3L6OGLvNGFN7K7RDTr6Eh9jJ0ypwP7sdyeB0rkltxi5RR9ukY/aWFXGTpcWM6BK30svvVbpfObWqeYtTP+hsXYngOXfY0VTONdLCwbfIjuX1FgoE6GHbVyTLuIHzrtL6abln1w+jSbjsqNqJTH8LPJh65pvk56IZuHyJKQshIM3TlC1JM4v6dwV+IgalP1dh8QeYVuiJGh/fWYRg==;8X98mp/ymy2vuDgG/t0NOQ=="
+secured: "UzzTBRz9iUPz9qi0pooWlCvzXXK66l7LLXppGlo4uPFVAt07nh4v5V13BDqXtNYBcuBOS21g2rqlRfTdMGYqobMJElBjr3JfB6rp3nIOTeA//fIpjPzxgHwjvDSSSkvrSwTUMBCnK5i5HCmF4vy35SaNlOlNxaDLK0cTnzEg9zlc76fdQ0o1oOx0IE7zmKfOoeAmaSgzBcNLDjcG8p/d5V+B48VPedJTLG4O3B1RmlRwaKhSuZwn+hEMr4/wU3FdezbJqZbOsMeOJc4WJ5bC4t8ggz1EY8SCM7xCmvkLgvBU4bYGAEi8l3VbKoa7LifomRbE46rJDiiZg88Jz1B/eA==;xCm3j/o4AXHTiPpN/3Qkqw=="
 ---
 

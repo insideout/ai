@@ -6,8 +6,8 @@ type: book
 price: $37.49
 length: 
 ratings:
-  count: 12
-  average: 4.3
+  count: 14
+  average: 3.9
 heat: 0
 
 provider:
@@ -33,6 +33,6 @@ images:
     height: 218
     title: "OpenCV with Python Blueprints"
 
-secured: "ygwBhb4OIqbH13opOalUvcTNgLh+S4Rp+BEvVkY1vBc1UUlvzT5/1BZHNrppdXKqRMqH11k6Sw3tY+Sgpq68gAF93eAHmedaRpZGmyvhNpVBcZwYL2m0HyWVgzbQqRbQLupuZROymdS44D4P+Jq0z1pJTxSoUsDy6Auwiyu/piBVgG5+TN0mWsdRJNpwvy9GfPs+9hMC6dVmWmWmCItIBlelui2lPNxc9KLTgqDLqJS47HRQ8g8xEXfZ3kbIlmbyTVaCw/ej3nGklWIG6aaOXw==;2CZB0oNd0rKvYK08AK0ZMw=="
+secured: "4MCT06irzLmNKj3H1XGE3Cslrv51wE0P3F6ONUAajTg22D3w3grVe7ESM/fbN87OjeKm19grKn3O2Znw3nbQP7l/uJef/eeHgGc268OFb8PWtDvNEhns5sWNJlMoyLYAW82iX/vptMEYxCrEEICVuJ31SfQ6sJTqQQ3eoLIvprCqAQyc/aWDoNIMHAXfFEjcxIiRt1TUo5RCYYlLluNSIoz/+1HmorCiGax2wdmbtwvtz9qCnywVZt6g4rMomhNiTYMQ4Psn/lt0Sh+3hL4Kiy+kcXVXnSN+SoYs1+5UN/CctNQJ/0LaslCXTDe0F1TIfzvJMw8uwyFDfck+b14dlA==;HpzDfzTZDnFgA1S7Yy3foA=="
 ---
 

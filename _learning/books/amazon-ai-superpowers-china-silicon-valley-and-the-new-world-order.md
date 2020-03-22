@@ -6,9 +6,9 @@ type: book
 price: $12.99
 length: 
 ratings:
-  count: 264
-  average: 4.3
-heat: 11
+  count: 562
+  average: 4.4
+heat: 66
 
 provider:
   name: Amazon
@@ -32,6 +32,6 @@ images:
     height: 218
     title: "AI Superpowers: China, Silicon Valley, and the New World Order"
 
-secured: "06fYEEiy53ivZlJxGlG2gDdMdDSFIEu5XzMtm8THmgA5A+NCMBvNFDfX2rmYvYr3phVJxoio/hk7sYqMWLIdU3WksXJVdywdZbzzUvaqw9+MGcdShZ5/aSM8HSAgFpHwF0grNoK9XFFxJ9J9vE1H2IKg8fegcr4C1F10we1D4YmjgqPjHmC+ru0fEkRRpa0Ffa82cygtp5EAysGHNA86sZSFfIFKr8Kg2etlI8Bb857NEDmMtm81i2SJQrpuwUAk0P9zmdcWlnNCYeftICAX2A==;ngBYDsJZ4qt65io9XVta+A=="
+secured: "mi6S6UHaNAuv7FfuyBjNu/g6syIzkvjTTY5MV69p60HdM/qCxduSG8S1qiPNqwNZJ4SsSXqzAZrZ04JLTLGqZ+hHGoIXInQMxfY595zj/VCeLniJcGAi7k5xCGt64jGYVPmHBjhC/bcQ+mAHrOyE28+5zdbYr6WgvgGq5ZzjlTi2s10WaAJOcBeS8YSM6whqIVhE/SRZID6JsoaiwMp5OgsBuf/k6nXiAwe9nWYc7k4hTr8iWxx3VHH9rY3YdD+Z2CHG2Xhw20YUQKmS7E74osuKG4jCO4gATjoK/ZSlzo/50T5RicPPUfHGMnkO+gYVI4Jnq11YFQcCmyQoEd3YOw==;dhlS8rZO0Z69bvlUb1CNSQ=="
 ---
 

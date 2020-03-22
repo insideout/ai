@@ -5,7 +5,7 @@ webUrl: https://www.pluralsight.com/courses/microsoft-azure-cognitive-services-b
 type: course
 price: $$
 length: 1h 10m
-heat: 
+heat: 0
 
 provider:
   name: Pluralsight
@@ -31,5 +31,6 @@ images:
     height: 720
     title: "Microsoft Azure Cognitive Services: Bing Spell Check API"
 
+secured: "uRERWPFaqK34orYWmkeeRtFW31+TTMOPWwB2JeWHnKT8TcV8oNTRVAWX1YEBvTUTTB026V6495TuyZHaWRhlJmktIuQSdv8xlyQUfxepisVGPnoa13/bzhAGNur4Sz1iwuR7oQDI7fDOJzfJg1WAQ+wMaJNeCRYeqWcnQZ/TIBXHRlYPzM3xrQ3ic3dTprvIg+nl74zdID/uPsvanQt3lsJGUlYzfmkYpjbA8EOzA15oJ0ImEC8GdcaaaDPFwSwpPROqskaXgauBlhfPkhvOz2UlVZgFPPfmsjwbxqUJdTLh2XaNhTU1NVZ8VvHsOUHOGj+lwdOCeJA3uGHO1lJ0xg==;lHU8xzo/4AvAlwK8ukDt9g=="
 ---
 

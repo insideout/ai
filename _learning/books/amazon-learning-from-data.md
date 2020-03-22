@@ -6,9 +6,9 @@ type: book
 price: $28.00
 length: 
 ratings:
-  count: 155
+  count: 172
   average: 4.5
-heat: 0
+heat: 3
 
 provider:
   name: Amazon
@@ -33,6 +33,6 @@ images:
     height: 218
     title: "Learning From Data"
 
-secured: "uugNcz8CSHyGWmMaEBjkGgc0ZzGHin/yjdnNgHu9wVzOHyluMb86SFi0FEzDwP5vBcy1OR64vg461n/s1bedCk7pFL09cH564LTarRld4qDz5Vud5YpveTh1ERMSeSn2E5qJtG4F5EEmBCamZKzK2eJxB/DmHUdfTJrh3Q85iIug6lMXldlcCr5LzNW8JgDve4sRyFjtgeUp0Jmf9AvONM2yZgM26OXq8IHxyu4p60f4p72gDYM0DPg+fs2YW220yaOPX6OrpZVeVY6tm+8rJQ==;BXstwEYmrOhM2GVmX6A2yg=="
+secured: "iPVzzzPAOKnobOKwRmz2gxTp4a4pZkacA0Hhu4QxuDL0ISGvwFAMzhEVIUPhOcWNuFgEXj/yQhVqig96aizD9P8T2nXpja6Vt2II/ksmzD1oJ0cOhHi12QC1PC0nvfyM8YA2iBs8q6NZjcwGju0JpTGG32szs2eeO2h8K8M9xWUDFnT1Re5K9GqBuib3Glp2eqpq1uSyIcAWNnSc5zNKkW4Bzsxtrg1M3fbMD3s5f5jykc51kHo95z39O6u+FgBvdKmffKpAFAmcq4mqQYvC6DmmwENq/F+FZmVNvA8ZDGQX0/Wj/+zFfFIczIvETOxhwt+OmdHtlNO+1a0NR3H7+Q==;xTfYiUiSDjY7hBSa4cIpGA=="
 ---
 

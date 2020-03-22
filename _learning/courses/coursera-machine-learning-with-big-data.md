@@ -8,7 +8,7 @@ length: 16 hours
 ratings:
   count: 1408
   average: 4.6
-heat: 36
+heat: 0
 
 provider:
   name: Coursera
@@ -35,6 +35,6 @@ images:
     height: 400
     title: "Machine Learning With Big Data"
 
-secured: "pyDrVYDUGlB1eJflOAn8q9rtT8DqP0jAM/3UeJND6qI3RVPz0jn4/msvfTKu0JTy26IzgWukcj4dSgpvLfsy6PUoa5H8PwmSc8JYF2DSFq4/end3komjXFlYczhujQrXRq2DQoj/PLBxY3uN5aXU8RyUv6Wg4kvl1cIEbs3nZ8qpMtUBLslF/HoLkRq7gZyVWPaWyn7lW8Brtszm12P5rYg+DqoN8heuIqpKzRVx3K9RbIIxnIGip/jVsP7Y63FicoP3c6afwfHqbOXMdROyuA==;omjwoOnm2sv/18NQ6xfkdw=="
+secured: "woXRDe8OuyTfIuHp0fwQibVsiN/mKoWowzz0VJyVDreSFW/icHvfhO8prC4U6o8qCSxUyYTnHaEfHk1V/NHTp6bCuK8GAhB7ZyOCFA6jf4BsaH3ifKAdE/jxBRFe5gUMdFxnETyu0zTecDUk90UJozcLn5BLAzBfUljyzkXQB/SP3BVqrudnQP+EZLBufblYPnnh8WFP+NK2EWvublRhxKYI4aiSUkE+LE6wAF2EEkIOJ2DUntysBc/UhXqMqur6lY4tsO9fnUqGu68fRhhQ2Mnbrv6xj1OZThmTCGvJl5ftNIhPAWl5wi2tx0agZ51vrxVa6YMqxMDJK9WjNCq0VA==;DA7zNNALlvehxEEeaxHtNg=="
 ---
 

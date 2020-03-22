@@ -8,7 +8,7 @@ length: 11 hours
 ratings:
   count: 1178
   average: 4.5
-heat: 34
+heat: 0
 
 provider:
   name: Coursera
@@ -34,6 +34,6 @@ images:
     height: 400
     title: "Feature Engineering"
 
-secured: "l706QjfOYFnhc7A1mewczr+vKawenoiGaugO1x9DnBL19ZKLVz9UXTPao/FR02BlDlwkqDRbSsoic1ghwa4XH1JQIQx3F9yeu9gaMslosIgcu1IpmmEU4bIsQC7njg1WWzuzsu1ce7R+Ee7OTCPwKeCTvun8vpx+hq8K2L5rfQXbWWskYq6SsB5Zcamky2B7u+A9nmlrME8fKc65k9OCZuZTrARCk7bjQ6zsAyRPmqHXKpp/Ogq+xG9nfNAzBE3Hej/LfE3Cq1ji2+Hv0r3lcw==;EbHVkTnPx07WW/TuijYFzw=="
+secured: "YMIbqHfUOpU0EZDN6XEKx87pJ3T7YZL50YvOan4Xp/niNgdNgTvqX7hbb+f5WRNRs/slR49LZ7CTiU6OL4F+ircT76LIhvrKDcMf8TXTF/XO0cjtmBA6797YjL0JtHj4f1Pv3fi5RVbPk9rA2Z+ahG+xYTOPSWGDyseyZFMwge1ju7L9OTS+gV+NPU0RgHGb1IjOqs5J96sDdqOlrk+sfxN1JvcmP3KYrOf9yNaCBj2OwzTFl2Jnk6AsfX5eQlsVANewZXAkLl+3thwXaWBs3o4NWUOxhXidXWOtuOZpS4QNB66HGn+4kcRinzvbNhSCmAELP4Fk/uZH8E4tWqSHUQ==;9I397pMCzUku+1Xi+DfZ6g=="
 ---
 

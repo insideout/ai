@@ -28,6 +28,6 @@ images:
     height: 188
     title: "Chris Urmson: How a driverless car sees the road"
 
-secured: "ZWVSxdaD98ZXaxMSTgEBPD+Y6hbPVWeunaicHugzhydTxu+a/xrpbCzDQtdaL9evvPp8YAI6zKYA1FIMVDEW5eoHxImVOuHVVf9dZ/6Mx9A0sv2qKmX8jhJ64g5QPg1MlAzrEUxKFrmdcOCRGrrTT/7YGrZSCVvlFIdmKFeOV21prpXkBWVnFOD29vaC3YBhhrQNaj8wOMS8dEXMpVASPt3hzUpp8VtLpEx+pBrhvh2dK8eEj7tTfKBXH746rZH5j0RotiARV953QLIoz8L4pg==;lsw1N2Jsc2GIqU0syjAsLg=="
+secured: "JtA53WStG08A8VCFQ+6aUnxX+Q3UZ6fqi6feyHj1E8vbigosSg2bPWHns+BmIByc+gDGMZ2zFjROf0kTw9z2Jl7xsttb+i36r9tfzy5V9qAbPTcQDk4dz2403N61M1iwHwW3GYTd5sHZy7Yxdv4RMB9/CNZxWY0TmkYuBrP/vwDXsn51GEoMC5A159HqcAq4ifFSVg7EAdYN8noeQ/d4DFw1jPoqd2+MQb99OfYhF1BYkPg2VNIToRCxRAhfXZ8Qah+GHtjbmvSuZhp+KXrake5NoVopqbdlLjhsd761C414cys78UhEKfCzHJjaJdmIGIs6uXSSEzVpcvlRPLdyBA==;DTg1n2IZnnuk5YAspljWDg=="
 ---
 

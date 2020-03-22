@@ -6,9 +6,9 @@ type: book
 price: $19.16
 length: 
 ratings:
-  count: 103
-  average: 3.9
-heat: 3
+  count: 295
+  average: 4.3
+heat: 43
 
 provider:
   name: Amazon
@@ -34,6 +34,6 @@ images:
     height: 218
     title: "The Book of Why: The New Science of Cause and Effect"
 
-secured: "DzvaCHgDmpT9X5j95VB2DQXzU2AUh6exDUiYCng6RqMp/Pm9ptgtkkUg3zsujVZPDZIP3cTE3uyqtpbRX9hLdoj0YqwxLKsIo9NB2z3FM7SJtwT38As6rMzAOGnMHZaSabx2sAjSNEMBeO/aK+tCKa+qaai9eTb87iFB/hO6RCZKObIxJssB9sj1DOrKGAX/1JejQVc3Y2RHzg3QHH70eMW0nyWpIljJkD677xgIcBYuwwqDBijCCF3qUnXsnjJzEgzjx8PBezV34wch7z364Q==;FRiDLY6t83SpliMeo0r9mw=="
+secured: "fTQmUBmXS6PgLECEU9F4ZbGhgSCqL1DvOm/q+Fs340nB066Gmy9Nude+11hhBKMUva32N55LDnrQFeBFTj2D+r5l2agotP+jPVl1qPgl1h8NApZq9Bz/tXJg+cGN6Tpe1msbtBCdU0sw8ENXtmchfEsg6Qum8sf1e1nCvQ+SLNCF6W3pPP3brxz9wC9pl/dLx3oWeYarGM0g8AVWP/6AHLaipiKd91AoPwSlPAwD+93+OpKiKD2jlZmZys8kZ25P92SmsBoPnWR3mRQ9JydoJfVoJwC6tcvUvXXXb2pqGnb2pAY9qwCy0e5IXk0xsOrBMi34W42f5C1Kc519WXWzjA==;afkyM9NFM5Rco3eg8Y9iEA=="
 ---
 

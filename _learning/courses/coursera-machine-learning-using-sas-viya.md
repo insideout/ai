@@ -8,7 +8,7 @@ length: 24 hours
 ratings:
   count: 31
   average: 4.7
-heat: 2
+heat: 0
 
 provider:
   name: Coursera
@@ -34,6 +34,6 @@ images:
     height: 400
     title: "Machine Learning Using SAS Viya"
 
-secured: "aAy5VQzzREucmAhCvCcJ4dxr6bV5neyFlBSSrPqjV+PFBcaB7c2D5FdM9SIedFxtXe37S3ILyDq62Z3tsva71ahW9J3jgDMh+XeYEyG8ros1CLyKUlPIvOkNMoNbddhjM7Z15MSoLNDGlBhSSQ4fmMAwa2wN87eYjtB7nO8PFJ37tTaZO5ShpCDIQ0znZWcNg9oGzEa9I1M9ml9HLVmdTvuGQ6ctf3M56YO/0NM1g/3x8BPi74mxGHDpAc8OLCwCijX6kV+brBiE+1PZfTxZig==;Gtf8tM4MfeWAClFEPdL50Q=="
+secured: "I9UzZ+mR5KZy9agxirbvy6H730GgkTYzj8t70St9HTWCQevu8DRVVvs+mkz8GUv4ETfzPWR4jsqkykqfmH+X0mlkSZUWBTU14UQ9vC772KN5quyYnJOaz8ECk3lR2jMJlK6KKx6h2JQ/svwPtPrm3cssFAVHNydD/jYgoL9cWhf+6BIofiLPC1WUjUo34875vVSXToa7VMWvw4T4T72euIBfao+WjRgqaRi0154okExQBaCZdm+HFr5taKEfOvMrV3Zy/vut2/rn852wdoFqmS+p3xmTm0P6cm3FoY06KqC2T8nTD6TOXefSycahksTEDgOt457md3IlQAJ1nGZn4A==;jNIsnP0HTfByTBlDcSdCrg=="
 ---
 

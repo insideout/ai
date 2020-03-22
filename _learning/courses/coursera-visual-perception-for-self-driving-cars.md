@@ -8,7 +8,7 @@ length: 20 hours
 ratings:
   count: 118
   average: 4.6
-heat: 424
+heat: 0
 
 provider:
   name: Coursera
@@ -34,6 +34,6 @@ images:
     height: 400
     title: "Visual Perception for Self-Driving Cars"
 
-secured: "X5zbCTIA620lNyevrd7WaMTi5c4wmbiT4p6uJRdQDkpo9po+kBnhX1osbfWLAnMhrAB4tsVm/apHsPhHmNAny06/gAx8XLNqldvjVdE4XRe17ybg2SCtNyeeLCaOjIOm7lOvBSK6Z1S5XtCNCs1HoMhxyo6vgTOuAmuioAI1BBsk6RXJWUzF1d8YIX5ZPTNrSJTzs1nVZN5kwOnoHFCBlvX/kcuO0GJWs4Pldg0aPyJX1J/bWk3/HyztM+hHFEz96JuN3im61y15CuEAPaDIQg==;M7s2FeFSgOCTPesmnpvSrw=="
+secured: "zXqVhLyC01FcZSf20iGr5XojGYOrtBA7HDg6cf/gaex6tD7hV1tLbz5sQrnPbEk6O/rA0dVJ9PitpQdd5z1EvdowqY7oL4mLSkZnN+su8oMd/tbpzEQo+5A49Gxtx8BaFqFJvWlr/7RHRdpXg2rMKQ0j+MWaIXlZQdtLWVBVWiEg3tGiqoovOWgGxnxZM1ybe6BedjA3887mIf9Z+PRdvlskV7o8tOLCBOGoCbIaIDolZx1PGnJWQUxxegaGFealmJerNKnL2fVlCxteB5LDnO+cXEHpNT26oUp4TpchKJqzJlVH0G4bKi4HnLVWCPe9J9w0Br1d3ONEBOhWvy8h4Q==;cNiCneb/dALGBlUuDgBUIA=="
 ---
 

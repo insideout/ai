@@ -31,6 +31,6 @@ images:
     height: 184
     title: "Intro to Machine Learning"
 
-secured: "joC5XTJud/YJ+XgR/cDwCJ+X91EzNmR/hF5F63LjvlRWlIYx8LCSxhNsK8zr3pSI/h7mQs0nDihtTofRQIkzhWS6fcHmIo/zk8tYUKoc6duleTEUsChMCCAayAwwY7tojN/VnZ84VQWQd0AhIDPhvdzaqbjynalcH/7hlAXRZVMPITalL+D29gYKkumEelqvd+TDJG1gChLKxZbTlKKpzerLgQNfCnNaSBqh8rAj2N2H8Y2cGoEejMtW3vUnD23EttqfzlRq4DBexQQLZ9DReA==;aWhKTVnqb3sbXgiPgP5r8g=="
+secured: "mT1HauyP/SqiGtVJ9LRe9P7ovYx7IZfpcMVZ9uwgth2F6QROt1sw2ty/DfDg6FAlEydT3UUYeu24HrEcXCHb4MU58zPOn0mwjaA+6o7Bzx4UzVsSri7p0YHDokW86K5EfJwS+uh2u80dlvevIj/75npLqlOlHEFBibxG9VSavOrAYjb6dcVnWKV6OczAWRXkm2jN6QMPHCjhLK5ScLiG5nt2u1KWvcpXcjFBU2dBGms67mo4mYrBrtVHgnfddFOk+5PVU2kSj2QQM6nkawy08nNMga7bngS/PnU8vApj13BBnu2K6zuRHSSX4zoUDNRDKUWjV3q/V6fPUkTw3GS2vg==;TIdHX5VqiZiVpdYPgMWm9w=="
 ---
 

@@ -8,7 +8,7 @@ length: 15 hours
 ratings:
   count: 155
   average: 4.7
-heat: 9
+heat: 0
 
 provider:
   name: Coursera
@@ -34,6 +34,6 @@ images:
     height: 400
     title: "Introduction to Machine Learning"
 
-secured: "VGOu0hAXAH8I7Kblab7c7nZJupGHyv2IGDcIkpwkpqUzIr1+AkxuxirdKEm6urCeFJMs9UCHeEmqCNgzfszRJikL+rq4Xpe/zzyGaEU63dbwcanRVsThLhFeEQb5btgALmaGbrLghXyTUUn6meOLCet0cB+Wp3Ij2o/V5CLiI6VUmop15dcPAn79pGj4P5nak1eVzmiVhjGVTpbvybwhJjLPDI6uNzodu6kZTo/r7vY4aJjgzPM0q63R6btdPq8tbJVr1orfGm4OivRrR+CDAw==;JBzSlSes/teWV7szU3EtQw=="
+secured: "1O7+NPbWC6H07Fm4zbSvTJYuz8ye9EY8fgzTNrIFGAIDHDlwAeBQC/m7oGW7vtSuKenqMpKn46ZiTel6T4z7mo+vxHzvlTRZmozgJvGxw6Y8qb2N86v0Yzoj1XQJXT54pwYl6l8xACHHZGdyzamNLGRC4CMqOCpDyOSSilJcrgtwupz2zxruZ3IwCSugRy/1A3BG2CutlwNl+4PdyzZsQuoLhviW5r5Dmib6JI4nSwUM9HRRTjr5pYEP4u99gSqla48XNxHlB+WTzrQRAwFvbfM8YcbEMHfDQpWSC/rVRwiBBZsJngJugeQoXTDih01iIKEIR9rZpcmatoXfEpWORA==;sfo94zzly6oRQdgRQtOhbA=="
 ---
 

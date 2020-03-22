@@ -5,7 +5,7 @@ webUrl: https://www.pluralsight.com/courses/building-classification-models-sciki
 type: course
 price: $$
 length: 2h 33m
-heat: 
+heat: 0
 
 provider:
   name: Pluralsight
@@ -23,7 +23,6 @@ levels:
 topics:
   - AI
   - Machine Learning
-
 tags:
   - scikit-learn
   - Python
@@ -34,5 +33,6 @@ images:
     height: 720
     title: "Building Classification Models with scikit-learn"
 
+secured: "KVB2gIRVbkWnJGPCmr8fQOsvvF2yLIdyBTF7+BjIvGNW/8amRetl5kIATlBHD6XX2r8b0/jRVtfj+ksVqOCm/BylxFIBFF9PIiwPfDLuANI0TIm7+/CQ17C7nySmea3ywofrxtgPdgEHLD3Eyy1BDf6oP+Ybv0l/fa/PkgjvVHVUQNLm43SYv1Z5640tPC7iJZ+MpF0W/AIwNSx7CloAencYx3fMwMEqYXB5lbedNeYsZaesd65HhjBtwOzcBZ0dydVmV2GXkmM8MlrpaN3WooNHvAPvs4T2+DBWM0dnLSEBOBnMaPqiJhOARxvVGgrLy89IaUM9Ly/7bF20NqW3LA==;VLPlfWaYxC9PEWXZxHEGDw=="
 ---
 

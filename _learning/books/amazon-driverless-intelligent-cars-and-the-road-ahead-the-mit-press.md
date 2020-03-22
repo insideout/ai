@@ -6,8 +6,8 @@ type: book
 price: $9.99
 length: 
 ratings:
-  count: 22
-  average: 4.2
+  count: 25
+  average: 4.4
 heat: 0
 
 provider:
@@ -33,6 +33,6 @@ images:
     height: 218
     title: "Driverless: Intelligent Cars and the Road Ahead (The MIT Press)"
 
-secured: "PHnSqirUNKmIr88ViGBHQXI3rm3IpCdswljK9Yk6uW74y6vmxzKZc025coYXU6p2m+NSkQ3BlRABvzxYYvrGs0o1Kob4I2joMx8hjDkLe2xivtms5kK88atDneFMT1+2ynXyBTWJv0EmsyDHf5auosSUAg0uijqoZcQOHaMY56a9KZLtEVpHUzAK3tHeNE+IArDOGaCGx+WYnzj2SQJFgIHaHxIYOYNr7fLG1DYultrZWDGtdIoI/jqH/QTRgqdBiTpxdnAnuXCcEp0oQ26Fww==;Qd+eFO/yxxgUkIX0YZCF7g=="
+secured: "/jp5a/vn+rHPXBOe2wUorcJzvP6gnxdDe26KtXKEdaunbPBW3uN+kkneKYIoFf6PjJ9ITMdZhi0UhtY/+VJAIsu4U0E4OKqJk2r8cifymmPRcorcU6NjOCY5ym+OMYDer1gbEj1hj44mtpYZoZTr0qoOsu66OVsAwy25pmbpDwKAYLgnoZajeSrxuqI9QRnx9UvmP0XU0M8eO3/YZnnKT20qn70+xflRAlQXTvU3li2bYvyrrsmVL6qqKBYA7aZTiFMgIsA/rSF18esw+Y7Ey1Aua3fMK7YUZimTR2x1y8AIYfGDq1TS85FFyL36dQSwA5s7otQTi8t+y712PwBnmA==;5D5X/hJIMD4K3vU2uvgfgw=="
 ---
 

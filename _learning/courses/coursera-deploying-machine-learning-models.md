@@ -8,7 +8,7 @@ length: 13 hours
 ratings:
   count: 12
   average: 3.8
-heat: 1
+heat: 0
 
 provider:
   name: Coursera
@@ -35,6 +35,6 @@ images:
     height: 400
     title: "Deploying Machine Learning Models"
 
-secured: "KzquxhLH+//VKCLfGt6Md7Uf2fh62SGzn3szSLecr+MTzNmyPZqlgAEh/rTZfLcPMNiCuruh8wyMjxZ1YO8RCvNWOyrRlcwm2GWPlNEq6OL6xBoLjDogP3kgVkl9VLaB7q2lkzBzeaE1+cKr2zC4uWUlAD8ezj+23QwX0nKpOzbcutU9uxTjUrw1vu6ckPuqyRCKNwWJ5tFY0Ru027LQAR63YjI7QhPG8+H5BrDOe0luM0ikdwjYAB2rOHkPtMHeK/eVBaCDf59yGLZoJQXMyA==;z6ZpFn6sWXmux+FBa2rUEA=="
+secured: "Ujxl1DCqk5h2H1h14Jv7VxEFQR5ATi54+6qTc3fAfUaZXY0yfKhRXwcU9ujrhws8S/O1zZjtb+WKNqrj41Lu345PPigXrXB0ZNT6ozZvDpdJXJTYI8KVC6GV5isr46cmbaz+Q2Lut5ekqUSYWGd+8eGX/NK4Hlz5LWKMfKDE++j5NGcV2xzfM1TfdOmGYrf3dAa6jWQwgLIdAc0mzW5Qv8Cm1FfTkw059s80BEWu59IuEZlzGMM3A8aG7urF4rKZcSDPyUIsCzU+9n58VLJWnj/vwEcHVbllT8y3I5p2AN+aRhitFf1MYIx29+RTu654cKvjqpgbx5j/7yzB3vd1zg==;XgJpWHbdpbXrB09zHOy8Yw=="
 ---
 

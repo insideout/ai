@@ -8,7 +8,7 @@ length: 16 hours
 ratings:
   count: 1451
   average: 4.6
-heat: 29
+heat: 0
 
 provider:
   name: Coursera
@@ -34,6 +34,6 @@ images:
     height: 400
     title: "Applied Social Network Analysis in Python"
 
-secured: "EfvEwSTXqETfdNJ5HAqNMbQWruSQACJCis0FvmnSMEQDNPWCwt9Ovul2JfnAcUhBIYhBU9sw04P8u3SH58OlN3minMhCTeFMz1Vc1pCJgUWWp0vmvS1GnObVRURZWOKAeAYCO1NmwGJfTVq4VlHSSPKYGtrjjZKti06J7B/bf98ilvpcDqJmEBTR51KkIT6E14r8sYNoAARLwVSvR61I96SEj/L8kPDNFjuhyP2KLnXHRVKUKdhvIpRVNJjlnigrcx/fT5HLo0LxQtpT/ZjO3Q==;KjM6UZkwWbKyaLVzhERTaQ=="
+secured: "VS3ftG2DFTtx2xi5DRnXh7aJ7uwUyR1XMlU2/ioN4jPd3t4SDceubHMs+9B01IqwgSoOw9MmthG1LmEQeZY1dUspkiXFK+PuVg8rdttnrOvA5ZXFne1trHA9vB8R2SiEPPI/PDcE6GiD0xbvQj4a6v4EmobdkvDVkfcbu3zk2K8B7e2pMWIwmlh7GMqw1LE929UKWFN3DkgMjGvL6/KSsoCRduIWLV3zxNCQGV1SvqM7krGRBBdsOfYTfthBio5yfbA8UYI1FuvZLfx07PyYdKqagsW8jN8hoPMGl0Z1JmiMmNKUDeEW1NZObRrqNMCWytoLLUBKtsocH73m8qvFTQ==;jHlU9/KOaQog7RmquupF+Q=="
 ---
 

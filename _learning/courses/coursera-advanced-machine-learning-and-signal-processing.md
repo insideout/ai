@@ -8,7 +8,7 @@ length: 16 hours
 ratings:
   count: 505
   average: 4.5
-heat: 25
+heat: 0
 
 provider:
   name: Coursera
@@ -34,6 +34,6 @@ images:
     height: 400
     title: "Advanced Machine Learning and Signal Processing"
 
-secured: "JavMPvZFJO/+Rk0TjAdFua/7R1Q2aKZcIYw9DfOv9TLdoP3Gj91N5Iw0Ni2OHKt9B3KIXAlbOgHanmeOOi5Poquo+taDpYCiBQ4PsJj3JPYYg+82P5nM8jOypnA1ERyZUrpgBD0ZDIsqivcVi7Z8Azfe+Nu1Fj+R8RhuWDNU9+LSkI8wvegvRnJfovvGbluEK2u30Waf9IGzSfAeO+qnqxwwuwuSLLT+ar8izOFSkLNyUjKKZJjeyxfEFYiHT5yjZ7i0eGd6q36dUXpG8BBbKg==;+P7DumMcR4qH1FOI1Ej/kg=="
+secured: "QHb2JBtUs5aggbSKWzCoVLEelLciaxFutUe8KFEumQsHmeTQ3uaY66tBryt3Z/flDqPwpJ7jA87gHegW/PDKKMS+HD0AYCjMlBzLYpzxyaDZh5rvp0hqFr5ILF01Npw2DwW439T6XF07LvYBP0yPhesyV2GA7vYydQdS0qG5AwTcqhksrxRBqeurYje4OtggQXe6652hWd4VEJc+BZCSisKEiip9VArfP3yk24iUK4oxs0ha/S7zZ3ix+wv9hxUmdLjrxcm5sqQRQeaxTaKhyCZ/qk2gg9VLug9mCCKB/K6r+Y+lQIOo8yfKHD/WfBLA4iBkEgAolt4jWTA2v7HFXg==;PByhCfP6kP86S4ZrjtwVjQ=="
 ---
 

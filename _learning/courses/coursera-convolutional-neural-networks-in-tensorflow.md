@@ -8,7 +8,7 @@ length: 7 hours
 ratings:
   count: 1925
   average: 4.7
-heat: 169
+heat: 0
 
 provider:
   name: Coursera
@@ -26,16 +26,15 @@ levels:
 
 topics:
   - AI
-
 tags:
   - TensorFlow
-  
+
 images:
   - url: https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/1e/b9a22461864399a689eb74c7ae1fc6/TFC2SquareLogo.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF
     width: 400
     height: 400
     title: "Convolutional Neural Networks in TensorFlow"
 
-secured: "I9UYtdTqCWnSilh8r9CqWVg8ZND7nYZ83UGlWfv4mqxe72BnmL302X4e7JiOiMlBJ2eJEBNbhYxGwMIhnUGMq3n9Jqk16XRBsNM+fA1jgD7T/h7YZ220YCbakuc11ZGeEQ1zZgFK+TObHnoBXRL8EpmiyWmn6fLBIfIOfHAobJpgfrSqXVAb6Fsc6LVRCXh/SEDIEdFlr5YDQYgudvbNjG7/z/0QE7j8sY4766SvrW3vYA4yLt6ulSlleg5fE5Iv+B2YXu9VQTS3JlUNxYVmDw==;lAEHWExlhCFQ0s3OpST3ZA=="
+secured: "Z9LTfw0BTnC5i7XC9ZGiNU22O4F0jG/iSvBL2ZBmWNJah2gSVdBhKSXcCSnDpNkjNkk4yB/akOb2Ad+bHSZkwXXszi+lgviKGk4/VMsSWvNe2VIlkzcHa1AnMUm+bVS0SsHwAb5WWFqjZwWn9AcwBkrSWcQCmsrYkECeHIJZKX4Se4cK3fC6lpDRPhEgTTIpo0GCZogx/KrQdFo8ZMvqm9SqAlKum6jzr53WB1fjgq5qOulti/LirHrvf+RjInqB5tZgYLfq99hM2QtDxAqKwSGQwGwKrRznzbxToHW2blUc2f+JXa/5aFtsjgDGpIn8jbjga6KVcMMhBIxR++iLWA==;FNVGsV89RfG2Xhu2XbleQA=="
 ---
 

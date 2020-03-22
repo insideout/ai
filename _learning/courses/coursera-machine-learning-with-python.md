@@ -8,7 +8,7 @@ length: 16 hours
 ratings:
   count: 4590
   average: 4.7
-heat: 327
+heat: 0
 
 provider:
   name: Coursera
@@ -34,6 +34,6 @@ images:
     height: 400
     title: "Machine Learning with Python"
 
-secured: "/+5L4vKyj/svMZDFPAfjIVyhQHLli3W5fkFl1KOesoRPl4txAD0T5Q650+yg5STgtVF5rouXUWzO8fC1EYka/CyenFf61bbgEBeUFrBc7ZAXioLypi3WdiLEnO0t7FnumHVlM1N5pfnd4l5GHiz8tItA3q5AIazzoG/TQrJV01s897MMfJYihsStjijqwHs1x/yrP4d+TfKWhUZoG/SE+P6iE404IuQYDI5jEgHji37WkdTgFup51sPH4sexkLmbfjSJSF+hfd0neF5yzkLcUg==;FhxpmbApemELVOwTX+CADg=="
+secured: "P6Smlq9gV3skDTe5xzAAOEuIulYB6m0bSnEkn+iBKLSvz0IqFKUDS+BF5paL0m3I/q0VDPVIL9m9eXCGQPzkWiFzzl6QY8EmMjtTcxz/UmGu1ZZgADHkF63SVboC3y0KahK28XCQBBzFHHS/MDeUG/swj9UAO2iUiV2I10ACxmx6VJpnFtn8VXFKG5S0Ut8f8hUacqQCDmU9ipZRSJDdjLw1dHAOwAH+ZYUw7ky5QA2OOMBqjHtq48H+AZkllgkolUlEphTsAxgrj+8keQj+AvJAb217eK7fNaLHau6Ld2hdph3nJWj7+UUw0d/cdClGfe8o93uMjg5t3QRh4j04Zg==;tIdq2r41WsMrCRMFly1qeQ=="
 ---
 

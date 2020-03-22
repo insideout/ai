@@ -6,9 +6,9 @@ type: book
 price: $10.88
 length: 
 ratings:
-  count: 375
+  count: 467
   average: 4.1
-heat: 3
+heat: 18
 
 provider:
   name: Amazon
@@ -33,6 +33,6 @@ images:
     height: 218
     title: "Our Final Invention: Artificial Intelligence and the End of the Human Era"
 
-secured: "zubZwaQ+u8x+UZiHy0jBiqu9Lbax7Tey3XUhgsdrhh7G0PPJKDDnf9S9NoSBeBTV3wSE0v+3+PDCQD64YKnMSNZrdinEYPmsPtt75cBUIVFppMWFTGr12l6zm65AeTkgKKoRjchF71zZTPvj69n/0jUqMkaXvZdMmC+292mrMdZ0J2N3dKfMNY+qEBax/OpQz9B4ZtfHhHqlXEKZAt2Doidjsd2iCi9tC6/erYoJC6TZNNP+uj192cj64yj525uiERj1keYP8YiM0KD80NTCrg==;89xXsbYucmoTQeS3nZ0MRw=="
+secured: "YiAJYBUPyvtgh/gVcZuZCXM2O+68voCLW9Y2jUwCqHKB11UmYKSGNGMjt6varsNM+bybAyC2QgBs4/u9njPGGNM9yszm6vxVDkwGZJfrOvM8DrbAdXi463VCOpeoGtPXPSVTThg8kqAdkOYxAaj9yJLeKQIlOOda4pjTuQ8r8Mb//gBSaxBr816TdGvo2rcITzFVWLsyPlYyMAxpjZHOolGb7R2GRGdOnIZmfMrG0M5Qv6JkZ6X26Q8m5zCoTsv+1YJlKzLrWTktgPs6AhCrNn5FBKEuMXpLm87ow0POn6jWSlAVCXe5Fbtp2cFTFhlCkwqzR1ol3RNcKh+Eb7fX+w==;nH3ADzHxTRrhOS7mtObWWg=="
 ---
 

@@ -8,7 +8,7 @@ length: 16 hours
 ratings:
   count: 197
   average: 3.8
-heat: 5
+heat: 0
 
 provider:
   name: Coursera
@@ -34,6 +34,6 @@ images:
     height: 400
     title: "Fundamentals of Machine Learning in Finance"
 
-secured: "HwO6TpnefBWCnXni7+pLqcu0IpIjZ7i0pX8kfNXbkBiDyO/C0ymOAPluLKDgruB8+fe7fTqXAY6bDDvXbP8ApT7UE4s/Mq3VTX3Z6PPMH2R88adE3Ptujj4JFYJdKo1H1mKK5Ycytw7M5s91Xx8DkS99cEHLg92IoyAnx4LV/TuJgBYWuHeJkxSk4kiRHVF/YNJ1D8kLFkhGPapZAX0MN+Oi0hFIkURjPkQxOOHV4dJJr3fTMYZR7lFeiTgl1/JtYdmziry8LvTw9m/Rhk/BQg==;kv2XLVDfJ6YNjCUVcUIYXw=="
+secured: "2d1y3n+bxI12vUazHI+wZxtvjtMwFRYMnD9RLCu7d/q1nFFFixDD7kV4rNf2wpALrDQuF53iOoefioXES+86v+JUWMZNGpvQmuf7v+6SC6IL1sy5aJL9MFU/pjDEWvBX6fgAZyMc1CMmH83X6qJlml0tStKyCk8zQYlyPzdJWwCoGDGvkjdBwhysLBdD6ykrEXX4J2E41gHECky+mmZSVSkGHeWKttlL2RKppb/kGJPlrkOcFMNS1x2SyWfqAS0IPn9Kzl/bc4idv4KQ7Jz2jCs9DyvfBamMHorfWRVW2xA2991pTnVxYb+HK7bL8y1kMvYbcc+jSkG3fr7S9OfZtA==;R4e5G3PP8Mtu8rJdArVATw=="
 ---
 

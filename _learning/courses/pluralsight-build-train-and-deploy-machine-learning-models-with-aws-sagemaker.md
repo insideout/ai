@@ -31,6 +31,6 @@ images:
     height: 720
     title: "Build, Train, and Deploy Machine Learning Models with AWS SageMaker"
 
-secured: "UxBcikd5Js9mPv2oUEW4YWWa5F4jcsKD2IkffPMYeL6gj+JKyihEmdalJqeP4B37SWoHeLwjhuMmofhlPWalHkWK50TH9WEv5it1Z1jhaHseg3PszXVLex9+tQY1wpDjC1MZ7qVVbzStcetihfkTT7tX1LW0dvBWrcSff7TYTG2rAjWiBRSE0gqi5+U7MkZUrip/Z+FJACELO4V/+5a7Zh1/piFCsY0+e9UjbqiSvwlOXDI8mnJ8Iz64Wkw7HOMAKFN9kY2rDx8hOOca3xcFTw==;Md4NjynMt+PKXX+iPb9kiA=="
+secured: "tksh2XKg1Z2G9ObLNVpZUpcWNZeg6rAORtvWSIGWiYfZVCuWNz45cpkuf4vs0j83SyerssbFu4q7aV/Lr7dx1HJTv4VxAhgqTzQM3mLASwHEYnK5pjU3QLlQvOozPlAywwwr9N7x8aOcSWRTyXT0dMf9IQ8C16WN9QdrGal6En6nnP09jv5GPrF8c0C77Wmskzlm2Z96IKMCxI1fx2rk/CLDpUllJGy4TLipQu/u/BknnmBXm/Ng+H8kTThsYBnQopvHL+AXpnB5ylJAKWqqyIENehEvbJ/NruUJGslUNAmmdSVtTLXIrhdpsq+NcZDr4+yCmIDXQeV6XtuoBBOMqg==;lumMR325g56fF1NpDGWUmA=="
 ---
 

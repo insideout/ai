@@ -8,7 +8,7 @@ length: 24 hours
 ratings:
   count: 9090
   average: 4.6
-heat: 65
+heat: 0
 
 provider:
   name: Coursera
@@ -35,6 +35,6 @@ images:
     height: 400
     title: "Machine Learning Foundations: A Case Study Approach"
 
-secured: "iznB3sVCd/vytUKCvFQB9urcEEoVYLC0vWvzbMcB8mG0VBm5xRckNB2gc6NnGe6VDgqAOVtpTEkflHWfImFkSPAOtEC+H8rpLp3CbvbP7ofBY4rSImogrS5wMFxqKT61p+rAIRPULOShNH6UpooC0TgMI5B/xnwMKDUwrnwaC6VSSD8/2lgutHHuC1IZkv3asi+UVL2wHxKAao4paaTucpEn2SIdGE83ahy7K1OEeZppjPN6nxTFTuTGx26Us6ARaEOmL5SAEd0mUQxfMU9sAg==;inSjCM5R2CL7a9PisGiI8g=="
+secured: "z1N85hrK5Gp7D/B84P4Iv42oAr1GqyyThl+7b3VotzI78/WtxMaRKoZn3yZ2i2xw1O4HMmun5nnOrO4+zmeZc+TL7wUvneJbSicPmsqYHKxLlP7YRkMiokHp6Ktp79A8rTlxqO/f3ajnWwtVw1mwgGX8RZ7TRm6NwDh10CJ9doVBOEOn+PnDM8PrndJak3yVEryisAUDuQsHjFJwvIwm1S5tnYEjv/THcuDl2Q+bX8ezLYAwNM5MjJ/VMZr+XgQujGX0kgovwl/xVaKRPC60Y79/Esc4cssDolcC3ZSSjVZDOt5GYhJbiEnKxsXoiUvFd2GdoaOVA0aWx0hv6IEyeA==;7H0H5R8lGKHZZx1B/pVCSQ=="
 ---
 

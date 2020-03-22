@@ -6,9 +6,9 @@ type: book
 price: $35.99
 length: 
 ratings:
-  count: 19
-  average: 4.5
-heat: 1
+  count: 41
+  average: 4.7
+heat: 5
 
 provider:
   name: Amazon
@@ -33,6 +33,6 @@ images:
     height: 218
     title: "Machine Learning with R: Expert techniques for predictive modeling, 3rd Edition"
 
-secured: "0a2Z9HXqIv8vGaLDrNePO095F4fN2uBDVXZwVnir5TqUu3ojy/vB3Ho47sQ4Led7Yoo7ZB+IT64b0nKimRipqGTe+d+K9/KEAtf97wOHzbH5EATLCUYlaoe+CH4QexNrnf6tJs1GA4Kw4jXltsR23pgdeVkAkjbmXB457+gtt1x9EQTtfuMxxScjVPHtzjHiqp+MaHo/SZgJPo+ZDu9e3U1eNL4menc/aeR1Uskkp82qZ7KXtWg724TFZiW5lPq56S7c28rJKEaMjrrR30/t9A==;75rXwAybY770fY2LmNvxEw=="
+secured: "c00Vz+heWDyLgpVUtEnIoXxS730Hgpzy+WymSAp1bNHhf2g7NSrVBGqZg6k869JWVsdq12KrsL0Szw94lcEBL/ihAYT1Ucrefz3Ru+09k+hFcXhWW+hIacTPotub9PHXj+UxoTI8JfvL5K9taevEzeJlApo4hux7fh8ZqPRO+f1+F2ia5lret64ZAhf4Wd2qsJRFGNFXmZPcJMZ20eGO9/2mc5JzIZ9JM9bt9y13kdjaVJGqIf3Y2/vzfSzuo+ftnbSkRUHpu8GBaKAzfFctB12VaFuH7NJEJs4gGinPYc2rZoxRoxYouoJcgcd5+yR7Uxar3cxMHESdehGWu80D3A==;C2/BWcxJW1uByXDPaWku6A=="
 ---
 

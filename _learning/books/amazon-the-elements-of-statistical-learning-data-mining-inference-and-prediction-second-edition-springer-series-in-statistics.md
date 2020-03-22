@@ -6,9 +6,9 @@ type: book
 price: $62.93
 length: 
 ratings:
-  count: 150
-  average: 4.1
-heat: 4
+  count: 325
+  average: 4.2
+heat: 36
 
 provider:
   name: Amazon
@@ -37,6 +37,6 @@ images:
     height: 218
     title: "The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition (Springer Series in Statistics)"
 
-secured: "y+GOLLTU6YwW2PpXO131LHMntmPtSYKATc6M59CBCWrYBWH1Gmp1fG5LiZGX0TvAUijAyh7EVcd2CRWmXyJZ9xf6AwMyktXaaaPvTLftnfRtqv7muapNdCeBdyvebyEuGowyppMeaT2E48MfbbwgC9bhXUc62jFdJ5tATq6WmzxTlRTh/GKAiW0QVO0eiUyUAJgpOOeSrqvisjqXDgySWe5KUykPm4HyQNNeq37pCz7z7WG4ufuY6oRUQraBxqJqUyiOkhaXYNH6/BWBhzSc+w==;ybHErEok6EU8H5CJA0XL9Q=="
+secured: "IhUmalflf2TVfZKJ5KITeFeVC14PCzfuzx2nuVg860NGQiX/e1cosabG+yMlCg4Wm8DAcLFtWu2/WRLwVQY6M5XRsAk1lJWNrmAcrsXlzEYbPtpx3yWaA+i7i66pJgvkONW+H5hy2YQtyQ7OrTad//hcPGCCHWEoy136UyGU2kCrnNiMX0a1WP/leZd+GY9zvsaNgReCP6b10pvprF1i5c2pRcpnxYVcmavTQu/g+eyg0o3Ipdpq0g/lMXtRRXMTQ/U+5ga2Y1SSlKSyRWgN+e7X1nYpAlaq+UXekLu8DmTGoxXct57KjGaOLbnox/VR4gnv/qW6p20gTk0ip5oYUg==;CX9F2lfQSd+OChzSXVHSTA=="
 ---
 

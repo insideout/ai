@@ -8,7 +8,7 @@ length: 25 hours
 ratings:
   count: 173
   average: 3.8
-heat: 10
+heat: 0
 
 provider:
   name: Coursera
@@ -35,6 +35,6 @@ images:
     height: 400
     title: "Deep Learning in Computer Vision"
 
-secured: "8beTngqiq6kQAc1eIKZjjPZbqTJhYmN0LzgQXEq+5wyA12XY+e3r4mGQwRRVYQdECICBo8TiQDICe1lbqFpH2lRZD0WivJ5m+EqFKpGS3+V3sJ0Qgfb6Uonbk9GYo+PcMsgCitr3cW3aRF1Mc2gqOle98xLdCc7dYo4UnUXNGiTTSrEM6Uq/cZaon5Gp1r1X4UZtX/Aeggj/U1jR6k3BLJz8WqvozKgDnNBk2bv1JZx3Q2Vo0CBEt75lHFlBqIJ6qQjAYZdjjGIFPG8ARYM2zQ==;sa3Sc5imt/hAZEGki+3gDw=="
+secured: "yLcN8Fdjmc2ME/wcQUH7L6f3wgrI1X1CZNyYomKFq1NH0rSfgMr920yf/RVPjkeDjy+Km2Q9Ixv9ECh+pf1gQgE6xz+4woIoQG4901W8csTydHOaysIOY9dYiMoaAI3TEB2L0R9Crtu5Rb4dPxEKBrb/7D5Y5FIl86VXRbtSRAI7Gk4FZoNmvDf+kAr/5XTS/Y036Ojky21NbMBsosuiRKPtJ6UYWqrAFwHFbxoqqqb6xL1NjvFm2gOj97P50NDmJBr1lOmJR0nkSuYKPXh0+U5fgt6CJPItVQAWm1fSge5aJMIGCHu7bgGiqyeyvQhC+yJiwhEn6rbx1lc+i8NIXQ==;FCrRbbyp6qXki6ArMI5zfg=="
 ---
 

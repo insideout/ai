@@ -5,7 +5,7 @@ webUrl: https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010
 type: course
 price: 
 length: 10 weeks
-heat: -1
+heat: 0
 
 provider:
   name: MIT
@@ -28,6 +28,6 @@ images:
     height: 1080
     title: "Linear Algebra"
 
-secured: "Epj8xMobQoHeKBERokh61Yyo0oUBpZBk7DrYlIIIktbhaRMXRiCPqwiYB1jWCMfaRwujq352QFbtwy8vXj8831pi7T8WA0SHXLRgv8e9kQUYoQthSwxv1H7FqWP7rYfaaIrbkUz9Q7qsAuGUFEzRfmwjVO6bPdoXDmm2UiQd+OCO5Wt2ujDZTQ0064YJLkx3vvf8IrMQSr+UBTdEBGs1JU/SSV5gvWxM+BSqf6bZUjaUFW/mHJ29VVDktBa04XOr+stqsTlzEph+tdvZ6j+wgw==;wcPtP2WZbsCLmTLPNukS9g=="
+secured: "pmJ5A/QYVGKb2KX5b5emjeY1jR9gOoX+XHRnZ2drEnSaVGdq0oMBli78H2VXrlhp/JpJ1A1RCa9ebPMT4/9EJ0i2Xi2IqsLQKFoYTgyrrpy1UJj1eoTRCY764zU/dx14lKOdNnRrDMqpc6oZMZv4VpkqIDqPKauVxAwCHTNa5/STFEcUFV3HGG6t2ZGMgIlsQ4MmhAw8ND6gfdDLoO00KvCKxjVVHeRiV0FPApdXONQri2W2ZYqLW1CyP5azNwLP1DUKIoNxD5r8hioK1I25PF0E6GBGkPdPLGMla+ZTYfVm3Pe+fx02qN4//3CXbBuvzqwt40hJEPmUK3758OWt6g==;fMEBXgwFY7Ed+TjR1LM9Xw=="
 ---
 

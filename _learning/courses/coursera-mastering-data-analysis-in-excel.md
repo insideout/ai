@@ -8,7 +8,7 @@ length: 29 hours
 ratings:
   count: 3032
   average: 4.2
-heat: 26
+heat: 0
 
 provider:
   name: Coursera
@@ -35,6 +35,6 @@ images:
     height: 400
     title: "Mastering Data Analysis in Excel"
 
-secured: "6rJjEwCvPL7fiBSfVXSqLnlkhsn+MMlq5ennB4TY36PK8V/6O7ik8c3gqMrJ1JzpQIZnkLJ+4rqxK9RDOuGqI5zAT96+rLymsSxKSAUDbwkf0FxsdKyH8YpZWtGvk/i9U1UyffWhKUBPtJfNj6UsEHCwEI39kQJuF8O4xzGj6xCKBa8KQEZ5Z/nYu70VFVVpQVaTsfYtXncPJKjcz58T+tV7Je4h0XUyg7E6ykcCG3ak2upZ/t6MHj5bE8xc8QCsjqugezK+Mr6dQ1hT1ibq0A==;HJzvn9VC1l61wQA5+eDPpA=="
+secured: "yHnm24rAI3gw2AWwkxOMdz+s+iU6O21mzMkfXLHXp+WWc5bjj1Os5kDvT0AkCSgthZmi2mT7DEQNdq2vD+akj+CtLzDjNCIJVwDlVOMu7Vj9LL6MkuIzaRlJ37Scl9TJMImTBQP2+nicTI6X2lUVjcksY6YJlrfVN0zVA54XJpbTfxh43ugUog0mJz5uZgczMLqlYjcsvM73UnnE8Fsa7gERuWjOG5D0jnx6o/Wfn8oOZ3WnRhC72y/aOxVzFsACKxh0RGlqkWRCN+JhszCLKGlBsnvSLb9y6FfoUVBqcKKgbeEY5yBr11gP8pn+Gsiph6pcyIbVK7KfMKssDUMAFA==;QEjaV2Ln7fncu9CyjA0lTA=="
 ---
 

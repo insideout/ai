@@ -8,7 +8,7 @@ length: 10 hours
 ratings:
   count: 4407
   average: 4.6
-heat: 104
+heat: 0
 
 provider:
   name: Coursera
@@ -34,6 +34,6 @@ images:
     height: 400
     title: "How Google does Machine Learning"
 
-secured: "Jem9gBFdZqBb3AXzwYgmWf8qITLbYYUT+H+41gFzgMYhKI6NBeFfVVl2Vn0D3QrMAwW72baPJgjw3voCo6QdQMfSNVYzgdtk7JnncoP+GQz/Ce06Y7dF7YTbYgH+1a6QkMDRvY2OJfFzHbXjIYgjW7C1DYjzxxHDB35JlXQ8FRfxaSo83CSgA2UgXJRfvCQxwv1Isg6ng6obEq5KR8Lappb7nObsmNhrO8t9lYv3Ne6RiWrMMWC0zCcEcvBpCFPRsc09o6joLJODah1XdOTx0A==;C+wUF8UIZ1NTgi9Vjbuqrg=="
+secured: "14Ah1FAV2Eg9ZU7FLsQKbmEZ1gZeZBHqwOfuhROGElUwY01nRvLjKzyM906ck3eVhjYhytQoBg2tNCxS4tnO9aiZnjjddyq6f5/CIxkyDKiNfD2JNs4bk8udzvdVkNDGnyqW3jtOBVJaf/rNddtXHxhJ75RhmTjCHvRgnu0UXYpTYrVWCt3sOAvryhgWwTC47U/nFMkM+8fjUTIGgEDqollzd4CrqZdOtPYgFucMwrIS9JPR52r+PZiNncl5eqddMxCYfKh63+ALsJs+jfA6ZV6weXN7ZbBhj2G3eegAnrmo4GX17i2C41gdieE+AYtUSnG3nvdtmPNvoRRt4hFVtA==;hyL1qbdOV2MqqGE7xv602w=="
 ---
 

@@ -8,7 +8,7 @@ length: 18 hours
 ratings:
   count: 64521
   average: 4.9
-heat: 1296
+heat: 0
 
 provider:
   name: Coursera
@@ -34,6 +34,6 @@ images:
     height: 400
     title: "Neural Networks and Deep Learning"
 
-secured: "quysxtoZRasnKSUgagFL4M8fAyZZgheRf5wrykPzhbZokz/bfaOBSfgXiuwTupBrpHzmTO6ObwO+wyzO4acN21a27E19VgQZDnF2zbrtJl/MZjq5hmpf5x9sRg/H7EizeTYXNkWAsEoRNu7JzPkUTBwP+FY8kuQ2ZpmIUq/YKK6IT1kEb+AbtGJk9QsDx0S/7YjMISwanXRl9zye5J15WXCI/O7mK6JkvZHG8iIc0n4dPUGsxA6ayOxjSDqR+k3PNgoYjI9ObjsfKRwauJRGHg==;aABybuh+5kMc52XQFUR2mA=="
+secured: "+s06nu6aia7yzpyBcleE88pScMk6433WspVAd8xJ1HcQN8b2OTvG0cy8+wGMS+2a1D5vEvXC/4wgg3HcrlrDbjdqqxi323ZawgVg8RcxIYBBzXPYRVMA4ewVU9+9kuYCnDoQL51duue1YezWwV2ndLOUOSN8DgfpCX5CBY5NmNRQGuzqEMWnSX/yRv97R0RvEZRm1R47WXbNuIStx4ixSboi2Y+D1Fqa9wL2YIQAHKAuEpHkk1Y/Qca92AHUPSAaEhIB/AAz9h8CBSsnXQ7LhF3YkYX8e1tl65vhNoYVf0dlLqeKhQBxDgSMqfdwzNrw2W9kU0zm+Gz1d2SAy0eRaA==;hbYR7Ri7BuZdrM8qW3vycA=="
 ---
 

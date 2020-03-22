@@ -8,7 +8,7 @@ length: 26 hours
 ratings:
   count: 525
   average: 4.8
-heat: 1995
+heat: 0
 
 provider:
   name: Coursera
@@ -34,6 +34,6 @@ images:
     height: 400
     title: "Introduction to Self-Driving Cars"
 
-secured: "ZzTGAep7MnFnCxOXdhCjnRzIoLb0VIRiK7Qbfq4XPGxAaWRkc//u2B3ehfzNMLotnHBEqA/wiI7XwEZR4Ew7Z+h+yOAd8yC+DrP5+IEMNm3CSJw4VbpCcx/kYLrLBUk0Iqu9SqA3l8HVvqNd2Fk/RdSsxp7Z7F+atoI0N0QnIsLsfs4FSTDDRNa66+Vg97GHJkYhtABx2BppH6DZ+xPkxxycekFSPOP1Mzs4dR3sfdQWXxhQHZ4WET+dfjnfakWeLcKEC5bKUy1FeM1plgFaRg==;CWyxt3iVHBJ3bYX5/zBF8Q=="
+secured: "d7pxB6FnmTPHcK/7E87A5gg+1M1HEp4iBouGiDIdNwM35G9h2iNFCntb1kxkJowMUpcbpWd448nbD3sLm1A/J1cIIFN7aJMijzYm28j5BAKO3URNfokS226NxnToE5jzaY9GZcatQOafmSxb3+PqQR1chHFjPskPfeuj7QpTksj9d3X0SCO7ldKUhW7ICsujCgn0NnecIBOtnDP2Ri52EFm1QDhRAU4rPZXbsRyfdT2EL4nieg2cIQ9x4ZjNoqkHhTbPY4l424Tj2IjYCA1ZsjzZ7Fi//azAXowMX54sS0mNx00yZJ4NdItQHa/rJ7lDvAuuR9jd3hkSCFkdJXSbSg==;GEJho1f8xEDsyLOzI9t5ZQ=="
 ---
 

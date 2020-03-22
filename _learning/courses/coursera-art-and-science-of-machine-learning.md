@@ -8,7 +8,7 @@ length: 8 hours
 ratings:
   count: 941
   average: 4.6
-heat: 33
+heat: 0
 
 provider:
   name: Coursera
@@ -34,6 +34,6 @@ images:
     height: 400
     title: "Art and Science of Machine Learning"
 
-secured: "MaVeRZ7AtAhOiKf8NMdQ3rk6/4iGj73bsP0rHYtLFBG/BaqsZ2FLSr5FM6EQEnObqrbAJIz7ZZ9zHD0ajUyZ7ac9+74dbh66p6nXLDKFEXUGLm0ETePwlfsgB7d7LY2ysyDy7Pv0/GrCigDzqFH2ynGw3C0JvdZ+fzh7vVbtGKBZeH2WTT9SehQOqTfQt5vuA8Oj76X7MH0BjZtqZwt7AJAgX0zEwcfS5qnR7xFDBvdlhxYJ/6AR9LbxIR+QCrrer1sEdX2Eb2FcXMN+pl+Rbg==;ssj5piMsnVHPT+2jXFB1dA=="
+secured: "kBE8ZZFgpVdjxejbZUfq00yzLIVNXghTyCqGRkIYbGLKgfThQibmnDBfAiEQbbNBfxpVayLcpmb71gI7RQbs/MfCBk9CHZCFVCnRWW7vODxUpa/seFlnOEqEfViXTR/jAo7O/+OxBk7FLiNN7KDw1OaCk93sbbTNdXR544PjFTbtEJ9GcVey3C7fSNWnS9D5vqn3ffyZ8Kw8zrB09d5vv3/k68VgmR6/xV7bw9hXulvKG++p+s+miSBhy/Wm+5j/wy79NhcaHEN8hh5LdK8RnB4uuawY7zuAW172IijKFnxw3S6sh93PG6sE7YOVt4grEWrxIwbTk87DBt56wQ0/uA==;a9QcO41luuu7pwlE/kBCjg=="
 ---
 

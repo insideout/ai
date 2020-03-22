@@ -8,7 +8,7 @@ length: 21 hours
 ratings:
   count: 252
   average: 4.7
-heat: 932
+heat: 0
 
 provider:
   name: Coursera
@@ -34,6 +34,6 @@ images:
     height: 400
     title: "Modern Robotics, Course 1:  Foundations of Robot Motion"
 
-secured: "xCBkVN+jZdTI0mFRQ7FfqH6IZqOqXvm6s2DnZSVi9EhEIt2AK5HhY0WOPsuuTXsh/ipy3pHz4vCC+UcGo8FQxiGnfBzhfn0hFpwG53DyAqBJEWyUfy5dgRgliH+5pifHb4S/meDXO7/yk8N8j7RDH4Kufa8ZQQXaZqqQZwGEHFKQI8K84Q/6jm9BzJwnZhfjopFEaWLXOshbvQGifOaVtE7HuGGxDtibWwh99PSvMi97Gw+5lR+ydtx78wiSbjO+9JyIbAi1NTT1pLdwyE9BjA==;FRZnx0HGvWQ9KSYvwMCDRA=="
+secured: "9QCv2hstyDs886Uu2kG3X3evNrlLMy+SbQM2EyJgY5Tt9lIPsCaU8BPz65lMJ9hnmRIqQpjfert64sZqQNs9NYnOi2mRbXd/Uj8ZKVPH2KoSQ8CmU1XZuohkzio9KepM4vHSXzt5n4K/496t6kc3QFQsyDoXZdDpInAG2ZeGBbl+D3/m0v8Kd6VB7qPZ5QXEJS9WFJOsTb5nDfqpyMXV5RiTXrNlIXSg9eekT68MyZJ6JJBlgkRBlQva9tfeJJz4UDcLJadYS/lWa6DvdMRHQKhTD9cQqv/iFx3FRXxXGGTLSyYpttCL3lHbkiRpKcQxhCfhSnK3xvRGTneP9xpBCw==;FmHImOJVVom0qzNekYsFVQ=="
 ---
 

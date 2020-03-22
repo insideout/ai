@@ -8,7 +8,7 @@ length: 18 hours
 ratings:
   count: 570
   average: 4.5
-heat: 18
+heat: 0
 
 provider:
   name: Coursera
@@ -34,6 +34,6 @@ images:
     height: 400
     title: "Applied AI with DeepLearning"
 
-secured: "+g71f4X+GIqoWe1zZGHtQ+Jq+0Nk9YKGBap0vrKpo85Zr/iPzo3oCG/mXArAWXos2sqkZcFTbiHRntkGmpireC2DW3TVcqun5qDr41rI9Y73XaEFJbOK7y+X/UscXMeeCPfjIllaYMzQHr0XrJKYxy7h2eeBBS+DWznMOBkq8+aE1DHFuJK4yBSsUEByo+jSfaONeLTN1ADXCQrzTdfhQD3ovGcxnxyXMXF7x9AigScRIH4uDw2UhF783ify7EL5seWwLsUg4bJTqjkCxqq6zw==;pkyMmP2GgyTHXPsb4SWObA=="
+secured: "46U47VnFGGa4LmQ2MxSdRxQKR0awLzZjk2D5QNd6IdfJWsOFdlileNuKpie1q7Vt18UR4mMQvexM8xiwEyOmR0ALRAXm6JjTCVnih7t7KbnWcV0WgLDZLSX/p/KX2KuFCXwbSbKPEeu9Yfh79dYlSpt8bji/t3yeSDpHThIqT7Odc0YPjMV72epAadhylvUqiYagqFABOARdlvKGsB1yBqWqnX7wr3kMh3q882Ed3TZeDRxV0m6ER7/gztDqGDFIIfrnJgFGwHgUNQd3wCLKwGXt6dzbZ8kxDYmZpyB7/TrR2QQmkE0nbRGpfbtBfIunlSCpBcUX+29QpUDpjx2+BA==;BqZZ3UhaiIscgctrbceTXQ=="
 ---
 

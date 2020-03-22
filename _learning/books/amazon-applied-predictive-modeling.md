@@ -6,9 +6,9 @@ type: book
 price: $33.43
 length: 
 ratings:
-  count: 85
+  count: 126
   average: 4.4
-heat: 0
+heat: 8
 
 provider:
   name: Amazon
@@ -33,6 +33,6 @@ images:
     height: 218
     title: "Applied Predictive Modeling"
 
-secured: "Xi3xMIUniXSByefOoS5F0kR1H42xhujzolt3oGig8rk6iA88c+IQa5Lc8P4CQXbruR5M0U2FdQUW0873EZ23kqhbSExqvJGB4DdbKLJyGvRH5rzBaynSguE9RqyzXLDCNinL2ZQGlWEcFPgRhlOzrBkMPn2eVgWwMpYpbyMR19uHkAdeBfSwF8oJGG1Uhp24+bluicV8/5EnXWuvi9oUut2GDXqcZG83vtM6OJ/FpGXGvF+TnvNEMsYBdnmXgGZzBGPZ70Ful8V2Ta/S/3LvAA==;HsJEYA7VybBmnG+wu8rubw=="
+secured: "d1eaffYvXxhj12ZuU34e3+q2wWQxsileUO6R8a2chA40K3v2ulUfja+385MhvG/ZvfAN/ZmxPt2PMyyKl92zmAmeKMGlwuomLrnKZdXJB2b4Rp5qQpIg1t9ox4ihqRdzPuHlo8bYpYmv7vn9T1VvvoWG6YDmTBWXFfHgR9W9af4QyCBTjrGqnDj6z8tGS9iPoBGHmIVzoiSKsB+BOhqTJskkr8FermXPHUhAGGBKxODFM8f76IIhHLONruGjpR+DGVxx7yBhieSiExMJvs2wekwglrzB6F8jU5Nz61l3/+BNWYzjQ2cGcaGJ+CuF3JnoLvZDukUoZBsycxK1A/tbMw==;kSZu0e4zBkFpc7UZKCz3dQ=="
 ---
 

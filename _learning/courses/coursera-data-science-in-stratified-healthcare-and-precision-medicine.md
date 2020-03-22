@@ -8,7 +8,7 @@ length: 18 hours
 ratings:
   count: 87
   average: 4.6
-heat: 2
+heat: 0
 
 provider:
   name: Coursera
@@ -34,6 +34,6 @@ images:
     height: 400
     title: "Data Science in Stratified Healthcare and Precision Medicine"
 
-secured: "fTFp1QLhKIN6ZK2sAlhuLXsU4g8gKE7IqjqN+J7lEWdzGbgNRNOrzIAPGj0Zipq4ZobmW5ZoFClvnaub2Tdmk8Ohi6T1VWtPtyMmi9A41TUmR/iagnO/Pg6SsQSOfcUc1fjp3vxihtd541ZenBl6H+NYL7jsvCfyOJP/+uTjAnV+mzjO0gL4bsKxh3IY4ncJURRqfyhfsR9pP9rAF8+BHPZ3NGcvsrYiZM70dntXXlikPaZn7vHBRoF5lQPbF+h1bX2dGlh8aEaF/8Nm/XrnxQ==;Y7Ax1BBM/2ubO5cSZGhgtg=="
+secured: "68L2J3M6eINQ6DH+y2pVLqogJOjn4S0J8e23iwWyIl5Aab+2vLVIS+7sPiHUq4U3wazsLi9UmIWZlUe1G60UtWuQEIndYPGIsprEFfeYs2+0yjxN2zw9nlOnVgB2wE+3u+IvNjybA14gDgPtwyRf3Homm+FMCTDNYVgmNs77/RpnW5vS75tAgGbEAvhkTNsjPcBygDljs7Woo6XiKiaAEQVAjdW12e8OO4od+C7DB2Hr4wVrt67xcpyHl9+wS9m/697PWLsZ6w4pkABhNIALZBz1hy4XF2iJWthI5/sqDTXasEMLCvXDnLPFaW0i+pyakUpkT41p0/FbQAxPOEXyEw==;CCkinjWBscjB0XFXBW/JRQ=="
 ---
 

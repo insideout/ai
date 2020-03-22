@@ -8,7 +8,7 @@ length: 10 hours
 ratings:
   count: 183
   average: 4.3
-heat: 46
+heat: 0
 
 provider:
   name: Coursera
@@ -35,6 +35,6 @@ images:
     height: 400
     title: "Getting Started with AWS Machine Learning"
 
-secured: "IOyQGH0GJpAYuFSLIjmitjvUYDoEebepg57f1VXbv2mQ4bZqEpI6CUq3vDs5ifQBJqCyK7K08ek4m/rVYZnSqqieYAwmCSns+ssXDVCfQd9opa5dPmty1/73Jn/NC7f9OKkUNF3f9GdiKLh7FJ5LRguxofwneAoaAdfaq3bGs85koZ0A0hjNYHfZlYtbJZ3IpR0vbu2KGc7G0mjY5TRP6QBsHL6FB9P1/JKx59te0tQX/FYw/lvCBA7yR0ApoPiT+Ke84883c1GVT9vY991Epg==;eTn6m6mYJtTkJ+67DN0GXA=="
+secured: "GOcdCpjWpa6xhvCTLKq4+2OBdu0MSATQNZhx4ojegQGcPBnAo7V7csZ8oDtmbDRi4nUe37i8yw5bi20cz7FZcURN1tUhMBniD2OjQ3aEQ9e1mCB4maK7M5QnMK04za5YPdegy6jSFqG23yObNG/bFE21DBIuGymNS1yGZxnIy1MYlDk4tnwZyAIXTgVDNzyJTg3m29INP9r1uKIdl/62tmA67P7MjCwxwHZmF2WkGGkMz+KDp4Q+zEhU6C9bTfumz6uQHwC8Xwcu/aX0AauhgSzl+szSS/BkvEgfLQVrZ4WI8rIELoz/27GRmyLLhf2tJ08ztL+zsktyKQDz/0EdWA==;Pp1md74EOEDIwpaDKogm2A=="
 ---
 

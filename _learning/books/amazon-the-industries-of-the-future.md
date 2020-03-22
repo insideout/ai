@@ -6,9 +6,9 @@ type: book
 price: $10.00
 length: 
 ratings:
-  count: 339
+  count: 514
   average: 4.4
-heat: 2
+heat: 38
 
 provider:
   name: Amazon
@@ -33,6 +33,6 @@ images:
     height: 218
     title: "The Industries of the Future"
 
-secured: "HAciyQ25+/SULM94NuvJ6EZmZ9N/lg0dFNJTnFHH5iFL1o2inDUeO1nftSbkWuvWTWy/et2261cE43t0CrTSNx/vWMxq/FJC6urRzRUspOrjEfsM4pK8FjyBysDSbrKi2t1PEcy1tVJA54ZTRTT64wc6wUg4/pkpaiix+X56Aio+pbk/ZVru7U40npBtuZOy/MRZyab6DYUt8qhEWLLWLw2Mod1YqP55qlKwzypyGXQEOuVLGkOWUTcwjIDnkQOOHMLy4QnJTGQmjS0I4VXiDg==;+Xk6paxvtlQ14qiSQwqa2g=="
+secured: "DTCvsAarQEH5/pkJEEGTaAnkPCTC4Om9WfnJ3oAKkSFaEgxtsn06Qp0xB/1HJTwXHycia9+O+hQXA6Fuw0vnRxCUYF/7msAPgghWS53jXJCohnuhYq0MxGznpN5Nn5TMUIU4cqvgOToNEz+eoOy/WlIwzsyZ87ZengqxsMH7yDnCa5AVA+kzeMkYsoWU4kain23Dm+S7mcJCcSsOxdGupGlt151/tL7Je9ryeKJKS8SQ0PUU2eT+a3IeEn0QqB18Veo9cCitbti8ld4Q5Nya0L6BM5Pup/6MXIzpy/THDO3JOdufo1MvZtJL0/dn8ApkHqTXVJ2r0aR9XwZX6IzDnA==;vRhrBV515rQP5l0x+g78ew=="
 ---
 

@@ -8,7 +8,7 @@ length: 17 hours
 ratings:
   count: 174
   average: 4.6
-heat: 12
+heat: 0
 
 provider:
   name: Coursera
@@ -34,6 +34,6 @@ images:
     height: 400
     title: "Machine Learning for Business Professionals"
 
-secured: "0m+TN3wncUMHpo7wTKzn9YnT6Kva59l5d+B/KgprZGtawc8Afpy27hkOk8FlZague8wmmaoMNEzM0Te1MMezu0yLFR+3XqWyvtCNnFlltTrLxa7f5u7d9nmC0RNz++fkvW+fBx53shyUaMHNRN7/hflQ0Ff8Z1oMwtcRylm1f78ChLDkftZt+tG6o/rUiuwB+vQTaMUFgBM+KNxS0fe3dc+PAg3Ll2cDF8GZMcDL7NlbISarJ9thCcouY4qnrgoQjNKs2gnrYvkmJKZ9nXuz/g==;vG6VOImAiMBmq2TY1L5T2g=="
+secured: "3jNbrlMz/xK9uqtWH6ezT9B0X7YNkqV1j0m3wvU0tQdr61jgtvhF4u1eQsCBtfyZsiSsxhNAdmePPgYYzFpMkgWgK4YIiMXym95pJ7n22zNcQypUHYhrYU4N65hFg6eZtKjWwB0ZQRY+YzEQ8VBizTIBXmYPY/8sTFnPCDY4kYRs+IhZAtane1QO5Cw249EbTLibyr8TMqm3t/l02xssm/d4K5iFfDPl9AQUV2BgkD7dKVPNf++VvDwQSChe2nEKxcp7usIgm6f+FfHOkxFjSJTr/YG2H4HChQ2qyjVzH907/xinK0ZsdsSXbQAcuaM9gP7kNRkPM7i6z3Kz1y9uug==;z94qxVH80Dq099s9lYZaYw=="
 ---
 

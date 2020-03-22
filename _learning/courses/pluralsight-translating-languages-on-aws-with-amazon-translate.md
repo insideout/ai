@@ -31,6 +31,6 @@ images:
     height: 720
     title: "Translating Languages on AWS with Amazon Translate"
 
-secured: "orx0Zb7DfAPza+epGwKoVlnrTUuzgxtWptusWTXE0QlYQ9ccQwMgkqtW6GvULBjbXrusr+EwXifcuEfmZrX+aYngVrGk+NY8lAh8cYXz4JwkgaO9TFXSyu4XVL/fFnqfBjeAC5eOj2Y3BlPIGujHWx3L2qrmQMOC75ODUEn9Fd+hZEs0PhkuKYQmkjet5zaxlMZOddmxSsQrJlxn9oHN+gDZRDJaI+LpQH7BERkFE6hMMgygBidL41b+eUl6gccqDjI8qkMX93oT+XM3CsBi5Q==;ce3kB9cFbPcyMFeRsx/u8Q=="
+secured: "YqC0N97koR/ahZmbHNWcy2sv9jqfO5Yz98e+fUuo7WjcNsA6BK7adj5FIFcKFevb6aVyo8TsWaAxJ0DqqTgr+AtppqR36dRxp/R5qL5hiTS19k4aw8innIIE7SLBRke8rjD2FRH+Gw3SzxbC4O4JHcIkUktYCOAiTogpaeCNnx7YNl4C6Pl+cQO8zmyUri15B+Jkwz4naesCAyAO+GO0vrFh82stT+1iFEqSsNq/T98shsCqHGGx+0gFete+K3cJwF41Z30BQnozBH8hzKvrJgWw8x4SPIGGExA+wiM4rLAGj/ZJl+vEQJpPIM9u8eayIsstl38cfB577jEVCGpvpw==;4J6hCFDvMCBSp/nCRVXZ4g=="
 ---
 

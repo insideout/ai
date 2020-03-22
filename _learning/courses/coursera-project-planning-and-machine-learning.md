@@ -34,6 +34,6 @@ images:
     height: 400
     title: "Project Planning and Machine Learning"
 
-secured: "r3OBpuxgZdCO7s6VSA/TmrYCR2dtAU3kNQ7pvpsc0QIYDX77SGE04ajJ8MHtU+1+bTeF5d7kJRLT9Nz7NlvSuNu7Mh+xomasiumN2bJxomprSEJLfRvThGXHTd5LT4kTdgKwc/kQOj2cO24qqS4e51ATaCDSnGMev+06Y0OO/bi1lpXbNzfkIR0qqPJ3vc6OHdzbmpCsH50dpyF78raOsYLw6sMLeDeSOmc9XdbmO5RidnZiGXr1baBaw8I/6ncRfi8iM1UzqXhJridxhAZWHQ==;xtLI4Rwrz0i48MBo/THCxQ=="
+secured: "smhFAZMDaE/y8ey/IQJEHOkHF5MTN6XZ0rFlVdnUlxuDzytORrzmsEuxJmpprxKMyZzUmF8PULYWVKhU6PzcnGifxvspAX6oLr24suj9Bl68TGpqaFc/9S6XeldYx0mYBvZRLNEwQg6f56ATLmZ5Sy4n1ULMUbSivH/rgPi0fD7nphZPkU1yqUHz5NePVr+KAv7HT3xMQboQHAqwRh5sfBrMe8YY3oweqEVz4+BfYJVxGEASvlkWv8tGv7bwTAu/iXkzYhnLzFVp4NsG3tDm8Y8BBFzyc3HViP14jDySbVHijj20iOBs+ZMpf6/ue80f2riwuUS7skIcjhnwYu3mXw==;/aAGtiwXFtYBvgq5BzEJ5w=="
 ---
 

@@ -5,7 +5,7 @@ webUrl: https://vimeo.com/371374786
 type: video
 price: 
 length: 
-heat: -1
+heat: 0
 
 provider:
   name: Vimeo
@@ -24,6 +24,6 @@ images:
     height: 332
     title: "Freight’s new autonomous journey"
 
-secured: "GlEgSZZs3L8tVq3g6S9vkKofj7ASeO9Exb9Um0RTRslBgil1Zi/gTqSv3aPfSRQYgCpUBoBLAS4gstBY3ACPdZV8Uq74+ze3ha5P17lzZDtIYvEGlLMmsMHMgCd8e8S8SkDRHCuBtJ8D3dmDCRAADDSGmI2Z8ea6Y0B+io1qedZMSgVeeQWZtt19wg8MOyQmOGP0/Fdp/b9AiZZ8RmdNdxCTkxq8G8wIrXyihWgQ3NMTdIQNRiS+mKv27T4TO7OfJlKDG3WVyL3OX1WyFjxR8g==;Efe/VjL4BfaSED2y+l17sA=="
+secured: "2rytwLySlNpFphX3X90ZlSi6iPnp+pOpqHeCXcsx5yg7Y347ijTZZ4013IW2n87MPEzoB+JW7qrnWj9QZX1Axs9egxkFOjJd3/BbjITGxLNmIDZzmWkl2vA9iikeWWDcQA87TzaEWk5d/a89BPo3gyPiqeklzLSVZZbJPOOva1ueWygELuYMVCxM6rsIFyCywx7GTG7xv1IaN1QxoFiBxue9TAH+cKLtOTjNMnOL4NmypXGaiW8e59YT0wgSLcFs+nK8/UxGHWehPR9IhgDG3+rpyQ7QitHz4zt7QfDVARPlZCeo4KBrvcHfIGF0Y+AjF87mGJtSJB/+ionkpKVpQw==;F0WBbkNKLAMMa0LsNBPhDQ=="
 ---
 

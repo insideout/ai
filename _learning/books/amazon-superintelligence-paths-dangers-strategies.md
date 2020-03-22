@@ -6,9 +6,9 @@ type: book
 price: $9.99
 length: 
 ratings:
-  count: 478
-  average: 4
-heat: 2
+  count: 862
+  average: 4.1
+heat: 79
 
 provider:
   name: Amazon
@@ -33,6 +33,6 @@ images:
     height: 218
     title: "Superintelligence: Paths, Dangers, Strategies"
 
-secured: "t5yjP0sz1ICtKDPeyR7UgJfsAHo+nwVseiq+4oGXhL3HM7mv6GTT8ebg4N9mPqYmQNdJEloVK3y6rp8QdoizuSPHtjVu/GX48c46q2DwgPAsEStV7ae/0Vf6lMQUoHb4QO51Vvo4zRsXM7+3D2Sveoar+ESNouk0hANgAlB2V67dFQYyej9R0Fd0MY3OMAxJaGj3/Tr+6kfai62nkPdWFU5enM9A48qRptif2xa6xktj2YC33W8Rvu6zbcL0djYu/7I5PjnfGYPuoIdl2MPotA==;X8HUC1NYMB4rDWMN2d/mTQ=="
+secured: "cpKtvsQF5iVH2vLKaHROCBuZXia27GmukcPuNl64tJOzKm0JMuR3MIbXb6tp/wPEggRyRrnz3AbSEbXarmL/zoxLAFgL6PsQdyAMAWSFASa2kEU8wLXop2dceDyXuFvwcvnqyDWzXD6GNW1c+ifIZcAzhwQKhzkc3fL7lF3SX3LHvxvKTNx4ttItbchP6AU0lVmA+55tkDXecPh1+mcFZvcyzLqv/C1XHiJJwmuCEzzE3ZWx+AZydFyb0zfGI1xf9agm6QwTNCOn49f9Sbyk5zgOyy/lHhSi7c05gvsMI8+l14tQAQb9aJhSQ++/GSEPQgAHhK94jZvGZ7Zbc+BoKw==;qlRrb/WGK9+5Z6Qp3ENUtw=="
 ---
 

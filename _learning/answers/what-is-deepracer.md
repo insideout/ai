@@ -5,7 +5,7 @@ webUrl: https://aws.amazon.com/deepracer/
 type: answer
 price: 
 length: 
-heat: 207
+heat: 0
 
 topics:
   - AI
@@ -18,6 +18,6 @@ images:
     height: 555
     title: "What is DeepRacer?"
 
-secured: "fFpR6fbcsxy/x4+4tt1csagIHgxOaNb347TeNnc29aptYoFhsbMMgy/QG7fpp2sm9xlcqK2wYkxoxilyrJc65afbKGqD4fjEYxa/aq/5WNNfmACzBXtoocOMtcKJF5ElKKEHqBcxNkr/TLr2nASDa37et/2QJXR7YEVUMtSZaPOzDgGf1styKnDHWjb9gun7Caup5GQx6XRytbB0trFPcnU7iju+ikFsXYtym+Nr9V4L66/0UBIp6qunOmePsf3MJQ2POo4of2vRU1Sy22eL/w==;yUmVGyFOoY51wurxmoyEgw=="
+secured: "x6lZbFIjuAKbZYJBOi12SwGB8VKilsZAuIlHeKffX3/b62JYWyYZgEPMRIDoLqMCSCctGr1RUJIBR78fh08Ogcn9lXbdwXBKtmggAwDbsmLICPK772fG/FmLB5yH/ZEYdiFvdUlNGzIW9EsHftvrAPDQUlkrokQ+mPTs3KuPz4Izt9XmqcnBrRMW/GhpX95uPDV2HGlUKF36dUG0suXT0Kvfq6uG49s2BKf9M+W4ceihNUv/+kOA5JY2Epun+wY+Nfke8KtKzZCTsOfBJJ0fSYJAuor5e0QY2MNWW9kALSD9l6TbdzKC2Cep22lDmnvz/nTwNZhxy4r5LNVMUBtoSA==;UPl0eYabIBqBle7QTGPKDA=="
 ---
 

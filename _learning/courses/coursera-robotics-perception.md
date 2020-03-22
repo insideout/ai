@@ -8,7 +8,7 @@ length: 29 hours
 ratings:
   count: 495
   average: 4.4
-heat: 1683
+heat: 0
 
 provider:
   name: Coursera
@@ -34,6 +34,6 @@ images:
     height: 400
     title: "Robotics: Perception"
 
-secured: "6m1w1eFrMuFcYT2D4UJtK+THh+dPJeld1tbBQ7zxRPVPkfE0iCdfykO8qx9wmvNPVf7D8xGkISzST+E75YDvTrkwha7zGYzXQjUZ0NbC3juCEwejvUQCwK+PMABlndDhwIAw4rsegZcMs+zKDrY+yEzW41uqntxe4MHohT8ItUnzxe2dBcwFQSaSRbUbycsQZsBTooKnUd/puJU239CJ8i3S4MM0HRQ1azxsPQG0JUgipRW8YFBh4kXwCbaHNu4yQPVv9Vjgh/1Xjzy9Md7DLQ==;xeomY3WE/EqeCwy4lhh5aQ=="
+secured: "QSz7ZcT1es3rcoVLOEzTtWs7I48yfKDBPwlwrBsum394SDs0oJWriVmmlD+h8CiKjqCnoyhvHErj1+Gx3m0QuJagVD/GPzNcfF/O2AmVLq0jrsWmiJYyG7kqiYrOjdC99h8Fm9jT3icFBX0cl3CCE6PfNUoR736jz/CgnCHf4J9od1IhaZvbahaBLgncW/eVkD3HVjbykho8ONdBWgwEeg8ZqwM7ZAIeupjGuuAAqpJBodpfl2DaRS4cdVcWoHYMZS5o6t3VuZjy4yJTJPXKvK1gUV0AeyoCMkMVzaQKUSqtkoGFnDzylrdYFrYYV2sKD6RAUNBB7XPNX+Ss5WLWAw==;3n0rNdRzOb4kgwrszBjN6A=="
 ---
 

@@ -8,7 +8,7 @@ length: 25 hours
 ratings:
   count: 2117
   average: 4.5
-heat: 7409
+heat: 0
 
 provider:
   name: Coursera
@@ -35,6 +35,6 @@ images:
     height: 400
     title: "Robotics: Aerial Robotics"
 
-secured: "ZDYCFNAeANj+aW3MOjy/0Wc5v/gCcioOmM8kSdj6Tlc3jllGydMceBsEby1j/hwyX3EWYba5fMOCmylWNnMJrR8dveS1HC5UncJepfIAPApURKb/0M3ZYPCD5hBJj/jNj07aW6EhH7Hx7Be65H9S81T6AJVLKXGALiYp4PFevx1KCF/hw0EHouZHy9ytsoAHw46m5vWRKFRkRcoujBLwT3kkeFeub0rZkRQrdGKsk/Ywm4jj9sEiid8OQ0idq3XxCvLvKhs3AJzcG8JSVTJU4w==;WQtNJxE31rNvc0qlhw4z6Q=="
+secured: "Ox5zIfBQlRNkRE4a5IfsPjMhc/4r46GdjhGOWpYJ4QllzKo9mPj6G4REoxUunCtkzFKsbq7BeydydNrWIipEGa6twVC+JBxqpI3YGoan2CJbla5ABXJLr8sR5GvJPnrMRUDiNtX+RvmxKVs3RpDLY7YACloIWDc5cshKTkZw119hHMaHqcCVCus1Ns6YqmiUZxKl/rbOypZ5kVFK1DL3NQWNvryc+xlxGgI8eI49Y54SloDccLVrZSsHLnTjfAYVqAnH+jvrC/EH3PG2qqGCBiq57nCKjN16otOhTbBX8EkG99fm4TMQOgGJYi+jtCLsInnnt1h0d3uTq6wQalFuug==;O4ff8p2Bl9GhXktjF9oBfg=="
 ---
 

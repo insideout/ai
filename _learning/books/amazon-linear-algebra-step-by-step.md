@@ -6,9 +6,9 @@ type: book
 price: $37.72
 length: 
 ratings:
-  count: 49
-  average: 4.7
-heat: 1
+  count: 132
+  average: 4.8
+heat: 20
 
 provider:
   name: Amazon
@@ -35,6 +35,6 @@ images:
     height: 218
     title: "Linear Algebra: Step by Step"
 
-secured: "BAn/8siVjwpcFZlczT7Nf2b6vMpzCSBliuxodkudSrpVlRsOgQllBRepVuELjB+Un5mEryR2qfdyfnFnoAgWTHPfnSAFTzJJDPN+D7FZf6KXJUIVfeY55A54t7rbok5L4TchkK+G185/WWBZIGAS9rD7MJqjwsyboBBAYhl6xznAiipdgV80YbVJdMup/WZOb0lyRA7+AA3P3yMx5Ea6XgKgfjVu1oobWa97qP7LhJJk+ARhB1MxafHJgnM3lJar4r91+B31yFLKY3hAkift5A==;xHHQ0FmN2DYegj9Uzo3ZDA=="
+secured: "dUbZN3CqjEy3C9wB7SZbyxf/Hvlv8Q+NpluiQfL1HyyRjZ3PsLVZZtL2BrWSMWB7qyYs4SAwuqxLp5RNsode14LAZqIJ0DMvz3aN/cm6IrTembVzS9YsvEVuVZjoYqJfJsd+mnO3gzPa5mhVEbyT5/HHlJ0HxdIMavimiO3PvR19iok/5xdKN57mAPfxlfi1qWnqSNygKvCKz18JCyM9+PBx7iqsiLP/bSTY5BaJJY1F9rphgCs6/F4oCY9ospQXZKCnYo1BEUx78i9yyxgnpUIpAPjP1krhO4DRHcgasihHsl16xh9/x/8hkQUuxHYsThEd4lv0IXqKKOiQApeFAw==;NS4hHePkqBTiDlfw8lhmLA=="
 ---
 

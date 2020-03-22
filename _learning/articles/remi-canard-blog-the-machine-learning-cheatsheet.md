@@ -21,6 +21,6 @@ images:
     height: 1808
     title: "The Machine Learning Cheatsheet"
 
-secured: "su2mO+row/CqthGedhpHoyUq2vt0OcZIKKA5u5WorXKZA2dCRXNSLt6BxL7EFwc5gBLVAHp57CHRlhKzoqm+ATA+/srhINIS0mLhMuuwmlF3L0ghxrvgdSmSTOUnsrCQLXDFL3y5JyLNgwhBZ/C4dHw0VUi9Er8ICKjhxt6RBuj3HXddsbPva3QNGZWyvYUWHfStRAmM31ti4KqC2Ce+cIxlaJgwQ1QxZEXdww4n1Duh4mE74QtOX+05lpzbBlUlKNvs+Au2jS6cWHxPMtOJXw==;bSr3rOx+dgzPJDCLEE+53g=="
+secured: "/6N5L2w1iqsnbhKZ6fxlQS6WfgDJAQvTLOqiMi7knchpLaYp68c4KP7pzpi1dJwllCMFoS/8FGoK6uZ+ekw5itq11jCAun1RsyeerJjJswrK4N/V2n2dplFlakxEndFoCeepG9HfSpc6+gsUqEa81FcR9f9JEll3jP8fsq65rX4R/oMCETxVmGOVCetvWn10Y48y6ETDBITPJoCniI9fL9r9doF3HL81UJxuXehrbF8S0XwBGkNhGPrGisGBfNTKzAorkpQsAqyWQtY0P1DgsKLmgy9XNV5eqBCwrmKKO8eQ71IjhoMCOZQuxci/falUSd4L2fqG1b+iOZiRrlqU+w==;cCoenF+M5rP2Ij2JlsMAVQ=="
 ---
 

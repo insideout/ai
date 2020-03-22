@@ -5,7 +5,7 @@ webUrl: https://www.pluralsight.com/courses/applying-machine-learning-data-gcp
 type: course
 price: $$
 length: 2h 52m
-heat: 
+heat: 0
 
 provider:
   name: Pluralsight
@@ -31,5 +31,6 @@ images:
     height: 720
     title: "Applying Machine Learning to your Data with GCP"
 
+secured: "AMvbyv4poxMjXoeePkEPeQ/hSULojmoDQ/qtMkZKRaTInJCSC9I6Zwg9KhwNa3m//SAj6JT4P0Z7OdjBWdPuXoJ3ja/3ajqy1qZ2KpeSEW53AM6Ia/h1zofRqtgN3zQZFGoJ256KbEAPjjVFh1LMsDB8uE4MhKaENX01Hhsi6R0gsMcelsbOsCX+YpdhM+6I7bc2Bh1ekCQCT9ePSD9NM+2UPbod+Nvp4gpo/zd2cnWHM0h2/qDcayh4SkCYzsiV+f28559QdOUcVL6WM2LMfuvt9Tgp16cagDu8/GOd9oGWVi2wFlBun4Un6GRen7XwmvBkzH1OgYoodVG6UE4DIQ==;9UJOkxINIkBrH0Uy5VQG3A=="
 ---
 

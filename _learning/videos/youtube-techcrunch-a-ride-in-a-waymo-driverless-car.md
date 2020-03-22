@@ -5,7 +5,7 @@ webUrl: https://www.youtube.com/watch?v=2hqTnmn51Fg
 type: video
 price: 
 length: 
-heat: -1
+heat: 0
 
 provider:
   name: YouTube
@@ -28,6 +28,6 @@ images:
     height: 188
     title: "A ride in a Waymo driverless car"
 
-secured: "W/Qa+RF8xcahTb0OsUqg3jXMcN+IIaMKYmcfPFKZ7oblX5OXJ9tDIJQBk/VBI9jTPPexNFJ2gEX2T7J6tLSfpv5hgvg+Rdaes3nYQCVAqtwVlJn0psXyfwZwFkh2zQY529j0k+zjKoHOV0reFITCQnyfrZT15mHCx8163RvRsK/uZUfJZKyI02pDh8+51AGm77r9LjLWQiiRQnw9Y12dBv99EEGFx2au0lqXu5tChacdwxJeSIfJAIUc1bRinkF1NJof7257c/2PPDe7BMkZdw==;iV3aX5f9znukyWJ09yXxXQ=="
+secured: "2b74QZsLIs8n60gC2G9nL5Ju9Jd74Istl+Zcv18flINjYK+oiJzIz7frUpWIeNPyfFHzWg1fmiKPDYnh5Pxq7XYVb4GmxEf+pks0FH8y6kKeSoKXt4OPHF/U4X0zLTMUkAEggpcOz9HdqZ0dPrF1JCCTqslfRQUlPDB7YPT4mEVpiVkmghajMUFr/Qj4v8LFW44Rg7kPWW2vX8SU/R3+6PzesQb7noojT15ltVQdNUl5H6Ae4BZPzAD5sHZvfJ4XtlyZY1q90Jhzbp2/s9/edrdnfEmnaDPHEKn3XyHll/oscT2wE0wXCn/hDXq4QONUtRhsaaDNVEZji+Km1TjbKg==;MbN/1yuPbLJA4bi59t/RuQ=="
 ---
 

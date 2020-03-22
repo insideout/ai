@@ -8,7 +8,7 @@ length: 15 hours
 ratings:
   count: 40528
   average: 4.9
-heat: 756
+heat: 0
 
 provider:
   name: Coursera
@@ -33,6 +33,6 @@ images:
     height: 400
     title: "Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization"
 
-secured: "fRQ8UzEkDbBcr7y3Y+c8hxLvHPw28g+8OSEeCV+jVpqs7nWPrm+lXBFdgd3uOaDRFDdpFsir1uGllaSx+qvC5BonBML+subqIWcTNuqqShciAHcKoc+CQDWhbapd6Hi1aQulGPsNdcBN30gYuqX1QENSoLK0d5yLIAJjEL7QP9guebW4pJNBgxA3RpBx7aoobmpWMGmRpme/oGnodkrtLVVurPcfyS490gByIO+WUgSnNgrscEG+KrNbkkmmNItyGgXdFa2KO9LgQdgg424N9A==;B9yrJUr9KqNfRfDZoHYALQ=="
+secured: "FAbPMjpiznBhrb9eiiRDvh7c//AKRlfdxd4uMXjLUHxZUQJGx/SIUG4kByIgMVkYwVLE7jEb8kgW+vWMMPT9PThWs3BylHqGZmLq/Kd2EVEEwF27xpML28QPv3AdmkDbEUQhR9lPlHvS9Kc3KHr8CSGYEl+myg+KhQ8VnE1OrjkZ9FHYvTpPRJRJbWmIsNEWx9NJev4oO94UzoDU0gA7n1dEHfE1H2HmjiYl9bav6BsKMGCs4FXh6LYTMKGjJI19LYSGPZDItcpFC98nZyaTrPezcgdwLxZge5yPr2ZJXQBw1ejOfaJ9JCUAtUGUrcevRQiXRKpN8dm4Emsp39cHqw==;vDBLyO4jXz06W/X+9HVBLQ=="
 ---
 

@@ -8,7 +8,7 @@ length: 22 hours
 ratings:
   count: 4296
   average: 4.7
-heat: 160
+heat: 0
 
 provider:
   name: Coursera
@@ -34,6 +34,6 @@ images:
     height: 400
     title: "Mathematics for Machine Learning: Linear Algebra"
 
-secured: "EK+Sd89N82987dMHz2rlZvCVAJdTRBqa87FLsz5LD5VWQF0zsTNgJPjXQFGRPOHzBb0T8SKCJklDuxT72XPxk6u9ormstOSW+E22WCfHy7iuv/xBEc9M9BAYaO4VkZnduxIUBERxHdBPwXzkYx/bhwtSA1epZ1D15rcz/9hz6BZ83zznHrihzR26UJWepr0ZE7ILwoJLWj6zlCjvMHizzh0zOCgb4Av0+vXBTQYCfzu/Vat0Zo1881Z1b4WTkGVB69aQGNbhGF7TcCEcltMaxw==;1wQl+4SQmtM2kraw/kbzyw=="
+secured: "lzDyITEhqNyu1pppkzaD66mDv3Zmkflw8C9ywgHfSoqi++QW6VzsMQln53sD9OYv6XwA91jfk/GU2Wii+61kj8N5AdZ6PqNGPHo36HrhGbZwKV/1nodc5biEah2hGFgkc2bp8eCe+dfLffqms4UV4EZOu8QRu2S6/ofiLpXvXo88BskWE9ay8Qddi7Knzf6++oDVhsAPkdlsQu5Gl30l7Lp0V5C42R4KknjBaRA4F89VAd9fsMXjNhYI7pa3naKZnB0TL6qBxzI0FsN1DRcxpVNGHwqa3RjMQyQRpoChxjHA8Vm2Aw45Z4t2orlt4TQqti+ytrCB/O6PEiGBX5MA1g==;RR8uyvCMiwaYSSGiHokrmA=="
 ---
 

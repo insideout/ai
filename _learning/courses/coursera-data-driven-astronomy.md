@@ -8,7 +8,7 @@ length: 22 hours
 ratings:
   count: 490
   average: 4.8
-heat: 10
+heat: 0
 
 provider:
   name: Coursera
@@ -34,6 +34,6 @@ images:
     height: 400
     title: "Data-driven Astronomy"
 
-secured: "tWSt10egqnoD+MPjRfEjDP9GczYrUcL16enlG5oP8psF3vTzOqDUSHNWtfsvwgn9cGqOTkUc3wvhlXoIfwP3BK0BPb+dmbjyP5FT5DU0SlKTEFKxROEu+mvakG0uCuU2YlauOXsamLm1lPTu8kwNKW7tiMEIKbEQ1R/6wiY4Uglmnhyh4c4BNNZAti3qSI3xSQrWtXfauOqWeiVXVANILk9vAPCd97hnFh0MWAZlZI0Js7k+dSa56CSQ/0xagkH5TzDXVqu88SI4xiXmXYiVoA==;F2uz4W/ZAexdOtny1S7UVQ=="
+secured: "jaV6hgWFGB476k7nelB2NZeJP8VJDRWYXEnRUAVQk/mixD16zsR5KzZFNHyKm6EtU4Sj+vUSUi8F9O79zDEjOSsb/WXhPp+ILf5GgN+uAT+tqJToJw+rbP/5Q+WjeWTftnMhK9cQ+PMV4/WVlYNDs5LRTeQtNikVRjvZFu716esCFMSevX0/RM/UDQUp0wGjpqrSrs0CcVgciEmnxmqdtgWHnZ6EXnYNuQOe8Sw4ddDT4+FatQE2ofUc8bLbgsvrIRMehiqJB2UWejICxtfz8iP7OCt/NLHQK6RUoMX6eaPfgADh89weda2PHOQsN4zEB4aR2Qf7cN5E6cswIxmJ6w==;6Asc4s6wZofrw1NUqYNY/g=="
 ---
 

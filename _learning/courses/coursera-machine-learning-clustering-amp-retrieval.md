@@ -8,7 +8,7 @@ length: 48 hours
 ratings:
   count: 1792
   average: 4.6
-heat: 17
+heat: 0
 
 provider:
   name: Coursera
@@ -35,6 +35,6 @@ images:
     height: 400
     title: "Machine Learning: Clustering &amp; Retrieval"
 
-secured: "GXsFTc17GaebC9hvQeNGnjYShCctvvP7VSIPDQVoO/yMl2SPtdhBlGXDCJAFDWwzrzP0aC7n9Bs1CqaARf6SEbJ4kCN9DjNRP1YmLgt7JgrFIgYxcPEd3vwvBuW1LoN0H0wGcO1MxKY8YwXFr34WgNjsbEGLVUzQJOOI5c0oF9BTwQDEpT+HJ51wBNn23WDk3bwGomwwgUcC5qVMUN8UAKoj9mfsvWqGDHN+47oHGHc28vMCl3tg2G0q6w+hV4RsB7Xn0nrmPUgyihjFknZMhw==;e8tBnJbF5K9NbKmPt4iXzQ=="
+secured: "JeEpl+Xjgd737S1gkVEBRvZvBNIJRJH01rTCtxaaOcE9bqDWt7FpYjWVU7EGXD0rmUGXqCVa8aKa4loCa3P7d4kWSXCvwvWmLcJYH90AFkGs7b/jLTdcvABdr5IT3NNkN4XS846JzFFxIapjPfkalcTSZtzF8zauNyxZQrK1uHFurTHO3uezQvrxW5dJa2bGlG4Ttt1oBlL9qKR+7MUriYkqWngcqN72oxNq9dYHsudayIX1ROGZaPCpKNAAavoAkdkPt1S+7hb4asFZcnsrbaGUpVngeJWAPWV4e8pKBbcCXwo9QgVVP4AIJgslgnQKTs7IAAs4oii6wgP5c6Xz/w==;TSv0/CTZu1ANZ7pacv0frQ=="
 ---
 

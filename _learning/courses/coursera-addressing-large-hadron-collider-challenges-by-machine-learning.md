@@ -8,7 +8,7 @@ length: 19 hours
 ratings:
   count: 45
   average: 4.5
-heat: 1
+heat: 0
 
 provider:
   name: Coursera
@@ -34,6 +34,6 @@ images:
     height: 400
     title: "Addressing Large Hadron Collider Challenges by Machine Learning"
 
-secured: "UUiIF6b8VnzHE/odcLm0GRdq/bEoj7FOM/a28wQbB09BfFjoF1k429b4pS4UG7mzSMQIH9cfVI3vlEWFeiH5U7sVzgr8meAkaS96kprO/mhv3zITfI7fZynCMLDQFWOe2MhcSyox16ah6R6SytJ4ecrBBNfQQ6WKqDCulJ+bYmaqqlHTXtzDScLBgLfzvDSFHyJifm+Lm9s4AQqCzJfuXyScMklBenkoEldfXc6JHWF8fyHHm2z0ZSXh/lv3ddMcRDGyOqglqPUd1BU8Lj1DmA==;q9CR22xvaJcTvMyDUlh42g=="
+secured: "TUMRAfQNDjlWQjrmRTToV/deolXMbKPe020eKvV1LJrDtGTY92el6G5eL40U/ApPDz9V7MEyOheb1jeJ+5ipvmN3B357w84aOE36eqyxdH787zCUJb5VTi8vtfHMh5YEd9QUmntx/Yp2a2CWEl33mYwVeJpCmicM8P4HmIEnMVUhl7RPfbLYXAbJq/rsthcgJB1A2D9qrqkmactBZKRzVMxvZmFFJqOcjAItOm3bounrh5imzTCef0gQgLbbPAxsLccZQRml2+bxhVRevU+XS7uVSZcMHvl0xaWg9Qkcpci4986UrCechQndc4cEJAA25xy1GUGtGJZWjjFzt9Z2Wg==;D240nSQAumhy0KVA58U68w=="
 ---
 

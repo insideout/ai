@@ -6,9 +6,9 @@ type: book
 price: $19.99
 length: 
 ratings:
-  count: 148
-  average: 3.9
-heat: 3
+  count: 211
+  average: 4
+heat: 13
 
 provider:
   name: Amazon
@@ -34,6 +34,6 @@ images:
     height: 218
     title: "Predictive Analytics: The Power to Predict Who Will Click, Buy, Lie, or Die"
 
-secured: "aN7LEYG6MMyMo+RxQsfeZr+00U394oEmxQqRJ8u3PpJk9w5o++UKkrlUhyRtQb/nBfNWvfdafrG4UyAiRMIIQZYrOWzEndnHANZLngYr4FsR820oDXL7PgJF65hDexSpYZhtBmCvWa9kuj4JRKYGcl/mJVMIfs+cbNc6C7WeUG3o7hlS/dr2GaHijCs6lYjcP+8xGQ/ES09V0XG8ZCdvjvUWqSuHAFSjEqXfkIp6VTs8lNAdmWNh2ayg8Kem6eoKFOOnjFpW09iDpGpgqXqGSA==;Fmwywibwt7KT+bXOjVjB0A=="
+secured: "JdrPTbmTglX1Hp/6W9wpRQbRwU+sh1YKeELk1ZbAQ6zJS8DAk4D7Um45sWM/dJWYHFInPqQiBOQGAN9alqFeeSGlfJKRXl78p4Dck3MkEPxeDwz8+qc3IoFm5qjagUD/H88eZV/3EDYEUitKWtpqFfpljnp3lBiHwkIjDDdxxNUYKnkyCnDrYe7UXR8RMEeIW6NR3dsyKBONITvZAraih6v9+69zZZOILuzAmvpgPGsLrmU6Ko6un+M1hwCyt9U71DqX4jLhhomomDgkomBJknzLB/OsWWZBSD3Y/qrKdyLv/Afd4ok03mzEs4QCVVz6g5d6MuKPa+uKYTFRZYv2IA==;JKp0kmL+7MuBap2hUYvt7w=="
 ---
 

@@ -6,9 +6,9 @@ type: book
 price: $22.00
 length: 
 ratings:
-  count: 147
-  average: 4.4
-heat: 8
+  count: 379
+  average: 4.5
+heat: 53
 
 provider:
   name: Amazon
@@ -35,6 +35,6 @@ images:
     height: 218
     title: "Deep Learning with Python"
 
-secured: "0PaoYfgLIyvKnowMfKj4i11HBJsCVhT0zcaSZ1Z/Av8V/j7eRf4EocbayRhQ/NRSCAan0mCk3xZDfconEV/elXMO8v7Fcdj1Y59qsNrZ/SqwjijaUcMKU81L8LSfSTD7jUqlWhBQmc/3teigM1IEYJ0HHOrnjD+GIJh0yXv1tH8+7tykg6IZFspbS1GYnW5Y8VsetpUJG+q6+8t/A0vxHLVXqlnsFxHr3zlLYaVRO4GTh6tYIj7BWwQkkalfjVBu249TSH7rFx+vu+CfjzhrZA==;nCvkrOUEVpQUY/LsARdbug=="
+secured: "jew4M6mwrOnR0fR0RWTI44eJCYusuQyaJN0/eMJ/2MNUCX3iHGHUacRDjZYqhdkPjcAdBigvc0Y417SCTM0IXzsgPxhWWUZ/dPUAgQiCT62EhC4aWetc2IWcEm2j5n66PfgHZ7DSTue/NcPVQ7ZHRzhCWfleGs96bGP5tnjzraJr+PaRSP3hh6iBMwNUxIjoKpelNI3a8BsceE5camIcMe38ukjhIDeU6SeTjKc3bKZGM8AK4dZEBWrMFJBDhdRYBgKBTkFblpchGbp544ANDqgBy48o3WprYFu3mPAJpVJZtVddRVoh4dO97C0vxw6V10Oa8pDclG910kUBH0KiFA==;G/fObT2AZI93WiMOWf3NVw=="
 ---
 

@@ -6,9 +6,9 @@ type: book
 price: $19.38
 length: 
 ratings:
-  count: 58
-  average: 4.8
-heat: 9
+  count: 25
+  average: 4.5
+heat: -8
 
 provider:
   name: Amazon
@@ -34,6 +34,6 @@ images:
     height: 218
     title: "Machine Learning Mathematics: Study Deep Learning Through Data Science. How to Build Artificial Intelligence Through Concepts of Statistics, Algorithms, Analysis and Data Mining"
 
-secured: "UWvcxJXFELxLC2v6SbcDSgXm1dd5pePu7dZSo2RqCpxQy4PvXevsgO5FecFp988H2n5s3S4wnsSv4V/C0bNOng0iiy+dB4WGXaQLiI8lAE5+pfONIBJFiUOhTjSW9rJjSMefGkcamhlqFNj6/9iJVyAtCWryw4TC8RAMjbQIkV16jRvNN3yaB30TQTj+aY3XGavxdNpr0AY9n2VfMr2GoUt6SxnRntuKyVVRjJSiuVsLbi9w0q/bAvygnMNKcH2+hWcLCxWkxEk1e/gGjKMNqg==;kuVgkMUqN2N9uxOnNtkRMQ=="
+secured: "M+nyZ8Y8a8J4U2U/bLNWrNEXsnt7as0NvoFo1nFe7WNIkWuc/H4VPG1llGdoYseOXg3fV4ykGLs6j7Qc7TuDoZP/j59OXeLPkj7aNHOkxVy572tXSHYrUeUx+sjY3FFKeoe1lhfvCNhHVHyIghfx5f4gWZ45yGmEvrOOR7tJdALiOONGT0k1K7vkeqxmwGTfT09Aqg9sQR5zr6Zo7pEAN1vMPSwx2z4dGg+RuXmDpG1lL6Aflep7sjIsI4dxCrTfkDggMUVxlRKNwCb+M5/4AY8RNUszaBiyqYaudYa2YjTRW1ofrh9ApFJyyi58p6giDShqxPVzNHoKPAKnvs6IYQ==;bCdAEU/vpW0A1ajHbRekVQ=="
 ---
 

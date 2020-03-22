@@ -8,7 +8,7 @@ length: 10 hours
 ratings:
   count: 1818
   average: 4.5
-heat: 49
+heat: 0
 
 provider:
   name: Coursera
@@ -27,16 +27,15 @@ levels:
 topics:
   - AI
   - Machine Learning
-
 tags:
   - TensorFlow
-  
+
 images:
   - url: https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/a8/c5509017f511e8841b697778604607/new-ml-on-gcp-logo.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF
     width: 400
     height: 400
     title: "Intro to TensorFlow"
 
-secured: "yyTLK2mE/JKCsdEzgSg9Lx4D2yitkSHdPPINWz6OMiX3DkGhs8zFfGQmroWMocdbvcC23S31qZ571jDRqOS3GZbHcE18epbV/9K6IP8FNqHqxQaFCgITfNED6g752h0xL1X8XqMxd3VRJ6zRpfJHpOT6C2q+T+4CZskDSp0EDCMnCrQMjMaB0bah7mOpu4lmnPHDqAdU8eFM83W1xcAZdThwrD6t5e8QajKgjWCJ6+8G16mqHrkpPDL5DsW4nUbDM1JXpZNlZ5oFZZEw7j6bsA==;64ZoUkv1qkkbtjxeWm+zNg=="
+secured: "toLiEngCMeJVQcuIOdz0S8LHBnZQA2pDOYJoIlAUD9MU47ay27BIeJRs5Be4+X/uwtF85xuiG/fnXMDGGDSGwnpV/7mXyKm0dPVdAv8ZxQDV8e43zPKff69wdqXUIGb9QvM1IiQLz14cKMF25qopfLRG28rC4qDIv1PhBcXuN6aDSn8ZMyd2EiG5IIUtZWJt/BagH9TU9B9OolGcdz10g4yA9XsHoMkK6TSs0Twscmr249r0dRQKlMqPyAx5CWIkpdNm9XqmIqVS8k7KnL3slA7tmNXaj/Dop+oeDE8rxz8K9e74zIil9NaaZVP3TD275N5imx1fx5THBlQWbyygYA==;Xfi9WxS5o6+SegVKOYp74g=="
 ---
 

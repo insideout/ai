@@ -6,9 +6,9 @@ type: book
 price: $13.32
 length: 
 ratings:
-  count: 75
-  average: 4.5
-heat: 2
+  count: 198
+  average: 4.4
+heat: 26
 
 provider:
   name: Amazon
@@ -33,6 +33,6 @@ images:
     height: 218
     title: "Machine Learning For Absolute Beginners: A Plain English Introduction (Machine Learning From Scratch)"
 
-secured: "YLOon4ZWZYCIBsC6+7EP1kDi3snqP6drxkMmeBrJrY94vWjxJS072J3BLXU5DfGsHN6N4OZ0VTT/V5ZOCwSDJzS99e7NPqBSSbYzeYU9n/GXbnqlKfHwPYI1ztV592Zvd21UYGW867VcDXrlXCQt+6BEcHXo8R+NlV89RX/FwkrnUGKI806ThNJIIs9+eLBISB+QX3TOOU/FH3memHxdBKynZOxq2PHfwvuGJhtyGgkPmtDJagFmO3GWC9xHt20fYjrwtme2VDvvrooqC0Ebqw==;nDoNl+AB/YhLlPiimne94w=="
+secured: "bcFpl4kna6cmKS1LmTuMPUR2A+iaVytFzDncbVsR4mKno/aGvyvTYJK9RLY/SSqyH94R338brhpbNlUa+etdwXniApK8j6RZt68dyMS7jJipgHnU32a0P7PMB5akDlHFqFYgMgp5VvxdKiWWqQ62yX8IClx5mSp1ZjstWoidY+a3zB+O+x4dYjdkD508G2PvtqBRbzuHwPOdzhU66r+GssWZY//ANTe0Eziz6WBV5qhL6jQOa7tMUjrAJWhYN8AtEyX/SgADmbdKd8iYhiDv1rwWg5yK5BkgyPScRLzXzPWoKqNJXHKn0xKpwcnqLEVv5d+0/dmPqravz6CGJqW3aQ==;uXGhoYlM0AxENqDLPgtzqQ=="
 ---
 

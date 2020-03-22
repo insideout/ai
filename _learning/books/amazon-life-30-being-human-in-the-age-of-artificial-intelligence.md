@@ -8,7 +8,7 @@ length:
 ratings:
   count: 310
   average: 4.3
-heat: 8
+heat: 0
 
 provider:
   name: Amazon
@@ -33,6 +33,6 @@ images:
     height: 218
     title: "Life 3.0: Being Human in the Age of Artificial Intelligence"
 
-secured: "Yy5r0TsPuTWOx+B50gMHYb267kKLeQ818LST4L1hyx9AelGw0GOIuIl5g4iQoia0ETtgAlHcRSUG35gD96oFIEJSadAkfFRHyxpxOaIHnpZ/LOY2zRx/amNnal/Cahfcv8dotUMn53F2zuLiPSUrKoW5aXKWiignDh5+eMi0CI2x6o8zY8peHbzc3i0ShN53INjb+vhr+KlnUXuNL4MOziLnaAA6caaBFXBBweun0S67nj+7BWS+esceXiTd5KgGgCQ1tRkBL8dbfAzjbwlAqg==;d0xXeCA37fEYDScBpCx8nQ=="
+secured: "f4p5fnIfqtbtY0Fwt2WEAOOEXPNKeAN51yqMPzTzznTAeWtpX7CRpptWGT+4958tPWmhnhJ3OX6Zb5+jDV7JHflhJdQCpSRSJOY/FipwdkecM93AHBfwaUG7xDMoMKXueL3vRJFLZl24WNCBj+RuHX36frECV19wYLb/vTcm/sXs/Pm2Kt5V4NDQiqUcOVbh0uD3SFTWzX3USJZhApZ0YBst2zIWbxu5ME5E63slxarIgTNkkQP+p7/LpqKVnMKTPb4GZX0nMF25Zk3JhXEvwoYrAU08OTG2zGDn6RCX1NAVzwzspFvWiXHUC6SYYb0Nrm9lsXWBXDxYq7CKMREdTw==;p/M8EgN74tdkroA07RRq8w=="
 ---
 

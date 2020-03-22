@@ -8,7 +8,7 @@ length: 8 hours
 ratings:
   count: 534
   average: 4.6
-heat: 23
+heat: 0
 
 provider:
   name: Coursera
@@ -34,6 +34,6 @@ images:
     height: 400
     title: "Production Machine Learning Systems"
 
-secured: "jyCFdPhN5h3uwqu/9+d+lJC8gecBN8PEgYQG0JcrMnV4DX2br8GprGKMTEF+XPU5++ttQ53R33QV1cIyxnPPMUyXb1QK8SpDCM+VaDk4hhnZtSq4TFa5h0aCOt7r6G2WbXuVZ+7mugYUyaztR2wGGx5gUCoE8B4QpapJRnaod86Xm+Y9iLI4xRfnoSEyodT2c70T96kUsgz7QuMHb3E6hNGpDvgE+GMN/PeaErK+4yw2KLhNLlVT8l1htXICQUClHdnDFdfAKVJtpHvv7XMlog==;1BfNliG+JSreGpS2b6LrYQ=="
+secured: "67pyCsfe0yhzy52hYwUifFZdcYZDNjQw7wYo8xioeGtYrLQHelBxvDrjX6L0fX+QdD333crEi6leFSFeyv4t7Xn1QA8iOlTNfW+z5MH1HoVnADkf+/JLEY3SKAEDy+ocvoya0Q39+tVn7Xc9zAF1hnUJlNCm/1dSYpP2E1N/qJw0y5AoZJ0WTlHbQGg/Qj6dZeSmSlwSViAexFhDbOO/y6DhNavVrXs36PS04kaiRXGW4RODKMuZlAwXBtrxL7mEe83bNaCP+tQ6Dl7kUQv8qDBeNgESIpohzrABBgliYwATOzsZpjk3kEHprFC/9skydMWUXk2G3tlBchBgb197EA==;RyGrUUlvoHFSFCx68ZcKAg=="
 ---
 

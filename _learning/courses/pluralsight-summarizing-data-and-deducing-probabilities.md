@@ -5,7 +5,7 @@ webUrl: https://www.pluralsight.com/courses/summarizing-data-deducing-probabilit
 type: course
 price: $$
 length: 2h 48m
-heat: 
+heat: 0
 
 provider:
   name: Pluralsight
@@ -30,5 +30,6 @@ images:
     height: 720
     title: "Summarizing Data and Deducing Probabilities"
 
+secured: "0F1mJ99DfKMEAGTcQ5E39BW9DRM8yD055oAvqCh4dESWtKetGE5PGlj01oChMnLiySjRCf8md1sRiJk4US2AvbFSLub6ZIih43ZLgopBfFTXMPWCXt4cj7zboF1adXuqNt47q/kfDic1SIz6Ex4eQqo3yk9/Ge3rd0u35x1B1N4q9f9QZZVQTvowBcoXnyFtxK0SLRF0OTs+kPE60O+UxcP9MlXAAdK/5yZUX0qeG+yvCwRXNwV0UP+YsbUesH85S1sXhTJWTUpRrqdptuoFBWeIBqV0FBNJeRryf2fCtWOmGJDkDRvOO8/qbH0dRaRAcDj6CrZ+U9QJknruZwWP9w==;vC6NNcj8oW0WVstRw4Ff/w=="
 ---
 

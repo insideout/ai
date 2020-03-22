@@ -8,7 +8,7 @@ length: 21 hours
 ratings:
   count: 410
   average: 3.8
-heat: 8
+heat: 0
 
 provider:
   name: Coursera
@@ -34,6 +34,6 @@ images:
     height: 400
     title: "Guided Tour of Machine Learning in Finance"
 
-secured: "thTJb/LIw4xnBSHyndV0lVkDFC6Q5/NuwH4daZSOHyAcS17u31tSmDYbYrcntwoEJF6Y2Bqs03kCaOqgxiEG6liQFjG3XwflTD8jlYESCoYUCQRB+w64gM6X8zOXlpPnyVVrnCzRThHi8Cd96/Mxk86eUQTcLfgLjDX2g30NvNziLry6bLZxrmvuGvcYqFGI9KZdSpYnPW3WdHK49991Y0ZGtiVR0O1cK+1RCQ0080GUrzZrleXiTCADAsSaVewA+Rh/wAwNDNHX6/eg+hO7QA==;0hEEkgc0xh96+7jP3Npang=="
+secured: "dI+IvcOQ3MUycnK8zjgoibT9GeidZfrB36LStVNxOV10B9LlJ4XAutaOCKWUrjTHY1aR6eGxX5qBQYGRygEXsoo8EAGIiYIV5GQCdxBtI8hZBC/qw3lkWuZd6v2z1p2gslDGC8xp6cZMJLtmx70ZLBgWLUtxSHeD9nj44L5B77AmuBnj7wJnEOYs9YAYw1leXVFQGyWsJVUtPjnJKCrjmet8YDARLxyScCIPN+o0AM4kbTUnUalhGLV2NodPetbz+O7QJ6Qh9vZ9o7euTgE26XRkLfI49IFiaLpkRLdykAHeb2XOH+dLwkbeDsqWA53YO3KAvsgdhDz5HdWag6Slkg==;HUyOMdF710m058YUE9NGbQ=="
 ---
 

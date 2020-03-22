@@ -35,6 +35,6 @@ images:
     height: 400
     title: "Machine Learning for Data Analysis"
 
-secured: "bAaaLwaY0zAgJFFJwJABw5MwAC/n1sCa+8R0KpzcbFn57FgAcoMRDzr6UJPULL0mkt2okDZ+ZnY3l2836VJWmQ+C6Kxt1DS4dL0E3Q71AXEYS9q4VFxqPTgo2x1hvNMMtjlpfBYAo4VMBruoPV1x+EStqXlZkHOhCTSebEgqtEEfjg6goaMzFMXmkyRivheht52aKSOWZifoZHwfoGxpK2JMLMJ6ypKnrF7fy7RRzvs/wc5M0Qpy1JqJWUacww/W0uvZbyCg8Qb3XyfQD4O5/A==;v7oBTEd6WRBWE083n6Cs4Q=="
+secured: "zZ3zQjevcaCfjyQux9mWGkAv6vv+dUt+rwDrsE+aaQ5ttPNDjZZJw01W1oc7jvlWeQbli9nOT34dujLBxwZj6mi8lL+3Z8eCMF74c/6yxwwrOZnRSxPTmvsDa0+ms7dWwCPaLbR0eVl00LqZYdIfHxMJZx50ylR9QTW4TTyR4pMHQIMws+RahyhqLu2sxpcxU3YkqkXQbrQ/dY3czZBO4a5nplZcq0FH29xgRLqH5+jxMuXNut8wEznGNGBexifMg36hbkJPoBi5uUTzVB9kaN1a0lF+hr9Wy3u2Vj0KLAKPzwNthuooW8MijkweXhNxxZ4aT0mCoZerTOAHt+ByAQ==;lJx2PuaPz6kRRZUiGR3Epw=="
 ---
 

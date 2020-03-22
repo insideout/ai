@@ -6,9 +6,9 @@ type: book
 price: $18.39
 length: 
 ratings:
-  count: 79
+  count: 184
   average: 4.5
-heat: 3
+heat: 23
 
 provider:
   name: Amazon
@@ -32,6 +32,6 @@ images:
     height: 218
     title: "Prediction Machines: The Simple Economics of Artificial Intelligence"
 
-secured: "8FkYl2Kw61gJsbveqJNtTyb5SQYGFHdsDrXHc9fbfpzJUaea59WD25JI3fbNc16yqekX6m9KOyIC3K+kCnaBS+N0S5z8tUfj9H/d+EpsbaVMTWNdSka53bjk99CwuuboFAzOA/9BD7r3ivYuFmecIYTfnzX0AXutIZDg9ZW+pzSxaX7Lb8ououLY5SptQU6PZMq4UUEfB49CPSHoMWAPX1CWCdDJkTPfP08iG3ZYq25CxbgxQGT0tkuqi6jh2W4S4TAJwRrbBNS3+7S+PWeRDg==;nJUXZpQkpXehVOpWbGpQrg=="
+secured: "/VKIEi2kFeM6txpi2yS2PVrtVrr/Zy13UcMb1swbhZAtPbTaa5QDHOrufdUvvNzICI0Ul8L1QjXJB9m5TqOShcUvzFchgBRuxR+dlOB00BdYlExuFvg9UJzph9Wc0SKPGsJB6DPWkD42JtF+r0k2Wq7lTqH2Z7nBbvttDAjQkFO18wiY3wgImPjRebuaBDqEdjFEiKiAp+bWd9OxUj1jWAZhHPYVCcagfFVYJ233IT3aofJoG7EszW56yiC/ksAE+9+Vqd0rFbn9yzfViMeR4Gre9PBXlp/2Rq/GGjCpn/EapGHj+I78ULFwq4cfe+Wg+nxCG6DoZdSMwwY2P4iCfQ==;yOhPzHYoYrUvjyo5AjF+4w=="
 ---
 

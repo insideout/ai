@@ -8,7 +8,7 @@ length: 36 hours
 ratings:
   count: 4454
   average: 4.8
-heat: 53
+heat: 0
 
 provider:
   name: Coursera
@@ -35,6 +35,6 @@ images:
     height: 400
     title: "Machine Learning: Regression"
 
-secured: "fN4WOkYxMhwGgwJNjX9YU779KUCmM9UDVdij5F4RhG46m71AiLAtJoYfTFpwxYvOyqi9lYkJGvIl0hNwNbsAi6xD9BODkbeEQj/Ujmq88XdAIX96r1S3H2aXAlfxrPEP6OuuqsshzWRmAaCR+Ul60TztPN4RHkSd8E5xG7qKnsHiY6clbfAdEX8B5bd73WKNrQ/wHvoAZ5IehNru6BaJ2tJpNs2hixW7i6QXrtOIOjs7OOYgp8ohe6JR3uOq/gJ+M09FEx3RU4s1yWjncCl7+A==;FsztnW9gS3xYr4A9eF6cPQ=="
+secured: "8otTWsPWjR8hKFu//9UzYXFTj0yHdDeXpS/a6hQz9gBmKSPlzgyoZxt9ET8+HztY+g2DyNKkUn+gtdNLLf2jfzLmzkuJC15bcEA8rvjP/Ywhuic/swn5/VcsmSf45qxU7XqZmfvLR0OHdfrTUqgiHO0NLnt1y4F8+hP3BkMJ/dj4xcCOk0uphE4I5dBCiU0l9GOaUtK51O/c2b6Rd3PJWq+bxYMrMGq3BXuG1jTiiB0wOZbOmBFicbZMPTdMzddqDaI5QeML0usIv99UPP8+T6+a1AT97owGfqDQkyc/Isklxl6xa5uxicePyLBHIHidG/x1jW6ayyn7MMX7PfmVrQ==;VRZT3vDmykthM0or6CFLsA=="
 ---
 

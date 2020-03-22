@@ -28,6 +28,6 @@ images:
     height: 400
     title: "Recognize specific voices with the Speaker Recognition APIs in Azure Cognitive Services"
 
-secured: "G3VsA4mOhH1bFFTvZgdiWJR3LPjsZmAbK5iB9TegGxNPOPusaEMgwlcnI6+aNt8H635d4UcPxUQ74dzEPSuYSXe4BFDJmlq9L+4J2pcugnt0Otfdosdva5K8lxjzyurgWIMZ0RO9R2kAdDmUVQIie4Ty+qYPOS085Fwq8ErZZ/ad6YevTsD2cyYYIku0xdktTdaTMtEfR3Ki/B3ZshPb5MKn208oKIFzh5fELe90WF32uQxy5O1jAwLosNXhrOO7UDhxNsQmQxI62w6d1eGcYA==;FOoaSSeGTJREEjlnJBJ/dA=="
+secured: "H4yC8jMC8RUmbz2vtMg+OshZ2BKJ+/vSI107e7FCeNRpM5WqjcjW6dZQfJ3FfuKAIN7GexPAKgvqh0fd/rtk15Qz85lSYGwqUhhtPJaa6R/zvGW2pIVGoq8ivdQ+O0HgqtygUxCgkFMTSoTY9DHdGA2boHPreIoaFqX4DBNwW49inuv3sHR39SmpoxVLi3mVgTPj1K6wmZrv8Hm/NMRk1WoRgUBzNXESc7CP5qB0jJjgB4qar3ZICcmpCaleYh80kpOeP6TW7hDlvJyU9VCrZj0yk+IU6bgohJKyIQXuV9D3kCEEIMX/flc6Jibflqt9bdoEy0QJzJOd6iRR/Dqjjw==;zdpO/uhultqJm7jvJE1cOw=="
 ---
 

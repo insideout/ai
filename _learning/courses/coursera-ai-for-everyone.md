@@ -8,7 +8,7 @@ length: 9 hours
 ratings:
   count: 7203
   average: 4.8
-heat: 634
+heat: 0
 
 provider:
   name: Coursera
@@ -33,6 +33,6 @@ images:
     height: 400
     title: "AI For Everyone"
 
-secured: "H6h37MEGqIZILq1+1BKW6724HXSt2MPYZNc7GFGV/SL1RPochpdDiu7gNcbHSkffi44jI1JUA0WKXjw/v5QzGGJMuaAUgmzSG9CmVTI+i/yCigVfIS4JNd/rUtebzfomcGeER2OX7X4LaR2Bw4BDajjGKb81rtPjFa1h/r71tMEMHKTTccSxzwhQLlZJJm3BG4YQZBStsLzgmg6hkM+hVOmrMdMNwXOiIKjAoW1OjuwUaiq+9zpB+pWxNHDQmKyMVo3hrftoTSfSDmhyY3nDtQ==;On+H6Xe8zZf1il+afYt6Nw=="
+secured: "aT2fGAXmXGdzSH2Ukb7Tdc/YQoxQFeqd6mV7ATwdV6xrpH+kys5z5gPXgQ2M1sBU+n4nANPUGJURWnzTYqC5p7Lsb9nD+3u1m8ithQktE4WoLow6QxtQGyRt8/eSmD5DTN6LjWY2bS5xhFClEbPUfB4CyavfOeHDtXTDDJ3LbpmAsVKDGKSRTc/uGrzW0aIshxa3Qu+msBQAW2M0irG4JsM3S5wNqiTnhQrLcbRX7PIAZkGtfoJLHI3FkVtlUOeSzDiwcUFKqAcrqiwkBfVgF1fSqC5SzrPOEPKgmVihQF4pI2DEB0/dzR8NG5I7UGDRgW72Ygrp1K4cIKtPEfgsUA==;l+lMmoffY6vdLk0AH+bAnQ=="
 ---
 

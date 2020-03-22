@@ -6,9 +6,9 @@ type: book
 price: $34.99
 length: 
 ratings:
-  count: 99
-  average: 4.2
-heat: -3
+  count: 245
+  average: 4.4
+heat: 33
 
 provider:
   name: Amazon
@@ -34,6 +34,6 @@ images:
     height: 218
     title: "Discovering Statistics Using R"
 
-secured: "pWIYMXx4VG2TyAk1tTFVjlTi8pFX43nsW01JeAiDLTdCds4QL+iVQ0v24WkN5oo1ypfHsBgIT5z3cx+n+xmDlvYt5FOM9FtS/05KozvAxCpOFmzT4oCLLvfsBswfnr7OQ261DiVzy1sAlQn8P3cMKQDJwziFbgm3rzfIs2EBYc9vD6ALmO21/RJnealswTRCkJ6Y5r2bhOhnJ2ktLyNpDrjTAhqSrxne1ECGR7JCMTl6Dxcm0enTIsQ4Brrz7E/vXM9soL+oDYDcZkEFOYEsxQ==;zUP4cOBah86dyBOrXIO+zA=="
+secured: "fzck4kgCC6aUYnye3kSopt9IYJQsCX/do4FLukttRejiKUwvoYIy69q6tpgz72wJjixDXAitcvUbaSw1URzpe13SuI1g9KdU+jxuDW81i32mUe+hfCSBfu8hx4GyaOAedQtXsUQzxrgt+HpQALnpWPgFC5zcB9Z9FH7tpV2ySAAiGhiUNZlgolCJV6dHpBli7Ht1JsoSrGcFn+bCPNmPs7pfH2NJ7XRy0qF+2YnOqxU8fQfx8+OImElpXQSZgEeQHhm2hdAmTfDidJbiQwQRnz7hG4vOYZhImHsf4UOa6o04Slt1rf3HSrU2GG7cz13x+COJvRVU/klRu8W/l36D8w==;dvhPU/vACE1xQlj2ibyFHQ=="
 ---
 

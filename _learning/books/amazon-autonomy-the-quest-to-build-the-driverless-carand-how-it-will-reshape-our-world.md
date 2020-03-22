@@ -6,9 +6,9 @@ type: book
 price: $13.98
 length: 
 ratings:
-  count: 51
+  count: 67
   average: 4.1
-heat: 1
+heat: 3
 
 provider:
   name: Amazon
@@ -33,6 +33,6 @@ images:
     height: 218
     title: "Autonomy: The Quest to Build the Driverless Car―And How It Will Reshape Our World"
 
-secured: "lVC+a2LNgmd83MDs8kXAubCaHYrj7xGh4blTzB37pIszu+LYZ/hSC5KHiPEK7kRGo6K2JeXMHRT4yoPA37+QerMHn2MVKLWcz1bCmmLCEA59AHt0Vd36CppDDyPYThwJbhf1OmIVWqMoPcebwPdDN+bO2BD+7+LVOVf9SjNoQmSwaz1hl37hPBHP8Pr6qV0xsrI3UZhc2j+Tung3aaZ5swv7iIHnyeJO1ZvwNnSxbCi4o7vdFA0AITDHyEOYhM1hqEnr5mOTDWMEL9Twl1KPNQ==;JJvwXK85sSFj5wT77x8Btg=="
+secured: "uPLurfX8Lpbj9oIiGdME7B7bXlQMnr0GB9EfooToV7GBH6wU+zaIpLgp3Zjob6hJu1cMzyQU6nMNnICY43SUOjeQYr1qVN2H1AvqtoPgQ4Kkp5sKA6aq3vT21G7foedGlBpJYfhBrhzgPnGb0UIqNCMn0OUscAym+QrF0cYB3bYwyhgrLR9TBXQYfqcV9yj/DmnujkQv174gZNIOMcRFUqmlxMIR78f/5M7x1ST8mQliikIR+9cXezGrUH7lpZk5MsMTH09waohmgT5PDoIdX/FC+ubxx5tWEVEo/wrMQsfcfJA/OQTGFRUxslCGnEL2vnPGM6iGS5PUEf9zO4aZpw==;bccRQ7Eyw1kS+ncGRnMC8Q=="
 ---
 

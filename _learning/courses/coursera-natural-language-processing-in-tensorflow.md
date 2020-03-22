@@ -8,7 +8,7 @@ length: 9 hours
 ratings:
   count: 1330
   average: 4.6
-heat: 133
+heat: 0
 
 provider:
   name: Coursera
@@ -28,7 +28,6 @@ topics:
   - AI
   - Natural Language Processing
   - Google AI
-
 tags:
   - TensorFlow
 
@@ -38,6 +37,6 @@ images:
     height: 400
     title: "Natural Language Processing in TensorFlow"
 
-secured: "piPjIQ1A6j29tRrRWDNNt/sZ4ymgAn5SX77/ErVS07oFVX2nUy2a/ANgF0q/3IHMArA2rBlzvfyTqH73hwsJyS+9PKNTlZyLoipZGT97/VFzXcvd/5FkIXZO17ixxQE0I1izSBSZLBkORkOi7f01gMoYv9TVjb1VP8Pgw8SRFXhK19agBtWndzqv7tRNk0dKteMjyTvzmnyKmnyBWmF9GXwJRza8fE13BWSUa4/wNAPNsbEbPBdVBHJikp5cLttsTyL7SvkcPt3zN6cEA277yw==;rQuywzqZUOgGvXIIR5ykew=="
+secured: "8el81yhPS5hqhcZb9yNebIe/R+ax/HwNWZoxLtSbzD9ZmQRqVqD26f9S1AtsN69g9d6VkQbuxtOQ76ztxRDbOioIW/xZM8axQAH+/Ts268+GW5Gg6FgG8hGjk7cBe2BTuFIp4PRYP7ZLCPKcw6QuDvBd4pcDvGsnxN4xSPyx2ywK75NPKRrCH2sR9KqzabjZB7aoasfdbt8n6xjg1ZwRf/EjV5W03/Sx6PvoYXUd78OkPv6mypLfbMKDlWX12Nf7XNvFzQN5eLI443HJay1Y41jp9zH5FjUE7HmYhJl6nMWnmOpr+hP6GK95O0UOS0dwHxRvGrx0PRh12Qdo/Nagow==;BB6YAVSgEuYsQEccNzp9Aw=="
 ---
 

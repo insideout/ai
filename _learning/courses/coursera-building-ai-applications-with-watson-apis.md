@@ -8,7 +8,7 @@ length: 11 hours
 ratings:
   count: 136
   average: 4.2
-heat: 28
+heat: 0
 
 provider:
   name: Coursera
@@ -34,6 +34,6 @@ images:
     height: 400
     title: "Building AI Applications with Watson APIs"
 
-secured: "pXbCSxjlnc4VRZRbTfdHEJP0CqRQGnpy3h65VL6ctBvHybkjLpclfQz5L7BiZz/oY+PN63+MyiDMGqS04fxAIvGTSTnXMmE98CDV6aFeSvsotm+D8Ey1Yvg7FfCz8OEmyfk9gwLncjtLvHRtrAHxXpEuVKquvlRqGB+5oiJ9okmJ40QjITs9eZ1NVDZetSB/N3CKEjxfX+hZt8PxQ0Pm2jAWG+hDVQP2LjtG25dKxPGblTJ4my83m4K1ne3ZV6mCEieI9EHUmMx23zPdto6YPw==;ur+5P8p1QJp8sEuUFO9r/w=="
+secured: "Yg8kqxLn+/lwmozZPG4OYOtTCG8Ouo1GHEELeas9YVVX7e3ggbb2DgNtYs/IMnu68mbvwf0STM/diAIWROjJULh/nI8oND7rHigG61GKfQTHHhbZ78BjH/5KlCyzcawmaJkkshcBIfA+ZimIHr9o6xZ02XImGMp9+3+7jpOCiUQnzWY2HbsSbkWzeXCtag4+rufFla8PygFTqF25MEqNIxuuKdmL1wcYJn4S0sPNYxHANsVnWfZYnNfdq9MB25nXJ2OqaPO16OiZrvFOLaDWe5P7MiDWCLc1ekxpd+mM1vRvurobyu7rFhhd2I5sdZStkUDNVf+BQ/Sg29Ge5SjJaA==;x13Xt78MR5s/e3f7hnagFw=="
 ---
 

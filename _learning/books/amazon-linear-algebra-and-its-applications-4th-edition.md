@@ -6,9 +6,9 @@ type: book
 price: $11.98
 length: 
 ratings:
-  count: 188
-  average: 3.8
-heat: 0
+  count: 202
+  average: 3.9
+heat: 3
 
 provider:
   name: Amazon
@@ -33,6 +33,6 @@ images:
     height: 218
     title: "Linear Algebra and Its Applications, 4th Edition"
 
-secured: "mmJorE56ZW3Pd33QOhnRdpXst9HWK17kmqIqfUGzqisJOvhUZcTjjM5bBe/XplsZvc577XaSYLErHWhCOmf4OH/+qTQpqMzECKKrsXU00Zs/0POCyLpPk5k2tj6FfNcuxNL3pr3EUOroSpJKzxHbVsmG30IecsL372btcIurr+SZLEV6GOP3HekIMxnpC5qNjAASliCrgTHpfNcuDYFI2m2B89TsJbWaOv8E/y3yR5RjzR4joMr9sz7Y77eV+KxlqeKVU8EyU4WFTGh3NuiUpA==;PHW0O5meq5i+lShgKQhQAQ=="
+secured: "W5S9dk8N45Yb7pklSlDfc2jjfUQ1c1rAa1v9ZLiJO5DzBu0br2N1wuNx/68Bh6Jrzs9tWcx+pfwmqyiZlNAWPQ1JuGix57a1m5SpUZueM+5hIKLQnv7Wd6g8ws90NeYwAXzkPtwejoqIFNUB11BY2guozhtrLP5ChtsCyrM9F3osYAtgtMnP2MSvBgo0fYladGC7AGtzhx+tiqZGj58wJ7altDi5SStx0/zBvLoz1tiz8oT/LP2/42IJe7EQTrMgLQvlz5EAiUoOmGH2clYDYGowuMhyyhi04rAG/rD6z3UkpWLSfLJJ5/tyO5ClEWzaHY3h/uisOKimaBFLTg1VZA==;5QCYgodr8zEjUyth8NeK9Q=="
 ---
 

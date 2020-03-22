@@ -6,9 +6,9 @@ type: book
 price: $57.65
 length: 
 ratings:
-  count: 227
+  count: 510
   average: 4.7
-heat: 3
+heat: 67
 
 provider:
   name: Amazon
@@ -35,6 +35,6 @@ images:
     height: 218
     title: "An Introduction to Statistical Learning: with Applications in R (Springer Texts in Statistics)"
 
-secured: "IkMY3QbA1LUZ+Gg3BM7XO8mx03Ht0g+TAlYikZwXYb9LIg4WHZt1/Grmz3wVQNJb5lC9zQz8ztfMBoKOQT+x4JJK3w+iCAyo/NrepceLcFhlO7fshsF8Iw+2twim7QsRnblgFiMX+zlWGNtiBVuce2xR4LOqfrhj4S5EVAqCwLp8FvblqnYDMRQj+vukSsGm6tbfiNDmLCukcF+Wa5qcaR+DNFeX8MdPyGxtxGEPrXfXy6KheFCp2U/KuCn9j7aNeYH6hiy/kIrSbW77gxLtzg==;Wg20RRQwDz/DfoJGwUC8ew=="
+secured: "i0670WCFCNykBPO4ZxMIY+6kVQ/QkZIvAPbFSQx64GKkXeMvGfTJpPGm2VNigZ0QL8tFEB1MzAA+ZRbfYEaRkezUFa8G9KLcBcQzWm8EadlOe3vDgwLplXkmHWDDGXP9NvR2oQA+dqjvZbQRblHj9UbpNg1sS+vMCPEAQGnPyq4R3Jrp01wk9ajH1iJhxs2L3isHtVhxYcecCWCyVhCAN0lYFtsVzA4aeHAgVXeWPnxVichHh9UZtS+pE5VUSKNvWR11136gQmrAR0K49r4pi8XA8skiQJ59gPYM20FlAE/vKJUI8+iySCGMMzexq4ZKC0BWbCdHWhDBtev+dP7fyg==;jaYoMfSGd1i26ZgIGwBCjA=="
 ---
 

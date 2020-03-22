@@ -8,7 +8,7 @@ length: 12 hours
 ratings:
   count: 67
   average: 4.3
-heat: 1
+heat: 0
 
 provider:
   name: Coursera
@@ -34,6 +34,6 @@ images:
     height: 400
     title: "An Introduction to Practical Deep Learning"
 
-secured: "I6viMxs9crVeEDVYTtk5pvEsyXPshPbBBYtZlNynbnw9Tx4yrjPTuXXiBZD+PNJrQ306dmVXzmdAbancCB/QLLI497Fwa0nZNqY+/yoF2h5+E//NlP8JQM4NnkxovhP2q1nEbSdmWWXaLgX8wfw437LT6xPI78NOr53XqItFxB6v7SdDKOrbSc6h353RA36rqHhv8JDvzvNaiq2RxZ6k7qzv3b7RNXnCZnZ4Ko5AWUWkPMUkRW2hVqyHd10GtKbHluDoN3F5kJF/9w+YOvZztw==;B18ykkX+TEd4+2hp3AFi6w=="
+secured: "wSIX0AS6oTlmZ18m5lfFP+2BdGql6t7uncxq85jD5zFjQSbIPKpJhChdCtGg8/noF2zDsrRssI8sb+SHbKUDLnubQJSshYHHJ/i+5489zJ6XcklLIVWL2ps7laoWZMYy58PHfiZBQ5yHJKYcluMX0k6lNzxvSTI/DQdStTKLN2l6zM1ZRHw/4Bfxh6tkxPQKJ/vpUPqrAYZkDtIk5+SQcE1sjZdV46zt40Z3xJ2Xls16Zd5yBg5acEgEmkT5/3uxRHGu5PKytIaVmrxB71h1CW0s1ZUQ7T0k9FIe7yRPiR5IblVAVnxxbvTYJ7PWXqwNXvSWeKn7rZkw/iLCkj8Uug==;ywN6irmEL1b/cIa2NCspgw=="
 ---
 

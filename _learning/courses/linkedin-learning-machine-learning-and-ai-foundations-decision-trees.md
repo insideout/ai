@@ -28,6 +28,6 @@ images:
     height: 288
     title: "Machine Learning and AI Foundations: Decision Trees"
 
-secured: "iM6Hf0gKfAOuWjCEJX7FD7DfDXNbGtZ9guviTdKhESmBsw+NGbQ9g24GVNkEdI4iWG+sbihRqmFsZbr7EJEBnbR6MmozxSJbs0aR4nZfh8O9mb1t3FbigZgnlLnQ/X75eOn6DgBKTj9eynGIkKuYTFL3i6jp9C0TRQd1IavIf35SmG60zGdjJVeb76i7To/kf68g5CAAJqczXu7R8hm0zcnE9rd/UlikalRJj8RmIF/9CdSy6fGa/eM6OhChoO74oCxln9PO182CJbZNUaK+aA==;0WNA8YLEi4urrrZ7HsXceA=="
+secured: "QlTeij6um+v87YSYZtjU3b6u6xH9D1dMp9Pbwekb+wZ2mA1qSUypy7SpvqNW32J/L475Cb/irlSjcS7deXJRRSXW1dZUqxqpAYtASFMf2R5eLXewYv9GwhqMY1DTU31X9jNMyg6lBJVEIKspzV27rYRWrFhWBcujCp4Qht8v4eUCgzE/bQsUxWG5BxidjZODGPfxzQzgaax08tv2Yfin/PrntJRHOw4UplbGLKo4y+mNDqJ17kzRoNblARUQDj+aJEqfs5vgQkhDviBvWrTVlj8wFHpXM81AQr6S59HksuO7NUqIGttaASnJ0+B+dEOkLHJO/aJUC44VeBENkahxgA==;X7YFc7hE6Ue/KPvyxKQ8XQ=="
 ---
 

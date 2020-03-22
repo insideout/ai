@@ -8,7 +8,7 @@ length: 39 hours
 ratings:
   count: 439
   average: 4.6
-heat: 16
+heat: 0
 
 provider:
   name: Coursera
@@ -34,6 +34,6 @@ images:
     height: 400
     title: "Bayesian Methods for Machine Learning"
 
-secured: "XxBxsQgZOnGT3f+0H3cENJp/6Eprv0GH/CWhKgju7bTbXoxJLueoQ9HirdmAiDiZKubv1mQRf81X7Uydz/4Xzzge6yp9j3dBGGoeRVh3Pz7gAoxV7UIwe4kCbKtK6I+dhmafEqD5VaALKa69txvmFXZ++BAiyIg/e1e7dfXVZVZXHYUBLlbGsnWWr2fy2jxNa9fnxtnGu31tEO1EMWg5EBCXSIPAT9AcBThTem9lbNyNTUOttE/584dtl7DzNZX+RAzzKWD6+1aLL7bEsjX7dg==;ZMn2yd8uIPBGP1gnaHCUEw=="
+secured: "ywiLIb+tPq2mTR8zrC7DZf0yUAVXqYtHDBQsjDnRZ9cKaBXUpTHuwYYk0yXEFG5qM2NiDRwuQrd7w5RVr7o7qxYpxrLpSpwP7w0SYNm/JFIyIA1m5ohKjWKSdVco8PMUETp0BJVV6GdnEnNP+0/+RvpEY8+3oGsaUYBpj5w+kPH5UGBAavPHYN5fLLyuwT9oykrULqPRdIOqIV03cAS5HrA1rSdL/MAOlG6ncxS94+KndhhFOZeOo6mXXJ1luLXjIuzdLSzKgoO4N+Cdj4S73vbmJFUNyKU1G3FRCKsQcQ3O4vT16GRe2ptnH+wBMWpnPSxYqLGj0SUG0XCLOFnbaQ==;MtP60KXanEPmkfrRqp90Dg=="
 ---
 

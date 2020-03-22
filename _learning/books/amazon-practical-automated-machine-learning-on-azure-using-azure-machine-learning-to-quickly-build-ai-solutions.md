@@ -5,6 +5,9 @@ webUrl: https://www.amazon.com/Practical-Automated-Machine-Learning-Azure/dp/149
 type: book
 price: $44.65
 length: 
+ratings:
+  count: 3
+  average: 4.3
 heat: 0
 
 provider:
@@ -33,6 +36,6 @@ images:
     height: 218
     title: "Practical Automated Machine Learning on Azure: Using Azure Machine Learning to Quickly Build AI Solutions"
 
-secured: "OH1V7wl9Uj/KTQi4etf+gtdaP+HVSxDFmNf88Z/xMtobMK0R4+xssSgwuAEdo4pY8IE17vbS1uojs8tHBYly+n13Sg7Ghy0GZt8BSge2T+xGZ7/nPGBdApndd7msTXKb/3h/npWIWCDHEIuAqmXVaAlcs3nIAkxMWUqbNmyT4ODxey//3KlFuaMV5CVN/FERHVyv0SWbpqq5sCwTkP/HBWBVW0qYZs+DulDfJvkRYmmZabc37tzFGh0e3SJI2+kW7/yuZI2chY/XIram4r2KmA==;kQvw+Pp9eFQ/xTEUej3xtg=="
+secured: "z1NUZT/1mwcWlLBn0jWYGk/t6cGSz1msH10OIBFSoVifidcGEQOco9N4LVoAVGCM/DE98Y7EWgQRkBPF1c3szvNHV8FtMFwDcjaza2RGLwvHkDi8cYZdnQy5jBbOe6bRonKeFYjjLd+oc8C0+zfYWyxIrLPEwsSih0TlRtHa9MhZOfbYwtkZ3oBBvbUnONy2iLS4+O9LOGlmpLBPZzO+aO3P4niudzVg/swIDtTH0O9+09tH2qH+jlsCMyP6eMmmQDByTUCPcbJ7Is7O7PwnoomZyX2RQRwtNFcBs6ujSqz90M0l2/DNqhIyJ2uZIMUZGvs/a+SNeKdZoM6ZiZyQ4g==;DO97O0Y7+sKTOrbEAHRaNw=="
 ---
 

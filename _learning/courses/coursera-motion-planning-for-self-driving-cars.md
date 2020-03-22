@@ -8,7 +8,7 @@ length: 17 hours
 ratings:
   count: 78
   average: 4.8
-heat: 296
+heat: 0
 
 provider:
   name: Coursera
@@ -34,6 +34,6 @@ images:
     height: 400
     title: "Motion Planning for Self-Driving Cars"
 
-secured: "iRornr2eLiFUCjuL/OCMF2xPp2o+N5LC5U89VwrPZNgiQj0eXItV1sbkADlHFT0rtnGfRqDKLnizHJpg3GWgbYhBjedHXU6fMKGmX+R+GiO7zS3p5Wfek+3hgql3YR14nJzUtCGCp6QhCJXlREgc69xxpEcomsxVVN/2ab0wzbBEyHuwBhRmxV8NLoypwqKvSBhfQ4Y6LwI6qRAdupMOH4yACJaikzbSX2lPFOQE0L7982mNKqoJYtWpcbimh5naSS+6JWkaSeO48M2MFi273Q==;UyHrio5IRMnrk5NUWO9lyQ=="
+secured: "D1thqyeU0WpqjcbwYX7uZ1KqyMRrnrKAbOoET9gTBSxf+nwOXLz6btaU/luBIu00SJe+wXnyU+u3QWLXCdWAK0IsKfmiMu9uXR4H0Z43A7kWoY3g6by5ctwyHxRwmFLjP+rTKDGH+STNmMWRQV89/oCuGF42QMDKdXRbbitO0a+N5RQ3r3YMcHRWlQUX76YDmi5Dn0VicNZw9Ajp1l1jTWXOL3fMwqukpA73zOs0AHACyV2QENo4DbQ1Z2DTYWkYXeA6J/A6iWk/brbYSuSWafX8hJ0IMveePxHvi3mt8iqCB5c7Vh4KbMft3jlTLqseHb7GxSOQD6zEP7uJxQebSQ==;CyB93z/0Vm5i5HBHOMYZag=="
 ---
 

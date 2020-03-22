@@ -8,7 +8,7 @@ length: 18 hours
 ratings:
   count: 110
   average: 4.9
-heat: 429
+heat: 0
 
 provider:
   name: Coursera
@@ -34,6 +34,6 @@ images:
     height: 400
     title: "Modern Robotics, Course 2:  Robot Kinematics"
 
-secured: "Tgy9YIj67XBz3950Bj8g0Sbj5H657U1Vyt+nQsxEDFZv+7N1NJSc4yEEKDLEDY+LbPnrlW+WMnWCwy91vSefCTb1WnthIAEJC9Mkm2E/SlZfSa+1A1KzOFpJbk3tvPfXvy9i6YWY7gJZl34znctq8osQx1yZLWG4/zHsOuwAfKkGtY+9jv6afCLcBhkikSNYoTfFjdMp//uPuJoTX1lOoWAy3M+SxFvlSoKhXjFDvhB1nig/gttgZD8NDJ+ijLXVRBeAFDYSviMF4Slr5C/Txg==;yItYsKQQh4mJd4g2QRUBPA=="
+secured: "vkjyumUfWFiFRfBUbUK+uInOHrCLRSvZncEQjOEWD2enPPBQjWAsLtRnrjmi2mNTf3ECdo9ymZZb6hf12nmGtkpqYTZ5IZkuO95gW9meXfA+0ni6xeReDEq06YbFWsnuz3vFJpjwR3z09tM8TCYW6nXJLYhmiZqGkgzlAicXDwi0GeXNwpy+fGDqJSaHHVzksThiksv/iOvBbrP79231uv/8sxOYRDFNrtX9R+axqtDCpoXVFvCVgL4ZFF1e6Fz0VLAhJhB6UqX6AYIGGj6jBOYo9IfNfAE4+/lpZUWw612VionF9gAIttieq9ThKXfwTmq0dM2OjWDsT4CJhC7cPA==;Ae4DzWhBs00tGnXHJsJZTg=="
 ---
 

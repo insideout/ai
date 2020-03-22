@@ -8,7 +8,7 @@ length: 17 hours
 ratings:
   count: 17985
   average: 4.8
-heat: 385
+heat: 0
 
 provider:
   name: Coursera
@@ -33,6 +33,6 @@ images:
     height: 400
     title: "Sequence Models"
 
-secured: "Xo4fn2VcHiCUce5LIqVLM19WRLPhQnRb/sc6Vzpm7uzUTRSQRdMh3ZU0uCvPnjPDV+rTUdNPHBkHlh17c0+uBRM0qCDt2liFECYYJB/G6trpekYTOMv7wTdp9o3/xYuLir6makLlaKTDNy8125hueTc3Xo+et8Fxmy+hKukkzfotOBsIjEJV2lRoBauCjzA6r40IgiQVa3eT/ewSvU7KdwXMuCfB52IWL+F1+/LYh/gR/1h36URqqvmczQHNwNbwRGAwu2JU6q3IZs2nV38AdA==;vmiSHtbttDl/HYu7ypnLdw=="
+secured: "k1+PUuupM6u6BLrOatDfxRQGTWbWdfokSjcHVGUE6mYdWwrI2esFBNAvEdfRDmHI0p8YLcBkJqAHFZJ1sYorpj0E85HdEZaFYdzum45/PkzWx2XXOXEGZDVEJ3j+8DuWRZYRw0rizJOrIk0xv3xTk0M0XZ1Oj37nRKRCBML/MGcvxNG1rUjO5JYCeWgK4h5okL4jQ/V/NVSD0jveeJd/659Vb/PKg4Q9fcYgu3qw44qvHOu8Cm7r1pxUUm16fpw5V00xjSSjmSKFPfXHkqMnCT42gJ3c44gBGovQ71oSEKe9t5SiYW0ag/7FA7XrXsVKOWqibXf+IEZ9Qp2o8KruJg==;3ROUNm9FR4rY95brKsaT+w=="
 ---
 

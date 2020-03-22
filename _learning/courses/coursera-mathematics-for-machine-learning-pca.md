@@ -8,7 +8,7 @@ length: 18 hours
 ratings:
   count: 1173
   average: 4
-heat: 45
+heat: 0
 
 provider:
   name: Coursera
@@ -34,6 +34,6 @@ images:
     height: 400
     title: "Mathematics for Machine Learning: PCA"
 
-secured: "rulBs/4dyJWy7unPs7bxjIfi9sVyH7tvR6mplk+iscVpU+luAQYw6LUZtJN7zZmr9UDC5zJcOs4Fvwepo99ppW2iuCBMpHZN3i1lF4v/g1ihGERV+7O4yLLmSv/BbhepFkKOU4oOe22llyicI3kxcuMqLIBH31PvJco2GnUe657I/mJurkX+zx1jdpsuyZzMnGY6f9+2zPgg25JYwNp0POEOJtQkhiZ98mrGk3wpHH8JovXyPu3kkDfesFtbOezfeeZXxkbniAsIVeBLZx9UMg==;tvRp/HsNl+9JjqnbhIw8ug=="
+secured: "Owitw23QoZCOB5WSjKPwT3oKqR+9HROBAwdZXrQwYF9EMwNw4nWUotQdY0pFVhLPfHKvgv9o4HXPZ4hBr8in5ZdeLrU98SFlehhQTVpwsUKCQ6yBL+sFfCk7JYm9OFVZxVxi94NnHnjiXoNgKcliGHJfpYd4MsR7XC2JSr+MJBBm1lC4qajwT5E0gfANtg9yaGKFUxkME67YUO7GlVmTFKGFEZjvV/uT5rQhV235bDarWvfrNJjD62RLzvKZ0x8JXEj0FBvoGGBbn2GBa4cJSlwqnC2n7EZmcEe5g/PATZzHE7el7CCJpNpKDI5mPYt/0LjqMPaIfeSuZqyiWRk9lQ==;0bcDX4qAUSn7J5dTNlb4Lw=="
 ---
 

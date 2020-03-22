@@ -8,7 +8,7 @@ length: 21 hours
 ratings:
   count: 26636
   average: 4.9
-heat: 546
+heat: 0
 
 provider:
   name: Coursera
@@ -33,6 +33,6 @@ images:
     height: 400
     title: "Convolutional Neural Networks"
 
-secured: "CTXfenZvaGDoGHWMX52YN87C0NYoJ2PwX9DEChRZJXT8ExT/9ipmpuISIgX/PT3tOeUneGuwsI+IJdtZhkxKyKC9vsXqkdWxWlPA/gvuTxDDY+3Z10gdb4hHa25QWjjf9N2urceAde+SjRoRiYrDgENl9exnZgt9aAoea+muT9ooMuSi7nDLbQO6kb6Fs339XlkSkhXWJtpxm1BL91T+++SxB9ecPyhQuSHBGgNNFmfhbZIDFMvATYPTHMY5UosON+mJSsCk/uI15YZFpXJLwQ==;tYCw5Z+5ywXyA/FQXl5x8g=="
+secured: "6fVjU2g67YQKyKmIg0fW3JNxYIPx+xhupgiCRm3aTOFWDHSE8Ts+St4eEw34+BIEiIJZvG06/e/drt/4fwfLsNwNEL8RpUBratUVzxpWueti9re/JvfjEOhnhWbjCRSt+klz50n7EuxMlCgBGddUvn+bfSxZQnxeL0q569n0DZpT+VPhOzJtBZpP74o7rrVhn7mX04e/iijR+6Gjib6MCzNrSoC4m2xZ+obCLr5402T7SeoneBgym1QeC2zSH0wbFRZpuePTEbzlcvBY2uOfF1aol1IItgBjRBawPMK2x7yeNvSuFfa/aZbRIuOstP5YOJ3En0vgoyx8weMizyBqcA==;t9bWQ9cNdlv81a20Qka7Bw=="
 ---
 

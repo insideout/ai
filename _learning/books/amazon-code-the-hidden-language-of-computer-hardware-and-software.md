@@ -6,9 +6,9 @@ type: book
 price: $21.68
 length: 
 ratings:
-  count: 439
+  count: 709
   average: 4.7
-heat: 6
+heat: 64
 
 provider:
   name: Amazon
@@ -33,6 +33,6 @@ images:
     height: 218
     title: "Code: The Hidden Language of Computer Hardware and Software"
 
-secured: "oaENBwtqCUfUq/0e413DUK9hhoN4aLaSoghYbJ6uzhutVlRf3NQ87Eq9M0+8AbkVNwyksAELjShZF583zBhmbOFPt5xgSM0kyxKs+JOJl/0i75L2KwjV9+gvQIfvLeH6fjBhvp2dUEF9N33SsKOhSwDwxqgTRR94GlMsfKRvqov6BSprZqdJqeWVOwUt5nwCzr5gOCp+ytoD40vYleSrtvtpAnyH48Dnph6n1P/Gh2N/oG68jcU6dAogtXtz7nljqCN4l1F7JhMmbPTLPLyXTw==;RgIOAxC4iJEHWzpPtnsJVw=="
+secured: "Kfo5t0rrJ1LFau+DvJeKdwszTg2FYsJpF1MdocvlmCketW0Yd+wnpG1mXjAliPGfz/q2VXDvfduJRcbAOKfBkOjDtgMaCPwmb/cP5kXU20vR8sT/Z0wFJuU983gDDjV5OIPYD13NlYR2gPJGzfGvGBsYBVy+S025xxZoeYlvmgsZZcfdWd6+VLtIQzAk6+lztQeEwKfAGeNSxITPkAM0yqYLjX2eEj6CnVGMXmPnMMux9hjfM+PyG1R3BnTYcRGgQRSxFZvfR4cV7dst/oSnPnG6XLlqgl/BnxprBsVSR4fWw3li3FPyGuGJIhtpTniV6XPL1G0ZS2VCdp330+dLCw==;fE4ogPhf2ENh1VwNqapSvg=="
 ---
 

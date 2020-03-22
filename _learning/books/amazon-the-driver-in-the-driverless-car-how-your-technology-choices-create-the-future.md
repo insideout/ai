@@ -6,9 +6,9 @@ type: book
 price: $11.99
 length: 
 ratings:
-  count: 41
+  count: 47
   average: 4.2
-heat: 0
+heat: 1
 
 provider:
   name: Amazon
@@ -33,6 +33,6 @@ images:
     height: 218
     title: "The Driver in the Driverless Car: How Your Technology Choices Create the Future"
 
-secured: "4OyfAV6Pve0G53j6l/LlkHYGP/T7HnyzKDZBHmtGBDoFJk/ut8SYqaw4jZingLZK7w7LlQzxORL8gBD4/jDxGv8wb2cDDgGU42wZfHaOcltIbAcoMnAkh2D6Dl9Ag48Ici7HYHihOkIgs2sQfLlrGiExbmqztChXwrFltruhl5aHeZU5q9DI+niMPCt05r5F4PSmLCEaJQd0cfyClQ2cE7FL0U699BItgZo1sJtwPjAVv3Yab05urzbabAgdbFjwwwqnOZ0vv5weMqUt5+psvw==;3Djd2KreTQYGZ2IIHe75rA=="
+secured: "isN4zNWN6nxBlVcAg8zpkqQe+cbHLAhDcK3mP4+vgaDWrYoKDPAuP7aI3ur4LXSFveShKz1FwzSZ82abAU3Qm8nc7C5UobTSKAelSIqwa6fB7ODE3xeAbKthbRGRmhu1sSKAvAnTGO00O6WiGcIyoD3woWvBua76I6U8k0TwKbvsx8i7d8qsxxi7mgE7pA9O/0IfSFWhrEMvIqiR2+vqV4aV9R67wEJTgZaG6GkLMZQzemzVbPX/k2T23PZy+oD5cnyjoDxXjcBoV9LtjXW8tcwbz6NpeqakRHPqHWUrzpoR/oa8eGB/JCHWe7o2VBSJJ/oEJ3KhtWX34kMn46PDLw==;TNTgDsNuQ2bhrW05GSkSiQ=="
 ---
 

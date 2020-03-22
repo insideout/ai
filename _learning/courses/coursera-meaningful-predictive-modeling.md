@@ -8,7 +8,7 @@ length: 11 hours
 ratings:
   count: 18
   average: 4.2
-heat: 1
+heat: 0
 
 provider:
   name: Coursera
@@ -34,6 +34,6 @@ images:
     height: 400
     title: "Meaningful Predictive Modeling"
 
-secured: "stQWe/WhPhbco3ibOf8RKrp60+aLlht5bxojutMavwPDhMrA1cPGV11dNMHddDyghSgESeZQyr6n4XWOj78K1KsDXeX3MoSPC3gg65Cq+TZ25TC+NT/+aQEJtbGayJQzTZNgC0FAh7ErSahG6SJPwU6LJJc0xrc4OI2IoezeDyHE1lRxltOUdNza6qtP3CPl0siAHyX2J2B8GVNJg7mof/4nP36RSzBhXaZFJlG7akb84pTt1FqN9eCsTHPCfpVNlevvnc0C1YYtB5tcs2DP0g==;fuK5nGjoeLSLeVXHuIb23A=="
+secured: "R8wCPOK8tRj2jyb6s7v7U46lxBnnhBwcLkMsqBM/2dOsOSaRfrClgFF0PQE1Efr5TA0qxE/cSo0E6Wl25iAWwJvcF7JHMNqvLjLXSXAhzfPkEbAd5aGKzX0aKN7IVpZ+VZD9Cbs74nnswP8zrLNbZbaJ8LDpl1YaStGxszP3JP0iNrEV1LQrUlzKz9tcaE2RMdijMdADGZpi3Qu0dDTsCQpU53WbTHZJlK5o1xZuffnV0tN5QpQicdWhxoP+2PQnm+NzxuBwtb+rQV253pH1Dqe6gFG2M8c31zXSvflNgMruO/u0s36GsIqKH5qs90Pji2l9IgvPuNMQG5VG6A1NtQ==;obYs0wvJjuK+xsvIpOcTng=="
 ---
 

@@ -8,7 +8,7 @@ length: 36 hours
 ratings:
   count: 1192
   average: 4.6
-heat: 25
+heat: 0
 
 provider:
   name: Coursera
@@ -34,6 +34,6 @@ images:
     height: 400
     title: "Introduction to Deep Learning"
 
-secured: "9bGcVE3QB2e3YPoBcJHQ2wo9wigRIE2xHOFi8HhGDMolbAaTmRw9NzZks9t6Yxv4QOaLcyusnPjGpR+dKiGRk8yDm7tMnXmXQDWOjSjWUOa5BIUcWPK30Kr4bOT6hzI5Qe+z2hgAusN7Yl8nPfXQyK1qMbMjBs2Vdw1Xg/tHx06aBZlDY6p3sEZ6z0oXchOxT7zq5OB5fkPn/tGkek+jy3VKWPVUT8h6OnRxqc9xPYfUlHfLtjR60/alwvt3hsfr44aQejuLd65N9gpsOFr6lw==;kC3WQr3ymMOGwgnUeUiu+g=="
+secured: "s9FlLQSbq8YhTiPdlvL1vzpQdBEXwDgXlepUbqEtdEumS9ipTk5EVqVYkXcdL/6uiNXKCS2jUyXF7xrhf/1UhXURo0K9xRSTaRu9ttvTb3aCAcjZcssO6Iw2FaC1VH97gRStHos+f1GukrMx+x6p8IEHDrOBswSPJYfijcdeaocfJr6bTVczVVQQQi23iqX/Hu4I/LxzY7Bxz43nCxXWkjsytsLEgJhB/oILc7XpQD33S/9QgrxHWjFuhKMBPkRUJZttQ5EMRhAW+bQ+jzsmjZHE21ddI6cLGPRYn1tIuxOLtMI4de54vorJKT8ULMd9mLqkN3AfVpfm0xIun9qNtQ==;dm+UJS5GVaV7ZkNTnftcoA=="
 ---
 

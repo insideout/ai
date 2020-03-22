@@ -8,7 +8,7 @@ length: 48 hours
 ratings:
   count: 735
   average: 4.7
-heat: 11
+heat: 0
 
 provider:
   name: Coursera
@@ -34,6 +34,6 @@ images:
     height: 400
     title: "How to Win a Data Science Competition: Learn from Top Kagglers"
 
-secured: "CcOX3Sn4JwvlICWS5mZigASke0AC2Pp6q7UeVsWlU+OWdQZjmPLsuoAfcYFN/be6PITmfo0C8k8jmMfInPlH4/OyPBjRTlMpQkxxpcrhPBiavb88QiC2X2Sml9Km+3+Ad6pFGH1uQzcA3Wm5sVO176IyO/YxcUKo1/9Aeng9qtCr1cIjAYRjPLcZ56advC6NNB1ddzhcxx4/ENFhmX0S91RkWKtKchxrgW5pwahPxPiK6NJVH5J+zE/9Xjhe+Uk24idhTL3jv/bHOnqfpMD1dg==;XmLDWUauTFQ2OzArSAUpww=="
+secured: "BHiAXVykV/OH1XMdKAt+FBqujqSqDNFG4RVC/H8BmpW68X7+a+l4QdH3xBkR0UnqSyhDvGilWtEX8jr1itmpzYCC1XBPxL4Lm0H6Fp78Yg7+kRDQeI9TLoLzhta+3DoPgXIYuH/duVixZUHImZu5xQOlt63oVgczgVj6Fjj+ihuEyFT/vaCOyHvD5f7ze/Mib36qA0QxBNIzwSWkfGZK39E+DQMh/hZLhiFieUVKb8bTDOjnSJH4hCwupX2W6hNS04yuJ1sjBJF62BwgIAc9DQ6eEQ22oIWR2yVOVXuG2cYmME2JPP44inby3xchei7Nt8B0hyGha7bgBZKmvTbJ8g==;J7vAmJiK/FGZt7CklfzwFQ=="
 ---
 

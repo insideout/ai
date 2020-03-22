@@ -8,7 +8,7 @@ length: 10 hours
 ratings:
   count: 136
   average: 4
-heat: 40
+heat: 0
 
 provider:
   name: Coursera
@@ -34,6 +34,6 @@ images:
     height: 400
     title: "Scalable Machine Learning on Big Data using Apache Spark"
 
-secured: "c/MD6/bTDZnibLSy3ib+JmCzeT0Z6eqM/zSvmJ+rqg3ZzGG93u7STxn3HxGR/xt2NcA/rp72yUfp8ysxvFijsC8eBh5MQuA/BFH+NLs0sVhXwqR0afMnPV9r8NJVxNO9zxRJ1W9yIAZgF/yLg4b/dZhN73XRzGjsyRO0t9L6EcnkelpLEYCY1M5Wo1r/LuA5bhtcTcoxU2gHR1DWM+lIOkbuTlPj5pMvw/2QMVSRUKyk1cO6iAYceI/COrBte/GdQ+5d6s89kMj1ieeVBijAww==;udP6HENHiLAf0axQsVS8SQ=="
+secured: "7W6cqrII26dVO3t4QI8xaL0ENN3USFu4q8ioXRxupjq0UYSp4WKUwXqmextEQeGQ9VLHbCfh323RhAhIvacfn9NF/wBJQ6u8I+LiqzI53s7N7doL5DcIbXIhmGYtnG4Oa6h1cNIJA3sCzeO+oZap+pPNGYEDnNQTfhhYrx3jFMXzIziwL6JGq1+EWQ2ZFsjZEhvkI0RRXhy/IO4GDb0OGnxx5lGa1G2wWd53D9K1+XwWYwYene7OCmmSQmM0ljGp5w7CeGW5OcuxvdcC6BVYIICtwmDEauN4FaMP356KAiV26/+S5cAfs57MnwCc/+AB7L1E7kyMPWLg83g7Qp/OhQ==;Eoy/8wEaWm3VeF4OgrP41A=="
 ---
 

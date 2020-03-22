@@ -8,7 +8,7 @@ length: 26 hours
 ratings:
   count: 33
   average: 4.7
-heat: 1
+heat: 0
 
 provider:
   name: Coursera
@@ -34,6 +34,6 @@ images:
     height: 400
     title: "Foundations of Data Science: K-Means Clustering in Python"
 
-secured: "ClZgZHXOHXDjEZd7imRTwroEfyNAVYS3ohiBlg1BBLg4oJgrZZCikph+XGgFY4E2OfxTFprznUcS4kJaGr0d5LUkPeRH3nahSJ8TJLUGydeEo/oyRNXpD3Or9z4aANF/L9phDl/mcnb0di25i/1gNkwkwt7oI6nePbc3pSHAUIV0JYF/BvWJ8Cpk7NTw0fPZ+Q17GQCJpVlQ8Yczu+D51i1uNPN8pQ0EcDHX4udnBx8ZQkOwcCncb7/dTWNhq9pPDE/LUEVlI5hfUuh6EwDruA==;DtcuedUTW8kSYo5/oQKDxg=="
+secured: "7Rwj0/IG2hey+MyiQes8kQMHXzARd8Zd4tjuyg1ezJgP52qv0TQ5aAYstkFgVN5dBFKArW/wlIBVlcWsZOqxYxNCY3SUTn519teJZEpqQvqPwpcPBsG+AtAmAuoTVmu6KjcD21i/fcRyR5G8k64q37DUtbjjQIzpLFjotUxVKWYWyIKIXSlozVHpDOayjLiHD0yOX4JA7bIrtiP9ylAWGe2dOXAFqXIWLXUBVvXOMCtJStqF6quT2ewodLa0QzLd6Stel1t+LVQui4o9xD7zbfxRB58804Zl3NjUeBu4hoLVCsI2s+L68JK9Dk2F+0umjRx2r7iieH7M9tJoCcVGNw==;8aKpLFD/53jl6mZ1/YUc9A=="
 ---
 

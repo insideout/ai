@@ -8,7 +8,7 @@ length: 8 hours
 ratings:
   count: 853
   average: 4.6
-heat: 108
+heat: 0
 
 provider:
   name: Coursera
@@ -33,6 +33,6 @@ images:
     height: 400
     title: "Sequences, Time Series and Prediction"
 
-secured: "XUbsVFEg+tXLyTI8BbmCj6qtkKb8LEaddUPFNnbCR+tZDdEYn/NofmEMY1c8iWMGhgJANg5cFMDEBHfwLkKsgmjmKKFIR0dFhdoS9flsTM1HrhNCvqVJC5hoHxBR3TUoKO6RbtW8IpuN3OwIvRz+4m1vkZ3CPTRWahhVr0Wf8J72UkPz0U9XYKuJjX0//4BkAhcui1GVMYpBrinXPJNDxRr4TrggLucelp6VQbbJ7GBBqZLJ+V6q3o0GXegMNg25Y51D9tXxcO+UM/KtumkB0g==;0F3Fqhdc7qsQF/0/J6PiWw=="
+secured: "3nvzj/HiLCY4BDDVsLO8lhG3BW/Bp8hrjkdUFjoYX9PU7jHrbzQbGHTtwhOFhz9Z0Et5Fb2NOj8xHFyrEUr743cBPwaYo4Jrm2f7SnSbtJG+ElsYoXAmeqduz0aS0W6oZw8u9xifKY1SOeYWW7PcdqS/Vu9YLOjPbsR07KAIA0FXGOlQlzFkUkZn74M12ajg+RbFefXmBywtSrb2S+RGjwGsd4Oeb2wx4y3iZeMbspm3gn+7OsI89J6t/pU4FE2fQIO5oE3BP3zu5sxPvIUnDvITdHLtaqlCNxlNNH5LSaxykT3hnXLePpPTHbe9XFAVn2ADj4d84xyagY6DFiKzFw==;Xw/GEnIeTlHZ9RE/OVkQeA=="
 ---
 

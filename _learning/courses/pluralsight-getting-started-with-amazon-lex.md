@@ -31,6 +31,6 @@ images:
     height: 721
     title: "Getting Started with Amazon Lex"
 
-secured: "xxASXlJ7gUjUiBnqnTdkIbS79eD1zMUOyt8Hfuy1YOGG6ateFbkuEVKK1cHwFwY1b26a5xgSJIpOJyfeQemYVuUXhj1NC3w78xhQ+5nmRS6KoaPi7lENjh/Z9wIyxoNIDVtWOKzqg8h8lAjab9OHF9Ldypk9zZsdVSDGgFHE2HPWAFZ37OeafCzJSBuDNVjifff7CNd1rNi6f8SJHwo+VxdsllHZtMgzU5jokbXlhw9TiJXEpxENucyd5J609UByt9RZTHeYqpjt51khYqW6Lg==;59cNJVbIad1K/dxn+pfZWA=="
+secured: "hHKGPHg6sJPVSM8djb0ZGfI3xCsYFaAvpybn40fo2eBhWvGBOz39dZGUtN1SOIGqxweZBSDBNqW/Tc0pTsX/H1+7bdGX9yUZFGZfrujY3mDUMC38tAl922A5Ga3tCPrpeMCBB8yRP0dFcHqEmTNniB9mdcCpBMp7d3GBrZb0H4Nj0Mgf1+VxkSfuJWA9NhDOQHyd0ANo7wZQCFbRW2Rs5fU2NWFth4T/fLmL1IeQpsZPO2o12BgK8K6KcVKt8FeloGcg6ePouzM8fB7Sz45oTa/RAOz+xAcatp3KVQhnywOGRHC6vIUU2QjAZ5D4rvsv8+J/CtjKkoGDi8ImGS+e4w==;u/QzP5jZ4IAc88i1diE1jQ=="
 ---
 

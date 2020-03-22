@@ -5,7 +5,7 @@ webUrl: https://www.pluralsight.com/courses/google-cloud-automl-designing-implem
 type: course
 price: $$
 length: 1h 41m
-heat: 
+heat: 0
 
 provider:
   name: Pluralsight
@@ -30,5 +30,6 @@ images:
     height: 720
     title: "Designing and Implementing Solutions Using Google Cloud AutoML"
 
+secured: "DXOrs3CwF9i4oVzCkpeFXMBPJbGkUrhfiqW8xr1WzCbAOGGynYJm4RS7pbL6M3wVxjGyjQRXbv+owhqu4UruXDTpVDF6P8DZYoGKU/kXY+zBGuVHDHsCu5FhB8T/I+DJNuwJHzV7LiCVq0LipVvhGzZBGb/ocpuuv5zRB2YZVqtuhFdiBS0vXHkowrmlIZj/3F6clM3dssEyFGx1n1WJIgxfiGTvh1KAO064PeAJfvftJK8syXBnutRj+WoKmb+oZ0fOiQlw7LUDLryaBOB4GCmE0ysSinfb1+UAZln5+OAGauzxIVazvQTqKX+Ul2q9A4l8FY9EvwgxzJMlHhuAMg==;9kv4korU3Ttbw0IA1UTBLQ=="
 ---
 

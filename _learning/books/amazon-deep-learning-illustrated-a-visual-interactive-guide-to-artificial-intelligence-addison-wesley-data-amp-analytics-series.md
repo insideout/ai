@@ -6,9 +6,9 @@ type: book
 price: $42.05
 length: 
 ratings:
-  count: 22
-  average: 4.9
-heat: 2
+  count: 57
+  average: 4.5
+heat: 7
 
 provider:
   name: Amazon
@@ -34,6 +34,6 @@ images:
     height: 218
     title: "Deep Learning Illustrated: A Visual, Interactive Guide to Artificial Intelligence (Addison-Wesley Data &amp; Analytics Series)"
 
-secured: "0gjQe64QSO0t2XNNVAqiqP5AxzdMcMIKD6yos5bL31A//FJKPRHh1MfIT30BX/SqqitRkS7Kfz2PgHS8AO+fjmxK1iWHbImrfKRJyydQ58xdWr/dUqgjRMsvbag2qjnmRAmjTlBY1sLEeA4afKM8wYJBPuXtju8OvpCx1VO0WpVBU3Q1w2plekUsl0E3qwHXLKVOOky9m3E/mFyUVDJwiSaTdBuGYrFczbYkwa2BT68PiHXSieo3XRiBgV1tZJuXGElDVHjLb/fa2dh4lPorGQ==;WQhuWecksh9gZEsDCJOO1A=="
+secured: "aBVzNfba/7UoJztKh3Wba09rTck3ClF7COufSYfWaBLDuVrfl4r3JzYty1fIkZzdmpC+3JIsFukWiSsjaMSycSwKewmi27mmWoKuDyDgN7RuiAsy3FvoDxAsbYHl4hF0z5NUsug8+w+tWhOLHY9X7Xmyy0zU32UE597TfWbxOtsEkIikPM1qwpa0mEW0qvkPIiwdfHMbdzE9k5xsTnIqjblZ63XL/o56eFi5Y85JPB+QH7q9jQ59Y2F66sfhPbKBPT0q6ttNWrsFOTMCtA7Cu0+FsPhF2DAOEhrwCf2t+UFH6/FUHdp4BjkqUaLR11P/IkX1kJpD2lzPGwE/DoFF/Q==;ab9TJZR2/bV8Zxps/WwW3g=="
 ---
 

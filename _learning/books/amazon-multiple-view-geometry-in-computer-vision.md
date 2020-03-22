@@ -6,9 +6,9 @@ type: book
 price: $92.19
 length: 
 ratings:
-  count: 28
-  average: 4.6
-heat: 0
+  count: 38
+  average: 4.7
+heat: 2
 
 provider:
   name: Amazon
@@ -33,6 +33,6 @@ images:
     height: 218
     title: "Multiple View Geometry in Computer Vision"
 
-secured: "IauVibMXqZMPvv0xpz/PuhUNePfAc2d8/vTnSv6mTNhkhEF/RHwu08YyIoxgOqDDdKXklgYvdBJjQFHhX1UI/w3KgefdGk7hcYm44iYPSggXA+gUYTUS2aa6+SEv31pcIidP0CDOgxXmsFFtxHvWNwXAVBaMxsVroBB6iMf/7//0fmswCmsWzCqRhIopbOSX2AaHfIjRQbo2J0QjiHJtCn4cksWcIFwYuRAUmLlH9EPs/4hAMOZ5pjEumjVcX/C4GMT7avwkmE1gyGnmzmD2ew==;fh23DjDSr6kvP4DCRCSnLQ=="
+secured: "GT8b0rnHsHjW0PQsK1DPbP/GXdc240j0DK/oDl5iWASJGg+feZKOMHgHEszsoJEKd9ecST7oXogZTKtMNzjtTylO37xitOsnT0vOSNclPHRVrbkUXvu35vky5IEJIZbHR0mNdKMJSggAtQI1ylvBNJBq2tsnXXShJgNrCubyf1KeEmHTkmNdie60VELMQGKhpJ+M+eT8fMbjwze4IYMv/A7QXDrV/j88ljCCe+Ysiy6kRt6Hx9wa8Si6PgxoQYgJZ9fCYLCGRErUOzsg6GP5HegLQpMQUqrbdGejc66WZBusVYEmsMjBP3FCzCbqdy6A9HZb0k+tVATkMRIEXSU0oA==;v80wqxtfrMETiLpXSF5/1Q=="
 ---
 

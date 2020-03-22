@@ -6,9 +6,9 @@ type: book
 price: $50.76
 length: 
 ratings:
-  count: 180
-  average: 4.1
-heat: 2
+  count: 324
+  average: 4.3
+heat: 32
 
 provider:
   name: Amazon
@@ -35,6 +35,6 @@ images:
     height: 218
     title: "Pattern Recognition and Machine Learning (Information Science and Statistics)"
 
-secured: "/wTDxqDShYtqt4uLEnpfI7pmsY1syZx2ha3CSToMDQzTKuKI7ro7NpTZdMLxAivmEBNA3IPxj/bKt1Pd+3N18JFmSBJIzkTEMD9lHYc4C+y88q2izTp5Gl0xGbEWtj3X0vE+D2n9kjtLeG2X67Q7rVKUDz4lWy1NAKX911TgZAcc4XqObGnfRCo3GbgHlTq48dMueZTuEXWu0Ki9oU+jBR+P3YXnVxQCO3sqscoNVgMaXC2LCm02J1PMCyk/l8fDF9uTo7Cp92Vddz2/XNyMxQ==;CTQ16wp3mF/lzY0xH7DHKw=="
+secured: "RwbFXDM11Fq9w45i5TE7V/kl2QaeViqfI05NvnUbDez7QhF+uGRV/PsEfOhZzRu+w1qXw/eBY6U+OfBijKKDZfUsDvDAmKMpYpl+9/YCTm8JPDtcCvD7xujQ5e56A5gfu6pLwhH/2a3nclq9CgZwD7FxRTkWpkOzZUow2x4o/NQRjJ8U3kxGZwttbdGLUe/o9jtC/Fow8EzTin6ofaxS8JyRImyikMIONI1JREwNvssqhSTNdU9XHRTipUIJLH+UtDgwdChwtEYUbpFqwOjdiyT1V8Dh0dA4dt6A8kO0o8MmqHphEfCvvQ03ugaHMbpRNO5Xc9GiORDBz7/TQk3EcA==;CnW9aMT0Evt1lDvJy9JUxA=="
 ---
 

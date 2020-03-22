@@ -6,9 +6,9 @@ type: book
 price: $42.99
 length: 
 ratings:
-  count: 6
-  average: 3.5
-heat: 2
+  count: 24
+  average: 3.9
+heat: 3
 
 provider:
   name: Amazon
@@ -33,6 +33,6 @@ images:
     height: 218
     title: "Practical Time Series Analysis: Prediction with Statistics and Machine Learning"
 
-secured: "9Zt76CgZu8SZBPS/hiilhZi3zCafQeppWOsxvCOB1beglH2wKRm0vuIAQOlCOI6Dn+uae/IJOpOAuSxGHdgyTa6tGeZaHLGVUbRGWmxjlZnaY2BafNE3jJU5fuwTT1G+sopLpkEBf5YYMvHcMExJneE0t9tPeW4VijM98okv1+kXL94U9qRWueJBUaEhk+k34QOyQd8jY894iUFFfelGG6Og8D9cDQieBSxw0+qsVhF/COKT78SADYDhJHNj0GXjMcCjBbvo7Bz0bhsfoY/lcQ==;I0HrKGYMU4Qm9jbHy/F+BQ=="
+secured: "I3P1J2/sM2X5enEWUiOk/6bl1Gz5f4XL4o9sXx0moCsh7W4gPupttXOLw3KE0OpuIccuTiuHAy+3zxAmhuTSbg4O2+061ULciTJhqaqBN2vkfLjfcl4FHXu8RAITSS8lMw3Z0SGkLNkY/RdvbeAePXqrC5KYD5axHR0C3wlAfDcE1mKSYDIBhtzEfBauSlSS/yx0YjkLpIvjtMCK/ZV6fnIbFJkPDR4U9tMsOwWIBBqdwZmeBfaLLnPDihPE8XupzmlOet47cxqR9aANZrJc0nvC3lBr7UN1gZTb5wyea8aEaIUI95wFbz4ZL9FRHmUqmBpSIyOFBPFMnF6Q2T4hcw==;N3UTdt3d00zfZzDNSQELFw=="
 ---
 

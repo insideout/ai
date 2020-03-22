@@ -30,6 +30,6 @@ images:
     height: 360
     title: "MIT 6.S094: Deep Learning for Self-Driving Cars"
 
-secured: "xksdDsagGanFBMcIeJgfFkVrZfv2b5hDOC8TF+cVZu07j0kOHImFD8N3k4VxxG4dLdsNopgaPtSsdeODhJdfiOxhikYduntCJOLsUB+ymkAV8sTpWAUx1ayjf71KI4BB51hBYkxHhRfSLtKEKiyqXkfpgfSuEfWTIxzs+kY4xPY92pIEP3Pn1zgQazXVIHsSZkytrmmJYa8sx5r86xTMqU9UK2Hg5zAl51SeI/EX1veeQs+97XT+MI6NwNBqT4hTnI/r9PS0TxY2Gtw/Kh9gdQ==;Gkl7zjHROtuwuHoXCEPNHg=="
+secured: "EkaSJAC0PjiSZPjGcn+wDY93arzqMHTZtIeZBhYVH3GpVTnJEsYH5+0Gwyw04KhWE1xtaf8K6xUB+4qdBkEDdGF50W1szjl3s714g4EsxbSfYQtX6o2U5qpyIiq7ADzZ5KecRb9+NQIL1sVYfH0hxM+8p9dMMJCqwgSfWmlkaqNuq6d7XmjgVxAQ5ehaHgI+XdQ8tuBuE1Ms32qooRgTy4RadimhcTH2YW+DV/xpCuO5pRZ0NS/X3U74+/lJIhCdOUzuPf5Xn1mV6zxRJxOTB97Oy1rT/TZXwNUkIzXPiwrn3tbagvF63RMU5gCUij1xw+JGAG9rrzF11XLBFZcXWw==;9kINYfhUqEClhw4JDooQxA=="
 ---
 

@@ -31,6 +31,6 @@ images:
     height: 720
     title: "Building a Voice-enabled Serverless Website with AWS Polly"
 
-secured: "7vyVLKUCzwsm5rsa6+x1rzvpnPx7sGI2ean3PN7DhGus9ZpjU7mweC6+qh+CR1aBtVYlr1TQUynqmr9GDRxke3UHMfw3YpFGBVUPv8W6TwbGLE3AA3XwYInSJB6p9ohnnCEf371iN/p+BenywqONA7UM6SAgbZfip3M5Lz0R+ikQZmY8VqtPEQoch0Op1apvrWg7s/rgMTCvZCAXOzjvZJY34Pu+x+C4qu307FPLBW4Mtof+LOw3Ds4ZDD8k/u+uup/KTZplXC8OHtISGg/1uQ==;KIfwc3Gp0QvnLGobTldDPQ=="
+secured: "ASW/qlluNWyOo6CnPNNODJdwXmFHPAh9Pyy0zlDGqUS4IEpvNIicI4RiYBOV2Hpt5rrvzb/VkpK3v22t2XWB7RsOrpqGdedCcWVKihpSZOLNunt9/TkfBwccD3dm5b8ESh2VlRQ9AwmCxuiHGZ2ygTaKH0ulaJBhppnejLZjeWQbMjKu0vOPbpFYLwcWU/6kCNedU0KvrETfD7SLSsalcTFZr+k9qOhDEofyLmgOzmNZcAzKImWbWEHYbTwL0ByhOw6UnKwKFcw/P4PvJblHScdfcYBNF8KtGBJkEVca5Nkydv+YPYZO2iD9Hp8WDqW2mdgenyf/UYnbo/itws9CqQ==;aLUvq8jcQ/ershe5oDvMWA=="
 ---
 

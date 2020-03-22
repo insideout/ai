@@ -8,7 +8,7 @@ length: 13 hours
 ratings:
   count: 12
   average: 4.2
-heat: 5
+heat: 0
 
 provider:
   name: Coursera
@@ -34,6 +34,6 @@ images:
     height: 400
     title: "Python and Machine Learning for Asset Management"
 
-secured: "+Rlgt+q0VHsofCINwHnZ4rkJ1p6AAjVYCiGXD5e9zVYqa6doTOwqh60rpWrcY5MLwzbhoz0mQ4yVBsAlLngZWY/Vgskj0b3ZAJdW5rPvesL9V2iW+YYrKYkoMSFXbJvp68z/k5GoVhOHqJhK67nsVEMUSzL7mee13XkV4XkffO5UxZTa/bO54L+/oLswprwN+aeeZMEc/hdzhTGgS9B2CfGPHLxvaVeHvTc8lYJITpgCSXv80GKSYWwPnSHte/gueVyF2eLpnSyPk8XacU7n/g==;4I7okoMfm7Eq7hxcISuT6g=="
+secured: "7ZbZjEp8ilnKfgZrSjuIsYELJ472JPvaVXUThX2xem4cai7XBAYXe9dgZvIjJj7CsvDkjYVYO+Ez3vIisGVFNHExNJA2VTlCTRBAnhgsqiq/AyOByNbbgTgz/z3kwdiqjtLiRl0jZpI3QraLBYmuyLexhkoVuR4d1n1/u+UWIVxvj27qh86Y1c84/H4vqeIH1CjXqXVqkQ9tbwPxdf9wY7h+DYCB89cVGCtaKRyfgN1t8Nsf0GHYWwbqjQZCMtXaWZ76wKWNnmrzq0whwaq8HyOfhVHpW3Hxx+dRkCiecKUOWc46U/cKXEDTJrfwoGdCWFQlrGPkNUFmvy8QP0VqIw==;PC13730e5OF8Myc1iN9ltQ=="
 ---
 

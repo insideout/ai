@@ -31,6 +31,6 @@ images:
     height: 720
     title: "Analyzing Text on AWS with Amazon Comprehend"
 
-secured: "9Bn/L0PRZhsKdvxeE14i160vGapRVVR2cxWPqltfNdYO0NKlHfcB9h5HQDz9AESVEw6on//HvX3wMKcOjjvu60CveldNstb9dTqtKukcuq/BWwrqnRo15nK0o9f1tKk9fF1I/nGLurJgwlguFbPVFoYI71o9NY0/W9hVBrlHn821YCYjt+RmQXGjQt+NA6Som78Z6UNjsNsbQhpaqbK8xvyL0jd+/2tjHbNGNUdkdRVO2gFswwAxqrja0WpAsfYLMphOhP46M5cvqyWyYjqmIw==;3pqXWJtwUW4wZh3I202zng=="
+secured: "mCl+5AyFKEh/b7pBw7eyIZsmwYo1TbUnw9FvEwvcLg2nECvYdYxht3EhWdvS2RjtkOe+QYPLAwmeV7b00rDLQExOt6BlE9neYMALRqX1soJER0eRDv6nb/2HRPq0bUfAku9mhLz4J/WN2fpMgcv/vKawumEKjvDoxjO3/4IgIKqMMkHyT6H/16hmTeNS8qxt9CurvqXN5a7eo06OeynupXOj+9bL6f9ZtfllGCVLLF3VGahGCZcRr91xdiqrBjITKbYn5WrAwDkP/U+P8PioqbCFHWJ4UfMgbjA3bRWX0adA9jJmmdPCQfj4gtHxPMPZM7TpYwCG4iuO7E99fphTrg==;/5Z8S6an/PWkyTxSWBXyqg=="
 ---
 

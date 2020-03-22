@@ -31,6 +31,6 @@ images:
     height: 720
     title: "Turning Speech into Text on AWS with Amazon Transcribe"
 
-secured: "rWcoSL0/MlDd9cJpXIXG5Wcohk3DvPAJMvjOoxqtCiovFRMbkJB1cHUgur/xHcE6Ui4qrCT9L33S0zcD7NeOz5WLw/F9W1qTldZxjigzf7teXE5KfB1C3X4NlYs7TT5O0bsLNHXm7YmisN9RXExpK4mlFC3t/B4H4pbKjPbNb+8KTFLKrFQnOFKS+mlmB71sJzHxr2RAnnS13+KAqUo038qAns+jlQ6NB0WiLZAsHEZ+Wb+bUrSPnqqVGrD4Ypi7xD0SxVyFdm9MJG21WUPNOA==;NKxHVXGXs4fyzHaqKVx3bA=="
+secured: "GPg6GvvLY1a840ecny6+KgpwfbOgx6rbYglJPH83+RHbJTRwqqhD81qc9zB+onQc45l3OQIHEsTZ8vKOOabtqpHa54w8D0+Q/yelPM944j6RdpHuDYOzP858XIYD1Dy6tCkWyhcJgd1SEfIsMk+6LnaEbDrf0YyP/bRsdGJhjK27biklwYhjveP93AbU3jKdg7epx3xknbPyk5xvU0L0v3iq6usskWMr/DRxOuzokJYs4dgc+Xh8KblxmR187ANY9o15vfJGscUAUSLti1tDBgzcad7rKeelzxzGl41dx3a/kCbq98Uq8UxsH3sPgnXVk06spkvIm+dmDuYbOg/Mbg==;azPlhjlTYB61ThOShCKtyA=="
 ---
 

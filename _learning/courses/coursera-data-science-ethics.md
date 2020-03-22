@@ -8,7 +8,7 @@ length: 16 hours
 ratings:
   count: 113
   average: 4.6
-heat: 1
+heat: 0
 
 provider:
   name: Coursera
@@ -34,6 +34,6 @@ images:
     height: 400
     title: "Data Science Ethics"
 
-secured: "+E7gHUXEnOS7J+vbFRP5udPSbjaWB9zqCRLGQOXdXSx70uiUE3b4HIQb6p1FJIlRyKtijHc6JzszPop/Ivb69jWnmUEwpCB5SBl35c5/tSVgpkDVZj0nhr4xrbd0ECR953nG1dRWdViOYooIwYmJp6b6voPCXxDncnnxt4mfhrDupJXwTEXU0n+txPNL0yifwir2IzQr+sf7Tq9Ee0MhCGshNdR23MO1PpxNzWMvdgCzggwkzKcdqIhqaYxphY0czi5WvP1MWCbBcKM5DeQtOQ==;dT9Y723tXZmoHbUOHNf0+g=="
+secured: "Thm5ndbNZ0BQyLATYLxrB7KDqtah9bFrcFssV3CgYsFtEKpKc9C5gqudyP0vrVmHYSP0h1/eyG+a7jEZrf+dnvMVRP5kRTRyxhhp2DhM3hcUlIHkMo29XELi1jhw7F1BgPQRsfjLbefnHcjnvxlDpNZx5lIhVboHUMerzlYuQ3Ci1r1ESFVFLM+7nTJiN+c7cT81QkExGSQ4DSNwo+SvyheYg6096mOuA0vhdux4dzT33I7Gj8BSoSJq/DikPrxAIbx+bsKUPIuCPtasAMrD3kZMxsnYemTZuBH8YmoO4XrOzVAjWUUUY/8Deu/++q6bx+HHDfTB7LWehfxIlAm+lA==;xaH7VUg51JbvCwdUUZd8fw=="
 ---
 

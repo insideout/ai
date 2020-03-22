@@ -6,9 +6,9 @@ type: book
 price: $28.40
 length: 
 ratings:
-  count: 78
-  average: 4.2
-heat: 3
+  count: 173
+  average: 4.3
+heat: 20
 
 provider:
   name: Amazon
@@ -34,6 +34,6 @@ images:
     height: 218
     title: "Practical Statistics for Data Scientists: 50 Essential Concepts"
 
-secured: "qnJ9uUP3An4EAkPXnrbaYqFUfTSip3cLBaEQbb71/ulrtqAfjln12MCJHIxI1FsE+4jqbyUvdaI4FEz/RYbZ49PIOgxh1dyK4br/hccHgWysWj4FgAgxZCuJz2AWOLattpzSiDHx+ho2v9zHEWff7ezhd5Cux9Vp7bsnGNy76gQUJTuG9LxDIw4PNu0+zq0RpGczYdCZUetDvcR94t/0BQz38PDaeikpVjwWdpvlV8NB0ToeFmgHaiFKkxYVmzQ7sSfi1T3PybX+tY0MItF2bA==;1QeWKB7lp4DQwlH7eFLllw=="
+secured: "TRx9asJBXInqaRq8kmGu9vPomCTyArp459OWyTfXu/p2GgmIIf9cV2cRCM+cAS1No0SL2faaXL4YU2ZScmy9N9tRt6W+X3kG3XRY97VmOJX37Am+3+/anYEiTvPe96nInec/ZtsZDPesgHslCBiDYAlGYrLXnSlb+MjE7U85TbzCK7IMTYDIMGEX5PcQR7WIrAJi2XqneIYg6SN6Tm6Is1pXP7V6Mg9MnBw4Dx9zAEaOlHPqC1sJhwdKqvlmJbFFMMip103Gs4WVPGlsov8C2uFIp/mW4W+iHoB7Ag2YSxKRn3C5SmRYGYPFl1Dqkf2khxL/vDdOdfyu7b9993iz5g==;5Z5RkNtlR+msZpOHfZkpxA=="
 ---
 

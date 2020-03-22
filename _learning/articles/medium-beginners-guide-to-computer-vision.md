@@ -28,6 +28,6 @@ images:
     height: 441
     title: "Beginner’s Guide to Computer Vision"
 
-secured: "WLIMvzCp+shCVSUOWYNCt7ommKtYAttGgQJ2d6HUCq5vgcfwAS29db4HXrpl9Yg30SzrPFnTruy+8YfK2vnL8LHq2IsphNsv1Ftckz2/NumXEiVGjYXRhTzVLOjN70xOdw8ILVOBv20UpZ0zgzTVxawQF789CfzilWpLtH7V7c636YiA9JKoV+gmqYgmPo4f+cviYJgVAfbyc3D2YnzBmrDF0N51hgkSye2WtLuZNMMskisZ3Jzuc7MAAwS7z11KO50vrho+SHwwWLUI76JBVA==;eDkcXjCOnakjNt2CGsaTGg=="
+secured: "tkdVfjhVtQSQdF/fQ1f6o/8K4dXFsa49nZson6IsOExUU6k5CwDLByaTl4WJ/sNEVOuqh9BhA7IF+6hxPee9htZ1vprM77kdfxTQMGxXgN5+OBUZfMu+iXswCXPlst4qUNs4sL2KXsjf0Ub20DASWh6YMpxoQn9lWgho8Ui5oJw51HPHdw2Wm80RWmkCUzryqPr0CS9PhpIU2F8ZAX7Egnr2e1hytoz3M3OXKjMs0tj9gIEe4Y64m7PUDIxRdxysDNIlyFVy7I0GdjO20ctdkz+W5UBB9mUcTZLFrSF3lVbKjSQrmtS+F04YzyeVDtcTE3p1+0OefbKqPQctJBAXZg==;xrGckNVHtzbFTUbho3OsjA=="
 ---
 

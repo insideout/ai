@@ -6,9 +6,9 @@ type: book
 price: 
 length: 
 ratings:
-  count: 51
-  average: 4
-heat: 0
+  count: 771
+  average: 4.3
+heat: 153
 
 provider:
   name: Amazon
@@ -33,6 +33,6 @@ images:
     height: 499
     title: "Learning OpenCV: Computer Vision with the OpenCV Library"
 
-secured: "jGGZEJzTk74Lu/6/1yJX+rB7eXRElQputGJbUds9UTq35JOGG38RYV/O7CGc8RUjTucGLOM/zVISedYLZW8LWDyuUICiwndBGMXN/1+oWX401tmgpK+UzVcc1BNsxV15CSF3lVGnmhBG2imaPOpJRPNQhi6c9/ljomakh+5ofsPOwDO7O6M+GtesXBqdDJ07Q8CUL99Xxwc+PfGcXYgFutwgsQ/AP6Bdd2DFzpM34DtgFNmNE2uzLLc+Cb6NwzCGU/4heE53KzZ/xC+IPHXjog==;/yNvTtuDwitBQkvyEdZd1w=="
+secured: "7CC+pqX8FYAZ75n2HEFe1Q7Fed76w0MWUvathKm9INYgsb0HahkSsKTPE8+7nHQbw0ZUUwAGu2Eqt94ZVWLznOm2IAr6s48AwVBmkds1AjNjIwcs77wnki2i1cc9eVNhfNnblssHhH+xznvhD3qprKRlBJ1NMdYOwWAHWK7qOf9rP8DRRJ8qQD6ST2mcvrDl6nJtyj12OyOGVoEc5NsuG0QYoO/JMnSCXnmYm7PKF49dRfrKeUP+6cOX51/9FlZ3c2+yw1mp2E8X1E+QOX1gLGDO/x8pvRe/dwo6jRjry1kQqpTVKwu/tmJm0t0MOysEaWs1prsvnT36/3lb5iCG0w==;cWiGzQccQoCqJTNObpH0yw=="
 ---
 

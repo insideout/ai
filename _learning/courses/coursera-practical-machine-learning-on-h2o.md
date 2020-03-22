@@ -8,7 +8,7 @@ length: 31 hours
 ratings:
   count: 52
   average: 4.5
-heat: 1
+heat: 0
 
 provider:
   name: Coursera
@@ -34,6 +34,6 @@ images:
     height: 400
     title: "Practical Machine Learning on H2O"
 
-secured: "tmWI6kaXPlpxwQfvlDM4CJ+uz2dQTQRLTWmZuqVTLsriapWfgKglBwVjhR58kPpxK+q25PiQ1pBemSZje1fkIkpuUDqICEEfTcbQxGuXtuF5eL7/vm9I/7NrirG/b33AwL4f6qEbrMBv+BYk345DzYinvhA0AzjMuIFjVzIJWxgvIJI2dUYZFswaQUjvQp/FZoF3hxayMrURwgkigjUy+1essVeAKiMhAge+8ny/U892dOgGfMnunM38qpeybPdTZ6Mnm1LvHJimEaNgJIhO/A==;qQj0hKNyfsF61uOsmzKCiA=="
+secured: "YWw1W/tocb0Wd/JCbXFzZbbGsiNTGo5wrAfLPqTJHb1K18BRs9XdBFcEhh/J7/g1jlZMqaZXDv1RBEsM1kBlAW1gEkJXHr0vR+TzIRY2Xed++D/6JcoyLwvnjB1iL+iiCzOgI+iJ5HdGqmVQ2FynED+Y3qCx7uyirLrO+T+kieLM7GhM8oy7kqhQnjH4Ou6G/S+BkAhHs4783vsoj6fHzperPhAnHYa5lF0CetUtTt90r05LrMGSAXzrH7CPwjhnMyAu9H9CClHSkTiwXZOuNjyHa7yg3ZZZnUMVV7ySL2rj3SFJdiS/X0YWSOYC1sqlXRYLCqGbRVI7Y2h2J6zI/A==;KRrPtsbaPW7ez6XHKgY80Q=="
 ---
 

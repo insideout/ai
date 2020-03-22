@@ -6,9 +6,9 @@ type: book
 price: $47.88
 length: 
 ratings:
-  count: 25
-  average: 4.6
-heat: 0
+  count: 34
+  average: 4.4
+heat: 1
 
 provider:
   name: Amazon
@@ -33,6 +33,6 @@ images:
     height: 218
     title: "Computer Vision: Models, Learning, and Inference"
 
-secured: "VsIx6ol2YAPGP18c4mSnf+2pP2Fbjept32q3Pd0ug0UkwiLz2iw48aluaV95pqAqdrGpm/lNWtmlPed1qw30ypD7BlVhl4jNmW1iXZ5R3NZW6IM8sPHGs6+V34id5DLWxDb1aXsxJ/3ypFC4iNGXG62/dwHhmrQXErnf91CLufJlIPlbRkOYdKfyswG5o1fv51ls5o4JdLbAW3UiTQIZT5n42/ADfqnJnwv+35adSe1neZEpSQyA+BPXUmTIH3De5HoORn1G4Q6hcKR9GkxacQ==;OWJOXkm4ySlZZxSf3PgCSQ=="
+secured: "UuX77RqmNx+8R/SoIQB3+CSfpCJ07LhMu1cGSrj2Uo4AGNOCJkviM7QuKhJRJ3wCm8SJLQGIgUiVxASqF1ENYoBVxeUokb4PFYMQ/spkLOaZayTqLJDYjI1110QQvWw/r/9G0S96Gsbn5rDSfXSgrIt3peurne3Qvs7REVegLTmwNVMpcuoy7uZWHF57KYkUdUYVi08/DzrAIbuH266gpwkPk2yNZjfR28/z4duadPINRiTTebJ26oycnj4Bq7cjJbFiKI2nL9g313GVLTKV1WAuObfeeHqAfChN8EYdwIQhR6VFFAH7K5gudy/rb4dyfwHXzHvZEhk9/KeVI6NBBg==;qMkEdBsm97I1BUD2d8CNQQ=="
 ---
 

@@ -8,7 +8,7 @@ length: 56 hours
 ratings:
   count: 120668
   average: 4.9
-heat: 1919
+heat: 0
 
 provider:
   name: Coursera
@@ -39,6 +39,6 @@ images:
     height: 400
     title: "Machine Learning"
 
-secured: "zQTjk9k2NQDVhRiTOLIVhcE3dk4f7G8MCPL3ON4TCXbA8JmVn5GN1K5OoQ9VGfwEIi1lH9PIVPHWxH0z9vVx750yRUwAtvJPfNeXTUZbxOknCfxReBDE5fJVOhCnLahx/6l+vDzhkcnrBx3VkCIkWAiBR+7a4TK3n4YdzyjU+5cuzsMObxemtTF5ruUGTTcV5s390BQxtWO8q10+YkQ0hkv2OiwvawPHVezIzmdkPRYZ0gGKhSaVOM31bwGPuzbzzwPzPNs9bhiJuxt9mR2Hww==;TiGTtxzdpppPSk9Je1Jl0g=="
+secured: "zmgxBRQFnZ95Bq5/Uwflx1WnNwj6VIPDsYvjztUAZTnSIj7YJh1YzoQnDnG2ctYNAq5XT2Yaby8fEk9CmLUqpcPL9cDrgK5dLloub9nk+PQJiqRv9UnWhZ/oQEuUirD/YRLn341OfmJQG6EfXM52rzJOu1YiQh/cfoGhPaeGR0pkgrryflz2ouF+d4xoBKK7J0ociNkLweJCm5X5NeHPLC+6gWCSzyykCcFP/+KlPTK0jyu73qnsCOSIY+ZYtP7rQgIBr0QogjJxJ+Tg2DLWgBGJa8dPyV7O/WnjJUcZXZUfn4Unw7UwQkzzLAr0ptVHB99bPCcsCxsDBovMilMy0g==;vW5feQ5rcR88TuJkCXMBAw=="
 ---
 

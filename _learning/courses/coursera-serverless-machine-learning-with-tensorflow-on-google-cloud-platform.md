@@ -8,7 +8,7 @@ length: 12 hours
 ratings:
   count: 2407
   average: 4.5
-heat: 46
+heat: 0
 
 provider:
   name: Coursera
@@ -34,6 +34,6 @@ images:
     height: 400
     title: "Serverless Machine Learning with Tensorflow on Google Cloud Platform"
 
-secured: "ouYv8I5xrg2NK98nse0+HDy8S5+q5samiYM8e5dxQIxtkjhxG8qJWpucFo1t9uQBckkNHbm16vAZ3nXPTehoGZ27EYXUgy9pUqevPVHeS22MhmvaTb9lU9nK8njAvrBYLpc6xLg2+jfF//A6KSIJX+DTTuhX9H+hoh7Fo2Dxf73qdYdaT5iD6EJa6/wBvxhcyCKw1j3KRT11s160OWCJwYoQYmL8tQ3S+QafESVoQ9sfNPt+m7AxP797ElpzMYwDQXMl2wLdH6HSYDTyVb9oPA==;bPFLEixRN9QLO3uLI1TJYQ=="
+secured: "4AqtMYdkoqVHudl8JtEOntR/nQCaikE5VUKxN5bc7tVZbcKWAdJi8tMNjC02oKM0Bq3/gIItKRp0xDxhAIDlUhSWu1CyBjQoCuoJU/L9riDFiMwJPXMWfTp9hglkH1pyXJQzeDjgyb4Avn4Xu0ab6iLLTKV63+W/0dhWHSiy4DnhCgCYya2sf54qSqplcEI/TDhME3HX1doD6IcSW3rStoY7W57uYONwcIfGEoaHwZ8ddhS7pU9yVGC1qpR9z4mGRA0NdtpK6mT6BnjuFFHHysGramsnjdrKVKQvl/Vu9bVvYDLiy4q0msEq41jun7Gyb8Re9y8FIOErNMUj3ra99g==;DvHz6Pcx6adlX29IkqM0Bw=="
 ---
 

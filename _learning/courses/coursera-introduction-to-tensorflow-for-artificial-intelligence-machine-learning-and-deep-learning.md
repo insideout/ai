@@ -8,7 +8,7 @@ length: 9 hours
 ratings:
   count: 4572
   average: 4.7
-heat: 284
+heat: 0
 
 provider:
   name: Coursera
@@ -28,7 +28,6 @@ topics:
   - AI
   - Machine Learning
   - Google AI
-
 tags:
   - TensorFlow
 
@@ -38,6 +37,6 @@ images:
     height: 400
     title: "Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning"
 
-secured: "KiJPCKbMcdVimDuorhm5RXYaklSLwITO9/CGs0XvEM52waQ9wqaqJPKYb+ercPIWOlzdef+VQX4WGrz157mWb5UgbKh/OrnCeoXGuyDMmszujWc9YenZz4etQVO9kjRv+QA5NeElWbl7wXoIwuW5U9m2wqiuWxJJbYHO2NnqA4vVBv73yS2/BCBzcU0Oluo/VHHv8lL2ma1VwoWDTx49Lel8vqAw31hoTis8oiSq3ftKo6HY469jz5hfJhkSkMKqYlyrxFK5VhWpVOxF7uRBDg==;OgRVdMavG2bl0V19Ka+FBQ=="
+secured: "G3NVRx1kqPApkKjWOqB0IEFEUI8Sy/93uXrvogSPosY/YJ7w14uHzcuP1s2zg6wuPiyMGUUB1wWlpFzBQYocPalv6ac5o5qZfVa0oZV/1ZZ+zaV3k5IKwi/p3RVNN4G7cWe4GYr+1P4CdjTtybjnbKST0L4beOsoUdAKhVViAn6pd3mGv70KpW4eo+JIo+NUnmJxlVZ5F1BB16C2RjFpwrzHkkwS/bfp2jHsWo8561509zL+D//6Z5rMMR5ne8F6jWHcUVCwlD9lg/6NfNWubR4GVnVzqvuSzpjHNXhRZiUrvC5O1t8tp5pzZl2gbrXF9nWvzWbwcDdHgLuSHgDOQA==;h4p4l1XHCzWy4THnN5GgBw=="
 ---
 

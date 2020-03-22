@@ -7,7 +7,7 @@ price: $70.00
 length: 
 ratings:
   count: 2
-  average: 4.5
+  average: 4.3
 heat: 0
 
 provider:
@@ -33,6 +33,6 @@ images:
     height: 218
     title: "Causation, Prediction, and Search (Adaptive Computation and Machine Learning series)"
 
-secured: "EiWpeiTO3hjHHiakjmv+arRy439h7CqitgQbQKHd3ECe7OHBthNKGNHF3yunAbTBBGE5K2KEspGsRLJktPB+m2CQFlADC0tEBnkkLG3u3NEqhBB8YRoiaOYjNbUXbK2X1p3SYnEgv/WKtgK4bV377zwhwCCc7GGxjDUFAv6gq91SsLI7ZDCjom9MZ9EkRc+OThqoWeUvozPvAyhm1Gl7Fl9iu/yR0iM+gh0e3aVmTG322AitLkRaFYe0vm2DWCHzzGjERjgVHgeN1xVAFzsLIg==;E+kB84f7FqrEGID2XCrt4g=="
+secured: "QHw+G3iBEDcDNX49MPKMETEXXln4qk4U4+auwGGwTxTXlFcp4Cd+tvDDJ5lpF9W4H3ct5I1hBtS6L03umSSN3Bx18idIuyxkTJQFKMv0a4ewD89r7MxxbuqEL3rQza2JpvAQfFStPWQE2OG33lbuhdIypqDBYYHuJFUqQkTq68Ogp6Sg1ySVrFHaSynuoUPM+YEV4JBRigTtG9qF0yimGZPQ3/Bdo4WlHFwjecAgIC3KwLI8EnYFbqpCva4Nb7IsWsH1xiyFXSxT+/cq1AFP3H/XmxrjVXeTQR/9kqdoFPvlBc5aZ22AXZQMOoGgIynrGmpKyiEF9NX6w0cMndh3Sg==;48QTX58qPoNzcktDG4MsBw=="
 ---
 

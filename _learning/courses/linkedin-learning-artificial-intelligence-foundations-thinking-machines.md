@@ -27,6 +27,6 @@ images:
     height: 288
     title: "Artificial Intelligence Foundations: Thinking Machines"
 
-secured: "0kyu+9tvwtCGD7mPPTNA3DC+YKjtYlqFBcCk9N/Ji6BkEEq90fW2+HH0iM7cg4//K/C87xBhQtXv/FCuwVzkf5UKiTPOcdU5mlOlA2pDt4EZqwwyrmeJwTvNYKbsR+zjXXpQSMNCRY3vetY+J3n3fn2KQRGNv9jGP6VGnWVQU1Pu+5Gm+YXAh4Dxxs5SlHAHi7UM8lqqzugmkcd62t9kzE7hkcaawsaSOtyOAVoBr8oEgdmCuzbpKke0+OTMjY+cqf9V/dkk4ozAtrhGH2v3ww==;UuUwjBq4R8DDF/10pSlbgA=="
+secured: "6DhXgmXi1Be43DtDquMraOeB0jJoTXHfCL/k3FpsJDlrmQUAHJpD2pVLum56ehhZ4c0msaKWDfDx/vynrW7v/Dw5/aukYXrN+QxTKWaw3JGicJtjh1tULh1bLr1UyeQ3Y/PYLY4a/QhLQelVk5uggWg1F/RUbCFBNBoPHO65te6kiVe29ZuuUnGqknIZ5VlZeUhuSi8pBj8Ad4shASW46pDI0CYb+rSBb2Erauk20wQja3Y1sXvpOajNlS0N0lrhmjicbA8mVud+v1lliOnfKCMb4HYHD9t0q7IHa3sJWnWivW/UW/vTX90yrV989yw1yBZjULyNqJN/iZah6J/SVw==;Bjto/mDemCZZKxs5W+32Ew=="
 ---
 

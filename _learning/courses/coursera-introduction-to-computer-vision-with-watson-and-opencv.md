@@ -8,7 +8,7 @@ length: 14 hours
 ratings:
   count: 166
   average: 4.5
-heat: 29
+heat: 0
 
 provider:
   name: Coursera
@@ -38,6 +38,6 @@ images:
     height: 400
     title: "Introduction to Computer Vision with Watson and OpenCV"
 
-secured: "y9+we3uEW3P+gP2D3hsmvTg5mAoDHJYZHPb+YdAIZJh63xxljlPjOAEsT/vP+OGEV2EAPQ7YtQaT8byaWOSBRmeLy1GRKR/tFf1I1P0TxiqnADX9zZ3Whyu47buDk0njKJ+O2cIapER8spnDxe3K9bo6qQuY2tQ4zu3YQCNUqzCVfISuuOsvhCTraYI7tzbM3Oyi6XmurmBw9cOcOsIXMOYJMPaGruHH/76q/UlOiB8THaHunpWNQ/H2JfuRxJ84Xgzsz5q22BROOoPd8EZbVA==;czO+cY2yCCYZH26N/LKBtg=="
+secured: "IOcrOUE8YMftBXqh1P8qZKxpuyt/P4OwHUIhsP5BUAJz+D6/bTgREohJBUrujbXdInde84FWEdsFgU5fXlY2YPBzSOSLJJEthq2jqCkJP4azcw8Ap0E4rjyXz0LuGvOnYIjOgd7R7c2OKpagmX/CXSVOsa4vnuGg85vagu0jGN27u/mrOLtTQqnVl8TUKdQDHBTR5V7gVlfX1iGeMJOeWj2i6r3h9YyauFj1cc/Q9p9ZpDv3UmcriDpb5vQ26iv5IwXtmj6WHDNrU2fl/d5k9rgNzeAZpfhW0PhYyjFzXSBHMNRN+e82NhBRQRdf0Vk7s2dumd6gw4yrqOyMUAwEaA==;Ljq5u5pEc+v4ItDoQ6Vm/w=="
 ---
 

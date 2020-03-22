@@ -6,9 +6,9 @@ type: book
 price: $31.03
 length: 
 ratings:
-  count: 174
+  count: 326
   average: 4.6
-heat: 6
+heat: 35
 
 provider:
   name: Amazon
@@ -34,6 +34,6 @@ images:
     height: 218
     title: "The Hundred-Page Machine Learning Book"
 
-secured: "f9ULp+8YHLQkm2oDpq1G60l2d1MnmyH6jxM2mptlwZ2Z5DxQkvpdDE3B1v1jDcFMvfPJqPEM2ZO1EuHzZSq605saib1NzCknJwjiMfi7aURxSMM1bWUkYQrxJ/toFbkMpKfvSIGhGeuLrbMXstHxO9EvoO0tBwwdzJAxmo1552vcO24a1oI7NuMVIUQ7ZmXrkXtfbEMKmc0VsYrBRfbR7gFXWWL3Jq/oOseqZ0YCfUPbyK5IQEwzd19IcbTZOlkYVLj7DFV0QjRtmc0T+IyWBw==;6imqy8ACV/9ZcFjZ9T4c1A=="
+secured: "3PVMwItA+KGacvYU0AzPOiGra0G+3H+SWCKqSsui/yVdiybWqv/y9WUj8Afqr5sewYJ1LtTkAqevGWd9KgI5sDRggmvbtavXiGOD5SssbknqY6pB6UJ6WfZGUQf3wXG3lJA7Yd/klXLBYew1C+dRU0VFZcCgIrvXW2TIOlHTWiseUYCGEAbXT0qTy3EJNLiQq8pW34WchYb3Zj7ijPFs6Av47DoKb2v1luiw04hapozEieppwgqB0Bt6Kqyu3QlFT5C7Y74WXRq8nk9oCGxbjCVnXfJRVEmafu03LizKQx20XyFQ5lBQ//IAfk429gECqVdSIecPaiIYvKYy5aFSfg==;m+3QDyGRwh4ESsTN8L8Rsw=="
 ---
 

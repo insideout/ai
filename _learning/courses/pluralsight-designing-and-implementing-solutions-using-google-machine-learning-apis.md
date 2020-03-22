@@ -5,7 +5,7 @@ webUrl: https://www.pluralsight.com/courses/google-machine-learning-apis-designi
 type: course
 price: $$
 length: 1h 37m
-heat: 
+heat: 0
 
 provider:
   name: Pluralsight
@@ -30,5 +30,6 @@ images:
     height: 720
     title: "Designing and Implementing Solutions Using Google Machine Learning APIs"
 
+secured: "iXulqNxdQq0e4P5jjhe5O9P2avAdOmXQ4z6IvCHER0GUcQgHgfB5v9xhxOruPhRvh/iTKOPxv4qqO6QkZRKkt1IzBxkUKKftPcTtuFxcWMORxh9tPgHwPfK51OcnHxutKfC9e+iSTi1QXjCfNzWWWXu0CmkZGs0mbcP1yyoR5Gpmn1h+U3phN26yh4dqJ9zOh2u24GT4ZPAjZzQFCiGPfa8SbEXbfgvfe3oSdtI3qJmYpIHmADFX7lJR7dApXDCz12EeZXJTlPIsuwdajzXl/8wQ1jHtysjiUgp81uXb3hD55vj5ZIF5qfh29SNcVcvQAwNl/mc4wk26wdclYY2E9g==;MSsP7A10fSVycIkTCEqvZQ=="
 ---
 

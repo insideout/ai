@@ -6,9 +6,9 @@ type: book
 price: $38.66
 length: 
 ratings:
-  count: 23
-  average: 4.1
-heat: 0
+  count: 34
+  average: 3.9
+heat: 1
 
 provider:
   name: Amazon
@@ -34,6 +34,6 @@ images:
     height: 218
     title: "Programming Computer Vision with Python: Tools And Algorithms For Analyzing Images"
 
-secured: "jrLwbCNMyl8/707LLHjxAJpC/FrxRg8SbnxPIiSeRfGOd3Ddn4zMvhO7GzjBgomIMnYBeJkqwSu1g38Oe3hurxq3DjBXij0ROuZqcotD7Sa5HLtz/ZkxfLeDU2PS5O5/3zbJDJ75oU71sxdz6ImalpGmQ2VCzNu8cJdenhGGh4U0uylbyKek838rtu7Cmp0Ey9bDgCLCfcOD+d4Pi6cEvp7gPTXaEMvDH7jYb+k8hm+4/7yD/euTfbLInkw2ohz7PICEVOSIzUlXqLgO8M0Zsw==;e+NWJ9yMmgQFFULGeyPgPA=="
+secured: "SXdlxdfbTxWI6CMliFO7es1L0CRafNgANi6fW9gPPBujp4HYi9utOH8AFn387Isl4QTDrN5mRwBII26t7jGJ4O6EaTfRORkPDNf3b554H4g436auot+gSAdgoRDCkvJzfwfJQh21ialSMmxCHSAWtfBYx3m4rjEj7t+Kg9yLUfxnKz4ufK0XPGcKjqYq67BHT5k/9TX2KHVQHeUt6+gJVuglco1urKkYxZlfgeklZHN3ZTXKGXkj5/8D/G+PfHmMj0WUa13jUpdMNaR7vIfWLsspupNmrHGNdiu3LI3WfrZcz8tJlvCa7G9paEVO0OwuQrpStK6QXJWeC4UCqUmQTg==;PHrpJfbBD/z6Wf9sbI34CA=="
 ---
 

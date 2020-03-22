@@ -8,7 +8,7 @@ length: 24 hours
 ratings:
   count: 190
   average: 4.6
-heat: 684
+heat: 0
 
 provider:
   name: Coursera
@@ -34,6 +34,6 @@ images:
     height: 400
     title: "State Estimation and Localization for Self-Driving Cars"
 
-secured: "cYNdgXv3PXSVBwmDqyBkGUMRu4xafrRR9v22rkrlk8V/QT/hA9qx64YNil2OrgF2C+FCmeGWs1cXkPlT7fGgPcaPKAQkPm8pajiA6l5+FtRt12ojYEbSfddhCYlcWpDN1KIMehS0ZYVurzoBcatyk9heDvnhYHA62d0ZexnDlNooka8E3KrKYhaNLm2xO4yW/cf44/6h1xFOmSMYP3KPRMrbJhSXD6kZ/a6TfpJrPB9tkeygaffJuXHmu6KGJfr8Y24yys+2dHX8x7E/OBfK4Q==;Y6mGH7MkoDOJezRayWswuQ=="
+secured: "cc5NA5zz52W0VAhwADdhVP6cjR6N6peek3wGe5WgUVIzDGKtAc9f2I8rPbNU7IVcZvtIg4U+P5liLpqmtupLCHMUgYOfCuYlO68qD7+OtikUIgdcas0cnZBPHg4iRySob0vauytJqsIS9NyaDbO/M/5D8IbjuBwO4c63dZLSRF8F3LRi6scaheV+ILdZatB5hEXOMGpScZ+2BnDlwAuUUCNySzy4bRvSXb2aWgIhrKU3L0g5BFN5Tybf3ApKDfErpupltyynF7a67mu3LjJXLs2Q5L/fPCB6PIIp4xW52nzx+G4IcEEKDbLytzNw8WBB2/0gG5nVqoAjJdI/f2pDSw==;R0qz5qvInYn2lD2Wsgw6gw=="
 ---
 

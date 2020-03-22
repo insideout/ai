@@ -8,7 +8,7 @@ length: 13 hours
 ratings:
   count: 7816
   average: 4.6
-heat: 218
+heat: 0
 
 provider:
   name: Coursera
@@ -34,6 +34,6 @@ images:
     height: 400
     title: "Google Cloud Platform Big Data and Machine Learning Fundamentals"
 
-secured: "F6Wa2DrBQU6H4C1cVFZc7ktRRGwa+X0XBmoZL42nD/86NOV519G+ZNhNB5CqZ3JUitvLJnECQNUzMnBRc2rxM1Mot4zsuDLRdg5qVWBCxzy4m2NISg7Z7as6WRRJiVPH+AXEYRw/PmRFS4EhE+UoMCG/20jI45LRgogheX27VHkSiwFl2OPWPBOISRIAiTXptxkmbqdpRKFlkWouD66l4ughbbdZs4/9MIuph1cLl9K4w7Cl3uLxIM+BV3lFMY35NjWNzK5wVjJdmBkQthegLg==;XEnlZYEpJUjhdL3a6pwCjw=="
+secured: "vvTm/8xc44YumUbVa8cZf2C0iwk6hMECFRHz3+ywaVdbCIw+/DvEx/+bhuykWUdtAoYwiaylLBt2xX4Kzd8W1ZQyivWZdMaX7Z8gvIyMmLR3ws+1+6LLMyA+yQlQZK/LfjpO9O4KqSh/2pFbi8Eg6c4cPavAGmN7pYUEWZ4Ywd4fI7rdVF1pS0bhaSBQl13mfthxfMe70oMxRooN9IuBViFJwZ5paqbgTDyb0cxg2DD0dR5xrlOwj+bdh8+Jk+cUq1AOEN8mY+JV8pH47rgK7PX7VlIYjmns9dwOlaPkj/mhq30dH0tXd3Mfj9wSd0NBAHcIYSmJgejVFM/WhK7cyA==;6/Aqrx9qDEVYk2q8atIitA=="
 ---
 

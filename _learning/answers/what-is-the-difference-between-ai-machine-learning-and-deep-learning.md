@@ -5,7 +5,7 @@ webUrl: https://blogs.oracle.com/bigdata/difference-ai-machine-learning-deep-lea
 type: answer
 price: 
 length: 
-heat: 1000000207
+heat: 0
 
 provider:
   name: Oracle
@@ -21,6 +21,6 @@ images:
     height: 1012
     title: "What is the Difference between AI, Machine Learning, and Deep Learning"
 
-secured: "6d/NsNnssZbCSsNXFUPvJdKLldgolL4SnbpKi4LhwY6//XQnWRhNAR/VaDriw3/XJCyTcOkVqbIcu65Pap2/+IiSjcK4ux3biG2N0cB4rSlpt+CUDN5pLbaKeThY1sbtZQPCMI1zCS/up2e1oxg3lhcUR9VY3jdDnn/2Y2SHr/Hn1n9IZnmo9aW7cl4iR/DI7azhSNpSI7djfjvYfh46Lqr2VOxQIkO0mmFkhga4lCHq4stPEms36wD6SS8lXZVuH+x8a1FxCSDD2lx1q6v1Xw==;ayhsgQp/IHlGDblsVndDjw=="
+secured: "2Oe9aC2bkiqGLwjjz+6I4PZ+kfDFUZ25Vj4P67+qRD59OFxKdFv+fsw1lviXDwSvjRktr0lQM5MmbqvsCU1KLikHqkH5Ump0sq9lxfgVajW7U20Xlhuccsgs47tfHsivlYRUTRypknZ10oYe4DqsMUJfliK3/g4Pdds6Vi1hMpCpghoRZuqDiHaVlol0xyf9KiDQBZMosbaPw85EvNnLCTeiCXXtOwZPw8N9YpZ1YtttX257evE7KUIYbzSw6iuzRxqCVgqQ0P8ahjQUnUs33gINGYmRSPo23Eg1NSJ9JrlS73Y9ahrR3GNsjTm8X9yrYoDMvEwSPTrTMBZRHrxP7g==;TrnwUaJghbluHsPeWry/eQ=="
 ---
 

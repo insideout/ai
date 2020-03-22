@@ -8,7 +8,7 @@ length: 15 hours
 ratings:
   count: 231
   average: 4.2
-heat: 2
+heat: 0
 
 provider:
   name: Coursera
@@ -35,6 +35,6 @@ images:
     height: 400
     title: "Cloud Computing Applications, Part 2: Big Data and Applications in the Cloud"
 
-secured: "zkbYaQoRx43fqvUq0OxE2PcjCoI9hfC93xZj4ss0JabPdjAXE0WiHz5LQ421YjUdOTaYPChZWpO1jhYIaLnAT9SNdo4Rajap4/zRpvu2ZxzITQ42EpBqjdaeqAxr+QtBbpzpYUJT1Z7zqtxE+lVCGQ/k1ag4VUMkuP+hpKzpJtQ6o8RY6oCKopkaOwMehmfgO9zPU/TI54DmLKn0dH9wtVMwz851jik8KSWgzqz0zAytdChSCBfbvXADrmxWZ3LcVg4Qsh4iXyr9w3CZIE5PWg==;VHmKAuXfladbwWDtU4xkmg=="
+secured: "hltpYOlYZdcmA9POX9RBGdAobKL7avg47dzrJx9RodqU8x2HWdN+uCRWDwrhIUfqEvc8IAVeBrd27ITwZpNhqtA7jcFZzLeFvkxDXegyyMD8ZYA44rzEfujKPzCqbTdFJhUrSZgkiVVbDJ+qVzzbE2FRndJgnKJJ7UkP35Fu/nfhPBsdJOufFy7/0u/p6/EIz+bep/yhj1Q9s3M9kVBW5AhOTa/goYd/FN1o/sajGnV9W3EMkTWygIp6D1U+/7hoBdWudilvNGzpDpkyJYLN0Wx3cO0f10fo3asYLT8zs5lTAOzGrj34DJX0u4CLoazGzbVWzaQSlIQ0Pni2qFTD2Q==;uTJAtAFeJYSbXjV9mR416g=="
 ---
 

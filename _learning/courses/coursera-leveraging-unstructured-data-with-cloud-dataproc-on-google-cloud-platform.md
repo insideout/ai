@@ -8,7 +8,7 @@ length: 9 hours
 ratings:
   count: 3968
   average: 4.6
-heat: 135
+heat: 0
 
 provider:
   name: Coursera
@@ -34,6 +34,6 @@ images:
     height: 400
     title: "Leveraging Unstructured Data with Cloud Dataproc on Google Cloud Platform"
 
-secured: "ujGeLbG5iG5EoFfhzKPBjGV8ev2u8JaD4s8NGxKpkYMFJ7mRmvUtdUbEsQh7QjMrePl6ikIT1nEGf/akECyF/caCzkcNI8jnAZG7n2MnIEKc48cn37u09C1oHYXQ7P2jTzhTUeiRY6gWyHwinSRjx6ETMEO9274tDdaYygqrg1YJA1M/rkwiKnelUJdFeNSe1dYL1aEGmWfZ9e3/B15Lgb5msJdadEAkXWhCT2B02VF62SD/kR9rMZCJqz055KeYP8KE3fVovbNJ3XpsJnf38A==;Y6nyuTLLMhWEDsoOhi7XKA=="
+secured: "C9PKNYiU6KNn9OhEBJcVodLq05r7yW+uQ6qdJKfFAxxppXoJn113k8Tg1JSV6JHDRGIYbGyD8GJUCoejORWMxdbgO0Eo2uSBq4VIrZmi957yrPo2Td/sR56wKfasWOjn7O8VN39WRNIgQ7O9MDi5VYsf29p4x2db1CCHit+BDpazEYk/ZApVw652atp/iNaJKo13YBWVTxhcwhMCl11igBVVo+uncQDha3ECxuXFz4uqt9NgqX/lYB94+LKg3/Q+NP/4N+9IRvgfXcu7awt3V9fbGgdcxh2R2Oc0Cwu2EQT1wNk5E2ZQWwLBnm6FtBP0H7hRNfrYJOiYHe1lKfLkww==;nDMy2SJtcShCKvppLTUubg=="
 ---
 

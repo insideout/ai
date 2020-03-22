@@ -8,7 +8,7 @@ length: 11 hours
 ratings:
   count: 31
   average: 4.8
-heat: 5
+heat: 0
 
 provider:
   name: Coursera
@@ -35,6 +35,6 @@ images:
     height: 400
     title: "Machine Learning Algorithms: Supervised Learning Tip to Tail"
 
-secured: "IdZJ39rX9ncH/0f9pXfqNoLLA4XRvWAMCEVH51XWbC0EQLKGPQRX6wS9e2k9ZdXqDnHCCh9rpHbS/n9+hUWcSWNLdvP5o/U4LGg9iKczG5/Fp4PfWIF9dr+Nf0PwEg5xTcexopfCGTl1dDuodHnyeh0Cn2IT7IMTsrcbMQ3ews00lfOlMbiOVOefmHCgFlXHhmT62TDCDgpNhOiRv7fPBbz6CWr59UdfaX7Xs1HPIk/znQkM2V5x6i8M1rQDP8TAkplLD1qh0zFJb+mT+9Btlw==;HBeGHzhpcFBC0q1U/KcHfA=="
+secured: "ViMiriaBcOGebGMOQlRchvYIs9TVqKy/m2tFzx3LkF1lxJeNU5SeFQWuC9mslZ6+hJaKaWadc10sWJ01EivtWrIBzIZGjS989zN2n9oME5lSA+2Ns/5vKGrpEQMPAaS/GjFPSLW6ZsorQW5dL0Zy5r586uYbPVUZzqM3hJSEZLI6hJYvUTQN4bszoiws5LGNCoSpZw9XG1KJ0QUvguwA9a/tgPkwzFcaHs8yXlfdcUGya4cPGpf2xclnuO+wNp5/wlvXDDXu88jV1+keTuXfraz4iH60eEYrUfiAIjnoryVah6DkUVGTF/VA4yuqDYlLOIr3mcZd2tvE5qOh/22sIg==;b1lqZhSlG/lztFon1X6xuQ=="
 ---
 

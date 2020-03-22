@@ -31,6 +31,6 @@ images:
     height: 720
     title: "Deep Learning Instances and Frameworks on AWS"
 
-secured: "/sHZbqXc+eBAya3JhHZ3BdVv3Y1X+P3r9She/rP4m+d6Ytd6qVUBQD4S3lIwO9TSR0/EXrwi42EuRmUCxIQv6L6Fw7UqM7KLxz2L/HVOIeec2N2KyekcuR3+HLZnSs1Vv0aJAp56enIQQYlkZyNFos91sFnGTyFNPoIPUe6tyg2cFs6/7SEoaJSBQDHsm9jIxK2hrI5UlIWPLk0fgR4q3qZC1yIjjsW+ZBd10Nf0jYHEr7EmzZil3I7J/zDIZ85xfElWVB8iZ3DR30Ecq3yV2Q==;Qc6P5Dh1Uje4fx5p3rLw+Q=="
+secured: "eUZ1az3Mx7mt0vgsjxHLnUy9AppolheeVB1lQZNud/cMvjFBkBzjhGND11gpqcug61KYXv9WvnGf2FknbVktW/pGaBMvdEv0LygEFMVws67xFJ7+4Kt+2kNo2sWtu27o31W9qF28x0nWKfxLho2OtpLVZTRrKMGWRuSgA9j7nJQ1Gg3/YTs4UNxQGNPIfANJAxkDq9nxm8oWvryjHHzmBn/MqKl/BPEbtuHmW8jh0ZeAPvRp1szYZtMdk8OT8dvY3S7zo3NftIO1Lad85nUzC56vI0txFcRSEdmLsf/EgoqhvgA5dbyCwClkdnLhAjlB5b4NPicm3LpUM2P7Xji7JQ==;xERg29ImPFxBdmMldRsKbQ=="
 ---
 

@@ -28,6 +28,6 @@ images:
     height: 400
     title: "Translate speech in real time with Azure Cognitive Services"
 
-secured: "RDWcrnLF/4Aq4OySJ4rXY09Anm+G6wpXkYn6KugPEUZHCmS4vRv1cM2Y+kp/6tDn4YiMOOqerKKTKswhghvWvjCswWW7tIliT0oHU0KTvzMbNiV91PaNjHaPhlVG78Yu1deRrwhran10/HMTg9sDSgXJ9tAEa/Z9Cb/25GXb90NYwmVQDdoAQgTvoIRrVtseuaHOWqI3gPTEEO3nGK83Q06+lW1is12lr50CAy+Htd6UdflEZpbPoa6oodvQ2ZUIwDdIPAMJFB8dbsslrB9Q2A==;MprzKrYopQvHpFluhJ+lfw=="
+secured: "9+8ESibvtw1RgLn7K8RFWcVWkY7N2mNEV7XLjKo8PnYkfuQ0L78E5YFJG8ZfuSRkVxKQDONkCg7roxa3rezs9wX/i9JsEtvUiZ5fbM9pInB7LwIBmpFHpCZcKCmXGleCiUVa8dAAQZBc954vSZkl0OP9QMBBqgPMYPUhUhglBGqdgZNbGUMAyw8pE5beDrLDnKbCAjtyVI13ELxKU12dCWSXMkWcGv8xkFNfqwGs+YDvgJSOXOPqgnFoE9CoGeBBKPbx4zd5MU/TD23DDHo5Mp3P/Bm2ScrgfjBuzHeTqu2yG4WFpneB07cVgN1win3uepj0RxT+/RhM9v83elG1Rw==;xXLxgfPvfhV5kguyPy7ofQ=="
 ---
 

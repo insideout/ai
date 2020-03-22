@@ -8,7 +8,7 @@ length: 7 hours
 ratings:
   count: 33286
   average: 4.8
-heat: 574
+heat: 0
 
 provider:
   name: Coursera
@@ -34,6 +34,6 @@ images:
     height: 400
     title: "Structuring Machine Learning Projects"
 
-secured: "LXKkH4iXY6Wmg+zEcdMm+a9Bb6xaJHqODV7QZYLxXc+oTSRWm8y3DWtPg89mGxDbHMx4rYoHdp5osKQHnPD0InIPJJuL3Cz24j3TIrjShylwJ3rpJBv3PkpT0K/om42meFfubB+IFUlAwEhl0wDnNGyYpwQVHv6wFBxETQK2Xqqh+GNLOY15inPKbVBnhsul/HtgbsxvoEAmKh5WL7OzA+ue9rgztd0RZqBVXxLg0wS4dxWcdQpF3ZhcKq1XOake5xGO/j+kmn6cJpjJiIqtVA==;SWsaOH9J5BdmLbUpqy6OKg=="
+secured: "xX8JhhkjB4cpQ9ihfMjwu38ppmg9Pdt3lleV4TgaSpPAakIBlae8FDLLw7NOkUR/CTsoDo/acLBTshT6WjQ6b+lQAkObFPKMtGacGP6OWqQGwCnq08rspiEHnLpFbazOSJYFyPqoi91Ll/0cmVjcN1je4yqMPDX9hyfcZ1Oz5oaRMeTk5scAGUxuSN5SpmEjGT2+nCVLRyb1X107TliddEUbhJuwrtL6AsGyAz/lAYD/SHeU8t8d2jIJLtqhOZ2CEK/c+OPWuOsB8zB2r/ayzzWJD3dWZX0zM2G0lOBsGeGbe5iCOq4yz79+8V8KLAMNDEMv/McMcKDNx6pabOlnHA==;aUxsroNh8FQbWAArUQP9Aw=="
 ---
 

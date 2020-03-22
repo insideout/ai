@@ -38,6 +38,6 @@ images:
     height: 400
     title: "Big Data Applications: Machine Learning at Scale"
 
-secured: "HB+RisGEkHmjiLJg6cwovxZ9uSsEaGUfm1UpqZUQ+Nlyx+4BOgJHRAVmLiTC54DeAms3p5xKA73V8v4wKdFv027m+xgoAN+8NOcjlC8E3w7y9Cwo9PFfgtrzuMSd348z4R03DMkVimyoKDBF19DUTMY/4EueOvYKHUEa9Vf8DVbnQOqb4Q9KgwpcTkjSjlHEdcgoneeg3dv7feymO9PiDMJTzArd90G5/MQcByVeh/69M6ElezH4WIWZm590z3hSNxktDYvNL5F29mfnkP2TDQ==;dSJMx8s9q6iKniN0Par0fw=="
+secured: "sFpJFY2+hB26trDVd3OttOVBYa/kx5KL3nhxD/uwBIwAO/Dp/rMrOYlUJlcTSvItZx6FVGk0EBvBNQXvxCpnWhMuCh3Tk75pJQ2hig8d5GRpwaQZkYcthgVxDXlHslRzTFZRAbZaq+ln353OjJ2li4Vr5E/oS7sX3NsaBzUZACDEkkaT0uWzn2TFVWZlY8n8JY76HB37BSpmXWOewLkvXQmVrud9iLmefkWm/3yYSU9FCFMwN+lWHFu4ZBIDTWseh4jsZsG7cm9M1jJ0AjgyHUddFSDEU8uafLiKgXU0RXdNpYFZ54iB7i2eGxVpHEpARvDfJ/cPJTKx5jD10r+2OQ==;LoAat2KCchNNLWryQIO1pw=="
 ---
 

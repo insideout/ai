@@ -28,6 +28,6 @@ images:
     height: 288
     title: "Machine Learning and AI Foundations: Recommendations"
 
-secured: "O0deEXk8vlEB9SMkKZ5DoddMOhVCHjAFDCa6R3w6Xaco4uPbNClKy/1tQ7ksOL1PI82Uh0eOOk8C6axzV1Lh+mNE9/gA3iGfwUyYML0PqePsx2OVRowUBA6BKmv5r6n5XVml+h+Y0RUOmmRAVOuUqQ2usdrkWLqjPkCMKlo7VtEyyMLLNIQv/cS6sDp8MGwp/PdSWzuyA3rEBWMVft1dzdTBdIOwUqw17wePYKbfr76kF2MgELbB/SHHo6MUkz9KY9E01rSsQHT4pPFwaRjLKg==;jej9mt9AR1gRCMxDHP0EfQ=="
+secured: "DqvAyuvTtDF7unnc/Kfhif4GOESRXEynhe/nX/UtXEVfPbqt7rVphPGdnA//tK7LVyqm5ibTHJP3SiLfjOog3L6by1r4LKcAYN5WcPHkxs9lBPT/nFupeQS2/rXxh9RTA/sb54a87WkWuDa3tIRP1BSI84OHKgxKgO1Dgz5diC/FiAIyzHPM+3RgpNPRhcyf70+nUdDdYcQFoqf0aQoU4R2ORli6NTue7b+mmRdDLB4rNWOOj1ZnBpFsPTq/UTgPdc1Fb7Cm3s3Ap5Mc0crk07IEKqChaksQOsR4FF7KfAX+0nhVwqJ5/F1k5X0p+bGk1U83Pe0Ac+puYKY+Cc8SLw==;a7/8jT8S9N/BG6hYIp/QFQ=="
 ---
 

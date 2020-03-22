@@ -8,7 +8,7 @@ length: 7 hours
 ratings:
   count: 381
   average: 4.7
-heat: 23
+heat: 0
 
 provider:
   name: Coursera
@@ -34,6 +34,6 @@ images:
     height: 400
     title: "Applying Machine Learning to your Data with GCP"
 
-secured: "JbKsSzZGpWC/HYAMTcMFDqNUKZypNhpK9f8fo+iMuVduxvr/vaQ9LTus1zRNDm/XwMNYa0E4abD+4t7BjVAUzDhWaSeYKGAzCxcnhqAK/6IF3jaqkTDj0fGarlMeL6KcU7+K33xBTcvT3KG4rGtDmg/DZPcylRq6OYi2ZMIJpaskJxReu7ahhCQd8HGPlZNq6DyYBQN4XN3ylPqVhZhZRv/O8hWIDjZM25QEI8+0Zri2Zf9JAQujrJ/pYk0QaYIwZkc0d5poQngzJqKXFgTiXg==;iUTwAvgryhKETekOYedI2w=="
+secured: "kpBsXAY3AGmBkUx8NhjvH7/qiFqUz/qu9lVloiHxj0RjA0ORsvU6EOpNklgnfVVJ/LUUKjxMmgtWIZXySm+3gYq+hIc+hb1t1AsFMtZ5wbXjcIGkhlEkx4Htu2uVihc2zFoyxkeK2nkZl3bmihMZrmf5KmvxQnSka4j0zBE2B/2+nAvnVzmPSEszB09OreP3Ae2G7i/GyxuVIuyNfHGQTUjhsXIfQ/RPpe5gCBD1zzq6eifKzsDyvcR/VUaTF9CMcsyRYrz+BFJwUTlp+bf568bpFR9zLqvIMLrM5ligIBI0jlDZwW8BR2Y3yECLzkrrCjyVJnPAKb2dVwS2U1EXzQ==;zaBQMR3cooN7s8+4ugQYAA=="
 ---
 

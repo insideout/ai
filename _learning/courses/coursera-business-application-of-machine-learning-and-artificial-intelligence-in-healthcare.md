@@ -34,6 +34,6 @@ images:
     height: 400
     title: "Business Application of Machine Learning and Artificial Intelligence in Healthcare"
 
-secured: "5sDM5BOPAXqzIfeas0aZVrXkboJUn4jidS2Xdvplhmr4TME5JQGMf/ca70e9gt7Na1emHutqpTMWEKlK49wXscK9ueyC9AzFsxyHPdwV2/NaWUQID/yGdoA7GAwAbaZ851JBl4bhoc5BWZlOLGpSxn50xCMS52Tjhbrw7gL/9/rW6t6+uUg9XrE0EqkyvVfqrAJKVgSk9/mYNe4ey+91BGYu/dmSEJ5Y7MIeu3/K76a6h7+jNUmEv8fzcmI3PHdylNg4dyC3O87ldfDqS6iXqg==;0JxmpPEQfeRDYz6sGJrwXg=="
+secured: "pTMHaC1aJoQG0Lg3RFHx8ny/V0P+O8qKQOun6fI7S43nhMVaxOiwI6rOKDZCJ5Eqha4yIV2KAOgQFKyOuZAeNFCyHBPKjdV1bM4Gi74dAJvTp0oWeVVK+XK35mGUwp1xM2PeDRnQxWb05zgw7p49QgN7RpsOxc8GxTLdEKjNkjpkC/UXSyj0PGxCn2H4ITya7LcFFwn45G1jec5BXhj3q57ka32mIC2bQcKonjqrjClHwgJyhPDtU1RqCk9A8cOM/EeS1009NwPFebRRgj/m2B57Ds4UH/9qE9wXJANMdzJQuhkLDhvoTbTXRs7bvkQ2twxuhLKpAzJOGQZNpPjqBw==;HguwMGfsrM45WQsAcxVkeg=="
 ---
 

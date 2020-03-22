@@ -5,7 +5,7 @@ webUrl: https://www.pluralsight.com/courses/smart-analytics-machine-learning-ai-
 type: course
 price: $$
 length: 1h 40m
-heat: 
+heat: 0
 
 provider:
   name: Pluralsight
@@ -30,5 +30,6 @@ images:
     height: 720
     title: "Smart Analytics, Machine Learning, and AI on GCP"
 
+secured: "Jay6jNiYeKiF7H4Gpd05iBLgxT7lPcr+DfotoX7nnJAY6pjnutIcSjk0jUGwJ0/R20GneO5L+nPOFpzvNgfdHxAhWbdc7O3d3ASFwj1H0mr/qDMhPu7MqI07AIzaiQFiXtRZErNxSXQyhtsEUit8IjdnTot+CEikRgCQbhfIKSksyidmb18P8yQ0njMsjrX+21CoRpfuHSgkKQadQ01S2KWkSlK+3mK2Hf5Pen4NizpbzBTrXqzolWQXW9bFfeSFA+Wxvsi4soX2w0hVV2ELGYrjpX1k53ElTFX66OjxvpRG56aObzfNRNA91cCO5yWA/a/Lz5AZPvfY0lHmJAxEDQ==;b7czfrvGL1pw2Ev1LjD5Pw=="
 ---
 

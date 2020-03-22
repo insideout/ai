@@ -8,7 +8,7 @@ length: 42 hours
 ratings:
   count: 2918
   average: 4.7
-heat: 27
+heat: 0
 
 provider:
   name: Coursera
@@ -35,6 +35,6 @@ images:
     height: 400
     title: "Machine Learning: Classification"
 
-secured: "LG7fFF30S2wpqxm1bS8d6j5owyRmIhEpC/JzrHE+iHWmK+UwovlEHqUSmmv8ZDtgUSqVUsfn+cVeswtYlkYmMQJGVUUirKujiMMtWZqWoTTJcOPSfK6cEtAV+S2OZeF7HKYctB+r2HTU7ICABRiU/Lh5WavjJwXuCVOfRLM/yMAcbXzxgy7B52lvyFIP7xok/5zzO/T3al8wnT0H6TJsHRbZ7dLoSfdGH7DlKkBrUiNtDmnJcqHXqXr74NQ/FlC9EpICWVsU5WZtB/4BlxfIcw==;rEE6AZARHKDes8KfJKK04Q=="
+secured: "4Bd67veEgMlKIx/FEcjkjq8Vf6EtgSZ39/BaBlp+e3y9FL9PrU/YOXW1Q9FtpW6SyrOkwZPw1Uh5mphsnQ9ch7iaqjpchTlXQRTTu+hKlFAIvGw47N1mGLtv0aSzDbxH0uDnyu0dm8Fju646Zj/CnGMnLVp3wv4Wnjq7m12hig8NjHmMux5ICzVxotJXpbFgxZ96eBHI8F7lBQRoyUcblCg5SKuQnncORBweeN2jsGbViVf2b3qZFlUUm6gQ6Q26TICg4jG2f7aK7Pl/lWwInLNGbJR/V8IPFUgjmVI+ml0kyY22NZvemMnTFEBbh0CdId1/nXq3KjQV4jyxG8xKUg==;N7ERvabsNejKFM6Coxl2XQ=="
 ---
 

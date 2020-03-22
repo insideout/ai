@@ -34,6 +34,6 @@ images:
     height: 400
     title: "Machine Learning for All"
 
-secured: "KcpxC3xHortGAFG8pRMEzhWsI+jNqh6RygyaUcA8N40md2fnKBdt69TOZLru6nc+91CEbW/gJuzFH1i314A8h5KQPdrTooBRroa7Fz3w/GqCwyU3lxCAAHwmiky3v8Wv9TklEq8Gvy1u7ozlosZ1aiPdwozBwAlczx91ITQI0YJEQzZbbtlMJ33X7p93KVlgNLj5q7g4QEQS/MlQWpNcw56igxKHdvC4sbKtmRXiTJd+cjNfoa9D6wUT++s4CVVbYOmKpi5jSZ1oNqzc+691LA==;PC6BH2z2iY/eocd5ikJPEg=="
+secured: "fCHE90oH5xj/EIuNDwIOamACxyoAZ8lKPG6RzKp9aV/DyULGrPdagYEY8ZKFpCP5HIYT+ZQlWpb1c6bjId8sIgU++7LbR1PGzmcS9014zci2rfaMR/YGZoAaMN3/lxXKKyHYBvkoXVDKhL8LP1QHuRdzxvZLwiV2va87XKa8z7+NK7m1bBTHVoAFvhRnr8MPnSmzyO8Dcc3ZxXeL9+VnvRlYBvKna3aLJdOVp9IaVWjPYAQZj2pDcUnIr++DV7JHA2UaUZAS7Uxh65sd1oqiVojaOGE7pEyYwapVCZWiiNQDAHSHJ8pfW9OOUbwyRe4FddICgA2T1nF5W6R65Ks7Cw==;s4cdpziatdk5waI64ueR7g=="
 ---
 

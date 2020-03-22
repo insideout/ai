@@ -34,6 +34,6 @@ images:
     height: 400
     title: "Foundations of mining non-structured medical data"
 
-secured: "FqkWsxFWd3XXABzNV1xrWjWUlxdeek2ZOFEOAZzC6gAvcSvMnpFM67YZ2Fs2Z1WZknfhRDKD55xnADeHNoTLYEGrA2dKUj3GlAP54sf4K6CoN/7flXq7LQe9X1k5safmR9rKOOkh7M5uRo+ns4eXV0TOkW/69HmT1NsfTUCgZXmR1Mq62W73Y4GWwNrGhV2Eedif8EU/dpqrMafM/aqdfaZhgNxAx8Jz0R+XQKWX+pF3S75oo3Uql4EY0fypdt26g0JCZ09Bo7SAvIBg3XZ+UQ==;a5sMTDfmKQjc/6gLP2cVYw=="
+secured: "O2G+Pvn4t2j0czef8hlC2ASF4viVS4GQXm5MgKEBDrxRae7yYxI2idwQ+nclHf8r9M66vKzHWrLkuHf58ALmtYzuunK+d3yb24xTHxmspmtCYWIXgGxAgl303+f/LvEd8Cpjg1VKcmJNPxq7i+p7Q4LmekBulMO0skfCAfop57SEshPot8vPevPRB+YsR0cPjJ5TNFkybEw3Qa+6RM7FnOD/O5FIirX7ksWG6sjMoiT7TfjQXjWN1CDHqOEJiu6B6pJF0ioSmtWCEF7N6XKPwxJT2H1p9IRkwS7q8LvjAqafrYsoVNpK3AC2F9N6LCsqnczlHkXiB8nVlsiDo+cygQ==;Hg40psydkxb3vRG5N5dQWw=="
 ---
 

@@ -8,7 +8,7 @@ length: 22 hours
 ratings:
   count: 2229
   average: 4.7
-heat: 84
+heat: 0
 
 provider:
   name: Coursera
@@ -34,6 +34,6 @@ images:
     height: 400
     title: "Mathematics for Machine Learning: Multivariate Calculus"
 
-secured: "xURalHKbrAXOJFMiyscKmbAE9nSsBKQJTPJhTAFq0qtRVcqJwt0d4MOmqdtPgox/+/f0QYoR9z2KNajLQIvlg5VnPmAMPn8KVLVYxbCZQyNh2GKVMc67v3i8ow+tsawdQXyek8og9UJsbkqorigav1EUwAhC5qTYwe6SI96atfZ9R5sxhzF7/B+UltnsFvaI+mJp6WhPRLV/ExAkuRvIOsCClSjDfTfHOYceRnjvCB37QIiC+qR/nfNWaERhMb+r1d2JXZnBcYQ4HxdLAuhr9w==;DoIyTJQPW8+XpYAoYTJcYg=="
+secured: "mJRcfSm4lxcuYRJ5LHc/LRDESGZ0mS6GmuOGqFebRv8LlEbMEsKFVIffF+e6/KVl+VYrJKZf8tEzeTqq4lmRF0NqWh7rWGLbcQEaCGHD00Br4RZ7yUAR22wiMpRFfH2cuqhpB5dOwMxzGYTnOUnmis2Qdm3FFurVMWXy0wM7irUgeR+xi4cycIhDwyZir5oDMd4Fvij6r++llHI27B3j7GtuzzsNjuLag1yGgk4JBJuQtskktOL+V/g9GRRdjI8+CmxjpzqwhUQCdzrA+z9Wk+9wd2BxKyOCQVj2y8AV9B3XYv8p2NPEIVeVxrbqt5CHmWWErQxVDuu65pY3j3dTOQ==;VBc5bSN1EbyXblPY5VSwyA=="
 ---
 

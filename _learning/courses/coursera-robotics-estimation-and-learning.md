@@ -8,7 +8,7 @@ length: 12 hours
 ratings:
   count: 400
   average: 4.3
-heat: 1320
+heat: 0
 
 provider:
   name: Coursera
@@ -35,6 +35,6 @@ images:
     height: 400
     title: "Robotics: Estimation and Learning"
 
-secured: "qAFITktypO97cLVrdLSQRaRL7IBNUyLTVqnAI0CYhgdcnZHYLf48ucmpGq1vr9+Xh9ntkXdmzZOz+3f7mDxUhtWpdhUSCp75FKY4U87HiDhX7dYjUBE1/CwyJUAsIZ2tFnRd7hjRAdVxKTvQ8Q3y00rTpH9k20jkGwqHcQfTcvqF21m74ki8mSXNp8ySUceC0tpclkaso00kMMxpDVK+vOdYkiu2YoIhzUdZw9YgbsBnux72nE8+1DqP9UohjrWfFclEDEY5ttTaBRr1vkJwVQ==;h+BbJZghHhpD4ycHc6YqLw=="
+secured: "L5mVd09UWBUHfVnR5b5xcH1y3cr6YcM6F8p3Z2wsdQTNd++CNKlPBnCI2jneRKn8EfhHj0nxBPKXqukffxKjiOLFsT9D3JQBN1y6GAYrkBN64sOS+rV6QQIEkFVXuTNtG5FFTBeFjC0hoPFkYbkqCfJle4nPtAm8L9Q9Uoh/kXAxqqor7bpEWTGEfubv2u3zbCKR8w6IznKuxXJo3Pu2uTGKwYd9DjiYfgtCO2v9dYwiK+DPE7qOHlPhyeV/Nis3cbgF2YW7KnU1juVqtaozM53K77qOpaCQn+EZ8mOZDh7YZ61qMsD+cuEtn1cbctCxlqZdrpBVY6+gPthssw2KOg==;E9yCjio+tZNAbj1tBgtoyg=="
 ---
 

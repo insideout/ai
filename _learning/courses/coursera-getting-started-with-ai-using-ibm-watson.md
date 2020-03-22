@@ -8,7 +8,7 @@ length: 8 hours
 ratings:
   count: 551
   average: 4.5
-heat: 88
+heat: 0
 
 provider:
   name: Coursera
@@ -34,6 +34,6 @@ images:
     height: 400
     title: "Getting Started with AI using IBM Watson"
 
-secured: "nrAOna5FTK9t9cFClJPL7YLE1pzNRdYR8w9u8EcT3+GtX3gsdqMCjrR716nj2qqVuySA1OF83ipZh4uK1tIOvW3GprDqZWS+GwozqtBZ4sy2mn2USuW/FWXN3FssZ4SPNrMfCTlRRCxggBAEv4bPiO4661awhH4/eLm7IBOaEp3+f/ypAkGMBPTV18GR7nBB1m6bYyZk155m1GTMSkI3xa4Ky8oEGV1gi7IANa7dGxpr4NBXI56YenuU3E8m/DWRhaFHQ7fCg8wpNO74hgo7ng==;aXaPlojkHzRIph8Q75gw/g=="
+secured: "Zs4jTGyeRhBtshMw+QTMpXfQCr46a2BKXech7WZPjTDCfwVZTUi3hAUMSMlI5wSXaOLhqZ+KrjEJoR4PIKA9mQsXxWpPhULOXNKwj3ZhmuQTToaVcof/L8CreP/+3DOSkYM5emBYn3BTWJ4xaALxFvyiPimLF8KDajQ5atACL6gQuY3Uc/WJCNclP71vaUjHg+0M+C2oOQjxQtAYVVN5Izj6Nj7F6uHwv7QjglSnZy48RuKPIFoU86d2c08XBI3pEDM2/CdJqYvahS3djObQj/QyUHcbOQGFKqszQYuCcVWPzcfmZ+z0CG1ASkIxCq52yPxwb7zaViQjt/QNJQYJgg==;4y81pneWazexMLAx37hS3w=="
 ---
 

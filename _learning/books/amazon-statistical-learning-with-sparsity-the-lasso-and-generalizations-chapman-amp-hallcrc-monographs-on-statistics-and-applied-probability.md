@@ -6,7 +6,7 @@ type: book
 price: $83.05
 length: 
 ratings:
-  count: 9
+  count: 11
   average: 4.8
 heat: 0
 
@@ -34,6 +34,6 @@ images:
     height: 218
     title: "Statistical Learning with Sparsity: The Lasso and Generalizations (Chapman & Hall/CRC Monographs on Statistics and Applied Probability)"
 
-secured: "VFQILEe+d2JHQkvWzya0NgwMpDsN6yy7sNMc+woEYGDk4H1kOMdiPVDnQg+JWyGb0osltzdGwRNsUrMpwifo/QXZZnauggLjDA7q1mN5o8WmNHpeFDG2VGjf3sJ+ygS+hj3v70ngt7lD20J8rPt6eKqmV5o2biGgqIs50G5N81DM+kj2S4jimvtR/y18r9BK7YWCSAeUZbF2OW5dqO/R5xhE9BGwQv0skQ4PnrSD4EPTq0AHLkz1iyTpJRzsDq0sGGbWne5oIV6KcV3YeimBEg==;2hGZV6e4VuHeLd0OcfHbOA=="
+secured: "ntVmbqyIyk2w6NjSSGJJMvxhfyFJUO4CX2BQasGNMk7vtZrlE4J5GWCc3vpfJst5Y1XRNDLp1PMhafZfRg8z5jrzVFgPGvTbvYfItdVUDAKQYDnbsenjhGvLRQdAWcM5EWdc5Fa3f68faliLTji9NKC8eJizYdm7Foc6zInOWXrl5EaoizUvA6EcPD7QeLATvdN2ArnfSqoditZIbuxzxKm6obCG3fJeB2rkh8E6Eqze2+S/veC3NWn6n9YK0BLEl9y1f5jI9ieL3ctqhg7Fw4SUk+MxNejSoCZ1kylLNFmQA/PgEARbyCewlcLiyYLnUdVRgzmAdehc3FNJxokv+Q==;hdkJSzVK4jCLpbE4hoilJA=="
 ---
 

@@ -5,7 +5,7 @@ webUrl: https://developers.google.com/machine-learning/crash-course/
 type: course
 price: Free
 length: 15 hours
-heat: -2
+heat: 0
 
 provider:
   name: Google Developers
@@ -22,16 +22,15 @@ topics:
   - AI
   - Machine Learning
   - Google AI
-
 tags:
   - TensorFlow
-  
+
 images:
   - url: https://developers.google.com/machine-learning/crash-course/images/mlcc-hero.png
     width: 3288
     height: 1818
     title: "Machine Learning Crash Course with TensorFlow APIs"
 
-secured: "/w1XgWHS7/CPWW79nnejhKRYd2DEaACbRv2Tr4YzcvofHpEAiXhZVAaMiWnLWdDYYM5GHpkEZwOrtQnL4ynJLrPIrRc1LXyWClZ7PhFmwHtJlzMKidX4Mhvdr6zsJGOEC0fP8+aG5At7Hr088U2IxO2i6/4A+Yico1tY5XU8kcXTwBEWWer1pwNwHyUj9iiDCpoTDVdus273dagJrrurmGhb6YkUNcPMb5ryuf9y4mZ0e6DUZF9AzA37ourrKVnPiKTBalCXP8ep1uZUKi7Xvw==;ZgUD77ZvAo5yYhu2jKtbwg=="
+secured: "/oXP3iReqBB7a3/p40Es2huPDYujZsd5Wf6lcWEeswV6lqwsR3zdbc6PEakNaDEy6M47pzoisXgv6WhSdspOyj35UIdOs8290Rv19HS2U8dUaopVSB8IaAYr2LGihkdHTnEoJgjnisWk25HoLLFn3k+qXxw06PI5QWcdILloMWu2LUu7G0P3w5Dz4SpMVO8mvMT5KQGpf4VVKyaOzeBpnY+bmdU1QRY05EtehEEIQbisphE+tlWwPHaxAhir+il2yanXzfEEuHflDMFp5+id+WabTdt32mM8KwGEXcip//U+xcLb6PEEQ2KQomD6ZV6GAOAVHZyeejLzQydOGou+NQ==;GrKwH1LranOjtqGCbY8oTw=="
 ---
 

@@ -31,6 +31,6 @@ images:
     height: 268
     title: "Artificial Intelligence for Robotics"
 
-secured: "U16CBGrDtXmqFhoFihSTNDFqALxX0lSFU/xxVm+RG3496ZEvDyx9YC1h1ZHmXURiJWr7Nl4Ci7Nt3TxvxSMUsqGmBsom7tzYOKoLwSAF1lxqBjGlac2+X45MTa06UrfOELM05X14NBSDMLETAYRGgEkEh6HeUDRR2MG9B5KIzLjKbBkRXSVkrPVWPqbeqqC8PTeuIzbL9TwSJE+RS8zUqkBS9bSI8vwKN4s+utpMqRv22p7ChzpHCQ3O0d++fsfPKRiOItDoWz2ElbrGJlz5/Q==;2KcC1ALPKLZw0dDySZ8bxA=="
+secured: "DX6qhpYcmdlcM+pUqxUUSi62nKa1zJ3luXwO3cbs7cRmMc3YHuMU5ECwG+EQav56kTIgFg601vnej01hh0j1493XE9tOJoK05+6sn6uv4lMorLtit2ON0jKnJuMGVgf/KxnjMZZjogHppmJEOOfLG/JuynqLGGqr6E9YwkGaTp2ipzAj5PWi0k2ptVFziGHLecghR0to20QsVQzDs7EZ7tTbTeRUBwJTY0iwWymxjE4Wu7T0vBnfxrebCoAWpJTxG0VcsXFHohwy4mGav1JmbdYw+4k5v4kxXLj36qN+QqZP/2gdfX6bR/D+vC5VsPy+TYpVvWSZWiXypzPXohJoEw==;iIjKDpQTZUM3ixaRUJdeAA=="
 ---
 

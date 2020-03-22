@@ -5,7 +5,7 @@ webUrl: https://www.pluralsight.com/courses/getting-started-nlp-deep-learning-py
 type: course
 price: $$
 length: 2h 13m
-heat: 
+heat: 0
 
 provider:
   name: Pluralsight
@@ -25,7 +25,6 @@ topics:
   - Facebook AI
   - Machine Learning
   - Natural Language Processing
-
 tags:
   - PyTorch
 
@@ -35,5 +34,6 @@ images:
     height: 720
     title: "Getting Started with NLP Deep Learning Using PyTorch and fastai"
 
+secured: "SEZ1v1kmuZ5fE+JHSBQ9uACgYNJTVxbI/E5xyBmirAL1LGiWgIsNoa8XgBuwChATUEHioiKiYN+cC+Z1U8giA0OgEfOYpqciUKM/3qzai/AYM+nb3CPxiqHAx4io84bbHiBd+3qkJpe7qEgRBeuA1to5S551sDzRhDs64CKxNPpRElGaBaz5GtFZ3X25o+b0kGYqx3ZetT3Y3L6wf0StBXOPqkmXXSLJo1tSQ+Ts5nfY+roPwhtfPAIzS7gsNhKd+FmFn6TBmDHj6IvLbA4x9crc5DVU6XbKh/c0bfeCO5tkv+CDeiBSx2vaBbzjx84jMkBTGDANBPRn0kCnQFSXKQ==;kWWwUh1C7tcynj40XDawGg=="
 ---
 

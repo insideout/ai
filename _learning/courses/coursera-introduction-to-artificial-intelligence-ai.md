@@ -8,7 +8,7 @@ length: 9 hours
 ratings:
   count: 1178
   average: 4.7
-heat: 4358
+heat: 0
 
 provider:
   name: Coursera
@@ -37,6 +37,6 @@ images:
     height: 400
     title: "Introduction to Artificial Intelligence (AI)"
 
-secured: "q4S+WTSd4MYg54ULbBDXQJMZHJYbtwouxgR50YL4w85TP42oWvPU3aO4ojMXiBn6tsd+IsAMEpAW8KAjIURm5f8SEMDmEvTIZs6vOGM/8iFfKY3PTk+YMMDby5N1zuIg+exC2Jt137Svnh/SzxllnttAvvnX/N7R76D65kDQfFw1n2C9t4kJMv3UCY1WgRSmK6krypKqC2T81bLp7zZEfPfYChpSX5kmOZPef9yTO0AITEt5r+uxjc2pihJYj4rqsVSgvGqj+1tXuJPbQL+GvQ==;X4qTQaZv4sJ+Tr0Is2HfxQ=="
+secured: "Kx2M2F+cCTbvhrLYmi2B0yGxEY6qxdc4bjAFGEEToJNeeyOFUOW1BWbFp9NrLDhkpUObXrG1vxzaRRx+P6Sc8JOtWsvMwc/+25Scj2Whp7gwwAIJsucIGn2ufgkVsZyp8PUFcqwuiuwtzgKqNQQyFvC7eFdHWpbHiYtNSlN4rsd7uQ2fsYsKJYBfLHxkAkDlZnlh5QOCUuYgSUEvgvuWxSZXK7IMTOEZoLm24nYwW4ud8fsONhxeHA89OnVBStjGTh5+sTTlCdUuhmVFBkZFNB6BtkgYuTdiyvIcbyF6nPO14Eq/uyDf5e8yQ3z5cRpx9YDDBiwPZaFyyzzzYCIw7w==;JudyubNp/QlzuXKYdyL6bA=="
 ---
 

@@ -5,7 +5,7 @@ webUrl: https://www.pluralsight.com/courses/building-machine-learning-solution
 type: course
 price: $$
 length: 2h 41m
-heat: 
+heat: 0
 
 provider:
   name: Pluralsight
@@ -23,16 +23,16 @@ levels:
 topics:
   - AI
   - Machine Learning
-
 tags:
   - scikit-learn
   - Python
-  
+
 images:
   - url: https://pluralsight.imgix.net/course-images/building-machine-learning-solution-v1.png
     width: 1280
     height: 720
     title: "Building Your First Machine Learning Solution"
 
+secured: "zz94J/cFTxZ4E3n+kEP7Cap1bQKlB+zHht6nw1Hdp+Sdvrj+Vu9jWnVCS0uSn0OUPtVrgF2qVmTIbkdgSKHFAhLkkpJu2t7WfbyNkkkcRNZmDteaRqaLg33cKnA9lDdbbRCscJcHuGS5LJCZZIJN/GclNO57TrOIbVEJ6UJyHoDFvxs5uusOvuBSuxkXbN6wvGJ4rHdM+vg8VvnUyVTCTAwH2XqD9ZouNTkTy6zNowYwxmVsSTdGJaGkkTmoeSvKbaEGDJuHohN+ui91ONUEtgZaatNF5TGcE+g/GpbljLbPAct8QytY4eO2Fu/AlzfkrPlPfs65zC29/LqzeHQhpQ==;727kD+5ZmLi10NS9LLulow=="
 ---
 

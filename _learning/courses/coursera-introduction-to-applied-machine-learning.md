@@ -8,7 +8,7 @@ length: 8 hours
 ratings:
   count: 95
   average: 4.7
-heat: 9
+heat: 0
 
 provider:
   name: Coursera
@@ -38,6 +38,6 @@ images:
     height: 400
     title: "Introduction to Applied Machine Learning"
 
-secured: "QnG++fwqo/eXNdN4LSytWuVB3CojFINDShf5O/XotqIoEErMtmwNTP3T/V+3Hwfv1RkHW3vfr2KchfUOJ5TLnCdw+JOc/zlGmVJwQhtw4zkknK9RXqIsRkdCiOJxBgfRYgo/59RDOfoCXzbZn4XUdkm2gzVWBrrUKTMIz9aB1oQ5iK9vNH5ilU+vzgD9kQ5SkWZ8wYsaGINfGx2VDXBOY784p6T9QIHabr8c4O6mr0XLYnhdb3DOa6waaqiU0L+kBYNnN3GHZDtmbfuJ6LNtQg==;oFqYcO6QUG9vDjbrMNBSGA=="
+secured: "V2Rr5Ps7qpCvqG+ZHd1l7jAa3MZE4P+RUVAoyY49gX9u0D2+FFbXYXyu/Do9P+EmYiPcbPfuo0s7kNZ28fNqQABgOvQkYZprwgw41yNZjSrmlpC8dLc/es33/oznaZbnvnDhvmdSgB1Zy8gSz8/gKwNtPEHohucfRPQxqYMfXm80+0D2dtGRErbs4DLYpfb2sTgg5PXJJO909EihWI9VhT3kOhXyREDKRZfHlId7wEs2suAfAibJXo1zGJgTNkP8scpWzNz6XBC+bh/+TfDWZclVlwmiwsE8Xvxtxq5SHuvaA06E3Z3JawS5c5OOPArLOgNijOu4mW5X8WCanMjNRQ==;z2smyqAdxFwHo0cW+8Klaw=="
 ---
 

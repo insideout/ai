@@ -25,6 +25,6 @@ images:
     height: 903
     title: "Machine Learning with R, tidyverse, and mlr"
 
-secured: "pZvjn4pq3GQkPKxAfgeaigLVlgSsd/iQ8iLy5crCkTRaQCrZzQtL4OSln/ElQ55OLGTD++wkjFEZ+6IYmKknqGKpk2+xrAaIdOOeLbuR/iQUm0Z+0ZePrx8Yb+Bse7wuBNlav/tmPT7bqWylgCIxX3V0NfiEoz82JzBdNaMxfWcMpdXgvxLV4UvxpkafUTU6Gr1KXcbfDQldnLjDpsCYmkYk/Fr7WaNiEIb5LruPWyyJt6WPyXDz2KsUNJjmqDDzfGM0gLRA0tlyDF/xqtucfQ==;HCI94L2y80zKJS0B3iClgg=="
+secured: "nfu07kXWPWW3AYgfsCJSO+ZN+BgIVaB4tbwVkFTbuA7l+VeEF2qF7X7rLkVwh76MP04bNGeNeLJCWCcMiGmKvNUQwG8VaXantsf8/kFtP7NDnDjVz+H0YU4eNuhKMIxKlXHref6clTKEzyOo4jIPf9WSMzOuRd26oBFF680ji9gVI4PEeaSpQU5ObMSsMhDWVVpUk6a29gO3buBogjolRBgM5iWcYVimu1R2rwhQvk73s4Xw5OAlMuJZJTE80jMRLlqaXhvYRKK++SQXS0TUcj8iWD8H1TC2WBKI0HHSNOX4ruBuAAFBcYQQF0zVv3u+GoIJvHtaGRITKYWHrzbsag==;D61LRLQ9MD6qrVaI6r1IDw=="
 ---
 

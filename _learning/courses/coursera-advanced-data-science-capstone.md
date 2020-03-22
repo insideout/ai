@@ -8,7 +8,7 @@ length: 10 hours
 ratings:
   count: 155
   average: 4.7
-heat: 7
+heat: 0
 
 provider:
   name: Coursera
@@ -34,6 +34,6 @@ images:
     height: 400
     title: "Advanced Data Science Capstone"
 
-secured: "EV9IG7Sr2npO8aPwGPoxJhDg28tRXC87TkcQ/8uofHHJr2Vz328+S0RguXVsaAUhXAMFdOaWm1olHb3Mx0WP6Nrb4xe4tP99BFu8JEHgsmDkouoNEtAgd2jfOjQriCk/5kIWTsIUBb/KdMvCf2BJSvvZfSkOE2IRbSe7TbH3yWX5kJTxUXjF7QtHlnvs2cZ55Yiiw96MxVUSEFv3llIRsTbzro48KIxAtE+bJFb5Bfks0YyEuX2kRCr2qp2pOakvLED5orFsQi2/golZoGLREg==;ys2AGCh5LUU5R2VWQgR+3w=="
+secured: "bGP65hfGgM1rIqlf4MLumTXfnmzZTFgjCugqwJmOn6vXxYErJqEamJqzeEJvsrVf2P88a+HqdBuAG7swsYJtiYzZcrSkqKurUUb5JDodaLr6M6ZvqM3+K8FWQ6qGlCRXXv+CnsDFZU9GW8l8uDZxydad0kwyNbiBGoEwCmf3oik9R4tIs156cKqfROK5xOAig4BioKelmaC7dl1Nvoaq6GWrFstJLCa8LR8c7/TQRbeekaaNDGnzG7zDXYxmeZrFkVzwastEZGDtCy5ytJQ2BTCnRx6cUTi+fw2/+21HB1t5vaXNuWs0fGEvJVcBVn/70H4fv6ZrwMeOLu8MieKxOQ==;7gAw2kxq/F/htDmddbnCqA=="
 ---
 

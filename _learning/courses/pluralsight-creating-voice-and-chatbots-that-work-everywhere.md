@@ -5,7 +5,7 @@ webUrl: https://www.pluralsight.com/courses/creating-voice-chatbots-work-everywh
 type: course
 price: $$
 length: 2h 26m
-heat: 
+heat: 0
 
 provider:
   name: Pluralsight
@@ -23,15 +23,15 @@ levels:
 topics:
   - AI
   - Natural Language Processing
-
 tags:
   - Chatbot
-  
+
 images:
   - url: https://pluralsight.imgix.net/course-images/audience/software-development.jpg
     width: 1280
     height: 720
     title: "Creating Voice and Chatbots That Work Everywhere"
 
+secured: "UNgiisQCWKY4ymitjn5Zkt57Hj5PpV33toREl28QtZnQt5LNRVNKKDXN+OTuhbZI3+ElnIpvY3npwy0bwreulqnaTKpvsgo2fTFqDkBqUY/VIdsATYqLxaYCnq4/4Byaj+a3TVTxq4Lqwj1kZ7HPygfbaMbxGgpWHs9SkM6yC7G775K56pYKBLvE/Oni1YuU2HN3L4cZXQRC1kPBUDglRU/Ht9QH0OFeoRE3lKNIfAHfttT3QfCRVYG1zKXu95b4mrvwAE+INxEA5MpDrNVNXO+ocsWIWzbMRkVv+9gWWn4FEsccj3QwhLZW/qjLLqNXyQ6nRC8C6H1uSIOCuyGEyg==;YjYf0UsLb24UZRy2NOXWqQ=="
 ---
 

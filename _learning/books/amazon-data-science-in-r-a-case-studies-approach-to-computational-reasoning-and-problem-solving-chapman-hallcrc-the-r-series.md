@@ -6,8 +6,8 @@ type: book
 price: $63.16
 length: 
 ratings:
-  count: 3
-  average: 4.6
+  count: 6
+  average: 4.2
 heat: 0
 
 provider:
@@ -33,6 +33,6 @@ images:
     height: 218
     title: "Data Science in R: A Case Studies Approach to Computational Reasoning and Problem Solving (Chapman & Hall/CRC The R Series)"
 
-secured: "034pjQ397+kCcc8kflGgMxHArxtBEbIzLwnfV2WDlced3+UuMQDesTaP7SM5DhL+r/6Ri+CmCNJLJeU6GHf79zN7VgM+V0PrTMpLtuxgQsviOlPOa4+cJAXH87UKLns7NPBSdiTami3DKfH5PYq1p3nmgOsZ/4Lq72LlFmC1Sj6B1o5Ev9NpYMeg9dzOpLyB5NYhsuhPG02zcRyliTCpUVL6hARWd4BxDZ+OgTTyyqG/KxpxpBMMl1tl25xHHxHN3uBZh+6hPhSoMEFOFXUmxQ==;WHOWtmjtSYcquG4mzXoXeg=="
+secured: "LzQ1MnxJH4751E11LbhYN6toWjDunGNytW09KjpFeDX3YTl/yfSM5eBbSOHQ9UenGR3lkanz0l4NYTACc8yIjTWWd9WDo0M/thVzLGSdHElGQiEIv8pyRpcDJCxhGvBJ5wBjWLEq8Oit8uLvkw0jJ7qHxmE5eEFzC+PGIeLAoE07YWLYHGjGlbzx9BNePTTZuuRvfIlHMtClVKuvOAwd6qqmGDstIN1n69Garc/ss6oDuyk80CxW4QA30+avVlcgDRnR9x2fZfDcY9AIc/DPP0gqdE9W+PVcinfo4t7+8rMBf8MbRGhRpq7yyEDIzDcaM0TkyluiQQWo5qUtQQrmzQ==;ihKMfQRG6+pL2gSCzWgy3g=="
 ---
 

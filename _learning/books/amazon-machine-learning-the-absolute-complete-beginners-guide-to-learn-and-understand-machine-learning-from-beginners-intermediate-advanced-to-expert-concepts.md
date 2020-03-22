@@ -6,9 +6,9 @@ type: book
 price: $18.59
 length: 
 ratings:
-  count: 31
-  average: 4.6
-heat: -2
+  count: 12
+  average: 3.5
+heat: -5
 
 provider:
   name: Amazon
@@ -35,6 +35,6 @@ images:
     height: 218
     title: "Machine Learning: The Absolute Complete Beginner’s Guide to Learn and Understand Machine Learning From Beginners, Intermediate, Advanced, To Expert Concepts"
 
-secured: "o6tqltemslxBhJtYNiziCaPJ6TuGntblTkNG0UD/NIA4DhPJ9QXk5YA7+343OWipA9UNw2b5DJ9sn9AArSLWkhRelEBhaCBttCPO6YcMl2w4ymOiZL2NyI+5OEbnF6M7PjexDhr9BgturhN8fQGpJE6JYOiGpVYjBes1URjP3l/W0YhyivGV4LSQzu3afW3qf7KmHrIWz8nzfPTXJ9RfwYyX4ee70fA2Wnu6y8Hcu3n66vE9rlA3DT+lAshLq3v/ABlRN9pXnKEy/T9Uo0vkiQ==;hprKZ6YwuBqsPd8r+QEaig=="
+secured: "vTr/Ttx6l6+LobYdQnquCPyWRcv1Y+mPPSORfHQbgysR4Z5yPQMf9ZMbP5xSD8twDTI4H77OpJVnoToHxseBOn7AeI/FOMLAY03DdyhofIOJElPPtTERXh6wQFufxtsmdx1zuhYdTOgbgjevBqu3l/Ptkhne0s/q3lYvW9Gu+7NqSSWTOBwa/X2eOMbHTF0URRE1Jta5HYitBEYt8HyJ2JfYEYIWI3qrAqvKtBaR9XGfd8k7YjpBIztGV+afqOsRjpGgEm0AF+m3ReBFZL7GvnZ0rBuRpD99mysCMSxirD8FmEpvUOFPBJD5OIr2blg2929o8p17TDFF2mL8Hlmn1A==;M/ZFp98Xktj9n28sAKTfOQ=="
 ---
 
