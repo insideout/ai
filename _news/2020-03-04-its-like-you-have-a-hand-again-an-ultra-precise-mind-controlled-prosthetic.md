@@ -1,23 +1,21 @@
 ---
 category: news
 title: "'It's like you have a hand again': An ultra-precise mind-controlled prosthetic"
-excerpt: "finger-level control of a robotic hand. In a major advance in mind-controlled prosthetics for amputees, University of Michigan researchers have tapped faint, latent signals from arm nerves and ..."
-publishedDateTime: 2020-03-04T00:00:00Z
-webUrl: "https://www.sciencedaily.com/releases/2020/03/200304141641.htm"
+excerpt: "In a major advance in mind-controlled prosthetics for amputees ... finger-level control of a robotic hand. To achieve this, the researchers developed a way to tame temperamental nerve endings ..."
+publishedDateTime: 2020-03-04T19:00:00Z
+webUrl: "https://medicalxpress.com/news/2020-03-ultra-precise-mind-controlled-prosthetic.html"
+ampWebUrl: "https://medicalxpress.com/news/2020-03-ultra-precise-mind-controlled-prosthetic.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-03-ultra-precise-mind-controlled-prosthetic.amp"
 type: article
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://insideout.app/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "/NzJAcJRgoMP3EwQ6CzLXiq4iElVBbKgatLCCxESWlOmtpJNmabxAVolsq5fCJI4Rr9KDTJ9CMaSELXzb7VHSPo4e3d0LaylC2biVHMX22cEeOCDpobBO8tukY7BDzMKcpObdAyadRkdtL7yZqDPfB3se5B8YccGpaOfyZtwJIv11OdZEJK7xsjOMO8sTsP/taY9kFGs3jKEaQyaiXMcygbXfXd4JfbKk+t/BHtDek6cyk4r1PfGGl59HYdHfhAHlTFpV+N89NtI4fSIEzMnsuK0HUdnblj1bhaxeRs+sCxvlhaPTC1616V8Om6hTex2;Bj5fIKqV8joQH4h3H5A+5A=="
+secured: "2QG/FPnCUa2I5U0kDeU2LHUpxBvVDya46gpJkxRVzUw+egxFi5Q89fAdsYlSnkZjR/nmvI0cBKWbTdBk7BzrQcv4yrqYNqEHSoAYo0sE+QR1ESPxFAa6DijwC8YhxhosySLupmev4SuOCAOKEgnLTUIthpNrb+SL+4KYzbbxAF4tG6gNQuX3WOBAjhTLaP6pe1NWqNc+s3/hJEgrUgcQ41CUb7b5DMUEqIblAtiruii/NeInNPfk1oV+F5ypLXxuVoCyo9XvA9eyN1tnUWJosgNcsE0KYTPDrntrPHJOh8LDF3HlBGYQVV8Oic9as1By;2EScuzOqRgWLSpc47QVp6Q=="
 ---
 

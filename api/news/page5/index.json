@@ -2,6 +2,35 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-03-18-enzo-villani-former-nasdaq-strategist-and-fintech-ma-executive-raising-100-million-for-new-hedge-fund-focused-on-blockchain-and-digital-currencies.md",
+      "title": "Enzo Villani, Former Nasdaq Strategist and Fintech M&A Executive Raising $100 Million for New Hedge Fund Focused on Blockchain and Digital Currencies",
+      "excerpt": "Alpha Sigma Capital combines executives from Wall Street, digital currency and private equity to fund blockchain companies that demonstrate promise.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.globenewswire.com/news-release/2020/03/18/2002586/0/en/Enzo-Villani-Former-Nasdaq-Strategist-and-Fintech-M-A-Executive-Raising-100-Million-for-New-Hedge-Fund-Focused-on-Blockchain-and-Digital-Currencies.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-18T05:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GlobeNewswire",
+        "domain": "globenewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-18-lanner-teams-with-gorilla-technology-to-launch-secure-edge-ai-appliance.md",
       "title": "Lanner Teams with Gorilla Technology to Launch Secure Edge AI Appliance",
       "excerpt": "/PRNewswire/ -- Lanner Electronics, a world leader in design and manufacturing of intelligent edge appliances, announced partnering with Gorilla",
@@ -943,35 +972,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-artificial-intelligence-helps-prevent-disruptions-in-fusion-devices.md",
-      "title": "Artificial intelligence helps prevent disruptions in fusion devices",
-      "excerpt": "An international team of scientists led by a graduate student at the U.S. Department of Energy's (DOE) Princeton Plasma Physics Laboratory (PPPL) has demonstrated the use of Artificial Intelligence (AI), the same computing concept that will empower self-driving cars, to predict and avoid disruptions—the sudden release of energy stored in the ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://phys.org/news/2020-03-artificial-intelligence-disruptions-fusion-devices.html",
-      "ampWebUrl": "https://phys.org/news/2020-03-artificial-intelligence-disruptions-fusion-devices.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-03-artificial-intelligence-disruptions-fusion-devices.amp",
-      "publishedDateTime": "2020-03-17T12:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

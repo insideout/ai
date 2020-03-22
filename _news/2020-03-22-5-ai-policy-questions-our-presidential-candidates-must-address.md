@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/03/22/5-ai-policy-questions-our-preside
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/22/5-ai-policy-questions-our-presidential-candidates-must-address/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 868
     title: "5 AI policy questions our presidential candidates must address"
 
-secured: "U3VGqMgpGgHisrj16rR/XJZ09O0FYMgfsDF/xPcb9bsPduThq82AW5b6gg/iGUrwVta6MsffPUjO6nT1wAc3ESxpRsK5mcwKpjVRy7YX/pnJ07NbhwAyop4i3TZbhom+GshAtJemXcQf0BWhZN4H1h5VY8Cc+43eANGj9nGbFOJqXmnWoLwKoMKCcBvZvvrus/sNXfbmvsAYDg0sPPC63y4gJxRo4/k62tFwUw34SvCWSED0GKVP4hrwaT8pCRaqNZqtJ6YbXTrGzHDx3LcU1lFIaydIYeaV0IVJLeshZQd75lP/JoWYbiLc0irT4e+iU2d1u6PnSxyFDim96HRhFCYt/JOS4ZMDhwPLtjXFVSzpYdNtiK1seplAe0RTvnuvlw1zvDFiWP3BLM+cSE9k1/DtNdtZpmgEY0tbqIkmDKhUowOrJeU+lw93auw2YQesmFnb4nkXWVCwjJHyE3b6oMe9CGTsZ3r5yySMULo3Vus=;uRSEkZyjdNDa+2QuwAEF6A=="
+secured: "9La1fVpvCGvmmFj8f86y8I7BxJyA3NXnphhlfjWe2gIaxLYXNqO/vRzkTdaGOzKKQAJH+1eIYRZVs3QR4Lxn9OdFCQxEBTCYi2TjlidGjJQl8q5fC94NhX8eZ/kgMyXq+ipXeZzTcWXgilyuuVhvkdGPPuZp5C+o8tL+3J9qYnD2W3146qLq6oUPmNnax2GsKrosD4NGGjeoEErNwvl/Oo+uJFUaIRa7lMBvgPTUMO2exhHjQY2jFrtar6TdO4NGkV/CFNcfF5IFFohDtDeaLWOomQRuZe1zzWn91f9Ij87eAbSKPm0oquMqaW1drcKtuU8+0+xXR8BLc6rKwJACRf3sJ6C88uFqXqYXZ2lEG8dsTmHO+v6cj6Ywpc10iF6wxTKCXcSsbr5l5JZ2WbJCYbKVn1j3GOOlj8hNJrQn9pyVjyFgOZMcQZnRqu/0P1pATwcYOdaZZiZOt/nzVxg/L5/TgaUpvjSv75b8ir7hiJo=;nEn1WVDTb+coqqJfNQZjfg=="
 ---
 

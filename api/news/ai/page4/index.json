@@ -2,6 +2,51 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-03-18-intel-debuts-pohoiki-springs-a-powerful-neuromorphic-research-system-for-ai-workloads.md",
+      "title": "Intel debuts Pohoiki Springs, a powerful neuromorphic research system for AI workloads",
+      "excerpt": "Just this week, Intel demonstrated that the chips can be used to “teach” an AI model to distinguish among 10 different scents. “Pohoiki Springs enables our research partners to explore ways to accelerate workloads that run slowly today on conventional architectures, including high-performance computing systems,” said Intel neuromorphic ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/18/intel-debuts-pohoiki-springs-a-powerful-neuromorphic-research-system-for-ai-workloads/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/18/intel-debuts-pohoiki-springs-a-powerful-neuromorphic-research-system-for-ai-workloads/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/18/intel-debuts-pohoiki-springs-a-powerful-neuromorphic-research-system-for-ai-workloads/amp/",
+      "publishedDateTime": "2020-03-18T07:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/07/Loihi-close-up-e1584209140290.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Intel debuts Pohoiki Springs, a powerful neuromorphic research system for AI workloads",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-18-85-of-organizations-are-using-ai-in-deployed-applications.md",
       "title": "85% of organizations are using AI in deployed applications",
       "excerpt": "For mature adopters, the need to control for interpretability and transparency of machine learning models was the second-most cited risk factor (~55%), while those still evaluating AI placed fairness, bias, and ethics (~40%) in second place. While the risks of AI can be intimidating, the benefits can be worth the risk. For all adopters ...",
@@ -1159,35 +1204,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-behringer-deepmind-6-analog-6-voice-polyphonic-synth-bundle.md",
-      "title": "Behringer DeepMind 6 Analog 6-Voice Polyphonic Synth Bundle",
-      "excerpt": "Free shipping to the the 48 Contiguous States. Hawaii and Alaska orders are welcome but may incur an additional shipping charge. Please message us for details if necessary. The standard shipping method on smaller items is USPS Priority and larger items ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://reverb.com/item/10753498-behringer-deepmind-6-analog-6-voice-polyphonic-synth-bundle",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-17T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reverb.com",
-        "domain": "reverb.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

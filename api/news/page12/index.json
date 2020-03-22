@@ -2,6 +2,35 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-03-12-memory-systems-for-ai-part-4.md",
+      "title": "Memory Systems for AI: Part 4",
+      "excerpt": "In this blog post, we’ll be taking a closer look at a Roofline model that illustrates how AI applications perform on Google’s tensor processing unit (TPU), NVIDIA’s K80 GPU and Intel’s Haswell CPU. The graph above is featured in a paper published by Google a couple of years ago detailing the first-generation Tensor Processing Unit (TPU).",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.design-reuse.com/industryexpertblogs/47679/memory-systems-for-ai-part-4.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-12T07:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design-Reuse",
+        "domain": "design-reuse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-12-agtech-startups-use-machine-learning-to-analyze-farm-data.md",
       "title": "Agtech Startups Use Machine Learning to Analyze Farm Data",
       "excerpt": "Startups focused on agriculture and aquaculture technology are turning to cloud-based machine-learning services to process and analyze data so they can give customers better predictions on fertilizer needs,",
@@ -920,43 +949,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-11-how-baidu-is-bringing-ai-to-the-fight-against-coronavirus.md",
-      "title": "How Baidu is bringing AI to the fight against coronavirus",
-      "excerpt": "Apollo, Baidu’s autonomous vehicle platform, partnered with a local self-driving startup called Neolix to deliver supplies and food to the Beijing Haidian Hospital. With daily deliveries, this initiative is helping feed over 100 frontline staff members as they work to treat their growing patient base. Baidu Apollo has also made its low-speed ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.technologyreview.com/s/615342/how-baidu-is-bringing-ai-to-the-fight-against-coronavirus/",
-      "ampWebUrl": "https://www.technologyreview.com/s/615342/how-baidu-is-bringing-ai-to-the-fight-against-coronavirus/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/s/615342/how-baidu-is-bringing-ai-to-the-fight-against-coronavirus/amp/",
-      "publishedDateTime": "2020-03-11T10:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.technologyreview.com/i/images/picture1_4.png?sw=600&cx=0&cy=0&cw=780&ch=439",
-          "width": 600,
-          "height": 337,
-          "title": "How Baidu is bringing AI to the fight against coronavirus",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

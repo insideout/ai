@@ -2,6 +2,186 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2020-01-30-alphabet-earnings-might-google-make-a-fourth-quarter-comeback.md",
+      "title": "Alphabet Earnings: Might Google Make A Fourth Quarter Comeback?",
+      "excerpt": "Key Takeaways:Third-party analyst consensus sees quarterly adjusted earnings of $12.55 per share on revenue of $46.93 billion.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/jjkinahan/2020/01/30/alphabet-earnings-might-google-make-a-fourth-quarter-comeback/",
+      "ampWebUrl": "https://www.forbes.com/sites/jjkinahan/2020/01/30/alphabet-earnings-might-google-make-a-fourth-quarter-comeback/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jjkinahan/2020/01/30/alphabet-earnings-might-google-make-a-fourth-quarter-comeback/amp/",
+      "publishedDateTime": "2020-01-30T08:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e32fbe9a854780006aff826%2F0x0.jpg",
+          "width": 507,
+          "height": 290,
+          "title": "Alphabet Earnings: Might Google Make A Fourth Quarter Comeback?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-01-30-free-ai-developer-app-ibms-new-tool-can-label-objects-in-videos-for-you.md",
+      "title": "Free AI developer app: IBM's new tool can label objects in videos for you",
+      "excerpt": "IBM estimates it takes 200 to 500 samples of hand-labeled images for an AI object-recognition model to detect a specific object. SEE: How to implement AI and machine learning (ZDNet special report ...",
+      "heat": 90,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/free-ai-developer-app-ibms-new-tool-can-label-objects-in-videos-for-you/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/free-ai-developer-app-ibms-new-tool-can-label-objects-in-videos-for-you/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/free-ai-developer-app-ibms-new-tool-can-label-objects-in-videos-for-you/",
+      "publishedDateTime": "2020-01-30T07:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2019/05/15/0f3f7afe-160c-451d-babe-17ed14a1c12a/thumbnail/1200x675/b87d99aee9c8455f3ae1be92387d7290/cloud-computing-and-ai-can-ibm-finally-c-5cd59307fe727300c4b89bff-1-may-15-2019-11-42-48-poster.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Free AI developer app: IBM's new tool can label objects in videos for you",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-30-google-researchers-release-audit-framework-to-close-ai-accountability-gap.md",
+      "title": "Google researchers release audit framework to close AI accountability gap",
+      "excerpt": "translates into practice values often espoused in AI ethics principles and tackles an accountability gap authors say exists in AI today. The work, titled “Closing the AI Accountability Gap ...",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/30/google-researchers-release-audit-framework-to-close-ai-accountability-gap/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/30/google-researchers-release-audit-framework-to-close-ai-accountability-gap/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/30/google-researchers-release-audit-framework-to-close-ai-accountability-gap/amp/",
+      "publishedDateTime": "2020-01-30T07:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/05/machine_learning.jpg?fit=2116%2C1357&strip=all",
+          "width": 2116,
+          "height": 1357,
+          "title": "Google researchers release audit framework to close AI accountability gap",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-01-30-ai-finds-square-structure-inside-triangle-on-ceres-failing-experiment-to-see-if-it-could-be-used-to-find-aliens.md",
+      "title": "AI Finds 'Square Structure' Inside 'Triangle' on Ceres, Failing Experiment to See If It Could Be Used to Find Aliens",
+      "excerpt": "In an experiment designed to see if artificial intelligence could be used to discover extraterrestrials, it detected an unusual \"square structure\" inside a \"triangle\" on Ceres, a dwarf planet that sits in the asteroid belt between Mars and Jupiter.",
+      "heat": 164,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.newsweek.com/ai-weird-square-structure-ceres-aliens-1484856",
+      "ampWebUrl": "https://www.newsweek.com/ai-weird-square-structure-ceres-aliens-1484856?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ai-weird-square-structure-ceres-aliens-1484856?amp=1",
+      "publishedDateTime": "2020-01-30T07:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1563805/bright-spots.jpg",
+          "width": 720,
+          "height": 400,
+          "title": "AI Finds 'Square Structure' Inside 'Triangle' on Ceres, Failing Experiment to See If It Could Be Used to Find Aliens",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-30-backup-drivers-for-ai-self-driving-cars-arent-a-guarantee-of-safety-so-heres-what-needs-to-be-done.md",
       "title": "Backup Drivers For AI Self-Driving Cars Aren’t A Guarantee Of Safety, So Here’s What Needs To Be Done",
       "excerpt": "When you get behind the wheel of a car, it is a solemn duty and one that holds you responsible for what the car ends up doing. While driving, if you suddenly realize that you are about to ram into another car,",
@@ -1107,170 +1287,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-01-29-ups-teams-up-with-waymo-to-test-self-driving-delivery-vans.md",
-      "title": "UPS teams up with Waymo to test self-driving delivery vans",
-      "excerpt": "Washington, DC (CNN)Waymo is teaming up with UPS to test the use of its self-driving vans in transporting packages. Waymo, the self-driving arm of Google's (GOOG) parent company Alphabet, will use its autonomous Chrysler Pacifica minivans to bring packages from UPS stores in the Phoenix area to a UPS sorting facility in Tempe,",
-      "heat": 329,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnn.com/2020/01/29/tech/ups-waymo-self-driving-package-delivery/index.html",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/01/29/tech/ups-waymo-self-driving-package-delivery/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/01/29/tech/ups-waymo-self-driving-package-delivery/index.html",
-      "publishedDateTime": "2020-01-29T13:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200129135300-waymo-ups-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": "UPS teams up with Waymo to test self-driving delivery vans",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-01-29-amazon-comprehend-now-supports-multi-label-custom-classification.md",
-      "title": "Amazon Comprehend now supports multi-label custom classification",
-      "excerpt": "Amazon Comprehend is a fully managed natural language processing (NLP) service that enables text analytics to extract insights from the content of documents. Amazon Comprehend supports custom classification and enables you to build custom classifiers that are specific to your requirements, without the",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-comprehend-now-supports-multi-label-custom-classification/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-29T13:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/01/15/comprehend-multi-label-classification-1.gif",
-          "width": 1000,
-          "height": 420,
-          "title": "Amazon Comprehend now supports multi-label custom classification",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-29-house-ethics-committee-warns-lawmakers-against-posting-deepfakes.md",
-      "title": "House ethics committee warns lawmakers against posting deepfakes",
-      "excerpt": "The House Ethics Committee is advising lawmakers against posting manipulated videos and photos on their social media accounts, warning they could face repercussions for tweets and Facebook posts that",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thehill.com/policy/technology/480564-house-ethics-committee-warns-lawmakers-against-posting-deepfakes",
-      "ampWebUrl": "https://thehill.com/policy/technology/480564-house-ethics-committee-warns-lawmakers-against-posting-deepfakes?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/480564-house-ethics-committee-warns-lawmakers-against-posting-deepfakes?amp",
-      "publishedDateTime": "2020-01-29T13:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/article_images/congressional_ethics_oce_getty.jpg",
-          "width": 980,
-          "height": 551,
-          "title": "House ethics committee warns lawmakers against posting deepfakes",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-01-29-microsoft-q2-2020-earnings-369-billion-in-revenue-driven-by-big-azure-surface-growth.md",
-      "title": "Microsoft Q2 2020 earnings: $36.9 billion in revenue driven by big Azure, Surface growth",
-      "excerpt": "It doesn't appear the Surface Pro X is one of the currently supported devices for Microsoft's Surface Dock update tool. Microsoft today announced a new addition to its AI for Good program. Called AI for Health, the initiative will see Microsoft invest $40 million over the next five years to improve health outcomes for people around the world.",
-      "heat": 75,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.windowscentral.com/microsoft-q2-earnings",
-      "ampWebUrl": "https://www.windowscentral.com/microsoft-q2-earnings?amp",
-      "cdnAmpWebUrl": "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-q2-earnings?amp",
-      "publishedDateTime": "2020-01-29T12:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows Central",
-        "domain": "windowscentral.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2019/11/microsoft-logo-ignite-2019.jpg?itok=T29z3T0D",
-          "width": 800,
-          "height": 600,
-          "title": "Microsoft Q2 2020 earnings: $36.9 billion in revenue driven by big Azure, Surface growth",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

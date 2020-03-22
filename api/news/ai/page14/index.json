@@ -2,6 +2,72 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-03-09-artificial-intelligence-ai-in-alzheimers-applications.md",
+      "title": "Artificial Intelligence (AI) in Alzheimer’s Applications",
+      "excerpt": "and a detailed review of how AI is being applied in fighting Alzheimer disease. - Introduction to Alzheimer’s and main medical issues.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.globenewswire.com/news-release/2020/03/09/1996993/0/en/Artificial-Intelligence-AI-in-Alzheimer-s-Applications.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-09T03:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GlobeNewswire",
+        "domain": "globenewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-09-anterior-retrosplenial-cortex-is-required-for-long-term-object-recognition-memory.md",
+      "title": "Anterior retrosplenial cortex is required for long-term object recognition memory",
+      "excerpt": "The retrosplenial cortex (RSC) is implicated on navigation and contextual memory. Lesions studies showed that the RSC shares functional similarities with the hippocampus (HP). Here we evaluated the role of the anterior RSC (aRSC) in the “what” and “where” components of recognition memory and contrasted it with that of the dorsal HP (dHP).",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nature.com/articles/s41598-020-60937-z",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-09T03:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-60937-z/MediaObjects/41598_2020_60937_Fig1_HTML.png",
+          "width": 407,
+          "height": 685,
+          "title": "Anterior retrosplenial cortex is required for long-term object recognition memory",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-09-artificial-intelligence-in-healthcare-market-2020-global-key-players-trends-share-industry-size-segmentation-opportunities-forecast-to-2026.md",
       "title": "Artificial Intelligence in Healthcare Market 2020: Global Key Players, Trends, Share, Industry Size, Segmentation, Opportunities, Forecast To 2026",
       "excerpt": "“Artificial Intelligence in Healthcare Market” Summary: A new market study, titled \"Global Artificial Intelligence in Healthcare Market Upcoming Trends,",
@@ -832,6 +898,51 @@
       ]
     },
     {
+      "path": "_news/2020-03-05-microsoft-azure-cisco-team-up-to-simplify-iot-deployments.md",
+      "title": "Microsoft Azure, Cisco team up to simplify IoT deployments",
+      "excerpt": "Once that data is in the hub, teams can use services like Azure Stream Analytics or Azure Machine Learning to build IoT applications. Microsoft said in its blog post that this should \"kickstart ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/microsoft-azure-cisco-team-up-to-simplify-iot-deployments/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-azure-cisco-team-up-to-simplify-iot-deployments/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-azure-cisco-team-up-to-simplify-iot-deployments/",
+      "publishedDateTime": "2020-03-05T11:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/02/14/b263e8aa-1b65-4c1b-885e-3ad5770ebf6c/thumbnail/1200x675/495b3b7e0a7e4d872cf6b4d8845edc71/netflixistock-992007460.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Microsoft Azure, Cisco team up to simplify IoT deployments",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-05-neural-hardware-for-image-recognition-in-nanoseconds.md",
       "title": "Neural hardware for image recognition in nanoseconds",
       "excerpt": "This makes object recognition many orders of magnitude faster.\" The chip was developed and manufactured at the TU Vienna. It is based on photodetectors made of tungsten diselenide - an ultra-thin ...",
@@ -1013,133 +1124,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-05-using-a-robotic-arm-on-wheels-to-fight-coronavirus.md",
-      "title": "Using a robotic 'arm on wheels' to fight coronavirus",
-      "excerpt": "Using a robotic 'arm on wheels' to fight coronavirus Posted Researchers in China have developed a robot which they hope will help doctors who are working with coronavirus patients on the frontlines.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://in.reuters.com/video/watch/idOVC3S699N",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-05T01:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static.reuters.com/resources/r/?d=20200305&i=OVC3S699N&r=OVC3S699N&t=2",
-          "width": 960,
-          "height": 540,
-          "title": "Using a robotic 'arm on wheels' to fight coronavirus",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-05-scientists-devise-prosthetic-arm-controlled-by-mind.md",
-      "title": "Scientists devise prosthetic arm controlled by mind",
-      "excerpt": "Scientists have devised a mind-controlled prosthetic arm that is so dexterous it ... The messages are sent to a robotic hand, allowing the correct finger or thumb to move in the intended way. Scientists believe that it could change the way that amputees ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.thetimes.co.uk/article/scientists-devise-prosthetic-arm-controlled-by-mind-89532xsvn",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-04T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Times",
-        "domain": "thetimes.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fe9fde808-5e50-11ea-9891-dcb2edabd2b0.jpg?crop=1557%2C876%2C0%2C81&resize=685",
-          "width": 685,
-          "height": 385,
-          "title": "Scientists devise prosthetic arm controlled by mind",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-04-surprise-aws-leads-in-cloud-ai-services-ranking.md",
-      "title": "Surprise! AWS Leads In 'Cloud AI Services' Ranking",
-      "excerpt": "Everyone reading this article knows that the cloud space is hot. And it's comprised of many different types of services and platforms to complete a full stack. Ten years ago, it was sufficient to just call the space “cloud”,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/03/04/surprise-aws-leads-in-cloud-ai-services-ranking/",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/03/04/surprise-aws-leads-in-cloud-ai-services-ranking/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/03/04/surprise-aws-leads-in-cloud-ai-services-ranking/amp/",
-      "publishedDateTime": "2020-03-04T15:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e6017d8e1e617000758dc82%2F0x0.jpg",
-          "width": 975,
-          "height": 549,
-          "title": "Surprise! AWS Leads In 'Cloud AI Services' Ranking",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

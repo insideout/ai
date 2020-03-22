@@ -2,6 +2,35 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-03-18-behringer-deepmind-6-analog-6-voice-polyphonic-synth-bundle.md",
+      "title": "Behringer DeepMind 6 Analog 6-Voice Polyphonic Synth Bundle",
+      "excerpt": "Free shipping to the the 48 Contiguous States. Hawaii and Alaska orders are welcome but may incur an additional shipping charge. Please message us for details if necessary. The standard shipping method on smaller items is USPS Priority and larger items ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://reverb.com/item/10753498-behringer-deepmind-6-analog-6-voice-polyphonic-synth-bundle",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-17T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reverb.com",
+        "domain": "reverb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-17-microsoft-to-help-kubota-explore-ai-application-in-agriculture.md",
       "title": "Microsoft To Help Kubota Explore AI Application In Agriculture",
       "excerpt": "(RTTNews) - Tech giant Microsoft (MSFT) is set to help Japanese tractor and heavy equipment manufacturer Kubota with digital transformation. Both the companies have entered a multi-year strategic alliance,",
@@ -1111,43 +1140,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-moodys-analytics-vince-il-regtech-innovation-award-ai-fintech-breakthrough-awards.md",
-      "title": "Moody’s Analytics vince il RegTech Innovation Award ai FinTech Breakthrough Awards",
-      "excerpt": "LONDRA--(BUSINESS WIRE)--Moody’s Analytics, fornitore globale di intelligence finanziaria, ha vinto il premio RegTech Innovation Award ai 2020 FinTech Breakthrough Awards. Il riconoscimento ha premiato le nostre soluzioni tecnologiche normative software-as-a-service (SaaS). L'anno scorso abbiamo vinto un riconoscimento per Best Wealth ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businesswire.com/news/home/20200317005471/it/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-17T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200317005471/it/779410/23/FinTech_Breakthrough_Awards_2020_Moodys.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": "Moody’s Analytics vince il RegTech Innovation Award ai FinTech Breakthrough Awards",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

@@ -478,31 +478,31 @@
     {
       "path": "_news/2020-03-10-transperfect-announces-metrics-service-and-additional-capabilities-to-enhance-accuracy-in-translation.md",
       "title": "TransPerfect Announces Metrics Service and Additional Capabilities to Enhance Accuracy in Translation",
-      "excerpt": "/PRNewswire/ -- TransPerfect, the world's largest provider of language and technology solutions for global business, today announced the TransPerfect",
+      "excerpt": "NEW YORK, March 10, 2020 /PRNewswire/ -- TransPerfect, the world's largest provider of language and technology solutions for global business, today announced the TransPerfect Metrics Service ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.prnewswire.com/news-releases/transperfect-announces-metrics-service-and-additional-capabilities-to-enhance-accuracy-in-translation-301020975.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-10T12:36:00-07:00",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/transperfect-announces-metrics-service-and-additional-capabilities-to-enhance-accuracy-in-translation-1028982622",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/transperfect-announces-metrics-service-and-additional-capabilities-to-enhance-accuracy-in-translation-1028982622",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/transperfect-announces-metrics-service-and-additional-capabilities-to-enhance-accuracy-in-translation-1028982622",
+      "publishedDateTime": "2020-03-10T12:38:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/321003/transperfect_logo.jpg?p=facebook",
-          "width": 2700,
-          "height": 1414,
-          "title": "TransPerfect Announces Metrics Service and Additional Capabilities to Enhance Accuracy in Translation",
-          "attribution": null
-        }
-      ],
+      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
