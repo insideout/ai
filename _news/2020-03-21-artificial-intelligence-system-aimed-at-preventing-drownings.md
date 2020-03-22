@@ -1,24 +1,27 @@
 ---
 category: news
-title: "Artificial intelligence system aimed at preventing drownings"
+title: "Artificial Intelligence System Aimed at Preventing Drownings"
 excerpt: "The device resembles a stingray, except it doesn’t patrol the water in search of prey -- rather than threaten humans, it aims to save them."
-publishedDateTime: 2020-03-21T22:41:00Z
-webUrl: "https://www.kansascity.com/news/article241279376.html"
-ampWebUrl: "https://amp.kansascity.com/news/article241279376.html"
-cdnAmpWebUrl: "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/news/article241279376.html"
+publishedDateTime: 2020-03-21T07:20:00Z
+webUrl: "https://www.usnews.com/news/best-states/pennsylvania/articles/2020-03-21/artificial-intelligence-system-aimed-at-preventing-drownings"
+ampWebUrl: "https://www.usnews.com/news/best-states/pennsylvania/articles/2020-03-21/artificial-intelligence-system-aimed-at-preventing-drownings?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/pennsylvania/articles/2020-03-21/artificial-intelligence-system-aimed-at-preventing-drownings?context=amp"
 type: article
-quality: 54
-heat: 54
-published: false
+quality: 82
+heat: 82
+published: true
 
 provider:
-  name: Kansas City Star
-  domain: kansascity.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://ai.insideout.app/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Robotics
   - AI
 
-secured: "WYu+QH03OQ4zAPqD41OO/A+D1HQZM7rbXuk/gyqdk6sjzNTarHdNE65LLq8Kg9qtk9MAqYHs+f7g/tpxJmAYPLmRuEM4QmcoY6slQSn5Day+5Z/zra5ADkxyY7vmJBxs/5gCZG6/1ZY2AEYuUXJ245r6nvbNz4bqsk8NgVORLfKwvEv17xzv8Irl6L0KpnMwFLxx54vp1cADLI6P5HteqSvFeJ+TS0Iqt7UuhqiAzbuyjY1T/NG9UZWzC/Z+5iuON0CNmAxGoGz9lZRpsKmU4pQ3lCahW543mJ/UfXPKdZsIrkj7moS50xtpb2DAg7eoB1sv0ofBfqaIWVPW9HxxkGmwjLKE1P+izPfg7s/60FVvMyoLnzWkwnQv6Ik7y+pOTsKnPlfke+gaX/2TZRD+U1qBKpS+UTMrtX8EkMKXggsyRgRen3GSBH1fDF237g4CpJeJFGReO+PdQ5/jUKk6qfQe9qoU+ECCQNdVR91H/YI=;vbP3X7jRYxKwcega0LsaaQ=="
+secured: "vbwOhXkA9T5x2MKUWn+i8PSeahqFu+9xQPhECbzn/mieMIXnslk5L0LH/8myaJ1oBecH2NusqUEo3ONansMcNzBlckUsqx1N8ewDeK+tdgP2UV3ZtsFO6nuO06UzqrF4G+dujY7Ede1vqRaBTcUyRMEcA/5pCkV17EnPhtBbGQGhpjfmPasP2FvO8awNfjHBUlnYcnDIM/F11J2fuJ19L298AQGxp9da5kqD6WlzrhBFgUdSZJFy4cPqpJWWVhl+Rmf7PfmgqXYCANihaPLiWtywstaBNlTtkdSkLVasdgkoOl67EpuK523yngxnzzi0RPS0RGT3zlkww0MHxDROQ5280BNOUDaHMdtWTrLF0zGTyAKTmJr6szO3EvETBOhlG646RgSw31diQZdHftPEOORlqRRLG75W3dy0d0D8QWIRCQxnqJ0w+opxAqiphxgfAdU/Gm3AcAiMOHNitxjbvcym253L4pdZU4WS58hs8YQ=;hjI3oUlGPmdssw81ARKcoA=="
 ---
 

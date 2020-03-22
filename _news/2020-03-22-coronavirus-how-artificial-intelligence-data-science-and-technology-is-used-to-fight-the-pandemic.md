@@ -5,8 +5,8 @@ excerpt: "As China initiated its response to the virus, it leaned on its strong 
 publishedDateTime: 2020-03-22T14:32:00Z
 webUrl: "https://www.linkedin.com/pulse/coronavirus-how-artificial-intelligence-data-science-technology-marr"
 type: article
-quality: 25
-heat: 25
+quality: 27
+heat: 27
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 topics:
   - AI
   - AI in Robotics
+  - AI in Healthcare
 
 images:
   - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGI7E6XkSufXw/article-cover_image-shrink_720_1280/0?e=1590624000&v=beta&t=4ZclG887e2SUTWMm7KUI729sJ_-LaKj7AiR8cQNtWbs"

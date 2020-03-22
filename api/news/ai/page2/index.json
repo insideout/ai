@@ -2,6 +2,88 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-03-19-microsoft-teams-update-adds-ai-background-noise-removal.md",
+      "title": "Microsoft Teams Update Adds AI Background Noise Removal",
+      "excerpt": "Microsoft's workforce collaboration service, Teams, got an update today, adding AI-powered background noise reduction in online meetings, a Bookings feature, and a RealWear hands-free hard-hat technology integration. Since in-person meetings are a no-no ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.pcmag.com/news/microsoft-teams-update-adds-ai-background-noise-removal",
+      "ampWebUrl": "https://www.pcmag.com/news/microsoft-teams-update-adds-ai-background-noise-removal?amp=true",
+      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/microsoft-teams-update-adds-ai-background-noise-removal?amp=true",
+      "publishedDateTime": "2020-03-19T08:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://ai.insideout.app/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/00mmXZY5zaCUdlluCPuJHHL-6.fit_lim.size_1200x630.v_1584632844.jpg",
+          "width": 1121,
+          "height": 630,
+          "title": "Microsoft Teams Update Adds AI Background Noise Removal",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-19-how-machine-learning-improves-banks-customer-experience.md",
+      "title": "How Machine Learning Improves Banks’ Customer Experience",
+      "excerpt": "Improved machine learning algorithms are pushing this process into the mainstream as a way for banks to significantly improve customer service. Here are four ways financial firms are using machine learning algorithms to their advantage. Customers applying for credit or looking for loan application approval historically waited weeks. Now ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://biztechmagazine.com/article/2020/03/how-machine-learning-improves-banks-customer-experience",
+      "ampWebUrl": "https://biztechmagazine.com/article/2020/03/how-machine-learning-improves-banks-customer-experience?amp",
+      "cdnAmpWebUrl": "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2020/03/how-machine-learning-improves-banks-customer-experience?amp",
+      "publishedDateTime": "2020-03-19T07:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BizTech",
+        "domain": "biztechmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202003/banks%20ML%20hero.jpg?itok=kxlpkwBL",
+          "width": 1440,
+          "height": 500,
+          "title": "How Machine Learning Improves Banks’ Customer Experience",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-03-19-alibaba-cloud-offers-ai-cloud-services-to-help-battle-covid-19-globally.md",
       "title": "Alibaba Cloud Offers AI, Cloud Services to Help Battle COVID-19 Globally",
       "excerpt": "Through video conferencing and real-time AI translation into 11 languages (Arabic, Bahasa, Chinese, English, French, Japanese, Russian, Spanish, Thai, Turkish, and Vietnamese), Alibaba Cloud aims to build a virtual community, inviting Chinese doctors to share their experiences and answer questions from global peers. From Alibaba DAMO Academy ...",
@@ -1069,88 +1151,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-how-artificial-intelligence-will-impact-your-business-in-2020.md",
-      "title": "How Artificial Intelligence Will Impact Your Business in 2020",
-      "excerpt": "Robotics Process Optimizations may be an unfamiliar term to some ... transcending issues that threaten to hold them back and overcoming difficulties in today’s complex business landscape. Artificial intelligence is becoming more widely used every day, and that will only increase moving forward. IDC predicts that by 2025, 75 percent of ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://independentretailer.com/2020/03/19/how-artificial-intelligence-will-impact-your-business-in-2020/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-19T03:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Independent Retailer",
-        "domain": "independentretailer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://independentretailer.com/wp-content/uploads/2020/03/artificial-intelligence-300x188.png",
-          "width": 2154,
-          "height": 1350,
-          "title": "How Artificial Intelligence Will Impact Your Business in 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-artificial-intelligence-in-retail-market-2023-size-share-business-growth-competitive-landscape-historical-analysis-and-forecast.md",
-      "title": "Artificial Intelligence in Retail Market 2023 Size, Share, Business Growth, Competitive Landscape, Historical Analysis and Forecast",
-      "excerpt": "Artificial Intelligence in Retail Market Global Artificial Intelligence in Retail Market, Application",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-2023-size-share-business-growth-competitive-landscape-historical-analysis-and-forecast-2020-03-19",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-19T02:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence in Retail Market 2023 Size, Share, Business Growth, Competitive Landscape, Historical Analysis and Forecast",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI",
         "Machine Learning"
       ]

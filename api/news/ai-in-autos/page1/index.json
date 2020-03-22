@@ -929,6 +929,43 @@
       ]
     },
     {
+      "path": "_news/2020-03-12-ai-is-failing-women-that-needs-to-change.md",
+      "title": "AI is Failing Women. That Needs to Change.",
+      "excerpt": "From robots and voice recognition to smart fridges and driverless cars – artificial intelligence is becoming widespread – but will these advancements meet the requirements of both men and women? Without diversity, the answer is no, writes Shawn Tan, CEO of AI ecosystem builder Skymind Global Ventures. Women and men don’t hold the same ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cbronline.com/opinion/ai-is-failing-women",
+      "ampWebUrl": "https://www.cbronline.com/opinion/ai-is-failing-women/amp/",
+      "cdnAmpWebUrl": "https://www-cbronline-com.cdn.ampproject.org/c/s/www.cbronline.com/opinion/ai-is-failing-women/amp/",
+      "publishedDateTime": "2020-03-12T03:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Business Review",
+        "domain": "cbronline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.cbronline.com/wp-content/uploads/2020/03/miguel-bruna-TzVN0xQhWaQ-unsplash-1024x587.jpg",
+          "width": 1024,
+          "height": 587,
+          "title": "AI is Failing Women. That Needs to Change.",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-11-how-baidu-is-bringing-ai-to-the-fight-against-coronavirus.md",
       "title": "How Baidu is bringing AI to the fight against coronavirus",
       "excerpt": "Apollo, Baidu’s autonomous vehicle platform, partnered with a local self-driving startup called Neolix to deliver supplies and food to the Beijing Haidian Hospital. With daily deliveries, this initiative is helping feed over 100 frontline staff members as they work to treat their growing patient base. Baidu Apollo has also made its low-speed ...",
@@ -1112,51 +1149,6 @@
         "AI in Autos",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-03-09-the-role-of-human-judgment-as-a-presumed-integral-ingredient-for-achieving-true-ai.md",
-      "title": "The Role Of Human Judgment As A Presumed Integral Ingredient For Achieving True AI",
-      "excerpt": "Is the embodiment of human judgment a required ingredient in achieving true AI? It is a rather seemingly simple question to proffer, though any mindful answer is likely to be notably elongated. Here’s why.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/03/09/the-role-of-human-judgment-as-a-presumed-integral-ingredient-for-achieving-true-ai/",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/03/09/the-role-of-human-judgment-as-a-presumed-integral-ingredient-for-achieving-true-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/03/09/the-role-of-human-judgment-as-a-presumed-integral-ingredient-for-achieving-true-ai/amp/",
-      "publishedDateTime": "2020-03-09T07:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e65a45f44b78400068c4fac%2F0x0.jpg%3FcropX1%3D312%26cropX2%3D5378%26cropY1%3D0%26cropY2%3D3800",
-          "width": 1200,
-          "height": 900,
-          "title": "The Role Of Human Judgment As A Presumed Integral Ingredient For Achieving True AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],
