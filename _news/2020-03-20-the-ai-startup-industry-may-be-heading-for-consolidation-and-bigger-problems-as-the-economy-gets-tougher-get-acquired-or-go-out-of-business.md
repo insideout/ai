@@ -26,6 +26,6 @@ images:
     height: 600
     title: "The AI startup industry may be heading for consolidation and bigger problems as the economy gets tougher: 'Get acquired or go out of business'"
 
-secured: "s7Vs2NycxZ+L/9iPYC2T2Nfsx/PIXt7DixkpEjBjko0zaQtu7x18F2ZFzyCRHs/72kKLv+wEBOgQMAEUXn1TVObiaZl5dQp406KdJf3nCw48aMcnsFTobBWKVVLy4HyuorAlNNvVoeVXRxIPeNOwFwbFBwf/WHQspsjAnr/UkTqhcTMg/DG3+TQykH0EJ+t19RMeSj2+Os/OdEcVuQTKqq1tnhaLzs2jMFWZXaKpUrTgyDFIKhwfTphWP4GNramuo2V11MpIQ4EVFJEGKNZPbN+69nrqKF8VPCstQF/Mw7SWD4AyCgh8hXkdhw7TAYWJ;kQlgq9kJw8txOy5OctlkUw=="
+secured: "c6YQWVbwuMMEdpKmNppFRALKuixdk2bRUwyUGOX/vLPLwZmidnLqv4wAroa+Zm+zXshEDYncknsWZzNeKOWfivnrUBJt2+LkeqOJQ9HY910STw+pzaII2tjNqAa9Ng4V/ElB3s5afRAkdlojYBJwHy5q0xMW7nXvELxNSIAp1V9jTE/0hErov2Q86dKsKWxPK3Y3q/86JRIBlLQ4Lw6zKFxUE2q4aukgYRuWnipCMBFrpKpgLn1Z1/rcDAmtCEyTSpoepOdRNbFGp+egURWc5BxB69XgSa4cD9H/2RI3+fnIjxvM4l4DnuDWJgyqlN1iRDIuiOCgeO7lWRKz83g6J5en2rPQ23b6wDpKmdaCsP/UAm/PkKg5kBbQ4TT9R0eQZKiPv+ryGYvrTwzUgh7xHJdX06NulkFLMAo/hOFIFzPtXDG4y8oi0KESNTH9/NR7MZtIN2Ginoo3Zpr3UROGW0DiYL/e8mazvYA9D6CBzVo=;XSvKsQ/SItGwLls/mWS0pg=="
 ---
 

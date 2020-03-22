@@ -22,6 +22,6 @@ images:
     height: 720
     title: "Middlesex Health using artificial intelligence – making patients more comfortable"
 
-secured: "Bsjzjw+x9kglvZgEb11e4zzDnDvzMBVQ6/n31mKS6gjPiQl+eVqZsFJbpq/9gfapY5vE9VsTvjpcD5kQVFT5kxrDD2iDgjZq4D0ov6+2fe/cWONOdtCDhgZmr8H32lBuCrZSZaoJi9ScscYUBFO/TZO3XibayjGrzwS3Rs3aXSOX5b/nNCllQev4Lz5cGWgTYw3wc/ltttvzx7eqRy8Thytm0++mUMMnNP4EXcvqHCXpAD+cr+OdChAXHsU4mwkRlMdCXUb/EB4QksDAZPyLE0OPOzT0Rss+3OYf1TWr8wrmSNR/4fOJ810yO/o+ULZ+;ol7maCeY4+bNExd3yhb+Zw=="
+secured: "E8gHvjdV6awRAYmryfxAxu+0YDCElvM453y3ElOdUESxq9+7WyPC7XWpclMaKTYUf6vMRifcMnAmTvjqwZ7LR7plbGFwlL/GYsQgBiqa4lghDcsuPR1xhWUniSwAfuoHOpWtDYSNR1QWR6nqSm7jQMIAaeuDxsSXNSozfIEnnMkMJSSppZLmscahrZTlhDaxuZ+FzqP3pOX89dU1VBzZYsRS1Cna/YHmua+G30P4YeQvOyMB8kW27yAX78q4ANVveLUSROPsCC1ES0ZTjFzTb+djzTxA+9pc8KBKV1cp3IVIaHG8IOUK1J/VO7gOlbr0F+EPkHd6x1b6y0gi7B/+BtQUccD2f95qbrs73kvyd75eR8y47+MIKjXZEbNJEosJ2Rl7IRUOpghlIfYexUUTFeJDIOVLCLhe40PX/qcG/XzxRF45BC+yHQt526kqyrbx4v0N6UUMFjKhqCqQQcoEyfay56pe6ZGajNF+HzHRxmE=;LK+CRAGJoNy2utnwGQhWCQ=="
 ---
 

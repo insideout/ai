@@ -52,19 +52,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2018/03/starsky.jpg"
         width: 600
         height: 401
-  - title: "Self-driving truck startup Starsky Robotics shutters operations"
-    excerpt: "Collectively, they might send a chill through the rest of the self-driving industry. In addition to the financial squeeze, Seltz-Axmacher said unrealistic promises surrounding the capability of artificial intelligence, investors who place profits ahead of safety and a trucking sector already enduring economic weakness all contributed to the ..."
-    publishedDateTime: 2020-03-19T16:24:00Z
-    webUrl: "https://www.autonews.com/mobility-report/self-driving-truck-startup-starsky-robotics-shutters-operations"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 56
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Stefan-main_i.jpg"
-        width: 800
-        height: 600
   - title: "Starsky Robotics ends quest for self-driving trucks"
     excerpt: "He cited challenges ranging form the limits of artificial intelligence, to a trucking industry recession ... “The consensus has become that we’re at least 10 years away from self-driving cars.”"
     publishedDateTime: 2020-03-20T14:40:00Z
@@ -79,6 +66,6 @@ related:
         width: 1024
         height: 697
 
-secured: "EzZf37ONzB8wSCl5u4Q8Um5XPPky8QOGOHrPn3BFqxjBBPQtg/fKGtCeKvKBb5hlWVc+mT1GsLaBkZCfS7Fv2+2NJoym028x/parMHiyD9fLSbAhdDOAGje7uosx5KYoy/XF625qrqz+5OrU7hU6qEXN4wepKzP/qppfBgYAzT8guwauAuvmmGKbs5nBrccCuLLrcgbmxSkWUJmcwAgx72b2C6IurbiT7bDUFCXpe93lXt04AU57fwms1j37JQ4MD0G7LV8pg90Zfj737INjx2xY3ohETplpgA0gtQ1MeG020+9jWThJRPKYrVAOrXvk;F4s8ctlZwAM/frOgNzWp8Q=="
+secured: "z6iK8IwTdTwUWNXMLCZXLArRk32zZJ2uUtXHwgF426rcvJeH7inxX2O7fmX6zZO29rrt4RfnWSJsYC8DUEdLLdSvPyZSRplWGH11VNYsRWZD3wIJt7Zu08JnboF3N/sxYa2gzNVdbpvsj0+pGu3BsXiSi99Bk/JqnNBBGxPFgxa2Y5RJFvTZSWEu8iSXqQUsBMt8zcNgmUSOmRSlZ1HKjHwBkYPUyo9x3UWkst9R1hVJ6dD7GkLcGOkozs8b4pMGzXq7TfqV5n3KAh5TmQ2v2g1j+kfZHZaa5P/NCyYcRdKILppcyV/+7nucaikTlS+lc8GfvG51JA+IZFcN305mXSzHZAHRs36ZhLbw+6NBoab3cqdbQk17ylfyUqJGpqDT+moxUDYPuJ9YH9Npgf5bkwGGPXyn4WZjdJL7zAgwUxeJCuHaXkIBMLGaFsAnmIe8eYkAaeRYlV839b8C96qiF08b2asUNe7y2xztsJdM6JU=;75cbEvucHY8BXcLOYX5ugw=="
 ---
 

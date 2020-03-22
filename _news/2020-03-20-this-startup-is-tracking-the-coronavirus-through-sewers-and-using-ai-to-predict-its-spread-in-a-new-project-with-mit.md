@@ -26,6 +26,6 @@ images:
     height: 600
     title: "This startup is tracking the coronavirus through sewers and using AI to predict its spread in a new project with MIT"
 
-secured: "ihUqQOQHxmU298XacmrMiII4OPXwKiOe4G0I7md8P40pn8on3IbExLH/2QrIreMITrahbtMYETx2kT8dCQGD2VoUK0zea/ED4L3xD8smHBlAhVpj3pNcuwRErYm5Pbp+aojKdzNuqkaRNq7XYHPbZ5iV7aGS3W3q9tMXYILNxwJ/8pfLT1vf+tA49QwSuHcuD6o4mqylGQjY9/cNXWLDGi9O3eLHC5NrgD9pDaFP/Smg0VTJm/ee53cvfEwbDIbR2gctZ2ZEID6l2dgU9hvTJslQMhunusMI9h2wh0tryWOfaDW8gw4LOqDGKIaUOl/Y;CMAkkstqYbhgjbTVkDMQeA=="
+secured: "AYOeJJuuc2ekrGK5X9i6pDuygPTtj/eAnnzmZUGk0qvecMkY0c4ACEBhWpvOIz8/Inw+uDKaII7IWqO9N5Ab9EtwQO3+x+aNP0T3bYxfAlKWQs+RRJyADP/Ue9pw7XWdNnzu1/j5ydiO1XDojMk5UrwOqGtx/lDCqH9f0cLkARa1beyzIzF0aozdM57NO2jyek4o+SR8BTbk0N9o0ZcqEVwY98uzHvtgtTrhJ6M+UABICu+/w9RK+m/UYp8Cuc1ltxIUSZkKSq2uAbQwl1oKGwnqHjWRcJqWzMI3raKzuVDqXaAI9omgtDDte18i03xKfI0xzLegOnMZIxSG17Ud/xl2lLdocPutxqMEB1uZihYu4MIxojo3ZchDPwZrKcKOxYnZU76ure0gONK92xL00rauuF2skxxOC+UMXBORmuSjWL+5fVFsM2Mh6KwzJ0dqkIXsxjSADCEeJh6VZSvcAkESzF4sRHxLM5xcKErmeSA=;541VLHTuHF7P7dXs/0GZ5A=="
 ---
 

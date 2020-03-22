@@ -65,19 +65,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2018/03/starsky.jpg"
         width: 600
         height: 401
-  - title: "Self-driving truck startup Starsky Robotics shutters operations"
-    excerpt: "Collectively, they might send a chill through the rest of the self-driving industry. In addition to the financial squeeze, Seltz-Axmacher said unrealistic promises surrounding the capability of artificial intelligence, investors who place profits ahead of safety and a trucking sector already enduring economic weakness all contributed to the ..."
-    publishedDateTime: 2020-03-19T16:24:00Z
-    webUrl: "https://www.autonews.com/mobility-report/self-driving-truck-startup-starsky-robotics-shutters-operations"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 56
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Stefan-main_i.jpg"
-        width: 800
-        height: 600
 
 secured: "zvdHcDrSZZPJVrMMrfjbD6c2dxf8VjAAw0H7LCItK9szYQxJWh7QJNXU+MbPf6vEpV7ceR45mYcdqGRa3elc+beXc21hts+Jih5GicOeHzUSXOaMt10NiGH7iIOBUv/y3D7T5uher5i+bVCFTuNsauckLqI69/igxSn02I0IfgG1AWOIPN4vYE3eLvYlTfZETnaJ09uLepjIyYppTH4aRIrmIi0catPX1mN2SsVFAouQ1kARbptBE3Ci8zj0m6MbtHmAywBLRpXvUoZmQbfO4FYliXTFbEQ6PLoxWqPriKm/VJLx2JLihq+5+4qMvgXV;OQ4C0V+SKRHC3YAs2liuIA=="
 ---

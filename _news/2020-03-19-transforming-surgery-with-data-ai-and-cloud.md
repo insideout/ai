@@ -24,6 +24,6 @@ images:
     height: 758
     title: "Transforming surgery with data, AI, and cloud"
 
-secured: "Mh44ARZ6rjJ3PMhrcwCOeC+p5bl7IUDtfpT0iJ88RB6Di/Mab/5S+Prgv6MFNmiWYueDFyZXU5BlWj9cRPO/geTOU6iQfHjK0GbFaH6OlVH+o1L1CvBPPwDFlpP2/Fgs6nD/okg3y3pqPoKa7IsEO+CN9lHTn3Ww5tZEGk/GM3m3Q6wVgmEXuMMDDx6cJavcTLNoOn+g6JIAQ/Iw7R/azCH8HKlN4OId+Aux5qFt8cz2Go1/m1MfLVJJgYhS4roUmyFTIL1foB13bsvWsrKqrX+fdLh9NRB2KGV0dTt622LkHEkswfB0991HT3rLhHuQ;9iR1LGr/py2jTek7EkuRuA=="
+secured: "lu899cwkl9urPnNqXBEDM+3LDDRv8KQwcp6hk+OuxNTjR5eHupqwBf9mdggwUNn/0c8GhXgHvct5Lg1BPuZpZo9uFHlFFQZf9F/EFJ2EgobX5xp8Q0kNKMPy0w8rFGQvSIws0FZYPp3Eeh+D30NBF+sGCEie+enEniA0SAUjjY89IlBYR46H+59vtGGxtbyGhejg5JqcpEk+yeQaKrFLdvhBHrRt1fdWIj3JynhH70Gbk9U4OwF3yIPtmungB4FaGlbQZgkSDH9owiWBDoWEfpWI4LuLOYZ+PGkmGV+Bm2fWF4Tfcpbie0QA//oo1Fk3liXUSWsdwBQ+awVsYdgtp8RuUfAk5cTBLgKU3qQNmkFY073p+fdxqeF0Qkga8Jqt38w1g70rDa0qkdgtCsTp2rP2vWZHKf58B5z6po9m6tj3VZwG0K+DKGbnOamEir6BiZdJV6T+dJuM8clfJKT2x/opHw9jJS1rj6gwx0UAE7c=;7s4DbyLs5qH0a7lQxrfZaQ=="
 ---
 

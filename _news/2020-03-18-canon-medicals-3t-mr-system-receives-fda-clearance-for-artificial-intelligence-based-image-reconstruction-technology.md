@@ -20,6 +20,6 @@ images:
     height: 627
     title: "Canon Medical’s 3T MR System Receives FDA Clearance for Artificial Intelligence-Based Image Reconstruction Technology"
 
-secured: "JNpMmIhOvYX0CWNAeONNp2O0yF0XuGlz2t/eWOosXbPWj21EY4MTpCOBXE/OM7CsWnqi7nwWAAqz03waMnx+5gYt3kjHq4yl2tCEoWu0i1jnonwEdfa7OUJidwX9QMGcl13sbD+Ckg/Ey/34L28OKWED2Rh/bFsR21SDXSGqCUtKvnoEmuMbGrM/Hna1pGMUU8vbU3ui4d2oj75SVGo3wakxEGHO+6clsEJIgaTEVLQRxMmEto7c3FmcCKpfccD8uic0/lro765Y+ItPBoCUPbagIujEbhDlh/hPK/h+SxlQK2/lnZkG6GsZ5wPavwko;zuTBWVgepdKXujP/d30Xdw=="
+secured: "Y0LFpvhbp+cbwZqdtZxFS/uP+dbb/FESPZ39zXsxt45xE3yNYs3MGRh8t8KXsCTeCi18KxS9ID1M+i0cKhUWfj6xyqHYkGCOoUdFYnwmoqhhJt0ddgU9ad1su8Ilnd2lz8u4kRl2cYKyeSIdP2tyn2XgAw7wvnfFpOKXcPG9mK6e79D1KRt3HjX2UNcZmrC97FEqzRS6f/EJvZdM2FoMQb7MBvK9rCv+kOwSe51x/JUs2DEMq99GKLAEef4LcK/ecch5eyciLxF2xYAMvP6BHM314To+DQUGz7pjyuxrk7BJv1L+POAuhmZwt0Bwd7agRK5FcGDIQP141Qdpdc8TYOk7heX6lO68ry/PvGK3aaPLe4GvRd5hIwI7FDkI6QX7KdY7FC/wxSf04fO9OzEQUHLfKcN1lQCO3NCZVBYH/WY+7anruQUlb8UgZPPYoYUyp6Qq5Y94/m7sOgfSS3jTzQKS/PeQCaMosOAbgM9mO6s=;CjRcoBZJoKd++jfkZeZEEA=="
 ---
 

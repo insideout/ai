@@ -2,30 +2,38 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-03-19-iot-and-machine-learning-technology.md",
-      "title": "IoT and Machine Learning Technology",
-      "excerpt": "And if the MCA Connect team were to wager on the next massive breakthrough in computing, they would be putting favorable odds on the development of artificial intelligence and machine learning technologies. Machine Learning Drives the Future of Artificial Intelligence Modern machines harness Artificial Intelligence (AI) to perform functions ...",
+      "path": "_news/2020-03-19-ai-a-guide-for-thinking-humans.md",
+      "title": "AI: A Guide For Thinking Humans",
+      "excerpt": "Tonya Hall sits down with Dr. Melanie Mitchell, Davis professor at the Santa Fe Institute, to discuss Mitchell's book about whether smart machines can actually think or understand, and what might make AI more reliable and trustworthy.",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.tmcnet.com/topics/articles/2020/03/19/444843-iot-machine-learning-technology.htm",
+      "webUrl": "https://www.zdnet.com/video/ai-a-guide-for-thinking-humans/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-19T06:47:00-07:00",
+      "publishedDateTime": "2020-03-19T06:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://ai.insideout.app/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://images.tmcnet.com/tmc/misc/articles/image/2020-mar/9766423712-earth-hands-1222866_960_720.jpg",
-          "width": 960,
-          "height": 679,
-          "title": "IoT and Machine Learning Technology",
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/03/19/06ed6b48-07ac-4738-b4d3-5931007c86ec/thumbnail/770x578/e3427969c2d82fce8f41dc73226f23ff/thumb.jpg",
+          "width": 770,
+          "height": 578,
+          "title": "AI: A Guide For Thinking Humans",
           "attribution": null
         }
       ],
@@ -34,7 +42,6 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
         "AI"
       ]
     },

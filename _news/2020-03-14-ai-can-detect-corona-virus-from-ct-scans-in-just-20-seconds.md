@@ -24,6 +24,6 @@ images:
     height: 720
     title: "AI can detect Corona virus from CT scans in just 20 seconds"
 
-secured: "JVTE/PALvypbZygApto4oYXloizrYUQrNkQGhPCwnraVNPDpzOCfGq75yjF1QSWklKQ/3Pujl2dOH4Hein8bTK+MhyBvHvGo9f3CGacJBnQyc5O/9k7+z+b1dCv/fNfOdeJvo0MQniHMYkzSx+2R8zP1YGJQcWBwqL9hgi036dq9tonAIXbJMcPZCzGd+aFvMnH7XuoSUscikc9IHCc2jM41Zj0635DnLfeTRXPheYoi6VWojHh/tQr65p6AIvc7GygSOPe+hb0Tx6W1TML0eZDyIz96ecoiOp5k6zC0xjx28VqGDz1Wo2420OgMLDdk;Zc9vjdUg1c6+Czg3yaf2ZQ=="
+secured: "CzSIlU+aPwoCDn3RAZRC8e9cHJaGFUEm9Zdg3Eg8zPpKeE5WIsuBO37KcjTcZpgwsL6TVwrYHWxkfLJRH6Qyl09/mptjEFQTjgrXw7+477ejAaMg2k4Pcdtx2x8xnw0V9sFT8r8tPy/999eDgONR6fCi41P+gK57tCjD+HLA/2vWpQh1YBkmu79nAkYrQ3ktOp4wY0mKowhfLxW2fDOuPK80TBPnwDgIxJbLSyhgMpfGezb6oGHs8Jb4g1QRrD7fCy2dB0PV4NTYhvcj27r3PCToWx/FTlws0oI+rxIiVGOkfVI/y0QfdMG5sBs/w16Veb7JanTc0b+I3+pRx5cdbzbd+SjIZ+s8+SnpPEvO9RAKum2ciVxT5DfpaGdqZpZToqOjsBOaj9yu7mM+EDZrJmXqD5lBhMbQqgpM1fcvLVePIVFVjA2zKIuH+6p1Nw3GZLA29cvAqmF/eeTaGrOXwuHmZJHniWajE+HWxxqwXgk=;42lq/pfCH/P2JeTSkL4ucQ=="
 ---
 

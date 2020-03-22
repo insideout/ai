@@ -20,6 +20,6 @@ images:
     height: 236
     title: "Showcasing MReport’s Top 25 Fintech Innovators: AI Foundry"
 
-secured: "fZVMS9oF2im6/UA12iZU1aCX6+yu6IblSYFNj9vKpxEox8qxJ/D0bK5KwhrjYulYS72de9ih6wguBvLu1D82UFrSjIoU/sxAjRvVCS0AFsHzgZMJrV4EAE7Mri4Bd+etPzWQ7pQFL0hJLf7M57UZpgpwHXYxE5KEc2ovCrbw03lcE9Jh5MEHbY00Td5Eu6aVsLaJgF2O1imTHJvy/FICmLLT0qvgyScUW3p7OSwYQXnE/M/npFfm1AekuqnAejQ5FZWULEwK3lk5A5WfJd3VXXgWFf87cYNiS1OZ/Dbl9e+WY/IVTC4zXu3sQVchfGTQ;dKC+uq+Zk/ScA0vs+dfDLA=="
+secured: "rcyco/w7dtyqS7FkXaN37BezQlJX7ljbjuDCEiPXyRjF/v7CU7wlbcdHv+idl3qI9HG9egt9Pmo+PxxFRVPh2imz4jLlJKd8U0SRxiTKTiuGGUY8JQSiJB7SsfyvHXr4SGxlTm2oFoijgFz+b4og76zr8ubcRmjRNjKtDLCFJFZO9zD9gDBYw+LERqiQvk5v8jhBGKJG3iXiHO4mKwnQKpaifjRsjswNR8LdQOmjAz0r+JwjpQ4C0HRNGEXSBwDMnGTSnNy9PDMdxLKo56awwW7VDjynJ+oxrEfXkpGIpEbpkW7ZDd7URAWehrvKkKs0dRp+MLTiadcfmvrcu+mkBRj2wSi4bLt2JTsflcsa04uCIpq0X9PHtBzlr+FIyb+YsLB6Ti/ogf79TTLwnfQ8Abbxug+mYKSHBnPK3yr5mjzfubzTB21jiZ3dJ/NfTb2+AoNSoxO0ZbYdBNag4w/8g7WMa8eRxGnsx/fFZi3oN4g=;OCnd14chD9RwxMriaMQvQw=="
 ---
 

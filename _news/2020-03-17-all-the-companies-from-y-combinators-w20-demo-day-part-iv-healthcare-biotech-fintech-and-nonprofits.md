@@ -26,6 +26,6 @@ images:
     height: 365
     title: "All the companies from Y Combinator’s W20 Demo Day, Part IV: Healthcare, Biotech, Fintech and Nonprofits"
 
-secured: "9pHCZH8imLKYX0401XQjGbdc46AvpaJrJjR1KLCs9aPWqRU35z+O7XmCO7/Nhqgh+OfwSg3Tm3lpoibDvEvB24kBeG9iwSkerY0liEK9bZ4kf0h8ocvnq8saW/Nc3vkLuVdm/f21euPnCbanl5DH/MRoHNuBxsKS06cSMylTOOFhpC9N3ou563WaWax/yHM8g04SjGZOHYdwauN+w9EjBiYSSByvD0Pab69ejv1KRVKo+OV0DpBe4kFL8edsdIMvo/21OSsdPwyNY8Ed9HfsahTzTHHgA8PR0XFcCJjrTcMP4zWSGAzZraE/hHTjxxpp;x9zz2cjGlPd7uSRGCzyRhw=="
+secured: "w6JNsNA3kry2uX/lf6QzGqoLj83c7B/9LoQpwjLhB1nEbsG/S6vP7Q3fbmzFY9FaNpae8/VmoMyeEef5gHw9vcMesb7C1PnOT8SStEqhONoOoBxmH1GT+bDDx6FfCnkmwBjeslabynSQoXk/HOAai3t9QRyoh/ftu6yfRdU5jJMV41d7Q7Gh6qsvyBC9qYD5z5ZZPoqfU3wa/GnTHvy3xGLQaYOJr5T0UwDvHSE/xKZ68NYupqt9KAwfIRF6WqxRsMWWrZmVLCVN8b5WjVRk17NzbHDQo1WdOEPohqFIJ2YFCsGgGOs3fWDJJMooUoP/W6q2Vo7j81OGi4JhZR10N7Kf7n1kwUEQ/GVeP3QBBgCcj8N3VgrZhmOqELOPAWL0+m/uvkMxyHetyiJJcIoHcg/MeUMpOmBTeA86hsz1PSNa8/DHShMZL3zYgVIx6xefsMuZVIVkECzJTJD3fqw3gLraqW3NuZ2MxS4v4Is9EQw=;ZVsFd79LHGn3OoBvY/ws1A=="
 ---
 

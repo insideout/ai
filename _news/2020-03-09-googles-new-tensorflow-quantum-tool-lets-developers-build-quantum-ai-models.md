@@ -20,6 +20,6 @@ images:
     height: 400
     title: "Google’s new TensorFlow Quantum tool lets developers build quantum AI models"
 
-secured: "RHQF2MF7gdvO/JuirziFyiSAz5nDNX8UdaFGOtk4t9QV1nJLYbfuSx6oUGLsNRUNYjzdRxgc1lzAYCXLBj6pl1Df5Bz9s/KK2Tt15DUKEv+salXDXs+/gM83h4iLvz6Jy20p/60xK/IdgYnEFT6uAJ6lwGU0oirMXlis5KpHsmjuuIBwaFx5fC00SLLwZmGTASIcRDuGhHx4NB3glAXdzxwKUIac8V9SW6eT/3gCKnjqKpxVTrBvjg364joNDKQ7hhO5Lz/TRtgnjerfBYaP6wSqP/l+qBVta+xUShXuvUzUWiIIfcwYd0+GrjOo+7P2;ZxKqVV4lj9CE86JXgdHXhw=="
+secured: "NgtDKuEJLLOd1AJSHbbo7UoiGX91RMb3Yh9MhI1FrZckuymn+JXAlAWEUBpS14bIXvzfLvDq4lvgEedbHztoG6+puOVVOG4pv8Hk0SD34MHN20uP3fNpwjzC37HcVEx+FIY41GFFw2nhv5gnP5a7SEffFPeKemETXbUYkonsXcck9Y/QH2WkMuH+zFkwvMPupnP9xYtnPQRmKBY649NL+kkwElS0EosJhA/cTPx8tJxLjuc+CCZlhKPEIk6pL7v2tQHjMWI0uFkbaLVrw33shItdUP7//X1+WzFI7DIiEeBqv/wgtvbtta2aHjNqyJVsuf7bCrZPsNkOpraFWhHMFtGsdDmccS49CciLslgRVtSxM5oUqyHcFmwUv4pjVRQ/48oCEPa+HTE+AGk/m1tUhcfCINbs9hWmuJV29TvOTfW43PIexRkFGhRBF2y6mmiKac22Yc70pbeht3B56zcqOY1qLGBH4LI10jMVMExDuR0=;hMDMJiDHD7DHFVNA+DAf/g=="
 ---
 

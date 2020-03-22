@@ -25,6 +25,6 @@ images:
     height: 1080
     title: "PS5 vs Xbox Series X Specs Comparison – Which Console Comes Out on Top?"
 
-secured: "1eITud4pHCyX6956CziZHBu+shuICvjR5wL6avJ09JwzEczzMLTxYK0QXhv9OS+g7bT6/Bbw79OH0NtVXuPlQ8Q0yxLkBp3PqXlZqVgYpMd5x1U1PLk8vXjHggBw9ZDb6zhlTnSprpp8XRvBjUGkZQy8D5Z1IrU2kyXswfqGkEN6lX62TG10ruB2QvFHIvg2C1f+GZqcpyS0Ev1y+HAic+eMBlfswpZnioheuFTQIdsH5Av0yRvJ066wN/tWmNbxwCO+vp5Uq+WtCGuiqrs2ImfoopjmEJWo4lNtW6OBtrRlro4gclxVsyhSh1Ld1vAo;dGvnbWHZ3YrNZUEfc/bTjw=="
+secured: "ayVCtoatPMaXW7GXmn5Lm4e5hczCBRjgigfRQ8lLJ+CbkexNSdXTm67+/mleZvRvSo5rvtMQJn0himfEZ6JKgA6M+OSzzNbp1KVlVPuOz3GI6lDSztJ/qGJLvQZzRbOK+ChbdetOjsoUmHjbZCBJiW2KIlBf1ptko7I+fvBwdZzH0/kABy6qAQLSXYtTs7eynvp1KVu7ozJYiqauney+8eckbfWqkEMMJJqQEW/FeIV1m9ZcmTY1lRsk38QyNYsucg/lQTaw/dK+pN3fKh6iRB7aBz2vnks0MZXa/qAoJpeh68tSHUtimL4fkSbN2FodPHfEcIyd70Fes1/OJHNR19pNyCP/gjX9F1X+mvEBLVNj30rvEnl2fgqgX0eVPqiZXe0tihWHtveqJ6QiAZa+HLLlxKiWKBh9dIqcXGfb/yH5RiqeWI8pxZbqcedgVXhEx8NkQFCErzupEeIb3SzYADY/bsVpWqzuZEBIyck2528=;H2ubsHo5UFn67EXTzjicyg=="
 ---
 

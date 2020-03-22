@@ -26,6 +26,6 @@ images:
     height: 391
     title: "How AI Can Take The Drudgery Out Of Tuning Machine-Learning Models"
 
-secured: "WCxoV3t8u3hTPsNl/GvxmrQ/9AAwe59NQ6C/rIngXtU67MSAPACdVrtBNpJ86reyHpshl0pL1/js7iBWHpo0+G6TFNbVZQpFspBnW2cNzMPpTalOFYzQ28ot+SGVn6SIaD0pA5ov2fgE1mv0/Z+eZTOiL9KVd+N5m3EZXvDx3vGEDdTfL69bb5fTd1XW4xtiYhKR2U5oAlMkXV5LDXMw0meNfG0/wAXgb19MEARTWi/egmJE4WOdPJIwRnoUzKuhelrMTjAXwtDKaTnniZbLEDsHcK/A1Ch3wCkX6m3KzoB086v4ClbpMDRAZIazeCQ5;QzqpiqJ+hcmfsYm8DpRtXQ=="
+secured: "RCn0SfLQQnVQwix/m173ZTW27Bk6/q0uTO+bfDT+INEtvGVAT7gaYFRXPt8Kz7iD2jFPO8EarLasIEYiApeZkXUeatgtr3Ud47wB9RkMHKXktChT/+wVBmrlVxaan3lrSnL7rqErKeKPI0WXewtV1IqCua4rfwxuZBhDg5ebMCBOM+wfGED/Ve9nYuT0ANWjjkOqncRbbF9AUvpFor+Fn5HIUsGlSacueTLZ5C3l7CwKk1sOOpiRjq+79kSSc2/1H/q+TldKw1ROHsko0dCNB7ZlWkr7Dn3PoaLsNMbeIZrJBoFlVJNMTJVtLM/tvbGhlBHozeBFgXZmJ9oD7mEdW6IedR2A2CMS+ostatWX7Gp2yGVr+XLLqR+NE1uXQiCi/SLzaU7hKqZYHhpdOmKHWQuMletcFYu5ZldBnDChc0vnJQKoWeJfLJl2SYXWkekS8Bx3aIfdjOOviDja+qb1w01s27MHDTL8bSScs5pvYSs=;gKQpXPpmry3YHDY6ZfKPow=="
 ---
 

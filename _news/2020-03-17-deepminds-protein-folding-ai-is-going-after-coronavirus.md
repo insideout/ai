@@ -22,6 +22,6 @@ images:
     height: 601
     title: "DeepMind’s Protein Folding AI Is Going After Coronavirus"
 
-secured: "RUxsQpDOPFk+4rTFFzPFEN6v2PcWC6G5iuh+Mwg+myUEDsbZTGdzzgwQ1TzjwT59SVf9Gz0ll9cFq+6/TheouLuvoX/ZqtTCK902R6WaVNvFH2ssEn/+Qau9nwrZhA8ulozI43o3jSJpTHtLMfE2I5MPKQH9FbYKctYnT6m9NS/COJoN6XmABNfhMU2bEhFOOQO6x7xVu9NropIy8e6Ivt/J+cYZ/kXfGrmbS19U6DcUIAxTuPxuNwD7rzUIbQxBYoEgvPgMYXNXiGILX/J+3p1mSSteQL83OVXs+CjLILivYBBZF+xmGAOQeGBeW88J;Z1zhpKTdbpCGDfP0bWwPdA=="
+secured: "1FdBTEyNhzAR033mbERf1DqzXtHbClIs7C9bmIu9n68q69qLSaohzTA3UQ+vKC2VafqKQVf4+pj4shy4CO1FDuJx36FrA7zBGSyQ0fTi71UCxv1xPG+FsOh3OvMVQBdyFRBBqkJqBXkbWpwVQq/ogayPHoSFpaZb8KDCaXZNA+Ho7NhXYtOPxByQc1MwJ+RQ6H+2skN+i+L4NHBvtug+nkO4gSAh0rMddw/ZIobLr1e/hTTj9QbpvkGhH+uSnZmkq/AgRSlbYlbE8hIbL12mV0vKh7e5f+iqu0/IAs0QSaJi7kKplmCKkgj5zjTCUamI8GVox9RVaiq0OX/m0Uuzp5hrGKApDXDWzQK+BptqNjWem/5Ay/jEsHipnFJvyvzTymlTTYf57OTB6J4aU3tujUkXvmRO5DbaKio3CWNIexJ30soCoFGTigrUKRsZZZ0fd7itmoDcWRc4Gb3aIeSfYN+DdSwTytSx+dxvVC7VP/M=;OVm7McWxKu8JablHwXWsjw=="
 ---
 

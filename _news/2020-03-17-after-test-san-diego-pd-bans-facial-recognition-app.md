@@ -22,6 +22,6 @@ images:
     height: 627
     title: "After Test, San Diego P.D. Bans Facial Recognition App"
 
-secured: "P8F/Wd0U3RILcW7droPQuzYu4uU6lR1P6JQnA82n/zAcBaH/Q8Vxl0ZmhvlLuZiADxWNAS6b082jTBHyjqYdaYtnn7jxRqpW3jPSpyE3QZplhZLHcxCLg+1YLBGJBW/0On1eQD6/F2ENyDJO9T3l/Hj8bbjG9LABwMO+C2bAu+4H4zimjEox03u3C26ytVxWN1kNsmDzZmpgrjRA5kA1bYaJA0VTEVs7iTQnLNec87AYZmEkRjp9yrIOw+p+SDJFut++647zpAxrtwOzQ7r8U99Rl2UyfBENayrzrTrOl+Ej5jwg3ydeuW7kmH+js+JN;ZXpl3MYPPwMQtWMoIeUpow=="
+secured: "UOr50uZFgPBV3yzwGQTG/5diMQNpXuO8Y5ppke393nUUWz3eCnNHMOktuU315hPtb/4cjoD+REgV8ykOYmBvZXWpfnlWbHoKqRcEQJhsyB1FgAzHwiMuvTkAnHy/ZkY5CphreRG/oZ1V3u30FHm8kcU9+H497mFHLc8IkTieUu6nezA1iCldMvNYb3NJlgVBLMW5K3fyyvQziS9aV3wElVE+CvVJg4vJe69qmjcRupFKaS9FQPvcbbxz0KUrmx1wdA9IRhyeetj9kZhBf/LLeqMK0b+m5S/K9eo4J1+nBiVvHD/sl9AQ13pHfGyhptrxpNt105YpF/NO8iX6EqjMj7tkCQ+purrvaYesQubWYu79mNldU6LLC6EOxDH2eLrKbDQIT4aAtAwChYRBGCvYpUZN4TxgYkTg97J3sKGvZw287D/28pYaJK0hjosSxVsox2/B9BZN4PHHA2AQtbXg2bB0Ou7zCnVap0kTZ9viguw=;9GDG3j4nj58x3exEOORTpQ=="
 ---
 

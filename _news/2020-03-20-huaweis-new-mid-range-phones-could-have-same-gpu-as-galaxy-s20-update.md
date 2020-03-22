@@ -29,6 +29,6 @@ images:
     height: 470
     title: "Huawei’s new mid-range phones could have same GPU as Galaxy S20 (Update)"
 
-secured: "9oBpKS7IiAOwrwIB0VnjGjo/be9/OxHtmRoyw6+SK0DUKTxTffkhk3adLufiZafo/dtwbuM65vL/IU6lMXXUM3OUrX87uwFsq+HOJLQ88tH7YjSylRFCZ+7t+Wz5sHQW2AW9Bev1G2XuRrLk1vLgSKSZU+6mqxIyLbJga7GzklWMdNdUfZTAt4isetteQyd/BLM7we9GrXxY7dmbnsQM3/dGPEbwL1VgS0nIMGsCmM9KJ0Qt1aiAiTJWlS3/6I2izoVka9HWDQpdxF30ibg7ZdeUcZ1ILvmlQQX0m9uEng1jhX1CP6XbXqsieFYlNt34;09SX/uwVYXSo+Lyn5VPaCQ=="
+secured: "4cSZ7LQgfJGLaNtRSFHJb21okkXJrXHw209R3VzkNA7DMdWwaXkW59p1g2JB9YlL8ZRM0IygPeie3LtS6WIZmhefjEe0Lrg9h/03AwjTMn/Km8XoUdsjQOqT/SGEG+7tB/wm5pk1oq/oumE/PWfLOmfgUZyzUJQc9SYH8XAXCAynDs1+ScJWLAZP1dlQ23gQt9po4moUgSQJEIf6v1GYXR/lsfWDUYVBwCKmnZsdQmgvIAvjBrJCKDkgoVf+yN9vco3Mkf9VcDJSeh5O+LB5Ruv06TmZZYYVaGmNErO8wxp63Sd9JsATzW1z6xvo2gf7Qu9UNefsWPZ6aYUsFBYCtkoVWIUef7BXtfYs+6FSh++98GFLKSur+X9ZBKnz9gSDBlIJe6g9NeHLNuf6Pk1GS/QPgRIfM+Gr/o2jpq5d/AOhndrEVLST/vr265TdQJSz1AoKy/dGOPotTxJujXFRjFIdYaRZa74zbYcDBVQ+PsA=;TxRx5xvOWiRfRYWp4OZXyw=="
 ---
 

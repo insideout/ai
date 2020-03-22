@@ -22,6 +22,6 @@ images:
     height: 738
     title: "With painted faces, artists fight facial recognition tech"
 
-secured: "cs78/CZWahbD37mbEAgT/wSszU1wQJB0znPapJc4zCXNE3/8Doy82MdhbnTftITyZQ5QN5DZoTtPXojRSzVDU2+KsNLMf360vpBtclPKiudcR2Vu2IxtxL61H9ZAelGbg8yWaZ4q+ARrP/X9PbFM4Yn3DQy5cK7LsKRjtznfSNzQX/Sf7fnhvl8FCvOdZ/fymhKnC27wV4IVbuT1mGFs/oOUJa2kyBJ/8ygNoX2HO+xa/pDxWdxT66D4M+Artg/gYo+WSU/jZIIcfPAIxOPSZlIbmrCSyNtDEcFTehiWXUnPLarZ97lLzYbKuyE87c55;tshJgiFv+Loa6rlNSWDPYw=="
+secured: "q3Qgri8b4cP31bN+e7xuXoU+ry/6Z2gIOiOlOU4O+teOcQ20Ex09DxK4eQi8b7xPWtuqEcD8viaXJbq32uxVR9vJZUsgClUHrhwE4uoWhek/dBcFb1NwdxD2Kr25Jg3JmCEWbWyjcR67d0JstFMnImtyLkHoK6Y7aY4xbtn2JRIeIxKRSebRhiFF4te8LN4qefqxB62pI/cHX5ITKoBn5hAjg/7x8RFw3Qd5OELkzuoSVQ48J/aHoLrvmPD+VcqJr0ZaFERqO/5B4FVUxD3XNlh1kAGsYI1HvBxaPgEyf5zfHN2R+vQG5UFtMz5FOcVw9gYjeXfN3gvEoSH2fm+Tfb2Wl+YdPlDwxVORZrtiWnr1Gi35bs+PPFo0u6+Y4Gaodasns6OUhwccGinkkbNowINIzQtvFkfbNdFECIjMROQg8Gct8VQTsp/+UwCb2CMMe5xg+KPbF8bPw81QRvVJVOjxjVhmRCsrtBQKu8Kqf6Q=;Mzg+VEzohNxMzYlfcvfFTg=="
 ---
 

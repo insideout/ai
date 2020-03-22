@@ -20,6 +20,6 @@ images:
     height: 683
     title: "How AWS Nudged Out IBM, Google & Microsoft From The Cloud AI Space"
 
-secured: "OjYigQnzBOxx/f3sjV4OEwPjbm44OILIJGiXwig/DvOxq0CQ2Y5wzDc60qpKDiV73xBsinhsZJVghQAuu5JPnHNvVlgwLyea960ZerR999Lm2ukMWTslZHEPUwDzcTShiuCVi+XvcxtACUSXb7MgOx+l5c562KnjYY2guO/BGm3XRqM/8qlZFV8UEVbRelaTWfTKnqIZ0KjWTtD0LJteT6P/jUfE+1iJNMGF0ifv/d5Xc4h1Ww2l2szAHS59GUlQ1DTH4KyaoOTcTkEhLPpGmdkET7pVd2BBJnjqYGe5qWqkikfMjFs96gxBTKxzClr0;wZW2Orx8/+2IOrC7ygqqVA=="
+secured: "7TiboHWNxsB+lfslUz/pk2CrjZl97I81+WUkGau8fQDkRwRRF4htyNlmgYR1Z/ik03SccP7j176nyiNaJD7x9iU4zrczOiN9JfaqWorDiGa+Ja3zHU7DrpFLUOK3+gC/gxXAHgy1w+5T/APPRQUz430y/8UZEKtWtNKHrGSOCUW33YQmxhi99uqIMgqxq+m+E4bVgwOJUrCARWGcijaJjF/OB23wvjcUVwBoDOo4QaTpzWf4btEplNImf7wkEPT+EgzFTnprxxBzEiOCVvGwajqwPXMPyAt3lgG2GtofoIkQUFg/oLJmaZomXshBN26D3p7fUQl2JrfbQbmyxfvuaPlG0oQVzG1Gi//pmll7PF2nXl1eOX7Gw4pHQ3asEp73//Gqzrmrr5eijc9DQugAvmKdFyYp39VAefcVVcRrPzgvpB0Xp1tTl49DRGI28dJ2D99O3RMfuJS7UOS6AObh5Mvqsnsyt6h5+r05HspF810=;2KVJnzyRzcm0ZVrWMaQoXA=="
 ---
 

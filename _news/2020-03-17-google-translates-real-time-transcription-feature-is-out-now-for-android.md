@@ -26,6 +26,6 @@ images:
     height: 933
     title: "Google Translate’s real time transcription feature is out now for Android"
 
-secured: "3KFqmTiT7f1QIQUBxVjnlm9yWeM/jEv+2A8YHOAUX+X2KokmxyCzZKKJk3BpoG9km87NKQnSfIL3Q9+eryigUw7T1JOJCzJ3nGNOll6sTqGDmnwWLkgLoyj+UyGUtaLoyyZq6b3BXh+tDffkDz5VoW59YQuM3aCvQ5NPBkb3dCIQzWJ+Wu7wrcYUh7bTDTSBshX3xuFoZq8XnXJV3GSRuAJpsBEcz+7epK6NRo6/RpE58sZLa5zhZDLi2NlnO668aekW6a9+StXphyr57PmrR6kGsi/ZaxLgRbqgIMth5lQbK7D2YSWr9xUz/imnWqW0;bP2uGAmSACigYbrUerlD1Q=="
+secured: "ezk8lVK+l8QG9GHNXhKoUAZQ1iRMUBhv1agadsD7+/3yy1vUEZoiWwEji3Gvr9xrG9NsV/L5xMBnTTb6q/LGQVprpvZTCQSYetD7WY4PTAIfKHUK+yd+NJwthhH5pLOKEuV0uHKqDtk60dR8p/WKqsY0wbsbCJIz00BwAsNFBUS3UN4p77O2248vbK/SeKDeAoo5mknoFcvYC09/mGE2bUtlrWFg+eBml2ztiH0Mucto+XD+nJZ0WzYuav9HXJVhFR+71PVo40hyxRcZf78VJDX+i1/7fBXzKT/YIW5jO72JdOQmKR2DFx/KKNpFzg9UenQPDbN2+5CaI0EJMz6knD2O9A9NlwxdGSGBEw5RTg/poFz5cUJ+xUZYgGh0fezlQpO1U2fOJ3uqng66KfGGwXasx9KGwUKw4XsI5x7MpHE4XtNCPNS127KEU3G0q0ZGat3cYtCfSutn2myKisJHzFJ2Q4XjJCULXRxxXHJ2uZk=;cOb4jXIZ5C+2CyNSHJAucw=="
 ---
 

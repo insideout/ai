@@ -24,6 +24,6 @@ images:
     height: 552
     title: "SD Times news digest: IBM to add new AI capabilities to Watson, Threat Stack supports Ruby, and GitLab’s Remote Work Report"
 
-secured: "K7CGeIcdJMt6xFlfAl9ZK7yh6bHPuSNFKQ1ZF4z3f+PdOMWUz2+u4wDzm3nfTqAx8dhLK5cttc5fTXSDZbbcp6L3bEaFHd8VvC1BBtiEOirmGWloHSRVfArpVxm+GiD3u3gFrbp2eR1VND5F2GDsCzaDqSRDJoM3lZnI/olrABpKcUy/8Jxe88qkCRtzKhaCB2D9MGoKX2Gd13SE3oC0o8w1uNqeQheOGUbEESmCGJxGfxHlj0VT2KlSNoZxB4dsw24GGY7m6gVGwLjy/4QkKVv0742uE6fbDDKNuGOckR7LIPtnh63NW2vN3NcXd1Zl;Mwfc99TloKMdB+WW1dn7Dg=="
+secured: "ScvKiOBGvwTeBfG0zUoupxTEs+w3xLyOmx9ftJL1l2uSzUwqRT1RBM9fzfOqURsAli0UBj/8HUoqpGnM0a78vLatsFMOsFrqaxTI7otSQxzgumd1QRx5ZQqiYvlWNoybR4SkXnuulvpbqwjMn9gWsy5Fn+u7+hUTs0Sffn3YG/kcomlvS4ESvYO3vwSU1OieeigaZZ2kHEBTqbsDu5X6rIJwUbZnEVvQzqL5FVJKfR+pzTFxoXEi6vpvcArA8Jy6aTr++4w6Q02mJxhMKczFysjejr8Fz9zXnJhGQhHX0WvnPjtesi6L2Klqj2lmYmS8Ma4lfv/O/r6pkIpz+HxtX2Ul1wDrqpGFUf8WXkcxgOMpL4u/TFj1KvACAh+JS2raVcxh8aX+2PtCFxpqmdLt9EeC5dpE1oLwoRdfMXkpaLsbI/H8DiJGWRBGDrWbji8CgcLIDYLb9FrcBbCuDRebYuYTqng3LSDhIVesu2+/kZM=;X+B/58+J7jCNB4/CbZZh3g=="
 ---
 

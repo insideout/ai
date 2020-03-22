@@ -22,6 +22,6 @@ images:
     height: 601
     title: "Scientists Linked Artificial and Biological Neurons in a Network—and Amazingly, It Worked"
 
-secured: "+HZYYvC9ndBVIp4tLnU8cJg2CLHweSE8a9K9g+w9bSWVMkgc/UmV5Cdl7FCZwYnge5iOZw4U+GrAUyIGO/5i1zKvfOmZR952G+AEtUnkhUA0+DikwhO/jUBnxeWlsbjJS6wvwBI59kJjEGc7j6mpzj8vgXudg/opKxLla2dDvdKyUGek6vo09P3seijq+Q8tNCbOr4PrBCIjOX5M3pS6E7YUc6gEarTaRur0vINX4aD1j2vIHRHM/quMYqkTrlbKPgXPFXpLlUDS5hdbVMhnRdkHu2BniZoGOY3OdDV1C3/xUD2O8N+hxHyHtlrPh8ES;VxnZsfZ07EHHHhxRMu7uZg=="
+secured: "LFbQZiGUeVDkAeOsUPr+oz2onObcKC+zbh+/p9909P9f5Jm+fOBKtEoQhkKoyPMdY2Ug8ME3/sByxF1YWxBVaXdxegZozd1oTLNZGeFyN7nt/LdDcZb+GEqZ5ghWrZKtIy7qdPshZAApdUV9VPTxF+PyVcWz2rUcw5G22Xb63aI5mpdNWQTdO2zY9nbk/6jeVE433FP2FAL0BqfvA9FJRXA0+6S1gLHgo3iWtVzB2lCICPC0GY/P+hQKvhjSjrUm0iAKl5yPpNzoJwRb650TekKRw27+LCQ6mjytFX8AggXYbteSteAiFqxvG4bcTj4oew5bzLGBH4Q+wvJeRQRBANaacLPEOE6zDtfAO+mWqyCrpFUPmkeWxzFUKdQc7AVe0j4Aeknsov1RWJkXWXO5UUjgcLeCrUml1SMl28F5rmLNC7vifK4S7Qwvgm2EythxjiRcw135xhDRb9we/4m1D02WfJ7p7v7kBVkyZ9tWTKI=;BKPTYuCv5ekFT+KTlQufCw=="
 ---
 

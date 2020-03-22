@@ -24,6 +24,6 @@ images:
     height: 600
     title: "This voice- and motion-activated trash can keeps my hands free of germs as it collects my garbage"
 
-secured: "ExdHqXcMSXYCedtg5O2Y6ItFT5UHczWUngEmte504Fy1McU3KznsciJ8mJ9zh7sFqUNt63y8anjECyVtWJlBHRO1/GdBu/4tZoQHwcLYJGOLxdS+GvMrQAj49/36dJODat6pErLKK3qwbKP5+h6FD5c016/uaI7VudlfnGZpIjZmGIzfyozg+lUssuOKpR4d9yjo14Tkynp0PWq4smjixi4GfjQQliJaHQ89kvEeIsR00NH+Ti2GVn+XE3TgxwcBonUISD1SkDdccBrhiRopuvkxo3Y+olgXJHHVZVAQehY26QoCXa9NmRZWBK86YQg3;+yIXAnEwapuKael8sfkq7A=="
+secured: "67l8v9oSu4jxctTR0c7ASeWWCmVYmSz0J5ZIDX64fL/6i50yiOUqEkMlUndLokdIMF+OYAkHg+p4RMbWa9edcBT5hg9+O8yZTN0SkaMpTQo1btmDfSJ8dSTbL4Ly32XsPNxXCA+pinNFudLxDuE4PGLXeoncg7h/9TLTymgofkDSlQB6fpOZDQ5NmN5s3iseku31hFHWRTHZkKZR5kOWkkMZWpj2jUDOSQOJv2NwIqF/TFHdGuwBep/wWt+Fs3zGNLruHrq6qcGCnKwuGdrzLRe7KZFeGsHiE26L41Jeh8qCofMrtSLV97DzwX0FLwK4wuLKwMSCRTC9Lmyip+6sskPM5K1yNfwNq0Y2JMbJ++JFCp9lFSVMmHpvXV/6qACEFfkPzzJCpXMCc8KQ++5YxkGJgQg1jrwE20c60sxzIUkXK78wKItYNF5VBft/nk3v3NqojqyOaQM+/14NmmLg+EkHitmt19GKDx68KKk5/WY=;SHuTDQa2hk1HDObaRQwhKg=="
 ---
 

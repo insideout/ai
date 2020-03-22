@@ -26,6 +26,6 @@ images:
     height: 900
     title: "AI Ethics Principles Are Laid Out By DoD For All To See, Applies To Self-Driving Cars Too"
 
-secured: "JvNG2uq9B106n/bxm5UKafDzXC+zBiicv3RKhfKxC7OkazJ0AyNTuB+Lv9qvYIFu/gmbSVf5aZfmUASpuzc2mAylBqk9hEvZa+lJo6LPGLBAujjIGXvmtun+BO2d6MyEPVOzCfwoIjQnRHRn4taOtvmRzB+jqSmAIFG4IIaviFZAvqffQqk+fObpmXanGpenvCrSAL6phB54Kj8OE/EbEFpIBd0RAHXQE+EjKnhzkZJ58XXDVqxpRXwS9I5M7+zS+KavwhNQi473ql0t+PgeNOLoJsMuhUE+HpLjvH+R8LGsRo/5ACNnB5nQa4IUJut0;/wBmjVUY6pPlqBlTXqQViQ=="
+secured: "9L2p5d0VY0dhoqyp+PBWtID007XoV88fc2yueZUBjEHdmqzlYfwxFgocGByODqylLAk5hnBrtba4vTz8S7htleO8bAzychcv9fCbKRSWMF991CUxThol3JONGyEpzyHrxM0zVotCufU5eMpmO9JCqyfoXSi5o1EXVLnH1i1SjYnFxgaNGyasYTTXJhqAlPdReuXKfBcPtZx6wNdSvx79awmqLe0QXSOVNVOHpDlfJjj0OkZRnJdPVBoN7D4ntNHNhu23ad1/doV07/onk8vqVOguChFP7rDFVX/sPhi+K71QmU7KeiQGPNuC7XbhILy3SB96hf6ugKfGVelCmh7mU75M9effRy3SeH8UVZnfP9inzyVNkNAwas8pT3B+EJfaC8rInTX8J1BzwqW/MXtm5FumXXqBB8GBjGI9DNmkfYV790QPdF7ZC1kCXXuwOilFpw02EY0ccxKKfJujpzPF1hY6Qa+EZsk2s7y7ncLSek4=;kD4cGLSpYM5fgUtNC/X/1Q=="
 ---
 

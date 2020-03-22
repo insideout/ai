@@ -22,6 +22,6 @@ images:
     height: 580
     title: "TensorFlow gets its quantum of solace, lid lifted on 'all-seeing crime-detecting' AI upstart, and more"
 
-secured: "J6fjrMuxzPTAAoGl7+7/uNmeohP+HCKd9yrEPA1MFsz+pXv3+DhIlbq5VQHRVnMePY2Uir9v/MSCcPvNhSp5inAvikDylYfYJC/wKKR/24m9AiVj2l5Aqu6FK8QjgBv5lMdnIm20dy7kJZHL7viYJUuDGuN/N/L3Ea0hcP5yCF3SdzDsgxU4FoJVBr7+6gRkjABl/cmLnC+Y5+bvbIJ5RbtlcPalVSuHcc+XBI58N05bqIkZ4X3xXit05xuVTywofo3z7th5wzsee8JeyfQa16Fc02EEID12h8mpnFDzOIx4IkU7/k4c1MrsUO7BD9ec;mSiw4daIs56ZyGffyMPsmg=="
+secured: "QC5tvPX6QiNyDGLwynt4GtKfuK947AGn9dXcraMdVhnPnDUYoa9ohtdZRZ/kYcLdOMWANGQ7bLi4wrZFlzoH2icn7Dy2mSgv4Qsu+YopADEC6buVazh96drYHaeHayV7Ky2zUCNu9+jH7z67Iy5T52p4Z4f0kNDHnWdnZFA3IC2m8ysIhBlhmBwELZiUTJtdkHUO5MIgJwffnEnfR3f1Xdca8KUelyqeaLoKPJkqlX7dY8dVZfl/PZhknOXYxKmPz4ESi6BB7+y7lHzj7uG4X9ghynYb0ddMDOODs7RR3YC4hg6AAFk12CbUjcLsfYsl0ilaAvOp8LVL1t8y4eEGPTBpJTHpARMDNrByllUR12R2xU6Lk/ze/7QcUmwk9Sz9ND1D0a1FHPDFMywLiE3oF4KNP0uyyX1s2ragRSN/gBZebw/CkGkO92X2+IyKRZRFxg6NgBTn/hq04KbOBNkAc96r2hP3Qj+xEfuwXDbQ2hA=;8FsCL6YvOCo2ffOQB3AhEw=="
 ---
 

@@ -53,19 +53,6 @@ related:
       - url: "https://mondrian.mashable.com/2020%252F03%252F20%252F88%252F6c6e0749cc7145c7bec5391a7546c6a1.22a44.jpg%252F1200x630.jpg?signature=fkhtsGRAGw3XYyn1F7oO5sjCCSE="
         width: 1200
         height: 630
-  - title: "Self-driving truck startup Starsky Robotics shutters operations"
-    excerpt: "Collectively, they might send a chill through the rest of the self-driving industry. In addition to the financial squeeze, Seltz-Axmacher said unrealistic promises surrounding the capability of artificial intelligence, investors who place profits ahead of safety and a trucking sector already enduring economic weakness all contributed to the ..."
-    publishedDateTime: 2020-03-19T16:24:00Z
-    webUrl: "https://www.autonews.com/mobility-report/self-driving-truck-startup-starsky-robotics-shutters-operations"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 56
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Stefan-main_i.jpg"
-        width: 800
-        height: 600
   - title: "Starsky Robotics ends quest for self-driving trucks"
     excerpt: "He cited challenges ranging form the limits of artificial intelligence, to a trucking industry recession ... “The consensus has become that we’re at least 10 years away from self-driving cars.”"
     publishedDateTime: 2020-03-20T14:40:00Z
@@ -80,6 +67,6 @@ related:
         width: 1024
         height: 697
 
-secured: "e8YALa0fhfFMB2znkice1KI+StwgNTcvAn+q7NsfXXoNCttPGLMUikBgVL4hwKCnEJ/R2Bdvetd10dS1J7eaci7POOCpNJ7wIFc9KVGBkgprl3djCwjbVV6SBQpLBpjNyeJUDseCKL+oDRK4cZi8cNDbPNB9ZtJnog/ldOLyCiiRcfvs+GP7N9CfIPNVoJNlCHLZ7Gz05/PaZpD9prdAcwXeJ9Ltz6T0j03NaqsWjgwZQ/bP3N0NLZ9LhyEck0Dbu8oLqE17pevW+Yg8qqWPEgOVWgh/8WyEkERXvAvwblvFOFPw856nCqsj5hwbzbzF;TLs8ufVBJXWwCm1uP2eQ1A=="
+secured: "HENwNtvaIQlGzGRXUewyjuDjHy7vG35mgWOxDowDXNGXLtY2zdnwKx+LQFSW1QxfIhXqIVUWda2dpUkDjCUU+NPoliBxoHDJXk4jjsvNeWfgFUJXDPW5S1OisPJ+is2917BqGau0lY3kHjzWpBya0QZMaYRI32GyB2rOHoOi9GlTdrp3TiR/Fh+9UlDFzM1Kg7hD06KITDZspeGBXYLF4mbCMurQXgRlxD0HTO1whxUBQk4KhnRo7QgN+gJHYcsvSbM9Al8GY3qu+G0nCnA9f9cCoYI45kwDvKU5fYJ98T3EJkMIssLSLVC8xOTOx3d8DP4mdxLGYqyNm34dkYqQJfTaKf3/IbFBa6X1GVbi/wQh0b4XnLYXBGmZY86h8QlUksKLWmoN23YNZnhEEbwploPmxoOsKGlgHNT3x8M9bV8q7F1Y5YzbbvOw4RE0ta0tlCJ+LEfc9S1Wopm3L4hpIFq/9aSe7q4QNCW2ky3PKoU=;RLYIitLyknk4yiaxiEANmw=="
 ---
 

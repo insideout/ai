@@ -6,7 +6,7 @@ publishedDateTime: 2020-03-19T19:24:00Z
 webUrl: "https://www.therobotreport.com/starsky-robotics-co-founder-on-self-driving-truck-shutdown/"
 type: article
 quality: 84
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -52,19 +52,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2018/03/starsky.jpg"
         width: 600
         height: 401
-  - title: "Self-driving truck startup Starsky Robotics shutters operations"
-    excerpt: "Collectively, they might send a chill through the rest of the self-driving industry. In addition to the financial squeeze, Seltz-Axmacher said unrealistic promises surrounding the capability of artificial intelligence, investors who place profits ahead of safety and a trucking sector already enduring economic weakness all contributed to the ..."
-    publishedDateTime: 2020-03-19T16:24:00Z
-    webUrl: "https://www.autonews.com/mobility-report/self-driving-truck-startup-starsky-robotics-shutters-operations"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 56
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Stefan-main_i.jpg"
-        width: 800
-        height: 600
   - title: "Starsky Robotics ends quest for self-driving trucks"
     excerpt: "He cited challenges ranging form the limits of artificial intelligence, to a trucking industry recession ... “The consensus has become that we’re at least 10 years away from self-driving cars.”"
     publishedDateTime: 2020-03-20T14:40:00Z
@@ -79,6 +66,6 @@ related:
         width: 1024
         height: 697
 
-secured: "88294fUJTl4rrxl+UggbfmmLw9TcL15bbrEaGSfpBgeDBtXZVhneF2AVIq4vmbeaSTyJq68+wtUO5zBdfL+dpvRn9eT/ACNvDgZGnJUG4Asx476OgU26m+95c5fHS30r+xG4I0/eDDjiwfD02mwkMED+rFUjxmxA+hamyU2tUmez5Ky7oXXDokbGDkBf80YMlk7EgTQTGSwmEoiwyLVa72SzrhozjIaS1D6ypgYHPs4wu3pmcJMwYM0LqSbAH6u/eyAqVjKwF49SwrzLppwjqyZAfLo7e6xToowHu4BE7z9cVktNBpSSpx9cZ6U68a5G;UVK4kaTNUMcOId15VTOLzg=="
+secured: "h3yWNHyluKsEE7Rzak7uoZkPSDqtleDGhsGjmAXk4YKqRklZbM7N0lcy8JbpR2BHyHCkrQzcLaDxCu7D3HNocs/iCnVJ7Qdd2yYxw+0n6UrPWdPTPihUIkzPiAf0uptfynV7Hp+ENOBvKHELn3qExC/+ujgPMJ4Y+6QKXO1rqxB0S5eMnSKmneZyOWZBeSWpHoVWCNiEB5pSBQkXQ8jV1HGACiHYhjKJjYc5G6BtrIj5lkRzblY09BVjdPQJQZ6gTEQ8pfSAWBPoYzDYlBIHyuxKN7kHsa52WvNnx97a3VhX6FLOwcoNFgP68rqMd5I8bCkb479QSqveRTrf9GAfQm5RYCiH8L1i4nLc/c01SHBW7cUp2LioBcvuP39E25ud+gHRsKLxNi/3ZgW1ijYqJZAsAccI3Hrz8xNzWxB0NZAemrs0YZSWP2Qazc69tKfdMF0gEWSyNyXzyyfET4ibTcP646vTgH1svFBa/uuFrbk=;/6VuxNH1RCCI1DehOkfCSw=="
 ---
 

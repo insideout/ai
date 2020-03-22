@@ -25,6 +25,6 @@ images:
     height: 1156
     title: "Is Inter-Company Automation The Next Frontier For AI? A New Startup, BackboneAI, Says Yes."
 
-secured: "zbFigcwN1S5IbYmIp81bwTG4kFWHOqW4FlnSn/tQ9ubYAP3Uz+WdsAb3R14fYj4QONvt84eoDExasAFo0q8/KRmdmm0f58dbBHwtd/0Y7M+bHEVw7cyTr88kr4j7jMTBipN3UmiDNlvFRssP/6n2Z5XX4a/HiTgTdPnrQYpHh4wbSXiPJq01G9lYp6jqZWwBhnnQEf/mm+PTWp6OFXHeBpLleCwEiK7pYQdC0gjzxNg7W/NxlJfrV5xrONIx9mkOTNN1mX1c9TiPOLf8idA5E7BeIr8Iz5L+BpAQQvH/1gfiImMTwJRWrpjS/ochp8EV;2iZwo5UWPUg/rC2caTkeuA=="
+secured: "7CcQkvfWjq+srFTdQkkbMKLqjlD8xhWCvOUwWXwdrQn0ZSNPK2fq0NDyJW0sU3HU2BxxWBFhugeUbWe5r/M8IVgcwtxP/1vMk3d5q/CuzXagpmyeUuFpgtFEX2CS3OiIZl1v60hJ9blOQe2BmIgcLVjN8ZEYND4vVUzww+S4j4e2gTVrlhGsgGgJYdm+t7nChn/DoQCJ2EbOVXbMhuShECtcaBXDqzuHDoWHFH1XFkuyqjGCthtJIPwWqtZMqCLdjJqjKkcpI6dZ/J2rW0iUrlv2cN9beS2D83msi8T0FH11gi/PAHB0mNQ4pHyDuUHmqahNqR7qg0nqgQfusYiwLp2ExKO02qJynvt7u2PA7Y7Emd//mji/+vGr19EnzPylfmvB6XC1TrBrAyaA3MddW8e5B2rWSldX+PmqzV5Em9zmNYj+Pfz7NE/KUVArgQWgpGgl0zuzC/e31Cc4NcCMyEMLJHFSVtwPCnPetaoYbFY=;KAgQ7YnDpASLtrAYPTFqEg=="
 ---
 

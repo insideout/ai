@@ -22,6 +22,6 @@ images:
     height: 400
     title: "At AWS Cloud Day 2020 in Ahmedabad, AWS architects discussed how their Cloud solutions could help startups scale"
 
-secured: "JaqsQJiZLYcuB5OAc7qTjevJZcFMa5GQhZAGNikLUaUHHhgOYHmehN42FkWm0wcwoe/PKfjp/y9gY+ccQRX/Kp4PtxOsvCGrFI2N2Sg+caPr34OV+YflHp9JK/aUlhJPSWldpeEnsDCrcp7ZrDczBTORU8axftwQEZImBK/saI+iv5WEBc2//trcAv3S5w7zEkLBe4GtmxAGN8hKHsG0m5o6VLZb+sdr+Jpx67Z9U92aGjteolvLInvaSqVRXx4yaX/7LrI7xptxYH+MiF0+L6USWQer9KP0iqLTUS7RLSvhf6wPCxo/+jwEKyrNHY/O;OYXfeN/QBV5zbeUATYxj9w=="
+secured: "2jSkSc1w1Y4hy91pkZI3DUiFKJqnM9DXRldPiFXMa47QjrQrOSwUSRQnDGr/aj3AT7PmtiXOiZsuCJy63Xq5vR2kIhzijb9WcAe4QhT8Bp751JEGfQZ5pjqGJ9uLACBvpwq13C4TuJ3bLwD7cutBzlRCGtVDg/xbP2o85zf1Vp9YJfTdgeL6XerR15vgeX+wlDz1IsxwWGfqtDvg+O80C1kmntxkKke+USGjzW0UxHWDqREjuPNVgPMlmpX6fdeFcXU+yL2UA1L+uB+6w1uVhMDdveIlpA2JJibf5brIp9LJJxO87o02hOaetsMi+hRRu4UV5Z1XFhqHIh0iqZr1YJuCt9hg7o6yCNbrKPmRKUv3VVJgbs7x1N1UBzn8ZLbpWRxGCHDS1tnxC+7zzMdCQ6py6rr4WTxGhG9CDkbhXnbPjCfkme1saBQo0oYBwWeDYF81mWdo//wonGD6GJZHwiUH6g8iKLplC8WuZHZhiJY=;zFTzor+f6AvHobEIIMwYAw=="
 ---
 

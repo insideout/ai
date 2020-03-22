@@ -20,6 +20,6 @@ images:
     height: 270
     title: "DIU to Host Another Computer Vision Contest"
 
-secured: "wteTCZkP/UhDB0IFJozAqISBvibTGdIK/zks6mio4hW1YSNw5n9NxUB8v/Ml1LX7PK5w+LhdB6H8c9b2YGWu4RwWvs49XL7T2t1cnTeJjJVDF3exSmxr+rc4Kus3EntqtTaWycCtgOeYzLmuI+kywotAz2v0cZi/nPazYVsf790kFRUi4UgKOoLEjqnl/kD8/ugfLhT+yNQANzNU2dMMGy/TBKU0kND/nxs4nH/gtEFT3lBrM6NqEbLA/5jv3CB/qe/EOWUsJaYp/W20Wn2980Mr3HoeUtq5sk2yM71EJbwuyvmGOaAazqpZ9zrbmIEn;eDThDL+ik/opEvDKhqsKFQ=="
+secured: "Wop5E+Wa+cY564mC1jjyCheEArLunqrQ/+QqrZ6UmlLeshxNIMaN5ymwMwS/SV8wMDUusx2m7NEJ0bFt2hVn4GVg8gX7PTnEOoWgNLIvV1nOWCzbbmKkhgFfVgIZNYhPQ6OpEeZw8AaM5eZwzpARV6lc8/hj5DVS4pbMiubiCo4Hh4FJCrKtiRuR/Ij6hAtu6K80hjaTmL9PK0IeJQ98xBrnB1sN5iSAEurbAkqsgn44jZkawbZZBf/sZYAeebu/GyDVa6RGHKhuo1Q+NIp6Ls3mjzKk2aBmWPlPwjvu/8AN2803ZozuSyUl/+DAeKW+196GXhEXpwFsAJDBrwbIGUQUmWTtWUJZp0ivLQFhgS7IvFAM8OFHpxFhfp5mFbekYsGH/Mf4nn1X327F4lNsHdVbGCPjBdpPS4vpy22O8TTpEZ+cFuzrJW44O/I9FFX3JKHzroHn3bHcNNil+2AwbC0O/q04l4NE8pjiY89vNBE=;/+VoHLzQYWhacbo0o66YBg=="
 ---
 

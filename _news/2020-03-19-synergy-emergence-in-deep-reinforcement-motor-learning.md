@@ -20,6 +20,6 @@ images:
     height: 315
     title: "Synergy emergence in deep reinforcement motor learning"
 
-secured: "x0VtudtgHbgwN+h/+ndCklX686WaT9mkMLJu7dSY90JfGluY8tXGRcWq3HVW3VtfyQau8gEqAGF03JdYXgwzdpWlkol+1pD5VHFUjzta3l5k/7FmJ5AxVIV/jS82DbizD/+cpw0jXB00PoWEqFaMzk1MgxaGNmyvnLPMlG0XZfn3aMIRW9eHoVcMozcVgQp5oTsOz4JhaKTr7OmLA4EnczU84Taa/rQvoAsGbEsi/QfnFTP/puzbvVJqhqmzs5MZBtoEpkL3yuAdT4KIHT2MPC2pGXk21N+3/EsdV5clA/TL0z8Aepi7Nr7GPuUuCMwS;KnqIBaoKuVqgGWeTR5PseA=="
+secured: "u5UgJDasZxISF6yPZgdNJX+RdrOF5qLvgJQ+Y2YjeUzxl6pesCkf6KB3hZ9aDU9OTqVhxcOBS4YYvqOu06KUxgwB7c9F09MbfcwfILvjEv9rkAQE5s/0rSgTS5W/+ApWhZBg8tC9eKkJTLx5/xbitENnkNiHM0tuPQnrmII7Bb3CrHIzd43Q6TtAxa29GJ6Yiz3qghwXi+N21Az/XvR+1eiRmcdgbJUINvTwXpJrPFt5OmZmGhe3DoiPwyT3GF9T+aFg9iSolPaH3J6pOnV/dFlCcdlbNZk8AvOEEXwb44nA41/JfjfU8tvrnTuZAAfSbA5+UnNlnZUHZOUhexpeVXaGGJ2HGU2KWGdyT+S5MFg+6/0uC/M9MytfjmXivlqiYXlgQMseVGsgU7u9h20gOMage1MVkul+7BdaozdnRJgPrOWg/Rar3W/5uKeZr8/ZCJl4TAnjg9JlqV4hWdkzC9b8FRv/akKkDLKeY1DRSGk=;flqGbklKi7fSyk8tMNELyA=="
 ---
 

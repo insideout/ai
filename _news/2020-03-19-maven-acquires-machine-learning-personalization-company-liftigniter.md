@@ -25,6 +25,6 @@ images:
     height: 406
     title: "Maven Acquires Machine-Learning Personalization Company LiftIgniter"
 
-secured: "8WEd1/TDlvJj3yOUxGFixIRi/tXnZrIwAOnUAbJQ/fKndicm+6/ICkrNRMGAGQkQF/FwPIxcnRyeqnFTbhdPIjE6xqtJWr8aakIp+6hrgUbL0wrYmswZS2z/5naHNDg3FxEEqvL3/9oT6CMoVT6UFOq0YDM6slTn0rbHNB6LF1NmB9i5U9UOvGS1lcpmFgnHW+MJ9R1VFR041gc0rU664nwIC29GzCqsWGYwJ7O/ZPG0bAtXXwnks4k3aV3IUIFbX8KQLHhe48LJuO/CsrXTezb7jwtK5ww+4PKV9942YeUVSvdOcXi4Qcr8Gbr8IALb;g9CD2j41D047kdGpRx9y9g=="
+secured: "ay++bu+2X44+Rk+ZhBwl2GBKHyAtuXL74y/qQxvdRHoHRYpZNYTvddCWkGAh2sjmOLLQhnPFBL1DuyWukxc3Ta3Vwi9bOM/g35Z604IhNzVA1xHkW13X7Ip05m2Obbl6bgocejEwJORuf4qOAF1e9/eafbVOSP1RRG/+6+C4s43EzKPHuhKT9/FfU96YuQxQ7y8Oq3kTJv0GYcqkYA20j3eHjcyXrR2tpFzH8zGxY7dnUvPd5eBkfzdL4/faP+sCkChEx33iFW/AvVO8Up1qvubYYsWiN2bmlxMlGHYUkGleq5PQ13z+yxqzNnD7N3+2gIa+4m6eINYvjGXzYwf51qHbobQjkmmi/4k4FI4678SSVfDeDwlPkLpbh23NMYtKy2qRSbAPQEFs0EOx6SnXvOQThmydeEDjiOo2N3qrvYRZZa5ONVDZyfcXW4LQS2ocb/Yy/5i58YZaij6V9K9QWgy9PTIqTDAqzO/0hWJ/y90=;rIbjos4Qy1MWh/UxGdxr6Q=="
 ---
 

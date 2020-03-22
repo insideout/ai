@@ -24,6 +24,6 @@ images:
     height: 600
     title: "Here are 20 companies Google could buy to boost its cloud business against Amazon Web Services, according to experts"
 
-secured: "tW5bkiBZSNOd7Z3noyz6LMj4mz7ebyHHFbdMc2U8jaBmkWwsgFdqRLWKwYLswpPq0FQPduM5SGDHDa9Xr+s+XtOcomiAg3o0ZnM7EQyc9P9NnRX5dA1A30U0bk7s6uYtWnQYw0kl0kIhXMGgMLPiBzVyu3D5GVtiBg6d+HOhm+hnjmMt+18dibA4xxPlJnl4Dl/U5IbAOP613+ZDssBDG+VdLpLbYNNmtlX/CQGkuuO0qIGCZ8+hPFtcBj7mhlBuim63Dpq25Ajkp9AMQHpsG/aMiIElhkk0NqjRl9hpVEImQGmTY9LfJVOgcU3OABcW;LIg2TwuNK5En+bfxbLH/Jg=="
+secured: "C19n/wQRDcB7e9EJtU8krMEUn9WXQrkXWd750a94xwqN1loaRJ+P2KjnTYwB1d8e/fkii+uyUFbtBkBbjAbBA6UGb1PeGKvRxWALmmSjARoKh885S4F4jhVNZNI7n4eMAXqpd5Tih0w78sUN+4m74oRTTdVZPHTjMGZMSNBnI4+JjtPenDb1hpMExda0M8QarEvW2JKlFD336hAKTZVkZcS3vq9TJez/Q6w6mP6MXAnaXaSWQ8Fl+QS4XPC1nEZ+wdfGJneb5LuFSENJWi0TJOSqkiJgdRtKcRnqx0geLJKSPASP66+M/Cu+Pu7vyuQYoEw3gN/dwUwbHR2algScd23/OVCVqSJH2PHgMwpYSUE5piWLugZ2kZANGbc1JrfKJJniO/TrUGewFdzsez1Y5+nsfNTC0vsWCkh6K3fio/jjWeTVVe7kvF/OUdqNtkFhQ0HA05mvFTrpWjQHAaktqYVSQF0QUIRp5v6UetbuWng=;1NabiW+YeJG8idLGpNo0LA=="
 ---
 

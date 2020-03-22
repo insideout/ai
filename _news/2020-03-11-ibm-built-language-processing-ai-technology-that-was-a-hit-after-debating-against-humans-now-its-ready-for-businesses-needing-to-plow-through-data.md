@@ -25,6 +25,6 @@ images:
     height: 600
     title: "IBM built language-processing AI technology that was a hit after debating against humans. Now it's ready for businesses needing to plow through data."
 
-secured: "N55gwbM3t0evA1ZtD7OzkOViPFzyuSsCtVNz+E8vEioR4MYxVAK4FjiWVFXNVkKnFLBm1BTZB290wFX2rZihBDwb4bDdLK9gwP7VpOzct4w4bXZ5H5vgP1SL4p0GoKG01aSWSeCriUXjTDLdZxkkKQFCenBDqjPiWfaXHJwA2hIXah8FTLa8Yeytgk5S4+wgCdYQkYetGdRjBt2yPARs+evM82vn5DsKJxQVVtPkQns2+8BrUZHAhCFEgFmLAqcRufacbtj2j6plyquYZDXuNR6vedPew4HMLfxc1tlHhk2BH3GLzo0mSBozz512WABE;jp38xRk4BLDrwJmx//+ITQ=="
+secured: "IFnWH9LQ3/8XIqOzlB+klvu27s/4mWUPusX/b0a/DrDrnAkAr+HqI5XP7lEkl8q4mnIYcHHBhzZ6DpdcYTxo5Vdi81gXPoqO6Luiz+vzi8nJSE7OML51eeur7uFIOqdvqpzN7l6RSUym6pWQNA7JpvJGk8YE9EJ5tLc8vEPaXfpCvli7yk/hi1Qf7FV7iVMVRTUW+5nh++mGwylWmyKWxayUSjsNPh/WhvPfFcCBtziow1vIjaGLPo2+WFtVmhx6D8TSmkfvkkmHDFDuLV9Bwdc5RGutzzYOV0xpf6qow3XUg3I7EZk1EBKaElGAoGN7655MTQFd0tRDJtwQiLxNEYcPBj5zzcgMKDNg4nRE19kIW3ONI2ibE7Cd6W4zkBvezB79NHeeUVnj8HB6QzUQr5+3YLvwcPslrQcG+bs9z8b4YGaRhN+yBoyNDM9O2Q9RAmeULEVzDz08uBCXBw4J8xcd7/BgFtjZpR+xuntm4Fc=;pra+t0ou7fvHDH8XoSvQLA=="
 ---
 

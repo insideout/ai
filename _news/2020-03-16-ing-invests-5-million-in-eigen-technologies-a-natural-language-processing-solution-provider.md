@@ -22,6 +22,6 @@ images:
     height: 239
     title: "ING Invests $5 Million in Eigen Technologies, a Natural Language Processing Solution Provider"
 
-secured: "5BuvzaBG08Qwr1HgkCmc55XF46E8RqJCKeNkC0uS+O9bMVhpVsQeDighiyBLt6UhV0PrmpW6KIiQwsedIXvJOaZ6Gg6y0wFqt+v1Jwc98FbAR2SGIfQ/+Rrh+dDFF3uc+tkZ4kHdbUdYI5Cp7F2xOSmrlcLI5zK4NoQWKVQMqNvNMtd7oRSIM4u/NGLFOgdXUxvXYy97v1gGaNcW6Aw9lAJP/m6rz8RveX0Hv95ycLJalBCsgqyiWolXWUDaMrQdm/j3tKLlVTFaUQ28PdyI9YZ7zUn4sO7K9QLDyEOdaSbFrxY7kgH45F++nT8M+jle;P6c7cGvCwAcFNIq4z8OotA=="
+secured: "P3l8qCmLHimUpxoeJnQ4kHXn9CuwSwjdbGxSRvVVmTNpZsEk30GvUgeM+RdWl8MA5bVaHZ+KdZAr/ApB7DYhimbeu/5KZyIbEU3b8MQJ+/cpBKPa3xd0WcjEWJSSEmyZxH02iKX3sz/le/J+ktRzLDrOYl8BZ35TjHC8cJ8uWgToGuguZk+SPzjgefacDwHoOAMn3oLBW/yxmB6T+eUVG8CkXYGV6pBOgrGFWh/l5ULyUb0zC0ddFhDyfcCNHn/vvjK6qPUK/apcSEmA/jllVwUN73227711svdZLFuycVxqRGA12kpPh0Wof8LfCYSOkOZp5FrFWR+2rfwToSeraDB0mbW63TNlait1+QKVJ1zg10B0RuzHKPeuQMPmH5P+CH5j7YEYh0hvbuqoqJMuuA5lksmXLYsZm0BpaOd1ZYVi6AKNfNWvr6zhm/1dA9z/OPoa4DkLeIbb2lbtNiLCw6LbYp/Kq54Pra/4GAikv/o=;2LkSXce8ReRrV2jIxpPqsw=="
 ---
 

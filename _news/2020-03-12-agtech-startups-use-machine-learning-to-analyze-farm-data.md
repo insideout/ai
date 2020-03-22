@@ -24,6 +24,6 @@ images:
     height: 471
     title: "Agtech Startups Use Machine Learning to Analyze Farm Data"
 
-secured: "nhOv+sDea/iAvkt0guKyXm51rs+ezOqplv5RcrbSLW1eL5kIlsz9MefQhWsJAmb6hlnn8/sVvf6py1Z2mQSQYwIPokip8vYp134d21SzDzHp53LLjMuoNRb4lGb/sI2oC5vlu85qGCO3jhFfU6eTTHtiqSbV3GQwDEgngAH5DX5iCCyhKk5qy2wXud8aPLj65zcCArCXVdYxYIvdHi+iF/99FOEDtOgNHQ9jiwzEVMIYVgoem/lA/5TN+YDiOUmA3ERqNIHuf/o+lmigHZBj/3YZrZQ4GxTjUx+QAe2Wo23zY0julT7lel0Khl3P1I/Q;XlJC2myZ2Pb8T4fLjXDwxQ=="
+secured: "YcVhtqBmkmVosoYioItWDkEB+/F1Spg+xabcDfDQLxjktdS5EhE03MJOBwpDUuBK8Vl0msRjeoaXEHhaLwpz1BAv87+4JfWmsN+uY++qo+ps9S9HsmaQ0rSMeAX2Z/OJ41HvsV/6jD6KPgRbGt4lfdaqcoO5PCkQYVzSi0WQdwzCpl2Fwwk/laZVYnsg47633ffguT5RHQ4zuckT8Q8PUhDCpFdCqp0gRAWdGh7hwbJiMQscbAqiDGKFggNisVSscSbNyJ0q6tuOSquadxecNAbPdTTNKqmfwiIlBfw+lHQEOgALDi7KZDHRqdv8c8GxKxviZ/C/XqQyAM4rcor9UKeEFSjPYgT+w3uwCpGzmsZzWZGms7YR59EOfRTLotw9KKyECwX+r2F/9tXtVadYlwx8z/TKD8exv6/q35AMMXajaVVahalDukCyfx774bRQbz9Ik8QWEycNfZQ+mgYEgrdIvuuf6uS34xGKKpXTZUo=;xxPKPjhPqRdXtLHRJBtmBA=="
 ---
 

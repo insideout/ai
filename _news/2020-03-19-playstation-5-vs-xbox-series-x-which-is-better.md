@@ -20,6 +20,6 @@ images:
     height: 651
     title: "PlayStation 5 vs. Xbox Series X: Which Is Better?"
 
-secured: "PlVtzhyHTxKk8hzXNwyHRjI39keN4zrXHWKaEZ7K+rWKrAP5HoQ0w4NccM+fVVYN7c4FqIpyCsnKP1/SD4X/CLzEmV5+APl4AkjAwJ5Nom3G3G0hyu/cUuOTE40PRUPG1A0+rQtkuDz4Q2pe+R0/hxzwX29blgsYQZZtyX9DS0fne2VqBuTCrfwSgjIQlfFFRTx6GGb7Z+i1Qx92sDJ4JbVHB8DbAeWVuJ/EpdKE3oapR7N2IqtucQfZkfhRHn1/kKrpb0zg8rXGNSJPXbiYZ4wnxf+XVvg253Cnjfl5VoQRqygY/ygHts/8pN9YAGot;qy9qRqN5uvx1ghThUKE7WA=="
+secured: "Ml6QYxFJqkQhlO1Qt2Kr+c/4GAP0CvJIueaq3gSh/1efnQvU0nn3UpdyQm1v9GuUa8oZlAVYbSuM4plePhLpl7sBNIZUEqi51f4MJjt62FuEB3/iH3C8D3SvZ6VU6XUNEGx6O6peXBBHvT2llkabfZAdSNVzAY7KGfvSTH2Pn1xERf34GE/AKkzuORaXXjKe/p3wj6js4ZnhUnxghoFShYGxiHCQDp0UfT8+eievh7uTxKbh04vpgX6aumHRQFTVkgMxnFKBep4FQX2/zspaZJ70womloll/uaQstYMlqfcaPv4sxM55o10MrZ1nk6zONJ+gSPYDc7cs0e7z6uI5X2UszaNMqOtVXdgOJXXK60Xt/jVtaUOD3fMRoKlWemOK+2LX3Me3EsbvFbHZ2IhH8T4wZO6ElBdJY6HUqbZclOfRxHk7nUmjobMsYMxh/ydYfHPvppPbp3O+7MC/4AkCMu88M+fGEaDjz/2lUpJPX84=;+UhpDfD/xEYvy+SLJit/QQ=="
 ---
 

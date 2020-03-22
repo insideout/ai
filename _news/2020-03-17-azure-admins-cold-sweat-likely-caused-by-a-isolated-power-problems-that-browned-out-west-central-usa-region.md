@@ -22,6 +22,6 @@ images:
     height: 432
     title: "Azure admins' cold sweat likely caused by a 'isolated' power problems that browned out West Central USA region"
 
-secured: "+QCaErgVPFQVZgjDOquM4HV3p5LsCp2Bv+7ry5e+VEBpk19c7s4yDeYrXBNqhdqfmO440nUCyjEz2m05EmvOGhNMOpYn8TWbDzvDCSo4vLapBR6E95wSlqhR3Hc/Zld8tWj9ZbShsQh2jC6H9BeJVM77FpPvko5AinzHlwK2sguZefc69PZwsQsewi8/Xr4c7bt8sewJfswIv0HBqJeMlhVjE3LMSouzGZdMHIgDMdoPjX8pjRsS8WHSBP+6waufU3cR1cSyl128WuACofl1ThJw5BmWT5oOP3mNBmN2nBNnSaOeFcv3u0udeH50NE6v;ALxOEdhINRFL82E//Ol/Sw=="
+secured: "z2hcFV6BsdTNW/zuAD2MJdVJSvvO3x/h8ULJG0yTNZ0q/uscbhAEk1lufwmplLxzs6j8JW6EmXsnr31QYJjvm2M1Yd8RS+ZSA08TQuqFRTmJ7J2/xQcbA7Ft1+leR2Ll1KUoeEtLDOuLAJ3obHmLrekv+7DDoWD1djs/rkWSo+NzIsqgVGQ6NrGH/aFSBrWC42zRrXg5hUDGKd+tKBynPkgQfy4wxIhm37z9HUX4Tz89gtaDM9aidZ+8NZ+Z/n0pkHZ4kYfxs+MOAgzHWaYdjyhYGMfzbnV3ial7+EAoTJxucTuJPRaseT+hCi9LgpS3iE15dYJlw9iz6ZTuP/fz6nnRQFcVg7+0p7OTwfWlA07sOgHCTdZNABV+HSItONe+qeG3Aa1Q83Dh+7hcRsuic5/LC90vGKaVvjmOQEXP8HyDduaDr+WvxlPVS3H1TtsS+mXJWcLJ8eXMnryjZCiKj1ohkMZ5Yhr0ukGDNIpJeiw=;PYx0Iw3dQxQJpU8eWhQhiQ=="
 ---
 
