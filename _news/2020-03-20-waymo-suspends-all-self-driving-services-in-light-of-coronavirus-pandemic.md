@@ -15,7 +15,7 @@ provider:
   name: TechCrunch
   domain: techcrunch.com
   images:
-    - url: "https://ai.insideout.app/assets/images/organizations/techcrunch.com-50x50.jpg"
+    - url: "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg"
       width: 50
       height: 50
 

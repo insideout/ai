@@ -531,7 +531,7 @@
         "domain": "cnbc.com",
         "images": [
           {
-            "url": "https://ai.insideout.app/assets/images/organizations/cnbc.com-50x50.jpg",
+            "url": "https://insideout.app/ai/assets/images/organizations/cnbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -576,7 +576,7 @@
         "domain": "businessinsider.com",
         "images": [
           {
-            "url": "https://ai.insideout.app/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -835,7 +835,7 @@
         "domain": "wired.com",
         "images": [
           {
-            "url": "https://ai.insideout.app/assets/images/organizations/wired.com-50x50.jpg",
+            "url": "https://insideout.app/ai/assets/images/organizations/wired.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -880,7 +880,7 @@
         "domain": "thenextweb.com",
         "images": [
           {
-            "url": "https://ai.insideout.app/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

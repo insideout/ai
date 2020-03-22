@@ -12,7 +12,7 @@ provider:
   name: Quartz
   domain: qz.com
   images:
-    - url: "https://ai.insideout.app/assets/images/organizations/qz.com-50x50.jpg"
+    - url: "https://insideout.app/ai/assets/images/organizations/qz.com-50x50.jpg"
       width: 50
       height: 50
 

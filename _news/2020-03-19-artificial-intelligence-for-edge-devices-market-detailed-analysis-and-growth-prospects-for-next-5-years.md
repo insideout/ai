@@ -13,7 +13,7 @@ provider:
   name: MarketWatch
   domain: marketwatch.com
   images:
-    - url: "https://ai.insideout.app/assets/images/organizations/marketwatch.com-50x50.jpg"
+    - url: "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
       width: 50
       height: 50
 

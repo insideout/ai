@@ -18,7 +18,7 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "https://ai.insideout.app/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://insideout.app/ai/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -63,7 +63,7 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "https://ai.insideout.app/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://insideout.app/ai/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -220,7 +220,7 @@
         "domain": "geekwire.com",
         "images": [
           {
-            "url": "https://ai.insideout.app/assets/images/organizations/geekwire.com-50x50.jpg",
+            "url": "https://insideout.app/ai/assets/images/organizations/geekwire.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -303,7 +303,7 @@
         "domain": "linkedin.com",
         "images": [
           {
-            "url": "https://ai.insideout.app/assets/images/organizations/linkedin.com-50x50.jpg",
+            "url": "https://insideout.app/ai/assets/images/organizations/linkedin.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -452,7 +452,7 @@
         "domain": "zdnet.com",
         "images": [
           {
-            "url": "https://ai.insideout.app/assets/images/organizations/zdnet.com-50x50.jpg",
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -608,7 +608,7 @@
         "domain": "thenextweb.com",
         "images": [
           {
-            "url": "https://ai.insideout.app/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -653,7 +653,7 @@
         "domain": "techrepublic.com",
         "images": [
           {
-            "url": "https://ai.insideout.app/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -809,7 +809,7 @@
         "domain": "marketwatch.com",
         "images": [
           {
-            "url": "https://ai.insideout.app/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -891,7 +891,7 @@
         "domain": "geek.com",
         "images": [
           {
-            "url": "https://ai.insideout.app/assets/images/organizations/geek.com-50x50.jpg",
+            "url": "https://insideout.app/ai/assets/images/organizations/geek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -973,7 +973,7 @@
         "domain": "forbes.com",
         "images": [
           {
-            "url": "https://ai.insideout.app/assets/images/organizations/forbes.com-50x50.jpg",
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

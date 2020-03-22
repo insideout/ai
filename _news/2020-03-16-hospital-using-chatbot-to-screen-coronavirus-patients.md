@@ -12,7 +12,7 @@ provider:
   name: TechRepublic
   domain: techrepublic.com
   images:
-    - url: "https://ai.insideout.app/assets/images/organizations/techrepublic.com-50x50.jpg"
+    - url: "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg"
       width: 50
       height: 50
 
