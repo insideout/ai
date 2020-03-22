@@ -13,7 +13,7 @@ provider:
   name: Bloomberg
   domain: bloomberg.com
   images:
-    - url: "/assets/images/organizations/bloomberg.com-50x50.jpg"
+    - url: "https://ai.insideout.app/assets/images/organizations/bloomberg.com-50x50.jpg"
       width: 50
       height: 50
 

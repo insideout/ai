@@ -56,6 +56,21 @@ related:
       - url: "https://media1.s-nbcnews.com/i/newscms/2020_12/3277166/200319-anthony-levandowski-2019-ac-1123p_aa34af092ffbf787558f21daa2586052.jpg"
         width: 2500
         height: 1668
+  - title: "Google's former self-driving guru Anthony Levandowski pleads guilty to trade secret theft"
+    excerpt: "That's a lesson former Google engineer, self-driving truck startup founder, and Uber executive Anthony Levandowski will be learning the hard way as he faces a potential prison sentence. According to The Washington Post, Levandowski today plead guilty to a charge of stealing trade secrets from Google. It was back in 2017 that Uber fired ..."
+    publishedDateTime: 2020-03-20T00:43:00Z
+    webUrl: "https://mashable.com/article/anthony-levandowski-guilty-google-uber-trade-secret-theft/"
+    ampWebUrl: "https://mashable.com/article/anthony-levandowski-guilty-google-uber-trade-secret-theft.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/anthony-levandowski-guilty-google-uber-trade-secret-theft.amp"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 65
+    images:
+      - url: "https://mondrian.mashable.com/2020%252F03%252F20%252F88%252F6c6e0749cc7145c7bec5391a7546c6a1.22a44.jpg%252F1200x630.jpg?signature=fkhtsGRAGw3XYyn1F7oO5sjCCSE="
+        width: 1200
+        height: 630
   - title: "Self-driving car engineer Anthony Levandowski pleads guilty to stealing Google trade secrets"
     excerpt: "Anthony Levandowski, the self-driving car engineer and former Google executive who joined Uber via an acquisition of his autonomous truck company Otto, has agreed to plead guilty to stealing Google trade secrets,"
     publishedDateTime: 2020-03-20T01:26:00Z
@@ -87,6 +102,6 @@ related:
         width: 1200
         height: 800
 
-secured: "uPnH3KtbDaUXbJiw0M3t/2QTW02ZxeBs9BIwj5C2lWVCZaCi4hpv5gH7zjJGegt83UUS73CCDWDblIGEOubc26Cvc6MCPZ/7tXVeoQwj9ZqYytJdPMsyx+5VgZz6tv5ku8pDpn5exXmnHqfQe1E9QyZcs3qN50aJcPnyvbMUev2OPNr6GXqb25kJmSPiU1ptEfXH80BJyAL+nXENREBMl3f21z+z0Rmw24v4SKIdsgF0CGyeq4shQ9d+Dhn9YG8kWvrsffB9Esot8K0JTEQpgpYs75HW4ie/nY91PgzZ/NKFHJgytZyljBFUH0rBJ42L;dTXYvuGNb+DWigNfgVpvww=="
+secured: "htLZtP5ppa5CKTRG/4+j1q6ukVRYusNWZnyV/jUWNrHnLRSPF1UeM1oEXDjaGWG//KrA0TgXeeAvHAAM7F5oDpzGDBpTdy8YKb0gUCrg7XfTlU2CjGH9fq+OQtaLnAIRdwkHIZ2WcmOeHsomlZdzYqgHe76SnU/n+Vap25XdTG+efYP3FhNlQBxeLR95qfuXQT1lKfIbI6V+Uf1ltl57tzZpiDEObpHhmXZ8Xv6sQ0i6P7UoUUQAxujHnCoLLf97EtA4WLOYAYR0kWxmxoLEY5LsquYITgsQ7wKE2OHKp+haoHAMmSdDI25Ot9t2soJlDG/D2IF0qlXLAzEzf4WeeKdkGZmrnHX6NI6Vi0HfrhQYzY85N9vMOUwWuKWcfeUGOMftdPXxK0GjnaVyH0VfEpW2Eq6jpRo17r4TJ+aTRoI9A9RVZ2efZqZWxyveO0QD0SmlIdZJxnKrfEIZ/b061cM6o//kGPJA2AnvpCa1WPA=;MEOKqLyg6e2EkiMXs7uUfg=="
 ---
 

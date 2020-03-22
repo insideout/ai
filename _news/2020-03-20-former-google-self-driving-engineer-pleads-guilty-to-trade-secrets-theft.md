@@ -41,6 +41,21 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-03%252F97bc78b0-6aa9-11ea-bbef-ef6aaf3814e8%26client%3Da1acac3e1b3290917d92%26signature%3Ddfbe6b14bd6b68e0cf808e931d1901198bc44b47&client=amp-blogside-v2&signature=6a3341e3904862e1c842819e0249daf2fe72c112"
         width: 600
         height: 350
+  - title: "Google's former self-driving guru Anthony Levandowski pleads guilty to trade secret theft"
+    excerpt: "That's a lesson former Google engineer, self-driving truck startup founder, and Uber executive Anthony Levandowski will be learning the hard way as he faces a potential prison sentence. According to The Washington Post, Levandowski today plead guilty to a charge of stealing trade secrets from Google. It was back in 2017 that Uber fired ..."
+    publishedDateTime: 2020-03-20T00:43:00Z
+    webUrl: "https://mashable.com/article/anthony-levandowski-guilty-google-uber-trade-secret-theft/"
+    ampWebUrl: "https://mashable.com/article/anthony-levandowski-guilty-google-uber-trade-secret-theft.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/anthony-levandowski-guilty-google-uber-trade-secret-theft.amp"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 65
+    images:
+      - url: "https://mondrian.mashable.com/2020%252F03%252F20%252F88%252F6c6e0749cc7145c7bec5391a7546c6a1.22a44.jpg%252F1200x630.jpg?signature=fkhtsGRAGw3XYyn1F7oO5sjCCSE="
+        width: 1200
+        height: 630
   - title: "Self-driving car engineer Anthony Levandowski pleads guilty to stealing Google trade secrets"
     excerpt: "Anthony Levandowski, the self-driving car engineer and former Google executive who joined Uber via an acquisition of his autonomous truck company Otto, has agreed to plead guilty to stealing Google trade secrets,"
     publishedDateTime: 2020-03-20T01:26:00Z

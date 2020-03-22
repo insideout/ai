@@ -7,9 +7,6 @@ webUrl: "https://www.benzinga.com/pressreleases/20/03/g15611470/domo-announces-s
 ampWebUrl: "https://amp.benzinga.com/amp/content/15611470"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15611470"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
   name: Benzinga.com
@@ -19,6 +16,6 @@ topics:
   - AWS AI
   - AI
 
-secured: "4PNRcKLxoNXrrLtrzTIIjfzhRFedXb24AMafJ/njzVbB3t5qGoKumGTaRelGdW3+mD7UhH0EpTPr9xPVrdHP7wFVGOf6GcXlQSqEEgS4ZYF1t2LTBOT7OTOpzHLeNuvLYuxkqCUs3EfmH8Fg5SXSjM+NtipuN614nSU/GTCmzDcABfrNd8y+4RfC+BIGmIoFZ9hl1M32EYxzCnab6Iw6OcHMcDsxYN0TBubyGFna6yYX84OC8ytVrFRzY1a9tATQNtNOjqOgtoAJFwmL53d+p+PKRa8eGC54N6qwemo06F50tNeTCiFsAKQI2jtIgKxq;HdpZ8+tISN1jKJcKBMcKUA=="
+secured: "fCe3wwtEAC4T5Z6LsAafl5SmpNWDK1QAPTTk+bGDFvy+sR7SfRSgok4WwRgpx4XLOLHe14rnfWxYoIcfZdUiWjtBLDYZvryWR9bn5ImTHkb+fm7ei6CynpFR3FHMZYNW7W3ZlZrQRSgJZqLlF6WnmvT4hv6E1pADWVmrRaAFZHi36gfUcyjmZeDNbbQhpQ2lHYUJAGrtBhySc9b1qUP41XYWVXaI1XVg0FzR19iqtRV/bhc1NyOEuxesTcRD+PS4NFbjYASLiUDoI3hTSGCh/T8Z0JMw8g6xNnO0OcK1k8PfFKChrQRPyl9rhM/Z/Ppw;J70bYs/Qz6sblGkItrjYoQ=="
 ---
 
