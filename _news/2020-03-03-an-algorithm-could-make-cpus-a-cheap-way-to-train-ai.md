@@ -26,6 +26,6 @@ images:
     height: 350
     title: "An algorithm could make CPUs a cheap way to train AI"
 
-secured: "s5I+zsko3wAhBqz+yy8dNzN4UtWDDilk8Ssci5TL0wSklSgrduPfqQbaaBPUVuMvDg7NR9Gl5vQA2NwW+7W50h0kx62ZDo1+jYA8fpSh3XGInplgs5FaUiP4hsIdOCGLQbdQDCzsbe9+/a1IhLbRdUO12eUd8NTFzTbrIEXU8ygdUT6DWt/De0mAouya1075/h8xOIQjz7Iix/DxtuAAQJ4y8Mv+vKLuuFtWW3VPnmSaBMKBMQZ/Ab+B5LLDdWNIMDYODV06wu1iEcXUNIC+RY3Xdk6xYdGaCFg3fGlrYYP5vyWmgoKM8+uLBylybWDI;2ZKwfG7EuDXbdPMq4tS+UQ=="
+secured: "DgnuUnp+4+zjTKJ6Gox7ljFwUxVan0HpurENY12Qcw6PPIPVvMNXOnDs/pOpxH8anXPLXFRkdpDIcOb3FFw5LvIMxaCt6jSmzPttGZ3CIvSkPoGoYUemXir+Vr342V6NhnWUDdHcGt6t4IiKvbxt6moBi+JfTlmWWqP9vauyTZUjqJwzphPcGrUIiGAxF6q4d99H723V0k+FOsjDtmqg4KKKrY8OlJHD71t21C4SAU+d4Q/3kwNGQnenJrlyahM2yKjWBlqwKyUAFEwgpOmLHPBk+/hnL1zZCfgl1AN/wix5Ss9/jEq6j85vjZ1cUXdv1Qxe5WTQgbFC+mjvCWmVq7gpWS6uTfJ6imqslNECTeumimDTnKnjcf2OxfWA/r4eUOTr0nJ/JoJz02hO1g6H7XKrzTZXmYgC894i0s02bIl/BP8yuISRQvNWvCtmuk0X0QPxcaeXHUHnmpOFtSBQZVRX6y1jTmb4BR8d9CWzzlo=;FUOfB6JB+jhLHqfD6aG9Bg=="
 ---
 
