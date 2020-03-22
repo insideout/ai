@@ -2,7 +2,7 @@
 name: "mojo"
 overview: "We are experts in tech, working alongside experts in fertility. These partnerships have fostered a vision of democratising fertility care for the future. We believe that everyone should have access to reliable and affordable fertility care."
 type: "profile"
-heat: 377
+heat: -99
 
 website: https://www.mojofertility.co/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "mojofertility"
   url: "https://twitter.com/mojofertility"
-  followers: 1067
+  followers: 396
 
 size: 11-50 employees
 yearFounded: 2017
@@ -31,15 +31,15 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://media.licdn.com/dms/image/C4D0BAQHsFAFk_hzHSg/company-logo_200_200/0?e=2159024400&v=beta&t=Jg1No0eTMhtEY4YEVJuqAmh91VaEpecGr3UFqgw7bBw"
+  - url: "https://pbs.twimg.com/profile_images/1196207041997672448/sX77d5b1_400x400.jpg"
     width: 400
     height: 400
     title: "mojo"
-  - url: "https://pbs.twimg.com/profile_images/961191390997774336/KxVaJhnX_400x400.jpg"
+  - url: "https://media-exp1.licdn.com/dms/image/C4D0BAQHsFAFk_hzHSg/company-logo_200_200/0?e=1593043200&v=beta&t=XELIYRnLpBnjNinKTEDXxlBBsYw6skK-jFNv7eTvawo"
     width: 400
     height: 400
-    title: "mojo"
+    title: "logo"
 
-secured: "vrXMGv6os+yiWCrJ3+fy76DDvue1oGddEtkjjb0mI+WmQxxkktJwPjwCDxEqP7Oeo57awtwpMDjwYmb5LRampb2BW+l7BNgbe3MCupa8h1AbOL16Gi5RTxd8JP8yV0mKtvNoEKA9EdJvOH5e6W8I4a07ZjKSi113pUzB83AumESjX7HK4uGI+YL1DyqrVZUzaNiADUa6ZY+HfgqF9UaUAgEbPnImXoqtG5ILCsSVCdUwYHUu1KIXx6ksAMtCeitIIipUcQPMfY+MhnQ7OatMKg==;JVXykGuKmDJ4Pr/nPsR8BA=="
+secured: "PvxHAM2B/jtQIHzwDkToTDPCF/LCatf/wj1SdyqXHN4niyUDusnbM+GDSKuZZTgaF1vT5SBl0rusyKDtiNF4lhErzhUVEZkjpZ5z0MSOw0PUnNMxWyNBhhZwmOMCzX57T7vPzJNxnn50LtjQTuZNLjMp3yb9eXRZhQT/am487UMKcn9Ea+Lq4Z9/mDFeon5EujVs3ewXiYL2eZjmGYfjU5y+RkNKLHS4fEZobYVsWBF6UZNMJ+6z1W2kONK5ZZgqc9pQHHKLhmEYZ6GDOC3bdKubsXpMvcPq3rKKasJ4QaLjBioSd7yJrPOBtnT+ByZu9AKPETWjxwXaO1GhYEsG0g==;bf9P/AKju32XIp9jZkpIIw=="
 ---
 

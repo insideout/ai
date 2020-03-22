@@ -2,7 +2,7 @@
 name: "Aurora Innovation"
 overview: "Aurora Innovation helps businesses and organisations improve their availability and make it easier for people to get in touch. We offer flexible communication solutions that contribute to better customer service and a positive work environment. Read more about our products on our website www.aurorainnovation.com"
 type: "profile"
-heat: 7
+heat: -698
 
 website: https://aurorainnovation.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "ain_sweden"
   url: "https://www.twitter.com/ain_sweden"
-  followers: 4778
+  followers: 87
 
 size: 51-200 employees
 yearFounded: 1996
@@ -27,15 +27,15 @@ topics:
   - AI
 
 images:
-  - url: "https://media.licdn.com/dms/image/C4D0BAQE_Zuj21ezXcQ/company-logo_400_400/0?e=1582761600&v=beta&t=bQ-Z6zW_V-4Y9bPYH3tE6LXt9TDRBTYFOZPeJva937o"
-    width: 400
-    height: 400
-    title: "logo"
-  - url: "https://pbs.twimg.com/profile_images/1158846406498668545/zDApgLbP_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/827102291647926272/X9sEbeNi_400x400.jpg"
     width: 400
     height: 400
     title: "Aurora Innovation"
+  - url: "https://media-exp1.licdn.com/dms/image/C4D0BAQE_Zuj21ezXcQ/company-logo_200_200/0?e=1593043200&v=beta&t=U9pmiFxnbNPIdJi-p2IZyuOTM4qT0Zm2Z_YS8LCSnHs"
+    width: 400
+    height: 400
+    title: "logo"
 
-secured: "8xY+m8GAtzePR+53wqmiHe7ltM5H40YgHvzXilo8MvXQykCpup5kWjMbF26YjAIVUtdmdVq6ozg800xr5r8T4dzg+8ePwwhqQPT1iS9oinxzrOZkFO+wTLSoPWZE0ttMr/TYO45PFbeLCNXMO1E3Q0GiEt/hDkTWTFm9lj38P6gkSJcJHPnQrTVOIR+eHsToK0CDW7Chbn6OfYw9uMnwPjzQBDsD/Ow8aDXIcHZK1ERVZQzlkcHeXdAfntFAdmBjMlFjM/cyXhSgVnFrjumCKw==;Rl9xgjESTwDJVoSMrm5CIw=="
+secured: "k9kUJnPEZXaHHaysJgZTMJRXpoFaLFN5rfuwMCe1oIQjh6WkTLzlp6zGGDrwmUCh1Grk/Evljj2arESA+nlmPz+MKFpBimRPKBlHxGjbu0fFhwDac2OcvA1GUslhHOqEBGF6MuKFDA+VM1JQ2FM3B3RZYw84K+UGhJ31RNnJRLKpb6mk8fMhNwTWLz4ytspERMHV468T1mkXeXcCoSmAARKLQaSksXz+hIsinCeof83jQLaUZfgqIpIx0NA7Qb1Y1FXP3U05PDDxR9GaJyJdB3zo6yTJwWL32IzFVk1A6gOSF3D2mGHUu5IYO3RQaNEifV6kXT13V9fItjccOJpNeQ==;4xjsTNBT95gl/IK235qnqA=="
 ---
 

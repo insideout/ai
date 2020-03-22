@@ -2,7 +2,7 @@
 name: "Darktrace"
 overview: "Darktrace is the world’s leading cyber AI company and the creator of Autonomous Response technology."
 type: "profile"
-heat: 1486
+heat: -555
 
 website: https://www.darktrace.com
 
@@ -12,11 +12,6 @@ linkedin:
 
 crunchbase:
   url: "https://www.crunchbase.com/organization/darktrace"
-
-twitter:
-  username: "Darktrace/"
-  url: "https://twitter.com/Darktrace/"
-  followers: 3734
 
 size: 1,001-5,000 employees
 yearFounded: 2013
@@ -35,15 +30,15 @@ tags:
   - Security
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C560BAQE1rfUvIardTQ/company-logo_200_200/0?e=1587600000&v=beta&t=bgXDOxYQTAS_oDFAlcv_MCn6ukGLm-X7BPPbScILKwo"
-    width: 400
-    height: 400
-    title: "logo"
   - url: "https://pbs.twimg.com/profile_images/816359823901982720/L0dyQMfw_400x400.jpg"
     width: 400
     height: 400
     title: "Darktrace"
+  - url: "https://media-exp1.licdn.com/dms/image/C560BAQE1rfUvIardTQ/company-logo_200_200/0?e=1593043200&v=beta&t=jcdL6AeJGIYp2ulilU2Lpt4bYYc_Wy8ZjugKNbhMTms"
+    width: 400
+    height: 400
+    title: "logo"
 
-secured: "X/zY+eiAS80j32qXSob4rZSrywMOOqrAiv5dWjapBXM8TRBBf37D4V23QOy5l9Fa2Sz64y/O0YP6LmV4OXzPSkrzJeQGJ284ihYxm7+iXoZNYM4pVxMZzIRCldyFDTn8mTmmGItkxzXaerGK3jkgjADNaat9FEAcYyxAhMeH7nsU1qA755pPiUXAAq2GREM8/hjYrjIIkHHexKKY9AwC7Jy1+aVS7D7nQABD6HfPVHpfvlGjiDc1v00vj/9r9kJ1944pEzl3NJxzY3Lfop3VFA==;DLRl73VZY3/LQZ78fWjRXA=="
+secured: "BLjJdICTEyGF5tLKYFkuMHFIUqa23EmJImjMv8/r7PB3GhgHdE2l7SbHzSyTeD9uwTyXySo8sfiPLw8EOshNofaG5w1Wmc5xt05sG1dUxgDcFuPLC0rulM1MOsxIVFx8CwXqmHgqfrsBbpfAelpzDEcdveSSGtemhpUNYJljFNB2/N5Rbep8A08Jnw7kcyBgGKDwtbf5znvE/OSd494jxhgIH8vlc1Ovz02JlfPJwW4lUkBq06reoMzhys2aZiQQ1nZ9ifax/mfLK33HWnLbDyV1SyymnQSVhu5mqQjZnWDPQhBKUZXC2uZ/T9I4WtjZZ5UoSa5VGNj3WEzUsM348A==;QeTWd8YbDtmHnHSBJIv3Qw=="
 ---
 

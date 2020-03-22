@@ -2,7 +2,7 @@
 name: "PathAI"
 overview: "Spearheading the future of mobility by building world-class autonomous driving technology - safely, reliably, and at scale"
 type: "profile"
-heat: -2077
+heat: 40
 
 website: http://Pathai.com
 
@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "Path_AI"
   url: "https://twitter.com/Path_AI"
-  followers: 290
+  followers: 715
 
 locations:
   - Fremont, CA
@@ -25,7 +25,7 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1145702667748093956/35_lltOF_400x400.png"
+  - url: "https://pbs.twimg.com/profile_images/872157578364583937/mXsacVHf_400x400.jpg"
     width: 400
     height: 400
     title: "PathAI"
@@ -33,6 +33,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=cUeScCtTng4"
 
-secured: "SnrkTOPO9bXxSj4GFhBJm5HOxIZkU0bS75vOOM7S3rTo52EMrdY1mwilbEhpqkQGDOCdkwcEJwfVhG4o48jttRpmIZw+++mMdr1wU5PNSTG00pamyQcthvfc+cry9oslLtfhEt3DbKtI7XAfwnA2M1NKgUB78caePJva4uxyvzt+F0oDuNPRcZTWyDGqNhFNHDsIWtt7IzVactjG3vb2Vd5fbJsnTPgBxxDJ/A74ZczKHO1B2791DdqzyNDYvQWDt4d0LS4nNkvfiqkY6LGkPw==;unslSw+2veHWvnilgusGSQ=="
+secured: "sNPjBghX14ESsezbkpBPqDkQEoWoExAtEqzsXDDuLOFsDqq+OakzFkcK1+LRb/LE02vnoyPt1l5sIBTAsNfWzNkgioePguIkE7dHVt+mYxskAk1yt/LRkvxchhwm5gymRtB7RZbpPfhRWkeu7edMf4AAIWmNWa0yyz3g1FnTstTRMwa93a9h/7Fz7x/98weh+SnI9OHEIcnAsamtqGg9ekloGRHJYDkz9EkX4TyaNj+QoG6vQbOtXJIQlvEcg0uJJQi3nrZLRtZU3WpYKf0xwU0esUoPTRHSMMHeHP5Inot3wij+x75el8BwfnQlwwoK1bXEZSFb/bF0OlA5694dMQ==;AmvITrJDe2yTxrKtHbXJlw=="
 ---
 

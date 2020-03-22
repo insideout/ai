@@ -4,7 +4,7 @@ otherNames:
   - "HautAI"
 overview: "Haut.AI is an Estonian startup developing AI algorithms for recognition of skin pathologies. Our developments are based on the algorithms of computer vision and machine learning including deep learning."
 type: "profile"
-heat: 1
+heat: 0
 
 website: https://www.haut.ai/
 
@@ -25,11 +25,11 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://media.licdn.com/dms/image/C4D0BAQHYuBzqN910hw/company-logo_400_400/0?e=1582761600&v=beta&t=dnMRjU06jhVrLrXyfSCfl8CTDqHBJ7F7_qMFjVMR5b4"
+  - url: "https://media-exp1.licdn.com/dms/image/C4D0BAQHYuBzqN910hw/company-logo_200_200/0?e=1593043200&v=beta&t=9P_kBQ1b9dqMO79kLDcIiUsQFtOSF9xuHMGUm71jynQ"
     width: 400
     height: 400
     title: "logo"
 
-secured: "ssV3EsSDlSjiwaD2VfVQoIBDxok0eNyjgGc00yyHcHQzXonMkolVQQZIuuIoEAeh+nu7KSWPiFr9mR/mWdWfLraOEBNFIZ/Vkg0fTy3FlC5qbjZrcLpSO9a2LQLF/JSh2WyClTFPNdCJv7fVvSUZM6TCSUQ0koDX+PIh8cWVLg0A+YBkh+0U19tE0Ko5kUQ5PEEIKvserNSSQISBV1iv8dIqbt0kgkzDF1fBzWy3sOzdDgZDqnQApNfSpFeUD9T7Tw6/5q7i1p+rIAVH+Jw0Ow==;jOBlojjEwSi54DDHLLPiVg=="
+secured: "rIeuu3HY1u3tI/97VvHM14YGDWzKe09CFL7TrgdQR4nCr+SWKIL+cFM6tnmo212Cyfg0vjt1BWZvz4qGMCU3QxOEiwbakfqCGrfAHlG4AqUr2tarcdOvNN3XpxqsCd9ykC3l9nEbR5CMrPym0KcDsT3LoVd1MynMcsTjTrclyX78c5b9w3hro3bGl8grUhDXae0Bw4iu7kSHU4YaU4LI+KgukTyAF5lIO1jyp0qaHLO84LJM+QiDqyAsoPzTQrPi1NgEUWFY464yY9qmqEuM5i+1pdFqIqkgx8+j4kre5RzRUIJHdY3POEksYR1mYDn0mU63uDpUCOtRGKUh9Rc/bA==;WEED0mfOuc/AA7BDKxYXTQ=="
 ---
 

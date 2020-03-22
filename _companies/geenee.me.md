@@ -4,7 +4,7 @@ otherNames:
   - "GEENEE Inc."
 overview: "GEENEE is an advanced video and image recognition platform that uses patented technology to deliver dynamic, curated content into the moments of daily life."
 type: "profile"
-heat: 998
+heat: -211029
 
 website: https://geenee.me/
 
@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "shopgeenee"
   url: "https://twitter.com/shopgeenee"
-  followers: 1416919
+  followers: 9
 
 size: 11-50 employees
 yearFounded: 2014
@@ -37,15 +37,15 @@ tags:
   - Image Recognition
 
 images:
-  - url: "https://media.licdn.com/dms/image/C560BAQG0Me_06B5hoA/company-logo_400_400/0?e=1582156800&v=beta&t=Y7nhVCL7jLwyb8LDnSePod8Mpa6Wbod9-OkPiaHZTJ4"
-    width: 400
-    height: 400
-    title: "logo"
-  - url: "https://pbs.twimg.com/profile_images/1865800231/twitlogo2_400x400.png"
+  - url: "https://pbs.twimg.com/profile_images/857307305657876480/qzAD5d52_400x400.jpg"
     width: 400
     height: 400
     title: "Geenee"
+  - url: "https://media-exp1.licdn.com/dms/image/C560BAQG0Me_06B5hoA/company-logo_200_200/0?e=1593043200&v=beta&t=IQV6Jzd1ek_KpbQy9wasWPi9QuxuGc8uuFj4yzGMOs4"
+    width: 400
+    height: 400
+    title: "logo"
 
-secured: "CY+HCyqiuftq6sNYVJIQh/m8QwFfjx2oqy/COVlbNxBGUHrC6n9FN1GM/67yqdMUghy0AQQJVpi8wtdsy0ZhYQfNwSKd2UsoonAxhumBaf22EDJ4a67cP8VDo2s8jzPRZ0VAbIolfSOeXxhtJABfVpEt1z/3eBY5pvvci6SyS8iPeKYDPSQIFVfd0rDlcwcr7t+2Uro926+Y7bXj6vNqlKrqDmkODXsUnx0JXOJGiXqezIOzMY8N7K6Jjk55vlblqyUPG5uvSb9ko5jWZwqn4Q==;mg4dpL5h4dGgjmuJBIXWfw=="
+secured: "xI3OJUQacZfWAmSGU4aJE/jZVjG/+60262yFnSqDvn0NYoHdltibfjIQX3o82nsmd++d2/zuy+iw/QxGyFods1lGJYthMnGC3DwWxI5uFFcUQWA+gQEJG1S/oIaWBBRmwHLAKgXBDBgjtBIhHDQRTnTMKP3apyYt1uAZEwp3KJjZuIk4joZlC2dsS8T81DYvU7yhesBqO+nOb7MWFkbF1i5rflUole93fxXooouq1x+C6TEohPL/J8FCkDuPTCAA8vV+7CIOlfZv9vslzfcnnoEgkqrtclCKUPP3AxcGX4ISgEdXAfT3t0L1jGsZHyiVeK275Cndxe5zGapxZ0xCiQ==;tamt0gUazstKW3PxpAcnwQ=="
 ---
 

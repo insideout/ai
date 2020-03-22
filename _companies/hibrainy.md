@@ -2,7 +2,7 @@
 name: "HiBrainy"
 overview: "HiBrainy is a French AI company supported by StationF providing Full-AI technologies include"
 type: "profile"
-heat: -317
+heat: -261
 
 website: https://hibrainy.com/
 
@@ -12,11 +12,6 @@ linkedin:
 
 crunchbase:
   url: "https://www.crunchbase.com/organization/hibrainy"
-
-twitter:
-  username: "hibrainy"
-  url: "https://twitter.com/hibrainy"
-  followers: 1759
 
 size: 2-10 employees
 yearFounded: 2015
@@ -40,6 +35,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=El38XJxRoRo"
 
-secured: "rKoSSoHz/O6ztM33CR8zWJ7HIPYFX0rfhJ11jSHmtBVECZifypL3EHDjwoGcomkO36FR++FCoGaAlteG11bPnduz95+PA5lXNSrh1s86qQiT7bwfYSJdSnOVqetxZfpPjxSSYl5jABjej+a21yUd+smasBDf3w8D+0skfzIdWTf4MZMEjyEzZVGyUVyx6GnlEmdB+dDG+Cy28xM9abeR69neSbifYFaDQYAq+YXY8W3tZ/bXmkCjLRT1qgzxkvbSGRYipN3hgHz8+yuiyag2aA==;0MkI5mm6MoKgLWi/nxfk8w=="
+secured: "DplLlZbziXFUwPCtOXw/MOOGmdLX/jhvvo74tLbcOza1+AYgTnumMeelkQ/h9OPcFyyDYGL+dx/TJ2x93P+Xp3bCctnpTJYWQkQrq+tpP+2kRLEZ092179a5sMHJkcG2QSKVVHXT89Y+pxAhrG+v2nfvpxtR2L+kNmy2uFentdAzet7gitpDCXGSTcFF3bdmwjLvW17pzAXETKnTPO1UzgIAeMdEvyWPpY4arvPcMpuGy+H1XS/nzZq9G+HcJGoXM+3mEs/6OoJjlzubbOYmcWb9dH5GoL/MwV9kanWkSSrVwXIAH+q++N3H4Ow5SxUXmTktOr4fjiQ2UmsofIANEg==;EFtFGKY8P8DW//yMJXfjEw=="
 ---
 

@@ -2,7 +2,7 @@
 name: "Narrative Science"
 overview: "Narrative Science creates software that writes stories from data to drive understanding and results. Powered by artificial intelligence, our technology automatically turns data into easy-to-understand reports, transforms statistics into stories, and converts numbers into knowledge."
 type: "profile"
-heat: -2040
+heat: 845
 
 website: https://narrativescience.com
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "narrativesci"
   url: "https://twitter.com/narrativesci"
-  followers: 1487
+  followers: 7094
 
 size: 51-200 employees
 yearFounded: 2010
@@ -36,19 +36,15 @@ tags:
   - Natural Language Generation
 
 images:
-  - url: "https://media.licdn.com/dms/image/C560BAQEaG6-d7iFmaA/company-logo_400_400/0?e=1574899200&v=beta&t=QQyMdJ8CU6xj3NgSGCLRMYyB2oi2zerUvI9Vw-JR3T8"
+  - url: "https://pbs.twimg.com/profile_images/1064650550334021632/Kkg4jOdl_400x400.jpg"
     width: 400
     height: 400
     title: "Narrative Science"
-  - url: "https://media.licdn.com/dms/image/C561BAQHy1UhpxgquhA/company-background_10000/0?e=1566763200&v=beta&t=yvgNxcd5mSQtfisNsxNpJ4ng_vYCZBm6ALSjue3twvs"
-    width: 1536
-    height: 768
-    title: "Narrative Science"
-  - url: "https://pbs.twimg.com/profile_images/928933880312328192/F6poyeGJ_400x400.jpg"
+  - url: "https://media-exp1.licdn.com/dms/image/C560BAQEaG6-d7iFmaA/company-logo_200_200/0?e=1593043200&v=beta&t=XdPOmMGj6JWyhdoWGAINNA7O5-IBJTjShzd2HJ19Yt4"
     width: 400
     height: 400
-    title: "Narrative Science"
+    title: "logo"
 
-secured: "fs/TSirXLp2raoWUJnW4cuRv4orJGx4mxJ9fDmgO3o5/Iaq/2MTWTBoTqGj5XQnjmR7IG3AVDOAIzIvED9wCknziFmIuURJwYvqHDydQ/OPYJ+7v7jN+vJRDuA21VMqmapRd2c8KWdS00juv6wUNxGLrXYeMj5qe0rQ0GfC6XNtG7QntHGB1n1h5NwWjKs0wgSXHl48KSdfG8QGbzMMEIFg0iEqWdMNoSBPdviJaK1TguVnH36abgYMCPI22WtBs2OPzo7W6LtF516zD7RKDww==;YNCBqcbkjsmypfOlRq3v4Q=="
+secured: "0bZpdcleHChkNa6ns5+bF7YW262gGHTXf7Y7EcwSVa3jdfEHvl79FURBrS9vL2T60C1LbLVScbJEn7E2QJbEkAO3P1lv7ohcMk60kuHY/VTbk/qDm1kyp/GKnxYibVlrq8M571nS55Tf5r3d5uYRcwWubiIsD3rDVjmLaOQ3RFMEyEYur1iZSsCegWWRBifuwkJccoBH+RV48UGsBeTPZbpwVVuRAPgbJu4u3zwLULyylVBZFWE11ZFxERes5z2KXTckqTtdGe63aSPFfxnT8tQhJfH0RRvcKapQJS9CHb6V20PA3zPDdS5jv0ZE2Wp0T+tcfzA8kAYRl6+9+fkFBQ==;plW6141U7IDWPDB+Zu5FsA=="
 ---
 

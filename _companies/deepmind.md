@@ -2,7 +2,7 @@
 name: "DeepMind"
 overview: "Artificial intelligence could be one of humanity's most useful inventions. DeepMind aims to build advanced AI to expand our knowledge and find new answers. By solving this one thing, we believe we could help people solve thousands of problems."
 type: "profile"
-heat: -1842
+heat: -77
 
 website: https://deepmind.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "deepmindai"
   url: "https://twitter.com/deepmindai"
-  followers: 527
+  followers: 0
 
 size: 501-1,000 employees
 yearFounded: 2010
@@ -33,18 +33,18 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://media.licdn.com/dms/image/C560BAQGprhpCEQGNjQ/company-logo_400_400/0?e=1582761600&v=beta&t=ovjHViwSGXezfnO7883jeplhKSvdqWJOFAHXSCuWxHQ"
-    width: 400
-    height: 400
-    title: "logo"
-  - url: "https://pbs.twimg.com/profile_images/880147119528476672/S7C-2C6t_400x400.jpg"
+  - url: "https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png"
     width: 400
     height: 400
     title: "DeepMind"
+  - url: "https://media-exp1.licdn.com/dms/image/C560BAQGprhpCEQGNjQ/company-logo_200_200/0?e=1593043200&v=beta&t=F8-P7Hv0foVnhbNDLqTH0Oxti3yKxJzPhVkmmUKdjsU"
+    width: 400
+    height: 400
+    title: "logo"
 
 videos:
   - url: "https://www.youtube.com/watch?v=SUbqykXVx0A"
 
-secured: "xItodNWAJRpVp+eif+pWUk4fx5QT+NBGb0lhXGylhM1zXR+XODmHWLG8NJONU7pWdE057hVckhx3u63zrJHRVMZC2uM85vqEFq5F54EzoZtmvSNTPfkK1o8MQWxmweLHY4sRbcC/HrVMJ0AHhfLKw8VRiEY5vQEA2l5Oqj6N28FcVVn5KFfVK9kn1hXZxccW9+/JawS7bbQOxWJqnTboUM5EJqpIJ29jmg7aS/8YYl57QtuvodrOeLNKsxm8/w3xPMQ/UCe9unMrl2h1tONRWQ==;xTrICmxRvASTC8e0bBd5Pw=="
+secured: "Ly/PSSY5AC0lhVm8Il2HwJiBZJ31sm2ra1qkn4773/UwyobCOko8DJvBZ2QRoAcnNvVuJTGGjMj9Kpb6zmrpPk8BAQqvQA9yjTp/fKp19bIQqdrCWjGf4CwU7DKERyDiW74bUkLXNnwo5E14Y9dbxvfesG12ZZnbzUqFhC9q/HAXTHq+Ji9RVyN7scDQcKx5bkO7vSnawnBvubuHmd7jeQyv1Ma4kGLiBvgPO3jRQ4nr3ekLKIJOsKiH/426xAUitaNHy4DDdJ4KdAZOk5iqRcMhiEEn8ucHDXzjkg1xczs5OUPvsCf1O01t4g41VTWSdNIEhVFkRGLj+WudNPpcxA==;Vn50mVGQ/d44YebBBNJcnA=="
 ---
 

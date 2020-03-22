@@ -2,7 +2,7 @@
 name: "AlphaSense"
 overview: "AlphaSense transforms the way companies get information and make critical decisions with its AI-powered market intelligence platform. The company mission is to organize and semantically index global investment and market research data, allowing clients to be more efficient and outdo the competition. Used by the largest and fastest-growing corporations and financial firms worldwide, AlphaSense is headquartered in NYC with offices in London, Helsinki, San Francisco, and Boston."
 type: "profile"
-heat: 4987
+heat: -473332
 
 website: https://www.alpha-sense.com
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "AlphaSenseInc"
   url: "https://twitter.com/AlphaSenseInc"
-  followers: 3181787
+  followers: 3689
 
 size: 51-200 employees
 locations:
@@ -30,15 +30,15 @@ topics:
   - AI
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C4D0BAQE8EjIR1fxkQg/company-logo_200_200/0?e=1587600000&v=beta&t=oRLgXvwFuPbDW45f5v0eWBdVSunL-74IdXzi-7spaBU"
-    width: 400
-    height: 400
-    title: "logo"
-  - url: "https://pbs.twimg.com/profile_images/949070360103698432/kXSiPeTk_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1037464564248530945/KK8j8zzU_400x400.jpg"
     width: 400
     height: 400
     title: "AlphaSense"
+  - url: "https://media-exp1.licdn.com/dms/image/C4D0BAQE8EjIR1fxkQg/company-logo_200_200/0?e=1593043200&v=beta&t=loVmIUB4_Xi27VhVzAq4bgK-Htza608mwyBZ38E2rQg"
+    width: 400
+    height: 400
+    title: "logo"
 
-secured: "xJxnXMrMVPHpZ14uw+hdo8LDlyowGhTutBNvVsoOaKsfo7QHi3YvJHgURHyHxBzJ+qjeZ0wjyOhsKKXmASswaS6r5kR7U4bgFQFPKyNLbjMVCUBnrKb/z4Rmi9ZKFacXJvwb/gT5clMJBTEeo/tZNQfXNipXKQ3Qyke2OLSKLQ4uQ4RlDN14204UcBx+i1gFetsNN1T9l1MOj2MCq5vJ0lp+gjvckV/VcE+k4UjjNjQ0GQc21HqRpzjsTlnw/7QVUZPh5kkrAya/Y6KKX4NRhg==;pXSFdmUONJbfQ/GrWjjoeg=="
+secured: "K7o7fioBPp09TphI4mnUmHKSSWMRCAcnGmSsIn3GdLmoG8BxU2XIHU0FUz97dFdRIO4WguR6vI7rpBc10EHOxZAGWv2af/qLfvMkU9w5QeO9VBx8wC97UdPJ2nhOvuvV8mrADIFh78Lqtb7/u7zlKi7icszLHthurW7L51X4l13KxCjk78u55Z/tgdFmclyOWIcqxGQbLrfr7cBMGMvQaX9IpPBRMXqxZleEyCn+ndhxJNqcKzfYbw8mgJPSfxYTsr2Ur9cd8OjQvFZCW/tqse9GuCJSaGsXKBjafCp5xE8EpXRPsk2cyzs0rSGK+4pvFbnkP+6SAGrR2AuGquUEfQ==;z0S1AZW/Qyf+B+o6VT48Cg=="
 ---
 

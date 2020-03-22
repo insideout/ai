@@ -20,6 +20,6 @@ topics:
 videos:
   - url: "https://www.youtube.com/watch?v=kSe7NAV0UOo"
 
-secured: "6BnlrJlJX0ADX4nzuekIwAnjs3ra2seLIShfoT3Dw2t/rynPRF0LySK3IGMpotyQDUKR9+8kwGvRFljq6OBDOTK21H3mNpm+vM3dssqDzQvDYPLZPoMIQJNNYorEmtpNGrFnIR3jI7zTeM4dm9Bu3f3zOPB7vgQt9IWQGhfhnPazkxjOQfqy3XIyIxHDJnCojYMPWjE4ELzv+L5/NEcO2yS2ay6XtULb/3hr+yzJR6C4Q4cxBpeC59Wbs4n1oY5yGfXxObGalSA/5PBQfSWlAQ==;E6JC3QjX4RYiZl9lzuPLQQ=="
+secured: "Voie0/XBkvNnDROCCqL8isCgaWnfka+gdMfSOBSWnnBrJXNcOhzEJaRj9kbQzc2QvmMsgrMKrJh6M7mMtp67ljk49xDZIFvDlM26Dt98r3TTXvarXXKjYtLZ45abjq4ZkdOTBUyL3ytBV+aVrFHCUzIiH160Cdobpokp5xYIzqU1i4zBGiRZ/2CJeelMS2MTfZutmI/f7aFW3jPQWzjPzyxOHf37u7whC7nfA0t33OPY8hJGr7XGNOrPLnNoXc+uOJNvADrq4Tsv6SL0OAufWRRLLd/7vOEgMGJ3diPKA/9NRlu7FT8poqNot7LYskshVuuaG6evzBEMjrDfVarybQ==;7/7Y4hQyl1Ssfo+e6318Dg=="
 ---
 

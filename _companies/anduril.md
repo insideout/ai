@@ -2,7 +2,7 @@
 name: "Anduril Industries"
 overview: "Created by tech innovators on a mission to solve critical challenges in national security, Anduril brings Silicon Valley ingenuity, speed, and funding to defense and security. In less than a year, Anduril went from concept to product, with multiple deployments actively solving real world national security problems. Today, Anduril is in a rapid growth phase, deploying technology in diverse locations and developing pathmaking products that will change defense forever."
 type: "profile"
-heat: 55
+heat: -3489
 
 website: https://www.anduril.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "anduriltech"
   url: "https://twitter.com/anduriltech"
-  followers: 27056
+  followers: 3627
 
 size: 51-200 employees
 yearFounded: 2017
@@ -31,15 +31,15 @@ topics:
   - AI in Robotics
 
 images:
-  - url: "https://media.licdn.com/dms/image/C4E0BAQHT6RKhJYyzfQ/company-logo_400_400/0?e=1582761600&v=beta&t=o8LEiWCBYK89CTrr3W7kr8O3airvQ6cPwI3Ms27ooPc"
-    width: 400
-    height: 400
-    title: "logo"
-  - url: "https://pbs.twimg.com/profile_images/766333834405085185/PyDKlYiO_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1064960090887704576/3oJzGV0q_400x400.jpg"
     width: 400
     height: 400
     title: "Anduril Industries"
+  - url: "https://media-exp1.licdn.com/dms/image/C4E0BAQHT6RKhJYyzfQ/company-logo_200_200/0?e=1593043200&v=beta&t=AcE_qBgOmvAoRdRWfS3zSOM7AWLyq03j-FTAosITlcQ"
+    width: 400
+    height: 400
+    title: "logo"
 
-secured: "7kJ/vYlnPqnnFnBfAMTjjlcsM/Mtl8vnppPD9s438u/UIsarq/DVlNopH5RZzWc66lMOeDlVq58FPSefDFb5fYsrC9OAh4VrM/cV0sjBjDMlpDMmYQFzyZqKXtijcm0uc2xRdNe+Lfl93FHeT83agyAju69k6CFvXa397AnJgRKGKpVGOWMFRVzbcp7kf8kegUFkaM7lTFhWRXAvmjZT99elPm9FoOzy+YfkRiCyIxEVswf3SJGCCU/ZRwEuese1xQJXYFyLn9eMpB8phGtbQw==;FImBa2oCv8VZFVwBOJbzGg=="
+secured: "wQLYID/zgbXj/9+H9pVwiYaH5VvyDF/OVzGozks20c2tiTln61pEStf6suBJ8t3fYEpHyQSGSIe5H7+Ryzx+1FXK9RchlEWborfQsofXqABoAhsSbPFUxaGrVHdUFEq03lshVYcSAlreJ3oXhwldyxfbReoGL3EvaZ8oE4zpWjoUg7RsYeWOZF1F9Hg+NCpPJE8FeNTkFHxrGXxzdgOAmYDgu451me6VuIOC1sPFUOWXjdhhiSDR8LcaInPpA2Uow3Doq5NYn0Aj6rKR0GoXMwXl9IVXEiWW654/M5zWaUA2tcunwyFEDXzudCiYmBv4xRwo3O/FTR9wNNTm6v7cuA==;FkbRMzzLxuugq0Eo4j85RA=="
 ---
 

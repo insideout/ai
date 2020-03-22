@@ -2,7 +2,7 @@
 name: "Kabbage"
 overview: "Kabbage Inc., headquartered in Atlanta, has pioneered the first financial services data and technology platform to provide fully automated funding to small businesses in minutes. Kabbage leverages data generated through business activity such as accounting data, online sales, shipping and dozens of other sources to understand performance and deliver fast, flexible funding in real time. In just a few years, Kabbage has become the number one online provider of working capital to small businesses in the United States and UK."
 type: "profile"
-heat: 2957
+heat: -1081
 
 website: https://www.kabbage.com
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "KabbageInc"
   url: "https://twitter.com/KabbageInc"
-  followers: 30441
+  followers: 23179
 
 size: 501-1,000 employees
 yearFounded: 2009
@@ -31,18 +31,18 @@ topics:
   - Machine Learning
 
 images:
-  - url: "https://media.licdn.com/dms/image/C4D0BAQFwZD2IV-LlDQ/company-logo_400_400/0?e=1582761600&v=beta&t=BRKfnYS5Z8kTWHC2kWrlgK01auUG7Dk2SA2jp0fLTCo"
-    width: 400
-    height: 400
-    title: "logo"
   - url: "https://pbs.twimg.com/profile_images/1146817867553366016/ZcHRRj3D_400x400.png"
     width: 400
     height: 400
     title: "Kabbage"
+  - url: "https://media-exp1.licdn.com/dms/image/C4D0BAQFwZD2IV-LlDQ/company-logo_200_200/0?e=1593043200&v=beta&t=_ogz9RJhxyy1NmtFqqeZftRShMqypGahw_OgjOwO2_E"
+    width: 400
+    height: 400
+    title: "logo"
 
 videos:
   - url: "https://www.youtube.com/watch?v=VnqoE8kOHkI"
 
-secured: "Yp4lmoWfdp3BymqXSs01SFdj+rD28P1I4vUSaApstKPxpzMw5nP+WT0utdqPWMg/DmSQlUqeMSWVhldoM3wjQEaMebntNykozwgN0L3WDnR7kc6J6bKhTDqvcOmcVeKkhjQ+DZOUjlPpeJ1vOkRFrNDw669NmrvT7I8RdpwWcFmpUFIeZjj9hiohydbM2ipSKGTW6GIPGOyaJPHJAVL5/I2BcuI3YGqKPN6GB+z/6jLgi9eOJlH50W3Mxlwe44glomW9thd2EtcJ91r9pFZ0mA==;wbjdJOvC1X9mPE9qESBP1Q=="
+secured: "GHxnSgrWSg+bf42RP8YX0YEa40qlWy6sxmDo0TzuXhZUVNmnE7VY9mDTCg3EydyfhcQcy/p6wcAn6IWdGiSrgPn+j70FJwPKnt3jG+bCZZz8sqhzxVzNd5IlOGPE0JSTGO26bhlLa/aEdDMqaapfZIQKqRo9LwVFjA3L5fU++5x8/g5i9ptCOCgofTcxHfcGUL0kgm+X4cjpHbdli0VPtZHnIeu+VPcFS3tZBGaaOStjK0UolYiqwyM+VnwIz3kJw2H6pLP/ZOjyOv5CqdHNnpKnEgbPs6Sew/0BK4QdHA0xdGhGrqfHIY/U6aPvZYmk6oawboJbzx6SRRTjzUsaeQ==;ahAG6RqNr0+juVg47g3sLw=="
 ---
 

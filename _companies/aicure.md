@@ -2,7 +2,7 @@
 name: "AiCure"
 overview: "AiCure is an AI and advanced data analytics company targeting the healthcare industry. Our proprietary intelligent software captures and understands video, audio, and behavioral data to establish the link between patients, disease and treatment."
 type: "profile"
-heat: 33
+heat: -234
 
 website: https://aicure.com
 
@@ -12,11 +12,6 @@ linkedin:
 
 crunchbase:
   url: "https://www.crunchbase.com/organization/ai-cure"
-
-twitter:
-  username: "AiCureMed"
-  url: "https://twitter.com/AiCureMed"
-  followers: 1576
 
 size: 51-200 employees
 yearFounded: 2009
@@ -32,18 +27,18 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://media.licdn.com/dms/image/C4E0BAQG1Uptq0TE__Q/company-logo_400_400/0?e=1582761600&v=beta&t=PKOiN1YBh2rGfVSyNACE8RryXLezsxQldqLHR3g0VbE"
-    width: 400
-    height: 400
-    title: "logo"
   - url: "https://pbs.twimg.com/profile_images/943513551695728640/wB-95_tX_400x400.jpg"
     width: 400
     height: 400
     title: "AiCure"
+  - url: "https://media-exp1.licdn.com/dms/image/C4E0BAQG1Uptq0TE__Q/company-logo_200_200/0?e=1593043200&v=beta&t=c5KT0yHZte_05uLP7oaTuJq7MQ76hiKknMtWn_R7M80"
+    width: 400
+    height: 400
+    title: "logo"
 
 videos:
   - url: "https://www.youtube.com/watch?v=xBpvK_VxiXM"
 
-secured: "hetuDMKWGC8Wm4SVj4MsXlNg3jNLCDPEXmRKHMqCwIMbrE4WFo928ydKsgH2XqgYV82QAPUS4GVNDwUmrrII/gPrfRxqy5Gb/TSYU8uEka2vZU9wVGKwg6j5N3lqI5e2jYpKfksU+T93p7QrcH0dPM3IxV1Zk2l/xW/ma7mPdOLqv0ioObF5ZdL+xwPGLrkFzX1LB3z7FsDBvsoOLSFfWmXDDvX1f06aCcNkYnq3/LZWCxwgtA7fKBGCVAmdPBC/zzBAOs+LEVHlo0t2SiotMg==;wOl0mYHPKYX0tmVWJehtFQ=="
+secured: "twmMcaOv9b5Pl/YXL7nPuxaYwVQQhnUexMQjuaOFOjCINP9EXAM5mUaM2QTEpLrzGNwMTa8FSASqTi9fxI7RggdeeOYsx1YlN3XSUIX+AMz/NooHc1FURcxPjWsIuTg2BrCiLq+2xEr/1H3ESAvQvQLee7etzDbL9iurLJcVaSYgXiGhQolqA954RUZsaHN/tTYQRfmC/9i5RKBEEx+IcWgXPB/he0CrK5W63RLZ5tby8nw4coxFlHU5s0M6IT8wxb8eR0DAdguH7txTRsJ5DnpiShmiWdrKiV12eAJgvIdoblGpYJWkaq/8kB+meQf60J1d7KdaexbysdatQI6d0w==;urlJVjyklZK9nr7rzvDa2g=="
 ---
 

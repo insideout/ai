@@ -2,7 +2,7 @@
 name: "Zendrive"
 overview: "Zendrive is leading the evolution of safety in an era of transportation innovation and mobile ubiquity. We've measured and analyzed 160-billion miles of driving data and are using it to better predict risk, reduce collisions, and save lives and money."
 type: "profile"
-heat: -2258
+heat: -89
 
 website: http://www.zendrive.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "zendrive"
   url: "https://twitter.com/zendrive"
-  followers: 2946
+  followers: 2140
 
 size: 51-200 employees
 yearFounded: 2013
@@ -32,19 +32,15 @@ topics:
   - AI in Autos
 
 images:
-  - url: "https://media.licdn.com/dms/image/C560BAQHxILxdaXKGXg/company-logo_400_400/0?e=1574899200&v=beta&t=_Ama1tavzK1fnI_N8oGLOlpAyzcSoEj5h5O7y3nOgyk"
+  - url: "https://pbs.twimg.com/profile_images/695044843081306113/N-YxharB_400x400.png"
     width: 400
     height: 400
     title: "Zendrive"
-  - url: "https://media.licdn.com/dms/image/C561BAQG4R9hRr2pe7Q/company-background_10000/0?e=1566792000&v=beta&t=y_2ECuaFdP3MOI2kQuVtlmapzvf4AHBjAmErim9odu8"
-    width: 4800
-    height: 2400
-    title: "Zendrive"
-  - url: "https://pbs.twimg.com/profile_images/522407174979350529/coE5Wqh0_400x400.png"
+  - url: "https://media-exp1.licdn.com/dms/image/C560BAQHxILxdaXKGXg/company-logo_200_200/0?e=1593043200&v=beta&t=NdpBwzR3En-LdyhxZDfPdeyWXNZnT9mSVb-BzNVSsuw"
     width: 400
     height: 400
-    title: "Zendrive"
+    title: "logo"
 
-secured: "E6tWoStmPsBC7IWs9nOn9GTiGSKPb3B2UXlOpqejnCkU01DiJUBfVJcAdY9zjY+wpv2DENBDRPdP1iMQPg0FbNFRzlGdsVS1QcOdr1Ug+QyQN7YWkaOPIrvawdk/U+CzC/6wCkKTwvv0nhaqdpfd9FED1y8brPosS94dk3KgvWPczfJ3128PjSDy/6kSBR6V0zKM5oiqSLJdDBq75QpRak+jBY3Rgr6tVs8dPvyfxtpBaHxMmQP2KLK88mFkjJJ4DkXuFwEgTmgusZ0vHChYbQ==;XnNuCTTR06oW3fY0sC9w4A=="
+secured: "FpBl8y5bjMhbra5bC2i01aVBziyl4MTdHdi2BtcXuhhssGj8tWSzV++MCdkq5EBudgDfbv48mkW0hHXb+PrKQhW38Ss7CxYjmQijjtucQ/2sP8bZrhbARQiIYo2x9b0XTiPSlhFVrhxuJii6qZUjLnkyhFlozgqUzwBd5DJBhjzUvqcv/BzmkiJpfcjlOmNeXJGHDfvX4lHXqbpKcgU3sate2gYuSzAQQG8SDKW6f0dLeJKvlAEHoIiLeZUFql0aE/7EZRA6bwHuCGhhnkMKsVuz8JsOIUz81XhHdxFkyv8r9sWssiEswckXQATVwA8Y0k92prOvp3hVlSgoBNyfbg==;0kz9emLSKHWbQY0eFBvwRg=="
 ---
 

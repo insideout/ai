@@ -2,7 +2,7 @@
 name: "Fundbox"
 overview: "Fundbox is a leading technology platform focused on disrupting the $21 trillion B2B commerce market by building the world’s first B2B payment and credit network. With Fundbox, sellers (of all sizes) can quickly increase average order volumes (AOV) and improve close rates by offering more competitive net terms and payment plans to their SMB buyers. With heavy investments in machine learning and the ability to quickly analyze the transactional data of SMB’s, Fundbox is reimagining B2B payments and credit products in new category-defining ways."
 type: "profile"
-heat: 1072
+heat: 754
 
 website: https://fundbox.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "fundbox"
   url: "https://twitter.com/fundbox"
-  followers: 2645
+  followers: 7708
 
 size: 51-200 employees
 yearFounded: 2013
@@ -34,15 +34,15 @@ tags:
   - FinTech
 
 images:
-  - url: "https://media.licdn.com/dms/image/C560BAQF0d3rUa1KHJw/company-logo_400_400/0?e=1582761600&v=beta&t=OI-U9ufMASXLquXSIhw_BBt9yhVIzTQtgkFWvvfjndY"
-    width: 400
-    height: 400
-    title: "logo"
-  - url: "https://pbs.twimg.com/profile_images/857307305657876480/qzAD5d52_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1174382620353806336/CeEUZHwW_400x400.jpg"
     width: 400
     height: 400
     title: "Fundbox"
+  - url: "https://media-exp1.licdn.com/dms/image/C560BAQF0d3rUa1KHJw/company-logo_200_200/0?e=1593043200&v=beta&t=M6iAUDvWkyenbKLDounJeCXgyDtqHzncfT0Jnut8c7E"
+    width: 400
+    height: 400
+    title: "logo"
 
-secured: "/kmyYBDSurPGWEgVcsRoHikPrqW8ZdhvHj4G+vye1tFdp6uEMAMkbafV330gc5TQENP6LXCAcBupERbcZOeWSrhPMNZ1Wh8mJ5qGBE19ioF/CyX83sVZhj+/Z167XSK1ggilKySErnFDv6pnodBkyyLygLFfwpU5IqMCoV7AzqTcr9ySDugZqD19QmvRWqmA85m63I9I/hS4i+qvt3LUTKy687IapmU3xMFCb4jWsTZ7YlI836H8AyZ9sxxAnqE2w42TRqNOhOWUW55Lj9jurw==;1BP4XKMOodJM5PJCZONoyQ=="
+secured: "Z4IKbAp78sIdCbGvHKHszlq7ydlQvgqb7/MgJb6f8XhqrUnETtUjzeYItuYdPyIlYzaa9C74QFznmpbU+7ege7XMJYLTKUuw/KRAtwzy4yRd6GQzKu7zpsKsUovJIQb6naZrIYyw0HkQ2nf5C4hEdLUKjlE1Mh1vh6oeGOs1iaKARVI+4dUFd1k0K7IdJF1YUdvqb8leOrEUYEaPtpWzTO5dVoM7oq656cqP3mlEl51EVDm1BrOAVs74rNQLzr807XL2XJYEOyPW7W0kD2AxCF3ZVxVZs6a04z2dYHcrsFq5xLY2AJ+LGUaGCTc2sjBVnVv3fzJLAbR1JzY7IYvZHw==;mflRkSfeSONr26kwAsuHgg=="
 ---
 

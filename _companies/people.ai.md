@@ -2,7 +2,7 @@
 name: "people.ai"
 overview: "People.ai accelerates enterprise growth through the power of AI. With the industry’s only Revenue Intelligence System, People.ai frees all customer-facing teams, including sales, marketing, and customer success, from manual data entry by automatically capturing all contacts and customer activity data, dynamically updating the CRM and providing actionable intelligence across all management tools, allowing them to realize their full selling capacity."
 type: "profile"
-heat: 1606
+heat: -450
 
 website: https://people.ai/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "ppl_ai"
   url: "https://twitter.com/ppl_ai"
-  followers: 444
+  followers: 1348
 
 size: 51-200 employees
 yearFounded: 2016
@@ -31,15 +31,15 @@ topics:
   - AI
 
 images:
-  - url: "https://media.licdn.com/dms/image/C4E0BAQHaKaCdbYu60w/company-logo_400_400/0?e=1582761600&v=beta&t=51iwg7T9dy4JEfRA1eXANboXyhsyzEHpsujkbiHmvgo"
-    width: 400
-    height: 400
-    title: "logo"
-  - url: "https://pbs.twimg.com/profile_images/1058155354767339521/Ru2uRRKv_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1194292082208202757/3pc4br8B_400x400.jpg"
     width: 400
     height: 400
     title: "people.ai"
+  - url: "https://media-exp1.licdn.com/dms/image/C4E0BAQHaKaCdbYu60w/company-logo_200_200/0?e=1593043200&v=beta&t=bxY_ZWabzGKnqR85inJdrRXW0rlXnC7fcQThUoBHKDc"
+    width: 400
+    height: 400
+    title: "logo"
 
-secured: "4ajzPbrv1mh5Es0rACW+o/JN08jQQz94S81G7QFnF8+pJKyRULS4biFS4230mb4f3mSAUcDSKallW2do1JNjZO2U/kmkkaiDC0hN1lIdx3/lYiYPcQTYzKZiknY91YfS9hcFGEhHY4ncHZa5nP3ihg4ZIivDgWXY03mIKuTQlwrSN9kKTu2Twhjndpy9NAVp93xctqxQYfrSbdPUPcNv6kDggAzwrBO1si3Y5WM2G+RbDS/+mLZiEPkLRvpzhwmwtFnI1Sdil4ju95kluCUtBA==;/KVjTfQvZEC0EAeF6OudKw=="
+secured: "aEJf01RwmR2Yide6tfxRkD5gPQwbXGdcQ53mbQcLow/+ABnk4SW0r8qVZuVn6gYPEE5oogHbgE9VIhRRgPmibm0VHMr4rkW+NUYVjAhO/xC8RMKRTWMXxXOjcjze2rHe65bbJ15m2dDYlqc5QOy2onzedxZYX2a5zjDlIPZfqlsiTO911Lp6SwlVhzURDguez4H/FrhQvnnMOEHXhu++qTBX+loPBd53HyiudQsyXP5xGD4z8WQ/oeggdhBdAD8G+97SNjsagre8rCjqneT1C89YFCfToM6VFYE3sR+iOtTn9yZDUEM1+OJWzdSQyz3grIPtfbVrax00pXUPUxK3lA==;3X9oSGDtnCT3i1hNExEFMQ=="
 ---
 

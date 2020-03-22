@@ -2,7 +2,7 @@
 name: "Aiva Health"
 overview: "We strive to make every search interaction meaningful & rewarding with developer-friendly, enterprise-grade APIs. Need help? Reach us at support@algolia.com."
 type: "profile"
-heat: 10
+heat: -2315
 
 website: https://aivahealth.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "aiva_health"
   url: "https://twitter.com/aiva_health"
-  followers: 1811
+  followers: 74
 
 size: 11-50 employees
 yearFounded: 2016
@@ -29,18 +29,18 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://media.licdn.com/dms/image/C560BAQFjr6O7zkurrg/company-logo_400_400/0?e=1582761600&v=beta&t=GiGgx2-Z1bJg4SbIN1m7fz_WTqo3ZbbhOsl1LpDwt9w"
-    width: 400
-    height: 400
-    title: "logo"
-  - url: "https://pbs.twimg.com/profile_images/1001802575505707009/iEEMVN5L_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1045184013072121856/k9eIX6oV_400x400.jpg"
     width: 400
     height: 400
     title: "Aiva Health"
+  - url: "https://media-exp1.licdn.com/dms/image/C560BAQFjr6O7zkurrg/company-logo_200_200/0?e=1593043200&v=beta&t=JBipZOy1IQcVSE830UBNpbTSnLW70bQ76BqFYP1zyak"
+    width: 400
+    height: 400
+    title: "logo"
 
 videos:
   - url: "https://www.youtube.com/watch?v=WrteXpQ5n7Q"
 
-secured: "TL710NQ+fqgKy6tf3Vm63JMTuLddiNnevdP2z3kY/14enwGG5Q5WBCJpxn6vlfSobq52V8/IbXui5lydvw8vU7Lk6yUoL1IqIi7stwo9iDlXO1+0gpdywi6wnpE6T3NM6PePV//Q0vBwt7xzqQ9c8Pu+HrNXP+MdI8/YImiatz5bcJA/B6xT6gro9gEy6qQlo/m650lu0DebWn1bNVp+7JsgAMh4tmB1yxyCpO9XmEzMrnpIBl8ZDrTE+oX5pqc/R5D+S3rhAG3IPHNMMV6Bfg==;tJXfXqy5cNS43w+WfilCIA=="
+secured: "vmK0amfZJv+z5rraBRbDV29v4VR+dVc2t8iIHW56uiYNUZ0k6adZfh45sF6MpNDfPxb9AeZVsz8Er1y0/d2guDkKGMEw334yBFHCogdB9P9uokkaRriC6A+riSiaV74vzeZgfkVTb4ArZxpb0puqg38yWPjQ8K0ThxCDHUx4i1GJNiE1qydx69UbF6Yk5gpbDJlqEkfMvZtl450qxLXTqD1xXd7fLDaZqpRBMJEE48N4x/5cGzP5Xdcftm4Xd0cgVbBuoW/C/myz8X4ha2Nn+dftHLx/EQxHbsPJYXdVly/7Fmhw+AXlczLgMQHsC58rThHXD8UxFwfU4cSyeVedxw==;xevkZfWHoZwYvB6K1b2Aiw=="
 ---
 

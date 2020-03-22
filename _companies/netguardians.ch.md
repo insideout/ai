@@ -2,7 +2,7 @@
 name: "NetGuardians"
 overview: "NetGuardians is an award winning Swiss FinTech. Established in 2007, we help over 50 Tier 1 to Tier 3 banks worldwide to fight financial crime. NetGuardians developed the first augmented intelligence solution made for banks to proactively prevent fraud. We empower our clients by providing machine learning technology together with contextual information and great user experience. Banks using NetGuardians’ solution achieved 83% reduction in false positives, saved 93% of the time lost in fraud investigation, and prevented new fraud cases. We were recognized as Gartner Cool Vendor in 2015 and Chartis RiskTech 100 Vendor in 2018."
 type: "profile"
-heat: 292
+heat: 23
 
 website: https://netguardians.ch/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "netguardians"
   url: "https://twitter.com/netguardians"
-  followers: 1352
+  followers: 1479
 
 size: 51-200 employees
 yearFounded: 2007
@@ -34,15 +34,15 @@ tags:
   - FinTech
 
 images:
-  - url: "https://media.licdn.com/dms/image/C4D0BAQFqlh02WuY6yw/company-logo_400_400/0?e=1582761600&v=beta&t=fjUvrMnG_umPtaGbo4BfKozVJlcLk3DXcs8gCwcLXnA"
-    width: 400
-    height: 400
-    title: "logo"
-  - url: "https://pbs.twimg.com/profile_images/755680998478741504/NpmYIAXx_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/998935117614608385/FWOiFezQ_400x400.jpg"
     width: 400
     height: 400
     title: "NetGuardians"
+  - url: "https://media-exp1.licdn.com/dms/image/C4D0BAQFqlh02WuY6yw/company-logo_200_200/0?e=1593043200&v=beta&t=VnzarP5f9tcbZFKmVBYA_N3nWMxsfDuec9DKAZJ3vU4"
+    width: 400
+    height: 400
+    title: "logo"
 
-secured: "jqbHvYTP65OzXILFBnm1RbYaIy6orBttCX+rd1RaqMS05kxRjGfBaXPlZt1LWP9Hl39NTqXtn6xyNS+TpLxsFJSMvLaVgwUjH7FC9t24F/XBMmh0i57hZs6wjvSmhMGzPYzK6HkuzO1oyTlatNbKOLRWrjlAudg8O4RPU9HsoqW6J53NvlWq8DB0zuIngSQAdfdVXQ67uIGTDQQWMtOR4uPR8DC26hgsFukf19Pli0f00/Q7jhYo4XmpauRLlZZpF/4DRoZb5Wkc2HpLAVqxOw==;MmjvN3UBfnpS40NPA+BXpA=="
+secured: "T7+JwHz0mLvbvLxsJu/hgHl5GvNfGpxqOCll0S7Ultv/TJ06sBxl/A2HDZx9bMRDtgZJA8u7V9KBBY9OX9lmOZ0BNVAocNNLbx7Q1L2vHcBK6NM8mi8XAFknlSP9Y7bqLhS+YA3x4OX9fBYCjrziP3GjPiKkygdVs9dAlNPiA+14ZT1kub0P0udtb/QOB3ZBV3NW2SM/QUZXudrXWbGdjozxs1Pc27aDIuuHiokgwhlmyRt2Wlp/TLXzDaG87OkFQYtn6D6uG2Ne7p58Iu6u+RcLanKovbDS5u6y9eMwMGvP+9/nyXz0mvuQo7blZIPrZvcdONUGXqY8iQU/iQ8Obg==;dHj0KzrxSUIR8SPgSvq6Xw=="
 ---
 

@@ -2,7 +2,7 @@
 name: "Gong.io"
 overview: "Gong.io enables revenue teams to realize their fullest potential by unveiling customer reality."
 type: "profile"
-heat: 536
+heat: -26163
 
 website: https://www.gong.io/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "gong_io"
   url: "https://twitter.com/gong_io"
-  followers: 4578
+  followers: 4640
 
 size: 201-500 employees
 yearFounded: 2015
@@ -32,7 +32,7 @@ topics:
   - Natural Language Processing
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1145736912193196033/ytFWK30j_400x400.png"
+  - url: "https://pbs.twimg.com/profile_images/1145759155556274176/omdD_iHV_400x400.png"
     width: 400
     height: 400
     title: "Gong.io"
@@ -40,6 +40,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=PGaBhUPCcxU"
 
-secured: "WAZWeE7XmhaFEdHWVsijUFmGqDCRU4HFX/OCQ2yxGO0zZ3dcv2uGdB1jfH0lzw8dQjmkdgKQi8WePSlU+L85qKjvMHEfb+UaLy99W6dFWompc42HWMadtbHqQIG93OnhCSdQk6NApzGdmSDXLcXdOrbVnIDz15AOWsFg4yrKk+zzKjyyYbFA7H3RzPw1tCXZWynIcYX1Q3C+iYwk45Z5Ri6x4lusNCjZKIGN1lmZz7iEEH4gHTztvzADwf0N4SHGXBkBbWW8dhw5BlUHGSUUyA==;s/1y9q3wqr7KCXnEGMT15Q=="
+secured: "kr5okSt37jztK3VRt/mtTG355NFZRuc3Kwl0NptaPpCrM+d3UrhkHugBGE5Dbj7oE6rUHm8XQu/C0Xeu24+9lkJhgTog5iXSc/8Hv/iCDPTKziGZ7/nSGZ0pW6PJHwhkdfdEpUV5p1ijPQOtadVDniu80Ipbu9BP7JHJD+eWpHdZONQZjdPlacUVz1xZJ9BElt9XUn+fkhbpBoot5unfa+Jg0RWauxqQPEL66DLVHTs6XJXs6+rBLjsy0L0wwgRRPaXTgFmNFmDJ2odS0ELEIZ3tPSh9770s1446PMkBBs4dxHjMgUHwjh5BaJJX7U65JKZVo8/7YSOYYemMqTytaQ==;dIgb7gmKHOZw82fEyjw1Lw=="
 ---
 

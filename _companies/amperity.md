@@ -2,7 +2,7 @@
 name: "Kaskada"
 overview: "Amperity, the leading Customer Data and Identity Platform, helps the world’s most loved brands take control of their customer data. Leveraging machine learning and cloud-scale, Amperity is revolutionizing customer identity resolution and data management, and provides the core customer data foundation for Alaska Airlines, Starbucks, Gap Inc, Moët Hennessy USA, Wynn Las Vegas, Nordstrom, Kendra Scott, Lucky Brand, Sounders, Stanley, and many more."
 type: "profile"
-heat: 0
+heat: 541
 
 website: https://amperity.com
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "amperity"
   url: "https://twitter.com/amperity"
-  followers: 486
+  followers: 653
 
 size: 51-200 employees
 yearFounded: 2016
@@ -32,15 +32,15 @@ topics:
   - Machine Learning
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C560BAQG9c9ZE8sHTyg/company-logo_200_200/0?e=1588809600&v=beta&t=c4iSXKoQKilh_xZ2M_uhc7g4jIY4c9sBsgqQtt6TaWk"
-    width: 400
-    height: 400
-    title: "logo"
-  - url: "https://pbs.twimg.com/profile_images/647436657956818944/Qx6rgmxe_400x400.png"
+  - url: "https://pbs.twimg.com/profile_images/1232794861432168449/0yO5mYI1_400x400.jpg"
     width: 400
     height: 400
     title: "Kaskada"
+  - url: "https://media-exp1.licdn.com/dms/image/C4D0BAQFFbzRWQxMeuQ/company-logo_200_200/0?e=1593043200&v=beta&t=HGlhO794AGGHcCvnephcCqmagXPVheK7w4QimlzdCtY"
+    width: 400
+    height: 400
+    title: "logo"
 
-secured: "hP5QsguIHii2v8CvunZ9wq3dQyYJfZCWzgXc7g9FO0rn+ReQTmpc42GgPGqqBFLeM4mEMjQsxWRW+0dplCnur8i9HgsWvGbr1xQRuTmYi6MNF6Vcd7yJxy+8mYIC4XEK/u7equxGe6wsxrv/Qiwp15ND9oi348UFEKtdi09jhNF3x3YtxG67tQ74nHVuXPtf+mwrc3lW7ENHVCveCn8zbSgRgZti5dSwWILWaQstc2PYWofpNLBHdYx5m7eJBXyc2s0Z7DuNpLVwKo+7wricvw==;zito6RakHY3L9Rx6b9xLtg=="
+secured: "xOzLvDeSu2cql0Wspm8LrH0fkaOH5HR6ol5+lYA3pa+4cyQezKom+/zRjkzVQrd0hrOxwtpkSLHAPIZ+TZ5msojes6f2DGbE0oJRNcuXPAn4i9bNdMjz3gtc5LWn9yW1qM4Ibptt8d4VIMU0ULCpcMqg+lg5tIhJKcugYCZl4YPvqZVWgBPKdwHmTkAiQKMDXkTW9kvOLzhm4Sp9oqIikvKhWgsbc5+Zk7SV30QgfvOADww23ZCP0uLrV8L4Pw+fBin/6aNJg/iiN4Bj0LVrlQUjxen6Ta17hmYo5aP3IfrmMHJE512hBLF91uMkIRKraDNCYDI1zXkX+eMMzOqnVA==;jBoPEcf1+HiudC3MXLGzdg=="
 ---
 

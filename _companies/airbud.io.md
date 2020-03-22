@@ -2,7 +2,7 @@
 name: "Airbud Technologies"
 overview: "Airbud is a voice platform that allows enterprises to easily add voice capabilities to their websites and mobile apps. We use natural language understanding to let people have two-way conversations that simplify their access to information. Starting with healthcare, we enable organizations to customize navigation and better engage their customers."
 type: "profile"
-heat: 10
+heat: 0
 
 website: http://airbud.io/
 
@@ -31,11 +31,11 @@ tags:
   - Natural Language Generation
 
 images:
-  - url: "https://media.licdn.com/dms/image/C4E0BAQGvZmutvh12VA/company-logo_400_400/0?e=1582761600&v=beta&t=GdMVyMM7gWgjlvLtlep6ENQ3TVFiisQFme-CO_z_M1k"
+  - url: "https://media-exp1.licdn.com/dms/image/C4E0BAQGQdbr_zkjBrQ/company-logo_200_200/0?e=1593043200&v=beta&t=jNGhRqFQjxJyuCO02Xxju3axtgt4OtAJkEYfqm--xxs"
     width: 400
     height: 400
     title: "logo"
 
-secured: "icvYbiBO6f5HNr4zUNeRzT5CJ5PxWR/IkYzOart/BlevlgeJQL57B4ta6VfJyL9LbcScc0jQ8g7IXKBeQgljxsXs7fxEMKMaMkNhBfSHgQhWDpzMbB28e72PJzsxBfvvCC4uz7JBlUfMEZq2wVTLvg5Iz/vX8v26VMWL51XBD+df3yy+hiv+zv0SomdreemJiCLnLhnsO9cHhozOq3Awfw7aqU6TAkCzbrClo5tzDvKhGG8hPgcnf6oRnoNL34uhnOaXU8IJRgvzEPdhYESgKw==;60qhPwN6H2PA5vxgQGIM6A=="
+secured: "0DN6Um/50276xeaFJ7H4YWHR9QhUprE/Tdtf+MtfZDkLsDj1iAh38YZs79GbLe0q0M8yL4+m+nV/u6jLl6twIySbARX5a9XK6PdlkBk5TDNy7d84txB98+WZKnJxXwp+X2GesRVeRX+4ezpUwT/uvYGTgrl+pj7+AHHc7Nf2/0w8bMPdEUf22GC8e09XvMbxxiUjGyOHh8g+VyGNCx172Fqxz5V4XavtRaNc1Yyym8H0IqKINeqGLHzjp2KsTkBv2td3FkOSbLJRoG3H/w0pFKWNK83yrJpnpp03Pha15pzV+rRICN106xrq1nzUM919Jh7FpmCMEWZQsseaJcRREA==;tzaaLj+JfC8dcUqDSt1Cww=="
 ---
 

@@ -2,7 +2,7 @@
 name: "Kreditech"
 overview: "Kreditech Group’s mission is building better access to credit through technology. Combining non-traditional data sources and machine learning,  the Company is aiming to provide access to better credit and a higher convenience for digital banking services. The product offerings include consumer loans, a digital wallet and a personal finance manager designed to help customers manage their credit score and plan their spending.  Kreditech also offers a “credit as a service” model, allowing partners to integrate its credit products as payment method or funding source.  Founded in 2012 and headquartered in Hamburg, Germany, Kreditech has processed four million loan applications through its subsidiaries. The company is led by David Chan (CEO) and is financially backed by world-class investors including J.C. Flowers, Peter Thiel, and the Worldbank’s IFC."
 type: "profile"
-heat: 754
+heat: -279
 
 website: http://www.kreditech.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "Kreditech"
   url: "https://twitter.com/Kreditech"
-  followers: 1946
+  followers: 1
 
 size: 201-500 employees
 yearFounded: 2012
@@ -29,18 +29,18 @@ topics:
   - Machine Learning
 
 images:
-  - url: "https://media.licdn.com/dms/image/C4E0BAQH5u6Ixvpa6cA/company-logo_400_400/0?e=1582761600&v=beta&t=RhW1cKJDp9VPtk3McDaSUAMaDD9qIVZhTfR9PdK94W0"
-    width: 400
-    height: 400
-    title: "logo"
-  - url: "https://pbs.twimg.com/profile_images/824482111969112064/Za5Xl1kn_400x400.jpg"
+  - url: "https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png"
     width: 400
     height: 400
     title: "Kreditech"
+  - url: "https://media-exp1.licdn.com/dms/image/C4E0BAQH5u6Ixvpa6cA/company-logo_200_200/0?e=1593043200&v=beta&t=Z_HjoceZsrEy2lX8mHJeLfOX2Tl67AFw2EvJwzHNtfk"
+    width: 400
+    height: 400
+    title: "logo"
 
 videos:
   - url: "https://www.youtube.com/watch?v=Z57UVGxt_6E"
 
-secured: "VohUoa4Din7a1/xGGqG1GWRUpg4xSy01IhirZ3eIkEixaqdcc8gfA17FjL8CQReM/04Gh5tSXaq5xwHtDR9WnAkzlLU68iaM58G+27Opm1GfUo7/hfW6MmQFkTRtDwmHsxTrnjXeF8XgyCL53ftmyAK5h2D7zTagg6/phdUkhOd8vd1ggTIjviMTTNRNoZ66yWJpL3dZsFzZxTbEq6wK5BZpZ0NpnsKi00vWSuaZT8NKbgCEy1zJXs+3h5qxvC+S5GvIIZ7mSXIsTQatJy+lBA==;aErV61jwTfq11eigtaMz2Q=="
+secured: "L00OUMrhkWGM0O6KYVWOp2R7YurGdLrvkVrGvDNHcSdmKmLTHWda5ud9zsStvVl3YwtJ6zrfFiN+MyBJ1kJio5nzNZB0gyUL+iIwTp7twK1FdRPnuX6Gxy4a1NslrW34d2O2tNZIW+11SCv6OppghONsx7sdCzst8OHF2pORjAicbUEUrDjkMK0ODXEFupH7Wot9uJ91y60pzdH/97shDzZYWRXn5a2zXxf9rnTXvVXmnILe7FZE4VdJam4dZT0hh8VOmVhieYcJjD09PaXnoqw8b9GIs0pC9JaaneXDNeUYfoGRYgOuG0NZHO7paWN5d7AA/ApOB/m9x/Dd/v3McA==;SPW31dYSyf7Fo3/Up2QAMw=="
 ---
 

@@ -2,7 +2,7 @@
 name: "BenevolentAI"
 overview: "BenevolentAI is the global leader in the development and application of artificial intelligence (“AI”) for scientific innovation. We aim to accelerate the journey from inventive ideas to medicines for patients by developing AI to generate new treatments for some of the world’s 8,000 untreated diseases."
 type: "profile"
-heat: 330
+heat: 338
 
 website: http://benevolent.ai
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "benevolent_ai"
   url: "https://twitter.com/benevolent_ai"
-  followers: 3057
+  followers: 5331
 
 size: 51-200 employees
 yearFounded: 2013
@@ -28,18 +28,18 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://media.licdn.com/dms/image/C4D0BAQGcyt7GVFnE3Q/company-logo_400_400/0?e=1582761600&v=beta&t=LWEcQ-fDcCrvzkbERFXCD4ejaVOxpHMW6xIpfs2E78I"
-    width: 400
-    height: 400
-    title: "logo"
-  - url: "https://pbs.twimg.com/profile_images/1183850675253338112/OScpDaEp_400x400.png"
+  - url: "https://pbs.twimg.com/profile_images/1225401251535499265/LwSvUfkU_400x400.jpg"
     width: 400
     height: 400
     title: "BenevolentAI"
+  - url: "https://media-exp1.licdn.com/dms/image/C4D0BAQEtdKYXzmM1EA/company-logo_200_200/0?e=1593043200&v=beta&t=r7ZJgTZdYk6YBW52VZeqDISF80zHmDlP3B4WoEGgp4M"
+    width: 400
+    height: 400
+    title: "logo"
 
 videos:
   - url: "https://www.youtube.com/watch?v=qtkZt5u1XE8"
 
-secured: "DmBMa4WAV+v7l3BPXHKkauq6gIQx88cnwsDpm7Y5DW/TWOqXEBEberTiITI8G1IC2ZjKtw0tod7T1GpHCEFi5gWS00d4cX3nP8bxsXT7YQAhB0txltldBOHwk56p1MG8x9MK4CrbX+iNhHEvPO6eEivuABqDqdXf0/1Xw9vGcL4jWKGonFOJtWOgTUC/wlJ0qaejXMzd9UYH03C7gvyRdOPF64Xl4ql90cjfxFJzhhwAGkqoPJrju9oKOMgoGVorDzWjqwmbMrSdVKaDdMEW4w==;+b0GYkSRxOH4d9awfQCIMg=="
+secured: "NFH/q7yGZaSvMjz0NBiqTlf9z9gYnMawcWYHrdBAArJ9YOA0iYglQJRXwSx9AsIohQytwh8vvIR9M8naaG6UBcTLu0Lfk1yoeAmJys4FUwlUWE/octGvN50GP1Z+HYPw7cHRklPBBoaHX0GbWmEAVHWtyJHEH3Jrl0FL6djyqIn1gxq6FXfqPpj/uPu3cYu3uCjO5dbWGrUopioEXWN4cWhfqCgWOQntFvjqwy7HBV5fEOPF8iD1N112jIITvy90qOh9Bo3qVR5PYjbN6lmORsgjSBAZvWtmV5yacDGr/tLE5g9JYh3mh6+pd0+U3uA8M5ZN3KLCFnNMmm/F8rYdDA==;SUcUkEqolqdJY02h/mT5sQ=="
 ---
 

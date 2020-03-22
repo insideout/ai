@@ -9,7 +9,7 @@ otherNames:
   - "Kuangshi Keji"
 overview: "MEGVII is a world-class AI company with core competencies in deep learning. Founded in Beijing in 2011 by Yin Qi, Tang Wenbin and Yang Mu, three Tsinghua University graduates who studied under the Turing-prize winning Chinese computer scientist and computational theorist Andrew Chi-Chih Yao, MEGVII is a pioneer in applying AI technology and computer vision algorithms to Internet of Things (IoT) use cases. The Company’s mission is to use innovative AI technology to deliver value to customers and to benefit the society as a whole."
 type: "profile"
-heat: -3414678
+heat: -138
 
 website: http://www.megvii.com/
 
@@ -23,7 +23,7 @@ crunchbase:
 twitter:
   username: "faceplusplus"
   url: "https://twitter.com/faceplusplus"
-  followers: 1843
+  followers: 841
 
 size: 1,001-5,000 employees
 yearFounded: 2011
@@ -43,18 +43,18 @@ tags:
   - Facial Recognition
 
 images:
-  - url: "https://media.licdn.com/dms/image/C510BAQEytLW7LGXaHA/company-logo_400_400/0?e=1582761600&v=beta&t=j6Age3VX15SCQagQ6GUnoELyUxW29wP3aOv4EgB3Fyk"
-    width: 400
-    height: 400
-    title: "logo"
-  - url: "https://pbs.twimg.com/profile_images/1103786517686771712/UvG4ZtYW_400x400.png"
+  - url: "https://pbs.twimg.com/profile_images/1239848977958199298/DqKmJSLa_400x400.jpg"
     width: 400
     height: 400
     title: "Megvii"
+  - url: "https://media-exp1.licdn.com/dms/image/C510BAQEytLW7LGXaHA/company-logo_200_200/0?e=1593043200&v=beta&t=aSZDxyLzsglUsvah8B3YWBdpItiQx6imEKU4MFEz_zw"
+    width: 400
+    height: 400
+    title: "logo"
 
 videos:
   - url: "https://www.youtube.com/watch?v=sbsCwlkSlp0"
 
-secured: "NA4Jsg16OYxfsprQrsJcYCuHY8wOkg7o7eHWF5Y7odhw+9KiCSbwJP17YJh455VxlDwbih1UtN0GWBV9mw228UFMCWMlTLxcdJWKXg+nOrMS2c5iHVBbsElKAG3IN1xMgrXua+CTz77sZoJlWADppBhPpxOEQHvSoHkixEuTm3NOulQ5qViyiSaqPdLO0awERBUh8vU1DRvNQQ8YiQE5Y4s1b04d4wOpexr3CLLXrtVTs7VAu4g8mX+tJjJbGRNif4TvbRBVzCTytnejf4qzPA==;H7yzS+2EiFm+k5545suXIA=="
+secured: "PBEVuhpSReIw7SDOsxfpb4AYUWzdBMusY9KjtA+UFcwA5oWGe74uLzp0U/exSKtPQqvwBLk2zC6bLL2paKDSH3rD0nDdP4xY7dNuBy2vg+Yt/BBErckRhXEeFY41PQzJVuiz1Y8ROe+laGfAwGRut1GbuyG5JTXYeXR/UXOgMUzAZ7JNtZk7b9pP24NUmVLw3BSH+lyJTiL6owBzBShBn2c8sbotrrcn6fuHKzS7euGmLbA+jpfJmAn2ogTy7VDkG4unaaGBov5P+iw4h/ncdn37a+wi2U+mhHumCrBy4AQ26SRVg+IpriRUfgP2GwVWHOAxJDY8eCml5YrcT7MO9Q==;1LqD314RJbCV2QuWRg8H1g=="
 ---
 

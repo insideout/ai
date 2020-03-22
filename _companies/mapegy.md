@@ -2,7 +2,7 @@
 name: "Mapegy"
 overview: "Access the latest trends, forecasts, startups, competitors, partners, technologies,"
 type: "profile"
-heat: 3372
+heat: -1307
 
 website: https://www.mapegy.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "mapegy"
   url: "https://twitter.com/mapegy"
-  followers: 9063
+  followers: 279
 
 size: 11-50 employees
 yearFounded: 2012
@@ -31,7 +31,7 @@ topics:
   - Natural Language Processing
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1126580049346420736/zS_MFysH_400x400.png"
+  - url: "https://pbs.twimg.com/profile_images/1004673354677276675/p6xDEfYS_400x400.jpg"
     width: 400
     height: 400
     title: "Mapegy"
@@ -39,6 +39,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=FM_2nxVEIOs"
 
-secured: "3QRJsa1SQFn5D3R0wkLSlAmfh2SZFqG3+mVcBpZB9jS6OTbo5KVGvoCrE89AhA+I4BiQgKMW90OEB2oWFdu3pgHziQakeDyXhIzFME5Pov9HDWVVB7fG++FEt66GC5F9CB9x4S7baRTVa/6mwikuKtSMV+6SvMUrlKT+HRLKhal0v2LYgF+ABJnnIqXWP7KmDCjn17c4lZJnXvk3l/i/inVCC9xEGvvcOfPyZeUN5t8nQQVuTxAMSKFxFpyFGP8o66vmYvRWJmLtEm/7kkyDpg==;7DBrI6SeCuc0sC6nr0SerQ=="
+secured: "TjL6xHQP79dBJHl8Hw3E+u2ePt+LwFWWU2lNgCATXxtlXJQUFktiOMJuq9/XIgnT8/UDRLhK/OCvZW4FZOyPyHNEKFfm9VBKHPUWwt12MODgcL3NCyYR5RafhBl+Ay3OUtKHTz1hPw8+rmsTVVcDITB/2pYJAKpUaNgwnzqfb/nHybYVu/m/jWgts+npxHei65le6p28c9lo1WIXSvc3bv9/lntHEnrwFYJO4O3aNqDqaiJVDNLm+R/ifT5juGduVqcyMre4B9SU5JaGknbWDzbcklhh7DInQG6dLoiEZnoRsExyrz8SYa95U7r/J5jkwq8dU9OH+5J95u1LamxgfQ==;AixUwbs3RnasD4LamKZ8zg=="
 ---
 

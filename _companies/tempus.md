@@ -4,7 +4,7 @@ otherNames:
   - "Tempus Labs"
 overview: "Tempus is a technology company that is building the world’s largest library of molecular and clinical data and an operating system to make that data accessible and useful, in an effort to bring the power of artificial intelligence to healthcare.  We enable physicians to make real time, data driven decisions and deliver personalized care for patients through our interactive analytical and machine learning platform. Our goal is for each patient to benefit from the treatment of others who came before by providing the health care industry with tools that learn as we gather more data. For more information, visit tempus.com and on Twitter (@TempusLabs)."
 type: "profile"
-heat: 35
+heat: 90
 
 website: https://www.tempus.com/
 
@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "tempuslabs"
   url: "https://www.twitter.com/tempuslabs"
-  followers: 1990
+  followers: 2182
 
 size: 501-1,000 employees
 yearFounded: 2015
@@ -33,18 +33,18 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://media.licdn.com/dms/image/C4D0BAQHsYEwltlLFzw/company-logo_400_400/0?e=1582761600&v=beta&t=FlfOW9F7-EhSn7BfNCejkdxUmhjOKaPtrrwoYzyYzEY"
-    width: 400
-    height: 400
-    title: "logo"
   - url: "https://pbs.twimg.com/profile_images/1154066113317285889/IFoETg00_400x400.png"
     width: 400
     height: 400
     title: "Tempus"
+  - url: "https://media-exp1.licdn.com/dms/image/C4D0BAQHsYEwltlLFzw/company-logo_200_200/0?e=1593043200&v=beta&t=wFUCVa4sj_6xG8USbKnGeR4IddmSlpRs2_rGK2dgi7k"
+    width: 400
+    height: 400
+    title: "logo"
 
 videos:
   - url: "https://www.youtube.com/watch?v=Vq12pj50s0w"
 
-secured: "yb0kdoQwSWbNAF2sMEyt/sefrkdLd+UX4rCZrr5sH7V1OMGNmVygIp9bpqxCu3EX9cV2a/LkOMUOLKMzHTe1AM+rKgc09vZbkaq8DxVA9+Qv+ugdMvzg9oqr+s5w7q6O0w6cE7E2JCtEtBDWrhS568yf6SdQnwdakEJmMfLLpP9e7riTEtO3LU1h3zaTFV893DJEukoEnPxTgTXEmiJo5nF3vEUFwhJXVuMycGPbeTj4aiOyYd7vqpG3KdZYsVzlVG70odIC+cdizWhcrYtj2w==;xuewBCEJi80OltKwp3z9JQ=="
+secured: "4KiBMo3bZUxAwx/fcOXe/tJkYEj5UXLMn5GueSiwsOFE6zzGUzz/09HR/p3+aYl3JrmEOligTEA/u2fS6ehbgwmRt9/m8Y0qKH1qE4PtmocRXnzu8jci5jXvsaayGpGsnYRRoD8GM3rajKWxvdjMGx+rRKeoPuCmDIbWotu9pHoJFTypUNIZDUlnkifKJKw61RbDDM/oWA6x02LaFd6rftg2+dRdJI57vtTXAu2fjKQkNnuE58wYuvUTfGPC/P86C5uJPqXOtNfMEmLmJ9blNz9nukYQlEG1YdpfsiF7u1eZN6siiMTEkInQib/W9agOXQjNbcBIAd1OJLH3m3XHsQ==;2VFv8WNm2PQuvHTcv9WRJA=="
 ---
 

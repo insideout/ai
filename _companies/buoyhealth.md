@@ -2,7 +2,7 @@
 name: "Buoy Health"
 overview: "Buoy builds a free digital health tool that helps people – from the moment they get sick – start their health care on the right foot. Started by a team of doctors and computer scientists working at the Harvard Innovation Laboratory in Boston MA, Buoy was developed in direct response to the downward spiral we’ve all faced when we attempt to self-diagnose our symptoms online. Buoy leverages artificial intelligence – powered by advanced machine learning and proprietary granular data - to resemble an exchange you would have with your favorite doctor – to provide consumers with a real-time, accurate analysis of their symptoms and help them easily and quickly embark on the right path to getting better."
 type: "profile"
-heat: -1257
+heat: 78
 
 website: https://www.buoyhealth.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "buoyhealth"
   url: "https://twitter.com/buoyhealth"
-  followers: 333
+  followers: 863
 
 size: 11-50 employees
 yearFounded: 2014
@@ -31,19 +31,15 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://media.licdn.com/dms/image/C4E0BAQEpzpekVfUV6A/company-logo_400_400/0?e=1574899200&v=beta&t=ob0PcwGf4KMXAonbH3jkM1g4MqKSs1rFXSQ7mhUryXQ"
+  - url: "https://pbs.twimg.com/profile_images/1162027396402429952/1CToA0QN_400x400.png"
     width: 400
     height: 400
     title: "Buoy Health"
-  - url: "https://media.licdn.com/dms/image/C4D1BAQEk03jvSJ3S1g/company-background_10000/0?e=1566792000&v=beta&t=hB0Cg3QWXWNVIvy8w6SuUrOn8JEloY90Fk90Ynq5Usg"
-    width: 4000
-    height: 2000
-    title: "Buoy Health"
-  - url: "https://pbs.twimg.com/profile_images/1009095085143752704/v6-UR8NH_400x400.jpg"
+  - url: "https://media-exp1.licdn.com/dms/image/C4E0BAQEpzpekVfUV6A/company-logo_200_200/0?e=1593043200&v=beta&t=u4IkiR2GDxIYXomTMUOodfSIxtmcMdjoPI8ySg3khYA"
     width: 400
     height: 400
-    title: "Buoy Health"
+    title: "logo"
 
-secured: "U1OP7lOlAt0DbhL73GPJxhIhmVd8Pyi+5LIpA+J5ANDa3R6aP8zCMBiDXOwWLph6lCGOZMiUb0ZvOY6dGnVlQh/X6eNefxYHuO97Gy1fefHRs5uTTY6CjyNT/jdWSRWA8wkq2zOGhsOmXxUwlPIk7LetbRUanXIChTBb5kSv6ueiog09A7ueIiA5r7UF+b9AGuPnTQ89g+F7fJxpcI5vm2139mac05kNvzSFwjma7ODy596VdJvmQFI3uqSPEZwmLPbidRyIO4CAcb0jJg2VXw==;MJJmB/mCeBHq4yKA9fG80A=="
+secured: "Z2aH55Q6v1oeCh6ltQdRk0t1/5+w94ERZAOrBlUmfI4EZHz7c6wkbm2+yvwy489LfbAeA9juLobLRmtB35KuOLzCCQek1Qyd3JcKcSSifs14GsxtQ8pyzd5hWyhNb1i9t30zBic3Hqo4w8SLG4dUD3Abi9lZOLKI27bjYuzgwc5IsuJkkt7WLnyc+1O5wxvdtTVJZR96NEY6DUr6Onn6ceJUoUlz6bylFn7jE9oF8SSsbqWDpzwaAXc2SGD3a/htSmvN1JI7XgWF62SdtBJDd4kywrhZZxtmLH2Vq7D0pP6c0ojkVnVibp+FQEhwjEnJAbi/0kKEhkvMrVSqrvcBDQ==;UzDvG9tcboGlSLxFpcHBYg=="
 ---
 

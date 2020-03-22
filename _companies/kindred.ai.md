@@ -4,7 +4,7 @@ otherNames:
   - "Kindred Systems Inc"
 overview: "Since its founding in 2014, Kindred has been exploring and engineering systems that enable robots to interact with the physical world, with the ultimate goal of a future where intelligent machines can solve valuable real world problems. Kindred has developed the first reinforcement learning robot that is currently in commercial use at e-commerce leaders like Gap, Inc. and other global retailers. The robot, Kindred SORT, works alongside warehouse staff to more quickly and accurately sort items into individual customer orders. The robots arrive pre-trained and adapt to each center’s unique processes, with algorithms that improve performance over time."
 type: "profile"
-heat: 609
+heat: -180
 
 website: https://www.kindred.ai/
 
@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "kindredai"
   url: "https://twitter.com/kindredai"
-  followers: 2594
+  followers: 1069
 
 size: 51-200 employees
 yearFounded: 2014
@@ -34,18 +34,18 @@ topics:
   - AI in Robotics
 
 images:
-  - url: "https://media.licdn.com/dms/image/C560BAQFQ4A760Fv3jg/company-logo_400_400/0?e=1582761600&v=beta&t=q6BVjBK15ff6fOb_Wtuku55zqmd8gIySKzNpf97fTpk"
-    width: 400
-    height: 400
-    title: "logo"
   - url: "https://pbs.twimg.com/profile_images/1004511334103318529/hHu9Ko-Z_400x400.jpg"
     width: 400
     height: 400
     title: "Kindred AI"
+  - url: "https://media-exp1.licdn.com/dms/image/C560BAQFQ4A760Fv3jg/company-logo_200_200/0?e=1593043200&v=beta&t=DQfm_Nwkk73J9yRLafRTdkiJYx7U75WSsMmu3mCyHT8"
+    width: 400
+    height: 400
+    title: "logo"
 
 videos:
   - url: "https://www.youtube.com/watch?v=kjKPL53Tgw8"
 
-secured: "IlZL6Kct4wflhllTmCw7bGXzUbvThD1xv45uMnyGYb0auvxn2u1NBJ/I86y6Jf/ptpSlFEiSS6xUOmyVYjadotCaM2u4fRhE7hwsh8457qT8xa8FOrPux9Nq7hzc5CTIml4zus6OjKL7LCoUW/3Gys4RYsznnReO9Sg0hQIyqvk4Z8DjFmqT76He/4v77rjXu/B+J8EJOsa7wdmKFATe9kGAB++SEMiEmOr+tGQX6CsUtYGMhewpsq7eXutN7WBi/SD/A9waB9ffl30+6kso4Q==;t//IT5GW8eMYJ4mukgXQBQ=="
+secured: "B3SbXWROMIKB1cBt4JRaLJ3AdSJbTktm0nldOhHOCvvMcRkWfWmhLOX2p5uNVzk1McZyUt51P9q5bRG/tn69SWwddLsSLpNqXrygjVLYlhif4xsvW984mWoochbKbOBI4wDJPI8hgVNy4QYS1vAcvVH4mJqW/rA1CqFrOU79V2455xGKsVfOBT2DoohYvBy265N+Q7PR9LQY253+QZToat98oTpfyTaNbzMYcdFydAyUn75fbAftiE3j4AiAmEvj91Dvb9i4toc4UsVSpBIgIY7k9vSnmSi/MfpzjNDGyrXd46ha5lBlIMqWmRiZNn4OmCSXnxUMWa2egkTLyC6KeQ==;hTFAUDPc4ugZUiK3yfo7Sg=="
 ---
 

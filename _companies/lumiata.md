@@ -2,7 +2,7 @@
 name: "Lumiata"
 overview: "Lumiata is the industry's first AI Platform purpose-built for healthcare. Lumiata is powered by 75 million-member data, proprietary clinical, risk and financial algorithms, and industry leading data science and machine learning talent. We help Business, Benefits and Care Management teams at health plans, providers and employers make better decisions–– from identifying and managing individual's risk to retaining customers in competitive insurance markets–– using easy-to-use, fast-to-deploy AI applications. The Lumiata AI Platform also arms internal data science teams in healthcare organizations rapidly develop and deploy predictive models and applications. Silicon Valley-based Lumiata is backed by tier 1 investors Khosla Ventures, BlueCross BlueShield Venture Partners, Sandbox Industries and Intel Capital."
 type: "profile"
-heat: -222
+heat: 111
 
 website: http://www.lumiata.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "Lumiata"
   url: "https://twitter.com/Lumiata"
-  followers: 280
+  followers: 1005
 
 size: 11-50 employees
 yearFounded: 2013
@@ -32,18 +32,18 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://media.licdn.com/dms/image/C4D0BAQFtyFzBvzRyfg/company-logo_400_400/0?e=1582761600&v=beta&t=gxO-7xSXl1YPGfuJXOrKyl7PjvZMjGEjbSUlk_zeWH0"
-    width: 400
-    height: 400
-    title: "logo"
-  - url: "https://pbs.twimg.com/profile_images/1135642952003227648/xfBlggxy_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1014956513046097920/hhhbd7-j_400x400.jpg"
     width: 400
     height: 400
     title: "Lumiata"
+  - url: "https://media-exp1.licdn.com/dms/image/C560BAQGVE82mwAXfog/company-logo_200_200/0?e=1593043200&v=beta&t=JNjWd9pakLMnFRfrXOcCvmXheMh1o4-kejLcJ-0pBrg"
+    width: 400
+    height: 400
+    title: "logo"
 
 videos:
   - url: "https://www.youtube.com/watch?v=1uxjtyJdxbU"
 
-secured: "Mmu8WXMyfhxIh2Kn2GNb+Fg1Ceau506e3zHaBQ7dpsMW6sKJvCTMXjSt5TwZWwZROUDC37E1WdfMkBdRLN1e9F95tmnBnCZ/P+bNwrYMl6rPnSSGoVlt7x3gB7SQoJhMcN1QhjNVf9Fnqfr1F6WOjgCUPR1xgiM+lmk0dUkA8BrIa+Etc6tLsypVHYyt7F011btfMgFw5PfjybWF1Kd3z+jI4ZNHBlYz6mJHdl5WAoJ243kl0ygHJVruQmBJ7jldxx6hdrIeWFBDrV+YEwfjoA==;xV69S9ymulAIA27LM9aPtg=="
+secured: "GuhJH3njaa2AoYtpr42jarjzi9aMxVhvYlpYAl0dBBgLtyheOaWa20Z95YusPT+DVHunpFE1Yiqlye4WRgXdCw+qBO/ucBbldAQTuziDSAUtTNR1ZVC/B2ebWv8pZTD2n9qaTkA6CvPqkG52CdTqHAcpg2+OszuFVU2hQtPWZj1dUdXqnJRZNyxikRMLBNIE5VPpZGFZ7zuAD1NMCE6RyZ+JbPHTacVR7NJ/nI//OCeYLdVZKAA3ePhPLC/XThCjGLcr3iq72qlxJDmbafeLokCbB3Api/x/8OVFAyctsGlyQjJ1K6wRH5QCV2eY4PmpWper3yFPwne03jvF7B/Wug==;yH5hxKo2jnPbgQZMfDKiXg=="
 ---
 

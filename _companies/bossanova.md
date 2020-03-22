@@ -2,7 +2,7 @@
 name: "Bossa Nova Robotics"
 overview: "Bossa Nova is the leading provider of real-time, on-shelf product data for the global retail industry. Its technology collects terabytes of data that enables the retail ecosystem to optimize the omnichannel shopping experience. With a multidisciplinary team of robotics, computer vision, artificial intelligence, and big data scientists, Bossa Nova has solved the challenges to deploy fully autonomous service robots in busy and crowded environments."
 type: "profile"
-heat: 111
+heat: 79
 
 website: http://www.bossanova.com
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "bossanova"
   url: "https://twitter.com/bossanova"
-  followers: 604
+  followers: 1136
 
 size: 51-200 employees
 yearFounded: 2005
@@ -31,18 +31,18 @@ topics:
   - AI in Robotics
 
 images:
-  - url: "https://media.licdn.com/dms/image/C510BAQGkIVm7tNe2WA/company-logo_400_400/0?e=1582761600&v=beta&t=MrvYKE3X1IANCw-Z4SGGanmX8Dz04QESelyvfxvgi94"
-    width: 400
-    height: 400
-    title: "logo"
-  - url: "https://pbs.twimg.com/profile_images/879878141384073217/mLv_w8vA_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/910869076137754624/QiqHVTEC_400x400.jpg"
     width: 400
     height: 400
     title: "Bossa Nova Robotics"
+  - url: "https://media-exp1.licdn.com/dms/image/C510BAQGkIVm7tNe2WA/company-logo_200_200/0?e=1593043200&v=beta&t=sKQIU9zTHZcN7me8DZkwgdpBeKOgQWsHDAuPmgtw-1E"
+    width: 400
+    height: 400
+    title: "logo"
 
 videos:
   - url: "https://www.youtube.com/watch?v=KykP6wTp1Qk"
 
-secured: "9QTWckKXDgYZNmRHqcg0sdfbROxOSioTOYPAzoV/tipdOJObCC0an0lFT5gd+YS6s2MiHcJDAky3ecYKL2qO+KxDLGMpR6P20cxy+mMKZq7hWsxf36uqS5Re5ke9p97plil+SEqRa76exYooGenlp5vfaIWV9oNqFENvdypWTZ7Dzt+SgZnscf5HrW2OgxqWXbTwd5XvEWzR5Vqm26ma8ZksHFDWodIVTKoUkfnYpNO4binmZd1TI6HV6W6Ko9REMZwVdcZaLmGrkivEJuGOkw==;gIuT3EyuHQq5jo33yxaOmQ=="
+secured: "81Z0//2wd/6ciHlm+oMT+vG6/O2n1+V8fDu3gPSQYEc16Zq5mGrhvDgYSRHjarfQFVfDLHLRWGHg4BPpGMbplvyXliDiYDNqrqVLFgxBVfpM0nhSHWx6l+6T+ONex4P2rxXOBrX6JID6I0KBeR3lvZ9rH19pzcdq+ywjBpRBuDwQjy0tpyMOJj/ifX9+oIG4WY00Mbldp6XR2ukbhZz6t5TnktcoAJ13mniIEZSOARZIspzOB0lIdekZPYUU+grwzODWk/2PvfWl3NEsTRsFQTBiORivQI1gksuApNfaPxuggn+zUQsppFgxV1KEeI50F2si4W2owcGbxmxiR4+75g==;4xtnuYLQUOAKaBwFc+JIVg=="
 ---
 

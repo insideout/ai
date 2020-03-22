@@ -2,7 +2,7 @@
 name: "IDx"
 overview: "IDx is a leading AI diagnostics company on a mission to transform the quality, accessibility, and affordability of healthcare. Founded in 2010 by a team of world-renowned clinician scientists, the company is focused on developing clinically-aligned autonomous algorithms that detect disease in medical images. By enabling diagnostic assessment in primary care settings, IDx aims to increase patient access to high-quality, affordable disease detection."
 type: "profile"
-heat: 19
+heat: 0
 
 website: https://www.eyediagnosis.net/
 
@@ -26,7 +26,7 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://media.licdn.com/dms/image/C560BAQE8hiaDfXNeSg/company-logo_400_400/0?e=1582761600&v=beta&t=grpgOoCwLiCJeOyWFxbKjyoLhmDuWXrG0Z6CIonLSy0"
+  - url: "https://media-exp1.licdn.com/dms/image/C560BAQE8hiaDfXNeSg/company-logo_200_200/0?e=1593043200&v=beta&t=frvuCZ8M1Y0kmcjzeez77RrrAue9ehUD4HElpb35-u8"
     width: 400
     height: 400
     title: "logo"
@@ -34,6 +34,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=jmGvEYv3I2E"
 
-secured: "nw8VsCWwH/yGfJvVvCGBo5iFnE+glnT5BrxPK6LSllYvDvebxyGD4+UV9SXm4xNU2WLrNzNgQgQfC0SxxZYZIY8JYPigcowAGwwsEov97fVNA3jvEiElcOsM7h4hfTIe2HDAU6yYdmiQNIFnYpdtVbYbJYgujwQmQ1hZl+upYnulbFhLybCQPm3C/Hcek8XUAp68z8M3BeU/TRLy7AqdKmlU/XanetROsJcnXXAYhGH1h0Wo7DzetUXEEhb2pSQwsyC9hqlZLlIx5V8fGGQJJw==;RuH1QWb6UpRQykkFfVchsQ=="
+secured: "O67fT9Q+k7OHfdhdEVZmw/qIiZdDNSd3qrtzyvAVxYz22yhIngBZJR8QFVIr7ebiXAFmC8RhpCRVUMzKiZ8Cs52vu8c8uL+Hytf3OeRzIKLOLDHtpUWf3xJzwkuBo50CWxTDSae1IGoAh8Ii711Lim8LNFUeTbzVor6UjFUSEZtm/TBB4xy10APsB4dODEIseARwoqPbv1nnbGFDj+KENYnhDpZuyOC/vu48pPoECxTb9UTZAMUn5kX5zxXHsaac9poUy9CNL+tyd6jUXoEqTY5yo6klwuMm88pr0Vz10RuAB5Yi4TpDDqx7hsmwLMOuql1F2RenWq1qz0Awy2Z9MQ==;0j7Hudw+a5afL6YHxKDjRg=="
 ---
 

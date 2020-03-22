@@ -2,7 +2,7 @@
 name: "Cyclica"
 overview: "Cyclica is a Toronto-based, globally recognized biotechnology company that leverages artificial intelligence and computational biophysics to reshape the drug discovery process. Cyclica provides the pharmaceutical industry with an integrated, holistic, and end-to-end enabling platform focused on polypharmacology that enhances how scientists design, screen, and personalize medicines for patients while minimizing off-target side effects. By doing more with artificial intelligence, Cyclica aims to revolutionize a system troubled with attrition and costly failures, accelerate the drug discovery process, and develop medicines with greater precision."
 type: "profile"
-heat: -5512
+heat: -65
 
 website: https://cyclicarx.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "cyclica"
   url: "https://twitter.com/cyclica"
-  followers: 1300
+  followers: 861
 
 size: 11-50 employees
 yearFounded: 2013
@@ -29,18 +29,18 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://media.licdn.com/dms/image/C560BAQEeqnDcOiRZjw/company-logo_400_400/0?e=1582761600&v=beta&t=RhsIXm5RNmuu8aEIw5MxZmUrG4Omm76ndheWH2FY7-8"
-    width: 400
-    height: 400
-    title: "logo"
-  - url: "https://pbs.twimg.com/profile_images/1087388998992125955/lplfj6G3_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/930816202573864961/H8DMBFyW_400x400.jpg"
     width: 400
     height: 400
     title: "Cyclica"
+  - url: "https://media-exp1.licdn.com/dms/image/C560BAQEeqnDcOiRZjw/company-logo_200_200/0?e=1593043200&v=beta&t=N1V6yQBEJSWeYjJUiQDgJc7HWz1cZCrMin0evt9xeMQ"
+    width: 400
+    height: 400
+    title: "logo"
 
 videos:
   - url: "https://www.youtube.com/watch?v=UHArUciCDH4"
 
-secured: "mQ4FgqFqQtivB4eqAeWnsNr0JyfLfPEBc7+oEo6QbQ44idW8pEBfmK9pscq3oZyNPOKCW90EhmI3cgf6eZXhq6Dfvce4XeMVKX9uQy6wXwM8Afz8suc6Ax4EAPycoxPLELcpNBGPV+x/ao5p3fKJ5cnWhQ3ehv6Zh1ir/7XsZa8gSFKPz8y9InZJE/OXvC3EEr95q9zG9TqdFQ84cmPbSWtYLfVm82lU1urEx07Sv+GXsTQ84TTLGWoThQQDjxQn38ul3YL76qvDooOH5whANg==;AqFIBNy+U6bB0rMy0fYjKA=="
+secured: "UUptpxyVP8Kwh+9HO0MWq2/6K6ImrZ54WUIanrsoG2FoGA87o+vMkxUoRIwMlMvrz+f4cQnCLHP901ua4ufnuY2iIJ46YA0Ld8yX8DKZWkyFgiK5hyxpCpewu01CNSQz/BecEgcXsTBa03sfJPNOJw8rB3/JDjGpwYP2qArb2o7zl9LrT8gp+uI7m739U9drR5bbi0akQJHai0sANj9tX8R7JEorBKhWX6tqiEzZUBwIBUAXij2EXz+ZJUMAebSGAaJGXNEymeFVwjFpkeKc8WnTsv0TSKcW/OwjpZ20T9yXd1XDQNgnZkMl/Gt2mcB5vdk3+WLvhGa+VLGQv4XLzg==;KWrbV5oYqlzrYUVXH0qaMA=="
 ---
 

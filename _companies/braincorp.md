@@ -4,7 +4,7 @@ otherNames:
   - "Brain"
 overview: "Brain Corp is a San Diego-based AI company creating transformative core technology for the robotics industry. Brain Corp’s comprehensive solutions support the builders of today's autonomous machines in successfully producing, deploying, and supporting robots across commercial industries and applications. Brain Corp is funded by the SoftBank Vision Fund and Qualcomm Ventures."
 type: "profile"
-heat: 47
+heat: -91
 
 website: https://www.braincorp.com
 
@@ -14,11 +14,6 @@ linkedin:
 
 crunchbase:
   url: "https://www.crunchbase.com/organization/brain-corporation"
-
-twitter:
-  username: "braincor"
-  url: "https://twitter.com/braincor"
-  followers: 611
 
 size: 201-500 employees
 yearFounded: 2009
@@ -34,18 +29,18 @@ topics:
   - AI in Robotics
 
 images:
-  - url: "https://media.licdn.com/dms/image/C560BAQH_eNjw2VBrog/company-logo_400_400/0?e=1582761600&v=beta&t=22CcNewmkE4DElNTKud0uVexEC6p7ipTul1tJNRs_2U"
-    width: 400
-    height: 400
-    title: "logo"
   - url: "https://pbs.twimg.com/profile_images/1138832593795895301/H8AsQ5uU_400x400.png"
     width: 400
     height: 400
     title: "Brain Corp"
+  - url: "https://media-exp1.licdn.com/dms/image/C560BAQH_eNjw2VBrog/company-logo_200_200/0?e=1593043200&v=beta&t=VcWhaP7UZDF1E23nqHwcrDvTdEgzthJbSktNFe-bApM"
+    width: 400
+    height: 400
+    title: "logo"
 
 videos:
   - url: "https://www.youtube.com/watch?v=XqYInxl6RIk"
 
-secured: "0RPObW7J9vI7m82YNKCZyFmHSdhVYnTEqMBH7amY4Dq5BoUfYEMjUdjNAU+QlNRI4WdIp/BRv9uSoXNfRmuROI5CqI4C2sr2Onb5PgSh2HkmI6uoTjCxg262c01fXMJynqjZQUhLU+imZFt850DQRBZ2i1x2fetj/B7Urk2t26UFHeW8jzqStbfWQpcqtwxQBghtQ9SachWLBOG6uS7f2xu7NmP2JeQSQlaveZYuu1maJbLN2zpz/wyFy3WBE4KVn8Ghg3oWnlP1Oal8uz1/lg==;6vxe/oBCkZoIV7Qy5vcj4w=="
+secured: "5Y4QfGwKoO5sKWWXZO2f3ls22iKsrH25X2LOxQwtxsifYvV/D/deKrWhh8/C0GE4W0JBWmy02ZTZYB4kPCTxzQC9qC6oRzVVu6JSLl8h7xdZUnHJoGrllaRlPfhMZtSHU/Rkz+tdKTKSkzLCXe9XtEYR08RoTsVhIDjKJcmdhIdPdy9e6YUzf1s6DXVm6SlmNUT0KuSTvrPP42nYANQ12qMUVBhWZ17jV4yH3kGtiEBTHDtwv0BF+ImnD25RiXTXWQ80hqkCxUwKI2csj6tBseBE3rHt2R5k9qMvLq8ADKVYoiC0dx4WpVV4ld+l+ruWORgJHswWGJ+FQlolHJi4mw==;CZY9mQP1JWlTBkUGWCE+2A=="
 ---
 

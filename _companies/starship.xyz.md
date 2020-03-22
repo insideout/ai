@@ -2,7 +2,7 @@
 name: "Starship Technologies"
 overview: "Starship Technologies builds self-driving local delivery robots. We are disrupting a 2-trillion-dollar local deliveries industry."
 type: "profile"
-heat: 2622
+heat: 58
 
 website: https://www.starship.xyz/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "StarshipRobots"
   url: "https://twitter.com/StarshipRobots"
-  followers: 8091
+  followers: 8296
 
 size: 201-500 employees
 yearFounded: 2014
@@ -33,19 +33,15 @@ topics:
   - AI in Autos
 
 images:
-  - url: "https://media.licdn.com/dms/image/C4E0BAQGMNJJGnygaVw/company-logo_400_400/0?e=1574899200&v=beta&t=A7uN5avEPTsRDxqlQt-P1jb4PmYXDgT304lio8zfd3s"
+  - url: "https://pbs.twimg.com/profile_images/948994134924189696/iAmDOpwi_400x400.jpg"
     width: 400
     height: 400
     title: "Starship Technologies"
-  - url: "https://media.licdn.com/dms/image/C4E1BAQE0OUGlO6VZbg/company-background_10000/0?e=1566792000&v=beta&t=lY6j_ekBK-skFcXd6y5giPeCQYa0cGslBlZY3tkRfGY"
-    width: 3708
-    height: 2472
-    title: "Starship Technologies"
-  - url: "https://pbs.twimg.com/profile_images/1156698809189064704/HbbjesAp_400x400.png"
+  - url: "https://media-exp1.licdn.com/dms/image/C4E0BAQGMNJJGnygaVw/company-logo_200_200/0?e=1593043200&v=beta&t=jX44C1nVBlzefkz1o8QC7z8NFIwndn-1O5rrE_RuNug"
     width: 400
     height: 400
-    title: "Starship Technologies"
+    title: "logo"
 
-secured: "fgYVy279Nbj8pkp89hnnHzGhixn1yFIEeh70IVRE0DXTpPABkCy8i6yBPBDSWnBMii8nI7pmEN6/dsNOK5QEk4y0yqIyvEURl4de0uBzBVrBiKR+cUFbgJmwCtqaTdvM7o95i9B9Eluf3tVFRXh29OUrxNIJIicUBz21icpaDGptCujgh36REiSq3jBH/WqrlDGSGE1FEayk1ruGnvnamYC90fmsrhWxEhmFe4qyBgFNoxGnFhENcy/4pTHbxtxC0HkfXVTkKxf6okyB4QTwVQ==;t3HvlSZXIMmshB5Q/2KqXg=="
+secured: "m+GlwHh6ZvLToMNtOIYcP3wHMSkbUOwa/41ASmjIAOtF5djMDWg8T6l/7mVmHDE0++2z8+8kifaXRcpVyHHuDfl76OzOtw91LV9WlM5g+CALxcxbduLJGM5kpg1o4WCbAugA4zcc+MZyBh10JQrd1oPhetaNoxnDSzAvsUPmA9iLG7VCAVcJENM3XPJe6QMH1o3J3ES/LYmMAgmRunMKQYNmktm3lsYby2BS8dINAQ6lxbVgQGR3UH8iUKOT6wGM+MudDqU0nJY+A86t/DPmLpbAAHyYmuLxsD7Zk7aqIGDWCyUexFN5YUT34RO5olpcC6uNSq2Frx950UaghRax2A==;j7opL/3BzDadZJfSnuA4Rg=="
 ---
 

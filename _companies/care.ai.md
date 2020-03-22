@@ -2,7 +2,7 @@
 name: "care.ai"
 overview: "care.ai is the first and only AI-powered autonomous monitoring platform for healthcare. As an AI company, we are focused on using our transformative innovation to bring a meaningful impact to healthcare, improving outcomes and saving millions of lives every year; while making the jobs of providers more productive and fulfilling. care.ai’s platform connects to our purpose-built AI accelerated, edge sensors, to transform ordinary rooms into Self-Aware Rooms™. We are working on disrupting and changing the way care is delivered."
 type: "profile"
-heat: 9
+heat: -177
 
 website: https://care.ai/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "caredotai"
   url: "https://twitter.com/caredotai"
-  followers: 1528
+  followers: 336
 
 size: 11-50 employees
 yearFounded: 2019
@@ -29,18 +29,18 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://media.licdn.com/dms/image/C4E0BAQE2U7Qc6g0wKQ/company-logo_400_400/0?e=1582761600&v=beta&t=zZFphzXHBkspYnOn33d1VeZK2fg1zNx9Bsj_3oADBlU"
-    width: 400
-    height: 400
-    title: "logo"
-  - url: "https://pbs.twimg.com/profile_images/891013892775608320/I8z3RoZP_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1166114647180812288/iWPPi_wm_400x400.png"
     width: 400
     height: 400
     title: "care.ai"
+  - url: "https://media-exp1.licdn.com/dms/image/C4E0BAQE2U7Qc6g0wKQ/company-logo_200_200/0?e=1593043200&v=beta&t=nU5bjvt09Tt_n-KfS8rn0YtUQ-39QU07Si2XI7WCWnU"
+    width: 400
+    height: 400
+    title: "logo"
 
 videos:
   - url: "https://www.youtube.com/watch?v=DWTje5pDap0"
 
-secured: "QvPYI4Mx0+E4bzetg9bdwqoUZ/eAf3iKNVrcB4qCpsABSaOT3xHsg1j6ASfqc+Jp4UhsQ+UyTEUVR7Gl+cX9e5sl5CaJs3GR7/INVz/ZPbGZ0gfuf4vgDSse9VKQsaMqRVYcQGFxEtZYn2zLNZ+uhSv1GbUXH98FpnoWFX7spJQx+3U9evBY789J5UyyP5Vb38YHtKqQP/OajEUcwpFuWvn7JGi44d4E4n8wDm4+LqHhZuQur9SJ1sJAgHPFYPn62+cM5NYnHnEcXQmnZ8H5Aw==;PFHHrf82z8a1mUIiyzqzHw=="
+secured: "HYWLq2iUojWuxf8dV8y+A5r2SDwjJ82i2oZYpNVvKMHISnNF+F48Y2MDvmoZtsNB0HyLU7fKkiEQjcLiAlH5W1VdbIyy7fOXOKeaoadleZMenh9R2cgw89aiVh8gpRLc0Eu1PsuwfHUkVwU5f7f48AnPJefrgDGkRj2hHHlKFVyZ9r4E9VcdqEL+ZdRBVpl+Sjmkw670Xlz3vUNeILO6SllZcxNwKVP4qbfd6JY41EIFTA3EIvQaIBcHcLANRN+8OiDEmxppA/cqh7mJqMMC9YOsnPf85UK5K6I6bVNiyV0mxOoT74lSxoxHU1mfXRek8LFrrDByDqqoZzs0hT7eFg==;McdAFa6xY56EYMa2yfwr3g=="
 ---
 

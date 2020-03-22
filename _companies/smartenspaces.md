@@ -2,7 +2,7 @@
 name: "Smarten Spaces"
 overview: "Smarten Spaces is a new age technology company which has built the first AI and IOT end to end platform with a host of integrated micro services to disrupt a $217 Trillion+ industry of built up and new spaces. Our mission is to create the world's largest smart community not limited by spaces but making spaces easy to work, explore or live in."
 type: "profile"
-heat: 2
+heat: 4
 
 website: https://www.smartenspaces.com/
 
@@ -26,11 +26,11 @@ topics:
   - AI
 
 images:
-  - url: "https://media.licdn.com/dms/image/C560BAQGoTY8R2xnQ7w/company-logo_400_400/0?e=1582156800&v=beta&t=DGZNycK3SsO_5n-pYA6E7tc43lnadIEtmIjaFU6RqcI"
+  - url: "https://media-exp1.licdn.com/dms/image/C510BAQFi606oKvzlvg/company-logo_200_200/0?e=1593043200&v=beta&t=x6Cu93cwxqlNv0yxPutNfW99nlSPsZ4kkkoG1VUJccA"
     width: 400
     height: 400
     title: "logo"
 
-secured: "1hhpzfGgAZ618gaLOT1hkY+sUmMr8L1vhIsvUFiVxN+0+SByL7AbufoGxwdC/oGpbtXRYD77T52BDH+GK/l3UX3504mEI+WMi8OrbD6mDbYIpiTVBwEAVwRvaf4mPfSMieMGMH2O7KGMooWS0kvaGqhlKyyRm6LeRXnqOHwnuwfJL3lu6ruiTeY87uuiL8XG9ANZAXjIvIVa0ahdY4c+gxKA/kNZX21C01yV7ApRIO8t9Ja+ud+bPJs0jNhbjbUFJQN7+GhWqBCkBDDDNa/vwQ==;8JUNu3RNYtWwOkDpBetVug=="
+secured: "886Q6bO9LvwM6jz+p0iJB/9xWn3zM2BIDCSSpX2pPSBibLushVFOV08ldSqrnjp4nKndp8LHMZDX7Ci2mPnM3JIwrn+sO9fjcPiuXJqRTH4hbVKtJY+b7nmw0/JyFQBokqi/SQTXfKq0QX1XX849SI3sjn595WJhPmssH+5hfHOtcYW8ENKYjzAC2M7fY0SQiF+FBOkmSk3YFMb02P2fEOWu5J02/VFuPMzlufhecv9FOIylWUy1y4QvF75WEKdAjwc658/n7Y867TsJj3dbO8kBJAzK+scmyhXGeMpaBkkXZPNY1zDBC8N0pczDEKO4nEu0+rIM/kkjfOEjahgUDA==;ZFsqFGmK41v46qpY/aFYdQ=="
 ---
 

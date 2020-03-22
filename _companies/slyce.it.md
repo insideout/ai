@@ -2,7 +2,7 @@
 name: "Slyce"
 overview: "Slyce is the market-leader in image recognition for retail, powering visual search in apps for retailers such as Home Depot, Bed Bath and Beyond, Neiman Marcus, and Macy's. Our service can identify virtually any product from an image, and enable customers to snap a photo to buy something, add it to a wishlist, find it in store, or create another retail moment."
 type: "profile"
-heat: 0
+heat: -2259
 
 website: https://slyce.it/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "slyceit"
   url: "https://twitter.com/slyceit"
-  followers: 1000
+  followers: 995
 
 angelList:
   url: "https://angel.co/company/slyce"
@@ -38,15 +38,15 @@ tags:
   - Image Recognition
 
 images:
-  - url: "https://media.licdn.com/dms/image/C4E0BAQHoj57sto9tZQ/company-logo_400_400/0?e=1582156800&v=beta&t=udLRNlP-9of9NGyXCG6UnpT-9BOBI6TdMW4v3Ys5O4Q"
-    width: 400
-    height: 400
-    title: "logo"
-  - url: "https://pbs.twimg.com/profile_images/733105320453668868/nKF3Esx-_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/955460145814925312/hJG4yBSD_400x400.jpg"
     width: 400
     height: 400
     title: "Slyce"
+  - url: "https://media-exp1.licdn.com/dms/image/C4E0BAQHoj57sto9tZQ/company-logo_200_200/0?e=1593043200&v=beta&t=C7QqMbNNeCVG8C-xgJZ4G2x8xRCOgB_y88ZLtY9hfwo"
+    width: 400
+    height: 400
+    title: "logo"
 
-secured: "a9c7U+Uh/0Wl/bVrYn2WtWZy09hUTYkSfZiBHMOo9jX4iLFgma8lqgqZPRWGA5Lb3gy9fkpMRKgC1XGRQQbB7kT5+PLQY4Jz+hIBCQ7dYOFt+6WFPqM1K5gWRPAqWKdh51kcl9Js3GqSG+o3qWN90HnKycuI/eDhz0ubP5nGhTcBZDeAjIMuHzw+G8BoewTu/Yag77D4p/n/DHYXlXOrOwgOJCLeD2TcUfc0BwZSLQy5RGH0Zv5i+y+vF3HDLUapCWVomuCRkECwWBxlqp1gkw==;qZCCV6U2fNvAZwfi8L3m1w=="
+secured: "S7i2b3YKaQaEknwKn8F+sDfjInMlnFOqpZpK8RSBgfU+/Gz4wXefXtkBWBcxkDBIK7ZTvjZZy6vFniBZwmeJwNOPxTjIgAvCnkpWjAGnPex1Sf60hYqYf5pkixhXm0/MEE52gtS6dO6ta3G9yESHiYVzxdUNE8cVn75uMH00lW6EDXkY9xCBIpxUYeI47//Qaa5/FgPRefkUGr29LpYEyMUCIlxjYLRj3KZFTN1nw5iwiMI7EYJCB86joS3wLMfoH8v+/hkIbjw4bmr0tzHXQ51JqKLF4Fz4RsthJ3uzzJZS3Dpbk99rZPfBBJetkUX7sIekl06GfPlYm6jFunavJQ==;6GKakCpb6KdHq66YEPMlEw=="
 ---
 

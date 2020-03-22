@@ -2,7 +2,7 @@
 name: "NVIDIA"
 overview: "NVIDIA’s invention of the GPU in 1999 sparked the growth of the PC gaming market, redefined modern computer graphics, and revolutionized parallel computing. More recently, GPU deep learning ignited modern AI — the next era of computing — with the GPU acting as the brain of computers, robots, and self-driving cars that can perceive and understand the world. Today, NVIDIA is increasingly known as “the AI computing company.”"
 type: "profile"
-heat: 4128
+heat: 7480
 
 website: https://www.nvidia.com
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "NvidiaAI"
   url: "https://twitter.com/NvidiaAI"
-  followers: 10119
+  followers: 52790
 
 size: 10,001+ employees
 yearFounded: 1993
@@ -38,15 +38,15 @@ tags:
   - Image Recognition
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1145524454170062848/U4lxVYEw_400x400.png"
+  - url: "https://pbs.twimg.com/profile_images/877294444554231809/Wcem1g-S_400x400.jpg"
     width: 400
     height: 400
     title: "NVIDIA"
-  - url: "https://media.licdn.com/dms/image/C560BAQFDs6GbpvE3zA/company-logo_400_400/0?e=1583366400&v=beta&t=F7Ci6PET8G8l9jemNLWBxw2fhZvjF9yKf_8-Bgo8RLM"
+  - url: "https://media-exp1.licdn.com/dms/image/C560BAQFDs6GbpvE3zA/company-logo_200_200/0?e=1593043200&v=beta&t=Fq42DJ9Ajwb7NQ2tgW72Z9Oytg5vAnhosR1KlkrzapI"
     width: 400
     height: 400
-    title: "NVIDIA"
+    title: "logo"
 
-secured: "9LvCWfZLJzn+i2yTn0K+tbI/e7vhbXEzLc4RtGhV9jLo4GmNwc9bLDSarGffT3fxHoKEAGmxJoXdfZjwuVaFoLdwujntQoCsV4J2FSoyisDliyKvL8D28tPOk+y7z8jBJPvmp+nVrYccvqFQOYeLK5cgXmB40RmJpfd7tqRh6nh5yRyyxRSqzT0WO44dDs6K0I3zfkIMyXOd+MLwn96MfOQE3itfNdY5cx9OrSd2w1znIg1ANh0XS9wfkCybkzniibwFIBf2bkjmNsY0gR9KPg==;auWT8yfre50U4fsc1bYXYw=="
+secured: "uzIu1g5hexsznt35pAYg2jUAAepzA7ZsUaInHUMs1Iderwe8hpUfwWiREQgUob3/kcNBObEUJmq4YutHF7y7PwTD4hI38EWGSjJUsfX7VBlyOj7D4LE1ox/k71jeckUNP3wIAOoJlXxiCop9BX5nsxMo01JaHXGKKYC/UphmlbWj6JODHVrAlPllBFwk+y3KV6k9pU1htnRcBLWwo9BqWjcDKi0iBhkjlbD6c4vPY3U5ALIsYCcsSwf7YxCNeUzvJUq+qlWpicb4g1uQMLBD+Za9sQBkxGkpUdG19bprZ/4yVAY4pJ5jMkCE9JirB6WFA85F/91tYnEa+//PsSFMbg==;eBL6shNgA7Lc7RFBbTlrvw=="
 ---
 

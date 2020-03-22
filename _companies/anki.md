@@ -2,7 +2,7 @@
 name: "Anki"
 overview: "Anki is a leading consumer robotics company, founded by three Carnegie Mellon Robotics Institute graduates. We’re building on decades of scientific research to make artificial intelligence accessible to everyone. We are dedicated to creating unique consumer products that people would not expect to be possible, powered by robotics and AI."
 type: "profile"
-heat: 74
+heat: 3757
 
 website: https://www.anki.com
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "anki"
   url: "https://twitter.com/anki"
-  followers: 1938
+  followers: 27164
 
 size: 51-200 employees
 yearFounded: 2010
@@ -31,18 +31,18 @@ topics:
   - AI in Robotics
 
 images:
-  - url: "https://media.licdn.com/dms/image/C4D0BAQF1hOliZioDmw/company-logo_400_400/0?e=1582761600&v=beta&t=rhiYXjBdaDGUHfIJCcKKikiWNSJx11U6Krkh_u0wOzI"
-    width: 400
-    height: 400
-    title: "logo"
-  - url: "https://pbs.twimg.com/profile_images/1087779865716277248/vzXkJJSh_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1224328852773724161/IphWljSP_400x400.jpg"
     width: 400
     height: 400
     title: "Anki"
+  - url: "https://media-exp1.licdn.com/dms/image/C4D0BAQF1hOliZioDmw/company-logo_200_200/0?e=1593043200&v=beta&t=D11QVDlY2x-gNaQQ4j0WZMlSq_FJ9FCSMxf_HTW18Jk"
+    width: 400
+    height: 400
+    title: "logo"
 
 videos:
   - url: "https://www.youtube.com/watch?v=ABFcdwfU3F0"
 
-secured: "nS95u3b4qbh/7UEYZyMl9pqDB47UTSe9+WnnYRKfAIdX8bLlGcaX91yPbqePRFZaM+8Ih/3qq35LfXf2CI9v5xZNYUeH0Va0rL9OTPDuN8s4UPnmCmexzaB/P6+vtXZ1KmJdCNxhF9GHNv+XMfeMqAjaRjYs/u/13QEC3mq22jjAyk77NY5dVYJRwvk3PGhGqBcwtXJrjvQzJWYdAUi2OwhPdyjzXiKtpRCfP67eUt2Q8ANKy7Aj0Qm6xZTKkoMavrQ0H6Sy8z62mKu8+9sVig==;AnWDv7p8VfCQ0toZAgsi+A=="
+secured: "2esB6dkH3+FiEWNOpxU4s/CuREGOi82IJton9pqi7MYQ2JRWrOnaiTeAJNoOqk5u/d9U18UC8AYW+Ng0ltqHrhhhqz78h0RqUUKOGVivGGCX2w9m43v2pTucpcE+Xull9eADYu/Dh/600/ZlosJtf/wfMufrh/oN5Be05alhNAzIOszvRihSEkPAQXs0mDfGzX/mqxNeter+Di2pKPh5Ay7h2UA5OsEv5myHblgHKUp0rQ/P/DtxnWvXtkj1XuL1g9g2unQaK3Xgcl6Sjd/eJSuv8k+1Rmk+T+df6ADSCNi67GR3wTaX0STTFBOZ1TaFejbCL65XcfBWvSRAj7lYEQ==;3CERyXMlzoPdwBkC3yTB5w=="
 ---
 
