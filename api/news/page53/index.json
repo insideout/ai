@@ -2,6 +2,51 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2020-01-29-waymo-and-ups-team-to-deliver-packages-with-self-driving-vans.md",
+      "title": "Waymo and UPS team to deliver packages with self-driving vans",
+      "excerpt": "Autonomous car company Waymo has announced a new partnership with the delivery company UPS. This is said to be ‘a first-of-its-kind deal’ involving Waymo Driver, the company’s self-driving car tech. As part of this deal, Waymo Driver will help UPS deliver packages in Chrysler Pacifica vans, though the deliveries will be limited to just ...",
+      "heat": 269,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.slashgear.com/waymo-and-ups-team-to-deliver-packages-with-self-driving-vans-29608052/",
+      "ampWebUrl": "https://www.slashgear.com/waymo-and-ups-team-to-deliver-packages-with-self-driving-vans-29608052/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/waymo-and-ups-team-to-deliver-packages-with-self-driving-vans-29608052/amp/",
+      "publishedDateTime": "2020-01-29T14:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://scdn.slashgear.com/wp-content/uploads/2020/01/waymo_ups_main.jpg",
+          "width": 1422,
+          "height": 800,
+          "title": "Waymo and UPS team to deliver packages with self-driving vans",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-01-29-underwater-robot-autonomously-gathers-seabed-samples.md",
       "title": "Underwater robot autonomously gathers seabed samples",
       "excerpt": "That's why researchers have now enabled one to autonomously gather samples from the ocean floor. Led by associate scientist Rich Camilli, a team at Woods Hole Oceanographic Institution (WHOI) recently developed artificial intelligence-based automated planning software that's designed to work with ROVs. Last month, that technology was put to use ...",
@@ -1026,50 +1071,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-29-concentric-raises-75-million-to-identify-and-protect-sensitive-enterprise-data-with-ai.md",
-      "title": "Concentric raises $7.5 million to identify and protect sensitive enterprise data with AI",
-      "excerpt": "Its marquee product taps AI and machine learning to uncover unstructured on-premises and cloud data, and Krishnan claims customers have already used it to find “millions” of inappropriately shared and unprotected documents accessible by thousands of employees. “Businesses understand the importance of protecting their critical assets ...",
-      "heat": 78,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/29/concentric-raises-7-5-million-to-identify-and-protect-sensitive-enterprise-data-with-ai/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/29/concentric-raises-7-5-million-to-identify-and-protect-sensitive-enterprise-data-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/29/concentric-raises-7-5-million-to-identify-and-protect-sensitive-enterprise-data-with-ai/amp/",
-      "publishedDateTime": "2020-01-29T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/8a91385a-4630-4ae0-a791-1dbe7d1f8780-e1580153727148.png?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Concentric raises $7.5 million to identify and protect sensitive enterprise data with AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,50 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2020-01-29-concentric-raises-75-million-to-identify-and-protect-sensitive-enterprise-data-with-ai.md",
+      "title": "Concentric raises $7.5 million to identify and protect sensitive enterprise data with AI",
+      "excerpt": "Its marquee product taps AI and machine learning to uncover unstructured on-premises and cloud data, and Krishnan claims customers have already used it to find “millions” of inappropriately shared and unprotected documents accessible by thousands of employees. “Businesses understand the importance of protecting their critical assets ...",
+      "heat": 78,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/29/concentric-raises-7-5-million-to-identify-and-protect-sensitive-enterprise-data-with-ai/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/29/concentric-raises-7-5-million-to-identify-and-protect-sensitive-enterprise-data-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/29/concentric-raises-7-5-million-to-identify-and-protect-sensitive-enterprise-data-with-ai/amp/",
+      "publishedDateTime": "2020-01-29T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/8a91385a-4630-4ae0-a791-1dbe7d1f8780-e1580153727148.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Concentric raises $7.5 million to identify and protect sensitive enterprise data with AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-29-worlds-biggest-ever-self-driving-experiment-to-coincide-with-tokyo-olympics.md",
       "title": "World’s Biggest-Ever Self-Driving Experiment To Coincide With Tokyo Olympics",
       "excerpt": "Set to take place in early July, just two weeks before the Tokyo Olympics, the multi-manufacturer group will produce some 80 self-driving vehicles",
@@ -1009,51 +1053,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-01-28-google-brings-cross-platform-ai-pipeline-framework-mediapipe-to-the-web.md",
-      "title": "Google brings cross-platform AI pipeline framework MediaPipe to the web",
-      "excerpt": "TensorFlow Lite inference isn’t supported, and the graph’s computations must be run on a single processor thread. A lack of compute shaders — routines compiled for high-throughput ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/28/google-brings-cross-platform-ai-pipeline-framework-mediapipe-to-the-web/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/28/google-brings-cross-platform-ai-pipeline-framework-mediapipe-to-the-web/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/28/google-brings-cross-platform-ai-pipeline-framework-mediapipe-to-the-web/amp/",
-      "publishedDateTime": "2020-01-28T12:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Google brings cross-platform AI pipeline framework MediaPipe to the web",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

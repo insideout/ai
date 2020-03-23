@@ -2,6 +2,35 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-03-15-deepmind-uses-ai-to-help-fight-covid-19.md",
+      "title": "DeepMind Uses AI to Help Fight COVID-19",
+      "excerpt": "The world is facing a global public health crisis due to the COVID-19 pandemic caused by the novel coronavirus named SARS-CoV-2. This is a new pathogen, and scientists around the world are researching the SARS-CoV-2 coronavirus in order to develop therapeutics to treat,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202003/deepmind-uses-ai-help-fight-covid-19",
+      "ampWebUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202003/deepmind-uses-ai-help-fight-covid-19?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202003/deepmind-uses-ai-help-fight-covid-19?amp",
+      "publishedDateTime": "2020-03-15T00:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-15-port-of-seattle-moves-toward-implementing-facial-recognition.md",
       "title": "Port of Seattle moves toward implementing facial recognition",
       "excerpt": "Over protests from civil-liberties groups, the Port of Seattle Commission voted Tuesday to purchase and install facial-recognition cameras at Seattle-Tacoma International Airport’s international departure gates.",
@@ -953,43 +982,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-13-current-ai-hardware-focus-is-misguided-says-ai-pioneer.md",
-      "title": "Current AI hardware focus is misguided, says AI pioneer",
-      "excerpt": "offered a glimpse of what Facebook is working on, and made some predictions for the future of deep-learning hardware. Le Cun is a renowned visionary in the field of AI, having been at the forefront of neural-network research in the 1980s and 1990s. As a Bell Labs researcher in the late 1980s, he worked with the earliest types of dedicated ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.embedded.com/current-ai-hardware-focus-is-misguided-says-ai-pioneer/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-13T07:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Embedded",
-        "domain": "embedded.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.embedded.com/wp-content/uploads/2020/03/img20200313102416Le-Cun-It-s-Really-Hard-to_0.jpg",
-          "width": 640,
-          "height": 426,
-          "title": "Current AI hardware focus is misguided, says AI pioneer",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

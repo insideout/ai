@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Former Google Self-Driving Engineer Pleads Guilty to Trade Secrets Theft"
-excerpt: "A former engineer in Google's self-driving division who became the focus of a criminal investigation that rocked Silicon Valley has pleaded guilty to a count of trade secrets theft, NBC News reports. Anthony Levandowski admitted he downloaded thousands of proprietary files from an internal Google server in 2015 and transferred them to his ..."
-publishedDateTime: 2020-03-20T06:09:00Z
-webUrl: "https://www.nbcnewyork.com/news/national-international/former-google-self-driving-engineer-pleads-guilty-to-trade-secrets-theft/2335673/"
-ampWebUrl: "https://www.nbcnewyork.com/news/national-international/former-google-self-driving-engineer-pleads-guilty-to-trade-secrets-theft/2335673/?amp"
-cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/former-google-self-driving-engineer-pleads-guilty-to-trade-secrets-theft/2335673/?amp"
+title: "Former Google self-driving engineer pleads guilty to trade secrets theft"
+excerpt: "“I downloaded this file with the intent to use it for the benefit of someone other than Google,” Anthony Levandowski said in a court document."
+publishedDateTime: 2020-03-20T03:54:00Z
+webUrl: "https://www.nbcnews.com/tech/tech-news/former-google-self-driving-engineer-pleads-guilty-trade-secrets-theft-n1164491"
+ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1164491"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1164491"
 type: article
 
 provider:
-  name: NBC New York
-  domain: nbcnewyork.com
+  name: NBC News
+  domain: nbcnews.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://media.nbcnewyork.com/2019/09/Anthony-Levandowski.jpg?crop=0px%2C0px%2C0px%2C0px&resize=1200%2C675"
-    width: 1200
-    height: 675
-    title: "Former Google Self-Driving Engineer Pleads Guilty to Trade Secrets Theft"
+  - url: "https://media1.s-nbcnews.com/i/newscms/2020_12/3277166/200319-anthony-levandowski-2019-ac-1123p_aa34af092ffbf787558f21daa2586052.jpg"
+    width: 2500
+    height: 1668
+    title: "Former Google self-driving engineer pleads guilty to trade secrets theft"
 
-secured: "EuZHUE2NilY1V8kX+hR0tij5qa5JQmCFxTXROw0krAKuRAmPeZhTD72Z04vgIks93IYObsSkG7rHWJ9xt6ER8STaX6sPDCEjrfUL2FXhS3Kib/aAdpTVOk6hVaU12VOsCG65+WPIcrMWVpq8Byk/CsfN+CKEphuipJyiHZVTK3ZLhkDNt3RUNNf24peL6HqeGBQHLrZE8TNJKXGCjqIPDJWb8G7Oh6T3LpaQmNgrAPCZLVwImp3uVQrQ8Zrkp3FCtdt//hyUwBvc4b07QVDKhc+fEaz6qzcSD3d6XA17KWDkiHsHVsSMXrS7ucA1ABc9;AvcF87ldeBnp897GUd7+OA=="
+secured: "PTDhV8Qr3EX28kubZD5YukC3qxYFqtfZoCyVbWUxnYYp0SFecH1YjGOTBT0HDx5/oaVyPhxmSGukVoe16iS99wxIzJj+pQu2QqGDFa6/hxoCyF8OhfES3HGaOtkDrruiLraS9YgIhgMZguPuMq5AIc0r2qORy/qbOixlLNrsoQ/MGNLWQZse1XY4jguhgXJk28HK7+zyNhGiKhB3tC1Th20a3/z2//NEJDqY6C4z+bKIidDptHTV69bB6vc4bLpemNDL5XsTmTCHVuCM7Y6Hl7EjNzlYkkEEc5t2c8FEFFIK8GCYK/q4rybEeqP7hg6o;VpKxYdxf353xsqqGTiq5CA=="
 ---
 

@@ -2,6 +2,51 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2020-02-13-shell-aims-to-enroll-thousands-in-online-artificial-intelligence-training.md",
+      "title": "Shell Aims to Enroll Thousands in Online Artificial-Intelligence Training",
+      "excerpt": "The oil company is expanding an online program that teaches its employees artificial-intelligence skills, part of an effort to cut costs, improve business processes and generate revenue.",
+      "heat": 198,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/shell-enrolls-thousands-in-online-artificial-intelligence-training-11581622566",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/shell-enrolls-thousands-in-online-artificial-intelligence-training-11581622566",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/shell-enrolls-thousands-in-online-artificial-intelligence-training-11581622566",
+      "publishedDateTime": "2020-02-13T13:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-154203/social",
+          "width": 1280,
+          "height": 640,
+          "title": "Shell Aims to Enroll Thousands in Online Artificial-Intelligence Training",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-02-13-the-illusion-of-artificial-emotional-awareness.md",
       "title": "The Illusion of Artificial Emotional Awareness",
       "excerpt": "Welcome to the world of affective computing, also known as emotion AI. A relatively new branch of computer science ... Since writing Heart of the Machine: Our Future in a World of Artificial Emotional Intelligence, I’ve routinely had to explain that none of this technology is giving computers the ability to experience or understand emotions ...",
@@ -1009,52 +1054,6 @@
         "AI in Robotics",
         "AI Hardware",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-13-fiddler-labs-sri-and-berkeley-experts-open-up-the-black-box-of-machine-learning-at-tc-sessions-roboticsai.md",
-      "title": "Fiddler Labs, SRI and Berkeley experts open up the black box of machine learning at TC Sessions: Robotics+AI",
-      "excerpt": "As AI permeates the home, work, and public life, it’s increasingly important to be able to understand why and how it makes its decisions. Explainable AI isn’t just a matter of hitting a switch, though; Experts from UC Berkeley, SRI, and Fiddler Labs will discuss how we should go about it on stage at TC Sessions: Robotics+AI on March 3. What ...",
-      "heat": 117,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/02/12/fiddler-labs-sri-and-berkeley-experts-open-up-the-black-box-of-machine-learning-at-tc-sessions-roboticsai/",
-      "ampWebUrl": "https://techcrunch.com/2020/02/12/fiddler-labs-sri-and-berkeley-experts-open-up-the-black-box-of-machine-learning-at-tc-sessions-roboticsai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/12/fiddler-labs-sri-and-berkeley-experts-open-up-the-black-box-of-machine-learning-at-tc-sessions-roboticsai/amp/",
-      "publishedDateTime": "2020-02-12T20:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/02/fiddler_images.png?w=1024",
-          "width": 1024,
-          "height": 558,
-          "title": "Fiddler Labs, SRI and Berkeley experts open up the black box of machine learning at TC Sessions: Robotics+AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Robotics"
       ]
     }
   ],

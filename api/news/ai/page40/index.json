@@ -2,6 +2,50 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2020-02-04-benchsci-raises-22-million-for-ai-powered-drug-discovery-tools.md",
+      "title": "BenchSci raises $22 million for AI-powered drug discovery tools",
+      "excerpt": "Assessing the health of pharmaceutical R&D by unearthing hidden patterns in procurement data is a task made simpler by AI. At least, that’s the pitch given by David Qixiang Chen, Elvis Wianda, Liran Belenzon, and Tom Leung, who cofounded BenchSci in 2015. The Toronto, Canada-based biotech company taps AI to run experiments that accelerate ...",
+      "heat": 197,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/04/benchsci-raises-22-million-for-ai-powered-drug-discovery-tools/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/04/benchsci-raises-22-million-for-ai-powered-drug-discovery-tools/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/04/benchsci-raises-22-million-for-ai-powered-drug-discovery-tools/amp/",
+      "publishedDateTime": "2020-02-04T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/05/products-screenshot-min-e1580583276382.png?fit=1258%2C600&strip=all",
+          "width": 1258,
+          "height": 600,
+          "title": "BenchSci raises $22 million for AI-powered drug discovery tools",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-04-robot-nutrition-ai-drug-discovery-and-neuro-rehabilitation-11-of-the-most-exciting-healthcare-startups-in-europe.md",
       "title": "Robot nutrition, AI drug discovery, and neuro-rehabilitation: 11 of the most exciting healthcare startups in Europe",
       "excerpt": "From robot chefs to smart patches that analyze your sleeping habits, here are 11 of the most exciting health tech companies in Europe.",
@@ -1219,50 +1263,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-03-elon-musk-announced-hes-hosting-a-super-fun-ai-party-hackathon-at-his-house-next-month.md",
-      "title": "Elon Musk announced he's hosting a \"super fun AI party\" hackathon at his house next month",
-      "excerpt": "The announcement appears to be part of a wider drive to bolster Tesla's autonomous driving division, responsible for its Autopilot feature.",
-      "heat": 98,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/elon-musk-announces-tesla-hackathon-at-his-home-2020-2",
-      "ampWebUrl": "https://www.businessinsider.com/elon-musk-announces-tesla-hackathon-at-his-home-2020-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-announces-tesla-hackathon-at-his-home-2020-2?amp",
-      "publishedDateTime": "2020-02-03T03:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5e32fe3862fa813a0c67ed14?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "Elon Musk announced he's hosting a \"super fun AI party\" hackathon at his house next month",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

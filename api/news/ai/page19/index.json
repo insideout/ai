@@ -2,6 +2,43 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2020-02-26-mediatek-announces-helio-p95-with-apu-20-powervr-gpu-and-more.md",
+      "title": "MediaTek announces Helio P95 with APU 2.0, PowerVR GPU and more",
+      "excerpt": "There is an Imagination PowerVR GM 94446 GPU with a 10% improvement in performance over the last generation ... The processor has a triple ISP with 14-bit RAW and 10-bit YUV processing. It also has AI-camera enhancements such as AI-NR low-light photography, 5-person human pose tracking, multiple objects and scene identification, and AI depth ...",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.gizmochina.com/2020/02/26/mediatek-announces-helio-p95-with-apu-2-0-powervr-gpu-and-more/",
+      "ampWebUrl": "https://www.gizmochina.com/2020/02/26/mediatek-announces-helio-p95-with-apu-2-0-powervr-gpu-and-more/?amp",
+      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2020/02/26/mediatek-announces-helio-p95-with-apu-2-0-powervr-gpu-and-more/?amp",
+      "publishedDateTime": "2020-02-26T10:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2020/02/Helio-P95.png",
+          "width": 822,
+          "height": 594,
+          "title": "MediaTek announces Helio P95 with APU 2.0, PowerVR GPU and more",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-02-26-google-ai-helps-google-translate-offer-these-new-languages-spoken-by-millions.md",
       "title": "Google: AI helps Google Translate offer these new languages spoken by millions",
       "excerpt": "For the first time in four years, Google is launching five additional languages for Google Translate, bringing its total number of supported languages to 108. Google says the large interval since it last added new languages is down to how its machine-translation app learns new languages. If there's a shortage of content on the web from a ...",
@@ -1222,51 +1259,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-25-techchill-2020-is-hot-for-connectivity.md",
-      "title": "TechChill 2020 Is Hot For Connectivity",
-      "excerpt": "Analyst Will Townsend provides his connectivity-related takeaways from the TechChill 2020 startup event in Riga, Latvia.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/02/25/techchill-2020-is-hot-for-connectivity/",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/02/25/techchill-2020-is-hot-for-connectivity/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/02/25/techchill-2020-is-hot-for-connectivity/amp/",
-      "publishedDateTime": "2020-02-25T12:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x533/https://specials-images.forbesimg.com/imageserve/5e5580c07a00980007343a02/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 533,
-          "title": "TechChill 2020 Is Hot For Connectivity",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

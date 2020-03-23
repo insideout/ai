@@ -137,43 +137,6 @@
       ]
     },
     {
-      "path": "_news/2020-03-20-former-google-self-driving-engineer-pleads-guilty-to-trade-secrets-theft.md",
-      "title": "Former Google Self-Driving Engineer Pleads Guilty to Trade Secrets Theft",
-      "excerpt": "A former engineer in Google's self-driving division who became the focus of a criminal investigation that rocked Silicon Valley has pleaded guilty to a count of trade secrets theft, NBC News reports. Anthony Levandowski admitted he downloaded thousands of proprietary files from an internal Google server in 2015 and transferred them to his ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nbcnewyork.com/news/national-international/former-google-self-driving-engineer-pleads-guilty-to-trade-secrets-theft/2335673/",
-      "ampWebUrl": "https://www.nbcnewyork.com/news/national-international/former-google-self-driving-engineer-pleads-guilty-to-trade-secrets-theft/2335673/?amp",
-      "cdnAmpWebUrl": "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/former-google-self-driving-engineer-pleads-guilty-to-trade-secrets-theft/2335673/?amp",
-      "publishedDateTime": "2020-03-19T23:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC New York",
-        "domain": "nbcnewyork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.nbcnewyork.com/2019/09/Anthony-Levandowski.jpg?crop=0px%2C0px%2C0px%2C0px&resize=1200%2C675",
-          "width": 1200,
-          "height": 675,
-          "title": "Former Google Self-Driving Engineer Pleads Guilty to Trade Secrets Theft",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-03-20-ubers-former-self-driving-lead-pleads-guilty-to-stealing-from-google.md",
       "title": "Uber's former self-driving lead pleads guilty to stealing from Google",
       "excerpt": "After about three years of legal wrangling between Uber and Waymo over self-driving car tech, the engineer at the center of it has agreed to plead guilty to one count of stealing materials from Google. Anthony Levandowski was a lead engineer on the self-driving car project that's now known as Waymo, until he left to form his own company ...",
@@ -206,6 +169,43 @@
           "width": 600,
           "height": 350,
           "title": "Uber's former self-driving lead pleads guilty to stealing from Google",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-20-former-google-self-driving-engineer-pleads-guilty-to-trade-secrets-theft.md",
+      "title": "Former Google self-driving engineer pleads guilty to trade secrets theft",
+      "excerpt": "“I downloaded this file with the intent to use it for the benefit of someone other than Google,” Anthony Levandowski said in a court document.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nbcnews.com/tech/tech-news/former-google-self-driving-engineer-pleads-guilty-trade-secrets-theft-n1164491",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1164491",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1164491",
+      "publishedDateTime": "2020-03-19T20:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media1.s-nbcnews.com/i/newscms/2020_12/3277166/200319-anthony-levandowski-2019-ac-1123p_aa34af092ffbf787558f21daa2586052.jpg",
+          "width": 2500,
+          "height": 1668,
+          "title": "Former Google self-driving engineer pleads guilty to trade secrets theft",
           "attribution": null
         }
       ],

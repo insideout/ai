@@ -2,6 +2,51 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-03-14-ai-can-detect-corona-virus-from-ct-scans-in-just-20-seconds.md",
+      "title": "AI can detect Corona virus from CT scans in just 20 seconds",
+      "excerpt": "Chinese tech company Alibaba, says its AI can detect Corona virus from CT scans in just 20 seconds. It takes doctors around 20 mins to do the same. The model has an accuracy of around 96%. The diagnosis algorithm was developed by Alibaba's research institute Damo Academy. Researchers at the academy said they had trained the AI model with sample ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.linkedin.com/pulse/ai-can-detect-corona-virus-from-ct-scans-just-20-seconds-alan-brown/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-13T17:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQGrEHprOlem7Q/article-cover_image-shrink_720_1280/0?e=1590624000&v=beta&t=VCPInLfR_pD5-rvXfrBh0UFfdTtHwNzswxK4BNKriAA",
+          "width": 1080,
+          "height": 720,
+          "title": "AI can detect Corona virus from CT scans in just 20 seconds",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-13-radnet-to-acquire-deephealth-for-machine-learning-radiology-tech.md",
       "title": "RadNet To Acquire DeepHealth For Machine Learning Radiology Tech",
       "excerpt": "DeepHealth has developed machine learning/AI-based imaging analysis technologies ... Major vendors that provide competitive services include: Behold.ai Technologies RadNet disclosed the acquisition price and terms as 1.0 million shares of common stock upfront and up to 1.5 million shares as future contingent consideration based on the ...",
@@ -1137,43 +1182,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-13-emergence-of-visual-center-periphery-spatial-organization-in-deep-convolutional-neural-networks.md",
-      "title": "Emergence of Visual Center-Periphery Spatial Organization in Deep Convolutional Neural Networks",
-      "excerpt": "Recently, studies have uncovered emergence of human interpretable concepts within DCNNs layers trained to identify visual objects and scenes. Here, we asked whether an artificial neural network (with convolutional structure) trained for visual categorization would demonstrate spatial correspondences with human brain regions showing central ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nature.com/articles/s41598-020-61409-0",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-12T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-61409-0/MediaObjects/41598_2020_61409_Fig1_HTML.png",
-          "width": 685,
-          "height": 346,
-          "title": "Emergence of Visual Center-Periphery Spatial Organization in Deep Convolutional Neural Networks",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

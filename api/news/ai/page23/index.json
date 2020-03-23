@@ -2,6 +2,51 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2020-02-21-take-advantage-of-tensorflow-object-detection-api-part-1.md",
+      "title": "Take Advantage of “Tensorflow Object Detection API”- Part 1!!!",
+      "excerpt": "Description-The following is the step by step Tutorial for taking advantage of the Tensorflow Object Detection API-Part 1 (setting up models repository environment) series. Note: I have followed these steps on Ubuntu 16.04 and Ubuntu 18.04 systems. but before proceeding for actual process our system must have some required libraries as follows ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/@Sahilchachere/take-advantage-of-tensorflow-object-detection-api-99041cd9bb27",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-21T15:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*fMK7Y6XKoeHlJ5o9wGrMVQ.png",
+          "width": 1200,
+          "height": 675,
+          "title": "Take Advantage of “Tensorflow Object Detection API”- Part 1!!!",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-21-ai-nightmares-in-the-uncanny-valley.md",
       "title": "AI Nightmares In The Uncanny Valley",
       "excerpt": "San Francisco's de Young museum looks at what it means to be human in the age of AI with its newest exhibition, Uncanny Valley, presented by the Andy Warhol Foundation, Charles Schwab, Chronicle Book's founder Nion McEvoy,",
@@ -1216,51 +1261,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-20-openai-text-generator-gpt-2-creates-video-game-walkthrough-for-most-tedious-game-in-history.md",
-      "title": "OpenAI Text Generator GPT-2 Creates Video Game Walkthrough for 'Most Tedious Game in History'",
-      "excerpt": "An advanced language model may one day be used in game design, experiments with 'Overwatch,' 'Dota 2' and 'Final Fantasy VII' demonstrate.",
-      "heat": 78,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.newsweek.com/openai-text-generator-gpt-2-video-game-walkthrough-most-tedious-1488334",
-      "ampWebUrl": "https://www.newsweek.com/openai-text-generator-gpt-2-video-game-walkthrough-most-tedious-1488334?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/openai-text-generator-gpt-2-video-game-walkthrough-most-tedious-1488334?amp=1",
-      "publishedDateTime": "2020-02-20T13:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1568474/goldeneye-n64-artificial-intelligence.jpg",
-          "width": 2500,
-          "height": 1406,
-          "title": "OpenAI Text Generator GPT-2 Creates Video Game Walkthrough for 'Most Tedious Game in History'",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

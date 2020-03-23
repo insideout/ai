@@ -2,6 +2,43 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-03-09-tensorflow-quantum-software-combines-quantum-and-classical-machine-learning.md",
+      "title": "TensorFlow Quantum software combines quantum and classical machine learning",
+      "excerpt": "The collaborative effort resulted in the creation of an open-source hybrid quantum-classical machine learning software platform, called TensorFlow Quantum. TensorFlow Quantum integrates Google’s Cirq and TensorFlow and will allow for the rapid prototyping, training, inference, and testing of hybrid quantum-classical machine learning models to ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://insidehpc.com/2020/03/tensorflow-quantum-software-combines-quantum-and-classical-machine-learning/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-09T10:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "insideHPC",
+        "domain": "insidehpc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://insidehpc.com/wp-content/uploads/2020/03/blobid0_1583527327745.jpg",
+          "width": 640,
+          "height": 480,
+          "title": "TensorFlow Quantum software combines quantum and classical machine learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-09-global-voice-and-speech-recognition-technology-industry.md",
       "title": "Global Voice and Speech Recognition Technology Industry",
       "excerpt": "NEW YORK, March 9, 2020 /PRNewswire/ -- Voice and Speech Recognition Technology market worldwide is projected to grow by US$15 Billion, driven by a compounded growth of",
@@ -33,13 +70,13 @@
     {
       "path": "_news/2020-03-09-american-board-of-artificial-intelligence-in-medicine-abaim-aims-to-educate-and-certify-healthcare-professionals-in-ai-and-related-technologies.md",
       "title": "American Board of Artificial Intelligence in Medicine (ABAIM) Aims to Educate and Certify Healthcare Professionals in AI, and Related Technologies",
-      "excerpt": "The ABAIM plans to credential healthcare professionals and anyone else who seeks a greater understanding of the growing role and use of artificial intelligence (AI),",
+      "excerpt": "is pleased to announce its recent incorporation as a not-for-profit entity. The ABAIM plans to credential healthcare professionals and anyone else who seeks a greater understanding of the growing role and use of artificial intelligence (AI),",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/03/p15508719/american-board-of-artificial-intelligence-in-medicine-abaim-aims-to-educate-and-certify-healthcare",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15508719",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15508719",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/03/n15508706/american-board-of-artificial-intelligence-in-medicine-abaim-aims-to-educate-and-certify-healthcare",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15508706",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15508706",
       "publishedDateTime": "2020-03-09T08:51:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -1079,35 +1116,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-06-computer-model-mimics-neural-processes-in-object-recognition.md",
-      "title": "Computer model mimics neural processes in object recognition",
-      "excerpt": "\"We chose street-scene recognition as an example because it has a restricted set of object categories, and it has practical social applications,\" said Serre. The IEEE paper describes how the team \"showed\" the model randomly selected images so that it could ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.vision-systems.com/factory/consumer-packaged-goods/article/16749835/computer-model-mimics-neural-processes-in-object-recognition",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-05T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Vision Systems Design",
-        "domain": "vision-systems.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

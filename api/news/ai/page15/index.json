@@ -2,6 +2,35 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-03-06-computer-model-mimics-neural-processes-in-object-recognition.md",
+      "title": "Computer model mimics neural processes in object recognition",
+      "excerpt": "\"We chose street-scene recognition as an example because it has a restricted set of object categories, and it has practical social applications,\" said Serre. The IEEE paper describes how the team \"showed\" the model randomly selected images so that it could ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.vision-systems.com/factory/consumer-packaged-goods/article/16749835/computer-model-mimics-neural-processes-in-object-recognition",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-05T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Vision Systems Design",
+        "domain": "vision-systems.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-05-googles-deepmind-just-shared-ai-generated-predictions-about-the-coronavirus-that-could-help-researchers-stem-the-global-outbreak.md",
       "title": "Google's DeepMind just shared AI-generated predictions about the coronavirus that could help researchers stem the global outbreak",
       "excerpt": "These predictions were drawn from DeepMind's new deep learning system but have yet to be experimentally verified, DeepMind noted.",
@@ -1135,43 +1164,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-02-first-mwc-then-gdc-now-nvidias-gpu-conference-is-online-only-as-coronavirus-spreads-in-silicon-valley.md",
-      "title": "First MWC, then GDC, now Nvidia's GPU conference is online-only as coronavirus spreads in Silicon Valley",
-      "excerpt": "The list goes on. We’ve also heard that Google’s TensorFlow Dev Summit, a two-day affair for machine learning developers, that was planned next week for March 11 and 12, in Sunnyvale ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theregister.co.uk/2020/03/02/coronavirus_conference_concerns/",
-      "ampWebUrl": "https://www.theregister.co.uk/AMP/2020/03/02/coronavirus_conference_concerns/",
-      "cdnAmpWebUrl": "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/03/02/coronavirus_conference_concerns/",
-      "publishedDateTime": "2020-03-02T14:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Register",
-        "domain": "theregister.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2018/03/27/jensen_huang.jpg",
-          "width": 4000,
-          "height": 2545,
-          "title": "First MWC, then GDC, now Nvidia's GPU conference is online-only as coronavirus spreads in Silicon Valley",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

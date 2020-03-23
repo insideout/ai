@@ -2,6 +2,43 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-03-18-fca-opts-for-cerence-drive-in-latest-version-of-in-car-voice-platform.md",
+      "title": "FCA Opts for Cerence Drive in Latest Version of In-Car Voice Platform",
+      "excerpt": "Fiat Chrysler Automobiles (FCA) has become the latest car manufacturer to adopt Cerence Drive. The voice recognition solution has been integrated into Uconnect 5, the most recent version of FCA’s Uconnect in-car infotainment platform. Uconnect 5 will be deployed across FCA’s entire product line, allowing drivers to use the brand of their ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://mobileidworld.com/fca-opts-cerence-drive-latest-version-uconnect-in-car-voice-platform-031804/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-18T10:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mobile ID News",
+        "domain": "mobileidworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mobileidworld.com/wp-content/uploads/automobile-automotive-car-228094-1024x683.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": "FCA Opts for Cerence Drive in Latest Version of In-Car Voice Platform",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-18-delphian-trading-launches-ai-based-institutional-trading-platform.md",
       "title": "Delphian Trading Launches AI-based Institutional Trading Platform",
       "excerpt": "Delphian Trading, a leader in predictive analytics for derivatives trading and incubated by System Soft Technologies, today announced the formal launch of its Delphian Trading platform, which provides institutional-grade,",
@@ -878,27 +915,27 @@
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/oneconnect-joins-idc-s-financial-insights-fintech-fast-101-list-of-leading-fintech-companies-in-asia-1029007485",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/oneconnect-joins-idc-s-financial-insights-fintech-fast-101-list-of-leading-fintech-companies-in-asia-1029007485",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/oneconnect-joins-idc-s-financial-insights-fintech-fast-101-list-of-leading-fintech-companies-in-asia-1029007485",
+      "webUrl": "https://www.businesswire.com/news/home/20200318005262/en/OneConnect-Joins-IDC’s-Financial-Insights’-FinTech-Fast",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-03-18T03:16:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
-      "images": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200318005262/en/780435/23/IDC.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": "OneConnect Joins IDC’s Financial Insights’ FinTech Fast 101 List of Leading FinTech Companies in Asia",
+          "attribution": null
+        }
+      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -1143,43 +1180,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-datarobot-and-intersystems-partner-to-accelerate-adoption-of-ai-in-healthcare.md",
-      "title": "DataRobot and InterSystems partner to accelerate adoption of ai in healthcare",
-      "excerpt": "DataRobot’s enterprise AI platform will augment InterSystems IntegratedML, which gives developers access to AutoML capabilities directly from SQL. This allows InterSystems IRIS and IRIS for Health customers to embed predictions within their existing applications in a simple, intuitive, and scalable way. InterSystems’ technology simplifies ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zawya.com/mena/en/press-releases/story/DataRobot_and_InterSystems_partner_to_accelerate_adoption_of_ai_in_healthcare-ZAWYA20200318071738/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T00:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.zawya.com/resources/img/zawya-logo-en-social.png",
-          "width": 1200,
-          "height": 878,
-          "title": "DataRobot and InterSystems partner to accelerate adoption of ai in healthcare",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

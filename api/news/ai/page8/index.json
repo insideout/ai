@@ -2,6 +2,43 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-03-16-cognitive-computing-technology-market-by-offering-solutionsservices-technology-deployment-type-applications-forecasts-to-2023.md",
+      "title": "Cognitive Computing Technology Market By Offering (Solutions,Services), Technology, Deployment Type, Applications Forecasts To 2023",
+      "excerpt": "This report analyzes the global cognitive computing technology market by technology (NLP, machine learning, automated reasoning), deployment (cloud, on-premise), organization size (SME, large enterprise), end-user (BFSI, retail, aerospace & defense); it also studies the top manufacturers in the market. • Microsoft Corporation (U.S ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/03/ab15555518/cognitive-computing-technology-market-by-offering-solutions-services-technology-deployment-type-a",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15555518",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15555518",
+      "publishedDateTime": "2020-03-16T02:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.abnewswire.com/uploads/1584351519.jpeg",
+          "width": 278,
+          "height": 333,
+          "title": "Cognitive Computing Technology Market By Offering (Solutions,Services), Technology, Deployment Type, Applications Forecasts To 2023",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-16-ai-for-speech-recognition-market.md",
       "title": "AI for Speech Recognition Market",
       "excerpt": "This report provides in-depth study of \"Global AI for Speech Recognition Market 2020\" using SWOT analysis i.e. Strength, Weakness, Opportunities, and Threat to the organization. The AI for Speech Recognition Market report also provides an in-depth survey of key players in the market organization. The most important key factors driving the ...",
@@ -1093,51 +1130,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-14-ai-can-detect-corona-virus-from-ct-scans-in-just-20-seconds.md",
-      "title": "AI can detect Corona virus from CT scans in just 20 seconds",
-      "excerpt": "Chinese tech company Alibaba, says its AI can detect Corona virus from CT scans in just 20 seconds. It takes doctors around 20 mins to do the same. The model has an accuracy of around 96%. The diagnosis algorithm was developed by Alibaba's research institute Damo Academy. Researchers at the academy said they had trained the AI model with sample ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.linkedin.com/pulse/ai-can-detect-corona-virus-from-ct-scans-just-20-seconds-alan-brown/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-13T17:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQGrEHprOlem7Q/article-cover_image-shrink_720_1280/0?e=1590624000&v=beta&t=VCPInLfR_pD5-rvXfrBh0UFfdTtHwNzswxK4BNKriAA",
-          "width": 1080,
-          "height": 720,
-          "title": "AI can detect Corona virus from CT scans in just 20 seconds",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }
