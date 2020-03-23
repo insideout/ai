@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-03-23-what-machine-learning-trends-you-should-watch-in-2020.md",
+      "title": "What Machine Learning Trends You Should Watch In 2020",
+      "excerpt": "What are the most important machine learning trends as we head into 2020? This question was originally answered on Quora by Anima Anandkumar.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/quora/2020/03/23/what-machine-learning-trends-you-should-watch-in-2020/",
+      "ampWebUrl": "https://www.forbes.com/sites/quora/2020/03/23/what-machine-learning-trends-you-should-watch-in-2020/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quora/2020/03/23/what-machine-learning-trends-you-should-watch-in-2020/amp/",
+      "publishedDateTime": "2020-03-23T11:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1137284435%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "What Machine Learning Trends You Should Watch In 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-23-a-massive-opportunity-exists-to-build-picks-and-shovels-for-machine-learning.md",
       "title": "A Massive Opportunity Exists To Build “Picks And Shovels” For Machine Learning",
       "excerpt": "The reward for building the next generation of developer tools for machine learning will be many billions of dollars of enterprise value.",
@@ -486,6 +531,43 @@
       "topics": [
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-03-19-scientists-linked-artificial-and-biological-neurons-in-a-network-and-it-worked.md",
+      "title": "Scientists linked artificial and biological neurons in a network — and it worked",
+      "excerpt": "Scientists have linked up two silicon-based artificial neurons with a biological one across multiple countries into a fully-functional network. Using standard internet protocols, they established a chain of communication whereby an artificial neuron ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.themandarin.com.au/127951-scientists-linked-artificial-and-biological-neurons-in-a-network-and-it-worked/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-18T22:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Mandarin",
+        "domain": "themandarin.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.themandarin.com.au/content/uploads/2020/03/neurons.jpg",
+          "width": 795,
+          "height": 530,
+          "title": "Scientists linked artificial and biological neurons in a network — and it worked",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1071,80 +1153,6 @@
         "authors": null
       },
       "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-how-can-machine-learning-be-applied-to-game-development.md",
-      "title": "How can machine learning be applied to game development?",
-      "excerpt": "To that end, Hoffman-John's team has been working on machine learning to help address some common pain points and bottlenecks developers have. The team is composed primarily of game developers with a number of engineers in the mix to help apply some of Google's existing technology to game prototypes. Hoffman-John says they look at the work with ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.gamesindustry.biz/articles/2020-03-16-how-can-machine-learning-be-applied-to-game-development",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-16T21:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Games Industry",
-        "domain": "gamesindustry.biz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.eurogamer.net/2020/articles/2020-03-16-19-40/ErinHoffmanJohn644.jpg",
-          "width": 885,
-          "height": 708,
-          "title": "How can machine learning be applied to game development?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-can-deep-learning-predict-coma-outcome.md",
-      "title": "Can Deep Learning Predict Coma Outcome?",
-      "excerpt": "This research is part of a growing body of literature and applications of AI into the healthcare system. For example, deep learning systems are currently used within medicine to classify certain types of injuries and interpreting X-ray images. Several other studies have noted the importance of using EEG data to complement clinical evaluation in ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.news-medical.net/health/Can-Deep-Learning-Predict-Coma-Outcome.aspx",
-      "ampWebUrl": "https://www.news-medical.net/amp/health/Can-Deep-Learning-Predict-Coma-Outcome.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/health/Can-Deep-Learning-Predict-Coma-Outcome.aspx",
-      "publishedDateTime": "2020-03-16T20:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.news-medical.net/image.axd?picture=2020%2f3%2fshutterstock_500494666_31de6d7102654c25898e235271aed01a-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": "Can Deep Learning Predict Coma Outcome?",
-          "attribution": null
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"

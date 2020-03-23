@@ -232,6 +232,43 @@
       ]
     },
     {
+      "path": "_news/2020-03-17-axon-appoints-chris-harris-to-ai-ethics-board-to-supervise-ai-technologies-jeff-kunins-quoted.md",
+      "title": "Axon Appoints Chris Harris to AI Ethics Board to Supervise AI Technologies; Jeff Kunins Quoted",
+      "excerpt": "Axon has named Chris Harris to its AI Ethics Board to supervise the development and production of the company’s AI technology, Axon announced on Tuesday. \"Our new AI Ethics Board members bring a wealth of knowledge and experience including privacy, social justice, and some of the most directly relevant core science and applied machine ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.executivegov.com/2020/03/axon-appoints-chris-harris-to-ai-ethics-board-to-supervise-ai-technologies-jeff-kunins-quoted/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-17T13:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Executive Gov",
+        "domain": "executivegov.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://executivebiz.secure.force.com/archintelmedia/servlet/servlet.FileDownload?file=00Pf300001397deEAA",
+          "width": 272,
+          "height": 270,
+          "title": "Axon Appoints Chris Harris to AI Ethics Board to Supervise AI Technologies; Jeff Kunins Quoted",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-17-how-the-nz-government-will-regulate-ai.md",
       "title": "How the NZ government will regulate AI",
       "excerpt": "The community workshops held by the project team have recommended that the innovative approaches and tools should concentrate on the areas of national conversations about AI ethics and values, assessment and options for a centre of excellence.” In another Government AI development, Statistics New Zealand has released a draft algorithm charter ...",
@@ -1158,43 +1195,6 @@
         "AI",
         "AI Ethics",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-02-25-military-unveils-guidelines-on-artificial-intelligence-warfare.md",
-      "title": "Military Unveils Guidelines on Artificial Intelligence Warfare",
-      "excerpt": "The project uses algorithms to interpret aerial images of war zones or conflict areas, one of many recent military developments that involve AI. Among the five general principles listed in the new Defense Department ethics guidelines is one that requires AI to be “governable,” meaning the automated technology can be stopped if unintended ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.courthousenews.com/military-unveils-guidelines-on-artificial-intelligence-warfare/",
-      "ampWebUrl": "https://www.courthousenews.com/military-unveils-guidelines-on-artificial-intelligence-warfare/amp/",
-      "cdnAmpWebUrl": "https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/military-unveils-guidelines-on-artificial-intelligence-warfare/amp/",
-      "publishedDateTime": "2020-02-25T15:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Courthouse News Service",
-        "domain": "courthousenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i0.wp.com/www.courthousenews.com/wp-content/uploads/2020/02/pentagon.jpg?fit=1024%2C683&ssl=1",
-          "width": 1024,
-          "height": 683,
-          "title": "Military Unveils Guidelines on Artificial Intelligence Warfare",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

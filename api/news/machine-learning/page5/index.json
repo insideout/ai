@@ -2,6 +2,99 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-02-11-googles-machine-learning-is-making-you-more-effective-in-2020.md",
+      "title": "Google’s Machine Learning Is Making You More Effective In 2020",
+      "excerpt": "to email as well as increasing ways to help me complete or enhance a document, spreadsheet, or presentation with the Explore function.",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/tjmccue/2020/02/10/googles-machine-learning-is-making-you-more-effective-in-2020/",
+      "ampWebUrl": "https://www.forbes.com/sites/tjmccue/2020/02/10/googles-machine-learning-is-making-you-more-effective-in-2020/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tjmccue/2020/02/10/googles-machine-learning-is-making-you-more-effective-in-2020/amp/",
+      "publishedDateTime": "2020-02-10T20:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F881497148%2F0x0.jpg%3FcropX1%3D148%26cropX2%3D3119%26cropY1%3D1497%26cropY2%3D3169",
+          "width": 1200,
+          "height": 676,
+          "title": "Google’s Machine Learning Is Making You More Effective In 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-02-10-ai-on-steroids-much-bigger-neural-nets-to-come-with-new-hardware-say-bengio-hinton-and-lecun.md",
+      "title": "AI on steroids: Much bigger neural nets to come with new hardware, say Bengio, Hinton, and LeCun",
+      "excerpt": "Hinton joined his compatriots, Yann LeCun of Facebook and Yoshua Bengio of Canada's MILA institute, fellow deep learning pioneers, in an upstairs meeting room of the Hilton Hotel on the sidelines of the 34th annual conference on AI by the Association for the Advancement of Artificial Intelligence. They spoke for 45 minutes to a small group of ...",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/ai-on-steroids-much-bigger-neural-nets-to-come-with-new-hardware-say-bengio-hinton-lecun/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-on-steroids-much-bigger-neural-nets-to-come-with-new-hardware-say-bengio-hinton-lecun/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-on-steroids-much-bigger-neural-nets-to-come-with-new-hardware-say-bengio-hinton-lecun/",
+      "publishedDateTime": "2020-02-10T12:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/02/10/79d4074f-3054-45ef-97ca-091d778943cd/hinton-bengio-lecun-press-briefing-feb-10th-2020.jpg",
+          "width": 7331,
+          "height": 4887,
+          "title": "AI on steroids: Much bigger neural nets to come with new hardware, say Bengio, Hinton, and LeCun",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Facebook AI",
+        "AI Hardware",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-02-10-machine-learning-the-tool-of-the-century.md",
       "title": "Machine Learning: The Tool of the Century",
       "excerpt": "There are 3 main types of artificial intelligence: narrow, general, and super. We have yet to achieve super, or even general intelligence. Artificial narrow intelligence (ANI) includes machine learning, which is being used to make self-driving cars, show you advertisements, and improve disease diagnosis. Machine learning is the field in which ...",
@@ -1233,97 +1326,6 @@
       ],
       "topics": [
         "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-01-29-machine-learning-as-a-service-market-analysis-report-2019-2027-growing-cagr-354.md",
-      "title": "Machine Learning As A Service Market Analysis (Report 2019-2027): Growing CAGR 35.4%",
-      "excerpt": "The overall machine learning as a service market worldwide was valued at US$ 1,117.9 Mn in 2018 and is set to grow with a CAGR of 35.4% during the forecast period. Rapid technological advancements and the growing adoption of cloud-based technologies worldwide are primarily driven by the Machine Learning As A Service market.",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-analysis-report-2019-2027-growing-cagr-354-2020-01-29",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-29T07:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Machine Learning As A Service Market Analysis (Report 2019-2027): Growing CAGR 35.4%",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-01-29-how-traditional-companies-can-utilize-ai-and-machine-learning-to-build-better-products.md",
-      "title": "How Traditional Companies Can Utilize AI And Machine Learning To Build Better Products",
-      "excerpt": "The good news is that the same machine learning technologies utilized within these large organizations are offered to the general public by various providers, such as AWS, Google Cloud Platform and Azure — for a fee, of course. At AWS re:Invent 2019, there was a clear, overarching theme: machine learning. And not just machine learning ...",
-      "heat": 98,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/29/how-traditional-companies-can-utilize-ai-and-machine-learning-to-build-better-products/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/29/how-traditional-companies-can-utilize-ai-and-machine-learning-to-build-better-products/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/29/how-traditional-companies-can-utilize-ai-and-machine-learning-to-build-better-products/amp/",
-      "publishedDateTime": "2020-01-29T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1165431212/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 474,
-          "title": "How Traditional Companies Can Utilize AI And Machine Learning To Build Better Products",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
         "Machine Learning"
       ]
     }

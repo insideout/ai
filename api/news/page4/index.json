@@ -2,6 +2,154 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-03-19-this-ai-camera-detects-people-who-may-have-covid-19.md",
+      "title": "This AI camera detects people who may have COVID-19",
+      "excerpt": "The company’s software, which works with high-grade, off-the-shelf security cameras, uses an AI model to zoom in on a subject’s inner eye, which is most reflective of the body’s actual temperature, she said. The system uses AI to monitor numerous cameras at once, and automatically sends an alert to security personnel if it detects someone ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fastcompany.com/90479220/this-ai-camera-detects-people-who-may-have-covid-19",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-19T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fast Company",
+        "domain": "fastcompany.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/03/p-3-this-ai-camera-spots-people-with-coronavirus-fever.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "This AI camera detects people who may have COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-19-how-artificial-intelligence-can-help-fight-coronavirus.md",
+      "title": "How Artificial Intelligence Can Help Fight Coronavirus",
+      "excerpt": "Imagine a typical Tuesday morning. You park your car in the nearby Costco’s parking lot. The lot is full, with vehicles parked nose to nose. You wait in a long line, similar to what you would see at Disney on a typical weekend.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/03/19/how-artificial-intelligence-can-help-fight-coronavirus/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/03/19/how-artificial-intelligence-can-help-fight-coronavirus/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/03/19/how-artificial-intelligence-can-help-fight-coronavirus/amp/",
+      "publishedDateTime": "2020-03-19T05:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1140779754%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "How Artificial Intelligence Can Help Fight Coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-03-19-north-american-deep-learning-chipset-market-by-type-technology-end-user-and-country-forecast-to-2025.md",
+      "title": "North American Deep Learning Chipset Market by Type, Technology, End-user and Country - Forecast to 2025",
+      "excerpt": "Research and Markets also offers Custom Research services providing focused, comprehensive and tailored research.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.globenewswire.com/news-release/2020/03/19/2003377/0/en/North-American-Deep-Learning-Chipset-Market-by-Type-Technology-End-user-and-Country-Forecast-to-2025.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-19T05:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GlobeNewswire",
+        "domain": "globenewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-19-comment-busting-the-myths-of-autonomous-vehicles.md",
+      "title": "Comment: Busting the myths of autonomous vehicles",
+      "excerpt": "The electric and driverless vehicle offers a vision of the future – but JLR promises it ... taking up less space on the road and allowing traffic to move in a mathematically optimised way. The artificial intelligence behind the vehicles should allow for traffic management; cities with autonomous networks will be able to manage the flow ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://fleetworld.co.uk/comment-busting-the-myths-of-autonomous-vehicles/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-19T05:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fleet World",
+        "domain": "fleetworld.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://fleetworld.co.uk/wp-content/uploads/2020/03/Alfonso-Martinez-091.jpg",
+          "width": 1024,
+          "height": 768,
+          "title": "Comment: Busting the myths of autonomous vehicles",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-19-natural-language-processing-market-industry-size-share-business-strategies-major-segments-and-key-manufacturers-revenue-forecast.md",
       "title": "Natural Language Processing Market Industry Size & Share, Business Strategies, Major Segments and Key Manufacturers Revenue Forecast",
       "excerpt": "The global natural language processing market is expected to rise with an impressive CAGR and generate the highest revenue by 2026.Fortune Business Insights™ in its latest report published this information.",
@@ -796,112 +944,30 @@
       ]
     },
     {
-      "path": "_news/2020-03-19-transforming-surgery-with-data-ai-and-cloud.md",
-      "title": "Transforming surgery with data, AI, and cloud",
-      "excerpt": "In the future, there are plans to deploy Azure SQL Database, Azure Storage, and Azure App Services to realize a serverless environment. And later, AI technologies such as Microsoft Cognitive Services and Azure Machine Learning will be applied. Dr. Takeshita’s specialty is gastrointestinal surgery. With the database in place, he sees an ...",
+      "path": "_news/2020-03-19-scientists-linked-artificial-and-biological-neurons-in-a-network-and-it-worked.md",
+      "title": "Scientists linked artificial and biological neurons in a network — and it worked",
+      "excerpt": "Scientists have linked up two silicon-based artificial neurons with a biological one across multiple countries into a fully-functional network. Using standard internet protocols, they established a chain of communication whereby an artificial neuron ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://news.microsoft.com/apac/features/transforming-surgery-with-data-ai-and-cloud/",
+      "webUrl": "https://www.themandarin.com.au/127951-scientists-linked-artificial-and-biological-neurons-in-a-network-and-it-worked/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T21:24:00-07:00",
+      "publishedDateTime": "2020-03-18T22:16:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/43/2020/03/hero-1600x758.jpg",
-          "width": 1600,
-          "height": 758,
-          "title": "Transforming surgery with data, AI, and cloud",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-self-driving-car-companies-suspend-testing-due-to-coronavirus-concerns.md",
-      "title": "Self-driving car companies suspend testing due to coronavirus concerns",
-      "excerpt": "Major self-driving car companies have suspended their testing programs due to coronavirus ... Other companies to have ceased testing include Pony.ai, Baidu Inc., Zoox Inc., Nuro Inc. and Yandex NV. One notable exception is the Intel Corp. owned Mobileye that conducts the majority of its testing in Israel. The country was one of the first ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://siliconangle.com/2020/03/18/self-driving-car-companies-suspend-testing-due-coronavirus-concerns/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T19:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
+        "name": "The Mandarin",
+        "domain": "themandarin.com.au",
         "images": null,
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/06/1_Gikb_56-v7jI5Q8oy3wy9w.jpeg",
-          "width": 800,
-          "height": 533,
-          "title": "Self-driving car companies suspend testing due to coronavirus concerns",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-machine-learning-powered-steam-recommendations-now-live.md",
-      "title": "Machine Learning-Powered Steam Recommendations Now Live",
-      "excerpt": "Steam has added a new tool today for recommending games to users. Steam Interactive Recommender uses machine learning to predict which games you'll enjoy based on what other people with similar taste have played. The Interactive Recommender started as a tool within Steam Labs back in July 2019, but has now become a proper feature of the store.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.gamespot.com/articles/machine-learning-powered-steam-recommendations-now/1100-6474947/",
-      "ampWebUrl": "https://www.gamespot.com/amp-articles/machine-learning-powered-steam-recommendations-now/1100-6474947/",
-      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/machine-learning-powered-steam-recommendations-now/1100-6474947/",
-      "publishedDateTime": "2020-03-18T17:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameSpot",
-        "domain": "gamespot.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://gamespot1.cbsistatic.com/uploads/screen_large/1574/15746725/3611299-biggest-games-play-2020-most-anticipated-nologo-3.jpg",
-          "width": 640,
-          "height": 360,
-          "title": "Machine Learning-Powered Steam Recommendations Now Live",
+          "url": "https://www.themandarin.com.au/content/uploads/2020/03/neurons.jpg",
+          "width": 795,
+          "height": 530,
+          "title": "Scientists linked artificial and biological neurons in a network — and it worked",
           "attribution": null
         }
       ],
@@ -911,80 +977,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-amazon-elastic-inference-adds-support-for-pytorch-machine-learning-models.md",
-      "title": "Amazon Elastic Inference adds support for PyTorch machine learning models",
-      "excerpt": "Enhanced PyTorch libraries for EI are available by default in Amazon SageMaker, AWS Deep Learning AMIs, and AWS Deep Learning Containers, allowing developers to deploy PyTorch models in production with minimal code changes. In a blog post, Amazon explained that inference tends to account for around 90% of the compute costs for the average deep ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://siliconangle.com/2020/03/18/amazon-elastic-inference-adds-support-pytorch-machine-learning-models/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T16:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/03/aws-logo-reinvent2018-800x537.jpg",
-          "width": 800,
-          "height": 537,
-          "title": "Amazon Elastic Inference adds support for PyTorch machine learning models",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-fingerprint-locks-and-smart-home-facial-recognition-launched-to-growing-consumer-biometrics-market.md",
-      "title": "Fingerprint locks and smart home facial recognition launched to growing consumer biometrics market",
-      "excerpt": "The smart camera capabilities including object recognition for people, animals, and vehicles, were introduced with the HomeKit Secure Video in the previous version. The feature is expected to consist of face classification with identification for family members through smart home cameras. Other new features include Night Shift, which makes ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.biometricupdate.com/202003/fingerprint-locks-and-smart-home-facial-recognition-launched-to-growing-consumer-biometrics-market",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T15:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Biometric Companies",
-        "domain": "biometricupdate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/03/27164821/benjilock-biometric-travel-lock-by-Hampton-Products.jpeg",
-          "width": 2000,
-          "height": 2000,
-          "title": "Fingerprint locks and smart home facial recognition launched to growing consumer biometrics market",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

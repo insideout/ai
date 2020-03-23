@@ -1,9 +1,9 @@
 ---
 category: news
 title: "TensorFlow Quantum software combines quantum and classical machine learning"
-excerpt: "The collaborative effort resulted in the creation of an open-source hybrid quantum-classical machine learning software platform, called TensorFlow Quantum. TensorFlow Quantum integrates Google’s Cirq and TensorFlow and will allow for the rapid prototyping, training, inference, and testing of hybrid quantum-classical machine learning models to ..."
+excerpt: "The collaborative effort resulted in the creation of an open-source hybrid quantum-classical machine learning software platform, called TensorFlow Quantum. TensorFlow Quantum integrates Google’s Cirq and TensorFlow and will allow for the rapid prototyping, training, inference, and"
 publishedDateTime: 2020-03-09T17:05:00Z
-webUrl: "https://insidehpc.com/2020/03/tensorflow-quantum-software-combines-quantum-and-classical-machine-learning/"
+webUrl: "https://insidehpc.com/tag/tensorflow-quantum/"
 type: article
 
 provider:
@@ -14,12 +14,6 @@ topics:
   - Google AI
   - AI
 
-images:
-  - url: "https://insidehpc.com/wp-content/uploads/2020/03/blobid0_1583527327745.jpg"
-    width: 640
-    height: 480
-    title: "TensorFlow Quantum software combines quantum and classical machine learning"
-
-secured: "asZgMCawFHjMozs5D3QkiPaZzrLmgvc9bamhNt0dQPw+1JQF5LlB8dv3Cb7QgSubQFtmnOcDqJTKM45izydqn9qvpCqN8x69BkYdMf5tUDD1uw2d9wnCfYbAyhkhl45CebdkpATNmEk0V88Hdn5KX+9rvcyFPh9I358PPl1zEbuAsRvucs8Fib2FuV4ALNnlI9bnqtiKwxdUEeAxrlRNuy8HF9Ul47fosOMO+CjbQq7ltSE7sPWa+kaqiUPeKjf/2thRsDbu3yJGZKm1Yrbmd0981JYugieyWmPcQ90P5DlMf9Rwnle12DMJRGBk1vFgYl4m6taBCAy8+r+fAKHv/B4qUTuIfufXMG2hgm7b21ygzit3dUzAVL72Tqlke26Fp8IeEQn51XqkP8sf8cMT7JQzShhc5cDmooT8PgkcBDb03aWMNQuHCUY3c/DGnx7ET9/4hh+viFebgBpG+jLL3PuLEB4WB1JRzeRsrL+lIZE=;zyd/EhEK1qBDwBARBpekdg=="
+secured: "4bvQnUreQVfxK0v9HqzAEvRBp6ix58sq8GL7/jqugn+tdLj8Exn5SOGHLrsGCNU6uugxV/6xRGU3Qt2t0ZPUCThzgGmee1zAxuIsLFMuWAApulQfE7V080KCQuK3RbintES6LGNvOeXqh/MZVRR1+zcmgVeGrS26cPWSKkj5BETzNRlIDWterqeegFoZYpQLBUwXi/XEX2CApHFyhyEWmUD/EtfWMc8EB59bwLwMOhFbFuH85EAqoGqu8VfhbiXIuZLrwQgzccc48LSPqmbUwj1WC0zZ6770hxMYOeCE5DmQoziX83syHu5WU1YSfaU9JS0ASknkeVrQvGGCgyb6KC+4RUxYw90IPNHvNoJ86X4yuh3J/TmjqxT/ZgoGLF39Z73rcAh4rr+DgrbGOmeB+nBTFn9z0BBiQVq0klv7jHbYKNW7sTb0S+b5Qns6dy+pExa/tKKBWkFxLD0eaO6pa0hy1P9bcmHMhb5o1dN2jKY=;i+R3D/2lv+n5LsLmvdW1aQ=="
 ---
 

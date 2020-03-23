@@ -2,6 +2,43 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-02-25-military-unveils-guidelines-on-artificial-intelligence-warfare.md",
+      "title": "Military Unveils Guidelines on Artificial Intelligence Warfare",
+      "excerpt": "The project uses algorithms to interpret aerial images of war zones or conflict areas, one of many recent military developments that involve AI. Among the five general principles listed in the new Defense Department ethics guidelines is one that requires AI to be “governable,” meaning the automated technology can be stopped if unintended ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.courthousenews.com/military-unveils-guidelines-on-artificial-intelligence-warfare/",
+      "ampWebUrl": "https://www.courthousenews.com/military-unveils-guidelines-on-artificial-intelligence-warfare/amp/",
+      "cdnAmpWebUrl": "https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/military-unveils-guidelines-on-artificial-intelligence-warfare/amp/",
+      "publishedDateTime": "2020-02-25T15:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Courthouse News Service",
+        "domain": "courthousenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i0.wp.com/www.courthousenews.com/wp-content/uploads/2020/02/pentagon.jpg?fit=1024%2C683&ssl=1",
+          "width": 1024,
+          "height": 683,
+          "title": "Military Unveils Guidelines on Artificial Intelligence Warfare",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-02-25-these-are-the-pentagons-new-ethics-principles-for-ai-in-warfare.md",
       "title": "These Are the Pentagon’s New Ethics “Principles” for AI in Warfare",
       "excerpt": "On Monday, the Pentagon announced the official adoption of a series of new principles for ethical use of artificial intelligence in warfare, the Associated Press reports. The principles were formed out of a commission with the (darkly Newspeak-y) name the Defense Innovation Board, which released its recommendations (title: “AI Principles ...",
@@ -1246,51 +1283,6 @@
           "width": 1200,
           "height": 478,
           "title": "What do we teach when we teach tech & AI ethics?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-06-ieee-calls-for-standards-to-combat-climate-change-and-protect-kids-in-the-age-of-ai.md",
-      "title": "IEEE calls for standards to combat climate change and protect kids in the age of AI",
-      "excerpt": "The white paper encapsulates change underway at the IEEE in line with AI ethics principles released in spring 2019 after years of work, according to IEEE Global Initiative on Ethics of Autonomous & Intelligent Systems John Havens. It also follows last fall’s declaration by IEEE leadership to recognize “the global scale of the human-made and ...",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/06/ieee-calls-for-standards-to-combat-climate-change-and-protect-kids-in-the-age-of-ai/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/06/ieee-calls-for-standards-to-combat-climate-change-and-protect-kids-in-the-age-of-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/06/ieee-calls-for-standards-to-combat-climate-change-and-protect-kids-in-the-age-of-ai/amp/",
-      "publishedDateTime": "2020-02-06T07:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/05/shutterstock_751715872.jpg?fit=1200%2C850&strip=all",
-          "width": 1200,
-          "height": 850,
-          "title": "IEEE calls for standards to combat climate change and protect kids in the age of AI",
           "attribution": null
         }
       ],

@@ -2,6 +2,43 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-01-09-ai-for-ai-evaluating-the-opportunity-for-embedded-ai-in-data-productivity-tools.md",
+      "title": "AI for AI - evaluating the opportunity for embedded AI in data productivity tools",
+      "excerpt": "This is the only comment that mentions ethics; otherwise, it has nothing to do with the topic. I just wanted to point out fifty-nine out of sixty prognosticators overlooked the one thing is going to be red-hot in 2020. Yaffa Cohen-Ifrah, CMO and Head of Corporate Communications, Sapiens: AI enables insurers to better utilize the troves of data ...",
+      "heat": 64,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://diginomica.com/ai-ai-evaluating-opportunity-embedded-ai-data-productivity-tools",
+      "ampWebUrl": "https://diginomica.com/ai-ai-evaluating-opportunity-embedded-ai-data-productivity-tools?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ai-ai-evaluating-opportunity-embedded-ai-data-productivity-tools?amp",
+      "publishedDateTime": "2020-01-09T12:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2014-11/magnifying-glass.jpg",
+          "width": 1694,
+          "height": 1122,
+          "title": "AI for AI - evaluating the opportunity for embedded AI in data productivity tools",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-01-06-3-steps-to-implement-ethics-in-ai-for-competitive-advantage-in-2020.md",
       "title": "3 steps to implement ethics in AI for competitive advantage in 2020",
       "excerpt": "Every major company and government deploying AI at scale has publicly declared some form of statement on ethics in AI and articulated a set of guiding principles. In fact, Harvard’s Berkman ...",

@@ -2,6 +2,229 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-03-13-coronavirus-how-artificial-intelligence-data-science-and-technology-is-used-to-fight-the-pandemic.md",
+      "title": "Coronavirus: How Artificial Intelligence, Data Science And Technology Is Used To Fight The Pandemic",
+      "excerpt": "swept from China to the rest of the world, emerging technologies such as artificial intelligence (AI), data science, and other technologies were thrust into action to help humans manage the crisis. Here are 10 ways technology is being used to manage and fight COVID-19.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/03/13/coronavirus-how-artificial-intelligence-data-science-and-technology-is-used-to-fight-the-pandemic/",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/03/13/coronavirus-how-artificial-intelligence-data-science-and-technology-is-used-to-fight-the-pandemic/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/03/13/coronavirus-how-artificial-intelligence-data-science-and-technology-is-used-to-fight-the-pandemic/amp/",
+      "publishedDateTime": "2020-03-12T23:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e6b201b7d6f2600068f59ea%2F0x0.jpg",
+          "width": 1200,
+          "height": 586,
+          "title": "Coronavirus: How Artificial Intelligence, Data Science And Technology Is Used To Fight The Pandemic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-using-machine-learning-to-tackle-arms-proliferation-in-russian-trade-data.md",
+      "title": "Using Machine Learning to Tackle Arms Proliferation In Russian Trade Data",
+      "excerpt": "We eventually settled on EMR (Spark & Livy), in conjunction with SageMaker, as it was perfect for our use-case. We picked these two for their ease-of-use in a collaborative work environment and ability to use multiple clusters to process our large dataset. The set-up process was substantial and required some of what would be called a sysadmin ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://towardsdatascience.com/using-machine-learning-to-tackle-arms-proliferation-in-russian-trade-data-e457f44002c0",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-12T19:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "towardsdatascience.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*ji9YlyGqz6Y_1dCss28fnA.jpeg",
+          "width": 1200,
+          "height": 800,
+          "title": "Using Machine Learning to Tackle Arms Proliferation In Russian Trade Data",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-elon-musks-best-investments.md",
+      "title": "Elon Musk's Best Investments",
+      "excerpt": "A list of some of Musk's best investments includes PayPal Holdings, Inc. (PYPL), SpaceX, DeepMind (GOOGL), Tesla Inc. (TSLA), and The Boring Company. Musk is the CEO and co-founder of Tesla and ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.investopedia.com/articles/investing/031316/elon-musks-5-best-investments-tsla-pypl.asp",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-12T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Investopedia",
+        "domain": "investopedia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.investopedia.com/thmb/116HqdfR7rOQoAhctt4rjgaZYqE=/680x440/filters:fill(auto,1)/ap_507406182676-5bfc3829c9e77c00587a7cc8.jpg",
+          "width": 680,
+          "height": 440,
+          "title": "Elon Musk's Best Investments",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-emergence-of-visual-center-periphery-spatial-organization-in-deep-convolutional-neural-networks.md",
+      "title": "Emergence of Visual Center-Periphery Spatial Organization in Deep Convolutional Neural Networks",
+      "excerpt": "Recently, studies have uncovered emergence of human interpretable concepts within DCNNs layers trained to identify visual objects and scenes. Here, we asked whether an artificial neural network (with convolutional structure) trained for visual categorization would demonstrate spatial correspondences with human brain regions showing central ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nature.com/articles/s41598-020-61409-0",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-12T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-61409-0/MediaObjects/41598_2020_61409_Fig1_HTML.png",
+          "width": 685,
+          "height": 346,
+          "title": "Emergence of Visual Center-Periphery Spatial Organization in Deep Convolutional Neural Networks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-ibms-prototype-automl-could-vastly-improve-ai-responses-to-pandemics.md",
+      "title": "IBM's Prototype AutoML Could Vastly Improve AI Responses To Pandemics",
+      "excerpt": "AutoML is one of the more exciting things worked on in IBM’s labs, and it is on the path to a future of AIs that can create AIs without the need for Data Scientists. Given the threats we face as a race, this capability can’t come soon enough.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.datamation.com/artificial-intelligence/ibm-prototype-automl-could-vastly-improve-ai-responses-to-pandemics.html",
+      "ampWebUrl": "https://www.datamation.com/amp/artificial-intelligence/ibm-prototype-automl-could-vastly-improve-ai-responses-to-pandemics.html",
+      "cdnAmpWebUrl": "https://www-datamation-com.cdn.ampproject.org/c/s/www.datamation.com/amp/artificial-intelligence/ibm-prototype-automl-could-vastly-improve-ai-responses-to-pandemics.html",
+      "publishedDateTime": "2020-03-12T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Datamation",
+        "domain": "datamation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-ibm-watson-health-to-tap-ebscos-dynamed-libraries-for-a-combined-ai-drug-information-suite.md",
+      "title": "IBM Watson Health to tap EBSCO's DynaMed libraries for a combined AI drug information suite",
+      "excerpt": "RELATED: IBM Watson Health's new manager talks about returning to basics, doubling down IBM’s Micromedex and Watson programs employ artificial intelligence and natural language processing with the goal of providing users a conversational approach for searching drug information—similar to Big Blue’s previous approaches in oncology and ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fiercebiotech.com/medtech/ibm-watson-health-to-tap-ebsco-s-dynamed-libraries-for-a-combined-ai-drug-information-suite",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-12T13:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FierceBiotech",
+        "domain": "fiercebiotech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://qtxasset.com/fiercebiotech/1584043544/IBM_Watson.jpg/IBM_Watson.jpg?O_jG5rsopS3DHTncRsKFiffFsacRkMDY",
+          "width": 1200,
+          "height": 803,
+          "title": "IBM Watson Health to tap EBSCO's DynaMed libraries for a combined AI drug information suite",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-12-a-competitive-fintech-environment-encourages-innovative-technology.md",
       "title": "A competitive fintech environment encourages innovative technology",
       "excerpt": "While change is essential, it brings with it wide-ranging implications for the industry, particularly as customer needs and regulation continue to move the needle.",
@@ -302,6 +525,51 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-how-the-coronavirus-may-reshape-ai-research-conferences.md",
+      "title": "How the coronavirus may reshape AI research conferences",
+      "excerpt": "The largest machine learning research conferences, like CVPR and leader NeurIPS ... but members of the board headed by Facebook chief AI scientist Yann LeCun plan to share more details in the coming days. Deep learning pioneer Yoshua Bengio is also on the ICLR board and, like LeCun, one of the most cited researchers on Earth.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/12/how-the-coronavirus-may-reshape-ai-research-conferences/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/12/how-the-coronavirus-may-reshape-ai-research-conferences/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/12/how-the-coronavirus-may-reshape-ai-research-conferences/amp/",
+      "publishedDateTime": "2020-03-12T08:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/s3.reutersmedia.net_.jpg?fit=1200%2C675&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": "How the coronavirus may reshape AI research conferences",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
         "AI"
       ]
     },
@@ -850,291 +1118,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-12-artificial-intelligence-robots-market-competitive-outlook.md",
-      "title": "Artificial Intelligence Robots Market Competitive Outlook",
-      "excerpt": "This global Artificial Intelligence Robots Market report includes all the company profiles of the top market players and brands Client s needs are understood well by experts leveraging their expertise and strong knowledge base to identify and evaluate competition and",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.openpr.com/news/1964127/artificial-intelligence-robots-market-competitive-outlook",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-12T02:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-03-12-scottish-tech-firms-using-artificial-intelligence-to-protect-natural-environment.md",
-      "title": "Scottish tech firms using artificial intelligence to protect natural environment",
-      "excerpt": "Bishopbriggs-based tech firm Red Star AI is working to improve the diagnosis and treatment of diabetes patients, predicting risk of hospitalisation and non-response to standard therapies, by using forms of AI called Natural Language Processing and Machine Learning to analyse the discharge letters and clinical notes of 110,000 historic diabetes ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.heraldscotland.com/news/18300268.scottish-tech-firms-using-artificial-intelligence-protect-natural-environment/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-12T02:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "heraldscotland.com",
-        "domain": "heraldscotland.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.heraldscotland.com/resources/images/11144105/",
-          "width": 2400,
-          "height": 1597,
-          "title": "Scottish tech firms using artificial intelligence to protect natural environment",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-12-global-enterprise-ai-market-2020-2025-pin-point-analysis-and-future-growth-strategies.md",
-      "title": "Global Enterprise AI Market 2020-2025 Pin-point Analysis and Future Growth Strategies",
-      "excerpt": "Market Overview Enterprise AI Market was valued at USD 1843.69 million in 2018 and is expected to reach a value of USD 22889.32 million by 2024, at a CAGR of 52.17 %, during the forecast period (2020 - 2025).",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/global-enterprise-ai-market-2020-2025-pin-point-analysis-and-future-growth-strategies-2020-03-12",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-11T23:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Global Enterprise AI Market 2020-2025 Pin-point Analysis and Future Growth Strategies",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-03-12-machine-learning-as-a-service-market-overview-and-scope-industry-outlook-size-forecast-2020-2025.md",
-      "title": "Machine Learning as a Service Market -overview and scope, Industry Outlook, Size & Forecast 2020-2025",
-      "excerpt": "New York, March 12, 2020: Machine learning as a service Market incorporates a comprehensive vary of services and solutions and techniques reticular closely to computing (AI), that performs applied mathematics analysis of input file to know its current or future relationship and performance.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market--overview-and-scope-industry-outlook-size-forecast-2020-2025-2020-03-12",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-11T23:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Machine Learning as a Service Market -overview and scope, Industry Outlook, Size & Forecast 2020-2025",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-12-deep-learning-market-2020-2023-key-findings-business-trends-regional-study-emerging-technologies-global-segments-and-future-prospects.md",
-      "title": "Deep Learning Market 2020-2023: Key Findings, Business Trends, Regional Study, Emerging Technologies, Global Segments and Future Prospects",
-      "excerpt": "Deep Learning Market Highlights: The prominence of cloud-based services is predicted to play a key role in the expansion of the deep learning market 2020. The information & communication technology industry reports are created by Market Research Future,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-2020-2023-key-findings-business-trends-regional-study-emerging-technologies-global-segments-and-future-prospects-2020-03-19",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-11T23:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Deep Learning Market 2020-2023: Key Findings, Business Trends, Regional Study, Emerging Technologies, Global Segments and Future Prospects",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-12-create-review-and-deploy-automated-machine-learning-models-with-azure-machine-learning.md",
-      "title": "Create, review, and deploy automated machine learning models with Azure Machine Learning",
-      "excerpt": "In this article, you learn how to create, explore, and deploy automated machine learning models without a single line of code in Azure Machine Learning's studio interface. Automated machine learning is a process in which the best machine learning algorithm to use for your specific data is selected for you. This process enables you to generate ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://docs.microsoft.com/en-us/azure/machine-learning/how-to-use-automated-ml-for-ml-models",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-11T22:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png",
-          "width": 400,
-          "height": 400,
-          "title": "Create, review, and deploy automated machine learning models with Azure Machine Learning",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-12-global-trust-asset-management-llc-acquires-shares-of-7600-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt.md",
-      "title": "Global Trust Asset Management LLC Acquires Shares of 7,600 First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT)",
-      "excerpt": "Global Trust Asset Management LLC acquired a new stake in First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) during the 4th quarter, according to its most recent filing with the SEC. The institutional investor acquired 7,600 shares of the company’s stock, valued at approximately $261,000. Global Trust Asset Management ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://theenterpriseleader.com/2020/03/11/global-trust-asset-management-llc-acquires-shares-of-7600-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt.html",
-      "ampWebUrl": "https://theenterpriseleader.com/2020/03/11/global-trust-asset-management-llc-acquires-shares-of-7600-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt.html/amp",
-      "cdnAmpWebUrl": "https://theenterpriseleader-com.cdn.ampproject.org/c/s/theenterpriseleader.com/2020/03/11/global-trust-asset-management-llc-acquires-shares-of-7600-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt.html/amp",
-      "publishedDateTime": "2020-03-11T17:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theenterpriseleader.com",
-        "domain": "theenterpriseleader.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
-          "width": 450,
-          "height": 323,
-          "title": "Global Trust Asset Management LLC Acquires Shares of 7,600 First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT)",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

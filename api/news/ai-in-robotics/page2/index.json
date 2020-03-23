@@ -2,6 +2,51 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-03-10-agriculture-cameras-tire-changes-and-drive-throughs-here-are-our-robotics-pitch-off-winners.md",
+      "title": "Agriculture, cameras, tire changes and drive-throughs: Here are our robotics pitch-off winners",
+      "excerpt": "We tried something new at last week’s TC Sessions: Robotics + AI. For the first time ever, we incorporated a pitch-off into the event. With a site as embedded in the startup world, it made sense to find a way to give some stage time to some early-stage startups. On Monday night, I was joined by Aaron Jacobson (NEA), Jennifer Roberts (Grit ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/03/10/agriculture-cameras-tire-changes-and-drive-throughs-here-are-our-robotics-pitch-off-winners/",
+      "ampWebUrl": "https://techcrunch.com/2020/03/10/agriculture-cameras-tire-changes-and-drive-throughs-here-are-our-robotics-pitch-off-winners/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/03/10/agriculture-cameras-tire-changes-and-drive-throughs-here-are-our-robotics-pitch-off-winners/amp/",
+      "publishedDateTime": "2020-03-10T10:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/03/49615823798_a99646b439_c.jpg",
+          "width": 799,
+          "height": 533,
+          "title": "Agriculture, cameras, tire changes and drive-throughs: Here are our robotics pitch-off winners",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-10-artificial-intelligence-drives-new-industrial-inspection-drones.md",
       "title": "Artificial Intelligence Drives New Industrial Inspection Drones",
       "excerpt": "Jameson Huckaba of Digital Aerolus explains the technology behind and capabilities of the company's Aertos industrial inspection drones during the Tech Crunch Robotics+AI 2020 event.",
@@ -343,35 +388,6 @@
       ]
     },
     {
-      "path": "_news/2020-03-04-its-like-you-have-a-hand-again-an-ultra-precise-mind-controlled-prosthetic.md",
-      "title": "'It's like you have a hand again': An ultra-precise mind-controlled prosthetic",
-      "excerpt": "In a major advance in mind-controlled prosthetics for amputees ... finger-level control of a robotic hand. To achieve this, the researchers developed a way to tame temperamental nerve endings ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medicalxpress.com/news/2020-03-ultra-precise-mind-controlled-prosthetic.html",
-      "ampWebUrl": "https://medicalxpress.com/news/2020-03-ultra-precise-mind-controlled-prosthetic.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-03-ultra-precise-mind-controlled-prosthetic.amp",
-      "publishedDateTime": "2020-03-04T11:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-03-04-robot-uses-artificial-intelligence-and-imaging-to-draw-blood.md",
       "title": "Robot uses artificial intelligence and imaging to draw blood",
       "excerpt": "Rutgers engineers have created a tabletop device that combines a robot, artificial intelligence and near-infrared and ultrasound imaging to draw blood or insert catheters to deliver fluids and drugs. Their most recent research results, published in the journal Nature Machine Intelligence, suggest that autonomous systems like the image-guided ...",
@@ -399,6 +415,43 @@
           "attribution": null
         }
       ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-04-its-like-you-have-a-hand-again-an-ultra-precise-mind-controlled-prosthetic.md",
+      "title": "'It's like you have a hand again': An ultra-precise mind-controlled prosthetic",
+      "excerpt": "finger-level control of a robotic hand. In a major advance in mind-controlled prosthetics for amputees, University of Michigan researchers have tapped faint, latent signals from arm nerves and ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.sciencedaily.com/releases/2020/03/200304141641.htm",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-03T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
@@ -1135,43 +1188,6 @@
           "width": 950,
           "height": 713,
           "title": "Applications of Photodetectors in Robotics",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-24-dubai-set-to-witness-professional-interaction-with-humanoid-robot-sophia.md",
-      "title": "Dubai set to witness professional interaction with humanoid robot Sophia",
-      "excerpt": "“As a robot myself, I believe that data is the key to making smart decisions. With enough data, AI can be used to evaluate potential risk factors and prevent problems before they start.” The UAE is the only country in the world to have a Ministry of Artificial Intelligence. When she was asked to suggest as to what should it do to be a ...",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zawya.com/mena/en/press-releases/story/Dubai_set_to_witness_professional_interaction_with_humanoid_robot_Sophia-ZAWYA20200224083733/",
-      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/ZAWYA20200224083733/",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200224083733/",
-      "publishedDateTime": "2020-02-24T05:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.zawya.com/resources/img/zawya-logo-en-social.png",
-          "width": 1200,
-          "height": 878,
-          "title": "Dubai set to witness professional interaction with humanoid robot Sophia",
           "attribution": null
         }
       ],

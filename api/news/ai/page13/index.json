@@ -2,6 +2,274 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-03-11-ai-and-ethics-time-to-talk-about-responsibility.md",
+      "title": "AI and ethics: Time to talk about responsibility",
+      "excerpt": "That way both parties work together in contributing to better ethics and towards a better future for humans with the help of AI tools. Utopia Analytics is holding a panel debate moderated by The Drum at the Finnish Ambassador’s Residence in London on March 18th from 2.30. Details of the panellists taking part and too book a place lease follow ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.thedrum.com/industryinsights/2020/03/11/ai-and-ethics-time-talk-about-responsibility",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-11T05:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Drum",
+        "domain": "thedrum.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media-assets-04.thedrum.com/cache/images/thedrum-prod/s3-news-tmp-394692-20200304_ethicalai-part1-cover-photo--default--1280.jpg",
+          "width": 1280,
+          "height": 723,
+          "title": "AI and ethics: Time to talk about responsibility",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-ai-startup-accuses-facebook-of-stealing-code-designed-to-speed-up-machine-learning-models-on-ordinary-cpus.md",
+      "title": "AI startup accuses Facebook of stealing code designed to speed up machine learning models on ordinary CPUs",
+      "excerpt": "Neural Magic, founded in 2017 by Nir Shavit and Alex Matveev, describes itself as a \"no-hardware AI\" company. Instead of relying on GPU chips that are able to crunch through matrix maths operations to run machine-learning models quickly, the Boston-based upstart employs nifty software tricks to achieve similar speeds on CPUs. Court documents ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theregister.co.uk/2020/03/11/facebook_ai_chips/",
+      "ampWebUrl": "https://www.theregister.co.uk/AMP/2020/03/11/facebook_ai_chips/",
+      "cdnAmpWebUrl": "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/03/11/facebook_ai_chips/",
+      "publishedDateTime": "2020-03-11T03:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Register",
+        "domain": "theregister.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2019/07/26/shutterstock_processor_design.jpg",
+          "width": 1000,
+          "height": 680,
+          "title": "AI startup accuses Facebook of stealing code designed to speed up machine learning models on ordinary CPUs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-nvidias-rapids-python-analytics-on-the-gpu.md",
+      "title": "Nvidia’s Rapids: Python analytics on the GPU",
+      "excerpt": "This is one of the reasons practical enterprise use of AI today is dominated by the largest enterprises, which can throw enormous resources at the problem. Rapids is an umbrella for several open source projects, incubated by Nvidia, that puts the entire processing pipeline on the GPU, eliminating the I/O bound data transfers, while also ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.infoworld.com/article/3532009/nvidias-rapids-python-analytics-on-the-gpu.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-11T03:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/11/stream_river-bed_water-flow_rapids_rush-100780362-large.3x2.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Nvidia’s Rapids: Python analytics on the GPU",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-global-computer-vision-in-healthcare-market-latest-innovations-drivers-restraints-challenges-and-industry-key-events-2020-2025.md",
+      "title": "Global Computer Vision in Healthcare Market: Latest Innovations, Drivers, Restraints, Challenges and Industry Key Events 2020 – 2025",
+      "excerpt": "“Computer Vision in Healthcare Market 2020-2025” Summary: – Wiseguyreports.Com Adds \"Computer Vision in Healthcare – Market Demand, Growth,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/03/ab15524368/global-computer-vision-in-healthcare-market-latest-innovations-drivers-restraints-challenges-and-",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15524368",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15524368",
+      "publishedDateTime": "2020-03-11T02:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.abnewswire.com/uploads/1583916027.jpeg",
+          "width": 500,
+          "height": 598,
+          "title": "Global Computer Vision in Healthcare Market: Latest Innovations, Drivers, Restraints, Challenges and Industry Key Events 2020 – 2025",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-ibm-improves-the-way-watson-products-analyze-language.md",
+      "title": "IBM Improves the Way Watson Products Analyze Language",
+      "excerpt": "The company is enhancing several of its Watson artificial-intelligence products with technology designed to help businesses better process and analyze human language, whether it comes from text or voice.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/ibm-improves-the-way-watson-products-analyze-language-11583880567",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-11T02:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://si.wsj.net/public/resources/images/B3-GH238_robtho_SOC_20200310183834.jpg",
+          "width": 900,
+          "height": 471,
+          "title": "IBM Improves the Way Watson Products Analyze Language",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-the-ethical-use-of-ai-on-low-wage-workers.md",
+      "title": "The ethical use of AI on low-wage workers",
+      "excerpt": "Also read: Should there be a code of ethics in technology? Hourly workers such as warehouse workers may be adversely impacted by AI-enabled workforce management systems. Lower-wage workers stand to lose the most with the rise of automation while white-collar workers are generally unaffected, the report noted. It cited a McKinsey & Co. study ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.workforce.com/news/artificial-intelligence-ethics-for-managing-low-wage-workers",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-11T01:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Workforce",
+        "domain": "workforce.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-artificial-intelligence-ibms-watson-now-understands-idioms-after-sentiment-update.md",
+      "title": "Artificial intelligence: IBM's Watson now understands idioms after 'sentiment' update",
+      "excerpt": "Artificial intelligence researchers at IBM have introduced a major upgrade to the famed Watson computer, allowing it to understand idioms and colloquialisms for the first time. IBM says the update makes it the first commercial AI system capable of identifying, understanding and analysing some of the most challenging aspects of the English language.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.independent.co.uk/life-style/gadgets-and-tech/news/artificial-intelligence-ibm-watson-ai-language-idiom-a9391166.html",
+      "ampWebUrl": "https://www.independent.co.uk/life-style/gadgets-and-tech/news/artificial-intelligence-ibm-watson-ai-language-idiom-a9391166.html",
+      "cdnAmpWebUrl": "https://www-independent-co-uk.cdn.ampproject.org/c/s/www.independent.co.uk/life-style/gadgets-and-tech/news/artificial-intelligence-ibm-watson-ai-language-idiom-a9391166.html",
+      "publishedDateTime": "2020-03-11T00:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Independent",
+        "domain": "independent.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/03/10/16/artificial-intelligence-ibm-watson-ai.jpg",
+          "width": 928,
+          "height": 696,
+          "title": "Artificial intelligence: IBM's Watson now understands idioms after 'sentiment' update",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-11-three-applications-deep-learning-and-computer-vision-can-improve.md",
       "title": "Three applications deep learning and computer vision can improve",
       "excerpt": "You’ve probably heard about deep learning and computer vision and you’re likely aware that they have something to do with artificial intelligence. If you’re like most people, you’re not quite sure what that means. Are there practical uses for deep ...",
@@ -932,272 +1200,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-neural-networks-are-now-being-used-to-track-exotic-particles-at-cern.md",
-      "title": "Neural networks are now being used to track exotic particles at CERN",
-      "excerpt": "Research within the domain of physics has profited from the rise of artificial neural networks and deep learning. In the past, we've seen them being applied to study dark matter and massive galaxies. Continuing this pattern, we now have artificial neural networks being used in the study of exotic particles. At the Compact Muon Solenoid (CMS ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.neowin.net/news/neural-networks-are-now-being-used-to-track-exotic-particles-at-cern",
-      "ampWebUrl": "https://www.neowin.net/amp/neural-networks-are-now-being-used-to-track-exotic-particles-at-cern/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/neural-networks-are-now-being-used-to-track-exotic-particles-at-cern/",
-      "publishedDateTime": "2020-03-10T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2017/05/1494180366_lhc_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": "Neural networks are now being used to track exotic particles at CERN",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-genomic-computation-platform-launches-on-microsoft-azure.md",
-      "title": "Genomic computation platform launches on Microsoft Azure",
-      "excerpt": "The application is available on Amazon and Google Cloud, and it will now be made available for purchase on the Microsoft Azure platform, an online marketplace created by Microsoft for buying and selling of software services. EPAM Cloud Pipeline will be open-source, and will utilize machine learning capabilities, allowing scientists to build and ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.outsourcing-pharma.com/Article/2020/03/10/EPAM-launches-its-service-on-Microsoft-Azure",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-10T09:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Outsourcing-pharma",
-        "domain": "outsourcing-pharma.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/pharmaceutical-science/outsourcing-pharma.com/headlines/clinical-development/epam-launches-its-service-on-microsoft-azure/10792245-1-eng-GB/EPAM-launches-its-service-on-Microsoft-Azure.jpg",
-          "width": 748,
-          "height": 467,
-          "title": "Genomic computation platform launches on Microsoft Azure",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-superwiseai-secures-45m-in-seed-funding-to-accelerate-the-adoption-of-its-ai-assurance-platform.md",
-      "title": "Superwise.ai Secures $4.5M in Seed Funding to Accelerate the Adoption of Its AI Assurance Platform",
-      "excerpt": "Google AI Platform, Azure Machine Learning, Kubeflow, H20.ai and custom-built platforms. According to Gartner’s report, Help the Board Deal With Automated Decisions at Digital Speed (G00433877), “In digital businesses, many operational decisions are ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businesswire.com/news/home/20200310005701/en/Superwise.ai-Secures-4.5M-Seed-Funding-Accelerate-Adoption",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-10T09:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-insurance-ai-startup-synthesized-raises-28m-from-iq-capital-and-mundi-ventures.md",
-      "title": "Insurance AI startup Synthesized raises $2.8M from IQ Capital and Mundi Ventures",
-      "excerpt": "Like many industries, it would like to automate much of this, but it’s just not that simple. Synthesized is a U.K. startup that tries to reduce friction on preparing all the data that’s needed, to enable insurers to share data safely, complying with regulations. The more that happens, the more innovation can happen, such as insuring for a ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/03/10/insurance-ai-startup-synthesized-raises-2-8m-from-iq-capital-and-mundi-ventures/",
-      "ampWebUrl": "https://techcrunch.com/2020/03/10/insurance-ai-startup-synthesized-raises-2-8m-from-iq-capital-and-mundi-ventures/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/03/10/insurance-ai-startup-synthesized-raises-2-8m-from-iq-capital-and-mundi-ventures/amp/",
-      "publishedDateTime": "2020-03-10T09:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/03/Denis-Nicolai.jpg?w=1024",
-          "width": 1024,
-          "height": 642,
-          "title": "Insurance AI startup Synthesized raises $2.8M from IQ Capital and Mundi Ventures",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-twilio-rival-messagebird-launches-inbox-an-ai-powered-contact-center.md",
-      "title": "Twilio rival MessageBird launches Inbox, an AI-powered contact center",
-      "excerpt": "It also leans on AI and automation to anticipate what a customer might be looking for, detect sentiment and intent, translate between languages, and more. Inbox will be available for free to companies with up to five customer service agents and 500 customer contact threads — above that, it will offer customized pricing depending on the number ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/10/twilio-rival-messagebird-launches-inbox-an-ai-powered-contact-center/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/10/twilio-rival-messagebird-launches-inbox-an-ai-powered-contact-center/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/10/twilio-rival-messagebird-launches-inbox-an-ai-powered-contact-center/amp/",
-      "publishedDateTime": "2020-03-10T09:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/Inbox-by-MessageBird_Press-Voice.png?fit=1866%2C925&strip=all",
-          "width": 1866,
-          "height": 925,
-          "title": "Twilio rival MessageBird launches Inbox, an AI-powered contact center",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-training-robots-revolutionize-therapy.md",
-      "title": "Training robots revolutionize therapy",
-      "excerpt": "They developed the first prototype in 2007 at the Artificial Intelligence Laboratory at the University of Zurich ... The decisive factor is the training aspect, which was traditionally relegated to a relatively minor role in rehabilitation therapy. If you sit down on the Robotic Personal Trainer, you can expect to be challenged.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.designworldonline.com/training-robots-revolutionize-therapy/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-10T08:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design World Online",
-        "domain": "designworldonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.designworldonline.com/wp-content/uploads/EC45_flat_12W_450-837146ce.jpg",
-          "width": 800,
-          "height": 517,
-          "title": "Training robots revolutionize therapy",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-automated-material-handling-equipment-market-insights-potential-business-strategies-mergers-and-acquisitions-revenue-analysis.md",
-      "title": "Automated Material Handling Equipment Market Insights, Potential Business Strategies, Mergers and Acquisitions, Revenue Analysis",
-      "excerpt": "New York March 10 2020 The scope of the report includes a detailed study of Automated Material Handling Equipment Market with the reasons given for variations in the growth of the industry in certain regions The Automated Material Handling Equipment",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.openpr.com/news/1960887/automated-material-handling-equipment-market-insights",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-10T08:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

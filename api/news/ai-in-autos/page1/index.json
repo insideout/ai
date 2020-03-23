@@ -137,6 +137,43 @@
       ]
     },
     {
+      "path": "_news/2020-03-20-anthony-levandowski-admits-stealing-googles-self-driving-car-secrets.md",
+      "title": "Anthony Levandowski admits stealing Google's self-driving car secrets",
+      "excerpt": "A former Google engineer has admitted stealing trade secrets relating to the company's self-driving car work. Anthony Levandowski was accused of downloading thousands of proprietary files from Google in 2015 prior to leaving the company. One of the files downloaded by Levandowski to his personal laptop was called 'Chauffeur TL weekly updates ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.iottechnews.com/news/2020/mar/20/anthony-levandowski-stealing-google-self-driving-car-secrets/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-20T10:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "iottechnews.com",
+        "domain": "iottechnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.iottechnews.com/media/img/news/anthony_levandowski_google_uber_trade_secrets_self_driving_cars_autonomous_iot.png.600x600_q96.png",
+          "width": 600,
+          "height": 401,
+          "title": "Anthony Levandowski admits stealing Google's self-driving car secrets",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-20-waymo-suspends-all-self-driving-services-in-light-of-coronavirus-pandemic.md",
       "title": "Waymo suspends all self-driving services in light of coronavirus pandemic",
       "excerpt": "Waymo has extended the partial suspension of its autonomous vehicle service pilots to include fully driverless vehicle testing, the company confirmed on Friday. While Alphabet-owned Waymo had already stopped operation of the autonomous driving vehicles in its fleet that have safety drivers on board, in the interest of minimizing the potential ...",
@@ -1145,35 +1182,6 @@
           "attribution": null
         }
       ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-12-artificial-intelligence-in-medical-imaging.md",
-      "title": "Artificial Intelligence in Medical Imaging",
-      "excerpt": "Worldwide Market Reports adds Artificial Intelligence in Medical Imaging Market 2020 Global Analysis Growth Trends and Opportunities Research Report Forecasting to 2024 reports to its database This report provides in depth study of Artificial Intelligence in Medical Imaging Market using",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.openpr.com/news/1965015/artificial-intelligence-in-medical-imaging-market-report-2020",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-12T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"

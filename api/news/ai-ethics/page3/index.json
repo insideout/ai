@@ -2,6 +2,51 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-02-06-ieee-calls-for-standards-to-combat-climate-change-and-protect-kids-in-the-age-of-ai.md",
+      "title": "IEEE calls for standards to combat climate change and protect kids in the age of AI",
+      "excerpt": "The white paper encapsulates change underway at the IEEE in line with AI ethics principles released in spring 2019 after years of work, according to IEEE Global Initiative on Ethics of Autonomous & Intelligent Systems John Havens. It also follows last fall’s declaration by IEEE leadership to recognize “the global scale of the human-made and ...",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/06/ieee-calls-for-standards-to-combat-climate-change-and-protect-kids-in-the-age-of-ai/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/06/ieee-calls-for-standards-to-combat-climate-change-and-protect-kids-in-the-age-of-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/06/ieee-calls-for-standards-to-combat-climate-change-and-protect-kids-in-the-age-of-ai/amp/",
+      "publishedDateTime": "2020-02-06T07:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/05/shutterstock_751715872.jpg?fit=1200%2C850&strip=all",
+          "width": 1200,
+          "height": 850,
+          "title": "IEEE calls for standards to combat climate change and protect kids in the age of AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-02-06-is-clearview-ais-facial-recognition-legal-we-need-to-figure-it-out-soon.md",
       "title": "Is Clearview AI’s facial recognition legal? We need to figure it out soon",
       "excerpt": "“What’s required to properly govern Clearview AI and so much else is a thoroughgoing reexamination of what private and public mean that shifts the key debates in law, ethics, design, and even everyday expectations. In short, it’s long overdue to acknowledge that people can have legitimate privacy interests in publicly shared information.",
@@ -1221,43 +1266,6 @@
           "width": 756,
           "height": 567,
           "title": "Samsung's Neon AI has an ethics problem, and it's as old as sci-fi canon",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-01-09-ai-for-ai-evaluating-the-opportunity-for-embedded-ai-in-data-productivity-tools.md",
-      "title": "AI for AI - evaluating the opportunity for embedded AI in data productivity tools",
-      "excerpt": "This is the only comment that mentions ethics; otherwise, it has nothing to do with the topic. I just wanted to point out fifty-nine out of sixty prognosticators overlooked the one thing is going to be red-hot in 2020. Yaffa Cohen-Ifrah, CMO and Head of Corporate Communications, Sapiens: AI enables insurers to better utilize the troves of data ...",
-      "heat": 64,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://diginomica.com/ai-ai-evaluating-opportunity-embedded-ai-data-productivity-tools",
-      "ampWebUrl": "https://diginomica.com/ai-ai-evaluating-opportunity-embedded-ai-data-productivity-tools?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ai-ai-evaluating-opportunity-embedded-ai-data-productivity-tools?amp",
-      "publishedDateTime": "2020-01-09T12:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2014-11/magnifying-glass.jpg",
-          "width": 1694,
-          "height": 1122,
-          "title": "AI for AI - evaluating the opportunity for embedded AI in data productivity tools",
           "attribution": null
         }
       ],

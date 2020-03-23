@@ -2,6 +2,237 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-03-14-nypd-says-it-plans-to-use-facial-recognition-technology.md",
+      "title": "NYPD says it plans to use facial recognition technology",
+      "excerpt": "The NYPD on Friday said it plans to use emerging facial recognition technology in limited circumstances for “legitimate law enforcement purposes.” In announcing the policy Friday, NYPD Commissioner Dermot Shea outlined what he called six limited circumstances where the digital programs would be used to help develop leads to solve crimes.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.newsday.com/news/new-york/nypd-facial-recognition-technology-1.43047575",
+      "ampWebUrl": "https://www.newsday.com/amp/news/new-york/nypd-facial-recognition-technology-1.43047575",
+      "cdnAmpWebUrl": "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/news/new-york/nypd-facial-recognition-technology-1.43047575",
+      "publishedDateTime": "2020-03-13T17:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsday",
+        "domain": "newsday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.newsday.com/polopoly_fs/1.43047839.1584146943!/httpImage/image.jpg_gen/derivatives/landscape_1280/image.jpg",
+          "width": 1280,
+          "height": 719,
+          "title": "NYPD says it plans to use facial recognition technology",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-14-ai-can-detect-corona-virus-from-ct-scans-in-just-20-seconds.md",
+      "title": "AI can detect Corona virus from CT scans in just 20 seconds",
+      "excerpt": "Chinese tech company Alibaba, says its AI can detect Corona virus from CT scans in just 20 seconds. It takes doctors around 20 mins to do the same. The model has an accuracy of around 96%. The diagnosis algorithm was developed by Alibaba's research institute Damo Academy. Researchers at the academy said they had trained the AI model with sample ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.linkedin.com/pulse/ai-can-detect-corona-virus-from-ct-scans-just-20-seconds-alan-brown/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-13T17:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQGrEHprOlem7Q/article-cover_image-shrink_720_1280/0?e=1590624000&v=beta&t=VCPInLfR_pD5-rvXfrBh0UFfdTtHwNzswxK4BNKriAA",
+          "width": 1080,
+          "height": 720,
+          "title": "AI can detect Corona virus from CT scans in just 20 seconds",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-radnet-to-acquire-deephealth-for-machine-learning-radiology-tech.md",
+      "title": "RadNet To Acquire DeepHealth For Machine Learning Radiology Tech",
+      "excerpt": "DeepHealth has developed machine learning/AI-based imaging analysis technologies ... Major vendors that provide competitive services include: Behold.ai Technologies RadNet disclosed the acquisition price and terms as 1.0 million shares of common stock upfront and up to 1.5 million shares as future contingent consideration based on the ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://seekingalpha.com/article/4331947-radnet-to-acquire-deephealth-for-machine-learning-radiology-tech",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-13T16:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-the-aclu-is-suing-government-agencies-over-dystopian-facial-recognition-programs.md",
+      "title": "The ACLU is suing government agencies over 'dystopian' facial recognition programs",
+      "excerpt": "Thursday, the American Civil Liberties Union sued multiple government agencies for information on their facial recognition programs and how they are being used at airports and by Border Patrol. Facial recognition has expanded rapidly over the past few years, but a lack of clarity around the technology’s rollout has led to increasing concerns ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.mic.com/p/the-aclu-is-suing-government-agencies-over-dystopian-facial-recognition-programs-22621097",
+      "ampWebUrl": "https://www.mic.com/p/the-aclu-is-suing-government-agencies-over-dystopian-facial-recognition-programs-22621097/amp",
+      "cdnAmpWebUrl": "https://www-mic-com.cdn.ampproject.org/c/s/www.mic.com/p/the-aclu-is-suing-government-agencies-over-dystopian-facial-recognition-programs-22621097/amp",
+      "publishedDateTime": "2020-03-13T15:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mic",
+        "domain": "mic.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://imgix.bustle.com/uploads/getty/2020/3/13/f99cf8db-dd80-4ba8-9281-761c39585a48-getty-1087948100.jpg?w=1200&h=630&q=70&fit=crop&crop=faces&fm=jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "The ACLU is suing government agencies over 'dystopian' facial recognition programs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-the-evolution-of-artificial-intelligence-and-future-of-national-security.md",
+      "title": "The Evolution of Artificial Intelligence and Future of National Security",
+      "excerpt": "Artificial intelligence is all the rage these days. In the popular media, regular cyber systems seem almost passe, as writers focus on AI and conjure up images of everything from real-life Terminator robots to more benign companions. In intelligence circles, China’s uses of closed-circuit television, facial recognition technology, and other ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://nationalinterest.org/feature/evolution-artificial-intelligence-and-future-national-security-133032",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-13T13:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The National Interest",
+        "domain": "nationalinterest.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://nationalinterest.org/sites/default/files/main_images/2019-12-23T111943Z_1_LYNXMPEFBM0MR_RTROPTP_4_CHINA-INTERNET.JPG.jpg",
+          "width": 1386,
+          "height": 924,
+          "title": "The Evolution of Artificial Intelligence and Future of National Security",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-mits-deep-learning-found-an-antibiotic-for-a-germ-nothing-else-could-kill.md",
+      "title": "MIT’s deep learning found an antibiotic for a germ nothing else could kill",
+      "excerpt": "Scientists at the Massachusetts Institute of Technology and Harvard last month described in the scholarly journal Cell how they used a deep learning neural network to identify a molecular compound that's different from most antibiotics. They showed that when the compound is injected in mice, it fights bacteria that no existing drug can eliminate.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/mits-deep-learning-found-an-antibiotic-for-a-germ-nothing-else-could-kill/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/mits-deep-learning-found-an-antibiotic-for-a-germ-nothing-else-could-kill/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/mits-deep-learning-found-an-antibiotic-for-a-germ-nothing-else-could-kill/",
+      "publishedDateTime": "2020-03-13T13:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/03/13/b98e832c-157c-4938-8c1e-6b692877d498/mit-chemprop-building-representations.png",
+          "width": 1766,
+          "height": 1207,
+          "title": "MIT’s deep learning found an antibiotic for a germ nothing else could kill",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-13-biometrics-market-research-briefs-digital-id-revenues-to-leap-past-30b-by-2024.md",
       "title": "Biometrics market research briefs: digital ID revenues to leap past $30B by 2024",
       "excerpt": "The recent investment in Valencell biometric sensors for wearables and Facebook’s acquisition of Sanzaru Games are among recent ... These challenges now are being overcome by leveraging advances in AI and connectivity.” The research notes the increasing prevalence of CCTV systems for video surveillance for behavior or anomaly analysis ...",
@@ -941,229 +1172,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-13-coronavirus-how-artificial-intelligence-data-science-and-technology-is-used-to-fight-the-pandemic.md",
-      "title": "Coronavirus: How Artificial Intelligence, Data Science And Technology Is Used To Fight The Pandemic",
-      "excerpt": "swept from China to the rest of the world, emerging technologies such as artificial intelligence (AI), data science, and other technologies were thrust into action to help humans manage the crisis. Here are 10 ways technology is being used to manage and fight COVID-19.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/03/13/coronavirus-how-artificial-intelligence-data-science-and-technology-is-used-to-fight-the-pandemic/",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/03/13/coronavirus-how-artificial-intelligence-data-science-and-technology-is-used-to-fight-the-pandemic/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/03/13/coronavirus-how-artificial-intelligence-data-science-and-technology-is-used-to-fight-the-pandemic/amp/",
-      "publishedDateTime": "2020-03-12T23:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e6b201b7d6f2600068f59ea%2F0x0.jpg",
-          "width": 1200,
-          "height": 586,
-          "title": "Coronavirus: How Artificial Intelligence, Data Science And Technology Is Used To Fight The Pandemic",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-03-13-using-machine-learning-to-tackle-arms-proliferation-in-russian-trade-data.md",
-      "title": "Using Machine Learning to Tackle Arms Proliferation In Russian Trade Data",
-      "excerpt": "We eventually settled on EMR (Spark & Livy), in conjunction with SageMaker, as it was perfect for our use-case. We picked these two for their ease-of-use in a collaborative work environment and ability to use multiple clusters to process our large dataset. The set-up process was substantial and required some of what would be called a sysadmin ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://towardsdatascience.com/using-machine-learning-to-tackle-arms-proliferation-in-russian-trade-data-e457f44002c0",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-12T19:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "towardsdatascience.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/1*ji9YlyGqz6Y_1dCss28fnA.jpeg",
-          "width": 1200,
-          "height": 800,
-          "title": "Using Machine Learning to Tackle Arms Proliferation In Russian Trade Data",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-13-elon-musks-best-investments.md",
-      "title": "Elon Musk's Best Investments",
-      "excerpt": "A list of some of Musk's best investments includes PayPal Holdings, Inc. (PYPL), SpaceX, DeepMind (GOOGL), Tesla Inc. (TSLA), and The Boring Company. Musk is the CEO and co-founder of Tesla and ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.investopedia.com/articles/investing/031316/elon-musks-5-best-investments-tsla-pypl.asp",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-12T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Investopedia",
-        "domain": "investopedia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.investopedia.com/thmb/116HqdfR7rOQoAhctt4rjgaZYqE=/680x440/filters:fill(auto,1)/ap_507406182676-5bfc3829c9e77c00587a7cc8.jpg",
-          "width": 680,
-          "height": 440,
-          "title": "Elon Musk's Best Investments",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-13-emergence-of-visual-center-periphery-spatial-organization-in-deep-convolutional-neural-networks.md",
-      "title": "Emergence of Visual Center-Periphery Spatial Organization in Deep Convolutional Neural Networks",
-      "excerpt": "Recently, studies have uncovered emergence of human interpretable concepts within DCNNs layers trained to identify visual objects and scenes. Here, we asked whether an artificial neural network (with convolutional structure) trained for visual categorization would demonstrate spatial correspondences with human brain regions showing central ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nature.com/articles/s41598-020-61409-0",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-12T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-61409-0/MediaObjects/41598_2020_61409_Fig1_HTML.png",
-          "width": 685,
-          "height": 346,
-          "title": "Emergence of Visual Center-Periphery Spatial Organization in Deep Convolutional Neural Networks",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-13-ibms-prototype-automl-could-vastly-improve-ai-responses-to-pandemics.md",
-      "title": "IBM's Prototype AutoML Could Vastly Improve AI Responses To Pandemics",
-      "excerpt": "AutoML is one of the more exciting things worked on in IBM’s labs, and it is on the path to a future of AIs that can create AIs without the need for Data Scientists. Given the threats we face as a race, this capability can’t come soon enough.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.datamation.com/artificial-intelligence/ibm-prototype-automl-could-vastly-improve-ai-responses-to-pandemics.html",
-      "ampWebUrl": "https://www.datamation.com/amp/artificial-intelligence/ibm-prototype-automl-could-vastly-improve-ai-responses-to-pandemics.html",
-      "cdnAmpWebUrl": "https://www-datamation-com.cdn.ampproject.org/c/s/www.datamation.com/amp/artificial-intelligence/ibm-prototype-automl-could-vastly-improve-ai-responses-to-pandemics.html",
-      "publishedDateTime": "2020-03-12T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Datamation",
-        "domain": "datamation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-12-ibm-watson-health-to-tap-ebscos-dynamed-libraries-for-a-combined-ai-drug-information-suite.md",
-      "title": "IBM Watson Health to tap EBSCO's DynaMed libraries for a combined AI drug information suite",
-      "excerpt": "RELATED: IBM Watson Health's new manager talks about returning to basics, doubling down IBM’s Micromedex and Watson programs employ artificial intelligence and natural language processing with the goal of providing users a conversational approach for searching drug information—similar to Big Blue’s previous approaches in oncology and ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fiercebiotech.com/medtech/ibm-watson-health-to-tap-ebsco-s-dynamed-libraries-for-a-combined-ai-drug-information-suite",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-12T13:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FierceBiotech",
-        "domain": "fiercebiotech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://qtxasset.com/fiercebiotech/1584043544/IBM_Watson.jpg/IBM_Watson.jpg?O_jG5rsopS3DHTncRsKFiffFsacRkMDY",
-          "width": 1200,
-          "height": 803,
-          "title": "IBM Watson Health to tap EBSCO's DynaMed libraries for a combined AI drug information suite",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

@@ -2,6 +2,443 @@
   "page": 60,
   "value": [
     {
+      "path": "_news/2020-01-15-new-research-shows-what-ai-can-teach-us-about-the-human-brain.md",
+      "title": "New research shows what AI can teach us about the human brain",
+      "excerpt": "Finding the best ways to do good. Google’s DeepMind research group has a lot of flashy AI accomplishments to its name. Among the biggest are AlphaGo, its game-playing algorithm that stunned many ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.vox.com/future-perfect/2020/1/15/21067228/ai-brain-protein-folding-google-deepmind",
+      "ampWebUrl": "https://www.vox.com/platform/amp/future-perfect/2020/1/15/21067228/ai-brain-protein-folding-google-deepmind",
+      "cdnAmpWebUrl": "https://www-vox-com.cdn.ampproject.org/c/s/www.vox.com/platform/amp/future-perfect/2020/1/15/21067228/ai-brain-protein-folding-google-deepmind",
+      "publishedDateTime": "2020-01-15T12:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Vox",
+        "domain": "vox.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/vox.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/fwYvALR-b2obQB-jzin3iQ6R680=/0x0:5100x5100/1400x1050/filters:focal(2142x2142:2958x2958):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66109355/614083772.jpg.0.jpg",
+          "width": 1400,
+          "height": 1050,
+          "title": "New research shows what AI can teach us about the human brain",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-15-standard-voices-in-amazon-polly-now-available-in-middle-east-and-asia-pacific-regions.md",
+      "title": "Standard Voices in Amazon Polly now available in Middle East and Asia Pacific Regions",
+      "excerpt": "Amazon Polly turns text into lifelike speech, which allows you to create voice-enabled applications. AWS is excited to announce the general availability of all standard voices in the Middle East (Bahrain) and Asia Pacific (Hong Kong) Regions. Customers in these Regions can now synthesize over 60 standard",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/standard-voices-in-amazon-polly-now-available-in-middle-east-and-asia-pacific-regions/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-15T12:32:30-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/24/polly-social.jpg",
+          "width": 1024,
+          "height": 512,
+          "title": "Standard Voices in Amazon Polly now available in Middle East and Asia Pacific Regions",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-15-facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations.md",
+      "title": "Facebook Invented a New Language for Machines to Solve Complex Math Equations",
+      "excerpt": "Or at least, they have trouble understanding how humanity writes math equations. Facebook’s AI research team, however, claims to have developed a new approach to turn complex math problems into ...",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.vice.com/en_us/article/4agw3q/facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations",
+      "ampWebUrl": "https://www.vice.com/amp/en_us/article/4agw3q/facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/4agw3q/facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations",
+      "publishedDateTime": "2020-01-15T12:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://video-images.vice.com/_uncategorized/1579112105508-Screen-Shot-2020-01-15-at-11204-PM.png?resize=640:*",
+          "width": 640,
+          "height": 358,
+          "title": "Facebook Invented a New Language for Machines to Solve Complex Math Equations",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-15-why-creating-an-av-business-is-10000-times-harder-than-building-self-driving-tech.md",
+      "title": "Why Creating An AV Business Is 10,000 Times Harder Than Building Self-Driving Tech",
+      "excerpt": "For autonomous service providers or a service provider that owns its conventional vehicles, every mile and minute incurs a cost.",
+      "heat": 78,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/15/why-creating-an-av-business-is-10000-times-harder-than-building-self-driving-tech/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/15/why-creating-an-av-business-is-10000-times-harder-than-building-self-driving-tech/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/15/why-creating-an-av-business-is-10000-times-harder-than-building-self-driving-tech/amp/",
+      "publishedDateTime": "2020-01-15T12:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F01%2Fa-21-2.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "Why Creating An AV Business Is 10,000 Times Harder Than Building Self-Driving Tech",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-01-15-the-enterprise-ai-challenge-common-misconceptions.md",
+      "title": "The Enterprise AI Challenge: Common Misconceptions",
+      "excerpt": "The buzz about the power of AI to disrupt industries and transform businesses is not hype; it's real. Just look at what AI-powered FAANG companies have done in advertising, retail, entertainment and other industries.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/15/the-enterprise-ai-challenge-common-misconceptions/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/15/the-enterprise-ai-challenge-common-misconceptions/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/15/the-enterprise-ai-challenge-common-misconceptions/amp/",
+      "publishedDateTime": "2020-01-15T12:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F01%2Fa-20-2.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "The Enterprise AI Challenge: Common Misconceptions",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-01-15-how-ai-is-revolutionizing-health-care.md",
+      "title": "How AI Is Revolutionizing Health Care",
+      "excerpt": "Being a relatively new technology in health care, AI still has a long way to go, but the progress is impressive.",
+      "heat": 129,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/15/how-ai-is-revolutionizing-health-care/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/15/how-ai-is-revolutionizing-health-care/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/15/how-ai-is-revolutionizing-health-care/amp/",
+      "publishedDateTime": "2020-01-15T11:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F01%2Fa-18-2.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "How AI Is Revolutionizing Health Care",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-01-15-congress-moves-toward-facial-recognition-regulation.md",
+      "title": "Congress moves toward facial recognition regulation",
+      "excerpt": "A bipartisan group in Congress is working on legislation that could regulate the use of facial recognition by the private sector, federal government, and law enforcement. “We have a ...",
+      "heat": 481,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/15/congress-moves-toward-facial-recognition-regulation/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/15/congress-moves-toward-facial-recognition-regulation/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/15/congress-moves-toward-facial-recognition-regulation/amp/",
+      "publishedDateTime": "2020-01-15T11:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/08/facial-recognition.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Congress moves toward facial recognition regulation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-15-what-are-neural-symbolic-ai-methods-and-why-will-they-dominate-2020.md",
+      "title": "What are neural-symbolic AI methods and why will they dominate 2020?",
+      "excerpt": "The recent commercial AI revolution has been largely driven by deep neural networks. First invented in the 1960s, deep NNs came into their own once fueled by the combination of internet-scale datasets and distributed GPU farms. But the field of AI is much richer than just this one type of algorithm. Symbolic reasoning algorithms such ...",
+      "heat": 93,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/podium/2020/01/15/what-are-neural-symbolic-ai-methods-and-why-will-they-dominate-2020/",
+      "ampWebUrl": "https://thenextweb.com/podium/2020/01/15/what-are-neural-symbolic-ai-methods-and-why-will-they-dominate-2020/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/podium/2020/01/15/what-are-neural-symbolic-ai-methods-and-why-will-they-dominate-2020/amp/",
+      "publishedDateTime": "2020-01-15T11:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/01/Untitled-design36-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "What are neural-symbolic AI methods and why will they dominate 2020?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "Machine Learning",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-01-15-digital-dream-labs-acquires-anki-robotics-artificial-intelligence-assets.md",
+      "title": "Digital Dream Labs Acquires Anki Robotics & Artificial Intelligence Assets",
+      "excerpt": "/PRNewswire/ -- Digital Dream Labs announced today it has acquired Anki Robotics and Artificial Intelligence assets without taking on any",
+      "heat": 67,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.prnewswire.com/news-releases/digital-dream-labs-acquires-anki-robotics--artificial-intelligence-assets-300987766.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-15T10:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1077064/digital_dream_labs_logo.jpg?p=facebook",
+          "width": 600,
+          "height": 314,
+          "title": "Digital Dream Labs Acquires Anki Robotics & Artificial Intelligence Assets",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-01-15-marscat-robot-is-more-project-than-pet.md",
+      "title": "MarsCat robot is more project than pet",
+      "excerpt": "There's a growing fear that artificial intelligence combined with robotics will displace the value of humans in many contexts. But could these trends also apply to our traditional four-legged canine and feline companions? After its splash at CES 2020, I had an opportunity to get up close this week with two prototypes of the MarsCat robot ...",
+      "heat": 69,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/marscat-robot-is-more-project-than-pet/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/marscat-robot-is-more-project-than-pet/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/marscat-robot-is-more-project-than-pet/",
+      "publishedDateTime": "2020-01-15T10:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-01-15-how-deepmind-is-unlocking-the-secrets-of-dopamine-and-protein-folding-with-ai.md",
       "title": "How DeepMind is unlocking the secrets of dopamine and protein folding with AI",
       "excerpt": "Demis Hassabis founded DeepMind with the goal of unlocking answers to some of the world’s toughest questions by recreating intelligence itself. His ambition remains just that — an ambition — but Hassabis and colleagues inched closer to realizing it this week with the publication of papers in Nature addressing two formidable challenges in ...",
@@ -873,415 +1310,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-01-14-worlds-first-living-machine-created-using-frog-cells-and-artificial-intelligence.md",
-      "title": "World's First 'Living Machine' Created Using Frog Cells and Artificial Intelligence",
-      "excerpt": "Related: The 6 Strangest Robots Ever Created \"They're neither a traditional robot nor a known species of animal,\" study co-author Joshua Bongard, a computer scientist and robotics expert at the University of Vermont, said in a statement. \"It's a new class of artifact: a living, programmable organism.\" Algorithms shaped the evolution of the ...",
-      "heat": 173,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.livescience.com/frogbots-living-robots.html",
-      "ampWebUrl": "https://www.livescience.com/amp/frogbots-living-robots.html",
-      "cdnAmpWebUrl": "https://www-livescience-com.cdn.ampproject.org/c/s/www.livescience.com/amp/frogbots-living-robots.html",
-      "publishedDateTime": "2020-01-14T13:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Live Science",
-        "domain": "livescience.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/hPio9oXE73b6NhFJiBF2HD-1200-80.jpg",
-          "width": 800,
-          "height": 450,
-          "title": "World's First 'Living Machine' Created Using Frog Cells and Artificial Intelligence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-01-14-three-misconceptions-about-ai-and-robotics-in-business-and-what-you-should-know.md",
-      "title": "Three Misconceptions About AI And Robotics In Business (And What You Should Know)",
-      "excerpt": "Robots can automate certain tasks and make certain processes more efficient, but at the end of the day, they are machines with hardware that wears down eventually.",
-      "heat": 136,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/01/14/three-misconceptions-about-ai-and-robotics-in-business-and-what-you-should-know/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/01/14/three-misconceptions-about-ai-and-robotics-in-business-and-what-you-should-know/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/01/14/three-misconceptions-about-ai-and-robotics-in-business-and-what-you-should-know/amp/",
-      "publishedDateTime": "2020-01-14T12:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbesbusinessdevelopmentcouncil%2Ffiles%2F2020%2F01%2Fa-6-1.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "Three Misconceptions About AI And Robotics In Business (And What You Should Know)",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-01-14-the-us-leads-in-world-changing-startups.md",
-      "title": "The U.S. Leads in World-Changing Startups",
-      "excerpt": "A new report shows the U.S. dramatically leads with new companies focused on emerging technologies. The United States enters 2020 on a favorable technology setting, with 23 of 36 of what CB Insights labels \"game-changing\" tech startup companies this year being based in the country.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.usnews.com/news/best-countries/articles/2020-01-14/the-us-has-the-most-startups-that-could-change-the-world",
-      "ampWebUrl": "https://www.usnews.com/news/best-countries/articles/2020-01-14/the-us-has-the-most-startups-that-could-change-the-world?context=amp",
-      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-countries/articles/2020-01-14/the-us-has-the-most-startups-that-could-change-the-world?context=amp",
-      "publishedDateTime": "2020-01-14T12:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-01-14-rights-group-says-china-is-trying-to-silence-critics-abroad.md",
-      "title": "Rights group says China is trying to silence critics abroad",
-      "excerpt": "He warned that if human rights aren’t defended, the world could face “a dystopian future in which no one is beyond the reach of Chinese censors” and a global rights system so weakened that ...",
-      "heat": 102,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://kvia.com/news/us-world/2020/01/14/rights-group-says-china-is-trying-to-silence-critics-abroad/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-14T11:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KVIA",
-        "domain": "kvia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-14-2020-the-year-of-seeing-clearly-on-ai-and-machine-learning.md",
-      "title": "2020: The year of seeing clearly on AI and machine learning",
-      "excerpt": "Late last year, I complained to Richard Socher, chief scientist at Salesforce and head of its AI projects, about the term \"artificial intelligence\" and that we should use more accurate terms such as machine learning or smart machine systems, because \"AI\" creates unreasonably high expectations when the vast majority of applications are ...",
-      "heat": 114,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/2020-the-year-of-seeing-clearly-on-ai-and-machine-learning/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/2020-the-year-of-seeing-clearly-on-ai-and-machine-learning/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/2020-the-year-of-seeing-clearly-on-ai-and-machine-learning/",
-      "publishedDateTime": "2020-01-14T10:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2018/11/30/eb36294b-a7fb-4514-ab2b-8f58d536211a/20140909-idf-56.jpg",
-          "width": 640,
-          "height": 574,
-          "title": "2020: The year of seeing clearly on AI and machine learning",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-01-14-an-emotionally-intelligent-ai-could-support-astronauts-on-a-trip-to-mars.md",
-      "title": "An emotionally intelligent AI could support astronauts on a trip to Mars",
-      "excerpt": "Astronauts also have to deal with the unique physical strains of space travel—including ... stunted by a lack of emotional intelligence, says Tom Soderstrom, CTO at NASA’s Jet Propulsion Laboratory. That’s why JPL is now working with Australian tech firm Akin to develop an AI that could one day provide emotional support for astronauts ...",
-      "heat": 166,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.technologyreview.com/s/615044/an-emotionally-intelligent-ai-could-support-astronauts-on-a-trip-to-mars/",
-      "ampWebUrl": "https://www.technologyreview.com/s/615044/an-emotionally-intelligent-ai-could-support-astronauts-on-a-trip-to-mars/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/s/615044/an-emotionally-intelligent-ai-could-support-astronauts-on-a-trip-to-mars/amp/",
-      "publishedDateTime": "2020-01-14T09:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.technologyreview.com/i/images/gettyimages-1168361504-web.jpg?sw=600&cx=0&cy=0&cw=3000&ch=1688",
-          "width": 600,
-          "height": 337,
-          "title": "An emotionally intelligent AI could support astronauts on a trip to Mars",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-14-facebook-taught-its-ai-to-speak-math.md",
-      "title": "Facebook taught its AI to speak math",
-      "excerpt": "My numerical idiocy aside, Facebook has trained an AI to solve ... Essentially the research team taught the AI to unpack mathematical equations much in the same way that we do for complex phrases ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/2020/01/14/facebook-taught-its-ai-to-speak-math/",
-      "ampWebUrl": "https://www.engadget.com/amp/2020/01/14/facebook-taught-its-ai-to-speak-math/",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/14/facebook-taught-its-ai-to-speak-math/",
-      "publishedDateTime": "2020-01-14T09:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D7952%252C5304%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2019-10%252Fa6df90d0-fc30-11e9-bf3d-41e8fa5d6f01%26client%3Da1acac3e1b3290917d92%26signature%3Df51c7486a6dd8080945bf5ef5ac7482111cf2c46&client=amp-blogside-v2&signature=7c28bf857a46eba7eeca3ef58ca21d26e24a1234",
-          "width": 600,
-          "height": 350,
-          "title": "Facebook taught its AI to speak math",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-14-coral-is-googles-quiet-initiative-to-enable-ai-without-the-cloud.md",
-      "title": "Coral is Google’s quiet initiative to enable AI without the cloud",
-      "excerpt": "Market analysts predict that more than 750 million edge AI chips and computers will be sold in 2020, rising to 1.5 billion by 2024. And while most of these will be installed in consumer devices like phones, a great deal are destined for enterprise customers in industries like automotive and health care. To meet customers’ needs Coral offers ...",
-      "heat": 191,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theverge.com/2020/1/14/21065141/google-coral-ai-edge-computing-products-applications-cloud",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/1/14/21065141/google-coral-ai-edge-computing-products-applications-cloud",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/14/21065141/google-coral-ai-edge-computing-products-applications-cloud",
-      "publishedDateTime": "2020-01-14T07:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/ttwWM7P7I6eYsZ5rb-kB6B6jBXs=/0x0:2000x1125/1400x933/filters:focal(840x403:1160x723):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66098768/google_coral_edge_tpu_accelerator_dev_board.0.jpeg",
-          "width": 1400,
-          "height": 933,
-          "title": "Coral is Google’s quiet initiative to enable AI without the cloud",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-14-the-secret-to-building-ai-quantify.md",
-      "title": "The Secret to Building AI? Quantify.",
-      "excerpt": "If you want to build an AI company, you should define the “goal” of your AI and have a quantitative means to progress toward that goal.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/konstantinebuhler/2020/01/14/the-secret-to-building-ai-quantify/",
-      "ampWebUrl": "https://www.forbes.com/sites/konstantinebuhler/2020/01/14/the-secret-to-building-ai-quantify/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/konstantinebuhler/2020/01/14/the-secret-to-building-ai-quantify/amp/",
-      "publishedDateTime": "2020-01-14T07:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1130913708%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D7952%26cropY1%3D404%26cropY2%3D4879",
-          "width": 1199,
-          "height": 675,
-          "title": "The Secret to Building AI? Quantify.",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-01-14-the-case-for-a-light-hand-with-ai-and-a-hard-line-on-china.md",
-      "title": "The Case for a Light Hand With AI and a Hard Line on China",
-      "excerpt": "Last week, at the WIRED HQ at CES, I spoke with Michael Kratsios, the chief technology officer of the United States. We dug into the government’s recent regulatory framework for AI, the potential for an AI cold war with China, and whether or not the NSA is building a quantum computer. The conversation has been lightly edited for clarity.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/light-hand-ai-hard-line-china/",
-      "ampWebUrl": "https://www.wired.com/story/light-hand-ai-hard-line-china/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/light-hand-ai-hard-line-china/amp",
-      "publishedDateTime": "2020-01-14T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5e18caa890f5f5000872b7b5/master/pass/Biz-Kratsios-IMG_6970.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": "The Case for a Light Hand With AI and a Hard Line on China",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],
