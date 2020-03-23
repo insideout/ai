@@ -27,17 +27,6 @@ images:
     height: 833
     title: "JGC Holdings takes first step toward digitization with SAP on Azure"
 
-related:
-  - title: "JGC Holdings takes first steps toward digitization with the introduction of SAP on Azure"
-    excerpt: "Microsoft Azure the choice platform for a reliable and international cloud Prior to SAP S ... With the two wheels of Human Intelligence (HI) and Artificial Intelligence (AI), the digitalization of JGC HD will continue to accelerate.”(Hanada) Mr. Hanada expressed interest to using Microsoft Teams within JGC HD, for improved collaboration."
-    publishedDateTime: 2020-03-21T03:15:00Z
-    webUrl: "https://news.microsoft.com/apac/2020/03/21/jgc-holdings-takes-first-steps-toward-digitization-with-the-introduction-of-sap-on-azure/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 10
-
 secured: "ouwRG7mOXXhxxIUk8ddb2CadgKFP7L9eVvV3ah1boy6KpB7U+mqcG8B9JJoxY7FS/4hwqZMmu70WK8npPap8CnRRfFLrZUPPzEn6kp2s5kviqP5diI/XriS4BPotghmzpP/8d6bs1wnpfkf1Dp1Jtk9xrLUQAONCCRSv1RQfuITKREXN7xoQS80f+2gbaLwuNmYhxSPW6yTFYEyZjltgzk9FDxBVyEyZuuvXKbBy/JNfyYGbNcWPoVN5mzWO7uuNtyNoEdRlgIbsWlj7bXLoYGtxaaCNW6oKGCPtGTTbbNQxqFR6AcDk/Qd4Ss4G9W/5;PcUU9gUeMR8ETMDEDwgLwg=="
 ---
 

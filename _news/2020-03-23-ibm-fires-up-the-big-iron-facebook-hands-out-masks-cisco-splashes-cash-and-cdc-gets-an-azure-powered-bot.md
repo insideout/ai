@@ -25,6 +25,6 @@ images:
     height: 667
     title: "IBM fires up the big iron, Facebook hands out masks, Cisco splashes cash, and CDC gets an Azure-powered bot"
 
-secured: "C/fZ0xQ9ZM9uTbkiA2IeaDVCm8EyLAzDEqJna9ky1H9/vwgDHtav0y5scoBNyn5R0i/qJ79/lpAgIU5s09eg/92YlIGqY2cfhxP/OilPcXkejDdEaiKJcUzj0AwXcbYdbscw43Iwb7Zo9cUBxdqbhPROsnRs0XIztjpNA9sK8ToSa/9RXQ8lHlxxlxfJ3vp0+rUIEOxrDlEzTo7VBtt/wsn7s8Skxn9tPkgr8uU46O9RqTTcRewPIOkNLq6agZ5tXiUjfVFfbJPloX3xD13hRzQD9j0zMdYCEjFpsmL1zJvd3f6RsMs0ceS14Pv8qZng;WtOyt1SM//MPt4lmc/v1Sg=="
+secured: "ic2rFjMTRLZjwkA+ONFav8+ps5cDafF5jDd7vtvm/j1B7PynzymlQa1DI9Y9XkYGRQZCyCSYpCskAoAHuXLrut0fkRV8bjlFkroH/uPgbM7O24CJambPuSXLr2oAILNNg3ZCpM1JHeH4iKvEV6FlI3kZdFWXbuvKRJMFt+RWj5b4HrcLAmDR5t/4BYI5HIGvrCt91N/m0qZSS1raJmW8rKDek67yXwJrexui7PLHb9Quv//aCBqxS0psYLU0agA/ZU0itrRxG4SrP3IemxAft9o8qpytYMxhcSOQ3VC2NscK7QjA6gwLx9zLBvSJvE3nQgs3LcZYApH1QVFjDV91Wv13Fq/rIlIjEfazIL9mjpox+CT9MKIS97LIPBuK96G7xo4OnwTMkFZcxojdu5IVH1uggzDQ89enZ7g1YwzFTPSDfJm5BaRDLu8VvzUhg0MOFYV2h53YVW/mR0SEyJaHYRI0X/bfaIaoVMsWO0y9csg=;RSNpaLheT56wtuM1FMdzKw=="
 ---
 

@@ -2,6 +2,43 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-03-11-heres-how-this-uae-law-firm-is-tapping-ai-cloud-to-stay-competitive.md",
+      "title": "Here's how this UAE law firm is tapping AI, cloud to stay competitive",
+      "excerpt": "Fichte is using AI tools offered in Microsoft's Office and Azure. \"Outlook Insights is a useful tool to remind you about potential tasks and to follow up on them,\" notes Peet. In addition, the firm has started investigating Azure AI capabilities for more complex tasks: invoice analysis and automated processing. Not all experiments work out.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cio.com/article/3531310/heres-how-this-uae-law-firm-is-tapping-ai-cloud-to-stay-competitive.html",
+      "ampWebUrl": "https://www.cio.com/article/3531310/heres-how-this-uae-law-firm-is-tapping-ai-cloud-to-stay-competitive.amp.html",
+      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3531310/heres-how-this-uae-law-firm-is-tapping-ai-cloud-to-stay-competitive.amp.html",
+      "publishedDateTime": "2020-03-10T20:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO",
+        "domain": "cio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/01/rules_rulebook_law_compliance_regulation_by-baloon111_getty-100786795-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Here's how this UAE law firm is tapping AI, cloud to stay competitive",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-10-google-launches-machine-learning-framework-for-training-quantum-models.md",
       "title": "Google launches machine learning framework for training quantum models",
       "excerpt": "The machine learning framework has the ability to construct quantum datasets ... The release of TensorFlow Quantum comes after Microsoft's launch of Azure Quantum and the recent news that Honeywell is developing a quantum computer with a quantum volume of at least 64 which will be available in the next three months. In an abstract for a ...",
@@ -1209,52 +1246,6 @@
       "topics": [
         "AI",
         "Natural Language Processing",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-22-trillion-dollar-foes-does-amazon-web-services-reign-supreme-in-the-cloud-business.md",
-      "title": "Trillion-Dollar Foes: Does Amazon Web Services Reign Supreme in the Cloud Business?",
-      "excerpt": "AWS is dominant within Amazon as well ... If Microsoft is the victor, it would be poised to expand its global presence through the pairing of cloud services with artificial intelligence or machine learning. This could increase revenue and potentially expand its market share, perhaps even putting the company ahead of Amazon on revenue.",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/02/22/trillion-dollar-foes-does-amazon-web-services-reig.aspx",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/02/22/trillion-dollar-foes-does-amazon-web-services-reig.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/02/22/trillion-dollar-foes-does-amazon-web-services-reig.aspx",
-      "publishedDateTime": "2020-02-22T06:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F558881%2Fcloud-computing-computer-key-getty-6-2-17.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 900,
-          "title": "Trillion-Dollar Foes: Does Amazon Web Services Reign Supreme in the Cloud Business?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
         "Microsoft AI"
       ]
     }

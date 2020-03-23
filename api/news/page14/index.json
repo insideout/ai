@@ -2,6 +2,35 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-03-12-swiss-re-announces-ai-data-tie-up-with-microsoft.md",
+      "title": "Swiss Re Announces AI Data Tie-Up With Microsoft",
+      "excerpt": "The service would be available to insurer clients, but also used internally to aid the company’s own pricing. As part of the deal, Swiss Re said it would move its internal operating system to Microsoft’s cloud product, Azure. That would enable the reinsurer to access “advanced data processing” and artificial intelligence systems ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.law360.com/articles/1252636/swiss-re-announces-ai-data-tie-up-with-microsoft",
+      "ampWebUrl": "https://www.law360.com/amp/articles/1252636",
+      "cdnAmpWebUrl": "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1252636",
+      "publishedDateTime": "2020-03-12T06:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Law360",
+        "domain": "law360.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-12-immunoprecise-antibodies-unveils-new-therapy-approach-in-bid-to-tackle-coronavirus.md",
       "title": "ImmunoPrecise Antibodies unveils new therapy approach in bid to tackle coronavirus",
       "excerpt": "Today, it unveiled the use of PolyTope mAb Therapy, which it says is enabled by Immunoprecise's diverse discovery platforms and artificial intelligence (AI) capabilities with partner EVQLV Inc. Last month, Immunoprecise named Dr Ilse Roodink, the firm's ...",
@@ -658,6 +687,43 @@
       ]
     },
     {
+      "path": "_news/2020-03-12-ai-recruitment-startup-talview-wins-the-best-ai-application-for-societal-impact-recognition-at-microsofts-ai-awards-20.md",
+      "title": "AI Recruitment Startup Talview Wins the 'Best AI Application for Societal Impact' Recognition at Microsoft's AI Awards 2.0",
+      "excerpt": "SAN MATEO, California, March 11, 2020 /PRNewswire/ -- AI Recruitment startup, Talview, has received the prestigious 'Best AI Application for Societal Impact' award in the partner category in the Microsoft AI Awards 2.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-recruitment-startup-talview-wins-the-best-ai-application-for/article_a6f9442a-f768-5909-91b0-5f6a0bb4cc52.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-11T17:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/c4/2c445844-9099-5405-94bd-29529304ce34/5e69a2642759d.image.jpg?resize=400%2C209",
+          "width": 400,
+          "height": 209,
+          "title": "AI Recruitment Startup Talview Wins the 'Best AI Application for Societal Impact' Recognition at Microsoft's AI Awards 2.0",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-12-ticker-tocker-wins-best-social-trading-platform-designation-in-2020-fintech-breakthrough-awards-program.md",
       "title": "Ticker Tocker Wins \"Best Social Trading Platform\" Designation in 2020 FinTech Breakthrough Awards Program",
       "excerpt": "NEW YORK, March 11, 2020 /PRNewswire/ -- Ticker Tocker, an award winning social marketplace of verified trading leaders, announced today that it has been selected as the winner of the \"Best Social Trading Platform\" award in the 2020 FinTech Breakthrough Awards program conducted by FinTech Breakthrough,",
@@ -875,79 +941,6 @@
           "width": 612,
           "height": 1156,
           "title": "Is Inter-Company Automation The Next Frontier For AI? A New Startup, BackboneAI, Says Yes.",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-11-how-baidu-is-bringing-ai-to-the-fight-against-coronavirus.md",
-      "title": "How Baidu is bringing AI to the fight against coronavirus",
-      "excerpt": "Apollo, Baidu’s autonomous vehicle platform, partnered with a local self-driving startup called Neolix to deliver supplies and food to the Beijing Haidian Hospital. With daily deliveries, this initiative is helping feed over 100 frontline staff members as they work to treat their growing patient base. Baidu Apollo has also made its low-speed ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.technologyreview.com/s/615342/how-baidu-is-bringing-ai-to-the-fight-against-coronavirus/",
-      "ampWebUrl": "https://www.technologyreview.com/s/615342/how-baidu-is-bringing-ai-to-the-fight-against-coronavirus/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/s/615342/how-baidu-is-bringing-ai-to-the-fight-against-coronavirus/amp/",
-      "publishedDateTime": "2020-03-11T10:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.technologyreview.com/i/images/picture1_4.png?sw=600&cx=0&cy=0&cw=780&ch=439",
-          "width": 600,
-          "height": 337,
-          "title": "How Baidu is bringing AI to the fight against coronavirus",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-11-client-note-aon-acquires-willis-towers-watson-for-30b-nvidia-buys-an-ai-startup-ant-financial-invests-in-klarna-and-more.md",
-      "title": "Client Note: Aon Acquires Willis Towers Watson For $30B, Nvidia Buys An AI Startup, Ant Financial Invests In Klarna, And More",
-      "excerpt": "Also covered are Sequoia’s investment in a student loan company, an email encryption startup raises, and Grindr’s $600M+ sale. Want the full post? Become a CB Insights customer. If you’re already a customer, log in here.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cbinsights.com/research/aon-willis-towers-watson-nvidia-ai-ant-financial-klarna/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-11T08:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CB Insights",
-        "domain": "cbinsights.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s3.amazonaws.com/cbi-research-portal-uploads/2020/03/11105643/News-coverage_edge-computing_CN_03102020-572x364.png",
-          "width": 572,
-          "height": 364,
-          "title": "Client Note: Aon Acquires Willis Towers Watson For $30B, Nvidia Buys An AI Startup, Ant Financial Invests In Klarna, And More",
           "attribution": null
         }
       ],

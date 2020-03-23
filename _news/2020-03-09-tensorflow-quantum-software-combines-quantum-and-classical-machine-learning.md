@@ -1,9 +1,9 @@
 ---
 category: news
 title: "TensorFlow Quantum software combines quantum and classical machine learning"
-excerpt: "The collaborative effort resulted in the creation of an open-source hybrid quantum-classical machine learning software platform, called TensorFlow Quantum. TensorFlow Quantum integrates Google’s Cirq and TensorFlow and will allow for the rapid prototyping, training, inference, and"
-publishedDateTime: 2020-03-09T17:05:00Z
-webUrl: "https://insidehpc.com/tag/tensorflow-quantum/"
+excerpt: "The collaborative effort resulted in the creation of an open-source hybrid quantum-classical machine learning software platform, called TensorFlow Quantum. TensorFlow Quantum integrates Google’s Cirq and TensorFlow and will allow for the rapid ..."
+publishedDateTime: 2020-03-09T17:03:00Z
+webUrl: "https://insidehpc.com/2020/03/tensorflow-quantum-software-combines-quantum-and-classical-machine-learning/"
 type: article
 
 provider:
@@ -14,6 +14,12 @@ topics:
   - Google AI
   - AI
 
-secured: "4bvQnUreQVfxK0v9HqzAEvRBp6ix58sq8GL7/jqugn+tdLj8Exn5SOGHLrsGCNU6uugxV/6xRGU3Qt2t0ZPUCThzgGmee1zAxuIsLFMuWAApulQfE7V080KCQuK3RbintES6LGNvOeXqh/MZVRR1+zcmgVeGrS26cPWSKkj5BETzNRlIDWterqeegFoZYpQLBUwXi/XEX2CApHFyhyEWmUD/EtfWMc8EB59bwLwMOhFbFuH85EAqoGqu8VfhbiXIuZLrwQgzccc48LSPqmbUwj1WC0zZ6770hxMYOeCE5DmQoziX83syHu5WU1YSfaU9JS0ASknkeVrQvGGCgyb6KC+4RUxYw90IPNHvNoJ86X4yuh3J/TmjqxT/ZgoGLF39Z73rcAh4rr+DgrbGOmeB+nBTFn9z0BBiQVq0klv7jHbYKNW7sTb0S+b5Qns6dy+pExa/tKKBWkFxLD0eaO6pa0hy1P9bcmHMhb5o1dN2jKY=;i+R3D/2lv+n5LsLmvdW1aQ=="
+images:
+  - url: "https://insidehpc.com/wp-content/uploads/2020/03/blobid0_1583527327745.jpg"
+    width: 640
+    height: 480
+    title: "TensorFlow Quantum software combines quantum and classical machine learning"
+
+secured: "2NEjDwR0zx0JmfbsTfxMOc9ySZCqMYmF+9SbKvWP5dp0v7NOGUnfHstMb1mVuTjlpn1J6GuHSEU6sx3I9qkFcQf72v7qtyKTheHbRVhJlK69k9nv3072fJj8OGLdQ16+kSFWznvMm2b1Z7cENoF9z3crdQ8Bxli3zQmNrcBhYeC0IcQGJYmPjwlKmmhde1vNNRq2Xtxa8Clz1xtb6j5cjKV0s8lfH0ChNY8wlbeT9xQ6Jx3/hr72CCN0rpYxQ92qe/UhH6NbGvFYEVa3WovcSRKawCCrBsCZAMx0fHwk5KQaGoq+bfY2nDqtCtFKa9Io;UMtmWYrt4WPGQBktdk6I6Q=="
 ---
 

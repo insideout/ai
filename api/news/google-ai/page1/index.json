@@ -663,14 +663,14 @@
     {
       "path": "_news/2020-03-09-tensorflow-quantum-software-combines-quantum-and-classical-machine-learning.md",
       "title": "TensorFlow Quantum software combines quantum and classical machine learning",
-      "excerpt": "The collaborative effort resulted in the creation of an open-source hybrid quantum-classical machine learning software platform, called TensorFlow Quantum. TensorFlow Quantum integrates Google’s Cirq and TensorFlow and will allow for the rapid prototyping, training, inference, and",
+      "excerpt": "The collaborative effort resulted in the creation of an open-source hybrid quantum-classical machine learning software platform, called TensorFlow Quantum. TensorFlow Quantum integrates Google’s Cirq and TensorFlow and will allow for the rapid ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://insidehpc.com/tag/tensorflow-quantum/",
+      "webUrl": "https://insidehpc.com/2020/03/tensorflow-quantum-software-combines-quantum-and-classical-machine-learning/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-09T10:05:00-07:00",
+      "publishedDateTime": "2020-03-09T10:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "insideHPC",
@@ -679,7 +679,15 @@
         "publishers": null,
         "authors": null
       },
-      "images": null,
+      "images": [
+        {
+          "url": "https://insidehpc.com/wp-content/uploads/2020/03/blobid0_1583527327745.jpg",
+          "width": 640,
+          "height": 480,
+          "title": "TensorFlow Quantum software combines quantum and classical machine learning",
+          "attribution": null
+        }
+      ],
       "locale": "en-us",
       "categories": [
         "news"

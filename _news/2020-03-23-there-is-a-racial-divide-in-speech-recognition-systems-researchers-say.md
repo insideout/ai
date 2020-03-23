@@ -7,8 +7,8 @@ webUrl: "https://www.nytimes.com/2020/03/23/technology/speech-recognition-bias-a
 ampWebUrl: "https://www.nytimes.com/2020/03/23/technology/speech-recognition-bias-apple-amazon-google.amp.html"
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/03/23/technology/speech-recognition-bias-apple-amazon-google.amp.html"
 type: article
-quality: 74
-heat: 74
+quality: 76
+heat: 76
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Computer Vision
 
 images:
   - url: "https://static01.nyt.com/images/2020/03/19/business/00speechbias1/merlin_161494506_df529ece-4549-4890-866d-bc00b148d3eb-facebookJumbo.jpg"
@@ -29,6 +30,6 @@ images:
     height: 550
     title: "There Is a Racial Divide in Speech-Recognition Systems, Researchers Say"
 
-secured: "Vy5hsaXKP/6YAENG8RKGfHSkBF4BMlGD5bJURwOVji/jXVrIukLTRP2T1wMYgwxzLS7emgiYbVl+2H0bML07lHTtE5MmmgQEFUxRjlQxkXUADwioZIuVB0i+vaMnOjOdtW/seBGIgJ96PXU5tQD2B5hhDwI+DO6mkrL3izu4N6gkfUYTAMRNNe0LwXCrtWP8bLK9nMbB6XLqz82HTdZDU8VilA+cElhaIOoZyjiWCPIoGruS3X8ZNlGJAFxnShMLfmoqc1SQ741jr9Ckrq26esOqgH8YzTuZplhCRHDYtyjAxHqLcfM/L7gGw/NyY0uA;LfaO0ZRs6NdpetluelZB6w=="
+secured: "ykL7x2L5aQKIubvbysvVbHHgxEzAipkGjk4IjXmlY0yaUobJ4Zu7p5mMo4Fcx6q5TEOKhKbRqya/ngQinq3pLi9Ek9jkF890NbT9KPcpGNsZZ+RbpOIoPqWV1CMhlceSH7oA81fJyGD6e5BUCtYIOEvJjWH0NplEkTmJrIghgfKEbnMq5WCWNe/65E6wfgoSOhdk/IaZJuEaNVp7PQMIZubjjLmgv7tFoc8qLvKpptq+pzHHQzVCUZHAs8PTXg/l/IeeXjy99AL/Po2iNr57rx2RiD7zN8HeU9JQbqvx3mMaHqKPb1BeKdU92NDmwQGP0dt0uwY+/MvqS21autSJTT3srk/cf/bfPD/YMa2JKrAAJB2uvfgRNogsphNeVPu433+l5NJ/7JXGFAlHNelaSJMsOM+Sh2qlTKXJ9MufPONqGckFf/WKn1DZ/+F4BTSe0xQjZ1rEFVnEZJwHezpuS85zYw4n482N9+6x3n2eSu8=;d3gG3qV3YCg4YJ8PlFVlJA=="
 ---
 
