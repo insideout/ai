@@ -681,6 +681,35 @@
       ]
     },
     {
+      "path": "_news/2020-03-17-ai-machine-learning-could-put-cell-sites-to-sleep-and-slash-energy-costs.md",
+      "title": "AI, machine learning could put cell sites to sleep (and slash energy costs)",
+      "excerpt": "And these new features incorporate tools like artificial intelligence (AI) and machine learning. In a new Ericsson white paper called \"Breaking the Energy Curve,\" the company said that machine learning can be used to make certain network features more autonomous. Two of those features, MIMO Sleep Mode and Cell Sleep Mode, are using machine ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.lightreading.com/ai-automation/ai-machine-learning-could-put-cell-sites-to-sleep-(and-slash-energy-costs)/d/d-id/758249",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-17T00:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Light Reading",
+        "domain": "lightreading.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-17-artificial-intelligence-in-the-healthcare-market-opportunities-size-share-emerging-trends-technological-innovation-and-forecasts-to-2025.md",
       "title": "Artificial Intelligence in the Healthcare Market Opportunities, Size, Share, Emerging Trends, Technological Innovation And Forecasts To 2025",
       "excerpt": "Global Artificial Intelligence in the Healthcare Market was valued at USD 856.42 Million in the year 2017. Global Artificial Intelligence in the Healthcare Market is further estimated to grow at a CAGR of 48.",
@@ -879,51 +908,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-human-behavior-and-group-dynamics-can-be-reshaped-by-ai-use-including-via-ai-self-driving-cars.md",
-      "title": "Human Behavior And Group Dynamics Can Be Reshaped By AI Use, Including Via AI Self-Driving Cars",
-      "excerpt": "Suppose you interact with an AI system, such as a robot, and in so doing your behavior changes based on that interaction. This makes sense in that we already today interact with the likes of Alexa and Siri,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/03/16/human-behavior-and-group-dynamics-can-be-reshaped-by-ai-use-including-via-ai-self-driving-cars/",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/03/16/human-behavior-and-group-dynamics-can-be-reshaped-by-ai-use-including-via-ai-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/03/16/human-behavior-and-group-dynamics-can-be-reshaped-by-ai-use-including-via-ai-self-driving-cars/amp/",
-      "publishedDateTime": "2020-03-16T21:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e6d588faa5428000759e27c%2F0x0.jpg%3FcropX1%3D331%26cropX2%3D4974%26cropY1%3D0%26cropY2%3D3482",
-          "width": 1200,
-          "height": 900,
-          "title": "Human Behavior And Group Dynamics Can Be Reshaped By AI Use, Including Via AI Self-Driving Cars",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

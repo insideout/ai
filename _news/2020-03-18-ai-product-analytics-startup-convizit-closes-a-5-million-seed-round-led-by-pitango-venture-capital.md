@@ -2,8 +2,8 @@
 category: news
 title: "AI Product Analytics Startup Convizit Closes a $5 Million Seed Round Led by Pitango Venture Capital"
 excerpt: "/PRNewswire/ -- Convizit, a startup applying unique AI technologies to disrupt the product analytics market, announced today the closing of a $5M seed"
-publishedDateTime: 2020-03-18T19:00:00Z
-webUrl: "https://www.prnewswire.com/il/news-releases/ai-product-analytics-startup-convizit-closes-a-5-million-seed-round-led-by-pitango-venture-capital-301026080.html"
+publishedDateTime: 2020-03-18T13:00:00Z
+webUrl: "https://www.prnewswire.com/news-releases/ai-product-analytics-startup-convizit-closes-a-5-million-seed-round-led-by-pitango-venture-capital-301026080.html"
 type: article
 
 provider:
@@ -19,6 +19,6 @@ images:
     height: 315
     title: "AI Product Analytics Startup Convizit Closes a $5 Million Seed Round Led by Pitango Venture Capital"
 
-secured: "vELFFnC85jA87hFbuFEHOXW6Rqhx9EBMkfiRHDG4ttyjAHSqSQJrfdRpYKJtgC7ju8yCmRm3Z9W2C1nJT+J3dBuQwPHuUpVR00tgwRDdq03UmTJ4qgOuZFPhfeFYtYNU8sSVJjXyuoVEzLwDSjO/6JXVWzdwbV3l2b3Y0Tqq2EVaskMiCe5avoFAhUjMF9/ld4eltpNVNW4XcpCQbLZbjDFGCuXo34eN4bAWvexg3cpeKoEOYxzHB3vnfp6kKuC50+BKnxPxDSjyDyv9R3QuS38yjrGyhoGVkm7C/BF3c+1k+PG9cL1qbbS211BUgmRj;5oykV/TNX9kXhkEJdKnsgA=="
+secured: "XADb17gtb+y7Oyb+LYx/3Fa5/xpj6uZ+FKWcSip9K3S3lAMmy3blRd34j1hq068Vgg7TvVvswU8h/47tVlzrK1M97bG1xt0j2ZR7V4kXAZY5g4Cw8jD28dBYh9FBcDlQNmP0V1Ip28lrES+iZp5tYD4gUM4l9HSW/tiZlJPtwEAr7WkPEVhCMKXXVcMkAUV7NvL4iGUpUYHfq5myDBY6NMuRHEyqEnBfmHAufDvfG8XdS4AmleSaF2oS/44Tj/Jht48JMghYs7fxiiNkOVYGjdbzMGTDpvWr5zpbK+C76e1Vh4M4LR40aCdIusRCRkua;4WIJpcboxTW1UpXN+mF3PA=="
 ---
 

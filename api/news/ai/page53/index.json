@@ -2,6 +2,96 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2020-01-21-ai-the-topic-that-got-sidelined-in-the-british-election.md",
+      "title": "AI: the topic that got sidelined in the British election",
+      "excerpt": "... Generation Artificial Intelligence Plan”, revealing its ambition to create an AI industry worth 1 trillion RM by 2030. Perhaps the most comprehensive of all, the plan involves a suite of initiatives that span R&D, talent development, regulations, ethics and security. Closer to home, France announced its own AI plan in 2018. Designed to ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techradar.com/nz/news/ai-the-topic-that-got-sidelined-in-the-british-election",
+      "ampWebUrl": "https://www.techradar.com/nz/amp/news/ai-the-topic-that-got-sidelined-in-the-british-election",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/ai-the-topic-that-got-sidelined-in-the-british-election",
+      "publishedDateTime": "2020-01-21T02:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/XRZnyNZVHb27CjWT9rGzg7-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": "AI: the topic that got sidelined in the British election",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-01-21-microsoft-disagrees-with-eu-facial-recognition-ban.md",
+      "title": "Microsoft disagrees with EU facial-recognition ban",
+      "excerpt": "Microsoft disagrees with the EU's plan to ban facial recognition, saying the only way to make the technology better is to use it. The European Commission is considering a five-year ban on facial recognition in public spaces in order to buy time to assess risks and develop legislation. The move comes as other public authorities, notably the ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/354588/microsoft-disagrees-with-eu-facial-recognition-ban",
+      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/354588/microsoft-disagrees-with-eu-facial-recognition-ban?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/354588/microsoft-disagrees-with-eu-facial-recognition-ban?amp",
+      "publishedDateTime": "2020-01-21T02:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/v1570817110/itpro/2018/12/microsoft_facial_recognition.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Microsoft disagrees with EU facial-recognition ban",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-01-21-machine-learning-spam-in-google.md",
       "title": "Machine Learning Spam in Google",
       "excerpt": "Spammers are taking advantage of Google Rich Results algorithms in order to place content at the top of Google search. Spammers are taking advantage of machine learning technologies to automatically create video content from web pages and vice versa. The same technology can be used to create text content from podcasts and podcast content from ...",
@@ -1179,88 +1269,6 @@
           "width": 1200,
           "height": 753,
           "title": "How Artificial Intelligence Will Make Decisions In Tomorrow’s Wars",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-20-ai-chipset-market-is-expanding-due-to-adoption-of-industrial-automation.md",
-      "title": "AI Chipset Market is Expanding Due to Adoption of Industrial Automation",
-      "excerpt": "Chipset Market: By Component, [Hardware (Processors, CPU, GPU, ASIC, FPGA, Memory and Network) and Software). By Technology [ (Machine Learning, Natural Language Processing, and Others (Deep Learning and Computer Vision)] – Forecast Till 2023 Artificial Intelligence Chipset Market Research Report- Forecast till 2023 A white box server can be referred to as the computer framework in large data centers.",
-      "heat": 106,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/01/ab15149083/ai-chipset-market-is-expanding-due-to-adoption-of-industrial-automation",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15149083",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15149083",
-      "publishedDateTime": "2020-01-20T03:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.abnewswire.com/uploads/1579519636.jpeg",
-          "width": 417,
-          "height": 455,
-          "title": "AI Chipset Market is Expanding Due to Adoption of Industrial Automation",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-01-20-the-3-as-of-ai-a-way-out-avlbl-fr-rl-and-autmtd-dn.md",
-      "title": "The 3 A’s of AI: A Way Out Avаіlаblе fоr Rеаl and Autоmаtеd Dесіѕіоnѕ",
-      "excerpt": "Although thеrе are several factors driving thе adoption оf artificial іntеllіgеnсе, thе mоѕt іmроrtаnt оnе іѕ іtѕ capability to make real and аutоmаtеd decisions. This is driven by the 3A’s of AI: Aѕѕіѕtеd,",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/01/20/the-3-as-of-ai-a-way-out-avlbl-fr-rl-and-autmtd-dn/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/01/20/the-3-as-of-ai-a-way-out-avlbl-fr-rl-and-autmtd-dn/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/01/20/the-3-as-of-ai-a-way-out-avlbl-fr-rl-and-autmtd-dn/amp/",
-      "publishedDateTime": "2020-01-20T02:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e2567f28b6cf300071c7af7%2F0x0.jpg",
-          "width": 589,
-          "height": 393,
-          "title": "The 3 A’s of AI: A Way Out Avаіlаblе fоr Rеаl and Autоmаtеd Dесіѕіоnѕ",
           "attribution": null
         }
       ],

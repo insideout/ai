@@ -2,6 +2,96 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2020-01-27-ai-license-plate-readers-are-cheaperso-drive-carefully.md",
+      "title": "AI License Plate Readers Are Cheaper—So Drive Carefully",
+      "excerpt": "Conventional ALPRs are also getting a boost from AI. Canada’s Genetec, a leading supplier of surveillance and security technology, recently announced a new ALPR camera for use on police vehicles that includes an Intel chip designed to power image-processing neural networks. Genetec says that will make the device better at reading plates at ...",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/ai-license-plate-readers-cheaper-drive-carefully/",
+      "ampWebUrl": "https://www.wired.com/story/ai-license-plate-readers-cheaper-drive-carefully/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-license-plate-readers-cheaper-drive-carefully/amp",
+      "publishedDateTime": "2020-01-27T00:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5e2b52d1097df7000896da19/master/pass/Transpo-licenseplates-502111737.jpg",
+          "width": 2400,
+          "height": 1594,
+          "title": "AI License Plate Readers Are Cheaper—So Drive Carefully",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-01-27-tinder-asks-does-this-bother-you.md",
+      "title": "Tinder Asks ‘Does This Bother You’?",
+      "excerpt": "If the answer is yes, Tinder will direct them to its report form. The new feature is available in 11 countries and nine languages currently, with plans to eventually expand to every language and country where the app is used. Major social media platforms like Facebook and Google have enlisted AI for years to help flag and remove violating content.",
+      "heat": 172,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/tinder-does-this-bother-you-harassment-tools/",
+      "ampWebUrl": "https://www.wired.com/story/tinder-does-this-bother-you-harassment-tools/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/tinder-does-this-bother-you-harassment-tools/amp",
+      "publishedDateTime": "2020-01-27T00:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg",
+          "width": 800,
+          "height": 450,
+          "title": "Tinder Asks ‘Does This Bother You’?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-27-integrating-aws-artificial-intelligence-ai-to-servicenow-enterprise-apps-and-workflows.md",
       "title": "Integrating AWS Artificial Intelligence (AI) to ServiceNow Enterprise Apps and Workflows",
       "excerpt": "Artificial intelligence (AI) helps enterprises to enhance ... Amazon Web Services (AWS) offers a vast and growing array of AI services, including hundreds of free or paid ML algorithms and model ...",
@@ -1202,81 +1292,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-24-how-artificial-intelligence-is-progressing-in-mental-healthcare.md",
-      "title": "How Artificial Intelligence is progressing in mental healthcare",
-      "excerpt": "Over the years, Artificial Intelligence (AI) tools have been used to fill gaps in mental health care: be it the diagnosis or detection of the early signs of mental health issues. Now, researchers ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.livemint.com/mint-lounge/features/how-artificial-intelligence-is-progressing-in-mental-healthcare-11579878039985.html",
-      "ampWebUrl": "https://www.livemint.com/mint-lounge/features/how-artificial-intelligence-is-progressing-in-mental-healthcare/amp-11579878039985.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/mint-lounge/features/how-artificial-intelligence-is-progressing-in-mental-healthcare/amp-11579878039985.html",
-      "publishedDateTime": "2020-01-24T07:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2020/01/24/600x338/Asset_1579878227723.jpg",
-          "width": 600,
-          "height": 337,
-          "title": "How Artificial Intelligence is progressing in mental healthcare",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-01-24-the-impact-of-ai-bay-area-experts-discuss-the-meaning-of-artificial-intelligence-and-how-it-will-affect-the-economy-and-society.md",
-      "title": "The impact of AI: Bay Area experts discuss the meaning of Artificial Intelligence and how it will affect the economy and society",
-      "excerpt": "At a Dec. 9 forum hosted by the San Francisco Business Times, three panelists discussed how businesses can leverage AI to drive innovation, the impact AI will have on the economy and on society, and the meaning of artificial intelligence itself.",
-      "heat": 127,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bizjournals.com/sanfrancisco/news/2020/01/24/the-impact-of-ai-bay-area-experts-discuss-the.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-24T07:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.bizj.us/view/img/11583703/tableofexperts-webfeature-group*1200xx1186-667-7-0.jpg",
-          "width": 1186,
-          "height": 667,
-          "title": "The impact of AI: Bay Area experts discuss the meaning of Artificial Intelligence and how it will affect the economy and society",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "AI in Healthcare"
       ]
     }
   ],

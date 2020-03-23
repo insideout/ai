@@ -2,6 +2,96 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2020-02-03-tesla-is-holding-a-super-fun-ai-partyhackathon-at-elon-musks-house.md",
+      "title": "Tesla is holding a ‘super fun AI party/hackathon’ at Elon Musk’s house",
+      "excerpt": "Tesla has been known to have a presence at some AI conferences and throw parties to ... also looking for world-class chip designers to join our team, based in both Palo Alto & Austin.",
+      "heat": 219,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://electrek.co/2020/02/03/tesla-ai-party-hackathon-elon-house/",
+      "ampWebUrl": "https://electrek.co/2020/02/03/tesla-ai-party-hackathon-elon-house/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/02/03/tesla-ai-party-hackathon-elon-house/amp/",
+      "publishedDateTime": "2020-02-03T02:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://electrek.co/wp-content/uploads/sites/3/2017/07/elon-musk-nga-2017.png?w=1600",
+          "width": 1600,
+          "height": 803,
+          "title": "Tesla is holding a ‘super fun AI party/hackathon’ at Elon Musk’s house",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-02-03-artificial-intelligence-ai-in-fintech-market-future-development-trends-revenue-and-key-manufacturers-analysis.md",
+      "title": "Artificial Intelligence (AI) in Fintech Market: Future Development, Trends, Revenue and Key Manufacturers Analysis",
+      "excerpt": "The Leading Distributor of Market Research Reports, DeepResearchReports.com published latest report on \"Global Artificial Intelligence (AI) in Fintech Industry Report\". Artificial Intelligence (AI) in Fintech Market segment by Application.",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-future-development-trends-revenue-and-key-manufacturers-analysis-2020-02-03",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-03T01:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence (AI) in Fintech Market: Future Development, Trends, Revenue and Key Manufacturers Analysis",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2020-02-03-ai-formulated-medicine-to-be-tested-on-humans-for-the-first-time.md",
       "title": "AI-formulated medicine to be tested on humans for the first time",
       "excerpt": "A drug designed entirely by artificial intelligence is about to enter clinical human trials for the first time. The drug, which is intended to treat obsessive-compulsive disorder, was discovered using AI systems from Oxford-based biotech company Exscientia. While it would usually take around four and a half years to get a drug to this stage of ...",
@@ -932,97 +1022,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-01-how-aws-is-making-the-six-nations-2020-the-most-immersive-yet.md",
-      "title": "How AWS is making the Six Nations 2020 the most immersive yet",
-      "excerpt": "AWS tools including Elastic MapReduce and SageMaker are then used to harness machine learning and analytics to get detailed insight into that data, creating analytics that can then be shared in real time for live broadcast to viewers in over 170 countries to enjoy. For example, to power the new Kick Predictor statistics tool, the AWS Machine ...",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techradar.com/sg/news/aws-is-making-the-six-nations-2020-the-most-immersive-yet",
-      "ampWebUrl": "https://www.techradar.com/sg/amp/news/aws-is-making-the-six-nations-2020-the-most-immersive-yet",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/aws-is-making-the-six-nations-2020-the-most-immersive-yet",
-      "publishedDateTime": "2020-02-01T00:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/BXJa3tZu4oKtEXuFash5oE-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": "How AWS is making the Six Nations 2020 the most immersive yet",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-01-5-soon-to-be-trends-in-artificial-intelligence-and-deep-learning.md",
-      "title": "5 Soon-to-Be Trends in Artificial Intelligence And Deep Learning",
-      "excerpt": "AI’s major headwind is the cost of the investment, which will skew returns in the short-term. When the turnaround occurs, however, companies who are making the investment can expect to be rewarded disproportionately with a wide performance gap and up to double the cash flow.",
-      "heat": 106,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/bethkindig/2020/01/31/5-soon-t0-be-trends-in-artificial-intelligence-and-deep-learning/",
-      "ampWebUrl": "https://www.forbes.com/sites/bethkindig/2020/01/31/5-soon-t0-be-trends-in-artificial-intelligence-and-deep-learning/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bethkindig/2020/01/31/5-soon-t0-be-trends-in-artificial-intelligence-and-deep-learning/amp/",
-      "publishedDateTime": "2020-01-31T17:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x533/https://specials-images.forbesimg.com/imageserve/5e34ccbef133f400076b5a6a/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 533,
-          "title": "5 Soon-to-Be Trends in Artificial Intelligence And Deep Learning",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Healthcare"
       ]
     }
   ],

@@ -25,6 +25,17 @@ images:
     height: 630
     title: "What recession? Hong Kong start-up sees boon making robots that take body temperatures amid coronavirus pandemic"
 
+related:
+  - title: "Coronavirus: San Francisco start-up helps to track spread of COVID-19 using smart thermometer"
+    excerpt: "Where and when should we send test kits?\" said Singh. RELATED: Coronavirus research: Menlo Park lab using robots, AI to find COVID-19 medication \"Two, to monitor response. When we start seeing the level of fever curve off, the fever clusters stop rising, we start to level off and diminish, that is an indicator that any outbreak is under control.\""
+    publishedDateTime: 2020-03-23T02:03:00Z
+    webUrl: "https://abc7news.com/6040172/"
+    type: article
+    provider:
+      name: ABC7 San Francisco
+      domain: abc7news.com
+    quality: 0
+
 secured: "NTodsuCi8lGMbUoFrEv8W36hRHMEFDIxZW5R3cgXDGnsJ6lFkuXbmeDix5QoqlRi6j9OO+3bXLnPhWFTfmJymtfVAhpTuO7UY51395nzcB9aoxvoVjdf/3NBAAVR8zkVYhkiFMahrTrfhjYi0HBOTbiToyOrGxajvJ9AJa9efXaBlKkwmK8CPwAVwIKVuA37dW19HE8PXV76UwHtAGaH27MXQUogasF0D0sqNuSNWv5biQ0zdNaJXt2Bn+MpgUaWRVlA9XDWY01AqlM70pU4u3JDsNZW0EE+jGRpM+pZa0fVuyWnxyi552WrNeu/0b94;HoLR6h1F8JQF2VkQTUR1Ig=="
 ---
 
