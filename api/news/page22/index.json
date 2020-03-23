@@ -2,6 +2,139 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2020-02-26-struggling-with-fake-ai-heres-how-to-become-a-real-ai-company.md",
+      "title": "Struggling With Fake AI? Here’s How To Become A Real AI Company",
+      "excerpt": "AI companies appear, increasingly, to combine elements of both software and services with gross margins, scaling ... Companies such as Netflix, Uber, Google, Facebook, Apple, Microsoft, Amazon and a suite of growing companies that have tasted the flavour of data, are further accelerating their growth and increasingly drawing huge margins.",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/28/struggling-with-fake-ai-heres-how-to-become-a-real-ai-company/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/28/struggling-with-fake-ai-heres-how-to-become-a-real-ai-company/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/02/28/struggling-with-fake-ai-heres-how-to-become-a-real-ai-company/amp/",
+      "publishedDateTime": "2020-02-26T13:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e56d35e7a00980007345051%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1680%26cropY1%3D0%26cropY2%3D945",
+          "width": 1200,
+          "height": 675,
+          "title": "Struggling With Fake AI? Here’s How To Become A Real AI Company",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-26-integrating-ai-and-hr-where-do-you-start.md",
+      "title": "Integrating AI And HR — Where Do You Start?",
+      "excerpt": "Artificial Intelligence has the potential to profoundly improve an organization’s bottom line, and HR leaders groups are exceptionally positioned to profit from it.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/26/integrating-ai-and-hr---where-do-you-start/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/26/integrating-ai-and-hr---where-do-you-start/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/02/26/integrating-ai-and-hr---where-do-you-start/amp/",
+      "publishedDateTime": "2020-02-26T13:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e56cfbcd378190007f45ea2%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4000%26cropY1%3D371%26cropY2%3D2621",
+          "width": 1199,
+          "height": 675,
+          "title": "Integrating AI And HR — Where Do You Start?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-26-clearview-ais-law-enforcement-client-data-stolen-in-massive-breach.md",
+      "title": "Clearview AI’s law enforcement client data stolen in massive breach",
+      "excerpt": "“Security is Clearview’s top priority.” Tor Eklund, attorney for Clearview AI. Clearview AI, the dubious startup that’s cozied up to the US law enforcement community with its facial recognition software, has managed to crap the metaphorical bed by allowing an intruder to exploit a security flaw and make off with its entire client lis",
+      "heat": 147,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/02/26/clearview-ais-law-enforcement-client-data-stolen-in-massive-breach/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/02/26/clearview-ais-law-enforcement-client-data-stolen-in-massive-breach/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/26/clearview-ais-law-enforcement-client-data-stolen-in-massive-breach/amp/",
+      "publishedDateTime": "2020-02-26T13:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2016/12/police-lights-sirens-796x398.png",
+          "width": 796,
+          "height": 398,
+          "title": "Clearview AI’s law enforcement client data stolen in massive breach",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-26-cartesiam-helps-developers-bring-ai-to-microcontrollers.md",
       "title": "Cartesiam helps developers bring AI to microcontrollers",
       "excerpt": "The new NanoEdge AI Studio is the first IDE specifically designed for enabling machine learning and inferencing on Arm Cortex-M microcontrollers, which power billions of devices already. As Cartesiam GM Marc Dupaquier, who co-founded the company in 2016, told me, the company works very closely with Arm, given that both have a vested interest in ...",
@@ -940,141 +1073,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-26-machine-learning-artificial-intelligence-virtual-reality-and-retailers.md",
-      "title": "Machine Learning, Artificial Intelligence, Virtual Reality And Retailers",
-      "excerpt": "These technologies are very quickly making the transition from novelties to be marveled at to fixtures that will define many of the activities that comprise our daily lives. But how does this translate for retailers?",
-      "heat": 118,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/26/machine-learning-artificial-intelligence-virtual-reality-and-retailers/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/26/machine-learning-artificial-intelligence-virtual-reality-and-retailers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/26/machine-learning-artificial-intelligence-virtual-reality-and-retailers/amp/",
-      "publishedDateTime": "2020-02-26T04:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1034313794/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 474,
-          "title": "Machine Learning, Artificial Intelligence, Virtual Reality And Retailers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-02-26-chinese-hospitals-deploy-ai-to-help-diagnose-covid-19.md",
-      "title": "Chinese Hospitals Deploy AI to Help Diagnose Covid-19",
-      "excerpt": "China’s government has urged development of AI tools for healthcare as part of sweeping national investments in artificial intelligence. China’s relatively lax rules on privacy allow companies such as Infervision to gather medical data to train machine learning algorithms in tasks like reading scans more easily than US or European rivals.",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/chinese-hospitals-deploy-ai-help-diagnose-covid-19/",
-      "ampWebUrl": "https://www.wired.com/story/chinese-hospitals-deploy-ai-help-diagnose-covid-19/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/chinese-hospitals-deploy-ai-help-diagnose-covid-19/amp",
-      "publishedDateTime": "2020-02-26T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5e55c72559e7f20008301071/master/pass/Science_covid19_h_11.02587772.jpg",
-          "width": 2300,
-          "height": 1534,
-          "title": "Chinese Hospitals Deploy AI to Help Diagnose Covid-19",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-26-macadamian-to-host-ai-in-healthcare-webinar-with-microsoft-canadas-national-chief-data-scientist.md",
-      "title": "Macadamian to host AI in Healthcare webinar with Microsoft Canada's National Chief Data Scientist",
-      "excerpt": "GATINEAU, Quebec, Feb. 26, 2020 /PRNewswire/ -- Macadamian, a leading digital and connected healthcare software development consultancy, announced that it will host a webinar with Microsoft Canada titled AI in Healthcare: 5 Things Every Product Owner Should Know.",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/macadamian-to-host-ai-in-healthcare-webinar-with-microsoft-canadas-national-chief-data-scientist-2020-02-26",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-26T03:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Macadamian to host AI in Healthcare webinar with Microsoft Canada's National Chief Data Scientist",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

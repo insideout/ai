@@ -2,6 +2,43 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-03-09-how-aws-nudged-out-ibm-google-microsoft-from-the-cloud-ai-space.md",
+      "title": "How AWS Nudged Out IBM, Google & Microsoft From The Cloud AI Space",
+      "excerpt": "The firm was praised for its wide range of services, including SageMaker AutoPilot, announced late last year, which automatically generates machine-learning models. However, some shortcomings in SageMaker were also addressed in the report. Amazon’s success in the cloud AI space was entirely predictable, where it has been dominating 33.8% of ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://analyticsindiamag.com/how-aws-nudged-out-ibm-google-microsoft-from-the-cloud-ai-space/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-09T04:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://analyticsindiamag.com/wp-content/uploads/2020/03/How-AWS-Nudged-Out-IBM-Google-Microsoft-From-The-Cloud-AI-Space-1024x683.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": "How AWS Nudged Out IBM, Google & Microsoft From The Cloud AI Space",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-09-artificial-intelligence-the-forbidden-fruit-of-the-21st-century.md",
       "title": "Artificial Intelligence: The Forbidden Fruit of the 21st Century",
       "excerpt": "Long before the invention of self-driving cars and robotics, Jews conceived the idea of man-made life. Artificial intelligence (AI) is becoming so advanced now that it is conceivable that machines could not only replace humans for most jobs, but actually develop intelligence higher than that of humans. Machines will be capable of designing ...",
@@ -1087,51 +1124,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-05-deepmind-technique-encourages-ai-players-to-cooperate-in-zero-sum-games.md",
-      "title": "DeepMind technique encourages AI players to cooperate in zero-sum games",
-      "excerpt": "In a preprint paper, DeepMind described a new reinforcement learning technique that models human behavior in a potentially new and powerful way. It could lead to much more capable AI decision ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/05/new-deepmind-technique-encourages-ai-players-to-cooperate-in-zero-sum-games/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/05/new-deepmind-technique-encourages-ai-players-to-cooperate-in-zero-sum-games/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/05/new-deepmind-technique-encourages-ai-players-to-cooperate-in-zero-sum-games/amp/",
-      "publishedDateTime": "2020-03-05T08:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/dims-e1575998404106.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "DeepMind technique encourages AI players to cooperate in zero-sum games",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

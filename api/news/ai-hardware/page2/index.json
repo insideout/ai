@@ -2,6 +2,89 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-03-02-video-how-oneapi-is-revolutionizing-programming.md",
+      "title": "Video: How oneAPI Is Revolutionizing Programming",
+      "excerpt": "In this video, academics and industry experts weigh in on the potential of oneAPI, the new, unified software programming model for CPU, GPU, AI, and FPGA accelerators that delivers high compute performance for emerging specialized workloads across diverse ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://insidehpc.com/2020/03/video-how-oneapi-is-revolutionizing-programming/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-02T09:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "insideHPC",
+        "domain": "insidehpc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://insidehpc.com/wp-content/uploads/2020/02/wong.jpg",
+          "width": 1064,
+          "height": 980,
+          "title": "Video: How oneAPI Is Revolutionizing Programming",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-28-artificial-intelligence-ai-chipset-market-size-share-key-players-growth-drivers-business-opportunities-and-industry-forecast.md",
+      "title": "Artificial Intelligence (AI) Chipset Market Size, Share, Key Players, Growth Drivers, Business Opportunities, and industry Forecast",
+      "excerpt": "Market Highlights Artificial intelligence (AI) chipset are silicon-based chips that are integrated with devices",
+      "heat": 141,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipset-market-size-share-key-players-growth-drivers-business-opportunities-and-industry-forecast-2020-02-28",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-28T01:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence (AI) Chipset Market Size, Share, Key Players, Growth Drivers, Business Opportunities, and industry Forecast",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-02-27-robot-uses-ai-to-personalize-teaching-of-autistic-children.md",
       "title": "Robot uses AI to personalize teaching of autistic children",
       "excerpt": "“AI methods cannot and must not be used as a cheaper substitute for treatment by human doctors,” Alena Buyx, a Professor of Ethics in Medicine and Health Technologies at the Technical University of Munich, said last year. The researchers stress that they want robots to augment human invention rather than replace it. “Human therapists ...",
@@ -1215,91 +1298,6 @@
           "width": 1200,
           "height": 675,
           "title": "China tech giants chip in to combat coronavirus, global events impacted",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-02-10-ai-on-steroids-much-bigger-neural-nets-to-come-with-new-hardware-say-bengio-hinton-and-lecun.md",
-      "title": "AI on steroids: Much bigger neural nets to come with new hardware, say Bengio, Hinton, and LeCun",
-      "excerpt": "Hinton joined his compatriots, Yann LeCun of Facebook and Yoshua Bengio of Canada's MILA institute, fellow deep learning pioneers, in an upstairs meeting room of the Hilton Hotel on the sidelines of the 34th annual conference on AI by the Association for the Advancement of Artificial Intelligence. They spoke for 45 minutes to a small group of ...",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/ai-on-steroids-much-bigger-neural-nets-to-come-with-new-hardware-say-bengio-hinton-lecun/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-on-steroids-much-bigger-neural-nets-to-come-with-new-hardware-say-bengio-hinton-lecun/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-on-steroids-much-bigger-neural-nets-to-come-with-new-hardware-say-bengio-hinton-lecun/",
-      "publishedDateTime": "2020-02-10T12:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/02/10/79d4074f-3054-45ef-97ca-091d778943cd/hinton-bengio-lecun-press-briefing-feb-10th-2020.jpg",
-          "width": 7331,
-          "height": 4887,
-          "title": "AI on steroids: Much bigger neural nets to come with new hardware, say Bengio, Hinton, and LeCun",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Facebook AI",
-        "AI Hardware",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-10-arms-new-cortex-and-ethos-chips-promise-up-to-480x-faster-ai-for-iot-devices.md",
-      "title": "Arm’s new Cortex and Ethos chips promise up to 480x faster AI for IoT devices",
-      "excerpt": "The microcontroller, the Cortex-M55, joins the company’s ubiquitous Cortex-M family of processor designs. Arm said the chip will provide more AI performance than any other product in the series. Cambridge, U.K.-based Arm doesn’t make any chips itself but rather sells blueprints under license to semiconductor manufacturers. The Cortex-M ...",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://siliconangle.com/2020/02/10/arms-new-cortex-m55-ethos-u55-chips-promise-x480-faster-ai-iot-devices/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-10T06:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/02/arm.png",
-          "width": 718,
-          "height": 400,
-          "title": "Arm’s new Cortex and Ethos chips promise up to 480x faster AI for IoT devices",
           "attribution": null
         }
       ],

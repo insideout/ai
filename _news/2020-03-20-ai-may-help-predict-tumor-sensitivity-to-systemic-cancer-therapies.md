@@ -8,7 +8,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20200320/AI-may-help-predict-t
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200320/AI-may-help-predict-tumor-sensitivity-to-systemic-cancer-therapies.aspx"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -24,19 +24,6 @@ images:
     width: 620
     height: 480
     title: "AI may help predict tumor sensitivity to systemic cancer therapies"
-
-related:
-  - title: "AI may help predict responses to non-small cell lung cancer systemic therapies"
-    excerpt: "Using standard-of-care computed tomography (CT) scans in patients with advanced non-small cell lung cancer (NSCLC), researchers utilized artificial intelligence (AI) to train algorithms to predict ... To determine if patients with NSCLC are responding to systemic therapy, radiologists currently quantify changes in tumor size and the appearance ..."
-    publishedDateTime: 2020-03-20T08:01:00Z
-    webUrl: "https://medicalxpress.com/news/2020-03-ai-responses-non-small-cell-lung.html"
-    ampWebUrl: "https://medicalxpress.com/news/2020-03-ai-responses-non-small-cell-lung.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-03-ai-responses-non-small-cell-lung.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 35
 
 secured: "zwUTimPve+/Xv3YAyMwndxlxEFU2x5kN+uWFUkotY8wETgoGnFuB2UxMNQguKcJ86N9Ue5VeMYeXyZSkwdfwpOhmfupiN7Sfeccd9YEeKx/lok8ezJ2AWQ0Kl7GOYyfveCnWDmWZK02diVNib0lEJEeTtEF1B8OU6oIgfKM+vw7ZfRxSPusIdyF3NX9k/WcZLRadh/oqrgqSvglDvYo1aBv9rWEvPkX+r17EkgHsnO++yHWUCD+mDCiqKhrXOyVnovDbO1gAkIjXnd4Jr6YYQgXjKpG0+KlYKeeBeSM9qDXNwf/ot61aqI1zvcSt3lHgbZipnlR7mZcLHM40h3rP2FjGK+xcjJG7tXhJi0/KYJmeEuMAl6aIzCOE0SKEVDN6Zo334aYMxSilm1XTX9ISDLUNYZL5C8GOXPW+De7z6CPbHL9u2l/8EdBGUUg3V/57A18FO4boCUN3JH7l/qgnrQ0jSM1gHiU3LhSARifN/zQ=;PoZquLDH1KQfobuKnYgVCQ=="
 ---

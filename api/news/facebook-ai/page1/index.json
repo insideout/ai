@@ -301,6 +301,43 @@
       ]
     },
     {
+      "path": "_news/2020-03-16-big-tech-swallows-most-of-the-hot-ai-startups.md",
+      "title": "Big Tech Swallows Most of the Hot AI Startups",
+      "excerpt": "An acquisition spree by Apple, Amazon, Facebook, Google and Microsoft eliminated potential rivals and concentrated brain power in this critical field.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-03-16/big-tech-swallows-most-of-the-hot-ai-startups",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-03-16/big-tech-swallows-most-of-the-hot-ai-startups",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-03-16/big-tech-swallows-most-of-the-hot-ai-startups",
+      "publishedDateTime": "2020-03-16T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-16-ai-for-speech-recognition-market.md",
       "title": "AI for Speech Recognition Market",
       "excerpt": "This report provides in-depth study of \"Global AI for Speech Recognition Market 2020\" using SWOT analysis i.e. Strength, Weakness, Opportunities, and Threat to the organization. The AI for Speech Recognition Market report also provides an in-depth survey of key players in the market organization. The most important key factors driving the ...",
@@ -1220,53 +1257,6 @@
         "Microsoft AI",
         "Facebook AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-02-19-facebooks-ai-speeds-up-natural-language-processing-without-additional-training.md",
-      "title": "Facebook’s AI speeds up natural language processing without additional training",
-      "excerpt": "In a recent paper, researchers at Facebook AI Research assert that the first problem — the mapping problem — might be easier than the prediction problem, a hypothesis they build upon to augment language models with a “nearest neighbors” retrieval mechanism. They say it allows rare patterns to be memorized and that it achieves a state-of ...",
-      "heat": 204,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/19/facebooks-ai-speeds-up-natural-language-processing-without-additional-training/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/19/facebooks-ai-speeds-up-natural-language-processing-without-additional-training/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/19/facebooks-ai-speeds-up-natural-language-processing-without-additional-training/amp/",
-      "publishedDateTime": "2020-02-19T14:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Facebook’s AI speeds up natural language processing without additional training",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI",
-        "Natural Language Processing",
-        "AI Hardware"
       ]
     }
   ],

@@ -892,6 +892,43 @@
       ]
     },
     {
+      "path": "_news/2020-03-16-big-tech-swallows-most-of-the-hot-ai-startups.md",
+      "title": "Big Tech Swallows Most of the Hot AI Startups",
+      "excerpt": "An acquisition spree by Apple, Amazon, Facebook, Google and Microsoft eliminated potential rivals and concentrated brain power in this critical field.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-03-16/big-tech-swallows-most-of-the-hot-ai-startups",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-03-16/big-tech-swallows-most-of-the-hot-ai-startups",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-03-16/big-tech-swallows-most-of-the-hot-ai-startups",
+      "publishedDateTime": "2020-03-16T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-16-cognitive-computing-technology-market-by-offering-solutionsservices-technology-deployment-type-applications-forecasts-to-2023.md",
       "title": "Cognitive Computing Technology Market By Offering (Solutions,Services), Technology, Deployment Type, Applications Forecasts To 2023",
       "excerpt": "This report analyzes the global cognitive computing technology market by technology (NLP, machine learning, automated reasoning), deployment (cloud, on-premise), organization size (SME, large enterprise), end-user (BFSI, retail, aerospace & defense); it also studies the top manufacturers in the market. • Microsoft Corporation (U.S ...",
@@ -1061,43 +1098,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-16-of-epidemics-artificial-intelligence-and-responsive-public-policy.md",
-      "title": "Of epidemics, artificial intelligence and responsive public policy",
-      "excerpt": "Black Twitter is breaking the internet with memes, perhaps providing palliative therapy to an otherwise depressing national development ... its deadly tracks – are largely also shaped by viral videos of machines and robots that use artificial intelligence. These machines and robots are disinfecting cities, buildings, public transport ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.dailymaverick.co.za/opinionista/2020-03-16-of-epidemics-artificial-intelligence-and-responsive-public-policy/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-15T23:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Maverick",
-        "domain": "dailymaverick.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.dailymaverick.co.za/wp-content/uploads/busani-ngcaweni-1.jpg",
-          "width": 334,
-          "height": 480,
-          "title": "Of epidemics, artificial intelligence and responsive public policy",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

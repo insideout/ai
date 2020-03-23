@@ -2,6 +2,51 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-03-12-researchers-use-ai-to-translate-text-found-on-ancient-clay-tablets.md",
+      "title": "Researchers use AI to translate text found on ancient clay tablets",
+      "excerpt": "Read: Google now supports five new languages on Translate To build the model, they’re training it on more than 6,000 annotated images from the Persepolis Fortification Archive. This will teach the system to read tablets in the collection that have never been analyzed before. They believe the system could uncover new secrets about Achaemenid ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/03/12/researchers-use-ai-to-translate-text-found-on-ancient-clay-tablets/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/03/12/researchers-use-ai-to-translate-text-found-on-ancient-clay-tablets/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/03/12/researchers-use-ai-to-translate-text-found-on-ancient-clay-tablets/amp/",
+      "publishedDateTime": "2020-03-12T11:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/Untitled-design19-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "Researchers use AI to translate text found on ancient clay tablets",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-12-ai-ethics-principles-are-laid-out-by-dod-for-all-to-see-applies-to-self-driving-cars-too.md",
       "title": "AI Ethics Principles Are Laid Out By DoD For All To See, Applies To Self-Driving Cars Too",
       "excerpt": "AI ethics is a hot trending topic these days. And, so it should be. With the rise of AI systems popping up here and there, and virtually everywhere, there is a rightfully emerging concern that these computer-based systems are being thrown into the world without much thought given to the societal impacts that they can produce.",
@@ -1090,43 +1135,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-11-researchers-criticize-opacity-of-googles-mammogram-reading-ai-study.md",
-      "title": "Researchers criticize opacity of Google's mammogram-reading AI study",
-      "excerpt": "Though a study published Jan. 1 describing the success of Google's DeepMind artificial intelligence at diagnosing breast cancer was largely met with praise and excitement, in a Feb. 28 response, a group of AI researchers criticized the study's lack of transparency. In the initial study, Google researchers found the DeepMind AI produced fewer ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.beckershospitalreview.com/artificial-intelligence/researchers-criticize-opacity-of-google-s-mammogram-reading-ai-study.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-11T11:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Becker's Hospital Review",
-        "domain": "beckershospitalreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/5.jpg",
-          "width": 400,
-          "height": 300,
-          "title": "Researchers criticize opacity of Google's mammogram-reading AI study",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }
