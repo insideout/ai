@@ -274,6 +274,52 @@
       ]
     },
     {
+      "path": "_news/2020-03-19-how-artificial-intelligence-can-help-fight-coronavirus.md",
+      "title": "How Artificial Intelligence Can Help Fight Coronavirus",
+      "excerpt": "Imagine a typical Tuesday morning. You park your car in the nearby Costco’s parking lot. The lot is full, with vehicles parked nose to nose. You wait in a long line, similar to what you would see at Disney on a typical weekend.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/03/19/how-artificial-intelligence-can-help-fight-coronavirus/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/03/19/how-artificial-intelligence-can-help-fight-coronavirus/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/03/19/how-artificial-intelligence-can-help-fight-coronavirus/amp/",
+      "publishedDateTime": "2020-03-19T05:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1140779754%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "How Artificial Intelligence Can Help Fight Coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-03-19-comment-busting-the-myths-of-autonomous-vehicles.md",
       "title": "Comment: Busting the myths of autonomous vehicles",
       "excerpt": "The electric and driverless vehicle offers a vision of the future – but JLR promises it ... taking up less space on the road and allowing traffic to move in a mathematically optimised way. The artificial intelligence behind the vehicles should allow for traffic management; cities with autonomous networks will be able to manage the flow ...",
@@ -1120,35 +1166,6 @@
           "attribution": null
         }
       ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-automated-material-handling-equipment-market-insights-potential-business-strategies-mergers-and-acquisitions-revenue-analysis.md",
-      "title": "Automated Material Handling Equipment Market Insights, Potential Business Strategies, Mergers and Acquisitions, Revenue Analysis",
-      "excerpt": "New York March 10 2020 The scope of the report includes a detailed study of Automated Material Handling Equipment Market with the reasons given for variations in the growth of the industry in certain regions The Automated Material Handling Equipment",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.openpr.com/news/1960887/automated-material-handling-equipment-market-insights",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-10T08:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"

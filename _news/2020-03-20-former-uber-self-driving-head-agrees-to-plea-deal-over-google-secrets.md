@@ -8,7 +8,7 @@ ampWebUrl: "https://www.mercurynews.com/2020/03/19/former-uber-self-driving-head
 cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/03/19/former-uber-self-driving-head-agrees-to-plea-deal-over-google-secrets/amp/"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -26,21 +26,6 @@ images:
     title: "Former Uber self-driving head agrees to plea deal over Google secrets"
 
 related:
-  - title: "Former Uber self-driving head Levandowski agrees to plea deal over Google secrets"
-    excerpt: "Engineer Anthony Levandowski, known for advancing self-driving car technology in the last decade, agreed to plead guilty on Thursday to taking sensitive documents from his former employer Google before joining rival Uber Technologies Inc."
-    publishedDateTime: 2020-03-20T06:39:00Z
-    webUrl: "https://www.reuters.com/article/us-uber-autonomous-levandowski-idUSKBN21646I"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN21646I"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN21646I"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200320&t=2&i=1505635590&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG2I2EP"
-        width: 830
-        height: 545
   - title: "Former Google engineer Levandowski pleads guilty to stealing self-driving secrets"
     excerpt: "One of Silicon Valley’s most renowned self-driving engineers agreed to plead guilty to stealing trade secrets from Google. Anthony Levandowski’s plea agreement with prosecutors, filed March 19 in federal court in San Francisco, comes two weeks after a civil dispute with Google drove him to file for bankruptcy. Google won a US$179 million ..."
     publishedDateTime: 2020-03-22T11:29:00Z

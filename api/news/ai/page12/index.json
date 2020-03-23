@@ -2,6 +2,44 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-03-11-ibm-enhances-watsons-natural-language-understanding-capabilities.md",
+      "title": "IBM enhances Watson’s natural language understanding capabilities",
+      "excerpt": "IBM Corp. said today it has made some big improvements to the natural language processing capabilities of its IBM Watson platform. The new capabilities, which were born out of IBM Research’s Project Debater, will help Watson understand and analyze some of the most challenging aspects of English language with greater clarity than before ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://siliconangle.com/2020/03/11/ibm-enhances-watsons-natural-language-understanding-capabilities/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-10T21:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/03/13623054195_149c8b9839_k.jpg",
+          "width": 2048,
+          "height": 1500,
+          "title": "IBM enhances Watson’s natural language understanding capabilities",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-11-ibm-debater-ai-tech-now-is-a-service-any-customer-can-use.md",
       "title": "IBM Debater AI tech now is a service any customer can use",
       "excerpt": "The AI technology can spot trends in mountains of data like tweets, blog posts and podcasts. In 2018, IBM debuted technology called IBM Debater that used artificial intelligence technology to read lots of documents and take on a human in a competitive debate about issues like whether we should subsidize preschools.",
@@ -724,6 +762,50 @@
       ]
     },
     {
+      "path": "_news/2020-03-10-insurance-ai-startup-synthesized-raises-28m-from-iq-capital-and-mundi-ventures.md",
+      "title": "Insurance AI startup Synthesized raises $2.8M from IQ Capital and Mundi Ventures",
+      "excerpt": "Like many industries, it would like to automate much of this, but it’s just not that simple. Synthesized is a U.K. startup that tries to reduce friction on preparing all the data that’s needed, to enable insurers to share data safely, complying with regulations. The more that happens, the more innovation can happen, such as insuring for a ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/03/10/insurance-ai-startup-synthesized-raises-2-8m-from-iq-capital-and-mundi-ventures/",
+      "ampWebUrl": "https://techcrunch.com/2020/03/10/insurance-ai-startup-synthesized-raises-2-8m-from-iq-capital-and-mundi-ventures/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/03/10/insurance-ai-startup-synthesized-raises-2-8m-from-iq-capital-and-mundi-ventures/amp/",
+      "publishedDateTime": "2020-03-10T09:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/03/Denis-Nicolai.jpg?w=1024",
+          "width": 1024,
+          "height": 642,
+          "title": "Insurance AI startup Synthesized raises $2.8M from IQ Capital and Mundi Ventures",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-10-twilio-rival-messagebird-launches-inbox-an-ai-powered-contact-center.md",
       "title": "Twilio rival MessageBird launches Inbox, an AI-powered contact center",
       "excerpt": "It also leans on AI and automation to anticipate what a customer might be looking for, detect sentiment and intent, translate between languages, and more. Inbox will be available for free to companies with up to five customer service agents and 500 customer contact threads — above that, it will offer customized pricing depending on the number ...",
@@ -1081,80 +1163,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-scientists-linked-artificial-and-biological-neurons-in-a-networkand-amazingly-it-worked.md",
-      "title": "Scientists Linked Artificial and Biological Neurons in a Network—and Amazingly, It Worked",
-      "excerpt": "As Moore’s law is dying, we even said that neuromorphic computing is one path towards the future of extremely powerful, low energy consumption artificial neural network-based computing—in hardware—that could in theory better link up with the brain. Because the chips “speak” the brain’s language, in theory they could become ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://singularityhub.com/2020/03/10/scientists-linked-artificial-and-biological-neurons-in-a-network-and-amazingly-it-worked/",
-      "ampWebUrl": "https://singularityhub.com/2020/03/10/scientists-linked-artificial-and-biological-neurons-in-a-network-and-amazingly-it-worked/amp/",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/03/10/scientists-linked-artificial-and-biological-neurons-in-a-network-and-amazingly-it-worked/amp/",
-      "publishedDateTime": "2020-03-10T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2020/03/neurons-582054_1280.jpg",
-          "width": 1068,
-          "height": 601,
-          "title": "Scientists Linked Artificial and Biological Neurons in a Network—and Amazingly, It Worked",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-machine-learning-could-be-canadas-edge-in-the-global-quantum-computing-arms-race.md",
-      "title": "MACHINE LEARNING COULD BE CANADA’S EDGE IN THE GLOBAL QUANTUM COMPUTING ARMS RACE",
-      "excerpt": "Her work applies machine learning to quantum physics problems ... Recently, 1QBit was listed as Microsoft’s only software partner on Azure Quantum, which aims to bring its cloud computing software to quantum computers and make them mainstream. “It’s about getting the whole ecosystem up and standing and feeding into each other ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://betakit.com/ai-nation-quantum-machine-learning/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-10T06:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BetaKit",
-        "domain": "betakit.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.betakit.com/wp-content/uploads/2020/01/2000Q-Chip_feature-1024x680.jpg",
-          "width": 1024,
-          "height": 680,
-          "title": "MACHINE LEARNING COULD BE CANADA’S EDGE IN THE GLOBAL QUANTUM COMPUTING ARMS RACE",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

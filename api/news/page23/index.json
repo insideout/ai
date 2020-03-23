@@ -2,6 +2,132 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2020-02-26-chinese-facial-recognition-can-now-identify-people-wearing-masks.md",
+      "title": "Chinese facial recognition can now identify people wearing masks",
+      "excerpt": "Chinese companies specialising in facial recognition have upgraded the technology to identify people wearing masks in the wake of the coronavirus outbreak. China's AI champion SenseTime, the most valuable AI startup in the world, is one of several firms ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-8046325/Chinese-facial-recognition-identify-people-wearing-masks.html",
+      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-8046325/amp/Chinese-facial-recognition-identify-people-wearing-masks.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8046325/amp/Chinese-facial-recognition-identify-people-wearing-masks.html",
+      "publishedDateTime": "2020-02-26T03:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mail Online",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2020/02/26/11/25217416-0-image-a-20_1582715621043.jpg",
+          "width": 636,
+          "height": 382,
+          "title": "Chinese facial recognition can now identify people wearing masks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-02-26-nvidia-dlss-in-2020-stunning-results.md",
+      "title": "Nvidia DLSS in 2020: Stunning Results",
+      "excerpt": "This AI algorithm also leveraged a new feature on RTX Turing GPUs: the tensor cores. While these cores are most likely included on the GPU to make it also suitable for data center and workstation use cases, Nvidia found a way to use this hardware feature for gaming. Later, Nvidia decided to ditch the tensor cores for their cheaper Turing GPUs ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techspot.com/article/1992-nvidia-dlss-2020/",
+      "ampWebUrl": "https://www.techspot.com/amp/article/1992-nvidia-dlss-2020/",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/article/1992-nvidia-dlss-2020/",
+      "publishedDateTime": "2020-02-26T03:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.techspot.com/articles-info/1992/images/2020-02-26-image-6.jpg",
+          "width": 3134,
+          "height": 1449,
+          "title": "Nvidia DLSS in 2020: Stunning Results",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-02-26-ai-comes-to-the-tax-code.md",
+      "title": "AI Comes to the Tax Code",
+      "excerpt": "Governments are increasingly relying on machine learning and data analytics to analyze troves of data as they seek to detect tax evasion, respond to taxpayers’ questions and make themselves more efficient.",
+      "heat": 197,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/ai-comes-to-the-tax-code-11582713000",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/ai-comes-to-the-tax-code-11582713000",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-comes-to-the-tax-code-11582713000",
+      "publishedDateTime": "2020-02-26T02:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-157678/social",
+          "width": 1280,
+          "height": 640,
+          "title": "AI Comes to the Tax Code",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-26-government-to-hold-global-summit-on-ai-in-april.md",
       "title": "Government to hold global summit on AI in April",
       "excerpt": "NEW DELHI: The government will hold a global summit on artificial intelligence on 11-12 April to exchange ideas with the industry ... The summit will see participation from major tech companies including Intel, Microsoft and AWS in addition to researchers and scientists from Carnegie Mellon University, Stanford University and Indian Institute ...",
@@ -924,141 +1050,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-02-25-startup-malaise-startup-ambition.md",
-      "title": "Startup malaise, startup ambition",
-      "excerpt": "In spite of a spate of massive startup exits the last few months ... What if we could instantly and easily build best-of-breed AI models to solve even our simplest decision-making problems?",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/02/25/startup-malaise-startup-ambition/",
-      "ampWebUrl": "https://techcrunch.com/2020/02/25/startup-malaise-startup-ambition/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/25/startup-malaise-startup-ambition/amp/",
-      "publishedDateTime": "2020-02-25T09:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-525848841.jpg?w=1024",
-          "width": 1024,
-          "height": 787,
-          "title": "Startup malaise, startup ambition",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-25-the-future-of-ai-journalism-is-less-hyperbole-and-smarter-readers.md",
-      "title": "The future of AI journalism is less hyperbole and smarter readers",
-      "excerpt": "In it, he discusses the 2017 hype-explosion surrounding Facebook’s AI research lab developing a pair of chat bots that created a short-hand language for negotiating. In reality, the chat bots’ behavior was remarkable but not entirely unexpected. Unfortunately the media at-large covered the interesting event as though SKYNET from the ...",
-      "heat": 129,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/02/25/the-future-of-ai-journalism-is-less-hyperbole-and-smarter-readers/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/02/25/the-future-of-ai-journalism-is-less-hyperbole-and-smarter-readers/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/25/the-future-of-ai-journalism-is-less-hyperbole-and-smarter-readers/amp/",
-      "publishedDateTime": "2020-02-25T09:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2017/05/3061093760_b92f06b7ba_o-796x531.jpg",
-          "width": 796,
-          "height": 531,
-          "title": "The future of AI journalism is less hyperbole and smarter readers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-25-save-97-off-this-machine-learning-data-science-certification-training-bundle.md",
-      "title": "Save 97% off this Machine Learning & Data Science Certification Training Bundle",
-      "excerpt": "Master the Most Important Deep Learning Frameworks for Python Data Science Tensorflow Masterclass For Machine Learning and Artificial Intelligence in Python Complete Tensorflow Mastery For Machine Learning & Deep Learning in Python Python Regression Analysis: Statistics & Machine Learning Learn Complete Hands-On Regression Analysis for ...",
-      "heat": 112,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.neowin.net/news/save-97-off-this-machine-learning--data-science-certification-training-bundle",
-      "ampWebUrl": "https://www.neowin.net/amp/save-97-off-this-machine-learning--data-science-certification-training-bundle/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/save-97-off-this-machine-learning--data-science-certification-training-bundle/",
-      "publishedDateTime": "2020-02-25T09:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2019/11/1574762211_1481879523_efa151423bca1f29bdb0870f620e57a112ee9c7b_main_hero_image_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": "Save 97% off this Machine Learning & Data Science Certification Training Bundle",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Google AI"
       ]
     }
   ],

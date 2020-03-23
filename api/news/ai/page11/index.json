@@ -2,6 +2,50 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-03-11-is-inter-company-automation-the-next-frontier-for-ai-a-new-startup-backboneai-says-yes.md",
+      "title": "Is Inter-Company Automation The Next Frontier For AI? A New Startup, BackboneAI, Says Yes.",
+      "excerpt": "BackboneAI is designed to fill the need for automation between companies, a distinct approach from other solutions that focus on AI within a company or between a company and its customers. The startup was founded by Rob Bailey with seed funding of $4.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/micahsolomon/2020/03/10/is-inter-company-automation-the-next-frontier-of-ai-a-new-startup-backboneai-thinks-it-is/",
+      "ampWebUrl": "https://www.forbes.com/sites/micahsolomon/2020/03/10/is-inter-company-automation-the-next-frontier-of-ai-a-new-startup-backboneai-thinks-it-is/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/micahsolomon/2020/03/10/is-inter-company-automation-the-next-frontier-of-ai-a-new-startup-backboneai-thinks-it-is/amp/",
+      "publishedDateTime": "2020-03-11T10:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e41ed80f133f400076c2216%2F0x0.jpg",
+          "width": 612,
+          "height": 1156,
+          "title": "Is Inter-Company Automation The Next Frontier For AI? A New Startup, BackboneAI, Says Yes.",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-11-how-baidu-is-bringing-ai-to-the-fight-against-coronavirus.md",
       "title": "How Baidu is bringing AI to the fight against coronavirus",
       "excerpt": "Apollo, Baidu’s autonomous vehicle platform, partnered with a local self-driving startup called Neolix to deliver supplies and food to the Beijing Haidian Hospital. With daily deliveries, this initiative is helping feed over 100 frontline staff members as they work to treat their growing patient base. Baidu Apollo has also made its low-speed ...",
@@ -1130,44 +1174,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-11-ibm-enhances-watsons-natural-language-understanding-capabilities.md",
-      "title": "IBM enhances Watson’s natural language understanding capabilities",
-      "excerpt": "IBM Corp. said today it has made some big improvements to the natural language processing capabilities of its IBM Watson platform. The new capabilities, which were born out of IBM Research’s Project Debater, will help Watson understand and analyze some of the most challenging aspects of English language with greater clarity than before ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://siliconangle.com/2020/03/11/ibm-enhances-watsons-natural-language-understanding-capabilities/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-10T21:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/03/13623054195_149c8b9839_k.jpg",
-          "width": 2048,
-          "height": 1500,
-          "title": "IBM enhances Watson’s natural language understanding capabilities",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "IBM AI"
       ]
     }
   ],

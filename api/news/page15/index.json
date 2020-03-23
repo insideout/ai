@@ -2,6 +2,88 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-03-10-twilio-rival-messagebird-launches-inbox-an-ai-powered-contact-center.md",
+      "title": "Twilio rival MessageBird launches Inbox, an AI-powered contact center",
+      "excerpt": "It also leans on AI and automation to anticipate what a customer might be looking for, detect sentiment and intent, translate between languages, and more. Inbox will be available for free to companies with up to five customer service agents and 500 customer contact threads — above that, it will offer customized pricing depending on the number ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/10/twilio-rival-messagebird-launches-inbox-an-ai-powered-contact-center/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/10/twilio-rival-messagebird-launches-inbox-an-ai-powered-contact-center/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/10/twilio-rival-messagebird-launches-inbox-an-ai-powered-contact-center/amp/",
+      "publishedDateTime": "2020-03-10T09:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/Inbox-by-MessageBird_Press-Voice.png?fit=1866%2C925&strip=all",
+          "width": 1866,
+          "height": 925,
+          "title": "Twilio rival MessageBird launches Inbox, an AI-powered contact center",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-training-robots-revolutionize-therapy.md",
+      "title": "Training robots revolutionize therapy",
+      "excerpt": "They developed the first prototype in 2007 at the Artificial Intelligence Laboratory at the University of Zurich ... The decisive factor is the training aspect, which was traditionally relegated to a relatively minor role in rehabilitation therapy. If you sit down on the Robotic Personal Trainer, you can expect to be challenged.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.designworldonline.com/training-robots-revolutionize-therapy/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-10T08:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design World Online",
+        "domain": "designworldonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.designworldonline.com/wp-content/uploads/EC45_flat_12W_450-837146ce.jpg",
+          "width": 800,
+          "height": 517,
+          "title": "Training robots revolutionize therapy",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-10-automated-material-handling-equipment-market-insights-potential-business-strategies-mergers-and-acquisitions-revenue-analysis.md",
       "title": "Automated Material Handling Equipment Market Insights, Potential Business Strategies, Mergers and Acquisitions, Revenue Analysis",
       "excerpt": "New York March 10 2020 The scope of the report includes a detailed study of Automated Material Handling Equipment Market with the reasons given for variations in the growth of the industry in certain regions The Automated Material Handling Equipment",
@@ -833,80 +915,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-could-artificial-intelligence-help-tackle-covid-19-outbreak.md",
-      "title": "Could artificial intelligence help tackle COVID-19 outbreak",
-      "excerpt": "There are a lot of other areas where AI is becoming important such as digital or augmented clinical trials that allow capturing patient wearables or medical devices and learning more about the effect of the investigated vaccine or therapy. Please briefly ... a world of data into a world of intelligence. Intelligence, or the results generated ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itp.net/news/91616-could-artificial-intelligence-help-tackle-covid-19-outbreak",
-      "ampWebUrl": "https://www.itp.net/news/91616-could-artificial-intelligence-help-tackle-covid-19-outbreak?amp",
-      "cdnAmpWebUrl": "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/news/91616-could-artificial-intelligence-help-tackle-covid-19-outbreak?amp",
-      "publishedDateTime": "2020-03-09T23:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GDPR fines",
-        "domain": "itp.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.itp.net/sites/default/files/itpdotnet/images/2020/03/10/Lambrecht_Mark-SM4_0547.jpg",
-          "width": 2100,
-          "height": 1342,
-          "title": "Could artificial intelligence help tackle COVID-19 outbreak",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-ai-education-and-ethics-who-should-profit-from-learning.md",
-      "title": "AI, education and ethics: who should profit from learning?",
-      "excerpt": "“AI will be introduced into classrooms, introduced into education ... “It is challenging to implement this,” Mr Minevich adds. “It comes down to privacy and ethics.” According to Mr Riese of Up Learn, constant data collection would represent an improvement on the current means of assessing students, by drawing on hundreds of hours ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.ft.com/content/8d79405c-02ba-11e9-bf0f-53b8511afd73",
-      "ampWebUrl": "https://amp.ft.com/content/8d79405c-02ba-11e9-bf0f-53b8511afd73",
-      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/8d79405c-02ba-11e9-bf0f-53b8511afd73",
-      "publishedDateTime": "2020-03-09T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2Fb20e8b5e-5ef6-11ea-ac5e-df00963c20e6?source=google-amp&fit=scale-down&width=500",
-          "width": 500,
-          "height": 281,
-          "title": "AI, education and ethics: who should profit from learning?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

@@ -2,6 +2,109 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-03-05-goodyear-concept-ev-tire-can-regrow-tread.md",
+      "title": "Goodyear concept EV tire can regrow tread",
+      "excerpt": "\"Thanks to artificial intelligence a driver profile would be ... more than the 259-mile range for the 2020 Chevrolet Bolt. Waymo raises $2.25 billion in first external funding round In a ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.autonews.com/mobility-report-newsletter/goodyear-concept-ev-tire-can-regrow-tread",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-05T08:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automotive News",
+        "domain": "autonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s3-prod.autonews.com/s3fs-public/styles/width_792/public/GMEVDay02-main_i.jpg",
+          "width": 792,
+          "height": 526,
+          "title": "Goodyear concept EV tire can regrow tread",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-05-mission-now-providing-smbs-with-managed-data-analytics-platform-for-aws.md",
+      "title": "Mission Now Providing SMBs with Managed Data & Analytics Platform for AWS",
+      "excerpt": "Amorphic unifies data, users and analytics across AWS data warehousing, machine learning and artificial intelligence services, with no high-risk development or operational support required.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.globenewswire.com/news-release/2020/03/05/1995886/0/en/Mission-Now-Providing-SMBs-with-Managed-Data-Analytics-Platform-for-AWS.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-05T06:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GlobeNewswire",
+        "domain": "globenewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-05-aible-is-recognized-as-a-visionary-in-the-gartner-magic-quadrant-2020.md",
+      "title": "Aible is Recognized as a Visionary in the Gartner Magic Quadrant 2020",
+      "excerpt": "It assesses vendors with offerings in three key service areas: language, vision and automated machine learning (AutoML).” The Gartner Magic Quadrant places Aible in its “Visionaries” quadrant. Gartner says, “Visionaries are likely to excel in AutoML, as this segment is viewed as the most important for application leaders and development ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businesswire.com/news/home/20200305005262/en/Aible-Recognized-Visionary-Gartner-Magic-Quadrant-2020",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-05T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200305005262/en/777778/23/Aible.logo.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": "Aible is Recognized as a Visionary in the Gartner Magic Quadrant 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-05-using-a-robotic-arm-on-wheels-to-fight-coronavirus.md",
       "title": "Using a robotic 'arm on wheels' to fight coronavirus",
       "excerpt": "Using a robotic 'arm on wheels' to fight coronavirus Posted Researchers in China have developed a robot which they hope will help doctors who are working with coronavirus patients on the frontlines.",
@@ -1055,140 +1158,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-01-amazon-microsoft-and-ibm-are-under-pressure-to-follow-google-and-drop-gender-labels-like-man-and-woman-from-their-ai.md",
-      "title": "Amazon, Microsoft, and IBM are under pressure to follow Google and drop gender labels like 'man' and 'woman' from their AI",
-      "excerpt": "Now the AI researchers who helped bring about the change say Amazon's Rekognition, IBM's Watson, and Microsoft's Azure facial recognition should follow suit. Joy Buolamwini, a computer scientist ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/microsoft-ibm-amazon-pressure-gender-labels-ai-tools-2020-2",
-      "ampWebUrl": "https://www.businessinsider.com/microsoft-ibm-amazon-pressure-gender-labels-ai-tools-2020-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/microsoft-ibm-amazon-pressure-gender-labels-ai-tools-2020-2?amp",
-      "publishedDateTime": "2020-02-29T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5e592f43fee23d4f40526c86?width=1200&format=jpeg",
-          "width": 1028,
-          "height": 514,
-          "title": "Amazon, Microsoft, and IBM are under pressure to follow Google and drop gender labels like 'man' and 'woman' from their AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-29-ai-based-software-is-being-used-to-diagnose-coronavirus.md",
-      "title": "AI-based software is being used to diagnose coronavirus",
-      "excerpt": "After BlueDot's AI epidemiologist was one of the first to signal the outbreak of the coronavirus (Covid 19), another AI-based software developed by a Beijing-based startup Infervision, is now helping physicians diagnose it in Wuhan. The software, developed in collaboration with Wuhan Tongji Hospital, helps detect typical and partial symptoms of ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.neowin.net/news/ai-based-software-is-being-used-to-diagnose-coronavirus",
-      "ampWebUrl": "https://www.neowin.net/amp/ai-based-software-is-being-used-to-diagnose-coronavirus/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/ai-based-software-is-being-used-to-diagnose-coronavirus/",
-      "publishedDateTime": "2020-02-28T21:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/02/1581340066_1024px-2019-ncov-cdc-23312_without_background_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": "AI-based software is being used to diagnose coronavirus",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-29-lyft-ramps-up-self-driving-program.md",
-      "title": "Lyft ramps up self-driving program",
-      "excerpt": "The report is the latest sign that Lyft is trying to ramp up its self-driving vehicle program known as Level 5. The CA DMV, the agency that regulates autonomous vehicle testing on public roads in the state, requires companies to submit an annual report that includes data such as total AV miles driven and number of vehicles. It also requires ...",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/02/28/lyft-ramps-up-self-driving-program/",
-      "ampWebUrl": "https://techcrunch.com/2020/02/28/lyft-ramps-up-self-driving-program/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/28/lyft-ramps-up-self-driving-program/amp/",
-      "publishedDateTime": "2020-02-28T16:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/02/lyft-suburban.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": "Lyft ramps up self-driving program",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

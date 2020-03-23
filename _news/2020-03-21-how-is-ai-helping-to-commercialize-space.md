@@ -3,7 +3,7 @@ category: news
 title: "How Is AI Helping To Commercialize Space?"
 excerpt: "Artificial intelligence is working to make space commercialization a possibility and to make space a safe environment in which to operate. The various benefits of AI in space all work together to enable further venturing into the unknown."
 publishedDateTime: 2020-03-21T18:48:00Z
-webUrl: "https://www.forbes.com/sites/cognitiveworld/2020/03/21/how-is-ai-helping-to-commercialize-space"
+webUrl: "https://www.forbes.com/sites/cognitiveworld/2020/03/21/how-is-ai-helping-to-commercialize-space/"
 ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2020/03/21/how-is-ai-helping-to-commercialize-space/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/03/21/how-is-ai-helping-to-commercialize-space/amp/"
 type: article
@@ -29,6 +29,6 @@ images:
     height: 769
     title: "How Is AI Helping To Commercialize Space?"
 
-secured: "d/HVv+f0c/tgJv6wlUkuUcQtIMn53RtnmFN1yM1LLZOYQJRvjWtIi/fIDDaMpCrm10N2IOteXULVcXley7uN6qpHRNbPem5Y36DiTQHm29lX3JQ0D+PqR2ZyYyCMsytViIKTqm+JZWWTKu81XcLLK2MWKKiVGTmwcKX89dPZT16lBBQkBKdxsIl0w/R5ks1bOZqjwSkFddS+5Ecxu1QSuj8vFvrveBhHN6IDqp5J6AxK5M6wVbur7iywiNOaUbVJwODxQMBM3r+8ki/FQlekwZoK6HNLLgarKTeu+FOzdVEgc6FoKS4NlLCiCouTwIx8;t0Hm6LRKubBdBHfZXuxh4w=="
+secured: "qqt8NLZW0GwrSrTrHgyaHY4jVVmrnUMM5kh8qNoK9PfFjmrqqvrGa3wuz/W0gC8QoHzBrP7PTxJ116ModjRutJaH+k1qb06jxWVFWmmZUvtFGeuLuR76TFz/VJeVUt0uF1ty9yCAvHk473dk8bgFASW5mclsdhxlfN8hzDiEbWiqqHWlKabTBIxdPM9ioiWZzEk0oK7CmNElzUFDVYOeRGlSI1XZ7g9Mj3W3cFfg1egR2i99lplSn710sLQlAQJk+q+jYlNnr7Rv7wY1+Z0UoRyKbWRXABtQ+pDvObWCITs1vqRc0nInTc8f8H9h+zBr;Xx/i0piqMffDK+EsZ/KkyA=="
 ---
 

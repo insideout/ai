@@ -2,6 +2,43 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-03-11-detecting-money-laundering-networks-using-h2o-driverless-ai.md",
+      "title": "Detecting Money Laundering Networks Using H2O Driverless AI",
+      "excerpt": "Artificial Intelligence has evolved from being a buzz word to a reality today ... and automatically reinforce the AI model’s understanding to avoid patterns that don’t lead to laundered money. H2O Driverless AI is an Award-winning Automatic Machine Learning Platform that empowers data scientists to work on projects faster and more ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.datanami.com/2020/03/10/detecting-money-laundering-networks-using-h2o-driverless-ai/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-10T23:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "datanami.com",
+        "domain": "datanami.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/driverlessAI.png",
+          "width": 1021,
+          "height": 453,
+          "title": "Detecting Money Laundering Networks Using H2O Driverless AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-11-ibm-advances-watsons-ability-to-understand-the-language-of-business.md",
       "title": "IBM Advances Watson's Ability to Understand the Language of Business",
       "excerpt": "KPMG, a multinational professional services network, and one of the Big Four accounting organizations, worked with IBM to create an AI solution based on a variety of Watson services, including ...",
@@ -935,23 +972,23 @@
       ]
     },
     {
-      "path": "_news/2020-03-10-twilio-rival-messagebird-launches-inbox-an-ai-powered-contact-center.md",
-      "title": "Twilio rival MessageBird launches Inbox, an AI-powered contact center",
-      "excerpt": "It also leans on AI and automation to anticipate what a customer might be looking for, detect sentiment and intent, translate between languages, and more. Inbox will be available for free to companies with up to five customer service agents and 500 customer contact threads — above that, it will offer customized pricing depending on the number ...",
+      "path": "_news/2020-03-10-insurance-ai-startup-synthesized-raises-28m-from-iq-capital-and-mundi-ventures.md",
+      "title": "Insurance AI startup Synthesized raises $2.8M from IQ Capital and Mundi Ventures",
+      "excerpt": "Like many industries, it would like to automate much of this, but it’s just not that simple. Synthesized is a U.K. startup that tries to reduce friction on preparing all the data that’s needed, to enable insurers to share data safely, complying with regulations. The more that happens, the more innovation can happen, such as insuring for a ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/10/twilio-rival-messagebird-launches-inbox-an-ai-powered-contact-center/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/10/twilio-rival-messagebird-launches-inbox-an-ai-powered-contact-center/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/10/twilio-rival-messagebird-launches-inbox-an-ai-powered-contact-center/amp/",
-      "publishedDateTime": "2020-03-10T09:04:00-07:00",
+      "webUrl": "https://techcrunch.com/2020/03/10/insurance-ai-startup-synthesized-raises-2-8m-from-iq-capital-and-mundi-ventures/",
+      "ampWebUrl": "https://techcrunch.com/2020/03/10/insurance-ai-startup-synthesized-raises-2-8m-from-iq-capital-and-mundi-ventures/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/03/10/insurance-ai-startup-synthesized-raises-2-8m-from-iq-capital-and-mundi-ventures/amp/",
+      "publishedDateTime": "2020-03-10T09:06:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
         "images": [
           {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -963,10 +1000,10 @@
       },
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/Inbox-by-MessageBird_Press-Voice.png?fit=1866%2C925&strip=all",
-          "width": 1866,
-          "height": 925,
-          "title": "Twilio rival MessageBird launches Inbox, an AI-powered contact center",
+          "url": "https://techcrunch.com/wp-content/uploads/2020/03/Denis-Nicolai.jpg?w=1024",
+          "width": 1024,
+          "height": 642,
+          "title": "Insurance AI startup Synthesized raises $2.8M from IQ Capital and Mundi Ventures",
           "attribution": null
         }
       ],
@@ -975,44 +1012,6 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-training-robots-revolutionize-therapy.md",
-      "title": "Training robots revolutionize therapy",
-      "excerpt": "They developed the first prototype in 2007 at the Artificial Intelligence Laboratory at the University of Zurich ... The decisive factor is the training aspect, which was traditionally relegated to a relatively minor role in rehabilitation therapy. If you sit down on the Robotic Personal Trainer, you can expect to be challenged.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.designworldonline.com/training-robots-revolutionize-therapy/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-10T08:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design World Online",
-        "domain": "designworldonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.designworldonline.com/wp-content/uploads/EC45_flat_12W_450-837146ce.jpg",
-          "width": 800,
-          "height": 517,
-          "title": "Training robots revolutionize therapy",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

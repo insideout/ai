@@ -96,7 +96,7 @@
       "heat": 89,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/03/21/how-is-ai-helping-to-commercialize-space",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/03/21/how-is-ai-helping-to-commercialize-space/",
       "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/03/21/how-is-ai-helping-to-commercialize-space/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/03/21/how-is-ai-helping-to-commercialize-space/amp/",
       "publishedDateTime": "2020-03-21T11:48:00-07:00",
@@ -183,7 +183,7 @@
       "path": "_news/2020-03-21-artificial-intelligence-system-aimed-at-preventing-drownings.md",
       "title": "Artificial Intelligence System Aimed at Preventing Drownings",
       "excerpt": "The device resembles a stingray, except it doesn’t patrol the water in search of prey -- rather than threaten humans, it aims to save them.",
-      "heat": 82,
+      "heat": 84,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.usnews.com/news/best-states/pennsylvania/articles/2020-03-21/artificial-intelligence-system-aimed-at-preventing-drownings",
@@ -212,7 +212,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -750,6 +751,50 @@
       ]
     },
     {
+      "path": "_news/2020-03-20-ais-effect-on-productivity-now-and-in-the-future.md",
+      "title": "AI's Effect On Productivity Now And In The Future",
+      "excerpt": "Artificial intelligence is one of the hottest topics in the business world, and speculations about its potential effects abound. Professional services giant PwC claims AI could add nearly $16 trillion to the world economy by 2030.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/20/ais-effect-on-productivity-now-and-in-the-future/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/20/ais-effect-on-productivity-now-and-in-the-future/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/03/20/ais-effect-on-productivity-now-and-in-the-future/amp/",
+      "publishedDateTime": "2020-03-20T05:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F03%2Fa-36.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "AI's Effect On Productivity Now And In The Future",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-20-understanding-the-limits-of-convolutional-neural-networks-one-of-ais-greatest-achievements.md",
       "title": "Understanding the limits of convolutional neural networks — one of AI’s greatest achievements",
       "excerpt": "After a prolonged winter, artificial intelligence is experiencing a scorching summer mainly thanks to advances in deep learning and artificial neural networks. To be more precise, the renewed interest in deep learning is largely due to the success of convolutional neural networks (CNNs), a neural network structure that is especially good at ...",
@@ -1037,50 +1082,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-ibms-starnet-brings-explainable-ai-to-image-classification.md",
-      "title": "IBM’s StarNet brings explainable AI to image classification",
-      "excerpt": "By extension, it could cut down on deployment time for AI projects involving classifiers, which surveys show ranges between 8 and 90 days. StarNet consists of a few-shot classifier module attached to an extractor, both of which are trained in a meta-learning fashion where episodes are randomly sampled from classes. Each episode comprises ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/19/ibm-starnet-explainable-image-classification/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/19/ibm-starnet-explainable-image-classification/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/19/ibm-starnet-explainable-image-classification/amp/",
-      "publishedDateTime": "2020-03-19T12:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/ibm-keyboard-logo.png?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "IBM’s StarNet brings explainable AI to image classification",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

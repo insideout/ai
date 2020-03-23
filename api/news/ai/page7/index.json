@@ -2,6 +2,43 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-03-17-artificial-intelligence-how-to-switch-career-into-ai-in-2020.md",
+      "title": "Artificial Intelligence – How to Switch Career into AI in 2020",
+      "excerpt": "Artificial Intelligence, a division of computer science empowers on creating smart machines that are highly specialized and share common traits with a human brain. In other words, we are developing machines that can think and work like humans. Ranging from speech recognition, facial identification, robotics surgery to the self-driving cars ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://yourstory.com/mystory/artificial-intelligence-switch-career-2020",
+      "ampWebUrl": "https://yourstory.com/mystory/artificial-intelligence-switch-career-2020/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/mystory/artificial-intelligence-switch-career-2020/amp",
+      "publishedDateTime": "2020-03-16T18:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/users/e1d73f90-14f3-11ea-be83-85120a427c93/profile_image_1575284828775.png",
+          "width": 512,
+          "height": 512,
+          "title": "Artificial Intelligence – How to Switch Career into AI in 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-17-society-50-japans-lofty-plans-face-hurdles.md",
       "title": "Society 5.0: Japan’s lofty plans face hurdles",
       "excerpt": "Carbon emissions are cut by driverless vehicles choosing the shortest route home. Robots take care of the elderly, using body sensors to flag up if additional human help is needed. Artificial intelligence (AI) will sift your online history and health records to build you the perfect itinerary for a city break, for example, tailored just so to ...",
@@ -1061,35 +1098,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-16-behringer-deepmind-6-polyphonic-analog-synthesizer-cable-kit.md",
-      "title": "Behringer DeepMind 6 Polyphonic Analog Synthesizer CABLE KIT",
-      "excerpt": "***Please note, many of the products we sell are shipped in the manufacturer box. These boxes will often have images, model numbers, and other text that indicate the contents inside. UPS Ground Shipping Most orders are shipped within 1 business day via UPS ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://reverb.com/item/13643979-behringer-deepmind-6-polyphonic-analog-synthesizer-cable-kit",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-15T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reverb.com",
-        "domain": "reverb.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

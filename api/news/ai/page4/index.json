@@ -2,6 +2,43 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-03-18-precision-medicine-pushes-demand-for-hpc-at-the-edge-ai-on-the-fly-delivers.md",
+      "title": "Precision Medicine pushes demand for HPC at the Edge: AI on the Fly ® Delivers",
+      "excerpt": "Parabricks, a company recently acquired by NVIDIA, has changed the paradigm and developed a GPU based solution that executes genomic analysis best practices ... generation of highly intelligent medical devices ready for field deployment. In fact, its AI on the Fly ® platforms and building blocks are being used by OEMs to build and deliver ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://insidehpc.com/2020/03/precision-medicine-pushes-demand-for-high-performance-computing-at-the-edge-ai-on-the-fly-delivers/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-18T08:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "insideHPC",
+        "domain": "insidehpc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://insidehpc.com/wp-content/uploads/2019/12/vaccine-300x300.jpg",
+          "width": 300,
+          "height": 300,
+          "title": "Precision Medicine pushes demand for HPC at the Edge: AI on the Fly ® Delivers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-18-intel-debuts-pohoiki-springs-a-powerful-neuromorphic-research-system-for-ai-workloads.md",
       "title": "Intel debuts Pohoiki Springs, a powerful neuromorphic research system for AI workloads",
       "excerpt": "Just this week, Intel demonstrated that the chips can be used to “teach” an AI model to distinguish among 10 different scents. “Pohoiki Springs enables our research partners to explore ways to accelerate workloads that run slowly today on conventional architectures, including high-performance computing systems,” said Intel neuromorphic ...",
@@ -775,27 +812,27 @@
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/oneconnect-joins-idc-s-financial-insights-fintech-fast-101-list-of-leading-fintech-companies-in-asia-1029007485",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/oneconnect-joins-idc-s-financial-insights-fintech-fast-101-list-of-leading-fintech-companies-in-asia-1029007485",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/oneconnect-joins-idc-s-financial-insights-fintech-fast-101-list-of-leading-fintech-companies-in-asia-1029007485",
+      "webUrl": "https://www.businesswire.com/news/home/20200318005262/en/OneConnect-Joins-IDC’s-Financial-Insights’-FinTech-Fast",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-03-18T03:16:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
-      "images": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200318005262/en/780435/23/IDC.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": "OneConnect Joins IDC’s Financial Insights’ FinTech Fast 101 List of Leading FinTech Companies in Asia",
+          "attribution": null
+        }
+      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -1159,51 +1196,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-researchers-encouraged-to-use-artificial-intelligence-to-analyze-coronavirus.md",
-      "title": "Researchers Encouraged to Use Artificial Intelligence to Analyze Coronavirus",
-      "excerpt": "COVID-19 researchers are expected to begin using artificial intelligence (AI) and machine learning to data-mine new ... using this technology to sort through the scholarly data on the topic using a newly created database. Major healthcare organizations would like a better understanding of how COVID-19 originated and how it spreads to better ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/03/17/researchers-encouraged-to-use-artificial-intellige.aspx?source=eptcnnlnk0000002",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/03/17/researchers-encouraged-to-use-artificial-intellige.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/03/17/researchers-encouraged-to-use-artificial-intellige.aspx",
-      "publishedDateTime": "2020-03-17T19:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F564002%2Fgettyimages-1160995648.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 900,
-          "title": "Researchers Encouraged to Use Artificial Intelligence to Analyze Coronavirus",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

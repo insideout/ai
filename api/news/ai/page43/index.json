@@ -2,6 +2,116 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2020-01-30-peta-demands-groundhog-days-punxsutawney-phil-be-replaced-by-ai-robot.md",
+      "title": "PETA Demands Groundhog Day's Punxsutawney Phil Be Replaced by AI Robot",
+      "excerpt": "The organization suggests \"an animatronic groundhog with artificial intelligence\" to predict the end of winter. PETA is calling for Punxsutawney Phil to be retired and replaced by a robot ahead of Groundhogs Day on Sunday. The animal rights organization wrote a letter to the Punxsutawney Groundhog Club urging the the small town in Pennsylvania ...",
+      "heat": 154,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://toofab.com/2020/01/30/peta-demands-groundhog-days-punxsutawney-phil-be-replaced-by-ai-robot/",
+      "ampWebUrl": "https://amp.toofab.com/2020/01/30/peta-demands-groundhog-days-punxsutawney-phil-be-replaced-by-ai-robot/",
+      "cdnAmpWebUrl": "https://amp-toofab-com.cdn.ampproject.org/c/s/amp.toofab.com/2020/01/30/peta-demands-groundhog-days-punxsutawney-phil-be-replaced-by-ai-robot/",
+      "publishedDateTime": "2020-01-30T08:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TooFab",
+        "domain": "toofab.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://toofab.akamaized.net/2020/01/30/groundhog-day-main-getty-1200x630.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "PETA Demands Groundhog Day's Punxsutawney Phil Be Replaced by AI Robot",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-01-30-drug-designed-by-ai-to-enter-human-trials-for-first-time.md",
+      "title": "Drug designed by AI to enter human trials for first time",
+      "excerpt": "Exscientia's system automatically analyses patients' genetic data and finds molecules that could be used in new medication Credit: Andriy Onufriyenko The first drug designed entirely using artificial intelligence is entering clinical human trials ... Rock Health for The Financial Times earlier this month suggested that AI, machine learning ...",
+      "heat": 207,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.telegraph.co.uk/technology/2020/01/30/drug-designed-ai-enter-human-trials-first-time/",
+      "ampWebUrl": "https://www.telegraph.co.uk/technology/2020/01/30/drug-designed-ai-enter-human-trials-first-time/amp/",
+      "cdnAmpWebUrl": "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/01/30/drug-designed-ai-enter-human-trials-first-time/amp/",
+      "publishedDateTime": "2020-01-30T08:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Telegraph",
+        "domain": "telegraph.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.telegraph.co.uk/content/dam/technology/Spark/facebook/artificial-intelligence_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg",
+          "width": 1960,
+          "height": 1225,
+          "title": "Drug designed by AI to enter human trials for first time",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-30-lawmakers-debate-whether-to-limit-how-law-enforcement-uses-facial-recognition-technology.md",
+      "title": "Lawmakers debate whether to limit how law enforcement uses facial recognition technology",
+      "excerpt": "ST. PAUL, Minn. (FOX 9) - Minnesota lawmakers will debate Thursday whether to limit how law enforcement uses facial recognition technology. Police are already using facial recognition to scan mug shots and even security footage for suspects, but it is also causing concerns over digital privacy. A Senate committee is holding a hearing ...",
+      "heat": 100,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fox9.com/news/lawmakers-debate-whether-to-limit-how-law-enforcement-uses-facial-recognition-technology",
+      "ampWebUrl": "https://www.fox9.com/news/lawmakers-debate-whether-to-limit-how-law-enforcement-uses-facial-recognition-technology.amp",
+      "cdnAmpWebUrl": "https://www-fox9-com.cdn.ampproject.org/c/s/www.fox9.com/news/lawmakers-debate-whether-to-limit-how-law-enforcement-uses-facial-recognition-technology.amp",
+      "publishedDateTime": "2020-01-30T08:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox 9",
+        "domain": "fox9.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2020/01/932/470/facial-recognition-technology.jpg?ve=1&tl=1",
+          "width": 932,
+          "height": 470,
+          "title": "Lawmakers debate whether to limit how law enforcement uses facial recognition technology",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-01-30-alphabet-earnings-might-google-make-a-fourth-quarter-comeback.md",
       "title": "Alphabet Earnings: Might Google Make A Fourth Quarter Comeback?",
       "excerpt": "Key Takeaways:Third-party analyst consensus sees quarterly adjusted earnings of $12.55 per share on revenue of $46.93 billion.",
@@ -1152,141 +1262,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-01-29-facial-recognition-scanners-at-us-airports-under-scrutiny-as-philadelphia-launches-pilot-program.md",
-      "title": "Facial recognition scanners at US airports under scrutiny as Philadelphia launches pilot program",
-      "excerpt": "PHILADELPHIA – A growing number of airports across the U.S. are using facial recognition scanners. Philadelphia International Airport (PHL) is the latest to roll out the technology. “So, this is an electronic way, basically, to verify identity,” said Jeni Best, a branch manager with U.S. Customs and Border Protection (CBP). At PHL ...",
-      "heat": 111,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.foxnews.com/tech/facial-recognition-machines-airports-under-scrutiny",
-      "ampWebUrl": "https://www.foxnews.com/tech/facial-recognition-machines-airports-under-scrutiny.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/facial-recognition-machines-airports-under-scrutiny.amp",
-      "publishedDateTime": "2020-01-29T14:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media2.foxnews.com/BrightCove/694940094001/2020/01/29/694940094001_6127916599001_6127918301001-vs.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Facial recognition scanners at US airports under scrutiny as Philadelphia launches pilot program",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-01-29-waymo-and-ups-team-to-deliver-packages-with-self-driving-vans.md",
-      "title": "Waymo and UPS team to deliver packages with self-driving vans",
-      "excerpt": "Autonomous car company Waymo has announced a new partnership with the delivery company UPS. This is said to be ‘a first-of-its-kind deal’ involving Waymo Driver, the company’s self-driving car tech. As part of this deal, Waymo Driver will help UPS deliver packages in Chrysler Pacifica vans, though the deliveries will be limited to just ...",
-      "heat": 269,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.slashgear.com/waymo-and-ups-team-to-deliver-packages-with-self-driving-vans-29608052/",
-      "ampWebUrl": "https://www.slashgear.com/waymo-and-ups-team-to-deliver-packages-with-self-driving-vans-29608052/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/waymo-and-ups-team-to-deliver-packages-with-self-driving-vans-29608052/amp/",
-      "publishedDateTime": "2020-01-29T14:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://scdn.slashgear.com/wp-content/uploads/2020/01/waymo_ups_main.jpg",
-          "width": 1422,
-          "height": 800,
-          "title": "Waymo and UPS team to deliver packages with self-driving vans",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-01-29-underwater-robot-autonomously-gathers-seabed-samples.md",
-      "title": "Underwater robot autonomously gathers seabed samples",
-      "excerpt": "That's why researchers have now enabled one to autonomously gather samples from the ocean floor. Led by associate scientist Rich Camilli, a team at Woods Hole Oceanographic Institution (WHOI) recently developed artificial intelligence-based automated planning software that's designed to work with ROVs. Last month, that technology was put to use ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://newatlas.com/marine/underwater-robot-autonomous-samples/",
-      "ampWebUrl": "https://newatlas.com/marine/underwater-robot-autonomous-samples/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/marine/underwater-robot-autonomous-samples/?amp=true",
-      "publishedDateTime": "2020-01-29T14:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/e96142e/2147483647/strip/true/crop/5995x4000+3+0/resize/1160x774!/quality/90/?url=https%3A%2F%2Fassets.newatlas.com%2F7b%2F17%2F8c16daaf43d4a75daf3621615d66%2Fdsc-0144.jpeg",
-          "width": 1160,
-          "height": 774,
-          "title": "Underwater robot autonomously gathers seabed samples",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

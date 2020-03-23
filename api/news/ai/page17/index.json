@@ -2,6 +2,140 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-02-28-ai-stats-news-consumers-have-very-mixed-attitudes-about-data-privacy.md",
+      "title": "AI Stats News: Consumers Have Very Mixed Attitudes About Data Privacy",
+      "excerpt": "Recent surveys of the progress and impact of AI highlight the confusion and contradictory attitudes of consumers about the privacy of their data, the impact of AI on jobs, and the race for AI supremacy.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/gilpress/2020/02/27/ai-stats-news-consumers-have-very-mixed-attitudes-about-data-privacy/",
+      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2020/02/27/ai-stats-news-consumers-have-very-mixed-attitudes-about-data-privacy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2020/02/27/ai-stats-news-consumers-have-very-mixed-attitudes-about-data-privacy/amp/",
+      "publishedDateTime": "2020-02-27T20:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F844039488%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "AI Stats News: Consumers Have Very Mixed Attitudes About Data Privacy",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-28-we-found-clearview-ais-shady-face-recognition-app.md",
+      "title": "We Found Clearview AI's Shady Face Recognition App",
+      "excerpt": "A face recognition app used by thousands of law enforcement agencies, which has drawn considerable scrutiny in past weeks over its creator’s dubious data collection methods, contains code hinting at an unreported range of potential features, based on a version of the app discovered by Gizmodo. Reporters were able to download the most recent ...",
+      "heat": 504,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://gizmodo.com/we-found-clearview-ais-shady-face-recognition-app-1841961772?rev=1582861547126",
+      "ampWebUrl": "https://gizmodo.com/we-found-clearview-ais-shady-face-recognition-app-1841961772/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/we-found-clearview-ais-shady-face-recognition-app-1841961772/amp",
+      "publishedDateTime": "2020-02-27T19:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/s--JQ99mafj--/c_scale,f_auto,fl_progressive,q_80,w_800/wsdk7maoovzoxtowgnhs.jpg",
+          "width": 800,
+          "height": 450,
+          "title": "We Found Clearview AI's Shady Face Recognition App",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-02-28-samsung-galaxy-note10-update-improves-face-recognition-and-full-screen-gestures.md",
+      "title": "Samsung Galaxy Note10 update improves face recognition and full-screen gestures",
+      "excerpt": "The company is rolling out a new software update for the Galaxy Note10 series carrying the version number N97xFXXU2BTB5 that improves face recognition and full-screen navigation gestures on it. Despite improving full-screen navigation gestures though ...",
+      "heat": 95,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.neowin.net/news/samsung-galaxy-note10-update-improves-face-recognition-and-full-screen-gestures",
+      "ampWebUrl": "https://www.neowin.net/amp/samsung-galaxy-note10-update-improves-face-recognition-and-full-screen-gestures/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/samsung-galaxy-note10-update-improves-face-recognition-and-full-screen-gestures/",
+      "publishedDateTime": "2020-02-27T19:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2019/08/1565208998_samsung-galaxy-note10-2_story.jpg",
+          "width": 760,
+          "height": 537,
+          "title": "Samsung Galaxy Note10 update improves face recognition and full-screen gestures",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-02-28-cant-define-ai-try-defining-intelligence.md",
       "title": "Can't Define AI? Try Defining Intelligence",
       "excerpt": "Turns out that the answer to the question of AI’s definition is complicated by one fact: we don’t have a precise definition of intelligence itself.",
@@ -1143,115 +1277,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-27-healthcare-startup-qureai-raises-16-million-led-by-sequoia-india.md",
-      "title": "Healthcare startup Qure.ai raises $16 million led by Sequoia India",
-      "excerpt": "Healthcare startup Qure.ai has raised $16 million in an equity funding round led by Sequoia India, with participation from MassMutual Ventures Southeast Asia, it said Thursday. MassMutual Ventures is the investment arm of US-based MassMutual Life Insurance Company. Founded in 2016 by Prashant Warier and Pooja Rao, Qure.ai provides ...",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.livemint.com/companies/start-ups/healthcare-startup-qure-ai-raises-16-million-led-by-sequoia-india-11582797164202.html",
-      "ampWebUrl": "https://www.livemint.com/companies/start-ups/healthcare-startup-qure-ai-raises-16-million-led-by-sequoia-india/amp-11582797164202.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/healthcare-startup-qure-ai-raises-16-million-led-by-sequoia-india/amp-11582797164202.html",
-      "publishedDateTime": "2020-02-27T02:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2020/02/27/600x338/healthcare-kH0D--621x414@LiveMint_1582797347447.jpg",
-          "width": 600,
-          "height": 337,
-          "title": "Healthcare startup Qure.ai raises $16 million led by Sequoia India",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-27-mobile-artificial-intelligence-mai-market-outlook-2019-mediatek-microsoft-corporation-ibm-corporation.md",
-      "title": "Mobile Artificial Intelligence (MAI) Market Outlook 2019 | MediaTek, Microsoft Corporation, IBM Corporation",
-      "excerpt": "Global Mobile Artificial Intelligence (MAI) Market 2019 Trending Industry News with quality, reliability and innovations in technology. Global Mobile Artificial Intelligence (MAI) Market 2019 showcases the newest trends within the international and regional markets on all important parameters also as valuable facts and figures,",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/mobile-artificial-intelligence-mai-market-outlook-2019-mediatek-microsoft-corporation-ibm-corporation-2020-02-27",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-27T01:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Mobile Artificial Intelligence (MAI) Market Outlook 2019 | MediaTek, Microsoft Corporation, IBM Corporation",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-27-ai-in-banking-market-and-ai-in-education-market.md",
-      "title": "AI in Banking Market and AI in Education Market...",
-      "excerpt": "Dallas, Texas, Feb. 27, 2020 (GLOBE NEWSWIRE) -- Global AI in Banking Market Comprehensive Analysis 2020-2026: In recent years Artificial Intelligence (AI) is being used everywhere. Almost all the sectors from banking,",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/02/g15424821/ai-in-banking-market-and-ai-in-education-market-2020-worldwide-shares-strategies-regions-applicati",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15424821",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15424821",
-      "publishedDateTime": "2020-02-26T22:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

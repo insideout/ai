@@ -2,6 +2,51 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-03-13-aclu-sues-for-government-facial-recognition-records.md",
+      "title": "ACLU Sues For Government Facial Recognition Records",
+      "excerpt": "The American Civil Liberties Union and New York Civil Liberties Union are challenging federal law enforcement’s use of facial recognition surveillance tech. A lawsuit was filed Thursday against the U.S. Department of Homeland Security (DHS), Customs and Border Protection (CBP), Immigration and Customs Enforcement (ICE), and Transportation ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geek.com/tech/aclu-sues-for-government-facial-recognition-records-1820222/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-13T04:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geek.com",
+        "domain": "geek.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/geek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.geek.com/wp-content/uploads/2020/03/face-detection-geraltPixabay.jpg",
+          "width": 690,
+          "height": 388,
+          "title": "ACLU Sues For Government Facial Recognition Records",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-13-ing-invests-in-natural-language-proccesor-eigen-technologies.md",
       "title": "ING invests in natural language proccesor Eigen Technologies",
       "excerpt": "ING has contributed EUR4.5 million to a $42 million funding round in natural language processing vendor Eigen Technologies. The investment, made through the bank’s venture capital arm ING Ventures, is part of Eigen’s Series B round announced in November 2019, which also included financing from Goldman Sachs. Eigen’s NLP technology is ...",
@@ -919,43 +964,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-12-podcast-applying-deep-learning-to-extreme-weather.md",
-      "title": "Podcast: Applying Deep Learning to Extreme Weather",
-      "excerpt": "In this podcast, the Radio Free HPC team looks at how researchers are using supercomputers to apply deep learning to extreme weather. A research team from Rice University utilized three supercomputers (TACC’s Stampede 2, Wrangler, and Pittsburg Supercomputing Center’s Bridges system) to see if data on heat waves and cold spells could be ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://insidehpc.com/2020/03/podcast-applying-deep-learning-to-extreme-weather/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-12T07:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insideHPC",
-        "domain": "insidehpc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://insidehpc.com/wp-content/uploads/2019/12/RFHPC-logo-notag-darkblue-svg.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Podcast: Applying Deep Learning to Extreme Weather",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

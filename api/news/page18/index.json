@@ -2,6 +2,125 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-03-05-a-new-model-of-vision.md",
+      "title": "A new model of vision",
+      "excerpt": "Researchers have developed a computer model of face processing that could reveal how the brain produces richly detailed visual representations so quickly. When we open our eyes, we immediately see ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.sciencedaily.com/releases/2020/03/200305002834.htm",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-04T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-04-surprise-aws-leads-in-cloud-ai-services-ranking.md",
+      "title": "Surprise! AWS Leads In 'Cloud AI Services' Ranking",
+      "excerpt": "Everyone reading this article knows that the cloud space is hot. And it's comprised of many different types of services and platforms to complete a full stack. Ten years ago, it was sufficient to just call the space “cloud”,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/03/04/surprise-aws-leads-in-cloud-ai-services-ranking/",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/03/04/surprise-aws-leads-in-cloud-ai-services-ranking/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/03/04/surprise-aws-leads-in-cloud-ai-services-ranking/amp/",
+      "publishedDateTime": "2020-03-04T15:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e6017d8e1e617000758dc82%2F0x0.jpg",
+          "width": 975,
+          "height": 549,
+          "title": "Surprise! AWS Leads In 'Cloud AI Services' Ranking",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-04-prosthetic-offers-real-time-mind-control-of-robotic-hand.md",
+      "title": "Prosthetic offers real-time mind control of robotic hand",
+      "excerpt": "Researchers have tapped faint, latent signals from arm nerves and amplified them to create a prosthetic that enables real-time, intuitive, finger-level control of a robotic hand. To achieve this ... Michigan) One of the biggest hurdles in mind-controlled prosthetics is tapping into a strong and stable nerve signal to feed the bionic limb.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.futurity.org/prosthetic-mind-control-robotics-2297932-2/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-04T13:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurity News",
+        "domain": "futurity.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.futurity.org/wp/wp-content/uploads/2020/03/prosthetics-2_1600.jpg",
+          "width": 1600,
+          "height": 915,
+          "title": "Prosthetic offers real-time mind control of robotic hand",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-04-its-like-you-have-a-hand-again-an-ultra-precise-mind-controlled-prosthetic.md",
       "title": "'It's like you have a hand again': An ultra-precise mind-controlled prosthetic",
       "excerpt": "In a major advance in mind-controlled prosthetics for amputees ... finger-level control of a robotic hand. To achieve this, the researchers developed a way to tame temperamental nerve endings ...",
@@ -854,140 +973,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-01-amazon-microsoft-and-ibm-are-under-pressure-to-follow-google-and-drop-gender-labels-like-man-and-woman-from-their-ai.md",
-      "title": "Amazon, Microsoft, and IBM are under pressure to follow Google and drop gender labels like 'man' and 'woman' from their AI",
-      "excerpt": "Now the AI researchers who helped bring about the change say Amazon's Rekognition, IBM's Watson, and Microsoft's Azure facial recognition should follow suit. Joy Buolamwini, a computer scientist ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/microsoft-ibm-amazon-pressure-gender-labels-ai-tools-2020-2",
-      "ampWebUrl": "https://www.businessinsider.com/microsoft-ibm-amazon-pressure-gender-labels-ai-tools-2020-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/microsoft-ibm-amazon-pressure-gender-labels-ai-tools-2020-2?amp",
-      "publishedDateTime": "2020-02-29T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5e592f43fee23d4f40526c86?width=1200&format=jpeg",
-          "width": 1028,
-          "height": 514,
-          "title": "Amazon, Microsoft, and IBM are under pressure to follow Google and drop gender labels like 'man' and 'woman' from their AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-29-ai-based-software-is-being-used-to-diagnose-coronavirus.md",
-      "title": "AI-based software is being used to diagnose coronavirus",
-      "excerpt": "After BlueDot's AI epidemiologist was one of the first to signal the outbreak of the coronavirus (Covid 19), another AI-based software developed by a Beijing-based startup Infervision, is now helping physicians diagnose it in Wuhan. The software, developed in collaboration with Wuhan Tongji Hospital, helps detect typical and partial symptoms of ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.neowin.net/news/ai-based-software-is-being-used-to-diagnose-coronavirus",
-      "ampWebUrl": "https://www.neowin.net/amp/ai-based-software-is-being-used-to-diagnose-coronavirus/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/ai-based-software-is-being-used-to-diagnose-coronavirus/",
-      "publishedDateTime": "2020-02-28T21:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/02/1581340066_1024px-2019-ncov-cdc-23312_without_background_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": "AI-based software is being used to diagnose coronavirus",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-29-lyft-ramps-up-self-driving-program.md",
-      "title": "Lyft ramps up self-driving program",
-      "excerpt": "The report is the latest sign that Lyft is trying to ramp up its self-driving vehicle program known as Level 5. The CA DMV, the agency that regulates autonomous vehicle testing on public roads in the state, requires companies to submit an annual report that includes data such as total AV miles driven and number of vehicles. It also requires ...",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/02/28/lyft-ramps-up-self-driving-program/",
-      "ampWebUrl": "https://techcrunch.com/2020/02/28/lyft-ramps-up-self-driving-program/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/28/lyft-ramps-up-self-driving-program/amp/",
-      "publishedDateTime": "2020-02-28T16:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/02/lyft-suburban.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": "Lyft ramps up self-driving program",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

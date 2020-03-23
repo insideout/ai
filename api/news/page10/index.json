@@ -2,6 +2,51 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-03-14-this-stance-detecting-ai-will-help-us-fact-check-fake-news.md",
+      "title": "This stance-detecting AI will help us fact-check fake news",
+      "excerpt": "However, while those techniques have been efficient for some tasks such as machine translation, they have had limited success on ... time- and labor-intensive data-labeling work that goes into most contemporary AI work. “The beauty of bidirectional transformer language models is that they allow very large text corpuses to be used to obtain ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/03/14/this-stance-detecting-ai-will-help-us-fact-check-fake-news-syndication/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/03/14/this-stance-detecting-ai-will-help-us-fact-check-fake-news-syndication/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/03/14/this-stance-detecting-ai-will-help-us-fact-check-fake-news-syndication/amp/",
+      "publishedDateTime": "2020-03-14T02:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/Copy-of-...-8-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "This stance-detecting AI will help us fact-check fake news",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-14-face-service-encryption-of-data-at-rest.md",
       "title": "Face service encryption of data at rest",
       "excerpt": "For more information about Azure Key Vault, see What is Azure Key Vault?. A new Cognitive Services resource is always encrypted using Microsoft-managed keys. It's not possible to enable customer-managed keys at the time that the resource is created. Customer-managed keys are stored in Azure Key Vault, and the key vault must be provisioned with ...",
@@ -953,51 +998,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-13-aclu-sues-for-government-facial-recognition-records.md",
-      "title": "ACLU Sues For Government Facial Recognition Records",
-      "excerpt": "The American Civil Liberties Union and New York Civil Liberties Union are challenging federal law enforcement’s use of facial recognition surveillance tech. A lawsuit was filed Thursday against the U.S. Department of Homeland Security (DHS), Customs and Border Protection (CBP), Immigration and Customs Enforcement (ICE), and Transportation ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geek.com/tech/aclu-sues-for-government-facial-recognition-records-1820222/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-13T04:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geek.com",
-        "domain": "geek.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/geek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.geek.com/wp-content/uploads/2020/03/face-detection-geraltPixabay.jpg",
-          "width": 690,
-          "height": 388,
-          "title": "ACLU Sues For Government Facial Recognition Records",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

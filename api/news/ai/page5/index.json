@@ -2,6 +2,51 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-03-18-researchers-encouraged-to-use-artificial-intelligence-to-analyze-coronavirus.md",
+      "title": "Researchers Encouraged to Use Artificial Intelligence to Analyze Coronavirus",
+      "excerpt": "COVID-19 researchers are expected to begin using artificial intelligence (AI) and machine learning to data-mine new ... using this technology to sort through the scholarly data on the topic using a newly created database. Major healthcare organizations would like a better understanding of how COVID-19 originated and how it spreads to better ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/03/17/researchers-encouraged-to-use-artificial-intellige.aspx?source=eptcnnlnk0000002",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/03/17/researchers-encouraged-to-use-artificial-intellige.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/03/17/researchers-encouraged-to-use-artificial-intellige.aspx",
+      "publishedDateTime": "2020-03-17T19:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F564002%2Fgettyimages-1160995648.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 900,
+          "title": "Researchers Encouraged to Use Artificial Intelligence to Analyze Coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-18-behringer-deepmind-6-analog-6-voice-polyphonic-synth-bundle.md",
       "title": "Behringer DeepMind 6 Analog 6-Voice Polyphonic Synth Bundle",
       "excerpt": "Free shipping to the the 48 Contiguous States. Hawaii and Alaska orders are welcome but may incur an additional shipping charge. Please message us for details if necessary. The standard shipping method on smaller items is USPS Priority and larger items ...",
@@ -1103,43 +1148,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-deepminds-protein-folding-ai-is-going-after-coronavirus.md",
-      "title": "DeepMind’s Protein Folding AI Is Going After Coronavirus",
-      "excerpt": "With companies working on COVID-19, that’s no longer the case. Ready, player, go? Here’s how one major AI player in healthtech, DeepMind, is trying to knee-cap COVID-19. The promise of AI for accelerating medical drug discovery is almost a universally supported idea. One caveat: so far, though new drugs have been discovered using AI ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://singularityhub.com/2020/03/17/how-deepminds-ai-is-working-to-decode-coronavirus/",
-      "ampWebUrl": "https://singularityhub.com/2020/03/17/how-deepminds-ai-is-working-to-decode-coronavirus/amp/",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/03/17/how-deepminds-ai-is-working-to-decode-coronavirus/amp/",
-      "publishedDateTime": "2020-03-17T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2020/03/corona-4901878_1280-COVID-19-virus.jpg",
-          "width": 1068,
-          "height": 601,
-          "title": "DeepMind’s Protein Folding AI Is Going After Coronavirus",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

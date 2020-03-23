@@ -2,6 +2,43 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-03-13-politico-ai-decoded-ethics-at-ibm-how-ai-could-help-fight-the-coronavirus-workforce-surveillance.md",
+      "title": "POLITICO AI: Decoded: Ethics at IBM — How AI could help fight the coronavirus — Workforce surveillance",
+      "excerpt": "We zoom in on how employers use controversial AI technology to monitor their employees. And we hear from IBM’s AI ethics chief how her company is trying to live up to the ethics it’s preaching. WORKPLACE SURVEILLANCE: Ever heard of “people analytics”?",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-ethics-at-ibm-how-ai-could-help-fight-the-coronavirus-workforce-surveillance/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-13T12:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "POLITICO",
+        "domain": "politico.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.politico.eu/wp-content/themes/politico-eu/static/design/core/template/opengraph.jpg",
+          "width": 1500,
+          "height": 1500,
+          "title": "POLITICO AI: Decoded: Ethics at IBM — How AI could help fight the coronavirus — Workforce surveillance",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-13-cynergisteks-seasoned-privacy-investigators-leverage-artificial-intelligence-for-the-detection-of-snooping-related-to-the-coronavirus.md",
       "title": "CynergisTek’s Seasoned Privacy Investigators Leverage Artificial Intelligence for the Detection of Snooping Related to the Coronavirus",
       "excerpt": "About CynergisTek, Inc. CynergisTek is a top-ranked cybersecurity firm dedicated to serving the information assurance needs of the healthcare industry. CynergisTek offers specialized services and solutions to help organizations achieve privacy, security, and compliance goals. Since 2004, the company has served as a partner to hundreds of ...",
@@ -1136,51 +1173,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-12-ai-ethics-principles-are-laid-out-by-dod-for-all-to-see-applies-to-self-driving-cars-too.md",
-      "title": "AI Ethics Principles Are Laid Out By DoD For All To See, Applies To Self-Driving Cars Too",
-      "excerpt": "AI ethics is a hot trending topic these days. And, so it should be. With the rise of AI systems popping up here and there, and virtually everywhere, there is a rightfully emerging concern that these computer-based systems are being thrown into the world without much thought given to the societal impacts that they can produce.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/03/12/ai-ethics-principles-are-laid-out-by-dod-for-all-to-see-applies-to-self-driving-cars-too/",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/03/12/ai-ethics-principles-are-laid-out-by-dod-for-all-to-see-applies-to-self-driving-cars-too/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/03/12/ai-ethics-principles-are-laid-out-by-dod-for-all-to-see-applies-to-self-driving-cars-too/amp/",
-      "publishedDateTime": "2020-03-12T10:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e680526e1e61700080e7020%2F0x0.jpg%3FcropX1%3D339%26cropX2%3D5849%26cropY1%3D0%26cropY2%3D4133",
-          "width": 1200,
-          "height": 900,
-          "title": "AI Ethics Principles Are Laid Out By DoD For All To See, Applies To Self-Driving Cars Too",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

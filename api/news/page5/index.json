@@ -2,6 +2,42 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-03-18-ai-product-analytics-startup-convizit-closes-a-5-million-seed-round-led-by-pitango-venture-capital.md",
+      "title": "AI Product Analytics Startup Convizit Closes a $5 Million Seed Round Led by Pitango Venture Capital",
+      "excerpt": "/PRNewswire/ -- Convizit, a startup applying unique AI technologies to disrupt the product analytics market, announced today the closing of a $5M seed",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.prnewswire.com/news-releases/ai-product-analytics-startup-convizit-closes-a-5-million-seed-round-led-by-pitango-venture-capital-301026080.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-18T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
+          "width": 600,
+          "height": 315,
+          "title": "AI Product Analytics Startup Convizit Closes a $5 Million Seed Round Led by Pitango Venture Capital",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-18-enzo-villani-former-nasdaq-strategist-and-fintech-ma-executive-raising-100-million-for-new-hedge-fund-focused-on-blockchain-and-digital-currencies.md",
       "title": "Enzo Villani, Former Nasdaq Strategist and Fintech M&A Executive Raising $100 Million for New Hedge Fund Focused on Blockchain and Digital Currencies",
       "excerpt": "Alpha Sigma Capital combines executives from Wall Street, digital currency and private equity to fund blockchain companies that demonstrate promise.",
@@ -366,27 +402,27 @@
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/oneconnect-joins-idc-s-financial-insights-fintech-fast-101-list-of-leading-fintech-companies-in-asia-1029007485",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/oneconnect-joins-idc-s-financial-insights-fintech-fast-101-list-of-leading-fintech-companies-in-asia-1029007485",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/oneconnect-joins-idc-s-financial-insights-fintech-fast-101-list-of-leading-fintech-companies-in-asia-1029007485",
+      "webUrl": "https://www.businesswire.com/news/home/20200318005262/en/OneConnect-Joins-IDC’s-Financial-Insights’-FinTech-Fast",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-03-18T03:16:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
-      "images": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200318005262/en/780435/23/IDC.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": "OneConnect Joins IDC’s Financial Insights’ FinTech Fast 101 List of Leading FinTech Companies in Asia",
+          "attribution": null
+        }
+      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -937,35 +973,6 @@
           "attribution": null
         }
       ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-four-ways-ai-can-positively-impact-pharmaceutical-development.md",
-      "title": "Four Ways AI Can Positively Impact Pharmaceutical Development",
-      "excerpt": "This capability can be helpful for more common treatments like medication for depression or new drugs with little or no formal history. Audio Listening and Language Translation AI can help screen the myriad of audio files from call centers, which can help identify adverse events that may be mentioned in unrelated contexts. For example ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://insidebigdata.com/2020/03/16/four-ways-ai-can-positively-impact-pharmaceutical-development/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-17T13:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insidebigdata.com",
-        "domain": "insidebigdata.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"

@@ -2,6 +2,35 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-03-10-automated-material-handling-equipment-market-insights-potential-business-strategies-mergers-and-acquisitions-revenue-analysis.md",
+      "title": "Automated Material Handling Equipment Market Insights, Potential Business Strategies, Mergers and Acquisitions, Revenue Analysis",
+      "excerpt": "New York March 10 2020 The scope of the report includes a detailed study of Automated Material Handling Equipment Market with the reasons given for variations in the growth of the industry in certain regions The Automated Material Handling Equipment",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.openpr.com/news/1960887/automated-material-handling-equipment-market-insights",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-10T08:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-10-how-autonomous-freight-trains-powered-by-artificial-intelligence-could-come-to-a-railroad-near-you.md",
       "title": "How autonomous freight trains powered by artificial intelligence could come to a railroad near you",
       "excerpt": "Officials from BNSF and Union Pacific, the two largest freight railroads in the Pacific Northwest, declined to comment about their interest in driverless trains. Michael Rush, senior vice president for safety and operations at the Association of American Railroads, said the industry is embracing technology like artificial intelligence but that ...",
@@ -1176,51 +1205,6 @@
           "width": 1200,
           "height": 600,
           "title": "MIT CSAIL’s radars map hidden features to help driverless cars navigate snowy terrain",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-02-24-this-self-driving-car-looks-under-the-road-for-a-safety-boost-in-rain-and-snow.md",
-      "title": "This self-driving car looks under the road for a safety boost in rain and snow",
-      "excerpt": "Over the past few years, autonomous vehicle technology and self-driving systems have reached new levels of sophistication and an experimental scanning system could lead to improved safety levels in poor weather. Self-driving capabilities are measured on a scale of levels 0 - 5; 0 being no automation and level 5 considered to be a true ...",
-      "heat": 235,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/this-self-driving-car-system-looks-under-the-road-for-a-safety-boost-in-rain-and-snow/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/this-self-driving-car-system-looks-under-the-road-for-a-safety-boost-in-rain-and-snow/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-self-driving-car-system-looks-under-the-road-for-a-safety-boost-in-rain-and-snow/",
-      "publishedDateTime": "2020-02-23T21:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2018/10/20/46764bbf-aad1-4e5a-8b0e-e5ebe4228ad9/resize/1200x900/f882f01e4412ac9465fbc91b9e0f972e/screen-shot-2018-10-20-at-15-30-54.png",
-          "width": 1200,
-          "height": 767,
-          "title": "This self-driving car looks under the road for a safety boost in rain and snow",
           "attribution": null
         }
       ],

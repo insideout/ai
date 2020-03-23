@@ -96,7 +96,7 @@
       "heat": 89,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/03/21/how-is-ai-helping-to-commercialize-space",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/03/21/how-is-ai-helping-to-commercialize-space/",
       "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/03/21/how-is-ai-helping-to-commercialize-space/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/03/21/how-is-ai-helping-to-commercialize-space/amp/",
       "publishedDateTime": "2020-03-21T11:48:00-07:00",
@@ -183,7 +183,7 @@
       "path": "_news/2020-03-21-artificial-intelligence-system-aimed-at-preventing-drownings.md",
       "title": "Artificial Intelligence System Aimed at Preventing Drownings",
       "excerpt": "The device resembles a stingray, except it doesn’t patrol the water in search of prey -- rather than threaten humans, it aims to save them.",
-      "heat": 82,
+      "heat": 84,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.usnews.com/news/best-states/pennsylvania/articles/2020-03-21/artificial-intelligence-system-aimed-at-preventing-drownings",
@@ -212,7 +212,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -750,6 +751,50 @@
       ]
     },
     {
+      "path": "_news/2020-03-20-ais-effect-on-productivity-now-and-in-the-future.md",
+      "title": "AI's Effect On Productivity Now And In The Future",
+      "excerpt": "Artificial intelligence is one of the hottest topics in the business world, and speculations about its potential effects abound. Professional services giant PwC claims AI could add nearly $16 trillion to the world economy by 2030.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/20/ais-effect-on-productivity-now-and-in-the-future/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/20/ais-effect-on-productivity-now-and-in-the-future/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/03/20/ais-effect-on-productivity-now-and-in-the-future/amp/",
+      "publishedDateTime": "2020-03-20T05:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F03%2Fa-36.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "AI's Effect On Productivity Now And In The Future",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-20-understanding-the-limits-of-convolutional-neural-networks-one-of-ais-greatest-achievements.md",
       "title": "Understanding the limits of convolutional neural networks — one of AI’s greatest achievements",
       "excerpt": "After a prolonged winter, artificial intelligence is experiencing a scorching summer mainly thanks to advances in deep learning and artificial neural networks. To be more precise, the renewed interest in deep learning is largely due to the success of convolutional neural networks (CNNs), a neural network structure that is especially good at ...",
@@ -1244,43 +1289,6 @@
           "width": 1200,
           "height": 628,
           "title": "Can AI Help With Autism Diagnosis?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-coronavirus-health-workers-at-newcross-healthcare-to-be-training-to-perform-oxygen-therapy.md",
-      "title": "Coronavirus: Health workers at Newcross Healthcare to be training to perform oxygen therapy",
-      "excerpt": "Training is being delivered in partnership with Docebo - a leading artificial intelligence learning platform - to cover virus protection and infection control. It will also train skills to perform Oxygen therapy (ventilation for respiratory infections), blood pressure, temperature and Oxygen saturation, using PPE gear in line with NHS ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.dailyecho.co.uk/news/18319277.coronavirus-health-workers-newcross-healthcare-training-perform-oxygen-therapy/",
-      "ampWebUrl": "https://www.dailyecho.co.uk/news/18319277.amp/",
-      "cdnAmpWebUrl": "https://www-dailyecho-co-uk.cdn.ampproject.org/c/s/www.dailyecho.co.uk/news/18319277.amp/",
-      "publishedDateTime": "2020-03-19T10:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Southern Daily Echo",
-        "domain": "dailyecho.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.dailyecho.co.uk/resources/images/11155370/?type=responsive-gallery",
-          "width": 650,
-          "height": 433,
-          "title": "Coronavirus: Health workers at Newcross Healthcare to be training to perform oxygen therapy",
           "attribution": null
         }
       ],

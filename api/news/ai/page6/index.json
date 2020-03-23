@@ -2,6 +2,43 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-03-17-deepminds-protein-folding-ai-is-going-after-coronavirus.md",
+      "title": "DeepMind’s Protein Folding AI Is Going After Coronavirus",
+      "excerpt": "With companies working on COVID-19, that’s no longer the case. Ready, player, go? Here’s how one major AI player in healthtech, DeepMind, is trying to knee-cap COVID-19. The promise of AI for accelerating medical drug discovery is almost a universally supported idea. One caveat: so far, though new drugs have been discovered using AI ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://singularityhub.com/2020/03/17/how-deepminds-ai-is-working-to-decode-coronavirus/",
+      "ampWebUrl": "https://singularityhub.com/2020/03/17/how-deepminds-ai-is-working-to-decode-coronavirus/amp/",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/03/17/how-deepminds-ai-is-working-to-decode-coronavirus/amp/",
+      "publishedDateTime": "2020-03-17T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2020/03/corona-4901878_1280-COVID-19-virus.jpg",
+          "width": 1068,
+          "height": 601,
+          "title": "DeepMind’s Protein Folding AI Is Going After Coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-17-moodys-analytics-vince-il-regtech-innovation-award-ai-fintech-breakthrough-awards.md",
       "title": "Moody’s Analytics vince il RegTech Innovation Award ai FinTech Breakthrough Awards",
       "excerpt": "LONDRA--(BUSINESS WIRE)--Moody’s Analytics, fornitore globale di intelligence finanziaria, ha vinto il premio RegTech Innovation Award ai 2020 FinTech Breakthrough Awards. Il riconoscimento ha premiato le nostre soluzioni tecnologiche normative software-as-a-service (SaaS). L'anno scorso abbiamo vinto un riconoscimento per Best Wealth ...",
@@ -1096,43 +1133,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-artificial-intelligence-how-to-switch-career-into-ai-in-2020.md",
-      "title": "Artificial Intelligence – How to Switch Career into AI in 2020",
-      "excerpt": "Artificial Intelligence, a division of computer science empowers on creating smart machines that are highly specialized and share common traits with a human brain. In other words, we are developing machines that can think and work like humans. Ranging from speech recognition, facial identification, robotics surgery to the self-driving cars ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://yourstory.com/mystory/artificial-intelligence-switch-career-2020",
-      "ampWebUrl": "https://yourstory.com/mystory/artificial-intelligence-switch-career-2020/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/mystory/artificial-intelligence-switch-career-2020/amp",
-      "publishedDateTime": "2020-03-16T18:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/users/e1d73f90-14f3-11ea-be83-85120a427c93/profile_image_1575284828775.png",
-          "width": 512,
-          "height": 512,
-          "title": "Artificial Intelligence – How to Switch Career into AI in 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }
