@@ -2,6 +2,303 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-03-09-showcasing-mreports-top-25-fintech-innovators-ai-foundry.md",
+      "title": "Showcasing MReport’s Top 25 Fintech Innovators: AI Foundry",
+      "excerpt": "After much deliberation, we are now proud to present our first annual collection of the Top 25 Fintech Innovators. In the pages that follow, you’ll get exclusive insights into the organizations and offerings that are poised to shape the mortgage industry in 2020 and beyond. Company Description: AI Foundry, an artificial intelligence (AI ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://themreport.com/daily-dose/03-09-2020/showcasing-mreports-top-25-fintech-innovators-ai-foundry",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-09T14:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theMReport",
+        "domain": "themreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://themreport.com/wp-content/uploads/2018/03/TechSavvy-300x236-1-1-300x236-1-1-300x236-1.png",
+          "width": 300,
+          "height": 236,
+          "title": "Showcasing MReport’s Top 25 Fintech Innovators: AI Foundry",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-09-googles-new-tensorflow-quantum-tool-lets-developers-build-quantum-ai-models.md",
+      "title": "Google’s new TensorFlow Quantum tool lets developers build quantum AI models",
+      "excerpt": "Google LLC today open-sourced TensorFlow Quantum, an extension to TensorFlow that enables developers to build artificial intelligence models for quantum computers. Quantum computing is still in an early stage, but the technology is maturing rapidly. IBM Corp. is doubling the processing power of its quantum chips every year, while Honeywell ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://siliconangle.com/2020/03/09/googles-new-tensorflow-quantum-tool-lets-developers-build-quantum-ai-models/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-09T14:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/03/quantum.png",
+          "width": 718,
+          "height": 400,
+          "title": "Google’s new TensorFlow Quantum tool lets developers build quantum AI models",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-09-amazon-wants-other-retailers-to-go-cashierless-with-its-just-walk-out-technology.md",
+      "title": "Amazon Wants Other Retailers to Go Cashierless With Its Just Walk Out Technology",
+      "excerpt": "Jay Stanley, senior policy analyst for the ACLU, which has previously expressed concerns about Amazon technology like Rekognition, said the ecommerce giant’s ability to retain data in ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.adweek.com/retail/amazon-wants-other-retailers-to-go-cashierless-with-its-just-walk-out-technology/",
+      "ampWebUrl": "https://www.adweek.com/retail/amazon-wants-other-retailers-to-go-cashierless-with-its-just-walk-out-technology/amp/",
+      "cdnAmpWebUrl": "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/retail/amazon-wants-other-retailers-to-go-cashierless-with-its-just-walk-out-technology/amp/",
+      "publishedDateTime": "2020-03-09T12:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Adweek",
+        "domain": "adweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.adweek.com/wp-content/uploads/2020/03/nike-app-free-hed-page-2020-640x360.png",
+          "width": 640,
+          "height": 360,
+          "title": "Amazon Wants Other Retailers to Go Cashierless With Its Just Walk Out Technology",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-09-facebook-ais-other-play-algorithm-could-improve-autonomous-vehicle-performance.md",
+      "title": "Facebook AI’s ‘other-play’ algorithm could improve autonomous vehicle performance",
+      "excerpt": "A team of Facebook AI Research researchers recently developed an algorithm — other-play (OP) — that constructs strategies that achieve high returns with agents that weren’t trained with other agents (a form of zero-shot coordination). If the claims pan out, the work could greatly improve the performance of autonomous cars, which leverage ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/09/facebook-ais-other-play-algorithm-could-improve-autonomous-vehicle-performance/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/09/facebook-ais-other-play-algorithm-could-improve-autonomous-vehicle-performance/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/09/facebook-ais-other-play-algorithm-could-improve-autonomous-vehicle-performance/amp/",
+      "publishedDateTime": "2020-03-09T11:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Facebook AI’s ‘other-play’ algorithm could improve autonomous vehicle performance",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-09-google-launches-tensorflow-quantum-a-machine-learning-framework-for-training-quantum-models.md",
+      "title": "Google launches TensorFlow Quantum, a machine learning framework for training quantum models",
+      "excerpt": "Google today announced the launch of TensorFlow Quantum, bringing together machine learning and quantum computing initiatives at the company. The framework can construct quantum datasets, prototype hybrid quantum and classic machine learning models, support quantum circuit simulators, and train discriminative and generative quantum models.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/09/google-launches-tensorflow-quantum-a-machine-learning-framework-for-training-quantum-models/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/09/google-launches-tensorflow-quantum-a-machine-learning-framework-for-training-quantum-models/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/09/google-launches-tensorflow-quantum-a-machine-learning-framework-for-training-quantum-models/amp/",
+      "publishedDateTime": "2020-03-09T10:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/2019_SB_Google_0264_quantum_2880_x_1177_px.max-1300x1300.jpg?fit=1300%2C531&strip=all",
+          "width": 1300,
+          "height": 531,
+          "title": "Google launches TensorFlow Quantum, a machine learning framework for training quantum models",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-09-tensorflow-quantum-software-combines-quantum-and-classical-machine-learning.md",
+      "title": "TensorFlow Quantum software combines quantum and classical machine learning",
+      "excerpt": "The collaborative effort resulted in the creation of an open-source hybrid quantum-classical machine learning software platform, called TensorFlow Quantum. TensorFlow Quantum integrates Google’s Cirq and TensorFlow and will allow for the rapid prototyping, training, inference, and testing of hybrid quantum-classical machine learning models to ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://insidehpc.com/2020/03/tensorflow-quantum-software-combines-quantum-and-classical-machine-learning/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-09T10:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "insideHPC",
+        "domain": "insidehpc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://insidehpc.com/wp-content/uploads/2020/03/blobid0_1583527327745.jpg",
+          "width": 640,
+          "height": 480,
+          "title": "TensorFlow Quantum software combines quantum and classical machine learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-09-global-voice-and-speech-recognition-technology-industry.md",
+      "title": "Global Voice and Speech Recognition Technology Industry",
+      "excerpt": "NEW YORK, March 9, 2020 /PRNewswire/ -- Voice and Speech Recognition Technology market worldwide is projected to grow by US$15 Billion, driven by a compounded growth of",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/03/n15509110/global-voice-and-speech-recognition-technology-industry",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15509110",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15509110",
+      "publishedDateTime": "2020-03-09T09:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-09-american-board-of-artificial-intelligence-in-medicine-abaim-aims-to-educate-and-certify-healthcare-professionals-in-ai-and-related-technologies.md",
+      "title": "American Board of Artificial Intelligence in Medicine (ABAIM) Aims to Educate and Certify Healthcare Professionals in AI, and Related Technologies",
+      "excerpt": "The ABAIM plans to credential healthcare professionals and anyone else who seeks a greater understanding of the growing role and use of artificial intelligence (AI),",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/03/p15508719/american-board-of-artificial-intelligence-in-medicine-abaim-aims-to-educate-and-certify-healthcare",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15508719",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15508719",
+      "publishedDateTime": "2020-03-09T08:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-09-the-role-of-human-judgment-as-a-presumed-integral-ingredient-for-achieving-true-ai.md",
       "title": "The Role Of Human Judgment As A Presumed Integral Ingredient For Achieving True AI",
       "excerpt": "Is the embodiment of human judgment a required ingredient in achieving true AI? It is a rather seemingly simple question to proffer, though any mindful answer is likely to be notably elongated. Here’s why.",
@@ -627,326 +924,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-08-self-driving-cars-can-easily-mimic-human-drivers-claim-researchers.md",
-      "title": "Self-driving cars can easily mimic human drivers, claim researchers",
-      "excerpt": "With the help of an improved sight-correcting system, self-driving cars could learn just by observing human operators complete the same task, researchers have found. The team implemented imitation learning,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.hindustantimes.com/tech/self-driving-cars-can-easily-mimic-human-drivers-claim-researchers/story-CKxP4LH2lnflsVZVIOrP2L.html",
-      "ampWebUrl": "https://m.hindustantimes.com/tech/self-driving-cars-can-easily-mimic-human-drivers-claim-researchers/story-CKxP4LH2lnflsVZVIOrP2L_amp.html",
-      "cdnAmpWebUrl": "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/self-driving-cars-can-easily-mimic-human-drivers-claim-researchers/story-CKxP4LH2lnflsVZVIOrP2L_amp.html",
-      "publishedDateTime": "2020-03-08T04:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-07-artificial-intelligence-is-making-artificial-intelligence-easier-to-build.md",
-      "title": "Artificial intelligence is making artificial intelligence easier to build",
-      "excerpt": "Artificial intelligence and machine learning will automate many business and life tasks, from driving trucks to piloting ships to handling customer calls ... enterprise decisions is the next great frontier for AI and machine-learning. Already, \"self-managing infrastructure is relatively common. We see this in both infrastructure as a service ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/artificial-intelligence-is-making-artificial-intelligence-easier-to-build/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/artificial-intelligence-is-making-artificial-intelligence-easier-to-build/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/artificial-intelligence-is-making-artificial-intelligence-easier-to-build/",
-      "publishedDateTime": "2020-03-07T05:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/03/07/3aee11ac-fb4f-445a-9893-3522813304b4/building-with-lights-windows-cropped-photo-by-joe-mckendrick.jpg",
-          "width": 480,
-          "height": 555,
-          "title": "Artificial intelligence is making artificial intelligence easier to build",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-07-tensorflow-object-detection-api-for-indian-driving-datasetidd-in-windows-10.md",
-      "title": "Tensorflow object detection api for Indian Driving Dataset(IDD) in windows 10",
-      "excerpt": "This blog explains how to build a custom object detection model using tensorflow object detection api considering huge data of IDD. The IDD dataset consists of images obtained from a front facing ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/analytics-vidhya/tensorflow-object-detection-api-for-indian-driving-dataset-idd-in-windows-10-f1f99c19b110",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-07T02:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/0*VQ1zTOIB3CdlMSjI",
-          "width": 1200,
-          "height": 1611,
-          "title": "Tensorflow object detection api for Indian Driving Dataset(IDD) in windows 10",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-07-coronavirus-outbreak-googles-deepmind-ai-is-helping-scientists-better-understand-covid-19-find-cure.md",
-      "title": "Coronavirus Outbreak: Google’s Deepmind AI is helping scientists better understand Covid-19, find cure",
-      "excerpt": "The tech major has taken it a step further in the case of Coronavirus outbreak. Its DeepMind is putting its assets of Artificial intelligence to help scientists understand the peculiar features of the virus that has the potential to be a pandemic. The latest version of its Alphafold technology has been assigned the task to predict the ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.financialexpress.com/industry/technology/coronavirus-outbreak-googles-deepmind-ai-is-helping-scientists-better-understand-covid-19-find-cure/1891761/",
-      "ampWebUrl": "https://www.financialexpress.com/industry/technology/coronavirus-outbreak-googles-deepmind-ai-is-helping-scientists-better-understand-covid-19-find-cure/1891761/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/coronavirus-outbreak-googles-deepmind-ai-is-helping-scientists-better-understand-covid-19-find-cure/1891761/lite/",
-      "publishedDateTime": "2020-03-07T01:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-07-application-of-computer-vision-in-precision-agriculture-farming.md",
-      "title": "Application of Computer Vision in Precision Agriculture & Farming",
-      "excerpt": "But now AI in agriculture is boosting this sector using the power computer vision technology, to train the machines for better productivity in agro and farming. Actually, high-labor cost and ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/vsinghbisen/application-of-computer-vision-in-precision-agriculture-farming-79b0600d5a5d",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-07T01:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/1*ocyh2KDUta4JcMB-FHMFbg.jpeg",
-          "width": 1200,
-          "height": 813,
-          "title": "Application of Computer Vision in Precision Agriculture & Farming",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-07-tensorflow-to-expand-ai-capabilities-into-mobile-iot-javascript.md",
-      "title": "TensorFlow to expand AI capabilities into mobile, IoT, JavaScript",
-      "excerpt": "It has been three years since the open-source machine learning platform TensorFlow was launched, and now the team is announcing new and ambitious plans for the AI library. The TensorFlow Developer ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://sdtimes.com/ai/tensorflow-to-expand-ai-capabilities-into-mobile-iot-javascript/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-06T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2019/03/hero_720.png",
-          "width": 720,
-          "height": 405,
-          "title": "TensorFlow to expand AI capabilities into mobile, IoT, JavaScript",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-06-its-like-you-have-a-hand-again-a-major-breakthrough-in-robotic-limb-technology.md",
-      "title": "'It's like you have a hand again' — A major breakthrough in robotic limb technology",
-      "excerpt": "They're claiming it as a major advance in mind-controlled prosthetics ... \"It's just been really hard to do because the physics is not in your favour.\" While the robotic technology in prosthetic hands has come a long way in recent years, the way ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cbc.ca/radio/quirks/mar-7-new-technology-gives-amputees-a-hand-a-big-dam-proposal-your-dog-s-heat-sensitive-nose-and-more-1.5486967/it-s-like-you-have-a-hand-again-a-major-breakthrough-in-robotic-limb-technology-1.5486974",
-      "ampWebUrl": "https://www.cbc.ca/amp/1.5486974",
-      "cdnAmpWebUrl": "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.5486974",
-      "publishedDateTime": "2020-03-06T13:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBC.ca",
-        "domain": "www.cbc.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.cbc.ca/1.5488452.1583513963!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/mind-control-prosthesis-university-of-michigan.jpg",
-          "width": 620,
-          "height": 349,
-          "title": "'It's like you have a hand again' — A major breakthrough in robotic limb technology",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-06-google-deepminds-effort-on-covid-19-coronavirus-rests-on-the-shoulders-of-giants.md",
-      "title": "Google DeepMind’s effort on COVID-19 coronavirus rests on the shoulders of giants",
-      "excerpt": "Read More It was that pioneering work, and the decades of research that followed, that made possible the announcement on Thursday by Google's DeepMind that it has arrived at a guess as to the structure of a handful of proteins associated with the ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/google-deepminds-effort-on-covid-19-coronavirus-rests-on-the-shoulders-of-giants/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-deepminds-effort-on-covid-19-coronavirus-rests-on-the-shoulders-of-giants/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-deepminds-effort-on-covid-19-coronavirus-rests-on-the-shoulders-of-giants/",
-      "publishedDateTime": "2020-03-06T07:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/01/23/58aef493-b110-4e8d-b33e-88b96687eac0/resize/1200x900/bc837465a44a931f81f7c3dfb35c8642/screenshot-2020-01-23-at-11-48-05.png",
-          "width": 1200,
-          "height": 760,
-          "title": "Google DeepMind’s effort on COVID-19 coronavirus rests on the shoulders of giants",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

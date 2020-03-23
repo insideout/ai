@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-03-23-is-voice-the-next-big-thing-to-transform-consumer-behavior.md",
+      "title": "Is Voice The Next Big Thing To Transform Consumer Behavior?",
+      "excerpt": "Voice is an untapped channel that can provide an opportunity for deeper engagement with our customers — and we can't afford to leave that opportunity on the table.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2020/03/23/is-voice-the-next-big-thing-to-transform-consumer-behavior/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2020/03/23/is-voice-the-next-big-thing-to-transform-consumer-behavior/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2020/03/23/is-voice-the-next-big-thing-to-transform-consumer-behavior/amp/",
+      "publishedDateTime": "2020-03-23T05:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbescommunicationscouncil%2Ffiles%2F2020%2F03%2Fa-52.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "Is Voice The Next Big Thing To Transform Consumer Behavior?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-19-alibaba-cloud-offers-ai-platform-to-support-coronavirus-medical-research.md",
       "title": "Alibaba Cloud offers AI platform to support coronavirus medical research",
       "excerpt": "Through video conferencing and real-time AI translation into 11 languages, Alibaba Cloud is also trying to build a virtual community where doctors from China can share their experiences and answer questions from their peers around the world. Alibaba's research arm DAMO Academy also revealed that it would make three applications available as a ...",
@@ -1155,51 +1200,6 @@
           "width": 796,
           "height": 417,
           "title": "This stance-detecting AI will help us fact-check fake news",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-14-learn-the-basics-of-speech-recognition.md",
-      "title": "Learn the basics of speech recognition",
-      "excerpt": "In this article, you'll learn how to use the Speech SDK in your apps and products to perform high-quality speech recognition. Tip If you haven't had a chance to complete one of our quickstarts, we encourage you to kick the tires and try speech recognition out for yourself. To call the Speech service using the Speech SDK, you need to create a ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/speech-to-text-basics",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-13T22:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png",
-          "width": 400,
-          "height": 400,
-          "title": "Learn the basics of speech recognition",
           "attribution": null
         }
       ],
