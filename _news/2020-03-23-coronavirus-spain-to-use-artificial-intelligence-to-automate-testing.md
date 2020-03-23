@@ -26,6 +26,6 @@ images:
     height: 400
     title: "Coronavirus: Spain to use artificial intelligence to automate testing"
 
-secured: "1s1+C/TAyx52HOk/7reTNkoTnUrHqVtz+8C2nzu++gK3Ic6H/5Y/hMUB7PGBHC4TDFFbNnH+voEvG/rN6IEzv7J4Jg7clFNQDDwNM0/apSUVb8A71a3PCmvW/ZdEMhlLD67CYUaLUb6cZLuQFwbBih8YzVSBIitXoU6bE8uK1uQl8m4mr+ROmsTMz0T2PYLZwdDaJlTN18pFSQ3X2rtNyCPJlQoqoAHZR9yntn3DrRj1rPfJHu2gNN2Z3WxDo+hmoATb3zf+X3nvFLJBNK7IcSskEUIxfk2wnnOKaWKrM3nR0r6g9sIhGARsSD1I9gi+;55mfqcGKb9PrlvFr2VeQsw=="
+secured: "vVvItYJPkv9YQ43EsbIZyq7nNvE/KPjwpMJ3k7XOngcXrWaY/wJk1wMd8/9IUSh6Nrk6wek+0w8QdBGx/vnbInsCI55GhMzIxzqK5/z6EB+QY3mGT1mVkfnRc146bC9FHm1WRQKwkOI1suH9mj1C553JADFZ6ILY1ht+WbDQsMPOE3t7fWgmhMjqs6zMASj9o4+Imslkm480gRtUlftI8n+NNCMAP1B7BgXLPEBJaDunNrhW0r8hOfWK1yDXXnweIAE74Rn57uKMq/+hUxSWz6lfJUGk0tjgx9tvSYUfOwriMSUZzzvp5RH+fOK2k+dAYMXyOSIxq0YOVPD8OmyDi0s14gsjqlbt0HRRmrBwGWvI3sNzl1nzA+vYoqnvAM69BNi/n3Qz8phf5E9PenlAIxp5jf3SVfldAEeCFs6zpjh6JUrqcAsLk7avk7Ll6B7P+1jy7wM/0fKTFqg+ygwx4hzeFMoF5ClxMje/elrRi1U=;6olW/cvuBnCpFTM1QBiuqQ=="
 ---
 

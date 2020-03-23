@@ -2,6 +2,206 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-03-19-amazon-researchers-develop-ai-that-improves-knowledge-graph-performance.md",
+      "title": "Amazon researchers develop AI that improves knowledge graph performance",
+      "excerpt": "In a new study, researchers at Amazon describe a technique that factors in information about knowledge graphs to perform entity alignment, which entails determining which elements of different graphs refer to the same “entities” (which might be anything from products to song titles). The idea is to improve computational efficiency while at ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/19/amazon-researchers-knowledge-graph-performance/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/19/amazon-researchers-knowledge-graph-performance/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/19/amazon-researchers-knowledge-graph-performance/amp/",
+      "publishedDateTime": "2020-03-19T09:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/amazon-logo-reuters.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Amazon researchers develop AI that improves knowledge graph performance",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-19-microsoft-teams-update-adds-ai-background-noise-removal.md",
+      "title": "Microsoft Teams Update Adds AI Background Noise Removal",
+      "excerpt": "Microsoft's workforce collaboration service, Teams, got an update today, adding AI-powered background noise reduction in online meetings, a Bookings feature, and a RealWear hands-free hard-hat technology integration. Since in-person meetings are a no-no ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.pcmag.com/news/microsoft-teams-update-adds-ai-background-noise-removal",
+      "ampWebUrl": "https://www.pcmag.com/news/microsoft-teams-update-adds-ai-background-noise-removal?amp=true",
+      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/microsoft-teams-update-adds-ai-background-noise-removal?amp=true",
+      "publishedDateTime": "2020-03-19T08:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/00mmXZY5zaCUdlluCPuJHHL-6.fit_lim.size_1200x630.v_1584632844.jpg",
+          "width": 1121,
+          "height": 630,
+          "title": "Microsoft Teams Update Adds AI Background Noise Removal",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-19-how-machine-learning-improves-banks-customer-experience.md",
+      "title": "How Machine Learning Improves Banks’ Customer Experience",
+      "excerpt": "Improved machine learning algorithms are pushing this process into the mainstream as a way for banks to significantly improve customer service. Here are four ways financial firms are using machine learning algorithms to their advantage. Customers applying for credit or looking for loan application approval historically waited weeks. Now ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://biztechmagazine.com/article/2020/03/how-machine-learning-improves-banks-customer-experience",
+      "ampWebUrl": "https://biztechmagazine.com/article/2020/03/how-machine-learning-improves-banks-customer-experience?amp",
+      "cdnAmpWebUrl": "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2020/03/how-machine-learning-improves-banks-customer-experience?amp",
+      "publishedDateTime": "2020-03-19T07:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BizTech",
+        "domain": "biztechmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202003/banks%20ML%20hero.jpg?itok=kxlpkwBL",
+          "width": 1440,
+          "height": 500,
+          "title": "How Machine Learning Improves Banks’ Customer Experience",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-03-19-alibaba-cloud-offers-ai-cloud-services-to-help-battle-covid-19-globally.md",
+      "title": "Alibaba Cloud Offers AI, Cloud Services to Help Battle COVID-19 Globally",
+      "excerpt": "Through video conferencing and real-time AI translation into 11 languages (Arabic, Bahasa, Chinese, English, French, Japanese, Russian, Spanish, Thai, Turkish, and Vietnamese), Alibaba Cloud aims to build a virtual community, inviting Chinese doctors to share their experiences and answer questions from global peers. From Alibaba DAMO Academy ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.hpcwire.com/off-the-wire/alibaba-cloud-offers-ai-cloud-services-to-help-battle-covid-19-globally/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-19T07:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HPCwire",
+        "domain": "hpcwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/biology_shutterstock-205625032_800x-405x228.jpg",
+          "width": 405,
+          "height": 228,
+          "title": "Alibaba Cloud Offers AI, Cloud Services to Help Battle COVID-19 Globally",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-19-ai-models-could-struggle-to-handle-the-market-downturn.md",
+      "title": "AI models could struggle to handle the market downturn",
+      "excerpt": "However, these models introduce significant fair lending risk, reputational risk and credit risk. Many newly established fintech and nonbanks entering the credit market late in the cycle favor the use of AI and ML underwriting methods that focus on thin file and near-prime borrowers. Additionally, established banks face pressure to grow.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.americanbanker.com/opinion/ai-models-could-struggle-to-handle-the-market-downturn",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-19T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "American Banker",
+        "domain": "americanbanker.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://arizent.brightspotcdn.com/dims4/default/c11ac70/2147483647/strip/true/crop/4368x2293+0+309/resize/1200x630!/quality/90/?url=https%3A%2F%2Farizent.brightspotcdn.com%2F67%2Fa7%2F4ae3a940490ba684093d832a2c74%2Fhousing-market-10635702-adobe.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "AI models could struggle to handle the market downturn",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-19-coronavirus-is-prompting-companies-to-adopt-ai-call-center-solutions.md",
       "title": "Coronavirus is prompting companies to adopt AI call center solutions",
       "excerpt": "As customer representatives are increasingly ordered to work from home in Manila, the U.S., and elsewhere, some companies are turning to AI to bridge the resulting gaps in service. The solutions aren’t perfect — there’s always going to be a need for human teams, even where chatbots are deployed — but COVID-19 has accelerated the need ...",
@@ -760,197 +960,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-hybrid-ai-systems-are-quietly-solving-the-problems-of-deep-learning.md",
-      "title": "Hybrid AI systems are quietly solving the problems of deep learning",
-      "excerpt": "Deep learning, the main innovation that has renewed interest in artificial intelligence in the past years, has helped solve many critical problems in computer vision, natural language processing, and speech recognition. However, as the deep learning matures and moves from hype peak to its trough of disillusionment, it is becoming clear that it ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/syndication/2020/03/19/hybrid-ai-systems-are-quietly-solving-the-problems-of-deep-learning/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-19T03:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/1-copy-1-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": "Hybrid AI systems are quietly solving the problems of deep learning",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-multi-modular-ai-approach-to-streamline-autism-diagnosis-in-young-children.md",
-      "title": "Multi-modular AI Approach to Streamline Autism Diagnosis in Young Children",
-      "excerpt": "Autism has become a pressing healthcare challenge. The instruments used to aid diagnosis are time and labor expensive and require trained clinicians to administer, leading to long wait times for at-risk children.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nature.com/articles/s41598-020-61213-w",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-19T03:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-61213-w/MediaObjects/41598_2020_61213_Fig1_HTML.png",
-          "width": 685,
-          "height": 365,
-          "title": "Multi-modular AI Approach to Streamline Autism Diagnosis in Young Children",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-artificial-intelligence-driven-scanning-probe-microscopy.md",
-      "title": "Artificial-intelligence-driven scanning probe microscopy",
-      "excerpt": "Enabling atomic-precision mapping and manipulation of surfaces, scanning probe microscopy requires constant human supervision to assess image quality and probe conditions. Here, the authors demonstrate DeepSPM,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nature.com/articles/s42005-020-0317-3",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-19T03:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs42005-020-0317-3/MediaObjects/42005_2020_317_Fig1_HTML.png",
-          "width": 636,
-          "height": 685,
-          "title": "Artificial-intelligence-driven scanning probe microscopy",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-test-time-augmentation-for-deep-learning-based-cell-segmentation-on-microscopy-images.md",
-      "title": "Test-time augmentation for deep learning-based cell segmentation on microscopy images",
-      "excerpt": "Recent advancements in deep learning have revolutionized the way microscopy images of cells are processed. Deep learning network architectures have a large number of parameters, thus, in order to reach high accuracy,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nature.com/articles/s41598-020-61808-3",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-19T03:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-61808-3/MediaObjects/41598_2020_61808_Fig1_HTML.png",
-          "width": 685,
-          "height": 319,
-          "title": "Test-time augmentation for deep learning-based cell segmentation on microscopy images",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-automatic-optic-nerve-head-localization-and-cup-to-disc-ratio-detection-using-state-of-the-art-deep-learning-architectures.md",
-      "title": "Automatic optic nerve head localization and cup-to-disc ratio detection using state-of-the-art deep-learning architectures",
-      "excerpt": "Computer vision has greatly advanced recently. Since AlexNet was first introduced, many modified deep learning architectures have been developed and they are still evolving. However, there are few studies comparing these architectures in the field of ophthalmology.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nature.com/articles/s41598-020-62022-x",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-19T03:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-62022-x/MediaObjects/41598_2020_62022_Fig1_HTML.png",
-          "width": 685,
-          "height": 502,
-          "title": "Automatic optic nerve head localization and cup-to-disc ratio detection using state-of-the-art deep-learning architectures",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

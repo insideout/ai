@@ -2,6 +2,198 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-03-11-abb-partners-with-covariant-for-integrated-ai-robotic-solutions.md",
+      "title": "ABB partners with Covariant for integrated AI robotic solutions",
+      "excerpt": "ABB and Silicon Valley AI start-up, Covariant, have partnered up to bring AI-enabled robotics solutions to market, starting with a fully autonomous warehouse order fulfillment solution. According to ABB, the partnership brings together the two companies with a vision for robotics enabled by AI, where intelligent robots work alongside humans in ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.controldesign.com/industrynews/2020/abb-partners-with-covariant-for-integrated-ai-robotic-solutions/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-11T13:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Control Design",
+        "domain": "controldesign.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.controldesign.com/assets/Uploads/ABB-robots-sorting-different-packages-with-Covariant-AI-sb.jpg",
+          "width": 880,
+          "height": 440,
+          "title": "ABB partners with Covariant for integrated AI robotic solutions",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-new-scientist-got-an-early-glimpse-of-voice-recognition-technology.md",
+      "title": "New Scientist got an early glimpse of voice recognition technology",
+      "excerpt": "HEY Siri, we saw you coming. In our 17 March 1990 issue, we wrote about a computer system that could recognise continuous speech and may, we predicted, “form the basis of a personal computer controlled by voice”. At the time, this intriguing new technology had already piqued the interest of Apple, which we then described as “famous for ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.newscientist.com/article/mg24532732-700-new-scientist-got-an-early-glimpse-of-voice-recognition-technology/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-11T11:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Scientist",
+        "domain": "newscientist.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.newscientist.com/wp-content/uploads/2015/08/ns-logo-for-featured-image.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "New Scientist got an early glimpse of voice recognition technology",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-researchers-criticize-opacity-of-googles-mammogram-reading-ai-study.md",
+      "title": "Researchers criticize opacity of Google's mammogram-reading AI study",
+      "excerpt": "Though a study published Jan. 1 describing the success of Google's DeepMind artificial intelligence at diagnosing breast cancer was largely met with praise and excitement, in a Feb. 28 response, a group of AI researchers criticized the study's lack of transparency. In the initial study, Google researchers found the DeepMind AI produced fewer ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.beckershospitalreview.com/artificial-intelligence/researchers-criticize-opacity-of-google-s-mammogram-reading-ai-study.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-11T11:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Becker's Hospital Review",
+        "domain": "beckershospitalreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/5.jpg",
+          "width": 400,
+          "height": 300,
+          "title": "Researchers criticize opacity of Google's mammogram-reading AI study",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-is-inter-company-automation-the-next-frontier-for-ai-a-new-startup-backboneai-says-yes.md",
+      "title": "Is Inter-Company Automation The Next Frontier For AI? A New Startup, BackboneAI, Says Yes.",
+      "excerpt": "BackboneAI is designed to fill the need for automation between companies, a distinct approach from other solutions that focus on AI within a company or between a company and its customers. The startup was founded by Rob Bailey with seed funding of $4.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/micahsolomon/2020/03/10/is-inter-company-automation-the-next-frontier-of-ai-a-new-startup-backboneai-thinks-it-is/",
+      "ampWebUrl": "https://www.forbes.com/sites/micahsolomon/2020/03/10/is-inter-company-automation-the-next-frontier-of-ai-a-new-startup-backboneai-thinks-it-is/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/micahsolomon/2020/03/10/is-inter-company-automation-the-next-frontier-of-ai-a-new-startup-backboneai-thinks-it-is/amp/",
+      "publishedDateTime": "2020-03-11T10:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e41ed80f133f400076c2216%2F0x0.jpg",
+          "width": 612,
+          "height": 1156,
+          "title": "Is Inter-Company Automation The Next Frontier For AI? A New Startup, BackboneAI, Says Yes.",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-how-baidu-is-bringing-ai-to-the-fight-against-coronavirus.md",
+      "title": "How Baidu is bringing AI to the fight against coronavirus",
+      "excerpt": "Apollo, Baidu’s autonomous vehicle platform, partnered with a local self-driving startup called Neolix to deliver supplies and food to the Beijing Haidian Hospital. With daily deliveries, this initiative is helping feed over 100 frontline staff members as they work to treat their growing patient base. Baidu Apollo has also made its low-speed ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.technologyreview.com/s/615342/how-baidu-is-bringing-ai-to-the-fight-against-coronavirus/",
+      "ampWebUrl": "https://www.technologyreview.com/s/615342/how-baidu-is-bringing-ai-to-the-fight-against-coronavirus/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/s/615342/how-baidu-is-bringing-ai-to-the-fight-against-coronavirus/amp/",
+      "publishedDateTime": "2020-03-11T10:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.technologyreview.com/i/images/picture1_4.png?sw=600&cx=0&cy=0&cw=780&ch=439",
+          "width": 600,
+          "height": 337,
+          "title": "How Baidu is bringing AI to the fight against coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-11-client-note-aon-acquires-willis-towers-watson-for-30b-nvidia-buys-an-ai-startup-ant-financial-invests-in-klarna-and-more.md",
       "title": "Client Note: Aon Acquires Willis Towers Watson For $30B, Nvidia Buys An AI Startup, Ant Financial Invests In Klarna, And More",
       "excerpt": "Also covered are Sequoia’s investment in a student loan company, an email encryption startup raises, and Grindr’s $600M+ sale. Want the full post? Become a CB Insights customer. If you’re already a customer, log in here.",
@@ -770,192 +962,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-11-ibm-improves-the-way-watson-products-analyze-language.md",
-      "title": "IBM Improves the Way Watson Products Analyze Language",
-      "excerpt": "The company is enhancing several of its Watson artificial-intelligence products with technology designed to help businesses better process and analyze human language, whether it comes from text or voice.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wsj.com/articles/ibm-improves-the-way-watson-products-analyze-language-11583880567",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-11T02:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://si.wsj.net/public/resources/images/B3-GH238_robtho_SOC_20200310183834.jpg",
-          "width": 900,
-          "height": 471,
-          "title": "IBM Improves the Way Watson Products Analyze Language",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-03-11-the-ethical-use-of-ai-on-low-wage-workers.md",
-      "title": "The ethical use of AI on low-wage workers",
-      "excerpt": "Also read: Should there be a code of ethics in technology? Hourly workers such as warehouse workers may be adversely impacted by AI-enabled workforce management systems. Lower-wage workers stand to lose the most with the rise of automation while white-collar workers are generally unaffected, the report noted. It cited a McKinsey & Co. study ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.workforce.com/news/artificial-intelligence-ethics-for-managing-low-wage-workers",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-11T01:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Workforce",
-        "domain": "workforce.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-11-artificial-intelligence-ibms-watson-now-understands-idioms-after-sentiment-update.md",
-      "title": "Artificial intelligence: IBM's Watson now understands idioms after 'sentiment' update",
-      "excerpt": "Artificial intelligence researchers at IBM have introduced a major upgrade to the famed Watson computer, allowing it to understand idioms and colloquialisms for the first time. IBM says the update makes it the first commercial AI system capable of identifying, understanding and analysing some of the most challenging aspects of the English language.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.independent.co.uk/life-style/gadgets-and-tech/news/artificial-intelligence-ibm-watson-ai-language-idiom-a9391166.html",
-      "ampWebUrl": "https://www.independent.co.uk/life-style/gadgets-and-tech/news/artificial-intelligence-ibm-watson-ai-language-idiom-a9391166.html",
-      "cdnAmpWebUrl": "https://www-independent-co-uk.cdn.ampproject.org/c/s/www.independent.co.uk/life-style/gadgets-and-tech/news/artificial-intelligence-ibm-watson-ai-language-idiom-a9391166.html",
-      "publishedDateTime": "2020-03-11T00:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Independent",
-        "domain": "independent.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/03/10/16/artificial-intelligence-ibm-watson-ai.jpg",
-          "width": 928,
-          "height": 696,
-          "title": "Artificial intelligence: IBM's Watson now understands idioms after 'sentiment' update",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-11-three-applications-deep-learning-and-computer-vision-can-improve.md",
-      "title": "Three applications deep learning and computer vision can improve",
-      "excerpt": "You’ve probably heard about deep learning and computer vision and you’re likely aware that they have something to do with artificial intelligence. If you’re like most people, you’re not quite sure what that means. Are there practical uses for deep ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.controleng.com/articles/three-applications-that-improve-with-deep-learning-and-computer-vision/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-11T00:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Control Engineering",
-        "domain": "controleng.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.controleng.com/wp-content/uploads/sites/2/2020/03/ctlx_icon_MachineVision_Slider_01-3-3.jpg",
-          "width": 485,
-          "height": 260,
-          "title": "Three applications deep learning and computer vision can improve",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-11-detecting-money-laundering-networks-using-h2o-driverless-ai.md",
-      "title": "Detecting Money Laundering Networks Using H2O Driverless AI",
-      "excerpt": "Artificial Intelligence has evolved from being a buzz word to a reality today ... and automatically reinforce the AI model’s understanding to avoid patterns that don’t lead to laundered money. H2O Driverless AI is an Award-winning Automatic Machine Learning Platform that empowers data scientists to work on projects faster and more ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.datanami.com/2020/03/10/detecting-money-laundering-networks-using-h2o-driverless-ai/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-10T23:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/driverlessAI.png",
-          "width": 1021,
-          "height": 453,
-          "title": "Detecting Money Laundering Networks Using H2O Driverless AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

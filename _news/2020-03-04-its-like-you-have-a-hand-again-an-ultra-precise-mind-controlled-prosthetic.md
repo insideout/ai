@@ -1,21 +1,23 @@
 ---
 category: news
 title: "'It's like you have a hand again': An ultra-precise mind-controlled prosthetic"
-excerpt: "In a major advance in mind-controlled prosthetics for amputees ... finger-level control of a robotic hand. To achieve this, the researchers developed a way to tame temperamental nerve endings ..."
-publishedDateTime: 2020-03-04T19:00:00Z
-webUrl: "https://medicalxpress.com/news/2020-03-ultra-precise-mind-controlled-prosthetic.html"
-ampWebUrl: "https://medicalxpress.com/news/2020-03-ultra-precise-mind-controlled-prosthetic.amp"
-cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-03-ultra-precise-mind-controlled-prosthetic.amp"
+excerpt: "finger-level control of a robotic hand. In a major advance in mind-controlled prosthetics for amputees, University of Michigan researchers have tapped faint, latent signals from arm nerves and ..."
+publishedDateTime: 2020-03-04T00:00:00Z
+webUrl: "https://www.sciencedaily.com/releases/2020/03/200304141641.htm"
 type: article
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://insideout.app/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "Wgw0QOiDedp02qhkgWc6Oz9Xko1a14cTjafRY3T0Ykk1/qJmIHNRuaKYs48FtyuW8hdGZdygn+Trlyndkrjq6mmvtZDvZdU5/dY9f4vo6XaZrY96mopk1RYS7JEh8du4Hu6ErXBhs5hf92+8nKjF+NG9Z2k5ZQ0bCNrPf7vYcXLi6dyleZZ6EyRoKvPw1PCJ9WA2v+8k0WHSkY6ubtSfRIUAIsr2MDnvPZbWwiejvbUA4SINZHEJMcrEHPc9x6WIUZjZRoCBUx/sCG21SUm2WPc7CIMIuAeV4CsJPKsjlRrW2QJf5stLXhwjzMyTaxsk;wRQcuQ85dgLHI7vOLrVZrw=="
+secured: "1rg0CWUxvFcSMoj4xIRaGq9O99zywCNDKeWS2NoHmdQ36SH52/wAMe/PJ8RPuuvUQbcQGVnfbDTY61z5I5Qrb5zfs2sUMk34NLzTSvLvY7RdYbHFlawFeEcei0EKwKuk6v/VshFxMDPPkLW7qhBMz297QahuUJwgI3oM3m/Jm2qJWaBfa4X25R1T7xXXH5A2Kab5XkmHIvwzbQf4DAvzPcoDycBoHAMCnbnlILZ2P/sgAbrHAvqznarQ3OZj8RDR+wZ+JSnD/LfkdFP3QLRhJkevoD4Ecl/XM5A0cW2uJLayUWufa8h1uAWx7W2jBfCR;N+ZwYVuFJVTJpE+LbpJvpA=="
 ---
 

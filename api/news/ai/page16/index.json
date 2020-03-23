@@ -2,6 +2,199 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-03-05-microsoft-azure-cisco-team-up-to-simplify-iot-deployments.md",
+      "title": "Microsoft Azure, Cisco team up to simplify IoT deployments",
+      "excerpt": "Once that data is in the hub, teams can use services like Azure Stream Analytics or Azure Machine Learning to build IoT applications. Microsoft said in its blog post that this should \"kickstart ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/microsoft-azure-cisco-team-up-to-simplify-iot-deployments/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-azure-cisco-team-up-to-simplify-iot-deployments/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-azure-cisco-team-up-to-simplify-iot-deployments/",
+      "publishedDateTime": "2020-03-05T11:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/02/14/b263e8aa-1b65-4c1b-885e-3ad5770ebf6c/thumbnail/1200x675/495b3b7e0a7e4d872cf6b4d8845edc71/netflixistock-992007460.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Microsoft Azure, Cisco team up to simplify IoT deployments",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-05-neural-hardware-for-image-recognition-in-nanoseconds.md",
+      "title": "Neural hardware for image recognition in nanoseconds",
+      "excerpt": "This makes object recognition many orders of magnitude faster.\" The chip was developed and manufactured at the TU Vienna. It is based on photodetectors made of tungsten diselenide - an ultra-thin ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.eurekalert.org/pub_releases/2020-03/vuot-nhf030520.php",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-05T08:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.eurekalert.org/multimedia/pub/web/226224_web.jpg",
+          "width": 1440,
+          "height": 1177,
+          "title": "Neural hardware for image recognition in nanoseconds",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-05-deepmind-technique-encourages-ai-players-to-cooperate-in-zero-sum-games.md",
+      "title": "DeepMind technique encourages AI players to cooperate in zero-sum games",
+      "excerpt": "In a preprint paper, DeepMind described a new reinforcement learning technique that models human behavior in a potentially new and powerful way. It could lead to much more capable AI decision ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/05/new-deepmind-technique-encourages-ai-players-to-cooperate-in-zero-sum-games/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/05/new-deepmind-technique-encourages-ai-players-to-cooperate-in-zero-sum-games/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/05/new-deepmind-technique-encourages-ai-players-to-cooperate-in-zero-sum-games/amp/",
+      "publishedDateTime": "2020-03-05T08:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/dims-e1575998404106.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "DeepMind technique encourages AI players to cooperate in zero-sum games",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-05-goodyear-concept-ev-tire-can-regrow-tread.md",
+      "title": "Goodyear concept EV tire can regrow tread",
+      "excerpt": "\"Thanks to artificial intelligence a driver profile would be ... more than the 259-mile range for the 2020 Chevrolet Bolt. Waymo raises $2.25 billion in first external funding round In a ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.autonews.com/mobility-report-newsletter/goodyear-concept-ev-tire-can-regrow-tread",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-05T08:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automotive News",
+        "domain": "autonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s3-prod.autonews.com/s3fs-public/styles/width_792/public/GMEVDay02-main_i.jpg",
+          "width": 792,
+          "height": 526,
+          "title": "Goodyear concept EV tire can regrow tread",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-05-mission-now-providing-smbs-with-managed-data-analytics-platform-for-aws.md",
+      "title": "Mission Now Providing SMBs with Managed Data & Analytics Platform for AWS",
+      "excerpt": "Amorphic unifies data, users and analytics across AWS data warehousing, machine learning and artificial intelligence services, with no high-risk development or operational support required.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.globenewswire.com/news-release/2020/03/05/1995886/0/en/Mission-Now-Providing-SMBs-with-Managed-Data-Analytics-Platform-for-AWS.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-05T06:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GlobeNewswire",
+        "domain": "globenewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-05-aible-is-recognized-as-a-visionary-in-the-gartner-magic-quadrant-2020.md",
       "title": "Aible is Recognized as a Visionary in the Gartner Magic Quadrant 2020",
       "excerpt": "It assesses vendors with offerings in three key service areas: language, vision and automated machine learning (AutoML).” The Gartner Magic Quadrant places Aible in its “Visionaries” quadrant. Gartner says, “Visionaries are likely to excel in AutoML, as this segment is viewed as the most important for application leaders and development ...",
@@ -35,6 +228,43 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-05-its-like-you-have-a-hand-again-ultra-precise-mind-controlled-prosthetic-developed.md",
+      "title": "‘It’s like you have a hand again’: Ultra-precise mind-controlled prosthetic developed",
+      "excerpt": "The scientists tapped faint, latent signals from arm nerves and amplified them to enable real-time, intuitive, finger-level control of a robotic hand. To achieve this, they developed a way to tame ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.express.co.uk/news/science/1251194/science-news-telepathic-mind-controlled-prosthetic-hand-amputees",
+      "ampWebUrl": "https://www.express.co.uk/news/science/1251194/science-news-telepathic-mind-controlled-prosthetic-hand-amputees/amp",
+      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/science/1251194/science-news-telepathic-mind-controlled-prosthetic-hand-amputees/amp",
+      "publishedDateTime": "2020-03-05T02:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Express",
+        "domain": "express.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.images.express.co.uk/img/dynamic/151/590x/science-news-telepathic-mind-controlled-prosthetic-hand-amputees-1251194.jpg?r=1583402891475",
+          "width": 590,
+          "height": 350,
+          "title": "‘It’s like you have a hand again’: Ultra-precise mind-controlled prosthetic developed",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -240,25 +470,33 @@
       ]
     },
     {
-      "path": "_news/2020-03-04-its-like-you-have-a-hand-again-an-ultra-precise-mind-controlled-prosthetic.md",
-      "title": "'It's like you have a hand again': An ultra-precise mind-controlled prosthetic",
-      "excerpt": "In a major advance in mind-controlled prosthetics for amputees ... finger-level control of a robotic hand. To achieve this, the researchers developed a way to tame temperamental nerve endings ...",
+      "path": "_news/2020-03-04-scientists-develop-ultra-precise-mind-controlled-prosthetic-limb.md",
+      "title": "Scientists Develop Ultra-Precise Mind-Controlled Prosthetic Limb",
+      "excerpt": "(CN) – The next generation of mind-controlled prosthetics are within reach and will give amputees the ability to better operate bionic limbs. All it will take is a learning algorithm and some muscle power. The new technology detailed in a paper published ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://medicalxpress.com/news/2020-03-ultra-precise-mind-controlled-prosthetic.html",
-      "ampWebUrl": "https://medicalxpress.com/news/2020-03-ultra-precise-mind-controlled-prosthetic.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-03-ultra-precise-mind-controlled-prosthetic.amp",
-      "publishedDateTime": "2020-03-04T11:00:00-08:00",
+      "webUrl": "https://www.courthousenews.com/scientists-develop-ultra-precise-mind-controlled-prosthetic-limb/",
+      "ampWebUrl": "https://www.courthousenews.com/scientists-develop-ultra-precise-mind-controlled-prosthetic-limb/amp/",
+      "cdnAmpWebUrl": "https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/scientists-develop-ultra-precise-mind-controlled-prosthetic-limb/amp/",
+      "publishedDateTime": "2020-03-04T11:25:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
+        "name": "Courthouse News Service",
+        "domain": "courthousenews.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
-      "images": null,
+      "images": [
+        {
+          "url": "https://i1.wp.com/www.courthousenews.com/wp-content/uploads/2020/03/Prosthetic1.jpg?fit=1000%2C666&ssl=1",
+          "width": 1000,
+          "height": 666,
+          "title": "Scientists Develop Ultra-Precise Mind-Controlled Prosthetic Limb",
+          "attribution": null
+        }
+      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -532,6 +770,80 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-04-its-like-you-have-a-hand-again-an-ultra-precise-mind-controlled-prosthetic.md",
+      "title": "'It's like you have a hand again': An ultra-precise mind-controlled prosthetic",
+      "excerpt": "finger-level control of a robotic hand. In a major advance in mind-controlled prosthetics for amputees, University of Michigan researchers have tapped faint, latent signals from arm nerves and ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.sciencedaily.com/releases/2020/03/200304141641.htm",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-03T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-03-google-cloud-hits-major-league-baseball-home-run-aws-is-out.md",
+      "title": "Google Cloud Hits Major League Baseball Home Run, AWS Is Out",
+      "excerpt": "has chosen AWS as its official provider for machine learning, artificial intelligence, and deep learning workloads. In extending its long-standing relationship, MLB will use AWS machine learning services to continue development of Statcast -- the tracking ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://virtualizationreview.com/articles/2020/03/03/mlb-gcp.aspx",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-03T14:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Virtualization Review",
+        "domain": "virtualizationreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://virtualizationreview.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/ArrowsRoadManCloudsSmall.jpg",
+          "width": 647,
+          "height": 450,
+          "title": "Google Cloud Hits Major League Baseball Home Run, AWS Is Out",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI"
       ]
     },
@@ -843,319 +1155,6 @@
           "width": 1680,
           "height": 987,
           "title": "77 autonomous vehicles drove over 500,000 miles across Beijing in 2019",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-02-first-mwc-then-gdc-now-nvidias-gpu-conference-is-online-only-as-coronavirus-spreads-in-silicon-valley.md",
-      "title": "First MWC, then GDC, now Nvidia's GPU conference is online-only as coronavirus spreads in Silicon Valley",
-      "excerpt": "The list goes on. We’ve also heard that Google’s TensorFlow Dev Summit, a two-day affair for machine learning developers, that was planned next week for March 11 and 12, in Sunnyvale ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theregister.co.uk/2020/03/02/coronavirus_conference_concerns/",
-      "ampWebUrl": "https://www.theregister.co.uk/AMP/2020/03/02/coronavirus_conference_concerns/",
-      "cdnAmpWebUrl": "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/03/02/coronavirus_conference_concerns/",
-      "publishedDateTime": "2020-03-02T14:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Register",
-        "domain": "theregister.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2018/03/27/jensen_huang.jpg",
-          "width": 4000,
-          "height": 2545,
-          "title": "First MWC, then GDC, now Nvidia's GPU conference is online-only as coronavirus spreads in Silicon Valley",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-02-novel-use-of-robotics-for-neuroendovascular-procedures.md",
-      "title": "Novel use of robotics for neuroendovascular procedures",
-      "excerpt": "Surgeons at the Sidney Kimmel Medical College at Thomas Jefferson University are pioneering the use of robotics in neuroendovascular procedures, which are performed via the blood vessels of the ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medicalxpress.com/news/2020-03-robotics-neuroendovascular-procedures.html",
-      "ampWebUrl": "https://medicalxpress.com/news/2020-03-robotics-neuroendovascular-procedures.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-03-robotics-neuroendovascular-procedures.amp",
-      "publishedDateTime": "2020-03-02T13:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-02-video-how-oneapi-is-revolutionizing-programming.md",
-      "title": "Video: How oneAPI Is Revolutionizing Programming",
-      "excerpt": "In this video, academics and industry experts weigh in on the potential of oneAPI, the new, unified software programming model for CPU, GPU, AI, and FPGA accelerators that delivers high compute performance for emerging specialized workloads across diverse ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://insidehpc.com/2020/03/video-how-oneapi-is-revolutionizing-programming/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-02T09:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insideHPC",
-        "domain": "insidehpc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://insidehpc.com/wp-content/uploads/2020/02/wong.jpg",
-          "width": 1064,
-          "height": 980,
-          "title": "Video: How oneAPI Is Revolutionizing Programming",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-02-are-chinas-self-driving-cars-overtaking-us-peers.md",
-      "title": "Are China's self-driving cars overtaking US peers?",
-      "excerpt": "Is this proof that Baidu's self-driving car is better than Google's? Both companies say no. \"Waymo's position from the start -- and a growing industry consensus -- is that disengagements are not ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://asia.nikkei.com/Business/Automobiles/Are-China-s-self-driving-cars-overtaking-US-peers",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-02T07:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NIKKEI",
-        "domain": "nikkei.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fs3-ap-northeast-1.amazonaws.com%2Fpsh-ex-ftnikkei-3937bb4%2Fimages%2F4%2F8%2F9%2F0%2F25280984-6-eng-GB%2FCropped-1583135322apollo.png?source=nar-cms&width=1024&height=512&fit=cover&gravity=faces",
-          "width": 1024,
-          "height": 512,
-          "title": "Are China's self-driving cars overtaking US peers?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-02-key-takeaways-from-the-gartner-magic-quadrant-for-ai-developer-services.md",
-      "title": "Key Takeaways From The Gartner Magic Quadrant For AI Developer Services",
-      "excerpt": "Amazon’s investment in developer kits such as DeepLens, DeepRacer, DeepComposer is working in its favor. Google is one of the first to offer AI and AutoML services to developers and businesses.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2020/03/02/key-takeaways-from-the-gartner-magic-quadrant-for-ai-developer-services/",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2020/03/02/key-takeaways-from-the-gartner-magic-quadrant-for-ai-developer-services/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/03/02/key-takeaways-from-the-gartner-magic-quadrant-for-ai-developer-services/amp/",
-      "publishedDateTime": "2020-03-02T04:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e5ca4d2765d4500072d9aef%2F0x0.jpg",
-          "width": 1000,
-          "height": 854,
-          "title": "Key Takeaways From The Gartner Magic Quadrant For AI Developer Services",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-02-a-dozen-microsoft-apis-for-web-developers.md",
-      "title": "A Dozen Microsoft APIs for Web Developers",
-      "excerpt": "The Microsoft Face API provides a slew of functionality that can be useful. The most basic part of the Face API is that it can detect faces within an image or video. You can use this information to recognize people. For example, you could capture an image ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.htmlgoodies.com/virtual-slideshows/a-dozen-microsoft-apis-for-web-developers.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-02T02:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HTML Goodies",
-        "domain": "htmlgoodies.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.htmlgoodies.com/imagesvr_ce/1994/face.JPG",
-          "width": 600,
-          "height": 288,
-          "title": "A Dozen Microsoft APIs for Web Developers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-02-ai-in-computer-vision-market-competitive-insights-and-future-outlook-2020.md",
-      "title": "AI In Computer Vision Market Competitive Insights and Future Outlook 2020",
-      "excerpt": "Global AI In Computer Vision Market research report published by market insight reports explores the current outlook in global and key regions from the perspective of Major Players, Countries, Product types and end industries.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-competitive-insights-and-future-outlook-2020-2020-03-02",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-02T02:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "AI In Computer Vision Market Competitive Insights and Future Outlook 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-01-artificial-intelligence-of-thingsaiot-explained.md",
-      "title": "Artificial Intelligence of Things(AIoT) Explained!",
-      "excerpt": "The application can range from smart home speakers to self driving cars. Both terms, Artificial Intelligence and Internet of Things, are buzzwords. This means we did already hear about them and ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/@arun.cthomas3/artificial-intelligence-of-things-aiot-explained-eedd4376f027",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-29T16:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/1*iZ-stajAPTmKQe3-0Ldf1g.jpeg",
-          "width": 1200,
-          "height": 773,
-          "title": "Artificial Intelligence of Things(AIoT) Explained!",
           "attribution": null
         }
       ],

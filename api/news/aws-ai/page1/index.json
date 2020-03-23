@@ -383,23 +383,31 @@
     {
       "path": "_news/2020-03-16-closedloopai-announces-release-of-free-open-source-ai-based-tool-to-identify-individuals-vulnerable-to-severe-complications-of-covid-19.md",
       "title": "ClosedLoop.ai Announces Release of Free Open Source AI-based Tool to Identify Individuals Vulnerable to Severe Complications of COVID-19",
-      "excerpt": "on Amazon's SageMaker platform, and via ClosedLoop's HIPAA compliant hosted platform. The CV19 Index is available for use through any of these methods at no cost ClosedLoop has created a forum at ...",
+      "excerpt": "on Amazon’s SageMaker platform, and via ClosedLoop’s HIPAA compliant hosted platform. The CV19 Index is available for use through any of these methods at no cost ClosedLoop has created a forum ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/03/b15556274/closedloop-ai-announces-release-of-free-open-source-ai-based-tool-to-identify-individuals-vulnerab",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15556274",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15556274",
-      "publishedDateTime": "2020-03-16T04:15:00-07:00",
+      "webUrl": "https://www.businesswire.com/news/home/20200316005226/en/ClosedLoop.ai-Announces-Release-Free-Open-Source-AI-based",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-16T04:43:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "Business Wire",
+        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
-      "images": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200316005226/en/779842/23/ClosedLoop_Logo.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": "ClosedLoop.ai Announces Release of Free Open Source AI-based Tool to Identify Individuals Vulnerable to Severe Complications of COVID-19",
+          "attribution": null
+        }
+      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -939,6 +947,43 @@
       ]
     },
     {
+      "path": "_news/2020-03-03-google-cloud-hits-major-league-baseball-home-run-aws-is-out.md",
+      "title": "Google Cloud Hits Major League Baseball Home Run, AWS Is Out",
+      "excerpt": "has chosen AWS as its official provider for machine learning, artificial intelligence, and deep learning workloads. In extending its long-standing relationship, MLB will use AWS machine learning services to continue development of Statcast -- the tracking ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://virtualizationreview.com/articles/2020/03/03/mlb-gcp.aspx",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-03T14:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Virtualization Review",
+        "domain": "virtualizationreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://virtualizationreview.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/ArrowsRoadManCloudsSmall.jpg",
+          "width": 647,
+          "height": 450,
+          "title": "Google Cloud Hits Major League Baseball Home Run, AWS Is Out",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-03-mlb-swings-from-amazons-aws-to-google-cloud-for-data-and-analytics.md",
       "title": "MLB Swings From Amazon’s AWS to Google Cloud for Data and Analytics",
       "excerpt": "Major League Baseball is benching Amazon Web Services, with the league picking Google Cloud as its new data and analytics partner. Under a multiyear pact, Google Cloud becomes MLB’s official cloud",
@@ -1099,51 +1144,6 @@
           "width": 500,
           "height": 328,
           "title": "Using DeepChem with Amazon SageMaker for virtual screening",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-28-conversational-ai-platform-market-major-technology-giants-in-buzz-again.md",
-      "title": "Conversational AI Platform Market Major Technology Giants in Buzz Again",
-      "excerpt": "The Conversational AI Platform Market has witnessed continuous growth in the last few years and is projected to grow even further during the forecast period of 2020-2026. The exploration provides a 360°",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/conversational-ai-platform-market-major-technology-giants-in-buzz-again-2020-02-28",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-28T09:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Conversational AI Platform Market Major Technology Giants in Buzz Again",
           "attribution": null
         }
       ],

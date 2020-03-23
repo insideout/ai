@@ -2,6 +2,207 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-03-13-aclu-sues-for-government-facial-recognition-records.md",
+      "title": "ACLU Sues For Government Facial Recognition Records",
+      "excerpt": "The American Civil Liberties Union and New York Civil Liberties Union are challenging federal law enforcement’s use of facial recognition surveillance tech. A lawsuit was filed Thursday against the U.S. Department of Homeland Security (DHS), Customs and Border Protection (CBP), Immigration and Customs Enforcement (ICE), and Transportation ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geek.com/tech/aclu-sues-for-government-facial-recognition-records-1820222/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-13T04:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geek.com",
+        "domain": "geek.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/geek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.geek.com/wp-content/uploads/2020/03/face-detection-geraltPixabay.jpg",
+          "width": 690,
+          "height": 388,
+          "title": "ACLU Sues For Government Facial Recognition Records",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-ing-invests-in-natural-language-proccesor-eigen-technologies.md",
+      "title": "ING invests in natural language proccesor Eigen Technologies",
+      "excerpt": "ING has contributed EUR4.5 million to a $42 million funding round in natural language processing vendor Eigen Technologies. The investment, made through the bank’s venture capital arm ING Ventures, is part of Eigen’s Series B round announced in November 2019, which also included financing from Goldman Sachs. Eigen’s NLP technology is ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.finextra.com/newsarticle/35454/ing-invests-in-natural-language-proccesor-eigen-technologies",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-13T04:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finextra",
+        "domain": "finextra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.finextra.com/finextra-images/top_pics/xl/ing.jpeg",
+          "width": 480,
+          "height": 270,
+          "title": "ING invests in natural language proccesor Eigen Technologies",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-philly-startup-that-uses-ai-to-detect-guns-raises-25m-for-massive-pipeline-ahead.md",
+      "title": "Philly startup that uses AI to detect guns raises $2.5M for 'massive pipeline' ahead",
+      "excerpt": "Philadelphia tech startup ZeroEyes raised $2.5 million in seed funding as the company aims to capitalize on a swell of interest in its gun-detection software for surveillance cameras.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bizjournals.com/philadelphia/news/2020/03/13/phillystartup-that-uses-ai-to-detect-guns-raises-2.html",
+      "ampWebUrl": "https://www.bizjournals.com/philadelphia/news/2020/03/13/phillystartup-that-uses-ai-to-detect-guns-raises-2.amp.html",
+      "cdnAmpWebUrl": "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/philadelphia/news/2020/03/13/phillystartup-that-uses-ai-to-detect-guns-raises-2.amp.html",
+      "publishedDateTime": "2020-03-13T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.bizj.us/view/img/11628102/zeroeyes*600xx1013-675-94-0.png",
+          "width": 600,
+          "height": 399,
+          "title": "Philly startup that uses AI to detect guns raises $2.5M for 'massive pipeline' ahead",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-computer-vision-for-quality-control-cross-industrial-applications.md",
+      "title": "Computer Vision For Quality Control: Cross-Industrial Applications",
+      "excerpt": "Computer vision and machine learning can significantly augment the current activities of millions of workers, improve the accuracy level of operations and decrease the number of errors.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/13/computer-vision-for-quality-control-cross-industrial-applications/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/13/computer-vision-for-quality-control-cross-industrial-applications/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/03/13/computer-vision-for-quality-control-cross-industrial-applications/amp/",
+      "publishedDateTime": "2020-03-13T04:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F03%2Fa-58.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "Computer Vision For Quality Control: Cross-Industrial Applications",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-unity-technologies-acquires-artomatix.md",
+      "title": "Unity Technologies acquires Artomatix",
+      "excerpt": "award-winning software company that uses AI and neural networks to streamline 3D artistic workflows in the entertainment industry has been acquired by Unity Technologies. Used by 3D artists worldwide across gaming, entertainment, industrial, and design industries, Artomatix’s flagship product, ArtEngine, uses artificial intelligence to help ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techcentral.ie/unity-technologies-acquires-artomatix/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-13T04:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mozilla",
+        "domain": "techcentral.ie",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.techcentral.ie/wp-content/uploads/2014/01/Mergers_Size.jpg",
+          "width": 620,
+          "height": 350,
+          "title": "Unity Technologies acquires Artomatix",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-13-facial-recognition-merely-a-lead-and-not-proof-of-someones-involvement-in-crime-says-new-nypd-policy.md",
       "title": "Facial recognition ‘merely a lead’ and not proof of someone’s involvement in crime, says new NYPD policy",
       "excerpt": "Cops can use facial recognition software to identify criminal suspects — but any match is “merely a lead” and not probable cause that someone is connected to a crime, NYPD Commissioner Dermot Shea said Friday. “It is our responsibility to ensure investigators are equipped with effective technologies to bring justice to New Yorkers who ...",
@@ -771,183 +972,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-12-artificial-intelligence-in-medical-imaging.md",
-      "title": "Artificial Intelligence in Medical Imaging",
-      "excerpt": "Worldwide Market Reports adds Artificial Intelligence in Medical Imaging Market 2020 Global Analysis Growth Trends and Opportunities Research Report Forecasting to 2024 reports to its database This report provides in depth study of Artificial Intelligence in Medical Imaging Market using",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.openpr.com/news/1965015/artificial-intelligence-in-medical-imaging-market-report-2020",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-12T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-12-podcast-applying-deep-learning-to-extreme-weather.md",
-      "title": "Podcast: Applying Deep Learning to Extreme Weather",
-      "excerpt": "In this podcast, the Radio Free HPC team looks at how researchers are using supercomputers to apply deep learning to extreme weather. A research team from Rice University utilized three supercomputers (TACC’s Stampede 2, Wrangler, and Pittsburg Supercomputing Center’s Bridges system) to see if data on heat waves and cold spells could be ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://insidehpc.com/2020/03/podcast-applying-deep-learning-to-extreme-weather/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-12T07:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insideHPC",
-        "domain": "insidehpc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://insidehpc.com/wp-content/uploads/2019/12/RFHPC-logo-notag-darkblue-svg.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Podcast: Applying Deep Learning to Extreme Weather",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-12-memory-systems-for-ai-part-4.md",
-      "title": "Memory Systems for AI: Part 4",
-      "excerpt": "In this blog post, we’ll be taking a closer look at a Roofline model that illustrates how AI applications perform on Google’s tensor processing unit (TPU), NVIDIA’s K80 GPU and Intel’s Haswell CPU. The graph above is featured in a paper published by Google a couple of years ago detailing the first-generation Tensor Processing Unit (TPU).",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.design-reuse.com/industryexpertblogs/47679/memory-systems-for-ai-part-4.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-12T07:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design-Reuse",
-        "domain": "design-reuse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-12-agtech-startups-use-machine-learning-to-analyze-farm-data.md",
-      "title": "Agtech Startups Use Machine Learning to Analyze Farm Data",
-      "excerpt": "Startups focused on agriculture and aquaculture technology are turning to cloud-based machine-learning services to process and analyze data so they can give customers better predictions on fertilizer needs,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wsj.com/articles/agtech-startups-use-machine-learning-to-analyze-farm-data-11583960555",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-12T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://si.wsj.net/public/resources/images/B3-GH440_spainm_SOC_20200311141112.jpg",
-          "width": 900,
-          "height": 471,
-          "title": "Agtech Startups Use Machine Learning to Analyze Farm Data",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-12-deep-north-closes-257-million-series-a-to-globalize-its-computer-vision-and-ai-powered-analytics-platform.md",
-      "title": "Deep North Closes $25.7 Million Series A To Globalize Its Computer Vision and AI-Powered Analytics Platform",
-      "excerpt": "/PRNewswire/ -- Deep North, a pioneer in computer vision and AI- powered video analytics, has closed a $25.7 million Series A funding round, led",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.prnewswire.com/news-releases/deep-north-closes-25-7-million-series-a-to-globalize-its-computer-vision-and-ai-powered-analytics-platform-301021818.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-12T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1122876/Deep_North_Logo.jpg?p=facebook",
-          "width": 707,
-          "height": 371,
-          "title": "Deep North Closes $25.7 Million Series A To Globalize Its Computer Vision and AI-Powered Analytics Platform",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

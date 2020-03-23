@@ -2,6 +2,125 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-03-10-google-launches-machine-learning-framework-for-training-quantum-models.md",
+      "title": "Google launches machine learning framework for training quantum models",
+      "excerpt": "The machine learning framework has the ability to construct quantum datasets ... The release of TensorFlow Quantum comes after Microsoft's launch of Azure Quantum and the recent news that Honeywell is developing a quantum computer with a quantum volume of at least 64 which will be available in the next three months. In an abstract for a ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techradar.com/uk/news/google-launches-machine-learning-framework-for-training-quantum-models",
+      "ampWebUrl": "https://www.techradar.com/uk/amp/news/google-launches-machine-learning-framework-for-training-quantum-models",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/google-launches-machine-learning-framework-for-training-quantum-models",
+      "publishedDateTime": "2020-03-10T11:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/PUkY2vFk37Kh5uzdiWBBgW-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Google launches machine learning framework for training quantum models",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-microsoft-and-cisco-team-up-to-integrate-cloud-and-iot-platforms.md",
+      "title": "Microsoft and Cisco team up to integrate cloud and IoT platforms",
+      "excerpt": "Microsoft has announced a partnership with Cisco to integrate its Azure cloud ... It is focusing on offering customers a fully integrated solution that gives access to powerful design tools, advance analytics, global connectivity and cognitive services for analysing IoT data. In November 2019, Cisco made an unspecified investment on Titan ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.iottechnews.com/news/2020/mar/10/microsoft-and-cisco-team-integrate-cloud-and-iot-platforms/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-10T10:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "iottechnews.com",
+        "domain": "iottechnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.iottechnews.com/media/img/news/iStock-1184908397.jpg.600x600_q96.png",
+          "width": 600,
+          "height": 440,
+          "title": "Microsoft and Cisco team up to integrate cloud and IoT platforms",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-genomic-computation-platform-launches-on-microsoft-azure.md",
+      "title": "Genomic computation platform launches on Microsoft Azure",
+      "excerpt": "The application is available on Amazon and Google Cloud, and it will now be made available for purchase on the Microsoft Azure platform, an online marketplace created by Microsoft for buying and selling of software services. EPAM Cloud Pipeline will be open-source, and will utilize machine learning capabilities, allowing scientists to build and ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.outsourcing-pharma.com/Article/2020/03/10/EPAM-launches-its-service-on-Microsoft-Azure",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-10T09:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Outsourcing-pharma",
+        "domain": "outsourcing-pharma.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/pharmaceutical-science/outsourcing-pharma.com/headlines/clinical-development/epam-launches-its-service-on-microsoft-azure/10792245-1-eng-GB/EPAM-launches-its-service-on-Microsoft-Azure.jpg",
+          "width": 748,
+          "height": 467,
+          "title": "Genomic computation platform launches on Microsoft Azure",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-10-superwiseai-secures-45m-in-seed-funding-to-accelerate-the-adoption-of-its-ai-assurance-platform.md",
       "title": "Superwise.ai Secures $4.5M in Seed Funding to Accelerate the Adoption of Its AI Assurance Platform",
       "excerpt": "Google AI Platform, Azure Machine Learning, Kubeflow, H20.ai and custom-built platforms. According to Gartner’s report, Help the Board Deal With Automated Decisions at Digital Speed (G00433877), “In digital businesses, many operational decisions are ...",
@@ -1136,125 +1255,6 @@
       "topics": [
         "AI",
         "AWS AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-21-microsoft-launches-entrepreneurship-program-targeted-at-social-entrepreneurs.md",
-      "title": "Microsoft launches entrepreneurship program targeted at social entrepreneurs",
-      "excerpt": "Under the program, which will be available in 140 countries, qualifying social enterprises will receive access to free Microsoft cloud technologies, including up to $120,000 in Azure credits, along with technical ... and Zindi's web platform has been created to host machine learning and AI competitions online in Africa.",
-      "heat": 106,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/microsoft-launches-entrepreneurship-program-targeted-at-social-entrepreneurs/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-launches-entrepreneurship-program-targeted-at-social-entrepreneurs/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-launches-entrepreneurship-program-targeted-at-social-entrepreneurs/",
-      "publishedDateTime": "2020-02-21T00:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2018/01/14/0b007dc5-ca44-4699-930c-7831748aa020/thumbnail/1200x675/747f01070b6fac97c0eed9500191a237/samsung-logo-ces.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Microsoft launches entrepreneurship program targeted at social entrepreneurs",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-21-microsoft-threat-protection-an-israeli-built-ai-bundle-of-redmonds-security-services.md",
-      "title": "Microsoft Threat Protection: an Israeli-built AI bundle of Redmond's security services",
-      "excerpt": "Microsoft Threat Protection literally consists of four existing services including Microsoft Defender Advanced Threat Protection (ATP), its Windows antivirus — which these days Mac and Linux too — Office ATP, Azure ATP, and its cloud app security suite. But while Microsoft Threat Protection is a combination of those existing services ...",
-      "heat": 116,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.csoonline.com/article/3528708/microsoft-threat-protection-an-israeli-built-ai-bundle-of-redmonds-security-services.html",
-      "ampWebUrl": "https://www.csoonline.com/article/3528708/microsoft-threat-protection-an-israeli-built-ai-bundle-of-redmonds-security-services.amp.html",
-      "cdnAmpWebUrl": "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3528708/microsoft-threat-protection-an-israeli-built-ai-bundle-of-redmonds-security-services.amp.html",
-      "publishedDateTime": "2020-02-20T18:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CSOonline",
-        "domain": "csoonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2019/12/09/06/2019-11-16t023310z_1_lynxmpefaf02a_rtroptp_4_microsoft-results-100820758-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Microsoft Threat Protection: an Israeli-built AI bundle of Redmond's security services",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-20-cybermdx-announces-integration-with-microsoft-azure-security-center-for-iot.md",
-      "title": "CyberMDX Announces Integration With Microsoft Azure Security Center for IoT",
-      "excerpt": "/PRNewswire/ -- CyberMDX, a leading provider of medical cyber security solution, delivering asset visibility and threat prevention for medical devices",
-      "heat": 102,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.prnewswire.com/news-releases/cybermdx-announces-integration-with-microsoft-azure-security-center-for-iot-301008578.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-20T11:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
-          "width": 600,
-          "height": 315,
-          "title": "CyberMDX Announces Integration With Microsoft Azure Security Center for IoT",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
         "Microsoft AI"
       ]
     }

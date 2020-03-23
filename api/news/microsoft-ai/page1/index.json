@@ -2,6 +2,133 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-03-23-microsoft-adaptive-biotech-collaborate-to-fight-covid-19.md",
+      "title": "Microsoft, Adaptive Biotech Collaborate to Fight COVID-19",
+      "excerpt": "Microsoft MSFT and Adaptive Biotechnologies ADPT recently extended partnership in a bid to aid public health officials and researchers to access and track data pertaining to COVID-19 patient immune responses.",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nasdaq.com/articles/microsoft-adaptive-biotech-collaborate-to-fight-covid-19-2020-03-23",
+      "ampWebUrl": "https://www.nasdaq.com/articles/microsoft-adaptive-biotech-collaborate-to-fight-covid-19-2020-03-23?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-adaptive-biotech-collaborate-to-fight-covid-19-2020-03-23?amp",
+      "publishedDateTime": "2020-03-23T08:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg?2130115734",
+          "width": 1024,
+          "height": 512,
+          "title": "Microsoft, Adaptive Biotech Collaborate to Fight COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-23-university-students-are-learning-to-collaborate.md",
+      "title": "University Students Are Learning To Collaborate",
+      "excerpt": "Penn State’s Nittany AI Challenge is teaching students the true meaning of collaboration in the age of Artificial Intelligence.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/03/23/university-students-are-learning-to-collaborate/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/03/23/university-students-are-learning-to-collaborate/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/03/23/university-students-are-learning-to-collaborate/amp/",
+      "publishedDateTime": "2020-03-23T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e7528552a573300068fe6fb%2F0x0.jpg",
+          "width": 1000,
+          "height": 668,
+          "title": "University Students Are Learning To Collaborate",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-23-how-azure-machine-learning-service-powers-suggested-replies-in-outlook.md",
+      "title": "How Azure Machine Learning service powers suggested replies in Outlook ",
+      "excerpt": "Microsoft 365 applications are so commonplace that it’s easy to overlook some of the amazing capabilities that are enabled with breakthrough technologies, including artificial intelligence (AI). Microsoft Outlook is an email client that helps you work efficiently with email, calendar, contacts, tasks,",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://azure.microsoft.com/blog/how-azure-machine-learning-service-powers-suggested-replies-in-outlook/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-23T02:00:07-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/fc79bf49-2bc6-41e8-951f-4e43e946ab06.jpg",
+          "width": 999,
+          "height": 619,
+          "title": "How Azure Machine Learning service powers suggested replies in Outlook ",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-23-a-list-of-fintech-firms-providing-free-technology-to-banks-during-the-coronavirus-crisis.md",
       "title": "A List Of Fintech Firms Providing Free Technology To Banks During The Coronavirus Crisis",
       "excerpt": "To help banks help their customers through these trying times, many fintech providers are extending free, discounted, or accelerated deployment offers to financial institutions. [Note to fintech providers: This list will be updated on a regular basis.",
@@ -51,7 +178,7 @@
       "path": "_news/2020-03-21-microsoft-and-adaptive-biotechnologies-partner-to-study-immune-response-to-covid-19.md",
       "title": "Microsoft and Adaptive Biotechnologies partner to study immune response to COVID-19",
       "excerpt": "Researchers will sequence immune cell receptors from the samples using Adaptive’s proprietary technology. The findings will then be analyzed by Microsoft’s large-scale machine learning capabilities and Azure cloud platform. “We can improve our collective understanding of COVID-19 by decoding the immune system’s response to the virus and ...",
-      "heat": 93,
+      "heat": 83,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.geekwire.com/2020/microsoft-adaptive-biotechnologies-partner-study-immune-response-covid-19/",
@@ -1063,125 +1190,6 @@
           "width": 1200,
           "height": 800,
           "title": "Here's how this UAE law firm is tapping AI, cloud to stay competitive",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-google-launches-machine-learning-framework-for-training-quantum-models.md",
-      "title": "Google launches machine learning framework for training quantum models",
-      "excerpt": "The machine learning framework has the ability to construct quantum datasets ... The release of TensorFlow Quantum comes after Microsoft's launch of Azure Quantum and the recent news that Honeywell is developing a quantum computer with a quantum volume of at least 64 which will be available in the next three months. In an abstract for a ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techradar.com/uk/news/google-launches-machine-learning-framework-for-training-quantum-models",
-      "ampWebUrl": "https://www.techradar.com/uk/amp/news/google-launches-machine-learning-framework-for-training-quantum-models",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/google-launches-machine-learning-framework-for-training-quantum-models",
-      "publishedDateTime": "2020-03-10T11:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/PUkY2vFk37Kh5uzdiWBBgW-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Google launches machine learning framework for training quantum models",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-microsoft-and-cisco-team-up-to-integrate-cloud-and-iot-platforms.md",
-      "title": "Microsoft and Cisco team up to integrate cloud and IoT platforms",
-      "excerpt": "Microsoft has announced a partnership with Cisco to integrate its Azure cloud ... It is focusing on offering customers a fully integrated solution that gives access to powerful design tools, advance analytics, global connectivity and cognitive services for analysing IoT data. In November 2019, Cisco made an unspecified investment on Titan ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.iottechnews.com/news/2020/mar/10/microsoft-and-cisco-team-integrate-cloud-and-iot-platforms/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-10T10:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "iottechnews.com",
-        "domain": "iottechnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.iottechnews.com/media/img/news/iStock-1184908397.jpg.600x600_q96.png",
-          "width": 600,
-          "height": 440,
-          "title": "Microsoft and Cisco team up to integrate cloud and IoT platforms",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-genomic-computation-platform-launches-on-microsoft-azure.md",
-      "title": "Genomic computation platform launches on Microsoft Azure",
-      "excerpt": "The application is available on Amazon and Google Cloud, and it will now be made available for purchase on the Microsoft Azure platform, an online marketplace created by Microsoft for buying and selling of software services. EPAM Cloud Pipeline will be open-source, and will utilize machine learning capabilities, allowing scientists to build and ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.outsourcing-pharma.com/Article/2020/03/10/EPAM-launches-its-service-on-Microsoft-Azure",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-10T09:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Outsourcing-pharma",
-        "domain": "outsourcing-pharma.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/pharmaceutical-science/outsourcing-pharma.com/headlines/clinical-development/epam-launches-its-service-on-microsoft-azure/10792245-1-eng-GB/EPAM-launches-its-service-on-Microsoft-Azure.jpg",
-          "width": 748,
-          "height": 467,
-          "title": "Genomic computation platform launches on Microsoft Azure",
           "attribution": null
         }
       ],

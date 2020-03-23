@@ -24,21 +24,21 @@ images:
     title: "Adaptive Biotechnologies Using Microsoft Azure To Better Detect COVID-19"
 
 related:
-  - title: "Microsoft and Adaptive Biotechnologies partner to study immune response to COVID-19"
-    excerpt: "Researchers will sequence immune cell receptors from the samples using Adaptive’s proprietary technology. The findings will then be analyzed by Microsoft’s large-scale machine learning capabilities and Azure cloud platform. “We can improve our collective understanding of COVID-19 by decoding the immune system’s response to the virus and ..."
-    publishedDateTime: 2020-03-21T01:47:00Z
-    webUrl: "https://www.geekwire.com/2020/microsoft-adaptive-biotechnologies-partner-study-immune-response-covid-19/"
-    ampWebUrl: "https://www.geekwire.com/2020/microsoft-adaptive-biotechnologies-partner-study-immune-response-covid-19/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-adaptive-biotechnologies-partner-study-immune-response-covid-19/amp/"
+  - title: "Microsoft, Adaptive Biotech Collaborate to Fight COVID-19"
+    excerpt: "Microsoft MSFT and Adaptive Biotechnologies ADPT recently extended partnership in a bid to aid public health officials and researchers to access and track data pertaining to COVID-19 patient immune responses."
+    publishedDateTime: 2020-03-23T15:46:00Z
+    webUrl: "https://www.nasdaq.com/articles/microsoft-adaptive-biotech-collaborate-to-fight-covid-19-2020-03-23"
+    ampWebUrl: "https://www.nasdaq.com/articles/microsoft-adaptive-biotech-collaborate-to-fight-covid-19-2020-03-23?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-adaptive-biotech-collaborate-to-fight-covid-19-2020-03-23?amp"
     type: article
     provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 83
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 89
     images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2019/10/20191008_GeekWire_Summit_244-630x450.jpg"
-        width: 630
-        height: 450
+      - url: "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg?2130115734"
+        width: 1024
+        height: 512
 
 secured: "7d9ktds8H8hKxv65Rf41iXH2oR/hicecHUb10ZheZnYepV8tnDt1mVS63uCvoujgdbsznBPWHkXYnjNpziowwvVsGzycXWDpVudJkCRGBzE+PXzE5GFAHHyWI///2XZlrdJlNAHuM9rgG7THvQneDdDS4so+WD6mmz59sz2lEJ6vOSSrgqQQEPZ2vCrgIp4k544gdPX5pWKfBkCMX55ML7byYKuTdMHndXGjvqWPX1xSo34DjJlzjih8oT6UUzWm3MhUMdomaKkyEBuQDcYqfkYTa4EFc1x9Ep/S9X/NvjDdH+Vq6gjj/Qwt4yJrqQqaTGlkzcnZTV6Owbu+RLAC+boHsl2vkR8hPW/dHG1xCV/H5+FM8jMt58RdFpWGl9dBp3kCXmv4SVmj0ASkE+nPcZTuedGCYIqm6+a6MEi9kr7uDANzTdiEBnOxbAYeKimi7BQIxsnKrp5A8PWQJwxxsOwkKTRXzfoBJVrccdMlIfg=;rl7XSp0sHCPivI3QyemEjw=="
 ---

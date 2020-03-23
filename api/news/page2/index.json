@@ -2,6 +2,211 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-03-20-ai-analyzes-biology-studies-to-find-out-were-getting-better-at-wildlife-conservation.md",
+      "title": "AI analyzes biology studies to find out we’re getting better at wildlife conservation",
+      "excerpt": "A new AI system has revealed that we’re finally getting better at wildlife conservation. Researchers came to this conclusion after using machine learning to analyze more than 4,000 studies on species reintroduction across four decades. The system evaluated the outcomes of conservation programs by assessing the study abstracts with sentiment ...",
+      "heat": 80,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/03/20/ai-analyzes-biology-studies-to-find-out-were-getting-better-at-wildlife-conservation/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/03/20/ai-analyzes-biology-studies-to-find-out-were-getting-better-at-wildlife-conservation/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/03/20/ai-analyzes-biology-studies-to-find-out-were-getting-better-at-wildlife-conservation/amp/",
+      "publishedDateTime": "2020-03-20T11:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/Untitled-design32-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "AI analyzes biology studies to find out we’re getting better at wildlife conservation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-20-an-ibm-supercomputer-called-summit-is-taking-on-the-coronavirus.md",
+      "title": "An IBM supercomputer called Summit is taking on the coronavirus",
+      "excerpt": "Technology in the form of jet planes may have helped the coronavirus ... to IBM, which developed the supercomputer, scientists are hoping that Summit’s findings will inform future studies and provide a focused framework for further investigation of the compounds that will reveal if any of them have the characteristics to attack and kill ...",
+      "heat": 152,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.ibm.com/blogs/nordic-msp/ibm-supercomputer-summit-attacks-coronavirus/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-20T08:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/nordic-msp/wp-content/uploads/2020/03/Screenshot-2020-03-13-at-10.01.55.png",
+          "width": 978,
+          "height": 612,
+          "title": "An IBM supercomputer called Summit is taking on the coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-20-this-ai-system-listens-to-coughs-to-learn-where-the-coronavirus-is-spreading.md",
+      "title": "This AI system listens to coughs to learn where the coronavirus is spreading",
+      "excerpt": "A new AI-powered system monitors coughing sounds to understand where the coronavirus is spreading. The FluSense device first detects coughing and crowd sizes in real-time. It then analyzes the data to predict the progress of COVID-19 and other respiratory diseases. These insights could guide public health responses to the pandemic, such as the ...",
+      "heat": 194,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/03/20/this-ai-system-listens-to-coughs-to-learn-where-the-coronavirus-is-spreading/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/03/20/this-ai-system-listens-to-coughs-to-learn-where-the-coronavirus-is-spreading/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/03/20/this-ai-system-listens-to-coughs-to-learn-where-the-coronavirus-is-spreading/amp/",
+      "publishedDateTime": "2020-03-20T08:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/Untitled-design31-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "This AI system listens to coughs to learn where the coronavirus is spreading",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-20-waymo-suspends-all-self-driving-services-in-light-of-coronavirus-pandemic.md",
+      "title": "Waymo suspends all self-driving services in light of coronavirus pandemic",
+      "excerpt": "Waymo has extended the partial suspension of its autonomous vehicle service pilots to include fully driverless vehicle testing, the company confirmed on Friday. While Alphabet-owned Waymo had already stopped operation of the autonomous driving vehicles in its fleet that have safety drivers on board, in the interest of minimizing the potential ...",
+      "heat": 98,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/03/20/waymo-suspends-all-self-driving-services-in-light-of-coronavirus-pandemic/",
+      "ampWebUrl": "https://techcrunch.com/2020/03/20/waymo-suspends-all-self-driving-services-in-light-of-coronavirus-pandemic/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/03/20/waymo-suspends-all-self-driving-services-in-light-of-coronavirus-pandemic/amp/",
+      "publishedDateTime": "2020-03-20T08:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/11/GettyImages-1142125645.jpg?w=1024",
+          "width": 1024,
+          "height": 662,
+          "title": "Waymo suspends all self-driving services in light of coronavirus pandemic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-20-statement-re-wisdomtree-artificial-intelligence-ucits-etf.md",
+      "title": "Statement Re WisdomTree Artificial Intelligence UCITS ETF",
+      "excerpt": "NOTICE TO SHAREHOLDERS OF WISDOMTREE ISSUER PLC This notice is important and requires your immediate attention. If you are in any doubt about its",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.globenewswire.com/news-release/2020/03/20/2004137/0/en/Statement-Re-WisdomTree-Artificial-Intelligence-UCITS-ETF.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-20T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GlobeNewswire",
+        "domain": "globenewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-20-five-ways-ai-is-changing-the-game-of-content-marketing.md",
       "title": "Five Ways AI Is Changing The Game Of Content Marketing",
       "excerpt": "Can an individual keep up with the advancing of technology? Can a team of individuals stay up to date in today's digital-dominant world without the assistance of technology? Think of all the tasks that need to be performed before any piece of content goes live: keyword research,",
@@ -847,206 +1052,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-amazon-researchers-develop-ai-that-improves-knowledge-graph-performance.md",
-      "title": "Amazon researchers develop AI that improves knowledge graph performance",
-      "excerpt": "In a new study, researchers at Amazon describe a technique that factors in information about knowledge graphs to perform entity alignment, which entails determining which elements of different graphs refer to the same “entities” (which might be anything from products to song titles). The idea is to improve computational efficiency while at ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/19/amazon-researchers-knowledge-graph-performance/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/19/amazon-researchers-knowledge-graph-performance/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/19/amazon-researchers-knowledge-graph-performance/amp/",
-      "publishedDateTime": "2020-03-19T09:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/amazon-logo-reuters.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Amazon researchers develop AI that improves knowledge graph performance",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-microsoft-teams-update-adds-ai-background-noise-removal.md",
-      "title": "Microsoft Teams Update Adds AI Background Noise Removal",
-      "excerpt": "Microsoft's workforce collaboration service, Teams, got an update today, adding AI-powered background noise reduction in online meetings, a Bookings feature, and a RealWear hands-free hard-hat technology integration. Since in-person meetings are a no-no ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.pcmag.com/news/microsoft-teams-update-adds-ai-background-noise-removal",
-      "ampWebUrl": "https://www.pcmag.com/news/microsoft-teams-update-adds-ai-background-noise-removal?amp=true",
-      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/microsoft-teams-update-adds-ai-background-noise-removal?amp=true",
-      "publishedDateTime": "2020-03-19T08:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/00mmXZY5zaCUdlluCPuJHHL-6.fit_lim.size_1200x630.v_1584632844.jpg",
-          "width": 1121,
-          "height": 630,
-          "title": "Microsoft Teams Update Adds AI Background Noise Removal",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-how-machine-learning-improves-banks-customer-experience.md",
-      "title": "How Machine Learning Improves Banks’ Customer Experience",
-      "excerpt": "Improved machine learning algorithms are pushing this process into the mainstream as a way for banks to significantly improve customer service. Here are four ways financial firms are using machine learning algorithms to their advantage. Customers applying for credit or looking for loan application approval historically waited weeks. Now ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://biztechmagazine.com/article/2020/03/how-machine-learning-improves-banks-customer-experience",
-      "ampWebUrl": "https://biztechmagazine.com/article/2020/03/how-machine-learning-improves-banks-customer-experience?amp",
-      "cdnAmpWebUrl": "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2020/03/how-machine-learning-improves-banks-customer-experience?amp",
-      "publishedDateTime": "2020-03-19T07:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BizTech",
-        "domain": "biztechmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202003/banks%20ML%20hero.jpg?itok=kxlpkwBL",
-          "width": 1440,
-          "height": 500,
-          "title": "How Machine Learning Improves Banks’ Customer Experience",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-alibaba-cloud-offers-ai-cloud-services-to-help-battle-covid-19-globally.md",
-      "title": "Alibaba Cloud Offers AI, Cloud Services to Help Battle COVID-19 Globally",
-      "excerpt": "Through video conferencing and real-time AI translation into 11 languages (Arabic, Bahasa, Chinese, English, French, Japanese, Russian, Spanish, Thai, Turkish, and Vietnamese), Alibaba Cloud aims to build a virtual community, inviting Chinese doctors to share their experiences and answer questions from global peers. From Alibaba DAMO Academy ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.hpcwire.com/off-the-wire/alibaba-cloud-offers-ai-cloud-services-to-help-battle-covid-19-globally/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-19T07:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HPCwire",
-        "domain": "hpcwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/biology_shutterstock-205625032_800x-405x228.jpg",
-          "width": 405,
-          "height": 228,
-          "title": "Alibaba Cloud Offers AI, Cloud Services to Help Battle COVID-19 Globally",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-ai-models-could-struggle-to-handle-the-market-downturn.md",
-      "title": "AI models could struggle to handle the market downturn",
-      "excerpt": "However, these models introduce significant fair lending risk, reputational risk and credit risk. Many newly established fintech and nonbanks entering the credit market late in the cycle favor the use of AI and ML underwriting methods that focus on thin file and near-prime borrowers. Additionally, established banks face pressure to grow.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.americanbanker.com/opinion/ai-models-could-struggle-to-handle-the-market-downturn",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-19T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "American Banker",
-        "domain": "americanbanker.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://arizent.brightspotcdn.com/dims4/default/c11ac70/2147483647/strip/true/crop/4368x2293+0+309/resize/1200x630!/quality/90/?url=https%3A%2F%2Farizent.brightspotcdn.com%2F67%2Fa7%2F4ae3a940490ba684093d832a2c74%2Fhousing-market-10635702-adobe.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "AI models could struggle to handle the market downturn",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

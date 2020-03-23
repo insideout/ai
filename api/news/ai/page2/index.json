@@ -2,6 +2,229 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-03-20-five-ways-ai-is-changing-the-game-of-content-marketing.md",
+      "title": "Five Ways AI Is Changing The Game Of Content Marketing",
+      "excerpt": "Can an individual keep up with the advancing of technology? Can a team of individuals stay up to date in today's digital-dominant world without the assistance of technology? Think of all the tasks that need to be performed before any piece of content goes live: keyword research,",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/03/20/five-ways-ai-is-changing-the-game-of-content-marketing/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/03/20/five-ways-ai-is-changing-the-game-of-content-marketing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2020/03/20/five-ways-ai-is-changing-the-game-of-content-marketing/amp/",
+      "publishedDateTime": "2020-03-20T05:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbesagencycouncil%2Ffiles%2F2020%2F03%2F45.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "Five Ways AI Is Changing The Game Of Content Marketing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-20-how-big-data-and-ai-are-turning-the-food-and-beverage-industry-on-its-head.md",
+      "title": "How Big Data And AI Are Turning The Food And Beverage Industry On Its Head",
+      "excerpt": "The answer to the next big food or flavor trend has had less to do with humans and more with the power of big data and artificial intelligence (AI).",
+      "heat": 85,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/20/how-big-data-and-ai-are-turning-the-food-and-beverage-industry-on-its-head/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/20/how-big-data-and-ai-are-turning-the-food-and-beverage-industry-on-its-head/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/03/20/how-big-data-and-ai-are-turning-the-food-and-beverage-industry-on-its-head/amp/",
+      "publishedDateTime": "2020-03-20T05:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F03%2Fa-37.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "How Big Data And AI Are Turning The Food And Beverage Industry On Its Head",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-20-ais-effect-on-productivity-now-and-in-the-future.md",
+      "title": "AI's Effect On Productivity Now And In The Future",
+      "excerpt": "Artificial intelligence is one of the hottest topics in the business world, and speculations about its potential effects abound. Professional services giant PwC claims AI could add nearly $16 trillion to the world economy by 2030.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/20/ais-effect-on-productivity-now-and-in-the-future/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/20/ais-effect-on-productivity-now-and-in-the-future/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/03/20/ais-effect-on-productivity-now-and-in-the-future/amp/",
+      "publishedDateTime": "2020-03-20T05:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F03%2Fa-36.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "AI's Effect On Productivity Now And In The Future",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-20-understanding-the-limits-of-convolutional-neural-networks-one-of-ais-greatest-achievements.md",
+      "title": "Understanding the limits of convolutional neural networks — one of AI’s greatest achievements",
+      "excerpt": "After a prolonged winter, artificial intelligence is experiencing a scorching summer mainly thanks to advances in deep learning and artificial neural networks. To be more precise, the renewed interest in deep learning is largely due to the success of convolutional neural networks (CNNs), a neural network structure that is especially good at ...",
+      "heat": 93,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/03/20/understanding-the-limits-of-convolutional-neural-networks-one-of-ais-greatest-achievements-syndication/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/03/20/understanding-the-limits-of-convolutional-neural-networks-one-of-ais-greatest-achievements-syndication/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/03/20/understanding-the-limits-of-convolutional-neural-networks-one-of-ais-greatest-achievements-syndication/amp/",
+      "publishedDateTime": "2020-03-20T01:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-...-2-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "Understanding the limits of convolutional neural networks — one of AI’s greatest achievements",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-20-huaweis-new-mid-range-phones-could-have-same-gpu-as-galaxy-s20-update.md",
+      "title": "Huawei’s new mid-range phones could have same GPU as Galaxy S20 (Update)",
+      "excerpt": "Still, it suggests that the Kirin 820 will offer even better on-device machine learning capabilities. Even if we don’t see a major AI boost, the GPU upgrade suggests that Huawei’s new mid-range phones might be ideal for gaming on a budget. Now, about building out its mobile services and AppGallery.",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.androidauthority.com/huawei-kirin-820-1094618/",
+      "ampWebUrl": "https://www.androidauthority.com/huawei-kirin-820-1094618/amp/",
+      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/huawei-kirin-820-1094618/amp/",
+      "publishedDateTime": "2020-03-19T23:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2019/09/Kirin-990-with-Huawei-logo-920x470.jpg",
+          "width": 920,
+          "height": 470,
+          "title": "Huawei’s new mid-range phones could have same GPU as Galaxy S20 (Update)",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-20-former-uber-self-driving-head-levandowski-agrees-to-plea-deal-over-google-secrets.md",
       "title": "Former Uber self-driving head Levandowski agrees to plea deal over Google secrets",
       "excerpt": "Engineer Anthony Levandowski, known for advancing self-driving car technology in the last decade, agreed to plead guilty on Thursday to taking sensitive documents from his former employer Google before joining rival Uber Technologies Inc.",
@@ -1014,183 +1237,6 @@
           "width": 1120,
           "height": 630,
           "title": "Artificial intelligence can improve colonoscopies",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-synergy-emergence-in-deep-reinforcement-motor-learning.md",
-      "title": "Synergy emergence in deep reinforcement motor learning",
-      "excerpt": "Now, researchers at Tohoku University have observed a similar concept in robotic agents using deep reinforcement learning (DRL) algorithms. DRL allows robotic agents to learn the best action possible in their virtual environment. It allows complex robotic tasks to be solved whilst minimalising manual operations and achieving peak performance.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.eurekalert.org/pub_releases/2020-03/tu-sei031920.php",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-19T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://eurekalert.org/multimedia_ml/pub/web/10686_web.jpg",
-          "width": 645,
-          "height": 315,
-          "title": "Synergy emergence in deep reinforcement motor learning",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-microsoft-can-filter-out-the-sound-of-you-eating-potato-chips-on-a-conference-call.md",
-      "title": "Microsoft can filter out the sound of you eating potato chips on a conference call",
-      "excerpt": "The software giant's trained artificial intelligence software to identify background noise that isn't your voice. Snackers, rejoice. Just in time for us all to be working from home because of the pandemic coronavirus,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/news/microsoft-can-filter-out-the-sound-of-you-eating-potato-chips-on-a-conference-call/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/microsoft-can-filter-out-the-sound-of-you-eating-potato-chips-on-a-conference-call/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-can-filter-out-the-sound-of-you-eating-potato-chips-on-a-conference-call/",
-      "publishedDateTime": "2020-03-19T06:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/JZSQgmXsYYeJrmdTuLhBplTeIGs=/756x567/2017/03/13/a8a77ece-0a9f-437e-8a76-60905540b98d/chips.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "Microsoft can filter out the sound of you eating potato chips on a conference call",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-media-alert-supermicro-announces-its-first-gpu-live-forum.md",
-      "title": "Media Alert: Supermicro Announces its First GPU Live Forum",
-      "excerpt": "Sessions will include: GPU Accelerated VDI Solution Powered by NVIDIA vGPU High-Density Computing Blade Servers & GPU Options Intelligent Edge Computing with NVIDIA EGX End-to-End AI with Supermicro's Validated NGC and EGX Platforms Accelerating Distributed DL Training with Optimized GPU Computing Solution Infrastructure Challenges within GPU ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2020-03/49150727-media-alert-supermicro-announces-its-first-gpu-live-forum-008.htm",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-19T06:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-ai-chip-startup-graphcore-lands-150-million-in-funding.md",
-      "title": "AI Chip Startup Graphcore Lands $150 Million in Funding",
-      "excerpt": "Graphcore, one of the top startups selling chips custom-made for artificial intelligence, has added another $150 million in funding led by financial asset firms and investment funds, as it looks to lure customers in the market and challenge its leaders Intel and Nvidia. The funding brings its total amount raised to about $450 million since it ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.electronicdesign.com/industrial-automation/article/21126492/ai-chip-startup-graphcore-lands-150-million-in-funding",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-19T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electronic Design",
-        "domain": "electronicdesign.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-this-ai-camera-detects-people-who-may-have-covid-19.md",
-      "title": "This AI camera detects people who may have COVID-19",
-      "excerpt": "The company’s software, which works with high-grade, off-the-shelf security cameras, uses an AI model to zoom in on a subject’s inner eye, which is most reflective of the body’s actual temperature, she said. The system uses AI to monitor numerous cameras at once, and automatically sends an alert to security personnel if it detects someone ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fastcompany.com/90479220/this-ai-camera-detects-people-who-may-have-covid-19",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-19T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fast Company",
-        "domain": "fastcompany.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/03/p-3-this-ai-camera-spots-people-with-coronavirus-fever.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "This AI camera detects people who may have COVID-19",
           "attribution": null
         }
       ],
