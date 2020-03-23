@@ -2,6 +2,124 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-03-13-aclu-sues-for-government-facial-recognition-records.md",
+      "title": "ACLU Sues For Government Facial Recognition Records",
+      "excerpt": "The American Civil Liberties Union and New York Civil Liberties Union are challenging federal law enforcement’s use of facial recognition surveillance tech. A lawsuit was filed Thursday against the U.S. Department of Homeland Security (DHS), Customs and Border Protection (CBP), Immigration and Customs Enforcement (ICE), and Transportation ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geek.com/tech/aclu-sues-for-government-facial-recognition-records-1820222/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-13T04:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geek.com",
+        "domain": "geek.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/geek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.geek.com/wp-content/uploads/2020/03/face-detection-geraltPixabay.jpg",
+          "width": 690,
+          "height": 388,
+          "title": "ACLU Sues For Government Facial Recognition Records",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-ing-invests-in-natural-language-proccesor-eigen-technologies.md",
+      "title": "ING invests in natural language proccesor Eigen Technologies",
+      "excerpt": "ING has contributed EUR4.5 million to a $42 million funding round in natural language processing vendor Eigen Technologies. The investment, made through the bank’s venture capital arm ING Ventures, is part of Eigen’s Series B round announced in November 2019, which also included financing from Goldman Sachs. Eigen’s NLP technology is ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.finextra.com/newsarticle/35454/ing-invests-in-natural-language-proccesor-eigen-technologies",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-13T04:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finextra",
+        "domain": "finextra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.finextra.com/finextra-images/top_pics/xl/ing.jpeg",
+          "width": 480,
+          "height": 270,
+          "title": "ING invests in natural language proccesor Eigen Technologies",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-philly-startup-that-uses-ai-to-detect-guns-raises-25m-for-massive-pipeline-ahead.md",
+      "title": "Philly startup that uses AI to detect guns raises $2.5M for 'massive pipeline' ahead",
+      "excerpt": "Philadelphia tech startup ZeroEyes raised $2.5 million in seed funding as the company aims to capitalize on a swell of interest in its gun-detection software for surveillance cameras.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bizjournals.com/philadelphia/news/2020/03/13/phillystartup-that-uses-ai-to-detect-guns-raises-2.html",
+      "ampWebUrl": "https://www.bizjournals.com/philadelphia/news/2020/03/13/phillystartup-that-uses-ai-to-detect-guns-raises-2.amp.html",
+      "cdnAmpWebUrl": "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/philadelphia/news/2020/03/13/phillystartup-that-uses-ai-to-detect-guns-raises-2.amp.html",
+      "publishedDateTime": "2020-03-13T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.bizj.us/view/img/11628102/zeroeyes*600xx1013-675-94-0.png",
+          "width": 600,
+          "height": 399,
+          "title": "Philly startup that uses AI to detect guns raises $2.5M for 'massive pipeline' ahead",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-13-computer-vision-for-quality-control-cross-industrial-applications.md",
       "title": "Computer Vision For Quality Control: Cross-Industrial Applications",
       "excerpt": "Computer vision and machine learning can significantly augment the current activities of millions of workers, improve the accuracy level of operations and decrease the number of errors.",
@@ -1031,101 +1149,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-12-swiss-re-announces-ai-data-tie-up-with-microsoft.md",
-      "title": "Swiss Re Announces AI Data Tie-Up With Microsoft",
-      "excerpt": "The service would be available to insurer clients, but also used internally to aid the company’s own pricing. As part of the deal, Swiss Re said it would move its internal operating system to Microsoft’s cloud product, Azure. That would enable the reinsurer to access “advanced data processing” and artificial intelligence systems ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.law360.com/articles/1252636/swiss-re-announces-ai-data-tie-up-with-microsoft",
-      "ampWebUrl": "https://www.law360.com/amp/articles/1252636",
-      "cdnAmpWebUrl": "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1252636",
-      "publishedDateTime": "2020-03-12T06:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Law360",
-        "domain": "law360.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-12-immunoprecise-antibodies-unveils-new-therapy-approach-in-bid-to-tackle-coronavirus.md",
-      "title": "ImmunoPrecise Antibodies unveils new therapy approach in bid to tackle coronavirus",
-      "excerpt": "Today, it unveiled the use of PolyTope mAb Therapy, which it says is enabled by Immunoprecise's diverse discovery platforms and artificial intelligence (AI) capabilities with partner EVQLV Inc. Last month, Immunoprecise named Dr Ilse Roodink, the firm's ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.proactiveinvestors.com/companies/news/914841/immunoprecise-antibodies-unveils-new-therapy-approach-in-bid-to-tackle-coronavirus-914841.html",
-      "ampWebUrl": "https://www.proactiveinvestors.com/companies/amp/news/914841",
-      "cdnAmpWebUrl": "https://www-proactiveinvestors-com.cdn.ampproject.org/c/s/www.proactiveinvestors.com/companies/amp/news/914841",
-      "publishedDateTime": "2020-03-12T06:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Proactiveinvestors",
-        "domain": "proactiveinvestors.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.proactiveinvestors.com/thumbs/upload/News/Image/2020_03/1200z740_1584014619_shutterstock_1621031059_coronavirus.jpg",
-          "width": 1200,
-          "height": 740,
-          "title": "ImmunoPrecise Antibodies unveils new therapy approach in bid to tackle coronavirus",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-12-how-ai-could-help-translate-the-written-language-of-ancient-civilizations.md",
-      "title": "How AI could help translate the written language of ancient civilizations",
-      "excerpt": "But a technological breakthrough at the University of Chicago may finally make automated transcription of these tablets—which reveal rich information about Achaemenid history, society and language—possible ... Krishnan applies deep learning and AI techniques to data analysis, including video and other complex data types.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://phys.org/news/2020-03-ai-written-language-ancient-civilizations.html",
-      "ampWebUrl": "https://phys.org/news/2020-03-ai-written-language-ancient-civilizations.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-03-ai-written-language-ancient-civilizations.amp",
-      "publishedDateTime": "2020-03-12T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

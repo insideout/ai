@@ -17,6 +17,7 @@ provider:
 topics:
   - IBM AI
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://i.insider.com/5e67b491e4f9fe389623a166?width=1200&format=jpeg"

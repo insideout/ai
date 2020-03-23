@@ -12,6 +12,7 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://mma.prnewswire.com/media/1122612/Microsoft_AI_Awards.jpg?p=facebook"

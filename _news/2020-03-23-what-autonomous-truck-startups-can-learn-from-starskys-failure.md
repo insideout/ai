@@ -1,30 +1,30 @@
 ---
 category: news
-title: "What autonomous truck startups can learn from Starsky’s failure"
-excerpt: "“From my vantage point, I think the most likely line of human equivalence is L3 [autonomy] which means that no one should be betting a business on safe AI (artificial intelligence) decision makers,” Seltz ... But, unlike autonomous startups like TuSimple, Ike, Plus.ai and Waymo, Starsky was never able to attract the big funding necessary ..."
-publishedDateTime: 2020-03-23T11:03:00Z
-webUrl: "https://www.freightwaves.com/news/what-autonomous-truck-startups-can-learn-from-starskys-failure"
-ampWebUrl: "https://www.freightwaves.com/news/what-autonomous-truck-startups-can-learn-from-starskys-failure/amp"
-cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/what-autonomous-truck-startups-can-learn-from-starskys-failure/amp"
+title: "What Autonomous Truck Startups Can Learn From Starsky's Failure"
+excerpt: "Likely lost in the coronavirus news onslaught last week was the demise of Starsky Robotics. A startup failing is not news; most such businesses fail. Still, when co-founder Stefan Seltz-Axmacher took to Medium last Thursday to announce the closure,"
+publishedDateTime: 2020-03-23T13:13:00Z
+webUrl: "https://www.benzinga.com/news/20/03/15632735/what-autonomous-truck-startups-can-learn-from-starskys-failure"
+ampWebUrl: "https://amp.benzinga.com/amp/content/15632735"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15632735"
 type: article
 quality: 59
 heat: 59
 published: false
 
 provider:
-  name: freightwaves.com
-  domain: freightwaves.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://s29755.pcdn.co/wp-content/uploads/2020/03/What_Starskys_failure_1.jpg"
+  - url: "https://www.benzinga.com/files/images/story/2012/what_starskys_failure_1.jpg"
     width: 1200
     height: 675
-    title: "What autonomous truck startups can learn from Starsky’s failure"
+    title: "What Autonomous Truck Startups Can Learn From Starsky's Failure"
 
-secured: "m7oq4Y/E5vmAX5Vq9sJmbYvlerIqFS64aqb4ZtuDRBN1dgk7s5TbtUuwCf3+RtK2cGrNELzHFeK0BuFBz7JuAbN+femfCvqj/7b94hNZgoxOzRyLXAcot1JIqWo1NphyNGiGmUT9S/wlj37+QuJNMdc3aIeW3PYJ2dr3ay2SH4u+h/CNtenR9X/9svgE4CZx+IIFf0b35NgTcD08al8jd7pUlx8YsM88GhGw0niUCPkNiL8jrIwTOsG2GiXmysf6zzOEFnH9i73g0ieh+dg6B3ZK7FWT8mlVtXNzdPF9bt3//K8+zLG4WDPrVwt0ag76r1rZJ8wHW2SnSpqWib4qKSTbr+Jy+c2IG66yU2BQ2giEPt4Mpv5SReokOOJctzOG6Pu46cPBBURZWc6g5mHkwa7c5DDKsHheLzqQ0WtXYl8K911ntMEi+q9RxS593gUo8QCotY5+n627o2R74N7ynJnk0t975IyxvEAXcALDVPY=;VZdQxgAroFFkR1qquB0EEA=="
+secured: "0VQG6/vZS8nsb/cDRzWO0V/Qo8zLJlI0ybPsb5CYKaOWXEZTnY74KgpKsrLgessBkW+4HgpH378dc6j/l/3Q1uvX/vmqiYQRyQi3oOXFLgJqUj8tdinCYJlAO8OQdtG1HMm3UfsfnTpqPQzpi5NuDm2Hpk5nOz7oa60LjkefRZalYiZhtC4TLptnTmTlngHBcrqjlgLC4Fn2LKkn19QNgB60dy6hULeSI8NB21Pz863zzCaG8ZiVcxHsH85v5AOCS/pOlvYQGID44fgXEicfQOOOVJ0MjnfeFlc/FZWjzSf28LXSn5znFZvh7cGLTpIj;711VNUjmsHktlakn649dzg=="
 ---
 

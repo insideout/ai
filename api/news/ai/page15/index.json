@@ -2,6 +2,109 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-03-09-artificial-intelligence-in-healthcare-market-2020-global-key-players-trends-share-industry-size-segmentation-opportunities-forecast-to-2026.md",
+      "title": "Artificial Intelligence in Healthcare Market 2020: Global Key Players, Trends, Share, Industry Size, Segmentation, Opportunities, Forecast To 2026",
+      "excerpt": "“Artificial Intelligence in Healthcare Market” Summary: A new market study, titled \"Global Artificial Intelligence in Healthcare Market Upcoming Trends,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/03/ab15504764/artificial-intelligence-in-healthcare-market-2020-global-key-players-trends-share-industry-size-s",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15504764",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15504764",
+      "publishedDateTime": "2020-03-09T00:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-09-global-artificial-intelligence-ai-chips-market-2020-industry-segmentation-cagr-status-leading-trends-forecast-to-2025.md",
+      "title": "Global Artificial Intelligence (AI) Chips Market 2020 Industry Segmentation, CAGR Status, Leading Trends, Forecast to 2025",
+      "excerpt": "A recent market study entitled Global Artificial Intelligence (AI) Chips Market 2020 by Manufacturers, Regions, Type and Application, Forecast to 2025 provides an in-depth analysis of the global market,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-chips-market-2020-industry-segmentation-cagr-status-leading-trends-forecast-to-2025-2020-03-09",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-08T23:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Global Artificial Intelligence (AI) Chips Market 2020 Industry Segmentation, CAGR Status, Leading Trends, Forecast to 2025",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-09-autonomous-and-self-driving-vehicle-news-baidu-spoofed-waymo-cmore.md",
+      "title": "Autonomous and Self-Driving Vehicle News; Baidu Spoofed, Waymo & CMORE",
+      "excerpt": "That’s all you need to get the sensor mixed up, report the researchers that broke into Baidu Apollo. “We showed how an attacker can suddenly halt ... which fills a crucial safety role in self-driving vehicles. In the U.S. each year, there are more than 1.5 million deer-related accidents, which cause around 200 human deaths and 10,000 ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.autoconnectedcar.com/2020/03/autonomous-and-self-driving-vehicle-news-baidu-spoofed-waymo-cmore/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-08T19:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "autoconnectedcar.com",
+        "domain": "autoconnectedcar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-09-getting-there-americans-remain-leery-of-self-driving-cars.md",
       "title": "GETTING THERE: Americans remain leery of self-driving cars",
       "excerpt": "WHILE the push continues for a future where self-driving cars are the norm, at present we humans seem averse to sharing the road with artificial intelligence. And that’s saying a lot, given the proliferation of bad and dangerous drivers on the roads.",
@@ -1029,125 +1132,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-05-aible-is-recognized-as-a-visionary-in-the-gartner-magic-quadrant-2020.md",
-      "title": "Aible is Recognized as a Visionary in the Gartner Magic Quadrant 2020",
-      "excerpt": "It assesses vendors with offerings in three key service areas: language, vision and automated machine learning (AutoML).” The Gartner Magic Quadrant places Aible in its “Visionaries” quadrant. Gartner says, “Visionaries are likely to excel in AutoML, as this segment is viewed as the most important for application leaders and development ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businesswire.com/news/home/20200305005262/en/Aible-Recognized-Visionary-Gartner-Magic-Quadrant-2020",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-05T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200305005262/en/777778/23/Aible.logo.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": "Aible is Recognized as a Visionary in the Gartner Magic Quadrant 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-05-using-a-robotic-arm-on-wheels-to-fight-coronavirus.md",
-      "title": "Using a robotic 'arm on wheels' to fight coronavirus",
-      "excerpt": "Using a robotic 'arm on wheels' to fight coronavirus Posted Researchers in China have developed a robot which they hope will help doctors who are working with coronavirus patients on the frontlines.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://in.reuters.com/video/watch/idOVC3S699N",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-05T01:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static.reuters.com/resources/r/?d=20200305&i=OVC3S699N&r=OVC3S699N&t=2",
-          "width": 960,
-          "height": 540,
-          "title": "Using a robotic 'arm on wheels' to fight coronavirus",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-05-scientists-devise-prosthetic-arm-controlled-by-mind.md",
-      "title": "Scientists devise prosthetic arm controlled by mind",
-      "excerpt": "Scientists have devised a mind-controlled prosthetic arm that is so dexterous it ... The messages are sent to a robotic hand, allowing the correct finger or thumb to move in the intended way. Scientists believe that it could change the way that amputees ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.thetimes.co.uk/article/scientists-devise-prosthetic-arm-controlled-by-mind-89532xsvn",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-04T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Times",
-        "domain": "thetimes.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fe9fde808-5e50-11ea-9891-dcb2edabd2b0.jpg?crop=1557%2C876%2C0%2C81&resize=685",
-          "width": 685,
-          "height": 385,
-          "title": "Scientists devise prosthetic arm controlled by mind",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

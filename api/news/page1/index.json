@@ -2,6 +2,44 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-03-23-coronavirus-spain-to-use-artificial-intelligence-to-automate-testing.md",
+      "title": "Coronavirus: Spain to use artificial intelligence to automate testing",
+      "excerpt": "According to Bloomberg, Spanish authorities now plan to increase daily testing from about 20,000 a day to 80,000, by using four robots to apply artificial intelligence (AI) to testing. Speaking at a conference on Saturday 21 March, Raquel Yotti, head of Madrid’s health institute, said: “A plan to automate tests through robots has already ...",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.computerweekly.com/news/252480445/Coronavirus-Spain-to-use-Artificial-intelligence-to-automate-testing",
+      "ampWebUrl": "https://www.computerweekly.com/news/252480445/Coronavirus-Spain-to-use-Artificial-intelligence-to-automate-testing?amp=1",
+      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252480445/Coronavirus-Spain-to-use-Artificial-intelligence-to-automate-testing?amp=1",
+      "publishedDateTime": "2020-03-23T07:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.ttgtmedia.com/visuals/German/article/Artificial-intelligence-robot-datacenter-adobe.jpg",
+          "width": 1200,
+          "height": 400,
+          "title": "Coronavirus: Spain to use artificial intelligence to automate testing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-03-23-tesla-files-patent-for-sourcing-self-driving-training-data-from-its-fleet.md",
       "title": "Tesla files patent for sourcing self-driving training data from its fleet",
       "excerpt": "Tesla has filed a patent on how to source training data from its large fleet of customer vehicles in order to train its self-driving neural network. The patent was filed for Tesla, but Andrej Karpathy, Tesla’s head of AI and Autopilot software, is named as the sole inventor on the application. He describes the problem with collecting data for ...",
@@ -87,6 +125,51 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-23-nvidias-dlss-2-aims-to-upscale-its-low-res-reputation.md",
+      "title": "Nvidia's DLSS 2 aims to upscale its low-res reputation",
+      "excerpt": "Nvidia has slowly been climbing out of the reputational pit it dug with the initial release of DLSS, its AI-enhanced technology for upscaling games to run on higher-resolution displays without visual or framerate compromises.",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/nvidias-dlss-2-aims-to-upscale-its-low-res-reputation/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/nvidias-dlss-2-aims-to-upscale-its-low-res-reputation/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nvidias-dlss-2-aims-to-upscale-its-low-res-reputation/",
+      "publishedDateTime": "2020-03-23T06:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet3.cbsistatic.com/img/Mw-doFVfOEHFoIvyaKh_CJJRUms=/756x567/right/middle/2020/03/22/6c4d0e24-e46c-4b83-82e7-06d4766bdd06/nvidia-dlss-2.png",
+          "width": 756,
+          "height": 567,
+          "title": "Nvidia's DLSS 2 aims to upscale its low-res reputation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     },
@@ -986,95 +1069,6 @@
         "authors": null
       },
       "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-20-five-ways-ai-is-changing-the-game-of-content-marketing.md",
-      "title": "Five Ways AI Is Changing The Game Of Content Marketing",
-      "excerpt": "Can an individual keep up with the advancing of technology? Can a team of individuals stay up to date in today's digital-dominant world without the assistance of technology? Think of all the tasks that need to be performed before any piece of content goes live: keyword research,",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/03/20/five-ways-ai-is-changing-the-game-of-content-marketing/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/03/20/five-ways-ai-is-changing-the-game-of-content-marketing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2020/03/20/five-ways-ai-is-changing-the-game-of-content-marketing/amp/",
-      "publishedDateTime": "2020-03-20T05:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbesagencycouncil%2Ffiles%2F2020%2F03%2F45.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "Five Ways AI Is Changing The Game Of Content Marketing",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-20-how-big-data-and-ai-are-turning-the-food-and-beverage-industry-on-its-head.md",
-      "title": "How Big Data And AI Are Turning The Food And Beverage Industry On Its Head",
-      "excerpt": "The answer to the next big food or flavor trend has had less to do with humans and more with the power of big data and artificial intelligence (AI).",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/20/how-big-data-and-ai-are-turning-the-food-and-beverage-industry-on-its-head/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/20/how-big-data-and-ai-are-turning-the-food-and-beverage-industry-on-its-head/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/03/20/how-big-data-and-ai-are-turning-the-food-and-beverage-industry-on-its-head/amp/",
-      "publishedDateTime": "2020-03-20T05:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F03%2Fa-37.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "How Big Data And AI Are Turning The Food And Beverage Industry On Its Head",
-          "attribution": null
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"

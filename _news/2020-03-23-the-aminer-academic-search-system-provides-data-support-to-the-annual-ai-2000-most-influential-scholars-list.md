@@ -1,28 +1,28 @@
 ---
 category: news
 title: "The AMiner Academic Search System Provides Data Support to the Annual AI 2000 Most Influential Scholars List"
-excerpt: "Some researchers have made outstanding contributions to multiple fields, such as Yoshua Bengio, the Turning Award winner in 2018; and Alex Smola, AWS Machine Learning Director of Amazon ... Annual List names the world's 2,000 top scholars in the fields of artificial intelligence over the next ten years (2020-2029) in recognition of outstanding ..."
-publishedDateTime: 2020-03-23T11:34:00Z
-webUrl: "https://www.tmcnet.com/usubmit/2020/03/23/9119145.htm"
+excerpt: "named the world's 2000 top-cited research scholars from the fields of artificial intelligence (AI) over the next ten years (2020–2029). Data provided by Tsinghua Aminer academic data system, which tracks and analyzes research results for 250,"
+publishedDateTime: 2020-03-23T14:50:00Z
+webUrl: "https://www.prnewswire.com/news-releases/the-aminer-academic-search-system-provides-data-support-to-the-annual-ai-2000-most-influential-scholars-list-301027834.html"
 type: article
 quality: 20
 heat: 20
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
-    width: 252
-    height: 335
+  - url: "https://mma.prnewswire.com/media/1136314/Numbers_AI2000_Scholars_Top_10_Countries.jpg?p=facebook"
+    width: 1251
+    height: 655
     title: "The AMiner Academic Search System Provides Data Support to the Annual AI 2000 Most Influential Scholars List"
 
-secured: "MqKAoavrdyNCDl/9mUBwEExkGWr5U6lsTcYm/bltBKAkVxqWyHZGLIvnTEQKnbaccIIYm6bendqqI4GxEoJLMZVSWrw6GUYL/LRgudMUd3fAqtRgW+t+SqpQexBteGSMU91mROLHqG0f12WRrT8xJspu7M1rcai1/rV7oU7yjX7arHHRjru3//tOCMNJQgPGALW3ydwpcPEKT2Hd5a+ovLAFO1o1xm0deUusS+jQJ01AU/5az0DEjh3LSRa+RO4/aaE9rP+EU4JwZFI5NLm1bpBP9F82/teNBqi8IfJ7ww/6GZkJME8QgLYEQ+0mLC5y;Z6jzisGufrlMOBm4YLc/+A=="
+secured: "s9JtvzTen/DcYps6Mhw8x3cgvjLj/RFUYZ2RhhvgrH9xj4OqUzuvpk9Ag5GjkiWSDnvkUqZ/xmLGJ0sq/K6Qb4uK5qPETDzdOfFFOE8ssSq68vpJXStxMnPhHmN/M4eTD6XXU/LeKgHebCNs5a4lMLNvHf/uXo8WM/EuyD1OzARPrWaKZROG654N9pgQDuivSRefxJv58qW6cog4zSM1FTDNXTUF33w4DKEYXjV/DhO11J7rc7Io2aTJc3dU2vgM8lGXJceKp4STiCMKWCEryuszATAMOniCCwsH/8dZ+AxpWQJonM0y1y2OsGJJ0G69;mvs6az0IrWJDiXC29ImMlQ=="
 ---
 
