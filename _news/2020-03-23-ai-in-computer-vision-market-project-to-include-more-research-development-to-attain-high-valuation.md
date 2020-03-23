@@ -5,9 +5,9 @@ excerpt: "AI in Computer Vision Market Research Report- Forecast till 2023 Marke
 publishedDateTime: 2020-03-23T16:06:00Z
 webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-project-to-include-more-research-development-to-attain-high-valuation-2020-03-23"
 type: article
-quality: 56
-heat: 56
-published: false
+quality: 73
+heat: 73
+published: true
 
 provider:
   name: MarketWatch
@@ -21,6 +21,7 @@ topics:
   - Facebook AI
   - AI
   - AI in Robotics
+  - Computer Vision
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
