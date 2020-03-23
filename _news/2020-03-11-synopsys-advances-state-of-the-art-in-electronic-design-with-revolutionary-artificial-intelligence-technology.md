@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Synopsys Advances State-of-the-Art in Electronic Design with Revolutionary Artificial Intelligence Technology"
-excerpt: "MOUNTAIN VIEW, Calif., March 11, 2020 /PRNewswire/ --Highlights: Inspired by DeepMind's AlphaZero AI that mastered complex games like chess and"
-publishedDateTime: 2020-03-11T13:43:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/synopsys-advances-state-of-the-art-in-electronic-design-with-revolutionary-artificial-intelligence-technology-1028985521"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/synopsys-advances-state-of-the-art-in-electronic-design-with-revolutionary-artificial-intelligence-technology-1028985521"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/synopsys-advances-state-of-the-art-in-electronic-design-with-revolutionary-artificial-intelligence-technology-1028985521"
+excerpt: "Inspired by DeepMind's AlphaZero AI that mastered complex games like chess and Go, Synopsys' DSO.ai™ solution is able to autonomously search for optimization targets in very large solution spaces of chip design Synopsys' DSO.ai massively scales exploration of options in chip design workflows while automating less consequential decisions ..."
+publishedDateTime: 2020-03-11T13:17:00Z
+webUrl: "https://www.tmcnet.com/usubmit/-synopsys-advances-state-of-the-art-electronic-design-/2020/03/11/9113479.htm"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Google AI
   - AI
 
-secured: "1pHU9/JFIS9Jb+C27ae+cnN77WJUtmyaJ6dpHIpWmXlLHtgTrYEWQIanKJB6HY9WD1wPoY+cuyfRziWYvHi+QHEDcOxYitOCD5DKZkBLMuZ7jsSdx3y4suzPB/MSFFJMNkfcLjVLmy79OBc05SysidN8UqGq3jJkbTLXKdQOnHkNYDgummRUCUNMcHylmBCrhhoXh75lQ/LPNA66kRGcl9iA09mjyqyzR3x7jchST5LPjf4Jm8edvRaZkU8nB1sL907BYIKRXU+BlkMUj0v2Gnr+9QcHiHgIOMNgEthRTYajhNQ96h/+wR/ewQLifttk;ENVvoPsw22n89kLUocgPlw=="
+images:
+  - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
+    width: 252
+    height: 335
+    title: "Synopsys Advances State-of-the-Art in Electronic Design with Revolutionary Artificial Intelligence Technology"
+
+secured: "UBNXucygOn6rtJK1gUrQWjfGcu6e0xI6+xvcaakf0SWRoave6hw/Kt1uhD3AoAT0Vns7QGbQGjHBakiQV51kvAV2Sec0xoyDnkfYR3uBZAkOGL7qOZWgks946NDRv7la5xmFjS6z89FGAdOVpnzrlbh9uyEG8N2tk3j/bF6EEGxwpFBLCx1F4MMof/a5LL9g8qVnYhN/7RoxpKE5UuLSy9KA7Frv0BnF0zWP8QIE7xuxn6Q85xVF5F8kBtP/c8Inf7LmLBUWdyhPegKUVEfXvc7ondDrFOt/fzD2uBRYGCbdFaqpTUcbMBUnnTiQMCVn;hExIqhW9n0moVmGcNptlnQ=="
 ---
 
