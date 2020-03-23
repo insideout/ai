@@ -25,21 +25,6 @@ images:
     height: 534
     title: "Engineer From Marin To Plead Guilty To Stealing Trade Secret"
 
-related:
-  - title: "Former Uber Engineer Will Plead Guilty To Count Of Stealing Driverless Car Trade Secret"
-    excerpt: "Former Uber engineer Anthony Levandowski plans to plead guilty in federal court in San Francisco to one count of stealing a trade secret related to self-driving cars from Google Inc., according to documents filed in the court on Thursday."
-    publishedDateTime: 2020-03-20T14:03:00Z
-    webUrl: "https://www.sfgate.com/news/bayarea/article/Former-Uber-Engineer-Will-Plead-Guilty-To-Count-15144875.php"
-    type: article
-    provider:
-      name: SFGate
-      domain: sfgate.com
-    quality: 31
-    images:
-      - url: "https://www.sfgate.com/img/pages/article/opengraph_default.png"
-        width: 500
-        height: 261
-
 secured: "AFNiq4jAe1DIHbntku3hVXP/Tiu85mABc6vfo/cs1tr7rh6EN6EkGEhg56uQonoViysm8eSErbJuga575ygSSHs/m4Gd2QYVbSSikwu37pac+7n27S2GphjQGwTNoU1lDFe//S9pcpPrtit4mandLd97Xcmy4cfJxc+pq+cn0A6zZfPdFO35qppr6TqnlJ0VP1TEatWY6rr9oskEfVMjsasXQQGQq9qdAMtfgkRED79cMKVciWsqf2n31qyx/zueYOCgtnlZzzf5vrmjYfOPTkGgliGZi8Y6ffhruRGopCIDfge6ROwMauzo1NS8lhBRUhBKB/SdV7aU5XumIqxGdWsDVuMg4segSnky0e2Emq5OZn25upn2vxDzM0rNlxSBg28M38W2wSj6+XWh8Eu+KBd8UUENV3hTfvp66QgykGJ0WKTIaXRXFj+21lvhtz/f29+HvbPvO9lv28rz2Py+P6NZjsiNnRtqVuIsvasWXhg=;M4wYyuwU6VFrfP4Ew6N2fw=="
 ---
 

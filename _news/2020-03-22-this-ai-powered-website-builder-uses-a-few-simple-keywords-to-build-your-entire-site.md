@@ -8,7 +8,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/347916"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/347916"
 type: article
 quality: 80
-heat: 80
+heat: 81
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 338
     title: "This AI-Powered Website Builder Uses a Few Simple Keywords to Build Your Entire Site"
 
-secured: "1Lz1T+sAeQygb0ejghMS1pPqufJvjSB1ZrUORzfcOCEf1yTNkbJj/BKQ6gL0453WcFVWhyJ2QylQTo3keGd2iapYA74KxKsRb1EaYfavKIXfyg1Y58xRZtEO201VYnlk6L1U9L8mI95rjsqkGIr8+8Wl6WBdBujt0LpvCUYD4REspOGrZJ0EvQNHCNPoRaqeMjY/B0h6c6pGHLXBREuh5bQqylgbILM/irgnApl1OBAEQayAwmRMMoLEAX3nnUrRIGai40a4nEBIw0H7OS1NkILQovx1jEZkxv7ftVZW003t5fbOKuWXlF2ctguotytz;GbLVH3R89clfcAYRHkDSkw=="
+secured: "CddUEXBD6VNa92nfcBGaxJUTQQQyYnzrZByxPSmpCBvTp85tEqu82KQZ2S2c2iutMIDn4hnB7hqgy6/ErWW+qKWTsyxd/EZt6krimLRiEfwL4L3hCff3akYhzpqmp+JD16BJm7lpFaLeksr1YqnB52KTmoC3AeiJE7Y94DEcIsUiLVOe1hes4IkviZ5QvPf/s+jkmydGvykFYlNSZAVdxqhSsfqTXbVNHZsI9WTJzsF3XTsMO8oJKt/ZbpA2aqDPEc6YUuXyZUNQ+jzbN2y6jUA4IBylfi7OZKEsbAN6VzreBwnU8mGPQ+3NPv5O4IQI;YQzz3iDP2qCrKRoBw5dKFg=="
 ---
 
