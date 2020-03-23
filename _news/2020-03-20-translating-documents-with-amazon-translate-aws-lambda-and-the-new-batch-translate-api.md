@@ -6,7 +6,7 @@ publishedDateTime: 2020-03-20T23:14:05Z
 webUrl: "https://aws.amazon.com/blogs/machine-learning/translating-documents-with-amazon-translate-aws-lambda-and-the-new-batch-translate-api/"
 type: article
 quality: 95
-heat: 105
+heat: 95
 published: true
 
 provider:
@@ -26,23 +26,6 @@ images:
     width: 432
     height: 298
     title: "Translating documents with Amazon Translate, AWS Lambda, and the new Batch Translate API"
-
-related:
-  - title: "Google Translate’s real-time transcription feature is now live for Android – here’s how to use it"
-    excerpt: "Google has just updated its Translate app on Android to allow real-time transcription ... connection as the software needs to communicate with Google’s servers, where the AI processing the translations lives. If it’s not showing up for your language choices, know that Google has said that currently the feature only supports a small ..."
-    publishedDateTime: 2020-03-20T15:57:00Z
-    webUrl: "https://knowtechie.com/google-translates-real-time-transcription-feature-is-now-live-for-android-heres-how-to-use-it/"
-    ampWebUrl: "https://knowtechie.com/google-translates-real-time-transcription-feature-is-now-live-for-android-heres-how-to-use-it/amp/"
-    cdnAmpWebUrl: "https://knowtechie-com.cdn.ampproject.org/c/s/knowtechie.com/google-translates-real-time-transcription-feature-is-now-live-for-android-heres-how-to-use-it/amp/"
-    type: article
-    provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 31
-    images:
-      - url: "https://knowtechie.com/wp-content/uploads/2020/03/google-translate-transcribe-main.jpg"
-        width: 1600
-        height: 900
 
 secured: "Tcor8ZEIPFxyKrjjty1hgb3p3423U0Mn/8DBJoi1c4ZI7yR7/tnhdvSQpU59ymRyWnk4oWS5g4tkeRqbDHbKBV4Nuexl6pLznKjyiEjGq/l8GUZ46Jmh3WekMZQC/KwxXNLCPYB3j1I3HFRKDgWlbeCPk07aUxw4Y0Qjgk6I3COcyNmHN3Q22djWDXVPLc/Eeh46rBXOVw/NCIfFPNUI3gtastB6MYvieeTAzCSpy+00jX856/07Fj+ZUS76br5H5L5Jdz1WOFusPjBZCp+QQnXzB477b5CfsH1bV4IItR99E7ys6QZ+0l8SYqMK0Asyz043nRGS3HmXb/dJJ2OVFw==;+21Ldf2pce65A3q6UVtCtw=="
 ---

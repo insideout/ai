@@ -28,6 +28,6 @@ images:
     height: 338
     title: "This AI-Powered Website Builder Uses a Few Simple Keywords to Build Your Entire Site"
 
-secured: "9i2z4UUXkLCvhD9/xf88Ig8P1N0C4ytlOSD5LJLN410QmmhZfDGC+Ju5R9NR6wGN00cxBQZx6VZ4EPvYUn0eN+W4JaM2JSbwlcUB53YDNg6zXNJePgWWKFAErgYEWrNmxmw3DiTH7k9CqcJGeUYo1mfQ/+WMqvtNVhtvC0avUUSROCkSOn8Z7LpCi9YuXjAI1PPipYuh023yTbf8/QW3r8R8xB6HONpAczSpzJsuWExllQuLmMAWYqgvLRoCFXEiDtNu1e4SlT5tHNhSKm1xqtG3ZhWTwB+X/5UjPnlEj+PKL7c70TXeYMT+uEI2CAgj;/IbK4hqfM2y6NEIKFEZ5vQ=="
+secured: "NqGOnAinXSf0Eojt1hNnCJg0iT0OogUOJvu8WweJYIUmzjlh8E/SaOou8zPALWM49wD4XhFPQCjyYnzmF+1b7I69iFV0G3UbfrRNjW18Y1YBhZhmdJcqBb6G3HxXAphKnAk31tTPqwc7DutM5m8oz2eT2LFVgVv8Vah/G3NAJ4zEcnkZoT+diqAe5qiPwL//h8L/e4VUZVeUlKgMx3WH/0kjGcigIzxN300lt4n+WG4KOqIuy66q1afScdHkaSrtgdWZ5uFK4wMyaU2qWRno4uZGv0K2xF+fZkeHYz0nzChCXge2DYcdAtXJL2L0+lvG;24UH+WbVqkuvzsEilEu1ig=="
 ---
 
