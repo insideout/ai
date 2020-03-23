@@ -2,6 +2,96 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-03-17-cleantech-startup-bluephin-technologies-is-on-a-mission-to-battle-the-global-problem-of-water-pollution.md",
+      "title": "Cleantech Startup BluePhin Technologies Is On A Mission To Battle The Global Problem Of Water Pollution",
+      "excerpt": "Using robotics and artificial intelligence, BluePhin has been developed to have human-like senses such ... BluePhin can also share valuable data on water or air quality to researchers and provide insights (i.e. on pH levels) to stakeholders. The startup is already at work on developing its robot’s capabilities to include liquid waste ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.entrepreneur.com/article/347691",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/347691",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/347691",
+      "publishedDateTime": "2020-03-16T20:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/20200317055958-BluePhinfounderandCEOSimranChowdhrynjnk.jpeg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": "Cleantech Startup BluePhin Technologies Is On A Mission To Battle The Global Problem Of Water Pollution",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-ai2-and-microsoft-join-the-white-houses-push-to-enlist-ai-for-the-war-on-coronavirus.md",
+      "title": "AI2 and Microsoft join the White House’s push to enlist AI for the war on coronavirus",
+      "excerpt": "See all special coverage. The logo for the COVID-19 Open Research Dataset, or CORD-19, is a stylized coronavirus. (CORD-19 Graphic) A consortium of tech leaders — including Seattle’s Allen Institute for Artificial Intelligence, Microsoft and Facebook CEO Mark Zuckerberg’s charity — today unveiled an AI-enabled database that’s meant to ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geekwire.com/2020/ai2-microsoft-team-tech-leaders-use-ai-war-coronavirus/",
+      "ampWebUrl": "https://www.geekwire.com/2020/ai2-microsoft-team-tech-leaders-use-ai-war-coronavirus/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/ai2-microsoft-team-tech-leaders-use-ai-war-coronavirus/amp/",
+      "publishedDateTime": "2020-03-16T20:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/03/200316-cord19-630x533.png",
+          "width": 630,
+          "height": 533,
+          "title": "AI2 and Microsoft join the White House’s push to enlist AI for the war on coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-17-get-ready-for-ai-as-a-service.md",
       "title": "Get Ready For AI As A Service",
       "excerpt": "Artificial intelligence is not for the faint-hearted, as it requires investments, expertise, and lots of hand-holding. That’s why most enterprises will turn to as-a-Service offerings, leaving back-end processing,",
@@ -879,23 +969,31 @@
     {
       "path": "_news/2020-03-16-closedloopai-announces-release-of-free-open-source-ai-based-tool-to-identify-individuals-vulnerable-to-severe-complications-of-covid-19.md",
       "title": "ClosedLoop.ai Announces Release of Free Open Source AI-based Tool to Identify Individuals Vulnerable to Severe Complications of COVID-19",
-      "excerpt": "on Amazon's SageMaker platform, and via ClosedLoop's HIPAA compliant hosted platform. The CV19 Index is available for use through any of these methods at no cost ClosedLoop has created a forum at ...",
+      "excerpt": "on Amazon’s SageMaker platform, and via ClosedLoop’s HIPAA compliant hosted platform. The CV19 Index is available for use through any of these methods at no cost ClosedLoop has created a forum ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/03/b15556274/closedloop-ai-announces-release-of-free-open-source-ai-based-tool-to-identify-individuals-vulnerab",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15556274",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15556274",
-      "publishedDateTime": "2020-03-16T04:15:00-07:00",
+      "webUrl": "https://www.businesswire.com/news/home/20200316005226/en/ClosedLoop.ai-Announces-Release-Free-Open-Source-AI-based",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-16T04:43:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "Business Wire",
+        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
-      "images": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200316005226/en/779842/23/ClosedLoop_Logo.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": "ClosedLoop.ai Announces Release of Free Open Source AI-based Tool to Identify Individuals Vulnerable to Severe Complications of COVID-19",
+          "attribution": null
+        }
+      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -1045,68 +1143,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-16-ai-for-speech-recognition-market.md",
-      "title": "AI for Speech Recognition Market",
-      "excerpt": "This report provides in-depth study of \"Global AI for Speech Recognition Market 2020\" using SWOT analysis i.e. Strength, Weakness, Opportunities, and Threat to the organization. The AI for Speech Recognition Market report also provides an in-depth survey of key players in the market organization. The most important key factors driving the ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.openpr.com/news/1968062/ai-for-speech-recognition-market-will-be-massively-influenced",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-16T00:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-16-artificial-intelligence-ai-market-analysis-trends-growth-industry-size-and-forecast-2025.md",
-      "title": "Artificial Intelligence (AI) Market Analysis, Trends, Growth, Industry Size and Forecast 2025",
-      "excerpt": "BMW, Tesla, and Toyota are also taking interest in robotics and machine learning to develop driverless cars. Get Sample Copy of Artificial Intelligence (AI) Market at: https://www.omrglobal.com/request-sample/artificial-intelligence-market Some of the key players contributing significantly in the growth of AI market include AIBrain, Amazon ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.openpr.com/news/1968035/artificial-intelligence-ai-market-analysis-trends-growth",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-16T00:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics",
-        "Facebook AI",
-        "AI in Healthcare"
       ]
     }
   ],

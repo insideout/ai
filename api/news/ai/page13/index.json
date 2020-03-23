@@ -2,6 +2,72 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-03-10-nec-x-and-vaco-partner-on-ai-machine-learning-solution.md",
+      "title": "NEC X and VACO Partner on AI, Machine Learning Solution",
+      "excerpt": "This AI platform runs VACO’s proven Cognitive Computing Framework and can be scaled with the exact number of vector engine (VE) cards needed to process large data sets in real time, for use in machine learning (ML) applications such as PII redaction and GDPR compliance for banking, financial services and insurance (BFSI), as well as several ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.hpcwire.com/off-the-wire/nec-x-and-vaco-partner-on-ai-machine-learning-solution/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-10T08:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HPCwire",
+        "domain": "hpcwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/necx-vaco-press-image-final-300x225.png",
+          "width": 300,
+          "height": 225,
+          "title": "NEC X and VACO Partner on AI, Machine Learning Solution",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-deep-learning-electrocardiogram-devices-found-to-be-susceptible-to-adversarial-attack.md",
+      "title": "Deep learning electrocardiogram devices found to be susceptible to adversarial attack",
+      "excerpt": "A team of researchers from New York University and NYU Langone Health has found that deep learning electrocardiogram devices can be susceptible to adversarial attacks. In their paper published in the journal Nature Medicine, the group describes how they developed an attack approach and tested it with electrocardiogram devices. Over the past ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medicalxpress.com/news/2020-03-deep-electrocardiogram-devices-susceptible-adversarial.html",
+      "ampWebUrl": "https://medicalxpress.com/news/2020-03-deep-electrocardiogram-devices-susceptible-adversarial.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-03-deep-electrocardiogram-devices-susceptible-adversarial.amp",
+      "publishedDateTime": "2020-03-10T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-10-how-canadian-ai-start-up-bluedot-spotted-coronavirus-before-anyone-else-had-a-clue.md",
       "title": "How Canadian AI start-up BlueDot spotted Coronavirus before anyone else had a clue",
       "excerpt": "An AI-based infectious disease surveillance system that searches the world around-the-clock for possible pandemics should have your attention. BlueDot Explorer On December 30, 2019, BlueDot, a Toronto-based startup that uses a platform built around artificial intelligence, machine learning and big data to track and predict the outbreak and ...",
@@ -1067,64 +1133,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-09-global-voice-and-speech-recognition-technology-industry.md",
-      "title": "Global Voice and Speech Recognition Technology Industry",
-      "excerpt": "NEW YORK, March 9, 2020 /PRNewswire/ -- Voice and Speech Recognition Technology market worldwide is projected to grow by US$15 Billion, driven by a compounded growth of",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/03/n15509110/global-voice-and-speech-recognition-technology-industry",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15509110",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15509110",
-      "publishedDateTime": "2020-03-09T09:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-09-american-board-of-artificial-intelligence-in-medicine-abaim-aims-to-educate-and-certify-healthcare-professionals-in-ai-and-related-technologies.md",
-      "title": "American Board of Artificial Intelligence in Medicine (ABAIM) Aims to Educate and Certify Healthcare Professionals in AI, and Related Technologies",
-      "excerpt": "is pleased to announce its recent incorporation as a not-for-profit entity. The ABAIM plans to credential healthcare professionals and anyone else who seeks a greater understanding of the growing role and use of artificial intelligence (AI),",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/03/n15508706/american-board-of-artificial-intelligence-in-medicine-abaim-aims-to-educate-and-certify-healthcare",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15508706",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15508706",
-      "publishedDateTime": "2020-03-09T08:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

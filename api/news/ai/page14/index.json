@@ -2,6 +2,64 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-03-09-global-voice-and-speech-recognition-technology-industry.md",
+      "title": "Global Voice and Speech Recognition Technology Industry",
+      "excerpt": "NEW YORK, March 9, 2020 /PRNewswire/ -- Voice and Speech Recognition Technology market worldwide is projected to grow by US$15 Billion, driven by a compounded growth of",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/03/n15509110/global-voice-and-speech-recognition-technology-industry",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15509110",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15509110",
+      "publishedDateTime": "2020-03-09T09:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-09-american-board-of-artificial-intelligence-in-medicine-abaim-aims-to-educate-and-certify-healthcare-professionals-in-ai-and-related-technologies.md",
+      "title": "American Board of Artificial Intelligence in Medicine (ABAIM) Aims to Educate and Certify Healthcare Professionals in AI, and Related Technologies",
+      "excerpt": "The ABAIM plans to credential healthcare professionals and anyone else who seeks a greater understanding of the growing role and use of artificial intelligence (AI),",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/03/p15508719/american-board-of-artificial-intelligence-in-medicine-abaim-aims-to-educate-and-certify-healthcare",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15508719",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15508719",
+      "publishedDateTime": "2020-03-09T08:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-09-the-role-of-human-judgment-as-a-presumed-integral-ingredient-for-achieving-true-ai.md",
       "title": "The Role Of Human Judgment As A Presumed Integral Ingredient For Achieving True AI",
       "excerpt": "Is the embodiment of human judgment a required ingredient in achieving true AI? It is a rather seemingly simple question to proffer, though any mindful answer is likely to be notably elongated. Here’s why.",
@@ -1050,88 +1108,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-05-googles-deepmind-just-shared-ai-generated-predictions-about-the-coronavirus-that-could-help-researchers-stem-the-global-outbreak.md",
-      "title": "Google's DeepMind just shared AI-generated predictions about the coronavirus that could help researchers stem the global outbreak",
-      "excerpt": "These predictions were drawn from DeepMind's new deep learning system but have yet to be experimentally verified, DeepMind noted.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/google-deepmind-ai-predictions-coronavirus-2020-3",
-      "ampWebUrl": "https://www.businessinsider.com/google-deepmind-ai-predictions-coronavirus-2020-3?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-deepmind-ai-predictions-coronavirus-2020-3?amp",
-      "publishedDateTime": "2020-03-05T14:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5e616fe7fee23d05c93321cd?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 900,
-          "title": "Google's DeepMind just shared AI-generated predictions about the coronavirus that could help researchers stem the global outbreak",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-05-amd-unveils-cdna-gpu-architecture-a-dedicated-gpu-architecture-for-data-centers.md",
-      "title": "AMD Unveils CDNA GPU Architecture: A Dedicated GPU Architecture for Data Centers",
-      "excerpt": "Driven in large part by rapid progress in neural networking, deep learning, and all things AI, GPUs have become a critical part of some data center workloads ... The answer, as AMD is revealing today, is their new dedicated GPU architecture for data center compute: CDNA. The Compute counterpart to the gaming-focused RDNA, CDNA is AMD’s ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.anandtech.com/show/15593/amd-unveils-cdna-gpu-architecture-a-dedicated-gpu-architecture-for-data-centers",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-05T13:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AnandTech",
-        "domain": "anandtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.anandtech.com/doci/15593/CDNA_Master_678x452.jpg",
-          "width": 678,
-          "height": 381,
-          "title": "AMD Unveils CDNA GPU Architecture: A Dedicated GPU Architecture for Data Centers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

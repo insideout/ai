@@ -20,6 +20,6 @@ images:
     height: 552
     title: "The Amazon Athena Query Federation SDK allows you to customize Amazon Athena with your own data sources and code."
 
-secured: "jIriRRAE/EDPjdTipKR9KPcP7ts0vFTdgpiN3gPo8VeWTMJb7P9reYICwSMavlTfxrfX2L1DOlg7/eaXXl0w4OePcY3/DObsbyX7ETr9ZDA/pwQiYIuCA8jCdSZ2WuRWwn6cudAa/nf/jYlXHfd28a0Uw+gNSd3uH7p1BtRbjgBvVHuzcuWnEgUdGzygXbn/T5qCqqEaOFSZk5Dj8RUY5y7hL6/d601mz4gu9AMVlzUIhgW8CrrFtn2AbBpcKxott52YrD51U7REjJ+CFVNT+QR/RaKOtFQTqcteEmTkTdJ1WdEjdZI65a2r+ynOACrZ;5gBLRcn1Es9H1c/+SAD/2w=="
+secured: "c3fckOhR2QOShynlWRCSj9Ir/o21bgwqzjmQsFp2Qf4kHhnEmPAm1JRrHJIbZTXDyVOWrbBfzxAmUiLtWTcsJ/rXJQGJZPlKLRTN4a7w6tWgFuJdpxjK4RlQAvtFd1jTUIfPgTjwQp1rrMxIIVqVUTEBx+5F3e+b7TMYbvBBUb6u7fd4uqhUy0Nq7ZTqnMHsnOzbOe+Yb/wI7guvg9ZM73tLzvDwllY45hEVbhVHUceBew9TkDrhH+jAaJtcQ5pfRHlScEUhm2HrzOJd9UQAhuSQWCIoW7IzzAetYW/D2tZKa+e7o4LS0gP9pdIvmB58Jd3Dt+lccdaCCj8rlBuvRApOYks1ZUABzVtpFLewTznuQi26gxBy5yBNxU8DYd5e3idlMpA99KT596Qb/W+RivP3gfFbNErlQbdefF230U/lpr8DMmzy6OJjGYa/0ICwf6WNY8yQHFZ6ctfAKr5LNJtXdIXDY/ELJxCU++swGUw=;Szok1Zel2alssNnhQoo05A=="
 ---
 

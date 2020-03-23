@@ -1,11 +1,11 @@
 ---
 category: news
 title: "American Board of Artificial Intelligence in Medicine (ABAIM) Aims to Educate and Certify Healthcare Professionals in AI, and Related Technologies"
-excerpt: "is pleased to announce its recent incorporation as a not-for-profit entity. The ABAIM plans to credential healthcare professionals and anyone else who seeks a greater understanding of the growing role and use of artificial intelligence (AI),"
+excerpt: "The ABAIM plans to credential healthcare professionals and anyone else who seeks a greater understanding of the growing role and use of artificial intelligence (AI),"
 publishedDateTime: 2020-03-09T15:51:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/03/n15508706/american-board-of-artificial-intelligence-in-medicine-abaim-aims-to-educate-and-certify-healthcare"
-ampWebUrl: "https://amp.benzinga.com/amp/content/15508706"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15508706"
+webUrl: "https://www.benzinga.com/pressreleases/20/03/p15508719/american-board-of-artificial-intelligence-in-medicine-abaim-aims-to-educate-and-certify-healthcare"
+ampWebUrl: "https://amp.benzinga.com/amp/content/15508719"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15508719"
 type: article
 
 provider:
@@ -16,6 +16,6 @@ topics:
   - AI in Healthcare
   - AI
 
-secured: "72oz/B7crck+HeyUGEMhiVg858zDgeIHIwyWFENCkSJivMUhkkwAuPJZupQWVn5G2FIvTSyMSyk97ikvxYt9+XXFgGWaLyxzix5mgKYrQDd9QujBIttSkGNsCekkQANrCwmAicjM94noJUpryClNz2Wjk0COz5bEyRjS/TxR5maNfQe6/4gXEVJi+L7tM5VYyi5+GCYn0RQuK/QtwGuibZbRHWbquTAadCKaUdNkWRu4BuWtdLsbnEwJow/SYEGUXGZG5/W5IL2hf9l0RgyNU5kXfKdqwW/s0FVVUgkc1Fu+CdHEAiCZFrLThgD1lfsl;NdqT9nk8c6+LG2kZwIPciA=="
+secured: "w2aQUYg+ymMl18ohtXIKZSQFU0Ns651JkB80mEdwMPtI/P0Cyyn/3T2Lx4ulUaDiGHJq6/KByyvtzrxD+H+uQmTikPNUv7c/JXVwf0bpluqHoBIiFKctC3RIkgUPLvtuUoBBc/rJM/3SO59uhZRoIR+JWaJogatvRLO39lkMKqCixqPL32tAC/fNc8Ave897xF8WPFhhqjFUuQJvCYOMUlNa8XFBpsDrsHorO4wf/FiLaiu9imaB1YwMGaglVtLEm6AOjWZnm+wqTD8BHNvn14ICcksb8Ew0PWz9xOzomp8eyjozzXgM3pHKMBUIweHF;BPmcJnLtryNHN6kWi5Avxg=="
 ---
 

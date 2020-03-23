@@ -2,6 +2,95 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2020-02-25-new-algorithm-for-self-driving-vehicles-has-a-bold-collision-free-guarantee.md",
+      "title": "New algorithm for self-driving vehicles has a bold ‘collision-free guarantee’",
+      "excerpt": "Researchers have developed an algorithm that could stop self-driving vehicles from getting in crashes and traffic jams. The team from Northwestern University (NU) claims their invention is “the first decentralized algorithm with a collision-free, deadlock-free guarantee.” The algorithm divides the ground beneath the machines into a grid.",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/02/25/this-algorithm-for-self-driving-vehicles-comes-with-collision-free-guarantee/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/02/25/this-algorithm-for-self-driving-vehicles-comes-with-collision-free-guarantee/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/25/this-algorithm-for-self-driving-vehicles-comes-with-collision-free-guarantee/amp/",
+      "publishedDateTime": "2020-02-25T10:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/Untitled-design-33-1-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "New algorithm for self-driving vehicles has a bold ‘collision-free guarantee’",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-02-25-ai-the-view-from-a-silicon-valley-icon-a-podcast-with-tom-siebel-ceo-c3.md",
+      "title": "AI, The View From A Silicon Valley Icon - A Podcast With Tom Siebel CEO C3",
+      "excerpt": "Tom Siebel is one of the founding fathers of the silicon-valley software industry. So, what he thinks, how he builds for the next revolutions with technology, should be something we all pay attention to.",
+      "heat": 85,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbesinsights/2020/02/25/ai-the-view-from-a-silicon-valley-icona-podcast-with-tom-siebel-ceo-c3/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesinsights/2020/02/25/ai-the-view-from-a-silicon-valley-icona-podcast-with-tom-siebel-ceo-c3/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesinsights/2020/02/25/ai-the-view-from-a-silicon-valley-icona-podcast-with-tom-siebel-ceo-c3/amp/",
+      "publishedDateTime": "2020-02-25T10:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e5456577a0098000734243a%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D942%26cropY1%3D0%26cropY2%3D530",
+          "width": 942,
+          "height": 531,
+          "title": "AI, The View From A Silicon Valley Icon - A Podcast With Tom Siebel CEO C3",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-25-microsoft-to-open-azure-regions-in-spain-expands-telefonica-relationship.md",
       "title": "Microsoft to open Azure regions in Spain, expands Telefonica relationship",
       "excerpt": "In February 2019, Telefonica and Microsoft announced a partnership via which Telefonica would use Azure and Microsoft AI services as a base for its own AI-powered networking technology. The pair said they would be working together to identify AI, blockchain, 5G and edge computing opportunities. Today, the pair said they'd be working together on ...",
@@ -998,86 +1087,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-02-25-dod-unveils-how-it-will-keep-ai-in-check-with-ethics-principles.md",
-      "title": "DoD unveils how it will keep AI in check with ethics principles",
-      "excerpt": "The principles are as follows: Insight by Mapbox: Federal practitioners ... Deasy said. The ethics will also hold people in the AI pipeline accountable. For example, if a developer does not use data that is equitable, then DoD knows where something went ...",
-      "heat": 217,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://federalnewsnetwork.com/defense-main/2020/02/dod-unveils-how-it-will-keep-ai-in-check-with-ethics-principles/",
-      "ampWebUrl": "https://federalnewsnetwork.com/defense-main/2020/02/dod-unveils-how-it-will-keep-ai-in-check-with-ethics-principles/amp/",
-      "cdnAmpWebUrl": "https://federalnewsnetwork-com.cdn.ampproject.org/c/s/federalnewsnetwork.com/defense-main/2020/02/dod-unveils-how-it-will-keep-ai-in-check-with-ethics-principles/amp/",
-      "publishedDateTime": "2020-02-25T04:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "federalnewsnetwork.com",
-        "domain": "federalnewsnetwork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://federalnewsnetwork.com/wp-content/uploads/2020/02/jackshanahan-DoD-e1582634545624-1024x795.jpg",
-          "width": 1024,
-          "height": 795,
-          "title": "DoD unveils how it will keep AI in check with ethics principles",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-25-competing-in-the-age-of-ai-is-simpler-than-you-think.md",
-      "title": "Competing In The Age Of AI Is Simpler Than You Think",
-      "excerpt": "Artificial Intelligence is already fundamentally changing business and operations models, argue two Harvard Business School professors in a recent book. They show that it is simpler to implement than many expect.",
-      "heat": 117,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/sophiamatveeva/2020/02/25/competing-in-the-age-of-ai-is-simpler-than-you-think/",
-      "ampWebUrl": "https://www.forbes.com/sites/sophiamatveeva/2020/02/25/competing-in-the-age-of-ai-is-simpler-than-you-think/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sophiamatveeva/2020/02/25/competing-in-the-age-of-ai-is-simpler-than-you-think/amp/",
-      "publishedDateTime": "2020-02-25T04:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e54c26476f73b0006dfd7ac%2F0x0.jpg",
-          "width": 1200,
-          "height": 729,
-          "title": "Competing In The Age Of AI Is Simpler Than You Think",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

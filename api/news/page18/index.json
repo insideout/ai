@@ -2,6 +2,72 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-03-05-goodyear-concept-ev-tire-can-regrow-tread.md",
+      "title": "Goodyear concept EV tire can regrow tread",
+      "excerpt": "\"Thanks to artificial intelligence a driver profile would be ... more than the 259-mile range for the 2020 Chevrolet Bolt. Waymo raises $2.25 billion in first external funding round In a ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.autonews.com/mobility-report-newsletter/goodyear-concept-ev-tire-can-regrow-tread",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-05T08:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automotive News",
+        "domain": "autonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s3-prod.autonews.com/s3fs-public/styles/width_792/public/GMEVDay02-main_i.jpg",
+          "width": 792,
+          "height": 526,
+          "title": "Goodyear concept EV tire can regrow tread",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-05-mission-now-providing-smbs-with-managed-data-analytics-platform-for-aws.md",
+      "title": "Mission Now Providing SMBs with Managed Data & Analytics Platform for AWS",
+      "excerpt": "Amorphic unifies data, users and analytics across AWS data warehousing, machine learning and artificial intelligence services, with no high-risk development or operational support required.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.globenewswire.com/news-release/2020/03/05/1995886/0/en/Mission-Now-Providing-SMBs-with-Managed-Data-Analytics-Platform-for-AWS.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-05T06:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GlobeNewswire",
+        "domain": "globenewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-05-aible-is-recognized-as-a-visionary-in-the-gartner-magic-quadrant-2020.md",
       "title": "Aible is Recognized as a Visionary in the Gartner Magic Quadrant 2020",
       "excerpt": "It assesses vendors with offerings in three key service areas: language, vision and automated machine learning (AutoML).” The Gartner Magic Quadrant places Aible in its “Visionaries” quadrant. Gartner says, “Visionaries are likely to excel in AutoML, as this segment is viewed as the most important for application leaders and development ...",
@@ -897,72 +963,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-02-novel-use-of-robotics-for-neuroendovascular-procedures.md",
-      "title": "Novel use of robotics for neuroendovascular procedures",
-      "excerpt": "Surgeons at the Sidney Kimmel Medical College at Thomas Jefferson University are pioneering the use of robotics in neuroendovascular procedures, which are performed via the blood vessels of the ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medicalxpress.com/news/2020-03-robotics-neuroendovascular-procedures.html",
-      "ampWebUrl": "https://medicalxpress.com/news/2020-03-robotics-neuroendovascular-procedures.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-03-robotics-neuroendovascular-procedures.amp",
-      "publishedDateTime": "2020-03-02T13:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-02-video-how-oneapi-is-revolutionizing-programming.md",
-      "title": "Video: How oneAPI Is Revolutionizing Programming",
-      "excerpt": "In this video, academics and industry experts weigh in on the potential of oneAPI, the new, unified software programming model for CPU, GPU, AI, and FPGA accelerators that delivers high compute performance for emerging specialized workloads across diverse ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://insidehpc.com/2020/03/video-how-oneapi-is-revolutionizing-programming/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-02T09:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insideHPC",
-        "domain": "insidehpc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://insidehpc.com/wp-content/uploads/2020/02/wong.jpg",
-          "width": 1064,
-          "height": 980,
-          "title": "Video: How oneAPI Is Revolutionizing Programming",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

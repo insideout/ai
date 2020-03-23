@@ -2,6 +2,72 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-03-13-ibms-prototype-automl-could-vastly-improve-ai-responses-to-pandemics.md",
+      "title": "IBM's Prototype AutoML Could Vastly Improve AI Responses To Pandemics",
+      "excerpt": "AutoML is one of the more exciting things worked on in IBM’s labs, and it is on the path to a future of AIs that can create AIs without the need for Data Scientists. Given the threats we face as a race, this capability can’t come soon enough.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.datamation.com/artificial-intelligence/ibm-prototype-automl-could-vastly-improve-ai-responses-to-pandemics.html",
+      "ampWebUrl": "https://www.datamation.com/amp/artificial-intelligence/ibm-prototype-automl-could-vastly-improve-ai-responses-to-pandemics.html",
+      "cdnAmpWebUrl": "https://www-datamation-com.cdn.ampproject.org/c/s/www.datamation.com/amp/artificial-intelligence/ibm-prototype-automl-could-vastly-improve-ai-responses-to-pandemics.html",
+      "publishedDateTime": "2020-03-12T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Datamation",
+        "domain": "datamation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-ibm-watson-health-to-tap-ebscos-dynamed-libraries-for-a-combined-ai-drug-information-suite.md",
+      "title": "IBM Watson Health to tap EBSCO's DynaMed libraries for a combined AI drug information suite",
+      "excerpt": "RELATED: IBM Watson Health's new manager talks about returning to basics, doubling down IBM’s Micromedex and Watson programs employ artificial intelligence and natural language processing with the goal of providing users a conversational approach for searching drug information—similar to Big Blue’s previous approaches in oncology and ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fiercebiotech.com/medtech/ibm-watson-health-to-tap-ebsco-s-dynamed-libraries-for-a-combined-ai-drug-information-suite",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-12T13:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FierceBiotech",
+        "domain": "fiercebiotech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://qtxasset.com/fiercebiotech/1584043544/IBM_Watson.jpg/IBM_Watson.jpg?O_jG5rsopS3DHTncRsKFiffFsacRkMDY",
+          "width": 1200,
+          "height": 803,
+          "title": "IBM Watson Health to tap EBSCO's DynaMed libraries for a combined AI drug information suite",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-12-a-competitive-fintech-environment-encourages-innovative-technology.md",
       "title": "A competitive fintech environment encourages innovative technology",
       "excerpt": "While change is essential, it brings with it wide-ranging implications for the industry, particularly as customer needs and regulation continue to move the needle.",
@@ -1053,88 +1119,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-12-global-trust-asset-management-llc-acquires-shares-of-7600-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt.md",
-      "title": "Global Trust Asset Management LLC Acquires Shares of 7,600 First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT)",
-      "excerpt": "Global Trust Asset Management LLC acquired a new stake in First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) during the 4th quarter, according to its most recent filing with the SEC. The institutional investor acquired 7,600 shares of the company’s stock, valued at approximately $261,000. Global Trust Asset Management ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://theenterpriseleader.com/2020/03/11/global-trust-asset-management-llc-acquires-shares-of-7600-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt.html",
-      "ampWebUrl": "https://theenterpriseleader.com/2020/03/11/global-trust-asset-management-llc-acquires-shares-of-7600-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt.html/amp",
-      "cdnAmpWebUrl": "https://theenterpriseleader-com.cdn.ampproject.org/c/s/theenterpriseleader.com/2020/03/11/global-trust-asset-management-llc-acquires-shares-of-7600-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt.html/amp",
-      "publishedDateTime": "2020-03-11T17:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theenterpriseleader.com",
-        "domain": "theenterpriseleader.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
-          "width": 450,
-          "height": 323,
-          "title": "Global Trust Asset Management LLC Acquires Shares of 7,600 First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT)",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-11-scientists-successfully-created-a-cybernetic-neural-network.md",
-      "title": "Scientists successfully created a cybernetic neural network",
-      "excerpt": "and the UK have successfully joined artificial neurons and an organic neuron to form the first operational biological-artificial hybrid neural network. They’ve made a cyborg. The team set out to recreate a classic experiment showing how neurons can “learn” by transferring information through synapses. In a classic neural network ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/03/11/scientists-successfully-created-a-cybernetic-neural-network/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/03/11/scientists-successfully-created-a-cybernetic-neural-network/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/03/11/scientists-successfully-created-a-cybernetic-neural-network/amp/",
-      "publishedDateTime": "2020-03-11T15:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/03/braincomputer-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": "Scientists successfully created a cybernetic neural network",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

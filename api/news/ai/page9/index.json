@@ -2,6 +2,72 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-03-13-radnet-to-acquire-deephealth-for-machine-learning-radiology-tech.md",
+      "title": "RadNet To Acquire DeepHealth For Machine Learning Radiology Tech",
+      "excerpt": "DeepHealth has developed machine learning/AI-based imaging analysis technologies ... Major vendors that provide competitive services include: Behold.ai Technologies RadNet disclosed the acquisition price and terms as 1.0 million shares of common stock upfront and up to 1.5 million shares as future contingent consideration based on the ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://seekingalpha.com/article/4331947-radnet-to-acquire-deephealth-for-machine-learning-radiology-tech",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-13T16:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-the-aclu-is-suing-government-agencies-over-dystopian-facial-recognition-programs.md",
+      "title": "The ACLU is suing government agencies over 'dystopian' facial recognition programs",
+      "excerpt": "Thursday, the American Civil Liberties Union sued multiple government agencies for information on their facial recognition programs and how they are being used at airports and by Border Patrol. Facial recognition has expanded rapidly over the past few years, but a lack of clarity around the technology’s rollout has led to increasing concerns ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.mic.com/p/the-aclu-is-suing-government-agencies-over-dystopian-facial-recognition-programs-22621097",
+      "ampWebUrl": "https://www.mic.com/p/the-aclu-is-suing-government-agencies-over-dystopian-facial-recognition-programs-22621097/amp",
+      "cdnAmpWebUrl": "https://www-mic-com.cdn.ampproject.org/c/s/www.mic.com/p/the-aclu-is-suing-government-agencies-over-dystopian-facial-recognition-programs-22621097/amp",
+      "publishedDateTime": "2020-03-13T15:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mic",
+        "domain": "mic.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://imgix.bustle.com/uploads/getty/2020/3/13/f99cf8db-dd80-4ba8-9281-761c39585a48-getty-1087948100.jpg?w=1200&h=630&q=70&fit=crop&crop=faces&fm=jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "The ACLU is suing government agencies over 'dystopian' facial recognition programs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-13-the-evolution-of-artificial-intelligence-and-future-of-national-security.md",
       "title": "The Evolution of Artificial Intelligence and Future of National Security",
       "excerpt": "Artificial intelligence is all the rage these days. In the popular media, regular cyber systems seem almost passe, as writers focus on AI and conjure up images of everything from real-life Terminator robots to more benign companions. In intelligence circles, China’s uses of closed-circuit television, facial recognition technology, and other ...",
@@ -1108,72 +1174,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-13-ibms-prototype-automl-could-vastly-improve-ai-responses-to-pandemics.md",
-      "title": "IBM's Prototype AutoML Could Vastly Improve AI Responses To Pandemics",
-      "excerpt": "AutoML is one of the more exciting things worked on in IBM’s labs, and it is on the path to a future of AIs that can create AIs without the need for Data Scientists. Given the threats we face as a race, this capability can’t come soon enough.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.datamation.com/artificial-intelligence/ibm-prototype-automl-could-vastly-improve-ai-responses-to-pandemics.html",
-      "ampWebUrl": "https://www.datamation.com/amp/artificial-intelligence/ibm-prototype-automl-could-vastly-improve-ai-responses-to-pandemics.html",
-      "cdnAmpWebUrl": "https://www-datamation-com.cdn.ampproject.org/c/s/www.datamation.com/amp/artificial-intelligence/ibm-prototype-automl-could-vastly-improve-ai-responses-to-pandemics.html",
-      "publishedDateTime": "2020-03-12T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Datamation",
-        "domain": "datamation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-12-ibm-watson-health-to-tap-ebscos-dynamed-libraries-for-a-combined-ai-drug-information-suite.md",
-      "title": "IBM Watson Health to tap EBSCO's DynaMed libraries for a combined AI drug information suite",
-      "excerpt": "RELATED: IBM Watson Health's new manager talks about returning to basics, doubling down IBM’s Micromedex and Watson programs employ artificial intelligence and natural language processing with the goal of providing users a conversational approach for searching drug information—similar to Big Blue’s previous approaches in oncology and ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fiercebiotech.com/medtech/ibm-watson-health-to-tap-ebsco-s-dynamed-libraries-for-a-combined-ai-drug-information-suite",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-12T13:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FierceBiotech",
-        "domain": "fiercebiotech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://qtxasset.com/fiercebiotech/1584043544/IBM_Watson.jpg/IBM_Watson.jpg?O_jG5rsopS3DHTncRsKFiffFsacRkMDY",
-          "width": 1200,
-          "height": 803,
-          "title": "IBM Watson Health to tap EBSCO's DynaMed libraries for a combined AI drug information suite",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

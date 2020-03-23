@@ -2,6 +2,43 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-03-11-detecting-money-laundering-networks-using-h2o-driverless-ai.md",
+      "title": "Detecting Money Laundering Networks Using H2O Driverless AI",
+      "excerpt": "Artificial Intelligence has evolved from being a buzz word to a reality today ... and automatically reinforce the AI model’s understanding to avoid patterns that don’t lead to laundered money. H2O Driverless AI is an Award-winning Automatic Machine Learning Platform that empowers data scientists to work on projects faster and more ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.datanami.com/2020/03/10/detecting-money-laundering-networks-using-h2o-driverless-ai/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-10T23:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "datanami.com",
+        "domain": "datanami.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/driverlessAI.png",
+          "width": 1021,
+          "height": 453,
+          "title": "Detecting Money Laundering Networks Using H2O Driverless AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-10-automated-material-handling-equipment-market-insights-potential-business-strategies-mergers-and-acquisitions-revenue-analysis.md",
       "title": "Automated Material Handling Equipment Market Insights, Potential Business Strategies, Mergers and Acquisitions, Revenue Analysis",
       "excerpt": "New York March 10 2020 The scope of the report includes a detailed study of Automated Material Handling Equipment Market with the reasons given for variations in the growth of the industry in certain regions The Automated Material Handling Equipment",
@@ -1160,51 +1197,6 @@
           "width": 1775,
           "height": 1080,
           "title": "China delays self-driving car deployment goal to 2025",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-02-24-mit-csails-radars-map-hidden-features-to-help-driverless-cars-navigate-snowy-terrain.md",
-      "title": "MIT CSAIL’s radars map hidden features to help driverless cars navigate snowy terrain",
-      "excerpt": "Plus, bad weather has a tendency to obscure road signage and structures that normally serve as navigational landmarks. Fortunately, researchers at MIT’s Computer Science and Artificial Intelligence Laboratory and Lincoln Laboratory are on the case. In a paper that will be published in the journal IEEE Robotics and Automation Letters later ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/23/mit-csails-ground-penetrating-radars-map-underground-features-to-help-driverless-cars-navigate-snowy-terrain/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-23T21:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/1MIT-CSAILs-car-in-the-snow-from-the-back-credit-MIT-CSAIL-e1582233935856.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "MIT CSAIL’s radars map hidden features to help driverless cars navigate snowy terrain",
           "attribution": null
         }
       ],

@@ -2,6 +2,80 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-03-13-riskalyze-fintech-report-card-february-2020.md",
+      "title": "Riskalyze Fintech Report Card: February 2020",
+      "excerpt": "What Happened: Andrew Altfest, president of a $1 billion RIA firm, launched new advisor technology at the T3 advisor conference this year. The new software promises to use AI to analyze a client’s existing situation and offer tailored recommendations. Why It Matters: It was only a couple of years ago that I was on record saying “in our ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wealthmanagement.com/technology/riskalyze-fintech-report-card-february-2020",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-13T06:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WealthManagement.com",
+        "domain": "wealthmanagement.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.wealthmanagement.com/sites/wealthmanagement.com/files/fintech-report-card-promo.jpg",
+          "width": 2000,
+          "height": 1040,
+          "title": "Riskalyze Fintech Report Card: February 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-automated-intent-classification-using-deep-learning-in-google-sheets.md",
+      "title": "Automated Intent Classification Using Deep Learning in Google Sheets",
+      "excerpt": "Let’s move to build our intent classification service that we will call to populate keyword intents. In my previous deep learning articles, I’ve covered Ludwig, Uber’s AI toolbox. I like it a lot because it allows you to build state-of-the-art deep learning models without writing a single line of code. It is also very convenient to run in ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.searchenginejournal.com/automated-intent-classification-using-deep-learning-google-sheets/353910/",
+      "ampWebUrl": "https://www.searchenginejournal.com/automated-intent-classification-using-deep-learning-google-sheets/353910/amp/",
+      "cdnAmpWebUrl": "https://www-searchenginejournal-com.cdn.ampproject.org/c/s/www.searchenginejournal.com/automated-intent-classification-using-deep-learning-google-sheets/353910/amp/",
+      "publishedDateTime": "2020-03-13T05:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Search Engine Journal",
+        "domain": "searchenginejournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.searchenginejournal.com/wp-content/uploads/2020/03/automated-intent-classification-using-deep-learning-in-google-sheets-part-3-5e69f33f94684.png",
+          "width": 1600,
+          "height": 840,
+          "title": "Automated Intent Classification Using Deep Learning in Google Sheets",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-13-artificial-intelligence-ai-chips-market-2020-2024high-adoption-of-ai-chips-in-data-centers-to-boost-growth-technavio.md",
       "title": "Artificial Intelligence (AI) Chips Market 2020-2024|High Adoption of AI Chips in Data Centers to Boost Growth | Technavio",
       "excerpt": "LONDON--(BUSINESS WIRE)--Technavio has been monitoring the artificial intelligence (AI) chips market and it is poised to grow by USD 36.6 bn during 2020-2024, progressing at a CAGR of about 39% during the forecast period. The report offers an up-to-date analysis regarding the current market scenario, latest trends and drivers, and the overall ...",
@@ -898,88 +972,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-12-ai-ethics-principles-are-laid-out-by-dod-for-all-to-see-applies-to-self-driving-cars-too.md",
-      "title": "AI Ethics Principles Are Laid Out By DoD For All To See, Applies To Self-Driving Cars Too",
-      "excerpt": "AI ethics is a hot trending topic these days. And, so it should be. With the rise of AI systems popping up here and there, and virtually everywhere, there is a rightfully emerging concern that these computer-based systems are being thrown into the world without much thought given to the societal impacts that they can produce.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/03/12/ai-ethics-principles-are-laid-out-by-dod-for-all-to-see-applies-to-self-driving-cars-too/",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/03/12/ai-ethics-principles-are-laid-out-by-dod-for-all-to-see-applies-to-self-driving-cars-too/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/03/12/ai-ethics-principles-are-laid-out-by-dod-for-all-to-see-applies-to-self-driving-cars-too/amp/",
-      "publishedDateTime": "2020-03-12T10:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e680526e1e61700080e7020%2F0x0.jpg%3FcropX1%3D339%26cropX2%3D5849%26cropY1%3D0%26cropY2%3D4133",
-          "width": 1200,
-          "height": 900,
-          "title": "AI Ethics Principles Are Laid Out By DoD For All To See, Applies To Self-Driving Cars Too",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-12-sentara-healthcare-partners-with-citiustech-to-deploy-data-platform-on-microsoft-azure.md",
-      "title": "Sentara Healthcare Partners With CitiusTech to Deploy Data Platform on Microsoft Azure",
-      "excerpt": "CitiusTech H-Scale, combined with Azure, helps customers achieve scale in healthcare data management.” CitiusTech has further enabled Sentara to leverage aggregated information and generate actionable insights by deploying artificial intelligence and machine learning models at an enterprise scale. This is expected to save approximately $3 ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businesswire.com/news/home/20200312005559/en/Sentara-Healthcare-Partners-CitiusTech-Deploy-Data-Platform",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-12T09:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200312005559/en/779461/23/citiustech_logo.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": "Sentara Healthcare Partners With CitiusTech to Deploy Data Platform on Microsoft Azure",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

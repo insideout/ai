@@ -2,6 +2,52 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-03-23-a-massive-opportunity-exists-to-build-picks-and-shovels-for-machine-learning.md",
+      "title": "A Massive Opportunity Exists To Build “Picks And Shovels” For Machine Learning",
+      "excerpt": "The reward for building the next generation of developer tools for machine learning will be many billions of dollars of enterprise value.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/robtoews/2020/03/22/a-massive-opportunity-exists-to-build-picks-and-shovels-for-machine-learning/",
+      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2020/03/22/a-massive-opportunity-exists-to-build-picks-and-shovels-for-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2020/03/22/a-massive-opportunity-exists-to-build-picks-and-shovels-for-machine-learning/amp/",
+      "publishedDateTime": "2020-03-22T20:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F959488846%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4344%26cropY1%3D575%26cropY2%3D3017",
+          "width": 1200,
+          "height": 675,
+          "title": "A Massive Opportunity Exists To Build “Picks And Shovels” For Machine Learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-20-translating-documents-with-amazon-translate-aws-lambda-and-the-new-batch-translate-api.md",
       "title": "Translating documents with Amazon Translate, AWS Lambda, and the new Batch Translate API",
       "excerpt": "With an increasing number of digital text documents shared across the world for both business and personal reasons, the need for translation capabilities becomes even more critical. There are multiple tools available online that enable people to copy/paste text and get the translated equivalent in the",
@@ -337,23 +383,31 @@
     {
       "path": "_news/2020-03-16-closedloopai-announces-release-of-free-open-source-ai-based-tool-to-identify-individuals-vulnerable-to-severe-complications-of-covid-19.md",
       "title": "ClosedLoop.ai Announces Release of Free Open Source AI-based Tool to Identify Individuals Vulnerable to Severe Complications of COVID-19",
-      "excerpt": "on Amazon's SageMaker platform, and via ClosedLoop's HIPAA compliant hosted platform. The CV19 Index is available for use through any of these methods at no cost ClosedLoop has created a forum at ...",
+      "excerpt": "on Amazon’s SageMaker platform, and via ClosedLoop’s HIPAA compliant hosted platform. The CV19 Index is available for use through any of these methods at no cost ClosedLoop has created a forum ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/03/b15556274/closedloop-ai-announces-release-of-free-open-source-ai-based-tool-to-identify-individuals-vulnerab",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15556274",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15556274",
-      "publishedDateTime": "2020-03-16T04:15:00-07:00",
+      "webUrl": "https://www.businesswire.com/news/home/20200316005226/en/ClosedLoop.ai-Announces-Release-Free-Open-Source-AI-based",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-16T04:43:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "Business Wire",
+        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
-      "images": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200316005226/en/779842/23/ClosedLoop_Logo.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": "ClosedLoop.ai Announces Release of Free Open Source AI-based Tool to Identify Individuals Vulnerable to Severe Complications of COVID-19",
+          "attribution": null
+        }
+      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -1106,51 +1160,6 @@
           "width": 800,
           "height": 498,
           "title": "Optimizing application performance with Amazon CodeGuru Profiler",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-27-google-is-buying-its-way-into-cloud-computing-contention.md",
-      "title": "Google is Buying Its Way Into Cloud Computing Contention",
-      "excerpt": "As it stands, Amazon's (NASDAQ:AMZN) cloud unit Amazon Web Services (AWS) is the industry leader, but Microsoft (NASDAQ ... The selling point for using Google Cloud is that businesses get access to its artificial intelligence and data analysis expertise, and don't have to worry about sharing data with a rival. To stand out from its competitors ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/02/27/google-buying-way-cloud-computing-cornerstone.aspx",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/02/27/google-buying-way-cloud-computing-cornerstone.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/02/27/google-buying-way-cloud-computing-cornerstone.aspx",
-      "publishedDateTime": "2020-02-27T06:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F559707%2Fcloud-google-mf.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 675,
-          "title": "Google is Buying Its Way Into Cloud Computing Contention",
           "attribution": null
         }
       ],
