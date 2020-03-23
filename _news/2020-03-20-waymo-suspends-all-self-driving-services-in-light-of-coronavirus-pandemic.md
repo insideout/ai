@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/03/20/waymo-suspends-all-self-driving-se
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/03/20/waymo-suspends-all-self-driving-services-in-light-of-coronavirus-pandemic/amp/"
 type: article
 quality: 88
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -45,21 +45,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1081146542%2F0x0.jpg"
         width: 1200
         height: 800
-  - title: "Despite setbacks, coronavirus could hasten the adoption of autonomous vehicles and delivery robots"
-    excerpt: "In partnership with Apollo, Baidu’s autonomous vehicle platform ... More than 60% of respondents to the Brookings poll said they weren’t inclined to ride in self-driving cars, and almost 70% of those surveyed by the AHAS expressed concerns about sharing the road with them. For this reason, Nisenbaum predicts that adoption will happen ..."
-    publishedDateTime: 2020-03-20T14:30:00Z
-    webUrl: "https://venturebeat.com/2020/03/20/despite-setbacks-coronavirus-could-hasten-the-adoption-of-autonomous-vehicles-and-delivery-robots/"
-    ampWebUrl: "https://venturebeat.com/2020/03/20/despite-setbacks-coronavirus-could-hasten-the-adoption-of-autonomous-vehicles-and-delivery-robots/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/20/despite-setbacks-coronavirus-could-hasten-the-adoption-of-autonomous-vehicles-and-delivery-robots/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 60
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/02/1_AXl7njkCgMx6M_n4ScSz8w-e1581007552137.jpeg?fit=1200%2C600&strip=all"
-        width: 1200
-        height: 600
 
 secured: "Ip5okv1Gwz2XsEHch8y8fE0HB0lgEzUe0wO+DkL62SMkNHYI++LJYEo0XLTe64tAFzsvDUt+UBcmLQX5+CDuOaOu5FVbEpTutkxonUAg99Tz279WEKdUMCw2ZWY9TpZdq6cwM/QKyoqf2RB7aeo2m7piUIk8eZiFufXge4BjwyVLCv4/libSXy6vWeF+nrZiES4xJHSyT7+/qgHZ9AEwQqTxAjihBUnGcX4oQJReeKVn0WOqjF/vkhSZqzLcMN+veC4k/yCBj7SEXCeGo1zWhf7C1u8wO72Sx6Kw7KdqxL4DMTJwbNQqWy2j5/DJcPvyiLKC3V1ermOKPN4MszWWWRPS6fACfw2y7pBeaiO1VRbvevJXKJ/QRkNJzlg2T8PMNBNMoqGpbr4DjrJTosDtgvZI5p+mNt3MmogCaMNj3UX9J7P4v+7+xGe0kiMI7AuoBAdbsOSAhEmOGbY4u8VZ2d1Avr6OhENmwWj5cKPuTkA=;sSmMeddAVZkQ6S2UDQLE4w=="
 ---

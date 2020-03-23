@@ -45,21 +45,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2019/11/GettyImages-1142125645.jpg?w=1024"
         width: 1024
         height: 662
-  - title: "Despite setbacks, coronavirus could hasten the adoption of autonomous vehicles and delivery robots"
-    excerpt: "In partnership with Apollo, Baidu’s autonomous vehicle platform ... More than 60% of respondents to the Brookings poll said they weren’t inclined to ride in self-driving cars, and almost 70% of those surveyed by the AHAS expressed concerns about sharing the road with them. For this reason, Nisenbaum predicts that adoption will happen ..."
-    publishedDateTime: 2020-03-20T14:30:00Z
-    webUrl: "https://venturebeat.com/2020/03/20/despite-setbacks-coronavirus-could-hasten-the-adoption-of-autonomous-vehicles-and-delivery-robots/"
-    ampWebUrl: "https://venturebeat.com/2020/03/20/despite-setbacks-coronavirus-could-hasten-the-adoption-of-autonomous-vehicles-and-delivery-robots/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/20/despite-setbacks-coronavirus-could-hasten-the-adoption-of-autonomous-vehicles-and-delivery-robots/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 60
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/02/1_AXl7njkCgMx6M_n4ScSz8w-e1581007552137.jpeg?fit=1200%2C600&strip=all"
-        width: 1200
-        height: 600
 
 secured: "ghWSHOa5mEEgV/MpbeNq0pxEeOPkYaudkAKHQzOYCpN4Yx3XtbriLLMPRm22jLYACaFOYfzBO7HDt0F8I6pTYz3OL1OQAFlMhMTik0+KlLyT0xV+IqUkCWgLrEnmNXZVkJMpDE83/IBW885ey5lWKMVIlAnwAus7Xr+up3hjwRpDFtJ/HYTABceW4OI7g2lXYWbaxCdum58SdrUfN4qaQOOMhsL+DirC5lVHH0Ic8emJde+YRwEF6D8XCGb1NvKY+g3KBIpb73CIdNzPPnN2C/YTrEUKJGXtm4Vhid5LjMBP2WBpKp5D/NeaebGKojnoGK5sSKLpvvusPKapkjbBrd6uCz+tq8e4pgh+N1gxZTC7PktN+P48MEmubAN3G6xYHALM/G2jBXwAhjnyK1qD3C9xY/1+wysJaVMWQeWq19DqqNJYmgavijPwNkB0VHKDBQIAxo+fPe7qIw6VFY+18o/90Oa0G36GVUfhde8OAfU=;wgmxH1W/57ktlF8aCRooSA=="
 ---

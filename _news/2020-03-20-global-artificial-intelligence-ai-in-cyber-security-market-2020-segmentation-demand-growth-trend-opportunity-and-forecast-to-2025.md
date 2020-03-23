@@ -17,6 +17,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 secured: "3JKugvpLcW7Ms5p9RlyBmW/5gEg+v2QKefsVWWrBLBs55ZVVj+KesXPcPM1A6tf/7m1k+AyPfXPKQfw9ozlrfQ2WEg+ETwUIV/fhk9ee07bOljjvbFiLjQwOmy/ozvmGSHw/ulOo0JoMSGvx/jjhYMcwqJ7KAzN+llDQ2ZEy5kHqJTSNBYEMea3YJVriU/zHiNI2pbbx46Y6vgTMPIbKV0Emz1rKHSQqA9QHTA2AVEGb9ZaIo2MDKOw0aQ7qKLJ84TCjxeKyOPZ4qiS5nGR/273u9cwp9nSQhlBacx/G/YFnHdc3yBfgrLMa5hCdj66BTjXxCt4cPW+1xf/WLMyyH4BMe70o/HST80dLvVXIl9HcAgQ3qATsgeA1sdxsk5SSGvY7jwgCtjBbLFjGVtTybNPcgpA8OczAMKMLBoLR8SpO5wMUb6lL4HXVqwBGbwrMTcq07+wzjEatgOV2SyVBWpjYchh0Kt8WY857qxZeP0c=;o9VHyAZkTUA5sCt92UFvKw=="
 ---
