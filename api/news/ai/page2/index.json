@@ -2,6 +2,141 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-03-21-microsoft-and-adaptive-biotechnologies-partner-to-study-immune-response-to-covid-19.md",
+      "title": "Microsoft and Adaptive Biotechnologies partner to study immune response to COVID-19",
+      "excerpt": "Researchers will sequence immune cell receptors from the samples using Adaptive’s proprietary technology. The findings will then be analyzed by Microsoft’s large-scale machine learning capabilities and Azure cloud platform. “We can improve our collective understanding of COVID-19 by decoding the immune system’s response to the virus and ...",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geekwire.com/2020/microsoft-adaptive-biotechnologies-partner-study-immune-response-covid-19/",
+      "ampWebUrl": "https://www.geekwire.com/2020/microsoft-adaptive-biotechnologies-partner-study-immune-response-covid-19/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-adaptive-biotechnologies-partner-study-immune-response-covid-19/amp/",
+      "publishedDateTime": "2020-03-20T18:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2019/10/20191008_GeekWire_Summit_244-630x450.jpg",
+          "width": 630,
+          "height": 450,
+          "title": "Microsoft and Adaptive Biotechnologies partner to study immune response to COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-20-translating-documents-with-amazon-translate-aws-lambda-and-the-new-batch-translate-api.md",
+      "title": "Translating documents with Amazon Translate, AWS Lambda, and the new Batch Translate API",
+      "excerpt": "With an increasing number of digital text documents shared across the world for both business and personal reasons, the need for translation capabilities becomes even more critical. There are multiple tools available online that enable people to copy/paste text and get the translated equivalent in the",
+      "heat": 95,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/translating-documents-with-amazon-translate-aws-lambda-and-the-new-batch-translate-api/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-20T16:14:05-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/02/20/batch-translation-6.gif",
+          "width": 432,
+          "height": 298,
+          "title": "Translating documents with Amazon Translate, AWS Lambda, and the new Batch Translate API",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-20-google-taps-computer-vision-to-improve-robot-manipulation-performance.md",
+      "title": "Google taps computer vision to improve robot manipulation performance",
+      "excerpt": "Affordance-based manipulation is a way to reframe a manipulation task as a computer vision task. Rather than referencing pixels to object labels, it associates pixels to the value of actions. Since the structure of computer vision models and affordance models are relatively similar, techniques from transfer learning can be applied to computer ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/20/googles-taps-computer-vision-to-improve-robot-manipulation-performance/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/20/googles-taps-computer-vision-to-improve-robot-manipulation-performance/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/20/googles-taps-computer-vision-to-improve-robot-manipulation-performance/amp/",
+      "publishedDateTime": "2020-03-20T16:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google taps computer vision to improve robot manipulation performance",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-20-ai-weekly-how-data-scientists-are-helping-to-flatten-the-pandemic-curve.md",
       "title": "AI Weekly: How data scientists are helping to flatten the pandemic curve",
       "excerpt": "Very tricky thing to reason about. Intuition breaks down,” said Jeremy Howard in an interview with VentureBeat. Howard is the co-founder of Fast.ai, which offers free courses on deep learning, and is on the faculty at the University of San Francisco. He pointed out that there’s a long gap between an outbreak occurring and seeing the results.",
@@ -1125,134 +1260,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-coronavirus-health-workers-at-newcross-healthcare-to-be-training-to-perform-oxygen-therapy.md",
-      "title": "Coronavirus: Health workers at Newcross Healthcare to be training to perform oxygen therapy",
-      "excerpt": "Training is being delivered in partnership with Docebo - a leading artificial intelligence learning platform - to cover virus protection and infection control. It will also train skills to perform Oxygen therapy (ventilation for respiratory infections), blood pressure, temperature and Oxygen saturation, using PPE gear in line with NHS ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.dailyecho.co.uk/news/18319277.coronavirus-health-workers-newcross-healthcare-training-perform-oxygen-therapy/",
-      "ampWebUrl": "https://www.dailyecho.co.uk/news/18319277.amp/",
-      "cdnAmpWebUrl": "https://www-dailyecho-co-uk.cdn.ampproject.org/c/s/www.dailyecho.co.uk/news/18319277.amp/",
-      "publishedDateTime": "2020-03-19T10:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Southern Daily Echo",
-        "domain": "dailyecho.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.dailyecho.co.uk/resources/images/11155370/?type=responsive-gallery",
-          "width": 650,
-          "height": 433,
-          "title": "Coronavirus: Health workers at Newcross Healthcare to be training to perform oxygen therapy",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-alibaba-cloud-offers-ai-platform-to-support-coronavirus-medical-research.md",
-      "title": "Alibaba Cloud offers AI platform to support coronavirus medical research",
-      "excerpt": "Through video conferencing and real-time AI translation into 11 languages, Alibaba Cloud is also trying to build a virtual community where doctors from China can share their experiences and answer questions from their peers around the world. Alibaba's research arm DAMO Academy also revealed that it would make three applications available as a ...",
-      "heat": 88,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techradar.com/news/alibaba-cloud-offers-ai-platform-to-support-coronavirus-medical-research",
-      "ampWebUrl": "https://www.techradar.com/amp/news/alibaba-cloud-offers-ai-platform-to-support-coronavirus-medical-research",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/alibaba-cloud-offers-ai-platform-to-support-coronavirus-medical-research",
-      "publishedDateTime": "2020-03-19T10:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/LVg6Poe67rd5TpWqhLcfie-1200-80.jpg",
-          "width": 800,
-          "height": 450,
-          "title": "Alibaba Cloud offers AI platform to support coronavirus medical research",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-driverless-truck-startup-starsky-robotics-folds-ceo-shares-tough-autonomy-home-truths.md",
-      "title": "Driverless truck startup Starsky Robotics folds: CEO shares tough autonomy home truths",
-      "excerpt": "Driverless truck startup Starsky Robotics is shutting down ... In a blunt post-mortem of what went wrong, founder and CEO Stefan Seltz-Axmacher blamed results-hungry investors, unexpected difficulties with getting the AI right, and the fact that safety just isn’t sexy for Starsky’s problems – and the problems that he predicts will ...",
-      "heat": 113,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.slashgear.com/driverless-truck-startup-starsky-robotics-folds-ceo-shares-tough-autonomy-home-truths-19613770/",
-      "ampWebUrl": "https://www.slashgear.com/driverless-truck-startup-starsky-robotics-folds-ceo-shares-tough-autonomy-home-truths-19613770/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/driverless-truck-startup-starsky-robotics-folds-ceo-shares-tough-autonomy-home-truths-19613770/amp/",
-      "publishedDateTime": "2020-03-19T10:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://scdn.slashgear.com/wp-content/uploads/2020/03/starsky-robotics-autonomous-truck.jpg",
-          "width": 1080,
-          "height": 680,
-          "title": "Driverless truck startup Starsky Robotics folds: CEO shares tough autonomy home truths",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

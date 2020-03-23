@@ -28,6 +28,6 @@ images:
     height: 758
     title: "How This Startup Is Using AI To Detect Coronavirus"
 
-secured: "P21dnzHBaHcElFiNPvqWPX6hEY+QxDn5Y7ZAb9xapUJnqnr5ntJ6yKK1GSxcm9dWIYM+8Gr0hzJeY04v6DqM+LOE+/e49qh/RONnvUB7sGqGrWBEq48jRyT+aXVyFv0z7Qo7Kceg51GwnIdFtXlyKce91HGt9ZpYXxbM3vSBZCDXJb/6EwCIsmbfOdnYpQYgDRQf3zzVrG5mndgIY63AH1hmMp3KDZnmEBklseIgnUnyIeeBsIn2YTwyu+93cqwQ9ISnqlduvJAveJFFwEjZmutJptqYcoBKjXXzan7SupXB/uCoTKv62M0A0gKp3gH0;50b35Ns98VNcw8HVptYFuw=="
+secured: "3UuZ5PT6FSlXEkTDLqXxXtCnjk/55QpUtujmtrVdk+LSa0shAok1SyEPc3Yb0QgjJTo/8NOTR++/NfnTel6x7b4wC5RYImCx1sO86Abz/Wv/cGhbqgXaDLpR/Jq/q9MBOMOWJLYnGHDx0H2oZ++Kcbyc3gpITakdZbSZc7C+jU5TMIBIns54V5erkehTQRLA0i0wxBWDf/qIMVGdig8bmTV/Sy9eJot3CzNaUrIVZBdcA1J0932eABqdrcqJb83kT86SGicIvuBg7t9coFnUtpkCbD8u1s3x1AfvIisTca9Z0d0vFkkWRKguYgmiDBdE3blMn+r+EyJkFqc8eio7sE3eXxkWwU1TrM1cX8Pwh+rWUruBHX0W1i9rpgKEBshzHz1NFMY3/NT7Xax75uN8HbiCxh/vq8IEOnjswbOp+8FvRbKfq8c8admv9DR1su6Op0NNNKvqlbSy0Nxxgb9sh9tD1x+G23bFpIRU0Xl2evA=;ph+nhhaful0x1DCaN52bOQ=="
 ---
 
