@@ -2,6 +2,170 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-03-09-predictive-modelling-automl-which-ai-provider-to-choose.md",
+      "title": "Predictive modelling & AutoML: Which AI provider to choose",
+      "excerpt": "This is how Auto Machine Learning (AutoML) appeared, designed to make Machine Learning accessible to the greatest number of people, especially developers who do not have any knowledge in mathematics.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/@aicompare/predictive-modelling-automated-machine-learning-which-ai-provider-to-choose-5b6075b07da7",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-09T15:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/0*CmkQe29XGO19x9qt.png",
+          "width": 1200,
+          "height": 733,
+          "title": "Predictive modelling & AutoML: Which AI provider to choose",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-09-google-launches-tensorflow-for-quantum-computers.md",
+      "title": "Google launches TensorFlow for quantum computers",
+      "excerpt": "Google today launched TensorFlow Quantum (TFQ), an open-source library for prototyping quantum machine learning models. Quantum computers aren’t quite mainstream yet, but when they arrive they’ll need algorithms. TFQ fills that Gap by making it possible for developers to create hybrid AI algorithms that use both classical computing ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/03/09/google-launches-tensorflow-for-quantum-computers/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-09T14:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2017%2F11%2Ftensorflow.jpg&signature=01462be7a75153cb5cbca816cd2e6673",
+          "width": 1280,
+          "height": 640,
+          "title": "Google launches TensorFlow for quantum computers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-09-showcasing-mreports-top-25-fintech-innovators-ai-foundry.md",
+      "title": "Showcasing MReport’s Top 25 Fintech Innovators: AI Foundry",
+      "excerpt": "After much deliberation, we are now proud to present our first annual collection of the Top 25 Fintech Innovators. In the pages that follow, you’ll get exclusive insights into the organizations and offerings that are poised to shape the mortgage industry in 2020 and beyond. Company Description: AI Foundry, an artificial intelligence (AI ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://themreport.com/daily-dose/03-09-2020/showcasing-mreports-top-25-fintech-innovators-ai-foundry",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-09T14:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theMReport",
+        "domain": "themreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://themreport.com/wp-content/uploads/2018/03/TechSavvy-300x236-1-1-300x236-1-1-300x236-1.png",
+          "width": 300,
+          "height": 236,
+          "title": "Showcasing MReport’s Top 25 Fintech Innovators: AI Foundry",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-09-googles-new-tensorflow-quantum-tool-lets-developers-build-quantum-ai-models.md",
+      "title": "Google’s new TensorFlow Quantum tool lets developers build quantum AI models",
+      "excerpt": "Google LLC today open-sourced TensorFlow Quantum, an extension to TensorFlow that enables developers to build artificial intelligence models for quantum computers. Quantum computing is still in an early stage, but the technology is maturing rapidly. IBM Corp. is doubling the processing power of its quantum chips every year, while Honeywell ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://siliconangle.com/2020/03/09/googles-new-tensorflow-quantum-tool-lets-developers-build-quantum-ai-models/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-09T14:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/03/quantum.png",
+          "width": 718,
+          "height": 400,
+          "title": "Google’s new TensorFlow Quantum tool lets developers build quantum AI models",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-09-amazon-wants-other-retailers-to-go-cashierless-with-its-just-walk-out-technology.md",
       "title": "Amazon Wants Other Retailers to Go Cashierless With Its Just Walk Out Technology",
       "excerpt": "Jay Stanley, senior policy analyst for the ACLU, which has previously expressed concerns about Amazon technology like Rekognition, said the ecommerce giant’s ability to retain data in ...",
@@ -385,6 +549,43 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-09-web-developers-dont-need-a-math-degree-to-get-started-with-machine-learning.md",
+      "title": "Web developers don’t need a math degree to get started with machine learning",
+      "excerpt": "Google AI researchers conducted a study among 645 users of TensorFlow.js, a framework for machine learning with JavaScript. The goal was to find out what motivates software developers to get started with machine learning, what they expect from ML ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://jaxenter.com/web-developers-machine-learning-tensorflow-js-169458.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-09T04:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "jaxenter.com",
+        "domain": "jaxenter.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://jaxenter.com/wp-content/uploads/2020/03/tensorflowjs-survey.jpg",
+          "width": 600,
+          "height": 400,
+          "title": "Web developers don’t need a math degree to get started with machine learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
         "AI"
       ]
     },
@@ -923,207 +1124,6 @@
           "width": 1200,
           "height": 1611,
           "title": "Tensorflow object detection api for Indian Driving Dataset(IDD) in windows 10",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-07-coronavirus-outbreak-googles-deepmind-ai-is-helping-scientists-better-understand-covid-19-find-cure.md",
-      "title": "Coronavirus Outbreak: Google’s Deepmind AI is helping scientists better understand Covid-19, find cure",
-      "excerpt": "The tech major has taken it a step further in the case of Coronavirus outbreak. Its DeepMind is putting its assets of Artificial intelligence to help scientists understand the peculiar features of the virus that has the potential to be a pandemic. The latest version of its Alphafold technology has been assigned the task to predict the ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.financialexpress.com/industry/technology/coronavirus-outbreak-googles-deepmind-ai-is-helping-scientists-better-understand-covid-19-find-cure/1891761/",
-      "ampWebUrl": "https://www.financialexpress.com/industry/technology/coronavirus-outbreak-googles-deepmind-ai-is-helping-scientists-better-understand-covid-19-find-cure/1891761/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/coronavirus-outbreak-googles-deepmind-ai-is-helping-scientists-better-understand-covid-19-find-cure/1891761/lite/",
-      "publishedDateTime": "2020-03-07T01:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-07-application-of-computer-vision-in-precision-agriculture-farming.md",
-      "title": "Application of Computer Vision in Precision Agriculture & Farming",
-      "excerpt": "But now AI in agriculture is boosting this sector using the power computer vision technology, to train the machines for better productivity in agro and farming. Actually, high-labor cost and ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/vsinghbisen/application-of-computer-vision-in-precision-agriculture-farming-79b0600d5a5d",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-07T01:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/1*ocyh2KDUta4JcMB-FHMFbg.jpeg",
-          "width": 1200,
-          "height": 813,
-          "title": "Application of Computer Vision in Precision Agriculture & Farming",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-07-tensorflow-to-expand-ai-capabilities-into-mobile-iot-javascript.md",
-      "title": "TensorFlow to expand AI capabilities into mobile, IoT, JavaScript",
-      "excerpt": "It has been three years since the open-source machine learning platform TensorFlow was launched, and now the team is announcing new and ambitious plans for the AI library. The TensorFlow Developer ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://sdtimes.com/ai/tensorflow-to-expand-ai-capabilities-into-mobile-iot-javascript/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-06T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2019/03/hero_720.png",
-          "width": 720,
-          "height": 405,
-          "title": "TensorFlow to expand AI capabilities into mobile, IoT, JavaScript",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-06-its-like-you-have-a-hand-again-a-major-breakthrough-in-robotic-limb-technology.md",
-      "title": "'It's like you have a hand again' — A major breakthrough in robotic limb technology",
-      "excerpt": "They're claiming it as a major advance in mind-controlled prosthetics ... \"It's just been really hard to do because the physics is not in your favour.\" While the robotic technology in prosthetic hands has come a long way in recent years, the way ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cbc.ca/radio/quirks/mar-7-new-technology-gives-amputees-a-hand-a-big-dam-proposal-your-dog-s-heat-sensitive-nose-and-more-1.5486967/it-s-like-you-have-a-hand-again-a-major-breakthrough-in-robotic-limb-technology-1.5486974",
-      "ampWebUrl": "https://www.cbc.ca/amp/1.5486974",
-      "cdnAmpWebUrl": "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.5486974",
-      "publishedDateTime": "2020-03-06T13:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBC.ca",
-        "domain": "www.cbc.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.cbc.ca/1.5488452.1583513963!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/mind-control-prosthesis-university-of-michigan.jpg",
-          "width": 620,
-          "height": 349,
-          "title": "'It's like you have a hand again' — A major breakthrough in robotic limb technology",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-06-google-deepminds-effort-on-covid-19-coronavirus-rests-on-the-shoulders-of-giants.md",
-      "title": "Google DeepMind’s effort on COVID-19 coronavirus rests on the shoulders of giants",
-      "excerpt": "Read More It was that pioneering work, and the decades of research that followed, that made possible the announcement on Thursday by Google's DeepMind that it has arrived at a guess as to the structure of a handful of proteins associated with the ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/google-deepminds-effort-on-covid-19-coronavirus-rests-on-the-shoulders-of-giants/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-deepminds-effort-on-covid-19-coronavirus-rests-on-the-shoulders-of-giants/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-deepminds-effort-on-covid-19-coronavirus-rests-on-the-shoulders-of-giants/",
-      "publishedDateTime": "2020-03-06T07:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/01/23/58aef493-b110-4e8d-b33e-88b96687eac0/resize/1200x900/bc837465a44a931f81f7c3dfb35c8642/screenshot-2020-01-23-at-11-48-05.png",
-          "width": 1200,
-          "height": 760,
-          "title": "Google DeepMind’s effort on COVID-19 coronavirus rests on the shoulders of giants",
           "attribution": null
         }
       ],

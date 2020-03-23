@@ -25,6 +25,6 @@ images:
     height: 710
     title: "New rugged OUKITEL WP6 launched today for $199.99"
 
-secured: "Ihb8pk09QbRvrfJ1j6npBSkqhJlApv6MvEPw8XMAUPBhvWLGjfJlSmDH5+gt9ikXLRa4ydSL04MTZvXwbphlUyN4diJqX/UoDNnQuOPG5+wmpKG8Co/CtvJEoAL+ewd78t0+XX8tRUJRw4eqfQMsQ0liOcgtmjvpnwpsyjxTrCkjklXTjNb1FSgtv7O+0i1RfAl7DjydFJSNcJPr07d/Z32RjD0JFMWQ1oHg92b65vf3Fh4MfwvqXa6QzGJTQrWJYKEOVn9gVFqM5iphK4oRg7uXSnCz/YHsGe9Eawllb1ou2ruR6gB+UYY+3AyIHMoq;bxxG06owr+t9fHq9RTfELw=="
+secured: "Ss/aWddmkf6OQlWqq4wceUNRL0NTd8hCaOtPM/w5AHPnwfDOVJgaILo355cyXOFqnVLFkOfIN49A4QoUrXO3tPUhvSJSAc2W9XtzFpLT35rafqTvnOLYr76MG5KBzkxrdmhlTKeJFBr9WlahRIKefs8A+TILq/j0jkZLNxuhvvgMePgrB4JZ5JQlnJ+XJlUEQenGT4I+yeOgzWdxl+ORux32JhZ8Ybd1SkmvGEAtuHwZBpXiU1fJNR3d9xCkyFvsFjHdJWLmtZnsi1F8oRLaV+iI+q+hrDUlmGg2C0hqXJP/U8ABvig6h9wNypTk0wkncWAkiif0SIEE+bVigV/P7CFmVGNSfHzeepBqGkIzjX9Uwkd275fyVCQt9dymxANVaGo0V3kY+CyM//3JOyIJhX8iHot4jLOO8lmLRECLiyT2R5QziN106jHBK/OorpJZ7TOrtX7XZ//tfY26lWIHPTlU6IoenyZSp6STftIudNc=;fbObOvcKU+UZJEHHlmTa+w=="
 ---
 

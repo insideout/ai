@@ -2,6 +2,207 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-03-07-coronavirus-outbreak-googles-deepmind-ai-is-helping-scientists-better-understand-covid-19-find-cure.md",
+      "title": "Coronavirus Outbreak: Google’s Deepmind AI is helping scientists better understand Covid-19, find cure",
+      "excerpt": "The tech major has taken it a step further in the case of Coronavirus outbreak. Its DeepMind is putting its assets of Artificial intelligence to help scientists understand the peculiar features of the virus that has the potential to be a pandemic. The latest version of its Alphafold technology has been assigned the task to predict the ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.financialexpress.com/industry/technology/coronavirus-outbreak-googles-deepmind-ai-is-helping-scientists-better-understand-covid-19-find-cure/1891761/",
+      "ampWebUrl": "https://www.financialexpress.com/industry/technology/coronavirus-outbreak-googles-deepmind-ai-is-helping-scientists-better-understand-covid-19-find-cure/1891761/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/coronavirus-outbreak-googles-deepmind-ai-is-helping-scientists-better-understand-covid-19-find-cure/1891761/lite/",
+      "publishedDateTime": "2020-03-07T01:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-07-application-of-computer-vision-in-precision-agriculture-farming.md",
+      "title": "Application of Computer Vision in Precision Agriculture & Farming",
+      "excerpt": "But now AI in agriculture is boosting this sector using the power computer vision technology, to train the machines for better productivity in agro and farming. Actually, high-labor cost and ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/vsinghbisen/application-of-computer-vision-in-precision-agriculture-farming-79b0600d5a5d",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-07T01:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*ocyh2KDUta4JcMB-FHMFbg.jpeg",
+          "width": 1200,
+          "height": 813,
+          "title": "Application of Computer Vision in Precision Agriculture & Farming",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-07-tensorflow-to-expand-ai-capabilities-into-mobile-iot-javascript.md",
+      "title": "TensorFlow to expand AI capabilities into mobile, IoT, JavaScript",
+      "excerpt": "It has been three years since the open-source machine learning platform TensorFlow was launched, and now the team is announcing new and ambitious plans for the AI library. The TensorFlow Developer ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://sdtimes.com/ai/tensorflow-to-expand-ai-capabilities-into-mobile-iot-javascript/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-06T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2019/03/hero_720.png",
+          "width": 720,
+          "height": 405,
+          "title": "TensorFlow to expand AI capabilities into mobile, IoT, JavaScript",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-06-its-like-you-have-a-hand-again-a-major-breakthrough-in-robotic-limb-technology.md",
+      "title": "'It's like you have a hand again' — A major breakthrough in robotic limb technology",
+      "excerpt": "They're claiming it as a major advance in mind-controlled prosthetics ... \"It's just been really hard to do because the physics is not in your favour.\" While the robotic technology in prosthetic hands has come a long way in recent years, the way ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cbc.ca/radio/quirks/mar-7-new-technology-gives-amputees-a-hand-a-big-dam-proposal-your-dog-s-heat-sensitive-nose-and-more-1.5486967/it-s-like-you-have-a-hand-again-a-major-breakthrough-in-robotic-limb-technology-1.5486974",
+      "ampWebUrl": "https://www.cbc.ca/amp/1.5486974",
+      "cdnAmpWebUrl": "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.5486974",
+      "publishedDateTime": "2020-03-06T13:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBC.ca",
+        "domain": "www.cbc.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.cbc.ca/1.5488452.1583513963!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/mind-control-prosthesis-university-of-michigan.jpg",
+          "width": 620,
+          "height": 349,
+          "title": "'It's like you have a hand again' — A major breakthrough in robotic limb technology",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-06-google-deepminds-effort-on-covid-19-coronavirus-rests-on-the-shoulders-of-giants.md",
+      "title": "Google DeepMind’s effort on COVID-19 coronavirus rests on the shoulders of giants",
+      "excerpt": "Read More It was that pioneering work, and the decades of research that followed, that made possible the announcement on Thursday by Google's DeepMind that it has arrived at a guess as to the structure of a handful of proteins associated with the ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/google-deepminds-effort-on-covid-19-coronavirus-rests-on-the-shoulders-of-giants/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-deepminds-effort-on-covid-19-coronavirus-rests-on-the-shoulders-of-giants/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-deepminds-effort-on-covid-19-coronavirus-rests-on-the-shoulders-of-giants/",
+      "publishedDateTime": "2020-03-06T07:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/01/23/58aef493-b110-4e8d-b33e-88b96687eac0/resize/1200x900/bc837465a44a931f81f7c3dfb35c8642/screenshot-2020-01-23-at-11-48-05.png",
+          "width": 1200,
+          "height": 760,
+          "title": "Google DeepMind’s effort on COVID-19 coronavirus rests on the shoulders of giants",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-06-googles-deepmind-is-using-ai-to-help-scientists-understand-coronavirus.md",
       "title": "Google's DeepMind is using AI to help scientists understand coronavirus",
       "excerpt": "Google's DeepMind is putting its artificial intelligence systems to a new task: trying to figure out certain properties of the novel coronavirus which has killed thousands in the past couple of ...",
@@ -174,6 +375,43 @@
           "width": 1200,
           "height": 900,
           "title": "Google's DeepMind just shared AI-generated predictions about the coronavirus that could help researchers stem the global outbreak",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-05-alphabets-deepmind-hopes-to-aid-researchers-with-ai-insight-into-covid-19-virus-structure.md",
+      "title": "Alphabet’s DeepMind hopes to aid researchers with AI insight into COVID-19 virus structure",
+      "excerpt": "DeepMind is best known for AI that easily defeated the world’s best Go and StarCraft II players in recent years. The Alphabet-owned research lab is now applying its existing work to help ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://9to5google.com/2020/03/05/deepmind-covid-19-research/",
+      "ampWebUrl": "https://9to5google.com/2020/03/05/deepmind-covid-19-research/amp/",
+      "cdnAmpWebUrl": "https://9to5google-com.cdn.ampproject.org/c/s/9to5google.com/2020/03/05/deepmind-covid-19-research/amp/",
+      "publishedDateTime": "2020-03-05T14:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "9to5Google",
+        "domain": "9to5google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://9to5google.com/wp-content/uploads/sites/4/2019/01/deepmind-logo.jpg?quality=82&strip=all&w=1000",
+          "width": 1000,
+          "height": 500,
+          "title": "Alphabet’s DeepMind hopes to aid researchers with AI insight into COVID-19 virus structure",
           "attribution": null
         }
       ],
@@ -655,6 +893,35 @@
       ]
     },
     {
+      "path": "_news/2020-03-04-its-like-you-have-a-hand-again-an-ultra-precise-mind-controlled-prosthetic.md",
+      "title": "'It's like you have a hand again': An ultra-precise mind-controlled prosthetic",
+      "excerpt": "In a major advance in mind-controlled prosthetics for amputees ... finger-level control of a robotic hand. To achieve this, the researchers developed a way to tame temperamental nerve endings ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medicalxpress.com/news/2020-03-ultra-precise-mind-controlled-prosthetic.html",
+      "ampWebUrl": "https://medicalxpress.com/news/2020-03-ultra-precise-mind-controlled-prosthetic.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-03-ultra-precise-mind-controlled-prosthetic.amp",
+      "publishedDateTime": "2020-03-04T11:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-04-facebook-details-ai-system-that-helped-it-catch-900m-fake-accounts-last-year.md",
       "title": "Facebook details AI system that helped it catch 900M fake accounts last year",
       "excerpt": "The company has an entire unit dedicated to machine learning, the Facebook AI Research group, that is working on a variety projects including an initiative to speed up MRI scans and an effort to ...",
@@ -889,273 +1156,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-04-is-artificial-intelligence-artificial.md",
-      "title": "Is Artificial Intelligence artificial?",
-      "excerpt": "Pattern recognition, speech recognition, and object recognition are all components of data-based information used to create algorithms, and subsequently used in Artificial Intelligence (AI).",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://wjla.com/news/nation-world/is-artificial-intelligence-artificial",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-03T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WJLA",
-        "domain": "wjla.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-04-its-like-you-have-a-hand-again-an-ultra-precise-mind-controlled-prosthetic.md",
-      "title": "'It's like you have a hand again': An ultra-precise mind-controlled prosthetic",
-      "excerpt": "finger-level control of a robotic hand. In a major advance in mind-controlled prosthetics for amputees, University of Michigan researchers have tapped faint, latent signals from arm nerves and ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.sciencedaily.com/releases/2020/03/200304141641.htm",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-03T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-03-robots-are-poised-to-transform-the-construction-industry.md",
-      "title": "Robots Are Poised To Transform The Construction Industry",
-      "excerpt": "Artificial intelligence already powers driverless cars, virtual assistants and autonomous warehouse robots. And now, technology entrepreneurs are using their expertise to take on the challenges of construction. Construction is among the least digitized industries in the U.S., owing to the labor-intensive and localized nature of the work.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bisnow.com/houston/news/construction-development/robots-are-poised-to-transform-the-construction-industry-103213",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-03T12:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bisnow",
-        "domain": "bisnow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.bisnow.net/fit?height=1200&type=jpeg&url=https%3A%2F%2Fs3.amazonaws.com%2Fcdn.bisnow.net%2Fcontent%2Fimages%2F2020%2F03%2F5e5d9d52553a3-built_robotics_software_interface.jpeg&width=1200&sign=4GS_ORXyGyz0OA9BRvWn7NdbQaexIlXCzPyL6df3RkA",
-          "width": 1200,
-          "height": 799,
-          "title": "Robots Are Poised To Transform The Construction Industry",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-03-researchers-develop-slide-algorithm-for-cpu-ai-training-that-outperforms-gpus.md",
-      "title": "Researchers Develop SLIDE Algorithm For CPU AI Training That Outperforms GPUs",
-      "excerpt": "There's a lot of money to be made by leveraging AI—NVIDIA, for example ... but the researchers claim SLIDE performs better than GPU methods. \"Our tests show that SLIDE is the first smart ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://hothardware.com/news/researchers-slide-algorithm-cpu-ai-training-outperforms-gpu",
-      "ampWebUrl": "https://amp.hothardware.com/news/researchers-slide-algorithm-cpu-ai-training-outperforms-gpu",
-      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/researchers-slide-algorithm-cpu-ai-training-outperforms-gpu",
-      "publishedDateTime": "2020-03-03T08:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.hothardware.com/contentimages/newsitem/50927/content/CPU.jpg",
-          "width": 708,
-          "height": 398,
-          "title": "Researchers Develop SLIDE Algorithm For CPU AI Training That Outperforms GPUs",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-03-3-top-artificial-intelligence-stocks-to-watch-in-march.md",
-      "title": "3 Top Artificial Intelligence Stocks to Watch in March",
-      "excerpt": "I like things that go \"boom.\" Sonic or otherwise, that means I tend to gravitate towards defense and aerospace stocks. But to tell the truth, over the course of a dozen years writing for The ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/03/03/3-top-artificial-intelligence-stocks-to-watch-in-m.aspx",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/03/03/3-top-artificial-intelligence-stocks-to-watch-in-m.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/03/03/3-top-artificial-intelligence-stocks-to-watch-in-m.aspx",
-      "publishedDateTime": "2020-03-03T06:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F560874%2Fglowing-android-head-with-the-words-artificial-intelligence.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 675,
-          "title": "3 Top Artificial Intelligence Stocks to Watch in March",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-03-mlb-swings-from-amazons-aws-to-google-cloud-for-data-and-analytics.md",
-      "title": "MLB Swings From Amazon’s AWS to Google Cloud for Data and Analytics",
-      "excerpt": "Major League Baseball is benching Amazon Web Services, with the league picking Google Cloud as its new data and analytics partner. Under a multiyear pact, Google Cloud becomes MLB’s official cloud",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://variety.com/2020/digital/news/mlb-google-cloud-amazon-aws-statcast-1203522184/",
-      "ampWebUrl": "https://variety.com/2020/digital/news/mlb-google-cloud-amazon-aws-statcast-1203522184/amp/",
-      "cdnAmpWebUrl": "https://variety-com.cdn.ampproject.org/c/s/variety.com/2020/digital/news/mlb-google-cloud-amazon-aws-statcast-1203522184/amp/",
-      "publishedDateTime": "2020-03-03T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Variety",
-        "domain": "variety.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://pmcvariety.files.wordpress.com/2020/03/mlb-2019-world-series.jpg?w=700&h=393&crop=1",
-          "width": 700,
-          "height": 393,
-          "title": "MLB Swings From Amazon’s AWS to Google Cloud for Data and Analytics",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-03-computer-vision-joins-the-enterprise-mainstream-but-its-a-hot-potato.md",
-      "title": "Computer vision joins the enterprise mainstream, but it’s a hot potato",
-      "excerpt": "Computer vision has been a key driver behind the artificial intelligence boom of the past two years. But it has also come with significant controversy. Businesses need to be aware of the potential ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/03/computer-vision-joins-the-enterprise-mainstream-but-its-a-hot-potato/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/03/computer-vision-joins-the-enterprise-mainstream-but-its-a-hot-potato/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/03/computer-vision-joins-the-enterprise-mainstream-but-its-a-hot-potato/amp/",
-      "publishedDateTime": "2020-03-03T04:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/computer-vision.GettyImages-1132582956.jpg?fit=2112%2C1103&strip=all",
-          "width": 2112,
-          "height": 1103,
-          "title": "Computer vision joins the enterprise mainstream, but it’s a hot potato",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

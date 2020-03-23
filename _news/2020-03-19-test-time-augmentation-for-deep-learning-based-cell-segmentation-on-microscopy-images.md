@@ -20,6 +20,6 @@ images:
     height: 319
     title: "Test-time augmentation for deep learning-based cell segmentation on microscopy images"
 
-secured: "Enqk+WD5G1Cb7nShsc2Xz1Cap/x8MeFVVZ6vcxrVuUSgwBekfaEPhuQMFGOInA9g47Ua+qWxXi9JeEbVI3VyZbdiLdr7R2vk/JX5uaTETpSW4fZuy83gWMMRQRoi7YyaxNENlrOZ+Q8DNW7ngt415JUT3CfF8XM7+vcllmupCG4SXWYi6YyEw+x4sWi4KknUCMgDmovLk7dAFi2P3FAE+yjuHEFej8RgjGR0LwLIEzPMYAs4PIz3WL42xpwFc5DbFFHRK0OLQWxW2VV1HwN0+YBFjAtkSzayNER/UFBqiIg2TFqSaGve9/6/uWN5ljX1;iUkrZGQfL62/Mx5wKqU7Ig=="
+secured: "IVHeWoEr5UOsBD7gPYHs6pmCb/YTpvzCrBHipM2hoJBszx61ktKUMzyRq4Z45tV+td5Pnok+UibiN3tYXIzWdsG2nVdhNutGOYUN22TDwSLabvcfv+zoG3sLFul5nEgXk86vi8WWLS4hzyCnr0UgtTPwrptj2fuQA+g0pQZz/chByIOJsUb7xBqS6o+Pfd5fDWn8RTo/bVj1KXvdZO2YCkcIW7guLxXXIJ3nouu51hZ4/r9A4/JhcEX+WRNNKO+APYULocAS8zZ6y/GEUd9P12ha9M/8RpCYsmE+TUPk0Z0xJL3Vtjdl2QPLjpvRmsHHpeK146ZikG/5sb3fBCDoyqhOyhbv/tDMRIDgWthGx0YWCOSoW+uxOwpMDAb1S8ZbxAp7t2fLdDPeB/LWehquPXD+UaLJjjsV4KbFrF5QKXR4NqHgGDBqHKvZpPYDBP8OtlowDSL9gbSackzdTajNtK1H2tmN6x9S8sOSoB9q5ic=;4+ZZu2OPhhnRZF4H8UdsMA=="
 ---
 

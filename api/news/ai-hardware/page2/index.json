@@ -2,6 +2,51 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-03-03-an-algorithm-could-make-cpus-a-cheap-way-to-train-ai.md",
+      "title": "An algorithm could make CPUs a cheap way to train AI",
+      "excerpt": "Our results improved by about 50 percent with their help.\" SLIDE is a promising development for those involved in AI. It's unlikely to replace GPU-based training any time soon, because it's far easier to add multiple GPUs to one system than multiple CPUs.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/2020/03/03/rice-university-slide-cpu-gpu-machine-learning/",
+      "ampWebUrl": "https://www.engadget.com/amp/2020/03/03/rice-university-slide-cpu-gpu-machine-learning/",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/03/03/rice-university-slide-cpu-gpu-machine-learning/",
+      "publishedDateTime": "2020-03-03T03:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-03%252Fa5a838d0-5d55-11ea-be9d-03761c0564fd%26client%3Da1acac3e1b3290917d92%26signature%3Dc52e51ab1982fdec5d966cfa6e153907d1ec8eb7&client=amp-blogside-v2&signature=746be58771df3d630e3d62794a606e1497132d5b",
+          "width": 600,
+          "height": 350,
+          "title": "An algorithm could make CPUs a cheap way to train AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-02-video-how-oneapi-is-revolutionizing-programming.md",
       "title": "Video: How oneAPI Is Revolutionizing Programming",
       "excerpt": "In this video, academics and industry experts weigh in on the potential of oneAPI, the new, unified software programming model for CPU, GPU, AI, and FPGA accelerators that delivers high compute performance for emerging specialized workloads across diverse ...",
@@ -1253,51 +1298,6 @@
           "width": 1200,
           "height": 675,
           "title": "AMD’s new Arcturus GPU could be super-efficient – but probably won’t trouble Nvidia",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-02-11-china-tech-giants-chip-in-to-combat-coronavirus-global-events-impacted.md",
-      "title": "China tech giants chip in to combat coronavirus, global events impacted",
-      "excerpt": "Meanwhile, Alibaba's rival JD.com on Monday said its smart assistant platform, powered by artificial intelligence (AI), had been integrated with the WeChat account of the Wuhan Mayor's Office. The messaging app, which provides updated information and services related to the coronavirus, taps the AI capabilities--including semantic ...",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/china-tech-giants-chip-in-to-combat-coronavirus-global-shows-impacted/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/china-tech-giants-chip-in-to-combat-coronavirus-global-shows-impacted/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/china-tech-giants-chip-in-to-combat-coronavirus-global-shows-impacted/",
-      "publishedDateTime": "2020-02-11T00:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2014/10/04/d918c155-4bf8-11e4-b6a0-d4ae52e95e57/thumbnail/1200x675/8160da71d46f35e6b7f8af8058103971/ftc-thumb.jpeg",
-          "width": 1200,
-          "height": 675,
-          "title": "China tech giants chip in to combat coronavirus, global events impacted",
           "attribution": null
         }
       ],

@@ -22,6 +22,6 @@ images:
     height: 430
     title: "NCI Empower: Accelerating AI adoption in the public sector"
 
-secured: "8jJh6vXR3MX4vXh6RKjUNozsM1m/ax8e8weQntl+jSNF6R2x2/VaCuDffp1sBgsGpEVXLxHY+KiCkWoC0QwvOs1O/mRp+n+iCk93XLowUEBoR9HHaWxjEOCD9Mob8NjhSQGxlaGfLWPETDCy+AEkeJwrLHPbsQfsDGZCEAn3kTE3O7+SMF+VdQtH0Ghdfc7J4I17Xk+HShf7T8AGNkuDT/H1kcogLmDm3SDfNEtNj8LxuFZxxdHzW06+fc4IbcKSR5cRvwhjqmg7lYD8OjYk+ahkZQe6idgltT3Wz6o1Mvn0YAm3zljgmLZ8BN9MOJd/;Q+9ZAQti4UG5imEN4wdPOQ=="
+secured: "a3Dss8GHE0WQji8CF/yq5/e0lucRp2uyicJTXRk2AKQ3YcoUgIiuh7VMCxDVkPPFwHXkTCF4HnL+Ubk6xaxgcnQ4NzBRb8cLxOqavx5R2rQGpdMVDVD9P7+OrRQQzzM7ys0OlH/FJQ4lcc8NIKU+lrFfqacc6DUGhFjBOB+HyG2ZfsUwZbod9aOBZI5ce3BvBEoskLS/bcgiW/wS7ZheoG7iNWRf/1l8LOTA2jT3xNiJcOUOWEur8dmz/ypuUZuKQdyThEfVp/jOm+BmDLnF/lY29F+TPOiz6LvG95ddHoteRe3pnplgggLhN3+IoqYCzEK0JJRgrJl5X03lqSdOjY2kQOogSxOfQ6jkbcdMH3wlv64nMhCzNP2TDiK9hzZ9W9ChGmf7a2vC/EeJM5ykhyt0YkKWVomAix3MiS4vo4kpKKlQFkQrgCo+ShNkuEixH8oNSCevXEifSIFoMTSRufMxYz/eD5Sz+exyPNlmj9A=;UzASw79GikWgNT4oeU/QGw=="
 ---
 

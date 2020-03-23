@@ -1,23 +1,21 @@
 ---
 category: news
 title: "'It's like you have a hand again': An ultra-precise mind-controlled prosthetic"
-excerpt: "finger-level control of a robotic hand. In a major advance in mind-controlled prosthetics for amputees, University of Michigan researchers have tapped faint, latent signals from arm nerves and ..."
-publishedDateTime: 2020-03-04T00:00:00Z
-webUrl: "https://www.sciencedaily.com/releases/2020/03/200304141641.htm"
+excerpt: "In a major advance in mind-controlled prosthetics for amputees ... finger-level control of a robotic hand. To achieve this, the researchers developed a way to tame temperamental nerve endings ..."
+publishedDateTime: 2020-03-04T19:00:00Z
+webUrl: "https://medicalxpress.com/news/2020-03-ultra-precise-mind-controlled-prosthetic.html"
+ampWebUrl: "https://medicalxpress.com/news/2020-03-ultra-precise-mind-controlled-prosthetic.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-03-ultra-precise-mind-controlled-prosthetic.amp"
 type: article
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://insideout.app/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "w7ClP2L63U5xHqrTpyNbMtOYYZXhotj0noTi9KgAHJ++D17fKXDiP/lf5Hu8g6Om+UTwrY1wKb0x6CcskWHvSQcq/xeaQV5zcIZYm43sop3yoS+kFUWIZpDXk/4MiTCyqkg/U5iYWQS8VWYXyNgiRF2j2i3Sf7trU3InBsHmU5dtyUQ5gWRUwCRLKN60znG+IXtqkXHaueGN9r9ziemvOnw0GzpSROruQuwPwwyIKpVFx+ZXO0NM7qBy6GToE+cVAMoJO9c3tVLtMbYxY3zCOO5uHERdxrC/W50CTBlV5HZD2nF44D64nuG3PPUM20K1;RQQyCzK/IzNuH4gF0IBPWw=="
+secured: "5q+nGttWunV0xNV+14nOR9o40KgIzyE+fxJC0JhDxv+ypqJJdaSAVV8ntOlDMxKJ574kNQkj+ceJAlv9hOgagwC1MiI9ZA0hLM9cfeq3ASOhoIgTiPHUHUkSZIpD0BO8K6/nP7lcd+PFPcg3ZNTUaneROJl85+ViHjiHoPQwJMUbZopNu98vzizGRqby7PucosvGBX96loJu1VvaX73g1oUlYw0dAnLedjtKmGWCiNZZZ5SIA8e5t9MtfgOeYSzsgsD2ljDPMTOtml446bXb4NcQ4DSlQLsOeeGQ8yqg6m2bMmgbHVfh2Zg6J6jYqivi;JzdaD8sA/RCE24SSuJrQkg=="
 ---
 
