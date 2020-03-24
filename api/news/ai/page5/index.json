@@ -2,6 +2,43 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-03-18-machine-learning-pushes-quantum-computing-forward.md",
+      "title": "Machine learning pushes quantum computing forward",
+      "excerpt": "Researchers have created a machine learning framework to precisely locate atom-sized quantum bits in silicon. It’s a crucial step for building a large-scale silicon quantum computer, the researchers report. Here, Muhammad Usman and Lloyd Hollenberg of the University of Melbourne explain their research and what it means for the future of ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.futurity.org/quantum-computers-machine-learning-2309802/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-18T12:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurity News",
+        "domain": "futurity.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.futurity.org/wp/wp-content/uploads/2020/03/quantum-computers-machine-learning_1600.jpg",
+          "width": 1600,
+          "height": 915,
+          "title": "Machine learning pushes quantum computing forward",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-18-artificial-intelligence-embedded-system-for-edge-ai-computing-and-deep-learning-applications.md",
       "title": "Artificial Intelligence Embedded System for Edge AI Computing and Deep Learning Applications",
       "excerpt": "The fanless embedded system employs an NVIDIA Jetson TX2 module which has a 64-bit ARM A57 processor; NVIDIA Pascal GPU with 256 CUDA cores; and 8 GB of 128-bit LPDDR4 memory ... with the NVIDIA Jetson platform and minimize what they need to do to develop AI-related applications.",
@@ -1096,31 +1133,31 @@
     {
       "path": "_news/2020-03-18-oneconnect-joins-idcs-financial-insights-fintech-fast-101-list-of-leading-fintech-companies-in-asia.md",
       "title": "OneConnect Joins IDC’s Financial Insights’ FinTech Fast 101 List of Leading FinTech Companies in Asia",
-      "excerpt": "IDC’s FinTech Fast 101 was based upon extensive ... Lastly, OneConnect’s rapid respond to customers’ demands during the ongoing COVID-19 epidemic using AI, big data and blockchain, sets it apart from the competition. OneConnect has specifically offered five smart solutions, which enable financial institutions to experience a smooth ...",
+      "excerpt": "OneConnect Financial Technology Co., Ltd. ('OneConnect” or the 'Company”) (NYSE: OCFT), a leading technology-as-a-service platform for",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.businesswire.com/news/home/20200318005262/en/OneConnect-Joins-IDC’s-Financial-Insights’-FinTech-Fast",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/oneconnect-joins-idc-s-financial-insights-fintech-fast-101-list-of-leading-fintech-companies-in-asia-1029007485",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/oneconnect-joins-idc-s-financial-insights-fintech-fast-101-list-of-leading-fintech-companies-in-asia-1029007485",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/oneconnect-joins-idc-s-financial-insights-fintech-fast-101-list-of-leading-fintech-companies-in-asia-1029007485",
       "publishedDateTime": "2020-03-18T03:16:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200318005262/en/780435/23/IDC.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": "OneConnect Joins IDC’s Financial Insights’ FinTech Fast 101 List of Leading FinTech Companies in Asia",
-          "attribution": null
-        }
-      ],
+      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
@@ -1128,44 +1165,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-canon-medicals-3t-mr-system-receives-fda-clearance-for-artificial-intelligence-based-image-reconstruction-technology.md",
-      "title": "Canon Medical’s 3T MR System Receives FDA Clearance for Artificial Intelligence-Based Image Reconstruction Technology",
-      "excerpt": "AiCE was trained using vast amounts of high-quality image data, and features a deep learning neural network that can reduce noise and boost signal to quickly deliver sharp, clear and distinct images, further opening doors for advancements in MR imaging. Capabilities include: “AiCE utilizes a next generation approach to MR image reconstruction ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businesswire.com/news/home/20200318005103/en/Canon-Medical’s-3T-System-Receives-FDA-Clearance",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200318005103/en/706033/23/3724089_3724081_Canon_Medical_Systems_Corpration_USA_Red_logo_RGB.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": "Canon Medical’s 3T MR System Receives FDA Clearance for Artificial Intelligence-Based Image Reconstruction Technology",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

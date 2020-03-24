@@ -3,9 +3,9 @@ category: news
 title: "Apple Music's AI-generated upbeat playlist helps you cope with reality"
 excerpt: "Think: Discovery Weekly, but with a focus on playing tunes that will encourage good vibes -- though there's the promise of discovering new music as well. Apple says it will start rolling out the playlist to subscribers today. Once it's available, you'll be able to find it in the \"For You\" tab next to your other playlists. If you're working from ..."
 publishedDateTime: 2020-03-23T20:22:00Z
-webUrl: "https://www.engadget.com/2020-03-23-apple-music-get-up-mix.html"
-ampWebUrl: "https://www.engadget.com/amp/2020/03/23/apple-music-get-up-mix/"
-cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/03/23/apple-music-get-up-mix/"
+webUrl: "https://www.engadget.com/2020/03/23/apple-music-get-up-mix/"
+ampWebUrl: "https://www.engadget.com/amp/2020-03-23-apple-music-get-up-mix.html"
+cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020-03-23-apple-music-get-up-mix.html"
 type: article
 quality: 87
 heat: 87
@@ -28,6 +28,6 @@ images:
     height: 350
     title: "Apple Music's AI-generated upbeat playlist helps you cope with reality"
 
-secured: "gL8IwXhyTIv3N5DkzVfF3Dhy+D5li4344DIbAFj8ZjulA8ujiMCR96d/YWer/x9Fe+xAgPWDFct6s/7/isgZz5gAzZapYwYXk7lEaBDYVJ0hPH9Y63bnz0p060K6DDhqJHvBZMXyn5gHjwDtrejK3WnDo9mPN9A7x6YrR2OLMYCD5NM+j/lVYY7x8ZLBSJl+GykN7mKtZVea/lOFE9hABcP/Gc4ELqYriVW9kiLlHM7oQsgR6czC34jGi6KTPTY5TP4Pw7DHnXAsymS5/sWEFyYERVKopnzjy3tXRALqfzlZdniPBYGJkG9qDNL0mB0S;xRR7Zcr3XRmW7ugUJGt1/A=="
+secured: "Qy4OPGL6KpZU1fiWF7kwrkhf0Lgn2Gctel2scoPN0SqtIllKGwOZc1Y3EZ4FgVxrMZ4yZEhKgZiyXLM4Qt0Vk7SyDz6JX+wtBzdwQfe0OG/ERLR3Y3A90bcyOOhyG4hoDa9WZu5+1iy3f6ntjUWqsuqD+fJH26BPwb6rv6nF6L6PwxGT2Fe22u5nE1v3Z0XQ4JtI3SHgg00urYNBA7R4veDrngGgKlkNwxmULiMVW6KS5DeWVpbhjC0SXCu2pXZiag39OejExD5bAx4IyLMJSyudIRmA8PPMwKjEy18bNhLm9lHoInXqCqMBW+C97gN5;NfdNLTzoulLEJ8nOj3b8Bg=="
 ---
 

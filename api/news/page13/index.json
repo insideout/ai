@@ -2,6 +2,43 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-03-13-seymourpowell-designs-quarter-car-private-ride-sharing-concept.md",
+      "title": "Seymourpowell designs Quarter Car private ride-sharing concept",
+      "excerpt": "Focused on offering passengers more privacy in ride-sharing services, Seymourpowell's driverless Quarter Car concept has four seats that can ... Features including digital transparent glazing displays, artificial intelligence and gestural interaction functions are designed to offer better user experience. Depending on the service provider ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.dezeen.com/2020/03/13/seymourpowell-quarter-car-concept/",
+      "ampWebUrl": "https://www.dezeen.com/2020/03/13/seymourpowell-quarter-car-concept/amp/",
+      "cdnAmpWebUrl": "https://www-dezeen-com.cdn.ampproject.org/c/s/www.dezeen.com/2020/03/13/seymourpowell-quarter-car-concept/amp/",
+      "publishedDateTime": "2020-03-13T05:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dezeen",
+        "domain": "dezeen.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.dezeen.com/uploads/2020/03/seymourpowell-quarter-car-concept-design_dezeen_2364_sq-1.gif",
+          "width": 852,
+          "height": 852,
+          "title": "Seymourpowell designs Quarter Car private ride-sharing concept",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-13-aclu-sues-for-government-facial-recognition-records.md",
       "title": "ACLU Sues For Government Facial Recognition Records",
       "excerpt": "The American Civil Liberties Union and New York Civil Liberties Union are challenging federal law enforcement’s use of facial recognition surveillance tech. A lawsuit was filed Thursday against the U.S. Department of Homeland Security (DHS), Customs and Border Protection (CBP), Immigration and Customs Enforcement (ICE), and Transportation ...",
@@ -943,43 +980,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-12-sentara-healthcare-partners-with-citiustech-to-deploy-data-platform-on-microsoft-azure.md",
-      "title": "Sentara Healthcare Partners With CitiusTech to Deploy Data Platform on Microsoft Azure",
-      "excerpt": "CitiusTech H-Scale, combined with Azure, helps customers achieve scale in healthcare data management.” CitiusTech has further enabled Sentara to leverage aggregated information and generate actionable insights by deploying artificial intelligence and machine learning models at an enterprise scale. This is expected to save approximately $3 ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businesswire.com/news/home/20200312005559/en/Sentara-Healthcare-Partners-CitiusTech-Deploy-Data-Platform",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-12T09:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200312005559/en/779461/23/citiustech_logo.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": "Sentara Healthcare Partners With CitiusTech to Deploy Data Platform on Microsoft Azure",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

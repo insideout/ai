@@ -2,6 +2,109 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-03-09-american-board-of-artificial-intelligence-in-medicine-abaim-aims-to-educate-and-certify-healthcare-professionals-in-ai-and-related-technologies.md",
+      "title": "American Board of Artificial Intelligence in Medicine (ABAIM) Aims to Educate and Certify Healthcare Professionals in AI, and Related Technologies",
+      "excerpt": "is pleased to announce its recent incorporation as a not-for-profit entity. The ABAIM plans to credential healthcare professionals and anyone else who seeks a greater understanding of the growing role and use of artificial intelligence (AI),",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/03/n15508706/american-board-of-artificial-intelligence-in-medicine-abaim-aims-to-educate-and-certify-healthcare",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15508706",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15508706",
+      "publishedDateTime": "2020-03-09T08:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-09-the-role-of-human-judgment-as-a-presumed-integral-ingredient-for-achieving-true-ai.md",
+      "title": "The Role Of Human Judgment As A Presumed Integral Ingredient For Achieving True AI",
+      "excerpt": "Is the embodiment of human judgment a required ingredient in achieving true AI? It is a rather seemingly simple question to proffer, though any mindful answer is likely to be notably elongated. Here’s why.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/03/09/the-role-of-human-judgment-as-a-presumed-integral-ingredient-for-achieving-true-ai/",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/03/09/the-role-of-human-judgment-as-a-presumed-integral-ingredient-for-achieving-true-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/03/09/the-role-of-human-judgment-as-a-presumed-integral-ingredient-for-achieving-true-ai/amp/",
+      "publishedDateTime": "2020-03-09T07:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e65a45f44b78400068c4fac%2F0x0.jpg%3FcropX1%3D312%26cropX2%3D5378%26cropY1%3D0%26cropY2%3D3800",
+          "width": 1200,
+          "height": 900,
+          "title": "The Role Of Human Judgment As A Presumed Integral Ingredient For Achieving True AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-09-patriot-one-secures-contract-for-correctional-service-canada-from-innovative-solutions-canada.md",
+      "title": "Patriot One Secures Contract for Correctional Service Canada from Innovative Solutions Canada",
+      "excerpt": "The contract from Innovative Solution Canada (ISC), was awarded to Patriot One for its PATSCAN Platform, with specific interest around the Video Object Recognition Software (VRS) solution for the ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.globenewswire.com/news-release/2020/03/09/1997106/0/en/Patriot-One-Secures-Contract-for-Correctional-Service-Canada-from-Innovative-Solutions-Canada.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-09T05:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GlobeNewswire",
+        "domain": "globenewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-09-7-myths-and-misconceptions-about-artificial-intelligence.md",
       "title": "7 Myths and Misconceptions about Artificial Intelligence",
       "excerpt": "Artificial Intelligence is merely meant to work with ... be self-driven cars being developed by companies such as Tesla, Waymo, Addison Lee, Audi, and others. But even these aren’t totally ...",
@@ -1021,117 +1124,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-06-nuclear-confusion-and-the-mind-controlled-prosthetic-hand-10-top-stories-of-the-week.md",
-      "title": "Nuclear confusion and the mind-controlled prosthetic hand: 10 top stories of the week",
-      "excerpt": "One intriguing suggestion from developer Cyclopic is using it as a cargo robot. The machine would use its wheels to drive around a factory or warehouse floor before transforming into drone mode for a quick flight, up to a high shelf or over an obstacle.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.imeche.org/news/news-article/nuclear-confusion-and-the-mind-controlled-prosthetic-hand-10-top-stories-of-the-week",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-06T07:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Institution of Mechanical Engineers",
-        "domain": "imeche.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.imeche.org/IME/ui/img/header/logo/imeche-logo.png",
-          "width": 400,
-          "height": 300,
-          "title": "Nuclear confusion and the mind-controlled prosthetic hand: 10 top stories of the week",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-06-googles-deepmind-is-using-ai-to-help-scientists-understand-coronavirus.md",
-      "title": "Google's DeepMind is using AI to help scientists understand coronavirus",
-      "excerpt": "Google's DeepMind is putting its artificial intelligence systems to a new task: trying to figure out certain properties of the novel coronavirus which has killed thousands in the past couple of ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://mashable.com/article/google-deepmind-ai-coronavirus/",
-      "ampWebUrl": "https://mashable.com/article/google-deepmind-ai-coronavirus.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/google-deepmind-ai-coronavirus.amp",
-      "publishedDateTime": "2020-03-06T02:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F03%252F06%252F41%252F632cdbc8ff1d429ca374dc82b7f7c3f8.df278.png%252F1200x630.png?signature=OL46TX6loCBqYt596HLY5RR_cwA=",
-          "width": 1200,
-          "height": 630,
-          "title": "Google's DeepMind is using AI to help scientists understand coronavirus",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-06-alitas-got-nothing-on-this-mind-controlled-robotic-arm-that-links-to-your-nerves.md",
-      "title": "Alita's got nothing on this mind-controlled robotic arm that links to your nerves",
-      "excerpt": "Alita may be able to take on robots twice her size because she's a cybernetic powerhouse ... These nerve fibers could then be manipulated to give the patient more precise control than any prosthetic ever has. Video of Ultra-precise, mind-controlled prosthetic hand for amputees via RPNI neural interface This was achieved by a muscle graft ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.syfy.com/syfywire/mind-controlled-cyborg-arm-like-alita",
-      "ampWebUrl": "https://www.syfy.com/syfywire/mind-controlled-cyborg-arm-like-alita?amp",
-      "cdnAmpWebUrl": "https://www-syfy-com.cdn.ampproject.org/c/s/www.syfy.com/syfywire/mind-controlled-cyborg-arm-like-alita?amp",
-      "publishedDateTime": "2020-03-05T16:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Syfy",
-        "domain": "syfy.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.syfy.com/sites/syfy/files/styles/1200x680/public/2020/03/alita_arms.jpg",
-          "width": 1200,
-          "height": 680,
-          "title": "Alita's got nothing on this mind-controlled robotic arm that links to your nerves",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

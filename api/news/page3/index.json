@@ -2,6 +2,51 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-03-20-five-ways-ai-is-changing-the-game-of-content-marketing.md",
+      "title": "Five Ways AI Is Changing The Game Of Content Marketing",
+      "excerpt": "Can an individual keep up with the advancing of technology? Can a team of individuals stay up to date in today's digital-dominant world without the assistance of technology? Think of all the tasks that need to be performed before any piece of content goes live: keyword research,",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/03/20/five-ways-ai-is-changing-the-game-of-content-marketing/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/03/20/five-ways-ai-is-changing-the-game-of-content-marketing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2020/03/20/five-ways-ai-is-changing-the-game-of-content-marketing/amp/",
+      "publishedDateTime": "2020-03-20T05:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbesagencycouncil%2Ffiles%2F2020%2F03%2F45.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "Five Ways AI Is Changing The Game Of Content Marketing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-20-self-driving-car-testing-freezes-due-to-covid-19.md",
       "title": "Self-driving car testing freezes due to COVID-19",
       "excerpt": "Waymo will continue to monitor COVID-19 developments until any further service changes are needed. Cruise Automation, the self-driving arm of General Motors Co., also took to Twitter to explain how it would be suspending its own self-driving test operations and closed its San Francisco facilities with the hope of re-opening in three weeks.",
@@ -1012,43 +1057,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-alibaba-cloud-offers-ai-cloud-services-to-help-battle-covid-19-globally.md",
-      "title": "Alibaba Cloud Offers AI, Cloud Services to Help Battle COVID-19 Globally",
-      "excerpt": "Through video conferencing and real-time AI translation into 11 languages (Arabic, Bahasa, Chinese, English, French, Japanese, Russian, Spanish, Thai, Turkish, and Vietnamese), Alibaba Cloud aims to build a virtual community, inviting Chinese doctors to share their experiences and answer questions from global peers. From Alibaba DAMO Academy ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.hpcwire.com/off-the-wire/alibaba-cloud-offers-ai-cloud-services-to-help-battle-covid-19-globally/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-19T07:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HPCwire",
-        "domain": "hpcwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/biology_shutterstock-205625032_800x-405x228.jpg",
-          "width": 405,
-          "height": 228,
-          "title": "Alibaba Cloud Offers AI, Cloud Services to Help Battle COVID-19 Globally",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

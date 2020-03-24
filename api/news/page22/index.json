@@ -2,6 +2,154 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2020-03-02-first-mwc-then-gdc-now-nvidias-gpu-conference-is-online-only-as-coronavirus-spreads-in-silicon-valley.md",
+      "title": "First MWC, then GDC, now Nvidia's GPU conference is online-only as coronavirus spreads in Silicon Valley",
+      "excerpt": "The list goes on. We’ve also heard that Google’s TensorFlow Dev Summit, a two-day affair for machine learning developers, that was planned next week for March 11 and 12, in Sunnyvale ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theregister.co.uk/2020/03/02/coronavirus_conference_concerns/",
+      "ampWebUrl": "https://www.theregister.co.uk/AMP/2020/03/02/coronavirus_conference_concerns/",
+      "cdnAmpWebUrl": "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/03/02/coronavirus_conference_concerns/",
+      "publishedDateTime": "2020-03-02T14:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Register",
+        "domain": "theregister.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2018/03/27/jensen_huang.jpg",
+          "width": 4000,
+          "height": 2545,
+          "title": "First MWC, then GDC, now Nvidia's GPU conference is online-only as coronavirus spreads in Silicon Valley",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-02-novel-use-of-robotics-for-neuroendovascular-procedures.md",
+      "title": "Novel use of robotics for neuroendovascular procedures",
+      "excerpt": "Surgeons at the Sidney Kimmel Medical College at Thomas Jefferson University are pioneering the use of robotics in neuroendovascular procedures, which are performed via the blood vessels of the ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medicalxpress.com/news/2020-03-robotics-neuroendovascular-procedures.html",
+      "ampWebUrl": "https://medicalxpress.com/news/2020-03-robotics-neuroendovascular-procedures.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-03-robotics-neuroendovascular-procedures.amp",
+      "publishedDateTime": "2020-03-02T13:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-02-video-how-oneapi-is-revolutionizing-programming.md",
+      "title": "Video: How oneAPI Is Revolutionizing Programming",
+      "excerpt": "In this video, academics and industry experts weigh in on the potential of oneAPI, the new, unified software programming model for CPU, GPU, AI, and FPGA accelerators that delivers high compute performance for emerging specialized workloads across diverse ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://insidehpc.com/2020/03/video-how-oneapi-is-revolutionizing-programming/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-02T09:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "insideHPC",
+        "domain": "insidehpc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://insidehpc.com/wp-content/uploads/2020/02/wong.jpg",
+          "width": 1064,
+          "height": 980,
+          "title": "Video: How oneAPI Is Revolutionizing Programming",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-02-how-to-prepare-for-microsoft-azure-certification-ai-100-designing-and-implementing-an-azure-ai-solution.md",
+      "title": "How to prepare for Microsoft Azure certification AI-100: Designing and Implementing an Azure AI Solution?",
+      "excerpt": "Candidates design and implement AI apps and agents that use Microsoft Azure Cognitive Services and Azure Bot Service. Candidates can recommend solutions that use open source technologies.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/@caiomsouza/how-to-prepare-for-microsoft-azure-certification-ai-100-designing-and-implementing-an-azure-ai-af60b92b8068",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-02T08:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1024/1*9ry80VYyy-_OEsrsqdR5Kw.png",
+          "width": 1024,
+          "height": 531,
+          "title": "How to prepare for Microsoft Azure certification AI-100: Designing and Implementing an Azure AI Solution?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-02-are-chinas-self-driving-cars-overtaking-us-peers.md",
       "title": "Are China's self-driving cars overtaking US peers?",
       "excerpt": "Is this proof that Baidu's self-driving car is better than Google's? Both companies say no. \"Waymo's position from the start -- and a growing industry consensus -- is that disengagements are not ...",
@@ -901,185 +1049,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-28-conversational-ai-platform-market-major-technology-giants-in-buzz-again.md",
-      "title": "Conversational AI Platform Market Major Technology Giants in Buzz Again",
-      "excerpt": "The Conversational AI Platform Market has witnessed continuous growth in the last few years and is projected to grow even further during the forecast period of 2020-2026. The exploration provides a 360°",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/conversational-ai-platform-market-major-technology-giants-in-buzz-again-2020-02-28",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-28T09:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Conversational AI Platform Market Major Technology Giants in Buzz Again",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-28-the-clearview-ai-nightmare-just-got-worse-heres-why-it-matters-and-what-must-come-next.md",
-      "title": "The Clearview AI Nightmare Just Got Worse: Here’s Why It Matters, And What Must Come Next",
-      "excerpt": "Just when you thought the Clearview AI nightmare couldn’t get any worse, the shady facial recognition firm was breached. As the firm’s customer list emerges, here’s why this all matters, and what needs to come next.",
-      "heat": 78,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/kateoflahertyuk/2020/02/28/the-clearview-ai-nightmare-just-got-worse-heres-why-it-matters-and-what-must-come-next/",
-      "ampWebUrl": "https://www.forbes.com/sites/kateoflahertyuk/2020/02/28/the-clearview-ai-nightmare-just-got-worse-heres-why-it-matters-and-what-must-come-next/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kateoflahertyuk/2020/02/28/the-clearview-ai-nightmare-just-got-worse-heres-why-it-matters-and-what-must-come-next/amp/",
-      "publishedDateTime": "2020-02-28T09:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1199766600%2F0x0.jpg",
-          "width": 1200,
-          "height": 784,
-          "title": "The Clearview AI Nightmare Just Got Worse: Here’s Why It Matters, And What Must Come Next",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-28-facebook-just-rolled-out-a-new-tool-that-uses-ai-to-turn-photos-into-3d-renderings-heres-how-it-works.md",
-      "title": "Facebook just rolled out a new tool that uses AI to turn photos into 3D renderings — here's how it works",
-      "excerpt": "Most Android and iOS devices will be able to use the new 3D Photos tool, as Facebook tries to establish itself as a leader in AI.",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/facebook-ai-tool-3d-photos-how-it-works-2020-2",
-      "ampWebUrl": "https://www.businessinsider.com/facebook-ai-tool-3d-photos-how-it-works-2020-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facebook-ai-tool-3d-photos-how-it-works-2020-2?amp",
-      "publishedDateTime": "2020-02-28T09:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5e594f5afee23d04d777ff63?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "Facebook just rolled out a new tool that uses AI to turn photos into 3D renderings — here's how it works",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-28-facebooks-3d-photos-no-longer-require-portrait-mode.md",
-      "title": "Facebook’s 3D photos no longer require portrait mode",
-      "excerpt": "Thanks to AI, any photo can become a “moving” 3D image ... The company says it can make 3D pics out of everything from recent selfies to \"decades-old\" shots stored on your phone. Eventually, Facebook says it hopes to also apply the research to video, which could open up some interesting possibilities for its AR and VR efforts.",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/2020/02/28/facebook-converts-3d-photos-without-portrait-mode/",
-      "ampWebUrl": "https://www.engadget.com/amp/2020/02/28/facebook-converts-3d-photos-without-portrait-mode/",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/28/facebook-converts-3d-photos-without-portrait-mode/",
-      "publishedDateTime": "2020-02-28T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-02%252Ff0e99b70-5a4b-11ea-b3fd-fc6cf580e7a6%26client%3Da1acac3e1b3290917d92%26signature%3D6b8d8f896f6feb0b58798ec2c38a7baa36f11d36&client=amp-blogside-v2&signature=822ec0bbdb91cf6c312f1890b87e5886bccc4948",
-          "width": 600,
-          "height": 350,
-          "title": "Facebook’s 3D photos no longer require portrait mode",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     }
   ],
