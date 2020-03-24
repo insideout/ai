@@ -7,9 +7,9 @@ webUrl: "https://mashable.com/article/speech-recognition-systems-error-rates-rac
 ampWebUrl: "https://mashable.com/article/speech-recognition-systems-error-rates-racial-bias.amp"
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/speech-recognition-systems-error-rates-racial-bias.amp"
 type: article
-quality: 69
-heat: 69
-published: false
+quality: 86
+heat: 86
+published: true
 
 provider:
   name: Mashable
@@ -18,6 +18,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://mondrian.mashable.com/2020%252F03%252F24%252Fb9%252Fd5042a28ebb74ac7a3ee380eb82cab61.561a2.jpg%252F1200x630.jpg?signature=3wjt45lwzDvmOSNZtNZHHuOOVXc="
@@ -25,6 +26,6 @@ images:
     height: 630
     title: "Speech recognition systems have higher error rates for black people, study finds"
 
-secured: "blncEv6QZAra04er1H6KNJhnl8rVw8oVcfkbsuCU/MjmbQj5pPNg311Spw06kFxz4RTMz7eQGgHp9smohrJS52LsHj8vi1TpylFwKL27lhlkYyy3Ek6Bqka6mSjt+++jtbXdL9RCeUOI9Z6aycQ3mFkdv9CAXZpGu4jc+/UrKiPNVQ7PXFwzaAb68DiwRh/oQC6Jjoy1lNBfiqgqthC8RaSbwueRQh9RZnKU7MAzJZn2V7KoHTFcXU7nW8Hc87dmVv1EyNk6VyKiue3DpUbuV5S7a6LJxs6jFC92xa60xDNtGn8k8u7KsYD/bLN3bTk8;nouu8y1y+St58ibfnkKneg=="
+secured: "PTza7F3pAa3McIPxC38BW6S8IbfOgBemY3yGDYGjvRyRZEAZEZi1ffGKL4y6e8a4MAndkRcqEqkFT8pIQWDT0TgJF2e9tFC/7rmupWH0mTMJ8kGLlaLCYSTN8bJAso2qcnjAhaF0v8TzlsB8bQBKpc2txnHdXclIPzZMVhRoEQwjP7ljILyzDnH0Qk8cwHGmwlKipcmfX2CNVrIj/F/Kr5yKux1rRBIPy1FcEURNZMYcdHNH7VPPEMM3FuGybH9LreHutstvvLZwP2uMz+9Sl1fOx05i6W8Ler5wZdu4EjiGIjSeO81S7U/lRf5aBjTNocJTIF3GYWogdZHoyS0HeArtKGiSBUJLiZwuis+IO9GdIco5v20ri1UVtqoimN6S5hP0T7HDSWYeqFiAw+PlysSUXN7457KiJVfm5HDnvLmjpL3cYVNprFah4C1gmvFKvkUf8yaNcpNlfBr91p1gt1S1KLKWXqJiecBh4wXAhhU=;caSxowC2gSLStt9sqjNzhA=="
 ---
 

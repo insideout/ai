@@ -13,6 +13,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Google AI
 
 images:
   - url: "https://www.politico.eu/wp-content/themes/politico-eu/static/design/core/template/opengraph.jpg"

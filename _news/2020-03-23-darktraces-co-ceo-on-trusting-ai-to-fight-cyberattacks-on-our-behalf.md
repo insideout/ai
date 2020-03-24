@@ -1,11 +1,11 @@
 ---
 category: news
 title: "Darktrace’s co-CEO on trusting AI to fight cyberattacks on our behalf"
-excerpt: "Senior Writer, Growth Quarters — Yessi leads the writing efforts at TNW’s Growth Quarters. Yessi leads the writing efforts at TNW’s Growth Quarters. Then, in September of that same year, the company joined the highly coveted tech unicorn club with a valuation of €1.5 billion ($1.65 billion.) But as most entrepreneurs will know ..."
+excerpt: "When Darktrace launched in 2013, the world of cybersecurity was an entirely different landscape. Then, in September of that same year, the company joined the highly coveted tech unicorn club with a valuation of €1.5 billion ($1.65 billion.) But as most entrepreneurs will know, Darktrace’s trajectory hasn’t always smooth sailing."
 publishedDateTime: 2020-03-23T10:56:00Z
-webUrl: "https://thenextweb.com/growth-quarters/2020/03/23/darktraces-co-ceo-on-trusting-ai-to-fight-cyberattacks-on-our-behalf/"
-ampWebUrl: "https://thenextweb.com/growth-quarters/2020/03/23/darktraces-co-ceo-on-trusting-ai-to-fight-cyberattacks-on-our-behalf/amp/"
-cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/growth-quarters/2020/03/23/darktraces-co-ceo-on-trusting-ai-to-fight-cyberattacks-on-our-behalf/amp/"
+webUrl: "https://thenextweb.com/neural/2020/03/23/darktraces-co-ceo-on-trusting-ai-to-fight-cyberattacks-on-our-behalf/"
+ampWebUrl: "https://thenextweb.com/neural/2020/03/23/darktraces-co-ceo-on-trusting-ai-to-fight-cyberattacks-on-our-behalf/amp/"
+cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/03/23/darktraces-co-ceo-on-trusting-ai-to-fight-cyberattacks-on-our-behalf/amp/"
 type: article
 quality: 87
 heat: 87
@@ -28,6 +28,6 @@ images:
     height: 417
     title: "Darktrace’s co-CEO on trusting AI to fight cyberattacks on our behalf"
 
-secured: "F7bi7D2lMG5Wsx+o0GqqJSkmxZnW52/NzJbNvRffR0PdpS+8cRBvPtoJtUfUFY1t2hwWAZPTBRGrgjYRUtmx78FHgpWsfe6jb1hANE4J5UXVJIYGFdNbqh5w7mLPGgSfBmIgmjYXNXCopkezNIOzFQSR89M1SY89oCw9i2Kfd53KKy2RxkO9VETMc5BYgVaamGtfjkhvtrwoDAfvzX1KpnXEmdHfVCGrAgQDcjccDJS6pvopWfYjt446PWVXyrtq2omXhLAx0yQxKTeJdcKkkKQEPItKv/8IMi9Xjk5HzK6JPU7SLmv+QF7mtdXgU0v0E9xDR7E+HJvXZ6ZJ9QO6LkIYmpKy5Wc/aQq+vVSvDQyXnS9cOkuyF2urOVExSslb1FkjXKjoG6tPV+eYOu9zILvyxT9KzEN9bk+QodQulJFvuycOrt6vgULRR8xPM/Bpg+lXoJKT1jarhRAKDRwxgiVKYo/hSXbwgNHiFhFPRb0=;7t1eybFH0YGOCInlVl0erw=="
+secured: "4rBBIt6zkL+h74pfZGqQxHrMDEFt0sDRWdwxL+1YmaU9VnfEaT0c9Gl8yzshttp4BXpmBE4RkNZnFDvdXlCg5Jzp3+XD/X6wZ9K+WeVKsb0Jgla+ChevJCmVbCO+U7HVaWHHJuCbhOKlNdV4lKyVNLfAXfxJdrb1sSdAKX7qOmlmxqtVqOgcsMVoKfJW3s/i7d9PIWJ2pY5rtuXdRZOmYu+wUaNSJuln73QjZnte2UFRy27p2Ay/LFUOGl5U4p7NtRg+DozkgI866bhx5Kh/s7E0EjQeFNkgr0pHRtTE/oYfpTyyXEm8pPEouzFim9uu;uHG4F63eJI68LrbPfj6/Jg=="
 ---
 
