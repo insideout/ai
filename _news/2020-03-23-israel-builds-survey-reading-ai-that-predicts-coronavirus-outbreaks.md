@@ -8,7 +8,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/03/23/israel-builds-survey-readin
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/03/23/israel-builds-survey-reading-ai-that-predicts-coronavirus-outbreaks/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 417
     title: "Israel builds survey-reading AI that predicts coronavirus outbreaks"
 
-secured: "QDZLLXeOiDAfofJG6DfOngOvBhoMWhTfsSeZHQHZFUmr4kTWN+l5UKA7s44LYhHZwcxUIG9u1F+5pCXAszAtYILjI/sZHZ9fbmL4sQh7W0omJe9XUA5vrtMKPSY3waHaTgV7M9prKuzsGLW9ZOwNgdpKCJS1lu1tL7ikrYMIm5DhNu30HtE2tOq+yg/PNGtVsEO+D56OLFswMzyl6+5JoTDed4ywCzOLb6VnVBpmQ8lRVp+W9dgGrfudbfUTjmrm5bAKs0j7aZZjvj/FonN0f7KF8Kk+eve0/YXI2Gx8LkWPlAGtS6W+QSapp1OiToeI0vYicLrzblWeySiFH5bMKdSo1n/OdJEV6HqAfbJ+ONPr/e5Co65ZhlWW0kDc/OftXWhliq+LNAxyo4b1y6axxot6nOZrc4gj0FI5RT3KojSnJyjAZUw8qzS60dyHvGmEamXpsf3xPGldtOe+48LARtkYQk/XJHXEDwRS6wfou/4=;dK2mBZ8m5AWKx0GY0Ei4og=="
+secured: "dzHdJ6u95J8LvhKKAng09v1jBNpCGTq/thDyfFIOUt3lOVCdGgzoMe6EA2gKFydvCUNkxyA0cnKzHR4yJnJ3XI/f97BSAOTKW4mI0/T7ipo8xdsPOAAXhXn/++UPoZoW+zKvE/yOeTS4ZqwgTnGpoXRdboAiAHuO+XuGEkOiRvgUWFX0/K3m1PigaROLqhTV1XcZS2TaRUrzA/9b7ywZAwj2VcWsL7QwYHHOQFhhD3s9SWd7P2BtR7u9S9so0WvwbbsrtE4ndIyTjPUvzgE1TnSe3/0kHDcKZwVpTniwvFrI53Yil9eEEwWZidBwHBzCyEMt+qgZ5+wArRHIoF1QdLTIAu6jW/s7xLG4llzHi1TfOCgx+vrkkUzckdlf3iTigySRc6UJJqvIDimNlB/4rx5KwAWj8qh9IG0MqfVXkMMFMlLHUQbVyTtU83JWtBze3yUjYlm76TqYShMLGfkbT+I30YWDDJhf0nc+gmvR1Dc=;Is1kK29wY4Nj0PrKu/Kihg=="
 ---
 

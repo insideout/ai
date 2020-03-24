@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Synopsys Advances State-of-the-Art in Electronic Design with Revolutionary Artificial Intelligence Technology"
-excerpt: "Inspired by DeepMind's AlphaZero AI that mastered complex games like chess and Go, Synopsys' DSO.ai™ solution is able to autonomously search for optimization targets in very large solution spaces of chip design Synopsys' DSO.ai massively scales exploration of options in chip design workflows while automating less consequential decisions ..."
-publishedDateTime: 2020-03-11T13:17:00Z
-webUrl: "https://www.tmcnet.com/usubmit/-synopsys-advances-state-of-the-art-electronic-design-/2020/03/11/9113479.htm"
+excerpt: "MOUNTAIN VIEW, Calif., March 11, 2020 /PRNewswire/ --Highlights: Inspired by DeepMind's AlphaZero AI that mastered complex games like chess and"
+publishedDateTime: 2020-03-11T13:43:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/synopsys-advances-state-of-the-art-in-electronic-design-with-revolutionary-artificial-intelligence-technology-1028985521"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/synopsys-advances-state-of-the-art-in-electronic-design-with-revolutionary-artificial-intelligence-technology-1028985521"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/synopsys-advances-state-of-the-art-in-electronic-design-with-revolutionary-artificial-intelligence-technology-1028985521"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Google AI
   - AI
 
-images:
-  - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
-    width: 252
-    height: 335
-    title: "Synopsys Advances State-of-the-Art in Electronic Design with Revolutionary Artificial Intelligence Technology"
-
-secured: "/OpdstfLNiNrz23Nxq/p+/Lv/D+aWR0YN7XNC8c1+xShnheXVj60xMhXLyB/fQ9Vi+E748jmfBhfGPDm6zq/avKz4Tzy+sh/YJ3w6Bdst75eTjL58BKRPH1A1QQdDc6viO/XEPO9h1WxKqKaZ+Q8iUeYdZDpvGxChrOa+sVa44tti3TzL4zCpiRixo3H/9xzyMquvs4YZIf5LOcvT74Ssn/jWBQOGxngjlv994o76UZ9ksP34w1ndEIkfuuPnwXFYGrh1SvaMobrcz2ELlols6GdrdJUYkhBQjZKziMsidZwYE5iUqHfGKexdkOEPP6H;OMnTAptU8d65VbolkyhSUg=="
+secured: "8KUtHhnBgBemsp7CrvTdkAq9rU9E1AZ5HNJAeqWG4bNJ/O0ghtGTO/Kqx9IqoeoLPyPkkidsqbZnVlUDPtwLru6ehU/8z1B/2rKJ8rDepq/jqOj+mwjFcL25j04mAB/A455o1fDbqPxiq5L5EwFUvo9EIF0sW1XJI+hISzWc0THqcrQGDyEwvBc06q6oI67n5sMavaci3x4wVpicPvRiOP29PVewYg9skvw5iDsDLR5qdBrROtoT+5Q6zJoFpmT1XeaNLpGvnzBx6DCOjvwoKNsSz3Baw8qKP/JwU6I0w4xbNXRym1dU1ghcJE/aUmxr;IvjbA6iZ39tT0eXBEEfD/Q=="
 ---
 

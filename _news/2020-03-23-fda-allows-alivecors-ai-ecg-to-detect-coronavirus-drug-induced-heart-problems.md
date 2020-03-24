@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/03/23/fda-allows-alivecors-ai-ecg-to-de
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/23/fda-allows-alivecors-ai-ecg-to-detect-coronavirus-drug-induced-heart-problems/amp/"
 type: article
 quality: 83
-heat: 84
+heat: 85
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 925
     title: "FDA allows AliveCor’s AI ECG to detect coronavirus drug-induced heart problems"
 
-secured: "fKEWom/nI3Ay+QELI8Fn/8GRa0pNpV1X89ooFQH1VUwmDr2BqTSK1gtqv3ldgyei6Oen+KwQPBTimeVks/h7dCVgteEeZByNsMu700ORujEcpIWAhOifu/NC4kUbT0b3h9ySQjxPjSv8k+JZ3JNLdQKr23biQE/gpa9Zop2B8BKuoymYRuxo7+GibvWI4Iu+40rLx9oc3hGYijqck1qdL0DUnQTTIX5mztZeiCBcYvnF9gM6A8/3PVj4uhBOd8bOdtQMJRot3P1pDi+0ycLYWYJwmuMZFIBkZUSmQ393dF40vtsYqSoSGiEczLUJULz78DCzzvUgKPR6KsYUBf6ASMt/UdUtb4Mzy1bpKLZ0FLczf4ZRnB7gqJoLPZJSJ2Dkjmx+2l2LCliV9T8mcbJngpjNkW/oLmAFBYvnxRqxCk1RhQfuRTmLm31X0BwTIoV+XyxjAJzLsDXNoH3kThaR4xD5KTR08wo3T/UtW8Bjt9o=;QbL9rM87xPoH1c4QOS61UQ=="
+secured: "V99CkdZde4MlOfh/Ott/Zkdp+6TSf9WiZGZilaa4I2ipT7/4xA7U5uZcjjfCy4aoted+nBZbFWr2f+hwijjeKtsC/OO0h0qd1KEa16knWVQjDRSAJS1Wq3koY6rYelhJnCfhxwPVoA5UG1yLeB7KLhhRVLQKa5OL9pP8/7cXrzbYc3UGWee2MPAy18tUkKHT+jNdlxBTpmPg8HIUw0+82UrgOu4U1bywZm8sACmuRlt25Dx6OxXnpT4xZ1VBpoQaSmfaACu6SYrIUCx9Kebh/QyEp9MOLSVZhzsSp9m8LkjOzoTnzsKYD2oefPGBT+r7tup3Ev4VNcAnLxNss2WuFlPNOvVVs9v7X1bOE3mEkk81+/4K3ofhml3LBCa2OaYEc9pdH0Gm79UMSa5T5tNEvMrGuLp/3pHHFBR7kW7TfaY5UmUbSfZfdhyWcuDy3eP7USgcPIqfyBMHQTkF201oYUvnfKmDob27HdY5zbGaxYg=;LI7pdIZC/FcuKjSoheuP0A=="
 ---
 

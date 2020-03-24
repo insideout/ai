@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/quora/2020/03/23/what-machine-learning-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quora/2020/03/23/what-machine-learning-trends-you-should-watch-in-2020/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 800
     title: "What Machine Learning Trends You Should Watch In 2020"
 
-secured: "uTca5Ll8036jf1HBo//I+In3zoDoAa1/BCmtijY+hmFOcWOQD9HXZ5DRLLT/uKFmBike2qY1O0ZOVtyGHbVN55ODgenabczcj5JtbitteMr7D/TotyHXR96T527GP6yUGH86yDlbgkYYV3r4PLxUcNfHla+lZYZJkF/RrRO0pj3RjkHWvdwHy5ro+OsT/iMWfQMnZwuY3QIV4NwfjMr86rBMuWJygX+jgbkrN4HvC4BMkiZPWDc/FyXIRjfsB1qc+IMZbHtOHnGEnqWMfXt+8gsvxqgBNNNuBnNY4aPLJctrfA2MnytrRxplZ+SR4Z1F;eG3T6AuEH1cEs0+4SVq+6A=="
+secured: "kEh9bHtQp+lVy4TwcEOz4eFNhF4q3ELrMGYNMpCeqFf14htTh7eArF5CSqRlNO3Toz042++2XuGzMSYxFTprzeFLRseMfSv3z9NkkUJWmhpxRxap7ms6UDO8kxdpzfz5HWPuLYU2I3pZS5yxevhddjzTOdqnKlXRFaJuXF/8aOJ39IcigxQ/4HCBFUAhqCd48dW7NarZZyzD/r1D4FVElcyZovb4jBZQkg3bKs8Kdy3Jkjn+g8S6Lp5rHFdk2J7A1Y7ztr+pTVgwskSB3AcgcJaQwgUhKYAqu43qeP3b86bgvHlC8HiddLEndn2QLKCN;oR2fJkHBWMzxzgFSEc4AfA=="
 ---
 
