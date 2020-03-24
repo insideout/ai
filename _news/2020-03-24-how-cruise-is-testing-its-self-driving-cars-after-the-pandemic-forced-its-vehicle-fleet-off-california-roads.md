@@ -27,6 +27,21 @@ images:
     height: 600
     title: "How Cruise is testing its self-driving cars after the pandemic forced its vehicle fleet off California roads"
 
-secured: "3grJRIOEN4D9bU4v0K29dM7wU+ylaVOkCTLq7hDqsxh2wAQTwZcrjSZE8+SZzymqc/rGJMJC/NJMc+6toZuWlpwGs4lH8iZPCkrojQez+1VfLgs0AeO64vXuSWHdffD223rusBvV7Wej8/qjC/q6mtXJzAmBSzs+P08zvxmqSNDm7sNiL9Jj8Aigial4TPzYwP/1wRHW2CebU2bSSW+L4ysHJBZ2E6WZT9hXgqZ69PKR9oOqkTutwp/MUwNDwgrhm9016j1kgO9cUjyWaJ3OTFvliUyl88udwcwy+50U1c5u8aX+R/O/kOiJzbe66cUW;FaYbKWR5AGKczAQHTQ1CUQ=="
+related:
+  - title: "Nvidia leads self-driving car chip development progress"
+    excerpt: "According to Nvidia, compute chips are a critical element to self-driving cars that make it possible for these vehicles to process in real time the mass amount of data coming from cameras, radars and lidar sensors. These chips also help self-driving software run deep neural networks simultaneously, achieving the diversity and redundancy in ..."
+    publishedDateTime: 2020-03-24T12:39:00Z
+    webUrl: "https://electronics360.globalspec.com/article/14872/nvidia-leads-self-driving-car-chip-development-progress"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 24
+    images:
+      - url: "https://electronics360.globalspec.com/images/assets/872/14872/nvidia_AV.jpg"
+        width: 752
+        height: 395
+
+secured: "2sYWSssJx4W4by9s4TIxmWztSxvWcSVWgym5u2CT9KS6QE8L3F+XvOU/wLzZFbHwTrR+RhL4g5yqOCU/QmKXM2eN8xW2EuhFHfPvhYh2dt6V0LuE5iF96mB1/JacYqOM8LQUK5eYOd5e+vtsXA1+WLyEfOEL7iXp9e52DwyERfp0RgR3aG0+MjUo8OMPJc14zEjMEBeHUuF3ajWZnDmZLHY6Kh3DM/lq1WpXvdIPxRXxDykxmC8OhMRgW+EDl0CCFIMmKK5ASwNs2w7+pTyNihtTnkRXtVyz+JmiTvwcb2ltcb0SrYsomrTDEz2S2LoGvbj70owmTOBkbIadC6MBLjzRXc6qioIVh9Kshqx1rFdnCWi2IVaIyig4iGSfg7Iux82V+c/rUNHJI0lxVtL2OnX6MsQ2lEXvZmVSmo4tuuC9ZxqKUvgdCcwd+/5u3ld3qatD/6joUyzROWVetujPuHvrNFXzmR25x/Ej027tyzI=;vxFpMy5WAUQl2BdnbyMxsg=="
 ---
 

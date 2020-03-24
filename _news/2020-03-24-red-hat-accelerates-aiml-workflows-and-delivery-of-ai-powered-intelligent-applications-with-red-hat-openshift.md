@@ -1,49 +1,28 @@
 ---
 category: news
 title: "Red Hat Accelerates AI/ML Workflows and Delivery of AI-Powered Intelligent Applications with Red Hat OpenShift"
-excerpt: "Red Hat, Inc., the world's leading provider of open source solutions, today highlighted that more organizations are using Red Hat OpenShift as the foundation..."
-publishedDateTime: 2020-03-24T13:16:00Z
-webUrl: "https://www.marketwatch.com/press-release/red-hat-accelerates-aiml-workflows-and-delivery-of-ai-powered-intelligent-applications-with-red-hat-openshift-2020-03-24"
+excerpt: "As a production-proven enterprise container and Kubernetes platform, OpenShift delivers integrated DevOps capabilities for independent software vendors (ISVs) via Kubernetes Operators and NVIDIA GPU-powered infrastructure platforms. This combination can help organizations simplify the deployment and lifecycle management of AI/ML toolchains as ..."
+publishedDateTime: 2020-03-24T14:07:00Z
+webUrl: "https://www.businesswire.com/news/home/20200324005432/en/Red-Hat-Accelerates-AIML-Workflows-Delivery-AI-Powered"
 type: article
-quality: 49
-heat: 49
+quality: 19
+heat: 19
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+  - url: "https://mms.businesswire.com/media/20200324005432/en/719420/23/Red_Hat_new_BW.jpg"
     width: 1200
-    height: 630
+    height: 627
     title: "Red Hat Accelerates AI/ML Workflows and Delivery of AI-Powered Intelligent Applications with Red Hat OpenShift"
 
-related:
-  - title: "Vionlabs launches Emotional Fingerprint API to provide media companies with powerful AI driven decision making"
-    excerpt: "Stockholm, Sweden, 24 March 2020 – Vionlabs announces the launch of Emotional Fingerprint API, a cloud-based solution that enables media companies to make better decisions based on deep AI generated video data and insights. The cloud-based solution is easily integrated with existing workflows throughout the entire video acquisition ..."
-    publishedDateTime: 2020-03-24T12:08:00Z
-    webUrl: "https://www.multichannel.com/pr-feed/vionlabs-launches-emotional-fingerprint-api-to-provide-media-companies-with-powerful-ai-driven-decision-making"
-    ampWebUrl: "https://www.multichannel.com/.amp/pr-feed/vionlabs-launches-emotional-fingerprint-api-to-provide-media-companies-with-powerful-ai-driven-decision-making"
-    cdnAmpWebUrl: "https://www-multichannel-com.cdn.ampproject.org/c/s/www.multichannel.com/.amp/pr-feed/vionlabs-launches-emotional-fingerprint-api-to-provide-media-companies-with-powerful-ai-driven-decision-making"
-    type: article
-    provider:
-      name: Multichannel News
-      domain: multichannel.com
-    quality: 37
-    images:
-      - url: "https://www.multichannel.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_620/MTcxMDYwOTQ2OTE4MTg5MDQx/press-release-images.jpg"
-        width: 620
-        height: 349
-
-secured: "K/oRymFtTMYWhTtg37W9/g7yDbgbmeDcA8hmABytTzU/3Tam7AIkzki6t4OfurWTK8t8ehu8btd+xRu5UlpHa+cAaBeMQgJeADccnl2h+HEWt/Oh7HdR6kVJA2vMTpOvlcXFNFag0VNFrEo3aRUMM+A06n92mJLnKqJ7S62MT4YqZ4nvEvYLGupkcKNfb4/e6kijLdOVjK8Rs5LZp7kL402fEoCY3DWZY5STR6uYWXCWjo7KFcF1eFkFsYzmd1cCb8Gx1W1/e15ZhPXeC3J2HOCZFjSyQ3BbWc8UziXPQHBM0oWf4QLNTcNg+gDZX+xy;IAMikQFqYOzWPdTMSijZNQ=="
+secured: "6c0ZwKGbq1uBkh8fR2qwpdVixmc1YApnN1HjG+2RcwP+BdxSsHuRWsQj1hp6S+u+75fx3OyW1jG9aVN+pKB149n2ex0xvh1rCl+/207uvGwMFvcnQ/3Aw+K1A/pUlN74QgEL8v5H+7roOljghCGRJaJnFQpFxADIMqEVKci9Ng7gfN84J1DOazwMDl0CDKMBDYg+/bmWGMj/IH24S+i+hETco06TI7iZSWoUcGOf3jsipAx7O4GpyBhI2QoBMHmoRUa3PwoaHbtwG41ack82GkGjsntXa/1v9I71v5Y5ahCfnGyBPV2GA7fvHLuFr8/r;8wCB9CBY7Op6oOpD8MEw+g=="
 ---
 

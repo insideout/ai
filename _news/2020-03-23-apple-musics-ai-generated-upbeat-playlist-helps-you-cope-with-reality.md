@@ -1,11 +1,11 @@
 ---
 category: news
 title: "Apple Music's AI-generated upbeat playlist helps you cope with reality"
-excerpt: "Think: Discovery Weekly, but with a focus on playing tunes that will encourage good vibes -- though there's the promise of discovering new music as well. Apple says it will start rolling out the playlist to subscribers today. Once it's available, you'll be able to find it in the \"For You\" tab next to your other playlists. If you're working from ..."
+excerpt: "The playlist is rolling out this week. Apple is trying something new to keep people's spirits up during the coronavirus pandemic. In Apple Music, it's introducing a new algorithmic playlist called the Get Up! Mix that the company says is full of \"happy-making, smile-finding, sing-alonging music.\" With the help of human editors, it will update ..."
 publishedDateTime: 2020-03-23T20:22:00Z
-webUrl: "https://www.engadget.com/2020/03/23/apple-music-get-up-mix/"
-ampWebUrl: "https://www.engadget.com/amp/2020-03-23-apple-music-get-up-mix.html"
-cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020-03-23-apple-music-get-up-mix.html"
+webUrl: "https://www.engadget.com/2020-03-23-apple-music-get-up-mix.html"
+ampWebUrl: "https://www.engadget.com/amp/2020/03/23/apple-music-get-up-mix/"
+cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/03/23/apple-music-get-up-mix/"
 type: article
 quality: 87
 heat: 87
@@ -28,6 +28,6 @@ images:
     height: 350
     title: "Apple Music's AI-generated upbeat playlist helps you cope with reality"
 
-secured: "Qy4OPGL6KpZU1fiWF7kwrkhf0Lgn2Gctel2scoPN0SqtIllKGwOZc1Y3EZ4FgVxrMZ4yZEhKgZiyXLM4Qt0Vk7SyDz6JX+wtBzdwQfe0OG/ERLR3Y3A90bcyOOhyG4hoDa9WZu5+1iy3f6ntjUWqsuqD+fJH26BPwb6rv6nF6L6PwxGT2Fe22u5nE1v3Z0XQ4JtI3SHgg00urYNBA7R4veDrngGgKlkNwxmULiMVW6KS5DeWVpbhjC0SXCu2pXZiag39OejExD5bAx4IyLMJSyudIRmA8PPMwKjEy18bNhLm9lHoInXqCqMBW+C97gN5;NfdNLTzoulLEJ8nOj3b8Bg=="
+secured: "FOSEjIQzzEAmZUrE0Zq38CX6m4KNWqHR0YugottfPIq01hAZedA1YIwg73HP98wJJk6xhXRjUzfEBHqz9hQKH0lvqiE0gij2LBtUUs4I6xGBoZLtk0wHUZynTXrWKK2zxBQ5Ypi1Ofxfuf4/ppl416wCCH5DcE6M3CSw2nPqRS/QW4qCTBCJrS5jTQDe3pzgi4Qg/wOGmarvzj9TwQl2Y9rEkSURVpl6QjR7ckAQQXwYBmxxO1kSGwkq97RLENW26yxN/nh7sk8bS+xUaJILxjanl7yS6dlMuXxUs8Lela2smjgOqg8MhbQyf9X2/0n0;SyTMwXg7dwmGVZQuGSSBmQ=="
 ---
 

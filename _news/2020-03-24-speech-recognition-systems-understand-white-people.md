@@ -6,7 +6,7 @@ publishedDateTime: 2020-03-24T12:57:00Z
 webUrl: "https://www.fudzilla.com/news/50530-speech-recognition-systems-understand-white-people"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,23 +23,6 @@ images:
     height: 465
     title: "Speech recognition systems understand white people"
 
-related:
-  - title: "Amazon, Apple, Google, IBM, and Microsoft worse at transcribing black people's voices than white people's with AI voice recognition, study finds"
-    excerpt: "Previous studies have shown that AI systems like facial recognition can become engrained with racial bias."
-    publishedDateTime: 2020-03-24T13:21:00Z
-    webUrl: "https://www.businessinsider.com/study-ai-voice-recognition-racially-biased-against-black-voices-2020-3"
-    ampWebUrl: "https://www.businessinsider.com/study-ai-voice-recognition-racially-biased-against-black-voices-2020-3?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/study-ai-voice-recognition-racially-biased-against-black-voices-2020-3?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 52
-    images:
-      - url: "https://i.insider.com/5deeb975fd9db22c100c5f33?width=1200&format=jpeg"
-        width: 1102
-        height: 551
-
-secured: "jQ2ExZs4LSgjYVhC3x7YWTYuDaqcOMlPjRxWlWrL1/pYV0cEwLgEOUvBic5QEWSyPFIJ1R+D49K0K3exExvgkK2/2DfMUh4Z9ERkuus7PoudtNXazw+0fmHmzYuGDiR7Bcfvg/7jAZyUb/L1PgVhzsAXDPIA4AmPm4AMfsiYpxzJc48Uy2FEylinmpVa/e3QxXasCirAEF9F37BUxrQPZ7KpCTmK2bzrqp20R4c4x1fmOtcLZHfKr2rb2efEVjR7rOkZWwa1hWQN8qOOFrtfMxGepMtdPp1eAMLru8zbs2rlrK4a5jqHI9XFxslO6Pd1;SFWUZlgKK7UREnMoXO9Z1g=="
+secured: "oh9eDo1yki3vieWd0M752rciyqHXeyLHQcyvU7i78UM+0PWDHFsZpxKYN6JLa3Wn5I5pkHkeov/tqv/Q9Pqp/IsgkvjpzrNwx6rZgWyc5m3U4WO2Mh7ab4/hoFTCdCpWANGZtLtj2TWzV2DQbsQShmCg2uDCrh8hpMkK82Q2hp57wcOZug28rZDhNAeH0fK0YkPdFXE8PInC/8lVEEBVePaTZGLnZbMnVI8SwlTB872I+LFsqw9VGSAHHA4jhZhu91fvptMSzs4aBP8X1sn2ekw75JYbK+KL1FrHjJRLEVTdI01BiDSF6DXHqxWOlSc11fydHfOSnugbNfii9Ayu1i4X9wyC8dctNozrSIPo/EDT3aeI9Xi0gkK6j7YWwF2nfa6k4N6+q/IcwIwtTp4MqTKyEiG5uxmB9IfYt+gftL4xo6mxF715R/6nG2Z37gAvDqpTKb99jQEo+OQkn5rm1IwdGU1lv05/j5W8/0LoxtE=;IgewsuoMWw+UE0a8lsJ14g=="
 ---
 

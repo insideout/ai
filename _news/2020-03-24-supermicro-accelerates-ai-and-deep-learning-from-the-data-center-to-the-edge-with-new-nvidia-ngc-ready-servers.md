@@ -5,8 +5,8 @@ excerpt: "SAN JOSE, Calif., March 24, 2020 /PRNewswire/ -- GTC DIGITAL -- Super
 publishedDateTime: 2020-03-24T13:00:00Z
 webUrl: "https://www.marketwatch.com/press-release/supermicro-accelerates-ai-and-deep-learning-from-the-data-center-to-the-edge-with-new-nvidia-ngc-ready-servers-2020-03-24"
 type: article
-quality: 64
-heat: 74
+quality: 66
+heat: 86
 published: true
 
 provider:
@@ -20,6 +20,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI Hardware
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
@@ -28,6 +29,19 @@ images:
     title: "Supermicro Accelerates AI and Deep Learning from the Data Center to the Edge with New NVIDIA NGC-Ready Servers"
 
 related:
+  - title: "Supermicro Accelerates AI and Deep Learning with NGC-Ready Servers"
+    excerpt: "Today Supermicro announced the industry’s broadest portfolio of validated NGC-Ready systems optimized to accelerate AI and deep learning applications. Supermicro is highlighting many of these systems today at the Supermicro GPU Live Forum in conjunction with NVIDIA GTC Digital. Supermicro NGC-Ready systems allow customers to train AI models ..."
+    publishedDateTime: 2020-03-24T15:45:00Z
+    webUrl: "https://insidehpc.com/2020/03/supermicro-accelerates-ai-and-deep-learning-with-ngc-ready-servers/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 39
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2020/03/supermicro.jpg"
+        width: 724
+        height: 654
   - title: "Supermicro NGC-Ready Systems Announced"
     excerpt: "Today at the Supermicro GPU Live Forum, Super Micro Computer, Inc. announced its portfolio of validated NGC-Ready systems optimized to accelerate AI and deep learning applications, Supermicro NGC-Ready Systems. According to the company, the new systems can scale up to 8 GPU Rackmount NGC-Ready Systems, certified to fully support NVIDIA GPU ..."
     publishedDateTime: 2020-03-24T13:04:00Z
