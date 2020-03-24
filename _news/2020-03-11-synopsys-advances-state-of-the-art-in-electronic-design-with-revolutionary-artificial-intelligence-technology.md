@@ -1,25 +1,19 @@
 ---
 category: news
 title: "Synopsys Advances State-of-the-Art in Electronic Design with Revolutionary Artificial Intelligence Technology"
-excerpt: "MOUNTAIN VIEW, Calif., March 11, 2020 /PRNewswire/ --Highlights: Inspired by DeepMind's AlphaZero AI that mastered complex games like chess and"
-publishedDateTime: 2020-03-11T13:43:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/synopsys-advances-state-of-the-art-in-electronic-design-with-revolutionary-artificial-intelligence-technology-1028985521"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/synopsys-advances-state-of-the-art-in-electronic-design-with-revolutionary-artificial-intelligence-technology-1028985521"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/synopsys-advances-state-of-the-art-in-electronic-design-with-revolutionary-artificial-intelligence-technology-1028985521"
+excerpt: "Inspired by DeepMind's AlphaZero that mastered complex games like chess or Go, Synopsys' DSO.ai solution is an artificial intelligence and reasoning engine capable of searching for optimization targets in very large solution spaces of chip design."
+publishedDateTime: 2020-03-11T13:58:00Z
+webUrl: "https://www.design-reuse.com/news/47673/synopsys-dso-ai-design-space-optimization-ai.html"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Design-Reuse
+  domain: design-reuse.com
 
 topics:
   - Google AI
   - AI
 
-secured: "Te+/l9KF6o0De8PvYW3XwVagO4zY92yb7J/NChkTDC6FX+faLU8OcLrBPbdfvuY3+SaFLgIwzPPnz6ngqsHXaJ4o5H3C2zsnA9yGdOyjwD3L07k8iWoYUoo3Zk448j1PUVkcEszKLNibsgJcYt+nuhwPjTpAn/Uxy1ET2ZzXbOMvDaIDKUied6vUKylSz+UTaJQ0+L95Nbug7kADyGmfVEvEsVWGeiSELen2RGIA3rqW/8i6ocnX0doC/iuyN9AuQnFH8WVpdPqKfWBqz5eXsen38AJxuz+3sgfsKvEpsiP7Ktip+9SQG0D/CEppbzDE;HyW0EKQNlc+KaihrBjtakw=="
+secured: "TAWVF2Ncun25ofYFOsFOOVn7WYzGXvv27GxZzdeXW2fGBVwpDRisHcrXW367DQQnf3WB+Yy3Gg/P2ln5AiQSV3day7XVHGKBAi2Mvfp9LR/7MJSA0bas5viT1PZe8cphlTKGy6/VdRKEXpuXmZzSvXSrdxXhlH3sRrR4yzCJZTDGtjppxiI7dTjLl98I9C1V4BAk8TEJio6jHp64EjssX+M4UpfghLtBAlCQ+Vg4Ev0tWcMS3VFX2XjTk2EPl+vDsf45OCzjZ9/3vPPUGm5eAZmOeNBlcx6cE2nQVbEsfhOEEh0D4Gvy1mY6N9i71+Pz;LWo6LBKwhFqPFkxlnvbiMw=="
 ---
 

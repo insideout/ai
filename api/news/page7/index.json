@@ -2,6 +2,110 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-03-18-ibm-talks-up-deeper-language-smarts-for-watson.md",
+      "title": "IBM talks up deeper language smarts for Watson",
+      "excerpt": "“Language is a tool for expressing thought and opinion, as much as it is a tool for information,” said Rob Thomas, general manager, IBM Data and AI. “This is why we’re harvesting technology from Project Debater and integrating it into Watson – to enable businesses to capture, analyse, and understand more from human language and start ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cio.com/article/3532454/ibm-talks-up-deeper-language-smarts-for-watson.html",
+      "ampWebUrl": "https://www.cio.com/article/3532454/ibm-talks-up-deeper-language-smarts-for-watson.amp.html",
+      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3532454/ibm-talks-up-deeper-language-smarts-for-watson.amp.html",
+      "publishedDateTime": "2020-03-18T03:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO",
+        "domain": "cio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/09/11_everyone-has-a-voice_point-of-view_speaking_communication_megaphone-100771142-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "IBM talks up deeper language smarts for Watson",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-cerence-powers-voice-for-all-new-uconnect-5-global-infotainment-platform-at-fca.md",
+      "title": "Cerence Powers Voice for All-New Uconnect 5 Global Infotainment Platform at FCA",
+      "excerpt": "Brings its most innovative voice recognition capabilities to FCA model lineup, delivering more engaging and intuitive in-car experiences Brings its most innovative voice recognition capabilities to FCA model lineup, delivering more engaging and intuitive ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.autoblog.com/press-releases/cerence-powers-voice-for-all-new-uconnect-5-global-infotainment-platform--at-fca_22558/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-18T03:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Autoblog",
+        "domain": "autoblog.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-oneconnect-joins-idcs-financial-insights-fintech-fast-101-list-of-leading-fintech-companies-in-asia.md",
+      "title": "OneConnect Joins IDC’s Financial Insights’ FinTech Fast 101 List of Leading FinTech Companies in Asia",
+      "excerpt": "OneConnect Financial Technology Co., Ltd. ('OneConnect” or the 'Company”) (NYSE: OCFT), a leading technology-as-a-service platform for",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/oneconnect-joins-idc-s-financial-insights-fintech-fast-101-list-of-leading-fintech-companies-in-asia-1029007485",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/oneconnect-joins-idc-s-financial-insights-fintech-fast-101-list-of-leading-fintech-companies-in-asia-1029007485",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/oneconnect-joins-idc-s-financial-insights-fintech-fast-101-list-of-leading-fintech-companies-in-asia-1029007485",
+      "publishedDateTime": "2020-03-18T03:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-18-canon-medicals-3t-mr-system-receives-fda-clearance-for-artificial-intelligence-based-image-reconstruction-technology.md",
       "title": "Canon Medical’s 3T MR System Receives FDA Clearance for Artificial Intelligence-Based Image Reconstruction Technology",
       "excerpt": "AiCE was trained using vast amounts of high-quality image data, and features a deep learning neural network that can reduce noise and boost signal to quickly deliver sharp, clear and distinct images, further opening doors for advancements in MR imaging. Capabilities include: “AiCE utilizes a next generation approach to MR image reconstruction ...",
@@ -837,125 +941,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-azure-admins-cold-sweat-likely-caused-by-a-isolated-power-problems-that-browned-out-west-central-usa-region.md",
-      "title": "Azure admins' cold sweat likely caused by a 'isolated' power problems that browned out West Central USA region",
-      "excerpt": "That upgrade from Java 8 to 11 you've been putting off? UK fintech types at Revolut 'quite happy' after a year in production As if the world doesn't have enough to worry about right now, Azure users with resources running in the Microsoft cloud's Central West USA region have just enjoyed an outage. The problem took out virtual machines and SQL ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theregister.co.uk/2020/03/15/azure_outage_west_central_usa/",
-      "ampWebUrl": "https://www.theregister.co.uk/AMP/2020/03/15/azure_outage_west_central_usa/",
-      "cdnAmpWebUrl": "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/03/15/azure_outage_west_central_usa/",
-      "publishedDateTime": "2020-03-17T12:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Register",
-        "domain": "theregister.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2018/09/13/shutterstock_panic.jpg",
-          "width": 648,
-          "height": 432,
-          "title": "Azure admins' cold sweat likely caused by a 'isolated' power problems that browned out West Central USA region",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-biotech-company-uses-machine-learning-to-find-coronavirus-therapies.md",
-      "title": "Biotech Company Uses Machine Learning to Find Coronavirus Therapies",
-      "excerpt": "AbCellera, a Canadian biotechnology startup that uses machine learning to develop antibody therapies, finds itself on the front lines of the Covid-19 global pandemic.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wsj.com/articles/biotech-company-uses-machine-learning-to-find-coronavirus-therapies-11584437401",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-17T11:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://si.wsj.net/public/resources/images/B3-GI211_antibo_SOC_20200316172104.jpg",
-          "width": 900,
-          "height": 471,
-          "title": "Biotech Company Uses Machine Learning to Find Coronavirus Therapies",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-artificial-intelligence-for-the-diagnosis-of-diabetic-retinopathy-an-interview-with-michael-d-abramoff-md-phd.md",
-      "title": "Artificial Intelligence for the Diagnosis of Diabetic Retinopathy: An Interview With Michael D. Abramoff, MD, PhD",
-      "excerpt": "Michael D. Abramoff, MD, PhD, is the Robert C. Watzke, MD Professor of ophthalmology and visual sciences at the University of Iowa Carver College of Medicine. He is also a professor of electrical and computer engineering and a professor of biomedical engineering at the University of Iowa.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.ajmc.com/newsroom/artificial-intelligence-for-the-diagnosis-of-diabetic-retinopathy-an-interview-with-michael-d-abramoff-md-phd",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-17T11:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The American Journal of Managed Care",
-        "domain": "ajmc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://hraresearch.s3.amazonaws.com/_media/_core/ajmc-twitter-logo.jpg",
-          "width": 1667,
-          "height": 1667,
-          "title": "Artificial Intelligence for the Diagnosis of Diabetic Retinopathy: An Interview With Michael D. Abramoff, MD, PhD",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }
