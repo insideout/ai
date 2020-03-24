@@ -10,12 +10,13 @@ provider:
   name: Medium
   domain: medium.com
   images:
-    - url: "/assets/images/organizations/medium.com-50x50.jpg"
+    - url: "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://miro.medium.com/max/1200/1*u_7DPtYho3U38K5MelTEXA.jpeg"
@@ -23,6 +24,6 @@ images:
     height: 800
     title: "The End of Starsky Robotics"
 
-secured: "5i7v76KCGJox8HqLE8kSTlfBbx1Ky+Ggr6N6MbyKuHGil+G9KtGsBaTgRyuYsf2mxynNWjadQRZ7/KP83L/w9iSbcZR6GU8/7eZJcqHqHTNId5upZX4z+kGWBiSXokf39ptYmCzOQ7lltsVytV4Xlu/iNjVkZkOtJp7webgVQrtnOrZGuU193Le/1hAGmdunFXu7pMXfc7hzY4LMt17fSzkWy3comm2CizABwVd6SyynBlR1o9HMpJnsARolyZEVNHjeHyXi98t34O/9iRRm6JwYd04JoKSFO9+6uJzq8+1RkHVmQQ0lFjr8Z9FKklbqxEPWcYJFvoc/ihwVrlwPvA==;RUVJRXmiIhOAdPoVZmLHyQ=="
+secured: "cGW91PueA1m//A/MfNVE1LqAGvlgZ3udeYZ1rylV7HSEQc74nZ7WAx1dNMZb66wuVW3NlrsrYuSTS3GPixkfdV68libGd+2a2zqGMT2Bp0Tgm8UnWfBLn3YxD0J9t2AfRdxM2sMkmkZn/Oeu+h3U5YaWtkWZQh/kUVVg7QYzLv342zSTJE9DI4s12qvQ7+Z0ucBJqpUOXhiOZeyrT+3/BmYdvR+KwF2m881fyNsDgV8oVNq8ZDmkcbTj4jERly8QzCKQmmHwbNN0TAKblbgFOE2RCWJh18fSdDPcdZEb6ZlfKbvzGsjiWMhWRjPpXviEoOzfNJSCT5X3bzemhxFoMZckB5E+DL2RoyRm2qpanBw=;7ecG/VIZQa6PklfuL2Or2g=="
 ---
 

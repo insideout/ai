@@ -114,43 +114,6 @@
       ]
     },
     {
-      "path": "_news/2020-03-11-synopsys-advances-state-of-the-art-in-electronic-design-with-revolutionary-artificial-intelligence-technology.md",
-      "title": "Synopsys Advances State-of-the-Art in Electronic Design with Revolutionary Artificial Intelligence Technology",
-      "excerpt": "MOUNTAIN VIEW, Calif., March 11, 2020 /PRNewswire/ --Highlights: Inspired by DeepMind's AlphaZero AI that mastered complex games like chess and",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/synopsys-advances-state-of-the-art-in-electronic-design-with-revolutionary-artificial-intelligence-technology-1028985521",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/synopsys-advances-state-of-the-art-in-electronic-design-with-revolutionary-artificial-intelligence-technology-1028985521",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/synopsys-advances-state-of-the-art-in-electronic-design-with-revolutionary-artificial-intelligence-technology-1028985521",
-      "publishedDateTime": "2020-03-11T06:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-03-11-smart-machines-market-is-expected-to-witness-cagr-of-193-during-the-forecast-period-2019-2027.md",
       "title": "Smart Machines Market Is Expected To Witness CAGR Of 19.3% During The Forecast Period (2019-2027)",
       "excerpt": "Market Overview A smart machine is an intelligent device embedded with machine-to-machine technology to perform various",
@@ -237,6 +200,43 @@
       ],
       "topics": [
         "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-synopsys-advances-state-of-the-art-in-electronic-design-with-revolutionary-artificial-intelligence-technology.md",
+      "title": "Synopsys Advances State-of-the-Art in Electronic Design with Revolutionary Artificial Intelligence Technology",
+      "excerpt": "Inspired by DeepMind's AlphaZero AI that mastered complex games like chess and Go, Synopsys' DSO.ai™ solution is able to autonomously search for optimization targets in very large solution spaces of chip design Synopsys' DSO.ai massively scales exploration of options in chip design workflows while automating less consequential decisions ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.tmcnet.com/usubmit/-synopsys-advances-state-of-the-art-electronic-design-/2020/03/11/9113479.htm",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-11T06:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg",
+          "width": 252,
+          "height": 335,
+          "title": "Synopsys Advances State-of-the-Art in Electronic Design with Revolutionary Artificial Intelligence Technology",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
         "AI"
       ]
     },
@@ -549,6 +549,43 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-robo-taxi-market-2020-technology-share-demand-opportunity-projection-analysis-forecast-outlook-2026.md",
+      "title": "Robo-Taxi Market 2020 Technology, Share, Demand, Opportunity, Projection Analysis Forecast Outlook 2026",
+      "excerpt": "”  Robo-Taxi Market – 2020-2026″ A new market study, titled \"Discover Global Robo-Taxi Market By Upcoming Trends, Growth Drivers and Challenges\" has",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/03/ab15524352/robo-taxi-market-2020-technology-share-demand-opportunity-projection-analysis-forecast-outlook-20",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15524352",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15524352",
+      "publishedDateTime": "2020-03-11T02:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.abnewswire.com/uploads/1583915997.jpeg",
+          "width": 600,
+          "height": 250,
+          "title": "Robo-Taxi Market 2020 Technology, Share, Demand, Opportunity, Projection Analysis Forecast Outlook 2026",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -1148,43 +1185,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-the-top-7-use-cases-for-touch-screen-object-recognition.md",
-      "title": "The Top 7 Use Cases for Touch Screen Object Recognition",
-      "excerpt": "Use these examples to inspire your own brand campaigns for touchscreen object recognition and interactive displays, tables, and video walls. The recognition of objects on large-scale touch screens picks up the well-known principle of cashier systems barcodes and takes it to a new level: objects which are equipped with a special marker chip or ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://customerthink.com/the-top-7-use-cases-for-touch-screen-object-recognition/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-10T15:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CustomerThink",
-        "domain": "customerthink.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://customerthink.com/wp-content/uploads/technology-785742_1280-pixabay-technology-computer-1.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": "The Top 7 Use Cases for Touch Screen Object Recognition",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

@@ -2,6 +2,43 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-03-14-artificial-intelligence-isnt-as-smart-as-it-thinks.md",
+      "title": "Artificial intelligence isn’t as smart as it thinks",
+      "excerpt": "artificial intelligence appears to be taking over the world. But look past the self-driving cars and facial-recognition cameras, and you'll see that the technology is a lot less intelligent than it may at first appear. It's likely to be decades, at best, before even the smartest forms of AI can outdo humans in the complex tasks that make up ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.politico.eu/article/artificial-intelligence-drawbacks-isnt-as-smart-as-it-thinks/",
+      "ampWebUrl": "https://www.politico.eu/article/artificial-intelligence-drawbacks-isnt-as-smart-as-it-thinks/amp/",
+      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/artificial-intelligence-drawbacks-isnt-as-smart-as-it-thinks/amp/",
+      "publishedDateTime": "2020-03-13T20:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "POLITICO",
+        "domain": "politico.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.politico.eu/wp-content/uploads/2020/03/AIwebcrop-1200x628.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": "Artificial intelligence isn’t as smart as it thinks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-13-blockchain-is-a-multi-task-new-technology-that-will-drive-5g-change-global-communica-tions.md",
       "title": "Blockchain Is A Multi-Task New Technology That Will Drive 5G, Change Global Communica-tions",
       "excerpt": "Blockchain is a multi-tasking new technology that will drive 5G and change global communications. 5G provides quick speed, new features in Internet of Things (IoT), personal and business data and will impact everything from SmartPhones to driverless vehicles.",
@@ -256,6 +293,43 @@
           "width": 1200,
           "height": 630,
           "title": "Smart Machines Market Is Expected To Witness CAGR Of 19.3% During The Forecast Period (2019-2027)",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-robo-taxi-market-2020-technology-share-demand-opportunity-projection-analysis-forecast-outlook-2026.md",
+      "title": "Robo-Taxi Market 2020 Technology, Share, Demand, Opportunity, Projection Analysis Forecast Outlook 2026",
+      "excerpt": "”  Robo-Taxi Market – 2020-2026″ A new market study, titled \"Discover Global Robo-Taxi Market By Upcoming Trends, Growth Drivers and Challenges\" has",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/03/ab15524352/robo-taxi-market-2020-technology-share-demand-opportunity-projection-analysis-forecast-outlook-20",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15524352",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15524352",
+      "publishedDateTime": "2020-03-11T02:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.abnewswire.com/uploads/1583915997.jpeg",
+          "width": 600,
+          "height": 250,
+          "title": "Robo-Taxi Market 2020 Technology, Share, Demand, Opportunity, Projection Analysis Forecast Outlook 2026",
           "attribution": null
         }
       ],
@@ -817,6 +891,43 @@
       ]
     },
     {
+      "path": "_news/2020-03-03-self-driving-cars-a-far-future-in-india-but-china-expects-to-go-commercial-by-2025.md",
+      "title": "Self-driving cars a far future in India, but China expects to go commercial by 2025",
+      "excerpt": "A recent survey of self-driving vehicle testing published by Beijing’s Innovation Center for Mobility Intelligent (BICMI) said that 77 AVs of 12 China-based companies including Tencent ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.deccanchronicle.com/technology/in-other-news/030320/self-driving-cars-a-far-future-in-india-but-china-expects-to-go-comme.html",
+      "ampWebUrl": "https://www.deccanchronicle.com/amp/technology/in-other-news/030320/self-driving-cars-a-far-future-in-india-but-china-expects-to-go-comme.html",
+      "cdnAmpWebUrl": "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/technology/in-other-news/030320/self-driving-cars-a-far-future-in-india-but-china-expects-to-go-comme.html",
+      "publishedDateTime": "2020-03-03T09:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Deccan Chronicle",
+        "domain": "deccanchronicle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-k58fgos9953hfvj83ktq9nada0-20200303173920.Medi.jpeg",
+          "width": 800,
+          "height": 448,
+          "title": "Self-driving cars a far future in India, but China expects to go commercial by 2025",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-03-3-top-artificial-intelligence-stocks-to-watch-in-march.md",
       "title": "3 Top Artificial Intelligence Stocks to Watch in March",
       "excerpt": "I like things that go \"boom.\" Sonic or otherwise, that means I tend to gravitate towards defense and aerospace stocks. But to tell the truth, over the course of a dozen years writing for The ...",
@@ -1031,141 +1142,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-29-lyft-ramps-up-self-driving-program.md",
-      "title": "Lyft ramps up self-driving program",
-      "excerpt": "The report is the latest sign that Lyft is trying to ramp up its self-driving vehicle program known as Level 5. The CA DMV, the agency that regulates autonomous vehicle testing on public roads in the state, requires companies to submit an annual report that includes data such as total AV miles driven and number of vehicles. It also requires ...",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/02/28/lyft-ramps-up-self-driving-program/",
-      "ampWebUrl": "https://techcrunch.com/2020/02/28/lyft-ramps-up-self-driving-program/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/28/lyft-ramps-up-self-driving-program/amp/",
-      "publishedDateTime": "2020-02-28T16:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/02/lyft-suburban.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": "Lyft ramps up self-driving program",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-02-27-toyota-had-the-most-autonomous-vehicle-disengagements-27000-more-than-baidu-apollo.md",
-      "title": "Toyota had the most autonomous vehicle disengagements, 27,000% more than Baidu Apollo",
-      "excerpt": "California's annual disengagement report is a peek into the state of self-driving car engineering, and we're going to dive into it. Baidu's open-source Apollo self-driving car platform is 2019's king of the hill when it comes to fewest disengagements per mile.",
-      "heat": 202,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/roadshow/news/2019-california-self-driving-disengagement-report-baidu-waymo-cruise/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/2019-california-self-driving-disengagement-report-baidu-waymo-cruise/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/2019-california-self-driving-disengagement-report-baidu-waymo-cruise/",
-      "publishedDateTime": "2020-02-26T19:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/VObAmj3BY9w3aStdCCRNnotH9qU=/2018/03/20/ff4b44ef-8be7-4a55-82cc-45ca46128505/toyota-autonomous-ogi.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "Toyota had the most autonomous vehicle disengagements, 27,000% more than Baidu Apollo",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-02-26-artificial-unintelligence-driverless-vehicles-deep-learning-and-dirty-datasets.md",
-      "title": "Artificial Unintelligence — Driverless Vehicles, Deep Learning and Dirty Datasets",
-      "excerpt": "Artificial intelligence (AI) makes it possible for ... ness contributes to the inherent uncertainty of the whole endeavor. Driverless Vehicles — What are the values that we are going to embed ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/swlh/artificial-unintelligence-driverless-vehicles-deep-learning-and-dirty-datasets-9f1793fdf3fe",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-26T11:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/1*LKtVmOR4Aui7X7djt8nMrg.jpeg",
-          "width": 1200,
-          "height": 800,
-          "title": "Artificial Unintelligence — Driverless Vehicles, Deep Learning and Dirty Datasets",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],
