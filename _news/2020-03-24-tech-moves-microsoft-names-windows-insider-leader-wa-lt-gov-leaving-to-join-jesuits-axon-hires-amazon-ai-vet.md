@@ -29,6 +29,6 @@ images:
     height: 393
     title: "Tech Moves: Microsoft names Windows Insider leader; WA Lt. Gov. leaving to join Jesuits; Axon hires Amazon AI vet"
 
-secured: "1Ugdj+4vjZcN/nqCoqfqZxanwcOli3nVySadefyWDPGAscfCmbpyDAMetkfiwYMPDO39d3DU5k1uCXLGLOAZXyhRo8U9s5mZ2Wk/x2djSrkSe9RuSc4LKlYJ5BOc+0/bbgFqaMj7AFODx35c82OCsHVoPBr+pmn2/xVb0YJnltsMH6voLw5g6vvhd/bvroJrP/WBXzPMui03VjciaJWzK2U8090h/pzXhUlu5z41194KVCX+GjmddatwRgJ/U1/cNp8DwCm8yqkaAl3BzUbVbbgbrBeN+rXzZBrtGjX7xJG0iA6DybdAcxsvuvL/abeG;PiWSgod2ufxm8XCgkthMag=="
+secured: "OYEkamHxbbL2nhgZz16MQQgu/CX+rmuyfwBkUmW6580SkMvz05b8lYZ/dzuVN1bVmR7t0xy8zdar1zA0d7hygexwmKMOxsqfOapxH4HTWcZh6Mtk5dI9VjNoLfi069HyitfGpglD1y368Qt6QNsML2q1s5qrcVZqukanpQlGCeZCa7gqesyx/5y0w0bYzcYmdf/qnapzw3nKQNEjmy6d2HLF0Cjs7TZT1a51CPm8fSQEjl2TvGBhyc53dqg/9jK+8WCmOElR5f5LGTSQWxJBMK4A5uLQnWNNwsljzD3MqEz27+fkOXr0iqIpTxFrTMaC1RB+QXnOYxA2mKn8hCUN5zx+620HILE/bTSmvT2g2/HLU5sMLEZs08UtSep0q0YqCOv2DQDMjFj4pkkkj49ilgcz2hr+tnyu5Zgi1OBImCpyQElUgYphEc0y+0XpEzLPMbVIgKeDNXihsOEL4D6bJ1ZZAaGvLSXCMx2TydCFrQc=;LqdizAOmUW05JiWVyDVOrg=="
 ---
 

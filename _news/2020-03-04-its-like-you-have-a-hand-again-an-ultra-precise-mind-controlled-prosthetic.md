@@ -1,23 +1,25 @@
 ---
 category: news
 title: "'It's like you have a hand again': An ultra-precise mind-controlled prosthetic"
-excerpt: "finger-level control of a robotic hand. In a major advance in mind-controlled prosthetics for amputees, University of Michigan researchers have tapped faint, latent signals from arm nerves and ..."
-publishedDateTime: 2020-03-04T00:00:00Z
-webUrl: "https://www.sciencedaily.com/releases/2020/03/200304141641.htm"
+excerpt: "ANN ARBOR--In a major advance in mind-controlled prosthetics for amputees ... finger-level control of a robotic hand. To achieve this, the researchers developed a way to tame temperamental ..."
+publishedDateTime: 2020-03-04T19:02:00Z
+webUrl: "https://www.eurekalert.org/pub_releases/2020-03/uom-ly022720.php"
 type: article
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://insideout.app/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "6f6sN37KgBbSruqe857sfNs499F74FMrl2BKgXAalZTAD8s16G2iD8/d9C3BF62MNFpCE19Cdzn5jBQd7gMtmzLbywgg2rFYGXtuyqxWsrU0AY5t3N6vFXQ8xDlTO1DTsYzX2r76MW+cXgY68GTMp5DrqKb/euVBVmOFEeP9v2YOmNnhJ0B6yLzekf9LPH8KrRCHUukcOhSFGYd6K2mwGICwelntR3IrOb6xlDvGFGbYLCF02nDjbvjNjhUmqVeJgJg/EFNLTRTjYkHNhD+42/K3l2AugMvhqVGBGW9WWHenUTkPjo+aHCZGwMyTJil0;ifHgWlLvsuOaoWJ+u1KvKA=="
+images:
+  - url: "https://www.eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg"
+    width: 900
+    height: 300
+    title: "'It's like you have a hand again': An ultra-precise mind-controlled prosthetic"
+
+secured: "mJ8iCu25CAbyBt3oy5fS68PZuRcdpcYcM6xystp4SErlvL2VaFBSNFf+PIA8xofcpub2IU20azhhKywi4lSUL52JWsucKMmMZVp+fej/MfhcLvW3RSOYXbta0Sb87SLgVbvgB7dspPH+yHrGKw9wxG5e3eEUmzQIAeNZ7zTCphf4Hx+Hwq/xlwJu1w8lRBzwpLW+SAlRkKCRf4i/6iCWcd62SBP0rUDBywq3uvbX5S/Z7HEIaURWkOrizErKzM9984YR27jgmp+Y22EHmwGwcXlHbydT5VDTS8eFH5sODmQu8X7geRqgmoyDQLhWNNpK;CNxYQJa6iT/rUmk98feXMA=="
 ---
 

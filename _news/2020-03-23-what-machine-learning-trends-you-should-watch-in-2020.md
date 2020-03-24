@@ -29,6 +29,6 @@ images:
     height: 800
     title: "What Machine Learning Trends You Should Watch In 2020"
 
-secured: "0gRmkpQ0/c51m+yhaKxWXlCg79TCVHai1QbNJaQHyH9jSTE3hw9Ro7zKiE04djpfSgG5pLMXM5PpA0VFhqOLoFShgaRT17VFZNCiEHoxfybuT8mu83KcAZdz7b7bIYcvgXaz0+FBz+OuElraK6NLL52mjYIc1uOYtxv9r6JMCyLQkP1sRQuqTkQm9fLFq/gIPCW0uyoYXIN5NugWeKINKnRQvL9dhnS4nU+LfnHFlWaDxAKa9sW1ILSjYp6DvtuTwNBEeOIc+8w7Q4aVxSpSVRgNDH134t4QX5hcpk8cMvzvzka1PURdn/xjhGmhOI+5;0LuLI6+SJKKQa6YrLVdf9w=="
+secured: "ohlMH1ow/hXuV4nd+zrQkm3M/h2C/uU1RvVkITNfDpyujh3mkRqi8KayFhM9McZq3yls6UjA76m3MAa9eA8/HHy90w/QJZ5MsdyCoQ/A5JM+cY6tWlq4Apwr+CTBGWsqGqJVp0z/0hbdxEts6cSFhskj1i3ZmGRYM0/FaZN71cDXFATzd5CWf89lGWGCjdYH+T/sHUjUlmgdd5jLYHpKNUG6Xq7VhcBRhwPezOGDyfyilxmn32V9t4ZFZd9u6eVtK43h4zo3aiuIYVWo5WlLEi9lLjOQJ7YaABqYV6KhjIuInz88WjpakTeQlxvskc5u;ICN+LfGYbjKMj44RfQ7pLA=="
 ---
 

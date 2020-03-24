@@ -23,6 +23,6 @@ images:
     height: 627
     title: "The Promise of AI & ML in Healthcare 2020: Opportunities, Challenges & Vendor Landscape - ResearchAndMarkets.com"
 
-secured: "v/wZCAYYgIkPmVvGSKwa7qAHAQA/0ih3zmxVYntcMQ38YYJGk1Os4+m4jIMqUTpylov7wqvTmgZI2CEQ0GE8FLiq1r8qUz8TOU5xXz1Lw5xOkjtNnB5qPOMsszYtwFSV6lebUyPODXBRimIm18ttCKmQUmWpw3mCrVN5w4H5dgSVzty+eD0wgjQbOdXc66Q869mrNhNX/NZ5n85/7ejGjNgoplmHOtfRudM7oPs8r7NmZLfyzPfGGPGYrbU2DoGpF5ievQTM72M7vkxXJgKp3/vCqYuNk+71MfCN5i07K4Gjo/SQqQG3ACG2NA0wriyV;2lhvsaCk224vwJC1rBKQ8w=="
+secured: "ovsBxHAd9FjEQ2W+MRrOSlY/c+BDc7FTazJ6ryBJNmgnynF0Q+cggndx4Nf0kv37aK53QS1ml96+/cql72Ng3CNGEEkQG/JrBK2KDZ7+blAxnjqTC8invb7aUWnBBjpWkfsFoa5rAKvCbKTrt5UZW2K+tn1N0wLt/byEHIPlfWP7Pm4NixPz8JtTi87ihHYpuhcWiwa3hbm3A6qadPdYNrg2oiSLW+kcfQ4mbZqogpHiO2BWrscxTNV3tI+h/N+E55cqlfS8JTztyQZbx330sCclMm6aKc8p+qEXvoXVVeCqc49mW4EX0l/B0eXu69a8MJ6zI4z/iRgw8iGtevyUj/w9I8l6FGwolFr0yIB5jhyeEPGlvT3IWCmLrE2r8GPuujVQYCpAmiqOKxhoxZhnpmit0vHrmRCDk5BMNE13cn1N859WzCU8baOBe0I5l/1mFZUT2w7xejsiV/uOaHSAV6lR7REzZ2WyBlzQGeVpWUY=;Eu+y20N63gSKCep42Lq2mw=="
 ---
 

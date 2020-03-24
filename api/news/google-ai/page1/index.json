@@ -565,58 +565,21 @@
     {
       "path": "_news/2020-03-11-synopsys-advances-state-of-the-art-in-electronic-design-with-revolutionary-artificial-intelligence-technology.md",
       "title": "Synopsys Advances State-of-the-Art in Electronic Design with Revolutionary Artificial Intelligence Technology",
-      "excerpt": "Inspired by DeepMind's AlphaZero AI that mastered complex games like chess and Go, Synopsys' DSO.ai™ solution is able to autonomously search for optimization targets in very large solution spaces of chip design Synopsys' DSO.ai massively scales exploration of options in chip design workflows while automating less consequential decisions ...",
+      "excerpt": "MOUNTAIN VIEW, Calif., March 11, 2020 /PRNewswire/ --Highlights: Inspired by DeepMind's AlphaZero AI that mastered complex games like chess and",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.tmcnet.com/usubmit/-synopsys-advances-state-of-the-art-electronic-design-/2020/03/11/9113479.htm",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-11T06:17:00-07:00",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/synopsys-advances-state-of-the-art-in-electronic-design-with-revolutionary-artificial-intelligence-technology-1028985521",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/synopsys-advances-state-of-the-art-in-electronic-design-with-revolutionary-artificial-intelligence-technology-1028985521",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/synopsys-advances-state-of-the-art-in-electronic-design-with-revolutionary-artificial-intelligence-technology-1028985521",
+      "publishedDateTime": "2020-03-11T06:43:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg",
-          "width": 252,
-          "height": 335,
-          "title": "Synopsys Advances State-of-the-Art in Electronic Design with Revolutionary Artificial Intelligence Technology",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-google-launches-machine-learning-framework-for-training-quantum-models.md",
-      "title": "Google launches machine learning framework for training quantum models",
-      "excerpt": "Google has revealed it is bringing together its machine learning and quantum computing initiatives with the launch of TensorFlow Quantum. The machine learning framework has the ability to ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techradar.com/news/google-launches-machine-learning-framework-for-training-quantum-models",
-      "ampWebUrl": "https://www.techradar.com/amp/news/google-launches-machine-learning-framework-for-training-quantum-models",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/google-launches-machine-learning-framework-for-training-quantum-models",
-      "publishedDateTime": "2020-03-10T11:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
         "images": [
           {
-            "url": "https://insideout.app/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -626,15 +589,7 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/PUkY2vFk37Kh5uzdiWBBgW-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Google launches machine learning framework for training quantum models",
-          "attribution": null
-        }
-      ],
+      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
@@ -1109,6 +1064,51 @@
           "width": 2400,
           "height": 1800,
           "title": "Google's DeepMind just shared AI-generated predictions about the coronavirus that could help researchers stem the global outbreak",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-06-google-deepminds-effort-on-covid-19-coronavirus-rests-on-the-shoulders-of-giants.md",
+      "title": "Google DeepMind’s effort on COVID-19 coronavirus rests on the shoulders of giants",
+      "excerpt": "Read More It was that pioneering work, and the decades of research that followed, that made possible the announcement on Thursday by Google's DeepMind that it has arrived at a guess as to the structure of a handful of proteins associated with the ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/google-deepminds-effort-on-covid-19-coronavirus-rests-on-the-shoulders-of-giants/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-deepminds-effort-on-covid-19-coronavirus-rests-on-the-shoulders-of-giants/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-deepminds-effort-on-covid-19-coronavirus-rests-on-the-shoulders-of-giants/",
+      "publishedDateTime": "2020-03-06T07:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/01/23/58aef493-b110-4e8d-b33e-88b96687eac0/resize/1200x900/bc837465a44a931f81f7c3dfb35c8642/screenshot-2020-01-23-at-11-48-05.png",
+          "width": 1200,
+          "height": 760,
+          "title": "Google DeepMind’s effort on COVID-19 coronavirus rests on the shoulders of giants",
           "attribution": null
         }
       ],

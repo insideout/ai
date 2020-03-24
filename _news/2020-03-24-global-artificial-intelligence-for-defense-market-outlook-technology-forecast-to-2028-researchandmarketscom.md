@@ -22,6 +22,6 @@ images:
     height: 627
     title: "Global Artificial Intelligence for Defense Market - Outlook & Technology Forecast to 2028 - ResearchAndMarkets.com"
 
-secured: "zudJwhKVH8CuCD4EYuLE2Xnr+Rqpx6YUghhUOqSlCjufvNydIGg+MPjAl8C+2rRlRQlZgHuR8MpS+jEG2EIZ5A4oFK5gxgosPduQLx0YBKXgPCY1gJijHSDolxfraV+6IXpz1c2vJIYsQkCkfQbR+e1lpkRNp+VsJSspWlPWgeqHzo4QRUOiJJ2uUxYbhzTfQa91du8I4nj3BehLEDuBYRMAtpRXKEoHyHHyCpYkYXuo+U7DpOqNVScPiW61UTvXNRgpGHWiTNGu2mwbpQ4BOYBETg/B/Th7Cbpj1WsKpryiro+2Ou8KDtBmtZowZGna;CXdHROIrlnaU/taKmm/1kw=="
+secured: "qoGtWCFZu8m9Bt4eGcldJ3bkcoU/1uE0vmi4QVKjtnymiz83cJ9p7+GR4aUjsp2obmdT/LVmx2wa9BLcfnxnRecgsjwsy+509QtGCl8+RL/mJVmMsy7uCHtZJbApjjGiwmVpBAsB+eWQ6dheIPx3aRihHc7X5D3Mg+14n4lZ1++PhI7vXi5j3Cb6RV2MSXSB1Hblk1oTe7VB3SE99Eiup+nYEBHLtp3jrQw4qLNQ1qKteH4XVVAO6B8BN4tw2RMH/aAHihSKRcwKz3vvZ292ppn70bnv9ok0E0iKTLVndzn1lz9WXvdt0rWu+goHXh0ildZbDC+6NgY7PVbrvHAMJX7/M0pxbCuYeXB8JcsPWHARwLqM4TFab9KvxoPTFNfj+b3VNvz9r9zq+WmQPCJQklWavuK7KkxI8AT/zFXH7CqfxqCFG9q48CD+9mabmz3vghI+hM8jDqUCxyeo0loNpzxj18bKpYTAtU7gZRFy7eg=;t0qeHtxs7oh8FaL9nPzWqQ=="
 ---
 

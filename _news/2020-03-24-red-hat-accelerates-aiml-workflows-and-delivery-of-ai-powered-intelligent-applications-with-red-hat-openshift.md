@@ -23,6 +23,6 @@ images:
     height: 627
     title: "Red Hat Accelerates AI/ML Workflows and Delivery of AI-Powered Intelligent Applications with Red Hat OpenShift"
 
-secured: "6c0ZwKGbq1uBkh8fR2qwpdVixmc1YApnN1HjG+2RcwP+BdxSsHuRWsQj1hp6S+u+75fx3OyW1jG9aVN+pKB149n2ex0xvh1rCl+/207uvGwMFvcnQ/3Aw+K1A/pUlN74QgEL8v5H+7roOljghCGRJaJnFQpFxADIMqEVKci9Ng7gfN84J1DOazwMDl0CDKMBDYg+/bmWGMj/IH24S+i+hETco06TI7iZSWoUcGOf3jsipAx7O4GpyBhI2QoBMHmoRUa3PwoaHbtwG41ack82GkGjsntXa/1v9I71v5Y5ahCfnGyBPV2GA7fvHLuFr8/r;8wCB9CBY7Op6oOpD8MEw+g=="
+secured: "dSl1gEMyFip/cEG7dZtcS2NccGcbEHQpzdgCI14mHrvwC6tGu3RW1CgmsPpvU5y4uMCe/PXbvckZADpjpwT17AxwZBniPaZsb3NHIaU9sYSB+iLwf3vM/q40ci2mNcVbC7ZzYkfUeF1UesIvc3qAJwkSdgktge82b7PosIQe8dd3MpSKsLxdx6+0q/Lqf/123r49bg1Kj0gQKHp4bO86W6JUK048P93Y3nfAPFXYOQg7Zzzdlwtqrqur0eXVKMXLXWF1N+wHuR+Ow9GcShNV63p+S0tr5lkquteDBSXaLly8a2+KyFOq/AcMH9D2/5UH1086ic7SF3DPHNrZCoHvpd21XTJnQIBXG0kfw0zA/mXR+i2y3/D8xThVCg8cPw+1OOgqPs26vQWcEJVMpaj/nQQRjOOXj3VwRXnvG/Ue4OLwkisI2dLeFlIj6b4lhWhH4FJAS+mJw0jsblBRJVtAyxKK3+FSdKmctWch4w+Ll0Q=;kgz8LyGulol7aSk1VzU3RA=="
 ---
 

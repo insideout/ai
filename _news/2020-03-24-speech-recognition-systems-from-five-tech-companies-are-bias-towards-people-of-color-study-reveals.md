@@ -25,6 +25,6 @@ images:
     height: 382
     title: "Speech recognition systems from five tech companies are bias towards people of color, study reveals"
 
-secured: "ZrILhCVpazw7nG7G05p8rrAUyD9DZVLMA32batCYOsLYSpZO8KuaauadCgQFVIMq0ymdK2FFE2rNgrtawWl2py3Bzk4IB9Rv8dEIURrBvT5GQpHMa7tRnh/OMso9I6o+LIpirVcXO01bQF08zirhzbr8pyCgtM/Q3JvrlFSUksfKiJMTL/An8HEfuVsXE14OHm/86gx0C9rFf8UBOayWE9sSlUPdRBuwEpSBOyNFa8yhZrNk9l3xQLC4I53VfNoB3c07TC+UIDljj4fIZBTWOez6jaLzlErR5KeTiNZJVqgjjMhzgMavPMt+cjuq0LeM;e4CHnoC0icca3fmR0zXSnQ=="
+secured: "H/GLBH0LOSK6EV2TCIdDMhT4i1yo0Uj8zZ2r5qQQ1Sr4VOAkvvlzmVEX9MEgeUYEOedkcOitRmY0abVI0uG6z+xWbEWqPtLioNw4D8BcerOhEBC4/sCxfe23M9izwYiAcBF+EPtrNDibko1K1mAF4RSyMYnIo1HGatizu6WvJXnjfoLTyZmzOUci+bajDjdeacaOLBfLht4u/A87E/Svwglo3WDyiKNoqj0d1kPziw8ogDe8/+dleamGy9Uy+ZIgPpSkTGekzTf4MTL1kOnw4Uutt04aU9+UY2wU/feFZZm3ZHwK/akx4yP+khkEb+1GNiPZrMtXiwuUgxrlmQUMyF8we+hIXQap+muZDMFGKbY70b2xlR9krn8iCrVHN3TSCGOXeg/3Hbi2Wj7xoaqqHuQGgPxnqPJdmrM9I/kmUWv+/QS1ZxW8x5cXGjXy3w3YfyeIHKOzO2PPtQ4fDg87+4Q6qLeIIB9e8mUdPPD/PKQ=;cD/KneKjp05QBGJXo08WjQ=="
 ---
 

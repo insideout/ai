@@ -6,7 +6,7 @@ publishedDateTime: 2020-03-24T15:35:00Z
 webUrl: "https://www.electronicsweekly.com/news/ceva-dsp-voice-tensorflow-2020-03/"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,30 @@ images:
 
 related:
   - title: "CEVA Announces DSP and Voice Neural Networks Integration with TensorFlow Lite for Microcontrollers"
-    excerpt: "/PRNewswire/ -- CEVA, Inc. (NASDAQ: CEVA), the leading licensor of wireless connectivity and smart sensing technologies, today announced that its CEVA-BX DSP..."
+    excerpt: "MOUNTAIN VIEW, Calif., March 24, 2020 /PRNewswire/ -- CEVA, Inc. (NASDAQ: CEVA), the leading licensor of wireless connectivity and smart sensing t..."
     publishedDateTime: 2020-03-24T11:48:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/ceva-announces-dsp-and-voice-neural-networks-integration-with-tensorflow-lite-for-microcontrollers-301028881.html"
+    webUrl: "https://markets.businessinsider.com/news/stocks/ceva-announces-dsp-and-voice-neural-networks-integration-with-tensorflow-lite-for-microcontrollers-1029026322"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/ceva-announces-dsp-and-voice-neural-networks-integration-with-tensorflow-lite-for-microcontrollers-1029026322"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ceva-announces-dsp-and-voice-neural-networks-integration-with-tensorflow-lite-for-microcontrollers-1029026322"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 25
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 55
+  - title: "Ceva’s DSP and speech recognition integrate with TensorFlow Lite for Microcontrollers"
+    excerpt: "Wireless connectivity and smart sensing technology provider Ceva’s DSP (digital signal processor) and speech recognition software for conversational AI and contextual awareness have been integrated with Google’s TensorFlow Lite for Microcontrollers, the company announced. TensorFlow Lite for Microcontrollers is a cross-platform framework to ..."
+    publishedDateTime: 2020-03-24T16:33:00Z
+    webUrl: "https://www.biometricupdate.com/202003/cevas-dsp-and-speech-recognition-integrate-with-tensorflow-lite-for-microcontrollers"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 32
     images:
-      - url: "https://mma.prnewswire.com/media/74483/ceva__inc__logo.jpg?p=facebook"
-        width: 2364
-        height: 1239
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/01/09162655/voice-biometrics-large1.jpg"
+        width: 1600
+        height: 700
 
-secured: "K+lQT7NQs67XVTOfhCUBw5dECPaSsd6KUFgrahUdSjt8ONRXq/9s2oK1EJ9dzd8vbb/cFv9viUlnR+xyGO1/v+J5OIvNth2X4HHQpiWllML3tWQtMTcPCv+Mswz7OS6NMqXEWA7KVaWjnqahReaMplQqSybGu65e31yVNv2BW/oHzWkTrbjpbRJWsQM9MS2UJAS4WCx0KpvIYEYr5uKojLy1eh4o2r52YmaUlBQIPlHpVZpaiIKJuWMfzRnC5c6HL8aO0Zcuml5MoSOSqsEMdfk6ZIqYZKdgJGvWlMpGbLTn/HryHtA6ZWtusfpCS9tj;h0VvyIn2XOZg5kcub07ecg=="
+secured: "YtKphh3RHzQigmjo6XunigxdC17egE7LXzyb/JynN5a3fPKAVu1KTPfaFNbRvhA+E1d7nCMR2haGo7+JSZXsVer+hUiVggBfA+V306vUV5e3u6C16trGpWgfOwELE9ZKbZLr0JaEziFxi7KbjgAoJyQpc7bquQBJwsVTGWRjkQ6IgMMpS1Qp95jX+jdz+QHFXT6s+PU0I1uMl5Y8QJWfJvx2aHtCzgSypfsKdxg4CN96iywmkZKbf1sJVbypAjT7gL1vNah4GcjkUtQDnLFU4FI1Ub4r0VnCWGPGPTj8DsXR6RLGGuWzIwNtUXge5zLDT60mZqQXee4R53PS4VUpj4Swnv3WaSiVZhTbvovWSkbOklAbeA0q63vmdf2ml3xiK+sCsvTxRCfI+VtC74T+3EGkrOHwcLw7iA9wvDzJCaVTLhFy4YFpSzYYJc3IvrqJnTy9rAyOSQG+4jNnFoCmdqrvWnpIu/YzXm2efp3EogY=;Yi6bZnPywo7nnFSlIRonyA=="
 ---
 

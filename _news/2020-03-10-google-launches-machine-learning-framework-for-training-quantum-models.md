@@ -1,11 +1,9 @@
 ---
 category: news
 title: "Google launches machine learning framework for training quantum models"
-excerpt: "Google has revealed it is bringing together its machine learning and quantum computing initiatives with the launch of TensorFlow Quantum. The machine learning framework has the ability to ..."
-publishedDateTime: 2020-03-10T18:31:00Z
-webUrl: "https://www.techradar.com/news/google-launches-machine-learning-framework-for-training-quantum-models"
-ampWebUrl: "https://www.techradar.com/amp/news/google-launches-machine-learning-framework-for-training-quantum-models"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/google-launches-machine-learning-framework-for-training-quantum-models"
+excerpt: "The machine learning framework has the ability to construct quantum ... The release of TensorFlow Quantum comes after Microsoft's launch of Azure Quantum and the recent news that Honeywell is developing a quantum computer with a quantum volume of at ..."
+publishedDateTime: 2020-03-10T18:34:00Z
+webUrl: "https://www.techradar.com/sg/news/google-launches-machine-learning-framework-for-training-quantum-models"
 type: article
 
 provider:
@@ -17,7 +15,7 @@ provider:
       height: 50
 
 topics:
-  - Google AI
+  - Microsoft AI
   - AI
 
 images:
@@ -26,6 +24,6 @@ images:
     height: 675
     title: "Google launches machine learning framework for training quantum models"
 
-secured: "R90gauAMg/WylOieC9ikt7KOdiUMQLhgDwyxvmX2mF6Kwhvr/rqoq734v455cAD5eE/USDgAsyNrshmF2XLntUA7QKs0j15qrXWLi0/d6Sjiki3MAmtcGrHUn3OOQGGZml+B5Axa7frWsoTo85+0ALVu3+lAlFP4lyOgj9ZV3KY9j4QNlHw+XNZ/PQjzf4+nzezrTrFubMiztjyuZQHLITNXO9Pieer0t5NEYg5/Ce7BMGDFLKWOekuTp/SgUjEaDVZ99DmeshqK5mrOLAVDfdjU6+WoGD9XzczJQyJegMWKgyQaw1IUiEQ0LRwmYtJh;DY+dadIMYfsIbqgJdqKoBQ=="
+secured: "Nub4pLoUqF2aGEMcEfpKA/BuaxNKqkmAEVYpQiR1md2mLLUadKFR+DarDLxtZl1gLIx7aFNzpbTnHCIPruDqbRH8/4loABehW8RnAjWdAK/6JrLtclRwWKL1m019JKtVcIwAYTEjLUJpWP7UNdqDecBdxJaPh8thQzIdgMfrgo0EychzaW/OKOzycfVCg4Slz7a9aYrvYyNS7HbgZyInBttHZq/ubJf0lHt4Torg2I2Ny64tMSLiMba2oBa5taaTv1tJHfOxmOO4SpwUuL+HfqWSyKz45HXn6Z4QtlyE0EijkRPTT41eVLKtsC0LQEjY;luEJ99phVvHW3AwM4c7iLw=="
 ---
 

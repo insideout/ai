@@ -45,7 +45,7 @@ related:
     provider:
       name: insideHPC
       domain: insidehpc.com
-    quality: 39
+    quality: 56
     images:
       - url: "https://insidehpc.com/wp-content/uploads/2020/03/supermicro.jpg"
         width: 724
