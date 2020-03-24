@@ -23,6 +23,6 @@ images:
     height: 799
     title: "Covid-19 coronavirus: Facebook, YouTube, Twitter send home thousands of human moderators"
 
-secured: "/i0Qzkxr/ZoyjqQ19GmDcaqB4ypP3gTKyMwWBaf0nLME3LKIzlDtj73BkzfJuYHeXGtSGsUlAe/4ZIdEpssKR9DvVUhRVJ9FQzdQM1HKQPEqfkbviZFtJbVfPbYbr+Ne90ZqKLpOfifna1wexGDFB6GH4RlN940evXfZd2/ytPdaPUHZ5LQphVgLHOWb9US/qlvExsTCyk7/kFW5s7k4TDc331N6/xsm28rDkzaFuCu9iSBhkA7xotSrNU7kV82lgJOq4N7qHfRhwcd8UY372MXlKz5rWy8YsDmLwbTIBQGBR9H0V1UVS4lcfuHx8cQs;62ULiZ9Xj+km2CpR1Lfh8g=="
+secured: "/awlBBXw+BesBI0m/xoEKS1RAu2xi1Qmbkl12KDsXmyVnWoT1ydXLwJdz7Eqkp+UyiO8G1F2Ikv5Tc/I1gXYINXGFOhvnC6Cwqjj6nwemiCz+cHtsSDFXc77RueAAoNq++fhcrNrMFtHo19B3nq3OTFppGzpSdGmta97/rRnvoSP0/4mI4jD2oLwq6JFZaRlcGuLCvpQQz/akWI2cDA85AqeRSsjSKrrY72pzM04aBumqt3A3nFJ+Mg/nXRzJ2B2e2TCekYX+hd3j+9udvbMMz5mMvfFKrgkfvRRYzFnVE40qtnIGpSbnbMEwjD0Dj01zZNUGlKysKvI9oY1W4UrQZ1+B3cBcNgPbAQvkjTiQ/45BlvZ4UVoOYP3d5Db6TEgompIJEz4bpJY+UZ+5bb+lcRnN6Vu6hiK5+GAFw+T7tQs4+/6nRz8ZHvTv3hzPmvu8krJQPggLbbCcIrt7WPDSC0KmxCUMb0eQ2n9wFjPpcs=;62tTupixR1hl22HhJ2kFdA=="
 ---
 

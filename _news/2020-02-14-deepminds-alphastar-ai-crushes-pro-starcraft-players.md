@@ -20,6 +20,7 @@ provider:
 topics:
   - AI
   - Google AI
+  - Natural Language Processing
 
 images:
   - url: "https://www.geek.com/wp-content/uploads/2019/01/alphastar-9.jpg"

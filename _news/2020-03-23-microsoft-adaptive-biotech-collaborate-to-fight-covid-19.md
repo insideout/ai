@@ -8,7 +8,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/microsoft-adaptive-biotech-collabora
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-adaptive-biotech-collaborate-to-fight-covid-19-2020-03-23?amp"
 type: article
 quality: 89
-heat: 101
+heat: 102
 published: true
 
 provider:
@@ -40,6 +40,6 @@ related:
         width: 647
         height: 450
 
-secured: "eaIG+WbaZ4GZf19KARTJ2QWWzXhao3E4kiAYWBwgj6zMvFEujrrMddULYGFyjyEHYd77mHliGMvAFfUUU0r+wTHm4t7OXADYUH+t5870KI//V5zpdDx2/O+6BOasJdpdLcLz1o1WebYLEQnh4sUDLUqwbfuykCGMCPTUuEvUtjVxV7swQ94LcODHLlvMr7iHzDJY5mkwZ5ppNUSAfmqvkxMIk3ekomqCJ62hnGCZL0jpVe6iyPFoRvU8EG1lErsrr70mE/O4kZH5mRbqEh873jmF//2ZJ7k/PKjpA/RQCQ18a7a3t1dFalxmB5qZ5V2L;L7DNRvGj63dHvG8L2OUtZw=="
+secured: "ytZ6z/5h616R0ZVMcuTGrKJVTaWRuBhzeZTaWYd73RRjPxGevzCmAF1IzXqVuYeCeKOpZMXxTHusQwEqAGPR5G0H3azEdoQd9k6zm1UHFoe/pJYXn9QcRuIEYmWvLSjD55hfcRLADRphiblO50l4JDt5HsZJdsuPQ36uDp+guwYILHMaRNjiZULlI6cDoHgbdwY273mPYmUgNNACKQ2hEpJEFxWC7O17FTTz7N+b1hCHdlFH1+sM0+t0pWMPZ2JxxXLgLRfbu+k2VX1nFbYSZ8a3PsRJDWSOYZ6U21FUnIhA6WFU00/gSXSyMaa57vsZ;iwoCj1AHKIMN1L5fOq3EVA=="
 ---
 

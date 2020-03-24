@@ -1,28 +1,30 @@
 ---
 category: news
-title: "Artificial Intelligence System Aimed at Preventing Drownings"
+title: "Artificial intelligence system aimed at preventing drownings"
 excerpt: "The device resembles a stingray, except it doesn’t patrol the water in search of prey -- rather than threaten humans, it aims to save them."
-publishedDateTime: 2020-03-21T07:20:00Z
-webUrl: "https://www.usnews.com/news/best-states/pennsylvania/articles/2020-03-21/artificial-intelligence-system-aimed-at-preventing-drownings"
-ampWebUrl: "https://www.usnews.com/news/best-states/pennsylvania/articles/2020-03-21/artificial-intelligence-system-aimed-at-preventing-drownings?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/pennsylvania/articles/2020-03-21/artificial-intelligence-system-aimed-at-preventing-drownings?context=amp"
+publishedDateTime: 2020-03-21T22:41:00Z
+webUrl: "https://www.kansascity.com/news/article241279376.html"
+ampWebUrl: "https://amp.kansascity.com/news/article241279376.html"
+cdnAmpWebUrl: "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/news/article241279376.html"
 type: article
-quality: 84
-heat: 84
+quality: 74
+heat: 74
 published: true
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://insideout.app/ai/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Kansas City Star
+  domain: kansascity.com
 
 topics:
-  - AI
   - AI in Robotics
+  - AI
 
-secured: "fmURvZ59/nx7G25O+W6Ry3fT1jcx/IrSzEonaSg6vn7BhewQSnjYaLeLPi50fN6GiC13b0d4kBskwRN2WrjYeRM7rqyQtL7wnzRflDqXh60tcjN8+iP1Wu3TtjgRkmxFYmWgkrIE4MhBiKen+2Je2t1chDZLVZTowCeRh9aEai/+wnOKuGZYSSi3Q9/f6Pr72bPJFVPpuIYYm+ok19WRTUZUdpgTLUwLRwY7VzTajVsANdMpAQXsg4iP+NA/pApGOTLWfdNUngKAhvXi1NyCCyymDI/s1AOQMRNdpBAQFRN19M9aHvxsH7+R4rXBlhd1hJu4win41GVxe6T7cT3Hj5cq+NF4TKBfgTM23zdhP+gAuQ2lH8DhaDYKP1Vosc1J5siBOF7XPdBaP6wEmf6g7+4WW/HXftU+f89B24O9FX17L89m9WJW1Tai1goZUewR21P8/Yi8CE2tkGsuMJePITV8ts/8wZv/LehCjzzYZLg=;Ly1H+Q+LJR2Nf1aJfV8Wxg=="
+images:
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/dfdeefae-edce-46b6-a5d4-bc4ab155a7c0/3275b6e4-5e37-4ac9-ae00-0b7438c04d11/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
+    title: "Artificial intelligence system aimed at preventing drownings"
+
+secured: "i7VOmBydR0Xqh7Bl65nQf+lzCMYYqm1CqKfd5Yj0dsVu7YQEKGg2vjkdMbSegdJRfo2p9p1X41GrgRIJwdtQOlDjUIvz8YqNndg/1xbNsGYExy+mNXvA3LNnJgrn62nKYTWVb2WNfZS94OqkegIb9EgaTYbxvqVubW+meJ7ZXJwKYHZ5SwKovUIWrFPQHPGNwkWfPW07YFF1NAW82NX4GhqRpuWxjYNNtfgSLuBcx945VavJq9q+PNV3wk3vu+sFLLsm98C/m47+8YifuFgRMB9Us5VN3jFXx6AsApq06XrgdoRsZwGJe67IiUiu24OL;fRsZTSChjcizabt8umUD0A=="
 ---
 

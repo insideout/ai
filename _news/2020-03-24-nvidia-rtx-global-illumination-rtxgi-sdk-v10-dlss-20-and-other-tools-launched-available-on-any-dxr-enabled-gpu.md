@@ -23,6 +23,6 @@ images:
     height: 300
     title: "NVIDIA RTX Global Illumination (RTXGI) SDK v1.0, DLSS 2.0, And Other Tools Launched, Available On Any DXR-Enabled GPU"
 
-secured: "0+9XhfyM4HeOlxYwe4Ql6f3MaZlDNsqXq6/KF71X4qzFveWhwZQdHn+sIsjVTrEpue8Uax+tc4BNeAcVEImqNVj3GxGn4YfLkaVU1remkSa0YgmcZIDa8JiJ0yhSSKfoGvqsSpUjE1ZYtQkpfZIGOiQeA6DM3Krvicfe3bjZt+nMZvYpsR/cm59pKa+7qYTVqq5VkoQG0R41QQ985BM77h2fis3gcnI+fDY3DhOcWIdvl/S6C+W5iQcb0jtdHDLCMUp9ZPe08UVD/69dOcencFVgNutJsk9Y9yMqGho9Eqfl9lLFAoi6pViMNfYZ0rMh;W91omnfteS+XsqxU6epNFA=="
+secured: "fzdWUhTTiJ93enmSv3us20Az8jHymT0H3ByIPsEngiplEVsEWkXGHDKel/8U/i2+OQE1pZRO/W+E4WjVWcsNUeMWdNfkmzAQnHsOkmio3facFCwgDUewX7U4+cH4OYPVR2GUIQIjxI9dRLCd+f6lfwfAUHbCwprgTyjdWJkLxhaCzBE5DlAU21QbFEQcqhHVqCoGwmN6X25asLFUxiPPv5yG0WNIyrUnPiZaGTzFSg6tdIEBJEcfNHaZxGI5qefHdlKRDSAKxUBeT6wv6AXrHXuaFHL73xuUgQXim4Lnb0sOXL/orK8tMmdm73J1lHgDjpJgBKMtipV/lC0BXQESGE+uKjanNQ+LbeoPIfuqIGuS36AaG1AKeA19JUi7I0YW4OtpM8j4inpOzDrJYnPFXrb6VH/l3dDedmfaxuaajStkETU4owm9T30v3TWyNOLHWKDNqePpsw6HWexQ7ivTLhToG53K7yDvL9ukCLmBxT0=;xRj/9Brbao09LZsNYjJeDg=="
 ---
 
