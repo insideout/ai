@@ -2,6 +2,319 @@
   "page": 61,
   "value": [
     {
+      "path": "_news/2020-01-27-fueling-intelligent-energy-with-iot.md",
+      "title": "Fueling intelligent energy with IoT",
+      "excerpt": "At Microsoft, building a future that we can all thrive in is at the center of everything we do. On January 16, as part of the announcement that Microsoft will be carbon negative by 2030, we discussed how advances in human prosperity, as measured by GDP growth, are inextricably tied to the use of energy.",
+      "heat": 102,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://azure.microsoft.com/blog/fueling-intelligent-energy-with-iot/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-27T00:00:19-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/e97a92db-78b6-4875-bc47-04160885964b.png",
+          "width": 837,
+          "height": 593,
+          "title": "Fueling intelligent energy with IoT",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-27-ai-license-plate-readers-are-cheaperso-drive-carefully.md",
+      "title": "AI License Plate Readers Are Cheaper—So Drive Carefully",
+      "excerpt": "Conventional ALPRs are also getting a boost from AI. Canada’s Genetec, a leading supplier of surveillance and security technology, recently announced a new ALPR camera for use on police vehicles that includes an Intel chip designed to power image-processing neural networks. Genetec says that will make the device better at reading plates at ...",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/ai-license-plate-readers-cheaper-drive-carefully/",
+      "ampWebUrl": "https://www.wired.com/story/ai-license-plate-readers-cheaper-drive-carefully/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-license-plate-readers-cheaper-drive-carefully/amp",
+      "publishedDateTime": "2020-01-27T00:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5e2b52d1097df7000896da19/master/pass/Transpo-licenseplates-502111737.jpg",
+          "width": 2400,
+          "height": 1594,
+          "title": "AI License Plate Readers Are Cheaper—So Drive Carefully",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-01-27-tinder-asks-does-this-bother-you.md",
+      "title": "Tinder Asks ‘Does This Bother You’?",
+      "excerpt": "If the answer is yes, Tinder will direct them to its report form. The new feature is available in 11 countries and nine languages currently, with plans to eventually expand to every language and country where the app is used. Major social media platforms like Facebook and Google have enlisted AI for years to help flag and remove violating content.",
+      "heat": 172,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/tinder-does-this-bother-you-harassment-tools/",
+      "ampWebUrl": "https://www.wired.com/story/tinder-does-this-bother-you-harassment-tools/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/tinder-does-this-bother-you-harassment-tools/amp",
+      "publishedDateTime": "2020-01-27T00:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg",
+          "width": 800,
+          "height": 450,
+          "title": "Tinder Asks ‘Does This Bother You’?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-27-integrating-aws-artificial-intelligence-ai-to-servicenow-enterprise-apps-and-workflows.md",
+      "title": "Integrating AWS Artificial Intelligence (AI) to ServiceNow Enterprise Apps and Workflows",
+      "excerpt": "Artificial intelligence (AI) helps enterprises to enhance ... Amazon Web Services (AWS) offers a vast and growing array of AI services, including hundreds of free or paid ML algorithms and model ...",
+      "heat": 90,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/@anandtrivedi_89127/integrating-aws-artificial-intelligence-ai-to-servicenow-enterprise-apps-and-workflows-dbfa0beb78e8",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-26T23:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/0*v0esKI4UE1hdC-ns",
+          "width": 1200,
+          "height": 619,
+          "title": "Integrating AWS Artificial Intelligence (AI) to ServiceNow Enterprise Apps and Workflows",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-27-natural-language-processing-nlp-market-growth-opportunity-and-2027.md",
+      "title": "Natural Language Processing (NLP) Market Growth, Opportunity And 2027",
+      "excerpt": "The report covers the forecast and analysis of the natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million).",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-growth-opportunity-and-2027-2020-01-27",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-26T22:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Natural Language Processing (NLP) Market Growth, Opportunity And 2027",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-01-27-taiwan-is-opening-a-giant-ai-focused-business-park.md",
+      "title": "Taiwan Is Opening A Giant AI-Focused Business Park",
+      "excerpt": "The government of Hsinchu County, near Taipei, will open a 126,000-square-meter AI business park near one of Taiwan’s major all-purpose high-tech zones and two top universities.",
+      "heat": 187,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/ralphjennings/2020/01/27/taiwan-is-opening-a-giant-ai-focused-business-park/",
+      "ampWebUrl": "https://www.forbes.com/sites/ralphjennings/2020/01/27/taiwan-is-opening-a-giant-ai-focused-business-park/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ralphjennings/2020/01/27/taiwan-is-opening-a-giant-ai-focused-business-park/amp/",
+      "publishedDateTime": "2020-01-26T22:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e2a897aa854780006af60ec%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4800%26cropY1%3D147%26cropY2%3D2847",
+          "width": 1200,
+          "height": 675,
+          "title": "Taiwan Is Opening A Giant AI-Focused Business Park",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-27-facial-recognition-biometrics-market-advance-technology-and-new-innovations-2020.md",
+      "title": "Facial Recognition Biometrics Market Advance Technology and New Innovations 2020",
+      "excerpt": "Global Facial Recognition Biometrics Market Research Report 2020 provides key analysis on the market status of the Facial Recognition Biometrics manufacturers with market size, growth, share, trends as well as industry cost structure.",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-biometrics-market-advance-technology-and-new-innovations-2020-2020-01-27",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-26T21:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Facial Recognition Biometrics Market Advance Technology and New Innovations 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-01-27-ai-can-help-cancer-patients-start-radiation-therapy-sooner.md",
       "title": "AI can help cancer patients start radiation therapy sooner",
       "excerpt": "Artificial intelligence can help cancer patients start their radiation therapy sooner - and thereby decrease the odds of the cancer spreading - by instantly translating complex clinical data into ...",
@@ -754,312 +1067,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-24-the-ai-eye-microsoft-expands-partnership-with-genesys-ibm-ibm-launches-policy-lab-with-ai-policy-imperatives.md",
-      "title": "The AI Eye: Microsoft Expands Partnership with Genesys, IBM IBM Launches Policy Lab with AI Policy Imperatives",
-      "excerpt": "One of the biggest challenges is connecting the details of every interaction across all channels to ensure each customer has a seamless experience. By leveraging Microsoft's Azure cloud and AI technologies, Genesys is helping enterprises create a seamless customer journey with Microsoft's trusted, secure and scalable platform.\" IBM (NYSE ...",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/the-ai-eye-microsoft-expands-partnership-with-genesys-ibm-nyse-ibm-launches-policy-lab-with-ai-policy-imperatives-2020-01-24",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-24T10:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "The AI Eye: Microsoft Expands Partnership with Genesys, IBM IBM Launches Policy Lab with AI Policy Imperatives",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-24-german-football-league-bundesliga-teams-with-aws-to-improve-fan-experience.md",
-      "title": "German football league Bundesliga teams with AWS to improve fan experience",
-      "excerpt": "Germany’s top soccer (football) league, Bundesliga, announced today it is partnering with AWS to use artificial intelligence to enhance the fan experience during games. Andreas Heyden, executive vice president for digital sports at the Deutsche Fußball Liga, the entity that runs The Bundesliga, says that this could take many forms ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/01/24/german-football-league-bundesliga-teams-with-aws-to-improve-fan-experience/",
-      "ampWebUrl": "https://techcrunch.com/2020/01/24/german-football-league-bundesliga-teams-with-aws-to-improve-fan-experience/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/24/german-football-league-bundesliga-teams-with-aws-to-improve-fan-experience/amp/",
-      "publishedDateTime": "2020-01-24T10:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-459244219.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": "German football league Bundesliga teams with AWS to improve fan experience",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-24-amazons-ai-automatically-dubs-videos-into-other-languages.md",
-      "title": "Amazon’s AI automatically dubs videos into other languages",
-      "excerpt": "In a paper published this week on the preprint server Arxiv.org, researchers from the tech giant detailed a novel “speech-to-speech” pipeline that taps AI to ... across languages and follows a “fluency-based” rather than a content-based criterion. It comprises several parts, including a Transformer-based machine translation bit trained ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/24/amazons-ai-automatically-dubs-videos-into-other-languages/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/24/amazons-ai-automatically-dubs-videos-into-other-languages/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/24/amazons-ai-automatically-dubs-videos-into-other-languages/amp/",
-      "publishedDateTime": "2020-01-24T10:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/amazon-logo-reuters.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Amazon’s AI automatically dubs videos into other languages",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-01-24-washington-state-wants-to-regulate-artificial-intelligence-as-microsoft-lobbies-for-new-rules.md",
-      "title": "Washington state wants to regulate artificial intelligence, as Microsoft lobbies for new rules",
-      "excerpt": "Washington state could become a pioneer in regulating artificial intelligence if lawmakers, and homegrown tech giant Microsoft, get their way. A series of bills introduced this legislative session seek to blaze a trail for this new frontier of technological innovation. The legislation focuses on biometric screening and digital profiling.",
-      "heat": 205,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/washington-state-wants-regulate-artificial-intelligence-microsoft-lobbies-new-rules/",
-      "ampWebUrl": "https://www.geekwire.com/2020/washington-state-wants-regulate-artificial-intelligence-microsoft-lobbies-new-rules/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/washington-state-wants-regulate-artificial-intelligence-microsoft-lobbies-new-rules/amp/",
-      "publishedDateTime": "2020-01-24T10:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2017/03/statecapitol-630x417.jpg",
-          "width": 630,
-          "height": 417,
-          "title": "Washington state wants to regulate artificial intelligence, as Microsoft lobbies for new rules",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-24-facial-recognition-startup-fends-off-accuracy-doubts-and-legal-claims-after-nyt-report.md",
-      "title": "Facial recognition startup fends off accuracy doubts and legal claims after NYT report",
-      "excerpt": "Clearview AI, an artificial intelligence firm providing facial recognition technology to US law enforcement, may be overstating how effective its services are in catching terrorist suspects and preventing attacks, according to a report from BuzzFeed News. Clearview falsely claimed it helped the NYPD catch a terrorism suspect last year “The ...",
-      "heat": 146,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theverge.com/2020/1/24/21079354/clearview-ai-nypd-terrorism-suspect-false-claims-facial-recognition",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/1/24/21079354/clearview-ai-nypd-terrorism-suspect-false-claims-facial-recognition",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/24/21079354/clearview-ai-nypd-terrorism-suspect-false-claims-facial-recognition",
-      "publishedDateTime": "2020-01-24T09:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/k9hv7Ppucrt9N28vjV1wId2fmbQ=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66161809/acastro_180730_1777_facial_recognition_0002.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": "Facial recognition startup fends off accuracy doubts and legal claims after NYT report",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-01-24-docomo-says-6g-will-bring-ai-everywhere-deliver-extreme-performance.md",
-      "title": "Docomo says 6G will bring AI everywhere, deliver ‘extreme’ performance",
-      "excerpt": "As one of the earliest cellular pioneers, Japanese carrier NTT Docomo today weighed in with predictions on what 6G will look like in 2030, and they’re intriguing: 6G will bring AI everywhere, and transform 5G’s “best effort” performance standards into guarantees of hyper-fast speeds. Docomo has an expansive view of AI’s role in the ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/24/docomo-says-6g-will-bring-ai-everywhere-deliver-extreme-performance/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/24/docomo-says-6g-will-bring-ai-everywhere-deliver-extreme-performance/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/24/docomo-says-6g-will-bring-ai-everywhere-deliver-extreme-performance/amp/",
-      "publishedDateTime": "2020-01-24T08:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/docomo6gh.jpg?fit=2000%2C1000&strip=all",
-          "width": 2000,
-          "height": 1000,
-          "title": "Docomo says 6G will bring AI everywhere, deliver ‘extreme’ performance",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-24-how-artificial-intelligence-is-progressing-in-mental-healthcare.md",
-      "title": "How Artificial Intelligence is progressing in mental healthcare",
-      "excerpt": "Over the years, Artificial Intelligence (AI) tools have been used to fill gaps in mental health care: be it the diagnosis or detection of the early signs of mental health issues. Now, researchers ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.livemint.com/mint-lounge/features/how-artificial-intelligence-is-progressing-in-mental-healthcare-11579878039985.html",
-      "ampWebUrl": "https://www.livemint.com/mint-lounge/features/how-artificial-intelligence-is-progressing-in-mental-healthcare/amp-11579878039985.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/mint-lounge/features/how-artificial-intelligence-is-progressing-in-mental-healthcare/amp-11579878039985.html",
-      "publishedDateTime": "2020-01-24T07:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2020/01/24/600x338/Asset_1579878227723.jpg",
-          "width": 600,
-          "height": 337,
-          "title": "How Artificial Intelligence is progressing in mental healthcare",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

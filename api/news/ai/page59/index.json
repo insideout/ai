@@ -2,6 +2,304 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2020-01-17-applying-deep-learning-to-localization-microscopy.md",
+      "title": "Applying Deep Learning to Localization Microscopy",
+      "excerpt": "Two such technologies that can be combined to produce a better understanding of biological systems are localization microscopy and deep learning. Localization microscopy is a recently developed technique that has the potential to transform our understanding of cell function at the molecular level. It provides pin-point accurate information ...",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.news-medical.net/life-sciences/Applying-Deep-Learning-to-Localization-Microscopy.aspx",
+      "ampWebUrl": "https://www.news-medical.net/amp/life-sciences/Applying-Deep-Learning-to-Localization-Microscopy.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/life-sciences/Applying-Deep-Learning-to-Localization-Microscopy.aspx",
+      "publishedDateTime": "2020-01-17T02:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.news-medical.net/image.axd?picture=2020%2f1%2fshutterstock_1096541144_80b03e6813c6441f98f150075dcfff1e-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": "Applying Deep Learning to Localization Microscopy",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-01-17-machine-learning-market-rising-trends-and-technology-advancements-2020-to-2026.md",
+      "title": "Machine Learning Market Rising Trends and Technology Advancements 2020 to 2026",
+      "excerpt": "The Global Machine Learning Market is carefully researched in the report while largely concentrating on top players and their business tactics, geographical expansion, market segments, competitive landscape,",
+      "heat": 125,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-market-rising-trends-and-technology-advancements-2020-to-2026-2020-01-17",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-17T00:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Machine Learning Market Rising Trends and Technology Advancements 2020 to 2026",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-01-17-facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations.md",
+      "title": "Facebook Invented a New Language for Machines to Solve Complex Math Equations",
+      "excerpt": "Or at least, they have trouble understanding how humanity writes math equations. Facebook’s AI research team, however, claims to have developed a new approach to turn complex math problems into ...",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.vice.com/en_in/article/4agw3q/facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations",
+      "ampWebUrl": "https://www.vice.com/amp/en_in/article/4agw3q/facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_in/article/4agw3q/facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations",
+      "publishedDateTime": "2020-01-17T00:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://video-images.vice.com/_uncategorized/1579112105508-Screen-Shot-2020-01-15-at-11204-PM.png?resize=640:*",
+          "width": 640,
+          "height": 358,
+          "title": "Facebook Invented a New Language for Machines to Solve Complex Math Equations",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-17-apples-latest-deal-shows-how-ai-is-moving-right-onto-devices.md",
+      "title": "Apple's Latest Deal Shows How AI Is Moving Right Onto Devices",
+      "excerpt": "It’s all about keeping an edge in AI ... by adding more AI to the edge. “Machine learning is going to happen at the edge in a big way,” predicts Subhasish Mitra, a professor at Stanford who is working on low-power chips for AI. “The big question is how do you do it efficiently? That requires new hardware technology and design.",
+      "heat": 101,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/apples-deal-shows-ai-moving-devices/",
+      "ampWebUrl": "https://www.wired.com/story/apples-deal-shows-ai-moving-devices/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/apples-deal-shows-ai-moving-devices/amp",
+      "publishedDateTime": "2020-01-16T23:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5e20d1f9f2f8270008751d36/master/pass/Biz-applemobile-1026919434.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "Apple's Latest Deal Shows How AI Is Moving Right Onto Devices",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-01-17-the-future-of-lawyers-legal-tech-ai-big-data-and-online-courts.md",
+      "title": "The Future of Lawyers: Legal Tech, AI, Big Data And Online Courts",
+      "excerpt": "Just as technology has transformed many other industries, it’s impacting the legal sector as well. Rather than just take over tasks that have traditionally been done by lawyers, artificial intelligence is expected to completely transform the industry and make online courts ubiquitous.",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/01/17/the-future-of-lawyers-legal-tech-ai-big-data-and-online-courts/",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/01/17/the-future-of-lawyers-legal-tech-ai-big-data-and-online-courts/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/01/17/the-future-of-lawyers-legal-tech-ai-big-data-and-online-courts/amp/",
+      "publishedDateTime": "2020-01-16T22:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e214479735f8c00079a0916%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "The Future of Lawyers: Legal Tech, AI, Big Data And Online Courts",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-17-best-of-arxivorg-for-ai-machine-learning-and-deep-learning-december-2019.md",
+      "title": "Best of arXiv.org for AI, Machine Learning, and Deep Learning – December 2019",
+      "excerpt": "In this recurring monthly feature, we filter recent research papers appearing on the arXiv.org preprint server for compelling subjects relating to AI, machine learning and deep learning – from disciplines including statistics, mathematics and computer science – and provide you with a useful “best of” list for the past month. Researchers ...",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://insidebigdata.com/2020/01/16/best-of-arxiv-org-for-ai-machine-learning-and-deep-learning-december-2019/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-16T19:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "insidebigdata.com",
+        "domain": "insidebigdata.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://insidebigdata.com/wp-content/uploads/2013/12/arxiv.jpg",
+          "width": 450,
+          "height": 380,
+          "title": "Best of arXiv.org for AI, Machine Learning, and Deep Learning – December 2019",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-01-17-what-does-fairness-in-ai-mean.md",
+      "title": "What Does Fairness in AI Mean?",
+      "excerpt": "A closer look at how bias can creep into AI systems, and the push toward more fair and equitable AI outcomes. It’s not every day that the musings of a 4-year-old echo the conversations of the world’s leading technologists—but that’s precisely the situation in which I recently found myself while driving my daughter home from day care.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/googlecloud/2020/01/15/what-does-fairness-in-ai-mean/",
+      "ampWebUrl": "https://www.forbes.com/sites/googlecloud/2020/01/15/what-does-fairness-in-ai-mean/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/googlecloud/2020/01/15/what-does-fairness-in-ai-mean/amp/",
+      "publishedDateTime": "2020-01-16T19:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e1f8038da6d38000629ac5f%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5993%26cropY1%3D361%26cropY2%3D3733",
+          "width": 1200,
+          "height": 675,
+          "title": "What Does Fairness in AI Mean?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-17-how-jpmorgan-and-fidelity-could-leverage-blockchain-to-modernize-financial-services.md",
       "title": "How JPMorgan And Fidelity Could Leverage Blockchain To Modernize Financial Services",
       "excerpt": "Large enterprises like JPMorgan, Fidelity and ICE are looking into using multi-party computations for a new breed of financial services business models. Leveraging blockchain and MPCs will lead to opening of massive opportunities for new services and products.",
@@ -983,309 +1281,6 @@
         "AI Hardware",
         "AI Ethics",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-01-16-the-dark-side-of-deepfake-artificial-intelligence-and-virtual-influencers.md",
-      "title": "The Dark Side Of Deepfake Artificial Intelligence And Virtual Influencers",
-      "excerpt": "These technologies touch on a variety of legal and ethical concerns that the business community should take notice of.",
-      "heat": 96,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/01/16/the-dark-side-of-deepfake-artificial-intelligence-and-virtual-influencers/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/01/16/the-dark-side-of-deepfake-artificial-intelligence-and-virtual-influencers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/01/16/the-dark-side-of-deepfake-artificial-intelligence-and-virtual-influencers/amp/",
-      "publishedDateTime": "2020-01-16T07:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x474/https://blogs-images.forbes.com/forbesbusinesscouncil/files/2020/01/erik-lucatero-VcOwZMahmCQ-unsplash-1200x800.jpg?width=960",
-          "width": 711,
-          "height": 474,
-          "title": "The Dark Side Of Deepfake Artificial Intelligence And Virtual Influencers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-16-a-look-inside-augmented-analytics-and-its-business-value-in-2020.md",
-      "title": "A Look Inside Augmented Analytics And Its Business Value In 2020",
-      "excerpt": "Here's what you need to know about augmented analytics -- and how to deploy the technology to support your business development goals.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/01/16/a-look-inside-augmented-analytics-and-its-business-value-in-2020/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/01/16/a-look-inside-augmented-analytics-and-its-business-value-in-2020/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/01/16/a-look-inside-augmented-analytics-and-its-business-value-in-2020/amp/",
-      "publishedDateTime": "2020-01-16T07:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x395/https://blogs-images.forbes.com/forbesbusinessdevelopmentcouncil/files/2020/01/a.jpg?width=960",
-          "width": 711,
-          "height": 395,
-          "title": "A Look Inside Augmented Analytics And Its Business Value In 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-01-16-huawei-has-established-its-cloud-and-ai-unit-as-a-core-business-group.md",
-      "title": "Huawei has established its cloud and AI unit as a core business group",
-      "excerpt": "Huawei established a core cloud and artificial intelligence business group, signaling a focused effort to hone its AI and build up its cloud business.",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/huawei-creates-core-cloud-artificial-intelligence-unit-2020-1",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-16T07:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.businessinsider.com/5e2070e462fa81731158e622?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "Huawei has established its cloud and AI unit as a core business group",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-16-allen-institute-for-ais-incubator-expands-with-10m-fund-from-high-profile-vcs.md",
-      "title": "Allen Institute for AI’s Incubator expands with $10M fund from high-profile VCs",
-      "excerpt": "Blue Canoe, for instance, does natural language processing with a focus on accent modification; Xnor.ai is working on ultra-low-power implementations of machine learning algorithms, and was just acquired yesterday by Apple for a reported $200M. Apple buys edge-based AI startup Xnor.ai for a reported $200M “We think the next generation of so ...",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/01/16/allen-institute-for-ais-incubator-expands-with-10m-fund-from-high-profile-vcs/",
-      "ampWebUrl": "https://techcrunch.com/2020/01/16/allen-institute-for-ais-incubator-expands-with-10m-fund-from-high-profile-vcs/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/16/allen-institute-for-ais-incubator-expands-with-10m-fund-from-high-profile-vcs/amp/",
-      "publishedDateTime": "2020-01-16T07:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/01/AI2-05.jpg?w=1024",
-          "width": 1024,
-          "height": 605,
-          "title": "Allen Institute for AI’s Incubator expands with $10M fund from high-profile VCs",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-01-16-new-kmpg-report-says-industry-leaders-want-government-guidance-around-ai.md",
-      "title": "New KMPG report says industry leaders want government guidance around AI",
-      "excerpt": "Companies are making progress on internal ethics but training still lags. Companies are starting to see a few benefits from artificial intelligence, but there are still many roadblocks to progress. In Living in an AI World: Achievements and Challenges of Artificial Intelligence Across Five Industries, KPMG looks at what's working and what isn't ...",
-      "heat": 88,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/new-kmpg-report-says-industry-leaders-want-government-guidance-around-ai/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/new-kmpg-report-says-industry-leaders-want-government-guidance-around-ai/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/new-kmpg-report-says-industry-leaders-want-government-guidance-around-ai/",
-      "publishedDateTime": "2020-01-16T06:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2019/12/04/70d05d50-7fdc-4611-acee-d1c6867906c0/thumbnail/1200x675/075730befe930c61f707faeac9381bfe/20191125-veronica-karen.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "New KMPG report says industry leaders want government guidance around AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-01-16-senate-bill-aims-to-funnel-billions-more-to-ai-quantum-rd-efforts.md",
-      "title": "Senate Bill Aims to Funnel Billions More to AI, Quantum R&D Efforts",
-      "excerpt": "A bill introduced in the Senate this week aims to steer tens of billions of new funding toward civilian Federal government research and development efforts involving “industries of the future” including artificial intelligence (AI) and quantum information science ... of those Federal investments in R&D “with complimentary investments ...",
-      "heat": 137,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.meritalk.com/articles/senate-bill-aims-to-funnel-billions-more-to-ai-quantum-rd-efforts/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-16T06:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MeriTalk",
-        "domain": "meritalk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.meritalk.com/wp-content/uploads/2019/01/shutterstock_1186368289-min.jpg",
-          "width": 800,
-          "height": 450,
-          "title": "Senate Bill Aims to Funnel Billions More to AI, Quantum R&D Efforts",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-16-phenom-people-raises-30-million-for-ai-recruitment-platform-used-by-microsoft-others.md",
-      "title": "Phenom People raises $30 million for AI recruitment platform used by Microsoft, others",
-      "excerpt": "Phenom People, a human resources (HR) platform that leverages artificial intelligence (AI) to help companies attract new talent, has raised $30 million in a series C round of funding led by WestBridge Capital, with participation from eBay founder Pierre Omidyar’s VC firm Omidyar Ventures, AXA Venture Partners, Sierra Ventures, Sigma Prime ...",
-      "heat": 189,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/16/phenom-people-raises-30-million-for-ai-recruitment-platform-used-by-microsoft-others/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/16/phenom-people-raises-30-million-for-ai-recruitment-platform-used-by-microsoft-others/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/16/phenom-people-raises-30-million-for-ai-recruitment-platform-used-by-microsoft-others/amp/",
-      "publishedDateTime": "2020-01-16T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/Phenom-People-Front-Lobby.jpg?fit=2544%2C1227&strip=all",
-          "width": 2544,
-          "height": 1227,
-          "title": "Phenom People raises $30 million for AI recruitment platform used by Microsoft, others",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

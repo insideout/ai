@@ -2,6 +2,170 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-03-15-googles-parent-company-just-made-its-first-ever-investment-in-an-ai-chip-start-up.md",
+      "title": "Google's parent company just made its first-ever investment in an A.I. chip start-up",
+      "excerpt": "GV had never invested in a start-up making processors for artificial intelligence ... special features in its consumer products, while Waymo relies on AI for autonomous driving.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2018/03/15/alphabets-gv-invests-in-ai-chip-startup-sambanova.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2018/03/15/alphabets-gv-invests-in-ai-chip-startup-sambanova.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2018/03/15/alphabets-gv-invests-in-ai-chip-startup-sambanova.html",
+      "publishedDateTime": "2020-03-15T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/105066224-Handout_SambaNova_Systems.jpeg?v=1529477748",
+          "width": 2000,
+          "height": 1333,
+          "title": "Google's parent company just made its first-ever investment in an A.I. chip start-up",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-15-here-are-20-companies-google-could-buy-to-boost-its-cloud-business-against-amazon-web-services-according-to-experts.md",
+      "title": "Here are 20 companies Google could buy to boost its cloud business against Amazon Web Services, according to experts",
+      "excerpt": "Google Cloud is likely going to make some big purchases to better compete with Amazon — some of them more likely than others.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/here-are-the-cloud-companies-google-could-buy-analysts-2020-3",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-15T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5c4bb3cd2bdd7f2b686a5184?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "Here are 20 companies Google could buy to boost its cloud business against Amazon Web Services, according to experts",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-15-aclu-sues-dhs-to-expose-secretive-use-of-facial-recognition-technology.md",
+      "title": "ACLU sues DHS to expose secretive use of facial recognition technology",
+      "excerpt": "Feel free to republish and share widely. The ACLU's national and New York arms filed a federal lawsuit Thursday against the U.S. Department of Homeland Security and three of its agencies to expose law enforcement's secretive use of facial recognition surveillance technology. The new suit in the U.S. District Court for the Southern District of ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.salon.com/2020/03/15/aclu-sues-dhs-to-expose-secretive-use-of-facial-recognition-technology_partner/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-15T05:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Salon",
+        "domain": "salon.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.salon.com/2014/09/surveillance_camera.jpg",
+          "width": 620,
+          "height": 412,
+          "title": "ACLU sues DHS to expose secretive use of facial recognition technology",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-15-amd-epyc-cpu-partners-with-radeon-instinct-gpu-in-conjunction-with-llnl-to-build-the-fastest-of-supercomputers-el-capitan.md",
+      "title": "AMD EPYC CPU Partners With Radeon Instinct GPU In Conjunction With LLNL To Build the Fastest of Supercomputers; El Capitan",
+      "excerpt": "Furthermore, AMD-centric nodes will also be upgraded to speed up artificial intelligence (AI) and machine learning (ML) workloads, for extensive research, analysis, and computing technology that will be beneficial to NNSA endeavors. ‘The El Capitan supercomputer will benchmark on HP’s next-gen AMD EPYC CPU and Radeon Instinct GPU to enhance ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://happygamer.com/amd-epyc-cpu-partners-with-radeon-instinct-gpu-in-conjunction-with-llnl-to-build-the-fastest-of-supercomputers-el-capitan-58697/",
+      "ampWebUrl": "https://happygamer.com/amp/amd-epyc-cpu-partners-with-radeon-instinct-gpu-in-conjunction-with-llnl-to-build-the-fastest-of-supercomputers-el-capitan-58697/",
+      "cdnAmpWebUrl": "https://happygamer-com.cdn.ampproject.org/c/s/happygamer.com/amp/amd-epyc-cpu-partners-with-radeon-instinct-gpu-in-conjunction-with-llnl-to-build-the-fastest-of-supercomputers-el-capitan-58697/",
+      "publishedDateTime": "2020-03-15T03:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HappyGamer",
+        "domain": "happygamer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://happygamer.com/wp-content/uploads/2020/03/45af85dee2cfbe420edf4ac7c8a435b0.jpg",
+          "width": 1990,
+          "height": 1098,
+          "title": "AMD EPYC CPU Partners With Radeon Instinct GPU In Conjunction With LLNL To Build the Fastest of Supercomputers; El Capitan",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-15-tra-attains-cips-corporate-ethics-mark-reinforcing-the-organizations-commitment-to-ethical-sourcing-and-supplier-management.md",
       "title": "TRA attains CIPS Corporate Ethics mark, reinforcing the organization's commitment to ethical sourcing and supplier management",
       "excerpt": "This mark is highly regarded as an indicator of key global practice in the procurement and supply profession, especially in dealing with suppliers and partners while ensuring transparency and professional ethics. Commenting on this ... of the Fourth Industrial Revolution (4IR) and Artificial Intelligence (AI). Our success depends mainly on ...",
@@ -1011,170 +1175,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-13-aclu-sues-us-government-over-its-use-of-facial-recognition-at-airports.md",
-      "title": "ACLU sues US government over its use of facial recognition at airports",
-      "excerpt": "The American Civil Liberties Union is suing the US government over its failure to reveal details about the use of facial recognition at airports. On Thursday, the ACLU and the New York Civil Liberties Union filed a lawsuit asking a federal court to order a range of federal agencies to hand over their records about the tech’s usage at airports.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/03/13/aclu-sues-us-government-over-its-use-of-facial-recognition-at-airports/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/03/13/aclu-sues-us-government-over-its-use-of-facial-recognition-at-airports/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/03/13/aclu-sues-us-government-over-its-use-of-facial-recognition-at-airports/amp/",
-      "publishedDateTime": "2020-03-13T07:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/Untitled-design21-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "ACLU sues US government over its use of facial recognition at airports",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-13-the-top-5-fintech-trends-for-2020.md",
-      "title": "The top 5 fintech trends for 2020",
-      "excerpt": "They're also investing in cloud technologies as part of a broader digital transformation effort (11%) and automating through AI or robotics (10%), according to the survey. Only 45% of survey respondents said they're in great shape when it comes to their ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/the-top-5-fintech-trends-for-2020/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/the-top-5-fintech-trends-for-2020/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/the-top-5-fintech-trends-for-2020/",
-      "publishedDateTime": "2020-03-13T07:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2019/08/28/d05e9732-c721-4047-adb6-99e8614dce5a/thumbnail/1200x675/8924a634cce0bc6fd704a70c2f05b914/20190820-synopsys-karen.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "The top 5 fintech trends for 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-13-current-ai-hardware-focus-is-misguided-says-ai-pioneer.md",
-      "title": "Current AI hardware focus is misguided, says AI pioneer",
-      "excerpt": "offered a glimpse of what Facebook is working on, and made some predictions for the future of deep-learning hardware. Le Cun is a renowned visionary in the field of AI, having been at the forefront of neural-network research in the 1980s and 1990s. As a Bell Labs researcher in the late 1980s, he worked with the earliest types of dedicated ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.embedded.com/current-ai-hardware-focus-is-misguided-says-ai-pioneer/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-13T07:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Embedded",
-        "domain": "embedded.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.embedded.com/wp-content/uploads/2020/03/img20200313102416Le-Cun-It-s-Really-Hard-to_0.jpg",
-          "width": 640,
-          "height": 426,
-          "title": "Current AI hardware focus is misguided, says AI pioneer",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-13-riskalyze-fintech-report-card-february-2020.md",
-      "title": "Riskalyze Fintech Report Card: February 2020",
-      "excerpt": "What Happened: Andrew Altfest, president of a $1 billion RIA firm, launched new advisor technology at the T3 advisor conference this year. The new software promises to use AI to analyze a client’s existing situation and offer tailored recommendations. Why It Matters: It was only a couple of years ago that I was on record saying “in our ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wealthmanagement.com/technology/riskalyze-fintech-report-card-february-2020",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-13T06:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WealthManagement.com",
-        "domain": "wealthmanagement.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.wealthmanagement.com/sites/wealthmanagement.com/files/fintech-report-card-promo.jpg",
-          "width": 2000,
-          "height": 1040,
-          "title": "Riskalyze Fintech Report Card: February 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

@@ -24,6 +24,6 @@ images:
     height: 1200
     title: "Putting on the AI ‘white gloves’ makes routine support services less tedious at AppDynamics"
 
-secured: "xyhxOMgJH7axIMOyLHZ1K9ja07cJBNPXGeT7ZShETi6Xmq22QBDdCWJ0/Zbc6fnw9n/TSir5sNmK0HbpLxEbJECpcRxIVn91voZ8KsCsgZlQHPpGD9L6FAcH8isPu+gAQBMB8oIycOVaRR/jo5jUw0ZR7kL1SuCwDsGuZ9ZLGODKl2YsGPLmiL0oq1CZSx3OkN82FuatwkbTaBDDKgEWczIJjiDnG6yhRDiTgOWGBd5t2OSONh1SfmpQREtyQnogizOMxqx+GVgreYolb6FA+zzMbgZv7XsOMx/qYLNh8j2eBXJQ1eUVUVco1ohkVmhP;m9KRm2Y1sboT1mfbWGW0iA=="
+secured: "MIuYJebv3kQQOe2HyHTwf+VjWHK48hE5UewOSv7DfaRuqejeiF/gPlHu/TMJdyBTWuNHpf7elRak1YLUN0unFaptGd5h9mPd+4xpnIJPeXr0TvRKfjDHUZNwFFMJQ7jfRHHcVbnZ9q49WfN6eFe4Ph2c87N2BdC8gFs9EFTC7PNYq6Do67+/KO+4Q1r9zfcjPQsvqcqENpiorAJZIoD/XYtv2a6UHeAi7w6j1r5/2Ed4uB9wsk/zUj+SIaSAmjQMkFqC74/tv6D0vH/LOIZ4aiXz3SbhWQQ53fyDQcO6nvgZ+VV0wrROIB0x3a6fL5c2mzQ7gCh44dZpsO1igMsOv3UySQWE4nXPvoTWhEKEX/Pk/+4qwAZJ1EfIofbgOk8BjoE6qTSeTfPGzuHIHfyYvq9vAiAvHkq1udEfTLCXP2EMf5tCmYAhbqD/2wjYM/ZaKKDDJqe9GY0qTBy0W25wMAgMw3GTOHLUybBEnEek38k=;a/JVh1R+5AOO2+1/w8X/8g=="
 ---
 

@@ -1,25 +1,24 @@
 ---
 category: news
-title: "AI Recruitment Startup Talview Wins the 'Best AI Application for Societal Impact' Recognition at Microsoft's AI Awards 2.0"
-excerpt: "SAN MATEO, California, March 11, 2020 /PRNewswire/ -- AI Recruitment startup, Talview, has received the prestigious 'Best AI Application for Societal Impact' award in the partner category in the Microsoft AI Awards 2."
-publishedDateTime: 2020-03-12T00:29:00Z
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-recruitment-startup-talview-wins-the-best-ai-application-for/article_a6f9442a-f768-5909-91b0-5f6a0bb4cc52.html"
+title: "AI Recruitment Startup Talview Wins The \"Best AI Application for Societal Impact\" Recognition at Microsoft's AI Awards 2.0"
+excerpt: "/PRNewswire/ -- AI Recruitment startup, Talview, has received the prestigious \"Best AI Application for Societal Impact\" award in the partner category in"
+publishedDateTime: 2020-03-12T17:51:00Z
+webUrl: "https://www.prnewswire.com/in/news-releases/ai-recruitment-startup-talview-wins-the-best-ai-application-for-societal-impact-recognition-at-microsoft-s-ai-awards-2-0-875582027.html"
 type: article
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
-  - Microsoft AI
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/c4/2c445844-9099-5405-94bd-29529304ce34/5e69a2642759d.image.jpg?resize=400%2C209"
-    width: 400
-    height: 209
-    title: "AI Recruitment Startup Talview Wins the 'Best AI Application for Societal Impact' Recognition at Microsoft's AI Awards 2.0"
+  - url: "https://mma.prnewswire.com/media/1121668/Talview___Microsoft_AI_Awards.jpg?p=facebook"
+    width: 1198
+    height: 628
+    title: "AI Recruitment Startup Talview Wins The \"Best AI Application for Societal Impact\" Recognition at Microsoft's AI Awards 2.0"
 
-secured: "6G4XD+ZmIS6oK2tjT2+uJZfd1A5Hr0KHqjnpPP4EokXC44bSWybwJhMtsaDvy+BQCDI896mq6zRj2wcYdfg1O1igUVSbAPkVXoOADhOcQfJsN10bGJ4lXUSgibb54lPFA7sBlWQ5emSSvs8rHaJU/NcMfjNS5urUowhaITi1WZrrWM7fQY6fmFAVYMSgP6iTAG6PIboojtMnuBfZP3vh/PQb4AWpaLoolB7sU2XSzwy0j57jlB8oWBfagGVmZOfF3JRPqdYYRBVgQJbUdxoXFFNhlThoVRPFZypL4WNPR5lCQ5fwyXJqKyxvoIMBUcsFCmfALYeiLwlFck32Vui3vqFIOGDS/cgWupzK8tO2zucnfyRlhAc9eIFiJizVNdZokajRwyEozJqW18j2JwL2aTz0r7Js/2PNwvCtuqExkuS1Zrwbncdkqcy7ArV+hU4ebSt8pI2yEKyb8R3dQs6c7SsH+FBUtdkiirUErGCKeSU=;dh6GxNAPLi/9uFhMhQRccA=="
+secured: "DITQB3D1BPvYs0rqVRJx4iQSgr/DYRTilmKeUNNpIEY0N8uDamK76rcbsu3gxrFZNmYhEkOxKFANaLyDh7vps+JNWYsJkAClTZhjde8PcArUUG5AdUbWxh4PgZ4eUpaucPkilZ0qKfp2nE6zjjjmuIMuQZTygBsuDGq78miW3NxGpiswLfv2NAdNbArnRsMcucLRYxBWv+aafmR7TYdThakp2RxASMnelm6tjMtN1/pB3f4qI9scXljwW/l+B9p3I830t2snr0jgPaPMcpVM6vW3QwQ3R4OOFJDZmRwDpqxUYS/q7CCHww8stKuQVb40;nPQvY4dFaBFH/uNFHjIo7w=="
 ---
 

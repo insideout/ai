@@ -2,6 +2,184 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-03-12-immunoprecise-announces-the-launch-of-polytope-mab-therapy-to-tackle-coronavirus-pandemic.md",
+      "title": "ImmunoPrecise Announces the Launch of PolyTope mAb Therapy™ to Tackle Coronavirus Pandemic",
+      "excerpt": "/PRNewswire/ - IMMUNOPRECISE ANTIBODIES LTD. (the \"Company\" or \"IPA\") (TSX VENTURE: IPA) (OTC QB: IPATF), following its announcement to develop",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.prnewswire.com/news-releases/immunoprecise-announces-the-launch-of-polytope-mab-therapy-to-tackle-coronavirus-pandemic-301022138.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-12T04:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1123245/ImmunoLogo_1.jpg?p=facebook",
+          "width": 1000,
+          "height": 524,
+          "title": "ImmunoPrecise Announces the Launch of PolyTope mAb Therapy™ to Tackle Coronavirus Pandemic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-ai-is-failing-women-that-needs-to-change.md",
+      "title": "AI is Failing Women. That Needs to Change.",
+      "excerpt": "From robots and voice recognition to smart fridges and driverless cars – artificial intelligence is becoming widespread – but will these advancements meet the requirements of both men and women? Without diversity, the answer is no, writes Shawn Tan, CEO of AI ecosystem builder Skymind Global Ventures. Women and men don’t hold the same ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cbronline.com/opinion/ai-is-failing-women",
+      "ampWebUrl": "https://www.cbronline.com/opinion/ai-is-failing-women/amp/",
+      "cdnAmpWebUrl": "https://www-cbronline-com.cdn.ampproject.org/c/s/www.cbronline.com/opinion/ai-is-failing-women/amp/",
+      "publishedDateTime": "2020-03-12T03:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Business Review",
+        "domain": "cbronline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.cbronline.com/wp-content/uploads/2020/03/miguel-bruna-TzVN0xQhWaQ-unsplash-1024x587.jpg",
+          "width": 1024,
+          "height": 587,
+          "title": "AI is Failing Women. That Needs to Change.",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-10-questions-about-deep-learning.md",
+      "title": "10 questions about deep learning",
+      "excerpt": "Learn why neural networks are so powerful, how and where they’re used, and how to get started — no programming necessary It seems everywhere you look nowadays, you will find an article that describes a winning strategy using deep learning in a data science problem, or more specifically in the field of artificial intelligence (AI).",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.infoworld.com/article/3532058/10-questions-about-deep-learning.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-12T03:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/11/ai_artificial_intelligence_ml_machine_learning_abstract_face_by_kentoh_gettyimages_1042827860-100817767-large.3x2.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "10 questions about deep learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-artificial-intelligence-robots-market-competitive-outlook.md",
+      "title": "Artificial Intelligence Robots Market Competitive Outlook",
+      "excerpt": "This global Artificial Intelligence Robots Market report includes all the company profiles of the top market players and brands Client s needs are understood well by experts leveraging their expertise and strong knowledge base to identify and evaluate competition and",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.openpr.com/news/1964127/artificial-intelligence-robots-market-competitive-outlook",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-12T02:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-behringer-deepmind-6-37-key-6-voice-polyphonic-analog-synth.md",
+      "title": "Behringer DeepMind 6 37-Key 6-Voice Polyphonic Analog Synth",
+      "excerpt": "This item is sold As-Described and cannot be returned unless it arrives in a condition different from how it was described or photographed. Items must be returned in original, as-shipped condition with all original packaging.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://reverb.com/item/32842704-behringer-deepmind-6-37-key-6-voice-polyphonic-analog-synth",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-12T02:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reverb.com",
+        "domain": "reverb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-12-scottish-tech-firms-using-artificial-intelligence-to-protect-natural-environment.md",
       "title": "Scottish tech firms using artificial intelligence to protect natural environment",
       "excerpt": "Bishopbriggs-based tech firm Red Star AI is working to improve the diagnosis and treatment of diabetes patients, predicting risk of hospitalisation and non-response to standard therapies, by using forms of AI called Natural Language Processing and Machine Learning to analyse the discharge letters and clinical notes of 110,000 historic diabetes ...",
@@ -253,43 +431,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-12-ai-recruitment-startup-talview-wins-the-best-ai-application-for-societal-impact-recognition-at-microsofts-ai-awards-20.md",
-      "title": "AI Recruitment Startup Talview Wins the 'Best AI Application for Societal Impact' Recognition at Microsoft's AI Awards 2.0",
-      "excerpt": "SAN MATEO, California, March 11, 2020 /PRNewswire/ -- AI Recruitment startup, Talview, has received the prestigious 'Best AI Application for Societal Impact' award in the partner category in the Microsoft AI Awards 2.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-recruitment-startup-talview-wins-the-best-ai-application-for/article_a6f9442a-f768-5909-91b0-5f6a0bb4cc52.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-11T17:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/c4/2c445844-9099-5405-94bd-29529304ce34/5e69a2642759d.image.jpg?resize=400%2C209",
-          "width": 400,
-          "height": 209,
-          "title": "AI Recruitment Startup Talview Wins the 'Best AI Application for Societal Impact' Recognition at Microsoft's AI Awards 2.0",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     },
@@ -814,155 +955,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-11-synopsys-advances-state-of-the-art-in-electronic-design-with-revolutionary-artificial-intelligence-technology.md",
-      "title": "Synopsys Advances State-of-the-Art in Electronic Design with Revolutionary Artificial Intelligence Technology",
-      "excerpt": "Inspired by DeepMind's AlphaZero that mastered complex games like chess or Go, Synopsys' DSO.ai solution is an artificial intelligence and reasoning engine capable of searching for optimization targets in very large solution spaces of chip design.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.design-reuse.com/news/47673/synopsys-dso-ai-design-space-optimization-ai.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-11T06:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design-Reuse",
-        "domain": "design-reuse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-11-intel-stock-is-poised-to-outperform-on-chip-and-ai-developments.md",
-      "title": "Intel Stock Is Poised to Outperform on Chip and AI Developments",
-      "excerpt": "Intel’s chips are proving to be popular with AI developers, and it expects its upcoming Cooper chips to “enable AI systems to be trained up to 60% faster than their predecessors.” Moreover, as I wrote in a previous article on AMD: “According to Analytics India Magazine, AI chips made by Habana are four times better than graphics ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://investorplace.com/2020/03/intel-stock-is-poised-to-outperform-on-chip-progress-and-ai-gains/",
-      "ampWebUrl": "https://investorplace.com/2020/03/intel-stock-is-poised-to-outperform-on-chip-progress-and-ai-gains/amp/",
-      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/03/intel-stock-is-poised-to-outperform-on-chip-progress-and-ai-gains/amp/",
-      "publishedDateTime": "2020-03-11T06:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InvestorPlace",
-        "domain": "investorplace.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://investorplace.com/wp-content/uploads/2019/10/intc1600n.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": "Intel Stock Is Poised to Outperform on Chip and AI Developments",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-11-ibm-watson-improves-ability-to-understand-the-language-of-business.md",
-      "title": "IBM Watson improves ability to understand the language of business",
-      "excerpt": "The new technologies represent the first commercialisation of key natural language processing (NLP) capabilities to come from IBM Research’s Project Debater, the only AI system capable of debating humans on complex topics. For example, a new advanced sentiment analysis feature has been developed to identify and analyse idioms and ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.information-age.com/ibm-watson-improves-ability-to-understand-language-business-123488213/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-11T06:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Information Age",
-        "domain": "information-age.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s27389.pcdn.co/wp-content/uploads/2020/03/ibm-watson-improves-ability-to-understand-language-business.jpeg",
-          "width": 1080,
-          "height": 608,
-          "title": "IBM Watson improves ability to understand the language of business",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-11-smart-machines-market-is-expected-to-witness-cagr-of-193-during-the-forecast-period-2019-2027.md",
-      "title": "Smart Machines Market Is Expected To Witness CAGR Of 19.3% During The Forecast Period (2019-2027)",
-      "excerpt": "Market Overview A smart machine is an intelligent device embedded with machine-to-machine technology to perform various",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/smart-machines-market-is-expected-to-witness-cagr-of-193-during-the-forecast-period-2019-2027-2020-03-11",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-11T06:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Smart Machines Market Is Expected To Witness CAGR Of 19.3% During The Forecast Period (2019-2027)",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

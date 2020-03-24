@@ -2,6 +2,281 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-03-08-tucson-tech-artificial-intelligence-tech-developed-locally-looks-to-change-the-game.md",
+      "title": "Tucson Tech: Artificial intelligence tech developed locally looks to change the game",
+      "excerpt": "A Tucson avionics startup working to bring artificial intelligence to cockpits is one example of how the Old Pueblo is jumping on the AI development train.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://tucson.com/business/tucson-tech-artificial-intelligence-tech-developed-locally-looks-to-change/article_51cad541-d40a-5d56-a3e6-a1e5d9b0d957.html",
+      "ampWebUrl": "https://tucson.com/business/tucson-tech-artificial-intelligence-tech-developed-locally-looks-to-change/article_51cad541-d40a-5d56-a3e6-a1e5d9b0d957.amp.html",
+      "cdnAmpWebUrl": "https://tucson-com.cdn.ampproject.org/c/s/tucson.com/business/tucson-tech-artificial-intelligence-tech-developed-locally-looks-to-change/article_51cad541-d40a-5d56-a3e6-a1e5d9b0d957.amp.html",
+      "publishedDateTime": "2020-03-08T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Arizona Daily Star",
+        "domain": "tucson.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/9/ea/9ea46bb3-c5fe-5b34-80a0-ddb58b4f239e/5e5ff45fa24e6.image.jpg?resize=1024%2C715",
+          "width": 1024,
+          "height": 715,
+          "title": "Tucson Tech: Artificial intelligence tech developed locally looks to change the game",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-08-self-driving-cars-can-easily-mimic-human-drivers-claim-researchers.md",
+      "title": "Self-driving cars can easily mimic human drivers, claim researchers",
+      "excerpt": "With the help of an improved sight-correcting system, self-driving cars could learn just by observing human operators complete the same task, researchers have found. The team implemented imitation learning,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.hindustantimes.com/tech/self-driving-cars-can-easily-mimic-human-drivers-claim-researchers/story-CKxP4LH2lnflsVZVIOrP2L.html",
+      "ampWebUrl": "https://m.hindustantimes.com/tech/self-driving-cars-can-easily-mimic-human-drivers-claim-researchers/story-CKxP4LH2lnflsVZVIOrP2L_amp.html",
+      "cdnAmpWebUrl": "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/self-driving-cars-can-easily-mimic-human-drivers-claim-researchers/story-CKxP4LH2lnflsVZVIOrP2L_amp.html",
+      "publishedDateTime": "2020-03-08T04:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-07-artificial-intelligence-is-making-artificial-intelligence-easier-to-build.md",
+      "title": "Artificial intelligence is making artificial intelligence easier to build",
+      "excerpt": "Artificial intelligence and machine learning will automate many business and life tasks, from driving trucks to piloting ships to handling customer calls ... enterprise decisions is the next great frontier for AI and machine-learning. Already, \"self-managing infrastructure is relatively common. We see this in both infrastructure as a service ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/artificial-intelligence-is-making-artificial-intelligence-easier-to-build/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/artificial-intelligence-is-making-artificial-intelligence-easier-to-build/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/artificial-intelligence-is-making-artificial-intelligence-easier-to-build/",
+      "publishedDateTime": "2020-03-07T05:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/03/07/3aee11ac-fb4f-445a-9893-3522813304b4/building-with-lights-windows-cropped-photo-by-joe-mckendrick.jpg",
+          "width": 480,
+          "height": 555,
+          "title": "Artificial intelligence is making artificial intelligence easier to build",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-07-tensorflow-object-detection-api-for-indian-driving-datasetidd-in-windows-10.md",
+      "title": "Tensorflow object detection api for Indian Driving Dataset(IDD) in windows 10",
+      "excerpt": "This blog explains how to build a custom object detection model using tensorflow object detection api considering huge data of IDD. The IDD dataset consists of images obtained from a front facing ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/analytics-vidhya/tensorflow-object-detection-api-for-indian-driving-dataset-idd-in-windows-10-f1f99c19b110",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-07T02:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/0*VQ1zTOIB3CdlMSjI",
+          "width": 1200,
+          "height": 1611,
+          "title": "Tensorflow object detection api for Indian Driving Dataset(IDD) in windows 10",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-07-coronavirus-outbreak-googles-deepmind-ai-is-helping-scientists-better-understand-covid-19-find-cure.md",
+      "title": "Coronavirus Outbreak: Google’s Deepmind AI is helping scientists better understand Covid-19, find cure",
+      "excerpt": "The tech major has taken it a step further in the case of Coronavirus outbreak. Its DeepMind is putting its assets of Artificial intelligence to help scientists understand the peculiar features of the virus that has the potential to be a pandemic. The latest version of its Alphafold technology has been assigned the task to predict the ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.financialexpress.com/industry/technology/coronavirus-outbreak-googles-deepmind-ai-is-helping-scientists-better-understand-covid-19-find-cure/1891761/",
+      "ampWebUrl": "https://www.financialexpress.com/industry/technology/coronavirus-outbreak-googles-deepmind-ai-is-helping-scientists-better-understand-covid-19-find-cure/1891761/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/coronavirus-outbreak-googles-deepmind-ai-is-helping-scientists-better-understand-covid-19-find-cure/1891761/lite/",
+      "publishedDateTime": "2020-03-07T01:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-07-application-of-computer-vision-in-precision-agriculture-farming.md",
+      "title": "Application of Computer Vision in Precision Agriculture & Farming",
+      "excerpt": "But now AI in agriculture is boosting this sector using the power computer vision technology, to train the machines for better productivity in agro and farming. Actually, high-labor cost and ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/vsinghbisen/application-of-computer-vision-in-precision-agriculture-farming-79b0600d5a5d",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-07T01:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*ocyh2KDUta4JcMB-FHMFbg.jpeg",
+          "width": 1200,
+          "height": 813,
+          "title": "Application of Computer Vision in Precision Agriculture & Farming",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-07-tensorflow-to-expand-ai-capabilities-into-mobile-iot-javascript.md",
+      "title": "TensorFlow to expand AI capabilities into mobile, IoT, JavaScript",
+      "excerpt": "It has been three years since the open-source machine learning platform TensorFlow was launched, and now the team is announcing new and ambitious plans for the AI library. The TensorFlow Developer ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://sdtimes.com/ai/tensorflow-to-expand-ai-capabilities-into-mobile-iot-javascript/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-06T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2019/03/hero_720.png",
+          "width": 720,
+          "height": 405,
+          "title": "TensorFlow to expand AI capabilities into mobile, IoT, JavaScript",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-06-its-like-you-have-a-hand-again-a-major-breakthrough-in-robotic-limb-technology.md",
       "title": "'It's like you have a hand again' — A major breakthrough in robotic limb technology",
       "excerpt": "They're claiming it as a major advance in mind-controlled prosthetics ... \"It's just been really hard to do because the physics is not in your favour.\" While the robotic technology in prosthetic hands has come a long way in recent years, the way ...",
@@ -873,265 +1148,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-05-platesmart-recognized-with-fifth-govies-award.md",
-      "title": "PlateSmart Recognized with Fifth Govies Award",
-      "excerpt": "The software offers true object recognition instead of simple optical character recognition (OCR), which allows it to read the plate as well as the state jurisdiction and vehicle make. PlateSmart has earned multiple industry awards for excellence in ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.newswiretoday.com/news/172515/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-04T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newswire Today",
-        "domain": "newswiretoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-04-surprise-aws-leads-in-cloud-ai-services-ranking.md",
-      "title": "Surprise! AWS Leads In 'Cloud AI Services' Ranking",
-      "excerpt": "Everyone reading this article knows that the cloud space is hot. And it's comprised of many different types of services and platforms to complete a full stack. Ten years ago, it was sufficient to just call the space “cloud”,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/03/04/surprise-aws-leads-in-cloud-ai-services-ranking/",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/03/04/surprise-aws-leads-in-cloud-ai-services-ranking/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/03/04/surprise-aws-leads-in-cloud-ai-services-ranking/amp/",
-      "publishedDateTime": "2020-03-04T15:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e6017d8e1e617000758dc82%2F0x0.jpg",
-          "width": 975,
-          "height": 549,
-          "title": "Surprise! AWS Leads In 'Cloud AI Services' Ranking",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-04-how-ibm-makes-money.md",
-      "title": "How IBM Makes Money",
-      "excerpt": "Major competitors include Alphabet Inc. (GOOGL), Cisco Systems Inc. (CSCO), Microsoft Corp. (MSFT ... IBM sells IT services, cloud and cognitive offerings, and enterprise systems and software.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.investopedia.com/how-ibm-makes-money-4798528",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-04T13:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Investopedia",
-        "domain": "investopedia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-04-prosthetic-offers-real-time-mind-control-of-robotic-hand.md",
-      "title": "Prosthetic offers real-time mind control of robotic hand",
-      "excerpt": "Researchers have tapped faint, latent signals from arm nerves and amplified them to create a prosthetic that enables real-time, intuitive, finger-level control of a robotic hand. To achieve this ... Michigan) One of the biggest hurdles in mind-controlled prosthetics is tapping into a strong and stable nerve signal to feed the bionic limb.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.futurity.org/prosthetic-mind-control-robotics-2297932-2/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-04T13:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Futurity News",
-        "domain": "futurity.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.futurity.org/wp/wp-content/uploads/2020/03/prosthetics-2_1600.jpg",
-          "width": 1600,
-          "height": 915,
-          "title": "Prosthetic offers real-time mind control of robotic hand",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-04-logo-recognition-and-the-top-5-logo-recognition-tools.md",
-      "title": "Logo Recognition and The Top 5 Logo Recognition Tools",
-      "excerpt": "2. Amazon Rekognition: As the name suggests, this is an image recognition service by Amazon, with which you can detect scenes, objects and, faces in images, including logos. You can search and ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/@uptownlogos/logo-recognition-and-the-top-5-logo-recognition-tools-42b3868165c0",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-04T11:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/959/1*zkJ_tgbPTmS2fLSl0BSq6w.png",
-          "width": 959,
-          "height": 509,
-          "title": "Logo Recognition and The Top 5 Logo Recognition Tools",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-04-scientists-develop-ultra-precise-mind-controlled-prosthetic-limb.md",
-      "title": "Scientists Develop Ultra-Precise Mind-Controlled Prosthetic Limb",
-      "excerpt": "(CN) – The next generation of mind-controlled prosthetics are within reach and will give amputees the ability to better operate bionic limbs. All it will take is a learning algorithm and some muscle power. The new technology detailed in a paper published ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.courthousenews.com/scientists-develop-ultra-precise-mind-controlled-prosthetic-limb/",
-      "ampWebUrl": "https://www.courthousenews.com/scientists-develop-ultra-precise-mind-controlled-prosthetic-limb/amp/",
-      "cdnAmpWebUrl": "https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/scientists-develop-ultra-precise-mind-controlled-prosthetic-limb/amp/",
-      "publishedDateTime": "2020-03-04T11:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Courthouse News Service",
-        "domain": "courthousenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i1.wp.com/www.courthousenews.com/wp-content/uploads/2020/03/Prosthetic1.jpg?fit=1000%2C666&ssl=1",
-          "width": 1000,
-          "height": 666,
-          "title": "Scientists Develop Ultra-Precise Mind-Controlled Prosthetic Limb",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-04-facebook-details-ai-system-that-helped-it-catch-900m-fake-accounts-last-year.md",
-      "title": "Facebook details AI system that helped it catch 900M fake accounts last year",
-      "excerpt": "The company has an entire unit dedicated to machine learning, the Facebook AI Research group, that is working on a variety projects including an initiative to speed up MRI scans and an effort to ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://siliconangle.com/2020/03/04/facebook-details-ai-system-helped-catch-900m-fake-accounts-last-year/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-04T10:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/03/33839797160_76e3f043d0_c-768x512.jpg",
-          "width": 768,
-          "height": 512,
-          "title": "Facebook details AI system that helped it catch 900M fake accounts last year",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

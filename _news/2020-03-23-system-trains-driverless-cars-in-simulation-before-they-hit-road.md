@@ -6,7 +6,7 @@ publishedDateTime: 2020-03-23T16:42:00Z
 webUrl: "https://www.miragenews.com/system-trains-driverless-cars-in-simulation-before-they-hit-road/"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -22,6 +22,21 @@ images:
     width: 639
     height: 426
     title: "System trains driverless cars in simulation before they hit road"
+
+related:
+  - title: "System trains driverless cars in simulation before they hit the road"
+    excerpt: "A simulation system invented at MIT to train driverless cars creates a photorealistic world with infinite steering ... a PhD student in the Computer Science and Artificial Intelligence Laboratory (CSAIL). \"In our simulation, however, control systems can experience those situations, learn for themselves to recover from them, and remain robust ..."
+    publishedDateTime: 2020-03-24T13:34:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-03/miot-std032320.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 54
+    images:
+      - url: "https://www.eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg"
+        width: 900
+        height: 300
 
 secured: "37AVSpL5hjxslVLfR0iWn+7hfAd39jW8mW8V/YBMIpMze6uREHmL/PySqhcDkEqJb2AE5/MjSnl+GDzRIqmz6v+EHtVUuKsBF/hH/aTT1s45WtQb3KpL7LUGpbH236SpvMmQmjCYwIfMiavYVcpkp0ik89c+bR93aasvz6ABnVfg1bDCcu6dPLwhapjUfU+BtATRPv2l+D8jgVl7OPH0oftzFBGGh0OxQrdeUMg3PZ6wMJMz22fAaDM3cs1+DpGNDquwIfLDrQZGCjeiHTexh2q6kfN0QsNxTmgsDHvz34kUzzi7RX5ca2Ehu1jSgaI/sxBfN4tbgNvwvFhCRXGGpvpTFRpZBz34sFgBZTV+uwuNUZQupfzI1BCaWezdfP/IFqiA8ZyRoGY7ilvrk4fB0MJIjQ/pFoG5IgVtaYBkt0NE5lXTYnDZVzupH43ZVfyF/AhX/qwzjrZPKz3FvO/HIMc7a4c53IqtxzAkLX+jsik=;AqFPCQydmUHi6+BXRuSQNA=="
 ---

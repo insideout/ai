@@ -2,6 +2,170 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-03-13-aclu-sues-us-government-over-its-use-of-facial-recognition-at-airports.md",
+      "title": "ACLU sues US government over its use of facial recognition at airports",
+      "excerpt": "The American Civil Liberties Union is suing the US government over its failure to reveal details about the use of facial recognition at airports. On Thursday, the ACLU and the New York Civil Liberties Union filed a lawsuit asking a federal court to order a range of federal agencies to hand over their records about the tech’s usage at airports.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/03/13/aclu-sues-us-government-over-its-use-of-facial-recognition-at-airports/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/03/13/aclu-sues-us-government-over-its-use-of-facial-recognition-at-airports/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/03/13/aclu-sues-us-government-over-its-use-of-facial-recognition-at-airports/amp/",
+      "publishedDateTime": "2020-03-13T07:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/Untitled-design21-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "ACLU sues US government over its use of facial recognition at airports",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-the-top-5-fintech-trends-for-2020.md",
+      "title": "The top 5 fintech trends for 2020",
+      "excerpt": "They're also investing in cloud technologies as part of a broader digital transformation effort (11%) and automating through AI or robotics (10%), according to the survey. Only 45% of survey respondents said they're in great shape when it comes to their ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/the-top-5-fintech-trends-for-2020/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/the-top-5-fintech-trends-for-2020/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/the-top-5-fintech-trends-for-2020/",
+      "publishedDateTime": "2020-03-13T07:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2019/08/28/d05e9732-c721-4047-adb6-99e8614dce5a/thumbnail/1200x675/8924a634cce0bc6fd704a70c2f05b914/20190820-synopsys-karen.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "The top 5 fintech trends for 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-current-ai-hardware-focus-is-misguided-says-ai-pioneer.md",
+      "title": "Current AI hardware focus is misguided, says AI pioneer",
+      "excerpt": "offered a glimpse of what Facebook is working on, and made some predictions for the future of deep-learning hardware. Le Cun is a renowned visionary in the field of AI, having been at the forefront of neural-network research in the 1980s and 1990s. As a Bell Labs researcher in the late 1980s, he worked with the earliest types of dedicated ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.embedded.com/current-ai-hardware-focus-is-misguided-says-ai-pioneer/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-13T07:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Embedded",
+        "domain": "embedded.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.embedded.com/wp-content/uploads/2020/03/img20200313102416Le-Cun-It-s-Really-Hard-to_0.jpg",
+          "width": 640,
+          "height": 426,
+          "title": "Current AI hardware focus is misguided, says AI pioneer",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-riskalyze-fintech-report-card-february-2020.md",
+      "title": "Riskalyze Fintech Report Card: February 2020",
+      "excerpt": "What Happened: Andrew Altfest, president of a $1 billion RIA firm, launched new advisor technology at the T3 advisor conference this year. The new software promises to use AI to analyze a client’s existing situation and offer tailored recommendations. Why It Matters: It was only a couple of years ago that I was on record saying “in our ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wealthmanagement.com/technology/riskalyze-fintech-report-card-february-2020",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-13T06:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WealthManagement.com",
+        "domain": "wealthmanagement.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.wealthmanagement.com/sites/wealthmanagement.com/files/fintech-report-card-promo.jpg",
+          "width": 2000,
+          "height": 1040,
+          "title": "Riskalyze Fintech Report Card: February 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-13-automated-intent-classification-using-deep-learning-in-google-sheets.md",
       "title": "Automated Intent Classification Using Deep Learning in Google Sheets",
       "excerpt": "Let’s move to build our intent classification service that we will call to populate keyword intents. In my previous deep learning articles, I’ve covered Ludwig, Uber’s AI toolbox. I like it a lot because it allows you to build state-of-the-art deep learning models without writing a single line of code. It is also very convenient to run in ...",
@@ -1009,162 +1173,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-12-researchers-use-ai-to-translate-text-found-on-ancient-clay-tablets.md",
-      "title": "Researchers use AI to translate text found on ancient clay tablets",
-      "excerpt": "Read: Google now supports five new languages on Translate To build the model, they’re training it on more than 6,000 annotated images from the Persepolis Fortification Archive. This will teach the system to read tablets in the collection that have never been analyzed before. They believe the system could uncover new secrets about Achaemenid ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/03/12/researchers-use-ai-to-translate-text-found-on-ancient-clay-tablets/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/03/12/researchers-use-ai-to-translate-text-found-on-ancient-clay-tablets/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/03/12/researchers-use-ai-to-translate-text-found-on-ancient-clay-tablets/amp/",
-      "publishedDateTime": "2020-03-12T11:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/Untitled-design19-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Researchers use AI to translate text found on ancient clay tablets",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-12-ai-ethics-principles-are-laid-out-by-dod-for-all-to-see-applies-to-self-driving-cars-too.md",
-      "title": "AI Ethics Principles Are Laid Out By DoD For All To See, Applies To Self-Driving Cars Too",
-      "excerpt": "AI ethics is a hot trending topic these days. And, so it should be. With the rise of AI systems popping up here and there, and virtually everywhere, there is a rightfully emerging concern that these computer-based systems are being thrown into the world without much thought given to the societal impacts that they can produce.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/03/12/ai-ethics-principles-are-laid-out-by-dod-for-all-to-see-applies-to-self-driving-cars-too/",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/03/12/ai-ethics-principles-are-laid-out-by-dod-for-all-to-see-applies-to-self-driving-cars-too/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/03/12/ai-ethics-principles-are-laid-out-by-dod-for-all-to-see-applies-to-self-driving-cars-too/amp/",
-      "publishedDateTime": "2020-03-12T10:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e680526e1e61700080e7020%2F0x0.jpg%3FcropX1%3D339%26cropX2%3D5849%26cropY1%3D0%26cropY2%3D4133",
-          "width": 1200,
-          "height": 900,
-          "title": "AI Ethics Principles Are Laid Out By DoD For All To See, Applies To Self-Driving Cars Too",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-12-sentara-healthcare-partners-with-citiustech-to-deploy-data-platform-on-microsoft-azure.md",
-      "title": "Sentara Healthcare Partners With CitiusTech to Deploy Data Platform on Microsoft Azure",
-      "excerpt": "CitiusTech H-Scale, combined with Azure, helps customers achieve scale in healthcare data management.” CitiusTech has further enabled Sentara to leverage aggregated information and generate actionable insights by deploying artificial intelligence and machine learning models at an enterprise scale. This is expected to save approximately $3 ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businesswire.com/news/home/20200312005559/en/Sentara-Healthcare-Partners-CitiusTech-Deploy-Data-Platform",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-12T09:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200312005559/en/779461/23/citiustech_logo.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": "Sentara Healthcare Partners With CitiusTech to Deploy Data Platform on Microsoft Azure",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-12-facebook-research-develops-ai-system-for-music-source-separation.md",
-      "title": "Facebook Research Develops AI System for Music Source Separation",
-      "excerpt": "Facebook Research recently released Demucs, a new deep-learning-powered system for music ... Accelerated by existing research in the source separation domain, research scientists began using AI to separate sounds in music in the early 2000s. Today, spectrograms generated by the short-time Fourier transform (STFT) are the centerpiece of state ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.infoq.com/news/2020/03/facebook-ai-source-separation/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-12T09:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }
