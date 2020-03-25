@@ -43,6 +43,19 @@ related:
       - url: "https://cdn.neow.in/news/images/uploaded/2019/09/1567329620_azure-4_story.jpg"
         width: 760
         height: 428
+  - title: "Microsoft expands Azure Stack Edge with NVIDIA T4 Tensor Core GPU"
+    excerpt: "Writing in the company bog, Vole says NVIDIA T4 Tensor Core GPU is used by the Azure Stack Edge in order to bring a hardware boost to machine learning (ML) workloads. In the blog Vole states that since its introduction, it has observed a largely positive reception to the idea, with a variety of industries looking to take advantage of the ..."
+    publishedDateTime: 2020-03-25T11:22:00Z
+    webUrl: "https://www.fudzilla.com/news/50538-microsoft-expands-azure-stack-edge-with-nvidia-t4-tensor-core-gpu"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 71
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/1957140400ab3edd0bca8c79f8bc7bc5_L.jpg"
+        width: 620
+        height: 431
 
 secured: "bwlZal3PT8ANkcvgptV2Og59VQ40gZ998kLKiytsIR0jjdN0eUm+AbQw/3Ydulpy9q+9CtWo87zgmeugsdG/+vMgtGDEsvAACoYr/MqWiJvlB//fVX8r8f1hG3cxo/5QaDZwl8A14Ch2Q6xH0dTUti23nn81SqhXqtWb32WiTifPNq4WLer1uUC1FJ0wdJotgLeiERBTBVbiXUJ+6OfUm3rQndHaSeym/0s/r48aEHKjkvONPw/9/gPAgU4/PF0QYdX9jp7emVopSZH3Wbt8bbWEfWbRHA2TBkeb5MfEIubdhvbFQ/kvxeS6TZ85tf515voQ4Xe+trgUtzyWpv4A0w==;1yXiXXBR1PohXSDKstbGcg=="
 ---

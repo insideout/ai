@@ -453,24 +453,32 @@
     },
     {
       "path": "_news/2020-03-17-rpa-and-artificial-intelligence-five-questions.md",
-      "title": "RPA and Artificial Intelligence – Five Questions",
-      "excerpt": "Indico CEO Tom Wilde sees a shifting landscape ahead for AI and RPA users as enterprises look to move their process automation efforts forward. Some of the major themes he’s watching include: RPA’s adoption problem;",
+      "title": "RPA and Artificial Intelligence - Five Questions",
+      "excerpt": "Today, we see this most commonly in financial services, but we expect to see more Automation CoEs in manufacturing and healthcare in 2020. One of the big goals of process automation is the ability to speed accurate decision-making to accelerate cycle time.",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.globenewswire.com/news-release/2020/03/17/2001931/0/en/RPA-and-Artificial-Intelligence-Five-Questions.html",
+      "webUrl": "https://www.tmcnet.com/usubmit/-rpa-artificial-intelligence-five-questions-/2020/03/17/9116449.htm",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-17T06:17:00-07:00",
+      "publishedDateTime": "2020-03-17T07:16:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "GlobeNewswire",
-        "domain": "globenewswire.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
-      "images": null,
+      "images": [
+        {
+          "url": "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg",
+          "width": 252,
+          "height": 335,
+          "title": "RPA and Artificial Intelligence - Five Questions",
+          "attribution": null
+        }
+      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -974,6 +982,51 @@
       ]
     },
     {
+      "path": "_news/2020-03-12-global-artificial-intelligence-in-healthcare-market-latest-study-explores-with-competitors-google-inc-ibm-corporation-and-intel-corporation.md",
+      "title": "Global Artificial Intelligence in Healthcare Market Latest Study Explores With Competitors - Google Inc, IBM Corporation and Intel Corporation",
+      "excerpt": "Global Artificial Intelligence in Healthcare Market (Revenue and Volume), Type, Application, End-User, and Regional Analysis, Import-Export Analysis, Industry Analysis, Premium Insights, Intellectual Property Analysis,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-healthcare-market-latest-study-explores-with-competitors---google-inc-ibm-corporation-and-intel-corporation-2020-03-12",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-12T00:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Global Artificial Intelligence in Healthcare Market Latest Study Explores With Competitors - Google Inc, IBM Corporation and Intel Corporation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-10-training-robots-revolutionize-therapy.md",
       "title": "Training robots revolutionize therapy",
       "excerpt": "They developed the first prototype in 2007 at the Artificial Intelligence Laboratory at the University of Zurich ... The decisive factor is the training aspect, which was traditionally relegated to a relatively minor role in rehabilitation therapy. If you sit down on the Robotic Personal Trainer, you can expect to be challenged.",
@@ -1087,35 +1140,6 @@
       "ampWebUrl": "https://amp.benzinga.com/amp/content/15505440",
       "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15505440",
       "publishedDateTime": "2020-03-09T03:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-09-artificial-intelligence-in-healthcare-market-2020-global-key-players-trends-share-industry-size-segmentation-opportunities-forecast-to-2026.md",
-      "title": "Artificial Intelligence in Healthcare Market 2020: Global Key Players, Trends, Share, Industry Size, Segmentation, Opportunities, Forecast To 2026",
-      "excerpt": "“Artificial Intelligence in Healthcare Market” Summary: A new market study, titled \"Global Artificial Intelligence in Healthcare Market Upcoming Trends,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/03/ab15504764/artificial-intelligence-in-healthcare-market-2020-global-key-players-trends-share-industry-size-s",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15504764",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15504764",
-      "publishedDateTime": "2020-03-09T00:35:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Benzinga.com",

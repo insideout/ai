@@ -20,6 +20,6 @@ images:
     height: 628
     title: "AI Recruitment Startup Talview Wins The \"Best AI Application for Societal Impact\" Recognition at Microsoft's AI Awards 2.0"
 
-secured: "MTmrbV27i2WCykkOsVpGuEWMhBFFdnAbVYrP0/jU4+avbmmIsCV09jmi7JMiIQKWFjyh9QoErP2z6H2TNPhQFPaYwHV1o+tihH4qSuZebU/GF1wBHTmg3euUtDIBTbvB/yBFoIoMcCq1efdR/LococrSPXg50rwRsxHOx1MxE/nUMmAU8ZbTKv3mF6ClqfJN8lJnz9k6dQnzSrY6QGDfK0xqraFeqUgHt+r3MsnC/IB+DVvwauz4ffGtfIWvbhKgqJXd5GexOe6xD406AQZcN80qNrOQfs3dhf4ukgVl0DjR0uEGU2sCW98mFel758ae;QGWdGCRGrhMJ/hXM4OjMgg=="
+secured: "d7xpNrIsjZe4r/ep0/ueXQR1PJI9qwS396/HbpQUSSMJkG9nz3IciLBPUoKS43gDvX4vKJoQi0kxdQ1kSxF7wELHv07W8mW2JYxx9neMwhET4nzehONfHH6ASgm0U5B0nAT7BIf5SXQC5Be48jOpIv7PgjP1wgmLmUZ/OGlJc1fcmIbP4TO7NWXCDHGfQ1QBrbhJKjKxM/dFecT0BhW6oNgqPdY62CEnYkhKp6GzDGhBwdvTIcNrKjvkPN1x/qyoxJZNewfR1qkMtiTgtucrS4VSEZKCEavT9WV5bCe1UAMyP8ZG10Z6pe63QS+371c31BA2li0SB0NgJXS2JB9g9h0rE+SGYO9BeyF/3HojO8WZIH12kh6hR96G4e1dQiPw5O0N46/nq74c18ZH+Rgczk59ylqQdP6nGLnXIYcAi0zdT7OLxhnNNPqBbf/DUBeB/8JoACSyl4qw1rSgyXU+K5CrLXHJYwwtPY2URxnslZY=;g+RPSDTZezxQuwTOe1lLiA=="
 ---
 
