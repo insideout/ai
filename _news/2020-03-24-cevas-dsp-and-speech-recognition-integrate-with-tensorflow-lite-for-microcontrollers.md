@@ -24,30 +24,19 @@ images:
     title: "Ceva’s DSP and speech recognition integrate with TensorFlow Lite for Microcontrollers"
 
 related:
-  - title: "CEVA Announces DSP and Voice Neural Networks Integration with TensorFlow Lite for Microcontrollers"
-    excerpt: "MOUNTAIN VIEW, Calif., March 24, 2020 /PRNewswire/ -- CEVA, Inc. (NASDAQ: CEVA), the leading licensor of wireless connectivity and smart sensing t..."
-    publishedDateTime: 2020-03-24T11:48:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ceva-announces-dsp-and-voice-neural-networks-integration-with-tensorflow-lite-for-microcontrollers-1029026322"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/ceva-announces-dsp-and-voice-neural-networks-integration-with-tensorflow-lite-for-microcontrollers-1029026322"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ceva-announces-dsp-and-voice-neural-networks-integration-with-tensorflow-lite-for-microcontrollers-1029026322"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 55
-  - title: "Ceva DSP and voice AI support Tensorflow Lite integration"
-    excerpt: "Ceva’s BX DSP cores and Whispro speech recognition software for conversational AI now also support Tensorflow Lite for microcontrollers, a framework for deploying tiny machine learning on processors in edge devices. Tiny machine learning allows AI to operate in low power, battery operated IoT devices for sensor data analytics of audio ..."
-    publishedDateTime: 2020-03-24T15:35:00Z
-    webUrl: "https://www.electronicsweekly.com/news/ceva-dsp-voice-tensorflow-2020-03/"
+  - title: "DSP cores and speech recognition for TensorFlow Lite on MCU"
+    excerpt: "CEVA-BX DSP cores and WhisPro speech recognition software targeting conversational AI and contextual awareness applications now support TensorFlow Lite for MCUs. This delivers a production ready, cross-platform framework for deploying tiny machine learning on power-efficient processors in edge devices. Tiny machine learning brings the power ..."
+    publishedDateTime: 2020-03-25T06:16:00Z
+    webUrl: "https://www.electronicsweekly.com/news/business/dsp-cores-speech-recognition-tensorflow-lite-mcu-2020-03/"
     type: article
     provider:
       name: Electronics Weekly
       domain: electronicsweekly.com
-    quality: 54
+    quality: 39
     images:
-      - url: "https://static.electronicsweekly.com/wp-content/uploads/2020/03/24152552/z.jpg"
-        width: 559
-        height: 553
+      - url: "https://static.electronicsweekly.com/wp-content/uploads/2020/03/24185443/FDF489D1-29D0-4E7D-AB67-F17701F26FA2.jpeg"
+        width: 520
+        height: 475
 
 secured: "B/h8fU7xC4thj1JOddro9v2tUKhnTKmuW91eUEvpT1LJQOvH0cS4Oc31a7+hZm9U2JLCKOZJbB3vyeUzjIqY8SL9oW4XQCnEnPD9JELmx5mziqJXkMAb7gRMRvu5ezzkzlJK2M8iLEi1CX/Qp5y5pFSbAW0QAnHAKNcmosb6WFZ39PMnTJjn6HdmdxQHNNkkXoZxV1RvNjoVeEpi2nOlgihVQpTRi5uIVQsg2LI+qGUKkWk5Xtkz7v4xehOVcSBZ2u4Em3yYVLTeESHo7mBCw43Y6g7hyuX/H5gQlYu+6biP4030fuU56mV3u899N4fww8t7a2fDRVUo+vWYr94pb1BwmQi9LoVmS9ylRsDynds7Spq8jjNY/yvoqkEYgYYO3HqPrQAnTAvNfL7tNsJtOY9BJ61VAf4jFqQ+37as6R1yXXD4DI16nrDfgow4BQBjSwwUkzRdiBGfQAIYVHYDg4D3Vhtx6dYknJjrRxNBOZg=;3dTlGJ1IhD9fFJ3zEKl9MA=="
 ---

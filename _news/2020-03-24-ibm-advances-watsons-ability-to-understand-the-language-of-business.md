@@ -8,7 +8,7 @@ ampWebUrl: "https://www.itp.net/news/91751-ibm-advances-watsons-ability-to-under
 cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/news/91751-ibm-advances-watsons-ability-to-understand-the-language-of-business?amp"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,23 @@ images:
     height: 1057
     title: "IBM advances Watson’s ability to understand the language of business"
 
-secured: "NxWEYQOtdPHr59GYTVbZ3efDa6XNRk9RIhGZ+005tKw2ekoVVamLo+YEhPFuDfJc3EWqJlo9Pp65oBJriCQF1GnsN1TxYQB17kT8dS+veCvD06vO3228aIVcdzNWk4n7EblJZOkuexoMI/W7OPCMO3f5K3ZLzptQ7tyk5Yv1MuK+OwUwo/dunRb06eHZ3MQMyt6blhbN+ISV3RwbuznFw9/XchyUhtZBx8mtYAqkPCCzNxSFZ3S7EEeP18ofmP9tJMO4Z/XcS6853TOX7dTXEUYHfqz82JFVFEEc/h9x256xU/wlAZIpnLJyfI3Hq20d;vzOydhqNc7SjIZ2W16FlfQ=="
+related:
+  - title: "Digital Transformation: Big Data and AI Firm ADVANCE.AI to Help Financial Services Providers Enhance Operations"
+    excerpt: "Big Data and artificial intelligence firm ADVANCE.AI aims to assist businesses based in Asia with their digital transformation strategies. ADVANCE.AI is expanding its business operations into India by establishing business offices in Bangalore and New Delhi."
+    publishedDateTime: 2020-03-25T03:34:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/03/159228-digital-transformation-big-data-and-ai-firm-advance-ai-to-help-financial-services-providers-enhance-operations/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2020/03/159228-digital-transformation-big-data-and-ai-firm-advance-ai-to-help-financial-services-providers-enhance-operations/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/03/159228-digital-transformation-big-data-and-ai-firm-advance-ai-to-help-financial-services-providers-enhance-operations/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 39
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2017/10/data-code-1024x683.jpg"
+        width: 1024
+        height: 683
+
+secured: "6FZMQiwg6B9ydYu44vfeeZTzaC3DISoaNN6LG6t68xXk0vrn8UBqev6gtHq3l2YrFIL/ToQNdbVoHVhKG8Y1wgBBPsF83Fbaym2EemMeNs2JEpiMU3irIMXNixzDIc/bf2/qvHcqRh63pQFofK/1dzJQ19i5fvP5ZhmD6nI3lxEVcaja8Ddv5bxj3ywZ6PsN2z5nqWns/5R8p9kFtrHgCz92R+H6/1FZTf2bT3ugdWd0EEKjLYVMIuyRhuLWRP6BhAc6MTx1yY8TFMEr4wNDQJKmt7gPhI+SaHyfg8h3xl0ac0U65qeQrJNruykFiDIbl1H1MdKCKHQLYaDQf7bEmhou3D7F+0TFE40GjgmpXhETLgg6W7Q6sZt1mZrCKx09Y7a+8Mzi2pbF3cQaFPGXQHThYTSF/Igv5/kDX1TF75Ko9eGjbRvsECe4xuE7oui/dtn2wZlhPZqtHUeF3gaAm0MUID+wtBUK0VjuTRfvPRE=;+Pz2XKKzrW0R+IWbbbAvFQ=="
 ---
 

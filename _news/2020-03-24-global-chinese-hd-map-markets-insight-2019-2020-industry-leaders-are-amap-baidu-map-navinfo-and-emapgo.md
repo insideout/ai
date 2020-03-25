@@ -1,19 +1,17 @@
 ---
 category: news
 title: "Global & Chinese HD Map Markets Insight, 2019-2020 - Industry Leaders are Amap, Baidu Map, NavInfo and eMapgo"
-excerpt: "Dublin, March 24, 2020 (GLOBE NEWSWIRE) -- The \"Global and China HD Map Industry Report, 2019-2020\" report has been added to ResearchAndMarkets.com's..."
-publishedDateTime: 2020-03-24T12:04:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/03/g15649371/global-chinese-hd-map-markets-insight-2019-2020-industry-leaders-are-amap-baidu-map-navinfo-and-em"
-ampWebUrl: "https://amp.benzinga.com/amp/content/15649371"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15649371"
+excerpt: "Dublin, March 24, 2020 (GLOBE NEWSWIRE) -- The \"Global and China HD Map Industry Report, 2019-2020\" report has been added to ..."
+publishedDateTime: 2020-03-24T12:03:00Z
+webUrl: "https://www.globenewswire.com/news-release/2020/03/24/2005473/0/en/Global-Chinese-HD-Map-Markets-Insight-2019-2020-Industry-Leaders-are-Amap-Baidu-Map-NavInfo-and-eMapgo.html"
 type: article
-quality: 20
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: GlobeNewswire
+  domain: globenewswire.com
 
 topics:
   - AI in Autos
@@ -32,6 +30,6 @@ related:
       domain: benzinga.com
     quality: 37
 
-secured: "u6JE/js/GL7BBmrqK/UPTmTjgGJHRBpdYWlBp/z+iLftgr5aIU1aV8c4cXw7fkF1Dov564dWyvE8eu6sL9WHG3B7zYKbV9YzVHBkrUnXBm4DQbULh8Hq0EnB/kSB3f5aeILDZMgrNy/RRkrU8WQAkub4ye9tGKVAeL8CElvUPFgOxxowUNa7fvoJJfVGrgXpZCo8kS9NVYrEBPzs5U3yKJgEF9NYLY30KO3jJS6VUEXXAagcJeeqTOZRdyIvItaO+/uZWaxyvoRxQM8zwItdZJdlzDkXMG65qM9AqxSye3sypPHpfq99kAxMWdHlBdNn;omm6WkOXVufbCejDP2IA5g=="
+secured: "kXIk8AsiQlOoRnR1hV9/hP/YhNFkjTInvHlVmfwYz7QMv4smRUDaLl1CEfAia7GM2H/Wq3A6/r7N51N8WSMCHUd6hC9/gEqJoooPQRC/scDab56xHAqeigY+dcVu1ICGAlf11hA4vGOFBHnJFv6F83AbenFJvKURLvCduuxHOtDer3pMGOjUEZc1m0Ll2LaEjJzXqFmGyxMAEaHoYpg4qVMIHjg2FMrVCKwbGixxpNHZ5jNxlsAJ+O2cabBDuKZNc8HnTGnyumO1GdsF7GyrIZjvuijFaWouYJVeK7CBiVmlC4N1Dn+tCTnKpA63sfZt;owmVKvTcUdpkyHcEcCUR0w=="
 ---
 
