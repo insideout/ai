@@ -2,6 +2,125 @@
   "page": 64,
   "value": [
     {
+      "path": "_news/2020-01-14-amazon-cloud-clientele-strengthens-as-bundesliga-selects-aws-nasdaq.md",
+      "title": "Amazon Cloud Clientele Strengthens as Bundesliga Selects AWS | Nasdaq",
+      "excerpt": "Amazon AMZN is focused on strengthening clientele of its cloud computing arm, Amazon Web Services (AWS), to expand presence in the cloud industry.Bundesliga, the professional association football ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nasdaq.com/articles/amazon-cloud-clientele-strengthens-as-bundesliga-selects-aws-2020-01-14",
+      "ampWebUrl": "https://www.nasdaq.com/articles/amazon-cloud-clientele-strengthens-as-bundesliga-selects-aws-2020-01-14?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-cloud-clientele-strengthens-as-bundesliga-selects-aws-2020-01-14?amp",
+      "publishedDateTime": "2020-01-14T01:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg",
+          "width": 1024,
+          "height": 512,
+          "title": "Amazon Cloud Clientele Strengthens as Bundesliga Selects AWS | Nasdaq",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-14-bundesliga-brings-on-aws-to-revolutionise-football-viewing-experience.md",
+      "title": "Bundesliga brings on AWS to ‘revolutionise’ football viewing experience",
+      "excerpt": "Under the terms of its deal with AWS, the Bundesliga will make use during the 2019-20 season and beyond of artificial intelligence (AI), machine learning (ML), analytics, compute, database, and storage services to deliver real-time statistics to predict future plays and game outcomes, and recommend personalised match footage across mobile ...",
+      "heat": 69,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.rapidtvnews.com/2020011457936/bundesliga-brings-on-aws-to-revolutionise-football-viewing-experience.html",
+      "ampWebUrl": "https://www.rapidtvnews.com/2020011457936/bundesliga-brings-on-aws-to-revolutionise-football-viewing-experience.amp.html",
+      "cdnAmpWebUrl": "https://www-rapidtvnews-com.cdn.ampproject.org/c/s/www.rapidtvnews.com/2020011457936/bundesliga-brings-on-aws-to-revolutionise-football-viewing-experience.amp.html",
+      "publishedDateTime": "2020-01-13T23:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Rapid TV",
+        "domain": "rapidtvnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.rapidtvnews.com/images/2020/Jan_2020/bundesliga_AWS_14Jan2020.jpg",
+          "width": 788,
+          "height": 337,
+          "title": "Bundesliga brings on AWS to ‘revolutionise’ football viewing experience",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-14-lg-hones-focus-on-ai-car-platforms-with-cerence-and-luxoft.md",
+      "title": "LG hones focus on AI car platforms with Cerence and Luxoft",
+      "excerpt": "The South Korean electronics maker has also extended its partnership with Microsoft as part of plans to move further into the commercial space. LG said it will leverage Microsoft Azure and AI services to enhance its management systems to enable its Building Energy Control (BECON) system to manage and control heating, ventilation, and air ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/lg-hones-focus-on-ai-car-platforms-with-cerence-and-luxoft/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/lg-hones-focus-on-ai-car-platforms-with-cerence-and-luxoft/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/lg-hones-focus-on-ai-car-platforms-with-cerence-and-luxoft/",
+      "publishedDateTime": "2020-01-13T18:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/01/14/fa1a0cb0-0104-41aa-b836-0541476b2854/lg-cerence-partnership.jpg",
+          "width": 3000,
+          "height": 1997,
+          "title": "LG hones focus on AI car platforms with Cerence and Luxoft",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-13-ag-tech-startup-small-robot-is-seeking-700000-on-crowdcube-to-continue-development-of-autonomous-robot-ai-software.md",
       "title": "Ag-Tech Startup Small Robot Is Seeking £700,000 on Crowdcube to Continue Development of Autonomous Robot & AI Software",
       "excerpt": "using an autonomous robot and their AI software to deliver a weed map to paying customers. “Imagine a world in which we could use swarms of lightweight, smart machines to replace tractors and ...",
@@ -1149,133 +1268,6 @@
       "topics": [
         "AI",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-11-waymos-anca-dragan-and-ike-robotics-cto-jur-van-den-berg-are-coming-to-tc-sessions-roboticsai.md",
-      "title": "Waymo’s Anca Dragan and Ike Robotics CTO Jur van den Berg are coming to TC Sessions: Robotics+AI",
-      "excerpt": "and is co-PI of the Center for Human-Compatible AI. Last year, Dragan was awarded the Presidential Early Career Award for Scientists and Engineers. Van den Berg is the co-founder and CTO of Ike Robotics, a self-driving truck startup that last year raised $52 million in a Series A funding round led by Bain Capital Ventures. Van den Berg has ...",
-      "heat": 126,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/01/10/waymos-anca-dragan-and-ike-robotics-cto-jur-van-den-berg-are-coming-to-tc-sessions-robotics-ai/",
-      "ampWebUrl": "https://techcrunch.com/2020/01/10/waymos-anca-dragan-and-ike-robotics-cto-jur-van-den-berg-are-coming-to-tc-sessions-robotics-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/10/waymos-anca-dragan-and-ike-robotics-cto-jur-van-den-berg-are-coming-to-tc-sessions-robotics-ai/amp/",
-      "publishedDateTime": "2020-01-11T03:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/01/robtoics_ancajur.png?w=1024",
-          "width": 1024,
-          "height": 558,
-          "title": "Waymo’s Anca Dragan and Ike Robotics CTO Jur van den Berg are coming to TC Sessions: Robotics+AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-01-11-china-tests-worlds-first-high-speed-driverless-bullet-train-at-a-speed-of-350-km-successfully.md",
-      "title": "China tests world’s first high-speed driverless bullet train at a speed of 350 km successfully",
-      "excerpt": "It has all the features connected to artificial intelligence with 5G signal, wireless charging and smart lighting. The Beijing to Zhangjiakou high-speed driverless train test was successful, 56496 crore rupees have been spent on it. The passengers will get ...",
-      "heat": 62,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.metrorailnews.in/china-tests-worlds-first-high-speed-driverless-bullet-train-at-a-speed-of-350-km-successfully/",
-      "ampWebUrl": "https://www.metrorailnews.in/china-tests-worlds-first-high-speed-driverless-bullet-train-at-a-speed-of-350-km-successfully/?amp",
-      "cdnAmpWebUrl": "https://www-metrorailnews-in.cdn.ampproject.org/c/s/www.metrorailnews.in/china-tests-worlds-first-high-speed-driverless-bullet-train-at-a-speed-of-350-km-successfully/?amp",
-      "publishedDateTime": "2020-01-11T02:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Metro rail News",
-        "domain": "metrorailnews.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.metrorailnews.in/wp-content/uploads/2020/01/5492.jpg",
-          "width": 1920,
-          "height": 1152,
-          "title": "China tests world’s first high-speed driverless bullet train at a speed of 350 km successfully",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-01-11-robotaxis-will-be-available-as-soon-as-2022-self-driving-tech-supplier-mobileye-ceo-says.md",
-      "title": "Robotaxis will be available as soon as 2022, self-driving tech supplier Mobileye CEO says",
-      "excerpt": "Self-driving cars will start with fleet operators before general use due to regulatory and cost constraints “that you cannot put on a consumer,” he said in a “Mad Money” interview. “If more cars will be autonomous,",
-      "heat": 100,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2020/01/10/self-driving-tech-developer-mobileye-ceo-robotaxis-will-come-in-2022.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/01/10/self-driving-tech-developer-mobileye-ceo-robotaxis-will-come-in-2022.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/10/self-driving-tech-developer-mobileye-ceo-robotaxis-will-come-in-2022.html",
-      "publishedDateTime": "2020-01-10T20:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106331425-1578694177734shashua_amnon_mm_20200110_img_1027.jpg?v=1578694283",
-          "width": 5795,
-          "height": 3863,
-          "title": "Robotaxis will be available as soon as 2022, self-driving tech supplier Mobileye CEO says",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

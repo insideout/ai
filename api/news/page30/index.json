@@ -2,6 +2,131 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2020-02-25-artificial-intelligence-finds-compound-that-can-destroy-superbugs.md",
+      "title": "Artificial intelligence finds compound that can destroy superbugs",
+      "excerpt": "This isn’t the first time artificial intelligence has been tapped to process large amounts of information in order to find new arrangements of existing things. For example, the spice company McCormick has used IBM’s AI technology to develop new spice combinations for various meals. The same AI tech has also been used to create entirely new ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.slashgear.com/artificial-intelligence-finds-compound-that-can-destroy-superbugs-24611028/",
+      "ampWebUrl": "https://www.slashgear.com/artificial-intelligence-finds-compound-that-can-destroy-superbugs-24611028/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/artificial-intelligence-finds-compound-that-can-destroy-superbugs-24611028/amp/",
+      "publishedDateTime": "2020-02-24T17:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://scdn.slashgear.com/wp-content/uploads/2020/02/bacteria_main_petri_uns.jpg",
+          "width": 1440,
+          "height": 800,
+          "title": "Artificial intelligence finds compound that can destroy superbugs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-25-artificial-intelligence-hub-planned-for-orange-county.md",
+      "title": "Artificial intelligence hub planned for Orange County",
+      "excerpt": "HIGHLAND FALLS – A local economic development agency has big ambitions to lure researchers and companies to the Village of Highland Falls to study artificial intelligence ... of tasks normally requiring human intelligence, including visual perception, speech recognition and decision-making. Robots, self-driving cars and missile systems ...",
+      "heat": 169,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.recordonline.com/news/20200224/artificial-intelligence-hub-planned-for-orange-county",
+      "ampWebUrl": "https://www.recordonline.com/news/20200224/artificial-intelligence-hub-planned-for-orange-county?template=ampart",
+      "cdnAmpWebUrl": "https://www-recordonline-com.cdn.ampproject.org/c/s/www.recordonline.com/news/20200224/artificial-intelligence-hub-planned-for-orange-county?template=ampart",
+      "publishedDateTime": "2020-02-24T16:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "recordonline.com",
+        "domain": "recordonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.recordonline.com/apps/pbcsi.dll/bilde?Site=TH&Date=20200224&Category=NEWS&ArtNo=200229625&Ref=AR",
+          "width": 6000,
+          "height": 4000,
+          "title": "Artificial intelligence hub planned for Orange County",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-02-25-ai-chatbot-maker-babylon-health-attacks-clinician-in-pr-stunt-after-he-goes-public-with-safety-concerns.md",
+      "title": "AI chatbot maker Babylon Health attacks clinician in PR stunt after he goes public with safety concerns",
+      "excerpt": "Babylon’s PR also claims that only in 20 instances did Watkins find “genuine errors in our AI”, whereas other instances are couched as ‘misrepresentations’ or “mistakes”, per an unnamed “panel of senior clinicians” which the startup’s PR says “investigated and re-validated every single one” — suggesting the error rate ...",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/02/25/first-do-no-harm/",
+      "ampWebUrl": "https://techcrunch.com/2020/02/25/first-do-no-harm/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/25/first-do-no-harm/amp/",
+      "publishedDateTime": "2020-02-24T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/02/Screenshot-2020-02-26-at-01.21.20.png?w=680",
+          "width": 680,
+          "height": 362,
+          "title": "AI chatbot maker Babylon Health attacks clinician in PR stunt after he goes public with safety concerns",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-25-deepmind-develops-ai-with-an-imagination.md",
       "title": "DeepMind Develops AI With An Imagination",
       "excerpt": "Google is going full Westworld by giving robots the ability to imagine and plan. In the same way a person would look at a glass of water on the edge of a table and consider whether it might fall ...",
@@ -952,141 +1077,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-24-google-ai-chief-dean-sees-evolution-in-mlperf-benchmark-for-machine-learning.md",
-      "title": "Google AI chief Dean sees evolution in MLPerf benchmark for machine learning",
-      "excerpt": "If computer systems are to evolve to handle ever larger machine learning models, a standard way to compare the effectiveness of those systems is essential, according to Google head of AI, Jeff Dean. But that system of measurement itself must evolve over time, he said. \"I think the MLPerf benchmark suite is actually going to be very effective ...",
-      "heat": 118,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/google-ai-chief-dean-sees-evolution-in-mlperf-benchmark-for-ai/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-ai-chief-dean-sees-evolution-in-mlperf-benchmark-for-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-ai-chief-dean-sees-evolution-in-mlperf-benchmark-for-ai/",
-      "publishedDateTime": "2020-02-24T08:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/02/24/47c5d178-a38a-4ccc-8b13-5f32e97779b7/mlperf-benchmarks-for-various-networks.png",
-          "width": 2048,
-          "height": 1261,
-          "title": "Google AI chief Dean sees evolution in MLPerf benchmark for machine learning",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-02-24-googles-ai-detects-adversarial-attacks-against-image-classifiers.md",
-      "title": "Google’s AI detects adversarial attacks against image classifiers",
-      "excerpt": "Defenses against adversarial attacks, which in the context of AI refer to techniques that fool models through malicious input, are increasingly being broken by “defense-aware” attacks. In fact, most state-of-the-art methods claiming to detect adversarial attacks have been counteracted shortly after their publication. To break the cycle ...",
-      "heat": 167,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/24/googles-ai-detects-adversarial-attacks-against-image-classifiers/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-24T08:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/4d7874af-b02e-40f1-8c6a-51d9d85f4d09-e1582563235661.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 774,
-          "title": "Google’s AI detects adversarial attacks against image classifiers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-24-5-reasons-to-choose-pytorch-for-deep-learning.md",
-      "title": "5 reasons to choose PyTorch for deep learning",
-      "excerpt": "While the fast.ai course uses fast.ai’s own library that provides further abstractions on top of PyTorch (making it even easier to get to grips with deep learning), the course also delves deep into the fundamentals, building a PyTorch-like library from scratch, which will give you a thorough understanding of how the internals of PyTorch ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.infoworld.com/article/3528780/5-reasons-to-choose-pytorch-for-deep-learning.html",
-      "ampWebUrl": "https://www.infoworld.com/article/3528780/5-reasons-to-choose-pytorch-for-deep-learning.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3528780/5-reasons-to-choose-pytorch-for-deep-learning.amp.html",
-      "publishedDateTime": "2020-02-24T08:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/02/number-5-on-fire_top-five_five-tips-100750848-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "5 reasons to choose PyTorch for deep learning",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

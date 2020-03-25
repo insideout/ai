@@ -6,8 +6,8 @@ publishedDateTime: 2020-03-24T14:00:25Z
 webUrl: "https://azure.microsoft.com/blog/microsoft-is-expanding-the-azure-stack-edge-with-nvidia-t4-gpu-preview/"
 type: article
 quality: 104
-heat: 114
-published: true
+heat: -1
+published: false
 
 provider:
   name: Microsoft
@@ -38,7 +38,7 @@ related:
     provider:
       name: Neowin
       domain: neowin.net
-    quality: 102
+    quality: 119
     images:
       - url: "https://cdn.neow.in/news/images/uploaded/2019/09/1567329620_azure-4_story.jpg"
         width: 760

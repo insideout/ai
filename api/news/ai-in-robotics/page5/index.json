@@ -2,6 +2,43 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-02-06-music-by-numbers-robot-conducts-human-orchestra.md",
+      "title": "Music by numbers? Robot conducts human orchestra",
+      "excerpt": "For Shibuya, a composer from Japan, the role of robots in our everyday lives may well be increasing, but it is up to us to decide how artificial intelligence might add to the human experience, and humans and androids create art together. “This work is a metaphor of the relations between humans and technology. Sometimes the android will get ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://nypost.com/2020/02/06/music-by-numbers-robot-conducts-human-orchestra/",
+      "ampWebUrl": "https://nypost.com/2020/02/06/music-by-numbers-robot-conducts-human-orchestra/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/02/06/music-by-numbers-robot-conducts-human-orchestra/amp/",
+      "publishedDateTime": "2020-02-06T01:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thenypost.files.wordpress.com/2020/02/robot-homepage.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": "Music by numbers? Robot conducts human orchestra",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-02-06-music-by-numbers-robot-conducts-human-orchestra-in-sharjah.md",
       "title": "Music by numbers? Robot conducts human orchestra in Sharjah",
       "excerpt": "For Shibuya, a composer from Japan, the role of robots in our everyday lives may well be increasing, but it is up to us to decide how artificial intelligence might add to the human experience, and humans and androids create art together. \"This work is a metaphor of the relations between humans and technology. Sometimes the android will get ...",
@@ -1206,43 +1243,6 @@
           "width": 800,
           "height": 449,
           "title": "The 10 Coolest, Silliest, and Most Borderline Insulting TV Pilots of 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-01-28-disruptive-opportunities-can-developing-ai-and-robotics-stabilise-the-naira.md",
-      "title": "Disruptive Opportunities: Can developing AI and robotics stabilise the Naira?",
-      "excerpt": "The massive global investments that are fueling rapidly developing technologies like Artificial Intelligence (AI) and robotics present huge opportunities for Nigeria to pull our currency out from the deep water. Currently, big tech players like the United Kingdom (UK) are outsourcing AI, robotics, and other related jobs to China, where the ...",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://nairametrics.com/2020/01/28/disruptive-opportunities-can-developing-ai-and-robotics-stabilise-the-naira/",
-      "ampWebUrl": "https://nairametrics.com/2020/01/28/disruptive-opportunities-can-developing-ai-and-robotics-stabilise-the-naira/amp/",
-      "cdnAmpWebUrl": "https://nairametrics-com.cdn.ampproject.org/c/s/nairametrics.com/2020/01/28/disruptive-opportunities-can-developing-ai-and-robotics-stabilise-the-naira/amp/",
-      "publishedDateTime": "2020-01-28T04:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nairametrics",
-        "domain": "nairametrics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i0.wp.com/nairametrics.com/wp-content/uploads/2020/01/Robotics.jpg?fit=900%2C563&#038;ssl=1",
-          "width": 900,
-          "height": 563,
-          "title": "Disruptive Opportunities: Can developing AI and robotics stabilise the Naira?",
           "attribution": null
         }
       ],

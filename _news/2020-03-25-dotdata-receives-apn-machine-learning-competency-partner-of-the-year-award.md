@@ -5,8 +5,8 @@ excerpt: "PRNewswire/ -- dotData, focused on delivering full-cycle data science 
 publishedDateTime: 2020-03-25T04:00:00Z
 webUrl: "https://www.prnewswire.com/news-releases/dotdata-receives-apn-machine-learning-competency-partner-of-the-year-award-301029298.html"
 type: article
-quality: 22
-heat: 22
+quality: 37
+heat: 37
 published: false
 
 provider:
@@ -14,7 +14,7 @@ provider:
   domain: prnewswire.com
 
 topics:
-  - AWS AI
+  - Machine Learning
   - AI
 
 images:
@@ -23,6 +23,6 @@ images:
     height: 315
     title: "dotData Receives APN Machine Learning Competency Partner of the Year Award"
 
-secured: "UxyDeqPJrj8+/IVRMLAO6NZwHFEkWTZl+/WADU7o6R+S2YYRuECYDqEjhJ4AwtNs8JAm+eGsfMDz/bl3HlYkjdkvpDgqvUF6+4iW9ywO/4U5Schyi8HDJLPv+NWSPFIMw+vADbLadM/kH361IXfbQ9vmd3sI5phfaQFp1/vQJzb5PkwELJCrFvq/WNIjNKYBBzchbAl4mHk7a2jTTQcYZArrgTUSwVocnRKk7/eQTG5917lkCEXCmnSDdFy1GLMsqqT/Y7BtH90n0xNGqOdq3GcJ703zBeQMY931QVmjN4Xyw/SDMPgglXzxbC2DFYkq;X+pAyY7qao11+NFnPswIUA=="
+secured: "0cGCyaKtPKWzwPYbGIzh14pEPGTlabic3AEf5QGJgd2sNnGkwbvK/6kDyaAlayRg0XaIXS8M6pixezjZ+Rt8E3cSqnS5NoEJF68IXt4HzvJ5K0ETGJdegywFNjTt/agjBCegxbCNLRhmzf41nRET2ojUI7Yc6CX28MtzH3tFn8MUaEUuq68L2wmewzVsi9pecIrKptUgileKODuAV46KWLP8MohNJAip2C1moavNYtJHbEFz4fBfSrn3q0RKHvJvRzOL9Mu1YhrFknLJrQ6MKMM/Tdiyg0YkEeV4BaakNUyz7A6Gxbzv4VfOKRD/gU+8;ae62f2I74M8mrwuzlJ2elg=="
 ---
 

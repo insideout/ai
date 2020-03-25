@@ -2,6 +2,38 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-03-16-artificial-intelligence-ai-market-analysis-trends-growth-industry-size-and-forecast-2025.md",
+      "title": "Artificial Intelligence (AI) Market Analysis, Trends, Growth, Industry Size and Forecast 2025",
+      "excerpt": "BMW, Tesla, and Toyota are also taking interest in robotics and machine learning to develop driverless cars. Get Sample Copy of Artificial Intelligence (AI) Market at: https://www.omrglobal.com/request-sample/artificial-intelligence-market Some of the key players contributing significantly in the growth of AI market include AIBrain, Amazon ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.openpr.com/news/1968035/artificial-intelligence-ai-market-analysis-trends-growth",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-16T00:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics",
+        "Facebook AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-03-16-bmw-says-large-scale-production-of-self-driving-cars-likely-in-next-decade.md",
       "title": "BMW says large-scale production of self-driving cars likely in next decade",
       "excerpt": "BMW and Chinese search giant Baidu are working on a joint project to produce a self-driving car for the Chinese market. The car is said to be in development since 2013, but no launch date has been ...",
@@ -108,6 +140,51 @@
           "width": 1200,
           "height": 628,
           "title": "Artificial intelligence isn’t as smart as it thinks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-14-intels-15-billion-purchase-of-mobileye-shakes-up-driverless-car-sector.md",
+      "title": "Intel's $15 billion purchase of Mobileye shakes up driverless car sector",
+      "excerpt": "The market for self-driving technology ... to Chinese Internet giant Baidu. Shares of systems integrator Delphi Automotive, which has partnerships with Intel and Mobileye, rose 4.0 percent.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2017/03/14/intels-15-billion-purchase-of-mobileye-shakes-up-driverless-car-sector.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2017/03/14/intels-15-billion-purchase-of-mobileye-shakes-up-driverless-car-sector.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2017/03/14/intels-15-billion-purchase-of-mobileye-shakes-up-driverless-car-sector.html",
+      "publishedDateTime": "2020-03-13T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/104338168-mobileye3.jpg?v=1529474476",
+          "width": 849,
+          "height": 478,
+          "title": "Intel's $15 billion purchase of Mobileye shakes up driverless car sector",
           "attribution": null
         }
       ],
@@ -1034,96 +1111,6 @@
           "width": 600,
           "height": 400,
           "title": "The Evolution of E-Commerce: Shaping benefits from emerging technologies",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-03-3-top-artificial-intelligence-stocks-to-watch-in-march.md",
-      "title": "3 Top Artificial Intelligence Stocks to Watch in March",
-      "excerpt": "I like things that go \"boom.\" Sonic or otherwise, that means I tend to gravitate towards defense and aerospace stocks. But to tell the truth, over the course of a dozen years writing for The ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/03/03/3-top-artificial-intelligence-stocks-to-watch-in-m.aspx",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/03/03/3-top-artificial-intelligence-stocks-to-watch-in-m.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/03/03/3-top-artificial-intelligence-stocks-to-watch-in-m.aspx",
-      "publishedDateTime": "2020-03-03T06:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F560874%2Fglowing-android-head-with-the-words-artificial-intelligence.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 675,
-          "title": "3 Top Artificial Intelligence Stocks to Watch in March",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-03-77-autonomous-vehicles-drove-over-500000-miles-across-beijing-in-2019.md",
-      "title": "77 autonomous vehicles drove over 500,000 miles across Beijing in 2019",
-      "excerpt": "Baidu’s 52 cars covered a total of 754,000 ... “We have kind of been waiting for some sort of industry standard,” he said. “Self-driving companies aren’t following the exact same ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/02/77-autonomous-vehicles-drove-over-500000-miles-across-beijing-in-2019/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/02/77-autonomous-vehicles-drove-over-500000-miles-across-beijing-in-2019/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/02/77-autonomous-vehicles-drove-over-500000-miles-across-beijing-in-2019/amp/",
-      "publishedDateTime": "2020-03-02T16:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/11/Hongqi-L4-Car.jpeg?fit=1680%2C987&strip=all",
-          "width": 1680,
-          "height": 987,
-          "title": "77 autonomous vehicles drove over 500,000 miles across Beijing in 2019",
           "attribution": null
         }
       ],

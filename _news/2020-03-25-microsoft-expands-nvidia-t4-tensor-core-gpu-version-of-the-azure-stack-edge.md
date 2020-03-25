@@ -7,9 +7,9 @@ webUrl: "https://www.neowin.net/news/microsoft-expands-nvidia-t4-tensor-core-gpu
 ampWebUrl: "https://www.neowin.net/amp/microsoft-expands-nvidia-t4-tensor-core-gpu-version-of-the-azure-stack-edge/"
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-expands-nvidia-t4-tensor-core-gpu-version-of-the-azure-stack-edge/"
 type: article
-quality: 102
-heat: -1
-published: false
+quality: 119
+heat: 129
+published: true
 
 provider:
   name: Neowin
@@ -22,6 +22,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AI Hardware
 
 images:
   - url: "https://cdn.neow.in/news/images/uploaded/2019/09/1567329620_azure-4_story.jpg"
@@ -44,6 +45,6 @@ related:
         width: 377
         height: 212
 
-secured: "+zazxRyg+c01p0KCxqXRYfG8Ybnb8Mg/AHEQhF5GQ+innkj0RsPdoZMOe/vQUpNQmC67iX5dK4Cm7kM2ZMuViX20z5IFaorzYXuBI9lsfeVtayJRW7bR76YMhA4ZfDxPeWSjeJyvDKBfyH03QSTEW04Xz7QbPakAiNxNhE1BgTYZt1rGxRGZlQBACjnuF4y+FKHdeffR9Fn9iXnyJwMPUo4EH/x6kZN6cKUv9BeiRpqksQyE4FNlhriUAAE1QkDs8OGkxDllJDwxxCZLvLdZ/bNxVWloicwWbjSKY82ITOV/mNqTg8gShKSwCe1OY/z9;vF9MskiMjvfelC2yBKRlMg=="
+secured: "zJe2IJZOnSaoBTYt6gcSBjnBz2KDdfQhDJ/ib/zVSZBWXkkTSGr6cKXMOe7ODLuuWV7T1D//T9XnJA5a97cRLTbWW/6lWkLTogrmcacK2KGMbTuAATJOh1bXeeOXrwQ/fUGTJr28i4xy0643Y81+m1lqlw7B+FkPThsfw3wHiS9lPPTreEP4q+SYoCXyDXxTepwJ6NeeVZCDwqG+T5ovSTGN/gAXzyYag6msQlpNXhyHTMJj9HCUMV0eAu9J+1Hy3d6zy403aCd9IzUenXgdmn7G1dhXBtSk3hk7VqUX23S2OaWVzcVTJdSynFW5bscTxh/xeLF1t2UuPXrpLfAzlU33FnRmtDxYFBWwX0Zrarwh3WfkK7AEPTU2yJexVoBfwFeXhw12TVqLFSMXYx/52V6fchN3lLIrbkhDLpIw8lBY9M9btOAadi5lRNHjlF/XP5q00iadcHuK1OnhxTmalKDnxlGYlSaAFHNKfj/63jk=;r7HqJ7HQ3eEVyetTNZrz+g=="
 ---
 
