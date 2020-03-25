@@ -29,6 +29,6 @@ images:
     height: 2666
     title: "Roboticists: We've missed the mark for pandemic busting robots ... yet again"
 
-secured: "TXY6wXHw1n+kMHqz3mednkPRba8cZXO5vQ138ThR/TtYcLf47Yi9G8IQ7TW/bGa/ckk4kGr9mH4q033xyE/VwcYd+ateMRy85UgwFe33oUlGfrY2wzkSoC4RRA6ABmFMYUs6w9YkzBvyF7AYA0EF60aUrBTV32AEQIKBG1XQAKsXEyCHm8Zv9l6a7CpqTSJz8nmYaBBPOgWxFKZt2KU0+21dEqe3nIe1OOvUEX+pbz+y/mdjh05IVyQUr0MQCJazMvEzTvWAzgaWHvLdKHO7NnDvNePw4tieFn3j38r57EfL97Wy/dxM6D0+Of9pjdE+;IVjwbzHqXDx4l192nON4GQ=="
+secured: "jK0JWRoZ6/Y/fmO7Ab+UX3+vuf3O3JmLTwOHUCyYWocvYwKtvEgrHGpCB5XSe1FIbYJSpSCJX2RkuXk/zlPQilCEtVc+PHHunUM9maYXmABhggGZbNYKYTFLWUPR+qf/3vqpcKvd0U60utUTc1R/Hx3DMEqLhhQgswcN5qZNofnaLR7F8vSVDxl97AlZaOzi6gME9IDAzC3KpcG3B8HCfVXFO3HmsHuwniiGbt8pbi+8xIFEt5bmzExZaP6ut/KdZWNXbpSB0FEQdw99dBAyhDF4NCbYavtjwJsxJj4g0qAam1KcxUrtqHOhvjMzuGM9Xt2AYGNiHGAk5GxuZNyaYv69rb7YVm/6bENwptPUckYQGRSEZ3gVqCynIiwjW2/aCWXN+AWDguNXPShtFtzZOM8zIRszfzFsKmCNooB+7kBRV18ZUP4z+ATjTUR6/5vyOt6Fmg6c3/T4KvbquRz8R1RDna84HmN9QlHsuWMwAEw=;kXjzqNzV35W2jMu3BfYmPw=="
 ---
 

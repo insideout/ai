@@ -2,33 +2,231 @@
   "page": 11,
   "value": [
     {
-      "path": "_news/2020-03-16-closedloopai-announces-release-of-free-open-source-ai-based-tool-to-identify-individuals-vulnerable-to-severe-complications-of-covid-19.md",
-      "title": "ClosedLoop.ai Announces Release of Free Open Source AI-based Tool to Identify Individuals Vulnerable to Severe Complications of COVID-19",
-      "excerpt": "on Amazon’s SageMaker platform, and via ClosedLoop’s HIPAA compliant hosted platform. The CV19 Index is available for use through any of these methods at no cost ClosedLoop has created a forum ...",
+      "path": "_news/2020-03-16-ibms-6-dividend-yield-should-set-a-floor-under-the-stock.md",
+      "title": "IBM's 6% Dividend Yield Should Set a Floor Under the Stock",
+      "excerpt": "Last quarter, only two of IBM's core businesses -- cloud & cognitive software and systems -- posted annual revenue growth. Revenue from its other three business units (global technology services, global business services ... Teresa Kersten, an employee of LinkedIn, a Microsoft subsidiary, is a member of The Motley Fool's board of directors.",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.businesswire.com/news/home/20200316005226/en/ClosedLoop.ai-Announces-Release-Free-Open-Source-AI-based",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-16T05:11:00-07:00",
+      "webUrl": "https://www.nasdaq.com/articles/ibms-6-dividend-yield-should-set-a-floor-under-the-stock-2020-03-16",
+      "ampWebUrl": "https://www.nasdaq.com/articles/ibms-6-dividend-yield-should-set-a-floor-under-the-stock-2020-03-16?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ibms-6-dividend-yield-should-set-a-floor-under-the-stock-2020-03-16?amp",
+      "publishedDateTime": "2020-03-16T09:26:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://mms.businesswire.com/media/20200316005226/en/779842/23/ClosedLoop_Logo.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": "ClosedLoop.ai Announces Release of Free Open Source AI-based Tool to Identify Individuals Vulnerable to Severe Complications of COVID-19",
+          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg?2014824675",
+          "width": 1024,
+          "height": 512,
+          "title": "IBM's 6% Dividend Yield Should Set a Floor Under the Stock",
           "attribution": null
         }
       ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-16-the-amazon-athena-query-federation-sdk-allows-you-to-customize-amazon-athena-with-your-own-data-sources-and-code.md",
+      "title": "The Amazon Athena Query Federation SDK allows you to customize Amazon Athena with your own data sources and code.",
+      "excerpt": "To enable this Preview feature you need to create an Athena workgroup named AmazonAthenaPreviewFunctionality and run any queries attempting to federate to this connector, use a UDF, or SageMaker inference from that workgroup. We've written integrations with more than 20 databases, storage formats, and live APIs in order to refine this interface ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://github.com/awslabs/aws-athena-query-federation",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-16T09:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GitHub",
+        "domain": "github.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://github.com/awslabs/aws-athena-query-federation/raw/master/docs/img/athena_federation_flow.png?raw=true",
+          "width": 608,
+          "height": 552,
+          "title": "The Amazon Athena Query Federation SDK allows you to customize Amazon Athena with your own data sources and code.",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-16-rsip-vision-announces-breakthrough-ai-technology-for-3d-reconstruction-of-knees-from-x-ray-images.md",
+      "title": "RSIP Vision Announces Breakthrough AI technology for 3D Reconstruction of Knees from X-ray Images",
+      "excerpt": "and computer vision technology, announced today a new innovative AI-based solution for 3D Reconstruction of Knees from X-ray Images. This technology provides physicians with a rich 3D modelling of each bone,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.prnewswire.com/news-releases/rsip-vision-announces-breakthrough-ai-technology-for-3d-reconstruction-of-knees-from-x-ray-images-301024885.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-16T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1134403/RSIP_Vision_3D_Reconstruction.jpg?p=facebook",
+          "width": 599,
+          "height": 315,
+          "title": "RSIP Vision Announces Breakthrough AI technology for 3D Reconstruction of Knees from X-ray Images",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-16-the-smart-money-is-on-the-sensors.md",
+      "title": "The Smart Money Is on the Sensors",
+      "excerpt": "With a tracking module connected to the OBD II port and the integration of RFID readers, telematics use cases can be extended to identifying individual drivers and passengers through ID tag swipe. RFID technology allows businesses to, for example, keep ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.rfidjournal.com/articles/view?18461/2",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-16T08:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RFID Journal",
+        "domain": "rfidjournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-16-san-diego-police-da-ban-use-of-facial-recognition-app-but-not-before-it-was-tested.md",
+      "title": "San Diego police, DA ban use of facial recognition app — but not before it was tested",
+      "excerpt": "SAN DIEGO — Imagine a \"search engine for faces.\" That's how a co-founder of Clearview AI has described the facial recognition app, a relatively new tool for law enforcement agencies to use to identify suspected criminals by matching photos of suspects to images and profiles online. With an internal database of more than three billion images ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.policeone.com/police-products/police-technology/police-software/facial-recognition/articles/san-diego-police-da-ban-use-of-facial-recognition-app-but-not-before-it-was-tested-rsOdyj81pbqfpu7K/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-16T07:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PoliceOne",
+        "domain": "policeone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-16-a-look-at-the-tensorflow-ecosystem-in-2020.md",
+      "title": "A look at the TensorFlow ecosystem in 2020",
+      "excerpt": "TensorFlow Dev Summit 2020 took place last week and gave an overview of everything that’s been going on in the world of the machine learning library. While we have been covering TensorFlow, TensorFlow.js, and the recently open sourced TensorFlow Quantum, you may not yet have heard of TF Hub, TFX or TF Lite, so let’s see what they are all about.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://jaxenter.com/tensorflow-2020-169727.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-16T05:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "jaxenter.com",
+        "domain": "jaxenter.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://jaxenter.com/wp-content/uploads/2020/02/MLC_MUN20_Webbanner_Smartblock_550x214_56305_v1.jpg",
+          "width": 550,
+          "height": 214,
+          "title": "A look at the TensorFlow ecosystem in 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-16-closedloopai-announces-release-of-free-open-source-ai-based-tool-to-identify-individuals-vulnerable-to-severe-complications-of-covid-19.md",
+      "title": "ClosedLoop.ai Announces Release of Free Open Source AI-based Tool to Identify Individuals Vulnerable to Severe Complications of COVID-19",
+      "excerpt": "on Amazon's SageMaker platform, and via ClosedLoop's HIPAA compliant hosted platform. The CV19 Index is available for use through any of these methods at no cost ClosedLoop has created a forum at ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/03/b15556274/closedloop-ai-announces-release-of-free-open-source-ai-based-tool-to-identify-individuals-vulnerab",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15556274",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15556274",
+      "publishedDateTime": "2020-03-16T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
@@ -852,244 +1050,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-15-innovative-artificial-intelligence-startups-aim-to-cure-loss-of-vision.md",
-      "title": "Innovative artificial intelligence startups aim to cure loss of vision",
-      "excerpt": "The current protocol to treating this condition would be approaching an eye doctor and undergoing the eye-drop therapy, which blurs the vision in the functional eye to force the brain to rely on the faulty eye as well. It is also worth noting that unsuccessful treatment of this condition in childhood will result in the continued loss of vision ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.thesouthafrican.com/technology/innovative-artificial-intelligence-startups-aim-cure-loss-ision/",
-      "ampWebUrl": "https://www.thesouthafrican.com/technology/innovative-artificial-intelligence-startups-aim-cure-loss-ision/amp/",
-      "cdnAmpWebUrl": "https://www-thesouthafrican-com.cdn.ampproject.org/c/s/www.thesouthafrican.com/technology/innovative-artificial-intelligence-startups-aim-cure-loss-ision/amp/",
-      "publishedDateTime": "2020-03-14T17:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "richest",
-        "domain": "thesouthafrican.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://gcs.thesouthafrican.com/2020/03/cac22bb4-a9dd981c-d8a1-4e3e-b281-581867797063-768x459.jpeg",
-          "width": 768,
-          "height": 459,
-          "title": "Innovative artificial intelligence startups aim to cure loss of vision",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-14-diu-to-host-another-computer-vision-contest.md",
-      "title": "DIU to Host Another Computer Vision Contest",
-      "excerpt": "The Defense Innovation Unit plans to continue its annual prize challenge for computer vision technologies designed to support disaster relief missions, National Defense Magazine reported Thursday. The xView2 Challenge aims to use artificial intelligence and machine learning for automated assessments of post-disaster damage. Last year's ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.executivegov.com/2020/03/diu-to-host-another-computer-vision-contest/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-14T14:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Executive Gov",
-        "domain": "executivegov.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://executivebiz.secure.force.com/archintelmedia/servlet/servlet.FileDownload?file=00Pf300000xogwBEAQ",
-          "width": 272,
-          "height": 270,
-          "title": "DIU to Host Another Computer Vision Contest",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-14-ibm-watson-gains-the-ability-to-understand-complex-topics.md",
-      "title": "IBM Watson Gains The Ability To Understand Complex Topics",
-      "excerpt": "“Language is a tool for expressing thought and opinion, as much as it is a tool for information,” said Rob Thomas, General Manager of IBM Data and AI. “This is why we’re harvesting technology from Project Debater and integrating it into Watson ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://pulse2.com/ibm-watson-complex-topics/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-14T14:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Pulse 2.0",
-        "domain": "pulse2.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.pulse2.com/cdn/2020/03/IBM-Watson.jpg",
-          "width": 1200,
-          "height": 1031,
-          "title": "IBM Watson Gains The Ability To Understand Complex Topics",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-14-aclu-is-demanding-homeland-security-cbp-ice-and-tsa-hand-over-records-on-facial-recognition-at-the-border.md",
-      "title": "ACLU is demanding Homeland Security, CBP, ICE, and TSA hand over records on facial recognition at the border",
-      "excerpt": "Privacy advocates believe that facial recognition, in particular, can enable persistent, undetectable government surveillance on a massive scale that erodes everyone's expectations of privacy. Back in December, the American Civil Liberties Union sued Homeland Security for its 'stingray' phone surveillance program that has long been in use by US ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techspot.com/news/84393-aclu-demanding-homeland-security-cbp-ice-tsa-hand.html",
-      "ampWebUrl": "https://www.techspot.com/amp/news/84393-aclu-demanding-homeland-security-cbp-ice-tsa-hand.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/84393-aclu-demanding-homeland-security-cbp-ice-tsa-hand.html",
-      "publishedDateTime": "2020-03-14T07:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/ts3_thumbs/2019/05/2019-05-25-ts3_thumbs-5f3.jpg",
-          "width": 800,
-          "height": 560,
-          "title": "ACLU is demanding Homeland Security, CBP, ICE, and TSA hand over records on facial recognition at the border",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-14-tensorflow-quantum-joins-quantum-computing-and-machine-learning.md",
-      "title": "TensorFlow Quantum Joins Quantum Computing and Machine Learning",
-      "excerpt": "TensorFlow Quantum (TFQ) brings Google quantum computing framework Cirq and TensorFlow together to enable the creation of quantum machine learning (ML) models. We’ve used TensorFlow Quantum for hybrid quantum-classical convolutional neural networks, machine learning for quantum control, layer-wise learning for quantum neural networks ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.infoq.com/news/2020/03/google-quantum-tensorflow/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-14T04:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2020/03/google-quantum-tensorflow/en/headerimage/google-quantum-tensorflow-1584182115639.jpeg",
-          "width": 2121,
-          "height": 1414,
-          "title": "TensorFlow Quantum Joins Quantum Computing and Machine Learning",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-14-ai-is-coming-for-your-most-mind-numbing-office-tasks.md",
-      "title": "AI Is Coming for Your Most Mind-Numbing Office Tasks",
-      "excerpt": "Such reservations seem unlikely to dampen believers’ enthusiasm, though. Guy Kirkwood, the chief evangelist at UiPath, says the vision is for software robots to be a lot more like the AI of science fiction, eventually taking over how they are programmed from start to finish. “The direction of travel—and we’re not there yet—is that we ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/ai-coming-most-mind-numbing-office-tasks/",
-      "ampWebUrl": "https://www.wired.com/story/ai-coming-most-mind-numbing-office-tasks/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-coming-most-mind-numbing-office-tasks/amp",
-      "publishedDateTime": "2020-03-14T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg",
-          "width": 800,
-          "height": 450,
-          "title": "AI Is Coming for Your Most Mind-Numbing Office Tasks",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

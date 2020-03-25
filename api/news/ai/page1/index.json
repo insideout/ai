@@ -2,6 +2,186 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-03-25-ibms-ai-generates-videos-of-chairs-golfers-and-more.md",
+      "title": "IBM’s AI generates videos of chairs, golfers, and more",
+      "excerpt": "While this in and of itself isn’t novel — it’s an acute area of interest for Alphabet’s DeepMind and others — the researchers say the approach produces superior quality videos compared with existing methods. If the claim holds water, their system could be used to synthesize videos on which other AI systems train, supplementing real ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/25/ibms-ai-generates-videos-of-chairs-golfers-and-more/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/25/ibms-ai-generates-videos-of-chairs-golfers-and-more/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/25/ibms-ai-generates-videos-of-chairs-golfers-and-more/amp/",
+      "publishedDateTime": "2020-03-25T12:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/ibm-keyboard-logo.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "IBM’s AI generates videos of chairs, golfers, and more",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-sleeping-in-self-driving-cars-its-no-pipe-dream.md",
+      "title": "Sleeping in Self-Driving Cars? It’s No Pipe Dream",
+      "excerpt": "When you absolutely, positively have to get there overnight, autonomous sleeper cars may be your best bet in the future, says Dan Neil",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/sleeping-in-self-driving-cars-its-no-pipe-dream-11585165420",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/sleeping-in-self-driving-cars-its-no-pipe-dream-11585165420",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/sleeping-in-self-driving-cars-its-no-pipe-dream-11585165420",
+      "publishedDateTime": "2020-03-25T12:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-168010/social",
+          "width": 1280,
+          "height": 640,
+          "title": "Sleeping in Self-Driving Cars? It’s No Pipe Dream",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-ai-is-searching-for-unexploded-vietnam-war-bombs-in-cambodia.md",
+      "title": "AI is searching for unexploded Vietnam War bombs in Cambodia",
+      "excerpt": "The system uses object recognition algorithms that detect the unique features of bomb craters, including their shapes, colors, textures, and sizes. These algorithms then scan satellite images for ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/03/25/ai-is-searching-for-unexploded-vietnam-war-bombs-in-cambodia/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/03/25/ai-is-searching-for-unexploded-vietnam-war-bombs-in-cambodia/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/03/25/ai-is-searching-for-unexploded-vietnam-war-bombs-in-cambodia/amp/",
+      "publishedDateTime": "2020-03-25T11:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/Untitled-design38-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "AI is searching for unexploded Vietnam War bombs in Cambodia",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-robots-could-help-us-combat-future-pandemics-heres-how-experts-wish-they-could-help-us-now.md",
+      "title": "Robots could help us combat future pandemics. Here's how experts wish they could help us now",
+      "excerpt": "Experts agree that robots could take over the \"dull, dirty and dangerous\" jobs humans are currently fulfilling during the coronoavirus pandemic.",
+      "heat": 78,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://edition.cnn.com/2020/03/25/world/robots-pandemics-coronavirus-scn/index.html",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/03/25/world/robots-pandemics-coronavirus-scn/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/03/25/world/robots-pandemics-coronavirus-scn/index.html",
+      "publishedDateTime": "2020-03-25T11:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200325135630-01-coronavirus-robot-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": "Robots could help us combat future pandemics. Here's how experts wish they could help us now",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-25-robots-could-be-trained-to-help-combat-the-coronavirus-pandemic.md",
       "title": "Robots could be trained to help combat the coronavirus pandemic",
       "excerpt": "The 'dull, dirty and dangerous jobs' could be automated, but we would need to add many new functionalities to machines first, US roboticists argued in a journal editorial.",
@@ -87,7 +267,7 @@
       "path": "_news/2020-03-25-the-covid-19-pandemic-is-a-crisis-that-robots-were-built-for.md",
       "title": "The Covid-19 Pandemic Is a Crisis That Robots Were Built For",
       "excerpt": "Ever more sophisticated robots and AI are augmenting human workers, rather than replacing them entirely ... argue a dozen roboticists in an editorial out today in the journal Science Robotics. Perhaps “people start to reflect that for situations such as this, how robots can be used not only to help with in terms of social distancing, but ...",
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.wired.com/story/covid-19-pandemic-robots/",
@@ -259,6 +439,44 @@
       "topics": [
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-stuck-at-home-why-not-let-an-edgy-gpu-boosted-slice-of-azure-keep-you-company.md",
+      "title": "Stuck at home? Why not let an edgy, GPU-boosted slice of Azure keep you company?",
+      "excerpt": "The purpose of Azure Stack Edge is to shunt processing out of the cloud to where the local ... The expansion includes the incarnation with the Nvidia T4 Tensor Core GPU, which will allow those with machine learning needs to benefit from the hardware acceleration afforded by the exotic chippery. Naturally, Microsoft is cock-a-hoop about its ...",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theregister.co.uk/2020/03/25/azure_stack_edge_gpu/",
+      "ampWebUrl": "https://www.theregister.co.uk/AMP/2020/03/25/azure_stack_edge_gpu/",
+      "cdnAmpWebUrl": "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/03/25/azure_stack_edge_gpu/",
+      "publishedDateTime": "2020-03-25T08:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Register",
+        "domain": "theregister.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2019/05/30/lonely.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": "Stuck at home? Why not let an edgy, GPU-boosted slice of Azure keep you company?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
       ]
     },
     {
@@ -1097,220 +1315,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-24-ai-events-and-conferences-moving-online.md",
-      "title": "AI Events And Conferences Moving Online",
-      "excerpt": "It simply is not life-as-usual for event and training organizers who need to satisfy the still-strong hunger for information, connection, education, marketing, and networking that customers, technology providers,",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/03/24/ai-events-and-conferences-moving-online/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/03/24/ai-events-and-conferences-moving-online/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/03/24/ai-events-and-conferences-moving-online/amp/",
-      "publishedDateTime": "2020-03-24T10:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e7a48ae10380d0006fbfb0a%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "AI Events And Conferences Moving Online",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-24-researchers-propose-paradigm-that-trains-ai-agents-through-evolution.md",
-      "title": "Researchers propose paradigm that trains AI agents through evolution",
-      "excerpt": "A paper published by researchers at Carnegie Mellon University, San Francisco research firm OpenAI, Facebook AI Research, and the University of California, Berkeley, and Shanghai Jiao Tong University describes a paradigm that scales up multi-agent reinforcement learning, where AI models learn by having agents interact within an environment such ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/24/researchers-propose-paradigm-that-trains-ai-agents-through-evolution/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/24/researchers-propose-paradigm-that-trains-ai-agents-through-evolution/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/24/researchers-propose-paradigm-that-trains-ai-agents-through-evolution/amp/",
-      "publishedDateTime": "2020-03-24T10:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/AI_winter-e1585070939495.jpg?fit=1200%2C602&strip=all",
-          "width": 1200,
-          "height": 602,
-          "title": "Researchers propose paradigm that trains AI agents through evolution",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-24-artificial-intelligence-in-healthcare-why-transparency-matters.md",
-      "title": "Artificial Intelligence in Healthcare: Why Transparency Matters",
-      "excerpt": "The growing presence of artificial intelligence during the care delivery process continues to show potential ... algorithms and machine learning to accurately detect cancer and heart disease; and robot-assisted therapy for recovering stroke patients. “We’re getting to a point where machines can start telling us things we don’t know ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://healthtechmagazine.net/article/2020/03/artificial-intelligence-healthcare-why-transparency-matters-perfcon",
-      "ampWebUrl": "https://healthtechmagazine.net/article/2020/03/artificial-intelligence-healthcare-why-transparency-matters-perfcon?amp",
-      "cdnAmpWebUrl": "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2020/03/artificial-intelligence-healthcare-why-transparency-matters-perfcon?amp",
-      "publishedDateTime": "2020-03-24T10:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HealthTech",
-        "domain": "healthtechmagazine.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202003/20200324_HT_Web_HIMSS-AI-panel_0.jpg?itok=NPF-w-tz",
-          "width": 1440,
-          "height": 500,
-          "title": "Artificial Intelligence in Healthcare: Why Transparency Matters",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-24-researchers-use-ai-to-find-link-between-nature-and-happiness.md",
-      "title": "Researchers use AI to find link between nature and happiness",
-      "excerpt": "A cross-disciplinary group of researchers used AI as part of an analysis of photos posted online that recognizes an association between happiness, life satisfaction, and nature. Researchers from universities in Australia and Singapore say the analysis demonstrates the biophilia hypothesis that humans are naturally attracted to nature and people ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/24/researchers-use-ai-to-find-link-between-nature-and-happiness/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/24/researchers-use-ai-to-find-link-between-nature-and-happiness/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/24/researchers-use-ai-to-find-link-between-nature-and-happiness/amp/",
-      "publishedDateTime": "2020-03-24T10:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/emma-simpson-mNGaaLeWEp0-unsplash.jpg?fit=1800%2C900&strip=all",
-          "width": 1800,
-          "height": 900,
-          "title": "Researchers use AI to find link between nature and happiness",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-24-ai-snitches-on-naughty-brits-who-wont-stay-home-during-coronavirus-pandemic.md",
-      "title": "AI snitches on naughty Brits who won’t stay home during coronavirus pandemic",
-      "excerpt": "The decision to place the UK on a police-enforced lockdown couldn’t have come sooner, new AI analysis of traffic footage has revealed. Until last night, Brits had been merely been advised to avoid “non-essential” travel. Not many of them were listening, according to research by Vivacity Labs, a startup that makes camera-based traffic sensors.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/03/24/ai-snitches-on-naughty-brits-who-wont-stay-home-during-coronavirus-pandemic/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/03/24/ai-snitches-on-naughty-brits-who-wont-stay-home-during-coronavirus-pandemic/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/03/24/ai-snitches-on-naughty-brits-who-wont-stay-home-during-coronavirus-pandemic/amp/",
-      "publishedDateTime": "2020-03-24T10:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/Untitled-design36-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "AI snitches on naughty Brits who won’t stay home during coronavirus pandemic",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

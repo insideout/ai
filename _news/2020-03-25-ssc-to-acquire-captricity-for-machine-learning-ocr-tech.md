@@ -23,6 +23,6 @@ images:
     height: 356
     title: "SS&C To Acquire Captricity For Machine Learning OCR Tech"
 
-secured: "gH9CSCNZSh13qBVpZUP3M34uRCn2oTbKp0yLmcpjje/zRiO6cdBDy+v6lILkdKicg+ax6PnjVVHw8KZTcBVsJ2YpsJrEVntRmo96xCkAaHUgfXoLcxeb+IajsmvKEPZzhzy3J0tvFRfRuBNBYgYdFw1OuySz9usZBHhGVCZIjFRYWijR/o0OWLksuu9x+lNjTMgWBnD3naTBQ4au0EfzmjJcMWHm3YNOul+9MuWXCBLBPLuxNQ3Wyr6yNk1wcsQGf5wvdisO/rOovTuFAALKW/68JwXj1JcD8Bhb/T1K1X2f0caxHmNWc8gOuC/FW1Z2;JP3tIMXHPmfWntHwLCRzjA=="
+secured: "0zUPGGYmHQtTOAKU/EbCYNEBK23cm6BJmVlkt6xcbB+LSKewP/iD/D2HKbtPr7+S71j77cDQgVRSJpTaxZVQrywQRcPvENfAdusBz3dangTgANKEJNSf5+tMd7whcVcnZihSxMDyEzkOsxGf0dj1Qg1PXkWGadrXkwzOpEwZitWYJm9PL9HonaejHd2iEaQX//+T/QeKUnhftblehFeORq7eA0XHKTsTmjiCKYViiNp85XvyNPdTeMwfxI6eonvu/ADBj2CSqdN26H+8wCmjLEz/PBQZ/V+NdVvb+Tga5aNkNvjO8ycr+JGs/eZ+yquPJva2v7HOyJpWn9JBPjgFwqO5WZufT4gA0gQxfxF5qX8WqrXNhM1ckFggi1xGBXO4LYL2aGwBQQdCFilBQW5Zqlzyn2XfXgG2LrlDaWAIESemyf3rHiv3r+CBGVCB4+UFEFibTmbEBJ1xHTYxip8xsiAadkZbc/9QolPha/KUWxM=;t8C3Y/r6fvlhTxqV7RAU9w=="
 ---
 

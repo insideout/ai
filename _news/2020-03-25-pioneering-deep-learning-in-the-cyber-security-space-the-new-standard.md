@@ -23,6 +23,21 @@ images:
     height: 570
     title: "Pioneering deep learning in the cyber security space: the new standard?"
 
-secured: "XUQrmO5JPx0jAUNi6tvWLmOMwN7qtZ4WXXIeuP8f9EJattiN8OYvjeLnEOLmoKC80D1nN9u7oEsWAKNc4csuAE2xr5aVcWEpc9pmb8qlAtgh66Urnmc1rGsxTFMg61TiiP9Qyq6EmBIJd3b0o8CvJtnXM6UjSOczdH7bNHSwbauYb3S2y9AQnplXS3kGFRdhb0El7LEZV97NPA5s0b7Bq8PxoVLfBrcsIlnfr9A0TIK1ktjso30R/hTcAYUHISjlcrEN9P19SGpTmORlGj6auvck94zcPcWFof6ckb4MgOnuiOUVSlp/ZO3Dr2Z+hg6V;ILk2XQArVEsjT2m3Wn+4pQ=="
+related:
+  - title: "The Promise of Intelligent Cybersecurity Is Starting to Come True, Slowly"
+    excerpt: "Microsoft Azure, Amazon Web Services, and most recently Google Cloud Platform have all been ... But attackers are getting better at spotting sandboxing, and it takes human expertise to analyze behavior of the sandboxed application. AI can make sandboxes seem more realistic to attackers while also helping analyze the applications’ behavior."
+    publishedDateTime: 2020-03-25T19:27:00Z
+    webUrl: "https://www.datacenterknowledge.com/security/promise-intelligent-cybersecurity-starting-come-true-slowly"
+    type: article
+    provider:
+      name: Data Center Knowledge
+      domain: datacenterknowledge.com
+    quality: 23
+    images:
+      - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/data%20center%20network%20art%202.jpg"
+        width: 3500
+        height: 2334
+
+secured: "E4oExR3Wko441YFv5IiC7DWzqMqlxZcWNXBspLVrvTa2xXupqqfcMHHa+K2Z3Mzw/3jVGvzOvv4C4cq1WrFI+FONClKKs7xoR7RnNLLUuD8FyyCbS3y/fNJO1HbABPlzvZWfHNirC6DXxfkLFlm4ZMLLpR/yRLPWY+ddHkOu5S9iNmL/6zQovCcSZ9gYkEMkUKQf2qtwnWG2VJPmb/4AbwJxFRyFv/u9W0Am1s2oVUAB7S/EcPDOf6djvzIpqa5f3aQ9nbdNaYiAiPF1HEiwPVQYQi4/I/l/vFup4KzaZCh4fkxWiPaMkyL+fvQbKKiuT3uqxeJ0U0qqflWDGF54tTZR96nkNoymyBcMa6MPVfEfJffwmEWKt7EEvzw7vOf3MEdZoluAn25Rpag2Wie7CjJO09MhupaXcNx3N3hEgyXlUDP5NY72rNDb4AxPz+oXDIUoJRMxsRo0R4vFpp4DdB8Nod+yEI8jPiSihn/ps8k=;iBNhdzZTFSiMw9YNyjXXGg=="
 ---
 

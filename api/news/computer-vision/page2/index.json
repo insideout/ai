@@ -2,6 +2,52 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-03-13-computer-vision-for-quality-control-cross-industrial-applications.md",
+      "title": "Computer Vision For Quality Control: Cross-Industrial Applications",
+      "excerpt": "Computer vision and machine learning can significantly augment the current activities of millions of workers, improve the accuracy level of operations and decrease the number of errors.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/13/computer-vision-for-quality-control-cross-industrial-applications/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/13/computer-vision-for-quality-control-cross-industrial-applications/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/03/13/computer-vision-for-quality-control-cross-industrial-applications/amp/",
+      "publishedDateTime": "2020-03-13T04:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F03%2Fa-58.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "Computer Vision For Quality Control: Cross-Industrial Applications",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-03-13-facial-recognition-merely-a-lead-and-not-proof-of-someones-involvement-in-crime-says-new-nypd-policy.md",
       "title": "Facial recognition ‘merely a lead’ and not proof of someone’s involvement in crime, says new NYPD policy",
       "excerpt": "Cops can use facial recognition software to identify criminal suspects — but any match is “merely a lead” and not probable cause that someone is connected to a crime, NYPD Commissioner Dermot Shea said Friday. “It is our responsibility to ensure investigators are equipped with effective technologies to bring justice to New Yorkers who ...",
@@ -1105,52 +1151,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-02-26-deep-learning-advances-are-boosting-computer-vision-but-theres-still-clear-limits.md",
-      "title": "Deep learning advances are boosting computer vision — but there’s still clear limits",
-      "excerpt": "The efforts have led to the emergence of computer vision, a vast subfield of AI and computer science that deals with processing the content of visual data. In recent years, computer vision has taken great leaps thanks to advances in deep learning and artificial neural networks. Deep learning is a branch of AI that is especially good at ...",
-      "heat": 119,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/02/26/computer-vision-applications-the-power-and-limits-of-deep-learning-syndication/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/02/26/computer-vision-applications-the-power-and-limits-of-deep-learning-syndication/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/26/computer-vision-applications-the-power-and-limits-of-deep-learning-syndication/amp/",
-      "publishedDateTime": "2020-02-26T07:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/4-1-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": "Deep learning advances are boosting computer vision — but there’s still clear limits",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision",
-        "Machine Learning"
       ]
     }
   ],

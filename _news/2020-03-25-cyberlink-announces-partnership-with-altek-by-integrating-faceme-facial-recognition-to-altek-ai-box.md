@@ -23,6 +23,6 @@ images:
     height: 627
     title: "CyberLink announces partnership with Altek by integrating FaceMe® facial recognition to Altek AI BOX"
 
-secured: "tfMhlNwrt5v/vYlTYNSK1Jyp8yJExTcxqV93lgs2AE4m3wikXc0o/Ghlm+KOUe/pVN7DIYTc2Upn6UGvtmYT8lWRxW0XKahlBgSiLU0ka7pL2/4Ygm6bFWEPgFcR0de5fEyqWng98UqdKvPD7TS+MltdZvhfN+ahMlOxoPeMLdkm/Abv5rhClGldATmY6EZodz8q0dbUyvyVVemiznn/Q/mdGWO4tSakiMlJrGlYu5sDM6CpYiAZ7j+2yaR5axJ3kgmJEvxEeysW/T6yn0MAY9PGCJk1P5ajbHeCUHTGDxmjcNOWZ6MK4EhGL3HYOEP4;tT8hp6sGQof9OCrdUyr6Mw=="
+secured: "LPP7J7gGjdxDTtAxE7jWdKY92e/jxsgRPE/APzG90Vp7/eL76CtKGD409tjYs7ku7w01P9It6hM/eBpKPMNKjYbrrRvA5p9w6asTrkVokoxshz8OhzDuPJAq5RzZIGbDYAqZOMoptSgsZ3iEPhWNb6ZSPVR4QDEw+ONPxlmsngX84wkLc4p2jG76fGEkHOSC34+MYw/fUWVR9QCbrQ1rDtipkIwAuPQMiwy/zvUma/RCywVw+3/TAujl0kR3JC7W9Zyi+84ugNaY9PVH4vAmBgc+zIvt55EmC/4GXuYKZP6+0tvBTz70Hr8GfcVmlwDOveR5XdSaKpCpiO3p2pvu61/IFoJSiDKo8HDlD45ZyoeHoA3WZQe/MIqoEfx/SdBJCCBPPoGG+BNwyVaCVZlIA1gbfoMx9CHLnTGEpD8YijoCFslNyN49aK7G4O5OsvRQSo3oSJLxW1WUOd/L2NFdc3+GtJSD9fUuHlfQqy4IlzM=;bGOLDYv9gImrRj/MaSrKtA=="
 ---
 

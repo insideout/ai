@@ -2,6 +2,244 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-03-17-multithreaded-cores-handle-machine-learning-chores.md",
+      "title": "Multithreaded Cores Handle Machine-Learning Chores",
+      "excerpt": "The cores and software support are designed to handle real-time communication between the cores. This is facilitated by the switch that connects everything, including the new vector-processing unit, DSP support, machine-learning support, and cryptographic support. This distribution keeps the RISC cores simple while providing access to the ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.electronicdesign.com/industrial-automation/article/21126392/multithreaded-cores-handle-machinelearning-chores",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-17T12:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electronic Design",
+        "domain": "electronicdesign.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-all-the-companies-from-y-combinators-w20-demo-day-part-iii-hardware-robots-ai-and-developer-tools.md",
+      "title": "All the companies from Y Combinator’s W20 Demo Day, Part III: Hardware, Robots, AI and Developer Tools",
+      "excerpt": "These are the companies that are working on hardware, robotics, AI, machine learning or tools for developers ... Morphle: Designed to replace outdated analog microscopes, Morphle’s system uses robotic automation to improve imaging. The startup processes higher-resolution images than far pricier systems and with a much smaller failure rate.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/03/17/all-the-companies-from-y-combinators-w20-demo-day-part-iii-hardware-robots-ai-and-developer-tools/",
+      "ampWebUrl": "https://techcrunch.com/2020/03/17/all-the-companies-from-y-combinators-w20-demo-day-part-iii-hardware-robots-ai-and-developer-tools/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/03/17/all-the-companies-from-y-combinators-w20-demo-day-part-iii-hardware-robots-ai-and-developer-tools/amp/",
+      "publishedDateTime": "2020-03-17T12:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/03/agnoris.png?w=680",
+          "width": 680,
+          "height": 412,
+          "title": "All the companies from Y Combinator’s W20 Demo Day, Part III: Hardware, Robots, AI and Developer Tools",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-all-the-companies-from-y-combinators-w20-demo-day-part-iv-healthcare-biotech-fintech-and-nonprofits.md",
+      "title": "All the companies from Y Combinator’s W20 Demo Day, Part IV: Healthcare, Biotech, Fintech and Nonprofits",
+      "excerpt": "Menten AI: Menten AI says it’s using “quantum computing and machine learning” combined ... Fondeadora: Fondeadora is joining Mexico’s saturated fintech scene, with its alternative neobanking debit card. The company offers a fully mobile digital savings account run within its app. Fondeadora says it has 65,000 users and $6.5 million ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/03/17/all-the-companies-from-y-combinators-w20-demo-day-part-iv-healthcare-biotech-fintech-and-nonprofits/",
+      "ampWebUrl": "https://techcrunch.com/2020/03/17/all-the-companies-from-y-combinators-w20-demo-day-part-iv-healthcare-biotech-fintech-and-nonprofits/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/03/17/all-the-companies-from-y-combinators-w20-demo-day-part-iv-healthcare-biotech-fintech-and-nonprofits/amp/",
+      "publishedDateTime": "2020-03-17T12:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/03/newmans.png?w=680",
+          "width": 680,
+          "height": 365,
+          "title": "All the companies from Y Combinator’s W20 Demo Day, Part IV: Healthcare, Biotech, Fintech and Nonprofits",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-the-army-will-soon-be-able-to-command-robot-tanks-with-artificial-intelligence.md",
+      "title": "The Army Will Soon Be Able to Command Robot Tanks With Artificial Intelligence",
+      "excerpt": "Smaller robots such as IED-clearing PackBots have been in existence for more than a ... machine interface are reinforced by an interesting 2015 essay in the “International Journal of Advanced Research in Artificial Intelligence,” which points to networking, command and control and an ability to integrate with existing technologies as ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://nationalinterest.org/blog/buzz/army-will-soon-be-able-command-robot-tanks-artificial-intelligence-133932",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-17T12:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The National Interest",
+        "domain": "nationalinterest.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://nationalinterest.org/sites/default/files/main_images/A49%20%281%29_0.jpg",
+          "width": 1305,
+          "height": 835,
+          "title": "The Army Will Soon Be Able to Command Robot Tanks With Artificial Intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-azure-admins-cold-sweat-likely-caused-by-a-isolated-power-problems-that-browned-out-west-central-usa-region.md",
+      "title": "Azure admins' cold sweat likely caused by a 'isolated' power problems that browned out West Central USA region",
+      "excerpt": "That upgrade from Java 8 to 11 you've been putting off? UK fintech types at Revolut 'quite happy' after a year in production As if the world doesn't have enough to worry about right now, Azure users with resources running in the Microsoft cloud's Central West USA region have just enjoyed an outage. The problem took out virtual machines and SQL ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theregister.co.uk/2020/03/15/azure_outage_west_central_usa/",
+      "ampWebUrl": "https://www.theregister.co.uk/AMP/2020/03/15/azure_outage_west_central_usa/",
+      "cdnAmpWebUrl": "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/03/15/azure_outage_west_central_usa/",
+      "publishedDateTime": "2020-03-17T12:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Register",
+        "domain": "theregister.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2018/09/13/shutterstock_panic.jpg",
+          "width": 648,
+          "height": 432,
+          "title": "Azure admins' cold sweat likely caused by a 'isolated' power problems that browned out West Central USA region",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-biotech-company-uses-machine-learning-to-find-coronavirus-therapies.md",
+      "title": "Biotech Company Uses Machine Learning to Find Coronavirus Therapies",
+      "excerpt": "AbCellera, a Canadian biotechnology startup that uses machine learning to develop antibody therapies, finds itself on the front lines of the Covid-19 global pandemic.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/biotech-company-uses-machine-learning-to-find-coronavirus-therapies-11584437401",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-17T11:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://si.wsj.net/public/resources/images/B3-GI211_antibo_SOC_20200316172104.jpg",
+          "width": 900,
+          "height": 471,
+          "title": "Biotech Company Uses Machine Learning to Find Coronavirus Therapies",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-17-artificial-intelligence-for-the-diagnosis-of-diabetic-retinopathy-an-interview-with-michael-d-abramoff-md-phd.md",
       "title": "Artificial Intelligence for the Diagnosis of Diabetic Retinopathy: An Interview With Michael D. Abramoff, MD, PhD",
       "excerpt": "Michael D. Abramoff, MD, PhD, is the Robert C. Watzke, MD Professor of ophthalmology and visual sciences at the University of Iowa Carver College of Medicine. He is also a professor of electrical and computer engineering and a professor of biomedical engineering at the University of Iowa.",
@@ -589,43 +827,6 @@
       ]
     },
     {
-      "path": "_news/2020-03-17-rpa-and-artificial-intelligence-five-questions.md",
-      "title": "RPA and Artificial Intelligence - Five Questions",
-      "excerpt": "Today, we see this most commonly in financial services, but we expect to see more Automation CoEs in manufacturing and healthcare in 2020. One of the big goals of process automation is the ability to speed accurate decision-making to accelerate cycle time.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.tmcnet.com/usubmit/-rpa-artificial-intelligence-five-questions-/2020/03/17/9116449.htm",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-17T07:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg",
-          "width": 252,
-          "height": 335,
-          "title": "RPA and Artificial Intelligence - Five Questions",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-03-17-intels-innovative-approach-to-data-encryption-could-advance-ai-and-machine-learning.md",
       "title": "Intel’s innovative approach to data encryption could advance AI and machine learning",
       "excerpt": "This week, theCUBE features Casimir Wierzynski as its Guest of the Week. Wierzynski is one of the leading voices in a movement for Privacy-Preserving Machine Learning, or PPML. The goal of PPML is to combine complementary technologies so that machine learning can use data for training models without sacrificing the anonymity of personal ...",
@@ -770,191 +971,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-10-ways-googles-deepmind-uses-ai-across-the-globe.md",
-      "title": "10 ways Google's DeepMind uses AI across the globe",
-      "excerpt": "DeepMind has attracted mixed headlines since Google paid $50 million for the U.K.-based AI startup in 2014. The awe inspired by DeepMind's AlphaGo system defeating Go world champion Lee Sedol was soon tempered by criticisms of its controversial access to personal health records, which the ICO ruled had breached the Data Protection Act ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.idginsiderpro.com/article/3533048/10-ways-googles-deepmind-uses-ai-across-the-globe.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-17T06:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "idginsiderpro",
-        "domain": "idginsiderpro.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2019/11/ai_artificial_intelligence_neural_networks_technology_brain_by_4x-image_gettyimages_997524096-100817778-large.3x2.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "10 ways Google's DeepMind uses AI across the globe",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-tyler-technologies-micropact-global-alliance-members-secure-major-vocational-rehabilitation-and-employment-contract.md",
-      "title": "Tyler Technologies’ MicroPact Global Alliance Members Secure Major Vocational Rehabilitation and Employment Contract",
-      "excerpt": "The completed project will be hosted on Amazon Web Services (AWS) and will feature 2,500 seats of Tyler’s Entellitrak ® solution ... Chainbridge Solutions leverages technologies such as Artificial Intelligence, Robotic Process Automation, and Machine Learning to deliver the next generation of case management solutions.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businesswire.com/news/home/20200317005053/en/Tyler-Technologies’-MicroPact-Global-Alliance-Members-Secure",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-17T06:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200317005053/en/257505/23/tyler_logo_RGB.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": "Tyler Technologies’ MicroPact Global Alliance Members Secure Major Vocational Rehabilitation and Employment Contract",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-computer-vision-and-image-analysis-online-course-offered-by-microsoft.md",
-      "title": "Computer Vision and Image Analysis online course offered by Microsoft",
-      "excerpt": "Computer Vision is the art of distilling actionable information from images. In this hands-on course, we'll learn about Image Analysis techniques using Python packages like PIL, Scikit-Image, Open CV, and others. You'll then explore machine learning for computer vision, including deep learning techniques for image classification, object ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.sakshieducation.com/Story.aspx?cid=0&sid=0&chid=0&tid=0&nid=261255",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-17T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sakshi Education",
-        "domain": "sakshieducation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.sakshieducation.com/images/logo.png",
-          "width": 510,
-          "height": 300,
-          "title": "Computer Vision and Image Analysis online course offered by Microsoft",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-runai-announces-general-availability-of-its-k8s-based-deep-learning-virtualization-platform.md",
-      "title": "Run:AI Announces General Availability of Its K8s-based Deep Learning Virtualization Platform",
-      "excerpt": "/PRNewswire/ -- Run:AI, a company virtualizing AI infrastructure, today announced the general availability of its deep learning virtualization platform.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.prnewswire.com/news-releases/runai-announces-general-availability-of-its-k8s-based-deep-learning-virtualization-platform-301025455.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-17T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
-          "width": 600,
-          "height": 315,
-          "title": "Run:AI Announces General Availability of Its K8s-based Deep Learning Virtualization Platform",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-socionext-prototypes-low-power-ai-chip-with-quantized-deep-neural-network-engine.md",
-      "title": "Socionext Prototypes Low-Power AI Chip with Quantized Deep Neural Network Engine",
-      "excerpt": "/PRNewswire/ -- Socionext Inc. has developed a prototype chip that incorporates newly-developed quantized Deep Neural Network (DNN) technology,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.prnewswire.com/news-releases/socionext-prototypes-low-power-ai-chip-with-quantized-deep-neural-network-engine-301025274.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-17T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/196435/socionext_inc_logo.jpg?p=facebook",
-          "width": 2300,
-          "height": 1207,
-          "title": "Socionext Prototypes Low-Power AI Chip with Quantized Deep Neural Network Engine",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

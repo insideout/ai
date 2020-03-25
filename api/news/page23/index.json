@@ -2,6 +2,252 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2020-03-07-artificial-intelligence-is-making-artificial-intelligence-easier-to-build.md",
+      "title": "Artificial intelligence is making artificial intelligence easier to build",
+      "excerpt": "Artificial intelligence and machine learning will automate many business and life tasks, from driving trucks to piloting ships to handling customer calls ... enterprise decisions is the next great frontier for AI and machine-learning. Already, \"self-managing infrastructure is relatively common. We see this in both infrastructure as a service ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/artificial-intelligence-is-making-artificial-intelligence-easier-to-build/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/artificial-intelligence-is-making-artificial-intelligence-easier-to-build/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/artificial-intelligence-is-making-artificial-intelligence-easier-to-build/",
+      "publishedDateTime": "2020-03-07T05:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/03/07/3aee11ac-fb4f-445a-9893-3522813304b4/building-with-lights-windows-cropped-photo-by-joe-mckendrick.jpg",
+          "width": 480,
+          "height": 555,
+          "title": "Artificial intelligence is making artificial intelligence easier to build",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-07-tensorflow-object-detection-api-for-indian-driving-datasetidd-in-windows-10.md",
+      "title": "Tensorflow object detection api for Indian Driving Dataset(IDD) in windows 10",
+      "excerpt": "This blog explains how to build a custom object detection model using tensorflow object detection api considering huge data of IDD. The IDD dataset consists of images obtained from a front facing ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/analytics-vidhya/tensorflow-object-detection-api-for-indian-driving-dataset-idd-in-windows-10-f1f99c19b110",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-07T02:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/0*VQ1zTOIB3CdlMSjI",
+          "width": 1200,
+          "height": 1611,
+          "title": "Tensorflow object detection api for Indian Driving Dataset(IDD) in windows 10",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-07-coronavirus-outbreak-googles-deepmind-ai-is-helping-scientists-better-understand-covid-19-find-cure.md",
+      "title": "Coronavirus Outbreak: Google’s Deepmind AI is helping scientists better understand Covid-19, find cure",
+      "excerpt": "The tech major has taken it a step further in the case of Coronavirus outbreak. Its DeepMind is putting its assets of Artificial intelligence to help scientists understand the peculiar features of the virus that has the potential to be a pandemic. The latest version of its Alphafold technology has been assigned the task to predict the ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.financialexpress.com/industry/technology/coronavirus-outbreak-googles-deepmind-ai-is-helping-scientists-better-understand-covid-19-find-cure/1891761/",
+      "ampWebUrl": "https://www.financialexpress.com/industry/technology/coronavirus-outbreak-googles-deepmind-ai-is-helping-scientists-better-understand-covid-19-find-cure/1891761/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/coronavirus-outbreak-googles-deepmind-ai-is-helping-scientists-better-understand-covid-19-find-cure/1891761/lite/",
+      "publishedDateTime": "2020-03-07T01:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-07-application-of-computer-vision-in-precision-agriculture-farming.md",
+      "title": "Application of Computer Vision in Precision Agriculture & Farming",
+      "excerpt": "But now AI in agriculture is boosting this sector using the power computer vision technology, to train the machines for better productivity in agro and farming. Actually, high-labor cost and ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/vsinghbisen/application-of-computer-vision-in-precision-agriculture-farming-79b0600d5a5d",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-07T01:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*ocyh2KDUta4JcMB-FHMFbg.jpeg",
+          "width": 1200,
+          "height": 813,
+          "title": "Application of Computer Vision in Precision Agriculture & Farming",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-07-tensorflow-to-expand-ai-capabilities-into-mobile-iot-javascript.md",
+      "title": "TensorFlow to expand AI capabilities into mobile, IoT, JavaScript",
+      "excerpt": "It has been three years since the open-source machine learning platform TensorFlow was launched, and now the team is announcing new and ambitious plans for the AI library. The TensorFlow Developer ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://sdtimes.com/ai/tensorflow-to-expand-ai-capabilities-into-mobile-iot-javascript/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-06T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2019/03/hero_720.png",
+          "width": 720,
+          "height": 405,
+          "title": "TensorFlow to expand AI capabilities into mobile, IoT, JavaScript",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-06-its-like-you-have-a-hand-again-a-major-breakthrough-in-robotic-limb-technology.md",
+      "title": "'It's like you have a hand again' — A major breakthrough in robotic limb technology",
+      "excerpt": "They're claiming it as a major advance in mind-controlled prosthetics ... \"It's just been really hard to do because the physics is not in your favour.\" While the robotic technology in prosthetic hands has come a long way in recent years, the way ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cbc.ca/radio/quirks/mar-7-new-technology-gives-amputees-a-hand-a-big-dam-proposal-your-dog-s-heat-sensitive-nose-and-more-1.5486967/it-s-like-you-have-a-hand-again-a-major-breakthrough-in-robotic-limb-technology-1.5486974",
+      "ampWebUrl": "https://www.cbc.ca/amp/1.5486974",
+      "cdnAmpWebUrl": "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.5486974",
+      "publishedDateTime": "2020-03-06T13:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBC.ca",
+        "domain": "www.cbc.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.cbc.ca/1.5488452.1583513963!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/mind-control-prosthesis-university-of-michigan.jpg",
+          "width": 620,
+          "height": 349,
+          "title": "'It's like you have a hand again' — A major breakthrough in robotic limb technology",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-06-googles-deepmind-just-shared-ai-generated-predictions-about-the-coronavirus-that-could-help-researchers-stem-the-global-outbreak.md",
       "title": "Google's DeepMind just shared AI-generated predictions about the coronavirus that could help researchers stem the global outbreak",
       "excerpt": "DeepMind, Google's AI unit, is joining the global effort learn more about COVID-19, as the disease's toll spreads rapidly throughout much of the world. The UK-based team just used DeepMind's new ...",
@@ -733,228 +979,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-05-its-like-you-have-a-hand-again-ultra-precise-mind-controlled-prosthetic-developed.md",
-      "title": "‘It’s like you have a hand again’: Ultra-precise mind-controlled prosthetic developed",
-      "excerpt": "The scientists tapped faint, latent signals from arm nerves and amplified them to enable real-time, intuitive, finger-level control of a robotic hand. To achieve this, they developed a way to tame ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.express.co.uk/news/science/1251194/science-news-telepathic-mind-controlled-prosthetic-hand-amputees",
-      "ampWebUrl": "https://www.express.co.uk/news/science/1251194/science-news-telepathic-mind-controlled-prosthetic-hand-amputees/amp",
-      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/science/1251194/science-news-telepathic-mind-controlled-prosthetic-hand-amputees/amp",
-      "publishedDateTime": "2020-03-05T02:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Express",
-        "domain": "express.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.images.express.co.uk/img/dynamic/151/590x/science-news-telepathic-mind-controlled-prosthetic-hand-amputees-1251194.jpg?r=1583402891475",
-          "width": 590,
-          "height": 350,
-          "title": "‘It’s like you have a hand again’: Ultra-precise mind-controlled prosthetic developed",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-05-cisco-and-microsoft-partner-on-cloud-iot-stuff.md",
-      "title": "Cisco and Microsoft partner on cloud IoT stuff",
-      "excerpt": "The thinking is that Microsoft’s Azure IoT platform is great at the datacenter ... global connectivity, advance analytics, and cognitive services for analyzing IoT data.” “This partnership between Cisco and Azure IoT will significantly simplify ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://telecoms.com/502899/cisco-and-microsoft-partner-on-cloud-iot-stuff/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-05T02:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Telecoms",
-        "domain": "telecoms.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://servedby.informatm.com/avw.php?zoneid=1472&cb=1420915497594&n=a5477f91",
-          "width": 300,
-          "height": 250,
-          "title": "Cisco and Microsoft partner on cloud IoT stuff",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-05-using-a-robotic-arm-on-wheels-to-fight-coronavirus.md",
-      "title": "Using a robotic 'arm on wheels' to fight coronavirus",
-      "excerpt": "Using a robotic 'arm on wheels' to fight coronavirus Posted Researchers in China have developed a robot which they hope will help doctors who are working with coronavirus patients on the frontlines.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://in.reuters.com/video/watch/idOVC3S699N",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-05T01:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static.reuters.com/resources/r/?d=20200305&i=OVC3S699N&r=OVC3S699N&t=2",
-          "width": 960,
-          "height": 540,
-          "title": "Using a robotic 'arm on wheels' to fight coronavirus",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-05-scientists-devise-prosthetic-arm-controlled-by-mind.md",
-      "title": "Scientists devise prosthetic arm controlled by mind",
-      "excerpt": "Scientists have devised a mind-controlled prosthetic arm that is so dexterous it ... The messages are sent to a robotic hand, allowing the correct finger or thumb to move in the intended way. Scientists believe that it could change the way that amputees ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.thetimes.co.uk/article/scientists-devise-prosthetic-arm-controlled-by-mind-89532xsvn",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-04T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Times",
-        "domain": "thetimes.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fe9fde808-5e50-11ea-9891-dcb2edabd2b0.jpg?crop=1557%2C876%2C0%2C81&resize=685",
-          "width": 685,
-          "height": 385,
-          "title": "Scientists devise prosthetic arm controlled by mind",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-05-a-new-model-of-vision.md",
-      "title": "A new model of vision",
-      "excerpt": "Researchers have developed a computer model of face processing that could reveal how the brain produces richly detailed visual representations so quickly. When we open our eyes, we immediately see ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.sciencedaily.com/releases/2020/03/200305002834.htm",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-04T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-05-platesmart-recognized-with-fifth-govies-award.md",
-      "title": "PlateSmart Recognized with Fifth Govies Award",
-      "excerpt": "The software offers true object recognition instead of simple optical character recognition (OCR), which allows it to read the plate as well as the state jurisdiction and vehicle make. PlateSmart has earned multiple industry awards for excellence in ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.newswiretoday.com/news/172515/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-04T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newswire Today",
-        "domain": "newswiretoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

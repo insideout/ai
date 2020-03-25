@@ -2,6 +2,257 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2020-01-23-mobile-artificial-intelligence-market-continue-to-grow-as-industry-spends-big-to-reclaim-market-2029.md",
+      "title": "Mobile Artificial Intelligence Market Continue to Grow as Industry Spends Big to Reclaim Market 2029",
+      "excerpt": "A recent market research analysis titled, Mobile Artificial Intelligence Market offers insightful information to the clients escalating their basic leadership size explores distinct significant facets associated with Mobile Artificial Intelligence market covering industry surroundings,",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/mobile-artificial-intelligence-market-continue-to-grow-as-industry-spends-big-to-reclaim-market-2029-2020-01-23",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-22T22:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Mobile Artificial Intelligence Market Continue to Grow as Industry Spends Big to Reclaim Market 2029",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-23-in-black-and-white-counting-penguins-gets-easier-with-ai-computer-vision.md",
+      "title": "In black and white: Counting penguins gets easier with AI, computer vision",
+      "excerpt": "Antarctica’s immensely popular penguins, whose numbers are declining alarmingly, could soon count on artificial intelligence (AI) and computer vision to come to their rescue. Microsoft and ...",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.thehindubusinessline.com/info-tech/in-black-and-white-counting-penguins-gets-easier-with-ai-computer-vision/article30631436.ece",
+      "ampWebUrl": "https://www.thehindubusinessline.com/info-tech/in-black-and-white-counting-penguins-gets-easier-with-ai-computer-vision/article30631436.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/in-black-and-white-counting-penguins-gets-easier-with-ai-computer-vision/article30631436.ece/amp/",
+      "publishedDateTime": "2020-01-22T21:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.thehindubusinessline.com/opinion/columns/thomas-k-thomas/75lkp6/article30118113.ece/ALTERNATES/LANDSCAPE_615/BL30Thinktech",
+          "width": 615,
+          "height": 384,
+          "title": "In black and white: Counting penguins gets easier with AI, computer vision",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-01-23-ai-startup-eightfold-hires-first-finance-chief-as-it-eyes-expansion-potential-ipo.md",
+      "title": "AI Startup Eightfold Hires First Finance Chief As it Eyes Expansion, Potential IPO",
+      "excerpt": "The Mountain View, Calif.-based startup last week named Celia Poon as its finance chief.",
+      "heat": 181,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/ai-startup-eightfold-hires-first-finance-chief-as-it-eyes-expansion-potential-ipo-11579733520",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/ai-startup-eightfold-hires-first-finance-chief-as-it-eyes-expansion-potential-ipo-11579733520",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-startup-eightfold-hires-first-finance-chief-as-it-eyes-expansion-potential-ipo-11579733520",
+      "publishedDateTime": "2020-01-22T19:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-146435/social",
+          "width": 1280,
+          "height": 640,
+          "title": "AI Startup Eightfold Hires First Finance Chief As it Eyes Expansion, Potential IPO",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-23-babylon-health-is-building-an-integrated-ai-based-health-app-to-serve-a-city-of-300k-in-england.md",
+      "title": "Babylon Health is building an integrated, AI-based health app to serve a city of 300K in England",
+      "excerpt": "After announcing a $550 million fundraise last August, U.K. AI-based health services startup Babylon Health is putting some of that money to use with its widest-ranging project to date. The company has inked a 10-year deal with the city of Wolverhampton in England to provide an integrated health app covering 300,000 people, the entire ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/01/22/babylon-health-is-building-an-integrated-ai-based-health-app-to-serve-a-city-of-300k-in-england/",
+      "ampWebUrl": "https://techcrunch.com/2020/01/22/babylon-health-is-building-an-integrated-ai-based-health-app-to-serve-a-city-of-300k-in-england/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/22/babylon-health-is-building-an-integrated-ai-based-health-app-to-serve-a-city-of-300k-in-england/amp/",
+      "publishedDateTime": "2020-01-22T18:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/05/GettyImages-187137135.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": "Babylon Health is building an integrated, AI-based health app to serve a city of 300K in England",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-23-mumbai-based-salaam-bombay-foundation-is-introducing-robotics-to-underprivileged-children-across-india.md",
+      "title": "Mumbai-based Salaam Bombay Foundation is introducing robotics to underprivileged children across India",
+      "excerpt": "Be it movies like Star Wars and Star Trek or Marvel and DC characters, we all have grown up watching them. And in the process, we loved the futuristic plot lines that were riddled with subjects like artificial intelligence, robotics, automation, quantum physics, and many more, that explained the existence of the universe. While many are ...",
+      "heat": 73,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://yourstory.com/socialstory/2020/01/mumbai-based-salaam-bombay-foundation-skill-at-school-robotics",
+      "ampWebUrl": "https://yourstory.com/socialstory/2020/01/mumbai-based-salaam-bombay-foundation-skill-at-school-robotics/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/socialstory/2020/01/mumbai-based-salaam-bombay-foundation-skill-at-school-robotics/amp",
+      "publishedDateTime": "2020-01-22T18:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/5/4e0288202dda11e9b78a8b7eb69eb573/Untitleddesign-2020-01-22T201110-1579704162630.jpg?fm=png&auto=format",
+          "width": 800,
+          "height": 400,
+          "title": "Mumbai-based Salaam Bombay Foundation is introducing robotics to underprivileged children across India",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-01-23-what-cruises-self-driving-vehicle-reveals-about-gms-giant-ev-ambitions.md",
+      "title": "What Cruise’s self-driving vehicle reveals about GM’s giant EV ambitions",
+      "excerpt": "As Electrek reported, Cruise yesterday unveiled its van-like, self-driving, all-electric vehicle. For the past four years, Cruise (a GM subsidiary) has been repurposing Chevy Bolts — including its four-generation self-driving Bolt that doesn’t have a steering wheel. But now GM’s Cruise has the Origin. The two essential things to consider ...",
+      "heat": 93,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://electrek.co/2020/01/22/what-cruises-self-driving-vehicle-reveals-about-gms-giant-ev-ambitions/",
+      "ampWebUrl": "https://electrek.co/2020/01/22/what-cruises-self-driving-vehicle-reveals-about-gms-giant-ev-ambitions/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/01/22/what-cruises-self-driving-vehicle-reveals-about-gms-giant-ev-ambitions/amp/",
+      "publishedDateTime": "2020-01-22T16:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://electrek.co/wp-content/uploads/sites/3/2020/01/origin-sunset-2000.jpg?quality=82&strip=all&w=1000",
+          "width": 1000,
+          "height": 500,
+          "title": "What Cruise’s self-driving vehicle reveals about GM’s giant EV ambitions",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-01-23-california-robotics-company-sues-business-partner-over-ai-ocean-vehicle.md",
       "title": "California Robotics Company Sues Business Partner Over AI Ocean Vehicle",
       "excerpt": "Los Angeles County robotics company Apium sued a maritime vehicles manufacturer for breach of contract and trade secret misappropriation in federal court Wednesday. Apium partnered with Aquabotix Technology Corp. in the competitive and fast-moving artificial intelligence space to develop robots that could swarm in the ocean, according to a ...",
@@ -1029,239 +1280,6 @@
           "width": 1024,
           "height": 682,
           "title": "ServiceNow acquires Loom Systems to expand AIOps coverage",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-22-agency-from-william-gibson-splits-the-seams-between-ai-and-humans.md",
-      "title": "Agency from William Gibson splits the seams between AI and humans",
-      "excerpt": "It involves Bay Area tech startups and AR headsets, spinning a vibe that doesn't feel far off from the life I actually live right now covering emergent tech. There's a mysterious AI program: an assistant, a person, named Eunice. Someone. I don't want to give much more away. I'd prefer you let the book take you on this journey. Eunice meets and ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/news/agency-from-william-gibson-splits-the-seams-between-ai-and-humans/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/agency-from-william-gibson-splits-the-seams-between-ai-and-humans/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/agency-from-william-gibson-splits-the-seams-between-ai-and-humans/",
-      "publishedDateTime": "2020-01-22T05:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet3.cbsistatic.com/img/6eQsnz77aQNhAqQrV6v1SBzBXdc=/756x567/2020/01/21/aaa44387-8e97-463e-bef4-c4adcb32b2e8/william-gibson.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "Agency from William Gibson splits the seams between AI and humans",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-22-pathfactory-and-6sense-join-forces-to-equip-abm-marketers-with-unrivalled-dataset.md",
-      "title": "PathFactory and 6sense Join Forces To Equip ABM Marketers With Unrivalled Dataset",
-      "excerpt": "TORONTO, Jan. 22, 2020 /PRNewswire-PRWeb/ -- PathFactory (the leader in content intelligence) announced a partnership today with 6sense (the leading Account Based Orchestration Platform, powered by AI) that will give marketers complete visibility into the quality of account engagement,",
-      "heat": 117,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/01/n15163274/pathfactory-and-6sense-join-forces-to-equip-abm-marketers-with-unrivalled-dataset",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15163274",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15163274",
-      "publishedDateTime": "2020-01-22T05:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-22-the-changing-face-of-the-cashier.md",
-      "title": "The Changing Face Of The Cashier",
-      "excerpt": "Convenience is king, and today's consumers are demanding a frictionless, omnichannel in-store experience that is personalized and efficient.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/22/the-changing-face-of-the-cashier/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/22/the-changing-face-of-the-cashier/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/22/the-changing-face-of-the-cashier/amp/",
-      "publishedDateTime": "2020-01-22T04:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1152642020/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 474,
-          "title": "The Changing Face Of The Cashier",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-01-22-oakland-startup-nets-221m-to-build-out-whats-no-longer-science-fiction.md",
-      "title": "Oakland startup nets $22.1M to build out what's 'no longer science fiction'",
-      "excerpt": "When Sean Byrnes started his automated data analytics company, Outlier, in 2015 the idea of using artificial intelligence to boil down the massive amounts of data businesses collect into a few valuable insights sounded like science fiction.",
-      "heat": 140,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bizjournals.com/sanfrancisco/news/2020/01/22/oakland-startup-nets-22-1m-to-build-out-whats-no.html",
-      "ampWebUrl": "https://www.bizjournals.com/sanfrancisco/news/2020/01/22/oakland-startup-nets-22-1m-to-build-out-whats-no.amp.html",
-      "cdnAmpWebUrl": "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanfrancisco/news/2020/01/22/oakland-startup-nets-22-1m-to-build-out-whats-no.amp.html",
-      "publishedDateTime": "2020-01-22T04:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.bizj.us/view/img/11585539/sean-byrnes-horizontal*600xx3917-2620-288-433.jpg",
-          "width": 600,
-          "height": 401,
-          "title": "Oakland startup nets $22.1M to build out what's 'no longer science fiction'",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-22-bring-back-play-store-update-notifications-with-this-free-app.md",
-      "title": "Bring back Play Store update notifications with this free app",
-      "excerpt": "In a recent move to reduce unnecessary notifications, the Play Store no longer confirms when apps are updated in the background. While this may not be a big deal for most users, it's ...",
-      "heat": 142,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.androidpolice.com/2020/01/22/bring-back-play-store-update-notifications-with-this-free-app/",
-      "ampWebUrl": "https://www.androidpolice.com/2020/01/22/bring-back-play-store-update-notifications-with-this-free-app/?amp",
-      "cdnAmpWebUrl": "https://www-androidpolice-com.cdn.ampproject.org/c/s/www.androidpolice.com/2020/01/22/bring-back-play-store-update-notifications-with-this-free-app/?amp",
-      "publishedDateTime": "2020-01-22T04:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Police",
-        "domain": "androidpolice.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.androidpolice.com/wp-content/uploads/2020/01/AppNotifier-Hero.png",
-          "width": 803,
-          "height": 485,
-          "title": "Bring back Play Store update notifications with this free app",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-22-why-the-hybrid-ai-compromise-isnt-a-solution-at-all.md",
-      "title": "Why the hybrid AI compromise isn’t a solution at all",
-      "excerpt": "In recent years, AI has emerged as an undisputed competitive advantage, which means smart business leaders facing the digital transformation have some really familiar questions: How do you measure success? What questions do you need to ask to ensure that you’re making the right decisions right out of the gate? And most importantly ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/22/why-the-hybrid-ai-compromise-isnt-a-solution-at-all/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/22/why-the-hybrid-ai-compromise-isnt-a-solution-at-all/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/22/why-the-hybrid-ai-compromise-isnt-a-solution-at-all/amp/",
-      "publishedDateTime": "2020-01-22T04:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/GettyImages-172856538.jpg?fit=3398%2C1704&strip=all",
-          "width": 3398,
-          "height": 1704,
-          "title": "Why the hybrid AI compromise isn’t a solution at all",
           "attribution": null
         }
       ],

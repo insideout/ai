@@ -7,9 +7,9 @@ webUrl: "https://www.theregister.co.uk/2020/03/25/azure_stack_edge_gpu/"
 ampWebUrl: "https://www.theregister.co.uk/AMP/2020/03/25/azure_stack_edge_gpu/"
 cdnAmpWebUrl: "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/03/25/azure_stack_edge_gpu/"
 type: article
-quality: 54
-heat: 54
-published: false
+quality: 71
+heat: 71
+published: true
 
 provider:
   name: The Register
@@ -18,6 +18,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AI Hardware
 
 images:
   - url: "https://regmedia.co.uk/2019/05/30/lonely.jpg"

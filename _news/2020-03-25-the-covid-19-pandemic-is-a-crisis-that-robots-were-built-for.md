@@ -8,7 +8,7 @@ ampWebUrl: "https://www.wired.com/story/covid-19-pandemic-robots/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/covid-19-pandemic-robots/amp"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -56,18 +56,7 @@ related:
       - url: "https://www.eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg"
         width: 900
         height: 300
-  - title: "Robots could help us combat future pandemics. Here's how experts wish they could help us now"
-    excerpt: "Although many people around the world are practicing social distancing during the coronavirus pandemic, those on the frontlines fighting the virus can't stay home. Experts agree that robots could take over the \"dull,"
-    publishedDateTime: 2020-03-25T18:12:00Z
-    webUrl: "https://www.wral.com/robots-could-help-us-combat-future-pandemics-heres-how-experts-wish-they-could-help-us-now/19028736/"
-    ampWebUrl: "https://www.wral.com/robots-could-help-us-combat-future-pandemics-heres-how-experts-wish-they-could-help-us-now/19028736/?version=amp"
-    cdnAmpWebUrl: "https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/robots-could-help-us-combat-future-pandemics-heres-how-experts-wish-they-could-help-us-now/19028736/?version=amp"
-    type: article
-    provider:
-      name: WRAL
-      domain: wral.com
-    quality: 28
 
-secured: "stQ19gKfgBxJi/QK4egBkHPvXFmkVdLH4489+x0/CBF5C7eNQTF6jsKFsQ3GabKYIC27zzpUtw7RTGMkkZ1ywECT+hu5x92VlOryQJbGCC6zln8cPFaEyYwlUUSEWddqpZPSjPmbeQQxxS1raIKyifxd0eLqak+6QE3SJiZpZt3p6Q8hggl4dY9q1P2fZwG6SvIJVvoDpjqJMVw0jvhfgBP21vQITDFyKJ9KnRQrOWSKFSb46M5uUT6YqcfSmGzSago2QqXjtqL2NhpCI1Hz9xce0gbRflOyGg6mb7O8+peRuitAmCJpDeSP7MERmnGS;t5D+9STLHPN7tOLB6a14ag=="
+secured: "PBqJrlinP++mPm6GY6ebBth134Z5vw4yOIFv7qlLxMyQ8xdoo1fDdYUWzO16cPGrwf1clD+y39zfFMrQEessWTciEHAdqUt0pp/9tY8wNviRubQ0wXa3ElHg2GLGk0iUdeCrzXHHM7+PwDOA2YVeNgc60b8jw3YEdAbDTUzNDMIO8xX5E2zvIa5yayU3MgIBfV7GlNl2nergiMdUjlDiPthtXL8ZjVjbwqG3GCv0V1xy6YCcqaJ+2/mNIGsIMF5chjFdfiJL7b09TelbbcziZQz7V4zJiHXTLY0Y0RJ/Qy9tiKrvZ6JV1trPckw5II2n+7eCrHJNyBWf0jqGXwPx8ApKHp0vRy8xETIkkmM4uSDqT3pjtrCulY0PG48k/D+Gh5o5o7r8NgIXRZP3QsOOr4DP+ySV0HwilZybpbi34avsJ/BosY2gC0GHv+k8CF5OUgkOog4+X2wEmXZ/eAM4hs0iNilL+ycclG8qcuQBhog=;TN7wzlu3LUUgkkhf7zFfyw=="
 ---
 
