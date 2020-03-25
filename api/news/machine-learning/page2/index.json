@@ -2,6 +2,43 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-03-17-composing-new-proteins-with-artificial-intelligence.md",
+      "title": "Composing new proteins with artificial intelligence",
+      "excerpt": "The specific sounds generated, determined by the way a protein folds, can be used to train deep learning neural networks. \"These networks learn to understand the complex language folded proteins speak at multiple time scales,\" said Markus J. Buehler, from the Massachusetts Institute of Technology. \"And once the computer has been given a seed of ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.eurekalert.org/pub_releases/2020-03/aiop-cnp031220.php",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-17T08:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.eurekalert.org/multimedia/pub/web/226903_web.jpg",
+          "width": 1440,
+          "height": 1205,
+          "title": "Composing new proteins with artificial intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-17-scientists-use-artificial-intelligence-to-create-new-proteins-unseen-in-nature.md",
       "title": "Scientists use artificial intelligence to create new proteins unseen in nature",
       "excerpt": "The resulting “musical scores” which are generated depending on how a protein folds were fed into a deep learning neural network. These artificial neural networks are computational algorithms that mimic the behavior of human interconnected neurons to process and learn from large amounts of information in a similar way to how the brain ...",
@@ -1096,51 +1133,6 @@
           "width": 1200,
           "height": 733,
           "title": "Predictive modelling & AutoML: Which AI provider to choose",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-08-how-does-carticaai-change-the-world-of-artificial-intelligence.md",
-      "title": "How does Cartica.AI change the world of Artificial Intelligence?",
-      "excerpt": "So if traffic signs are partly covered, dirty or bended, trucks have a odd load, pedestrians are particularly small or tall or they wear different clothing, that is a problem for traditional neural networks. As a solution more cases have to been taught as an attempt to cover mostly all possible edge cases. Traditional deep learning requires ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.linkedin.com/pulse/how-does-carticaai-change-world-artificial-dr-karl-thomas-neumann",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-08T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C5612AQHbGmNc02j0JQ/article-cover_image-shrink_600_2000/0?e=1590624000&v=beta&t=0IFQyP9TYpTYIIzH8YNV3ZBzBQbHIq_vhRDZUatx9ug",
-          "width": 485,
-          "height": 390,
-          "title": "How does Cartica.AI change the world of Artificial Intelligence?",
           "attribution": null
         }
       ],

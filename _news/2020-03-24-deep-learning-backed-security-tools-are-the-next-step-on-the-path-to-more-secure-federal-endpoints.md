@@ -23,6 +23,6 @@ images:
     height: 1260
     title: "Deep-Learning-Backed Security Tools Are The Next Step On The Path To More Secure Federal Endpoints"
 
-secured: "DuK7Cou2WBZiJBQOgInsd1ZIckyfFhkCDzhzpZglP1kBwjrFFJP7nI/kbo1EcM6lCCmnyUUxmQO/wb2YkLAHfwgVzQA2wlVzAzmKq8xVZMwnfSwuVH605GBa0EWgEbJVOF0TPOz7HeIBDdrxij+Z+A4+bXAkeLTReIcm2EUKgD3PJl9lLkzSbAo/fNZMQC0YbSya6861XKu4EZr2+24D0KS8xDayRLMkRoohYKzAUh3XGxkU+C7s7eLHnbYHTlmpZyiAJnbz8rQ4pJNSwVDq1kOoMIpAo3maZSnluHouUe5WWRTXTjzD+ITD2/J5yeY2;aFKy1ObyFMc12R6YMhvVzw=="
+secured: "2w/fi3sJMFL5Gf+HMSF6Dwzv7dt6zOErb3kmDgqNJoBz1Yb+z6htB9npfmCJ4jHwCc6P4I6/b6DwfKZuILuDAKI7M/Ud2qyXeCPghClRbFWdOqxfFotJ1utqt+V/Q+Qh7Dv4P0pIYjKLsAKfsaMhXYitCdl/b15G8n6/G2A+In3eLSovsxZgjsjWWTMP7eAGE3rc5mWU+Nxw/cFNlrhQjRarAjdw11GyK11N5BhBrXOoxxfsGD1YuTK/g8aWm3zJ4ybTsx/4pZejomO3JbU07lwQJpoJC1vtAH+GQP4Gbon4WJ18XON5D/o7N4lgWg4sip5NyZXNi2NzKMj6cXpkgtAIZ7BWiXdWDIKejrr8sHoJP+9RjAyx7i7aoA1WBfXTXCRqzu0V5L8U1TRPnA5w3AudxhMVRJ7fu52/IKT9ouEeJxXNMl3BtzQvq4nW9gU8v5tnQR3RVdnZztmR2a7QlWPG0o5Ol8U+QTGOO5U2Yzs=;ZPVRqyB10ou0xhruArAL2Q=="
 ---
 

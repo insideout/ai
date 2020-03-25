@@ -2,6 +2,43 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-03-10-hazelcast-speeds-time-to-market-for-operationalization-of-machine-learning-in-enterprise-applications.md",
+      "title": "Hazelcast Speeds Time-to-Market for Operationalization of Machine Learning in Enterprise Applications",
+      "excerpt": "models into ultra-low latency production with its support for running native Python- or Java-based models at real-time speeds. The latest release of the event stream processing engine, Hazelcast Jet,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.prnewswire.com/news-releases/hazelcast-speeds-time-to-market-for-operationalization-of-machine-learning-in-enterprise-applications-301020461.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-10T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/972766/Hazelcast_Logo.jpg?p=facebook",
+          "width": 799,
+          "height": 419,
+          "title": "Hazelcast Speeds Time-to-Market for Operationalization of Machine Learning in Enterprise Applications",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-10-aci-worldwide-launches-advanced-machine-learning-capability-to-dramatically-reduce-payment-fraud-for-banks-and-merchants-and-their-customers.md",
       "title": "ACI Worldwide Launches Advanced Machine Learning Capability to Dramatically Reduce Payment Fraud for Banks and Merchants and Their Customers",
       "excerpt": "“Traditional machine learning models in many cases are not sufficient to stop fraudsters in their ... “We are the first vendor globally to roll out the new Incremental Learning technology across the merchants, payments and financial services sectors,” commented Fabian Gloerfeld, head of Payments Intelligence, ACI Worldwide.",
@@ -1215,51 +1252,6 @@
           "width": 2173,
           "height": 1082,
           "title": "How Bank of America uses AI to improve customer service and take on competitors",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-01-22-how-machine-learning-is-helping-credit-karma-reintroduce-itself-to-users.md",
-      "title": "How machine learning is helping Credit Karma reintroduce itself to users",
-      "excerpt": "But it's only recently that the company is turning to machine learning to make sense of hundreds of billions of data points and deliver personalized insights and recommendations to individual members at scale. When it launched in 2008 at the height of the financial crisis, Credit Karma's primary service leveraged credit report data to help ...",
-      "heat": 73,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/how-machine-learning-is-helping-credit-karma-reintroduce-its-brand-to-users/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-machine-learning-is-helping-credit-karma-reintroduce-its-brand-to-users/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-machine-learning-is-helping-credit-karma-reintroduce-its-brand-to-users/",
-      "publishedDateTime": "2020-01-22T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2018/07/26/04dbf63a-2aa4-480b-ad61-5d857987ba31/thumbnail/1200x675/8929444376cb1c585bcdc20bc3026ca3/creditkarmathumbnail.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "How machine learning is helping Credit Karma reintroduce itself to users",
           "attribution": null
         }
       ],
