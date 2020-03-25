@@ -22,6 +22,6 @@ images:
     height: 627
     title: "Perfect Corp.’s YouCam AI Skin Tech Is Honored with the 2020 Artificial Intelligence Excellence Award for Outstanding Innovation"
 
-secured: "dI5gP0Cw9JwVJ5x8CJXHYGjG6Wlnywwj/4p5qegEKcgV+Rn5zv0BXbjsKCIVZM6szD3sbakD2SG6mSNpFHrKurfH/TBm6TyXcLX9Lp9t/nbIG2xKJpMQNajzwk1h5wXjMYxPvDvJMvVP1Tyhy7X+6StVhFSrSI33R8e4eefcbiZIlElqAb5R1YWW/yb2g9Rk3T6L+Kd1thpHNR/j77VS9oniYf6RJb0DDsYNOirLWJjgISR9evSv2RllKsgKuadHY1TJ1EOU614kHPLGd/GMn0CrTrsN9NiAkkDFJV6NGoHWjcsOkCyRTkb3waoxrIxL;grodHrB+ifR2/7P8aoyMRQ=="
+secured: "X+jvCV0zM/EF7TLHoCxNufYshpdlknt9yytoZnZ+JsxPCkZ1DWlTgy3xkCWuGFoLKot/Ap3/bO1yzcIFFK050eQPvzsr7n3bqIsTwDn1DsTxCIuXe/COB36cEnp+51cjCEBo3UAWVharqBY4oaTSzxxpCGj1OJ97nrzzKi0K81fhYLXhSPEu1G0xGEwMF/CDINrfN03g9aOJzfcjn86xRBJQnyZuefy0iDwYi05BqXCNRxXVo2XKtPmm+28IXbBQ4gEYv5PXLrbvsyPPQKXZ/oJ+iw60C2cRVeiaFl26rdDuSxRGX2ix0LUdVodTnqoNXe4Ktd0y5sYqF+WOP23ugmLp+ToJ2d0RxlrMfEktDWWVhEjc/I6+4TlP5FogeKlERhgY4xzqHoQfk6e7ldPk9UytsF0HbWw8mpCY1zyWFUvcRQ2Ngt+qjm4NVV7b9vFejUemS8xX+rI7llUC9+3ZoO4R6g/aDl5VWuD8EvaAqac=;Py8wNsHDk0rWwPZzUnxeJw=="
 ---
 

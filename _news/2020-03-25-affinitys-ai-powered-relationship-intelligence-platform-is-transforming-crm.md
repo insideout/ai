@@ -8,8 +8,8 @@ ampWebUrl: "https://www.clickz.com/affinitys-ai-powered-relationship-intelligenc
 cdnAmpWebUrl: "https://www-clickz-com.cdn.ampproject.org/c/s/www.clickz.com/affinitys-ai-powered-relationship-intelligence-platform-is-transforming-crm/260926/amp/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: ClickZ
@@ -40,6 +40,15 @@ related:
       - url: "https://images.martechadvisor.com/images/uploads/content_images/informatica_updates_its_intelligent_data_platform_5e7b246953c78.jpg"
         width: 786
         height: 514
+  - title: "ResoluteAI Partners with FinTech Studios to Integrate News Database into Foundation Research Platform"
+    excerpt: "ResoluteAI, the Connect to Discover((TM)) company, today announced the addition of a News dataset to their Foundation search platform for scientific content. In"
+    publishedDateTime: 2020-03-25T11:20:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/resoluteai-partners-with-fintech-studios-to-integrate-news-database-into/article_7a1f1efa-2a69-5fd3-a3fe-6efbff05e56a.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 4
 
 secured: "rraHnZ+JiK1enIg+PILzBnts+269Yu1UtTr+MwZ+jK/ywKuttCAUwA1EUxDusHDnADagnRl7KypKHCjrMBZawfB64m9IPSYluW1lmnYtFVHGB0PutYrl3Ae63P0Y21Oi4MLoL0zkt8OsQB93y3Pw11mK3UqYaHTjRbpEtRjuaTNAc4C/lxn0kW4nfXoDc3V5QiFSTHDU4B2JC2Rq74Rg9RbPr99h8MkWuay4/J8m9QSoTbiTq4X0n6Ozc/KuMPd4Iir8sv0ANrgEaqAevhbXBrKZbUN2PuY0n1C2CwoNho2ZKuPRZvOFcF1juebS+jn+BXOia07nvy28AByXFBIUMu/JWq171nx6bpiyLoStaHtiJ3JLia3Ge2aSZnnOp3UKllj8o8zT6iVIIhGmURLdPlw1wtIkAVd0PSg6U57cWLWYCNXdYg4o3z4eHvQr4nw7LLLhfo5ZxbWXrXrmYwlp5JHccV8kBBVwp91B2c1zyc8=;Pjcmp6rNpmGhsSEddO8aNA=="
 ---

@@ -28,6 +28,6 @@ images:
     height: 417
     title: "Facial recognition and AI will invade public privacy — but it can be done ethically"
 
-secured: "Zn/CyibJt3gz5CMhEV/oDV6xbHRyYPqLmZilCM9hEzg+8gSLTX7HQTOPHkS5fg7YIOIpbk7hWupNvHep/NR5t5atXhPO54ID/upElk2Vlu5/wcj/wg67qv/Vzqh4llOw4c7EUermbHFWX5ctbxVhtAODXysmVxY8JAi97snHvumC/R1tF2cMiFJORMomY2Nf5xOXp/cykFS+QSYbNmajThoWkCRLD+DscR/hXyQQ9qBQ9Hte11PlRFQqli/UI18hdv4UBWpA6nAVwiMJKQF1dT7YJ9gFmiOn2BvLC91Q1PdUfynFTb6odMxhNCjw4cK7;wPAKqXJzn/7hrtZpUdpwMQ=="
+secured: "JTXMrs9EGZVM1vKDhjzAoVxj/qiFaMIXoaxMO5A7r1mryHpuq9eL+KMaE7Vrt+dcg0xAFwDSfaTAz/egiQ4t+No+DGTc5KoBspK3sMD2Bgx0I/oGWbRLmH91/C8NkZYAs2I5Egmatb8rA99n2niFbWqm+xIwu82yBD0uJtMNSCxlZ71Tv8GtVXyUm0vamAgUjgTBO7Vw+A7vcUJpOXzHhyK8I7o2D3QhHfmMiJplBPec+jRNZu8/iJXKyswFgxG7EgWzSyqFZTRrDZ75wfCrXDzP1pV/fbURIq005IE06Y+IfLJ/11Rgfe1RRpeG2rE/MJJyzmBtZjSAJhO83KfBWi+oXCzBeADU9788Ww+rPFwdF8sz20T3KdGeaAzH0t0JO40xXMb3MdijeGSBETHLrfZE7L5IFfwyRUzKhT5bRbqswKK4x84s3YFEdl4rgqso4hT2pKb+7ZWgUH4gcDP01j/cxchED9e8v6UbopNM+Oo=;E/WBv9ERtzPU9mMjlTDA+Q=="
 ---
 

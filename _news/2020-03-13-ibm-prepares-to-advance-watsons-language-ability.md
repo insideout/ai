@@ -20,6 +20,6 @@ images:
     height: 681
     title: "IBM prepares to advance Watson’s language ability"
 
-secured: "i5KMY/+doM36zOTNpuvIRqMNsKj+mqTGEANFBRMt4xwGcGClCS/aoDby0FNkpa+PoIa7+Dr/SGUUr4FXs4hagOM2ZnbygeqFlypJmhUK2Tc4NgS2s/m5NwzaqCWp3Z3sfAjvTMX6WIWwbxv0N3i2vmd7FQBWdf44pN4Nnm++9TQeU2b8KcuIGgV2AEh4BLcAoDF3yh13nrNurGUo6RlRuYUoW4r6s8OhL3jygeU8jqhWPseTDOCbTV7mL/2yNGALap/5CruOWsFtakR6iIfg0aSFo1pPLu+Y+rgYcGnC7csARJ/iMU8Xeo+Jv6sBNHt1;kCvDr35zyfRAwbGv1DUpBA=="
+secured: "h3iZ6BJiC1AV3LDVRVq/LelGKLgsrv8NjtoVQ8sVvi0EqfsIz7qGXEBYpIo0gPJKgabnrrRHW4/jwQZ/Ldgw+h3Y5kAHVEe+5thd9jpDAmvvMbdll/jq9ljUoST0/fbbUuC1TS4M9UxaqSDUatYi+3L9vwg18ECsHYVVo5IGiGa8tNsg0dzz53EKQJkbNW4G60sj/y9JG5sRjtmYw9GTAa1GXKYjShJ3zC2MKzGXONoTpqVj2jg8Hq9ABOp+w2szwI71/gZWIauKNXNFxyhi6cG9BvG5/bNrTpuzYMlMy9CGSxmkvk/u2C6GAqBn0tfAl6h4K2lvU1rtKE9i9oGbkOXk+MvX3gHWy0xmxixXmdV8qcGEiFhUeZY4CThgIgDLa1KxL91fwDkh4DDnDGrVaF6AzTQXDVWxLKndN0GyN4Nv5w3K20C0BvhqfXVvJnVQcP02xWGQhphZmCv1nix2ep06dTP5+NqVCDYlgm9RhYg=;CrTQOfLVY9RFB8I/krbA+g=="
 ---
 

@@ -1,23 +1,21 @@
 ---
 category: news
 title: "'It's like you have a hand again': An ultra-precise mind-controlled prosthetic"
-excerpt: "finger-level control of a robotic hand. In a major advance in mind-controlled prosthetics for amputees, University of Michigan researchers have tapped faint, latent signals from arm nerves and ..."
-publishedDateTime: 2020-03-04T00:00:00Z
-webUrl: "https://www.sciencedaily.com/releases/2020/03/200304141641.htm"
+excerpt: "In a major advance in mind-controlled prosthetics for amputees ... finger-level control of a robotic hand. To achieve this, the researchers developed a way to tame temperamental nerve endings ..."
+publishedDateTime: 2020-03-04T19:00:00Z
+webUrl: "https://medicalxpress.com/news/2020-03-ultra-precise-mind-controlled-prosthetic.html"
+ampWebUrl: "https://medicalxpress.com/news/2020-03-ultra-precise-mind-controlled-prosthetic.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-03-ultra-precise-mind-controlled-prosthetic.amp"
 type: article
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://insideout.app/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "/wfL/la/OkUGKEMCBaZYj+TP12i8W4YA/FAikr4wIGD410M2pknaqtmcp0CsigZKS22KxJ0tqWp+3OTcg2J24dYp3LfOZo6wK4vBxg2xnxWpKw7B73Dwb8j1LYez6W46+Z/+ofo8j/zdHhdu8UAMcJvaZ6Oesbbehx1Xzl9MnzMGpSnax43MrDr62lrbpIB99qgoqyq7UFubL/PgbNRnjHT9Av7BUqoUjhGKfk9FlAV1/ybtaddpZu10L7Qd4c+s41UDdGdVWI/yE1kXkbFP4zf1NKwoo15LxhPVpEaxQdmdbXtiIgcIQY2rO/3Yks0J;dVWmlhCbtgxykS3RwwAxOg=="
+secured: "m/znaS2jgQD5j9+0uUD82MQdlEIL+D39Mf8vShm8j6TWwipeJ73yG8K3K85ET332+0duVavh0W74q7MW8hYg6egVzGC0HqeuhqKLh/mwSQLwMwRJ1aO71mjda3UGK6/9E/WvWJd7vXrSuJqej5muFA7+i5eGC36VEmMTIntD3dSwHHvhcJl4lifMAqS3Pfc4WaHAXfF7O2o16hE8iCLZndRsxDxn+IgHwLqGDvoej/TnGj2b/D9UzA92VbeW6vy30N1QMsFr9c4j40YWJPSFty+EQZ0eT3tE6oxSor1n6dnJEYBejopc59n00FoMCC+v;hKOfshe78WuY993ujNP3iw=="
 ---
 
